@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Stuart/Stewart of Rothesay
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,14 +920,14 @@ The nearest existing variants by ΔTartan distance.
 1. [MacKintosh/MacPherson](/setts/s13/r36dg8ly1k6t4k1t1k1t4r11w1k1r1~x2/) — ΔT 0.88
 1. [MacPherson, The Crubin Plaid](/setts/s15/r160k2w1g36ly9r4k1r4ly9t36k9r9ly9r4t3~x2/) — ΔT 0.92
 1. [MacKintosh 8](/setts/s16/r94k3w2g21w3ly3r5k2r5ly3w3y21k7r7ly8w4~x2/) — ΔT 0.93
-1. [Stewart Royal](/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1~x2/) — ΔT 0.96
+1. [Stewart Royal](/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1/) — ΔT 0.96
 1. [Stratford Police PB (Corporate)](/setts/s13/r5t2lo1r45t4w1k4t9t2lo2t2k10w2~x2/) — ΔT 1.02
-1. [Stewart Royal](/setts/s12/r36db4k6ly1k1lr1k1dg8r4k1r2lr1~x2/) — ΔT 1.07
+1. [Stewart Royal](/setts/s12/r36db4k6ly1k1lr1k1dg8r4k1r2lr1~x2/) — ΔT 1.08
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dg7r122db17r12k12ly3k4w3dg48r16k4r6w5/"><circle cx="372.3" cy="36.4" r="4" fill="#3465a4"><title>Stuart/Stewart of Rothesay</title></circle></a><a href="/setts/s13/r36g8ly1k6t4k1t1k1t4r11w1k1r1~x2/"><circle cx="372.5" cy="38.4" r="4" fill="#3465a4"><title>MacKintosh, MacPherson</title></circle></a><a href="/setts/s14/g2r30db4r4k6ly1k1w1k1g10r4k1r1w1~x2/"><circle cx="323.5" cy="41.2" r="4" fill="#3465a4"><title>Stuart / Stewart</title></circle></a><a href="/setts/s14/dg2r30db4r4k6ly1k1w1k1dg10r4k1r1w1~x2/"><circle cx="337.2" cy="43.1" r="4" fill="#3465a4"><title>Stuart/Stewart</title></circle></a><a href="/setts/s13/r36dg8ly1k6t4k1t1k1t4r11w1k1r1~x2/"><circle cx="385.2" cy="39.9" r="4" fill="#3465a4"><title>MacKintosh/MacPherson</title></circle></a><a href="/setts/s15/r160k2w1g36ly9r4k1r4ly9t36k9r9ly9r4t3~x2/"><circle cx="391.0" cy="14.0" r="4" fill="#3465a4"><title>MacPherson, The Crubin Plaid</title></circle></a><a href="/setts/s16/r94k3w2g21w3ly3r5k2r5ly3w3y21k7r7ly8w4~x2/"><circle cx="347.7" cy="14.0" r="4" fill="#3465a4"><title>MacKintosh 8</title></circle></a><a href="/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1~x2/"><circle cx="379.1" cy="34.1" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><a href="/setts/s13/r5t2lo1r45t4w1k4t9t2lo2t2k10w2~x2/"><circle cx="337.8" cy="26.6" r="4" fill="#3465a4"><title>Stratford Police PB (Corporate)</title></circle></a><a href="/setts/s12/r36db4k6ly1k1lr1k1dg8r4k1r2lr1~x2/"><circle cx="392.1" cy="45.3" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><circle cx="362.2" cy="36.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dg7r122db17r12k12ly3k4w3dg48r16k4r6w5/"><circle cx="371.8" cy="36.4" r="4" fill="#3465a4"><title>Stuart/Stewart of Rothesay</title></circle></a><a href="/setts/s13/r36g8ly1k6t4k1t1k1t4r11w1k1r1~x2/"><circle cx="372.1" cy="38.3" r="4" fill="#3465a4"><title>MacKintosh, MacPherson</title></circle></a><a href="/setts/s14/g2r30db4r4k6ly1k1w1k1g10r4k1r1w1~x2/"><circle cx="323.1" cy="41.2" r="4" fill="#3465a4"><title>Stuart / Stewart</title></circle></a><a href="/setts/s14/dg2r30db4r4k6ly1k1w1k1dg10r4k1r1w1~x2/"><circle cx="336.8" cy="43.1" r="4" fill="#3465a4"><title>Stuart/Stewart</title></circle></a><a href="/setts/s13/r36dg8ly1k6t4k1t1k1t4r11w1k1r1~x2/"><circle cx="384.7" cy="39.9" r="4" fill="#3465a4"><title>MacKintosh/MacPherson</title></circle></a><a href="/setts/s15/r160k2w1g36ly9r4k1r4ly9t36k9r9ly9r4t3~x2/"><circle cx="390.4" cy="14.0" r="4" fill="#3465a4"><title>MacPherson, The Crubin Plaid</title></circle></a><a href="/setts/s16/r94k3w2g21w3ly3r5k2r5ly3w3y21k7r7ly8w4~x2/"><circle cx="347.1" cy="14.0" r="4" fill="#3465a4"><title>MacKintosh 8</title></circle></a><a href="/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1/"><circle cx="378.7" cy="34.0" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><a href="/setts/s13/r5t2lo1r45t4w1k4t9t2lo2t2k10w2~x2/"><circle cx="337.3" cy="26.6" r="4" fill="#3465a4"><title>Stratford Police PB (Corporate)</title></circle></a><a href="/setts/s12/r36db4k6ly1k1lr1k1dg8r4k1r2lr1~x2/"><circle cx="391.7" cy="45.3" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><circle cx="361.7" cy="36.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/g7r122db17r12k12ly3k4w3g48r16k4r6w5/

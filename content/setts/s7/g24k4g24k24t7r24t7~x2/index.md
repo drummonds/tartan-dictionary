@@ -2,12 +2,18 @@
 title: "Unidentified, Pinafore"
 date: 2023-03-18
 ---
-**Bands:** [BRBKGKG](/stripes/brbkgkg/) · **Stripes:** [T R T K G K G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">T R T K G K G</span></span>
+**Bands:** [GKGKBRB](/stripes/gkgkbrb/) · **Stripes:** [G K G K T R T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">G K G K T R T</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified, Pinafore
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/14 DR48 B14 K48 G48 K8 G/48
+G/48 K8 G48 K48 B14 DR48 B/14
 ![Sett](sett.png)
 
 ## Palette
@@ -900,18 +909,18 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/14 DR48 B14 K48 G48 K8 G/48 tartan")
+![Tartan detail](tartan.png "G/48 K8 G48 K48 B14 DR48 B/14 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Walker, James](/setts/s6/g2r4k6t1g7k2~x4/) — ΔT 0.82
+1. [Walker, James](/setts/s6/k2g7t1k6r4g2~x4/) — ΔT 0.82
 1. [Lawson, William 2002](/setts/s7/k4w19k11dg15k3dg16ly3~x2/) — ΔT 0.95
 1. [Abercrombie, (Wilson's No 64)](/setts/s7/k6g6ly1g6k6p6k1~x4/) — ΔT 0.98
 1. [Ramsay, Red](/setts/s7/k4o9k13g6o3g9w4~x2/) — ΔT 0.98
 1. [Wilson's, No 97](/setts/s7/k11g12k2g12k12p12w3~x2/) — ΔT 1.00
-1. [Wilson's, No 64 or Abercrombie](/setts/s7/k6g6w1g6k6p6k1~x4/) — ΔT 1.01
+1. [Wilson's, No 64 or Abercrombie](/setts/s7/k6g6w1g6k6p6k1~x4/) — ΔT 1.02
 1. [Wellington, or Waterloo](/setts/s6/t3g6k6t4r1t1~x2/) — ΔT 1.03
 1. [Ramsay (Orange)](/setts/s7/k4lo9k13g6lo3g9w4~x2/) — ΔT 1.04
 1. [MacKay](/setts/s6/g1db5g1k5g6ly1~x2/) — ΔT 1.06
@@ -919,8 +928,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g2r4k6t1g7k2~x4/"><circle cx="157.8" cy="236.7" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/setts/s7/k4w19k11dg15k3dg16ly3~x2/"><circle cx="148.5" cy="224.3" r="4" fill="#3465a4"><title>Lawson, William 2002</title></circle></a><a href="/setts/s7/k6g6ly1g6k6p6k1~x4/"><circle cx="137.4" cy="250.6" r="4" fill="#3465a4"><title>Abercrombie, (Wilson's No 64)</title></circle></a><a href="/setts/s7/k4o9k13g6o3g9w4~x2/"><circle cx="84.0" cy="252.8" r="4" fill="#3465a4"><title>Ramsay, Red</title></circle></a><a href="/setts/s7/k11g12k2g12k12p12w3~x2/"><circle cx="121.2" cy="252.5" r="4" fill="#3465a4"><title>Wilson's, No 97</title></circle></a><a href="/setts/s7/k6g6w1g6k6p6k1~x4/"><circle cx="136.4" cy="250.2" r="4" fill="#3465a4"><title>Wilson's, No 64 or Abercrombie</title></circle></a><a href="/setts/s6/t3g6k6t4r1t1~x2/"><circle cx="128.4" cy="243.9" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/setts/s7/k4lo9k13g6lo3g9w4~x2/"><circle cx="95.0" cy="254.8" r="4" fill="#3465a4"><title>Ramsay (Orange)</title></circle></a><a href="/setts/s6/g1db5g1k5g6ly1~x2/"><circle cx="156.9" cy="237.8" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/setts/s6/y3dg6k6y4r1y1~x2/"><circle cx="157.3" cy="254.1" r="4" fill="#3465a4"><title>Waterloo</title></circle></a><circle cx="137.0" cy="241.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k2g7t1k6r4g2~x4/"><circle cx="158.0" cy="236.6" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/setts/s7/k4w19k11dg15k3dg16ly3~x2/"><circle cx="148.6" cy="224.2" r="4" fill="#3465a4"><title>Lawson, William 2002</title></circle></a><a href="/setts/s7/k6g6ly1g6k6p6k1~x4/"><circle cx="137.6" cy="250.4" r="4" fill="#3465a4"><title>Abercrombie, (Wilson's No 64)</title></circle></a><a href="/setts/s7/k4o9k13g6o3g9w4~x2/"><circle cx="84.1" cy="252.7" r="4" fill="#3465a4"><title>Ramsay, Red</title></circle></a><a href="/setts/s7/k11g12k2g12k12p12w3~x2/"><circle cx="121.5" cy="252.4" r="4" fill="#3465a4"><title>Wilson's, No 97</title></circle></a><a href="/setts/s7/k6g6w1g6k6p6k1~x4/"><circle cx="136.6" cy="250.1" r="4" fill="#3465a4"><title>Wilson's, No 64 or Abercrombie</title></circle></a><a href="/setts/s6/t3g6k6t4r1t1~x2/"><circle cx="128.6" cy="243.8" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/setts/s7/k4lo9k13g6lo3g9w4~x2/"><circle cx="95.1" cy="254.7" r="4" fill="#3465a4"><title>Ramsay (Orange)</title></circle></a><a href="/setts/s6/g1db5g1k5g6ly1~x2/"><circle cx="157.1" cy="237.7" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/setts/s6/y3dg6k6y4r1y1~x2/"><circle cx="157.5" cy="254.1" r="4" fill="#3465a4"><title>Waterloo</title></circle></a><circle cx="137.1" cy="241.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/g24k4g24k24t7r24t7~x2/

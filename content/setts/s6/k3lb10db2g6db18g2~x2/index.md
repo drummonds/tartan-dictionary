@@ -2,7 +2,7 @@
 title: "Crombie House Check"
 date: 2023-03-18
 ---
-**Bands:** [GBGBWK](/stripes/gbgbwk/) · **Stripes:** [G DB G DB LB K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="seq">G DB G DB LB K</span></span>
+**Bands:** [KWBGBG](/stripes/kwbgbg/) · **Stripes:** [K LB DB G DB G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K LB DB G DB G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2302
 
 ## Thread count
-G/4 DB36 G12 DB4 N20 K/6
+K/6 N20 DB4 G12 DB36 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -40,7 +40,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/4 DB36 G12 DB4 N20 K/6 tartan")
+![Tartan detail](tartan.png "K/6 N20 DB4 G12 DB36 G/4 tartan")
 
 ## Nearest tartans
 
@@ -55,12 +55,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Crombie House Check Corporate Tartan Tartan Number: 2302. Earliest known date: pre 1997 A Corporate tartan for a general merchandising company whose mills were at Langholm, Dumfriesshire. Dark green and royal blue called for but lighter colours used here to display the sett. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/db18g6db2lb10k3lb10db2g6db18g2~x2/) — ΔT 1.14
 1. [Newall (Dumbarton) (Personal)](/setts/s7/t30dp15w4dg12w9t8w3~x2/) — ΔT 1.15
 1. [Keela (Corporate)](/setts/s7/dt7w3dt2w6dt16t26r4~x2/) — ΔT 1.15
-1. [Thomson Dress (Blue)](/setts/s6/ly1k4w4k2b10r1~x6/) — ΔT 1.16
+1. [Thomson Dress (Blue)](/setts/s6/r1b10k2w4k4ly1~x6/) — ΔT 1.16
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k11t38r11g11k5~x2/"><circle cx="228.6" cy="231.5" r="4" fill="#3465a4"><title>All as One (Corporate)</title></circle></a><a href="/setts/s6/r5db25w5db3g25db3~x2/"><circle cx="251.8" cy="216.1" r="4" fill="#3465a4"><title>Thayer USA (Name)</title></circle></a><a href="/setts/s6/dr5b35k24b9g9dr5~x2/"><circle cx="235.5" cy="234.7" r="4" fill="#3465a4"><title>Notre Dame Marching Guard (Corp)</title></circle></a><a href="/setts/s6/db2ly1db7w1k7w2~x6/"><circle cx="197.1" cy="217.5" r="4" fill="#3465a4"><title>Hawick Rugby Club (Corporate)</title></circle></a><a href="/setts/s6/r5db25w5db3dg25db3~x2/"><circle cx="250.3" cy="215.7" r="4" fill="#3465a4"><title>Thayer USA</title></circle></a><a href="/setts/s5/db9ly9db9t23r3~x2/"><circle cx="194.6" cy="245.5" r="4" fill="#3465a4"><title>Tilburg (District)</title></circle></a><a href="/setts/s10/db18g6db2lb10k3lb10db2g6db18g2~x2/"><circle cx="232.6" cy="193.9" r="4" fill="#3465a4"><title>Crombie House Check Corporate Tartan Tartan Number: 2302. Earliest known date: pre 1997 A Corporate tartan for a general merchandising company whose mills were at Langholm, Dumfriesshire. Dark green and royal blue called for but lighter colours used here to display the sett. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/t30dp15w4dg12w9t8w3~x2/"><circle cx="214.3" cy="206.5" r="4" fill="#3465a4"><title>Newall (Dumbarton) (Personal)</title></circle></a><a href="/setts/s7/dt7w3dt2w6dt16t26r4~x2/"><circle cx="213.6" cy="182.0" r="4" fill="#3465a4"><title>Keela (Corporate)</title></circle></a><a href="/setts/s6/ly1k4w4k2b10r1~x6/"><circle cx="179.9" cy="178.3" r="4" fill="#3465a4"><title>Thomson Dress (Blue)</title></circle></a><circle cx="227.2" cy="208.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k11t38r11g11k5~x2/"><circle cx="228.6" cy="231.3" r="4" fill="#3465a4"><title>All as One (Corporate)</title></circle></a><a href="/setts/s6/r5db25w5db3g25db3~x2/"><circle cx="251.8" cy="215.9" r="4" fill="#3465a4"><title>Thayer USA (Name)</title></circle></a><a href="/setts/s6/dr5b35k24b9g9dr5~x2/"><circle cx="235.5" cy="234.5" r="4" fill="#3465a4"><title>Notre Dame Marching Guard (Corp)</title></circle></a><a href="/setts/s6/db2ly1db7w1k7w2~x6/"><circle cx="197.2" cy="217.3" r="4" fill="#3465a4"><title>Hawick Rugby Club (Corporate)</title></circle></a><a href="/setts/s6/r5db25w5db3dg25db3~x2/"><circle cx="250.4" cy="215.6" r="4" fill="#3465a4"><title>Thayer USA</title></circle></a><a href="/setts/s5/db9ly9db9t23r3~x2/"><circle cx="194.6" cy="245.3" r="4" fill="#3465a4"><title>Tilburg (District)</title></circle></a><a href="/setts/s10/db18g6db2lb10k3lb10db2g6db18g2~x2/"><circle cx="232.6" cy="193.8" r="4" fill="#3465a4"><title>Crombie House Check Corporate Tartan Tartan Number: 2302. Earliest known date: pre 1997 A Corporate tartan for a general merchandising company whose mills were at Langholm, Dumfriesshire. Dark green and royal blue called for but lighter colours used here to display the sett. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/t30dp15w4dg12w9t8w3~x2/"><circle cx="214.2" cy="206.4" r="4" fill="#3465a4"><title>Newall (Dumbarton) (Personal)</title></circle></a><a href="/setts/s7/dt7w3dt2w6dt16t26r4~x2/"><circle cx="213.5" cy="181.9" r="4" fill="#3465a4"><title>Keela (Corporate)</title></circle></a><a href="/setts/s6/r1b10k2w4k4ly1~x6/"><circle cx="179.9" cy="178.2" r="4" fill="#3465a4"><title>Thomson Dress (Blue)</title></circle></a><circle cx="227.3" cy="208.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k3lb10db2g6db18g2~x2/

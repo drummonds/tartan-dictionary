@@ -2,12 +2,18 @@
 title: "Robitaille, Jean-Francois (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BWGWGWKWGBRY](/stripes/bwgwgwkwgbry/) · **Stripes:** [DB W Y W Y W K W G DB R LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB W Y W Y W K W G DB R LY</span></span>
+**Bands:** [YRBGWKWGWGWB](/stripes/yrbgwkwgwgwb/) · **Stripes:** [LY R DB G W K W Y W Y W DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">LY R DB G W K W Y W Y W DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10649
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Robitaille, Jean-Francois
 
 ## Attestations
 
@@ -49,15 +55,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Queen Mary RMS](/setts/s12/db24ly4o4dp4db24r4w3k18w9r4k3w2~x2/) — ΔT 1.15
 1. [Twenty First Century](/setts/s13/g12db3o3w2o3db3g5k8db31t5db8w4r6~x2/) — ΔT 1.20
 1. [Twenty First Century](/setts/s13/g12db3y3w2y3db3g5k8db31t5db8w4r6~x2/) — ΔT 1.24
-1. [Royal Air Force Lossiemouth](/setts/s10/lb4t24r3t24g4db10k27dg3k7ly4~x2/) — ΔT 1.33
+1. [Royal Air Force Lossiemouth](/setts/s10/ly4k7dg3k27db10g4t24r3t24lb4~x2/) — ΔT 1.33
 1. [Aurora House Check](/setts/s11/db40lg3db11k7g22k7db3w3lr10k32ly13~x2/) — ΔT 1.36
-1. [New Millennium](/setts/s11/g4db23lb23db2g4k6db24b4db6lb3r4~x2/) — ΔT 1.38
+1. [New Millennium](/setts/s11/r4lb3db6b4db24k6g4db2lb23db23g4~x2/) — ΔT 1.38
 1. [Sydney Academy](/setts/s14/n31k4n4k4n4k4n6w5k4o3b19k3n4r3~x2/) — ΔT 1.38
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db21w2lo3w2lo2w2k12w2g6db15r2ly4~x2/"><circle cx="155.0" cy="106.6" r="4" fill="#3465a4"><title>Robitaille, Jean-Francois (Personal)</title></circle></a><a href="/setts/s11/db2w2db21lo3db4r3db3m4g18b4w2~x2/"><circle cx="153.6" cy="114.6" r="4" fill="#3465a4"><title>Sons of Scotland (Corporate)</title></circle></a><a href="/setts/s12/db24ly4y4p4db24r4w3k18w9r4k3w2~x2/"><circle cx="141.3" cy="103.1" r="4" fill="#3465a4"><title>Queen Mary, RMS</title></circle></a><a href="/setts/s12/db24ly4o4dp4db24r4w3k18w9r4k3w2~x2/"><circle cx="151.2" cy="106.8" r="4" fill="#3465a4"><title>Queen Mary RMS</title></circle></a><a href="/setts/s13/g12db3o3w2o3db3g5k8db31t5db8w4r6~x2/"><circle cx="178.5" cy="96.1" r="4" fill="#3465a4"><title>Twenty First Century</title></circle></a><a href="/setts/s13/g12db3y3w2y3db3g5k8db31t5db8w4r6~x2/"><circle cx="173.7" cy="94.3" r="4" fill="#3465a4"><title>Twenty First Century</title></circle></a><a href="/setts/s10/lb4t24r3t24g4db10k27dg3k7ly4~x2/"><circle cx="101.9" cy="118.6" r="4" fill="#3465a4"><title>Royal Air Force Lossiemouth</title></circle></a><a href="/setts/s11/db40lg3db11k7g22k7db3w3lr10k32ly13~x2/"><circle cx="90.5" cy="115.1" r="4" fill="#3465a4"><title>Aurora House Check</title></circle></a><a href="/setts/s11/g4db23lb23db2g4k6db24b4db6lb3r4~x2/"><circle cx="212.8" cy="132.6" r="4" fill="#3465a4"><title>New Millennium</title></circle></a><a href="/setts/s14/n31k4n4k4n4k4n6w5k4o3b19k3n4r3~x2/"><circle cx="191.7" cy="108.0" r="4" fill="#3465a4"><title>Sydney Academy</title></circle></a><circle cx="144.8" cy="106.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db21w2lo3w2lo2w2k12w2g6db15r2ly4~x2/"><circle cx="155.1" cy="106.7" r="4" fill="#3465a4"><title>Robitaille, Jean-Francois (Personal)</title></circle></a><a href="/setts/s11/db2w2db21lo3db4r3db3m4g18b4w2~x2/"><circle cx="153.7" cy="114.6" r="4" fill="#3465a4"><title>Sons of Scotland (Corporate)</title></circle></a><a href="/setts/s12/db24ly4y4p4db24r4w3k18w9r4k3w2~x2/"><circle cx="141.3" cy="103.2" r="4" fill="#3465a4"><title>Queen Mary, RMS</title></circle></a><a href="/setts/s12/db24ly4o4dp4db24r4w3k18w9r4k3w2~x2/"><circle cx="151.2" cy="106.9" r="4" fill="#3465a4"><title>Queen Mary RMS</title></circle></a><a href="/setts/s13/g12db3o3w2o3db3g5k8db31t5db8w4r6~x2/"><circle cx="178.5" cy="96.1" r="4" fill="#3465a4"><title>Twenty First Century</title></circle></a><a href="/setts/s13/g12db3y3w2y3db3g5k8db31t5db8w4r6~x2/"><circle cx="173.6" cy="94.4" r="4" fill="#3465a4"><title>Twenty First Century</title></circle></a><a href="/setts/s10/ly4k7dg3k27db10g4t24r3t24lb4~x2/"><circle cx="102.0" cy="118.7" r="4" fill="#3465a4"><title>Royal Air Force Lossiemouth</title></circle></a><a href="/setts/s11/db40lg3db11k7g22k7db3w3lr10k32ly13~x2/"><circle cx="90.6" cy="115.2" r="4" fill="#3465a4"><title>Aurora House Check</title></circle></a><a href="/setts/s11/r4lb3db6b4db24k6g4db2lb23db23g4~x2/"><circle cx="212.8" cy="132.5" r="4" fill="#3465a4"><title>New Millennium</title></circle></a><a href="/setts/s14/n31k4n4k4n4k4n6w5k4o3b19k3n4r3~x2/"><circle cx="191.6" cy="108.0" r="4" fill="#3465a4"><title>Sydney Academy</title></circle></a><circle cx="144.9" cy="106.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/db21w2y3w2y2w2k12w2g6db15r2ly4~x2/

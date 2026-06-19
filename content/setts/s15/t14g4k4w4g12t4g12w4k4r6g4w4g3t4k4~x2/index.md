@@ -2,12 +2,18 @@
 title: "Gayre, dress"
 date: 2023-03-18
 ---
-**Bands:** [BGKWGBGWKRGWGBK](/stripes/bgkwgbgwkrgwgbk/) · **Stripes:** [T G K W G T G W K R G W G T K](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="seq">T G K W G T G W K R G W G T K</span></span>
+**Bands:** [KBGWGRKWGBGWKGB](/stripes/kbgwgrkwgbgwkgb/) · **Stripes:** [K T G W G R K W G T G W K G T](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">K T G W G R K W G T G W K G T</span></span>
 
 
 This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Gayre, dress
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -915,16 +924,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Gayre](/setts/s15/lb20g4k4lb4g16lb4g16lb4k4r6g4lb4g3r6k4~x2/) — ΔT 1.06
 1. [Kremlin Zoria](/setts/s11/w5g2w5db5r2db5g11ly2g11db5r2~x4/) — ΔT 1.24
 1. [Harmony, 2 & 3](/setts/s12/dg11t3dg4ly3dg3ly4dg3o13g3t3g4dg3~x2/) — ΔT 1.25
-1. [Fitzpatrick](/setts/s11/w6ly2w2ly3w11g11db2k12db3k6w2~x2/) — ΔT 1.28
-1. [CSCA](/setts/s14/g5r4g19k10g8w4db18r4db18w4g8k10g19r4~x2/) — ΔT 1.29
+1. [Fitzpatrick](/setts/s11/w6ly2w2ly3w11g11db2k12db3k6w2~x2/) — ΔT 1.27
+1. [CSCA](/setts/s14/g5r4g19k10g8w4db18r4~x2/) — ΔT 1.29
 1. [Gayre Dress](/setts/s15/y8g2k2w2g8y2g8w2k2g3g2w2g1y2k2~x2/) — ΔT 1.30
 1. [Fitzpatrick](/setts/s11/w6ly2w2ly3w11g11b2k12b3k6w2~x2/) — ΔT 1.34
 1. [MacKenzie Dress - 1950 (Clan)](/setts/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/) — ΔT 1.35
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/y14g4k4w4g12y4g12w4k4r6g4w4g3y4k4~x2/"><circle cx="81.5" cy="190.9" r="4" fill="#3465a4"><title>Gayre Dress (Clan)</title></circle></a><a href="/setts/s15/db18g4k4w4g16db4g16w4k4r5g4w4g4r5k4~x2/"><circle cx="106.9" cy="178.4" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/setts/s15/lb20g4k4lb4g16lb4g16lb4k4r6g4lb4g3r6k4~x2/"><circle cx="119.1" cy="160.7" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/setts/s11/w5g2w5db5r2db5g11ly2g11db5r2~x4/"><circle cx="128.3" cy="198.8" r="4" fill="#3465a4"><title>Kremlin Zoria</title></circle></a><a href="/setts/s12/dg11t3dg4ly3dg3ly4dg3o13g3t3g4dg3~x2/"><circle cx="116.6" cy="204.9" r="4" fill="#3465a4"><title>Harmony, 2 &amp; 3</title></circle></a><a href="/setts/s11/w6ly2w2ly3w11g11db2k12db3k6w2~x2/"><circle cx="63.6" cy="170.6" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/setts/s14/g5r4g19k10g8w4db18r4db18w4g8k10g19r4~x2/"><circle cx="123.3" cy="205.2" r="4" fill="#3465a4"><title>CSCA</title></circle></a><a href="/setts/s15/y8g2k2w2g8y2g8w2k2g3g2w2g1y2k2~x2/"><circle cx="139.2" cy="164.7" r="4" fill="#3465a4"><title>Gayre Dress</title></circle></a><a href="/setts/s11/w6ly2w2ly3w11g11b2k12b3k6w2~x2/"><circle cx="70.1" cy="171.1" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/setts/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="76.1" cy="166.6" r="4" fill="#3465a4"><title>MacKenzie Dress - 1950 (Clan)</title></circle></a><circle cx="72.7" cy="189.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/y14g4k4w4g12y4g12w4k4r6g4w4g3y4k4~x2/"><circle cx="81.5" cy="190.9" r="4" fill="#3465a4"><title>Gayre Dress (Clan)</title></circle></a><a href="/setts/s15/db18g4k4w4g16db4g16w4k4r5g4w4g4r5k4~x2/"><circle cx="106.9" cy="178.4" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/setts/s15/lb20g4k4lb4g16lb4g16lb4k4r6g4lb4g3r6k4~x2/"><circle cx="118.9" cy="160.7" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/setts/s11/w5g2w5db5r2db5g11ly2g11db5r2~x4/"><circle cx="128.3" cy="198.7" r="4" fill="#3465a4"><title>Kremlin Zoria</title></circle></a><a href="/setts/s12/dg11t3dg4ly3dg3ly4dg3o13g3t3g4dg3~x2/"><circle cx="116.6" cy="205.0" r="4" fill="#3465a4"><title>Harmony, 2 &amp; 3</title></circle></a><a href="/setts/s11/w6ly2w2ly3w11g11db2k12db3k6w2~x2/"><circle cx="63.6" cy="170.5" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/setts/s14/g5r4g19k10g8w4db18r4~x2/"><circle cx="123.4" cy="205.2" r="4" fill="#3465a4"><title>CSCA</title></circle></a><a href="/setts/s15/y8g2k2w2g8y2g8w2k2g3g2w2g1y2k2~x2/"><circle cx="139.1" cy="164.7" r="4" fill="#3465a4"><title>Gayre Dress</title></circle></a><a href="/setts/s11/w6ly2w2ly3w11g11b2k12b3k6w2~x2/"><circle cx="70.0" cy="171.1" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/setts/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="76.2" cy="166.6" r="4" fill="#3465a4"><title>MacKenzie Dress - 1950 (Clan)</title></circle></a><circle cx="72.7" cy="189.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/t14g4k4w4g12t4g12w4k4r6g4w4g3t4k4~x2/

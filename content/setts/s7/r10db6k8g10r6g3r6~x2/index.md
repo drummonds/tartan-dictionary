@@ -2,12 +2,18 @@
 title: "MacDuff"
 date: 2023-03-18
 ---
-**Bands:** [RBKGRGR](/stripes/rbkgrgr/) · **Stripes:** [R DB K G R G R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB K G R G R</span></span>
+**Bands:** [RGRGKBR](/stripes/rgrgkbr/) · **Stripes:** [R G R G K DB R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G R G K DB R</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacDuff #3
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,15 +921,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Duffus Hose, Lord](/setts/s7/lo11m6k10lo10k10dy10m4~x2/) — ΔT 1.07
 1. [Tulsa](/setts/s6/r14k3r14g13db8g13~x2/) — ΔT 1.30
 1. [MacNaughton (Logan)](/setts/s7/db5r17dg16k10db10r17db5~x2/) — ΔT 1.31
-1. [Torana](/setts/s6/lo13dt13lo2o5dt13r13~x2/) — ΔT 1.38
+1. [Torana](/setts/s6/r13dt13o5lo2dt13lo13~x2/) — ΔT 1.38
 1. [Fiddes (Corrected)](/setts/s7/g12r11dp12r3dp8g8dp8~x2/) — ΔT 1.42
 1. [Akins Red Dress](/setts/s9/g6r4g5r13k13w5k13r13ly6~x2/) — ΔT 1.46
-1. [Unidentified (Gow-like)](/setts/s5/r3g10r10k10r3~x4/) — ΔT 1.48
+1. [Unidentified (Gow-like)](/setts/s5/r3k10r10g10r3~x4/) — ΔT 1.48
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r10db6k8dg10r6dg3r6~x2/"><circle cx="136.2" cy="289.4" r="4" fill="#3465a4"><title>MacDuff #3</title></circle></a><a href="/setts/s7/k13dy28lo13dy28k18w18k13~x2/"><circle cx="83.6" cy="297.6" r="4" fill="#3465a4"><title>Boxer Beauty</title></circle></a><a href="/setts/s6/r6g5k5g5r6t1~x4/"><circle cx="150.2" cy="266.3" r="4" fill="#3465a4"><title>Norwich No.028</title></circle></a><a href="/setts/s7/lo11m6k10lo10k10dy10m4~x2/"><circle cx="62.1" cy="302.7" r="4" fill="#3465a4"><title>Duffus Hose, Lord</title></circle></a><a href="/setts/s6/r14k3r14g13db8g13~x2/"><circle cx="165.2" cy="281.7" r="4" fill="#3465a4"><title>Tulsa</title></circle></a><a href="/setts/s7/db5r17dg16k10db10r17db5~x2/"><circle cx="131.2" cy="273.2" r="4" fill="#3465a4"><title>MacNaughton (Logan)</title></circle></a><a href="/setts/s6/lo13dt13lo2o5dt13r13~x2/"><circle cx="163.6" cy="245.5" r="4" fill="#3465a4"><title>Torana</title></circle></a><a href="/setts/s7/g12r11dp12r3dp8g8dp8~x2/"><circle cx="150.2" cy="281.0" r="4" fill="#3465a4"><title>Fiddes (Corrected)</title></circle></a><a href="/setts/s9/g6r4g5r13k13w5k13r13ly6~x2/"><circle cx="68.9" cy="230.6" r="4" fill="#3465a4"><title>Akins Red Dress</title></circle></a><a href="/setts/s5/r3g10r10k10r3~x4/"><circle cx="178.7" cy="297.1" r="4" fill="#3465a4"><title>Unidentified (Gow-like)</title></circle></a><circle cx="115.7" cy="283.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r10db6k8dg10r6dg3r6~x2/"><circle cx="136.2" cy="289.3" r="4" fill="#3465a4"><title>MacDuff #3</title></circle></a><a href="/setts/s7/k13dy28lo13dy28k18w18k13~x2/"><circle cx="83.8" cy="297.5" r="4" fill="#3465a4"><title>Boxer Beauty</title></circle></a><a href="/setts/s6/r6g5k5g5r6t1~x4/"><circle cx="150.2" cy="266.2" r="4" fill="#3465a4"><title>Norwich No.028</title></circle></a><a href="/setts/s7/lo11m6k10lo10k10dy10m4~x2/"><circle cx="62.3" cy="302.6" r="4" fill="#3465a4"><title>Duffus Hose, Lord</title></circle></a><a href="/setts/s6/r14k3r14g13db8g13~x2/"><circle cx="165.2" cy="281.6" r="4" fill="#3465a4"><title>Tulsa</title></circle></a><a href="/setts/s7/db5r17dg16k10db10r17db5~x2/"><circle cx="131.3" cy="273.2" r="4" fill="#3465a4"><title>MacNaughton (Logan)</title></circle></a><a href="/setts/s6/r13dt13o5lo2dt13lo13~x2/"><circle cx="163.6" cy="245.4" r="4" fill="#3465a4"><title>Torana</title></circle></a><a href="/setts/s7/g12r11dp12r3dp8g8dp8~x2/"><circle cx="150.2" cy="281.0" r="4" fill="#3465a4"><title>Fiddes (Corrected)</title></circle></a><a href="/setts/s9/g6r4g5r13k13w5k13r13ly6~x2/"><circle cx="68.9" cy="230.5" r="4" fill="#3465a4"><title>Akins Red Dress</title></circle></a><a href="/setts/s5/r3k10r10g10r3~x4/"><circle cx="178.8" cy="296.9" r="4" fill="#3465a4"><title>Unidentified (Gow-like)</title></circle></a><circle cx="115.7" cy="283.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r10db6k8g10r6g3r6~x2/

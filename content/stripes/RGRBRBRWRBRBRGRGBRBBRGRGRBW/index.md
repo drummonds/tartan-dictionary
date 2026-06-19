@@ -23,8 +23,8 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [MacDougall D](/setts/s27/r3dg5r1db1r15dp2r1lb1r1dp2r15db1r1dg5r5dg5dp2r1dp2db5r2dg1r2dg15r1db2lb1/)|
-|![MacDougall D example sett](/setts/s27/r3dg5r1db1r15dp2r1lb1r1dp2r15db1r1dg5r5dg5dp2r1dp2db5r2dg1r2dg15r1db2lb1/sett.png)|
+| [MacDougall D](/setts/s27/r3dg5r1db1r15dp2r1lb1r1dp2r15db1r1dg5r5dg5dp2r1dp2db5r2dg1r2dg15r1db2lb1~x2/)|
+|![MacDougall D example sett](/setts/s27/r3dg5r1db1r15dp2r1lb1r1dp2r15db1r1dg5r5dg5dp2r1dp2db5r2dg1r2dg15r1db2lb1~x2/sett.png)|
 
 ### R G R DB R DP R W R DP R DB R G R G DP R DP DB R G R G R DP W <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R G R DB R DP R W R DP R DB R G R G DP R DP DB R G R G R DP W</span></span>
 

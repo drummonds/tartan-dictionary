@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/2 R4 G6 R4 K2 R32 G16 R4 G4 LN4 G4 R4 G4 LN4 G4 R4 G16 R/32
+R/32 G16 R4 G4 LN4 G4 R4 G4 LN4 G4 R4 G16 R32 K2 R4 G6 R4 K/2
 ![Sett](sett.png)
 
 ## Palette
@@ -902,21 +905,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Harkness Dress](/setts/s18/b10r2w2r16g6r1g2r1g3r6g3r1g2r1g6r16w2r2~x4/) — ΔT 0.86
-1. [Hayes (Fashion)](/setts/s14/lr2r2dg1r2dg3r17dg4r1dg1r1dg12ly1dg1r2~x4/) — ΔT 1.08
+1. [Harkness Dress](/setts/s18/b10r2w2r16g6r1g2r1g3r6~x4/) — ΔT 0.86
+1. [Hayes (Fashion)](/setts/s14/r2dg1ly1dg12r1dg1r1dg4r17dg3r2dg1r2lr2~x4/) — ΔT 1.08
 1. [Rothesay, Duke of](/setts/s17/w4r22g3r3g3r3g13r4g13r3g3r3g3r23w2r2w4~x2/) — ΔT 1.10
 1. [Munro (Logan)](/setts/s17/r19ly1db1r2g18r2db1ly1r2db4r2ly1db1r19g2r2g2~x2/) — ΔT 1.22
 1. [Grant D](/setts/s15/r3db1r1g10r1g1r1db3r1lb1r12db1r1db1r3~x2/) — ΔT 1.22
 1. [MacKinnon 9](/setts/s14/w2r4g2db2r6g4r2db5g2r20g7w2r4w2~x2/) — ΔT 1.25
 1. [MacDonald of Lochmaddy](/setts/s17/r13w1t2r2g14r2w1t2r2db4r2t2w1r16g1r2g3~x2/) — ΔT 1.26
-1. [Hayes](/setts/s26/r2dg1ly1dg12r1dg1r1dg4r17dg3r2dg1r2lr2r2dg1r2dg3r17dg4r1dg1r1dg12ly1dg1~x4/) — ΔT 1.27
+1. [Hayes](/setts/s26/r2dg1ly1dg12r1dg1r1dg4r17dg3r2dg1r2lr2~x4/) — ΔT 1.27
 1. [Scott](/setts/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2/) — ΔT 1.28
 1. [Scott Red Clan Tartan Tartan Number: 4. Earliest known date: 1930-50 The Red Scott tartan is the sett most often seen today. The earliest recording appears to come from a sample in the MacKinlay collection at the Scottish Tartans Society. Sir Walter Scott, despite his assertion that Lowlanders never wore plaids, was largely responsible for the wide spread introduction of tartans to the Lowland families. There is also a Green Scott tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/r4g4w3g4r4g14r28k2r2g3~x2/) — ΔT 1.30
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/b10r2w2r16g6r1g2r1g3r6g3r1g2r1g6r16w2r2~x4/"><circle cx="317.2" cy="121.6" r="4" fill="#3465a4"><title>Harkness Dress</title></circle></a><a href="/setts/s14/lr2r2dg1r2dg3r17dg4r1dg1r1dg12ly1dg1r2~x4/"><circle cx="347.5" cy="124.5" r="4" fill="#3465a4"><title>Hayes (Fashion)</title></circle></a><a href="/setts/s17/w4r22g3r3g3r3g13r4g13r3g3r3g3r23w2r2w4~x2/"><circle cx="341.1" cy="151.1" r="4" fill="#3465a4"><title>Rothesay, Duke of</title></circle></a><a href="/setts/s17/r19ly1db1r2g18r2db1ly1r2db4r2ly1db1r19g2r2g2~x2/"><circle cx="388.0" cy="103.7" r="4" fill="#3465a4"><title>Munro (Logan)</title></circle></a><a href="/setts/s15/r3db1r1g10r1g1r1db3r1lb1r12db1r1db1r3~x2/"><circle cx="320.2" cy="126.7" r="4" fill="#3465a4"><title>Grant D</title></circle></a><a href="/setts/s14/w2r4g2db2r6g4r2db5g2r20g7w2r4w2~x2/"><circle cx="295.4" cy="146.6" r="4" fill="#3465a4"><title>MacKinnon 9</title></circle></a><a href="/setts/s17/r13w1t2r2g14r2w1t2r2db4r2t2w1r16g1r2g3~x2/"><circle cx="310.8" cy="103.2" r="4" fill="#3465a4"><title>MacDonald of Lochmaddy</title></circle></a><a href="/setts/s26/r2dg1ly1dg12r1dg1r1dg4r17dg3r2dg1r2lr2r2dg1r2dg3r17dg4r1dg1r1dg12ly1dg1~x4/"><circle cx="343.2" cy="101.1" r="4" fill="#3465a4"><title>Hayes</title></circle></a><a href="/setts/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2/"><circle cx="335.1" cy="109.1" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s10/r4g4w3g4r4g14r28k2r2g3~x2/"><circle cx="354.3" cy="148.0" r="4" fill="#3465a4"><title>Scott Red Clan Tartan Tartan Number: 4. Earliest known date: 1930-50 The Red Scott tartan is the sett most often seen today. The earliest recording appears to come from a sample in the MacKinlay collection at the Scottish Tartans Society. Sir Walter Scott, despite his assertion that Lowlanders never wore plaids, was largely responsible for the wide spread introduction of tartans to the Lowland families. There is also a Green Scott tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="332.3" cy="116.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/b10r2w2r16g6r1g2r1g3r6~x4/"><circle cx="316.8" cy="121.5" r="4" fill="#3465a4"><title>Harkness Dress</title></circle></a><a href="/setts/s14/r2dg1ly1dg12r1dg1r1dg4r17dg3r2dg1r2lr2~x4/"><circle cx="347.1" cy="124.4" r="4" fill="#3465a4"><title>Hayes (Fashion)</title></circle></a><a href="/setts/s17/w4r22g3r3g3r3g13r4g13r3g3r3g3r23w2r2w4~x2/"><circle cx="340.6" cy="150.9" r="4" fill="#3465a4"><title>Rothesay, Duke of</title></circle></a><a href="/setts/s17/r19ly1db1r2g18r2db1ly1r2db4r2ly1db1r19g2r2g2~x2/"><circle cx="387.5" cy="103.6" r="4" fill="#3465a4"><title>Munro (Logan)</title></circle></a><a href="/setts/s15/r3db1r1g10r1g1r1db3r1lb1r12db1r1db1r3~x2/"><circle cx="319.8" cy="126.6" r="4" fill="#3465a4"><title>Grant D</title></circle></a><a href="/setts/s14/w2r4g2db2r6g4r2db5g2r20g7w2r4w2~x2/"><circle cx="295.0" cy="146.5" r="4" fill="#3465a4"><title>MacKinnon 9</title></circle></a><a href="/setts/s17/r13w1t2r2g14r2w1t2r2db4r2t2w1r16g1r2g3~x2/"><circle cx="310.3" cy="103.2" r="4" fill="#3465a4"><title>MacDonald of Lochmaddy</title></circle></a><a href="/setts/s26/r2dg1ly1dg12r1dg1r1dg4r17dg3r2dg1r2lr2~x4/"><circle cx="342.8" cy="101.1" r="4" fill="#3465a4"><title>Hayes</title></circle></a><a href="/setts/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2/"><circle cx="334.7" cy="109.0" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s10/r4g4w3g4r4g14r28k2r2g3~x2/"><circle cx="353.9" cy="147.9" r="4" fill="#3465a4"><title>Scott Red Clan Tartan Tartan Number: 4. Earliest known date: 1930-50 The Red Scott tartan is the sett most often seen today. The earliest recording appears to come from a sample in the MacKinlay collection at the Scottish Tartans Society. Sir Walter Scott, despite his assertion that Lowlanders never wore plaids, was largely responsible for the wide spread introduction of tartans to the Lowland families. There is also a Green Scott tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="331.8" cy="116.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s18/r16g8r2g2w2g2r2g2w2g2r2g8r16k1r2g3r2k1~x2/

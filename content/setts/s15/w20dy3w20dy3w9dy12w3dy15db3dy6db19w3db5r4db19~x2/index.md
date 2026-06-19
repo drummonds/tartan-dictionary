@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=272
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Black & White Colourway
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -25,7 +31,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2006
 
 ## Thread count
-DB/38 R8 DB10 W6 DB38 T12 DB6 T30 W6 T24 W18 T6 W40 T6 W/40
+W/40 T6 W40 T6 W18 T24 W6 T30 DB6 T12 DB38 W6 DB10 R8 DB/38
 ![Sett](sett.png)
 
 ## Palette
@@ -55,8 +61,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/k19o6k3o15w3o12w9o3w20o3w20k19r4k5w3~x2/"><circle cx="116.2" cy="163.2" r="4" fill="#3465a4"><title>Black and White</title></circle></a><a href="/setts/s15/w20o3w20o3w9o12w3o15db3o6db19w3db5r4db19~x2/"><circle cx="141.4" cy="174.8" r="4" fill="#3465a4"><title>Black and White, Colourway</title></circle></a><a href="/setts/s19/r5db3r5g12db8w5db5w22db3r4db3w22db5w5db8g12r5db3r5~x2/"><circle cx="103.8" cy="146.5" r="4" fill="#3465a4"><title>Unidentified #56</title></circle></a><a href="/setts/s13/lb25dp4lb4dp4lb4dp23lr23w4lr23dp23lb23dp4lb4~x2/"><circle cx="130.7" cy="172.1" r="4" fill="#3465a4"><title>Poulter, Pink (Corporate)</title></circle></a><a href="/setts/s13/o25k8o8k8o8k46w46r8w46k46o46k8o8/"><circle cx="122.5" cy="178.9" r="4" fill="#3465a4"><title>Poulter SG 103 (Fashion)</title></circle></a><a href="/setts/s13/r3dg8db5w3dg20w3db5w3db5w22db3w8r3~x2/"><circle cx="150.8" cy="152.7" r="4" fill="#3465a4"><title>MacDonald, Flora (Dance)</title></circle></a><a href="/setts/s13/db25lg8db8lg8db8lg46w46lb8w46lg46db46lg8db8/"><circle cx="123.7" cy="178.9" r="4" fill="#3465a4"><title>Poulter SG 104 (Fashion)</title></circle></a><a href="/setts/s15/k19y6k3y15w3y12w9y3w20y3w20k19r4k5w3~x2/"><circle cx="116.4" cy="167.6" r="4" fill="#3465a4"><title>Black and White</title></circle></a><a href="/setts/s13/w35dp7w7dp7w7dp35dt36ly7dt36dp35w35dp7w7/"><circle cx="106.6" cy="180.3" r="4" fill="#3465a4"><title>Poulter Tron</title></circle></a><a href="/setts/s12/db16r4db6r10db30r4k30w34r9w6r4w16/"><circle cx="112.0" cy="162.4" r="4" fill="#3465a4"><title>MacDonald Pattern of Plaids</title></circle></a><circle cx="121.6" cy="165.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/k19o6k3o15w3o12w9o3w20o3w20k19r4k5w3~x2/"><circle cx="116.0" cy="163.0" r="4" fill="#3465a4"><title>Black and White</title></circle></a><a href="/setts/s15/w20o3w20o3w9o12w3o15db3o6db19w3db5r4db19~x2/"><circle cx="141.2" cy="174.8" r="4" fill="#3465a4"><title>Black and White, Colourway</title></circle></a><a href="/setts/s19/r5db3r5g12db8w5db5w22db3r4db3w22db5w5db8g12r5db3r5~x2/"><circle cx="103.6" cy="146.4" r="4" fill="#3465a4"><title>Unidentified #56</title></circle></a><a href="/setts/s13/lb25dp4lb4dp4lb4dp23lr23w4lr23dp23lb23dp4lb4~x2/"><circle cx="130.5" cy="172.0" r="4" fill="#3465a4"><title>Poulter, Pink (Corporate)</title></circle></a><a href="/setts/s13/o25k8o8k8o8k46w46r8w46k46o46k8o8/"><circle cx="122.4" cy="178.8" r="4" fill="#3465a4"><title>Poulter SG 103 (Fashion)</title></circle></a><a href="/setts/s13/r3dg8db5w3dg20w3db5w3db5w22db3w8r3~x2/"><circle cx="150.6" cy="152.6" r="4" fill="#3465a4"><title>MacDonald, Flora (Dance)</title></circle></a><a href="/setts/s13/db25lg8db8lg8db8lg46w46lb8w46lg46db46lg8db8/"><circle cx="123.5" cy="178.8" r="4" fill="#3465a4"><title>Poulter SG 104 (Fashion)</title></circle></a><a href="/setts/s15/k19y6k3y15w3y12w9y3w20y3w20k19r4k5w3~x2/"><circle cx="116.3" cy="167.5" r="4" fill="#3465a4"><title>Black and White</title></circle></a><a href="/setts/s13/w35dp7w7dp7w7dp35dt36ly7dt36dp35w35dp7w7/"><circle cx="106.5" cy="180.2" r="4" fill="#3465a4"><title>Poulter Tron</title></circle></a><a href="/setts/s12/db16r4db6r10db30r4k30w34r9w6r4w16/"><circle cx="111.9" cy="162.3" r="4" fill="#3465a4"><title>MacDonald Pattern of Plaids</title></circle></a><circle cx="121.4" cy="165.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19~x2/

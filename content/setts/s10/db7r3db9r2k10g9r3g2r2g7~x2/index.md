@@ -2,7 +2,7 @@
 title: "Cameron"
 date: 2023-03-18
 ---
-**Bands:** [BRBRKGRGRG](/stripes/brbrkgrgrg/) · **Stripes:** [DB R DB R K G R G R G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB R DB R K G R G R G</span></span>
+**Bands:** [GRGRGKRBRB](/stripes/grgrgkrbrb/) · **Stripes:** [G R G R G K R DB R DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G R G K R DB R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/14 R6 B18 R4 K20 G18 R6 G4 R4 G/14
+G/14 R4 G4 R6 G18 K20 R4 B18 R6 B/14
 ![Sett](sett.png)
 
 ## Palette
@@ -906,7 +909,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Wellington (Wilson) #2](/setts/s10/g12k14t11r3t3r3t11k14g12t3~x2/) — ΔT 0.83
 1. [Wilson's No.112 (Light Blue)](/setts/s10/dg12k14y11r3y3r3y11k14dg12y3~x2/) — ΔT 0.86
 1. [MacLachlan, Hunting](/setts/s14/g4k1g1k1g1k5db5r2db2r2db5g5k1g1~x2/) — ΔT 0.90
-1. [Wilson's No.194](/setts/s10/dp3w1k3g5r1k3r1g5k3w1~x2/) — ΔT 1.01
+1. [Wilson's No.194](/setts/s10/k3r1g5k3w1dp3~x2/) — ΔT 1.01
 1. [Borthwick](/setts/s9/g12k2r12k3y12k16y12k3r6~x2/) — ΔT 1.06
 1. [MacDonald 7](/setts/s12/db11r2db2r4db15r2k15g15r4g2r2g11~x2/) — ΔT 1.09
 1. [MacKean Dress (Personal)](/setts/s9/r1k2g4k1g1k2db3k1w1~x6/) — ΔT 1.14
@@ -915,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db8r2db2r4db10r2k11g10r4g2r2g8~x2/"><circle cx="95.7" cy="211.3" r="4" fill="#3465a4"><title>MacDonald 2</title></circle></a><a href="/setts/s10/g12k14t11r3t3r3t11k14g12t3~x2/"><circle cx="107.9" cy="246.7" r="4" fill="#3465a4"><title>Wellington (Wilson) #2</title></circle></a><a href="/setts/s10/dg12k14y11r3y3r3y11k14dg12y3~x2/"><circle cx="113.6" cy="248.2" r="4" fill="#3465a4"><title>Wilson's No.112 (Light Blue)</title></circle></a><a href="/setts/s14/g4k1g1k1g1k5db5r2db2r2db5g5k1g1~x2/"><circle cx="102.1" cy="210.9" r="4" fill="#3465a4"><title>MacLachlan, Hunting</title></circle></a><a href="/setts/s10/dp3w1k3g5r1k3r1g5k3w1~x2/"><circle cx="108.9" cy="220.5" r="4" fill="#3465a4"><title>Wilson's No.194</title></circle></a><a href="/setts/s9/g12k2r12k3y12k16y12k3r6~x2/"><circle cx="100.0" cy="214.0" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s12/db11r2db2r4db15r2k15g15r4g2r2g11~x2/"><circle cx="129.2" cy="190.6" r="4" fill="#3465a4"><title>MacDonald 7</title></circle></a><a href="/setts/s9/r1k2g4k1g1k2db3k1w1~x6/"><circle cx="100.0" cy="236.6" r="4" fill="#3465a4"><title>MacKean Dress (Personal)</title></circle></a><a href="/setts/s13/r3b10k10g10r3g10k10b2k2b2k2b5k2~x2/"><circle cx="108.5" cy="212.9" r="4" fill="#3465a4"><title>Blairgowrie High School S.A. (Corp)</title></circle></a><a href="/setts/s10/db1r1db1r1db4k4g4r1g1ly1~x4/"><circle cx="62.6" cy="203.3" r="4" fill="#3465a4"><title>Logan, or MacLennan</title></circle></a><circle cx="95.5" cy="230.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db8r2db2r4db10r2k11g10r4g2r2g8~x2/"><circle cx="95.8" cy="211.3" r="4" fill="#3465a4"><title>MacDonald 2</title></circle></a><a href="/setts/s10/g12k14t11r3t3r3t11k14g12t3~x2/"><circle cx="108.0" cy="246.7" r="4" fill="#3465a4"><title>Wellington (Wilson) #2</title></circle></a><a href="/setts/s10/dg12k14y11r3y3r3y11k14dg12y3~x2/"><circle cx="113.7" cy="248.3" r="4" fill="#3465a4"><title>Wilson's No.112 (Light Blue)</title></circle></a><a href="/setts/s14/g4k1g1k1g1k5db5r2db2r2db5g5k1g1~x2/"><circle cx="102.2" cy="210.9" r="4" fill="#3465a4"><title>MacLachlan, Hunting</title></circle></a><a href="/setts/s10/k3r1g5k3w1dp3~x2/"><circle cx="109.1" cy="220.6" r="4" fill="#3465a4"><title>Wilson's No.194</title></circle></a><a href="/setts/s9/g12k2r12k3y12k16y12k3r6~x2/"><circle cx="100.2" cy="213.9" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s12/db11r2db2r4db15r2k15g15r4g2r2g11~x2/"><circle cx="129.2" cy="190.6" r="4" fill="#3465a4"><title>MacDonald 7</title></circle></a><a href="/setts/s9/r1k2g4k1g1k2db3k1w1~x6/"><circle cx="100.2" cy="236.6" r="4" fill="#3465a4"><title>MacKean Dress (Personal)</title></circle></a><a href="/setts/s13/r3b10k10g10r3g10k10b2k2b2k2b5k2~x2/"><circle cx="108.7" cy="212.9" r="4" fill="#3465a4"><title>Blairgowrie High School S.A. (Corp)</title></circle></a><a href="/setts/s10/db1r1db1r1db4k4g4r1g1ly1~x4/"><circle cx="62.7" cy="203.4" r="4" fill="#3465a4"><title>Logan, or MacLennan</title></circle></a><circle cx="95.6" cy="230.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db7r3db9r2k10g9r3g2r2g7~x2/

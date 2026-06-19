@@ -2,12 +2,18 @@
 title: "Black Watch Plaid of Pipers"
 date: 2023-03-18
 ---
-**Bands:** [BKRKRKGYGKBKR](/stripes/bkrkrkgygkbkr/) · **Stripes:** [DB K R K R K G LY G K DB K R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K R K R K G LY G K DB K R</span></span>
+**Bands:** [RKBKGYGKRKRKB](/stripes/rkbkgygkrkrkb/) · **Stripes:** [R K DB K G LY G K R K R K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K DB K G LY G K R K R K DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=283
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Black Watch, Plaid of Pipers...
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,7 +919,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [MacEwen/MacEwan](/setts/s13/ly1k1g6k6db6k1db1k1db6k6g6k1r1~x4/) — ΔT 0.49
+1. [MacEwen/MacEwan](/setts/s13/r1k1g6k6db6k1db1k1db6k6g6k1ly1~x4/) — ΔT 0.49
 1. [Terre D'Ecosse](/setts/s14/w3y7k3y3k3y3k13dg16lo3dg16k13y16k3w3~x2/) — ΔT 0.64
 1. [Akins of Candler (Personal)](/setts/s12/g12r2g2r2k12db12ly2db12k2g11r2g2~x2/) — ΔT 0.64
 1. [MacLellan Clan Tartan Tartan Number: 323. Earliest known date: pre 2003 Very similar to MacLaren See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/db29k15g5r5g8k4ly4k4g8r5g5k15db7k15~x2/) — ΔT 0.66
@@ -923,8 +932,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/ly1k1g6k6db6k1db1k1db6k6g6k1r1~x4/"><circle cx="161.6" cy="207.2" r="4" fill="#3465a4"><title>MacEwen/MacEwan</title></circle></a><a href="/setts/s14/w3y7k3y3k3y3k13dg16lo3dg16k13y16k3w3~x2/"><circle cx="127.5" cy="205.5" r="4" fill="#3465a4"><title>Terre D'Ecosse</title></circle></a><a href="/setts/s12/g12r2g2r2k12db12ly2db12k2g11r2g2~x2/"><circle cx="148.7" cy="197.8" r="4" fill="#3465a4"><title>Akins of Candler (Personal)</title></circle></a><a href="/setts/s14/db29k15g5r5g8k4ly4k4g8r5g5k15db7k15~x2/"><circle cx="163.8" cy="189.8" r="4" fill="#3465a4"><title>MacLellan Clan Tartan Tartan Number: 323. Earliest known date: pre 2003 Very similar to MacLaren See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/db6k1db1k1db1k6g6k1w2k1g6k6db6k1r2~x2/"><circle cx="131.5" cy="190.5" r="4" fill="#3465a4"><title>MacKenzie MINI Clan Miniature Tartan Tartan Number: 2677. Earliest known date: 1778 Generated for Dupion Silk Stock list for display purpose. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r2k1db8k8g8ly2g8k8db1k1db1k1db4r1~x4/"><circle cx="148.2" cy="178.4" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12g12r2w2r2g12k12db12r3db2~x2/"><circle cx="125.9" cy="186.7" r="4" fill="#3465a4"><title>MacKenzie Morgan</title></circle></a><a href="/setts/s14/db18k5dg3r3dg6k2ly2k2dg6r3dg3k10db5k10/"><circle cx="168.7" cy="184.8" r="4" fill="#3465a4"><title>MacClellan</title></circle></a><a href="/setts/s15/dg26k4dg6r4dg6k26db26k3w7k3db26k26dg26k3r7~x2/"><circle cx="145.3" cy="179.8" r="4" fill="#3465a4"><title>MacRae Htg - 1820 (Wilsons)</title></circle></a><a href="/setts/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/"><circle cx="134.6" cy="189.6" r="4" fill="#3465a4"><title>Gemmell Clan Tartan Tartan Number: 3213. Earliest known date: 2001 Design copyright is owned by Thomas Kempsill Gemmell and Davina Creighton Gemmell. Designed in traditional tartan colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="145.2" cy="204.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r1k1g6k6db6k1db1k1db6k6g6k1ly1~x4/"><circle cx="161.8" cy="207.3" r="4" fill="#3465a4"><title>MacEwen/MacEwan</title></circle></a><a href="/setts/s14/w3y7k3y3k3y3k13dg16lo3dg16k13y16k3w3~x2/"><circle cx="127.7" cy="205.6" r="4" fill="#3465a4"><title>Terre D'Ecosse</title></circle></a><a href="/setts/s12/g12r2g2r2k12db12ly2db12k2g11r2g2~x2/"><circle cx="148.8" cy="197.9" r="4" fill="#3465a4"><title>Akins of Candler (Personal)</title></circle></a><a href="/setts/s14/db29k15g5r5g8k4ly4k4g8r5g5k15db7k15~x2/"><circle cx="164.0" cy="189.9" r="4" fill="#3465a4"><title>MacLellan Clan Tartan Tartan Number: 323. Earliest known date: pre 2003 Very similar to MacLaren See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/db6k1db1k1db1k6g6k1w2k1g6k6db6k1r2~x2/"><circle cx="131.7" cy="190.6" r="4" fill="#3465a4"><title>MacKenzie MINI Clan Miniature Tartan Tartan Number: 2677. Earliest known date: 1778 Generated for Dupion Silk Stock list for display purpose. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r2k1db8k8g8ly2g8k8db1k1db1k1db4r1~x4/"><circle cx="148.3" cy="178.5" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12g12r2w2r2g12k12db12r3db2~x2/"><circle cx="126.0" cy="186.8" r="4" fill="#3465a4"><title>MacKenzie Morgan</title></circle></a><a href="/setts/s14/db18k5dg3r3dg6k2ly2k2dg6r3dg3k10db5k10/"><circle cx="168.8" cy="184.9" r="4" fill="#3465a4"><title>MacClellan</title></circle></a><a href="/setts/s15/dg26k4dg6r4dg6k26db26k3w7k3db26k26dg26k3r7~x2/"><circle cx="145.4" cy="179.9" r="4" fill="#3465a4"><title>MacRae Htg - 1820 (Wilsons)</title></circle></a><a href="/setts/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/"><circle cx="134.8" cy="189.7" r="4" fill="#3465a4"><title>Gemmell Clan Tartan Tartan Number: 3213. Earliest known date: 2001 Design copyright is owned by Thomas Kempsill Gemmell and Davina Creighton Gemmell. Designed in traditional tartan colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="145.4" cy="204.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db12k2r2k2r2k12g11ly2g11k12db11k2r2~x2/

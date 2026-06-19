@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -904,7 +907,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Brooks Brothers Tattersall Blue](/setts/s5/lo1db9lo2db9r1~x4/) — ΔT 1.59
+1. [Brooks Brothers Tattersall Blue](/setts/s5/r1db9lo2db9lo1~x4/) — ΔT 1.60
 1. [Elliott](/setts/s4/db16r4db3r1~x2/) — ΔT 1.90
 1. [Coinean Dubh](/setts/s4/dt50k12dt21w5~x2/) — ΔT 1.96
 1. [Sultan of Qaboo's Air Force](/setts/s6/db24t6db10t6db32ly3~x2/) — ΔT 1.98
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/lo1db9lo2db9r1~x4/"><circle cx="544.0" cy="269.5" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Blue</title></circle></a><a href="/setts/s4/db16r4db3r1~x2/"><circle cx="554.7" cy="251.4" r="4" fill="#3465a4"><title>Elliott</title></circle></a><a href="/setts/s4/dt50k12dt21w5~x2/"><circle cx="508.5" cy="276.9" r="4" fill="#3465a4"><title>Coinean Dubh</title></circle></a><a href="/setts/s6/db24t6db10t6db32ly3~x2/"><circle cx="511.2" cy="252.6" r="4" fill="#3465a4"><title>Sultan of Qaboo's Air Force</title></circle></a><a href="/setts/s6/k15n7k6n11k50n4~x2/"><circle cx="565.2" cy="266.2" r="4" fill="#3465a4"><title>Freedom of Scotland</title></circle></a><a href="/setts/s5/r3k16dg2k2dg2~x2/"><circle cx="448.5" cy="244.9" r="4" fill="#3465a4"><title>Gadsden (Artefact)</title></circle></a><a href="/setts/s9/k10p3k6g1k6g1k6g2k6~x2/"><circle cx="497.0" cy="256.1" r="4" fill="#3465a4"><title>GOLF (Wonderland Publications) Corporate Tartan Tartan Number: 10698. Earliest known date: 13 September 2012 This tartan was created for the designers’ limited edition publication, GOLF, a registered trademark of Wonderland Publications, a division of Bad Halo Ltd. The tartan is intended to capture the soul and the spirit of the book - and the game. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/db9k9db9k9db42w5~x2/"><circle cx="448.5" cy="250.0" r="4" fill="#3465a4"><title>Dollar Academy (1930s) (Corporate)</title></circle></a><a href="/setts/s6/db9k9db9k9db42lb5~x2/"><circle cx="464.2" cy="258.0" r="4" fill="#3465a4"><title>Dollar Academy</title></circle></a><a href="/setts/s3/db1k12db1~x10/"><circle cx="626.0" cy="300.1" r="4" fill="#3465a4"><title>Staines (2013)</title></circle></a><circle cx="552.8" cy="280.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r1db9lo2db9lo1~x4/"><circle cx="543.9" cy="269.1" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Blue</title></circle></a><a href="/setts/s4/db16r4db3r1~x2/"><circle cx="554.6" cy="251.1" r="4" fill="#3465a4"><title>Elliott</title></circle></a><a href="/setts/s4/dt50k12dt21w5~x2/"><circle cx="508.5" cy="276.5" r="4" fill="#3465a4"><title>Coinean Dubh</title></circle></a><a href="/setts/s6/db24t6db10t6db32ly3~x2/"><circle cx="511.2" cy="252.1" r="4" fill="#3465a4"><title>Sultan of Qaboo's Air Force</title></circle></a><a href="/setts/s6/k15n7k6n11k50n4~x2/"><circle cx="565.0" cy="265.8" r="4" fill="#3465a4"><title>Freedom of Scotland</title></circle></a><a href="/setts/s5/r3k16dg2k2dg2~x2/"><circle cx="448.5" cy="244.6" r="4" fill="#3465a4"><title>Gadsden (Artefact)</title></circle></a><a href="/setts/s9/k10p3k6g1k6g1k6g2k6~x2/"><circle cx="497.0" cy="255.7" r="4" fill="#3465a4"><title>GOLF (Wonderland Publications) Corporate Tartan Tartan Number: 10698. Earliest known date: 13 September 2012 This tartan was created for the designers’ limited edition publication, GOLF, a registered trademark of Wonderland Publications, a division of Bad Halo Ltd. The tartan is intended to capture the soul and the spirit of the book - and the game. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/db9k9db9k9db42w5~x2/"><circle cx="448.5" cy="249.6" r="4" fill="#3465a4"><title>Dollar Academy (1930s) (Corporate)</title></circle></a><a href="/setts/s6/db9k9db9k9db42lb5~x2/"><circle cx="464.1" cy="257.7" r="4" fill="#3465a4"><title>Dollar Academy</title></circle></a><a href="/setts/s3/db1k12db1~x10/"><circle cx="626.0" cy="299.7" r="4" fill="#3465a4"><title>Staines (2013)</title></circle></a><circle cx="552.8" cy="280.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k4k12k3o7k26o3~x2/

@@ -18,10 +18,10 @@ WBWRWRWKWBY
 
 
 
-### LB N LB R LB R LB K LB N LO <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LB N LB R LB R LB K LB N LO</span></span>
+### LO N LB K LB R LB R LB N LB <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LO N LB K LB R LB R LB N LB</span></span>
 
 | Tartans |
 |---------------|
-| [Harris (Personal)](/setts/s11/lb1n3lb8r1lb1r1lb20k15lb2n8lo1~x2/)|
-|![Harris (Personal) example sett](/setts/s11/lb1n3lb8r1lb1r1lb20k15lb2n8lo1~x2/sett.png)|
+| [Harris (Personal)](/setts/s11/lo1n8lb2k15lb20r1lb1r1lb8n3lb1~x2/)|
+|![Harris (Personal) example sett](/setts/s11/lo1n8lb2k15lb20r1lb1r1lb8n3lb1~x2/sett.png)|
 

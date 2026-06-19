@@ -8,7 +8,7 @@ WKYBBKY
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/ly4k4t5n24ly2k24w4~x2/tartan.png)
+![Woven sample](/setts/s7/w4k24ly2n24t5k4ly4~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ WKYBBKY
 
 
 
-### W K LY N T K LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W K LY N T K LY</span></span>
+### LY K T N LY K W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K T N LY K W</span></span>
 
 | Tartans |
 |---------------|
-| [Mina Perhonen](/setts/s7/ly4k4t5n24ly2k24w4~x2/)|
-|![Mina Perhonen example sett](/setts/s7/ly4k4t5n24ly2k24w4~x2/sett.png)|
+| [Mina Perhonen](/setts/s7/w4k24ly2n24t5k4ly4~x2/)|
+|![Mina Perhonen example sett](/setts/s7/w4k24ly2n24t5k4ly4~x2/sett.png)|
 

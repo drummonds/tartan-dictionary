@@ -20,7 +20,7 @@ GBWYG
 
 
 
-### DG T W LO DG <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="seq">DG T W LO DG</span></span>
+### DG LO W T DG <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="seq">DG LO W T DG</span></span>
 
 | Tartans |
 |---------------|

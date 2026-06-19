@@ -2,7 +2,7 @@
 title: "Ledford Family Tartan Tartan Number: 835. Earliest known date: 1987 A quantity of this cloth was woven in 1998 for a Ledford family in the USA. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GRY](/stripes/gry/) · **Stripes:** [G O LY](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G O LY</span></span>
+**Bands:** [YRG](/stripes/yrg/) · **Stripes:** [LY O G](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY O G</span></span>
 
 
 This was sourced from house-of-tartan.  It is a [3 band tartan](/bands/bands3/).
@@ -45,13 +45,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Colonial Marine (Corporate)](/setts/s4/g56dy13lo13lo5~x2/) — ΔT 1.62
 1. [Highland Spring (Green)](/setts/s4/g7r3g23m7~x2/) — ΔT 1.65
 1. [O'Neill (Australia)](/setts/s6/o20g40w5g40o20g9~x2/) — ΔT 1.71
-1. [Montgomerie](/setts/s4/g12db3g1db3~x2/) — ΔT 1.73
+1. [Montgomerie](/setts/s4/g12db3g1~x2/) — ΔT 1.73
 1. [O'Neill, Red](/setts/s6/g46o20g9o20g46lg5~x2/) — ΔT 1.79
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/dg9y4lo1~x8/"><circle cx="421.6" cy="306.7" r="4" fill="#3465a4"><title>Ledford</title></circle></a><a href="/setts/s4/g9o20g40w5~x2/"><circle cx="413.4" cy="287.2" r="4" fill="#3465a4"><title>O'Neill (Australia) (Name)</title></circle></a><a href="/setts/s4/g9o20g46lg5~x2/"><circle cx="463.9" cy="288.8" r="4" fill="#3465a4"><title>O'Neill, Red (Corporate?)</title></circle></a><a href="/setts/s3/g9r2t2~x4/"><circle cx="415.0" cy="318.9" r="4" fill="#3465a4"><title>Wilson's, No 212</title></circle></a><a href="/setts/s4/g9lo20g40w5~x2/"><circle cx="405.8" cy="281.5" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/setts/s4/g56dy13lo13lo5~x2/"><circle cx="459.6" cy="281.1" r="4" fill="#3465a4"><title>Colonial Marine (Corporate)</title></circle></a><a href="/setts/s4/g7r3g23m7~x2/"><circle cx="474.5" cy="288.9" r="4" fill="#3465a4"><title>Highland Spring (Green)</title></circle></a><a href="/setts/s6/o20g40w5g40o20g9~x2/"><circle cx="422.1" cy="295.2" r="4" fill="#3465a4"><title>O'Neill (Australia)</title></circle></a><a href="/setts/s4/g12db3g1db3~x2/"><circle cx="486.2" cy="285.5" r="4" fill="#3465a4"><title>Montgomerie</title></circle></a><a href="/setts/s6/g46o20g9o20g46lg5~x2/"><circle cx="455.7" cy="286.3" r="4" fill="#3465a4"><title>O'Neill, Red</title></circle></a><circle cx="416.0" cy="303.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/dg9y4lo1~x8/"><circle cx="421.5" cy="306.5" r="4" fill="#3465a4"><title>Ledford</title></circle></a><a href="/setts/s4/g9o20g40w5~x2/"><circle cx="413.2" cy="286.9" r="4" fill="#3465a4"><title>O'Neill (Australia) (Name)</title></circle></a><a href="/setts/s4/g9o20g46lg5~x2/"><circle cx="463.7" cy="288.5" r="4" fill="#3465a4"><title>O'Neill, Red (Corporate?)</title></circle></a><a href="/setts/s3/g9r2t2~x4/"><circle cx="414.8" cy="318.5" r="4" fill="#3465a4"><title>Wilson's, No 212</title></circle></a><a href="/setts/s4/g9lo20g40w5~x2/"><circle cx="405.5" cy="281.2" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/setts/s4/g56dy13lo13lo5~x2/"><circle cx="459.4" cy="280.9" r="4" fill="#3465a4"><title>Colonial Marine (Corporate)</title></circle></a><a href="/setts/s4/g7r3g23m7~x2/"><circle cx="474.2" cy="288.5" r="4" fill="#3465a4"><title>Highland Spring (Green)</title></circle></a><a href="/setts/s6/o20g40w5g40o20g9~x2/"><circle cx="421.9" cy="295.0" r="4" fill="#3465a4"><title>O'Neill (Australia)</title></circle></a><a href="/setts/s4/g12db3g1~x2/"><circle cx="486.0" cy="285.2" r="4" fill="#3465a4"><title>Montgomerie</title></circle></a><a href="/setts/s6/g46o20g9o20g46lg5~x2/"><circle cx="455.5" cy="286.0" r="4" fill="#3465a4"><title>O'Neill, Red</title></circle></a><circle cx="415.8" cy="303.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/g9o4ly1~x4/

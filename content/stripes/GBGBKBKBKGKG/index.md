@@ -18,10 +18,10 @@ GBGBKBKBKGKG
 
 
 
-### DY DB DY DB K DB K DB K DG K DG <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">DY DB DY DB K DB K DB K DG K DG</span></span>
+### DG K DG K DB K DB K DB DY DB DY <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">DG K DG K DB K DB K DB DY DB DY</span></span>
 
 | Tartans |
 |---------------|
-| [Lysaght Hunting](/setts/s12/dg6k4dg6k11db1k3db3k1db11dy6db4dy6~x4/)|
-|![Lysaght Hunting example sett](/setts/s12/dg6k4dg6k11db1k3db3k1db11dy6db4dy6~x4/sett.png)|
+| [Lysaght Hunting](/setts/s12/dy6db4dy6db11k1db3k3db1k11dg6k4dg6~x4/)|
+|![Lysaght Hunting example sett](/setts/s12/dy6db4dy6db11k1db3k3db1k11dg6k4dg6~x4/sett.png)|
 

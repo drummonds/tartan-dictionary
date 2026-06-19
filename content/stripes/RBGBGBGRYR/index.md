@@ -19,14 +19,14 @@ RBGBGBGRYR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### R DB DG DB DG DB DG R LY R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB DG DB DG DB DG R LY R</span></span>
+### R LY R DG DB DG DB DG DB R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LY R DG DB DG DB DG DB R</span></span>
 
 | Tartans |
 |---------------|
 | [MacEdward (Personal)](/setts/s10/r12ly4r38dg25db8dg10db8dg8db25r3/)|
 |![MacEdward (Personal) example sett](/setts/s10/r12ly4r38dg25db8dg10db8dg8db25r3/sett.png)|
 
-### R DB G DB G DB G R LY R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB G DB G DB G R LY R</span></span>
+### R LY R G DB G DB G DB R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LY R G DB G DB G DB R</span></span>
 
 | Tartans |
 |---------------|

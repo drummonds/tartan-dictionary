@@ -2,7 +2,7 @@
 title: "Bright of Garth (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BGBGG](/stripes/bgbgg/) · **Stripes:** [DT DY DT DY G](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DT DY DT DY G</span></span>
+**Bands:** [GGBGB](/stripes/ggbgb/) · **Stripes:** [G DY DT DY DT](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="seq">G DY DT DY DT</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6576
 
 ## Thread count
-DN/12 T6 DN42 T36 G/42
+G/42 T36 DN42 T6 DN/12
 ![Sett](sett.png)
 
 ## Palette
@@ -32,7 +32,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DN/12 T6 DN42 T36 G/42 tartan")
+![Tartan detail](tartan.png "G/42 T36 DN42 T6 DN/12 tartan")
 
 ## Nearest tartans
 
@@ -51,8 +51,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/g7y6n7y1n2~x6/"><circle cx="301.9" cy="334.7" r="4" fill="#3465a4"><title>Bright of Garth (Personal)</title></circle></a><a href="/setts/s5/k3dg20k20g20k3~x2/"><circle cx="276.2" cy="320.3" r="4" fill="#3465a4"><title>MacCormick Hunting (Name)</title></circle></a><a href="/setts/s6/g4dy25g6t12g12t3~x2/"><circle cx="302.4" cy="289.0" r="4" fill="#3465a4"><title>Canadian Fancy</title></circle></a><a href="/setts/s5/dg2dp10dy15dg10dp2~x4/"><circle cx="304.7" cy="309.2" r="4" fill="#3465a4"><title>Harmony 6</title></circle></a><a href="/setts/s4/dg15r3n11b2~x2/"><circle cx="335.6" cy="299.8" r="4" fill="#3465a4"><title>MacNab WI 2</title></circle></a><a href="/setts/s4/dg15r3n11b2/"><circle cx="335.6" cy="299.8" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><a href="/setts/s6/dy1db3dy1dg3dy4r1~x2/"><circle cx="270.9" cy="323.5" r="4" fill="#3465a4"><title>Fraser Hunting #2</title></circle></a><a href="/setts/s5/k5dg14k16db12dg4~x2/"><circle cx="264.2" cy="364.2" r="4" fill="#3465a4"><title>Unidentified #29</title></circle></a><a href="/setts/s6/dt1dy1dt7dy5y7lr1~x4/"><circle cx="256.3" cy="272.4" r="4" fill="#3465a4"><title>Dewar (WCWM)</title></circle></a><a href="/setts/s6/g4o25g6t12g12t3~x2/"><circle cx="315.5" cy="294.3" r="4" fill="#3465a4"><title>Canadian Fancy</title></circle></a><circle cx="292.1" cy="332.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/g7y6n7y1n2~x6/"><circle cx="301.9" cy="334.8" r="4" fill="#3465a4"><title>Bright of Garth (Personal)</title></circle></a><a href="/setts/s5/k3dg20k20g20k3~x2/"><circle cx="276.4" cy="320.3" r="4" fill="#3465a4"><title>MacCormick Hunting (Name)</title></circle></a><a href="/setts/s6/g4dy25g6t12g12t3~x2/"><circle cx="302.3" cy="289.1" r="4" fill="#3465a4"><title>Canadian Fancy</title></circle></a><a href="/setts/s5/dg2dp10dy15dg10dp2~x4/"><circle cx="304.7" cy="309.3" r="4" fill="#3465a4"><title>Harmony 6</title></circle></a><a href="/setts/s4/dg15r3n11b2~x2/"><circle cx="335.6" cy="299.8" r="4" fill="#3465a4"><title>MacNab WI 2</title></circle></a><a href="/setts/s4/dg15r3n11b2/"><circle cx="335.6" cy="299.8" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><a href="/setts/s6/dy1db3dy1dg3dy4r1~x2/"><circle cx="270.9" cy="323.6" r="4" fill="#3465a4"><title>Fraser Hunting #2</title></circle></a><a href="/setts/s5/k5dg14k16db12dg4~x2/"><circle cx="264.5" cy="364.3" r="4" fill="#3465a4"><title>Unidentified #29</title></circle></a><a href="/setts/s6/dt1dy1dt7dy5y7lr1~x4/"><circle cx="256.2" cy="272.5" r="4" fill="#3465a4"><title>Dewar (WCWM)</title></circle></a><a href="/setts/s6/g4o25g6t12g12t3~x2/"><circle cx="315.3" cy="294.4" r="4" fill="#3465a4"><title>Canadian Fancy</title></circle></a><circle cx="292.3" cy="332.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/g7dy6dt7dy1dt2~x6/

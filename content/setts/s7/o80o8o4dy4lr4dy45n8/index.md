@@ -2,7 +2,7 @@
 title: "Isaia (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BGYGRRR](/stripes/bgygrrr/) · **Stripes:** [N DY LR DY O O O](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="seq">N DY LR DY O O O</span></span>
+**Bands:** [RRRGYGB](/stripes/rrrgygb/) · **Stripes:** [O O O DY LR DY N](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#636363"></span><span class="seq">O O O DY LR DY N</span></span>
 
 
 This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
@@ -35,9 +35,9 @@ The nearest existing variants by ΔTartan distance.
 1. [MacByrd (Personal)](/setts/s8/y50k1r12lb1y12r14lb1r2~x4/) — ΔT 1.68
 1. [Haddrell (2013)](/setts/s7/r2b4y18n2y2n41w2~x2/) — ΔT 1.74
 1. [Down](/setts/s9/o65dr9r11o5t2lo2y5o2lo13~x2/) — ΔT 1.77
-1. [Isaia](/setts/s7/o80dr8o4k4y4k45do8/) — ΔT 1.78
+1. [Isaia](/setts/s7/o80dr8o4k4y4k45do8/) — ΔT 1.79
 1. [McBrayer Htg (Personal)](/setts/s8/o50k1r14lb1dg14r14lb1r2~x4/) — ΔT 1.80
-1. [Unidentified Lindley #6](/setts/s14/r4o3dy2o38y30dy3y3dy3y3dy3y30o38dy2o3~x2/) — ΔT 1.82
+1. [Unidentified Lindley #6](/setts/s14/r4o3dy2o38y30dy3y3dy3~x2/) — ΔT 1.82
 1. [Rikaco Eve (Fashion)](/setts/s10/g4n4g2lo36n14lo2t4g7r5lo3~x2/) — ΔT 1.85
 1. [Glen Clova #2 (Fashion)](/setts/s12/dr39dy4dr6lo2dr2w2dr2dy12dr6dr2dr6lo2~x2/) — ΔT 1.93
 1. [Ulster (Peat) (District](/setts/s10/y28k2y28k2y2k2dy29k2r2k2~x2/) — ΔT 1.95
@@ -45,8 +45,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/y50k1r12lb1y12r14lb1r2~x4/"><circle cx="451.3" cy="134.0" r="4" fill="#3465a4"><title>MacByrd (Personal)</title></circle></a><a href="/setts/s7/r2b4y18n2y2n41w2~x2/"><circle cx="460.3" cy="181.1" r="4" fill="#3465a4"><title>Haddrell (2013)</title></circle></a><a href="/setts/s9/o65dr9r11o5t2lo2y5o2lo13~x2/"><circle cx="460.4" cy="117.0" r="4" fill="#3465a4"><title>Down</title></circle></a><a href="/setts/s7/o80dr8o4k4y4k45do8/"><circle cx="444.9" cy="189.5" r="4" fill="#3465a4"><title>Isaia</title></circle></a><a href="/setts/s8/o50k1r14lb1dg14r14lb1r2~x4/"><circle cx="460.7" cy="146.1" r="4" fill="#3465a4"><title>McBrayer Htg (Personal)</title></circle></a><a href="/setts/s14/r4o3dy2o38y30dy3y3dy3y3dy3y30o38dy2o3~x2/"><circle cx="411.5" cy="169.2" r="4" fill="#3465a4"><title>Unidentified Lindley #6</title></circle></a><a href="/setts/s10/g4n4g2lo36n14lo2t4g7r5lo3~x2/"><circle cx="356.4" cy="164.6" r="4" fill="#3465a4"><title>Rikaco Eve (Fashion)</title></circle></a><a href="/setts/s12/dr39dy4dr6lo2dr2w2dr2dy12dr6dr2dr6lo2~x2/"><circle cx="463.6" cy="166.7" r="4" fill="#3465a4"><title>Glen Clova #2 (Fashion)</title></circle></a><a href="/setts/s10/y28k2y28k2y2k2dy29k2r2k2~x2/"><circle cx="481.2" cy="219.8" r="4" fill="#3465a4"><title>Ulster (Peat) (District</title></circle></a><a href="/setts/s10/dy36k3o6k3do10o5do3lo4k1dy2~x2/"><circle cx="413.3" cy="146.6" r="4" fill="#3465a4"><title>Mead (Tennessee) Hunting (Personal)</title></circle></a><circle cx="442.6" cy="184.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/y50k1r12lb1y12r14lb1r2~x4/"><circle cx="450.8" cy="134.1" r="4" fill="#3465a4"><title>MacByrd (Personal)</title></circle></a><a href="/setts/s7/r2b4y18n2y2n41w2~x2/"><circle cx="459.9" cy="181.1" r="4" fill="#3465a4"><title>Haddrell (2013)</title></circle></a><a href="/setts/s9/o65dr9r11o5t2lo2y5o2lo13~x2/"><circle cx="460.0" cy="117.1" r="4" fill="#3465a4"><title>Down</title></circle></a><a href="/setts/s7/o80dr8o4k4y4k45do8/"><circle cx="444.7" cy="189.7" r="4" fill="#3465a4"><title>Isaia</title></circle></a><a href="/setts/s8/o50k1r14lb1dg14r14lb1r2~x4/"><circle cx="460.3" cy="146.3" r="4" fill="#3465a4"><title>McBrayer Htg (Personal)</title></circle></a><a href="/setts/s14/r4o3dy2o38y30dy3y3dy3~x2/"><circle cx="411.0" cy="169.3" r="4" fill="#3465a4"><title>Unidentified Lindley #6</title></circle></a><a href="/setts/s10/g4n4g2lo36n14lo2t4g7r5lo3~x2/"><circle cx="356.1" cy="164.8" r="4" fill="#3465a4"><title>Rikaco Eve (Fashion)</title></circle></a><a href="/setts/s12/dr39dy4dr6lo2dr2w2dr2dy12dr6dr2dr6lo2~x2/"><circle cx="463.3" cy="166.9" r="4" fill="#3465a4"><title>Glen Clova #2 (Fashion)</title></circle></a><a href="/setts/s10/y28k2y28k2y2k2dy29k2r2k2~x2/"><circle cx="480.9" cy="219.9" r="4" fill="#3465a4"><title>Ulster (Peat) (District</title></circle></a><a href="/setts/s10/dy36k3o6k3do10o5do3lo4k1dy2~x2/"><circle cx="413.0" cy="146.8" r="4" fill="#3465a4"><title>Mead (Tennessee) Hunting (Personal)</title></circle></a><circle cx="442.2" cy="184.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/o80o8o4dy4lr4dy45n8/

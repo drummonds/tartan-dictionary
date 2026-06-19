@@ -2,12 +2,18 @@
 title: "Queen of Scots"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGBRBR](/stripes/gkgkgbrbr/) · **Stripes:** [G K G K G P M P M](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#CA047B"></span><span class="seq">G K G K G P M P M</span></span>
+**Bands:** [RBRBGKGKG](/stripes/rbrbgkgkg/) · **Stripes:** [M P M P G K G K G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">M P M P G K G K G</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Queen of Scots
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DR/32 P16 DR2 P16 G4 K6 G2 K6 G/44
+G/44 K6 G2 K6 G4 P16 DR2 P16 DR/32
 ![Sett](sett.png)
 
 ## Palette
@@ -915,8 +924,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w6k1y28k24dp25y3dp3y3dp3y4~x2/"><circle cx="251.0" cy="139.9" r="4" fill="#3465a4"><title>Rennie (Personal)</title></circle></a><a href="/setts/s10/w6k1g29k23dp27g3dp3g3dp3g4~x2/"><circle cx="243.4" cy="132.8" r="4" fill="#3465a4"><title>Rennie Family Tartan Tartan Number: 716. Earliest known date: 1981. For Robin Rennie. The accreditation list gives the author and weaver, James Scarlett, as the designer in 1980. The tartan register records the designer as Peter MacDonald who worked as a weaver for the Scottish Tartans Society in 1981. Rennies, Rainys and Rainnies (from 'Ranald') are listed as a sept of MacDonell of Keppoch. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/k2lr6r3lr6r3k20y30r2~x2/"><circle cx="237.3" cy="158.2" r="4" fill="#3465a4"><title>Hermitage Academy (Corporate)</title></circle></a><a href="/setts/s7/r12b18k1r4k1dg6k2~x2/"><circle cx="238.8" cy="162.9" r="4" fill="#3465a4"><title>Confederate</title></circle></a><a href="/setts/s7/r12b18k1r4k1g6k2~x2/"><circle cx="238.2" cy="162.7" r="4" fill="#3465a4"><title>Confederate (Military)</title></circle></a><a href="/setts/s8/n19r2n3r2n3k43r22g3~x2/"><circle cx="285.0" cy="147.7" r="4" fill="#3465a4"><title>Carson Red (Personal)</title></circle></a><a href="/setts/s7/k9lr4k1lr4dg15r4k1~x4/"><circle cx="215.3" cy="185.3" r="4" fill="#3465a4"><title>Logan - 1797 (Dark)</title></circle></a><a href="/setts/s12/g2db1r16db12g16w1g16db12r16db1g2db1~x2/"><circle cx="224.2" cy="162.6" r="4" fill="#3465a4"><title>Unidentified (1996)</title></circle></a><a href="/setts/s9/n3r3k38n25ly3n6r7n3ly2~x2/"><circle cx="271.1" cy="144.7" r="4" fill="#3465a4"><title>Greater St Louis Area Firefighters Highland Guard</title></circle></a><a href="/setts/s7/w2k1dg16k12r12k1w2~x2/"><circle cx="191.6" cy="167.4" r="4" fill="#3465a4"><title>Prince Edward Island #2</title></circle></a><circle cx="231.5" cy="148.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w6k1y28k24dp25y3dp3y3dp3y4~x2/"><circle cx="251.0" cy="139.9" r="4" fill="#3465a4"><title>Rennie (Personal)</title></circle></a><a href="/setts/s10/w6k1g29k23dp27g3dp3g3dp3g4~x2/"><circle cx="243.4" cy="132.8" r="4" fill="#3465a4"><title>Rennie Family Tartan Tartan Number: 716. Earliest known date: 1981. For Robin Rennie. The accreditation list gives the author and weaver, James Scarlett, as the designer in 1980. The tartan register records the designer as Peter MacDonald who worked as a weaver for the Scottish Tartans Society in 1981. Rennies, Rainys and Rainnies (from 'Ranald') are listed as a sept of MacDonell of Keppoch. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/k2lr6r3lr6r3k20y30r2~x2/"><circle cx="237.1" cy="158.1" r="4" fill="#3465a4"><title>Hermitage Academy (Corporate)</title></circle></a><a href="/setts/s7/r12b18k1r4k1dg6k2~x2/"><circle cx="238.6" cy="162.9" r="4" fill="#3465a4"><title>Confederate</title></circle></a><a href="/setts/s7/r12b18k1r4k1g6k2~x2/"><circle cx="238.1" cy="162.6" r="4" fill="#3465a4"><title>Confederate (Military)</title></circle></a><a href="/setts/s8/n19r2n3r2n3k43r22g3~x2/"><circle cx="284.9" cy="147.7" r="4" fill="#3465a4"><title>Carson Red (Personal)</title></circle></a><a href="/setts/s7/k9lr4k1lr4dg15r4k1~x4/"><circle cx="215.3" cy="185.3" r="4" fill="#3465a4"><title>Logan - 1797 (Dark)</title></circle></a><a href="/setts/s12/g2db1r16db12g16w1g16db12r16db1g2db1~x2/"><circle cx="224.1" cy="162.6" r="4" fill="#3465a4"><title>Unidentified (1996)</title></circle></a><a href="/setts/s9/n3r3k38n25ly3n6r7n3ly2~x2/"><circle cx="271.1" cy="144.6" r="4" fill="#3465a4"><title>Greater St Louis Area Firefighters Highland Guard</title></circle></a><a href="/setts/s7/w2k1dg16k12r12k1w2~x2/"><circle cx="191.5" cy="167.4" r="4" fill="#3465a4"><title>Prince Edward Island #2</title></circle></a><circle cx="231.4" cy="148.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/g22k3g1k3g2p8m1p8m16~x2/

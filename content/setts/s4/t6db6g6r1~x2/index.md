@@ -2,7 +2,7 @@
 title: "Norwich No.040"
 date: 2023-03-18
 ---
-**Bands:** [BBGR](/stripes/bbgr/) · **Stripes:** [T DB G R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">T DB G R</span></span>
+**Bands:** [RGBB](/stripes/rgbb/) · **Stripes:** [R G DB T](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">R G DB T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
@@ -49,15 +49,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Breon (Personal)](/setts/s5/b25g25k6dt10r6~x2/) — ΔT 1.47
 1. [Unidentified pattern #3](/setts/s4/db4k5dg4r1~x4/) — ΔT 1.51
 1. [Friebe (2014)](/setts/s5/g15dg18dt23w4r8~x2/) — ΔT 1.55
-1. [Unidentified No 29](/setts/s6/db3dg11t2db11b6dg3~x2/) — ΔT 1.64
+1. [Unidentified No 29](/setts/s6/dg3b6db11t2dg11db3~x2/) — ΔT 1.64
 1. [Fox-Eves Wedding (Personal)](/setts/s6/r9b6dt13b21o18w4~x2/) — ΔT 1.64
-1. [Tennant](/setts/s7/r1db7g7db7g7dr7r1~x4/) — ΔT 1.69
+1. [Tennant](/setts/s7/r1dr7g7db7g7db7r1~x4/) — ΔT 1.69
 1. [Campbell of Glenlyon](/setts/s5/g7k6b7k1b2~x2/) — ΔT 1.69
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/b6db6g6r1~x2/"><circle cx="147.4" cy="296.3" r="4" fill="#3465a4"><title>Unnamed No 40</title></circle></a><a href="/setts/s4/b6db6dg6r1~x2/"><circle cx="139.3" cy="298.1" r="4" fill="#3465a4"><title>Unidentified No 40</title></circle></a><a href="/setts/s6/db3g11t2db11b6g3~x2/"><circle cx="198.4" cy="273.1" r="4" fill="#3465a4"><title>Unnamed, No 29</title></circle></a><a href="/setts/s5/b25g25k6dt10r6~x2/"><circle cx="137.0" cy="275.4" r="4" fill="#3465a4"><title>Breon (Personal)</title></circle></a><a href="/setts/s4/db4k5dg4r1~x4/"><circle cx="169.0" cy="322.1" r="4" fill="#3465a4"><title>Unidentified pattern #3</title></circle></a><a href="/setts/s5/g15dg18dt23w4r8~x2/"><circle cx="104.1" cy="261.0" r="4" fill="#3465a4"><title>Friebe (2014)</title></circle></a><a href="/setts/s6/db3dg11t2db11b6dg3~x2/"><circle cx="212.5" cy="284.7" r="4" fill="#3465a4"><title>Unidentified No 29</title></circle></a><a href="/setts/s6/r9b6dt13b21o18w4~x2/"><circle cx="131.6" cy="257.1" r="4" fill="#3465a4"><title>Fox-Eves Wedding (Personal)</title></circle></a><a href="/setts/s7/r1db7g7db7g7dr7r1~x4/"><circle cx="179.9" cy="265.0" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/setts/s5/g7k6b7k1b2~x2/"><circle cx="204.2" cy="289.2" r="4" fill="#3465a4"><title>Campbell of Glenlyon</title></circle></a><circle cx="154.2" cy="303.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/b6db6g6r1~x2/"><circle cx="147.5" cy="296.3" r="4" fill="#3465a4"><title>Unnamed No 40</title></circle></a><a href="/setts/s4/b6db6dg6r1~x2/"><circle cx="139.6" cy="298.1" r="4" fill="#3465a4"><title>Unidentified No 40</title></circle></a><a href="/setts/s6/db3g11t2db11b6g3~x2/"><circle cx="198.5" cy="273.1" r="4" fill="#3465a4"><title>Unnamed, No 29</title></circle></a><a href="/setts/s5/b25g25k6dt10r6~x2/"><circle cx="137.2" cy="275.4" r="4" fill="#3465a4"><title>Breon (Personal)</title></circle></a><a href="/setts/s4/db4k5dg4r1~x4/"><circle cx="169.3" cy="322.2" r="4" fill="#3465a4"><title>Unidentified pattern #3</title></circle></a><a href="/setts/s5/g15dg18dt23w4r8~x2/"><circle cx="104.3" cy="261.1" r="4" fill="#3465a4"><title>Friebe (2014)</title></circle></a><a href="/setts/s6/dg3b6db11t2dg11db3~x2/"><circle cx="212.7" cy="284.7" r="4" fill="#3465a4"><title>Unidentified No 29</title></circle></a><a href="/setts/s6/r9b6dt13b21o18w4~x2/"><circle cx="131.7" cy="257.1" r="4" fill="#3465a4"><title>Fox-Eves Wedding (Personal)</title></circle></a><a href="/setts/s7/r1dr7g7db7g7db7r1~x4/"><circle cx="180.1" cy="265.0" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/setts/s5/g7k6b7k1b2~x2/"><circle cx="204.4" cy="289.0" r="4" fill="#3465a4"><title>Campbell of Glenlyon</title></circle></a><circle cx="154.4" cy="303.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/t6db6g6r1~x2/

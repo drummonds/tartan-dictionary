@@ -2,7 +2,7 @@
 title: "Unidentified 31"
 date: 2023-03-18
 ---
-**Bands:** [WRRRGRWRBRY](/stripes/wrrrgrwrbry/) · **Stripes:** [W R O R G O W O DB O LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W R O R G O W O DB O LY</span></span>
+**Bands:** [YRBRWRGRRRW](/stripes/yrbrwrgrrrw/) · **Stripes:** [LY O DB O W O G R O R W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY O DB O W O G R O R W</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 R10 LT4 R24 G20 T4 LN4 T16 B8 T48 Y/6
+Y/6 T48 B8 T16 LN4 T4 G20 R24 LT4 R10 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -906,10 +909,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Unidentified (Possibly Muirhead)](/setts/s11/ly3dy24db4dy8w2dy2dg10r12dy2r5w2~x2/) — ΔT 0.82
-1. [Battle of Bannockburn, The](/setts/s8/lo1r2b3t2g6r9do1r1~x4/) — ΔT 1.30
+1. [Battle of Bannockburn, The](/setts/s8/r1do1r9g6t2b3r2lo1~x4/) — ΔT 1.30
 1. [Rathmore](/setts/s12/r10lb1r2n1r1n1lo1n4lb2r1lb2lo1~x8/) — ΔT 1.31
 1. [Ogg of Tarragann (Personal)](/setts/s12/k2t6w1r14k1r14w1k6g10lo1g2lo2~x2/) — ΔT 1.31
-1. [Wilson's No.121](/setts/s12/t4dp3y1g9lb1r8k1r8lb1g9y1dp3~x4/) — ΔT 1.34
+1. [Wilson's No.121](/setts/s12/t4dp3y1g9lb1r8k1~x4/) — ΔT 1.34
 1. [Canfield (Personal)](/setts/s11/r5w1r18dg4r6lo4r1g6k13db5lo2~x2/) — ΔT 1.35
 1. [Moray of Abercairney](/setts/s9/db3t1k1r12r1g9r1t1db3~x4/) — ΔT 1.40
 1. [Ogg of Tarragann](/setts/s12/k2t6w1r14k1r14w1k6dg10lo1dg2lo2~x2/) — ΔT 1.40
@@ -918,8 +921,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/ly3dy24db4dy8w2dy2dg10r12dy2r5w2~x2/"><circle cx="184.7" cy="116.1" r="4" fill="#3465a4"><title>Unidentified (Possibly Muirhead)</title></circle></a><a href="/setts/s8/lo1r2b3t2g6r9do1r1~x4/"><circle cx="223.1" cy="165.8" r="4" fill="#3465a4"><title>Battle of Bannockburn, The</title></circle></a><a href="/setts/s12/r10lb1r2n1r1n1lo1n4lb2r1lb2lo1~x8/"><circle cx="231.1" cy="122.4" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><a href="/setts/s12/k2t6w1r14k1r14w1k6g10lo1g2lo2~x2/"><circle cx="203.6" cy="112.5" r="4" fill="#3465a4"><title>Ogg of Tarragann (Personal)</title></circle></a><a href="/setts/s12/t4dp3y1g9lb1r8k1r8lb1g9y1dp3~x4/"><circle cx="125.1" cy="137.3" r="4" fill="#3465a4"><title>Wilson's No.121</title></circle></a><a href="/setts/s11/r5w1r18dg4r6lo4r1g6k13db5lo2~x2/"><circle cx="197.7" cy="117.4" r="4" fill="#3465a4"><title>Canfield (Personal)</title></circle></a><a href="/setts/s9/db3t1k1r12r1g9r1t1db3~x4/"><circle cx="196.9" cy="131.0" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/setts/s12/k2t6w1r14k1r14w1k6dg10lo1dg2lo2~x2/"><circle cx="202.2" cy="112.9" r="4" fill="#3465a4"><title>Ogg of Tarragann</title></circle></a><a href="/setts/s9/t3y1k1r12r1dg9r1y1t3~x2/"><circle cx="187.5" cy="131.6" r="4" fill="#3465a4"><title>Murray of Abercairney (Personal)</title></circle></a><a href="/setts/s12/dr11g3dr4ly3dr3ly4dr3y13o34g3o4n3~x2/"><circle cx="218.4" cy="126.8" r="4" fill="#3465a4"><title>Harmony 1</title></circle></a><circle cx="202.2" cy="121.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/ly3dy24db4dy8w2dy2dg10r12dy2r5w2~x2/"><circle cx="184.5" cy="116.2" r="4" fill="#3465a4"><title>Unidentified (Possibly Muirhead)</title></circle></a><a href="/setts/s8/r1do1r9g6t2b3r2lo1~x4/"><circle cx="222.9" cy="165.9" r="4" fill="#3465a4"><title>Battle of Bannockburn, The</title></circle></a><a href="/setts/s12/r10lb1r2n1r1n1lo1n4lb2r1lb2lo1~x8/"><circle cx="230.8" cy="122.5" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><a href="/setts/s12/k2t6w1r14k1r14w1k6g10lo1g2lo2~x2/"><circle cx="203.3" cy="112.6" r="4" fill="#3465a4"><title>Ogg of Tarragann (Personal)</title></circle></a><a href="/setts/s12/t4dp3y1g9lb1r8k1~x4/"><circle cx="125.1" cy="137.5" r="4" fill="#3465a4"><title>Wilson's No.121</title></circle></a><a href="/setts/s11/r5w1r18dg4r6lo4r1g6k13db5lo2~x2/"><circle cx="197.6" cy="117.6" r="4" fill="#3465a4"><title>Canfield (Personal)</title></circle></a><a href="/setts/s9/db3t1k1r12r1g9r1t1db3~x4/"><circle cx="196.7" cy="131.1" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/setts/s12/k2t6w1r14k1r14w1k6dg10lo1dg2lo2~x2/"><circle cx="201.9" cy="113.0" r="4" fill="#3465a4"><title>Ogg of Tarragann</title></circle></a><a href="/setts/s9/t3y1k1r12r1dg9r1y1t3~x2/"><circle cx="187.3" cy="131.7" r="4" fill="#3465a4"><title>Murray of Abercairney (Personal)</title></circle></a><a href="/setts/s12/dr11g3dr4ly3dr3ly4dr3y13o34g3o4n3~x2/"><circle cx="218.2" cy="127.0" r="4" fill="#3465a4"><title>Harmony 1</title></circle></a><circle cx="202.0" cy="121.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/ly3o24db4o8w2o2g10r12o2r5w2~x2/

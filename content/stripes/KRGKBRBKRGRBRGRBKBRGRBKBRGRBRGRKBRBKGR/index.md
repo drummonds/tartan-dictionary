@@ -22,6 +22,6 @@ KRGKBRBKRGRBRGRBKBRGRBKBRGRBRGRKBRBKGR
 
 | Tartans |
 |---------------|
-| [Unidentified Cant #07](/setts/s38/k21r3g16k6db10r42db11k3r6g4r6db10r6g4r6db3k21db3r24g24r24db3k21db3r6g4r6db10r6g4r6k3db11r42db10k6g16r3/)|
-|![Unidentified Cant #07 example sett](/setts/s38/k21r3g16k6db10r42db11k3r6g4r6db10r6g4r6db3k21db3r24g24r24db3k21db3r6g4r6db10r6g4r6k3db11r42db10k6g16r3/sett.png)|
+| [Unidentified Cant #07](/setts/s38/g24r24db3k21db3r6g4r6db10r6g4r6k3db11r42db10k6g16r3k21/)|
+|![Unidentified Cant #07 example sett](/setts/s38/g24r24db3k21db3r6g4r6db10r6g4r6k3db11r42db10k6g16r3k21/sett.png)|
 

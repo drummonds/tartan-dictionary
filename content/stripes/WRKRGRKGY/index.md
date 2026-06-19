@@ -18,10 +18,10 @@ WRKRGRKGY
 
 
 
-### W R K R G R K G LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W R K R G R K G LY</span></span>
+### LY G K R G R K R W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY G K R G R K R W</span></span>
 
 | Tartans |
 |---------------|
-| [Brown, George](/setts/s9/ly3g24k18r4g22r6k4r3w3~x2/)|
-|![Brown, George example sett](/setts/s9/ly3g24k18r4g22r6k4r3w3~x2/sett.png)|
+| [Brown, George](/setts/s9/w3r3k4r6g22r4k18g24ly3~x2/)|
+|![Brown, George example sett](/setts/s9/w3r3k4r6g22r4k18g24ly3~x2/sett.png)|
 

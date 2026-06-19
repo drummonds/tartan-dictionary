@@ -8,7 +8,7 @@ GBRKGK
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/dg2db12r1k12dg12k2~x2/tartan.png)
+![Woven sample](/setts/s6/k2dg12k12r1db12dg2~x2/tartan.png)
 
 
 
@@ -21,21 +21,19 @@ GBRKGK
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DG DB R K DG K <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="seq">DG DB R K DG K</span></span>
+### K G K R DB G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G K R DB G</span></span>
 
 | Tartans |
 |---------------|
-| [Ferguson of Balquhidder](/setts/s6/dg2db12r1k12dg12k2~x2/)|
-|![Ferguson of Balquhidder example sett](/setts/s6/dg2db12r1k12dg12k2~x2/sett.png)|
-| [Ferguson of Balquhidder](/setts/s6/dg2db12r1k12dg12k2/)|
-|![Ferguson of Balquhidder example sett](/setts/s6/dg2db12r1k12dg12k2/sett.png)|
+| [Ferguson of Balquhidder #2](/setts/s6/k4g25k24r3db24g4~x2/)|
+|![Ferguson of Balquhidder #2 example sett](/setts/s6/k4g25k24r3db24g4~x2/sett.png)|
+| [Ferguson of Balquhidder](/setts/s6/k2g12k12r1db12g2~x2/)|
+|![Ferguson of Balquhidder example sett](/setts/s6/k2g12k12r1db12g2~x2/sett.png)|
 
-### G DB R K G K <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">G DB R K G K</span></span>
+### K DG K R DB DG <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">K DG K R DB DG</span></span>
 
 | Tartans |
 |---------------|
-| [Ferguson of Balquhidder #2](/setts/s6/g4db24r3k24g25k4~x2/)|
-|![Ferguson of Balquhidder #2 example sett](/setts/s6/g4db24r3k24g25k4~x2/sett.png)|
-| [Ferguson of Balquhidder](/setts/s6/g2db12r1k12g12k2~x2/)|
-|![Ferguson of Balquhidder example sett](/setts/s6/g2db12r1k12g12k2~x2/sett.png)|
+| [Ferguson of Balquhidder](/setts/s6/k2dg12k12r1db12dg2~x2/)|
+|![Ferguson of Balquhidder example sett](/setts/s6/k2dg12k12r1db12dg2~x2/sett.png)|
 

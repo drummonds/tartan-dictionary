@@ -2,7 +2,7 @@
 title: "Contrecoeur"
 date: 2023-03-18
 ---
-**Bands:** [BRWRYRGYWRWYGRY](/stripes/brwryrgywrwygry/) · **Stripes:** [DB M W M LY O G LY LB M LB LY G O LY](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB M W M LY O G LY LB M LB LY G O LY</span></span>
+**Bands:** [YRGYWRWYGRYRWRB](/stripes/yrgywrwygryrwrb/) · **Stripes:** [LY O G LY LB M LB LY G O LY M W M DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="seq">LY O G LY LB M LB LY G O LY M W M DB</span></span>
 
 
 This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/10 DR26 LN6 DR14 Y20 LT2 G4 Y4 N4 DR2 N4 Y4 G4 LT2 Y/20
+Y/20 LT2 G4 Y4 N4 DR2 N4 Y4 G4 LT2 Y20 DR14 LN6 DR26 B/10
 ![Sett](sett.png)
 
 ## Palette
@@ -918,8 +921,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/ly10dy1g2ly2w2r1w2ly2g2dy1ly10r7w3r13db5~x2/"><circle cx="111.1" cy="77.9" r="4" fill="#3465a4"><title>Contrecoeur</title></circle></a><a href="/setts/s15/ly10dy1g2ly2w2r1k2ly2g2dy1ly10r7w3r13db5~x2/"><circle cx="90.5" cy="62.5" r="4" fill="#3465a4"><title>Contrecoeur Corporate Tartan Tartan Number: 2294. Earliest known date: 1992 Small township in southern Quebec. Tartan designed by French Canadian Madeleine Asselin. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r12w1k1g12ly2db5t6r2t2r4g2r2k2g2~x2/"><circle cx="114.4" cy="101.5" r="4" fill="#3465a4"><title>Unnamed 11</title></circle></a><a href="/setts/s15/ly10w1g2k2w2r1w2k2g2k1ly10w7r3w13t5~x2/"><circle cx="103.6" cy="76.0" r="4" fill="#3465a4"><title>Contreceour Dress Corporate Tartan Tartan Number: 2295. Earliest known date: 1992 Small township in southern Quebec. Tartan designed by French Canadian Madeleine Asselin. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/k8w1r2g16r8g8r11ly2g2lo1g2w2r10ly2r2k1w4~x2/"><circle cx="149.7" cy="86.9" r="4" fill="#3465a4"><title>Pernel (Personal)</title></circle></a><a href="/setts/s14/lo35r3k21r3g21lo6w3k3w3lo6lb15w3k6w6~x2/"><circle cx="96.8" cy="94.2" r="4" fill="#3465a4"><title>Dundee (2003)</title></circle></a><a href="/setts/s12/r14lg4dt6ly1dt2w2dt2lg12r6dt2r2w1~x4/"><circle cx="156.6" cy="102.7" r="4" fill="#3465a4"><title>Stewart - Pr Ch Ed (Royal)</title></circle></a><a href="/setts/s14/dy2w2k2w12dy1w1dy1w1lo4do5lo2do9dy3r2~x2/"><circle cx="101.1" cy="98.6" r="4" fill="#3465a4"><title>Harrods (Corporate)</title></circle></a><a href="/setts/s13/ly30dy20db2k6ly3k2w3k2g6r6k3r3w3~x2/"><circle cx="111.9" cy="61.1" r="4" fill="#3465a4"><title>Cree</title></circle></a><a href="/setts/s15/db1ly3r3k2db8ly3r2k1r2ly3g8w1k1r12w1~x2/"><circle cx="113.6" cy="97.8" r="4" fill="#3465a4"><title>MacPherson 5</title></circle></a><circle cx="117.9" cy="82.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/ly10dy1g2ly2w2r1w2ly2g2dy1ly10r7w3r13db5~x2/"><circle cx="110.8" cy="78.0" r="4" fill="#3465a4"><title>Contrecoeur</title></circle></a><a href="/setts/s15/ly10dy1g2ly2w2r1k2ly2g2dy1ly10r7w3r13db5~x2/"><circle cx="90.2" cy="62.6" r="4" fill="#3465a4"><title>Contrecoeur Corporate Tartan Tartan Number: 2294. Earliest known date: 1992 Small township in southern Quebec. Tartan designed by French Canadian Madeleine Asselin. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r12w1k1g12ly2db5t6r2t2r4g2r2k2g2~x2/"><circle cx="114.2" cy="101.6" r="4" fill="#3465a4"><title>Unnamed 11</title></circle></a><a href="/setts/s15/ly10w1g2k2w2r1w2k2g2k1ly10w7r3w13t5~x2/"><circle cx="103.2" cy="76.0" r="4" fill="#3465a4"><title>Contreceour Dress Corporate Tartan Tartan Number: 2295. Earliest known date: 1992 Small township in southern Quebec. Tartan designed by French Canadian Madeleine Asselin. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/k8w1r2g16r8g8r11ly2g2lo1g2w2r10ly2r2k1w4~x2/"><circle cx="149.4" cy="86.9" r="4" fill="#3465a4"><title>Pernel (Personal)</title></circle></a><a href="/setts/s14/lo35r3k21r3g21lo6w3k3w3lo6lb15w3k6w6~x2/"><circle cx="96.5" cy="94.3" r="4" fill="#3465a4"><title>Dundee (2003)</title></circle></a><a href="/setts/s12/r14lg4dt6ly1dt2w2dt2lg12r6dt2r2w1~x4/"><circle cx="156.3" cy="102.8" r="4" fill="#3465a4"><title>Stewart - Pr Ch Ed (Royal)</title></circle></a><a href="/setts/s14/dy2w2k2w12dy1w1dy1w1lo4do5lo2do9dy3r2~x2/"><circle cx="100.9" cy="98.7" r="4" fill="#3465a4"><title>Harrods (Corporate)</title></circle></a><a href="/setts/s13/ly30dy20db2k6ly3k2w3k2g6r6k3r3w3~x2/"><circle cx="111.6" cy="61.3" r="4" fill="#3465a4"><title>Cree</title></circle></a><a href="/setts/s15/db1ly3r3k2db8ly3r2k1r2ly3g8w1k1r12w1~x2/"><circle cx="113.4" cy="97.9" r="4" fill="#3465a4"><title>MacPherson 5</title></circle></a><circle cx="117.6" cy="82.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/ly10o1g2ly2lb2m1lb2ly2g2o1ly10m7w3m13db5~x2/

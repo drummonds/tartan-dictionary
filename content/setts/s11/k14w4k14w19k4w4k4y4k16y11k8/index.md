@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -904,7 +907,7 @@ The nearest existing variants by ΔTartan distance.
 1. [North Carolina State University - Pack Plaid](/setts/s12/w15dt25r10w5dt25w7dt16k9dt17k10dt23r9~x2/) — ΔT 1.25
 1. [Priest](/setts/s8/k1lb8k8lb1k8lb4k4lb1~x2/) — ΔT 1.60
 1. [Blackcraig](/setts/s15/k10w10k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/) — ΔT 1.65
-1. [Clergy, or Priest](/setts/s11/b1k4b1lp2b1k8b1k8lp7b1k1~x4/) — ΔT 1.72
+1. [Clergy, or Priest](/setts/s11/k1b1lp7k8b1k8b1lp2b1k4b1~x4/) — ΔT 1.72
 1. [Little, Arisaid](/setts/s10/k5w4k4r4k4w7k2w7k8ly1~x4/) — ΔT 1.72
 1. [MacLean, Black & White](/setts/s11/w20k6w9k6w6k12w6k48w8k16w16/) — ΔT 1.75
 1. [Clark (Crook)](/setts/s11/k1t1lp7k8t1k8t1lp2t1k4t1~x4/) — ΔT 1.75
@@ -914,8 +917,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w15dt25r10w5dt25w7dt16k9dt17k10dt23r9~x2/"><circle cx="219.2" cy="230.4" r="4" fill="#3465a4"><title>North Carolina State University - Pack Plaid</title></circle></a><a href="/setts/s8/k1lb8k8lb1k8lb4k4lb1~x2/"><circle cx="316.5" cy="239.0" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/setts/s15/k10w10k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/"><circle cx="183.5" cy="231.2" r="4" fill="#3465a4"><title>Blackcraig</title></circle></a><a href="/setts/s11/b1k4b1lp2b1k8b1k8lp7b1k1~x4/"><circle cx="291.8" cy="193.9" r="4" fill="#3465a4"><title>Clergy, or Priest</title></circle></a><a href="/setts/s10/k5w4k4r4k4w7k2w7k8ly1~x4/"><circle cx="176.8" cy="215.2" r="4" fill="#3465a4"><title>Little, Arisaid</title></circle></a><a href="/setts/s11/w20k6w9k6w6k12w6k48w8k16w16/"><circle cx="309.3" cy="208.6" r="4" fill="#3465a4"><title>MacLean, Black &amp; White</title></circle></a><a href="/setts/s11/k1t1lp7k8t1k8t1lp2t1k4t1~x4/"><circle cx="301.8" cy="194.8" r="4" fill="#3465a4"><title>Clark (Crook)</title></circle></a><a href="/setts/s10/k10n2lb5k5r1k5lb5n2k10r1~x4/"><circle cx="308.6" cy="199.5" r="4" fill="#3465a4"><title>Callaway Corporate Tartan Tartan Number: 2313. Earliest known date: pre 1997 Designed by Arthur Bell (Scotch Tweeds) for a golf course and golf merchandising company in California. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s20/o11k16o4k4w4k4w19k14w4k14w4k14w19k4w4k4o4k16o11k8/"><circle cx="193.3" cy="202.7" r="4" fill="#3465a4"><title>Stewart/Stuart Royal (B,W. &amp; Grey)</title></circle></a><a href="/setts/s11/k4w4db19k19w4k19w4db7w4db11w4~x2/"><circle cx="165.0" cy="225.4" r="4" fill="#3465a4"><title>Clark</title></circle></a><circle cx="229.3" cy="237.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w15dt25r10w5dt25w7dt16k9dt17k10dt23r9~x2/"><circle cx="219.2" cy="230.2" r="4" fill="#3465a4"><title>North Carolina State University - Pack Plaid</title></circle></a><a href="/setts/s8/k1lb8k8lb1k8lb4k4lb1~x2/"><circle cx="316.5" cy="238.6" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/setts/s15/k10w10k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/"><circle cx="183.4" cy="230.9" r="4" fill="#3465a4"><title>Blackcraig</title></circle></a><a href="/setts/s11/k1b1lp7k8b1k8b1lp2b1k4b1~x4/"><circle cx="291.9" cy="193.6" r="4" fill="#3465a4"><title>Clergy, or Priest</title></circle></a><a href="/setts/s10/k5w4k4r4k4w7k2w7k8ly1~x4/"><circle cx="176.9" cy="215.0" r="4" fill="#3465a4"><title>Little, Arisaid</title></circle></a><a href="/setts/s11/w20k6w9k6w6k12w6k48w8k16w16/"><circle cx="309.1" cy="208.3" r="4" fill="#3465a4"><title>MacLean, Black &amp; White</title></circle></a><a href="/setts/s11/k1t1lp7k8t1k8t1lp2t1k4t1~x4/"><circle cx="301.7" cy="194.5" r="4" fill="#3465a4"><title>Clark (Crook)</title></circle></a><a href="/setts/s10/k10n2lb5k5r1k5lb5n2k10r1~x4/"><circle cx="308.6" cy="199.3" r="4" fill="#3465a4"><title>Callaway Corporate Tartan Tartan Number: 2313. Earliest known date: pre 1997 Designed by Arthur Bell (Scotch Tweeds) for a golf course and golf merchandising company in California. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s20/o11k16o4k4w4k4w19k14w4k14w4k14w19k4w4k4o4k16o11k8/"><circle cx="193.2" cy="202.5" r="4" fill="#3465a4"><title>Stewart/Stuart Royal (B,W. &amp; Grey)</title></circle></a><a href="/setts/s11/k4w4db19k19w4k19w4db7w4db11w4~x2/"><circle cx="165.2" cy="225.2" r="4" fill="#3465a4"><title>Clark</title></circle></a><circle cx="229.4" cy="237.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k14w4k14w19k4w4k4y4k16y11k8/

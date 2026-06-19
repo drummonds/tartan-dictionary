@@ -18,7 +18,7 @@ GKGBGKGKBGK
 
 
 
-### Y K Y DP Y K Y K DP Y K <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="seq">Y K Y DP Y K Y K DP Y K</span></span>
+### K Y DP K Y K Y DP Y K Y <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K Y DP K Y K Y DP Y K Y</span></span>
 
 | Tartans |
 |---------------|

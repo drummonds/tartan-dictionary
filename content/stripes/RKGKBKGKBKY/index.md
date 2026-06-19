@@ -23,13 +23,13 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Ayrton (amended)](/setts/s11/ly4k2db25k2dg4k2t10k2dg25k2r4~x2/)|
-|![Ayrton (amended) example sett](/setts/s11/ly4k2db25k2dg4k2t10k2dg25k2r4~x2/sett.png)|
+| [Ayrton (amended)](/setts/s11/r4k2dg25k2t10k2dg4k2db25k2ly4~x2/)|
+|![Ayrton (amended) example sett](/setts/s11/r4k2dg25k2t10k2dg4k2db25k2ly4~x2/sett.png)|
 
 ### R K G K T K G K DB K LY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R K G K T K G K DB K LY</span></span>
 
 | Tartans |
 |---------------|
-| [Ayrton (1979) (Personal)](/setts/s11/ly4k2db25k2g4k2t10k2g25k2r4~x2/)|
-|![Ayrton (1979) (Personal) example sett](/setts/s11/ly4k2db25k2g4k2t10k2g25k2r4~x2/sett.png)|
+| [Ayrton (1979) (Personal)](/setts/s11/r4k2g25k2t10k2g4k2db25k2ly4~x2/)|
+|![Ayrton (1979) (Personal) example sett](/setts/s11/r4k2g25k2t10k2g4k2db25k2ly4~x2/sett.png)|
 

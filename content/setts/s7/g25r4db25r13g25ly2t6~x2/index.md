@@ -2,7 +2,7 @@
 title: "Rotary"
 date: 2023-03-18
 ---
-**Bands:** [BYGRBRG](/stripes/bygrbrg/) · **Stripes:** [T LY G R DB R G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">T LY G R DB R G</span></span>
+**Bands:** [GRBRGYB](/stripes/grbrgyb/) · **Stripes:** [G R DB R G LY T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="seq">G R DB R G LY T</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-Ba/12 Y4 G50 R26 B50 R8 G/50
+G/50 R8 B50 R26 G50 Y4 Ba/12
 ![Sett](sett.png)
 
 ## Palette
@@ -901,7 +904,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "Ba/12 Y4 G50 R26 B50 R8 G/50 tartan")
+![Tartan detail](tartan.png "G/50 R8 B50 R26 G50 Y4 Ba/12 tartan")
 
 ## Nearest tartans
 
@@ -920,8 +923,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g15r3t15r8g15ly2db4~x2/"><circle cx="205.9" cy="226.6" r="4" fill="#3465a4"><title>Rotary International</title></circle></a><a href="/setts/s7/g10r3g30y10w2db15r4~x2/"><circle cx="289.4" cy="189.5" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s8/n8ly2n22dg6r2lb10dg12n3~x2/"><circle cx="249.3" cy="195.7" r="4" fill="#3465a4"><title>Bahamas</title></circle></a><a href="/setts/s10/db22g6db5t2g22r6g5r4g9w3~x2/"><circle cx="246.7" cy="180.2" r="4" fill="#3465a4"><title>MacConnell</title></circle></a><a href="/setts/s8/n8ly2n22g6r2lb10g12n3~x2/"><circle cx="261.1" cy="201.9" r="4" fill="#3465a4"><title>Bahamas (District)</title></circle></a><a href="/setts/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="266.2" cy="199.6" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/setts/s7/lo30w4lo20g20k20lo3k6~x2/"><circle cx="199.3" cy="197.8" r="4" fill="#3465a4"><title>St Andrews Bay</title></circle></a><a href="/setts/s9/dy21r2g18r2g18r2dg8w6dy10~x2/"><circle cx="200.7" cy="195.3" r="4" fill="#3465a4"><title>Red Dirt Girl</title></circle></a><a href="/setts/s7/k4g16db11r16g25ly2t3~x2/"><circle cx="223.1" cy="175.5" r="4" fill="#3465a4"><title>Mayo</title></circle></a><a href="/setts/s6/g26db3g12k10dp15w2~x2/"><circle cx="275.6" cy="207.5" r="4" fill="#3465a4"><title>Lossiemouth/Hersbruck</title></circle></a><circle cx="243.0" cy="204.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g15r3t15r8g15ly2db4~x2/"><circle cx="205.9" cy="226.5" r="4" fill="#3465a4"><title>Rotary International</title></circle></a><a href="/setts/s7/g10r3g30y10w2db15r4~x2/"><circle cx="289.3" cy="189.5" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s8/n8ly2n22dg6r2lb10dg12n3~x2/"><circle cx="249.2" cy="195.7" r="4" fill="#3465a4"><title>Bahamas</title></circle></a><a href="/setts/s10/db22g6db5t2g22r6g5r4g9w3~x2/"><circle cx="246.6" cy="180.2" r="4" fill="#3465a4"><title>MacConnell</title></circle></a><a href="/setts/s8/n8ly2n22g6r2lb10g12n3~x2/"><circle cx="261.0" cy="201.8" r="4" fill="#3465a4"><title>Bahamas (District)</title></circle></a><a href="/setts/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="266.1" cy="199.5" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/setts/s7/lo30w4lo20g20k20lo3k6~x2/"><circle cx="199.3" cy="197.7" r="4" fill="#3465a4"><title>St Andrews Bay</title></circle></a><a href="/setts/s9/dy21r2g18r2g18r2dg8w6dy10~x2/"><circle cx="200.6" cy="195.3" r="4" fill="#3465a4"><title>Red Dirt Girl</title></circle></a><a href="/setts/s7/k4g16db11r16g25ly2t3~x2/"><circle cx="223.0" cy="175.4" r="4" fill="#3465a4"><title>Mayo</title></circle></a><a href="/setts/s6/g26db3g12k10dp15w2~x2/"><circle cx="275.6" cy="207.4" r="4" fill="#3465a4"><title>Lossiemouth/Hersbruck</title></circle></a><circle cx="242.9" cy="204.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/g25r4db25r13g25ly2t6~x2/

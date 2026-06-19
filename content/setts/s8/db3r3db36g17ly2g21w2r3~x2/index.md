@@ -2,7 +2,7 @@
 title: "Singh"
 date: 2023-03-18
 ---
-**Bands:** [BRBGYGWR](/stripes/brbgygwr/) · **Stripes:** [DB R DB G LY G W R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R DB G LY G W R</span></span>
+**Bands:** [RWGYGBRB](/stripes/rwgygbrb/) · **Stripes:** [R W G LY G DB R DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R W G LY G DB R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/6 R6 B72 G34 Y4 G42 LN4 R/6
+R/6 LN4 G42 Y4 G34 B72 R6 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -908,7 +911,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/6 R6 B72 G34 Y4 G42 LN4 R/6 tartan")
+![Tartan detail](tartan.png "R/6 LN4 G42 Y4 G34 B72 R6 B/6 tartan")
 
 ## Nearest tartans
 
@@ -917,7 +920,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Fox Hunting](/setts/s8/r4k2g36k2b18ly3b18k2~x2/) — ΔT 0.71
 1. [Carmichael](/setts/s6/k3g36db28r2db2ly3~x2/) — ΔT 0.84
 1. [Chartered Accountants of Scotland](/setts/s8/ly4g3r2g36b30k3b3k3~x2/) — ΔT 0.98
-1. [New Mexico](/setts/s8/ly1r2ly4db22g10db2g16r1~x2/) — ΔT 1.00
+1. [New Mexico](/setts/s8/r1g16db2g10db22ly4r2ly1~x2/) — ΔT 1.00
 1. [MX-5 Owners' Club](/setts/s7/r6db27t2g2t2g30w4~x2/) — ΔT 1.00
 1. [Hydesville Tower (Corporate)](/setts/s7/dg30db6r2db2ly2db15w2~x2/) — ΔT 1.03
 1. [MacOrrell](/setts/s9/db5ly2db17g14w1g1w1g4ly2~x2/) — ΔT 1.05
@@ -927,8 +930,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r4k2g36k2b18ly3b18k2~x2/"><circle cx="271.3" cy="163.2" r="4" fill="#3465a4"><title>Fox Hunting</title></circle></a><a href="/setts/s6/k3g36db28r2db2ly3~x2/"><circle cx="296.6" cy="163.6" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><a href="/setts/s8/ly4g3r2g36b30k3b3k3~x2/"><circle cx="304.4" cy="159.4" r="4" fill="#3465a4"><title>Chartered Accountants of Scotland</title></circle></a><a href="/setts/s8/ly1r2ly4db22g10db2g16r1~x2/"><circle cx="289.9" cy="164.2" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/setts/s7/r6db27t2g2t2g30w4~x2/"><circle cx="242.9" cy="158.5" r="4" fill="#3465a4"><title>MX-5 Owners' Club</title></circle></a><a href="/setts/s7/dg30db6r2db2ly2db15w2~x2/"><circle cx="307.3" cy="164.2" r="4" fill="#3465a4"><title>Hydesville Tower (Corporate)</title></circle></a><a href="/setts/s9/db5ly2db17g14w1g1w1g4ly2~x2/"><circle cx="282.6" cy="161.0" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><a href="/setts/s10/t24k2r2t2db12g28r4g5t3g3~x2/"><circle cx="243.9" cy="160.0" r="4" fill="#3465a4"><title>Downie (Name)</title></circle></a><a href="/setts/s9/g5db24g7k10g24ly2db2ly2r2~x2/"><circle cx="241.8" cy="173.1" r="4" fill="#3465a4"><title>Maitland Chief</title></circle></a><a href="/setts/s7/db3g13t1r3t1db10ly1~x2/"><circle cx="236.5" cy="178.7" r="4" fill="#3465a4"><title>Heckenberg Htg (Personal)</title></circle></a><circle cx="281.6" cy="156.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r4k2g36k2b18ly3b18k2~x2/"><circle cx="271.2" cy="163.3" r="4" fill="#3465a4"><title>Fox Hunting</title></circle></a><a href="/setts/s6/k3g36db28r2db2ly3~x2/"><circle cx="296.5" cy="163.5" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><a href="/setts/s8/ly4g3r2g36b30k3b3k3~x2/"><circle cx="304.2" cy="159.4" r="4" fill="#3465a4"><title>Chartered Accountants of Scotland</title></circle></a><a href="/setts/s8/r1g16db2g10db22ly4r2ly1~x2/"><circle cx="289.7" cy="164.1" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/setts/s7/r6db27t2g2t2g30w4~x2/"><circle cx="242.9" cy="158.5" r="4" fill="#3465a4"><title>MX-5 Owners' Club</title></circle></a><a href="/setts/s7/dg30db6r2db2ly2db15w2~x2/"><circle cx="307.2" cy="164.1" r="4" fill="#3465a4"><title>Hydesville Tower (Corporate)</title></circle></a><a href="/setts/s9/db5ly2db17g14w1g1w1g4ly2~x2/"><circle cx="282.4" cy="160.8" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><a href="/setts/s10/t24k2r2t2db12g28r4g5t3g3~x2/"><circle cx="243.8" cy="160.1" r="4" fill="#3465a4"><title>Downie (Name)</title></circle></a><a href="/setts/s9/g5db24g7k10g24ly2db2ly2r2~x2/"><circle cx="241.8" cy="173.1" r="4" fill="#3465a4"><title>Maitland Chief</title></circle></a><a href="/setts/s7/db3g13t1r3t1db10ly1~x2/"><circle cx="236.5" cy="178.7" r="4" fill="#3465a4"><title>Heckenberg Htg (Personal)</title></circle></a><circle cx="281.5" cy="156.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db3r3db36g17ly2g21w2r3~x2/

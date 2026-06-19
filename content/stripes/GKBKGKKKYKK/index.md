@@ -18,10 +18,10 @@ GKBKGKKKYKK
 
 
 
-### DG K N K DG K K K LY K K <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="seq">DG K N K DG K K K LY K K</span></span>
+### K K LY K K K DG K N K DG <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K K LY K K K DG K N K DG</span></span>
 
 | Tartans |
 |---------------|
-| [Choinka Family (Inverness)](/setts/s11/dg4k2n3k2dg20k9k7k2ly3k2k4~x2/)|
-|![Choinka Family (Inverness) example sett](/setts/s11/dg4k2n3k2dg20k9k7k2ly3k2k4~x2/sett.png)|
+| [Choinka Family (Inverness)](/setts/s11/k4k2ly3k2k7k9dg20k2n3k2dg4~x2/)|
+|![Choinka Family (Inverness) example sett](/setts/s11/k4k2ly3k2k7k9dg20k2n3k2dg4~x2/sett.png)|
 

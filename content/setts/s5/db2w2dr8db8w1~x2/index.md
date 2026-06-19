@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -925,8 +928,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db1lb1dr4db4lb1~x4/"><circle cx="217.8" cy="274.2" r="4" fill="#3465a4"><title>Laval, Tartan de</title></circle></a><a href="/setts/s5/db6r1db6r9lr1~x2/"><circle cx="313.1" cy="250.1" r="4" fill="#3465a4"><title>Hamilton</title></circle></a><a href="/setts/s6/r5db35k25db8ly10r5~x2/"><circle cx="220.8" cy="221.3" r="4" fill="#3465a4"><title>University of Notre Dame</title></circle></a><a href="/setts/s4/r21db43db86w10/"><circle cx="259.4" cy="236.9" r="4" fill="#3465a4"><title>Fong Wedding (Personal)</title></circle></a><a href="/setts/s5/db6r1db6r9lb1~x2/"><circle cx="299.4" cy="240.1" r="4" fill="#3465a4"><title>Hamilton</title></circle></a><a href="/setts/s6/db2ly1db7w1k7w2~x6/"><circle cx="197.1" cy="217.5" r="4" fill="#3465a4"><title>Hawick Rugby Club (Corporate)</title></circle></a><a href="/setts/s5/k60w8lo15dp74k14/"><circle cx="248.0" cy="217.6" r="4" fill="#3465a4"><title>Gingles (Personal)</title></circle></a><a href="/setts/s5/k15ly2k10db18w3~x2/"><circle cx="267.3" cy="244.8" r="4" fill="#3465a4"><title>College of Radiographers Corporate Tartan Tartan Number: 1274. Earliest known date: 1988 Marketed in Edinburgh around 1930s but no longer seen. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/k1db7k7ly1~x10/"><circle cx="308.4" cy="281.8" r="4" fill="#3465a4"><title>Wallace (Personal)</title></circle></a><a href="/setts/s6/r12db3g5db16ly2g2~x2/"><circle cx="223.8" cy="209.6" r="4" fill="#3465a4"><title>Dunbog Primary (School)</title></circle></a><circle cx="254.5" cy="242.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db1lb1dr4db4lb1~x4/"><circle cx="217.9" cy="274.1" r="4" fill="#3465a4"><title>Laval, Tartan de</title></circle></a><a href="/setts/s5/db6r1db6r9lr1~x2/"><circle cx="313.1" cy="249.9" r="4" fill="#3465a4"><title>Hamilton</title></circle></a><a href="/setts/s6/r5db35k25db8ly10r5~x2/"><circle cx="220.8" cy="221.1" r="4" fill="#3465a4"><title>University of Notre Dame</title></circle></a><a href="/setts/s4/r21db43db86w10/"><circle cx="259.5" cy="236.7" r="4" fill="#3465a4"><title>Fong Wedding (Personal)</title></circle></a><a href="/setts/s5/db6r1db6r9lb1~x2/"><circle cx="299.4" cy="239.8" r="4" fill="#3465a4"><title>Hamilton</title></circle></a><a href="/setts/s6/db2ly1db7w1k7w2~x6/"><circle cx="197.2" cy="217.3" r="4" fill="#3465a4"><title>Hawick Rugby Club (Corporate)</title></circle></a><a href="/setts/s5/k60w8lo15dp74k14/"><circle cx="248.1" cy="217.5" r="4" fill="#3465a4"><title>Gingles (Personal)</title></circle></a><a href="/setts/s5/k15ly2k10db18w3~x2/"><circle cx="267.5" cy="244.6" r="4" fill="#3465a4"><title>College of Radiographers Corporate Tartan Tartan Number: 1274. Earliest known date: 1988 Marketed in Edinburgh around 1930s but no longer seen. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/k1db7k7ly1~x10/"><circle cx="308.7" cy="281.6" r="4" fill="#3465a4"><title>Wallace (Personal)</title></circle></a><a href="/setts/s6/r12db3g5db16ly2g2~x2/"><circle cx="223.9" cy="209.5" r="4" fill="#3465a4"><title>Dunbog Primary (School)</title></circle></a><circle cx="254.6" cy="242.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/db2w2dr8db8w1~x2/

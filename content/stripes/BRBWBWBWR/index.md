@@ -19,14 +19,14 @@ BRBWBWBWR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB R DB LB DB LB DB LB R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R DB LB DB LB DB LB R</span></span>
+### R LB DB LB DB LB DB R DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R LB DB LB DB LB DB R DB</span></span>
 
 | Tartans |
 |---------------|
 | [American](/setts/s9/db2r21db1lb4db7lb2db2lb2r2~x4/)|
 |![American example sett](/setts/s9/db2r21db1lb4db7lb2db2lb2r2~x4/sett.png)|
 
-### DB R DB W DB W DB W R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R DB W DB W DB W R</span></span>
+### R W DB W DB W DB R DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R W DB W DB W DB R DB</span></span>
 
 | Tartans |
 |---------------|

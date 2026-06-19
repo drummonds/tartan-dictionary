@@ -2,7 +2,7 @@
 title: "Wilson's, No 167"
 date: 2023-03-18
 ---
-**Bands:** [KBGKBK](/stripes/kbgkbk/) · **Stripes:** [K P G K T K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="seq">K P G K T K</span></span>
+**Bands:** [KBKGBK](/stripes/kbkgbk/) · **Stripes:** [K T K G P K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="seq">K T K G P K</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -907,7 +910,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Douglas, (Black)](/setts/s5/k12db3g23k23r3~x2/) — ΔT 0.97
-1. [Gunn](/setts/s6/g2k12g1k12g12r2~x2/) — ΔT 1.15
+1. [Gunn](/setts/s6/r2g12k12g1k12g2~x2/) — ΔT 1.15
 1. [Murray](/setts/s6/t3k16g16k16db3t3~x2/) — ΔT 1.22
 1. [MacAulay Hunting](/setts/s8/dg6k16lb1k16dg8k4dg12r2~x2/) — ΔT 1.25
 1. [MacArthur](/setts/s5/k32dg6k12dg30ly3/) — ΔT 1.30
@@ -919,8 +922,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k12db3g23k23r3~x2/"><circle cx="258.7" cy="244.8" r="4" fill="#3465a4"><title>Douglas, (Black)</title></circle></a><a href="/setts/s6/g2k12g1k12g12r2~x2/"><circle cx="323.9" cy="233.6" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/setts/s6/t3k16g16k16db3t3~x2/"><circle cx="234.1" cy="251.1" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s8/dg6k16lb1k16dg8k4dg12r2~x2/"><circle cx="313.2" cy="214.1" r="4" fill="#3465a4"><title>MacAulay Hunting</title></circle></a><a href="/setts/s5/k32dg6k12dg30ly3/"><circle cx="310.8" cy="254.5" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/setts/s5/k2db11k26g11k2~x2/"><circle cx="323.2" cy="234.1" r="4" fill="#3465a4"><title>Campbell of Lochawe</title></circle></a><a href="/setts/s7/k36w3k10w3g28r6k18~x2/"><circle cx="329.2" cy="209.2" r="4" fill="#3465a4"><title>Wild Highlanders (Corporate)</title></circle></a><a href="/setts/s7/k16g15k4t12k22w2k6~x2/"><circle cx="305.4" cy="232.8" r="4" fill="#3465a4"><title>Frame (Edinburgh) (Personal)</title></circle></a><a href="/setts/s8/dg6k16lr1k16dg8k4dg12r2~x2/"><circle cx="323.6" cy="218.8" r="4" fill="#3465a4"><title>MacAulay Hunting</title></circle></a><a href="/setts/s5/k32dg6k12dg30ly3~x2/"><circle cx="327.6" cy="262.1" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><circle cx="299.0" cy="232.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k12db3g23k23r3~x2/"><circle cx="258.9" cy="244.6" r="4" fill="#3465a4"><title>Douglas, (Black)</title></circle></a><a href="/setts/s6/r2g12k12g1k12g2~x2/"><circle cx="324.0" cy="233.3" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/setts/s6/t3k16g16k16db3t3~x2/"><circle cx="234.4" cy="250.9" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s8/dg6k16lb1k16dg8k4dg12r2~x2/"><circle cx="313.4" cy="214.0" r="4" fill="#3465a4"><title>MacAulay Hunting</title></circle></a><a href="/setts/s5/k32dg6k12dg30ly3/"><circle cx="311.0" cy="254.3" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/setts/s5/k2db11k26g11k2~x2/"><circle cx="323.4" cy="233.8" r="4" fill="#3465a4"><title>Campbell of Lochawe</title></circle></a><a href="/setts/s7/k36w3k10w3g28r6k18~x2/"><circle cx="329.2" cy="209.0" r="4" fill="#3465a4"><title>Wild Highlanders (Corporate)</title></circle></a><a href="/setts/s7/k16g15k4t12k22w2k6~x2/"><circle cx="305.5" cy="232.6" r="4" fill="#3465a4"><title>Frame (Edinburgh) (Personal)</title></circle></a><a href="/setts/s8/dg6k16lr1k16dg8k4dg12r2~x2/"><circle cx="323.8" cy="218.6" r="4" fill="#3465a4"><title>MacAulay Hunting</title></circle></a><a href="/setts/s5/k32dg6k12dg30ly3~x2/"><circle cx="327.8" cy="261.9" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><circle cx="299.2" cy="232.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k20t2k6g16p4k9~x2/

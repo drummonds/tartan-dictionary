@@ -2,12 +2,19 @@
 title: "Hope-Vere/Weir"
 date: 2023-03-18
 ---
-**Bands:** [BKGKBKYKYKBKGKBKG](/stripes/bkgkbkykykbkgkbkg/) · **Stripes:** [DB K G K DB K LY K LY K DB K G K DB K G](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB K G K DB K LY K LY K DB K G K DB K G</span></span>
+**Bands:** [GKBKGKBKYKYKBKGKB](/stripes/gkbkgkbkykykbkgkb/) · **Stripes:** [G K DB K G K DB K LY K LY K DB K G K DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G K DB K G K DB K LY K LY K DB K G K DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1763
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Hope-Vere / Weir
+- Hope-Vere/Weir
 
 ## Attestations
 
@@ -319,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -893,7 +903,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DB/4 K2 G4 K16 DB36 K2 Y2 K10 Y2 K2 DB36 K16 G6 K2 DB6 K2 G/36
+G/36 K2 DB6 K2 G6 K16 DB36 K2 Y2 K10 Y2 K2 DB36 K16 G4 K2 DB/4
 ![Sett](sett.png)
 
 ## Palette
@@ -911,11 +921,11 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Hebrides #10](/setts/s16/db2k2db18t1k13t1g16db3k2db3g16t1k13t1db18k2~x2/) — ΔT 0.72
+1. [Hebrides #10](/setts/s16/k2db18t1k13t1g16db3k2db3g16t1k13t1db18k2db2~x2/) — ΔT 0.72
 1. [Hope-Vere/Weir #2](/setts/s14/dg19k1dg4k1dg3k10db20ly1k7ly1db20k10ly3dg1~x2/) — ΔT 0.84
 1. [Campbell of Breadalbane](/setts/s13/db4k2db2k2db2k14ly1g22ly1k14db12k2db2~x4/) — ΔT 0.91
-1. [Riddoch Personal Tartan Tartan Number: 5856. Earliest known date: circa 1992 Designed by Tony Murray for an Albert (Bert) Riddoch of Bearsden, Glasgow as a private and personal tartan initially but it was then changed to usage by anyone of the name. Bert Riddoch (2002) is a private investgator involved in covert drugs investigations and 'highly thought of by the police'. Tartan based on Campbell of Breadalbane. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/db18k2db2k2db2k15r2g28r2k15db2k2db2k2~x2/) — ΔT 0.93
-1. [Asile](/setts/s18/dt3o1dp2o1k6o1dp2o1dt16k16dp1o2dp1dt6dp1o2dp1k3~x2/) — ΔT 0.96
+1. [Riddoch Personal Tartan Tartan Number: 5856. Earliest known date: circa 1992 Designed by Tony Murray for an Albert (Bert) Riddoch of Bearsden, Glasgow as a private and personal tartan initially but it was then changed to usage by anyone of the name. Bert Riddoch (2002) is a private investgator involved in covert drugs investigations and 'highly thought of by the police'. Tartan based on Campbell of Breadalbane. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/g28r2k15db2k2db2k2db18~x2/) — ΔT 0.93
+1. [Asile](/setts/s18/k3dp1o2dp1dt6dp1o2dp1k16dt16o1dp2o1k6o1dp2o1dt3~x2/) — ΔT 0.96
 1. [Spirit of Morningside](/setts/s19/dp4db5dp3db50k15g3k5g32w2g3w2g32k5g5k15db50dp3k5dp3/) — ΔT 1.06
 1. [Rankin (1998) (Name)](/setts/s16/db36g10r2g10lb2g10r2g10k14r2db12r3db2r2db4lb2~x2/) — ΔT 1.08
 1. [Rankin](/setts/s16/db36dg10r2dg10w2dg10r2dg10k14r2db12r3db2r2db4w2~x2/) — ΔT 1.08
@@ -924,8 +934,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/db2k2db18t1k13t1g16db3k2db3g16t1k13t1db18k2~x2/"><circle cx="254.4" cy="165.1" r="4" fill="#3465a4"><title>Hebrides #10</title></circle></a><a href="/setts/s14/dg19k1dg4k1dg3k10db20ly1k7ly1db20k10ly3dg1~x2/"><circle cx="254.7" cy="161.7" r="4" fill="#3465a4"><title>Hope-Vere/Weir #2</title></circle></a><a href="/setts/s13/db4k2db2k2db2k14ly1g22ly1k14db12k2db2~x4/"><circle cx="276.7" cy="154.4" r="4" fill="#3465a4"><title>Campbell of Breadalbane</title></circle></a><a href="/setts/s14/db18k2db2k2db2k15r2g28r2k15db2k2db2k2~x2/"><circle cx="258.0" cy="161.5" r="4" fill="#3465a4"><title>Riddoch Personal Tartan Tartan Number: 5856. Earliest known date: circa 1992 Designed by Tony Murray for an Albert (Bert) Riddoch of Bearsden, Glasgow as a private and personal tartan initially but it was then changed to usage by anyone of the name. Bert Riddoch (2002) is a private investgator involved in covert drugs investigations and 'highly thought of by the police'. Tartan based on Campbell of Breadalbane. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/dt3o1dp2o1k6o1dp2o1dt16k16dp1o2dp1dt6dp1o2dp1k3~x2/"><circle cx="265.9" cy="144.8" r="4" fill="#3465a4"><title>Asile</title></circle></a><a href="/setts/s19/dp4db5dp3db50k15g3k5g32w2g3w2g32k5g5k15db50dp3k5dp3/"><circle cx="268.9" cy="110.1" r="4" fill="#3465a4"><title>Spirit of Morningside</title></circle></a><a href="/setts/s16/db36g10r2g10lb2g10r2g10k14r2db12r3db2r2db4lb2~x2/"><circle cx="238.6" cy="127.5" r="4" fill="#3465a4"><title>Rankin (1998) (Name)</title></circle></a><a href="/setts/s16/db36dg10r2dg10w2dg10r2dg10k14r2db12r3db2r2db4w2~x2/"><circle cx="251.0" cy="131.1" r="4" fill="#3465a4"><title>Rankin</title></circle></a><a href="/setts/s16/g19k1dg3k1g3k9db20k1ly1k7ly1k1db21k12g2dg1~x2/"><circle cx="255.5" cy="136.4" r="4" fill="#3465a4"><title>Hope-Vere/Weir (Modern)</title></circle></a><a href="/setts/s13/db8k1db1k1db1k8ly1dg14ly1k8db8k1db1~x2/"><circle cx="238.8" cy="179.1" r="4" fill="#3465a4"><title>Black from Cumnock (Personal)</title></circle></a><circle cx="283.8" cy="147.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/k2db18t1k13t1g16db3k2db3g16t1k13t1db18k2db2~x2/"><circle cx="254.4" cy="165.2" r="4" fill="#3465a4"><title>Hebrides #10</title></circle></a><a href="/setts/s14/dg19k1dg4k1dg3k10db20ly1k7ly1db20k10ly3dg1~x2/"><circle cx="254.8" cy="161.8" r="4" fill="#3465a4"><title>Hope-Vere/Weir #2</title></circle></a><a href="/setts/s13/db4k2db2k2db2k14ly1g22ly1k14db12k2db2~x4/"><circle cx="276.7" cy="154.5" r="4" fill="#3465a4"><title>Campbell of Breadalbane</title></circle></a><a href="/setts/s14/g28r2k15db2k2db2k2db18~x2/"><circle cx="258.0" cy="161.5" r="4" fill="#3465a4"><title>Riddoch Personal Tartan Tartan Number: 5856. Earliest known date: circa 1992 Designed by Tony Murray for an Albert (Bert) Riddoch of Bearsden, Glasgow as a private and personal tartan initially but it was then changed to usage by anyone of the name. Bert Riddoch (2002) is a private investgator involved in covert drugs investigations and 'highly thought of by the police'. Tartan based on Campbell of Breadalbane. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/k3dp1o2dp1dt6dp1o2dp1k16dt16o1dp2o1k6o1dp2o1dt3~x2/"><circle cx="265.9" cy="144.9" r="4" fill="#3465a4"><title>Asile</title></circle></a><a href="/setts/s19/dp4db5dp3db50k15g3k5g32w2g3w2g32k5g5k15db50dp3k5dp3/"><circle cx="268.9" cy="110.2" r="4" fill="#3465a4"><title>Spirit of Morningside</title></circle></a><a href="/setts/s16/db36g10r2g10lb2g10r2g10k14r2db12r3db2r2db4lb2~x2/"><circle cx="238.6" cy="127.6" r="4" fill="#3465a4"><title>Rankin (1998) (Name)</title></circle></a><a href="/setts/s16/db36dg10r2dg10w2dg10r2dg10k14r2db12r3db2r2db4w2~x2/"><circle cx="251.0" cy="131.2" r="4" fill="#3465a4"><title>Rankin</title></circle></a><a href="/setts/s16/g19k1dg3k1g3k9db20k1ly1k7ly1k1db21k12g2dg1~x2/"><circle cx="255.5" cy="136.6" r="4" fill="#3465a4"><title>Hope-Vere/Weir (Modern)</title></circle></a><a href="/setts/s13/db8k1db1k1db1k8ly1dg14ly1k8db8k1db1~x2/"><circle cx="238.8" cy="179.2" r="4" fill="#3465a4"><title>Black from Cumnock (Personal)</title></circle></a><circle cx="283.8" cy="147.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s17/g18k1db3k1g3k8db18k1ly1k5ly1k1db18k8g2k1db2~x2/

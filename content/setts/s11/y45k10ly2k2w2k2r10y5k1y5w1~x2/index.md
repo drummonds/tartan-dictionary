@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Cavalier, Green..
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/2 N10 K2 N10 R20 K4 LN4 K4 Y4 K20 N/90
+N/90 K20 Y4 K4 LN4 K4 R20 N10 K2 N10 LN/2
 ![Sett](sett.png)
 
 ## Palette
@@ -916,8 +925,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/o45k10ly2k2w2k2r10o5k1o5w1~x2/"><circle cx="412.8" cy="65.6" r="4" fill="#3465a4"><title>Cavalier Green.. Trade Tartan Tartan Number: 1292. Earliest known date: pre 2003 The 10th century Compte de Barcelona, Guifre Pilos, with his dying breath brushed his four bloodstained fingers down his shield leaving four vertical stripes creating the heraldic device of Catalunya. Later the stripes were turned sideways for the Bandera. (flag). The tartan also incorporates white for the snow, green for the flora and blue for the Mediterranean Sea. It was first seen at the Barcelona Olympic Games, 1992. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/dt58ly2r1lb4ly2r2lb7r8ly6~x2/"><circle cx="408.1" cy="73.4" r="4" fill="#3465a4"><title>Hybelius, J-A (Personal)</title></circle></a><a href="/setts/s14/lo70w3k2ly1k2ly1k5r1k5r2k7r2k7r3~x2/"><circle cx="418.3" cy="26.1" r="4" fill="#3465a4"><title>Desert</title></circle></a><a href="/setts/s12/o48dp3k8n2k2o2k2n10o6k2o3lb2~x2/"><circle cx="362.2" cy="63.5" r="4" fill="#3465a4"><title>Wcwm 9275-1405</title></circle></a><a href="/setts/s10/w4db32k1ly2k1db10ly18db10k1r2~x2/"><circle cx="358.3" cy="97.2" r="4" fill="#3465a4"><title>European Union (Fashion)</title></circle></a><a href="/setts/s12/lr36db4k6ly1k1lr1k1dg8r4k1r2lr1~x2/"><circle cx="304.0" cy="34.8" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/setts/s12/lr36db4k6ly1k1lr1k1dg8r4k1r2lr1/"><circle cx="304.0" cy="34.8" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/setts/s12/k86o6k4w3k3r3k3o22lo14k3lo6w4/"><circle cx="375.7" cy="76.6" r="4" fill="#3465a4"><title>Langtree Trade Tartan Tartan Number: 1131. Earliest known date: pre 2003 A Stewart colour variation marketed by Selfridge's, London and apparently designed and woven by Pendleton Woolen Mills of Oregon. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/t6k2w3k2t6k4lb9k2r2k46lb2k2t6~x2/"><circle cx="357.1" cy="81.3" r="4" fill="#3465a4"><title>Kieck (2015)</title></circle></a><a href="/setts/s11/r3w2k2lo1k39lo1k1ly2k1w15k1~x2/"><circle cx="366.2" cy="41.3" r="4" fill="#3465a4"><title>Bartlett from El Paso, Texas</title></circle></a><circle cx="393.5" cy="58.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/o45k10ly2k2w2k2r10o5k1o5w1~x2/"><circle cx="412.3" cy="65.4" r="4" fill="#3465a4"><title>Cavalier Green.. Trade Tartan Tartan Number: 1292. Earliest known date: pre 2003 The 10th century Compte de Barcelona, Guifre Pilos, with his dying breath brushed his four bloodstained fingers down his shield leaving four vertical stripes creating the heraldic device of Catalunya. Later the stripes were turned sideways for the Bandera. (flag). The tartan also incorporates white for the snow, green for the flora and blue for the Mediterranean Sea. It was first seen at the Barcelona Olympic Games, 1992. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/dt58ly2r1lb4ly2r2lb7r8ly6~x2/"><circle cx="407.8" cy="73.1" r="4" fill="#3465a4"><title>Hybelius, J-A (Personal)</title></circle></a><a href="/setts/s14/lo70w3k2ly1k2ly1k5r1k5r2k7r2k7r3~x2/"><circle cx="417.8" cy="26.0" r="4" fill="#3465a4"><title>Desert</title></circle></a><a href="/setts/s12/o48dp3k8n2k2o2k2n10o6k2o3lb2~x2/"><circle cx="361.9" cy="63.4" r="4" fill="#3465a4"><title>Wcwm 9275-1405</title></circle></a><a href="/setts/s10/w4db32k1ly2k1db10ly18db10k1r2~x2/"><circle cx="358.0" cy="97.0" r="4" fill="#3465a4"><title>European Union (Fashion)</title></circle></a><a href="/setts/s12/lr36db4k6ly1k1lr1k1dg8r4k1r2lr1~x2/"><circle cx="303.7" cy="34.7" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/setts/s12/lr36db4k6ly1k1lr1k1dg8r4k1r2lr1/"><circle cx="303.7" cy="34.7" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/setts/s12/k86o6k4w3k3r3k3o22lo14k3lo6w4/"><circle cx="375.5" cy="76.5" r="4" fill="#3465a4"><title>Langtree Trade Tartan Tartan Number: 1131. Earliest known date: pre 2003 A Stewart colour variation marketed by Selfridge's, London and apparently designed and woven by Pendleton Woolen Mills of Oregon. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/t6k2w3k2t6k4lb9k2r2k46lb2k2t6~x2/"><circle cx="356.8" cy="81.2" r="4" fill="#3465a4"><title>Kieck (2015)</title></circle></a><a href="/setts/s11/r3w2k2lo1k39lo1k1ly2k1w15k1~x2/"><circle cx="365.9" cy="41.1" r="4" fill="#3465a4"><title>Bartlett from El Paso, Texas</title></circle></a><circle cx="393.1" cy="58.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/y45k10ly2k2w2k2r10y5k1y5w1~x2/

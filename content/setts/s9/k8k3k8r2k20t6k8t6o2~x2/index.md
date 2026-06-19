@@ -34,7 +34,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Kennedy](/setts/s13/k2b4k14r3k6o2k2o2k10db6k2db3w1~x2/) — ΔT 1.68
-1. [St. Eloi](/setts/s6/r3lo2k10w1k10lo2~x6/) — ΔT 1.68
+1. [St. Eloi](/setts/s6/r3lo2k10w1~x6/) — ΔT 1.68
 1. [London Fog Black 2 (fashion)](/setts/s10/k18t9k18lb2k2lb2k18lr9k18lb2/) — ΔT 1.77
 1. [Wilson's, No 167](/setts/s6/k20t2k6g16p4k9~x2/) — ΔT 1.78
 1. [Gary](/setts/s11/p2r1k4ly2k12ly8k12ly2k4ly1w2~x2/) — ΔT 1.81
@@ -42,12 +42,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Benson (New England)](/setts/s7/k16b2k8r3lr3r3k8~x2/) — ΔT 1.83
 1. [Black (symmetrical)](/setts/s6/k17r6k2lb6k17lo2~x2/) — ΔT 1.84
 1. [Black 1990 (Name)](/setts/s6/k17r6k2w6k17lo2~x2/) — ΔT 1.86
-1. [Gold-Smith (Personal)](/setts/s13/ly2k6do2k4do3k3do4k2do5k20dy2k25r2~x2/) — ΔT 1.88
+1. [Gold-Smith (Personal)](/setts/s13/r2k25dy2k20do5k2do4k3do3k4do2k6ly2~x2/) — ΔT 1.88
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k2b4k14r3k6o2k2o2k10db6k2db3w1~x2/"><circle cx="277.4" cy="140.5" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/setts/s6/r3lo2k10w1k10lo2~x6/"><circle cx="376.6" cy="216.0" r="4" fill="#3465a4"><title>St. Eloi</title></circle></a><a href="/setts/s10/k18t9k18lb2k2lb2k18lr9k18lb2/"><circle cx="383.8" cy="206.7" r="4" fill="#3465a4"><title>London Fog Black 2 (fashion)</title></circle></a><a href="/setts/s6/k20t2k6g16p4k9~x2/"><circle cx="299.0" cy="232.3" r="4" fill="#3465a4"><title>Wilson's, No 167</title></circle></a><a href="/setts/s11/p2r1k4ly2k12ly8k12ly2k4ly1w2~x2/"><circle cx="294.7" cy="150.4" r="4" fill="#3465a4"><title>Gary</title></circle></a><a href="/setts/s7/k8t3k32b14w3k25t3~x2/"><circle cx="412.6" cy="213.0" r="4" fill="#3465a4"><title>Cowe (Personal)</title></circle></a><a href="/setts/s7/k16b2k8r3lr3r3k8~x2/"><circle cx="403.6" cy="228.5" r="4" fill="#3465a4"><title>Benson (New England)</title></circle></a><a href="/setts/s6/k17r6k2lb6k17lo2~x2/"><circle cx="381.5" cy="227.7" r="4" fill="#3465a4"><title>Black (symmetrical)</title></circle></a><a href="/setts/s6/k17r6k2w6k17lo2~x2/"><circle cx="372.1" cy="222.8" r="4" fill="#3465a4"><title>Black 1990 (Name)</title></circle></a><a href="/setts/s13/ly2k6do2k4do3k3do4k2do5k20dy2k25r2~x2/"><circle cx="429.8" cy="154.8" r="4" fill="#3465a4"><title>Gold-Smith (Personal)</title></circle></a><circle cx="335.8" cy="196.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k2b4k14r3k6o2k2o2k10db6k2db3w1~x2/"><circle cx="277.5" cy="140.4" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/setts/s6/r3lo2k10w1~x6/"><circle cx="376.7" cy="215.7" r="4" fill="#3465a4"><title>St. Eloi</title></circle></a><a href="/setts/s10/k18t9k18lb2k2lb2k18lr9k18lb2/"><circle cx="383.8" cy="206.3" r="4" fill="#3465a4"><title>London Fog Black 2 (fashion)</title></circle></a><a href="/setts/s6/k20t2k6g16p4k9~x2/"><circle cx="299.2" cy="232.1" r="4" fill="#3465a4"><title>Wilson's, No 167</title></circle></a><a href="/setts/s11/p2r1k4ly2k12ly8k12ly2k4ly1w2~x2/"><circle cx="294.6" cy="150.2" r="4" fill="#3465a4"><title>Gary</title></circle></a><a href="/setts/s7/k8t3k32b14w3k25t3~x2/"><circle cx="412.6" cy="212.7" r="4" fill="#3465a4"><title>Cowe (Personal)</title></circle></a><a href="/setts/s7/k16b2k8r3lr3r3k8~x2/"><circle cx="403.6" cy="228.2" r="4" fill="#3465a4"><title>Benson (New England)</title></circle></a><a href="/setts/s6/k17r6k2lb6k17lo2~x2/"><circle cx="381.5" cy="227.4" r="4" fill="#3465a4"><title>Black (symmetrical)</title></circle></a><a href="/setts/s6/k17r6k2w6k17lo2~x2/"><circle cx="372.1" cy="222.4" r="4" fill="#3465a4"><title>Black 1990 (Name)</title></circle></a><a href="/setts/s13/r2k25dy2k20do5k2do4k3do3k4do2k6ly2~x2/"><circle cx="429.8" cy="154.6" r="4" fill="#3465a4"><title>Gold-Smith (Personal)</title></circle></a><circle cx="336.0" cy="196.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/k8k3k8r2k20t6k8t6o2~x2/

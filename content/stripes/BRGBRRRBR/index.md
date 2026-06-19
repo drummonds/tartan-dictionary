@@ -18,7 +18,7 @@ BRGBRRRBR
 
 
 
-### DR O DG DR O O O DR O <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DR O DG DR O O O DR O</span></span>
+### O DR O O O DR DG O DR <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="seq">O DR O O O DR DG O DR</span></span>
 
 | Tartans |
 |---------------|

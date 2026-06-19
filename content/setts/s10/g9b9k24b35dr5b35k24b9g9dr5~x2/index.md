@@ -2,7 +2,7 @@
 title: "Notre Dame Marching Guard"
 date: 2023-03-18
 ---
-**Bands:** [BGBKBBBKBG](/stripes/bgbkbbbkbg/) · **Stripes:** [DR G B K B DR B K B G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DR G B K B DR B K B G</span></span>
+**Bands:** [GBKBBBKBGB](/stripes/gbkbbbkbgb/) · **Stripes:** [G B K B DR B K B G DR](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="seq">G B K B DR B K B G DR</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5542
 
 ## Thread count
-DR/10 G18 B18 K48 B70 DR10 B70 K48 B18 G/18
+G/18 B18 K48 B70 DR10 B70 K48 B18 G18 DR/10
 ![Sett](sett.png)
 
 ## Palette
@@ -38,7 +38,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Bruce (Personal)](/setts/s11/ly1db8g2db2g6db1g6db2g2db8w1~x4/) — ΔT 0.87
+1. [Bruce (Personal)](/setts/s11/w1db8g2db2g6db1g6db2g2db8ly1~x4/) — ΔT 0.87
 1. [Dalmeny](/setts/s10/db8k1db8k2g6r1g6k2db8w1~x2/) — ΔT 1.00
 1. [Crombie House Check Corporate Tartan Tartan Number: 2302. Earliest known date: pre 1997 A Corporate tartan for a general merchandising company whose mills were at Langholm, Dumfriesshire. Dark green and royal blue called for but lighter colours used here to display the sett. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/db18g6db2lb10k3lb10db2g6db18g2~x2/) — ΔT 1.01
 1. [MacHardy, Blue](/setts/s8/db6r3g26db26w4db26r5g5~x2/) — ΔT 1.12
@@ -46,13 +46,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Edmonstone of Duntreath](/setts/s10/g7r4g14db10g5db10w2db10g5db5~x2/) — ΔT 1.18
 1. [Hamilton of Clayton (Personal)](/setts/s10/dg3lr3dg18db14r5db14r5db14dg21lr3~x2/) — ΔT 1.19
 1. [Scotsburn Croft](/setts/s9/lg16k3lg16k26dp4k26o20k3o8/) — ΔT 1.23
-1. [Dalmeny - 2002 (Fashion)](/setts/s10/db11w2db11k4g8r1g8k4db11w2~x2/) — ΔT 1.26
+1. [Dalmeny - 2002 (Fashion)](/setts/s10/db11w2db11k4g8r1~x2/) — ΔT 1.26
 1. [Smeaton #2 (Name)](/setts/s10/db12w2db7g15k2g4k2g15db2k7~x2/) — ΔT 1.30
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/ly1db8g2db2g6db1g6db2g2db8w1~x4/"><circle cx="286.1" cy="214.7" r="4" fill="#3465a4"><title>Bruce (Personal)</title></circle></a><a href="/setts/s10/db8k1db8k2g6r1g6k2db8w1~x2/"><circle cx="238.8" cy="201.4" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><a href="/setts/s10/db18g6db2lb10k3lb10db2g6db18g2~x2/"><circle cx="232.6" cy="193.9" r="4" fill="#3465a4"><title>Crombie House Check Corporate Tartan Tartan Number: 2302. Earliest known date: pre 1997 A Corporate tartan for a general merchandising company whose mills were at Langholm, Dumfriesshire. Dark green and royal blue called for but lighter colours used here to display the sett. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db6r3g26db26w4db26r5g5~x2/"><circle cx="303.6" cy="215.2" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><a href="/setts/s6/dr5b35k24b9g9dr5~x2/"><circle cx="235.5" cy="234.7" r="4" fill="#3465a4"><title>Notre Dame Marching Guard (Corp)</title></circle></a><a href="/setts/s10/g7r4g14db10g5db10w2db10g5db5~x2/"><circle cx="206.0" cy="246.5" r="4" fill="#3465a4"><title>Edmonstone of Duntreath</title></circle></a><a href="/setts/s10/dg3lr3dg18db14r5db14r5db14dg21lr3~x2/"><circle cx="204.7" cy="235.2" r="4" fill="#3465a4"><title>Hamilton of Clayton (Personal)</title></circle></a><a href="/setts/s9/lg16k3lg16k26dp4k26o20k3o8/"><circle cx="197.5" cy="209.7" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/setts/s10/db11w2db11k4g8r1g8k4db11w2~x2/"><circle cx="224.2" cy="196.8" r="4" fill="#3465a4"><title>Dalmeny - 2002 (Fashion)</title></circle></a><a href="/setts/s10/db12w2db7g15k2g4k2g15db2k7~x2/"><circle cx="248.9" cy="226.2" r="4" fill="#3465a4"><title>Smeaton #2 (Name)</title></circle></a><circle cx="238.6" cy="222.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w1db8g2db2g6db1g6db2g2db8ly1~x4/"><circle cx="286.1" cy="214.5" r="4" fill="#3465a4"><title>Bruce (Personal)</title></circle></a><a href="/setts/s10/db8k1db8k2g6r1g6k2db8w1~x2/"><circle cx="238.8" cy="201.3" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><a href="/setts/s10/db18g6db2lb10k3lb10db2g6db18g2~x2/"><circle cx="232.6" cy="193.8" r="4" fill="#3465a4"><title>Crombie House Check Corporate Tartan Tartan Number: 2302. Earliest known date: pre 1997 A Corporate tartan for a general merchandising company whose mills were at Langholm, Dumfriesshire. Dark green and royal blue called for but lighter colours used here to display the sett. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db6r3g26db26w4db26r5g5~x2/"><circle cx="303.6" cy="215.0" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><a href="/setts/s6/dr5b35k24b9g9dr5~x2/"><circle cx="235.5" cy="234.5" r="4" fill="#3465a4"><title>Notre Dame Marching Guard (Corp)</title></circle></a><a href="/setts/s10/g7r4g14db10g5db10w2db10g5db5~x2/"><circle cx="206.1" cy="246.4" r="4" fill="#3465a4"><title>Edmonstone of Duntreath</title></circle></a><a href="/setts/s10/dg3lr3dg18db14r5db14r5db14dg21lr3~x2/"><circle cx="204.9" cy="235.2" r="4" fill="#3465a4"><title>Hamilton of Clayton (Personal)</title></circle></a><a href="/setts/s9/lg16k3lg16k26dp4k26o20k3o8/"><circle cx="197.6" cy="209.6" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/setts/s10/db11w2db11k4g8r1~x2/"><circle cx="224.3" cy="196.8" r="4" fill="#3465a4"><title>Dalmeny - 2002 (Fashion)</title></circle></a><a href="/setts/s10/db12w2db7g15k2g4k2g15db2k7~x2/"><circle cx="248.9" cy="226.2" r="4" fill="#3465a4"><title>Smeaton #2 (Name)</title></circle></a><circle cx="238.6" cy="222.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/g9b9k24b35dr5b35k24b9g9dr5~x2/

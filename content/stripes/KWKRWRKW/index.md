@@ -8,7 +8,7 @@ KWKRWRKW
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/k22w1k12r43w1r43k12w1~x2/tartan.png)
+![Woven sample](/setts/s8/k22w1k12r43w1~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ KWKRWRKW
 
 | Tartans |
 |---------------|
-| [Knights Templar Hunting](/setts/s8/k22w1k12r43w1r43k12w1~x2/)|
-|![Knights Templar Hunting example sett](/setts/s8/k22w1k12r43w1r43k12w1~x2/sett.png)|
+| [Knights Templar Hunting](/setts/s8/k22w1k12r43w1~x2/)|
+|![Knights Templar Hunting example sett](/setts/s8/k22w1k12r43w1~x2/sett.png)|
 

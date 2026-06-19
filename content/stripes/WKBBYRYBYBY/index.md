@@ -18,10 +18,10 @@ WKBBYRYBYBY
 
 
 
-### W K DB B LY R LY B LY B LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W K DB B LY R LY B LY B LY</span></span>
+### LY B LY B LY R LY B DB K W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY B LY B LY R LY B DB K W</span></span>
 
 | Tartans |
 |---------------|
-| [Congo, The Democratic Republic of the](/setts/s11/ly4b1ly2b20ly2r8ly2b20db16k1w4~x2/)|
-|![Congo, The Democratic Republic of the example sett](/setts/s11/ly4b1ly2b20ly2r8ly2b20db16k1w4~x2/sett.png)|
+| [Congo, The Democratic Republic of the](/setts/s11/w4k1db16b20ly2r8ly2b20ly2b1ly4~x2/)|
+|![Congo, The Democratic Republic of the example sett](/setts/s11/w4k1db16b20ly2r8ly2b20ly2b1ly4~x2/sett.png)|
 

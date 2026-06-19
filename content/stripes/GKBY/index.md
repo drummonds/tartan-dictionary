@@ -20,7 +20,7 @@ GKBY
 
 
 
-### G K B LY <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G K B LY</span></span>
+### LY B K G <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY B K G</span></span>
 
 | Tartans |
 |---------------|

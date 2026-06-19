@@ -2,7 +2,7 @@
 title: "Sinclair"
 date: 2023-03-18
 ---
-**Bands:** [RBWKGR](/stripes/rbwkgr/) · **Stripes:** [R T W K G R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R T W K G R</span></span>
+**Bands:** [RGKWBR](/stripes/rgkwbr/) · **Stripes:** [R G K W T R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G K W T R</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -894,7 +897,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-R/56 B12 LN2 K8 G32 R/56
+R/56 G32 K8 LN2 B12 R/56
 ![Sett](sett.png)
 
 ## Palette
@@ -910,7 +913,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "R/56 B12 LN2 K8 G32 R/56 tartan")
+![Tartan detail](tartan.png "R/56 G32 K8 LN2 B12 R/56 tartan")
 
 ## Nearest tartans
 
@@ -919,18 +922,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Sinclair (Logan)](/setts/s6/r28g16k4w1db6r28~x2/) — ΔT 0.46
 1. [Kinnaird (Name)](/setts/s6/g15k10r30dp2r20w1~x2/) — ΔT 0.86
 1. [Sinclair Dress](/setts/s6/r28dg16k4lr1b6r28~x2/) — ΔT 0.92
+1. [Sinclair Dress](/setts/s6/r28dg16k4lr1b6r28/) — ΔT 0.92
 1. [Sinclair](/setts/s6/r36t8w1k5g20r18~x4/) — ΔT 0.94
 1. [Sinclair](/setts/s6/r30g12k5w2t6r30/) — ΔT 1.05
 1. [MacKinnon #4](/setts/s7/k1r18dg12r2dg12r18w1~x2/) — ΔT 1.30
 1. [Sinclair](/setts/s6/r30dg12k5lr2b6r30~x2/) — ΔT 1.30
 1. [Sinclair](/setts/s6/r30dg12k5lr2b6r30/) — ΔT 1.30
 1. [Greig (Personal)](/setts/s6/r60k2w3dg20r10dg20~x2/) — ΔT 1.31
-1. [AON](/setts/s6/r5db10r5dg5r25ly1~x4/) — ΔT 1.32
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r28g16k4w1db6r28~x2/"><circle cx="416.4" cy="156.6" r="4" fill="#3465a4"><title>Sinclair (Logan)</title></circle></a><a href="/setts/s6/g15k10r30dp2r20w1~x2/"><circle cx="397.8" cy="161.7" r="4" fill="#3465a4"><title>Kinnaird (Name)</title></circle></a><a href="/setts/s6/r28dg16k4lr1b6r28~x2/"><circle cx="424.4" cy="165.6" r="4" fill="#3465a4"><title>Sinclair Dress</title></circle></a><a href="/setts/s6/r36t8w1k5g20r18~x4/"><circle cx="380.5" cy="147.5" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s6/r30g12k5w2t6r30/"><circle cx="401.2" cy="169.4" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s7/k1r18dg12r2dg12r18w1~x2/"><circle cx="374.4" cy="179.6" r="4" fill="#3465a4"><title>MacKinnon #4</title></circle></a><a href="/setts/s6/r30dg12k5lr2b6r30~x2/"><circle cx="420.1" cy="182.7" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s6/r30dg12k5lr2b6r30/"><circle cx="420.1" cy="182.7" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s6/r60k2w3dg20r10dg20~x2/"><circle cx="420.0" cy="151.1" r="4" fill="#3465a4"><title>Greig (Personal)</title></circle></a><a href="/setts/s6/r5db10r5dg5r25ly1~x4/"><circle cx="454.3" cy="166.1" r="4" fill="#3465a4"><title>AON</title></circle></a><circle cx="404.4" cy="151.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r28g16k4w1db6r28~x2/"><circle cx="416.0" cy="156.4" r="4" fill="#3465a4"><title>Sinclair (Logan)</title></circle></a><a href="/setts/s6/g15k10r30dp2r20w1~x2/"><circle cx="397.5" cy="161.6" r="4" fill="#3465a4"><title>Kinnaird (Name)</title></circle></a><a href="/setts/s6/r28dg16k4lr1b6r28~x2/"><circle cx="424.1" cy="165.5" r="4" fill="#3465a4"><title>Sinclair Dress</title></circle></a><a href="/setts/s6/r28dg16k4lr1b6r28/"><circle cx="424.1" cy="165.5" r="4" fill="#3465a4"><title>Sinclair Dress</title></circle></a><a href="/setts/s6/r36t8w1k5g20r18~x4/"><circle cx="380.1" cy="147.4" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s6/r30g12k5w2t6r30/"><circle cx="400.8" cy="169.2" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s7/k1r18dg12r2dg12r18w1~x2/"><circle cx="374.0" cy="179.4" r="4" fill="#3465a4"><title>MacKinnon #4</title></circle></a><a href="/setts/s6/r30dg12k5lr2b6r30~x2/"><circle cx="419.7" cy="182.6" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s6/r30dg12k5lr2b6r30/"><circle cx="419.7" cy="182.6" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s6/r60k2w3dg20r10dg20~x2/"><circle cx="419.6" cy="150.9" r="4" fill="#3465a4"><title>Greig (Personal)</title></circle></a><circle cx="404.0" cy="151.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r28g16k4w1t6r28~x2/

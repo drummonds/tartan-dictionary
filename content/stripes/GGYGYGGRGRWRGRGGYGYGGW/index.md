@@ -22,6 +22,6 @@ GGYGYGGRGRWRGRGGYGYGGW
 
 | Tartans |
 |---------------|
-| [Seller Dress (Dance)](/setts/s22/w32dy6g10lo2g4lo2g4g12r8g2r4w5r4g2r8g12g4lo2g4lo2g10dy6~x2/)|
-|![Seller Dress (Dance) example sett](/setts/s22/w32dy6g10lo2g4lo2g4g12r8g2r4w5r4g2r8g12g4lo2g4lo2g10dy6~x2/sett.png)|
+| [Seller Dress (Dance)](/setts/s22/w32dy6g10lo2g4lo2g4g12r8g2r4w5~x2/)|
+|![Seller Dress (Dance) example sett](/setts/s22/w32dy6g10lo2g4lo2g4g12r8g2r4w5~x2/sett.png)|
 

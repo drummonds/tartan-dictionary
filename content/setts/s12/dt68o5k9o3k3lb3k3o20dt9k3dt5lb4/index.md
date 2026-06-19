@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5278
 
+## Also known as
+
+This cloth is also recorded under:
+
+- British Caledonian Airways #1
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -43,20 +49,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Riyadh Caledonian (Corporate)](/setts/s13/db23g4db1w1db3g5db1dp4db3ly1g3w1g4~x4/) — ΔT 0.66
-1. [Brough from Orkney (Name)](/setts/s13/dt2k2dt1o1k2r7k2o2dt12ly3dt27o4k2~x2/) — ΔT 0.83
-1. [Pagus Wasia](/setts/s9/ly1db2ly1db3y19k3y1db2r1~x4/) — ΔT 0.93
+1. [Brough from Orkney (Name)](/setts/s13/k2o4dt27ly3dt12o2k2r7k2o1dt1k2dt2~x2/) — ΔT 0.83
+1. [Pagus Wasia](/setts/s9/r1db2y1k3y19db3ly1db2ly1~x4/) — ΔT 0.93
 1. [Polkemmet (Corporate)](/setts/s11/k7lo3db62o16g5o5g5o5g16db16k4/) — ΔT 1.04
 1. [Leando Dress (Personal)](/setts/s13/b38do4m3dy6w2dy2w2dy2do12b6dy2b6w2~x2/) — ΔT 1.06
 1. [Strachan](/setts/s16/k3db42k3ly2k3g22k3r2k3g22k3ly2k3db42k3r2~x2/) — ΔT 1.06
 1. [Strachan (Name)](/setts/s9/r2k3db42k3ly2k3g22k3r2~x2/) — ΔT 1.14
-1. [Nocken Blue Modern Tartan (Personal)](/setts/s9/lr3k6w2k6dt2k2dt32k2n1~x2/) — ΔT 1.16
 1. [Canmore Highland Games](/setts/s12/g70db3k9w4k4dp4k3db12g9k4g4o4~x2/) — ΔT 1.16
+1. [Nocken Blue Modern Tartan (Personal)](/setts/s9/lr3k6w2k6dt2k2dt32k2n1~x2/) — ΔT 1.16
 1. [Joss (Clan)](/setts/s13/r3dg1db2dg4db30k2db4k2db30dg27ly3k3w3~x2/) — ΔT 1.18
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db23g4db1w1db3g5db1dp4db3ly1g3w1g4~x4/"><circle cx="353.2" cy="117.0" r="4" fill="#3465a4"><title>Riyadh Caledonian (Corporate)</title></circle></a><a href="/setts/s13/dt2k2dt1o1k2r7k2o2dt12ly3dt27o4k2~x2/"><circle cx="373.3" cy="106.5" r="4" fill="#3465a4"><title>Brough from Orkney (Name)</title></circle></a><a href="/setts/s9/ly1db2ly1db3y19k3y1db2r1~x4/"><circle cx="375.7" cy="133.2" r="4" fill="#3465a4"><title>Pagus Wasia</title></circle></a><a href="/setts/s11/k7lo3db62o16g5o5g5o5g16db16k4/"><circle cx="323.2" cy="135.9" r="4" fill="#3465a4"><title>Polkemmet (Corporate)</title></circle></a><a href="/setts/s13/b38do4m3dy6w2dy2w2dy2do12b6dy2b6w2~x2/"><circle cx="327.5" cy="110.6" r="4" fill="#3465a4"><title>Leando Dress (Personal)</title></circle></a><a href="/setts/s16/k3db42k3ly2k3g22k3r2k3g22k3ly2k3db42k3r2~x2/"><circle cx="319.9" cy="115.4" r="4" fill="#3465a4"><title>Strachan</title></circle></a><a href="/setts/s9/r2k3db42k3ly2k3g22k3r2~x2/"><circle cx="322.3" cy="132.5" r="4" fill="#3465a4"><title>Strachan (Name)</title></circle></a><a href="/setts/s9/lr3k6w2k6dt2k2dt32k2n1~x2/"><circle cx="408.6" cy="125.4" r="4" fill="#3465a4"><title>Nocken Blue Modern Tartan (Personal)</title></circle></a><a href="/setts/s12/g70db3k9w4k4dp4k3db12g9k4g4o4~x2/"><circle cx="379.1" cy="94.9" r="4" fill="#3465a4"><title>Canmore Highland Games</title></circle></a><a href="/setts/s13/r3dg1db2dg4db30k2db4k2db30dg27ly3k3w3~x2/"><circle cx="343.6" cy="97.8" r="4" fill="#3465a4"><title>Joss (Clan)</title></circle></a><circle cx="377.2" cy="113.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db23g4db1w1db3g5db1dp4db3ly1g3w1g4~x4/"><circle cx="353.0" cy="117.0" r="4" fill="#3465a4"><title>Riyadh Caledonian (Corporate)</title></circle></a><a href="/setts/s13/k2o4dt27ly3dt12o2k2r7k2o1dt1k2dt2~x2/"><circle cx="373.1" cy="106.4" r="4" fill="#3465a4"><title>Brough from Orkney (Name)</title></circle></a><a href="/setts/s9/r1db2y1k3y19db3ly1db2ly1~x4/"><circle cx="375.5" cy="133.1" r="4" fill="#3465a4"><title>Pagus Wasia</title></circle></a><a href="/setts/s11/k7lo3db62o16g5o5g5o5g16db16k4/"><circle cx="323.1" cy="135.9" r="4" fill="#3465a4"><title>Polkemmet (Corporate)</title></circle></a><a href="/setts/s13/b38do4m3dy6w2dy2w2dy2do12b6dy2b6w2~x2/"><circle cx="327.3" cy="110.5" r="4" fill="#3465a4"><title>Leando Dress (Personal)</title></circle></a><a href="/setts/s16/k3db42k3ly2k3g22k3r2k3g22k3ly2k3db42k3r2~x2/"><circle cx="319.8" cy="115.4" r="4" fill="#3465a4"><title>Strachan</title></circle></a><a href="/setts/s9/r2k3db42k3ly2k3g22k3r2~x2/"><circle cx="322.3" cy="132.5" r="4" fill="#3465a4"><title>Strachan (Name)</title></circle></a><a href="/setts/s12/g70db3k9w4k4dp4k3db12g9k4g4o4~x2/"><circle cx="379.0" cy="94.9" r="4" fill="#3465a4"><title>Canmore Highland Games</title></circle></a><a href="/setts/s9/lr3k6w2k6dt2k2dt32k2n1~x2/"><circle cx="408.5" cy="125.3" r="4" fill="#3465a4"><title>Nocken Blue Modern Tartan (Personal)</title></circle></a><a href="/setts/s13/r3dg1db2dg4db30k2db4k2db30dg27ly3k3w3~x2/"><circle cx="343.5" cy="97.8" r="4" fill="#3465a4"><title>Joss (Clan)</title></circle></a><circle cx="377.0" cy="113.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/dt68o5k9o3k3lb3k3o20dt9k3dt5lb4/

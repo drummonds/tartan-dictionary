@@ -2,7 +2,7 @@
 title: "Holehouse, Dag (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GGBKR](/stripes/ggbkr/) · **Stripes:** [G DY N K O](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">G DY N K O</span></span>
+**Bands:** [RKBGG](/stripes/rkbgg/) · **Stripes:** [O K N DY G](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O K N DY G</span></span>
 
 
 This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
@@ -36,8 +36,8 @@ The nearest existing variants by ΔTartan distance.
 1. [Ramsay (Green Fashion)](/setts/s7/g1r7g7n2r1dg15lb1~x4/) — ΔT 1.91
 1. [Yorkland (Personal)](/setts/s8/n36r2n4w1y14g4ly2g18~x2/) — ΔT 1.94
 1. [Waterford, County](/setts/s6/dg42lo2y16db7do16r5~x2/) — ΔT 1.98
-1. [Exabyte](/setts/s5/lb3g47db4n34r3~x2/) — ΔT 2.02
-1. [Willsher Wedding (Personal)](/setts/s9/n8o4lb2o4n1o12g9n24r4~x2/) — ΔT 2.07
+1. [Exabyte](/setts/s5/r3n34db4g47lb3~x2/) — ΔT 2.02
+1. [Willsher Wedding (Personal)](/setts/s9/n8o4lb2o4n1o12g9n24r4~x2/) — ΔT 2.08
 1. [Highland Greenford (Personal)](/setts/s4/y50dy25ly2dp6~x2/) — ΔT 2.09
 1. [Symington](/setts/s5/lo5y33dg33r6w2~x2/) — ΔT 2.09
 1. [Stansbury (2014)](/setts/s8/dg28r3k28dt8t1dg8r2k3~x2/) — ΔT 2.14
@@ -45,8 +45,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/dr8g19dg42lo3r1~x2/"><circle cx="439.8" cy="196.6" r="4" fill="#3465a4"><title>Nolan (Personal)</title></circle></a><a href="/setts/s7/g1r7g7n2r1dg15lb1~x4/"><circle cx="314.4" cy="212.0" r="4" fill="#3465a4"><title>Ramsay (Green Fashion)</title></circle></a><a href="/setts/s8/n36r2n4w1y14g4ly2g18~x2/"><circle cx="364.5" cy="154.4" r="4" fill="#3465a4"><title>Yorkland (Personal)</title></circle></a><a href="/setts/s6/dg42lo2y16db7do16r5~x2/"><circle cx="302.4" cy="191.3" r="4" fill="#3465a4"><title>Waterford, County</title></circle></a><a href="/setts/s5/lb3g47db4n34r3~x2/"><circle cx="380.7" cy="225.9" r="4" fill="#3465a4"><title>Exabyte</title></circle></a><a href="/setts/s9/n8o4lb2o4n1o12g9n24r4~x2/"><circle cx="349.6" cy="189.5" r="4" fill="#3465a4"><title>Willsher Wedding (Personal)</title></circle></a><a href="/setts/s4/y50dy25ly2dp6~x2/"><circle cx="506.0" cy="261.8" r="4" fill="#3465a4"><title>Highland Greenford (Personal)</title></circle></a><a href="/setts/s5/lo5y33dg33r6w2~x2/"><circle cx="306.0" cy="219.0" r="4" fill="#3465a4"><title>Symington</title></circle></a><a href="/setts/s8/dg28r3k28dt8t1dg8r2k3~x2/"><circle cx="358.8" cy="190.6" r="4" fill="#3465a4"><title>Stansbury (2014)</title></circle></a><a href="/setts/s10/dg36k52lo2k8dg8dy8lo2dy6dg36r1~x2/"><circle cx="432.3" cy="170.3" r="4" fill="#3465a4"><title>Grenauld</title></circle></a><circle cx="398.0" cy="211.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/dr8g19dg42lo3r1~x2/"><circle cx="439.7" cy="196.7" r="4" fill="#3465a4"><title>Nolan (Personal)</title></circle></a><a href="/setts/s7/g1r7g7n2r1dg15lb1~x4/"><circle cx="314.2" cy="212.2" r="4" fill="#3465a4"><title>Ramsay (Green Fashion)</title></circle></a><a href="/setts/s8/n36r2n4w1y14g4ly2g18~x2/"><circle cx="364.3" cy="154.6" r="4" fill="#3465a4"><title>Yorkland (Personal)</title></circle></a><a href="/setts/s6/dg42lo2y16db7do16r5~x2/"><circle cx="302.4" cy="191.5" r="4" fill="#3465a4"><title>Waterford, County</title></circle></a><a href="/setts/s5/r3n34db4g47lb3~x2/"><circle cx="380.6" cy="226.0" r="4" fill="#3465a4"><title>Exabyte</title></circle></a><a href="/setts/s9/n8o4lb2o4n1o12g9n24r4~x2/"><circle cx="349.4" cy="189.7" r="4" fill="#3465a4"><title>Willsher Wedding (Personal)</title></circle></a><a href="/setts/s4/y50dy25ly2dp6~x2/"><circle cx="505.7" cy="261.9" r="4" fill="#3465a4"><title>Highland Greenford (Personal)</title></circle></a><a href="/setts/s5/lo5y33dg33r6w2~x2/"><circle cx="305.9" cy="219.0" r="4" fill="#3465a4"><title>Symington</title></circle></a><a href="/setts/s8/dg28r3k28dt8t1dg8r2k3~x2/"><circle cx="358.9" cy="190.8" r="4" fill="#3465a4"><title>Stansbury (2014)</title></circle></a><a href="/setts/s10/dg36k52lo2k8dg8dy8lo2dy6dg36r1~x2/"><circle cx="432.3" cy="170.5" r="4" fill="#3465a4"><title>Grenauld</title></circle></a><circle cx="397.9" cy="211.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/g22dy40n8k9o1~x2/

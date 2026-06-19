@@ -2,7 +2,7 @@
 title: "Fife (McGill)"
 date: 2023-03-18
 ---
-**Bands:** [BBBKRY](/stripes/bbbkry/) · **Stripes:** [DB T DB K R LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB T DB K R LY</span></span>
+**Bands:** [YRKBBB](/stripes/yrkbbb/) · **Stripes:** [LY R K DB T DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">LY R K DB T DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -922,13 +925,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Le Mirage (Corporate?)](/setts/s10/db36db15r25w5k6db35db15r7w5k6/) — ΔT 1.16
 1. [Open Championship (1998)](/setts/s6/lb2db20n2dt15r9lb2~x2/) — ΔT 1.18
 1. [Grammar School at Leeds (School)](/setts/s6/n32w4n4k24dp29k4/) — ΔT 1.18
-1. [Lopez-Gasparotto](/setts/s7/ly1db6k1db1k5o5r1~x8/) — ΔT 1.19
+1. [Lopez-Gasparotto](/setts/s7/r1o5k5db1k1db6ly1~x8/) — ΔT 1.19
 1. [Novotel, The](/setts/s5/k3r11k26dy11r3~x2/) — ΔT 1.19
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k1r2t1db5lo1~x16/"><circle cx="205.7" cy="229.1" r="4" fill="#3465a4"><title>Trinity College, Toronto Uni. (Corp</title></circle></a><a href="/setts/s8/w5db6r18k8b5k4db27w3~x2/"><circle cx="172.7" cy="170.1" r="4" fill="#3465a4"><title>Clinton (Personal)</title></circle></a><a href="/setts/s6/db15r6dg8k2w2k2~x6/"><circle cx="182.1" cy="210.5" r="4" fill="#3465a4"><title>Stovell (2015)</title></circle></a><a href="/setts/s5/p19w2g12t3k4~x2/"><circle cx="208.9" cy="191.3" r="4" fill="#3465a4"><title>Wilson's, No 111</title></circle></a><a href="/setts/s6/r2o8db2t4k4t1~x6/"><circle cx="135.3" cy="210.8" r="4" fill="#3465a4"><title>Thom(p)son's, Fancy</title></circle></a><a href="/setts/s10/db36db15r25w5k6db35db15r7w5k6/"><circle cx="185.2" cy="192.1" r="4" fill="#3465a4"><title>Le Mirage (Corporate?)</title></circle></a><a href="/setts/s6/lb2db20n2dt15r9lb2~x2/"><circle cx="205.1" cy="203.6" r="4" fill="#3465a4"><title>Open Championship (1998)</title></circle></a><a href="/setts/s6/n32w4n4k24dp29k4/"><circle cx="207.4" cy="228.9" r="4" fill="#3465a4"><title>Grammar School at Leeds (School)</title></circle></a><a href="/setts/s7/ly1db6k1db1k5o5r1~x8/"><circle cx="131.9" cy="209.5" r="4" fill="#3465a4"><title>Lopez-Gasparotto</title></circle></a><a href="/setts/s5/k3r11k26dy11r3~x2/"><circle cx="215.1" cy="208.4" r="4" fill="#3465a4"><title>Novotel, The</title></circle></a><circle cx="188.5" cy="209.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k1r2t1db5lo1~x16/"><circle cx="205.7" cy="229.0" r="4" fill="#3465a4"><title>Trinity College, Toronto Uni. (Corp</title></circle></a><a href="/setts/s8/w5db6r18k8b5k4db27w3~x2/"><circle cx="172.7" cy="170.0" r="4" fill="#3465a4"><title>Clinton (Personal)</title></circle></a><a href="/setts/s6/db15r6dg8k2w2k2~x6/"><circle cx="182.2" cy="210.6" r="4" fill="#3465a4"><title>Stovell (2015)</title></circle></a><a href="/setts/s5/p19w2g12t3k4~x2/"><circle cx="208.9" cy="191.2" r="4" fill="#3465a4"><title>Wilson's, No 111</title></circle></a><a href="/setts/s6/r2o8db2t4k4t1~x6/"><circle cx="135.4" cy="210.8" r="4" fill="#3465a4"><title>Thom(p)son's, Fancy</title></circle></a><a href="/setts/s10/db36db15r25w5k6db35db15r7w5k6/"><circle cx="185.2" cy="192.1" r="4" fill="#3465a4"><title>Le Mirage (Corporate?)</title></circle></a><a href="/setts/s6/lb2db20n2dt15r9lb2~x2/"><circle cx="205.3" cy="203.6" r="4" fill="#3465a4"><title>Open Championship (1998)</title></circle></a><a href="/setts/s6/n32w4n4k24dp29k4/"><circle cx="207.5" cy="228.9" r="4" fill="#3465a4"><title>Grammar School at Leeds (School)</title></circle></a><a href="/setts/s7/r1o5k5db1k1db6ly1~x8/"><circle cx="132.1" cy="209.5" r="4" fill="#3465a4"><title>Lopez-Gasparotto</title></circle></a><a href="/setts/s5/k3r11k26dy11r3~x2/"><circle cx="215.3" cy="208.4" r="4" fill="#3465a4"><title>Novotel, The</title></circle></a><circle cx="188.6" cy="209.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db31t4db6k19r20ly4~x2/

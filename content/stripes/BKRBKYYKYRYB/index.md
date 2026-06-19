@@ -22,6 +22,6 @@ BKRBKYYKYRYB
 
 | Tartans |
 |---------------|
-| [Martinez (2014)](/setts/s12/b6ly1r2ly1k25ly1ly1k20b2r3k20db6~x2/)|
-|![Martinez (2014) example sett](/setts/s12/b6ly1r2ly1k25ly1ly1k20b2r3k20db6~x2/sett.png)|
+| [Martinez (2014)](/setts/s12/db6k20r3b2k20ly1ly1k25ly1r2ly1b6~x2/)|
+|![Martinez (2014) example sett](/setts/s12/db6k20r3b2k20ly1ly1k25ly1r2ly1b6~x2/sett.png)|
 

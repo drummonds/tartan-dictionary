@@ -2,12 +2,18 @@
 title: "Graham, dress"
 date: 2023-03-18
 ---
-**Bands:** [WBWBWKBKBKGBGBGKWBWBW](/stripes/wbwbwkbkbkgbgbgkwbwbw/) · **Stripes:** [W DB W DB W K DB K DB K G T G T G K W DB W DB W](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB W DB W K DB K DB K G T G T G K W DB W DB W</span></span>
+**Bands:** [WBWBWKGBGBGKBKBKWBWBW](/stripes/wbwbwkgbgbgkbkbkwbwbw/) · **Stripes:** [W DB W DB W K G T G T G K DB K DB K W DB W DB W](/stripes/stripes21/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB W DB W K G T G T G K DB K DB K W DB W DB W</span></span>
 
 
 This was sourced from weddslist.  It is a [21 band tartan](/bands/bands21/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Graham, dress
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,13 +920,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Gordon, dress 2](/setts/s14/db2k2db4k4g4ly1g4w2db3w14db2w2k2ly1~x4/) — ΔT 1.12
 1. [Gordon dress](/setts/s23/w2db1w12db2w2k8db8k2db2k2db8k8g8k1ly2k1g8k8w2db2w12db1w2~x2/) — ΔT 1.12
 1. [Pentecostal Assemblies of Canada](/setts/s31/w23k2w2k2w2k2w10k12g12k2g12k10w3k1r2k10lt8g4lt8k10r2k1g5lt23k22w2g2w2k2lt2w2~x2/) — ΔT 1.14
-1. [Gordon Dress (Original)](/setts/s23/w2db1w12db2w2k8db8k2db2k2db8k8dg8k1ly2k1dg8k8w2db2w12db1w2~x2/) — ΔT 1.16
+1. [Gordon Dress (Original)](/setts/s23/w2db1w12db2w2k8dg8k1ly2k1dg8k8db8k2db2k2db8k8w2db2w12db1w2~x2/) — ΔT 1.16
 1. [House of Timber Wolf (Personal)](/setts/s29/w23dt2w2dt2w2dt22g12dt2g12dt10w3dt1o2dt10y8g4y8dt10o2dt1g5y23dt22w2g2w2dt2y2w2~x2/) — ΔT 1.17
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s21/w4db4w60db5w5k30db27k5db30k27dg4t5dg66t5dg4k30w5db5w57db4w4/"><circle cx="125.9" cy="83.3" r="4" fill="#3465a4"><title>Graham Dress</title></circle></a><a href="/setts/s19/r4db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4~x2/"><circle cx="96.9" cy="97.1" r="4" fill="#3465a4"><title>Lauder</title></circle></a><a href="/setts/s19/r4db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4/"><circle cx="105.0" cy="99.0" r="4" fill="#3465a4"><title>Lauder Dress</title></circle></a><a href="/setts/s22/dg6lo6dg1k15dg2k2y2dg2y2k2y2dg2y2k2y2dg2y2k2dg2w15dg1k2~x2/"><circle cx="111.4" cy="81.6" r="4" fill="#3465a4"><title>International College of Dentists (Canadian Section) Dress</title></circle></a><a href="/setts/s22/g6lo6g1k15g2k2lo2g2lo2k2lo2g2lo2k2lo2g2lo2k2g2w15g1k2~x2/"><circle cx="115.9" cy="86.1" r="4" fill="#3465a4"><title>Int. College of Dentists (Canada)</title></circle></a><a href="/setts/s14/db2k2db4k4g4ly1g4w2db3w14db2w2k2ly1~x4/"><circle cx="121.5" cy="111.6" r="4" fill="#3465a4"><title>Gordon, dress 2</title></circle></a><a href="/setts/s23/w2db1w12db2w2k8db8k2db2k2db8k8g8k1ly2k1g8k8w2db2w12db1w2~x2/"><circle cx="71.9" cy="110.9" r="4" fill="#3465a4"><title>Gordon dress</title></circle></a><a href="/setts/s31/w23k2w2k2w2k2w10k12g12k2g12k10w3k1r2k10lt8g4lt8k10r2k1g5lt23k22w2g2w2k2lt2w2~x2/"><circle cx="125.2" cy="57.3" r="4" fill="#3465a4"><title>Pentecostal Assemblies of Canada</title></circle></a><a href="/setts/s23/w2db1w12db2w2k8db8k2db2k2db8k8dg8k1ly2k1dg8k8w2db2w12db1w2~x2/"><circle cx="80.1" cy="113.1" r="4" fill="#3465a4"><title>Gordon Dress (Original)</title></circle></a><a href="/setts/s29/w23dt2w2dt2w2dt22g12dt2g12dt10w3dt1o2dt10y8g4y8dt10o2dt1g5y23dt22w2g2w2dt2y2w2~x2/"><circle cx="165.3" cy="66.5" r="4" fill="#3465a4"><title>House of Timber Wolf (Personal)</title></circle></a><circle cx="117.6" cy="80.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s21/w4db4w60db5w5k30db27k5db30k27dg4t5dg66t5dg4k30w5db5w57db4w4/"><circle cx="125.8" cy="83.3" r="4" fill="#3465a4"><title>Graham Dress</title></circle></a><a href="/setts/s19/r4db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4~x2/"><circle cx="96.8" cy="97.1" r="4" fill="#3465a4"><title>Lauder</title></circle></a><a href="/setts/s19/r4db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4/"><circle cx="104.9" cy="99.0" r="4" fill="#3465a4"><title>Lauder Dress</title></circle></a><a href="/setts/s22/dg6lo6dg1k15dg2k2y2dg2y2k2y2dg2y2k2y2dg2y2k2dg2w15dg1k2~x2/"><circle cx="111.2" cy="81.7" r="4" fill="#3465a4"><title>International College of Dentists (Canadian Section) Dress</title></circle></a><a href="/setts/s22/g6lo6g1k15g2k2lo2g2lo2k2lo2g2lo2k2lo2g2lo2k2g2w15g1k2~x2/"><circle cx="115.7" cy="86.2" r="4" fill="#3465a4"><title>Int. College of Dentists (Canada)</title></circle></a><a href="/setts/s14/db2k2db4k4g4ly1g4w2db3w14db2w2k2ly1~x4/"><circle cx="121.4" cy="111.6" r="4" fill="#3465a4"><title>Gordon, dress 2</title></circle></a><a href="/setts/s23/w2db1w12db2w2k8db8k2db2k2db8k8g8k1ly2k1g8k8w2db2w12db1w2~x2/"><circle cx="71.8" cy="111.0" r="4" fill="#3465a4"><title>Gordon dress</title></circle></a><a href="/setts/s31/w23k2w2k2w2k2w10k12g12k2g12k10w3k1r2k10lt8g4lt8k10r2k1g5lt23k22w2g2w2k2lt2w2~x2/"><circle cx="125.0" cy="57.3" r="4" fill="#3465a4"><title>Pentecostal Assemblies of Canada</title></circle></a><a href="/setts/s23/w2db1w12db2w2k8dg8k1ly2k1dg8k8db8k2db2k2db8k8w2db2w12db1w2~x2/"><circle cx="80.1" cy="113.2" r="4" fill="#3465a4"><title>Gordon Dress (Original)</title></circle></a><a href="/setts/s29/w23dt2w2dt2w2dt22g12dt2g12dt10w3dt1o2dt10y8g4y8dt10o2dt1g5y23dt22w2g2w2dt2y2w2~x2/"><circle cx="165.1" cy="66.6" r="4" fill="#3465a4"><title>House of Timber Wolf (Personal)</title></circle></a><circle cx="117.4" cy="80.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s21/w4db4w60db5w5k30db27k5db30k27g4t5g66t5g4k30w5db5w57db4w4/

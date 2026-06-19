@@ -20,7 +20,7 @@ GRYRGYGY
 
 
 
-### DG R LR R DG LY DG LY <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DG R LR R DG LY DG LY</span></span>
+### LY DG LY DG R LR R DG <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">LY DG LY DG R LR R DG</span></span>
 
 | Tartans |
 |---------------|

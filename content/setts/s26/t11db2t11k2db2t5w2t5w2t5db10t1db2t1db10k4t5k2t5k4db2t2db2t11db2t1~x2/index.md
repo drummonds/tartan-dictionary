@@ -2,7 +2,7 @@
 title: "Round Table"
 date: 2023-03-18
 ---
-**Bands:** [BBBBBBKBKBKBBBBBBWBWBBKBBB](/stripes/bbbbbbkbkbkbbbbbbwbwbbkbbb/) · **Stripes:** [T DB T DB T DB K T K T K DB T DB T DB T W T W T DB K T DB T](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">T DB T DB T DB K T K T K DB T DB T DB T W T W T DB K T DB T</span></span>
+**Bands:** [BBBKBBWBWBBBBBBKBKBKBBBBBB](/stripes/bbbkbbwbwbbbbbbkbkbkbbbbbb/) · **Stripes:** [T DB T K DB T W T W T DB T DB T DB K T K T K DB T DB T DB T](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">T DB T K DB T W T W T DB T DB T DB K T K T K DB T DB T DB T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [26 band tartan](/bands/bands26/).
@@ -319,6 +319,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +420,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +680,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -893,7 +896,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/2 Ba4 B22 DB4 B4 DB4 K8 B10 K4 B10 K8 DB20 B2 Ba4 B2 DB20 B10 LN4 B10 LN4 B10 DB4 K4 B22 DB4 B/22
+B/22 DB4 B22 K4 DB4 B10 LN4 B10 LN4 B10 DB20 B2 Ba4 B2 DB20 K8 B10 K4 B10 K8 DB4 B4 DB4 B22 Ba4 B/2
 ![Sett](sett.png)
 
 ## Palette
@@ -913,9 +916,9 @@ The nearest existing variants by ΔTartan distance.
 
 1. [United Services Planning Association](/setts/s20/db20r2db12g6lb2g4b4g4lb2g16lb2g4b4g4lb2g6db12r2db20ly3~x2/) — ΔT 1.45
 1. [Roberts of Wales](/setts/s22/db24k3db2k3db24t20k3t2k3t20db4t20k3t2k3t20db24k3db2k3db24r4/) — ΔT 1.50
-1. [Walker, Michael (Personal)](/setts/s22/t14db6ly2db6t14db14w2o3w2t14db14t14db14t14w2o3w2db14t14db6ly2db6~x2/) — ΔT 1.55
-1. [Hannay Blue](/setts/s18/k9t4k2t4k2t30k9t4db14ly2db14t4k9t30k2t4k2t4~x2/) — ΔT 1.57
-1. [Illinois St.Andrews Society](/setts/s24/db6r3t24db12lr6t6r2t6lr6t12db2r2db6r2db2t12lr6t6r2t6lr6db12t24r3~x2/) — ΔT 1.60
+1. [Walker, Michael (Personal)](/setts/s22/t14db14t14w2o3w2db14t14db6ly2db6t14~x2/) — ΔT 1.55
+1. [Hannay Blue](/setts/s18/k9t4k2t4k2t30k9t4db14ly2~x2/) — ΔT 1.57
+1. [Illinois St.Andrews Society](/setts/s24/db6r3t24db12lr6t6r2t6lr6t12db2r2db6~x2/) — ΔT 1.60
 1. [Tartan Army](/setts/s21/b22db2b4db2b4db8w2db2w2db10r5ly2r5db10w2db2w2db8b18db2b4~x2/) — ΔT 1.64
 1. [American Soc of Travel Agents Corporate Tartan Tartan Number: 2316. Earliest known date: Pre 1995 Deisgned by Kinloch Anderson for the Scottish Tourist Board trained US Travel Agents. Based on Davidson since the first President of the ASTA from 1931 - 1938 was Mr E. Irvine Davis.Designed to celebrate the ASTA 1997 world conference in Glasgow. Thread count estimated from illustration. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/g10db10r1db10o1db1o10db2o10db1o1db10r1db10g10w2~x2/) — ΔT 1.72
 1. [Rankin #2](/setts/s18/db36g10r2g10w2g10r2k10db14r2db12r2db12r3db2r2db4w2~x2/) — ΔT 1.75
@@ -924,8 +927,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/db20r2db12g6lb2g4b4g4lb2g16lb2g4b4g4lb2g6db12r2db20ly3~x2/"><circle cx="192.5" cy="130.0" r="4" fill="#3465a4"><title>United Services Planning Association</title></circle></a><a href="/setts/s22/db24k3db2k3db24t20k3t2k3t20db4t20k3t2k3t20db24k3db2k3db24r4/"><circle cx="244.6" cy="147.6" r="4" fill="#3465a4"><title>Roberts of Wales</title></circle></a><a href="/setts/s22/t14db6ly2db6t14db14w2o3w2t14db14t14db14t14w2o3w2db14t14db6ly2db6~x2/"><circle cx="197.1" cy="180.1" r="4" fill="#3465a4"><title>Walker, Michael (Personal)</title></circle></a><a href="/setts/s18/k9t4k2t4k2t30k9t4db14ly2db14t4k9t30k2t4k2t4~x2/"><circle cx="299.7" cy="139.5" r="4" fill="#3465a4"><title>Hannay Blue</title></circle></a><a href="/setts/s24/db6r3t24db12lr6t6r2t6lr6t12db2r2db6r2db2t12lr6t6r2t6lr6db12t24r3~x2/"><circle cx="269.8" cy="150.7" r="4" fill="#3465a4"><title>Illinois St.Andrews Society</title></circle></a><a href="/setts/s21/b22db2b4db2b4db8w2db2w2db10r5ly2r5db10w2db2w2db8b18db2b4~x2/"><circle cx="221.1" cy="138.6" r="4" fill="#3465a4"><title>Tartan Army</title></circle></a><a href="/setts/s16/g10db10r1db10o1db1o10db2o10db1o1db10r1db10g10w2~x2/"><circle cx="227.1" cy="171.9" r="4" fill="#3465a4"><title>American Soc of Travel Agents Corporate Tartan Tartan Number: 2316. Earliest known date: Pre 1995 Deisgned by Kinloch Anderson for the Scottish Tourist Board trained US Travel Agents. Based on Davidson since the first President of the ASTA from 1931 - 1938 was Mr E. Irvine Davis.Designed to celebrate the ASTA 1997 world conference in Glasgow. Thread count estimated from illustration. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/db36g10r2g10w2g10r2k10db14r2db12r2db12r3db2r2db4w2~x2/"><circle cx="313.0" cy="122.9" r="4" fill="#3465a4"><title>Rankin #2</title></circle></a><a href="/setts/s21/db22k2db4k2db4k8w2k2w2k10r5ly2r5k10w2k2w2k8db18k2db4~x2/"><circle cx="201.9" cy="131.4" r="4" fill="#3465a4"><title>Tartan Army</title></circle></a><a href="/setts/s16/t4db6g1w1r1db6t4db2lo1db1lo1db1lo1db2lo3db3~x4/"><circle cx="182.9" cy="161.6" r="4" fill="#3465a4"><title>de Baseggio (Golden Bones)</title></circle></a><circle cx="238.8" cy="140.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/db20r2db12g6lb2g4b4g4lb2g16lb2g4b4g4lb2g6db12r2db20ly3~x2/"><circle cx="192.6" cy="130.1" r="4" fill="#3465a4"><title>United Services Planning Association</title></circle></a><a href="/setts/s22/db24k3db2k3db24t20k3t2k3t20db4t20k3t2k3t20db24k3db2k3db24r4/"><circle cx="244.6" cy="147.6" r="4" fill="#3465a4"><title>Roberts of Wales</title></circle></a><a href="/setts/s22/t14db14t14w2o3w2db14t14db6ly2db6t14~x2/"><circle cx="197.1" cy="180.1" r="4" fill="#3465a4"><title>Walker, Michael (Personal)</title></circle></a><a href="/setts/s18/k9t4k2t4k2t30k9t4db14ly2~x2/"><circle cx="299.5" cy="139.4" r="4" fill="#3465a4"><title>Hannay Blue</title></circle></a><a href="/setts/s24/db6r3t24db12lr6t6r2t6lr6t12db2r2db6~x2/"><circle cx="269.6" cy="150.6" r="4" fill="#3465a4"><title>Illinois St.Andrews Society</title></circle></a><a href="/setts/s21/b22db2b4db2b4db8w2db2w2db10r5ly2r5db10w2db2w2db8b18db2b4~x2/"><circle cx="221.0" cy="138.7" r="4" fill="#3465a4"><title>Tartan Army</title></circle></a><a href="/setts/s16/g10db10r1db10o1db1o10db2o10db1o1db10r1db10g10w2~x2/"><circle cx="227.1" cy="171.9" r="4" fill="#3465a4"><title>American Soc of Travel Agents Corporate Tartan Tartan Number: 2316. Earliest known date: Pre 1995 Deisgned by Kinloch Anderson for the Scottish Tourist Board trained US Travel Agents. Based on Davidson since the first President of the ASTA from 1931 - 1938 was Mr E. Irvine Davis.Designed to celebrate the ASTA 1997 world conference in Glasgow. Thread count estimated from illustration. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/db36g10r2g10w2g10r2k10db14r2db12r2db12r3db2r2db4w2~x2/"><circle cx="312.9" cy="122.9" r="4" fill="#3465a4"><title>Rankin #2</title></circle></a><a href="/setts/s21/db22k2db4k2db4k8w2k2w2k10r5ly2r5k10w2k2w2k8db18k2db4~x2/"><circle cx="202.0" cy="131.4" r="4" fill="#3465a4"><title>Tartan Army</title></circle></a><a href="/setts/s16/t4db6g1w1r1db6t4db2lo1db1lo1db1lo1db2lo3db3~x4/"><circle cx="182.9" cy="161.6" r="4" fill="#3465a4"><title>de Baseggio (Golden Bones)</title></circle></a><circle cx="238.7" cy="140.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s26/t11db2t11k2db2t5w2t5w2t5db10t1db2t1db10k4t5k2t5k4db2t2db2t11db2t1~x2/

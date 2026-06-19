@@ -25,8 +25,8 @@ Grouped by stripe pattern — the 5 human-palette shadings of this band pattern,
 |---------------|
 | [Hunter of Bute (Clan ?)](/setts/s9/r8dg8k1dg3k1dg1k10r20lb3~x2/)|
 |![Hunter of Bute (Clan ?) example sett](/setts/s9/r8dg8k1dg3k1dg1k10r20lb3~x2/sett.png)|
-| [Stuart of Bute](/setts/s9/r12dg6k1dg2k1dg1k6r24lb2/)|
-|![Stuart of Bute example sett](/setts/s9/r12dg6k1dg2k1dg1k6r24lb2/sett.png)|
+| [Stuart of Bute](/setts/s9/r12dg6k1dg2k1dg1k6r24lb2~x2/)|
+|![Stuart of Bute example sett](/setts/s9/r12dg6k1dg2k1dg1k6r24lb2~x2/sett.png)|
 
 ### R G K G K G K R W <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R G K G K G K R W</span></span>
 

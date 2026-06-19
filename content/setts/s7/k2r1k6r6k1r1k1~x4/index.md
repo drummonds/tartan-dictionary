@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3799
 
 ## Thread count
-K/4 DR4 K4 DR24 K24 DR4 K/8
+K/8 DR4 K24 DR24 K4 DR4 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -37,7 +37,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/4 DR4 K4 DR24 K24 DR4 K/8 tartan")
+![Tartan detail](tartan.png "K/8 DR4 K24 DR24 K4 DR4 K/4 tartan")
 
 ## Nearest tartans
 
@@ -56,8 +56,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k6r1k6r9k1~x4/"><circle cx="348.3" cy="259.6" r="4" fill="#3465a4"><title>MacLeod of Raasay</title></circle></a><a href="/setts/s5/k2r4k7r1k1~x2/"><circle cx="387.3" cy="266.7" r="4" fill="#3465a4"><title>Romsdal, Tresfjord</title></circle></a><a href="/setts/s6/k1r4k1r4k13r1~x4/"><circle cx="417.1" cy="213.4" r="4" fill="#3465a4"><title>Cameron, Black &amp; Red (dress)</title></circle></a><a href="/setts/s5/k13r2k13r19k2~x2/"><circle cx="373.8" cy="262.1" r="4" fill="#3465a4"><title>MacLeod of Raasay (Highland Society of London)</title></circle></a><a href="/setts/s6/k2r6k2r6k12ly1~x2/"><circle cx="324.5" cy="213.0" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><a href="/setts/s4/k6r31k31r6~x2/"><circle cx="307.8" cy="284.5" r="4" fill="#3465a4"><title>Ettrick</title></circle></a><a href="/setts/s6/k6r3k28r28k3r6~x2/"><circle cx="361.8" cy="231.9" r="4" fill="#3465a4"><title>Erskine, Black &amp; Red (Clan)</title></circle></a><a href="/setts/s4/k1r8k8ly1~x2/"><circle cx="296.3" cy="246.1" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/setts/s5/k18r4k18r32lr3~x2/"><circle cx="296.9" cy="232.6" r="4" fill="#3465a4"><title>Munro VS</title></circle></a><a href="/setts/s5/k18r4k18r32lr3/"><circle cx="296.9" cy="232.6" r="4" fill="#3465a4"><title>Munro VS</title></circle></a><circle cx="355.8" cy="257.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k6r1k6r9k1~x4/"><circle cx="348.3" cy="259.3" r="4" fill="#3465a4"><title>MacLeod of Raasay</title></circle></a><a href="/setts/s5/k2r4k7r1k1~x2/"><circle cx="387.4" cy="266.4" r="4" fill="#3465a4"><title>Romsdal, Tresfjord</title></circle></a><a href="/setts/s6/k1r4k1r4k13r1~x4/"><circle cx="417.0" cy="213.1" r="4" fill="#3465a4"><title>Cameron, Black &amp; Red (dress)</title></circle></a><a href="/setts/s5/k13r2k13r19k2~x2/"><circle cx="373.7" cy="261.7" r="4" fill="#3465a4"><title>MacLeod of Raasay (Highland Society of London)</title></circle></a><a href="/setts/s6/k2r6k2r6k12ly1~x2/"><circle cx="324.5" cy="212.7" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><a href="/setts/s4/k6r31k31r6~x2/"><circle cx="307.8" cy="284.2" r="4" fill="#3465a4"><title>Ettrick</title></circle></a><a href="/setts/s6/k6r3k28r28k3r6~x2/"><circle cx="361.6" cy="231.6" r="4" fill="#3465a4"><title>Erskine, Black &amp; Red (Clan)</title></circle></a><a href="/setts/s4/k1r8k8ly1~x2/"><circle cx="296.4" cy="245.8" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/setts/s5/k18r4k18r32lr3~x2/"><circle cx="296.9" cy="232.4" r="4" fill="#3465a4"><title>Munro VS</title></circle></a><a href="/setts/s5/k18r4k18r32lr3/"><circle cx="296.9" cy="232.4" r="4" fill="#3465a4"><title>Munro VS</title></circle></a><circle cx="355.8" cy="257.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k2r1k6r6k1r1k1~x4/

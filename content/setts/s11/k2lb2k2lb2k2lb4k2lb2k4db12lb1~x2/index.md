@@ -13,13 +13,23 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Thread count
 K/4 N4 K4 N4 K4 N8 K4 N4 K8 DB24 N/2
@@ -51,8 +61,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k4w2k2w2k2w4k2w2k4db12w1~x2/"><circle cx="182.4" cy="173.4" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/setts/s11/k4lr2k2lr2k2lr4k2lr2k4db12lr1~x2/"><circle cx="193.9" cy="185.3" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/setts/s11/k4w2k2w2k2w4k2w2k4db12w1~x4/"><circle cx="188.8" cy="174.4" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/setts/s13/db11k1db1k1db1k8w8k1w8k8db8k1db1~x4/"><circle cx="183.3" cy="170.9" r="4" fill="#3465a4"><title>Blue Watch (Fashion)</title></circle></a><a href="/setts/s8/k16db1k1db1k1db9o18db1~x4/"><circle cx="240.2" cy="164.5" r="4" fill="#3465a4"><title>Kelvingrove (Fashion)</title></circle></a><a href="/setts/s11/db12lr4db4lr4db4lr10db4lr3db8r24lr2~x2/"><circle cx="216.8" cy="179.6" r="4" fill="#3465a4"><title>Wcwm 9285 4906-2</title></circle></a><a href="/setts/s9/db28k3db6k3db6k20o28k3w6~x2/"><circle cx="179.7" cy="185.3" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s11/k9lb8k8lb8r5lb18k5lb5k12db36r5/"><circle cx="110.6" cy="177.9" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/setts/s11/k18lr8k8lr8r5lr18k5lr5k12db36r5~x2/"><circle cx="120.1" cy="189.2" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/setts/s11/k18lr8k8lr8r5lr18k5lr5k12db36r5/"><circle cx="120.1" cy="189.2" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><circle cx="176.0" cy="174.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k4w2k2w2k2w4k2w2k4db12w1~x2/"><circle cx="182.5" cy="173.3" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/setts/s11/k4lr2k2lr2k2lr4k2lr2k4db12lr1~x2/"><circle cx="194.1" cy="185.2" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/setts/s11/k4w2k2w2k2w4k2w2k4db12w1~x4/"><circle cx="188.8" cy="174.3" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/setts/s13/db11k1db1k1db1k8w8k1w8k8db8k1db1~x4/"><circle cx="183.3" cy="170.7" r="4" fill="#3465a4"><title>Blue Watch (Fashion)</title></circle></a><a href="/setts/s8/k16db1k1db1k1db9o18db1~x4/"><circle cx="240.3" cy="164.4" r="4" fill="#3465a4"><title>Kelvingrove (Fashion)</title></circle></a><a href="/setts/s11/db12lr4db4lr4db4lr10db4lr3db8r24lr2~x2/"><circle cx="216.7" cy="179.4" r="4" fill="#3465a4"><title>Wcwm 9285 4906-2</title></circle></a><a href="/setts/s9/db28k3db6k3db6k20o28k3w6~x2/"><circle cx="179.8" cy="185.3" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s11/k9lb8k8lb8r5lb18k5lb5k12db36r5/"><circle cx="110.8" cy="177.9" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/setts/s11/k18lr8k8lr8r5lr18k5lr5k12db36r5~x2/"><circle cx="120.3" cy="189.2" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/setts/s11/k18lr8k8lr8r5lr18k5lr5k12db36r5/"><circle cx="120.3" cy="189.2" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><circle cx="176.1" cy="173.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k2lb2k2lb2k2lb4k2lb2k4db12lb1~x2/

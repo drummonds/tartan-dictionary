@@ -2,7 +2,7 @@
 title: "Antrim, County"
 date: 2023-03-18
 ---
-**Bands:** [GBGYBYRBGY](/stripes/gbgybyrbgy/) · **Stripes:** [Y DT Y LO DT LO O DT Y LO](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">Y DT Y LO DT LO O DT Y LO</span></span>
+**Bands:** [YGBRYBYGBG](/stripes/ygbrybygbg/) · **Stripes:** [LO Y DT O LO DT LO Y DT Y](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LO Y DT O LO DT LO Y DT Y</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2282
 
 ## Thread count
-DY/8 N4 DN34 DO10 DY4 DN10 DY4 N36 DN4 N/10
+N/10 DN4 N36 DY4 DN10 DY4 DO10 DN34 N4 DY/8
 ![Sett](sett.png)
 
 ## Palette
@@ -44,7 +44,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Speyside Grey (Fashion)](/setts/s8/n32k3n3k3o5k8o21k4~x2/) — ΔT 0.83
 1. [Tupper. Sir Charles.. Family Tartan Tartan Number: 614. Earliest known date: 1983 From Canada. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/db4dy7ly3dy12g15dy5db20dy5g4dy2~x2/) — ΔT 0.85
-1. [Strange of Balcaskie (Personal)](/setts/s12/g32dy7g7dy16db32ly3dy8ly3db32dy16g7dy7~x2/) — ΔT 0.86
+1. [Strange of Balcaskie (Personal)](/setts/s12/g32dy7g7dy16db32ly3dy8~x2/) — ΔT 0.86
 1. [Speyside Blue (Fashion)](/setts/s8/n32k3n3k3b5k8o21k4~x2/) — ΔT 0.87
 1. [Auld Lang Syne](/setts/s8/k1n1k1n7dy7k1dy1lt1~x6/) — ΔT 0.92
 1. [Hebridean 1](/setts/s9/db2r3g11r3db2t2db11r2g2~x2/) — ΔT 0.95
@@ -55,8 +55,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/n32k3n3k3o5k8o21k4~x2/"><circle cx="270.4" cy="197.1" r="4" fill="#3465a4"><title>Speyside Grey (Fashion)</title></circle></a><a href="/setts/s10/db4dy7ly3dy12g15dy5db20dy5g4dy2~x2/"><circle cx="241.6" cy="225.9" r="4" fill="#3465a4"><title>Tupper. Sir Charles.. Family Tartan Tartan Number: 614. Earliest known date: 1983 From Canada. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/g32dy7g7dy16db32ly3dy8ly3db32dy16g7dy7~x2/"><circle cx="230.0" cy="211.4" r="4" fill="#3465a4"><title>Strange of Balcaskie (Personal)</title></circle></a><a href="/setts/s8/n32k3n3k3b5k8o21k4~x2/"><circle cx="267.2" cy="197.7" r="4" fill="#3465a4"><title>Speyside Blue (Fashion)</title></circle></a><a href="/setts/s8/k1n1k1n7dy7k1dy1lt1~x6/"><circle cx="243.9" cy="216.0" r="4" fill="#3465a4"><title>Auld Lang Syne</title></circle></a><a href="/setts/s9/db2r3g11r3db2t2db11r2g2~x2/"><circle cx="212.4" cy="228.8" r="4" fill="#3465a4"><title>Hebridean 1</title></circle></a><a href="/setts/s10/dg8r3dg3r5dg26db7t3db28r3db6~x2/"><circle cx="294.1" cy="210.9" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin</title></circle></a><a href="/setts/s10/g8r3g3r5g26db7t3db28r3db6~x2/"><circle cx="271.5" cy="198.5" r="4" fill="#3465a4"><title>Stewart of Appin Htg (error)</title></circle></a><a href="/setts/s10/g8r3g3r5g26dy7t3db28r3db6~x2/"><circle cx="221.8" cy="182.5" r="4" fill="#3465a4"><title>Stewart of Appin Htg (Clan)</title></circle></a><a href="/setts/s8/y24dp3y3dp3y3dp7dg20r3~x2/"><circle cx="268.5" cy="215.3" r="4" fill="#3465a4"><title>Crantock</title></circle></a><circle cx="249.3" cy="206.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/n32k3n3k3o5k8o21k4~x2/"><circle cx="270.3" cy="197.1" r="4" fill="#3465a4"><title>Speyside Grey (Fashion)</title></circle></a><a href="/setts/s10/db4dy7ly3dy12g15dy5db20dy5g4dy2~x2/"><circle cx="241.5" cy="226.0" r="4" fill="#3465a4"><title>Tupper. Sir Charles.. Family Tartan Tartan Number: 614. Earliest known date: 1983 From Canada. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/g32dy7g7dy16db32ly3dy8~x2/"><circle cx="230.0" cy="211.5" r="4" fill="#3465a4"><title>Strange of Balcaskie (Personal)</title></circle></a><a href="/setts/s8/n32k3n3k3b5k8o21k4~x2/"><circle cx="267.1" cy="197.7" r="4" fill="#3465a4"><title>Speyside Blue (Fashion)</title></circle></a><a href="/setts/s8/k1n1k1n7dy7k1dy1lt1~x6/"><circle cx="243.9" cy="216.0" r="4" fill="#3465a4"><title>Auld Lang Syne</title></circle></a><a href="/setts/s9/db2r3g11r3db2t2db11r2g2~x2/"><circle cx="212.3" cy="228.9" r="4" fill="#3465a4"><title>Hebridean 1</title></circle></a><a href="/setts/s10/dg8r3dg3r5dg26db7t3db28r3db6~x2/"><circle cx="294.0" cy="210.9" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin</title></circle></a><a href="/setts/s10/g8r3g3r5g26db7t3db28r3db6~x2/"><circle cx="271.5" cy="198.4" r="4" fill="#3465a4"><title>Stewart of Appin Htg (error)</title></circle></a><a href="/setts/s10/g8r3g3r5g26dy7t3db28r3db6~x2/"><circle cx="221.8" cy="182.6" r="4" fill="#3465a4"><title>Stewart of Appin Htg (Clan)</title></circle></a><a href="/setts/s8/y24dp3y3dp3y3dp7dg20r3~x2/"><circle cx="268.4" cy="215.3" r="4" fill="#3465a4"><title>Crantock</title></circle></a><circle cx="249.3" cy="206.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/y5dt2y18lo2dt5lo2o5dt17y2lo4~x2/

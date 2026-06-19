@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/6 LT40 O56 B/12
+B/12 O56 LT40 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -899,7 +902,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/6 LT40 O56 B/12 tartan")
+![Tartan detail](tartan.png "B/12 O56 LT40 B/6 tartan")
 
 ## Nearest tartans
 
@@ -907,19 +910,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Prince of Orange Tartan Tartan Number: 389. Earliest known date: pre 2003 Sales help Princess Diana Memorial Trust See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/t6lo28dy20t3~x2/) — ΔT 0.86
 1. [Dohmen Family (Zuid-Nederland)](/setts/s4/g30lo3t8o25~x2/) — ΔT 1.54
-1. [Harmony, 9](/setts/s5/ly2o10r15ly10o2~x4/) — ΔT 1.71
+1. [Harmony, 9](/setts/s5/o2ly10r15o10ly2~x4/) — ΔT 1.70
 1. [Manhattan Ethnic](/setts/s7/lo36do15lo9r31lo5do4r16~x2/) — ΔT 1.74
-1. [Manx, Mannin Plaid](/setts/s4/ly1o5r5w1~x4/) — ΔT 1.76
+1. [Manx, Mannin Plaid](/setts/s4/w1r5o5ly1~x4/) — ΔT 1.76
 1. [Moray of Abercairney](/setts/s6/r8r1g4r1g1t2~x2/) — ΔT 1.81
 1. [Mowbray (Moubray) Family Tartan Tartan Number: 565. Earliest known date: 1983 Designed C.1984 by Peter MacDonald for a Mr Mowbray in the USA. Sometimes woven with green in place of gray, and blue in place of azure. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/o16r2o10r15t5~x2/) — ΔT 1.82
 1. [Hugh Fraser of Boblainy](/setts/s5/r1r14g7db7r1~x4/) — ΔT 1.93
-1. [Bryce](/setts/s4/ly1r9g7r1~x4/) — ΔT 1.93
-1. [MacNab, Variant](/setts/s6/g1r1g7r4r7r1~x4/) — ΔT 1.97
+1. [Bryce](/setts/s4/r1g7r9ly1~x4/) — ΔT 1.93
+1. [MacNab, Variant](/setts/s6/r1r7r4g7r1g1~x4/) — ΔT 1.97
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/t6lo28dy20t3~x2/"><circle cx="323.0" cy="261.9" r="4" fill="#3465a4"><title>Prince of Orange Tartan Tartan Number: 389. Earliest known date: pre 2003 Sales help Princess Diana Memorial Trust See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/g30lo3t8o25~x2/"><circle cx="295.1" cy="258.3" r="4" fill="#3465a4"><title>Dohmen Family (Zuid-Nederland)</title></circle></a><a href="/setts/s5/ly2o10r15ly10o2~x4/"><circle cx="233.9" cy="246.0" r="4" fill="#3465a4"><title>Harmony, 9</title></circle></a><a href="/setts/s7/lo36do15lo9r31lo5do4r16~x2/"><circle cx="245.4" cy="220.1" r="4" fill="#3465a4"><title>Manhattan Ethnic</title></circle></a><a href="/setts/s4/ly1o5r5w1~x4/"><circle cx="242.6" cy="263.2" r="4" fill="#3465a4"><title>Manx, Mannin Plaid</title></circle></a><a href="/setts/s6/r8r1g4r1g1t2~x2/"><circle cx="278.4" cy="214.5" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/setts/s5/o16r2o10r15t5~x2/"><circle cx="369.8" cy="294.5" r="4" fill="#3465a4"><title>Mowbray (Moubray) Family Tartan Tartan Number: 565. Earliest known date: 1983 Designed C.1984 by Peter MacDonald for a Mr Mowbray in the USA. Sometimes woven with green in place of gray, and blue in place of azure. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/r1r14g7db7r1~x4/"><circle cx="341.8" cy="222.9" r="4" fill="#3465a4"><title>Hugh Fraser of Boblainy</title></circle></a><a href="/setts/s4/ly1r9g7r1~x4/"><circle cx="356.3" cy="246.0" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/setts/s6/g1r1g7r4r7r1~x4/"><circle cx="252.1" cy="248.3" r="4" fill="#3465a4"><title>MacNab, Variant</title></circle></a><circle cx="330.2" cy="259.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/t6lo28dy20t3~x2/"><circle cx="322.7" cy="261.8" r="4" fill="#3465a4"><title>Prince of Orange Tartan Tartan Number: 389. Earliest known date: pre 2003 Sales help Princess Diana Memorial Trust See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/g30lo3t8o25~x2/"><circle cx="294.8" cy="258.3" r="4" fill="#3465a4"><title>Dohmen Family (Zuid-Nederland)</title></circle></a><a href="/setts/s5/o2ly10r15o10ly2~x4/"><circle cx="233.6" cy="245.9" r="4" fill="#3465a4"><title>Harmony, 9</title></circle></a><a href="/setts/s7/lo36do15lo9r31lo5do4r16~x2/"><circle cx="245.0" cy="220.1" r="4" fill="#3465a4"><title>Manhattan Ethnic</title></circle></a><a href="/setts/s4/w1r5o5ly1~x4/"><circle cx="242.4" cy="263.1" r="4" fill="#3465a4"><title>Manx, Mannin Plaid</title></circle></a><a href="/setts/s6/r8r1g4r1g1t2~x2/"><circle cx="278.1" cy="214.5" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/setts/s5/o16r2o10r15t5~x2/"><circle cx="369.5" cy="294.4" r="4" fill="#3465a4"><title>Mowbray (Moubray) Family Tartan Tartan Number: 565. Earliest known date: 1983 Designed C.1984 by Peter MacDonald for a Mr Mowbray in the USA. Sometimes woven with green in place of gray, and blue in place of azure. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/r1r14g7db7r1~x4/"><circle cx="341.5" cy="222.8" r="4" fill="#3465a4"><title>Hugh Fraser of Boblainy</title></circle></a><a href="/setts/s4/r1g7r9ly1~x4/"><circle cx="355.9" cy="245.7" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/setts/s6/r1r7r4g7r1g1~x4/"><circle cx="251.9" cy="248.2" r="4" fill="#3465a4"><title>MacNab, Variant</title></circle></a><circle cx="329.8" cy="259.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/t6lo28o20t3~x2/

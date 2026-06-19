@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Scoepaig, fragment
+- Unidentified
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -914,16 +924,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Alexander](/setts/s9/r12db2r4db4k15g4r4g2r12~x2/) — ΔT 0.99
 1. [Hebridean, South Uist](/setts/s10/g8r1k1r8g1r8k1r1k8r1~x6/) — ΔT 1.02
 1. [Nakayama (Personal)](/setts/s8/db1r1k2r7k7r1k2w1~x6/) — ΔT 1.03
-1. [Robieson QAHS (Fashion)](/setts/s13/k1db1k8ly1k1ly8db1r8k1r1k8db1k1~x6/) — ΔT 1.08
+1. [Robieson QAHS (Fashion)](/setts/s13/k1db1k8r1k1r8db1ly8k1ly1k8db1k1~x6/) — ΔT 1.08
 1. [Memery (Reston, USA)](/setts/s9/w4k6r3k15r3k6r27db9w2~x2/) — ΔT 1.08
-1. [Hallingdal (District)](/setts/s12/g2ly1r2k12r2k2r2k2r13k2ly1r2~x2/) — ΔT 1.10
+1. [Hallingdal (District)](/setts/s12/r2ly1k2r13k2r2k2r2k12r2ly1g2~x2/) — ΔT 1.10
 1. [Nakayama (Fashion)](/setts/s8/b1r1k2r7k7r1k2w1~x6/) — ΔT 1.11
 1. [MacDuff](/setts/s7/r4k2r24k6db6g16r3~x2/) — ΔT 1.12
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db1k1r12g12k6db5r12k1db1~x2/"><circle cx="227.1" cy="168.9" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/setts/s10/do1lr2k5do3k1o4k1o10k1o1~x4/"><circle cx="241.7" cy="162.1" r="4" fill="#3465a4"><title>Campbell 'Camel'</title></circle></a><a href="/setts/s9/r12db2r4db4k15g4r4g2r12~x2/"><circle cx="243.2" cy="195.1" r="4" fill="#3465a4"><title>Alexander</title></circle></a><a href="/setts/s10/g8r1k1r8g1r8k1r1k8r1~x6/"><circle cx="254.6" cy="187.9" r="4" fill="#3465a4"><title>Hebridean, South Uist</title></circle></a><a href="/setts/s8/db1r1k2r7k7r1k2w1~x6/"><circle cx="262.5" cy="188.9" r="4" fill="#3465a4"><title>Nakayama (Personal)</title></circle></a><a href="/setts/s13/k1db1k8ly1k1ly8db1r8k1r1k8db1k1~x6/"><circle cx="215.3" cy="150.9" r="4" fill="#3465a4"><title>Robieson QAHS (Fashion)</title></circle></a><a href="/setts/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="225.8" cy="151.3" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><a href="/setts/s12/g2ly1r2k12r2k2r2k2r13k2ly1r2~x2/"><circle cx="296.0" cy="137.6" r="4" fill="#3465a4"><title>Hallingdal (District)</title></circle></a><a href="/setts/s8/b1r1k2r7k7r1k2w1~x6/"><circle cx="265.9" cy="192.5" r="4" fill="#3465a4"><title>Nakayama (Fashion)</title></circle></a><a href="/setts/s7/r4k2r24k6db6g16r3~x2/"><circle cx="261.4" cy="178.4" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><circle cx="248.2" cy="161.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db1k1r12g12k6db5r12k1db1~x2/"><circle cx="227.0" cy="168.9" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/setts/s10/do1lr2k5do3k1o4k1o10k1o1~x4/"><circle cx="241.6" cy="162.0" r="4" fill="#3465a4"><title>Campbell 'Camel'</title></circle></a><a href="/setts/s9/r12db2r4db4k15g4r4g2r12~x2/"><circle cx="243.1" cy="195.0" r="4" fill="#3465a4"><title>Alexander</title></circle></a><a href="/setts/s10/g8r1k1r8g1r8k1r1k8r1~x6/"><circle cx="254.4" cy="187.7" r="4" fill="#3465a4"><title>Hebridean, South Uist</title></circle></a><a href="/setts/s8/db1r1k2r7k7r1k2w1~x6/"><circle cx="262.3" cy="188.8" r="4" fill="#3465a4"><title>Nakayama (Personal)</title></circle></a><a href="/setts/s13/k1db1k8r1k1r8db1ly8k1ly1k8db1k1~x6/"><circle cx="215.2" cy="150.8" r="4" fill="#3465a4"><title>Robieson QAHS (Fashion)</title></circle></a><a href="/setts/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="225.6" cy="151.2" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><a href="/setts/s12/r2ly1k2r13k2r2k2r2k12r2ly1g2~x2/"><circle cx="295.8" cy="137.5" r="4" fill="#3465a4"><title>Hallingdal (District)</title></circle></a><a href="/setts/s8/b1r1k2r7k7r1k2w1~x6/"><circle cx="265.8" cy="192.3" r="4" fill="#3465a4"><title>Nakayama (Fashion)</title></circle></a><a href="/setts/s7/r4k2r24k6db6g16r3~x2/"><circle cx="261.2" cy="178.3" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><circle cx="248.1" cy="160.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/k10t1k1r10t1k1t1r10g6r2~x2/

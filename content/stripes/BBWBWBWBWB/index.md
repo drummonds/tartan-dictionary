@@ -22,6 +22,6 @@ BBWBWBWBWB
 
 | Tartans |
 |---------------|
-| [St. Andrews, Earl of](/setts/s10/b52db28w5db3w2db10w2db3w5db28~x2/)|
-|![St. Andrews, Earl of example sett](/setts/s10/b52db28w5db3w2db10w2db3w5db28~x2/sett.png)|
+| [St. Andrews, Earl of](/setts/s10/b52db28w5db3w2db10~x2/)|
+|![St. Andrews, Earl of example sett](/setts/s10/b52db28w5db3w2db10~x2/sett.png)|
 

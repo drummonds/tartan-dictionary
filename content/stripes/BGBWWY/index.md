@@ -20,7 +20,7 @@ BGBWWY
 
 
 
-### DO G T LB W LY <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DO G T LB W LY</span></span>
+### LY W LB T G DO <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="seq">LY W LB T G DO</span></span>
 
 | Tartans |
 |---------------|

@@ -8,7 +8,7 @@ RBGBGBR
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/r1db7g7db7g7dr7r1~x4/tartan.png)
+![Woven sample](/setts/s7/r1dr7g7db7g7db7r1~x4/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ RBGBGBR
 
 
 
-### R DB G DB G DR R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB G DB G DR R</span></span>
+### R DR G DB G DB R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DR G DB G DB R</span></span>
 
 | Tartans |
 |---------------|
-| [Tennant](/setts/s7/r1db7g7db7g7dr7r1~x4/)|
-|![Tennant example sett](/setts/s7/r1db7g7db7g7dr7r1~x4/sett.png)|
+| [Tennant](/setts/s7/r1dr7g7db7g7db7r1~x4/)|
+|![Tennant example sett](/setts/s7/r1dr7g7db7g7db7r1~x4/sett.png)|
 

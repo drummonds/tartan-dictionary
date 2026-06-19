@@ -2,7 +2,7 @@
 title: "MacSporran"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBRKGRGRKY](/stripes/brbrbrkgrgrky/) · **Stripes:** [DB R DB R DB R K G R G R K LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB R DB R DB R K G R G R K LY</span></span>
+**Bands:** [YKRGRGKRBRBRB](/stripes/ykrgrgkrbrbrb/) · **Stripes:** [LY K R G R G K R DB R DB R DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K R G R G K R DB R DB R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -907,17 +910,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Blair Dress](/setts/s13/db2r2db12k5dg12r2dg2r2dg12k5w14r2w2~x2/) — ΔT 0.62
 1. [Kinloch Anderson, hunting](/setts/s12/m4g14o2g4o2k6g3k6db14m2db4m4~x2/) — ΔT 0.65
 1. [Denovan, The Lairdship of..](/setts/s12/db10p2db3r4db14r2k14g14r4g3p2g10~x2/) — ΔT 0.74
-1. [Clare](/setts/s11/ly3db2g14db2m14db2m14db2g14db14m3~x2/) — ΔT 0.75
+1. [Clare](/setts/s11/m3db14g14db2m14db2m14db2g14db2ly3~x2/) — ΔT 0.75
 1. [Scottish National Dress](/setts/s14/db12w2db2r2db3k11g12k2g3k2g12db12w13r2~x2/) — ΔT 0.76
 1. [Gordon Dress #2](/setts/s13/w20k3w3k3w3k16dg17ly5dg17k16db16k3db3~x2/) — ΔT 0.78
-1. [Soutar/Souter](/setts/s16/k20w3r10dg20r3k3t20w3k20w3t20k3r3dg20r10w3~x2/) — ΔT 0.86
+1. [Soutar/Souter](/setts/s16/k20w3t20k3r3dg20r10w3k20~x2/) — ΔT 0.86
 1. [Glengarry Highland Games](/setts/s12/r8g2r2g6r4k8db12w2r2w2db12k5~x2/) — ΔT 0.88
 1. [Hargis (Name)](/setts/s12/w2k1dg8r2dg8k6db10r4k2r2k1w2~x2/) — ΔT 0.88
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db3r1db1r2db6r1k6g6r2g1r1g2ly1~x2/"><circle cx="79.7" cy="173.2" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/setts/s13/db2r2db12k5dg12r2dg2r2dg12k5w14r2w2~x2/"><circle cx="82.0" cy="159.3" r="4" fill="#3465a4"><title>Blair Dress</title></circle></a><a href="/setts/s12/m4g14o2g4o2k6g3k6db14m2db4m4~x2/"><circle cx="92.3" cy="180.1" r="4" fill="#3465a4"><title>Kinloch Anderson, hunting</title></circle></a><a href="/setts/s12/db10p2db3r4db14r2k14g14r4g3p2g10~x2/"><circle cx="100.8" cy="184.2" r="4" fill="#3465a4"><title>Denovan, The Lairdship of..</title></circle></a><a href="/setts/s11/ly3db2g14db2m14db2m14db2g14db14m3~x2/"><circle cx="122.1" cy="181.3" r="4" fill="#3465a4"><title>Clare</title></circle></a><a href="/setts/s14/db12w2db2r2db3k11g12k2g3k2g12db12w13r2~x2/"><circle cx="71.8" cy="166.3" r="4" fill="#3465a4"><title>Scottish National Dress</title></circle></a><a href="/setts/s13/w20k3w3k3w3k16dg17ly5dg17k16db16k3db3~x2/"><circle cx="72.4" cy="171.9" r="4" fill="#3465a4"><title>Gordon Dress #2</title></circle></a><a href="/setts/s16/k20w3r10dg20r3k3t20w3k20w3t20k3r3dg20r10w3~x2/"><circle cx="64.9" cy="161.5" r="4" fill="#3465a4"><title>Soutar/Souter</title></circle></a><a href="/setts/s12/r8g2r2g6r4k8db12w2r2w2db12k5~x2/"><circle cx="94.7" cy="182.2" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/setts/s12/w2k1dg8r2dg8k6db10r4k2r2k1w2~x2/"><circle cx="113.2" cy="164.8" r="4" fill="#3465a4"><title>Hargis (Name)</title></circle></a><circle cx="87.2" cy="165.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db3r1db1r2db6r1k6g6r2g1r1g2ly1~x2/"><circle cx="79.8" cy="173.3" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/setts/s13/db2r2db12k5dg12r2dg2r2dg12k5w14r2w2~x2/"><circle cx="82.1" cy="159.3" r="4" fill="#3465a4"><title>Blair Dress</title></circle></a><a href="/setts/s12/m4g14o2g4o2k6g3k6db14m2db4m4~x2/"><circle cx="92.4" cy="180.2" r="4" fill="#3465a4"><title>Kinloch Anderson, hunting</title></circle></a><a href="/setts/s12/db10p2db3r4db14r2k14g14r4g3p2g10~x2/"><circle cx="100.9" cy="184.3" r="4" fill="#3465a4"><title>Denovan, The Lairdship of..</title></circle></a><a href="/setts/s11/m3db14g14db2m14db2m14db2g14db2ly3~x2/"><circle cx="122.1" cy="181.4" r="4" fill="#3465a4"><title>Clare</title></circle></a><a href="/setts/s14/db12w2db2r2db3k11g12k2g3k2g12db12w13r2~x2/"><circle cx="71.9" cy="166.3" r="4" fill="#3465a4"><title>Scottish National Dress</title></circle></a><a href="/setts/s13/w20k3w3k3w3k16dg17ly5dg17k16db16k3db3~x2/"><circle cx="72.4" cy="172.0" r="4" fill="#3465a4"><title>Gordon Dress #2</title></circle></a><a href="/setts/s16/k20w3t20k3r3dg20r10w3k20~x2/"><circle cx="65.0" cy="161.7" r="4" fill="#3465a4"><title>Soutar/Souter</title></circle></a><a href="/setts/s12/r8g2r2g6r4k8db12w2r2w2db12k5~x2/"><circle cx="94.8" cy="182.2" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/setts/s12/w2k1dg8r2dg8k6db10r4k2r2k1w2~x2/"><circle cx="113.3" cy="164.9" r="4" fill="#3465a4"><title>Hargis (Name)</title></circle></a><circle cx="87.3" cy="165.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db17r3db4r5db20r3k20g20r5g4r3k3ly11~x2/

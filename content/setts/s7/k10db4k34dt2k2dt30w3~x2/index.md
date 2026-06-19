@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7343/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Patriot, The
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k20r1dg3k8dg2k2dg20w2~x2/"><circle cx="393.1" cy="205.7" r="4" fill="#3465a4"><title>Scottish Chieftain (Universal)</title></circle></a><a href="/setts/s6/k4r2k12db12k1lo2~x2/"><circle cx="338.6" cy="237.6" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/setts/s7/k4r1k4r1dg14n1dg1~x4/"><circle cx="393.3" cy="207.3" r="4" fill="#3465a4"><title>Pinehurst Resort</title></circle></a><a href="/setts/s8/r4dg3k2dg38db30k3db3k3~x2/"><circle cx="358.4" cy="190.9" r="4" fill="#3465a4"><title>Peter of Lee</title></circle></a><a href="/setts/s8/k28r1k2r1k8db24dg2db3~x2/"><circle cx="424.5" cy="177.9" r="4" fill="#3465a4"><title>Home or Hume (Vestiarium Scoticum)</title></circle></a><a href="/setts/s8/k4db36k4db4k34b3k3w4~x2/"><circle cx="348.3" cy="202.6" r="4" fill="#3465a4"><title>Slanj Dress (Corporate)</title></circle></a><a href="/setts/s9/dg28r12dg4k20lo2k3lo2k3dg7~x2/"><circle cx="319.1" cy="203.0" r="4" fill="#3465a4"><title>Cork, County (District)</title></circle></a><a href="/setts/s6/m4dg9w2dg24dt37r3~x2/"><circle cx="333.8" cy="200.8" r="4" fill="#3465a4"><title>Hardie (Name)</title></circle></a><a href="/setts/s10/r4dt4k2dt31k10ly3dt5k11dt6k3~x2/"><circle cx="375.9" cy="190.0" r="4" fill="#3465a4"><title>MacArthur Fox Green (Personal)</title></circle></a><a href="/setts/s7/k32b2k6b2k13n30w2~x2/"><circle cx="377.2" cy="202.8" r="4" fill="#3465a4"><title>Mountain Rescue Association Honor Guard</title></circle></a><circle cx="388.6" cy="210.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k20r1dg3k8dg2k2dg20w2~x2/"><circle cx="393.1" cy="205.7" r="4" fill="#3465a4"><title>Scottish Chieftain (Universal)</title></circle></a><a href="/setts/s6/k4r2k12db12k1lo2~x2/"><circle cx="338.7" cy="237.6" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/setts/s7/k4r1k4r1dg14n1dg1~x4/"><circle cx="393.3" cy="207.2" r="4" fill="#3465a4"><title>Pinehurst Resort</title></circle></a><a href="/setts/s8/r4dg3k2dg38db30k3db3k3~x2/"><circle cx="358.5" cy="190.9" r="4" fill="#3465a4"><title>Peter of Lee</title></circle></a><a href="/setts/s8/k28r1k2r1k8db24dg2db3~x2/"><circle cx="424.4" cy="177.9" r="4" fill="#3465a4"><title>Home or Hume (Vestiarium Scoticum)</title></circle></a><a href="/setts/s8/k4db36k4db4k34b3k3w4~x2/"><circle cx="348.3" cy="202.5" r="4" fill="#3465a4"><title>Slanj Dress (Corporate)</title></circle></a><a href="/setts/s9/dg28r12dg4k20lo2k3lo2k3dg7~x2/"><circle cx="319.1" cy="203.0" r="4" fill="#3465a4"><title>Cork, County (District)</title></circle></a><a href="/setts/s6/m4dg9w2dg24dt37r3~x2/"><circle cx="333.9" cy="200.9" r="4" fill="#3465a4"><title>Hardie (Name)</title></circle></a><a href="/setts/s10/r4dt4k2dt31k10ly3dt5k11dt6k3~x2/"><circle cx="375.9" cy="189.9" r="4" fill="#3465a4"><title>MacArthur Fox Green (Personal)</title></circle></a><a href="/setts/s7/k32b2k6b2k13n30w2~x2/"><circle cx="377.2" cy="202.6" r="4" fill="#3465a4"><title>Mountain Rescue Association Honor Guard</title></circle></a><circle cx="388.7" cy="210.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k10db4k34dt2k2dt30w3~x2/

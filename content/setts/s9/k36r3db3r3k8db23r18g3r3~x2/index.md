@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Grady, Highlands
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -919,18 +928,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Brown](/setts/s8/db6r1db2r1db2k18r8g2~x2/) — ΔT 0.71
 1. [Brown](/setts/s8/db6r1db2r1db2k18r8dg2~x4/) — ΔT 0.73
 1. [Aitken](/setts/s8/lo5db2k2db12k16r20k2r4~x2/) — ΔT 0.88
-1. [Gipsy](/setts/s9/k2r2db8r2w1r2k8r2k2~x2/) — ΔT 1.01
-1. [Unidentified #58](/setts/s9/r4k12lb1dg6r3k1r3lb1r3~x4/) — ΔT 1.09
+1. [Gipsy](/setts/s9/k2r2k8r2w1r2db8r2k2~x2/) — ΔT 1.01
+1. [Unidentified #58](/setts/s9/r4k12lb1dg6r3k1r3lb1r3~x4/) — ΔT 1.08
 1. [Carlow](/setts/s9/m20dg2m2dg2m2dg8k24dg2k3~x2/) — ΔT 1.13
-1. [Gipsy (Fashion)](/setts/s9/k2r2db8r2w1r2k8r2k2~x4/) — ΔT 1.14
+1. [Gipsy (Fashion)](/setts/s9/k2r2k8r2w1r2db8r2k2~x4/) — ΔT 1.14
 1. [Sonsub Corporate Tartan Tartan Number: 6984. Earliest known date: 2006 Corporate colours for Sonsub Ltd, Bridge of Don, Aberdeen. Sonsub is a well known provider of remote subsea systems technology, and provides services to the North Atlantic, Mediterranean, Africa, Caspian and Middle East. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/k30k5k19k5k2n20ly2n20k5ly4~x2/) — ΔT 1.15
 1. [North Berwick Pipe Band (Dancing)](/setts/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/) — ΔT 1.18
 1. [MacPherson Hunting](/setts/s9/db1r1k8r1db1r1n8r1db1~x2/) — ΔT 1.19
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db6r1db2r1db2k18r8g2~x2/"><circle cx="254.9" cy="152.9" r="4" fill="#3465a4"><title>Brown</title></circle></a><a href="/setts/s8/db6r1db2r1db2k18r8dg2~x4/"><circle cx="258.3" cy="154.2" r="4" fill="#3465a4"><title>Brown</title></circle></a><a href="/setts/s8/lo5db2k2db12k16r20k2r4~x2/"><circle cx="188.2" cy="189.3" r="4" fill="#3465a4"><title>Aitken</title></circle></a><a href="/setts/s9/k2r2db8r2w1r2k8r2k2~x2/"><circle cx="184.0" cy="196.1" r="4" fill="#3465a4"><title>Gipsy</title></circle></a><a href="/setts/s9/r4k12lb1dg6r3k1r3lb1r3~x4/"><circle cx="202.4" cy="176.8" r="4" fill="#3465a4"><title>Unidentified #58</title></circle></a><a href="/setts/s9/m20dg2m2dg2m2dg8k24dg2k3~x2/"><circle cx="267.7" cy="183.7" r="4" fill="#3465a4"><title>Carlow</title></circle></a><a href="/setts/s9/k2r2db8r2w1r2k8r2k2~x4/"><circle cx="179.4" cy="193.8" r="4" fill="#3465a4"><title>Gipsy (Fashion)</title></circle></a><a href="/setts/s10/k30k5k19k5k2n20ly2n20k5ly4~x2/"><circle cx="237.8" cy="175.8" r="4" fill="#3465a4"><title>Sonsub Corporate Tartan Tartan Number: 6984. Earliest known date: 2006 Corporate colours for Sonsub Ltd, Bridge of Don, Aberdeen. Sonsub is a well known provider of remote subsea systems technology, and provides services to the North Atlantic, Mediterranean, Africa, Caspian and Middle East. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/"><circle cx="185.0" cy="180.9" r="4" fill="#3465a4"><title>North Berwick Pipe Band (Dancing)</title></circle></a><a href="/setts/s9/db1r1k8r1db1r1n8r1db1~x2/"><circle cx="176.8" cy="171.3" r="4" fill="#3465a4"><title>MacPherson Hunting</title></circle></a><circle cx="232.5" cy="166.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db6r1db2r1db2k18r8g2~x2/"><circle cx="255.0" cy="152.8" r="4" fill="#3465a4"><title>Brown</title></circle></a><a href="/setts/s8/db6r1db2r1db2k18r8dg2~x4/"><circle cx="258.4" cy="154.1" r="4" fill="#3465a4"><title>Brown</title></circle></a><a href="/setts/s8/lo5db2k2db12k16r20k2r4~x2/"><circle cx="188.4" cy="189.3" r="4" fill="#3465a4"><title>Aitken</title></circle></a><a href="/setts/s9/k2r2k8r2w1r2db8r2k2~x2/"><circle cx="184.2" cy="196.0" r="4" fill="#3465a4"><title>Gipsy</title></circle></a><a href="/setts/s9/r4k12lb1dg6r3k1r3lb1r3~x4/"><circle cx="202.4" cy="176.8" r="4" fill="#3465a4"><title>Unidentified #58</title></circle></a><a href="/setts/s9/m20dg2m2dg2m2dg8k24dg2k3~x2/"><circle cx="267.7" cy="183.6" r="4" fill="#3465a4"><title>Carlow</title></circle></a><a href="/setts/s9/k2r2k8r2w1r2db8r2k2~x4/"><circle cx="179.6" cy="193.7" r="4" fill="#3465a4"><title>Gipsy (Fashion)</title></circle></a><a href="/setts/s10/k30k5k19k5k2n20ly2n20k5ly4~x2/"><circle cx="238.0" cy="175.7" r="4" fill="#3465a4"><title>Sonsub Corporate Tartan Tartan Number: 6984. Earliest known date: 2006 Corporate colours for Sonsub Ltd, Bridge of Don, Aberdeen. Sonsub is a well known provider of remote subsea systems technology, and provides services to the North Atlantic, Mediterranean, Africa, Caspian and Middle East. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/"><circle cx="185.1" cy="180.8" r="4" fill="#3465a4"><title>North Berwick Pipe Band (Dancing)</title></circle></a><a href="/setts/s9/db1r1k8r1db1r1n8r1db1~x2/"><circle cx="176.9" cy="171.3" r="4" fill="#3465a4"><title>MacPherson Hunting</title></circle></a><circle cx="232.6" cy="166.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/k36r3db3r3k8db23r18g3r3~x2/

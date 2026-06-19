@@ -2,12 +2,18 @@
 title: "Brooks Brothers Tattersall Red"
 date: 2023-03-18
 ---
-**Bands:** [BRBRY](/stripes/brbry/) · **Stripes:** [DB R DB R LO](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DB R DB R LO</span></span>
+**Bands:** [YRBRB](/stripes/yrbrb/) · **Stripes:** [LO R DB R DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LO R DB R DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=384
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Brooks Brothers Tattersall Red
 
 ## Attestations
 
@@ -49,7 +55,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Killiechassie](/setts/s6/r2dy1r4r1r12lo1~x2/) — ΔT 1.75
 1. [Inverness Augustus](/setts/s7/m18dg1k5dg1k1dg1m9~x2/) — ΔT 2.16
 1. [Scott Htg (Error 2)](/setts/s8/r3dy16dy10r3dy3lb2dy3r3~x2/) — ΔT 2.21
-1. [Highland Spring (1988)](/setts/s6/dp3g1dp9r3dp9g1~x4/) — ΔT 2.32
+1. [Highland Spring (1988)](/setts/s6/dp3g1dp9r3~x4/) — ΔT 2.32
 1. [Waverley Care Aids Trust (Corporate)](/setts/s6/r8g2r2k1r1g2~x10/) — ΔT 2.34
 1. [MacDonald Lord of the Isles](/setts/s4/r38dg2r5dg16~x2/) — ΔT 2.34
 1. [Highland Spring Corporate Tartan Tartan Number: 130. Earliest known date: 1987 Highland Spring manufacture bottled drinking water at Blackford in Perthshire, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/dp5g2dp19r5~x2/) — ΔT 2.46
@@ -57,8 +63,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r10y3r24lb3r16k3r8~x2/"><circle cx="590.6" cy="244.2" r="4" fill="#3465a4"><title>Rannoch Red</title></circle></a><a href="/setts/s7/o5k2o28k10o26k4o4~x2/"><circle cx="602.7" cy="251.1" r="4" fill="#3465a4"><title>Dunbar, John Telfer (Personal)</title></circle></a><a href="/setts/s6/r2dy1r4r1r12lo1~x2/"><circle cx="626.0" cy="232.5" r="4" fill="#3465a4"><title>Killiechassie</title></circle></a><a href="/setts/s7/m18dg1k5dg1k1dg1m9~x2/"><circle cx="588.5" cy="221.7" r="4" fill="#3465a4"><title>Inverness Augustus</title></circle></a><a href="/setts/s8/r3dy16dy10r3dy3lb2dy3r3~x2/"><circle cx="512.1" cy="252.4" r="4" fill="#3465a4"><title>Scott Htg (Error 2)</title></circle></a><a href="/setts/s6/dp3g1dp9r3dp9g1~x4/"><circle cx="552.0" cy="265.4" r="4" fill="#3465a4"><title>Highland Spring (1988)</title></circle></a><a href="/setts/s6/r8g2r2k1r1g2~x10/"><circle cx="471.8" cy="254.1" r="4" fill="#3465a4"><title>Waverley Care Aids Trust (Corporate)</title></circle></a><a href="/setts/s4/r38dg2r5dg16~x2/"><circle cx="556.7" cy="251.1" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles</title></circle></a><a href="/setts/s4/dp5g2dp19r5~x2/"><circle cx="562.0" cy="271.8" r="4" fill="#3465a4"><title>Highland Spring Corporate Tartan Tartan Number: 130. Earliest known date: 1987 Highland Spring manufacture bottled drinking water at Blackford in Perthshire, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/dp3g1dp9r3~x4/"><circle cx="502.4" cy="275.6" r="4" fill="#3465a4"><title>Highland Spring (1988) (Corporate)</title></circle></a><circle cx="607.2" cy="274.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r10y3r24lb3r16k3r8~x2/"><circle cx="590.1" cy="243.9" r="4" fill="#3465a4"><title>Rannoch Red</title></circle></a><a href="/setts/s7/o5k2o28k10o26k4o4~x2/"><circle cx="602.2" cy="250.8" r="4" fill="#3465a4"><title>Dunbar, John Telfer (Personal)</title></circle></a><a href="/setts/s6/r2dy1r4r1r12lo1~x2/"><circle cx="626.0" cy="232.3" r="4" fill="#3465a4"><title>Killiechassie</title></circle></a><a href="/setts/s7/m18dg1k5dg1k1dg1m9~x2/"><circle cx="588.1" cy="221.5" r="4" fill="#3465a4"><title>Inverness Augustus</title></circle></a><a href="/setts/s8/r3dy16dy10r3dy3lb2dy3r3~x2/"><circle cx="511.7" cy="252.2" r="4" fill="#3465a4"><title>Scott Htg (Error 2)</title></circle></a><a href="/setts/s6/dp3g1dp9r3~x4/"><circle cx="551.8" cy="265.0" r="4" fill="#3465a4"><title>Highland Spring (1988)</title></circle></a><a href="/setts/s6/r8g2r2k1r1g2~x10/"><circle cx="471.5" cy="253.9" r="4" fill="#3465a4"><title>Waverley Care Aids Trust (Corporate)</title></circle></a><a href="/setts/s4/r38dg2r5dg16~x2/"><circle cx="556.3" cy="250.8" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles</title></circle></a><a href="/setts/s4/dp5g2dp19r5~x2/"><circle cx="561.7" cy="271.6" r="4" fill="#3465a4"><title>Highland Spring Corporate Tartan Tartan Number: 130. Earliest known date: 1987 Highland Spring manufacture bottled drinking water at Blackford in Perthshire, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/dp3g1dp9r3~x4/"><circle cx="502.2" cy="275.3" r="4" fill="#3465a4"><title>Highland Spring (1988) (Corporate)</title></circle></a><circle cx="606.7" cy="273.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/db1r9db2r9lo1~x4/

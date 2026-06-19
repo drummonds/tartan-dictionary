@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/6 G38 Ba6 R6 Ba6 R6 Ba6 G16 DR18 R28 B4 LT/10
+LT/10 B4 R28 DR18 G16 Ba6 R6 Ba6 R6 Ba6 G38 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -905,7 +908,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Wilson's No.121](/setts/s12/t4dp3y1g9lb1r8k1r8lb1g9y1dp3~x4/) — ΔT 0.87
+1. [Wilson's No.121](/setts/s12/t4dp3y1g9lb1r8k1~x4/) — ΔT 0.87
 1. [Wilson's No.132](/setts/s14/r18w2g21y2dp7y5w2y5dp7y2g21w2r18k3~x2/) — ΔT 1.16
 1. [Hyndman (Personal)](/setts/s14/g12b5r2k1r2b5g12ly3r12g2w1g2r12r3~x4/) — ΔT 1.20
 1. [Saint Joseph de Sorel](/setts/s13/r12g2o5g2y9ly2t8w1t3w1t3w1t8~x2/) — ΔT 1.21
@@ -913,13 +916,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Bruce of Kinnaird (Vivienne Westwood Design)](/setts/s10/dy22y22dr2lb6dr2lo2dr16g5dy8lb2~x2/) — ΔT 1.22
 1. [Blaylock Hunting (Name)](/setts/s12/dg4o2dg8do8y2o8y16k2do5o2y5lo2~x2/) — ΔT 1.22
 1. [Meath, County](/setts/s12/lo5db2r14do9dg8db3r3db3r3db3dg18ly3~x2/) — ΔT 1.24
-1. [Leitrim, County](/setts/s10/lb3do18lb4k3lb4o13lb3n18do2lo3~x2/) — ΔT 1.24
+1. [Leitrim, County](/setts/s10/lo3do2n18lb3o13lb4k3lb4do18lb3~x2/) — ΔT 1.24
 1. [Unidentified #31](/setts/s14/r12w1k1dg12ly2db5t6r2t2r4dg2r2k2dg2~x2/) — ΔT 1.26
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/t4dp3y1g9lb1r8k1r8lb1g9y1dp3~x4/"><circle cx="125.1" cy="137.3" r="4" fill="#3465a4"><title>Wilson's No.121</title></circle></a><a href="/setts/s14/r18w2g21y2dp7y5w2y5dp7y2g21w2r18k3~x2/"><circle cx="123.0" cy="112.9" r="4" fill="#3465a4"><title>Wilson's No.132</title></circle></a><a href="/setts/s14/g12b5r2k1r2b5g12ly3r12g2w1g2r12r3~x4/"><circle cx="158.1" cy="125.9" r="4" fill="#3465a4"><title>Hyndman (Personal)</title></circle></a><a href="/setts/s13/r12g2o5g2y9ly2t8w1t3w1t3w1t8~x2/"><circle cx="150.6" cy="134.6" r="4" fill="#3465a4"><title>Saint Joseph de Sorel</title></circle></a><a href="/setts/s9/t4dy27lo8k4lo8k4lo8r11ly3~x2/"><circle cx="152.6" cy="169.6" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><a href="/setts/s10/dy22y22dr2lb6dr2lo2dr16g5dy8lb2~x2/"><circle cx="170.4" cy="159.8" r="4" fill="#3465a4"><title>Bruce of Kinnaird (Vivienne Westwood Design)</title></circle></a><a href="/setts/s12/dg4o2dg8do8y2o8y16k2do5o2y5lo2~x2/"><circle cx="141.9" cy="178.1" r="4" fill="#3465a4"><title>Blaylock Hunting (Name)</title></circle></a><a href="/setts/s12/lo5db2r14do9dg8db3r3db3r3db3dg18ly3~x2/"><circle cx="150.7" cy="170.4" r="4" fill="#3465a4"><title>Meath, County</title></circle></a><a href="/setts/s10/lb3do18lb4k3lb4o13lb3n18do2lo3~x2/"><circle cx="114.6" cy="156.8" r="4" fill="#3465a4"><title>Leitrim, County</title></circle></a><a href="/setts/s14/r12w1k1dg12ly2db5t6r2t2r4dg2r2k2dg2~x2/"><circle cx="122.1" cy="103.2" r="4" fill="#3465a4"><title>Unidentified #31</title></circle></a><circle cx="131.0" cy="141.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/t4dp3y1g9lb1r8k1~x4/"><circle cx="125.1" cy="137.5" r="4" fill="#3465a4"><title>Wilson's No.121</title></circle></a><a href="/setts/s14/r18w2g21y2dp7y5w2y5dp7y2g21w2r18k3~x2/"><circle cx="122.9" cy="113.0" r="4" fill="#3465a4"><title>Wilson's No.132</title></circle></a><a href="/setts/s14/g12b5r2k1r2b5g12ly3r12g2w1g2r12r3~x4/"><circle cx="158.0" cy="126.1" r="4" fill="#3465a4"><title>Hyndman (Personal)</title></circle></a><a href="/setts/s13/r12g2o5g2y9ly2t8w1t3w1t3w1t8~x2/"><circle cx="150.4" cy="134.8" r="4" fill="#3465a4"><title>Saint Joseph de Sorel</title></circle></a><a href="/setts/s9/t4dy27lo8k4lo8k4lo8r11ly3~x2/"><circle cx="152.5" cy="169.8" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><a href="/setts/s10/dy22y22dr2lb6dr2lo2dr16g5dy8lb2~x2/"><circle cx="170.3" cy="160.0" r="4" fill="#3465a4"><title>Bruce of Kinnaird (Vivienne Westwood Design)</title></circle></a><a href="/setts/s12/dg4o2dg8do8y2o8y16k2do5o2y5lo2~x2/"><circle cx="141.9" cy="178.3" r="4" fill="#3465a4"><title>Blaylock Hunting (Name)</title></circle></a><a href="/setts/s12/lo5db2r14do9dg8db3r3db3r3db3dg18ly3~x2/"><circle cx="150.7" cy="170.6" r="4" fill="#3465a4"><title>Meath, County</title></circle></a><a href="/setts/s10/lo3do2n18lb3o13lb4k3lb4do18lb3~x2/"><circle cx="114.6" cy="157.0" r="4" fill="#3465a4"><title>Leitrim, County</title></circle></a><a href="/setts/s14/r12w1k1dg12ly2db5t6r2t2r4dg2r2k2dg2~x2/"><circle cx="122.0" cy="103.4" r="4" fill="#3465a4"><title>Unidentified #31</title></circle></a><circle cx="130.9" cy="141.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/o5db2r14dr9g8t3r3t3r3t3g19w3~x2/

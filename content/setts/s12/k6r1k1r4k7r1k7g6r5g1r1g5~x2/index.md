@@ -2,12 +2,18 @@
 title: "MacDonald 6"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGKRKRKRK](/stripes/grgrgkrkrkrk/) · **Stripes:** [G R G R G K R K R K R K](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">G R G R G K R K R K R K</span></span>
+**Bands:** [KRKRKRKGRGRG](/stripes/krkrkrkgrgrg/) · **Stripes:** [K R K R K R K G R G R G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K R K R K R K G R G R G</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacDonald #8
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/10 R2 G2 R10 G12 K14 R2 K14 R8 K2 R2 K/12
+K/12 R2 K2 R8 K14 R2 K14 G12 R10 G2 R2 G/10
 ![Sett](sett.png)
 
 ## Palette
@@ -904,7 +913,7 @@ The nearest existing variants by ΔTartan distance.
 1. [MacDiarmid](/setts/s10/r3k6r3k6g6k1w1k1g6r1~x2/) — ΔT 1.23
 1. [MacDonald #8](/setts/s12/k6r1k1r4k7r1k7dg6r5dg1r1dg5~x2/) — ΔT 1.29
 1. [J & B Whisky (Original)](/setts/s18/k14r3k7y26w6y26k16r3k16r3k16y26w6y26k7r3k14r4/) — ΔT 1.39
-1. [Wcwm 1713](/setts/s11/ly3o26k12o3k16o4k16o3k12o26r3~x2/) — ΔT 1.39
+1. [Wcwm 1713](/setts/s11/r3o26k12o3k16o4k16o3k12o26ly3~x2/) — ΔT 1.39
 1. [Sackett (Name)](/setts/s10/k8dg8k1dg8lr1k8o8k1o8k8~x4/) — ΔT 1.44
 1. [Tyndrum](/setts/s10/y6k1y1k1y2k4o6k1y2k2~x4/) — ΔT 1.45
 1. [Carnegie Check](/setts/s17/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2~x2/) — ΔT 1.59
@@ -914,8 +923,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r3k6r3k6g6k1w1k1g6r1~x2/"><circle cx="148.6" cy="212.5" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/setts/s12/k6r1k1r4k7r1k7dg6r5dg1r1dg5~x2/"><circle cx="231.9" cy="227.8" r="4" fill="#3465a4"><title>MacDonald #8</title></circle></a><a href="/setts/s18/k14r3k7y26w6y26k16r3k16r3k16y26w6y26k7r3k14r4/"><circle cx="194.9" cy="173.2" r="4" fill="#3465a4"><title>J &amp; B Whisky (Original)</title></circle></a><a href="/setts/s11/ly3o26k12o3k16o4k16o3k12o26r3~x2/"><circle cx="252.1" cy="191.3" r="4" fill="#3465a4"><title>Wcwm 1713</title></circle></a><a href="/setts/s10/k8dg8k1dg8lr1k8o8k1o8k8~x4/"><circle cx="172.4" cy="227.5" r="4" fill="#3465a4"><title>Sackett (Name)</title></circle></a><a href="/setts/s10/y6k1y1k1y2k4o6k1y2k2~x4/"><circle cx="187.5" cy="220.5" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/setts/s17/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2~x2/"><circle cx="159.0" cy="195.6" r="4" fill="#3465a4"><title>Carnegie Check</title></circle></a><a href="/setts/s10/r3k6r3k6dg6k1w1k1dg6r1~x2/"><circle cx="180.3" cy="223.9" r="4" fill="#3465a4"><title>MacDiarmid #3</title></circle></a><a href="/setts/s13/k28r4k4r4k4r27dg26r4dg26r27k28r4k4/"><circle cx="188.1" cy="199.9" r="4" fill="#3465a4"><title>42nd Regiment (Musicians) (Mil.)</title></circle></a><a href="/setts/s11/k3lo1k5lo1lb5lo5k5lo1lb5lo1k1~x4/"><circle cx="150.3" cy="217.6" r="4" fill="#3465a4"><title>Dundee United Football Club</title></circle></a><circle cx="200.1" cy="217.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r3k6r3k6g6k1w1k1g6r1~x2/"><circle cx="148.7" cy="212.4" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/setts/s12/k6r1k1r4k7r1k7dg6r5dg1r1dg5~x2/"><circle cx="231.9" cy="227.7" r="4" fill="#3465a4"><title>MacDonald #8</title></circle></a><a href="/setts/s18/k14r3k7y26w6y26k16r3k16r3k16y26w6y26k7r3k14r4/"><circle cx="195.0" cy="173.1" r="4" fill="#3465a4"><title>J &amp; B Whisky (Original)</title></circle></a><a href="/setts/s11/r3o26k12o3k16o4k16o3k12o26ly3~x2/"><circle cx="252.1" cy="191.1" r="4" fill="#3465a4"><title>Wcwm 1713</title></circle></a><a href="/setts/s10/k8dg8k1dg8lr1k8o8k1o8k8~x4/"><circle cx="172.6" cy="227.4" r="4" fill="#3465a4"><title>Sackett (Name)</title></circle></a><a href="/setts/s10/y6k1y1k1y2k4o6k1y2k2~x4/"><circle cx="187.5" cy="220.3" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/setts/s17/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2~x2/"><circle cx="159.0" cy="195.4" r="4" fill="#3465a4"><title>Carnegie Check</title></circle></a><a href="/setts/s10/r3k6r3k6dg6k1w1k1dg6r1~x2/"><circle cx="180.4" cy="223.9" r="4" fill="#3465a4"><title>MacDiarmid #3</title></circle></a><a href="/setts/s13/k28r4k4r4k4r27dg26r4dg26r27k28r4k4/"><circle cx="188.1" cy="199.8" r="4" fill="#3465a4"><title>42nd Regiment (Musicians) (Mil.)</title></circle></a><a href="/setts/s11/k3lo1k5lo1lb5lo5k5lo1lb5lo1k1~x4/"><circle cx="150.3" cy="217.4" r="4" fill="#3465a4"><title>Dundee United Football Club</title></circle></a><circle cx="200.1" cy="217.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/k6r1k1r4k7r1k7g6r5g1r1g5~x2/

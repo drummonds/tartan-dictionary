@@ -18,10 +18,10 @@ BYBRKBWBKRKYB
 
 
 
-### P LY B R K B W B K R K LY P <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">P LY B R K B W B K R K LY P</span></span>
+### P LY K R K B W B K R B LY P <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">P LY K R K B W B K R B LY P</span></span>
 
 | Tartans |
 |---------------|
-| [European Congress of Immunology 2012](/setts/s13/p13ly2b18r22k28b6w2b6k28r22k18ly2p13/)|
-|![European Congress of Immunology 2012 example sett](/setts/s13/p13ly2b18r22k28b6w2b6k28r22k18ly2p13/sett.png)|
+| [European Congress of Immunology 2012](/setts/s13/p13ly2k18r22k28b6w2b6k28r22b18ly2p13/)|
+|![European Congress of Immunology 2012 example sett](/setts/s13/p13ly2k18r22k28b6w2b6k28r22b18ly2p13/sett.png)|
 

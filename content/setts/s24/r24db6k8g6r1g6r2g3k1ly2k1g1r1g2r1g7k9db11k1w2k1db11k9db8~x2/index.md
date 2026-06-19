@@ -2,12 +2,18 @@
 title: "MacDonald of Prince Edward Island"
 date: 2023-03-18
 ---
-**Bands:** [BKBKWKBKGRGRGKYKGRGRGKBR](/stripes/bkbkwkbkgrgrgkykgrgrgkbr/) · **Stripes:** [DB K DB K W K DB K G R G R G K LY K G R G R G K DB R](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K DB K W K DB K G R G R G K LY K G R G R G K DB R</span></span>
+**Bands:** [RBKGRGRGKYKGRGRGKBKWKBKB](/stripes/rbkgrgrgkykgrgrgkbkwkbkb/) · **Stripes:** [R DB K G R G R G K LY K G R G R G K DB K W K DB K DB](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB K G R G R G K LY K G R G R G K DB K W K DB K DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [24 band tartan](/bands/bands24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2366
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacDonald, of Pr Edward Island
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -899,7 +908,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-DB/16 K18 DB22 K2 W4 K2 DB22 K18 G14 R2 G4 R2 G2 K2 Y4 K2 G6 R4 G12 R2 G12 K16 DB12 R/48
+R/48 DB12 K16 G12 R2 G12 R4 G6 K2 Y4 K2 G2 R2 G4 R2 G14 K18 DB22 K2 W4 K2 DB22 K18 DB/16
 ![Sett](sett.png)
 
 ## Palette
@@ -920,19 +929,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Caledonian Society of Prince Edward Island](/setts/s17/db14k4db4k15g20k2y4r2k1w4r14db4r2db2r4db2r2~x2/) — ΔT 0.87
 1. [Caledonian Society of P.E.I. (Corp)](/setts/s17/r14db4r2db2r4db2r2db14k4db4k15g20k2y4r2k1w4~x2/) — ΔT 0.87
-1. [Norwich No.001](/setts/s22/r8y7k8lo2k1lb3k1dg19k1r8y3r8y3r8k1dg19k1lb3k1lo2k8y7~x2/) — ΔT 1.02
+1. [Norwich No.001](/setts/s22/r8y7k8lo2k1lb3k1dg19k1r8y3r8~x2/) — ΔT 1.02
 1. [Anderson (MacGregor-Hastie #1)](/setts/s22/dg8r16k2r4k2dg16r4k12r4k12ly4k4ly4k6w8k8t51k2r4k2t16r8/) — ΔT 1.06
-1. [Stewart/Stuart Blue](/setts/s22/db33r8k12ly2k4w4k4g12db8k4db4w2db4k4db8g12k4w4k4ly2k12r8~x2/) — ΔT 1.13
+1. [Stewart/Stuart Blue](/setts/s22/db33r8k12ly2k4w4k4g12db8k4db4w2~x2/) — ΔT 1.13
 1. [New Hampshire District Tartan Tartan Number: 1102. Earliest known date: 1994 New Hampshire State Representative Steven Avery, arranged for Governor Stephen Merrill to proclaim the Tartan as the State Tartan of New Hampshire in June 1994. In January 1995, Avery introduced the bill to the NH Legislature for permanent recognition, which was passed in May, 1995. The purple represents the finch and the lilac, green the forests, black the granite mountains, white for the snow, and red for the States heroes. New Hampshire Revised Statutes Annotated (RSA) 3:21. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s21/g20k1g1k6w1k6dp1k1dp4r3dp14r3dp4k1dp1k6w1k6g1k1g8~x2/) — ΔT 1.15
 1. [Anderson (MacGregor-Hastie #3)](/setts/s24/r6dg10r2k2r4k2r2dg10r4k9r2k9ly2k3ly2k4w6k6t27r2k2r2t10r6~x2/) — ΔT 1.20
 1. [Anderson (Paton)](/setts/s22/dy6t12k2r3k2t40k6w6k6ly3k3ly3k12r3db12r3dy14k2r3k2dy14r5/) — ΔT 1.24
 1. [Anderson](/setts/s20/r4dg6r2dg6r3db4r1k4ly1k1ly1k3lr3k3b18r1k2r1b6r3~x2/) — ΔT 1.25
-1. [Anderson](/setts/s20/r4dg6r2dg6r3db4r1k4ly1k1ly1k3lr3k3b18r1k2r1b6r3/) — ΔT 1.25
+1. [Bethune Name Tartan Tartan Number: 2428. Earliest known date: pre 1997 Designed by Phil Smith - same as Macbeth but with the addition of a light blue stripe in the middle of the darker blue ground. Count said to be from William MacIntosh & Co. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s24/db18ly4k5ly1k1w1k2g8r6k1r3w1r3k1r6g8k2w1k1ly1k5ly4db18t2~x4/) — ΔT 1.29
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/db14k4db4k15g20k2y4r2k1w4r14db4r2db2r4db2r2~x2/"><circle cx="104.8" cy="91.4" r="4" fill="#3465a4"><title>Caledonian Society of Prince Edward Island</title></circle></a><a href="/setts/s17/r14db4r2db2r4db2r2db14k4db4k15g20k2y4r2k1w4~x2/"><circle cx="104.8" cy="91.4" r="4" fill="#3465a4"><title>Caledonian Society of P.E.I. (Corp)</title></circle></a><a href="/setts/s22/r8y7k8lo2k1lb3k1dg19k1r8y3r8y3r8k1dg19k1lb3k1lo2k8y7~x2/"><circle cx="118.1" cy="84.9" r="4" fill="#3465a4"><title>Norwich No.001</title></circle></a><a href="/setts/s22/dg8r16k2r4k2dg16r4k12r4k12ly4k4ly4k6w8k8t51k2r4k2t16r8/"><circle cx="142.4" cy="54.4" r="4" fill="#3465a4"><title>Anderson (MacGregor-Hastie #1)</title></circle></a><a href="/setts/s22/db33r8k12ly2k4w4k4g12db8k4db4w2db4k4db8g12k4w4k4ly2k12r8~x2/"><circle cx="131.0" cy="97.8" r="4" fill="#3465a4"><title>Stewart/Stuart Blue</title></circle></a><a href="/setts/s21/g20k1g1k6w1k6dp1k1dp4r3dp14r3dp4k1dp1k6w1k6g1k1g8~x2/"><circle cx="187.2" cy="99.2" r="4" fill="#3465a4"><title>New Hampshire District Tartan Tartan Number: 1102. Earliest known date: 1994 New Hampshire State Representative Steven Avery, arranged for Governor Stephen Merrill to proclaim the Tartan as the State Tartan of New Hampshire in June 1994. In January 1995, Avery introduced the bill to the NH Legislature for permanent recognition, which was passed in May, 1995. The purple represents the finch and the lilac, green the forests, black the granite mountains, white for the snow, and red for the States heroes. New Hampshire Revised Statutes Annotated (RSA) 3:21. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s24/r6dg10r2k2r4k2r2dg10r4k9r2k9ly2k3ly2k4w6k6t27r2k2r2t10r6~x2/"><circle cx="81.1" cy="85.1" r="4" fill="#3465a4"><title>Anderson (MacGregor-Hastie #3)</title></circle></a><a href="/setts/s22/dy6t12k2r3k2t40k6w6k6ly3k3ly3k12r3db12r3dy14k2r3k2dy14r5/"><circle cx="108.1" cy="56.4" r="4" fill="#3465a4"><title>Anderson (Paton)</title></circle></a><a href="/setts/s20/r4dg6r2dg6r3db4r1k4ly1k1ly1k3lr3k3b18r1k2r1b6r3~x2/"><circle cx="96.3" cy="69.5" r="4" fill="#3465a4"><title>Anderson</title></circle></a><a href="/setts/s20/r4dg6r2dg6r3db4r1k4ly1k1ly1k3lr3k3b18r1k2r1b6r3/"><circle cx="96.3" cy="69.5" r="4" fill="#3465a4"><title>Anderson</title></circle></a><circle cx="132.4" cy="72.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/db14k4db4k15g20k2y4r2k1w4r14db4r2db2r4db2r2~x2/"><circle cx="104.8" cy="91.6" r="4" fill="#3465a4"><title>Caledonian Society of Prince Edward Island</title></circle></a><a href="/setts/s17/r14db4r2db2r4db2r2db14k4db4k15g20k2y4r2k1w4~x2/"><circle cx="104.8" cy="91.6" r="4" fill="#3465a4"><title>Caledonian Society of P.E.I. (Corp)</title></circle></a><a href="/setts/s22/r8y7k8lo2k1lb3k1dg19k1r8y3r8~x2/"><circle cx="118.0" cy="85.1" r="4" fill="#3465a4"><title>Norwich No.001</title></circle></a><a href="/setts/s22/dg8r16k2r4k2dg16r4k12r4k12ly4k4ly4k6w8k8t51k2r4k2t16r8/"><circle cx="142.3" cy="54.5" r="4" fill="#3465a4"><title>Anderson (MacGregor-Hastie #1)</title></circle></a><a href="/setts/s22/db33r8k12ly2k4w4k4g12db8k4db4w2~x2/"><circle cx="131.0" cy="98.0" r="4" fill="#3465a4"><title>Stewart/Stuart Blue</title></circle></a><a href="/setts/s21/g20k1g1k6w1k6dp1k1dp4r3dp14r3dp4k1dp1k6w1k6g1k1g8~x2/"><circle cx="187.2" cy="99.3" r="4" fill="#3465a4"><title>New Hampshire District Tartan Tartan Number: 1102. Earliest known date: 1994 New Hampshire State Representative Steven Avery, arranged for Governor Stephen Merrill to proclaim the Tartan as the State Tartan of New Hampshire in June 1994. In January 1995, Avery introduced the bill to the NH Legislature for permanent recognition, which was passed in May, 1995. The purple represents the finch and the lilac, green the forests, black the granite mountains, white for the snow, and red for the States heroes. New Hampshire Revised Statutes Annotated (RSA) 3:21. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s24/r6dg10r2k2r4k2r2dg10r4k9r2k9ly2k3ly2k4w6k6t27r2k2r2t10r6~x2/"><circle cx="81.0" cy="85.3" r="4" fill="#3465a4"><title>Anderson (MacGregor-Hastie #3)</title></circle></a><a href="/setts/s22/dy6t12k2r3k2t40k6w6k6ly3k3ly3k12r3db12r3dy14k2r3k2dy14r5/"><circle cx="108.0" cy="56.7" r="4" fill="#3465a4"><title>Anderson (Paton)</title></circle></a><a href="/setts/s20/r4dg6r2dg6r3db4r1k4ly1k1ly1k3lr3k3b18r1k2r1b6r3~x2/"><circle cx="96.3" cy="69.7" r="4" fill="#3465a4"><title>Anderson</title></circle></a><a href="/setts/s24/db18ly4k5ly1k1w1k2g8r6k1r3w1r3k1r6g8k2w1k1ly1k5ly4db18t2~x4/"><circle cx="103.1" cy="51.8" r="4" fill="#3465a4"><title>Bethune Name Tartan Tartan Number: 2428. Earliest known date: pre 1997 Designed by Phil Smith - same as Macbeth but with the addition of a light blue stripe in the middle of the darker blue ground. Count said to be from William MacIntosh &amp; Co. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="132.4" cy="72.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s24/r24db6k8g6r1g6r2g3k1ly2k1g1r1g2r1g7k9db11k1w2k1db11k9db8~x2/

@@ -2,7 +2,7 @@
 title: "MacDonell of Glengarry"
 date: 2023-03-18
 ---
-**Bands:** [BRBRKGRGRGY](/stripes/brbrkgrgrgy/) · **Stripes:** [DB R DB R K DG R DG R DG LR](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">DB R DB R K DG R DG R DG LR</span></span>
+**Bands:** [YGRGRGKRBRB](/stripes/ygrgrgkrbrb/) · **Stripes:** [LR DG R DG R DG K R DB R DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LR DG R DG R DG K R DB R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -78,21 +78,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [MacDonald of Clanranald](/setts/s13/db8r1db2r3db12r1k12lr1dg12r3dg2r1dg8~x2/) — ΔT 0.43
+1. [MacDonald of Clanranald](/setts/s13/dg8r1dg2r3dg12lr1k12r1db12r3db2r1db8~x2/) — ΔT 0.43
+1. [MacDonald of Clanranald](/setts/s13/dg8r1dg2r3dg12lr1k12r1db12r3db2r1db8/) — ΔT 0.43
 1. [MacDonell of Glengarry D](/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lr1~x2/) — ΔT 0.51
 1. [MacDonell of Glengarry D](/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lr1/) — ΔT 0.51
 1. [MacDonell of Glengarry](/setts/s11/db8r4db12r1k12dg12r3dg2r1dg4lb1~x2/) — ΔT 0.52
 1. [Cameron of Erracht](/setts/s11/dg8r1dg1r3dg16k16r1db16r3db8ly2~x2/) — ΔT 0.57
-1. [MacDonald of Clanranald](/setts/s13/db8r1db2r3db12r1k12lb1dg12r3dg2r1dg8~x2/) — ΔT 0.64
+1. [MacDonald of Clanranald](/setts/s13/dg8r1dg2r3dg12lb1k12r1db12r3db2r1db8~x2/) — ΔT 0.64
 1. [MacDonell of Glengarry D](/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lb1/) — ΔT 0.71
-1. [MacEwan](/setts/s13/ly4k1dg12k12db12k1db4k1db12k12dg12k1r4~x2/) — ΔT 0.72
+1. [MacEwan](/setts/s13/r4k1dg12k12db12k1db4k1db12k12dg12k1ly4~x2/) — ΔT 0.72
 1. [Cameron of Erracht](/setts/s11/dg8r1dg1r3dg16k16r1db16r3db8ly2/) — ΔT 0.78
-1. [Clanranald, MacDonald of](/setts/s13/db16r2db2r7db31r2k32lb3dg31r7dg2r2dg16~x2/) — ΔT 0.83
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db8r1db2r3db12r1k12lr1dg12r3dg2r1dg8~x2/"><circle cx="161.4" cy="166.5" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lr1~x2/"><circle cx="168.3" cy="162.1" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lr1/"><circle cx="168.3" cy="162.1" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><a href="/setts/s11/db8r4db12r1k12dg12r3dg2r1dg4lb1~x2/"><circle cx="139.2" cy="167.9" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s11/dg8r1dg1r3dg16k16r1db16r3db8ly2~x2/"><circle cx="172.9" cy="161.3" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12lb1dg12r3dg2r1dg8~x2/"><circle cx="146.2" cy="158.2" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lb1/"><circle cx="153.3" cy="153.8" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><a href="/setts/s13/ly4k1dg12k12db12k1db4k1db12k12dg12k1r4~x2/"><circle cx="141.1" cy="180.2" r="4" fill="#3465a4"><title>MacEwan</title></circle></a><a href="/setts/s11/dg8r1dg1r3dg16k16r1db16r3db8ly2/"><circle cx="159.5" cy="153.8" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><a href="/setts/s13/db16r2db2r7db31r2k32lb3dg31r7dg2r2dg16~x2/"><circle cx="168.0" cy="143.2" r="4" fill="#3465a4"><title>Clanranald, MacDonald of</title></circle></a><circle cx="154.1" cy="176.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dg8r1dg2r3dg12lr1k12r1db12r3db2r1db8~x2/"><circle cx="161.6" cy="166.6" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/setts/s13/dg8r1dg2r3dg12lr1k12r1db12r3db2r1db8/"><circle cx="161.6" cy="166.6" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lr1~x2/"><circle cx="168.5" cy="162.2" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lr1/"><circle cx="168.5" cy="162.2" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><a href="/setts/s11/db8r4db12r1k12dg12r3dg2r1dg4lb1~x2/"><circle cx="139.4" cy="168.0" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s11/dg8r1dg1r3dg16k16r1db16r3db8ly2~x2/"><circle cx="173.1" cy="161.5" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><a href="/setts/s13/dg8r1dg2r3dg12lb1k12r1db12r3db2r1db8~x2/"><circle cx="146.3" cy="158.3" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lb1/"><circle cx="153.4" cy="153.9" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><a href="/setts/s13/r4k1dg12k12db12k1db4k1db12k12dg12k1ly4~x2/"><circle cx="141.4" cy="180.3" r="4" fill="#3465a4"><title>MacEwan</title></circle></a><a href="/setts/s11/dg8r1dg1r3dg16k16r1db16r3db8ly2/"><circle cx="159.7" cy="153.9" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><circle cx="154.3" cy="176.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db8r4db12r1k12dg12r3dg2r1dg4lr1~x2/

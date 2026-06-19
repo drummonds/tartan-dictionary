@@ -20,7 +20,7 @@ WBBWBYBY
 
 
 
-### W DB DB W DB LR DB LO <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">W DB DB W DB LR DB LO</span></span>
+### LO DB LR DB W DB DB W <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO DB LR DB W DB DB W</span></span>
 
 | Tartans |
 |---------------|

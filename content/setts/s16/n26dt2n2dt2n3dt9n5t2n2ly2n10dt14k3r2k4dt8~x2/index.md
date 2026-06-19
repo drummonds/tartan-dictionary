@@ -2,7 +2,7 @@
 title: "Frogaletto (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BBBBBBBBBYBBKRKB](/stripes/bbbbbbbbbybbkrkb/) · **Stripes:** [N DT N DT N DT N T N LY N DT K R K DT](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">N DT N DT N DT N T N LY N DT K R K DT</span></span>
+**Bands:** [BKRKBBYBBBBBBBBB](/stripes/bkrkbbybbbbbbbbb/) · **Stripes:** [DT K R K DT N LY N T N DT N DT N DT N](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="seq">DT K R K DT N LY N T N DT N DT N DT N</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7293
 
 ## Thread count
-DB/16 K8 R4 K6 DB28 N20 LG4 N4 B4 N10 DB18 N6 DB4 N4 DB4 N/52
+N/52 DB4 N4 DB4 N6 DB18 N10 B4 N4 LG4 N20 DB28 K6 R4 K8 DB/16
 ![Sett](sett.png)
 
 ## Palette
@@ -47,17 +47,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Glaz (Fashion)](/setts/s18/n2dt9db1dt4db2dt2db4n1db15g1db3g3db2g4db1g7ly1r2~x2/) — ΔT 1.15
 1. [Leith](/setts/s13/b5k2b17db3b3db22b3dg22b3db3b27k2r4~x2/) — ΔT 1.35
 1. [Peter of Lee (Chief) (Personal)](/setts/s14/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3ly3~x2/) — ΔT 1.36
-1. [Glaz](/setts/s18/lr2dt9t1dt4t2dt2t4lr1t15y1t3y3t2y4t1y7ly1r2~x2/) — ΔT 1.38
-1. [Fermanagh, County (District)](/setts/s17/dg3dt2dg2dt2lo2dt2lo2dt13db4dg3db3dg3db3dg3db4dt20dy3~x2/) — ΔT 1.49
+1. [Glaz](/setts/s18/r2ly1y7t1y4t2y3t3y1t15lr1t4dt2t2dt4t1dt9lr2~x2/) — ΔT 1.38
+1. [Fermanagh, County (District)](/setts/s17/dy3dt20db4dg3db3dg3db3dg3db4dt13lo2dt2lo2dt2dg2dt2dg3~x2/) — ΔT 1.49
 1. [Kansai St Andrews Society (Corp)](/setts/s10/n33w2r3w2db14r3g15n20r2n3~x2/) — ΔT 1.49
 1. [Matchpoint Hunting](/setts/s15/db6ly2g24db4g8db6g6db8g3db10n14db4r3db34lb4/) — ΔT 1.51
 1. [Amarillo](/setts/s11/dt18k2g2dt9k4g9r4dt9g2k2lo1~x4/) — ΔT 1.53
-1. [Los Angeles Police Bagpipe Band](/setts/s12/ly2g6db6dt4db4dt28db4dt4db6g15dt6r2~x2/) — ΔT 1.54
+1. [Los Angeles Police Bagpipe Band](/setts/s12/r2dt6g15db6dt4db4dt28db4dt4db6g6ly2~x2/) — ΔT 1.54
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/b6lo2dy24b4dy8b6dy6b8dy3b10n14b4r3b34w4/"><circle cx="303.8" cy="145.1" r="4" fill="#3465a4"><title>Matchpoint Hunting</title></circle></a><a href="/setts/s18/n2dt9db1dt4db2dt2db4n1db15g1db3g3db2g4db1g7ly1r2~x2/"><circle cx="251.8" cy="152.2" r="4" fill="#3465a4"><title>Glaz (Fashion)</title></circle></a><a href="/setts/s13/b5k2b17db3b3db22b3dg22b3db3b27k2r4~x2/"><circle cx="294.8" cy="176.4" r="4" fill="#3465a4"><title>Leith</title></circle></a><a href="/setts/s14/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3ly3~x2/"><circle cx="331.1" cy="172.9" r="4" fill="#3465a4"><title>Peter of Lee (Chief) (Personal)</title></circle></a><a href="/setts/s18/lr2dt9t1dt4t2dt2t4lr1t15y1t3y3t2y4t1y7ly1r2~x2/"><circle cx="261.5" cy="151.8" r="4" fill="#3465a4"><title>Glaz</title></circle></a><a href="/setts/s17/dg3dt2dg2dt2lo2dt2lo2dt13db4dg3db3dg3db3dg3db4dt20dy3~x2/"><circle cx="323.2" cy="191.1" r="4" fill="#3465a4"><title>Fermanagh, County (District)</title></circle></a><a href="/setts/s10/n33w2r3w2db14r3g15n20r2n3~x2/"><circle cx="332.3" cy="155.6" r="4" fill="#3465a4"><title>Kansai St Andrews Society (Corp)</title></circle></a><a href="/setts/s15/db6ly2g24db4g8db6g6db8g3db10n14db4r3db34lb4/"><circle cx="282.8" cy="138.8" r="4" fill="#3465a4"><title>Matchpoint Hunting</title></circle></a><a href="/setts/s11/dt18k2g2dt9k4g9r4dt9g2k2lo1~x4/"><circle cx="327.4" cy="172.0" r="4" fill="#3465a4"><title>Amarillo</title></circle></a><a href="/setts/s12/ly2g6db6dt4db4dt28db4dt4db6g15dt6r2~x2/"><circle cx="289.4" cy="181.4" r="4" fill="#3465a4"><title>Los Angeles Police Bagpipe Band</title></circle></a><circle cx="308.1" cy="158.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/b6lo2dy24b4dy8b6dy6b8dy3b10n14b4r3b34w4/"><circle cx="303.6" cy="145.2" r="4" fill="#3465a4"><title>Matchpoint Hunting</title></circle></a><a href="/setts/s18/n2dt9db1dt4db2dt2db4n1db15g1db3g3db2g4db1g7ly1r2~x2/"><circle cx="251.8" cy="152.5" r="4" fill="#3465a4"><title>Glaz (Fashion)</title></circle></a><a href="/setts/s13/b5k2b17db3b3db22b3dg22b3db3b27k2r4~x2/"><circle cx="294.8" cy="176.5" r="4" fill="#3465a4"><title>Leith</title></circle></a><a href="/setts/s14/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3ly3~x2/"><circle cx="331.0" cy="173.0" r="4" fill="#3465a4"><title>Peter of Lee (Chief) (Personal)</title></circle></a><a href="/setts/s18/r2ly1y7t1y4t2y3t3y1t15lr1t4dt2t2dt4t1dt9lr2~x2/"><circle cx="261.3" cy="152.0" r="4" fill="#3465a4"><title>Glaz</title></circle></a><a href="/setts/s17/dy3dt20db4dg3db3dg3db3dg3db4dt13lo2dt2lo2dt2dg2dt2dg3~x2/"><circle cx="323.2" cy="191.3" r="4" fill="#3465a4"><title>Fermanagh, County (District)</title></circle></a><a href="/setts/s10/n33w2r3w2db14r3g15n20r2n3~x2/"><circle cx="332.1" cy="155.7" r="4" fill="#3465a4"><title>Kansai St Andrews Society (Corp)</title></circle></a><a href="/setts/s15/db6ly2g24db4g8db6g6db8g3db10n14db4r3db34lb4/"><circle cx="282.8" cy="138.9" r="4" fill="#3465a4"><title>Matchpoint Hunting</title></circle></a><a href="/setts/s11/dt18k2g2dt9k4g9r4dt9g2k2lo1~x4/"><circle cx="327.4" cy="172.1" r="4" fill="#3465a4"><title>Amarillo</title></circle></a><a href="/setts/s12/r2dt6g15db6dt4db4dt28db4dt4db6g6ly2~x2/"><circle cx="289.5" cy="181.5" r="4" fill="#3465a4"><title>Los Angeles Police Bagpipe Band</title></circle></a><circle cx="308.0" cy="158.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/n26dt2n2dt2n3dt9n5t2n2ly2n10dt14k3r2k4dt8~x2/

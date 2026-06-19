@@ -2,7 +2,7 @@
 title: "Unnamed, No 29"
 date: 2023-03-18
 ---
-**Bands:** [BGBBBG](/stripes/bgbbbg/) · **Stripes:** [DB G T DB B G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB G T DB B G</span></span>
+**Bands:** [GBBBGB](/stripes/gbbbgb/) · **Stripes:** [G B DB T G DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G B DB T G DB</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-Ba/6 G22 Bb4 Ba22 B12 G/6
+G/6 B12 Ba22 Bb4 G22 Ba/6
 ![Sett](sett.png)
 
 ## Palette
@@ -900,27 +903,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "Ba/6 G22 Bb4 Ba22 B12 G/6 tartan")
+![Tartan detail](tartan.png "G/6 B12 Ba22 Bb4 G22 Ba/6 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Unidentified No 29](/setts/s6/db3dg11t2db11b6dg3~x2/) — ΔT 0.95
-1. [Flower of Scotland Commemorative Tartan Tartan Number: 2059. Earliest known date: September 1990 Designed as a tribute to Roy Williamson, writer of the words and music of 'The Flower of Scotland'. Roy wore the Gunn tartan which has been used as the framework of the new tartan. Cornflower blue and Zephyr green have been used to suggest the bluebell and the thistle. Worn by the Seafield and District pipe band, Strathallan Games, 1994 (UK Reg. Design No.600421) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b1g7b1k4b7o1~x4/) — ΔT 1.02
-1. [Flower of Scotland MINI Tartan Tartan Number: 20599. Earliest known date: Dupion Silk. Generated only for display purposes. reduced copy of the original 2059 Flower of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/b1g7b1k4b7o1~x2/) — ΔT 1.02
+1. [Unidentified No 29](/setts/s6/dg3b6db11t2dg11db3~x2/) — ΔT 0.95
+1. [Flower of Scotland Commemorative Tartan Tartan Number: 2059. Earliest known date: September 1990 Designed as a tribute to Roy Williamson, writer of the words and music of 'The Flower of Scotland'. Roy wore the Gunn tartan which has been used as the framework of the new tartan. Cornflower blue and Zephyr green have been used to suggest the bluebell and the thistle. Worn by the Seafield and District pipe band, Strathallan Games, 1994 (UK Reg. Design No.600421) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/o1b7k4b1g7b1~x4/) — ΔT 1.02
+1. [Flower of Scotland MINI Tartan Tartan Number: 20599. Earliest known date: Dupion Silk. Generated only for display purposes. reduced copy of the original 2059 Flower of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/o1b7k4b1g7b1~x2/) — ΔT 1.02
 1. [Scott Green (Sir Walter)](/setts/s6/g3t1db7t1g3k1~x8/) — ΔT 1.18
 1. [Breon (Personal)](/setts/s5/b25g25k6dt10r6~x2/) — ΔT 1.28
-1. [Flower of Scotland](/setts/s6/b3g25b3k16b25r3~x2/) — ΔT 1.32
+1. [Flower of Scotland](/setts/s6/r3b25k16b3g25b3~x2/) — ΔT 1.32
 1. [Scottish Airports](/setts/s6/n4g18n3k17n18p4~x2/) — ΔT 1.33
-1. [Tennant](/setts/s7/r1db7g7db7g7dr7r1~x4/) — ΔT 1.38
+1. [Tennant](/setts/s7/r1dr7g7db7g7db7r1~x4/) — ΔT 1.39
 1. [Scotsman](/setts/s7/g21k14g9db21k3db12dp3~x2/) — ΔT 1.39
 1. [Norwich No.040](/setts/s4/t6db6g6r1~x2/) — ΔT 1.40
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db3dg11t2db11b6dg3~x2/"><circle cx="212.5" cy="284.7" r="4" fill="#3465a4"><title>Unidentified No 29</title></circle></a><a href="/setts/s6/b1g7b1k4b7o1~x4/"><circle cx="238.6" cy="252.6" r="4" fill="#3465a4"><title>Flower of Scotland Commemorative Tartan Tartan Number: 2059. Earliest known date: September 1990 Designed as a tribute to Roy Williamson, writer of the words and music of 'The Flower of Scotland'. Roy wore the Gunn tartan which has been used as the framework of the new tartan. Cornflower blue and Zephyr green have been used to suggest the bluebell and the thistle. Worn by the Seafield and District pipe band, Strathallan Games, 1994 (UK Reg. Design No.600421) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/b1g7b1k4b7o1~x2/"><circle cx="238.6" cy="252.6" r="4" fill="#3465a4"><title>Flower of Scotland MINI Tartan Tartan Number: 20599. Earliest known date: Dupion Silk. Generated only for display purposes. reduced copy of the original 2059 Flower of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/g3t1db7t1g3k1~x8/"><circle cx="249.6" cy="252.0" r="4" fill="#3465a4"><title>Scott Green (Sir Walter)</title></circle></a><a href="/setts/s5/b25g25k6dt10r6~x2/"><circle cx="137.0" cy="275.4" r="4" fill="#3465a4"><title>Breon (Personal)</title></circle></a><a href="/setts/s6/b3g25b3k16b25r3~x2/"><circle cx="210.4" cy="230.2" r="4" fill="#3465a4"><title>Flower of Scotland</title></circle></a><a href="/setts/s6/n4g18n3k17n18p4~x2/"><circle cx="211.2" cy="274.9" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/setts/s7/r1db7g7db7g7dr7r1~x4/"><circle cx="179.9" cy="265.0" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/setts/s7/g21k14g9db21k3db12dp3~x2/"><circle cx="210.5" cy="268.7" r="4" fill="#3465a4"><title>Scotsman</title></circle></a><a href="/setts/s4/t6db6g6r1~x2/"><circle cx="154.2" cy="303.1" r="4" fill="#3465a4"><title>Norwich No.040</title></circle></a><circle cx="198.4" cy="273.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dg3b6db11t2dg11db3~x2/"><circle cx="212.7" cy="284.7" r="4" fill="#3465a4"><title>Unidentified No 29</title></circle></a><a href="/setts/s6/o1b7k4b1g7b1~x4/"><circle cx="238.7" cy="252.6" r="4" fill="#3465a4"><title>Flower of Scotland Commemorative Tartan Tartan Number: 2059. Earliest known date: September 1990 Designed as a tribute to Roy Williamson, writer of the words and music of 'The Flower of Scotland'. Roy wore the Gunn tartan which has been used as the framework of the new tartan. Cornflower blue and Zephyr green have been used to suggest the bluebell and the thistle. Worn by the Seafield and District pipe band, Strathallan Games, 1994 (UK Reg. Design No.600421) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/o1b7k4b1g7b1~x2/"><circle cx="238.7" cy="252.6" r="4" fill="#3465a4"><title>Flower of Scotland MINI Tartan Tartan Number: 20599. Earliest known date: Dupion Silk. Generated only for display purposes. reduced copy of the original 2059 Flower of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/g3t1db7t1g3k1~x8/"><circle cx="249.7" cy="252.0" r="4" fill="#3465a4"><title>Scott Green (Sir Walter)</title></circle></a><a href="/setts/s5/b25g25k6dt10r6~x2/"><circle cx="137.2" cy="275.4" r="4" fill="#3465a4"><title>Breon (Personal)</title></circle></a><a href="/setts/s6/r3b25k16b3g25b3~x2/"><circle cx="210.4" cy="230.2" r="4" fill="#3465a4"><title>Flower of Scotland</title></circle></a><a href="/setts/s6/n4g18n3k17n18p4~x2/"><circle cx="211.4" cy="275.0" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/setts/s7/r1dr7g7db7g7db7r1~x4/"><circle cx="180.1" cy="265.0" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/setts/s7/g21k14g9db21k3db12dp3~x2/"><circle cx="210.7" cy="268.8" r="4" fill="#3465a4"><title>Scotsman</title></circle></a><a href="/setts/s4/t6db6g6r1~x2/"><circle cx="154.4" cy="303.1" r="4" fill="#3465a4"><title>Norwich No.040</title></circle></a><circle cx="198.5" cy="273.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db3g11t2db11b6g3~x2/

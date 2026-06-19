@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DB/5 G2 N26 DB2 N26 DB4 P4 DB36 P4 DB4 LN8 DB/8
+DB/8 LN8 DB4 P4 DB36 P4 DB4 N26 DB2 N26 G2 DB/5
 ![Sett](sett.png)
 
 ## Palette
@@ -909,15 +912,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Wcwm 1138](/setts/s14/db14k2g3k2g3k2db12r4db10r3db10r4lb28r4~x2/) — ΔT 1.00
 1. [US Air Force Reserve Pipe Band Military Tartan Tartan Number: 2437. Earliest known date: 01/01/1988 One of a series of US Military tartans woven exclusively by the Strathmore Woollen Company of Forfar and adopted by the Band of the Air Force Reserve, Georgia, USA in the early 1990s. Although this has no official US Military recognition, it has been widely accepted by US servicemen and their families with Air Force connections as a representative design. Originally called 'Lady Jane of St Cirus', the design was shown to members of the pipe band who liked it sufficiently to adopt it (with Strathmore's agreement). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/db44k3k20r3db8lg34db3db2lg15~x2/) — ΔT 1.01
 1. [Musselburgh](/setts/s9/t14lb1t3lo2t3lb1t4db24r3~x4/) — ΔT 1.11
-1. [Liddell (New York) (Name)](/setts/s11/ly2k3ly2k22t8r1t3r1t22k1w2~x2/) — ΔT 1.13
+1. [Liddell (New York) (Name)](/setts/s11/w2k1t22r1t3r1t8k22ly2k3ly2~x2/) — ΔT 1.13
 1. [Swedish](/setts/s13/ly7k1db22k2db1k2db4k2db1k2db4k18w5~x2/) — ΔT 1.13
 1. [Law of Heather Athol (Personal)](/setts/s12/db6r2db2r4db24g11r4g2r2g3k1ly2~x2/) — ΔT 1.15
-1. [Covington, Christopher (Personal)](/setts/s12/k33w3b2db7k2w3k5b21k15b1lg18b1~x2/) — ΔT 1.18
+1. [Covington, Christopher (Personal)](/setts/s12/k33w3b2db7k2w3k5b21k15b1lg18b1~x2/) — ΔT 1.19
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db8w8db4dp4db36dp4db4o26db2o26g2db5/"><circle cx="256.0" cy="128.7" r="4" fill="#3465a4"><title>Historic Scotland (1998) (Corporate)</title></circle></a><a href="/setts/s10/ly6db3k3db36k10lr18db6k2g4k3~x2/"><circle cx="248.5" cy="130.4" r="4" fill="#3465a4"><title>Dinwiddie Hunting (Name)</title></circle></a><a href="/setts/s9/db44lo3k20r3db8lg34db3db2lg15~x2/"><circle cx="231.1" cy="138.5" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band</title></circle></a><a href="/setts/s14/db14k2g3k2g3k2db12r4db10r3db10r4lb28r4~x2/"><circle cx="192.2" cy="122.7" r="4" fill="#3465a4"><title>Wcwm 1138</title></circle></a><a href="/setts/s9/db44k3k20r3db8lg34db3db2lg15~x2/"><circle cx="230.6" cy="139.1" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band Military Tartan Tartan Number: 2437. Earliest known date: 01/01/1988 One of a series of US Military tartans woven exclusively by the Strathmore Woollen Company of Forfar and adopted by the Band of the Air Force Reserve, Georgia, USA in the early 1990s. Although this has no official US Military recognition, it has been widely accepted by US servicemen and their families with Air Force connections as a representative design. Originally called 'Lady Jane of St Cirus', the design was shown to members of the pipe band who liked it sufficiently to adopt it (with Strathmore's agreement). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/t14lb1t3lo2t3lb1t4db24r3~x4/"><circle cx="274.0" cy="122.7" r="4" fill="#3465a4"><title>Musselburgh</title></circle></a><a href="/setts/s11/ly2k3ly2k22t8r1t3r1t22k1w2~x2/"><circle cx="270.7" cy="105.6" r="4" fill="#3465a4"><title>Liddell (New York) (Name)</title></circle></a><a href="/setts/s13/ly7k1db22k2db1k2db4k2db1k2db4k18w5~x2/"><circle cx="257.1" cy="121.5" r="4" fill="#3465a4"><title>Swedish</title></circle></a><a href="/setts/s12/db6r2db2r4db24g11r4g2r2g3k1ly2~x2/"><circle cx="284.4" cy="111.1" r="4" fill="#3465a4"><title>Law of Heather Athol (Personal)</title></circle></a><a href="/setts/s12/k33w3b2db7k2w3k5b21k15b1lg18b1~x2/"><circle cx="253.0" cy="103.4" r="4" fill="#3465a4"><title>Covington, Christopher (Personal)</title></circle></a><circle cx="239.5" cy="125.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db8w8db4dp4db36dp4db4o26db2o26g2db5/"><circle cx="255.8" cy="128.7" r="4" fill="#3465a4"><title>Historic Scotland (1998) (Corporate)</title></circle></a><a href="/setts/s10/ly6db3k3db36k10lr18db6k2g4k3~x2/"><circle cx="248.5" cy="130.3" r="4" fill="#3465a4"><title>Dinwiddie Hunting (Name)</title></circle></a><a href="/setts/s9/db44lo3k20r3db8lg34db3db2lg15~x2/"><circle cx="231.2" cy="138.4" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band</title></circle></a><a href="/setts/s14/db14k2g3k2g3k2db12r4db10r3db10r4lb28r4~x2/"><circle cx="192.1" cy="122.7" r="4" fill="#3465a4"><title>Wcwm 1138</title></circle></a><a href="/setts/s9/db44k3k20r3db8lg34db3db2lg15~x2/"><circle cx="230.7" cy="139.1" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band Military Tartan Tartan Number: 2437. Earliest known date: 01/01/1988 One of a series of US Military tartans woven exclusively by the Strathmore Woollen Company of Forfar and adopted by the Band of the Air Force Reserve, Georgia, USA in the early 1990s. Although this has no official US Military recognition, it has been widely accepted by US servicemen and their families with Air Force connections as a representative design. Originally called 'Lady Jane of St Cirus', the design was shown to members of the pipe band who liked it sufficiently to adopt it (with Strathmore's agreement). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/t14lb1t3lo2t3lb1t4db24r3~x4/"><circle cx="273.9" cy="122.6" r="4" fill="#3465a4"><title>Musselburgh</title></circle></a><a href="/setts/s11/w2k1t22r1t3r1t8k22ly2k3ly2~x2/"><circle cx="270.6" cy="105.5" r="4" fill="#3465a4"><title>Liddell (New York) (Name)</title></circle></a><a href="/setts/s13/ly7k1db22k2db1k2db4k2db1k2db4k18w5~x2/"><circle cx="257.1" cy="121.4" r="4" fill="#3465a4"><title>Swedish</title></circle></a><a href="/setts/s12/db6r2db2r4db24g11r4g2r2g3k1ly2~x2/"><circle cx="284.3" cy="111.1" r="4" fill="#3465a4"><title>Law of Heather Athol (Personal)</title></circle></a><a href="/setts/s12/k33w3b2db7k2w3k5b21k15b1lg18b1~x2/"><circle cx="253.0" cy="103.4" r="4" fill="#3465a4"><title>Covington, Christopher (Personal)</title></circle></a><circle cx="239.5" cy="125.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/db8w8db4p4db36p4db4y26db2y26g2db5/

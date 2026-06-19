@@ -20,7 +20,7 @@ YBYGY
 
 
 
-### LO DB LO G LO <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LO DB LO G LO</span></span>
+### LO G LO DB LO <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LO G LO DB LO</span></span>
 
 | Tartans |
 |---------------|

@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [17 band tartan](/bands/bands17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- King Edward VII Royal
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-R/12 G10 Y6 G20 R6 G12 R6 G124 B42 K20 B20 K20 B20 K20 B42 G168 Y/16
+Y/16 G168 B42 K20 B20 K20 B20 K20 B42 G124 R6 G12 R6 G20 Y6 G10 R/12
 ![Sett](sett.png)
 
 ## Palette
@@ -923,8 +932,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/k2g2ly1g3r1g2r1g12db4k3db3k3db3k3db4g24r2~x2/"><circle cx="292.4" cy="80.2" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/setts/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/"><circle cx="289.5" cy="75.6" r="4" fill="#3465a4"><title>Reilly fae the Mearns (Personal)</title></circle></a><a href="/setts/s17/ly8g84b21k10b10k10b10k10b21g62r3g6r3g10ly3g5r6/"><circle cx="353.8" cy="105.9" r="4" fill="#3465a4"><title>King Edward VII (Royal)</title></circle></a><a href="/setts/s17/g36k1g1k1g1k1db12k1w1k1db12k1ly1k1g12k2r2~x2/"><circle cx="331.2" cy="49.7" r="4" fill="#3465a4"><title>Cockburn</title></circle></a><a href="/setts/s19/g36dg5ly5dg9k5w5dg2g7dg1ly2dg1g7dg2w5k5dg9ly5dg5g17~x2/"><circle cx="268.4" cy="88.8" r="4" fill="#3465a4"><title>Irish National District Tartan Tartan Number: 2245. Earliest known date: 1992 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar in association with John and Joan (Jo) Nisbet of Piper's Cove in New Jersey USA. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/k3w1g29y8r2y2r2y2r8g7k2~x2/"><circle cx="312.9" cy="105.2" r="4" fill="#3465a4"><title>Gray, hunting</title></circle></a><a href="/setts/s17/k20r3db10g3db5g25k1g1w3g1k1g25db5g3db10r1db2~x2/"><circle cx="243.4" cy="96.5" r="4" fill="#3465a4"><title>Blairlogie, or Blair Athol</title></circle></a><a href="/setts/s13/g24k1g2y2dg2w1dg12w1dg2w2dg2w1dg12~x2/"><circle cx="285.9" cy="110.2" r="4" fill="#3465a4"><title>Currie, of Balilone</title></circle></a><a href="/setts/s14/g42k2g12w2r3k2r3w2k2dp12k4r3w4k3~x2/"><circle cx="299.8" cy="89.7" r="4" fill="#3465a4"><title>MacFarlane Hunting (MacGregor Hastie)</title></circle></a><a href="/setts/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/"><circle cx="263.4" cy="99.4" r="4" fill="#3465a4"><title>Moss</title></circle></a><circle cx="321.7" cy="89.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/k2g2ly1g3r1g2r1g12db4k3db3k3db3k3db4g24r2~x2/"><circle cx="292.2" cy="80.2" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/setts/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/"><circle cx="289.3" cy="75.6" r="4" fill="#3465a4"><title>Reilly fae the Mearns (Personal)</title></circle></a><a href="/setts/s17/ly8g84b21k10b10k10b10k10b21g62r3g6r3g10ly3g5r6/"><circle cx="353.5" cy="105.9" r="4" fill="#3465a4"><title>King Edward VII (Royal)</title></circle></a><a href="/setts/s17/g36k1g1k1g1k1db12k1w1k1db12k1ly1k1g12k2r2~x2/"><circle cx="330.9" cy="49.7" r="4" fill="#3465a4"><title>Cockburn</title></circle></a><a href="/setts/s19/g36dg5ly5dg9k5w5dg2g7dg1ly2dg1g7dg2w5k5dg9ly5dg5g17~x2/"><circle cx="268.2" cy="88.8" r="4" fill="#3465a4"><title>Irish National District Tartan Tartan Number: 2245. Earliest known date: 1992 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar in association with John and Joan (Jo) Nisbet of Piper's Cove in New Jersey USA. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/k3w1g29y8r2y2r2y2r8g7k2~x2/"><circle cx="312.6" cy="105.1" r="4" fill="#3465a4"><title>Gray, hunting</title></circle></a><a href="/setts/s17/k20r3db10g3db5g25k1g1w3g1k1g25db5g3db10r1db2~x2/"><circle cx="243.3" cy="96.4" r="4" fill="#3465a4"><title>Blairlogie, or Blair Athol</title></circle></a><a href="/setts/s13/g24k1g2y2dg2w1dg12w1dg2w2dg2w1dg12~x2/"><circle cx="285.7" cy="110.2" r="4" fill="#3465a4"><title>Currie, of Balilone</title></circle></a><a href="/setts/s14/g42k2g12w2r3k2r3w2k2dp12k4r3w4k3~x2/"><circle cx="299.5" cy="89.7" r="4" fill="#3465a4"><title>MacFarlane Hunting (MacGregor Hastie)</title></circle></a><a href="/setts/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/"><circle cx="263.1" cy="99.3" r="4" fill="#3465a4"><title>Moss</title></circle></a><circle cx="321.4" cy="89.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s17/ly8g84db21k10db10k10db10k10db21g62r3g6r3g10ly3g5r6~x2/

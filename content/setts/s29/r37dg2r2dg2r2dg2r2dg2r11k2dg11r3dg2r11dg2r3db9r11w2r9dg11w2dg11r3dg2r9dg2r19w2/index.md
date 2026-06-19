@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [29 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2371
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacDonald of Staffa #4
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -17,7 +23,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1530
 
 ## Thread count
-LN/2 R19 G2 R9 G2 R3 G11 LN2 G11 R9 LN2 R11 DB9 R3 G2 R11 G2 R3 G11 K2 R11 G2 R2 G2 R2 G2 R2 G2 R/37
+R/37 G2 R2 G2 R2 G2 R2 G2 R11 K2 G11 R3 G2 R11 G2 R3 DB9 R11 LN2 R9 G11 LN2 G11 R3 G2 R9 G2 R19 LN/2
 ![Sett](sett.png)
 
 ## Palette
@@ -37,19 +43,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacDonald of Staffa 3](/setts/s29/r37g2r2g2r2g2r2g2r11k2g11r3g2r11g2r3db9r11w2r9g11w2g11r3g2r9g2r19w2/) — ΔT 0.59
 1. [MacDonald of Staffa (Smith's)](/setts/s31/r16g1r1g1r1g1r1g1r6g1db1g6k1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/) — ΔT 0.62
-1. [MacDonald of Staffa #3](/setts/s31/r16dg1r1dg1r1dg1r1dg1r6dg1db1dg6db1r1dg1r4dg1r1db4r4w1r4dg4w1dg4r1dg1r6dg1r8w1~x2/) — ΔT 0.96
+1. [MacDonald of Staffa #3](/setts/s31/r16dg1r1dg1r1dg1r1dg1r6dg1db1dg6db1r1dg1r4dg1r1db4r4w1r4dg4w1dg4r1dg1r6dg1r8w1~x2/) — ΔT 0.95
 1. [MacDonald of Staffa](/setts/s28/r15db1r1db1r1db1r1db1r3dg3r1db1r4db1r1k2r3ly1r3dg2lb1dg2r1db1r3db1r6ly1~x2/) — ΔT 1.14
 1. [MacDonald of Staffa 1](/setts/s31/r16g1r1g1r1g1r1g1r6g1db1g6db1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/) — ΔT 1.24
 1. [MacAlister (Gourlay Steele Collection)](/setts/s30/r12dg3ly1r2ly1dg3r3db3r6t1r1dg8r1t1r12t1r1dg8r1t1r6dg2r1t1r2t1r1dg3ly1r4~x4/) — ΔT 1.25
 1. [MacAlister Modern (Lochcarron)](/setts/s25/r18t1r1g8r1t1r6w1r1db4r1w1r2g3g1r2g1g3r3w1r1db2r1w1r8~x2/) — ΔT 1.28
 1. [MacDonald of Staffa](/setts/s28/r15db1r1db1r1db1r1db1r3dg4r1db1r3db1r1k2r3ly1r3dg2lr1dg2r1db1r3db1r6ly1~x2/) — ΔT 1.35
 1. [Donald of Staffa's Sett](/setts/s40/r30y5r27dg5r5dg5r5dg5r5dg5r25dg5r5k2dg28k2r5dg5r28dg5r5y28r26w5r26dg24w2dg24r7dg5r28dg5r7dg5k5r7y5r7y5r24~x2/) — ΔT 1.37
-1. [Hart (Texas) (Personal)](/setts/s20/ly4k3w2db7r7k4r5db4r30w2db3w2r30db4r5k4r7db7w2k3~x2/) — ΔT 1.37
+1. [Hart (Texas) (Personal)](/setts/s20/ly4k3w2db7r7k4r5db4r30w2db3~x2/) — ΔT 1.37
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s29/r37g2r2g2r2g2r2g2r11k2g11r3g2r11g2r3db9r11w2r9g11w2g11r3g2r9g2r19w2/"><circle cx="367.2" cy="75.9" r="4" fill="#3465a4"><title>MacDonald of Staffa 3</title></circle></a><a href="/setts/s31/r16g1r1g1r1g1r1g1r6g1db1g6k1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/"><circle cx="350.6" cy="79.3" r="4" fill="#3465a4"><title>MacDonald of Staffa (Smith's)</title></circle></a><a href="/setts/s31/r16dg1r1dg1r1dg1r1dg1r6dg1db1dg6db1r1dg1r4dg1r1db4r4w1r4dg4w1dg4r1dg1r6dg1r8w1~x2/"><circle cx="368.2" cy="91.7" r="4" fill="#3465a4"><title>MacDonald of Staffa #3</title></circle></a><a href="/setts/s28/r15db1r1db1r1db1r1db1r3dg3r1db1r4db1r1k2r3ly1r3dg2lb1dg2r1db1r3db1r6ly1~x2/"><circle cx="352.6" cy="57.1" r="4" fill="#3465a4"><title>MacDonald of Staffa</title></circle></a><a href="/setts/s31/r16g1r1g1r1g1r1g1r6g1db1g6db1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/"><circle cx="373.0" cy="98.3" r="4" fill="#3465a4"><title>MacDonald of Staffa 1</title></circle></a><a href="/setts/s30/r12dg3ly1r2ly1dg3r3db3r6t1r1dg8r1t1r12t1r1dg8r1t1r6dg2r1t1r2t1r1dg3ly1r4~x4/"><circle cx="299.8" cy="96.7" r="4" fill="#3465a4"><title>MacAlister (Gourlay Steele Collection)</title></circle></a><a href="/setts/s25/r18t1r1g8r1t1r6w1r1db4r1w1r2g3g1r2g1g3r3w1r1db2r1w1r8~x2/"><circle cx="328.5" cy="58.0" r="4" fill="#3465a4"><title>MacAlister Modern (Lochcarron)</title></circle></a><a href="/setts/s28/r15db1r1db1r1db1r1db1r3dg4r1db1r3db1r1k2r3ly1r3dg2lr1dg2r1db1r3db1r6ly1~x2/"><circle cx="356.9" cy="70.8" r="4" fill="#3465a4"><title>MacDonald of Staffa</title></circle></a><a href="/setts/s40/r30y5r27dg5r5dg5r5dg5r5dg5r25dg5r5k2dg28k2r5dg5r28dg5r5y28r26w5r26dg24w2dg24r7dg5r28dg5r7dg5k5r7y5r7y5r24~x2/"><circle cx="306.2" cy="91.1" r="4" fill="#3465a4"><title>Donald of Staffa's Sett</title></circle></a><a href="/setts/s20/ly4k3w2db7r7k4r5db4r30w2db3w2r30db4r5k4r7db7w2k3~x2/"><circle cx="327.5" cy="83.7" r="4" fill="#3465a4"><title>Hart (Texas) (Personal)</title></circle></a><circle cx="368.2" cy="71.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s29/r37g2r2g2r2g2r2g2r11k2g11r3g2r11g2r3db9r11w2r9g11w2g11r3g2r9g2r19w2/"><circle cx="366.7" cy="75.8" r="4" fill="#3465a4"><title>MacDonald of Staffa 3</title></circle></a><a href="/setts/s31/r16g1r1g1r1g1r1g1r6g1db1g6k1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/"><circle cx="350.0" cy="79.3" r="4" fill="#3465a4"><title>MacDonald of Staffa (Smith's)</title></circle></a><a href="/setts/s31/r16dg1r1dg1r1dg1r1dg1r6dg1db1dg6db1r1dg1r4dg1r1db4r4w1r4dg4w1dg4r1dg1r6dg1r8w1~x2/"><circle cx="367.7" cy="91.6" r="4" fill="#3465a4"><title>MacDonald of Staffa #3</title></circle></a><a href="/setts/s28/r15db1r1db1r1db1r1db1r3dg3r1db1r4db1r1k2r3ly1r3dg2lb1dg2r1db1r3db1r6ly1~x2/"><circle cx="352.0" cy="57.0" r="4" fill="#3465a4"><title>MacDonald of Staffa</title></circle></a><a href="/setts/s31/r16g1r1g1r1g1r1g1r6g1db1g6db1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/"><circle cx="372.4" cy="98.3" r="4" fill="#3465a4"><title>MacDonald of Staffa 1</title></circle></a><a href="/setts/s30/r12dg3ly1r2ly1dg3r3db3r6t1r1dg8r1t1r12t1r1dg8r1t1r6dg2r1t1r2t1r1dg3ly1r4~x4/"><circle cx="299.3" cy="96.7" r="4" fill="#3465a4"><title>MacAlister (Gourlay Steele Collection)</title></circle></a><a href="/setts/s25/r18t1r1g8r1t1r6w1r1db4r1w1r2g3g1r2g1g3r3w1r1db2r1w1r8~x2/"><circle cx="327.9" cy="58.1" r="4" fill="#3465a4"><title>MacAlister Modern (Lochcarron)</title></circle></a><a href="/setts/s28/r15db1r1db1r1db1r1db1r3dg4r1db1r3db1r1k2r3ly1r3dg2lr1dg2r1db1r3db1r6ly1~x2/"><circle cx="356.4" cy="70.8" r="4" fill="#3465a4"><title>MacDonald of Staffa</title></circle></a><a href="/setts/s40/r30y5r27dg5r5dg5r5dg5r5dg5r25dg5r5k2dg28k2r5dg5r28dg5r5y28r26w5r26dg24w2dg24r7dg5r28dg5r7dg5k5r7y5r7y5r24~x2/"><circle cx="305.7" cy="91.2" r="4" fill="#3465a4"><title>Donald of Staffa's Sett</title></circle></a><a href="/setts/s20/ly4k3w2db7r7k4r5db4r30w2db3~x2/"><circle cx="327.1" cy="83.6" r="4" fill="#3465a4"><title>Hart (Texas) (Personal)</title></circle></a><circle cx="367.6" cy="71.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s29/r37dg2r2dg2r2dg2r2dg2r11k2dg11r3dg2r11dg2r3db9r11w2r9dg11w2dg11r3dg2r9dg2r19w2/

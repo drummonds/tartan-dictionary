@@ -9,6 +9,14 @@ This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4422
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Prince Charles Edward
+- Prince Charles Plaid
+- Prince Charles, Albany, Plaid
+
 ## Attestations
 
 This cloth appears in 4 source records; the oldest owns this page.
@@ -320,6 +328,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +429,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +689,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -894,7 +905,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/4 R4 G14 R14 K2 R6 K2 R14 DB18 R4 K10 R6 Y/6
+Y/6 R6 K10 R4 DB18 R14 K2 R6 K2 R14 G14 R4 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -919,14 +930,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Caledonia](/setts/s14/r21t9k2t2k2t9k18ly3g21r13k3r13w2r13~x2/) — ΔT 1.08
 1. [MacKinnon #3](/setts/s14/dp3r4dg3db3r7dg17r3db5dg4r21dg7dp3r6w3~x2/) — ΔT 1.12
 1. [Highland Spring (1985)](/setts/s12/r16k2r9g12lo2g10b3k2b3k2b3r10~x2/) — ΔT 1.13
-1. [Sturrock (Blue/Black)](/setts/s12/r16lo3r16g22k16b16r52b16k16g22r16lo3~x2/) — ΔT 1.16
+1. [Sturrock (Blue/Black)](/setts/s12/r52b16k16g22r16lo3r16~x2/) — ΔT 1.16
 1. [MacKinnon #5](/setts/s14/k4r3dg2db2r6dg15r2db4dg2r15dg7k2r4w2~x2/) — ΔT 1.17
 1. [MacPherson #8](/setts/s15/r14dg3r14dg13ly2k14db6k2db2k2db6r9w2k2r2~x2/) — ΔT 1.22
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/ly18r18dg30r12db55r42dg6r18dg6r42dg44r12dg12/"><circle cx="172.8" cy="166.7" r="4" fill="#3465a4"><title>Unidentified Plaid #4</title></circle></a><a href="/setts/s13/ly18r18dg30r12db55r42dg6r18dg6r42g44r12dg12/"><circle cx="177.9" cy="172.2" r="4" fill="#3465a4"><title>Unidentified Plaid 16</title></circle></a><a href="/setts/s13/db2r11dg2r11dg21r2k9t2db11r11dg2r11db2~x2/"><circle cx="215.5" cy="156.7" r="4" fill="#3465a4"><title>Nicolson/MacNicol</title></circle></a><a href="/setts/s13/db2r11g2r11g21r2k9t2db11r11g2r11db2~x2/"><circle cx="201.2" cy="153.1" r="4" fill="#3465a4"><title>Nicolson</title></circle></a><a href="/setts/s14/r21t9k2t2k2t9k18ly3g21r13k3r13w2r13~x2/"><circle cx="166.0" cy="133.1" r="4" fill="#3465a4"><title>Caledonia</title></circle></a><a href="/setts/s14/dp3r4dg3db3r7dg17r3db5dg4r21dg7dp3r6w3~x2/"><circle cx="207.1" cy="158.7" r="4" fill="#3465a4"><title>MacKinnon #3</title></circle></a><a href="/setts/s12/r16k2r9g12lo2g10b3k2b3k2b3r10~x2/"><circle cx="194.5" cy="163.3" r="4" fill="#3465a4"><title>Highland Spring (1985)</title></circle></a><a href="/setts/s12/r16lo3r16g22k16b16r52b16k16g22r16lo3~x2/"><circle cx="214.0" cy="153.0" r="4" fill="#3465a4"><title>Sturrock (Blue/Black)</title></circle></a><a href="/setts/s14/k4r3dg2db2r6dg15r2db4dg2r15dg7k2r4w2~x2/"><circle cx="192.8" cy="155.8" r="4" fill="#3465a4"><title>MacKinnon #5</title></circle></a><a href="/setts/s15/r14dg3r14dg13ly2k14db6k2db2k2db6r9w2k2r2~x2/"><circle cx="133.4" cy="139.3" r="4" fill="#3465a4"><title>MacPherson #8</title></circle></a><circle cx="172.4" cy="168.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/ly18r18dg30r12db55r42dg6r18dg6r42dg44r12dg12/"><circle cx="172.7" cy="166.7" r="4" fill="#3465a4"><title>Unidentified Plaid #4</title></circle></a><a href="/setts/s13/ly18r18dg30r12db55r42dg6r18dg6r42g44r12dg12/"><circle cx="177.7" cy="172.2" r="4" fill="#3465a4"><title>Unidentified Plaid 16</title></circle></a><a href="/setts/s13/db2r11dg2r11dg21r2k9t2db11r11dg2r11db2~x2/"><circle cx="215.3" cy="156.7" r="4" fill="#3465a4"><title>Nicolson/MacNicol</title></circle></a><a href="/setts/s13/db2r11g2r11g21r2k9t2db11r11g2r11db2~x2/"><circle cx="201.0" cy="153.1" r="4" fill="#3465a4"><title>Nicolson</title></circle></a><a href="/setts/s14/r21t9k2t2k2t9k18ly3g21r13k3r13w2r13~x2/"><circle cx="165.8" cy="133.1" r="4" fill="#3465a4"><title>Caledonia</title></circle></a><a href="/setts/s14/dp3r4dg3db3r7dg17r3db5dg4r21dg7dp3r6w3~x2/"><circle cx="206.9" cy="158.7" r="4" fill="#3465a4"><title>MacKinnon #3</title></circle></a><a href="/setts/s12/r16k2r9g12lo2g10b3k2b3k2b3r10~x2/"><circle cx="194.3" cy="163.3" r="4" fill="#3465a4"><title>Highland Spring (1985)</title></circle></a><a href="/setts/s12/r52b16k16g22r16lo3r16~x2/"><circle cx="213.8" cy="153.1" r="4" fill="#3465a4"><title>Sturrock (Blue/Black)</title></circle></a><a href="/setts/s14/k4r3dg2db2r6dg15r2db4dg2r15dg7k2r4w2~x2/"><circle cx="192.6" cy="155.8" r="4" fill="#3465a4"><title>MacKinnon #5</title></circle></a><a href="/setts/s15/r14dg3r14dg13ly2k14db6k2db2k2db6r9w2k2r2~x2/"><circle cx="133.3" cy="139.4" r="4" fill="#3465a4"><title>MacPherson #8</title></circle></a><circle cx="172.3" cy="168.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/ly3r3k5r2db9r7k1r3k1r7g7r2k2~x2/

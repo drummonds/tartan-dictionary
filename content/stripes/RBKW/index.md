@@ -34,6 +34,6 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Scottish Nuclear (Corporate)](/setts/s4/lb1k4db9r1~x4/)|
-|![Scottish Nuclear (Corporate) example sett](/setts/s4/lb1k4db9r1~x4/sett.png)|
+| [Scottish Nuclear (Corporate)](/setts/s4/r1db9k4lb1~x4/)|
+|![Scottish Nuclear (Corporate) example sett](/setts/s4/r1db9k4lb1~x4/sett.png)|
 

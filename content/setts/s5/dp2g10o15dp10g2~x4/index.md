@@ -2,7 +2,7 @@
 title: "Harmony, 6"
 date: 2023-03-18
 ---
-**Bands:** [BGRBG](/stripes/bgrbg/) · **Stripes:** [DP G O DP G](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DP G O DP G</span></span>
+**Bands:** [GBRGB](/stripes/gbrgb/) · **Stripes:** [G DP O G DP](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">G DP O G DP</span></span>
 
 
 This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -918,8 +921,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/dr2y10o15dr10y2~x4/"><circle cx="257.1" cy="276.8" r="4" fill="#3465a4"><title>Harmony 8</title></circle></a><a href="/setts/s5/dy2y10o15dy10y2~x4/"><circle cx="229.2" cy="262.1" r="4" fill="#3465a4"><title>Harmony 8</title></circle></a><a href="/setts/s7/dg25r4db24r21dg25r3db4~x2/"><circle cx="281.8" cy="261.6" r="4" fill="#3465a4"><title>Glasgow #2</title></circle></a><a href="/setts/s7/db9r3db1r3g9r3db1~x2/"><circle cx="235.9" cy="233.0" r="4" fill="#3465a4"><title>Logan, or Skene</title></circle></a><a href="/setts/s7/dg2r1dg8r5y5r1y2~x4/"><circle cx="271.2" cy="257.8" r="4" fill="#3465a4"><title>Glen Esk (1993)</title></circle></a><a href="/setts/s6/t3dg1t10dg4r10t2~x4/"><circle cx="314.5" cy="247.0" r="4" fill="#3465a4"><title>Rob Roy (Film)</title></circle></a><a href="/setts/s5/r1dy8r2db8t1~x2/"><circle cx="274.0" cy="252.9" r="4" fill="#3465a4"><title>Unamed Riding cloak 1745</title></circle></a><a href="/setts/s7/dt30r5g30r22dt30r5g4/"><circle cx="270.3" cy="261.9" r="4" fill="#3465a4"><title>GS Gaelic School (School)</title></circle></a><a href="/setts/s6/r4n3n12db8n2r4/"><circle cx="197.4" cy="265.4" r="4" fill="#3465a4"><title>Bristol Gramar School Check (School)</title></circle></a><a href="/setts/s5/r1g7r3db7t1~x2/"><circle cx="201.0" cy="250.4" r="4" fill="#3465a4"><title>Hebridean 4</title></circle></a><circle cx="253.9" cy="277.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/dr2y10o15dr10y2~x4/"><circle cx="257.0" cy="276.7" r="4" fill="#3465a4"><title>Harmony 8</title></circle></a><a href="/setts/s5/dy2y10o15dy10y2~x4/"><circle cx="229.1" cy="262.0" r="4" fill="#3465a4"><title>Harmony 8</title></circle></a><a href="/setts/s7/dg25r4db24r21dg25r3db4~x2/"><circle cx="281.8" cy="261.5" r="4" fill="#3465a4"><title>Glasgow #2</title></circle></a><a href="/setts/s7/db9r3db1r3g9r3db1~x2/"><circle cx="235.8" cy="232.9" r="4" fill="#3465a4"><title>Logan, or Skene</title></circle></a><a href="/setts/s7/dg2r1dg8r5y5r1y2~x4/"><circle cx="271.1" cy="257.8" r="4" fill="#3465a4"><title>Glen Esk (1993)</title></circle></a><a href="/setts/s6/t3dg1t10dg4r10t2~x4/"><circle cx="314.4" cy="246.9" r="4" fill="#3465a4"><title>Rob Roy (Film)</title></circle></a><a href="/setts/s5/r1dy8r2db8t1~x2/"><circle cx="274.0" cy="253.0" r="4" fill="#3465a4"><title>Unamed Riding cloak 1745</title></circle></a><a href="/setts/s7/dt30r5g30r22dt30r5g4/"><circle cx="270.3" cy="261.8" r="4" fill="#3465a4"><title>GS Gaelic School (School)</title></circle></a><a href="/setts/s6/r4n3n12db8n2r4/"><circle cx="197.5" cy="265.4" r="4" fill="#3465a4"><title>Bristol Gramar School Check (School)</title></circle></a><a href="/setts/s5/r1g7r3db7t1~x2/"><circle cx="201.1" cy="250.4" r="4" fill="#3465a4"><title>Hebridean 4</title></circle></a><circle cx="253.8" cy="277.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/dp2g10o15dp10g2~x4/

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -924,8 +927,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k2r14t8k9ly1k2w2k2g10r15k4r12w2~x2/"><circle cx="198.4" cy="116.5" r="4" fill="#3465a4"><title>Harden (Name)</title></circle></a><a href="/setts/s14/k20r6k4r6dg15w2y5w2dg15r30k4r5lb2r6~x2/"><circle cx="180.0" cy="106.8" r="4" fill="#3465a4"><title>Drummond - 1739 Lord John (Artefact)</title></circle></a><a href="/setts/s14/r21lt9k2lt2k2lt9k18ly3dg21r13k3r13w2r13~x2/"><circle cx="134.8" cy="120.0" r="4" fill="#3465a4"><title>Caledonian Cameron Commando</title></circle></a><a href="/setts/s15/db6k3r4k2r27k12db10k3ly2k3g12r10w2r3k3~x2/"><circle cx="163.4" cy="100.4" r="4" fill="#3465a4"><title>Unidentified 30</title></circle></a><a href="/setts/s15/r44g25k2w6k2ly3k16t12r6t12k16ly3k2w6r44~x2/"><circle cx="196.8" cy="71.4" r="4" fill="#3465a4"><title>Wilson's, No 17</title></circle></a><a href="/setts/s13/w2k1b2lb1dg4r1dg4r3k3r12lb1r2k1~x4/"><circle cx="200.9" cy="106.0" r="4" fill="#3465a4"><title>Peacock (Personal)</title></circle></a><a href="/setts/s14/r20w6r100db15k10db15k40ly5g54r15k5r15k6w8/"><circle cx="211.4" cy="74.6" r="4" fill="#3465a4"><title>Unidentified, Bedspread</title></circle></a><a href="/setts/s13/r8db2k1db3k4ly1k1w1k1g8r6w1r6~x4/"><circle cx="147.2" cy="133.4" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/setts/s15/db6k3r4k2r27k12db10k3ly2k3dg12r10w2r3k3~x2/"><circle cx="178.8" cy="103.5" r="4" fill="#3465a4"><title>Unidentified #16</title></circle></a><a href="/setts/s15/r12b2r12dg8ly1k6b4k1b1k1b4r12lr1k1r1~x2/"><circle cx="248.5" cy="113.6" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><circle cx="197.8" cy="109.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k2r14t8k9ly1k2w2k2g10r15k4r12w2~x2/"><circle cx="198.2" cy="116.5" r="4" fill="#3465a4"><title>Harden (Name)</title></circle></a><a href="/setts/s14/k20r6k4r6dg15w2y5w2dg15r30k4r5lb2r6~x2/"><circle cx="179.9" cy="106.9" r="4" fill="#3465a4"><title>Drummond - 1739 Lord John (Artefact)</title></circle></a><a href="/setts/s14/r21lt9k2lt2k2lt9k18ly3dg21r13k3r13w2r13~x2/"><circle cx="134.7" cy="120.1" r="4" fill="#3465a4"><title>Caledonian Cameron Commando</title></circle></a><a href="/setts/s15/db6k3r4k2r27k12db10k3ly2k3g12r10w2r3k3~x2/"><circle cx="163.3" cy="100.4" r="4" fill="#3465a4"><title>Unidentified 30</title></circle></a><a href="/setts/s15/r44g25k2w6k2ly3k16t12r6t12k16ly3k2w6r44~x2/"><circle cx="196.5" cy="71.4" r="4" fill="#3465a4"><title>Wilson's, No 17</title></circle></a><a href="/setts/s13/w2k1b2lb1dg4r1dg4r3k3r12lb1r2k1~x4/"><circle cx="200.6" cy="106.1" r="4" fill="#3465a4"><title>Peacock (Personal)</title></circle></a><a href="/setts/s14/r20w6r100db15k10db15k40ly5g54r15k5r15k6w8/"><circle cx="211.2" cy="74.6" r="4" fill="#3465a4"><title>Unidentified, Bedspread</title></circle></a><a href="/setts/s13/r8db2k1db3k4ly1k1w1k1g8r6w1r6~x4/"><circle cx="147.1" cy="133.4" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/setts/s15/db6k3r4k2r27k12db10k3ly2k3dg12r10w2r3k3~x2/"><circle cx="178.7" cy="103.6" r="4" fill="#3465a4"><title>Unidentified #16</title></circle></a><a href="/setts/s15/r12b2r12dg8ly1k6b4k1b1k1b4r12lr1k1r1~x2/"><circle cx="248.3" cy="113.6" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><circle cx="197.6" cy="109.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/k1r14t8k9ly1k2w2k2g10r15k4r12w1~x2/

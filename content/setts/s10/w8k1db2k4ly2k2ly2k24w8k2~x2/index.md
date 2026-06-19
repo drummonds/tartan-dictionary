@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2878
 
 ## Thread count
-K/4 LN16 K48 Y4 K4 Y4 K8 DB4 K2 LN/16
+LN/16 K2 DB4 K8 Y4 K4 Y4 K48 LN16 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -37,18 +37,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Colbert Check (Fashion)](/setts/s8/k62w10ly10k4w18k4lo3w4/) — ΔT 0.68
 1. [Ashers of Nairn](/setts/s10/ly2k3w3k44ly4k22lb22w3k3ly2/) — ΔT 0.77
 1. [Ashers of Nairn](/setts/s10/lo4k3w3k44lo4k22lb22w3k3lo4/) — ΔT 0.89
-1. [Gordon Dress (MacGregor-Hastie)](/setts/s9/ly4k4dg12k37w4k4w16k2w4~x2/) — ΔT 0.97
+1. [Gordon Dress (MacGregor-Hastie)](/setts/s9/w4k2w16k4w4k37dg12k4ly4~x2/) — ΔT 0.97
 1. [Cardiff City Football Club (Corp)](/setts/s9/k4lo24k13lo2k4lo3k1lo3t2~x2/) — ΔT 0.97
 1. [Bruichladdich (Corporate)](/setts/s10/k3y3lo3y3k12y24k1y3k3w3~x2/) — ΔT 0.99
 1. [Richecourt, Baron of (Personal)](/setts/s7/w4k30r1k1r3w12ly3~x2/) — ΔT 0.99
 1. [MacPherson Dress](/setts/s7/lr3r1lr30k20lr3k9ly1~x2/) — ΔT 1.03
+1. [MacPherson Dress](/setts/s7/lr3r1lr30k20lr3k9ly1/) — ΔT 1.03
 1. [Grey Spencer Plaid](/setts/s11/o8k40dy2o2w2o2k9w5o2w5k2~x2/) — ΔT 1.04
-1. [Myles, Lee (Name)](/setts/s10/r2lb3r1lb9k4lb13k33lb1k4r1~x2/) — ΔT 1.08
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k62w10ly10k4w18k4lo3w4/"><circle cx="339.9" cy="123.7" r="4" fill="#3465a4"><title>Colbert Check (Fashion)</title></circle></a><a href="/setts/s10/ly2k3w3k44ly4k22lb22w3k3ly2/"><circle cx="372.7" cy="121.9" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/setts/s10/lo4k3w3k44lo4k22lb22w3k3lo4/"><circle cx="336.1" cy="137.7" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/setts/s9/ly4k4dg12k37w4k4w16k2w4~x2/"><circle cx="276.4" cy="136.2" r="4" fill="#3465a4"><title>Gordon Dress (MacGregor-Hastie)</title></circle></a><a href="/setts/s9/k4lo24k13lo2k4lo3k1lo3t2~x2/"><circle cx="335.8" cy="130.7" r="4" fill="#3465a4"><title>Cardiff City Football Club (Corp)</title></circle></a><a href="/setts/s10/k3y3lo3y3k12y24k1y3k3w3~x2/"><circle cx="320.4" cy="124.1" r="4" fill="#3465a4"><title>Bruichladdich (Corporate)</title></circle></a><a href="/setts/s7/w4k30r1k1r3w12ly3~x2/"><circle cx="330.1" cy="112.8" r="4" fill="#3465a4"><title>Richecourt, Baron of (Personal)</title></circle></a><a href="/setts/s7/lr3r1lr30k20lr3k9ly1~x2/"><circle cx="329.5" cy="131.8" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s11/o8k40dy2o2w2o2k9w5o2w5k2~x2/"><circle cx="372.2" cy="113.5" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><a href="/setts/s10/r2lb3r1lb9k4lb13k33lb1k4r1~x2/"><circle cx="374.1" cy="116.3" r="4" fill="#3465a4"><title>Myles, Lee (Name)</title></circle></a><circle cx="331.8" cy="115.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k62w10ly10k4w18k4lo3w4/"><circle cx="339.6" cy="123.5" r="4" fill="#3465a4"><title>Colbert Check (Fashion)</title></circle></a><a href="/setts/s10/ly2k3w3k44ly4k22lb22w3k3ly2/"><circle cx="372.4" cy="121.6" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/setts/s10/lo4k3w3k44lo4k22lb22w3k3lo4/"><circle cx="335.9" cy="137.5" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/setts/s9/w4k2w16k4w4k37dg12k4ly4~x2/"><circle cx="276.2" cy="136.0" r="4" fill="#3465a4"><title>Gordon Dress (MacGregor-Hastie)</title></circle></a><a href="/setts/s9/k4lo24k13lo2k4lo3k1lo3t2~x2/"><circle cx="335.5" cy="130.5" r="4" fill="#3465a4"><title>Cardiff City Football Club (Corp)</title></circle></a><a href="/setts/s10/k3y3lo3y3k12y24k1y3k3w3~x2/"><circle cx="320.2" cy="123.9" r="4" fill="#3465a4"><title>Bruichladdich (Corporate)</title></circle></a><a href="/setts/s7/w4k30r1k1r3w12ly3~x2/"><circle cx="329.8" cy="112.6" r="4" fill="#3465a4"><title>Richecourt, Baron of (Personal)</title></circle></a><a href="/setts/s7/lr3r1lr30k20lr3k9ly1~x2/"><circle cx="329.3" cy="131.5" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s7/lr3r1lr30k20lr3k9ly1/"><circle cx="329.3" cy="131.5" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s11/o8k40dy2o2w2o2k9w5o2w5k2~x2/"><circle cx="372.0" cy="113.3" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><circle cx="331.6" cy="115.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/w8k1db2k4ly2k2ly2k24w8k2~x2/

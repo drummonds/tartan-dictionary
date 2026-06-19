@@ -48,11 +48,11 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Davidson](/setts/s5/r1db6k3g6w1~x4/) — ΔT 0.63
+1. [Davidson](/setts/s5/r1db6k3g6w1~x4/) — ΔT 0.64
 1. [Wellington, No 229](/setts/s5/k4t3p11g14w2~x2/) — ΔT 0.83
 1. [Wellington, No 122](/setts/s5/k4t3p11g14ly2~x2/) — ΔT 0.84
-1. [MacNeil of Barra (Clan)](/setts/s6/ly3k2g12k12b14w3~x4/) — ΔT 0.89
-1. [Sanix Modern](/setts/s5/ly2g19k11db16r2~x2/) — ΔT 0.98
+1. [MacNeil of Barra (Clan)](/setts/s6/w3b14k12g12k2ly3~x4/) — ΔT 0.89
+1. [Sanix Modern](/setts/s5/r2db16k11g19ly2~x2/) — ΔT 0.98
 1. [Wilson's No 148](/setts/s5/k4t3g13p12w2~x2/) — ΔT 0.99
 1. [Gallowater, Old](/setts/s5/k19t10p19g40ly10/) — ΔT 1.07
 1. [MacKay, Dress (Corporate)](/setts/s6/k4g14k14g2w14b3~x2/) — ΔT 1.09
@@ -61,8 +61,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r1db6k3g6w1~x4/"><circle cx="111.0" cy="229.7" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/setts/s5/k4t3p11g14w2~x2/"><circle cx="145.8" cy="212.9" r="4" fill="#3465a4"><title>Wellington, No 229</title></circle></a><a href="/setts/s5/k4t3p11g14ly2~x2/"><circle cx="147.8" cy="213.6" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><a href="/setts/s6/ly3k2g12k12b14w3~x4/"><circle cx="86.3" cy="215.4" r="4" fill="#3465a4"><title>MacNeil of Barra (Clan)</title></circle></a><a href="/setts/s5/ly2g19k11db16r2~x2/"><circle cx="135.8" cy="206.3" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/setts/s5/k4t3g13p12w2~x2/"><circle cx="132.4" cy="215.8" r="4" fill="#3465a4"><title>Wilson's No 148</title></circle></a><a href="/setts/s5/k19t10p19g40ly10/"><circle cx="86.8" cy="245.7" r="4" fill="#3465a4"><title>Gallowater, Old</title></circle></a><a href="/setts/s6/k4g14k14g2w14b3~x2/"><circle cx="120.4" cy="222.6" r="4" fill="#3465a4"><title>MacKay, Dress (Corporate)</title></circle></a><a href="/setts/s5/k19t10dp19g40ly10/"><circle cx="108.7" cy="255.8" r="4" fill="#3465a4"><title>Gallowater Old District Tartan Tartan Number: 1025. Earliest known date: 1819 Both 'Old' and 'New' appear in Wilson's 1819 pattern book. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/k2g13k11t4w9k2~x2/"><circle cx="113.0" cy="227.9" r="4" fill="#3465a4"><title>Loch Leven, Check</title></circle></a><circle cx="119.4" cy="224.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r1db6k3g6w1~x4/"><circle cx="111.2" cy="229.6" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/setts/s5/k4t3p11g14w2~x2/"><circle cx="145.9" cy="212.8" r="4" fill="#3465a4"><title>Wellington, No 229</title></circle></a><a href="/setts/s5/k4t3p11g14ly2~x2/"><circle cx="147.9" cy="213.5" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><a href="/setts/s6/w3b14k12g12k2ly3~x4/"><circle cx="86.5" cy="215.4" r="4" fill="#3465a4"><title>MacNeil of Barra (Clan)</title></circle></a><a href="/setts/s5/r2db16k11g19ly2~x2/"><circle cx="136.0" cy="206.3" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/setts/s5/k4t3g13p12w2~x2/"><circle cx="132.5" cy="215.8" r="4" fill="#3465a4"><title>Wilson's No 148</title></circle></a><a href="/setts/s5/k19t10p19g40ly10/"><circle cx="86.9" cy="245.6" r="4" fill="#3465a4"><title>Gallowater, Old</title></circle></a><a href="/setts/s6/k4g14k14g2w14b3~x2/"><circle cx="120.4" cy="222.5" r="4" fill="#3465a4"><title>MacKay, Dress (Corporate)</title></circle></a><a href="/setts/s5/k19t10dp19g40ly10/"><circle cx="108.8" cy="255.8" r="4" fill="#3465a4"><title>Gallowater Old District Tartan Tartan Number: 1025. Earliest known date: 1819 Both 'Old' and 'New' appear in Wilson's 1819 pattern book. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/k2g13k11t4w9k2~x2/"><circle cx="113.1" cy="227.8" r="4" fill="#3465a4"><title>Loch Leven, Check</title></circle></a><circle cx="119.5" cy="224.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/r2db10k5g12w2~x2/

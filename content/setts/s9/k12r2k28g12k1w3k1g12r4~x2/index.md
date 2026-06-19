@@ -319,6 +319,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +420,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +680,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -923,8 +926,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k12r2k28dg12k1w3k1dg12r4~x2/"><circle cx="352.3" cy="157.9" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/setts/s8/lo8n5r1n15k2lo1k36n1~x2/"><circle cx="377.5" cy="131.8" r="4" fill="#3465a4"><title>Cirse 3D</title></circle></a><a href="/setts/s10/k37g27w2k4r6k4w2g27k37ly2~x2/"><circle cx="312.6" cy="153.8" r="4" fill="#3465a4"><title>Highlands of Durham #2</title></circle></a><a href="/setts/s8/k83r16dg56k2w5k2dg56r5~x2/"><circle cx="358.7" cy="151.8" r="4" fill="#3465a4"><title>MacDiarmid #2</title></circle></a><a href="/setts/s10/k4g13k4g8k44g8k4g13k4w3~x2/"><circle cx="329.5" cy="171.2" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/setts/s8/g4r4k12w2k12g32r4k3~x2/"><circle cx="296.8" cy="176.5" r="4" fill="#3465a4"><title>MacHardy (Clans Originaux)</title></circle></a><a href="/setts/s10/k7g6ly3k12r19k12g62k62g12r7/"><circle cx="278.0" cy="150.8" r="4" fill="#3465a4"><title>Danareth</title></circle></a><a href="/setts/s10/dt37g27w2dt4r6dt4w2g27dt37ly2~x2/"><circle cx="312.0" cy="148.9" r="4" fill="#3465a4"><title>Highlands of Durham</title></circle></a><a href="/setts/s12/k2g4k6lr2k31ly2k1ly2k16g20ly1lr2~x2/"><circle cx="407.0" cy="132.3" r="4" fill="#3465a4"><title>Entier</title></circle></a><a href="/setts/s9/k4lo24k13lo2k4lo3k1lo3t2~x2/"><circle cx="335.8" cy="130.7" r="4" fill="#3465a4"><title>Cardiff City Football Club (Corp)</title></circle></a><circle cx="343.7" cy="153.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k12r2k28dg12k1w3k1dg12r4~x2/"><circle cx="352.3" cy="157.8" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/setts/s8/lo8n5r1n15k2lo1k36n1~x2/"><circle cx="377.4" cy="131.7" r="4" fill="#3465a4"><title>Cirse 3D</title></circle></a><a href="/setts/s10/k37g27w2k4r6k4w2g27k37ly2~x2/"><circle cx="312.6" cy="153.7" r="4" fill="#3465a4"><title>Highlands of Durham #2</title></circle></a><a href="/setts/s8/k83r16dg56k2w5k2dg56r5~x2/"><circle cx="358.6" cy="151.7" r="4" fill="#3465a4"><title>MacDiarmid #2</title></circle></a><a href="/setts/s10/k4g13k4g8k44g8k4g13k4w3~x2/"><circle cx="329.5" cy="171.1" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/setts/s8/g4r4k12w2k12g32r4k3~x2/"><circle cx="296.8" cy="176.4" r="4" fill="#3465a4"><title>MacHardy (Clans Originaux)</title></circle></a><a href="/setts/s10/k7g6ly3k12r19k12g62k62g12r7/"><circle cx="277.9" cy="150.7" r="4" fill="#3465a4"><title>Danareth</title></circle></a><a href="/setts/s10/dt37g27w2dt4r6dt4w2g27dt37ly2~x2/"><circle cx="311.9" cy="148.8" r="4" fill="#3465a4"><title>Highlands of Durham</title></circle></a><a href="/setts/s12/k2g4k6lr2k31ly2k1ly2k16g20ly1lr2~x2/"><circle cx="406.8" cy="132.1" r="4" fill="#3465a4"><title>Entier</title></circle></a><a href="/setts/s9/k4lo24k13lo2k4lo3k1lo3t2~x2/"><circle cx="335.5" cy="130.5" r="4" fill="#3465a4"><title>Cardiff City Football Club (Corp)</title></circle></a><circle cx="343.6" cy="152.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/k12r2k28g12k1w3k1g12r4~x2/

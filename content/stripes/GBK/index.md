@@ -21,14 +21,14 @@ GBK
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### G P K <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="seq">G P K</span></span>
+### K P G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K P G</span></span>
 
 | Tartans |
 |---------------|
 | [Wilson's, No 185](/setts/s3/k11p10g9~x2/)|
 |![Wilson's, No 185 example sett](/setts/s3/k11p10g9~x2/sett.png)|
 
-### G T K <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="seq">G T K</span></span>
+### K T G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K T G</span></span>
 
 | Tartans |
 |---------------|

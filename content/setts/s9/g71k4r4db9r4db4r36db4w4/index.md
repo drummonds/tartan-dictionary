@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -914,17 +917,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Glendronach](/setts/s12/g21r2w1y3r2g5r21y1ly1y1r1g8~x2/) — ΔT 1.02
 1. [Connacht #2](/setts/s8/r1o1dg6o15dy2o1dy6w1~x4/) — ΔT 1.06
 1. [Rattray](/setts/s9/dg71k4r4db9r4db4r36db4lb4/) — ΔT 1.06
-1. [Dinwiddie Clan Tartan Tartan Number: 3212. Earliest known date: 2001 The registered tartan of the Dinwiddie Clan. Dinwiddies are normally associated with the Maxwells, but Lord Lyon stated, in 1988, that Dinwiddies were a sept of no other clan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/ly4o2k2o42k13g25o6k2r4k2~x2/) — ΔT 1.07
 1. [Hall (P.I.E.) (Personal)](/setts/s8/ly5g3ly3g53r7db5r13w4~x2/) — ΔT 1.07
+1. [Dinwiddie Clan Tartan Tartan Number: 3212. Earliest known date: 2001 The registered tartan of the Dinwiddie Clan. Dinwiddies are normally associated with the Maxwells, but Lord Lyon stated, in 1988, that Dinwiddies were a sept of no other clan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/ly4o2k2o42k13g25o6k2r4k2~x2/) — ΔT 1.07
 1. [Humphries (Name)](/setts/s8/g18r1lb2k1lb2r1o6k2~x4/) — ΔT 1.13
 1. [Dinwiddie](/setts/s10/ly7o2k2o41k12g22o6k2r4k2~x2/) — ΔT 1.13
 1. [Canadian Caledonian](/setts/s10/db3g16ly1r1w1r6g3r1g3w1~x4/) — ΔT 1.16
-1. [Manitoba](/setts/s8/ly6r21g2dg6g41t2g2t6/) — ΔT 1.17
+1. [Manitoba](/setts/s8/t6g2t2g41dg6g2r21ly6/) — ΔT 1.17
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g71k4r4dp9r4dp4r36dp4w4/"><circle cx="307.4" cy="118.2" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/setts/s12/g21r2w1y3r2g5r21y1ly1y1r1g8~x2/"><circle cx="327.1" cy="117.0" r="4" fill="#3465a4"><title>Glendronach</title></circle></a><a href="/setts/s8/r1o1dg6o15dy2o1dy6w1~x4/"><circle cx="284.8" cy="143.4" r="4" fill="#3465a4"><title>Connacht #2</title></circle></a><a href="/setts/s9/dg71k4r4db9r4db4r36db4lb4/"><circle cx="299.8" cy="120.3" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/setts/s10/ly4o2k2o42k13g25o6k2r4k2~x2/"><circle cx="267.5" cy="115.2" r="4" fill="#3465a4"><title>Dinwiddie Clan Tartan Tartan Number: 3212. Earliest known date: 2001 The registered tartan of the Dinwiddie Clan. Dinwiddies are normally associated with the Maxwells, but Lord Lyon stated, in 1988, that Dinwiddies were a sept of no other clan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/ly5g3ly3g53r7db5r13w4~x2/"><circle cx="345.6" cy="131.7" r="4" fill="#3465a4"><title>Hall (P.I.E.) (Personal)</title></circle></a><a href="/setts/s8/g18r1lb2k1lb2r1o6k2~x4/"><circle cx="290.0" cy="129.3" r="4" fill="#3465a4"><title>Humphries (Name)</title></circle></a><a href="/setts/s10/ly7o2k2o41k12g22o6k2r4k2~x2/"><circle cx="256.1" cy="115.6" r="4" fill="#3465a4"><title>Dinwiddie</title></circle></a><a href="/setts/s10/db3g16ly1r1w1r6g3r1g3w1~x4/"><circle cx="334.7" cy="130.4" r="4" fill="#3465a4"><title>Canadian Caledonian</title></circle></a><a href="/setts/s8/ly6r21g2dg6g41t2g2t6/"><circle cx="289.5" cy="127.4" r="4" fill="#3465a4"><title>Manitoba</title></circle></a><circle cx="298.2" cy="118.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g71k4r4dp9r4dp4r36dp4w4/"><circle cx="307.1" cy="118.2" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/setts/s12/g21r2w1y3r2g5r21y1ly1y1r1g8~x2/"><circle cx="326.8" cy="117.0" r="4" fill="#3465a4"><title>Glendronach</title></circle></a><a href="/setts/s8/r1o1dg6o15dy2o1dy6w1~x4/"><circle cx="284.5" cy="143.4" r="4" fill="#3465a4"><title>Connacht #2</title></circle></a><a href="/setts/s9/dg71k4r4db9r4db4r36db4lb4/"><circle cx="299.6" cy="120.3" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/setts/s8/ly5g3ly3g53r7db5r13w4~x2/"><circle cx="345.3" cy="131.6" r="4" fill="#3465a4"><title>Hall (P.I.E.) (Personal)</title></circle></a><a href="/setts/s10/ly4o2k2o42k13g25o6k2r4k2~x2/"><circle cx="267.2" cy="115.2" r="4" fill="#3465a4"><title>Dinwiddie Clan Tartan Tartan Number: 3212. Earliest known date: 2001 The registered tartan of the Dinwiddie Clan. Dinwiddies are normally associated with the Maxwells, but Lord Lyon stated, in 1988, that Dinwiddies were a sept of no other clan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/g18r1lb2k1lb2r1o6k2~x4/"><circle cx="289.8" cy="129.2" r="4" fill="#3465a4"><title>Humphries (Name)</title></circle></a><a href="/setts/s10/ly7o2k2o41k12g22o6k2r4k2~x2/"><circle cx="255.8" cy="115.5" r="4" fill="#3465a4"><title>Dinwiddie</title></circle></a><a href="/setts/s10/db3g16ly1r1w1r6g3r1g3w1~x4/"><circle cx="334.4" cy="130.3" r="4" fill="#3465a4"><title>Canadian Caledonian</title></circle></a><a href="/setts/s8/t6g2t2g41dg6g2r21ly6/"><circle cx="289.2" cy="127.4" r="4" fill="#3465a4"><title>Manitoba</title></circle></a><circle cx="297.9" cy="118.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/g71k4r4db9r4db4r36db4w4/

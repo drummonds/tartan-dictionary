@@ -20,7 +20,7 @@ BWBYBK
 
 
 
-### B W B LY B K <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="seq">B W B LY B K</span></span>
+### K B LY B W B <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K B LY B W B</span></span>
 
 | Tartans |
 |---------------|

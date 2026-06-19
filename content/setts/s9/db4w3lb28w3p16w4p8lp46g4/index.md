@@ -2,12 +2,18 @@
 title: "Heather, (R.S.S.P.C.C.)"
 date: 2023-03-18
 ---
-**Bands:** [BWWWBWBWG](/stripes/bwwwbwbwg/) · **Stripes:** [DB W LB W P W P LP G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB W LB W P W P LP G</span></span>
+**Bands:** [GWBWBWWWB](/stripes/gwbwbwwwb/) · **Stripes:** [G LP P W P W LB W DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">G LP P W P W LB W DB</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Heather,
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,15 +919,15 @@ The nearest existing variants by ΔTartan distance.
 1. [South Canterbury Jubillee (Corporate](/setts/s8/t36db5g5w2r4w2r9w22~x2/) — ΔT 1.54
 1. [Jubilee, South Canterbury Centre Piping & Dancing Association](/setts/s8/b36db5g5w2r4w2m9w22~x2/) — ΔT 1.58
 1. [Kerry (WCWM)](/setts/s11/lr24b3lr8b5k3o3k3lr3k3m24o4~x2/) — ΔT 1.62
-1. [Hogeboom (Toronto) (Personal)](/setts/s9/g4y3g9b14ly8b2r35lp2r3~x2/) — ΔT 1.74
 1. [Hebridean Arisaid Blue (Dance) Fashion Tartan Tartan Number: 6558. Earliest known date: 01/01/2005 Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/w17k2n6t6w1n1dp10k2dp3~x4/) — ΔT 1.74
-1. [Gigha, Lilac (Dance)](/setts/s8/m4g3m18dp18w18r1w2r4~x2/) — ΔT 1.76
+1. [Hogeboom (Toronto) (Personal)](/setts/s9/g4y3g9b14ly8b2r35lp2r3~x2/) — ΔT 1.74
+1. [Gigha, Lilac (Dance)](/setts/s8/r4w2r1w18dp18m18g3m4~x2/) — ΔT 1.76
 1. [IRPA (Corporate)](/setts/s11/r6o2r2o23k2r4k2t21r2t2w6~x2/) — ΔT 1.76
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db4w3lb28w3dp16w4dp8lp46g4/"><circle cx="185.7" cy="109.6" r="4" fill="#3465a4"><title>Heather (R.S.S.P.C.C.) Corporate Tartan Tartan Number: 2108. Earliest known date: 1990 The design 'Heather Tartan' has been produced at the request of the Royal Society for Prevention of Cruelty to Children, as the Society's corporate tartan. The colours of the design are taken from the Society's badge and lettrhead. Dark Pink Mix, Light Pink Mix, Kingfisher and Emerald. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r6t2r2t23k2r4k2b21r2b2w6~x2/"><circle cx="169.5" cy="130.0" r="4" fill="#3465a4"><title>IRPA</title></circle></a><a href="/setts/s12/r5w2b2w2ly5w2lb2w2k7b14lb30w4~x2/"><circle cx="159.9" cy="80.3" r="4" fill="#3465a4"><title>St. Andrews Management School</title></circle></a><a href="/setts/s8/t36db5g5w2r4w2r9w22~x2/"><circle cx="194.7" cy="115.3" r="4" fill="#3465a4"><title>South Canterbury Jubillee (Corporate</title></circle></a><a href="/setts/s8/b36db5g5w2r4w2m9w22~x2/"><circle cx="189.5" cy="113.5" r="4" fill="#3465a4"><title>Jubilee, South Canterbury Centre Piping &amp; Dancing Association</title></circle></a><a href="/setts/s11/lr24b3lr8b5k3o3k3lr3k3m24o4~x2/"><circle cx="181.4" cy="144.3" r="4" fill="#3465a4"><title>Kerry (WCWM)</title></circle></a><a href="/setts/s9/g4y3g9b14ly8b2r35lp2r3~x2/"><circle cx="227.7" cy="102.1" r="4" fill="#3465a4"><title>Hogeboom (Toronto) (Personal)</title></circle></a><a href="/setts/s9/w17k2n6t6w1n1dp10k2dp3~x4/"><circle cx="152.4" cy="122.8" r="4" fill="#3465a4"><title>Hebridean Arisaid Blue (Dance) Fashion Tartan Tartan Number: 6558. Earliest known date: 01/01/2005 Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/m4g3m18dp18w18r1w2r4~x2/"><circle cx="155.9" cy="130.9" r="4" fill="#3465a4"><title>Gigha, Lilac (Dance)</title></circle></a><a href="/setts/s11/r6o2r2o23k2r4k2t21r2t2w6~x2/"><circle cx="186.9" cy="139.7" r="4" fill="#3465a4"><title>IRPA (Corporate)</title></circle></a><circle cx="185.4" cy="110.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db4w3lb28w3dp16w4dp8lp46g4/"><circle cx="185.4" cy="109.7" r="4" fill="#3465a4"><title>Heather (R.S.S.P.C.C.) Corporate Tartan Tartan Number: 2108. Earliest known date: 1990 The design 'Heather Tartan' has been produced at the request of the Royal Society for Prevention of Cruelty to Children, as the Society's corporate tartan. The colours of the design are taken from the Society's badge and lettrhead. Dark Pink Mix, Light Pink Mix, Kingfisher and Emerald. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r6t2r2t23k2r4k2b21r2b2w6~x2/"><circle cx="169.3" cy="130.1" r="4" fill="#3465a4"><title>IRPA</title></circle></a><a href="/setts/s12/r5w2b2w2ly5w2lb2w2k7b14lb30w4~x2/"><circle cx="159.5" cy="80.3" r="4" fill="#3465a4"><title>St. Andrews Management School</title></circle></a><a href="/setts/s8/t36db5g5w2r4w2r9w22~x2/"><circle cx="194.5" cy="115.3" r="4" fill="#3465a4"><title>South Canterbury Jubillee (Corporate</title></circle></a><a href="/setts/s8/b36db5g5w2r4w2m9w22~x2/"><circle cx="189.3" cy="113.5" r="4" fill="#3465a4"><title>Jubilee, South Canterbury Centre Piping &amp; Dancing Association</title></circle></a><a href="/setts/s11/lr24b3lr8b5k3o3k3lr3k3m24o4~x2/"><circle cx="181.2" cy="144.3" r="4" fill="#3465a4"><title>Kerry (WCWM)</title></circle></a><a href="/setts/s9/w17k2n6t6w1n1dp10k2dp3~x4/"><circle cx="152.3" cy="122.8" r="4" fill="#3465a4"><title>Hebridean Arisaid Blue (Dance) Fashion Tartan Tartan Number: 6558. Earliest known date: 01/01/2005 Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/g4y3g9b14ly8b2r35lp2r3~x2/"><circle cx="227.5" cy="102.1" r="4" fill="#3465a4"><title>Hogeboom (Toronto) (Personal)</title></circle></a><a href="/setts/s8/r4w2r1w18dp18m18g3m4~x2/"><circle cx="155.7" cy="130.9" r="4" fill="#3465a4"><title>Gigha, Lilac (Dance)</title></circle></a><a href="/setts/s11/r6o2r2o23k2r4k2t21r2t2w6~x2/"><circle cx="186.6" cy="139.8" r="4" fill="#3465a4"><title>IRPA (Corporate)</title></circle></a><circle cx="185.1" cy="110.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/db4w3lb28w3p16w4p8lp46g4/

@@ -18,7 +18,7 @@ BGGGBGRGGGR
 
 
 
-### T DG G DG T DG R DG G DG R <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">T DG G DG T DG R DG G DG R</span></span>
+### R DG G DG R DG T DG G DG T <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="seq">R DG G DG R DG T DG G DG T</span></span>
 
 | Tartans |
 |---------------|

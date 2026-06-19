@@ -25,7 +25,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-O/4 N10 DB6 N10 DG11 N32 K66 Y/11
+Y/11 K66 N32 DG11 N10 DB6 N10 O/4
 ![Sett](sett.png)
 
 ## Palette
@@ -42,7 +42,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "O/4 N10 DB6 N10 DG11 N32 K66 Y/11 tartan")
+![Tartan detail](tartan.png "Y/11 K66 N32 DG11 N10 DB6 N10 O/4 tartan")
 
 ## Nearest tartans
 
@@ -61,8 +61,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/o11k66y32dg11y10db6y10r4/"><circle cx="219.0" cy="133.6" r="4" fill="#3465a4"><title>Turnbull, Dress Bruce (Personal)</title></circle></a><a href="/setts/s8/k45lo10g7r3w4db13w9r6~x2/"><circle cx="182.8" cy="121.3" r="4" fill="#3465a4"><title>Legion of Frontiersmen (Corporate)</title></circle></a><a href="/setts/s10/y16k2y6k2r2k2db15g1db1w2~x2/"><circle cx="206.5" cy="110.9" r="4" fill="#3465a4"><title>Otago</title></circle></a><a href="/setts/s8/lo3k2o15k10dt23r2dt1w2~x2/"><circle cx="201.9" cy="119.3" r="4" fill="#3465a4"><title>Vienna Highlander (Fashion)</title></circle></a><a href="/setts/s11/lo9k8lo30k4lb8k4db24k54r14k4lr8/"><circle cx="174.0" cy="122.7" r="4" fill="#3465a4"><title>Dublin County Crest (Fashion)</title></circle></a><a href="/setts/s9/o29k23lo1g9lo2r4k14w2k4~x2/"><circle cx="233.1" cy="107.0" r="4" fill="#3465a4"><title>Letter Dress (2014)</title></circle></a><a href="/setts/s7/r5t2k30n26ly2n2db4~x2/"><circle cx="235.4" cy="144.2" r="4" fill="#3465a4"><title>Milne-Murtaugh (Personal)</title></circle></a><a href="/setts/s9/b3k2r2k12g10ly1k1g2lb2~x4/"><circle cx="187.3" cy="145.8" r="4" fill="#3465a4"><title>Roderick Dhu</title></circle></a><a href="/setts/s8/k6w3k2db30r9k4g20ly3~x2/"><circle cx="154.7" cy="132.9" r="4" fill="#3465a4"><title>Minnesota (District)</title></circle></a><a href="/setts/s9/w1db16ly1r3ly1g6g2g6w1~x2/"><circle cx="198.8" cy="120.8" r="4" fill="#3465a4"><title>Kleto, Susan (Personal)</title></circle></a><circle cx="206.2" cy="126.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/o11k66y32dg11y10db6y10r4/"><circle cx="219.0" cy="133.6" r="4" fill="#3465a4"><title>Turnbull, Dress Bruce (Personal)</title></circle></a><a href="/setts/s8/k45lo10g7r3w4db13w9r6~x2/"><circle cx="182.8" cy="121.4" r="4" fill="#3465a4"><title>Legion of Frontiersmen (Corporate)</title></circle></a><a href="/setts/s10/y16k2y6k2r2k2db15g1db1w2~x2/"><circle cx="206.3" cy="110.9" r="4" fill="#3465a4"><title>Otago</title></circle></a><a href="/setts/s8/lo3k2o15k10dt23r2dt1w2~x2/"><circle cx="201.9" cy="119.3" r="4" fill="#3465a4"><title>Vienna Highlander (Fashion)</title></circle></a><a href="/setts/s11/lo9k8lo30k4lb8k4db24k54r14k4lr8/"><circle cx="174.0" cy="122.8" r="4" fill="#3465a4"><title>Dublin County Crest (Fashion)</title></circle></a><a href="/setts/s9/o29k23lo1g9lo2r4k14w2k4~x2/"><circle cx="233.0" cy="107.0" r="4" fill="#3465a4"><title>Letter Dress (2014)</title></circle></a><a href="/setts/s7/r5t2k30n26ly2n2db4~x2/"><circle cx="235.4" cy="144.2" r="4" fill="#3465a4"><title>Milne-Murtaugh (Personal)</title></circle></a><a href="/setts/s9/b3k2r2k12g10ly1k1g2lb2~x4/"><circle cx="187.3" cy="145.8" r="4" fill="#3465a4"><title>Roderick Dhu</title></circle></a><a href="/setts/s8/k6w3k2db30r9k4g20ly3~x2/"><circle cx="154.7" cy="132.9" r="4" fill="#3465a4"><title>Minnesota (District)</title></circle></a><a href="/setts/s9/w1db16ly1r3ly1g6g2g6w1~x2/"><circle cx="198.7" cy="120.9" r="4" fill="#3465a4"><title>Kleto, Susan (Personal)</title></circle></a><circle cx="206.2" cy="126.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/lo11k66o32dg11o10db6o10lo4/

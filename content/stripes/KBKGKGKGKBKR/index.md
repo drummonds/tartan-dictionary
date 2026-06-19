@@ -22,6 +22,6 @@ KBKGKGKGKBKR
 
 | Tartans |
 |---------------|
-| [Wilson's No.230](/setts/s12/r4k2db16k17dg16k2y4k2dg16k17db16k2~x2/)|
-|![Wilson's No.230 example sett](/setts/s12/r4k2db16k17dg16k2y4k2dg16k17db16k2~x2/sett.png)|
+| [Wilson's No.230](/setts/s12/r4k2db16k17dg16k2y4~x2/)|
+|![Wilson's No.230 example sett](/setts/s12/r4k2db16k17dg16k2y4~x2/sett.png)|
 

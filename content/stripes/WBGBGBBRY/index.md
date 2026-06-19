@@ -18,10 +18,10 @@ WBGBGBBRY
 
 
 
-### W DB G DB G DB DB R LO <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">W DB G DB G DB DB R LO</span></span>
+### LO R DB DB G DB G DB W <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO R DB DB G DB G DB W</span></span>
 
 | Tartans |
 |---------------|
-| [McLion (Corporate)](/setts/s9/lo1r5db4db1g1db1g1db6w1~x4/)|
-|![McLion (Corporate) example sett](/setts/s9/lo1r5db4db1g1db1g1db6w1~x4/sett.png)|
+| [McLion (Corporate)](/setts/s9/w1db6g1db1g1db1db4r5lo1~x4/)|
+|![McLion (Corporate) example sett](/setts/s9/w1db6g1db1g1db1db4r5lo1~x4/sett.png)|
 

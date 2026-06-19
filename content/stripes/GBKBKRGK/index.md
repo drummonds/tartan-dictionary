@@ -8,7 +8,7 @@ GBKBKRGK
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/g1db7k1db1k4r1g4k1~x6/tartan.png)
+![Woven sample](/setts/s8/k1g4r1k4db1k1db7g1~x6/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ GBKBKRGK
 
 
 
-### G DB K DB K R G K <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">G DB K DB K R G K</span></span>
+### K G R K DB K DB G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G R K DB K DB G</span></span>
 
 | Tartans |
 |---------------|
-| [Brabender](/setts/s8/g1db7k1db1k4r1g4k1~x6/)|
-|![Brabender example sett](/setts/s8/g1db7k1db1k4r1g4k1~x6/sett.png)|
+| [Brabender](/setts/s8/k1g4r1k4db1k1db7g1~x6/)|
+|![Brabender example sett](/setts/s8/k1g4r1k4db1k1db7g1~x6/sett.png)|
 

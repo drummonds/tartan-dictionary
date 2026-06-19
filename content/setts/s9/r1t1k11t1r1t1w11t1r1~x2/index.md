@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2705
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacPherson #4
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -922,8 +931,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db1r1k8r1db1r1w8r1db1~x6/"><circle cx="152.0" cy="148.0" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/setts/s8/ly35db3r4db3r8db30w3db4~x2/"><circle cx="227.6" cy="145.5" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><a href="/setts/s9/db1r1k8r1db1r1w8r1db1~x4/"><circle cx="151.8" cy="152.0" r="4" fill="#3465a4"><title>MacPherson of Pitmain</title></circle></a><a href="/setts/s12/r2lb20k3r2k2r3k2r3k2r3k2w2~x4/"><circle cx="208.4" cy="120.3" r="4" fill="#3465a4"><title>Duchess of Kent</title></circle></a><a href="/setts/s11/r2k9t4w2k22w2t4w22t2w8r2~x2/"><circle cx="192.2" cy="136.2" r="4" fill="#3465a4"><title>MacRae, Dress</title></circle></a><a href="/setts/s9/r4w4k4w4k4w4k2o23w2~x2/"><circle cx="217.7" cy="144.4" r="4" fill="#3465a4"><title>Virtuoso (Corporate)</title></circle></a><a href="/setts/s8/lb33k4lb4k5lb4k7db41r4~x2/"><circle cx="203.1" cy="157.1" r="4" fill="#3465a4"><title>Kinnaird</title></circle></a><a href="/setts/s11/ly5lb36o5lb5o56k5o8k5o5k34ly5/"><circle cx="210.1" cy="142.8" r="4" fill="#3465a4"><title>Chartered Institute of Bankers in Scotland</title></circle></a><a href="/setts/s9/r4w4k4w4k4w4k2y23w2~x2/"><circle cx="207.1" cy="137.7" r="4" fill="#3465a4"><title>Virtuoso</title></circle></a><a href="/setts/s12/k2ly2db15ly2k2ly2w2ly2w14ly1k2ly2~x2/"><circle cx="153.0" cy="109.5" r="4" fill="#3465a4"><title>Independence</title></circle></a><circle cx="188.4" cy="130.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db1r1k8r1db1r1w8r1db1~x6/"><circle cx="151.8" cy="147.9" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/setts/s8/ly35db3r4db3r8db30w3db4~x2/"><circle cx="227.4" cy="145.3" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><a href="/setts/s9/db1r1k8r1db1r1w8r1db1~x4/"><circle cx="151.7" cy="151.9" r="4" fill="#3465a4"><title>MacPherson of Pitmain</title></circle></a><a href="/setts/s12/r2lb20k3r2k2r3k2r3k2r3k2w2~x4/"><circle cx="208.1" cy="120.2" r="4" fill="#3465a4"><title>Duchess of Kent</title></circle></a><a href="/setts/s11/r2k9t4w2k22w2t4w22t2w8r2~x2/"><circle cx="192.0" cy="136.0" r="4" fill="#3465a4"><title>MacRae, Dress</title></circle></a><a href="/setts/s9/r4w4k4w4k4w4k2o23w2~x2/"><circle cx="217.5" cy="144.3" r="4" fill="#3465a4"><title>Virtuoso (Corporate)</title></circle></a><a href="/setts/s8/lb33k4lb4k5lb4k7db41r4~x2/"><circle cx="203.0" cy="157.0" r="4" fill="#3465a4"><title>Kinnaird</title></circle></a><a href="/setts/s11/ly5lb36o5lb5o56k5o8k5o5k34ly5/"><circle cx="209.9" cy="142.7" r="4" fill="#3465a4"><title>Chartered Institute of Bankers in Scotland</title></circle></a><a href="/setts/s9/r4w4k4w4k4w4k2y23w2~x2/"><circle cx="206.7" cy="137.6" r="4" fill="#3465a4"><title>Virtuoso</title></circle></a><a href="/setts/s12/k2ly2db15ly2k2ly2w2ly2w14ly1k2ly2~x2/"><circle cx="152.7" cy="109.4" r="4" fill="#3465a4"><title>Independence</title></circle></a><circle cx="188.1" cy="129.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r1t1k11t1r1t1w11t1r1~x2/

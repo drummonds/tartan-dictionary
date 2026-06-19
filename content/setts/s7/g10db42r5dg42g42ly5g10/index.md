@@ -2,7 +2,7 @@
 title: "New Mexico"
 date: 2023-03-18
 ---
-**Bands:** [GBRGGYG](/stripes/gbrggyg/) · **Stripes:** [G DB R DG G LY G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G DB R DG G LY G</span></span>
+**Bands:** [GYGGRBG](/stripes/gyggrbg/) · **Stripes:** [G LY G DG R DB G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G LY G DG R DB G</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -913,15 +916,15 @@ The nearest existing variants by ΔTartan distance.
 1. [MPS Emerald Society NCLEES 2012](/setts/s6/ly4dg30g15db5t10ly4~x2/) — ΔT 0.97
 1. [MacSween Hunting (Lochs, Isle of Lew](/setts/s7/g3r3g31dg18g4k22ly3/) — ΔT 1.01
 1. [Wilson's No.122](/setts/s8/g14dt11y3k5y3dt11g14ly2~x2/) — ΔT 1.01
-1. [New Mexico (Fashion)](/setts/s7/g10dp42r5g42g42ly5g6/) — ΔT 1.10
+1. [New Mexico (Fashion)](/setts/s7/g10dp42r5g42g42ly5g6/) — ΔT 1.11
 1. [Lanarkshire](/setts/s6/g31ly4g6k19db18t9~x2/) — ΔT 1.12
 1. [Leahy (Australia) (Personal)](/setts/s6/db2k6g2k6g12ly1~x4/) — ΔT 1.19
 1. [Balfour Hunting](/setts/s6/b30ly3dy11ly3g33r6~x2/) — ΔT 1.20
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g6ly3g26dg10dt30lb3~x2/"><circle cx="216.3" cy="211.9" r="4" fill="#3465a4"><title>Wcwm 1716</title></circle></a><a href="/setts/s6/ly4dg30g15db5b10ly4~x2/"><circle cx="178.4" cy="213.8" r="4" fill="#3465a4"><title>MPS Emerald Society</title></circle></a><a href="/setts/s5/r3g28db9dg18w3~x2/"><circle cx="234.7" cy="231.6" r="4" fill="#3465a4"><title>Simple Technology (Corporate)</title></circle></a><a href="/setts/s6/ly4dg30g15db5t10ly4~x2/"><circle cx="174.6" cy="212.9" r="4" fill="#3465a4"><title>MPS Emerald Society NCLEES 2012</title></circle></a><a href="/setts/s7/g3r3g31dg18g4k22ly3/"><circle cx="240.0" cy="207.7" r="4" fill="#3465a4"><title>MacSween Hunting (Lochs, Isle of Lew</title></circle></a><a href="/setts/s8/g14dt11y3k5y3dt11g14ly2~x2/"><circle cx="200.0" cy="241.9" r="4" fill="#3465a4"><title>Wilson's No.122</title></circle></a><a href="/setts/s7/g10dp42r5g42g42ly5g6/"><circle cx="171.8" cy="197.9" r="4" fill="#3465a4"><title>New Mexico (Fashion)</title></circle></a><a href="/setts/s6/g31ly4g6k19db18t9~x2/"><circle cx="165.0" cy="232.1" r="4" fill="#3465a4"><title>Lanarkshire</title></circle></a><a href="/setts/s6/db2k6g2k6g12ly1~x4/"><circle cx="217.1" cy="208.1" r="4" fill="#3465a4"><title>Leahy (Australia) (Personal)</title></circle></a><a href="/setts/s6/b30ly3dy11ly3g33r6~x2/"><circle cx="217.0" cy="208.9" r="4" fill="#3465a4"><title>Balfour Hunting</title></circle></a><circle cx="187.8" cy="218.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g6ly3g26dg10dt30lb3~x2/"><circle cx="216.4" cy="211.9" r="4" fill="#3465a4"><title>Wcwm 1716</title></circle></a><a href="/setts/s6/ly4dg30g15db5b10ly4~x2/"><circle cx="178.5" cy="213.8" r="4" fill="#3465a4"><title>MPS Emerald Society</title></circle></a><a href="/setts/s5/r3g28db9dg18w3~x2/"><circle cx="234.8" cy="231.6" r="4" fill="#3465a4"><title>Simple Technology (Corporate)</title></circle></a><a href="/setts/s6/ly4dg30g15db5t10ly4~x2/"><circle cx="174.7" cy="212.8" r="4" fill="#3465a4"><title>MPS Emerald Society NCLEES 2012</title></circle></a><a href="/setts/s7/g3r3g31dg18g4k22ly3/"><circle cx="240.1" cy="207.8" r="4" fill="#3465a4"><title>MacSween Hunting (Lochs, Isle of Lew</title></circle></a><a href="/setts/s8/g14dt11y3k5y3dt11g14ly2~x2/"><circle cx="200.1" cy="241.9" r="4" fill="#3465a4"><title>Wilson's No.122</title></circle></a><a href="/setts/s7/g10dp42r5g42g42ly5g6/"><circle cx="171.8" cy="197.9" r="4" fill="#3465a4"><title>New Mexico (Fashion)</title></circle></a><a href="/setts/s6/g31ly4g6k19db18t9~x2/"><circle cx="165.2" cy="232.1" r="4" fill="#3465a4"><title>Lanarkshire</title></circle></a><a href="/setts/s6/db2k6g2k6g12ly1~x4/"><circle cx="217.2" cy="208.1" r="4" fill="#3465a4"><title>Leahy (Australia) (Personal)</title></circle></a><a href="/setts/s6/b30ly3dy11ly3g33r6~x2/"><circle cx="216.9" cy="209.0" r="4" fill="#3465a4"><title>Balfour Hunting</title></circle></a><circle cx="187.9" cy="218.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/g10db42r5dg42g42ly5g10/

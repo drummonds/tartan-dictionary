@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2686
 
 ## Thread count
-DG/20 Ga20 LT20 DG20 G20 Ga20 LT20 LN20 LP/40
+LP/40 LN20 LT20 Ga20 G20 DG20 LT20 Ga20 DG/20
 ![Sett](sett.png)
 
 ## Palette
@@ -46,7 +46,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Stirling](/setts/s9/dg2g1o1dg1g1g1o1w1lr2~x20/) — ΔT 0.90
-1. [Stewarton (Fashion)](/setts/s8/k1g3o3db3o3lr3o3k1~x4/) — ΔT 1.70
+1. [Stewarton (Fashion)](/setts/s8/k1o3lr3o3db3o3g3k1~x4/) — ΔT 1.70
 1. [Rainbow (Fashion)](/setts/s6/g2ly1lo1r1dp1db1~x36/) — ΔT 1.72
 1. [Rainbow](/setts/s6/g2ly1lo1r1p1db1~x36/) — ΔT 1.82
 1. [Stewarton (Personal)](/setts/s14/o3lr3o3db3o3g3k1g3o3db3o3lr3o3k1~x4/) — ΔT 1.97
@@ -58,8 +58,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg2g1o1dg1g1g1o1w1lr2~x20/"><circle cx="14.0" cy="263.6" r="4" fill="#3465a4"><title>Stirling</title></circle></a><a href="/setts/s8/k1g3o3db3o3lr3o3k1~x4/"><circle cx="14.0" cy="262.9" r="4" fill="#3465a4"><title>Stewarton (Fashion)</title></circle></a><a href="/setts/s6/g2ly1lo1r1dp1db1~x36/"><circle cx="14.0" cy="273.4" r="4" fill="#3465a4"><title>Rainbow (Fashion)</title></circle></a><a href="/setts/s6/g2ly1lo1r1p1db1~x36/"><circle cx="14.0" cy="271.2" r="4" fill="#3465a4"><title>Rainbow</title></circle></a><a href="/setts/s14/o3lr3o3db3o3g3k1g3o3db3o3lr3o3k1~x4/"><circle cx="14.0" cy="258.2" r="4" fill="#3465a4"><title>Stewarton (Personal)</title></circle></a><a href="/setts/s13/lr4k4n4k4g4w1g4w1n3r4n3r4w1~x4/"><circle cx="14.0" cy="215.7" r="4" fill="#3465a4"><title>Stanners (Personal)</title></circle></a><a href="/setts/s11/g11k5lo7w5lo7k5g7lo11db16lo7ly5~x2/"><circle cx="27.7" cy="226.9" r="4" fill="#3465a4"><title>Roscommon County Crest (Fashion)</title></circle></a><a href="/setts/s11/n2k2n2k2w1o1w1o1w1o1r2~x8/"><circle cx="14.0" cy="258.7" r="4" fill="#3465a4"><title>Unidentified (2103)</title></circle></a><a href="/setts/s14/g10k6t10ly4t10k3g10k3g10k3r10w4r10k6~x2/"><circle cx="14.0" cy="208.1" r="4" fill="#3465a4"><title>Scandinavian</title></circle></a><a href="/setts/s9/ly2o1ly1o3o3db3ly2lr2db1~x4/"><circle cx="14.0" cy="243.3" r="4" fill="#3465a4"><title>Titanic</title></circle></a><circle cx="14.0" cy="274.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg2g1o1dg1g1g1o1w1lr2~x20/"><circle cx="14.0" cy="263.7" r="4" fill="#3465a4"><title>Stirling</title></circle></a><a href="/setts/s8/k1o3lr3o3db3o3g3k1~x4/"><circle cx="14.0" cy="263.0" r="4" fill="#3465a4"><title>Stewarton (Fashion)</title></circle></a><a href="/setts/s6/g2ly1lo1r1dp1db1~x36/"><circle cx="14.0" cy="273.5" r="4" fill="#3465a4"><title>Rainbow (Fashion)</title></circle></a><a href="/setts/s6/g2ly1lo1r1p1db1~x36/"><circle cx="14.0" cy="271.3" r="4" fill="#3465a4"><title>Rainbow</title></circle></a><a href="/setts/s14/o3lr3o3db3o3g3k1g3o3db3o3lr3o3k1~x4/"><circle cx="14.0" cy="258.4" r="4" fill="#3465a4"><title>Stewarton (Personal)</title></circle></a><a href="/setts/s13/lr4k4n4k4g4w1g4w1n3r4n3r4w1~x4/"><circle cx="14.0" cy="215.9" r="4" fill="#3465a4"><title>Stanners (Personal)</title></circle></a><a href="/setts/s11/g11k5lo7w5lo7k5g7lo11db16lo7ly5~x2/"><circle cx="27.8" cy="227.0" r="4" fill="#3465a4"><title>Roscommon County Crest (Fashion)</title></circle></a><a href="/setts/s11/n2k2n2k2w1o1w1o1w1o1r2~x8/"><circle cx="14.0" cy="258.8" r="4" fill="#3465a4"><title>Unidentified (2103)</title></circle></a><a href="/setts/s14/g10k6t10ly4t10k3g10k3g10k3r10w4r10k6~x2/"><circle cx="14.0" cy="208.2" r="4" fill="#3465a4"><title>Scandinavian</title></circle></a><a href="/setts/s9/ly2o1ly1o3o3db3ly2lr2db1~x4/"><circle cx="14.0" cy="243.3" r="4" fill="#3465a4"><title>Titanic</title></circle></a><circle cx="14.0" cy="274.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/lp2w1y1g1g1dg1y1g1dg1~x20/

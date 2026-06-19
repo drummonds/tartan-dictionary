@@ -2,7 +2,7 @@
 title: "Scottish Parliament"
 date: 2023-03-18
 ---
-**Bands:** [BGKGRKY](/stripes/bgkgrky/) · **Stripes:** [DB G K G M K LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB G K G M K LY</span></span>
+**Bands:** [YKRGKGB](/stripes/ykrgkgb/) · **Stripes:** [LY K M G K G DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K M G K G DB</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -908,10 +911,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Wilson's No.217](/setts/s8/dp11t2k10g10ly3g10k10t2~x2/) — ΔT 1.18
+1. [Wilson's No.217](/setts/s8/dp11t2k10g10ly3~x2/) — ΔT 1.18
 1. [Pollard (2014)](/setts/s7/g5dg5g5db5db5dg10w2~x8/) — ΔT 1.22
-1. [Gallowater, Original](/setts/s6/ly10g40dp17t10k17r10~x2/) — ΔT 1.25
-1. [Selkirk (Personal) Original](/setts/s8/dp11y2k10g10lo2g10k10y2~x2/) — ΔT 1.29
+1. [Gallowater, Original](/setts/s6/r10k17t10dp17g40ly10~x2/) — ΔT 1.25
+1. [Selkirk (Personal) Original](/setts/s8/dp11y2k10g10lo2~x2/) — ΔT 1.29
 1. [Scottish Odyssey Commemorative Tartan Tartan Number: 4071. Earliest known date: 01/01/2002 The Scottish Odyssey tartan from Lochcarron is a 'celebration of the wonderful experiences to be gained' from a visit to Scotland and some of the most spectacularly contrasting landscapes to be seen in Europe. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/k7db11k3db11dy11g22db3~x2/) — ΔT 1.29
 1. [Gallowater](/setts/s6/r10k18t10db18g40ly5/) — ΔT 1.30
 1. [Cunningham / Wilson's No 120](/setts/s7/k11g12w2g12k12dp12r3~x2/) — ΔT 1.30
@@ -921,8 +924,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dp11t2k10g10ly3g10k10t2~x2/"><circle cx="106.2" cy="240.8" r="4" fill="#3465a4"><title>Wilson's No.217</title></circle></a><a href="/setts/s7/g5dg5g5db5db5dg10w2~x8/"><circle cx="67.6" cy="250.0" r="4" fill="#3465a4"><title>Pollard (2014)</title></circle></a><a href="/setts/s6/ly10g40dp17t10k17r10~x2/"><circle cx="74.9" cy="223.0" r="4" fill="#3465a4"><title>Gallowater, Original</title></circle></a><a href="/setts/s8/dp11y2k10g10lo2g10k10y2~x2/"><circle cx="118.8" cy="236.2" r="4" fill="#3465a4"><title>Selkirk (Personal) Original</title></circle></a><a href="/setts/s7/k7db11k3db11dy11g22db3~x2/"><circle cx="127.7" cy="223.8" r="4" fill="#3465a4"><title>Scottish Odyssey Commemorative Tartan Tartan Number: 4071. Earliest known date: 01/01/2002 The Scottish Odyssey tartan from Lochcarron is a 'celebration of the wonderful experiences to be gained' from a visit to Scotland and some of the most spectacularly contrasting landscapes to be seen in Europe. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r10k18t10db18g40ly5/"><circle cx="99.3" cy="192.0" r="4" fill="#3465a4"><title>Gallowater</title></circle></a><a href="/setts/s7/k11g12w2g12k12dp12r3~x2/"><circle cx="131.0" cy="254.9" r="4" fill="#3465a4"><title>Cunningham / Wilson's No 120</title></circle></a><a href="/setts/s5/g15dg18db23w4r8~x2/"><circle cx="91.0" cy="249.9" r="4" fill="#3465a4"><title>Friebe (2014)</title></circle></a><a href="/setts/s6/r4g11k11g2db11y3~x4/"><circle cx="73.2" cy="236.1" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/setts/s7/r2k8lo1k8g8t8r2~x4/"><circle cx="155.5" cy="218.0" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><circle cx="74.4" cy="227.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dp11t2k10g10ly3~x2/"><circle cx="106.5" cy="240.9" r="4" fill="#3465a4"><title>Wilson's No.217</title></circle></a><a href="/setts/s7/g5dg5g5db5db5dg10w2~x8/"><circle cx="67.9" cy="250.1" r="4" fill="#3465a4"><title>Pollard (2014)</title></circle></a><a href="/setts/s6/r10k17t10dp17g40ly10~x2/"><circle cx="75.0" cy="223.0" r="4" fill="#3465a4"><title>Gallowater, Original</title></circle></a><a href="/setts/s8/dp11y2k10g10lo2~x2/"><circle cx="119.0" cy="236.2" r="4" fill="#3465a4"><title>Selkirk (Personal) Original</title></circle></a><a href="/setts/s7/k7db11k3db11dy11g22db3~x2/"><circle cx="127.9" cy="223.8" r="4" fill="#3465a4"><title>Scottish Odyssey Commemorative Tartan Tartan Number: 4071. Earliest known date: 01/01/2002 The Scottish Odyssey tartan from Lochcarron is a 'celebration of the wonderful experiences to be gained' from a visit to Scotland and some of the most spectacularly contrasting landscapes to be seen in Europe. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r10k18t10db18g40ly5/"><circle cx="99.4" cy="192.1" r="4" fill="#3465a4"><title>Gallowater</title></circle></a><a href="/setts/s7/k11g12w2g12k12dp12r3~x2/"><circle cx="131.2" cy="255.0" r="4" fill="#3465a4"><title>Cunningham / Wilson's No 120</title></circle></a><a href="/setts/s5/g15dg18db23w4r8~x2/"><circle cx="91.2" cy="249.9" r="4" fill="#3465a4"><title>Friebe (2014)</title></circle></a><a href="/setts/s6/r4g11k11g2db11y3~x4/"><circle cx="73.5" cy="236.1" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/setts/s7/r2k8lo1k8g8t8r2~x4/"><circle cx="155.6" cy="218.0" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><circle cx="74.6" cy="227.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/db8g11k3g11m12k10ly2~x2/

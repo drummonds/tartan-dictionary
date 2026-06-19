@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Prince Albert #2
+- Prince Albert Royal
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -899,7 +909,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-LN/4 R4 K4 R10 G12 K4 LN4 K4 Y4 K14 R4 B18 R/6
+R/6 B18 R4 K14 Y4 K4 LN4 K4 G12 R10 K4 R4 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -924,15 +934,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Victoria](/setts/s13/r6k2r12g10k3w2k3ly2k8w4db6w12r4/) — ΔT 1.05
 1. [Buchanan, Incorrect](/setts/s16/db3g1k3db3k3g1db3g1r6w1r6db4ly5db1ly5g1~x4/) — ΔT 1.08
 1. [Watt (Personal)](/setts/s13/db9k2w4db4lo2k10g12k3g12k8r11k2lo4~x2/) — ΔT 1.19
-1. [Bowie (white lines) (Name)](/setts/s13/db8r2db3r4db13w2y13w2dg13r4dg4lo2dg8~x2/) — ΔT 1.19
-1. [Wilson's, No 190](/setts/s19/k3ly2k13w2t11r12w2r12g12ly2k12r12w2r12t11w2k13ly2k3~x2/) — ΔT 1.21
+1. [Bowie (white lines) (Name)](/setts/s13/dg8lo2dg4r4dg13w2y13w2db13r4db3r2db8~x2/) — ΔT 1.19
+1. [Wilson's, No 190](/setts/s19/k3ly2k13w2t11r12w2r12k12ly2g12r12w2r12t11w2k13ly2k3~x2/) — ΔT 1.21
 1. [Dykes, of Perthshire](/setts/s13/t3k3t21k12r12ly3k4w3dg20r8k3r6w3~x2/) — ΔT 1.23
 1. [Buchanan (a)](/setts/s18/ly6k1db4k1r8lr1r8k1db4k1dg6db4dg6k1db4k1ly6k1~x2/) — ΔT 1.28
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r3db9r2k7ly2k2w2k2g6r5k2r2w2~x4/"><circle cx="18.8" cy="169.8" r="4" fill="#3465a4"><title>Prince Albert #3</title></circle></a><a href="/setts/s13/r3db9r2k7ly2k2w2k2dg6r5k2r2w2~x2/"><circle cx="22.4" cy="170.8" r="4" fill="#3465a4"><title>Prince Albert #2</title></circle></a><a href="/setts/s12/r4o14w2o4w2k6o3k6db14r2db4r4~x2/"><circle cx="45.4" cy="153.6" r="4" fill="#3465a4"><title>Kinloch Anderson, dress</title></circle></a><a href="/setts/s13/r6k2r12g10k3w2k3ly2k8w4db6w12r4/"><circle cx="17.8" cy="151.0" r="4" fill="#3465a4"><title>Victoria</title></circle></a><a href="/setts/s16/db3g1k3db3k3g1db3g1r6w1r6db4ly5db1ly5g1~x4/"><circle cx="22.7" cy="149.9" r="4" fill="#3465a4"><title>Buchanan, Incorrect</title></circle></a><a href="/setts/s13/db9k2w4db4lo2k10g12k3g12k8r11k2lo4~x2/"><circle cx="42.5" cy="178.5" r="4" fill="#3465a4"><title>Watt (Personal)</title></circle></a><a href="/setts/s13/db8r2db3r4db13w2y13w2dg13r4dg4lo2dg8~x2/"><circle cx="69.5" cy="163.9" r="4" fill="#3465a4"><title>Bowie (white lines) (Name)</title></circle></a><a href="/setts/s19/k3ly2k13w2t11r12w2r12g12ly2k12r12w2r12t11w2k13ly2k3~x2/"><circle cx="53.1" cy="136.0" r="4" fill="#3465a4"><title>Wilson's, No 190</title></circle></a><a href="/setts/s13/t3k3t21k12r12ly3k4w3dg20r8k3r6w3~x2/"><circle cx="42.4" cy="140.4" r="4" fill="#3465a4"><title>Dykes, of Perthshire</title></circle></a><a href="/setts/s18/ly6k1db4k1r8lr1r8k1db4k1dg6db4dg6k1db4k1ly6k1~x2/"><circle cx="29.4" cy="137.3" r="4" fill="#3465a4"><title>Buchanan (a)</title></circle></a><circle cx="14.0" cy="167.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r3db9r2k7ly2k2w2k2g6r5k2r2w2~x4/"><circle cx="18.9" cy="170.0" r="4" fill="#3465a4"><title>Prince Albert #3</title></circle></a><a href="/setts/s13/r3db9r2k7ly2k2w2k2dg6r5k2r2w2~x2/"><circle cx="22.5" cy="170.9" r="4" fill="#3465a4"><title>Prince Albert #2</title></circle></a><a href="/setts/s12/r4o14w2o4w2k6o3k6db14r2db4r4~x2/"><circle cx="45.5" cy="153.8" r="4" fill="#3465a4"><title>Kinloch Anderson, dress</title></circle></a><a href="/setts/s13/r6k2r12g10k3w2k3ly2k8w4db6w12r4/"><circle cx="17.7" cy="151.1" r="4" fill="#3465a4"><title>Victoria</title></circle></a><a href="/setts/s16/db3g1k3db3k3g1db3g1r6w1r6db4ly5db1ly5g1~x4/"><circle cx="22.7" cy="150.0" r="4" fill="#3465a4"><title>Buchanan, Incorrect</title></circle></a><a href="/setts/s13/db9k2w4db4lo2k10g12k3g12k8r11k2lo4~x2/"><circle cx="42.6" cy="178.6" r="4" fill="#3465a4"><title>Watt (Personal)</title></circle></a><a href="/setts/s13/dg8lo2dg4r4dg13w2y13w2db13r4db3r2db8~x2/"><circle cx="69.6" cy="164.1" r="4" fill="#3465a4"><title>Bowie (white lines) (Name)</title></circle></a><a href="/setts/s19/k3ly2k13w2t11r12w2r12k12ly2g12r12w2r12t11w2k13ly2k3~x2/"><circle cx="53.1" cy="136.1" r="4" fill="#3465a4"><title>Wilson's, No 190</title></circle></a><a href="/setts/s13/t3k3t21k12r12ly3k4w3dg20r8k3r6w3~x2/"><circle cx="42.4" cy="140.6" r="4" fill="#3465a4"><title>Dykes, of Perthshire</title></circle></a><a href="/setts/s18/ly6k1db4k1r8lr1r8k1db4k1dg6db4dg6k1db4k1ly6k1~x2/"><circle cx="29.5" cy="137.4" r="4" fill="#3465a4"><title>Buchanan (a)</title></circle></a><circle cx="14.0" cy="168.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r3db9r2k7ly2k2w2k2g6r5k2r2w2~x2/

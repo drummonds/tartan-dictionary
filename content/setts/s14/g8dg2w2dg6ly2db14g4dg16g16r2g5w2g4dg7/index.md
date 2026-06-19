@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Scott, hunting special
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DG/7 G4 LN2 G5 R2 G16 DG16 G4 B14 Y2 DG6 LN2 DG2 G/8
+G/8 DG2 LN2 DG6 Y2 B14 G4 DG16 G16 R2 G5 LN2 G4 DG/7
 ![Sett](sett.png)
 
 ## Palette
@@ -906,19 +915,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Redmond (2014)](/setts/s17/r4k1g8g2g8k4g8k1db2k1g8k4g8k2g8k1ly2~x2/) — ΔT 0.74
 1. [MacLean, Kenneth, baron of Denboig (Personal)](/setts/s11/dg19g5k2t3dg5g3t5k2db3g5w2~x2/) — ΔT 0.98
-1. [Scottish Heritage USA (SHUSA) (Corp)](/setts/s15/g3m2g14k6g4w2t14r2t14w2g4k6g14r2g3~x2/) — ΔT 1.02
+1. [Scottish Heritage USA (SHUSA) (Corp)](/setts/s15/g3r2g14k6g4w2t14r2t14w2g4k6g14m2g3~x2/) — ΔT 1.02
 1. [Wilson's No.033](/setts/s16/g17t3r3t3k19ly2g17r4g17ly2k19t3r3t3g17db8~x2/) — ΔT 1.10
 1. [Wilson's No.033 #2](/setts/s16/g17t3r3t3k19w2g17r4g17w2k19t3r3t3g17db8~x2/) — ΔT 1.15
 1. [Greylock](/setts/s13/g10w2g10k3db12r3db12g15w2db3k2g3ly3~x2/) — ΔT 1.18
 1. [Redmond (2014)](/setts/s17/r4k1dg8g2dg8k4g8k1t2k1g8k4dg8k2dg8k1lo2~x2/) — ΔT 1.20
 1. [Wilcox, Yu, Cruikshank Reunion](/setts/s12/y3g12k5g2k5y2r2y2k5g12w2y3~x2/) — ΔT 1.28
 1. [Norwich No.038](/setts/s18/g14t2r3t2k16ly2t16g16r3g16t16ly2k16t2r3t2g14k6~x2/) — ΔT 1.35
-1. [Wilson's No.225](/setts/s16/g16y2dp13t2k6ly2g16t2k12t2g16ly2k6t2dp13y2~x2/) — ΔT 1.40
+1. [Wilson's No.225](/setts/s16/g16y2dp13t2k6ly2g16t2k12~x2/) — ΔT 1.40
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/r4k1g8g2g8k4g8k1db2k1g8k4g8k2g8k1ly2~x2/"><circle cx="144.3" cy="166.8" r="4" fill="#3465a4"><title>Redmond (2014)</title></circle></a><a href="/setts/s11/dg19g5k2t3dg5g3t5k2db3g5w2~x2/"><circle cx="172.2" cy="159.1" r="4" fill="#3465a4"><title>MacLean, Kenneth, baron of Denboig (Personal)</title></circle></a><a href="/setts/s15/g3m2g14k6g4w2t14r2t14w2g4k6g14r2g3~x2/"><circle cx="162.6" cy="162.8" r="4" fill="#3465a4"><title>Scottish Heritage USA (SHUSA) (Corp)</title></circle></a><a href="/setts/s16/g17t3r3t3k19ly2g17r4g17ly2k19t3r3t3g17db8~x2/"><circle cx="187.0" cy="152.6" r="4" fill="#3465a4"><title>Wilson's No.033</title></circle></a><a href="/setts/s16/g17t3r3t3k19w2g17r4g17w2k19t3r3t3g17db8~x2/"><circle cx="180.2" cy="149.2" r="4" fill="#3465a4"><title>Wilson's No.033 #2</title></circle></a><a href="/setts/s13/g10w2g10k3db12r3db12g15w2db3k2g3ly3~x2/"><circle cx="161.4" cy="164.2" r="4" fill="#3465a4"><title>Greylock</title></circle></a><a href="/setts/s17/r4k1dg8g2dg8k4g8k1t2k1g8k4dg8k2dg8k1lo2~x2/"><circle cx="171.4" cy="181.5" r="4" fill="#3465a4"><title>Redmond (2014)</title></circle></a><a href="/setts/s12/y3g12k5g2k5y2r2y2k5g12w2y3~x2/"><circle cx="189.2" cy="200.3" r="4" fill="#3465a4"><title>Wilcox, Yu, Cruikshank Reunion</title></circle></a><a href="/setts/s18/g14t2r3t2k16ly2t16g16r3g16t16ly2k16t2r3t2g14k6~x2/"><circle cx="146.2" cy="166.7" r="4" fill="#3465a4"><title>Norwich No.038</title></circle></a><a href="/setts/s16/g16y2dp13t2k6ly2g16t2k12t2g16ly2k6t2dp13y2~x2/"><circle cx="149.2" cy="157.6" r="4" fill="#3465a4"><title>Wilson's No.225</title></circle></a><circle cx="149.6" cy="167.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/r4k1g8g2g8k4g8k1db2k1g8k4g8k2g8k1ly2~x2/"><circle cx="144.3" cy="166.9" r="4" fill="#3465a4"><title>Redmond (2014)</title></circle></a><a href="/setts/s11/dg19g5k2t3dg5g3t5k2db3g5w2~x2/"><circle cx="172.3" cy="159.2" r="4" fill="#3465a4"><title>MacLean, Kenneth, baron of Denboig (Personal)</title></circle></a><a href="/setts/s15/g3r2g14k6g4w2t14r2t14w2g4k6g14m2g3~x2/"><circle cx="162.5" cy="162.9" r="4" fill="#3465a4"><title>Scottish Heritage USA (SHUSA) (Corp)</title></circle></a><a href="/setts/s16/g17t3r3t3k19ly2g17r4g17ly2k19t3r3t3g17db8~x2/"><circle cx="187.0" cy="152.7" r="4" fill="#3465a4"><title>Wilson's No.033</title></circle></a><a href="/setts/s16/g17t3r3t3k19w2g17r4g17w2k19t3r3t3g17db8~x2/"><circle cx="180.2" cy="149.3" r="4" fill="#3465a4"><title>Wilson's No.033 #2</title></circle></a><a href="/setts/s13/g10w2g10k3db12r3db12g15w2db3k2g3ly3~x2/"><circle cx="161.4" cy="164.2" r="4" fill="#3465a4"><title>Greylock</title></circle></a><a href="/setts/s17/r4k1dg8g2dg8k4g8k1t2k1g8k4dg8k2dg8k1lo2~x2/"><circle cx="171.5" cy="181.7" r="4" fill="#3465a4"><title>Redmond (2014)</title></circle></a><a href="/setts/s12/y3g12k5g2k5y2r2y2k5g12w2y3~x2/"><circle cx="189.2" cy="200.3" r="4" fill="#3465a4"><title>Wilcox, Yu, Cruikshank Reunion</title></circle></a><a href="/setts/s18/g14t2r3t2k16ly2t16g16r3g16t16ly2k16t2r3t2g14k6~x2/"><circle cx="146.2" cy="166.8" r="4" fill="#3465a4"><title>Norwich No.038</title></circle></a><a href="/setts/s16/g16y2dp13t2k6ly2g16t2k12~x2/"><circle cx="149.3" cy="157.8" r="4" fill="#3465a4"><title>Wilson's No.225</title></circle></a><circle cx="149.6" cy="167.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/g8dg2w2dg6ly2db14g4dg16g16r2g5w2g4dg7/

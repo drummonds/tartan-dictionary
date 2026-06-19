@@ -22,6 +22,6 @@ BWRWRGYKYGRWRW
 
 | Tartans |
 |---------------|
-| [Wilson's No.083](/setts/s14/dp14w2r3w2r15g18ly3k14ly3g18r15w2r3w2~x2/)|
-|![Wilson's No.083 example sett](/setts/s14/dp14w2r3w2r15g18ly3k14ly3g18r15w2r3w2~x2/sett.png)|
+| [Wilson's No.083](/setts/s14/k14ly3g18r15w2r3w2dp14~x2/)|
+|![Wilson's No.083 example sett](/setts/s14/k14ly3g18r15w2r3w2dp14~x2/sett.png)|
 

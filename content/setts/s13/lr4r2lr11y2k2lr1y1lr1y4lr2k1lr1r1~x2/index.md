@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Balmoral (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Balmoral (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -52,15 +59,8 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
 
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Balmoral](/setts/s13/lr4r2lr11y2k2lr1y1lr1y4lr2k1lr1r1/)
-
-
 ## Thread count
-DR/2 Na2 K2 Na4 N8 Na2 N2 Na2 K4 N4 Na22 DR4 Na/8
+Na/8 DR4 Na22 N4 K4 Na2 N2 Na2 N8 Na4 K2 Na2 DR/2
 ![Sett](sett.png)
 
 ## Palette
@@ -77,21 +77,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Balmoral](/setts/s13/lr4r2lr11y2k2lr1y1lr1y4lr2k1lr1r1/) — ΔT 0.00
 1. [Balmoral Gillies (Royal)](/setts/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/) — ΔT 0.67
 1. [Balmoral (Royal)](/setts/s13/lb5r3lb24n7k6lb3n3lb3n11lb6k3lb3r3~x2/) — ΔT 0.89
-1. [Balmoral](/setts/s13/lb4r2lb11y2k2lb1y1lb1y4lb2k1lb1r1~x2/) — ΔT 0.90
+1. [Balmoral](/setts/s13/lb4r2lb11y2k2lb1y1lb1y4lb2k1lb1r1~x2/) — ΔT 0.91
 1. [Balmoral](/setts/s13/lb9r5lb47n13k11lb5n5lb5n21lb11k5lb5r5/) — ΔT 0.94
 1. [Balmoral (Green) (Royal)](/setts/s13/lb5g3lb24n7k6lb3n3lb3n11lb6k3lb3g3~x2/) — ΔT 1.02
 1. [Balmoral (Jack Allen)](/setts/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2/) — ΔT 1.03
 1. [Balmoral](/setts/s13/y2r1y8lp2k2y1lp1y1lp4y2k1y1r1~x2/) — ΔT 1.04
 1. [Balmoral, Green lines](/setts/s13/lb4g2lb25n16k5lb2n2lb2n8lb4k2lb2g2~x2/) — ΔT 1.20
 1. [Miyuki #3 (Fashion)](/setts/s18/n12lb14k3r6lb10n28lb10r6k3lb8r10lb8k3r6lb40n6lb6n6/) — ΔT 1.28
+1. [Hannay Dress](/setts/s18/lg14lr4k9lr29k2lr4k2lr4k9lr4k2lr4k2lr29k9lr4lg14ly2~x2/) — ΔT 1.29
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lr4r2lr11y2k2lr1y1lr1y4lr2k1lr1r1/"><circle cx="310.2" cy="145.5" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/"><circle cx="278.5" cy="132.8" r="4" fill="#3465a4"><title>Balmoral Gillies (Royal)</title></circle></a><a href="/setts/s13/lb5r3lb24n7k6lb3n3lb3n11lb6k3lb3r3~x2/"><circle cx="250.4" cy="159.9" r="4" fill="#3465a4"><title>Balmoral (Royal)</title></circle></a><a href="/setts/s13/lb4r2lb11y2k2lb1y1lb1y4lb2k1lb1r1~x2/"><circle cx="288.3" cy="130.5" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s13/lb9r5lb47n13k11lb5n5lb5n21lb11k5lb5r5/"><circle cx="253.5" cy="143.1" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s13/lb5g3lb24n7k6lb3n3lb3n11lb6k3lb3g3~x2/"><circle cx="248.0" cy="163.3" r="4" fill="#3465a4"><title>Balmoral (Green) (Royal)</title></circle></a><a href="/setts/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2/"><circle cx="274.2" cy="134.7" r="4" fill="#3465a4"><title>Balmoral (Jack Allen)</title></circle></a><a href="/setts/s13/y2r1y8lp2k2y1lp1y1lp4y2k1y1r1~x2/"><circle cx="261.1" cy="165.6" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s13/lb4g2lb25n16k5lb2n2lb2n8lb4k2lb2g2~x2/"><circle cx="258.7" cy="128.1" r="4" fill="#3465a4"><title>Balmoral, Green lines</title></circle></a><a href="/setts/s18/n12lb14k3r6lb10n28lb10r6k3lb8r10lb8k3r6lb40n6lb6n6/"><circle cx="248.2" cy="129.1" r="4" fill="#3465a4"><title>Miyuki #3 (Fashion)</title></circle></a><circle cx="310.2" cy="145.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/"><circle cx="278.1" cy="132.6" r="4" fill="#3465a4"><title>Balmoral Gillies (Royal)</title></circle></a><a href="/setts/s13/lb5r3lb24n7k6lb3n3lb3n11lb6k3lb3r3~x2/"><circle cx="250.1" cy="159.7" r="4" fill="#3465a4"><title>Balmoral (Royal)</title></circle></a><a href="/setts/s13/lb4r2lb11y2k2lb1y1lb1y4lb2k1lb1r1~x2/"><circle cx="287.8" cy="130.2" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s13/lb9r5lb47n13k11lb5n5lb5n21lb11k5lb5r5/"><circle cx="253.1" cy="142.9" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s13/lb5g3lb24n7k6lb3n3lb3n11lb6k3lb3g3~x2/"><circle cx="247.6" cy="163.2" r="4" fill="#3465a4"><title>Balmoral (Green) (Royal)</title></circle></a><a href="/setts/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2/"><circle cx="273.8" cy="134.5" r="4" fill="#3465a4"><title>Balmoral (Jack Allen)</title></circle></a><a href="/setts/s13/y2r1y8lp2k2y1lp1y1lp4y2k1y1r1~x2/"><circle cx="260.8" cy="165.5" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s13/lb4g2lb25n16k5lb2n2lb2n8lb4k2lb2g2~x2/"><circle cx="258.4" cy="128.0" r="4" fill="#3465a4"><title>Balmoral, Green lines</title></circle></a><a href="/setts/s18/n12lb14k3r6lb10n28lb10r6k3lb8r10lb8k3r6lb40n6lb6n6/"><circle cx="247.8" cy="129.0" r="4" fill="#3465a4"><title>Miyuki #3 (Fashion)</title></circle></a><a href="/setts/s18/lg14lr4k9lr29k2lr4k2lr4k9lr4k2lr4k2lr29k9lr4lg14ly2~x2/"><circle cx="281.9" cy="115.5" r="4" fill="#3465a4"><title>Hannay Dress</title></circle></a><circle cx="309.8" cy="145.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/lr4r2lr11y2k2lr1y1lr1y4lr2k1lr1r1~x2/

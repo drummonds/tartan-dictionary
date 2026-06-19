@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LT/6 Ba30 B4 Ba4 B4 Ba6 B12 LT38 R6 LT4 LN4 LT/8
+LT/8 LN4 LT4 R6 LT38 B12 Ba6 B4 Ba4 B4 Ba30 LT/6
 ![Sett](sett.png)
 
 ## Palette
@@ -904,10 +907,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Hebridean Granite](/setts/s14/lr4o4k4o18k3n36w3n36k3o18k4o4lr4o3~x2/) — ΔT 1.27
-1. [Hawaiian](/setts/s14/t4r1ly1t12do4y10ly1r3ly1y10do4t12ly1r1~x4/) — ΔT 1.34
+1. [Hawaiian](/setts/s14/t4r1ly1t12do4y10ly1r3~x4/) — ΔT 1.34
 1. [Cailean (Scotch House)](/setts/s12/dy4w2dy2r3dy19t6db3t2db2t2db15dy3~x2/) — ΔT 1.40
 1. [Hebridean Granite Fashion Tartan Tartan Number: 6821. Earliest known date: 2005 For a new House of Edgar collection. Intended to emulate the gray morning suit perhaps. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/o3lr4o4do4o18do3n36w3~x2/) — ΔT 1.44
-1. [Tasmanian](/setts/s11/ly2y4m3y4dg3y1dg1y1dg12lr1m2~x4/) — ΔT 1.44
+1. [Tasmanian](/setts/s11/m2lr1dg12y1dg1y1dg3y4m3y4ly2~x4/) — ΔT 1.44
 1. [Hawaii (District)](/setts/s8/t4r1ly1t12do4y10ly1r3~x4/) — ΔT 1.53
 1. [Pitcairn Hunting Corporate Tartan Tartan Number: 6727. Earliest known date: Not Specified A hunting version of #2199 (original Scottish Tartans Authority reference) Pitcarin Heritage. It is presumed it was designed by the same Diene Duncan and it was woven by D C Dalgliesh of Selkirk. See #2199 (original Scottish Tartans Authority reference) for background and mention of the Pitcairn Heritage Trust which does not seem to exist any longer (Aug 2005)./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/p3n3p3n3p3g23n2ly2n23r6p8ly2n2~x2/) — ΔT 1.53
 1. [St. Andrew's Soc. of Philadelphia (C](/setts/s12/db3r1db12dg2db2db4db2dg2db2dg9db1lo2~x4/) — ΔT 1.53
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/lr4o4k4o18k3n36w3n36k3o18k4o4lr4o3~x2/"><circle cx="300.3" cy="153.9" r="4" fill="#3465a4"><title>Hebridean Granite</title></circle></a><a href="/setts/s14/t4r1ly1t12do4y10ly1r3ly1y10do4t12ly1r1~x4/"><circle cx="238.9" cy="168.0" r="4" fill="#3465a4"><title>Hawaiian</title></circle></a><a href="/setts/s12/dy4w2dy2r3dy19t6db3t2db2t2db15dy3~x2/"><circle cx="239.3" cy="165.6" r="4" fill="#3465a4"><title>Cailean (Scotch House)</title></circle></a><a href="/setts/s8/o3lr4o4do4o18do3n36w3~x2/"><circle cx="303.2" cy="173.3" r="4" fill="#3465a4"><title>Hebridean Granite Fashion Tartan Tartan Number: 6821. Earliest known date: 2005 For a new House of Edgar collection. Intended to emulate the gray morning suit perhaps. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/ly2y4m3y4dg3y1dg1y1dg12lr1m2~x4/"><circle cx="268.5" cy="168.3" r="4" fill="#3465a4"><title>Tasmanian</title></circle></a><a href="/setts/s8/t4r1ly1t12do4y10ly1r3~x4/"><circle cx="250.0" cy="190.7" r="4" fill="#3465a4"><title>Hawaii (District)</title></circle></a><a href="/setts/s13/p3n3p3n3p3g23n2ly2n23r6p8ly2n2~x2/"><circle cx="219.3" cy="149.2" r="4" fill="#3465a4"><title>Pitcairn Hunting Corporate Tartan Tartan Number: 6727. Earliest known date: Not Specified A hunting version of #2199 (original Scottish Tartans Authority reference) Pitcarin Heritage. It is presumed it was designed by the same Diene Duncan and it was woven by D C Dalgliesh of Selkirk. See #2199 (original Scottish Tartans Authority reference) for background and mention of the Pitcairn Heritage Trust which does not seem to exist any longer (Aug 2005)./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/db3r1db12dg2db2db4db2dg2db2dg9db1lo2~x4/"><circle cx="255.9" cy="186.4" r="4" fill="#3465a4"><title>St. Andrew's Soc. of Philadelphia (C</title></circle></a><a href="/setts/s11/db2y18db2y2db20r3db18g2db2g18w2/"><circle cx="263.9" cy="178.8" r="4" fill="#3465a4"><title>American Society of Travel Agents, The</title></circle></a><a href="/setts/s12/o3r3o4r4o20k5n4k3o3k2n25w3~x2/"><circle cx="222.9" cy="147.1" r="4" fill="#3465a4"><title>MacLellan of Gartbreck (Personal)</title></circle></a><circle cx="270.1" cy="177.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/lr4o4k4o18k3n36w3n36k3o18k4o4lr4o3~x2/"><circle cx="300.0" cy="154.0" r="4" fill="#3465a4"><title>Hebridean Granite</title></circle></a><a href="/setts/s14/t4r1ly1t12do4y10ly1r3~x4/"><circle cx="238.8" cy="168.1" r="4" fill="#3465a4"><title>Hawaiian</title></circle></a><a href="/setts/s12/dy4w2dy2r3dy19t6db3t2db2t2db15dy3~x2/"><circle cx="239.2" cy="165.7" r="4" fill="#3465a4"><title>Cailean (Scotch House)</title></circle></a><a href="/setts/s8/o3lr4o4do4o18do3n36w3~x2/"><circle cx="303.0" cy="173.3" r="4" fill="#3465a4"><title>Hebridean Granite Fashion Tartan Tartan Number: 6821. Earliest known date: 2005 For a new House of Edgar collection. Intended to emulate the gray morning suit perhaps. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/m2lr1dg12y1dg1y1dg3y4m3y4ly2~x4/"><circle cx="268.3" cy="168.4" r="4" fill="#3465a4"><title>Tasmanian</title></circle></a><a href="/setts/s8/t4r1ly1t12do4y10ly1r3~x4/"><circle cx="249.8" cy="190.8" r="4" fill="#3465a4"><title>Hawaii (District)</title></circle></a><a href="/setts/s13/p3n3p3n3p3g23n2ly2n23r6p8ly2n2~x2/"><circle cx="219.2" cy="149.3" r="4" fill="#3465a4"><title>Pitcairn Hunting Corporate Tartan Tartan Number: 6727. Earliest known date: Not Specified A hunting version of #2199 (original Scottish Tartans Authority reference) Pitcarin Heritage. It is presumed it was designed by the same Diene Duncan and it was woven by D C Dalgliesh of Selkirk. See #2199 (original Scottish Tartans Authority reference) for background and mention of the Pitcairn Heritage Trust which does not seem to exist any longer (Aug 2005)./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/db3r1db12dg2db2db4db2dg2db2dg9db1lo2~x4/"><circle cx="256.0" cy="186.6" r="4" fill="#3465a4"><title>St. Andrew's Soc. of Philadelphia (C</title></circle></a><a href="/setts/s11/db2y18db2y2db20r3db18g2db2g18w2/"><circle cx="263.8" cy="178.8" r="4" fill="#3465a4"><title>American Society of Travel Agents, The</title></circle></a><a href="/setts/s12/o3r3o4r4o20k5n4k3o3k2n25w3~x2/"><circle cx="222.7" cy="147.2" r="4" fill="#3465a4"><title>MacLellan of Gartbreck (Personal)</title></circle></a><circle cx="269.9" cy="177.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/o4w2o2r3o19b6db3b2db2b2db15o3~x2/

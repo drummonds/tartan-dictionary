@@ -2,7 +2,7 @@
 title: "Hutchens (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKGKGKGWY](/stripes/bkgkgkgwy/) · **Stripes:** [DB K DG K DG K DG W LO](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DB K DG K DG K DG W LO</span></span>
+**Bands:** [YWGKGKGKB](/stripes/ywgkgkgkb/) · **Stripes:** [LO W DG K DG K DG K DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LO W DG K DG K DG K DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
@@ -31,18 +31,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Mackay, John W. (Personal)](/setts/s9/k4g35lo1k18g3db18r3g3r3~x2/) — ΔT 0.75
 1. [Zorra Caledonian Society](/setts/s10/dg3w2dg39k3g3k3dg3k20g10r2~x2/) — ΔT 0.93
 1. [MacDonnald of ye Ylis](/setts/s9/lr4dg30k1dg1k1dg3k12db10r3~x2/) — ΔT 0.93
-1. [Hot Boontjie](/setts/s8/m4dg4k1w2k1dg18k32r4~x2/) — ΔT 0.93
-1. [Sinclair Hunting (VS)](/setts/s7/g2r1g30k16w1db16r2~x2/) — ΔT 0.96
-1. [Bro-Kerne](/setts/s9/lo3dt30k1g6k1dt2k14dt1w3~x2/) — ΔT 1.03
-1. [Sarafilovic (Corporate)](/setts/s9/ly4g44k2g2k2g3k18db15r4~x2/) — ΔT 1.12
+1. [MacDonnald of ye Ylis](/setts/s9/lr4dg30k1dg1k1dg3k12db10r3/) — ΔT 0.93
+1. [Hot Boontjie](/setts/s8/r4k32dg18k1w2k1dg4m4~x2/) — ΔT 0.93
+1. [Sinclair Hunting (VS)](/setts/s7/r2db16w1k16g30r1g2~x2/) — ΔT 0.96
+1. [Bro-Kerne](/setts/s9/w3dt1k14dt2k1g6k1dt30lo3~x2/) — ΔT 1.03
+1. [Sarafilovic (Corporate)](/setts/s9/r4db15k18g3k2g2k2g44ly4~x2/) — ΔT 1.12
 1. [Sinclair Hunting](/setts/s7/dg2r1dg30k16lr1db16r2~x2/) — ΔT 1.14
-1. [Sinclair Hunting](/setts/s7/dg2r1dg30k16lr1db16r2/) — ΔT 1.14
 1. [McFadden (Personal)](/setts/s8/db18dp2db16k13g3k2g42lo3~x2/) — ΔT 1.16
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k4g35lo1k18g3db18r3g3r3~x2/"><circle cx="294.5" cy="134.0" r="4" fill="#3465a4"><title>Mackay, John W. (Personal)</title></circle></a><a href="/setts/s10/dg3w2dg39k3g3k3dg3k20g10r2~x2/"><circle cx="316.7" cy="140.6" r="4" fill="#3465a4"><title>Zorra Caledonian Society</title></circle></a><a href="/setts/s9/lr4dg30k1dg1k1dg3k12db10r3~x2/"><circle cx="304.7" cy="125.6" r="4" fill="#3465a4"><title>MacDonnald of ye Ylis</title></circle></a><a href="/setts/s8/m4dg4k1w2k1dg18k32r4~x2/"><circle cx="340.2" cy="130.5" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/setts/s7/g2r1g30k16w1db16r2~x2/"><circle cx="292.4" cy="150.1" r="4" fill="#3465a4"><title>Sinclair Hunting (VS)</title></circle></a><a href="/setts/s9/lo3dt30k1g6k1dt2k14dt1w3~x2/"><circle cx="333.1" cy="116.5" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><a href="/setts/s9/ly4g44k2g2k2g3k18db15r4~x2/"><circle cx="302.7" cy="135.3" r="4" fill="#3465a4"><title>Sarafilovic (Corporate)</title></circle></a><a href="/setts/s7/dg2r1dg30k16lr1db16r2~x2/"><circle cx="292.7" cy="154.6" r="4" fill="#3465a4"><title>Sinclair Hunting</title></circle></a><a href="/setts/s7/dg2r1dg30k16lr1db16r2/"><circle cx="292.7" cy="154.6" r="4" fill="#3465a4"><title>Sinclair Hunting</title></circle></a><a href="/setts/s8/db18dp2db16k13g3k2g42lo3~x2/"><circle cx="270.5" cy="160.1" r="4" fill="#3465a4"><title>McFadden (Personal)</title></circle></a><circle cx="311.7" cy="133.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k4g35lo1k18g3db18r3g3r3~x2/"><circle cx="294.5" cy="134.1" r="4" fill="#3465a4"><title>Mackay, John W. (Personal)</title></circle></a><a href="/setts/s10/dg3w2dg39k3g3k3dg3k20g10r2~x2/"><circle cx="316.6" cy="140.6" r="4" fill="#3465a4"><title>Zorra Caledonian Society</title></circle></a><a href="/setts/s9/lr4dg30k1dg1k1dg3k12db10r3~x2/"><circle cx="304.7" cy="125.6" r="4" fill="#3465a4"><title>MacDonnald of ye Ylis</title></circle></a><a href="/setts/s9/lr4dg30k1dg1k1dg3k12db10r3/"><circle cx="304.7" cy="125.6" r="4" fill="#3465a4"><title>MacDonnald of ye Ylis</title></circle></a><a href="/setts/s8/r4k32dg18k1w2k1dg4m4~x2/"><circle cx="340.1" cy="130.4" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/setts/s7/r2db16w1k16g30r1g2~x2/"><circle cx="292.4" cy="150.1" r="4" fill="#3465a4"><title>Sinclair Hunting (VS)</title></circle></a><a href="/setts/s9/w3dt1k14dt2k1g6k1dt30lo3~x2/"><circle cx="332.9" cy="116.5" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><a href="/setts/s9/r4db15k18g3k2g2k2g44ly4~x2/"><circle cx="302.6" cy="135.3" r="4" fill="#3465a4"><title>Sarafilovic (Corporate)</title></circle></a><a href="/setts/s7/dg2r1dg30k16lr1db16r2~x2/"><circle cx="292.9" cy="154.6" r="4" fill="#3465a4"><title>Sinclair Hunting</title></circle></a><a href="/setts/s8/db18dp2db16k13g3k2g42lo3~x2/"><circle cx="270.5" cy="160.1" r="4" fill="#3465a4"><title>McFadden (Personal)</title></circle></a><circle cx="311.7" cy="133.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/db10k12dg3k1dg1k1dg30w4lo4~x2/

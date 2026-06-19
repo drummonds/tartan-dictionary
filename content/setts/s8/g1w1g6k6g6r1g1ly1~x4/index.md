@@ -2,7 +2,7 @@
 title: "Vermont"
 date: 2023-03-18
 ---
-**Bands:** [GWGKGRGY](/stripes/gwgkgrgy/) · **Stripes:** [G W G K G R G LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G W G K G R G LY</span></span>
+**Bands:** [YGRGKGWG](/stripes/ygrgkgwg/) · **Stripes:** [LY G R G K G W G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G R G K G W G</span></span>
 
 
 This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/4 LN4 G24 DB24 G24 R4 G4 Y/4
+Y/4 G4 R4 G24 DB24 G24 LN4 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -901,27 +904,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/4 LN4 G24 DB24 G24 R4 G4 Y/4 tartan")
+![Tartan detail](tartan.png "Y/4 G4 R4 G24 DB24 G24 LN4 G/4 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Moore Caledonian (Personal)](/setts/s6/ly1g6ly1g6k6r1~x6/) — ΔT 1.43
+1. [Moore Caledonian (Personal)](/setts/s6/r1k6g6ly1g6ly1~x6/) — ΔT 1.43
 1. [Pinder, Nigel (Personal)](/setts/s7/g12k4g12w1b6w1ly4~x4/) — ΔT 1.45
 1. [Carrick, hunting](/setts/s8/g13p1g1p1g3db5k4ly2~x2/) — ΔT 1.49
 1. [Manx Ellan Vannin](/setts/s10/dg14w2db3lg7dg2lg7db3w2dg14t2~x4/) — ΔT 1.51
-1. [MacIver Hunting](/setts/s9/ly2g12k3g3k16g3k3g12w2~x2/) — ΔT 1.51
+1. [MacIver Hunting](/setts/s9/w2g12k3g3k16g3k3g12ly2~x2/) — ΔT 1.51
 1. [Lévesque, Pascal (Personal)](/setts/s10/dg8r2lb3ly2dg4lb4dg14db2lb2db2~x2/) — ΔT 1.52
 1. [Casey of West Virginia (Personal)](/setts/s9/g4lo1dt1lo1dt2g9r1dt6w1~x4/) — ΔT 1.55
-1. [Paton](/setts/s7/ly3g3ly3g19k28g24r3~x2/) — ΔT 1.55
+1. [Paton](/setts/s7/r3g24k28g19ly3g3ly3~x2/) — ΔT 1.55
 1. [Marshall Field](/setts/s8/g10db1w1db1ly1db6g8r1~x8/) — ΔT 1.55
-1. [Brown, George](/setts/s9/ly3g24k18r4g22r6k4r3w3~x2/) — ΔT 1.57
+1. [Brown, George](/setts/s9/w3r3k4r6g22r4k18g24ly3~x2/) — ΔT 1.57
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/ly1g6ly1g6k6r1~x6/"><circle cx="262.6" cy="243.4" r="4" fill="#3465a4"><title>Moore Caledonian (Personal)</title></circle></a><a href="/setts/s7/g12k4g12w1b6w1ly4~x4/"><circle cx="276.9" cy="196.0" r="4" fill="#3465a4"><title>Pinder, Nigel (Personal)</title></circle></a><a href="/setts/s8/g13p1g1p1g3db5k4ly2~x2/"><circle cx="260.3" cy="159.2" r="4" fill="#3465a4"><title>Carrick, hunting</title></circle></a><a href="/setts/s10/dg14w2db3lg7dg2lg7db3w2dg14t2~x4/"><circle cx="210.1" cy="184.5" r="4" fill="#3465a4"><title>Manx Ellan Vannin</title></circle></a><a href="/setts/s9/ly2g12k3g3k16g3k3g12w2~x2/"><circle cx="273.9" cy="205.3" r="4" fill="#3465a4"><title>MacIver Hunting</title></circle></a><a href="/setts/s10/dg8r2lb3ly2dg4lb4dg14db2lb2db2~x2/"><circle cx="227.8" cy="163.4" r="4" fill="#3465a4"><title>Lévesque, Pascal (Personal)</title></circle></a><a href="/setts/s9/g4lo1dt1lo1dt2g9r1dt6w1~x4/"><circle cx="240.6" cy="180.4" r="4" fill="#3465a4"><title>Casey of West Virginia (Personal)</title></circle></a><a href="/setts/s7/ly3g3ly3g19k28g24r3~x2/"><circle cx="263.1" cy="199.0" r="4" fill="#3465a4"><title>Paton</title></circle></a><a href="/setts/s8/g10db1w1db1ly1db6g8r1~x8/"><circle cx="326.6" cy="186.5" r="4" fill="#3465a4"><title>Marshall Field</title></circle></a><a href="/setts/s9/ly3g24k18r4g22r6k4r3w3~x2/"><circle cx="230.5" cy="182.0" r="4" fill="#3465a4"><title>Brown, George</title></circle></a><circle cx="254.6" cy="200.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r1k6g6ly1g6ly1~x6/"><circle cx="262.6" cy="243.2" r="4" fill="#3465a4"><title>Moore Caledonian (Personal)</title></circle></a><a href="/setts/s7/g12k4g12w1b6w1ly4~x4/"><circle cx="276.8" cy="195.9" r="4" fill="#3465a4"><title>Pinder, Nigel (Personal)</title></circle></a><a href="/setts/s8/g13p1g1p1g3db5k4ly2~x2/"><circle cx="260.2" cy="159.0" r="4" fill="#3465a4"><title>Carrick, hunting</title></circle></a><a href="/setts/s10/dg14w2db3lg7dg2lg7db3w2dg14t2~x4/"><circle cx="210.1" cy="184.4" r="4" fill="#3465a4"><title>Manx Ellan Vannin</title></circle></a><a href="/setts/s9/w2g12k3g3k16g3k3g12ly2~x2/"><circle cx="273.8" cy="205.1" r="4" fill="#3465a4"><title>MacIver Hunting</title></circle></a><a href="/setts/s10/dg8r2lb3ly2dg4lb4dg14db2lb2db2~x2/"><circle cx="227.6" cy="163.3" r="4" fill="#3465a4"><title>Lévesque, Pascal (Personal)</title></circle></a><a href="/setts/s9/g4lo1dt1lo1dt2g9r1dt6w1~x4/"><circle cx="240.5" cy="180.4" r="4" fill="#3465a4"><title>Casey of West Virginia (Personal)</title></circle></a><a href="/setts/s7/r3g24k28g19ly3g3ly3~x2/"><circle cx="263.1" cy="198.7" r="4" fill="#3465a4"><title>Paton</title></circle></a><a href="/setts/s8/g10db1w1db1ly1db6g8r1~x8/"><circle cx="326.4" cy="186.3" r="4" fill="#3465a4"><title>Marshall Field</title></circle></a><a href="/setts/s9/w3r3k4r6g22r4k18g24ly3~x2/"><circle cx="230.5" cy="181.9" r="4" fill="#3465a4"><title>Brown, George</title></circle></a><circle cx="254.5" cy="200.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/g1w1g6k6g6r1g1ly1~x4/

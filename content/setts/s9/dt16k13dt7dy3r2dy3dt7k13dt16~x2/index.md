@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10468
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Klappert, Denmark
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -41,7 +47,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Klappert (Name)](/setts/s9/n16k13n7dy3r2dy3n7k13n16~x2/) — ΔT 0.92
-1. [Bean of Freeport (Personal)](/setts/s7/db6dg41dt20r15dg41r15dt6/) — ΔT 1.09
+1. [Bean of Freeport (Personal)](/setts/s7/dt6r15dg41r15dt20dg41db6/) — ΔT 1.09
 1. [Bean Hunting Clan Tartan Tartan Number: 106. Earliest known date: 1987 The weaving and wearing of this tartan is 'Restricted'. This is not a legal definition and is applied by the Scottish Tartans Society irrespective of Design Patent or Copyright, in the spirit of a gentlemans agreement. Interested parties should contact the person listed under 'Source:' in this document. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/db6dg41db20r15dg41r15db6/) — ΔT 1.19
 1. [Holman](/setts/s10/dg18k10dg13k9r3k9dg25k16dg9db3~x2/) — ΔT 1.22
 1. [Process Safety Solutions Ltd](/setts/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/) — ΔT 1.24
@@ -53,8 +59,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/n16k13n7dy3r2dy3n7k13n16~x2/"><circle cx="324.1" cy="252.5" r="4" fill="#3465a4"><title>Klappert (Name)</title></circle></a><a href="/setts/s7/db6dg41dt20r15dg41r15dt6/"><circle cx="311.2" cy="262.4" r="4" fill="#3465a4"><title>Bean of Freeport (Personal)</title></circle></a><a href="/setts/s7/db6dg41db20r15dg41r15db6/"><circle cx="306.4" cy="258.5" r="4" fill="#3465a4"><title>Bean Hunting Clan Tartan Tartan Number: 106. Earliest known date: 1987 The weaving and wearing of this tartan is 'Restricted'. This is not a legal definition and is applied by the Scottish Tartans Society irrespective of Design Patent or Copyright, in the spirit of a gentlemans agreement. Interested parties should contact the person listed under 'Source:' in this document. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/dg18k10dg13k9r3k9dg25k16dg9db3~x2/"><circle cx="354.1" cy="284.1" r="4" fill="#3465a4"><title>Holman</title></circle></a><a href="/setts/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/"><circle cx="294.1" cy="249.4" r="4" fill="#3465a4"><title>Process Safety Solutions Ltd</title></circle></a><a href="/setts/s7/k25lo5k5dg25k25db3k10~x2/"><circle cx="408.4" cy="273.5" r="4" fill="#3465a4"><title>London Community Gospel Choir, The</title></circle></a><a href="/setts/s13/r3k2db10k10dg12k8dg12k10dg2k10db2k2db2/"><circle cx="260.3" cy="253.7" r="4" fill="#3465a4"><title>Unidentified #10</title></circle></a><a href="/setts/s10/k1db5k4db1dg1db1dg4db5dg1r1~x6/"><circle cx="272.4" cy="263.2" r="4" fill="#3465a4"><title>Nichol (Personal)</title></circle></a><a href="/setts/s6/k5g23k18db21k33db3~x2/"><circle cx="346.3" cy="289.3" r="4" fill="#3465a4"><title>Black Watch (variation)</title></circle></a><a href="/setts/s8/dg8r2dg2r3dg8db12dg2lo2~x2/"><circle cx="275.8" cy="255.2" r="4" fill="#3465a4"><title>Glen Nevis #1</title></circle></a><circle cx="342.3" cy="267.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/n16k13n7dy3r2dy3n7k13n16~x2/"><circle cx="324.1" cy="252.4" r="4" fill="#3465a4"><title>Klappert (Name)</title></circle></a><a href="/setts/s7/dt6r15dg41r15dt20dg41db6/"><circle cx="311.2" cy="262.4" r="4" fill="#3465a4"><title>Bean of Freeport (Personal)</title></circle></a><a href="/setts/s7/db6dg41db20r15dg41r15db6/"><circle cx="306.4" cy="258.4" r="4" fill="#3465a4"><title>Bean Hunting Clan Tartan Tartan Number: 106. Earliest known date: 1987 The weaving and wearing of this tartan is 'Restricted'. This is not a legal definition and is applied by the Scottish Tartans Society irrespective of Design Patent or Copyright, in the spirit of a gentlemans agreement. Interested parties should contact the person listed under 'Source:' in this document. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/dg18k10dg13k9r3k9dg25k16dg9db3~x2/"><circle cx="354.3" cy="284.1" r="4" fill="#3465a4"><title>Holman</title></circle></a><a href="/setts/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/"><circle cx="294.1" cy="249.4" r="4" fill="#3465a4"><title>Process Safety Solutions Ltd</title></circle></a><a href="/setts/s7/k25lo5k5dg25k25db3k10~x2/"><circle cx="408.5" cy="273.4" r="4" fill="#3465a4"><title>London Community Gospel Choir, The</title></circle></a><a href="/setts/s13/r3k2db10k10dg12k8dg12k10dg2k10db2k2db2/"><circle cx="260.4" cy="253.7" r="4" fill="#3465a4"><title>Unidentified #10</title></circle></a><a href="/setts/s10/k1db5k4db1dg1db1dg4db5dg1r1~x6/"><circle cx="272.5" cy="263.3" r="4" fill="#3465a4"><title>Nichol (Personal)</title></circle></a><a href="/setts/s6/k5g23k18db21k33db3~x2/"><circle cx="346.4" cy="289.3" r="4" fill="#3465a4"><title>Black Watch (variation)</title></circle></a><a href="/setts/s8/dg8r2dg2r3dg8db12dg2lo2~x2/"><circle cx="276.0" cy="255.2" r="4" fill="#3465a4"><title>Glen Nevis #1</title></circle></a><circle cx="342.4" cy="267.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dt16k13dt7dy3r2dy3dt7k13dt16~x2/

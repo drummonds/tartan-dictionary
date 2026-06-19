@@ -2,12 +2,19 @@
 title: "Stewart dress"
 date: 2023-03-18
 ---
-**Bands:** [WBKYKWKGRKRW](/stripes/wbkykwkgrkrw/) · **Stripes:** [W DB K LY K W K G R K R W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB K LY K W K G R K R W</span></span>
+**Bands:** [WRKRGKWKYKBW](/stripes/wrkrgkwkykbw/) · **Stripes:** [W R K R G K W K LY K DB W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R K R G K W K LY K DB W</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Stewart dress
+- Stuart/Stewart Dress Royal
 
 ## Attestations
 
@@ -318,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -928,12 +938,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Stuart/Stewart Victoria](/setts/s14/r2w24t3w3k6ly1k1w1k1dg8r4k1r2w1~x2/) — ΔT 0.90
 1. [Glenmore Green](/setts/s11/w38k10do2k3w2k3y8o3k2o3w2~x2/) — ΔT 1.11
 1. [Glenmore Pink](/setts/s11/w60dt24o3dt5w3dt5o16o8k3o6w4/) — ΔT 1.14
-1. [Stewart Dress, Grey #1 (Fashion)](/setts/s11/lb52k12r3k3lb3k3do10n8k3n3lb3~x2/) — ΔT 1.18
+1. [Stewart Dress, Grey #1 (Fashion)](/setts/s11/lb52k12r3k3lb3k3do10n8k3n3lb3~x2/) — ΔT 1.19
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w31db4k6ly2k2w2k2dg7r4k2r2w2~x2/"><circle cx="222.1" cy="64.1" r="4" fill="#3465a4"><title>Stuart/Stewart Dress Royal</title></circle></a><a href="/setts/s12/w39db3k6ly3k3w3k3dg8r5k3r3w3~x2/"><circle cx="228.7" cy="69.4" r="4" fill="#3465a4"><title>Stuart/Stewart Dress</title></circle></a><a href="/setts/s12/w15db2k3ly1k1w1k1g3r4k1r1w1~x2/"><circle cx="200.6" cy="68.1" r="4" fill="#3465a4"><title>Stewart Dress MINI Tartan Tartan Number: 11790. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/w39db3k6ly3k3w3k3g8r5k3r3w3~x2/"><circle cx="224.8" cy="66.1" r="4" fill="#3465a4"><title>Stewart Dress (Clan)</title></circle></a><a href="/setts/s14/r2w24t3w3k6ly1k1w1k1g8r4k1r2w1~x2/"><circle cx="212.7" cy="41.1" r="4" fill="#3465a4"><title>Stewart Victoria</title></circle></a><a href="/setts/s14/r2w24b3w3k6lo1k1w1k1g8r4k1r2w1~x4/"><circle cx="217.6" cy="44.5" r="4" fill="#3465a4"><title>Stewart Victoria (Royal)</title></circle></a><a href="/setts/s14/r2w24t3w3k6ly1k1w1k1dg8r4k1r2w1~x2/"><circle cx="219.2" cy="42.4" r="4" fill="#3465a4"><title>Stuart/Stewart Victoria</title></circle></a><a href="/setts/s11/w38k10do2k3w2k3y8o3k2o3w2~x2/"><circle cx="267.5" cy="73.8" r="4" fill="#3465a4"><title>Glenmore Green</title></circle></a><a href="/setts/s11/w60dt24o3dt5w3dt5o16o8k3o6w4/"><circle cx="229.9" cy="79.8" r="4" fill="#3465a4"><title>Glenmore Pink</title></circle></a><a href="/setts/s11/lb52k12r3k3lb3k3do10n8k3n3lb3~x2/"><circle cx="272.8" cy="83.1" r="4" fill="#3465a4"><title>Stewart Dress, Grey #1 (Fashion)</title></circle></a><circle cx="216.1" cy="63.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w31db4k6ly2k2w2k2dg7r4k2r2w2~x2/"><circle cx="221.7" cy="64.0" r="4" fill="#3465a4"><title>Stuart/Stewart Dress Royal</title></circle></a><a href="/setts/s12/w39db3k6ly3k3w3k3dg8r5k3r3w3~x2/"><circle cx="228.2" cy="69.3" r="4" fill="#3465a4"><title>Stuart/Stewart Dress</title></circle></a><a href="/setts/s12/w15db2k3ly1k1w1k1g3r4k1r1w1~x2/"><circle cx="200.2" cy="68.0" r="4" fill="#3465a4"><title>Stewart Dress MINI Tartan Tartan Number: 11790. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/w39db3k6ly3k3w3k3g8r5k3r3w3~x2/"><circle cx="224.3" cy="66.0" r="4" fill="#3465a4"><title>Stewart Dress (Clan)</title></circle></a><a href="/setts/s14/r2w24t3w3k6ly1k1w1k1g8r4k1r2w1~x2/"><circle cx="212.3" cy="41.1" r="4" fill="#3465a4"><title>Stewart Victoria</title></circle></a><a href="/setts/s14/r2w24b3w3k6lo1k1w1k1g8r4k1r2w1~x4/"><circle cx="217.1" cy="44.5" r="4" fill="#3465a4"><title>Stewart Victoria (Royal)</title></circle></a><a href="/setts/s14/r2w24t3w3k6ly1k1w1k1dg8r4k1r2w1~x2/"><circle cx="218.8" cy="42.3" r="4" fill="#3465a4"><title>Stuart/Stewart Victoria</title></circle></a><a href="/setts/s11/w38k10do2k3w2k3y8o3k2o3w2~x2/"><circle cx="267.0" cy="73.7" r="4" fill="#3465a4"><title>Glenmore Green</title></circle></a><a href="/setts/s11/w60dt24o3dt5w3dt5o16o8k3o6w4/"><circle cx="229.5" cy="79.6" r="4" fill="#3465a4"><title>Glenmore Pink</title></circle></a><a href="/setts/s11/lb52k12r3k3lb3k3do10n8k3n3lb3~x2/"><circle cx="272.5" cy="82.9" r="4" fill="#3465a4"><title>Stewart Dress, Grey #1 (Fashion)</title></circle></a><circle cx="215.7" cy="63.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/w31db4k6ly2k2w2k2g7r4k2r2w2~x2/

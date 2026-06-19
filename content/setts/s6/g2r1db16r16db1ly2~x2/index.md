@@ -2,12 +2,18 @@
 title: "Galloway dress"
 date: 2023-03-18
 ---
-**Bands:** [GRBRBY](/stripes/grbrby/) · **Stripes:** [G R DB R DB LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G R DB R DB LY</span></span>
+**Bands:** [YBRBRG](/stripes/ybrbrg/) · **Stripes:** [LY DB R DB R G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY DB R DB R G</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Galloway dress
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/4 R2 B32 R32 B2 Y/4
+Y/4 B2 R32 B32 R2 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -907,7 +916,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/4 R2 B32 R32 B2 Y/4 tartan")
+![Tartan detail](tartan.png "Y/4 B2 R32 B32 R2 G/4 tartan")
 
 ## Nearest tartans
 
@@ -915,8 +924,8 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Galloway Dress (Yellow Line)](/setts/s6/dg2r1db16r16db1ly2~x2/) — ΔT 0.53
 1. [Galloway, dress](/setts/s6/g1r1db16r16db1w1~x2/) — ΔT 0.62
-1. [Robinson, dress](/setts/s6/g1db16r7k1r7k1~x2/) — ΔT 0.72
-1. [Robinson Dress (Pendleton) #1](/setts/s6/g1db16r7k1r7k1~x4/) — ΔT 0.93
+1. [Robinson, dress](/setts/s6/k1r7k1r7db16g1~x2/) — ΔT 0.72
+1. [Robinson Dress (Pendleton) #1](/setts/s6/k1r7k1r7db16g1~x4/) — ΔT 0.93
 1. [Galloway Red](/setts/s6/g3r2db22r22db2w3~x2/) — ΔT 1.03
 1. [Superfast Ferries (Corporate)](/setts/s6/db1r16db6ly4db6w1~x4/) — ΔT 1.13
 1. [Americana - 1978 #2 (Fashion)](/setts/s7/db2r2db28k11r27w2r2~x2/) — ΔT 1.19
@@ -926,8 +935,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dg2r1db16r16db1ly2~x2/"><circle cx="308.6" cy="167.0" r="4" fill="#3465a4"><title>Galloway Dress (Yellow Line)</title></circle></a><a href="/setts/s6/g1r1db16r16db1w1~x2/"><circle cx="353.8" cy="170.5" r="4" fill="#3465a4"><title>Galloway, dress</title></circle></a><a href="/setts/s6/g1db16r7k1r7k1~x2/"><circle cx="325.0" cy="181.4" r="4" fill="#3465a4"><title>Robinson, dress</title></circle></a><a href="/setts/s6/g1db16r7k1r7k1~x4/"><circle cx="329.2" cy="182.2" r="4" fill="#3465a4"><title>Robinson Dress (Pendleton) #1</title></circle></a><a href="/setts/s6/g3r2db22r22db2w3~x2/"><circle cx="277.5" cy="178.8" r="4" fill="#3465a4"><title>Galloway Red</title></circle></a><a href="/setts/s6/db1r16db6ly4db6w1~x4/"><circle cx="279.9" cy="168.4" r="4" fill="#3465a4"><title>Superfast Ferries (Corporate)</title></circle></a><a href="/setts/s7/db2r2db28k11r27w2r2~x2/"><circle cx="270.6" cy="168.1" r="4" fill="#3465a4"><title>Americana - 1978 #2 (Fashion)</title></circle></a><a href="/setts/s7/r28db12r3dg20t2dg2r7~x2/"><circle cx="309.1" cy="185.3" r="4" fill="#3465a4"><title>Carrick (Strathmore) District Tartan Tartan Number: 3216. Earliest known date: c.1999 Sales help Princess Diana Memorial Trust See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r2db12r2g12r24w1~x2/"><circle cx="333.7" cy="163.4" r="4" fill="#3465a4"><title>Fraser (1745)</title></circle></a><a href="/setts/s6/r1db6r1dg6r12w1~x2/"><circle cx="293.7" cy="188.2" r="4" fill="#3465a4"><title>Fraser Red Clan Tartan Tartan Number: 1424. Earliest known date: 1842 Early references include Wilson's of Bannockburn, but Wilson did not name the sett. D W Stewart contends that this is in fact an early Grant tartan which he traced to a portrait of Robert Grant of Lurg (1678-1771), hanging at Troup House before it was closed around 1894. It is undoubtedly the most popular Fraser pattern today. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="316.9" cy="172.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dg2r1db16r16db1ly2~x2/"><circle cx="308.4" cy="166.9" r="4" fill="#3465a4"><title>Galloway Dress (Yellow Line)</title></circle></a><a href="/setts/s6/g1r1db16r16db1w1~x2/"><circle cx="353.6" cy="170.4" r="4" fill="#3465a4"><title>Galloway, dress</title></circle></a><a href="/setts/s6/k1r7k1r7db16g1~x2/"><circle cx="324.9" cy="181.2" r="4" fill="#3465a4"><title>Robinson, dress</title></circle></a><a href="/setts/s6/k1r7k1r7db16g1~x4/"><circle cx="329.1" cy="182.1" r="4" fill="#3465a4"><title>Robinson Dress (Pendleton) #1</title></circle></a><a href="/setts/s6/g3r2db22r22db2w3~x2/"><circle cx="277.4" cy="178.6" r="4" fill="#3465a4"><title>Galloway Red</title></circle></a><a href="/setts/s6/db1r16db6ly4db6w1~x4/"><circle cx="279.6" cy="168.2" r="4" fill="#3465a4"><title>Superfast Ferries (Corporate)</title></circle></a><a href="/setts/s7/db2r2db28k11r27w2r2~x2/"><circle cx="270.5" cy="168.0" r="4" fill="#3465a4"><title>Americana - 1978 #2 (Fashion)</title></circle></a><a href="/setts/s7/r28db12r3dg20t2dg2r7~x2/"><circle cx="308.9" cy="185.2" r="4" fill="#3465a4"><title>Carrick (Strathmore) District Tartan Tartan Number: 3216. Earliest known date: c.1999 Sales help Princess Diana Memorial Trust See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r2db12r2g12r24w1~x2/"><circle cx="333.4" cy="163.2" r="4" fill="#3465a4"><title>Fraser (1745)</title></circle></a><a href="/setts/s6/r1db6r1dg6r12w1~x2/"><circle cx="293.5" cy="188.1" r="4" fill="#3465a4"><title>Fraser Red Clan Tartan Tartan Number: 1424. Earliest known date: 1842 Early references include Wilson's of Bannockburn, but Wilson did not name the sett. D W Stewart contends that this is in fact an early Grant tartan which he traced to a portrait of Robert Grant of Lurg (1678-1771), hanging at Troup House before it was closed around 1894. It is undoubtedly the most popular Fraser pattern today. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="316.6" cy="172.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/g2r1db16r16db1ly2~x2/

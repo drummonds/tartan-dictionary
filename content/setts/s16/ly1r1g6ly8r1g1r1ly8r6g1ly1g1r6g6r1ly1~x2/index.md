@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-Y/2 R2 G12 R12 G2 Y2 G2 R12 Y16 R2 G2 R2 Y16 G12 R2 Y/2
+Y/2 R2 G12 Y16 R2 G2 R2 Y16 R12 G2 Y2 G2 R12 G12 R2 Y/2
 ![Sett](sett.png)
 
 ## Palette
@@ -909,20 +912,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Strathearn (Royal)](/setts/s11/g1r1ly8r6g1ly1g1r6g6r1ly1~x4/) — ΔT 1.13
-1. [Strathearn](/setts/s30/ly1r1g6r6g1ly1g1r6ly8r1g1r1ly8g6r1ly1r1g6ly8r1g1r1ly8r6g1ly1g1r6g6r1~x2/) — ΔT 1.32
+1. [Strathearn](/setts/s30/r1g6r6g1ly1g1r6ly8r1g1r1ly8g6r1ly1r1g6ly8r1g1r1ly8r6g1ly1g1r6g6r1ly1~x2/) — ΔT 1.32
 1. [MacDougall (Lochcarron)](/setts/s19/w6r2g16r3g2r3g6w2r2w2g6r7g6r2g2r16w2r2w2~x2/) — ΔT 1.45
 1. [MacNeish](/setts/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2/) — ΔT 1.73
 1. [Snaefell](/setts/s14/w16dy14y2dy2y2dy2y22dy2y2dy2y2dy14w16dy3~x2/) — ΔT 1.75
 1. [J & B Whisky (Original) (Corporate)](/setts/s10/ly9r3ly12y16w5y16ly6r3ly7r2~x2/) — ΔT 1.80
-1. [Reid of Straloch (Personal)](/setts/s17/o3g3o18b6o4g3w3g18o6b18w3b3o4g6o18g3o3~x2/) — ΔT 1.83
+1. [Reid of Straloch (Personal)](/setts/s17/o3g3o18g6o4b3w3b18o6g18w3g3o4b6o18g3o3~x2/) — ΔT 1.83
 1. [Grant, Champion](/setts/s9/r14ly2r6k1ly14k1g10ly1g10~x2/) — ΔT 1.84
-1. [Scrimgeour of Glassary](/setts/s12/r32k3lo6g10r6k3lo32k3r6g10lo6k3~x2/) — ΔT 1.85
+1. [Scrimgeour of Glassary](/setts/s12/r32k3lo6g10r6k3lo32~x2/) — ΔT 1.85
 1. [Highland Aircraft](/setts/s20/k2lo4lo5lo2lo1k1lo2k12lo2k1lo2lo6lo7lo3lo12lo1lo4lo1lo12lo1~x2/) — ΔT 1.87
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g1r1ly8r6g1ly1g1r6g6r1ly1~x4/"><circle cx="233.4" cy="182.1" r="4" fill="#3465a4"><title>Strathearn (Royal)</title></circle></a><a href="/setts/s30/ly1r1g6r6g1ly1g1r6ly8r1g1r1ly8g6r1ly1r1g6ly8r1g1r1ly8r6g1ly1g1r6g6r1~x2/"><circle cx="182.5" cy="142.8" r="4" fill="#3465a4"><title>Strathearn</title></circle></a><a href="/setts/s19/w6r2g16r3g2r3g6w2r2w2g6r7g6r2g2r16w2r2w2~x2/"><circle cx="229.4" cy="162.7" r="4" fill="#3465a4"><title>MacDougall (Lochcarron)</title></circle></a><a href="/setts/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2/"><circle cx="268.5" cy="163.0" r="4" fill="#3465a4"><title>MacNeish</title></circle></a><a href="/setts/s14/w16dy14y2dy2y2dy2y22dy2y2dy2y2dy14w16dy3~x2/"><circle cx="214.7" cy="158.0" r="4" fill="#3465a4"><title>Snaefell</title></circle></a><a href="/setts/s10/ly9r3ly12y16w5y16ly6r3ly7r2~x2/"><circle cx="186.8" cy="192.8" r="4" fill="#3465a4"><title>J &amp; B Whisky (Original) (Corporate)</title></circle></a><a href="/setts/s17/o3g3o18b6o4g3w3g18o6b18w3b3o4g6o18g3o3~x2/"><circle cx="210.3" cy="175.8" r="4" fill="#3465a4"><title>Reid of Straloch (Personal)</title></circle></a><a href="/setts/s9/r14ly2r6k1ly14k1g10ly1g10~x2/"><circle cx="179.6" cy="161.7" r="4" fill="#3465a4"><title>Grant, Champion</title></circle></a><a href="/setts/s12/r32k3lo6g10r6k3lo32k3r6g10lo6k3~x2/"><circle cx="212.4" cy="149.3" r="4" fill="#3465a4"><title>Scrimgeour of Glassary</title></circle></a><a href="/setts/s20/k2lo4lo5lo2lo1k1lo2k12lo2k1lo2lo6lo7lo3lo12lo1lo4lo1lo12lo1~x2/"><circle cx="155.7" cy="114.9" r="4" fill="#3465a4"><title>Highland Aircraft</title></circle></a><circle cx="203.7" cy="167.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g1r1ly8r6g1ly1g1r6g6r1ly1~x4/"><circle cx="232.9" cy="182.0" r="4" fill="#3465a4"><title>Strathearn (Royal)</title></circle></a><a href="/setts/s30/r1g6r6g1ly1g1r6ly8r1g1r1ly8g6r1ly1r1g6ly8r1g1r1ly8r6g1ly1g1r6g6r1ly1~x2/"><circle cx="182.0" cy="142.8" r="4" fill="#3465a4"><title>Strathearn</title></circle></a><a href="/setts/s19/w6r2g16r3g2r3g6w2r2w2g6r7g6r2g2r16w2r2w2~x2/"><circle cx="229.0" cy="162.6" r="4" fill="#3465a4"><title>MacDougall (Lochcarron)</title></circle></a><a href="/setts/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2/"><circle cx="268.1" cy="162.8" r="4" fill="#3465a4"><title>MacNeish</title></circle></a><a href="/setts/s14/w16dy14y2dy2y2dy2y22dy2y2dy2y2dy14w16dy3~x2/"><circle cx="214.4" cy="157.9" r="4" fill="#3465a4"><title>Snaefell</title></circle></a><a href="/setts/s10/ly9r3ly12y16w5y16ly6r3ly7r2~x2/"><circle cx="186.4" cy="192.7" r="4" fill="#3465a4"><title>J &amp; B Whisky (Original) (Corporate)</title></circle></a><a href="/setts/s17/o3g3o18g6o4b3w3b18o6g18w3g3o4b6o18g3o3~x2/"><circle cx="209.9" cy="175.7" r="4" fill="#3465a4"><title>Reid of Straloch (Personal)</title></circle></a><a href="/setts/s9/r14ly2r6k1ly14k1g10ly1g10~x2/"><circle cx="179.2" cy="161.7" r="4" fill="#3465a4"><title>Grant, Champion</title></circle></a><a href="/setts/s12/r32k3lo6g10r6k3lo32~x2/"><circle cx="212.0" cy="149.3" r="4" fill="#3465a4"><title>Scrimgeour of Glassary</title></circle></a><a href="/setts/s20/k2lo4lo5lo2lo1k1lo2k12lo2k1lo2lo6lo7lo3lo12lo1lo4lo1lo12lo1~x2/"><circle cx="155.3" cy="115.0" r="4" fill="#3465a4"><title>Highland Aircraft</title></circle></a><circle cx="203.2" cy="167.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/ly1r1g6ly8r1g1r1ly8r6g1ly1g1r6g6r1ly1~x2/

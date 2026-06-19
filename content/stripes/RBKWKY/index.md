@@ -25,8 +25,8 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Thomson Dress (Blue)](/setts/s6/ly1k4w4k2b10r1~x6/)|
-|![Thomson Dress (Blue) example sett](/setts/s6/ly1k4w4k2b10r1~x6/sett.png)|
+| [Thomson Dress (Blue)](/setts/s6/r1b10k2w4k4ly1~x6/)|
+|![Thomson Dress (Blue) example sett](/setts/s6/r1b10k2w4k4ly1~x6/sett.png)|
 
 ### R T K LB K LO <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R T K LB K LO</span></span>
 

@@ -9,6 +9,12 @@ This was sourced from house-of-tartan.  It is a [12 band tartan](/bands/bands12/
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2103
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Queens University, of Ontario
+
 ## Thread count
 DB/54 Y9 DB16 Y2 P3 LN3 P3 R27 DB13 Y3 G5 LN/2
 ![Sett](sett.png)
@@ -31,7 +37,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Queens University, of Ontario](/setts/s12/db54ly9db16ly2p3w3p3r27db13ly3g5w2/) — ΔT 0.80
 1. [Queen's University Ont. (Corporate)](/setts/s12/db54lo9db16lo2dp3w3dp3r27db13lo3g5w2~x2/) — ΔT 0.91
-1. [Selkirk High (Corporate)](/setts/s10/w3m18k18ly1r2b2r2ly1m18b2~x2/) — ΔT 1.17
+1. [Selkirk High (Corporate)](/setts/s10/w3m18k18ly1r2b2r2ly1m18b2~x2/) — ΔT 1.18
 1. [Stewart Blue MINI Tartan Tartan Number: 5566. Earliest known date: Generated for display purpose only for Dupion Silk. reduced copy of the 556 Stewart Blue. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/db20k3ly1w1g3r3k1r2w1~x2/) — ΔT 1.18
 1. [Wcwm 9275-1510-5](/setts/s10/dp60lo2dp10k9lb2k2b2k2y28lo3~x2/) — ΔT 1.25
 1. [Blais (Personal)](/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x2/) — ΔT 1.26
@@ -42,8 +48,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db54ly9db16ly2p3w3p3r27db13ly3g5w2/"><circle cx="298.7" cy="77.5" r="4" fill="#3465a4"><title>Queens University, of Ontario</title></circle></a><a href="/setts/s12/db54lo9db16lo2dp3w3dp3r27db13lo3g5w2~x2/"><circle cx="333.6" cy="93.1" r="4" fill="#3465a4"><title>Queen's University Ont. (Corporate)</title></circle></a><a href="/setts/s10/w3m18k18ly1r2b2r2ly1m18b2~x2/"><circle cx="261.4" cy="102.3" r="4" fill="#3465a4"><title>Selkirk High (Corporate)</title></circle></a><a href="/setts/s9/db20k3ly1w1g3r3k1r2w1~x2/"><circle cx="306.0" cy="96.8" r="4" fill="#3465a4"><title>Stewart Blue MINI Tartan Tartan Number: 5566. Earliest known date: Generated for display purpose only for Dupion Silk. reduced copy of the 556 Stewart Blue. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/dp60lo2dp10k9lb2k2b2k2y28lo3~x2/"><circle cx="354.0" cy="77.1" r="4" fill="#3465a4"><title>Wcwm 9275-1510-5</title></circle></a><a href="/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x2/"><circle cx="267.9" cy="82.1" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/setts/s10/dp4db20ly1db2ly1db4ly4g4w4r4~x2/"><circle cx="245.7" cy="101.9" r="4" fill="#3465a4"><title>Yukon District Tartan Tartan Number: 1907. Earliest known date: 1984 Lord Lyon records a symetrical version. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/m18k18ly1r2b2r2ly1m18b2m18ly1r2b2r2ly1k18m18w3~x2/"><circle cx="267.8" cy="83.0" r="4" fill="#3465a4"><title>Selkirk High School</title></circle></a><a href="/setts/s11/db20ly1o1db3k1y2k1r10k1y2r4~x2/"><circle cx="283.6" cy="95.1" r="4" fill="#3465a4"><title>Blais</title></circle></a><a href="/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x4/"><circle cx="285.7" cy="95.1" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><circle cx="312.2" cy="77.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db54ly9db16ly2p3w3p3r27db13ly3g5w2/"><circle cx="298.6" cy="77.4" r="4" fill="#3465a4"><title>Queens University, of Ontario</title></circle></a><a href="/setts/s12/db54lo9db16lo2dp3w3dp3r27db13lo3g5w2~x2/"><circle cx="333.5" cy="93.1" r="4" fill="#3465a4"><title>Queen's University Ont. (Corporate)</title></circle></a><a href="/setts/s10/w3m18k18ly1r2b2r2ly1m18b2~x2/"><circle cx="261.2" cy="102.3" r="4" fill="#3465a4"><title>Selkirk High (Corporate)</title></circle></a><a href="/setts/s9/db20k3ly1w1g3r3k1r2w1~x2/"><circle cx="305.8" cy="96.8" r="4" fill="#3465a4"><title>Stewart Blue MINI Tartan Tartan Number: 5566. Earliest known date: Generated for display purpose only for Dupion Silk. reduced copy of the 556 Stewart Blue. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/dp60lo2dp10k9lb2k2b2k2y28lo3~x2/"><circle cx="353.7" cy="77.1" r="4" fill="#3465a4"><title>Wcwm 9275-1510-5</title></circle></a><a href="/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x2/"><circle cx="267.7" cy="82.1" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/setts/s10/dp4db20ly1db2ly1db4ly4g4w4r4~x2/"><circle cx="245.5" cy="101.9" r="4" fill="#3465a4"><title>Yukon District Tartan Tartan Number: 1907. Earliest known date: 1984 Lord Lyon records a symetrical version. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/m18k18ly1r2b2r2ly1m18b2m18ly1r2b2r2ly1k18m18w3~x2/"><circle cx="267.5" cy="82.9" r="4" fill="#3465a4"><title>Selkirk High School</title></circle></a><a href="/setts/s11/db20ly1o1db3k1y2k1r10k1y2r4~x2/"><circle cx="283.4" cy="95.2" r="4" fill="#3465a4"><title>Blais</title></circle></a><a href="/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x4/"><circle cx="285.5" cy="95.2" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><circle cx="312.0" cy="77.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/db54ly9db16ly2dp3w3dp3r27db13ly3g5w2/

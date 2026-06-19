@@ -8,7 +8,7 @@ RYRRRRW
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/lb6o3o3o20o20ly3o6~x2/tartan.png)
+![Woven sample](/setts/s7/o6ly3o20o20o3o3lb6~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RYRRRRW
 
 | Tartans |
 |---------------|
-| [Banff](/setts/s7/lb6o3o3o20o20ly3o6~x2/)|
-|![Banff example sett](/setts/s7/lb6o3o3o20o20ly3o6~x2/sett.png)|
+| [Banff](/setts/s7/o6ly3o20o20o3o3lb6~x2/)|
+|![Banff example sett](/setts/s7/o6ly3o20o20o3o3lb6~x2/sett.png)|
 

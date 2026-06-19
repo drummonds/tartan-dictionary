@@ -2,12 +2,18 @@
 title: "Essex, County Ontario"
 date: 2023-03-18
 ---
-**Bands:** [WRBGGGKRKY](/stripes/wrbgggkrky/) · **Stripes:** [W R T DG G G K R K LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W R T DG G G K R K LY</span></span>
+**Bands:** [YKRKGGGBRW](/stripes/ykrkgggbrw/) · **Stripes:** [LY K R K G G DG T R W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K R K G G DG T R W</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Essex, County Ontario
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 R4 B12 DG8 Ga10 G6 K2 R8 K2 Y/60
+Y/60 K2 R8 K2 G6 Ga10 DG8 B12 R4 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -914,20 +923,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Essex County (Ontario)](/setts/s10/ly30k1r4k1g3dg5dg4t6r2lb2~x2/) — ΔT 0.99
-1. [Saskatchewan District Tartan Tartan Number: 1817. Earliest known date: 1959 The colours chosen are the same as those for the flag. Red for the Blood of Christ, blue for the Heavenly Father, yellow for Fire of the Holy Spirit when tongues of fire symbolized his presence at Penticost. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/ly2ly1r2ly26dy11g6k1w2~x2/) — ΔT 1.22
+1. [Saskatchewan District Tartan Tartan Number: 1817. Earliest known date: 1959 The colours chosen are the same as those for the flag. Red for the Blood of Christ, blue for the Heavenly Father, yellow for Fire of the Holy Spirit when tongues of fire symbolized his presence at Penticost. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/w2k1g6dy11ly26r2ly1ly2~x2/) — ΔT 1.22
 1. [Baxter Clan Tartan Tartan Number: 175. Earliest known date: 1856 A discription of this sett is given in The Baronage of Angus and Mearns (1856). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/w2r16k1t2k1ly43k1t2k1g16t1~x2/) — ΔT 1.88
-1. [Saskatchewan (District)](/setts/s8/ly2lo1r2lo26dy11g6k1w2~x2/) — ΔT 1.93
+1. [Saskatchewan (District)](/setts/s8/w2k1g6dy11lo26r2lo1ly2~x2/) — ΔT 1.93
 1. [McAleavy (2014)](/setts/s11/y56lb6ly6ly2w2ly2w16lb10w2y6r3~x2/) — ΔT 2.05
 1. [Victoria (Yellow)](/setts/s14/r6ly60db12ly6k12ly2k2w2k2g18r18k3r4w2~x2/) — ΔT 2.10
-1. [Saskatchewan](/setts/s8/ly2lo1r2lo26o11dg6k1w2~x2/) — ΔT 2.13
+1. [Saskatchewan](/setts/s8/w2k1dg6o11lo26r2lo1ly2~x2/) — ΔT 2.13
 1. [Nor'Westers](/setts/s9/k1g30dy2ly4dy2w12r2b6k1~x2/) — ΔT 2.14
 1. [McAleavy (2014)](/setts/s11/y56lr6w6ly2w2ly2w16lr10w2y6r3~x2/) — ΔT 2.22
 1. [MacLean of Duart Dress #4](/setts/s12/y10lb2dy4ly2dy3w3dy3o18w30n2w4dy2~x2/) — ΔT 2.28
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly30k1r4k1g3dg5dg4t6r2lb2~x2/"><circle cx="236.5" cy="37.7" r="4" fill="#3465a4"><title>Essex County (Ontario)</title></circle></a><a href="/setts/s8/ly2ly1r2ly26dy11g6k1w2~x2/"><circle cx="256.0" cy="68.1" r="4" fill="#3465a4"><title>Saskatchewan District Tartan Tartan Number: 1817. Earliest known date: 1959 The colours chosen are the same as those for the flag. Red for the Blood of Christ, blue for the Heavenly Father, yellow for Fire of the Holy Spirit when tongues of fire symbolized his presence at Penticost. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w2r16k1t2k1ly43k1t2k1g16t1~x2/"><circle cx="281.6" cy="33.3" r="4" fill="#3465a4"><title>Baxter Clan Tartan Tartan Number: 175. Earliest known date: 1856 A discription of this sett is given in The Baronage of Angus and Mearns (1856). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/ly2lo1r2lo26dy11g6k1w2~x2/"><circle cx="289.6" cy="87.2" r="4" fill="#3465a4"><title>Saskatchewan (District)</title></circle></a><a href="/setts/s11/y56lb6ly6ly2w2ly2w16lb10w2y6r3~x2/"><circle cx="294.6" cy="59.6" r="4" fill="#3465a4"><title>McAleavy (2014)</title></circle></a><a href="/setts/s14/r6ly60db12ly6k12ly2k2w2k2g18r18k3r4w2~x2/"><circle cx="210.8" cy="37.8" r="4" fill="#3465a4"><title>Victoria (Yellow)</title></circle></a><a href="/setts/s8/ly2lo1r2lo26o11dg6k1w2~x2/"><circle cx="292.0" cy="83.4" r="4" fill="#3465a4"><title>Saskatchewan</title></circle></a><a href="/setts/s9/k1g30dy2ly4dy2w12r2b6k1~x2/"><circle cx="233.7" cy="62.9" r="4" fill="#3465a4"><title>Nor'Westers</title></circle></a><a href="/setts/s11/y56lr6w6ly2w2ly2w16lr10w2y6r3~x2/"><circle cx="293.6" cy="60.3" r="4" fill="#3465a4"><title>McAleavy (2014)</title></circle></a><a href="/setts/s12/y10lb2dy4ly2dy3w3dy3o18w30n2w4dy2~x2/"><circle cx="166.3" cy="67.9" r="4" fill="#3465a4"><title>MacLean of Duart Dress #4</title></circle></a><circle cx="216.6" cy="24.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly30k1r4k1g3dg5dg4t6r2lb2~x2/"><circle cx="236.2" cy="37.8" r="4" fill="#3465a4"><title>Essex County (Ontario)</title></circle></a><a href="/setts/s8/w2k1g6dy11ly26r2ly1ly2~x2/"><circle cx="255.5" cy="68.1" r="4" fill="#3465a4"><title>Saskatchewan District Tartan Tartan Number: 1817. Earliest known date: 1959 The colours chosen are the same as those for the flag. Red for the Blood of Christ, blue for the Heavenly Father, yellow for Fire of the Holy Spirit when tongues of fire symbolized his presence at Penticost. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w2r16k1t2k1ly43k1t2k1g16t1~x2/"><circle cx="281.0" cy="33.3" r="4" fill="#3465a4"><title>Baxter Clan Tartan Tartan Number: 175. Earliest known date: 1856 A discription of this sett is given in The Baronage of Angus and Mearns (1856). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/w2k1g6dy11lo26r2lo1ly2~x2/"><circle cx="289.2" cy="87.2" r="4" fill="#3465a4"><title>Saskatchewan (District)</title></circle></a><a href="/setts/s11/y56lb6ly6ly2w2ly2w16lb10w2y6r3~x2/"><circle cx="294.1" cy="59.5" r="4" fill="#3465a4"><title>McAleavy (2014)</title></circle></a><a href="/setts/s14/r6ly60db12ly6k12ly2k2w2k2g18r18k3r4w2~x2/"><circle cx="210.4" cy="37.9" r="4" fill="#3465a4"><title>Victoria (Yellow)</title></circle></a><a href="/setts/s8/w2k1dg6o11lo26r2lo1ly2~x2/"><circle cx="291.5" cy="83.5" r="4" fill="#3465a4"><title>Saskatchewan</title></circle></a><a href="/setts/s9/k1g30dy2ly4dy2w12r2b6k1~x2/"><circle cx="233.4" cy="62.9" r="4" fill="#3465a4"><title>Nor'Westers</title></circle></a><a href="/setts/s11/y56lr6w6ly2w2ly2w16lr10w2y6r3~x2/"><circle cx="293.1" cy="60.3" r="4" fill="#3465a4"><title>McAleavy (2014)</title></circle></a><a href="/setts/s12/y10lb2dy4ly2dy3w3dy3o18w30n2w4dy2~x2/"><circle cx="165.9" cy="68.0" r="4" fill="#3465a4"><title>MacLean of Duart Dress #4</title></circle></a><circle cx="216.1" cy="24.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/ly30k1r4k1g3g5dg4t6r2w2~x2/

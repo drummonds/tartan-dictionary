@@ -18,7 +18,7 @@ BGKYKGBGKYKG
 
 
 
-### DB DG K LY K DG DB DG K LY K DG <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">DB DG K LY K DG DB DG K LY K DG</span></span>
+### DG K LY K DG DB DG K LY K DG DB <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">DG K LY K DG DB DG K LY K DG DB</span></span>
 
 | Tartans |
 |---------------|

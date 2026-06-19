@@ -2,12 +2,18 @@
 title: "Scottish National Dress"
 date: 2023-03-18
 ---
-**Bands:** [BWBRBKGKGKGBWR](/stripes/bwbrbkgkgkgbwr/) · **Stripes:** [DB W DB R DB K G K G K G DB W R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB W DB R DB K G K G K G DB W R</span></span>
+**Bands:** [RWBGKGKGKBRBWB](/stripes/rwbgkgkgkbrbwb/) · **Stripes:** [R W DB G K G K G K DB R DB W DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R W DB G K G K G K DB R DB W DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3731
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Scotland's National, Dress
 
 ## Attestations
 
@@ -49,7 +55,7 @@ The nearest existing variants by ΔTartan distance.
 1. [MacKenzie Dress - 1950 (Clan)](/setts/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/) — ΔT 0.59
 1. [Gordon, dress 4](/setts/s13/w20k3w3k3w3k16g17ly5g17k16db16k3db3~x2/) — ΔT 0.72
 1. [MacSporran](/setts/s13/db17r3db4r5db20r3k20g20r5g4r3k3ly11~x2/) — ΔT 0.76
-1. [Soutar/Souter](/setts/s16/k20w3r10dg20r3k3t20w3k20w3t20k3r3dg20r10w3~x2/) — ΔT 0.79
+1. [Soutar/Souter](/setts/s16/k20w3t20k3r3dg20r10w3k20~x2/) — ΔT 0.79
 1. [Kinloch Anderson, hunting](/setts/s12/m4g14o2g4o2k6g3k6db14m2db4m4~x2/) — ΔT 0.83
 1. [Gordon Dress](/setts/s13/db4k4db10k10dg13ly3dg13k10w4db4w16db2w3~x2/) — ΔT 0.83
 1. [Denovan, The Lairdship of..](/setts/s12/db10p2db3r4db14r2k14g14r4g3p2g10~x2/) — ΔT 0.84
@@ -57,8 +63,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/w20k3w3k3w3k16dg17ly5dg17k16db16k3db3~x2/"><circle cx="72.4" cy="171.9" r="4" fill="#3465a4"><title>Gordon Dress #2</title></circle></a><a href="/setts/s13/db2r2db12k5dg12r2dg2r2dg12k5w14r2w2~x2/"><circle cx="82.0" cy="159.3" r="4" fill="#3465a4"><title>Blair Dress</title></circle></a><a href="/setts/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="76.1" cy="166.6" r="4" fill="#3465a4"><title>MacKenzie Dress - 1950 (Clan)</title></circle></a><a href="/setts/s13/w20k3w3k3w3k16g17ly5g17k16db16k3db3~x2/"><circle cx="59.2" cy="167.6" r="4" fill="#3465a4"><title>Gordon, dress 4</title></circle></a><a href="/setts/s13/db17r3db4r5db20r3k20g20r5g4r3k3ly11~x2/"><circle cx="87.2" cy="165.7" r="4" fill="#3465a4"><title>MacSporran</title></circle></a><a href="/setts/s16/k20w3r10dg20r3k3t20w3k20w3t20k3r3dg20r10w3~x2/"><circle cx="64.9" cy="161.5" r="4" fill="#3465a4"><title>Soutar/Souter</title></circle></a><a href="/setts/s12/m4g14o2g4o2k6g3k6db14m2db4m4~x2/"><circle cx="92.3" cy="180.1" r="4" fill="#3465a4"><title>Kinloch Anderson, hunting</title></circle></a><a href="/setts/s13/db4k4db10k10dg13ly3dg13k10w4db4w16db2w3~x2/"><circle cx="45.0" cy="173.9" r="4" fill="#3465a4"><title>Gordon Dress</title></circle></a><a href="/setts/s12/db10p2db3r4db14r2k14g14r4g3p2g10~x2/"><circle cx="100.8" cy="184.2" r="4" fill="#3465a4"><title>Denovan, The Lairdship of..</title></circle></a><a href="/setts/s13/db4k4db10k10g12lo2g12k10w4db4w16db3w2~x2/"><circle cx="40.1" cy="173.1" r="4" fill="#3465a4"><title>Gordon Dress (1965)</title></circle></a><circle cx="71.8" cy="166.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/w20k3w3k3w3k16dg17ly5dg17k16db16k3db3~x2/"><circle cx="72.4" cy="172.0" r="4" fill="#3465a4"><title>Gordon Dress #2</title></circle></a><a href="/setts/s13/db2r2db12k5dg12r2dg2r2dg12k5w14r2w2~x2/"><circle cx="82.1" cy="159.3" r="4" fill="#3465a4"><title>Blair Dress</title></circle></a><a href="/setts/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="76.2" cy="166.6" r="4" fill="#3465a4"><title>MacKenzie Dress - 1950 (Clan)</title></circle></a><a href="/setts/s13/w20k3w3k3w3k16g17ly5g17k16db16k3db3~x2/"><circle cx="59.3" cy="167.6" r="4" fill="#3465a4"><title>Gordon, dress 4</title></circle></a><a href="/setts/s13/db17r3db4r5db20r3k20g20r5g4r3k3ly11~x2/"><circle cx="87.3" cy="165.7" r="4" fill="#3465a4"><title>MacSporran</title></circle></a><a href="/setts/s16/k20w3t20k3r3dg20r10w3k20~x2/"><circle cx="65.0" cy="161.7" r="4" fill="#3465a4"><title>Soutar/Souter</title></circle></a><a href="/setts/s12/m4g14o2g4o2k6g3k6db14m2db4m4~x2/"><circle cx="92.4" cy="180.2" r="4" fill="#3465a4"><title>Kinloch Anderson, hunting</title></circle></a><a href="/setts/s13/db4k4db10k10dg13ly3dg13k10w4db4w16db2w3~x2/"><circle cx="45.1" cy="174.0" r="4" fill="#3465a4"><title>Gordon Dress</title></circle></a><a href="/setts/s12/db10p2db3r4db14r2k14g14r4g3p2g10~x2/"><circle cx="100.9" cy="184.3" r="4" fill="#3465a4"><title>Denovan, The Lairdship of..</title></circle></a><a href="/setts/s13/db4k4db10k10g12lo2g12k10w4db4w16db3w2~x2/"><circle cx="40.2" cy="173.2" r="4" fill="#3465a4"><title>Gordon Dress (1965)</title></circle></a><circle cx="71.9" cy="166.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/db12w2db2r2db3k11g12k2g3k2g12db12w13r2~x2/

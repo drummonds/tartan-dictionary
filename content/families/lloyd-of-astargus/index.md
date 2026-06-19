@@ -8,7 +8,7 @@ A family of [Clan Lloyd](/clan/lloyd/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s6/lo2o20w2k13db61r2~x2/"><img src="/setts/s6/lo2o20w2k13db61r2~x2/sett.png" alt="Lloyd of Astargus" width="240"><br>Lloyd of Astargus</a>
+<a class="tartan" href="/setts/s6/r2db61k13w2o20lo2~x2/"><img src="/setts/s6/r2db61k13w2o20lo2~x2/sett.png" alt="Lloyd of Astargus" width="240"><br>Lloyd of Astargus</a>
 
 ## Other tartans
 

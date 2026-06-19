@@ -2,19 +2,12 @@
 title: "MacDonell of Keppoch"
 date: 2023-03-18
 ---
-**Bands:** [BRGRBBRBRG](/stripes/brgrbbrbrg/) · **Stripes:** [DB R DG R DB B R DB R DG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">DB R DG R DB B R DB R DG</span></span>
+**Bands:** [GRBRBBRGRB](/stripes/grbrbbrgrb/) · **Stripes:** [DG R DB R B DB R DG R DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DG R DB R B DB R DG R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
-
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacDonell of Keppoch (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — MacDonell of Keppoch (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Register references
 
@@ -59,8 +52,15 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
 
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [MacDonell of Keppoch](/setts/s10/dg2r2db1r24b1db6r3dg12r4db1/)
+
+
 ## Thread count
-DB/2 DR8 DG24 DR6 DB12 B2 DR48 DB2 DR4 DG/4
+DG/4 DR4 DB2 DR48 B2 DB12 DR6 DG24 DR8 DB/2
 ![Sett](sett.png)
 
 ## Palette
@@ -77,21 +77,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
+1. [MacDonell of Keppoch](/setts/s10/dg2r2db1r24b1db6r3dg12r4db1/) — ΔT 0.00
 1. [MacDonell of Keppoch](/setts/s10/dg2r2db1r24t1db6r3dg12r4db1~x2/) — ΔT 0.77
-1. [Chisholm D](/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1~x2/) — ΔT 0.79
+1. [Chisholm D](/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1/) — ΔT 0.79
 1. [MacGillivray](/setts/s13/r4b1db1r32b2r2db12r2dg16r4b1r4db2~x2/) — ΔT 0.84
+1. [MacGillivray](/setts/s13/r4b1db1r32b2r2db12r2dg16r4b1r4db2/) — ΔT 0.84
 1. [Hughes (Welsh Name)](/setts/s11/g4r34dt20r4dt8r6db2r5dt2r3g4/) — ΔT 0.86
 1. [Scott](/setts/s10/dg4r3k1r28dg14r4dg4lr3dg4r4~x2/) — ΔT 0.87
-1. [Scott](/setts/s10/dg4r3k1r28dg14r4dg4lr3dg4r4/) — ΔT 0.87
 1. [Cumming VS](/setts/s10/r4dg8lr1dg8r4dg4r2dg4r24k2~x2/) — ΔT 0.94
+1. [MacDonell of Keppoch](/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1/) — ΔT 0.95
 1. [MacDonell of Keppoch](/setts/s10/g2r2db1r24t1db6r3g12r4db1~x2/) — ΔT 0.95
-1. [MacDonell of Keppoch](/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/) — ΔT 0.95
-1. [Chisholm](/setts/s10/r6w1r24db6g2db1g2db1g12r1~x2/) — ΔT 0.95
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dg2r2db1r24t1db6r3dg12r4db1~x2/"><circle cx="400.9" cy="130.6" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1~x2/"><circle cx="373.5" cy="125.6" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/setts/s13/r4b1db1r32b2r2db12r2dg16r4b1r4db2~x2/"><circle cx="391.2" cy="105.8" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/setts/s11/g4r34dt20r4dt8r6db2r5dt2r3g4/"><circle cx="366.5" cy="144.7" r="4" fill="#3465a4"><title>Hughes (Welsh Name)</title></circle></a><a href="/setts/s10/dg4r3k1r28dg14r4dg4lr3dg4r4~x2/"><circle cx="408.9" cy="141.3" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s10/dg4r3k1r28dg14r4dg4lr3dg4r4/"><circle cx="408.9" cy="141.3" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s10/r4dg8lr1dg8r4dg4r2dg4r24k2~x2/"><circle cx="395.7" cy="152.9" r="4" fill="#3465a4"><title>Cumming VS</title></circle></a><a href="/setts/s10/g2r2db1r24t1db6r3g12r4db1~x2/"><circle cx="396.1" cy="130.3" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/"><circle cx="375.0" cy="119.9" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s10/r6w1r24db6g2db1g2db1g12r1~x2/"><circle cx="365.1" cy="123.1" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><circle cx="398.5" cy="136.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dg2r2db1r24b1db6r3dg12r4db1/"><circle cx="398.2" cy="136.1" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s10/dg2r2db1r24t1db6r3dg12r4db1~x2/"><circle cx="400.5" cy="130.5" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1/"><circle cx="373.1" cy="125.5" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/setts/s13/r4b1db1r32b2r2db12r2dg16r4b1r4db2~x2/"><circle cx="390.9" cy="105.8" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/setts/s13/r4b1db1r32b2r2db12r2dg16r4b1r4db2/"><circle cx="390.9" cy="105.8" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/setts/s11/g4r34dt20r4dt8r6db2r5dt2r3g4/"><circle cx="366.1" cy="144.7" r="4" fill="#3465a4"><title>Hughes (Welsh Name)</title></circle></a><a href="/setts/s10/dg4r3k1r28dg14r4dg4lr3dg4r4~x2/"><circle cx="408.5" cy="141.2" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s10/r4dg8lr1dg8r4dg4r2dg4r24k2~x2/"><circle cx="395.4" cy="152.8" r="4" fill="#3465a4"><title>Cumming VS</title></circle></a><a href="/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1/"><circle cx="374.6" cy="119.7" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s10/g2r2db1r24t1db6r3g12r4db1~x2/"><circle cx="395.6" cy="130.2" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><circle cx="398.2" cy="136.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/dg2r2db1r24b1db6r3dg12r4db1~x2/

@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Campbell, 42nd dress
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/4 K2 B16 K14 G16 K4 G16 K14 LN6 B6 LN30 K4 LN/6
+LN/6 K4 LN30 B6 LN6 K14 G16 K4 G16 K14 B16 K2 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -922,8 +931,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db2k2db8k8g12k1w2k1g12k8w3db3w14db2w2~x2/"><circle cx="105.2" cy="139.2" r="4" fill="#3465a4"><title>Forbes Dress</title></circle></a><a href="/setts/s13/w3k2w15b3w3k7g8k2g8k7b8k1b2~x2/"><circle cx="108.2" cy="152.8" r="4" fill="#3465a4"><title>Campbell, 42nd Dress (Balhousie)</title></circle></a><a href="/setts/s13/db6k5db10k10g13k3g13k10w4db4w18db2w3~x2/"><circle cx="61.3" cy="183.2" r="4" fill="#3465a4"><title>Sutherland, dress</title></circle></a><a href="/setts/s20/k8db10k2db2k2db10k8g11k2g11k8w2db2w14db1w3db1w14db2w2~x2/"><circle cx="94.7" cy="129.8" r="4" fill="#3465a4"><title>Campbell, Forty Second</title></circle></a><a href="/setts/s12/w5db1w16db4w4k6g10r2g10k6db10r2~x2/"><circle cx="90.9" cy="141.7" r="4" fill="#3465a4"><title>Murray of Atholl Dress</title></circle></a><a href="/setts/s15/w16db3w3db3w3k16g13k1w3k1g13k16db16k1r3~x2/"><circle cx="96.4" cy="119.2" r="4" fill="#3465a4"><title>MacKenzie, dress</title></circle></a><a href="/setts/s10/g16w8dg2w1dg2w4dg24w8db16w4~x2/"><circle cx="144.8" cy="135.0" r="4" fill="#3465a4"><title>Spirit of Pakistan, The</title></circle></a><a href="/setts/s15/w16db3w3db3w3k16dg13k1w3k1dg13k16db16k1r3~x2/"><circle cx="109.2" cy="123.2" r="4" fill="#3465a4"><title>MacKenzie Dress #2</title></circle></a><a href="/setts/s20/k8b10k2b2k2b10k8g11k2g11k8w2b2w14b1w3b1w14b2w2~x2/"><circle cx="93.7" cy="127.2" r="4" fill="#3465a4"><title>Campbell, The 42nd Dress</title></circle></a><a href="/setts/s15/db4k2db16k12dg16k2lb4k2dg16k12lb4db4lb16db2lb1~x2/"><circle cx="108.5" cy="147.8" r="4" fill="#3465a4"><title>Forbes Dress</title></circle></a><circle cx="99.4" cy="151.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db2k2db8k8g12k1w2k1g12k8w3db3w14db2w2~x2/"><circle cx="105.1" cy="139.2" r="4" fill="#3465a4"><title>Forbes Dress</title></circle></a><a href="/setts/s13/w3k2w15b3w3k7g8k2g8k7b8k1b2~x2/"><circle cx="108.1" cy="152.7" r="4" fill="#3465a4"><title>Campbell, 42nd Dress (Balhousie)</title></circle></a><a href="/setts/s13/db6k5db10k10g13k3g13k10w4db4w18db2w3~x2/"><circle cx="61.4" cy="183.2" r="4" fill="#3465a4"><title>Sutherland, dress</title></circle></a><a href="/setts/s20/k8db10k2db2k2db10k8g11k2g11k8w2db2w14db1w3db1w14db2w2~x2/"><circle cx="94.7" cy="129.8" r="4" fill="#3465a4"><title>Campbell, Forty Second</title></circle></a><a href="/setts/s12/w5db1w16db4w4k6g10r2g10k6db10r2~x2/"><circle cx="90.9" cy="141.7" r="4" fill="#3465a4"><title>Murray of Atholl Dress</title></circle></a><a href="/setts/s15/w16db3w3db3w3k16g13k1w3k1g13k16db16k1r3~x2/"><circle cx="96.4" cy="119.2" r="4" fill="#3465a4"><title>MacKenzie, dress</title></circle></a><a href="/setts/s10/g16w8dg2w1dg2w4dg24w8db16w4~x2/"><circle cx="144.7" cy="134.9" r="4" fill="#3465a4"><title>Spirit of Pakistan, The</title></circle></a><a href="/setts/s15/w16db3w3db3w3k16dg13k1w3k1dg13k16db16k1r3~x2/"><circle cx="109.2" cy="123.3" r="4" fill="#3465a4"><title>MacKenzie Dress #2</title></circle></a><a href="/setts/s20/k8b10k2b2k2b10k8g11k2g11k8w2b2w14b1w3b1w14b2w2~x2/"><circle cx="93.6" cy="127.2" r="4" fill="#3465a4"><title>Campbell, The 42nd Dress</title></circle></a><a href="/setts/s15/db4k2db16k12dg16k2lb4k2dg16k12lb4db4lb16db2lb1~x2/"><circle cx="108.6" cy="147.8" r="4" fill="#3465a4"><title>Forbes Dress</title></circle></a><circle cx="99.4" cy="151.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/

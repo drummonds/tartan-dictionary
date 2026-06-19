@@ -18,7 +18,7 @@ BGGKBKBGG
 
 
 
-### N G DG K N K N DG G <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="seq">N G DG K N K N DG G</span></span>
+### G DG N K N K DG G N <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="seq">G DG N K N K DG G N</span></span>
 
 | Tartans |
 |---------------|

@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Wishart, dress
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,8 +926,8 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Wishart Dress (Clan)](/setts/s7/k7db4r31db3ly2db27lb4~x2/) — ΔT 0.53
 1. [Curnow of Kernow (Personal)](/setts/s7/r3ly2dp26k13y2k8w3~x2/) — ΔT 1.11
-1. [Loch Etive](/setts/s8/lb3g2r21k26db18k2db3ly3~x2/) — ΔT 1.12
-1. [Loch Etive](/setts/s8/ly3db3k2db18k26r21g2w3~x2/) — ΔT 1.13
+1. [Loch Etive](/setts/s8/ly3db3k2db18k26r21g2lb3~x2/) — ΔT 1.12
+1. [Loch Etive](/setts/s8/w3g2r21k26db18k2db3ly3~x2/) — ΔT 1.13
 1. [Clan MacLeod Society of Scotland, Centenary](/setts/s6/dg3g3r22k5k22ly2~x2/) — ΔT 1.19
 1. [MacCreary (Personal)](/setts/s9/k4db12lb3db4g8lo2r24db4r4~x2/) — ΔT 1.23
 1. [Cherry, John S (Personal)](/setts/s7/r4db36r35g2r2g8w4~x2/) — ΔT 1.24
@@ -928,8 +937,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k7db4r31db3ly2db27lb4~x2/"><circle cx="200.2" cy="126.6" r="4" fill="#3465a4"><title>Wishart Dress (Clan)</title></circle></a><a href="/setts/s7/r3ly2dp26k13y2k8w3~x2/"><circle cx="235.3" cy="151.2" r="4" fill="#3465a4"><title>Curnow of Kernow (Personal)</title></circle></a><a href="/setts/s8/lb3g2r21k26db18k2db3ly3~x2/"><circle cx="158.4" cy="135.9" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><a href="/setts/s8/ly3db3k2db18k26r21g2w3~x2/"><circle cx="153.5" cy="132.2" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><a href="/setts/s6/dg3g3r22k5k22ly2~x2/"><circle cx="170.1" cy="154.4" r="4" fill="#3465a4"><title>Clan MacLeod Society of Scotland, Centenary</title></circle></a><a href="/setts/s9/k4db12lb3db4g8lo2r24db4r4~x2/"><circle cx="182.8" cy="134.8" r="4" fill="#3465a4"><title>MacCreary (Personal)</title></circle></a><a href="/setts/s7/r4db36r35g2r2g8w4~x2/"><circle cx="221.3" cy="120.9" r="4" fill="#3465a4"><title>Cherry, John S (Personal)</title></circle></a><a href="/setts/s9/r4ly2r34db10y4db4t4db23w3~x2/"><circle cx="252.9" cy="123.6" r="4" fill="#3465a4"><title>Heirloom Red Alba (Fashion)</title></circle></a><a href="/setts/s8/dp3lo2r19r4dp6k36dp2lo3~x2/"><circle cx="254.6" cy="113.0" r="4" fill="#3465a4"><title>Hyland Evening (Personal)</title></circle></a><a href="/setts/s6/g3g3r22k5db22ly2~x2/"><circle cx="188.3" cy="157.6" r="4" fill="#3465a4"><title>MacLeod Society of Scotland</title></circle></a><circle cx="211.2" cy="121.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k7db4r31db3ly2db27lb4~x2/"><circle cx="200.2" cy="126.7" r="4" fill="#3465a4"><title>Wishart Dress (Clan)</title></circle></a><a href="/setts/s7/r3ly2dp26k13y2k8w3~x2/"><circle cx="235.4" cy="151.2" r="4" fill="#3465a4"><title>Curnow of Kernow (Personal)</title></circle></a><a href="/setts/s8/ly3db3k2db18k26r21g2lb3~x2/"><circle cx="158.4" cy="136.0" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><a href="/setts/s8/w3g2r21k26db18k2db3ly3~x2/"><circle cx="153.5" cy="132.2" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><a href="/setts/s6/dg3g3r22k5k22ly2~x2/"><circle cx="170.2" cy="154.5" r="4" fill="#3465a4"><title>Clan MacLeod Society of Scotland, Centenary</title></circle></a><a href="/setts/s9/k4db12lb3db4g8lo2r24db4r4~x2/"><circle cx="182.7" cy="134.9" r="4" fill="#3465a4"><title>MacCreary (Personal)</title></circle></a><a href="/setts/s7/r4db36r35g2r2g8w4~x2/"><circle cx="221.1" cy="120.8" r="4" fill="#3465a4"><title>Cherry, John S (Personal)</title></circle></a><a href="/setts/s9/r4ly2r34db10y4db4t4db23w3~x2/"><circle cx="252.8" cy="123.7" r="4" fill="#3465a4"><title>Heirloom Red Alba (Fashion)</title></circle></a><a href="/setts/s8/dp3lo2r19r4dp6k36dp2lo3~x2/"><circle cx="254.5" cy="113.0" r="4" fill="#3465a4"><title>Hyland Evening (Personal)</title></circle></a><a href="/setts/s6/g3g3r22k5db22ly2~x2/"><circle cx="188.3" cy="157.6" r="4" fill="#3465a4"><title>MacLeod Society of Scotland</title></circle></a><circle cx="211.2" cy="121.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k2db2r16db2ly1db13w2~x2/

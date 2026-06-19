@@ -2,12 +2,18 @@
 title: "Stewart Hunting"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBGBGRGKBKBKBGBKBKBKGYG](/stripes/bgbgbgbgrgkbkbkbgbkbkbkgyg/) · **Stripes:** [DB G DB G DB G DB G R G K DB K DB K DB G DB K DB K DB K G LY G](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB G DB G DB G DB G R G K DB K DB K DB G DB K DB K DB K G LY G</span></span>
+**Bands:** [GYGKBKBKBGBKBKBKGRGBGBGBGB](/stripes/gygkbkbkbgbkbkbkgrgbgbgbgb/) · **Stripes:** [G LY G K DB K DB K DB G DB K DB K DB K G R G DB G DB G DB G DB](/stripes/stripes26/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G LY G K DB K DB K DB G DB K DB K DB K G R G DB G DB G DB G DB</span></span>
 
 
 This was sourced from weddslist.  It is a [26 band tartan](/bands/bands26/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Stuart/Stewart Hunting
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/9 G4 B31 G4 B31 G4 B9 G37 R3 G37 K9 B4 K2 B3 K2 B31 G4 B31 K2 B3 K2 B4 K9 G37 Y3 G/37
+G/37 Y3 G37 K9 B4 K2 B3 K2 B31 G4 B31 K2 B3 K2 B4 K9 G37 R3 G37 B9 G4 B31 G4 B31 G4 B/9
 ![Sett](sett.png)
 
 ## Palette
@@ -906,18 +915,18 @@ The nearest existing variants by ΔTartan distance.
 1. [MacKenzie, Bailey](/setts/s24/k6g18w2g18k6db18k1db4k1db18k6g18r2g18k6db2k2db2k2db18k2db2k2db2~x2/) — ΔT 1.22
 1. [Farquharson](/setts/s25/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22ly2g22k10db1k1db1k1db7~x2/) — ΔT 1.29
 1. [Blairgowrie](/setts/s17/k20y3db10g3db5g25k1g1w3g1k1g25db5g3db10y1db2~x4/) — ΔT 1.35
-1. [Pilette of Kinnear (Personal)](/setts/s21/k4r2k10g3k10g30k8g3r4lb2r4lo2r4g3k8g30k10g3k10r2k4~x2/) — ΔT 1.45
+1. [Pilette of Kinnear (Personal)](/setts/s21/k4r2k10g3k10g30k8g3r4lo2r4lb2r4g3k8g30k10g3k10r2k4~x2/) — ΔT 1.45
 1. [Duncan of Sketraw Clan Tartan Tartan Number: 6497. Earliest known date: 2005 January A modified version of an unidentified tartan No. 331 from the 1930s. This new version is for John Duncan of Sketraw, and is approved by the Clan Duncan Society See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s32/k6g2k2g14k1ly2k1b5r1b5k1w2k1g14k1b2k1g14k1w2k1b5r1b5k1ly2k1g14k2g2k6r2~x2/) — ΔT 1.46
 1. [Semple](/setts/s16/b11k3b3k3b4k15g36w3g36k15b4k3b3k3b11r4~x2/) — ΔT 1.46
-1. [Sutherland](/setts/s22/g6w2g24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12g24w2~x2/) — ΔT 1.51
+1. [Sutherland](/setts/s22/g6w2g24k12db3k2db2k2db12r1db1r3~x2/) — ΔT 1.51
 1. [MacPerl (Personal)](/setts/s28/dg18k5w3dg1dg3dg1w3k5w8dg1dg18dg18k5dg1dg1dg1k3dg1w3dg1k3dg1dg1dg1k5dg18w8dg1~x2/) — ΔT 1.52
 1. [Sarafilovic](/setts/s16/db15k18g3k2g2k2g44ly4g44k2g2k2g3k18db15r4~x2/) — ΔT 1.56
 1. [Tiger](/setts/s16/g2db1b6db10g4db1g1r1g1db1g18r1g4db6b6db1~x4/) — ΔT 1.56
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s24/k6g18w2g18k6db18k1db4k1db18k6g18r2g18k6db2k2db2k2db18k2db2k2db2~x2/"><circle cx="191.6" cy="110.4" r="4" fill="#3465a4"><title>MacKenzie, Bailey</title></circle></a><a href="/setts/s25/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22ly2g22k10db1k1db1k1db7~x2/"><circle cx="205.0" cy="97.1" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/setts/s17/k20y3db10g3db5g25k1g1w3g1k1g25db5g3db10y1db2~x4/"><circle cx="276.1" cy="113.1" r="4" fill="#3465a4"><title>Blairgowrie</title></circle></a><a href="/setts/s21/k4r2k10g3k10g30k8g3r4lb2r4lo2r4g3k8g30k10g3k10r2k4~x2/"><circle cx="256.0" cy="124.8" r="4" fill="#3465a4"><title>Pilette of Kinnear (Personal)</title></circle></a><a href="/setts/s32/k6g2k2g14k1ly2k1b5r1b5k1w2k1g14k1b2k1g14k1w2k1b5r1b5k1ly2k1g14k2g2k6r2~x2/"><circle cx="207.7" cy="85.1" r="4" fill="#3465a4"><title>Duncan of Sketraw Clan Tartan Tartan Number: 6497. Earliest known date: 2005 January A modified version of an unidentified tartan No. 331 from the 1930s. This new version is for John Duncan of Sketraw, and is approved by the Clan Duncan Society See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/b11k3b3k3b4k15g36w3g36k15b4k3b3k3b11r4~x2/"><circle cx="226.4" cy="140.9" r="4" fill="#3465a4"><title>Semple</title></circle></a><a href="/setts/s22/g6w2g24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12g24w2~x2/"><circle cx="226.2" cy="97.6" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/setts/s28/dg18k5w3dg1dg3dg1w3k5w8dg1dg18dg18k5dg1dg1dg1k3dg1w3dg1k3dg1dg1dg1k5dg18w8dg1~x2/"><circle cx="256.4" cy="86.7" r="4" fill="#3465a4"><title>MacPerl (Personal)</title></circle></a><a href="/setts/s16/db15k18g3k2g2k2g44ly4g44k2g2k2g3k18db15r4~x2/"><circle cx="316.5" cy="121.1" r="4" fill="#3465a4"><title>Sarafilovic</title></circle></a><a href="/setts/s16/g2db1b6db10g4db1g1r1g1db1g18r1g4db6b6db1~x4/"><circle cx="265.6" cy="138.4" r="4" fill="#3465a4"><title>Tiger</title></circle></a><circle cx="259.8" cy="112.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s24/k6g18w2g18k6db18k1db4k1db18k6g18r2g18k6db2k2db2k2db18k2db2k2db2~x2/"><circle cx="191.6" cy="110.4" r="4" fill="#3465a4"><title>MacKenzie, Bailey</title></circle></a><a href="/setts/s25/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22ly2g22k10db1k1db1k1db7~x2/"><circle cx="204.9" cy="97.1" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/setts/s17/k20y3db10g3db5g25k1g1w3g1k1g25db5g3db10y1db2~x4/"><circle cx="276.0" cy="113.2" r="4" fill="#3465a4"><title>Blairgowrie</title></circle></a><a href="/setts/s21/k4r2k10g3k10g30k8g3r4lo2r4lb2r4g3k8g30k10g3k10r2k4~x2/"><circle cx="255.9" cy="124.8" r="4" fill="#3465a4"><title>Pilette of Kinnear (Personal)</title></circle></a><a href="/setts/s32/k6g2k2g14k1ly2k1b5r1b5k1w2k1g14k1b2k1g14k1w2k1b5r1b5k1ly2k1g14k2g2k6r2~x2/"><circle cx="207.6" cy="85.2" r="4" fill="#3465a4"><title>Duncan of Sketraw Clan Tartan Tartan Number: 6497. Earliest known date: 2005 January A modified version of an unidentified tartan No. 331 from the 1930s. This new version is for John Duncan of Sketraw, and is approved by the Clan Duncan Society See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/b11k3b3k3b4k15g36w3g36k15b4k3b3k3b11r4~x2/"><circle cx="226.3" cy="141.0" r="4" fill="#3465a4"><title>Semple</title></circle></a><a href="/setts/s22/g6w2g24k12db3k2db2k2db12r1db1r3~x2/"><circle cx="226.1" cy="97.7" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/setts/s28/dg18k5w3dg1dg3dg1w3k5w8dg1dg18dg18k5dg1dg1dg1k3dg1w3dg1k3dg1dg1dg1k5dg18w8dg1~x2/"><circle cx="256.3" cy="86.7" r="4" fill="#3465a4"><title>MacPerl (Personal)</title></circle></a><a href="/setts/s16/db15k18g3k2g2k2g44ly4g44k2g2k2g3k18db15r4~x2/"><circle cx="316.4" cy="121.1" r="4" fill="#3465a4"><title>Sarafilovic</title></circle></a><a href="/setts/s16/g2db1b6db10g4db1g1r1g1db1g18r1g4db6b6db1~x4/"><circle cx="265.5" cy="138.4" r="4" fill="#3465a4"><title>Tiger</title></circle></a><circle cx="259.7" cy="112.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s26/g37ly3g37k9db4k2db3k2db31g4db31k2db3k2db4k9g37r3g37db9g4db31g4db31g4db9/

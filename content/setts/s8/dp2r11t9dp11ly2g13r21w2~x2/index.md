@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,7 +913,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Unidentified No 57](/setts/s10/r6w1r6db2r6dg12ly1db8t4r4~x2/) — ΔT 0.74
 1. [De Maynard (Personal)](/setts/s8/dp2o9g8o4ly1o4db10w2~x4/) — ΔT 0.86
-1. [Thirkill](/setts/s9/ly4k2dg7y7r5k2r15k2w4~x2/) — ΔT 0.94
+1. [Thirkill](/setts/s9/w4k2r15k2r5y7dg7k2ly4~x2/) — ΔT 0.94
 1. [Unnamed No 57](/setts/s10/r6w1r6db2r6g12ly1db8t4r4~x2/) — ΔT 0.97
 1. [East Kilbride](/setts/s7/y3r10g7db10r15k1w2~x2/) — ΔT 1.04
 1. [Indiana "Cardinal"](/setts/s8/db8ly1dg12r10o2r6o2r4~x4/) — ΔT 1.08
@@ -921,8 +924,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r6w1r6db2r6dg12ly1db8t4r4~x2/"><circle cx="173.7" cy="157.8" r="4" fill="#3465a4"><title>Unidentified No 57</title></circle></a><a href="/setts/s8/dp2o9g8o4ly1o4db10w2~x4/"><circle cx="141.4" cy="162.2" r="4" fill="#3465a4"><title>De Maynard (Personal)</title></circle></a><a href="/setts/s9/ly4k2dg7y7r5k2r15k2w4~x2/"><circle cx="121.2" cy="157.3" r="4" fill="#3465a4"><title>Thirkill</title></circle></a><a href="/setts/s10/r6w1r6db2r6g12ly1db8t4r4~x2/"><circle cx="177.5" cy="162.2" r="4" fill="#3465a4"><title>Unnamed No 57</title></circle></a><a href="/setts/s7/y3r10g7db10r15k1w2~x2/"><circle cx="239.1" cy="159.6" r="4" fill="#3465a4"><title>East Kilbride</title></circle></a><a href="/setts/s8/db8ly1dg12r10o2r6o2r4~x4/"><circle cx="212.4" cy="181.7" r="4" fill="#3465a4"><title>Indiana &quot;Cardinal&quot;</title></circle></a><a href="/setts/s7/r30db12k6dg12ly2dg3w2~x2/"><circle cx="208.0" cy="131.1" r="4" fill="#3465a4"><title>Hewitt</title></circle></a><a href="/setts/s7/ly3r10g7db10r15k1w2~x2/"><circle cx="230.4" cy="152.8" r="4" fill="#3465a4"><title>East Kilbride (Original) District Tartan Tartan Number: 2061. Earliest known date: 1990 Colours chosen echo the symbolism of the armorial ensigns granted by Lord Lyon: White/Silver and Blue - Stewarts of Torrance White/Silver and Black - Maxwells of Calderwood Red and White - Lindsays White/Silver and Black - Industry Green and Gold - Agriculture. Black guards are added to the blue stripe when woven in reproduction colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/lo3r10dg7db10r15k1w2~x2/"><circle cx="242.0" cy="159.1" r="4" fill="#3465a4"><title>East Kilbride</title></circle></a><a href="/setts/s14/r21t9k2t2k2t9k18ly3g21r13k3r13w2r13~x2/"><circle cx="166.0" cy="133.1" r="4" fill="#3465a4"><title>Caledonia</title></circle></a><circle cx="170.9" cy="159.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r6w1r6db2r6dg12ly1db8t4r4~x2/"><circle cx="173.5" cy="157.8" r="4" fill="#3465a4"><title>Unidentified No 57</title></circle></a><a href="/setts/s8/dp2o9g8o4ly1o4db10w2~x4/"><circle cx="141.3" cy="162.2" r="4" fill="#3465a4"><title>De Maynard (Personal)</title></circle></a><a href="/setts/s9/w4k2r15k2r5y7dg7k2ly4~x2/"><circle cx="121.0" cy="157.4" r="4" fill="#3465a4"><title>Thirkill</title></circle></a><a href="/setts/s10/r6w1r6db2r6g12ly1db8t4r4~x2/"><circle cx="177.3" cy="162.3" r="4" fill="#3465a4"><title>Unnamed No 57</title></circle></a><a href="/setts/s7/y3r10g7db10r15k1w2~x2/"><circle cx="238.9" cy="159.6" r="4" fill="#3465a4"><title>East Kilbride</title></circle></a><a href="/setts/s8/db8ly1dg12r10o2r6o2r4~x4/"><circle cx="212.2" cy="181.7" r="4" fill="#3465a4"><title>Indiana &quot;Cardinal&quot;</title></circle></a><a href="/setts/s7/r30db12k6dg12ly2dg3w2~x2/"><circle cx="207.8" cy="131.2" r="4" fill="#3465a4"><title>Hewitt</title></circle></a><a href="/setts/s7/ly3r10g7db10r15k1w2~x2/"><circle cx="230.2" cy="152.7" r="4" fill="#3465a4"><title>East Kilbride (Original) District Tartan Tartan Number: 2061. Earliest known date: 1990 Colours chosen echo the symbolism of the armorial ensigns granted by Lord Lyon: White/Silver and Blue - Stewarts of Torrance White/Silver and Black - Maxwells of Calderwood Red and White - Lindsays White/Silver and Black - Industry Green and Gold - Agriculture. Black guards are added to the blue stripe when woven in reproduction colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/lo3r10dg7db10r15k1w2~x2/"><circle cx="241.8" cy="159.1" r="4" fill="#3465a4"><title>East Kilbride</title></circle></a><a href="/setts/s14/r21t9k2t2k2t9k18ly3g21r13k3r13w2r13~x2/"><circle cx="165.8" cy="133.1" r="4" fill="#3465a4"><title>Caledonia</title></circle></a><circle cx="170.8" cy="159.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/dp2r11t9dp11ly2g13r21w2~x2/

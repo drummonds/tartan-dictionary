@@ -17,7 +17,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-LN/4 B6 LN6 K8 R14 Y12 LN4 K6 LN4 Y12 DY24 R8 K26 R32 LN16 R12 K8 R/22
+R/22 K8 R12 LN16 R32 K26 R8 DY24 Y12 LN4 K6 LN4 Y12 R14 K8 LN6 B6 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -42,15 +42,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Thom, Calum (Personal)](/setts/s17/ly3r2ly9r1ly3r3m3r10ly2r10m3r3do6r2do6m2r2~x2/) — ΔT 1.27
 1. [Kidd](/setts/s15/r14t3r12g16ly2k11t7k2t2k2t7r12w3k3r4~x2/) — ΔT 1.31
 1. [MacPherson #2](/setts/s15/db1ly3r3k2db8ly3r2k1r2ly3dg8w1k1r12w1~x2/) — ΔT 1.35
-1. [Wilson's No.011](/setts/s22/r18t10k15ly4k4w6k4g23r12r4r10w4r10r4r12g23k4w6k4ly4k15t10~x2/) — ΔT 1.35
+1. [Wilson's No.011](/setts/s22/r18t10k15ly4k4w6k4g23r12r4r10w4~x2/) — ΔT 1.35
 1. [MacDougall #4](/setts/s24/t1r2w1r2r6db1r1dg3r3dg3r2w1r1w1r2db3r2dg1r2dg6r1w1r2t1~x4/) — ΔT 1.38
 1. [MacPherson 5](/setts/s15/db1ly3r3k2db8ly3r2k1r2ly3g8w1k1r12w1~x2/) — ΔT 1.41
-1. [Wilson's No.083](/setts/s14/dp14w2r3w2r15g18ly3k14ly3g18r15w2r3w2~x2/) — ΔT 1.42
+1. [Wilson's No.083](/setts/s14/k14ly3g18r15w2r3w2dp14~x2/) — ΔT 1.42
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/r9k1r3w5r6k5r4dr8ly4w1k1w1ly4r6k1w2t1w2~x2/"><circle cx="108.6" cy="111.6" r="4" fill="#3465a4"><title>Jacobite, Old sett</title></circle></a><a href="/setts/s18/r9k1r3w5r6k5r4lo8ly4w1k1w1ly4r6k1w2t1w2~x2/"><circle cx="120.3" cy="114.4" r="4" fill="#3465a4"><title>Jacobite Old Sett</title></circle></a><a href="/setts/s15/r18t5r18g24ly3k19t10k3t3k3t10r18w4k5r5~x2/"><circle cx="118.0" cy="141.1" r="4" fill="#3465a4"><title>MacPherson #5</title></circle></a><a href="/setts/s17/ly3r2ly9r1ly3r3m3r10ly2r10m3r3do6r2do6m2r2~x2/"><circle cx="148.8" cy="130.8" r="4" fill="#3465a4"><title>Thom, Calum (Personal)</title></circle></a><a href="/setts/s15/r14t3r12g16ly2k11t7k2t2k2t7r12w3k3r4~x2/"><circle cx="125.4" cy="140.5" r="4" fill="#3465a4"><title>Kidd</title></circle></a><a href="/setts/s15/db1ly3r3k2db8ly3r2k1r2ly3dg8w1k1r12w1~x2/"><circle cx="120.6" cy="98.7" r="4" fill="#3465a4"><title>MacPherson #2</title></circle></a><a href="/setts/s22/r18t10k15ly4k4w6k4g23r12r4r10w4r10r4r12g23k4w6k4ly4k15t10~x2/"><circle cx="44.2" cy="138.0" r="4" fill="#3465a4"><title>Wilson's No.011</title></circle></a><a href="/setts/s24/t1r2w1r2r6db1r1dg3r3dg3r2w1r1w1r2db3r2dg1r2dg6r1w1r2t1~x4/"><circle cx="91.1" cy="136.1" r="4" fill="#3465a4"><title>MacDougall #4</title></circle></a><a href="/setts/s15/db1ly3r3k2db8ly3r2k1r2ly3g8w1k1r12w1~x2/"><circle cx="113.6" cy="97.8" r="4" fill="#3465a4"><title>MacPherson 5</title></circle></a><a href="/setts/s14/dp14w2r3w2r15g18ly3k14ly3g18r15w2r3w2~x2/"><circle cx="90.9" cy="127.2" r="4" fill="#3465a4"><title>Wilson's No.083</title></circle></a><circle cx="83.2" cy="122.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/r9k1r3w5r6k5r4dr8ly4w1k1w1ly4r6k1w2t1w2~x2/"><circle cx="108.3" cy="111.6" r="4" fill="#3465a4"><title>Jacobite, Old sett</title></circle></a><a href="/setts/s18/r9k1r3w5r6k5r4lo8ly4w1k1w1ly4r6k1w2t1w2~x2/"><circle cx="120.0" cy="114.4" r="4" fill="#3465a4"><title>Jacobite Old Sett</title></circle></a><a href="/setts/s15/r18t5r18g24ly3k19t10k3t3k3t10r18w4k5r5~x2/"><circle cx="117.9" cy="141.3" r="4" fill="#3465a4"><title>MacPherson #5</title></circle></a><a href="/setts/s17/ly3r2ly9r1ly3r3m3r10ly2r10m3r3do6r2do6m2r2~x2/"><circle cx="148.6" cy="130.8" r="4" fill="#3465a4"><title>Thom, Calum (Personal)</title></circle></a><a href="/setts/s15/r14t3r12g16ly2k11t7k2t2k2t7r12w3k3r4~x2/"><circle cx="125.3" cy="140.6" r="4" fill="#3465a4"><title>Kidd</title></circle></a><a href="/setts/s15/db1ly3r3k2db8ly3r2k1r2ly3dg8w1k1r12w1~x2/"><circle cx="120.4" cy="98.8" r="4" fill="#3465a4"><title>MacPherson #2</title></circle></a><a href="/setts/s22/r18t10k15ly4k4w6k4g23r12r4r10w4~x2/"><circle cx="44.1" cy="138.1" r="4" fill="#3465a4"><title>Wilson's No.011</title></circle></a><a href="/setts/s24/t1r2w1r2r6db1r1dg3r3dg3r2w1r1w1r2db3r2dg1r2dg6r1w1r2t1~x4/"><circle cx="90.9" cy="136.3" r="4" fill="#3465a4"><title>MacDougall #4</title></circle></a><a href="/setts/s15/db1ly3r3k2db8ly3r2k1r2ly3g8w1k1r12w1~x2/"><circle cx="113.4" cy="97.9" r="4" fill="#3465a4"><title>MacPherson 5</title></circle></a><a href="/setts/s14/k14ly3g18r15w2r3w2dp14~x2/"><circle cx="90.8" cy="127.3" r="4" fill="#3465a4"><title>Wilson's No.083</title></circle></a><circle cx="82.9" cy="122.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s18/r11k4r6w8r16k13r4lo12ly6w2k3w2ly6r7k4w3t3w2~x2/

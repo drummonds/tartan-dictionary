@@ -2,7 +2,7 @@
 title: "Alberta Dress"
 date: 2023-03-18
 ---
-**Bands:** [WGWGKRKBKY](/stripes/wgwgkrkbky/) · **Stripes:** [W G W G K R K DB K LO](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">W G W G K R K DB K LO</span></span>
+**Bands:** [YKBKRKGWGW](/stripes/ykbkrkgwgw/) · **Stripes:** [LO K DB K R K G W G W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO K DB K R K G W G W</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2729
 
 ## Thread count
-DY/4 K2 Ba36 K2 DR8 K2 G16 W38 G6 W/8
+W/8 G6 W38 G16 K2 DR8 K2 Ba36 K2 DY/4
 ![Sett](sett.png)
 
 ## Palette
@@ -56,12 +56,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Dignan](/setts/s7/ly2r1t16k5p2w11p1~x4/) — ΔT 1.02
 1. [Jong Nederland Born Union (Corp)](/setts/s10/r2w1r1w13t12ly2k2t2k1ly1~x4/) — ΔT 1.02
 1. [Gillies Dress Blue #1 (Dance)](/setts/s10/r7k2t16ly5t10k13w28dg2w4dg4~x2/) — ΔT 1.04
-1. [Diana Princess of Wales Memorial, The](/setts/s12/w2w1w12db6k3lt1w1lt4w2k1w1r1~x4/) — ΔT 1.05
+1. [Diana Princess of Wales Memorial, The](/setts/s12/w2w1w12db6k3lt1w1lt4w2k1w1r1~x4/) — ΔT 1.06
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db2w20r1ly2dg8g4dg2g2dg2db20w2~x2/"><circle cx="138.4" cy="83.8" r="4" fill="#3465a4"><title>Nova Scotia Dress</title></circle></a><a href="/setts/s9/dp4k2w3k2db30g9k4w20ly3~x2/"><circle cx="142.8" cy="105.8" r="4" fill="#3465a4"><title>Minnesota Dress</title></circle></a><a href="/setts/s10/r7k2t16ly5t10k13w28g2w4g2~x2/"><circle cx="101.6" cy="109.6" r="4" fill="#3465a4"><title>Gillies, Blue dress</title></circle></a><a href="/setts/s11/b2w20r1ly2dg8g4dg2g2dg2b20w2~x2/"><circle cx="144.9" cy="88.5" r="4" fill="#3465a4"><title>Nova Scotia Dress (District)</title></circle></a><a href="/setts/s8/db5w30lr9k9dp9g2dp2g5~x2/"><circle cx="131.9" cy="106.9" r="4" fill="#3465a4"><title>Alexander of Menstry Dress</title></circle></a><a href="/setts/s10/t3ly1t23w20lo1w4db22t4db4r1~x2/"><circle cx="165.9" cy="88.8" r="4" fill="#3465a4"><title>Forfar</title></circle></a><a href="/setts/s7/ly2r1t16k5p2w11p1~x4/"><circle cx="160.1" cy="115.9" r="4" fill="#3465a4"><title>Dignan</title></circle></a><a href="/setts/s10/r2w1r1w13t12ly2k2t2k1ly1~x4/"><circle cx="159.1" cy="100.4" r="4" fill="#3465a4"><title>Jong Nederland Born Union (Corp)</title></circle></a><a href="/setts/s10/r7k2t16ly5t10k13w28dg2w4dg4~x2/"><circle cx="93.8" cy="110.4" r="4" fill="#3465a4"><title>Gillies Dress Blue #1 (Dance)</title></circle></a><a href="/setts/s12/w2w1w12db6k3lt1w1lt4w2k1w1r1~x4/"><circle cx="109.2" cy="91.3" r="4" fill="#3465a4"><title>Diana Princess of Wales Memorial, The</title></circle></a><circle cx="137.7" cy="88.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db2w20r1ly2dg8g4dg2g2dg2db20w2~x2/"><circle cx="138.2" cy="83.8" r="4" fill="#3465a4"><title>Nova Scotia Dress</title></circle></a><a href="/setts/s9/dp4k2w3k2db30g9k4w20ly3~x2/"><circle cx="142.7" cy="105.8" r="4" fill="#3465a4"><title>Minnesota Dress</title></circle></a><a href="/setts/s10/r7k2t16ly5t10k13w28g2w4g2~x2/"><circle cx="101.4" cy="109.6" r="4" fill="#3465a4"><title>Gillies, Blue dress</title></circle></a><a href="/setts/s11/b2w20r1ly2dg8g4dg2g2dg2b20w2~x2/"><circle cx="144.7" cy="88.5" r="4" fill="#3465a4"><title>Nova Scotia Dress (District)</title></circle></a><a href="/setts/s8/db5w30lr9k9dp9g2dp2g5~x2/"><circle cx="131.7" cy="106.9" r="4" fill="#3465a4"><title>Alexander of Menstry Dress</title></circle></a><a href="/setts/s10/t3ly1t23w20lo1w4db22t4db4r1~x2/"><circle cx="165.7" cy="88.8" r="4" fill="#3465a4"><title>Forfar</title></circle></a><a href="/setts/s7/ly2r1t16k5p2w11p1~x4/"><circle cx="159.9" cy="115.8" r="4" fill="#3465a4"><title>Dignan</title></circle></a><a href="/setts/s10/r2w1r1w13t12ly2k2t2k1ly1~x4/"><circle cx="158.8" cy="100.4" r="4" fill="#3465a4"><title>Jong Nederland Born Union (Corp)</title></circle></a><a href="/setts/s10/r7k2t16ly5t10k13w28dg2w4dg4~x2/"><circle cx="93.6" cy="110.4" r="4" fill="#3465a4"><title>Gillies Dress Blue #1 (Dance)</title></circle></a><a href="/setts/s12/w2w1w12db6k3lt1w1lt4w2k1w1r1~x4/"><circle cx="108.9" cy="91.3" r="4" fill="#3465a4"><title>Diana Princess of Wales Memorial, The</title></circle></a><circle cx="137.5" cy="88.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/w4g3w19g8k1r4k1db18k1lo2~x2/

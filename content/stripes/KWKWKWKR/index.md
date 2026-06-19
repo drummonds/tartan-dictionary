@@ -8,7 +8,7 @@ KWKWKWKR
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/r2k1w10k20w5k20w10k1~x2/tartan.png)
+![Woven sample](/setts/s8/w5k20w10k1r2~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ KWKWKWKR
 
 | Tartans |
 |---------------|
-| [St. Piran Cornish Flag](/setts/s8/r2k1w10k20w5k20w10k1~x2/)|
-|![St. Piran Cornish Flag example sett](/setts/s8/r2k1w10k20w5k20w10k1~x2/sett.png)|
+| [St. Piran Cornish Flag](/setts/s8/w5k20w10k1r2~x2/)|
+|![St. Piran Cornish Flag example sett](/setts/s8/w5k20w10k1r2~x2/sett.png)|
 

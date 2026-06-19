@@ -18,7 +18,7 @@ GYGBRBRKBYRY
 
 
 
-### G LR G DO O DO O K DO LR O LY <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G LR G DO O DO O K DO LR O LY</span></span>
+### LY O LR DO K O DO O DO G LR G <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY O LR DO K O DO O DO G LR G</span></span>
 
 | Tartans |
 |---------------|

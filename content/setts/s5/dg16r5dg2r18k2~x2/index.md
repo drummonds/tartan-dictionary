@@ -2,12 +2,22 @@
 title: "MacDonald Lord of the Isles #2"
 date: 2023-03-18
 ---
-**Bands:** [GRGRK](/stripes/grgrk/) · **Stripes:** [DG R DG R K](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">DG R DG R K</span></span>
+**Bands:** [KRGRG](/stripes/krgrg/) · **Stripes:** [K R DG R DG](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">K R DG R DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2349
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacCullough
+- MacDonald Lord of the Isles #2
+- MacDonald of the Isles Portrait
+- MacDonald, Lord of The Isles
+- MacDonald, Lord of the Isles
 
 ## Attestations
 
@@ -91,18 +101,18 @@ The nearest existing variants by ΔTartan distance.
 1. [MacDonald of Sleat](/setts/s5/dg7r3dg1r9k1~x2/) — ΔT 0.44
 1. [MacDonald, Lord of The Isles (Artef)](/setts/s5/g16r5g2r18k2~x2/) — ΔT 0.60
 1. [MacKinnon #6](/setts/s4/r3dg20r25w3~x4/) — ΔT 0.69
-1. [Lugo (2013)](/setts/s4/r10dg4ly1dg4~x8/) — ΔT 0.73
+1. [Lugo (2013)](/setts/s4/r10dg4ly1~x8/) — ΔT 0.73
 1. [Dunbar](/setts/s6/r6g21k8r28k2r4~x2/) — ΔT 0.90
-1. [Cameron](/setts/s6/ly1r8g3r1g3r1~x8/) — ΔT 0.92
+1. [Cameron](/setts/s6/r1g3r1g3r8ly1~x8/) — ΔT 0.92
 1. [MacDonald of Sleat](/setts/s5/dg16r5dg2r18k2/) — ΔT 0.98
 1. [MacGregor of Balquhidder](/setts/s5/dg8r2dg9r16w1~x2/) — ΔT 0.99
 1. [MacKinnon 11](/setts/s4/r3g20r25w3~x4/) — ΔT 1.00
-1. [Murray, Lord George (Hose)](/setts/s5/g1r5g10r5k1~x4/) — ΔT 1.01
+1. [Murray, Lord George (Hose)](/setts/s5/k1r5g10r5g1~x4/) — ΔT 1.01
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/dg7r3dg1r9k1~x2/"><circle cx="354.9" cy="237.2" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/setts/s5/g16r5g2r18k2~x2/"><circle cx="352.7" cy="240.4" r="4" fill="#3465a4"><title>MacDonald, Lord of The Isles (Artef)</title></circle></a><a href="/setts/s4/r3dg20r25w3~x4/"><circle cx="335.4" cy="240.1" r="4" fill="#3465a4"><title>MacKinnon #6</title></circle></a><a href="/setts/s4/r10dg4ly1dg4~x8/"><circle cx="331.4" cy="248.8" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/setts/s6/r6g21k8r28k2r4~x2/"><circle cx="345.8" cy="207.9" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/setts/s6/ly1r8g3r1g3r1~x8/"><circle cx="371.1" cy="226.6" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/setts/s5/dg16r5dg2r18k2/"><circle cx="363.3" cy="249.7" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/setts/s5/dg8r2dg9r16w1~x2/"><circle cx="346.9" cy="217.3" r="4" fill="#3465a4"><title>MacGregor of Balquhidder</title></circle></a><a href="/setts/s4/r3g20r25w3~x4/"><circle cx="340.0" cy="246.3" r="4" fill="#3465a4"><title>MacKinnon 11</title></circle></a><a href="/setts/s5/g1r5g10r5k1~x4/"><circle cx="324.2" cy="239.6" r="4" fill="#3465a4"><title>Murray, Lord George (Hose)</title></circle></a><circle cx="343.4" cy="233.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/dg7r3dg1r9k1~x2/"><circle cx="354.7" cy="237.0" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/setts/s5/g16r5g2r18k2~x2/"><circle cx="352.4" cy="240.2" r="4" fill="#3465a4"><title>MacDonald, Lord of The Isles (Artef)</title></circle></a><a href="/setts/s4/r3dg20r25w3~x4/"><circle cx="335.1" cy="239.8" r="4" fill="#3465a4"><title>MacKinnon #6</title></circle></a><a href="/setts/s4/r10dg4ly1~x8/"><circle cx="331.2" cy="248.6" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/setts/s6/r6g21k8r28k2r4~x2/"><circle cx="345.5" cy="207.7" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/setts/s6/r1g3r1g3r8ly1~x8/"><circle cx="370.7" cy="226.4" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/setts/s5/dg16r5dg2r18k2/"><circle cx="363.1" cy="249.6" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/setts/s5/dg8r2dg9r16w1~x2/"><circle cx="346.6" cy="217.1" r="4" fill="#3465a4"><title>MacGregor of Balquhidder</title></circle></a><a href="/setts/s4/r3g20r25w3~x4/"><circle cx="339.7" cy="246.1" r="4" fill="#3465a4"><title>MacKinnon 11</title></circle></a><a href="/setts/s5/k1r5g10r5g1~x4/"><circle cx="324.0" cy="239.4" r="4" fill="#3465a4"><title>Murray, Lord George (Hose)</title></circle></a><circle cx="343.2" cy="232.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/dg16r5dg2r18k2~x2/

@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=15
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Aberdeen F. C.
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -45,10 +51,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Stuart of Bute](/setts/s9/r12dg6k1dg2k1dg1k6r24lb2/) — ΔT 1.00
+1. [Stuart of Bute](/setts/s9/r12dg6k1dg2k1dg1k6r24lb2~x2/) — ΔT 1.00
 1. [Stuart of Bute](/setts/s9/r12y6k1y2k1y1k6r24w2~x4/) — ΔT 1.01
 1. [Anthony Plaid Red](/setts/s9/r18k1ly3k1lr1r3k2r2lr2~x4/) — ΔT 1.04
-1. [Galway](/setts/s10/o4r2k4r40k3r3k4r3g13r4~x2/) — ΔT 1.10
+1. [Galway](/setts/s10/r4g13r3k4r3k3r40k4r2o4~x2/) — ΔT 1.10
 1. [Stuart of Bute, The Htg (Clan)](/setts/s9/r12g6k1g2k1g1k6r24w2~x4/) — ΔT 1.13
 1. [Stuart/Stewart of Bute](/setts/s9/r12g6k1g2k1g1k6r24w2~x2/) — ΔT 1.13
 1. [Instakilt, Red (Fashion)](/setts/s7/r8w4r50k12r4k15g5~x2/) — ΔT 1.20
@@ -58,8 +64,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r12dg6k1dg2k1dg1k6r24lb2/"><circle cx="400.6" cy="118.4" r="4" fill="#3465a4"><title>Stuart of Bute</title></circle></a><a href="/setts/s9/r12y6k1y2k1y1k6r24w2~x4/"><circle cx="414.3" cy="120.5" r="4" fill="#3465a4"><title>Stuart of Bute</title></circle></a><a href="/setts/s9/r18k1ly3k1lr1r3k2r2lr2~x4/"><circle cx="442.7" cy="126.2" r="4" fill="#3465a4"><title>Anthony Plaid Red</title></circle></a><a href="/setts/s10/o4r2k4r40k3r3k4r3g13r4~x2/"><circle cx="411.5" cy="114.2" r="4" fill="#3465a4"><title>Galway</title></circle></a><a href="/setts/s9/r12g6k1g2k1g1k6r24w2~x4/"><circle cx="417.2" cy="125.2" r="4" fill="#3465a4"><title>Stuart of Bute, The Htg (Clan)</title></circle></a><a href="/setts/s9/r12g6k1g2k1g1k6r24w2~x2/"><circle cx="396.6" cy="117.6" r="4" fill="#3465a4"><title>Stuart/Stewart of Bute</title></circle></a><a href="/setts/s7/r8w4r50k12r4k15g5~x2/"><circle cx="366.8" cy="150.4" r="4" fill="#3465a4"><title>Instakilt, Red (Fashion)</title></circle></a><a href="/setts/s7/k2r1k2r14w1r1w1~x8/"><circle cx="476.5" cy="146.3" r="4" fill="#3465a4"><title>White Stripes Dress, (Corporate)</title></circle></a><a href="/setts/s10/r58k12r4k2ly2k2r10w5k2ly4~x2/"><circle cx="477.9" cy="90.7" r="4" fill="#3465a4"><title>Unnamed C20th - Skirt</title></circle></a><a href="/setts/s8/r64k8w3k8w3b4w3r18~x2/"><circle cx="484.8" cy="126.6" r="4" fill="#3465a4"><title>Inverness - 2000 (Fashion)</title></circle></a><circle cx="436.1" cy="116.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r12dg6k1dg2k1dg1k6r24lb2~x2/"><circle cx="400.2" cy="118.2" r="4" fill="#3465a4"><title>Stuart of Bute</title></circle></a><a href="/setts/s9/r12y6k1y2k1y1k6r24w2~x4/"><circle cx="413.8" cy="120.3" r="4" fill="#3465a4"><title>Stuart of Bute</title></circle></a><a href="/setts/s9/r18k1ly3k1lr1r3k2r2lr2~x4/"><circle cx="442.3" cy="126.0" r="4" fill="#3465a4"><title>Anthony Plaid Red</title></circle></a><a href="/setts/s10/r4g13r3k4r3k3r40k4r2o4~x2/"><circle cx="411.0" cy="114.1" r="4" fill="#3465a4"><title>Galway</title></circle></a><a href="/setts/s9/r12g6k1g2k1g1k6r24w2~x4/"><circle cx="416.7" cy="125.0" r="4" fill="#3465a4"><title>Stuart of Bute, The Htg (Clan)</title></circle></a><a href="/setts/s9/r12g6k1g2k1g1k6r24w2~x2/"><circle cx="396.1" cy="117.3" r="4" fill="#3465a4"><title>Stuart/Stewart of Bute</title></circle></a><a href="/setts/s7/r8w4r50k12r4k15g5~x2/"><circle cx="366.4" cy="150.1" r="4" fill="#3465a4"><title>Instakilt, Red (Fashion)</title></circle></a><a href="/setts/s7/k2r1k2r14w1r1w1~x8/"><circle cx="475.9" cy="146.0" r="4" fill="#3465a4"><title>White Stripes Dress, (Corporate)</title></circle></a><a href="/setts/s10/r58k12r4k2ly2k2r10w5k2ly4~x2/"><circle cx="477.3" cy="90.5" r="4" fill="#3465a4"><title>Unnamed C20th - Skirt</title></circle></a><a href="/setts/s8/r64k8w3k8w3b4w3r18~x2/"><circle cx="484.4" cy="126.4" r="4" fill="#3465a4"><title>Inverness - 2000 (Fashion)</title></circle></a><circle cx="435.5" cy="115.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k4r4ly2r41k4r4k12w2~x2/

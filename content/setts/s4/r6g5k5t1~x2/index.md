@@ -2,12 +2,18 @@
 title: "Unnamed, No 28"
 date: 2023-03-18
 ---
-**Bands:** [BKGR](/stripes/bkgr/) · **Stripes:** [T K G R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">T K G R</span></span>
+**Bands:** [RGKB](/stripes/rgkb/) · **Stripes:** [R G K T](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">R G K T</span></span>
 
 
 This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Unnamed, No 28
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -894,7 +903,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/2 K10 G10 R/12
+R/12 G10 K10 B/2
 ![Sett](sett.png)
 
 ## Palette
@@ -909,7 +918,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/2 K10 G10 R/12 tartan")
+![Tartan detail](tartan.png "R/12 G10 K10 B/2 tartan")
 
 ## Nearest tartans
 
@@ -924,12 +933,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Wilson's, No 220](/setts/s4/p8k11g9w2~x2/) — ΔT 1.32
 1. [Norwich No.028](/setts/s6/r6g5k5g5r6t1~x4/) — ΔT 1.36
 1. [MacKinnon Dress Hunting (Fashion)](/setts/s4/dg7dr7w7r1~x6/) — ΔT 1.46
-1. [Timespan, (MacKay)](/setts/s5/g6r1k6r1y6~x6/) — ΔT 1.48
+1. [Timespan, (MacKay)](/setts/s5/y6r1k6r1g6~x6/) — ΔT 1.48
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/lo9g9k10t2~x2/"><circle cx="83.8" cy="274.1" r="4" fill="#3465a4"><title>Wilson's, No 196</title></circle></a><a href="/setts/s4/r6dg5k5t1~x2/"><circle cx="144.4" cy="277.3" r="4" fill="#3465a4"><title>Unidentified No 28</title></circle></a><a href="/setts/s4/r9g9k10t2~x2/"><circle cx="124.4" cy="290.9" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><a href="/setts/s4/k18g18dr21r4~x2/"><circle cx="121.0" cy="292.9" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/setts/s4/p8k11g9r2~x2/"><circle cx="119.0" cy="279.2" r="4" fill="#3465a4"><title>Wilson's, No 159</title></circle></a><a href="/setts/s4/p6k5g5r1~x2/"><circle cx="121.5" cy="273.5" r="4" fill="#3465a4"><title>Unnamed, No 60</title></circle></a><a href="/setts/s4/p8k11g9w2~x2/"><circle cx="109.5" cy="276.1" r="4" fill="#3465a4"><title>Wilson's, No 220</title></circle></a><a href="/setts/s6/r6g5k5g5r6t1~x4/"><circle cx="150.2" cy="266.3" r="4" fill="#3465a4"><title>Norwich No.028</title></circle></a><a href="/setts/s4/dg7dr7w7r1~x6/"><circle cx="107.5" cy="252.6" r="4" fill="#3465a4"><title>MacKinnon Dress Hunting (Fashion)</title></circle></a><a href="/setts/s5/g6r1k6r1y6~x6/"><circle cx="101.6" cy="245.0" r="4" fill="#3465a4"><title>Timespan, (MacKay)</title></circle></a><circle cx="118.4" cy="268.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/lo9g9k10t2~x2/"><circle cx="83.9" cy="274.0" r="4" fill="#3465a4"><title>Wilson's, No 196</title></circle></a><a href="/setts/s4/r6dg5k5t1~x2/"><circle cx="144.5" cy="277.3" r="4" fill="#3465a4"><title>Unidentified No 28</title></circle></a><a href="/setts/s4/r9g9k10t2~x2/"><circle cx="124.6" cy="290.8" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><a href="/setts/s4/k18g18dr21r4~x2/"><circle cx="121.3" cy="292.9" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/setts/s4/p8k11g9r2~x2/"><circle cx="119.3" cy="279.1" r="4" fill="#3465a4"><title>Wilson's, No 159</title></circle></a><a href="/setts/s4/p6k5g5r1~x2/"><circle cx="121.7" cy="273.4" r="4" fill="#3465a4"><title>Unnamed, No 60</title></circle></a><a href="/setts/s4/p8k11g9w2~x2/"><circle cx="109.8" cy="275.9" r="4" fill="#3465a4"><title>Wilson's, No 220</title></circle></a><a href="/setts/s6/r6g5k5g5r6t1~x4/"><circle cx="150.2" cy="266.2" r="4" fill="#3465a4"><title>Norwich No.028</title></circle></a><a href="/setts/s4/dg7dr7w7r1~x6/"><circle cx="107.6" cy="252.5" r="4" fill="#3465a4"><title>MacKinnon Dress Hunting (Fashion)</title></circle></a><a href="/setts/s5/y6r1k6r1g6~x6/"><circle cx="101.8" cy="245.0" r="4" fill="#3465a4"><title>Timespan, (MacKay)</title></circle></a><circle cx="118.6" cy="268.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/r6g5k5t1~x2/

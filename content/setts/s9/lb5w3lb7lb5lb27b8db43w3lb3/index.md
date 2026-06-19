@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10176](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10176)
 
 ## Thread count
-LB/3 W3 DB43 B8 LB27 N5 LB7 Wa3 N/5
+N/5 Wa3 LB7 N5 LB27 B8 DB43 W3 LB/3
 ![Sett](sett.png)
 
 ## Palette
@@ -35,9 +35,9 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Lambert, Patrice (Personal)](/setts/s8/ly1db2ly1db12k1g6p3w1~x4/) — ΔT 1.14
-1. [Dignan School of Dancing](/setts/s7/lo4r2b32k10dp4lb21dp2~x2/) — ΔT 1.34
+1. [Lambert, Patrice (Personal)](/setts/s8/w1p3g6k1db12ly1db2ly1~x4/) — ΔT 1.14
 1. [Queensferry High (School)](/setts/s9/lr5lb3lb7lr5lb27b8dt43w3lb3/) — ΔT 1.34
+1. [Dignan School of Dancing](/setts/s7/lo4r2b32k10dp4lb21dp2~x2/) — ΔT 1.34
 1. [Ar Lenn Vor](/setts/s11/b15ly30w30k20w20k15w10ly4b94w4r10/) — ΔT 1.44
 1. [Rikaco Morning Dew 1 (Fashion)](/setts/s10/db4w2db1t24db10w1db2w5db3r2~x2/) — ΔT 1.56
 1. [Manx National #2](/setts/s7/dp8dg31r4lo4db17b64w4/) — ΔT 1.58
@@ -48,8 +48,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/ly1db2ly1db12k1g6p3w1~x4/"><circle cx="203.2" cy="133.1" r="4" fill="#3465a4"><title>Lambert, Patrice (Personal)</title></circle></a><a href="/setts/s7/lo4r2b32k10dp4lb21dp2~x2/"><circle cx="178.3" cy="128.5" r="4" fill="#3465a4"><title>Dignan School of Dancing</title></circle></a><a href="/setts/s9/lr5lb3lb7lr5lb27b8dt43w3lb3/"><circle cx="197.0" cy="122.1" r="4" fill="#3465a4"><title>Queensferry High (School)</title></circle></a><a href="/setts/s11/b15ly30w30k20w20k15w10ly4b94w4r10/"><circle cx="176.4" cy="94.8" r="4" fill="#3465a4"><title>Ar Lenn Vor</title></circle></a><a href="/setts/s10/db4w2db1t24db10w1db2w5db3r2~x2/"><circle cx="233.9" cy="107.6" r="4" fill="#3465a4"><title>Rikaco Morning Dew 1 (Fashion)</title></circle></a><a href="/setts/s7/dp8dg31r4lo4db17b64w4/"><circle cx="196.7" cy="118.4" r="4" fill="#3465a4"><title>Manx National #2</title></circle></a><a href="/setts/s10/b30db3b3db3b3db10k10g20k2w4~x2/"><circle cx="173.7" cy="142.1" r="4" fill="#3465a4"><title>St Kentigern College</title></circle></a><a href="/setts/s12/db11t3db4lb3db3lb4db3db13b34n3b4db3~x2/"><circle cx="187.0" cy="119.8" r="4" fill="#3465a4"><title>Harmony</title></circle></a><a href="/setts/s16/r1w1db8b12ly1b1k2w3k6db1b1ly1b1db1w1r1~x6/"><circle cx="102.2" cy="86.3" r="4" fill="#3465a4"><title>Buchanan, John &amp; Isabella</title></circle></a><a href="/setts/s12/w6r2w24db12db3db2db2db2db12ly1db1ly3~x2/"><circle cx="183.8" cy="82.2" r="4" fill="#3465a4"><title>Payeur, François (Personal)</title></circle></a><circle cx="166.4" cy="111.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w1p3g6k1db12ly1db2ly1~x4/"><circle cx="203.3" cy="133.0" r="4" fill="#3465a4"><title>Lambert, Patrice (Personal)</title></circle></a><a href="/setts/s9/lr5lb3lb7lr5lb27b8dt43w3lb3/"><circle cx="196.9" cy="122.1" r="4" fill="#3465a4"><title>Queensferry High (School)</title></circle></a><a href="/setts/s7/lo4r2b32k10dp4lb21dp2~x2/"><circle cx="178.3" cy="128.5" r="4" fill="#3465a4"><title>Dignan School of Dancing</title></circle></a><a href="/setts/s11/b15ly30w30k20w20k15w10ly4b94w4r10/"><circle cx="176.3" cy="94.7" r="4" fill="#3465a4"><title>Ar Lenn Vor</title></circle></a><a href="/setts/s10/db4w2db1t24db10w1db2w5db3r2~x2/"><circle cx="233.8" cy="107.6" r="4" fill="#3465a4"><title>Rikaco Morning Dew 1 (Fashion)</title></circle></a><a href="/setts/s7/dp8dg31r4lo4db17b64w4/"><circle cx="196.7" cy="118.5" r="4" fill="#3465a4"><title>Manx National #2</title></circle></a><a href="/setts/s10/b30db3b3db3b3db10k10g20k2w4~x2/"><circle cx="173.8" cy="142.1" r="4" fill="#3465a4"><title>St Kentigern College</title></circle></a><a href="/setts/s12/db11t3db4lb3db3lb4db3db13b34n3b4db3~x2/"><circle cx="186.9" cy="119.9" r="4" fill="#3465a4"><title>Harmony</title></circle></a><a href="/setts/s16/r1w1db8b12ly1b1k2w3k6db1b1ly1b1db1w1r1~x6/"><circle cx="102.2" cy="86.3" r="4" fill="#3465a4"><title>Buchanan, John &amp; Isabella</title></circle></a><a href="/setts/s12/w6r2w24db12db3db2db2db2db12ly1db1ly3~x2/"><circle cx="183.6" cy="82.1" r="4" fill="#3465a4"><title>Payeur, François (Personal)</title></circle></a><circle cx="166.3" cy="111.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/lb5w3lb7lb5lb27b8db43w3lb3/

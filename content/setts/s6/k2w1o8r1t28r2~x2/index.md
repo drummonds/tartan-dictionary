@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3151
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Norris Hunting
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -24,7 +30,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5944
 
 ## Thread count
-DR/4 B56 DR2 N16 LN2 K/4
+K/4 LN2 N16 DR2 B56 DR/4
 ![Sett](sett.png)
 
 ## Palette
@@ -40,7 +46,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/4 B56 DR2 N16 LN2 K/4 tartan")
+![Tartan detail](tartan.png "K/4 LN2 N16 DR2 B56 DR/4 tartan")
 
 ## Nearest tartans
 
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/lb5dy6w2g7w2b44w2~x2/"><circle cx="399.8" cy="138.2" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/setts/s6/t60db19w3db2r2db7~x2/"><circle cx="500.4" cy="181.5" r="4" fill="#3465a4"><title>Federal Bureaux of Investigation</title></circle></a><a href="/setts/s5/lg25r1g1n9w4~x2/"><circle cx="392.9" cy="163.4" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/setts/s5/lg25r1ly1n9w4~x2/"><circle cx="391.5" cy="161.7" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/setts/s5/t72r16k5ly2dt16~x2/"><circle cx="411.7" cy="146.1" r="4" fill="#3465a4"><title>Thomas, Jean Marc (Personal)</title></circle></a><a href="/setts/s6/r2t21r2db6ly1r1~x4/"><circle cx="414.6" cy="165.2" r="4" fill="#3465a4"><title>Lauder Primary School (Corporate)</title></circle></a><a href="/setts/s11/t49dt11w2dt2lr2dt2t10lg4dt2lg2ly3~x2/"><circle cx="425.2" cy="102.9" r="4" fill="#3465a4"><title>Blue Toon (Fashion)</title></circle></a><a href="/setts/s5/k2n36g12w3r2~x2/"><circle cx="406.9" cy="177.7" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/setts/s9/t62g5t3g22k3g3ly3g3k6~x2/"><circle cx="415.5" cy="158.4" r="4" fill="#3465a4"><title>Oliver Hunting - 1973 (Clan)</title></circle></a><a href="/setts/s6/w2o2t25r3lo3dg1~x4/"><circle cx="455.0" cy="129.8" r="4" fill="#3465a4"><title>Pool, Robert David (Personal)</title></circle></a><circle cx="454.4" cy="152.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/lb5dy6w2g7w2b44w2~x2/"><circle cx="399.5" cy="138.1" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/setts/s6/t60db19w3db2r2db7~x2/"><circle cx="500.1" cy="181.4" r="4" fill="#3465a4"><title>Federal Bureaux of Investigation</title></circle></a><a href="/setts/s5/lg25r1g1n9w4~x2/"><circle cx="392.6" cy="163.2" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/setts/s5/lg25r1ly1n9w4~x2/"><circle cx="391.1" cy="161.5" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/setts/s5/t72r16k5ly2dt16~x2/"><circle cx="411.5" cy="145.9" r="4" fill="#3465a4"><title>Thomas, Jean Marc (Personal)</title></circle></a><a href="/setts/s6/r2t21r2db6ly1r1~x4/"><circle cx="414.3" cy="165.0" r="4" fill="#3465a4"><title>Lauder Primary School (Corporate)</title></circle></a><a href="/setts/s11/t49dt11w2dt2lr2dt2t10lg4dt2lg2ly3~x2/"><circle cx="424.8" cy="102.9" r="4" fill="#3465a4"><title>Blue Toon (Fashion)</title></circle></a><a href="/setts/s5/k2n36g12w3r2~x2/"><circle cx="406.7" cy="177.5" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/setts/s9/t62g5t3g22k3g3ly3g3k6~x2/"><circle cx="415.2" cy="158.3" r="4" fill="#3465a4"><title>Oliver Hunting - 1973 (Clan)</title></circle></a><a href="/setts/s6/w2o2t25r3lo3dg1~x4/"><circle cx="454.6" cy="129.7" r="4" fill="#3465a4"><title>Pool, Robert David (Personal)</title></circle></a><circle cx="454.0" cy="151.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k2w1o8r1t28r2~x2/

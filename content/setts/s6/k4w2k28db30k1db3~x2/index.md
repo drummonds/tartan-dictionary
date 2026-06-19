@@ -2,12 +2,19 @@
 title: "Ramsay"
 date: 2023-03-18
 ---
-**Bands:** [BKBKWK](/stripes/bkbkwk/) · **Stripes:** [DB K DB K W K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K DB K W K</span></span>
+**Bands:** [KWKBKB](/stripes/kwkbkb/) · **Stripes:** [K W K DB K DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K W K DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Ramsay Blue
+- Ramsay Blue New Blue
 
 ## Attestations
 
@@ -319,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -893,7 +903,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/6 K2 B60 K56 LN4 K/8
+K/8 LN4 K56 B60 K2 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -907,7 +917,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/6 K2 B60 K56 LN4 K/8 tartan")
+![Tartan detail](tartan.png "K/8 LN4 K56 B60 K2 B/6 tartan")
 
 ## Nearest tartans
 
@@ -917,7 +927,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Angus](/setts/s9/k3r1k32db28r1db2r1db2r3~x2/) — ΔT 1.28
 1. [Ramsay Blue Hunting](/setts/s6/k4lb2k28b30k1b3~x2/) — ΔT 1.47
 1. [St Andrews, Earl of](/setts/s6/db52k28w5k3w2k10/) — ΔT 1.50
-1. [Oakleigh (Corporate)](/setts/s6/b4k1b20k20ly1k4~x4/) — ΔT 1.57
+1. [Oakleigh (Corporate)](/setts/s6/k4ly1k20b20k1b4~x4/) — ΔT 1.57
 1. [Dunlop](/setts/s8/k3r1k30w1db28r1db1w3~x2/) — ΔT 1.74
 1. [TACC](/setts/s7/n34k7n12k40n3k4lt3~x2/) — ΔT 1.76
 1. [Lynn (Personal)](/setts/s8/b18w1k3w1b9w1k45b4~x2/) — ΔT 1.81
@@ -926,8 +936,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k28r1k2r1k8db24g2db3~x2/"><circle cx="368.4" cy="152.7" r="4" fill="#3465a4"><title>Home, or Hume</title></circle></a><a href="/setts/s9/k3r1k32db28r1db2r1db2r3~x2/"><circle cx="365.7" cy="139.4" r="4" fill="#3465a4"><title>Angus</title></circle></a><a href="/setts/s6/k4lb2k28b30k1b3~x2/"><circle cx="366.3" cy="178.3" r="4" fill="#3465a4"><title>Ramsay Blue Hunting</title></circle></a><a href="/setts/s6/db52k28w5k3w2k10/"><circle cx="369.2" cy="188.8" r="4" fill="#3465a4"><title>St Andrews, Earl of</title></circle></a><a href="/setts/s6/b4k1b20k20ly1k4~x4/"><circle cx="353.1" cy="200.2" r="4" fill="#3465a4"><title>Oakleigh (Corporate)</title></circle></a><a href="/setts/s8/k3r1k30w1db28r1db1w3~x2/"><circle cx="359.5" cy="139.2" r="4" fill="#3465a4"><title>Dunlop</title></circle></a><a href="/setts/s7/n34k7n12k40n3k4lt3~x2/"><circle cx="314.8" cy="199.0" r="4" fill="#3465a4"><title>TACC</title></circle></a><a href="/setts/s8/b18w1k3w1b9w1k45b4~x2/"><circle cx="415.7" cy="129.9" r="4" fill="#3465a4"><title>Lynn (Personal)</title></circle></a><a href="/setts/s6/k1lo2k3db12k18w1~x2/"><circle cx="374.1" cy="194.2" r="4" fill="#3465a4"><title>Jon's Theme (Fashion)</title></circle></a><a href="/setts/s6/k1ly2k3n12k18w1~x2/"><circle cx="366.4" cy="186.8" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><circle cx="364.5" cy="179.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k28r1k2r1k8db24g2db3~x2/"><circle cx="368.5" cy="152.6" r="4" fill="#3465a4"><title>Home, or Hume</title></circle></a><a href="/setts/s9/k3r1k32db28r1db2r1db2r3~x2/"><circle cx="365.7" cy="139.3" r="4" fill="#3465a4"><title>Angus</title></circle></a><a href="/setts/s6/k4lb2k28b30k1b3~x2/"><circle cx="366.3" cy="178.0" r="4" fill="#3465a4"><title>Ramsay Blue Hunting</title></circle></a><a href="/setts/s6/db52k28w5k3w2k10/"><circle cx="369.2" cy="188.6" r="4" fill="#3465a4"><title>St Andrews, Earl of</title></circle></a><a href="/setts/s6/k4ly1k20b20k1b4~x4/"><circle cx="353.1" cy="199.9" r="4" fill="#3465a4"><title>Oakleigh (Corporate)</title></circle></a><a href="/setts/s8/k3r1k30w1db28r1db1w3~x2/"><circle cx="359.5" cy="139.2" r="4" fill="#3465a4"><title>Dunlop</title></circle></a><a href="/setts/s7/n34k7n12k40n3k4lt3~x2/"><circle cx="314.9" cy="198.7" r="4" fill="#3465a4"><title>TACC</title></circle></a><a href="/setts/s8/b18w1k3w1b9w1k45b4~x2/"><circle cx="415.6" cy="129.7" r="4" fill="#3465a4"><title>Lynn (Personal)</title></circle></a><a href="/setts/s6/k1lo2k3db12k18w1~x2/"><circle cx="374.2" cy="194.0" r="4" fill="#3465a4"><title>Jon's Theme (Fashion)</title></circle></a><a href="/setts/s6/k1ly2k3n12k18w1~x2/"><circle cx="366.4" cy="186.6" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><circle cx="364.6" cy="178.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k4w2k28db30k1db3~x2/

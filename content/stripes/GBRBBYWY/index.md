@@ -20,7 +20,7 @@ GBRBBYWY
 
 
 
-### DG DP R DP DP LY W LY <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DG DP R DP DP LY W LY</span></span>
+### LY W LY DP DP R DP DG <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="seq">LY W LY DP DP R DP DG</span></span>
 
 | Tartans |
 |---------------|

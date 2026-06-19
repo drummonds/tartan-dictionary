@@ -2,12 +2,18 @@
 title: "Anderson, Old"
 date: 2023-03-18
 ---
-**Bands:** [RBKRKBWKYKYKRBGKRKGR](/stripes/rbkrkbwkykykrbgkrkgr/) · **Stripes:** [R T K R K T W K LY K LY K R T G K R K G R](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R T K R K T W K LY K LY K R T G K R K G R</span></span>
+**Bands:** [RGKRKGBRKYKYKWBKRKBR](/stripes/rgkrkgbrkykykwbkrkbr/) · **Stripes:** [R G K R K G T R K LY K LY K W T K R K T R](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G K R K G T R K LY K LY K W T K R K T R</span></span>
 
 
 This was sourced from weddslist.  It is a [20 band tartan](/bands/bands20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Anderson, Old
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-R/16 B32 K2 R8 K2 B104 LN16 K2 Y4 K8 Y4 K28 R4 B28 G32 K2 R8 K2 G32 R/16
+R/16 G32 K2 R8 K2 G32 B28 R4 K28 Y4 K8 Y4 K2 LN16 B104 K2 R8 K2 B32 R/16
 ![Sett](sett.png)
 
 ## Palette
@@ -918,14 +927,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Prestoungrange/Dolphinstoun/Wills dress](/setts/s15/w3b2w3r4w16k2w2k2w3k10dg35k2dg2k1dg2~x2/) — ΔT 1.47
 1. [Anderson 9](/setts/s21/r4t10k1r2k1t32db4w5k4ly2k2ly2k8r2db8g9k1r2k1g8r4~x2/) — ΔT 1.52
 1. [Stewart Victoria](/setts/s26/lb24b3lb3k6lo1k1lb1k1g8r4k1r2lb1r2k1r4g8k1lb1k1lo1k6lb3b3lb24r2~x4/) — ΔT 1.53
-1. [Seller (Personal)](/setts/s22/g46k3db6ly2db3ly2db3g7r6db2r3w4r3db2r6g7db3ly2db3ly2db6k3~x2/) — ΔT 1.59
+1. [Seller (Personal)](/setts/s22/g46k3db6ly2db3ly2db3g7r6db2r3w4~x2/) — ΔT 1.59
 1. [Colours of Hope](/setts/s11/dt3db28w2ly2db1dg4dt8w3r4ly10dt2~x2/) — ΔT 1.60
 1. [Anderson (MacGregor-Hastie #2)](/setts/s21/r4t10k1r2k1t32db4w5k4ly2k2ly2k8r2db8dg9k1r2k1dg8r4~x2/) — ΔT 1.61
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/r8dg16k1r4k1dg16t14r2k14ly2k4ly2k1w8t52k1r4k1t16r8~x2/"><circle cx="247.0" cy="35.3" r="4" fill="#3465a4"><title>Anderson Old (Makinlay)</title></circle></a><a href="/setts/s17/db28ly6k2ly1k2ly6w6dg2w1dg2w6db28n4k5dg8k5n4~x2/"><circle cx="204.1" cy="62.4" r="4" fill="#3465a4"><title>Bog Myrtle Corner</title></circle></a><a href="/setts/s18/g2r2g18o6db40lo1db1lo4w2lo4db1lo1db40o6g18r2g2w1~x2/"><circle cx="298.7" cy="45.9" r="4" fill="#3465a4"><title>O'Mahony, The</title></circle></a><a href="/setts/s17/w2k32o5n3o2n3o2n3o1n6ly3k2ly1w3ly2k2w1~x2/"><circle cx="249.3" cy="36.1" r="4" fill="#3465a4"><title>Cornish Pascoe (Name)</title></circle></a><a href="/setts/s15/w3b2w3r4w16k2w2k2w3k10dg35k2dg2k1dg2~x2/"><circle cx="236.4" cy="56.4" r="4" fill="#3465a4"><title>Prestoungrange/Dolphinstoun/Wills dress</title></circle></a><a href="/setts/s21/r4t10k1r2k1t32db4w5k4ly2k2ly2k8r2db8g9k1r2k1g8r4~x2/"><circle cx="133.4" cy="26.6" r="4" fill="#3465a4"><title>Anderson 9</title></circle></a><a href="/setts/s26/lb24b3lb3k6lo1k1lb1k1g8r4k1r2lb1r2k1r4g8k1lb1k1lo1k6lb3b3lb24r2~x4/"><circle cx="218.3" cy="28.7" r="4" fill="#3465a4"><title>Stewart Victoria</title></circle></a><a href="/setts/s22/g46k3db6ly2db3ly2db3g7r6db2r3w4r3db2r6g7db3ly2db3ly2db6k3~x2/"><circle cx="235.0" cy="45.2" r="4" fill="#3465a4"><title>Seller (Personal)</title></circle></a><a href="/setts/s11/dt3db28w2ly2db1dg4dt8w3r4ly10dt2~x2/"><circle cx="198.7" cy="77.0" r="4" fill="#3465a4"><title>Colours of Hope</title></circle></a><a href="/setts/s21/r4t10k1r2k1t32db4w5k4ly2k2ly2k8r2db8dg9k1r2k1dg8r4~x2/"><circle cx="150.3" cy="35.0" r="4" fill="#3465a4"><title>Anderson (MacGregor-Hastie #2)</title></circle></a><circle cx="231.4" cy="27.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/r8dg16k1r4k1dg16t14r2k14ly2k4ly2k1w8t52k1r4k1t16r8~x2/"><circle cx="246.7" cy="35.4" r="4" fill="#3465a4"><title>Anderson Old (Makinlay)</title></circle></a><a href="/setts/s17/db28ly6k2ly1k2ly6w6dg2w1dg2w6db28n4k5dg8k5n4~x2/"><circle cx="204.0" cy="62.4" r="4" fill="#3465a4"><title>Bog Myrtle Corner</title></circle></a><a href="/setts/s18/g2r2g18o6db40lo1db1lo4w2lo4db1lo1db40o6g18r2g2w1~x2/"><circle cx="298.4" cy="45.9" r="4" fill="#3465a4"><title>O'Mahony, The</title></circle></a><a href="/setts/s17/w2k32o5n3o2n3o2n3o1n6ly3k2ly1w3ly2k2w1~x2/"><circle cx="249.1" cy="36.1" r="4" fill="#3465a4"><title>Cornish Pascoe (Name)</title></circle></a><a href="/setts/s15/w3b2w3r4w16k2w2k2w3k10dg35k2dg2k1dg2~x2/"><circle cx="236.1" cy="56.4" r="4" fill="#3465a4"><title>Prestoungrange/Dolphinstoun/Wills dress</title></circle></a><a href="/setts/s21/r4t10k1r2k1t32db4w5k4ly2k2ly2k8r2db8g9k1r2k1g8r4~x2/"><circle cx="133.3" cy="26.8" r="4" fill="#3465a4"><title>Anderson 9</title></circle></a><a href="/setts/s26/lb24b3lb3k6lo1k1lb1k1g8r4k1r2lb1r2k1r4g8k1lb1k1lo1k6lb3b3lb24r2~x4/"><circle cx="217.9" cy="28.7" r="4" fill="#3465a4"><title>Stewart Victoria</title></circle></a><a href="/setts/s22/g46k3db6ly2db3ly2db3g7r6db2r3w4~x2/"><circle cx="234.7" cy="45.3" r="4" fill="#3465a4"><title>Seller (Personal)</title></circle></a><a href="/setts/s11/dt3db28w2ly2db1dg4dt8w3r4ly10dt2~x2/"><circle cx="198.6" cy="77.0" r="4" fill="#3465a4"><title>Colours of Hope</title></circle></a><a href="/setts/s21/r4t10k1r2k1t32db4w5k4ly2k2ly2k8r2db8dg9k1r2k1dg8r4~x2/"><circle cx="150.1" cy="35.3" r="4" fill="#3465a4"><title>Anderson (MacGregor-Hastie #2)</title></circle></a><circle cx="231.2" cy="27.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s20/r8g16k1r4k1g16t14r2k14ly2k4ly2k1w8t52k1r4k1t16r8~x2/

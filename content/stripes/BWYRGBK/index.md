@@ -20,7 +20,7 @@ BWYRGBK
 
 
 
-### DB W LO R DG DB K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">DB W LO R DG DB K</span></span>
+### K DB DG R LO W DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB DG R LO W DB</span></span>
 
 | Tartans |
 |---------------|

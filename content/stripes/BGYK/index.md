@@ -20,7 +20,7 @@ BGYK
 
 
 
-### T G LY K <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="seq">T G LY K</span></span>
+### K LY G T <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">K LY G T</span></span>
 
 | Tartans |
 |---------------|

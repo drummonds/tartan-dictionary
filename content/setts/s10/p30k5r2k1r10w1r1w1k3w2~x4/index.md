@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/7201/
 
 ## Thread count
-LN/8 K12 LN4 R4 LN4 R40 K4 R8 K20 P/120
+P/120 K20 R8 K4 R40 LN4 R4 LN4 K12 LN/8
 ![Sett](sett.png)
 
 ## Palette
@@ -28,20 +28,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Diamond Jubilee (McGill) (Fashion)](/setts/s13/dp36dp8dp2dp8dp1lb2dp4lb2dp4lb18w2lb1w4~x2/) — ΔT 1.10
-1. [Longniddry, dress](/setts/s8/p42db2w2db2p5b12w32p4~x2/) — ΔT 1.37
+1. [Longniddry, dress](/setts/s8/p42db2w2db2p5b12w32p4~x2/) — ΔT 1.38
 1. [Svanholm (Personal)](/setts/s10/ly4k1m14k1w2k1dp28k4ly2w3~x2/) — ΔT 1.40
 1. [Longniddry Dress District Tartan Tartan Number: 88. Earliest known date: pre 2003 A dancers tartan from D.C. Dalgleish weavers of Selkirk See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/dp42db2w2db2dp5t12w32dp4~x2/) — ΔT 1.44
 1. [Scottish Bakers](/setts/s14/w2dp2y3ly5y13dp2y2dp2y2dp33m2dp1y4w1~x2/) — ΔT 1.49
 1. [Longniddry Dress (Dance)](/setts/s8/dp42lb2w2lb2dp5t12w32dp4~x2/) — ΔT 1.49
 1. [Meiji Rugby 1923 (Corporate)](/setts/s13/dp2w2dp23db1w3db7w1db2w1db1dp5db12w2~x2/) — ΔT 1.61
 1. [Salvation Army Dress](/setts/s14/r16k2ly4k2r15k2db74k2r15k2ly4k2r16db10~x2/) — ΔT 1.61
-1. [Nance (2002)](/setts/s11/dp52y14o2g3dp2g3y6lb6g2lb6dp2~x2/) — ΔT 1.66
+1. [Nance (2002)](/setts/s11/dp52y14o2g3dp2g3y6lb6g2lb6dp2~x2/) — ΔT 1.65
 1. [Richardson](/setts/s10/r25k1ly2k1ly2k1r10db18w2db12~x2/) — ΔT 1.71
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dp36dp8dp2dp8dp1lb2dp4lb2dp4lb18w2lb1w4~x2/"><circle cx="311.3" cy="79.1" r="4" fill="#3465a4"><title>Diamond Jubilee (McGill) (Fashion)</title></circle></a><a href="/setts/s8/p42db2w2db2p5b12w32p4~x2/"><circle cx="298.0" cy="122.0" r="4" fill="#3465a4"><title>Longniddry, dress</title></circle></a><a href="/setts/s10/ly4k1m14k1w2k1dp28k4ly2w3~x2/"><circle cx="270.0" cy="78.7" r="4" fill="#3465a4"><title>Svanholm (Personal)</title></circle></a><a href="/setts/s8/dp42db2w2db2dp5t12w32dp4~x2/"><circle cx="292.9" cy="122.6" r="4" fill="#3465a4"><title>Longniddry Dress District Tartan Tartan Number: 88. Earliest known date: pre 2003 A dancers tartan from D.C. Dalgleish weavers of Selkirk See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/w2dp2y3ly5y13dp2y2dp2y2dp33m2dp1y4w1~x2/"><circle cx="347.1" cy="68.6" r="4" fill="#3465a4"><title>Scottish Bakers</title></circle></a><a href="/setts/s8/dp42lb2w2lb2dp5t12w32dp4~x2/"><circle cx="293.3" cy="121.9" r="4" fill="#3465a4"><title>Longniddry Dress (Dance)</title></circle></a><a href="/setts/s13/dp2w2dp23db1w3db7w1db2w1db1dp5db12w2~x2/"><circle cx="327.3" cy="125.6" r="4" fill="#3465a4"><title>Meiji Rugby 1923 (Corporate)</title></circle></a><a href="/setts/s14/r16k2ly4k2r15k2db74k2r15k2ly4k2r16db10~x2/"><circle cx="360.3" cy="80.6" r="4" fill="#3465a4"><title>Salvation Army Dress</title></circle></a><a href="/setts/s11/dp52y14o2g3dp2g3y6lb6g2lb6dp2~x2/"><circle cx="359.8" cy="90.1" r="4" fill="#3465a4"><title>Nance (2002)</title></circle></a><a href="/setts/s10/r25k1ly2k1ly2k1r10db18w2db12~x2/"><circle cx="263.6" cy="91.3" r="4" fill="#3465a4"><title>Richardson</title></circle></a><circle cx="344.0" cy="88.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dp36dp8dp2dp8dp1lb2dp4lb2dp4lb18w2lb1w4~x2/"><circle cx="311.0" cy="79.0" r="4" fill="#3465a4"><title>Diamond Jubilee (McGill) (Fashion)</title></circle></a><a href="/setts/s8/p42db2w2db2p5b12w32p4~x2/"><circle cx="297.6" cy="121.8" r="4" fill="#3465a4"><title>Longniddry, dress</title></circle></a><a href="/setts/s10/ly4k1m14k1w2k1dp28k4ly2w3~x2/"><circle cx="269.7" cy="78.7" r="4" fill="#3465a4"><title>Svanholm (Personal)</title></circle></a><a href="/setts/s8/dp42db2w2db2dp5t12w32dp4~x2/"><circle cx="292.6" cy="122.4" r="4" fill="#3465a4"><title>Longniddry Dress District Tartan Tartan Number: 88. Earliest known date: pre 2003 A dancers tartan from D.C. Dalgleish weavers of Selkirk See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/w2dp2y3ly5y13dp2y2dp2y2dp33m2dp1y4w1~x2/"><circle cx="346.8" cy="68.5" r="4" fill="#3465a4"><title>Scottish Bakers</title></circle></a><a href="/setts/s8/dp42lb2w2lb2dp5t12w32dp4~x2/"><circle cx="292.9" cy="121.7" r="4" fill="#3465a4"><title>Longniddry Dress (Dance)</title></circle></a><a href="/setts/s13/dp2w2dp23db1w3db7w1db2w1db1dp5db12w2~x2/"><circle cx="327.1" cy="125.4" r="4" fill="#3465a4"><title>Meiji Rugby 1923 (Corporate)</title></circle></a><a href="/setts/s14/r16k2ly4k2r15k2db74k2r15k2ly4k2r16db10~x2/"><circle cx="360.0" cy="80.6" r="4" fill="#3465a4"><title>Salvation Army Dress</title></circle></a><a href="/setts/s11/dp52y14o2g3dp2g3y6lb6g2lb6dp2~x2/"><circle cx="359.5" cy="90.0" r="4" fill="#3465a4"><title>Nance (2002)</title></circle></a><a href="/setts/s10/r25k1ly2k1ly2k1r10db18w2db12~x2/"><circle cx="263.3" cy="91.2" r="4" fill="#3465a4"><title>Richardson</title></circle></a><circle cx="343.7" cy="88.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/p30k5r2k1r10w1r1w1k3w2~x4/

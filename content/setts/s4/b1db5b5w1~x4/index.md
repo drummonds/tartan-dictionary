@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -918,8 +921,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/t1db5t5w1~x4/"><circle cx="278.3" cy="295.4" r="4" fill="#3465a4"><title>Manx Cornaa (Personal)</title></circle></a><a href="/setts/s6/db5t5w1t5db5t1~x4/"><circle cx="277.6" cy="304.4" r="4" fill="#3465a4"><title>Manx Cornaa (Personal)</title></circle></a><a href="/setts/s5/p9b6w1g4p2~x8/"><circle cx="270.7" cy="250.9" r="4" fill="#3465a4"><title>Cathro (Name)</title></circle></a><a href="/setts/s7/db2t4w1t4db6t2db2~x4/"><circle cx="271.1" cy="289.9" r="4" fill="#3465a4"><title>Langdons</title></circle></a><a href="/setts/s4/p20db25w3k2~x2/"><circle cx="326.5" cy="238.3" r="4" fill="#3465a4"><title>Murdoch, Ellis (Personal)</title></circle></a><a href="/setts/s4/k15db40k9o10~x2/"><circle cx="310.9" cy="312.2" r="4" fill="#3465a4"><title>Omega Delta Sigma, National Veterans</title></circle></a><a href="/setts/s5/o9db3o1db11o1~x6/"><circle cx="404.4" cy="264.8" r="4" fill="#3465a4"><title>MacCallum High School Corporate Tartan Tartan Number: 1279. Earliest known date: 0 From the J. Rutledge Collection, Belfast. MacCallum High School, Philadelphia See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/db3t3db16t16db16w3~x2/"><circle cx="323.6" cy="272.0" r="4" fill="#3465a4"><title>Murray Taylor</title></circle></a><a href="/setts/s4/r21db43dt86lb10/"><circle cx="291.9" cy="257.7" r="4" fill="#3465a4"><title>Fong (Personal)</title></circle></a><a href="/setts/s7/t2lb4w1lb4t6lb2t2~x4/"><circle cx="259.6" cy="275.1" r="4" fill="#3465a4"><title>Langdons (Corporate)</title></circle></a><circle cx="295.0" cy="295.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/t1db5t5w1~x4/"><circle cx="278.3" cy="295.1" r="4" fill="#3465a4"><title>Manx Cornaa (Personal)</title></circle></a><a href="/setts/s6/db5t5w1t5db5t1~x4/"><circle cx="277.7" cy="304.2" r="4" fill="#3465a4"><title>Manx Cornaa (Personal)</title></circle></a><a href="/setts/s5/p9b6w1g4p2~x8/"><circle cx="270.6" cy="250.8" r="4" fill="#3465a4"><title>Cathro (Name)</title></circle></a><a href="/setts/s7/db2t4w1t4db6t2db2~x4/"><circle cx="271.2" cy="289.7" r="4" fill="#3465a4"><title>Langdons</title></circle></a><a href="/setts/s4/p20db25w3k2~x2/"><circle cx="326.5" cy="238.2" r="4" fill="#3465a4"><title>Murdoch, Ellis (Personal)</title></circle></a><a href="/setts/s4/k15db40k9o10~x2/"><circle cx="311.0" cy="312.0" r="4" fill="#3465a4"><title>Omega Delta Sigma, National Veterans</title></circle></a><a href="/setts/s5/o9db3o1db11o1~x6/"><circle cx="404.3" cy="264.5" r="4" fill="#3465a4"><title>MacCallum High School Corporate Tartan Tartan Number: 1279. Earliest known date: 0 From the J. Rutledge Collection, Belfast. MacCallum High School, Philadelphia See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/db3t3db16t16db16w3~x2/"><circle cx="323.6" cy="271.7" r="4" fill="#3465a4"><title>Murray Taylor</title></circle></a><a href="/setts/s4/r21db43dt86lb10/"><circle cx="292.0" cy="257.5" r="4" fill="#3465a4"><title>Fong (Personal)</title></circle></a><a href="/setts/s7/t2lb4w1lb4t6lb2t2~x4/"><circle cx="259.5" cy="274.9" r="4" fill="#3465a4"><title>Langdons (Corporate)</title></circle></a><circle cx="294.9" cy="295.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/b1db5b5w1~x4/

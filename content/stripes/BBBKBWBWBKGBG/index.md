@@ -18,7 +18,7 @@ BBBKBWBWBKGBG
 
 
 
-### N DR N K DO W DO W DO K DG DR DG <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="seq">N DR N K DO W DO W DO K DG DR DG</span></span>
+### DG DR DG K DO W DO W DO K N DR N <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#636363"></span><span class="seq">DG DR DG K DO W DO W DO K N DR N</span></span>
 
 | Tartans |
 |---------------|

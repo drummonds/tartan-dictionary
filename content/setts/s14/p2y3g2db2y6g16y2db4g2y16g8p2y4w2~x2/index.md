@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 B8 P4 G16 B32 G4 Ba8 B4 G32 B12 Ba4 G4 B6 P/4
+P/4 B6 G4 Ba4 B12 G32 B4 Ba8 G4 B32 G16 P4 B8 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -903,12 +906,12 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Harkness Hunting #2](/setts/s18/g10n2w2n16g6ly2g4r2g3n6g3r2g4ly2g6n16w2n2~x4/) — ΔT 0.94
-1. [Chieftain's](/setts/s12/b8g8k1r1ly1b2g2k1r1ly1b8g8~x4/) — ΔT 1.24
+1. [Harkness Hunting #2](/setts/s18/g10n2w2n16g6ly2g4r2g3n6~x4/) — ΔT 0.94
+1. [Chieftain's](/setts/s12/g8b8ly1r1k1g2b2ly1r1k1g8b8~x4/) — ΔT 1.24
 1. [Harkness Htg (Name)](/setts/s10/g10n2w2n16g6ly2g4r2g3n6~x4/) — ΔT 1.29
 1. [Greylock](/setts/s13/g11lr2g12k3t15r3t15g19lr2t3k2t3lo3~x2/) — ΔT 1.35
 1. [Scottish Power Corporate Tartan Tartan Number: 2435. Earliest known date: pre 1996 Designed by Lochcarron for Scottish Power using the main corporate colours and taking care to produce a sett that could be seen as pipe band kilts at a distance. Scottish Power say (9.12.02) that Kinloch Anderson deal with this tartan and that permission to order/wear it is required from Scottish Power, Corporate Communications, 0141 566 4856. . See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/dg8r3dg8k10dp5g32dg5g32dp5k10dg8r3dg8dp3~x2/) — ΔT 1.42
-1. [Hawaiian](/setts/s14/t4r1ly1t12do4y10ly1r3ly1y10do4t12ly1r1~x4/) — ΔT 1.44
+1. [Hawaiian](/setts/s14/t4r1ly1t12do4y10ly1r3~x4/) — ΔT 1.44
 1. [Morneau (Quebec), Richard (Personal)](/setts/s10/t29do8g21r3g8t16w3do3w3g8~x2/) — ΔT 1.47
 1. [Stewart of Appin, Ancient hunting](/setts/s10/g11r4g4r7g41o11t4db41r4db8/) — ΔT 1.53
 1. [Fraser hunting](/setts/s11/r3o18g10o2db10o2db10o2g10o18w3~x2/) — ΔT 1.53
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/g10n2w2n16g6ly2g4r2g3n6g3r2g4ly2g6n16w2n2~x4/"><circle cx="265.7" cy="193.9" r="4" fill="#3465a4"><title>Harkness Hunting #2</title></circle></a><a href="/setts/s12/b8g8k1r1ly1b2g2k1r1ly1b8g8~x4/"><circle cx="231.6" cy="186.5" r="4" fill="#3465a4"><title>Chieftain's</title></circle></a><a href="/setts/s10/g10n2w2n16g6ly2g4r2g3n6~x4/"><circle cx="283.7" cy="231.2" r="4" fill="#3465a4"><title>Harkness Htg (Name)</title></circle></a><a href="/setts/s13/g11lr2g12k3t15r3t15g19lr2t3k2t3lo3~x2/"><circle cx="217.9" cy="170.2" r="4" fill="#3465a4"><title>Greylock</title></circle></a><a href="/setts/s14/dg8r3dg8k10dp5g32dg5g32dp5k10dg8r3dg8dp3~x2/"><circle cx="239.7" cy="175.9" r="4" fill="#3465a4"><title>Scottish Power Corporate Tartan Tartan Number: 2435. Earliest known date: pre 1996 Designed by Lochcarron for Scottish Power using the main corporate colours and taking care to produce a sett that could be seen as pipe band kilts at a distance. Scottish Power say (9.12.02) that Kinloch Anderson deal with this tartan and that permission to order/wear it is required from Scottish Power, Corporate Communications, 0141 566 4856. . See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/t4r1ly1t12do4y10ly1r3ly1y10do4t12ly1r1~x4/"><circle cx="238.9" cy="168.0" r="4" fill="#3465a4"><title>Hawaiian</title></circle></a><a href="/setts/s10/t29do8g21r3g8t16w3do3w3g8~x2/"><circle cx="232.4" cy="188.6" r="4" fill="#3465a4"><title>Morneau (Quebec), Richard (Personal)</title></circle></a><a href="/setts/s10/g11r4g4r7g41o11t4db41r4db8/"><circle cx="235.9" cy="176.5" r="4" fill="#3465a4"><title>Stewart of Appin, Ancient hunting</title></circle></a><a href="/setts/s11/r3o18g10o2db10o2db10o2g10o18w3~x2/"><circle cx="249.7" cy="207.6" r="4" fill="#3465a4"><title>Fraser hunting</title></circle></a><a href="/setts/s16/b17g16k2g24lo3k4r2k2r2k4lo3g24k2g16b17r2~x2/"><circle cx="321.4" cy="176.5" r="4" fill="#3465a4"><title>Shanahan</title></circle></a><circle cx="252.3" cy="191.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/g10n2w2n16g6ly2g4r2g3n6~x4/"><circle cx="265.5" cy="194.0" r="4" fill="#3465a4"><title>Harkness Hunting #2</title></circle></a><a href="/setts/s12/g8b8ly1r1k1g2b2ly1r1k1g8b8~x4/"><circle cx="231.5" cy="186.5" r="4" fill="#3465a4"><title>Chieftain's</title></circle></a><a href="/setts/s10/g10n2w2n16g6ly2g4r2g3n6~x4/"><circle cx="283.6" cy="231.3" r="4" fill="#3465a4"><title>Harkness Htg (Name)</title></circle></a><a href="/setts/s13/g11lr2g12k3t15r3t15g19lr2t3k2t3lo3~x2/"><circle cx="217.8" cy="170.2" r="4" fill="#3465a4"><title>Greylock</title></circle></a><a href="/setts/s14/dg8r3dg8k10dp5g32dg5g32dp5k10dg8r3dg8dp3~x2/"><circle cx="239.7" cy="176.0" r="4" fill="#3465a4"><title>Scottish Power Corporate Tartan Tartan Number: 2435. Earliest known date: pre 1996 Designed by Lochcarron for Scottish Power using the main corporate colours and taking care to produce a sett that could be seen as pipe band kilts at a distance. Scottish Power say (9.12.02) that Kinloch Anderson deal with this tartan and that permission to order/wear it is required from Scottish Power, Corporate Communications, 0141 566 4856. . See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/t4r1ly1t12do4y10ly1r3~x4/"><circle cx="238.8" cy="168.1" r="4" fill="#3465a4"><title>Hawaiian</title></circle></a><a href="/setts/s10/t29do8g21r3g8t16w3do3w3g8~x2/"><circle cx="232.2" cy="188.7" r="4" fill="#3465a4"><title>Morneau (Quebec), Richard (Personal)</title></circle></a><a href="/setts/s10/g11r4g4r7g41o11t4db41r4db8/"><circle cx="235.8" cy="176.6" r="4" fill="#3465a4"><title>Stewart of Appin, Ancient hunting</title></circle></a><a href="/setts/s11/r3o18g10o2db10o2db10o2g10o18w3~x2/"><circle cx="249.5" cy="207.7" r="4" fill="#3465a4"><title>Fraser hunting</title></circle></a><a href="/setts/s16/b17g16k2g24lo3k4r2k2r2k4lo3g24k2g16b17r2~x2/"><circle cx="321.3" cy="176.6" r="4" fill="#3465a4"><title>Shanahan</title></circle></a><circle cx="252.1" cy="192.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/p2y3g2db2y6g16y2db4g2y16g8p2y4w2~x2/

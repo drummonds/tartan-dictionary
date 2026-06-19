@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands1
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7444/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Clare County, Crest Range
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -48,7 +54,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Royal Stuart/Stewart (Variant)](/setts/s16/db81r4db8r8db4r12w16k8w32k16ly6db8dg16r8w4r24/) — ΔT 0.92
 1. [MacBeth #2](/setts/s12/db40ly4k3w2k3w2k3dg10r6k2r4w2~x2/) — ΔT 0.99
 1. [Royal Stewart, (Variant)](/setts/s16/db81r4db8r8db4r12w16k8w32k16ly6db8g16r8w4r24/) — ΔT 0.99
-1. [Otago](/setts/s18/lo16k2lo6k2r2k2db15g1db1w2db1g1db15k2r2k2lo6k2~x2/) — ΔT 1.02
+1. [Otago](/setts/s18/lo16k2lo6k2r2k2db15g1db1w2~x2/) — ΔT 1.02
 1. [Mead of Poetry (Fashion)](/setts/s12/w6n2db6n2db25n2r1n2ly3t5w6n4~x2/) — ΔT 1.04
 1. [Clinton Wedding (Personal)](/setts/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/) — ΔT 1.07
 1. [Clinton Wedding](/setts/s12/w5db6r20k6n5k3db26r2ly1r2db3w3~x2/) — ΔT 1.07
@@ -57,8 +63,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/w4k1db24k1r8w2dg8w2db8k1ly2k8ly2k1~x2/"><circle cx="191.2" cy="77.3" r="4" fill="#3465a4"><title>South Africa</title></circle></a><a href="/setts/s16/db81r4db8r8db4r12w16k8w32k16ly6db8dg16r8w4r24/"><circle cx="159.8" cy="66.6" r="4" fill="#3465a4"><title>Royal Stuart/Stewart (Variant)</title></circle></a><a href="/setts/s12/db40ly4k3w2k3w2k3dg10r6k2r4w2~x2/"><circle cx="243.5" cy="77.4" r="4" fill="#3465a4"><title>MacBeth #2</title></circle></a><a href="/setts/s16/db81r4db8r8db4r12w16k8w32k16ly6db8g16r8w4r24/"><circle cx="154.3" cy="65.6" r="4" fill="#3465a4"><title>Royal Stewart, (Variant)</title></circle></a><a href="/setts/s18/lo16k2lo6k2r2k2db15g1db1w2db1g1db15k2r2k2lo6k2~x2/"><circle cx="178.0" cy="83.4" r="4" fill="#3465a4"><title>Otago</title></circle></a><a href="/setts/s12/w6n2db6n2db25n2r1n2ly3t5w6n4~x2/"><circle cx="222.0" cy="83.2" r="4" fill="#3465a4"><title>Mead of Poetry (Fashion)</title></circle></a><a href="/setts/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/"><circle cx="211.0" cy="82.7" r="4" fill="#3465a4"><title>Clinton Wedding (Personal)</title></circle></a><a href="/setts/s12/w5db6r20k6n5k3db26r2ly1r2db3w3~x2/"><circle cx="201.7" cy="79.8" r="4" fill="#3465a4"><title>Clinton Wedding</title></circle></a><a href="/setts/s16/r3dt14k12t24k1w3k1t24k12dt2k2dt2k2dt8ly1r3~x2/"><circle cx="199.5" cy="89.4" r="4" fill="#3465a4"><title>Royal Scottish Country Dance Society</title></circle></a><a href="/setts/s16/db12k3ly2k3r12db12k2lo28k2ly2k2o2k2lo28k2db12~x2/"><circle cx="195.0" cy="98.3" r="4" fill="#3465a4"><title>Oneness</title></circle></a><circle cx="204.1" cy="79.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/w4k1db24k1r8w2dg8w2db8k1ly2k8ly2k1~x2/"><circle cx="191.1" cy="77.4" r="4" fill="#3465a4"><title>South Africa</title></circle></a><a href="/setts/s16/db81r4db8r8db4r12w16k8w32k16ly6db8dg16r8w4r24/"><circle cx="159.6" cy="66.7" r="4" fill="#3465a4"><title>Royal Stuart/Stewart (Variant)</title></circle></a><a href="/setts/s12/db40ly4k3w2k3w2k3dg10r6k2r4w2~x2/"><circle cx="243.3" cy="77.5" r="4" fill="#3465a4"><title>MacBeth #2</title></circle></a><a href="/setts/s16/db81r4db8r8db4r12w16k8w32k16ly6db8g16r8w4r24/"><circle cx="154.1" cy="65.6" r="4" fill="#3465a4"><title>Royal Stewart, (Variant)</title></circle></a><a href="/setts/s18/lo16k2lo6k2r2k2db15g1db1w2~x2/"><circle cx="177.9" cy="83.5" r="4" fill="#3465a4"><title>Otago</title></circle></a><a href="/setts/s12/w6n2db6n2db25n2r1n2ly3t5w6n4~x2/"><circle cx="221.9" cy="83.2" r="4" fill="#3465a4"><title>Mead of Poetry (Fashion)</title></circle></a><a href="/setts/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/"><circle cx="210.9" cy="82.7" r="4" fill="#3465a4"><title>Clinton Wedding (Personal)</title></circle></a><a href="/setts/s12/w5db6r20k6n5k3db26r2ly1r2db3w3~x2/"><circle cx="201.6" cy="79.8" r="4" fill="#3465a4"><title>Clinton Wedding</title></circle></a><a href="/setts/s16/r3dt14k12t24k1w3k1t24k12dt2k2dt2k2dt8ly1r3~x2/"><circle cx="199.5" cy="89.5" r="4" fill="#3465a4"><title>Royal Scottish Country Dance Society</title></circle></a><a href="/setts/s16/db12k3ly2k3r12db12k2lo28k2ly2k2o2k2lo28k2db12~x2/"><circle cx="194.8" cy="98.4" r="4" fill="#3465a4"><title>Oneness</title></circle></a><circle cx="203.9" cy="79.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/db62lo3k3r15db18w3lo28o12k3o5lo5o5db6k12w8/

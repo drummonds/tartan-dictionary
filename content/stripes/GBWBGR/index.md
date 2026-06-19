@@ -21,14 +21,14 @@ GBWBGR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DY DT LB DT DY R <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="seq">DY DT LB DT DY R</span></span>
+### R DY DT LB DT DY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">R DY DT LB DT DY</span></span>
 
 | Tartans |
 |---------------|
 | [Bronte House Check (Fashion)](/setts/s6/r10dy60dt13lb24dt24dy8/)|
 |![Bronte House Check (Fashion) example sett](/setts/s6/r10dy60dt13lb24dt24dy8/sett.png)|
 
-### G DP W DP G R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">G DP W DP G R</span></span>
+### R G DP W DP G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G DP W DP G</span></span>
 
 | Tartans |
 |---------------|

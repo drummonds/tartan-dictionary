@@ -2,12 +2,18 @@
 title: "MacDougall"
 date: 2023-03-18
 ---
-**Bands:** [BGBBRGRGRGR](/stripes/bgbbrgrgrgr/) · **Stripes:** [DP DG DB DP R DG R DG R DG R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">DP DG DB DP R DG R DG R DG R</span></span>
+**Bands:** [RGRGRGRBBGB](/stripes/rgrgrgrbbgb/) · **Stripes:** [R DG R DG R DG R DP DB DG DP](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DG R DG R DG R DP DB DG DP</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2392
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacDougal 4
 
 ## Register references
 
@@ -47,15 +53,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Cameron of Locheil](/setts/s13/db4r1db1r18db10r1dg1r6dg10r6w1r4db1~x2/) — ΔT 0.85
 1. [Leslie Red (VS)](/setts/s14/r16db8r2k3ly1k3r2k3ly1k3r2db8r16k1~x4/) — ΔT 1.06
 1. [Jenkins (Name)](/setts/s10/db2r30g8r3g8r6db4r3db12w2~x2/) — ΔT 1.08
-1. [Chisholm D](/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1~x2/) — ΔT 1.10
+1. [Chisholm D](/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1/) — ΔT 1.10
 1. [Cameron of Locheil](/setts/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/) — ΔT 1.10
 1. [MacDonald of Glenaladale](/setts/s11/db3t1r30db32r3w1r3dg23r31db3w1/) — ΔT 1.12
-1. [MacPherson Of Cluny](/setts/s11/r3dp1r1dg21r3dp18r35dp1ly1r4dg1~x2/) — ΔT 1.13
+1. [MacPherson Of Cluny](/setts/s11/r3dp1r1dg21r3dp18r35dp1ly1r4dg1/) — ΔT 1.12
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dp4dg8db6dp8r6dg2r2dg2r24dg1r3/"><circle cx="326.8" cy="132.2" r="4" fill="#3465a4"><title>MacDougall VS</title></circle></a><a href="/setts/s11/p4g8db6p8r6g2r2g2r24g1r3~x2/"><circle cx="343.2" cy="137.3" r="4" fill="#3465a4"><title>MacDougal 4</title></circle></a><a href="/setts/s12/w5dr1r20dr4w2dr4w2dr24o2dr1o4dr4~x2/"><circle cx="320.3" cy="105.2" r="4" fill="#3465a4"><title>Chrysanthemum (Japanese Four Seasons)</title></circle></a><a href="/setts/s13/db4r1db1r18db10r1dg1r6dg10r6w1r4db1~x2/"><circle cx="337.9" cy="133.8" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s14/r16db8r2k3ly1k3r2k3ly1k3r2db8r16k1~x4/"><circle cx="315.6" cy="131.6" r="4" fill="#3465a4"><title>Leslie Red (VS)</title></circle></a><a href="/setts/s10/db2r30g8r3g8r6db4r3db12w2~x2/"><circle cx="315.7" cy="150.1" r="4" fill="#3465a4"><title>Jenkins (Name)</title></circle></a><a href="/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1~x2/"><circle cx="373.5" cy="125.6" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/setts/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/"><circle cx="344.5" cy="140.8" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s11/db3t1r30db32r3w1r3dg23r31db3w1/"><circle cx="321.2" cy="100.0" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/setts/s11/r3dp1r1dg21r3dp18r35dp1ly1r4dg1~x2/"><circle cx="369.1" cy="103.5" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><circle cx="328.9" cy="128.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dp4dg8db6dp8r6dg2r2dg2r24dg1r3/"><circle cx="326.5" cy="132.2" r="4" fill="#3465a4"><title>MacDougall VS</title></circle></a><a href="/setts/s11/p4g8db6p8r6g2r2g2r24g1r3~x2/"><circle cx="342.9" cy="137.3" r="4" fill="#3465a4"><title>MacDougal 4</title></circle></a><a href="/setts/s12/w5dr1r20dr4w2dr4w2dr24o2dr1o4dr4~x2/"><circle cx="319.9" cy="105.1" r="4" fill="#3465a4"><title>Chrysanthemum (Japanese Four Seasons)</title></circle></a><a href="/setts/s13/db4r1db1r18db10r1dg1r6dg10r6w1r4db1~x2/"><circle cx="337.4" cy="133.8" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s14/r16db8r2k3ly1k3r2k3ly1k3r2db8r16k1~x4/"><circle cx="315.3" cy="131.5" r="4" fill="#3465a4"><title>Leslie Red (VS)</title></circle></a><a href="/setts/s10/db2r30g8r3g8r6db4r3db12w2~x2/"><circle cx="315.4" cy="150.0" r="4" fill="#3465a4"><title>Jenkins (Name)</title></circle></a><a href="/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1/"><circle cx="373.1" cy="125.5" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/setts/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/"><circle cx="344.2" cy="140.8" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s11/db3t1r30db32r3w1r3dg23r31db3w1/"><circle cx="320.8" cy="100.0" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/setts/s11/r3dp1r1dg21r3dp18r35dp1ly1r4dg1/"><circle cx="368.7" cy="103.5" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><circle cx="328.5" cy="128.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/dp4dg8db6dp8r6dg2r2dg2r24dg1r3~x2/

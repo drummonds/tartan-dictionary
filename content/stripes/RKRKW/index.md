@@ -8,7 +8,7 @@ RKRKW
 
 It is a 5 band tartan.
 
-![Woven sample](/setts/s5/lb3k10r25k25r3~x2/tartan.png)
+![Woven sample](/setts/s5/r3k25r25k10lb3~x2/tartan.png)
 
 
 
@@ -43,6 +43,6 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Bodog.com](/setts/s5/lb3k10r25k25r3~x2/)|
-|![Bodog.com example sett](/setts/s5/lb3k10r25k25r3~x2/sett.png)|
+| [Bodog.com](/setts/s5/r3k25r25k10lb3~x2/)|
+|![Bodog.com example sett](/setts/s5/r3k25r25k10lb3~x2/sett.png)|
 

@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10445](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10445)
 
 ## Thread count
-B/4 W4 DRa4 K10 B20 K4 W2 DR/180
+DR/180 W2 K4 B20 K10 DRa4 W4 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -31,27 +31,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/4 W4 DRa4 K10 B20 K4 W2 DR/180 tartan")
+![Tartan detail](tartan.png "DR/180 W2 K4 B20 K10 DRa4 W4 B/4 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Stenhousemuir F.C.](/setts/s9/m6k2m4ly3m60db14m3db3w1~x2/) — ΔT 1.24
+1. [Stenhousemuir F.C.](/setts/s9/m6k2m4ly3m60db14m3db3w1~x2/) — ΔT 1.25
 1. [Stenhousemuir Football Club (Sports)](/setts/s9/r6k2r4ly3r60db14r3db3w1~x2/) — ΔT 1.43
 1. [Burnett of Leys Hunting](/setts/s8/r92db10r8w3r8g4r8r4~x2/) — ΔT 1.71
 1. [Kervgant Dress (Personal))](/setts/s10/r60db12t1db2w1db12r5k1r2o2~x2/) — ΔT 1.77
 1. [Burrell (Personal)](/setts/s14/r29o1r2o1r60lo2r2db10g2g1g2db10r2lo2~x2/) — ΔT 1.82
 1. [Stenhousemuir Football Club](/setts/s16/db3r3db14r60ly3r4k2r6k2r4ly3r60db14r3db3w1~x2/) — ΔT 1.97
 1. [Laird (Restricted)](/setts/s9/k75g2k4dp10db1dp4db1dp4k4~x2/) — ΔT 1.99
-1. [Wedding Day](/setts/s9/o4w1dp48r2m3r2dp3w1o4~x2/) — ΔT 2.10
+1. [Wedding Day](/setts/s9/o4w1dp48r2m3r2dp3w1o4~x2/) — ΔT 2.09
 1. [Burnett of Leys Htg (Clan)](/setts/s8/r75db6r6w2r6g2r6r2~x2/) — ΔT 2.13
 1. [Cairngorms National Park](/setts/s8/dp57m5dp2m8lb2dp3ly2dp14~x2/) — ΔT 2.28
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/m6k2m4ly3m60db14m3db3w1~x2/"><circle cx="586.7" cy="99.8" r="4" fill="#3465a4"><title>Stenhousemuir F.C.</title></circle></a><a href="/setts/s9/r6k2r4ly3r60db14r3db3w1~x2/"><circle cx="580.6" cy="92.1" r="4" fill="#3465a4"><title>Stenhousemuir Football Club (Sports)</title></circle></a><a href="/setts/s8/r92db10r8w3r8g4r8r4~x2/"><circle cx="626.0" cy="126.5" r="4" fill="#3465a4"><title>Burnett of Leys Hunting</title></circle></a><a href="/setts/s10/r60db12t1db2w1db12r5k1r2o2~x2/"><circle cx="519.5" cy="74.6" r="4" fill="#3465a4"><title>Kervgant Dress (Personal))</title></circle></a><a href="/setts/s14/r29o1r2o1r60lo2r2db10g2g1g2db10r2lo2~x2/"><circle cx="567.5" cy="63.7" r="4" fill="#3465a4"><title>Burrell (Personal)</title></circle></a><a href="/setts/s16/db3r3db14r60ly3r4k2r6k2r4ly3r60db14r3db3w1~x2/"><circle cx="569.3" cy="72.9" r="4" fill="#3465a4"><title>Stenhousemuir Football Club</title></circle></a><a href="/setts/s9/k75g2k4dp10db1dp4db1dp4k4~x2/"><circle cx="626.0" cy="132.0" r="4" fill="#3465a4"><title>Laird (Restricted)</title></circle></a><a href="/setts/s9/o4w1dp48r2m3r2dp3w1o4~x2/"><circle cx="542.4" cy="88.5" r="4" fill="#3465a4"><title>Wedding Day</title></circle></a><a href="/setts/s8/r75db6r6w2r6g2r6r2~x2/"><circle cx="626.0" cy="119.6" r="4" fill="#3465a4"><title>Burnett of Leys Htg (Clan)</title></circle></a><a href="/setts/s8/dp57m5dp2m8lb2dp3ly2dp14~x2/"><circle cx="615.3" cy="146.3" r="4" fill="#3465a4"><title>Cairngorms National Park</title></circle></a><circle cx="626.0" cy="104.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/m6k2m4ly3m60db14m3db3w1~x2/"><circle cx="586.2" cy="99.7" r="4" fill="#3465a4"><title>Stenhousemuir F.C.</title></circle></a><a href="/setts/s9/r6k2r4ly3r60db14r3db3w1~x2/"><circle cx="580.1" cy="91.9" r="4" fill="#3465a4"><title>Stenhousemuir Football Club (Sports)</title></circle></a><a href="/setts/s8/r92db10r8w3r8g4r8r4~x2/"><circle cx="626.0" cy="126.3" r="4" fill="#3465a4"><title>Burnett of Leys Hunting</title></circle></a><a href="/setts/s10/r60db12t1db2w1db12r5k1r2o2~x2/"><circle cx="519.0" cy="74.6" r="4" fill="#3465a4"><title>Kervgant Dress (Personal))</title></circle></a><a href="/setts/s14/r29o1r2o1r60lo2r2db10g2g1g2db10r2lo2~x2/"><circle cx="567.0" cy="63.6" r="4" fill="#3465a4"><title>Burrell (Personal)</title></circle></a><a href="/setts/s16/db3r3db14r60ly3r4k2r6k2r4ly3r60db14r3db3w1~x2/"><circle cx="568.7" cy="72.8" r="4" fill="#3465a4"><title>Stenhousemuir Football Club</title></circle></a><a href="/setts/s9/k75g2k4dp10db1dp4db1dp4k4~x2/"><circle cx="626.0" cy="131.8" r="4" fill="#3465a4"><title>Laird (Restricted)</title></circle></a><a href="/setts/s9/o4w1dp48r2m3r2dp3w1o4~x2/"><circle cx="542.1" cy="88.4" r="4" fill="#3465a4"><title>Wedding Day</title></circle></a><a href="/setts/s8/r75db6r6w2r6g2r6r2~x2/"><circle cx="626.0" cy="119.4" r="4" fill="#3465a4"><title>Burnett of Leys Htg (Clan)</title></circle></a><a href="/setts/s8/dp57m5dp2m8lb2dp3ly2dp14~x2/"><circle cx="614.9" cy="146.0" r="4" fill="#3465a4"><title>Cairngorms National Park</title></circle></a><circle cx="626.0" cy="104.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/dr90k1k2t10k5r2k2t2~x2/

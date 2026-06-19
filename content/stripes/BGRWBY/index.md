@@ -21,14 +21,14 @@ BGRWBY
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB G R W DP LY <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB G R W DP LY</span></span>
+### LY DP W R G DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DP W R G DB</span></span>
 
 | Tartans |
 |---------------|
 | [Palazzo Bloise (Personal)](/setts/s6/db37g27r22w1dp6ly5~x2/)|
 |![Palazzo Bloise (Personal) example sett](/setts/s6/db37g27r22w1dp6ly5~x2/sett.png)|
 
-### DB G R W P LY <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB G R W P LY</span></span>
+### LY P W R G DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">LY P W R G DB</span></span>
 
 | Tartans |
 |---------------|

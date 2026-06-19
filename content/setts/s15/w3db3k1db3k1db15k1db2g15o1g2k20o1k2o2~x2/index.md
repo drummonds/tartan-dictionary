@@ -10,7 +10,7 @@ This was sourced from house-of-tartan.  It is a [15 band tartan](/bands/bands15/
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10722
 
 ## Thread count
-LT/4 K4 LT2 K40 G4 LT2 G30 DB4 R2 DB30 R2 DB6 R2 DB6 W/6
+W/6 DB6 R2 DB6 R2 DB30 R2 DB4 G30 LT2 G4 K40 LT2 K4 LT/4
 ![Sett](sett.png)
 
 ## Palette
@@ -30,19 +30,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Joseph Linn Family (Monohon 2012) (Personal)](/setts/s15/w3db3r1db3r1db15r1db2g15o1g2k20o1k2o2~x2/) — ΔT 0.33
 1. [Linn (Personal)](/setts/s15/w3db3r1db3r1db15r1db2g15lo1g2k20lo1k2lo2~x2/) — ΔT 0.68
-1. [MacGiboney/MacGibboney](/setts/s15/k2db4w2db19k2o10k1ly2k1o10k2dg19w2dg4k2~x2/) — ΔT 1.09
+1. [MacGiboney/MacGibboney](/setts/s15/k2dg4w2dg19k2o10k1ly2k1o10k2db19w2db4k2~x2/) — ΔT 1.09
 1. [Unidentified 26](/setts/s11/db2r2db2r2db20k24g12ly1k2g2t2~x2/) — ΔT 1.12
 1. [Strathclyde, University of (Corporat](/setts/s14/db7k1r3k1db24k1w3k3y3k3y3g19k2w4~x2/) — ΔT 1.18
 1. [Baron of Greencastle (Personal)](/setts/s13/g4ly2g24r2k12db3k2db2k2db12w1db1w3~x2/) — ΔT 1.23
 1. [St Lawrence](/setts/s17/k3db2g2db26b1db1b1db1b1db1b3t2k10db3g14k3r3~x2/) — ΔT 1.23
 1. [Scottish Islamic](/setts/s18/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2~x2/) — ΔT 1.24
 1. [St Andrew](/setts/s14/w4db20k1g2k1g2k4g1w2g1k4g16dp8g1~x2/) — ΔT 1.25
-1. [Lyon, Jeffrey M (Personal)](/setts/s12/dt30k4dg5k2r2k2dg5k4w10k5n8k1~x2/) — ΔT 1.25
+1. [Hunnisett/Edinchip (Personal)](/setts/s20/db38w2db2k10g2ly2g22k3r3k3r3~x2/) — ΔT 1.25
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/w3db3r1db3r1db15r1db2g15o1g2k20o1k2o2~x2/"><circle cx="144.1" cy="84.7" r="4" fill="#3465a4"><title>Joseph Linn Family (Monohon 2012) (Personal)</title></circle></a><a href="/setts/s15/w3db3r1db3r1db15r1db2g15lo1g2k20lo1k2lo2~x2/"><circle cx="159.2" cy="90.3" r="4" fill="#3465a4"><title>Linn (Personal)</title></circle></a><a href="/setts/s15/k2db4w2db19k2o10k1ly2k1o10k2dg19w2dg4k2~x2/"><circle cx="119.2" cy="95.1" r="4" fill="#3465a4"><title>MacGiboney/MacGibboney</title></circle></a><a href="/setts/s11/db2r2db2r2db20k24g12ly1k2g2t2~x2/"><circle cx="183.3" cy="94.9" r="4" fill="#3465a4"><title>Unidentified 26</title></circle></a><a href="/setts/s14/db7k1r3k1db24k1w3k3y3k3y3g19k2w4~x2/"><circle cx="191.1" cy="86.2" r="4" fill="#3465a4"><title>Strathclyde, University of (Corporat</title></circle></a><a href="/setts/s13/g4ly2g24r2k12db3k2db2k2db12w1db1w3~x2/"><circle cx="193.7" cy="92.1" r="4" fill="#3465a4"><title>Baron of Greencastle (Personal)</title></circle></a><a href="/setts/s17/k3db2g2db26b1db1b1db1b1db1b3t2k10db3g14k3r3~x2/"><circle cx="215.6" cy="66.2" r="4" fill="#3465a4"><title>St Lawrence</title></circle></a><a href="/setts/s18/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2~x2/"><circle cx="182.5" cy="87.7" r="4" fill="#3465a4"><title>Scottish Islamic</title></circle></a><a href="/setts/s14/w4db20k1g2k1g2k4g1w2g1k4g16dp8g1~x2/"><circle cx="169.7" cy="104.2" r="4" fill="#3465a4"><title>St Andrew</title></circle></a><a href="/setts/s12/dt30k4dg5k2r2k2dg5k4w10k5n8k1~x2/"><circle cx="180.8" cy="87.5" r="4" fill="#3465a4"><title>Lyon, Jeffrey M (Personal)</title></circle></a><circle cx="145.5" cy="88.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/w3db3r1db3r1db15r1db2g15o1g2k20o1k2o2~x2/"><circle cx="144.2" cy="84.8" r="4" fill="#3465a4"><title>Joseph Linn Family (Monohon 2012) (Personal)</title></circle></a><a href="/setts/s15/w3db3r1db3r1db15r1db2g15lo1g2k20lo1k2lo2~x2/"><circle cx="159.2" cy="90.4" r="4" fill="#3465a4"><title>Linn (Personal)</title></circle></a><a href="/setts/s15/k2dg4w2dg19k2o10k1ly2k1o10k2db19w2db4k2~x2/"><circle cx="119.3" cy="95.3" r="4" fill="#3465a4"><title>MacGiboney/MacGibboney</title></circle></a><a href="/setts/s11/db2r2db2r2db20k24g12ly1k2g2t2~x2/"><circle cx="183.5" cy="95.0" r="4" fill="#3465a4"><title>Unidentified 26</title></circle></a><a href="/setts/s14/db7k1r3k1db24k1w3k3y3k3y3g19k2w4~x2/"><circle cx="191.1" cy="86.3" r="4" fill="#3465a4"><title>Strathclyde, University of (Corporat</title></circle></a><a href="/setts/s13/g4ly2g24r2k12db3k2db2k2db12w1db1w3~x2/"><circle cx="193.7" cy="92.2" r="4" fill="#3465a4"><title>Baron of Greencastle (Personal)</title></circle></a><a href="/setts/s17/k3db2g2db26b1db1b1db1b1db1b3t2k10db3g14k3r3~x2/"><circle cx="215.5" cy="66.3" r="4" fill="#3465a4"><title>St Lawrence</title></circle></a><a href="/setts/s18/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2~x2/"><circle cx="182.5" cy="87.8" r="4" fill="#3465a4"><title>Scottish Islamic</title></circle></a><a href="/setts/s14/w4db20k1g2k1g2k4g1w2g1k4g16dp8g1~x2/"><circle cx="169.6" cy="104.3" r="4" fill="#3465a4"><title>St Andrew</title></circle></a><a href="/setts/s20/db38w2db2k10g2ly2g22k3r3k3r3~x2/"><circle cx="174.9" cy="79.8" r="4" fill="#3465a4"><title>Hunnisett/Edinchip (Personal)</title></circle></a><circle cx="145.6" cy="88.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/w3db3k1db3k1db15k1db2g15o1g2k20o1k2o2~x2/

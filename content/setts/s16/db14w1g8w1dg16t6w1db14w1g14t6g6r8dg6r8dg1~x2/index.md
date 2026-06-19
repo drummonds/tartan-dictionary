@@ -2,12 +2,18 @@
 title: "Gordon 1"
 date: 2023-03-18
 ---
-**Bands:** [BWGWGBWBWGBGRGRG](/stripes/bwgwgbwbwgbgrgrg/) · **Stripes:** [DB W G W DG T W DB W G T G R DG R DG](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">DB W G W DG T W DB W G T G R DG R DG</span></span>
+**Bands:** [GRGRGBGWBWBGWGWB](/stripes/grgrgbgwbwbgwgwb/) · **Stripes:** [DG R DG R G T G W DB W T DG W G W DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">DG R DG R G T G W DB W T DG W G W DB</span></span>
 
 
 This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Gordon #3
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -907,7 +916,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Gordon #3](/setts/s16/db14w1dg8w1dg16t6w1db14w1dg14t6dg6r8dg6r8dg1~x2/) — ΔT 0.66
 1. [Buchanan, hunting](/setts/s18/g24k2t6k2m12w1m12k2t6k2o12k2o12k2t6k2g12t6~x2/) — ΔT 0.97
 1. [Jones-MacGregor](/setts/s14/dt2lg2dt3lg8dg4dt4dg3dt8r12dg7r3dg2k1w1~x2/) — ΔT 0.97
-1. [Leinster](/setts/s14/g3g15g2g2k10ly2db12k1g2k1db12k10g18r3~x2/) — ΔT 1.00
+1. [Leinster](/setts/s14/r3g18k10db12k1g2k1db12ly2k10g2g2g15g3~x2/) — ΔT 1.00
 1. [Humble, Gordon (Personal)](/setts/s14/o4dy2o14dy4o4p1k8dg13ly3dg13k8dy10k3dy3~x2/) — ΔT 1.03
 1. [Le Cercle des Femmes (Corporate)](/setts/s17/k12g16lb2do12g2y10k4y8o27k30lb6o27g20lo4k2lb4k4~x2/) — ΔT 1.06
 1. [Scout Mapping Service #2](/setts/s14/db11k8g8ly2g8k1ly2k1g8ly2g8k8db11r2~x2/) — ΔT 1.10
@@ -917,8 +926,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/db14w1dg8w1dg16t6w1db14w1dg14t6dg6r8dg6r8dg1~x2/"><circle cx="87.9" cy="136.5" r="4" fill="#3465a4"><title>Gordon #3</title></circle></a><a href="/setts/s18/g24k2t6k2m12w1m12k2t6k2o12k2o12k2t6k2g12t6~x2/"><circle cx="114.6" cy="97.2" r="4" fill="#3465a4"><title>Buchanan, hunting</title></circle></a><a href="/setts/s14/dt2lg2dt3lg8dg4dt4dg3dt8r12dg7r3dg2k1w1~x2/"><circle cx="101.5" cy="145.3" r="4" fill="#3465a4"><title>Jones-MacGregor</title></circle></a><a href="/setts/s14/g3g15g2g2k10ly2db12k1g2k1db12k10g18r3~x2/"><circle cx="118.9" cy="135.5" r="4" fill="#3465a4"><title>Leinster</title></circle></a><a href="/setts/s14/o4dy2o14dy4o4p1k8dg13ly3dg13k8dy10k3dy3~x2/"><circle cx="104.9" cy="154.5" r="4" fill="#3465a4"><title>Humble, Gordon (Personal)</title></circle></a><a href="/setts/s17/k12g16lb2do12g2y10k4y8o27k30lb6o27g20lo4k2lb4k4~x2/"><circle cx="73.9" cy="103.4" r="4" fill="#3465a4"><title>Le Cercle des Femmes (Corporate)</title></circle></a><a href="/setts/s14/db11k8g8ly2g8k1ly2k1g8ly2g8k8db11r2~x2/"><circle cx="52.8" cy="157.0" r="4" fill="#3465a4"><title>Scout Mapping Service #2</title></circle></a><a href="/setts/s14/db2y2db3y8g4db4g3db8r12g7r3g2k1w1~x2/"><circle cx="100.2" cy="143.0" r="4" fill="#3465a4"><title>Jones-MacGregor (Name)</title></circle></a><a href="/setts/s15/db2k2db8k8g12k1w2k1g12k8r3t3r14t2r2~x2/"><circle cx="101.2" cy="123.2" r="4" fill="#3465a4"><title>Unidentified - C20th</title></circle></a><a href="/setts/s17/db16dg40w5db25g30ly4dg3w3k4db15g22w2dg19g2o8k4o16~x2/"><circle cx="93.3" cy="99.9" r="4" fill="#3465a4"><title>Les Cercles de Fermieres du Quebec</title></circle></a><circle cx="81.2" cy="133.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/db14w1dg8w1dg16t6w1db14w1dg14t6dg6r8dg6r8dg1~x2/"><circle cx="87.9" cy="136.7" r="4" fill="#3465a4"><title>Gordon #3</title></circle></a><a href="/setts/s18/g24k2t6k2m12w1m12k2t6k2o12k2o12k2t6k2g12t6~x2/"><circle cx="114.6" cy="97.5" r="4" fill="#3465a4"><title>Buchanan, hunting</title></circle></a><a href="/setts/s14/dt2lg2dt3lg8dg4dt4dg3dt8r12dg7r3dg2k1w1~x2/"><circle cx="101.5" cy="145.5" r="4" fill="#3465a4"><title>Jones-MacGregor</title></circle></a><a href="/setts/s14/r3g18k10db12k1g2k1db12ly2k10g2g2g15g3~x2/"><circle cx="119.0" cy="135.8" r="4" fill="#3465a4"><title>Leinster</title></circle></a><a href="/setts/s14/o4dy2o14dy4o4p1k8dg13ly3dg13k8dy10k3dy3~x2/"><circle cx="105.0" cy="154.7" r="4" fill="#3465a4"><title>Humble, Gordon (Personal)</title></circle></a><a href="/setts/s17/k12g16lb2do12g2y10k4y8o27k30lb6o27g20lo4k2lb4k4~x2/"><circle cx="73.9" cy="103.6" r="4" fill="#3465a4"><title>Le Cercle des Femmes (Corporate)</title></circle></a><a href="/setts/s14/db11k8g8ly2g8k1ly2k1g8ly2g8k8db11r2~x2/"><circle cx="52.9" cy="157.1" r="4" fill="#3465a4"><title>Scout Mapping Service #2</title></circle></a><a href="/setts/s14/db2y2db3y8g4db4g3db8r12g7r3g2k1w1~x2/"><circle cx="100.1" cy="143.2" r="4" fill="#3465a4"><title>Jones-MacGregor (Name)</title></circle></a><a href="/setts/s15/db2k2db8k8g12k1w2k1g12k8r3t3r14t2r2~x2/"><circle cx="101.3" cy="123.4" r="4" fill="#3465a4"><title>Unidentified - C20th</title></circle></a><a href="/setts/s17/db16dg40w5db25g30ly4dg3w3k4db15g22w2dg19g2o8k4o16~x2/"><circle cx="93.4" cy="100.2" r="4" fill="#3465a4"><title>Les Cercles de Fermieres du Quebec</title></circle></a><circle cx="81.2" cy="133.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/db14w1g8w1dg16t6w1db14w1g14t6g6r8dg6r8dg1~x2/

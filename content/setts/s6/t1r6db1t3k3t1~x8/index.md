@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4840
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacTavish #2
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -66,8 +72,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db5k1dg1k1r3k1~x4/"><circle cx="195.4" cy="242.1" r="4" fill="#3465a4"><title>Clerk</title></circle></a><a href="/setts/s6/n32w4n4k24dp29k4/"><circle cx="207.4" cy="228.9" r="4" fill="#3465a4"><title>Grammar School at Leeds (School)</title></circle></a><a href="/setts/s5/dt2k2dt2r5ly1~x12/"><circle cx="176.0" cy="261.4" r="4" fill="#3465a4"><title>Chivas Regal (Corporate)</title></circle></a><a href="/setts/s8/r33dg17db50dg17r11dg17r9k7/"><circle cx="171.9" cy="225.9" r="4" fill="#3465a4"><title>Carnegie #3</title></circle></a><a href="/setts/s6/db3r2g5r8db12w3~x2/"><circle cx="182.2" cy="230.0" r="4" fill="#3465a4"><title>Edinburgh Bus Company (Corporate)</title></circle></a><a href="/setts/s6/g3k15r8g2o8k2~x4/"><circle cx="201.2" cy="223.1" r="4" fill="#3465a4"><title>Thompson Black (Fashion)</title></circle></a><a href="/setts/s6/m10dy60dt13lo24dt24dy8/"><circle cx="248.9" cy="222.5" r="4" fill="#3465a4"><title>Bronte House Check</title></circle></a><a href="/setts/s6/db1o8w1db4r8w1~x6/"><circle cx="184.0" cy="208.6" r="4" fill="#3465a4"><title>Little's (Corporate)</title></circle></a><a href="/setts/s6/dp3r19dp18g19dp3g3~x2/"><circle cx="210.6" cy="245.6" r="4" fill="#3465a4"><title>MacNab 1</title></circle></a><a href="/setts/s6/db5k1g1k1r3k1~x4/"><circle cx="172.2" cy="233.2" r="4" fill="#3465a4"><title>Clerk</title></circle></a><circle cx="192.7" cy="234.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db5k1dg1k1r3k1~x4/"><circle cx="195.5" cy="242.1" r="4" fill="#3465a4"><title>Clerk</title></circle></a><a href="/setts/s6/n32w4n4k24dp29k4/"><circle cx="207.5" cy="228.9" r="4" fill="#3465a4"><title>Grammar School at Leeds (School)</title></circle></a><a href="/setts/s5/dt2k2dt2r5ly1~x12/"><circle cx="176.1" cy="261.3" r="4" fill="#3465a4"><title>Chivas Regal (Corporate)</title></circle></a><a href="/setts/s8/r33dg17db50dg17r11dg17r9k7/"><circle cx="171.9" cy="226.0" r="4" fill="#3465a4"><title>Carnegie #3</title></circle></a><a href="/setts/s6/db3r2g5r8db12w3~x2/"><circle cx="182.2" cy="229.9" r="4" fill="#3465a4"><title>Edinburgh Bus Company (Corporate)</title></circle></a><a href="/setts/s6/g3k15r8g2o8k2~x4/"><circle cx="201.2" cy="223.0" r="4" fill="#3465a4"><title>Thompson Black (Fashion)</title></circle></a><a href="/setts/s6/m10dy60dt13lo24dt24dy8/"><circle cx="248.8" cy="222.4" r="4" fill="#3465a4"><title>Bronte House Check</title></circle></a><a href="/setts/s6/db1o8w1db4r8w1~x6/"><circle cx="183.9" cy="208.6" r="4" fill="#3465a4"><title>Little's (Corporate)</title></circle></a><a href="/setts/s6/dp3r19dp18g19dp3g3~x2/"><circle cx="210.6" cy="245.5" r="4" fill="#3465a4"><title>MacNab 1</title></circle></a><a href="/setts/s6/db5k1g1k1r3k1~x4/"><circle cx="172.4" cy="233.1" r="4" fill="#3465a4"><title>Clerk</title></circle></a><circle cx="192.7" cy="234.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/t1r6db1t3k3t1~x8/

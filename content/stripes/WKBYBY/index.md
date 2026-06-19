@@ -20,7 +20,7 @@ WKBYBY
 
 
 
-### LB K DP LY DP LY <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LB K DP LY DP LY</span></span>
+### LY DP LY DP K LB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LY DP LY DP K LB</span></span>
 
 | Tartans |
 |---------------|

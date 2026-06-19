@@ -2,12 +2,18 @@
 title: "Essex County (Ontario)"
 date: 2023-03-18
 ---
-**Bands:** [WRBGGGKRKY](/stripes/wrbgggkrky/) · **Stripes:** [LB R T DG DG G K R K LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LB R T DG DG G K R K LY</span></span>
+**Bands:** [YKRKGGGBRW](/stripes/ykrkgggbrw/) · **Stripes:** [LY K R K G DG DG T R LB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LY K R K G DG DG T R LB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1131
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Essex County Ontario
 
 ## Attestations
 
@@ -47,20 +53,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Essex, County Ontario](/setts/s10/ly30k1r4k1g3g5dg4t6r2w2~x2/) — ΔT 0.99
-1. [Saskatchewan (District)](/setts/s8/ly2lo1r2lo26dy11g6k1w2~x2/) — ΔT 1.44
-1. [Saskatchewan District Tartan Tartan Number: 1817. Earliest known date: 1959 The colours chosen are the same as those for the flag. Red for the Blood of Christ, blue for the Heavenly Father, yellow for Fire of the Holy Spirit when tongues of fire symbolized his presence at Penticost. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/ly2ly1r2ly26dy11g6k1w2~x2/) — ΔT 1.50
-1. [Saskatchewan](/setts/s8/ly2lo1r2lo26o11dg6k1w2~x2/) — ΔT 1.60
+1. [Saskatchewan (District)](/setts/s8/w2k1g6dy11lo26r2lo1ly2~x2/) — ΔT 1.44
+1. [Saskatchewan District Tartan Tartan Number: 1817. Earliest known date: 1959 The colours chosen are the same as those for the flag. Red for the Blood of Christ, blue for the Heavenly Father, yellow for Fire of the Holy Spirit when tongues of fire symbolized his presence at Penticost. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/w2k1g6dy11ly26r2ly1ly2~x2/) — ΔT 1.50
+1. [Saskatchewan](/setts/s8/w2k1dg6o11lo26r2lo1ly2~x2/) — ΔT 1.60
 1. [Bear](/setts/s18/dy24k1lr2k1dy24o2dy2o12k4lr4w4w4ly4lo4dy4o12dy2o2~x2/) — ΔT 1.73
 1. [Bear (Corporate)](/setts/s18/dy24o2dy2o12k4lr4w4w4ly4lo4dy4o12dy2o2dy24k1lr2k1~x2/) — ΔT 1.73
-1. [Saskatchewan](/setts/s14/w2k1g6dy11lo26r2lo1ly2lo1r2lo26dy11g6k1~x2/) — ΔT 1.82
+1. [Saskatchewan](/setts/s14/w2k1g6dy11lo26r2lo1ly2~x2/) — ΔT 1.82
 1. [Nor'Westers](/setts/s9/k1g30dy2ly4dy2w12r2b6k1~x2/) — ΔT 1.92
 1. [Sri Lanka](/setts/s13/lo18r3g30b4k2w2k2b4r37ly1r3ly1r3~x2/) — ΔT 1.94
 1. [Schreier. Christopher (Personal)](/setts/s9/g22k2r22db2w1lo12dp1k1ly4~x2/) — ΔT 1.99
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly30k1r4k1g3g5dg4t6r2w2~x2/"><circle cx="216.6" cy="24.3" r="4" fill="#3465a4"><title>Essex, County Ontario</title></circle></a><a href="/setts/s8/ly2lo1r2lo26dy11g6k1w2~x2/"><circle cx="289.6" cy="87.2" r="4" fill="#3465a4"><title>Saskatchewan (District)</title></circle></a><a href="/setts/s8/ly2ly1r2ly26dy11g6k1w2~x2/"><circle cx="256.0" cy="68.1" r="4" fill="#3465a4"><title>Saskatchewan District Tartan Tartan Number: 1817. Earliest known date: 1959 The colours chosen are the same as those for the flag. Red for the Blood of Christ, blue for the Heavenly Father, yellow for Fire of the Holy Spirit when tongues of fire symbolized his presence at Penticost. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/ly2lo1r2lo26o11dg6k1w2~x2/"><circle cx="292.0" cy="83.4" r="4" fill="#3465a4"><title>Saskatchewan</title></circle></a><a href="/setts/s18/dy24k1lr2k1dy24o2dy2o12k4lr4w4w4ly4lo4dy4o12dy2o2~x2/"><circle cx="212.4" cy="42.5" r="4" fill="#3465a4"><title>Bear</title></circle></a><a href="/setts/s18/dy24o2dy2o12k4lr4w4w4ly4lo4dy4o12dy2o2dy24k1lr2k1~x2/"><circle cx="212.4" cy="42.5" r="4" fill="#3465a4"><title>Bear (Corporate)</title></circle></a><a href="/setts/s14/w2k1g6dy11lo26r2lo1ly2lo1r2lo26dy11g6k1~x2/"><circle cx="300.8" cy="73.1" r="4" fill="#3465a4"><title>Saskatchewan</title></circle></a><a href="/setts/s9/k1g30dy2ly4dy2w12r2b6k1~x2/"><circle cx="233.7" cy="62.9" r="4" fill="#3465a4"><title>Nor'Westers</title></circle></a><a href="/setts/s13/lo18r3g30b4k2w2k2b4r37ly1r3ly1r3~x2/"><circle cx="238.4" cy="41.2" r="4" fill="#3465a4"><title>Sri Lanka</title></circle></a><a href="/setts/s9/g22k2r22db2w1lo12dp1k1ly4~x2/"><circle cx="150.8" cy="73.9" r="4" fill="#3465a4"><title>Schreier. Christopher (Personal)</title></circle></a><circle cx="236.5" cy="37.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly30k1r4k1g3g5dg4t6r2w2~x2/"><circle cx="216.1" cy="24.4" r="4" fill="#3465a4"><title>Essex, County Ontario</title></circle></a><a href="/setts/s8/w2k1g6dy11lo26r2lo1ly2~x2/"><circle cx="289.2" cy="87.2" r="4" fill="#3465a4"><title>Saskatchewan (District)</title></circle></a><a href="/setts/s8/w2k1g6dy11ly26r2ly1ly2~x2/"><circle cx="255.5" cy="68.1" r="4" fill="#3465a4"><title>Saskatchewan District Tartan Tartan Number: 1817. Earliest known date: 1959 The colours chosen are the same as those for the flag. Red for the Blood of Christ, blue for the Heavenly Father, yellow for Fire of the Holy Spirit when tongues of fire symbolized his presence at Penticost. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/w2k1dg6o11lo26r2lo1ly2~x2/"><circle cx="291.5" cy="83.5" r="4" fill="#3465a4"><title>Saskatchewan</title></circle></a><a href="/setts/s18/dy24k1lr2k1dy24o2dy2o12k4lr4w4w4ly4lo4dy4o12dy2o2~x2/"><circle cx="212.1" cy="42.7" r="4" fill="#3465a4"><title>Bear</title></circle></a><a href="/setts/s18/dy24o2dy2o12k4lr4w4w4ly4lo4dy4o12dy2o2dy24k1lr2k1~x2/"><circle cx="212.1" cy="42.7" r="4" fill="#3465a4"><title>Bear (Corporate)</title></circle></a><a href="/setts/s14/w2k1g6dy11lo26r2lo1ly2~x2/"><circle cx="300.4" cy="73.2" r="4" fill="#3465a4"><title>Saskatchewan</title></circle></a><a href="/setts/s9/k1g30dy2ly4dy2w12r2b6k1~x2/"><circle cx="233.4" cy="62.9" r="4" fill="#3465a4"><title>Nor'Westers</title></circle></a><a href="/setts/s13/lo18r3g30b4k2w2k2b4r37ly1r3ly1r3~x2/"><circle cx="238.0" cy="41.3" r="4" fill="#3465a4"><title>Sri Lanka</title></circle></a><a href="/setts/s9/g22k2r22db2w1lo12dp1k1ly4~x2/"><circle cx="150.7" cy="74.1" r="4" fill="#3465a4"><title>Schreier. Christopher (Personal)</title></circle></a><circle cx="236.2" cy="37.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/ly30k1r4k1g3dg5dg4t6r2lb2~x2/

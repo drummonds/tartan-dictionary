@@ -17,7 +17,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-DR/6 DG36 DR16 DG8 DR/200
+DR/200 DG8 DR16 DG36 DR/6
 ![Sett](sett.png)
 
 ## Palette
@@ -30,13 +30,13 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/6 DG36 DR16 DG8 DR/200 tartan")
+![Tartan detail](tartan.png "DR/200 DG8 DR16 DG36 DR/6 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [KaDeWe](/setts/s8/r100dg4r8dg18r3dg18r8dg4~x2/) — ΔT 1.93
+1. [KaDeWe](/setts/s8/r100dg4r8dg18r3~x2/) — ΔT 1.93
 1. [Killiechassie](/setts/s6/r2dy1r4r1r12lo1~x2/) — ΔT 2.48
 1. [Inverness Augustus](/setts/s7/m18dg1k5dg1k1dg1m9~x2/) — ΔT 2.56
 1. [Lomond](/setts/s8/r32n5r2n5r6n2r1n7~x4/) — ΔT 2.57
@@ -49,8 +49,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r100dg4r8dg18r3dg18r8dg4~x2/"><circle cx="626.0" cy="193.0" r="4" fill="#3465a4"><title>KaDeWe</title></circle></a><a href="/setts/s6/r2dy1r4r1r12lo1~x2/"><circle cx="626.0" cy="232.5" r="4" fill="#3465a4"><title>Killiechassie</title></circle></a><a href="/setts/s7/m18dg1k5dg1k1dg1m9~x2/"><circle cx="588.5" cy="221.7" r="4" fill="#3465a4"><title>Inverness Augustus</title></circle></a><a href="/setts/s8/r32n5r2n5r6n2r1n7~x4/"><circle cx="608.8" cy="193.6" r="4" fill="#3465a4"><title>Lomond</title></circle></a><a href="/setts/s7/o5k2o28k10o26k4o4~x2/"><circle cx="602.7" cy="251.1" r="4" fill="#3465a4"><title>Dunbar, John Telfer (Personal)</title></circle></a><a href="/setts/s5/db1r9db2r9lo1~x4/"><circle cx="607.2" cy="274.0" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Red</title></circle></a><a href="/setts/s10/o64g6o2g3o2g6o64dr2o2dr6~x2/"><circle cx="626.0" cy="189.2" r="4" fill="#3465a4"><title>Connacht</title></circle></a><a href="/setts/s10/r50dp1r4dp3r8dp15r2dp2r3dp4~x2/"><circle cx="626.0" cy="149.9" r="4" fill="#3465a4"><title>Masai Shuka 06 (Artefact)</title></circle></a><a href="/setts/s9/r2dt6r24dg2r2r1r6dt1r2~x2/"><circle cx="602.2" cy="178.7" r="4" fill="#3465a4"><title>Fitzgibbon Red</title></circle></a><a href="/setts/s4/r38dg2r5dg16~x2/"><circle cx="556.7" cy="251.1" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles</title></circle></a><circle cx="626.0" cy="227.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r100dg4r8dg18r3~x2/"><circle cx="626.0" cy="192.8" r="4" fill="#3465a4"><title>KaDeWe</title></circle></a><a href="/setts/s6/r2dy1r4r1r12lo1~x2/"><circle cx="626.0" cy="232.3" r="4" fill="#3465a4"><title>Killiechassie</title></circle></a><a href="/setts/s7/m18dg1k5dg1k1dg1m9~x2/"><circle cx="588.1" cy="221.5" r="4" fill="#3465a4"><title>Inverness Augustus</title></circle></a><a href="/setts/s8/r32n5r2n5r6n2r1n7~x4/"><circle cx="608.2" cy="193.4" r="4" fill="#3465a4"><title>Lomond</title></circle></a><a href="/setts/s7/o5k2o28k10o26k4o4~x2/"><circle cx="602.2" cy="250.8" r="4" fill="#3465a4"><title>Dunbar, John Telfer (Personal)</title></circle></a><a href="/setts/s5/db1r9db2r9lo1~x4/"><circle cx="606.7" cy="273.8" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Red</title></circle></a><a href="/setts/s10/o64g6o2g3o2g6o64dr2o2dr6~x2/"><circle cx="626.0" cy="189.0" r="4" fill="#3465a4"><title>Connacht</title></circle></a><a href="/setts/s10/r50dp1r4dp3r8dp15r2dp2r3dp4~x2/"><circle cx="626.0" cy="149.8" r="4" fill="#3465a4"><title>Masai Shuka 06 (Artefact)</title></circle></a><a href="/setts/s9/r2dt6r24dg2r2r1r6dt1r2~x2/"><circle cx="601.7" cy="178.6" r="4" fill="#3465a4"><title>Fitzgibbon Red</title></circle></a><a href="/setts/s4/r38dg2r5dg16~x2/"><circle cx="556.3" cy="250.8" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles</title></circle></a><circle cx="626.0" cy="227.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/r100dg4r8dg18r3~x2/

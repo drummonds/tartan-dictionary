@@ -2,7 +2,7 @@
 title: "Kile (No red line) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBWKY](/stripes/bwbwbwky/) · **Stripes:** [DB W DB W DB W K LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB W DB W DB W K LY</span></span>
+**Bands:** [YKWBWBWB](/stripes/ykwbwbwb/) · **Stripes:** [LY K W DB W DB W DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K W DB W DB W DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
@@ -319,6 +319,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +420,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +680,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -921,14 +924,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Yale College of Wrexham (Corporate)](/setts/s8/r9w5t57k5t9r29k18w9/) — ΔT 1.25
 1. [MacMillan](/setts/s9/k6m2k12y3k6lb16y3lb16k2~x2/) — ΔT 1.27
 1. [Thom(p)son, Navy](/setts/s7/r3db15w13o6db2o2r2~x2/) — ΔT 1.27
-1. [Breifne](/setts/s12/lb3lr4lb12dg2lb3dg2lb3dg2lb12k4dg18lr3~x2/) — ΔT 1.27
-1. [Kile (No red line) (Personal)](/setts/s14/db20w3db3w3db3w3k5ly10k5w3db3w3db3w3~x2/) — ΔT 1.29
+1. [Breifne](/setts/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2/) — ΔT 1.27
+1. [Kile (No red line) (Personal)](/setts/s14/db20w3db3w3db3w3k5ly10~x2/) — ΔT 1.29
 1. [Yusra Personal Tartan Tartan Number: 10455. Earliest known date: 6th April 2011 The colours used in the design are based on the colours of the Malaysian flag (blue/navy, red, yellow and white/cream) to represent the country of origin of part of the Yusra family. A woven sample of this tartan has been received by the Scottish Register of Tartans for permanent preservation in the National Archives of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r12k3w14dt10k2dt24r2~x2/) — ΔT 1.29
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db32r4db4ly4db9lr9db4lr16w7~x2/"><circle cx="227.9" cy="165.5" r="4" fill="#3465a4"><title>Nevada State</title></circle></a><a href="/setts/s8/w32db3r4db3r8db32w3db4~x2/"><circle cx="229.0" cy="148.3" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><a href="/setts/s9/g6db11w8k4w8k4w8k27w4~x2/"><circle cx="159.0" cy="191.3" r="4" fill="#3465a4"><title>Breton District Tartan Tartan Number: 3902. Earliest known date: 2001 Commissioned by Richard Duclos of Le Coudray-Montceaux, France and produced by House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/w5k3w26db21w3db8ly3~x2/"><circle cx="235.1" cy="177.4" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance)</title></circle></a><a href="/setts/s8/r9w5t57k5t9r29k18w9/"><circle cx="226.2" cy="167.1" r="4" fill="#3465a4"><title>Yale College of Wrexham (Corporate)</title></circle></a><a href="/setts/s9/k6m2k12y3k6lb16y3lb16k2~x2/"><circle cx="208.7" cy="187.0" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/setts/s7/r3db15w13o6db2o2r2~x2/"><circle cx="151.8" cy="188.9" r="4" fill="#3465a4"><title>Thom(p)son, Navy</title></circle></a><a href="/setts/s12/lb3lr4lb12dg2lb3dg2lb3dg2lb12k4dg18lr3~x2/"><circle cx="220.2" cy="167.2" r="4" fill="#3465a4"><title>Breifne</title></circle></a><a href="/setts/s14/db20w3db3w3db3w3k5ly10k5w3db3w3db3w3~x2/"><circle cx="158.3" cy="155.3" r="4" fill="#3465a4"><title>Kile (No red line) (Personal)</title></circle></a><a href="/setts/s7/r12k3w14dt10k2dt24r2~x2/"><circle cx="228.2" cy="182.9" r="4" fill="#3465a4"><title>Yusra Personal Tartan Tartan Number: 10455. Earliest known date: 6th April 2011 The colours used in the design are based on the colours of the Malaysian flag (blue/navy, red, yellow and white/cream) to represent the country of origin of part of the Yusra family. A woven sample of this tartan has been received by the Scottish Register of Tartans for permanent preservation in the National Archives of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="206.7" cy="182.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db32r4db4ly4db9lr9db4lr16w7~x2/"><circle cx="227.8" cy="165.3" r="4" fill="#3465a4"><title>Nevada State</title></circle></a><a href="/setts/s8/w32db3r4db3r8db32w3db4~x2/"><circle cx="228.8" cy="148.1" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><a href="/setts/s9/g6db11w8k4w8k4w8k27w4~x2/"><circle cx="159.0" cy="191.1" r="4" fill="#3465a4"><title>Breton District Tartan Tartan Number: 3902. Earliest known date: 2001 Commissioned by Richard Duclos of Le Coudray-Montceaux, France and produced by House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/w5k3w26db21w3db8ly3~x2/"><circle cx="234.9" cy="177.1" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance)</title></circle></a><a href="/setts/s8/r9w5t57k5t9r29k18w9/"><circle cx="226.0" cy="167.0" r="4" fill="#3465a4"><title>Yale College of Wrexham (Corporate)</title></circle></a><a href="/setts/s9/k6m2k12y3k6lb16y3lb16k2~x2/"><circle cx="208.5" cy="186.8" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/setts/s7/r3db15w13o6db2o2r2~x2/"><circle cx="151.7" cy="188.8" r="4" fill="#3465a4"><title>Thom(p)son, Navy</title></circle></a><a href="/setts/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2/"><circle cx="220.0" cy="167.0" r="4" fill="#3465a4"><title>Breifne</title></circle></a><a href="/setts/s14/db20w3db3w3db3w3k5ly10~x2/"><circle cx="158.2" cy="155.2" r="4" fill="#3465a4"><title>Kile (No red line) (Personal)</title></circle></a><a href="/setts/s7/r12k3w14dt10k2dt24r2~x2/"><circle cx="228.1" cy="182.7" r="4" fill="#3465a4"><title>Yusra Personal Tartan Tartan Number: 10455. Earliest known date: 6th April 2011 The colours used in the design are based on the colours of the Malaysian flag (blue/navy, red, yellow and white/cream) to represent the country of origin of part of the Yusra family. A woven sample of this tartan has been received by the Scottish Register of Tartans for permanent preservation in the National Archives of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="206.5" cy="182.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db20w3db3w3db3w3k5ly10~x2/

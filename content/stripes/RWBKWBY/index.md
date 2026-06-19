@@ -8,7 +8,7 @@ RWBKWBY
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/ly3dp2w27k19db27w2r3~x2/tartan.png)
+![Woven sample](/setts/s7/r3w2db27k19w27dp2ly3~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RWBKWBY
 
 | Tartans |
 |---------------|
-| [Christian Dress (Personal)](/setts/s7/ly3dp2w27k19db27w2r3~x2/)|
-|![Christian Dress (Personal) example sett](/setts/s7/ly3dp2w27k19db27w2r3~x2/sett.png)|
+| [Christian Dress (Personal)](/setts/s7/r3w2db27k19w27dp2ly3~x2/)|
+|![Christian Dress (Personal) example sett](/setts/s7/r3w2db27k19w27dp2ly3~x2/sett.png)|
 

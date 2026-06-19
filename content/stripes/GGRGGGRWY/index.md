@@ -18,7 +18,7 @@ GGRGGGRWY
 
 
 
-### DG G O DG G G O W LR <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">DG G O DG G G O W LR</span></span>
+### LR W O G G DG O G DG <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="seq">LR W O G G DG O G DG</span></span>
 
 | Tartans |
 |---------------|

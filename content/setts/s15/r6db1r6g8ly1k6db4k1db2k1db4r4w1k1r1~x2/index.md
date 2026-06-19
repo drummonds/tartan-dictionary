@@ -2,12 +2,19 @@
 title: "MacPherson 9"
 date: 2023-03-18
 ---
-**Bands:** [RBRGYKBKBKBRWKR](/stripes/rbrgykbkbkbrwkr/) · **Stripes:** [R DB R G LY K DB K DB K DB R W K R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB R G LY K DB K DB K DB R W K R</span></span>
+**Bands:** [RKWRBKBKBKYGRBR](/stripes/rkwrbkbkbkygrbr/) · **Stripes:** [R K W R DB K DB K DB K LY G R DB R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K W R DB K DB K DB K LY G R DB R</span></span>
 
 
 This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacPherson
+- MacPherson #6
 
 ## Attestations
 
@@ -318,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -925,14 +935,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Unnamed No 158, Silk Fragment](/setts/s13/db8k1r4k1r4k1r4k1g8k1ly1r1w1~x2/) — ΔT 0.74
 1. [Caledonia - 1819 (Wilsons') No.155](/setts/s14/r9t8k2t2k2t8k16ly3dg18r10k3r10w2r5~x2/) — ΔT 0.76
 1. [MacPherson #7](/setts/s15/r6db2r6dg10ly1k10db6k1db2k1db6r6w2k2r2~x2/) — ΔT 0.82
-1. [Wilson's, No 190](/setts/s19/k3ly2k13w2t11r12w2r12g12ly2k12r12w2r12t11w2k13ly2k3~x2/) — ΔT 0.82
+1. [Wilson's, No 190](/setts/s19/k3ly2k13w2t11r12w2r12k12ly2g12r12w2r12t11w2k13ly2k3~x2/) — ΔT 0.82
 1. [Innes](/setts/s16/lb7k24r4k4r4k4r24ly4r6db12r6k4dg20k4r6lb4/) — ΔT 0.82
 1. [Innes D](/setts/s16/lb3k12r2k2r2k2r12ly2r3db6r3k2dg10k2r3lb2/) — ΔT 0.84
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r6db2r6g10ly1k10db6k1db2k1db6r6w2k2r2~x2/"><circle cx="75.6" cy="132.6" r="4" fill="#3465a4"><title>MacPherson 10</title></circle></a><a href="/setts/s15/r14g3r14g13ly2k14db6k2db2k2db6r9w2k2r2~x2/"><circle cx="116.9" cy="135.2" r="4" fill="#3465a4"><title>MacPherson 7</title></circle></a><a href="/setts/s15/r6db1r6dg8ly1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="107.8" cy="141.8" r="4" fill="#3465a4"><title>MacPherson #6</title></circle></a><a href="/setts/s13/r6db2k2db4k4ly2k1w2k1dg9r6w2r6~x4/"><circle cx="79.3" cy="139.5" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/setts/s13/db8k1r4k1r4k1r4k1g8k1ly1r1w1~x2/"><circle cx="107.4" cy="128.9" r="4" fill="#3465a4"><title>Unnamed No 158, Silk Fragment</title></circle></a><a href="/setts/s14/r9t8k2t2k2t8k16ly3dg18r10k3r10w2r5~x2/"><circle cx="97.8" cy="140.6" r="4" fill="#3465a4"><title>Caledonia - 1819 (Wilsons') No.155</title></circle></a><a href="/setts/s15/r6db2r6dg10ly1k10db6k1db2k1db6r6w2k2r2~x2/"><circle cx="92.9" cy="138.0" r="4" fill="#3465a4"><title>MacPherson #7</title></circle></a><a href="/setts/s19/k3ly2k13w2t11r12w2r12g12ly2k12r12w2r12t11w2k13ly2k3~x2/"><circle cx="53.1" cy="136.0" r="4" fill="#3465a4"><title>Wilson's, No 190</title></circle></a><a href="/setts/s16/lb7k24r4k4r4k4r24ly4r6db12r6k4dg20k4r6lb4/"><circle cx="80.6" cy="133.5" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/setts/s16/lb3k12r2k2r2k2r12ly2r3db6r3k2dg10k2r3lb2/"><circle cx="83.6" cy="133.2" r="4" fill="#3465a4"><title>Innes D</title></circle></a><circle cx="91.2" cy="136.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r6db2r6g10ly1k10db6k1db2k1db6r6w2k2r2~x2/"><circle cx="75.6" cy="132.7" r="4" fill="#3465a4"><title>MacPherson 10</title></circle></a><a href="/setts/s15/r14g3r14g13ly2k14db6k2db2k2db6r9w2k2r2~x2/"><circle cx="116.9" cy="135.3" r="4" fill="#3465a4"><title>MacPherson 7</title></circle></a><a href="/setts/s15/r6db1r6dg8ly1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="107.8" cy="142.0" r="4" fill="#3465a4"><title>MacPherson #6</title></circle></a><a href="/setts/s13/r6db2k2db4k4ly2k1w2k1dg9r6w2r6~x4/"><circle cx="79.3" cy="139.6" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/setts/s13/db8k1r4k1r4k1r4k1g8k1ly1r1w1~x2/"><circle cx="107.3" cy="129.0" r="4" fill="#3465a4"><title>Unnamed No 158, Silk Fragment</title></circle></a><a href="/setts/s14/r9t8k2t2k2t8k16ly3dg18r10k3r10w2r5~x2/"><circle cx="97.7" cy="140.8" r="4" fill="#3465a4"><title>Caledonia - 1819 (Wilsons') No.155</title></circle></a><a href="/setts/s15/r6db2r6dg10ly1k10db6k1db2k1db6r6w2k2r2~x2/"><circle cx="92.9" cy="138.2" r="4" fill="#3465a4"><title>MacPherson #7</title></circle></a><a href="/setts/s19/k3ly2k13w2t11r12w2r12k12ly2g12r12w2r12t11w2k13ly2k3~x2/"><circle cx="53.1" cy="136.1" r="4" fill="#3465a4"><title>Wilson's, No 190</title></circle></a><a href="/setts/s16/lb7k24r4k4r4k4r24ly4r6db12r6k4dg20k4r6lb4/"><circle cx="80.6" cy="133.6" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/setts/s16/lb3k12r2k2r2k2r12ly2r3db6r3k2dg10k2r3lb2/"><circle cx="83.7" cy="133.3" r="4" fill="#3465a4"><title>Innes D</title></circle></a><circle cx="91.2" cy="137.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/r6db1r6g8ly1k6db4k1db2k1db4r4w1k1r1~x2/

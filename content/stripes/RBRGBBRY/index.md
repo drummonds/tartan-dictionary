@@ -8,7 +8,7 @@ RBRGBBRY
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/lo1r2b3t2g6r9do1r1~x4/tartan.png)
+![Woven sample](/setts/s8/r1do1r9g6t2b3r2lo1~x4/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RBRGBBRY
 
 | Tartans |
 |---------------|
-| [Battle of Bannockburn, The](/setts/s8/lo1r2b3t2g6r9do1r1~x4/)|
-|![Battle of Bannockburn, The example sett](/setts/s8/lo1r2b3t2g6r9do1r1~x4/sett.png)|
+| [Battle of Bannockburn, The](/setts/s8/r1do1r9g6t2b3r2lo1~x4/)|
+|![Battle of Bannockburn, The example sett](/setts/s8/r1do1r9g6t2b3r2lo1~x4/sett.png)|
 

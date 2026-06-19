@@ -2,7 +2,7 @@
 title: "Turnberry (MacArthur)"
 date: 2023-03-18
 ---
-**Bands:** [BYBRBRBR](/stripes/bybrbrbr/) · **Stripes:** [N LR N O N O N O](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="seq">N LR N O N O N O</span></span>
+**Bands:** [RBRBRBYB](/stripes/rbrbrbyb/) · **Stripes:** [O N O N O N LR N](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="seq">O N O N O N LR N</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -18,7 +18,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1749
 
 ## Thread count
-Na/8 N44 Na40 Nb6 Na6 Nb6 Na6 Nb/48
+Nb/48 Na6 Nb6 Na6 Nb6 Na40 N44 Na/8
 ![Sett](sett.png)
 
 ## Palette
@@ -32,7 +32,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "Na/8 N44 Na40 Nb6 Na6 Nb6 Na6 Nb/48 tartan")
+![Tartan detail](tartan.png "Nb/48 Na6 Nb6 Na6 Nb6 Na40 N44 Na/8 tartan")
 
 ## Nearest tartans
 
@@ -40,7 +40,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Manx Centenary](/setts/s9/t22g3t3g3t3g9o28g3o6~x2/) — ΔT 1.24
 1. [Clyde](/setts/s10/o5n3o22r3n6n17r2n4r2n4~x2/) — ΔT 1.34
-1. [Glen Burns (WCWM-2)](/setts/s6/n1o6n6o6n1o1~x4/) — ΔT 1.36
+1. [Glen Burns (WCWM-2)](/setts/s6/n6o6n1o1~x4/) — ΔT 1.36
 1. [Daks, (Muted Skye)](/setts/s8/db5y15o4y4o24y4o4db5/) — ΔT 1.49
 1. [Outlander #2](/setts/s9/o7n6lb1lo6n1lo6n6lb1o6~x8/) — ΔT 1.72
 1. [Outlander #2](/setts/s9/y7n6lt1lo6n1lo6n6lt1y6~x8/) — ΔT 1.73
@@ -51,8 +51,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/t22g3t3g3t3g9o28g3o6~x2/"><circle cx="370.9" cy="267.1" r="4" fill="#3465a4"><title>Manx Centenary</title></circle></a><a href="/setts/s10/o5n3o22r3n6n17r2n4r2n4~x2/"><circle cx="338.4" cy="236.4" r="4" fill="#3465a4"><title>Clyde</title></circle></a><a href="/setts/s6/n1o6n6o6n1o1~x4/"><circle cx="351.2" cy="326.2" r="4" fill="#3465a4"><title>Glen Burns (WCWM-2)</title></circle></a><a href="/setts/s8/db5y15o4y4o24y4o4db5/"><circle cx="415.1" cy="309.1" r="4" fill="#3465a4"><title>Daks, (Muted Skye)</title></circle></a><a href="/setts/s9/o7n6lb1lo6n1lo6n6lb1o6~x8/"><circle cx="264.2" cy="298.4" r="4" fill="#3465a4"><title>Outlander #2</title></circle></a><a href="/setts/s9/y7n6lt1lo6n1lo6n6lt1y6~x8/"><circle cx="264.7" cy="299.6" r="4" fill="#3465a4"><title>Outlander #2</title></circle></a><a href="/setts/s6/lo5y22m15lp11m5y2~x2/"><circle cx="309.8" cy="266.0" r="4" fill="#3465a4"><title>Scottish Ballet</title></circle></a><a href="/setts/s8/w3y36lp6b6lp6b12lp32w3/"><circle cx="341.5" cy="227.2" r="4" fill="#3465a4"><title>Tenmaya</title></circle></a><a href="/setts/s10/g6t8o2t2ly2t16g18t4g4t3~x2/"><circle cx="417.1" cy="273.1" r="4" fill="#3465a4"><title>Blue Ridge</title></circle></a><a href="/setts/s10/g6t8o2t2ly2t16g18t4g4t3~x4/"><circle cx="417.1" cy="273.1" r="4" fill="#3465a4"><title>Blue Ridge (District)</title></circle></a><circle cx="346.7" cy="282.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/t22g3t3g3t3g9o28g3o6~x2/"><circle cx="370.7" cy="267.2" r="4" fill="#3465a4"><title>Manx Centenary</title></circle></a><a href="/setts/s10/o5n3o22r3n6n17r2n4r2n4~x2/"><circle cx="338.2" cy="236.7" r="4" fill="#3465a4"><title>Clyde</title></circle></a><a href="/setts/s6/n6o6n1o1~x4/"><circle cx="351.0" cy="326.5" r="4" fill="#3465a4"><title>Glen Burns (WCWM-2)</title></circle></a><a href="/setts/s8/db5y15o4y4o24y4o4db5/"><circle cx="414.8" cy="309.3" r="4" fill="#3465a4"><title>Daks, (Muted Skye)</title></circle></a><a href="/setts/s9/o7n6lb1lo6n1lo6n6lb1o6~x8/"><circle cx="264.1" cy="298.7" r="4" fill="#3465a4"><title>Outlander #2</title></circle></a><a href="/setts/s9/y7n6lt1lo6n1lo6n6lt1y6~x8/"><circle cx="264.6" cy="299.9" r="4" fill="#3465a4"><title>Outlander #2</title></circle></a><a href="/setts/s6/lo5y22m15lp11m5y2~x2/"><circle cx="309.6" cy="266.1" r="4" fill="#3465a4"><title>Scottish Ballet</title></circle></a><a href="/setts/s8/w3y36lp6b6lp6b12lp32w3/"><circle cx="341.2" cy="227.4" r="4" fill="#3465a4"><title>Tenmaya</title></circle></a><a href="/setts/s10/g6t8o2t2ly2t16g18t4g4t3~x2/"><circle cx="416.8" cy="273.3" r="4" fill="#3465a4"><title>Blue Ridge</title></circle></a><a href="/setts/s10/g6t8o2t2ly2t16g18t4g4t3~x4/"><circle cx="416.8" cy="273.3" r="4" fill="#3465a4"><title>Blue Ridge (District)</title></circle></a><circle cx="346.4" cy="282.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/o24n3o3n3o3n20lr22n4~x2/

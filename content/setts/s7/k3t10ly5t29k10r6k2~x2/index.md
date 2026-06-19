@@ -2,12 +2,18 @@
 title: "Perkins 2015"
 date: 2023-03-18
 ---
-**Bands:** [KBYBKRK](/stripes/kbybkrk/) · **Stripes:** [K T LY T K R K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K T LY T K R K</span></span>
+**Bands:** [KRKBYBK](/stripes/krkbybk/) · **Stripes:** [K R K T LY T K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K T LY T K</span></span>
 
 
 This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11211/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Perkins 2015
 
 ## Thread count
 K/6 B20 Y10 B58 K20 R12 K/4
@@ -38,14 +44,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Katsushika Scottish Country Dancers](/setts/s8/db22ly2db1ly2db10r2g11r6~x2/) — ΔT 1.13
 1. [Stewart Navy Clan Tartan Tartan Number: 1117. Earliest known date: 1971 Stewart Navy See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/dt29dr3w10dt2w2lo10dt5w2dt4lo2~x2/) — ΔT 1.14
 1. [Burberry Grey (Original)](/setts/s5/k5w7k5y20db1~x4/) — ΔT 1.20
-1. [MacCrimmon from Skye](/setts/s7/ly5k3t22k17t22k3r5~x2/) — ΔT 1.23
+1. [MacCrimmon from Skye](/setts/s7/r5k3t22k17t22k3ly5~x2/) — ΔT 1.23
 1. [Kansai Highland Games Corporate Tartan Tartan Number: 2708. Earliest known date: 1999 Designed for the first Highland Games in Japan, started by Maud Robertson and heavy weight husband, Masonori Nomiyam. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/dp2k1dp16g16w2~x4/) — ΔT 1.25
 1. [Bedford Academy](/setts/s9/y8ly4y35db2lt8db2y4db21y4~x2/) — ΔT 1.25
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k3t10lo5t29k10r6k2~x2/"><circle cx="333.9" cy="182.7" r="4" fill="#3465a4"><title>Perkins (2015)</title></circle></a><a href="/setts/s6/lb3k3lb3k3o15r1~x4/"><circle cx="291.7" cy="171.0" r="4" fill="#3465a4"><title>Tiree Grey</title></circle></a><a href="/setts/s7/k10t30g3t3g3t3r6~x2/"><circle cx="340.2" cy="185.6" r="4" fill="#3465a4"><title>Kinding (Personal)</title></circle></a><a href="/setts/s8/db3n10db3k3w10r4n28k2~x2/"><circle cx="304.7" cy="150.2" r="4" fill="#3465a4"><title>Moorpark Primary School (Corporate)</title></circle></a><a href="/setts/s8/db22ly2db1ly2db10r2g11r6~x2/"><circle cx="347.1" cy="166.3" r="4" fill="#3465a4"><title>Katsushika Scottish Country Dancers</title></circle></a><a href="/setts/s10/dt29dr3w10dt2w2lo10dt5w2dt4lo2~x2/"><circle cx="305.2" cy="144.8" r="4" fill="#3465a4"><title>Stewart Navy Clan Tartan Tartan Number: 1117. Earliest known date: 1971 Stewart Navy See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k5w7k5y20db1~x4/"><circle cx="280.8" cy="176.2" r="4" fill="#3465a4"><title>Burberry Grey (Original)</title></circle></a><a href="/setts/s7/ly5k3t22k17t22k3r5~x2/"><circle cx="264.8" cy="214.7" r="4" fill="#3465a4"><title>MacCrimmon from Skye</title></circle></a><a href="/setts/s5/dp2k1dp16g16w2~x4/"><circle cx="293.2" cy="180.4" r="4" fill="#3465a4"><title>Kansai Highland Games Corporate Tartan Tartan Number: 2708. Earliest known date: 1999 Designed for the first Highland Games in Japan, started by Maud Robertson and heavy weight husband, Masonori Nomiyam. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/y8ly4y35db2lt8db2y4db21y4~x2/"><circle cx="337.4" cy="159.3" r="4" fill="#3465a4"><title>Bedford Academy</title></circle></a><circle cx="317.5" cy="176.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k3t10lo5t29k10r6k2~x2/"><circle cx="333.7" cy="182.5" r="4" fill="#3465a4"><title>Perkins (2015)</title></circle></a><a href="/setts/s6/lb3k3lb3k3o15r1~x4/"><circle cx="291.5" cy="170.8" r="4" fill="#3465a4"><title>Tiree Grey</title></circle></a><a href="/setts/s7/k10t30g3t3g3t3r6~x2/"><circle cx="340.0" cy="185.4" r="4" fill="#3465a4"><title>Kinding (Personal)</title></circle></a><a href="/setts/s8/db3n10db3k3w10r4n28k2~x2/"><circle cx="304.5" cy="150.0" r="4" fill="#3465a4"><title>Moorpark Primary School (Corporate)</title></circle></a><a href="/setts/s8/db22ly2db1ly2db10r2g11r6~x2/"><circle cx="346.9" cy="166.2" r="4" fill="#3465a4"><title>Katsushika Scottish Country Dancers</title></circle></a><a href="/setts/s10/dt29dr3w10dt2w2lo10dt5w2dt4lo2~x2/"><circle cx="305.0" cy="144.6" r="4" fill="#3465a4"><title>Stewart Navy Clan Tartan Tartan Number: 1117. Earliest known date: 1971 Stewart Navy See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k5w7k5y20db1~x4/"><circle cx="280.6" cy="176.0" r="4" fill="#3465a4"><title>Burberry Grey (Original)</title></circle></a><a href="/setts/s7/r5k3t22k17t22k3ly5~x2/"><circle cx="264.7" cy="214.5" r="4" fill="#3465a4"><title>MacCrimmon from Skye</title></circle></a><a href="/setts/s5/dp2k1dp16g16w2~x4/"><circle cx="293.0" cy="180.2" r="4" fill="#3465a4"><title>Kansai Highland Games Corporate Tartan Tartan Number: 2708. Earliest known date: 1999 Designed for the first Highland Games in Japan, started by Maud Robertson and heavy weight husband, Masonori Nomiyam. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/y8ly4y35db2lt8db2y4db21y4~x2/"><circle cx="337.2" cy="159.2" r="4" fill="#3465a4"><title>Bedford Academy</title></circle></a><circle cx="317.3" cy="176.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k3t10ly5t29k10r6k2~x2/

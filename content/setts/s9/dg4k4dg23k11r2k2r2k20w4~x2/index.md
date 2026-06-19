@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -907,16 +910,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Guthrie (Name)](/setts/s9/k1g12k12r1k1r1k12b12r1~x4/) — ΔT 1.03
 1. [Murray of Elibank](/setts/s13/db56k6g24k6db8k21ly6k21db8k6g24k6db56/) — ΔT 1.09
 1. [Scottish Jewish Community](/setts/s11/k14t3k3w4k3t3k14db4k4db30k4~x2/) — ΔT 1.10
-1. [Land's End](/setts/s8/dg2k26g2k2g9m2g9k2~x2/) — ΔT 1.10
+1. [Land's End](/setts/s8/k2g9m2g9k2g2k26dg2~x2/) — ΔT 1.10
 1. [Frederiction Police Force](/setts/s8/r6k55db8g6db10g6db6g4~x2/) — ΔT 1.12
 1. [Kells Irish Pubs](/setts/s12/k17lr2k3g2k3g2k24b8g4b4g3b8~x2/) — ΔT 1.13
-1. [Abercrombie](/setts/s9/dg14lb1dg7k7db2k2db2k2db7~x2/) — ΔT 1.18
-1. [Gracie](/setts/s8/g47r3g6db35lo3db35g6r3~x2/) — ΔT 1.19
+1. [Abercrombie](/setts/s9/dg14lb1dg7k7db2k2db2k2db7/) — ΔT 1.18
+1. [Gracie](/setts/s8/g47r3g6db35lo3~x2/) — ΔT 1.19
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db32dr3db3dr3db3dr10g24m3~x2/"><circle cx="262.3" cy="193.7" r="4" fill="#3465a4"><title>Gammell</title></circle></a><a href="/setts/s12/k17o2k3g2k3g2k24b8g4b4g3b8~x2/"><circle cx="325.0" cy="180.6" r="4" fill="#3465a4"><title>Kells Irish Pubs (Corporate)</title></circle></a><a href="/setts/s9/k1g12k12r1k1r1k12b12r1~x4/"><circle cx="256.3" cy="186.8" r="4" fill="#3465a4"><title>Guthrie (Name)</title></circle></a><a href="/setts/s13/db56k6g24k6db8k21ly6k21db8k6g24k6db56/"><circle cx="241.5" cy="179.0" r="4" fill="#3465a4"><title>Murray of Elibank</title></circle></a><a href="/setts/s11/k14t3k3w4k3t3k14db4k4db30k4~x2/"><circle cx="284.1" cy="185.8" r="4" fill="#3465a4"><title>Scottish Jewish Community</title></circle></a><a href="/setts/s8/dg2k26g2k2g9m2g9k2~x2/"><circle cx="325.3" cy="180.2" r="4" fill="#3465a4"><title>Land's End</title></circle></a><a href="/setts/s8/r6k55db8g6db10g6db6g4~x2/"><circle cx="321.7" cy="168.8" r="4" fill="#3465a4"><title>Frederiction Police Force</title></circle></a><a href="/setts/s12/k17lr2k3g2k3g2k24b8g4b4g3b8~x2/"><circle cx="305.6" cy="167.6" r="4" fill="#3465a4"><title>Kells Irish Pubs</title></circle></a><a href="/setts/s9/dg14lb1dg7k7db2k2db2k2db7~x2/"><circle cx="256.5" cy="203.0" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/setts/s8/g47r3g6db35lo3db35g6r3~x2/"><circle cx="326.3" cy="189.8" r="4" fill="#3465a4"><title>Gracie</title></circle></a><circle cx="288.0" cy="193.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db32dr3db3dr3db3dr10g24m3~x2/"><circle cx="262.4" cy="193.6" r="4" fill="#3465a4"><title>Gammell</title></circle></a><a href="/setts/s12/k17o2k3g2k3g2k24b8g4b4g3b8~x2/"><circle cx="325.0" cy="180.4" r="4" fill="#3465a4"><title>Kells Irish Pubs (Corporate)</title></circle></a><a href="/setts/s9/k1g12k12r1k1r1k12b12r1~x4/"><circle cx="256.3" cy="186.7" r="4" fill="#3465a4"><title>Guthrie (Name)</title></circle></a><a href="/setts/s13/db56k6g24k6db8k21ly6k21db8k6g24k6db56/"><circle cx="241.6" cy="178.9" r="4" fill="#3465a4"><title>Murray of Elibank</title></circle></a><a href="/setts/s11/k14t3k3w4k3t3k14db4k4db30k4~x2/"><circle cx="284.2" cy="185.8" r="4" fill="#3465a4"><title>Scottish Jewish Community</title></circle></a><a href="/setts/s8/k2g9m2g9k2g2k26dg2~x2/"><circle cx="325.4" cy="180.0" r="4" fill="#3465a4"><title>Land's End</title></circle></a><a href="/setts/s8/r6k55db8g6db10g6db6g4~x2/"><circle cx="321.7" cy="168.7" r="4" fill="#3465a4"><title>Frederiction Police Force</title></circle></a><a href="/setts/s12/k17lr2k3g2k3g2k24b8g4b4g3b8~x2/"><circle cx="305.6" cy="167.4" r="4" fill="#3465a4"><title>Kells Irish Pubs</title></circle></a><a href="/setts/s9/dg14lb1dg7k7db2k2db2k2db7/"><circle cx="256.7" cy="203.0" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/setts/s8/g47r3g6db35lo3~x2/"><circle cx="326.3" cy="189.7" r="4" fill="#3465a4"><title>Gracie</title></circle></a><circle cx="288.1" cy="193.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dg4k4dg23k11r2k2r2k20w4~x2/

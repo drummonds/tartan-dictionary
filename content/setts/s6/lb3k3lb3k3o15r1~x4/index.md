@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5110
 
 ## Thread count
-DR/4 Na60 K12 N12 K12 N/12
+N/12 K12 N12 K12 Na60 DR/4
 ![Sett](sett.png)
 
 ## Palette
@@ -40,7 +40,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/4 Na60 K12 N12 K12 N/12 tartan")
+![Tartan detail](tartan.png "N/12 K12 N12 K12 Na60 DR/4 tartan")
 
 ## Nearest tartans
 
@@ -50,7 +50,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Burberry Grey (Original)](/setts/s5/k5w7k5y20db1~x4/) — ΔT 0.90
 1. [Perkins 2015](/setts/s7/k3t10ly5t29k10r6k2~x2/) — ΔT 0.94
 1. [Kansai Highland Games](/setts/s5/dp2k1dp16g17w2~x4/) — ΔT 0.95
-1. [Merrick, Camel](/setts/s7/lb1k1lb1o18k8lb5r1~x4/) — ΔT 1.00
+1. [Merrick, Camel](/setts/s7/r1lb5k8o18lb1k1lb1~x4/) — ΔT 1.00
 1. [Downside (Corporate)](/setts/s6/r4o41k5w14k18r4~x2/) — ΔT 1.06
 1. [Stutterheim](/setts/s6/k4ly18n44k3ly10k4/) — ΔT 1.06
 1. [Kyle Tartan Tartan Number: 1288. Earliest known date: pre 1984 Seen in Service Station at Gretna Green in 1984 by Angela Nisbett MSTS . Berars no relation to the other two Kyles (3615 & 3616). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/o19k2w4k2n5k2n5~x2/) — ΔT 1.12
@@ -59,8 +59,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/dp2k1dp16g16w2~x4/"><circle cx="293.2" cy="180.4" r="4" fill="#3465a4"><title>Kansai Highland Games Corporate Tartan Tartan Number: 2708. Earliest known date: 1999 Designed for the first Highland Games in Japan, started by Maud Robertson and heavy weight husband, Masonori Nomiyam. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k5w7k5y20db1~x4/"><circle cx="280.8" cy="176.2" r="4" fill="#3465a4"><title>Burberry Grey (Original)</title></circle></a><a href="/setts/s7/k3t10ly5t29k10r6k2~x2/"><circle cx="317.5" cy="176.3" r="4" fill="#3465a4"><title>Perkins 2015</title></circle></a><a href="/setts/s5/dp2k1dp16g17w2~x4/"><circle cx="288.5" cy="176.3" r="4" fill="#3465a4"><title>Kansai Highland Games</title></circle></a><a href="/setts/s7/lb1k1lb1o18k8lb5r1~x4/"><circle cx="295.7" cy="142.9" r="4" fill="#3465a4"><title>Merrick, Camel</title></circle></a><a href="/setts/s6/r4o41k5w14k18r4~x2/"><circle cx="224.4" cy="181.9" r="4" fill="#3465a4"><title>Downside (Corporate)</title></circle></a><a href="/setts/s6/k4ly18n44k3ly10k4/"><circle cx="306.2" cy="177.8" r="4" fill="#3465a4"><title>Stutterheim</title></circle></a><a href="/setts/s7/o19k2w4k2n5k2n5~x2/"><circle cx="255.9" cy="188.4" r="4" fill="#3465a4"><title>Kyle Tartan Tartan Number: 1288. Earliest known date: pre 1984 Seen in Service Station at Gretna Green in 1984 by Angela Nisbett MSTS . Berars no relation to the other two Kyles (3615 &amp; 3616). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r12ly3w14dt10ly2dt24r2~x2/"><circle cx="230.2" cy="180.7" r="4" fill="#3465a4"><title>Yusra (Malay) (Personal)</title></circle></a><a href="/setts/s7/g6lo2g32k8w6lo20g5~x2/"><circle cx="294.2" cy="174.3" r="4" fill="#3465a4"><title>Pollock (Name)</title></circle></a><circle cx="291.7" cy="171.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/dp2k1dp16g16w2~x4/"><circle cx="293.0" cy="180.2" r="4" fill="#3465a4"><title>Kansai Highland Games Corporate Tartan Tartan Number: 2708. Earliest known date: 1999 Designed for the first Highland Games in Japan, started by Maud Robertson and heavy weight husband, Masonori Nomiyam. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k5w7k5y20db1~x4/"><circle cx="280.6" cy="176.0" r="4" fill="#3465a4"><title>Burberry Grey (Original)</title></circle></a><a href="/setts/s7/k3t10ly5t29k10r6k2~x2/"><circle cx="317.3" cy="176.0" r="4" fill="#3465a4"><title>Perkins 2015</title></circle></a><a href="/setts/s5/dp2k1dp16g17w2~x4/"><circle cx="288.3" cy="176.1" r="4" fill="#3465a4"><title>Kansai Highland Games</title></circle></a><a href="/setts/s7/r1lb5k8o18lb1k1lb1~x4/"><circle cx="295.4" cy="142.8" r="4" fill="#3465a4"><title>Merrick, Camel</title></circle></a><a href="/setts/s6/r4o41k5w14k18r4~x2/"><circle cx="224.3" cy="181.7" r="4" fill="#3465a4"><title>Downside (Corporate)</title></circle></a><a href="/setts/s6/k4ly18n44k3ly10k4/"><circle cx="305.9" cy="177.5" r="4" fill="#3465a4"><title>Stutterheim</title></circle></a><a href="/setts/s7/o19k2w4k2n5k2n5~x2/"><circle cx="255.7" cy="188.3" r="4" fill="#3465a4"><title>Kyle Tartan Tartan Number: 1288. Earliest known date: pre 1984 Seen in Service Station at Gretna Green in 1984 by Angela Nisbett MSTS . Berars no relation to the other two Kyles (3615 &amp; 3616). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r12ly3w14dt10ly2dt24r2~x2/"><circle cx="230.1" cy="180.5" r="4" fill="#3465a4"><title>Yusra (Malay) (Personal)</title></circle></a><a href="/setts/s7/g6lo2g32k8w6lo20g5~x2/"><circle cx="293.9" cy="174.1" r="4" fill="#3465a4"><title>Pollock (Name)</title></circle></a><circle cx="291.5" cy="170.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/lb3k3lb3k3o15r1~x4/

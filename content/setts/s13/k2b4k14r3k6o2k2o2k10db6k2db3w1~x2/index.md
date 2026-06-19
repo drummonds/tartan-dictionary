@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,13 +915,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Iron Horse Clan Tartan Tartan Number: 3820. Earliest known date: 2002 Designed for members of the Iron Horse 'Clan' (used in the loose sense) a group of American motorcycle enthusiasts wishing to express their identity and heritage through their own tartan. Only for members of the Iron Horse group and their families. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/k16n4o3k2db1w1r1k2o3n4k12~x4/) — ΔT 1.68
 1. [MacDonald, Sir John A](/setts/s11/r10k3dg2lb2k22db4k22r4dg4r14lb3~x2/) — ΔT 1.73
 1. [York Region Pipe Band](/setts/s11/r10k3g2lb2k22db4k22r4g4r14lb3~x2/) — ΔT 1.74
-1. [Ontario Provincial Police](/setts/s13/db9r1db1w1db2k10db8g2db8k10db10ly1lt2~x4/) — ΔT 1.78
 1. [Braveheart -Warrior (hunting)](/setts/s12/k43o7k9dp3k3dp3k3g18dr9k3dr4dr4~x2/) — ΔT 1.78
+1. [Ontario Provincial Police](/setts/s13/db9r1db1w1db2k10db8g2db8k10db10ly1lt2~x4/) — ΔT 1.78
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k30r3db10ly3k40t5o5db8r3ly5k25db8t8k5/"><circle cx="304.1" cy="132.0" r="4" fill="#3465a4"><title>Parker, Black (2009) (Name)</title></circle></a><a href="/setts/s14/k30r3db10ly3k40t5n5db8r3ly5k25db8t8k5/"><circle cx="307.6" cy="134.0" r="4" fill="#3465a4"><title>Parker Black (2009)</title></circle></a><a href="/setts/s13/k2b4k14r3k6dy2k2dy2k10db6k2db3w1~x2/"><circle cx="307.2" cy="153.1" r="4" fill="#3465a4"><title>Kennedy (Irish)</title></circle></a><a href="/setts/s11/k16n4lb3k2db1w1r1k2lb3n4k12~x4/"><circle cx="323.1" cy="122.9" r="4" fill="#3465a4"><title>Iron Horse</title></circle></a><a href="/setts/s9/k8k3k8r2k20t6k8t6o2~x2/"><circle cx="335.8" cy="196.6" r="4" fill="#3465a4"><title>Wyse (2016)</title></circle></a><a href="/setts/s11/k16n4o3k2db1w1r1k2o3n4k12~x4/"><circle cx="344.5" cy="134.7" r="4" fill="#3465a4"><title>Iron Horse Clan Tartan Tartan Number: 3820. Earliest known date: 2002 Designed for members of the Iron Horse 'Clan' (used in the loose sense) a group of American motorcycle enthusiasts wishing to express their identity and heritage through their own tartan. Only for members of the Iron Horse group and their families. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r10k3dg2lb2k22db4k22r4dg4r14lb3~x2/"><circle cx="244.1" cy="158.9" r="4" fill="#3465a4"><title>MacDonald, Sir John A</title></circle></a><a href="/setts/s11/r10k3g2lb2k22db4k22r4g4r14lb3~x2/"><circle cx="240.7" cy="157.2" r="4" fill="#3465a4"><title>York Region Pipe Band</title></circle></a><a href="/setts/s13/db9r1db1w1db2k10db8g2db8k10db10ly1lt2~x4/"><circle cx="232.9" cy="145.3" r="4" fill="#3465a4"><title>Ontario Provincial Police</title></circle></a><a href="/setts/s12/k43o7k9dp3k3dp3k3g18dr9k3dr4dr4~x2/"><circle cx="269.0" cy="122.4" r="4" fill="#3465a4"><title>Braveheart -Warrior (hunting)</title></circle></a><circle cx="277.4" cy="140.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k30r3db10ly3k40t5o5db8r3ly5k25db8t8k5/"><circle cx="304.1" cy="131.9" r="4" fill="#3465a4"><title>Parker, Black (2009) (Name)</title></circle></a><a href="/setts/s14/k30r3db10ly3k40t5n5db8r3ly5k25db8t8k5/"><circle cx="307.6" cy="134.0" r="4" fill="#3465a4"><title>Parker Black (2009)</title></circle></a><a href="/setts/s13/k2b4k14r3k6dy2k2dy2k10db6k2db3w1~x2/"><circle cx="307.2" cy="153.1" r="4" fill="#3465a4"><title>Kennedy (Irish)</title></circle></a><a href="/setts/s11/k16n4lb3k2db1w1r1k2lb3n4k12~x4/"><circle cx="323.1" cy="122.8" r="4" fill="#3465a4"><title>Iron Horse</title></circle></a><a href="/setts/s9/k8k3k8r2k20t6k8t6o2~x2/"><circle cx="336.0" cy="196.4" r="4" fill="#3465a4"><title>Wyse (2016)</title></circle></a><a href="/setts/s11/k16n4o3k2db1w1r1k2o3n4k12~x4/"><circle cx="344.5" cy="134.6" r="4" fill="#3465a4"><title>Iron Horse Clan Tartan Tartan Number: 3820. Earliest known date: 2002 Designed for members of the Iron Horse 'Clan' (used in the loose sense) a group of American motorcycle enthusiasts wishing to express their identity and heritage through their own tartan. Only for members of the Iron Horse group and their families. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r10k3dg2lb2k22db4k22r4dg4r14lb3~x2/"><circle cx="244.2" cy="158.8" r="4" fill="#3465a4"><title>MacDonald, Sir John A</title></circle></a><a href="/setts/s11/r10k3g2lb2k22db4k22r4g4r14lb3~x2/"><circle cx="240.8" cy="157.1" r="4" fill="#3465a4"><title>York Region Pipe Band</title></circle></a><a href="/setts/s12/k43o7k9dp3k3dp3k3g18dr9k3dr4dr4~x2/"><circle cx="269.1" cy="122.4" r="4" fill="#3465a4"><title>Braveheart -Warrior (hunting)</title></circle></a><a href="/setts/s13/db9r1db1w1db2k10db8g2db8k10db10ly1lt2~x4/"><circle cx="233.1" cy="145.3" r="4" fill="#3465a4"><title>Ontario Provincial Police</title></circle></a><circle cx="277.5" cy="140.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/k2b4k14r3k6o2k2o2k10db6k2db3w1~x2/

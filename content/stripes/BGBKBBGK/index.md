@@ -8,7 +8,7 @@ BGBKBBGK
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/dp4g3dp12k6dp3db6g24k4~x2/tartan.png)
+![Woven sample](/setts/s8/k4g24db6dp3k6dp12g3dp4~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ BGBKBBGK
 
 
 
-### DP G DP K DP DB G K <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">DP G DP K DP DB G K</span></span>
+### K G DB DP K DP G DP <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K G DB DP K DP G DP</span></span>
 
 | Tartans |
 |---------------|
-| [Gary/Garry (Name)](/setts/s8/dp4g3dp12k6dp3db6g24k4~x2/)|
-|![Gary/Garry (Name) example sett](/setts/s8/dp4g3dp12k6dp3db6g24k4~x2/sett.png)|
+| [Gary/Garry (Name)](/setts/s8/k4g24db6dp3k6dp12g3dp4~x2/)|
+|![Gary/Garry (Name) example sett](/setts/s8/k4g24db6dp3k6dp12g3dp4~x2/sett.png)|
 

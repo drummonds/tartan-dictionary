@@ -2,7 +2,7 @@
 title: "MacNab VS"
 date: 2023-03-18
 ---
-**Bands:** [GRBGBRK](/stripes/grbgbrk/) · **Stripes:** [DG R DR DG DR R K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">DG R DR DG DR R K</span></span>
+**Bands:** [KRBGBRG](/stripes/krbgbrg/) · **Stripes:** [K R DR DG DR R DG](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">K R DR DG DR R DG</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -81,7 +81,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Loch Rannoch](/setts/s8/dr24g2dr5o14g2o5o17dr2~x2/) — ΔT 1.13
+1. [Loch Rannoch](/setts/s8/dr24g2dr5o14g2o5o17dr2~x2/) — ΔT 1.12
 1. [Hubbard (2016)](/setts/s9/dt5r19dt2y8r3y18dt2y9dt2~x2/) — ΔT 1.13
 1. [Chisholm](/setts/s8/r12n2lr1n2r3dg8r3n1~x2/) — ΔT 1.17
 1. [Chisholm](/setts/s8/r12n2lr1n2r3dg8r3n1/) — ΔT 1.17
@@ -90,12 +90,12 @@ The nearest existing variants by ΔTartan distance.
 1. [MacNab #3](/setts/s7/dg6r2r2dg4r2r12k1~x2/) — ΔT 1.17
 1. [Wasko (Personal)](/setts/s7/r8w2m30g12m3g12m3~x2/) — ΔT 1.21
 1. [Comyn](/setts/s8/k1r9dg2r2dg4lr1dg4r1~x2/) — ΔT 1.25
-1. [Comyn](/setts/s8/k1r9dg2r2dg4lr1dg4r1/) — ΔT 1.25
+1. [Leckie (Personal)](/setts/s7/r3db1r12o3dg12lb1dg2~x4/) — ΔT 1.27
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dr24g2dr5o14g2o5o17dr2~x2/"><circle cx="292.6" cy="212.3" r="4" fill="#3465a4"><title>Loch Rannoch</title></circle></a><a href="/setts/s9/dt5r19dt2y8r3y18dt2y9dt2~x2/"><circle cx="317.6" cy="212.5" r="4" fill="#3465a4"><title>Hubbard (2016)</title></circle></a><a href="/setts/s8/r12n2lr1n2r3dg8r3n1~x2/"><circle cx="377.4" cy="207.0" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s8/r12n2lr1n2r3dg8r3n1/"><circle cx="377.4" cy="207.0" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s7/dg28r7m7dg14m7r48k4~x2/"><circle cx="298.4" cy="187.9" r="4" fill="#3465a4"><title>MacNab (Crimson)</title></circle></a><a href="/setts/s8/do24g2do5lo14g2lo5dy17do2~x2/"><circle cx="277.7" cy="206.2" r="4" fill="#3465a4"><title>Loch Rannoch Trade Tartan Tartan Number: 1735. Earliest known date: 1975 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dg6r2r2dg4r2r12k1~x2/"><circle cx="298.1" cy="191.5" r="4" fill="#3465a4"><title>MacNab #3</title></circle></a><a href="/setts/s7/r8w2m30g12m3g12m3~x2/"><circle cx="331.8" cy="186.4" r="4" fill="#3465a4"><title>Wasko (Personal)</title></circle></a><a href="/setts/s8/k1r9dg2r2dg4lr1dg4r1~x2/"><circle cx="305.6" cy="206.2" r="4" fill="#3465a4"><title>Comyn</title></circle></a><a href="/setts/s8/k1r9dg2r2dg4lr1dg4r1/"><circle cx="305.6" cy="206.2" r="4" fill="#3465a4"><title>Comyn</title></circle></a><circle cx="320.1" cy="211.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dr24g2dr5o14g2o5o17dr2~x2/"><circle cx="292.5" cy="212.4" r="4" fill="#3465a4"><title>Loch Rannoch</title></circle></a><a href="/setts/s9/dt5r19dt2y8r3y18dt2y9dt2~x2/"><circle cx="317.4" cy="212.5" r="4" fill="#3465a4"><title>Hubbard (2016)</title></circle></a><a href="/setts/s8/r12n2lr1n2r3dg8r3n1~x2/"><circle cx="377.1" cy="207.0" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s8/r12n2lr1n2r3dg8r3n1/"><circle cx="377.1" cy="207.0" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s7/dg28r7m7dg14m7r48k4~x2/"><circle cx="298.1" cy="187.8" r="4" fill="#3465a4"><title>MacNab (Crimson)</title></circle></a><a href="/setts/s8/do24g2do5lo14g2lo5dy17do2~x2/"><circle cx="277.6" cy="206.2" r="4" fill="#3465a4"><title>Loch Rannoch Trade Tartan Tartan Number: 1735. Earliest known date: 1975 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dg6r2r2dg4r2r12k1~x2/"><circle cx="297.8" cy="191.4" r="4" fill="#3465a4"><title>MacNab #3</title></circle></a><a href="/setts/s7/r8w2m30g12m3g12m3~x2/"><circle cx="331.5" cy="186.3" r="4" fill="#3465a4"><title>Wasko (Personal)</title></circle></a><a href="/setts/s8/k1r9dg2r2dg4lr1dg4r1~x2/"><circle cx="305.4" cy="206.2" r="4" fill="#3465a4"><title>Comyn</title></circle></a><a href="/setts/s7/r3db1r12o3dg12lb1dg2~x4/"><circle cx="275.0" cy="180.8" r="4" fill="#3465a4"><title>Leckie (Personal)</title></circle></a><circle cx="319.9" cy="211.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/dg6r2dr2dg4dr2r12k1~x2/

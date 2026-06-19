@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5403/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Royal Burgh of Peebles
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -49,20 +55,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [McComb](/setts/s7/db3r2db18k6dg18ly2g3~x2/) — ΔT 0.67
-1. [James (Personal)](/setts/s7/lr2db6ly1dg12ly1k6r2~x4/) — ΔT 0.70
+1. [James (Personal)](/setts/s7/r2k6ly1dg12ly1db6lr2~x4/) — ΔT 0.70
 1. [McComb (Personal)](/setts/s7/db3r2db18k6g18ly2g3~x2/) — ΔT 0.79
 1. [MacLean, Donald Personal Tartan Tartan Number: 3440. Earliest known date: pre 2002 From Pendleton Woolen Mills of Oregon, owners of the only copy of Clans Originaux. EBW 8.11.02. This is the same as MacTaggart #408 and #409!!! See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/g16lb3g3k10db12r2k3~x2/) — ΔT 0.81
-1. [Christian Hunting (Personal)](/setts/s7/ly3dp2g27k19db27g2r3~x2/) — ΔT 0.88
+1. [Christian Hunting (Personal)](/setts/s7/r3g2db27k19g27dp2ly3~x2/) — ΔT 0.88
 1. [Yates (Personal)](/setts/s8/k29r3dt24n6k8w4n8o6~x2/) — ΔT 0.92
 1. [Grandfather Mountain Games (District](/setts/s7/r3dg20k2n11k2db20lr2~x2/) — ΔT 0.93
-1. [Mantle (Personal)](/setts/s8/g3db16w2k14g18r3g2r3~x2/) — ΔT 0.95
+1. [Mantle (Personal)](/setts/s8/r3g2r3g18k14w2db16g3~x2/) — ΔT 0.95
 1. [Sey (Name)](/setts/s8/r2k8ly1k8g13db13lo1r2~x2/) — ΔT 0.95
 1. [Chinzei Keiai School](/setts/s9/r3m3dt16k2dt2g16r3g2w2~x2/) — ΔT 0.98
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db3r2db18k6dg18ly2g3~x2/"><circle cx="177.1" cy="181.7" r="4" fill="#3465a4"><title>McComb</title></circle></a><a href="/setts/s7/lr2db6ly1dg12ly1k6r2~x4/"><circle cx="163.4" cy="169.7" r="4" fill="#3465a4"><title>James (Personal)</title></circle></a><a href="/setts/s7/db3r2db18k6g18ly2g3~x2/"><circle cx="184.9" cy="184.2" r="4" fill="#3465a4"><title>McComb (Personal)</title></circle></a><a href="/setts/s7/g16lb3g3k10db12r2k3~x2/"><circle cx="129.6" cy="196.2" r="4" fill="#3465a4"><title>MacLean, Donald Personal Tartan Tartan Number: 3440. Earliest known date: pre 2002 From Pendleton Woolen Mills of Oregon, owners of the only copy of Clans Originaux. EBW 8.11.02. This is the same as MacTaggart #408 and #409!!! See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/ly3dp2g27k19db27g2r3~x2/"><circle cx="174.9" cy="166.7" r="4" fill="#3465a4"><title>Christian Hunting (Personal)</title></circle></a><a href="/setts/s8/k29r3dt24n6k8w4n8o6~x2/"><circle cx="174.5" cy="178.5" r="4" fill="#3465a4"><title>Yates (Personal)</title></circle></a><a href="/setts/s7/r3dg20k2n11k2db20lr2~x2/"><circle cx="155.0" cy="183.4" r="4" fill="#3465a4"><title>Grandfather Mountain Games (District</title></circle></a><a href="/setts/s8/g3db16w2k14g18r3g2r3~x2/"><circle cx="174.5" cy="195.7" r="4" fill="#3465a4"><title>Mantle (Personal)</title></circle></a><a href="/setts/s8/r2k8ly1k8g13db13lo1r2~x2/"><circle cx="147.8" cy="169.0" r="4" fill="#3465a4"><title>Sey (Name)</title></circle></a><a href="/setts/s9/r3m3dt16k2dt2g16r3g2w2~x2/"><circle cx="169.9" cy="166.4" r="4" fill="#3465a4"><title>Chinzei Keiai School</title></circle></a><circle cx="155.4" cy="190.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db3r2db18k6dg18ly2g3~x2/"><circle cx="177.3" cy="181.7" r="4" fill="#3465a4"><title>McComb</title></circle></a><a href="/setts/s7/r2k6ly1dg12ly1db6lr2~x4/"><circle cx="163.5" cy="169.8" r="4" fill="#3465a4"><title>James (Personal)</title></circle></a><a href="/setts/s7/db3r2db18k6g18ly2g3~x2/"><circle cx="185.0" cy="184.3" r="4" fill="#3465a4"><title>McComb (Personal)</title></circle></a><a href="/setts/s7/g16lb3g3k10db12r2k3~x2/"><circle cx="129.8" cy="196.3" r="4" fill="#3465a4"><title>MacLean, Donald Personal Tartan Tartan Number: 3440. Earliest known date: pre 2002 From Pendleton Woolen Mills of Oregon, owners of the only copy of Clans Originaux. EBW 8.11.02. This is the same as MacTaggart #408 and #409!!! See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r3g2db27k19g27dp2ly3~x2/"><circle cx="175.0" cy="166.8" r="4" fill="#3465a4"><title>Christian Hunting (Personal)</title></circle></a><a href="/setts/s8/k29r3dt24n6k8w4n8o6~x2/"><circle cx="174.7" cy="178.6" r="4" fill="#3465a4"><title>Yates (Personal)</title></circle></a><a href="/setts/s7/r3dg20k2n11k2db20lr2~x2/"><circle cx="155.2" cy="183.6" r="4" fill="#3465a4"><title>Grandfather Mountain Games (District</title></circle></a><a href="/setts/s8/r3g2r3g18k14w2db16g3~x2/"><circle cx="174.6" cy="195.8" r="4" fill="#3465a4"><title>Mantle (Personal)</title></circle></a><a href="/setts/s8/r2k8ly1k8g13db13lo1r2~x2/"><circle cx="148.0" cy="169.1" r="4" fill="#3465a4"><title>Sey (Name)</title></circle></a><a href="/setts/s9/r3m3dt16k2dt2g16r3g2w2~x2/"><circle cx="169.9" cy="166.5" r="4" fill="#3465a4"><title>Chinzei Keiai School</title></circle></a><circle cx="155.6" cy="190.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r3g3db4g17k13dt26w3~x2/

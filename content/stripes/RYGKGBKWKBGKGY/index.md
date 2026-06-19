@@ -22,6 +22,6 @@ RYGKGBKWKBGKGY
 
 | Tartans |
 |---------------|
-| [Iowa](/setts/s14/r4ly3g12k16dy5db20k4w2k4db20dy5k16g12ly3~x2/)|
-|![Iowa example sett](/setts/s14/r4ly3g12k16dy5db20k4w2k4db20dy5k16g12ly3~x2/sett.png)|
+| [Iowa](/setts/s14/r4ly3g12k16dy5db20k4w2~x2/)|
+|![Iowa example sett](/setts/s14/r4ly3g12k16dy5db20k4w2~x2/sett.png)|
 

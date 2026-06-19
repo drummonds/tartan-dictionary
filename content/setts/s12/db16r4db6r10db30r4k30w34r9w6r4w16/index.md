@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2375
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacDonald, Pattern of Plaids
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,12 +925,12 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Merchiston Castle School Pipe Band](/setts/s11/k12w6k6w6r4w13k3w4k8db24r3~x2/) — ΔT 0.77
-1. [Lysaght Dress](/setts/s12/lo6db4lo6db11w1db3w3db1w11r6w4r6~x4/) — ΔT 0.92
+1. [Merchiston Castle School Pipe Band](/setts/s11/k12w6k6w6r4w13k3w4k8db24r3~x2/) — ΔT 0.78
+1. [Lysaght Dress](/setts/s12/r6w4r6w11db1w3db3w1db11lo6db4lo6~x4/) — ΔT 0.92
 1. [Tommy](/setts/s13/o4k1o5k4db11w2db11k4w2o2w15k2w3~x2/) — ΔT 1.00
 1. [Poulter, Pink (Corporate)](/setts/s13/lb25dp4lb4dp4lb4dp23lr23w4lr23dp23lb23dp4lb4~x2/) — ΔT 1.06
 1. [Kinloch Anderson Dress](/setts/s12/r8w30y5w8y5k12w6k12db28r4db8r8/) — ΔT 1.06
-1. [Cameron of Erracht Dress](/setts/s11/ly2k2r2db10r1k9w9r2w2r1w2~x2/) — ΔT 1.09
+1. [Cameron of Erracht Dress](/setts/s11/w2r1w2r2w9k9r1db10r2k2ly2~x2/) — ΔT 1.09
 1. [Black and White Colourway](/setts/s15/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19~x2/) — ΔT 1.10
 1. [Poulter SG 103 (Fashion)](/setts/s13/o25k8o8k8o8k46w46r8w46k46o46k8o8/) — ΔT 1.15
 1. [Lunch with an Old Bag (Fundraising Committee)](/setts/s11/m3k15m2k2m6lr16k3lr2k3lr9w2~x2/) — ΔT 1.16
@@ -929,8 +938,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k12w6k6w6r4w13k3w4k8db24r3~x2/"><circle cx="105.8" cy="172.9" r="4" fill="#3465a4"><title>Merchiston Castle School Pipe Band</title></circle></a><a href="/setts/s12/lo6db4lo6db11w1db3w3db1w11r6w4r6~x4/"><circle cx="102.1" cy="170.0" r="4" fill="#3465a4"><title>Lysaght Dress</title></circle></a><a href="/setts/s13/o4k1o5k4db11w2db11k4w2o2w15k2w3~x2/"><circle cx="138.1" cy="136.8" r="4" fill="#3465a4"><title>Tommy</title></circle></a><a href="/setts/s13/lb25dp4lb4dp4lb4dp23lr23w4lr23dp23lb23dp4lb4~x2/"><circle cx="130.7" cy="172.1" r="4" fill="#3465a4"><title>Poulter, Pink (Corporate)</title></circle></a><a href="/setts/s12/r8w30y5w8y5k12w6k12db28r4db8r8/"><circle cx="66.5" cy="151.4" r="4" fill="#3465a4"><title>Kinloch Anderson Dress</title></circle></a><a href="/setts/s11/ly2k2r2db10r1k9w9r2w2r1w2~x2/"><circle cx="88.1" cy="130.2" r="4" fill="#3465a4"><title>Cameron of Erracht Dress</title></circle></a><a href="/setts/s15/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19~x2/"><circle cx="121.6" cy="165.1" r="4" fill="#3465a4"><title>Black and White Colourway</title></circle></a><a href="/setts/s13/o25k8o8k8o8k46w46r8w46k46o46k8o8/"><circle cx="122.5" cy="178.9" r="4" fill="#3465a4"><title>Poulter SG 103 (Fashion)</title></circle></a><a href="/setts/s11/m3k15m2k2m6lr16k3lr2k3lr9w2~x2/"><circle cx="181.1" cy="159.9" r="4" fill="#3465a4"><title>Lunch with an Old Bag (Fundraising Committee)</title></circle></a><a href="/setts/s16/g1r1g1r1db7r6w7k1w7r6db7r1g1r1g1w1~x4/"><circle cx="88.3" cy="130.5" r="4" fill="#3465a4"><title>Oliver Dress (Dance)</title></circle></a><circle cx="112.0" cy="162.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k12w6k6w6r4w13k3w4k8db24r3~x2/"><circle cx="105.8" cy="172.9" r="4" fill="#3465a4"><title>Merchiston Castle School Pipe Band</title></circle></a><a href="/setts/s12/r6w4r6w11db1w3db3w1db11lo6db4lo6~x4/"><circle cx="102.0" cy="170.0" r="4" fill="#3465a4"><title>Lysaght Dress</title></circle></a><a href="/setts/s13/o4k1o5k4db11w2db11k4w2o2w15k2w3~x2/"><circle cx="138.0" cy="136.8" r="4" fill="#3465a4"><title>Tommy</title></circle></a><a href="/setts/s13/lb25dp4lb4dp4lb4dp23lr23w4lr23dp23lb23dp4lb4~x2/"><circle cx="130.5" cy="172.0" r="4" fill="#3465a4"><title>Poulter, Pink (Corporate)</title></circle></a><a href="/setts/s12/r8w30y5w8y5k12w6k12db28r4db8r8/"><circle cx="66.5" cy="151.4" r="4" fill="#3465a4"><title>Kinloch Anderson Dress</title></circle></a><a href="/setts/s11/w2r1w2r2w9k9r1db10r2k2ly2~x2/"><circle cx="88.0" cy="130.2" r="4" fill="#3465a4"><title>Cameron of Erracht Dress</title></circle></a><a href="/setts/s15/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19~x2/"><circle cx="121.4" cy="165.0" r="4" fill="#3465a4"><title>Black and White Colourway</title></circle></a><a href="/setts/s13/o25k8o8k8o8k46w46r8w46k46o46k8o8/"><circle cx="122.4" cy="178.8" r="4" fill="#3465a4"><title>Poulter SG 103 (Fashion)</title></circle></a><a href="/setts/s11/m3k15m2k2m6lr16k3lr2k3lr9w2~x2/"><circle cx="180.9" cy="159.8" r="4" fill="#3465a4"><title>Lunch with an Old Bag (Fundraising Committee)</title></circle></a><a href="/setts/s16/g1r1g1r1db7r6w7k1w7r6db7r1g1r1g1w1~x4/"><circle cx="88.2" cy="130.5" r="4" fill="#3465a4"><title>Oliver Dress (Dance)</title></circle></a><circle cx="111.9" cy="162.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/db16r4db6r10db30r4k30w34r9w6r4w16/

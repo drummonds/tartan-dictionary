@@ -2,12 +2,18 @@
 title: "Carolina University, Western"
 date: 2023-03-18
 ---
-**Bands:** [GKBKY](/stripes/gkbky/) · **Stripes:** [DG K DP K LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DG K DP K LY</span></span>
+**Bands:** [YKBKG](/stripes/ykbkg/) · **Stripes:** [LY K DP K DG](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">LY K DP K DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5149
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Carolina University, Western
 
 ## Attestations
 
@@ -58,8 +64,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/dp13w2dp8k5lo10dp75lo3~x2/"><circle cx="619.4" cy="129.6" r="4" fill="#3465a4"><title>East Carolina University (Corp.)</title></circle></a><a href="/setts/s8/dp57m5dp2m8lb2dp3ly2dp14~x2/"><circle cx="615.3" cy="146.3" r="4" fill="#3465a4"><title>Cairngorms National Park</title></circle></a><a href="/setts/s5/r2dp30w1lo2r1~x2/"><circle cx="590.0" cy="129.7" r="4" fill="#3465a4"><title>Wedding (Fashion)</title></circle></a><a href="/setts/s5/o2dr1dp30w1o2~x2/"><circle cx="594.1" cy="143.2" r="4" fill="#3465a4"><title>Wedding</title></circle></a><a href="/setts/s9/dg2dp19dg2dp46t2dp10dg3lp2r2~x2/"><circle cx="626.0" cy="152.7" r="4" fill="#3465a4"><title>Spirit of Hoxa (District)</title></circle></a><a href="/setts/s6/r12dp3r7dp52dg4dp4~x2/"><circle cx="530.4" cy="190.5" r="4" fill="#3465a4"><title>Lynch Variant</title></circle></a><a href="/setts/s6/r3db2r1db18g1db2~x4/"><circle cx="602.5" cy="205.3" r="4" fill="#3465a4"><title>Lynch</title></circle></a><a href="/setts/s6/r19db6r14db101g7db7/"><circle cx="531.3" cy="198.5" r="4" fill="#3465a4"><title>Lynch Family Tartan Tartan Number: 2163. Earliest known date: 1994 Information from Dr. Phil Smith, Narvon, USA. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/lo4w1dp48r2r3r2dp3w1lo4~x2/"><circle cx="542.4" cy="65.2" r="4" fill="#3465a4"><title>Wedding Day (Fashion)</title></circle></a><a href="/setts/s8/db122r11w4r15ly4db6ly4db30/"><circle cx="576.6" cy="138.1" r="4" fill="#3465a4"><title>Inverness, Duke of York</title></circle></a><circle cx="623.9" cy="161.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/dp13w2dp8k5lo10dp75lo3~x2/"><circle cx="618.9" cy="129.3" r="4" fill="#3465a4"><title>East Carolina University (Corp.)</title></circle></a><a href="/setts/s8/dp57m5dp2m8lb2dp3ly2dp14~x2/"><circle cx="614.9" cy="146.0" r="4" fill="#3465a4"><title>Cairngorms National Park</title></circle></a><a href="/setts/s5/r2dp30w1lo2r1~x2/"><circle cx="589.7" cy="129.4" r="4" fill="#3465a4"><title>Wedding (Fashion)</title></circle></a><a href="/setts/s5/o2dr1dp30w1o2~x2/"><circle cx="593.9" cy="142.9" r="4" fill="#3465a4"><title>Wedding</title></circle></a><a href="/setts/s9/dg2dp19dg2dp46t2dp10dg3lp2r2~x2/"><circle cx="626.0" cy="152.5" r="4" fill="#3465a4"><title>Spirit of Hoxa (District)</title></circle></a><a href="/setts/s6/r12dp3r7dp52dg4dp4~x2/"><circle cx="530.0" cy="190.3" r="4" fill="#3465a4"><title>Lynch Variant</title></circle></a><a href="/setts/s6/r3db2r1db18g1db2~x4/"><circle cx="602.2" cy="204.9" r="4" fill="#3465a4"><title>Lynch</title></circle></a><a href="/setts/s6/r19db6r14db101g7db7/"><circle cx="531.0" cy="198.2" r="4" fill="#3465a4"><title>Lynch Family Tartan Tartan Number: 2163. Earliest known date: 1994 Information from Dr. Phil Smith, Narvon, USA. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/lo4w1dp48r2r3r2dp3w1lo4~x2/"><circle cx="541.9" cy="65.0" r="4" fill="#3465a4"><title>Wedding Day (Fashion)</title></circle></a><a href="/setts/s8/db122r11w4r15ly4db6ly4db30/"><circle cx="576.2" cy="137.7" r="4" fill="#3465a4"><title>Inverness, Duke of York</title></circle></a><circle cx="623.5" cy="160.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/dg1k2dp27k2ly1~x2/

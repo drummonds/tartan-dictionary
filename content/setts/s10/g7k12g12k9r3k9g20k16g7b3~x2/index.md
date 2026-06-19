@@ -2,7 +2,7 @@
 title: "Holman (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BGKGKRKGKG](/stripes/bgkgkrkgkg/) · **Stripes:** [B G K G K R K G K G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">B G K G K R K G K G</span></span>
+**Bands:** [GKGKRKGKGB](/stripes/gkgkrkgkgb/) · **Stripes:** [G K G K R K G K G B](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="seq">G K G K R K G K G B</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
@@ -18,7 +18,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2646
 
 ## Thread count
-B/6 G14 K32 G40 K18 DR6 K18 G24 K24 G/14
+G/14 K24 G24 K18 DR6 K18 G40 K32 G14 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -39,8 +39,8 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Strath Hallidale (Sutherland)](/setts/s14/g13r2g19k15g5k15g5k15g5k15g19r2g13lb4~x2/) — ΔT 1.13
 1. [Strath Hallidale (Fashion)](/setts/s8/g5k15g5k15g19r2g13lb4~x2/) — ΔT 1.15
-1. [Holman (Personal)](/setts/s6/b3g7k16g20k9r3~x2/) — ΔT 1.27
-1. [Wilson's No.167](/setts/s10/k20t2k6g16dp4k9dp4g16k6t2~x2/) — ΔT 1.31
+1. [Holman (Personal)](/setts/s6/r3k9g20k16g7b3~x2/) — ΔT 1.27
+1. [Wilson's No.167](/setts/s10/k20t2k6g16dp4k9~x2/) — ΔT 1.31
 1. [Salvation Army Htg (Corporate)](/setts/s7/db5dg8k1ly2k1dg8db4~x4/) — ΔT 1.38
 1. [Fitzpatrick Hunting](/setts/s9/g5ly1g3ly2g8k8db1k8g1~x4/) — ΔT 1.40
 1. [Edmonstone (Clan)](/setts/s10/g7r4g14dt10g5dt10w2dt10g5dt5~x2/) — ΔT 1.40
@@ -50,8 +50,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/g13r2g19k15g5k15g5k15g5k15g19r2g13lb4~x2/"><circle cx="276.7" cy="223.9" r="4" fill="#3465a4"><title>Strath Hallidale (Sutherland)</title></circle></a><a href="/setts/s8/g5k15g5k15g19r2g13lb4~x2/"><circle cx="279.5" cy="238.3" r="4" fill="#3465a4"><title>Strath Hallidale (Fashion)</title></circle></a><a href="/setts/s6/b3g7k16g20k9r3~x2/"><circle cx="252.1" cy="263.0" r="4" fill="#3465a4"><title>Holman (Personal)</title></circle></a><a href="/setts/s10/k20t2k6g16dp4k9dp4g16k6t2~x2/"><circle cx="267.8" cy="223.5" r="4" fill="#3465a4"><title>Wilson's No.167</title></circle></a><a href="/setts/s7/db5dg8k1ly2k1dg8db4~x4/"><circle cx="295.5" cy="252.1" r="4" fill="#3465a4"><title>Salvation Army Htg (Corporate)</title></circle></a><a href="/setts/s9/g5ly1g3ly2g8k8db1k8g1~x4/"><circle cx="232.3" cy="220.9" r="4" fill="#3465a4"><title>Fitzpatrick Hunting</title></circle></a><a href="/setts/s10/g7r4g14dt10g5dt10w2dt10g5dt5~x2/"><circle cx="257.1" cy="271.5" r="4" fill="#3465a4"><title>Edmonstone (Clan)</title></circle></a><a href="/setts/s12/dp12k13g12lb2g12k13g12lb2g12k13dp12k2~x2/"><circle cx="168.5" cy="252.3" r="4" fill="#3465a4"><title>Wilson's No.064 #2</title></circle></a><a href="/setts/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="280.1" cy="221.9" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/setts/s9/g15dt8k5dt8g15ly3g15dt8k5~x2/"><circle cx="250.7" cy="284.0" r="4" fill="#3465a4"><title>Dewar, Robert Alexander (Personal)</title></circle></a><circle cx="245.5" cy="261.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/g13r2g19k15g5k15g5k15g5k15g19r2g13lb4~x2/"><circle cx="276.7" cy="223.8" r="4" fill="#3465a4"><title>Strath Hallidale (Sutherland)</title></circle></a><a href="/setts/s8/g5k15g5k15g19r2g13lb4~x2/"><circle cx="279.5" cy="238.2" r="4" fill="#3465a4"><title>Strath Hallidale (Fashion)</title></circle></a><a href="/setts/s6/r3k9g20k16g7b3~x2/"><circle cx="252.3" cy="262.9" r="4" fill="#3465a4"><title>Holman (Personal)</title></circle></a><a href="/setts/s10/k20t2k6g16dp4k9~x2/"><circle cx="267.9" cy="223.4" r="4" fill="#3465a4"><title>Wilson's No.167</title></circle></a><a href="/setts/s7/db5dg8k1ly2k1dg8db4~x4/"><circle cx="295.5" cy="252.0" r="4" fill="#3465a4"><title>Salvation Army Htg (Corporate)</title></circle></a><a href="/setts/s9/g5ly1g3ly2g8k8db1k8g1~x4/"><circle cx="232.3" cy="220.8" r="4" fill="#3465a4"><title>Fitzpatrick Hunting</title></circle></a><a href="/setts/s10/g7r4g14dt10g5dt10w2dt10g5dt5~x2/"><circle cx="257.1" cy="271.5" r="4" fill="#3465a4"><title>Edmonstone (Clan)</title></circle></a><a href="/setts/s12/dp12k13g12lb2g12k13g12lb2g12k13dp12k2~x2/"><circle cx="168.7" cy="252.4" r="4" fill="#3465a4"><title>Wilson's No.064 #2</title></circle></a><a href="/setts/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="280.1" cy="221.8" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/setts/s9/g15dt8k5dt8g15ly3g15dt8k5~x2/"><circle cx="250.8" cy="283.9" r="4" fill="#3465a4"><title>Dewar, Robert Alexander (Personal)</title></circle></a><circle cx="245.6" cy="261.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/g7k12g12k9r3k9g20k16g7b3~x2/

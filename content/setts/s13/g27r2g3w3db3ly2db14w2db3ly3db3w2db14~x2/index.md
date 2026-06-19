@@ -2,12 +2,18 @@
 title: "Holiday Inn Crown Plaza"
 date: 2023-03-18
 ---
-**Bands:** [BWBYBWBYBWGRG](/stripes/bwbybwbybwgrg/) · **Stripes:** [DB W DB LY DB W DB LY DB W G R G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB W DB LY DB W DB LY DB W G R G</span></span>
+**Bands:** [GRGWBYBWBYBWB](/stripes/grgwbybwbybwb/) · **Stripes:** [G R G W DB LY DB W DB LY DB W DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G W DB LY DB W DB LY DB W DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1749
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Holiday Inn Crown Plaza
 
 ## Attestations
 
@@ -319,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -893,7 +902,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DB/28 LN4 DB6 Y6 DB6 LN4 DB28 Y4 DB6 LN6 G6 R4 G/54
+G/54 R4 G6 LN6 DB6 Y4 DB28 LN4 DB6 Y6 DB6 LN4 DB/28
 ![Sett](sett.png)
 
 ## Palette
@@ -913,19 +922,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Scottish Rugby Union Corporate Tartan Tartan Number: 2101. Earliest known date: 1990 S.R.U. requested that the Navy of their jersey should be prominent, including the green and lilac of the thistle, and the white of the shorts. This version is approved by the Scottish Rugby Union. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/dt3k2dt22k9g2lp2g2lp2g8k2w3~x2/) — ΔT 0.91
 1. [Rankin](/setts/s16/db36g10r2g10w2g10r2g10k14r2db12r3db2r2db4w2~x2/) — ΔT 0.91
-1. [MacDowall](/setts/s12/ly3w12k3w3k3w3k7n48k7n3g14w3~x2/) — ΔT 0.98
+1. [MacDowall](/setts/s12/w3g14n3k7n48k7w3k3w3k3w12ly3~x2/) — ΔT 0.98
 1. [Glenorchy #2](/setts/s15/g3r2lb1b18r2g8r4lb1b8r2g18r2lb1b3lb1~x2/) — ΔT 1.04
 1. [Cypress Presbyterian Church](/setts/s14/g6r4g4r3g4ly2b14k4g4k28g18k2g3k2~x2/) — ΔT 1.05
 1. [Todd Family Tartan Tartan Number: 5107. Earliest known date: 2000 Variation of Tweedside Green Hunting with the black pivot changed to red. Produced for Gregory V Todd and registered with TECA 10th August 1996. Anyone of the name can wear io. D C Dalgliesh was the weaver. Todd is Border dialect for fox - hence the red. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/db28g3dp3g8w3g3w3g3r3~x2/) — ΔT 1.11
 1. [Kingsbarns Golf Links (Corporate)](/setts/s10/k2r1lt1g1lt12k12g1k1ly1lt2~x4/) — ΔT 1.11
-1. [MacAuliffe Name Tartan Tartan Number: 2839. Earliest known date: 2005 The MacAuliffes are Irish in origin, being a branch of the powerful MacCarthys. The MacAuliffe's are descended from Auliffe Alainn (Humphrey the Dandy) MacCarthy, the son of Donough MacCarthy, the son of Murcharch MacCarthy, the son of Teige MacCarthy, who was King of Desmond (south Munster) from 1118 to 1124. The tartan is available from House of Tartan, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/g37w2g6db23ly6db2ly3db2ly3db2ly6db23g6w2~x2/) — ΔT 1.12
+1. [MacAuliffe Name Tartan Tartan Number: 2839. Earliest known date: 2005 The MacAuliffes are Irish in origin, being a branch of the powerful MacCarthys. The MacAuliffe's are descended from Auliffe Alainn (Humphrey the Dandy) MacCarthy, the son of Donough MacCarthy, the son of Murcharch MacCarthy, the son of Teige MacCarthy, who was King of Desmond (south Munster) from 1118 to 1124. The tartan is available from House of Tartan, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/g37w2g6db23ly6db2ly3db2~x2/) — ΔT 1.12
 1. [MacOrrell](/setts/s16/db36ly4db10ly4db36g28w3g3w3g8ly6g8w3g3w3g28/) — ΔT 1.12
 1. [Princess Beatrice Hunting (MacKinlay strip)](/setts/s14/db6r3g3r3g36db6g6db40g3k3g3k3g8ly6~x2/) — ΔT 1.13
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dt3k2dt22k9g2lp2g2lp2g8k2w3~x2/"><circle cx="192.6" cy="144.2" r="4" fill="#3465a4"><title>Scottish Rugby Union Corporate Tartan Tartan Number: 2101. Earliest known date: 1990 S.R.U. requested that the Navy of their jersey should be prominent, including the green and lilac of the thistle, and the white of the shorts. This version is approved by the Scottish Rugby Union. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/db36g10r2g10w2g10r2g10k14r2db12r3db2r2db4w2~x2/"><circle cx="214.8" cy="112.9" r="4" fill="#3465a4"><title>Rankin</title></circle></a><a href="/setts/s12/ly3w12k3w3k3w3k7n48k7n3g14w3~x2/"><circle cx="225.3" cy="103.9" r="4" fill="#3465a4"><title>MacDowall</title></circle></a><a href="/setts/s15/g3r2lb1b18r2g8r4lb1b8r2g18r2lb1b3lb1~x2/"><circle cx="212.4" cy="110.5" r="4" fill="#3465a4"><title>Glenorchy #2</title></circle></a><a href="/setts/s14/g6r4g4r3g4ly2b14k4g4k28g18k2g3k2~x2/"><circle cx="184.9" cy="128.2" r="4" fill="#3465a4"><title>Cypress Presbyterian Church</title></circle></a><a href="/setts/s9/db28g3dp3g8w3g3w3g3r3~x2/"><circle cx="228.7" cy="144.2" r="4" fill="#3465a4"><title>Todd Family Tartan Tartan Number: 5107. Earliest known date: 2000 Variation of Tweedside Green Hunting with the black pivot changed to red. Produced for Gregory V Todd and registered with TECA 10th August 1996. Anyone of the name can wear io. D C Dalgliesh was the weaver. Todd is Border dialect for fox - hence the red. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/k2r1lt1g1lt12k12g1k1ly1lt2~x4/"><circle cx="222.3" cy="125.2" r="4" fill="#3465a4"><title>Kingsbarns Golf Links (Corporate)</title></circle></a><a href="/setts/s14/g37w2g6db23ly6db2ly3db2ly3db2ly6db23g6w2~x2/"><circle cx="246.7" cy="127.0" r="4" fill="#3465a4"><title>MacAuliffe Name Tartan Tartan Number: 2839. Earliest known date: 2005 The MacAuliffes are Irish in origin, being a branch of the powerful MacCarthys. The MacAuliffe's are descended from Auliffe Alainn (Humphrey the Dandy) MacCarthy, the son of Donough MacCarthy, the son of Murcharch MacCarthy, the son of Teige MacCarthy, who was King of Desmond (south Munster) from 1118 to 1124. The tartan is available from House of Tartan, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/db36ly4db10ly4db36g28w3g3w3g8ly6g8w3g3w3g28/"><circle cx="234.0" cy="147.9" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><a href="/setts/s14/db6r3g3r3g36db6g6db40g3k3g3k3g8ly6~x2/"><circle cx="227.4" cy="112.2" r="4" fill="#3465a4"><title>Princess Beatrice Hunting (MacKinlay strip)</title></circle></a><circle cx="231.1" cy="127.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dt3k2dt22k9g2lp2g2lp2g8k2w3~x2/"><circle cx="192.6" cy="144.2" r="4" fill="#3465a4"><title>Scottish Rugby Union Corporate Tartan Tartan Number: 2101. Earliest known date: 1990 S.R.U. requested that the Navy of their jersey should be prominent, including the green and lilac of the thistle, and the white of the shorts. This version is approved by the Scottish Rugby Union. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/db36g10r2g10w2g10r2g10k14r2db12r3db2r2db4w2~x2/"><circle cx="214.7" cy="112.9" r="4" fill="#3465a4"><title>Rankin</title></circle></a><a href="/setts/s12/w3g14n3k7n48k7w3k3w3k3w12ly3~x2/"><circle cx="225.1" cy="103.8" r="4" fill="#3465a4"><title>MacDowall</title></circle></a><a href="/setts/s15/g3r2lb1b18r2g8r4lb1b8r2g18r2lb1b3lb1~x2/"><circle cx="212.2" cy="110.5" r="4" fill="#3465a4"><title>Glenorchy #2</title></circle></a><a href="/setts/s14/g6r4g4r3g4ly2b14k4g4k28g18k2g3k2~x2/"><circle cx="184.9" cy="128.2" r="4" fill="#3465a4"><title>Cypress Presbyterian Church</title></circle></a><a href="/setts/s9/db28g3dp3g8w3g3w3g3r3~x2/"><circle cx="228.6" cy="144.1" r="4" fill="#3465a4"><title>Todd Family Tartan Tartan Number: 5107. Earliest known date: 2000 Variation of Tweedside Green Hunting with the black pivot changed to red. Produced for Gregory V Todd and registered with TECA 10th August 1996. Anyone of the name can wear io. D C Dalgliesh was the weaver. Todd is Border dialect for fox - hence the red. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/k2r1lt1g1lt12k12g1k1ly1lt2~x4/"><circle cx="222.2" cy="125.1" r="4" fill="#3465a4"><title>Kingsbarns Golf Links (Corporate)</title></circle></a><a href="/setts/s14/g37w2g6db23ly6db2ly3db2~x2/"><circle cx="246.5" cy="126.9" r="4" fill="#3465a4"><title>MacAuliffe Name Tartan Tartan Number: 2839. Earliest known date: 2005 The MacAuliffes are Irish in origin, being a branch of the powerful MacCarthys. The MacAuliffe's are descended from Auliffe Alainn (Humphrey the Dandy) MacCarthy, the son of Donough MacCarthy, the son of Murcharch MacCarthy, the son of Teige MacCarthy, who was King of Desmond (south Munster) from 1118 to 1124. The tartan is available from House of Tartan, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/db36ly4db10ly4db36g28w3g3w3g8ly6g8w3g3w3g28/"><circle cx="233.9" cy="147.8" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><a href="/setts/s14/db6r3g3r3g36db6g6db40g3k3g3k3g8ly6~x2/"><circle cx="227.4" cy="112.3" r="4" fill="#3465a4"><title>Princess Beatrice Hunting (MacKinlay strip)</title></circle></a><circle cx="231.0" cy="127.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/g27r2g3w3db3ly2db14w2db3ly3db3w2db14~x2/

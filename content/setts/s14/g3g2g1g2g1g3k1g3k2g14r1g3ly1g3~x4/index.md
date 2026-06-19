@@ -2,7 +2,7 @@
 title: "New South Wales"
 date: 2023-03-18
 ---
-**Bands:** [GGGGGGKGKGRGYG](/stripes/ggggggkgkgrgyg/) · **Stripes:** [G G G G G G K G K G R G LY G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G G G G G G K G K G R G LY G</span></span>
+**Bands:** [GYGRGKGKGGGGGG](/stripes/gygrgkgkgggggg/) · **Stripes:** [G LY G R G K G K G G G G G G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G LY G R G K G K G G G G G G</span></span>
 
 
 This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/g2g4g2g1g1g1g3k2g2k2g12r1g2r1~x2/"><circle cx="359.1" cy="167.0" r="4" fill="#3465a4"><title>Ross, hunting</title></circle></a><a href="/setts/s17/g12k3g12k3g12r2g3k1db3w1db3k1g3r2g12k3g12~x2/"><circle cx="376.8" cy="155.7" r="4" fill="#3465a4"><title>MacRae</title></circle></a><a href="/setts/s14/o9g4w5g30r2g4r2g4r2g30w5g4o9g5~x2/"><circle cx="420.9" cy="160.9" r="4" fill="#3465a4"><title>Welsh Assembly</title></circle></a><a href="/setts/s12/g6g3g3g4g4k5g3k5g28r2g4r2~x2/"><circle cx="436.2" cy="180.0" r="4" fill="#3465a4"><title>Ross Hunting Clan Tartan Tartan Number: 756. Earliest known date: 1850 The threadcount is based on a sample from the MacGregor-Hastie collection of the Scottish Tartans Society. This version originally showed the light green overcheck having six stripes. BU noted irregularities in the threadcount, and suggests that 4 light green stripes would produce a more plausible kilting fabric. BU created the original transcription. Earliest historical reference. Other sources give Smith Museum, Stirling as the source. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/g14w1db2r1g1r1db2w1g4ly1~x4/"><circle cx="384.6" cy="139.0" r="4" fill="#3465a4"><title>Seattle</title></circle></a><a href="/setts/s17/g20lb2g2lb2g2lb8g2lb2g2lb2g20ly4g8r2g4do1dp2~x2/"><circle cx="386.4" cy="102.6" r="4" fill="#3465a4"><title>Bryant</title></circle></a><a href="/setts/s12/lo5k1lo6g20w1g3w1g3w1g30k1lo2~x2/"><circle cx="515.1" cy="131.9" r="4" fill="#3465a4"><title>Delta Lambda Phi (Corporate)</title></circle></a><a href="/setts/s13/k3g3ly2g4k2g3k2g24db10ly2db10g30r3~x2/"><circle cx="347.0" cy="136.3" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/setts/s8/g5y9g4w5g30r2g4r2~x2/"><circle cx="442.5" cy="187.0" r="4" fill="#3465a4"><title>Welsh Assembly</title></circle></a><a href="/setts/s14/g5g7g4g2g2g3g4k6g3k6g34r2g4r2~x2/"><circle cx="426.4" cy="158.9" r="4" fill="#3465a4"><title>Ross Hunting #3</title></circle></a><circle cx="428.4" cy="153.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/g2g4g2g1g1g1g3k2g2k2g12r1g2r1~x2/"><circle cx="358.9" cy="166.8" r="4" fill="#3465a4"><title>Ross, hunting</title></circle></a><a href="/setts/s17/g12k3g12k3g12r2g3k1db3w1db3k1g3r2g12k3g12~x2/"><circle cx="376.5" cy="155.5" r="4" fill="#3465a4"><title>MacRae</title></circle></a><a href="/setts/s14/o9g4w5g30r2g4r2g4r2g30w5g4o9g5~x2/"><circle cx="420.6" cy="160.7" r="4" fill="#3465a4"><title>Welsh Assembly</title></circle></a><a href="/setts/s12/g6g3g3g4g4k5g3k5g28r2g4r2~x2/"><circle cx="435.9" cy="179.8" r="4" fill="#3465a4"><title>Ross Hunting Clan Tartan Tartan Number: 756. Earliest known date: 1850 The threadcount is based on a sample from the MacGregor-Hastie collection of the Scottish Tartans Society. This version originally showed the light green overcheck having six stripes. BU noted irregularities in the threadcount, and suggests that 4 light green stripes would produce a more plausible kilting fabric. BU created the original transcription. Earliest historical reference. Other sources give Smith Museum, Stirling as the source. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/g14w1db2r1g1r1db2w1g4ly1~x4/"><circle cx="384.2" cy="138.8" r="4" fill="#3465a4"><title>Seattle</title></circle></a><a href="/setts/s17/g20lb2g2lb2g2lb8g2lb2g2lb2g20ly4g8r2g4do1dp2~x2/"><circle cx="386.1" cy="102.4" r="4" fill="#3465a4"><title>Bryant</title></circle></a><a href="/setts/s12/lo5k1lo6g20w1g3w1g3w1g30k1lo2~x2/"><circle cx="514.6" cy="131.6" r="4" fill="#3465a4"><title>Delta Lambda Phi (Corporate)</title></circle></a><a href="/setts/s13/k3g3ly2g4k2g3k2g24db10ly2db10g30r3~x2/"><circle cx="346.8" cy="136.1" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/setts/s8/g5y9g4w5g30r2g4r2~x2/"><circle cx="442.1" cy="186.8" r="4" fill="#3465a4"><title>Welsh Assembly</title></circle></a><a href="/setts/s14/g5g7g4g2g2g3g4k6g3k6g34r2g4r2~x2/"><circle cx="426.1" cy="158.8" r="4" fill="#3465a4"><title>Ross Hunting #3</title></circle></a><circle cx="428.0" cy="153.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/g3g2g1g2g1g3k1g3k2g14r1g3ly1g3~x4/

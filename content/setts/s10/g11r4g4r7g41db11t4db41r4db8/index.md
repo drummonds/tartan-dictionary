@@ -2,12 +2,18 @@
 title: "Stewart of Appin 2"
 date: 2023-03-18
 ---
-**Bands:** [BRBBBGRGRG](/stripes/brbbbgrgrg/) · **Stripes:** [DB R DB T DB G R G R G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB R DB T DB G R G R G</span></span>
+**Bands:** [GRGRGBBBRB](/stripes/grgrgbbbrb/) · **Stripes:** [G R G R G DB T DB R DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G R G DB T DB R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Stuart/Stewart of Appin #2
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/8 R4 B41 Ba4 B11 G41 R7 G4 R4 G/11
+G/11 R4 G4 R7 G41 B11 Ba4 B41 R4 B/8
 ![Sett](sett.png)
 
 ## Palette
@@ -913,17 +922,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Tennessee State (US State)](/setts/s10/r2db12w1db1g1r1g7db1g12w1~x4/) — ΔT 0.92
 1. [Marie Curie Fields Of Hope](/setts/s9/b12lo1b2lo1b3k5g10lo1g2~x4/) — ΔT 0.94
 1. [Ayrton 1979 No. 2 (Personal)](/setts/s8/b5k1g3k1b3k1g10r3~x2/) — ΔT 0.98
-1. [Shaw](/setts/s10/g24k2db3k2db8r2db8k2db3k2~x2/) — ΔT 1.01
+1. [Shaw](/setts/s10/g24k2db3k2db8r2~x2/) — ΔT 1.01
 1. [Cape Breton University Chemistry Society](/setts/s10/db4o17db4y4db2y4db4y27db4ly4~x2/) — ΔT 1.02
 1. [Dunedin Chapter (Corporate)](/setts/s10/t39g3t3g20k3g20k3g3k20r3~x2/) — ΔT 1.02
 1. [Durie (Clan)](/setts/s9/db12r1db1r1db1r4g12ly1g2~x4/) — ΔT 1.04
-1. [Marthas Vineyard (District)](/setts/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/) — ΔT 1.05
+1. [Marthas Vineyard (District)](/setts/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/) — ΔT 1.06
 1. [Antrim, County](/setts/s10/y5dt2y18lo2dt5lo2o5dt17y2lo4~x2/) — ΔT 1.07
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g8r3g3r5g26db7t3db28r3db6~x2/"><circle cx="271.5" cy="198.5" r="4" fill="#3465a4"><title>Stewart of Appin Htg (error)</title></circle></a><a href="/setts/s10/r2db12w1db1g1r1g7db1g12w1~x4/"><circle cx="301.4" cy="172.9" r="4" fill="#3465a4"><title>Tennessee State (US State)</title></circle></a><a href="/setts/s9/b12lo1b2lo1b3k5g10lo1g2~x4/"><circle cx="254.4" cy="192.8" r="4" fill="#3465a4"><title>Marie Curie Fields Of Hope</title></circle></a><a href="/setts/s8/b5k1g3k1b3k1g10r3~x2/"><circle cx="258.7" cy="215.0" r="4" fill="#3465a4"><title>Ayrton 1979 No. 2 (Personal)</title></circle></a><a href="/setts/s10/g24k2db3k2db8r2db8k2db3k2~x2/"><circle cx="284.8" cy="184.7" r="4" fill="#3465a4"><title>Shaw</title></circle></a><a href="/setts/s10/db4o17db4y4db2y4db4y27db4ly4~x2/"><circle cx="281.0" cy="175.4" r="4" fill="#3465a4"><title>Cape Breton University Chemistry Society</title></circle></a><a href="/setts/s10/t39g3t3g20k3g20k3g3k20r3~x2/"><circle cx="231.6" cy="176.8" r="4" fill="#3465a4"><title>Dunedin Chapter (Corporate)</title></circle></a><a href="/setts/s9/db12r1db1r1db1r4g12ly1g2~x4/"><circle cx="267.4" cy="182.6" r="4" fill="#3465a4"><title>Durie (Clan)</title></circle></a><a href="/setts/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/"><circle cx="271.2" cy="185.8" r="4" fill="#3465a4"><title>Marthas Vineyard (District)</title></circle></a><a href="/setts/s10/y5dt2y18lo2dt5lo2o5dt17y2lo4~x2/"><circle cx="249.3" cy="206.1" r="4" fill="#3465a4"><title>Antrim, County</title></circle></a><circle cx="278.2" cy="191.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g8r3g3r5g26db7t3db28r3db6~x2/"><circle cx="271.5" cy="198.4" r="4" fill="#3465a4"><title>Stewart of Appin Htg (error)</title></circle></a><a href="/setts/s10/r2db12w1db1g1r1g7db1g12w1~x4/"><circle cx="301.2" cy="172.8" r="4" fill="#3465a4"><title>Tennessee State (US State)</title></circle></a><a href="/setts/s9/b12lo1b2lo1b3k5g10lo1g2~x4/"><circle cx="254.3" cy="192.8" r="4" fill="#3465a4"><title>Marie Curie Fields Of Hope</title></circle></a><a href="/setts/s8/b5k1g3k1b3k1g10r3~x2/"><circle cx="258.6" cy="214.9" r="4" fill="#3465a4"><title>Ayrton 1979 No. 2 (Personal)</title></circle></a><a href="/setts/s10/g24k2db3k2db8r2~x2/"><circle cx="284.8" cy="184.8" r="4" fill="#3465a4"><title>Shaw</title></circle></a><a href="/setts/s10/db4o17db4y4db2y4db4y27db4ly4~x2/"><circle cx="280.9" cy="175.4" r="4" fill="#3465a4"><title>Cape Breton University Chemistry Society</title></circle></a><a href="/setts/s10/t39g3t3g20k3g20k3g3k20r3~x2/"><circle cx="231.5" cy="176.8" r="4" fill="#3465a4"><title>Dunedin Chapter (Corporate)</title></circle></a><a href="/setts/s9/db12r1db1r1db1r4g12ly1g2~x4/"><circle cx="267.4" cy="182.6" r="4" fill="#3465a4"><title>Durie (Clan)</title></circle></a><a href="/setts/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/"><circle cx="271.2" cy="185.8" r="4" fill="#3465a4"><title>Marthas Vineyard (District)</title></circle></a><a href="/setts/s10/y5dt2y18lo2dt5lo2o5dt17y2lo4~x2/"><circle cx="249.3" cy="206.2" r="4" fill="#3465a4"><title>Antrim, County</title></circle></a><circle cx="278.1" cy="191.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/g11r4g4r7g41db11t4db41r4db8/

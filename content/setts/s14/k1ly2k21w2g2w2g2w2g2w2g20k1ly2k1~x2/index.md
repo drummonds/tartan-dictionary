@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/2 Y4 K2 G40 LN4 G4 LN4 G4 LN4 G4 LN4 K42 Y4 K/2
+K/2 Y4 K42 LN4 G4 LN4 G4 LN4 G4 LN4 G40 K2 Y4 K/2
 ![Sett](sett.png)
 
 ## Palette
@@ -902,7 +905,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Hammarby Football Club](/setts/s14/k1lo2k18lb2g2lb2g2lb2g2lb2g22k1lo2k1~x2/) — ΔT 1.08
+1. [Hammarby Football Club](/setts/s14/k1lo2k18lb2g2lb2g2lb2g2lb2g22k1lo2k1~x2/) — ΔT 1.07
 1. [Murray-Hetherington (Personal) Name Tartan Tartan Number: 10700. Earliest known date: 18 September 2012 After years of wearing the Murray of Atholl tartan, the registrant has chosen to register a tartan in his own name. He belongs to a family that has intermarried with the Murrays for many years and bears the additional surname of Murray. The underlying design of this personal tartan is based on details derived from the Blair Atholl tartan with due and proper differences to distinguish it. The colours used were specifically chosen to represent the colours found in the Murray of Atholl sett. The addition of three white stripes alludes to the three silver stars of the Murrays. The black and white also reflect the principal heraldic colours in the registrant's coat of arms granted to him by Garter King of Arms (England) and Norroy and Ulster King of Arms. The tartan, for the registrant, his immediate family, and their descendants to wear, maintains the strong link with the Murray Clan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/g1k1g14k2r3db3k6w1k1w1k1w1~x4/) — ΔT 1.47
 1. [MacDonald Hunting](/setts/s13/g24w1g2w2do2w1do12w1do2w2do2w1dg12~x2/) — ΔT 1.54
 1. [Urquhart, White Line](/setts/s12/db4w2db24k3db3k3db8k24g48k3g3r2/) — ΔT 1.58
@@ -915,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k1lo2k18lb2g2lb2g2lb2g2lb2g22k1lo2k1~x2/"><circle cx="275.6" cy="106.8" r="4" fill="#3465a4"><title>Hammarby Football Club</title></circle></a><a href="/setts/s12/g1k1g14k2r3db3k6w1k1w1k1w1~x4/"><circle cx="188.7" cy="112.4" r="4" fill="#3465a4"><title>Murray-Hetherington (Personal) Name Tartan Tartan Number: 10700. Earliest known date: 18 September 2012 After years of wearing the Murray of Atholl tartan, the registrant has chosen to register a tartan in his own name. He belongs to a family that has intermarried with the Murrays for many years and bears the additional surname of Murray. The underlying design of this personal tartan is based on details derived from the Blair Atholl tartan with due and proper differences to distinguish it. The colours used were specifically chosen to represent the colours found in the Murray of Atholl sett. The addition of three white stripes alludes to the three silver stars of the Murrays. The black and white also reflect the principal heraldic colours in the registrant's coat of arms granted to him by Garter King of Arms (England) and Norroy and Ulster King of Arms. The tartan, for the registrant, his immediate family, and their descendants to wear, maintains the strong link with the Murray Clan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/g24w1g2w2do2w1do12w1do2w2do2w1dg12~x2/"><circle cx="233.0" cy="107.7" r="4" fill="#3465a4"><title>MacDonald Hunting</title></circle></a><a href="/setts/s12/db4w2db24k3db3k3db8k24g48k3g3r2/"><circle cx="220.8" cy="104.9" r="4" fill="#3465a4"><title>Urquhart, White Line</title></circle></a><a href="/setts/s19/o2dg1o2dg1w1dg1w8k40o5dg40w10dg1w5k15dg1w7dg1w1dg1~x2/"><circle cx="237.5" cy="54.0" r="4" fill="#3465a4"><title>Shepherd, Derek (Modern)</title></circle></a><a href="/setts/s10/g1k1g14k2r3db3k6w1k1w1~x4/"><circle cx="204.9" cy="126.9" r="4" fill="#3465a4"><title>Murray-Hetherington (Personal)</title></circle></a><a href="/setts/s17/k20r3db10g3db5g25k1g1w3g1k1g25db5g3db10r1db2~x2/"><circle cx="243.4" cy="96.5" r="4" fill="#3465a4"><title>Blairlogie, or Blair Athol</title></circle></a><a href="/setts/s11/g17t2g2t2k21t2k3g30k2t2k4~x2/"><circle cx="288.3" cy="147.5" r="4" fill="#3465a4"><title>Fort William</title></circle></a><a href="/setts/s17/db28k1db1k1db3k12g24ly1g1ly2g1ly1g24k12db18k1db4~x2/"><circle cx="239.4" cy="107.8" r="4" fill="#3465a4"><title>Gordon, Ancient</title></circle></a><a href="/setts/s14/g10g5g5g5g60g13g10db67g5k5g5k5g13ly10/"><circle cx="206.9" cy="121.0" r="4" fill="#3465a4"><title>Beatrice, Princess.. (hunting)</title></circle></a><circle cx="232.5" cy="96.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k1lo2k18lb2g2lb2g2lb2g2lb2g22k1lo2k1~x2/"><circle cx="275.4" cy="106.7" r="4" fill="#3465a4"><title>Hammarby Football Club</title></circle></a><a href="/setts/s12/g1k1g14k2r3db3k6w1k1w1k1w1~x4/"><circle cx="188.6" cy="112.3" r="4" fill="#3465a4"><title>Murray-Hetherington (Personal) Name Tartan Tartan Number: 10700. Earliest known date: 18 September 2012 After years of wearing the Murray of Atholl tartan, the registrant has chosen to register a tartan in his own name. He belongs to a family that has intermarried with the Murrays for many years and bears the additional surname of Murray. The underlying design of this personal tartan is based on details derived from the Blair Atholl tartan with due and proper differences to distinguish it. The colours used were specifically chosen to represent the colours found in the Murray of Atholl sett. The addition of three white stripes alludes to the three silver stars of the Murrays. The black and white also reflect the principal heraldic colours in the registrant's coat of arms granted to him by Garter King of Arms (England) and Norroy and Ulster King of Arms. The tartan, for the registrant, his immediate family, and their descendants to wear, maintains the strong link with the Murray Clan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/g24w1g2w2do2w1do12w1do2w2do2w1dg12~x2/"><circle cx="232.8" cy="107.6" r="4" fill="#3465a4"><title>MacDonald Hunting</title></circle></a><a href="/setts/s12/db4w2db24k3db3k3db8k24g48k3g3r2/"><circle cx="220.8" cy="104.9" r="4" fill="#3465a4"><title>Urquhart, White Line</title></circle></a><a href="/setts/s19/o2dg1o2dg1w1dg1w8k40o5dg40w10dg1w5k15dg1w7dg1w1dg1~x2/"><circle cx="237.3" cy="53.9" r="4" fill="#3465a4"><title>Shepherd, Derek (Modern)</title></circle></a><a href="/setts/s10/g1k1g14k2r3db3k6w1k1w1~x4/"><circle cx="204.8" cy="126.9" r="4" fill="#3465a4"><title>Murray-Hetherington (Personal)</title></circle></a><a href="/setts/s17/k20r3db10g3db5g25k1g1w3g1k1g25db5g3db10r1db2~x2/"><circle cx="243.3" cy="96.4" r="4" fill="#3465a4"><title>Blairlogie, or Blair Athol</title></circle></a><a href="/setts/s11/g17t2g2t2k21t2k3g30k2t2k4~x2/"><circle cx="288.2" cy="147.3" r="4" fill="#3465a4"><title>Fort William</title></circle></a><a href="/setts/s17/db28k1db1k1db3k12g24ly1g1ly2g1ly1g24k12db18k1db4~x2/"><circle cx="239.3" cy="107.7" r="4" fill="#3465a4"><title>Gordon, Ancient</title></circle></a><a href="/setts/s14/g10g5g5g5g60g13g10db67g5k5g5k5g13ly10/"><circle cx="206.9" cy="121.0" r="4" fill="#3465a4"><title>Beatrice, Princess.. (hunting)</title></circle></a><circle cx="232.4" cy="96.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/k1ly2k21w2g2w2g2w2g2w2g20k1ly2k1~x2/

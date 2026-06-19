@@ -2,7 +2,7 @@
 title: "Blais"
 date: 2023-03-18
 ---
-**Bands:** [BYRBKGKRKGR](/stripes/byrbkgkrkgr/) · **Stripes:** [DB LY O DB K Y K R K Y R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB LY O DB K Y K R K Y R</span></span>
+**Bands:** [RGKRKGKBRYB](/stripes/rgkrkgkbryb/) · **Stripes:** [R Y K R K Y K DB O LY DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">R Y K R K Y K DB O LY DB</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -908,7 +911,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Blais (Personal)](/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x2/) — ΔT 0.79
 1. [MacNiven](/setts/s9/g18g2db5r45lb3db18lb3r8lb2~x2/) — ΔT 0.99
 1. [Heirloom Red Alba (Fashion)](/setts/s9/r4ly2r34db10y4db4t4db23w3~x2/) — ΔT 1.05
-1. [Sidey Dress Tartan (Name)](/setts/s10/db4w1k2db25k12b1k2r16k2lo1~x2/) — ΔT 1.13
+1. [Sidey Dress Tartan (Name)](/setts/s10/db4w1k2db25k12b1k2r16k2lo1~x2/) — ΔT 1.14
 1. [Selkirk High (Corporate)](/setts/s10/w3m18k18ly1r2b2r2ly1m18b2~x2/) — ΔT 1.18
 1. [Solway Spirit (District)](/setts/s11/w4dp40g2dp2g2dp2g2dp3g16db15m3~x2/) — ΔT 1.18
 1. [McCartney (Day)](/setts/s11/dp4dg2dp24dg8dt2r2dt2ly2dt10dp2w3~x2/) — ΔT 1.22
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x4/"><circle cx="285.7" cy="95.1" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x2/"><circle cx="267.9" cy="82.1" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/setts/s9/g18g2db5r45lb3db18lb3r8lb2~x2/"><circle cx="281.2" cy="109.8" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><a href="/setts/s9/r4ly2r34db10y4db4t4db23w3~x2/"><circle cx="252.9" cy="123.6" r="4" fill="#3465a4"><title>Heirloom Red Alba (Fashion)</title></circle></a><a href="/setts/s10/db4w1k2db25k12b1k2r16k2lo1~x2/"><circle cx="259.4" cy="106.0" r="4" fill="#3465a4"><title>Sidey Dress Tartan (Name)</title></circle></a><a href="/setts/s10/w3m18k18ly1r2b2r2ly1m18b2~x2/"><circle cx="261.4" cy="102.3" r="4" fill="#3465a4"><title>Selkirk High (Corporate)</title></circle></a><a href="/setts/s11/w4dp40g2dp2g2dp2g2dp3g16db15m3~x2/"><circle cx="309.2" cy="117.1" r="4" fill="#3465a4"><title>Solway Spirit (District)</title></circle></a><a href="/setts/s11/dp4dg2dp24dg8dt2r2dt2ly2dt10dp2w3~x2/"><circle cx="246.9" cy="127.1" r="4" fill="#3465a4"><title>McCartney (Day)</title></circle></a><a href="/setts/s10/g5dt2k2dt29r2dt2r15ly2dt4w2~x2/"><circle cx="319.4" cy="120.6" r="4" fill="#3465a4"><title>Bro-Naoned</title></circle></a><a href="/setts/s15/r2dg4k2dp25dg4dp4lo2dp2w2dp5dg3r7k2r3w2~x2/"><circle cx="262.0" cy="112.3" r="4" fill="#3465a4"><title>Hueg (Bavaria) Scottish Blue Thistle (Personal)</title></circle></a><circle cx="283.6" cy="95.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x4/"><circle cx="285.5" cy="95.2" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x2/"><circle cx="267.7" cy="82.1" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/setts/s9/g18g2db5r45lb3db18lb3r8lb2~x2/"><circle cx="281.0" cy="109.9" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><a href="/setts/s9/r4ly2r34db10y4db4t4db23w3~x2/"><circle cx="252.8" cy="123.7" r="4" fill="#3465a4"><title>Heirloom Red Alba (Fashion)</title></circle></a><a href="/setts/s10/db4w1k2db25k12b1k2r16k2lo1~x2/"><circle cx="259.4" cy="106.1" r="4" fill="#3465a4"><title>Sidey Dress Tartan (Name)</title></circle></a><a href="/setts/s10/w3m18k18ly1r2b2r2ly1m18b2~x2/"><circle cx="261.2" cy="102.3" r="4" fill="#3465a4"><title>Selkirk High (Corporate)</title></circle></a><a href="/setts/s11/w4dp40g2dp2g2dp2g2dp3g16db15m3~x2/"><circle cx="309.0" cy="117.1" r="4" fill="#3465a4"><title>Solway Spirit (District)</title></circle></a><a href="/setts/s11/dp4dg2dp24dg8dt2r2dt2ly2dt10dp2w3~x2/"><circle cx="246.8" cy="127.2" r="4" fill="#3465a4"><title>McCartney (Day)</title></circle></a><a href="/setts/s10/g5dt2k2dt29r2dt2r15ly2dt4w2~x2/"><circle cx="319.1" cy="120.6" r="4" fill="#3465a4"><title>Bro-Naoned</title></circle></a><a href="/setts/s15/r2dg4k2dp25dg4dp4lo2dp2w2dp5dg3r7k2r3w2~x2/"><circle cx="261.8" cy="112.4" r="4" fill="#3465a4"><title>Hueg (Bavaria) Scottish Blue Thistle (Personal)</title></circle></a><circle cx="283.4" cy="95.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db20ly1o1db3k1y2k1r10k1y2r4~x2/

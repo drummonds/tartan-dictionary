@@ -20,7 +20,7 @@ BRRWYBR
 
 
 
-### P M R LB LR DB R <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">P M R LB LR DB R</span></span>
+### R DB LR LB R M P <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">R DB LR LB R M P</span></span>
 
 | Tartans |
 |---------------|

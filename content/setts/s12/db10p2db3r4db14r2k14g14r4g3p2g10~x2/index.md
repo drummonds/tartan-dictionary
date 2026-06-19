@@ -2,7 +2,7 @@
 title: "Denovan, The Lairdship of.."
 date: 2023-03-18
 ---
-**Bands:** [BBBRBRKGRGBG](/stripes/bbbrbrkgrgbg/) · **Stripes:** [DB P DB R DB R K G R G P G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB P DB R DB R K G R G P G</span></span>
+**Bands:** [GBGRGKRBRBBB](/stripes/gbgrgkrbrbbb/) · **Stripes:** [G P G R G K R DB R DB P DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="seq">G P G R G K R DB R DB P DB</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/20 P4 B6 R8 B28 R4 K28 G28 R8 G6 P4 G/20
+G/20 P4 G6 R8 G28 K28 R4 B28 R8 B6 P4 B/20
 ![Sett](sett.png)
 
 ## Palette
@@ -904,7 +907,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Kinloch Anderson, hunting](/setts/s12/m4g14o2g4o2k6g3k6db14m2db4m4~x2/) — ΔT 0.27
-1. [Clare](/setts/s11/ly3db2g14db2m14db2m14db2g14db14m3~x2/) — ΔT 0.60
+1. [Clare](/setts/s11/m3db14g14db2m14db2m14db2g14db2ly3~x2/) — ΔT 0.60
 1. [Biskup](/setts/s10/db12r4db18r2k19g18r4g3ly2g8~x2/) — ΔT 0.69
 1. [Carnegie](/setts/s13/db3r1db1r2db6r1k6g6r2g1r1g2ly1~x2/) — ΔT 0.70
 1. [MacSporran](/setts/s13/db17r3db4r5db20r3k20g20r5g4r3k3ly11~x2/) — ΔT 0.74
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/m4g14o2g4o2k6g3k6db14m2db4m4~x2/"><circle cx="92.3" cy="180.1" r="4" fill="#3465a4"><title>Kinloch Anderson, hunting</title></circle></a><a href="/setts/s11/ly3db2g14db2m14db2m14db2g14db14m3~x2/"><circle cx="122.1" cy="181.3" r="4" fill="#3465a4"><title>Clare</title></circle></a><a href="/setts/s10/db12r4db18r2k19g18r4g3ly2g8~x2/"><circle cx="116.5" cy="176.9" r="4" fill="#3465a4"><title>Biskup</title></circle></a><a href="/setts/s13/db3r1db1r2db6r1k6g6r2g1r1g2ly1~x2/"><circle cx="79.7" cy="173.2" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/setts/s13/db17r3db4r5db20r3k20g20r5g4r3k3ly11~x2/"><circle cx="87.2" cy="165.7" r="4" fill="#3465a4"><title>MacSporran</title></circle></a><a href="/setts/s15/db12r2w2r2w2k12g11k2w2k2g11k12db11k2r2~x2/"><circle cx="109.3" cy="177.0" r="4" fill="#3465a4"><title>MacLeods Highlanders</title></circle></a><a href="/setts/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6~x2/"><circle cx="101.1" cy="183.7" r="4" fill="#3465a4"><title>MacDonald of Clanranald #3</title></circle></a><a href="/setts/s10/db6ly2db18k6ly3k6g14r3g10r2~x2/"><circle cx="135.9" cy="189.1" r="4" fill="#3465a4"><title>MacMillan Hunting Clan Tartan Tartan Number: 668. Earliest known date: 1906 The Setts No: 160. W &amp; A K Johnston See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/w20k3w3k3w3k16dg17ly5dg17k16db16k3db3~x2/"><circle cx="72.4" cy="171.9" r="4" fill="#3465a4"><title>Gordon Dress #2</title></circle></a><a href="/setts/s13/b18r5b3r5b3k20g18ly4g18k20b20k6b6/"><circle cx="110.5" cy="198.0" r="4" fill="#3465a4"><title>Keith (District)</title></circle></a><circle cx="100.8" cy="184.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/m4g14o2g4o2k6g3k6db14m2db4m4~x2/"><circle cx="92.4" cy="180.2" r="4" fill="#3465a4"><title>Kinloch Anderson, hunting</title></circle></a><a href="/setts/s11/m3db14g14db2m14db2m14db2g14db2ly3~x2/"><circle cx="122.1" cy="181.4" r="4" fill="#3465a4"><title>Clare</title></circle></a><a href="/setts/s10/db12r4db18r2k19g18r4g3ly2g8~x2/"><circle cx="116.6" cy="176.9" r="4" fill="#3465a4"><title>Biskup</title></circle></a><a href="/setts/s13/db3r1db1r2db6r1k6g6r2g1r1g2ly1~x2/"><circle cx="79.8" cy="173.3" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/setts/s13/db17r3db4r5db20r3k20g20r5g4r3k3ly11~x2/"><circle cx="87.3" cy="165.7" r="4" fill="#3465a4"><title>MacSporran</title></circle></a><a href="/setts/s15/db12r2w2r2w2k12g11k2w2k2g11k12db11k2r2~x2/"><circle cx="109.5" cy="177.1" r="4" fill="#3465a4"><title>MacLeods Highlanders</title></circle></a><a href="/setts/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6~x2/"><circle cx="101.2" cy="183.8" r="4" fill="#3465a4"><title>MacDonald of Clanranald #3</title></circle></a><a href="/setts/s10/db6ly2db18k6ly3k6g14r3g10r2~x2/"><circle cx="136.0" cy="189.2" r="4" fill="#3465a4"><title>MacMillan Hunting Clan Tartan Tartan Number: 668. Earliest known date: 1906 The Setts No: 160. W &amp; A K Johnston See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/w20k3w3k3w3k16dg17ly5dg17k16db16k3db3~x2/"><circle cx="72.4" cy="172.0" r="4" fill="#3465a4"><title>Gordon Dress #2</title></circle></a><a href="/setts/s13/b18r5b3r5b3k20g18ly4g18k20b20k6b6/"><circle cx="110.7" cy="198.0" r="4" fill="#3465a4"><title>Keith (District)</title></circle></a><circle cx="100.9" cy="184.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/db10p2db3r4db14r2k14g14r4g3p2g10~x2/

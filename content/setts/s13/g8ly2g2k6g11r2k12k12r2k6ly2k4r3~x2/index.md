@@ -2,7 +2,7 @@
 title: "Mandela, Commemorative"
 date: 2023-03-18
 ---
-**Bands:** [GYGKGRKKRKYKR](/stripes/gygkgrkkrkykr/) · **Stripes:** [G LY G K G R K K R K LY K R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">G LY G K G R K K R K LY K R</span></span>
+**Bands:** [RKYKRKKRGKGYG](/stripes/rkykrkkrgkgyg/) · **Stripes:** [R K LY K R K K R G K G LY G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K LY K R K K R G K G LY G</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,14 +913,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Mandela Commemorative](/setts/s12/g8ly2k6g11r2dt12k12r2k6ly2k4r3~x2/) — ΔT 1.06
 1. [Norwich No.079](/setts/s10/g18ly2k14t5k4t5k14ly2g18r5~x2/) — ΔT 1.07
 1. [MacClellan](/setts/s14/db18k5g3r3g6k2ly2k2g6r3g3k10db5k10/) — ΔT 1.10
-1. [Unnamed 10](/setts/s12/g8k2ly1k1g8k8p8k2w1k1p1k8~x2/) — ΔT 1.14
-1. [Stephenson, hunting](/setts/s15/g5k3db25k25g25k3w3k6w3k3g25k25db25k3r5~x2/) — ΔT 1.17
+1. [Unnamed 10](/setts/s12/k8p1k1w1k2p8k8g8k1ly1k2g8~x2/) — ΔT 1.14
+1. [Stephenson, hunting](/setts/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5~x2/) — ΔT 1.17
 1. [MacRae, hunting](/setts/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/) — ΔT 1.18
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r2db4k1db1k1db1k8g8ly2g8k8db8k1r2~x2/"><circle cx="106.3" cy="164.5" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/setts/s14/dt4g1dt1g6k1g6dt1g1dt4w1k4g1k4ly2~x4/"><circle cx="111.4" cy="184.8" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s9/db25k12ly4k9r6k9ly4k12g25~x2/"><circle cx="105.4" cy="203.8" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/setts/s15/g6k3g7r3g6k13db13k3db13k13g3w3g6k3r4~x2/"><circle cx="69.4" cy="200.7" r="4" fill="#3465a4"><title>MacRae</title></circle></a><a href="/setts/s12/g8ly2k6g11r2dt12k12r2k6ly2k4r3~x2/"><circle cx="111.2" cy="193.5" r="4" fill="#3465a4"><title>Mandela Commemorative</title></circle></a><a href="/setts/s10/g18ly2k14t5k4t5k14ly2g18r5~x2/"><circle cx="146.6" cy="184.4" r="4" fill="#3465a4"><title>Norwich No.079</title></circle></a><a href="/setts/s14/db18k5g3r3g6k2ly2k2g6r3g3k10db5k10/"><circle cx="124.0" cy="164.3" r="4" fill="#3465a4"><title>MacClellan</title></circle></a><a href="/setts/s12/g8k2ly1k1g8k8p8k2w1k1p1k8~x2/"><circle cx="166.8" cy="169.5" r="4" fill="#3465a4"><title>Unnamed 10</title></circle></a><a href="/setts/s15/g5k3db25k25g25k3w3k6w3k3g25k25db25k3r5~x2/"><circle cx="127.2" cy="158.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/"><circle cx="103.4" cy="161.2" r="4" fill="#3465a4"><title>MacRae, hunting</title></circle></a><circle cx="93.7" cy="183.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r2db4k1db1k1db1k8g8ly2g8k8db8k1r2~x2/"><circle cx="106.4" cy="164.5" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/setts/s14/dt4g1dt1g6k1g6dt1g1dt4w1k4g1k4ly2~x4/"><circle cx="111.6" cy="184.8" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s9/db25k12ly4k9r6k9ly4k12g25~x2/"><circle cx="105.6" cy="203.8" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/setts/s15/g6k3g7r3g6k13db13k3db13k13g3w3g6k3r4~x2/"><circle cx="69.6" cy="200.8" r="4" fill="#3465a4"><title>MacRae</title></circle></a><a href="/setts/s12/g8ly2k6g11r2dt12k12r2k6ly2k4r3~x2/"><circle cx="111.3" cy="193.6" r="4" fill="#3465a4"><title>Mandela Commemorative</title></circle></a><a href="/setts/s10/g18ly2k14t5k4t5k14ly2g18r5~x2/"><circle cx="146.8" cy="184.3" r="4" fill="#3465a4"><title>Norwich No.079</title></circle></a><a href="/setts/s14/db18k5g3r3g6k2ly2k2g6r3g3k10db5k10/"><circle cx="124.2" cy="164.3" r="4" fill="#3465a4"><title>MacClellan</title></circle></a><a href="/setts/s12/k8p1k1w1k2p8k8g8k1ly1k2g8~x2/"><circle cx="166.9" cy="169.4" r="4" fill="#3465a4"><title>Unnamed 10</title></circle></a><a href="/setts/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5~x2/"><circle cx="127.4" cy="158.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/"><circle cx="103.6" cy="161.2" r="4" fill="#3465a4"><title>MacRae, hunting</title></circle></a><circle cx="93.9" cy="183.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/g8ly2g2k6g11r2k12k12r2k6ly2k4r3~x2/

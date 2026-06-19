@@ -8,7 +8,7 @@ WRRY
 
 It is a 4 band tartan.
 
-![Woven sample](/setts/s4/ly1o5r5w1~x4/tartan.png)
+![Woven sample](/setts/s4/w1r5o5ly1~x4/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ WRRY
 
 
 
-### W R O LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W R O LY</span></span>
+### LY O R W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY O R W</span></span>
 
 | Tartans |
 |---------------|
-| [Manx, Mannin Plaid](/setts/s4/ly1o5r5w1~x4/)|
-|![Manx, Mannin Plaid example sett](/setts/s4/ly1o5r5w1~x4/sett.png)|
+| [Manx, Mannin Plaid](/setts/s4/w1r5o5ly1~x4/)|
+|![Manx, Mannin Plaid example sett](/setts/s4/w1r5o5ly1~x4/sett.png)|
 

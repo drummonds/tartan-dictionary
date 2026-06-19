@@ -32,7 +32,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-LN/6 DB16 G12 Y6 K6 G12 K12 G36 R/18
+R/18 G36 K12 G12 K6 Y6 G12 DB16 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -56,17 +56,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Bisset](/setts/s9/r3g6k2g2k1ly1g2db3w1~x4/) — ΔT 1.02
 1. [Wilson's, No 225](/setts/s9/g16g2p13t2k6ly2g16t2k12~x2/) — ΔT 1.08
 1. [Presbyterian Synod (US) (Corporate)](/setts/s11/db6r2db6ly3g6k1g2lb2g2k1g6~x2/) — ΔT 1.17
-1. [Quinn](/setts/s9/ly1n8k4g1g4g1k4n8r1~x6/) — ΔT 1.23
-1. [Moskova](/setts/s12/db2g9k1r6k1g4db4ly1k4w1g5k2~x4/) — ΔT 1.23
+1. [Quinn](/setts/s9/r1n8k4g1g4g1k4n8ly1~x6/) — ΔT 1.23
+1. [Moskova](/setts/s12/k2g5w1k4ly1db4g4k1r6k1g9db2~x4/) — ΔT 1.23
 1. [Soutar (Name)](/setts/s9/k20w3t20k3r3dg20r10w3k20~x2/) — ΔT 1.23
-1. [Dunedin](/setts/s12/ly1g4k1r1k1db4w1db1w1db4k1r1~x4/) — ΔT 1.24
+1. [Dunedin](/setts/s12/r1k1db4w1db1w1db4k1r1k1g4ly1~x4/) — ΔT 1.24
 1. [MacShane (Clan)](/setts/s8/dg9w2dg9k2lo14lo4w2r2~x4/) — ΔT 1.25
 1. [CSCA (Corporate)](/setts/s8/g5r4g19k10g8w4db18r4~x2/) — ΔT 1.30
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w4k2t18g18k18w3k18r3~x2/"><circle cx="145.7" cy="175.4" r="4" fill="#3465a4"><title>Hislop (Name)</title></circle></a><a href="/setts/s9/r3g6k2g2k1ly1g2db3w1~x4/"><circle cx="118.3" cy="186.3" r="4" fill="#3465a4"><title>Bisset</title></circle></a><a href="/setts/s9/g16g2p13t2k6ly2g16t2k12~x2/"><circle cx="134.9" cy="168.8" r="4" fill="#3465a4"><title>Wilson's, No 225</title></circle></a><a href="/setts/s11/db6r2db6ly3g6k1g2lb2g2k1g6~x2/"><circle cx="123.3" cy="194.5" r="4" fill="#3465a4"><title>Presbyterian Synod (US) (Corporate)</title></circle></a><a href="/setts/s9/ly1n8k4g1g4g1k4n8r1~x6/"><circle cx="180.4" cy="173.8" r="4" fill="#3465a4"><title>Quinn</title></circle></a><a href="/setts/s12/db2g9k1r6k1g4db4ly1k4w1g5k2~x4/"><circle cx="148.1" cy="159.3" r="4" fill="#3465a4"><title>Moskova</title></circle></a><a href="/setts/s9/k20w3t20k3r3dg20r10w3k20~x2/"><circle cx="134.9" cy="195.5" r="4" fill="#3465a4"><title>Soutar (Name)</title></circle></a><a href="/setts/s12/ly1g4k1r1k1db4w1db1w1db4k1r1~x4/"><circle cx="80.3" cy="175.2" r="4" fill="#3465a4"><title>Dunedin</title></circle></a><a href="/setts/s8/dg9w2dg9k2lo14lo4w2r2~x4/"><circle cx="128.1" cy="170.8" r="4" fill="#3465a4"><title>MacShane (Clan)</title></circle></a><a href="/setts/s8/g5r4g19k10g8w4db18r4~x2/"><circle cx="140.8" cy="224.8" r="4" fill="#3465a4"><title>CSCA (Corporate)</title></circle></a><circle cx="123.7" cy="183.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w4k2t18g18k18w3k18r3~x2/"><circle cx="145.8" cy="175.4" r="4" fill="#3465a4"><title>Hislop (Name)</title></circle></a><a href="/setts/s9/r3g6k2g2k1ly1g2db3w1~x4/"><circle cx="118.3" cy="186.3" r="4" fill="#3465a4"><title>Bisset</title></circle></a><a href="/setts/s9/g16g2p13t2k6ly2g16t2k12~x2/"><circle cx="135.0" cy="168.8" r="4" fill="#3465a4"><title>Wilson's, No 225</title></circle></a><a href="/setts/s11/db6r2db6ly3g6k1g2lb2g2k1g6~x2/"><circle cx="123.4" cy="194.6" r="4" fill="#3465a4"><title>Presbyterian Synod (US) (Corporate)</title></circle></a><a href="/setts/s9/r1n8k4g1g4g1k4n8ly1~x6/"><circle cx="180.5" cy="173.7" r="4" fill="#3465a4"><title>Quinn</title></circle></a><a href="/setts/s12/k2g5w1k4ly1db4g4k1r6k1g9db2~x4/"><circle cx="148.0" cy="159.4" r="4" fill="#3465a4"><title>Moskova</title></circle></a><a href="/setts/s9/k20w3t20k3r3dg20r10w3k20~x2/"><circle cx="135.0" cy="195.5" r="4" fill="#3465a4"><title>Soutar (Name)</title></circle></a><a href="/setts/s12/r1k1db4w1db1w1db4k1r1k1g4ly1~x4/"><circle cx="80.4" cy="175.3" r="4" fill="#3465a4"><title>Dunedin</title></circle></a><a href="/setts/s8/dg9w2dg9k2lo14lo4w2r2~x4/"><circle cx="128.0" cy="170.8" r="4" fill="#3465a4"><title>MacShane (Clan)</title></circle></a><a href="/setts/s8/g5r4g19k10g8w4db18r4~x2/"><circle cx="140.9" cy="224.8" r="4" fill="#3465a4"><title>CSCA (Corporate)</title></circle></a><circle cx="123.8" cy="183.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r9g18k6g6k3ly3g6db8w3~x2/

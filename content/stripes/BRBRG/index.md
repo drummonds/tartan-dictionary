@@ -8,7 +8,7 @@ BRBRG
 
 It is a 5 band tartan.
 
-![Woven sample](/setts/s5/dg1o1dr1o1dr1~x8/tartan.png)
+![Woven sample](/setts/s5/dr1o1dr1o1dg1~x8/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ BRBRG
 
 
 
-### DR O DR O DG <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="seq">DR O DR O DG</span></span>
+### DG O DR O DR <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="seq">DG O DR O DR</span></span>
 
 | Tartans |
 |---------------|
-| [Ballindalloch Check](/setts/s5/dg1o1dr1o1dr1~x8/)|
-|![Ballindalloch Check example sett](/setts/s5/dg1o1dr1o1dr1~x8/sett.png)|
+| [Ballindalloch Check](/setts/s5/dr1o1dr1o1dg1~x8/)|
+|![Ballindalloch Check example sett](/setts/s5/dr1o1dr1o1dg1~x8/sett.png)|
 

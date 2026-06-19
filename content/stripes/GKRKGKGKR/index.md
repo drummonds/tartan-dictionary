@@ -19,7 +19,7 @@ GKRKGKGKR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DG K R K Y K Y K R <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG K R K Y K Y K R</span></span>
+### R K Y K Y K R K DG <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">R K Y K Y K R K DG</span></span>
 
 | Tartans |
 |---------------|
@@ -28,7 +28,7 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 | [Borthwick D](/setts/s9/dg12k1r10k2y10k14y10k2r4~x2/)|
 |![Borthwick D example sett](/setts/s9/dg12k1r10k2y10k14y10k2r4~x2/sett.png)|
 
-### G K R K Y K Y K R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">G K R K Y K Y K R</span></span>
+### R K Y K Y K R K G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K Y K Y K R K G</span></span>
 
 | Tartans |
 |---------------|

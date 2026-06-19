@@ -8,7 +8,7 @@ RWRYGYRW
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/r35lb3r8ly2dg11ly2r8lb3~x2/tartan.png)
+![Woven sample](/setts/s8/r35lb3r8ly2dg11~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RWRYGYRW
 
 | Tartans |
 |---------------|
-| [Highlands of Wyomissing (Corporate)](/setts/s8/r35lb3r8ly2dg11ly2r8lb3~x2/)|
-|![Highlands of Wyomissing (Corporate) example sett](/setts/s8/r35lb3r8ly2dg11ly2r8lb3~x2/sett.png)|
+| [Highlands of Wyomissing (Corporate)](/setts/s8/r35lb3r8ly2dg11~x2/)|
+|![Highlands of Wyomissing (Corporate) example sett](/setts/s8/r35lb3r8ly2dg11~x2/sett.png)|
 

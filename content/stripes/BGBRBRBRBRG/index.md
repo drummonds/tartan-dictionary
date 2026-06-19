@@ -19,7 +19,7 @@ BGBRBRBRBRG
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB G DB R DB R DB R DB R G <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB G DB R DB R DB R DB R G</span></span>
+### G R DB R DB R DB R DB G DB <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G R DB R DB R DB R DB G DB</span></span>
 
 | Tartans |
 |---------------|
@@ -28,7 +28,7 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 | [Fiddes](/setts/s11/g16r12db16r6db4r6db7r20db8g8db12~x2/)|
 |![Fiddes example sett](/setts/s11/g16r12db16r6db4r6db7r20db8g8db12~x2/sett.png)|
 
-### DB DG DB R DB R DB R DB R DG <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">DB DG DB R DB R DB R DB R DG</span></span>
+### DG R DB R DB R DB R DB DG DB <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">DG R DB R DB R DB R DB DG DB</span></span>
 
 | Tartans |
 |---------------|

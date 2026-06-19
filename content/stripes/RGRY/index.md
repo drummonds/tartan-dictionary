@@ -8,7 +8,7 @@ RGRY
 
 It is a 4 band tartan.
 
-![Woven sample](/setts/s4/ly1r9g7r1~x4/tartan.png)
+![Woven sample](/setts/s4/r1g7r9ly1~x4/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RGRY
 
 | Tartans |
 |---------------|
-| [Bryce](/setts/s4/ly1r9g7r1~x4/)|
-|![Bryce example sett](/setts/s4/ly1r9g7r1~x4/sett.png)|
+| [Bryce](/setts/s4/r1g7r9ly1~x4/)|
+|![Bryce example sett](/setts/s4/r1g7r9ly1~x4/sett.png)|
 

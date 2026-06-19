@@ -1,0 +1,55 @@
+---
+title: "Unidentified No 22"
+date: 2023-03-18
+---
+**Bands:** [BKBBKRGBBKB](/stripes/bkbbkrgbbkb/) · **Stripes:** [T K T DB K R DG DB T K T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">T K T DB K R DG DB T K T</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4317
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4317](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4317)
+- Scottish Tartans World Register: 221
+
+## Thread count
+B/4 K2 B2 Ba4 K16 R4 G16 Ba4 B2 K2 B/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#3C82AF;"><span style="color:#3C82AF;filter:grayscale(1) invert(1) contrast(100);">#3C82AF</span></code> `#3C82AF` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.19 |
+| Ba | <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> `#2C4084` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.01 |
+| G | <code style="background-color:#005020;"><span style="color:#005020;filter:grayscale(1) invert(1) contrast(100);">#005020</span></code> `#005020` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#DC0000;"><span style="color:#DC0000;filter:grayscale(1) invert(1) contrast(100);">#DC0000</span></code> `#DC0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.03 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [MacTaggert Clan Tartan Tartan Number: 408. Earliest known date: 1906 Around 1214 A.D. the chief of Clan Ross was known as Fearchar Mac an t'sagirt, which in English, means 'son of the priest'. The clan connection between the MacTaggerts and the Rosses, like many Scottish septs and aliases, is very long standing. The clan is sometimes referred to as Clan Anrias, recalling an ancient connection with the Irish royal house of Tara. The tartan was first published by Johnston's of Edinburgh in 1906. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/db9k12g2t4g18t4g2k12db12r2db2r2db3~x2/) — ΔT 0.63
+1. [MacLaren (labelled)](/setts/s11/db22k4db4k4db4k22dg22r6dg6k2ly3~x2/) — ΔT 0.69
+1. [Maresh](/setts/s9/k3ly3g22db6k17g6db22r3db3~x2/) — ΔT 0.80
+1. [Pro Simon](/setts/s9/k2db2k2db17dg10k2dg2g13o2~x2/) — ΔT 0.82
+1. [Farquharson](/setts/s14/r2k1db8k8g8ly2g8k8db1k1db1k1db4r1~x4/) — ΔT 0.83
+1. [Hunter of Peebleshire (Clan?)](/setts/s11/g8k1g8k8r1db8w1db8r1k8r1~x4/) — ΔT 0.86
+1. [Akins of Candler (Personal)](/setts/s12/g12r2g2r2k12db12ly2db12k2g11r2g2~x2/) — ΔT 0.87
+1. [Ryukoku University Heian SHS (Corp)](/setts/s10/db5k15o5n9o2db2o2db2n9k3~x2/) — ΔT 0.88
+1. [MacLeod of Gesto](/setts/s13/db9k1db1k1db1k7dg8ly2dg8k7db8k1r2~x2/) — ΔT 0.88
+1. [MacDonald of Clanranald](/setts/s13/dg8r1dg2r3dg12w1k12r1db12r3db2r1db8~x2/) — ΔT 0.88
+
+## Neighbour map
+
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db9k12g2t4g18t4g2k12db12r2db2r2db3~x2/"><circle cx="138.3" cy="183.0" r="4" fill="#3465a4"><title>MacTaggert Clan Tartan Tartan Number: 408. Earliest known date: 1906 Around 1214 A.D. the chief of Clan Ross was known as Fearchar Mac an t'sagirt, which in English, means 'son of the priest'. The clan connection between the MacTaggerts and the Rosses, like many Scottish septs and aliases, is very long standing. The clan is sometimes referred to as Clan Anrias, recalling an ancient connection with the Irish royal house of Tara. The tartan was first published by Johnston's of Edinburgh in 1906. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/db22k4db4k4db4k22dg22r6dg6k2ly3~x2/"><circle cx="175.6" cy="179.8" r="4" fill="#3465a4"><title>MacLaren (labelled)</title></circle></a><a href="/setts/s9/k3ly3g22db6k17g6db22r3db3~x2/"><circle cx="168.7" cy="202.3" r="4" fill="#3465a4"><title>Maresh</title></circle></a><a href="/setts/s9/k2db2k2db17dg10k2dg2g13o2~x2/"><circle cx="177.6" cy="193.1" r="4" fill="#3465a4"><title>Pro Simon</title></circle></a><a href="/setts/s14/r2k1db8k8g8ly2g8k8db1k1db1k1db4r1~x4/"><circle cx="148.3" cy="178.5" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/setts/s11/g8k1g8k8r1db8w1db8r1k8r1~x4/"><circle cx="139.1" cy="199.7" r="4" fill="#3465a4"><title>Hunter of Peebleshire (Clan?)</title></circle></a><a href="/setts/s12/g12r2g2r2k12db12ly2db12k2g11r2g2~x2/"><circle cx="148.8" cy="197.9" r="4" fill="#3465a4"><title>Akins of Candler (Personal)</title></circle></a><a href="/setts/s10/db5k15o5n9o2db2o2db2n9k3~x2/"><circle cx="149.5" cy="203.4" r="4" fill="#3465a4"><title>Ryukoku University Heian SHS (Corp)</title></circle></a><a href="/setts/s13/db9k1db1k1db1k7dg8ly2dg8k7db8k1r2~x2/"><circle cx="166.1" cy="193.2" r="4" fill="#3465a4"><title>MacLeod of Gesto</title></circle></a><a href="/setts/s13/dg8r1dg2r3dg12w1k12r1db12r3db2r1db8~x2/"><circle cx="172.3" cy="166.2" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><circle cx="147.3" cy="182.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/t2k1t1db2k8r2dg8db2t1k1t2~x2/

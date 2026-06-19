@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [19 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4220
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified #19
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-Ba/166 K4 Y4 Ba8 Bb8 Ba8 K4 Y4 Ba40 K84 DB40 K4 R4 DB4 B8 DB8 K4 R4 DB/170
+DB/170 R4 K4 DB8 B8 DB4 R4 K4 DB40 K84 Ba40 Y4 K4 Ba8 Bb8 Ba8 Y4 K4 Ba/166
 ![Sett](sett.png)
 
 ## Palette
@@ -925,8 +934,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db80ly1k4ly4k4ly4k22dg36db4b6lb2/"><circle cx="292.9" cy="67.3" r="4" fill="#3465a4"><title>Swedish #2</title></circle></a><a href="/setts/s12/ly6w2n4lb1db6lb1db40lb1db6lb1n4w4~x2/"><circle cx="285.4" cy="48.0" r="4" fill="#3465a4"><title>Moskyok-Collins (Portland) (Personal</title></circle></a><a href="/setts/s17/k3db2g2db26b1db1b1db1b1db1b3lg2k10db3g14k3r3~x2/"><circle cx="244.4" cy="83.3" r="4" fill="#3465a4"><title>St. Lawrence</title></circle></a><a href="/setts/s10/db73k9ly3k5db13w3t7k5w7r16/"><circle cx="231.1" cy="66.5" r="4" fill="#3465a4"><title>Ambulance Victoria</title></circle></a><a href="/setts/s15/b86b6k24o6lo6g6r6lb6k4b22b6b8b8k3b8/"><circle cx="239.6" cy="44.8" r="4" fill="#3465a4"><title>Euler Hermes</title></circle></a><a href="/setts/s17/k3db2g2db26b1db1b1db1b1db1b3t2k10db3g14k3r3~x2/"><circle cx="215.6" cy="66.2" r="4" fill="#3465a4"><title>St Lawrence</title></circle></a><a href="/setts/s13/db64r3k3lb2db3r28dg26db3r3k3ly2db3dg16~x2/"><circle cx="272.9" cy="81.5" r="4" fill="#3465a4"><title>Wcwm 1571</title></circle></a><a href="/setts/s14/dp5g1db30lg2db4lg3db3lg4db2lg5db2b9db1w2~x2/"><circle cx="304.4" cy="74.1" r="4" fill="#3465a4"><title>Crombie, Harry (Personal)</title></circle></a><a href="/setts/s12/db4dp8db3dp2db64t24r4db3t4db3w8r4/"><circle cx="305.8" cy="70.2" r="4" fill="#3465a4"><title>Royal Navy</title></circle></a><a href="/setts/s12/db30dt4g5dt2r2dt2g5dt4w10dt5b8dt1~x2/"><circle cx="181.1" cy="86.9" r="4" fill="#3465a4"><title>Lyon (Personal)</title></circle></a><circle cx="215.0" cy="17.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db80ly1k4ly4k4ly4k22dg36db4b6lb2/"><circle cx="292.9" cy="67.3" r="4" fill="#3465a4"><title>Swedish #2</title></circle></a><a href="/setts/s12/ly6w2n4lb1db6lb1db40lb1db6lb1n4w4~x2/"><circle cx="285.3" cy="48.0" r="4" fill="#3465a4"><title>Moskyok-Collins (Portland) (Personal</title></circle></a><a href="/setts/s17/k3db2g2db26b1db1b1db1b1db1b3lg2k10db3g14k3r3~x2/"><circle cx="244.4" cy="83.5" r="4" fill="#3465a4"><title>St. Lawrence</title></circle></a><a href="/setts/s10/db73k9ly3k5db13w3t7k5w7r16/"><circle cx="231.1" cy="66.6" r="4" fill="#3465a4"><title>Ambulance Victoria</title></circle></a><a href="/setts/s15/b86b6k24o6lo6g6r6lb6k4b22b6b8b8k3b8/"><circle cx="239.5" cy="45.0" r="4" fill="#3465a4"><title>Euler Hermes</title></circle></a><a href="/setts/s17/k3db2g2db26b1db1b1db1b1db1b3t2k10db3g14k3r3~x2/"><circle cx="215.5" cy="66.3" r="4" fill="#3465a4"><title>St Lawrence</title></circle></a><a href="/setts/s13/db64r3k3lb2db3r28dg26db3r3k3ly2db3dg16~x2/"><circle cx="272.9" cy="81.6" r="4" fill="#3465a4"><title>Wcwm 1571</title></circle></a><a href="/setts/s14/dp5g1db30lg2db4lg3db3lg4db2lg5db2b9db1w2~x2/"><circle cx="304.3" cy="74.1" r="4" fill="#3465a4"><title>Crombie, Harry (Personal)</title></circle></a><a href="/setts/s12/db4dp8db3dp2db64t24r4db3t4db3w8r4/"><circle cx="305.7" cy="70.2" r="4" fill="#3465a4"><title>Royal Navy</title></circle></a><a href="/setts/s12/db30dt4g5dt2r2dt2g5dt4w10dt5b8dt1~x2/"><circle cx="181.1" cy="87.0" r="4" fill="#3465a4"><title>Lyon (Personal)</title></circle></a><circle cx="215.0" cy="17.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s19/db85r2k2db4db4db2r2k2db20k42b20ly2k2b4t4b4ly2k2b83~x2/

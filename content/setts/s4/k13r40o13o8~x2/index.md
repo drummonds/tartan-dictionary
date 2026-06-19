@@ -47,7 +47,6 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Moray of Abercairney #2](/setts/s5/r8r1dg4r1db4~x2/) — ΔT 1.35
 1. [Menzies](/setts/s5/r5dg5lr1b2r5~x2/) — ΔT 1.38
-1. [Menzies](/setts/s5/r5dg5lr1b2r5/) — ΔT 1.38
 1. [Wotherspoon](/setts/s5/r5dg3r18db18dg3~x4/) — ΔT 1.41
 1. [Ryutokukan Junior High School](/setts/s5/r6dg13k5r20w3~x2/) — ΔT 1.44
 1. [Moray of Abercairney](/setts/s5/r8r1g4r1db4~x2/) — ΔT 1.55
@@ -55,11 +54,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Snowbird (Corporate)](/setts/s5/r8lg15b12r29w4~x2/) — ΔT 1.57
 1. [Wotherspoon](/setts/s5/r12g8r54db45g6/) — ΔT 1.63
 1. [Highland Pub Company](/setts/s5/do16k13do13r30lo4~x2/) — ΔT 1.64
+1. [Bronte House Check](/setts/s6/m10dy60dt13lo24dt24dy8/) — ΔT 1.65
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r8r1dg4r1db4~x2/"><circle cx="240.0" cy="231.3" r="4" fill="#3465a4"><title>Moray of Abercairney #2</title></circle></a><a href="/setts/s5/r5dg5lr1b2r5~x2/"><circle cx="275.6" cy="283.9" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s5/r5dg5lr1b2r5/"><circle cx="275.6" cy="283.9" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s5/r5dg3r18db18dg3~x4/"><circle cx="290.5" cy="255.9" r="4" fill="#3465a4"><title>Wotherspoon</title></circle></a><a href="/setts/s5/r6dg13k5r20w3~x2/"><circle cx="280.8" cy="246.4" r="4" fill="#3465a4"><title>Ryutokukan Junior High School</title></circle></a><a href="/setts/s5/r8r1g4r1db4~x2/"><circle cx="242.4" cy="235.1" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/setts/s6/r3db15r3g8r20k2~x2/"><circle cx="286.7" cy="207.6" r="4" fill="#3465a4"><title>Finnigan (Estimated threadcount)</title></circle></a><a href="/setts/s5/r8lg15b12r29w4~x2/"><circle cx="268.8" cy="235.2" r="4" fill="#3465a4"><title>Snowbird (Corporate)</title></circle></a><a href="/setts/s5/r12g8r54db45g6/"><circle cx="341.6" cy="240.8" r="4" fill="#3465a4"><title>Wotherspoon</title></circle></a><a href="/setts/s5/do16k13do13r30lo4~x2/"><circle cx="218.2" cy="256.0" r="4" fill="#3465a4"><title>Highland Pub Company</title></circle></a><circle cx="277.0" cy="261.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r8r1dg4r1db4~x2/"><circle cx="239.8" cy="231.3" r="4" fill="#3465a4"><title>Moray of Abercairney #2</title></circle></a><a href="/setts/s5/r5dg5lr1b2r5~x2/"><circle cx="275.5" cy="283.8" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s5/r5dg3r18db18dg3~x4/"><circle cx="290.4" cy="255.8" r="4" fill="#3465a4"><title>Wotherspoon</title></circle></a><a href="/setts/s5/r6dg13k5r20w3~x2/"><circle cx="280.7" cy="246.2" r="4" fill="#3465a4"><title>Ryutokukan Junior High School</title></circle></a><a href="/setts/s5/r8r1g4r1db4~x2/"><circle cx="242.3" cy="235.1" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/setts/s6/r3db15r3g8r20k2~x2/"><circle cx="286.5" cy="207.5" r="4" fill="#3465a4"><title>Finnigan (Estimated threadcount)</title></circle></a><a href="/setts/s5/r8lg15b12r29w4~x2/"><circle cx="268.6" cy="235.0" r="4" fill="#3465a4"><title>Snowbird (Corporate)</title></circle></a><a href="/setts/s5/r12g8r54db45g6/"><circle cx="341.4" cy="240.6" r="4" fill="#3465a4"><title>Wotherspoon</title></circle></a><a href="/setts/s5/do16k13do13r30lo4~x2/"><circle cx="218.2" cy="256.0" r="4" fill="#3465a4"><title>Highland Pub Company</title></circle></a><a href="/setts/s6/m10dy60dt13lo24dt24dy8/"><circle cx="248.8" cy="222.4" r="4" fill="#3465a4"><title>Bronte House Check</title></circle></a><circle cx="276.9" cy="261.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/k13r40o13o8~x2/

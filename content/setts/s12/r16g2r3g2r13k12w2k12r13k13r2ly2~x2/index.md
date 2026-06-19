@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,13 +915,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Clifford](/setts/s13/dt10k3g3k8m9g3m10b3m28g3k3w3k3~x2/) — ΔT 1.36
 1. [MacPherson](/setts/s15/r12b2r12dg8ly1k6b4k1b1k1b4r12lr1k1r1~x2/) — ΔT 1.42
 1. [MacPherson 7](/setts/s15/r14g3r14g13ly2k14db6k2db2k2db6r9w2k2r2~x2/) — ΔT 1.42
-1. [Robieson](/setts/s13/ly1k1r8k1r1dg8r1k8r1dg1r8k1w1~x6/) — ΔT 1.44
+1. [Robieson](/setts/s13/w1k1r8dg1r1k8r1dg8r1k1r8k1ly1~x6/) — ΔT 1.44
 1. [Caledonian Cameron Commando](/setts/s14/r21lt9k2lt2k2lt9k18ly3dg21r13k3r13w2r13~x2/) — ΔT 1.49
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r8db2k1db3k4ly1k1w1k1g8r6w1r6~x4/"><circle cx="147.2" cy="133.4" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/setts/s14/db2r3k6ly4r17r2db16r2db16db2r15r16r2r2~x2/"><circle cx="229.4" cy="132.1" r="4" fill="#3465a4"><title>Chafee of Glenmary (Personal)</title></circle></a><a href="/setts/s13/k1r14t8k9ly1k2w2k2g10r15k4r12w1~x2/"><circle cx="197.8" cy="109.8" r="4" fill="#3465a4"><title>Wilson's, No 1</title></circle></a><a href="/setts/s12/r16k2r9k12k2k10k3k2k3k2k3r10~x2/"><circle cx="185.6" cy="164.7" r="4" fill="#3465a4"><title>Highland Spring (1985) (Corporate)</title></circle></a><a href="/setts/s12/r16dg2r3dg2r13dp12w2dp12r13k13r2ly2~x2/"><circle cx="214.2" cy="154.2" r="4" fill="#3465a4"><title>Ikelman #6 (Personal)</title></circle></a><a href="/setts/s13/dt10k3g3k8m9g3m10b3m28g3k3w3k3~x2/"><circle cx="218.6" cy="130.1" r="4" fill="#3465a4"><title>Clifford</title></circle></a><a href="/setts/s15/r12b2r12dg8ly1k6b4k1b1k1b4r12lr1k1r1~x2/"><circle cx="248.5" cy="113.6" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/setts/s15/r14g3r14g13ly2k14db6k2db2k2db6r9w2k2r2~x2/"><circle cx="116.9" cy="135.2" r="4" fill="#3465a4"><title>MacPherson 7</title></circle></a><a href="/setts/s13/ly1k1r8k1r1dg8r1k8r1dg1r8k1w1~x6/"><circle cx="167.6" cy="111.1" r="4" fill="#3465a4"><title>Robieson</title></circle></a><a href="/setts/s14/r21lt9k2lt2k2lt9k18ly3dg21r13k3r13w2r13~x2/"><circle cx="134.8" cy="120.0" r="4" fill="#3465a4"><title>Caledonian Cameron Commando</title></circle></a><circle cx="182.9" cy="148.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r8db2k1db3k4ly1k1w1k1g8r6w1r6~x4/"><circle cx="147.1" cy="133.4" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/setts/s14/db2r3k6ly4r17r2db16r2db16db2r15r16r2r2~x2/"><circle cx="229.2" cy="132.1" r="4" fill="#3465a4"><title>Chafee of Glenmary (Personal)</title></circle></a><a href="/setts/s13/k1r14t8k9ly1k2w2k2g10r15k4r12w1~x2/"><circle cx="197.6" cy="109.8" r="4" fill="#3465a4"><title>Wilson's, No 1</title></circle></a><a href="/setts/s12/r16k2r9k12k2k10k3k2k3k2k3r10~x2/"><circle cx="185.7" cy="164.7" r="4" fill="#3465a4"><title>Highland Spring (1985) (Corporate)</title></circle></a><a href="/setts/s12/r16dg2r3dg2r13dp12w2dp12r13k13r2ly2~x2/"><circle cx="214.0" cy="154.3" r="4" fill="#3465a4"><title>Ikelman #6 (Personal)</title></circle></a><a href="/setts/s13/dt10k3g3k8m9g3m10b3m28g3k3w3k3~x2/"><circle cx="218.6" cy="130.2" r="4" fill="#3465a4"><title>Clifford</title></circle></a><a href="/setts/s15/r12b2r12dg8ly1k6b4k1b1k1b4r12lr1k1r1~x2/"><circle cx="248.3" cy="113.6" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/setts/s15/r14g3r14g13ly2k14db6k2db2k2db6r9w2k2r2~x2/"><circle cx="116.9" cy="135.3" r="4" fill="#3465a4"><title>MacPherson 7</title></circle></a><a href="/setts/s13/w1k1r8dg1r1k8r1dg8r1k1r8k1ly1~x6/"><circle cx="167.4" cy="111.2" r="4" fill="#3465a4"><title>Robieson</title></circle></a><a href="/setts/s14/r21lt9k2lt2k2lt9k18ly3dg21r13k3r13w2r13~x2/"><circle cx="134.7" cy="120.1" r="4" fill="#3465a4"><title>Caledonian Cameron Commando</title></circle></a><circle cx="182.9" cy="148.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r16g2r3g2r13k12w2k12r13k13r2ly2~x2/

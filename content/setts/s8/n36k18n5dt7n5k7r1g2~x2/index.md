@@ -2,7 +2,7 @@
 title: "Suttle (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKBBBKRG](/stripes/bkbbbkrg/) · **Stripes:** [N K N DT N K R G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">N K N DT N K R G</span></span>
+**Bands:** [GRKBBBKB](/stripes/grkbbbkb/) · **Stripes:** [G R K N DT N K N](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">G R K N DT N K N</span></span>
 
 
 This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7668
 
 ## Thread count
-G/4 R2 K14 N10 DB14 N10 K36 N/72
+N/72 K36 N10 DB14 N10 K14 R2 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -40,7 +40,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/4 R2 K14 N10 DB14 N10 K36 N/72 tartan")
+![Tartan detail](tartan.png "N/72 K36 N10 DB14 N10 K14 R2 G/4 tartan")
 
 ## Nearest tartans
 
@@ -59,8 +59,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/n4dt2n7dt30n8dt7r5dt1w2~x2/"><circle cx="368.9" cy="142.2" r="4" fill="#3465a4"><title>Hebridean Heather</title></circle></a><a href="/setts/s11/r6k3do4k10do5o3k2do31w1do2w2~x2/"><circle cx="402.6" cy="124.2" r="4" fill="#3465a4"><title>Glen and Son, William (Corporate)</title></circle></a><a href="/setts/s8/r4dg10lo1lb1dt4lb1dt25r2~x2/"><circle cx="416.4" cy="162.4" r="4" fill="#3465a4"><title>Raymond of Doune</title></circle></a><a href="/setts/s7/dg2dy32dy12k10r1db16r2~x2/"><circle cx="412.8" cy="178.6" r="4" fill="#3465a4"><title>MacWilliam Htg</title></circle></a><a href="/setts/s7/db36k10dg3r3dg6k1ly2~x2/"><circle cx="394.0" cy="136.2" r="4" fill="#3465a4"><title>MacLaurin of Brioch</title></circle></a><a href="/setts/s6/dy2dg44k10r1db16r1~x2/"><circle cx="428.2" cy="155.3" r="4" fill="#3465a4"><title>MacWilliam Hunting</title></circle></a><a href="/setts/s6/k8r2k13lo2dg48b6~x2/"><circle cx="408.4" cy="175.3" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/setts/s9/db5r3db21k5db5k40k2k2w1~x2/"><circle cx="411.3" cy="130.8" r="4" fill="#3465a4"><title>MacNeill</title></circle></a><a href="/setts/s8/dt8y74k8dt42y11k2y16dt4/"><circle cx="432.4" cy="150.9" r="4" fill="#3465a4"><title>Orkney Slate</title></circle></a><a href="/setts/s9/r1k1n30k6n1k6dy8k1r1~x2/"><circle cx="426.6" cy="149.9" r="4" fill="#3465a4"><title>Klappert Original (Personal)</title></circle></a><circle cx="397.6" cy="152.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/n4dt2n7dt30n8dt7r5dt1w2~x2/"><circle cx="368.8" cy="142.2" r="4" fill="#3465a4"><title>Hebridean Heather</title></circle></a><a href="/setts/s11/r6k3do4k10do5o3k2do31w1do2w2~x2/"><circle cx="402.4" cy="124.1" r="4" fill="#3465a4"><title>Glen and Son, William (Corporate)</title></circle></a><a href="/setts/s8/r4dg10lo1lb1dt4lb1dt25r2~x2/"><circle cx="416.3" cy="162.5" r="4" fill="#3465a4"><title>Raymond of Doune</title></circle></a><a href="/setts/s7/dg2dy32dy12k10r1db16r2~x2/"><circle cx="412.7" cy="178.6" r="4" fill="#3465a4"><title>MacWilliam Htg</title></circle></a><a href="/setts/s7/db36k10dg3r3dg6k1ly2~x2/"><circle cx="393.9" cy="136.1" r="4" fill="#3465a4"><title>MacLaurin of Brioch</title></circle></a><a href="/setts/s6/dy2dg44k10r1db16r1~x2/"><circle cx="428.1" cy="155.3" r="4" fill="#3465a4"><title>MacWilliam Hunting</title></circle></a><a href="/setts/s6/k8r2k13lo2dg48b6~x2/"><circle cx="408.3" cy="175.3" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/setts/s9/db5r3db21k5db5k40k2k2w1~x2/"><circle cx="411.2" cy="130.8" r="4" fill="#3465a4"><title>MacNeill</title></circle></a><a href="/setts/s8/dt8y74k8dt42y11k2y16dt4/"><circle cx="432.2" cy="150.8" r="4" fill="#3465a4"><title>Orkney Slate</title></circle></a><a href="/setts/s9/r1k1n30k6n1k6dy8k1r1~x2/"><circle cx="426.3" cy="149.9" r="4" fill="#3465a4"><title>Klappert Original (Personal)</title></circle></a><circle cx="397.5" cy="152.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/n36k18n5dt7n5k7r1g2~x2/

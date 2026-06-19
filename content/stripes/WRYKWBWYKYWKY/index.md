@@ -18,10 +18,10 @@ WRYKWBWYKYWKY
 
 
 
-### W R LR K W B W LR K LR W K LR <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">W R LR K W B W LR K LR W K LR</span></span>
+### LR K W LR K LR W B W K LR R W <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LR K W LR K LR W B W K LR R W</span></span>
 
 | Tartans |
 |---------------|
-| [Euphoria (Universal)](/setts/s13/lr1k1w8lr1k1lr8w1b8w1k1lr8r1w1~x6/)|
-|![Euphoria (Universal) example sett](/setts/s13/lr1k1w8lr1k1lr8w1b8w1k1lr8r1w1~x6/sett.png)|
+| [Euphoria (Universal)](/setts/s13/w1r1lr8k1w1b8w1lr8k1lr1w8k1lr1~x6/)|
+|![Euphoria (Universal) example sett](/setts/s13/w1r1lr8k1w1b8w1lr8k1lr1w8k1lr1~x6/sett.png)|
 

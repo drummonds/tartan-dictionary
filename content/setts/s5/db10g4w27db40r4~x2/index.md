@@ -2,7 +2,7 @@
 title: "Turnbull Dress, Bruce (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BGWBR](/stripes/bgwbr/) · **Stripes:** [DB G W DB R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB G W DB R</span></span>
+**Bands:** [RBWGB](/stripes/rbwgb/) · **Stripes:** [R DB W G DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB W G DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
@@ -34,18 +34,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Wolverines (Corporate)](/setts/s6/lo8w3db40k12w3lo3~x2/) — ΔT 1.34
 1. [MacMugen](/setts/s6/k3lr16k4lr3k12w2~x3/) — ΔT 1.38
 1. [Kellogg College University of Oxford](/setts/s4/r21db61lo8w21~x2/) — ΔT 1.38
-1. [MacCrimmon from Skye](/setts/s7/ly5k3t22k17t22k3r5~x2/) — ΔT 1.39
+1. [MacCrimmon from Skye](/setts/s7/r5k3t22k17t22k3ly5~x2/) — ΔT 1.39
 1. [Macleod, Winnifred Mary, Dress](/setts/s5/k23ly3k23w36r4~x2/) — ΔT 1.40
 1. [Oklahoma](/setts/s5/k8ly2b21w3r2~x4/) — ΔT 1.47
 1. [Shembe Zulu Church](/setts/s5/k5w25r6k45w4~x2/) — ΔT 1.47
 1. [Ailsa, Navy (Dance)](/setts/s6/db8w3db28w32k3w4~x2/) — ΔT 1.47
-1. [Queen Margaret University (Corporate](/setts/s7/db1w1db8w4db2w3k1~x6/) — ΔT 1.48
+1. [Queen Margaret University (Corporate](/setts/s7/k1w3db2w4db8w1db1~x6/) — ΔT 1.48
 1. [Kellogg College University of Oxford](/setts/s4/r21db61ly8w21~x2/) — ΔT 1.48
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/lo8w3db40k12w3lo3~x2/"><circle cx="307.0" cy="166.8" r="4" fill="#3465a4"><title>Wolverines (Corporate)</title></circle></a><a href="/setts/s6/k3lr16k4lr3k12w2~x3/"><circle cx="251.7" cy="221.2" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><a href="/setts/s4/r21db61lo8w21~x2/"><circle cx="230.9" cy="222.0" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/setts/s7/ly5k3t22k17t22k3r5~x2/"><circle cx="264.8" cy="214.7" r="4" fill="#3465a4"><title>MacCrimmon from Skye</title></circle></a><a href="/setts/s5/k23ly3k23w36r4~x2/"><circle cx="248.0" cy="199.2" r="4" fill="#3465a4"><title>Macleod, Winnifred Mary, Dress</title></circle></a><a href="/setts/s5/k8ly2b21w3r2~x4/"><circle cx="279.8" cy="181.4" r="4" fill="#3465a4"><title>Oklahoma</title></circle></a><a href="/setts/s5/k5w25r6k45w4~x2/"><circle cx="317.1" cy="198.5" r="4" fill="#3465a4"><title>Shembe Zulu Church</title></circle></a><a href="/setts/s6/db8w3db28w32k3w4~x2/"><circle cx="279.5" cy="190.2" r="4" fill="#3465a4"><title>Ailsa, Navy (Dance)</title></circle></a><a href="/setts/s7/db1w1db8w4db2w3k1~x6/"><circle cx="280.6" cy="208.9" r="4" fill="#3465a4"><title>Queen Margaret University (Corporate</title></circle></a><a href="/setts/s4/r21db61ly8w21~x2/"><circle cx="242.4" cy="222.6" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><circle cx="288.4" cy="200.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/lo8w3db40k12w3lo3~x2/"><circle cx="306.9" cy="166.6" r="4" fill="#3465a4"><title>Wolverines (Corporate)</title></circle></a><a href="/setts/s6/k3lr16k4lr3k12w2~x3/"><circle cx="251.6" cy="220.9" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><a href="/setts/s4/r21db61lo8w21~x2/"><circle cx="230.9" cy="221.8" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/setts/s7/r5k3t22k17t22k3ly5~x2/"><circle cx="264.7" cy="214.5" r="4" fill="#3465a4"><title>MacCrimmon from Skye</title></circle></a><a href="/setts/s5/k23ly3k23w36r4~x2/"><circle cx="247.9" cy="198.9" r="4" fill="#3465a4"><title>Macleod, Winnifred Mary, Dress</title></circle></a><a href="/setts/s5/k8ly2b21w3r2~x4/"><circle cx="279.7" cy="181.2" r="4" fill="#3465a4"><title>Oklahoma</title></circle></a><a href="/setts/s5/k5w25r6k45w4~x2/"><circle cx="316.9" cy="198.2" r="4" fill="#3465a4"><title>Shembe Zulu Church</title></circle></a><a href="/setts/s6/db8w3db28w32k3w4~x2/"><circle cx="279.3" cy="189.9" r="4" fill="#3465a4"><title>Ailsa, Navy (Dance)</title></circle></a><a href="/setts/s7/k1w3db2w4db8w1db1~x6/"><circle cx="280.5" cy="208.6" r="4" fill="#3465a4"><title>Queen Margaret University (Corporate</title></circle></a><a href="/setts/s4/r21db61ly8w21~x2/"><circle cx="242.3" cy="222.4" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><circle cx="288.4" cy="200.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/db10g4w27db40r4~x2/

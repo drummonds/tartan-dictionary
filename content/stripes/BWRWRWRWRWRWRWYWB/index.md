@@ -22,6 +22,6 @@ BWRWRWRWRWRWRWYWB
 
 | Tartans |
 |---------------|
-| [Purple Thistle](/setts/s17/dp3lp15lr3lp3r1lp1r1lp1r1lp1r1lp1r1lp1r12w15dp3~x2/)|
-|![Purple Thistle example sett](/setts/s17/dp3lp15lr3lp3r1lp1r1lp1r1lp1r1lp1r1lp1r12w15dp3~x2/sett.png)|
+| [Purple Thistle](/setts/s17/dp3w15r12lp1r1lp1r1lp1r1lp1r1lp1r1lp3lr3lp15dp3~x2/)|
+|![Purple Thistle example sett](/setts/s17/dp3w15r12lp1r1lp1r1lp1r1lp1r1lp1r1lp3lr3lp15dp3~x2/sett.png)|
 

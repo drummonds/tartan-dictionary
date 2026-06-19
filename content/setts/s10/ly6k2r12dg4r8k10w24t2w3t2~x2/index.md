@@ -2,12 +2,18 @@
 title: "Gillies Red Dress"
 date: 2023-03-18
 ---
-**Bands:** [BWBWKRGRKY](/stripes/bwbwkrgrky/) · **Stripes:** [T W T W K R DG R K LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">T W T W K R DG R K LY</span></span>
+**Bands:** [YKRGRKWBWB](/stripes/ykrgrkwbwb/) · **Stripes:** [LY K R DG R K W T W T](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY K R DG R K W T W T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1345
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Gillies Dress, Red
 
 ## Attestations
 
@@ -25,7 +31,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 639
 
 ## Thread count
-B/4 W6 B4 W48 K20 R16 DG8 R24 K4 Y/12
+Y/12 K4 R24 DG8 R16 K20 W48 B4 W6 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -51,14 +57,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Dundee (2003)](/setts/s14/lo35r3k21r3g21lo6w3k3w3lo6lb15w3k6w6~x2/) — ΔT 1.08
 1. [Oor Wullie (Corporate)](/setts/s7/ly3r3ly2r20k16lb24w2~x2/) — ΔT 1.15
 1. [Catalunya Escocia](/setts/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/) — ΔT 1.15
-1. [Harrods](/setts/s14/o2w2k2w12o1w1o1w1o4dr5o2dr9o3r2~x2/) — ΔT 1.18
+1. [Harrods](/setts/s14/r2o3dr9o2dr5o4w1o1w1o1w12k2w2o2~x2/) — ΔT 1.18
 1. [Harrods (Corporate)](/setts/s14/dy2w2k2w12dy1w1dy1w1lo4do5lo2do9dy3r2~x2/) — ΔT 1.18
 1. [Kintyre](/setts/s11/dy1w4k1w9lo2w1k8w1lo2o6r1~x4/) — ΔT 1.22
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly6k2r15g5r8k12w24t2w4t2~x2/"><circle cx="93.2" cy="111.2" r="4" fill="#3465a4"><title>Gillies, dress Red</title></circle></a><a href="/setts/s13/r4w16t5k5ly2k2w2k2g5r5k2r2w2~x2/"><circle cx="75.3" cy="110.9" r="4" fill="#3465a4"><title>Victoria (Wilsons)</title></circle></a><a href="/setts/s7/ly3r3lo2r20k16w24w2~x2/"><circle cx="120.7" cy="117.3" r="4" fill="#3465a4"><title>Oor Wullie (DC Thomson)</title></circle></a><a href="/setts/s14/r5w23db5w5k7ly3k3w2k3dg16r8dg3r6w3~x2/"><circle cx="88.0" cy="102.5" r="4" fill="#3465a4"><title>Victoria Highland Dress</title></circle></a><a href="/setts/s14/lo35r3k21r3g21lo6w3k3w3lo6lb15w3k6w6~x2/"><circle cx="96.8" cy="94.2" r="4" fill="#3465a4"><title>Dundee (2003)</title></circle></a><a href="/setts/s7/ly3r3ly2r20k16lb24w2~x2/"><circle cx="129.7" cy="127.7" r="4" fill="#3465a4"><title>Oor Wullie (Corporate)</title></circle></a><a href="/setts/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/"><circle cx="136.0" cy="116.2" r="4" fill="#3465a4"><title>Catalunya Escocia</title></circle></a><a href="/setts/s14/o2w2k2w12o1w1o1w1o4dr5o2dr9o3r2~x2/"><circle cx="99.9" cy="97.2" r="4" fill="#3465a4"><title>Harrods</title></circle></a><a href="/setts/s14/dy2w2k2w12dy1w1dy1w1lo4do5lo2do9dy3r2~x2/"><circle cx="101.1" cy="98.6" r="4" fill="#3465a4"><title>Harrods (Corporate)</title></circle></a><a href="/setts/s11/dy1w4k1w9lo2w1k8w1lo2o6r1~x4/"><circle cx="109.1" cy="118.0" r="4" fill="#3465a4"><title>Kintyre</title></circle></a><circle cx="104.5" cy="104.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly6k2r15g5r8k12w24t2w4t2~x2/"><circle cx="93.0" cy="111.2" r="4" fill="#3465a4"><title>Gillies, dress Red</title></circle></a><a href="/setts/s13/r4w16t5k5ly2k2w2k2g5r5k2r2w2~x2/"><circle cx="75.0" cy="111.0" r="4" fill="#3465a4"><title>Victoria (Wilsons)</title></circle></a><a href="/setts/s7/ly3r3lo2r20k16w24w2~x2/"><circle cx="120.4" cy="117.3" r="4" fill="#3465a4"><title>Oor Wullie (DC Thomson)</title></circle></a><a href="/setts/s14/r5w23db5w5k7ly3k3w2k3dg16r8dg3r6w3~x2/"><circle cx="87.8" cy="102.6" r="4" fill="#3465a4"><title>Victoria Highland Dress</title></circle></a><a href="/setts/s14/lo35r3k21r3g21lo6w3k3w3lo6lb15w3k6w6~x2/"><circle cx="96.5" cy="94.3" r="4" fill="#3465a4"><title>Dundee (2003)</title></circle></a><a href="/setts/s7/ly3r3ly2r20k16lb24w2~x2/"><circle cx="129.5" cy="127.7" r="4" fill="#3465a4"><title>Oor Wullie (Corporate)</title></circle></a><a href="/setts/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/"><circle cx="135.7" cy="116.2" r="4" fill="#3465a4"><title>Catalunya Escocia</title></circle></a><a href="/setts/s14/r2o3dr9o2dr5o4w1o1w1o1w12k2w2o2~x2/"><circle cx="99.7" cy="97.3" r="4" fill="#3465a4"><title>Harrods</title></circle></a><a href="/setts/s14/dy2w2k2w12dy1w1dy1w1lo4do5lo2do9dy3r2~x2/"><circle cx="100.9" cy="98.7" r="4" fill="#3465a4"><title>Harrods (Corporate)</title></circle></a><a href="/setts/s11/dy1w4k1w9lo2w1k8w1lo2o6r1~x4/"><circle cx="108.9" cy="118.0" r="4" fill="#3465a4"><title>Kintyre</title></circle></a><circle cx="104.2" cy="104.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/ly6k2r12dg4r8k10w24t2w3t2~x2/

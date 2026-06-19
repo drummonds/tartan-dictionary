@@ -2,7 +2,7 @@
 title: "Special, Saffron"
 date: 2023-03-18
 ---
-**Bands:** [BGYG](/stripes/bgyg/) · **Stripes:** [B DG LO DG](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="seq">B DG LO DG</span></span>
+**Bands:** [GYGB](/stripes/gygb/) · **Stripes:** [DG LO DG B](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DG LO DG B</span></span>
 
 
 This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/10 DG86 O43 DG/21
+DG/21 O43 DG86 B/10
 ![Sett](sett.png)
 
 ## Palette
@@ -899,7 +902,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/10 DG86 O43 DG/21 tartan")
+![Tartan detail](tartan.png "DG/21 O43 DG86 B/10 tartan")
 
 ## Nearest tartans
 
@@ -918,8 +921,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/dg21lo44dg86t10/"><circle cx="372.8" cy="262.4" r="4" fill="#3465a4"><title>Special Saffron (Fashion)</title></circle></a><a href="/setts/s4/dg21ly43dg86t10/"><circle cx="357.7" cy="255.2" r="4" fill="#3465a4"><title>Special Saffron Tartan Tartan Number: 201. Earliest known date: pre 2003 Y = Saffron See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/dg86lo44dg21lo44dg86t10/"><circle cx="355.2" cy="256.8" r="4" fill="#3465a4"><title>Special Saffron</title></circle></a><a href="/setts/s3/g9k18r2~x4/"><circle cx="343.2" cy="277.9" r="4" fill="#3465a4"><title>Cowie, Justine (Personal)</title></circle></a><a href="/setts/s3/dg20w5r3~x2/"><circle cx="390.3" cy="268.7" r="4" fill="#3465a4"><title>Juchter (Personal)</title></circle></a><a href="/setts/s4/g10k2dp5g1~x8/"><circle cx="355.7" cy="264.1" r="4" fill="#3465a4"><title>Bumbee #1 (Fashion)</title></circle></a><a href="/setts/s4/k3g15k20ly3~x2/"><circle cx="311.8" cy="278.9" r="4" fill="#3465a4"><title>Scotch Tape 2 (Corporate)</title></circle></a><a href="/setts/s4/dp4g10r1ly1~x2/"><circle cx="357.5" cy="230.9" r="4" fill="#3465a4"><title>Wilson's No.192</title></circle></a><a href="/setts/s4/dp4g10r1w1~x2/"><circle cx="343.4" cy="223.9" r="4" fill="#3465a4"><title>Wilson's No.189</title></circle></a><a href="/setts/s4/g8p4g1p2~x4/"><circle cx="375.5" cy="281.9" r="4" fill="#3465a4"><title>Wilson's, No 211</title></circle></a><circle cx="379.2" cy="263.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/dg21lo44dg86t10/"><circle cx="372.7" cy="262.0" r="4" fill="#3465a4"><title>Special Saffron (Fashion)</title></circle></a><a href="/setts/s4/dg21ly43dg86t10/"><circle cx="357.6" cy="254.7" r="4" fill="#3465a4"><title>Special Saffron Tartan Tartan Number: 201. Earliest known date: pre 2003 Y = Saffron See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/dg86lo44dg21lo44dg86t10/"><circle cx="355.1" cy="256.4" r="4" fill="#3465a4"><title>Special Saffron</title></circle></a><a href="/setts/s3/g9k18r2~x4/"><circle cx="343.3" cy="277.5" r="4" fill="#3465a4"><title>Cowie, Justine (Personal)</title></circle></a><a href="/setts/s3/dg20w5r3~x2/"><circle cx="390.2" cy="268.2" r="4" fill="#3465a4"><title>Juchter (Personal)</title></circle></a><a href="/setts/s4/g10k2dp5g1~x8/"><circle cx="355.8" cy="263.8" r="4" fill="#3465a4"><title>Bumbee #1 (Fashion)</title></circle></a><a href="/setts/s4/k3g15k20ly3~x2/"><circle cx="311.9" cy="278.6" r="4" fill="#3465a4"><title>Scotch Tape 2 (Corporate)</title></circle></a><a href="/setts/s4/dp4g10r1ly1~x2/"><circle cx="357.4" cy="230.6" r="4" fill="#3465a4"><title>Wilson's No.192</title></circle></a><a href="/setts/s4/dp4g10r1w1~x2/"><circle cx="343.3" cy="223.6" r="4" fill="#3465a4"><title>Wilson's No.189</title></circle></a><a href="/setts/s4/g8p4g1p2~x4/"><circle cx="375.3" cy="281.6" r="4" fill="#3465a4"><title>Wilson's, No 211</title></circle></a><circle cx="379.1" cy="263.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/dg21lo43dg86b10/

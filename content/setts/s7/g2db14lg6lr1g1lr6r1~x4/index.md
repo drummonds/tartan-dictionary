@@ -2,7 +2,7 @@
 title: "Loch Ness in Scotland"
 date: 2023-03-18
 ---
-**Bands:** [GBYYGYR](/stripes/gbyygyr/) · **Stripes:** [G DB LG LR G LR R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="seq">G DB LG LR G LR R</span></span>
+**Bands:** [RYGYYBG](/stripes/rygyybg/) · **Stripes:** [R LR G LR LG DB G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R LR G LR LG DB G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
@@ -38,8 +38,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Mina Perhonen](/setts/s7/ly4k4t5n24ly2k24w4~x2/) — ΔT 0.70
-1. [Loch Ness (Fashion)](/setts/s7/lb2k17lg11t21r2t2r2~x2/) — ΔT 0.72
+1. [Mina Perhonen](/setts/s7/w4k24ly2n24t5k4ly4~x2/) — ΔT 0.70
+1. [Loch Ness (Fashion)](/setts/s7/r2t2r2t21lg11k17lb2~x2/) — ΔT 0.72
 1. [Sinclair Dress (Dance)](/setts/s7/db4r2db31k10g4w21g2~x2/) — ΔT 0.97
 1. [St Kentigern College](/setts/s10/b30db3b3db3b3db10k10g20k2w4~x2/) — ΔT 0.97
 1. [Arran (Pendleton)](/setts/s8/t12k1t1k1t1db8w9y2~x4/) — ΔT 1.00
@@ -51,8 +51,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly4k4t5n24ly2k24w4~x2/"><circle cx="187.4" cy="168.4" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/setts/s7/lb2k17lg11t21r2t2r2~x2/"><circle cx="169.5" cy="170.4" r="4" fill="#3465a4"><title>Loch Ness (Fashion)</title></circle></a><a href="/setts/s7/db4r2db31k10g4w21g2~x2/"><circle cx="214.0" cy="143.2" r="4" fill="#3465a4"><title>Sinclair Dress (Dance)</title></circle></a><a href="/setts/s10/b30db3b3db3b3db10k10g20k2w4~x2/"><circle cx="173.7" cy="142.1" r="4" fill="#3465a4"><title>St Kentigern College</title></circle></a><a href="/setts/s8/t12k1t1k1t1db8w9y2~x4/"><circle cx="158.4" cy="148.1" r="4" fill="#3465a4"><title>Arran (Pendleton)</title></circle></a><a href="/setts/s11/w7b10k7b7t7b45k21g21t4k4w7~x2/"><circle cx="169.1" cy="150.9" r="4" fill="#3465a4"><title>Utah State University</title></circle></a><a href="/setts/s7/db2r1db16k5g2w11g1~x4/"><circle cx="210.1" cy="139.3" r="4" fill="#3465a4"><title>Sinclair dress</title></circle></a><a href="/setts/s6/t3k2g2k1db10w1~x8/"><circle cx="243.4" cy="184.8" r="4" fill="#3465a4"><title>Isle of Harris (District)</title></circle></a><a href="/setts/s7/r3dt25k6lb20ly2lb2w3~x2/"><circle cx="172.0" cy="140.0" r="4" fill="#3465a4"><title>Madras College (Corporate)</title></circle></a><a href="/setts/s6/w12db48k13o22k3ly6/"><circle cx="197.6" cy="160.5" r="4" fill="#3465a4"><title>Clunie (Personal)</title></circle></a><circle cx="200.2" cy="156.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w4k24ly2n24t5k4ly4~x2/"><circle cx="187.5" cy="168.3" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/setts/s7/r2t2r2t21lg11k17lb2~x2/"><circle cx="169.5" cy="170.4" r="4" fill="#3465a4"><title>Loch Ness (Fashion)</title></circle></a><a href="/setts/s7/db4r2db31k10g4w21g2~x2/"><circle cx="213.9" cy="143.1" r="4" fill="#3465a4"><title>Sinclair Dress (Dance)</title></circle></a><a href="/setts/s10/b30db3b3db3b3db10k10g20k2w4~x2/"><circle cx="173.8" cy="142.1" r="4" fill="#3465a4"><title>St Kentigern College</title></circle></a><a href="/setts/s8/t12k1t1k1t1db8w9y2~x4/"><circle cx="158.3" cy="148.0" r="4" fill="#3465a4"><title>Arran (Pendleton)</title></circle></a><a href="/setts/s11/w7b10k7b7t7b45k21g21t4k4w7~x2/"><circle cx="169.1" cy="150.8" r="4" fill="#3465a4"><title>Utah State University</title></circle></a><a href="/setts/s7/db2r1db16k5g2w11g1~x4/"><circle cx="210.0" cy="139.2" r="4" fill="#3465a4"><title>Sinclair dress</title></circle></a><a href="/setts/s6/t3k2g2k1db10w1~x8/"><circle cx="243.4" cy="184.7" r="4" fill="#3465a4"><title>Isle of Harris (District)</title></circle></a><a href="/setts/s7/r3dt25k6lb20ly2lb2w3~x2/"><circle cx="172.0" cy="140.0" r="4" fill="#3465a4"><title>Madras College (Corporate)</title></circle></a><a href="/setts/s6/w12db48k13o22k3ly6/"><circle cx="197.6" cy="160.5" r="4" fill="#3465a4"><title>Clunie (Personal)</title></circle></a><circle cx="200.2" cy="156.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/g2db14lg6lr1g1lr6r1~x4/

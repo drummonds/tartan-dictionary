@@ -20,7 +20,7 @@ WRWWY
 
 
 
-### LB R W LB LY <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LB R W LB LY</span></span>
+### LY LB W R LB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LY LB W R LB</span></span>
 
 | Tartans |
 |---------------|

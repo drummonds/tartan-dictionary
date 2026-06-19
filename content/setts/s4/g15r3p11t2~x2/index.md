@@ -2,7 +2,7 @@
 title: "MacNab 7"
 date: 2023-03-18
 ---
-**Bands:** [BBRG](/stripes/bbrg/) · **Stripes:** [T P R G](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">T P R G</span></span>
+**Bands:** [GRBB](/stripes/grbb/) · **Stripes:** [G R P T](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#00879F"></span><span class="seq">G R P T</span></span>
 
 
 This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/4 P22 R6 G/30
+G/30 R6 P22 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -900,7 +903,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/4 P22 R6 G/30 tartan")
+![Tartan detail](tartan.png "G/30 R6 P22 B/4 tartan")
 
 ## Nearest tartans
 
@@ -913,14 +916,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Wilson's No.195](/setts/s4/r5g7k2t1~x4/) — ΔT 1.06
 1. [Delroeux (Personal)](/setts/s4/db3g6ly1r3~x10/) — ΔT 1.08
 1. [Dohmen (Personal)](/setts/s4/g30ly3db8r25~x2/) — ΔT 1.10
-1. [British Hills](/setts/s5/ly2db8r8dg17r2~x4/) — ΔT 1.12
+1. [British Hills](/setts/s5/r2dg17r8db8ly2~x4/) — ΔT 1.12
 1. [Ikelman #2 (Personal)](/setts/s5/n11k4r4lo4n1~x4/) — ΔT 1.16
 1. [New York State Police Pipe Band](/setts/s5/o5dp3o18k16ly3~x4/) — ΔT 1.16
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/dg15r3dp11lb2/"><circle cx="253.3" cy="254.8" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><a href="/setts/s6/r10dy60dt13lb24dt24dy8/"><circle cx="232.3" cy="220.4" r="4" fill="#3465a4"><title>Bronte House Check (Fashion)</title></circle></a><a href="/setts/s4/o24r11k6db4~x4/"><circle cx="268.6" cy="258.5" r="4" fill="#3465a4"><title>Nebar (Corporate)</title></circle></a><a href="/setts/s5/k4lb4k4o15r2~x4/"><circle cx="242.7" cy="218.0" r="4" fill="#3465a4"><title>Oban Grey (Fashion)</title></circle></a><a href="/setts/s4/r5g7k2t1~x4/"><circle cx="232.8" cy="258.9" r="4" fill="#3465a4"><title>Wilson's No.195</title></circle></a><a href="/setts/s4/db3g6ly1r3~x10/"><circle cx="194.7" cy="269.3" r="4" fill="#3465a4"><title>Delroeux (Personal)</title></circle></a><a href="/setts/s4/g30ly3db8r25~x2/"><circle cx="263.0" cy="246.6" r="4" fill="#3465a4"><title>Dohmen (Personal)</title></circle></a><a href="/setts/s5/ly2db8r8dg17r2~x4/"><circle cx="220.7" cy="221.2" r="4" fill="#3465a4"><title>British Hills</title></circle></a><a href="/setts/s5/n11k4r4lo4n1~x4/"><circle cx="266.6" cy="231.8" r="4" fill="#3465a4"><title>Ikelman #2 (Personal)</title></circle></a><a href="/setts/s5/o5dp3o18k16ly3~x4/"><circle cx="235.6" cy="234.1" r="4" fill="#3465a4"><title>New York State Police Pipe Band</title></circle></a><circle cx="252.2" cy="248.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/dg15r3dp11lb2/"><circle cx="253.4" cy="254.7" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><a href="/setts/s6/r10dy60dt13lb24dt24dy8/"><circle cx="232.2" cy="220.2" r="4" fill="#3465a4"><title>Bronte House Check (Fashion)</title></circle></a><a href="/setts/s4/o24r11k6db4~x4/"><circle cx="268.6" cy="258.4" r="4" fill="#3465a4"><title>Nebar (Corporate)</title></circle></a><a href="/setts/s5/k4lb4k4o15r2~x4/"><circle cx="242.6" cy="217.8" r="4" fill="#3465a4"><title>Oban Grey (Fashion)</title></circle></a><a href="/setts/s4/r5g7k2t1~x4/"><circle cx="232.8" cy="258.8" r="4" fill="#3465a4"><title>Wilson's No.195</title></circle></a><a href="/setts/s4/db3g6ly1r3~x10/"><circle cx="194.8" cy="269.2" r="4" fill="#3465a4"><title>Delroeux (Personal)</title></circle></a><a href="/setts/s4/g30ly3db8r25~x2/"><circle cx="262.9" cy="246.5" r="4" fill="#3465a4"><title>Dohmen (Personal)</title></circle></a><a href="/setts/s5/r2dg17r8db8ly2~x4/"><circle cx="220.6" cy="221.1" r="4" fill="#3465a4"><title>British Hills</title></circle></a><a href="/setts/s5/n11k4r4lo4n1~x4/"><circle cx="266.5" cy="231.7" r="4" fill="#3465a4"><title>Ikelman #2 (Personal)</title></circle></a><a href="/setts/s5/o5dp3o18k16ly3~x4/"><circle cx="235.5" cy="233.9" r="4" fill="#3465a4"><title>New York State Police Pipe Band</title></circle></a><circle cx="252.2" cy="248.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/g15r3p11t2~x2/

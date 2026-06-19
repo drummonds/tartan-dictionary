@@ -2,12 +2,18 @@
 title: "Meath County Crest (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [GWGBGY](/stripes/gwgbgy/) · **Stripes:** [G W G DB G LO](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">G W G DB G LO</span></span>
+**Bands:** [YGBGWG](/stripes/ygbgwg/) · **Stripes:** [LO G DB G W G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO G DB G W G</span></span>
 
 
 This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7410/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Meath County, Crest Range
 
 ## Attestations
 
@@ -46,9 +52,9 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Justus hunting](/setts/s7/db1g4ly1g1r1g4db1~x12/) — ΔT 1.03
-1. [Justus Hunting (Personal)](/setts/s7/db1dg4lo1dg1r1dg4db1~x12/) — ΔT 1.37
-1. [Moore Caledonian (Personal)](/setts/s6/ly1g6ly1g6k6r1~x6/) — ΔT 1.51
+1. [Justus hunting](/setts/s7/db1g4r1g1ly1g4db1~x12/) — ΔT 1.03
+1. [Justus Hunting (Personal)](/setts/s7/db1dg4r1dg1lo1dg4db1~x12/) — ΔT 1.37
+1. [Moore Caledonian (Personal)](/setts/s6/r1k6g6ly1g6ly1~x6/) — ΔT 1.51
 1. [Bean Hunting](/setts/s7/db6r15g41r15db20g41t6/) — ΔT 1.52
 1. [Milton](/setts/s6/g8r3g4k6g9dp2~x2/) — ΔT 1.53
 1. [Milton (Name?)](/setts/s6/g8r3g4k6g9dp2~x4/) — ΔT 1.53
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db1g4ly1g1r1g4db1~x12/"><circle cx="345.3" cy="264.6" r="4" fill="#3465a4"><title>Justus hunting</title></circle></a><a href="/setts/s7/db1dg4lo1dg1r1dg4db1~x12/"><circle cx="360.2" cy="271.3" r="4" fill="#3465a4"><title>Justus Hunting (Personal)</title></circle></a><a href="/setts/s6/ly1g6ly1g6k6r1~x6/"><circle cx="262.6" cy="243.4" r="4" fill="#3465a4"><title>Moore Caledonian (Personal)</title></circle></a><a href="/setts/s7/db6r15g41r15db20g41t6/"><circle cx="284.4" cy="246.6" r="4" fill="#3465a4"><title>Bean Hunting</title></circle></a><a href="/setts/s6/g8r3g4k6g9dp2~x2/"><circle cx="269.2" cy="280.9" r="4" fill="#3465a4"><title>Milton</title></circle></a><a href="/setts/s6/g8r3g4k6g9dp2~x4/"><circle cx="269.2" cy="280.9" r="4" fill="#3465a4"><title>Milton (Name?)</title></circle></a><a href="/setts/s4/k2ly1g7t1~x2/"><circle cx="337.5" cy="248.0" r="4" fill="#3465a4"><title>Wilson's No.140</title></circle></a><a href="/setts/s4/g14k3r3lr2~x2/"><circle cx="347.6" cy="250.7" r="4" fill="#3465a4"><title>Bacon, Green (Fashion)</title></circle></a><a href="/setts/s10/r2g12ly2g12db3g2db2g2db4r2~x2/"><circle cx="345.5" cy="221.3" r="4" fill="#3465a4"><title>Ayrton of Laoch (Personal)</title></circle></a><a href="/setts/s7/r5g20r5g20db24g6ly4/"><circle cx="264.2" cy="247.9" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting) Clan/Family Tartan Tartan Number: 5351. Earliest known date: 01/01/1940 Design close to Cameron Hunting which has two red lines shown in Vestiarium Scoticum. This design evolved in the 1940s by J G MacKay of Portree and was first put on show at the Cameron Gathering at Achnacarry in 1956. (original STA ref: 1535) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="307.7" cy="269.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db1g4r1g1ly1g4db1~x12/"><circle cx="345.1" cy="264.3" r="4" fill="#3465a4"><title>Justus hunting</title></circle></a><a href="/setts/s7/db1dg4r1dg1lo1dg4db1~x12/"><circle cx="360.1" cy="271.1" r="4" fill="#3465a4"><title>Justus Hunting (Personal)</title></circle></a><a href="/setts/s6/r1k6g6ly1g6ly1~x6/"><circle cx="262.6" cy="243.2" r="4" fill="#3465a4"><title>Moore Caledonian (Personal)</title></circle></a><a href="/setts/s7/db6r15g41r15db20g41t6/"><circle cx="284.3" cy="246.5" r="4" fill="#3465a4"><title>Bean Hunting</title></circle></a><a href="/setts/s6/g8r3g4k6g9dp2~x2/"><circle cx="269.2" cy="280.7" r="4" fill="#3465a4"><title>Milton</title></circle></a><a href="/setts/s6/g8r3g4k6g9dp2~x4/"><circle cx="269.2" cy="280.7" r="4" fill="#3465a4"><title>Milton (Name?)</title></circle></a><a href="/setts/s4/k2ly1g7t1~x2/"><circle cx="337.4" cy="247.7" r="4" fill="#3465a4"><title>Wilson's No.140</title></circle></a><a href="/setts/s4/g14k3r3lr2~x2/"><circle cx="347.5" cy="250.5" r="4" fill="#3465a4"><title>Bacon, Green (Fashion)</title></circle></a><a href="/setts/s10/r2g12ly2g12db3g2db2g2db4r2~x2/"><circle cx="345.3" cy="221.1" r="4" fill="#3465a4"><title>Ayrton of Laoch (Personal)</title></circle></a><a href="/setts/s7/r5g20r5g20db24g6ly4/"><circle cx="264.1" cy="247.8" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting) Clan/Family Tartan Tartan Number: 5351. Earliest known date: 01/01/1940 Design close to Cameron Hunting which has two red lines shown in Vestiarium Scoticum. This design evolved in the 1940s by J G MacKay of Portree and was first put on show at the Cameron Gathering at Achnacarry in 1956. (original STA ref: 1535) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="307.6" cy="269.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/lo21g28db24g72w16g20/

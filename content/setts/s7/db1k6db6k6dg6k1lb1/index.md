@@ -13,13 +13,23 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Thread count
 DB/1 K6 DB6 K6 G6 K1 N/1
@@ -48,16 +58,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Printing Industries of America](/setts/s8/k7r2k2k6lo1k1lo1k4~x4/) — ΔT 0.99
 1. [MacCallum](/setts/s7/dg8k2lb1dg4k6db6k1~x2/) — ΔT 1.03
 1. [MacCallum](/setts/s7/dg8k2b1dg4k6db6k1~x2/) — ΔT 1.05
-1. [MacCallum W](/setts/s7/k6dg6r1dg6k6db6k1/) — ΔT 1.12
 1. [Forbes Ancient](/setts/s7/db1k6db6k6g6k1w1~x2/) — ΔT 1.17
 1. [Fletcher](/setts/s7/db6k1db6k8r1dg8k2/) — ΔT 1.20
-1. [Keith McCormick (Personal)](/setts/s8/g1k6g3k1g3k4db5k1~x4/) — ΔT 1.20
+1. [Keith McCormick (Personal)](/setts/s8/k1db5k4g3k1g3k6g1~x4/) — ΔT 1.20
 1. [Fletcher C](/setts/s7/db6k1db6k8r1dg8r2/) — ΔT 1.27
+1. [Melville](/setts/s6/k5lb2dg18k17dp16k3/) — ΔT 1.31
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db1k6db6k6dg6k1lr1~x2/"><circle cx="222.6" cy="263.8" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/setts/s7/db1k6db6k6dg6k1lr1/"><circle cx="222.6" cy="263.8" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/setts/s8/k7r2k2k6lo1k1lo1k4~x4/"><circle cx="231.0" cy="236.5" r="4" fill="#3465a4"><title>Printing Industries of America</title></circle></a><a href="/setts/s7/dg8k2lb1dg4k6db6k1~x2/"><circle cx="194.1" cy="245.1" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/setts/s7/dg8k2b1dg4k6db6k1~x2/"><circle cx="216.1" cy="256.2" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/setts/s7/k6dg6r1dg6k6db6k1/"><circle cx="176.7" cy="278.5" r="4" fill="#3465a4"><title>MacCallum W</title></circle></a><a href="/setts/s7/db1k6db6k6g6k1w1~x2/"><circle cx="184.1" cy="241.0" r="4" fill="#3465a4"><title>Forbes Ancient</title></circle></a><a href="/setts/s7/db6k1db6k8r1dg8k2/"><circle cx="196.8" cy="257.0" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/setts/s8/g1k6g3k1g3k4db5k1~x4/"><circle cx="226.1" cy="264.0" r="4" fill="#3465a4"><title>Keith McCormick (Personal)</title></circle></a><a href="/setts/s7/db6k1db6k8r1dg8r2/"><circle cx="167.9" cy="243.1" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><circle cx="212.2" cy="258.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db1k6db6k6dg6k1lr1~x2/"><circle cx="222.9" cy="263.8" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/setts/s7/db1k6db6k6dg6k1lr1/"><circle cx="222.9" cy="263.8" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/setts/s8/k7r2k2k6lo1k1lo1k4~x4/"><circle cx="231.3" cy="236.5" r="4" fill="#3465a4"><title>Printing Industries of America</title></circle></a><a href="/setts/s7/dg8k2lb1dg4k6db6k1~x2/"><circle cx="194.4" cy="245.0" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/setts/s7/dg8k2b1dg4k6db6k1~x2/"><circle cx="216.5" cy="256.2" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/setts/s7/db1k6db6k6g6k1w1~x2/"><circle cx="184.4" cy="240.8" r="4" fill="#3465a4"><title>Forbes Ancient</title></circle></a><a href="/setts/s7/db6k1db6k8r1dg8k2/"><circle cx="197.2" cy="257.1" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/setts/s8/k1db5k4g3k1g3k6g1~x4/"><circle cx="226.3" cy="263.8" r="4" fill="#3465a4"><title>Keith McCormick (Personal)</title></circle></a><a href="/setts/s7/db6k1db6k8r1dg8r2/"><circle cx="168.2" cy="243.1" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><a href="/setts/s6/k5lb2dg18k17dp16k3/"><circle cx="187.5" cy="231.6" r="4" fill="#3465a4"><title>Melville</title></circle></a><circle cx="212.6" cy="258.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/db1k6db6k6dg6k1lb1/

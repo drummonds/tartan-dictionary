@@ -2,12 +2,18 @@
 title: "Irish American"
 date: 2023-03-18
 ---
-**Bands:** [GGKGBGWGRGGGY](/stripes/ggkgbgwgrgggy/) · **Stripes:** [G DG K DG DB DG W DG R DG G DG LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G DG K DG DB DG W DG R DG G DG LY</span></span>
+**Bands:** [YGGGRGWGBGKGG](/stripes/ygggrgwgbgkgg/) · **Stripes:** [LY DG G DG R DG W DG DB DG K DG G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY DG G DG R DG W DG DB DG K DG G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1852
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Irish American Fancy
 
 ## Attestations
 
@@ -49,8 +55,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [McGran (Personal)](/setts/s14/r3g1w1r2dp2g10g3dp4g4dp2g32g3dp3lo2~x2/) — ΔT 1.25
-1. [Walsh (Name)](/setts/s12/ly1k1g1g16r1g16k1m2k2g1g12w1~x2/) — ΔT 1.30
-1. [Walsh](/setts/s12/ly1k1g1dg16r1dg16k1b2k2dg1g12w1~x2/) — ΔT 1.41
+1. [Walsh (Name)](/setts/s12/w1g12g1k2m2k1g16r1g16g1k1ly1~x2/) — ΔT 1.30
+1. [Walsh](/setts/s12/w1g12dg1k2b2k1dg16r1dg16g1k1ly1~x2/) — ΔT 1.41
 1. [St Brigid's Parish Triple Celebratio](/setts/s9/db2dy12k1b5w3b5k1g30ly2~x2/) — ΔT 1.53
 1. [California Department of Forestry (Corporate)](/setts/s11/y30dg5g3r1g3k1g3r1g3db1lo1~x4/) — ΔT 1.55
 1. [Bottle Green (Fashion)](/setts/s12/g30lo4k6lo2k2g4k2db5y4k2y3g2~x2/) — ΔT 1.56
@@ -61,8 +67,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r3g1w1r2dp2g10g3dp4g4dp2g32g3dp3lo2~x2/"><circle cx="323.3" cy="78.2" r="4" fill="#3465a4"><title>McGran (Personal)</title></circle></a><a href="/setts/s12/ly1k1g1g16r1g16k1m2k2g1g12w1~x2/"><circle cx="327.1" cy="119.5" r="4" fill="#3465a4"><title>Walsh (Name)</title></circle></a><a href="/setts/s12/ly1k1g1dg16r1dg16k1b2k2dg1g12w1~x2/"><circle cx="324.5" cy="117.8" r="4" fill="#3465a4"><title>Walsh</title></circle></a><a href="/setts/s9/db2dy12k1b5w3b5k1g30ly2~x2/"><circle cx="259.0" cy="90.4" r="4" fill="#3465a4"><title>St Brigid's Parish Triple Celebratio</title></circle></a><a href="/setts/s11/y30dg5g3r1g3k1g3r1g3db1lo1~x4/"><circle cx="372.9" cy="76.1" r="4" fill="#3465a4"><title>California Department of Forestry (Corporate)</title></circle></a><a href="/setts/s12/g30lo4k6lo2k2g4k2db5y4k2y3g2~x2/"><circle cx="288.9" cy="121.7" r="4" fill="#3465a4"><title>Bottle Green (Fashion)</title></circle></a><a href="/setts/s13/k2r3ly1dy2ly1dt16ly1g32ly1k2ly1r1k1~x2/"><circle cx="303.9" cy="69.6" r="4" fill="#3465a4"><title>Neumann - German Pipe Smokers (Corp)</title></circle></a><a href="/setts/s14/b14k3b14k10g40k1g3k1w3k1o3k1g40k10~x2/"><circle cx="329.9" cy="90.4" r="4" fill="#3465a4"><title>Irish Diaspora</title></circle></a><a href="/setts/s8/w4g10t24g42r3y4r4ly2/"><circle cx="302.9" cy="124.1" r="4" fill="#3465a4"><title>Muskoka</title></circle></a><a href="/setts/s12/k2w1g2dy6g2dt4g2k2g15r2g2k1~x4/"><circle cx="298.0" cy="145.7" r="4" fill="#3465a4"><title>MacClure Htg (Name)</title></circle></a><circle cx="315.6" cy="83.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r3g1w1r2dp2g10g3dp4g4dp2g32g3dp3lo2~x2/"><circle cx="323.0" cy="78.2" r="4" fill="#3465a4"><title>McGran (Personal)</title></circle></a><a href="/setts/s12/w1g12g1k2m2k1g16r1g16g1k1ly1~x2/"><circle cx="326.8" cy="119.6" r="4" fill="#3465a4"><title>Walsh (Name)</title></circle></a><a href="/setts/s12/w1g12dg1k2b2k1dg16r1dg16g1k1ly1~x2/"><circle cx="324.3" cy="117.9" r="4" fill="#3465a4"><title>Walsh</title></circle></a><a href="/setts/s9/db2dy12k1b5w3b5k1g30ly2~x2/"><circle cx="258.9" cy="90.5" r="4" fill="#3465a4"><title>St Brigid's Parish Triple Celebratio</title></circle></a><a href="/setts/s11/y30dg5g3r1g3k1g3r1g3db1lo1~x4/"><circle cx="372.5" cy="76.3" r="4" fill="#3465a4"><title>California Department of Forestry (Corporate)</title></circle></a><a href="/setts/s12/g30lo4k6lo2k2g4k2db5y4k2y3g2~x2/"><circle cx="288.7" cy="121.8" r="4" fill="#3465a4"><title>Bottle Green (Fashion)</title></circle></a><a href="/setts/s13/k2r3ly1dy2ly1dt16ly1g32ly1k2ly1r1k1~x2/"><circle cx="303.7" cy="69.6" r="4" fill="#3465a4"><title>Neumann - German Pipe Smokers (Corp)</title></circle></a><a href="/setts/s14/b14k3b14k10g40k1g3k1w3k1o3k1g40k10~x2/"><circle cx="329.7" cy="90.5" r="4" fill="#3465a4"><title>Irish Diaspora</title></circle></a><a href="/setts/s8/w4g10t24g42r3y4r4ly2/"><circle cx="302.6" cy="124.1" r="4" fill="#3465a4"><title>Muskoka</title></circle></a><a href="/setts/s12/k2w1g2dy6g2dt4g2k2g15r2g2k1~x4/"><circle cx="297.9" cy="145.7" r="4" fill="#3465a4"><title>MacClure Htg (Name)</title></circle></a><circle cx="315.4" cy="84.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/g50dg3k3dg9db7dg2w4dg2r5dg2g8dg5ly4~x2/

@@ -20,7 +20,7 @@ BKWKBK
 
 
 
-### P K LB K DB K <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">P K LB K DB K</span></span>
+### K DB K LB K P <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">K DB K LB K P</span></span>
 
 | Tartans |
 |---------------|

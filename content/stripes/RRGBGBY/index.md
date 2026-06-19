@@ -8,7 +8,7 @@ RRGBGBY
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/lg1t12dy1n9g1r12r1~x4/tartan.png)
+![Woven sample](/setts/s7/r1r12g1n9dy1t12lg1~x4/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RRGBGBY
 
 | Tartans |
 |---------------|
-| [Wallace Memorial Centenary](/setts/s7/lg1t12dy1n9g1r12r1~x4/)|
-|![Wallace Memorial Centenary example sett](/setts/s7/lg1t12dy1n9g1r12r1~x4/sett.png)|
+| [Wallace Memorial Centenary](/setts/s7/r1r12g1n9dy1t12lg1~x4/)|
+|![Wallace Memorial Centenary example sett](/setts/s7/r1r12g1n9dy1t12lg1~x4/sett.png)|
 

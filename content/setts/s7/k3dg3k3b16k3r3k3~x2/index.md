@@ -2,7 +2,7 @@
 title: "Eglinton"
 date: 2023-03-18
 ---
-**Bands:** [KGKBKRK](/stripes/kgkbkrk/) · **Stripes:** [K DG K B K R K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K DG K B K R K</span></span>
+**Bands:** [KRKBKGK](/stripes/krkbkgk/) · **Stripes:** [K R K B K DG K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K B K DG K</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -60,7 +60,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-K/6 DG6 K6 B32 K6 DR6 K/6
+K/6 DR6 K6 B32 K6 DG6 K/6
 ![Sett](sett.png)
 
 ## Palette
@@ -75,17 +75,17 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/6 DG6 K6 B32 K6 DR6 K/6 tartan")
+![Tartan detail](tartan.png "K/6 DR6 K6 B32 K6 DG6 K/6 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Eglinton](/setts/s7/k3dg3k3b16k3r3k3/) — ΔT 0.00
-1. [Eglinton](/setts/s7/k3g3k3t16k3r3k3~x2/) — ΔT 0.71
-1. [Montgomerie of Eglinton](/setts/s7/k4g5k4db28k4r5k4~x2/) — ΔT 0.81
+1. [Eglinton](/setts/s7/k3r3k3t16k3g3k3~x2/) — ΔT 0.71
+1. [Montgomerie of Eglinton](/setts/s7/k4r5k4db28k4g5k4~x2/) — ΔT 0.81
 1. [Hawick Rugby Club (Corporate)](/setts/s6/db2ly1db7w1k7w2~x6/) — ΔT 1.03
-1. [Hawick Rugby Club](/setts/s10/db2ly1db7w1k7w2k7w1db7ly1~x6/) — ΔT 1.13
+1. [Hawick Rugby Club](/setts/s10/db2ly1db7w1k7w2~x6/) — ΔT 1.13
 1. [Allianz Deutschland 2012](/setts/s7/n6db3n6db20k20db8w4~x2/) — ΔT 1.14
 1. [University of Notre Dame](/setts/s6/r5db35k25db8ly10r5~x2/) — ΔT 1.16
 1. [Montgomery](/setts/s7/k4dg5k4dp28k4r5k4/) — ΔT 1.31
@@ -94,8 +94,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k3dg3k3b16k3r3k3/"><circle cx="212.1" cy="215.1" r="4" fill="#3465a4"><title>Eglinton</title></circle></a><a href="/setts/s7/k3g3k3t16k3r3k3~x2/"><circle cx="200.9" cy="208.3" r="4" fill="#3465a4"><title>Eglinton</title></circle></a><a href="/setts/s7/k4g5k4db28k4r5k4~x2/"><circle cx="263.7" cy="202.1" r="4" fill="#3465a4"><title>Montgomerie of Eglinton</title></circle></a><a href="/setts/s6/db2ly1db7w1k7w2~x6/"><circle cx="197.1" cy="217.5" r="4" fill="#3465a4"><title>Hawick Rugby Club (Corporate)</title></circle></a><a href="/setts/s10/db2ly1db7w1k7w2k7w1db7ly1~x6/"><circle cx="195.2" cy="201.5" r="4" fill="#3465a4"><title>Hawick Rugby Club</title></circle></a><a href="/setts/s7/n6db3n6db20k20db8w4~x2/"><circle cx="199.5" cy="236.3" r="4" fill="#3465a4"><title>Allianz Deutschland 2012</title></circle></a><a href="/setts/s6/r5db35k25db8ly10r5~x2/"><circle cx="220.8" cy="221.3" r="4" fill="#3465a4"><title>University of Notre Dame</title></circle></a><a href="/setts/s7/k4dg5k4dp28k4r5k4/"><circle cx="268.6" cy="197.2" r="4" fill="#3465a4"><title>Montgomery</title></circle></a><a href="/setts/s9/db28k3db6k3db6k20o28k3w6~x2/"><circle cx="179.7" cy="185.3" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s6/r5db25w5db3dg25db3~x2/"><circle cx="250.3" cy="215.7" r="4" fill="#3465a4"><title>Thayer USA</title></circle></a><circle cx="212.1" cy="215.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k3dg3k3b16k3r3k3/"><circle cx="212.3" cy="215.0" r="4" fill="#3465a4"><title>Eglinton</title></circle></a><a href="/setts/s7/k3r3k3t16k3g3k3~x2/"><circle cx="201.0" cy="208.1" r="4" fill="#3465a4"><title>Eglinton</title></circle></a><a href="/setts/s7/k4r5k4db28k4g5k4~x2/"><circle cx="263.8" cy="202.0" r="4" fill="#3465a4"><title>Montgomerie of Eglinton</title></circle></a><a href="/setts/s6/db2ly1db7w1k7w2~x6/"><circle cx="197.2" cy="217.3" r="4" fill="#3465a4"><title>Hawick Rugby Club (Corporate)</title></circle></a><a href="/setts/s10/db2ly1db7w1k7w2~x6/"><circle cx="195.3" cy="201.4" r="4" fill="#3465a4"><title>Hawick Rugby Club</title></circle></a><a href="/setts/s7/n6db3n6db20k20db8w4~x2/"><circle cx="199.7" cy="236.2" r="4" fill="#3465a4"><title>Allianz Deutschland 2012</title></circle></a><a href="/setts/s6/r5db35k25db8ly10r5~x2/"><circle cx="220.8" cy="221.1" r="4" fill="#3465a4"><title>University of Notre Dame</title></circle></a><a href="/setts/s7/k4dg5k4dp28k4r5k4/"><circle cx="268.6" cy="197.1" r="4" fill="#3465a4"><title>Montgomery</title></circle></a><a href="/setts/s9/db28k3db6k3db6k20o28k3w6~x2/"><circle cx="179.8" cy="185.3" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s6/r5db25w5db3dg25db3~x2/"><circle cx="250.4" cy="215.6" r="4" fill="#3465a4"><title>Thayer USA</title></circle></a><circle cx="212.3" cy="215.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k3dg3k3b16k3r3k3~x2/

@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6398
 
 ## Thread count
-T/4 LR4 LB44 LR20 T/20
+T/20 LR20 LB44 LR4 T/4
 ![Sett](sett.png)
 
 ## Palette
@@ -42,7 +42,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "T/4 LR4 LB44 LR20 T/20 tartan")
+![Tartan detail](tartan.png "T/20 LR20 LB44 LR4 T/4 tartan")
 
 ## Nearest tartans
 
@@ -61,8 +61,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/o56w30o8r10o3r20/"><circle cx="319.3" cy="183.1" r="4" fill="#3465a4"><title>Walsh, Michael Edward (Personal)</title></circle></a><a href="/setts/s6/lr56w30lr8r10lr3r20/"><circle cx="321.4" cy="182.3" r="4" fill="#3465a4"><title>Walsh, Michael Edward (Personal)</title></circle></a><a href="/setts/s5/r4lb30y14lb11y4~x2/"><circle cx="234.9" cy="220.9" r="4" fill="#3465a4"><title>Trinity Bicycles (Corporate)</title></circle></a><a href="/setts/s6/k4t28r6w12r12w3~x2/"><circle cx="204.1" cy="195.4" r="4" fill="#3465a4"><title>Thompson, D.C. (Personal)</title></circle></a><a href="/setts/s6/g4lb31g7r14g11r3~x2/"><circle cx="240.5" cy="210.4" r="4" fill="#3465a4"><title>Gleneagles USA (Dalgleish)</title></circle></a><a href="/setts/s4/t15w2r20w3~x4/"><circle cx="301.2" cy="230.5" r="4" fill="#3465a4"><title>Masai Shuka 24 (Artefact)</title></circle></a><a href="/setts/s7/dy8lr29dy8lo3dy8lr8lo3~x2/"><circle cx="312.7" cy="200.3" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/setts/s5/k3w29m9lb19k3~x2/"><circle cx="216.4" cy="200.0" r="4" fill="#3465a4"><title>Islander Dress</title></circle></a><a href="/setts/s4/o22ly10w3db8~x2/"><circle cx="219.8" cy="235.8" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/setts/s6/r12dt2ly2lb2dt4lb3~x2/"><circle cx="222.0" cy="201.8" r="4" fill="#3465a4"><title>Winnipeg Embroiders' Guild (Corp.)</title></circle></a><circle cx="273.4" cy="217.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/o56w30o8r10o3r20/"><circle cx="318.8" cy="182.9" r="4" fill="#3465a4"><title>Walsh, Michael Edward (Personal)</title></circle></a><a href="/setts/s6/lr56w30lr8r10lr3r20/"><circle cx="320.9" cy="182.0" r="4" fill="#3465a4"><title>Walsh, Michael Edward (Personal)</title></circle></a><a href="/setts/s5/r4lb30y14lb11y4~x2/"><circle cx="234.6" cy="220.7" r="4" fill="#3465a4"><title>Trinity Bicycles (Corporate)</title></circle></a><a href="/setts/s6/k4t28r6w12r12w3~x2/"><circle cx="203.8" cy="195.3" r="4" fill="#3465a4"><title>Thompson, D.C. (Personal)</title></circle></a><a href="/setts/s6/g4lb31g7r14g11r3~x2/"><circle cx="240.2" cy="210.2" r="4" fill="#3465a4"><title>Gleneagles USA (Dalgleish)</title></circle></a><a href="/setts/s4/t15w2r20w3~x4/"><circle cx="300.9" cy="230.3" r="4" fill="#3465a4"><title>Masai Shuka 24 (Artefact)</title></circle></a><a href="/setts/s7/dy8lr29dy8lo3dy8lr8lo3~x2/"><circle cx="312.3" cy="200.1" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/setts/s5/k3w29m9lb19k3~x2/"><circle cx="216.0" cy="199.9" r="4" fill="#3465a4"><title>Islander Dress</title></circle></a><a href="/setts/s4/o22ly10w3db8~x2/"><circle cx="219.6" cy="235.6" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/setts/s6/r12dt2ly2lb2dt4lb3~x2/"><circle cx="221.6" cy="201.7" r="4" fill="#3465a4"><title>Winnipeg Embroiders' Guild (Corp.)</title></circle></a><circle cx="273.1" cy="217.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/dy5r5lb11r1dy1~x4/

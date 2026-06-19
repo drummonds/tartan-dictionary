@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-K/10 B24 LN4 R4 LN4 B24 K16 R8 G12 R4 G4 R/16
+R/16 G4 R4 G12 R8 K16 B24 LN4 R4 LN4 B24 K/10
 ![Sett](sett.png)
 
 ## Palette
@@ -919,12 +922,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Black Watch (Piper)](/setts/s13/db12w2db2w2db2r10dg12r3dg12r10db12w2db2~x2/) — ΔT 0.98
 1. [Ryukoku University Heian Junior High School](/setts/s10/lp4k16lr5n8lr2p2lr2p2n8k3~x2/) — ΔT 1.01
 1. [Kervegant, Suzanne (Personal)](/setts/s10/g6db11lb8k4lb8r4lb8k27lb4r4~x2/) — ΔT 1.03
-1. [Clare](/setts/s11/ly3db2g14db2m14db2m14db2g14db14m3~x2/) — ΔT 1.05
+1. [Clare](/setts/s11/m3db14g14db2m14db2m14db2g14db2ly3~x2/) — ΔT 1.05
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db18k3db5k3db18g6k5g6o12r5o12r3~x2/"><circle cx="132.4" cy="191.2" r="4" fill="#3465a4"><title>Longford Irish County Tartan Tartan Number: 2281. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/r20g3r3g13r6k10db14w3r3w3db14k12~x2/"><circle cx="81.8" cy="181.3" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/setts/s10/m5k15lr5n9lr2dp2lr2dp2n9k3~x2/"><circle cx="99.0" cy="174.6" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior Corporate Tartan Tartan Number: 10716. Earliest known date: 12 October 2012 This tartan represents the school's hope for its students' future. It is inspired by the colours of the clouds whilst the sun is rising. Beyond the clouds there is a light of hope which is purple. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/r4o14o2o4o2k6o3k6k14r2k4r4~x2/"><circle cx="97.6" cy="173.9" r="4" fill="#3465a4"><title>Kinloch Anderson Limited</title></circle></a><a href="/setts/s12/db2r4k7r8g10k4ly2k8db4r4db14r2~x2/"><circle cx="69.3" cy="184.7" r="4" fill="#3465a4"><title>Unidentified, pattern</title></circle></a><a href="/setts/s13/db17r3db4r5db20r3k20g20r5g4r3k3ly11~x2/"><circle cx="87.2" cy="165.7" r="4" fill="#3465a4"><title>MacSporran</title></circle></a><a href="/setts/s13/db12w2db2w2db2r10dg12r3dg12r10db12w2db2~x2/"><circle cx="130.0" cy="193.0" r="4" fill="#3465a4"><title>Black Watch (Piper)</title></circle></a><a href="/setts/s10/lp4k16lr5n8lr2p2lr2p2n8k3~x2/"><circle cx="113.4" cy="165.8" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior High School</title></circle></a><a href="/setts/s10/g6db11lb8k4lb8r4lb8k27lb4r4~x2/"><circle cx="108.2" cy="168.6" r="4" fill="#3465a4"><title>Kervegant, Suzanne (Personal)</title></circle></a><a href="/setts/s11/ly3db2g14db2m14db2m14db2g14db14m3~x2/"><circle cx="122.1" cy="181.3" r="4" fill="#3465a4"><title>Clare</title></circle></a><circle cx="94.7" cy="182.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db18k3db5k3db18g6k5g6o12r5o12r3~x2/"><circle cx="132.6" cy="191.3" r="4" fill="#3465a4"><title>Longford Irish County Tartan Tartan Number: 2281. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/r20g3r3g13r6k10db14w3r3w3db14k12~x2/"><circle cx="81.9" cy="181.4" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/setts/s10/m5k15lr5n9lr2dp2lr2dp2n9k3~x2/"><circle cx="99.2" cy="174.6" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior Corporate Tartan Tartan Number: 10716. Earliest known date: 12 October 2012 This tartan represents the school's hope for its students' future. It is inspired by the colours of the clouds whilst the sun is rising. Beyond the clouds there is a light of hope which is purple. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/r4o14o2o4o2k6o3k6k14r2k4r4~x2/"><circle cx="97.7" cy="174.0" r="4" fill="#3465a4"><title>Kinloch Anderson Limited</title></circle></a><a href="/setts/s12/db2r4k7r8g10k4ly2k8db4r4db14r2~x2/"><circle cx="69.5" cy="184.8" r="4" fill="#3465a4"><title>Unidentified, pattern</title></circle></a><a href="/setts/s13/db17r3db4r5db20r3k20g20r5g4r3k3ly11~x2/"><circle cx="87.3" cy="165.7" r="4" fill="#3465a4"><title>MacSporran</title></circle></a><a href="/setts/s13/db12w2db2w2db2r10dg12r3dg12r10db12w2db2~x2/"><circle cx="130.0" cy="193.0" r="4" fill="#3465a4"><title>Black Watch (Piper)</title></circle></a><a href="/setts/s10/lp4k16lr5n8lr2p2lr2p2n8k3~x2/"><circle cx="113.5" cy="165.8" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior High School</title></circle></a><a href="/setts/s10/g6db11lb8k4lb8r4lb8k27lb4r4~x2/"><circle cx="108.2" cy="168.6" r="4" fill="#3465a4"><title>Kervegant, Suzanne (Personal)</title></circle></a><a href="/setts/s11/m3db14g14db2m14db2m14db2g14db2ly3~x2/"><circle cx="122.1" cy="181.4" r="4" fill="#3465a4"><title>Clare</title></circle></a><circle cx="94.8" cy="182.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r8g2r2g6r4k8db12w2r2w2db12k5~x2/

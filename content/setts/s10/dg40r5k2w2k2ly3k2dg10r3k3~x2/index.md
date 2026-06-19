@@ -2,12 +2,18 @@
 title: "Palmer, Arnold"
 date: 2023-03-18
 ---
-**Bands:** [GRKWKYKGRK](/stripes/grkwkykgrk/) · **Stripes:** [DG R K W K LY K DG R K](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">DG R K W K LY K DG R K</span></span>
+**Bands:** [KRGKYKWKRG](/stripes/krgkykwkrg/) · **Stripes:** [K R DG K LY K W K R DG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">K R DG K LY K W K R DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3287
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Palmer, Arnold
 
 ## Attestations
 
@@ -56,8 +62,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg20r1ly1r1lb1dg1r1lb1db5~x4/"><circle cx="403.3" cy="123.1" r="4" fill="#3465a4"><title>Scotts Valley</title></circle></a><a href="/setts/s10/g30ly2k3r2k2r2k3ly2k2g4~x2/"><circle cx="401.5" cy="142.5" r="4" fill="#3465a4"><title>Forde</title></circle></a><a href="/setts/s15/ly4g39db9k3db5k3db9g32r2g3r2g5ly2g3r3~x2/"><circle cx="391.9" cy="122.8" r="4" fill="#3465a4"><title>Holmes (Clan)</title></circle></a><a href="/setts/s7/k3g2k3g18r2db2lo1~x4/"><circle cx="379.6" cy="155.0" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/setts/s10/g4lb1db2r1g1r1db2lb1g14lo1~x4/"><circle cx="383.4" cy="139.4" r="4" fill="#3465a4"><title>Seattle (District)</title></circle></a><a href="/setts/s7/r5k3r9dg56t4dg2w3/"><circle cx="471.1" cy="132.1" r="4" fill="#3465a4"><title>MTV</title></circle></a><a href="/setts/s13/g24g2b2k3lo1k1lr1k1g4r2k1r2lr1~x4/"><circle cx="403.4" cy="88.5" r="4" fill="#3465a4"><title>Princess Mary #2</title></circle></a><a href="/setts/s13/r4g40db12lo2db12g30k2g4k2g4lo2g3k3~x2/"><circle cx="406.2" cy="135.8" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/setts/s8/g10lo3w2k2g8k22g43lo4~x2/"><circle cx="383.4" cy="151.3" r="4" fill="#3465a4"><title>Celtic Pride</title></circle></a><a href="/setts/s9/r4g3dp3g44dp16g10w2g2dp2~x2/"><circle cx="450.2" cy="148.0" r="4" fill="#3465a4"><title>Glenfeshie (Personal)</title></circle></a><circle cx="438.8" cy="127.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg20r1ly1r1lb1dg1r1lb1db5~x4/"><circle cx="403.1" cy="122.9" r="4" fill="#3465a4"><title>Scotts Valley</title></circle></a><a href="/setts/s10/g30ly2k3r2k2r2k3ly2k2g4~x2/"><circle cx="401.2" cy="142.3" r="4" fill="#3465a4"><title>Forde</title></circle></a><a href="/setts/s15/ly4g39db9k3db5k3db9g32r2g3r2g5ly2g3r3~x2/"><circle cx="391.6" cy="122.7" r="4" fill="#3465a4"><title>Holmes (Clan)</title></circle></a><a href="/setts/s7/k3g2k3g18r2db2lo1~x4/"><circle cx="379.4" cy="154.9" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/setts/s10/g4lb1db2r1g1r1db2lb1g14lo1~x4/"><circle cx="383.1" cy="139.3" r="4" fill="#3465a4"><title>Seattle (District)</title></circle></a><a href="/setts/s7/r5k3r9dg56t4dg2w3/"><circle cx="470.9" cy="131.9" r="4" fill="#3465a4"><title>MTV</title></circle></a><a href="/setts/s13/g24g2b2k3lo1k1lr1k1g4r2k1r2lr1~x4/"><circle cx="403.1" cy="88.4" r="4" fill="#3465a4"><title>Princess Mary #2</title></circle></a><a href="/setts/s13/r4g40db12lo2db12g30k2g4k2g4lo2g3k3~x2/"><circle cx="405.9" cy="135.7" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/setts/s8/g10lo3w2k2g8k22g43lo4~x2/"><circle cx="383.2" cy="151.2" r="4" fill="#3465a4"><title>Celtic Pride</title></circle></a><a href="/setts/s9/r4g3dp3g44dp16g10w2g2dp2~x2/"><circle cx="449.9" cy="147.7" r="4" fill="#3465a4"><title>Glenfeshie (Personal)</title></circle></a><circle cx="438.4" cy="127.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/dg40r5k2w2k2ly3k2dg10r3k3~x2/

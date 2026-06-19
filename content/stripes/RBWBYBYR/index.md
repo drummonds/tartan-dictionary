@@ -21,14 +21,14 @@ RBWBYBYR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### R DB W DB LY DB LY R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB W DB LY DB LY R</span></span>
+### R LY DB LY DB W DB R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LY DB LY DB W DB R</span></span>
 
 | Tartans |
 |---------------|
 | [Earl of Inverness (Royal)](/setts/s8/r100db10w5db14ly4db8ly4r24/)|
 |![Earl of Inverness (Royal) example sett](/setts/s8/r100db10w5db14ly4db8ly4r24/sett.png)|
 
-### R DB W DB LY T LY R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB W DB LY T LY R</span></span>
+### R LY T LY DB W DB R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LY T LY DB W DB R</span></span>
 
 | Tartans |
 |---------------|

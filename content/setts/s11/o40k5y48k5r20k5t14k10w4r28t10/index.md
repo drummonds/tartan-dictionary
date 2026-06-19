@@ -2,7 +2,7 @@
 title: "Kildare County, Crest Range"
 date: 2023-03-18
 ---
-**Bands:** [BRWKBKRKGKR](/stripes/brwkbkrkgkr/) · **Stripes:** [T R W K T K R K Y K O](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">T R W K T K R K Y K O</span></span>
+**Bands:** [RKGKRKBKWRB](/stripes/rkgkrkbkwrb/) · **Stripes:** [O K Y K R K T K W R T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">O K Y K R K T K W R T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 3087
 
 ## Thread count
-N/10 DR28 LN4 K10 N14 K5 DR20 K5 G48 K5 O/40
+O/40 K5 G48 K5 DR20 K5 N14 K10 LN4 DR28 N/10
 ![Sett](sett.png)
 
 ## Palette
@@ -38,19 +38,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Kildare County Crest (Fashion)](/setts/s11/lo40k5y48k5r20k5lr14k10w4r28lr10/) — ΔT 0.49
 1. [Caledonian (WCWM)](/setts/s11/r4lb2r6k2r6do16lo2k12o10k2o1~x2/) — ΔT 1.12
-1. [Leitrim, County](/setts/s10/lb3do18lb4k3lb4o13lb3n18do2lo3~x2/) — ΔT 1.14
+1. [Leitrim, County](/setts/s10/lo3do2n18lb3o13lb4k3lb4do18lb3~x2/) — ΔT 1.14
 1. [Brittany National Walking](/setts/s9/t4dy27lo8k4lo8k4lo8r11ly3~x2/) — ΔT 1.14
 1. [Bridge of Weir Leather Co. (Corp)](/setts/s12/r3ly14y3ly3y3ly4y11dt11r11r11ly1dt1~x2/) — ΔT 1.15
 1. [Bruce of Kinnaird (Vivienne Westwood Design)](/setts/s10/dy22y22dr2lb6dr2lo2dr16g5dy8lb2~x2/) — ΔT 1.16
 1. [Fitzsimmons Red (Name)](/setts/s10/dy3y2lo18k4r15k4dy6k4lo2y3~x2/) — ΔT 1.22
-1. [Goddin mab Gododdin (Personal)](/setts/s8/lo4dp2lo21g3dy26dt24lo3r4~x2/) — ΔT 1.33
+1. [Goddin mab Gododdin (Personal)](/setts/s8/r4lo3dt24dy26g3lo21dp2lo4~x2/) — ΔT 1.33
 1. [MacPherson #9](/setts/s15/r13lr4r13dg28lr3dy26lr10dy2dy2dy2lr10r14lr4dy4r4~x2/) — ΔT 1.33
 1. [MacCullough Family Tartan Tartan Number: 3214. Earliest known date: 2000 I would like to let you know that working with Peter MacDonald, he designed a tartan for me that was registered with the Scottish Tartan Authority on 5 December 2000 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/o5k3w2r20db10g2w1r1g20k4o3~x2/) — ΔT 1.34
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/lo40k5y48k5r20k5lr14k10w4r28lr10/"><circle cx="96.8" cy="137.5" r="4" fill="#3465a4"><title>Kildare County Crest (Fashion)</title></circle></a><a href="/setts/s11/r4lb2r6k2r6do16lo2k12o10k2o1~x2/"><circle cx="125.4" cy="140.9" r="4" fill="#3465a4"><title>Caledonian (WCWM)</title></circle></a><a href="/setts/s10/lb3do18lb4k3lb4o13lb3n18do2lo3~x2/"><circle cx="114.6" cy="156.8" r="4" fill="#3465a4"><title>Leitrim, County</title></circle></a><a href="/setts/s9/t4dy27lo8k4lo8k4lo8r11ly3~x2/"><circle cx="152.6" cy="169.6" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><a href="/setts/s12/r3ly14y3ly3y3ly4y11dt11r11r11ly1dt1~x2/"><circle cx="136.2" cy="156.6" r="4" fill="#3465a4"><title>Bridge of Weir Leather Co. (Corp)</title></circle></a><a href="/setts/s10/dy22y22dr2lb6dr2lo2dr16g5dy8lb2~x2/"><circle cx="170.4" cy="159.8" r="4" fill="#3465a4"><title>Bruce of Kinnaird (Vivienne Westwood Design)</title></circle></a><a href="/setts/s10/dy3y2lo18k4r15k4dy6k4lo2y3~x2/"><circle cx="156.6" cy="174.5" r="4" fill="#3465a4"><title>Fitzsimmons Red (Name)</title></circle></a><a href="/setts/s8/lo4dp2lo21g3dy26dt24lo3r4~x2/"><circle cx="175.5" cy="159.8" r="4" fill="#3465a4"><title>Goddin mab Gododdin (Personal)</title></circle></a><a href="/setts/s15/r13lr4r13dg28lr3dy26lr10dy2dy2dy2lr10r14lr4dy4r4~x2/"><circle cx="162.9" cy="140.5" r="4" fill="#3465a4"><title>MacPherson #9</title></circle></a><a href="/setts/s11/o5k3w2r20db10g2w1r1g20k4o3~x2/"><circle cx="150.6" cy="103.6" r="4" fill="#3465a4"><title>MacCullough Family Tartan Tartan Number: 3214. Earliest known date: 2000 I would like to let you know that working with Peter MacDonald, he designed a tartan for me that was registered with the Scottish Tartan Authority on 5 December 2000 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="109.4" cy="142.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/lo40k5y48k5r20k5lr14k10w4r28lr10/"><circle cx="96.7" cy="137.7" r="4" fill="#3465a4"><title>Kildare County Crest (Fashion)</title></circle></a><a href="/setts/s11/r4lb2r6k2r6do16lo2k12o10k2o1~x2/"><circle cx="125.4" cy="141.2" r="4" fill="#3465a4"><title>Caledonian (WCWM)</title></circle></a><a href="/setts/s10/lo3do2n18lb3o13lb4k3lb4do18lb3~x2/"><circle cx="114.6" cy="157.0" r="4" fill="#3465a4"><title>Leitrim, County</title></circle></a><a href="/setts/s9/t4dy27lo8k4lo8k4lo8r11ly3~x2/"><circle cx="152.5" cy="169.8" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><a href="/setts/s12/r3ly14y3ly3y3ly4y11dt11r11r11ly1dt1~x2/"><circle cx="136.1" cy="156.8" r="4" fill="#3465a4"><title>Bridge of Weir Leather Co. (Corp)</title></circle></a><a href="/setts/s10/dy22y22dr2lb6dr2lo2dr16g5dy8lb2~x2/"><circle cx="170.3" cy="160.0" r="4" fill="#3465a4"><title>Bruce of Kinnaird (Vivienne Westwood Design)</title></circle></a><a href="/setts/s10/dy3y2lo18k4r15k4dy6k4lo2y3~x2/"><circle cx="156.5" cy="174.7" r="4" fill="#3465a4"><title>Fitzsimmons Red (Name)</title></circle></a><a href="/setts/s8/r4lo3dt24dy26g3lo21dp2lo4~x2/"><circle cx="175.5" cy="159.9" r="4" fill="#3465a4"><title>Goddin mab Gododdin (Personal)</title></circle></a><a href="/setts/s15/r13lr4r13dg28lr3dy26lr10dy2dy2dy2lr10r14lr4dy4r4~x2/"><circle cx="162.7" cy="140.7" r="4" fill="#3465a4"><title>MacPherson #9</title></circle></a><a href="/setts/s11/o5k3w2r20db10g2w1r1g20k4o3~x2/"><circle cx="150.5" cy="103.8" r="4" fill="#3465a4"><title>MacCullough Family Tartan Tartan Number: 3214. Earliest known date: 2000 I would like to let you know that working with Peter MacDonald, he designed a tartan for me that was registered with the Scottish Tartan Authority on 5 December 2000 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="109.3" cy="142.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/o40k5y48k5r20k5t14k10w4r28t10/

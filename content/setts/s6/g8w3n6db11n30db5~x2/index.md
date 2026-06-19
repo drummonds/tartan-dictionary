@@ -2,7 +2,7 @@
 title: "Devlin, Craig (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BBBBWG](/stripes/bbbbwg/) · **Stripes:** [DB N DB N W G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB N DB N W G</span></span>
+**Bands:** [GWBBBB](/stripes/gwbbbb/) · **Stripes:** [G W N DB N DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="seq">G W N DB N DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/
 Original link http://www.tartansauthority.com/tartan-ferret/display/10514/
 
 ## Thread count
-DB/10 N60 DB22 N12 LN6 G/16
+G/16 LN6 N12 DB22 N60 DB/10
 ![Sett](sett.png)
 
 ## Palette
@@ -25,7 +25,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/10 N60 DB22 N12 LN6 G/16 tartan")
+![Tartan detail](tartan.png "G/16 LN6 N12 DB22 N60 DB/10 tartan")
 
 ## Nearest tartans
 
@@ -37,15 +37,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Balfour blue & brown](/setts/s6/db18ly2o6ly2o19r3~x2/) — ΔT 1.27
 1. [Dama Classic](/setts/s8/y30ly3y3ly3y12do30k3do5~x2/) — ΔT 1.29
 1. [Rhode Island, The State of](/setts/s6/g15dt2w2dt11n28dt4~x2/) — ΔT 1.30
-1. [Hector James](/setts/s5/o2g11db27g5r2~x2/) — ΔT 1.35
+1. [Hector James](/setts/s5/r2g5db27g11o2~x2/) — ΔT 1.35
 1. [Cameron Hunting Brown Clan Tartan Tartan Number: 1745. Earliest known date: 1916 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/dy15r5dy30db32dy4ly3~x2/) — ΔT 1.35
 1. [Lawrence of Broughty Ferry](/setts/s6/dg20k2dg20dp25w2n3~x2/) — ΔT 1.42
 1. [Hesco](/setts/s7/dp3n24n10n2g11n8w3~x2/) — ΔT 1.42
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dt3t14dt3o16dt34r3~x2/"><circle cx="333.0" cy="225.4" r="4" fill="#3465a4"><title>Thorburn (Lochcarron)</title></circle></a><a href="/setts/s6/do15r5do30b32do4lo3~x2/"><circle cx="349.1" cy="234.4" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/setts/s6/o15r5o30db32o4ly3~x2/"><circle cx="379.1" cy="245.0" r="4" fill="#3465a4"><title>Cameron, hunting</title></circle></a><a href="/setts/s6/db18ly2o6ly2o19r3~x2/"><circle cx="317.5" cy="226.6" r="4" fill="#3465a4"><title>Balfour blue &amp; brown</title></circle></a><a href="/setts/s8/y30ly3y3ly3y12do30k3do5~x2/"><circle cx="336.0" cy="212.2" r="4" fill="#3465a4"><title>Dama Classic</title></circle></a><a href="/setts/s6/g15dt2w2dt11n28dt4~x2/"><circle cx="299.5" cy="222.8" r="4" fill="#3465a4"><title>Rhode Island, The State of</title></circle></a><a href="/setts/s5/o2g11db27g5r2~x2/"><circle cx="379.2" cy="224.0" r="4" fill="#3465a4"><title>Hector James</title></circle></a><a href="/setts/s6/dy15r5dy30db32dy4ly3~x2/"><circle cx="356.0" cy="235.2" r="4" fill="#3465a4"><title>Cameron Hunting Brown Clan Tartan Tartan Number: 1745. Earliest known date: 1916 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/dg20k2dg20dp25w2n3~x2/"><circle cx="360.6" cy="237.2" r="4" fill="#3465a4"><title>Lawrence of Broughty Ferry</title></circle></a><a href="/setts/s7/dp3n24n10n2g11n8w3~x2/"><circle cx="324.3" cy="217.5" r="4" fill="#3465a4"><title>Hesco</title></circle></a><circle cx="357.7" cy="242.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dt3t14dt3o16dt34r3~x2/"><circle cx="333.0" cy="225.4" r="4" fill="#3465a4"><title>Thorburn (Lochcarron)</title></circle></a><a href="/setts/s6/do15r5do30b32do4lo3~x2/"><circle cx="349.0" cy="234.3" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/setts/s6/o15r5o30db32o4ly3~x2/"><circle cx="378.9" cy="245.0" r="4" fill="#3465a4"><title>Cameron, hunting</title></circle></a><a href="/setts/s6/db18ly2o6ly2o19r3~x2/"><circle cx="317.3" cy="226.5" r="4" fill="#3465a4"><title>Balfour blue &amp; brown</title></circle></a><a href="/setts/s8/y30ly3y3ly3y12do30k3do5~x2/"><circle cx="335.9" cy="212.2" r="4" fill="#3465a4"><title>Dama Classic</title></circle></a><a href="/setts/s6/g15dt2w2dt11n28dt4~x2/"><circle cx="299.5" cy="222.8" r="4" fill="#3465a4"><title>Rhode Island, The State of</title></circle></a><a href="/setts/s5/r2g5db27g11o2~x2/"><circle cx="379.1" cy="223.9" r="4" fill="#3465a4"><title>Hector James</title></circle></a><a href="/setts/s6/dy15r5dy30db32dy4ly3~x2/"><circle cx="355.9" cy="235.1" r="4" fill="#3465a4"><title>Cameron Hunting Brown Clan Tartan Tartan Number: 1745. Earliest known date: 1916 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/dg20k2dg20dp25w2n3~x2/"><circle cx="360.6" cy="237.3" r="4" fill="#3465a4"><title>Lawrence of Broughty Ferry</title></circle></a><a href="/setts/s7/dp3n24n10n2g11n8w3~x2/"><circle cx="324.2" cy="217.5" r="4" fill="#3465a4"><title>Hesco</title></circle></a><circle cx="357.6" cy="242.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/g8w3n6db11n30db5~x2/

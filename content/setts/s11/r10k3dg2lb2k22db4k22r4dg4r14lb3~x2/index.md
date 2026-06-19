@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2379
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacDonald, Sir John A
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -45,19 +51,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [York Region Pipe Band](/setts/s11/r10k3g2lb2k22db4k22r4g4r14lb3~x2/) — ΔT 0.14
 1. [MacDonald, Sir John A.](/setts/s11/r12k4g2w2k21db3k22r4g4r15w3~x2/) — ΔT 0.80
-1. [Canterbury (Fashion)](/setts/s11/lo2k2r14k2r5k4dg4k4r5k20r2~x2/) — ΔT 1.16
+1. [Canterbury (Fashion)](/setts/s11/r2k20r5k4dg4k4r5k2r14k2lo2~x2/) — ΔT 1.16
 1. [Grady, Highlands](/setts/s9/k36r3db3r3k8db23r18g3r3~x2/) — ΔT 1.39
 1. [Sonsub Corporate Tartan Tartan Number: 6984. Earliest known date: 2006 Corporate colours for Sonsub Ltd, Bridge of Don, Aberdeen. Sonsub is a well known provider of remote subsea systems technology, and provides services to the North Atlantic, Mediterranean, Africa, Caspian and Middle East. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/k30k5k19k5k2n20ly2n20k5ly4~x2/) — ΔT 1.41
 1. [de Meuron (Neuchâtel) Dress, The](/setts/s7/k40dp5k6o26lr13k9dy3~x2/) — ΔT 1.42
-1. [Drambuie](/setts/s6/ly6k5o4k48r36w6/) — ΔT 1.43
+1. [Drambuie](/setts/s6/w6r36k48o4k5ly6/) — ΔT 1.43
 1. [Highland Spring (1985) (Corporate)](/setts/s12/r16k2r9k12k2k10k3k2k3k2k3r10~x2/) — ΔT 1.49
-1. [Model T Ford (Corporate)](/setts/s10/k4dt16k3dt3k32lo7k3r10k2w4~x2/) — ΔT 1.50
+1. [Model T Ford (Corporate)](/setts/s10/k4dt16k3dt3k32lo7k3r10k2w4~x2/) — ΔT 1.51
 1. [Guthrie](/setts/s9/k1g8k9r1k1r1k9db8r1~x6/) — ΔT 1.56
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r10k3g2lb2k22db4k22r4g4r14lb3~x2/"><circle cx="240.7" cy="157.2" r="4" fill="#3465a4"><title>York Region Pipe Band</title></circle></a><a href="/setts/s11/r12k4g2w2k21db3k22r4g4r15w3~x2/"><circle cx="228.7" cy="149.0" r="4" fill="#3465a4"><title>MacDonald, Sir John A.</title></circle></a><a href="/setts/s11/lo2k2r14k2r5k4dg4k4r5k20r2~x2/"><circle cx="282.9" cy="177.7" r="4" fill="#3465a4"><title>Canterbury (Fashion)</title></circle></a><a href="/setts/s9/k36r3db3r3k8db23r18g3r3~x2/"><circle cx="232.5" cy="166.5" r="4" fill="#3465a4"><title>Grady, Highlands</title></circle></a><a href="/setts/s10/k30k5k19k5k2n20ly2n20k5ly4~x2/"><circle cx="237.8" cy="175.8" r="4" fill="#3465a4"><title>Sonsub Corporate Tartan Tartan Number: 6984. Earliest known date: 2006 Corporate colours for Sonsub Ltd, Bridge of Don, Aberdeen. Sonsub is a well known provider of remote subsea systems technology, and provides services to the North Atlantic, Mediterranean, Africa, Caspian and Middle East. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/k40dp5k6o26lr13k9dy3~x2/"><circle cx="239.5" cy="164.6" r="4" fill="#3465a4"><title>de Meuron (Neuchâtel) Dress, The</title></circle></a><a href="/setts/s6/ly6k5o4k48r36w6/"><circle cx="252.9" cy="164.2" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/setts/s12/r16k2r9k12k2k10k3k2k3k2k3r10~x2/"><circle cx="185.6" cy="164.7" r="4" fill="#3465a4"><title>Highland Spring (1985) (Corporate)</title></circle></a><a href="/setts/s10/k4dt16k3dt3k32lo7k3r10k2w4~x2/"><circle cx="264.7" cy="140.4" r="4" fill="#3465a4"><title>Model T Ford (Corporate)</title></circle></a><a href="/setts/s9/k1g8k9r1k1r1k9db8r1~x6/"><circle cx="233.0" cy="197.2" r="4" fill="#3465a4"><title>Guthrie</title></circle></a><circle cx="244.1" cy="158.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r10k3g2lb2k22db4k22r4g4r14lb3~x2/"><circle cx="240.8" cy="157.1" r="4" fill="#3465a4"><title>York Region Pipe Band</title></circle></a><a href="/setts/s11/r12k4g2w2k21db3k22r4g4r15w3~x2/"><circle cx="228.7" cy="148.9" r="4" fill="#3465a4"><title>MacDonald, Sir John A.</title></circle></a><a href="/setts/s11/r2k20r5k4dg4k4r5k2r14k2lo2~x2/"><circle cx="283.0" cy="177.6" r="4" fill="#3465a4"><title>Canterbury (Fashion)</title></circle></a><a href="/setts/s9/k36r3db3r3k8db23r18g3r3~x2/"><circle cx="232.6" cy="166.5" r="4" fill="#3465a4"><title>Grady, Highlands</title></circle></a><a href="/setts/s10/k30k5k19k5k2n20ly2n20k5ly4~x2/"><circle cx="238.0" cy="175.7" r="4" fill="#3465a4"><title>Sonsub Corporate Tartan Tartan Number: 6984. Earliest known date: 2006 Corporate colours for Sonsub Ltd, Bridge of Don, Aberdeen. Sonsub is a well known provider of remote subsea systems technology, and provides services to the North Atlantic, Mediterranean, Africa, Caspian and Middle East. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/k40dp5k6o26lr13k9dy3~x2/"><circle cx="239.5" cy="164.4" r="4" fill="#3465a4"><title>de Meuron (Neuchâtel) Dress, The</title></circle></a><a href="/setts/s6/w6r36k48o4k5ly6/"><circle cx="252.9" cy="164.1" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/setts/s12/r16k2r9k12k2k10k3k2k3k2k3r10~x2/"><circle cx="185.7" cy="164.7" r="4" fill="#3465a4"><title>Highland Spring (1985) (Corporate)</title></circle></a><a href="/setts/s10/k4dt16k3dt3k32lo7k3r10k2w4~x2/"><circle cx="264.7" cy="140.3" r="4" fill="#3465a4"><title>Model T Ford (Corporate)</title></circle></a><a href="/setts/s9/k1g8k9r1k1r1k9db8r1~x6/"><circle cx="233.2" cy="197.0" r="4" fill="#3465a4"><title>Guthrie</title></circle></a><circle cx="244.2" cy="158.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/r10k3dg2lb2k22db4k22r4dg4r14lb3~x2/

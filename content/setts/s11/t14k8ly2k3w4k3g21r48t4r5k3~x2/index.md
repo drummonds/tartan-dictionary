@@ -2,12 +2,18 @@
 title: "MacLean of Duart 2"
 date: 2023-03-18
 ---
-**Bands:** [BKYKWKGRBRK](/stripes/bkykwkgrbrk/) · **Stripes:** [T K LY K W K G R T R K](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">T K LY K W K G R T R K</span></span>
+**Bands:** [KRBRGKWKYKB](/stripes/krbrgkwkykb/) · **Stripes:** [K R T R G K W K LY K T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K R T R G K W K LY K T</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacLean of Duart #5
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -918,16 +927,16 @@ The nearest existing variants by ΔTartan distance.
 1. [MacLean of Duart #5](/setts/s11/t14k8ly2k3w4k3dg21r48t4r5k3~x2/) — ΔT 0.58
 1. [MacLean of Duart #2](/setts/s11/t8k4ly1k2w3k2dg12r24t2r3k2~x2/) — ΔT 0.62
 1. [Drummond Relic](/setts/s12/r26w1k8ly1dg13k1w4k1ly2k4t3r8~x4/) — ΔT 0.66
-1. [Aberdeen Forever](/setts/s12/lb4k26n2k3n2k2n3k1n8r19w2ly4~x2/) — ΔT 0.69
-1. [Boyd](/setts/s12/ly5g22k2db2k2db2k10r38g5r4k4w5~x2/) — ΔT 0.72
+1. [Aberdeen Forever](/setts/s12/ly4w2r19n8k1n3k2n2k3n2k26lb4~x2/) — ΔT 0.69
+1. [Boyd](/setts/s12/w5k4r4g5r38k10db2k2db2k2g22ly5~x2/) — ΔT 0.72
 1. [MacGill](/setts/s13/r28g10k7w2ly2r1ly2w2db5k2r2ly2w3~x4/) — ΔT 0.75
 1. [Unidentified, Bedspread](/setts/s14/r20w6r100db15k10db15k40ly5g54r15k5r15k6w8/) — ΔT 0.79
-1. [Boyd](/setts/s12/lb5k4r4dg5r38k10db2k2db2k2dg22ly5/) — ΔT 0.80
+1. [Boyd](/setts/s12/ly5dg22k2db2k2db2k10r38dg5r4k4lb5/) — ΔT 0.80
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/t8k4ly1k2w3k2g12r24t2r3k2~x2/"><circle cx="192.9" cy="76.7" r="4" fill="#3465a4"><title>MacLean of Duart 4</title></circle></a><a href="/setts/s12/r26w1k8ly1g13k1w4k1ly2k4t3r8~x4/"><circle cx="217.1" cy="65.6" r="4" fill="#3465a4"><title>Drummond, Relic</title></circle></a><a href="/setts/s11/t14k8ly2k3w4k3dg21r48t4r5k3~x2/"><circle cx="233.9" cy="74.4" r="4" fill="#3465a4"><title>MacLean of Duart #5</title></circle></a><a href="/setts/s11/t8k4ly1k2w3k2dg12r24t2r3k2~x2/"><circle cx="206.3" cy="79.9" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/setts/s12/r26w1k8ly1dg13k1w4k1ly2k4t3r8~x4/"><circle cx="230.0" cy="67.5" r="4" fill="#3465a4"><title>Drummond Relic</title></circle></a><a href="/setts/s12/lb4k26n2k3n2k2n3k1n8r19w2ly4~x2/"><circle cx="195.4" cy="66.9" r="4" fill="#3465a4"><title>Aberdeen Forever</title></circle></a><a href="/setts/s12/ly5g22k2db2k2db2k10r38g5r4k4w5~x2/"><circle cx="188.1" cy="78.7" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/setts/s13/r28g10k7w2ly2r1ly2w2db5k2r2ly2w3~x4/"><circle cx="220.1" cy="49.5" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/setts/s14/r20w6r100db15k10db15k40ly5g54r15k5r15k6w8/"><circle cx="211.4" cy="74.6" r="4" fill="#3465a4"><title>Unidentified, Bedspread</title></circle></a><a href="/setts/s12/lb5k4r4dg5r38k10db2k2db2k2dg22ly5/"><circle cx="188.0" cy="77.5" r="4" fill="#3465a4"><title>Boyd</title></circle></a><circle cx="220.6" cy="71.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/t8k4ly1k2w3k2g12r24t2r3k2~x2/"><circle cx="192.7" cy="76.7" r="4" fill="#3465a4"><title>MacLean of Duart 4</title></circle></a><a href="/setts/s12/r26w1k8ly1g13k1w4k1ly2k4t3r8~x4/"><circle cx="216.8" cy="65.6" r="4" fill="#3465a4"><title>Drummond, Relic</title></circle></a><a href="/setts/s11/t14k8ly2k3w4k3dg21r48t4r5k3~x2/"><circle cx="233.6" cy="74.5" r="4" fill="#3465a4"><title>MacLean of Duart #5</title></circle></a><a href="/setts/s11/t8k4ly1k2w3k2dg12r24t2r3k2~x2/"><circle cx="206.0" cy="80.0" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/setts/s12/r26w1k8ly1dg13k1w4k1ly2k4t3r8~x4/"><circle cx="229.7" cy="67.6" r="4" fill="#3465a4"><title>Drummond Relic</title></circle></a><a href="/setts/s12/ly4w2r19n8k1n3k2n2k3n2k26lb4~x2/"><circle cx="195.2" cy="67.0" r="4" fill="#3465a4"><title>Aberdeen Forever</title></circle></a><a href="/setts/s12/w5k4r4g5r38k10db2k2db2k2g22ly5~x2/"><circle cx="188.0" cy="78.7" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/setts/s13/r28g10k7w2ly2r1ly2w2db5k2r2ly2w3~x4/"><circle cx="219.8" cy="49.6" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/setts/s14/r20w6r100db15k10db15k40ly5g54r15k5r15k6w8/"><circle cx="211.2" cy="74.6" r="4" fill="#3465a4"><title>Unidentified, Bedspread</title></circle></a><a href="/setts/s12/ly5dg22k2db2k2db2k10r38dg5r4k4lb5/"><circle cx="187.9" cy="77.6" r="4" fill="#3465a4"><title>Boyd</title></circle></a><circle cx="220.3" cy="71.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/t14k8ly2k3w4k3g21r48t4r5k3~x2/

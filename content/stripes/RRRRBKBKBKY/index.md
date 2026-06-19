@@ -22,6 +22,6 @@ RRRRBKBKBKY
 
 | Tartans |
 |---------------|
-| [Dryburgh](/setts/s11/ly2k10n2k2n2k3n10o16o2o2o2~x2/)|
-|![Dryburgh example sett](/setts/s11/ly2k10n2k2n2k3n10o16o2o2o2~x2/sett.png)|
+| [Dryburgh](/setts/s11/o2o2o2o16n10k3n2k2n2k10ly2~x2/)|
+|![Dryburgh example sett](/setts/s11/o2o2o2o16n10k3n2k2n2k10ly2~x2/sett.png)|
 

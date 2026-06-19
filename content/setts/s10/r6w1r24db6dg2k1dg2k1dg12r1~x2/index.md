@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=639
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Chisholm #2
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -17,7 +23,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1475
 
 ## Thread count
-R/2 G24 K2 G4 K2 G4 B12 R48 LN2 R/12
+R/12 LN2 R48 B12 G4 K2 G4 K2 G24 R/2
 ![Sett](sett.png)
 
 ## Palette
@@ -37,7 +43,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacEdward](/setts/s10/r6ly1r24g6db2k1db2k1db12r1~x2/) — ΔT 0.56
 1. [Chisholm](/setts/s10/r6w1r24db6g2k1g2k1g12r1~x2/) — ΔT 0.58
-1. [Chisholm VS](/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1~x2/) — ΔT 0.60
+1. [Chisholm VS](/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1/) — ΔT 0.60
 1. [Seton](/setts/s10/g6w1g12r4db4r2k4r32g1r2~x2/) — ΔT 0.84
 1. [Seton](/setts/s10/dg6lb1dg12r4db4r2k4r32dg1r2~x2/) — ΔT 0.85
 1. [Chisholm](/setts/s10/r6w1r24db6g2db1g2db1g12r1~x2/) — ΔT 0.91
@@ -48,8 +54,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r6ly1r24g6db2k1db2k1db12r1~x2/"><circle cx="344.1" cy="106.6" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/setts/s10/r6w1r24db6g2k1g2k1g12r1~x2/"><circle cx="336.0" cy="104.5" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1~x2/"><circle cx="331.9" cy="102.8" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/setts/s10/g6w1g12r4db4r2k4r32g1r2~x2/"><circle cx="369.0" cy="88.8" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s10/dg6lb1dg12r4db4r2k4r32dg1r2~x2/"><circle cx="369.5" cy="88.7" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s10/r6w1r24db6g2db1g2db1g12r1~x2/"><circle cx="365.1" cy="123.1" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s7/r28dg4k4dg4k4t6ly1~x2/"><circle cx="325.4" cy="110.2" r="4" fill="#3465a4"><title>Livingstone MacLay MacLeay</title></circle></a><a href="/setts/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/"><circle cx="369.3" cy="84.3" r="4" fill="#3465a4"><title>Stewart of Rothesay</title></circle></a><a href="/setts/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/"><circle cx="380.0" cy="87.8" r="4" fill="#3465a4"><title>Stewart/Stuart of Rothesay (Sobieski)</title></circle></a><a href="/setts/s7/r27y4k4y4k4t6lo1~x4/"><circle cx="325.8" cy="116.9" r="4" fill="#3465a4"><title>MacLeay</title></circle></a><circle cx="341.2" cy="103.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r6ly1r24g6db2k1db2k1db12r1~x2/"><circle cx="343.7" cy="106.6" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/setts/s10/r6w1r24db6g2k1g2k1g12r1~x2/"><circle cx="335.6" cy="104.4" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1/"><circle cx="331.5" cy="102.7" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/setts/s10/g6w1g12r4db4r2k4r32g1r2~x2/"><circle cx="368.6" cy="88.7" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s10/dg6lb1dg12r4db4r2k4r32dg1r2~x2/"><circle cx="369.1" cy="88.6" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s10/r6w1r24db6g2db1g2db1g12r1~x2/"><circle cx="364.7" cy="123.0" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s7/r28dg4k4dg4k4t6ly1~x2/"><circle cx="325.1" cy="110.2" r="4" fill="#3465a4"><title>Livingstone MacLay MacLeay</title></circle></a><a href="/setts/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/"><circle cx="368.8" cy="84.2" r="4" fill="#3465a4"><title>Stewart of Rothesay</title></circle></a><a href="/setts/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/"><circle cx="379.6" cy="87.7" r="4" fill="#3465a4"><title>Stewart/Stuart of Rothesay (Sobieski)</title></circle></a><a href="/setts/s7/r27y4k4y4k4t6lo1~x4/"><circle cx="325.4" cy="116.8" r="4" fill="#3465a4"><title>MacLeay</title></circle></a><circle cx="340.8" cy="103.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r6w1r24db6dg2k1dg2k1dg12r1~x2/

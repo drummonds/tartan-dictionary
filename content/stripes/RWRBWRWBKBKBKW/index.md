@@ -22,6 +22,6 @@ RWRBWRWBKBKBKW
 
 | Tartans |
 |---------------|
-| [Russian Arctic Convoy](/setts/s14/lb1k1db3k3db3k3db28w1r8w1db2o6w16r1~x2/)|
-|![Russian Arctic Convoy example sett](/setts/s14/lb1k1db3k3db3k3db28w1r8w1db2o6w16r1~x2/sett.png)|
+| [Russian Arctic Convoy](/setts/s14/r1w16o6db2w1r8w1db28k3db3k3db3k1lb1~x2/)|
+|![Russian Arctic Convoy example sett](/setts/s14/r1w16o6db2w1r8w1db28k3db3k3db3k1lb1~x2/sett.png)|
 

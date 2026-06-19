@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5984
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Bahrain, Royal
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -37,7 +43,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Manac](/setts/s14/k33w1r23k1lr6w1lr6k1r23w1k33r3w3b3~x2/) — ΔT 0.73
 1. [Unidentified Scarlett #8](/setts/s17/g2r20k2r2g3r2k18r3w1g3r20k2r2k18r2g2ly1~x2/) — ΔT 1.09
-1. [Solberg-Wormald (Personal)](/setts/s12/r155lb16k34db48r18ly6r9ly6r18db48k34lb16/) — ΔT 1.09
+1. [Solberg-Wormald (Personal)](/setts/s12/r155lb16k34db48r18ly6r9/) — ΔT 1.09
 1. [MacDonald of Boisdale](/setts/s21/r16lb1db7lb1r6lb1db34lb1r26g1g16g1r4g1g7g1r4lb1db7lb1r16~x2/) — ΔT 1.11
 1. [MacFarlane, Red](/setts/s14/r103k8g16w4r9k3r9w4g7db41k14r14w10g6/) — ΔT 1.12
 1. [MacFarlane, or Lendrum](/setts/s14/r42k1g12w2r3k1r3w2g2p12k4r3w4g3~x2/) — ΔT 1.19
@@ -48,8 +54,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k33w1r23k1lr6w1lr6k1r23w1k33r3w3b3~x2/"><circle cx="284.0" cy="71.7" r="4" fill="#3465a4"><title>Manac</title></circle></a><a href="/setts/s17/g2r20k2r2g3r2k18r3w1g3r20k2r2k18r2g2ly1~x2/"><circle cx="291.6" cy="89.1" r="4" fill="#3465a4"><title>Unidentified Scarlett #8</title></circle></a><a href="/setts/s12/r155lb16k34db48r18ly6r9ly6r18db48k34lb16/"><circle cx="265.8" cy="88.5" r="4" fill="#3465a4"><title>Solberg-Wormald (Personal)</title></circle></a><a href="/setts/s21/r16lb1db7lb1r6lb1db34lb1r26g1g16g1r4g1g7g1r4lb1db7lb1r16~x2/"><circle cx="283.9" cy="61.2" r="4" fill="#3465a4"><title>MacDonald of Boisdale</title></circle></a><a href="/setts/s14/r103k8g16w4r9k3r9w4g7db41k14r14w10g6/"><circle cx="312.1" cy="56.0" r="4" fill="#3465a4"><title>MacFarlane, Red</title></circle></a><a href="/setts/s14/r42k1g12w2r3k1r3w2g2p12k4r3w4g3~x2/"><circle cx="333.0" cy="50.0" r="4" fill="#3465a4"><title>MacFarlane, or Lendrum</title></circle></a><a href="/setts/s17/r2dp17r2dg3r2dp2r20dg1ly1r1dg2r2dp18dg2r24dg3w1~x2/"><circle cx="313.3" cy="73.1" r="4" fill="#3465a4"><title>Plowman #2 (Personal)</title></circle></a><a href="/setts/s19/ly2r3k2r6k10w4k10db3r7k3r35db3k10w4k10r5k2r3ly2~x2/"><circle cx="239.6" cy="83.8" r="4" fill="#3465a4"><title>Cornish Brewery, Red</title></circle></a><a href="/setts/s18/r2dp17r2dg3r2dp2r20dg1ly1r1dg2r2dp18r2dg2r24dg3w1~x2/"><circle cx="326.3" cy="75.9" r="4" fill="#3465a4"><title>Plowman (Personal)</title></circle></a><a href="/setts/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><circle cx="295.9" cy="98.4" r="4" fill="#3465a4"><title>MacKeever (Personal)</title></circle></a><circle cx="285.7" cy="65.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k33w1r23k1lr6w1lr6k1r23w1k33r3w3b3~x2/"><circle cx="283.8" cy="71.6" r="4" fill="#3465a4"><title>Manac</title></circle></a><a href="/setts/s17/g2r20k2r2g3r2k18r3w1g3r20k2r2k18r2g2ly1~x2/"><circle cx="291.3" cy="89.1" r="4" fill="#3465a4"><title>Unidentified Scarlett #8</title></circle></a><a href="/setts/s12/r155lb16k34db48r18ly6r9/"><circle cx="265.5" cy="88.4" r="4" fill="#3465a4"><title>Solberg-Wormald (Personal)</title></circle></a><a href="/setts/s21/r16lb1db7lb1r6lb1db34lb1r26g1g16g1r4g1g7g1r4lb1db7lb1r16~x2/"><circle cx="283.5" cy="61.3" r="4" fill="#3465a4"><title>MacDonald of Boisdale</title></circle></a><a href="/setts/s14/r103k8g16w4r9k3r9w4g7db41k14r14w10g6/"><circle cx="311.7" cy="55.9" r="4" fill="#3465a4"><title>MacFarlane, Red</title></circle></a><a href="/setts/s14/r42k1g12w2r3k1r3w2g2p12k4r3w4g3~x2/"><circle cx="332.6" cy="50.0" r="4" fill="#3465a4"><title>MacFarlane, or Lendrum</title></circle></a><a href="/setts/s17/r2dp17r2dg3r2dp2r20dg1ly1r1dg2r2dp18dg2r24dg3w1~x2/"><circle cx="312.9" cy="73.1" r="4" fill="#3465a4"><title>Plowman #2 (Personal)</title></circle></a><a href="/setts/s19/ly2r3k2r6k10w4k10db3r7k3r35db3k10w4k10r5k2r3ly2~x2/"><circle cx="239.4" cy="83.8" r="4" fill="#3465a4"><title>Cornish Brewery, Red</title></circle></a><a href="/setts/s18/r2dp17r2dg3r2dp2r20dg1ly1r1dg2r2dp18r2dg2r24dg3w1~x2/"><circle cx="325.9" cy="75.9" r="4" fill="#3465a4"><title>Plowman (Personal)</title></circle></a><a href="/setts/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><circle cx="295.7" cy="98.3" r="4" fill="#3465a4"><title>MacKeever (Personal)</title></circle></a><circle cx="285.4" cy="65.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s18/k16r1k2r3k1r9k1r3k2r1k6dg3lb3dg5r28w3r3w3~x2/

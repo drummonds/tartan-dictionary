@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7251
 
 ## Thread count
-Ba/6 K4 DBa32 LN6 DBa32 K32 DB/32
+DB/32 K32 DBa32 LN6 DBa32 K4 Ba/6
 ![Sett](sett.png)
 
 ## Palette
@@ -42,7 +42,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "Ba/6 K4 DBa32 LN6 DBa32 K32 DB/32 tartan")
+![Tartan detail](tartan.png "DB/32 K32 DBa32 LN6 DBa32 K4 Ba/6 tartan")
 
 ## Nearest tartans
 
@@ -61,8 +61,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db3k13db13db13w2db13w3~x2/"><circle cx="194.8" cy="259.1" r="4" fill="#3465a4"><title>Brodie Countryfare (Corporate)</title></circle></a><a href="/setts/s7/db6db3db6db20k20db8w4~x2/"><circle cx="235.0" cy="253.3" r="4" fill="#3465a4"><title>Allianz Deutschland 2012 (Corporate)</title></circle></a><a href="/setts/s8/db15dp3db30k22dg18dp3dg3w3~x2/"><circle cx="254.9" cy="217.0" r="4" fill="#3465a4"><title>Moray (Corporate)</title></circle></a><a href="/setts/s9/dt5dp1dt4db4dt7db8w1db2ly1~x4/"><circle cx="271.6" cy="234.8" r="4" fill="#3465a4"><title>Romantic Scotland (Madonna)</title></circle></a><a href="/setts/s8/db15k3db21k3k15db2k2db15~x2/"><circle cx="257.8" cy="235.7" r="4" fill="#3465a4"><title>Loyalhanna (District?)</title></circle></a><a href="/setts/s8/o5db12db4o4db22db3db4o5/"><circle cx="280.9" cy="238.9" r="4" fill="#3465a4"><title>Daks, Muted blue</title></circle></a><a href="/setts/s5/lg11db19dt38r7k7~x2/"><circle cx="218.9" cy="262.8" r="4" fill="#3465a4"><title>Rose, Danny and Hanna (Personal)</title></circle></a><a href="/setts/s6/db22n5dr9dg14db10lo2~x2/"><circle cx="270.5" cy="247.4" r="4" fill="#3465a4"><title>Belfrage</title></circle></a><a href="/setts/s7/db6w3db21k16dp6k3dp6~x2/"><circle cx="226.1" cy="236.4" r="4" fill="#3465a4"><title>Heritage of Scotland</title></circle></a><a href="/setts/s7/r2db11r3db11t12db10w2~x2/"><circle cx="162.9" cy="237.8" r="4" fill="#3465a4"><title>Blue</title></circle></a><circle cx="215.2" cy="244.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db3k13db13db13w2db13w3~x2/"><circle cx="195.1" cy="259.1" r="4" fill="#3465a4"><title>Brodie Countryfare (Corporate)</title></circle></a><a href="/setts/s7/db6db3db6db20k20db8w4~x2/"><circle cx="235.2" cy="253.3" r="4" fill="#3465a4"><title>Allianz Deutschland 2012 (Corporate)</title></circle></a><a href="/setts/s8/db15dp3db30k22dg18dp3dg3w3~x2/"><circle cx="255.1" cy="217.1" r="4" fill="#3465a4"><title>Moray (Corporate)</title></circle></a><a href="/setts/s9/dt5dp1dt4db4dt7db8w1db2ly1~x4/"><circle cx="271.7" cy="234.8" r="4" fill="#3465a4"><title>Romantic Scotland (Madonna)</title></circle></a><a href="/setts/s8/db15k3db21k3k15db2k2db15~x2/"><circle cx="258.1" cy="235.8" r="4" fill="#3465a4"><title>Loyalhanna (District?)</title></circle></a><a href="/setts/s8/o5db12db4o4db22db3db4o5/"><circle cx="281.0" cy="238.9" r="4" fill="#3465a4"><title>Daks, Muted blue</title></circle></a><a href="/setts/s5/lg11db19dt38r7k7~x2/"><circle cx="219.1" cy="262.9" r="4" fill="#3465a4"><title>Rose, Danny and Hanna (Personal)</title></circle></a><a href="/setts/s6/db22n5dr9dg14db10lo2~x2/"><circle cx="270.8" cy="247.5" r="4" fill="#3465a4"><title>Belfrage</title></circle></a><a href="/setts/s7/db6w3db21k16dp6k3dp6~x2/"><circle cx="226.2" cy="236.4" r="4" fill="#3465a4"><title>Heritage of Scotland</title></circle></a><a href="/setts/s7/r2db11r3db11t12db10w2~x2/"><circle cx="163.1" cy="237.8" r="4" fill="#3465a4"><title>Blue</title></circle></a><circle cx="215.5" cy="244.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/db16k16db16w3db16k2t3~x2/

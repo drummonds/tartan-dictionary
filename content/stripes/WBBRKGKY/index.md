@@ -8,7 +8,7 @@ WBBRKGKY
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/ly1k6g32k12r12dp9db6w1~x2/tartan.png)
+![Woven sample](/setts/s8/w1db6dp9r12k12g32k6ly1~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ WBBRKGKY
 
 
 
-### W DB DP R K G K LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W DB DP R K G K LY</span></span>
+### LY K G K R DP DB W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K G K R DP DB W</span></span>
 
 | Tartans |
 |---------------|
-| [Fujitsu](/setts/s8/ly1k6g32k12r12dp9db6w1~x2/)|
-|![Fujitsu example sett](/setts/s8/ly1k6g32k12r12dp9db6w1~x2/sett.png)|
+| [Fujitsu](/setts/s8/w1db6dp9r12k12g32k6ly1~x2/)|
+|![Fujitsu example sett](/setts/s8/w1db6dp9r12k12g32k6ly1~x2/sett.png)|
 

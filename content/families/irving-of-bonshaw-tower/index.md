@@ -8,7 +8,7 @@ A family of [Clan Irving](/clan/irving/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s6/lr2db14g14db2g3r2~x2/"><img src="/setts/s6/lr2db14g14db2g3r2~x2/sett.png" alt="Irving of Bonshaw Tower (Personal)" width="240"><br>Irving of Bonshaw Tower (Personal)</a>
+<a class="tartan" href="/setts/s6/r2g3db2g14db14lr2~x2/"><img src="/setts/s6/r2g3db2g14db14lr2~x2/sett.png" alt="Irving of Bonshaw Tower (Personal)" width="240"><br>Irving of Bonshaw Tower (Personal)</a>
 
 ## Other tartans
 

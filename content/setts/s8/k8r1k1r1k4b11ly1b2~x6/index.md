@@ -2,7 +2,7 @@
 title: "Rutherford"
 date: 2023-03-18
 ---
-**Bands:** [BYBKRKRK](/stripes/bybkrkrk/) · **Stripes:** [B LY B K R K R K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">B LY B K R K R K</span></span>
+**Bands:** [KRKRKBYB](/stripes/krkrkbyb/) · **Stripes:** [K R K R K B LY B](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K R K R K B LY B</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6926
 
 ## Thread count
-B/12 Y6 B66 K24 R6 K6 R6 K/48
+K/48 R6 K6 R6 K24 B66 Y6 B/12
 ![Sett](sett.png)
 
 ## Palette
@@ -39,7 +39,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/12 Y6 B66 K24 R6 K6 R6 K/48 tartan")
+![Tartan detail](tartan.png "K/48 R6 K6 R6 K24 B66 Y6 B/12 tartan")
 
 ## Nearest tartans
 
@@ -58,8 +58,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/lo12db2lo2db30dt2db2dt13lb4~x2/"><circle cx="273.2" cy="160.5" r="4" fill="#3465a4"><title>Highlands School (North Carolina)</title></circle></a><a href="/setts/s10/lb4r2db20k6lb5k4lb3k2r2db2~x2/"><circle cx="208.9" cy="161.8" r="4" fill="#3465a4"><title>Scottish Knights Templar MTS (Corp)</title></circle></a><a href="/setts/s11/k15lb3k3w4k3lb3k15db4k4db30k4~x2/"><circle cx="280.1" cy="180.2" r="4" fill="#3465a4"><title>Shalom (Fashion)</title></circle></a><a href="/setts/s7/db7r3db26t2db2t26ly4~x2/"><circle cx="288.6" cy="179.8" r="4" fill="#3465a4"><title>Int. Police Association (Official)</title></circle></a><a href="/setts/s10/lo6db3lo3db15db7lo7db5lo17db46lo4/"><circle cx="285.4" cy="158.9" r="4" fill="#3465a4"><title>Rhys (Welsh Name)</title></circle></a><a href="/setts/s8/ly12db2ly2db30db3db2db13w4~x2/"><circle cx="260.5" cy="155.8" r="4" fill="#3465a4"><title>Highlands School (N. Carolina) Corporate Tartan Tartan Number: 2109. Earliest known date: 1990 Highlands in North Carolina is the home of the Scottish Tartans Society's Museum Extension. The school tartan was designed by Bob Martin who is a 'Fellow of the Society'. Blue and Gold are the school colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/o33k4o4k5o4k7db41r4~x2/"><circle cx="248.2" cy="181.8" r="4" fill="#3465a4"><title>Kinnaird (Australia) (Name)</title></circle></a><a href="/setts/s9/r3db20k6lb5k4lb3k2r1db2~x2/"><circle cx="266.3" cy="145.8" r="4" fill="#3465a4"><title>Scottish Knights Templar Int. (Corp)</title></circle></a><a href="/setts/s8/y12db2y2db30db3db2db13w4~x2/"><circle cx="280.3" cy="170.7" r="4" fill="#3465a4"><title>Highlands School, (North Carolina)</title></circle></a><a href="/setts/s8/k21db8r4db2r2db23k4w2~x2/"><circle cx="308.9" cy="198.5" r="4" fill="#3465a4"><title>Murdoch Clebration (Personal)</title></circle></a><circle cx="261.8" cy="180.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/lo12db2lo2db30dt2db2dt13lb4~x2/"><circle cx="273.2" cy="160.4" r="4" fill="#3465a4"><title>Highlands School (North Carolina)</title></circle></a><a href="/setts/s10/lb4r2db20k6lb5k4lb3k2r2db2~x2/"><circle cx="208.9" cy="161.7" r="4" fill="#3465a4"><title>Scottish Knights Templar MTS (Corp)</title></circle></a><a href="/setts/s11/k15lb3k3w4k3lb3k15db4k4db30k4~x2/"><circle cx="280.1" cy="180.1" r="4" fill="#3465a4"><title>Shalom (Fashion)</title></circle></a><a href="/setts/s7/db7r3db26t2db2t26ly4~x2/"><circle cx="288.6" cy="179.7" r="4" fill="#3465a4"><title>Int. Police Association (Official)</title></circle></a><a href="/setts/s10/lo6db3lo3db15db7lo7db5lo17db46lo4/"><circle cx="285.4" cy="158.8" r="4" fill="#3465a4"><title>Rhys (Welsh Name)</title></circle></a><a href="/setts/s8/ly12db2ly2db30db3db2db13w4~x2/"><circle cx="260.4" cy="155.7" r="4" fill="#3465a4"><title>Highlands School (N. Carolina) Corporate Tartan Tartan Number: 2109. Earliest known date: 1990 Highlands in North Carolina is the home of the Scottish Tartans Society's Museum Extension. The school tartan was designed by Bob Martin who is a 'Fellow of the Society'. Blue and Gold are the school colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/o33k4o4k5o4k7db41r4~x2/"><circle cx="248.1" cy="181.7" r="4" fill="#3465a4"><title>Kinnaird (Australia) (Name)</title></circle></a><a href="/setts/s9/r3db20k6lb5k4lb3k2r1db2~x2/"><circle cx="266.3" cy="145.7" r="4" fill="#3465a4"><title>Scottish Knights Templar Int. (Corp)</title></circle></a><a href="/setts/s8/y12db2y2db30db3db2db13w4~x2/"><circle cx="280.3" cy="170.6" r="4" fill="#3465a4"><title>Highlands School, (North Carolina)</title></circle></a><a href="/setts/s8/k21db8r4db2r2db23k4w2~x2/"><circle cx="308.9" cy="198.5" r="4" fill="#3465a4"><title>Murdoch Clebration (Personal)</title></circle></a><circle cx="261.8" cy="180.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k8r1k1r1k4b11ly1b2~x6/

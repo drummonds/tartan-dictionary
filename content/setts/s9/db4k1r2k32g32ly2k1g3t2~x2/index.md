@@ -2,12 +2,18 @@
 title: "Roderick, Dhu"
 date: 2023-03-18
 ---
-**Bands:** [BGKYGKRKB](/stripes/bgkygkrkb/) · **Stripes:** [T G K LY G K R K DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">T G K LY G K R K DB</span></span>
+**Bands:** [BKRKGYKGB](/stripes/bkrkgykgb/) · **Stripes:** [DB K R K G LY K G T](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">DB K R K G LY K G T</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Roderick, Dhu
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -914,18 +923,18 @@ The nearest existing variants by ΔTartan distance.
 1. [MacDonnald of ye Ylis](/setts/s9/lb4dg30k1dg1k1dg3k12db10r3/) — ΔT 1.43
 1. [John.W.Mackay, Restricted](/setts/s9/k4g34ly1k18g3db18r3g3r3~x2/) — ΔT 1.45
 1. [Urquhart, White Line](/setts/s12/db4w2db24k3db3k3db8k24g48k3g3r2/) — ΔT 1.62
-1. [Labrador](/setts/s11/lt11k2lt2k2ly2k11g30r2g3k1w5~x2/) — ΔT 1.64
-1. [Vipont](/setts/s7/ly3k36g14lp2k2g14r3~x2/) — ΔT 1.67
+1. [Labrador](/setts/s11/lt11k2lt2k2ly2k11g30r2g3k1w5~x2/) — ΔT 1.65
+1. [Vipont](/setts/s7/r3g14k2lp2g14k36ly3~x2/) — ΔT 1.67
 1. [Hutchens (Kansas) (Personal)](/setts/s9/db10k12g3k1g1k1g30lo4w4~x2/) — ΔT 1.68
 1. [US Army Civil Affairs](/setts/s10/p6k2ly6k60y60r6k25ly4k2w6/) — ΔT 1.69
 1. [Tarassow Russian Scout (Corporate)](/setts/s14/k8ly8k8ly2g100k42r8b8w8k21ly2k8ly8k8/) — ΔT 1.69
 1. [Tarassow Russian Scouts Corporate Tartan Tartan Number: 7614. Earliest known date: 2008 In Germany our scout association stands under the patronage of the Russian orthodox parish in Frankfurt, which has the status of charitable organisation. We also have in France the status of Association Loi de 1901 - which is a non profit association based on benevolate : Sergei Tarassow is the elected president of this association, named Scouts Russes Saint Georges 1909. In USA they have the same status under the name of Saint George Pathfinders of America. The yellow stripes in the design represent the ribbon of the Order of St George See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/k8lo8k8lo2g100k42r8b8w8k21lo2k8lo8k8/) — ΔT 1.70
-1. [Gilhooley (Name)](/setts/s11/ly7g1k1ly2k9g22g7k27b4k3w4~x2/) — ΔT 1.70
+1. [Lochaber](/setts/s10/g4t2db33r2k35g33k1r2k1g4~x2/) — ΔT 1.70
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lb4dg30k1dg1k1dg3k12db10r3/"><circle cx="290.4" cy="118.8" r="4" fill="#3465a4"><title>MacDonnald of ye Ylis</title></circle></a><a href="/setts/s9/k4g34ly1k18g3db18r3g3r3~x2/"><circle cx="245.6" cy="113.4" r="4" fill="#3465a4"><title>John.W.Mackay, Restricted</title></circle></a><a href="/setts/s12/db4w2db24k3db3k3db8k24g48k3g3r2/"><circle cx="220.8" cy="104.9" r="4" fill="#3465a4"><title>Urquhart, White Line</title></circle></a><a href="/setts/s11/lt11k2lt2k2ly2k11g30r2g3k1w5~x2/"><circle cx="205.6" cy="71.5" r="4" fill="#3465a4"><title>Labrador</title></circle></a><a href="/setts/s7/ly3k36g14lp2k2g14r3~x2/"><circle cx="270.0" cy="148.2" r="4" fill="#3465a4"><title>Vipont</title></circle></a><a href="/setts/s9/db10k12g3k1g1k1g30lo4w4~x2/"><circle cx="278.3" cy="116.3" r="4" fill="#3465a4"><title>Hutchens (Kansas) (Personal)</title></circle></a><a href="/setts/s10/p6k2ly6k60y60r6k25ly4k2w6/"><circle cx="253.4" cy="72.2" r="4" fill="#3465a4"><title>US Army Civil Affairs</title></circle></a><a href="/setts/s14/k8ly8k8ly2g100k42r8b8w8k21ly2k8ly8k8/"><circle cx="251.2" cy="44.1" r="4" fill="#3465a4"><title>Tarassow Russian Scout (Corporate)</title></circle></a><a href="/setts/s14/k8lo8k8lo2g100k42r8b8w8k21lo2k8lo8k8/"><circle cx="254.1" cy="45.1" r="4" fill="#3465a4"><title>Tarassow Russian Scouts Corporate Tartan Tartan Number: 7614. Earliest known date: 2008 In Germany our scout association stands under the patronage of the Russian orthodox parish in Frankfurt, which has the status of charitable organisation. We also have in France the status of Association Loi de 1901 - which is a non profit association based on benevolate : Sergei Tarassow is the elected president of this association, named Scouts Russes Saint Georges 1909. In USA they have the same status under the name of Saint George Pathfinders of America. The yellow stripes in the design represent the ribbon of the Order of St George See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/ly7g1k1ly2k9g22g7k27b4k3w4~x2/"><circle cx="194.8" cy="92.9" r="4" fill="#3465a4"><title>Gilhooley (Name)</title></circle></a><circle cx="256.0" cy="85.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lb4dg30k1dg1k1dg3k12db10r3/"><circle cx="290.4" cy="118.7" r="4" fill="#3465a4"><title>MacDonnald of ye Ylis</title></circle></a><a href="/setts/s9/k4g34ly1k18g3db18r3g3r3~x2/"><circle cx="245.6" cy="113.3" r="4" fill="#3465a4"><title>John.W.Mackay, Restricted</title></circle></a><a href="/setts/s12/db4w2db24k3db3k3db8k24g48k3g3r2/"><circle cx="220.8" cy="104.9" r="4" fill="#3465a4"><title>Urquhart, White Line</title></circle></a><a href="/setts/s11/lt11k2lt2k2ly2k11g30r2g3k1w5~x2/"><circle cx="205.5" cy="71.5" r="4" fill="#3465a4"><title>Labrador</title></circle></a><a href="/setts/s7/r3g14k2lp2g14k36ly3~x2/"><circle cx="270.1" cy="148.0" r="4" fill="#3465a4"><title>Vipont</title></circle></a><a href="/setts/s9/db10k12g3k1g1k1g30lo4w4~x2/"><circle cx="278.3" cy="116.2" r="4" fill="#3465a4"><title>Hutchens (Kansas) (Personal)</title></circle></a><a href="/setts/s10/p6k2ly6k60y60r6k25ly4k2w6/"><circle cx="253.4" cy="72.2" r="4" fill="#3465a4"><title>US Army Civil Affairs</title></circle></a><a href="/setts/s14/k8ly8k8ly2g100k42r8b8w8k21ly2k8ly8k8/"><circle cx="251.0" cy="44.2" r="4" fill="#3465a4"><title>Tarassow Russian Scout (Corporate)</title></circle></a><a href="/setts/s14/k8lo8k8lo2g100k42r8b8w8k21lo2k8lo8k8/"><circle cx="253.9" cy="45.2" r="4" fill="#3465a4"><title>Tarassow Russian Scouts Corporate Tartan Tartan Number: 7614. Earliest known date: 2008 In Germany our scout association stands under the patronage of the Russian orthodox parish in Frankfurt, which has the status of charitable organisation. We also have in France the status of Association Loi de 1901 - which is a non profit association based on benevolate : Sergei Tarassow is the elected president of this association, named Scouts Russes Saint Georges 1909. In USA they have the same status under the name of Saint George Pathfinders of America. The yellow stripes in the design represent the ribbon of the Order of St George See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/g4t2db33r2k35g33k1r2k1g4~x2/"><circle cx="213.5" cy="102.5" r="4" fill="#3465a4"><title>Lochaber</title></circle></a><circle cx="256.0" cy="85.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/db4k1r2k32g32ly2k1g3t2~x2/

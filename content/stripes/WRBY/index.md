@@ -20,7 +20,7 @@ WRBY
 
 
 
-### W O T LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W O T LY</span></span>
+### LY T O W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY T O W</span></span>
 
 | Tartans |
 |---------------|

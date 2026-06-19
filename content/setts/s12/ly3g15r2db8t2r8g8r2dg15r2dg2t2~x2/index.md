@@ -2,7 +2,7 @@
 title: "Gordonstoun"
 date: 2023-03-18
 ---
-**Bands:** [BGRGRGRBBRGY](/stripes/bgrgrgrbbrgy/) · **Stripes:** [T DG R DG R G R T DB R G LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">T DG R DG R G R T DB R G LY</span></span>
+**Bands:** [YGRBBRGRGRGB](/stripes/ygrbbrgrgrgb/) · **Stripes:** [LY G R DB T R G R DG R DG T](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY G R DB T R G R DG R DG T</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-Ba/4 DG4 DR4 DG30 DR4 G16 DR16 Ba4 B16 DR4 G30 Y/6
+Y/6 G30 DR4 B16 Ba4 DR16 G16 DR4 DG30 DR4 DG4 Ba/4
 ![Sett](sett.png)
 
 ## Palette
@@ -913,12 +916,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Kelsey, William (Personal)](/setts/s12/g12r2g2r5g16db3o2k2o3db6k20ly3~x2/) — ΔT 1.07
 1. [Dixon, Clyde (Personal)](/setts/s16/t2ly1dg2dg8dg8y9dg3ly2r1y1r1y1r1y1r1y1~x2/) — ΔT 1.09
 1. [Royal Pharmaceutical Society](/setts/s9/dy3o2dg19o6dg2o6lo14r4w2~x2/) — ΔT 1.11
-1. [Royal Pharmaceutical Society Commemorative Tartan Tartan Number: 2091. Earliest known date: 1991 Created by Kinloch Anderson of Edinburgh for the 150th Anniversary of the Royal Pharmaceutical Society of Great Britain which was held at Scone Palace, Perthshire in 1991. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/do3db2g19db6g2db6lo14w2dp4w2~x2/) — ΔT 1.13
+1. [Wojtek Memorial Trust](/setts/s11/w3db15r6db3r3db4dg11g3dg3g28lb3~x2/) — ΔT 1.13
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/ly3g15m2db8t2m8g8m2dg15m2dg2t2~x2/"><circle cx="94.0" cy="156.0" r="4" fill="#3465a4"><title>Gordonstoun Corporate Tartan Tartan Number: 190. Earliest known date: 1966 The specimen in the cloth archive of the Scottish Tartans Society was supplied by Bullard in 1969. The original sindex card says it was supplied by Gordon Stewart in 1966. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/dp4dp4dp2dp14dg6g3dg6g2g4g2g15o3~x2/"><circle cx="97.5" cy="164.4" r="4" fill="#3465a4"><title>Kinloch Anderson Heather (Corporate)</title></circle></a><a href="/setts/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12ly2r2ly2~x2/"><circle cx="141.0" cy="163.2" r="4" fill="#3465a4"><title>Allen - 2001 (Personal)</title></circle></a><a href="/setts/s13/k4dg10lo4dg10k4g20dg5k2lo6k2r10k2w4~x2/"><circle cx="81.4" cy="151.6" r="4" fill="#3465a4"><title>Donegal County Crest (Fashion)</title></circle></a><a href="/setts/s13/db8r2db3r4db13w2o13w2g13r4g4ly2g8~x2/"><circle cx="89.1" cy="171.5" r="4" fill="#3465a4"><title>Bowie</title></circle></a><a href="/setts/s12/y8g2k4lo1k1lb1k1do8y3k1y1lb1~x4/"><circle cx="148.6" cy="150.4" r="4" fill="#3465a4"><title>Wcwm 9275-1258</title></circle></a><a href="/setts/s12/g12r2g2r5g16db3o2k2o3db6k20ly3~x2/"><circle cx="149.0" cy="144.5" r="4" fill="#3465a4"><title>Kelsey, William (Personal)</title></circle></a><a href="/setts/s16/t2ly1dg2dg8dg8y9dg3ly2r1y1r1y1r1y1r1y1~x2/"><circle cx="115.0" cy="131.6" r="4" fill="#3465a4"><title>Dixon, Clyde (Personal)</title></circle></a><a href="/setts/s9/dy3o2dg19o6dg2o6lo14r4w2~x2/"><circle cx="151.9" cy="164.5" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society</title></circle></a><a href="/setts/s10/do3db2g19db6g2db6lo14w2dp4w2~x2/"><circle cx="129.1" cy="151.5" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society Commemorative Tartan Tartan Number: 2091. Earliest known date: 1991 Created by Kinloch Anderson of Edinburgh for the 150th Anniversary of the Royal Pharmaceutical Society of Great Britain which was held at Scone Palace, Perthshire in 1991. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="108.1" cy="165.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/ly3g15m2db8t2m8g8m2dg15m2dg2t2~x2/"><circle cx="94.0" cy="156.1" r="4" fill="#3465a4"><title>Gordonstoun Corporate Tartan Tartan Number: 190. Earliest known date: 1966 The specimen in the cloth archive of the Scottish Tartans Society was supplied by Bullard in 1969. The original sindex card says it was supplied by Gordon Stewart in 1966. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/dp4dp4dp2dp14dg6g3dg6g2g4g2g15o3~x2/"><circle cx="97.6" cy="164.5" r="4" fill="#3465a4"><title>Kinloch Anderson Heather (Corporate)</title></circle></a><a href="/setts/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12ly2r2ly2~x2/"><circle cx="141.0" cy="163.4" r="4" fill="#3465a4"><title>Allen - 2001 (Personal)</title></circle></a><a href="/setts/s13/k4dg10lo4dg10k4g20dg5k2lo6k2r10k2w4~x2/"><circle cx="81.5" cy="151.8" r="4" fill="#3465a4"><title>Donegal County Crest (Fashion)</title></circle></a><a href="/setts/s13/db8r2db3r4db13w2o13w2g13r4g4ly2g8~x2/"><circle cx="89.1" cy="171.7" r="4" fill="#3465a4"><title>Bowie</title></circle></a><a href="/setts/s12/y8g2k4lo1k1lb1k1do8y3k1y1lb1~x4/"><circle cx="148.6" cy="150.5" r="4" fill="#3465a4"><title>Wcwm 9275-1258</title></circle></a><a href="/setts/s12/g12r2g2r5g16db3o2k2o3db6k20ly3~x2/"><circle cx="149.0" cy="144.6" r="4" fill="#3465a4"><title>Kelsey, William (Personal)</title></circle></a><a href="/setts/s16/t2ly1dg2dg8dg8y9dg3ly2r1y1r1y1r1y1r1y1~x2/"><circle cx="114.9" cy="131.8" r="4" fill="#3465a4"><title>Dixon, Clyde (Personal)</title></circle></a><a href="/setts/s9/dy3o2dg19o6dg2o6lo14r4w2~x2/"><circle cx="151.8" cy="164.6" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society</title></circle></a><a href="/setts/s11/w3db15r6db3r3db4dg11g3dg3g28lb3~x2/"><circle cx="145.9" cy="145.7" r="4" fill="#3465a4"><title>Wojtek Memorial Trust</title></circle></a><circle cx="108.1" cy="165.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/ly3g15r2db8t2r8g8r2dg15r2dg2t2~x2/

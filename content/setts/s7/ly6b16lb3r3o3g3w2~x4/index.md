@@ -2,7 +2,7 @@
 title: "Atikokan"
 date: 2023-03-18
 ---
-**Bands:** [WGRRWBY](/stripes/wgrrwby/) · **Stripes:** [W G O R LB B LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W G O R LB B LY</span></span>
+**Bands:** [YBWRRGW](/stripes/ybwrrgw/) · **Stripes:** [LY B LB R O G W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY B LB R O G W</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/8 G12 DO12 R12 N12 B64 Y/24
+Y/24 B64 N12 R12 DO12 G12 LN/8
 ![Sett](sett.png)
 
 ## Palette
@@ -910,7 +913,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/8 G12 DO12 R12 N12 B64 Y/24 tartan")
+![Tartan detail](tartan.png "Y/24 B64 N12 R12 DO12 G12 LN/8 tartan")
 
 ## Nearest tartans
 
@@ -918,9 +921,9 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Atikokan (District)](/setts/s7/lo6t16lb3y3o3g3w2~x4/) — ΔT 1.14
 1. [Seaside (Fashion)](/setts/s7/w3lb2p4lb14n2t14lo2~x4/) — ΔT 1.43
-1. [Edmonton, City of](/setts/s9/t8ly2g4ly2dp4ly2t8w15lo2~x4/) — ΔT 1.53
+1. [Edmonton, City of](/setts/s9/t8ly2g4ly2dp4ly2t8w15lo2~x4/) — ΔT 1.52
 1. [Curd (2013)](/setts/s8/r1g1ly1t9ly3w3lr9t1~x4/) — ΔT 1.57
-1. [Manx National District Tartan Tartan Number: 185. Earliest known date: pre 2003 These are the specifications supplied by the designer. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/dp2g6r1ly1db3t10w1~x2/) — ΔT 1.57
+1. [Manx National District Tartan Tartan Number: 185. Earliest known date: pre 2003 These are the specifications supplied by the designer. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/dp2g6r1ly1db3t10w1~x2/) — ΔT 1.58
 1. [Alexander of Menstry Hunting](/setts/s8/m5g2m2g26k9lr9lb13w5~x2/) — ΔT 1.58
 1. [Manx National](/setts/s7/p2g6r1y1db3b10w1~x2/) — ΔT 1.60
 1. [Montessori School of Denver](/setts/s6/g25r9b3ly7w3dp11/) — ΔT 1.61
@@ -929,8 +932,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/lo6t16lb3y3o3g3w2~x4/"><circle cx="168.2" cy="167.4" r="4" fill="#3465a4"><title>Atikokan (District)</title></circle></a><a href="/setts/s7/w3lb2p4lb14n2t14lo2~x4/"><circle cx="166.9" cy="181.0" r="4" fill="#3465a4"><title>Seaside (Fashion)</title></circle></a><a href="/setts/s9/t8ly2g4ly2dp4ly2t8w15lo2~x4/"><circle cx="88.7" cy="153.5" r="4" fill="#3465a4"><title>Edmonton, City of</title></circle></a><a href="/setts/s8/r1g1ly1t9ly3w3lr9t1~x4/"><circle cx="165.1" cy="162.4" r="4" fill="#3465a4"><title>Curd (2013)</title></circle></a><a href="/setts/s7/dp2g6r1ly1db3t10w1~x2/"><circle cx="145.8" cy="150.9" r="4" fill="#3465a4"><title>Manx National District Tartan Tartan Number: 185. Earliest known date: pre 2003 These are the specifications supplied by the designer. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/m5g2m2g26k9lr9lb13w5~x2/"><circle cx="132.5" cy="145.7" r="4" fill="#3465a4"><title>Alexander of Menstry Hunting</title></circle></a><a href="/setts/s7/p2g6r1y1db3b10w1~x2/"><circle cx="138.3" cy="141.5" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/setts/s6/g25r9b3ly7w3dp11/"><circle cx="127.1" cy="167.9" r="4" fill="#3465a4"><title>Montessori School of Denver</title></circle></a><a href="/setts/s6/db3r2lr15w10k2lo3~x2/"><circle cx="133.5" cy="155.9" r="4" fill="#3465a4"><title>SCH '67 Class</title></circle></a><a href="/setts/s9/r4b3lr2k2lr12k2db10t25w2~x2/"><circle cx="161.6" cy="122.4" r="4" fill="#3465a4"><title>O'Reilly (Estimated threadcount)</title></circle></a><circle cx="140.1" cy="149.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/lo6t16lb3y3o3g3w2~x4/"><circle cx="168.0" cy="167.5" r="4" fill="#3465a4"><title>Atikokan (District)</title></circle></a><a href="/setts/s7/w3lb2p4lb14n2t14lo2~x4/"><circle cx="166.7" cy="181.1" r="4" fill="#3465a4"><title>Seaside (Fashion)</title></circle></a><a href="/setts/s9/t8ly2g4ly2dp4ly2t8w15lo2~x4/"><circle cx="88.5" cy="153.5" r="4" fill="#3465a4"><title>Edmonton, City of</title></circle></a><a href="/setts/s8/r1g1ly1t9ly3w3lr9t1~x4/"><circle cx="164.8" cy="162.6" r="4" fill="#3465a4"><title>Curd (2013)</title></circle></a><a href="/setts/s7/dp2g6r1ly1db3t10w1~x2/"><circle cx="145.9" cy="151.0" r="4" fill="#3465a4"><title>Manx National District Tartan Tartan Number: 185. Earliest known date: pre 2003 These are the specifications supplied by the designer. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/m5g2m2g26k9lr9lb13w5~x2/"><circle cx="132.4" cy="145.8" r="4" fill="#3465a4"><title>Alexander of Menstry Hunting</title></circle></a><a href="/setts/s7/p2g6r1y1db3b10w1~x2/"><circle cx="138.3" cy="141.6" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/setts/s6/g25r9b3ly7w3dp11/"><circle cx="127.0" cy="167.9" r="4" fill="#3465a4"><title>Montessori School of Denver</title></circle></a><a href="/setts/s6/db3r2lr15w10k2lo3~x2/"><circle cx="133.2" cy="155.9" r="4" fill="#3465a4"><title>SCH '67 Class</title></circle></a><a href="/setts/s9/r4b3lr2k2lr12k2db10t25w2~x2/"><circle cx="161.5" cy="122.5" r="4" fill="#3465a4"><title>O'Reilly (Estimated threadcount)</title></circle></a><circle cx="139.9" cy="150.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/ly6b16lb3r3o3g3w2~x4/

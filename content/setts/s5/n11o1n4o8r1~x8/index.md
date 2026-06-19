@@ -2,7 +2,7 @@
 title: "Cairns, David (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BRBRR](/stripes/brbrr/) · **Stripes:** [N O N O R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">N O N O R</span></span>
+**Bands:** [RRBRB](/stripes/rrbrb/) · **Stripes:** [R O N O N](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="seq">R O N O N</span></span>
 
 
 This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/
 Original link http://www.tartansauthority.com/tartan-ferret/display/10143/
 
 ## Thread count
-DR/8 Na64 N32 Na8 N/88
+N/88 Na8 N32 Na64 DR/8
 ![Sett](sett.png)
 
 ## Palette
@@ -24,7 +24,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/8 Na64 N32 Na8 N/88 tartan")
+![Tartan detail](tartan.png "N/88 Na8 N32 Na64 DR/8 tartan")
 
 ## Nearest tartans
 
@@ -43,8 +43,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/t4lo15t4lo15t4w2~x2/"><circle cx="521.9" cy="315.1" r="4" fill="#3465a4"><title>Takla Makan #2</title></circle></a><a href="/setts/s5/do11n1do4n8r1~x8/"><circle cx="545.2" cy="340.0" r="4" fill="#3465a4"><title>Cairns, David (Personal)</title></circle></a><a href="/setts/s4/t48g25t13ly5~x2/"><circle cx="515.2" cy="334.2" r="4" fill="#3465a4"><title>Laurel Park</title></circle></a><a href="/setts/s5/y37dy9y3do9dy3~x2/"><circle cx="555.0" cy="298.1" r="4" fill="#3465a4"><title>Glen Boig Trade Tartan Tartan Number: 915. Earliest known date: Modern Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db5y15o4y4o24y4o4db5/"><circle cx="415.1" cy="309.1" r="4" fill="#3465a4"><title>Daks, (Muted Skye)</title></circle></a><a href="/setts/s4/dg3dy30dg40r3~x2/"><circle cx="536.8" cy="335.1" r="4" fill="#3465a4"><title>Sanix Muted</title></circle></a><a href="/setts/s5/n16r2n10r14t5~x2/"><circle cx="397.9" cy="317.9" r="4" fill="#3465a4"><title>Mowbray (Personal)</title></circle></a><a href="/setts/s4/y50dy25ly2dp6~x2/"><circle cx="506.0" cy="261.8" r="4" fill="#3465a4"><title>Highland Greenford (Personal)</title></circle></a><a href="/setts/s4/y9y52dy15ly4~x2/"><circle cx="538.1" cy="304.0" r="4" fill="#3465a4"><title>McGuigan, Julia (St Monans, Fife) (Personal)</title></circle></a><a href="/setts/s4/dg4t10y10t1~x4/"><circle cx="375.1" cy="339.1" r="4" fill="#3465a4"><title>Baker City (District)</title></circle></a><circle cx="505.0" cy="311.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/t4lo15t4lo15t4w2~x2/"><circle cx="521.4" cy="315.0" r="4" fill="#3465a4"><title>Takla Makan #2</title></circle></a><a href="/setts/s5/do11n1do4n8r1~x8/"><circle cx="545.1" cy="340.1" r="4" fill="#3465a4"><title>Cairns, David (Personal)</title></circle></a><a href="/setts/s4/t48g25t13ly5~x2/"><circle cx="514.9" cy="334.1" r="4" fill="#3465a4"><title>Laurel Park</title></circle></a><a href="/setts/s5/y37dy9y3do9dy3~x2/"><circle cx="554.6" cy="298.1" r="4" fill="#3465a4"><title>Glen Boig Trade Tartan Tartan Number: 915. Earliest known date: Modern Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db5y15o4y4o24y4o4db5/"><circle cx="414.8" cy="309.3" r="4" fill="#3465a4"><title>Daks, (Muted Skye)</title></circle></a><a href="/setts/s4/dg3dy30dg40r3~x2/"><circle cx="536.7" cy="335.3" r="4" fill="#3465a4"><title>Sanix Muted</title></circle></a><a href="/setts/s5/n16r2n10r14t5~x2/"><circle cx="397.8" cy="317.9" r="4" fill="#3465a4"><title>Mowbray (Personal)</title></circle></a><a href="/setts/s4/y50dy25ly2dp6~x2/"><circle cx="505.7" cy="261.9" r="4" fill="#3465a4"><title>Highland Greenford (Personal)</title></circle></a><a href="/setts/s4/y9y52dy15ly4~x2/"><circle cx="537.8" cy="304.1" r="4" fill="#3465a4"><title>McGuigan, Julia (St Monans, Fife) (Personal)</title></circle></a><a href="/setts/s4/dg4t10y10t1~x4/"><circle cx="375.0" cy="339.1" r="4" fill="#3465a4"><title>Baker City (District)</title></circle></a><circle cx="504.7" cy="311.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/n11o1n4o8r1~x8/

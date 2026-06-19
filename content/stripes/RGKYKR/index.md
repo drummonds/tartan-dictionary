@@ -20,7 +20,7 @@ RGKYKR
 
 
 
-### R Y K LO K R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R Y K LO K R</span></span>
+### R K LO K Y R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K LO K Y R</span></span>
 
 | Tartans |
 |---------------|

@@ -2,12 +2,18 @@
 title: "Norwegian Migration Period"
 date: 2023-03-18
 ---
-**Bands:** [RBRBWBYR](/stripes/rbrbwbyr/) · **Stripes:** [R DT O DT LB DT LY O](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R DT O DT LB DT LY O</span></span>
+**Bands:** [RYBWBRBR](/stripes/rybwbrbr/) · **Stripes:** [O LY DT LB DT O DT R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="seq">O LY DT LB DT O DT R</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3165
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Norwegian Migration Period (Artefact
 
 ## Attestations
 
@@ -24,7 +30,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5584
 
 ## Thread count
-DR/32 K32 LT24 K4 Na8 K36 LY16 N/120
+N/120 LY16 K36 Na8 K4 LT24 K32 DR/32
 ![Sett](sett.png)
 
 ## Palette
@@ -41,7 +47,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/32 K32 LT24 K4 Na8 K36 LY16 N/120 tartan")
+![Tartan detail](tartan.png "N/120 LY16 K36 Na8 K4 LT24 K32 DR/32 tartan")
 
 ## Nearest tartans
 
@@ -60,8 +66,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r31g19lg27b1w1lo1~x2/"><circle cx="236.1" cy="122.8" r="4" fill="#3465a4"><title>Glencross, (Solway) (Personal)</title></circle></a><a href="/setts/s10/r15lo30k1w6k1lo2dg16t4r6w1~x2/"><circle cx="209.1" cy="86.6" r="4" fill="#3465a4"><title>Westwood (Fashion?)</title></circle></a><a href="/setts/s9/m50ly4w16db2w4db2w15g27r4~x2/"><circle cx="192.7" cy="85.3" r="4" fill="#3465a4"><title>Rosevear</title></circle></a><a href="/setts/s9/r50ly4w16db2w4db2w15g27r4~x2/"><circle cx="195.3" cy="84.6" r="4" fill="#3465a4"><title>Rosevear</title></circle></a><a href="/setts/s8/r8lo44k32w2o52k7o7w3/"><circle cx="208.6" cy="123.7" r="4" fill="#3465a4"><title>Golden Wedding (Fashion)</title></circle></a><a href="/setts/s11/t8k1r22ly1r6k3dg10w1k3t20w1~x2/"><circle cx="192.0" cy="95.2" r="4" fill="#3465a4"><title>Unnamed C20th - National Archives</title></circle></a><a href="/setts/s7/r8ly2o7ly2n24k2g1~x2/"><circle cx="276.6" cy="118.6" r="4" fill="#3465a4"><title>(4) Traill</title></circle></a><a href="/setts/s8/dp8n44k32lp2o53lb8n8lb4/"><circle cx="183.8" cy="124.4" r="4" fill="#3465a4"><title>Silver Wedding (Fashion)</title></circle></a><a href="/setts/s8/k3w1r16k1g21b9k6w1~x4/"><circle cx="191.4" cy="135.4" r="4" fill="#3465a4"><title>Ford &amp; Etal</title></circle></a><a href="/setts/s8/lb5o49lb3dg24r5lo4dy30lb4~x2/"><circle cx="197.2" cy="135.6" r="4" fill="#3465a4"><title>State Seal of New Mexico (Fashion)</title></circle></a><circle cx="228.9" cy="105.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r31g19lg27b1w1lo1~x2/"><circle cx="235.9" cy="122.9" r="4" fill="#3465a4"><title>Glencross, (Solway) (Personal)</title></circle></a><a href="/setts/s10/r15lo30k1w6k1lo2dg16t4r6w1~x2/"><circle cx="208.8" cy="86.7" r="4" fill="#3465a4"><title>Westwood (Fashion?)</title></circle></a><a href="/setts/s9/m50ly4w16db2w4db2w15g27r4~x2/"><circle cx="192.4" cy="85.4" r="4" fill="#3465a4"><title>Rosevear</title></circle></a><a href="/setts/s9/r50ly4w16db2w4db2w15g27r4~x2/"><circle cx="195.0" cy="84.7" r="4" fill="#3465a4"><title>Rosevear</title></circle></a><a href="/setts/s8/r8lo44k32w2o52k7o7w3/"><circle cx="208.4" cy="123.7" r="4" fill="#3465a4"><title>Golden Wedding (Fashion)</title></circle></a><a href="/setts/s11/t8k1r22ly1r6k3dg10w1k3t20w1~x2/"><circle cx="191.8" cy="95.3" r="4" fill="#3465a4"><title>Unnamed C20th - National Archives</title></circle></a><a href="/setts/s7/r8ly2o7ly2n24k2g1~x2/"><circle cx="276.4" cy="118.6" r="4" fill="#3465a4"><title>(4) Traill</title></circle></a><a href="/setts/s8/dp8n44k32lp2o53lb8n8lb4/"><circle cx="183.8" cy="124.6" r="4" fill="#3465a4"><title>Silver Wedding (Fashion)</title></circle></a><a href="/setts/s8/k3w1r16k1g21b9k6w1~x4/"><circle cx="191.3" cy="135.4" r="4" fill="#3465a4"><title>Ford &amp; Etal</title></circle></a><a href="/setts/s8/lb5o49lb3dg24r5lo4dy30lb4~x2/"><circle cx="197.1" cy="135.7" r="4" fill="#3465a4"><title>State Seal of New Mexico (Fashion)</title></circle></a><circle cx="228.7" cy="105.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/o30ly4dt9lb2dt1o6dt8r8~x4/

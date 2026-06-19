@@ -2,7 +2,7 @@
 title: "Marino"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBGR](/stripes/bgbgbgr/) · **Stripes:** [N Y DB Y DO Y R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="seq">N Y DB Y DO Y R</span></span>
+**Bands:** [RGBGBGB](/stripes/rgbgbgb/) · **Stripes:** [R Y DO Y DB Y N](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="seq">R Y DO Y DB Y N</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5704
 
 ## Thread count
-LR/16 LT16 DR16 LT16 DB16 LT16 N/116
+N/116 LT16 DB16 LT16 DR16 LT16 LR/16
 ![Sett](sett.png)
 
 ## Palette
@@ -40,7 +40,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LR/16 LT16 DR16 LT16 DB16 LT16 N/116 tartan")
+![Tartan detail](tartan.png "N/116 LT16 DB16 LT16 DR16 LT16 LR/16 tartan")
 
 ## Nearest tartans
 
@@ -59,8 +59,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/n4o4n4k4n18k3do38w3~x2/"><circle cx="330.1" cy="186.0" r="4" fill="#3465a4"><title>Scotch Mist</title></circle></a><a href="/setts/s8/lb1n12r1dt1r1dt2r5lb1~x4/"><circle cx="337.2" cy="182.1" r="4" fill="#3465a4"><title>Tenmaya Corporate Tartan Tartan Number: 2346. Earliest known date: 1996 May 1996 for Tenmaya Department Store Ltd in Okayama, Japan. Sample in STA Johnston Collection. Designed for British promotion October/November 1996 which demonstrated weaving and woven by Archie Snmall from Selkirk who was sent to Fukuoka to demonstrate weaving. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/o3lr4o4do4o18do3n36w3~x2/"><circle cx="303.2" cy="173.3" r="4" fill="#3465a4"><title>Hebridean Granite Fashion Tartan Tartan Number: 6821. Earliest known date: 2005 For a new House of Edgar collection. Intended to emulate the gray morning suit perhaps. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/db18ly2o6ly2o19r3~x2/"><circle cx="317.5" cy="226.6" r="4" fill="#3465a4"><title>Balfour blue &amp; brown</title></circle></a><a href="/setts/s6/o15r5o30db32o4ly3~x2/"><circle cx="379.1" cy="245.0" r="4" fill="#3465a4"><title>Cameron, hunting</title></circle></a><a href="/setts/s6/r2db13r3db3r16t2~x4/"><circle cx="348.1" cy="244.8" r="4" fill="#3465a4"><title>MacArthur-Fox, dress</title></circle></a><a href="/setts/s7/r1g4lo1g3r4n15w1~x4/"><circle cx="332.9" cy="183.3" r="4" fill="#3465a4"><title>Bressuire (District)</title></circle></a><a href="/setts/s8/lb1o12r1dt1r1dt2r5lb1~x4/"><circle cx="342.0" cy="181.7" r="4" fill="#3465a4"><title>Tenmaya Check</title></circle></a><a href="/setts/s8/y30ly3y3ly3y12do30k3do5~x2/"><circle cx="336.0" cy="212.2" r="4" fill="#3465a4"><title>Dama Classic</title></circle></a><a href="/setts/s5/o62t17ly12g8dg8~x2/"><circle cx="315.7" cy="209.6" r="4" fill="#3465a4"><title>Dundhuin Dress (Personal)</title></circle></a><circle cx="339.4" cy="207.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/n4o4n4k4n18k3do38w3~x2/"><circle cx="329.9" cy="186.1" r="4" fill="#3465a4"><title>Scotch Mist</title></circle></a><a href="/setts/s8/lb1n12r1dt1r1dt2r5lb1~x4/"><circle cx="336.9" cy="182.1" r="4" fill="#3465a4"><title>Tenmaya Corporate Tartan Tartan Number: 2346. Earliest known date: 1996 May 1996 for Tenmaya Department Store Ltd in Okayama, Japan. Sample in STA Johnston Collection. Designed for British promotion October/November 1996 which demonstrated weaving and woven by Archie Snmall from Selkirk who was sent to Fukuoka to demonstrate weaving. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/o3lr4o4do4o18do3n36w3~x2/"><circle cx="303.0" cy="173.3" r="4" fill="#3465a4"><title>Hebridean Granite Fashion Tartan Tartan Number: 6821. Earliest known date: 2005 For a new House of Edgar collection. Intended to emulate the gray morning suit perhaps. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/db18ly2o6ly2o19r3~x2/"><circle cx="317.3" cy="226.5" r="4" fill="#3465a4"><title>Balfour blue &amp; brown</title></circle></a><a href="/setts/s6/o15r5o30db32o4ly3~x2/"><circle cx="378.9" cy="245.0" r="4" fill="#3465a4"><title>Cameron, hunting</title></circle></a><a href="/setts/s6/r2db13r3db3r16t2~x4/"><circle cx="348.0" cy="244.8" r="4" fill="#3465a4"><title>MacArthur-Fox, dress</title></circle></a><a href="/setts/s7/r1g4lo1g3r4n15w1~x4/"><circle cx="332.7" cy="183.3" r="4" fill="#3465a4"><title>Bressuire (District)</title></circle></a><a href="/setts/s8/lb1o12r1dt1r1dt2r5lb1~x4/"><circle cx="341.6" cy="181.8" r="4" fill="#3465a4"><title>Tenmaya Check</title></circle></a><a href="/setts/s8/y30ly3y3ly3y12do30k3do5~x2/"><circle cx="335.9" cy="212.2" r="4" fill="#3465a4"><title>Dama Classic</title></circle></a><a href="/setts/s5/o62t17ly12g8dg8~x2/"><circle cx="315.4" cy="209.5" r="4" fill="#3465a4"><title>Dundhuin Dress (Personal)</title></circle></a><circle cx="339.2" cy="207.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/n29y4db4y4do4y4r4~x4/

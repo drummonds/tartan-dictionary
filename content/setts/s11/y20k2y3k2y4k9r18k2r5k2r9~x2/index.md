@@ -2,7 +2,7 @@
 title: "Aubigny, Auld Alliance"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGKRKRKR](/stripes/gkgkgkrkrkr/) · **Stripes:** [Y K Y K Y K R K R K R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">Y K Y K Y K R K R K R</span></span>
+**Bands:** [RKRKRKGKGKG](/stripes/rkrkrkgkgkg/) · **Stripes:** [R K R K R K Y K Y K Y](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R K R K R K Y K Y K Y</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -914,8 +917,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/ly20k2ly3k2ly4k9r18k2r5~x2/"><circle cx="223.3" cy="173.2" r="4" fill="#3465a4"><title>Aubigny</title></circle></a><a href="/setts/s10/g8r1k1r8g1r8k1r1k8r1~x6/"><circle cx="254.6" cy="187.9" r="4" fill="#3465a4"><title>Hebridean, South Uist</title></circle></a><a href="/setts/s13/lo16k2lo2k2lo2k16r16k3r16k16lo16k2lo2~x2/"><circle cx="196.8" cy="190.0" r="4" fill="#3465a4"><title>Unidentified (NZ)</title></circle></a><a href="/setts/s17/r9k9ly4k2ly3k2ly20k2ly3k2ly4k9r18k2r5k2r9~x2/"><circle cx="195.2" cy="146.0" r="4" fill="#3465a4"><title>Aubigny Auld Alliance District Tartan Tartan Number: 2159. Earliest known date: 1994 The Aubigny Auld Alliance tartan was created using the Stewart of Atholl tartan and the colours of the Aubigny sur Nere town crest. The Stewart of Atholl tartan was used as the basis for this tartan because of the 16th century Chateau d'Aubigny sur Nere which was built by the Stewarts. The name arises from the Auld Alliance, a cultural and diplomatic treaty between Scotland and France, which was at it's strongest during conflicts with England, the common enemy. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db1k1r12g12k6db5r12k1db1~x2/"><circle cx="227.1" cy="168.9" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/setts/s10/k10t1k1r10t1k1t1r10g6r2~x2/"><circle cx="248.2" cy="161.0" r="4" fill="#3465a4"><title>Scoepaig, fragment</title></circle></a><a href="/setts/s9/lr1k1r10g10k5lr5r10k1lr1~x4/"><circle cx="201.4" cy="171.6" r="4" fill="#3465a4"><title>Graham Red</title></circle></a><a href="/setts/s9/k2db2r26dg25k13db13r26db2k2~x2/"><circle cx="230.5" cy="161.5" r="4" fill="#3465a4"><title>MacNaughton (Logan) #2</title></circle></a><a href="/setts/s9/g20db2g2db2g2db8r24db2r3~x2/"><circle cx="254.2" cy="161.4" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s11/k12lr4k4lr4k4lr10k4lr3k8r24lr2~x2/"><circle cx="217.0" cy="174.9" r="4" fill="#3465a4"><title>Wcwm 9285 4906-1</title></circle></a><circle cx="231.3" cy="172.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/ly20k2ly3k2ly4k9r18k2r5~x2/"><circle cx="223.1" cy="173.0" r="4" fill="#3465a4"><title>Aubigny</title></circle></a><a href="/setts/s10/g8r1k1r8g1r8k1r1k8r1~x6/"><circle cx="254.4" cy="187.7" r="4" fill="#3465a4"><title>Hebridean, South Uist</title></circle></a><a href="/setts/s13/lo16k2lo2k2lo2k16r16k3r16k16lo16k2lo2~x2/"><circle cx="196.6" cy="190.0" r="4" fill="#3465a4"><title>Unidentified (NZ)</title></circle></a><a href="/setts/s17/r9k9ly4k2ly3k2ly20k2ly3k2ly4k9r18k2r5k2r9~x2/"><circle cx="194.8" cy="145.9" r="4" fill="#3465a4"><title>Aubigny Auld Alliance District Tartan Tartan Number: 2159. Earliest known date: 1994 The Aubigny Auld Alliance tartan was created using the Stewart of Atholl tartan and the colours of the Aubigny sur Nere town crest. The Stewart of Atholl tartan was used as the basis for this tartan because of the 16th century Chateau d'Aubigny sur Nere which was built by the Stewarts. The name arises from the Auld Alliance, a cultural and diplomatic treaty between Scotland and France, which was at it's strongest during conflicts with England, the common enemy. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db1k1r12g12k6db5r12k1db1~x2/"><circle cx="227.0" cy="168.9" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/setts/s10/k10t1k1r10t1k1t1r10g6r2~x2/"><circle cx="248.1" cy="160.9" r="4" fill="#3465a4"><title>Scoepaig, fragment</title></circle></a><a href="/setts/s9/lr1k1r10g10k5lr5r10k1lr1~x4/"><circle cx="201.2" cy="171.6" r="4" fill="#3465a4"><title>Graham Red</title></circle></a><a href="/setts/s9/k2db2r26dg25k13db13r26db2k2~x2/"><circle cx="230.2" cy="161.4" r="4" fill="#3465a4"><title>MacNaughton (Logan) #2</title></circle></a><a href="/setts/s9/g20db2g2db2g2db8r24db2r3~x2/"><circle cx="253.9" cy="161.2" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s11/k12lr4k4lr4k4lr10k4lr3k8r24lr2~x2/"><circle cx="216.9" cy="174.8" r="4" fill="#3465a4"><title>Wcwm 9285 4906-1</title></circle></a><circle cx="231.0" cy="172.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/y20k2y3k2y4k9r18k2r5k2r9~x2/

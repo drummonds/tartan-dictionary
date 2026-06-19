@@ -22,6 +22,6 @@ KRKRKRKRKRKRKRKR
 
 | Tartans |
 |---------------|
-| [Murray of Ochtertyre](/setts/s16/k1r1k10r10k1r1k1r1k8r1k1r1k1r10k10r1~x4/)|
-|![Murray of Ochtertyre example sett](/setts/s16/k1r1k10r10k1r1k1r1k8r1k1r1k1r10k10r1~x4/sett.png)|
+| [Murray of Ochtertyre](/setts/s16/k8r1k1r1k1r10k10r1k1~x4/)|
+|![Murray of Ochtertyre example sett](/setts/s16/k8r1k1r1k1r10k10r1k1~x4/sett.png)|
 

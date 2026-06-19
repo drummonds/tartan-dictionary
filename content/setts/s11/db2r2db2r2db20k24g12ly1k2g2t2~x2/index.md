@@ -2,7 +2,7 @@
 title: "Unidentified 26"
 date: 2023-03-18
 ---
-**Bands:** [BGKYGKBRBRB](/stripes/bgkygkbrbrb/) · **Stripes:** [T G K LY G K DB R DB R DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">T G K LY G K DB R DB R DB</span></span>
+**Bands:** [BRBRBKGYKGB](/stripes/brbrbkgykgb/) · **Stripes:** [DB R DB R DB K G LY K G T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">DB R DB R DB K G LY K G T</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/w3db3r1db3r1db15r1db2g15o1g2k20o1k2o2~x2/"><circle cx="144.1" cy="84.7" r="4" fill="#3465a4"><title>Joseph Linn Family (Monohon 2012) (Personal)</title></circle></a><a href="/setts/s15/w3db3k1db3k1db15k1db2g15o1g2k20o1k2o2~x2/"><circle cx="145.5" cy="88.7" r="4" fill="#3465a4"><title>Joseph Linn Family (Monohon) Name Tartan Tartan Number: 10722. Earliest known date: 22 October 2012 Designed by Euan Dalgliesh and Joseph Linn. Joseph Linn and his wife, CathyJo, retired to the Monohon community on the shores of Lake Sammamish before the first of the next generation came into the world in October 2012. This tartan celebrates their recommitment to their family values and Celtic heritage. It also symbolises their hopes for a strong family connection for generations to come. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/w3db3r1db3r1db15r1db2g15lo1g2k20lo1k2lo2~x2/"><circle cx="159.2" cy="90.3" r="4" fill="#3465a4"><title>Linn (Personal)</title></circle></a><a href="/setts/s13/g18r1g2r2g16r1k16n1k2r2db20r1lb2~x4/"><circle cx="183.4" cy="99.2" r="4" fill="#3465a4"><title>Canadian Estate</title></circle></a><a href="/setts/s9/db24ly2k8dg16k1dg3k1dg3r4~x2/"><circle cx="225.7" cy="139.3" r="4" fill="#3465a4"><title>Ogilvy Hunting</title></circle></a><a href="/setts/s14/db88k15g9r12g20k3ly8k3g20r12g9k15db24k36~x2/"><circle cx="206.2" cy="100.6" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/setts/s12/n9m3n32n12k5n2k4n2k17p4k2lb2~x2/"><circle cx="204.2" cy="115.8" r="4" fill="#3465a4"><title>Scottish Spirit</title></circle></a><a href="/setts/s15/k56dt3lt6dt3w3dt3db6dt26t6dt3w3dt3db3dt3lt6/"><circle cx="194.7" cy="72.6" r="4" fill="#3465a4"><title>AIS Group</title></circle></a><a href="/setts/s12/dg6lb2dg24k12db3k2db2k2db12r1db1r3/"><circle cx="232.7" cy="123.6" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/setts/s14/b22r2b2r6b2r2b38k46r2do42y2do2y2do15~x2/"><circle cx="195.0" cy="99.2" r="4" fill="#3465a4"><title>Applestone</title></circle></a><circle cx="183.3" cy="94.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/w3db3r1db3r1db15r1db2g15o1g2k20o1k2o2~x2/"><circle cx="144.2" cy="84.8" r="4" fill="#3465a4"><title>Joseph Linn Family (Monohon 2012) (Personal)</title></circle></a><a href="/setts/s15/w3db3k1db3k1db15k1db2g15o1g2k20o1k2o2~x2/"><circle cx="145.6" cy="88.8" r="4" fill="#3465a4"><title>Joseph Linn Family (Monohon) Name Tartan Tartan Number: 10722. Earliest known date: 22 October 2012 Designed by Euan Dalgliesh and Joseph Linn. Joseph Linn and his wife, CathyJo, retired to the Monohon community on the shores of Lake Sammamish before the first of the next generation came into the world in October 2012. This tartan celebrates their recommitment to their family values and Celtic heritage. It also symbolises their hopes for a strong family connection for generations to come. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/w3db3r1db3r1db15r1db2g15lo1g2k20lo1k2lo2~x2/"><circle cx="159.2" cy="90.4" r="4" fill="#3465a4"><title>Linn (Personal)</title></circle></a><a href="/setts/s13/g18r1g2r2g16r1k16n1k2r2db20r1lb2~x4/"><circle cx="183.5" cy="99.3" r="4" fill="#3465a4"><title>Canadian Estate</title></circle></a><a href="/setts/s9/db24ly2k8dg16k1dg3k1dg3r4~x2/"><circle cx="225.8" cy="139.3" r="4" fill="#3465a4"><title>Ogilvy Hunting</title></circle></a><a href="/setts/s14/db88k15g9r12g20k3ly8k3g20r12g9k15db24k36~x2/"><circle cx="206.2" cy="100.7" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/setts/s12/n9m3n32n12k5n2k4n2k17p4k2lb2~x2/"><circle cx="204.2" cy="115.9" r="4" fill="#3465a4"><title>Scottish Spirit</title></circle></a><a href="/setts/s15/k56dt3lt6dt3w3dt3db6dt26t6dt3w3dt3db3dt3lt6/"><circle cx="194.8" cy="72.6" r="4" fill="#3465a4"><title>AIS Group</title></circle></a><a href="/setts/s12/dg6lb2dg24k12db3k2db2k2db12r1db1r3/"><circle cx="232.8" cy="123.7" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/setts/s14/b22r2b2r6b2r2b38k46r2do42y2do2y2do15~x2/"><circle cx="195.0" cy="99.3" r="4" fill="#3465a4"><title>Applestone</title></circle></a><circle cx="183.5" cy="95.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db2r2db2r2db20k24g12ly1k2g2t2~x2/

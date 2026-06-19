@@ -2,7 +2,7 @@
 title: "Kerby, from the Tennessee Cumberland Basin"
 date: 2023-03-18
 ---
-**Bands:** [BWBKGKGKGYGR](/stripes/bwbkgkgkgygr/) · **Stripes:** [DP W DP K DG K DG K DG LY DG R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">DP W DP K DG K DG K DG LY DG R</span></span>
+**Bands:** [RGYGKGKGKBWB](/stripes/rgygkgkgkbwb/) · **Stripes:** [R DG LY DG K DG K DG K DP W DP](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DG LY DG K DG K DG K DP W DP</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DP/8 LN4 DP20 K20 DG6 K6 DG6 K4 DG48 Y4 DG4 DR/8
+DR/8 DG4 Y4 DG48 K4 DG6 K6 DG6 K20 DP20 LN4 DP/8
 ![Sett](sett.png)
 
 ## Palette
@@ -909,16 +912,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Survivor (Fashion)](/setts/s13/k1r1k8g1k1g8ly1dt8k1dt1k8w1k1~x3/) — ΔT 1.05
 1. [Scottish Spirit](/setts/s12/n9m3n32n12k5n2k4n2k17p4k2lb2~x2/) — ΔT 1.07
 1. [Cornish Hunting](/setts/s12/k26ly2dg24db8k4r3k4db8dg24ly2k26w5~x2/) — ΔT 1.14
-1. [Choinka Family (Inverness)](/setts/s11/dg4k2n3k2dg20k9k7k2ly3k2k4~x2/) — ΔT 1.16
+1. [Choinka Family (Inverness)](/setts/s11/k4k2ly3k2k7k9dg20k2n3k2dg4~x2/) — ΔT 1.16
 1. [Roderick Dhu](/setts/s9/b3k2r2k12g10ly1k1g2lb2~x4/) — ΔT 1.17
 1. [Hitchens, William Henry (Commem)](/setts/s14/r4k2r2k2r2k2r8k6r2g2dt9g2k21w4~x2/) — ΔT 1.18
 1. [Survivor](/setts/s13/k1r1k8g1k1g8ly1db8k1db1k8w1k1~x6/) — ΔT 1.20
-1. [MacInnes](/setts/s13/ly2k12dg2k2dg2k2dg16k3b3k3db12dg6r2~x2/) — ΔT 1.21
+1. [MacInnes](/setts/s13/r2dg6db12k3b3k3dg16k2dg2k2dg2k12ly2~x2/) — ΔT 1.21
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dp4w2dp10k10g3k3g3k2g24ly2g2r4~x2/"><circle cx="207.0" cy="133.1" r="4" fill="#3465a4"><title>Kerby (Personal)</title></circle></a><a href="/setts/s11/r5dg30k6ly2k3b5k12r8k3r3lr3~x2/"><circle cx="160.1" cy="120.8" r="4" fill="#3465a4"><title>King George (Nash)</title></circle></a><a href="/setts/s13/k1r1k8g1k1g8ly1dt8k1dt1k8w1k1~x3/"><circle cx="214.5" cy="155.7" r="4" fill="#3465a4"><title>Survivor (Fashion)</title></circle></a><a href="/setts/s12/n9m3n32n12k5n2k4n2k17p4k2lb2~x2/"><circle cx="204.2" cy="115.8" r="4" fill="#3465a4"><title>Scottish Spirit</title></circle></a><a href="/setts/s12/k26ly2dg24db8k4r3k4db8dg24ly2k26w5~x2/"><circle cx="178.2" cy="144.7" r="4" fill="#3465a4"><title>Cornish Hunting</title></circle></a><a href="/setts/s11/dg4k2n3k2dg20k9k7k2ly3k2k4~x2/"><circle cx="195.0" cy="172.9" r="4" fill="#3465a4"><title>Choinka Family (Inverness)</title></circle></a><a href="/setts/s9/b3k2r2k12g10ly1k1g2lb2~x4/"><circle cx="187.3" cy="145.8" r="4" fill="#3465a4"><title>Roderick Dhu</title></circle></a><a href="/setts/s14/r4k2r2k2r2k2r8k6r2g2dt9g2k21w4~x2/"><circle cx="199.6" cy="125.7" r="4" fill="#3465a4"><title>Hitchens, William Henry (Commem)</title></circle></a><a href="/setts/s13/k1r1k8g1k1g8ly1db8k1db1k8w1k1~x6/"><circle cx="187.9" cy="143.4" r="4" fill="#3465a4"><title>Survivor</title></circle></a><a href="/setts/s13/ly2k12dg2k2dg2k2dg16k3b3k3db12dg6r2~x2/"><circle cx="149.3" cy="163.6" r="4" fill="#3465a4"><title>MacInnes</title></circle></a><circle cx="205.3" cy="135.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dp4w2dp10k10g3k3g3k2g24ly2g2r4~x2/"><circle cx="207.0" cy="133.2" r="4" fill="#3465a4"><title>Kerby (Personal)</title></circle></a><a href="/setts/s11/r5dg30k6ly2k3b5k12r8k3r3lr3~x2/"><circle cx="160.2" cy="120.9" r="4" fill="#3465a4"><title>King George (Nash)</title></circle></a><a href="/setts/s13/k1r1k8g1k1g8ly1dt8k1dt1k8w1k1~x3/"><circle cx="214.6" cy="155.8" r="4" fill="#3465a4"><title>Survivor (Fashion)</title></circle></a><a href="/setts/s12/n9m3n32n12k5n2k4n2k17p4k2lb2~x2/"><circle cx="204.2" cy="115.9" r="4" fill="#3465a4"><title>Scottish Spirit</title></circle></a><a href="/setts/s12/k26ly2dg24db8k4r3k4db8dg24ly2k26w5~x2/"><circle cx="178.4" cy="144.8" r="4" fill="#3465a4"><title>Cornish Hunting</title></circle></a><a href="/setts/s11/k4k2ly3k2k7k9dg20k2n3k2dg4~x2/"><circle cx="195.2" cy="173.0" r="4" fill="#3465a4"><title>Choinka Family (Inverness)</title></circle></a><a href="/setts/s9/b3k2r2k12g10ly1k1g2lb2~x4/"><circle cx="187.3" cy="145.8" r="4" fill="#3465a4"><title>Roderick Dhu</title></circle></a><a href="/setts/s14/r4k2r2k2r2k2r8k6r2g2dt9g2k21w4~x2/"><circle cx="199.6" cy="125.8" r="4" fill="#3465a4"><title>Hitchens, William Henry (Commem)</title></circle></a><a href="/setts/s13/k1r1k8g1k1g8ly1db8k1db1k8w1k1~x6/"><circle cx="187.9" cy="143.5" r="4" fill="#3465a4"><title>Survivor</title></circle></a><a href="/setts/s13/r2dg6db12k3b3k3dg16k2dg2k2dg2k12ly2~x2/"><circle cx="149.5" cy="163.8" r="4" fill="#3465a4"><title>MacInnes</title></circle></a><circle cx="205.4" cy="135.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/dp4w2dp10k10dg3k3dg3k2dg24ly2dg2r4~x2/

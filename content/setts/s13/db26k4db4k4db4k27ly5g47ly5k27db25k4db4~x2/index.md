@@ -2,7 +2,7 @@
 title: "Campbell of Breadalbane (Military)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKYGYKBKB](/stripes/bkbkbkygykbkb/) · **Stripes:** [DB K DB K DB K LY G LY K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DB K LY G LY K DB K DB</span></span>
+**Bands:** [BKBKYGYKBKBKB](/stripes/bkbkygykbkbkb/) · **Stripes:** [DB K DB K LY G LY K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K LY G LY K DB K DB K DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -930,8 +933,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db26k4db4k4db4k27ly5dg47ly5k27db25k4db4~x2/"><circle cx="214.8" cy="183.4" r="4" fill="#3465a4"><title>Campbell of Breadalbane #2</title></circle></a><a href="/setts/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12~x2/"><circle cx="203.9" cy="169.9" r="4" fill="#3465a4"><title>Stewart of Appin (Clan)</title></circle></a><a href="/setts/s12/db17r2db2r5db29r2k31g29r5g2r2g17~x2/"><circle cx="210.3" cy="169.9" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/setts/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x4/"><circle cx="187.8" cy="162.5" r="4" fill="#3465a4"><title>Baillie of Polkemmet</title></circle></a><a href="/setts/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x2/"><circle cx="187.8" cy="162.5" r="4" fill="#3465a4"><title>Baillie of Polkemett Family Tartan Tartan Number: 206. Earliest known date: 1937 This sett was designed by Mr A.W. Geddes of Messrs William Anderson of Edinburgh in 1937. It is based on the MacKenzie tartan substituting three fine white lines on the green in place of the single stripe. It was designed for the Baillies of Polkemett. Geddes also produced a red sett for the Baillies around the same period. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/db56k6db6k6db6k44dg44ly4dg5ly8/"><circle cx="230.3" cy="178.3" r="4" fill="#3465a4"><title>Gordon #2</title></circle></a><a href="/setts/s13/db8k1db1k1db1k8ly1dg14ly1k8db8k1db1~x2/"><circle cx="238.8" cy="179.1" r="4" fill="#3465a4"><title>Black from Cumnock (Personal)</title></circle></a><a href="/setts/s15/db19k3db3k3db3k20g19k2r5k2g19k20db19k3db3~x2/"><circle cx="215.5" cy="196.6" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/setts/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/"><circle cx="233.5" cy="196.2" r="4" fill="#3465a4"><title>Princess Louise (Royal)</title></circle></a><a href="/setts/s11/db30k2db2k2db2k32g15r2g4r4g30~x2/"><circle cx="254.1" cy="171.2" r="4" fill="#3465a4"><title>Scottish Tourist Board (1981) (Corp)</title></circle></a><circle cx="207.5" cy="180.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db26k4db4k4db4k27ly5dg47ly5k27db25k4db4~x2/"><circle cx="214.9" cy="183.5" r="4" fill="#3465a4"><title>Campbell of Breadalbane #2</title></circle></a><a href="/setts/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12~x2/"><circle cx="204.0" cy="170.1" r="4" fill="#3465a4"><title>Stewart of Appin (Clan)</title></circle></a><a href="/setts/s12/db17r2db2r5db29r2k31g29r5g2r2g17~x2/"><circle cx="210.3" cy="170.0" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/setts/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x4/"><circle cx="187.8" cy="162.6" r="4" fill="#3465a4"><title>Baillie of Polkemmet</title></circle></a><a href="/setts/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x2/"><circle cx="187.8" cy="162.6" r="4" fill="#3465a4"><title>Baillie of Polkemett Family Tartan Tartan Number: 206. Earliest known date: 1937 This sett was designed by Mr A.W. Geddes of Messrs William Anderson of Edinburgh in 1937. It is based on the MacKenzie tartan substituting three fine white lines on the green in place of the single stripe. It was designed for the Baillies of Polkemett. Geddes also produced a red sett for the Baillies around the same period. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/db56k6db6k6db6k44dg44ly4dg5ly8/"><circle cx="230.4" cy="178.3" r="4" fill="#3465a4"><title>Gordon #2</title></circle></a><a href="/setts/s13/db8k1db1k1db1k8ly1dg14ly1k8db8k1db1~x2/"><circle cx="238.8" cy="179.2" r="4" fill="#3465a4"><title>Black from Cumnock (Personal)</title></circle></a><a href="/setts/s15/db19k3db3k3db3k20g19k2r5k2g19k20db19k3db3~x2/"><circle cx="215.6" cy="196.7" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/setts/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/"><circle cx="233.6" cy="196.3" r="4" fill="#3465a4"><title>Princess Louise (Royal)</title></circle></a><a href="/setts/s11/db30k2db2k2db2k32g15r2g4r4g30~x2/"><circle cx="254.1" cy="171.2" r="4" fill="#3465a4"><title>Scottish Tourist Board (1981) (Corp)</title></circle></a><circle cx="207.6" cy="180.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db26k4db4k4db4k27ly5g47ly5k27db25k4db4~x2/

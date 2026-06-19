@@ -18,10 +18,10 @@ BKGRGKRKRKGKRKRKGRGK
 
 
 
-### DB K G R G K R K R K G K R K R K G R G K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K G R G K R K R K G K R K R K G R G K</span></span>
+### K G R G K R K R K G K R K R K G R G K DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K G R G K R K R K G K R K R K G R G K DB</span></span>
 
 | Tartans |
 |---------------|
-| [Highfield](/setts/s20/db10k2g2r2g2k2r2k2r4k1g2k1r4k2r2k2g2r2g2k2~x4/)|
-|![Highfield example sett](/setts/s20/db10k2g2r2g2k2r2k2r4k1g2k1r4k2r2k2g2r2g2k2~x4/sett.png)|
+| [Highfield](/setts/s20/db10k2g2r2g2k2r2k2r4k1g2~x4/)|
+|![Highfield example sett](/setts/s20/db10k2g2r2g2k2r2k2r4k1g2~x4/sett.png)|
 

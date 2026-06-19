@@ -20,7 +20,7 @@ BGBBBY
 
 
 
-### DT G DT DR DT LO <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DT G DT DR DT LO</span></span>
+### LO DT DR DT G DT <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="seq">LO DT DR DT G DT</span></span>
 
 | Tartans |
 |---------------|

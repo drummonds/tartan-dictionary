@@ -2,7 +2,7 @@
 title: "Lindsay"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGBRBR](/stripes/gbgbgbrbr/) · **Stripes:** [DG DB DG DB DG DB R DB R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG DB DG DB DG DB R DB R</span></span>
+**Bands:** [RBRBGBGBG](/stripes/rbrbgbgbg/) · **Stripes:** [R DB R DB DG DB DG DB DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">R DB R DB DG DB DG DB DG</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -921,8 +924,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k2r26n26k2n3k2n3k14r2k2~x2/"><circle cx="316.3" cy="195.3" r="4" fill="#3465a4"><title>Wcwm 1527</title></circle></a><a href="/setts/s9/dr20g2dr2g2dr2g8k24g2k3~x2/"><circle cx="340.6" cy="224.5" r="4" fill="#3465a4"><title>Carlow, County</title></circle></a><a href="/setts/s9/dg20db2dg2db2dg2db8m24db2m3~x2/"><circle cx="331.8" cy="209.4" r="4" fill="#3465a4"><title>Lindsay Clan Tartan Tartan Number: 704. Earliest known date: 1842 The Lindsay tartan is often first recognised by its colour, which is unusual as the precise shade of tartan colours is normally left to the discretion of the weaver. The sett is similar to Stewart of Athol, but for the black, rendered in Lindsay as dark blue. The name Lindsay first appeared in the Borders of Scotland in the 12th century. Border Clan tartans were not generally named until the publication of the romantic fiction known as the Vestiarium Scoticum. (1842). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/dg20db2dg2db2dg2db8m24db2m3/"><circle cx="331.8" cy="209.4" r="4" fill="#3465a4"><title>Lindsay MINI Design Tartan Tartan Number: 7111. Earliest known date: Dupion Silk. Display Purposes Only. Reduced Copy of 704 Lindsay. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/dg20db2dg2db2dg2db8o24db2o3/"><circle cx="305.3" cy="204.2" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/dg20db2dg2db2dg2db8dr24db2dr3~x2/"><circle cx="351.2" cy="230.3" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/dg20db2dg2db2dg2db8dr24db2dr3/"><circle cx="351.2" cy="230.3" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/db10dg1db1dg1db1dg2r12dg1r2~x4/"><circle cx="370.6" cy="213.7" r="4" fill="#3465a4"><title>Lawlis/Lawless</title></circle></a><a href="/setts/s9/dg28r12dg4k20lo2k3lo2k3dg7~x2/"><circle cx="319.1" cy="203.0" r="4" fill="#3465a4"><title>Cork, County (District)</title></circle></a><a href="/setts/s10/g18db3g3db3g2db8m23db2m4g2~x2/"><circle cx="288.3" cy="197.8" r="4" fill="#3465a4"><title>McGlynn</title></circle></a><circle cx="324.6" cy="211.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k2r26n26k2n3k2n3k14r2k2~x2/"><circle cx="316.2" cy="195.4" r="4" fill="#3465a4"><title>Wcwm 1527</title></circle></a><a href="/setts/s9/dr20g2dr2g2dr2g8k24g2k3~x2/"><circle cx="340.6" cy="224.6" r="4" fill="#3465a4"><title>Carlow, County</title></circle></a><a href="/setts/s9/dg20db2dg2db2dg2db8m24db2m3~x2/"><circle cx="331.7" cy="209.4" r="4" fill="#3465a4"><title>Lindsay Clan Tartan Tartan Number: 704. Earliest known date: 1842 The Lindsay tartan is often first recognised by its colour, which is unusual as the precise shade of tartan colours is normally left to the discretion of the weaver. The sett is similar to Stewart of Athol, but for the black, rendered in Lindsay as dark blue. The name Lindsay first appeared in the Borders of Scotland in the 12th century. Border Clan tartans were not generally named until the publication of the romantic fiction known as the Vestiarium Scoticum. (1842). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/dg20db2dg2db2dg2db8m24db2m3/"><circle cx="331.7" cy="209.4" r="4" fill="#3465a4"><title>Lindsay MINI Design Tartan Tartan Number: 7111. Earliest known date: Dupion Silk. Display Purposes Only. Reduced Copy of 704 Lindsay. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/dg20db2dg2db2dg2db8o24db2o3/"><circle cx="305.2" cy="204.2" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/dg20db2dg2db2dg2db8dr24db2dr3~x2/"><circle cx="351.1" cy="230.4" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/dg20db2dg2db2dg2db8dr24db2dr3/"><circle cx="351.1" cy="230.4" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/db10dg1db1dg1db1dg2r12dg1r2~x4/"><circle cx="370.5" cy="213.7" r="4" fill="#3465a4"><title>Lawlis/Lawless</title></circle></a><a href="/setts/s9/dg28r12dg4k20lo2k3lo2k3dg7~x2/"><circle cx="319.1" cy="203.0" r="4" fill="#3465a4"><title>Cork, County (District)</title></circle></a><a href="/setts/s10/g18db3g3db3g2db8m23db2m4g2~x2/"><circle cx="288.2" cy="197.8" r="4" fill="#3465a4"><title>McGlynn</title></circle></a><circle cx="324.6" cy="211.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dg20db2dg2db2dg2db8r24db2r3~x2/

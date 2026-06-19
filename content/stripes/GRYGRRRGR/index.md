@@ -18,7 +18,7 @@ GRYGRRRGR
 
 
 
-### DY R LR DG O R O DY R <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="seq">DY R LR DG O R O DY R</span></span>
+### R DY O R O DG LR R DY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">R DY O R O DG LR R DY</span></span>
 
 | Tartans |
 |---------------|

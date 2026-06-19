@@ -2,7 +2,7 @@
 title: "California"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGRGRGRGKY](/stripes/bkbkgrgrgrgky/) · **Stripes:** [B K DB K G R G R G R G K LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">B K DB K G R G R G R G K LY</span></span>
+**Bands:** [YKGRGRGRGKBKB](/stripes/ykgrgrgrgkbkb/) · **Stripes:** [LY K G R G R G R G K DB K B](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LY K G R G R G R G K DB K B</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/8 K2 Ba56 K32 G20 R4 G20 R8 G20 R4 G20 K2 Y/8
+Y/8 K2 G20 R4 G20 R8 G20 R4 G20 K32 Ba56 K2 B/8
 ![Sett](sett.png)
 
 ## Palette
@@ -905,7 +908,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Baron of Greencastle (Personal)](/setts/s13/g4ly2g24r2k12db3k2db2k2db12w1db1w3~x2/) — ΔT 0.95
-1. [California State](/setts/s13/lb4k1t28k16g10r2g10r4g10r2g10k1ly4~x2/) — ΔT 0.96
+1. [California State](/setts/s13/ly4k1g10r2g10r4g10r2g10k16t28k1lb4~x2/) — ΔT 0.96
 1. [Birch](/setts/s9/g3p4g23k10r2k10t18k1w3~x2/) — ΔT 0.97
 1. [Princess Diana](/setts/s12/k14r2k2r2k2g18r2g18lb1db12t1r8~x2/) — ΔT 0.97
 1. [Brehat (Personal)](/setts/s11/g30dp4r6w6db6dp3k14w14db50g50w2/) — ΔT 1.00
@@ -913,12 +916,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Birch Family Tartan Tartan Number: 2157. Earliest known date: 1993 The Birch family tartan was designed and produced by Mr Robin Birch of Connell Reid kiltmaker, Blairgowrie. The new sett has been recorded by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/g3dp4g23k10r2k10t18k1w3~x2/) — ΔT 1.05
 1. [Fermanagh County, Crest Range](/setts/s10/r4w6k10db5k3o16k3dg33k1w4~x2/) — ΔT 1.06
 1. [Birch (Name)](/setts/s9/g3dp2g25k6r2k6t20k1lb2~x2/) — ΔT 1.07
-1. [Gow, hunting](/setts/s14/k24g12k1ly3k1g12k1r3k1g12k12db12db3db12~x4/) — ΔT 1.07
+1. [Gow, hunting](/setts/s14/k24g12k1ly3k1g12k1r3k1g12k12db12db3db12~x4/) — ΔT 1.08
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g4ly2g24r2k12db3k2db2k2db12w1db1w3~x2/"><circle cx="193.7" cy="92.1" r="4" fill="#3465a4"><title>Baron of Greencastle (Personal)</title></circle></a><a href="/setts/s13/lb4k1t28k16g10r2g10r4g10r2g10k1ly4~x2/"><circle cx="181.5" cy="103.2" r="4" fill="#3465a4"><title>California State</title></circle></a><a href="/setts/s9/g3p4g23k10r2k10t18k1w3~x2/"><circle cx="135.5" cy="117.8" r="4" fill="#3465a4"><title>Birch</title></circle></a><a href="/setts/s12/k14r2k2r2k2g18r2g18lb1db12t1r8~x2/"><circle cx="176.1" cy="117.6" r="4" fill="#3465a4"><title>Princess Diana</title></circle></a><a href="/setts/s11/g30dp4r6w6db6dp3k14w14db50g50w2/"><circle cx="193.3" cy="99.4" r="4" fill="#3465a4"><title>Brehat (Personal)</title></circle></a><a href="/setts/s11/ly7g1k1ly2k9g22g7k27b4k3w4~x2/"><circle cx="194.8" cy="92.9" r="4" fill="#3465a4"><title>Gilhooley (Name)</title></circle></a><a href="/setts/s9/g3dp4g23k10r2k10t18k1w3~x2/"><circle cx="160.9" cy="128.4" r="4" fill="#3465a4"><title>Birch Family Tartan Tartan Number: 2157. Earliest known date: 1993 The Birch family tartan was designed and produced by Mr Robin Birch of Connell Reid kiltmaker, Blairgowrie. The new sett has been recorded by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r4w6k10db5k3o16k3dg33k1w4~x2/"><circle cx="180.1" cy="87.5" r="4" fill="#3465a4"><title>Fermanagh County, Crest Range</title></circle></a><a href="/setts/s9/g3dp2g25k6r2k6t20k1lb2~x2/"><circle cx="193.6" cy="102.0" r="4" fill="#3465a4"><title>Birch (Name)</title></circle></a><a href="/setts/s14/k24g12k1ly3k1g12k1r3k1g12k12db12db3db12~x4/"><circle cx="148.6" cy="110.0" r="4" fill="#3465a4"><title>Gow, hunting</title></circle></a><circle cx="163.0" cy="96.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g4ly2g24r2k12db3k2db2k2db12w1db1w3~x2/"><circle cx="193.7" cy="92.2" r="4" fill="#3465a4"><title>Baron of Greencastle (Personal)</title></circle></a><a href="/setts/s13/ly4k1g10r2g10r4g10r2g10k16t28k1lb4~x2/"><circle cx="181.4" cy="103.3" r="4" fill="#3465a4"><title>California State</title></circle></a><a href="/setts/s9/g3p4g23k10r2k10t18k1w3~x2/"><circle cx="135.6" cy="117.9" r="4" fill="#3465a4"><title>Birch</title></circle></a><a href="/setts/s12/k14r2k2r2k2g18r2g18lb1db12t1r8~x2/"><circle cx="176.2" cy="117.6" r="4" fill="#3465a4"><title>Princess Diana</title></circle></a><a href="/setts/s11/g30dp4r6w6db6dp3k14w14db50g50w2/"><circle cx="193.3" cy="99.4" r="4" fill="#3465a4"><title>Brehat (Personal)</title></circle></a><a href="/setts/s11/ly7g1k1ly2k9g22g7k27b4k3w4~x2/"><circle cx="194.7" cy="92.9" r="4" fill="#3465a4"><title>Gilhooley (Name)</title></circle></a><a href="/setts/s9/g3dp4g23k10r2k10t18k1w3~x2/"><circle cx="160.9" cy="128.5" r="4" fill="#3465a4"><title>Birch Family Tartan Tartan Number: 2157. Earliest known date: 1993 The Birch family tartan was designed and produced by Mr Robin Birch of Connell Reid kiltmaker, Blairgowrie. The new sett has been recorded by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r4w6k10db5k3o16k3dg33k1w4~x2/"><circle cx="180.0" cy="87.6" r="4" fill="#3465a4"><title>Fermanagh County, Crest Range</title></circle></a><a href="/setts/s9/g3dp2g25k6r2k6t20k1lb2~x2/"><circle cx="193.6" cy="102.0" r="4" fill="#3465a4"><title>Birch (Name)</title></circle></a><a href="/setts/s14/k24g12k1ly3k1g12k1r3k1g12k12db12db3db12~x4/"><circle cx="148.8" cy="110.1" r="4" fill="#3465a4"><title>Gow, hunting</title></circle></a><circle cx="163.0" cy="96.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/b4k1db28k16g10r2g10r4g10r2g10k1ly4~x2/

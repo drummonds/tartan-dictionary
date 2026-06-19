@@ -2,12 +2,18 @@
 title: "Carnegie #2"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBRKWRWRWRY](/stripes/brbrbrkwrwrwry/) · **Stripes:** [DB R DB R DB R K W R W R W R LY](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB R DB R DB R K W R W R W R LY</span></span>
+**Bands:** [YRWRWRWKRBRBRB](/stripes/yrwrwrwkrbrbrb/) · **Stripes:** [LY R W R W R W K R DB R DB R DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY R W R W R W K R DB R DB R DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Carnegie #2
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,19 +921,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacFarlane Dress](/setts/s15/db4w2r6k1db12dg4db2r6db1r6w2dg8r2w16r4~x2/) — ΔT 0.59
 1. [MacFarlane Dress Clan Tartan Tartan Number: 659. Earliest known date: 1930-40 MacKinlay was a collector of tartans from the period between the wars. He drew out the patterns on strips of paper defining the warp with colouring pencils. Originally listed as MacFadzean MacPhedran. Threadcount corrected in 2005. The B2 in the red was restored. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/db4w2r6k1db12g4w2r6db1r6w2g8r2w16r4~x2/) — ΔT 0.74
-1. [Cameron of Erracht Dress](/setts/s11/ly2k2r2db10r1k9w9r2w2r1w2~x2/) — ΔT 0.84
+1. [Cameron of Erracht Dress](/setts/s11/w2r1w2r2w9k9r1db10r2k2ly2~x2/) — ΔT 0.84
 1. [Auld Alliance](/setts/s16/w5db1db10db2db4db2db1db2db4db2r15w15db15dp2db1dp4~x2/) — ΔT 0.91
 1. [MacDuff Dress #4](/setts/s11/r16k6r14dg22k16db16w10r6w45k4r4/) — ΔT 0.98
 1. [Royal Canadian Air Force (Military)](/setts/s18/r4lb6k1r2k1lb14k3w3k2r2k2r2db4r2db6r2db6r2~x2/) — ΔT 0.98
-1. [Unidentified #11](/setts/s15/db2k1db6k1r5ly3r5k2w3k2w9k1w2k1ly2~x2/) — ΔT 0.99
+1. [Unidentified #11](/setts/s15/db2k1db6k1r5ly3r5k2w3k2w9k1w2k1ly2~x2/) — ΔT 1.00
 1. [Chieftain, The](/setts/s12/db17r6lo2r6k2w2k2w10k1w2k1lo3~x2/) — ΔT 1.00
 1. [Tommy](/setts/s13/o4k1o5k4db11w2db11k4w2o2w15k2w3~x2/) — ΔT 1.03
 1. [Alaskan Scottish](/setts/s17/w4db1g9db9r9db1ly4db1r9db9g1db1g1db1g4db1w4~x2/) — ΔT 1.05
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db4w2r6k1db12dg4db2r6db1r6w2dg8r2w16r4~x2/"><circle cx="108.9" cy="107.7" r="4" fill="#3465a4"><title>MacFarlane Dress</title></circle></a><a href="/setts/s15/db4w2r6k1db12g4w2r6db1r6w2g8r2w16r4~x2/"><circle cx="118.4" cy="111.8" r="4" fill="#3465a4"><title>MacFarlane Dress Clan Tartan Tartan Number: 659. Earliest known date: 1930-40 MacKinlay was a collector of tartans from the period between the wars. He drew out the patterns on strips of paper defining the warp with colouring pencils. Originally listed as MacFadzean MacPhedran. Threadcount corrected in 2005. The B2 in the red was restored. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/ly2k2r2db10r1k9w9r2w2r1w2~x2/"><circle cx="88.1" cy="130.2" r="4" fill="#3465a4"><title>Cameron of Erracht Dress</title></circle></a><a href="/setts/s16/w5db1db10db2db4db2db1db2db4db2r15w15db15dp2db1dp4~x2/"><circle cx="107.6" cy="104.7" r="4" fill="#3465a4"><title>Auld Alliance</title></circle></a><a href="/setts/s11/r16k6r14dg22k16db16w10r6w45k4r4/"><circle cx="99.4" cy="135.6" r="4" fill="#3465a4"><title>MacDuff Dress #4</title></circle></a><a href="/setts/s18/r4lb6k1r2k1lb14k3w3k2r2k2r2db4r2db6r2db6r2~x2/"><circle cx="106.5" cy="110.1" r="4" fill="#3465a4"><title>Royal Canadian Air Force (Military)</title></circle></a><a href="/setts/s15/db2k1db6k1r5ly3r5k2w3k2w9k1w2k1ly2~x2/"><circle cx="61.9" cy="134.3" r="4" fill="#3465a4"><title>Unidentified #11</title></circle></a><a href="/setts/s12/db17r6lo2r6k2w2k2w10k1w2k1lo3~x2/"><circle cx="114.2" cy="103.2" r="4" fill="#3465a4"><title>Chieftain, The</title></circle></a><a href="/setts/s13/o4k1o5k4db11w2db11k4w2o2w15k2w3~x2/"><circle cx="138.1" cy="136.8" r="4" fill="#3465a4"><title>Tommy</title></circle></a><a href="/setts/s17/w4db1g9db9r9db1ly4db1r9db9g1db1g1db1g4db1w4~x2/"><circle cx="105.1" cy="130.9" r="4" fill="#3465a4"><title>Alaskan Scottish</title></circle></a><circle cx="106.5" cy="117.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db4w2r6k1db12dg4db2r6db1r6w2dg8r2w16r4~x2/"><circle cx="108.7" cy="107.7" r="4" fill="#3465a4"><title>MacFarlane Dress</title></circle></a><a href="/setts/s15/db4w2r6k1db12g4w2r6db1r6w2g8r2w16r4~x2/"><circle cx="118.2" cy="111.9" r="4" fill="#3465a4"><title>MacFarlane Dress Clan Tartan Tartan Number: 659. Earliest known date: 1930-40 MacKinlay was a collector of tartans from the period between the wars. He drew out the patterns on strips of paper defining the warp with colouring pencils. Originally listed as MacFadzean MacPhedran. Threadcount corrected in 2005. The B2 in the red was restored. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w2r1w2r2w9k9r1db10r2k2ly2~x2/"><circle cx="88.0" cy="130.2" r="4" fill="#3465a4"><title>Cameron of Erracht Dress</title></circle></a><a href="/setts/s16/w5db1db10db2db4db2db1db2db4db2r15w15db15dp2db1dp4~x2/"><circle cx="107.5" cy="104.8" r="4" fill="#3465a4"><title>Auld Alliance</title></circle></a><a href="/setts/s11/r16k6r14dg22k16db16w10r6w45k4r4/"><circle cx="99.3" cy="135.6" r="4" fill="#3465a4"><title>MacDuff Dress #4</title></circle></a><a href="/setts/s18/r4lb6k1r2k1lb14k3w3k2r2k2r2db4r2db6r2db6r2~x2/"><circle cx="106.4" cy="110.2" r="4" fill="#3465a4"><title>Royal Canadian Air Force (Military)</title></circle></a><a href="/setts/s15/db2k1db6k1r5ly3r5k2w3k2w9k1w2k1ly2~x2/"><circle cx="61.8" cy="134.3" r="4" fill="#3465a4"><title>Unidentified #11</title></circle></a><a href="/setts/s12/db17r6lo2r6k2w2k2w10k1w2k1lo3~x2/"><circle cx="114.1" cy="103.3" r="4" fill="#3465a4"><title>Chieftain, The</title></circle></a><a href="/setts/s13/o4k1o5k4db11w2db11k4w2o2w15k2w3~x2/"><circle cx="138.0" cy="136.8" r="4" fill="#3465a4"><title>Tommy</title></circle></a><a href="/setts/s17/w4db1g9db9r9db1ly4db1r9db9g1db1g1db1g4db1w4~x2/"><circle cx="105.0" cy="130.9" r="4" fill="#3465a4"><title>Alaskan Scottish</title></circle></a><circle cx="106.4" cy="117.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/db10r2db2r4db12r2k14w13r4w2r2w4r1ly3~x2/

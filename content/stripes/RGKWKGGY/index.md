@@ -8,7 +8,7 @@ RGKWKGGY
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/lo3dg22dg13k15w3k16dg1r3~x2/tartan.png)
+![Woven sample](/setts/s8/r3dg1k16w3k15dg13dg22lo3~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RGKWKGGY
 
 | Tartans |
 |---------------|
-| [Lawson, William](/setts/s8/lo3dg22dg13k15w3k16dg1r3~x2/)|
-|![Lawson, William example sett](/setts/s8/lo3dg22dg13k15w3k16dg1r3~x2/sett.png)|
+| [Lawson, William](/setts/s8/r3dg1k16w3k15dg13dg22lo3~x2/)|
+|![Lawson, William example sett](/setts/s8/r3dg1k16w3k15dg13dg22lo3~x2/sett.png)|
 

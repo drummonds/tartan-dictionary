@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11228
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Fullerton, Terrance
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -23,7 +29,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [11228](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11228)
 
 ## Thread count
-K/20 LN6 G6 R8 Ra48 K24 G2 K8 G4 K8 G12 Ra/24
+Ra/24 G12 K8 G4 K8 G2 K24 Ra48 R8 G6 LN6 K/20
 ![Sett](sett.png)
 
 ## Palette
@@ -54,8 +60,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r44k3lo20db3r8k29k5r3r2k5k10~x2/"><circle cx="272.0" cy="124.6" r="4" fill="#3465a4"><title>U.S. Air Force Reserve P. B. (Corpor</title></circle></a><a href="/setts/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="252.5" cy="125.7" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><a href="/setts/s12/r4k4r28dp4g4k10g4dp4g4dp8k1w3~x2/"><circle cx="247.3" cy="112.8" r="4" fill="#3465a4"><title>Kelly of Sleat (Name)</title></circle></a><a href="/setts/s9/db26g11r8k2r2w2r4w1r15~x2/"><circle cx="243.2" cy="119.7" r="4" fill="#3465a4"><title>Royal Scottish Assurance (Corporate)</title></circle></a><a href="/setts/s9/do47r8k22r7w3r24do9r10ly3~x2/"><circle cx="228.4" cy="142.3" r="4" fill="#3465a4"><title>Ulster Ancestry</title></circle></a><a href="/setts/s13/r4k2r24ly2k12db3k2db2k2db12w1db1w3~x2/"><circle cx="231.4" cy="98.4" r="4" fill="#3465a4"><title>Baron of Greencastle Dress #2 (Personal)</title></circle></a><a href="/setts/s12/r16db2r2db2r2db16dg16ly1r16db16r2lr2~x2/"><circle cx="229.7" cy="146.6" r="4" fill="#3465a4"><title>Army Medical Services</title></circle></a><a href="/setts/s16/r4k1db8k1lo3k2db4lo6db4w3k2db20k4r21k1lo3~x2/"><circle cx="224.1" cy="106.0" r="4" fill="#3465a4"><title>Westmeath County Crest (Fashion)</title></circle></a><a href="/setts/s15/w3lo8dp2lo8dp11dp2lo4o4dp27dp1dp2dp2dp2dp13dp2~x2/"><circle cx="245.1" cy="98.9" r="4" fill="#3465a4"><title>Strathdon</title></circle></a><a href="/setts/s9/dg1r24dg8k8dg8r1k4db16w1~x2/"><circle cx="203.2" cy="135.8" r="4" fill="#3465a4"><title>Manson</title></circle></a><circle cx="239.1" cy="125.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r44k3lo20db3r8k29k5r3r2k5k10~x2/"><circle cx="271.9" cy="124.7" r="4" fill="#3465a4"><title>U.S. Air Force Reserve P. B. (Corpor</title></circle></a><a href="/setts/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="252.3" cy="125.7" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><a href="/setts/s12/r4k4r28dp4g4k10g4dp4g4dp8k1w3~x2/"><circle cx="247.2" cy="112.9" r="4" fill="#3465a4"><title>Kelly of Sleat (Name)</title></circle></a><a href="/setts/s9/db26g11r8k2r2w2r4w1r15~x2/"><circle cx="243.0" cy="119.7" r="4" fill="#3465a4"><title>Royal Scottish Assurance (Corporate)</title></circle></a><a href="/setts/s9/do47r8k22r7w3r24do9r10ly3~x2/"><circle cx="228.2" cy="142.3" r="4" fill="#3465a4"><title>Ulster Ancestry</title></circle></a><a href="/setts/s13/r4k2r24ly2k12db3k2db2k2db12w1db1w3~x2/"><circle cx="231.3" cy="98.5" r="4" fill="#3465a4"><title>Baron of Greencastle Dress #2 (Personal)</title></circle></a><a href="/setts/s12/r16db2r2db2r2db16dg16ly1r16db16r2lr2~x2/"><circle cx="229.7" cy="146.7" r="4" fill="#3465a4"><title>Army Medical Services</title></circle></a><a href="/setts/s16/r4k1db8k1lo3k2db4lo6db4w3k2db20k4r21k1lo3~x2/"><circle cx="224.0" cy="106.1" r="4" fill="#3465a4"><title>Westmeath County Crest (Fashion)</title></circle></a><a href="/setts/s15/w3lo8dp2lo8dp11dp2lo4o4dp27dp1dp2dp2dp2dp13dp2~x2/"><circle cx="244.9" cy="99.0" r="4" fill="#3465a4"><title>Strathdon</title></circle></a><a href="/setts/s9/dg1r24dg8k8dg8r1k4db16w1~x2/"><circle cx="203.1" cy="135.9" r="4" fill="#3465a4"><title>Manson</title></circle></a><circle cx="239.0" cy="125.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/m12g6k4g2k4g1k12m24r4g3w3k10~x2/

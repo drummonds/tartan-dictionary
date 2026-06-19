@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7433/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Tipperary County, Crest Range
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -46,7 +52,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Bhutan](/setts/s9/m3lb2db6lb2dr8lo2g6lo2m2~x2/) — ΔT 0.76
 1. [Unnamed C19th (Silk Sash)](/setts/s11/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7~x2/) — ΔT 0.79
-1. [Isle of Arran (Personal)](/setts/s9/lr1db3g3lr1dr3r1dr3lo4r1~x4/) — ΔT 0.85
+1. [Isle of Arran (Personal)](/setts/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4/) — ΔT 0.85
 1. [Kilkenny County Crest (Fashion)](/setts/s8/lo6r8k4w6y16k13lr19k5~x2/) — ΔT 0.89
 1. [Belwade](/setts/s11/db4g4db4w1db1w1m4lo4w1g4m4~x4/) — ΔT 0.98
 1. [Nicolson of Assynt & Coigach (Name)](/setts/s7/db8r11g5db3ly3w5k3~x2/) — ΔT 1.13
@@ -57,8 +63,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/m3lb2db6lb2dr8lo2g6lo2m2~x2/"><circle cx="14.0" cy="198.9" r="4" fill="#3465a4"><title>Bhutan</title></circle></a><a href="/setts/s11/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7~x2/"><circle cx="14.0" cy="201.8" r="4" fill="#3465a4"><title>Unnamed C19th (Silk Sash)</title></circle></a><a href="/setts/s9/lr1db3g3lr1dr3r1dr3lo4r1~x4/"><circle cx="16.3" cy="210.5" r="4" fill="#3465a4"><title>Isle of Arran (Personal)</title></circle></a><a href="/setts/s8/lo6r8k4w6y16k13lr19k5~x2/"><circle cx="20.8" cy="203.1" r="4" fill="#3465a4"><title>Kilkenny County Crest (Fashion)</title></circle></a><a href="/setts/s11/db4g4db4w1db1w1m4lo4w1g4m4~x4/"><circle cx="14.0" cy="205.2" r="4" fill="#3465a4"><title>Belwade</title></circle></a><a href="/setts/s7/db8r11g5db3ly3w5k3~x2/"><circle cx="14.0" cy="197.3" r="4" fill="#3465a4"><title>Nicolson of Assynt &amp; Coigach (Name)</title></circle></a><a href="/setts/s7/r11db3db8w3ly3g5k5~x4/"><circle cx="14.0" cy="201.4" r="4" fill="#3465a4"><title>Nicolson of Taransay Hunting (Personal)</title></circle></a><a href="/setts/s7/k16ly16r16g3db7w7k7~x2/"><circle cx="25.5" cy="198.2" r="4" fill="#3465a4"><title>Eusa</title></circle></a><a href="/setts/s13/r3db9r2k7ly2k2w2k2dg6r5k2r2w2~x2/"><circle cx="22.4" cy="170.8" r="4" fill="#3465a4"><title>Prince Albert #2</title></circle></a><a href="/setts/s13/r3db9r2k7ly2k2w2k2g6r5k2r2w2~x4/"><circle cx="18.8" cy="169.8" r="4" fill="#3465a4"><title>Prince Albert #3</title></circle></a><circle cx="14.0" cy="200.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/m3lb2db6lb2dr8lo2g6lo2m2~x2/"><circle cx="14.0" cy="199.0" r="4" fill="#3465a4"><title>Bhutan</title></circle></a><a href="/setts/s11/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7~x2/"><circle cx="14.0" cy="201.9" r="4" fill="#3465a4"><title>Unnamed C19th (Silk Sash)</title></circle></a><a href="/setts/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4/"><circle cx="16.4" cy="210.6" r="4" fill="#3465a4"><title>Isle of Arran (Personal)</title></circle></a><a href="/setts/s8/lo6r8k4w6y16k13lr19k5~x2/"><circle cx="20.9" cy="203.2" r="4" fill="#3465a4"><title>Kilkenny County Crest (Fashion)</title></circle></a><a href="/setts/s11/db4g4db4w1db1w1m4lo4w1g4m4~x4/"><circle cx="14.0" cy="205.4" r="4" fill="#3465a4"><title>Belwade</title></circle></a><a href="/setts/s7/db8r11g5db3ly3w5k3~x2/"><circle cx="14.0" cy="197.4" r="4" fill="#3465a4"><title>Nicolson of Assynt &amp; Coigach (Name)</title></circle></a><a href="/setts/s7/r11db3db8w3ly3g5k5~x4/"><circle cx="14.0" cy="201.5" r="4" fill="#3465a4"><title>Nicolson of Taransay Hunting (Personal)</title></circle></a><a href="/setts/s7/k16ly16r16g3db7w7k7~x2/"><circle cx="25.6" cy="198.3" r="4" fill="#3465a4"><title>Eusa</title></circle></a><a href="/setts/s13/r3db9r2k7ly2k2w2k2dg6r5k2r2w2~x2/"><circle cx="22.5" cy="170.9" r="4" fill="#3465a4"><title>Prince Albert #2</title></circle></a><a href="/setts/s13/r3db9r2k7ly2k2w2k2g6r5k2r2w2~x4/"><circle cx="18.9" cy="170.0" r="4" fill="#3465a4"><title>Prince Albert #3</title></circle></a><circle cx="14.0" cy="200.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r10lr36k24r30lo8k16w18db16lo9/

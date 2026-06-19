@@ -2,12 +2,19 @@
 title: "Denovan, The Lairdship of (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BBBRBRKGRGBG](/stripes/bbbrbrkgrgbg/) · **Stripes:** [DB DP DB R DB R K G R G DP G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB DP DB R DB R K G R G DP G</span></span>
+**Bands:** [GBGRGKRBRBBB](/stripes/gbgrgkrbrbbb/) · **Stripes:** [G DP G R G K R DB R DB DP DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="seq">G DP G R G K R DB R DB DP DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=916
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Denovan, The Lairdship of
+- MacDonald of Dunyveg
 
 ## Attestations
 
@@ -44,7 +51,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Macallan](/setts/s13/db12r2db4r5db16r2k16lo2dg16r5dg4r2dg12~x2/) — ΔT 0.40
+1. [Macallan](/setts/s13/dg12r2dg4r5dg16lo2k16r2db16r5db4r2db12~x2/) — ΔT 0.40
 1. [Kinloch Anderson #2 (Corporate)](/setts/s12/r4y14o2y4o2k6y3k6db12r2db4r4~x2/) — ΔT 0.55
 1. [Ryukoku University Heian SHS (Corp)](/setts/s10/db5k15o5n9o2db2o2db2n9k3~x2/) — ΔT 0.56
 1. [Swankie (Personal)](/setts/s12/r6k20y4dy10b21k4b21dy10y4k20r6b3~x2/) — ΔT 0.57
@@ -57,8 +64,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db12r2db4r5db16r2k16lo2dg16r5dg4r2dg12~x2/"><circle cx="143.0" cy="189.0" r="4" fill="#3465a4"><title>Macallan</title></circle></a><a href="/setts/s12/r4y14o2y4o2k6y3k6db12r2db4r4~x2/"><circle cx="131.9" cy="199.9" r="4" fill="#3465a4"><title>Kinloch Anderson #2 (Corporate)</title></circle></a><a href="/setts/s10/db5k15o5n9o2db2o2db2n9k3~x2/"><circle cx="149.4" cy="203.2" r="4" fill="#3465a4"><title>Ryukoku University Heian SHS (Corp)</title></circle></a><a href="/setts/s12/r6k20y4dy10b21k4b21dy10y4k20r6b3~x2/"><circle cx="126.7" cy="196.8" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/setts/s11/g8k1g8k8r1db8w1db8r1k8r1~x4/"><circle cx="138.9" cy="199.6" r="4" fill="#3465a4"><title>Hunter of Peebleshire (Clan?)</title></circle></a><a href="/setts/s14/db15k8g3r3g5k2ly2k2g5r3g3k8db8k8~x4/"><circle cx="151.7" cy="197.3" r="4" fill="#3465a4"><title>MacLellan</title></circle></a><a href="/setts/s13/db9k12g2t4g18t4g2k12db12r2db2r2db3~x2/"><circle cx="138.1" cy="182.8" r="4" fill="#3465a4"><title>MacTaggert Clan Tartan Tartan Number: 408. Earliest known date: 1906 Around 1214 A.D. the chief of Clan Ross was known as Fearchar Mac an t'sagirt, which in English, means 'son of the priest'. The clan connection between the MacTaggerts and the Rosses, like many Scottish septs and aliases, is very long standing. The clan is sometimes referred to as Clan Anrias, recalling an ancient connection with the Irish royal house of Tara. The tartan was first published by Johnston's of Edinburgh in 1906. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/db12k2r2k2r2k12g11ly2g11k12db11k2r2~x2/"><circle cx="145.2" cy="204.0" r="4" fill="#3465a4"><title>Black Watch Plaid of Pipers</title></circle></a><a href="/setts/s12/g12r2g2r2k12db12ly2db12k2g11r2g2~x2/"><circle cx="148.7" cy="197.8" r="4" fill="#3465a4"><title>Akins of Candler (Personal)</title></circle></a><a href="/setts/s14/db18k5dg3r3dg6k2ly2k2dg6r3dg3k10db5k10/"><circle cx="168.7" cy="184.8" r="4" fill="#3465a4"><title>MacClellan</title></circle></a><circle cx="134.3" cy="200.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dg12r2dg4r5dg16lo2k16r2db16r5db4r2db12~x2/"><circle cx="143.1" cy="189.1" r="4" fill="#3465a4"><title>Macallan</title></circle></a><a href="/setts/s12/r4y14o2y4o2k6y3k6db12r2db4r4~x2/"><circle cx="132.0" cy="200.1" r="4" fill="#3465a4"><title>Kinloch Anderson #2 (Corporate)</title></circle></a><a href="/setts/s10/db5k15o5n9o2db2o2db2n9k3~x2/"><circle cx="149.5" cy="203.4" r="4" fill="#3465a4"><title>Ryukoku University Heian SHS (Corp)</title></circle></a><a href="/setts/s12/r6k20y4dy10b21k4b21dy10y4k20r6b3~x2/"><circle cx="126.8" cy="196.9" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/setts/s11/g8k1g8k8r1db8w1db8r1k8r1~x4/"><circle cx="139.1" cy="199.7" r="4" fill="#3465a4"><title>Hunter of Peebleshire (Clan?)</title></circle></a><a href="/setts/s14/db15k8g3r3g5k2ly2k2g5r3g3k8db8k8~x4/"><circle cx="151.8" cy="197.4" r="4" fill="#3465a4"><title>MacLellan</title></circle></a><a href="/setts/s13/db9k12g2t4g18t4g2k12db12r2db2r2db3~x2/"><circle cx="138.3" cy="183.0" r="4" fill="#3465a4"><title>MacTaggert Clan Tartan Tartan Number: 408. Earliest known date: 1906 Around 1214 A.D. the chief of Clan Ross was known as Fearchar Mac an t'sagirt, which in English, means 'son of the priest'. The clan connection between the MacTaggerts and the Rosses, like many Scottish septs and aliases, is very long standing. The clan is sometimes referred to as Clan Anrias, recalling an ancient connection with the Irish royal house of Tara. The tartan was first published by Johnston's of Edinburgh in 1906. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/db12k2r2k2r2k12g11ly2g11k12db11k2r2~x2/"><circle cx="145.4" cy="204.1" r="4" fill="#3465a4"><title>Black Watch Plaid of Pipers</title></circle></a><a href="/setts/s12/g12r2g2r2k12db12ly2db12k2g11r2g2~x2/"><circle cx="148.8" cy="197.9" r="4" fill="#3465a4"><title>Akins of Candler (Personal)</title></circle></a><a href="/setts/s14/db18k5dg3r3dg6k2ly2k2dg6r3dg3k10db5k10/"><circle cx="168.8" cy="184.9" r="4" fill="#3465a4"><title>MacClellan</title></circle></a><circle cx="134.5" cy="200.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/

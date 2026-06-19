@@ -25,15 +25,15 @@ Grouped by stripe pattern — the 4 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Haig Check (Estate Check)](/setts/s8/b1w1k1w1k1w1k1w1~x12/)|
-|![Haig Check (Estate Check) example sett](/setts/s8/b1w1k1w1k1w1k1w1~x12/sett.png)|
+| [Haig Check (Estate Check)](/setts/s8/k1w1k1w1b1~x12/)|
+|![Haig Check (Estate Check) example sett](/setts/s8/k1w1k1w1b1~x12/sett.png)|
 
 ### DB W K W K W K W <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DB W K W K W K W</span></span>
 
 | Tartans |
 |---------------|
-| [Buccleuch, Check](/setts/s8/db1w1k1w1k1w1k1w1~x12/)|
-|![Buccleuch, Check example sett](/setts/s8/db1w1k1w1k1w1k1w1~x12/sett.png)|
+| [Buccleuch, Check](/setts/s8/k1w1k1w1db1~x12/)|
+|![Buccleuch, Check example sett](/setts/s8/k1w1k1w1db1~x12/sett.png)|
 
 ### DP W K W K W K W <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">DP W K W K W K W</span></span>
 

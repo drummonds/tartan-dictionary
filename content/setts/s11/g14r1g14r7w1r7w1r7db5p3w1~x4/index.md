@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Hynde
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,8 +925,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/"><circle cx="234.7" cy="151.9" r="4" fill="#3465a4"><title>Hynde Artifact Tartan Tartan Number: 976. Earliest known date: 1744 Trews belonging to Sir John Hynde. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db4r11db1g8r2g4k1ly2~x4/"><circle cx="188.7" cy="170.1" r="4" fill="#3465a4"><title>Craik, of Assington</title></circle></a><a href="/setts/s12/o22w2o2w2o4k5o5k5y5m2y13w2~x2/"><circle cx="213.0" cy="135.8" r="4" fill="#3465a4"><title>Glen Nevis</title></circle></a><a href="/setts/s13/w2lo14ly3k6w2k2w2k2g8lo6k2lo3w1~x2/"><circle cx="166.2" cy="129.9" r="4" fill="#3465a4"><title>O'Farrell (Name)</title></circle></a><a href="/setts/s11/g14r1g14r7lb1r7lb1r7k5dp3lb1~x4/"><circle cx="251.3" cy="167.0" r="4" fill="#3465a4"><title>Hynde (Sir John) (Artefact)</title></circle></a><a href="/setts/s14/w3k2g18r2db9r18g2r2g2r2db2r3g18k2~x2/"><circle cx="224.5" cy="141.7" r="4" fill="#3465a4"><title>MacGuire (Name)</title></circle></a><a href="/setts/s9/m4k2g17r6g6r6g15r20ly3~x2/"><circle cx="242.4" cy="184.3" r="4" fill="#3465a4"><title>Fulton</title></circle></a><a href="/setts/s9/r16k3r16g44k3g8k3ly20k4~x2/"><circle cx="237.8" cy="159.8" r="4" fill="#3465a4"><title>MacMillan Society of Glasgow</title></circle></a><a href="/setts/s10/r5w2g3w2r10g10r2w1r2dg1~x4/"><circle cx="262.2" cy="177.8" r="4" fill="#3465a4"><title>Glenfinnan (Fashion)</title></circle></a><a href="/setts/s14/k4r3g2db2r6g15r2db4g2r15g7k2r4w2~x2/"><circle cx="178.2" cy="152.0" r="4" fill="#3465a4"><title>MacKinnon 12</title></circle></a><circle cx="221.8" cy="146.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/"><circle cx="234.5" cy="151.9" r="4" fill="#3465a4"><title>Hynde Artifact Tartan Tartan Number: 976. Earliest known date: 1744 Trews belonging to Sir John Hynde. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db4r11db1g8r2g4k1ly2~x4/"><circle cx="188.5" cy="170.1" r="4" fill="#3465a4"><title>Craik, of Assington</title></circle></a><a href="/setts/s12/o22w2o2w2o4k5o5k5y5m2y13w2~x2/"><circle cx="212.7" cy="135.8" r="4" fill="#3465a4"><title>Glen Nevis</title></circle></a><a href="/setts/s13/w2lo14ly3k6w2k2w2k2g8lo6k2lo3w1~x2/"><circle cx="166.0" cy="129.9" r="4" fill="#3465a4"><title>O'Farrell (Name)</title></circle></a><a href="/setts/s11/g14r1g14r7lb1r7lb1r7k5dp3lb1~x4/"><circle cx="251.2" cy="167.0" r="4" fill="#3465a4"><title>Hynde (Sir John) (Artefact)</title></circle></a><a href="/setts/s14/w3k2g18r2db9r18g2r2g2r2db2r3g18k2~x2/"><circle cx="224.3" cy="141.7" r="4" fill="#3465a4"><title>MacGuire (Name)</title></circle></a><a href="/setts/s9/m4k2g17r6g6r6g15r20ly3~x2/"><circle cx="242.1" cy="184.3" r="4" fill="#3465a4"><title>Fulton</title></circle></a><a href="/setts/s9/r16k3r16g44k3g8k3ly20k4~x2/"><circle cx="237.5" cy="159.7" r="4" fill="#3465a4"><title>MacMillan Society of Glasgow</title></circle></a><a href="/setts/s10/r5w2g3w2r10g10r2w1r2dg1~x4/"><circle cx="261.9" cy="177.7" r="4" fill="#3465a4"><title>Glenfinnan (Fashion)</title></circle></a><a href="/setts/s14/k4r3g2db2r6g15r2db4g2r15g7k2r4w2~x2/"><circle cx="178.0" cy="152.0" r="4" fill="#3465a4"><title>MacKinnon 12</title></circle></a><circle cx="221.6" cy="146.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/g14r1g14r7w1r7w1r7db5p3w1~x4/

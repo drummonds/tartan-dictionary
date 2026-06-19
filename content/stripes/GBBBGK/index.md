@@ -21,14 +21,14 @@ GBBBGK
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### G T DB T G K <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">G T DB T G K</span></span>
+### K G T DB T G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G T DB T G</span></span>
 
 | Tartans |
 |---------------|
 | [Scott Green (Sir Walter)](/setts/s6/g3t1db7t1g3k1~x8/)|
 |![Scott Green (Sir Walter) example sett](/setts/s6/g3t1db7t1g3k1~x8/sett.png)|
 
-### Y DB DO DB Y K <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="seq">Y DB DO DB Y K</span></span>
+### K Y DB DO DB Y <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K Y DB DO DB Y</span></span>
 
 | Tartans |
 |---------------|

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -908,7 +911,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Texas Blue Bonnet](/setts/s11/g5r1db10w1r1w1t10w1t10w1ly1~x4/) — ΔT 0.71
 1. [Leith](/setts/s13/t5k2t17db3t3db22t3g22t3db3t27k2r4~x2/) — ΔT 0.96
 1. [Los Angeles](/setts/s8/ly4db24t5g2db3k5t33r2~x2/) — ΔT 0.99
-1. [Spirit of Fife](/setts/s14/dg10w2dt3g2m14dt26dg2dt6dg2dt26m14g2dt3w2~x2/) — ΔT 1.00
+1. [Spirit of Fife](/setts/s14/dg10w2dt3g2m14dt26dg2dt6~x2/) — ΔT 1.00
 1. [O'Donohue Personal)](/setts/s10/b24w2b6g9r6b3r6g35k2ly2~x2/) — ΔT 1.01
 1. [GYL family (Personal)](/setts/s10/db28r3w3r3w3r3db28k12b38w8/) — ΔT 1.03
 1. [Stuart/Stewart Blue](/setts/s12/t29db3k10lo2k2t2k2g10r5k3r2t2~x2/) — ΔT 1.05
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db4g2db24g8t2r2t2ly2t10db2w3~x2/"><circle cx="226.5" cy="130.4" r="4" fill="#3465a4"><title>McCartney (Evening/Night)</title></circle></a><a href="/setts/s11/g5r1db10w1r1w1t10w1t10w1ly1~x4/"><circle cx="200.6" cy="138.4" r="4" fill="#3465a4"><title>Texas Blue Bonnet</title></circle></a><a href="/setts/s13/t5k2t17db3t3db22t3g22t3db3t27k2r4~x2/"><circle cx="213.7" cy="128.0" r="4" fill="#3465a4"><title>Leith</title></circle></a><a href="/setts/s8/ly4db24t5g2db3k5t33r2~x2/"><circle cx="251.3" cy="128.4" r="4" fill="#3465a4"><title>Los Angeles</title></circle></a><a href="/setts/s14/dg10w2dt3g2m14dt26dg2dt6dg2dt26m14g2dt3w2~x2/"><circle cx="247.6" cy="134.5" r="4" fill="#3465a4"><title>Spirit of Fife</title></circle></a><a href="/setts/s10/b24w2b6g9r6b3r6g35k2ly2~x2/"><circle cx="241.8" cy="122.8" r="4" fill="#3465a4"><title>O'Donohue Personal)</title></circle></a><a href="/setts/s10/db28r3w3r3w3r3db28k12b38w8/"><circle cx="183.7" cy="138.3" r="4" fill="#3465a4"><title>GYL family (Personal)</title></circle></a><a href="/setts/s12/t29db3k10lo2k2t2k2g10r5k3r2t2~x2/"><circle cx="208.2" cy="110.4" r="4" fill="#3465a4"><title>Stuart/Stewart Blue</title></circle></a><a href="/setts/s9/t4lo2t34db10lr4db4dp4db23w3~x2/"><circle cx="238.0" cy="130.3" r="4" fill="#3465a4"><title>Heirloom Blue Alba (Fashion)</title></circle></a><a href="/setts/s11/g4r1db8w1r1w1t8w1t8w1ly1~x4/"><circle cx="166.5" cy="148.6" r="4" fill="#3465a4"><title>Texas Bluebonnet District Tartan Tartan Number: 852. Earliest known date: 1983 The colours of the Texas Bluebonnet district tartan owe their selection to the bluebonnet flower, a member of the lupin family, which is widespread in many parts of Texas. The flower changes colour with the passing of time, the 'brim' becoming flecked with wine red. The tartan was adopted as the Sequicentennial Tartan and Accredited by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="231.5" cy="128.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db4g2db24g8t2r2t2ly2t10db2w3~x2/"><circle cx="226.5" cy="130.5" r="4" fill="#3465a4"><title>McCartney (Evening/Night)</title></circle></a><a href="/setts/s11/g5r1db10w1r1w1t10w1t10w1ly1~x4/"><circle cx="200.4" cy="138.4" r="4" fill="#3465a4"><title>Texas Blue Bonnet</title></circle></a><a href="/setts/s13/t5k2t17db3t3db22t3g22t3db3t27k2r4~x2/"><circle cx="213.6" cy="128.0" r="4" fill="#3465a4"><title>Leith</title></circle></a><a href="/setts/s8/ly4db24t5g2db3k5t33r2~x2/"><circle cx="251.2" cy="128.4" r="4" fill="#3465a4"><title>Los Angeles</title></circle></a><a href="/setts/s14/dg10w2dt3g2m14dt26dg2dt6~x2/"><circle cx="247.5" cy="134.5" r="4" fill="#3465a4"><title>Spirit of Fife</title></circle></a><a href="/setts/s10/b24w2b6g9r6b3r6g35k2ly2~x2/"><circle cx="241.6" cy="122.9" r="4" fill="#3465a4"><title>O'Donohue Personal)</title></circle></a><a href="/setts/s10/db28r3w3r3w3r3db28k12b38w8/"><circle cx="183.7" cy="138.4" r="4" fill="#3465a4"><title>GYL family (Personal)</title></circle></a><a href="/setts/s12/t29db3k10lo2k2t2k2g10r5k3r2t2~x2/"><circle cx="208.1" cy="110.5" r="4" fill="#3465a4"><title>Stuart/Stewart Blue</title></circle></a><a href="/setts/s9/t4lo2t34db10lr4db4dp4db23w3~x2/"><circle cx="238.0" cy="130.4" r="4" fill="#3465a4"><title>Heirloom Blue Alba (Fashion)</title></circle></a><a href="/setts/s11/g4r1db8w1r1w1t8w1t8w1ly1~x4/"><circle cx="166.4" cy="148.6" r="4" fill="#3465a4"><title>Texas Bluebonnet District Tartan Tartan Number: 852. Earliest known date: 1983 The colours of the Texas Bluebonnet district tartan owe their selection to the bluebonnet flower, a member of the lupin family, which is widespread in many parts of Texas. The flower changes colour with the passing of time, the 'brim' becoming flecked with wine red. The tartan was adopted as the Sequicentennial Tartan and Accredited by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="231.3" cy="128.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db4g2db24g8b2r2b2ly2b10db2w3~x2/

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,13 +913,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Milne Royal Blue Dress Fashion Tartan Tartan Number: 6547. Earliest known date: 01/01/2005 A Dance version of #634 (original Scottish Tartans Authority reference) reputed to be a personal tartan./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/w24n5w24db36w28n6w12r6/) — ΔT 1.80
 1. [Mortell (Personal)](/setts/s10/db20b2w5r2db10b5db20b2w5r5~x2/) — ΔT 1.82
 1. [Maud, Mary](/setts/s8/db65k9db21ly8db21w8db35r35/) — ΔT 1.84
-1. [Justus Dress (Personal)](/setts/s7/b1lr4lo1lr1r1lr4b1~x12/) — ΔT 1.85
-1. [Louisville Fire & Rescue P&D](/setts/s9/lo1db8r3db2r1db2r3db8w1~x4/) — ΔT 1.88
+1. [Justus Dress (Personal)](/setts/s7/b1lr4r1lr1lo1lr4b1~x12/) — ΔT 1.85
+1. [Louisville Fire & Rescue P&D](/setts/s9/w1db8r3db2r1db2r3db8lo1~x4/) — ΔT 1.88
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dt5r2lp2r2dt5ly1r1ly1dt5~x8/"><circle cx="276.0" cy="233.0" r="4" fill="#3465a4"><title>Millar (Kirkcaldy) (Personal)</title></circle></a><a href="/setts/s12/db4w4db4w4db4w4db16lo2db16r6w3db4~x2/"><circle cx="321.7" cy="184.7" r="4" fill="#3465a4"><title>Parker Dress (USA)</title></circle></a><a href="/setts/s14/db4r6db16w4db4w4db4w4db16lo2db16r6w3db4~x2/"><circle cx="330.0" cy="183.6" r="4" fill="#3465a4"><title>Parker (USA)</title></circle></a><a href="/setts/s10/t6k3t10lo5t2lo2t2lo2t7w2~x2/"><circle cx="323.6" cy="247.9" r="4" fill="#3465a4"><title>Digital Corporate Tartan Tartan Number: 2140. Earliest known date: 1991 Designed in Company colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/n8k5n16o9n3o3n3o3n10lb3~x2/"><circle cx="308.1" cy="244.4" r="4" fill="#3465a4"><title>Digital Equipment Corp.</title></circle></a><a href="/setts/s8/w24n5w24db36w28n6w12r6/"><circle cx="262.8" cy="202.0" r="4" fill="#3465a4"><title>Milne Royal Blue Dress Fashion Tartan Tartan Number: 6547. Earliest known date: 01/01/2005 A Dance version of #634 (original Scottish Tartans Authority reference) reputed to be a personal tartan./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/db20b2w5r2db10b5db20b2w5r5~x2/"><circle cx="337.8" cy="186.8" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/setts/s8/db65k9db21ly8db21w8db35r35/"><circle cx="350.2" cy="204.0" r="4" fill="#3465a4"><title>Maud, Mary</title></circle></a><a href="/setts/s7/b1lr4lo1lr1r1lr4b1~x12/"><circle cx="343.8" cy="242.6" r="4" fill="#3465a4"><title>Justus Dress (Personal)</title></circle></a><a href="/setts/s9/lo1db8r3db2r1db2r3db8w1~x4/"><circle cx="382.4" cy="207.6" r="4" fill="#3465a4"><title>Louisville Fire &amp; Rescue P&amp;D</title></circle></a><circle cx="303.7" cy="226.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dt5r2lp2r2dt5ly1r1ly1dt5~x8/"><circle cx="275.9" cy="232.8" r="4" fill="#3465a4"><title>Millar (Kirkcaldy) (Personal)</title></circle></a><a href="/setts/s12/db4w4db4w4db4w4db16lo2db16r6w3db4~x2/"><circle cx="321.5" cy="184.4" r="4" fill="#3465a4"><title>Parker Dress (USA)</title></circle></a><a href="/setts/s14/db4r6db16w4db4w4db4w4db16lo2db16r6w3db4~x2/"><circle cx="329.8" cy="183.4" r="4" fill="#3465a4"><title>Parker (USA)</title></circle></a><a href="/setts/s10/t6k3t10lo5t2lo2t2lo2t7w2~x2/"><circle cx="323.4" cy="247.7" r="4" fill="#3465a4"><title>Digital Corporate Tartan Tartan Number: 2140. Earliest known date: 1991 Designed in Company colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/n8k5n16o9n3o3n3o3n10lb3~x2/"><circle cx="308.0" cy="244.3" r="4" fill="#3465a4"><title>Digital Equipment Corp.</title></circle></a><a href="/setts/s8/w24n5w24db36w28n6w12r6/"><circle cx="262.4" cy="201.7" r="4" fill="#3465a4"><title>Milne Royal Blue Dress Fashion Tartan Tartan Number: 6547. Earliest known date: 01/01/2005 A Dance version of #634 (original Scottish Tartans Authority reference) reputed to be a personal tartan./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/db20b2w5r2db10b5db20b2w5r5~x2/"><circle cx="337.7" cy="186.6" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/setts/s8/db65k9db21ly8db21w8db35r35/"><circle cx="350.1" cy="203.8" r="4" fill="#3465a4"><title>Maud, Mary</title></circle></a><a href="/setts/s7/b1lr4r1lr1lo1lr4b1~x12/"><circle cx="343.4" cy="242.3" r="4" fill="#3465a4"><title>Justus Dress (Personal)</title></circle></a><a href="/setts/s9/w1db8r3db2r1db2r3db8lo1~x4/"><circle cx="382.3" cy="207.3" r="4" fill="#3465a4"><title>Louisville Fire &amp; Rescue P&amp;D</title></circle></a><circle cx="303.5" cy="226.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/b6k3b10o5b2o2b2o2b7w2~x2/

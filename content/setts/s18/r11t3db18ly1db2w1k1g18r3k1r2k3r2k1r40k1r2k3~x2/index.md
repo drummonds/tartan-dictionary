@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [18 band tartan](/bands/bands18/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacRae, of Ardentoul
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/6 R4 K2 R80 K2 R4 K6 R4 K2 R6 G36 K2 LN2 B4 Y2 B36 Ba6 R/22
+R/22 Ba6 B36 Y2 B4 LN2 K2 G36 R6 K2 R4 K6 R4 K2 R80 K2 R4 K/6
 ![Sett](sett.png)
 
 ## Palette
@@ -912,21 +921,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Unidentified Scarlett #16](/setts/s20/db9lb1k8ly1k2w2k2g13r45w1r4w1r45g13k2w2k2ly1k8lb1~x2/) — ΔT 0.66
-1. [Sellers/Sillars](/setts/s22/dy63k4lb9ly2db4ly2db4dy11r8lb2r4w5r4lb2r8dy11db4ly2db4ly2lb9k4~x2/) — ΔT 1.07
+1. [Unidentified Scarlett #16](/setts/s20/db9lb1k8ly1k2w2k2g13r45w1r4~x2/) — ΔT 0.66
+1. [Sellers/Sillars](/setts/s22/dy63k4lb9ly2db4ly2db4dy11r8lb2r4w5~x2/) — ΔT 1.07
 1. [Clan Chattan D](/setts/s16/r60k2lr1dg16lr2ly3r3k1r3ly3lr2b16k4r4ly6lr2~x2/) — ΔT 1.07
 1. [Clan Chattan D](/setts/s16/r60k2lr1dg16lr2ly3r3k1r3ly3lr2b16k4r4ly6lr2/) — ΔT 1.07
 1. [Clan Chattan](/setts/s16/r122k4lr2dg32lr4ly7r7k2r7ly7lr4b32k8r8ly12lr4~x2/) — ΔT 1.07
 1. [Clan Chattan](/setts/s16/r122k4lr2dg32lr4ly7r7k2r7ly7lr4b32k8r8ly12lr4/) — ΔT 1.07
 1. [MacBean](/setts/s19/r24lr1db2b1lr1b1db2lr1k1dg6k1lr1r2dr2dg1dr2r2lr1dg3~x2/) — ΔT 1.10
+1. [MacBean](/setts/s19/r24lr1db2b1lr1b1db2lr1k1dg6k1lr1r2dr2dg1dr2r2lr1dg3/) — ΔT 1.10
 1. [MacBean](/setts/s19/r24w1db2t1w1t1db2w1k1g6k1w1r2r2g1r2r2w1g3~x2/) — ΔT 1.10
 1. [McBain](/setts/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5r5g2r5r5g10w2~x2/) — ΔT 1.10
-1. [MacBean (Lord Lyon version)](/setts/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5r5g2r5r5w2g10~x2/) — ΔT 1.10
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/db9lb1k8ly1k2w2k2g13r45w1r4w1r45g13k2w2k2ly1k8lb1~x2/"><circle cx="329.3" cy="14.0" r="4" fill="#3465a4"><title>Unidentified Scarlett #16</title></circle></a><a href="/setts/s22/dy63k4lb9ly2db4ly2db4dy11r8lb2r4w5r4lb2r8dy11db4ly2db4ly2lb9k4~x2/"><circle cx="249.5" cy="14.0" r="4" fill="#3465a4"><title>Sellers/Sillars</title></circle></a><a href="/setts/s16/r60k2lr1dg16lr2ly3r3k1r3ly3lr2b16k4r4ly6lr2~x2/"><circle cx="336.4" cy="18.1" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/setts/s16/r60k2lr1dg16lr2ly3r3k1r3ly3lr2b16k4r4ly6lr2/"><circle cx="336.4" cy="18.1" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/setts/s16/r122k4lr2dg32lr4ly7r7k2r7ly7lr4b32k8r8ly12lr4~x2/"><circle cx="337.7" cy="18.7" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/setts/s16/r122k4lr2dg32lr4ly7r7k2r7ly7lr4b32k8r8ly12lr4/"><circle cx="337.7" cy="18.7" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/setts/s19/r24lr1db2b1lr1b1db2lr1k1dg6k1lr1r2dr2dg1dr2r2lr1dg3~x2/"><circle cx="272.3" cy="26.8" r="4" fill="#3465a4"><title>MacBean</title></circle></a><a href="/setts/s19/r24w1db2t1w1t1db2w1k1g6k1w1r2r2g1r2r2w1g3~x2/"><circle cx="256.8" cy="14.0" r="4" fill="#3465a4"><title>MacBean</title></circle></a><a href="/setts/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5r5g2r5r5g10w2~x2/"><circle cx="296.5" cy="21.4" r="4" fill="#3465a4"><title>McBain</title></circle></a><a href="/setts/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5r5g2r5r5w2g10~x2/"><circle cx="296.5" cy="21.4" r="4" fill="#3465a4"><title>MacBean (Lord Lyon version)</title></circle></a><circle cx="287.8" cy="14.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/db9lb1k8ly1k2w2k2g13r45w1r4~x2/"><circle cx="328.8" cy="14.0" r="4" fill="#3465a4"><title>Unidentified Scarlett #16</title></circle></a><a href="/setts/s22/dy63k4lb9ly2db4ly2db4dy11r8lb2r4w5~x2/"><circle cx="249.2" cy="14.0" r="4" fill="#3465a4"><title>Sellers/Sillars</title></circle></a><a href="/setts/s16/r60k2lr1dg16lr2ly3r3k1r3ly3lr2b16k4r4ly6lr2~x2/"><circle cx="336.0" cy="18.2" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/setts/s16/r60k2lr1dg16lr2ly3r3k1r3ly3lr2b16k4r4ly6lr2/"><circle cx="336.0" cy="18.2" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/setts/s16/r122k4lr2dg32lr4ly7r7k2r7ly7lr4b32k8r8ly12lr4~x2/"><circle cx="337.3" cy="18.8" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/setts/s16/r122k4lr2dg32lr4ly7r7k2r7ly7lr4b32k8r8ly12lr4/"><circle cx="337.3" cy="18.8" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/setts/s19/r24lr1db2b1lr1b1db2lr1k1dg6k1lr1r2dr2dg1dr2r2lr1dg3~x2/"><circle cx="272.0" cy="26.9" r="4" fill="#3465a4"><title>MacBean</title></circle></a><a href="/setts/s19/r24lr1db2b1lr1b1db2lr1k1dg6k1lr1r2dr2dg1dr2r2lr1dg3/"><circle cx="272.0" cy="26.9" r="4" fill="#3465a4"><title>MacBean</title></circle></a><a href="/setts/s19/r24w1db2t1w1t1db2w1k1g6k1w1r2r2g1r2r2w1g3~x2/"><circle cx="256.4" cy="14.0" r="4" fill="#3465a4"><title>MacBean</title></circle></a><a href="/setts/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5r5g2r5r5g10w2~x2/"><circle cx="296.0" cy="21.5" r="4" fill="#3465a4"><title>McBain</title></circle></a><circle cx="287.5" cy="14.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s18/r11t3db18ly1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/

@@ -20,7 +20,7 @@ BYRRBKBY
 
 
 
-### DP LO R R DP K DP LO <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DP LO R R DP K DP LO</span></span>
+### LO DP K DP R R LO DP <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LO DP K DP R R LO DP</span></span>
 
 | Tartans |
 |---------------|

@@ -2,7 +2,7 @@
 title: "MacBean"
 date: 2023-03-18
 ---
-**Bands:** [GWRRGRRWKGKWBBWBBWR](/stripes/gwrrgrrwkgkwbbwbbwr/) · **Stripes:** [G W R R G R R W K G K W DB T W T DB W R](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">G W R R G R R W K G K W DB T W T DB W R</span></span>
+**Bands:** [RWBBWBBWKGKWRRGRRWG](/stripes/rwbbwbbwkgkwrrgrrwg/) · **Stripes:** [R W DB T W T DB W K G K W R R G R R W G](/stripes/stripes19/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W DB T W T DB W K G K W R R G R R W G</span></span>
 
 
 This was sourced from weddslist.  It is a [19 band tartan](/bands/bands19/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/6 LN2 R4 DR4 G2 DR4 R4 LN2 K2 G12 K2 LN2 B4 Ba2 LN2 Ba2 B4 LN2 R/48
+R/48 LN2 B4 Ba2 LN2 Ba2 B4 LN2 K2 G12 K2 LN2 R4 DR4 G2 DR4 R4 LN2 G/6
 ![Sett](sett.png)
 
 ## Palette
@@ -906,20 +909,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [MacBean](/setts/s19/r24w1db2t1w1t1db2w1k1dg6k1w1r2r2dg1r2r2w1dg3~x2/) — ΔT 0.41
-1. [MacBean](/setts/s19/r24lb1db2lb1lb1lb1db2lb1k1dg6k1lb1r2r2dg1r2r2lb1dg3~x2/) — ΔT 0.46
+1. [MacBean](/setts/s19/r24lb1db2lb1lb1lb1db2lb1k1dg6k1lb1r2r2dg1r2r2lb1dg3/) — ΔT 0.46
 1. [MacBean](/setts/s19/r24lr1db2b1lr1b1db2lr1k1dg6k1lr1r2dr2dg1dr2r2lr1dg3~x2/) — ΔT 0.96
+1. [MacBean](/setts/s19/r24lr1db2b1lr1b1db2lr1k1dg6k1lr1r2dr2dg1dr2r2lr1dg3/) — ΔT 0.96
 1. [MacBain/MacBean](/setts/s19/r60w2t5k2w2k2t5w2k2g12k2w2r5r5g2r5r5w2g10~x2/) — ΔT 0.97
 1. [MacKintosh #8](/setts/s19/r24k1w1dg6w1dg1ly2r2k1r2ly2dg1w1t6k2r3ly3dg2w1~x2/) — ΔT 1.04
 1. [MacBain Clan Tartan Tartan Number: 951. Earliest known date: 1960 (1847) MacBains, MacBeans, and MacVeans are all forms of the same name possibly from the same origin as the early Scottish King, Donald Ban. The principle family is MacBean of Kinchyle from the northern end of Loch Ness. The MacBains are closely associated with Mackintosh and this is apparent in the design of the tartan. This version, recorded by Lord Lyon under the name MacBain, shows a minor variation on the earlier MacBean sett attributed to McIan (1847). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s19/r60w2t5k2w2k2t5w2k2g12k2w2r5m5g2m5r5w2g10~x2/) — ΔT 1.04
 1. [McBain](/setts/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5r5g2r5r5g10w2~x2/) — ΔT 1.05
 1. [MacBean (Lord Lyon version)](/setts/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5r5g2r5r5w2g10~x2/) — ΔT 1.05
 1. [MacRae, of Ardentoul](/setts/s18/r11t3db18ly1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/) — ΔT 1.10
-1. [MacKintosh 7](/setts/s19/r24k1w1g6w1g1ly2r2k1r2ly2g1w1t6k2r3ly3g2w1~x2/) — ΔT 1.11
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s19/r24w1db2t1w1t1db2w1k1dg6k1w1r2r2dg1r2r2w1dg3~x2/"><circle cx="260.9" cy="14.0" r="4" fill="#3465a4"><title>MacBean</title></circle></a><a href="/setts/s19/r24lb1db2lb1lb1lb1db2lb1k1dg6k1lb1r2r2dg1r2r2lb1dg3~x2/"><circle cx="252.3" cy="14.0" r="4" fill="#3465a4"><title>MacBean</title></circle></a><a href="/setts/s19/r24lr1db2b1lr1b1db2lr1k1dg6k1lr1r2dr2dg1dr2r2lr1dg3~x2/"><circle cx="272.3" cy="26.8" r="4" fill="#3465a4"><title>MacBean</title></circle></a><a href="/setts/s19/r60w2t5k2w2k2t5w2k2g12k2w2r5r5g2r5r5w2g10~x2/"><circle cx="297.8" cy="17.3" r="4" fill="#3465a4"><title>MacBain/MacBean</title></circle></a><a href="/setts/s19/r24k1w1dg6w1dg1ly2r2k1r2ly2dg1w1t6k2r3ly3dg2w1~x2/"><circle cx="253.3" cy="29.5" r="4" fill="#3465a4"><title>MacKintosh #8</title></circle></a><a href="/setts/s19/r60w2t5k2w2k2t5w2k2g12k2w2r5m5g2m5r5w2g10~x2/"><circle cx="310.7" cy="21.9" r="4" fill="#3465a4"><title>MacBain Clan Tartan Tartan Number: 951. Earliest known date: 1960 (1847) MacBains, MacBeans, and MacVeans are all forms of the same name possibly from the same origin as the early Scottish King, Donald Ban. The principle family is MacBean of Kinchyle from the northern end of Loch Ness. The MacBains are closely associated with Mackintosh and this is apparent in the design of the tartan. This version, recorded by Lord Lyon under the name MacBain, shows a minor variation on the earlier MacBean sett attributed to McIan (1847). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5r5g2r5r5g10w2~x2/"><circle cx="296.5" cy="21.4" r="4" fill="#3465a4"><title>McBain</title></circle></a><a href="/setts/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5r5g2r5r5w2g10~x2/"><circle cx="296.5" cy="21.4" r="4" fill="#3465a4"><title>MacBean (Lord Lyon version)</title></circle></a><a href="/setts/s18/r11t3db18ly1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/"><circle cx="287.8" cy="14.0" r="4" fill="#3465a4"><title>MacRae, of Ardentoul</title></circle></a><a href="/setts/s19/r24k1w1g6w1g1ly2r2k1r2ly2g1w1t6k2r3ly3g2w1~x2/"><circle cx="246.3" cy="29.3" r="4" fill="#3465a4"><title>MacKintosh 7</title></circle></a><circle cx="256.8" cy="14.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s19/r24w1db2t1w1t1db2w1k1dg6k1w1r2r2dg1r2r2w1dg3~x2/"><circle cx="260.4" cy="14.0" r="4" fill="#3465a4"><title>MacBean</title></circle></a><a href="/setts/s19/r24lb1db2lb1lb1lb1db2lb1k1dg6k1lb1r2r2dg1r2r2lb1dg3/"><circle cx="251.8" cy="14.0" r="4" fill="#3465a4"><title>MacBean</title></circle></a><a href="/setts/s19/r24lr1db2b1lr1b1db2lr1k1dg6k1lr1r2dr2dg1dr2r2lr1dg3~x2/"><circle cx="272.0" cy="26.9" r="4" fill="#3465a4"><title>MacBean</title></circle></a><a href="/setts/s19/r24lr1db2b1lr1b1db2lr1k1dg6k1lr1r2dr2dg1dr2r2lr1dg3/"><circle cx="272.0" cy="26.9" r="4" fill="#3465a4"><title>MacBean</title></circle></a><a href="/setts/s19/r60w2t5k2w2k2t5w2k2g12k2w2r5r5g2r5r5w2g10~x2/"><circle cx="297.3" cy="17.3" r="4" fill="#3465a4"><title>MacBain/MacBean</title></circle></a><a href="/setts/s19/r24k1w1dg6w1dg1ly2r2k1r2ly2dg1w1t6k2r3ly3dg2w1~x2/"><circle cx="252.8" cy="29.6" r="4" fill="#3465a4"><title>MacKintosh #8</title></circle></a><a href="/setts/s19/r60w2t5k2w2k2t5w2k2g12k2w2r5m5g2m5r5w2g10~x2/"><circle cx="310.2" cy="22.0" r="4" fill="#3465a4"><title>MacBain Clan Tartan Tartan Number: 951. Earliest known date: 1960 (1847) MacBains, MacBeans, and MacVeans are all forms of the same name possibly from the same origin as the early Scottish King, Donald Ban. The principle family is MacBean of Kinchyle from the northern end of Loch Ness. The MacBains are closely associated with Mackintosh and this is apparent in the design of the tartan. This version, recorded by Lord Lyon under the name MacBain, shows a minor variation on the earlier MacBean sett attributed to McIan (1847). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5r5g2r5r5g10w2~x2/"><circle cx="296.0" cy="21.5" r="4" fill="#3465a4"><title>McBain</title></circle></a><a href="/setts/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5r5g2r5r5w2g10~x2/"><circle cx="296.0" cy="21.5" r="4" fill="#3465a4"><title>MacBean (Lord Lyon version)</title></circle></a><a href="/setts/s18/r11t3db18ly1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/"><circle cx="287.5" cy="14.0" r="4" fill="#3465a4"><title>MacRae, of Ardentoul</title></circle></a><circle cx="256.4" cy="14.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s19/r24w1db2t1w1t1db2w1k1g6k1w1r2r2g1r2r2w1g3~x2/

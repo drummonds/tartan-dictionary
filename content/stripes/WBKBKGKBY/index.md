@@ -18,10 +18,10 @@ WBKBKGKBY
 
 
 
-### W DT K DT K G K DT LO <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">W DT K DT K G K DT LO</span></span>
+### LO DT K G K DT K DT W <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO DT K G K DT K DT W</span></span>
 
 | Tartans |
 |---------------|
-| [Bro-Kerne](/setts/s9/lo3dt30k1g6k1dt2k14dt1w3~x2/)|
-|![Bro-Kerne example sett](/setts/s9/lo3dt30k1g6k1dt2k14dt1w3~x2/sett.png)|
+| [Bro-Kerne](/setts/s9/w3dt1k14dt2k1g6k1dt30lo3~x2/)|
+|![Bro-Kerne example sett](/setts/s9/w3dt1k14dt2k1g6k1dt30lo3~x2/sett.png)|
 

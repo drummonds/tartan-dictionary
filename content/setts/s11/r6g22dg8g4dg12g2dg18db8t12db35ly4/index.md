@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/10316/
 
 ## Thread count
-LG/4 DB35 B12 DB8 DG18 G2 DG12 G4 DG8 G22 R/6
+R/6 G22 DG8 G4 DG12 G2 DG18 DB8 B12 DB35 LG/4
 ![Sett](sett.png)
 
 ## Palette
@@ -30,20 +30,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Birch Family Tartan Tartan Number: 2157. Earliest known date: 1993 The Birch family tartan was designed and produced by Mr Robin Birch of Connell Reid kiltmaker, Blairgowrie. The new sett has been recorded by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/g3dp4g23k10r2k10t18k1w3~x2/) — ΔT 0.88
-1. [Wilson's No.232](/setts/s12/b18k7g5r4g7k1ly2k1g7r4g5k7~x2/) — ΔT 0.99
-1. [Leinster](/setts/s14/g3g15g2g2k10ly2db12k1g2k1db12k10g18r3~x2/) — ΔT 1.00
+1. [Wilson's No.232](/setts/s12/b18k7g5r4g7k1ly2~x2/) — ΔT 0.99
+1. [Leinster](/setts/s14/r3g18k10db12k1g2k1db12ly2k10g2g2g15g3~x2/) — ΔT 1.00
 1. [Groen (Personal)](/setts/s11/n12r2n3r4n15k24dg18ly1k3dg3w3~x2/) — ΔT 1.04
 1. [Hogg Dress (Name)](/setts/s9/t34r3t8db4t8k24g34k2w6/) — ΔT 1.05
-1. [Sullivan (Estimated threadcount)](/setts/s10/ly3k1g12db8k1g2k1t10k1r3~x2/) — ΔT 1.07
-1. [Macneil of Barra - Chief (Personal)](/setts/s7/ly1k3g15k14b16r2w1~x2/) — ΔT 1.11
-1. [Sey](/setts/s14/r2lo1db13g13k8ly1k8r2k8ly1k8g13db13lo1~x2/) — ΔT 1.12
-1. [Gow Hunting (Clan)](/setts/s11/ly3k1g12k12db12db3db12k12g12k1r3~x2/) — ΔT 1.13
+1. [Sullivan (Estimated threadcount)](/setts/s10/r3k1t10k1g2k1db8g12k1ly3~x2/) — ΔT 1.07
+1. [Macneil of Barra - Chief (Personal)](/setts/s7/w1r2b16k14g15k3ly1~x2/) — ΔT 1.11
+1. [Sey](/setts/s14/r2k8ly1k8g13db13lo1r2~x2/) — ΔT 1.12
+1. [Gow Hunting (Clan)](/setts/s11/r3k1g12k12db12db3db12k12g12k1ly3~x2/) — ΔT 1.13
 1. [McMeeken (Name)](/setts/s10/r7g20ly2g4k5b4k2b20k3w1~x2/) — ΔT 1.14
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g3dp4g23k10r2k10t18k1w3~x2/"><circle cx="160.9" cy="128.4" r="4" fill="#3465a4"><title>Birch Family Tartan Tartan Number: 2157. Earliest known date: 1993 The Birch family tartan was designed and produced by Mr Robin Birch of Connell Reid kiltmaker, Blairgowrie. The new sett has been recorded by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/b18k7g5r4g7k1ly2k1g7r4g5k7~x2/"><circle cx="163.1" cy="156.7" r="4" fill="#3465a4"><title>Wilson's No.232</title></circle></a><a href="/setts/s14/g3g15g2g2k10ly2db12k1g2k1db12k10g18r3~x2/"><circle cx="118.9" cy="135.5" r="4" fill="#3465a4"><title>Leinster</title></circle></a><a href="/setts/s11/n12r2n3r4n15k24dg18ly1k3dg3w3~x2/"><circle cx="176.1" cy="120.7" r="4" fill="#3465a4"><title>Groen (Personal)</title></circle></a><a href="/setts/s9/t34r3t8db4t8k24g34k2w6/"><circle cx="181.6" cy="141.6" r="4" fill="#3465a4"><title>Hogg Dress (Name)</title></circle></a><a href="/setts/s10/ly3k1g12db8k1g2k1t10k1r3~x2/"><circle cx="123.0" cy="142.2" r="4" fill="#3465a4"><title>Sullivan (Estimated threadcount)</title></circle></a><a href="/setts/s7/ly1k3g15k14b16r2w1~x2/"><circle cx="152.2" cy="155.7" r="4" fill="#3465a4"><title>Macneil of Barra - Chief (Personal)</title></circle></a><a href="/setts/s14/r2lo1db13g13k8ly1k8r2k8ly1k8g13db13lo1~x2/"><circle cx="145.1" cy="155.0" r="4" fill="#3465a4"><title>Sey</title></circle></a><a href="/setts/s11/ly3k1g12k12db12db3db12k12g12k1r3~x2/"><circle cx="122.2" cy="178.2" r="4" fill="#3465a4"><title>Gow Hunting (Clan)</title></circle></a><a href="/setts/s10/r7g20ly2g4k5b4k2b20k3w1~x2/"><circle cx="190.4" cy="133.8" r="4" fill="#3465a4"><title>McMeeken (Name)</title></circle></a><circle cx="131.5" cy="145.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g3dp4g23k10r2k10t18k1w3~x2/"><circle cx="160.9" cy="128.5" r="4" fill="#3465a4"><title>Birch Family Tartan Tartan Number: 2157. Earliest known date: 1993 The Birch family tartan was designed and produced by Mr Robin Birch of Connell Reid kiltmaker, Blairgowrie. The new sett has been recorded by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/b18k7g5r4g7k1ly2~x2/"><circle cx="163.2" cy="156.8" r="4" fill="#3465a4"><title>Wilson's No.232</title></circle></a><a href="/setts/s14/r3g18k10db12k1g2k1db12ly2k10g2g2g15g3~x2/"><circle cx="119.0" cy="135.8" r="4" fill="#3465a4"><title>Leinster</title></circle></a><a href="/setts/s11/n12r2n3r4n15k24dg18ly1k3dg3w3~x2/"><circle cx="176.1" cy="120.9" r="4" fill="#3465a4"><title>Groen (Personal)</title></circle></a><a href="/setts/s9/t34r3t8db4t8k24g34k2w6/"><circle cx="181.6" cy="141.7" r="4" fill="#3465a4"><title>Hogg Dress (Name)</title></circle></a><a href="/setts/s10/r3k1t10k1g2k1db8g12k1ly3~x2/"><circle cx="123.0" cy="142.3" r="4" fill="#3465a4"><title>Sullivan (Estimated threadcount)</title></circle></a><a href="/setts/s7/w1r2b16k14g15k3ly1~x2/"><circle cx="152.3" cy="155.8" r="4" fill="#3465a4"><title>Macneil of Barra - Chief (Personal)</title></circle></a><a href="/setts/s14/r2k8ly1k8g13db13lo1r2~x2/"><circle cx="145.3" cy="155.2" r="4" fill="#3465a4"><title>Sey</title></circle></a><a href="/setts/s11/r3k1g12k12db12db3db12k12g12k1ly3~x2/"><circle cx="122.4" cy="178.4" r="4" fill="#3465a4"><title>Gow Hunting (Clan)</title></circle></a><a href="/setts/s10/r7g20ly2g4k5b4k2b20k3w1~x2/"><circle cx="190.4" cy="134.0" r="4" fill="#3465a4"><title>McMeeken (Name)</title></circle></a><circle cx="131.6" cy="145.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/r6g22dg8g4dg12g2dg18db8t12db35ly4/

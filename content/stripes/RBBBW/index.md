@@ -32,8 +32,8 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [World Fed. of Bldg Contractors (Corp](/setts/s5/lb2b44n6db19r2~x2/)|
-|![World Fed. of Bldg Contractors (Corp example sett](/setts/s5/lb2b44n6db19r2~x2/sett.png)|
+| [World Fed. of Bldg Contractors (Corp](/setts/s5/r2db19n6b44lb2~x2/)|
+|![World Fed. of Bldg Contractors (Corp example sett](/setts/s5/r2db19n6b44lb2~x2/sett.png)|
 
 ### R T DB DT W <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R T DB DT W</span></span>
 

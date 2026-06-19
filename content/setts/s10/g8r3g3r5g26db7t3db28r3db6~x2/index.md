@@ -2,12 +2,18 @@
 title: "Stewart of Appin Htg (error)"
 date: 2023-03-18
 ---
-**Bands:** [BRBBBGRGRG](/stripes/brbbbgrgrg/) · **Stripes:** [DB R DB T DB G R G R G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB R DB T DB G R G R G</span></span>
+**Bands:** [GRGRGBBBRB](/stripes/grgrgbbbrb/) · **Stripes:** [G R G R G DB T DB R DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G R G DB T DB R DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/428/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Stewart of Appin Htg
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -899,7 +908,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-DB/12 R6 DB56 B6 DB14 G52 R10 G6 R6 G/16
+G/16 R6 G6 R10 G52 DB14 B6 DB56 R6 DB/12
 ![Sett](sett.png)
 
 ## Palette
@@ -919,7 +928,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Stewart of Appin 2](/setts/s10/g11r4g4r7g41db11t4db41r4db8/) — ΔT 0.77
 1. [Rowan (Name)](/setts/s10/db1k1db8k2lo1g12lo1db8k1db1~x4/) — ΔT 0.82
 1. [Stuart/Stewart of Appin](/setts/s10/dg8r3dg3r5dg26db7t3db28r3db6~x2/) — ΔT 0.85
-1. [Shaw](/setts/s10/g24k2db3k2db8r2db8k2db3k2~x2/) — ΔT 0.87
+1. [Shaw](/setts/s10/g24k2db3k2db8r2~x2/) — ΔT 0.87
 1. [Chinzei Keiai Junior High School](/setts/s9/n3dp3k16n2o2n16k3n2o2~x2/) — ΔT 0.89
 1. [Auld Lang Syne](/setts/s8/k1n1k1n7dy7k1dy1lt1~x6/) — ΔT 0.90
 1. [AIton - 1979 (Clan)](/setts/s8/db6k1g3k1db3k1g10r3~x2/) — ΔT 0.95
@@ -929,8 +938,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g11r4g4r7g41db11t4db41r4db8/"><circle cx="278.2" cy="191.4" r="4" fill="#3465a4"><title>Stewart of Appin 2</title></circle></a><a href="/setts/s10/db1k1db8k2lo1g12lo1db8k1db1~x4/"><circle cx="300.5" cy="185.4" r="4" fill="#3465a4"><title>Rowan (Name)</title></circle></a><a href="/setts/s10/dg8r3dg3r5dg26db7t3db28r3db6~x2/"><circle cx="294.1" cy="210.9" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin</title></circle></a><a href="/setts/s10/g24k2db3k2db8r2db8k2db3k2~x2/"><circle cx="284.8" cy="184.7" r="4" fill="#3465a4"><title>Shaw</title></circle></a><a href="/setts/s9/n3dp3k16n2o2n16k3n2o2~x2/"><circle cx="286.0" cy="203.7" r="4" fill="#3465a4"><title>Chinzei Keiai Junior High School</title></circle></a><a href="/setts/s8/k1n1k1n7dy7k1dy1lt1~x6/"><circle cx="243.9" cy="216.0" r="4" fill="#3465a4"><title>Auld Lang Syne</title></circle></a><a href="/setts/s8/db6k1g3k1db3k1g10r3~x2/"><circle cx="256.1" cy="215.9" r="4" fill="#3465a4"><title>AIton - 1979 (Clan)</title></circle></a><a href="/setts/s9/db12r1db1r1db1r4g12ly1g2~x4/"><circle cx="267.4" cy="182.6" r="4" fill="#3465a4"><title>Durie (Clan)</title></circle></a><a href="/setts/s10/dg11r4dg4r7dg41db11t4db41r4db8/"><circle cx="305.6" cy="206.2" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #2</title></circle></a><a href="/setts/s8/n32k3n3k3b5k8o21k4~x2/"><circle cx="267.2" cy="197.7" r="4" fill="#3465a4"><title>Speyside Blue (Fashion)</title></circle></a><circle cx="271.5" cy="198.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g11r4g4r7g41db11t4db41r4db8/"><circle cx="278.1" cy="191.4" r="4" fill="#3465a4"><title>Stewart of Appin 2</title></circle></a><a href="/setts/s10/db1k1db8k2lo1g12lo1db8k1db1~x4/"><circle cx="300.4" cy="185.4" r="4" fill="#3465a4"><title>Rowan (Name)</title></circle></a><a href="/setts/s10/dg8r3dg3r5dg26db7t3db28r3db6~x2/"><circle cx="294.0" cy="210.9" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin</title></circle></a><a href="/setts/s10/g24k2db3k2db8r2~x2/"><circle cx="284.8" cy="184.8" r="4" fill="#3465a4"><title>Shaw</title></circle></a><a href="/setts/s9/n3dp3k16n2o2n16k3n2o2~x2/"><circle cx="285.9" cy="203.7" r="4" fill="#3465a4"><title>Chinzei Keiai Junior High School</title></circle></a><a href="/setts/s8/k1n1k1n7dy7k1dy1lt1~x6/"><circle cx="243.9" cy="216.0" r="4" fill="#3465a4"><title>Auld Lang Syne</title></circle></a><a href="/setts/s8/db6k1g3k1db3k1g10r3~x2/"><circle cx="256.1" cy="215.9" r="4" fill="#3465a4"><title>AIton - 1979 (Clan)</title></circle></a><a href="/setts/s9/db12r1db1r1db1r4g12ly1g2~x4/"><circle cx="267.4" cy="182.6" r="4" fill="#3465a4"><title>Durie (Clan)</title></circle></a><a href="/setts/s10/dg11r4dg4r7dg41db11t4db41r4db8/"><circle cx="305.6" cy="206.3" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #2</title></circle></a><a href="/setts/s8/n32k3n3k3b5k8o21k4~x2/"><circle cx="267.1" cy="197.7" r="4" fill="#3465a4"><title>Speyside Blue (Fashion)</title></circle></a><circle cx="271.5" cy="198.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/g8r3g3r5g26db7t3db28r3db6~x2/

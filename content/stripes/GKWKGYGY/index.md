@@ -8,7 +8,7 @@ GKWKGYGY
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/lo16y2lo11y6k4w2k4y16~x2/tartan.png)
+![Woven sample](/setts/s8/y16k4w2k4y6lo11y2lo16~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ GKWKGYGY
 
 
 
-### Y K W K Y LO Y LO <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">Y K W K Y LO Y LO</span></span>
+### LO Y LO Y K W K Y <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LO Y LO Y K W K Y</span></span>
 
 | Tartans |
 |---------------|
-| [Sidney, (Nova Scotia)](/setts/s8/lo16y2lo11y6k4w2k4y16~x2/)|
-|![Sidney, (Nova Scotia) example sett](/setts/s8/lo16y2lo11y6k4w2k4y16~x2/sett.png)|
+| [Sidney, (Nova Scotia)](/setts/s8/y16k4w2k4y6lo11y2lo16~x2/)|
+|![Sidney, (Nova Scotia) example sett](/setts/s8/y16k4w2k4y6lo11y2lo16~x2/sett.png)|
 

@@ -2,12 +2,18 @@
 title: "MacKintosh/MacPherson"
 date: 2023-03-18
 ---
-**Bands:** [RGYKBKBKBRWKR](/stripes/rgykbkbkbrwkr/) · **Stripes:** [R DG LY K T K T K T R W K R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG LY K T K T K T R W K R</span></span>
+**Bands:** [RKWRBKBKBKYGR](/stripes/rkwrbkbkbkygr/) · **Stripes:** [R K W R T K T K T K LY DG R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K W R T K T K T K LY DG R</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2577
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacKintosh, MacPherson
 
 ## Register references
 
@@ -41,16 +47,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Stuart/Stewart](/setts/s14/dg2r30db4r4k6ly1k1w1k1dg10r4k1r1w1~x2/) — ΔT 0.75
 1. [Stewart of Rothesay](/setts/s13/g7r122db17r12k12ly3k4w3g48r16k4r6w5/) — ΔT 0.88
 1. [Stewart/Stuart, Royal](/setts/s12/r87db8k11ly2k3w2k3g13r11k2r5w3/) — ΔT 0.93
-1. [Stewart Royal](/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1~x2/) — ΔT 0.97
+1. [Stewart Royal](/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1/) — ΔT 0.97
 1. [Lions' Pride](/setts/s12/r46w2r2w3r2k3db7k2ly2r2g8w3~x2/) — ΔT 0.98
 1. [MacPherson, The Crubin Plaid](/setts/s15/r160k2w1g36ly9r4k1r4ly9t36k9r9ly9r4t3~x2/) — ΔT 1.02
-1. [MacPherson (Crubin Plaid)](/setts/s15/r160k2w1dg36ly9r4k1r4ly9y36k9r9ly9r4y3/) — ΔT 1.04
+1. [MacPherson (Crubin Plaid)](/setts/s15/r160k2w1dg36ly9r4k1r4ly9y36k9r9ly9r4y3~x2/) — ΔT 1.04
 1. [Rathmore (Fashion)](/setts/s12/r40lb2r6n2r2n2lo2n9w5r2w4lo1~x2/) — ΔT 1.04
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dg7r122db17r12k12ly3k4w3dg48r16k4r6w5/"><circle cx="372.3" cy="36.4" r="4" fill="#3465a4"><title>Stuart/Stewart of Rothesay</title></circle></a><a href="/setts/s13/r36g8ly1k6t4k1t1k1t4r11w1k1r1~x2/"><circle cx="372.5" cy="38.4" r="4" fill="#3465a4"><title>MacKintosh, MacPherson</title></circle></a><a href="/setts/s14/dg2r30db4r4k6ly1k1w1k1dg10r4k1r1w1~x2/"><circle cx="337.2" cy="43.1" r="4" fill="#3465a4"><title>Stuart/Stewart</title></circle></a><a href="/setts/s13/g7r122db17r12k12ly3k4w3g48r16k4r6w5/"><circle cx="362.2" cy="36.0" r="4" fill="#3465a4"><title>Stewart of Rothesay</title></circle></a><a href="/setts/s12/r87db8k11ly2k3w2k3g13r11k2r5w3/"><circle cx="449.3" cy="31.6" r="4" fill="#3465a4"><title>Stewart/Stuart, Royal</title></circle></a><a href="/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1~x2/"><circle cx="379.1" cy="34.1" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><a href="/setts/s12/r46w2r2w3r2k3db7k2ly2r2g8w3~x2/"><circle cx="360.5" cy="48.8" r="4" fill="#3465a4"><title>Lions' Pride</title></circle></a><a href="/setts/s15/r160k2w1g36ly9r4k1r4ly9t36k9r9ly9r4t3~x2/"><circle cx="391.0" cy="14.0" r="4" fill="#3465a4"><title>MacPherson, The Crubin Plaid</title></circle></a><a href="/setts/s15/r160k2w1dg36ly9r4k1r4ly9y36k9r9ly9r4y3/"><circle cx="404.3" cy="14.0" r="4" fill="#3465a4"><title>MacPherson (Crubin Plaid)</title></circle></a><a href="/setts/s12/r40lb2r6n2r2n2lo2n9w5r2w4lo1~x2/"><circle cx="408.1" cy="43.8" r="4" fill="#3465a4"><title>Rathmore (Fashion)</title></circle></a><circle cx="385.2" cy="39.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dg7r122db17r12k12ly3k4w3dg48r16k4r6w5/"><circle cx="371.8" cy="36.4" r="4" fill="#3465a4"><title>Stuart/Stewart of Rothesay</title></circle></a><a href="/setts/s13/r36g8ly1k6t4k1t1k1t4r11w1k1r1~x2/"><circle cx="372.1" cy="38.3" r="4" fill="#3465a4"><title>MacKintosh, MacPherson</title></circle></a><a href="/setts/s14/dg2r30db4r4k6ly1k1w1k1dg10r4k1r1w1~x2/"><circle cx="336.8" cy="43.1" r="4" fill="#3465a4"><title>Stuart/Stewart</title></circle></a><a href="/setts/s13/g7r122db17r12k12ly3k4w3g48r16k4r6w5/"><circle cx="361.7" cy="36.0" r="4" fill="#3465a4"><title>Stewart of Rothesay</title></circle></a><a href="/setts/s12/r87db8k11ly2k3w2k3g13r11k2r5w3/"><circle cx="448.7" cy="31.6" r="4" fill="#3465a4"><title>Stewart/Stuart, Royal</title></circle></a><a href="/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1/"><circle cx="378.7" cy="34.0" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><a href="/setts/s12/r46w2r2w3r2k3db7k2ly2r2g8w3~x2/"><circle cx="360.0" cy="48.7" r="4" fill="#3465a4"><title>Lions' Pride</title></circle></a><a href="/setts/s15/r160k2w1g36ly9r4k1r4ly9t36k9r9ly9r4t3~x2/"><circle cx="390.4" cy="14.0" r="4" fill="#3465a4"><title>MacPherson, The Crubin Plaid</title></circle></a><a href="/setts/s15/r160k2w1dg36ly9r4k1r4ly9y36k9r9ly9r4y3~x2/"><circle cx="403.7" cy="14.0" r="4" fill="#3465a4"><title>MacPherson (Crubin Plaid)</title></circle></a><a href="/setts/s12/r40lb2r6n2r2n2lo2n9w5r2w4lo1~x2/"><circle cx="407.4" cy="43.8" r="4" fill="#3465a4"><title>Rathmore (Fashion)</title></circle></a><circle cx="384.7" cy="39.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r36dg8ly1k6t4k1t1k1t4r11w1k1r1~x2/

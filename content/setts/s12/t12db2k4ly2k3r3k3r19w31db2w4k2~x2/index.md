@@ -2,7 +2,7 @@
 title: "MacLean, dress Burgundy"
 date: 2023-03-18
 ---
-**Bands:** [BBKYKRKRWBWK](/stripes/bbkykrkrwbwk/) · **Stripes:** [T DB K LY K R K R W DB W K](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">T DB K LY K R K R W DB W K</span></span>
+**Bands:** [KWBWRKRKYKBB](/stripes/kwbwrkrkykbb/) · **Stripes:** [K W DB W R K R K LY K DB T](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">K W DB W R K R K LY K DB T</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/t12db2k4ly2k3m3k3m19w31db2w4k2~x2/"><circle cx="153.7" cy="75.1" r="4" fill="#3465a4"><title>MacLean of Duart Dress #5</title></circle></a><a href="/setts/s14/o3w20r1db1r1db3r4db2r4db2r4db1y8ly1~x4/"><circle cx="147.1" cy="61.6" r="4" fill="#3465a4"><title>Cairn (Fashion)</title></circle></a><a href="/setts/s16/w1r3k1r3g4k1w1k1w1k1db6lo2db4w14db1w1~x4/"><circle cx="128.0" cy="73.0" r="4" fill="#3465a4"><title>MacBeth Dress (Clan)</title></circle></a><a href="/setts/s9/w37k4db12g12w2lr2r23w4r6~x2/"><circle cx="165.8" cy="97.8" r="4" fill="#3465a4"><title>Hebridean Arisaid, Red/White (Dance)</title></circle></a><a href="/setts/s14/db20w3db4w3db4w3r22lg2k1lg2ly16w1k2w1~x2/"><circle cx="120.9" cy="51.9" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield Traditional</title></circle></a><a href="/setts/s14/w9r5w29db3k10ly2k3w3k3dg12r6k3r3w2~x2/"><circle cx="150.7" cy="77.3" r="4" fill="#3465a4"><title>Hay - Stewart (Fashion)</title></circle></a><a href="/setts/s16/db81r4db8r8db4r12w16k8w32k16ly6db8dg16r8w4r24/"><circle cx="159.8" cy="66.6" r="4" fill="#3465a4"><title>Royal Stuart/Stewart (Variant)</title></circle></a><a href="/setts/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/"><circle cx="148.1" cy="106.8" r="4" fill="#3465a4"><title>Walker, Dress (Personal)</title></circle></a><a href="/setts/s16/db81r4db8r8db4r12w16k8w32k16ly6db8g16r8w4r24/"><circle cx="154.3" cy="65.6" r="4" fill="#3465a4"><title>Royal Stewart, (Variant)</title></circle></a><a href="/setts/s12/r5w2b2w2ly5w2lb2w2k7b14lb30w4~x2/"><circle cx="159.9" cy="80.3" r="4" fill="#3465a4"><title>St. Andrews Management School</title></circle></a><circle cx="146.5" cy="73.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/t12db2k4ly2k3m3k3m19w31db2w4k2~x2/"><circle cx="153.4" cy="75.2" r="4" fill="#3465a4"><title>MacLean of Duart Dress #5</title></circle></a><a href="/setts/s14/o3w20r1db1r1db3r4db2r4db2r4db1y8ly1~x4/"><circle cx="146.8" cy="61.7" r="4" fill="#3465a4"><title>Cairn (Fashion)</title></circle></a><a href="/setts/s16/w1r3k1r3g4k1w1k1w1k1db6lo2db4w14db1w1~x4/"><circle cx="127.8" cy="73.1" r="4" fill="#3465a4"><title>MacBeth Dress (Clan)</title></circle></a><a href="/setts/s9/w37k4db12g12w2lr2r23w4r6~x2/"><circle cx="165.6" cy="97.8" r="4" fill="#3465a4"><title>Hebridean Arisaid, Red/White (Dance)</title></circle></a><a href="/setts/s14/db20w3db4w3db4w3r22lg2k1lg2ly16w1k2w1~x2/"><circle cx="120.6" cy="52.0" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield Traditional</title></circle></a><a href="/setts/s14/w9r5w29db3k10ly2k3w3k3dg12r6k3r3w2~x2/"><circle cx="150.4" cy="77.3" r="4" fill="#3465a4"><title>Hay - Stewart (Fashion)</title></circle></a><a href="/setts/s16/db81r4db8r8db4r12w16k8w32k16ly6db8dg16r8w4r24/"><circle cx="159.6" cy="66.7" r="4" fill="#3465a4"><title>Royal Stuart/Stewart (Variant)</title></circle></a><a href="/setts/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/"><circle cx="147.9" cy="106.8" r="4" fill="#3465a4"><title>Walker, Dress (Personal)</title></circle></a><a href="/setts/s16/db81r4db8r8db4r12w16k8w32k16ly6db8g16r8w4r24/"><circle cx="154.1" cy="65.6" r="4" fill="#3465a4"><title>Royal Stewart, (Variant)</title></circle></a><a href="/setts/s12/r5w2b2w2ly5w2lb2w2k7b14lb30w4~x2/"><circle cx="159.5" cy="80.3" r="4" fill="#3465a4"><title>St. Andrews Management School</title></circle></a><circle cx="146.3" cy="73.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/t12db2k4ly2k3r3k3r19w31db2w4k2~x2/

@@ -10,7 +10,7 @@ This was sourced from house-of-tartan.  It is a [8 band tartan](/bands/bands8/).
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8700
 
 ## Thread count
-DR/6 T22 K22 N6 K6 N6 K6 N/20
+N/20 K6 N6 K6 N6 K22 T22 DR/6
 ![Sett](sett.png)
 
 ## Palette
@@ -26,13 +26,13 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/6 T22 K22 N6 K6 N6 K6 N/20 tartan")
+![Tartan detail](tartan.png "N/20 K6 N6 K6 N6 K22 T22 DR/6 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Wilson's No.214](/setts/s8/t3k1t1r3g4r3t1k1~x4/) — ΔT 0.61
+1. [Wilson's No.214](/setts/s8/g4r3t1k1t3~x4/) — ΔT 0.61
 1. [Stewart (Artefact)](/setts/s7/r2g4db8r9g9k2r2~x4/) — ΔT 0.65
 1. [Stewart, Plaid](/setts/s7/r2g4db8r9g9k2r2~x2/) — ΔT 0.71
 1. [Flora, MacDonald](/setts/s8/r3db3r3db10g10r3g3r3~x2/) — ΔT 1.01
@@ -40,13 +40,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Chaudhri (Name)](/setts/s8/dp13r8lb5dg24lb5r10lb5r10~x2/) — ΔT 1.06
 1. [Carnegie](/setts/s8/r33g17db50g17r11g17r9k7/) — ΔT 1.08
 1. [Chaudhri, Zafar Iqbal](/setts/s8/dp13n8w5dg24w5n10w5n10~x2/) — ΔT 1.10
-1. [Flora MacDonald](/setts/s8/r3db3r3db10dg10r3dg3r3~x2/) — ΔT 1.13
-1. [Wilson's No.193](/setts/s8/g6k1r1t2r2t2r1k1~x4/) — ΔT 1.15
+1. [Flora MacDonald](/setts/s8/r3dg3r3dg10db10r3db3r3~x2/) — ΔT 1.13
+1. [Wilson's No.193](/setts/s8/g6k1r1t2r2~x4/) — ΔT 1.15
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/t3k1t1r3g4r3t1k1~x4/"><circle cx="117.4" cy="249.9" r="4" fill="#3465a4"><title>Wilson's No.214</title></circle></a><a href="/setts/s7/r2g4db8r9g9k2r2~x4/"><circle cx="160.1" cy="252.5" r="4" fill="#3465a4"><title>Stewart (Artefact)</title></circle></a><a href="/setts/s7/r2g4db8r9g9k2r2~x2/"><circle cx="146.0" cy="246.5" r="4" fill="#3465a4"><title>Stewart, Plaid</title></circle></a><a href="/setts/s8/r3db3r3db10g10r3g3r3~x2/"><circle cx="170.4" cy="274.1" r="4" fill="#3465a4"><title>Flora, MacDonald</title></circle></a><a href="/setts/s12/g4db9r9g9k2r2k2g9r9db8g4r2~x4/"><circle cx="145.0" cy="238.7" r="4" fill="#3465a4"><title>Stewart/Stuart C18th - Cf 1314 &amp; 4454</title></circle></a><a href="/setts/s8/dp13r8lb5dg24lb5r10lb5r10~x2/"><circle cx="120.2" cy="231.0" r="4" fill="#3465a4"><title>Chaudhri (Name)</title></circle></a><a href="/setts/s8/r33g17db50g17r11g17r9k7/"><circle cx="158.2" cy="221.0" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/setts/s8/dp13n8w5dg24w5n10w5n10~x2/"><circle cx="108.6" cy="231.1" r="4" fill="#3465a4"><title>Chaudhri, Zafar Iqbal</title></circle></a><a href="/setts/s8/r3db3r3db10dg10r3dg3r3~x2/"><circle cx="175.3" cy="275.1" r="4" fill="#3465a4"><title>Flora MacDonald</title></circle></a><a href="/setts/s8/g6k1r1t2r2t2r1k1~x4/"><circle cx="164.3" cy="218.3" r="4" fill="#3465a4"><title>Wilson's No.193</title></circle></a><circle cx="141.5" cy="250.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g4r3t1k1t3~x4/"><circle cx="117.4" cy="249.9" r="4" fill="#3465a4"><title>Wilson's No.214</title></circle></a><a href="/setts/s7/r2g4db8r9g9k2r2~x4/"><circle cx="160.1" cy="252.5" r="4" fill="#3465a4"><title>Stewart (Artefact)</title></circle></a><a href="/setts/s7/r2g4db8r9g9k2r2~x2/"><circle cx="146.0" cy="246.5" r="4" fill="#3465a4"><title>Stewart, Plaid</title></circle></a><a href="/setts/s8/r3db3r3db10g10r3g3r3~x2/"><circle cx="170.3" cy="274.1" r="4" fill="#3465a4"><title>Flora, MacDonald</title></circle></a><a href="/setts/s12/g4db9r9g9k2r2k2g9r9db8g4r2~x4/"><circle cx="145.0" cy="238.7" r="4" fill="#3465a4"><title>Stewart/Stuart C18th - Cf 1314 &amp; 4454</title></circle></a><a href="/setts/s8/dp13r8lb5dg24lb5r10lb5r10~x2/"><circle cx="120.2" cy="230.9" r="4" fill="#3465a4"><title>Chaudhri (Name)</title></circle></a><a href="/setts/s8/r33g17db50g17r11g17r9k7/"><circle cx="158.1" cy="221.0" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/setts/s8/dp13n8w5dg24w5n10w5n10~x2/"><circle cx="108.6" cy="231.1" r="4" fill="#3465a4"><title>Chaudhri, Zafar Iqbal</title></circle></a><a href="/setts/s8/r3dg3r3dg10db10r3db3r3~x2/"><circle cx="175.3" cy="275.0" r="4" fill="#3465a4"><title>Flora MacDonald</title></circle></a><a href="/setts/s8/g6k1r1t2r2~x4/"><circle cx="164.3" cy="218.3" r="4" fill="#3465a4"><title>Wilson's No.193</title></circle></a><circle cx="141.5" cy="250.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/lr10dt3lr3dt3lr3dt11dy11o3~x2/

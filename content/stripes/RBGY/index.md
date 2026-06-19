@@ -8,7 +8,7 @@ RBGY
 
 It is a 4 band tartan.
 
-![Woven sample](/setts/s4/ly2g3db2r2~x5/tartan.png)
+![Woven sample](/setts/s4/r2db2g3ly2~x5/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RBGY
 
 | Tartans |
 |---------------|
-| [Sturch (Corporate)](/setts/s4/ly2g3db2r2~x5/)|
-|![Sturch (Corporate) example sett](/setts/s4/ly2g3db2r2~x5/sett.png)|
+| [Sturch (Corporate)](/setts/s4/r2db2g3ly2~x5/)|
+|![Sturch (Corporate) example sett](/setts/s4/r2db2g3ly2~x5/sett.png)|
 

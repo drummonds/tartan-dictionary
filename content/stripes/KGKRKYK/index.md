@@ -21,14 +21,14 @@ KGKRKYK
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### K DG K R K LO K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="seq">K DG K R K LO K</span></span>
+### K LO K R K DG K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="seq">K LO K R K DG K</span></span>
 
 | Tartans |
 |---------------|
 | [Langhein, Alex (Personal)](/setts/s7/k40dg15k10r2k10lo2k10~x2/)|
 |![Langhein, Alex (Personal) example sett](/setts/s7/k40dg15k10r2k10lo2k10~x2/sett.png)|
 
-### K DG K R K LY K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="seq">K DG K R K LY K</span></span>
+### K LY K R K DG K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="seq">K LY K R K DG K</span></span>
 
 | Tartans |
 |---------------|

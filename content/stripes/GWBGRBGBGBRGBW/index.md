@@ -22,6 +22,6 @@ GWBGRBGBGBRGBW
 
 | Tartans |
 |---------------|
-| [Spirit of Fife](/setts/s14/dg10w2dt3g2m14dt26dg2dt6dg2dt26m14g2dt3w2~x2/)|
-|![Spirit of Fife example sett](/setts/s14/dg10w2dt3g2m14dt26dg2dt6dg2dt26m14g2dt3w2~x2/sett.png)|
+| [Spirit of Fife](/setts/s14/dg10w2dt3g2m14dt26dg2dt6~x2/)|
+|![Spirit of Fife example sett](/setts/s14/dg10w2dt3g2m14dt26dg2dt6~x2/sett.png)|
 

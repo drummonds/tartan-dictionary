@@ -18,12 +18,12 @@ WGKGKGKGY
 
 
 
-### W G K G K G K G LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W G K G K G K G LY</span></span>
+### LY G K G K G K G W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY G K G K G K G W</span></span>
 
 | Tartans |
 |---------------|
-| [MacIver Hunting](/setts/s9/ly2g12k3g3k16g3k3g12w2~x2/)|
-|![MacIver Hunting example sett](/setts/s9/ly2g12k3g3k16g3k3g12w2~x2/sett.png)|
-| [MacIver hunting](/setts/s9/ly3g27k5g5k32g5k5g27w3~x2/)|
-|![MacIver hunting example sett](/setts/s9/ly3g27k5g5k32g5k5g27w3~x2/sett.png)|
+| [MacIver Hunting](/setts/s9/w2g12k3g3k16g3k3g12ly2~x2/)|
+|![MacIver Hunting example sett](/setts/s9/w2g12k3g3k16g3k3g12ly2~x2/sett.png)|
+| [MacIver hunting](/setts/s9/w3g27k5g5k32g5k5g27ly3~x2/)|
+|![MacIver hunting example sett](/setts/s9/w3g27k5g5k32g5k5g27ly3~x2/sett.png)|
 

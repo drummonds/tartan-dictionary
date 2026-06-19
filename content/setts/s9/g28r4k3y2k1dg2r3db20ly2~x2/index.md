@@ -2,12 +2,18 @@
 title: "Stirling, University"
 date: 2023-03-18
 ---
-**Bands:** [GRKGKGRBY](/stripes/grkgkgrby/) · **Stripes:** [G R K Y K DG R DB LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G R K Y K DG R DB LY</span></span>
+**Bands:** [YBRGKGKRG](/stripes/ybrgkgkrg/) · **Stripes:** [LY DB R DG K Y K R G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY DB R DG K Y K R G</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Stirling, University
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -908,7 +917,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Stirling University Corporate Tartan Tartan Number: 2074. Earliest known date: Aug 1992 This is a simplified Stirling and Bannockburn district sett with the Universities 'Green and Grey' striped through the black. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/g28r4k3o2k1dg2r3db20ly2~x2/) — ΔT 0.80
 1. [MacLean of Kingairloch](/setts/s11/db8t1k6ly1k2w2k2g12o28w1o4~x2/) — ΔT 0.99
 1. [St Brigid's Parish Triple Celebratio](/setts/s9/db2dy12k1b5w3b5k1g30ly2~x2/) — ΔT 1.01
-1. [Scottish Ambulance Service (Corporat](/setts/s9/lb3dg2t2dg32k2g2k12t16r3~x2/) — ΔT 1.12
+1. [Scottish Ambulance Service (Corporat](/setts/s9/r3t16k12g2k2dg32t2dg2lb3~x2/) — ΔT 1.12
 1. [National Millennium (Commemorative)](/setts/s9/w2k4db16lo12g36k1k6lo2w2~x2/) — ΔT 1.13
 1. [St Brigid's Quirindi](/setts/s9/b2do12k1b5w3b5k1g30lo2~x2/) — ΔT 1.13
 1. [State Seal of South Carolina (Fash)](/setts/s11/g55k13b4k3g6lo3b2k3dy10k12b14~x2/) — ΔT 1.17
@@ -918,8 +927,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g28r4k3o2k1dg2r3db20ly2~x2/"><circle cx="234.3" cy="92.3" r="4" fill="#3465a4"><title>Stirling University Corporate Tartan Tartan Number: 2074. Earliest known date: Aug 1992 This is a simplified Stirling and Bannockburn district sett with the Universities 'Green and Grey' striped through the black. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/db8t1k6ly1k2w2k2g12o28w1o4~x2/"><circle cx="219.8" cy="66.8" r="4" fill="#3465a4"><title>MacLean of Kingairloch</title></circle></a><a href="/setts/s9/db2dy12k1b5w3b5k1g30ly2~x2/"><circle cx="259.0" cy="90.4" r="4" fill="#3465a4"><title>St Brigid's Parish Triple Celebratio</title></circle></a><a href="/setts/s9/lb3dg2t2dg32k2g2k12t16r3~x2/"><circle cx="185.1" cy="104.1" r="4" fill="#3465a4"><title>Scottish Ambulance Service (Corporat</title></circle></a><a href="/setts/s9/w2k4db16lo12g36k1k6lo2w2~x2/"><circle cx="219.4" cy="86.0" r="4" fill="#3465a4"><title>National Millennium (Commemorative)</title></circle></a><a href="/setts/s9/b2do12k1b5w3b5k1g30lo2~x2/"><circle cx="242.1" cy="74.7" r="4" fill="#3465a4"><title>St Brigid's Quirindi</title></circle></a><a href="/setts/s11/g55k13b4k3g6lo3b2k3dy10k12b14~x2/"><circle cx="237.4" cy="101.9" r="4" fill="#3465a4"><title>State Seal of South Carolina (Fash)</title></circle></a><a href="/setts/s9/w2db4r16k12g36ly1db6k2w2~x2/"><circle cx="236.8" cy="88.8" r="4" fill="#3465a4"><title>National Millennium</title></circle></a><a href="/setts/s11/w4k1db16k1dg32r6k6o6dg4o2dg1~x2/"><circle cx="250.9" cy="91.3" r="4" fill="#3465a4"><title>Zambia</title></circle></a><a href="/setts/s8/g22r3k1g2r3t16k3ly2~x4/"><circle cx="250.6" cy="124.7" r="4" fill="#3465a4"><title>Stirling, University of Corporate Univ Tartan Tartan Number: 2297. Earliest known date: 1994 This is the accepted University design. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="216.1" cy="83.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g28r4k3o2k1dg2r3db20ly2~x2/"><circle cx="234.2" cy="92.4" r="4" fill="#3465a4"><title>Stirling University Corporate Tartan Tartan Number: 2074. Earliest known date: Aug 1992 This is a simplified Stirling and Bannockburn district sett with the Universities 'Green and Grey' striped through the black. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/db8t1k6ly1k2w2k2g12o28w1o4~x2/"><circle cx="219.7" cy="66.8" r="4" fill="#3465a4"><title>MacLean of Kingairloch</title></circle></a><a href="/setts/s9/db2dy12k1b5w3b5k1g30ly2~x2/"><circle cx="258.9" cy="90.5" r="4" fill="#3465a4"><title>St Brigid's Parish Triple Celebratio</title></circle></a><a href="/setts/s9/r3t16k12g2k2dg32t2dg2lb3~x2/"><circle cx="185.1" cy="104.2" r="4" fill="#3465a4"><title>Scottish Ambulance Service (Corporat</title></circle></a><a href="/setts/s9/w2k4db16lo12g36k1k6lo2w2~x2/"><circle cx="219.3" cy="86.0" r="4" fill="#3465a4"><title>National Millennium (Commemorative)</title></circle></a><a href="/setts/s9/b2do12k1b5w3b5k1g30lo2~x2/"><circle cx="241.9" cy="74.7" r="4" fill="#3465a4"><title>St Brigid's Quirindi</title></circle></a><a href="/setts/s11/g55k13b4k3g6lo3b2k3dy10k12b14~x2/"><circle cx="237.3" cy="102.0" r="4" fill="#3465a4"><title>State Seal of South Carolina (Fash)</title></circle></a><a href="/setts/s9/w2db4r16k12g36ly1db6k2w2~x2/"><circle cx="236.7" cy="88.9" r="4" fill="#3465a4"><title>National Millennium</title></circle></a><a href="/setts/s11/w4k1db16k1dg32r6k6o6dg4o2dg1~x2/"><circle cx="250.8" cy="91.3" r="4" fill="#3465a4"><title>Zambia</title></circle></a><a href="/setts/s8/g22r3k1g2r3t16k3ly2~x4/"><circle cx="250.4" cy="124.7" r="4" fill="#3465a4"><title>Stirling, University of Corporate Univ Tartan Tartan Number: 2297. Earliest known date: 1994 This is the accepted University design. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="216.0" cy="83.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/g28r4k3y2k1dg2r3db20ly2~x2/

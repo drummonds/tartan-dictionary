@@ -2,12 +2,18 @@
 title: "Englehart, City of"
 date: 2023-03-18
 ---
-**Bands:** [GRBY](/stripes/grby/) · **Stripes:** [DG R N LY](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DG R N LY</span></span>
+**Bands:** [YBRG](/stripes/ybrg/) · **Stripes:** [LY N R DG](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">LY N R DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1112
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Englehart, City of
 
 ## Attestations
 
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/lo5g7k1t1~x4/"><circle cx="237.1" cy="235.0" r="4" fill="#3465a4"><title>Wilson's, No 195</title></circle></a><a href="/setts/s6/g9r2g9r14k1w2~x4/"><circle cx="289.6" cy="194.4" r="4" fill="#3465a4"><title>MacGregor of Balquidder - 1831 (Clan</title></circle></a><a href="/setts/s4/g22w14r7ly1~x2/"><circle cx="268.3" cy="194.1" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><a href="/setts/s4/g22w14r7ly2~x2/"><circle cx="215.1" cy="213.3" r="4" fill="#3465a4"><title>Loch Lomond #3</title></circle></a><a href="/setts/s6/do4g25lo10g3lo18r4~x2/"><circle cx="222.6" cy="205.3" r="4" fill="#3465a4"><title>Unidentfied (Ligioner Highland Games</title></circle></a><a href="/setts/s6/k4r5k2lo21g8k2~x2/"><circle cx="247.4" cy="181.6" r="4" fill="#3465a4"><title>MacDuck #2</title></circle></a><a href="/setts/s5/g6k1r1t2r2~x4/"><circle cx="225.2" cy="236.7" r="4" fill="#3465a4"><title>Wilson's, No 193</title></circle></a><a href="/setts/s6/k4r5k2ly21g8k2~x2/"><circle cx="228.3" cy="172.1" r="4" fill="#3465a4"><title>MacDuck (Corporate)</title></circle></a><a href="/setts/s6/g9r2g9r14k1w2~x2/"><circle cx="298.3" cy="199.0" r="4" fill="#3465a4"><title>MacGregor of Balquidder (Logan)</title></circle></a><a href="/setts/s6/dg8lo1dg8lo12r1lo1~x4/"><circle cx="321.8" cy="211.7" r="4" fill="#3465a4"><title>Forget Family (Yonne)</title></circle></a><circle cx="265.8" cy="218.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/lo5g7k1t1~x4/"><circle cx="236.9" cy="234.8" r="4" fill="#3465a4"><title>Wilson's, No 195</title></circle></a><a href="/setts/s6/g9r2g9r14k1w2~x4/"><circle cx="289.3" cy="194.3" r="4" fill="#3465a4"><title>MacGregor of Balquidder - 1831 (Clan</title></circle></a><a href="/setts/s4/g22w14r7ly1~x2/"><circle cx="268.0" cy="193.9" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><a href="/setts/s4/g22w14r7ly2~x2/"><circle cx="214.9" cy="213.1" r="4" fill="#3465a4"><title>Loch Lomond #3</title></circle></a><a href="/setts/s6/do4g25lo10g3lo18r4~x2/"><circle cx="222.4" cy="205.2" r="4" fill="#3465a4"><title>Unidentfied (Ligioner Highland Games</title></circle></a><a href="/setts/s6/k4r5k2lo21g8k2~x2/"><circle cx="247.2" cy="181.5" r="4" fill="#3465a4"><title>MacDuck #2</title></circle></a><a href="/setts/s5/g6k1r1t2r2~x4/"><circle cx="225.1" cy="236.6" r="4" fill="#3465a4"><title>Wilson's, No 193</title></circle></a><a href="/setts/s6/k4r5k2ly21g8k2~x2/"><circle cx="227.9" cy="171.9" r="4" fill="#3465a4"><title>MacDuck (Corporate)</title></circle></a><a href="/setts/s6/g9r2g9r14k1w2~x2/"><circle cx="298.1" cy="198.9" r="4" fill="#3465a4"><title>MacGregor of Balquidder (Logan)</title></circle></a><a href="/setts/s6/dg8lo1dg8lo12r1lo1~x4/"><circle cx="321.5" cy="211.4" r="4" fill="#3465a4"><title>Forget Family (Yonne)</title></circle></a><circle cx="265.6" cy="218.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/dg27r9n2ly14~x4/

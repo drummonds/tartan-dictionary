@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -913,14 +916,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Wilsons' Blanket Pattern (Artefact)](/setts/s8/w80k2r19w2dg19r22w2r4~x2/) — ΔT 0.81
 1. [Wilson's Blanket Pattern](/setts/s8/w50k1r14w1dg14r14w1r2~x4/) — ΔT 0.88
 1. [MMK 1777](/setts/s7/w30k1r7dg7r8w1r2~x4/) — ΔT 1.03
-1. [MacGregor Dress Red Fancy Tartan Tartan Number: 6541. Earliest known date: 1975 A Dancers tartan now woven by D C Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/w52r22w6r8k1db3k1r8w6r22~x2/) — ΔT 1.15
+1. [MacGregor Dress Red Fancy Tartan Tartan Number: 6541. Earliest known date: 1975 A Dancers tartan now woven by D C Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/w52r22w6r8k1db3~x2/) — ΔT 1.15
 1. [Unidentified Fisherwife's Plaid](/setts/s7/w80t1r14t9r24w2r4~x2/) — ΔT 1.20
 1. [MacGregor Dress Red (Dance)](/setts/s6/w52r22w6r8k1db3~x2/) — ΔT 1.33
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w75dy1r18dg9dy1r27w2r5~x2/"><circle cx="381.4" cy="74.5" r="4" fill="#3465a4"><title>Unidentified Ross-shire</title></circle></a><a href="/setts/s8/w50k1r12w1dg12r13w1r2~x2/"><circle cx="365.2" cy="75.1" r="4" fill="#3465a4"><title>Unidentified Blanket</title></circle></a><a href="/setts/s8/w57k1r12w1g12r14w1r2~x2/"><circle cx="392.7" cy="74.2" r="4" fill="#3465a4"><title>McBrayer Dress</title></circle></a><a href="/setts/s8/w50k1r12w1g12r13w1r2~x2/"><circle cx="364.6" cy="76.9" r="4" fill="#3465a4"><title>Unidentified, Blanket</title></circle></a><a href="/setts/s8/w80k2r19w2dg19r22w2r4~x2/"><circle cx="340.0" cy="77.1" r="4" fill="#3465a4"><title>Wilsons' Blanket Pattern (Artefact)</title></circle></a><a href="/setts/s8/w50k1r14w1dg14r14w1r2~x4/"><circle cx="330.3" cy="70.2" r="4" fill="#3465a4"><title>Wilson's Blanket Pattern</title></circle></a><a href="/setts/s7/w30k1r7dg7r8w1r2~x4/"><circle cx="332.7" cy="107.8" r="4" fill="#3465a4"><title>MMK 1777</title></circle></a><a href="/setts/s10/w52r22w6r8k1db3k1r8w6r22~x2/"><circle cx="341.7" cy="68.4" r="4" fill="#3465a4"><title>MacGregor Dress Red Fancy Tartan Tartan Number: 6541. Earliest known date: 1975 A Dancers tartan now woven by D C Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/w80t1r14t9r24w2r4~x2/"><circle cx="437.6" cy="101.2" r="4" fill="#3465a4"><title>Unidentified Fisherwife's Plaid</title></circle></a><a href="/setts/s6/w52r22w6r8k1db3~x2/"><circle cx="405.7" cy="91.6" r="4" fill="#3465a4"><title>MacGregor Dress Red (Dance)</title></circle></a><circle cx="380.0" cy="76.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w75dy1r18dg9dy1r27w2r5~x2/"><circle cx="380.7" cy="74.3" r="4" fill="#3465a4"><title>Unidentified Ross-shire</title></circle></a><a href="/setts/s8/w50k1r12w1dg12r13w1r2~x2/"><circle cx="364.5" cy="74.8" r="4" fill="#3465a4"><title>Unidentified Blanket</title></circle></a><a href="/setts/s8/w57k1r12w1g12r14w1r2~x2/"><circle cx="391.9" cy="74.0" r="4" fill="#3465a4"><title>McBrayer Dress</title></circle></a><a href="/setts/s8/w50k1r12w1g12r13w1r2~x2/"><circle cx="364.0" cy="76.7" r="4" fill="#3465a4"><title>Unidentified, Blanket</title></circle></a><a href="/setts/s8/w80k2r19w2dg19r22w2r4~x2/"><circle cx="339.4" cy="76.9" r="4" fill="#3465a4"><title>Wilsons' Blanket Pattern (Artefact)</title></circle></a><a href="/setts/s8/w50k1r14w1dg14r14w1r2~x4/"><circle cx="329.7" cy="69.9" r="4" fill="#3465a4"><title>Wilson's Blanket Pattern</title></circle></a><a href="/setts/s7/w30k1r7dg7r8w1r2~x4/"><circle cx="332.2" cy="107.5" r="4" fill="#3465a4"><title>MMK 1777</title></circle></a><a href="/setts/s10/w52r22w6r8k1db3~x2/"><circle cx="341.0" cy="68.2" r="4" fill="#3465a4"><title>MacGregor Dress Red Fancy Tartan Tartan Number: 6541. Earliest known date: 1975 A Dancers tartan now woven by D C Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/w80t1r14t9r24w2r4~x2/"><circle cx="436.8" cy="100.9" r="4" fill="#3465a4"><title>Unidentified Fisherwife's Plaid</title></circle></a><a href="/setts/s6/w52r22w6r8k1db3~x2/"><circle cx="404.9" cy="91.2" r="4" fill="#3465a4"><title>MacGregor Dress Red (Dance)</title></circle></a><circle cx="379.3" cy="75.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/w75o1r18g9o1r27w2r5~x2/

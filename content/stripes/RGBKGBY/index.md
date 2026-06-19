@@ -8,7 +8,7 @@ RGBKGBY
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/ly3dp2g27k19db27g2r3~x2/tartan.png)
+![Woven sample](/setts/s7/r3g2db27k19g27dp2ly3~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RGBKGBY
 
 | Tartans |
 |---------------|
-| [Christian Hunting (Personal)](/setts/s7/ly3dp2g27k19db27g2r3~x2/)|
-|![Christian Hunting (Personal) example sett](/setts/s7/ly3dp2g27k19db27g2r3~x2/sett.png)|
+| [Christian Hunting (Personal)](/setts/s7/r3g2db27k19g27dp2ly3~x2/)|
+|![Christian Hunting (Personal) example sett](/setts/s7/r3g2db27k19g27dp2ly3~x2/sett.png)|
 

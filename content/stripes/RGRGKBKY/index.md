@@ -8,7 +8,7 @@ RGRGKBKY
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/ly2k1dt30k13dg13r2dg13r2~x2/tartan.png)
+![Woven sample](/setts/s8/r2dg13r2dg13k13dt30k1ly2~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RGRGKBKY
 
 | Tartans |
 |---------------|
-| [Chan (Name?)](/setts/s8/ly2k1dt30k13dg13r2dg13r2~x2/)|
-|![Chan (Name?) example sett](/setts/s8/ly2k1dt30k13dg13r2dg13r2~x2/sett.png)|
+| [Chan (Name?)](/setts/s8/r2dg13r2dg13k13dt30k1ly2~x2/)|
+|![Chan (Name?) example sett](/setts/s8/r2dg13r2dg13k13dt30k1ly2~x2/sett.png)|
 

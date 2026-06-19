@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=421
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Buchanan 5
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -927,14 +936,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Gibbs/Gibson](/setts/s13/dg1r16w1db2w2k4w2k4w2db2w1dg16t1~x4/) — ΔT 0.68
 1. [Buchanan #4](/setts/s13/t4dg25k2t4k2ly8k3ly8k2t4k2r25w4~x2/) — ΔT 0.71
 1. [Buchanan D](/setts/s13/b2dg16k1b2k1ly4k1ly4k1b2k1r16lr2~x2/) — ΔT 0.72
-1. [Buchanan D](/setts/s13/b2dg16k1b2k1ly4k1ly4k1b2k1r16lr2/) — ΔT 0.72
 1. [Baxter of Balgavies](/setts/s11/w2r16k1t2k1ly4k1t2k1g16t1~x2/) — ΔT 0.76
 1. [Baxter](/setts/s13/b2g16k1b2k1lo4k1lo4k1b2k1r16w2~x4/) — ΔT 0.76
+1. [Nazarian (Personal)](/setts/s13/lo6w4k3t14w3r34k34w4t3lo8w3g4k2~x2/) — ΔT 0.77
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/t3dg31k2t4k2ly8k2ly8k2t4k2r31w3~x2/"><circle cx="130.8" cy="78.8" r="4" fill="#3465a4"><title>Buchanan #2</title></circle></a><a href="/setts/s13/w2r16k1t2k1ly4k1ly4k1t2k1g16t1~x4/"><circle cx="137.7" cy="78.9" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/setts/s13/t3g31k2t4k2ly8k2ly8k2t4k2r31w3~x2/"><circle cx="121.3" cy="76.3" r="4" fill="#3465a4"><title>Buchanan 8</title></circle></a><a href="/setts/s13/t2dg12k1t2k1ly3k1ly3k1t2k1r12w2~x2/"><circle cx="94.9" cy="95.5" r="4" fill="#3465a4"><title>Buchanan #3</title></circle></a><a href="/setts/s13/dg1r16w1db2w2k4w2k4w2db2w1dg16t1~x4/"><circle cx="118.2" cy="75.1" r="4" fill="#3465a4"><title>Gibbs/Gibson</title></circle></a><a href="/setts/s13/t4dg25k2t4k2ly8k3ly8k2t4k2r25w4~x2/"><circle cx="87.4" cy="95.3" r="4" fill="#3465a4"><title>Buchanan #4</title></circle></a><a href="/setts/s13/b2dg16k1b2k1ly4k1ly4k1b2k1r16lr2~x2/"><circle cx="135.5" cy="87.7" r="4" fill="#3465a4"><title>Buchanan D</title></circle></a><a href="/setts/s13/b2dg16k1b2k1ly4k1ly4k1b2k1r16lr2/"><circle cx="135.5" cy="87.7" r="4" fill="#3465a4"><title>Buchanan D</title></circle></a><a href="/setts/s11/w2r16k1t2k1ly4k1t2k1g16t1~x2/"><circle cx="154.2" cy="84.5" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><a href="/setts/s13/b2g16k1b2k1lo4k1lo4k1b2k1r16w2~x4/"><circle cx="135.2" cy="88.0" r="4" fill="#3465a4"><title>Baxter</title></circle></a><circle cx="126.0" cy="76.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/t3dg31k2t4k2ly8k2ly8k2t4k2r31w3~x2/"><circle cx="130.5" cy="79.0" r="4" fill="#3465a4"><title>Buchanan #2</title></circle></a><a href="/setts/s13/w2r16k1t2k1ly4k1ly4k1t2k1g16t1~x4/"><circle cx="137.4" cy="79.0" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/setts/s13/t3g31k2t4k2ly8k2ly8k2t4k2r31w3~x2/"><circle cx="121.1" cy="76.4" r="4" fill="#3465a4"><title>Buchanan 8</title></circle></a><a href="/setts/s13/t2dg12k1t2k1ly3k1ly3k1t2k1r12w2~x2/"><circle cx="94.7" cy="95.6" r="4" fill="#3465a4"><title>Buchanan #3</title></circle></a><a href="/setts/s13/dg1r16w1db2w2k4w2k4w2db2w1dg16t1~x4/"><circle cx="118.1" cy="75.2" r="4" fill="#3465a4"><title>Gibbs/Gibson</title></circle></a><a href="/setts/s13/t4dg25k2t4k2ly8k3ly8k2t4k2r25w4~x2/"><circle cx="87.2" cy="95.4" r="4" fill="#3465a4"><title>Buchanan #4</title></circle></a><a href="/setts/s13/b2dg16k1b2k1ly4k1ly4k1b2k1r16lr2~x2/"><circle cx="135.4" cy="87.9" r="4" fill="#3465a4"><title>Buchanan D</title></circle></a><a href="/setts/s11/w2r16k1t2k1ly4k1t2k1g16t1~x2/"><circle cx="153.9" cy="84.6" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><a href="/setts/s13/b2g16k1b2k1lo4k1lo4k1b2k1r16w2~x4/"><circle cx="135.0" cy="88.1" r="4" fill="#3465a4"><title>Baxter</title></circle></a><a href="/setts/s13/lo6w4k3t14w3r34k34w4t3lo8w3g4k2~x2/"><circle cx="122.0" cy="78.7" r="4" fill="#3465a4"><title>Nazarian (Personal)</title></circle></a><circle cx="125.8" cy="76.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/t2dg16k1t2k1ly4k1ly4k1t2k1r16w2~x4/

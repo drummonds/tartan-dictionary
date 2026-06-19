@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 R6 K8 R16 DG64 LN6 K8 Y4 K32 B24 R/128
+R/128 B24 K32 Y4 K8 LN6 DG64 R16 K8 R6 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -910,15 +913,15 @@ The nearest existing variants by ΔTartan distance.
 1. [MacLean of Duart 2](/setts/s11/t14k8ly2k3w4k3g21r48t4r5k3~x2/) — ΔT 0.96
 1. [Stewart - (Galloway ?)](/setts/s14/k56r90db4w4k13ly3k3w3k3g18r14k3r7w3/) — ΔT 0.98
 1. [Drummond Relic](/setts/s12/r26w1k8ly1dg13k1w4k1ly2k4t3r8~x4/) — ΔT 0.99
-1. [MacGill](/setts/s13/r41dg13k8lb2ly2r1ly2lb2db6k2r3ly2lb5~x2/) — ΔT 1.04
+1. [MacGill](/setts/s13/r41dg13k8lb2ly2r1ly2lb2db6k2r3ly2lb5/) — ΔT 1.04
 1. [Unidentified, Bedspread](/setts/s14/r20w6r100db15k10db15k40ly5g54r15k5r15k6w8/) — ΔT 1.06
 1. [MacNiven](/setts/s9/g18g2db5r45db3db18db3r5w2/) — ΔT 1.07
 1. [Stewart of Galloway - 1842 (Clan)](/setts/s12/k3r24k4ly1k2w1db4dg6r3k1r2w1~x4/) — ΔT 1.08
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k3r24k4ly1k2w1db4g6r3k1r2w1~x2/"><circle cx="289.5" cy="59.3" r="4" fill="#3465a4"><title>Stewart of Galloway</title></circle></a><a href="/setts/s12/r26w1k8ly1g13k1w4k1ly2k4t3r8~x4/"><circle cx="217.1" cy="65.6" r="4" fill="#3465a4"><title>Drummond, Relic</title></circle></a><a href="/setts/s12/db3r2db2r35lo2db3k2db5k4g13k1w3~x2/"><circle cx="280.6" cy="50.3" r="4" fill="#3465a4"><title>Celtic Nations (Fashion)</title></circle></a><a href="/setts/s11/t14k8ly2k3w4k3g21r48t4r5k3~x2/"><circle cx="220.6" cy="71.3" r="4" fill="#3465a4"><title>MacLean of Duart 2</title></circle></a><a href="/setts/s14/k56r90db4w4k13ly3k3w3k3g18r14k3r7w3/"><circle cx="277.0" cy="41.2" r="4" fill="#3465a4"><title>Stewart - (Galloway ?)</title></circle></a><a href="/setts/s12/r26w1k8ly1dg13k1w4k1ly2k4t3r8~x4/"><circle cx="230.0" cy="67.5" r="4" fill="#3465a4"><title>Drummond Relic</title></circle></a><a href="/setts/s13/r41dg13k8lb2ly2r1ly2lb2db6k2r3ly2lb5~x2/"><circle cx="263.2" cy="24.7" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/setts/s14/r20w6r100db15k10db15k40ly5g54r15k5r15k6w8/"><circle cx="211.4" cy="74.6" r="4" fill="#3465a4"><title>Unidentified, Bedspread</title></circle></a><a href="/setts/s9/g18g2db5r45db3db18db3r5w2/"><circle cx="257.5" cy="94.2" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><a href="/setts/s12/k3r24k4ly1k2w1db4dg6r3k1r2w1~x4/"><circle cx="305.7" cy="64.5" r="4" fill="#3465a4"><title>Stewart of Galloway - 1842 (Clan)</title></circle></a><circle cx="266.7" cy="60.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k3r24k4ly1k2w1db4g6r3k1r2w1~x2/"><circle cx="289.2" cy="59.3" r="4" fill="#3465a4"><title>Stewart of Galloway</title></circle></a><a href="/setts/s12/r26w1k8ly1g13k1w4k1ly2k4t3r8~x4/"><circle cx="216.8" cy="65.6" r="4" fill="#3465a4"><title>Drummond, Relic</title></circle></a><a href="/setts/s12/db3r2db2r35lo2db3k2db5k4g13k1w3~x2/"><circle cx="280.3" cy="50.3" r="4" fill="#3465a4"><title>Celtic Nations (Fashion)</title></circle></a><a href="/setts/s11/t14k8ly2k3w4k3g21r48t4r5k3~x2/"><circle cx="220.3" cy="71.4" r="4" fill="#3465a4"><title>MacLean of Duart 2</title></circle></a><a href="/setts/s14/k56r90db4w4k13ly3k3w3k3g18r14k3r7w3/"><circle cx="276.8" cy="41.2" r="4" fill="#3465a4"><title>Stewart - (Galloway ?)</title></circle></a><a href="/setts/s12/r26w1k8ly1dg13k1w4k1ly2k4t3r8~x4/"><circle cx="229.7" cy="67.6" r="4" fill="#3465a4"><title>Drummond Relic</title></circle></a><a href="/setts/s13/r41dg13k8lb2ly2r1ly2lb2db6k2r3ly2lb5/"><circle cx="262.8" cy="24.7" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/setts/s14/r20w6r100db15k10db15k40ly5g54r15k5r15k6w8/"><circle cx="211.2" cy="74.6" r="4" fill="#3465a4"><title>Unidentified, Bedspread</title></circle></a><a href="/setts/s9/g18g2db5r45db3db18db3r5w2/"><circle cx="257.3" cy="94.2" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><a href="/setts/s12/k3r24k4ly1k2w1db4dg6r3k1r2w1~x4/"><circle cx="305.3" cy="64.5" r="4" fill="#3465a4"><title>Stewart of Galloway - 1842 (Clan)</title></circle></a><circle cx="266.5" cy="60.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/r64t12k16ly2k4w3dg32r8k4r3w2~x2/

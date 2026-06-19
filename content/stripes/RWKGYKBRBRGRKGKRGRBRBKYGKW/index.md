@@ -22,6 +22,6 @@ RWKGYKBRBRGRKGKRGRBRBKYGKW
 
 | Tartans |
 |---------------|
-| [Wilson's No.226](/setts/s26/r25w4k4g25lo3k15t13r5t5r15g4r5k2g3k2r5g4r15t5r5t13k15lo3g25k4w4~x2/)|
-|![Wilson's No.226 example sett](/setts/s26/r25w4k4g25lo3k15t13r5t5r15g4r5k2g3k2r5g4r15t5r5t13k15lo3g25k4w4~x2/sett.png)|
+| [Wilson's No.226](/setts/s26/r25w4k4g25lo3k15t13r5t5r15g4r5k2g3~x2/)|
+|![Wilson's No.226 example sett](/setts/s26/r25w4k4g25lo3k15t13r5t5r15g4r5k2g3~x2/sett.png)|
 

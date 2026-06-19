@@ -2,7 +2,7 @@
 title: "Glen Erin"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBRRG](/stripes/bgbgbrrg/) · **Stripes:** [DB G DB G DB R O G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB G DB G DB R O G</span></span>
+**Bands:** [GRRBGBGB](/stripes/grrbgbgb/) · **Stripes:** [G O R DB G DB G DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G O R DB G DB G DB</span></span>
 
 
 This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -909,20 +912,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Mounth, The](/setts/s9/dg2y13db12w3db10w3db12g13dp2~x2/) — ΔT 0.89
-1. [Quinn (Personal)](/setts/s9/ly1b8k4g1dg4g1k4b8r1~x6/) — ΔT 1.15
+1. [Quinn (Personal)](/setts/s9/r1b8k4g1dg4g1k4b8ly1~x6/) — ΔT 1.15
 1. [Nance (1998)](/setts/s10/db2lo1db6r1db2r2k2g6t1g2~x4/) — ΔT 1.27
 1. [United Services, Planning Association](/setts/s8/db4dg2w2dg4db10r2db12ly3~x2/) — ΔT 1.29
-1. [Nairn (Edinburgh Woollen Mill)](/setts/s11/lo2k10b2k10g10k5b2k5db10g10r2~x2/) — ΔT 1.31
-1. [BlackRock (Symmetrical)](/setts/s8/dg10w4r4k8dg20k6dg3k10~x2/) — ΔT 1.39
+1. [Nairn (Edinburgh Woollen Mill)](/setts/s11/r2g10db10k5b2k5g10k10b2k10lo2~x2/) — ΔT 1.31
+1. [BlackRock (Symmetrical)](/setts/s8/k10dg3k6dg20k8r4w4dg10~x2/) — ΔT 1.39
 1. [Coulthard (Personal)](/setts/s7/r3g9y15db10k2db18w3~x2/) — ΔT 1.40
-1. [Quinn](/setts/s9/ly1n8k4g1g4g1k4n8r1~x6/) — ΔT 1.42
+1. [Quinn](/setts/s9/r1n8k4g1g4g1k4n8ly1~x6/) — ΔT 1.42
 1. [MacLean, Donald Personal Tartan Tartan Number: 3440. Earliest known date: pre 2002 From Pendleton Woolen Mills of Oregon, owners of the only copy of Clans Originaux. EBW 8.11.02. This is the same as MacTaggart #408 and #409!!! See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/g16lb3g3k10db12r2k3~x2/) — ΔT 1.46
 1. [Midlothian](/setts/s6/db31b4db5k19g20lo4~x2/) — ΔT 1.51
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg2y13db12w3db10w3db12g13dp2~x2/"><circle cx="132.3" cy="194.2" r="4" fill="#3465a4"><title>Mounth, The</title></circle></a><a href="/setts/s9/ly1b8k4g1dg4g1k4b8r1~x6/"><circle cx="200.0" cy="190.6" r="4" fill="#3465a4"><title>Quinn (Personal)</title></circle></a><a href="/setts/s10/db2lo1db6r1db2r2k2g6t1g2~x4/"><circle cx="134.3" cy="195.2" r="4" fill="#3465a4"><title>Nance (1998)</title></circle></a><a href="/setts/s8/db4dg2w2dg4db10r2db12ly3~x2/"><circle cx="197.0" cy="194.4" r="4" fill="#3465a4"><title>United Services, Planning Association</title></circle></a><a href="/setts/s11/lo2k10b2k10g10k5b2k5db10g10r2~x2/"><circle cx="140.9" cy="219.9" r="4" fill="#3465a4"><title>Nairn (Edinburgh Woollen Mill)</title></circle></a><a href="/setts/s8/dg10w4r4k8dg20k6dg3k10~x2/"><circle cx="202.8" cy="231.2" r="4" fill="#3465a4"><title>BlackRock (Symmetrical)</title></circle></a><a href="/setts/s7/r3g9y15db10k2db18w3~x2/"><circle cx="186.3" cy="200.9" r="4" fill="#3465a4"><title>Coulthard (Personal)</title></circle></a><a href="/setts/s9/ly1n8k4g1g4g1k4n8r1~x6/"><circle cx="180.4" cy="173.8" r="4" fill="#3465a4"><title>Quinn</title></circle></a><a href="/setts/s7/g16lb3g3k10db12r2k3~x2/"><circle cx="129.6" cy="196.2" r="4" fill="#3465a4"><title>MacLean, Donald Personal Tartan Tartan Number: 3440. Earliest known date: pre 2002 From Pendleton Woolen Mills of Oregon, owners of the only copy of Clans Originaux. EBW 8.11.02. This is the same as MacTaggart #408 and #409!!! See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/db31b4db5k19g20lo4~x2/"><circle cx="190.8" cy="226.6" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><circle cx="154.9" cy="219.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg2y13db12w3db10w3db12g13dp2~x2/"><circle cx="132.5" cy="194.2" r="4" fill="#3465a4"><title>Mounth, The</title></circle></a><a href="/setts/s9/r1b8k4g1dg4g1k4b8ly1~x6/"><circle cx="200.1" cy="190.7" r="4" fill="#3465a4"><title>Quinn (Personal)</title></circle></a><a href="/setts/s10/db2lo1db6r1db2r2k2g6t1g2~x4/"><circle cx="134.5" cy="195.4" r="4" fill="#3465a4"><title>Nance (1998)</title></circle></a><a href="/setts/s8/db4dg2w2dg4db10r2db12ly3~x2/"><circle cx="197.2" cy="194.4" r="4" fill="#3465a4"><title>United Services, Planning Association</title></circle></a><a href="/setts/s11/r2g10db10k5b2k5g10k10b2k10lo2~x2/"><circle cx="141.2" cy="220.0" r="4" fill="#3465a4"><title>Nairn (Edinburgh Woollen Mill)</title></circle></a><a href="/setts/s8/k10dg3k6dg20k8r4w4dg10~x2/"><circle cx="203.0" cy="231.2" r="4" fill="#3465a4"><title>BlackRock (Symmetrical)</title></circle></a><a href="/setts/s7/r3g9y15db10k2db18w3~x2/"><circle cx="186.4" cy="201.0" r="4" fill="#3465a4"><title>Coulthard (Personal)</title></circle></a><a href="/setts/s9/r1n8k4g1g4g1k4n8ly1~x6/"><circle cx="180.5" cy="173.7" r="4" fill="#3465a4"><title>Quinn</title></circle></a><a href="/setts/s7/g16lb3g3k10db12r2k3~x2/"><circle cx="129.8" cy="196.3" r="4" fill="#3465a4"><title>MacLean, Donald Personal Tartan Tartan Number: 3440. Earliest known date: pre 2002 From Pendleton Woolen Mills of Oregon, owners of the only copy of Clans Originaux. EBW 8.11.02. This is the same as MacTaggart #408 and #409!!! See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/db31b4db5k19g20lo4~x2/"><circle cx="191.1" cy="226.6" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><circle cx="155.1" cy="219.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db16g8db8g8db16r3o3g3~x2/

@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/988/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacGregor of Balquidder
+
 ## Variants
 
 Other setts woven to the same stripe pattern.
@@ -49,12 +55,12 @@ The nearest existing variants by ΔTartan distance.
 1. [MacDuck #2](/setts/s6/k4r5k2lo21g8k2~x2/) — ΔT 1.23
 1. [Forget Family (Yonne)](/setts/s6/dg8lo1dg8lo12r1lo1~x4/) — ΔT 1.24
 1. [MacAulay (Clan)](/setts/s6/k2r16g6r3g8w1~x4/) — ΔT 1.26
-1. [Denny, hunting](/setts/s6/db1r16g6k1g6k1~x2/) — ΔT 1.29
+1. [Denny, hunting](/setts/s6/k1g6k1g6r16db1~x2/) — ΔT 1.29
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g9r2g9r14k1w2~x2/"><circle cx="298.3" cy="199.0" r="4" fill="#3465a4"><title>MacGregor of Balquidder (Logan)</title></circle></a><a href="/setts/s7/k2r4w1r10g12r2w2~x4/"><circle cx="265.1" cy="177.3" r="4" fill="#3465a4"><title>Starr (1978) (Name)</title></circle></a><a href="/setts/s6/k2r16g6r3g8w1~x2/"><circle cx="315.5" cy="181.2" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s6/db1r12g6ly1g6db1~x4/"><circle cx="288.5" cy="197.9" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/setts/s8/r3g9w1g9r3g6r18k2~x2/"><circle cx="313.7" cy="177.4" r="4" fill="#3465a4"><title>Cumming #2</title></circle></a><a href="/setts/s6/do4g25lo10g3lo18r4~x2/"><circle cx="222.6" cy="205.3" r="4" fill="#3465a4"><title>Unidentfied (Ligioner Highland Games</title></circle></a><a href="/setts/s6/k4r5k2lo21g8k2~x2/"><circle cx="247.4" cy="181.6" r="4" fill="#3465a4"><title>MacDuck #2</title></circle></a><a href="/setts/s6/dg8lo1dg8lo12r1lo1~x4/"><circle cx="321.8" cy="211.7" r="4" fill="#3465a4"><title>Forget Family (Yonne)</title></circle></a><a href="/setts/s6/k2r16g6r3g8w1~x4/"><circle cx="331.9" cy="187.8" r="4" fill="#3465a4"><title>MacAulay (Clan)</title></circle></a><a href="/setts/s6/db1r16g6k1g6k1~x2/"><circle cx="324.0" cy="169.5" r="4" fill="#3465a4"><title>Denny, hunting</title></circle></a><circle cx="289.6" cy="194.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g9r2g9r14k1w2~x2/"><circle cx="298.1" cy="198.9" r="4" fill="#3465a4"><title>MacGregor of Balquidder (Logan)</title></circle></a><a href="/setts/s7/k2r4w1r10g12r2w2~x4/"><circle cx="264.8" cy="177.1" r="4" fill="#3465a4"><title>Starr (1978) (Name)</title></circle></a><a href="/setts/s6/k2r16g6r3g8w1~x2/"><circle cx="315.2" cy="181.0" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s6/db1r12g6ly1g6db1~x4/"><circle cx="288.3" cy="197.8" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/setts/s8/r3g9w1g9r3g6r18k2~x2/"><circle cx="313.4" cy="177.3" r="4" fill="#3465a4"><title>Cumming #2</title></circle></a><a href="/setts/s6/do4g25lo10g3lo18r4~x2/"><circle cx="222.4" cy="205.2" r="4" fill="#3465a4"><title>Unidentfied (Ligioner Highland Games</title></circle></a><a href="/setts/s6/k4r5k2lo21g8k2~x2/"><circle cx="247.2" cy="181.5" r="4" fill="#3465a4"><title>MacDuck #2</title></circle></a><a href="/setts/s6/dg8lo1dg8lo12r1lo1~x4/"><circle cx="321.5" cy="211.4" r="4" fill="#3465a4"><title>Forget Family (Yonne)</title></circle></a><a href="/setts/s6/k2r16g6r3g8w1~x4/"><circle cx="331.6" cy="187.7" r="4" fill="#3465a4"><title>MacAulay (Clan)</title></circle></a><a href="/setts/s6/k1g6k1g6r16db1~x2/"><circle cx="323.7" cy="169.3" r="4" fill="#3465a4"><title>Denny, hunting</title></circle></a><circle cx="289.3" cy="194.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/g9r2g9r14k1w2~x4/

@@ -8,5 +8,5 @@ A family of [Clan Morris](/clan/morris/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s8/ly4db48ly4db3ly2db3ly3w4/"><img src="/setts/s8/ly4db48ly4db3ly2db3ly3w4/sett.png" alt="Morris of Wales" width="240"><br>Morris of Wales</a>
+<a class="tartan" href="/setts/s8/w4ly3db3ly2db3ly4db48ly4/"><img src="/setts/s8/w4ly3db3ly2db3ly4db48ly4/sett.png" alt="Morris of Wales" width="240"><br>Morris of Wales</a>
 

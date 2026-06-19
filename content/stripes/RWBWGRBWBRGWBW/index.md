@@ -22,6 +22,6 @@ RWBWGRBWBRGWBW
 
 | Tartans |
 |---------------|
-| [Spens/Spence](/setts/s14/r56w2t6w2g32r11t6w5t6r11g32w2t6w2~x2/)|
-|![Spens/Spence example sett](/setts/s14/r56w2t6w2g32r11t6w5t6r11g32w2t6w2~x2/sett.png)|
+| [Spens/Spence](/setts/s14/r56w2t6w2g32r11t6w5~x2/)|
+|![Spens/Spence example sett](/setts/s14/r56w2t6w2g32r11t6w5~x2/sett.png)|
 

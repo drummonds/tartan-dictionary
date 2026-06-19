@@ -21,7 +21,7 @@ BRBR
 Grouped by stripe pattern — the 3 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB R DB R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R DB R</span></span>
+### R DB R DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB</span></span>
 
 | Tartans |
 |---------------|
@@ -30,14 +30,14 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 | [Elliott](/setts/s4/db16r4db3r1~x2/)|
 |![Elliott example sett](/setts/s4/db16r4db3r1~x2/sett.png)|
 
-### DB M DB R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB M DB R</span></span>
+### R DB M DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB M DB</span></span>
 
 | Tartans |
 |---------------|
 | [Elliot](/setts/s4/db16m4db3r1~x2/)|
 |![Elliot example sett](/setts/s4/db16m4db3r1~x2/sett.png)|
 
-### N O T R <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">N O T R</span></span>
+### R T O N <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="seq">R T O N</span></span>
 
 | Tartans |
 |---------------|

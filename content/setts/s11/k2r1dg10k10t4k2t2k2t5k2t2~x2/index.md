@@ -2,7 +2,7 @@
 title: "Bijral"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKBKGRK](/stripes/bkbkbkbkgrk/) · **Stripes:** [T K T K T K T K DG R K](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">T K T K T K T K DG R K</span></span>
+**Bands:** [KRGKBKBKBKB](/stripes/krgkbkbkbkb/) · **Stripes:** [K R DG K T K T K T K T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K R DG K T K T K T K T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2709
 
 ## Thread count
-B/4 K4 B10 K4 B4 K4 B8 K20 G20 R2 K/4
+K/4 R2 G20 K20 B8 K4 B4 K4 B10 K4 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -47,7 +47,7 @@ The nearest existing variants by ΔTartan distance.
 1. [U.S. Border Patrol](/setts/s8/k10b10k15g40k15b10k10ly3~x2/) — ΔT 0.87
 1. [Pinney's of Scotland](/setts/s10/k4g2db10ly1db2g13k11g13db13ly2~x2/) — ΔT 0.88
 1. [Lamont #3](/setts/s13/b23k3b3k3b3k22g22w3g22k22b18k3b3~x2/) — ΔT 0.91
-1. [Gary/Garry (Name)](/setts/s8/dp4g3dp12k6dp3db6g24k4~x2/) — ΔT 0.93
+1. [Gary/Garry (Name)](/setts/s8/k4g24db6dp3k6dp12g3dp4~x2/) — ΔT 0.93
 1. [Graden (Personal)](/setts/s9/db22g4k4g14lb3g4lb3g4k3~x2/) — ΔT 0.97
 1. [Guthrie](/setts/s16/g12k12r1k1r1k12b12r1b12k12r1k1r1k12g12k1~x4/) — ΔT 1.00
 1. [Atholl (District)](/setts/s13/b25k4b4k4b4k26g25r6g25k26b25k2r6~x2/) — ΔT 1.01
@@ -55,8 +55,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/b9k9b9r2k20g13r2g4r2g4~x2/"><circle cx="187.6" cy="204.9" r="4" fill="#3465a4"><title>Newlands of Lauriston</title></circle></a><a href="/setts/s9/k1g12k12r1k1r1k12b12r1~x4/"><circle cx="256.3" cy="186.8" r="4" fill="#3465a4"><title>Guthrie (Name)</title></circle></a><a href="/setts/s8/k10b10k15g40k15b10k10ly3~x2/"><circle cx="228.5" cy="203.9" r="4" fill="#3465a4"><title>U.S. Border Patrol</title></circle></a><a href="/setts/s10/k4g2db10ly1db2g13k11g13db13ly2~x2/"><circle cx="190.8" cy="198.1" r="4" fill="#3465a4"><title>Pinney's of Scotland</title></circle></a><a href="/setts/s13/b23k3b3k3b3k22g22w3g22k22b18k3b3~x2/"><circle cx="166.0" cy="199.5" r="4" fill="#3465a4"><title>Lamont #3</title></circle></a><a href="/setts/s8/dp4g3dp12k6dp3db6g24k4~x2/"><circle cx="213.8" cy="212.6" r="4" fill="#3465a4"><title>Gary/Garry (Name)</title></circle></a><a href="/setts/s9/db22g4k4g14lb3g4lb3g4k3~x2/"><circle cx="217.1" cy="209.0" r="4" fill="#3465a4"><title>Graden (Personal)</title></circle></a><a href="/setts/s16/g12k12r1k1r1k12b12r1b12k12r1k1r1k12g12k1~x4/"><circle cx="239.5" cy="170.0" r="4" fill="#3465a4"><title>Guthrie</title></circle></a><a href="/setts/s13/b25k4b4k4b4k26g25r6g25k26b25k2r6~x2/"><circle cx="174.4" cy="185.1" r="4" fill="#3465a4"><title>Atholl (District)</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x4/"><circle cx="182.7" cy="197.9" r="4" fill="#3465a4"><title>Forbes</title></circle></a><circle cx="209.7" cy="194.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/b9k9b9r2k20g13r2g4r2g4~x2/"><circle cx="187.7" cy="204.9" r="4" fill="#3465a4"><title>Newlands of Lauriston</title></circle></a><a href="/setts/s9/k1g12k12r1k1r1k12b12r1~x4/"><circle cx="256.3" cy="186.7" r="4" fill="#3465a4"><title>Guthrie (Name)</title></circle></a><a href="/setts/s8/k10b10k15g40k15b10k10ly3~x2/"><circle cx="228.6" cy="203.8" r="4" fill="#3465a4"><title>U.S. Border Patrol</title></circle></a><a href="/setts/s10/k4g2db10ly1db2g13k11g13db13ly2~x2/"><circle cx="190.9" cy="198.0" r="4" fill="#3465a4"><title>Pinney's of Scotland</title></circle></a><a href="/setts/s13/b23k3b3k3b3k22g22w3g22k22b18k3b3~x2/"><circle cx="166.1" cy="199.5" r="4" fill="#3465a4"><title>Lamont #3</title></circle></a><a href="/setts/s8/k4g24db6dp3k6dp12g3dp4~x2/"><circle cx="213.9" cy="212.6" r="4" fill="#3465a4"><title>Gary/Garry (Name)</title></circle></a><a href="/setts/s9/db22g4k4g14lb3g4lb3g4k3~x2/"><circle cx="217.2" cy="209.0" r="4" fill="#3465a4"><title>Graden (Personal)</title></circle></a><a href="/setts/s16/g12k12r1k1r1k12b12r1b12k12r1k1r1k12g12k1~x4/"><circle cx="239.5" cy="170.0" r="4" fill="#3465a4"><title>Guthrie</title></circle></a><a href="/setts/s13/b25k4b4k4b4k26g25r6g25k26b25k2r6~x2/"><circle cx="174.4" cy="185.2" r="4" fill="#3465a4"><title>Atholl (District)</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x4/"><circle cx="182.9" cy="198.0" r="4" fill="#3465a4"><title>Forbes</title></circle></a><circle cx="209.7" cy="194.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k2r1dg10k10t4k2t2k2t5k2t2~x2/

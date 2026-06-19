@@ -2,12 +2,18 @@
 title: "Marshall, Fields"
 date: 2023-03-18
 ---
-**Bands:** [GBWBYBGR](/stripes/gbwbybgr/) · **Stripes:** [G DB W DB LY DB G R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">G DB W DB LY DB G R</span></span>
+**Bands:** [RGBYBWBG](/stripes/rgbybwbg/) · **Stripes:** [R G DB LY DB W DB G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G DB LY DB W DB G</span></span>
 
 
 This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Marshall, Fields
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -934,8 +943,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="406.8" cy="156.2" r="4" fill="#3465a4"><title>Sarros (Personal) XX</title></circle></a><a href="/setts/s8/g10lo3w2k2g8k22g43lo4~x2/"><circle cx="383.4" cy="151.3" r="4" fill="#3465a4"><title>Celtic Pride</title></circle></a><a href="/setts/s6/db6w3r3g55k10r3~x4/"><circle cx="411.8" cy="150.4" r="4" fill="#3465a4"><title>Military Medical Memorial (USA)</title></circle></a><a href="/setts/s10/g4lb1db2r1g1r1db2lb1g14lo1~x4/"><circle cx="383.4" cy="139.4" r="4" fill="#3465a4"><title>Seattle (District)</title></circle></a><a href="/setts/s7/g36dg5db17w2g14y3p2~x2/"><circle cx="322.4" cy="150.6" r="4" fill="#3465a4"><title>Mounth, The, (rejected)</title></circle></a><a href="/setts/s9/db17r3g55db3g4db3g4ly3w5~x2/"><circle cx="386.2" cy="128.0" r="4" fill="#3465a4"><title>Bundanoon (District)</title></circle></a><a href="/setts/s7/k3g2k3g18r2db2lo1~x4/"><circle cx="379.6" cy="155.0" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/setts/s13/k3g3ly2g4k2g3k2g24db10ly2db10g30r3~x2/"><circle cx="347.0" cy="136.3" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/setts/s8/g25w1dg2w1g6k2w2dg3~x2/"><circle cx="472.6" cy="144.4" r="4" fill="#3465a4"><title>Marshall University</title></circle></a><a href="/setts/s8/g78db13ly6r3ly5g6db9ly6~x2/"><circle cx="425.1" cy="133.1" r="4" fill="#3465a4"><title>Walterstrm (2014))</title></circle></a><circle cx="390.6" cy="148.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="406.6" cy="156.0" r="4" fill="#3465a4"><title>Sarros (Personal) XX</title></circle></a><a href="/setts/s8/g10lo3w2k2g8k22g43lo4~x2/"><circle cx="383.2" cy="151.2" r="4" fill="#3465a4"><title>Celtic Pride</title></circle></a><a href="/setts/s6/db6w3r3g55k10r3~x4/"><circle cx="411.5" cy="150.2" r="4" fill="#3465a4"><title>Military Medical Memorial (USA)</title></circle></a><a href="/setts/s10/g4lb1db2r1g1r1db2lb1g14lo1~x4/"><circle cx="383.1" cy="139.3" r="4" fill="#3465a4"><title>Seattle (District)</title></circle></a><a href="/setts/s7/g36dg5db17w2g14y3p2~x2/"><circle cx="322.3" cy="150.5" r="4" fill="#3465a4"><title>Mounth, The, (rejected)</title></circle></a><a href="/setts/s9/db17r3g55db3g4db3g4ly3w5~x2/"><circle cx="386.0" cy="127.9" r="4" fill="#3465a4"><title>Bundanoon (District)</title></circle></a><a href="/setts/s7/k3g2k3g18r2db2lo1~x4/"><circle cx="379.4" cy="154.9" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/setts/s13/k3g3ly2g4k2g3k2g24db10ly2db10g30r3~x2/"><circle cx="346.8" cy="136.1" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/setts/s8/g25w1dg2w1g6k2w2dg3~x2/"><circle cx="472.2" cy="144.1" r="4" fill="#3465a4"><title>Marshall University</title></circle></a><a href="/setts/s8/g78db13ly6r3ly5g6db9ly6~x2/"><circle cx="424.7" cy="132.9" r="4" fill="#3465a4"><title>Walterstrm (2014))</title></circle></a><circle cx="390.4" cy="148.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/g40db2w2db2ly2db23g32r2~x2/

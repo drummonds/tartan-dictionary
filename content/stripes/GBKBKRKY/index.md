@@ -21,14 +21,14 @@ GBKBKRKY
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### G DB K DP K R K LO <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">G DB K DP K R K LO</span></span>
+### LO K R K DP K DB G <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO K R K DP K DB G</span></span>
 
 | Tartans |
 |---------------|
 | [Cumnock (District)](/setts/s8/g3db16k3dp2k45r1k2lo3~x2/)|
 |![Cumnock (District) example sett](/setts/s8/g3db16k3dp2k45r1k2lo3~x2/sett.png)|
 
-### G DB K P K R K LO <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">G DB K P K R K LO</span></span>
+### LO K R K P K DB G <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO K R K P K DB G</span></span>
 
 | Tartans |
 |---------------|

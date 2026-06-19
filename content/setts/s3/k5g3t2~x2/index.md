@@ -2,12 +2,18 @@
 title: "Glen Lyon, or Mull (No.53)"
 date: 2023-03-18
 ---
-**Bands:** [BGK](/stripes/bgk/) · **Stripes:** [T G K](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">T G K</span></span>
+**Bands:** [KGB](/stripes/kgb/) · **Stripes:** [K G T](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">K G T</span></span>
 
 
 This was sourced from weddslist.  It is a [3 band tartan](/bands/bands3/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Glen Lyon, or Mull
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -901,7 +910,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/4 G6 K/10
+K/10 G6 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -915,7 +924,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/4 G6 K/10 tartan")
+![Tartan detail](tartan.png "K/10 G6 B/4 tartan")
 
 ## Nearest tartans
 
@@ -923,19 +932,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Glen Lyon](/setts/s3/k6g5r2~x2/) — ΔT 1.07
 1. [Wilson's, No 94](/setts/s3/k5g4r2~x2/) — ΔT 1.16
-1. [Zwijnenberg, Frans (Personal)](/setts/s3/k23g8lo8~x4/) — ΔT 1.57
+1. [Zwijnenberg, Frans (Personal)](/setts/s3/k23g8lo8~x4/) — ΔT 1.56
 1. [Mull](/setts/s3/k5g4t2~x2/) — ΔT 1.57
 1. [Wilson's, No 2/53 or Mull](/setts/s3/k5g4ly1~x2/) — ΔT 1.65
 1. [Unnamed 1](/setts/s5/k5g14k16db12g4~x2/) — ΔT 1.66
 1. [Wilson's, No 118](/setts/s3/k5t4ly1~x2/) — ΔT 1.75
 1. [Wilson's, No 50](/setts/s3/g5k6t1~x4/) — ΔT 1.75
 1. [Zwijnenberg, Frans (Personal)](/setts/s3/k23g8ly8~x4/) — ΔT 1.77
-1. [Sutherland, 42nd](/setts/s6/db1k1db3k3g3k1~x4/) — ΔT 1.89
+1. [Sutherland, 42nd](/setts/s6/k1g3k3db3k1db1~x4/) — ΔT 1.89
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/k6g5r2~x2/"><circle cx="168.3" cy="341.9" r="4" fill="#3465a4"><title>Glen Lyon</title></circle></a><a href="/setts/s3/k5g4r2~x2/"><circle cx="147.7" cy="354.3" r="4" fill="#3465a4"><title>Wilson's, No 94</title></circle></a><a href="/setts/s3/k23g8lo8~x4/"><circle cx="241.4" cy="323.7" r="4" fill="#3465a4"><title>Zwijnenberg, Frans (Personal)</title></circle></a><a href="/setts/s3/k5g4t2~x2/"><circle cx="177.9" cy="366.0" r="4" fill="#3465a4"><title>Mull</title></circle></a><a href="/setts/s3/k5g4ly1~x2/"><circle cx="217.8" cy="309.7" r="4" fill="#3465a4"><title>Wilson's, No 2/53 or Mull</title></circle></a><a href="/setts/s5/k5g14k16db12g4~x2/"><circle cx="156.6" cy="310.9" r="4" fill="#3465a4"><title>Unnamed 1</title></circle></a><a href="/setts/s3/k5t4ly1~x2/"><circle cx="218.3" cy="304.1" r="4" fill="#3465a4"><title>Wilson's, No 118</title></circle></a><a href="/setts/s3/g5k6t1~x4/"><circle cx="238.4" cy="306.0" r="4" fill="#3465a4"><title>Wilson's, No 50</title></circle></a><a href="/setts/s3/k23g8ly8~x4/"><circle cx="241.2" cy="319.3" r="4" fill="#3465a4"><title>Zwijnenberg, Frans (Personal)</title></circle></a><a href="/setts/s6/db1k1db3k3g3k1~x4/"><circle cx="148.3" cy="306.9" r="4" fill="#3465a4"><title>Sutherland, 42nd</title></circle></a><circle cx="164.6" cy="354.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/k6g5r2~x2/"><circle cx="168.7" cy="341.6" r="4" fill="#3465a4"><title>Glen Lyon</title></circle></a><a href="/setts/s3/k5g4r2~x2/"><circle cx="148.0" cy="354.0" r="4" fill="#3465a4"><title>Wilson's, No 94</title></circle></a><a href="/setts/s3/k23g8lo8~x4/"><circle cx="241.6" cy="323.3" r="4" fill="#3465a4"><title>Zwijnenberg, Frans (Personal)</title></circle></a><a href="/setts/s3/k5g4t2~x2/"><circle cx="178.2" cy="366.0" r="4" fill="#3465a4"><title>Mull</title></circle></a><a href="/setts/s3/k5g4ly1~x2/"><circle cx="218.0" cy="309.3" r="4" fill="#3465a4"><title>Wilson's, No 2/53 or Mull</title></circle></a><a href="/setts/s5/k5g14k16db12g4~x2/"><circle cx="157.0" cy="310.8" r="4" fill="#3465a4"><title>Unnamed 1</title></circle></a><a href="/setts/s3/k5t4ly1~x2/"><circle cx="218.6" cy="303.8" r="4" fill="#3465a4"><title>Wilson's, No 118</title></circle></a><a href="/setts/s3/g5k6t1~x4/"><circle cx="238.7" cy="305.7" r="4" fill="#3465a4"><title>Wilson's, No 50</title></circle></a><a href="/setts/s3/k23g8ly8~x4/"><circle cx="241.4" cy="319.0" r="4" fill="#3465a4"><title>Zwijnenberg, Frans (Personal)</title></circle></a><a href="/setts/s6/k1g3k3db3k1db1~x4/"><circle cx="148.7" cy="306.7" r="4" fill="#3465a4"><title>Sutherland, 42nd</title></circle></a><circle cx="165.0" cy="354.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/k5g3t2~x2/

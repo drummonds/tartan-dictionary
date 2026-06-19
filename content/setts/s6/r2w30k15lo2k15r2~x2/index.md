@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3732
 
 ## Thread count
-R/4 K30 DY4 K30 LY60 R/4
+R/4 LY60 K30 DY4 K30 R/4
 ![Sett](sett.png)
 
 ## Palette
@@ -32,15 +32,15 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "R/4 K30 DY4 K30 LY60 R/4 tartan")
+![Tartan detail](tartan.png "R/4 LY60 K30 DY4 K30 R/4 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [MacPherson - 1842 (VS) Dress](/setts/s7/ly1k4w2k11w17m2w1~x4/) — ΔT 0.91
+1. [MacPherson - 1842 (VS) Dress](/setts/s7/w1m2w17k11w2k4ly1~x4/) — ΔT 0.91
 1. [St. Piran Dress](/setts/s8/r4w19dg2w8dg2w8k38w4~x2/) — ΔT 0.93
-1. [MacPherson Dress (1951)](/setts/s7/ly3k9w3k20w30p3w3~x2/) — ΔT 0.97
+1. [MacPherson Dress (1951)](/setts/s7/w3p3w30k20w3k9ly3~x2/) — ΔT 0.97
 1. [Rui (Personal)](/setts/s6/r1lb12k1w2k5r1~x4/) — ΔT 1.04
 1. [Kansai Highland Games](/setts/s5/dp2k1dp16g17w2~x4/) — ΔT 1.09
 1. [MacPherson Dress, Blue (Dance)](/setts/s7/w5r3w26k21w3k8ly3~x2/) — ΔT 1.12
@@ -51,8 +51,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly1k4w2k11w17m2w1~x4/"><circle cx="282.2" cy="140.2" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/setts/s8/r4w19dg2w8dg2w8k38w4~x2/"><circle cx="258.0" cy="131.9" r="4" fill="#3465a4"><title>St. Piran Dress</title></circle></a><a href="/setts/s7/ly3k9w3k20w30p3w3~x2/"><circle cx="247.9" cy="163.8" r="4" fill="#3465a4"><title>MacPherson Dress (1951)</title></circle></a><a href="/setts/s6/r1lb12k1w2k5r1~x4/"><circle cx="261.0" cy="152.4" r="4" fill="#3465a4"><title>Rui (Personal)</title></circle></a><a href="/setts/s5/dp2k1dp16g17w2~x4/"><circle cx="288.5" cy="176.3" r="4" fill="#3465a4"><title>Kansai Highland Games</title></circle></a><a href="/setts/s7/w5r3w26k21w3k8ly3~x2/"><circle cx="228.7" cy="177.9" r="4" fill="#3465a4"><title>MacPherson Dress, Blue (Dance)</title></circle></a><a href="/setts/s7/ly9k32g6w20ly3w9k5~x2/"><circle cx="178.1" cy="173.6" r="4" fill="#3465a4"><title>Black and White Golf</title></circle></a><a href="/setts/s8/ly35db3r4db3r8db30w3db4~x2/"><circle cx="227.6" cy="145.5" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><a href="/setts/s7/k30w2lr4lo10w9k3lr5~x2/"><circle cx="248.3" cy="152.6" r="4" fill="#3465a4"><title>Virginia Commonwealth University</title></circle></a><a href="/setts/s5/k23ly3k23w36r4~x2/"><circle cx="248.0" cy="199.2" r="4" fill="#3465a4"><title>Macleod, Winnifred Mary, Dress</title></circle></a><circle cx="243.1" cy="159.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w1m2w17k11w2k4ly1~x4/"><circle cx="281.9" cy="139.9" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/setts/s8/r4w19dg2w8dg2w8k38w4~x2/"><circle cx="257.8" cy="131.7" r="4" fill="#3465a4"><title>St. Piran Dress</title></circle></a><a href="/setts/s7/w3p3w30k20w3k9ly3~x2/"><circle cx="247.6" cy="163.6" r="4" fill="#3465a4"><title>MacPherson Dress (1951)</title></circle></a><a href="/setts/s6/r1lb12k1w2k5r1~x4/"><circle cx="260.8" cy="152.2" r="4" fill="#3465a4"><title>Rui (Personal)</title></circle></a><a href="/setts/s5/dp2k1dp16g17w2~x4/"><circle cx="288.3" cy="176.1" r="4" fill="#3465a4"><title>Kansai Highland Games</title></circle></a><a href="/setts/s7/w5r3w26k21w3k8ly3~x2/"><circle cx="228.5" cy="177.6" r="4" fill="#3465a4"><title>MacPherson Dress, Blue (Dance)</title></circle></a><a href="/setts/s7/ly9k32g6w20ly3w9k5~x2/"><circle cx="177.9" cy="173.4" r="4" fill="#3465a4"><title>Black and White Golf</title></circle></a><a href="/setts/s8/ly35db3r4db3r8db30w3db4~x2/"><circle cx="227.4" cy="145.3" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><a href="/setts/s7/k30w2lr4lo10w9k3lr5~x2/"><circle cx="248.2" cy="152.4" r="4" fill="#3465a4"><title>Virginia Commonwealth University</title></circle></a><a href="/setts/s5/k23ly3k23w36r4~x2/"><circle cx="247.9" cy="198.9" r="4" fill="#3465a4"><title>Macleod, Winnifred Mary, Dress</title></circle></a><circle cx="242.9" cy="159.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r2w30k15lo2k15r2~x2/

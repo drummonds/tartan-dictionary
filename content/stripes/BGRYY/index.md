@@ -20,7 +20,7 @@ BGRYY
 
 
 
-### B G O LY LO <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">B G O LY LO</span></span>
+### LO LY O G B <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LO LY O G B</span></span>
 
 | Tartans |
 |---------------|

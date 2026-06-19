@@ -2,12 +2,18 @@
 title: "Royal Stewart, (Variant)"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBRWKWKYBGRWR](/stripes/brbrbrwkwkybgrwr/) · **Stripes:** [DB R DB R DB R W K W K LY DB G R W R](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R DB R DB R W K W K LY DB G R W R</span></span>
+**Bands:** [RWRGBYKWKWRBRBRB](/stripes/rwrgbykwkwrbrbrb/) · **Stripes:** [R W R G DB LY K W K W R DB R DB R DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R W R G DB LY K W K W R DB R DB R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Royal Stewart,
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -908,17 +917,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Salaberry-de-Valleyfield (District)](/setts/s14/db20w3db4w3db4w3r22g2k1g2lo16w1k2w1~x2/) — ΔT 0.83
 1. [Aberdeen (Johnston and Smith)](/setts/s21/k1dp4w13dp1k5dp4w1dp4k5w1k3r5y3w1y3r5k13r1w20y3r1~x2/) — ΔT 0.87
 1. [MacBeth Dress (Clan)](/setts/s16/w1r3k1r3g4k1w1k1w1k1db6lo2db4w14db1w1~x4/) — ΔT 0.89
-1. [Hebridean Arisaid Red (Dance)](/setts/s16/r6k4r23lr2w2g12db12k4w37k4db12g12w2lr2r23k4~x2/) — ΔT 0.93
+1. [Hebridean Arisaid Red (Dance)](/setts/s16/w37k4db12g12w2lr2r23k4r6~x2/) — ΔT 0.93
 1. [Cooper, dress](/setts/s18/db2r4o2w28db3w2db3k10r3db2r3g9db1k1db21r4db2o2~x2/) — ΔT 0.93
 1. [Aberdeen Dress (Dance)](/setts/s21/k1dp4w13dp1k5p4w1p4k5w1k3r5o3w1o3r5k13r1w20o3r1~x2/) — ΔT 0.95
 1. [South Africa](/setts/s14/w4k1db24k1r8w2dg8w2db8k1ly2k8ly2k1~x2/) — ΔT 0.95
-1. [Otago](/setts/s18/lo16k2lo6k2r2k2db15g1db1w2db1g1db15k2r2k2lo6k2~x2/) — ΔT 0.97
-1. [Cooper Dress (Dalgleish #2) (Dance)](/setts/s18/db2r4dy2w28db3w2db3k10r3db2r3g9db1k1db21r4db2dy2~x2/) — ΔT 0.98
+1. [Otago](/setts/s18/lo16k2lo6k2r2k2db15g1db1w2~x2/) — ΔT 0.97
+1. [Cooper Dress (Dalgleish #2) (Dance)](/setts/s18/dy2db2r4db21k1db1g9r3db2r3k10db3w2db3w28dy2r4db2~x2/) — ΔT 0.98
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/db81r4db8r8db4r12w16k8w32k16ly6db8dg16r8w4r24/"><circle cx="159.8" cy="66.6" r="4" fill="#3465a4"><title>Royal Stuart/Stewart (Variant)</title></circle></a><a href="/setts/s14/db20w3db4w3db4w3r22g2k1g2lo16w1k2w1~x2/"><circle cx="139.5" cy="63.9" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield (District)</title></circle></a><a href="/setts/s21/k1dp4w13dp1k5dp4w1dp4k5w1k3r5y3w1y3r5k13r1w20y3r1~x2/"><circle cx="120.8" cy="53.6" r="4" fill="#3465a4"><title>Aberdeen (Johnston and Smith)</title></circle></a><a href="/setts/s16/w1r3k1r3g4k1w1k1w1k1db6lo2db4w14db1w1~x4/"><circle cx="128.0" cy="73.0" r="4" fill="#3465a4"><title>MacBeth Dress (Clan)</title></circle></a><a href="/setts/s16/r6k4r23lr2w2g12db12k4w37k4db12g12w2lr2r23k4~x2/"><circle cx="105.8" cy="80.7" r="4" fill="#3465a4"><title>Hebridean Arisaid Red (Dance)</title></circle></a><a href="/setts/s18/db2r4o2w28db3w2db3k10r3db2r3g9db1k1db21r4db2o2~x2/"><circle cx="134.2" cy="40.7" r="4" fill="#3465a4"><title>Cooper, dress</title></circle></a><a href="/setts/s21/k1dp4w13dp1k5p4w1p4k5w1k3r5o3w1o3r5k13r1w20o3r1~x2/"><circle cx="121.1" cy="53.1" r="4" fill="#3465a4"><title>Aberdeen Dress (Dance)</title></circle></a><a href="/setts/s14/w4k1db24k1r8w2dg8w2db8k1ly2k8ly2k1~x2/"><circle cx="191.2" cy="77.3" r="4" fill="#3465a4"><title>South Africa</title></circle></a><a href="/setts/s18/lo16k2lo6k2r2k2db15g1db1w2db1g1db15k2r2k2lo6k2~x2/"><circle cx="178.0" cy="83.4" r="4" fill="#3465a4"><title>Otago</title></circle></a><a href="/setts/s18/db2r4dy2w28db3w2db3k10r3db2r3g9db1k1db21r4db2dy2~x2/"><circle cx="131.0" cy="37.3" r="4" fill="#3465a4"><title>Cooper Dress (Dalgleish #2) (Dance)</title></circle></a><circle cx="154.3" cy="65.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/db81r4db8r8db4r12w16k8w32k16ly6db8dg16r8w4r24/"><circle cx="159.6" cy="66.7" r="4" fill="#3465a4"><title>Royal Stuart/Stewart (Variant)</title></circle></a><a href="/setts/s14/db20w3db4w3db4w3r22g2k1g2lo16w1k2w1~x2/"><circle cx="139.3" cy="64.0" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield (District)</title></circle></a><a href="/setts/s21/k1dp4w13dp1k5dp4w1dp4k5w1k3r5y3w1y3r5k13r1w20y3r1~x2/"><circle cx="120.6" cy="53.7" r="4" fill="#3465a4"><title>Aberdeen (Johnston and Smith)</title></circle></a><a href="/setts/s16/w1r3k1r3g4k1w1k1w1k1db6lo2db4w14db1w1~x4/"><circle cx="127.8" cy="73.1" r="4" fill="#3465a4"><title>MacBeth Dress (Clan)</title></circle></a><a href="/setts/s16/w37k4db12g12w2lr2r23k4r6~x2/"><circle cx="105.7" cy="80.9" r="4" fill="#3465a4"><title>Hebridean Arisaid Red (Dance)</title></circle></a><a href="/setts/s18/db2r4o2w28db3w2db3k10r3db2r3g9db1k1db21r4db2o2~x2/"><circle cx="134.0" cy="40.8" r="4" fill="#3465a4"><title>Cooper, dress</title></circle></a><a href="/setts/s21/k1dp4w13dp1k5p4w1p4k5w1k3r5o3w1o3r5k13r1w20o3r1~x2/"><circle cx="120.9" cy="53.2" r="4" fill="#3465a4"><title>Aberdeen Dress (Dance)</title></circle></a><a href="/setts/s14/w4k1db24k1r8w2dg8w2db8k1ly2k8ly2k1~x2/"><circle cx="191.1" cy="77.4" r="4" fill="#3465a4"><title>South Africa</title></circle></a><a href="/setts/s18/lo16k2lo6k2r2k2db15g1db1w2~x2/"><circle cx="177.9" cy="83.5" r="4" fill="#3465a4"><title>Otago</title></circle></a><a href="/setts/s18/dy2db2r4db21k1db1g9r3db2r3k10db3w2db3w28dy2r4db2~x2/"><circle cx="130.7" cy="37.4" r="4" fill="#3465a4"><title>Cooper Dress (Dalgleish #2) (Dance)</title></circle></a><circle cx="154.1" cy="65.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/db81r4db8r8db4r12w16k8w32k16ly6db8g16r8w4r24/

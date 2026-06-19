@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-R/6 DB50 R6 DB6 R34 LN6 R/12
+R/12 LN6 R34 DB6 R6 DB50 R/6
 ![Sett](sett.png)
 
 ## Palette
@@ -899,7 +902,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "R/6 DB50 R6 DB6 R34 LN6 R/12 tartan")
+![Tartan detail](tartan.png "R/12 LN6 R34 DB6 R6 DB50 R/6 tartan")
 
 ## Nearest tartans
 
@@ -918,8 +921,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db38r6db6r9w5r12db8r16/"><circle cx="292.7" cy="214.2" r="4" fill="#3465a4"><title>Edinburgh Marketing</title></circle></a><a href="/setts/s6/r19k3r19k32g3k8~x2/"><circle cx="311.4" cy="223.4" r="4" fill="#3465a4"><title>Tartan TV</title></circle></a><a href="/setts/s9/k4m4k19m9k9m19k2m2w3~x2/"><circle cx="285.4" cy="196.9" r="4" fill="#3465a4"><title>McLeod-Bain (Personal)</title></circle></a><a href="/setts/s7/r6w3r17dt3r3dt25r3~x2/"><circle cx="310.5" cy="205.4" r="4" fill="#3465a4"><title>Bon Accord</title></circle></a><a href="/setts/s8/b1r1k2r7k7r1k2w1~x6/"><circle cx="265.9" cy="192.5" r="4" fill="#3465a4"><title>Nakayama (Fashion)</title></circle></a><a href="/setts/s9/k4r4k19r9k9r19k2r2w2~x2/"><circle cx="281.9" cy="189.1" r="4" fill="#3465a4"><title>Pink MacLeod (Personal)</title></circle></a><a href="/setts/s6/k4r33k24w3k4r3~x2/"><circle cx="335.6" cy="193.8" r="4" fill="#3465a4"><title>Monmouth College</title></circle></a><a href="/setts/s8/db1r1k2r7k7r1k2w1~x6/"><circle cx="262.5" cy="188.9" r="4" fill="#3465a4"><title>Nakayama (Personal)</title></circle></a><a href="/setts/s8/db6r1db1r2w1r2db1r3~x4/"><circle cx="261.0" cy="220.3" r="4" fill="#3465a4"><title>Edinburgh Marketing</title></circle></a><a href="/setts/s6/k8r1k8r11ly1r1~x4/"><circle cx="336.6" cy="214.9" r="4" fill="#3465a4"><title>Swanstrom (Personal)</title></circle></a><circle cx="296.1" cy="201.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db38r6db6r9w5r12db8r16/"><circle cx="292.6" cy="213.9" r="4" fill="#3465a4"><title>Edinburgh Marketing</title></circle></a><a href="/setts/s6/r19k3r19k32g3k8~x2/"><circle cx="311.4" cy="223.1" r="4" fill="#3465a4"><title>Tartan TV</title></circle></a><a href="/setts/s9/k4m4k19m9k9m19k2m2w3~x2/"><circle cx="285.2" cy="196.7" r="4" fill="#3465a4"><title>McLeod-Bain (Personal)</title></circle></a><a href="/setts/s7/r6w3r17dt3r3dt25r3~x2/"><circle cx="310.3" cy="205.2" r="4" fill="#3465a4"><title>Bon Accord</title></circle></a><a href="/setts/s8/b1r1k2r7k7r1k2w1~x6/"><circle cx="265.8" cy="192.3" r="4" fill="#3465a4"><title>Nakayama (Fashion)</title></circle></a><a href="/setts/s9/k4r4k19r9k9r19k2r2w2~x2/"><circle cx="281.7" cy="188.9" r="4" fill="#3465a4"><title>Pink MacLeod (Personal)</title></circle></a><a href="/setts/s6/k4r33k24w3k4r3~x2/"><circle cx="335.4" cy="193.5" r="4" fill="#3465a4"><title>Monmouth College</title></circle></a><a href="/setts/s8/db1r1k2r7k7r1k2w1~x6/"><circle cx="262.3" cy="188.8" r="4" fill="#3465a4"><title>Nakayama (Personal)</title></circle></a><a href="/setts/s8/db6r1db1r2w1r2db1r3~x4/"><circle cx="260.9" cy="220.1" r="4" fill="#3465a4"><title>Edinburgh Marketing</title></circle></a><a href="/setts/s6/k8r1k8r11ly1r1~x4/"><circle cx="336.5" cy="214.7" r="4" fill="#3465a4"><title>Swanstrom (Personal)</title></circle></a><circle cx="296.0" cy="201.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r6w3r17k3r3k25r3~x2/

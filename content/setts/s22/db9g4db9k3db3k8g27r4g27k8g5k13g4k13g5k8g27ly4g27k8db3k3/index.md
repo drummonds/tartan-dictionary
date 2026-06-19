@@ -2,12 +2,19 @@
 title: "Stewart hunting"
 date: 2023-03-18
 ---
-**Bands:** [BGBKBKGRGKGKGKGKGYGKBK](/stripes/bgbkbkgrgkgkgkgkgygkbk/) · **Stripes:** [DB G DB K DB K G R G K G K G K G K G LY G K DB K](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">DB G DB K DB K G R G K G K G K G K G LY G K DB K</span></span>
+**Bands:** [KBKGYGKGKGKGKGRGKBKBGB](/stripes/kbkgygkgkgkgkgrgkbkbgb/) · **Stripes:** [K DB K G LY G K G K G K G K G R G K DB K DB G DB](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K G LY G K G K G K G K G R G K DB K DB G DB</span></span>
 
 
 This was sourced from weddslist.  It is a [22 band tartan](/bands/bands22/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Stewart hunting
+- Stuart/Stewart Hunting #2
 
 ## Attestations
 
@@ -318,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,19 +922,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Campbell, Marquis of Lorne](/setts/s18/k6g4k22g3k3g32r3g3w3g3ly3g32k3g3k22g4k6p6/) — ΔT 1.40
 1. [Stewart Hunting Early](/setts/s23/dg2db4k1db1k3dg12r2dg12k3dg2k6dg2k6dg2k3dg12ly2dg12k4db1k1db3dg2/) — ΔT 1.44
-1. [Lorne, Marquis of](/setts/s18/db3k3g2k14g2k2g20r2g2w2g2ly2g20k2g2k14g2k3~x2/) — ΔT 1.46
+1. [Lorne, Marquis of](/setts/s18/k3g2k14g2k2g20ly2g2w2g2r2g20k2g2k14g2k3db3~x2/) — ΔT 1.46
 1. [Myron](/setts/s17/k3g3m2g3ly2g2ly2g11db3k3db3k3db3k3db3g20r3~x2/) — ΔT 1.48
-1. [Stewart Hunting D](/setts/s27/dg2db3k1db1k1db1k4dg12ly2dg12k3dg2k6dg2k6dg2k3dg12r2dg12k4db1k1db1k1db3dg2/) — ΔT 1.58
+1. [Stewart Hunting D](/setts/s27/dg2db3k1db1k1db1k4dg12r2dg12k3dg2k6dg2k6dg2k3dg12ly2dg12k4db1k1db1k1db3dg2/) — ΔT 1.58
 1. [Ross, hunting](/setts/s14/g4t6g3t2g3t2g3k5g3k5g20r3g4r3~x2/) — ΔT 1.59
 1. [O'Connor, Old](/setts/s16/g5k24g12k16g26w4g24w4g26k16k4k4k4k4k28g3/) — ΔT 1.63
-1. [Stewart Hunting Early](/setts/s23/dg4db9k3db3k8dg27ly8dg27k8dg5k13dg8k13dg5k8dg27r8dg27k8db3k3db9dg4/) — ΔT 1.65
+1. [Stewart Hunting Early](/setts/s23/dg4db9k3db3k8dg27r8dg27k8dg5k13dg8k13dg5k8dg27ly8dg27k8db3k3db9dg4/) — ΔT 1.65
 1. [Greenshields (Personal)](/setts/s24/g20ly4g18k16r3k10g4ly26g20ly4g20k4g20ly4g20ly26g4k10r3k16g18ly4g20k4/) — ΔT 1.70
 1. [Stewart hunting](/setts/s16/k3g10ly2g10k9g2k9g10r2g10k3g2k5g2k5g2~x2/) — ΔT 1.71
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/k6g4k22g3k3g32r3g3w3g3ly3g32k3g3k22g4k6p6/"><circle cx="221.4" cy="110.4" r="4" fill="#3465a4"><title>Campbell, Marquis of Lorne</title></circle></a><a href="/setts/s23/dg2db4k1db1k3dg12r2dg12k3dg2k6dg2k6dg2k3dg12ly2dg12k4db1k1db3dg2/"><circle cx="284.3" cy="147.7" r="4" fill="#3465a4"><title>Stewart Hunting Early</title></circle></a><a href="/setts/s18/db3k3g2k14g2k2g20r2g2w2g2ly2g20k2g2k14g2k3~x2/"><circle cx="213.3" cy="105.6" r="4" fill="#3465a4"><title>Lorne, Marquis of</title></circle></a><a href="/setts/s17/k3g3m2g3ly2g2ly2g11db3k3db3k3db3k3db3g20r3~x2/"><circle cx="204.4" cy="117.8" r="4" fill="#3465a4"><title>Myron</title></circle></a><a href="/setts/s27/dg2db3k1db1k1db1k4dg12ly2dg12k3dg2k6dg2k6dg2k3dg12r2dg12k4db1k1db1k1db3dg2/"><circle cx="274.0" cy="134.1" r="4" fill="#3465a4"><title>Stewart Hunting D</title></circle></a><a href="/setts/s14/g4t6g3t2g3t2g3k5g3k5g20r3g4r3~x2/"><circle cx="284.4" cy="168.9" r="4" fill="#3465a4"><title>Ross, hunting</title></circle></a><a href="/setts/s16/g5k24g12k16g26w4g24w4g26k16k4k4k4k4k28g3/"><circle cx="184.3" cy="179.4" r="4" fill="#3465a4"><title>O'Connor, Old</title></circle></a><a href="/setts/s23/dg4db9k3db3k8dg27ly8dg27k8dg5k13dg8k13dg5k8dg27r8dg27k8db3k3db9dg4/"><circle cx="249.4" cy="166.5" r="4" fill="#3465a4"><title>Stewart Hunting Early</title></circle></a><a href="/setts/s24/g20ly4g18k16r3k10g4ly26g20ly4g20k4g20ly4g20ly26g4k10r3k16g18ly4g20k4/"><circle cx="216.4" cy="171.3" r="4" fill="#3465a4"><title>Greenshields (Personal)</title></circle></a><a href="/setts/s16/k3g10ly2g10k9g2k9g10r2g10k3g2k5g2k5g2~x2/"><circle cx="222.0" cy="214.4" r="4" fill="#3465a4"><title>Stewart hunting</title></circle></a><circle cx="224.9" cy="146.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/k6g4k22g3k3g32r3g3w3g3ly3g32k3g3k22g4k6p6/"><circle cx="221.4" cy="110.3" r="4" fill="#3465a4"><title>Campbell, Marquis of Lorne</title></circle></a><a href="/setts/s23/dg2db4k1db1k3dg12r2dg12k3dg2k6dg2k6dg2k3dg12ly2dg12k4db1k1db3dg2/"><circle cx="284.3" cy="147.7" r="4" fill="#3465a4"><title>Stewart Hunting Early</title></circle></a><a href="/setts/s18/k3g2k14g2k2g20ly2g2w2g2r2g20k2g2k14g2k3db3~x2/"><circle cx="213.2" cy="105.5" r="4" fill="#3465a4"><title>Lorne, Marquis of</title></circle></a><a href="/setts/s17/k3g3m2g3ly2g2ly2g11db3k3db3k3db3k3db3g20r3~x2/"><circle cx="204.3" cy="117.8" r="4" fill="#3465a4"><title>Myron</title></circle></a><a href="/setts/s27/dg2db3k1db1k1db1k4dg12r2dg12k3dg2k6dg2k6dg2k3dg12ly2dg12k4db1k1db1k1db3dg2/"><circle cx="274.1" cy="134.1" r="4" fill="#3465a4"><title>Stewart Hunting D</title></circle></a><a href="/setts/s14/g4t6g3t2g3t2g3k5g3k5g20r3g4r3~x2/"><circle cx="284.2" cy="168.8" r="4" fill="#3465a4"><title>Ross, hunting</title></circle></a><a href="/setts/s16/g5k24g12k16g26w4g24w4g26k16k4k4k4k4k28g3/"><circle cx="184.4" cy="179.3" r="4" fill="#3465a4"><title>O'Connor, Old</title></circle></a><a href="/setts/s23/dg4db9k3db3k8dg27r8dg27k8dg5k13dg8k13dg5k8dg27ly8dg27k8db3k3db9dg4/"><circle cx="249.4" cy="166.5" r="4" fill="#3465a4"><title>Stewart Hunting Early</title></circle></a><a href="/setts/s24/g20ly4g18k16r3k10g4ly26g20ly4g20k4g20ly4g20ly26g4k10r3k16g18ly4g20k4/"><circle cx="216.2" cy="171.2" r="4" fill="#3465a4"><title>Greenshields (Personal)</title></circle></a><a href="/setts/s16/k3g10ly2g10k9g2k9g10r2g10k3g2k5g2k5g2~x2/"><circle cx="222.1" cy="214.2" r="4" fill="#3465a4"><title>Stewart hunting</title></circle></a><circle cx="224.8" cy="145.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s22/db9g4db9k3db3k8g27r4g27k8g5k13g4k13g5k8g27ly4g27k8db3k3/

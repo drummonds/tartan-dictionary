@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,13 +915,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Wilson's, No 128](/setts/s11/t4r3ly2r9t3g24t3r9k3r3w2~x2/) — ΔT 1.10
 1. [Barbour Dress](/setts/s7/o4do2o21db11w2o20r3~x2/) — ΔT 1.12
 1. [Brousseau (Personal)](/setts/s9/ly25o2w2db2w2o13dy28db2o3~x2/) — ΔT 1.14
-1. [Asman, Day Tan (Name)](/setts/s11/lo2lo1lo9r3lb1k3lb1lo3y9k1y2~x4/) — ΔT 1.14
-1. [Goddin mab Gododdin (Personal)](/setts/s8/lo4dp2lo21g3dy26dt24lo3r4~x2/) — ΔT 1.16
+1. [Asman, Day Tan (Name)](/setts/s11/y2k1y9lo3lb1k3lb1r3lo9lo1lo2~x4/) — ΔT 1.14
+1. [State Seal of Florida (Fashion)](/setts/s10/r3lo21r14lb3db11g36do3db3do4lo3~x2/) — ΔT 1.16
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/t3y1k1r12r1dg9r1y1t3~x2/"><circle cx="187.5" cy="131.6" r="4" fill="#3465a4"><title>Murray of Abercairney (Personal)</title></circle></a><a href="/setts/s9/db3t1k1r12r1g9r1t1db3~x4/"><circle cx="196.9" cy="131.0" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/setts/s11/w1t3db2r18r2g16r2r2r2t3w1~x2/"><circle cx="209.0" cy="102.7" r="4" fill="#3465a4"><title>Moray of Abercairny</title></circle></a><a href="/setts/s8/lb5o49lb3dg24r5lo4dy30lb4~x2/"><circle cx="197.2" cy="135.6" r="4" fill="#3465a4"><title>State Seal of New Mexico (Fashion)</title></circle></a><a href="/setts/s9/t4dy27lo8k4lo8k4lo8r11ly3~x2/"><circle cx="152.6" cy="169.6" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><a href="/setts/s11/t4r3ly2r9t3g24t3r9k3r3w2~x2/"><circle cx="166.7" cy="118.7" r="4" fill="#3465a4"><title>Wilson's, No 128</title></circle></a><a href="/setts/s7/o4do2o21db11w2o20r3~x2/"><circle cx="190.0" cy="167.3" r="4" fill="#3465a4"><title>Barbour Dress</title></circle></a><a href="/setts/s9/ly25o2w2db2w2o13dy28db2o3~x2/"><circle cx="225.8" cy="144.4" r="4" fill="#3465a4"><title>Brousseau (Personal)</title></circle></a><a href="/setts/s11/lo2lo1lo9r3lb1k3lb1lo3y9k1y2~x4/"><circle cx="179.1" cy="156.3" r="4" fill="#3465a4"><title>Asman, Day Tan (Name)</title></circle></a><a href="/setts/s8/lo4dp2lo21g3dy26dt24lo3r4~x2/"><circle cx="175.5" cy="159.8" r="4" fill="#3465a4"><title>Goddin mab Gododdin (Personal)</title></circle></a><circle cx="184.0" cy="132.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/t3y1k1r12r1dg9r1y1t3~x2/"><circle cx="187.3" cy="131.7" r="4" fill="#3465a4"><title>Murray of Abercairney (Personal)</title></circle></a><a href="/setts/s9/db3t1k1r12r1g9r1t1db3~x4/"><circle cx="196.7" cy="131.1" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/setts/s11/w1t3db2r18r2g16r2r2r2t3w1~x2/"><circle cx="208.8" cy="102.8" r="4" fill="#3465a4"><title>Moray of Abercairny</title></circle></a><a href="/setts/s8/lb5o49lb3dg24r5lo4dy30lb4~x2/"><circle cx="197.1" cy="135.7" r="4" fill="#3465a4"><title>State Seal of New Mexico (Fashion)</title></circle></a><a href="/setts/s9/t4dy27lo8k4lo8k4lo8r11ly3~x2/"><circle cx="152.5" cy="169.8" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><a href="/setts/s11/t4r3ly2r9t3g24t3r9k3r3w2~x2/"><circle cx="166.4" cy="118.8" r="4" fill="#3465a4"><title>Wilson's, No 128</title></circle></a><a href="/setts/s7/o4do2o21db11w2o20r3~x2/"><circle cx="189.8" cy="167.4" r="4" fill="#3465a4"><title>Barbour Dress</title></circle></a><a href="/setts/s9/ly25o2w2db2w2o13dy28db2o3~x2/"><circle cx="225.5" cy="144.5" r="4" fill="#3465a4"><title>Brousseau (Personal)</title></circle></a><a href="/setts/s11/y2k1y9lo3lb1k3lb1r3lo9lo1lo2~x4/"><circle cx="178.9" cy="156.4" r="4" fill="#3465a4"><title>Asman, Day Tan (Name)</title></circle></a><a href="/setts/s10/r3lo21r14lb3db11g36do3db3do4lo3~x2/"><circle cx="164.8" cy="142.4" r="4" fill="#3465a4"><title>State Seal of Florida (Fashion)</title></circle></a><circle cx="183.8" cy="132.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/t3y1k1r12r1g9r1y1t3~x2/

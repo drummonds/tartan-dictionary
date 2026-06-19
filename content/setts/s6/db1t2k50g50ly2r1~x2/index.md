@@ -2,7 +2,7 @@
 title: "Josse (Bro Sant Malo), Gilbert (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BBKGYR](/stripes/bbkgyr/) · **Stripes:** [DB T K G LY R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB T K G LY R</span></span>
+**Bands:** [RYGKBB](/stripes/rygkbb/) · **Stripes:** [R LY G K T DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">R LY G K T DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10427](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10427)
 
 ## Thread count
-B/2 N4 K100 G100 Y4 R/2
+R/2 Y4 G100 K100 N4 B/2
 ![Sett](sett.png)
 
 ## Palette
@@ -33,7 +33,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/2 N4 K100 G100 Y4 R/2 tartan")
+![Tartan detail](tartan.png "R/2 Y4 G100 K100 N4 B/2 tartan")
 
 ## Nearest tartans
 
@@ -52,8 +52,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db1lb2k50dg50lo2r1~x2/"><circle cx="368.4" cy="122.3" r="4" fill="#3465a4"><title>Josse (Personal)</title></circle></a><a href="/setts/s7/g8dg60w1k33g9ly4g4~x2/"><circle cx="322.5" cy="124.0" r="4" fill="#3465a4"><title>Duffy</title></circle></a><a href="/setts/s6/g55k17r9k11ly2db4~x2/"><circle cx="345.5" cy="155.9" r="4" fill="#3465a4"><title>Moran Family Tartan Tartan Number: 675. Earliest known date: 1986 The designers requested that the threadcount be Restricted. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/k54o11g13lo1b13w1~x2/"><circle cx="342.8" cy="110.4" r="4" fill="#3465a4"><title>Kilmaine Saints (Corporate)</title></circle></a><a href="/setts/s5/do8g19dg42lo3o1~x2/"><circle cx="378.4" cy="157.1" r="4" fill="#3465a4"><title>Nolan Family, John J (Personal)</title></circle></a><a href="/setts/s7/db50dg25lo3o8r1w1r1~x2/"><circle cx="371.9" cy="103.9" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><a href="/setts/s10/k28r3ly2r3k13g28w1g3w1g16~x2/"><circle cx="303.7" cy="136.8" r="4" fill="#3465a4"><title>Bomb Disposal</title></circle></a><a href="/setts/s8/db31ly4g68w4db31r2k6r2~x2/"><circle cx="295.2" cy="114.8" r="4" fill="#3465a4"><title>Inkster (Name)</title></circle></a><a href="/setts/s8/g92ly3k28n18r12db18w2g12/"><circle cx="321.6" cy="94.2" r="4" fill="#3465a4"><title>Mull Millennium</title></circle></a><a href="/setts/s8/db9g5w1g15k2g1k44r1~x2/"><circle cx="402.5" cy="120.2" r="4" fill="#3465a4"><title>Ataç, H.M. &amp; I.C. (Personal)</title></circle></a><circle cx="347.8" cy="113.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db1lb2k50dg50lo2r1~x2/"><circle cx="368.3" cy="122.4" r="4" fill="#3465a4"><title>Josse (Personal)</title></circle></a><a href="/setts/s7/g8dg60w1k33g9ly4g4~x2/"><circle cx="322.5" cy="123.9" r="4" fill="#3465a4"><title>Duffy</title></circle></a><a href="/setts/s6/g55k17r9k11ly2db4~x2/"><circle cx="345.4" cy="155.8" r="4" fill="#3465a4"><title>Moran Family Tartan Tartan Number: 675. Earliest known date: 1986 The designers requested that the threadcount be Restricted. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/k54o11g13lo1b13w1~x2/"><circle cx="342.8" cy="110.4" r="4" fill="#3465a4"><title>Kilmaine Saints (Corporate)</title></circle></a><a href="/setts/s5/do8g19dg42lo3o1~x2/"><circle cx="378.3" cy="157.0" r="4" fill="#3465a4"><title>Nolan Family, John J (Personal)</title></circle></a><a href="/setts/s7/db50dg25lo3o8r1w1r1~x2/"><circle cx="371.8" cy="103.9" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><a href="/setts/s10/k28r3ly2r3k13g28w1g3w1g16~x2/"><circle cx="303.6" cy="136.8" r="4" fill="#3465a4"><title>Bomb Disposal</title></circle></a><a href="/setts/s8/db31ly4g68w4db31r2k6r2~x2/"><circle cx="295.2" cy="114.8" r="4" fill="#3465a4"><title>Inkster (Name)</title></circle></a><a href="/setts/s8/g92ly3k28n18r12db18w2g12/"><circle cx="321.4" cy="94.2" r="4" fill="#3465a4"><title>Mull Millennium</title></circle></a><a href="/setts/s8/db9g5w1g15k2g1k44r1~x2/"><circle cx="402.4" cy="120.1" r="4" fill="#3465a4"><title>Ataç, H.M. &amp; I.C. (Personal)</title></circle></a><circle cx="347.7" cy="113.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db1t2k50g50ly2r1~x2/

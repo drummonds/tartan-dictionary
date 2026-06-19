@@ -2,7 +2,7 @@
 title: "Royal Canadian Mounted Police"
 date: 2023-03-18
 ---
-**Bands:** [BBKWGRKRY](/stripes/bbkwgrkry/) · **Stripes:** [DB B K W G R K R LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB B K W G R K R LY</span></span>
+**Bands:** [YRKRGWKBB](/stripes/yrkrgwkbb/) · **Stripes:** [LY R K R G W K B DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="seq">LY R K R G W K B DB</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,12 +909,12 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Sedge, Douglas (Personal)](/setts/s12/lo2g3k2r1k9dt3lt1dt42r1dt2g3w2~x2/) — ΔT 1.70
+1. [Sedge, Douglas (Personal)](/setts/s12/w2g3dt2r1dt42lt1dt3k9r1k2g3lo2~x2/) — ΔT 1.70
 1. [Hier Family, Kilcreggan (Personal)](/setts/s8/db45w2t23db10dg2r1m5w1~x2/) — ΔT 1.89
 1. [Yorston (2014)](/setts/s10/db109t12r4w4db5ly4g5k4r4t18/) — ΔT 1.94
-1. [Way of the Rainbow](/setts/s8/dp1db1g1ly1lo1r1db24k1~x7/) — ΔT 2.00
+1. [Way of the Rainbow](/setts/s8/k1db24r1lo1ly1g1db1dp1~x7/) — ΔT 2.00
 1. [Australian National](/setts/s14/db52g15w1g2w1g2ly2g2k2db3w2db2r2db5~x2/) — ΔT 2.03
-1. [Cumnock](/setts/s8/g3db16k3p2k45r1k2lo3~x2/) — ΔT 2.08
+1. [Cumnock](/setts/s8/g3db16k3p2k45r1k2lo3~x2/) — ΔT 2.07
 1. [Way of the Rainbow](/setts/s8/k1db24r1ly1ly1g1db1lp1~x7/) — ΔT 2.16
 1. [Mohammed, Abu Hassan (Personal)](/setts/s9/db60w1db6g10r1g7k2lo2w2~x2/) — ΔT 2.17
 1. [Yorston (2014)](/setts/s10/db109lb12r4w4db5ly4g5k4r4lb18/) — ΔT 2.24
@@ -919,8 +922,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/lo2g3k2r1k9dt3lt1dt42r1dt2g3w2~x2/"><circle cx="411.8" cy="54.1" r="4" fill="#3465a4"><title>Sedge, Douglas (Personal)</title></circle></a><a href="/setts/s8/db45w2t23db10dg2r1m5w1~x2/"><circle cx="363.4" cy="76.7" r="4" fill="#3465a4"><title>Hier Family, Kilcreggan (Personal)</title></circle></a><a href="/setts/s10/db109t12r4w4db5ly4g5k4r4t18/"><circle cx="385.2" cy="59.4" r="4" fill="#3465a4"><title>Yorston (2014)</title></circle></a><a href="/setts/s8/dp1db1g1ly1lo1r1db24k1~x7/"><circle cx="460.7" cy="72.7" r="4" fill="#3465a4"><title>Way of the Rainbow</title></circle></a><a href="/setts/s14/db52g15w1g2w1g2ly2g2k2db3w2db2r2db5~x2/"><circle cx="352.6" cy="27.3" r="4" fill="#3465a4"><title>Australian National</title></circle></a><a href="/setts/s8/g3db16k3p2k45r1k2lo3~x2/"><circle cx="415.8" cy="86.5" r="4" fill="#3465a4"><title>Cumnock</title></circle></a><a href="/setts/s8/k1db24r1ly1ly1g1db1lp1~x7/"><circle cx="464.9" cy="66.1" r="4" fill="#3465a4"><title>Way of the Rainbow</title></circle></a><a href="/setts/s9/db60w1db6g10r1g7k2lo2w2~x2/"><circle cx="488.5" cy="77.5" r="4" fill="#3465a4"><title>Mohammed, Abu Hassan (Personal)</title></circle></a><a href="/setts/s10/db109lb12r4w4db5ly4g5k4r4lb18/"><circle cx="372.7" cy="51.3" r="4" fill="#3465a4"><title>Yorston (2014)</title></circle></a><a href="/setts/s11/db60w3dp8ly2k2w2k2g14db4dy10w2~x2/"><circle cx="320.7" cy="59.8" r="4" fill="#3465a4"><title>O'Shaughnessy (Estimated threadcount)</title></circle></a><circle cx="407.2" cy="49.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w2g3dt2r1dt42lt1dt3k9r1k2g3lo2~x2/"><circle cx="411.6" cy="54.1" r="4" fill="#3465a4"><title>Sedge, Douglas (Personal)</title></circle></a><a href="/setts/s8/db45w2t23db10dg2r1m5w1~x2/"><circle cx="363.3" cy="76.7" r="4" fill="#3465a4"><title>Hier Family, Kilcreggan (Personal)</title></circle></a><a href="/setts/s10/db109t12r4w4db5ly4g5k4r4t18/"><circle cx="385.0" cy="59.3" r="4" fill="#3465a4"><title>Yorston (2014)</title></circle></a><a href="/setts/s8/k1db24r1lo1ly1g1db1dp1~x7/"><circle cx="460.7" cy="72.6" r="4" fill="#3465a4"><title>Way of the Rainbow</title></circle></a><a href="/setts/s14/db52g15w1g2w1g2ly2g2k2db3w2db2r2db5~x2/"><circle cx="352.5" cy="27.4" r="4" fill="#3465a4"><title>Australian National</title></circle></a><a href="/setts/s8/g3db16k3p2k45r1k2lo3~x2/"><circle cx="415.7" cy="86.4" r="4" fill="#3465a4"><title>Cumnock</title></circle></a><a href="/setts/s8/k1db24r1ly1ly1g1db1lp1~x7/"><circle cx="464.7" cy="66.0" r="4" fill="#3465a4"><title>Way of the Rainbow</title></circle></a><a href="/setts/s9/db60w1db6g10r1g7k2lo2w2~x2/"><circle cx="488.3" cy="77.3" r="4" fill="#3465a4"><title>Mohammed, Abu Hassan (Personal)</title></circle></a><a href="/setts/s10/db109lb12r4w4db5ly4g5k4r4lb18/"><circle cx="372.5" cy="51.2" r="4" fill="#3465a4"><title>Yorston (2014)</title></circle></a><a href="/setts/s11/db60w3dp8ly2k2w2k2g14db4dy10w2~x2/"><circle cx="320.6" cy="59.8" r="4" fill="#3465a4"><title>O'Shaughnessy (Estimated threadcount)</title></circle></a><circle cx="407.2" cy="49.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/db152b2k4w2g28r10k26r1ly2/

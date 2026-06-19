@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 R12 B12 K30 Y4 K4 LN12 K4 G44 Ra/48
+Ra/48 G44 K4 LN12 K4 Y4 K30 B12 R12 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -912,21 +915,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Cree (Fashion)](/setts/s13/ly3dy20db2k6ly3k2w3k2g6r6k3r3w3~x2/) — ΔT 0.81
+1. [Cree (Fashion)](/setts/s13/w3r3k3r6g6k2w3k2ly3k6db2dy20ly3~x2/) — ΔT 0.81
 1. [Bruce of Kinnaird](/setts/s10/r24g22k2w6k2ly2k15y6r6w2~x2/) — ΔT 0.85
-1. [Wilson's, No 110](/setts/s9/ly3k2t3r14g19k3w3p10t3~x2/) — ΔT 0.91
-1. [Cree Clan Tartan Tartan Number: 1856. Earliest known date: 1981 A branch of the Stewart clan from Galloway and the South West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/ly3do22db2k7ly3k2w3k2g7r5k3r3w3~x2/) — ΔT 0.98
-1. [Cree](/setts/s13/ly3dr22db2k7ly3k2w3k2g7r5k3r3w3~x2/) — ΔT 1.04
+1. [Wilson's, No 110](/setts/s9/t3p10w3k3g19r14t3k2ly3~x2/) — ΔT 0.91
+1. [Cree Clan Tartan Tartan Number: 1856. Earliest known date: 1981 A branch of the Stewart clan from Galloway and the South West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/w3r3k3r5g7k2w3k2ly3k7db2do22ly3~x2/) — ΔT 0.98
+1. [Cree](/setts/s13/w3r3k3r5g7k2w3k2ly3k7db2dr22ly3~x2/) — ΔT 1.04
 1. [MacLean](/setts/s11/db8k8ly2k3w3k3g24r16db3r4k2~x2/) — ΔT 1.16
 1. [Campbell, hunting](/setts/s10/db4k1w2k3ly1y12o1k12o12r4~x2/) — ΔT 1.19
-1. [Campbell Hunting](/setts/s10/b4k1w2k3ly1o12dy1k12dy12r4~x2/) — ΔT 1.20
+1. [Campbell Hunting](/setts/s10/r4dy12k12dy1o12ly1k3w2k1b4~x2/) — ΔT 1.20
 1. [Royal Stewart](/setts/s12/r20t14k17ly2k3w3k3g24r14k4r4w2~x2/) — ΔT 1.21
 1. [Dundee](/setts/s14/r30r2k6r2g17ly7w2k2w2ly4t7w2k6w6~x2/) — ΔT 1.22
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/ly3dy20db2k6ly3k2w3k2g6r6k3r3w3~x2/"><circle cx="66.7" cy="98.0" r="4" fill="#3465a4"><title>Cree (Fashion)</title></circle></a><a href="/setts/s10/r24g22k2w6k2ly2k15y6r6w2~x2/"><circle cx="65.2" cy="102.6" r="4" fill="#3465a4"><title>Bruce of Kinnaird</title></circle></a><a href="/setts/s9/ly3k2t3r14g19k3w3p10t3~x2/"><circle cx="66.6" cy="123.1" r="4" fill="#3465a4"><title>Wilson's, No 110</title></circle></a><a href="/setts/s13/ly3do22db2k7ly3k2w3k2g7r5k3r3w3~x2/"><circle cx="86.1" cy="94.7" r="4" fill="#3465a4"><title>Cree Clan Tartan Tartan Number: 1856. Earliest known date: 1981 A branch of the Stewart clan from Galloway and the South West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/ly3dr22db2k7ly3k2w3k2g7r5k3r3w3~x2/"><circle cx="74.7" cy="90.1" r="4" fill="#3465a4"><title>Cree</title></circle></a><a href="/setts/s11/db8k8ly2k3w3k3g24r16db3r4k2~x2/"><circle cx="99.4" cy="118.6" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s10/db4k1w2k3ly1y12o1k12o12r4~x2/"><circle cx="76.8" cy="115.7" r="4" fill="#3465a4"><title>Campbell, hunting</title></circle></a><a href="/setts/s10/b4k1w2k3ly1o12dy1k12dy12r4~x2/"><circle cx="89.2" cy="122.0" r="4" fill="#3465a4"><title>Campbell Hunting</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3g24r14k4r4w2~x2/"><circle cx="100.5" cy="119.9" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/setts/s14/r30r2k6r2g17ly7w2k2w2ly4t7w2k6w6~x2/"><circle cx="73.5" cy="60.2" r="4" fill="#3465a4"><title>Dundee</title></circle></a><circle cx="53.9" cy="101.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/w3r3k3r6g6k2w3k2ly3k6db2dy20ly3~x2/"><circle cx="66.6" cy="98.2" r="4" fill="#3465a4"><title>Cree (Fashion)</title></circle></a><a href="/setts/s10/r24g22k2w6k2ly2k15y6r6w2~x2/"><circle cx="65.1" cy="102.8" r="4" fill="#3465a4"><title>Bruce of Kinnaird</title></circle></a><a href="/setts/s9/t3p10w3k3g19r14t3k2ly3~x2/"><circle cx="66.6" cy="123.3" r="4" fill="#3465a4"><title>Wilson's, No 110</title></circle></a><a href="/setts/s13/w3r3k3r5g7k2w3k2ly3k7db2do22ly3~x2/"><circle cx="86.1" cy="94.9" r="4" fill="#3465a4"><title>Cree Clan Tartan Tartan Number: 1856. Earliest known date: 1981 A branch of the Stewart clan from Galloway and the South West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/w3r3k3r5g7k2w3k2ly3k7db2dr22ly3~x2/"><circle cx="74.7" cy="90.2" r="4" fill="#3465a4"><title>Cree</title></circle></a><a href="/setts/s11/db8k8ly2k3w3k3g24r16db3r4k2~x2/"><circle cx="99.4" cy="118.7" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s10/db4k1w2k3ly1y12o1k12o12r4~x2/"><circle cx="76.9" cy="115.9" r="4" fill="#3465a4"><title>Campbell, hunting</title></circle></a><a href="/setts/s10/r4dy12k12dy1o12ly1k3w2k1b4~x2/"><circle cx="89.3" cy="122.2" r="4" fill="#3465a4"><title>Campbell Hunting</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3g24r14k4r4w2~x2/"><circle cx="100.5" cy="120.0" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/setts/s14/r30r2k6r2g17ly7w2k2w2ly4t7w2k6w6~x2/"><circle cx="73.3" cy="60.4" r="4" fill="#3465a4"><title>Dundee</title></circle></a><circle cx="53.9" cy="101.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r24g22k2w6k2ly2k15t6r6w2~x2/

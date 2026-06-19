@@ -20,7 +20,7 @@ WGKGKGY
 
 
 
-### W DG K DG K DG LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W DG K DG K DG LY</span></span>
+### LY DG K DG K DG W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DG K DG K DG W</span></span>
 
 | Tartans |
 |---------------|

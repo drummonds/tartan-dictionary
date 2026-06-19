@@ -2,7 +2,7 @@
 title: "Island of Innis, The"
 date: 2023-03-18
 ---
-**Bands:** [KGKRGRYK](/stripes/kgkrgryk/) · **Stripes:** [K DG K R DG R LO K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="seq">K DG K R DG R LO K</span></span>
+**Bands:** [KYRGRKGK](/stripes/kyrgrkgk/) · **Stripes:** [K LO R DG R K DG K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="seq">K LO R DG R K DG K</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5279
 
 ## Thread count
-K/4 DY44 DR12 G4 DR36 K12 G4 K/60
+K/60 G4 K12 DR36 G4 DR12 DY44 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -39,7 +39,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/4 DY44 DR12 G4 DR36 K12 G4 K/60 tartan")
+![Tartan detail](tartan.png "K/60 G4 K12 DR36 G4 DR12 DY44 K/4 tartan")
 
 ## Nearest tartans
 
@@ -49,17 +49,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Montrose](/setts/s9/db1k1r12g12k6db5r12k1db1~x2/) — ΔT 0.64
 1. [Dickie](/setts/s8/g8r2g12k6g3db6r24k4~x2/) — ΔT 0.69
 1. [MacNaughten](/setts/s9/k1b1r16dg16k12b8r16b1k1~x2/) — ΔT 0.83
-1. [MacNaughten](/setts/s9/k1b1r16dg16k12b8r16b1k1/) — ΔT 0.83
 1. [MacNaughton](/setts/s9/k1lb1r16dg16k12lb8r16lb1k1~x2/) — ΔT 0.83
 1. [Scott Hunting Clan Tartan Tartan Number: 1546. Earliest known date: 1906 Also known as Green Scott, this tartan is generally available today. The Chief of the Scotts is His Grace the 9th Duke of Buccleuch and 10th of Queensberry who lives in Selkirk in the borders region of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r3dr14g8r2g2w2g2r1~x2/) — ΔT 0.84
 1. [Blackstock Red (Dress)](/setts/s7/ly2dg7k6r11k1r1ly2~x4/) — ΔT 0.84
 1. [Private SA Club](/setts/s8/k3r8k3r8lo19r7dt36r3~x2/) — ΔT 0.85
 1. [Longford County Crest (Fashion)](/setts/s8/k44lo9k3lo8lo16lo15lo6k7~x2/) — ΔT 0.89
+1. [MacDuff](/setts/s7/r4k2r24k6db6g16r3~x2/) — ΔT 0.91
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k1db1r16g16k12db8r16db1k1~x2/"><circle cx="219.1" cy="159.2" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/setts/s9/db1k1r12g12k6db5r12k1db1~x2/"><circle cx="227.1" cy="168.9" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/setts/s8/g8r2g12k6g3db6r24k4~x2/"><circle cx="200.8" cy="180.4" r="4" fill="#3465a4"><title>Dickie</title></circle></a><a href="/setts/s9/k1b1r16dg16k12b8r16b1k1~x2/"><circle cx="231.8" cy="167.4" r="4" fill="#3465a4"><title>MacNaughten</title></circle></a><a href="/setts/s9/k1b1r16dg16k12b8r16b1k1/"><circle cx="231.8" cy="167.4" r="4" fill="#3465a4"><title>MacNaughten</title></circle></a><a href="/setts/s9/k1lb1r16dg16k12lb8r16lb1k1~x2/"><circle cx="208.8" cy="149.8" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/setts/s8/r3dr14g8r2g2w2g2r1~x2/"><circle cx="246.2" cy="171.1" r="4" fill="#3465a4"><title>Scott Hunting Clan Tartan Tartan Number: 1546. Earliest known date: 1906 Also known as Green Scott, this tartan is generally available today. The Chief of the Scotts is His Grace the 9th Duke of Buccleuch and 10th of Queensberry who lives in Selkirk in the borders region of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/ly2dg7k6r11k1r1ly2~x4/"><circle cx="188.6" cy="182.9" r="4" fill="#3465a4"><title>Blackstock Red (Dress)</title></circle></a><a href="/setts/s8/k3r8k3r8lo19r7dt36r3~x2/"><circle cx="229.7" cy="173.0" r="4" fill="#3465a4"><title>Private SA Club</title></circle></a><a href="/setts/s8/k44lo9k3lo8lo16lo15lo6k7~x2/"><circle cx="212.8" cy="165.9" r="4" fill="#3465a4"><title>Longford County Crest (Fashion)</title></circle></a><circle cx="233.7" cy="162.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k1db1r16g16k12db8r16db1k1~x2/"><circle cx="219.0" cy="159.2" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/setts/s9/db1k1r12g12k6db5r12k1db1~x2/"><circle cx="227.0" cy="168.9" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/setts/s8/g8r2g12k6g3db6r24k4~x2/"><circle cx="200.7" cy="180.3" r="4" fill="#3465a4"><title>Dickie</title></circle></a><a href="/setts/s9/k1b1r16dg16k12b8r16b1k1~x2/"><circle cx="231.7" cy="167.4" r="4" fill="#3465a4"><title>MacNaughten</title></circle></a><a href="/setts/s9/k1lb1r16dg16k12lb8r16lb1k1~x2/"><circle cx="208.7" cy="149.7" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/setts/s8/r3dr14g8r2g2w2g2r1~x2/"><circle cx="246.1" cy="171.1" r="4" fill="#3465a4"><title>Scott Hunting Clan Tartan Tartan Number: 1546. Earliest known date: 1906 Also known as Green Scott, this tartan is generally available today. The Chief of the Scotts is His Grace the 9th Duke of Buccleuch and 10th of Queensberry who lives in Selkirk in the borders region of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/ly2dg7k6r11k1r1ly2~x4/"><circle cx="188.5" cy="182.8" r="4" fill="#3465a4"><title>Blackstock Red (Dress)</title></circle></a><a href="/setts/s8/k3r8k3r8lo19r7dt36r3~x2/"><circle cx="229.6" cy="173.0" r="4" fill="#3465a4"><title>Private SA Club</title></circle></a><a href="/setts/s8/k44lo9k3lo8lo16lo15lo6k7~x2/"><circle cx="212.7" cy="165.8" r="4" fill="#3465a4"><title>Longford County Crest (Fashion)</title></circle></a><a href="/setts/s7/r4k2r24k6db6g16r3~x2/"><circle cx="261.2" cy="178.3" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><circle cx="233.6" cy="162.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k15dg1k3r9dg1r3lo11k1~x4/

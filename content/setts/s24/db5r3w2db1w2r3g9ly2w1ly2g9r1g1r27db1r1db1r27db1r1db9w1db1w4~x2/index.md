@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [24 band tartan](/bands/bands24/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Hebridean, North Uist
+- Hebrides North Uist
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,12 +920,12 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [MacDougall Plaid](/setts/s24/db3dp12w6r6dg46r14dg6r14db14dp8w6r6w6dp8dg12r16dg12r6db6r86dp10w6r10db3/) — ΔT 1.01
+1. [MacDougall Plaid](/setts/s24/db3dp12w6r6dg46r14dg6r14db14dp8w6r6w6dp8dg12r16dg12r6db6r86dp10w6r10db3/) — ΔT 1.00
 1. [MacDougall, Plaid](/setts/s24/db3p12w6r6g46r14g6r14db14p8w6r6w6p8g12r16g12r6db6r86p10w6r10db3/) — ΔT 1.07
 1. [King George IV](/setts/s32/dg3lr3dg3r24dp1w1r3dp6r3w1dp1r3dg24r3dp1w1r24w1dp1r3dg24r3dp1w1r3dp6r3w1dp1r24dg3lr3~x4/) — ΔT 1.09
 1. [MacFarlane](/setts/s27/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3w4r3k4dp12g2w2r3k1r3w2g12k1r21~x4/) — ΔT 1.14
 1. [MacFarlane, Red](/setts/s14/r103k8g16w4r9k3r9w4g7db41k14r14w10g6/) — ΔT 1.23
-1. [Wood Dress](/setts/s23/k1ly1k2g1k1g10db8r10g2r10g2r30g2r10g2r10db8g10k1g1k2w1k1~x2/) — ΔT 1.23
+1. [Wood Dress](/setts/s23/k1w1k2g1k1g10db8r10g2r10g2r30g2r10g2r10db8g10k1g1k2ly1k1~x2/) — ΔT 1.23
 1. [Not Specified #3](/setts/s26/r90db4w4k13ly3k3w3k3g18r14k3r7w3r7k3r14g18k3w3k3ly3k13w4db4r90k56/) — ΔT 1.25
 1. [McBain](/setts/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5r5g2r5r5g10w2~x2/) — ΔT 1.26
 1. [MacBean (Lord Lyon version)](/setts/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5r5g2r5r5w2g10~x2/) — ΔT 1.26
@@ -923,8 +933,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s24/db3dp12w6r6dg46r14dg6r14db14dp8w6r6w6dp8dg12r16dg12r6db6r86dp10w6r10db3/"><circle cx="271.0" cy="49.5" r="4" fill="#3465a4"><title>MacDougall Plaid</title></circle></a><a href="/setts/s24/db3p12w6r6g46r14g6r14db14p8w6r6w6p8g12r16g12r6db6r86p10w6r10db3/"><circle cx="277.2" cy="54.4" r="4" fill="#3465a4"><title>MacDougall, Plaid</title></circle></a><a href="/setts/s32/dg3lr3dg3r24dp1w1r3dp6r3w1dp1r3dg24r3dp1w1r24w1dp1r3dg24r3dp1w1r3dp6r3w1dp1r24dg3lr3~x4/"><circle cx="306.2" cy="45.3" r="4" fill="#3465a4"><title>King George IV</title></circle></a><a href="/setts/s27/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3w4r3k4dp12g2w2r3k1r3w2g12k1r21~x4/"><circle cx="286.8" cy="24.4" r="4" fill="#3465a4"><title>MacFarlane</title></circle></a><a href="/setts/s14/r103k8g16w4r9k3r9w4g7db41k14r14w10g6/"><circle cx="312.1" cy="56.0" r="4" fill="#3465a4"><title>MacFarlane, Red</title></circle></a><a href="/setts/s23/k1ly1k2g1k1g10db8r10g2r10g2r30g2r10g2r10db8g10k1g1k2w1k1~x2/"><circle cx="277.2" cy="30.5" r="4" fill="#3465a4"><title>Wood Dress</title></circle></a><a href="/setts/s26/r90db4w4k13ly3k3w3k3g18r14k3r7w3r7k3r14g18k3w3k3ly3k13w4db4r90k56/"><circle cx="323.1" cy="15.7" r="4" fill="#3465a4"><title>Not Specified #3</title></circle></a><a href="/setts/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5r5g2r5r5g10w2~x2/"><circle cx="296.5" cy="21.4" r="4" fill="#3465a4"><title>McBain</title></circle></a><a href="/setts/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5r5g2r5r5w2g10~x2/"><circle cx="296.5" cy="21.4" r="4" fill="#3465a4"><title>MacBean (Lord Lyon version)</title></circle></a><a href="/setts/s19/r60w2t5k2w2k2t5w2k2g12k2w2r5r5g2r5r5w2g10~x2/"><circle cx="297.8" cy="17.3" r="4" fill="#3465a4"><title>MacBain/MacBean</title></circle></a><circle cx="297.8" cy="37.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s24/db3dp12w6r6dg46r14dg6r14db14dp8w6r6w6dp8dg12r16dg12r6db6r86dp10w6r10db3/"><circle cx="270.6" cy="49.6" r="4" fill="#3465a4"><title>MacDougall Plaid</title></circle></a><a href="/setts/s24/db3p12w6r6g46r14g6r14db14p8w6r6w6p8g12r16g12r6db6r86p10w6r10db3/"><circle cx="276.7" cy="54.4" r="4" fill="#3465a4"><title>MacDougall, Plaid</title></circle></a><a href="/setts/s32/dg3lr3dg3r24dp1w1r3dp6r3w1dp1r3dg24r3dp1w1r24w1dp1r3dg24r3dp1w1r3dp6r3w1dp1r24dg3lr3~x4/"><circle cx="305.7" cy="45.4" r="4" fill="#3465a4"><title>King George IV</title></circle></a><a href="/setts/s27/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3w4r3k4dp12g2w2r3k1r3w2g12k1r21~x4/"><circle cx="286.3" cy="24.5" r="4" fill="#3465a4"><title>MacFarlane</title></circle></a><a href="/setts/s14/r103k8g16w4r9k3r9w4g7db41k14r14w10g6/"><circle cx="311.7" cy="55.9" r="4" fill="#3465a4"><title>MacFarlane, Red</title></circle></a><a href="/setts/s23/k1w1k2g1k1g10db8r10g2r10g2r30g2r10g2r10db8g10k1g1k2ly1k1~x2/"><circle cx="276.7" cy="30.5" r="4" fill="#3465a4"><title>Wood Dress</title></circle></a><a href="/setts/s26/r90db4w4k13ly3k3w3k3g18r14k3r7w3r7k3r14g18k3w3k3ly3k13w4db4r90k56/"><circle cx="322.7" cy="15.8" r="4" fill="#3465a4"><title>Not Specified #3</title></circle></a><a href="/setts/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5r5g2r5r5g10w2~x2/"><circle cx="296.0" cy="21.5" r="4" fill="#3465a4"><title>McBain</title></circle></a><a href="/setts/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5r5g2r5r5w2g10~x2/"><circle cx="296.0" cy="21.5" r="4" fill="#3465a4"><title>MacBean (Lord Lyon version)</title></circle></a><a href="/setts/s19/r60w2t5k2w2k2t5w2k2g12k2w2r5r5g2r5r5w2g10~x2/"><circle cx="297.3" cy="17.3" r="4" fill="#3465a4"><title>MacBain/MacBean</title></circle></a><circle cx="297.4" cy="37.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s24/db5r3w2db1w2r3g9ly2w1ly2g9r1g1r27db1r1db1r27db1r1db9w1db1w4~x2/

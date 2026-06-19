@@ -22,6 +22,6 @@ BWBGKGKGBKBGKGKGBW
 
 | Tartans |
 |---------------|
-| [Smeaton (Wedding) #2](/setts/s18/db12w2db7g15k2g4k2g15db2k7db2g15k2g4k2g15db7w2~x2/)|
-|![Smeaton (Wedding) #2 example sett](/setts/s18/db12w2db7g15k2g4k2g15db2k7db2g15k2g4k2g15db7w2~x2/sett.png)|
+| [Smeaton (Wedding) #2](/setts/s18/db12w2db7g15k2g4k2g15db2k7~x2/)|
+|![Smeaton (Wedding) #2 example sett](/setts/s18/db12w2db7g15k2g4k2g15db2k7~x2/sett.png)|
 

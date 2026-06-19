@@ -2,12 +2,18 @@
 title: "MacQuarrie 5"
 date: 2023-03-18
 ---
-**Bands:** [RGRKRKR](/stripes/rgrkrkr/) · **Stripes:** [R G R K R K R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G R K R K R</span></span>
+**Bands:** [RKRKRGR](/stripes/rkrkrgr/) · **Stripes:** [R K R K R G R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K R G R</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacQuarrie #7
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -914,7 +923,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacQuarrie #7](/setts/s7/r4dg5r2k6r18k2r4~x2/) — ΔT 0.87
 1. [MacKeane](/setts/s5/r4k8r12k1ly1~x2/) — ΔT 1.10
-1. [Macan, of Lurgyvallan (Hose)](/setts/s6/r10k1r4g6r4k1~x2/) — ΔT 1.16
+1. [Macan, of Lurgyvallan (Hose)](/setts/s6/r10k1r4g6~x2/) — ΔT 1.16
 1. [MacGregor, Black (Personal)](/setts/s5/r41k19r7k9w3~x2/) — ΔT 1.20
 1. [Auld Reekie](/setts/s6/db4r3db3r22dg8r2~x2/) — ΔT 1.22
 1. [Loevenstein Castle](/setts/s5/r20k3r4lb2k7~x2/) — ΔT 1.26
@@ -925,8 +934,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r4dg5r2k6r18k2r4~x2/"><circle cx="408.6" cy="203.7" r="4" fill="#3465a4"><title>MacQuarrie #7</title></circle></a><a href="/setts/s5/r4k8r12k1ly1~x2/"><circle cx="385.1" cy="213.2" r="4" fill="#3465a4"><title>MacKeane</title></circle></a><a href="/setts/s6/r10k1r4g6r4k1~x2/"><circle cx="408.3" cy="225.2" r="4" fill="#3465a4"><title>Macan, of Lurgyvallan (Hose)</title></circle></a><a href="/setts/s5/r41k19r7k9w3~x2/"><circle cx="383.0" cy="202.1" r="4" fill="#3465a4"><title>MacGregor, Black (Personal)</title></circle></a><a href="/setts/s6/db4r3db3r22dg8r2~x2/"><circle cx="400.4" cy="202.2" r="4" fill="#3465a4"><title>Auld Reekie</title></circle></a><a href="/setts/s5/r20k3r4lb2k7~x2/"><circle cx="404.6" cy="217.8" r="4" fill="#3465a4"><title>Loevenstein Castle</title></circle></a><a href="/setts/s5/r20k3r4w2k7~x2/"><circle cx="397.9" cy="215.0" r="4" fill="#3465a4"><title>Loevenstein Castle 1 (Artefact)</title></circle></a><a href="/setts/s5/r13lb3r1dg3lb1~x6/"><circle cx="418.7" cy="192.7" r="4" fill="#3465a4"><title>Glen Shiel (Fashion)</title></circle></a><a href="/setts/s11/r9g4r6k2r4k2r8g14r24k2r4~x2/"><circle cx="420.9" cy="178.8" r="4" fill="#3465a4"><title>MacDonell of Keppach</title></circle></a><a href="/setts/s8/k12r3k2r16k8r12k2r3~x2/"><circle cx="360.3" cy="231.4" r="4" fill="#3465a4"><title>MacLeod #2</title></circle></a><circle cx="390.4" cy="201.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r4dg5r2k6r18k2r4~x2/"><circle cx="408.1" cy="203.4" r="4" fill="#3465a4"><title>MacQuarrie #7</title></circle></a><a href="/setts/s5/r4k8r12k1ly1~x2/"><circle cx="384.8" cy="212.9" r="4" fill="#3465a4"><title>MacKeane</title></circle></a><a href="/setts/s6/r10k1r4g6~x2/"><circle cx="407.9" cy="224.9" r="4" fill="#3465a4"><title>Macan, of Lurgyvallan (Hose)</title></circle></a><a href="/setts/s5/r41k19r7k9w3~x2/"><circle cx="382.7" cy="201.8" r="4" fill="#3465a4"><title>MacGregor, Black (Personal)</title></circle></a><a href="/setts/s6/db4r3db3r22dg8r2~x2/"><circle cx="400.1" cy="201.9" r="4" fill="#3465a4"><title>Auld Reekie</title></circle></a><a href="/setts/s5/r20k3r4lb2k7~x2/"><circle cx="404.5" cy="217.4" r="4" fill="#3465a4"><title>Loevenstein Castle</title></circle></a><a href="/setts/s5/r20k3r4w2k7~x2/"><circle cx="397.8" cy="214.6" r="4" fill="#3465a4"><title>Loevenstein Castle 1 (Artefact)</title></circle></a><a href="/setts/s5/r13lb3r1dg3lb1~x6/"><circle cx="418.3" cy="192.4" r="4" fill="#3465a4"><title>Glen Shiel (Fashion)</title></circle></a><a href="/setts/s11/r9g4r6k2r4k2r8g14r24k2r4~x2/"><circle cx="420.4" cy="178.5" r="4" fill="#3465a4"><title>MacDonell of Keppach</title></circle></a><a href="/setts/s8/k12r3k2r16k8r12k2r3~x2/"><circle cx="360.0" cy="231.1" r="4" fill="#3465a4"><title>MacLeod #2</title></circle></a><circle cx="390.1" cy="200.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r4g5r2k6r18k2r4~x2/

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -922,13 +925,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Fletcher #2](/setts/s7/b10k3b10k14r2g14k4~x2/) — ΔT 0.73
 1. [Glenturret](/setts/s6/k3g14k14g2db15ly2~x2/) — ΔT 0.74
 1. [Wellington, or Waterloo](/setts/s6/t3g12k14t11r3t3~x2/) — ΔT 0.78
-1. [Lennie](/setts/s6/g2p8k9t2g10k2~x2/) — ΔT 0.81
+1. [Lennie](/setts/s6/k2g10t2k9p8g2~x2/) — ΔT 0.81
 1. [Melville](/setts/s6/k4w2g18k13db12k2~x2/) — ΔT 0.81
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db2k2db12k8g11r2~x2/"><circle cx="152.2" cy="240.1" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s7/db1k1db6k6g6k1w1~x2/"><circle cx="142.6" cy="223.1" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s6/k3g14k14g2db14r3~x2/"><circle cx="136.9" cy="235.4" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/setts/s6/w4db4g22k20db20w3/"><circle cx="118.0" cy="224.4" r="4" fill="#3465a4"><title>Unnamed, No 26</title></circle></a><a href="/setts/s6/w1db9k9g9k2w1~x4/"><circle cx="146.3" cy="216.7" r="4" fill="#3465a4"><title>MacNeil 1</title></circle></a><a href="/setts/s7/b10k3b10k14r2g14k4~x2/"><circle cx="131.5" cy="238.4" r="4" fill="#3465a4"><title>Fletcher #2</title></circle></a><a href="/setts/s6/k3g14k14g2db15ly2~x2/"><circle cx="143.2" cy="233.1" r="4" fill="#3465a4"><title>Glenturret</title></circle></a><a href="/setts/s6/t3g12k14t11r3t3~x2/"><circle cx="115.5" cy="248.2" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/setts/s6/g2p8k9t2g10k2~x2/"><circle cx="126.8" cy="244.3" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/setts/s6/k4w2g18k13db12k2~x2/"><circle cx="159.6" cy="221.6" r="4" fill="#3465a4"><title>Melville</title></circle></a><circle cx="129.5" cy="236.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db2k2db12k8g11r2~x2/"><circle cx="152.4" cy="240.0" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s7/db1k1db6k6g6k1w1~x2/"><circle cx="142.8" cy="223.0" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s6/k3g14k14g2db14r3~x2/"><circle cx="137.1" cy="235.4" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/setts/s6/w4db4g22k20db20w3/"><circle cx="118.2" cy="224.4" r="4" fill="#3465a4"><title>Unnamed, No 26</title></circle></a><a href="/setts/s6/w1db9k9g9k2w1~x4/"><circle cx="146.6" cy="216.6" r="4" fill="#3465a4"><title>MacNeil 1</title></circle></a><a href="/setts/s7/b10k3b10k14r2g14k4~x2/"><circle cx="131.8" cy="238.3" r="4" fill="#3465a4"><title>Fletcher #2</title></circle></a><a href="/setts/s6/k3g14k14g2db15ly2~x2/"><circle cx="143.5" cy="233.1" r="4" fill="#3465a4"><title>Glenturret</title></circle></a><a href="/setts/s6/t3g12k14t11r3t3~x2/"><circle cx="115.7" cy="248.1" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/setts/s6/k2g10t2k9p8g2~x2/"><circle cx="127.0" cy="244.2" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/setts/s6/k4w2g18k13db12k2~x2/"><circle cx="159.8" cy="221.5" r="4" fill="#3465a4"><title>Melville</title></circle></a><circle cx="129.7" cy="236.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db2k2db12k11g12w2~x2/

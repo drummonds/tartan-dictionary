@@ -9,8 +9,14 @@ This was sourced from house-of-tartan.  It is a [11 band tartan](/bands/bands11/
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1292
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Cavalier, Green..
+
 ## Thread count
-LN/2 N10 K2 N10 R20 K4 LN4 K4 Y4 K20 N/90
+N/90 K20 Y4 K4 LN4 K4 R20 N10 K2 N10 LN/2
 ![Sett](sett.png)
 
 ## Palette
@@ -41,8 +47,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/y45k10ly2k2w2k2r10y5k1y5w1~x2/"><circle cx="393.5" cy="58.5" r="4" fill="#3465a4"><title>Cavalier, Green..</title></circle></a><a href="/setts/s14/lo70w3k2ly1k2ly1k5r1k5r2k7r2k7r3~x2/"><circle cx="418.3" cy="26.1" r="4" fill="#3465a4"><title>Desert</title></circle></a><a href="/setts/s11/r6k3n4k10n5lb2k2n31w1n2w2~x2/"><circle cx="387.8" cy="106.7" r="4" fill="#3465a4"><title>William Glen &amp; Son (Corporate)</title></circle></a><a href="/setts/s16/o52k4ly2k8o78k8lr8k4lr4k4o13ly2o4k4w4k4~x4/"><circle cx="465.0" cy="62.8" r="4" fill="#3465a4"><title>Maxem Eyewear (Corporate)</title></circle></a><a href="/setts/s11/o40dt10y2dt2w2dt3r8o6dt2o4w2~x2/"><circle cx="371.2" cy="103.9" r="4" fill="#3465a4"><title>Cavalier, Red</title></circle></a><a href="/setts/s16/r5k1n2k1r3k1n35lb1n2r3n3r2n3lo1n1r5~x2/"><circle cx="460.8" cy="64.1" r="4" fill="#3465a4"><title>Crieff High (Corporate)</title></circle></a><a href="/setts/s11/o49db15k1o18k4r8g7k5g5o19k5~x2/"><circle cx="387.6" cy="103.8" r="4" fill="#3465a4"><title>State Seal of Virginia (Fashion)</title></circle></a><a href="/setts/s14/o4r2o24db2o1db2o4db2o1db2o8k1db16w4~x2/"><circle cx="350.8" cy="96.3" r="4" fill="#3465a4"><title>New Jersey</title></circle></a><a href="/setts/s12/o60g2db4r1db4g2o3w1dp20w1o5db2~x2/"><circle cx="428.4" cy="45.2" r="4" fill="#3465a4"><title>Scottish Parliament Official (Corp)</title></circle></a><a href="/setts/s12/o48dp3k8n2k2o2k2n10o6k2o3lb2~x2/"><circle cx="362.2" cy="63.5" r="4" fill="#3465a4"><title>Wcwm 9275-1405</title></circle></a><circle cx="412.8" cy="65.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/y45k10ly2k2w2k2r10y5k1y5w1~x2/"><circle cx="393.1" cy="58.3" r="4" fill="#3465a4"><title>Cavalier, Green..</title></circle></a><a href="/setts/s14/lo70w3k2ly1k2ly1k5r1k5r2k7r2k7r3~x2/"><circle cx="417.8" cy="26.0" r="4" fill="#3465a4"><title>Desert</title></circle></a><a href="/setts/s11/r6k3n4k10n5lb2k2n31w1n2w2~x2/"><circle cx="387.6" cy="106.6" r="4" fill="#3465a4"><title>William Glen &amp; Son (Corporate)</title></circle></a><a href="/setts/s16/o52k4ly2k8o78k8lr8k4lr4k4o13ly2o4k4w4k4~x4/"><circle cx="464.4" cy="62.6" r="4" fill="#3465a4"><title>Maxem Eyewear (Corporate)</title></circle></a><a href="/setts/s11/o40dt10y2dt2w2dt3r8o6dt2o4w2~x2/"><circle cx="370.8" cy="103.8" r="4" fill="#3465a4"><title>Cavalier, Red</title></circle></a><a href="/setts/s16/r5k1n2k1r3k1n35lb1n2r3n3r2n3lo1n1r5~x2/"><circle cx="460.3" cy="64.0" r="4" fill="#3465a4"><title>Crieff High (Corporate)</title></circle></a><a href="/setts/s11/o49db15k1o18k4r8g7k5g5o19k5~x2/"><circle cx="387.3" cy="103.7" r="4" fill="#3465a4"><title>State Seal of Virginia (Fashion)</title></circle></a><a href="/setts/s14/o4r2o24db2o1db2o4db2o1db2o8k1db16w4~x2/"><circle cx="350.4" cy="96.2" r="4" fill="#3465a4"><title>New Jersey</title></circle></a><a href="/setts/s12/o60g2db4r1db4g2o3w1dp20w1o5db2~x2/"><circle cx="428.0" cy="45.2" r="4" fill="#3465a4"><title>Scottish Parliament Official (Corp)</title></circle></a><a href="/setts/s12/o48dp3k8n2k2o2k2n10o6k2o3lb2~x2/"><circle cx="361.9" cy="63.4" r="4" fill="#3465a4"><title>Wcwm 9275-1405</title></circle></a><circle cx="412.3" cy="65.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/o45k10ly2k2w2k2r10o5k1o5w1~x2/

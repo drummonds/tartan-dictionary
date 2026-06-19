@@ -2,12 +2,19 @@
 title: "Unidentified #36"
 date: 2023-03-18
 ---
-**Bands:** [KBWKGKGK](/stripes/kbwkgkgk/) · **Stripes:** [K DP W K DG K DG K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="seq">K DP W K DG K DG K</span></span>
+**Bands:** [KGKGKWBK](/stripes/kgkgkwbk/) · **Stripes:** [K DG K DG K W DP K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="seq">K DG K DG K W DP K</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4237
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified #36
+- Unnamed No 33
 
 ## Register references
 
@@ -42,7 +49,7 @@ The nearest existing variants by ΔTartan distance.
 1. [National Galleries of Scotland](/setts/s7/k7g22k22db6r2db15r2~x2/) — ΔT 0.88
 1. [Dundas #2](/setts/s7/k4db16k12g12r1g2k2~x2/) — ΔT 0.89
 1. [Mowat](/setts/s7/db26k1db2k18ly2g16k16~x2/) — ΔT 1.03
-1. [Gunn](/setts/s6/g2db12g1k12g12r2~x2/) — ΔT 1.06
+1. [Gunn](/setts/s6/r2g12k12g1db12g2~x2/) — ΔT 1.06
 1. [Swallow Hotels (Corporate)](/setts/s9/k4g21k10r2k10db21k4db4k4~x2/) — ΔT 1.06
 1. [Argyll Campbell](/setts/s10/k3db17k20dg18w4dg18k20db18k2db2~x2/) — ΔT 1.09
 1. [Granger/Grainger (Personal)](/setts/s10/g27k21db12k4db40k4db12k21g27w4~x2/) — ΔT 1.12
@@ -51,8 +58,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db24k3db5k23ly2k11g22~x2/"><circle cx="238.3" cy="231.6" r="4" fill="#3465a4"><title>Mowat (Clans Originaux)</title></circle></a><a href="/setts/s7/k7g22k22db6r2db15r2~x2/"><circle cx="218.3" cy="229.4" r="4" fill="#3465a4"><title>National Galleries of Scotland</title></circle></a><a href="/setts/s7/k4db16k12g12r1g2k2~x2/"><circle cx="248.6" cy="216.6" r="4" fill="#3465a4"><title>Dundas #2</title></circle></a><a href="/setts/s7/db26k1db2k18ly2g16k16~x2/"><circle cx="286.8" cy="198.8" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/setts/s6/g2db12g1k12g12r2~x2/"><circle cx="216.4" cy="230.6" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/setts/s9/k4g21k10r2k10db21k4db4k4~x2/"><circle cx="224.7" cy="213.8" r="4" fill="#3465a4"><title>Swallow Hotels (Corporate)</title></circle></a><a href="/setts/s10/k3db17k20dg18w4dg18k20db18k2db2~x2/"><circle cx="202.7" cy="234.3" r="4" fill="#3465a4"><title>Argyll Campbell</title></circle></a><a href="/setts/s10/g27k21db12k4db40k4db12k21g27w4~x2/"><circle cx="197.2" cy="224.6" r="4" fill="#3465a4"><title>Granger/Grainger (Personal)</title></circle></a><a href="/setts/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/"><circle cx="208.0" cy="212.4" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/setts/s7/r4k4db24k24g24k2r3~x2/"><circle cx="220.3" cy="218.1" r="4" fill="#3465a4"><title>Black Watch (Coarse Kilt)</title></circle></a><circle cx="249.0" cy="222.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db24k3db5k23ly2k11g22~x2/"><circle cx="238.5" cy="231.6" r="4" fill="#3465a4"><title>Mowat (Clans Originaux)</title></circle></a><a href="/setts/s7/k7g22k22db6r2db15r2~x2/"><circle cx="218.5" cy="229.4" r="4" fill="#3465a4"><title>National Galleries of Scotland</title></circle></a><a href="/setts/s7/k4db16k12g12r1g2k2~x2/"><circle cx="248.7" cy="216.6" r="4" fill="#3465a4"><title>Dundas #2</title></circle></a><a href="/setts/s7/db26k1db2k18ly2g16k16~x2/"><circle cx="286.9" cy="198.7" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/setts/s6/r2g12k12g1db12g2~x2/"><circle cx="216.6" cy="230.6" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/setts/s9/k4g21k10r2k10db21k4db4k4~x2/"><circle cx="224.8" cy="213.8" r="4" fill="#3465a4"><title>Swallow Hotels (Corporate)</title></circle></a><a href="/setts/s10/k3db17k20dg18w4dg18k20db18k2db2~x2/"><circle cx="202.9" cy="234.3" r="4" fill="#3465a4"><title>Argyll Campbell</title></circle></a><a href="/setts/s10/g27k21db12k4db40k4db12k21g27w4~x2/"><circle cx="197.4" cy="224.6" r="4" fill="#3465a4"><title>Granger/Grainger (Personal)</title></circle></a><a href="/setts/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/"><circle cx="208.1" cy="212.5" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/setts/s7/r4k4db24k24g24k2r3~x2/"><circle cx="220.5" cy="218.1" r="4" fill="#3465a4"><title>Black Watch (Coarse Kilt)</title></circle></a><circle cx="249.2" cy="222.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k16dg16k2dg16k16w2dp16k1~x2/

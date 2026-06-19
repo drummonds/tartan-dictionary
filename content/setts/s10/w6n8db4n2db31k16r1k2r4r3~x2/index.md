@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10715
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Bell Rock Lighthouse 200th Anniversary, The
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -23,7 +29,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10715](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10715)
 
 ## Thread count
-R/6 DR8 K4 DR2 K32 DB62 N4 DB8 N16 W/12
+W/12 N16 DB8 N4 DB62 K32 DR2 K4 DR8 R/6
 ![Sett](sett.png)
 
 ## Palette
@@ -42,21 +48,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Bell Rock Lighthouse 200th Aniversar](/setts/s10/w5lb7db4lb2db25k13r1k2r4r3~x2/) — ΔT 0.86
+1. [Bell Rock Lighthouse 200th Aniversar](/setts/s10/w5lb7db4lb2db25k13r1k2r4r3~x2/) — ΔT 0.87
 1. [Sidey (Dundee) Dress (Personal)](/setts/s10/db4w1k2db25k12db1k2r16k2lo1~x2/) — ΔT 0.94
 1. [Climb, The](/setts/s8/lg2dg9k16r2t30lg3dg6w1~x2/) — ΔT 1.03
 1. [Bannockbane Navy Fashion Tartan Tartan Number: 3653. Earliest known date: Not Specified. This is a variation on a trade sett which originated in the early 1970s. Other variants of the design (in different colourways) are included in the Register. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k3m2db30m1k18o30m2o3~x2/) — ΔT 1.19
 1. [Voluntary Service Aberdeen](/setts/s10/o4w1k35n1dt2m4w1dt14m8w1~x2/) — ΔT 1.21
 1. [Scragg, Moran (Personal)](/setts/s10/g1b28k11r5w1r5k11ly1k2g1~x2/) — ΔT 1.22
 1. [Midnight Balmoral (Personal)](/setts/s9/t4w1k36db2r4w1db14r8w1~x2/) — ΔT 1.25
-1. [Longhaugh Primary School](/setts/s8/g20db2w2db12dp29r1dp1k3~x2/) — ΔT 1.25
+1. [Longhaugh Primary School](/setts/s8/g20db2w2db12dp29r1dp1k3~x2/) — ΔT 1.26
 1. [Correctional Service Canada](/setts/s11/ly4k5b2k30k1k4k4k1k15r6w3~x2/) — ΔT 1.26
 1. [Vienna Highlander (Fashion)](/setts/s8/lo3k2o15k10dt23r2dt1w2~x2/) — ΔT 1.26
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w5lb7db4lb2db25k13r1k2r4r3~x2/"><circle cx="194.2" cy="96.5" r="4" fill="#3465a4"><title>Bell Rock Lighthouse 200th Aniversar</title></circle></a><a href="/setts/s10/db4w1k2db25k12db1k2r16k2lo1~x2/"><circle cx="226.6" cy="90.7" r="4" fill="#3465a4"><title>Sidey (Dundee) Dress (Personal)</title></circle></a><a href="/setts/s8/lg2dg9k16r2t30lg3dg6w1~x2/"><circle cx="206.6" cy="100.5" r="4" fill="#3465a4"><title>Climb, The</title></circle></a><a href="/setts/s8/k3m2db30m1k18o30m2o3~x2/"><circle cx="212.6" cy="116.6" r="4" fill="#3465a4"><title>Bannockbane Navy Fashion Tartan Tartan Number: 3653. Earliest known date: Not Specified. This is a variation on a trade sett which originated in the early 1970s. Other variants of the design (in different colourways) are included in the Register. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/o4w1k35n1dt2m4w1dt14m8w1~x2/"><circle cx="289.0" cy="83.9" r="4" fill="#3465a4"><title>Voluntary Service Aberdeen</title></circle></a><a href="/setts/s10/g1b28k11r5w1r5k11ly1k2g1~x2/"><circle cx="247.3" cy="98.9" r="4" fill="#3465a4"><title>Scragg, Moran (Personal)</title></circle></a><a href="/setts/s9/t4w1k36db2r4w1db14r8w1~x2/"><circle cx="297.2" cy="93.4" r="4" fill="#3465a4"><title>Midnight Balmoral (Personal)</title></circle></a><a href="/setts/s8/g20db2w2db12dp29r1dp1k3~x2/"><circle cx="229.7" cy="98.8" r="4" fill="#3465a4"><title>Longhaugh Primary School</title></circle></a><a href="/setts/s11/ly4k5b2k30k1k4k4k1k15r6w3~x2/"><circle cx="275.9" cy="93.4" r="4" fill="#3465a4"><title>Correctional Service Canada</title></circle></a><a href="/setts/s8/lo3k2o15k10dt23r2dt1w2~x2/"><circle cx="201.9" cy="119.3" r="4" fill="#3465a4"><title>Vienna Highlander (Fashion)</title></circle></a><circle cx="217.8" cy="88.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w5lb7db4lb2db25k13r1k2r4r3~x2/"><circle cx="194.2" cy="96.6" r="4" fill="#3465a4"><title>Bell Rock Lighthouse 200th Aniversar</title></circle></a><a href="/setts/s10/db4w1k2db25k12db1k2r16k2lo1~x2/"><circle cx="226.6" cy="90.7" r="4" fill="#3465a4"><title>Sidey (Dundee) Dress (Personal)</title></circle></a><a href="/setts/s8/lg2dg9k16r2t30lg3dg6w1~x2/"><circle cx="206.7" cy="100.5" r="4" fill="#3465a4"><title>Climb, The</title></circle></a><a href="/setts/s8/k3m2db30m1k18o30m2o3~x2/"><circle cx="212.7" cy="116.6" r="4" fill="#3465a4"><title>Bannockbane Navy Fashion Tartan Tartan Number: 3653. Earliest known date: Not Specified. This is a variation on a trade sett which originated in the early 1970s. Other variants of the design (in different colourways) are included in the Register. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/o4w1k35n1dt2m4w1dt14m8w1~x2/"><circle cx="288.9" cy="84.0" r="4" fill="#3465a4"><title>Voluntary Service Aberdeen</title></circle></a><a href="/setts/s10/g1b28k11r5w1r5k11ly1k2g1~x2/"><circle cx="247.3" cy="99.0" r="4" fill="#3465a4"><title>Scragg, Moran (Personal)</title></circle></a><a href="/setts/s9/t4w1k36db2r4w1db14r8w1~x2/"><circle cx="297.2" cy="93.3" r="4" fill="#3465a4"><title>Midnight Balmoral (Personal)</title></circle></a><a href="/setts/s8/g20db2w2db12dp29r1dp1k3~x2/"><circle cx="229.6" cy="98.9" r="4" fill="#3465a4"><title>Longhaugh Primary School</title></circle></a><a href="/setts/s11/ly4k5b2k30k1k4k4k1k15r6w3~x2/"><circle cx="275.9" cy="93.4" r="4" fill="#3465a4"><title>Correctional Service Canada</title></circle></a><a href="/setts/s8/lo3k2o15k10dt23r2dt1w2~x2/"><circle cx="201.9" cy="119.3" r="4" fill="#3465a4"><title>Vienna Highlander (Fashion)</title></circle></a><circle cx="217.8" cy="88.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/w6n8db4n2db31k16r1k2r4r3~x2/

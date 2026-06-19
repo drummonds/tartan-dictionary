@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LT/4 K2 DRa16 K12 DR16 K2 LN4 K2 DR16 K12 LT4 LTa4 LN24 LTa3 LT/4
+LT/4 LTa3 LN24 LTa4 LT4 K12 DR16 K2 LN4 K2 DR16 K12 DRa16 K2 LT/4
 ![Sett](sett.png)
 
 ## Palette
@@ -911,14 +914,14 @@ The nearest existing variants by ΔTartan distance.
 1. [MacPherson 10](/setts/s15/r6db2r6g10ly1k10db6k1db2k1db6r6w2k2r2~x2/) — ΔT 0.92
 1. [Taiwan Scottish](/setts/s14/r13w2r13k3r13dg21n3k18n9k2n2k2n15w2~x2/) — ΔT 0.96
 1. [Wilson's, No 152](/setts/s16/g3k2r12t9k2t9k16ly3k3w5k3g25r13k4r5w3~x2/) — ΔT 1.01
-1. [Norwich No.014](/setts/s16/r22lt3db5ly2r2w2dg11db4w3db4dg11w2r2ly2db5lt3~x2/) — ΔT 1.05
+1. [Norwich No.014](/setts/s16/r22lt3db5ly2r2w2dg11db4w3~x2/) — ΔT 1.05
 1. [Quadra](/setts/s20/g4k3r1k3r2k2r4k1r4g3k2lo2k2r2k6db6lb14k3lb3r3~x2/) — ΔT 1.06
-1. [Wilson's No.227](/setts/s16/r26t7dp8ly3r3w3g20dp10w2dp10g20w3r3ly3dp8t7~x2/) — ΔT 1.13
+1. [Wilson's No.227](/setts/s16/r26t7dp8ly3r3w3g20dp10w2~x2/) — ΔT 1.13
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/lo2dy2w12dy2lo2k6r8k1w2k1r8k6do8k1lo2~x2/"><circle cx="51.4" cy="110.9" r="4" fill="#3465a4"><title>Dunkeld</title></circle></a><a href="/setts/s14/ly2r15ly3r2ly3k14ly2db6w2db6ly2r7db10w1~x2/"><circle cx="85.7" cy="101.6" r="4" fill="#3465a4"><title>Dalrymple, of Castleton</title></circle></a><a href="/setts/s13/db23r6db6k10ly3k2w2k2g11r12k2r10w2~x2/"><circle cx="96.5" cy="121.6" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><a href="/setts/s14/ly2r15ly3m2ly3k14ly2db6w2db6ly2r7db10w1~x2/"><circle cx="94.1" cy="104.2" r="4" fill="#3465a4"><title>Dalrymple of Castleton Portrait Tartan Tartan Number: 1780. Earliest known date: 1720 Reconstructed and woven by Don Rankin from illustration. Sample in STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/r6db2r6g10ly1k10db6k1db2k1db6r6w2k2r2~x2/"><circle cx="75.6" cy="132.6" r="4" fill="#3465a4"><title>MacPherson 10</title></circle></a><a href="/setts/s14/r13w2r13k3r13dg21n3k18n9k2n2k2n15w2~x2/"><circle cx="54.9" cy="133.4" r="4" fill="#3465a4"><title>Taiwan Scottish</title></circle></a><a href="/setts/s16/g3k2r12t9k2t9k16ly3k3w5k3g25r13k4r5w3~x2/"><circle cx="52.4" cy="105.9" r="4" fill="#3465a4"><title>Wilson's, No 152</title></circle></a><a href="/setts/s16/r22lt3db5ly2r2w2dg11db4w3db4dg11w2r2ly2db5lt3~x2/"><circle cx="83.1" cy="96.3" r="4" fill="#3465a4"><title>Norwich No.014</title></circle></a><a href="/setts/s20/g4k3r1k3r2k2r4k1r4g3k2lo2k2r2k6db6lb14k3lb3r3~x2/"><circle cx="79.8" cy="102.8" r="4" fill="#3465a4"><title>Quadra</title></circle></a><a href="/setts/s16/r26t7dp8ly3r3w3g20dp10w2dp10g20w3r3ly3dp8t7~x2/"><circle cx="89.7" cy="110.4" r="4" fill="#3465a4"><title>Wilson's No.227</title></circle></a><circle cx="45.5" cy="108.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/lo2dy2w12dy2lo2k6r8k1w2k1r8k6do8k1lo2~x2/"><circle cx="51.3" cy="111.1" r="4" fill="#3465a4"><title>Dunkeld</title></circle></a><a href="/setts/s14/ly2r15ly3r2ly3k14ly2db6w2db6ly2r7db10w1~x2/"><circle cx="85.6" cy="101.7" r="4" fill="#3465a4"><title>Dalrymple, of Castleton</title></circle></a><a href="/setts/s13/db23r6db6k10ly3k2w2k2g11r12k2r10w2~x2/"><circle cx="96.5" cy="121.7" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><a href="/setts/s14/ly2r15ly3m2ly3k14ly2db6w2db6ly2r7db10w1~x2/"><circle cx="94.0" cy="104.3" r="4" fill="#3465a4"><title>Dalrymple of Castleton Portrait Tartan Tartan Number: 1780. Earliest known date: 1720 Reconstructed and woven by Don Rankin from illustration. Sample in STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/r6db2r6g10ly1k10db6k1db2k1db6r6w2k2r2~x2/"><circle cx="75.6" cy="132.7" r="4" fill="#3465a4"><title>MacPherson 10</title></circle></a><a href="/setts/s14/r13w2r13k3r13dg21n3k18n9k2n2k2n15w2~x2/"><circle cx="55.0" cy="133.6" r="4" fill="#3465a4"><title>Taiwan Scottish</title></circle></a><a href="/setts/s16/g3k2r12t9k2t9k16ly3k3w5k3g25r13k4r5w3~x2/"><circle cx="52.4" cy="106.1" r="4" fill="#3465a4"><title>Wilson's, No 152</title></circle></a><a href="/setts/s16/r22lt3db5ly2r2w2dg11db4w3~x2/"><circle cx="83.0" cy="96.4" r="4" fill="#3465a4"><title>Norwich No.014</title></circle></a><a href="/setts/s20/g4k3r1k3r2k2r4k1r4g3k2lo2k2r2k6db6lb14k3lb3r3~x2/"><circle cx="79.8" cy="103.0" r="4" fill="#3465a4"><title>Quadra</title></circle></a><a href="/setts/s16/r26t7dp8ly3r3w3g20dp10w2~x2/"><circle cx="89.6" cy="110.6" r="4" fill="#3465a4"><title>Wilson's No.227</title></circle></a><circle cx="45.5" cy="108.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/o4o3w24o4o4k12m16k2w4k2m16k12dr16k2o4/

@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/
 Original link http://www.tartansauthority.com/tartan-ferret/display/10642/
 
 ## Thread count
-DBa/2 DY4 DBa6 DB24 DBa36 W/2
+W/2 DBa36 DB24 DBa6 DY4 DBa/2
 ![Sett](sett.png)
 
 ## Palette
@@ -25,7 +25,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DBa/2 DY4 DBa6 DB24 DBa36 W/2 tartan")
+![Tartan detail](tartan.png "W/2 DBa36 DB24 DBa6 DY4 DBa/2 tartan")
 
 ## Nearest tartans
 
@@ -34,7 +34,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Jon's Theme](/setts/s6/k1ly2k3n12k18w1~x2/) — ΔT 0.72
 1. [Pride of Nova Scotia (Corporate)](/setts/s7/k3lo2k36dt16k5dt2w3~x2/) — ΔT 1.03
 1. [St. Georges, Edgbaston](/setts/s7/r4k21w2k20db21k2db2~x2/) — ΔT 1.07
-1. [Hannah (Personal)](/setts/s6/ly2k9w3k9db35w2~x2/) — ΔT 1.18
+1. [Hannah (Personal)](/setts/s6/w2db35k9w3k9ly2~x2/) — ΔT 1.18
 1. [St Andrews, Earl of](/setts/s6/db52k28w5k3w2k10/) — ΔT 1.33
 1. [Warren Wilson College (Corporate)](/setts/s8/g20lr6db20ly3db48r6db4r6~x2/) — ΔT 1.41
 1. [Indigo Blue Works](/setts/s11/db9k1db4k1db18b5k1b1k1b5db4~x2/) — ΔT 1.42
@@ -44,8 +44,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k1ly2k3n12k18w1~x2/"><circle cx="366.4" cy="186.8" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/setts/s7/k3lo2k36dt16k5dt2w3~x2/"><circle cx="414.1" cy="177.5" r="4" fill="#3465a4"><title>Pride of Nova Scotia (Corporate)</title></circle></a><a href="/setts/s7/r4k21w2k20db21k2db2~x2/"><circle cx="347.7" cy="222.3" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/setts/s6/ly2k9w3k9db35w2~x2/"><circle cx="349.9" cy="171.7" r="4" fill="#3465a4"><title>Hannah (Personal)</title></circle></a><a href="/setts/s6/db52k28w5k3w2k10/"><circle cx="369.2" cy="188.8" r="4" fill="#3465a4"><title>St Andrews, Earl of</title></circle></a><a href="/setts/s8/g20lr6db20ly3db48r6db4r6~x2/"><circle cx="351.1" cy="165.3" r="4" fill="#3465a4"><title>Warren Wilson College (Corporate)</title></circle></a><a href="/setts/s11/db9k1db4k1db18b5k1b1k1b5db4~x2/"><circle cx="358.2" cy="163.1" r="4" fill="#3465a4"><title>Indigo Blue Works</title></circle></a><a href="/setts/s4/db14k3r3w1~x2/"><circle cx="412.5" cy="224.5" r="4" fill="#3465a4"><title>Bacon, Blue</title></circle></a><a href="/setts/s7/db6dp3db56k24g6r6g6/"><circle cx="358.4" cy="170.9" r="4" fill="#3465a4"><title>Wcwm 9275-1395</title></circle></a><a href="/setts/s4/db9g16db59ly4~x2/"><circle cx="422.8" cy="230.5" r="4" fill="#3465a4"><title>Oxford University (Corporate)</title></circle></a><circle cx="374.1" cy="194.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k1ly2k3n12k18w1~x2/"><circle cx="366.4" cy="186.6" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/setts/s7/k3lo2k36dt16k5dt2w3~x2/"><circle cx="414.2" cy="177.3" r="4" fill="#3465a4"><title>Pride of Nova Scotia (Corporate)</title></circle></a><a href="/setts/s7/r4k21w2k20db21k2db2~x2/"><circle cx="347.8" cy="222.1" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/setts/s6/w2db35k9w3k9ly2~x2/"><circle cx="349.8" cy="171.5" r="4" fill="#3465a4"><title>Hannah (Personal)</title></circle></a><a href="/setts/s6/db52k28w5k3w2k10/"><circle cx="369.2" cy="188.6" r="4" fill="#3465a4"><title>St Andrews, Earl of</title></circle></a><a href="/setts/s8/g20lr6db20ly3db48r6db4r6~x2/"><circle cx="351.1" cy="165.1" r="4" fill="#3465a4"><title>Warren Wilson College (Corporate)</title></circle></a><a href="/setts/s11/db9k1db4k1db18b5k1b1k1b5db4~x2/"><circle cx="358.2" cy="163.0" r="4" fill="#3465a4"><title>Indigo Blue Works</title></circle></a><a href="/setts/s4/db14k3r3w1~x2/"><circle cx="412.5" cy="224.3" r="4" fill="#3465a4"><title>Bacon, Blue</title></circle></a><a href="/setts/s7/db6dp3db56k24g6r6g6/"><circle cx="358.5" cy="170.9" r="4" fill="#3465a4"><title>Wcwm 9275-1395</title></circle></a><a href="/setts/s4/db9g16db59ly4~x2/"><circle cx="422.9" cy="230.2" r="4" fill="#3465a4"><title>Oxford University (Corporate)</title></circle></a><circle cx="374.2" cy="194.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k1lo2k3db12k18w1~x2/

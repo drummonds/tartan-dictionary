@@ -24,13 +24,13 @@ Other setts woven to the same stripe pattern.
 - [Ettrick](/setts/s4/k6r31k31r6~x2/)
 - [Ettrick (District)](/setts/s4/k5r26k26r5~x4/)
 - [Lendrum (Black & Red) or MacFarlane](/setts/s4/k12r7k1r9~x4/)
-- [Lendrum, or MacFarlane](/setts/s4/k67r32k6r32/)
-- [MacFarlane Red & Black (Artefact)](/setts/s4/k30r17k3r17~x4/)
-- [Masai Shuka 12 (Artefact)](/setts/s4/r25k5r1k5~x4/)
+- [Lendrum, or MacFarlane](/setts/s4/k67r32k6/)
+- [MacFarlane Red & Black (Artefact)](/setts/s4/k30r17k3~x4/)
+- [Masai Shuka 12 (Artefact)](/setts/s4/r25k5r1~x4/)
 
 
 ## Thread count
-DR/40 K40 DR6 K/40
+K/40 DR6 K40 DR/40
 ![Sett](sett.png)
 
 ## Palette
@@ -43,7 +43,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/40 K40 DR6 K/40 tartan")
+![Tartan detail](tartan.png "K/40 DR6 K40 DR/40 tartan")
 
 ## Nearest tartans
 
@@ -62,8 +62,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k2r4k7r1k2~x2/"><circle cx="481.0" cy="318.9" r="4" fill="#3465a4"><title>Romsdal Tresfjord</title></circle></a><a href="/setts/s4/k12r7k1r9~x4/"><circle cx="420.4" cy="307.5" r="4" fill="#3465a4"><title>Lendrum (Black &amp; Red) or MacFarlane</title></circle></a><a href="/setts/s4/k3r20k20r3~x2/"><circle cx="398.0" cy="310.1" r="4" fill="#3465a4"><title>Clan Anord (Corporate)</title></circle></a><a href="/setts/s6/r9k1r5g6r4k2~x4/"><circle cx="422.0" cy="277.3" r="4" fill="#3465a4"><title>MacAn of Lurgyvallan (Hose)</title></circle></a><a href="/setts/s4/k30dp5k10dp9~x4/"><circle cx="530.7" cy="340.1" r="4" fill="#3465a4"><title>Leonard Hunting (Name)</title></circle></a><a href="/setts/s6/k10dp5k30dp5k10dp9~x4/"><circle cx="511.7" cy="319.0" r="4" fill="#3465a4"><title>Leonard Hunting</title></circle></a><a href="/setts/s3/dg6dp5r1~x4/"><circle cx="309.2" cy="323.3" r="4" fill="#3465a4"><title>Wilson's No.084</title></circle></a><a href="/setts/s7/r2k4r2k4r6k1lo1~x4/"><circle cx="309.7" cy="272.7" r="4" fill="#3465a4"><title>MacIan</title></circle></a><a href="/setts/s4/k34db13k7db14~x2/"><circle cx="440.6" cy="366.0" r="4" fill="#3465a4"><title>Auchincloss (Personal)</title></circle></a><a href="/setts/s4/do12y6do2lo1~x4/"><circle cx="449.5" cy="255.8" r="4" fill="#3465a4"><title>Loch Garth</title></circle></a><circle cx="427.8" cy="347.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k2r4k7r1k2~x2/"><circle cx="481.0" cy="318.6" r="4" fill="#3465a4"><title>Romsdal Tresfjord</title></circle></a><a href="/setts/s4/k12r7k1r9~x4/"><circle cx="420.4" cy="307.3" r="4" fill="#3465a4"><title>Lendrum (Black &amp; Red) or MacFarlane</title></circle></a><a href="/setts/s4/k3r20k20r3~x2/"><circle cx="398.0" cy="309.9" r="4" fill="#3465a4"><title>Clan Anord (Corporate)</title></circle></a><a href="/setts/s6/r9k1r5g6r4k2~x4/"><circle cx="421.7" cy="277.1" r="4" fill="#3465a4"><title>MacAn of Lurgyvallan (Hose)</title></circle></a><a href="/setts/s4/k30dp5k10dp9~x4/"><circle cx="530.7" cy="339.8" r="4" fill="#3465a4"><title>Leonard Hunting (Name)</title></circle></a><a href="/setts/s6/k10dp5k30dp5k10dp9~x4/"><circle cx="511.7" cy="318.8" r="4" fill="#3465a4"><title>Leonard Hunting</title></circle></a><a href="/setts/s3/dg6dp5r1~x4/"><circle cx="309.3" cy="323.2" r="4" fill="#3465a4"><title>Wilson's No.084</title></circle></a><a href="/setts/s7/r2k4r2k4r6k1lo1~x4/"><circle cx="309.6" cy="272.6" r="4" fill="#3465a4"><title>MacIan</title></circle></a><a href="/setts/s4/k34db13k7db14~x2/"><circle cx="440.8" cy="366.0" r="4" fill="#3465a4"><title>Auchincloss (Personal)</title></circle></a><a href="/setts/s4/do12y6do2lo1~x4/"><circle cx="449.3" cy="255.6" r="4" fill="#3465a4"><title>Loch Garth</title></circle></a><circle cx="427.8" cy="347.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/k20r3k20r20~x2/

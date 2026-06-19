@@ -20,7 +20,7 @@ BBYWKK
 
 
 
-### T DP LR W K K <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="seq">T DP LR W K K</span></span>
+### K K W LR DP T <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="seq">K K W LR DP T</span></span>
 
 | Tartans |
 |---------------|

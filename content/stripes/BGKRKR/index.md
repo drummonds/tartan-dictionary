@@ -20,7 +20,7 @@ BGKRKR
 
 
 
-### DP Y K O K O <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DP Y K O K O</span></span>
+### O K O K Y DP <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">O K O K Y DP</span></span>
 
 | Tartans |
 |---------------|

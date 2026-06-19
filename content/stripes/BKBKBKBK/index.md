@@ -21,28 +21,28 @@ BKBKBKBK
 Grouped by stripe pattern — the 4 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### B K B K B K DB K <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">B K B K B K DB K</span></span>
+### K DB K B K B K B <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K DB K B K B K B</span></span>
 
 | Tartans |
 |---------------|
-| [Oban](/setts/s8/b6k10b1k1b1k10db10k6~x4/)|
-|![Oban example sett](/setts/s8/b6k10b1k1b1k10db10k6~x4/sett.png)|
+| [Oban](/setts/s8/k6db10k10b1k1b1k10b6~x4/)|
+|![Oban example sett](/setts/s8/k6db10k10b1k1b1k10b6~x4/sett.png)|
 
-### DB K DB K DB K DB K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K DB K DB K DB K</span></span>
+### K DB K DB K DB K DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB K DB K DB</span></span>
 
 | Tartans |
 |---------------|
 | [Lochleven (Dance)](/setts/s8/db48k6db3k6db6k4db2k10~x2/)|
 |![Lochleven (Dance) example sett](/setts/s8/db48k6db3k6db6k4db2k10~x2/sett.png)|
 
-### DB K DB K DB K DP K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K DB K DB K DP K</span></span>
+### K DP K DB K DB K DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DP K DB K DB K DB</span></span>
 
 | Tartans |
 |---------------|
 | [Glasgow Academy](/setts/s8/db7k2db2k2db2k7dp7k2~x4/)|
 |![Glasgow Academy example sett](/setts/s8/db7k2db2k2db2k7dp7k2~x4/sett.png)|
 
-### N K N K N K N K <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="seq">N K N K N K N K</span></span>
+### K N K N K N K N <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">K N K N K N K N</span></span>
 
 | Tartans |
 |---------------|

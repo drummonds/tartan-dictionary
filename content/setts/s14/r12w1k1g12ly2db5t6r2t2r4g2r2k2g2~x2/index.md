@@ -2,12 +2,18 @@
 title: "Unnamed 11"
 date: 2023-03-18
 ---
-**Bands:** [GKRGRBRBBYGKWR](/stripes/gkrgrbrbbygkwr/) · **Stripes:** [G K R G R T R T DB LY G K W R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">G K R G R T R T DB LY G K W R</span></span>
+**Bands:** [RWKGYBBRBRGRKG](/stripes/rwkgybbrbrgrkg/) · **Stripes:** [R W K G LY DB T R T R G R K G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W K G LY DB T R T R G R K G</span></span>
 
 
 This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified #31
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/4 K4 R4 G4 R8 Ba4 R4 Ba12 B10 Y4 G24 K2 LN2 R/24
+R/24 LN2 K2 G24 Y4 B10 Ba12 R4 Ba4 R8 G4 R4 K4 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -908,9 +917,9 @@ The nearest existing variants by ΔTartan distance.
 1. [Wilson's No.132](/setts/s14/r18w2g21y2dp7y5w2y5dp7y2g21w2r18k3~x2/) — ΔT 0.45
 1. [Unidentified #31](/setts/s14/r12w1k1dg12ly2db5t6r2t2r4dg2r2k2dg2~x2/) — ΔT 0.51
 1. [Wilson's No.110](/setts/s16/dp10w3k3g19r14t3k2ly3k2t3r14g19k3w3dp10t3~x2/) — ΔT 0.76
-1. [Wilson's No.121](/setts/s12/t4dp3y1g9lb1r8k1r8lb1g9y1dp3~x4/) — ΔT 0.94
+1. [Wilson's No.121](/setts/s12/t4dp3y1g9lb1r8k1~x4/) — ΔT 0.94
 1. [Angels' Share, The](/setts/s11/o40ly10w6lo10dy6lo4dy6lo4dy60k34t11/) — ΔT 0.95
-1. [Cree (Fashion)](/setts/s13/ly3dy20db2k6ly3k2w3k2g6r6k3r3w3~x2/) — ΔT 0.96
+1. [Cree (Fashion)](/setts/s13/w3r3k3r6g6k2w3k2ly3k6db2dy20ly3~x2/) — ΔT 0.96
 1. [Unidentified Silk scarf](/setts/s10/w3r10dy6ly8t8dg32r8r10r6w3~x4/) — ΔT 1.01
 1. [MacLean of Duart #6](/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x4/) — ΔT 1.01
 1. [Mayo County Crest (Fashion)](/setts/s12/ly9y7db3r28db4y7db5t4db5g7db3w6~x2/) — ΔT 1.03
@@ -918,8 +927,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r18w2g21y2dp7y5w2y5dp7y2g21w2r18k3~x2/"><circle cx="123.0" cy="112.9" r="4" fill="#3465a4"><title>Wilson's No.132</title></circle></a><a href="/setts/s14/r12w1k1dg12ly2db5t6r2t2r4dg2r2k2dg2~x2/"><circle cx="122.1" cy="103.2" r="4" fill="#3465a4"><title>Unidentified #31</title></circle></a><a href="/setts/s16/dp10w3k3g19r14t3k2ly3k2t3r14g19k3w3dp10t3~x2/"><circle cx="77.3" cy="110.6" r="4" fill="#3465a4"><title>Wilson's No.110</title></circle></a><a href="/setts/s12/t4dp3y1g9lb1r8k1r8lb1g9y1dp3~x4/"><circle cx="125.1" cy="137.3" r="4" fill="#3465a4"><title>Wilson's No.121</title></circle></a><a href="/setts/s11/o40ly10w6lo10dy6lo4dy6lo4dy60k34t11/"><circle cx="133.9" cy="90.7" r="4" fill="#3465a4"><title>Angels' Share, The</title></circle></a><a href="/setts/s13/ly3dy20db2k6ly3k2w3k2g6r6k3r3w3~x2/"><circle cx="66.7" cy="98.0" r="4" fill="#3465a4"><title>Cree (Fashion)</title></circle></a><a href="/setts/s10/w3r10dy6ly8t8dg32r8r10r6w3~x4/"><circle cx="93.2" cy="123.1" r="4" fill="#3465a4"><title>Unidentified Silk scarf</title></circle></a><a href="/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x4/"><circle cx="142.7" cy="91.3" r="4" fill="#3465a4"><title>MacLean of Duart #6</title></circle></a><a href="/setts/s12/ly9y7db3r28db4y7db5t4db5g7db3w6~x2/"><circle cx="74.1" cy="113.0" r="4" fill="#3465a4"><title>Mayo County Crest (Fashion)</title></circle></a><a href="/setts/s14/g12b5r2k1r2b5g12ly3r12g2w1g2r12r3~x4/"><circle cx="158.1" cy="125.9" r="4" fill="#3465a4"><title>Hyndman (Personal)</title></circle></a><circle cx="114.4" cy="101.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r18w2g21y2dp7y5w2y5dp7y2g21w2r18k3~x2/"><circle cx="122.9" cy="113.0" r="4" fill="#3465a4"><title>Wilson's No.132</title></circle></a><a href="/setts/s14/r12w1k1dg12ly2db5t6r2t2r4dg2r2k2dg2~x2/"><circle cx="122.0" cy="103.4" r="4" fill="#3465a4"><title>Unidentified #31</title></circle></a><a href="/setts/s16/dp10w3k3g19r14t3k2ly3k2t3r14g19k3w3dp10t3~x2/"><circle cx="77.3" cy="110.8" r="4" fill="#3465a4"><title>Wilson's No.110</title></circle></a><a href="/setts/s12/t4dp3y1g9lb1r8k1~x4/"><circle cx="125.1" cy="137.5" r="4" fill="#3465a4"><title>Wilson's No.121</title></circle></a><a href="/setts/s11/o40ly10w6lo10dy6lo4dy6lo4dy60k34t11/"><circle cx="133.7" cy="90.9" r="4" fill="#3465a4"><title>Angels' Share, The</title></circle></a><a href="/setts/s13/w3r3k3r6g6k2w3k2ly3k6db2dy20ly3~x2/"><circle cx="66.6" cy="98.2" r="4" fill="#3465a4"><title>Cree (Fashion)</title></circle></a><a href="/setts/s10/w3r10dy6ly8t8dg32r8r10r6w3~x4/"><circle cx="93.1" cy="123.3" r="4" fill="#3465a4"><title>Unidentified Silk scarf</title></circle></a><a href="/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x4/"><circle cx="142.6" cy="91.5" r="4" fill="#3465a4"><title>MacLean of Duart #6</title></circle></a><a href="/setts/s12/ly9y7db3r28db4y7db5t4db5g7db3w6~x2/"><circle cx="74.0" cy="113.2" r="4" fill="#3465a4"><title>Mayo County Crest (Fashion)</title></circle></a><a href="/setts/s14/g12b5r2k1r2b5g12ly3r12g2w1g2r12r3~x4/"><circle cx="158.0" cy="126.1" r="4" fill="#3465a4"><title>Hyndman (Personal)</title></circle></a><circle cx="114.2" cy="101.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/r12w1k1g12ly2db5t6r2t2r4g2r2k2g2~x2/

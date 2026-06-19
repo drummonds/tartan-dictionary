@@ -8,7 +8,7 @@ KRKGKYK
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/k5ly1k8dg8k41o1k5~x2/tartan.png)
+![Woven sample](/setts/s7/k5o1k41dg8k8ly1k5~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ KRKGKYK
 
 | Tartans |
 |---------------|
-| [Callaghan](/setts/s7/k5ly1k8dg8k41o1k5~x2/)|
-|![Callaghan example sett](/setts/s7/k5ly1k8dg8k41o1k5~x2/sett.png)|
+| [Callaghan](/setts/s7/k5o1k41dg8k8ly1k5~x2/)|
+|![Callaghan example sett](/setts/s7/k5o1k41dg8k8ly1k5~x2/sett.png)|
 

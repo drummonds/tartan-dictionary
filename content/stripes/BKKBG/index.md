@@ -20,7 +20,7 @@ BKKBG
 
 
 
-### DT K K DT Y <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DT K K DT Y</span></span>
+### Y DT K K DT <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">Y DT K K DT</span></span>
 
 | Tartans |
 |---------------|

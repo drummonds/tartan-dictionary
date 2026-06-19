@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1169
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Ferguson, Plaid
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-R/24 G8 Y24 G8 K12 W12 R/192
+R/192 W12 K12 G8 Y24 G8 R/24
 ![Sett](sett.png)
 
 ## Palette
@@ -908,7 +917,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "R/24 G8 Y24 G8 K12 W12 R/192 tartan")
+![Tartan detail](tartan.png "R/192 W12 K12 G8 Y24 G8 R/24 tartan")
 
 ## Nearest tartans
 
@@ -927,8 +936,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r51lr2k11lo3r11lo3r11g3~x2/"><circle cx="523.5" cy="115.5" r="4" fill="#3465a4"><title>Hackston (Green stripe) (Portrait)</title></circle></a><a href="/setts/s8/r72k6lb2k11ly2db2ly2r18~x2/"><circle cx="552.2" cy="85.0" r="4" fill="#3465a4"><title>Princess Elizabeth (Royal)</title></circle></a><a href="/setts/s8/r100db10w5db14ly4db8ly4r24/"><circle cx="485.3" cy="99.8" r="4" fill="#3465a4"><title>Earl of Inverness (Royal)</title></circle></a><a href="/setts/s8/r56w2k12ly3r12ly3r12g3~x2/"><circle cx="500.1" cy="96.0" r="4" fill="#3465a4"><title>Hackston, or Halkerston</title></circle></a><a href="/setts/s9/r72g6ly2g11b2g2b2r9k2~x2/"><circle cx="533.1" cy="74.3" r="4" fill="#3465a4"><title>Junor</title></circle></a><a href="/setts/s8/r114db10w3db16ly3k3ly3r28~x2/"><circle cx="572.0" cy="83.7" r="4" fill="#3465a4"><title>Inverness #2</title></circle></a><a href="/setts/s8/r36db3w1db6g1k1g1r9~x4/"><circle cx="557.7" cy="92.1" r="4" fill="#3465a4"><title>Inverness - 1829 (District)</title></circle></a><a href="/setts/s6/r65g16r4dp4r4w5~x2/"><circle cx="504.0" cy="149.4" r="4" fill="#3465a4"><title>Howard, Vincent (Personal)</title></circle></a><a href="/setts/s8/r60db8w3db10ly3t4ly3r19~x2/"><circle cx="464.2" cy="114.9" r="4" fill="#3465a4"><title>Princess Elizabeth #2</title></circle></a><a href="/setts/s6/r65dg16r4dp4r4w5~x2/"><circle cx="509.2" cy="152.2" r="4" fill="#3465a4"><title>Howard, Vincent (Personal)</title></circle></a><circle cx="519.6" cy="99.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r51lr2k11lo3r11lo3r11g3~x2/"><circle cx="522.8" cy="115.3" r="4" fill="#3465a4"><title>Hackston (Green stripe) (Portrait)</title></circle></a><a href="/setts/s8/r72k6lb2k11ly2db2ly2r18~x2/"><circle cx="551.5" cy="84.7" r="4" fill="#3465a4"><title>Princess Elizabeth (Royal)</title></circle></a><a href="/setts/s8/r100db10w5db14ly4db8ly4r24/"><circle cx="484.7" cy="99.6" r="4" fill="#3465a4"><title>Earl of Inverness (Royal)</title></circle></a><a href="/setts/s8/r56w2k12ly3r12ly3r12g3~x2/"><circle cx="499.5" cy="95.7" r="4" fill="#3465a4"><title>Hackston, or Halkerston</title></circle></a><a href="/setts/s9/r72g6ly2g11b2g2b2r9k2~x2/"><circle cx="532.4" cy="74.1" r="4" fill="#3465a4"><title>Junor</title></circle></a><a href="/setts/s8/r114db10w3db16ly3k3ly3r28~x2/"><circle cx="571.3" cy="83.5" r="4" fill="#3465a4"><title>Inverness #2</title></circle></a><a href="/setts/s8/r36db3w1db6g1k1g1r9~x4/"><circle cx="557.0" cy="91.9" r="4" fill="#3465a4"><title>Inverness - 1829 (District)</title></circle></a><a href="/setts/s6/r65g16r4dp4r4w5~x2/"><circle cx="503.4" cy="149.2" r="4" fill="#3465a4"><title>Howard, Vincent (Personal)</title></circle></a><a href="/setts/s8/r60db8w3db10ly3t4ly3r19~x2/"><circle cx="463.6" cy="114.7" r="4" fill="#3465a4"><title>Princess Elizabeth #2</title></circle></a><a href="/setts/s6/r65dg16r4dp4r4w5~x2/"><circle cx="508.6" cy="151.9" r="4" fill="#3465a4"><title>Howard, Vincent (Personal)</title></circle></a><circle cx="518.9" cy="98.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r48w3k3g2ly6g2r6~x4/

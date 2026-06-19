@@ -8,7 +8,7 @@ RBKY
 
 It is a 4 band tartan.
 
-![Woven sample](/setts/s4/ly3k50n12r3~x2/tartan.png)
+![Woven sample](/setts/s4/r3n12k50ly3~x2/tartan.png)
 
 
 
@@ -25,8 +25,8 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Rogues (United States), The](/setts/s4/ly3k50n12r3~x2/)|
-|![Rogues (United States), The example sett](/setts/s4/ly3k50n12r3~x2/sett.png)|
+| [Rogues (United States), The](/setts/s4/r3n12k50ly3~x2/)|
+|![Rogues (United States), The example sett](/setts/s4/r3n12k50ly3~x2/sett.png)|
 
 ### R T K LO <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R T K LO</span></span>
 
@@ -39,6 +39,6 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Rogues, The (Corporate)](/setts/s4/ly3k50t12r3~x2/)|
-|![Rogues, The (Corporate) example sett](/setts/s4/ly3k50t12r3~x2/sett.png)|
+| [Rogues, The (Corporate)](/setts/s4/r3t12k50ly3~x2/)|
+|![Rogues, The (Corporate) example sett](/setts/s4/r3t12k50ly3~x2/sett.png)|
 

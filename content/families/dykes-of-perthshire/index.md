@@ -1,8 +1,8 @@
 ---
-title: "Dykes, of Perthshire"
+title: "Dykes of Perthshire"
 date: 2023-03-18
 ---
-A family of [Clan Dykes,](/clan/dykes/).
+A family of [Clan Dykes](/clan/dykes/).
 
 **Trove of Scotland:** [search “Perthshire”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Perthshire&viewmode=grid)
 

@@ -2,12 +2,18 @@
 title: "Dalrymple of Castleton #2"
 date: 2023-03-18
 ---
-**Bands:** [WGRYGWGWGYKYBYRY](/stripes/wgrygwgwgykybyry/) · **Stripes:** [W G R LY G W G W G LY K LY DR LY R LY](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W G R LY G W G W G LY K LY DR LY R LY</span></span>
+**Bands:** [YRYBYKYGWGWGYRGW](/stripes/yrybykygwgwgyrgw/) · **Stripes:** [LY R LY DR LY K LY G W G W G LY R G W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY R LY DR LY K LY G W G W G LY R G W</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5494
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Dalrymple of Castleton #2
 
 ## Attestations
 
@@ -24,7 +30,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7420
 
 ## Thread count
-W/2 G20 R14 Y4 G20 W2 G12 W2 G20 Y4 K28 Y4 DR4 Y4 R30 Y/4
+Y/4 R30 Y4 DR4 Y4 K28 Y4 G20 W2 G12 W2 G20 Y4 R14 G20 W/2
 ![Sett](sett.png)
 
 ## Palette
@@ -56,8 +62,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/r5k3g22k3ly3dp7r7k2dp4w2dp4r7k2r7ly3k3g22k2~x2/"><circle cx="121.6" cy="94.3" r="4" fill="#3465a4"><title>Derbyshire</title></circle></a><a href="/setts/s17/k8w1r2g16r8g8r11ly2g2lo1g2w2r10ly2r2k1w4~x2/"><circle cx="149.7" cy="86.9" r="4" fill="#3465a4"><title>Pernel (Personal)</title></circle></a><a href="/setts/s14/r25w4k4g25ly3k15t13r5t5r15g4r5k2g3~x2/"><circle cx="126.4" cy="112.4" r="4" fill="#3465a4"><title>Wilson's, No 226</title></circle></a><a href="/setts/s12/lr3k15y10o10k1g5k1lo10k10g8k1y2~x2/"><circle cx="110.6" cy="135.5" r="4" fill="#3465a4"><title>Castlefield (Personal)</title></circle></a><a href="/setts/s13/w2lo14ly3k6w2k2w2k2g8lo6k2lo3w1~x2/"><circle cx="166.2" cy="129.9" r="4" fill="#3465a4"><title>O'Farrell (Name)</title></circle></a><a href="/setts/s11/t4r3ly2r9t3g24t3r9k3r3w2~x2/"><circle cx="166.7" cy="118.7" r="4" fill="#3465a4"><title>Wilson's, No 128</title></circle></a><a href="/setts/s11/r8t7k8ly2k1ly1g19k1r8t3r8~x2/"><circle cx="139.4" cy="110.4" r="4" fill="#3465a4"><title>Unnamed No 1</title></circle></a><a href="/setts/s14/y3k3dg2k6y7dg2y3dg2lo3dg5y3b3y20k2~x2/"><circle cx="168.8" cy="128.1" r="4" fill="#3465a4"><title>Stewart Camel Fashion Tartan Tartan Number: 4038. Earliest known date: 01/01/1999 No Details See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/r8t7k8ly2k1w2k1g19k1r8t3r8~x2/"><circle cx="148.7" cy="109.9" r="4" fill="#3465a4"><title>Unnamed No 1 Tartan Tartan Number: 1340. Earliest known date: 1870 This sett is taken from the records of Messrs Bolingbroke and Jones of Norwich, who were weavers around 1870. Some of the tartans have been adopted or modified in recent times as the copyright of the designs is now in the public domain. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/g2lo21do1k5g11do13g2do13g11k5do1lo21g2dy1~x2/"><circle cx="191.7" cy="125.6" r="4" fill="#3465a4"><title>St. Lawrence #2</title></circle></a><circle cx="149.0" cy="106.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/r5k3g22k3ly3dp7r7k2dp4w2dp4r7k2r7ly3k3g22k2~x2/"><circle cx="121.4" cy="94.3" r="4" fill="#3465a4"><title>Derbyshire</title></circle></a><a href="/setts/s17/k8w1r2g16r8g8r11ly2g2lo1g2w2r10ly2r2k1w4~x2/"><circle cx="149.4" cy="86.9" r="4" fill="#3465a4"><title>Pernel (Personal)</title></circle></a><a href="/setts/s14/r25w4k4g25ly3k15t13r5t5r15g4r5k2g3~x2/"><circle cx="126.3" cy="112.5" r="4" fill="#3465a4"><title>Wilson's, No 226</title></circle></a><a href="/setts/s12/lr3k15y10o10k1g5k1lo10k10g8k1y2~x2/"><circle cx="110.6" cy="135.6" r="4" fill="#3465a4"><title>Castlefield (Personal)</title></circle></a><a href="/setts/s13/w2lo14ly3k6w2k2w2k2g8lo6k2lo3w1~x2/"><circle cx="166.0" cy="129.9" r="4" fill="#3465a4"><title>O'Farrell (Name)</title></circle></a><a href="/setts/s11/t4r3ly2r9t3g24t3r9k3r3w2~x2/"><circle cx="166.4" cy="118.8" r="4" fill="#3465a4"><title>Wilson's, No 128</title></circle></a><a href="/setts/s11/r8t7k8ly2k1ly1g19k1r8t3r8~x2/"><circle cx="139.3" cy="110.4" r="4" fill="#3465a4"><title>Unnamed No 1</title></circle></a><a href="/setts/s14/y3k3dg2k6y7dg2y3dg2lo3dg5y3b3y20k2~x2/"><circle cx="168.8" cy="128.2" r="4" fill="#3465a4"><title>Stewart Camel Fashion Tartan Tartan Number: 4038. Earliest known date: 01/01/1999 No Details See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/r8t7k8ly2k1w2k1g19k1r8t3r8~x2/"><circle cx="148.6" cy="110.0" r="4" fill="#3465a4"><title>Unnamed No 1 Tartan Tartan Number: 1340. Earliest known date: 1870 This sett is taken from the records of Messrs Bolingbroke and Jones of Norwich, who were weavers around 1870. Some of the tartans have been adopted or modified in recent times as the copyright of the designs is now in the public domain. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/g2lo21do1k5g11do13g2do13g11k5do1lo21g2dy1~x2/"><circle cx="191.5" cy="125.7" r="4" fill="#3465a4"><title>St. Lawrence #2</title></circle></a><circle cx="148.8" cy="106.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/ly2r15ly2dr2ly2k14ly2g10w1g6w1g10ly2r7g10w1~x2/

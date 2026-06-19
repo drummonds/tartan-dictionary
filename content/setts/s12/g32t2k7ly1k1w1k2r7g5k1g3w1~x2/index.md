@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Royal Stewart,
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,15 +919,15 @@ The nearest existing variants by ΔTartan distance.
 1. [King George VI (Royal)](/setts/s12/g42b3k8ly2k2w3k2g12r5k2r2w2~x2/) — ΔT 1.12
 1. [Seller Clan (Personal)](/setts/s12/g46k3db6ly2db3ly2db3g7r6db2r3w4~x2/) — ΔT 1.21
 1. [Reilly fae the Mearns (Personal)](/setts/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/) — ΔT 1.22
-1. [Hong Kong, University of](/setts/s13/ly2k1r2dg6lg5k1lt5k1dg42k1w2k1w2~x2/) — ΔT 1.32
+1. [Hong Kong, University of](/setts/s13/w2k1w2k1dg42k1lt5k1lg5dg6r2k1ly2~x2/) — ΔT 1.32
 1. [Pellicci, Michael (Personal)](/setts/s9/g60db1lo5k1r15k1w15k1g15~x2/) — ΔT 1.35
 1. [Reilly fae the Mearns](/setts/s14/g2w5dg1k7w1dg2k6dg6g9o1g30ly2g3w2~x2/) — ΔT 1.36
 1. [Sillars (Name)](/setts/s12/g64k4db9ly2db4ly2db4g11r8db2r4w3~x2/) — ΔT 1.37
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/g44db3k8ly2k2w2k2g9r5k2r2w2~x2/"><circle cx="332.0" cy="72.9" r="4" fill="#3465a4"><title>Princess Mary</title></circle></a><a href="/setts/s11/w2k2w2k10lb1dg40w1r4w1dg5r1~x2/"><circle cx="385.6" cy="55.6" r="4" fill="#3465a4"><title>Knox, David Paul (Personal)</title></circle></a><a href="/setts/s12/dg3g2dg40g2dg4g8w1g4dg2lo4ly4w2~x2/"><circle cx="378.3" cy="66.8" r="4" fill="#3465a4"><title>Springbok (Fashion)</title></circle></a><a href="/setts/s12/g42b3k8ly2k2w3k2g12r5k2r2w2~x2/"><circle cx="348.1" cy="89.6" r="4" fill="#3465a4"><title>King George VI (Royal)</title></circle></a><a href="/setts/s12/g46k3db6ly2db3ly2db3g7r6db2r3w4~x2/"><circle cx="328.0" cy="76.5" r="4" fill="#3465a4"><title>Seller Clan (Personal)</title></circle></a><a href="/setts/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/"><circle cx="289.5" cy="75.6" r="4" fill="#3465a4"><title>Reilly fae the Mearns (Personal)</title></circle></a><a href="/setts/s13/ly2k1r2dg6lg5k1lt5k1dg42k1w2k1w2~x2/"><circle cx="379.4" cy="25.9" r="4" fill="#3465a4"><title>Hong Kong, University of</title></circle></a><a href="/setts/s9/g60db1lo5k1r15k1w15k1g15~x2/"><circle cx="383.6" cy="65.9" r="4" fill="#3465a4"><title>Pellicci, Michael (Personal)</title></circle></a><a href="/setts/s14/g2w5dg1k7w1dg2k6dg6g9o1g30ly2g3w2~x2/"><circle cx="281.0" cy="65.2" r="4" fill="#3465a4"><title>Reilly fae the Mearns</title></circle></a><a href="/setts/s12/g64k4db9ly2db4ly2db4g11r8db2r4w3~x2/"><circle cx="385.0" cy="72.8" r="4" fill="#3465a4"><title>Sillars (Name)</title></circle></a><circle cx="344.6" cy="62.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/g44db3k8ly2k2w2k2g9r5k2r2w2~x2/"><circle cx="331.8" cy="72.8" r="4" fill="#3465a4"><title>Princess Mary</title></circle></a><a href="/setts/s11/w2k2w2k10lb1dg40w1r4w1dg5r1~x2/"><circle cx="385.3" cy="55.4" r="4" fill="#3465a4"><title>Knox, David Paul (Personal)</title></circle></a><a href="/setts/s12/dg3g2dg40g2dg4g8w1g4dg2lo4ly4w2~x2/"><circle cx="378.0" cy="66.7" r="4" fill="#3465a4"><title>Springbok (Fashion)</title></circle></a><a href="/setts/s12/g42b3k8ly2k2w3k2g12r5k2r2w2~x2/"><circle cx="347.8" cy="89.5" r="4" fill="#3465a4"><title>King George VI (Royal)</title></circle></a><a href="/setts/s12/g46k3db6ly2db3ly2db3g7r6db2r3w4~x2/"><circle cx="327.7" cy="76.4" r="4" fill="#3465a4"><title>Seller Clan (Personal)</title></circle></a><a href="/setts/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/"><circle cx="289.3" cy="75.6" r="4" fill="#3465a4"><title>Reilly fae the Mearns (Personal)</title></circle></a><a href="/setts/s13/w2k1w2k1dg42k1lt5k1lg5dg6r2k1ly2~x2/"><circle cx="379.0" cy="25.8" r="4" fill="#3465a4"><title>Hong Kong, University of</title></circle></a><a href="/setts/s9/g60db1lo5k1r15k1w15k1g15~x2/"><circle cx="383.2" cy="65.7" r="4" fill="#3465a4"><title>Pellicci, Michael (Personal)</title></circle></a><a href="/setts/s14/g2w5dg1k7w1dg2k6dg6g9o1g30ly2g3w2~x2/"><circle cx="280.7" cy="65.1" r="4" fill="#3465a4"><title>Reilly fae the Mearns</title></circle></a><a href="/setts/s12/g64k4db9ly2db4ly2db4g11r8db2r4w3~x2/"><circle cx="384.7" cy="72.8" r="4" fill="#3465a4"><title>Sillars (Name)</title></circle></a><circle cx="344.3" cy="62.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/g32t2k7ly1k1w1k2r7g5k1g3w1~x2/

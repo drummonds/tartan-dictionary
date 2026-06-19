@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -907,7 +910,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Crane of Cluny Dress (Personal)](/setts/s8/w83k6w3k9r2k5w2ly2~x2/) — ΔT 1.32
+1. [Crane of Cluny Dress (Personal)](/setts/s8/w83k6w3k9r2k5w2ly2~x2/) — ΔT 1.31
 1. [Unnamed C18th - Blanket Pattern](/setts/s9/w120k2db4g3w2k2r8w2r3~x2/) — ΔT 1.65
 1. [Whisky Kilt (Fashion)](/setts/s7/w168r2w2lo2w2lo3g26~x2/) — ΔT 1.66
 1. [Old England House Check](/setts/s12/w46o9w4k8w9r4w9dy2w2dy2w2dy1~x2/) — ΔT 1.91
@@ -915,13 +918,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Young, Christina](/setts/s6/w54k7r7lo6ly4r1~x2/) — ΔT 2.07
 1. [Wilson's Blanket Sett - Border](/setts/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/) — ΔT 2.11
 1. [Old England House Check](/setts/s12/w46lr4w9k8w9r4w9do2w2do2w2do2~x2/) — ΔT 2.15
-1. [Summer Spirit (Fashion)](/setts/s8/ly2k1w9k8w28k2w2r2~x2/) — ΔT 2.15
+1. [Summer Spirit (Fashion)](/setts/s8/r2w2k2w28k8w9k1ly2~x2/) — ΔT 2.15
 1. [MacDonald from Rawtenstall (Personal)](/setts/s8/lb7w2m7w4lb50w2k2r2~x2/) — ΔT 2.16
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w83k6w3k9r2k5w2ly2~x2/"><circle cx="507.8" cy="59.8" r="4" fill="#3465a4"><title>Crane of Cluny Dress (Personal)</title></circle></a><a href="/setts/s9/w120k2db4g3w2k2r8w2r3~x2/"><circle cx="588.3" cy="33.2" r="4" fill="#3465a4"><title>Unnamed C18th - Blanket Pattern</title></circle></a><a href="/setts/s7/w168r2w2lo2w2lo3g26~x2/"><circle cx="599.4" cy="65.3" r="4" fill="#3465a4"><title>Whisky Kilt (Fashion)</title></circle></a><a href="/setts/s12/w46o9w4k8w9r4w9dy2w2dy2w2dy1~x2/"><circle cx="440.6" cy="49.1" r="4" fill="#3465a4"><title>Old England House Check</title></circle></a><a href="/setts/s6/lr10k2w5k4lr50b2~x2/"><circle cx="552.8" cy="139.2" r="4" fill="#3465a4"><title>London Fog Safari (Fashion)</title></circle></a><a href="/setts/s6/w54k7r7lo6ly4r1~x2/"><circle cx="416.8" cy="72.4" r="4" fill="#3465a4"><title>Young, Christina</title></circle></a><a href="/setts/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/"><circle cx="507.6" cy="63.2" r="4" fill="#3465a4"><title>Wilson's Blanket Sett - Border</title></circle></a><a href="/setts/s12/w46lr4w9k8w9r4w9do2w2do2w2do2~x2/"><circle cx="440.4" cy="68.8" r="4" fill="#3465a4"><title>Old England House Check</title></circle></a><a href="/setts/s8/ly2k1w9k8w28k2w2r2~x2/"><circle cx="415.0" cy="97.5" r="4" fill="#3465a4"><title>Summer Spirit (Fashion)</title></circle></a><a href="/setts/s8/lb7w2m7w4lb50w2k2r2~x2/"><circle cx="471.6" cy="99.3" r="4" fill="#3465a4"><title>MacDonald from Rawtenstall (Personal)</title></circle></a><circle cx="532.5" cy="63.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w83k6w3k9r2k5w2ly2~x2/"><circle cx="506.9" cy="59.3" r="4" fill="#3465a4"><title>Crane of Cluny Dress (Personal)</title></circle></a><a href="/setts/s9/w120k2db4g3w2k2r8w2r3~x2/"><circle cx="587.3" cy="32.7" r="4" fill="#3465a4"><title>Unnamed C18th - Blanket Pattern</title></circle></a><a href="/setts/s7/w168r2w2lo2w2lo3g26~x2/"><circle cx="598.5" cy="64.9" r="4" fill="#3465a4"><title>Whisky Kilt (Fashion)</title></circle></a><a href="/setts/s12/w46o9w4k8w9r4w9dy2w2dy2w2dy1~x2/"><circle cx="439.8" cy="48.8" r="4" fill="#3465a4"><title>Old England House Check</title></circle></a><a href="/setts/s6/lr10k2w5k4lr50b2~x2/"><circle cx="552.1" cy="138.8" r="4" fill="#3465a4"><title>London Fog Safari (Fashion)</title></circle></a><a href="/setts/s6/w54k7r7lo6ly4r1~x2/"><circle cx="416.1" cy="72.1" r="4" fill="#3465a4"><title>Young, Christina</title></circle></a><a href="/setts/s13/w100r14w13g13w13k1r14k1w13g13w13r12w100~x2/"><circle cx="506.7" cy="62.8" r="4" fill="#3465a4"><title>Wilson's Blanket Sett - Border</title></circle></a><a href="/setts/s12/w46lr4w9k8w9r4w9do2w2do2w2do2~x2/"><circle cx="439.6" cy="68.4" r="4" fill="#3465a4"><title>Old England House Check</title></circle></a><a href="/setts/s8/r2w2k2w28k8w9k1ly2~x2/"><circle cx="414.3" cy="97.1" r="4" fill="#3465a4"><title>Summer Spirit (Fashion)</title></circle></a><a href="/setts/s8/lb7w2m7w4lb50w2k2r2~x2/"><circle cx="470.9" cy="99.0" r="4" fill="#3465a4"><title>MacDonald from Rawtenstall (Personal)</title></circle></a><circle cx="531.6" cy="63.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/w162k10dp10lo9y6dp3/

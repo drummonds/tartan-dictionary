@@ -8,7 +8,7 @@ RKW
 
 It is a 3 band tartan.
 
-![Woven sample](/setts/s3/lb13k1r13~x4/tartan.png)
+![Woven sample](/setts/s3/r13k1lb13~x4/tartan.png)
 
 
 
@@ -25,8 +25,8 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Hose (Dunmore)](/setts/s3/lb13k1r13~x4/)|
-|![Hose (Dunmore) example sett](/setts/s3/lb13k1r13~x4/sett.png)|
+| [Hose (Dunmore)](/setts/s3/r13k1lb13~x4/)|
+|![Hose (Dunmore) example sett](/setts/s3/r13k1lb13~x4/sett.png)|
 
 ### R K W <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R K W</span></span>
 

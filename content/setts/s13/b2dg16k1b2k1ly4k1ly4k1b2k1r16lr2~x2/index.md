@@ -2,12 +2,19 @@
 title: "Buchanan D"
 date: 2023-03-18
 ---
-**Bands:** [BGKBKYKYKBKRY](/stripes/bgkbkykykbkry/) · **Stripes:** [B DG K B K LY K LY K B K R LR](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">B DG K B K LY K LY K B K R LR</span></span>
+**Bands:** [YRKBKYKYKBKGB](/stripes/yrkbkykykbkgb/) · **Stripes:** [LR R K B K LY K LY K B K DG B](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LR R K B K LY K LY K B K DG B</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Buchanan D (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Buchanan D (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Register references
 
@@ -52,15 +59,8 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
 
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Buchanan D](/setts/s13/b2dg16k1b2k1ly4k1ly4k1b2k1r16lr2/)
-
-
 ## Thread count
-B/4 DG32 K2 B4 K2 LG8 K2 LG8 K2 B4 K2 DR32 N/4
+N/4 DR32 K2 B4 K2 LG8 K2 LG8 K2 B4 K2 DG32 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -79,7 +79,6 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Buchanan D](/setts/s13/b2dg16k1b2k1ly4k1ly4k1b2k1r16lr2/) — ΔT 0.00
 1. [Baxter](/setts/s13/b2g16k1b2k1lo4k1lo4k1b2k1r16w2~x4/) — ΔT 0.46
 1. [Baxter (Clan)](/setts/s11/lb2r16k1t2k1lo4k1t2k1g16t1~x4/) — ΔT 0.70
 1. [Buchanan (Logan)](/setts/s13/t2dg16k1t2k1ly4k1ly4k1t2k1r16w2~x4/) — ΔT 0.72
@@ -89,11 +88,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Buchanan #3](/setts/s13/t2dg12k1t2k1ly3k1ly3k1t2k1r12w2~x2/) — ΔT 0.94
 1. [MacCullough Family Tartan Tartan Number: 3214. Earliest known date: 2000 I would like to let you know that working with Peter MacDonald, he designed a tartan for me that was registered with the Scottish Tartan Authority on 5 December 2000 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/o5k3w2r20db10g2w1r1g20k4o3~x2/) — ΔT 0.94
 1. [Buchanan](/setts/s13/w2r16k1t2k1ly4k1ly4k1t2k1g16t1~x4/) — ΔT 0.95
+1. [Olympic](/setts/s13/db2g6db27r2k2w2db2r24g23db2r2k2ly2~x2/) — ΔT 0.95
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/b2dg16k1b2k1ly4k1ly4k1b2k1r16lr2/"><circle cx="135.5" cy="87.7" r="4" fill="#3465a4"><title>Buchanan D</title></circle></a><a href="/setts/s13/b2g16k1b2k1lo4k1lo4k1b2k1r16w2~x4/"><circle cx="135.2" cy="88.0" r="4" fill="#3465a4"><title>Baxter</title></circle></a><a href="/setts/s11/lb2r16k1t2k1lo4k1t2k1g16t1~x4/"><circle cx="165.4" cy="94.3" r="4" fill="#3465a4"><title>Baxter (Clan)</title></circle></a><a href="/setts/s13/t2dg16k1t2k1ly4k1ly4k1t2k1r16w2~x4/"><circle cx="126.0" cy="76.8" r="4" fill="#3465a4"><title>Buchanan (Logan)</title></circle></a><a href="/setts/s13/t3dg31k2t4k2ly8k2ly8k2t4k2r31w3~x2/"><circle cx="130.8" cy="78.8" r="4" fill="#3465a4"><title>Buchanan #2</title></circle></a><a href="/setts/s13/dg1r16w1db2w2k4w2k4w2db2w1dg16t1~x4/"><circle cx="118.2" cy="75.1" r="4" fill="#3465a4"><title>Gibbs/Gibson</title></circle></a><a href="/setts/s13/r2dt18ly4k5ly1k1w1k2g8r6k1r3w1~x4/"><circle cx="124.6" cy="84.8" r="4" fill="#3465a4"><title>Beaton (Name)</title></circle></a><a href="/setts/s13/t2dg12k1t2k1ly3k1ly3k1t2k1r12w2~x2/"><circle cx="94.9" cy="95.5" r="4" fill="#3465a4"><title>Buchanan #3</title></circle></a><a href="/setts/s11/o5k3w2r20db10g2w1r1g20k4o3~x2/"><circle cx="150.6" cy="103.6" r="4" fill="#3465a4"><title>MacCullough Family Tartan Tartan Number: 3214. Earliest known date: 2000 I would like to let you know that working with Peter MacDonald, he designed a tartan for me that was registered with the Scottish Tartan Authority on 5 December 2000 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/w2r16k1t2k1ly4k1ly4k1t2k1g16t1~x4/"><circle cx="137.7" cy="78.9" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><circle cx="135.5" cy="87.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/b2g16k1b2k1lo4k1lo4k1b2k1r16w2~x4/"><circle cx="135.0" cy="88.1" r="4" fill="#3465a4"><title>Baxter</title></circle></a><a href="/setts/s11/lb2r16k1t2k1lo4k1t2k1g16t1~x4/"><circle cx="165.2" cy="94.4" r="4" fill="#3465a4"><title>Baxter (Clan)</title></circle></a><a href="/setts/s13/t2dg16k1t2k1ly4k1ly4k1t2k1r16w2~x4/"><circle cx="125.8" cy="76.9" r="4" fill="#3465a4"><title>Buchanan (Logan)</title></circle></a><a href="/setts/s13/t3dg31k2t4k2ly8k2ly8k2t4k2r31w3~x2/"><circle cx="130.5" cy="79.0" r="4" fill="#3465a4"><title>Buchanan #2</title></circle></a><a href="/setts/s13/dg1r16w1db2w2k4w2k4w2db2w1dg16t1~x4/"><circle cx="118.1" cy="75.2" r="4" fill="#3465a4"><title>Gibbs/Gibson</title></circle></a><a href="/setts/s13/r2dt18ly4k5ly1k1w1k2g8r6k1r3w1~x4/"><circle cx="124.5" cy="84.9" r="4" fill="#3465a4"><title>Beaton (Name)</title></circle></a><a href="/setts/s13/t2dg12k1t2k1ly3k1ly3k1t2k1r12w2~x2/"><circle cx="94.7" cy="95.6" r="4" fill="#3465a4"><title>Buchanan #3</title></circle></a><a href="/setts/s11/o5k3w2r20db10g2w1r1g20k4o3~x2/"><circle cx="150.5" cy="103.8" r="4" fill="#3465a4"><title>MacCullough Family Tartan Tartan Number: 3214. Earliest known date: 2000 I would like to let you know that working with Peter MacDonald, he designed a tartan for me that was registered with the Scottish Tartan Authority on 5 December 2000 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/w2r16k1t2k1ly4k1ly4k1t2k1g16t1~x4/"><circle cx="137.4" cy="79.0" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/setts/s13/db2g6db27r2k2w2db2r24g23db2r2k2ly2~x2/"><circle cx="166.7" cy="100.7" r="4" fill="#3465a4"><title>Olympic</title></circle></a><circle cx="135.4" cy="87.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/b2dg16k1b2k1ly4k1ly4k1b2k1r16lr2~x2/

@@ -20,7 +20,7 @@ BYRBKR
 
 
 
-### DT LR O N K O <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DT LR O N K O</span></span>
+### O K N O LR DT <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="seq">O K N O LR DT</span></span>
 
 | Tartans |
 |---------------|

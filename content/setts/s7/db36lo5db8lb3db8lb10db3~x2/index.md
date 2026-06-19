@@ -2,15 +2,21 @@
 title: "Scottish Qualifications Auth. (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBYB](/stripes/bwbwbyb/) · **Stripes:** [DB LB DB LB DB LO DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="seq">DB LB DB LB DB LO DB</span></span>
+**Bands:** [BYBWBWB](/stripes/bybwbwb/) · **Stripes:** [DB LO DB LB DB LB DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="seq">DB LO DB LB DB LB DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2442/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Scottish Qualifications Auth.
+
 ## Thread count
-DB/6 N20 DB16 N6 DB16 O10 DB/72
+DB/72 O10 DB16 N6 DB16 N20 DB/6
 ![Sett](sett.png)
 
 ## Palette
@@ -24,14 +30,14 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/6 N20 DB16 N6 DB16 O10 DB/72 tartan")
+![Tartan detail](tartan.png "DB/72 O10 DB16 N6 DB16 N20 DB/6 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Tokyo Bluebells](/setts/s8/db18r1db1r1db1k7db13w2~x4/) — ΔT 1.24
-1. [South Australian Pipes & Drums (Corp](/setts/s6/db60ly6db11r25db11ly6~x2/) — ΔT 1.34
+1. [South Australian Pipes & Drums (Corp](/setts/s6/db60ly6db11r25~x2/) — ΔT 1.34
 1. [Nike ACG Lunarstorm (Fashion)](/setts/s7/db8r2db18r1db2w10db4~x2/) — ΔT 1.39
 1. [Ochterlonie](/setts/s6/db35lr8db21lr13db6lo4~x2/) — ΔT 1.42
 1. [Ikelman (Personal)](/setts/s10/db16w2db2w1db1w1db2w2db16w8~x4/) — ΔT 1.46
@@ -43,8 +49,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="460.6" cy="168.8" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><a href="/setts/s6/db60ly6db11r25db11ly6~x2/"><circle cx="410.6" cy="215.1" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><a href="/setts/s7/db8r2db18r1db2w10db4~x2/"><circle cx="409.5" cy="183.9" r="4" fill="#3465a4"><title>Nike ACG Lunarstorm (Fashion)</title></circle></a><a href="/setts/s6/db35lr8db21lr13db6lo4~x2/"><circle cx="388.0" cy="239.2" r="4" fill="#3465a4"><title>Ochterlonie</title></circle></a><a href="/setts/s10/db16w2db2w1db1w1db2w2db16w8~x4/"><circle cx="451.7" cy="175.4" r="4" fill="#3465a4"><title>Ikelman (Personal)</title></circle></a><a href="/setts/s7/db12w1r3w1r3w1db6~x4/"><circle cx="395.8" cy="206.5" r="4" fill="#3465a4"><title>BC Corps of Commissionaires</title></circle></a><a href="/setts/s6/db40g7ly3g7db15r5~x2/"><circle cx="428.2" cy="202.0" r="4" fill="#3465a4"><title>Wheadon (Name)</title></circle></a><a href="/setts/s7/db12lb1r3lb1r3lb1db6~x4/"><circle cx="406.7" cy="208.6" r="4" fill="#3465a4"><title>BC Corps of Commissionaires, The</title></circle></a><a href="/setts/s6/db40w8db25w14db8ly4~x2/"><circle cx="397.8" cy="222.8" r="4" fill="#3465a4"><title>Auchterlonie (Personal)</title></circle></a><a href="/setts/s5/db13lb3db1r3lb1~x6/"><circle cx="395.5" cy="201.2" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><circle cx="454.3" cy="202.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="460.5" cy="168.5" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><a href="/setts/s6/db60ly6db11r25~x2/"><circle cx="410.4" cy="214.8" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><a href="/setts/s7/db8r2db18r1db2w10db4~x2/"><circle cx="409.3" cy="183.5" r="4" fill="#3465a4"><title>Nike ACG Lunarstorm (Fashion)</title></circle></a><a href="/setts/s6/db35lr8db21lr13db6lo4~x2/"><circle cx="388.0" cy="238.8" r="4" fill="#3465a4"><title>Ochterlonie</title></circle></a><a href="/setts/s10/db16w2db2w1db1w1db2w2db16w8~x4/"><circle cx="451.4" cy="175.0" r="4" fill="#3465a4"><title>Ikelman (Personal)</title></circle></a><a href="/setts/s7/db12w1r3w1r3w1db6~x4/"><circle cx="395.7" cy="206.2" r="4" fill="#3465a4"><title>BC Corps of Commissionaires</title></circle></a><a href="/setts/s6/db40g7ly3g7db15r5~x2/"><circle cx="428.1" cy="201.7" r="4" fill="#3465a4"><title>Wheadon (Name)</title></circle></a><a href="/setts/s7/db12lb1r3lb1r3lb1db6~x4/"><circle cx="406.5" cy="208.3" r="4" fill="#3465a4"><title>BC Corps of Commissionaires, The</title></circle></a><a href="/setts/s6/db40w8db25w14db8ly4~x2/"><circle cx="397.7" cy="222.3" r="4" fill="#3465a4"><title>Auchterlonie (Personal)</title></circle></a><a href="/setts/s5/db13lb3db1r3lb1~x6/"><circle cx="395.4" cy="200.9" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><circle cx="454.1" cy="201.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/db36lo5db8lb3db8lb10db3~x2/

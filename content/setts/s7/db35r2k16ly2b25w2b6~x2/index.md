@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4224
 
+## Also known as
+
+This cloth is also recorded under:
+
+- US Forces Regimental
+- Unidentified #23
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +902,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/12 LN4 B50 Y4 K32 R4 DB/70
+DB/70 R4 K32 Y4 B50 LN4 B/12
 ![Sett](sett.png)
 
 ## Palette
@@ -909,27 +919,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/12 LN4 B50 Y4 K32 R4 DB/70 tartan")
+![Tartan detail](tartan.png "DB/70 R4 K32 Y4 B50 LN4 B/12 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [US Forces (Thurso) Regimental Tartan Tartan Number: 549. Earliest known date: 1986 Originally listed as MacNeil, this sett was identified by Ken Dalgliesh, weaver in Selkirk, in 1999. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/db35r2k16ly2t25w2t6~x2/) — ΔT 0.84
-1. [Arundel County (Dalgleish)](/setts/s8/g2k3db16k4lo1k4t5r2~x4/) — ΔT 1.16
+1. [Arundel County (Dalgleish)](/setts/s8/r2t5k4lo1k4db16k3g2~x4/) — ΔT 1.16
 1. [US Air Force Reserve Pipe Band Military Tartan Tartan Number: 2437. Earliest known date: 01/01/1988 One of a series of US Military tartans woven exclusively by the Strathmore Woollen Company of Forfar and adopted by the Band of the Air Force Reserve, Georgia, USA in the early 1990s. Although this has no official US Military recognition, it has been widely accepted by US servicemen and their families with Air Force connections as a representative design. Originally called 'Lady Jane of St Cirus', the design was shown to members of the pipe band who liked it sufficiently to adopt it (with Strathmore's agreement). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/db44k3k20r3db8lg34db3db2lg15~x2/) — ΔT 1.16
 1. [US Air Force Reserve Pipe Band](/setts/s9/db44lo3k20r3db8lg34db3db2lg15~x2/) — ΔT 1.19
 1. [Wrens](/setts/s9/b16ly3b8db12b1db6k32r1w2~x2/) — ΔT 1.22
 1. [Oren Peterson](/setts/s6/m1g2t10r1db15w1~x4/) — ΔT 1.23
 1. [Banff and Buchan](/setts/s8/k17lb2k3db16t28db2t3lo2~x2/) — ΔT 1.25
 1. [Banff, and Buchan](/setts/s8/db26w2db3db15t26db2t3ly4~x2/) — ΔT 1.27
-1. [Mina Perhonen](/setts/s7/ly4k4t5n24ly2k24w4~x2/) — ΔT 1.31
+1. [Mina Perhonen](/setts/s7/w4k24ly2n24t5k4ly4~x2/) — ΔT 1.31
 1. [Unidentified (Woven sample)](/setts/s8/k16w6k4b64m19k8g42ly6/) — ΔT 1.35
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db35r2k16ly2t25w2t6~x2/"><circle cx="198.8" cy="146.6" r="4" fill="#3465a4"><title>US Forces (Thurso) Regimental Tartan Tartan Number: 549. Earliest known date: 1986 Originally listed as MacNeil, this sett was identified by Ken Dalgliesh, weaver in Selkirk, in 1999. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/g2k3db16k4lo1k4t5r2~x4/"><circle cx="184.6" cy="142.7" r="4" fill="#3465a4"><title>Arundel County (Dalgleish)</title></circle></a><a href="/setts/s9/db44k3k20r3db8lg34db3db2lg15~x2/"><circle cx="230.6" cy="139.1" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band Military Tartan Tartan Number: 2437. Earliest known date: 01/01/1988 One of a series of US Military tartans woven exclusively by the Strathmore Woollen Company of Forfar and adopted by the Band of the Air Force Reserve, Georgia, USA in the early 1990s. Although this has no official US Military recognition, it has been widely accepted by US servicemen and their families with Air Force connections as a representative design. Originally called 'Lady Jane of St Cirus', the design was shown to members of the pipe band who liked it sufficiently to adopt it (with Strathmore's agreement). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db44lo3k20r3db8lg34db3db2lg15~x2/"><circle cx="231.1" cy="138.5" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band</title></circle></a><a href="/setts/s9/b16ly3b8db12b1db6k32r1w2~x2/"><circle cx="202.2" cy="100.0" r="4" fill="#3465a4"><title>Wrens</title></circle></a><a href="/setts/s6/m1g2t10r1db15w1~x4/"><circle cx="246.2" cy="144.0" r="4" fill="#3465a4"><title>Oren Peterson</title></circle></a><a href="/setts/s8/k17lb2k3db16t28db2t3lo2~x2/"><circle cx="199.3" cy="156.4" r="4" fill="#3465a4"><title>Banff and Buchan</title></circle></a><a href="/setts/s8/db26w2db3db15t26db2t3ly4~x2/"><circle cx="182.1" cy="164.4" r="4" fill="#3465a4"><title>Banff, and Buchan</title></circle></a><a href="/setts/s7/ly4k4t5n24ly2k24w4~x2/"><circle cx="187.4" cy="168.4" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/setts/s8/k16w6k4b64m19k8g42ly6/"><circle cx="161.8" cy="135.5" r="4" fill="#3465a4"><title>Unidentified (Woven sample)</title></circle></a><circle cx="177.8" cy="138.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db35r2k16ly2t25w2t6~x2/"><circle cx="198.9" cy="146.7" r="4" fill="#3465a4"><title>US Forces (Thurso) Regimental Tartan Tartan Number: 549. Earliest known date: 1986 Originally listed as MacNeil, this sett was identified by Ken Dalgliesh, weaver in Selkirk, in 1999. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r2t5k4lo1k4db16k3g2~x4/"><circle cx="184.9" cy="142.7" r="4" fill="#3465a4"><title>Arundel County (Dalgleish)</title></circle></a><a href="/setts/s9/db44k3k20r3db8lg34db3db2lg15~x2/"><circle cx="230.7" cy="139.1" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band Military Tartan Tartan Number: 2437. Earliest known date: 01/01/1988 One of a series of US Military tartans woven exclusively by the Strathmore Woollen Company of Forfar and adopted by the Band of the Air Force Reserve, Georgia, USA in the early 1990s. Although this has no official US Military recognition, it has been widely accepted by US servicemen and their families with Air Force connections as a representative design. Originally called 'Lady Jane of St Cirus', the design was shown to members of the pipe band who liked it sufficiently to adopt it (with Strathmore's agreement). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db44lo3k20r3db8lg34db3db2lg15~x2/"><circle cx="231.2" cy="138.4" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band</title></circle></a><a href="/setts/s9/b16ly3b8db12b1db6k32r1w2~x2/"><circle cx="202.3" cy="100.1" r="4" fill="#3465a4"><title>Wrens</title></circle></a><a href="/setts/s6/m1g2t10r1db15w1~x4/"><circle cx="246.2" cy="144.0" r="4" fill="#3465a4"><title>Oren Peterson</title></circle></a><a href="/setts/s8/k17lb2k3db16t28db2t3lo2~x2/"><circle cx="199.5" cy="156.4" r="4" fill="#3465a4"><title>Banff and Buchan</title></circle></a><a href="/setts/s8/db26w2db3db15t26db2t3ly4~x2/"><circle cx="182.2" cy="164.4" r="4" fill="#3465a4"><title>Banff, and Buchan</title></circle></a><a href="/setts/s7/w4k24ly2n24t5k4ly4~x2/"><circle cx="187.5" cy="168.3" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/setts/s8/k16w6k4b64m19k8g42ly6/"><circle cx="161.8" cy="135.5" r="4" fill="#3465a4"><title>Unidentified (Woven sample)</title></circle></a><circle cx="177.9" cy="138.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/db35r2k16ly2b25w2b6~x2/

@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/10178/
 
 ## Thread count
-DY/4 G4 DY2 G20 K12 LN2 R28 K2 R28 LN2 B12 K/4
+K/4 B12 LN2 R28 K2 R28 LN2 K12 G20 DY2 G4 DY/4
 ![Sett](sett.png)
 
 ## Palette
@@ -33,17 +33,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Peacock (Personal)](/setts/s13/w2k1b2lb1dg4r1dg4r3k3r12lb1r2k1~x4/) — ΔT 0.57
 1. [Innes (D C Stewart)](/setts/s16/k2g12r2k2r2k2r16ly2r3db6r3k1g8k1r3w2~x2/) — ΔT 0.78
 1. [Maclean of Duart (Wilsons) (Clan)](/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/) — ΔT 0.83
-1. [Round Table Sweden](/setts/s8/ly3dt6r30w2dt6g4lo15r3~x2/) — ΔT 0.94
+1. [Round Table Sweden](/setts/s8/r3lo15g4dt6w2r30dt6ly3~x2/) — ΔT 0.94
 1. [Harden (Name)](/setts/s13/k2r14t8k9ly1k2w2k2g10r15k4r12w2~x2/) — ΔT 0.95
 1. [Stewart - Pr Ch Ed (Royal)](/setts/s12/r14lg4dt6ly1dt2w2dt2lg12r6dt2r2w1~x4/) — ΔT 0.95
-1. [Hello Kitty Red](/setts/s10/ly2r3dy3r21b3r2dy6k6dy4w2~x2/) — ΔT 0.95
+1. [Hello Kitty Red](/setts/s10/w2dy4k6dy6r2b3r21dy3r3ly2~x2/) — ΔT 0.95
 1. [Caledonia](/setts/s14/r21t9k2t2k2t9k18ly3g21r13k3r13w2r13~x2/) — ΔT 0.95
 1. [Drummond - 1739 Lord John (Artefact)](/setts/s14/k20r6k4r6dg15w2y5w2dg15r30k4r5lb2r6~x2/) — ΔT 0.98
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k2t6w1r14k1r14w1k6dg10lo1dg2lo2~x2/"><circle cx="202.2" cy="112.9" r="4" fill="#3465a4"><title>Ogg of Tarragann</title></circle></a><a href="/setts/s13/w2k1b2lb1dg4r1dg4r3k3r12lb1r2k1~x4/"><circle cx="200.9" cy="106.0" r="4" fill="#3465a4"><title>Peacock (Personal)</title></circle></a><a href="/setts/s16/k2g12r2k2r2k2r16ly2r3db6r3k1g8k1r3w2~x2/"><circle cx="190.7" cy="94.9" r="4" fill="#3465a4"><title>Innes (D C Stewart)</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/"><circle cx="178.8" cy="101.3" r="4" fill="#3465a4"><title>Maclean of Duart (Wilsons) (Clan)</title></circle></a><a href="/setts/s8/ly3dt6r30w2dt6g4lo15r3~x2/"><circle cx="230.5" cy="120.1" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/setts/s13/k2r14t8k9ly1k2w2k2g10r15k4r12w2~x2/"><circle cx="198.4" cy="116.5" r="4" fill="#3465a4"><title>Harden (Name)</title></circle></a><a href="/setts/s12/r14lg4dt6ly1dt2w2dt2lg12r6dt2r2w1~x4/"><circle cx="156.6" cy="102.7" r="4" fill="#3465a4"><title>Stewart - Pr Ch Ed (Royal)</title></circle></a><a href="/setts/s10/ly2r3dy3r21b3r2dy6k6dy4w2~x2/"><circle cx="216.5" cy="119.5" r="4" fill="#3465a4"><title>Hello Kitty Red</title></circle></a><a href="/setts/s14/r21t9k2t2k2t9k18ly3g21r13k3r13w2r13~x2/"><circle cx="166.0" cy="133.1" r="4" fill="#3465a4"><title>Caledonia</title></circle></a><a href="/setts/s14/k20r6k4r6dg15w2y5w2dg15r30k4r5lb2r6~x2/"><circle cx="180.0" cy="106.8" r="4" fill="#3465a4"><title>Drummond - 1739 Lord John (Artefact)</title></circle></a><circle cx="203.6" cy="112.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k2t6w1r14k1r14w1k6dg10lo1dg2lo2~x2/"><circle cx="201.9" cy="113.0" r="4" fill="#3465a4"><title>Ogg of Tarragann</title></circle></a><a href="/setts/s13/w2k1b2lb1dg4r1dg4r3k3r12lb1r2k1~x4/"><circle cx="200.6" cy="106.1" r="4" fill="#3465a4"><title>Peacock (Personal)</title></circle></a><a href="/setts/s16/k2g12r2k2r2k2r16ly2r3db6r3k1g8k1r3w2~x2/"><circle cx="190.5" cy="95.0" r="4" fill="#3465a4"><title>Innes (D C Stewart)</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/"><circle cx="178.6" cy="101.4" r="4" fill="#3465a4"><title>Maclean of Duart (Wilsons) (Clan)</title></circle></a><a href="/setts/s8/r3lo15g4dt6w2r30dt6ly3~x2/"><circle cx="230.2" cy="120.1" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/setts/s13/k2r14t8k9ly1k2w2k2g10r15k4r12w2~x2/"><circle cx="198.2" cy="116.5" r="4" fill="#3465a4"><title>Harden (Name)</title></circle></a><a href="/setts/s12/r14lg4dt6ly1dt2w2dt2lg12r6dt2r2w1~x4/"><circle cx="156.3" cy="102.8" r="4" fill="#3465a4"><title>Stewart - Pr Ch Ed (Royal)</title></circle></a><a href="/setts/s10/w2dy4k6dy6r2b3r21dy3r3ly2~x2/"><circle cx="216.3" cy="119.5" r="4" fill="#3465a4"><title>Hello Kitty Red</title></circle></a><a href="/setts/s14/r21t9k2t2k2t9k18ly3g21r13k3r13w2r13~x2/"><circle cx="165.8" cy="133.1" r="4" fill="#3465a4"><title>Caledonia</title></circle></a><a href="/setts/s14/k20r6k4r6dg15w2y5w2dg15r30k4r5lb2r6~x2/"><circle cx="179.9" cy="106.9" r="4" fill="#3465a4"><title>Drummond - 1739 Lord John (Artefact)</title></circle></a><circle cx="203.3" cy="112.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/k2t6w1r14k1r14w1k6g10lo1g2lo2~x2/

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/6 G2 R10 G6 R12 G30 LN8 B2 K4 Y6 K10 B2 LN8 B8 LN38 G2 R/8
+R/8 G2 LN38 B8 LN8 B2 K10 Y6 K4 B2 LN8 G30 R12 G6 R10 G2 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dp6t2w24r15g12t4w4t4w4t4g34ly4/"><circle cx="137.5" cy="93.7" r="4" fill="#3465a4"><title>Fredericton (District)</title></circle></a><a href="/setts/s19/k3r1k2r2w20db3w3r8k2r2k2r2k8g2k2g2k2g8ly2~x2/"><circle cx="96.0" cy="54.9" r="4" fill="#3465a4"><title>Princess Beatrice Dress (1880)</title></circle></a><a href="/setts/s19/k3r1g2r2w20db3w3r7k2r2k2r2k7g2k2g2k2g8ly3~x4/"><circle cx="90.2" cy="57.1" r="4" fill="#3465a4"><title>Princess Beatrice Dress (Dance)</title></circle></a><a href="/setts/s19/k4r1k1r2w24db2w3r8g2r2g2r2k8g2k2g2k2g8ly2~x2/"><circle cx="122.6" cy="39.3" r="4" fill="#3465a4"><title>Princess Beatrice, dress</title></circle></a><a href="/setts/s20/r4dg6r2dg6r3db4r1k4ly1k1ly1k3lb3k3lb18r1k2r1lb6r3~x2/"><circle cx="110.0" cy="62.7" r="4" fill="#3465a4"><title>Anderson</title></circle></a><a href="/setts/s14/lo35r3k21r3g21lo6w3k3w3lo6lb15w3k6w6~x2/"><circle cx="96.8" cy="94.2" r="4" fill="#3465a4"><title>Dundee (2003)</title></circle></a><a href="/setts/s19/k3r1g2r2w20db3w3r7k2r2k2r2k7g2k2g2k2g8ly3~x2/"><circle cx="88.9" cy="56.5" r="4" fill="#3465a4"><title>Princess Beatrice, dress</title></circle></a><a href="/setts/s16/g10w4r4m4g2m4r4w4g10w4t4w2t4w23k2r2~x2/"><circle cx="132.0" cy="97.0" r="4" fill="#3465a4"><title>MacBean dress</title></circle></a><a href="/setts/s16/g10w4r4r4g2r4r4w4g10w4t4w2t4w23k2r2~x2/"><circle cx="134.9" cy="97.4" r="4" fill="#3465a4"><title>MacBean Dress</title></circle></a><a href="/setts/s14/r5w23db5w5k7ly3k3w2k3dg16r8dg3r6w3~x2/"><circle cx="88.0" cy="102.5" r="4" fill="#3465a4"><title>Victoria Highland Dress</title></circle></a><circle cx="116.3" cy="67.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dp6t2w24r15g12t4w4t4w4t4g34ly4/"><circle cx="137.2" cy="93.7" r="4" fill="#3465a4"><title>Fredericton (District)</title></circle></a><a href="/setts/s19/k3r1k2r2w20db3w3r8k2r2k2r2k8g2k2g2k2g8ly2~x2/"><circle cx="95.8" cy="55.0" r="4" fill="#3465a4"><title>Princess Beatrice Dress (1880)</title></circle></a><a href="/setts/s19/k3r1g2r2w20db3w3r7k2r2k2r2k7g2k2g2k2g8ly3~x4/"><circle cx="90.0" cy="57.2" r="4" fill="#3465a4"><title>Princess Beatrice Dress (Dance)</title></circle></a><a href="/setts/s19/k4r1k1r2w24db2w3r8g2r2g2r2k8g2k2g2k2g8ly2~x2/"><circle cx="122.4" cy="39.4" r="4" fill="#3465a4"><title>Princess Beatrice, dress</title></circle></a><a href="/setts/s20/r4dg6r2dg6r3db4r1k4ly1k1ly1k3lb3k3lb18r1k2r1lb6r3~x2/"><circle cx="109.8" cy="62.8" r="4" fill="#3465a4"><title>Anderson</title></circle></a><a href="/setts/s14/lo35r3k21r3g21lo6w3k3w3lo6lb15w3k6w6~x2/"><circle cx="96.5" cy="94.3" r="4" fill="#3465a4"><title>Dundee (2003)</title></circle></a><a href="/setts/s19/k3r1g2r2w20db3w3r7k2r2k2r2k7g2k2g2k2g8ly3~x2/"><circle cx="88.7" cy="56.6" r="4" fill="#3465a4"><title>Princess Beatrice, dress</title></circle></a><a href="/setts/s16/g10w4r4m4g2m4r4w4g10w4t4w2t4w23k2r2~x2/"><circle cx="131.7" cy="97.1" r="4" fill="#3465a4"><title>MacBean dress</title></circle></a><a href="/setts/s16/g10w4r4r4g2r4r4w4g10w4t4w2t4w23k2r2~x2/"><circle cx="134.5" cy="97.5" r="4" fill="#3465a4"><title>MacBean Dress</title></circle></a><a href="/setts/s14/r5w23db5w5k7ly3k3w2k3dg16r8dg3r6w3~x2/"><circle cx="87.8" cy="102.6" r="4" fill="#3465a4"><title>Victoria Highland Dress</title></circle></a><circle cx="116.1" cy="67.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s17/r4g1w19db4w4db1k5ly3k2db1w4g15r6g3r5g1w3~x2/

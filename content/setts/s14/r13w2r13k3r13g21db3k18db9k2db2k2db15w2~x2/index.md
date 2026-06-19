@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands1
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10371/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Tawain Scottish Commemorative
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -17,7 +23,7 @@ This cloth appears in 2 source records; the oldest owns this page.
 - undated — Tawain Scottish Commemorative Tartan Tartan Number: 10371. Earliest known date: 15th Dec. 2010 This tartan was designed to mark the centennial of the founding of the Republic of China (Taiwan) and was commissioned by the Taiwanese Community in Scotland. The design was based on the sett of the Caledonian Tartan. Elements of the Mackay Tartan, and the Maxwell Tartan were also used to reflect the importance of two Scottish missionaries to Taiwan, Dr. George Leslie Mackay (Scottish Canadian) and Dr. James Maxwell recognised for their work in the fields of religion, education and medicine. The main colours used in the design are taken from the Taiwan's National Flag where Blue represents democracy, Red represents nationalism and White represents people's livelihoods. The white over check passes through the blue thereby reflecting the Scottish Satire. There are also 12 rays of the sun shown on the Taiwan's National Flag, these rays represent the 12 months of the year and are translated in the tartan as 12 over checks spread throughout the design. Exclusively designed by Kinloch Anderson for the Taiwanese Community in Scotland. Restricted availability. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10371))
 
 ## Thread count
-LN/4 DB30 K4 DB4 K4 DB18 K36 DB6 G42 DR26 K6 R26 LN4 R/26
+R/26 LN4 R26 K6 DR26 G42 DB6 K36 DB18 K4 DB4 K4 DB30 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -49,8 +55,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r13w2r13k3r13dg21n3k18n9k2n2k2n15w2~x2/"><circle cx="54.9" cy="133.4" r="4" fill="#3465a4"><title>Taiwan Scottish</title></circle></a><a href="/setts/s13/r6db9k2db2k2db9k10ly4n17r5k2r5w4~x2/"><circle cx="56.0" cy="151.2" r="4" fill="#3465a4"><title>Alberta Caledonia (Corporate)</title></circle></a><a href="/setts/s12/r4y14lb2do4lb2k6y3k6db13r2db4r4~x2/"><circle cx="63.7" cy="168.4" r="4" fill="#3465a4"><title>Kinloch Anderson Old Dress</title></circle></a><a href="/setts/s15/r6db2r6dg10ly1k10db6k1db2k1db6r6w2k2r2~x2/"><circle cx="92.9" cy="138.0" r="4" fill="#3465a4"><title>MacPherson #7</title></circle></a><a href="/setts/s13/db23r6db6k10ly3k2w2k2dg11r12k2r10w2~x2/"><circle cx="109.8" cy="125.4" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><a href="/setts/s16/db6r2db2r4db14r2g12r2g3w2g3k11dp9g2dp6w2~x2/"><circle cx="54.6" cy="148.8" r="4" fill="#3465a4"><title>Haughey (Personal)</title></circle></a><a href="/setts/s15/db2k2db8k8g12k1w2k1g12k8r3t3r14t2r2~x2/"><circle cx="101.2" cy="123.2" r="4" fill="#3465a4"><title>Unidentified - C20th</title></circle></a><a href="/setts/s16/db6r2db2r4db14r2dg12r2dg3w2dg3dy11dp9dg2dp6w2~x2/"><circle cx="68.4" cy="159.3" r="4" fill="#3465a4"><title>Haughey (Personal)</title></circle></a><a href="/setts/s14/db2y2db3y8g4db4g3db8r12g7r3g2k1w1~x2/"><circle cx="100.2" cy="143.0" r="4" fill="#3465a4"><title>Jones-MacGregor (Name)</title></circle></a><a href="/setts/s11/r4lb2r6k2r6do16lo2k12o10k2o1~x2/"><circle cx="125.4" cy="140.9" r="4" fill="#3465a4"><title>Caledonian (WCWM)</title></circle></a><circle cx="72.6" cy="139.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r13w2r13k3r13dg21n3k18n9k2n2k2n15w2~x2/"><circle cx="55.0" cy="133.6" r="4" fill="#3465a4"><title>Taiwan Scottish</title></circle></a><a href="/setts/s13/r6db9k2db2k2db9k10ly4n17r5k2r5w4~x2/"><circle cx="56.1" cy="151.4" r="4" fill="#3465a4"><title>Alberta Caledonia (Corporate)</title></circle></a><a href="/setts/s12/r4y14lb2do4lb2k6y3k6db13r2db4r4~x2/"><circle cx="63.8" cy="168.6" r="4" fill="#3465a4"><title>Kinloch Anderson Old Dress</title></circle></a><a href="/setts/s15/r6db2r6dg10ly1k10db6k1db2k1db6r6w2k2r2~x2/"><circle cx="92.9" cy="138.2" r="4" fill="#3465a4"><title>MacPherson #7</title></circle></a><a href="/setts/s13/db23r6db6k10ly3k2w2k2dg11r12k2r10w2~x2/"><circle cx="109.7" cy="125.6" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><a href="/setts/s16/db6r2db2r4db14r2g12r2g3w2g3k11dp9g2dp6w2~x2/"><circle cx="54.7" cy="149.1" r="4" fill="#3465a4"><title>Haughey (Personal)</title></circle></a><a href="/setts/s15/db2k2db8k8g12k1w2k1g12k8r3t3r14t2r2~x2/"><circle cx="101.3" cy="123.4" r="4" fill="#3465a4"><title>Unidentified - C20th</title></circle></a><a href="/setts/s16/db6r2db2r4db14r2dg12r2dg3w2dg3dy11dp9dg2dp6w2~x2/"><circle cx="68.5" cy="159.5" r="4" fill="#3465a4"><title>Haughey (Personal)</title></circle></a><a href="/setts/s14/db2y2db3y8g4db4g3db8r12g7r3g2k1w1~x2/"><circle cx="100.1" cy="143.2" r="4" fill="#3465a4"><title>Jones-MacGregor (Name)</title></circle></a><a href="/setts/s11/r4lb2r6k2r6do16lo2k12o10k2o1~x2/"><circle cx="125.4" cy="141.2" r="4" fill="#3465a4"><title>Caledonian (WCWM)</title></circle></a><circle cx="72.6" cy="139.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/r13w2r13k3r13g21db3k18db9k2db2k2db15w2~x2/

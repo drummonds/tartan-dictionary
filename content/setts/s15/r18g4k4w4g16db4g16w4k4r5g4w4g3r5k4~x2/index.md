@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands1
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1154/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Gayre Bodyguard #2
+- Gayre, Bodyguard
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -319,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -893,7 +903,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/8 R10 G6 LN8 G8 R10 K8 LN8 G32 DB8 G32 LN8 K8 G8 R/36
+R/36 G8 K8 LN8 G32 DB8 G32 LN8 K8 R10 G8 LN8 G6 R10 K/8
 ![Sett](sett.png)
 
 ## Palette
@@ -920,12 +930,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Fraser Hunting Dress Clan Tartan Tartan Number: 603. Earliest known date: pre 2003 In the Hunting Fraser, brown replaces the red of the Clan sett. The late Charles Ian Fraser of Reeling said, in his publication, "Clan Fraser", that this sett was designed by the Sobieski Stuart brothers at the request of Lord Lovat for use by the Inverness and Nairn militia. A letter to Lord Lovat from the War Office, c.1855, authorised the use of the Fraser tartan for the corps. The tartan is worn by the Boghall & Bathgate pipe bands. (Strathallan 1994) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/db4dy24g17dy3w18dy3w18dy3g17dy24r4~x2/) — ΔT 1.09
 1. [MacGuire](/setts/s14/w5k3g15r3db6r15b3r3b3r3db3r15g15k3~x2/) — ΔT 1.13
 1. [Poulter, Green (Corporate)](/setts/s13/ly25k4ly4k4ly4k23y23ly4y23k23ly23k4ly4~x2/) — ΔT 1.19
-1. [Fraser Hunting Dress](/setts/s11/b4do15g11do3lb11do3lb11do3g11do15r4~x2/) — ΔT 1.19
+1. [Fraser Hunting Dress](/setts/s11/r4do15g11do3lb11do3lb11do3g11do15b4~x2/) — ΔT 1.19
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r20g4k4lb4g16r4g16lb4k4r6g4lb4g3r6k4~x2/"><circle cx="151.2" cy="164.8" r="4" fill="#3465a4"><title>Gayre (Clan)</title></circle></a><a href="/setts/s13/g18r18k3r3db3r3db4r3k9r4g18w6k3~x2/"><circle cx="130.4" cy="166.3" r="4" fill="#3465a4"><title>Maguire</title></circle></a><a href="/setts/s14/k4r3g2db2r6g15r2db4g2r15g7k2r4w2~x2/"><circle cx="178.2" cy="152.0" r="4" fill="#3465a4"><title>MacKinnon 12</title></circle></a><a href="/setts/s15/k6y1k1y4ly1r1ly4r1ly2y4k1y1k8w1k2~x4/"><circle cx="169.0" cy="147.8" r="4" fill="#3465a4"><title>Confessore (Personal)</title></circle></a><a href="/setts/s15/dg12y2dg2y7ly4o2ly8o2ly4y7dg2y2dg16w2dg4~x2/"><circle cx="180.3" cy="161.2" r="4" fill="#3465a4"><title>Confessore Family Tartan Tartan Number: 2165. Earliest known date: 1994 Designed for Mr Confessore of Napoli, Italy in 1994 by Mr. Keith Lumsden, researcher at the Scottish Tartans Society. The colours reflect the shades and tones of the Italian countryside. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/o4k2r2k1r1k1r2db3o1dg4o9dg1~x4/"><circle cx="174.3" cy="157.4" r="4" fill="#3465a4"><title>California Firefighters (Corporate)</title></circle></a><a href="/setts/s11/db4dy24g17dy3w18dy3w18dy3g17dy24r4~x2/"><circle cx="148.5" cy="176.3" r="4" fill="#3465a4"><title>Fraser Hunting Dress Clan Tartan Tartan Number: 603. Earliest known date: pre 2003 In the Hunting Fraser, brown replaces the red of the Clan sett. The late Charles Ian Fraser of Reeling said, in his publication, &quot;Clan Fraser&quot;, that this sett was designed by the Sobieski Stuart brothers at the request of Lord Lovat for use by the Inverness and Nairn militia. A letter to Lord Lovat from the War Office, c.1855, authorised the use of the Fraser tartan for the corps. The tartan is worn by the Boghall &amp; Bathgate pipe bands. (Strathallan 1994) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/w5k3g15r3db6r15b3r3b3r3db3r15g15k3~x2/"><circle cx="113.4" cy="155.5" r="4" fill="#3465a4"><title>MacGuire</title></circle></a><a href="/setts/s13/ly25k4ly4k4ly4k23y23ly4y23k23ly23k4ly4~x2/"><circle cx="138.7" cy="189.1" r="4" fill="#3465a4"><title>Poulter, Green (Corporate)</title></circle></a><a href="/setts/s11/b4do15g11do3lb11do3lb11do3g11do15r4~x2/"><circle cx="121.1" cy="208.7" r="4" fill="#3465a4"><title>Fraser Hunting Dress</title></circle></a><circle cx="141.0" cy="165.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r20g4k4lb4g16r4g16lb4k4r6g4lb4g3r6k4~x2/"><circle cx="151.0" cy="164.8" r="4" fill="#3465a4"><title>Gayre (Clan)</title></circle></a><a href="/setts/s13/g18r18k3r3db3r3db4r3k9r4g18w6k3~x2/"><circle cx="130.4" cy="166.3" r="4" fill="#3465a4"><title>Maguire</title></circle></a><a href="/setts/s14/k4r3g2db2r6g15r2db4g2r15g7k2r4w2~x2/"><circle cx="178.0" cy="152.0" r="4" fill="#3465a4"><title>MacKinnon 12</title></circle></a><a href="/setts/s15/k6y1k1y4ly1r1ly4r1ly2y4k1y1k8w1k2~x4/"><circle cx="168.9" cy="147.7" r="4" fill="#3465a4"><title>Confessore (Personal)</title></circle></a><a href="/setts/s15/dg12y2dg2y7ly4o2ly8o2ly4y7dg2y2dg16w2dg4~x2/"><circle cx="180.2" cy="161.2" r="4" fill="#3465a4"><title>Confessore Family Tartan Tartan Number: 2165. Earliest known date: 1994 Designed for Mr Confessore of Napoli, Italy in 1994 by Mr. Keith Lumsden, researcher at the Scottish Tartans Society. The colours reflect the shades and tones of the Italian countryside. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/o4k2r2k1r1k1r2db3o1dg4o9dg1~x4/"><circle cx="174.2" cy="157.4" r="4" fill="#3465a4"><title>California Firefighters (Corporate)</title></circle></a><a href="/setts/s11/db4dy24g17dy3w18dy3w18dy3g17dy24r4~x2/"><circle cx="148.3" cy="176.3" r="4" fill="#3465a4"><title>Fraser Hunting Dress Clan Tartan Tartan Number: 603. Earliest known date: pre 2003 In the Hunting Fraser, brown replaces the red of the Clan sett. The late Charles Ian Fraser of Reeling said, in his publication, &quot;Clan Fraser&quot;, that this sett was designed by the Sobieski Stuart brothers at the request of Lord Lovat for use by the Inverness and Nairn militia. A letter to Lord Lovat from the War Office, c.1855, authorised the use of the Fraser tartan for the corps. The tartan is worn by the Boghall &amp; Bathgate pipe bands. (Strathallan 1994) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/w5k3g15r3db6r15b3r3b3r3db3r15g15k3~x2/"><circle cx="113.2" cy="155.5" r="4" fill="#3465a4"><title>MacGuire</title></circle></a><a href="/setts/s13/ly25k4ly4k4ly4k23y23ly4y23k23ly23k4ly4~x2/"><circle cx="138.7" cy="189.0" r="4" fill="#3465a4"><title>Poulter, Green (Corporate)</title></circle></a><a href="/setts/s11/r4do15g11do3lb11do3lb11do3g11do15b4~x2/"><circle cx="121.1" cy="208.7" r="4" fill="#3465a4"><title>Fraser Hunting Dress</title></circle></a><circle cx="140.9" cy="165.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/r18g4k4w4g16db4g16w4k4r5g4w4g3r5k4~x2/

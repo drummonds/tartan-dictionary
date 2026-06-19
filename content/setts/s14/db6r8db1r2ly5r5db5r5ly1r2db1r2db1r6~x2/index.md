@@ -2,12 +2,18 @@
 title: "Munro (Culloden)"
 date: 2023-03-18
 ---
-**Bands:** [BRBRYRBRYRBRBR](/stripes/brbryrbryrbrbr/) · **Stripes:** [DB R DB R LY R DB R LY R DB R DB R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R DB R LY R DB R LY R DB R DB R</span></span>
+**Bands:** [RBRBRYRBRYRBRB](/stripes/rbrbryrbryrbrb/) · **Stripes:** [R DB R DB R LY R DB R LY R DB R DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB R LY R DB R LY R DB R DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3050
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Munro, Ancient
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -921,15 +930,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Unidentified Early 18th Centuary #2](/setts/s12/r9dg2r3dg2r9dg3r3db3r3dg3r3db3~x2/) — ΔT 1.39
 1. [Morrison Ancient](/setts/s10/dg6w3dg12r12k4r6k4r24dg4r6/) — ΔT 1.40
 1. [Murray, Lord George (Plaid)](/setts/s9/r5dg10r5dg10r20dg2r20dp10r5~x2/) — ΔT 1.40
-1. [MacNicol](/setts/s12/r6dg1r6k4r1lb1r1dg8r6k1r6dg1~x2/) — ΔT 1.41
+1. [MacNicol](/setts/s12/r6dg1r6k4r1lb1r1dg8r6k1r6dg1/) — ΔT 1.41
 1. [Nicolson (McIan)](/setts/s12/r6g1r6k4r1t1r1g8r6k1r6g1~x6/) — ΔT 1.49
 1. [Nicolson, MacNicol](/setts/s12/r6g1r6k4r1t1r1g8r6k1r6g1~x2/) — ΔT 1.52
 1. [Cameron of Locheil #3](/setts/s9/r24db8r23k4w4k4r10k32r8/) — ΔT 1.53
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db12r16db2r4ly10r10db10r10ly2r4db2r4db1r12/"><circle cx="344.1" cy="172.1" r="4" fill="#3465a4"><title>Munro Old Artifact Tartan Tartan Number: 458. Earliest known date: (1745) Described as 'A plaid found at Culloden'. (A. Nisbett) Part of the MacGregor Hastie Collection at the Scottish Tartans Museum, Stirling. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/k9r18w2k2w4k2w2r12k9r6~x2/"><circle cx="280.8" cy="184.6" r="4" fill="#3465a4"><title>Brice</title></circle></a><a href="/setts/s12/r16k2r2k2r13k12r2k12r13k13r2ly2~x2/"><circle cx="309.7" cy="201.5" r="4" fill="#3465a4"><title>German National (US) (Fashion)</title></circle></a><a href="/setts/s12/r9dg2r3dg2r9dg3r3db3r3dg3r3db3~x2/"><circle cx="341.3" cy="238.8" r="4" fill="#3465a4"><title>Unidentified Early 18th Centuary #2</title></circle></a><a href="/setts/s10/dg6w3dg12r12k4r6k4r24dg4r6/"><circle cx="301.6" cy="186.9" r="4" fill="#3465a4"><title>Morrison Ancient</title></circle></a><a href="/setts/s9/r5dg10r5dg10r20dg2r20dp10r5~x2/"><circle cx="369.8" cy="224.2" r="4" fill="#3465a4"><title>Murray, Lord George (Plaid)</title></circle></a><a href="/setts/s12/r6dg1r6k4r1lb1r1dg8r6k1r6dg1~x2/"><circle cx="306.5" cy="179.7" r="4" fill="#3465a4"><title>MacNicol</title></circle></a><a href="/setts/s12/r6g1r6k4r1t1r1g8r6k1r6g1~x6/"><circle cx="328.9" cy="190.2" r="4" fill="#3465a4"><title>Nicolson (McIan)</title></circle></a><a href="/setts/s12/r6g1r6k4r1t1r1g8r6k1r6g1~x2/"><circle cx="304.7" cy="180.4" r="4" fill="#3465a4"><title>Nicolson, MacNicol</title></circle></a><a href="/setts/s9/r24db8r23k4w4k4r10k32r8/"><circle cx="281.2" cy="186.2" r="4" fill="#3465a4"><title>Cameron of Locheil #3</title></circle></a><circle cx="308.7" cy="196.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db12r16db2r4ly10r10db10r10ly2r4db2r4db1r12/"><circle cx="343.7" cy="171.9" r="4" fill="#3465a4"><title>Munro Old Artifact Tartan Tartan Number: 458. Earliest known date: (1745) Described as 'A plaid found at Culloden'. (A. Nisbett) Part of the MacGregor Hastie Collection at the Scottish Tartans Museum, Stirling. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/k9r18w2k2w4k2w2r12k9r6~x2/"><circle cx="280.5" cy="184.4" r="4" fill="#3465a4"><title>Brice</title></circle></a><a href="/setts/s12/r16k2r2k2r13k12r2k12r13k13r2ly2~x2/"><circle cx="309.4" cy="201.3" r="4" fill="#3465a4"><title>German National (US) (Fashion)</title></circle></a><a href="/setts/s12/r9dg2r3dg2r9dg3r3db3r3dg3r3db3~x2/"><circle cx="340.9" cy="238.5" r="4" fill="#3465a4"><title>Unidentified Early 18th Centuary #2</title></circle></a><a href="/setts/s10/dg6w3dg12r12k4r6k4r24dg4r6/"><circle cx="301.3" cy="186.8" r="4" fill="#3465a4"><title>Morrison Ancient</title></circle></a><a href="/setts/s9/r5dg10r5dg10r20dg2r20dp10r5~x2/"><circle cx="369.4" cy="224.0" r="4" fill="#3465a4"><title>Murray, Lord George (Plaid)</title></circle></a><a href="/setts/s12/r6dg1r6k4r1lb1r1dg8r6k1r6dg1/"><circle cx="306.2" cy="179.5" r="4" fill="#3465a4"><title>MacNicol</title></circle></a><a href="/setts/s12/r6g1r6k4r1t1r1g8r6k1r6g1~x6/"><circle cx="328.6" cy="190.1" r="4" fill="#3465a4"><title>Nicolson (McIan)</title></circle></a><a href="/setts/s12/r6g1r6k4r1t1r1g8r6k1r6g1~x2/"><circle cx="304.4" cy="180.2" r="4" fill="#3465a4"><title>Nicolson, MacNicol</title></circle></a><a href="/setts/s9/r24db8r23k4w4k4r10k32r8/"><circle cx="281.0" cy="186.0" r="4" fill="#3465a4"><title>Cameron of Locheil #3</title></circle></a><circle cx="308.4" cy="196.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/db6r8db1r2ly5r5db5r5ly1r2db1r2db1r6~x2/

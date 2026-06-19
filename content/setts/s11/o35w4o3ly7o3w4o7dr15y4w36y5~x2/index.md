@@ -2,7 +2,7 @@
 title: "MacKellar, dress"
 date: 2023-03-18
 ---
-**Bands:** [GWGBRWRYRWR](/stripes/gwgbrwryrwr/) · **Stripes:** [Y W Y DR O W O LY O W O](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="seq">Y W Y DR O W O LY O W O</span></span>
+**Bands:** [RWRYRWRBGWG](/stripes/rwryrwrbgwg/) · **Stripes:** [O W O LY O W O DR Y W Y](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">O W O LY O W O DR Y W Y</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/o35w4o3ly7o3w4o7dy15lr4w36lr5~x2/"><circle cx="187.2" cy="121.8" r="4" fill="#3465a4"><title>MacKellar Dress (Reproduction colours)</title></circle></a><a href="/setts/s11/n2ly2n1ly2n1lb15n4r1ly2dg7ly1~x4/"><circle cx="182.6" cy="111.8" r="4" fill="#3465a4"><title>Hutt #1 (Personal)</title></circle></a><a href="/setts/s9/g12w1r1w4r1w1r8ly2r1~x4/"><circle cx="204.1" cy="140.2" r="4" fill="#3465a4"><title>Karibu</title></circle></a><a href="/setts/s8/w4k13w17lo2r2lo24w2w2~x2/"><circle cx="167.0" cy="134.0" r="4" fill="#3465a4"><title>Lalage (Personal)</title></circle></a><a href="/setts/s11/dy27w2dy3lo4dy3w2dy5k13n2w26n3~x2/"><circle cx="189.2" cy="113.8" r="4" fill="#3465a4"><title>MacKellar Dress, Maroon (Dance)</title></circle></a><a href="/setts/s12/y12t2dr4ly2dr3w3dr3o20w29t2w4dr2~x2/"><circle cx="167.2" cy="86.4" r="4" fill="#3465a4"><title>MacLean of Duart 7</title></circle></a><a href="/setts/s12/dg6ly5w1dg2w1dg5w1dg2w1r15dp2w1~x2/"><circle cx="178.8" cy="108.6" r="4" fill="#3465a4"><title>Dunblane</title></circle></a><a href="/setts/s12/dg6ly5w1dg2w1dg5w1dg2w1r15dp2w1~x4/"><circle cx="178.8" cy="108.6" r="4" fill="#3465a4"><title>Dunblane (District)</title></circle></a><a href="/setts/s7/r34w3g4g23w24k3g4~x2/"><circle cx="154.8" cy="155.3" r="4" fill="#3465a4"><title>MacLachlan Dress Clan Tartan Tartan Number: 828. Earliest known date: 1990 Based on the MacLachlan pattern in Old And Rare See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/y12t2dy4ly2dy3w3dy3o20w29t2w4dy2~x2/"><circle cx="169.5" cy="87.6" r="4" fill="#3465a4"><title>MacLean of Duart (Reproduction Colours)</title></circle></a><circle cx="180.4" cy="120.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/o35w4o3ly7o3w4o7dy15lr4w36lr5~x2/"><circle cx="186.8" cy="121.8" r="4" fill="#3465a4"><title>MacKellar Dress (Reproduction colours)</title></circle></a><a href="/setts/s11/n2ly2n1ly2n1lb15n4r1ly2dg7ly1~x4/"><circle cx="182.3" cy="111.8" r="4" fill="#3465a4"><title>Hutt #1 (Personal)</title></circle></a><a href="/setts/s9/g12w1r1w4r1w1r8ly2r1~x4/"><circle cx="203.8" cy="140.1" r="4" fill="#3465a4"><title>Karibu</title></circle></a><a href="/setts/s8/w4k13w17lo2r2lo24w2w2~x2/"><circle cx="166.7" cy="133.9" r="4" fill="#3465a4"><title>Lalage (Personal)</title></circle></a><a href="/setts/s11/dy27w2dy3lo4dy3w2dy5k13n2w26n3~x2/"><circle cx="188.9" cy="113.8" r="4" fill="#3465a4"><title>MacKellar Dress, Maroon (Dance)</title></circle></a><a href="/setts/s12/y12t2dr4ly2dr3w3dr3o20w29t2w4dr2~x2/"><circle cx="166.8" cy="86.4" r="4" fill="#3465a4"><title>MacLean of Duart 7</title></circle></a><a href="/setts/s12/dg6ly5w1dg2w1dg5w1dg2w1r15dp2w1~x2/"><circle cx="178.5" cy="108.6" r="4" fill="#3465a4"><title>Dunblane</title></circle></a><a href="/setts/s12/dg6ly5w1dg2w1dg5w1dg2w1r15dp2w1~x4/"><circle cx="178.5" cy="108.6" r="4" fill="#3465a4"><title>Dunblane (District)</title></circle></a><a href="/setts/s7/r34w3g4g23w24k3g4~x2/"><circle cx="154.6" cy="155.2" r="4" fill="#3465a4"><title>MacLachlan Dress Clan Tartan Tartan Number: 828. Earliest known date: 1990 Based on the MacLachlan pattern in Old And Rare See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/y12t2dy4ly2dy3w3dy3o20w29t2w4dy2~x2/"><circle cx="169.2" cy="87.6" r="4" fill="#3465a4"><title>MacLean of Duart (Reproduction Colours)</title></circle></a><circle cx="180.0" cy="120.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/o35w4o3ly7o3w4o7dr15y4w36y5~x2/

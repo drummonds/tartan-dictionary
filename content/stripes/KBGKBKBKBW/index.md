@@ -22,6 +22,6 @@ KBGKBKBKBW
 
 | Tartans |
 |---------------|
-| [Dollar Academy, The](/setts/s10/w4db52k12db12k12db12k12dg24db8k1/)|
-|![Dollar Academy, The example sett](/setts/s10/w4db52k12db12k12db12k12dg24db8k1/sett.png)|
+| [Dollar Academy, The](/setts/s10/w4db52k12db12k12db12k12dg24db8k1~x2/)|
+|![Dollar Academy, The example sett](/setts/s10/w4db52k12db12k12db12k12dg24db8k1~x2/sett.png)|
 

@@ -2,7 +2,7 @@
 title: "Smithers"
 date: 2023-03-18
 ---
-**Bands:** [BBGBWBKGKGB](/stripes/bbgbwbkgkgb/) · **Stripes:** [P DB Y DB W DB K G K G P](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">P DB Y DB W DB K G K G P</span></span>
+**Bands:** [BGKGKBWBGBB](/stripes/bgkgkbwbgbb/) · **Stripes:** [P G K G K DB W DB Y DB P](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">P G K G K DB W DB Y DB P</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,13 +915,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Veere (District)](/setts/s11/db6k2n2db8k18lo2g20db8n3k10lb6~x2/) — ΔT 0.96
 1. [Elgin-Landshut](/setts/s14/r1db6g1k1g1k1g6k1t1k1db3k3g3w1~x8/) — ΔT 0.97
 1. [Drennan](/setts/s12/db7w3g3db18lo3k15lo3g17r6g3r2g7~x2/) — ΔT 0.98
-1. [Malcolm](/setts/s15/db2g1db6k6g6k1ly1k1t1k1g6k6db6r1db2~x4/) — ΔT 1.01
+1. [Malcolm](/setts/s15/db2r1db6k6g6k1t1k1ly1k1g6k6db6g1db2~x4/) — ΔT 1.01
 1. [Malcolm](/setts/s14/k1ly1k1g6k6db6r1db1r1db6k6g6k1t1~x4/) — ΔT 1.01
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/lb7k11lt3db9g19lo3k22db9lt3k3db6~x2/"><circle cx="82.6" cy="166.5" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/setts/s11/db2k1db8k7g8ly2g8k7db8k1r2~x4/"><circle cx="62.0" cy="180.2" r="4" fill="#3465a4"><title>Scottish Economics Society 'Adam Smith'</title></circle></a><a href="/setts/s10/k6dg14t2r3t2k16ly2b16dg16r3~x2/"><circle cx="113.3" cy="169.4" r="4" fill="#3465a4"><title>Unidentified #37</title></circle></a><a href="/setts/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1r2~x2/"><circle cx="86.1" cy="155.3" r="4" fill="#3465a4"><title>Farquharson Dress (Fashion)</title></circle></a><a href="/setts/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/"><circle cx="108.6" cy="165.7" r="4" fill="#3465a4"><title>Scottish Cultural Society (Corporate</title></circle></a><a href="/setts/s11/db6k2n2db8k18lo2g20db8n3k10lb6~x2/"><circle cx="97.3" cy="156.4" r="4" fill="#3465a4"><title>Veere (District)</title></circle></a><a href="/setts/s14/r1db6g1k1g1k1g6k1t1k1db3k3g3w1~x8/"><circle cx="111.9" cy="169.4" r="4" fill="#3465a4"><title>Elgin-Landshut</title></circle></a><a href="/setts/s12/db7w3g3db18lo3k15lo3g17r6g3r2g7~x2/"><circle cx="106.6" cy="160.0" r="4" fill="#3465a4"><title>Drennan</title></circle></a><a href="/setts/s15/db2g1db6k6g6k1ly1k1t1k1g6k6db6r1db2~x4/"><circle cx="83.0" cy="165.0" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><a href="/setts/s14/k1ly1k1g6k6db6r1db1r1db6k6g6k1t1~x4/"><circle cx="80.8" cy="162.8" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><circle cx="84.5" cy="179.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/lb7k11lt3db9g19lo3k22db9lt3k3db6~x2/"><circle cx="82.9" cy="166.5" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/setts/s11/db2k1db8k7g8ly2g8k7db8k1r2~x4/"><circle cx="62.3" cy="180.3" r="4" fill="#3465a4"><title>Scottish Economics Society 'Adam Smith'</title></circle></a><a href="/setts/s10/k6dg14t2r3t2k16ly2b16dg16r3~x2/"><circle cx="113.4" cy="169.5" r="4" fill="#3465a4"><title>Unidentified #37</title></circle></a><a href="/setts/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1r2~x2/"><circle cx="86.3" cy="155.4" r="4" fill="#3465a4"><title>Farquharson Dress (Fashion)</title></circle></a><a href="/setts/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/"><circle cx="108.7" cy="165.8" r="4" fill="#3465a4"><title>Scottish Cultural Society (Corporate</title></circle></a><a href="/setts/s11/db6k2n2db8k18lo2g20db8n3k10lb6~x2/"><circle cx="97.5" cy="156.5" r="4" fill="#3465a4"><title>Veere (District)</title></circle></a><a href="/setts/s14/r1db6g1k1g1k1g6k1t1k1db3k3g3w1~x8/"><circle cx="112.1" cy="169.5" r="4" fill="#3465a4"><title>Elgin-Landshut</title></circle></a><a href="/setts/s12/db7w3g3db18lo3k15lo3g17r6g3r2g7~x2/"><circle cx="106.8" cy="160.1" r="4" fill="#3465a4"><title>Drennan</title></circle></a><a href="/setts/s15/db2r1db6k6g6k1t1k1ly1k1g6k6db6g1db2~x4/"><circle cx="83.2" cy="165.1" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><a href="/setts/s14/k1ly1k1g6k6db6r1db1r1db6k6g6k1t1~x4/"><circle cx="81.0" cy="162.9" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><circle cx="84.7" cy="179.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/p3db13y2db4w2db8k13g10k2g8p3~x2/

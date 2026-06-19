@@ -22,6 +22,6 @@ BWBWYBYWBWBW
 
 | Tartans |
 |---------------|
-| [St John's](/setts/s12/w2db1w15t12w1ly3db1ly3w1t12w15db1~x6/)|
-|![St John's example sett](/setts/s12/w2db1w15t12w1ly3db1ly3w1t12w15db1~x6/sett.png)|
+| [St John's](/setts/s12/w2db1w15t12w1ly3db1~x6/)|
+|![St John's example sett](/setts/s12/w2db1w15t12w1ly3db1~x6/sett.png)|
 

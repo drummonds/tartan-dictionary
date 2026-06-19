@@ -20,7 +20,7 @@ GGBGY
 
 
 
-### G G DT G LY <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G G DT G LY</span></span>
+### LY G DT G G <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G DT G G</span></span>
 
 | Tartans |
 |---------------|

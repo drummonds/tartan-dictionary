@@ -18,7 +18,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2377
 
 ## Thread count
-LN/16 DB4 LN4 DB4 LN6 R6 T4 R4 T4 R/102
+R/102 T4 R4 T4 R6 LN6 DB4 LN4 DB4 LN/16
 ![Sett](sett.png)
 
 ## Palette
@@ -35,7 +35,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Masai Shuka 05 (Artefact)](/setts/s10/r80w7k2w2k2r3k7r2p12k2~x2/) — ΔT 1.08
+1. [Masai Shuka 05 (Artefact)](/setts/s10/r80w7k2w2k2r3k7r2p12k2~x2/) — ΔT 1.09
 1. [Virgin](/setts/s8/r51o2r6k10r2k4o3k3~x2/) — ΔT 1.42
 1. [Earl of Inverness (Royal)](/setts/s8/r100db10w5db14ly4db8ly4r24/) — ΔT 1.49
 1. [Ferguson the Astronomer](/setts/s7/r48w3k3g2ly6g2r6~x4/) — ΔT 1.51
@@ -48,8 +48,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r80w7k2w2k2r3k7r2p12k2~x2/"><circle cx="510.3" cy="64.5" r="4" fill="#3465a4"><title>Masai Shuka 05 (Artefact)</title></circle></a><a href="/setts/s8/r51o2r6k10r2k4o3k3~x2/"><circle cx="519.0" cy="117.4" r="4" fill="#3465a4"><title>Virgin</title></circle></a><a href="/setts/s8/r100db10w5db14ly4db8ly4r24/"><circle cx="485.3" cy="99.8" r="4" fill="#3465a4"><title>Earl of Inverness (Royal)</title></circle></a><a href="/setts/s7/r48w3k3g2ly6g2r6~x4/"><circle cx="519.6" cy="99.0" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><a href="/setts/s8/w10r47db2r2db2r18db3w4~x2/"><circle cx="496.4" cy="99.7" r="4" fill="#3465a4"><title>Swiss National</title></circle></a><a href="/setts/s12/r22k1r4w1r1k1w1r4w4r1w2k1~x4/"><circle cx="501.0" cy="85.8" r="4" fill="#3465a4"><title>Valour</title></circle></a><a href="/setts/s10/r58k12r4k2ly2k2r10w5k2ly4~x2/"><circle cx="477.9" cy="90.7" r="4" fill="#3465a4"><title>Unnamed C20th - Skirt</title></circle></a><a href="/setts/s10/r64db4r1k4r12w4r1w4k4r1~x2/"><circle cx="583.4" cy="59.8" r="4" fill="#3465a4"><title>Ramsay (Angus &amp; Mearns)</title></circle></a><a href="/setts/s6/dt12k1r70k1g12k1~x2/"><circle cx="525.1" cy="91.5" r="4" fill="#3465a4"><title>Lawers Estate</title></circle></a><a href="/setts/s9/r72g6ly2g11b2g2b2r9k2~x2/"><circle cx="533.1" cy="74.3" r="4" fill="#3465a4"><title>Junor</title></circle></a><circle cx="506.9" cy="77.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r80w7k2w2k2r3k7r2p12k2~x2/"><circle cx="509.6" cy="64.2" r="4" fill="#3465a4"><title>Masai Shuka 05 (Artefact)</title></circle></a><a href="/setts/s8/r51o2r6k10r2k4o3k3~x2/"><circle cx="518.4" cy="117.1" r="4" fill="#3465a4"><title>Virgin</title></circle></a><a href="/setts/s8/r100db10w5db14ly4db8ly4r24/"><circle cx="484.7" cy="99.6" r="4" fill="#3465a4"><title>Earl of Inverness (Royal)</title></circle></a><a href="/setts/s7/r48w3k3g2ly6g2r6~x4/"><circle cx="518.9" cy="98.7" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><a href="/setts/s8/w10r47db2r2db2r18db3w4~x2/"><circle cx="495.6" cy="99.3" r="4" fill="#3465a4"><title>Swiss National</title></circle></a><a href="/setts/s12/r22k1r4w1r1k1w1r4w4r1w2k1~x4/"><circle cx="500.1" cy="85.5" r="4" fill="#3465a4"><title>Valour</title></circle></a><a href="/setts/s10/r58k12r4k2ly2k2r10w5k2ly4~x2/"><circle cx="477.3" cy="90.5" r="4" fill="#3465a4"><title>Unnamed C20th - Skirt</title></circle></a><a href="/setts/s10/r64db4r1k4r12w4r1w4k4r1~x2/"><circle cx="582.6" cy="59.5" r="4" fill="#3465a4"><title>Ramsay (Angus &amp; Mearns)</title></circle></a><a href="/setts/s6/dt12k1r70k1g12k1~x2/"><circle cx="524.4" cy="91.3" r="4" fill="#3465a4"><title>Lawers Estate</title></circle></a><a href="/setts/s9/r72g6ly2g11b2g2b2r9k2~x2/"><circle cx="532.4" cy="74.1" r="4" fill="#3465a4"><title>Junor</title></circle></a><circle cx="506.1" cy="77.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r51dy2r2dy2r3w3db2w2db2w8~x2/

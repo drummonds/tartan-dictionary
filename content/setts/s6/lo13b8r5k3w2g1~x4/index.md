@@ -2,7 +2,7 @@
 title: "Ball"
 date: 2023-03-18
 ---
-**Bands:** [GWKRBY](/stripes/gwkrby/) · **Stripes:** [G W K R B LO](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">G W K R B LO</span></span>
+**Bands:** [YBRKWG](/stripes/ybrkwg/) · **Stripes:** [LO B R K W G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO B R K W G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6056
 
 ## Thread count
-G/4 W8 K12 R20 B32 O/52
+O/52 B32 R20 K12 W8 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -44,27 +44,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/4 W8 K12 R20 B32 O/52 tartan")
+![Tartan detail](tartan.png "O/52 B32 R20 K12 W8 G/4 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Christie (London) (Personal)](/setts/s6/ly5k2g4t18r25w5~x2/) — ΔT 0.84
+1. [Christie (London) (Personal)](/setts/s6/w5r25t18g4k2ly5~x2/) — ΔT 0.84
 1. [Ball Hunting](/setts/s6/lo13g8k5lb3w2r1~x4/) — ΔT 0.96
 1. [Canadian Shield (Personal)](/setts/s7/r5dg8do13o21y34w55dg3/) — ΔT 1.01
 1. [Porcupine City of](/setts/s7/r10n3db1lb8db1lo2g5~x4/) — ΔT 1.04
 1. [De Maynard (Personal)](/setts/s8/dp2o9g8o4ly1o4db10w2~x4/) — ΔT 1.06
 1. [Nicolson of Taransay (Personal)](/setts/s7/w6g10r22db16g2g4g5~x2/) — ΔT 1.07
-1. [MacLean, dress](/setts/s6/ly1t3r8g6w12r1~x4/) — ΔT 1.14
+1. [MacLean, dress](/setts/s6/r1w12g6r8t3ly1~x4/) — ΔT 1.14
 1. [MacLachlan Dress Clan Tartan Tartan Number: 828. Earliest known date: 1990 Based on the MacLachlan pattern in Old And Rare See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r34w3g4g23w24k3g4~x2/) — ΔT 1.16
 1. [Oor Wullie (Corporate)](/setts/s7/ly3r3ly2r20k16lb24w2~x2/) — ΔT 1.16
 1. [Barbour -Modern](/setts/s7/lb4ly2lb21k11w2n21r2~x2/) — ΔT 1.19
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/ly5k2g4t18r25w5~x2/"><circle cx="189.9" cy="148.2" r="4" fill="#3465a4"><title>Christie (London) (Personal)</title></circle></a><a href="/setts/s6/lo13g8k5lb3w2r1~x4/"><circle cx="141.7" cy="152.8" r="4" fill="#3465a4"><title>Ball Hunting</title></circle></a><a href="/setts/s7/r5dg8do13o21y34w55dg3/"><circle cx="153.7" cy="120.8" r="4" fill="#3465a4"><title>Canadian Shield (Personal)</title></circle></a><a href="/setts/s7/r10n3db1lb8db1lo2g5~x4/"><circle cx="116.6" cy="163.2" r="4" fill="#3465a4"><title>Porcupine City of</title></circle></a><a href="/setts/s8/dp2o9g8o4ly1o4db10w2~x4/"><circle cx="141.4" cy="162.2" r="4" fill="#3465a4"><title>De Maynard (Personal)</title></circle></a><a href="/setts/s7/w6g10r22db16g2g4g5~x2/"><circle cx="105.7" cy="161.1" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><a href="/setts/s6/ly1t3r8g6w12r1~x4/"><circle cx="159.2" cy="164.8" r="4" fill="#3465a4"><title>MacLean, dress</title></circle></a><a href="/setts/s7/r34w3g4g23w24k3g4~x2/"><circle cx="154.8" cy="155.3" r="4" fill="#3465a4"><title>MacLachlan Dress Clan Tartan Tartan Number: 828. Earliest known date: 1990 Based on the MacLachlan pattern in Old And Rare See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/ly3r3ly2r20k16lb24w2~x2/"><circle cx="129.7" cy="127.7" r="4" fill="#3465a4"><title>Oor Wullie (Corporate)</title></circle></a><a href="/setts/s7/lb4ly2lb21k11w2n21r2~x2/"><circle cx="148.9" cy="143.4" r="4" fill="#3465a4"><title>Barbour -Modern</title></circle></a><circle cx="151.2" cy="151.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/w5r25t18g4k2ly5~x2/"><circle cx="189.6" cy="148.3" r="4" fill="#3465a4"><title>Christie (London) (Personal)</title></circle></a><a href="/setts/s6/lo13g8k5lb3w2r1~x4/"><circle cx="141.5" cy="152.8" r="4" fill="#3465a4"><title>Ball Hunting</title></circle></a><a href="/setts/s7/r5dg8do13o21y34w55dg3/"><circle cx="153.4" cy="120.8" r="4" fill="#3465a4"><title>Canadian Shield (Personal)</title></circle></a><a href="/setts/s7/r10n3db1lb8db1lo2g5~x4/"><circle cx="116.5" cy="163.3" r="4" fill="#3465a4"><title>Porcupine City of</title></circle></a><a href="/setts/s8/dp2o9g8o4ly1o4db10w2~x4/"><circle cx="141.3" cy="162.2" r="4" fill="#3465a4"><title>De Maynard (Personal)</title></circle></a><a href="/setts/s7/w6g10r22db16g2g4g5~x2/"><circle cx="105.7" cy="161.2" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><a href="/setts/s6/r1w12g6r8t3ly1~x4/"><circle cx="158.9" cy="164.8" r="4" fill="#3465a4"><title>MacLean, dress</title></circle></a><a href="/setts/s7/r34w3g4g23w24k3g4~x2/"><circle cx="154.6" cy="155.2" r="4" fill="#3465a4"><title>MacLachlan Dress Clan Tartan Tartan Number: 828. Earliest known date: 1990 Based on the MacLachlan pattern in Old And Rare See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/ly3r3ly2r20k16lb24w2~x2/"><circle cx="129.5" cy="127.7" r="4" fill="#3465a4"><title>Oor Wullie (Corporate)</title></circle></a><a href="/setts/s7/lb4ly2lb21k11w2n21r2~x2/"><circle cx="148.7" cy="143.3" r="4" fill="#3465a4"><title>Barbour -Modern</title></circle></a><circle cx="151.1" cy="151.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/lo13b8r5k3w2g1~x4/

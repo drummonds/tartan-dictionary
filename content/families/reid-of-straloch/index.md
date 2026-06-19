@@ -8,7 +8,7 @@ A family of [Clan Reid](/clan/reid/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s17/o3g3o18b6o4g3w3g18o6b18w3b3o4g6o18g3o3~x2/"><img src="/setts/s17/o3g3o18b6o4g3w3g18o6b18w3b3o4g6o18g3o3~x2/sett.png" alt="Reid of Straloch (Personal)" width="240"><br>Reid of Straloch (Personal)</a>
+<a class="tartan" href="/setts/s17/o3g3o18g6o4b3w3b18o6g18w3g3o4b6o18g3o3~x2/"><img src="/setts/s17/o3g3o18g6o4b3w3b18o6g18w3g3o4b6o18g3o3~x2/sett.png" alt="Reid of Straloch (Personal)" width="240"><br>Reid of Straloch (Personal)</a>
 
 ## Other tartans
 

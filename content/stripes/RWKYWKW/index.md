@@ -8,7 +8,7 @@ RWKYWKW
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/lb2k2lb2lo36k15lb10r2~x2/tartan.png)
+![Woven sample](/setts/s7/r2lb10k15lo36lb2k2lb2~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RWKYWKW
 
 | Tartans |
 |---------------|
-| [Unidentified (ex Tony Murray)](/setts/s7/lb2k2lb2lo36k15lb10r2~x2/)|
-|![Unidentified (ex Tony Murray) example sett](/setts/s7/lb2k2lb2lo36k15lb10r2~x2/sett.png)|
+| [Unidentified (ex Tony Murray)](/setts/s7/r2lb10k15lo36lb2k2lb2~x2/)|
+|![Unidentified (ex Tony Murray) example sett](/setts/s7/r2lb10k15lo36lb2k2lb2~x2/sett.png)|
 

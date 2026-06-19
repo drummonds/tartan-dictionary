@@ -20,7 +20,7 @@ BKYBYBY
 
 
 
-### DB K LY DB LY DB LR <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">DB K LY DB LY DB LR</span></span>
+### LR DB LY DB LY K DB <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LR DB LY DB LY K DB</span></span>
 
 | Tartans |
 |---------------|

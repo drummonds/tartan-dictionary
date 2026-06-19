@@ -20,7 +20,7 @@ GBYBGR
 
 
 
-### DY DT LO DT DY M <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#CA047B"></span><span class="seq">DY DT LO DT DY M</span></span>
+### M DY DT LO DT DY <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">M DY DT LO DT DY</span></span>
 
 | Tartans |
 |---------------|

@@ -18,10 +18,10 @@ BYKYRYBYRYKY
 
 
 
-### B LO K LO R LO B LO R LO K LO <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">B LO K LO R LO B LO R LO K LO</span></span>
+### LO K LO R LO B LO R LO K LO B <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LO K LO R LO B LO R LO K LO B</span></span>
 
 | Tartans |
 |---------------|
-| [Carlisle (Family)](/setts/s12/b32lo15k3lo6r3lo6b33lo6r3lo6k3lo15~x4/)|
-|![Carlisle (Family) example sett](/setts/s12/b32lo15k3lo6r3lo6b33lo6r3lo6k3lo15~x4/sett.png)|
+| [Carlisle (Family)](/setts/s12/b33lo6r3lo6k3lo15b32~x4/)|
+|![Carlisle (Family) example sett](/setts/s12/b33lo6r3lo6k3lo15b32~x4/sett.png)|
 

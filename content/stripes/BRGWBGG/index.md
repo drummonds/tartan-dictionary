@@ -20,7 +20,7 @@ BRGWBGG
 
 
 
-### DP O DG W DB DG DG <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="seq">DP O DG W DB DG DG</span></span>
+### DG DG DB W DG O DP <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DG DG DB W DG O DP</span></span>
 
 | Tartans |
 |---------------|

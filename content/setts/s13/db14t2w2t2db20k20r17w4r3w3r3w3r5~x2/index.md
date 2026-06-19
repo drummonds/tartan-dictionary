@@ -2,12 +2,20 @@
 title: "American Bi-Centennial"
 date: 2023-03-18
 ---
-**Bands:** [BBWBBKRWRWRWR](/stripes/bbwbbkrwrwrwr/) · **Stripes:** [DB T W T DB K R W R W R W R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB T W T DB K R W R W R W R</span></span>
+**Bands:** [RWRWRWRKBBWBB](/stripes/rwrwrwrkbbwbb/) · **Stripes:** [R W R W R W R K DB T W T DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">R W R W R W R K DB T W T DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=67
+
+## Also known as
+
+This cloth is also recorded under:
+
+- 31, Bicentennial
+- American Bicentennial Commemorative
+- American St Andrews Societies (Corp.
 
 ## Attestations
 
@@ -320,6 +328,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +429,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +689,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,7 +923,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Andreou Family (Personal)](/setts/s11/ly1k2r1k2db8k2r1k2w8k2r1~x4/) — ΔT 1.07
+1. [Andreou Family (Personal)](/setts/s11/r1k2w8k2r1k2db8k2r1k2ly1~x4/) — ΔT 1.07
 1. [Stephens](/setts/s11/o9db4o2db4o2db15o9db4r18k9ly2~x2/) — ΔT 1.11
 1. [Popular](/setts/s14/t8k16r17db19r4k2t7k3r3k2w5k1r3k3~x2/) — ΔT 1.15
 1. [Royal Canadian Air Force #2](/setts/s16/r3t7k1r2k1t12k4w3k2r1k1r1db3r2db4r2~x2/) — ΔT 1.16
@@ -925,8 +936,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/ly1k2r1k2db8k2r1k2w8k2r1~x4/"><circle cx="105.0" cy="145.0" r="4" fill="#3465a4"><title>Andreou Family (Personal)</title></circle></a><a href="/setts/s11/o9db4o2db4o2db15o9db4r18k9ly2~x2/"><circle cx="140.1" cy="173.7" r="4" fill="#3465a4"><title>Stephens</title></circle></a><a href="/setts/s14/t8k16r17db19r4k2t7k3r3k2w5k1r3k3~x2/"><circle cx="129.6" cy="114.6" r="4" fill="#3465a4"><title>Popular</title></circle></a><a href="/setts/s16/r3t7k1r2k1t12k4w3k2r1k1r1db3r2db4r2~x2/"><circle cx="150.1" cy="132.2" r="4" fill="#3465a4"><title>Royal Canadian Air Force #2</title></circle></a><a href="/setts/s18/r4lb6k1r2k1lb14k3w3k2r2k2r2db4r2db6r2db6r2~x2/"><circle cx="106.5" cy="110.1" r="4" fill="#3465a4"><title>Royal Canadian Air Force (Military)</title></circle></a><a href="/setts/s14/db10r2db2r4db12r2k14w13r4w2r2w4r1ly3~x2/"><circle cx="106.5" cy="117.2" r="4" fill="#3465a4"><title>Carnegie #2</title></circle></a><a href="/setts/s16/w5db1db10db2db4db2db1db2db4db2r15w15db15dp2db1dp4~x2/"><circle cx="107.6" cy="104.7" r="4" fill="#3465a4"><title>Auld Alliance</title></circle></a><a href="/setts/s13/db23r6db6k10ly3k2w2k2dg11r12k2r10w2~x2/"><circle cx="109.8" cy="125.4" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><a href="/setts/s13/db15w2db9db10db2db10r8db2r8lo6r2lo19w3~x2/"><circle cx="85.7" cy="156.8" r="4" fill="#3465a4"><title>Holland, Tartan of (Fashion)</title></circle></a><a href="/setts/s11/r9k4w6k4db21lo3db13k2w4k2r6~x2/"><circle cx="170.9" cy="148.7" r="4" fill="#3465a4"><title>Dauphinee (Personal)</title></circle></a><circle cx="134.0" cy="135.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r1k2w8k2r1k2db8k2r1k2ly1~x4/"><circle cx="105.0" cy="145.0" r="4" fill="#3465a4"><title>Andreou Family (Personal)</title></circle></a><a href="/setts/s11/o9db4o2db4o2db15o9db4r18k9ly2~x2/"><circle cx="140.1" cy="173.8" r="4" fill="#3465a4"><title>Stephens</title></circle></a><a href="/setts/s14/t8k16r17db19r4k2t7k3r3k2w5k1r3k3~x2/"><circle cx="129.6" cy="114.7" r="4" fill="#3465a4"><title>Popular</title></circle></a><a href="/setts/s16/r3t7k1r2k1t12k4w3k2r1k1r1db3r2db4r2~x2/"><circle cx="150.1" cy="132.3" r="4" fill="#3465a4"><title>Royal Canadian Air Force #2</title></circle></a><a href="/setts/s18/r4lb6k1r2k1lb14k3w3k2r2k2r2db4r2db6r2db6r2~x2/"><circle cx="106.4" cy="110.2" r="4" fill="#3465a4"><title>Royal Canadian Air Force (Military)</title></circle></a><a href="/setts/s14/db10r2db2r4db12r2k14w13r4w2r2w4r1ly3~x2/"><circle cx="106.4" cy="117.2" r="4" fill="#3465a4"><title>Carnegie #2</title></circle></a><a href="/setts/s16/w5db1db10db2db4db2db1db2db4db2r15w15db15dp2db1dp4~x2/"><circle cx="107.5" cy="104.8" r="4" fill="#3465a4"><title>Auld Alliance</title></circle></a><a href="/setts/s13/db23r6db6k10ly3k2w2k2dg11r12k2r10w2~x2/"><circle cx="109.7" cy="125.6" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><a href="/setts/s13/db15w2db9db10db2db10r8db2r8lo6r2lo19w3~x2/"><circle cx="85.6" cy="156.9" r="4" fill="#3465a4"><title>Holland, Tartan of (Fashion)</title></circle></a><a href="/setts/s11/r9k4w6k4db21lo3db13k2w4k2r6~x2/"><circle cx="170.9" cy="148.6" r="4" fill="#3465a4"><title>Dauphinee (Personal)</title></circle></a><circle cx="133.9" cy="135.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db14t2w2t2db20k20r17w4r3w3r3w3r5~x2/

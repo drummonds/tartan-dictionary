@@ -2,12 +2,18 @@
 title: "Ogilvie #2"
 date: 2023-03-18
 ---
-**Bands:** [BRBYKRWRWRBYBR](/stripes/brbykrwrwrbybr/) · **Stripes:** [DB R DB LY K R W R W R DB LY DB R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R DB LY K R W R W R DB LY DB R</span></span>
+**Bands:** [RBYBRWRWRKYBRB](/stripes/rbybrwrwrkybrb/) · **Stripes:** [R DB LY DB R W R W R K LY DB R DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB LY DB R W R W R K LY DB R DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3223
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Ogilvie #2
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -913,7 +922,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Ogilvy D](/setts/s14/b4r1b4ly1k1r6lr1r4lr1r6k1ly1b4lr1~x2/) — ΔT 1.27
 1. [Bradwell, Carl (Personal)](/setts/s16/r4lr3m2w4m2w3m4w3m6w2m8w2m6w2t4lo3~x2/) — ΔT 1.34
-1. [Hueg (Formal) (Personal)](/setts/s11/b4dt3b13g8r12g4r12b4r5w4r4~x2/) — ΔT 1.37
+1. [Hueg (Formal) (Personal)](/setts/s11/r4w4r5b4r12g4r12g8b13dt3b4~x2/) — ΔT 1.37
 1. [Hueg (Munich) Formal (Personal)](/setts/s11/r4w4r5t4r12dg4r12dg8t13dp3t4~x2/) — ΔT 1.37
 1. [Westgaard Captain (Personal)](/setts/s12/r9lb4r6db4ly2k2lb2r5db3ly2k2lb2~x2/) — ΔT 1.43
 1. [MacPherson #8](/setts/s15/r14dg3r14dg13ly2k14db6k2db2k2db6r9w2k2r2~x2/) — ΔT 1.48
@@ -924,8 +933,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/b4r1b4ly1k1r6lr1r4lr1r6k1ly1b4lr1~x2/"><circle cx="194.2" cy="173.5" r="4" fill="#3465a4"><title>Ogilvy D</title></circle></a><a href="/setts/s16/r4lr3m2w4m2w3m4w3m6w2m8w2m6w2t4lo3~x2/"><circle cx="108.8" cy="182.1" r="4" fill="#3465a4"><title>Bradwell, Carl (Personal)</title></circle></a><a href="/setts/s11/b4dt3b13g8r12g4r12b4r5w4r4~x2/"><circle cx="127.1" cy="198.2" r="4" fill="#3465a4"><title>Hueg (Formal) (Personal)</title></circle></a><a href="/setts/s11/r4w4r5t4r12dg4r12dg8t13dp3t4~x2/"><circle cx="141.0" cy="201.8" r="4" fill="#3465a4"><title>Hueg (Munich) Formal (Personal)</title></circle></a><a href="/setts/s12/r9lb4r6db4ly2k2lb2r5db3ly2k2lb2~x2/"><circle cx="120.4" cy="192.4" r="4" fill="#3465a4"><title>Westgaard Captain (Personal)</title></circle></a><a href="/setts/s15/r14dg3r14dg13ly2k14db6k2db2k2db6r9w2k2r2~x2/"><circle cx="133.4" cy="139.3" r="4" fill="#3465a4"><title>MacPherson #8</title></circle></a><a href="/setts/s12/r16dg2r3dg2r13dp12w2dp12r13k13r2ly2~x2/"><circle cx="214.2" cy="154.2" r="4" fill="#3465a4"><title>Ikelman #6 (Personal)</title></circle></a><a href="/setts/s11/ly9lo3k4lo4k8r17k3r17db8k4w4~x2/"><circle cx="107.1" cy="167.5" r="4" fill="#3465a4"><title>Laois County Crest (Fashion)</title></circle></a><a href="/setts/s16/r4o3dp2lb4dp2lb3dp4lb3dp6lb2dp8lb2dp6lb2t4lo3~x2/"><circle cx="110.1" cy="183.1" r="4" fill="#3465a4"><title>Bradwell, Amy (Personal) XXXXXXXXXX</title></circle></a><a href="/setts/s9/r13t3r13dg12ly2dp9t9r13dp2~x2/"><circle cx="192.7" cy="203.6" r="4" fill="#3465a4"><title>Caledonia No 3</title></circle></a><circle cx="147.3" cy="160.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/b4r1b4ly1k1r6lr1r4lr1r6k1ly1b4lr1~x2/"><circle cx="194.0" cy="173.5" r="4" fill="#3465a4"><title>Ogilvy D</title></circle></a><a href="/setts/s16/r4lr3m2w4m2w3m4w3m6w2m8w2m6w2t4lo3~x2/"><circle cx="108.6" cy="182.1" r="4" fill="#3465a4"><title>Bradwell, Carl (Personal)</title></circle></a><a href="/setts/s11/r4w4r5b4r12g4r12g8b13dt3b4~x2/"><circle cx="127.0" cy="198.3" r="4" fill="#3465a4"><title>Hueg (Formal) (Personal)</title></circle></a><a href="/setts/s11/r4w4r5t4r12dg4r12dg8t13dp3t4~x2/"><circle cx="140.9" cy="201.9" r="4" fill="#3465a4"><title>Hueg (Munich) Formal (Personal)</title></circle></a><a href="/setts/s12/r9lb4r6db4ly2k2lb2r5db3ly2k2lb2~x2/"><circle cx="120.4" cy="192.3" r="4" fill="#3465a4"><title>Westgaard Captain (Personal)</title></circle></a><a href="/setts/s15/r14dg3r14dg13ly2k14db6k2db2k2db6r9w2k2r2~x2/"><circle cx="133.3" cy="139.4" r="4" fill="#3465a4"><title>MacPherson #8</title></circle></a><a href="/setts/s12/r16dg2r3dg2r13dp12w2dp12r13k13r2ly2~x2/"><circle cx="214.0" cy="154.3" r="4" fill="#3465a4"><title>Ikelman #6 (Personal)</title></circle></a><a href="/setts/s11/ly9lo3k4lo4k8r17k3r17db8k4w4~x2/"><circle cx="107.0" cy="167.6" r="4" fill="#3465a4"><title>Laois County Crest (Fashion)</title></circle></a><a href="/setts/s16/r4o3dp2lb4dp2lb3dp4lb3dp6lb2dp8lb2dp6lb2t4lo3~x2/"><circle cx="109.9" cy="183.1" r="4" fill="#3465a4"><title>Bradwell, Amy (Personal) XXXXXXXXXX</title></circle></a><a href="/setts/s9/r13t3r13dg12ly2dp9t9r13dp2~x2/"><circle cx="192.6" cy="203.6" r="4" fill="#3465a4"><title>Caledonia No 3</title></circle></a><circle cx="147.1" cy="160.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/db13r5db12ly4k5r20w4r10w4r20db5ly4db13r4~x2/

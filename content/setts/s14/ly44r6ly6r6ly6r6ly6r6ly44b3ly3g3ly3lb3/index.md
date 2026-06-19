@@ -2,7 +2,7 @@
 title: "Catalan (92 Olympics)"
 date: 2023-03-18
 ---
-**Bands:** [WYGYBYRYRYRYRY](/stripes/wygybyryryryry/) · **Stripes:** [LB LY G LY B LY R LY R LY R LY R LY](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LB LY G LY B LY R LY R LY R LY R LY</span></span>
+**Bands:** [YRYRYRYRYBYGYW](/stripes/yryryryrybygyw/) · **Stripes:** [LY R LY R LY R LY R LY B LY G LY LB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LY R LY R LY R LY R LY B LY G LY LB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2071
 
 ## Thread count
-N/3 Y3 G3 Y3 B3 Y44 DR6 Y6 DR6 Y6 DR6 Y6 DR6 Y/44
+Y/44 DR6 Y6 DR6 Y6 DR6 Y6 DR6 Y44 B3 Y3 G3 Y3 N/3
 ![Sett](sett.png)
 
 ## Palette
@@ -46,18 +46,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Catalan](/setts/s14/db3ly3g3ly62r9ly9r9ly9r9ly9r9ly62w3ly3/) — ΔT 0.90
 1. [Virginia Quadricentennial (District)](/setts/s13/ly40lo3ly10lo6ly20k3ly2k3ly10r4ly2r8ly2~x2/) — ΔT 1.48
 1. [Dundonald (Name)](/setts/s16/ly25db3ly3db2ly4db2ly3db3ly8ly10r16db1ly16db3ly8db2~x2/) — ΔT 2.08
-1. [Bro-Dreger](/setts/s7/lo3k2lo32r3lo3k5w3~x2/) — ΔT 2.17
+1. [Bro-Dreger](/setts/s7/w3k5lo3r3lo32k2lo3~x2/) — ΔT 2.17
 1. [Virginia Quadricentennial](/setts/s13/w40o3w10o6w20k3w2k3w10r4w2r8w2/) — ΔT 2.23
 1. [Houston Family Tartan Tartan Number: 2290. Earliest known date: 1994 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/g2ly1lo2ly1g2ly1lo2ly32dy2ly12lo2ly2~x2/) — ΔT 2.26
 1. [Gary (Personal)](/setts/s12/dp2r1lo4w2lo12w8lo12w2lo2lo2w1lo2~x4/) — ΔT 2.45
 1. [Houston #2 (Personal)](/setts/s12/lo32do2lo12dy2lo1g2lo1dy2lo1g2lo1dy2~x2/) — ΔT 2.46
-1. [Port Moresby City Pipes and Drums](/setts/s5/g2w3k5ly33r2~x2/) — ΔT 2.50
+1. [Port Moresby City Pipes and Drums](/setts/s5/r2ly33k5w3g2~x2/) — ΔT 2.50
 1. [Wilbers](/setts/s8/ly5k9ly2k7lo35r4lo35k4~x2/) — ΔT 2.52
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db3ly3g3ly62r9ly9r9ly9r9ly9r9ly62w3ly3/"><circle cx="494.5" cy="89.9" r="4" fill="#3465a4"><title>Catalan</title></circle></a><a href="/setts/s13/ly40lo3ly10lo6ly20k3ly2k3ly10r4ly2r8ly2~x2/"><circle cx="468.7" cy="123.3" r="4" fill="#3465a4"><title>Virginia Quadricentennial (District)</title></circle></a><a href="/setts/s16/ly25db3ly3db2ly4db2ly3db3ly8ly10r16db1ly16db3ly8db2~x2/"><circle cx="398.6" cy="102.7" r="4" fill="#3465a4"><title>Dundonald (Name)</title></circle></a><a href="/setts/s7/lo3k2lo32r3lo3k5w3~x2/"><circle cx="469.9" cy="144.6" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><a href="/setts/s13/w40o3w10o6w20k3w2k3w10r4w2r8w2/"><circle cx="428.8" cy="97.9" r="4" fill="#3465a4"><title>Virginia Quadricentennial</title></circle></a><a href="/setts/s12/g2ly1lo2ly1g2ly1lo2ly32dy2ly12lo2ly2~x2/"><circle cx="585.9" cy="102.7" r="4" fill="#3465a4"><title>Houston Family Tartan Tartan Number: 2290. Earliest known date: 1994 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/dp2r1lo4w2lo12w8lo12w2lo2lo2w1lo2~x4/"><circle cx="344.2" cy="131.8" r="4" fill="#3465a4"><title>Gary (Personal)</title></circle></a><a href="/setts/s12/lo32do2lo12dy2lo1g2lo1dy2lo1g2lo1dy2~x2/"><circle cx="604.9" cy="115.0" r="4" fill="#3465a4"><title>Houston #2 (Personal)</title></circle></a><a href="/setts/s5/g2w3k5ly33r2~x2/"><circle cx="422.9" cy="129.0" r="4" fill="#3465a4"><title>Port Moresby City Pipes and Drums</title></circle></a><a href="/setts/s8/ly5k9ly2k7lo35r4lo35k4~x2/"><circle cx="400.4" cy="150.5" r="4" fill="#3465a4"><title>Wilbers</title></circle></a><circle cx="468.8" cy="106.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db3ly3g3ly62r9ly9r9ly9r9ly9r9ly62w3ly3/"><circle cx="493.6" cy="89.6" r="4" fill="#3465a4"><title>Catalan</title></circle></a><a href="/setts/s13/ly40lo3ly10lo6ly20k3ly2k3ly10r4ly2r8ly2~x2/"><circle cx="468.0" cy="122.9" r="4" fill="#3465a4"><title>Virginia Quadricentennial (District)</title></circle></a><a href="/setts/s16/ly25db3ly3db2ly4db2ly3db3ly8ly10r16db1ly16db3ly8db2~x2/"><circle cx="397.9" cy="102.4" r="4" fill="#3465a4"><title>Dundonald (Name)</title></circle></a><a href="/setts/s7/w3k5lo3r3lo32k2lo3~x2/"><circle cx="469.3" cy="144.3" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><a href="/setts/s13/w40o3w10o6w20k3w2k3w10r4w2r8w2/"><circle cx="427.9" cy="97.5" r="4" fill="#3465a4"><title>Virginia Quadricentennial</title></circle></a><a href="/setts/s12/g2ly1lo2ly1g2ly1lo2ly32dy2ly12lo2ly2~x2/"><circle cx="584.9" cy="102.4" r="4" fill="#3465a4"><title>Houston Family Tartan Tartan Number: 2290. Earliest known date: 1994 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/dp2r1lo4w2lo12w8lo12w2lo2lo2w1lo2~x4/"><circle cx="343.5" cy="131.7" r="4" fill="#3465a4"><title>Gary (Personal)</title></circle></a><a href="/setts/s12/lo32do2lo12dy2lo1g2lo1dy2lo1g2lo1dy2~x2/"><circle cx="604.1" cy="114.7" r="4" fill="#3465a4"><title>Houston #2 (Personal)</title></circle></a><a href="/setts/s5/r2ly33k5w3g2~x2/"><circle cx="422.2" cy="128.6" r="4" fill="#3465a4"><title>Port Moresby City Pipes and Drums</title></circle></a><a href="/setts/s8/ly5k9ly2k7lo35r4lo35k4~x2/"><circle cx="399.9" cy="150.2" r="4" fill="#3465a4"><title>Wilbers</title></circle></a><circle cx="468.0" cy="106.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/ly44r6ly6r6ly6r6ly6r6ly44b3ly3g3ly3lb3/

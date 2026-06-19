@@ -8,7 +8,7 @@ RWKGRBY
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/lo3n12r12g16k9lb8r3~x2/tartan.png)
+![Woven sample](/setts/s7/r3lb8k9g16r12n12lo3~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RWKGRBY
 
 | Tartans |
 |---------------|
-| [Alabama (Fashion)](/setts/s7/lo3n12r12g16k9lb8r3~x2/)|
-|![Alabama (Fashion) example sett](/setts/s7/lo3n12r12g16k9lb8r3~x2/sett.png)|
+| [Alabama (Fashion)](/setts/s7/r3lb8k9g16r12n12lo3~x2/)|
+|![Alabama (Fashion) example sett](/setts/s7/r3lb8k9g16r12n12lo3~x2/sett.png)|
 

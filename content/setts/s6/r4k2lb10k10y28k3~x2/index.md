@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5129
 
 ## Thread count
-K/6 LT56 K20 N20 K4 R/8
+R/8 K4 N20 K20 LT56 K/6
 ![Sett](sett.png)
 
 ## Palette
@@ -32,7 +32,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/6 LT56 K20 N20 K4 R/8 tartan")
+![Tartan detail](tartan.png "R/8 K4 N20 K20 LT56 K/6 tartan")
 
 ## Nearest tartans
 
@@ -44,15 +44,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Merric Dark Camel.. Trade Tartan Tartan Number: 1688. Earliest known date: 1985 School colours. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r2w8k14dy25w2k2w2~x2/) — ΔT 0.89
 1. [Logan, with Yellow](/setts/s7/p8r3ly1r3g14r3ly1~x4/) — ΔT 0.89
 1. [Burberry Check Corporate Tartan Tartan Number: 1239. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/k6w6k6lo21r2~x4/) — ΔT 0.96
-1. [Merrick, Camel](/setts/s7/lb1k1lb1o18k8lb5r1~x4/) — ΔT 0.97
-1. [Logan #3](/setts/s7/dp9lr4dp1lr4g15r4dp1~x4/) — ΔT 1.02
+1. [Merrick, Camel](/setts/s7/r1lb5k8o18lb1k1lb1~x4/) — ΔT 0.97
 1. [Loch Ness](/setts/s6/r10w2k10w10o35k5~x2/) — ΔT 1.02
+1. [Logan #3](/setts/s7/dp9lr4dp1lr4g15r4dp1~x4/) — ΔT 1.02
 1. [Bryan Wedding (Personal)](/setts/s6/dy30ly5t10k10w2k2~x2/) — ΔT 1.03
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r10w2k10w10dy35k5~x2/"><circle cx="253.3" cy="169.3" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/setts/s8/do2w2k6do3k2o14k1o1~x4/"><circle cx="256.7" cy="154.7" r="4" fill="#3465a4"><title>Braemar or Blair Atholl</title></circle></a><a href="/setts/s8/do2lr2k6do3k2o14k1o1~x4/"><circle cx="268.2" cy="161.2" r="4" fill="#3465a4"><title>Blair Atholl (Fashion)</title></circle></a><a href="/setts/s7/r2w8k14dy25w2k2w2~x2/"><circle cx="234.3" cy="163.0" r="4" fill="#3465a4"><title>Merric Dark Camel.. Trade Tartan Tartan Number: 1688. Earliest known date: 1985 School colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/p8r3ly1r3g14r3ly1~x4/"><circle cx="240.1" cy="174.1" r="4" fill="#3465a4"><title>Logan, with Yellow</title></circle></a><a href="/setts/s5/k6w6k6lo21r2~x4/"><circle cx="245.0" cy="197.9" r="4" fill="#3465a4"><title>Burberry Check Corporate Tartan Tartan Number: 1239. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/lb1k1lb1o18k8lb5r1~x4/"><circle cx="295.7" cy="142.9" r="4" fill="#3465a4"><title>Merrick, Camel</title></circle></a><a href="/setts/s7/dp9lr4dp1lr4g15r4dp1~x4/"><circle cx="211.2" cy="176.5" r="4" fill="#3465a4"><title>Logan #3</title></circle></a><a href="/setts/s6/r10w2k10w10o35k5~x2/"><circle cx="241.2" cy="161.0" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/setts/s6/dy30ly5t10k10w2k2~x2/"><circle cx="252.8" cy="161.6" r="4" fill="#3465a4"><title>Bryan Wedding (Personal)</title></circle></a><circle cx="261.4" cy="177.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r10w2k10w10dy35k5~x2/"><circle cx="253.1" cy="169.2" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/setts/s8/do2w2k6do3k2o14k1o1~x4/"><circle cx="256.5" cy="154.6" r="4" fill="#3465a4"><title>Braemar or Blair Atholl</title></circle></a><a href="/setts/s8/do2lr2k6do3k2o14k1o1~x4/"><circle cx="268.1" cy="161.1" r="4" fill="#3465a4"><title>Blair Atholl (Fashion)</title></circle></a><a href="/setts/s7/r2w8k14dy25w2k2w2~x2/"><circle cx="234.2" cy="162.9" r="4" fill="#3465a4"><title>Merric Dark Camel.. Trade Tartan Tartan Number: 1688. Earliest known date: 1985 School colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/p8r3ly1r3g14r3ly1~x4/"><circle cx="239.8" cy="174.0" r="4" fill="#3465a4"><title>Logan, with Yellow</title></circle></a><a href="/setts/s5/k6w6k6lo21r2~x4/"><circle cx="244.9" cy="197.7" r="4" fill="#3465a4"><title>Burberry Check Corporate Tartan Tartan Number: 1239. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r1lb5k8o18lb1k1lb1~x4/"><circle cx="295.4" cy="142.8" r="4" fill="#3465a4"><title>Merrick, Camel</title></circle></a><a href="/setts/s6/r10w2k10w10o35k5~x2/"><circle cx="241.0" cy="160.8" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/setts/s7/dp9lr4dp1lr4g15r4dp1~x4/"><circle cx="211.1" cy="176.5" r="4" fill="#3465a4"><title>Logan #3</title></circle></a><a href="/setts/s6/dy30ly5t10k10w2k2~x2/"><circle cx="252.7" cy="161.5" r="4" fill="#3465a4"><title>Bryan Wedding (Personal)</title></circle></a><circle cx="261.2" cy="176.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r4k2lb10k10y28k3~x2/

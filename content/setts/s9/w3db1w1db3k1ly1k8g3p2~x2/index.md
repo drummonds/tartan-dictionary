@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,19 +909,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Kagame (Personal)](/setts/s10/k5lb14k3k7g3k3g7k6db24w3~x2/) — ΔT 0.92
 1. [Veere](/setts/s11/lb7k11lt3db9g19lo3k22db9lt3k3db6~x2/) — ΔT 0.93
-1. [Hislop Hunting (Name)](/setts/s11/r2db8g9k2w3k1ly1k7ly2k8r2~x2/) — ΔT 0.97
+1. [Hislop Hunting (Name)](/setts/s11/r2k8ly2k7ly1k1w3k2g9db8r2~x2/) — ΔT 0.97
 1. [Scottish Cultural Society (Corporate](/setts/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/) — ΔT 0.98
 1. [Veere](/setts/s12/t4k3t2db6k15ly2g16db4t2db2k8w4~x2/) — ΔT 0.99
 1. [Mellor, Phillip (Oldham)](/setts/s7/do8w8k16dg32dp3lo5w5~x2/) — ΔT 1.00
 1. [Crozier/Crosser](/setts/s11/w4db5r3db22ly4k3dg17r7k2r7ly2~x2/) — ΔT 1.01
-1. [Hislop/Hyslop Hunting #2](/setts/s11/r2db8dg9k2w3k1ly1k7ly2k8r2~x2/) — ΔT 1.02
+1. [Hislop/Hyslop Hunting #2](/setts/s11/r2k8ly2k7ly1k1w3k2dg9db8r2~x2/) — ΔT 1.02
 1. [Birch (Personal) (Estimated threadcount)](/setts/s9/g2dp2g10k6r2k6t10k1lb2~x2/) — ΔT 1.03
 1. [Ryukoku University Heian Junior High School](/setts/s10/lp4k16lr5n8lr2p2lr2p2n8k3~x2/) — ΔT 1.07
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k5lb14k3k7g3k3g7k6db24w3~x2/"><circle cx="57.8" cy="150.6" r="4" fill="#3465a4"><title>Kagame (Personal)</title></circle></a><a href="/setts/s11/lb7k11lt3db9g19lo3k22db9lt3k3db6~x2/"><circle cx="82.6" cy="166.5" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/setts/s11/r2db8g9k2w3k1ly1k7ly2k8r2~x2/"><circle cx="105.2" cy="154.9" r="4" fill="#3465a4"><title>Hislop Hunting (Name)</title></circle></a><a href="/setts/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/"><circle cx="108.6" cy="165.7" r="4" fill="#3465a4"><title>Scottish Cultural Society (Corporate</title></circle></a><a href="/setts/s12/t4k3t2db6k15ly2g16db4t2db2k8w4~x2/"><circle cx="88.5" cy="148.3" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/setts/s7/do8w8k16dg32dp3lo5w5~x2/"><circle cx="127.6" cy="151.9" r="4" fill="#3465a4"><title>Mellor, Phillip (Oldham)</title></circle></a><a href="/setts/s11/w4db5r3db22ly4k3dg17r7k2r7ly2~x2/"><circle cx="106.6" cy="128.9" r="4" fill="#3465a4"><title>Crozier/Crosser</title></circle></a><a href="/setts/s11/r2db8dg9k2w3k1ly1k7ly2k8r2~x2/"><circle cx="110.4" cy="158.6" r="4" fill="#3465a4"><title>Hislop/Hyslop Hunting #2</title></circle></a><a href="/setts/s9/g2dp2g10k6r2k6t10k1lb2~x2/"><circle cx="76.5" cy="158.1" r="4" fill="#3465a4"><title>Birch (Personal) (Estimated threadcount)</title></circle></a><a href="/setts/s10/lp4k16lr5n8lr2p2lr2p2n8k3~x2/"><circle cx="113.4" cy="165.8" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior High School</title></circle></a><circle cx="88.6" cy="151.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k5lb14k3k7g3k3g7k6db24w3~x2/"><circle cx="58.0" cy="150.7" r="4" fill="#3465a4"><title>Kagame (Personal)</title></circle></a><a href="/setts/s11/lb7k11lt3db9g19lo3k22db9lt3k3db6~x2/"><circle cx="82.9" cy="166.5" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/setts/s11/r2k8ly2k7ly1k1w3k2g9db8r2~x2/"><circle cx="105.3" cy="155.0" r="4" fill="#3465a4"><title>Hislop Hunting (Name)</title></circle></a><a href="/setts/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/"><circle cx="108.7" cy="165.8" r="4" fill="#3465a4"><title>Scottish Cultural Society (Corporate</title></circle></a><a href="/setts/s12/t4k3t2db6k15ly2g16db4t2db2k8w4~x2/"><circle cx="88.7" cy="148.4" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/setts/s7/do8w8k16dg32dp3lo5w5~x2/"><circle cx="127.7" cy="151.9" r="4" fill="#3465a4"><title>Mellor, Phillip (Oldham)</title></circle></a><a href="/setts/s11/w4db5r3db22ly4k3dg17r7k2r7ly2~x2/"><circle cx="106.7" cy="129.0" r="4" fill="#3465a4"><title>Crozier/Crosser</title></circle></a><a href="/setts/s11/r2k8ly2k7ly1k1w3k2dg9db8r2~x2/"><circle cx="110.5" cy="158.7" r="4" fill="#3465a4"><title>Hislop/Hyslop Hunting #2</title></circle></a><a href="/setts/s9/g2dp2g10k6r2k6t10k1lb2~x2/"><circle cx="76.7" cy="158.2" r="4" fill="#3465a4"><title>Birch (Personal) (Estimated threadcount)</title></circle></a><a href="/setts/s10/lp4k16lr5n8lr2p2lr2p2n8k3~x2/"><circle cx="113.5" cy="165.8" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior High School</title></circle></a><circle cx="88.8" cy="151.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/w3db1w1db3k1ly1k8g3p2~x2/

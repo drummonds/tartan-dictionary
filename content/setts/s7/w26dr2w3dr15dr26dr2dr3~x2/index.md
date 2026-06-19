@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/
 Original link http://www.tartansauthority.com/tartan-ferret/display/4960/
 
 ## Thread count
-DRa/6 DR4 DRa52 DRa30 W6 DRb4 W/52
+W/52 DRb4 W6 DRa30 DRa52 DR4 DRa/6
 ![Sett](sett.png)
 
 ## Palette
@@ -25,16 +25,16 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DRa/6 DR4 DRa52 DRa30 W6 DRb4 W/52 tartan")
+![Tartan detail](tartan.png "W/52 DRb4 W6 DRa30 DRa52 DR4 DRa/6 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [MacFie Dress](/setts/s9/lo1r12g2r2w16r2g2r12w1~x4/) — ΔT 1.23
+1. [MacFie Dress](/setts/s9/w1r12g2r2w16r2g2r12lo1~x4/) — ΔT 1.23
 1. [MacPherson Dress Burgundy (Dance)](/setts/s7/w4k2w25r21w3r8ly3~x2/) — ΔT 1.29
 1. [Buchanan #5](/setts/s6/k2w28r13w2r13w2~x2/) — ΔT 1.35
-1. [Instakilt, Pink (Fashion)](/setts/s7/m8w4m50k12m4k15m5~x2/) — ΔT 1.38
+1. [Instakilt, Pink (Fashion)](/setts/s7/m8w4m50k12m4k15m5~x2/) — ΔT 1.37
 1. [Texas Lone Star](/setts/s7/r50db14w6db9ly3db4r4~x2/) — ΔT 1.39
 1. [Nisbet Dress Rose (Dance)](/setts/s6/m3w1m20k8w8g2~x4/) — ΔT 1.41
 1. [Nesbit, Rose](/setts/s6/r6lb3r37k16lb16g4~x2/) — ΔT 1.44
@@ -44,8 +44,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lo1r12g2r2w16r2g2r12w1~x4/"><circle cx="309.8" cy="134.2" r="4" fill="#3465a4"><title>MacFie Dress</title></circle></a><a href="/setts/s7/w4k2w25r21w3r8ly3~x2/"><circle cx="265.4" cy="152.9" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy (Dance)</title></circle></a><a href="/setts/s6/k2w28r13w2r13w2~x2/"><circle cx="323.4" cy="170.9" r="4" fill="#3465a4"><title>Buchanan #5</title></circle></a><a href="/setts/s7/m8w4m50k12m4k15m5~x2/"><circle cx="366.3" cy="153.9" r="4" fill="#3465a4"><title>Instakilt, Pink (Fashion)</title></circle></a><a href="/setts/s7/r50db14w6db9ly3db4r4~x2/"><circle cx="350.6" cy="123.7" r="4" fill="#3465a4"><title>Texas Lone Star</title></circle></a><a href="/setts/s6/m3w1m20k8w8g2~x4/"><circle cx="301.6" cy="152.2" r="4" fill="#3465a4"><title>Nisbet Dress Rose (Dance)</title></circle></a><a href="/setts/s6/r6lb3r37k16lb16g4~x2/"><circle cx="267.2" cy="172.2" r="4" fill="#3465a4"><title>Nesbit, Rose</title></circle></a><a href="/setts/s7/w5r2w34r34k2r2ly4~x2/"><circle cx="281.4" cy="121.0" r="4" fill="#3465a4"><title>Cunningham Dress Burgundy (Dance)</title></circle></a><a href="/setts/s4/r80lb40k5lo6/"><circle cx="362.0" cy="182.8" r="4" fill="#3465a4"><title>Broberg (Scania) (Personal)</title></circle></a><a href="/setts/s7/w5k2w30r24w3r8dt3~x2/"><circle cx="297.3" cy="141.1" r="4" fill="#3465a4"><title>Arduaine, Red (Dance)</title></circle></a><circle cx="305.3" cy="151.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w1r12g2r2w16r2g2r12lo1~x4/"><circle cx="309.4" cy="134.0" r="4" fill="#3465a4"><title>MacFie Dress</title></circle></a><a href="/setts/s7/w4k2w25r21w3r8ly3~x2/"><circle cx="264.9" cy="152.7" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy (Dance)</title></circle></a><a href="/setts/s6/k2w28r13w2r13w2~x2/"><circle cx="322.9" cy="170.6" r="4" fill="#3465a4"><title>Buchanan #5</title></circle></a><a href="/setts/s7/m8w4m50k12m4k15m5~x2/"><circle cx="365.9" cy="153.6" r="4" fill="#3465a4"><title>Instakilt, Pink (Fashion)</title></circle></a><a href="/setts/s7/r50db14w6db9ly3db4r4~x2/"><circle cx="350.1" cy="123.4" r="4" fill="#3465a4"><title>Texas Lone Star</title></circle></a><a href="/setts/s6/m3w1m20k8w8g2~x4/"><circle cx="301.4" cy="152.0" r="4" fill="#3465a4"><title>Nisbet Dress Rose (Dance)</title></circle></a><a href="/setts/s6/r6lb3r37k16lb16g4~x2/"><circle cx="266.8" cy="172.0" r="4" fill="#3465a4"><title>Nesbit, Rose</title></circle></a><a href="/setts/s7/w5r2w34r34k2r2ly4~x2/"><circle cx="280.9" cy="120.7" r="4" fill="#3465a4"><title>Cunningham Dress Burgundy (Dance)</title></circle></a><a href="/setts/s4/r80lb40k5lo6/"><circle cx="361.7" cy="182.5" r="4" fill="#3465a4"><title>Broberg (Scania) (Personal)</title></circle></a><a href="/setts/s7/w5k2w30r24w3r8dt3~x2/"><circle cx="296.8" cy="140.9" r="4" fill="#3465a4"><title>Arduaine, Red (Dance)</title></circle></a><circle cx="305.0" cy="151.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/w26dr2w3dr15dr26dr2dr3~x2/

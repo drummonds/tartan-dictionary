@@ -13,13 +13,23 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Thread count
 R/12 DB6 R4 DB4 R4 DB32 K24 G32 R2 G2 Y/4
@@ -46,15 +56,15 @@ The nearest existing variants by ΔTartan distance.
 1. [MacDonell of Glengarry](/setts/s11/db8r4db12r1k12dg12r3dg2r1dg4lb1~x2/) — ΔT 0.87
 1. [MacRae, hunting](/setts/s9/dg14k2dg4r2dg4k14p15k1w3~x2/) — ΔT 0.88
 1. [Clerke of Ulva](/setts/s11/t3g3k4g14k4g3k14db18r1db4r2~x2/) — ΔT 0.89
-1. [MacDonald of Clanranald](/setts/s13/db8r1db2r3db12r1k12lb1dg12r3dg2r1dg8~x2/) — ΔT 0.90
+1. [MacDonald of Clanranald](/setts/s13/dg8r1dg2r3dg12lb1k12r1db12r3db2r1db8~x2/) — ΔT 0.90
 1. [Glenfalloch](/setts/s12/k4r1k12w1r4w1dg4w1m4dg12k1w2~x2/) — ΔT 0.90
 1. [Royal College of Surgeons of Edinburgh](/setts/s9/t4dt16k2dt2k2dt2k13n20w4~x2/) — ΔT 0.93
-1. [Clanranald, MacDonald of](/setts/s13/db16r2db2r7db31r2k32lb3dg31r7dg2r2dg16~x2/) — ΔT 0.94
+1. [Clanranald, MacDonald of](/setts/s13/dg16r2dg2r7dg31lb3k32r2db31r7db2r2db16~x2/) — ΔT 0.94
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/"><circle cx="158.1" cy="134.3" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lb1/"><circle cx="153.3" cy="153.8" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><a href="/setts/s11/dg8r1dg1r3dg16k16r1db16r3db8ly2/"><circle cx="159.5" cy="153.8" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><a href="/setts/s11/db8r4db12r1k12dg12r3dg2r1dg4lb1~x2/"><circle cx="139.2" cy="167.9" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s9/dg14k2dg4r2dg4k14p15k1w3~x2/"><circle cx="164.9" cy="154.1" r="4" fill="#3465a4"><title>MacRae, hunting</title></circle></a><a href="/setts/s11/t3g3k4g14k4g3k14db18r1db4r2~x2/"><circle cx="148.1" cy="144.9" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12lb1dg12r3dg2r1dg8~x2/"><circle cx="146.2" cy="158.2" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/setts/s12/k4r1k12w1r4w1dg4w1m4dg12k1w2~x2/"><circle cx="148.0" cy="138.5" r="4" fill="#3465a4"><title>Glenfalloch</title></circle></a><a href="/setts/s9/t4dt16k2dt2k2dt2k13n20w4~x2/"><circle cx="133.6" cy="170.8" r="4" fill="#3465a4"><title>Royal College of Surgeons of Edinburgh</title></circle></a><a href="/setts/s13/db16r2db2r7db31r2k32lb3dg31r7dg2r2dg16~x2/"><circle cx="168.0" cy="143.2" r="4" fill="#3465a4"><title>Clanranald, MacDonald of</title></circle></a><circle cx="147.8" cy="135.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/"><circle cx="158.2" cy="134.3" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lb1/"><circle cx="153.4" cy="153.9" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><a href="/setts/s11/dg8r1dg1r3dg16k16r1db16r3db8ly2/"><circle cx="159.7" cy="153.9" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><a href="/setts/s11/db8r4db12r1k12dg12r3dg2r1dg4lb1~x2/"><circle cx="139.4" cy="168.0" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s9/dg14k2dg4r2dg4k14p15k1w3~x2/"><circle cx="165.0" cy="154.1" r="4" fill="#3465a4"><title>MacRae, hunting</title></circle></a><a href="/setts/s11/t3g3k4g14k4g3k14db18r1db4r2~x2/"><circle cx="148.3" cy="145.0" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/setts/s13/dg8r1dg2r3dg12lb1k12r1db12r3db2r1db8~x2/"><circle cx="146.3" cy="158.3" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/setts/s12/k4r1k12w1r4w1dg4w1m4dg12k1w2~x2/"><circle cx="148.0" cy="138.6" r="4" fill="#3465a4"><title>Glenfalloch</title></circle></a><a href="/setts/s9/t4dt16k2dt2k2dt2k13n20w4~x2/"><circle cx="133.8" cy="170.9" r="4" fill="#3465a4"><title>Royal College of Surgeons of Edinburgh</title></circle></a><a href="/setts/s13/dg16r2dg2r7dg31lb3k32r2db31r7db2r2db16~x2/"><circle cx="168.2" cy="143.4" r="4" fill="#3465a4"><title>Clanranald, MacDonald of</title></circle></a><circle cx="147.9" cy="135.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/r6db3r2db2r2db16k12dg16r1dg1ly2~x2/

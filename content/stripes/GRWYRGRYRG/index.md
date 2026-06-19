@@ -18,7 +18,7 @@ GRWYRGRYRG
 
 
 
-### DG O LB LO O DG O LO O DG <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="seq">DG O LB LO O DG O LO O DG</span></span>
+### DG O LO O DG O LO LB O DG <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="seq">DG O LO O DG O LO LB O DG</span></span>
 
 | Tartans |
 |---------------|

@@ -2,7 +2,7 @@
 title: "Urquhart (Logan)"
 date: 2023-03-18
 ---
-**Bands:** [GKGKBRBKGKGKG](/stripes/gkgkbrbkgkgkg/) · **Stripes:** [G K G K DB R DB K G K G K G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K G K DB R DB K G K G K G</span></span>
+**Bands:** [GKGKGKBRBKGKG](/stripes/gkgkgkbrbkgkg/) · **Stripes:** [G K G K G K DB R DB K G K G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K G K G K DB R DB K G K G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
@@ -319,6 +319,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +420,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +680,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -901,7 +904,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-G/2 K2 G16 K16 DB16 DR2 DB16 K16 G2 K2 G2 K2 G/16
+G/16 K2 G2 K2 G2 K16 DB16 DR2 DB16 K16 G16 K2 G/2
 ![Sett](sett.png)
 
 ## Palette
@@ -931,8 +934,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g4k1g1k1g1k8db8r1db8k8g8k1g1~x8/"><circle cx="214.6" cy="212.0" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/setts/s13/db9k9dg9k1w1k2w1k1dg9k9db9k1dg2~x4/"><circle cx="208.5" cy="212.6" r="4" fill="#3465a4"><title>Stephenson Hunting</title></circle></a><a href="/setts/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/"><circle cx="206.2" cy="208.2" r="4" fill="#3465a4"><title>Lorne, Louise of</title></circle></a><a href="/setts/s13/g56k6g7k6g7k35db45lo6db45k35g45k6g6/"><circle cx="226.8" cy="210.9" r="4" fill="#3465a4"><title>Dewar's Highlander</title></circle></a><a href="/setts/s13/db23k3db3k3db3k17g22ly4g22k17db22k3db3~x2/"><circle cx="193.5" cy="211.3" r="4" fill="#3465a4"><title>Westgate (Corporate)</title></circle></a><a href="/setts/s15/db19k3db3k3db3k20g19k2r5k2g19k20db19k3db3~x2/"><circle cx="215.5" cy="196.6" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/setts/s15/db17k3db3k3db3k16dg15k2w3k2dg15k16db16k3db3~x2/"><circle cx="216.3" cy="210.9" r="4" fill="#3465a4"><title>Forbes #2</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6g6t2g6k6db6k1g2~x4/"><circle cx="165.8" cy="234.2" r="4" fill="#3465a4"><title>Cheape of Torosay #2 (Personal)</title></circle></a><a href="/setts/s13/db1k1db6k6g6k1w1k1g6k6db6k1db1~x8/"><circle cx="182.1" cy="223.4" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/db30k5db5k5db5k24g24ly6g24k24db24k5db5/"><circle cx="187.1" cy="235.4" r="4" fill="#3465a4"><title>Lamberton (?)</title></circle></a><circle cx="204.6" cy="214.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g4k1g1k1g1k8db8r1db8k8g8k1g1~x8/"><circle cx="214.8" cy="212.1" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/setts/s13/db9k9dg9k1w1k2w1k1dg9k9db9k1dg2~x4/"><circle cx="208.6" cy="212.7" r="4" fill="#3465a4"><title>Stephenson Hunting</title></circle></a><a href="/setts/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/"><circle cx="206.4" cy="208.3" r="4" fill="#3465a4"><title>Lorne, Louise of</title></circle></a><a href="/setts/s13/g56k6g7k6g7k35db45lo6db45k35g45k6g6/"><circle cx="226.9" cy="211.0" r="4" fill="#3465a4"><title>Dewar's Highlander</title></circle></a><a href="/setts/s13/db23k3db3k3db3k17g22ly4g22k17db22k3db3~x2/"><circle cx="193.7" cy="211.3" r="4" fill="#3465a4"><title>Westgate (Corporate)</title></circle></a><a href="/setts/s15/db19k3db3k3db3k20g19k2r5k2g19k20db19k3db3~x2/"><circle cx="215.6" cy="196.7" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/setts/s15/db17k3db3k3db3k16dg15k2w3k2dg15k16db16k3db3~x2/"><circle cx="216.5" cy="211.0" r="4" fill="#3465a4"><title>Forbes #2</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6g6t2g6k6db6k1g2~x4/"><circle cx="165.9" cy="234.3" r="4" fill="#3465a4"><title>Cheape of Torosay #2 (Personal)</title></circle></a><a href="/setts/s13/db1k1db6k6g6k1w1k1g6k6db6k1db1~x8/"><circle cx="182.3" cy="223.5" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/db30k5db5k5db5k24g24ly6g24k24db24k5db5/"><circle cx="187.3" cy="235.5" r="4" fill="#3465a4"><title>Lamberton (?)</title></circle></a><circle cx="204.7" cy="214.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/g8k1g1k1g1k8db8r1db8k8g8k1g1~x2/

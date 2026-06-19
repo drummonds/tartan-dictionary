@@ -2,7 +2,7 @@
 title: "Musselburgh"
 date: 2023-03-18
 ---
-**Bands:** [BWBYBWBBR](/stripes/bwbybwbbr/) · **Stripes:** [T W T LY T W T DB R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">T W T LY T W T DB R</span></span>
+**Bands:** [RBBWBYBWB](/stripes/rbbwbybwb/) · **Stripes:** [R DB T W T LY T W T](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="seq">R DB T W T LY T W T</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,19 +915,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [U.S. Merchant Marine Academy (Corpo](/setts/s7/o37lo2r6lo2o8db49o3~x2/) — ΔT 1.26
 1. [Gorman Blue (Personal)](/setts/s8/w4t1lo2t22b20w2b4w2~x2/) — ΔT 1.33
-1. [Coopers & Lybrand](/setts/s11/t4g4r1db24t4k2g24r1db10t4db2~x2/) — ΔT 1.37
 1. [Browne (Personal)](/setts/s8/n20db2n2db2n2o47db24w2/) — ΔT 1.37
+1. [Coopers & Lybrand](/setts/s11/t4g4r1db24t4k2g24r1db10t4db2~x2/) — ΔT 1.37
 1. [Schiehallion (Corporate)](/setts/s11/b14db4g2db2g3db2b17db31b1db1w2~x2/) — ΔT 1.38
 1. [Blue Ridge Highlands Heritage](/setts/s8/t27db9lb3g6db33lb3dr3ly2~x2/) — ΔT 1.38
 1. [Polkemmet (Corporate)](/setts/s11/k7lo3db62o16g5o5g5o5g16db16k4/) — ΔT 1.44
-1. [Wcwm 1475-2](/setts/s9/r2db34k2lb2k2n30db3n6r2~x2/) — ΔT 1.46
+1. [Wcwm 1475-2](/setts/s9/r2db34k2lb2k2n30db3n6r2~x2/) — ΔT 1.47
 1. [Bousie (Personal)](/setts/s7/w3t38db38w1t3w1r2~x2/) — ΔT 1.47
 1. [Lawrie](/setts/s7/dp6y2dp1g25db16k2db4~x2/) — ΔT 1.51
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/o37lo2r6lo2o8db49o3~x2/"><circle cx="346.7" cy="161.8" r="4" fill="#3465a4"><title>U.S. Merchant Marine Academy (Corpo</title></circle></a><a href="/setts/s8/w4t1lo2t22b20w2b4w2~x2/"><circle cx="298.3" cy="161.2" r="4" fill="#3465a4"><title>Gorman Blue (Personal)</title></circle></a><a href="/setts/s11/t4g4r1db24t4k2g24r1db10t4db2~x2/"><circle cx="291.4" cy="142.9" r="4" fill="#3465a4"><title>Coopers &amp; Lybrand</title></circle></a><a href="/setts/s8/n20db2n2db2n2o47db24w2/"><circle cx="345.6" cy="165.3" r="4" fill="#3465a4"><title>Browne (Personal)</title></circle></a><a href="/setts/s11/b14db4g2db2g3db2b17db31b1db1w2~x2/"><circle cx="356.1" cy="128.7" r="4" fill="#3465a4"><title>Schiehallion (Corporate)</title></circle></a><a href="/setts/s8/t27db9lb3g6db33lb3dr3ly2~x2/"><circle cx="263.7" cy="146.0" r="4" fill="#3465a4"><title>Blue Ridge Highlands Heritage</title></circle></a><a href="/setts/s11/k7lo3db62o16g5o5g5o5g16db16k4/"><circle cx="323.2" cy="135.9" r="4" fill="#3465a4"><title>Polkemmet (Corporate)</title></circle></a><a href="/setts/s9/r2db34k2lb2k2n30db3n6r2~x2/"><circle cx="317.9" cy="151.1" r="4" fill="#3465a4"><title>Wcwm 1475-2</title></circle></a><a href="/setts/s7/w3t38db38w1t3w1r2~x2/"><circle cx="319.8" cy="119.5" r="4" fill="#3465a4"><title>Bousie (Personal)</title></circle></a><a href="/setts/s7/dp6y2dp1g25db16k2db4~x2/"><circle cx="311.0" cy="171.5" r="4" fill="#3465a4"><title>Lawrie</title></circle></a><circle cx="311.8" cy="140.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/o37lo2r6lo2o8db49o3~x2/"><circle cx="346.5" cy="161.7" r="4" fill="#3465a4"><title>U.S. Merchant Marine Academy (Corpo</title></circle></a><a href="/setts/s8/w4t1lo2t22b20w2b4w2~x2/"><circle cx="298.1" cy="161.1" r="4" fill="#3465a4"><title>Gorman Blue (Personal)</title></circle></a><a href="/setts/s8/n20db2n2db2n2o47db24w2/"><circle cx="345.3" cy="165.3" r="4" fill="#3465a4"><title>Browne (Personal)</title></circle></a><a href="/setts/s11/t4g4r1db24t4k2g24r1db10t4db2~x2/"><circle cx="291.4" cy="143.0" r="4" fill="#3465a4"><title>Coopers &amp; Lybrand</title></circle></a><a href="/setts/s11/b14db4g2db2g3db2b17db31b1db1w2~x2/"><circle cx="356.0" cy="128.7" r="4" fill="#3465a4"><title>Schiehallion (Corporate)</title></circle></a><a href="/setts/s8/t27db9lb3g6db33lb3dr3ly2~x2/"><circle cx="263.6" cy="146.0" r="4" fill="#3465a4"><title>Blue Ridge Highlands Heritage</title></circle></a><a href="/setts/s11/k7lo3db62o16g5o5g5o5g16db16k4/"><circle cx="323.1" cy="135.9" r="4" fill="#3465a4"><title>Polkemmet (Corporate)</title></circle></a><a href="/setts/s9/r2db34k2lb2k2n30db3n6r2~x2/"><circle cx="317.9" cy="151.2" r="4" fill="#3465a4"><title>Wcwm 1475-2</title></circle></a><a href="/setts/s7/w3t38db38w1t3w1r2~x2/"><circle cx="319.7" cy="119.5" r="4" fill="#3465a4"><title>Bousie (Personal)</title></circle></a><a href="/setts/s7/dp6y2dp1g25db16k2db4~x2/"><circle cx="311.0" cy="171.6" r="4" fill="#3465a4"><title>Lawrie</title></circle></a><circle cx="311.6" cy="140.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/t14w1t3ly2t3w1t4db24r3~x2/

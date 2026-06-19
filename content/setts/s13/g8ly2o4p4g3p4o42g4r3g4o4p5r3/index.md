@@ -2,7 +2,7 @@
 title: "Sarna"
 date: 2023-03-18
 ---
-**Bands:** [GYRBGBRGRGRBR](/stripes/gyrbgbrgrgrbr/) · **Stripes:** [G LY O P G P O G R G O P R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="seq">G LY O P G P O G R G O P R</span></span>
+**Bands:** [RBRGRGRBGBRYG](/stripes/rbrgrgrbgbryg/) · **Stripes:** [R P O G R G O P G P O LY G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R P O G R G O P G P O LY G</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,14 +913,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Westmeath Irish County Tartan Tartan Number: 2278. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/g11r6db6dy2g3dy2db6r6g36ly2dy3ly2db5r5~x2/) — ΔT 1.28
 1. [Chisholm hunting](/setts/s10/o6w1o24db6g2db1g2db1g12r1~x2/) — ΔT 1.29
 1. [Brewer](/setts/s19/g3r2b1r19g1r1g1r8g1b8r1g8r1g1r1g28ly1g2m2~x2/) — ΔT 1.32
-1. [Unidentified #25](/setts/s12/b4dy2b2w2dy9lo27r4lo27dy9w2b2dy2~x3/) — ΔT 1.34
+1. [Unidentified #25](/setts/s12/r4lo27dy9w2b2dy2b4~x3/) — ΔT 1.34
 1. [McAlifyfe (Personal)](/setts/s11/k3y3lo2y30k2y3m12y6m6k3y3~x2/) — ΔT 1.39
 1. [Diana Hunting Plaid Tartan Tartan Number: 1318. Earliest known date: 1981 Based on MacNab. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/dy46t3dy7g2r2g2w2g11t6db2t3r2~x2/) — ΔT 1.40
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g8ly2dy4dp4g3dp4dy42g4r3g4dy4dp5r3/"><circle cx="388.6" cy="129.7" r="4" fill="#3465a4"><title>Sarna (District)</title></circle></a><a href="/setts/s11/n36dr10lo2dr5g2dr5lo10n5lo2n10w2~x2/"><circle cx="384.8" cy="157.8" r="4" fill="#3465a4"><title>Toyokawa Check</title></circle></a><a href="/setts/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/"><circle cx="400.2" cy="102.6" r="4" fill="#3465a4"><title>Diana, hunting Plaid</title></circle></a><a href="/setts/s10/db4y30do2y2do14w2do2w1do6y3~x2/"><circle cx="365.6" cy="133.7" r="4" fill="#3465a4"><title>Hickory</title></circle></a><a href="/setts/s14/g11r6db6dy2g3dy2db6r6g36ly2dy3ly2db5r5~x2/"><circle cx="341.2" cy="146.4" r="4" fill="#3465a4"><title>Westmeath Irish County Tartan Tartan Number: 2278. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/o6w1o24db6g2db1g2db1g12r1~x2/"><circle cx="383.0" cy="151.9" r="4" fill="#3465a4"><title>Chisholm hunting</title></circle></a><a href="/setts/s19/g3r2b1r19g1r1g1r8g1b8r1g8r1g1r1g28ly1g2m2~x2/"><circle cx="364.2" cy="98.8" r="4" fill="#3465a4"><title>Brewer</title></circle></a><a href="/setts/s12/b4dy2b2w2dy9lo27r4lo27dy9w2b2dy2~x3/"><circle cx="358.8" cy="147.9" r="4" fill="#3465a4"><title>Unidentified #25</title></circle></a><a href="/setts/s11/k3y3lo2y30k2y3m12y6m6k3y3~x2/"><circle cx="374.3" cy="146.9" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><a href="/setts/s12/dy46t3dy7g2r2g2w2g11t6db2t3r2~x2/"><circle cx="393.3" cy="104.3" r="4" fill="#3465a4"><title>Diana Hunting Plaid Tartan Tartan Number: 1318. Earliest known date: 1981 Based on MacNab. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="380.2" cy="121.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g8ly2dy4dp4g3dp4dy42g4r3g4dy4dp5r3/"><circle cx="388.2" cy="129.8" r="4" fill="#3465a4"><title>Sarna (District)</title></circle></a><a href="/setts/s11/n36dr10lo2dr5g2dr5lo10n5lo2n10w2~x2/"><circle cx="384.5" cy="157.9" r="4" fill="#3465a4"><title>Toyokawa Check</title></circle></a><a href="/setts/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/"><circle cx="399.7" cy="102.7" r="4" fill="#3465a4"><title>Diana, hunting Plaid</title></circle></a><a href="/setts/s10/db4y30do2y2do14w2do2w1do6y3~x2/"><circle cx="365.3" cy="133.8" r="4" fill="#3465a4"><title>Hickory</title></circle></a><a href="/setts/s14/g11r6db6dy2g3dy2db6r6g36ly2dy3ly2db5r5~x2/"><circle cx="341.0" cy="146.5" r="4" fill="#3465a4"><title>Westmeath Irish County Tartan Tartan Number: 2278. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/o6w1o24db6g2db1g2db1g12r1~x2/"><circle cx="382.7" cy="152.0" r="4" fill="#3465a4"><title>Chisholm hunting</title></circle></a><a href="/setts/s19/g3r2b1r19g1r1g1r8g1b8r1g8r1g1r1g28ly1g2m2~x2/"><circle cx="363.9" cy="98.9" r="4" fill="#3465a4"><title>Brewer</title></circle></a><a href="/setts/s12/r4lo27dy9w2b2dy2b4~x3/"><circle cx="358.3" cy="147.9" r="4" fill="#3465a4"><title>Unidentified #25</title></circle></a><a href="/setts/s11/k3y3lo2y30k2y3m12y6m6k3y3~x2/"><circle cx="373.9" cy="146.9" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><a href="/setts/s12/dy46t3dy7g2r2g2w2g11t6db2t3r2~x2/"><circle cx="393.0" cy="104.4" r="4" fill="#3465a4"><title>Diana Hunting Plaid Tartan Tartan Number: 1318. Earliest known date: 1981 Based on MacNab. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="379.8" cy="121.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/g8ly2o4p4g3p4o42g4r3g4o4p5r3/

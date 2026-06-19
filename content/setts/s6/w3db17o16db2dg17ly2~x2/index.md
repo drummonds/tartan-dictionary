@@ -2,7 +2,7 @@
 title: "Atlantic, Ancient"
 date: 2023-03-18
 ---
-**Bands:** [WBRBGY](/stripes/wbrbgy/) · **Stripes:** [W DB O DB DG LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W DB O DB DG LY</span></span>
+**Bands:** [YGBRBW](/stripes/ygbrbw/) · **Stripes:** [LY DG DB O DB W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DG DB O DB W</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -909,20 +912,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Atlantic Ancient Trade Tartan Tartan Number: 1781. Earliest known date: 1968 Also known as Murray of Atholl, it has been authorized by Ian Murray, Duke of Atholl. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/w3db17dy16db2dg17ly2~x2/) — ΔT 0.59
-1. [Huntly Gordon 2000 (Commem)](/setts/s6/ly2g11k11b12dt3r2~x2/) — ΔT 0.97
+1. [Huntly Gordon 2000 (Commem)](/setts/s6/r2dt3b12k11g11ly2~x2/) — ΔT 0.97
 1. [Scottish Odyssey](/setts/s7/b7db11k3db11dy11g22db3~x2/) — ΔT 0.99
 1. [Jamestown Parish Church (Corporate)](/setts/s6/r3ly2g12k12db14w3~x2/) — ΔT 1.00
 1. [McHale, Barry](/setts/s6/t15k10dt30o11w3lg5~x2/) — ΔT 1.00
 1. [Falardeau-Murphy (Canada) (Personal)](/setts/s7/dg21t21ly3r21dt3dp5dt3~x2/) — ΔT 1.00
-1. [Morris of Balgonie (Personal)](/setts/s6/lo2g20k10r3dp20w2~x2/) — ΔT 1.02
-1. [Gracey (2013)](/setts/s7/lg3k3db17k20g20dp8r3~x2/) — ΔT 1.04
-1. [State Seal of Michigan (Fashion)](/setts/s6/lb4b38n19lo6do27r4~x2/) — ΔT 1.08
-1. [Morris of Eddergoll (Personal)](/setts/s6/lo2g20k10r3db20w2~x2/) — ΔT 1.09
+1. [Morris of Balgonie (Personal)](/setts/s6/w2dp20r3k10g20lo2~x2/) — ΔT 1.02
+1. [Gracey (2013)](/setts/s7/r3dp8g20k20db17k3lg3~x2/) — ΔT 1.04
+1. [State Seal of Michigan (Fashion)](/setts/s6/r4do27lo6n19b38lb4~x2/) — ΔT 1.08
+1. [Morris of Eddergoll (Personal)](/setts/s6/w2db20r3k10g20lo2~x2/) — ΔT 1.09
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/w3db17dy16db2dg17ly2~x2/"><circle cx="132.3" cy="206.2" r="4" fill="#3465a4"><title>Atlantic Ancient Trade Tartan Tartan Number: 1781. Earliest known date: 1968 Also known as Murray of Atholl, it has been authorized by Ian Murray, Duke of Atholl. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/ly2g11k11b12dt3r2~x2/"><circle cx="75.8" cy="217.3" r="4" fill="#3465a4"><title>Huntly Gordon 2000 (Commem)</title></circle></a><a href="/setts/s7/b7db11k3db11dy11g22db3~x2/"><circle cx="101.9" cy="215.7" r="4" fill="#3465a4"><title>Scottish Odyssey</title></circle></a><a href="/setts/s6/r3ly2g12k12db14w3~x2/"><circle cx="74.8" cy="202.6" r="4" fill="#3465a4"><title>Jamestown Parish Church (Corporate)</title></circle></a><a href="/setts/s6/t15k10dt30o11w3lg5~x2/"><circle cx="154.5" cy="192.6" r="4" fill="#3465a4"><title>McHale, Barry</title></circle></a><a href="/setts/s7/dg21t21ly3r21dt3dp5dt3~x2/"><circle cx="104.9" cy="191.4" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/setts/s6/lo2g20k10r3dp20w2~x2/"><circle cx="151.5" cy="178.8" r="4" fill="#3465a4"><title>Morris of Balgonie (Personal)</title></circle></a><a href="/setts/s7/lg3k3db17k20g20dp8r3~x2/"><circle cx="111.0" cy="212.2" r="4" fill="#3465a4"><title>Gracey (2013)</title></circle></a><a href="/setts/s6/lb4b38n19lo6do27r4~x2/"><circle cx="173.7" cy="195.3" r="4" fill="#3465a4"><title>State Seal of Michigan (Fashion)</title></circle></a><a href="/setts/s6/lo2g20k10r3db20w2~x2/"><circle cx="138.7" cy="181.3" r="4" fill="#3465a4"><title>Morris of Eddergoll (Personal)</title></circle></a><circle cx="119.5" cy="197.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/w3db17dy16db2dg17ly2~x2/"><circle cx="132.5" cy="206.4" r="4" fill="#3465a4"><title>Atlantic Ancient Trade Tartan Tartan Number: 1781. Earliest known date: 1968 Also known as Murray of Atholl, it has been authorized by Ian Murray, Duke of Atholl. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r2dt3b12k11g11ly2~x2/"><circle cx="76.0" cy="217.4" r="4" fill="#3465a4"><title>Huntly Gordon 2000 (Commem)</title></circle></a><a href="/setts/s7/b7db11k3db11dy11g22db3~x2/"><circle cx="102.1" cy="215.8" r="4" fill="#3465a4"><title>Scottish Odyssey</title></circle></a><a href="/setts/s6/r3ly2g12k12db14w3~x2/"><circle cx="75.0" cy="202.7" r="4" fill="#3465a4"><title>Jamestown Parish Church (Corporate)</title></circle></a><a href="/setts/s6/t15k10dt30o11w3lg5~x2/"><circle cx="154.6" cy="192.7" r="4" fill="#3465a4"><title>McHale, Barry</title></circle></a><a href="/setts/s7/dg21t21ly3r21dt3dp5dt3~x2/"><circle cx="105.0" cy="191.6" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/setts/s6/w2dp20r3k10g20lo2~x2/"><circle cx="151.6" cy="178.9" r="4" fill="#3465a4"><title>Morris of Balgonie (Personal)</title></circle></a><a href="/setts/s7/r3dp8g20k20db17k3lg3~x2/"><circle cx="111.3" cy="212.4" r="4" fill="#3465a4"><title>Gracey (2013)</title></circle></a><a href="/setts/s6/r4do27lo6n19b38lb4~x2/"><circle cx="173.8" cy="195.4" r="4" fill="#3465a4"><title>State Seal of Michigan (Fashion)</title></circle></a><a href="/setts/s6/w2db20r3k10g20lo2~x2/"><circle cx="138.9" cy="181.3" r="4" fill="#3465a4"><title>Morris of Eddergoll (Personal)</title></circle></a><circle cx="119.6" cy="197.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/w3db17o16db2dg17ly2~x2/

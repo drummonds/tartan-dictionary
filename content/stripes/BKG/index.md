@@ -21,7 +21,7 @@ BKG
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### T K G <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">T K G</span></span>
+### G K T <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">G K T</span></span>
 
 | Tartans |
 |---------------|
@@ -30,7 +30,7 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 | [Wilson's, No 50](/setts/s3/g5k6t1~x4/)|
 |![Wilson's, No 50 example sett](/setts/s3/g5k6t1~x4/sett.png)|
 
-### DB K G <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB K G</span></span>
+### G K DB <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G K DB</span></span>
 
 | Tartans |
 |---------------|

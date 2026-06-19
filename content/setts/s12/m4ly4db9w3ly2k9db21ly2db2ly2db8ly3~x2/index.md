@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -909,15 +912,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Keogh (Name)](/setts/s10/r4b18r4t3r4k12r3b24k2ly3~x2/) — ΔT 1.08
 1. [O Savanao (District)](/setts/s12/ly7db5ly25db26lb4db4r3db4g4db26ly25db5~x2/) — ΔT 1.11
 1. [Norwich No.020](/setts/s11/t3k1t1db4t10r2k8db2t1k1t3~x2/) — ΔT 1.21
-1. [Thistle Dubh](/setts/s15/lp5n4lp3n6g3n2g3n2g2n10k15n20w3n3w5~x2/) — ΔT 1.25
+1. [Thistle Dubh](/setts/s15/w5n3w3n20k15n10g2n2g3n2g3n6lp3n4lp5~x2/) — ΔT 1.25
 1. [Fitzgerald (Family)](/setts/s9/r3b22r3b3k14b14t3b3w2~x2/) — ΔT 1.31
 1. [Auld Lang Syne Blue](/setts/s12/w4k2b9k3m3k3m3k23g10k2m6w2~x2/) — ΔT 1.35
-1. [MacCainsh](/setts/s11/ly2db8k1g2k1g4k1g2k1db8r2~x2/) — ΔT 1.38
+1. [MacCainsh](/setts/s11/r2db8k1g2k1g4k1g2k1db8ly2~x2/) — ΔT 1.38
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r4ly4db9w3ly2k9db21ly2db2ly2db8ly3~x2/"><circle cx="249.0" cy="144.0" r="4" fill="#3465a4"><title>Ruxton Dress</title></circle></a><a href="/setts/s9/db32r4db4ly4db9o9db4o16w7~x2/"><circle cx="242.5" cy="174.6" r="4" fill="#3465a4"><title>Nevada State American District Tartan Tartan Number: 3091. Earliest known date: 2001 Blue and Silver represent the state colours of Nevada. Red represents the Virgin Valley black fire opal, the official state precious gemstone, and the red rock formations of southern Nevada; Yellow represents sagebrush, the official state flower; White represents the name of this state meaning snow-covered; Other synbolic reference are made in the US Senate Bill No. 347. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db32r4db4ly4db9lr9db4lr16w7~x2/"><circle cx="227.9" cy="165.5" r="4" fill="#3465a4"><title>Nevada State</title></circle></a><a href="/setts/s10/r4b18r4t3r4k12r3b24k2ly3~x2/"><circle cx="259.2" cy="154.6" r="4" fill="#3465a4"><title>Keogh (Name)</title></circle></a><a href="/setts/s12/ly7db5ly25db26lb4db4r3db4g4db26ly25db5~x2/"><circle cx="214.3" cy="147.3" r="4" fill="#3465a4"><title>O Savanao (District)</title></circle></a><a href="/setts/s11/t3k1t1db4t10r2k8db2t1k1t3~x2/"><circle cx="193.0" cy="156.9" r="4" fill="#3465a4"><title>Norwich No.020</title></circle></a><a href="/setts/s15/lp5n4lp3n6g3n2g3n2g2n10k15n20w3n3w5~x2/"><circle cx="230.0" cy="144.9" r="4" fill="#3465a4"><title>Thistle Dubh</title></circle></a><a href="/setts/s9/r3b22r3b3k14b14t3b3w2~x2/"><circle cx="287.7" cy="162.8" r="4" fill="#3465a4"><title>Fitzgerald (Family)</title></circle></a><a href="/setts/s12/w4k2b9k3m3k3m3k23g10k2m6w2~x2/"><circle cx="187.4" cy="137.8" r="4" fill="#3465a4"><title>Auld Lang Syne Blue</title></circle></a><a href="/setts/s11/ly2db8k1g2k1g4k1g2k1db8r2~x2/"><circle cx="199.6" cy="171.9" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><circle cx="245.6" cy="144.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r4ly4db9w3ly2k9db21ly2db2ly2db8ly3~x2/"><circle cx="248.9" cy="143.9" r="4" fill="#3465a4"><title>Ruxton Dress</title></circle></a><a href="/setts/s9/db32r4db4ly4db9o9db4o16w7~x2/"><circle cx="242.4" cy="174.4" r="4" fill="#3465a4"><title>Nevada State American District Tartan Tartan Number: 3091. Earliest known date: 2001 Blue and Silver represent the state colours of Nevada. Red represents the Virgin Valley black fire opal, the official state precious gemstone, and the red rock formations of southern Nevada; Yellow represents sagebrush, the official state flower; White represents the name of this state meaning snow-covered; Other synbolic reference are made in the US Senate Bill No. 347. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db32r4db4ly4db9lr9db4lr16w7~x2/"><circle cx="227.8" cy="165.3" r="4" fill="#3465a4"><title>Nevada State</title></circle></a><a href="/setts/s10/r4b18r4t3r4k12r3b24k2ly3~x2/"><circle cx="259.1" cy="154.5" r="4" fill="#3465a4"><title>Keogh (Name)</title></circle></a><a href="/setts/s12/ly7db5ly25db26lb4db4r3db4g4db26ly25db5~x2/"><circle cx="214.1" cy="147.1" r="4" fill="#3465a4"><title>O Savanao (District)</title></circle></a><a href="/setts/s11/t3k1t1db4t10r2k8db2t1k1t3~x2/"><circle cx="193.1" cy="156.9" r="4" fill="#3465a4"><title>Norwich No.020</title></circle></a><a href="/setts/s15/w5n3w3n20k15n10g2n2g3n2g3n6lp3n4lp5~x2/"><circle cx="229.9" cy="144.8" r="4" fill="#3465a4"><title>Thistle Dubh</title></circle></a><a href="/setts/s9/r3b22r3b3k14b14t3b3w2~x2/"><circle cx="287.7" cy="162.6" r="4" fill="#3465a4"><title>Fitzgerald (Family)</title></circle></a><a href="/setts/s12/w4k2b9k3m3k3m3k23g10k2m6w2~x2/"><circle cx="187.4" cy="137.7" r="4" fill="#3465a4"><title>Auld Lang Syne Blue</title></circle></a><a href="/setts/s11/r2db8k1g2k1g4k1g2k1db8ly2~x2/"><circle cx="199.6" cy="171.9" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><circle cx="245.4" cy="143.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/m4ly4db9w3ly2k9db21ly2db2ly2db8ly3~x2/

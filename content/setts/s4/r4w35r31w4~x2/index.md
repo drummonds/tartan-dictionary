@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7570/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Lewis, Red
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -46,10 +52,10 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Erskine Red & White (Dance)](/setts/s6/r2w1r9w9r1w2~x6/) — ΔT 1.18
 1. [MacRae of Conchra #2](/setts/s4/k5w37r37w5~x2/) — ΔT 1.25
-1. [Buchanan VS](/setts/s6/lb2r4lb2r4lb9k1/) — ΔT 1.48
+1. [Buchanan VS](/setts/s6/lb2r4lb2r4lb9k1~x2/) — ΔT 1.48
 1. [Ailsa, Red V2 (Dance)](/setts/s6/r8r3r28w32r3w4~x2/) — ΔT 1.64
-1. [Hose (Dunmore)](/setts/s3/lb13k1r13~x4/) — ΔT 1.68
-1. [Lewis, Magenta (Dance)](/setts/s4/lg4w35m31w4~x2/) — ΔT 1.71
+1. [Hose (Dunmore)](/setts/s3/r13k1lb13~x4/) — ΔT 1.68
+1. [Lewis, Magenta (Dance)](/setts/s4/w4m31w35lg4~x2/) — ΔT 1.71
 1. [Erskine Dress Burgandy Clan Tartan Tartan Number: 1972. Earliest known date: 1971 A popular Dress tartan for Scottish Highland Dancing. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r5w2r25w25r2w5~x2/) — ΔT 1.85
 1. [Hose](/setts/s3/w37k2r36~x2/) — ΔT 1.85
 1. [Masai Shuka 28 (Artefact)](/setts/s3/lb9r20db2~x2/) — ΔT 1.88
@@ -57,8 +63,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r2w1r9w9r1w2~x6/"><circle cx="322.2" cy="198.4" r="4" fill="#3465a4"><title>Erskine Red &amp; White (Dance)</title></circle></a><a href="/setts/s4/k5w37r37w5~x2/"><circle cx="281.8" cy="221.8" r="4" fill="#3465a4"><title>MacRae of Conchra #2</title></circle></a><a href="/setts/s6/lb2r4lb2r4lb9k1/"><circle cx="322.4" cy="205.9" r="4" fill="#3465a4"><title>Buchanan VS</title></circle></a><a href="/setts/s6/r8r3r28w32r3w4~x2/"><circle cx="293.5" cy="179.3" r="4" fill="#3465a4"><title>Ailsa, Red V2 (Dance)</title></circle></a><a href="/setts/s3/lb13k1r13~x4/"><circle cx="305.8" cy="234.8" r="4" fill="#3465a4"><title>Hose (Dunmore)</title></circle></a><a href="/setts/s4/lg4w35m31w4~x2/"><circle cx="307.4" cy="218.0" r="4" fill="#3465a4"><title>Lewis, Magenta (Dance)</title></circle></a><a href="/setts/s6/r5w2r25w25r2w5~x2/"><circle cx="341.8" cy="192.4" r="4" fill="#3465a4"><title>Erskine Dress Burgandy Clan Tartan Tartan Number: 1972. Earliest known date: 1971 A popular Dress tartan for Scottish Highland Dancing. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s3/w37k2r36~x2/"><circle cx="317.2" cy="214.0" r="4" fill="#3465a4"><title>Hose</title></circle></a><a href="/setts/s3/lb9r20db2~x2/"><circle cx="387.0" cy="238.8" r="4" fill="#3465a4"><title>Masai Shuka 28 (Artefact)</title></circle></a><a href="/setts/s6/r8w3r28w32k3w4~x2/"><circle cx="341.4" cy="197.9" r="4" fill="#3465a4"><title>Ailsa, Pink (Dance)</title></circle></a><circle cx="349.6" cy="233.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r2w1r9w9r1w2~x6/"><circle cx="321.6" cy="198.0" r="4" fill="#3465a4"><title>Erskine Red &amp; White (Dance)</title></circle></a><a href="/setts/s4/k5w37r37w5~x2/"><circle cx="281.3" cy="221.5" r="4" fill="#3465a4"><title>MacRae of Conchra #2</title></circle></a><a href="/setts/s6/lb2r4lb2r4lb9k1~x2/"><circle cx="321.8" cy="205.5" r="4" fill="#3465a4"><title>Buchanan VS</title></circle></a><a href="/setts/s6/r8r3r28w32r3w4~x2/"><circle cx="293.0" cy="179.1" r="4" fill="#3465a4"><title>Ailsa, Red V2 (Dance)</title></circle></a><a href="/setts/s3/r13k1lb13~x4/"><circle cx="305.4" cy="234.5" r="4" fill="#3465a4"><title>Hose (Dunmore)</title></circle></a><a href="/setts/s4/w4m31w35lg4~x2/"><circle cx="307.0" cy="217.6" r="4" fill="#3465a4"><title>Lewis, Magenta (Dance)</title></circle></a><a href="/setts/s6/r5w2r25w25r2w5~x2/"><circle cx="341.3" cy="192.0" r="4" fill="#3465a4"><title>Erskine Dress Burgandy Clan Tartan Tartan Number: 1972. Earliest known date: 1971 A popular Dress tartan for Scottish Highland Dancing. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s3/w37k2r36~x2/"><circle cx="316.7" cy="213.6" r="4" fill="#3465a4"><title>Hose</title></circle></a><a href="/setts/s3/lb9r20db2~x2/"><circle cx="386.5" cy="238.4" r="4" fill="#3465a4"><title>Masai Shuka 28 (Artefact)</title></circle></a><a href="/setts/s6/r8w3r28w32k3w4~x2/"><circle cx="340.8" cy="197.6" r="4" fill="#3465a4"><title>Ailsa, Pink (Dance)</title></circle></a><circle cx="349.0" cy="233.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/r4w35r31w4~x2/

@@ -2,12 +2,18 @@
 title: "Tribal #2"
 date: 2023-03-18
 ---
-**Bands:** [GKRKRKRKBY](/stripes/gkrkrkrkby/) · **Stripes:** [G K R K O K R K DP LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G K R K O K R K DP LY</span></span>
+**Bands:** [YBKRKRKRKG](/stripes/ybkrkrkrkg/) · **Stripes:** [LY DP K R K O K R K G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY DP K R K O K R K G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4150
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Tribal #2
 
 ## Attestations
 
@@ -25,7 +31,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2963
 
 ## Thread count
-G/8 K64 R20 K4 DO32 K4 R20 K4 P64 Y/8
+Y/8 P64 K4 R20 K4 DO32 K4 R20 K64 G/8
 ![Sett](sett.png)
 
 ## Palette
@@ -44,21 +50,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Tribal](/setts/s10/lg2k16r5k1r8k1r5k1dp16ly2~x4/) — ΔT 0.74
+1. [Tribal](/setts/s10/ly2dp16k1r5k1r8k1r5k16lg2~x4/) — ΔT 0.74
 1. [MacLean Variation](/setts/s11/dp45k12ly4k4w6k4dg50r57dp4r10k4~x2/) — ΔT 0.79
-1. [Sweetheart, The](/setts/s12/m6lr5m23k20m6k3o4k10m14r45k7r6/) — ΔT 0.91
+1. [Sweetheart, The](/setts/s12/r6k7r45m14k10o4k3m6k20m23lr5m6/) — ΔT 0.91
 1. [King, Garry (Personal)](/setts/s14/g2r11k3r4k7g2k3dp4k3dp11k3dg1g1g1~x2/) — ΔT 1.09
 1. [Crieff Primary School](/setts/s10/k3g1r1db6n2db1n1db1r10w1~x4/) — ΔT 1.10
 1. [Asman Family](/setts/s10/db4ly3db17g6w2dr6w2r24dr3r4~x2/) — ΔT 1.11
 1. [Roman Family Tribute (Personal)](/setts/s14/r27dg20k7ly3o3r2o3ly3o6dp6k2r3o4dp3~x2/) — ΔT 1.14
 1. [Norwell](/setts/s11/r4k4r32g4w3g4k13g3db18r2ly3~x2/) — ΔT 1.15
 1. [Asman Red (Personal)](/setts/s10/db4ly3db22o6w2k6w2r26k3r4~x2/) — ΔT 1.17
-1. [Gordon of Abergeldie](/setts/s10/r63w4k4dp18ly4dg50ly4dp18k4w4~x2/) — ΔT 1.17
+1. [Gordon of Abergeldie](/setts/s10/r63w4k4dp18ly4dg50~x2/) — ΔT 1.17
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/lg2k16r5k1r8k1r5k1dp16ly2~x4/"><circle cx="138.8" cy="108.3" r="4" fill="#3465a4"><title>Tribal</title></circle></a><a href="/setts/s11/dp45k12ly4k4w6k4dg50r57dp4r10k4~x2/"><circle cx="153.2" cy="104.4" r="4" fill="#3465a4"><title>MacLean Variation</title></circle></a><a href="/setts/s12/m6lr5m23k20m6k3o4k10m14r45k7r6/"><circle cx="159.4" cy="113.0" r="4" fill="#3465a4"><title>Sweetheart, The</title></circle></a><a href="/setts/s14/g2r11k3r4k7g2k3dp4k3dp11k3dg1g1g1~x2/"><circle cx="136.1" cy="131.3" r="4" fill="#3465a4"><title>King, Garry (Personal)</title></circle></a><a href="/setts/s10/k3g1r1db6n2db1n1db1r10w1~x4/"><circle cx="179.5" cy="128.5" r="4" fill="#3465a4"><title>Crieff Primary School</title></circle></a><a href="/setts/s10/db4ly3db17g6w2dr6w2r24dr3r4~x2/"><circle cx="176.6" cy="126.2" r="4" fill="#3465a4"><title>Asman Family</title></circle></a><a href="/setts/s14/r27dg20k7ly3o3r2o3ly3o6dp6k2r3o4dp3~x2/"><circle cx="142.3" cy="102.3" r="4" fill="#3465a4"><title>Roman Family Tribute (Personal)</title></circle></a><a href="/setts/s11/r4k4r32g4w3g4k13g3db18r2ly3~x2/"><circle cx="189.8" cy="101.6" r="4" fill="#3465a4"><title>Norwell</title></circle></a><a href="/setts/s10/db4ly3db22o6w2k6w2r26k3r4~x2/"><circle cx="169.3" cy="111.3" r="4" fill="#3465a4"><title>Asman Red (Personal)</title></circle></a><a href="/setts/s10/r63w4k4dp18ly4dg50ly4dp18k4w4~x2/"><circle cx="183.5" cy="100.3" r="4" fill="#3465a4"><title>Gordon of Abergeldie</title></circle></a><circle cx="159.8" cy="119.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly2dp16k1r5k1r8k1r5k16lg2~x4/"><circle cx="138.8" cy="108.4" r="4" fill="#3465a4"><title>Tribal</title></circle></a><a href="/setts/s11/dp45k12ly4k4w6k4dg50r57dp4r10k4~x2/"><circle cx="153.1" cy="104.6" r="4" fill="#3465a4"><title>MacLean Variation</title></circle></a><a href="/setts/s12/r6k7r45m14k10o4k3m6k20m23lr5m6/"><circle cx="159.4" cy="113.2" r="4" fill="#3465a4"><title>Sweetheart, The</title></circle></a><a href="/setts/s14/g2r11k3r4k7g2k3dp4k3dp11k3dg1g1g1~x2/"><circle cx="136.1" cy="131.5" r="4" fill="#3465a4"><title>King, Garry (Personal)</title></circle></a><a href="/setts/s10/k3g1r1db6n2db1n1db1r10w1~x4/"><circle cx="179.4" cy="128.6" r="4" fill="#3465a4"><title>Crieff Primary School</title></circle></a><a href="/setts/s10/db4ly3db17g6w2dr6w2r24dr3r4~x2/"><circle cx="176.5" cy="126.3" r="4" fill="#3465a4"><title>Asman Family</title></circle></a><a href="/setts/s14/r27dg20k7ly3o3r2o3ly3o6dp6k2r3o4dp3~x2/"><circle cx="142.2" cy="102.5" r="4" fill="#3465a4"><title>Roman Family Tribute (Personal)</title></circle></a><a href="/setts/s11/r4k4r32g4w3g4k13g3db18r2ly3~x2/"><circle cx="189.6" cy="101.7" r="4" fill="#3465a4"><title>Norwell</title></circle></a><a href="/setts/s10/db4ly3db22o6w2k6w2r26k3r4~x2/"><circle cx="169.1" cy="111.3" r="4" fill="#3465a4"><title>Asman Red (Personal)</title></circle></a><a href="/setts/s10/r63w4k4dp18ly4dg50~x2/"><circle cx="183.3" cy="100.4" r="4" fill="#3465a4"><title>Gordon of Abergeldie</title></circle></a><circle cx="159.7" cy="119.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/g2k16r5k1o8k1r5k1dp16ly2~x4/

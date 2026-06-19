@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 3069
 
 ## Thread count
-DY/18 LN6 R8 P52 R22 LT/23
+LT/23 R22 P52 R8 LN6 DY/18
 ![Sett](sett.png)
 
 ## Palette
@@ -41,7 +41,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DY/18 LN6 R8 P52 R22 LT/23 tartan")
+![Tartan detail](tartan.png "LT/23 R22 P52 R8 LN6 DY/18 tartan")
 
 ## Nearest tartans
 
@@ -50,18 +50,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Susan G Komen 06](/setts/s7/w6lr27dr6o40lr44w8o4/) — ΔT 1.56
 1. [Callum (Buchan) (Name)](/setts/s5/n7r1dt6r8lr1~x8/) — ΔT 1.57
 1. [Stevens #3](/setts/s6/dp2t9dp3r7r19ly2~x2/) — ΔT 1.63
-1. [Pople (Name)](/setts/s5/k1r9n8y8w1~x2/) — ΔT 1.65
+1. [Pople (Name)](/setts/s5/k1r9n8y8w1~x2/) — ΔT 1.66
 1. [Manhattan Ethnic](/setts/s7/lo36do15lo9r31lo5do4r16~x2/) — ΔT 1.73
 1. [Unidentified, Sett](/setts/s9/lr2o1r10o12o10lr6r10o1lr2~x2/) — ΔT 1.76
 1. [McCurdy-Stribbling (Personal)](/setts/s5/db15n20do12r34lb3~x2/) — ΔT 1.78
 1. [Unidentified from Winnipeg](/setts/s8/o24lo8dr2lo8dr2lo8o15g2~x2/) — ΔT 1.85
-1. [Roscommon](/setts/s10/r5o3r19dr6o5dr6n12n5n12n3~x2/) — ΔT 1.91
+1. [Roscommon](/setts/s10/r5o3r19dr6o5dr6n12n5n12n3~x2/) — ΔT 1.92
 1. [Unidentified Sett](/setts/s9/lr2dy1r10o12dy10lr6r10dy1lr2~x2/) — ΔT 1.96
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w6lr27dr6o40lr44w8o4/"><circle cx="219.5" cy="195.4" r="4" fill="#3465a4"><title>Susan G Komen 06</title></circle></a><a href="/setts/s5/n7r1dt6r8lr1~x8/"><circle cx="258.6" cy="262.9" r="4" fill="#3465a4"><title>Callum (Buchan) (Name)</title></circle></a><a href="/setts/s6/dp2t9dp3r7r19ly2~x2/"><circle cx="245.7" cy="194.1" r="4" fill="#3465a4"><title>Stevens #3</title></circle></a><a href="/setts/s5/k1r9n8y8w1~x2/"><circle cx="201.0" cy="236.5" r="4" fill="#3465a4"><title>Pople (Name)</title></circle></a><a href="/setts/s7/lo36do15lo9r31lo5do4r16~x2/"><circle cx="245.4" cy="220.1" r="4" fill="#3465a4"><title>Manhattan Ethnic</title></circle></a><a href="/setts/s9/lr2o1r10o12o10lr6r10o1lr2~x2/"><circle cx="261.1" cy="219.8" r="4" fill="#3465a4"><title>Unidentified, Sett</title></circle></a><a href="/setts/s5/db15n20do12r34lb3~x2/"><circle cx="206.5" cy="222.2" r="4" fill="#3465a4"><title>McCurdy-Stribbling (Personal)</title></circle></a><a href="/setts/s8/o24lo8dr2lo8dr2lo8o15g2~x2/"><circle cx="230.8" cy="187.5" r="4" fill="#3465a4"><title>Unidentified from Winnipeg</title></circle></a><a href="/setts/s10/r5o3r19dr6o5dr6n12n5n12n3~x2/"><circle cx="232.4" cy="235.7" r="4" fill="#3465a4"><title>Roscommon</title></circle></a><a href="/setts/s9/lr2dy1r10o12dy10lr6r10dy1lr2~x2/"><circle cx="215.3" cy="191.1" r="4" fill="#3465a4"><title>Unidentified Sett</title></circle></a><circle cx="229.0" cy="219.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w6lr27dr6o40lr44w8o4/"><circle cx="219.1" cy="195.6" r="4" fill="#3465a4"><title>Susan G Komen 06</title></circle></a><a href="/setts/s5/n7r1dt6r8lr1~x8/"><circle cx="258.5" cy="263.0" r="4" fill="#3465a4"><title>Callum (Buchan) (Name)</title></circle></a><a href="/setts/s6/dp2t9dp3r7r19ly2~x2/"><circle cx="245.6" cy="194.2" r="4" fill="#3465a4"><title>Stevens #3</title></circle></a><a href="/setts/s5/k1r9n8y8w1~x2/"><circle cx="201.0" cy="236.6" r="4" fill="#3465a4"><title>Pople (Name)</title></circle></a><a href="/setts/s7/lo36do15lo9r31lo5do4r16~x2/"><circle cx="245.0" cy="220.1" r="4" fill="#3465a4"><title>Manhattan Ethnic</title></circle></a><a href="/setts/s9/lr2o1r10o12o10lr6r10o1lr2~x2/"><circle cx="260.7" cy="220.0" r="4" fill="#3465a4"><title>Unidentified, Sett</title></circle></a><a href="/setts/s5/db15n20do12r34lb3~x2/"><circle cx="206.5" cy="222.2" r="4" fill="#3465a4"><title>McCurdy-Stribbling (Personal)</title></circle></a><a href="/setts/s8/o24lo8dr2lo8dr2lo8o15g2~x2/"><circle cx="230.4" cy="187.7" r="4" fill="#3465a4"><title>Unidentified from Winnipeg</title></circle></a><a href="/setts/s10/r5o3r19dr6o5dr6n12n5n12n3~x2/"><circle cx="232.2" cy="235.8" r="4" fill="#3465a4"><title>Roscommon</title></circle></a><a href="/setts/s9/lr2dy1r10o12dy10lr6r10dy1lr2~x2/"><circle cx="214.9" cy="191.1" r="4" fill="#3465a4"><title>Unidentified Sett</title></circle></a><circle cx="228.7" cy="219.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/lo23r22m52r8w6lo18/

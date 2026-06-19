@@ -1,0 +1,53 @@
+---
+title: "Lumsden Green"
+date: 2023-03-18
+---
+**Bands:** [KBGBKRBRBRGBKBG](/stripes/kbgbkrbrbrgbkbg/) · **Stripes:** [K DB G DB K R DB R DB R G DB K DB G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K DB G DB K R DB R DB R G DB K DB G</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6024
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [6024](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6024)
+
+## Thread count
+K/28 DB4 G4 DB4 K28 R4 DB24 R4 DB24 R4 G26 DB4 K4 DB4 G/28
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#000080;"><span style="color:#000080;filter:grayscale(1) invert(1) contrast(100);">#000080</span></code> `#000080` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| G | <code style="background-color:#007800;"><span style="color:#007800;filter:grayscale(1) invert(1) contrast(100);">#007800</span></code> `#007800` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Gordon of Esselmont (Clan)](/setts/s17/db15k2db2k2db2k14g14ly2g2ly4g2ly2g14k14db14k2db2~x2/) — ΔT 0.58
+1. [Mulholland (Personal)](/setts/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/) — ΔT 0.67
+1. [Forbes](/setts/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x4/) — ΔT 0.69
+1. [Cheape of Torosay (Personal)](/setts/s13/db8k1db1k1db1k7g6lb1g6k7db7k1lb1~x4/) — ΔT 0.76
+1. [Poulter SG 100 (Fashion)](/setts/s13/g25k8g8k8g8k46db46r8db46k46g46k8g8/) — ΔT 0.76
+1. [Rogers Family (Kilkeel) (Personal)](/setts/s15/db8k1db2k1db2k6g8k1lt2k1g8k6db8k1db2~x4/) — ΔT 0.86
+1. [Lamont #3](/setts/s13/b23k3b3k3b3k22g22w3g22k22b18k3b3~x2/) — ΔT 0.86
+1. [Westgate (Corporate)](/setts/s13/db23k3db3k3db3k17g22ly4g22k17db22k3db3~x2/) — ΔT 0.87
+1. [Forbes](/setts/s13/db1k1db6k6g6k1w1k1g6k6db6k1db1~x8/) — ΔT 0.90
+1. [Baillie of Polkemmet](/setts/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x4/) — ΔT 0.95
+
+## Neighbour map
+
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/db15k2db2k2db2k14g14ly2g2ly4g2ly2g14k14db14k2db2~x2/"><circle cx="155.2" cy="182.7" r="4" fill="#3465a4"><title>Gordon of Esselmont (Clan)</title></circle></a><a href="/setts/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/"><circle cx="169.0" cy="199.8" r="4" fill="#3465a4"><title>Mulholland (Personal)</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x4/"><circle cx="182.9" cy="198.0" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/db8k1db1k1db1k7g6lb1g6k7db7k1lb1~x4/"><circle cx="182.8" cy="207.8" r="4" fill="#3465a4"><title>Cheape of Torosay (Personal)</title></circle></a><a href="/setts/s13/g25k8g8k8g8k46db46r8db46k46g46k8g8/"><circle cx="161.6" cy="213.8" r="4" fill="#3465a4"><title>Poulter SG 100 (Fashion)</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6g8k1lt2k1g8k6db8k1db2~x4/"><circle cx="184.4" cy="204.3" r="4" fill="#3465a4"><title>Rogers Family (Kilkeel) (Personal)</title></circle></a><a href="/setts/s13/b23k3b3k3b3k22g22w3g22k22b18k3b3~x2/"><circle cx="166.1" cy="199.5" r="4" fill="#3465a4"><title>Lamont #3</title></circle></a><a href="/setts/s13/db23k3db3k3db3k17g22ly4g22k17db22k3db3~x2/"><circle cx="193.7" cy="211.3" r="4" fill="#3465a4"><title>Westgate (Corporate)</title></circle></a><a href="/setts/s13/db1k1db6k6g6k1w1k1g6k6db6k1db1~x8/"><circle cx="182.3" cy="223.5" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x4/"><circle cx="187.8" cy="162.6" r="4" fill="#3465a4"><title>Baillie of Polkemmet</title></circle></a><circle cx="152.4" cy="194.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s15/k14db2g2db2k14r2db12r2db12r2g13db2k2db2g14~x2/

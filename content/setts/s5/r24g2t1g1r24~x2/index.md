@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,21 +909,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [MacNab (Smith)](/setts/s5/m24g1t1g2r24~x4/) — ΔT 0.40
-1. [Grelloch (Fashion)](/setts/s6/m2t1r12r12k1r2~x4/) — ΔT 1.53
+1. [MacNab (Smith)](/setts/s5/r24g2t1g1m24~x4/) — ΔT 0.40
+1. [Grelloch (Fashion)](/setts/s6/r2k1r12r12t1m2~x4/) — ΔT 1.53
 1. [MacNab WI 1](/setts/s5/dr24dg1b1dg2r24~x2/) — ΔT 1.60
 1. [MacNab - 1800 (Portrait)](/setts/s5/r96g3lb3g6r95/) — ΔT 1.64
-1. [Grelloch](/setts/s10/r2k1r12r12t1m2t1r12r12k1~x4/) — ΔT 2.01
+1. [Grelloch](/setts/s10/r2k1r12r12t1m2~x4/) — ΔT 2.01
 1. [Stirling of Keir (Clan)](/setts/s4/g1dr10r10g1~x6/) — ΔT 2.29
 1. [Redwoods](/setts/s9/y4r18dy2r2dy5k2dy15r1y4~x2/) — ΔT 2.55
 1. [McBrayer Htg (Personal)](/setts/s8/o50k1r14lb1dg14r14lb1r2~x4/) — ΔT 2.56
 1. [Tune Hotels](/setts/s9/r3r18r6r15r4r3r4r7w2~x2/) — ΔT 2.65
-1. [Hyland Day (Personal)](/setts/s8/lo3do2dy29do6dy4r26dy2r3~x2/) — ΔT 2.66
+1. [Hyland Day (Personal)](/setts/s8/r3dy2r26dy4do6dy29do2lo3~x2/) — ΔT 2.66
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/m24g1t1g2r24~x4/"><circle cx="475.1" cy="218.2" r="4" fill="#3465a4"><title>MacNab (Smith)</title></circle></a><a href="/setts/s6/m2t1r12r12k1r2~x4/"><circle cx="410.0" cy="226.5" r="4" fill="#3465a4"><title>Grelloch (Fashion)</title></circle></a><a href="/setts/s5/dr24dg1b1dg2r24~x2/"><circle cx="448.4" cy="214.5" r="4" fill="#3465a4"><title>MacNab WI 1</title></circle></a><a href="/setts/s5/r96g3lb3g6r95/"><circle cx="466.9" cy="183.6" r="4" fill="#3465a4"><title>MacNab - 1800 (Portrait)</title></circle></a><a href="/setts/s10/r2k1r12r12t1m2t1r12r12k1~x4/"><circle cx="394.9" cy="206.2" r="4" fill="#3465a4"><title>Grelloch</title></circle></a><a href="/setts/s4/g1dr10r10g1~x6/"><circle cx="453.3" cy="314.2" r="4" fill="#3465a4"><title>Stirling of Keir (Clan)</title></circle></a><a href="/setts/s9/y4r18dy2r2dy5k2dy15r1y4~x2/"><circle cx="412.3" cy="233.1" r="4" fill="#3465a4"><title>Redwoods</title></circle></a><a href="/setts/s8/o50k1r14lb1dg14r14lb1r2~x4/"><circle cx="460.7" cy="146.1" r="4" fill="#3465a4"><title>McBrayer Htg (Personal)</title></circle></a><a href="/setts/s9/r3r18r6r15r4r3r4r7w2~x2/"><circle cx="349.2" cy="222.1" r="4" fill="#3465a4"><title>Tune Hotels</title></circle></a><a href="/setts/s8/lo3do2dy29do6dy4r26dy2r3~x2/"><circle cx="342.2" cy="198.5" r="4" fill="#3465a4"><title>Hyland Day (Personal)</title></circle></a><circle cx="473.0" cy="219.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r24g2t1g1m24~x4/"><circle cx="474.6" cy="218.4" r="4" fill="#3465a4"><title>MacNab (Smith)</title></circle></a><a href="/setts/s6/r2k1r12r12t1m2~x4/"><circle cx="409.7" cy="226.8" r="4" fill="#3465a4"><title>Grelloch (Fashion)</title></circle></a><a href="/setts/s5/dr24dg1b1dg2r24~x2/"><circle cx="448.1" cy="214.6" r="4" fill="#3465a4"><title>MacNab WI 1</title></circle></a><a href="/setts/s5/r96g3lb3g6r95/"><circle cx="466.3" cy="183.6" r="4" fill="#3465a4"><title>MacNab - 1800 (Portrait)</title></circle></a><a href="/setts/s10/r2k1r12r12t1m2~x4/"><circle cx="394.5" cy="206.5" r="4" fill="#3465a4"><title>Grelloch</title></circle></a><a href="/setts/s4/g1dr10r10g1~x6/"><circle cx="453.1" cy="314.3" r="4" fill="#3465a4"><title>Stirling of Keir (Clan)</title></circle></a><a href="/setts/s9/y4r18dy2r2dy5k2dy15r1y4~x2/"><circle cx="412.1" cy="233.4" r="4" fill="#3465a4"><title>Redwoods</title></circle></a><a href="/setts/s8/o50k1r14lb1dg14r14lb1r2~x4/"><circle cx="460.3" cy="146.3" r="4" fill="#3465a4"><title>McBrayer Htg (Personal)</title></circle></a><a href="/setts/s9/r3r18r6r15r4r3r4r7w2~x2/"><circle cx="348.7" cy="222.2" r="4" fill="#3465a4"><title>Tune Hotels</title></circle></a><a href="/setts/s8/r3dy2r26dy4do6dy29do2lo3~x2/"><circle cx="341.9" cy="198.8" r="4" fill="#3465a4"><title>Hyland Day (Personal)</title></circle></a><circle cx="472.6" cy="220.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/r24g2t1g1r24~x2/

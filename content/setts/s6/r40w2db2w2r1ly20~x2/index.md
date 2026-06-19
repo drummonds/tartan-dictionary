@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10097
 
+## Also known as
+
+This cloth is also recorded under:
+
+- National Defense Commemorative
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -49,17 +55,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Pride of Cleveland Fall](/setts/s7/r17dy5w1r5w7dy47r7~x2/) — ΔT 1.14
 1. [MacGregor #4](/setts/s6/r41g19r7g8k1w3~x2/) — ΔT 1.25
 1. [Davet (2014)](/setts/s6/t5k1w11k1r42k1~x2/) — ΔT 1.26
-1. [MacGregor](/setts/s6/r36dg18r4dg6k1lb2~x2/) — ΔT 1.31
+1. [MacGregor](/setts/s6/r36dg18r4dg6k1lb2/) — ΔT 1.31
 1. [MacGregor - 1800 (Clan)](/setts/s6/r57g21r8g8k1w3~x2/) — ΔT 1.32
 1. [MacGregor](/setts/s6/r36g18r4g6k1w2~x2/) — ΔT 1.33
 1. [Maver (Buckie)](/setts/s7/g1ly1g1w1g10r20ly1~x4/) — ΔT 1.34
 1. [Colchester & District Pipes & Drums](/setts/s6/g10r4g46r69k2w6/) — ΔT 1.34
-1. [Drummond of Perth](/setts/s8/r36lb1db3ly1dg16r8db3lb5~x2/) — ΔT 1.35
+1. [Drummond of Perth](/setts/s8/r36lb1db3ly1dg16r8db3lb5/) — ΔT 1.35
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r36dg18r4dg6k1w2~x2/"><circle cx="422.5" cy="134.4" r="4" fill="#3465a4"><title>MacGregor #3</title></circle></a><a href="/setts/s7/r17dy5w1r5w7dy47r7~x2/"><circle cx="418.4" cy="123.9" r="4" fill="#3465a4"><title>Pride of Cleveland Fall</title></circle></a><a href="/setts/s6/r41g19r7g8k1w3~x2/"><circle cx="428.9" cy="138.0" r="4" fill="#3465a4"><title>MacGregor #4</title></circle></a><a href="/setts/s6/t5k1w11k1r42k1~x2/"><circle cx="465.2" cy="91.2" r="4" fill="#3465a4"><title>Davet (2014)</title></circle></a><a href="/setts/s6/r36dg18r4dg6k1lb2~x2/"><circle cx="426.4" cy="139.8" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s6/r57g21r8g8k1w3~x2/"><circle cx="479.4" cy="120.8" r="4" fill="#3465a4"><title>MacGregor - 1800 (Clan)</title></circle></a><a href="/setts/s6/r36g18r4g6k1w2~x2/"><circle cx="422.7" cy="138.9" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s7/g1ly1g1w1g10r20ly1~x4/"><circle cx="370.1" cy="118.0" r="4" fill="#3465a4"><title>Maver (Buckie)</title></circle></a><a href="/setts/s6/g10r4g46r69k2w6/"><circle cx="379.6" cy="129.2" r="4" fill="#3465a4"><title>Colchester &amp; District Pipes &amp; Drums</title></circle></a><a href="/setts/s8/r36lb1db3ly1dg16r8db3lb5~x2/"><circle cx="373.5" cy="93.7" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><circle cx="409.9" cy="104.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r36dg18r4dg6k1w2~x2/"><circle cx="422.0" cy="134.2" r="4" fill="#3465a4"><title>MacGregor #3</title></circle></a><a href="/setts/s7/r17dy5w1r5w7dy47r7~x2/"><circle cx="417.9" cy="123.7" r="4" fill="#3465a4"><title>Pride of Cleveland Fall</title></circle></a><a href="/setts/s6/r41g19r7g8k1w3~x2/"><circle cx="428.4" cy="137.8" r="4" fill="#3465a4"><title>MacGregor #4</title></circle></a><a href="/setts/s6/t5k1w11k1r42k1~x2/"><circle cx="464.5" cy="90.9" r="4" fill="#3465a4"><title>Davet (2014)</title></circle></a><a href="/setts/s6/r36dg18r4dg6k1lb2/"><circle cx="426.0" cy="139.6" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s6/r57g21r8g8k1w3~x2/"><circle cx="478.8" cy="120.5" r="4" fill="#3465a4"><title>MacGregor - 1800 (Clan)</title></circle></a><a href="/setts/s6/r36g18r4g6k1w2~x2/"><circle cx="422.3" cy="138.7" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s7/g1ly1g1w1g10r20ly1~x4/"><circle cx="369.6" cy="117.8" r="4" fill="#3465a4"><title>Maver (Buckie)</title></circle></a><a href="/setts/s6/g10r4g46r69k2w6/"><circle cx="379.0" cy="129.0" r="4" fill="#3465a4"><title>Colchester &amp; District Pipes &amp; Drums</title></circle></a><a href="/setts/s8/r36lb1db3ly1dg16r8db3lb5/"><circle cx="373.1" cy="93.6" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><circle cx="409.3" cy="104.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r40w2db2w2r1ly20~x2/

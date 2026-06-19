@@ -21,14 +21,14 @@ BYBG
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DO LY DO Y <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DO LY DO Y</span></span>
+### Y DO LY DO <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="seq">Y DO LY DO</span></span>
 
 | Tartans |
 |---------------|
 | [Pasteur Fancy Tartan Tartan Number: 7094. Earliest known date: 1836 The pattern is taken from a shawl or cloak which appears in a portrait of Louie Pasteur's mother. The portrait was drawn in pastels when Pasteur was just 13 years old. The information came Marie-Claude Fortier researching the life of Pasteur. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/do10ly1do30y3~x4/)|
 |![Pasteur Fancy Tartan Tartan Number: 7094. Earliest known date: 1836 The pattern is taken from a shawl or cloak which appears in a portrait of Louie Pasteur's mother. The portrait was drawn in pastels when Pasteur was just 13 years old. The information came Marie-Claude Fortier researching the life of Pasteur. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s4/do10ly1do30y3~x4/sett.png)|
 
-### N LO N Y <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">N LO N Y</span></span>
+### Y N LO N <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="seq">Y N LO N</span></span>
 
 | Tartans |
 |---------------|

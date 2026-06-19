@@ -2,7 +2,7 @@
 title: "Londonderry"
 date: 2023-03-18
 ---
-**Bands:** [GKRYGKR](/stripes/gkrygkr/) · **Stripes:** [G K R LO G K R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">G K R LO G K R</span></span>
+**Bands:** [RKGYRKG](/stripes/rkgyrkg/) · **Stripes:** [R K G LO R K G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K G LO R K G</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/12 K8 R20 O32 G48 K8 R/24
+R/24 K8 G48 O32 R20 K8 G/12
 ![Sett](sett.png)
 
 ## Palette
@@ -900,7 +903,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/12 K8 R20 O32 G48 K8 R/24 tartan")
+![Tartan detail](tartan.png "R/24 K8 G48 O32 R20 K8 G/12 tartan")
 
 ## Nearest tartans
 
@@ -919,8 +922,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/o6k2dg12lo8o5k2dg3~x4/"><circle cx="170.4" cy="240.6" r="4" fill="#3465a4"><title>Londonderry, County</title></circle></a><a href="/setts/s7/r2g4db8r9g9k2r2~x2/"><circle cx="146.0" cy="246.5" r="4" fill="#3465a4"><title>Stewart, Plaid</title></circle></a><a href="/setts/s8/g9ly2g9w5r9t2r9t2~x2/"><circle cx="115.0" cy="218.3" r="4" fill="#3465a4"><title>Blackie</title></circle></a><a href="/setts/s6/r2ly1r5k4g5w1~x4/"><circle cx="113.6" cy="221.7" r="4" fill="#3465a4"><title>Aboyne II (Fashion)</title></circle></a><a href="/setts/s7/k3lo18k12lo18k2lo2k3~x2/"><circle cx="161.7" cy="181.8" r="4" fill="#3465a4"><title>Kinloch Anderson Check (Fashion)</title></circle></a><a href="/setts/s8/dg20r8lr2r8dg5ly8dg2ly8~x2/"><circle cx="224.1" cy="210.3" r="4" fill="#3465a4"><title>Unidentified #57</title></circle></a><a href="/setts/s13/g10lo8r5k2g3k2r5lo8g12k2r6k2g2~x4/"><circle cx="146.5" cy="202.6" r="4" fill="#3465a4"><title>Londonderry Irish County Tartan Tartan Number: 2279. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/dy3k7dy2w2lo12k2lo2dy3~x2/"><circle cx="179.4" cy="204.2" r="4" fill="#3465a4"><title>Daks (Brown)</title></circle></a><a href="/setts/s9/g13ly16w4ly4r4ly4k20ly8r8~x2/"><circle cx="87.4" cy="189.2" r="4" fill="#3465a4"><title>Cawte of Middlebanknock (Personal)</title></circle></a><a href="/setts/s9/g6lr2g10k3r1k3lo10lr2lo6~x4/"><circle cx="135.8" cy="175.7" r="4" fill="#3465a4"><title>Eire (District?)</title></circle></a><circle cx="149.0" cy="224.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/o6k2dg12lo8o5k2dg3~x4/"><circle cx="170.3" cy="240.6" r="4" fill="#3465a4"><title>Londonderry, County</title></circle></a><a href="/setts/s7/r2g4db8r9g9k2r2~x2/"><circle cx="146.0" cy="246.5" r="4" fill="#3465a4"><title>Stewart, Plaid</title></circle></a><a href="/setts/s8/g9ly2g9w5r9t2r9t2~x2/"><circle cx="114.9" cy="218.2" r="4" fill="#3465a4"><title>Blackie</title></circle></a><a href="/setts/s6/r2ly1r5k4g5w1~x4/"><circle cx="113.6" cy="221.6" r="4" fill="#3465a4"><title>Aboyne II (Fashion)</title></circle></a><a href="/setts/s7/k3lo18k12lo18k2lo2k3~x2/"><circle cx="161.5" cy="181.7" r="4" fill="#3465a4"><title>Kinloch Anderson Check (Fashion)</title></circle></a><a href="/setts/s8/dg20r8lr2r8dg5ly8dg2ly8~x2/"><circle cx="223.9" cy="210.3" r="4" fill="#3465a4"><title>Unidentified #57</title></circle></a><a href="/setts/s13/g10lo8r5k2g3k2r5lo8g12k2r6k2g2~x4/"><circle cx="146.3" cy="202.6" r="4" fill="#3465a4"><title>Londonderry Irish County Tartan Tartan Number: 2279. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/dy3k7dy2w2lo12k2lo2dy3~x2/"><circle cx="179.3" cy="204.2" r="4" fill="#3465a4"><title>Daks (Brown)</title></circle></a><a href="/setts/s9/g13ly16w4ly4r4ly4k20ly8r8~x2/"><circle cx="87.2" cy="189.2" r="4" fill="#3465a4"><title>Cawte of Middlebanknock (Personal)</title></circle></a><a href="/setts/s9/g6lr2g10k3r1k3lo10lr2lo6~x4/"><circle cx="135.7" cy="175.7" r="4" fill="#3465a4"><title>Eire (District?)</title></circle></a><circle cx="148.9" cy="224.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r6k2g12lo8r5k2g3~x4/

@@ -2,7 +2,7 @@
 title: "Grant of Monymusk"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRBRKRGR](/stripes/rgrgrgrbrkrgr/) · **Stripes:** [R G R G R G R DB R K R G R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G R G R G R DB R K R G R</span></span>
+**Bands:** [RGRKRBRGRGRGR](/stripes/rgrkrbrgrgrgr/) · **Stripes:** [R G R K R DB R G R G R G R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G R K R DB R G R G R G R</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,14 +919,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Stewart/Stuart C18th - Cf 1314 & 4454](/setts/s12/g4db9r9g9k2r2k2g9r9db8g4r2~x4/) — ΔT 1.15
 1. [MacRae (Sample)](/setts/s12/dg21r5dg21r21dg5r4dg5r21w4r5db21r4/) — ΔT 1.25
 1. [Walker James](/setts/s10/r4k6t1g7k2g7t1k6r4g2~x4/) — ΔT 1.27
-1. [Fraser Hunting Dress](/setts/s11/b4do15g11do3lb11do3lb11do3g11do15r4~x2/) — ΔT 1.29
-1. [Matheson N](/setts/s13/r2dg2r12db10lb3dg10r2dg2r2dg10r12dg2r2/) — ΔT 1.34
+1. [Fraser Hunting Dress](/setts/s11/r4do15g11do3lb11do3lb11do3g11do15b4~x2/) — ΔT 1.29
+1. [Matheson N](/setts/s13/r2dg2r12dg10r2dg2r2dg10lb3db10r12dg2r2/) — ΔT 1.34
 1. [Poulter, Green (Corporate)](/setts/s13/ly25k4ly4k4ly4k23y23ly4y23k23ly23k4ly4~x2/) — ΔT 1.34
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r12g16r3g16r3g16r4b16r5k9r12g3r12~x2/"><circle cx="171.1" cy="228.7" r="4" fill="#3465a4"><title>Grant of Monymusk</title></circle></a><a href="/setts/s13/g10lo8r5k2g3k2r5lo8g12k2r6k2g2~x4/"><circle cx="146.5" cy="202.6" r="4" fill="#3465a4"><title>Londonderry Irish County Tartan Tartan Number: 2279. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/g21r5g21r21g5r4g5r21w4r5db21r4/"><circle cx="204.0" cy="210.3" r="4" fill="#3465a4"><title>MacRae</title></circle></a><a href="/setts/s16/r16t6k8g13r7k8g13r7k2r7k2r7g13k8t6r8~x4/"><circle cx="144.3" cy="209.4" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s12/g4db9r9g9k2r2k2g9r9db8g4r2~x4/"><circle cx="145.0" cy="238.7" r="4" fill="#3465a4"><title>Stewart/Stuart C18th - Cf 1314 &amp; 4454</title></circle></a><a href="/setts/s12/dg21r5dg21r21dg5r4dg5r21w4r5db21r4/"><circle cx="202.9" cy="206.9" r="4" fill="#3465a4"><title>MacRae (Sample)</title></circle></a><a href="/setts/s10/r4k6t1g7k2g7t1k6r4g2~x4/"><circle cx="171.3" cy="231.5" r="4" fill="#3465a4"><title>Walker James</title></circle></a><a href="/setts/s11/b4do15g11do3lb11do3lb11do3g11do15r4~x2/"><circle cx="121.1" cy="208.7" r="4" fill="#3465a4"><title>Fraser Hunting Dress</title></circle></a><a href="/setts/s13/r2dg2r12db10lb3dg10r2dg2r2dg10r12dg2r2/"><circle cx="207.3" cy="190.5" r="4" fill="#3465a4"><title>Matheson N</title></circle></a><a href="/setts/s13/ly25k4ly4k4ly4k23y23ly4y23k23ly23k4ly4~x2/"><circle cx="138.7" cy="189.1" r="4" fill="#3465a4"><title>Poulter, Green (Corporate)</title></circle></a><circle cx="153.2" cy="220.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r12g16r3g16r3g16r4b16r5k9r12g3r12~x2/"><circle cx="171.0" cy="228.7" r="4" fill="#3465a4"><title>Grant of Monymusk</title></circle></a><a href="/setts/s13/g10lo8r5k2g3k2r5lo8g12k2r6k2g2~x4/"><circle cx="146.3" cy="202.6" r="4" fill="#3465a4"><title>Londonderry Irish County Tartan Tartan Number: 2279. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/g21r5g21r21g5r4g5r21w4r5db21r4/"><circle cx="203.8" cy="210.3" r="4" fill="#3465a4"><title>MacRae</title></circle></a><a href="/setts/s16/r16t6k8g13r7k8g13r7k2r7k2r7g13k8t6r8~x4/"><circle cx="144.2" cy="209.4" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s12/g4db9r9g9k2r2k2g9r9db8g4r2~x4/"><circle cx="145.0" cy="238.7" r="4" fill="#3465a4"><title>Stewart/Stuart C18th - Cf 1314 &amp; 4454</title></circle></a><a href="/setts/s12/dg21r5dg21r21dg5r4dg5r21w4r5db21r4/"><circle cx="202.7" cy="206.8" r="4" fill="#3465a4"><title>MacRae (Sample)</title></circle></a><a href="/setts/s10/r4k6t1g7k2g7t1k6r4g2~x4/"><circle cx="171.3" cy="231.4" r="4" fill="#3465a4"><title>Walker James</title></circle></a><a href="/setts/s11/r4do15g11do3lb11do3lb11do3g11do15b4~x2/"><circle cx="121.1" cy="208.7" r="4" fill="#3465a4"><title>Fraser Hunting Dress</title></circle></a><a href="/setts/s13/r2dg2r12dg10r2dg2r2dg10lb3db10r12dg2r2/"><circle cx="207.2" cy="190.5" r="4" fill="#3465a4"><title>Matheson N</title></circle></a><a href="/setts/s13/ly25k4ly4k4ly4k23y23ly4y23k23ly23k4ly4~x2/"><circle cx="138.7" cy="189.0" r="4" fill="#3465a4"><title>Poulter, Green (Corporate)</title></circle></a><circle cx="153.1" cy="220.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r12g16r3g16r3g16r4db16r5k9r12g3r12~x2/

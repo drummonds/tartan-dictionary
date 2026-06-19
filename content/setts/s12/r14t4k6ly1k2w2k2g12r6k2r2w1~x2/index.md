@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Stewart, Prince Charles Edward
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -899,7 +908,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-LN/2 R4 K4 R12 G24 K4 LN4 K4 Y2 K12 B8 R/28
+R/28 B8 K12 Y2 K4 LN4 K4 G24 R12 K4 R4 LN/2
 ![Sett](sett.png)
 
 ## Palette
@@ -927,12 +936,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Wilson's No 181, (Stewart)](/setts/s15/r25t9k2t9k19ly3k3w5k3ly3g22r16g3r3g3~x2/) — ΔT 0.86
 1. [Drummond - 1739 Lord John (Artefact)](/setts/s14/k20r6k4r6dg15w2y5w2dg15r30k4r5lb2r6~x2/) — ΔT 0.87
 1. [Unnamed No 1](/setts/s11/r8t7k8ly2k1ly1g19k1r8t3r8~x2/) — ΔT 0.88
-1. [Boyd](/setts/s12/ly1g6k1db1k1db1k6r12g1r1k1w1~x4/) — ΔT 0.91
+1. [Boyd](/setts/s12/w1k1r1g1r12k6db1k1db1k1g6ly1~x4/) — ΔT 0.91
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r25w4k4g25ly3k15t13r5t5r15g4r5k2g3~x2/"><circle cx="126.4" cy="112.4" r="4" fill="#3465a4"><title>Wilson's, No 226</title></circle></a><a href="/setts/s12/r19t13k16ly3k3w5k3g32k2r15t5r15~x2/"><circle cx="123.2" cy="113.9" r="4" fill="#3465a4"><title>Wilson's, No 90</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4g32r50t6r8k3/"><circle cx="159.3" cy="94.3" r="4" fill="#3465a4"><title>MacLean of Duart 3</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3g24r14k4r4w2~x2/"><circle cx="100.5" cy="119.9" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/setts/s12/db4lb1k3ly1dg1lb1k1dg8r12lb1r2k1~x2/"><circle cx="143.4" cy="100.2" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3g22r31t3r4k2~x2/"><circle cx="147.1" cy="97.0" r="4" fill="#3465a4"><title>MacLean of Duart 1</title></circle></a><a href="/setts/s15/r25t9k2t9k19ly3k3w5k3ly3g22r16g3r3g3~x2/"><circle cx="97.2" cy="103.0" r="4" fill="#3465a4"><title>Wilson's No 181, (Stewart)</title></circle></a><a href="/setts/s14/k20r6k4r6dg15w2y5w2dg15r30k4r5lb2r6~x2/"><circle cx="180.0" cy="106.8" r="4" fill="#3465a4"><title>Drummond - 1739 Lord John (Artefact)</title></circle></a><a href="/setts/s11/r8t7k8ly2k1ly1g19k1r8t3r8~x2/"><circle cx="139.4" cy="110.4" r="4" fill="#3465a4"><title>Unnamed No 1</title></circle></a><a href="/setts/s12/ly1g6k1db1k1db1k6r12g1r1k1w1~x4/"><circle cx="157.8" cy="95.5" r="4" fill="#3465a4"><title>Boyd</title></circle></a><circle cx="144.9" cy="106.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r25w4k4g25ly3k15t13r5t5r15g4r5k2g3~x2/"><circle cx="126.3" cy="112.5" r="4" fill="#3465a4"><title>Wilson's, No 226</title></circle></a><a href="/setts/s12/r19t13k16ly3k3w5k3g32k2r15t5r15~x2/"><circle cx="123.1" cy="114.0" r="4" fill="#3465a4"><title>Wilson's, No 90</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4g32r50t6r8k3/"><circle cx="159.2" cy="94.4" r="4" fill="#3465a4"><title>MacLean of Duart 3</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3g24r14k4r4w2~x2/"><circle cx="100.5" cy="120.0" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/setts/s12/db4lb1k3ly1dg1lb1k1dg8r12lb1r2k1~x2/"><circle cx="143.3" cy="100.3" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3g22r31t3r4k2~x2/"><circle cx="146.9" cy="97.0" r="4" fill="#3465a4"><title>MacLean of Duart 1</title></circle></a><a href="/setts/s15/r25t9k2t9k19ly3k3w5k3ly3g22r16g3r3g3~x2/"><circle cx="97.1" cy="103.1" r="4" fill="#3465a4"><title>Wilson's No 181, (Stewart)</title></circle></a><a href="/setts/s14/k20r6k4r6dg15w2y5w2dg15r30k4r5lb2r6~x2/"><circle cx="179.9" cy="106.9" r="4" fill="#3465a4"><title>Drummond - 1739 Lord John (Artefact)</title></circle></a><a href="/setts/s11/r8t7k8ly2k1ly1g19k1r8t3r8~x2/"><circle cx="139.3" cy="110.4" r="4" fill="#3465a4"><title>Unnamed No 1</title></circle></a><a href="/setts/s12/w1k1r1g1r12k6db1k1db1k1g6ly1~x4/"><circle cx="157.7" cy="95.6" r="4" fill="#3465a4"><title>Boyd</title></circle></a><circle cx="144.8" cy="106.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r14t4k6ly1k2w2k2g12r6k2r2w1~x2/

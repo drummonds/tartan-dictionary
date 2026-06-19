@@ -2,7 +2,7 @@
 title: "Nova Scotia Int. Tattoo (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BBBKGRY](/stripes/bbbkgry/) · **Stripes:** [DB T DB K DG R LO](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DB T DB K DG R LO</span></span>
+**Bands:** [YRGKBBB](/stripes/yrgkbbb/) · **Stripes:** [LO R DG K DB T DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">LO R DG K DB T DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7476
 
 ## Thread count
-DB/6 B4 DB42 K24 DG48 R2 DY/6
+DY/6 R2 DG48 K24 DB42 B4 DB/6
 ![Sett](sett.png)
 
 ## Palette
@@ -41,7 +41,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/6 B4 DB42 K24 DG48 R2 DY/6 tartan")
+![Tartan detail](tartan.png "DY/6 R2 DG48 K24 DB42 B4 DB/6 tartan")
 
 ## Nearest tartans
 
@@ -60,8 +60,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k12g8ly1dg13lb1db31k8~x2/"><circle cx="253.7" cy="164.3" r="4" fill="#3465a4"><title>Chesters, Eric (Personal)</title></circle></a><a href="/setts/s7/k12g8ly1dg13t1db31k8~x2/"><circle cx="285.2" cy="177.2" r="4" fill="#3465a4"><title>Chesters, Eric (Personal)</title></circle></a><a href="/setts/s7/w2k2r1dt20k15dg30ly1~x2/"><circle cx="291.2" cy="160.8" r="4" fill="#3465a4"><title>Muir-Hill (Personal)</title></circle></a><a href="/setts/s8/k4w1dg12k3db16r1db1r1~x2/"><circle cx="263.3" cy="163.4" r="4" fill="#3465a4"><title>Purves (2014)</title></circle></a><a href="/setts/s8/dg3r1dg18k20r1db18t1dg2~x4/"><circle cx="263.3" cy="180.1" r="4" fill="#3465a4"><title>Lochaber #2</title></circle></a><a href="/setts/s9/dp4db7dp2db25k19w2dg23k2lo3~x2/"><circle cx="195.5" cy="176.3" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/setts/s8/do4w1dg12k3db16r1db1r1~x2/"><circle cx="256.0" cy="161.3" r="4" fill="#3465a4"><title>Purves (2014)</title></circle></a><a href="/setts/s9/p4dg30db12g3k2db3k26dp4k2/"><circle cx="199.2" cy="153.9" r="4" fill="#3465a4"><title>Begg (Scarfskerry)</title></circle></a><a href="/setts/s10/db4w1k2db25k12b1k2g16k2r1~x2/"><circle cx="275.1" cy="129.6" r="4" fill="#3465a4"><title>Sidey Family Tartan (Name)</title></circle></a><a href="/setts/s8/dp3n3dp3n27w1t15k22r3~x2/"><circle cx="233.9" cy="138.4" r="4" fill="#3465a4"><title>Beauly Firth and Glens</title></circle></a><circle cx="245.5" cy="172.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k12g8ly1dg13lb1db31k8~x2/"><circle cx="253.9" cy="164.5" r="4" fill="#3465a4"><title>Chesters, Eric (Personal)</title></circle></a><a href="/setts/s7/k12g8ly1dg13t1db31k8~x2/"><circle cx="285.4" cy="177.4" r="4" fill="#3465a4"><title>Chesters, Eric (Personal)</title></circle></a><a href="/setts/s7/w2k2r1dt20k15dg30ly1~x2/"><circle cx="291.3" cy="161.0" r="4" fill="#3465a4"><title>Muir-Hill (Personal)</title></circle></a><a href="/setts/s8/k4w1dg12k3db16r1db1r1~x2/"><circle cx="263.4" cy="163.6" r="4" fill="#3465a4"><title>Purves (2014)</title></circle></a><a href="/setts/s8/dg3r1dg18k20r1db18t1dg2~x4/"><circle cx="263.4" cy="180.3" r="4" fill="#3465a4"><title>Lochaber #2</title></circle></a><a href="/setts/s9/dp4db7dp2db25k19w2dg23k2lo3~x2/"><circle cx="195.7" cy="176.5" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/setts/s8/do4w1dg12k3db16r1db1r1~x2/"><circle cx="256.1" cy="161.4" r="4" fill="#3465a4"><title>Purves (2014)</title></circle></a><a href="/setts/s9/p4dg30db12g3k2db3k26dp4k2/"><circle cx="199.4" cy="154.2" r="4" fill="#3465a4"><title>Begg (Scarfskerry)</title></circle></a><a href="/setts/s10/db4w1k2db25k12b1k2g16k2r1~x2/"><circle cx="275.2" cy="129.7" r="4" fill="#3465a4"><title>Sidey Family Tartan (Name)</title></circle></a><a href="/setts/s8/dp3n3dp3n27w1t15k22r3~x2/"><circle cx="233.9" cy="138.6" r="4" fill="#3465a4"><title>Beauly Firth and Glens</title></circle></a><circle cx="245.7" cy="172.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/db3t2db21k12dg24r1lo3~x2/

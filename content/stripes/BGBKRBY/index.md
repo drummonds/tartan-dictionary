@@ -20,7 +20,7 @@ BGBKRBY
 
 
 
-### T G T K R DT LO <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">T G T K R DT LO</span></span>
+### LO DT R K T G T <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">LO DT R K T G T</span></span>
 
 | Tartans |
 |---------------|

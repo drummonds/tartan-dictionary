@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-LN/4 G2 LN2 G64 R4 G6 R4 G8 R32 G8 R32 G8 R4 G6 R4 G64 LN/4
+LN/4 G64 R4 G6 R4 G8 R32 G8 R32 G8 R4 G6 R4 G64 LN2 G2 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -911,18 +914,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Rothesay Hunting (District)](/setts/s17/w8g83r7g5r7g7r28g7r28g7r7g5r7g83w4g4w8/) — ΔT 0.87
 1. [St. Christopher](/setts/s14/dg24ly8dg1lo2dg3r3dg5r3dg3lo2dg1ly8dg24lo2~x2/) — ΔT 1.22
 1. [Rothesay #2](/setts/s10/g4r16g4r2g3r2g32w1g1w2~x2/) — ΔT 1.25
-1. [Prince of Wales Fashion Weavers Tartan Tartan Number: 3306. Earliest known date: 1998 From Lochcarron. Also produced by Ingles Buchan (Textiles). same as Duke of Rothesay, Hunting. James Cant note for the Prince of Wales states, This tartan, along with the red form, was issued by the Vyella Co. It was originally meant for the Rothesay (see #1533) but the division showing the single white line was omitted by mistake. Instead of withdrawing the material, the pattern was given the name Prince of Wales. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/lr3g2lr1g16r1g2r1g2r6g3r6g2r1g2r1g16lr1g2~x4/) — ΔT 1.60
-1. [Donachie Clan Tartan Tartan Number: 6138. Earliest known date: 2004 A new tartan, a simplified sett based on the #893 Robertson tartan once presented by the Jacobite Prince to a Robertson during the '45.'' (The Setts of the Scottish Tartans, D.C. Stewart, 1950.) The Donachie of Brockloch Society have adopted this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/g20r2g2r2g2r25g40r2g2r24g2r2g40r25g2r2g2r2~x2/) — ΔT 1.70
+1. [Prince of Wales Fashion Weavers Tartan Tartan Number: 3306. Earliest known date: 1998 From Lochcarron. Also produced by Ingles Buchan (Textiles). same as Duke of Rothesay, Hunting. James Cant note for the Prince of Wales states, This tartan, along with the red form, was issued by the Vyella Co. It was originally meant for the Rothesay (see #1533) but the division showing the single white line was omitted by mistake. Instead of withdrawing the material, the pattern was given the name Prince of Wales. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/g3r6g2r1g2r1g16lr1g2lr3~x4/) — ΔT 1.60
+1. [Donachie Clan Tartan Tartan Number: 6138. Earliest known date: 2004 A new tartan, a simplified sett based on the #893 Robertson tartan once presented by the Jacobite Prince to a Robertson during the '45.'' (The Setts of the Scottish Tartans, D.C. Stewart, 1950.) The Donachie of Brockloch Society have adopted this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/r24g2r2g40r25g2r2g2r2g20~x2/) — ΔT 1.70
 1. [Fraser](/setts/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/) — ΔT 1.75
 1. [Matheson, hunting](/setts/s21/r8g3r1g1r1g22db8g3r1g1r1g3r6g1r1g1r2db6g5r3g4~x2/) — ΔT 1.80
 1. [Hebrides Outer](/setts/s17/g9r2g3r20g2r1g2r2g20r2g3r2g2r22g3ly1r3~x2/) — ΔT 1.87
-1. [Glen Elg](/setts/s22/g2o1g32w1g6o1w1g3w2dg1w2g2w2dg2g3w1dg3w4dg1w4g1o2~x4/) — ΔT 1.88
+1. [Glen Elg](/setts/s22/o2g1w4dg1w4dg3w1g3dg2w2g2w2dg1w2g3w1o1g6w1g32o1g2~x4/) — ΔT 1.88
 1. [St. Christopher (Corporate)](/setts/s8/dg5r3dg3lo2dg1ly8dg24lo2~x2/) — ΔT 1.92
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/w8g83r7g5r7g7r28g7r28g7r7g5r7g83w4g4w8/"><circle cx="434.1" cy="128.7" r="4" fill="#3465a4"><title>Rothesay Hunting (District)</title></circle></a><a href="/setts/s14/dg24ly8dg1lo2dg3r3dg5r3dg3lo2dg1ly8dg24lo2~x2/"><circle cx="428.5" cy="134.4" r="4" fill="#3465a4"><title>St. Christopher</title></circle></a><a href="/setts/s10/g4r16g4r2g3r2g32w1g1w2~x2/"><circle cx="463.7" cy="133.7" r="4" fill="#3465a4"><title>Rothesay #2</title></circle></a><a href="/setts/s18/lr3g2lr1g16r1g2r1g2r6g3r6g2r1g2r1g16lr1g2~x4/"><circle cx="459.1" cy="164.7" r="4" fill="#3465a4"><title>Prince of Wales Fashion Weavers Tartan Tartan Number: 3306. Earliest known date: 1998 From Lochcarron. Also produced by Ingles Buchan (Textiles). same as Duke of Rothesay, Hunting. James Cant note for the Prince of Wales states, This tartan, along with the red form, was issued by the Vyella Co. It was originally meant for the Rothesay (see #1533) but the division showing the single white line was omitted by mistake. Instead of withdrawing the material, the pattern was given the name Prince of Wales. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/g20r2g2r2g2r25g40r2g2r24g2r2g40r25g2r2g2r2~x2/"><circle cx="428.6" cy="152.4" r="4" fill="#3465a4"><title>Donachie Clan Tartan Tartan Number: 6138. Earliest known date: 2004 A new tartan, a simplified sett based on the #893 Robertson tartan once presented by the Jacobite Prince to a Robertson during the '45.'' (The Setts of the Scottish Tartans, D.C. Stewart, 1950.) The Donachie of Brockloch Society have adopted this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/"><circle cx="347.3" cy="159.2" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/setts/s21/r8g3r1g1r1g22db8g3r1g1r1g3r6g1r1g1r2db6g5r3g4~x2/"><circle cx="349.8" cy="129.7" r="4" fill="#3465a4"><title>Matheson, hunting</title></circle></a><a href="/setts/s17/g9r2g3r20g2r1g2r2g20r2g3r2g2r22g3ly1r3~x2/"><circle cx="403.7" cy="130.9" r="4" fill="#3465a4"><title>Hebrides Outer</title></circle></a><a href="/setts/s22/g2o1g32w1g6o1w1g3w2dg1w2g2w2dg2g3w1dg3w4dg1w4g1o2~x4/"><circle cx="409.6" cy="67.6" r="4" fill="#3465a4"><title>Glen Elg</title></circle></a><a href="/setts/s8/dg5r3dg3lo2dg1ly8dg24lo2~x2/"><circle cx="442.8" cy="158.7" r="4" fill="#3465a4"><title>St. Christopher (Corporate)</title></circle></a><circle cx="450.0" cy="118.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/w8g83r7g5r7g7r28g7r28g7r7g5r7g83w4g4w8/"><circle cx="433.6" cy="128.5" r="4" fill="#3465a4"><title>Rothesay Hunting (District)</title></circle></a><a href="/setts/s14/dg24ly8dg1lo2dg3r3dg5r3dg3lo2dg1ly8dg24lo2~x2/"><circle cx="428.1" cy="134.2" r="4" fill="#3465a4"><title>St. Christopher</title></circle></a><a href="/setts/s10/g4r16g4r2g3r2g32w1g1w2~x2/"><circle cx="463.2" cy="133.5" r="4" fill="#3465a4"><title>Rothesay #2</title></circle></a><a href="/setts/s18/g3r6g2r1g2r1g16lr1g2lr3~x4/"><circle cx="458.7" cy="164.5" r="4" fill="#3465a4"><title>Prince of Wales Fashion Weavers Tartan Tartan Number: 3306. Earliest known date: 1998 From Lochcarron. Also produced by Ingles Buchan (Textiles). same as Duke of Rothesay, Hunting. James Cant note for the Prince of Wales states, This tartan, along with the red form, was issued by the Vyella Co. It was originally meant for the Rothesay (see #1533) but the division showing the single white line was omitted by mistake. Instead of withdrawing the material, the pattern was given the name Prince of Wales. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/r24g2r2g40r25g2r2g2r2g20~x2/"><circle cx="428.1" cy="152.2" r="4" fill="#3465a4"><title>Donachie Clan Tartan Tartan Number: 6138. Earliest known date: 2004 A new tartan, a simplified sett based on the #893 Robertson tartan once presented by the Jacobite Prince to a Robertson during the '45.'' (The Setts of the Scottish Tartans, D.C. Stewart, 1950.) The Donachie of Brockloch Society have adopted this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/"><circle cx="346.8" cy="158.9" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/setts/s21/r8g3r1g1r1g22db8g3r1g1r1g3r6g1r1g1r2db6g5r3g4~x2/"><circle cx="349.4" cy="129.6" r="4" fill="#3465a4"><title>Matheson, hunting</title></circle></a><a href="/setts/s17/g9r2g3r20g2r1g2r2g20r2g3r2g2r22g3ly1r3~x2/"><circle cx="403.1" cy="130.7" r="4" fill="#3465a4"><title>Hebrides Outer</title></circle></a><a href="/setts/s22/o2g1w4dg1w4dg3w1g3dg2w2g2w2dg1w2g3w1o1g6w1g32o1g2~x4/"><circle cx="409.1" cy="67.4" r="4" fill="#3465a4"><title>Glen Elg</title></circle></a><a href="/setts/s8/dg5r3dg3lo2dg1ly8dg24lo2~x2/"><circle cx="442.4" cy="158.4" r="4" fill="#3465a4"><title>St. Christopher (Corporate)</title></circle></a><circle cx="449.5" cy="118.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s17/w2g32r2g3r2g4r16g4r16g4r2g3r2g32w1g1w2~x2/

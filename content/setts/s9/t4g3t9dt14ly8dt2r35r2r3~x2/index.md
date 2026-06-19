@@ -2,7 +2,7 @@
 title: "Hogeboom (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BGBBYBRRR](/stripes/bgbbybrrr/) · **Stripes:** [T G T DT LY DT R R R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">T G T DT LY DT R R R</span></span>
+**Bands:** [RRRBYBBGB](/stripes/rrrbybbgb/) · **Stripes:** [R R R DT LY DT T G T](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">R R R DT LY DT T G T</span></span>
 
 
 This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
@@ -29,9 +29,9 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Round Table Sweden](/setts/s8/ly3t6r30w2t6g4lo15r3~x2/) — ΔT 0.70
-1. [Round Table Sweden](/setts/s8/ly3dt6r30w2dt6g4lo15r3~x2/) — ΔT 0.71
-1. [Hewitt (Name)](/setts/s7/r30db12k3g12ly2g3w2~x2/) — ΔT 0.83
+1. [Round Table Sweden](/setts/s8/r3lo15g4t6w2r30t6ly3~x2/) — ΔT 0.70
+1. [Round Table Sweden](/setts/s8/r3lo15g4dt6w2r30dt6ly3~x2/) — ΔT 0.71
+1. [Hewitt (Name)](/setts/s7/r30db12k3g12ly2g3w2~x2/) — ΔT 0.84
 1. [MacLean of Duart #5](/setts/s11/t14k8ly2k3w4k3dg21r48t4r5k3~x2/) — ΔT 0.92
 1. [Wilson's No 4](/setts/s12/r64t16p18ly4p4w4p18g32r14t4r14w3~x2/) — ΔT 0.95
 1. [Hewitt](/setts/s7/r30db12k6dg12ly2dg3w2~x2/) — ΔT 0.96
@@ -42,8 +42,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/ly3t6r30w2t6g4lo15r3~x2/"><circle cx="217.2" cy="115.1" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/setts/s8/ly3dt6r30w2dt6g4lo15r3~x2/"><circle cx="230.5" cy="120.1" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/setts/s7/r30db12k3g12ly2g3w2~x2/"><circle cx="231.2" cy="129.5" r="4" fill="#3465a4"><title>Hewitt (Name)</title></circle></a><a href="/setts/s11/t14k8ly2k3w4k3dg21r48t4r5k3~x2/"><circle cx="233.9" cy="74.4" r="4" fill="#3465a4"><title>MacLean of Duart #5</title></circle></a><a href="/setts/s12/r64t16p18ly4p4w4p18g32r14t4r14w3~x2/"><circle cx="245.9" cy="96.8" r="4" fill="#3465a4"><title>Wilson's No 4</title></circle></a><a href="/setts/s7/r30db12k6dg12ly2dg3w2~x2/"><circle cx="208.0" cy="131.1" r="4" fill="#3465a4"><title>Hewitt</title></circle></a><a href="/setts/s12/k2t6w1r14k1r14w1k6dg10lo1dg2lo2~x2/"><circle cx="202.2" cy="112.9" r="4" fill="#3465a4"><title>Ogg of Tarragann</title></circle></a><a href="/setts/s11/t8k4ly1k2w3k2dg12r24t2r3k2~x2/"><circle cx="206.3" cy="79.9" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/setts/s12/k2t6w1r14k1r14w1k6g10lo1g2lo2~x2/"><circle cx="203.6" cy="112.5" r="4" fill="#3465a4"><title>Ogg of Tarragann (Personal)</title></circle></a><a href="/setts/s6/r48b16lo5g17w8dy3~x2/"><circle cx="243.9" cy="140.3" r="4" fill="#3465a4"><title>Scottish American Soc. of Michigan</title></circle></a><circle cx="236.9" cy="103.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r3lo15g4t6w2r30t6ly3~x2/"><circle cx="216.9" cy="115.1" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/setts/s8/r3lo15g4dt6w2r30dt6ly3~x2/"><circle cx="230.2" cy="120.1" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/setts/s7/r30db12k3g12ly2g3w2~x2/"><circle cx="231.0" cy="129.6" r="4" fill="#3465a4"><title>Hewitt (Name)</title></circle></a><a href="/setts/s11/t14k8ly2k3w4k3dg21r48t4r5k3~x2/"><circle cx="233.6" cy="74.5" r="4" fill="#3465a4"><title>MacLean of Duart #5</title></circle></a><a href="/setts/s12/r64t16p18ly4p4w4p18g32r14t4r14w3~x2/"><circle cx="245.5" cy="96.9" r="4" fill="#3465a4"><title>Wilson's No 4</title></circle></a><a href="/setts/s7/r30db12k6dg12ly2dg3w2~x2/"><circle cx="207.8" cy="131.2" r="4" fill="#3465a4"><title>Hewitt</title></circle></a><a href="/setts/s12/k2t6w1r14k1r14w1k6dg10lo1dg2lo2~x2/"><circle cx="201.9" cy="113.0" r="4" fill="#3465a4"><title>Ogg of Tarragann</title></circle></a><a href="/setts/s11/t8k4ly1k2w3k2dg12r24t2r3k2~x2/"><circle cx="206.0" cy="80.0" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/setts/s12/k2t6w1r14k1r14w1k6g10lo1g2lo2~x2/"><circle cx="203.3" cy="112.6" r="4" fill="#3465a4"><title>Ogg of Tarragann (Personal)</title></circle></a><a href="/setts/s6/r48b16lo5g17w8dy3~x2/"><circle cx="243.6" cy="140.3" r="4" fill="#3465a4"><title>Scottish American Soc. of Michigan</title></circle></a><circle cx="236.6" cy="104.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/t4g3t9dt14ly8dt2r35r2r3~x2/

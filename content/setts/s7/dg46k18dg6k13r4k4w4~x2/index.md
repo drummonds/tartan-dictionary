@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5513
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Page Clan/Family
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -46,7 +52,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Forbes #6](/setts/s6/ly1k4dg4k8dg16r1~x2/) — ΔT 0.97
+1. [Forbes #6](/setts/s6/r1dg16k8dg4k4ly1~x2/) — ΔT 0.97
 1. [Harley (Leslie), Robert](/setts/s8/g2k3ly1k3g2db8g16k1~x4/) — ΔT 0.99
 1. [Wcwm 1255](/setts/s5/g3r1k14g14lo1~x4/) — ΔT 1.02
 1. [Harley (Leslie), Robert](/setts/s8/dg2k3ly1k3dg2db8dg16k1~x4/) — ΔT 1.03
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/ly1k4dg4k8dg16r1~x2/"><circle cx="388.7" cy="222.0" r="4" fill="#3465a4"><title>Forbes #6</title></circle></a><a href="/setts/s8/g2k3ly1k3g2db8g16k1~x4/"><circle cx="338.0" cy="189.0" r="4" fill="#3465a4"><title>Harley (Leslie), Robert</title></circle></a><a href="/setts/s5/g3r1k14g14lo1~x4/"><circle cx="337.7" cy="223.4" r="4" fill="#3465a4"><title>Wcwm 1255</title></circle></a><a href="/setts/s8/dg2k3ly1k3dg2db8dg16k1~x4/"><circle cx="346.2" cy="196.3" r="4" fill="#3465a4"><title>Harley (Leslie), Robert</title></circle></a><a href="/setts/s8/dg40r3dg4r3dg12db32ly4r3~x2/"><circle cx="342.7" cy="188.8" r="4" fill="#3465a4"><title>U.S. Marine Corps (Military?)</title></circle></a><a href="/setts/s6/r3g30k12g6k16ly2~x2/"><circle cx="319.5" cy="214.0" r="4" fill="#3465a4"><title>MacArthur (Variant)</title></circle></a><a href="/setts/s7/k14dg7k2y8k4ly2k1~x4/"><circle cx="312.7" cy="218.0" r="4" fill="#3465a4"><title>Grass of Rasunda (Commemorative)</title></circle></a><a href="/setts/s10/k4g13k4g8k44g8k4g13k4w3~x2/"><circle cx="329.5" cy="171.2" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/setts/s10/r4g4k2g31k10ly3g5k11g6k3~x2/"><circle cx="349.9" cy="176.2" r="4" fill="#3465a4"><title>MacArthur-Fox Green</title></circle></a><a href="/setts/s6/g24k2db3k2db8r2~x2/"><circle cx="369.9" cy="208.7" r="4" fill="#3465a4"><title>Shaw (Clan 1)</title></circle></a><circle cx="344.1" cy="209.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r1dg16k8dg4k4ly1~x2/"><circle cx="388.7" cy="221.9" r="4" fill="#3465a4"><title>Forbes #6</title></circle></a><a href="/setts/s8/g2k3ly1k3g2db8g16k1~x4/"><circle cx="338.0" cy="188.9" r="4" fill="#3465a4"><title>Harley (Leslie), Robert</title></circle></a><a href="/setts/s5/g3r1k14g14lo1~x4/"><circle cx="337.7" cy="223.3" r="4" fill="#3465a4"><title>Wcwm 1255</title></circle></a><a href="/setts/s8/dg2k3ly1k3dg2db8dg16k1~x4/"><circle cx="346.2" cy="196.2" r="4" fill="#3465a4"><title>Harley (Leslie), Robert</title></circle></a><a href="/setts/s8/dg40r3dg4r3dg12db32ly4r3~x2/"><circle cx="342.6" cy="188.7" r="4" fill="#3465a4"><title>U.S. Marine Corps (Military?)</title></circle></a><a href="/setts/s6/r3g30k12g6k16ly2~x2/"><circle cx="319.5" cy="213.9" r="4" fill="#3465a4"><title>MacArthur (Variant)</title></circle></a><a href="/setts/s7/k14dg7k2y8k4ly2k1~x4/"><circle cx="312.8" cy="217.9" r="4" fill="#3465a4"><title>Grass of Rasunda (Commemorative)</title></circle></a><a href="/setts/s10/k4g13k4g8k44g8k4g13k4w3~x2/"><circle cx="329.5" cy="171.1" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/setts/s10/r4g4k2g31k10ly3g5k11g6k3~x2/"><circle cx="349.8" cy="176.0" r="4" fill="#3465a4"><title>MacArthur-Fox Green</title></circle></a><a href="/setts/s6/g24k2db3k2db8r2~x2/"><circle cx="369.8" cy="208.6" r="4" fill="#3465a4"><title>Shaw (Clan 1)</title></circle></a><circle cx="344.1" cy="209.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/dg46k18dg6k13r4k4w4~x2/

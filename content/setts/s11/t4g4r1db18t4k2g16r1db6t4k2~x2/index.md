@@ -2,7 +2,7 @@
 title: "Coopers & Lybrand"
 date: 2023-03-18
 ---
-**Bands:** [BGRBBKGRBBK](/stripes/bgrbbkgrbbk/) · **Stripes:** [T G R DB T K G R DB T K](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="seq">T G R DB T K G R DB T K</span></span>
+**Bands:** [KBBRGKBBRGB](/stripes/kbbrgkbbrgb/) · **Stripes:** [K T DB R G K T DB R G T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">K T DB R G K T DB R G T</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -905,7 +908,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [West of Wells](/setts/s9/g28k2db3k11db3k2db17db4w2~x2/) — ΔT 0.88
 1. [Robertson, hunting](/setts/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/) — ΔT 0.98
-1. [O'Doherty (Glasgow) (Personal)](/setts/s13/ly2k2g2ly2g3ly1g10k18g3db2g3db10w2~x2/) — ΔT 1.02
+1. [O'Doherty (Glasgow) (Personal)](/setts/s13/w2db10g3db2g3k18g10ly1g3ly2g2k2ly2~x2/) — ΔT 1.02
 1. [Ebdon-Muir (Personal)](/setts/s9/dp4db40k15g10dp2g10dp2g10w4~x2/) — ΔT 1.03
 1. [Clerke of Ulva](/setts/s11/t3g3k4g14k4g3k14db18r1db4r2~x2/) — ΔT 1.04
 1. [Hope Vere Family Tartan Tartan Number: 759. Earliest known date: c.1815 Hopetoun House, South Queensferry, home of the Marquesses of Linlithgow, was built by Robert Adam. The Highland Society of London collected specimens of tartan sealed with the signature of the Clan Chief or Head of the family, from 1815 onwards. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/g19k1g3k1g3k9db20k1ly1k7ly1k1db21k12g2g1~x2/) — ΔT 1.05
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g28k2db3k11db3k2db17db4w2~x2/"><circle cx="186.8" cy="155.3" r="4" fill="#3465a4"><title>West of Wells</title></circle></a><a href="/setts/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="192.7" cy="128.7" r="4" fill="#3465a4"><title>Robertson, hunting</title></circle></a><a href="/setts/s13/ly2k2g2ly2g3ly1g10k18g3db2g3db10w2~x2/"><circle cx="158.6" cy="122.4" r="4" fill="#3465a4"><title>O'Doherty (Glasgow) (Personal)</title></circle></a><a href="/setts/s9/dp4db40k15g10dp2g10dp2g10w4~x2/"><circle cx="213.8" cy="147.0" r="4" fill="#3465a4"><title>Ebdon-Muir (Personal)</title></circle></a><a href="/setts/s11/t3g3k4g14k4g3k14db18r1db4r2~x2/"><circle cx="148.1" cy="144.9" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/setts/s16/g19k1g3k1g3k9db20k1ly1k7ly1k1db21k12g2g1~x2/"><circle cx="213.2" cy="113.2" r="4" fill="#3465a4"><title>Hope Vere Family Tartan Tartan Number: 759. Earliest known date: c.1815 Hopetoun House, South Queensferry, home of the Marquesses of Linlithgow, was built by Robert Adam. The Highland Society of London collected specimens of tartan sealed with the signature of the Clan Chief or Head of the family, from 1815 onwards. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/dt3k2dt22k9g2lp2g2lp2g8k2w3~x2/"><circle cx="192.6" cy="144.2" r="4" fill="#3465a4"><title>Scottish Rugby Union Corporate Tartan Tartan Number: 2101. Earliest known date: 1990 S.R.U. requested that the Navy of their jersey should be prominent, including the green and lilac of the thistle, and the white of the shorts. This version is approved by the Scottish Rugby Union. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/"><circle cx="158.1" cy="134.3" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s9/r7db2g5k24db2g10db28g10lb3~x2/"><circle cx="149.2" cy="161.8" r="4" fill="#3465a4"><title>Colgan (Personal)</title></circle></a><a href="/setts/s9/db24ly2k8g16k1g3k1g3r4~x2/"><circle cx="210.4" cy="126.6" r="4" fill="#3465a4"><title>Ogilvie 1</title></circle></a><circle cx="183.9" cy="139.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g28k2db3k11db3k2db17db4w2~x2/"><circle cx="187.0" cy="155.3" r="4" fill="#3465a4"><title>West of Wells</title></circle></a><a href="/setts/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="192.8" cy="128.7" r="4" fill="#3465a4"><title>Robertson, hunting</title></circle></a><a href="/setts/s13/w2db10g3db2g3k18g10ly1g3ly2g2k2ly2~x2/"><circle cx="158.6" cy="122.5" r="4" fill="#3465a4"><title>O'Doherty (Glasgow) (Personal)</title></circle></a><a href="/setts/s9/dp4db40k15g10dp2g10dp2g10w4~x2/"><circle cx="213.9" cy="147.0" r="4" fill="#3465a4"><title>Ebdon-Muir (Personal)</title></circle></a><a href="/setts/s11/t3g3k4g14k4g3k14db18r1db4r2~x2/"><circle cx="148.3" cy="145.0" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/setts/s16/g19k1g3k1g3k9db20k1ly1k7ly1k1db21k12g2g1~x2/"><circle cx="213.2" cy="113.3" r="4" fill="#3465a4"><title>Hope Vere Family Tartan Tartan Number: 759. Earliest known date: c.1815 Hopetoun House, South Queensferry, home of the Marquesses of Linlithgow, was built by Robert Adam. The Highland Society of London collected specimens of tartan sealed with the signature of the Clan Chief or Head of the family, from 1815 onwards. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/dt3k2dt22k9g2lp2g2lp2g8k2w3~x2/"><circle cx="192.6" cy="144.2" r="4" fill="#3465a4"><title>Scottish Rugby Union Corporate Tartan Tartan Number: 2101. Earliest known date: 1990 S.R.U. requested that the Navy of their jersey should be prominent, including the green and lilac of the thistle, and the white of the shorts. This version is approved by the Scottish Rugby Union. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/"><circle cx="158.2" cy="134.3" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s9/r7db2g5k24db2g10db28g10lb3~x2/"><circle cx="149.4" cy="161.9" r="4" fill="#3465a4"><title>Colgan (Personal)</title></circle></a><a href="/setts/s9/db24ly2k8g16k1g3k1g3r4~x2/"><circle cx="210.4" cy="126.6" r="4" fill="#3465a4"><title>Ogilvie 1</title></circle></a><circle cx="184.0" cy="139.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/t4g4r1db18t4k2g16r1db6t4k2~x2/

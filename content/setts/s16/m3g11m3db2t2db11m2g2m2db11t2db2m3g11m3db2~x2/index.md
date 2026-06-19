@@ -2,7 +2,7 @@
 title: "Hebrides #6"
 date: 2023-03-18
 ---
-**Bands:** [BRGRBBBRGRBBBRGR](/stripes/brgrbbbrgrbbbrgr/) · **Stripes:** [DB M G M DB T DB M G M DB T DB M G M](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="seq">DB M G M DB T DB M G M DB T DB M G M</span></span>
+**Bands:** [RGRBBBRGRBBBRGRB](/stripes/rgrbbbrgrbbbrgrb/) · **Stripes:** [M G M DB T DB M G M DB T DB M G M DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="seq">M G M DB T DB M G M DB T DB M G M DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
@@ -18,7 +18,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 509
 
 ## Thread count
-DB/4 R6 G22 R6 DB4 B4 DB22 R4 G4 R4 DB22 B4 DB4 R6 G22 R/6
+R/6 G22 R6 DB4 B4 DB22 R4 G4 R4 DB22 B4 DB4 R6 G22 R6 DB/4
 ![Sett](sett.png)
 
 ## Palette
@@ -37,19 +37,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Poulter, Jet Black (Corporate)](/setts/s13/n25k8n8k8n8k46db46w8db46k46n46k8n8/) — ΔT 1.15
 1. [Scottish Scouts (1922) (Corporate)](/setts/s13/n11dt2n2dt2n2dt12o12dt2o12dt12n11dt2n2~x2/) — ΔT 1.17
-1. [MacDonald #2](/setts/s12/db11r2db2r4db15r2k15dg15r4dg2r2dg11~x2/) — ΔT 1.19
+1. [MacDonald #2](/setts/s12/dg11r2dg2r4dg15k15r2db15r4db2r2db11~x2/) — ΔT 1.19
 1. [MacLachlan Hunting](/setts/s15/g4k1g1k1g1k5db5r2db2r2db5g5k1g1k1~x6/) — ΔT 1.22
 1. [Murray #2](/setts/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x4/) — ΔT 1.23
 1. [New South Wales Scottish Rifles](/setts/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x2/) — ΔT 1.23
 1. [Lorne, Louise of](/setts/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/) — ΔT 1.29
-1. [Glenalmond College](/setts/s12/db12k2db2k2db2k12dg12r3dg12k12db12r3~x2/) — ΔT 1.29
+1. [Glenalmond College](/setts/s12/db12k2db2k2db2k12dg12r3dg12k12db12r3~x2/) — ΔT 1.30
 1. [Cheape of Torosay (Clan)](/setts/s13/db6k1db1k1db1k6g6t2g6k6db6k1db2~x4/) — ΔT 1.30
-1. [Fletcher](/setts/s15/db11k3db3k3db3k11r3dg13k3dg13r3k11db11k3db3~x2/) — ΔT 1.30
+1. [Fletcher](/setts/s15/db11k3db3k3db3k11r3dg13k3dg13r3k11db11k3db3~x2/) — ΔT 1.31
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/n25k8n8k8n8k46db46w8db46k46n46k8n8/"><circle cx="200.5" cy="231.7" r="4" fill="#3465a4"><title>Poulter, Jet Black (Corporate)</title></circle></a><a href="/setts/s13/n11dt2n2dt2n2dt12o12dt2o12dt12n11dt2n2~x2/"><circle cx="217.5" cy="234.9" r="4" fill="#3465a4"><title>Scottish Scouts (1922) (Corporate)</title></circle></a><a href="/setts/s12/db11r2db2r4db15r2k15dg15r4dg2r2dg11~x2/"><circle cx="170.1" cy="210.0" r="4" fill="#3465a4"><title>MacDonald #2</title></circle></a><a href="/setts/s15/g4k1g1k1g1k5db5r2db2r2db5g5k1g1k1~x6/"><circle cx="136.6" cy="223.3" r="4" fill="#3465a4"><title>MacLachlan Hunting</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x4/"><circle cx="176.9" cy="233.0" r="4" fill="#3465a4"><title>Murray #2</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x2/"><circle cx="176.9" cy="233.0" r="4" fill="#3465a4"><title>New South Wales Scottish Rifles</title></circle></a><a href="/setts/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/"><circle cx="206.2" cy="208.2" r="4" fill="#3465a4"><title>Lorne, Louise of</title></circle></a><a href="/setts/s12/db12k2db2k2db2k12dg12r3dg12k12db12r3~x2/"><circle cx="174.0" cy="240.2" r="4" fill="#3465a4"><title>Glenalmond College</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6g6t2g6k6db6k1db2~x4/"><circle cx="177.1" cy="235.4" r="4" fill="#3465a4"><title>Cheape of Torosay (Clan)</title></circle></a><a href="/setts/s15/db11k3db3k3db3k11r3dg13k3dg13r3k11db11k3db3~x2/"><circle cx="166.7" cy="246.3" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><circle cx="198.1" cy="206.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/n25k8n8k8n8k46db46w8db46k46n46k8n8/"><circle cx="200.6" cy="231.8" r="4" fill="#3465a4"><title>Poulter, Jet Black (Corporate)</title></circle></a><a href="/setts/s13/n11dt2n2dt2n2dt12o12dt2o12dt12n11dt2n2~x2/"><circle cx="217.5" cy="234.9" r="4" fill="#3465a4"><title>Scottish Scouts (1922) (Corporate)</title></circle></a><a href="/setts/s12/dg11r2dg2r4dg15k15r2db15r4db2r2db11~x2/"><circle cx="170.2" cy="210.1" r="4" fill="#3465a4"><title>MacDonald #2</title></circle></a><a href="/setts/s15/g4k1g1k1g1k5db5r2db2r2db5g5k1g1k1~x6/"><circle cx="136.7" cy="223.4" r="4" fill="#3465a4"><title>MacLachlan Hunting</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x4/"><circle cx="177.1" cy="233.1" r="4" fill="#3465a4"><title>Murray #2</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x2/"><circle cx="177.1" cy="233.1" r="4" fill="#3465a4"><title>New South Wales Scottish Rifles</title></circle></a><a href="/setts/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/"><circle cx="206.4" cy="208.3" r="4" fill="#3465a4"><title>Lorne, Louise of</title></circle></a><a href="/setts/s12/db12k2db2k2db2k12dg12r3dg12k12db12r3~x2/"><circle cx="174.2" cy="240.3" r="4" fill="#3465a4"><title>Glenalmond College</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6g6t2g6k6db6k1db2~x4/"><circle cx="177.3" cy="235.4" r="4" fill="#3465a4"><title>Cheape of Torosay (Clan)</title></circle></a><a href="/setts/s15/db11k3db3k3db3k11r3dg13k3dg13r3k11db11k3db3~x2/"><circle cx="166.9" cy="246.5" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><circle cx="198.1" cy="206.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/m3g11m3db2t2db11m2g2m2db11t2db2m3g11m3db2~x2/

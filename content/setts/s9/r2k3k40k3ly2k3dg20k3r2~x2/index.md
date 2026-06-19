@@ -2,7 +2,7 @@
 title: "Strachan"
 date: 2023-03-18
 ---
-**Bands:** [RKGKYKKKR](/stripes/rkgkykkkr/) · **Stripes:** [R K DG K LY K K K R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K DG K LY K K K R</span></span>
+**Bands:** [RKKKYKGKR](/stripes/rkkkykgkr/) · **Stripes:** [R K K K LY K DG K R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K K K LY K DG K R</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -908,16 +911,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Royal Marines Condor](/setts/s7/k5r3k27k37r5g2ly2~x2/) — ΔT 1.28
 1. [Urquhart](/setts/s12/db2lb1db12k1db2k1db4k12dg24k1dg2r1~x2/) — ΔT 1.29
 1. [Dama Weekend](/setts/s11/k42n2k2n4y4ly2y6k9y2k2r2~x2/) — ΔT 1.32
-1. [Armstrong](/setts/s10/r3db12k1db1k1db2k12dg30k1dg2~x2/) — ΔT 1.36
 1. [State Seal of Massachusetts Fash)](/setts/s10/k62b4k7db29k3lo4k3lb4k11b16~x2/) — ΔT 1.38
 1. [Sutherland](/setts/s12/dg6lr2dg24k12db3k2db2k2db12r1db1r3~x2/) — ΔT 1.39
 1. [Sutherland](/setts/s12/dg6lr2dg24k12db3k2db2k2db12r1db1r3/) — ΔT 1.39
 1. [Mount Dora](/setts/s10/k42dp4k16dg10k2r6k2dg10k3w4~x2/) — ΔT 1.39
+1. [Sinclair Hunting](/setts/s7/dg2r1dg30k16lr1db16r2~x2/) — ΔT 1.41
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db4lr2db24k3db3k3db8k24dg48k3dg3r2~x2/"><circle cx="264.2" cy="130.6" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/setts/s12/db4lr2db24k3db3k3db8k24dg48k3dg3r2/"><circle cx="264.2" cy="130.6" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/setts/s7/k5r3k27k37r5g2ly2~x2/"><circle cx="286.3" cy="164.1" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/setts/s12/db2lb1db12k1db2k1db4k12dg24k1dg2r1~x2/"><circle cx="259.5" cy="124.9" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/setts/s11/k42n2k2n4y4ly2y6k9y2k2r2~x2/"><circle cx="320.3" cy="98.2" r="4" fill="#3465a4"><title>Dama Weekend</title></circle></a><a href="/setts/s10/r3db12k1db1k1db2k12dg30k1dg2~x2/"><circle cx="338.4" cy="142.3" r="4" fill="#3465a4"><title>Armstrong</title></circle></a><a href="/setts/s10/k62b4k7db29k3lo4k3lb4k11b16~x2/"><circle cx="354.1" cy="138.4" r="4" fill="#3465a4"><title>State Seal of Massachusetts Fash)</title></circle></a><a href="/setts/s12/dg6lr2dg24k12db3k2db2k2db12r1db1r3~x2/"><circle cx="247.8" cy="131.1" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/setts/s12/dg6lr2dg24k12db3k2db2k2db12r1db1r3/"><circle cx="247.8" cy="131.1" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/setts/s10/k42dp4k16dg10k2r6k2dg10k3w4~x2/"><circle cx="313.1" cy="126.9" r="4" fill="#3465a4"><title>Mount Dora</title></circle></a><circle cx="316.2" cy="141.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db4lr2db24k3db3k3db8k24dg48k3dg3r2~x2/"><circle cx="264.4" cy="130.7" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/setts/s12/db4lr2db24k3db3k3db8k24dg48k3dg3r2/"><circle cx="264.4" cy="130.7" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/setts/s7/k5r3k27k37r5g2ly2~x2/"><circle cx="286.5" cy="164.1" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/setts/s12/db2lb1db12k1db2k1db4k12dg24k1dg2r1~x2/"><circle cx="259.6" cy="124.9" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/setts/s11/k42n2k2n4y4ly2y6k9y2k2r2~x2/"><circle cx="320.3" cy="98.2" r="4" fill="#3465a4"><title>Dama Weekend</title></circle></a><a href="/setts/s10/k62b4k7db29k3lo4k3lb4k11b16~x2/"><circle cx="354.1" cy="138.3" r="4" fill="#3465a4"><title>State Seal of Massachusetts Fash)</title></circle></a><a href="/setts/s12/dg6lr2dg24k12db3k2db2k2db12r1db1r3~x2/"><circle cx="247.9" cy="131.1" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/setts/s12/dg6lr2dg24k12db3k2db2k2db12r1db1r3/"><circle cx="247.9" cy="131.1" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/setts/s10/k42dp4k16dg10k2r6k2dg10k3w4~x2/"><circle cx="313.2" cy="126.9" r="4" fill="#3465a4"><title>Mount Dora</title></circle></a><a href="/setts/s7/dg2r1dg30k16lr1db16r2~x2/"><circle cx="292.9" cy="154.6" r="4" fill="#3465a4"><title>Sinclair Hunting</title></circle></a><circle cx="316.3" cy="141.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r2k3k40k3ly2k3dg20k3r2~x2/

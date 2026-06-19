@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/g3g2g1g2g1g3k1g3k2g14r1g3ly1g3~x4/"><circle cx="428.4" cy="153.9" r="4" fill="#3465a4"><title>New South Wales</title></circle></a><a href="/setts/s13/k3g3ly2g4k2g3k2g24db10ly2db10g30r3~x2/"><circle cx="347.0" cy="136.3" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/setts/s14/g2g4g2g1g1g1g3k2g2k2g12r1g2r1~x2/"><circle cx="359.1" cy="167.0" r="4" fill="#3465a4"><title>Ross, hunting</title></circle></a><a href="/setts/s25/g4g2g3g3g4k5g3k5g28r2g4r2g4r2g28k5g3k5g4g2g2g2g3g4g3~x2/"><circle cx="383.0" cy="120.5" r="4" fill="#3465a4"><title>Ross, hunting</title></circle></a><a href="/setts/s14/dg2w4dg2w1dg1w1dg3k2dg2k2dg12r1dg2r1~x2/"><circle cx="332.8" cy="150.7" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><a href="/setts/s10/dg12w5k11dg42k3dg42k11w5dg12r8~x2/"><circle cx="406.6" cy="185.4" r="4" fill="#3465a4"><title>Sir Billi</title></circle></a><a href="/setts/s17/g20w2g2w2g2w8g2w2g2w2g20ly4g8r2g4do1dp2~x2/"><circle cx="366.7" cy="92.0" r="4" fill="#3465a4"><title>Bryant (Name)</title></circle></a><a href="/setts/s17/g20lb2g2lb2g2lb8g2lb2g2lb2g20ly4g8r2g4do1dp2~x2/"><circle cx="386.4" cy="102.6" r="4" fill="#3465a4"><title>Bryant</title></circle></a><a href="/setts/s9/k3g14k8g8r3g4lo3g24w3~x2/"><circle cx="372.5" cy="203.6" r="4" fill="#3465a4"><title>MacStumer Htg</title></circle></a><a href="/setts/s14/o9g4w5g30r2g4r2g4r2g30w5g4o9g5~x2/"><circle cx="420.9" cy="160.9" r="4" fill="#3465a4"><title>Welsh Assembly</title></circle></a><circle cx="376.8" cy="155.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/g3g2g1g2g1g3k1g3k2g14r1g3ly1g3~x4/"><circle cx="428.0" cy="153.7" r="4" fill="#3465a4"><title>New South Wales</title></circle></a><a href="/setts/s13/k3g3ly2g4k2g3k2g24db10ly2db10g30r3~x2/"><circle cx="346.8" cy="136.1" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/setts/s14/g2g4g2g1g1g1g3k2g2k2g12r1g2r1~x2/"><circle cx="358.9" cy="166.8" r="4" fill="#3465a4"><title>Ross, hunting</title></circle></a><a href="/setts/s25/g4g2g3g3g4k5g3k5g28r2g4r2g4r2g28k5g3k5g4g2g2g2g3g4g3~x2/"><circle cx="382.6" cy="120.3" r="4" fill="#3465a4"><title>Ross, hunting</title></circle></a><a href="/setts/s14/dg2w4dg2w1dg1w1dg3k2dg2k2dg12r1dg2r1~x2/"><circle cx="332.5" cy="150.4" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><a href="/setts/s10/dg12w5k11dg42k3dg42k11w5dg12r8~x2/"><circle cx="406.3" cy="185.1" r="4" fill="#3465a4"><title>Sir Billi</title></circle></a><a href="/setts/s17/g20w2g2w2g2w8g2w2g2w2g20ly4g8r2g4do1dp2~x2/"><circle cx="366.3" cy="91.9" r="4" fill="#3465a4"><title>Bryant (Name)</title></circle></a><a href="/setts/s17/g20lb2g2lb2g2lb8g2lb2g2lb2g20ly4g8r2g4do1dp2~x2/"><circle cx="386.1" cy="102.4" r="4" fill="#3465a4"><title>Bryant</title></circle></a><a href="/setts/s9/k3g14k8g8r3g4lo3g24w3~x2/"><circle cx="372.4" cy="203.4" r="4" fill="#3465a4"><title>MacStumer Htg</title></circle></a><a href="/setts/s14/o9g4w5g30r2g4r2g4r2g30w5g4o9g5~x2/"><circle cx="420.6" cy="160.7" r="4" fill="#3465a4"><title>Welsh Assembly</title></circle></a><circle cx="376.5" cy="155.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s17/g12k3g12k3g12r2g3k1db3w1db3k1g3r2g12k3g12~x2/

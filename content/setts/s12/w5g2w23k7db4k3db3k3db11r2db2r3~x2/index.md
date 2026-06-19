@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -903,7 +906,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Thom(p)son](/setts/s10/ly1db9k1w4k1w2k2w2k1r1~x4/) — ΔT 0.70
+1. [Thom(p)son](/setts/s10/r1k1w2k2w2k1w4k1db9ly1~x4/) — ΔT 0.70
 1. [Stewart of Appin, dress](/setts/s10/db8r3db34b3k9w31r5w3r3w8~x2/) — ΔT 0.73
 1. [Sutherland Dress, Old (Dance)](/setts/s12/w6dg2w27k10n4k4n4k4n15r2n2r4~x2/) — ΔT 0.83
 1. [Stewart of Appin Htg Dress](/setts/s10/db8r3db36t3k10w34r4w3r3w8~x2/) — ΔT 0.85
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly1db9k1w4k1w2k2w2k1r1~x4/"><circle cx="132.9" cy="138.8" r="4" fill="#3465a4"><title>Thom(p)son</title></circle></a><a href="/setts/s10/db8r3db34b3k9w31r5w3r3w8~x2/"><circle cx="166.1" cy="125.3" r="4" fill="#3465a4"><title>Stewart of Appin, dress</title></circle></a><a href="/setts/s12/w6dg2w27k10n4k4n4k4n15r2n2r4~x2/"><circle cx="154.2" cy="113.0" r="4" fill="#3465a4"><title>Sutherland Dress, Old (Dance)</title></circle></a><a href="/setts/s10/db8r3db36t3k10w34r4w3r3w8~x2/"><circle cx="169.3" cy="119.5" r="4" fill="#3465a4"><title>Stewart of Appin Htg Dress</title></circle></a><a href="/setts/s14/w1k1ly1n8k1lr1w8lr1k8lr1w1n8lr1w1~x6/"><circle cx="131.9" cy="128.8" r="4" fill="#3465a4"><title>Praetorian, Blue (Fashion)</title></circle></a><a href="/setts/s11/lb3k1n12k1n1k2n1k6w12k1lo1~x4/"><circle cx="141.2" cy="118.1" r="4" fill="#3465a4"><title>McCandlish Arisaid, Grey (Name)</title></circle></a><a href="/setts/s10/db8r3db34t3k9w31r5w3r3w8~x2/"><circle cx="168.2" cy="126.1" r="4" fill="#3465a4"><title>Stewart of Appin Dress Clan Tartan Tartan Number: 481. Earliest known date: pre 2003 The Stewarts of Appin fueded relentlessly with the Campbells, and they were supported in these pursuits and other military activities by some of the Clan MacColl, whose tartan is very similar. The Stewarts of Ardshiel, a branch of the Appin Clan, have a certified tartan of their own dating back to the 1820's, which has elements of the Appin design. Stewarts of Appin are descended from Dugald, the son of Sir John Stewart of Lorne who was murdered in 1463. Dugald established the Appin branch of the family by dividing his lands between his five sons. The tartan is worn by the Stonehaven pipe bands. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/"><circle cx="148.1" cy="106.8" r="4" fill="#3465a4"><title>Walker, Dress (Personal)</title></circle></a><a href="/setts/s10/db8r3db34b3k9w31r5w3r3w8/"><circle cx="169.5" cy="126.6" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin Dress</title></circle></a><a href="/setts/s12/dg4g3dg3g4dg4db8dg3db9w29r2w4r2~x2/"><circle cx="178.4" cy="103.7" r="4" fill="#3465a4"><title>Ross Hunting Dress</title></circle></a><circle cx="150.7" cy="117.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r1k1w2k2w2k1w4k1db9ly1~x4/"><circle cx="132.8" cy="138.8" r="4" fill="#3465a4"><title>Thom(p)son</title></circle></a><a href="/setts/s10/db8r3db34b3k9w31r5w3r3w8~x2/"><circle cx="165.9" cy="125.3" r="4" fill="#3465a4"><title>Stewart of Appin, dress</title></circle></a><a href="/setts/s12/w6dg2w27k10n4k4n4k4n15r2n2r4~x2/"><circle cx="153.9" cy="113.0" r="4" fill="#3465a4"><title>Sutherland Dress, Old (Dance)</title></circle></a><a href="/setts/s10/db8r3db36t3k10w34r4w3r3w8~x2/"><circle cx="169.1" cy="119.5" r="4" fill="#3465a4"><title>Stewart of Appin Htg Dress</title></circle></a><a href="/setts/s14/w1k1ly1n8k1lr1w8lr1k8lr1w1n8lr1w1~x6/"><circle cx="131.8" cy="128.8" r="4" fill="#3465a4"><title>Praetorian, Blue (Fashion)</title></circle></a><a href="/setts/s11/lb3k1n12k1n1k2n1k6w12k1lo1~x4/"><circle cx="141.0" cy="118.1" r="4" fill="#3465a4"><title>McCandlish Arisaid, Grey (Name)</title></circle></a><a href="/setts/s10/db8r3db34t3k9w31r5w3r3w8~x2/"><circle cx="168.0" cy="126.1" r="4" fill="#3465a4"><title>Stewart of Appin Dress Clan Tartan Tartan Number: 481. Earliest known date: pre 2003 The Stewarts of Appin fueded relentlessly with the Campbells, and they were supported in these pursuits and other military activities by some of the Clan MacColl, whose tartan is very similar. The Stewarts of Ardshiel, a branch of the Appin Clan, have a certified tartan of their own dating back to the 1820's, which has elements of the Appin design. Stewarts of Appin are descended from Dugald, the son of Sir John Stewart of Lorne who was murdered in 1463. Dugald established the Appin branch of the family by dividing his lands between his five sons. The tartan is worn by the Stonehaven pipe bands. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/"><circle cx="147.9" cy="106.8" r="4" fill="#3465a4"><title>Walker, Dress (Personal)</title></circle></a><a href="/setts/s10/db8r3db34b3k9w31r5w3r3w8/"><circle cx="169.3" cy="126.5" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin Dress</title></circle></a><a href="/setts/s12/dg4g3dg3g4dg4db8dg3db9w29r2w4r2~x2/"><circle cx="178.2" cy="103.6" r="4" fill="#3465a4"><title>Ross Hunting Dress</title></circle></a><circle cx="150.6" cy="117.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/

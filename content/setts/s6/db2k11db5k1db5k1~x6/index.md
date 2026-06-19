@@ -2,12 +2,18 @@
 title: "Gagetown (School)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBK](/stripes/bkbkbk/) · **Stripes:** [DB K DB K DB K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K DB K DB K</span></span>
+**Bands:** [KBKBKB](/stripes/kbkbkb/) · **Stripes:** [K DB K DB K DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB K DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7557/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Gagetown School
 
 ## Attestations
 
@@ -50,7 +56,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Marchmont (Personal)](/setts/s7/g1db12k12g1k12db12k1~x4/) — ΔT 1.15
+1. [Marchmont (Personal)](/setts/s7/k1db12k12g1k12db12g1~x4/) — ΔT 1.15
 1. [Largan (?)](/setts/s6/db8k39db8k39db87r6/) — ΔT 1.20
 1. [Morgan (MacKay Blue) Clan Tartan Tartan Number: 264. Earliest known date: 1842 The design comes from the Vestiarium Scoticum (1842). The authors, the Sobieski Stuart brothers, enjoyed a popular following among the Scottish gentry in the early Victorian era, and in the spirit of the times, added mystery, romance and some spurious historical documentation to the subject of tartan. Of the better known tartans, the book offers some minor variation, but in other cases it provides the only recorded version of many tartans in use today. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/db1k3db1k3db8r1~x4/) — ΔT 1.21
 1. [MacKay (Blue) #2](/setts/s5/k15db4k15db28r2~x2/) — ΔT 1.21
@@ -58,13 +64,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Wellington Variation](/setts/s4/k3db23k17r2~x2/) — ΔT 1.34
 1. [Pride of Kinross](/setts/s8/k20db2k6db2k4db27w2db8~x2/) — ΔT 1.45
 1. [Perthshire, New /Tourist Board](/setts/s6/db37r10dg22db11dg3r3~x2/) — ΔT 1.47
-1. [Oban](/setts/s8/b6k10b1k1b1k10db10k6~x4/) — ΔT 1.51
+1. [Oban](/setts/s8/k6db10k10b1k1b1k10b6~x4/) — ΔT 1.51
 1. [Gallaecia - Galicia National](/setts/s5/db24n13db4n4w2~x2/) — ΔT 1.62
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g1db12k12g1k12db12k1~x4/"><circle cx="366.8" cy="264.6" r="4" fill="#3465a4"><title>Marchmont (Personal)</title></circle></a><a href="/setts/s6/db8k39db8k39db87r6/"><circle cx="429.9" cy="254.9" r="4" fill="#3465a4"><title>Largan (?)</title></circle></a><a href="/setts/s6/db1k3db1k3db8r1~x4/"><circle cx="404.3" cy="272.0" r="4" fill="#3465a4"><title>Morgan (MacKay Blue) Clan Tartan Tartan Number: 264. Earliest known date: 1842 The design comes from the Vestiarium Scoticum (1842). The authors, the Sobieski Stuart brothers, enjoyed a popular following among the Scottish gentry in the early Victorian era, and in the spirit of the times, added mystery, romance and some spurious historical documentation to the subject of tartan. Of the better known tartans, the book offers some minor variation, but in other cases it provides the only recorded version of many tartans in use today. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k15db4k15db28r2~x2/"><circle cx="378.2" cy="270.2" r="4" fill="#3465a4"><title>MacKay (Blue) #2</title></circle></a><a href="/setts/s6/db5k2db14k14db2lr2~x2/"><circle cx="353.0" cy="270.7" r="4" fill="#3465a4"><title>Royal Scotsman Train (Corporate)</title></circle></a><a href="/setts/s4/k3db23k17r2~x2/"><circle cx="394.3" cy="285.3" r="4" fill="#3465a4"><title>Wellington Variation</title></circle></a><a href="/setts/s8/k20db2k6db2k4db27w2db8~x2/"><circle cx="389.9" cy="222.1" r="4" fill="#3465a4"><title>Pride of Kinross</title></circle></a><a href="/setts/s6/db37r10dg22db11dg3r3~x2/"><circle cx="387.7" cy="265.7" r="4" fill="#3465a4"><title>Perthshire, New /Tourist Board</title></circle></a><a href="/setts/s8/b6k10b1k1b1k10db10k6~x4/"><circle cx="367.6" cy="263.8" r="4" fill="#3465a4"><title>Oban</title></circle></a><a href="/setts/s5/db24n13db4n4w2~x2/"><circle cx="397.4" cy="254.2" r="4" fill="#3465a4"><title>Gallaecia - Galicia National</title></circle></a><circle cx="413.4" cy="280.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k1db12k12g1k12db12g1~x4/"><circle cx="366.9" cy="264.5" r="4" fill="#3465a4"><title>Marchmont (Personal)</title></circle></a><a href="/setts/s6/db8k39db8k39db87r6/"><circle cx="429.9" cy="254.8" r="4" fill="#3465a4"><title>Largan (?)</title></circle></a><a href="/setts/s6/db1k3db1k3db8r1~x4/"><circle cx="404.3" cy="271.9" r="4" fill="#3465a4"><title>Morgan (MacKay Blue) Clan Tartan Tartan Number: 264. Earliest known date: 1842 The design comes from the Vestiarium Scoticum (1842). The authors, the Sobieski Stuart brothers, enjoyed a popular following among the Scottish gentry in the early Victorian era, and in the spirit of the times, added mystery, romance and some spurious historical documentation to the subject of tartan. Of the better known tartans, the book offers some minor variation, but in other cases it provides the only recorded version of many tartans in use today. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k15db4k15db28r2~x2/"><circle cx="378.4" cy="270.1" r="4" fill="#3465a4"><title>MacKay (Blue) #2</title></circle></a><a href="/setts/s6/db5k2db14k14db2lr2~x2/"><circle cx="353.1" cy="270.6" r="4" fill="#3465a4"><title>Royal Scotsman Train (Corporate)</title></circle></a><a href="/setts/s4/k3db23k17r2~x2/"><circle cx="394.5" cy="285.2" r="4" fill="#3465a4"><title>Wellington Variation</title></circle></a><a href="/setts/s8/k20db2k6db2k4db27w2db8~x2/"><circle cx="389.9" cy="221.9" r="4" fill="#3465a4"><title>Pride of Kinross</title></circle></a><a href="/setts/s6/db37r10dg22db11dg3r3~x2/"><circle cx="387.9" cy="265.7" r="4" fill="#3465a4"><title>Perthshire, New /Tourist Board</title></circle></a><a href="/setts/s8/k6db10k10b1k1b1k10b6~x4/"><circle cx="367.7" cy="263.7" r="4" fill="#3465a4"><title>Oban</title></circle></a><a href="/setts/s5/db24n13db4n4w2~x2/"><circle cx="397.4" cy="254.0" r="4" fill="#3465a4"><title>Gallaecia - Galicia National</title></circle></a><circle cx="413.5" cy="280.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db2k11db5k1db5k1~x6/

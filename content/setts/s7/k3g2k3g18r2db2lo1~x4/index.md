@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7566
 
 ## Thread count
-DY/4 DB8 DR8 G72 K12 G8 K/12
+K/12 G8 K12 G72 DR8 DB8 DY/4
 ![Sett](sett.png)
 
 ## Palette
@@ -41,7 +41,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DY/4 DB8 DR8 G72 K12 G8 K/12 tartan")
+![Tartan detail](tartan.png "K/12 G8 K12 G72 DR8 DB8 DY/4 tartan")
 
 ## Nearest tartans
 
@@ -60,8 +60,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g10lo3w2k2g8k22g43lo4~x2/"><circle cx="383.4" cy="151.3" r="4" fill="#3465a4"><title>Celtic Pride</title></circle></a><a href="/setts/s6/db6w3r3g55k10r3~x4/"><circle cx="411.8" cy="150.4" r="4" fill="#3465a4"><title>Military Medical Memorial (USA)</title></circle></a><a href="/setts/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="406.8" cy="156.2" r="4" fill="#3465a4"><title>Sarros (Personal) XX</title></circle></a><a href="/setts/s8/ly5g3ly3g53r7db5r13w4~x2/"><circle cx="345.6" cy="131.7" r="4" fill="#3465a4"><title>Hall (P.I.E.) (Personal)</title></circle></a><a href="/setts/s9/db17r3g55db3g4db3g4ly3w5~x2/"><circle cx="386.2" cy="128.0" r="4" fill="#3465a4"><title>Bundanoon (District)</title></circle></a><a href="/setts/s8/r5w4db6db2g43db2db4r3~x2/"><circle cx="367.7" cy="122.0" r="4" fill="#3465a4"><title>Mullikin (2013)</title></circle></a><a href="/setts/s10/g4lb1db2r1g1r1db2lb1g14lo1~x4/"><circle cx="383.4" cy="139.4" r="4" fill="#3465a4"><title>Seattle (District)</title></circle></a><a href="/setts/s7/g55p7r24g12db4ly3db4~x2/"><circle cx="359.0" cy="154.9" r="4" fill="#3465a4"><title>Crieff, and Strathearn</title></circle></a><a href="/setts/s7/g55dp7r24g12db4ly3db4~x2/"><circle cx="366.2" cy="158.2" r="4" fill="#3465a4"><title>Crieff and Strathearn District Tartan Tartan Number: 664. Earliest known date: 1988 A branch of the Stewart clan from Galloway and the South West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/dg60ly16m8t2o3~x2/"><circle cx="425.4" cy="151.8" r="4" fill="#3465a4"><title>Isle of Raasay</title></circle></a><circle cx="379.6" cy="155.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g10lo3w2k2g8k22g43lo4~x2/"><circle cx="383.2" cy="151.2" r="4" fill="#3465a4"><title>Celtic Pride</title></circle></a><a href="/setts/s6/db6w3r3g55k10r3~x4/"><circle cx="411.5" cy="150.2" r="4" fill="#3465a4"><title>Military Medical Memorial (USA)</title></circle></a><a href="/setts/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="406.6" cy="156.0" r="4" fill="#3465a4"><title>Sarros (Personal) XX</title></circle></a><a href="/setts/s8/ly5g3ly3g53r7db5r13w4~x2/"><circle cx="345.3" cy="131.6" r="4" fill="#3465a4"><title>Hall (P.I.E.) (Personal)</title></circle></a><a href="/setts/s9/db17r3g55db3g4db3g4ly3w5~x2/"><circle cx="386.0" cy="127.9" r="4" fill="#3465a4"><title>Bundanoon (District)</title></circle></a><a href="/setts/s8/r5w4db6db2g43db2db4r3~x2/"><circle cx="367.4" cy="121.8" r="4" fill="#3465a4"><title>Mullikin (2013)</title></circle></a><a href="/setts/s10/g4lb1db2r1g1r1db2lb1g14lo1~x4/"><circle cx="383.1" cy="139.3" r="4" fill="#3465a4"><title>Seattle (District)</title></circle></a><a href="/setts/s7/g55p7r24g12db4ly3db4~x2/"><circle cx="358.7" cy="154.8" r="4" fill="#3465a4"><title>Crieff, and Strathearn</title></circle></a><a href="/setts/s7/g55dp7r24g12db4ly3db4~x2/"><circle cx="365.9" cy="158.0" r="4" fill="#3465a4"><title>Crieff and Strathearn District Tartan Tartan Number: 664. Earliest known date: 1988 A branch of the Stewart clan from Galloway and the South West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/dg60ly16m8t2o3~x2/"><circle cx="425.1" cy="151.6" r="4" fill="#3465a4"><title>Isle of Raasay</title></circle></a><circle cx="379.4" cy="154.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k3g2k3g18r2db2lo1~x4/

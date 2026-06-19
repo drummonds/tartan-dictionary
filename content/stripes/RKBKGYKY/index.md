@@ -8,7 +8,7 @@ RKBKGYKY
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/ly2k4ly1dg16k14dt23k4r2~x2/tartan.png)
+![Woven sample](/setts/s8/r2k4dt23k14dg16ly1k4ly2~x2/tartan.png)
 
 
 
@@ -32,6 +32,6 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Thomas, baron of Craigie, Robert (Personal)](/setts/s8/ly2k4ly1dg16k14dt23k4r2~x2/)|
-|![Thomas, baron of Craigie, Robert (Personal) example sett](/setts/s8/ly2k4ly1dg16k14dt23k4r2~x2/sett.png)|
+| [Thomas, baron of Craigie, Robert (Personal)](/setts/s8/r2k4dt23k14dg16ly1k4ly2~x2/)|
+|![Thomas, baron of Craigie, Robert (Personal) example sett](/setts/s8/r2k4dt23k14dg16ly1k4ly2~x2/sett.png)|
 

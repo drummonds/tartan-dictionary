@@ -2,7 +2,7 @@
 title: "London Fog Safari (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BYKWKY](/stripes/bykwky/) · **Stripes:** [B LR K W K LR](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">B LR K W K LR</span></span>
+**Bands:** [YKWKYB](/stripes/ykwkyb/) · **Stripes:** [LR K W K LR B](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LR K W K LR B</span></span>
 
 
 This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/
 Original link http://www.tartansauthority.com/tartan-ferret/display/7270/
 
 ## Thread count
-B/4 N100 K8 LN10 K4 N/20
+N/20 K4 LN10 K8 N100 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -25,14 +25,14 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/4 N100 K8 LN10 K4 N/20 tartan")
+![Tartan detail](tartan.png "N/20 K4 LN10 K8 N100 B/4 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Gairloch (Fashion)](/setts/s8/w24w1y9w1w9w2y2k2~x2/) — ΔT 1.54
-1. [St. Giles Check (Corporate)](/setts/s7/db3o1w1o25w1o1dp3~x4/) — ΔT 1.73
+1. [St. Giles Check (Corporate)](/setts/s7/db3o1w1o25w1o1dp3~x4/) — ΔT 1.74
 1. [MacDonald from Rawtenstall (Personal)](/setts/s8/lb7w2m7w4lb50w2k2r2~x2/) — ΔT 1.82
 1. [Young, Christina](/setts/s6/w162k10dp10lo9y6dp3/) — ΔT 1.94
 1. [St Giles Check Tartan Tartan Number: 387. Earliest known date: 1984 St Giles Church is in the Royal Mile, Edinburgh See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/db3o1w1o25w1o1dp3~x2/) — ΔT 1.99
@@ -44,8 +44,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w24w1y9w1w9w2y2k2~x2/"><circle cx="464.1" cy="131.4" r="4" fill="#3465a4"><title>Gairloch (Fashion)</title></circle></a><a href="/setts/s7/db3o1w1o25w1o1dp3~x4/"><circle cx="545.7" cy="137.9" r="4" fill="#3465a4"><title>St. Giles Check (Corporate)</title></circle></a><a href="/setts/s8/lb7w2m7w4lb50w2k2r2~x2/"><circle cx="471.6" cy="99.3" r="4" fill="#3465a4"><title>MacDonald from Rawtenstall (Personal)</title></circle></a><a href="/setts/s6/w162k10dp10lo9y6dp3/"><circle cx="532.5" cy="63.9" r="4" fill="#3465a4"><title>Young, Christina</title></circle></a><a href="/setts/s7/db3o1w1o25w1o1dp3~x2/"><circle cx="558.0" cy="144.3" r="4" fill="#3465a4"><title>St Giles Check Tartan Tartan Number: 387. Earliest known date: 1984 St Giles Church is in the Royal Mile, Edinburgh See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/w2lo44db8lo2db2lo3r1~x2/"><circle cx="590.3" cy="119.0" r="4" fill="#3465a4"><title>Reece (Name)</title></circle></a><a href="/setts/s4/w81dg6lo8dg8~x2/"><circle cx="498.1" cy="184.3" r="4" fill="#3465a4"><title>Young in Australia</title></circle></a><a href="/setts/s7/w168r2w2lo2w2lo3g26~x2/"><circle cx="599.4" cy="65.3" r="4" fill="#3465a4"><title>Whisky Kilt (Fashion)</title></circle></a><a href="/setts/s9/b70db5b3w5b3w5b3r5b8~x2/"><circle cx="560.4" cy="126.8" r="4" fill="#3465a4"><title>Wyckoff, Ann Grainger Phillips</title></circle></a><a href="/setts/s5/w45b2w4b15w7~x2/"><circle cx="535.2" cy="196.8" r="4" fill="#3465a4"><title>Asahi (Estimated threadcount)</title></circle></a><circle cx="552.8" cy="139.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w24w1y9w1w9w2y2k2~x2/"><circle cx="463.4" cy="131.0" r="4" fill="#3465a4"><title>Gairloch (Fashion)</title></circle></a><a href="/setts/s7/db3o1w1o25w1o1dp3~x4/"><circle cx="545.2" cy="137.6" r="4" fill="#3465a4"><title>St. Giles Check (Corporate)</title></circle></a><a href="/setts/s8/lb7w2m7w4lb50w2k2r2~x2/"><circle cx="470.9" cy="99.0" r="4" fill="#3465a4"><title>MacDonald from Rawtenstall (Personal)</title></circle></a><a href="/setts/s6/w162k10dp10lo9y6dp3/"><circle cx="531.6" cy="63.4" r="4" fill="#3465a4"><title>Young, Christina</title></circle></a><a href="/setts/s7/db3o1w1o25w1o1dp3~x2/"><circle cx="557.5" cy="144.0" r="4" fill="#3465a4"><title>St Giles Check Tartan Tartan Number: 387. Earliest known date: 1984 St Giles Church is in the Royal Mile, Edinburgh See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/w2lo44db8lo2db2lo3r1~x2/"><circle cx="589.6" cy="118.6" r="4" fill="#3465a4"><title>Reece (Name)</title></circle></a><a href="/setts/s4/w81dg6lo8dg8~x2/"><circle cx="497.4" cy="183.8" r="4" fill="#3465a4"><title>Young in Australia</title></circle></a><a href="/setts/s7/w168r2w2lo2w2lo3g26~x2/"><circle cx="598.5" cy="64.9" r="4" fill="#3465a4"><title>Whisky Kilt (Fashion)</title></circle></a><a href="/setts/s9/b70db5b3w5b3w5b3r5b8~x2/"><circle cx="559.8" cy="126.5" r="4" fill="#3465a4"><title>Wyckoff, Ann Grainger Phillips</title></circle></a><a href="/setts/s5/w45b2w4b15w7~x2/"><circle cx="534.4" cy="196.2" r="4" fill="#3465a4"><title>Asahi (Estimated threadcount)</title></circle></a><circle cx="552.1" cy="138.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/lr10k2w5k4lr50b2~x2/

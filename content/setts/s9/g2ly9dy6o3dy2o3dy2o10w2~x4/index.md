@@ -34,12 +34,12 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Tinkler (Corporate)](/setts/s9/g2lo9do6r3do2r3do2r10w2~x4/) — ΔT 1.13
+1. [Tinkler (Corporate)](/setts/s9/g2lo9do6r3do2r3do2r10w2~x4/) — ΔT 1.14
 1. [Toorak Chapler (Fashion)](/setts/s9/dy3lo1lb1dy1lo1dy3lb3ly6r1~x6/) — ΔT 1.15
 1. [Deeside District](/setts/s7/ly1b4o1o5dr2o1ly1~x2/) — ΔT 1.23
 1. [Maple Leaf](/setts/s12/dg19r3dg3r15lo13r15dg3r3dg19ly6lo6dy6~x2/) — ΔT 1.27
-1. [Quinn (Name?)](/setts/s12/g20r20g5r5g30k10g10ly8g30r5g5r20~x2/) — ΔT 1.33
-1. [Glenmorangie (Corporate)](/setts/s11/lo6m2lo2m4lo13k12y13m4y2m2y6~x2/) — ΔT 1.35
+1. [Quinn (Name?)](/setts/s12/r20g5r5g30ly8g10k10g30r5g5r20g20~x2/) — ΔT 1.33
+1. [Glenmorangie (Corporate)](/setts/s11/y6m2y2m4y13k12lo13m4lo2m2lo6~x2/) — ΔT 1.35
 1. [Harmony 14](/setts/s11/dg3y16dy11y2lo11y2lo11y2dy11y16w3~x2/) — ΔT 1.36
 1. [Sydney (Nova Scotia) (District)](/setts/s8/o16k4w2k4o6o11o2o16~x2/) — ΔT 1.43
 1. [Blackie](/setts/s8/g9ly2g9w5r9t2r9t2~x2/) — ΔT 1.44
@@ -47,8 +47,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g2lo9do6r3do2r3do2r10w2~x4/"><circle cx="159.7" cy="205.3" r="4" fill="#3465a4"><title>Tinkler (Corporate)</title></circle></a><a href="/setts/s9/dy3lo1lb1dy1lo1dy3lb3ly6r1~x6/"><circle cx="127.2" cy="193.1" r="4" fill="#3465a4"><title>Toorak Chapler (Fashion)</title></circle></a><a href="/setts/s7/ly1b4o1o5dr2o1ly1~x2/"><circle cx="141.6" cy="205.3" r="4" fill="#3465a4"><title>Deeside District</title></circle></a><a href="/setts/s12/dg19r3dg3r15lo13r15dg3r3dg19ly6lo6dy6~x2/"><circle cx="161.9" cy="200.8" r="4" fill="#3465a4"><title>Maple Leaf</title></circle></a><a href="/setts/s12/g20r20g5r5g30k10g10ly8g30r5g5r20~x2/"><circle cx="163.1" cy="204.4" r="4" fill="#3465a4"><title>Quinn (Name?)</title></circle></a><a href="/setts/s11/lo6m2lo2m4lo13k12y13m4y2m2y6~x2/"><circle cx="143.1" cy="202.6" r="4" fill="#3465a4"><title>Glenmorangie (Corporate)</title></circle></a><a href="/setts/s11/dg3y16dy11y2lo11y2lo11y2dy11y16w3~x2/"><circle cx="206.0" cy="202.4" r="4" fill="#3465a4"><title>Harmony 14</title></circle></a><a href="/setts/s8/o16k4w2k4o6o11o2o16~x2/"><circle cx="244.6" cy="213.2" r="4" fill="#3465a4"><title>Sydney (Nova Scotia) (District)</title></circle></a><a href="/setts/s8/g9ly2g9w5r9t2r9t2~x2/"><circle cx="115.0" cy="218.3" r="4" fill="#3465a4"><title>Blackie</title></circle></a><a href="/setts/s12/g21r5g21r21g5r4g5r21w4r5db21r4/"><circle cx="204.0" cy="210.3" r="4" fill="#3465a4"><title>MacRae</title></circle></a><circle cx="163.7" cy="210.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g2lo9do6r3do2r3do2r10w2~x4/"><circle cx="159.6" cy="205.4" r="4" fill="#3465a4"><title>Tinkler (Corporate)</title></circle></a><a href="/setts/s9/dy3lo1lb1dy1lo1dy3lb3ly6r1~x6/"><circle cx="127.0" cy="193.1" r="4" fill="#3465a4"><title>Toorak Chapler (Fashion)</title></circle></a><a href="/setts/s7/ly1b4o1o5dr2o1ly1~x2/"><circle cx="141.5" cy="205.5" r="4" fill="#3465a4"><title>Deeside District</title></circle></a><a href="/setts/s12/dg19r3dg3r15lo13r15dg3r3dg19ly6lo6dy6~x2/"><circle cx="161.9" cy="200.9" r="4" fill="#3465a4"><title>Maple Leaf</title></circle></a><a href="/setts/s12/r20g5r5g30ly8g10k10g30r5g5r20g20~x2/"><circle cx="163.0" cy="204.4" r="4" fill="#3465a4"><title>Quinn (Name?)</title></circle></a><a href="/setts/s11/y6m2y2m4y13k12lo13m4lo2m2lo6~x2/"><circle cx="143.0" cy="202.6" r="4" fill="#3465a4"><title>Glenmorangie (Corporate)</title></circle></a><a href="/setts/s11/dg3y16dy11y2lo11y2lo11y2dy11y16w3~x2/"><circle cx="205.8" cy="202.4" r="4" fill="#3465a4"><title>Harmony 14</title></circle></a><a href="/setts/s8/o16k4w2k4o6o11o2o16~x2/"><circle cx="244.3" cy="213.2" r="4" fill="#3465a4"><title>Sydney (Nova Scotia) (District)</title></circle></a><a href="/setts/s8/g9ly2g9w5r9t2r9t2~x2/"><circle cx="114.9" cy="218.2" r="4" fill="#3465a4"><title>Blackie</title></circle></a><a href="/setts/s12/g21r5g21r21g5r4g5r21w4r5db21r4/"><circle cx="203.8" cy="210.3" r="4" fill="#3465a4"><title>MacRae</title></circle></a><circle cx="163.5" cy="210.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/g2ly9dy6o3dy2o3dy2o10w2~x4/

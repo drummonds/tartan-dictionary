@@ -22,6 +22,6 @@ RYBGBBBBBBW
 
 | Tartans |
 |---------------|
-| [San Diego, The](/setts/s11/lb2db16t2db3t2db3t8dg30db3ly2r2~x2/)|
-|![San Diego, The example sett](/setts/s11/lb2db16t2db3t2db3t8dg30db3ly2r2~x2/sett.png)|
+| [San Diego, The](/setts/s11/r2ly2db3dg30t8db3t2db3t2db16lb2~x2/)|
+|![San Diego, The example sett](/setts/s11/r2ly2db3dg30t8db3t2db3t2db16lb2~x2/sett.png)|
 

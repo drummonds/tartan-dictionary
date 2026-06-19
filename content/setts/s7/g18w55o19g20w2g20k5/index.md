@@ -2,12 +2,18 @@
 title: "Michigan State University"
 date: 2023-03-18
 ---
-**Bands:** [GWRGWGK](/stripes/gwrgwgk/) · **Stripes:** [G W O G W G K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">G W O G W G K</span></span>
+**Bands:** [KGWGRWG](/stripes/kgwgrwg/) · **Stripes:** [K G W G O W G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G W G O W G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2476
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Michigan State University (Corporate
 
 ## Attestations
 
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/t5k1w30dp15w8g30w8dp2~x2/"><circle cx="214.2" cy="108.6" r="4" fill="#3465a4"><title>Shaw, Miss Rebecca (Personal)</title></circle></a><a href="/setts/s7/ly6dg36w5b4w30b1w2~x2/"><circle cx="270.1" cy="114.7" r="4" fill="#3465a4"><title>Pearce Scotch Plaid 4 (Fashion)</title></circle></a><a href="/setts/s8/dg4dr14dg14o6dr1w30dg2dr1~x2/"><circle cx="215.9" cy="111.1" r="4" fill="#3465a4"><title>British Columbia #2</title></circle></a><a href="/setts/s6/k5g25k10lg15ly1lg5~x2/"><circle cx="225.3" cy="172.8" r="4" fill="#3465a4"><title>Delaware Fine Spirits Guild (Corp)</title></circle></a><a href="/setts/s8/dg4do10dg10o6do1w26dg2do1~x4/"><circle cx="218.0" cy="118.3" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/setts/s8/g2dy10g11ly4dy1w18g2dy1~x2/"><circle cx="188.2" cy="146.8" r="4" fill="#3465a4"><title>Aviemore Check</title></circle></a><a href="/setts/s9/w38r12w37g32k3w4k3g32r4/"><circle cx="224.9" cy="162.2" r="4" fill="#3465a4"><title>MacDiarmid, dress</title></circle></a><a href="/setts/s8/g3r12g12o5r1w25g2r1~x2/"><circle cx="223.3" cy="125.1" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/setts/s9/w38r12w37g32k3w4k3g32r4~x2/"><circle cx="226.6" cy="162.4" r="4" fill="#3465a4"><title>MacDiarmid Dress</title></circle></a><a href="/setts/s8/g3r12g12lo5r1w25g2r1~x2/"><circle cx="223.5" cy="124.8" r="4" fill="#3465a4"><title>Dogwood Trade Tartan Tartan Number: 913. Earliest known date: 1968 The registered tartan of the Dinwiddie Clan. Dinwiddies are normally associated with the Maxwells, but Lord Lyon stated, in 1988, that Dinwiddies were a sept of no other clan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="219.3" cy="145.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/t5k1w30dp15w8g30w8dp2~x2/"><circle cx="213.8" cy="108.4" r="4" fill="#3465a4"><title>Shaw, Miss Rebecca (Personal)</title></circle></a><a href="/setts/s7/ly6dg36w5b4w30b1w2~x2/"><circle cx="269.8" cy="114.5" r="4" fill="#3465a4"><title>Pearce Scotch Plaid 4 (Fashion)</title></circle></a><a href="/setts/s8/dg4dr14dg14o6dr1w30dg2dr1~x2/"><circle cx="215.5" cy="111.0" r="4" fill="#3465a4"><title>British Columbia #2</title></circle></a><a href="/setts/s6/k5g25k10lg15ly1lg5~x2/"><circle cx="225.1" cy="172.6" r="4" fill="#3465a4"><title>Delaware Fine Spirits Guild (Corp)</title></circle></a><a href="/setts/s8/dg4do10dg10o6do1w26dg2do1~x4/"><circle cx="217.7" cy="118.1" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/setts/s8/g2dy10g11ly4dy1w18g2dy1~x2/"><circle cx="188.0" cy="146.7" r="4" fill="#3465a4"><title>Aviemore Check</title></circle></a><a href="/setts/s9/w38r12w37g32k3w4k3g32r4/"><circle cx="224.6" cy="162.0" r="4" fill="#3465a4"><title>MacDiarmid, dress</title></circle></a><a href="/setts/s8/g3r12g12o5r1w25g2r1~x2/"><circle cx="222.9" cy="124.9" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/setts/s9/w38r12w37g32k3w4k3g32r4~x2/"><circle cx="226.3" cy="162.2" r="4" fill="#3465a4"><title>MacDiarmid Dress</title></circle></a><a href="/setts/s8/g3r12g12lo5r1w25g2r1~x2/"><circle cx="223.1" cy="124.7" r="4" fill="#3465a4"><title>Dogwood Trade Tartan Tartan Number: 913. Earliest known date: 1968 The registered tartan of the Dinwiddie Clan. Dinwiddies are normally associated with the Maxwells, but Lord Lyon stated, in 1988, that Dinwiddies were a sept of no other clan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="218.9" cy="145.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/g18w55o19g20w2g20k5/

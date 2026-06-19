@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10811](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10811)
 
 ## Thread count
-Ba/4 R8 B2 R8 G32 R4 Ba24 W4 B4 W44 Ba2 B2 W/8
+W/8 B2 Ba2 W44 B4 W4 Ba24 R4 G32 R8 B2 R8 Ba/4
 ![Sett](sett.png)
 
 ## Palette
@@ -43,12 +43,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Ross Hunting Dress](/setts/s12/dg4g3dg3g4dg4db8dg3db9w29r2w4r2~x2/) — ΔT 1.27
 1. [Diana Princess of Wales Memorial, The](/setts/s12/w2w1w12db6k3lt1w1lt4w2k1w1r1~x4/) — ΔT 1.30
 1. [Ben Vorlich](/setts/s11/w68lr3w3lr8w3lr3o24dt16o3dt20lr3~x2/) — ΔT 1.30
-1. [Lorne Dress (Dance)](/setts/s11/b3k1w32b2w2b2w2b20g20b1db3~x2/) — ΔT 1.31
+1. [Lorne Dress (Dance)](/setts/s11/db3b1g20b20w2b2w2b2w32k1b3~x2/) — ΔT 1.31
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k2db2w2db3w38g2p12g3db4g30db2g6w2~x2/"><circle cx="196.7" cy="80.8" r="4" fill="#3465a4"><title>Crieff Turquoise (Dance)</title></circle></a><a href="/setts/s15/t4w2t1w19r2dr4t8g4w2t3o2g2dr2r2o2~x2/"><circle cx="133.8" cy="65.7" r="4" fill="#3465a4"><title>Highlands of Haliburton Dress</title></circle></a><a href="/setts/s12/w6r2w24dt12db3dt2db2dt2db12lo1db1lo3~x2/"><circle cx="202.6" cy="88.3" r="4" fill="#3465a4"><title>Payeur, Francois (Personal)</title></circle></a><a href="/setts/s11/db16r4db2ly4db8w8db2w24b2w1b8~x2/"><circle cx="197.3" cy="105.7" r="4" fill="#3465a4"><title>Galego</title></circle></a><a href="/setts/s10/w50g5ly2g5r2g20r2db5ly2db40~x2/"><circle cx="194.5" cy="86.9" r="4" fill="#3465a4"><title>Cornell (Fashion)</title></circle></a><a href="/setts/s10/w4g3w19g8k1r4k1db18k1lo2~x2/"><circle cx="137.7" cy="88.4" r="4" fill="#3465a4"><title>Alberta Dress</title></circle></a><a href="/setts/s12/dg4g3dg3g4dg4db8dg3db9w29r2w4r2~x2/"><circle cx="178.4" cy="103.7" r="4" fill="#3465a4"><title>Ross Hunting Dress</title></circle></a><a href="/setts/s12/w2w1w12db6k3lt1w1lt4w2k1w1r1~x4/"><circle cx="109.2" cy="91.3" r="4" fill="#3465a4"><title>Diana Princess of Wales Memorial, The</title></circle></a><a href="/setts/s11/w68lr3w3lr8w3lr3o24dt16o3dt20lr3~x2/"><circle cx="234.0" cy="77.8" r="4" fill="#3465a4"><title>Ben Vorlich</title></circle></a><a href="/setts/s11/b3k1w32b2w2b2w2b20g20b1db3~x2/"><circle cx="222.8" cy="78.4" r="4" fill="#3465a4"><title>Lorne Dress (Dance)</title></circle></a><circle cx="155.0" cy="76.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k2db2w2db3w38g2p12g3db4g30db2g6w2~x2/"><circle cx="196.3" cy="80.8" r="4" fill="#3465a4"><title>Crieff Turquoise (Dance)</title></circle></a><a href="/setts/s15/t4w2t1w19r2dr4t8g4w2t3o2g2dr2r2o2~x2/"><circle cx="133.5" cy="65.8" r="4" fill="#3465a4"><title>Highlands of Haliburton Dress</title></circle></a><a href="/setts/s12/w6r2w24dt12db3dt2db2dt2db12lo1db1lo3~x2/"><circle cx="202.4" cy="88.2" r="4" fill="#3465a4"><title>Payeur, Francois (Personal)</title></circle></a><a href="/setts/s11/db16r4db2ly4db8w8db2w24b2w1b8~x2/"><circle cx="197.0" cy="105.7" r="4" fill="#3465a4"><title>Galego</title></circle></a><a href="/setts/s10/w50g5ly2g5r2g20r2db5ly2db40~x2/"><circle cx="194.2" cy="86.9" r="4" fill="#3465a4"><title>Cornell (Fashion)</title></circle></a><a href="/setts/s10/w4g3w19g8k1r4k1db18k1lo2~x2/"><circle cx="137.5" cy="88.4" r="4" fill="#3465a4"><title>Alberta Dress</title></circle></a><a href="/setts/s12/dg4g3dg3g4dg4db8dg3db9w29r2w4r2~x2/"><circle cx="178.2" cy="103.6" r="4" fill="#3465a4"><title>Ross Hunting Dress</title></circle></a><a href="/setts/s12/w2w1w12db6k3lt1w1lt4w2k1w1r1~x4/"><circle cx="108.9" cy="91.3" r="4" fill="#3465a4"><title>Diana Princess of Wales Memorial, The</title></circle></a><a href="/setts/s11/w68lr3w3lr8w3lr3o24dt16o3dt20lr3~x2/"><circle cx="233.6" cy="77.7" r="4" fill="#3465a4"><title>Ben Vorlich</title></circle></a><a href="/setts/s11/db3b1g20b20w2b2w2b2w32k1b3~x2/"><circle cx="222.5" cy="78.3" r="4" fill="#3465a4"><title>Lorne Dress (Dance)</title></circle></a><circle cx="154.6" cy="76.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/w4b1b1w22b2w2b12r2g16r4b1r4b2~x2/

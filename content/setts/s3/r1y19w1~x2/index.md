@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,7 +913,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Dunbar of Pitgaveny](/setts/s4/o19w1o19m1~x2/) — ΔT 1.65
 1. [Pasteur](/setts/s4/dy10ly1dy30y3~x4/) — ΔT 2.47
 1. [Torridon Tweed](/setts/s6/n4db1n6m1n14lr1~x8/) — ΔT 2.76
-1. [Kincardine Tweed](/setts/s4/o30r1o15db4/) — ΔT 2.84
+1. [Kincardine Tweed](/setts/s4/o30r1o15db4~x2/) — ΔT 2.84
 1. [Dutch Football (Corporate)](/setts/s4/lo24r1w1dt1~x11/) — ΔT 2.93
 1. [MacNab, Ancient](/setts/s5/dg62r7k4r4dg62~x2/) — ΔT 3.08
 1. [S3](/setts/s3/y30w2r5~x4/) — ΔT 3.09
@@ -918,8 +921,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/m1o19w1~x2/"><circle cx="626.0" cy="247.5" r="4" fill="#3465a4"><title>Dunbar of Pitgaveny (Clan)</title></circle></a><a href="/setts/s4/lo60do3lo4r3~x2/"><circle cx="626.0" cy="227.4" r="4" fill="#3465a4"><title>Rabbie's Dram (Fashion)</title></circle></a><a href="/setts/s4/o19w1o19m1~x2/"><circle cx="626.0" cy="276.3" r="4" fill="#3465a4"><title>Dunbar of Pitgaveny</title></circle></a><a href="/setts/s4/dy10ly1dy30y3~x4/"><circle cx="626.0" cy="239.5" r="4" fill="#3465a4"><title>Pasteur</title></circle></a><a href="/setts/s6/n4db1n6m1n14lr1~x8/"><circle cx="626.0" cy="270.2" r="4" fill="#3465a4"><title>Torridon Tweed</title></circle></a><a href="/setts/s4/o30r1o15db4/"><circle cx="626.0" cy="223.7" r="4" fill="#3465a4"><title>Kincardine Tweed</title></circle></a><a href="/setts/s4/lo24r1w1dt1~x11/"><circle cx="626.0" cy="188.7" r="4" fill="#3465a4"><title>Dutch Football (Corporate)</title></circle></a><a href="/setts/s5/dg62r7k4r4dg62~x2/"><circle cx="626.0" cy="264.8" r="4" fill="#3465a4"><title>MacNab, Ancient</title></circle></a><a href="/setts/s3/y30w2r5~x4/"><circle cx="583.1" cy="255.3" r="4" fill="#3465a4"><title>S3</title></circle></a><a href="/setts/s6/r13o3r4o56n4o4~x2/"><circle cx="604.0" cy="213.3" r="4" fill="#3465a4"><title>Auchairne Grey</title></circle></a><circle cx="626.0" cy="258.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/m1o19w1~x2/"><circle cx="626.0" cy="247.0" r="4" fill="#3465a4"><title>Dunbar of Pitgaveny (Clan)</title></circle></a><a href="/setts/s4/lo60do3lo4r3~x2/"><circle cx="626.0" cy="227.0" r="4" fill="#3465a4"><title>Rabbie's Dram (Fashion)</title></circle></a><a href="/setts/s4/o19w1o19m1~x2/"><circle cx="626.0" cy="275.8" r="4" fill="#3465a4"><title>Dunbar of Pitgaveny</title></circle></a><a href="/setts/s4/dy10ly1dy30y3~x4/"><circle cx="626.0" cy="239.0" r="4" fill="#3465a4"><title>Pasteur</title></circle></a><a href="/setts/s6/n4db1n6m1n14lr1~x8/"><circle cx="626.0" cy="270.0" r="4" fill="#3465a4"><title>Torridon Tweed</title></circle></a><a href="/setts/s4/o30r1o15db4~x2/"><circle cx="626.0" cy="223.2" r="4" fill="#3465a4"><title>Kincardine Tweed</title></circle></a><a href="/setts/s4/lo24r1w1dt1~x11/"><circle cx="626.0" cy="188.3" r="4" fill="#3465a4"><title>Dutch Football (Corporate)</title></circle></a><a href="/setts/s5/dg62r7k4r4dg62~x2/"><circle cx="626.0" cy="264.4" r="4" fill="#3465a4"><title>MacNab, Ancient</title></circle></a><a href="/setts/s3/y30w2r5~x4/"><circle cx="582.7" cy="254.9" r="4" fill="#3465a4"><title>S3</title></circle></a><a href="/setts/s6/r13o3r4o56n4o4~x2/"><circle cx="603.4" cy="213.1" r="4" fill="#3465a4"><title>Auchairne Grey</title></circle></a><circle cx="626.0" cy="258.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/r1y19w1~x2/

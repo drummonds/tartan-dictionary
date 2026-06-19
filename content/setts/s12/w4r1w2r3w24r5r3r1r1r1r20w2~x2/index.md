@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2922
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Menzies #3
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 R40 DR2 R2 DR2 R6 DR10 LN48 R6 LN4 R2 LN/8
+LN/8 R2 LN4 R6 LN48 DR10 R6 DR2 R2 DR2 R40 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -916,13 +925,13 @@ The nearest existing variants by ΔTartan distance.
 1. [d'Andeville, Xavier (Personal)](/setts/s14/r13w9r13w16r10w2k1w2k1w2k1w2k1w2~x2/) — ΔT 1.33
 1. [Hose](/setts/s10/r2g2w2r23w2g2w23g2r2w2~x2/) — ΔT 1.42
 1. [Menzies VS](/setts/s12/lr4r1lr2r3lr24dr5r3dr1r1dr1r20lr2~x2/) — ΔT 1.44
+1. [Menzies VS](/setts/s12/lr4r1lr2r3lr24dr5r3dr1r1dr1r20lr2/) — ΔT 1.44
 1. [Menzies Dress, Cerise (Dance)](/setts/s12/w4m1w2m3w24r5m3r1m1r1m20w2~x2/) — ΔT 1.46
-1. [Humanitarian Mission (Dress)](/setts/s12/n3w24k3w1k2w2k1w3n7w2r24w3~x2/) — ΔT 1.49
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/lb4r1lb2r3lb24r6r2r1r1r1r20lb2/"><circle cx="345.6" cy="105.0" r="4" fill="#3465a4"><title>Menzies VS</title></circle></a><a href="/setts/s10/w18r9w1r1w2r1w1r9db3r4~x4/"><circle cx="320.2" cy="131.1" r="4" fill="#3465a4"><title>Swiss Red</title></circle></a><a href="/setts/s8/k1r1w1r15w15r1w1k1~x4/"><circle cx="324.2" cy="129.4" r="4" fill="#3465a4"><title>Bundy, Dress Red (Personal Dance)</title></circle></a><a href="/setts/s10/r2dg2w2r23w2dg2w23dg2r2w2~x2/"><circle cx="301.2" cy="130.5" r="4" fill="#3465a4"><title>Hose</title></circle></a><a href="/setts/s8/r40w40k5w2k6w2k5w6~x2/"><circle cx="296.6" cy="126.0" r="4" fill="#3465a4"><title>Masai Shuka 14 (Artefact)</title></circle></a><a href="/setts/s14/r13w9r13w16r10w2k1w2k1w2k1w2k1w2~x2/"><circle cx="297.8" cy="117.1" r="4" fill="#3465a4"><title>d'Andeville, Xavier (Personal)</title></circle></a><a href="/setts/s10/r2g2w2r23w2g2w23g2r2w2~x2/"><circle cx="299.3" cy="132.6" r="4" fill="#3465a4"><title>Hose</title></circle></a><a href="/setts/s12/lr4r1lr2r3lr24dr5r3dr1r1dr1r20lr2~x2/"><circle cx="357.0" cy="119.9" r="4" fill="#3465a4"><title>Menzies VS</title></circle></a><a href="/setts/s12/w4m1w2m3w24r5m3r1m1r1m20w2~x2/"><circle cx="333.2" cy="102.9" r="4" fill="#3465a4"><title>Menzies Dress, Cerise (Dance)</title></circle></a><a href="/setts/s12/n3w24k3w1k2w2k1w3n7w2r24w3~x2/"><circle cx="257.2" cy="73.6" r="4" fill="#3465a4"><title>Humanitarian Mission (Dress)</title></circle></a><circle cx="333.6" cy="97.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/lb4r1lb2r3lb24r6r2r1r1r1r20lb2/"><circle cx="344.9" cy="104.8" r="4" fill="#3465a4"><title>Menzies VS</title></circle></a><a href="/setts/s10/w18r9w1r1w2r1w1r9db3r4~x4/"><circle cx="319.6" cy="130.9" r="4" fill="#3465a4"><title>Swiss Red</title></circle></a><a href="/setts/s8/k1r1w1r15w15r1w1k1~x4/"><circle cx="323.6" cy="129.2" r="4" fill="#3465a4"><title>Bundy, Dress Red (Personal Dance)</title></circle></a><a href="/setts/s10/r2dg2w2r23w2dg2w23dg2r2w2~x2/"><circle cx="300.5" cy="130.3" r="4" fill="#3465a4"><title>Hose</title></circle></a><a href="/setts/s8/r40w40k5w2k6w2k5w6~x2/"><circle cx="296.1" cy="125.8" r="4" fill="#3465a4"><title>Masai Shuka 14 (Artefact)</title></circle></a><a href="/setts/s14/r13w9r13w16r10w2k1w2k1w2k1w2k1w2~x2/"><circle cx="297.1" cy="116.8" r="4" fill="#3465a4"><title>d'Andeville, Xavier (Personal)</title></circle></a><a href="/setts/s10/r2g2w2r23w2g2w23g2r2w2~x2/"><circle cx="298.7" cy="132.4" r="4" fill="#3465a4"><title>Hose</title></circle></a><a href="/setts/s12/lr4r1lr2r3lr24dr5r3dr1r1dr1r20lr2~x2/"><circle cx="356.4" cy="119.8" r="4" fill="#3465a4"><title>Menzies VS</title></circle></a><a href="/setts/s12/lr4r1lr2r3lr24dr5r3dr1r1dr1r20lr2/"><circle cx="356.4" cy="119.8" r="4" fill="#3465a4"><title>Menzies VS</title></circle></a><a href="/setts/s12/w4m1w2m3w24r5m3r1m1r1m20w2~x2/"><circle cx="332.6" cy="102.7" r="4" fill="#3465a4"><title>Menzies Dress, Cerise (Dance)</title></circle></a><circle cx="332.9" cy="97.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/w4r1w2r3w24r5r3r1r1r1r20w2~x2/

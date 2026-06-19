@@ -22,6 +22,6 @@ BWBBBBBBBW
 
 | Tartans |
 |---------------|
-| [Covenant College (Corporate)](/setts/s10/lb2dt23t1dt2t4dt2t1dt23lb2t2~x2/)|
-|![Covenant College (Corporate) example sett](/setts/s10/lb2dt23t1dt2t4dt2t1dt23lb2t2~x2/sett.png)|
+| [Covenant College (Corporate)](/setts/s10/t4dt2t1dt23lb2t2~x2/)|
+|![Covenant College (Corporate) example sett](/setts/s10/t4dt2t1dt23lb2t2~x2/sett.png)|
 

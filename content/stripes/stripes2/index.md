@@ -7,12 +7,12 @@ weight: 2
 
 <ul class="band-summary">
 <li><a class="count" href="/stripes/kr/"><strong>KR</strong> · 10 setts · 4 tartans · 1 stripe patterns</a><div class="samples"><a class="pat" href="/stripes/kr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">KR</span></a></div></li>
-<li><a class="count" href="/stripes/gr/"><strong>GR</strong> · 9 setts · 6 tartans · 3 stripe patterns</a><div class="samples"><a class="pat" href="/stripes/gr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">GR</span></a></div></li>
-<li><a class="count" href="/stripes/bg/"><strong>BG</strong> · 5 setts · 5 tartans · 5 stripe patterns</a><div class="samples"><a class="pat" href="/stripes/bg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BG</span></a></div></li>
-<li><a class="count" href="/stripes/bk/"><strong>BK</strong> · 5 setts · 5 tartans · 3 stripe patterns</a><div class="samples"><a class="pat" href="/stripes/bk/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">BK</span></a></div></li>
-<li><a class="count" href="/stripes/gk/"><strong>GK</strong> · 5 setts · 5 tartans · 3 stripe patterns</a><div class="samples"><a class="pat" href="/stripes/gk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">GK</span></a></div></li>
+<li><a class="count" href="/stripes/rg/"><strong>RG</strong> · 9 setts · 6 tartans · 3 stripe patterns</a><div class="samples"><a class="pat" href="/stripes/rg/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">RG</span></a></div></li>
+<li><a class="count" href="/stripes/gb/"><strong>GB</strong> · 5 setts · 5 tartans · 5 stripe patterns</a><div class="samples"><a class="pat" href="/stripes/gb/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">GB</span></a></div></li>
+<li><a class="count" href="/stripes/kb/"><strong>KB</strong> · 5 setts · 5 tartans · 3 stripe patterns</a><div class="samples"><a class="pat" href="/stripes/kb/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">KB</span></a></div></li>
+<li><a class="count" href="/stripes/kg/"><strong>KG</strong> · 5 setts · 5 tartans · 3 stripe patterns</a><div class="samples"><a class="pat" href="/stripes/kg/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">KG</span></a></div></li>
 <li><a class="count" href="/stripes/kw/"><strong>KW</strong> · 5 setts · 3 tartans · 2 stripe patterns</a><div class="samples"><a class="pat" href="/stripes/kw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">KW</span></a></div></li>
-<li><a class="count" href="/stripes/br/"><strong>BR</strong> · 4 setts · 3 tartans · 2 stripe patterns</a><div class="samples"><a class="pat" href="/stripes/br/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">BR</span></a></div></li>
+<li><a class="count" href="/stripes/rb/"><strong>RB</strong> · 4 setts · 3 tartans · 2 stripe patterns</a><div class="samples"><a class="pat" href="/stripes/rb/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">RB</span></a></div></li>
 <li><a class="count" href="/stripes/bb/"><strong>BB</strong> · 3 setts · 2 tartans · 2 stripe patterns</a><div class="samples"><a class="pat" href="/stripes/bb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">BB</span></a></div></li>
 <li><a class="count" href="/stripes/ky/"><strong>KY</strong> · 3 setts · 2 tartans · 2 stripe patterns</a><div class="samples"><a class="pat" href="/stripes/ky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">KY</span></a></div></li>
 <li><a class="count" href="/stripes/rw/"><strong>RW</strong> · 3 setts · 2 tartans · 1 stripe patterns</a><div class="samples"><a class="pat" href="/stripes/rw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RW</span></a></div></li>
@@ -35,147 +35,147 @@ weight: 2
 | 0.00 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Black" style="width:110.0px;background:#000000"></span><span title="Red" style="width:110.0px;background:#D60020"></span></span> | [Rob Roy](/setts/s2/k1r1~x4/) | weddslist |
 | 0.01 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Black" style="width:110.0px;background:#000000"></span><span title="Red" style="width:110.0px;background:#D60020"></span></span> | [Rob Roy](/setts/s2/k1r1~x66/) | weddslist |
 | 0.01 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Black" style="width:176.0px;background:#000000"></span><span title="Red" style="width:44.0px;background:#D60020"></span></span> | [St Kilda](/setts/s2/k4r1~x6/) | weddslist |
-| 0.04 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Red" style="width:110.0px;background:#D60020"></span><span title="Black" style="width:110.0px;background:#000000"></span></span> | [Rob Roy](/setts/s2/k1r1~x8/) | weddslist |
+| 0.04 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Black" style="width:110.0px;background:#000000"></span><span title="Red" style="width:110.0px;background:#D60020"></span></span> | [Rob Roy](/setts/s2/k1r1~x8/) | weddslist |
 | 0.09 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Black" style="width:110.0px;background:#000000"></span><span title="Red" style="width:110.0px;background:#D60020"></span></span> | [MacGregor - 1816 (Red & Black)](/setts/s2/k1r1~x100/) | tartans-authority |
 | 0.09 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Black" style="width:110.0px;background:#000000"></span><span title="Red" style="width:110.0px;background:#D60020"></span></span> | [Masai Shuka 03 (Artefact)](/setts/s2/k1r1~x20/) | tartans-authority |
 | 0.09 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Black" style="width:110.0px;background:#000000"></span><span title="Red" style="width:110.0px;background:#D60020"></span></span> | [Rob Roy Clan Tartan Tartan Number: 1504. Earliest known date: 1815 - 16 A specimen of the Rob Roy sett exists in the collection of the Highland Society of London, bearing the Seal of Arms of Sir John MacGregor Murray of MacGregor, Baronet, and signed John M. Murray. The specimens were collected during the period 1815-16. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s2/k1r1~x16/) | house-of-tartan |
 | 0.09 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Black" style="width:110.0px;background:#000000"></span><span title="Red" style="width:110.0px;background:#D60020"></span></span> | [Rob Roy Macgregor](/setts/s2/k1r1~x172/) | register-of-tartans |
 | 0.09 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Black" style="width:176.0px;background:#000000"></span><span title="Red" style="width:44.0px;background:#D60020"></span></span> | [St Kilda](/setts/s2/k4r1~x36/) | register-of-tartans |
-| 0.09 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Black" style="width:60.0px;background:#000000"></span><span title="Red" style="width:160.0px;background:#D60020"></span></span> | [Wilson's No.234](/setts/s2/r8k3~x2/) | register-of-tartans |
+| 0.09 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Red" style="width:160.0px;background:#D60020"></span><span title="Black" style="width:60.0px;background:#000000"></span></span> | [Wilson's No.234](/setts/s2/r8k3~x2/) | register-of-tartans |
 
-## GR
+## RG
 
-<a class="pat" href="/stripes/gr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">GR</span></a>
+<a class="pat" href="/stripes/rg/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">RG</span></a>
 
-### DG R
+### R DG
 
-<span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG R</span></span> · 4 setts
+<span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG</span></span> · 4 setts
 
 | ΔT | Stripes | Tartan | Source |
 |---|---|---|---|
-| 0.05 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Bottle" style="width:110.0px;background:#053819"></span><span title="Red" style="width:110.0px;background:#D60020"></span></span> | [Glenlyon (District)](/setts/s2/dg1r1~x80/) | register-of-tartans |
+| 0.05 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Red" style="width:110.0px;background:#D60020"></span><span title="Bottle" style="width:110.0px;background:#053819"></span></span> | [Glenlyon (District)](/setts/s2/dg1r1~x80/) | register-of-tartans |
 | 0.05 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Bottle" style="width:114.1px;background:#053819"></span><span title="Red" style="width:105.9px;background:#D60020"></span></span> | [Wilson's No.099](/setts/s2/dg14r13~x2/) | register-of-tartans |
-| 0.05 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Bottle" style="width:55.0px;background:#053819"></span><span title="Red" style="width:165.0px;background:#D60020"></span></span> | [Wilson's No.134](/setts/s2/r3dg1~x14/) | register-of-tartans |
-| 0.08 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Bottle" style="width:110.0px;background:#053819"></span><span title="Red" style="width:110.0px;background:#D60020"></span></span> | [Moncreiffe](/setts/s2/dg1r1~x2/) | weddslist |
+| 0.05 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Red" style="width:165.0px;background:#D60020"></span><span title="Bottle" style="width:55.0px;background:#053819"></span></span> | [Wilson's No.134](/setts/s2/r3dg1~x14/) | register-of-tartans |
+| 0.08 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Red" style="width:110.0px;background:#D60020"></span><span title="Bottle" style="width:110.0px;background:#053819"></span></span> | [Moncreiffe](/setts/s2/dg1r1/) | weddslist |
 
-### G R
+### R G
 
-<span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">G R</span></span> · 4 setts
-
-| ΔT | Stripes | Tartan | Source |
-|---|---|---|---|
-| 0.02 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Green" style="width:110.0px;background:#008B2A"></span><span title="Red" style="width:110.0px;background:#D60020"></span></span> | [Moncreiffe](/setts/s2/g1r1~x50/) | register-of-tartans |
-| 0.02 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Green" style="width:105.9px;background:#008B2A"></span><span title="Red" style="width:114.1px;background:#D60020"></span></span> | [Moncreiffe (MacLachlan) Clan Tartan Tartan Number: 963. Earliest known date: 1819 Sir Iain Moncreiffe of that Ilk, acquired the MacLachlan old sett for the clan when he became Chief in 1957. Micheil MacDonald writes in his book, 'The Clans of Scotland', "As a result of a long association with Clan Murray, the Moncreiffes traditionally wore the Atholl tartan. But Sir Iain... arranged that Madam MacLachlan of MacLachlan assign to him a 'primitive' pattern of red and green squares which, though no longer favoured by Clan MacLachlan, Sir Iain felt was appropriate to the long history of the Moncreiffes 'before tartan became fashionable in its present form'. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s2/r14g13~x2/) | house-of-tartan |
-| 0.02 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Green" style="width:110.0px;background:#008B2A"></span><span title="Red" style="width:110.0px;background:#D60020"></span></span> | [Moncrieffe Lachlan (Clan)](/setts/s2/g1r1~x100/) | tartans-authority |
-| 0.06 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Green" style="width:55.0px;background:#008B2A"></span><span title="Red" style="width:165.0px;background:#D60020"></span></span> | [Wilson's, No 134](/setts/s2/r3g1~x14/) | weddslist |
-
-### Y M
-
-<span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="seq">Y M</span></span> · 1 setts
+<span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G</span></span> · 4 setts
 
 | ΔT | Stripes | Tartan | Source |
 |---|---|---|---|
-| 0.24 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Yellow" style="width:110.0px;background:#8B6E00"></span><span title="Magenta" style="width:110.0px;background:#CA047B"></span></span> | [Une Energie Nouvelle (Corporate) XXX](/setts/s2/m1y1~x2/) | tartans-authority |
+| 0.02 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Red" style="width:110.0px;background:#D60020"></span><span title="Green" style="width:110.0px;background:#008B2A"></span></span> | [Moncreiffe](/setts/s2/r1g1~x50/) | register-of-tartans |
+| 0.02 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Red" style="width:114.1px;background:#D60020"></span><span title="Green" style="width:105.9px;background:#008B2A"></span></span> | [Moncreiffe (MacLachlan) Clan Tartan Tartan Number: 963. Earliest known date: 1819 Sir Iain Moncreiffe of that Ilk, acquired the MacLachlan old sett for the clan when he became Chief in 1957. Micheil MacDonald writes in his book, 'The Clans of Scotland', "As a result of a long association with Clan Murray, the Moncreiffes traditionally wore the Atholl tartan. But Sir Iain... arranged that Madam MacLachlan of MacLachlan assign to him a 'primitive' pattern of red and green squares which, though no longer favoured by Clan MacLachlan, Sir Iain felt was appropriate to the long history of the Moncreiffes 'before tartan became fashionable in its present form'. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s2/r14g13~x2/) | house-of-tartan |
+| 0.02 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Red" style="width:110.0px;background:#D60020"></span><span title="Green" style="width:110.0px;background:#008B2A"></span></span> | [Moncrieffe Lachlan (Clan)](/setts/s2/r1g1~x100/) | tartans-authority |
+| 0.06 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Red" style="width:165.0px;background:#D60020"></span><span title="Green" style="width:55.0px;background:#008B2A"></span></span> | [Wilson's, No 134](/setts/s2/r3g1~x14/) | weddslist |
 
-## BG
+### M Y
 
-<a class="pat" href="/stripes/bg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BG</span></a>
-
-### DP Y
-
-<span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DP Y</span></span> · 1 setts
-
-| ΔT | Stripes | Tartan | Source |
-|---|---|---|---|
-| 0.14 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Aubergine" style="width:103.5px;background:#4B0B4F"></span><span title="Yellow" style="width:116.5px;background:#8B6E00"></span></span> | [Wilson's No.116 (light)](/setts/s2/y9dp8~x2/) | register-of-tartans |
-
-### N DY
-
-<span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">N DY</span></span> · 1 setts
+<span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">M Y</span></span> · 1 setts
 
 | ΔT | Stripes | Tartan | Source |
 |---|---|---|---|
-| 0.14 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Grey" style="width:22.0px;background:#636363"></span><span title="Olive" style="width:198.0px;background:#3A2B0D"></span></span> | [Outlander #4](/setts/s2/dy9n1~x12/) | tartans-authority |
+| 0.24 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Magenta" style="width:110.0px;background:#CA047B"></span><span title="Yellow" style="width:110.0px;background:#8B6E00"></span></span> | [Une Energie Nouvelle (Corporate) XXX](/setts/s2/y1m1~x2/) | tartans-authority |
 
-### N G
+## GB
 
-<span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="seq">N G</span></span> · 1 setts
+<a class="pat" href="/stripes/gb/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">GB</span></a>
+
+### DY N
+
+<span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#636363"></span><span class="seq">DY N</span></span> · 1 setts
 
 | ΔT | Stripes | Tartan | Source |
 |---|---|---|---|
-| 0.08 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Green" style="width:110.0px;background:#008B2A"></span><span title="Grey" style="width:110.0px;background:#636363"></span></span> | [Hafren (Personal)](/setts/s2/g1n1~x130/) | register-of-tartans |
+| 0.14 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Olive" style="width:198.0px;background:#3A2B0D"></span><span title="Grey" style="width:22.0px;background:#636363"></span></span> | [Outlander #4](/setts/s2/dy9n1~x12/) | tartans-authority |
 
-### P G
+### G N
 
-<span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="seq">P G</span></span> · 1 setts
+<span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="seq">G N</span></span> · 1 setts
+
+| ΔT | Stripes | Tartan | Source |
+|---|---|---|---|
+| 0.08 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Grey" style="width:110.0px;background:#636363"></span><span title="Green" style="width:110.0px;background:#008B2A"></span></span> | [Hafren (Personal)](/setts/s2/n1g1~x130/) | register-of-tartans |
+
+### G P
+
+<span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">G P</span></span> · 1 setts
 
 | ΔT | Stripes | Tartan | Source |
 |---|---|---|---|
 | 0.14 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Green" style="width:110.0px;background:#008B2A"></span><span title="Purple" style="width:110.0px;background:#AA2DBD"></span></span> | [Wilson's, No 116](/setts/s2/g1p1~x16/) | weddslist |
 
-### T G
+### G T
 
-<span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">T G</span></span> · 1 setts
+<span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">G T</span></span> · 1 setts
 
 | ΔT | Stripes | Tartan | Source |
 |---|---|---|---|
-| 0.13 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Teal" style="width:101.5px;background:#00879F"></span><span title="Green" style="width:118.5px;background:#008B2A"></span></span> | [Wilson's No.210](/setts/s2/g7t6~x2/) | register-of-tartans |
+| 0.13 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Green" style="width:118.5px;background:#008B2A"></span><span title="Teal" style="width:101.5px;background:#00879F"></span></span> | [Wilson's No.210](/setts/s2/g7t6~x2/) | register-of-tartans |
 
-## BK
+### Y DP
 
-<a class="pat" href="/stripes/bk/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">BK</span></a>
+<span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">Y DP</span></span> · 1 setts
 
-### DB K
+| ΔT | Stripes | Tartan | Source |
+|---|---|---|---|
+| 0.14 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Yellow" style="width:116.5px;background:#8B6E00"></span><span title="Aubergine" style="width:103.5px;background:#4B0B4F"></span></span> | [Wilson's No.116 (light)](/setts/s2/y9dp8~x2/) | register-of-tartans |
 
-<span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K</span></span> · 3 setts
+## KB
+
+<a class="pat" href="/stripes/kb/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">KB</span></a>
+
+### K DB
+
+<span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB</span></span> · 3 setts
 
 | ΔT | Stripes | Tartan | Source |
 |---|---|---|---|
 | 0.09 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Navy" style="width:146.7px;background:#082077"></span><span title="Black" style="width:73.3px;background:#000000"></span></span> | [Tartan Army](/setts/s2/db2k1~x4/) | weddslist |
 | 0.14 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Navy" style="width:203.1px;background:#082077"></span><span title="Black" style="width:16.9px;background:#000000"></span></span> | [Staines](/setts/s2/db12k1~x10/) | tartans-authority |
-| 0.16 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Navy" style="width:110.0px;background:#082077"></span><span title="Black" style="width:110.0px;background:#000000"></span></span> | [Buffalo Plaid](/setts/s2/db1k1~x100/) | register-of-tartans |
+| 0.16 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Black" style="width:110.0px;background:#000000"></span><span title="Navy" style="width:110.0px;background:#082077"></span></span> | [Buffalo Plaid](/setts/s2/k1db1~x100/) | register-of-tartans |
 
-### N K
+### K N
 
-<span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="seq">N K</span></span> · 1 setts
-
-| ΔT | Stripes | Tartan | Source |
-|---|---|---|---|
-| 0.11 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Grey" style="width:10.5px;background:#636363"></span><span title="Black" style="width:209.5px;background:#000000"></span></span> | [Black Shadow (Fashion)](/setts/s2/k20n1~x6/) | tartans-authority |
-
-### T K
-
-<span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="seq">T K</span></span> · 1 setts
+<span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">K N</span></span> · 1 setts
 
 | ΔT | Stripes | Tartan | Source |
 |---|---|---|---|
-| 0.19 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Teal" style="width:103.5px;background:#00879F"></span><span title="Black" style="width:116.5px;background:#000000"></span></span> | [Wilson's No.172](/setts/s2/k9t8~x2/) | register-of-tartans |
+| 0.11 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Black" style="width:209.5px;background:#000000"></span><span title="Grey" style="width:10.5px;background:#636363"></span></span> | [Black Shadow (Fashion)](/setts/s2/k20n1~x6/) | tartans-authority |
 
-## GK
+### K T
 
-<a class="pat" href="/stripes/gk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">GK</span></a>
-
-### G K
-
-<span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">G K</span></span> · 3 setts
+<span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K T</span></span> · 1 setts
 
 | ΔT | Stripes | Tartan | Source |
 |---|---|---|---|
-| 0.05 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Green" style="width:110.0px;background:#008B2A"></span><span title="Black" style="width:110.0px;background:#000000"></span></span> | [Robin Hood / Rob Roy hunting](/setts/s2/g1k1~x66/) | weddslist |
+| 0.19 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Black" style="width:116.5px;background:#000000"></span><span title="Teal" style="width:103.5px;background:#00879F"></span></span> | [Wilson's No.172](/setts/s2/k9t8~x2/) | register-of-tartans |
+
+## KG
+
+<a class="pat" href="/stripes/kg/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">KG</span></a>
+
+### K G
+
+<span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G</span></span> · 3 setts
+
+| ΔT | Stripes | Tartan | Source |
+|---|---|---|---|
+| 0.05 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Black" style="width:110.0px;background:#000000"></span><span title="Green" style="width:110.0px;background:#008B2A"></span></span> | [Robin Hood / Rob Roy hunting](/setts/s2/k1g1~x66/) | weddslist |
 | 0.10 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Green" style="width:116.5px;background:#008B2A"></span><span title="Black" style="width:103.5px;background:#000000"></span></span> | [Robin Hood Fancy Tartan Tartan Number: 785. Earliest known date: 1819 In 1815, members of the Highland Society of London resolved to request of each of the Highland chiefs, a sample of their clan tartan. The swatches were to be signed and sealed in the chief's own hand. This sett is one of those delivered to the Society between 1815 and 1822. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s2/g9k8~x2/) | house-of-tartan |
-| 0.12 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Black" style="width:110.0px;background:#000000"></span><span title="Green" style="width:110.0px;background:#008B2A"></span></span> | [MacKillen Hunting](/setts/s2/g1k1~x168/) | register-of-tartans |
+| 0.12 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Black" style="width:110.0px;background:#000000"></span><span title="Green" style="width:110.0px;background:#008B2A"></span></span> | [MacKillen Hunting](/setts/s2/k1g1~x168/) | register-of-tartans |
 
-### DG K
+### K DG
 
-<span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="seq">DG K</span></span> · 1 setts
+<span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K DG</span></span> · 1 setts
 
 | ΔT | Stripes | Tartan | Source |
 |---|---|---|---|
-| 0.16 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Bottle" style="width:110.0px;background:#053819"></span><span title="Black" style="width:110.0px;background:#000000"></span></span> | [Robin Hood/Wilson no.224/Rob Roy Hunting](/setts/s2/dg1k1~x100/) | register-of-tartans |
+| 0.16 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Black" style="width:110.0px;background:#000000"></span><span title="Bottle" style="width:110.0px;background:#053819"></span></span> | [Robin Hood/Wilson no.224/Rob Roy Hunting](/setts/s2/k1dg1~x100/) | register-of-tartans |
 
-### Y K
+### K Y
 
-<span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="seq">Y K</span></span> · 1 setts
+<span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K Y</span></span> · 1 setts
 
 | ΔT | Stripes | Tartan | Source |
 |---|---|---|---|
@@ -204,48 +204,48 @@ weight: 2
 |---|---|---|---|
 | 0.17 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Black" style="width:206.2px;background:#000000"></span><span title="Sky" style="width:13.8px;background:#B5BBDE"></span></span> | [Joy's Fancy, Allen (Personal)](/setts/s2/k15lb1~x12/) | tartans-authority |
 
-## BR
+## RB
 
-<a class="pat" href="/stripes/br/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">BR</span></a>
+<a class="pat" href="/stripes/rb/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">RB</span></a>
 
-### DB R
+### R DB
 
-<span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R</span></span> · 3 setts
+<span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB</span></span> · 3 setts
 
 | ΔT | Stripes | Tartan | Source |
 |---|---|---|---|
 | 0.03 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Navy" style="width:110.0px;background:#082077"></span><span title="Red" style="width:110.0px;background:#D60020"></span></span> | [Masai Shuka 02 (Artefact)](/setts/s2/db1r1~x20/) | tartans-authority |
-| 0.13 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Navy" style="width:110.0px;background:#082077"></span><span title="Red" style="width:110.0px;background:#D60020"></span></span> | [Cairnbulg & Inverllocjy Fisher Plaid](/setts/s2/db1r1~x14/) | tartans-authority |
-| 0.13 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Navy" style="width:110.0px;background:#082077"></span><span title="Red" style="width:110.0px;background:#D60020"></span></span> | [Rob Roy, Blue & Red (Fashion)](/setts/s2/db1r1~x100/) | tartans-authority |
+| 0.13 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Red" style="width:110.0px;background:#D60020"></span><span title="Navy" style="width:110.0px;background:#082077"></span></span> | [Cairnbulg & Inverllocjy Fisher Plaid](/setts/s2/db1r1~x14/) | tartans-authority |
+| 0.13 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Red" style="width:110.0px;background:#D60020"></span><span title="Navy" style="width:110.0px;background:#082077"></span></span> | [Rob Roy, Blue & Red (Fashion)](/setts/s2/db1r1~x100/) | tartans-authority |
 
-### T R
+### R T
 
-<span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">T R</span></span> · 1 setts
+<span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">R T</span></span> · 1 setts
 
 | ΔT | Stripes | Tartan | Source |
 |---|---|---|---|
-| 0.12 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Teal" style="width:55.0px;background:#00879F"></span><span title="Red" style="width:165.0px;background:#D60020"></span></span> | [Wilson's No.138](/setts/s2/r3t1~x14/) | register-of-tartans |
+| 0.12 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Red" style="width:165.0px;background:#D60020"></span><span title="Teal" style="width:55.0px;background:#00879F"></span></span> | [Wilson's No.138](/setts/s2/r3t1~x14/) | register-of-tartans |
 
 ## BB
 
 <a class="pat" href="/stripes/bb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">BB</span></a>
 
-### B DB
+### DB B
 
-<span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="seq">B DB</span></span> · 2 setts
-
-| ΔT | Stripes | Tartan | Source |
-|---|---|---|---|
-| 0.13 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Blue" style="width:110.0px;background:#466CC8"></span><span title="Navy" style="width:110.0px;background:#082077"></span></span> | [St. Combs Fisher Plaid](/setts/s2/b1db1~x14/) | tartans-authority |
-| 0.17 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Blue" style="width:110.0px;background:#466CC8"></span><span title="Navy" style="width:110.0px;background:#082077"></span></span> | [Rob Roy, Blue (Fashion)](/setts/s2/b1db1~x100/) | tartans-authority |
-
-### B T
-
-<span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#00879F"></span><span class="seq">B T</span></span> · 1 setts
+<span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DB B</span></span> · 2 setts
 
 | ΔT | Stripes | Tartan | Source |
 |---|---|---|---|
-| 0.19 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Teal" style="width:110.0px;background:#00879F"></span><span title="Blue" style="width:110.0px;background:#466CC8"></span></span> | [Bruce Special 1985 XXX](/setts/s2/b1t1~x2/) | register-of-tartans |
+| 0.13 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Navy" style="width:110.0px;background:#082077"></span><span title="Blue" style="width:110.0px;background:#466CC8"></span></span> | [St. Combs Fisher Plaid](/setts/s2/db1b1~x14/) | tartans-authority |
+| 0.17 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Navy" style="width:110.0px;background:#082077"></span><span title="Blue" style="width:110.0px;background:#466CC8"></span></span> | [Rob Roy, Blue (Fashion)](/setts/s2/db1b1~x100/) | tartans-authority |
+
+### T B
+
+<span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#466CC8"></span><span class="seq">T B</span></span> · 1 setts
+
+| ΔT | Stripes | Tartan | Source |
+|---|---|---|---|
+| 0.19 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Teal" style="width:110.0px;background:#00879F"></span><span title="Blue" style="width:110.0px;background:#466CC8"></span></span> | [Bruce Special 1985 XXX](/setts/s2/t1b1~x2/) | register-of-tartans |
 
 ## KY
 
@@ -279,8 +279,8 @@ weight: 2
 | ΔT | Stripes | Tartan | Source |
 |---|---|---|---|
 | 0.04 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="White" style="width:169.2px;background:#F7F7F7"></span><span title="Red" style="width:50.8px;background:#D60020"></span></span> | [English Kilt (Fashion)](/setts/s2/w10r3~x10/) | tartans-authority |
-| 0.05 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="White" style="width:110.0px;background:#F7F7F7"></span><span title="Red" style="width:110.0px;background:#D60020"></span></span> | [MacMedic](/setts/s2/r1w1~x40/) | register-of-tartans |
-| 0.05 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="White" style="width:110.0px;background:#F7F7F7"></span><span title="Red" style="width:110.0px;background:#D60020"></span></span> | [Spare](/setts/s2/r1w1~x5/) | register-of-tartans |
+| 0.05 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Red" style="width:110.0px;background:#D60020"></span><span title="White" style="width:110.0px;background:#F7F7F7"></span></span> | [MacMedic](/setts/s2/r1w1~x40/) | register-of-tartans |
+| 0.05 | <span class="stripe-bar" style="display:inline-flex;width:220px;max-width:100%;height:1.1em;vertical-align:middle;border:1px solid #0003"><span title="Red" style="width:110.0px;background:#D60020"></span><span title="White" style="width:110.0px;background:#F7F7F7"></span></span> | [Spare](/setts/s2/r1w1~x5/) | register-of-tartans |
 
 ## GG
 

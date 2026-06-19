@@ -2,12 +2,18 @@
 title: "John, Hamilton Gray"
 date: 2023-03-18
 ---
-**Bands:** [WGRGBYWYBY](/stripes/wgrgbywyby/) · **Stripes:** [W G R G DB LY W LY DB LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W G R G DB LY W LY DB LY</span></span>
+**Bands:** [YBYWYBGRGW](/stripes/ybywybgrgw/) · **Stripes:** [LY DB LY W LY DB G R G W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DB LY W LY DB G R G W</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- John, Hamilton Gray
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -923,8 +932,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w4dt6r3dt10n14lo6w18lo6n4lo2~x2/"><circle cx="65.9" cy="162.0" r="4" fill="#3465a4"><title>Gray, Sir John Hamilton (Commem)</title></circle></a><a href="/setts/s8/r6w20g12o3g8t20k2t3~x2/"><circle cx="82.5" cy="152.9" r="4" fill="#3465a4"><title>Coulter Dress (Personal)</title></circle></a><a href="/setts/s7/db6w10g10r2ly3r1db3~x2/"><circle cx="72.9" cy="171.1" r="4" fill="#3465a4"><title>Ainslie, Lake</title></circle></a><a href="/setts/s7/dy17g5db2w12db2ly4g7~x4/"><circle cx="103.5" cy="175.6" r="4" fill="#3465a4"><title>Northern Ontario</title></circle></a><a href="/setts/s12/p3t1w9r6g5t2w2t2w2t2g12ly2~x2/"><circle cx="104.9" cy="125.2" r="4" fill="#3465a4"><title>Fredericton</title></circle></a><a href="/setts/s10/lo12k3g24r12g24k32w44g4w8g4/"><circle cx="107.4" cy="134.7" r="4" fill="#3465a4"><title>Gillies Dress Green</title></circle></a><a href="/setts/s12/dp3t1w9r6g5t2w2t2w2t2g12ly2~x2/"><circle cx="103.7" cy="124.4" r="4" fill="#3465a4"><title>Fredericton District Tartan Tartan Number: 96. Earliest known date: 1967 Fredericton, capital city of New Brunswick, takes its name from Prince Frederick, the second son of King George III. The tartan was designed and woven by the Loomcrofters of Frederickton who weave in their own homes on their own looms. (From 'District Tartans', G. Teall and P. Smith, 1992) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/k4g4k2g14k6w3k6w2w4w2w15r3~x2/"><circle cx="80.9" cy="147.6" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/setts/s9/g8r1g4dy2w4t3w1t3w4~x8/"><circle cx="115.5" cy="188.0" r="4" fill="#3465a4"><title>Gaelic College of St.Anns</title></circle></a><a href="/setts/s12/k4g4k2g12k6w3k6o2w4o2w15r3~x2/"><circle cx="83.5" cy="151.5" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><circle cx="89.7" cy="156.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w4dt6r3dt10n14lo6w18lo6n4lo2~x2/"><circle cx="65.8" cy="162.0" r="4" fill="#3465a4"><title>Gray, Sir John Hamilton (Commem)</title></circle></a><a href="/setts/s8/r6w20g12o3g8t20k2t3~x2/"><circle cx="82.4" cy="153.0" r="4" fill="#3465a4"><title>Coulter Dress (Personal)</title></circle></a><a href="/setts/s7/db6w10g10r2ly3r1db3~x2/"><circle cx="72.8" cy="171.0" r="4" fill="#3465a4"><title>Ainslie, Lake</title></circle></a><a href="/setts/s7/dy17g5db2w12db2ly4g7~x4/"><circle cx="103.4" cy="175.6" r="4" fill="#3465a4"><title>Northern Ontario</title></circle></a><a href="/setts/s12/p3t1w9r6g5t2w2t2w2t2g12ly2~x2/"><circle cx="104.6" cy="125.3" r="4" fill="#3465a4"><title>Fredericton</title></circle></a><a href="/setts/s10/lo12k3g24r12g24k32w44g4w8g4/"><circle cx="107.2" cy="134.7" r="4" fill="#3465a4"><title>Gillies Dress Green</title></circle></a><a href="/setts/s12/dp3t1w9r6g5t2w2t2w2t2g12ly2~x2/"><circle cx="103.5" cy="124.5" r="4" fill="#3465a4"><title>Fredericton District Tartan Tartan Number: 96. Earliest known date: 1967 Fredericton, capital city of New Brunswick, takes its name from Prince Frederick, the second son of King George III. The tartan was designed and woven by the Loomcrofters of Frederickton who weave in their own homes on their own looms. (From 'District Tartans', G. Teall and P. Smith, 1992) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/k4g4k2g14k6w3k6w2w4w2w15r3~x2/"><circle cx="80.7" cy="147.5" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/setts/s9/g8r1g4dy2w4t3w1t3w4~x8/"><circle cx="115.3" cy="187.9" r="4" fill="#3465a4"><title>Gaelic College of St.Anns</title></circle></a><a href="/setts/s12/k4g4k2g12k6w3k6o2w4o2w15r3~x2/"><circle cx="83.4" cy="151.5" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><circle cx="89.5" cy="156.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/w8g14r6g24db30ly10w40ly10db7ly4/

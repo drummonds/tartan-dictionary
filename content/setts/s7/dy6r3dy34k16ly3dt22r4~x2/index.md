@@ -2,7 +2,7 @@
 title: "Ballantrae (Macnaughtons)"
 date: 2023-03-18
 ---
-**Bands:** [GRGKYBR](/stripes/grgkybr/) · **Stripes:** [DY R DY K LY DT R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="seq">DY R DY K LY DT R</span></span>
+**Bands:** [RBYKGRG](/stripes/rbykgrg/) · **Stripes:** [R DT LY K DY R DY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">R DT LY K DY R DY</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5852
 
 ## Thread count
-R/8 K44 Y6 Ka32 T68 R6 T/12
+T/12 R6 T68 Ka32 Y6 K44 R/8
 ![Sett](sett.png)
 
 ## Palette
@@ -42,7 +42,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "R/8 K44 Y6 Ka32 T68 R6 T/12 tartan")
+![Tartan detail](tartan.png "T/12 R6 T68 Ka32 Y6 K44 R/8 tartan")
 
 ## Nearest tartans
 
@@ -50,7 +50,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Unidentified #66](/setts/s6/ly1dy10k8r8dy1ly1~x4/) — ΔT 0.95
 1. [Andover (Fashion)](/setts/s6/r1n12k6ly1do10r1~x4/) — ΔT 0.98
-1. [Vass (Personal)](/setts/s8/db6w1y6dy12r2dy12y6w1~x4/) — ΔT 1.07
+1. [Vass (Personal)](/setts/s8/db6w1y6dy12r2~x4/) — ΔT 1.07
 1. [Wcwm 9275-1410](/setts/s7/g3dy32g4lb3g18dp18lo3~x2/) — ΔT 1.07
 1. [Vass (Personal)](/setts/s5/db6w1dy6dy12r2~x4/) — ΔT 1.10
 1. [Andover](/setts/s6/r1n12k6k1do10r1~x4/) — ΔT 1.11
@@ -61,8 +61,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/ly1dy10k8r8dy1ly1~x4/"><circle cx="219.5" cy="214.3" r="4" fill="#3465a4"><title>Unidentified #66</title></circle></a><a href="/setts/s6/r1n12k6ly1do10r1~x4/"><circle cx="241.7" cy="207.8" r="4" fill="#3465a4"><title>Andover (Fashion)</title></circle></a><a href="/setts/s8/db6w1y6dy12r2dy12y6w1~x4/"><circle cx="293.3" cy="211.4" r="4" fill="#3465a4"><title>Vass (Personal)</title></circle></a><a href="/setts/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="235.8" cy="199.2" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><a href="/setts/s5/db6w1dy6dy12r2~x4/"><circle cx="252.8" cy="234.5" r="4" fill="#3465a4"><title>Vass (Personal)</title></circle></a><a href="/setts/s6/r1n12k6k1do10r1~x4/"><circle cx="255.4" cy="216.5" r="4" fill="#3465a4"><title>Andover</title></circle></a><a href="/setts/s8/db8lo1g12r10y2r6y2r4~x4/"><circle cx="236.8" cy="205.3" r="4" fill="#3465a4"><title>Indiana &quot;Cardinal&quot; (District)</title></circle></a><a href="/setts/s6/lo4k28r2do22t8do3~x2/"><circle cx="265.4" cy="201.4" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/setts/s8/dy6o2dy12k4dt14k1dy3ly2~x2/"><circle cx="274.6" cy="194.8" r="4" fill="#3465a4"><title>Mica, Green (Fashion)</title></circle></a><a href="/setts/s6/r2do22g22do3db12y2~x2/"><circle cx="240.9" cy="217.8" r="4" fill="#3465a4"><title>Lisbon</title></circle></a><circle cx="264.4" cy="204.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/ly1dy10k8r8dy1ly1~x4/"><circle cx="219.6" cy="214.4" r="4" fill="#3465a4"><title>Unidentified #66</title></circle></a><a href="/setts/s6/r1n12k6ly1do10r1~x4/"><circle cx="241.7" cy="208.0" r="4" fill="#3465a4"><title>Andover (Fashion)</title></circle></a><a href="/setts/s8/db6w1y6dy12r2~x4/"><circle cx="293.2" cy="211.4" r="4" fill="#3465a4"><title>Vass (Personal)</title></circle></a><a href="/setts/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="235.7" cy="199.3" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><a href="/setts/s5/db6w1dy6dy12r2~x4/"><circle cx="252.9" cy="234.6" r="4" fill="#3465a4"><title>Vass (Personal)</title></circle></a><a href="/setts/s6/r1n12k6k1do10r1~x4/"><circle cx="255.5" cy="216.6" r="4" fill="#3465a4"><title>Andover</title></circle></a><a href="/setts/s8/db8lo1g12r10y2r6y2r4~x4/"><circle cx="236.8" cy="205.4" r="4" fill="#3465a4"><title>Indiana &quot;Cardinal&quot; (District)</title></circle></a><a href="/setts/s6/lo4k28r2do22t8do3~x2/"><circle cx="265.4" cy="201.5" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/setts/s8/dy6o2dy12k4dt14k1dy3ly2~x2/"><circle cx="274.6" cy="194.8" r="4" fill="#3465a4"><title>Mica, Green (Fashion)</title></circle></a><a href="/setts/s6/r2do22g22do3db12y2~x2/"><circle cx="241.0" cy="217.9" r="4" fill="#3465a4"><title>Lisbon</title></circle></a><circle cx="264.4" cy="204.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/dy6r3dy34k16ly3dt22r4~x2/

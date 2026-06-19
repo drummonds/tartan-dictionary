@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4754
 
 ## Thread count
-N/12 DP12 N4 LP14 DY8 N4 DP4 N4 DY8 DG44 DR4 K30 DR4 P/84
+P/84 DR4 K30 DR4 DG44 DY8 N4 DP4 N4 DY8 LP14 N4 DP12 N/12
 ![Sett](sett.png)
 
 ## Palette
@@ -40,7 +40,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Dundee #3](/setts/s14/r42m2k15m2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6~x2/) — ΔT 1.25
 1. [Dundee](/setts/s14/r42r2k15r2dg22ly4w2dp2w2ly4t7w2dp6w6~x2/) — ΔT 1.28
-1. [Guardian of Scotland](/setts/s10/ly2k1dp8db4g4db20db7r25k1w2~x2/) — ΔT 1.29
+1. [Guardian of Scotland](/setts/s10/w2k1r25db7db20g4db4dp8k1ly2~x2/) — ΔT 1.29
 1. [Unnamed C18th - Hynde Cotton Jacket](/setts/s18/r40p5k26r4p10db14p10r5k2r5k2r5k2r5lr2dg26lb6lr2/) — ΔT 1.34
 1. [British Airways (Corporate)](/setts/s15/ly2y2dg20t2r2t2r10t2r2t2db20r2r1db2w1~x2/) — ΔT 1.36
 1. [Stuart/Stewart Plaid](/setts/s15/r6w2dy40w2t14dg14ly3w2dg6dp6ly2t6dp30r12w2~x2/) — ΔT 1.36
@@ -51,8 +51,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r42m2k15m2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6~x2/"><circle cx="122.7" cy="34.5" r="4" fill="#3465a4"><title>Dundee #3</title></circle></a><a href="/setts/s14/r42r2k15r2dg22ly4w2dp2w2ly4t7w2dp6w6~x2/"><circle cx="112.8" cy="27.4" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/setts/s10/ly2k1dp8db4g4db20db7r25k1w2~x2/"><circle cx="149.7" cy="67.5" r="4" fill="#3465a4"><title>Guardian of Scotland</title></circle></a><a href="/setts/s18/r40p5k26r4p10db14p10r5k2r5k2r5k2r5lr2dg26lb6lr2/"><circle cx="142.1" cy="58.0" r="4" fill="#3465a4"><title>Unnamed C18th - Hynde Cotton Jacket</title></circle></a><a href="/setts/s15/ly2y2dg20t2r2t2r10t2r2t2db20r2r1db2w1~x2/"><circle cx="126.8" cy="52.5" r="4" fill="#3465a4"><title>British Airways (Corporate)</title></circle></a><a href="/setts/s15/r6w2dy40w2t14dg14ly3w2dg6dp6ly2t6dp30r12w2~x2/"><circle cx="106.6" cy="70.3" r="4" fill="#3465a4"><title>Stuart/Stewart Plaid</title></circle></a><a href="/setts/s14/r42r2k15r2g22ly4w2dp2w2ly4t7w2dp6w6~x2/"><circle cx="110.2" cy="26.5" r="4" fill="#3465a4"><title>Dundee (1819) (District)</title></circle></a><a href="/setts/s17/lb24lg2lb4p2lg2lb4p4lg5g5ly3r7dp2r2dp3r1dp23lb4~x2/"><circle cx="137.6" cy="38.8" r="4" fill="#3465a4"><title>Scotland's Grace</title></circle></a><a href="/setts/s13/t2db18ly4k5ly1k1w1k2g8r6k1r3w1~x4/"><circle cx="108.8" cy="74.3" r="4" fill="#3465a4"><title>Bethune (Personal)</title></circle></a><a href="/setts/s15/r6w2o40w2t14g14ly3w2g6p6ly2t6p30r12w2~x2/"><circle cx="112.7" cy="70.1" r="4" fill="#3465a4"><title>Stuart / Stewart, Plaid</title></circle></a><circle cx="119.5" cy="35.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r42m2k15m2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6~x2/"><circle cx="122.6" cy="34.8" r="4" fill="#3465a4"><title>Dundee #3</title></circle></a><a href="/setts/s14/r42r2k15r2dg22ly4w2dp2w2ly4t7w2dp6w6~x2/"><circle cx="112.5" cy="27.7" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/setts/s10/w2k1r25db7db20g4db4dp8k1ly2~x2/"><circle cx="149.7" cy="67.8" r="4" fill="#3465a4"><title>Guardian of Scotland</title></circle></a><a href="/setts/s18/r40p5k26r4p10db14p10r5k2r5k2r5k2r5lr2dg26lb6lr2/"><circle cx="142.0" cy="58.2" r="4" fill="#3465a4"><title>Unnamed C18th - Hynde Cotton Jacket</title></circle></a><a href="/setts/s15/ly2y2dg20t2r2t2r10t2r2t2db20r2r1db2w1~x2/"><circle cx="126.7" cy="52.8" r="4" fill="#3465a4"><title>British Airways (Corporate)</title></circle></a><a href="/setts/s15/r6w2dy40w2t14dg14ly3w2dg6dp6ly2t6dp30r12w2~x2/"><circle cx="106.5" cy="70.6" r="4" fill="#3465a4"><title>Stuart/Stewart Plaid</title></circle></a><a href="/setts/s14/r42r2k15r2g22ly4w2dp2w2ly4t7w2dp6w6~x2/"><circle cx="110.0" cy="26.7" r="4" fill="#3465a4"><title>Dundee (1819) (District)</title></circle></a><a href="/setts/s17/lb24lg2lb4p2lg2lb4p4lg5g5ly3r7dp2r2dp3r1dp23lb4~x2/"><circle cx="137.4" cy="39.0" r="4" fill="#3465a4"><title>Scotland's Grace</title></circle></a><a href="/setts/s13/t2db18ly4k5ly1k1w1k2g8r6k1r3w1~x4/"><circle cx="108.8" cy="74.5" r="4" fill="#3465a4"><title>Bethune (Personal)</title></circle></a><a href="/setts/s15/r6w2o40w2t14g14ly3w2g6p6ly2t6p30r12w2~x2/"><circle cx="112.5" cy="70.4" r="4" fill="#3465a4"><title>Stuart / Stewart, Plaid</title></circle></a><circle cx="119.4" cy="35.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/m42r2k15r2dg22lo4lb2dp2lb2lo4lb7lb2dp6lb6~x2/

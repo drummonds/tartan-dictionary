@@ -2,12 +2,20 @@
 title: "MacAulay Hunting"
 date: 2023-03-18
 ---
-**Bands:** [GKWKGKGR](/stripes/gkwkgkgr/) · **Stripes:** [G K W K G K G R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">G K W K G K G R</span></span>
+**Bands:** [RGKGKWKG](/stripes/rgkgkwkg/) · **Stripes:** [R G K G K W K G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G K G K W K G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2288
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacAulay Hunting
+- MacAuley Hunting
+- MacAuley, hunting
 
 ## Attestations
 
@@ -320,6 +328,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +429,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +689,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -918,18 +929,18 @@ The nearest existing variants by ΔTartan distance.
 1. [MacKinross](/setts/s7/k6db1k6g4k10g20r2~x2/) — ΔT 1.05
 1. [MacArthur (Variant)](/setts/s6/r3g30k12g6k16ly2~x2/) — ΔT 1.05
 1. [Strath Hallidale (Fashion)](/setts/s8/g5k15g5k15g19r2g13lb4~x2/) — ΔT 1.06
+1. [MacKintosh Hunting](/setts/s7/ly2dg12db6r3dg12r4db1~x2/) — ΔT 1.07
 1. [MacAulay of Lewis](/setts/s8/g6k16r3k16g28k4g12w3~x2/) — ΔT 1.11
 1. [Grass of Rasunda (Commemorative)](/setts/s7/k14dg7k2y8k4ly2k1~x4/) — ΔT 1.16
-1. [MacKintosh Hunting](/setts/s7/ly2dg12db6r3dg12r4db1~x2/) — ΔT 1.26
+1. [MacKintosh Hunting](/setts/s7/ly2dg12db6r3dg12r4db1/) — ΔT 1.26
 1. [Manitoba Cue Sports](/setts/s10/k8y4r1k2y16lo1k8y2k2y4~x4/) — ΔT 1.26
 1. [Wild Highlanders (Corporate)](/setts/s7/k36w3k10w3g28r6k18~x2/) — ΔT 1.27
 1. [Hopetoun](/setts/s11/g13k2g2k11ly1k2ly1k11g2b1g11~x4/) — ΔT 1.32
-1. [MacAulay Hunting](/setts/s8/dg6k16lr1k16dg8k4dg12r2~x2/) — ΔT 1.32
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k6db1k6g4k10g20r2~x2/"><circle cx="333.1" cy="203.9" r="4" fill="#3465a4"><title>MacKinross</title></circle></a><a href="/setts/s6/r3g30k12g6k16ly2~x2/"><circle cx="319.5" cy="214.0" r="4" fill="#3465a4"><title>MacArthur (Variant)</title></circle></a><a href="/setts/s8/g5k15g5k15g19r2g13lb4~x2/"><circle cx="279.5" cy="238.3" r="4" fill="#3465a4"><title>Strath Hallidale (Fashion)</title></circle></a><a href="/setts/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="280.1" cy="221.9" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/setts/s7/k14dg7k2y8k4ly2k1~x4/"><circle cx="312.7" cy="218.0" r="4" fill="#3465a4"><title>Grass of Rasunda (Commemorative)</title></circle></a><a href="/setts/s7/ly2dg12db6r3dg12r4db1~x2/"><circle cx="302.4" cy="209.7" r="4" fill="#3465a4"><title>MacKintosh Hunting</title></circle></a><a href="/setts/s10/k8y4r1k2y16lo1k8y2k2y4~x4/"><circle cx="350.8" cy="184.3" r="4" fill="#3465a4"><title>Manitoba Cue Sports</title></circle></a><a href="/setts/s7/k36w3k10w3g28r6k18~x2/"><circle cx="329.2" cy="209.2" r="4" fill="#3465a4"><title>Wild Highlanders (Corporate)</title></circle></a><a href="/setts/s11/g13k2g2k11ly1k2ly1k11g2b1g11~x4/"><circle cx="303.5" cy="188.8" r="4" fill="#3465a4"><title>Hopetoun</title></circle></a><a href="/setts/s8/dg6k16lr1k16dg8k4dg12r2~x2/"><circle cx="323.6" cy="218.8" r="4" fill="#3465a4"><title>MacAulay Hunting</title></circle></a><circle cx="326.7" cy="216.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k6db1k6g4k10g20r2~x2/"><circle cx="333.1" cy="203.8" r="4" fill="#3465a4"><title>MacKinross</title></circle></a><a href="/setts/s6/r3g30k12g6k16ly2~x2/"><circle cx="319.5" cy="213.9" r="4" fill="#3465a4"><title>MacArthur (Variant)</title></circle></a><a href="/setts/s8/g5k15g5k15g19r2g13lb4~x2/"><circle cx="279.5" cy="238.2" r="4" fill="#3465a4"><title>Strath Hallidale (Fashion)</title></circle></a><a href="/setts/s7/ly2dg12db6r3dg12r4db1~x2/"><circle cx="334.5" cy="226.4" r="4" fill="#3465a4"><title>MacKintosh Hunting</title></circle></a><a href="/setts/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="280.1" cy="221.8" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/setts/s7/k14dg7k2y8k4ly2k1~x4/"><circle cx="312.8" cy="217.9" r="4" fill="#3465a4"><title>Grass of Rasunda (Commemorative)</title></circle></a><a href="/setts/s7/ly2dg12db6r3dg12r4db1/"><circle cx="302.3" cy="209.5" r="4" fill="#3465a4"><title>MacKintosh Hunting</title></circle></a><a href="/setts/s10/k8y4r1k2y16lo1k8y2k2y4~x4/"><circle cx="350.6" cy="184.2" r="4" fill="#3465a4"><title>Manitoba Cue Sports</title></circle></a><a href="/setts/s7/k36w3k10w3g28r6k18~x2/"><circle cx="329.2" cy="209.0" r="4" fill="#3465a4"><title>Wild Highlanders (Corporate)</title></circle></a><a href="/setts/s11/g13k2g2k11ly1k2ly1k11g2b1g11~x4/"><circle cx="303.5" cy="188.7" r="4" fill="#3465a4"><title>Hopetoun</title></circle></a><circle cx="326.7" cy="216.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/g6k16w1k16g8k4g12r2~x2/

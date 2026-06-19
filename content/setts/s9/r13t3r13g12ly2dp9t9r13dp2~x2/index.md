@@ -2,7 +2,7 @@
 title: "Caledonia No 3"
 date: 2023-03-18
 ---
-**Bands:** [BRBBYGRBR](/stripes/brbbygrbr/) · **Stripes:** [DP R T DP LY G R T R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">DP R T DP LY G R T R</span></span>
+**Bands:** [RBRGYBBRB](/stripes/rbrgybbrb/) · **Stripes:** [R T R G LY DP T R DP](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R T R G LY DP T R DP</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DP/4 R26 B18 DP18 Y4 G24 R26 B6 R/26
+R/26 B6 R26 G24 Y4 DP18 B18 R26 DP/4
 ![Sett](sett.png)
 
 ## Palette
@@ -923,8 +926,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r13t3r13dg12ly2dp9t9r13dp2~x2/"><circle cx="192.7" cy="203.6" r="4" fill="#3465a4"><title>Caledonia No 3</title></circle></a><a href="/setts/s7/r8t3k4dg6r4k1r4~x2/"><circle cx="231.9" cy="232.9" r="4" fill="#3465a4"><title>MacDuff #5</title></circle></a><a href="/setts/s7/r8db3k4g6r4k1r4~x4/"><circle cx="240.0" cy="239.6" r="4" fill="#3465a4"><title>MacDuff Clan Tartan Tartan Number: 2141. Earliest known date: 1831 According to D.C.Stewart, &quot;It will be observed that the MacDuff tartan is substantially the Royal Stuart with the white and yellow lines removed. Whether this indicates it as a source of the Stuart, or the association of the Earls of Fife with the Crown, remains to be determined.&quot; James Logan published this sett in his book, 'The Scottish Gael' in 1831. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/ly18r18dg30r12db55r42dg6r18dg6r42dg44r12dg12/"><circle cx="172.8" cy="166.7" r="4" fill="#3465a4"><title>Unidentified Plaid #4</title></circle></a><a href="/setts/s7/dp2r4g12r3dp6r10w2~x2/"><circle cx="201.5" cy="222.4" r="4" fill="#3465a4"><title>MacKintosh-Geddes (Personal?)</title></circle></a><a href="/setts/s13/ly3r3k5r2db9r7k1r3k1r7g7r2k2~x2/"><circle cx="172.4" cy="168.1" r="4" fill="#3465a4"><title>Prince Charles Edward (Edinburgh)</title></circle></a><a href="/setts/s9/g2lo9do6r3do2r3do2r10w2~x4/"><circle cx="159.7" cy="205.3" r="4" fill="#3465a4"><title>Tinkler (Corporate)</title></circle></a><a href="/setts/s7/r6g1r6db1g3k3g3~x4/"><circle cx="247.2" cy="240.3" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/setts/s8/db8ly1dg12r10o2r6o2r4~x4/"><circle cx="212.4" cy="181.7" r="4" fill="#3465a4"><title>Indiana &quot;Cardinal&quot;</title></circle></a><a href="/setts/s6/w4r7lo5b13r18g3~x2/"><circle cx="197.2" cy="215.0" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><circle cx="199.6" cy="209.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r13t3r13dg12ly2dp9t9r13dp2~x2/"><circle cx="192.6" cy="203.6" r="4" fill="#3465a4"><title>Caledonia No 3</title></circle></a><a href="/setts/s7/r8t3k4dg6r4k1r4~x2/"><circle cx="231.8" cy="232.8" r="4" fill="#3465a4"><title>MacDuff #5</title></circle></a><a href="/setts/s7/r8db3k4g6r4k1r4~x4/"><circle cx="239.9" cy="239.5" r="4" fill="#3465a4"><title>MacDuff Clan Tartan Tartan Number: 2141. Earliest known date: 1831 According to D.C.Stewart, &quot;It will be observed that the MacDuff tartan is substantially the Royal Stuart with the white and yellow lines removed. Whether this indicates it as a source of the Stuart, or the association of the Earls of Fife with the Crown, remains to be determined.&quot; James Logan published this sett in his book, 'The Scottish Gael' in 1831. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/ly18r18dg30r12db55r42dg6r18dg6r42dg44r12dg12/"><circle cx="172.7" cy="166.7" r="4" fill="#3465a4"><title>Unidentified Plaid #4</title></circle></a><a href="/setts/s7/dp2r4g12r3dp6r10w2~x2/"><circle cx="201.3" cy="222.3" r="4" fill="#3465a4"><title>MacKintosh-Geddes (Personal?)</title></circle></a><a href="/setts/s13/ly3r3k5r2db9r7k1r3k1r7g7r2k2~x2/"><circle cx="172.3" cy="168.1" r="4" fill="#3465a4"><title>Prince Charles Edward (Edinburgh)</title></circle></a><a href="/setts/s9/g2lo9do6r3do2r3do2r10w2~x4/"><circle cx="159.6" cy="205.4" r="4" fill="#3465a4"><title>Tinkler (Corporate)</title></circle></a><a href="/setts/s7/r6g1r6db1g3k3g3~x4/"><circle cx="247.0" cy="240.2" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/setts/s8/db8ly1dg12r10o2r6o2r4~x4/"><circle cx="212.2" cy="181.7" r="4" fill="#3465a4"><title>Indiana &quot;Cardinal&quot;</title></circle></a><a href="/setts/s6/w4r7lo5b13r18g3~x2/"><circle cx="197.1" cy="214.9" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><circle cx="199.4" cy="209.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r13t3r13g12ly2dp9t9r13dp2~x2/

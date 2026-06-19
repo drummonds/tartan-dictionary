@@ -2,12 +2,19 @@
 title: "Dewar, Robert Alexander"
 date: 2023-03-18
 ---
-**Bands:** [GBKBGYGBK](/stripes/gbkbgygbk/) · **Stripes:** [DG DT K DT DG LY DG DT K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="seq">DG DT K DT DG LY DG DT K</span></span>
+**Bands:** [KBGYGBKBG](/stripes/kbgygbkbg/) · **Stripes:** [K DT DG LY DG DT K DT DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="seq">K DT DG LY DG DT K DT DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10006
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Dewar, Robert Alexander
+- Robert Dewar Personal
 
 ## Attestations
 
@@ -54,8 +61,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dg18k10dg13k9r3k9dg25k16dg9db3~x2/"><circle cx="354.1" cy="284.1" r="4" fill="#3465a4"><title>Holman</title></circle></a><a href="/setts/s12/dg4m1dg4k4db4lo1db4k4dg4m1dg4db2~x8/"><circle cx="197.4" cy="298.0" r="4" fill="#3465a4"><title>Isle of Gigha</title></circle></a><a href="/setts/s6/dy1db3dy1dg3dy4r1~x2/"><circle cx="270.9" cy="323.5" r="4" fill="#3465a4"><title>Fraser Hunting #2</title></circle></a><a href="/setts/s7/dg5db1dg5dp1g5db1dg5~x2/"><circle cx="389.4" cy="310.0" r="4" fill="#3465a4"><title>Blackwood (Corporate)</title></circle></a><a href="/setts/s7/k3dg4k1dg4k3db4k1~x2/"><circle cx="235.2" cy="344.1" r="4" fill="#3465a4"><title>Unidentified No 63</title></circle></a><a href="/setts/s7/dg15k8db15k8dg23k8w3~x2/"><circle cx="227.2" cy="271.3" r="4" fill="#3465a4"><title>Marchant</title></circle></a><a href="/setts/s11/dg14k8dg21k2lo5k2dg21k11db18k2r5~x2/"><circle cx="302.8" cy="233.1" r="4" fill="#3465a4"><title>de Vere-Austin (Clan)</title></circle></a><a href="/setts/s10/db8k1db8k2dg6r1dg6k2db8lb1~x2/"><circle cx="330.5" cy="252.0" r="4" fill="#3465a4"><title>Dalmeny - 1965 (Fashion)</title></circle></a><a href="/setts/s9/dt16k13dt7dy3r2dy3dt7k13dt16~x2/"><circle cx="342.3" cy="267.5" r="4" fill="#3465a4"><title>Klappert, Denmark (Personal)</title></circle></a><a href="/setts/s8/dg8do2dg13db4dg12n22dg5ly3~x2/"><circle cx="358.2" cy="250.1" r="4" fill="#3465a4"><title>Scottish Pup</title></circle></a><circle cx="306.4" cy="317.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dg18k10dg13k9r3k9dg25k16dg9db3~x2/"><circle cx="354.3" cy="284.1" r="4" fill="#3465a4"><title>Holman</title></circle></a><a href="/setts/s12/dg4m1dg4k4db4lo1db4k4dg4m1dg4db2~x8/"><circle cx="197.7" cy="298.2" r="4" fill="#3465a4"><title>Isle of Gigha</title></circle></a><a href="/setts/s6/dy1db3dy1dg3dy4r1~x2/"><circle cx="270.9" cy="323.6" r="4" fill="#3465a4"><title>Fraser Hunting #2</title></circle></a><a href="/setts/s7/dg5db1dg5dp1g5db1dg5~x2/"><circle cx="389.4" cy="310.1" r="4" fill="#3465a4"><title>Blackwood (Corporate)</title></circle></a><a href="/setts/s7/k3dg4k1dg4k3db4k1~x2/"><circle cx="235.4" cy="344.1" r="4" fill="#3465a4"><title>Unidentified No 63</title></circle></a><a href="/setts/s7/dg15k8db15k8dg23k8w3~x2/"><circle cx="227.5" cy="271.4" r="4" fill="#3465a4"><title>Marchant</title></circle></a><a href="/setts/s11/dg14k8dg21k2lo5k2dg21k11db18k2r5~x2/"><circle cx="302.9" cy="233.2" r="4" fill="#3465a4"><title>de Vere-Austin (Clan)</title></circle></a><a href="/setts/s10/db8k1db8k2dg6r1dg6k2db8lb1~x2/"><circle cx="330.7" cy="252.1" r="4" fill="#3465a4"><title>Dalmeny - 1965 (Fashion)</title></circle></a><a href="/setts/s9/dt16k13dt7dy3r2dy3dt7k13dt16~x2/"><circle cx="342.4" cy="267.5" r="4" fill="#3465a4"><title>Klappert, Denmark (Personal)</title></circle></a><a href="/setts/s8/dg8do2dg13db4dg12n22dg5ly3~x2/"><circle cx="358.1" cy="250.2" r="4" fill="#3465a4"><title>Scottish Pup</title></circle></a><circle cx="306.6" cy="317.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dg15dt8k5dt8dg15ly3dg15dt8k5~x2/

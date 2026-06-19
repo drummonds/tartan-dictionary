@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/4 Ba4 LN2 Ba4 B4 O60 LN2 B8 Ba8 LT6 LN2 LT6 Ba8 B8 LN2 G40 LN2 G10 O10 Ba10 LN2 B4 LN4 B/8
+B/8 LN4 B4 LN2 Ba10 O10 G10 LN2 G40 LN2 B8 Ba8 LT6 LN2 LT6 Ba8 B8 LN2 O60 B4 Ba4 LN2 Ba4 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -911,14 +914,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Unidentified Plaid #9](/setts/s28/w70dy7db7w7db7dy7w7db5dy9ly4dy3w4dy3dg13dy70dg30dy4r10dy4dg30dy15db4dy4db4dy4db27dg6db27~x2/) — ΔT 1.40
 1. [Spens, Fragment](/setts/s17/r50w2db7o2g33g12db7o3w2o3db7g12g33o2db7w2r17~x2/) — ΔT 1.43
 1. [Ross Wedding Dress](/setts/s24/k4w2k2w1t6r6g6w1g27w1db4t4dy3w1dy3t4db4w1r36db3t2w1t2db3~x2/) — ΔT 1.46
-1. [Spens Fragment](/setts/s32/r17w2db7lo2g33g12db7lo3w2lo3db7g12g33lo2db7w2r50w2db7lo2g33g12db7lo3w2lo3db7g12g33lo2db7w2~x2/) — ΔT 1.51
-1. [O'Keefe](/setts/s22/k8r2k3ly2k2w3k2lo12y22r2y2k1y2r2y22lo12k2w3k2ly2k3r2~x2/) — ΔT 1.54
+1. [Spens Fragment](/setts/s32/r50w2db7lo2g33g12db7lo3w2lo3db7g12g33lo2db7w2r17~x2/) — ΔT 1.51
+1. [O'Keefe](/setts/s22/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/) — ΔT 1.54
 1. [Westwood](/setts/s18/r6t4dg16lo2k1w6k1lo30r15lo30k1w6k1lo2dg16t4r6w1~x2/) — ΔT 1.55
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s24/db4w2db2w1t5lo5g5w1g20w1db4t4dy3w1dy3t4db4w1lo30db2t2w1t2db2~x2/"><circle cx="162.7" cy="35.7" r="4" fill="#3465a4"><title>Stewart (Silk Fragment)</title></circle></a><a href="/setts/s28/w70o7db7w7db7o7w7db5o9ly4o3w4o3g13o70g30o4r10o4g30o15db4o4db4o4db27g6db27~x2/"><circle cx="147.4" cy="45.2" r="4" fill="#3465a4"><title>Unidentified Plaid 15</title></circle></a><a href="/setts/s24/k4w2k2w1t6r6g6w1g27w1db4t4o3w1o3t4db4w1r36db3t2w1t2db3~x2/"><circle cx="157.5" cy="14.0" r="4" fill="#3465a4"><title>Ross, Wedding dress</title></circle></a><a href="/setts/s20/ly10k2w3k6o4k2lb8k2o4k6lb3lr49lo4k42o42ly6o6ly6o6ly8/"><circle cx="113.7" cy="36.2" r="4" fill="#3465a4"><title>Whisky</title></circle></a><a href="/setts/s28/w70dy7db7w7db7dy7w7db5dy9ly4dy3w4dy3dg13dy70dg30dy4r10dy4dg30dy15db4dy4db4dy4db27dg6db27~x2/"><circle cx="139.2" cy="44.5" r="4" fill="#3465a4"><title>Unidentified Plaid #9</title></circle></a><a href="/setts/s17/r50w2db7o2g33g12db7o3w2o3db7g12g33o2db7w2r17~x2/"><circle cx="178.1" cy="76.7" r="4" fill="#3465a4"><title>Spens, Fragment</title></circle></a><a href="/setts/s24/k4w2k2w1t6r6g6w1g27w1db4t4dy3w1dy3t4db4w1r36db3t2w1t2db3~x2/"><circle cx="164.9" cy="14.0" r="4" fill="#3465a4"><title>Ross Wedding Dress</title></circle></a><a href="/setts/s32/r17w2db7lo2g33g12db7lo3w2lo3db7g12g33lo2db7w2r50w2db7lo2g33g12db7lo3w2lo3db7g12g33lo2db7w2~x2/"><circle cx="175.6" cy="53.8" r="4" fill="#3465a4"><title>Spens Fragment</title></circle></a><a href="/setts/s22/k8r2k3ly2k2w3k2lo12y22r2y2k1y2r2y22lo12k2w3k2ly2k3r2~x2/"><circle cx="200.4" cy="63.0" r="4" fill="#3465a4"><title>O'Keefe</title></circle></a><a href="/setts/s18/r6t4dg16lo2k1w6k1lo30r15lo30k1w6k1lo2dg16t4r6w1~x2/"><circle cx="213.1" cy="62.6" r="4" fill="#3465a4"><title>Westwood</title></circle></a><circle cx="159.5" cy="30.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s24/db4w2db2w1t5lo5g5w1g20w1db4t4dy3w1dy3t4db4w1lo30db2t2w1t2db2~x2/"><circle cx="162.4" cy="35.9" r="4" fill="#3465a4"><title>Stewart (Silk Fragment)</title></circle></a><a href="/setts/s28/w70o7db7w7db7o7w7db5o9ly4o3w4o3g13o70g30o4r10o4g30o15db4o4db4o4db27g6db27~x2/"><circle cx="147.1" cy="45.4" r="4" fill="#3465a4"><title>Unidentified Plaid 15</title></circle></a><a href="/setts/s24/k4w2k2w1t6r6g6w1g27w1db4t4o3w1o3t4db4w1r36db3t2w1t2db3~x2/"><circle cx="157.2" cy="14.0" r="4" fill="#3465a4"><title>Ross, Wedding dress</title></circle></a><a href="/setts/s20/ly10k2w3k6o4k2lb8k2o4k6lb3lr49lo4k42o42ly6o6ly6o6ly8/"><circle cx="113.5" cy="36.4" r="4" fill="#3465a4"><title>Whisky</title></circle></a><a href="/setts/s28/w70dy7db7w7db7dy7w7db5dy9ly4dy3w4dy3dg13dy70dg30dy4r10dy4dg30dy15db4dy4db4dy4db27dg6db27~x2/"><circle cx="139.0" cy="44.6" r="4" fill="#3465a4"><title>Unidentified Plaid #9</title></circle></a><a href="/setts/s17/r50w2db7o2g33g12db7o3w2o3db7g12g33o2db7w2r17~x2/"><circle cx="177.8" cy="76.8" r="4" fill="#3465a4"><title>Spens, Fragment</title></circle></a><a href="/setts/s24/k4w2k2w1t6r6g6w1g27w1db4t4dy3w1dy3t4db4w1r36db3t2w1t2db3~x2/"><circle cx="164.6" cy="14.0" r="4" fill="#3465a4"><title>Ross Wedding Dress</title></circle></a><a href="/setts/s32/r50w2db7lo2g33g12db7lo3w2lo3db7g12g33lo2db7w2r17~x2/"><circle cx="175.4" cy="54.0" r="4" fill="#3465a4"><title>Spens Fragment</title></circle></a><a href="/setts/s22/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/"><circle cx="200.0" cy="63.1" r="4" fill="#3465a4"><title>O'Keefe</title></circle></a><a href="/setts/s18/r6t4dg16lo2k1w6k1lo30r15lo30k1w6k1lo2dg16t4r6w1~x2/"><circle cx="212.8" cy="62.7" r="4" fill="#3465a4"><title>Westwood</title></circle></a><circle cx="159.1" cy="30.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s24/db4w2db2w1t5lo5g5w1g20w1db4t4o3w1o3t4db4w1lo30db2t2w1t2db2~x2/

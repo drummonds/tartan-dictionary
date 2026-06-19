@@ -2,7 +2,7 @@
 title: "Mayo"
 date: 2023-03-18
 ---
-**Bands:** [BYGRBGK](/stripes/bygrbgk/) · **Stripes:** [T LY G R DB G K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">T LY G R DB G K</span></span>
+**Bands:** [KGBRGYB](/stripes/kgbrgyb/) · **Stripes:** [K G DB R G LY T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="seq">K G DB R G LY T</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-Ba/6 Y4 G50 R32 B22 G32 K/8
+K/8 G32 B22 R32 G50 Y4 Ba/6
 ![Sett](sett.png)
 
 ## Palette
@@ -902,7 +905,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "Ba/6 Y4 G50 R32 B22 G32 K/8 tartan")
+![Tartan detail](tartan.png "K/8 G32 B22 R32 G50 Y4 Ba/6 tartan")
 
 ## Nearest tartans
 
@@ -916,13 +919,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Royal British Legion, The](/setts/s7/r6b2g20k3db8g2b4~x2/) — ΔT 1.44
 1. [Newfoundland](/setts/s7/r6g4do14w4do7g30lo4~x2/) — ΔT 1.45
 1. [Asheville Firefighters, The](/setts/s6/k17g48ly4r10db12g4/) — ΔT 1.45
-1. [Brown, George](/setts/s9/ly3g24k18r4g22r6k4r3w3~x2/) — ΔT 1.45
+1. [Brown, George](/setts/s9/w3r3k4r6g22r4k18g24ly3~x2/) — ΔT 1.45
 1. [Aztec, New Mexico](/setts/s8/r3k8g17ly2g17k8b8k2~x2/) — ΔT 1.45
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/lo30w4lo20g20k20lo3k6~x2/"><circle cx="199.3" cy="197.8" r="4" fill="#3465a4"><title>St Andrews Bay</title></circle></a><a href="/setts/s6/g11w11k3ly3dg36lo7~x2/"><circle cx="202.1" cy="154.9" r="4" fill="#3465a4"><title>Driver (Name)</title></circle></a><a href="/setts/s7/g25r4db25r13g25ly2t6~x2/"><circle cx="243.0" cy="204.8" r="4" fill="#3465a4"><title>Rotary</title></circle></a><a href="/setts/s6/g11w11k3ly3dg36r7~x2/"><circle cx="194.6" cy="150.3" r="4" fill="#3465a4"><title>Driver, RC</title></circle></a><a href="/setts/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="266.2" cy="199.6" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/setts/s7/r6b2g20k3db8g2b4~x2/"><circle cx="168.6" cy="164.1" r="4" fill="#3465a4"><title>Royal British Legion, The</title></circle></a><a href="/setts/s7/r6g4do14w4do7g30lo4~x2/"><circle cx="233.1" cy="197.0" r="4" fill="#3465a4"><title>Newfoundland</title></circle></a><a href="/setts/s6/k17g48ly4r10db12g4/"><circle cx="278.8" cy="189.7" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/setts/s9/ly3g24k18r4g22r6k4r3w3~x2/"><circle cx="230.5" cy="182.0" r="4" fill="#3465a4"><title>Brown, George</title></circle></a><a href="/setts/s8/r3k8g17ly2g17k8b8k2~x2/"><circle cx="222.9" cy="207.7" r="4" fill="#3465a4"><title>Aztec, New Mexico</title></circle></a><circle cx="223.1" cy="175.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/lo30w4lo20g20k20lo3k6~x2/"><circle cx="199.3" cy="197.7" r="4" fill="#3465a4"><title>St Andrews Bay</title></circle></a><a href="/setts/s6/g11w11k3ly3dg36lo7~x2/"><circle cx="202.0" cy="154.8" r="4" fill="#3465a4"><title>Driver (Name)</title></circle></a><a href="/setts/s7/g25r4db25r13g25ly2t6~x2/"><circle cx="242.9" cy="204.8" r="4" fill="#3465a4"><title>Rotary</title></circle></a><a href="/setts/s6/g11w11k3ly3dg36r7~x2/"><circle cx="194.5" cy="150.2" r="4" fill="#3465a4"><title>Driver, RC</title></circle></a><a href="/setts/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="266.1" cy="199.5" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/setts/s7/r6b2g20k3db8g2b4~x2/"><circle cx="168.6" cy="164.2" r="4" fill="#3465a4"><title>Royal British Legion, The</title></circle></a><a href="/setts/s7/r6g4do14w4do7g30lo4~x2/"><circle cx="233.0" cy="196.9" r="4" fill="#3465a4"><title>Newfoundland</title></circle></a><a href="/setts/s6/k17g48ly4r10db12g4/"><circle cx="278.8" cy="189.6" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/setts/s9/w3r3k4r6g22r4k18g24ly3~x2/"><circle cx="230.5" cy="181.9" r="4" fill="#3465a4"><title>Brown, George</title></circle></a><a href="/setts/s8/r3k8g17ly2g17k8b8k2~x2/"><circle cx="222.9" cy="207.6" r="4" fill="#3465a4"><title>Aztec, New Mexico</title></circle></a><circle cx="223.0" cy="175.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k4g16db11r16g25ly2t3~x2/

@@ -20,7 +20,7 @@ GYRK
 
 
 
-### DG LO O K <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="seq">DG LO O K</span></span>
+### K O LO DG <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="seq">K O LO DG</span></span>
 
 | Tartans |
 |---------------|

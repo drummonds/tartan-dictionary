@@ -8,7 +8,7 @@ WBKBBY
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/lo4b8dp4k53dt54w4/tartan.png)
+![Woven sample](/setts/s6/w4dt54k53dp4b8lo4/tartan.png)
 
 
 
@@ -21,24 +21,24 @@ WBKBBY
 Grouped by stripe pattern — the 3 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### W DB K DP B LO <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">W DB K DP B LO</span></span>
+### LO B DP K DB W <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO B DP K DB W</span></span>
 
 | Tartans |
 |---------------|
 | [Pipers' Trail (Corporate)](/setts/s6/lo4b8dp4k53db54w2/)|
 |![Pipers' Trail (Corporate) example sett](/setts/s6/lo4b8dp4k53db54w2/sett.png)|
 
-### W DB K DP T LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W DB K DP T LY</span></span>
+### LO B DP K DT W <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO B DP K DT W</span></span>
 
 | Tartans |
 |---------------|
-| [Pipers' Trail, The](/setts/s6/ly4t8dp4k53db54w4/)|
-|![Pipers' Trail, The example sett](/setts/s6/ly4t8dp4k53db54w4/sett.png)|
+| [Pipers' Trail, The](/setts/s6/w4dt54k53dp4b8lo4/)|
+|![Pipers' Trail, The example sett](/setts/s6/w4dt54k53dp4b8lo4/sett.png)|
 
-### W DT K DP B LO <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">W DT K DP B LO</span></span>
+### LY T DP K DB W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY T DP K DB W</span></span>
 
 | Tartans |
 |---------------|
-| [Pipers' Trail, The](/setts/s6/lo4b8dp4k53dt54w4/)|
-|![Pipers' Trail, The example sett](/setts/s6/lo4b8dp4k53dt54w4/sett.png)|
+| [Pipers' Trail, The](/setts/s6/w4db54k53dp4t8ly4/)|
+|![Pipers' Trail, The example sett](/setts/s6/w4db54k53dp4t8ly4/sett.png)|
 

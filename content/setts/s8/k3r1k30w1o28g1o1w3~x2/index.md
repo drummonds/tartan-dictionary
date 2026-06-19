@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -920,8 +923,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r6k1w4k4n15r1k35o2~x2/"><circle cx="355.6" cy="110.1" r="4" fill="#3465a4"><title>Distripress (Corporate)</title></circle></a><a href="/setts/s8/lo8k50o15dg6o6db3o6lo2~x2/"><circle cx="297.4" cy="121.4" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><a href="/setts/s7/k60w2r10dg6w4r15ly10~x2/"><circle cx="316.7" cy="109.4" r="4" fill="#3465a4"><title>Iberia Dress, Black (Fashion)</title></circle></a><a href="/setts/s12/r2k34w2k2y27g1y2k3y2ly1y2r2~x2/"><circle cx="286.6" cy="53.3" r="4" fill="#3465a4"><title>Hudson, Bay Company</title></circle></a><a href="/setts/s9/r8lg9dp3ly1dp1ly2dp2k32dp3~x2/"><circle cx="291.9" cy="87.8" r="4" fill="#3465a4"><title>Gedling, Peter (Personal)</title></circle></a><a href="/setts/s9/t12w1t2k3r15k1lo2k39r2~x2/"><circle cx="336.9" cy="82.7" r="4" fill="#3465a4"><title>Superstition Fire Honor Guard Pipes &amp; Drums</title></circle></a><a href="/setts/s8/r35w8k85o6k4o14k2dp4/"><circle cx="362.8" cy="98.7" r="4" fill="#3465a4"><title>MacEvil (Corporate)</title></circle></a><a href="/setts/s9/t4w1k36db2r4w1db14r8w1~x2/"><circle cx="297.2" cy="93.4" r="4" fill="#3465a4"><title>Midnight Balmoral (Personal)</title></circle></a><a href="/setts/s9/db12w1db2k3r15k1ly2k39r2~x2/"><circle cx="355.2" cy="96.4" r="4" fill="#3465a4"><title>Superstition Fire Honor Guard Pipes</title></circle></a><a href="/setts/s10/n1k6n35k6k2dp3n1k6k2w1~x2/"><circle cx="319.6" cy="69.4" r="4" fill="#3465a4"><title>Melrose Newbigging Grey</title></circle></a><circle cx="305.9" cy="101.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r6k1w4k4n15r1k35o2~x2/"><circle cx="355.5" cy="110.0" r="4" fill="#3465a4"><title>Distripress (Corporate)</title></circle></a><a href="/setts/s8/lo8k50o15dg6o6db3o6lo2~x2/"><circle cx="297.3" cy="121.3" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><a href="/setts/s7/k60w2r10dg6w4r15ly10~x2/"><circle cx="316.5" cy="109.3" r="4" fill="#3465a4"><title>Iberia Dress, Black (Fashion)</title></circle></a><a href="/setts/s12/r2k34w2k2y27g1y2k3y2ly1y2r2~x2/"><circle cx="286.5" cy="53.2" r="4" fill="#3465a4"><title>Hudson, Bay Company</title></circle></a><a href="/setts/s9/r8lg9dp3ly1dp1ly2dp2k32dp3~x2/"><circle cx="291.8" cy="87.8" r="4" fill="#3465a4"><title>Gedling, Peter (Personal)</title></circle></a><a href="/setts/s9/t12w1t2k3r15k1lo2k39r2~x2/"><circle cx="336.7" cy="82.6" r="4" fill="#3465a4"><title>Superstition Fire Honor Guard Pipes &amp; Drums</title></circle></a><a href="/setts/s8/r35w8k85o6k4o14k2dp4/"><circle cx="362.6" cy="98.6" r="4" fill="#3465a4"><title>MacEvil (Corporate)</title></circle></a><a href="/setts/s9/t4w1k36db2r4w1db14r8w1~x2/"><circle cx="297.2" cy="93.3" r="4" fill="#3465a4"><title>Midnight Balmoral (Personal)</title></circle></a><a href="/setts/s9/db12w1db2k3r15k1ly2k39r2~x2/"><circle cx="355.0" cy="96.4" r="4" fill="#3465a4"><title>Superstition Fire Honor Guard Pipes</title></circle></a><a href="/setts/s10/n1k6n35k6k2dp3n1k6k2w1~x2/"><circle cx="319.5" cy="69.3" r="4" fill="#3465a4"><title>Melrose Newbigging Grey</title></circle></a><circle cx="305.8" cy="101.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k3r1k30w1o28g1o1w3~x2/

@@ -21,21 +21,21 @@ GGKRBR
 Grouped by stripe pattern — the 3 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DY DG K R DB R <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DY DG K R DB R</span></span>
-
-| Tartans |
-|---------------|
-| [MacWilliam Hunting](/setts/s6/dy2dg44k10r1db16r1~x2/)|
-|![MacWilliam Hunting example sett](/setts/s6/dy2dg44k10r1db16r1~x2/sett.png)|
-
-### DY G K R B R <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="seq">DY G K R B R</span></span>
+### R B R K G DY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">R B R K G DY</span></span>
 
 | Tartans |
 |---------------|
 | [MacWilliam (Clan)](/setts/s6/dy2g12k10r1b16r2~x4/)|
 |![MacWilliam (Clan) example sett](/setts/s6/dy2g12k10r1b16r2~x4/sett.png)|
 
-### DY G K R DB R <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DY G K R DB R</span></span>
+### R DB R K DG DY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">R DB R K DG DY</span></span>
+
+| Tartans |
+|---------------|
+| [MacWilliam Hunting](/setts/s6/dy2dg44k10r1db16r1~x2/)|
+|![MacWilliam Hunting example sett](/setts/s6/dy2dg44k10r1db16r1~x2/sett.png)|
+
+### R DB R K G DY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">R DB R K G DY</span></span>
 
 | Tartans |
 |---------------|

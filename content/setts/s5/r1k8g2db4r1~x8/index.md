@@ -2,7 +2,7 @@
 title: "Nairn"
 date: 2023-03-18
 ---
-**Bands:** [RBGKR](/stripes/rbgkr/) · **Stripes:** [R DB G K R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB G K R</span></span>
+**Bands:** [RKGBR](/stripes/rkgbr/) · **Stripes:** [R K G DB R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K G DB R</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
@@ -32,7 +32,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-R/8 DB32 G16 K64 R/8
+R/8 K64 G16 DB32 R/8
 ![Sett](sett.png)
 
 ## Palette
@@ -47,7 +47,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "R/8 DB32 G16 K64 R/8 tartan")
+![Tartan detail](tartan.png "R/8 K64 G16 DB32 R/8 tartan")
 
 ## Nearest tartans
 
@@ -66,8 +66,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g7db1g1k4dp4k1~x4/"><circle cx="233.2" cy="248.6" r="4" fill="#3465a4"><title>MacArthur of Milton (Clan)</title></circle></a><a href="/setts/s5/k14r4k25db30w4~x2/"><circle cx="285.3" cy="262.6" r="4" fill="#3465a4"><title>Britannia</title></circle></a><a href="/setts/s4/db1n6k6r1~x10/"><circle cx="253.7" cy="274.7" r="4" fill="#3465a4"><title>Mayer, Chris (Personal)</title></circle></a><a href="/setts/s6/g14db2g2k8dp9k2~x2/"><circle cx="221.2" cy="245.2" r="4" fill="#3465a4"><title>MacArthur of Milton Hunting Clan Tartan Tartan Number: 700. Earliest known date: 1823 This is the older of the two MacArthur setts, which links the clan with the Campbells. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/k42w5dg16k5k5db21~x2/"><circle cx="306.2" cy="242.1" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/setts/s6/k3dg11k3dr11k18o3~x2/"><circle cx="267.9" cy="274.6" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/setts/s6/k42w5k5dg16k5db21~x2/"><circle cx="309.1" cy="244.8" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/setts/s7/db13dg8r5db3dg2r1ly1~x4/"><circle cx="283.8" cy="207.2" r="4" fill="#3465a4"><title>Fibonacci7</title></circle></a><a href="/setts/s8/dg8r2dg2r3dg8db12dg2ly2~x2/"><circle cx="263.8" cy="246.1" r="4" fill="#3465a4"><title>Glen Nevis #1 (Fashion)</title></circle></a><a href="/setts/s7/r3k12g4db12r1k2r1~x4/"><circle cx="243.6" cy="206.3" r="4" fill="#3465a4"><title>Sandberg</title></circle></a><circle cx="274.2" cy="244.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g7db1g1k4dp4k1~x4/"><circle cx="233.3" cy="248.6" r="4" fill="#3465a4"><title>MacArthur of Milton (Clan)</title></circle></a><a href="/setts/s5/k14r4k25db30w4~x2/"><circle cx="285.5" cy="262.5" r="4" fill="#3465a4"><title>Britannia</title></circle></a><a href="/setts/s4/db1n6k6r1~x10/"><circle cx="253.8" cy="274.6" r="4" fill="#3465a4"><title>Mayer, Chris (Personal)</title></circle></a><a href="/setts/s6/g14db2g2k8dp9k2~x2/"><circle cx="221.3" cy="245.2" r="4" fill="#3465a4"><title>MacArthur of Milton Hunting Clan Tartan Tartan Number: 700. Earliest known date: 1823 This is the older of the two MacArthur setts, which links the clan with the Campbells. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/k42w5dg16k5k5db21~x2/"><circle cx="306.3" cy="242.0" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/setts/s6/k3dg11k3dr11k18o3~x2/"><circle cx="268.1" cy="274.6" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/setts/s6/k42w5k5dg16k5db21~x2/"><circle cx="309.3" cy="244.8" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/setts/s7/db13dg8r5db3dg2r1ly1~x4/"><circle cx="283.8" cy="207.2" r="4" fill="#3465a4"><title>Fibonacci7</title></circle></a><a href="/setts/s8/dg8r2dg2r3dg8db12dg2ly2~x2/"><circle cx="264.0" cy="246.1" r="4" fill="#3465a4"><title>Glen Nevis #1 (Fashion)</title></circle></a><a href="/setts/s7/r3k12g4db12r1k2r1~x4/"><circle cx="243.7" cy="206.3" r="4" fill="#3465a4"><title>Sandberg</title></circle></a><circle cx="274.4" cy="244.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/r1k8g2db4r1~x8/

@@ -22,6 +22,6 @@ WGGRWRRWWW
 
 | Tartans |
 |---------------|
-| [Ribbons of Hope](/setts/s10/lp3w3lp8r5r10w4r12g4g6w3~x2/)|
-|![Ribbons of Hope example sett](/setts/s10/lp3w3lp8r5r10w4r12g4g6w3~x2/sett.png)|
+| [Ribbons of Hope](/setts/s10/w3g6g4r12w4r10r5lp8w3lp3~x2/)|
+|![Ribbons of Hope example sett](/setts/s10/w3g6g4r12w4r10r5lp8w3lp3~x2/sett.png)|
 

@@ -20,7 +20,7 @@ BYGG
 
 
 
-### DP LY DY Y <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DP LY DY Y</span></span>
+### Y DY LY DP <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">Y DY LY DP</span></span>
 
 | Tartans |
 |---------------|

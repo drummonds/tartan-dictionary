@@ -20,7 +20,7 @@ BYWKGR
 
 
 
-### DO LO W K DG R <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">DO LO W K DG R</span></span>
+### R DG K W LO DO <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="seq">R DG K W LO DO</span></span>
 
 | Tartans |
 |---------------|

@@ -18,7 +18,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2669
 
 ## Thread count
-K/4 Ga8 W8 K8 G44 K4 B56 Y/8
+Y/8 B56 K4 G44 K8 W8 Ga8 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -35,7 +35,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/4 Ga8 W8 K8 G44 K4 B56 Y/8 tartan")
+![Tartan detail](tartan.png "Y/8 B56 K4 G44 K8 W8 Ga8 K/4 tartan")
 
 ## Nearest tartans
 
@@ -44,18 +44,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Mission](/setts/s8/o2t14k1g11k2lr2g2k1~x4/) — ΔT 0.50
 1. [Currie of Arran (Clan/family)](/setts/s11/b16w3b2ly4g24r2g4r5g4r2lb8~x2/) — ΔT 0.96
 1. [Dunedin (USA) (District)](/setts/s9/w3t25k3r3k3r8g21k3k2~x2/) — ΔT 0.98
-1. [Hogg Dress (Name)](/setts/s9/t34r3t8db4t8k24g34k2w6/) — ΔT 0.99
+1. [Hogg Dress (Name)](/setts/s9/t34r3t8db4t8k24g34k2w6/) — ΔT 1.00
 1. [Gallagher Ancient](/setts/s9/db4dg41lo4g4lo4g9r18lo4w4~x2/) — ΔT 1.05
 1. [Iroquois Falls Centenary](/setts/s8/g18lg6dy3w1dy3w1lt6db6~x2/) — ΔT 1.05
-1. [Hek Family (Sunningdale, Berwick on Tweed)](/setts/s9/lt1w2g12k2lt2k2n15lt2ly1~x2/) — ΔT 1.07
+1. [Hek Family (Sunningdale, Berwick on Tweed)](/setts/s9/ly1lt2n15k2lt2k2g12w2lt1~x2/) — ΔT 1.07
 1. [MacManus](/setts/s9/w3ly2g8ly2k3ly2n15k1ly2~x4/) — ΔT 1.08
 1. [Royal British Legion, The](/setts/s7/r6b2g20k3db8g2b4~x2/) — ΔT 1.09
 1. [Ayrshire](/setts/s8/db2r1db10w1o4g8ly1g2~x4/) — ΔT 1.09
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/o2t14k1g11k2lr2g2k1~x4/"><circle cx="174.6" cy="135.3" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/setts/s11/b16w3b2ly4g24r2g4r5g4r2lb8~x2/"><circle cx="163.8" cy="126.4" r="4" fill="#3465a4"><title>Currie of Arran (Clan/family)</title></circle></a><a href="/setts/s9/w3t25k3r3k3r8g21k3k2~x2/"><circle cx="140.3" cy="131.1" r="4" fill="#3465a4"><title>Dunedin (USA) (District)</title></circle></a><a href="/setts/s9/t34r3t8db4t8k24g34k2w6/"><circle cx="181.6" cy="141.6" r="4" fill="#3465a4"><title>Hogg Dress (Name)</title></circle></a><a href="/setts/s9/db4dg41lo4g4lo4g9r18lo4w4~x2/"><circle cx="203.6" cy="143.3" r="4" fill="#3465a4"><title>Gallagher Ancient</title></circle></a><a href="/setts/s8/g18lg6dy3w1dy3w1lt6db6~x2/"><circle cx="147.0" cy="129.0" r="4" fill="#3465a4"><title>Iroquois Falls Centenary</title></circle></a><a href="/setts/s9/lt1w2g12k2lt2k2n15lt2ly1~x2/"><circle cx="182.5" cy="123.8" r="4" fill="#3465a4"><title>Hek Family (Sunningdale, Berwick on Tweed)</title></circle></a><a href="/setts/s9/w3ly2g8ly2k3ly2n15k1ly2~x4/"><circle cx="173.1" cy="141.1" r="4" fill="#3465a4"><title>MacManus</title></circle></a><a href="/setts/s7/r6b2g20k3db8g2b4~x2/"><circle cx="168.6" cy="164.1" r="4" fill="#3465a4"><title>Royal British Legion, The</title></circle></a><a href="/setts/s8/db2r1db10w1o4g8ly1g2~x4/"><circle cx="192.1" cy="172.4" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><circle cx="181.8" cy="136.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/o2t14k1g11k2lr2g2k1~x4/"><circle cx="174.6" cy="135.4" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/setts/s11/b16w3b2ly4g24r2g4r5g4r2lb8~x2/"><circle cx="163.7" cy="126.4" r="4" fill="#3465a4"><title>Currie of Arran (Clan/family)</title></circle></a><a href="/setts/s9/w3t25k3r3k3r8g21k3k2~x2/"><circle cx="140.2" cy="131.2" r="4" fill="#3465a4"><title>Dunedin (USA) (District)</title></circle></a><a href="/setts/s9/t34r3t8db4t8k24g34k2w6/"><circle cx="181.6" cy="141.7" r="4" fill="#3465a4"><title>Hogg Dress (Name)</title></circle></a><a href="/setts/s9/db4dg41lo4g4lo4g9r18lo4w4~x2/"><circle cx="203.4" cy="143.4" r="4" fill="#3465a4"><title>Gallagher Ancient</title></circle></a><a href="/setts/s8/g18lg6dy3w1dy3w1lt6db6~x2/"><circle cx="146.9" cy="129.0" r="4" fill="#3465a4"><title>Iroquois Falls Centenary</title></circle></a><a href="/setts/s9/ly1lt2n15k2lt2k2g12w2lt1~x2/"><circle cx="182.4" cy="123.9" r="4" fill="#3465a4"><title>Hek Family (Sunningdale, Berwick on Tweed)</title></circle></a><a href="/setts/s9/w3ly2g8ly2k3ly2n15k1ly2~x4/"><circle cx="173.0" cy="141.1" r="4" fill="#3465a4"><title>MacManus</title></circle></a><a href="/setts/s7/r6b2g20k3db8g2b4~x2/"><circle cx="168.6" cy="164.2" r="4" fill="#3465a4"><title>Royal British Legion, The</title></circle></a><a href="/setts/s8/db2r1db10w1o4g8ly1g2~x4/"><circle cx="192.0" cy="172.5" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><circle cx="181.7" cy="136.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/lo2t14k1g11k2w2g2k1~x4/

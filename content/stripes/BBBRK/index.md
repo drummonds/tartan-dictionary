@@ -20,7 +20,7 @@ BBBRK
 
 
 
-### DT DB DB M K <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="seq">DT DB DB M K</span></span>
+### K M DB DB DT <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="seq">K M DB DB DT</span></span>
 
 | Tartans |
 |---------------|

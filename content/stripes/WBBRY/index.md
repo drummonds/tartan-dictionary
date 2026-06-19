@@ -20,7 +20,7 @@ WBBRY
 
 
 
-### LB DB T R LR <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">LB DB T R LR</span></span>
+### LR R T DB LB <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LR R T DB LB</span></span>
 
 | Tartans |
 |---------------|

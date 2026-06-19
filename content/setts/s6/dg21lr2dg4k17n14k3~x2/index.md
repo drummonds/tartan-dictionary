@@ -2,7 +2,7 @@
 title: "Graham W"
 date: 2023-03-18
 ---
-**Bands:** [GYGKBK](/stripes/gygkbk/) · **Stripes:** [DG LR DG K N K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="seq">DG LR DG K N K</span></span>
+**Bands:** [KBKGYG](/stripes/kbkgyg/) · **Stripes:** [K N K DG LR DG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="seq">K N K DG LR DG</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -88,14 +88,14 @@ The nearest existing variants by ΔTartan distance.
 1. [MacCallum](/setts/s7/dg8k2lb1dg4k6db6k1~x2/) — ΔT 1.00
 1. [Wilson's, No 150 "Coburg"](/setts/s6/g18t2g4k14p12k3~x2/) — ΔT 1.03
 1. [Mowat](/setts/s7/db48k6db10k46ly4k22g43/) — ΔT 1.05
-1. [Gunn](/setts/s6/dg2db12dg1k12dg12r2~x2/) — ΔT 1.05
-1. [Ferguson of Balquhidder](/setts/s6/g2db12r1k12g12k2~x2/) — ΔT 1.06
+1. [Gunn](/setts/s6/dg2db12dg1k12dg12r2/) — ΔT 1.05
+1. [Ferguson of Balquhidder](/setts/s6/k2g12k12r1db12g2~x2/) — ΔT 1.06
 1. [Gunn](/setts/s6/r2g12k12g1db12g1~x2/) — ΔT 1.07
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dg21lr2dg4k17n14k3/"><circle cx="211.8" cy="227.0" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/setts/s6/k5lr2dg18k17n16k3~x2/"><circle cx="195.1" cy="234.7" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/setts/s6/k5lr2dg18k17n16k3/"><circle cx="195.1" cy="234.7" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/setts/s6/dg21lb2dg4k17dp14k3/"><circle cx="200.6" cy="222.3" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/setts/s7/dg8k2lb1dg4k6db6k1~x2/"><circle cx="194.1" cy="245.1" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/setts/s6/g18t2g4k14p12k3~x2/"><circle cx="176.9" cy="220.2" r="4" fill="#3465a4"><title>Wilson's, No 150 &quot;Coburg&quot;</title></circle></a><a href="/setts/s7/db48k6db10k46ly4k22g43/"><circle cx="192.5" cy="210.4" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/setts/s6/dg2db12dg1k12dg12r2~x2/"><circle cx="203.5" cy="228.4" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/setts/s6/g2db12r1k12g12k2~x2/"><circle cx="171.4" cy="211.9" r="4" fill="#3465a4"><title>Ferguson of Balquhidder</title></circle></a><a href="/setts/s6/r2g12k12g1db12g1~x2/"><circle cx="173.0" cy="206.1" r="4" fill="#3465a4"><title>Gunn</title></circle></a><circle cx="211.8" cy="227.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dg21lr2dg4k17n14k3/"><circle cx="212.0" cy="226.9" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/setts/s6/k5lr2dg18k17n16k3~x2/"><circle cx="195.4" cy="234.6" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/setts/s6/k5lr2dg18k17n16k3/"><circle cx="195.4" cy="234.6" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/setts/s6/dg21lb2dg4k17dp14k3/"><circle cx="200.8" cy="222.2" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/setts/s7/dg8k2lb1dg4k6db6k1~x2/"><circle cx="194.4" cy="245.0" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/setts/s6/g18t2g4k14p12k3~x2/"><circle cx="177.0" cy="220.1" r="4" fill="#3465a4"><title>Wilson's, No 150 &quot;Coburg&quot;</title></circle></a><a href="/setts/s7/db48k6db10k46ly4k22g43/"><circle cx="192.7" cy="210.3" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/setts/s6/dg2db12dg1k12dg12r2/"><circle cx="203.8" cy="228.4" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/setts/s6/k2g12k12r1db12g2~x2/"><circle cx="171.6" cy="211.8" r="4" fill="#3465a4"><title>Ferguson of Balquhidder</title></circle></a><a href="/setts/s6/r2g12k12g1db12g1~x2/"><circle cx="173.1" cy="206.0" r="4" fill="#3465a4"><title>Gunn</title></circle></a><circle cx="212.0" cy="226.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/dg21lr2dg4k17n14k3~x2/

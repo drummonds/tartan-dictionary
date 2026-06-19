@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2974
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Moffat District
+
 ## Attestations
 
 This cloth appears in 4 source records; the oldest owns this page.
@@ -320,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -894,7 +903,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/2 R4 DB4 R16 G32 R24 DB2 R2 DB32 R/128
+R/128 DB32 R2 DB2 R24 G32 R16 DB4 R4 K/2
 ![Sett](sett.png)
 
 ## Palette
@@ -924,8 +933,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r50db3g6db1r3db1g8k1lb3~x2/"><circle cx="507.4" cy="66.8" r="4" fill="#3465a4"><title>MacAulay of Ardincaple (Clan)</title></circle></a><a href="/setts/s11/r96g24r10g12k1w4k1g12r10g24r48~x2/"><circle cx="500.0" cy="103.4" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s7/r68db9t10db13ly1db1ly2~x2/"><circle cx="497.5" cy="107.7" r="4" fill="#3465a4"><title>13, Legion Branch 50</title></circle></a><a href="/setts/s10/r40w1r1dt8r1w1r6w1r1dt8~x2/"><circle cx="547.3" cy="100.0" r="4" fill="#3465a4"><title>Miyuki #2</title></circle></a><a href="/setts/s9/r96db1dg24db1r10db1dg12k1w4~x2/"><circle cx="514.3" cy="61.8" r="4" fill="#3465a4"><title>MacAulay (MacGregor)</title></circle></a><a href="/setts/s8/r70b1r2g12k2g1k10w1~x2/"><circle cx="528.0" cy="67.9" r="4" fill="#3465a4"><title>Zamzam (Personal)</title></circle></a><a href="/setts/s6/r70k1dt12k1g12k1~x2/"><circle cx="550.8" cy="117.8" r="4" fill="#3465a4"><title>Lawers Estate (Corporate)</title></circle></a><a href="/setts/s16/r80w2r5k10r6o4r4k2o6k2r10o4r8k10r5w2/"><circle cx="537.2" cy="67.3" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><a href="/setts/s10/r80w7k2w2k2r3k7r2p12k2~x2/"><circle cx="510.3" cy="64.5" r="4" fill="#3465a4"><title>Masai Shuka 05 (Artefact)</title></circle></a><a href="/setts/s8/r48lr4db4k4r12db4r1ly4~x2/"><circle cx="518.2" cy="81.5" r="4" fill="#3465a4"><title>Brodie</title></circle></a><circle cx="525.1" cy="92.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r50db3g6db1r3db1g8k1lb3~x2/"><circle cx="506.7" cy="66.7" r="4" fill="#3465a4"><title>MacAulay of Ardincaple (Clan)</title></circle></a><a href="/setts/s11/r96g24r10g12k1w4k1g12r10g24r48~x2/"><circle cx="499.3" cy="103.2" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s7/r68db9t10db13ly1db1ly2~x2/"><circle cx="497.0" cy="107.6" r="4" fill="#3465a4"><title>13, Legion Branch 50</title></circle></a><a href="/setts/s10/r40w1r1dt8r1w1r6w1r1dt8~x2/"><circle cx="546.6" cy="99.7" r="4" fill="#3465a4"><title>Miyuki #2</title></circle></a><a href="/setts/s9/r96db1dg24db1r10db1dg12k1w4~x2/"><circle cx="513.7" cy="61.6" r="4" fill="#3465a4"><title>MacAulay (MacGregor)</title></circle></a><a href="/setts/s8/r70b1r2g12k2g1k10w1~x2/"><circle cx="527.3" cy="67.7" r="4" fill="#3465a4"><title>Zamzam (Personal)</title></circle></a><a href="/setts/s6/r70k1dt12k1g12k1~x2/"><circle cx="550.2" cy="117.5" r="4" fill="#3465a4"><title>Lawers Estate (Corporate)</title></circle></a><a href="/setts/s16/r80w2r5k10r6o4r4k2o6k2r10o4r8k10r5w2/"><circle cx="536.6" cy="67.1" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><a href="/setts/s10/r80w7k2w2k2r3k7r2p12k2~x2/"><circle cx="509.6" cy="64.2" r="4" fill="#3465a4"><title>Masai Shuka 05 (Artefact)</title></circle></a><a href="/setts/s8/r48lr4db4k4r12db4r1ly4~x2/"><circle cx="517.7" cy="81.3" r="4" fill="#3465a4"><title>Brodie</title></circle></a><circle cx="524.5" cy="92.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r64db16r1db1r12g16r8db2r2k1~x2/

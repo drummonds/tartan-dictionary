@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2622
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacLellan/McLellan
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -46,7 +52,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacLellan, Blue McLellan](/setts/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1g7w1ly2~x2/) — ΔT 0.61
 1. [Wcwm 1572-1](/setts/s17/db4lb6r2do6b2db4b2do6lo1do2r2lb2r2do2lo1do6b2~x4/) — ΔT 0.87
-1. [MacLellan, McLellan hunting](/setts/s14/ly2g7r2db5k1db5w1db5k1db5r2k5db7r2~x2/) — ΔT 0.90
+1. [MacLellan, McLellan hunting](/setts/s14/r2db7k5r2db5k1db5w1db5k1db5r2g7ly2~x2/) — ΔT 0.90
 1. [Salich-Plaja of St. Genis (Personal)](/setts/s13/db13w3db13k3db3k8db3k15ly3r3g3w3r3~x2/) — ΔT 1.09
 1. [MacLellan/McLellan Hunting (Personal)](/setts/s14/k2db7k5r2db5k2db5w1db5k1db5r2dg7ly2~x4/) — ΔT 1.17
 1. [Encyclopaedia Britannica (Corporate)](/setts/s14/g12k5db18k5w5k5db18k3db6k3db6k5g12r5~x2/) — ΔT 1.22
@@ -57,8 +63,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1g7w1ly2~x2/"><circle cx="117.1" cy="156.3" r="4" fill="#3465a4"><title>MacLellan, Blue McLellan</title></circle></a><a href="/setts/s17/db4lb6r2do6b2db4b2do6lo1do2r2lb2r2do2lo1do6b2~x4/"><circle cx="89.5" cy="164.8" r="4" fill="#3465a4"><title>Wcwm 1572-1</title></circle></a><a href="/setts/s14/ly2g7r2db5k1db5w1db5k1db5r2k5db7r2~x2/"><circle cx="166.4" cy="175.2" r="4" fill="#3465a4"><title>MacLellan, McLellan hunting</title></circle></a><a href="/setts/s13/db13w3db13k3db3k8db3k15ly3r3g3w3r3~x2/"><circle cx="122.6" cy="171.9" r="4" fill="#3465a4"><title>Salich-Plaja of St. Genis (Personal)</title></circle></a><a href="/setts/s14/k2db7k5r2db5k2db5w1db5k1db5r2dg7ly2~x4/"><circle cx="182.2" cy="191.7" r="4" fill="#3465a4"><title>MacLellan/McLellan Hunting (Personal)</title></circle></a><a href="/setts/s14/g12k5db18k5w5k5db18k3db6k3db6k5g12r5~x2/"><circle cx="150.1" cy="198.7" r="4" fill="#3465a4"><title>Encyclopaedia Britannica (Corporate)</title></circle></a><a href="/setts/s12/db18k3db5k3db18g6k5g6o12r5o12r3~x2/"><circle cx="132.4" cy="191.2" r="4" fill="#3465a4"><title>Longford Irish County Tartan Tartan Number: 2281. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/db12k2db2k2r3k2t6k2w2k2t6k2ly2k2db6k2r2~x2/"><circle cx="85.8" cy="151.8" r="4" fill="#3465a4"><title>Kilburnie (Fashion)</title></circle></a><a href="/setts/s16/t4db6g1w1r1db6t4db2lo1db1lo1db1lo1db2lo3db3~x4/"><circle cx="182.9" cy="161.6" r="4" fill="#3465a4"><title>de Baseggio (Golden Bones)</title></circle></a><a href="/setts/s12/db20b6k8ly2k4w4k4db13r7k4r4w2~x2/"><circle cx="129.6" cy="145.6" r="4" fill="#3465a4"><title>Stuart/Stewart Black</title></circle></a><circle cx="129.6" cy="161.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1g7w1ly2~x2/"><circle cx="117.1" cy="156.3" r="4" fill="#3465a4"><title>MacLellan, Blue McLellan</title></circle></a><a href="/setts/s17/db4lb6r2do6b2db4b2do6lo1do2r2lb2r2do2lo1do6b2~x4/"><circle cx="89.5" cy="164.9" r="4" fill="#3465a4"><title>Wcwm 1572-1</title></circle></a><a href="/setts/s14/r2db7k5r2db5k1db5w1db5k1db5r2g7ly2~x2/"><circle cx="166.4" cy="175.2" r="4" fill="#3465a4"><title>MacLellan, McLellan hunting</title></circle></a><a href="/setts/s13/db13w3db13k3db3k8db3k15ly3r3g3w3r3~x2/"><circle cx="122.7" cy="172.0" r="4" fill="#3465a4"><title>Salich-Plaja of St. Genis (Personal)</title></circle></a><a href="/setts/s14/k2db7k5r2db5k2db5w1db5k1db5r2dg7ly2~x4/"><circle cx="182.3" cy="191.7" r="4" fill="#3465a4"><title>MacLellan/McLellan Hunting (Personal)</title></circle></a><a href="/setts/s14/g12k5db18k5w5k5db18k3db6k3db6k5g12r5~x2/"><circle cx="150.2" cy="198.7" r="4" fill="#3465a4"><title>Encyclopaedia Britannica (Corporate)</title></circle></a><a href="/setts/s12/db18k3db5k3db18g6k5g6o12r5o12r3~x2/"><circle cx="132.6" cy="191.3" r="4" fill="#3465a4"><title>Longford Irish County Tartan Tartan Number: 2281. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/db12k2db2k2r3k2t6k2w2k2t6k2ly2k2db6k2r2~x2/"><circle cx="85.9" cy="152.0" r="4" fill="#3465a4"><title>Kilburnie (Fashion)</title></circle></a><a href="/setts/s16/t4db6g1w1r1db6t4db2lo1db1lo1db1lo1db2lo3db3~x4/"><circle cx="182.9" cy="161.6" r="4" fill="#3465a4"><title>de Baseggio (Golden Bones)</title></circle></a><a href="/setts/s12/db20b6k8ly2k4w4k4db13r7k4r4w2~x2/"><circle cx="129.7" cy="145.7" r="4" fill="#3465a4"><title>Stuart/Stewart Black</title></circle></a><circle cx="129.7" cy="161.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1dg7w1ly2~x4/

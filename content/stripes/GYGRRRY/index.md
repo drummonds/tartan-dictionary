@@ -20,7 +20,7 @@ GYGRRRY
 
 
 
-### Y LY G O O R LY <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">Y LY G O O R LY</span></span>
+### LY R O O G LY Y <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LY R O O G LY Y</span></span>
 
 | Tartans |
 |---------------|

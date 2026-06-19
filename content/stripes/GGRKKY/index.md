@@ -20,7 +20,7 @@ GGRKKY
 
 
 
-### DG G R K K LY <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DG G R K K LY</span></span>
+### LY K K R G DG <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="seq">LY K K R G DG</span></span>
 
 | Tartans |
 |---------------|

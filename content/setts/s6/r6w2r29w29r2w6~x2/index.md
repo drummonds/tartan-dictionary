@@ -320,6 +320,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +421,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +681,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -934,8 +937,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r5w2r25w25r2w5~x2/"><circle cx="341.8" cy="192.4" r="4" fill="#3465a4"><title>Erskine Dress Burgandy Clan Tartan Tartan Number: 1972. Earliest known date: 1971 A popular Dress tartan for Scottish Highland Dancing. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/k2w28r13w2r13w2~x2/"><circle cx="323.4" cy="170.9" r="4" fill="#3465a4"><title>Buchanan #5</title></circle></a><a href="/setts/s6/r2w1r9w9r1w2~x6/"><circle cx="322.2" cy="198.4" r="4" fill="#3465a4"><title>Erskine Red &amp; White (Dance)</title></circle></a><a href="/setts/s6/dp6w2dp29w29dp2w6~x2/"><circle cx="341.9" cy="186.9" r="4" fill="#3465a4"><title>Erskine Purple (Dance) Fashion Tartan Tartan Number: 6534. Earliest known date: 01/01/1980 A dancers' tartan now woven by D C Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/dp2w1dp9w9dp1w2~x6/"><circle cx="310.3" cy="203.7" r="4" fill="#3465a4"><title>Erskine Purple (Dance)</title></circle></a><a href="/setts/s8/k1r1w1r15w15r1w1k1~x4/"><circle cx="324.2" cy="129.4" r="4" fill="#3465a4"><title>Bundy, Dress Red (Personal Dance)</title></circle></a><a href="/setts/s5/lb45r2g9lb2r30~x2/"><circle cx="336.2" cy="164.3" r="4" fill="#3465a4"><title>Malaysian Unknown (Artefact)</title></circle></a><a href="/setts/s10/w18r9w1r1w2r1w1r9db3r4~x4/"><circle cx="320.2" cy="131.1" r="4" fill="#3465a4"><title>Swiss Red</title></circle></a><a href="/setts/s6/r8r3r28w32r3w4~x2/"><circle cx="293.5" cy="179.3" r="4" fill="#3465a4"><title>Ailsa, Red V2 (Dance)</title></circle></a><a href="/setts/s6/w8r14w8r14w35k4~x2/"><circle cx="303.9" cy="198.6" r="4" fill="#3465a4"><title>Clayton Dress (Dance)</title></circle></a><circle cx="333.0" cy="179.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r5w2r25w25r2w5~x2/"><circle cx="341.3" cy="192.0" r="4" fill="#3465a4"><title>Erskine Dress Burgandy Clan Tartan Tartan Number: 1972. Earliest known date: 1971 A popular Dress tartan for Scottish Highland Dancing. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/k2w28r13w2r13w2~x2/"><circle cx="322.9" cy="170.6" r="4" fill="#3465a4"><title>Buchanan #5</title></circle></a><a href="/setts/s6/r2w1r9w9r1w2~x6/"><circle cx="321.6" cy="198.0" r="4" fill="#3465a4"><title>Erskine Red &amp; White (Dance)</title></circle></a><a href="/setts/s6/dp6w2dp29w29dp2w6~x2/"><circle cx="341.5" cy="186.5" r="4" fill="#3465a4"><title>Erskine Purple (Dance) Fashion Tartan Tartan Number: 6534. Earliest known date: 01/01/1980 A dancers' tartan now woven by D C Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/dp2w1dp9w9dp1w2~x6/"><circle cx="309.8" cy="203.3" r="4" fill="#3465a4"><title>Erskine Purple (Dance)</title></circle></a><a href="/setts/s8/k1r1w1r15w15r1w1k1~x4/"><circle cx="323.6" cy="129.2" r="4" fill="#3465a4"><title>Bundy, Dress Red (Personal Dance)</title></circle></a><a href="/setts/s5/lb45r2g9lb2r30~x2/"><circle cx="335.7" cy="164.0" r="4" fill="#3465a4"><title>Malaysian Unknown (Artefact)</title></circle></a><a href="/setts/s10/w18r9w1r1w2r1w1r9db3r4~x4/"><circle cx="319.6" cy="130.9" r="4" fill="#3465a4"><title>Swiss Red</title></circle></a><a href="/setts/s6/r8r3r28w32r3w4~x2/"><circle cx="293.0" cy="179.1" r="4" fill="#3465a4"><title>Ailsa, Red V2 (Dance)</title></circle></a><a href="/setts/s6/w8r14w8r14w35k4~x2/"><circle cx="303.4" cy="198.2" r="4" fill="#3465a4"><title>Clayton Dress (Dance)</title></circle></a><circle cx="332.5" cy="178.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r6w2r29w29r2w6~x2/

@@ -2,12 +2,18 @@
 title: "Gandy of Myrton (Name)"
 date: 2023-03-18
 ---
-**Bands:** [BBKBWR](/stripes/bbkbwr/) · **Stripes:** [DT T K DT W R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DT T K DT W R</span></span>
+**Bands:** [RWBKBB](/stripes/rwbkbb/) · **Stripes:** [R W DT K T DT](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="seq">R W DT K T DT</span></span>
 
 
 This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7564/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Gandy of Myrton Clan/Family
 
 ## Attestations
 
@@ -25,7 +31,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7564
 
 ## Thread count
-DB/20 B20 K20 DB40 LN10 R/28
+R/28 LN10 DB40 K20 B20 DB/20
 ![Sett](sett.png)
 
 ## Palette
@@ -41,7 +47,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/20 B20 K20 DB40 LN10 R/28 tartan")
+![Tartan detail](tartan.png "R/28 LN10 DB40 K20 B20 DB/20 tartan")
 
 ## Nearest tartans
 
@@ -53,15 +59,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Devon Companion](/setts/s7/o5db4ly1db4k4dy4w1~x4/) — ΔT 1.30
 1. [Austin (Wilson's No 173)](/setts/s5/dp3k3dp3dg6ly2~x2/) — ΔT 1.30
 1. [Blue](/setts/s6/n14r4n14t15db13w3~x2/) — ΔT 1.31
-1. [Inspiration](/setts/s5/lo5dt21ly11t12r5~x2/) — ΔT 1.32
+1. [Inspiration](/setts/s5/r5t12ly11dt21lo5~x2/) — ΔT 1.32
 1. [Devon Companion District Tartan Tartan Number: 1283. Earliest known date: 1984 The Devon Original and Devon Companion owe their origin to the success of the Cornish St Piran sett, which was woven by Coldharbour Mill in the early 1980's. The accreditation certificate was presented to the Mayor of Barnstaple in 1991. In a poem describing the tartan, Miss M. Miles says, "So, in the mind, Devon's beauty is retrieved By contemplating Devon's tartan's weave." See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/o5db4ly1db4k4dr4w1~x4/) — ΔT 1.36
 1. [Gala Water Old](/setts/s5/k19t10dp19dg40ly10/) — ΔT 1.37
 1. [Friebe (2014)](/setts/s5/g15dg18db23w4r8~x2/) — ΔT 1.38
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/lo2db4k1db4m4lo4db1~x8/"><circle cx="115.3" cy="249.7" r="4" fill="#3465a4"><title>Isle of Gigha (District)</title></circle></a><a href="/setts/s7/k4n4lo1n4r4db4w1~x8/"><circle cx="58.9" cy="244.8" r="4" fill="#3465a4"><title>Blackdown Hills Corporate Tartan Tartan Number: 6711. Earliest known date: 1991 The Blackdown Hills on the Devon/Somerset border were designated as an Area of Outstanding Natural Beauty (AONB) in 1991 and this tartan was designed to celebrate that occasion. Designed at Coldharbour Mill at Cullompton in Devon. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r9dt6db13dt21y18w4~x2/"><circle cx="122.8" cy="254.3" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><a href="/setts/s7/o5db4ly1db4k4dy4w1~x4/"><circle cx="52.9" cy="230.1" r="4" fill="#3465a4"><title>Devon Companion</title></circle></a><a href="/setts/s5/dp3k3dp3dg6ly2~x2/"><circle cx="93.3" cy="304.1" r="4" fill="#3465a4"><title>Austin (Wilson's No 173)</title></circle></a><a href="/setts/s6/n14r4n14t15db13w3~x2/"><circle cx="147.9" cy="261.9" r="4" fill="#3465a4"><title>Blue</title></circle></a><a href="/setts/s5/lo5dt21ly11t12r5~x2/"><circle cx="98.0" cy="246.4" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/setts/s7/o5db4ly1db4k4dr4w1~x4/"><circle cx="55.0" cy="231.7" r="4" fill="#3465a4"><title>Devon Companion District Tartan Tartan Number: 1283. Earliest known date: 1984 The Devon Original and Devon Companion owe their origin to the success of the Cornish St Piran sett, which was woven by Coldharbour Mill in the early 1980's. The accreditation certificate was presented to the Mayor of Barnstaple in 1991. In a poem describing the tartan, Miss M. Miles says, &quot;So, in the mind, Devon's beauty is retrieved By contemplating Devon's tartan's weave.&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k19t10dp19dg40ly10/"><circle cx="113.3" cy="261.2" r="4" fill="#3465a4"><title>Gala Water Old</title></circle></a><a href="/setts/s5/g15dg18db23w4r8~x2/"><circle cx="91.0" cy="249.9" r="4" fill="#3465a4"><title>Friebe (2014)</title></circle></a><circle cx="103.9" cy="267.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/lo2db4k1db4m4lo4db1~x8/"><circle cx="115.5" cy="249.7" r="4" fill="#3465a4"><title>Isle of Gigha (District)</title></circle></a><a href="/setts/s7/k4n4lo1n4r4db4w1~x8/"><circle cx="59.1" cy="244.9" r="4" fill="#3465a4"><title>Blackdown Hills Corporate Tartan Tartan Number: 6711. Earliest known date: 1991 The Blackdown Hills on the Devon/Somerset border were designated as an Area of Outstanding Natural Beauty (AONB) in 1991 and this tartan was designed to celebrate that occasion. Designed at Coldharbour Mill at Cullompton in Devon. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r9dt6db13dt21y18w4~x2/"><circle cx="123.0" cy="254.4" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><a href="/setts/s7/o5db4ly1db4k4dy4w1~x4/"><circle cx="53.1" cy="230.2" r="4" fill="#3465a4"><title>Devon Companion</title></circle></a><a href="/setts/s5/dp3k3dp3dg6ly2~x2/"><circle cx="93.6" cy="304.0" r="4" fill="#3465a4"><title>Austin (Wilson's No 173)</title></circle></a><a href="/setts/s6/n14r4n14t15db13w3~x2/"><circle cx="148.1" cy="261.9" r="4" fill="#3465a4"><title>Blue</title></circle></a><a href="/setts/s5/r5t12ly11dt21lo5~x2/"><circle cx="98.1" cy="246.4" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/setts/s7/o5db4ly1db4k4dr4w1~x4/"><circle cx="55.3" cy="231.8" r="4" fill="#3465a4"><title>Devon Companion District Tartan Tartan Number: 1283. Earliest known date: 1984 The Devon Original and Devon Companion owe their origin to the success of the Cornish St Piran sett, which was woven by Coldharbour Mill in the early 1980's. The accreditation certificate was presented to the Mayor of Barnstaple in 1991. In a poem describing the tartan, Miss M. Miles says, &quot;So, in the mind, Devon's beauty is retrieved By contemplating Devon's tartan's weave.&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k19t10dp19dg40ly10/"><circle cx="113.5" cy="261.2" r="4" fill="#3465a4"><title>Gala Water Old</title></circle></a><a href="/setts/s5/g15dg18db23w4r8~x2/"><circle cx="91.2" cy="249.9" r="4" fill="#3465a4"><title>Friebe (2014)</title></circle></a><circle cx="104.1" cy="267.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r14w5dt20k10t10dt10~x2/

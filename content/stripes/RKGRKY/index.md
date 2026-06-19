@@ -8,7 +8,7 @@ RKGRKY
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/ly4k1r38dg28k2r4~x2/tartan.png)
+![Woven sample](/setts/s6/r4k2dg28r38k1ly4~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RKGRKY
 
 | Tartans |
 |---------------|
-| [Wcwm 9275 5471-1](/setts/s6/ly4k1r38dg28k2r4~x2/)|
-|![Wcwm 9275 5471-1 example sett](/setts/s6/ly4k1r38dg28k2r4~x2/sett.png)|
+| [Wcwm 9275 5471-1](/setts/s6/r4k2dg28r38k1ly4~x2/)|
+|![Wcwm 9275 5471-1 example sett](/setts/s6/r4k2dg28r38k1ly4~x2/sett.png)|
 

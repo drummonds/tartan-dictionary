@@ -2,7 +2,7 @@
 title: "Jack (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GRKGGY](/stripes/grkggy/) · **Stripes:** [G R K DY G LO](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">G R K DY G LO</span></span>
+**Bands:** [YGGKRG](/stripes/yggkrg/) · **Stripes:** [LO G DY K R G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO G DY K R G</span></span>
 
 
 This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/
 Original link http://www.tartansauthority.com/tartan-ferret/display/10719/
 
 ## Thread count
-DY/2 G4 T18 K40 DR104 G/8
+G/8 DR104 K40 T18 G4 DY/2
 ![Sett](sett.png)
 
 ## Palette
@@ -26,15 +26,15 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DY/2 G4 T18 K40 DR104 G/8 tartan")
+![Tartan detail](tartan.png "G/8 DR104 K40 T18 G4 DY/2 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Arbroath Smokie](/setts/s9/lo1r45dt23w1dt6r2lo1r2lo1~x2/) — ΔT 1.29
-1. [Slessor (Personal)](/setts/s8/db2lo4db2lo12r50dg11lo1dg2~x2/) — ΔT 1.38
-1. [Wcwm 9275 5471-1](/setts/s6/ly4k1r38dg28k2r4~x2/) — ΔT 1.57
+1. [Slessor (Personal)](/setts/s8/dg2lo1dg11r50lo12db2lo4db2~x2/) — ΔT 1.38
+1. [Wcwm 9275 5471-1](/setts/s6/r4k2dg28r38k1ly4~x2/) — ΔT 1.57
 1. [MacGregor](/setts/s6/r36dg18r4dg6k1lr2~x2/) — ΔT 1.63
 1. [MacGregor](/setts/s6/r36dg18r4dg6k1lr2/) — ΔT 1.63
 1. [Laporte](/setts/s10/y8r6k4r64o1k28r6y40r6k4~x2/) — ΔT 1.68
@@ -45,8 +45,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lo1r45dt23w1dt6r2lo1r2lo1~x2/"><circle cx="433.9" cy="100.2" r="4" fill="#3465a4"><title>Arbroath Smokie</title></circle></a><a href="/setts/s8/db2lo4db2lo12r50dg11lo1dg2~x2/"><circle cx="460.2" cy="116.1" r="4" fill="#3465a4"><title>Slessor (Personal)</title></circle></a><a href="/setts/s6/ly4k1r38dg28k2r4~x2/"><circle cx="413.8" cy="158.3" r="4" fill="#3465a4"><title>Wcwm 9275 5471-1</title></circle></a><a href="/setts/s6/r36dg18r4dg6k1lr2~x2/"><circle cx="451.4" cy="156.5" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s6/r36dg18r4dg6k1lr2/"><circle cx="451.4" cy="156.5" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s10/y8r6k4r64o1k28r6y40r6k4~x2/"><circle cx="395.0" cy="129.9" r="4" fill="#3465a4"><title>Laporte</title></circle></a><a href="/setts/s9/o64dr9o11dr4lb2lo2n5dr2lo13~x2/"><circle cx="391.2" cy="96.8" r="4" fill="#3465a4"><title>Down, County</title></circle></a><a href="/setts/s8/r26n4r1p2dg1n4dg14w2~x2/"><circle cx="347.4" cy="139.9" r="4" fill="#3465a4"><title>Redpath, Robert A (Personal)</title></circle></a><a href="/setts/s10/r6lo1r24dg6db2k1db2k1db12r1~x2/"><circle cx="394.6" cy="141.5" r="4" fill="#3465a4"><title>MacEdward (MacGregor Hastie)</title></circle></a><a href="/setts/s10/o36k3dy3r1dy3k3o4dy6k1r2~x4/"><circle cx="504.5" cy="128.6" r="4" fill="#3465a4"><title>Moulin</title></circle></a><circle cx="447.3" cy="136.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lo1r45dt23w1dt6r2lo1r2lo1~x2/"><circle cx="433.5" cy="100.2" r="4" fill="#3465a4"><title>Arbroath Smokie</title></circle></a><a href="/setts/s8/dg2lo1dg11r50lo12db2lo4db2~x2/"><circle cx="459.8" cy="116.0" r="4" fill="#3465a4"><title>Slessor (Personal)</title></circle></a><a href="/setts/s6/r4k2dg28r38k1ly4~x2/"><circle cx="413.6" cy="158.3" r="4" fill="#3465a4"><title>Wcwm 9275 5471-1</title></circle></a><a href="/setts/s6/r36dg18r4dg6k1lr2~x2/"><circle cx="451.1" cy="156.3" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s6/r36dg18r4dg6k1lr2/"><circle cx="451.1" cy="156.3" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s10/y8r6k4r64o1k28r6y40r6k4~x2/"><circle cx="394.7" cy="129.9" r="4" fill="#3465a4"><title>Laporte</title></circle></a><a href="/setts/s9/o64dr9o11dr4lb2lo2n5dr2lo13~x2/"><circle cx="390.8" cy="96.9" r="4" fill="#3465a4"><title>Down, County</title></circle></a><a href="/setts/s8/r26n4r1p2dg1n4dg14w2~x2/"><circle cx="347.2" cy="140.0" r="4" fill="#3465a4"><title>Redpath, Robert A (Personal)</title></circle></a><a href="/setts/s10/r6lo1r24dg6db2k1db2k1db12r1~x2/"><circle cx="394.4" cy="141.6" r="4" fill="#3465a4"><title>MacEdward (MacGregor Hastie)</title></circle></a><a href="/setts/s10/o36k3dy3r1dy3k3o4dy6k1r2~x4/"><circle cx="504.1" cy="128.6" r="4" fill="#3465a4"><title>Moulin</title></circle></a><circle cx="447.1" cy="136.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/g4r52k20dy9g2lo1~x2/

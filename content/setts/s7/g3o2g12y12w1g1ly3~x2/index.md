@@ -2,7 +2,7 @@
 title: "Braemar House"
 date: 2023-03-18
 ---
-**Bands:** [GRGGWGY](/stripes/grggwgy/) · **Stripes:** [G O G Y W G LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G O G Y W G LY</span></span>
+**Bands:** [YGWGGRG](/stripes/ygwggrg/) · **Stripes:** [LY G W Y G O G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G W Y G O G</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-Gb/6 LT4 Ga24 G24 LN2 Gb2 Y/6
+Y/6 Gb2 LN2 G24 Ga24 LT4 Gb/6
 ![Sett](sett.png)
 
 ## Palette
@@ -902,7 +905,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "Gb/6 LT4 Ga24 G24 LN2 Gb2 Y/6 tartan")
+![Tartan detail](tartan.png "Y/6 Gb2 LN2 G24 Ga24 LT4 Gb/6 tartan")
 
 ## Nearest tartans
 
@@ -921,8 +924,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g3dy2g12y12w1g1ly3~x2/"><circle cx="206.2" cy="188.4" r="4" fill="#3465a4"><title>Braemar House Corporate Tartan Tartan Number: 908. Earliest known date: 1987 The Lords Kilmarnock are descended from both the Hays (the Earls of Errol), and the Stewarts and the design incorporates elements from the Hay-Leith tartan (the red section) and the Hunting Stewart (the green section) with minor alterations to each. The representation here follows the count registered with Lord Lyon on 7th March 1956. The Boyd family are closely associated with the town of Kilmarnock in the South West of the Scottish Lowlands. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/o4g3o30y12g5lg4g3lg14lg2lg2lg10ly3~x2/"><circle cx="203.1" cy="145.1" r="4" fill="#3465a4"><title>Shrek</title></circle></a><a href="/setts/s9/lo3g30y20o6y3o3y3dt20r2~x2/"><circle cx="238.2" cy="189.7" r="4" fill="#3465a4"><title>Glens of Corbie</title></circle></a><a href="/setts/s6/g2lo1g12lb6g12r1~x4/"><circle cx="246.5" cy="214.4" r="4" fill="#3465a4"><title>City of Vancouver (Commemorative)</title></circle></a><a href="/setts/s9/k3g30y20o6y3o3y3dt20r2~x2/"><circle cx="214.4" cy="178.2" r="4" fill="#3465a4"><title>Glens of Corbie (Corporate)</title></circle></a><a href="/setts/s8/r2dy1dg9y1dy2y6g2y1~x4/"><circle cx="234.2" cy="220.3" r="4" fill="#3465a4"><title>Tomass</title></circle></a><a href="/setts/s8/g29k4g6lo4g28lo28k1lb5~x2/"><circle cx="195.0" cy="140.6" r="4" fill="#3465a4"><title>Keogh (Name?)</title></circle></a><a href="/setts/s7/g1r7g7n2r1dg15lb1~x4/"><circle cx="314.4" cy="212.0" r="4" fill="#3465a4"><title>Ramsay (Green Fashion)</title></circle></a><a href="/setts/s9/g4y52dg4g8dg6dg12g17y7lo4/"><circle cx="344.8" cy="196.9" r="4" fill="#3465a4"><title>McAlbourne (Corporate)</title></circle></a><a href="/setts/s6/lo9g18t9r1w1db1~x4/"><circle cx="269.1" cy="171.8" r="4" fill="#3465a4"><title>T.H.E. C.O.G. USA (Corporate)</title></circle></a><circle cx="224.7" cy="198.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g3dy2g12y12w1g1ly3~x2/"><circle cx="206.1" cy="188.6" r="4" fill="#3465a4"><title>Braemar House Corporate Tartan Tartan Number: 908. Earliest known date: 1987 The Lords Kilmarnock are descended from both the Hays (the Earls of Errol), and the Stewarts and the design incorporates elements from the Hay-Leith tartan (the red section) and the Hunting Stewart (the green section) with minor alterations to each. The representation here follows the count registered with Lord Lyon on 7th March 1956. The Boyd family are closely associated with the town of Kilmarnock in the South West of the Scottish Lowlands. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/o4g3o30y12g5lg4g3lg14lg2lg2lg10ly3~x2/"><circle cx="202.8" cy="145.4" r="4" fill="#3465a4"><title>Shrek</title></circle></a><a href="/setts/s9/lo3g30y20o6y3o3y3dt20r2~x2/"><circle cx="238.1" cy="190.0" r="4" fill="#3465a4"><title>Glens of Corbie</title></circle></a><a href="/setts/s6/g2lo1g12lb6g12r1~x4/"><circle cx="246.3" cy="214.5" r="4" fill="#3465a4"><title>City of Vancouver (Commemorative)</title></circle></a><a href="/setts/s9/k3g30y20o6y3o3y3dt20r2~x2/"><circle cx="214.4" cy="178.5" r="4" fill="#3465a4"><title>Glens of Corbie (Corporate)</title></circle></a><a href="/setts/s8/r2dy1dg9y1dy2y6g2y1~x4/"><circle cx="234.2" cy="220.5" r="4" fill="#3465a4"><title>Tomass</title></circle></a><a href="/setts/s8/g29k4g6lo4g28lo28k1lb5~x2/"><circle cx="194.8" cy="140.8" r="4" fill="#3465a4"><title>Keogh (Name?)</title></circle></a><a href="/setts/s7/g1r7g7n2r1dg15lb1~x4/"><circle cx="314.2" cy="212.2" r="4" fill="#3465a4"><title>Ramsay (Green Fashion)</title></circle></a><a href="/setts/s9/g4y52dg4g8dg6dg12g17y7lo4/"><circle cx="344.6" cy="197.2" r="4" fill="#3465a4"><title>McAlbourne (Corporate)</title></circle></a><a href="/setts/s6/lo9g18t9r1w1db1~x4/"><circle cx="269.0" cy="171.9" r="4" fill="#3465a4"><title>T.H.E. C.O.G. USA (Corporate)</title></circle></a><circle cx="224.5" cy="198.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/g3o2g12y12w1g1ly3~x2/

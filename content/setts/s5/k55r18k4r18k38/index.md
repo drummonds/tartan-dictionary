@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -902,7 +905,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-K/38 R18 K4 R18 K/55
+K/55 R18 K4 R18 K/38
 ![Sett](sett.png)
 
 ## Palette
@@ -915,7 +918,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/38 R18 K4 R18 K/55 tartan")
+![Tartan detail](tartan.png "K/55 R18 K4 R18 K/38 tartan")
 
 ## Nearest tartans
 
@@ -928,14 +931,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Loevenstein Castle](/setts/s5/r20k3r4lb2k7~x2/) — ΔT 1.96
 1. [Loevenstein Castle 1 (Artefact)](/setts/s5/r20k3r4w2k7~x2/) — ΔT 2.00
 1. [MacLeod of Raasay](/setts/s5/k6r1k6r9k1~x4/) — ΔT 2.04
-1. [Romsdal, Tresfjord](/setts/s5/k2r4k7r1k1~x2/) — ΔT 2.06
 1. [Lanoir](/setts/s6/k4r4k20r1k20w4~x6/) — ΔT 2.06
+1. [Romsdal, Tresfjord](/setts/s5/k2r4k7r1k1~x2/) — ΔT 2.06
 1. [Cameron, Black & Red (dress)](/setts/s6/k1r4k1r4k13r1~x4/) — ΔT 2.06
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k14r2k4lb3k12r8k1~x2/"><circle cx="399.1" cy="210.9" r="4" fill="#3465a4"><title>Punky Princess (Fashion)</title></circle></a><a href="/setts/s5/k13r2k13r19k2~x2/"><circle cx="373.8" cy="262.1" r="4" fill="#3465a4"><title>MacLeod of Raasay (Highland Society of London)</title></circle></a><a href="/setts/s8/k30r3k2r3k2r27k30r4~x2/"><circle cx="438.3" cy="204.9" r="4" fill="#3465a4"><title>Murray of Ochtertyre #2</title></circle></a><a href="/setts/s3/k69r14ly5~x2/"><circle cx="514.5" cy="245.5" r="4" fill="#3465a4"><title>Batson (Personal)</title></circle></a><a href="/setts/s5/r20k3r4lb2k7~x2/"><circle cx="404.6" cy="217.8" r="4" fill="#3465a4"><title>Loevenstein Castle</title></circle></a><a href="/setts/s5/r20k3r4w2k7~x2/"><circle cx="397.9" cy="215.0" r="4" fill="#3465a4"><title>Loevenstein Castle 1 (Artefact)</title></circle></a><a href="/setts/s5/k6r1k6r9k1~x4/"><circle cx="348.3" cy="259.6" r="4" fill="#3465a4"><title>MacLeod of Raasay</title></circle></a><a href="/setts/s5/k2r4k7r1k1~x2/"><circle cx="387.3" cy="266.7" r="4" fill="#3465a4"><title>Romsdal, Tresfjord</title></circle></a><a href="/setts/s6/k4r4k20r1k20w4~x6/"><circle cx="538.5" cy="209.8" r="4" fill="#3465a4"><title>Lanoir</title></circle></a><a href="/setts/s6/k1r4k1r4k13r1~x4/"><circle cx="417.1" cy="213.4" r="4" fill="#3465a4"><title>Cameron, Black &amp; Red (dress)</title></circle></a><circle cx="469.7" cy="260.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k14r2k4lb3k12r8k1~x2/"><circle cx="399.0" cy="210.5" r="4" fill="#3465a4"><title>Punky Princess (Fashion)</title></circle></a><a href="/setts/s5/k13r2k13r19k2~x2/"><circle cx="373.7" cy="261.7" r="4" fill="#3465a4"><title>MacLeod of Raasay (Highland Society of London)</title></circle></a><a href="/setts/s8/k30r3k2r3k2r27k30r4~x2/"><circle cx="438.1" cy="204.6" r="4" fill="#3465a4"><title>Murray of Ochtertyre #2</title></circle></a><a href="/setts/s3/k69r14ly5~x2/"><circle cx="514.4" cy="245.1" r="4" fill="#3465a4"><title>Batson (Personal)</title></circle></a><a href="/setts/s5/r20k3r4lb2k7~x2/"><circle cx="404.5" cy="217.4" r="4" fill="#3465a4"><title>Loevenstein Castle</title></circle></a><a href="/setts/s5/r20k3r4w2k7~x2/"><circle cx="397.8" cy="214.6" r="4" fill="#3465a4"><title>Loevenstein Castle 1 (Artefact)</title></circle></a><a href="/setts/s5/k6r1k6r9k1~x4/"><circle cx="348.3" cy="259.3" r="4" fill="#3465a4"><title>MacLeod of Raasay</title></circle></a><a href="/setts/s6/k4r4k20r1k20w4~x6/"><circle cx="538.4" cy="209.3" r="4" fill="#3465a4"><title>Lanoir</title></circle></a><a href="/setts/s5/k2r4k7r1k1~x2/"><circle cx="387.4" cy="266.4" r="4" fill="#3465a4"><title>Romsdal, Tresfjord</title></circle></a><a href="/setts/s6/k1r4k1r4k13r1~x4/"><circle cx="417.0" cy="213.1" r="4" fill="#3465a4"><title>Cameron, Black &amp; Red (dress)</title></circle></a><circle cx="469.6" cy="259.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/k55r18k4r18k38/

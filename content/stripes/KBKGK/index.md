@@ -8,7 +8,7 @@ KBKGK
 
 It is a 5 band tartan.
 
-![Woven sample](/setts/s5/k2b11k26g11k2~x2/tartan.png)
+![Woven sample](/setts/s5/k2g11k26b11k2~x2/tartan.png)
 
 
 
@@ -21,14 +21,14 @@ KBKGK
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### K B K G K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">K B K G K</span></span>
+### K G K B K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="seq">K G K B K</span></span>
 
 | Tartans |
 |---------------|
-| [Campbell of Loch Awe](/setts/s5/k2b11k26g11k2~x2/)|
-|![Campbell of Loch Awe example sett](/setts/s5/k2b11k26g11k2~x2/sett.png)|
+| [Campbell of Loch Awe](/setts/s5/k2g11k26b11k2~x2/)|
+|![Campbell of Loch Awe example sett](/setts/s5/k2g11k26b11k2~x2/sett.png)|
 
-### K DB K G K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB K G K</span></span>
+### K G K DB K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K G K DB K</span></span>
 
 | Tartans |
 |---------------|

@@ -9,13 +9,6 @@ This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacPherson Dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — MacPherson Dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
-
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -59,8 +52,15 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
 
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [MacPherson Dress](/setts/s7/lr3r1lr30k20lr3k9ly1/)
+
+
 ## Thread count
-LG/2 K18 N6 K40 N60 DR2 N/6
+N/6 DR2 N60 K40 N6 K18 LG/2
 ![Sett](sett.png)
 
 ## Palette
@@ -75,27 +75,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LG/2 K18 N6 K40 N60 DR2 N/6 tartan")
+![Tartan detail](tartan.png "N/6 DR2 N60 K40 N6 K18 LG/2 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
+1. [MacPherson Dress](/setts/s7/lr3r1lr30k20lr3k9ly1/) — ΔT 0.00
 1. [MacPherson Dress](/setts/s7/lb3r1lb30k20lb3k9ly1/) — ΔT 0.59
 1. [Richecourt, Baron of (Personal)](/setts/s7/w4k30r1k1r3w12ly3~x2/) — ΔT 0.95
 1. [Newcastle](/setts/s10/w8k1db2k4ly2k2ly2k24w8k2~x2/) — ΔT 1.03
-1. [George Heriots](/setts/s5/ly3k1o24k35w3~x2/) — ΔT 1.05
+1. [George Heriots](/setts/s5/w3k35o24k1ly3~x2/) — ΔT 1.05
 1. [Colbert Check (Fashion)](/setts/s8/k62w10ly10k4w18k4lo3w4/) — ΔT 1.13
 1. [Gleneagles, Hotel](/setts/s7/k4y4w35y1k36y4k2~x2/) — ΔT 1.19
 1. [Phantom](/setts/s7/w3o10k38w11o6k2w3~x2/) — ΔT 1.24
-1. [Gleneagles](/setts/s7/k4o4w35o1k36o4k2/) — ΔT 1.26
+1. [Gleneagles](/setts/s7/k4o4w35o1k36o4k2~x2/) — ΔT 1.26
 1. [Entrepreneurial Spark](/setts/s8/k14lo3w8lo4k6w9k31g1~x2/) — ΔT 1.28
-1. [Gordon Dress (MacGregor-Hastie)](/setts/s9/ly4k4dg12k37w4k4w16k2w4~x2/) — ΔT 1.29
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/lb3r1lb30k20lb3k9ly1/"><circle cx="322.9" cy="125.5" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s7/w4k30r1k1r3w12ly3~x2/"><circle cx="330.1" cy="112.8" r="4" fill="#3465a4"><title>Richecourt, Baron of (Personal)</title></circle></a><a href="/setts/s10/w8k1db2k4ly2k2ly2k24w8k2~x2/"><circle cx="331.8" cy="115.8" r="4" fill="#3465a4"><title>Newcastle</title></circle></a><a href="/setts/s5/ly3k1o24k35w3~x2/"><circle cx="343.3" cy="150.8" r="4" fill="#3465a4"><title>George Heriots</title></circle></a><a href="/setts/s8/k62w10ly10k4w18k4lo3w4/"><circle cx="339.9" cy="123.7" r="4" fill="#3465a4"><title>Colbert Check (Fashion)</title></circle></a><a href="/setts/s7/k4y4w35y1k36y4k2~x2/"><circle cx="315.3" cy="128.5" r="4" fill="#3465a4"><title>Gleneagles, Hotel</title></circle></a><a href="/setts/s7/w3o10k38w11o6k2w3~x2/"><circle cx="286.9" cy="140.4" r="4" fill="#3465a4"><title>Phantom</title></circle></a><a href="/setts/s7/k4o4w35o1k36o4k2/"><circle cx="312.9" cy="125.2" r="4" fill="#3465a4"><title>Gleneagles</title></circle></a><a href="/setts/s8/k14lo3w8lo4k6w9k31g1~x2/"><circle cx="380.1" cy="138.9" r="4" fill="#3465a4"><title>Entrepreneurial Spark</title></circle></a><a href="/setts/s9/ly4k4dg12k37w4k4w16k2w4~x2/"><circle cx="276.4" cy="136.2" r="4" fill="#3465a4"><title>Gordon Dress (MacGregor-Hastie)</title></circle></a><circle cx="329.5" cy="131.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/lr3r1lr30k20lr3k9ly1/"><circle cx="329.3" cy="131.5" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s7/lb3r1lb30k20lb3k9ly1/"><circle cx="322.7" cy="125.3" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s7/w4k30r1k1r3w12ly3~x2/"><circle cx="329.8" cy="112.6" r="4" fill="#3465a4"><title>Richecourt, Baron of (Personal)</title></circle></a><a href="/setts/s10/w8k1db2k4ly2k2ly2k24w8k2~x2/"><circle cx="331.6" cy="115.5" r="4" fill="#3465a4"><title>Newcastle</title></circle></a><a href="/setts/s5/w3k35o24k1ly3~x2/"><circle cx="343.2" cy="150.5" r="4" fill="#3465a4"><title>George Heriots</title></circle></a><a href="/setts/s8/k62w10ly10k4w18k4lo3w4/"><circle cx="339.6" cy="123.5" r="4" fill="#3465a4"><title>Colbert Check (Fashion)</title></circle></a><a href="/setts/s7/k4y4w35y1k36y4k2~x2/"><circle cx="315.1" cy="128.3" r="4" fill="#3465a4"><title>Gleneagles, Hotel</title></circle></a><a href="/setts/s7/w3o10k38w11o6k2w3~x2/"><circle cx="286.7" cy="140.2" r="4" fill="#3465a4"><title>Phantom</title></circle></a><a href="/setts/s7/k4o4w35o1k36o4k2~x2/"><circle cx="312.7" cy="124.9" r="4" fill="#3465a4"><title>Gleneagles</title></circle></a><a href="/setts/s8/k14lo3w8lo4k6w9k31g1~x2/"><circle cx="379.9" cy="138.6" r="4" fill="#3465a4"><title>Entrepreneurial Spark</title></circle></a><circle cx="329.3" cy="131.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/lr3r1lr30k20lr3k9ly1~x2/

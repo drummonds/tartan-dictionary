@@ -2,12 +2,18 @@
 title: "Bermuda Blue"
 date: 2023-03-18
 ---
-**Bands:** [BBRBGBBBRBBRB](/stripes/bbrbgbbbrbbrb/) · **Stripes:** [DB B R B DG B DB B R B DB R B](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DB B R B DG B DB B R B DB R B</span></span>
+**Bands:** [BRBBRBBBGBRBB](/stripes/brbbrbbbgbrbb/) · **Stripes:** [B R DB B R B DB B DG B R B DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="seq">B R DB B R B DB B DG B R B DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=253
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Bermuda, Blue
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -913,7 +922,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Callaway (Name)](/setts/s9/r4b12db36w4db4b16w3db6b3~x2/) — ΔT 1.17
 1. [Pacific](/setts/s12/g2dg2g1dg14b2dg10b10dg2b14m1b2m2~x4/) — ΔT 1.50
 1. [Mortell (Personal)](/setts/s10/db20b2w5r2db10b5db20b2w5r5~x2/) — ΔT 1.51
-1. [Fujisankei Serene (Corporate)](/setts/s9/lb1n6db4n1db16lb1db4lb6o1~x4/) — ΔT 1.55
+1. [Fujisankei Serene (Corporate)](/setts/s9/o1lb6db4lb1db16n1db4n6lb1~x4/) — ΔT 1.55
 1. [Jethart (District)](/setts/s9/k22b16r3b16k2b16g3b3lb5~x2/) — ΔT 1.56
 1. [Dunbarton Weft](/setts/s11/b30r2b2k5b3dy2b3dy22b3k2b3~x2/) — ΔT 1.66
 1. [Kinding](/setts/s7/k10db30g3db3g3db3r6~x2/) — ΔT 1.66
@@ -922,8 +931,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/b12r4db4b42r6b6db11b6g19b8r4b6db6/"><circle cx="296.7" cy="169.6" r="4" fill="#3465a4"><title>Bermuda Blue (1962) (District)</title></circle></a><a href="/setts/s9/r4b12db36w4db4b16w3db6b3~x2/"><circle cx="304.0" cy="180.7" r="4" fill="#3465a4"><title>Callaway (Name)</title></circle></a><a href="/setts/s12/g2dg2g1dg14b2dg10b10dg2b14m1b2m2~x4/"><circle cx="286.6" cy="174.3" r="4" fill="#3465a4"><title>Pacific</title></circle></a><a href="/setts/s10/db20b2w5r2db10b5db20b2w5r5~x2/"><circle cx="337.8" cy="186.8" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/setts/s9/lb1n6db4n1db16lb1db4lb6o1~x4/"><circle cx="344.9" cy="168.4" r="4" fill="#3465a4"><title>Fujisankei Serene (Corporate)</title></circle></a><a href="/setts/s9/k22b16r3b16k2b16g3b3lb5~x2/"><circle cx="284.3" cy="187.0" r="4" fill="#3465a4"><title>Jethart (District)</title></circle></a><a href="/setts/s11/b30r2b2k5b3dy2b3dy22b3k2b3~x2/"><circle cx="327.3" cy="139.6" r="4" fill="#3465a4"><title>Dunbarton Weft</title></circle></a><a href="/setts/s7/k10db30g3db3g3db3r6~x2/"><circle cx="327.0" cy="190.6" r="4" fill="#3465a4"><title>Kinding</title></circle></a><a href="/setts/s13/w2r5b4g8b40r5w2r5b4g8b4r5w2~x2/"><circle cx="295.5" cy="109.4" r="4" fill="#3465a4"><title>Yamaue</title></circle></a><a href="/setts/s10/db10k1g2k2t3k2g2k1db10w1~x8/"><circle cx="285.8" cy="172.0" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><circle cx="297.3" cy="169.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/b12r4db4b42r6b6db11b6g19b8r4b6db6/"><circle cx="296.6" cy="169.4" r="4" fill="#3465a4"><title>Bermuda Blue (1962) (District)</title></circle></a><a href="/setts/s9/r4b12db36w4db4b16w3db6b3~x2/"><circle cx="303.9" cy="180.6" r="4" fill="#3465a4"><title>Callaway (Name)</title></circle></a><a href="/setts/s12/g2dg2g1dg14b2dg10b10dg2b14m1b2m2~x4/"><circle cx="286.6" cy="174.2" r="4" fill="#3465a4"><title>Pacific</title></circle></a><a href="/setts/s10/db20b2w5r2db10b5db20b2w5r5~x2/"><circle cx="337.7" cy="186.6" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/setts/s9/o1lb6db4lb1db16n1db4n6lb1~x4/"><circle cx="344.8" cy="168.2" r="4" fill="#3465a4"><title>Fujisankei Serene (Corporate)</title></circle></a><a href="/setts/s9/k22b16r3b16k2b16g3b3lb5~x2/"><circle cx="284.3" cy="186.9" r="4" fill="#3465a4"><title>Jethart (District)</title></circle></a><a href="/setts/s11/b30r2b2k5b3dy2b3dy22b3k2b3~x2/"><circle cx="327.1" cy="139.4" r="4" fill="#3465a4"><title>Dunbarton Weft</title></circle></a><a href="/setts/s7/k10db30g3db3g3db3r6~x2/"><circle cx="327.0" cy="190.4" r="4" fill="#3465a4"><title>Kinding</title></circle></a><a href="/setts/s13/w2r5b4g8b40r5w2r5b4g8b4r5w2~x2/"><circle cx="295.3" cy="109.3" r="4" fill="#3465a4"><title>Yamaue</title></circle></a><a href="/setts/s10/db10k1g2k2t3k2g2k1db10w1~x8/"><circle cx="285.8" cy="171.9" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><circle cx="297.2" cy="169.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/b12r4db4b42r6b6db11b6dg19b8r4b6db6/

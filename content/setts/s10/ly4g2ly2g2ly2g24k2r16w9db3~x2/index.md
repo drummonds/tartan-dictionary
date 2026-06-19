@@ -2,7 +2,7 @@
 title: "North West Territories"
 date: 2023-03-18
 ---
-**Bands:** [BWRKGYGYGY](/stripes/bwrkgygygy/) · **Stripes:** [DB W R K G LY G LY G LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB W R K G LY G LY G LY</span></span>
+**Bands:** [YGYGYGKRWB](/stripes/ygygygkrwb/) · **Stripes:** [LY G LY G LY G K R W DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">LY G LY G LY G K R W DB</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/6 LN18 R32 K4 G48 Y4 G4 Y4 G4 Y/8
+Y/8 G4 Y4 G4 Y4 G48 K4 R32 LN18 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -924,8 +927,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2/"><circle cx="172.3" cy="116.0" r="4" fill="#3465a4"><title>North West Territories</title></circle></a><a href="/setts/s12/do11g3do4ly3do3ly4do3ly13lo34g3lo4r3~x2/"><circle cx="185.6" cy="107.0" r="4" fill="#3465a4"><title>Harmony 1 Trade Tartan Tartan Number: 1658. Earliest known date: pre 2003 LB may be Turquoise See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/t4r3ly2r9t3g24t3r9k3r3w2~x2/"><circle cx="166.7" cy="118.7" r="4" fill="#3465a4"><title>Wilson's, No 128</title></circle></a><a href="/setts/s7/k2ly30g4w2g14r13ly2~x2/"><circle cx="195.2" cy="122.1" r="4" fill="#3465a4"><title>Red Rum Commemorative Tartan Tartan Number: 1217. Earliest known date: 1982 Red Remony See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/dy27w2dy3ly4dy3w2dy5k13t2w26g3~x2/"><circle cx="168.8" cy="97.7" r="4" fill="#3465a4"><title>MacKellar Dress Clan Tartan Tartan Number: 926. Earliest known date: 1976 As worn by Kenneth? - D.C.S. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w2r16k1t2k1ly4k1t2k1g16t1~x2/"><circle cx="154.2" cy="84.5" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><a href="/setts/s12/dy11dg3dy4ly3dy3ly4dy3lo13o34dg3o4dr3~x2/"><circle cx="193.3" cy="110.1" r="4" fill="#3465a4"><title>Harmony 1</title></circle></a><a href="/setts/s11/dy27w2dy3ly4dy3w2dy5k13t2w26dg3~x2/"><circle cx="161.6" cy="93.0" r="4" fill="#3465a4"><title>MacKellar Dress</title></circle></a><a href="/setts/s12/dp6t2w24r15g12t4w4t4w4t4g34ly4/"><circle cx="137.5" cy="93.7" r="4" fill="#3465a4"><title>Fredericton (District)</title></circle></a><a href="/setts/s12/g6ly5w1g2w1g5w1g2w1r15db2w1~x2/"><circle cx="180.1" cy="110.9" r="4" fill="#3465a4"><title>Dunblane</title></circle></a><circle cx="162.1" cy="111.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2/"><circle cx="172.0" cy="116.1" r="4" fill="#3465a4"><title>North West Territories</title></circle></a><a href="/setts/s12/do11g3do4ly3do3ly4do3ly13lo34g3lo4r3~x2/"><circle cx="185.3" cy="107.1" r="4" fill="#3465a4"><title>Harmony 1 Trade Tartan Tartan Number: 1658. Earliest known date: pre 2003 LB may be Turquoise See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/t4r3ly2r9t3g24t3r9k3r3w2~x2/"><circle cx="166.4" cy="118.8" r="4" fill="#3465a4"><title>Wilson's, No 128</title></circle></a><a href="/setts/s7/k2ly30g4w2g14r13ly2~x2/"><circle cx="194.8" cy="122.0" r="4" fill="#3465a4"><title>Red Rum Commemorative Tartan Tartan Number: 1217. Earliest known date: 1982 Red Remony See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/dy27w2dy3ly4dy3w2dy5k13t2w26g3~x2/"><circle cx="168.6" cy="97.7" r="4" fill="#3465a4"><title>MacKellar Dress Clan Tartan Tartan Number: 926. Earliest known date: 1976 As worn by Kenneth? - D.C.S. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w2r16k1t2k1ly4k1t2k1g16t1~x2/"><circle cx="153.9" cy="84.6" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><a href="/setts/s12/dy11dg3dy4ly3dy3ly4dy3lo13o34dg3o4dr3~x2/"><circle cx="192.9" cy="110.2" r="4" fill="#3465a4"><title>Harmony 1</title></circle></a><a href="/setts/s11/dy27w2dy3ly4dy3w2dy5k13t2w26dg3~x2/"><circle cx="161.3" cy="93.0" r="4" fill="#3465a4"><title>MacKellar Dress</title></circle></a><a href="/setts/s12/dp6t2w24r15g12t4w4t4w4t4g34ly4/"><circle cx="137.2" cy="93.7" r="4" fill="#3465a4"><title>Fredericton (District)</title></circle></a><a href="/setts/s12/g6ly5w1g2w1g5w1g2w1r15db2w1~x2/"><circle cx="179.8" cy="111.0" r="4" fill="#3465a4"><title>Dunblane</title></circle></a><circle cx="161.9" cy="111.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/ly4g2ly2g2ly2g24k2r16w9db3~x2/

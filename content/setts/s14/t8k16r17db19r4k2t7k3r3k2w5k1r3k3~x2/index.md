@@ -2,12 +2,18 @@
 title: "Popular"
 date: 2023-03-18
 ---
-**Bands:** [BKRBRKBKRKWKRK](/stripes/bkrbrkbkrkwkrk/) · **Stripes:** [T K R DB R K T K R K W K R K](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">T K R DB R K T K R K W K R K</span></span>
+**Bands:** [KRKWKRKBKRBRKB](/stripes/krkwkrkbkrbrkb/) · **Stripes:** [K R K W K R K T K R DB R K T](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K R K W K R K T K R DB R K T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3354
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Popular Fancy
 
 ## Attestations
 
@@ -320,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -925,8 +934,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db15lb2w8lb2db42k42r42w8r4w4r4w4r10~x2/"><circle cx="163.3" cy="96.1" r="4" fill="#3465a4"><title>American St Andrews Societies</title></circle></a><a href="/setts/s14/w4k1dg10k1db7k1w4k1db5k1db2k1r20k2~x4/"><circle cx="149.3" cy="85.4" r="4" fill="#3465a4"><title>Unnamed - C19th (Annie Oakley)</title></circle></a><a href="/setts/s16/w5db1db10db2db4db2db1db2db4db2r15w15db15dp2db1dp4~x2/"><circle cx="107.6" cy="104.7" r="4" fill="#3465a4"><title>Auld Alliance</title></circle></a><a href="/setts/s11/r6db6r3db3r3db28k21g28r21k2ly4/"><circle cx="143.5" cy="147.6" r="4" fill="#3465a4"><title>MacLagan of Glenquiech</title></circle></a><a href="/setts/s13/db14t2w2t2db20k20r17w4r3w3r3w3r5~x2/"><circle cx="134.0" cy="135.3" r="4" fill="#3465a4"><title>American Bi-Centennial</title></circle></a><a href="/setts/s14/ly2r15ly3m2ly3k14ly2db6w2db6ly2r7db10w1~x2/"><circle cx="94.1" cy="104.2" r="4" fill="#3465a4"><title>Dalrymple of Castleton Portrait Tartan Tartan Number: 1780. Earliest known date: 1720 Reconstructed and woven by Don Rankin from illustration. Sample in STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/db16k4lb4db8lb24k2r3r20r4k12lb6k1~x2/"><circle cx="162.0" cy="127.5" r="4" fill="#3465a4"><title>Quebec Centennial #2</title></circle></a><a href="/setts/s14/db10r2db2r4db12r2k14w13r4w2r2w4r1ly3~x2/"><circle cx="106.5" cy="117.2" r="4" fill="#3465a4"><title>Carnegie #2</title></circle></a><a href="/setts/s9/db1r20g6k6g6r1k6db20w1~x2/"><circle cx="179.0" cy="139.0" r="4" fill="#3465a4"><title>Bush Pilot</title></circle></a><a href="/setts/s18/r4t6k1r2k1t14k3w3k2r2k2r2db4r2db6r2db6r3/"><circle cx="129.3" cy="132.8" r="4" fill="#3465a4"><title>Royal Canadian Air Force Regimental Tartan Tartan Number: 1343. Earliest known date: 1942 The threadcount was provided by the Canadian Defence Department. Colours specified as dark blue, light blue and maroon. It is unusual to have a single strand used in a thread count as it is impossible to turn the thread on the 'kilt edge'. The sett is recorded and approved by the Lord Lyon. Design is based on the Anderson sett. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="129.6" cy="114.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db15lb2w8lb2db42k42r42w8r4w4r4w4r10~x2/"><circle cx="163.2" cy="96.2" r="4" fill="#3465a4"><title>American St Andrews Societies</title></circle></a><a href="/setts/s14/w4k1dg10k1db7k1w4k1db5k1db2k1r20k2~x4/"><circle cx="149.2" cy="85.5" r="4" fill="#3465a4"><title>Unnamed - C19th (Annie Oakley)</title></circle></a><a href="/setts/s16/w5db1db10db2db4db2db1db2db4db2r15w15db15dp2db1dp4~x2/"><circle cx="107.5" cy="104.8" r="4" fill="#3465a4"><title>Auld Alliance</title></circle></a><a href="/setts/s11/r6db6r3db3r3db28k21g28r21k2ly4/"><circle cx="143.5" cy="147.8" r="4" fill="#3465a4"><title>MacLagan of Glenquiech</title></circle></a><a href="/setts/s13/db14t2w2t2db20k20r17w4r3w3r3w3r5~x2/"><circle cx="133.9" cy="135.3" r="4" fill="#3465a4"><title>American Bi-Centennial</title></circle></a><a href="/setts/s14/ly2r15ly3m2ly3k14ly2db6w2db6ly2r7db10w1~x2/"><circle cx="94.0" cy="104.3" r="4" fill="#3465a4"><title>Dalrymple of Castleton Portrait Tartan Tartan Number: 1780. Earliest known date: 1720 Reconstructed and woven by Don Rankin from illustration. Sample in STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/db16k4lb4db8lb24k2r3r20r4k12lb6k1~x2/"><circle cx="161.9" cy="127.5" r="4" fill="#3465a4"><title>Quebec Centennial #2</title></circle></a><a href="/setts/s14/db10r2db2r4db12r2k14w13r4w2r2w4r1ly3~x2/"><circle cx="106.4" cy="117.2" r="4" fill="#3465a4"><title>Carnegie #2</title></circle></a><a href="/setts/s9/db1r20g6k6g6r1k6db20w1~x2/"><circle cx="179.0" cy="139.1" r="4" fill="#3465a4"><title>Bush Pilot</title></circle></a><a href="/setts/s18/r4t6k1r2k1t14k3w3k2r2k2r2db4r2db6r2db6r3/"><circle cx="129.3" cy="132.9" r="4" fill="#3465a4"><title>Royal Canadian Air Force Regimental Tartan Tartan Number: 1343. Earliest known date: 1942 The threadcount was provided by the Canadian Defence Department. Colours specified as dark blue, light blue and maroon. It is unusual to have a single strand used in a thread count as it is impossible to turn the thread on the 'kilt edge'. The sett is recorded and approved by the Lord Lyon. Design is based on the Anderson sett. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="129.6" cy="114.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/t8k16r17db19r4k2t7k3r3k2w5k1r3k3~x2/

@@ -20,7 +20,7 @@ GRWRGY
 
 
 
-### Y M LP M Y LO <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">Y M LP M Y LO</span></span>
+### LO Y M LP M Y <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LO Y M LP M Y</span></span>
 
 | Tartans |
 |---------------|

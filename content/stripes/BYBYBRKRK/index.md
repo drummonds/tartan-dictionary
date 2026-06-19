@@ -18,7 +18,7 @@ BYBYBRKRK
 
 
 
-### DT LR DT LR DT O K O K <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="seq">DT LR DT LR DT O K O K</span></span>
+### K O K O DT LR DT LR DT <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="seq">K O K O DT LR DT LR DT</span></span>
 
 | Tartans |
 |---------------|

@@ -2,12 +2,19 @@
 title: "Hunnisett/Edinchip (Name)"
 date: 2023-03-18
 ---
-**Bands:** [BWBKGYGKRKR](/stripes/bwbkgygkrkr/) · **Stripes:** [DB W DB K G LY G K R K R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB W DB K G LY G K R K R</span></span>
+**Bands:** [RKRKGYGKBWB](/stripes/rkrkgygkbwb/) · **Stripes:** [R K R K G LY G K DB W DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R K R K G LY G K DB W DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/624/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Hunnisett, /Edinchip
+- Hunnisett/Edinchip
 
 ## Attestations
 
@@ -319,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -914,19 +924,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Cats Winter (Fashion)](/setts/s12/r8g2k2lo2k2ly2k2g18db2g2db29k3~x2/) — ΔT 0.65
 1. [Heritage Sequane](/setts/s12/db5r2lo7r2db42g28k5db10k15g5w3r3/) — ΔT 0.72
-1. [San Diego, The](/setts/s11/lb2db16t2db3t2db3t8dg30db3ly2r2~x2/) — ΔT 0.82
+1. [San Diego, The](/setts/s11/r2ly2db3dg30t8db3t2db3t2db16lb2~x2/) — ΔT 0.82
 1. [Roach (2015)](/setts/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/) — ΔT 0.86
 1. [Wcwm 1290](/setts/s11/dg28lb2dg3lo4dg3lb2dg3k14lg2db28lb3~x2/) — ΔT 0.86
 1. [McGuirk (2013)](/setts/s12/dg4r1dg1r3dg16k12r1db27t2db3t1ly2~x2/) — ΔT 0.87
 1. [Scottish Association for Neurological Sciences](/setts/s9/db46ly4db4ly4db6k16n66lb11r6/) — ΔT 0.89
 1. [Canadian Centennial](/setts/s8/r3w6r2dg32db36k2db4lo2~x2/) — ΔT 0.92
-1. [Scotland’s Golf Coast](/setts/s9/lg2w1db16dp2db2dp3db8dg20lo2~x2/) — ΔT 0.96
+1. [Scotland’s Golf Coast](/setts/s9/lo2dg20db8dp3db2dp2db16w1lg2~x2/) — ΔT 0.96
 1. [1314 (Corporate)](/setts/s11/db10g6o4r2o4k10db6k4db28g55w4/) — ΔT 0.97
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r8g2k2lo2k2ly2k2g18db2g2db29k3~x2/"><circle cx="214.9" cy="111.7" r="4" fill="#3465a4"><title>Cats Winter (Fashion)</title></circle></a><a href="/setts/s12/db5r2lo7r2db42g28k5db10k15g5w3r3/"><circle cx="224.0" cy="110.9" r="4" fill="#3465a4"><title>Heritage Sequane</title></circle></a><a href="/setts/s11/lb2db16t2db3t2db3t8dg30db3ly2r2~x2/"><circle cx="233.0" cy="131.0" r="4" fill="#3465a4"><title>San Diego, The</title></circle></a><a href="/setts/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/"><circle cx="267.0" cy="100.3" r="4" fill="#3465a4"><title>Roach (2015)</title></circle></a><a href="/setts/s11/dg28lb2dg3lo4dg3lb2dg3k14lg2db28lb3~x2/"><circle cx="204.3" cy="135.3" r="4" fill="#3465a4"><title>Wcwm 1290</title></circle></a><a href="/setts/s12/dg4r1dg1r3dg16k12r1db27t2db3t1ly2~x2/"><circle cx="241.0" cy="100.5" r="4" fill="#3465a4"><title>McGuirk (2013)</title></circle></a><a href="/setts/s9/db46ly4db4ly4db6k16n66lb11r6/"><circle cx="216.1" cy="127.8" r="4" fill="#3465a4"><title>Scottish Association for Neurological Sciences</title></circle></a><a href="/setts/s8/r3w6r2dg32db36k2db4lo2~x2/"><circle cx="263.6" cy="132.5" r="4" fill="#3465a4"><title>Canadian Centennial</title></circle></a><a href="/setts/s9/lg2w1db16dp2db2dp3db8dg20lo2~x2/"><circle cx="258.8" cy="135.7" r="4" fill="#3465a4"><title>Scotland’s Golf Coast</title></circle></a><a href="/setts/s11/db10g6o4r2o4k10db6k4db28g55w4/"><circle cx="253.7" cy="100.0" r="4" fill="#3465a4"><title>1314 (Corporate)</title></circle></a><circle cx="240.9" cy="109.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r8g2k2lo2k2ly2k2g18db2g2db29k3~x2/"><circle cx="214.8" cy="111.8" r="4" fill="#3465a4"><title>Cats Winter (Fashion)</title></circle></a><a href="/setts/s12/db5r2lo7r2db42g28k5db10k15g5w3r3/"><circle cx="224.0" cy="111.0" r="4" fill="#3465a4"><title>Heritage Sequane</title></circle></a><a href="/setts/s11/r2ly2db3dg30t8db3t2db3t2db16lb2~x2/"><circle cx="233.0" cy="131.1" r="4" fill="#3465a4"><title>San Diego, The</title></circle></a><a href="/setts/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/"><circle cx="266.9" cy="100.4" r="4" fill="#3465a4"><title>Roach (2015)</title></circle></a><a href="/setts/s11/dg28lb2dg3lo4dg3lb2dg3k14lg2db28lb3~x2/"><circle cx="204.4" cy="135.4" r="4" fill="#3465a4"><title>Wcwm 1290</title></circle></a><a href="/setts/s12/dg4r1dg1r3dg16k12r1db27t2db3t1ly2~x2/"><circle cx="241.0" cy="100.6" r="4" fill="#3465a4"><title>McGuirk (2013)</title></circle></a><a href="/setts/s9/db46ly4db4ly4db6k16n66lb11r6/"><circle cx="216.1" cy="127.9" r="4" fill="#3465a4"><title>Scottish Association for Neurological Sciences</title></circle></a><a href="/setts/s8/r3w6r2dg32db36k2db4lo2~x2/"><circle cx="263.7" cy="132.6" r="4" fill="#3465a4"><title>Canadian Centennial</title></circle></a><a href="/setts/s9/lo2dg20db8dp3db2dp2db16w1lg2~x2/"><circle cx="258.8" cy="135.7" r="4" fill="#3465a4"><title>Scotland’s Golf Coast</title></circle></a><a href="/setts/s11/db10g6o4r2o4k10db6k4db28g55w4/"><circle cx="253.7" cy="100.0" r="4" fill="#3465a4"><title>1314 (Corporate)</title></circle></a><circle cx="240.9" cy="109.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db38w2db2k10g2ly2g22k3r3k3r3~x2/

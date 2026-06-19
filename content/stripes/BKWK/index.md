@@ -21,16 +21,16 @@ BKWK
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### N K W K <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">N K W K</span></span>
+### K W K N <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">K W K N</span></span>
 
 | Tartans |
 |---------------|
 | [Pride of New Zealand](/setts/s4/n62k30w1k1~x2/)|
 |![Pride of New Zealand example sett](/setts/s4/n62k30w1k1~x2/sett.png)|
-| [Pride of New Zealand, The](/setts/s4/n124k60w1k2/)|
-|![Pride of New Zealand, The example sett](/setts/s4/n124k60w1k2/sett.png)|
+| [Pride of New Zealand, The](/setts/s4/n124k60w1k2~x2/)|
+|![Pride of New Zealand, The example sett](/setts/s4/n124k60w1k2~x2/sett.png)|
 
-### DB K W K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K W K</span></span>
+### K W K DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K W K DB</span></span>
 
 | Tartans |
 |---------------|

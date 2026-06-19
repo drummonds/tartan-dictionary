@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -904,11 +907,11 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Stirling University #2](/setts/s14/g22r3w1g2r3t16k3ly2k3t16r3g2w1r3~x4/) — ΔT 0.81
+1. [Stirling University #2](/setts/s14/g22r3w1g2r3t16k3ly2~x4/) — ΔT 0.81
 1. [Stirling University (Corporate)](/setts/s8/g22r3w1g2r3t16k3ly2~x4/) — ΔT 0.84
 1. [Stirling, University of Corporate Univ Tartan Tartan Number: 2297. Earliest known date: 1994 This is the accepted University design. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g22r3k1g2r3t16k3ly2~x4/) — ΔT 0.87
-1. [California State](/setts/s13/lb4k1t28k16g10r2g10r4g10r2g10k1ly4~x2/) — ΔT 0.96
-1. [California State American District Tartan Tartan Number: 2454. Earliest known date: 1998 Designed by J.Howard Standing of Tarzana, California and Thomas Ferguson of Sydney, British Columbia. Adopted as the 'official' California State tartan by the State Legislature. For general use by all those living in the State. Based on Muir, after the famous botanist and environmentalist John Muir who lived in California. Assembly Bill 2362, february 20th 1998. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/lb4k1t28k16g10r2g10r4g10r2g10k1lo4~x2/) — ΔT 0.97
+1. [California State](/setts/s13/ly4k1g10r2g10r4g10r2g10k16t28k1lb4~x2/) — ΔT 0.96
+1. [California State American District Tartan Tartan Number: 2454. Earliest known date: 1998 Designed by J.Howard Standing of Tarzana, California and Thomas Ferguson of Sydney, British Columbia. Adopted as the 'official' California State tartan by the State Legislature. For general use by all those living in the State. Based on Muir, after the famous botanist and environmentalist John Muir who lived in California. Assembly Bill 2362, february 20th 1998. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/lo4k1g10r2g10r4g10r2g10k16t28k1lb4~x2/) — ΔT 0.97
 1. [Mill o Forest Primary School (Corp)](/setts/s13/db3dg22r5dg5o5w1o1dg1g8db6o1db5dg2~x2/) — ΔT 1.09
 1. [State Seal of South Carolina (Fash)](/setts/s11/g55k13b4k3g6lo3b2k3dy10k12b14~x2/) — ΔT 1.14
 1. [Alexander-Johnstone (Personal)](/setts/s14/ly3t2k1t24k2t2k2t2k2g8dp2g8k1w2~x2/) — ΔT 1.15
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/g22r3w1g2r3t16k3ly2k3t16r3g2w1r3~x4/"><circle cx="204.9" cy="93.3" r="4" fill="#3465a4"><title>Stirling University #2</title></circle></a><a href="/setts/s8/g22r3w1g2r3t16k3ly2~x4/"><circle cx="250.7" cy="123.9" r="4" fill="#3465a4"><title>Stirling University (Corporate)</title></circle></a><a href="/setts/s8/g22r3k1g2r3t16k3ly2~x4/"><circle cx="250.6" cy="124.7" r="4" fill="#3465a4"><title>Stirling, University of Corporate Univ Tartan Tartan Number: 2297. Earliest known date: 1994 This is the accepted University design. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/lb4k1t28k16g10r2g10r4g10r2g10k1ly4~x2/"><circle cx="181.5" cy="103.2" r="4" fill="#3465a4"><title>California State</title></circle></a><a href="/setts/s13/lb4k1t28k16g10r2g10r4g10r2g10k1lo4~x2/"><circle cx="187.7" cy="107.3" r="4" fill="#3465a4"><title>California State American District Tartan Tartan Number: 2454. Earliest known date: 1998 Designed by J.Howard Standing of Tarzana, California and Thomas Ferguson of Sydney, British Columbia. Adopted as the 'official' California State tartan by the State Legislature. For general use by all those living in the State. Based on Muir, after the famous botanist and environmentalist John Muir who lived in California. Assembly Bill 2362, february 20th 1998. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/db3dg22r5dg5o5w1o1dg1g8db6o1db5dg2~x2/"><circle cx="240.4" cy="118.8" r="4" fill="#3465a4"><title>Mill o Forest Primary School (Corp)</title></circle></a><a href="/setts/s11/g55k13b4k3g6lo3b2k3dy10k12b14~x2/"><circle cx="237.4" cy="101.9" r="4" fill="#3465a4"><title>State Seal of South Carolina (Fash)</title></circle></a><a href="/setts/s14/ly3t2k1t24k2t2k2t2k2g8dp2g8k1w2~x2/"><circle cx="249.2" cy="79.6" r="4" fill="#3465a4"><title>Alexander-Johnstone (Personal)</title></circle></a><a href="/setts/s12/w4k1r2k1g9k2b24k2r6k2g12ly2~x2/"><circle cx="167.9" cy="90.5" r="4" fill="#3465a4"><title>Tait #2</title></circle></a><a href="/setts/s8/lo2t14k1g11k2w2g2k1~x4/"><circle cx="181.8" cy="136.7" r="4" fill="#3465a4"><title>Mission</title></circle></a><circle cx="217.7" cy="104.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/g22r3w1g2r3t16k3ly2~x4/"><circle cx="204.7" cy="93.4" r="4" fill="#3465a4"><title>Stirling University #2</title></circle></a><a href="/setts/s8/g22r3w1g2r3t16k3ly2~x4/"><circle cx="250.5" cy="124.0" r="4" fill="#3465a4"><title>Stirling University (Corporate)</title></circle></a><a href="/setts/s8/g22r3k1g2r3t16k3ly2~x4/"><circle cx="250.4" cy="124.7" r="4" fill="#3465a4"><title>Stirling, University of Corporate Univ Tartan Tartan Number: 2297. Earliest known date: 1994 This is the accepted University design. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/ly4k1g10r2g10r4g10r2g10k16t28k1lb4~x2/"><circle cx="181.4" cy="103.3" r="4" fill="#3465a4"><title>California State</title></circle></a><a href="/setts/s13/lo4k1g10r2g10r4g10r2g10k16t28k1lb4~x2/"><circle cx="187.7" cy="107.4" r="4" fill="#3465a4"><title>California State American District Tartan Tartan Number: 2454. Earliest known date: 1998 Designed by J.Howard Standing of Tarzana, California and Thomas Ferguson of Sydney, British Columbia. Adopted as the 'official' California State tartan by the State Legislature. For general use by all those living in the State. Based on Muir, after the famous botanist and environmentalist John Muir who lived in California. Assembly Bill 2362, february 20th 1998. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/db3dg22r5dg5o5w1o1dg1g8db6o1db5dg2~x2/"><circle cx="240.3" cy="119.0" r="4" fill="#3465a4"><title>Mill o Forest Primary School (Corp)</title></circle></a><a href="/setts/s11/g55k13b4k3g6lo3b2k3dy10k12b14~x2/"><circle cx="237.3" cy="102.0" r="4" fill="#3465a4"><title>State Seal of South Carolina (Fash)</title></circle></a><a href="/setts/s14/ly3t2k1t24k2t2k2t2k2g8dp2g8k1w2~x2/"><circle cx="249.0" cy="79.6" r="4" fill="#3465a4"><title>Alexander-Johnstone (Personal)</title></circle></a><a href="/setts/s12/w4k1r2k1g9k2b24k2r6k2g12ly2~x2/"><circle cx="167.8" cy="90.6" r="4" fill="#3465a4"><title>Tait #2</title></circle></a><a href="/setts/s8/lo2t14k1g11k2w2g2k1~x4/"><circle cx="181.7" cy="136.8" r="4" fill="#3465a4"><title>Mission</title></circle></a><circle cx="217.5" cy="104.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db16w3db1ly4g24r1g3r4g3r1t8~x2/

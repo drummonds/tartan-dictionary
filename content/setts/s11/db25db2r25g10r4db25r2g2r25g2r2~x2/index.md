@@ -2,7 +2,7 @@
 title: "Hebridean 5"
 date: 2023-03-18
 ---
-**Bands:** [BBRGRBRGRGR](/stripes/bbrgrbrgrgr/) · **Stripes:** [DB DB R G R DB R G R G R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB DB R G R DB R G R G R</span></span>
+**Bands:** [RGRGRBRGRBB](/stripes/rgrgrbrgrbb/) · **Stripes:** [R G R G R DB R G R DB DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">R G R G R DB R G R DB DB</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -908,15 +911,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Girl Guiding Scotland (Corporate)](/setts/s9/k36r3db3r3k8db24r18ly3r3~x2/) — ΔT 1.11
 1. [Memery (Reston, USA)](/setts/s9/w4k6r3k15r3k6r27db9w2~x2/) — ΔT 1.20
 1. [Walker](/setts/s12/y4k2r7k15r3k3r3k7r28dg7r6dg2/) — ΔT 1.21
-1. [Ainslie](/setts/s9/db12k3db2r2db2r12w2k1w2~x4/) — ΔT 1.22
 1. [Auld Lang Syne, Grey Weavers Tartan Tartan Number: 8081. Earliest known date: pre 2007 From a woven sample from the weavers, Marton Mills. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/w4k2o9o3r3k3r3k23o10k2o6k2~x2/) — ΔT 1.22
+1. [Ainslie](/setts/s9/db12k3db2r2db2r12w2k1w2~x4/) — ΔT 1.22
 1. [Grady (Personal)](/setts/s9/k36r3db3r3k8db24r18g3r3~x2/) — ΔT 1.23
 1. [Duchess of Kent](/setts/s12/r3t19k4r3k3r7k3r5k3r5k2w2~x2/) — ΔT 1.23
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r7k3r4k5r25k7ly2db22k3db4~x2/"><circle cx="251.9" cy="161.9" r="4" fill="#3465a4"><title>St. George's (Edinburgh) (School)</title></circle></a><a href="/setts/s11/db4t2k2db12t4r6k6r28k2t2r3~x2/"><circle cx="289.6" cy="144.0" r="4" fill="#3465a4"><title>Hudson (Personal)</title></circle></a><a href="/setts/s9/k24db2k24db14ly3r36k18ly5r3~x2/"><circle cx="276.5" cy="168.2" r="4" fill="#3465a4"><title>Craigholme (Corporate)</title></circle></a><a href="/setts/s9/k36r3db3r3k8db24r18ly3r3~x2/"><circle cx="250.9" cy="171.7" r="4" fill="#3465a4"><title>Girl Guiding Scotland (Corporate)</title></circle></a><a href="/setts/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="225.8" cy="151.3" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><a href="/setts/s12/y4k2r7k15r3k3r3k7r28dg7r6dg2/"><circle cx="324.9" cy="163.7" r="4" fill="#3465a4"><title>Walker</title></circle></a><a href="/setts/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="222.2" cy="153.3" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/setts/s12/w4k2o9o3r3k3r3k23o10k2o6k2~x2/"><circle cx="238.5" cy="154.8" r="4" fill="#3465a4"><title>Auld Lang Syne, Grey Weavers Tartan Tartan Number: 8081. Earliest known date: pre 2007 From a woven sample from the weavers, Marton Mills. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/k36r3db3r3k8db24r18g3r3~x2/"><circle cx="259.7" cy="177.7" r="4" fill="#3465a4"><title>Grady (Personal)</title></circle></a><a href="/setts/s12/r3t19k4r3k3r7k3r5k3r5k2w2~x2/"><circle cx="178.6" cy="154.2" r="4" fill="#3465a4"><title>Duchess of Kent</title></circle></a><circle cx="264.2" cy="159.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r7k3r4k5r25k7ly2db22k3db4~x2/"><circle cx="251.7" cy="161.8" r="4" fill="#3465a4"><title>St. George's (Edinburgh) (School)</title></circle></a><a href="/setts/s11/db4t2k2db12t4r6k6r28k2t2r3~x2/"><circle cx="289.5" cy="144.0" r="4" fill="#3465a4"><title>Hudson (Personal)</title></circle></a><a href="/setts/s9/k24db2k24db14ly3r36k18ly5r3~x2/"><circle cx="276.4" cy="168.1" r="4" fill="#3465a4"><title>Craigholme (Corporate)</title></circle></a><a href="/setts/s9/k36r3db3r3k8db24r18ly3r3~x2/"><circle cx="250.9" cy="171.7" r="4" fill="#3465a4"><title>Girl Guiding Scotland (Corporate)</title></circle></a><a href="/setts/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="225.6" cy="151.2" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><a href="/setts/s12/y4k2r7k15r3k3r3k7r28dg7r6dg2/"><circle cx="324.7" cy="163.7" r="4" fill="#3465a4"><title>Walker</title></circle></a><a href="/setts/s12/w4k2o9o3r3k3r3k23o10k2o6k2~x2/"><circle cx="238.4" cy="154.7" r="4" fill="#3465a4"><title>Auld Lang Syne, Grey Weavers Tartan Tartan Number: 8081. Earliest known date: pre 2007 From a woven sample from the weavers, Marton Mills. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="222.0" cy="153.2" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/setts/s9/k36r3db3r3k8db24r18g3r3~x2/"><circle cx="259.7" cy="177.7" r="4" fill="#3465a4"><title>Grady (Personal)</title></circle></a><a href="/setts/s12/r3t19k4r3k3r7k3r5k3r5k2w2~x2/"><circle cx="178.5" cy="154.1" r="4" fill="#3465a4"><title>Duchess of Kent</title></circle></a><circle cx="264.1" cy="159.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db25db2r25g10r4db25r2g2r25g2r2~x2/

@@ -19,14 +19,14 @@ GWBKGWGYGWG
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DG W T K DY W DY LY DY W DY <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">DG W T K DY W DY LY DY W DY</span></span>
+### DY W DY LY DY W DY K T W DG <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">DY W DY LY DY W DY K T W DG</span></span>
 
 | Tartans |
 |---------------|
 | [MacKellar Dress](/setts/s11/dy27w2dy3ly4dy3w2dy5k13t2w26dg3~x2/)|
 |![MacKellar Dress example sett](/setts/s11/dy27w2dy3ly4dy3w2dy5k13t2w26dg3~x2/sett.png)|
 
-### G W T K DY W DY LY DY W DY <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">G W T K DY W DY LY DY W DY</span></span>
+### DY W DY LY DY W DY K T W G <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DY W DY LY DY W DY K T W G</span></span>
 
 | Tartans |
 |---------------|

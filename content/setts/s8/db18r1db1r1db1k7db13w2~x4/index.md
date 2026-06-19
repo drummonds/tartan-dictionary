@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -907,7 +910,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Masai Shuka 29 (Artefact)](/setts/s8/r5db20r3db20k6db3lb2db1~x2/) — ΔT 0.87
-1. [SPA Association (Corporate)](/setts/s10/ly1db2w1db15k4ly1db1ly1db5w1~x4/) — ΔT 0.98
+1. [SPA Association (Corporate)](/setts/s10/w1db5ly1db1ly1k4db15w1db2ly1~x4/) — ΔT 0.98
 1. [Dundee F.C. Corporate Tartan Tartan Number: 2058. Earliest known date: 1990 The tartan of the Dundee Football Club launched on the 10th December, 1990. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/db6w4db3w6db8lo3db52lo3db8r4/) — ΔT 1.18
 1. [Talisker](/setts/s7/db16w4db1w2db24w1lo4~x2/) — ΔT 1.23
 1. [Scottish Qualifications Auth. (Corp)](/setts/s7/db36lo5db8lb3db8lb10db3~x2/) — ΔT 1.24
@@ -919,8 +922,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r5db20r3db20k6db3lb2db1~x2/"><circle cx="453.3" cy="176.1" r="4" fill="#3465a4"><title>Masai Shuka 29 (Artefact)</title></circle></a><a href="/setts/s10/ly1db2w1db15k4ly1db1ly1db5w1~x4/"><circle cx="420.8" cy="148.8" r="4" fill="#3465a4"><title>SPA Association (Corporate)</title></circle></a><a href="/setts/s10/db6w4db3w6db8lo3db52lo3db8r4/"><circle cx="497.6" cy="136.3" r="4" fill="#3465a4"><title>Dundee F.C. Corporate Tartan Tartan Number: 2058. Earliest known date: 1990 The tartan of the Dundee Football Club launched on the 10th December, 1990. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/db16w4db1w2db24w1lo4~x2/"><circle cx="482.6" cy="155.5" r="4" fill="#3465a4"><title>Talisker</title></circle></a><a href="/setts/s7/db36lo5db8lb3db8lb10db3~x2/"><circle cx="454.3" cy="202.1" r="4" fill="#3465a4"><title>Scottish Qualifications Auth. (Corp)</title></circle></a><a href="/setts/s7/db35k10db4w2db3r2ly2~x2/"><circle cx="453.1" cy="153.7" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers (Corp)</title></circle></a><a href="/setts/s10/r2db8ly1db16w1g12db27w1db1w1~x2/"><circle cx="466.8" cy="133.9" r="4" fill="#3465a4"><title>World Youth Congress (Corporate)</title></circle></a><a href="/setts/s6/db40g7ly3g7db15r5~x2/"><circle cx="428.2" cy="202.0" r="4" fill="#3465a4"><title>Wheadon (Name)</title></circle></a><a href="/setts/s9/db32ly4db12db2db4db2o16db67ly6/"><circle cx="467.9" cy="140.7" r="4" fill="#3465a4"><title>Calum's Cabin</title></circle></a><a href="/setts/s6/k60r3k5r3lr18o3~x2/"><circle cx="436.6" cy="160.5" r="4" fill="#3465a4"><title>Ailsa, Navy (Fashion)</title></circle></a><circle cx="460.6" cy="168.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r5db20r3db20k6db3lb2db1~x2/"><circle cx="453.2" cy="175.9" r="4" fill="#3465a4"><title>Masai Shuka 29 (Artefact)</title></circle></a><a href="/setts/s10/w1db5ly1db1ly1k4db15w1db2ly1~x4/"><circle cx="420.7" cy="148.5" r="4" fill="#3465a4"><title>SPA Association (Corporate)</title></circle></a><a href="/setts/s10/db6w4db3w6db8lo3db52lo3db8r4/"><circle cx="497.4" cy="135.9" r="4" fill="#3465a4"><title>Dundee F.C. Corporate Tartan Tartan Number: 2058. Earliest known date: 1990 The tartan of the Dundee Football Club launched on the 10th December, 1990. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/db16w4db1w2db24w1lo4~x2/"><circle cx="482.4" cy="155.1" r="4" fill="#3465a4"><title>Talisker</title></circle></a><a href="/setts/s7/db36lo5db8lb3db8lb10db3~x2/"><circle cx="454.1" cy="201.7" r="4" fill="#3465a4"><title>Scottish Qualifications Auth. (Corp)</title></circle></a><a href="/setts/s7/db35k10db4w2db3r2ly2~x2/"><circle cx="452.9" cy="153.5" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers (Corp)</title></circle></a><a href="/setts/s10/r2db8ly1db16w1g12db27w1db1w1~x2/"><circle cx="466.6" cy="133.6" r="4" fill="#3465a4"><title>World Youth Congress (Corporate)</title></circle></a><a href="/setts/s6/db40g7ly3g7db15r5~x2/"><circle cx="428.1" cy="201.7" r="4" fill="#3465a4"><title>Wheadon (Name)</title></circle></a><a href="/setts/s9/db32ly4db12db2db4db2o16db67ly6/"><circle cx="467.7" cy="140.5" r="4" fill="#3465a4"><title>Calum's Cabin</title></circle></a><a href="/setts/s6/k60r3k5r3lr18o3~x2/"><circle cx="436.6" cy="160.2" r="4" fill="#3465a4"><title>Ailsa, Navy (Fashion)</title></circle></a><circle cx="460.5" cy="168.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db18r1db1r1db1k7db13w2~x4/

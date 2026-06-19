@@ -2,12 +2,18 @@
 title: "Hutt #1 (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BYBYBWBRYGY](/stripes/bybybwbrygy/) · **Stripes:** [N LY N LY N LB N R LY DG LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">N LY N LY N LB N R LY DG LY</span></span>
+**Bands:** [YGYRBWBYBYB](/stripes/ygyrbwbybyb/) · **Stripes:** [LY DG LY R N LB N LY N LY N](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="seq">LY DG LY R N LB N LY N LY N</span></span>
 
 
 This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2568/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Hutt #1
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -923,8 +932,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/o35w4o3ly7o3w4o7dr15y4w36y5~x2/"><circle cx="180.4" cy="120.2" r="4" fill="#3465a4"><title>MacKellar, dress</title></circle></a><a href="/setts/s13/lb4t1dt1lb22t2lb2dt12r2dg16r4t1r4dt2~x2/"><circle cx="178.8" cy="88.3" r="4" fill="#3465a4"><title>MacGillivray Dress, Janice (Personal</title></circle></a><a href="/setts/s11/o35w4o3ly7o3w4o7dy15lr4w36lr5~x2/"><circle cx="187.2" cy="121.8" r="4" fill="#3465a4"><title>MacKellar Dress (Reproduction colours)</title></circle></a><a href="/setts/s12/y12t2dy4ly2dy3w3dy3o20w29t2w4dy2~x2/"><circle cx="169.5" cy="87.6" r="4" fill="#3465a4"><title>MacLean of Duart (Reproduction Colours)</title></circle></a><a href="/setts/s12/y12t2dr4ly2dr3w3dr3o20w29t2w4dr2~x2/"><circle cx="167.2" cy="86.4" r="4" fill="#3465a4"><title>MacLean of Duart 7</title></circle></a><a href="/setts/s10/lb38dt18lb4ly3g10lo3g4lb3lo17r4~x2/"><circle cx="177.1" cy="122.3" r="4" fill="#3465a4"><title>State Seal of Delaware (Fashion)</title></circle></a><a href="/setts/s12/dp6t2w24r15g12t4w4t4w4t4g34ly4/"><circle cx="137.5" cy="93.7" r="4" fill="#3465a4"><title>Fredericton (District)</title></circle></a><a href="/setts/s9/k4lb4k2lb4k2lb22o27ly2r3~x2/"><circle cx="226.6" cy="127.7" r="4" fill="#3465a4"><title>Falkirk (District)</title></circle></a><a href="/setts/s11/dy27w2dy3lo4dy3w2dy5k13n2w26n3~x2/"><circle cx="189.2" cy="113.8" r="4" fill="#3465a4"><title>MacKellar Dress, Maroon (Dance)</title></circle></a><a href="/setts/s20/dg7ly2r1n4lb15n1ly2n1ly2n2ly2n1ly2n1lb15n4r1ly2dg7ly1~x4/"><circle cx="175.8" cy="88.1" r="4" fill="#3465a4"><title>Hutt #1 (Personal)</title></circle></a><circle cx="182.6" cy="111.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/o35w4o3ly7o3w4o7dr15y4w36y5~x2/"><circle cx="180.0" cy="120.2" r="4" fill="#3465a4"><title>MacKellar, dress</title></circle></a><a href="/setts/s13/lb4t1dt1lb22t2lb2dt12r2dg16r4t1r4dt2~x2/"><circle cx="178.5" cy="88.4" r="4" fill="#3465a4"><title>MacGillivray Dress, Janice (Personal</title></circle></a><a href="/setts/s11/o35w4o3ly7o3w4o7dy15lr4w36lr5~x2/"><circle cx="186.8" cy="121.8" r="4" fill="#3465a4"><title>MacKellar Dress (Reproduction colours)</title></circle></a><a href="/setts/s12/y12t2dy4ly2dy3w3dy3o20w29t2w4dy2~x2/"><circle cx="169.2" cy="87.6" r="4" fill="#3465a4"><title>MacLean of Duart (Reproduction Colours)</title></circle></a><a href="/setts/s12/y12t2dr4ly2dr3w3dr3o20w29t2w4dr2~x2/"><circle cx="166.8" cy="86.4" r="4" fill="#3465a4"><title>MacLean of Duart 7</title></circle></a><a href="/setts/s10/lb38dt18lb4ly3g10lo3g4lb3lo17r4~x2/"><circle cx="176.8" cy="122.3" r="4" fill="#3465a4"><title>State Seal of Delaware (Fashion)</title></circle></a><a href="/setts/s12/dp6t2w24r15g12t4w4t4w4t4g34ly4/"><circle cx="137.2" cy="93.7" r="4" fill="#3465a4"><title>Fredericton (District)</title></circle></a><a href="/setts/s9/k4lb4k2lb4k2lb22o27ly2r3~x2/"><circle cx="226.3" cy="127.7" r="4" fill="#3465a4"><title>Falkirk (District)</title></circle></a><a href="/setts/s11/dy27w2dy3lo4dy3w2dy5k13n2w26n3~x2/"><circle cx="188.9" cy="113.8" r="4" fill="#3465a4"><title>MacKellar Dress, Maroon (Dance)</title></circle></a><a href="/setts/s20/dg7ly2r1n4lb15n1ly2n1ly2n2ly2n1ly2n1lb15n4r1ly2dg7ly1~x4/"><circle cx="175.4" cy="88.1" r="4" fill="#3465a4"><title>Hutt #1 (Personal)</title></circle></a><circle cx="182.3" cy="111.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/n2ly2n1ly2n1lb15n4r1ly2dg7ly1~x4/

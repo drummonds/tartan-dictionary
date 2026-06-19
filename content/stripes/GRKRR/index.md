@@ -8,7 +8,7 @@ GRKRR
 
 It is a 5 band tartan.
 
-![Woven sample](/setts/s5/g6r1k6r1o6~x6/tartan.png)
+![Woven sample](/setts/s5/o6r1k6r1g6~x6/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ GRKRR
 
 
 
-### G R K R O <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="seq">G R K R O</span></span>
+### O R K R G <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O R K R G</span></span>
 
 | Tartans |
 |---------------|
-| [Timespan](/setts/s5/g6r1k6r1o6~x6/)|
-|![Timespan example sett](/setts/s5/g6r1k6r1o6~x6/sett.png)|
+| [Timespan](/setts/s5/o6r1k6r1g6~x6/)|
+|![Timespan example sett](/setts/s5/o6r1k6r1g6~x6/sett.png)|
 

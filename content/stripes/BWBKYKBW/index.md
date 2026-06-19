@@ -8,7 +8,7 @@ BWBKYKBW
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/db3w3db5k6ly1k6db5w3~x4/tartan.png)
+![Woven sample](/setts/s8/db3w3db5k6ly1~x4/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ BWBKYKBW
 
 | Tartans |
 |---------------|
-| [Kilmarnock Football Club (Old)](/setts/s8/db3w3db5k6ly1k6db5w3~x4/)|
-|![Kilmarnock Football Club (Old) example sett](/setts/s8/db3w3db5k6ly1k6db5w3~x4/sett.png)|
+| [Kilmarnock Football Club (Old)](/setts/s8/db3w3db5k6ly1~x4/)|
+|![Kilmarnock Football Club (Old) example sett](/setts/s8/db3w3db5k6ly1~x4/sett.png)|
 

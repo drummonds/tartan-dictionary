@@ -8,7 +8,7 @@ RBKBRWR
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/r3lb20o20n20k2n20r3~x2/tartan.png)
+![Woven sample](/setts/s7/r3n20k2n20o20lb20r3~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RBKBRWR
 
 | Tartans |
 |---------------|
-| [Brodie Silver](/setts/s7/r3lb20o20n20k2n20r3~x2/)|
-|![Brodie Silver example sett](/setts/s7/r3lb20o20n20k2n20r3~x2/sett.png)|
+| [Brodie Silver](/setts/s7/r3n20k2n20o20lb20r3~x2/)|
+|![Brodie Silver example sett](/setts/s7/r3n20k2n20o20lb20r3~x2/sett.png)|
 

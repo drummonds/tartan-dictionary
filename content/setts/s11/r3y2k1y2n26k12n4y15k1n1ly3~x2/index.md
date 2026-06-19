@@ -1,0 +1,48 @@
+---
+title: "King (Personal)"
+date: 2023-03-18
+---
+**Bands:** [RGKGBKBGKBY](/stripes/rgkgbkbgkby/) · **Stripes:** [R Y K Y N K N Y K N LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R Y K Y N K N Y K N LY</span></span>
+
+
+This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/7965/
+
+## Thread count
+DY/6 B2 K2 G30 B8 K24 B52 G4 K2 G4 R/6
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#305878;"><span style="color:#305878;filter:grayscale(1) invert(1) contrast(100);">#305878</span></code> `#305878` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.08 |
+| DY | <code style="background-color:#C09C00;"><span style="color:#C09C00;filter:grayscale(1) invert(1) contrast(100);">#C09C00</span></code> `#C09C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.12 |
+| G | <code style="background-color:#5C6428;"><span style="color:#5C6428;filter:grayscale(1) invert(1) contrast(100);">#5C6428</span></code> `#5C6428` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.10 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Norham and Ladykirk (District)](/setts/s11/dg50db12o7db12r10o7k2o7k2o7r10~x2/) — ΔT 0.84
+1. [Walker, Gauvin (Personal)](/setts/s12/ly1y3dt2g5dp4g1dt14y1dt4g25y2ly1~x2/) — ΔT 0.88
+1. [Mann](/setts/s9/k3r2dy4r1db25g12dy14db3r1~x2/) — ΔT 0.91
+1. [Rikaco Classic (Fashion)](/setts/s10/db4b4db1dg24db10r1db2r5b3r2~x2/) — ΔT 0.99
+1. [Kinfauns Castle](/setts/s10/r4db10dg2db2dg24dp2dg2dp16dg2w1~x2/) — ΔT 1.03
+1. [Rikaco Heirloom (Fashion)](/setts/s10/db3db3db1g26db10n1db3dp5db4lo2~x2/) — ΔT 1.06
+1. [Urquhart - 1842 (Clan)](/setts/s12/db4w2db24k3db3k3db8k24g48k3g3r2~x2/) — ΔT 1.15
+1. [Spirit of Morningside (Fashion)](/setts/s10/dp4db5dp3db50k15g3k5g32w2g3/) — ΔT 1.20
+1. [Lawrie Clan Tartan Tartan Number: 3202. Earliest known date: 2000 One of a set of three similar designs for Laurie, Lawrie and Lowry, designed by Peter MacDonald for Iain Laurie. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/dp6o2dp1g25db16k2db4~x2/) — ΔT 1.22
+1. [Laurie Clan Tartan Tartan Number: 3201. Earliest known date: 2000 One of a set of three similar designs for Laurie, Lawrie and Lowry, designed by Peter MacDonald for Iain Laurie. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/dp6r2dp1g25db16k2db4~x2/) — ΔT 1.22
+
+## Neighbour map
+
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dg50db12o7db12r10o7k2o7k2o7r10~x2/"><circle cx="247.2" cy="133.6" r="4" fill="#3465a4"><title>Norham and Ladykirk (District)</title></circle></a><a href="/setts/s12/ly1y3dt2g5dp4g1dt14y1dt4g25y2ly1~x2/"><circle cx="342.6" cy="138.5" r="4" fill="#3465a4"><title>Walker, Gauvin (Personal)</title></circle></a><a href="/setts/s9/k3r2dy4r1db25g12dy14db3r1~x2/"><circle cx="295.0" cy="159.8" r="4" fill="#3465a4"><title>Mann</title></circle></a><a href="/setts/s10/db4b4db1dg24db10r1db2r5b3r2~x2/"><circle cx="299.1" cy="153.9" r="4" fill="#3465a4"><title>Rikaco Classic (Fashion)</title></circle></a><a href="/setts/s10/r4db10dg2db2dg24dp2dg2dp16dg2w1~x2/"><circle cx="319.9" cy="153.7" r="4" fill="#3465a4"><title>Kinfauns Castle</title></circle></a><a href="/setts/s10/db3db3db1g26db10n1db3dp5db4lo2~x2/"><circle cx="276.2" cy="124.0" r="4" fill="#3465a4"><title>Rikaco Heirloom (Fashion)</title></circle></a><a href="/setts/s12/db4w2db24k3db3k3db8k24g48k3g3r2~x2/"><circle cx="268.3" cy="128.4" r="4" fill="#3465a4"><title>Urquhart - 1842 (Clan)</title></circle></a><a href="/setts/s10/dp4db5dp3db50k15g3k5g32w2g3/"><circle cx="293.4" cy="135.4" r="4" fill="#3465a4"><title>Spirit of Morningside (Fashion)</title></circle></a><a href="/setts/s7/dp6o2dp1g25db16k2db4~x2/"><circle cx="304.7" cy="169.9" r="4" fill="#3465a4"><title>Lawrie Clan Tartan Tartan Number: 3202. Earliest known date: 2000 One of a set of three similar designs for Laurie, Lawrie and Lowry, designed by Peter MacDonald for Iain Laurie. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dp6r2dp1g25db16k2db4~x2/"><circle cx="299.7" cy="166.3" r="4" fill="#3465a4"><title>Laurie Clan Tartan Tartan Number: 3201. Earliest known date: 2000 One of a set of three similar designs for Laurie, Lawrie and Lowry, designed by Peter MacDonald for Iain Laurie. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="293.8" cy="134.8" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s11/r3y2k1y2n26k12n4y15k1n1ly3~x2/

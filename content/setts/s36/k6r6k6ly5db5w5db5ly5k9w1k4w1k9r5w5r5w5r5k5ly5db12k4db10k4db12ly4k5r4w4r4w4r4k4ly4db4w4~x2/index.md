@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [36 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3236
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Ogilvy, or Drummond of Strathallen
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,10 +920,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Ogilvie (Paton)](/setts/s36/db6k2db6ly4k2r3ly2r3w2r3k2ly2db3w2db3ly2k2r3w2r3k2ly2db6k2db6k2db6ly2k2r3w2r3w2r3k6w1~x2/) — ΔT 1.15
-1. [Ogilvie #3](/setts/s37/ly6db6ly6k8r8k8r14w2k2w2r14w2k2w2r15k8r8k8ly7db7w7db8ly8k8r6w5r6w5r6k8ly7db7ly7k6r6k6r6/) — ΔT 1.55
-1. [Wilson's No.190](/setts/s36/k3ly2k13w2t11r12w2r12k12ly2g12r12w2r12t11w2k13ly2k3ly2k13w2t11r12w2r12g12ly2k12r12w2r12t11w2k13ly2~x2/) — ΔT 1.79
+1. [Ogilvie #3](/setts/s37/r6k6r6k6ly7db7ly7k8r6w5r6w5r6k8ly8db8w7db7ly7k8r8k8r15w2k2w2r14w2k2w2r14k8r8k8ly6db6ly6/) — ΔT 1.55
+1. [Wilson's No.190](/setts/s36/k3ly2k13w2t11r12w2r12k12ly2g12r12w2r12t11w2k13ly2k3~x2/) — ΔT 1.79
 1. [Gullane](/setts/s23/k10n2k3m2w1m3w1m4w1o2w1o3w1o4w1n2w1n3w1n4w1k4w2~x4/) — ΔT 1.81
-1. [Holland, Tartan of](/setts/s24/db15w2db9db10db2db10r8db2r8lo6r2lo19w3lo19r2lo6r8db2r8db10db2db10db9w2~x2/) — ΔT 1.82
+1. [Holland, Tartan of](/setts/s24/db15w2db9db10db2db10r8db2r8lo6r2lo19w3~x2/) — ΔT 1.82
 1. [Campbell of Loch Neil Dress](/setts/s28/k20dg14k2ly4k2dg14k10w6db6w18db3w4db3w18db6w6k10dg14k2w4k2dg14k12db12k2db6k2db12/) — ΔT 1.82
 1. [MacDonell of Glengarry Dress](/setts/s22/db6r2db7r2db7r2k7dg8r2dg3r2dg5w2dg5r2dg3r2dg8k9w15k9r2~x2/) — ΔT 1.83
 1. [MacKinlay Dress](/setts/s29/r2k1db8k6lb8k2lb2k2lb8k6g8k1r2k1g8k6lb2k2lb2k2lb6k2lb2k2lb2k6db8k1r2~x2/) — ΔT 1.88
@@ -923,8 +932,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s36/db6k2db6ly4k2r3ly2r3w2r3k2ly2db3w2db3ly2k2r3w2r3k2ly2db6k2db6k2db6ly2k2r3w2r3w2r3k6w1~x2/"><circle cx="29.0" cy="146.4" r="4" fill="#3465a4"><title>Ogilvie (Paton)</title></circle></a><a href="/setts/s37/ly6db6ly6k8r8k8r14w2k2w2r14w2k2w2r15k8r8k8ly7db7w7db8ly8k8r6w5r6w5r6k8ly7db7ly7k6r6k6r6/"><circle cx="45.6" cy="135.0" r="4" fill="#3465a4"><title>Ogilvie #3</title></circle></a><a href="/setts/s36/k3ly2k13w2t11r12w2r12k12ly2g12r12w2r12t11w2k13ly2k3ly2k13w2t11r12w2r12g12ly2k12r12w2r12t11w2k13ly2~x2/"><circle cx="51.6" cy="114.6" r="4" fill="#3465a4"><title>Wilson's No.190</title></circle></a><a href="/setts/s23/k10n2k3m2w1m3w1m4w1o2w1o3w1o4w1n2w1n3w1n4w1k4w2~x4/"><circle cx="69.2" cy="119.7" r="4" fill="#3465a4"><title>Gullane</title></circle></a><a href="/setts/s24/db15w2db9db10db2db10r8db2r8lo6r2lo19w3lo19r2lo6r8db2r8db10db2db10db9w2~x2/"><circle cx="82.7" cy="131.1" r="4" fill="#3465a4"><title>Holland, Tartan of</title></circle></a><a href="/setts/s28/k20dg14k2ly4k2dg14k10w6db6w18db3w4db3w18db6w6k10dg14k2w4k2dg14k12db12k2db6k2db12/"><circle cx="50.3" cy="127.5" r="4" fill="#3465a4"><title>Campbell of Loch Neil Dress</title></circle></a><a href="/setts/s22/db6r2db7r2db7r2k7dg8r2dg3r2dg5w2dg5r2dg3r2dg8k9w15k9r2~x2/"><circle cx="48.8" cy="148.5" r="4" fill="#3465a4"><title>MacDonell of Glengarry Dress</title></circle></a><a href="/setts/s29/r2k1db8k6lb8k2lb2k2lb8k6g8k1r2k1g8k6lb2k2lb2k2lb6k2lb2k2lb2k6db8k1r2~x2/"><circle cx="81.3" cy="133.5" r="4" fill="#3465a4"><title>MacKinlay Dress</title></circle></a><a href="/setts/s26/db12k2db6k2db12k12g14k2w4k2g14k10w6db6w18db3w4db3w18db6w6k10g14k2ly4k2/"><circle cx="45.7" cy="129.5" r="4" fill="#3465a4"><title>Campbell of Loch Neil Dress Clan Tartan Tartan Number: 1963. Earliest known date: pre 2003 Sample 1984 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s32/db8w5db5w5db8w2r1w2ly3r6ly3g6ly14w2r1w2db8w5db5w5db8w2r1w2g3r6g3ly6g14w2r1w2~x2/"><circle cx="47.2" cy="91.2" r="4" fill="#3465a4"><title>New Elgin Primary School</title></circle></a><circle cx="25.6" cy="126.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s36/db6k2db6ly4k2r3ly2r3w2r3k2ly2db3w2db3ly2k2r3w2r3k2ly2db6k2db6k2db6ly2k2r3w2r3w2r3k6w1~x2/"><circle cx="28.9" cy="146.5" r="4" fill="#3465a4"><title>Ogilvie (Paton)</title></circle></a><a href="/setts/s37/r6k6r6k6ly7db7ly7k8r6w5r6w5r6k8ly8db8w7db7ly7k8r8k8r15w2k2w2r14w2k2w2r14k8r8k8ly6db6ly6/"><circle cx="45.4" cy="135.1" r="4" fill="#3465a4"><title>Ogilvie #3</title></circle></a><a href="/setts/s36/k3ly2k13w2t11r12w2r12k12ly2g12r12w2r12t11w2k13ly2k3~x2/"><circle cx="51.5" cy="114.8" r="4" fill="#3465a4"><title>Wilson's No.190</title></circle></a><a href="/setts/s23/k10n2k3m2w1m3w1m4w1o2w1o3w1o4w1n2w1n3w1n4w1k4w2~x4/"><circle cx="69.2" cy="119.8" r="4" fill="#3465a4"><title>Gullane</title></circle></a><a href="/setts/s24/db15w2db9db10db2db10r8db2r8lo6r2lo19w3~x2/"><circle cx="82.5" cy="131.2" r="4" fill="#3465a4"><title>Holland, Tartan of</title></circle></a><a href="/setts/s28/k20dg14k2ly4k2dg14k10w6db6w18db3w4db3w18db6w6k10dg14k2w4k2dg14k12db12k2db6k2db12/"><circle cx="50.3" cy="127.6" r="4" fill="#3465a4"><title>Campbell of Loch Neil Dress</title></circle></a><a href="/setts/s22/db6r2db7r2db7r2k7dg8r2dg3r2dg5w2dg5r2dg3r2dg8k9w15k9r2~x2/"><circle cx="48.8" cy="148.7" r="4" fill="#3465a4"><title>MacDonell of Glengarry Dress</title></circle></a><a href="/setts/s29/r2k1db8k6lb8k2lb2k2lb8k6g8k1r2k1g8k6lb2k2lb2k2lb6k2lb2k2lb2k6db8k1r2~x2/"><circle cx="81.3" cy="133.6" r="4" fill="#3465a4"><title>MacKinlay Dress</title></circle></a><a href="/setts/s26/db12k2db6k2db12k12g14k2w4k2g14k10w6db6w18db3w4db3w18db6w6k10g14k2ly4k2/"><circle cx="45.7" cy="129.5" r="4" fill="#3465a4"><title>Campbell of Loch Neil Dress Clan Tartan Tartan Number: 1963. Earliest known date: pre 2003 Sample 1984 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s32/db8w5db5w5db8w2r1w2ly3r6ly3g6ly14w2r1w2db8w5db5w5db8w2r1w2g3r6g3ly6g14w2r1w2~x2/"><circle cx="46.9" cy="91.3" r="4" fill="#3465a4"><title>New Elgin Primary School</title></circle></a><circle cx="25.6" cy="126.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s36/k6r6k6ly5db5w5db5ly5k9w1k4w1k9r5w5r5w5r5k5ly5db12k4db10k4db12ly4k5r4w4r4w4r4k4ly4db4w4~x2/

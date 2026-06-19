@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w4k2w30g3dp3g3dp7db14g3r3~x2/"><circle cx="174.0" cy="84.1" r="4" fill="#3465a4"><title>Edinburgh Dress (Dance)</title></circle></a><a href="/setts/s12/r5w2b2w2ly5w2lb2w2k7b14lb30w4~x2/"><circle cx="159.9" cy="80.3" r="4" fill="#3465a4"><title>St. Andrews Management School</title></circle></a><a href="/setts/s13/lr38p5lr6p5lr4k20lr38y12w3n30w3n2w7/"><circle cx="198.2" cy="89.3" r="4" fill="#3465a4"><title>Tom Morris (Official)</title></circle></a><a href="/setts/s14/t14lr2lo2lr2t25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="167.9" cy="91.4" r="4" fill="#3465a4"><title>Letang Family (Neuilly sur Seine, France) (Personal)</title></circle></a><a href="/setts/s8/db5w30lr9k9dp9g2dp2g5~x2/"><circle cx="131.9" cy="106.9" r="4" fill="#3465a4"><title>Alexander of Menstry Dress</title></circle></a><a href="/setts/s12/t12db2k4ly2k3m3k3m19w31db2w4k2~x2/"><circle cx="153.7" cy="75.1" r="4" fill="#3465a4"><title>MacLean of Duart Dress #5</title></circle></a><a href="/setts/s12/w15db2k3ly1k1w1k1g3r4k1r1w1~x2/"><circle cx="200.6" cy="68.1" r="4" fill="#3465a4"><title>Stewart Dress MINI Tartan Tartan Number: 11790. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/w37k4db12g12w2lr2r23w4r6~x2/"><circle cx="165.8" cy="97.8" r="4" fill="#3465a4"><title>Hebridean Arisaid, Red/White (Dance)</title></circle></a><a href="/setts/s14/b14lb2ly2lb2b25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="166.2" cy="96.9" r="4" fill="#3465a4"><title>Letang (Personal)</title></circle></a><a href="/setts/s10/w4g3w19g8k1r4k1db18k1lo2~x2/"><circle cx="137.7" cy="88.4" r="4" fill="#3465a4"><title>Alberta Dress</title></circle></a><circle cx="182.8" cy="90.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w4k2w30g3dp3g3dp7db14g3r3~x2/"><circle cx="173.7" cy="84.0" r="4" fill="#3465a4"><title>Edinburgh Dress (Dance)</title></circle></a><a href="/setts/s12/r5w2b2w2ly5w2lb2w2k7b14lb30w4~x2/"><circle cx="159.5" cy="80.3" r="4" fill="#3465a4"><title>St. Andrews Management School</title></circle></a><a href="/setts/s13/lr38p5lr6p5lr4k20lr38y12w3n30w3n2w7/"><circle cx="197.9" cy="89.3" r="4" fill="#3465a4"><title>Tom Morris (Official)</title></circle></a><a href="/setts/s14/t14lr2lo2lr2t25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="167.6" cy="91.5" r="4" fill="#3465a4"><title>Letang Family (Neuilly sur Seine, France) (Personal)</title></circle></a><a href="/setts/s8/db5w30lr9k9dp9g2dp2g5~x2/"><circle cx="131.7" cy="106.9" r="4" fill="#3465a4"><title>Alexander of Menstry Dress</title></circle></a><a href="/setts/s12/t12db2k4ly2k3m3k3m19w31db2w4k2~x2/"><circle cx="153.4" cy="75.2" r="4" fill="#3465a4"><title>MacLean of Duart Dress #5</title></circle></a><a href="/setts/s12/w15db2k3ly1k1w1k1g3r4k1r1w1~x2/"><circle cx="200.2" cy="68.0" r="4" fill="#3465a4"><title>Stewart Dress MINI Tartan Tartan Number: 11790. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/w37k4db12g12w2lr2r23w4r6~x2/"><circle cx="165.6" cy="97.8" r="4" fill="#3465a4"><title>Hebridean Arisaid, Red/White (Dance)</title></circle></a><a href="/setts/s14/b14lb2ly2lb2b25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="166.0" cy="96.9" r="4" fill="#3465a4"><title>Letang (Personal)</title></circle></a><a href="/setts/s10/w4g3w19g8k1r4k1db18k1lo2~x2/"><circle cx="137.5" cy="88.4" r="4" fill="#3465a4"><title>Alberta Dress</title></circle></a><circle cx="182.5" cy="90.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/w4k2w30g3p3g3p7db14g3r3~x2/

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 LT6 B4 LT12 DR22 LN4 DR4 Y4 DR4 LN14 R6 LN/92
+LN/92 R6 LN14 DR4 Y4 DR4 LN4 DR22 LT12 B4 LT6 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w46r3do2ly2w7do2w2do11lo6t2lo3w3~x2/"><circle cx="331.5" cy="39.1" r="4" fill="#3465a4"><title>Diana, Plaid Dress</title></circle></a><a href="/setts/s13/lb50db6lb2k6ly2k3lb2k3g6r6k2r2lb2~x2/"><circle cx="311.6" cy="31.9" r="4" fill="#3465a4"><title>Stewart Dress (Artefact)</title></circle></a><a href="/setts/s12/lb24r2lb3dy1ly1dy1lb1dy6o6b1o2lb1~x4/"><circle cx="319.0" cy="58.4" r="4" fill="#3465a4"><title>Unidentified #54</title></circle></a><a href="/setts/s12/w63k4t9ly2t4ly2t4o11r8t2r4w5~x2/"><circle cx="306.0" cy="34.8" r="4" fill="#3465a4"><title>Seller, Sillar</title></circle></a><a href="/setts/s10/w102k3lo3k3w3k12db14g12w3r3~x2/"><circle cx="376.5" cy="32.2" r="4" fill="#3465a4"><title>Halford-Macleod, Miss Emma (Personal</title></circle></a><a href="/setts/s11/w24db2k2ly1k1w1g6n4g1n1w1~x4/"><circle cx="278.6" cy="41.4" r="4" fill="#3465a4"><title>Pritchard</title></circle></a><a href="/setts/s12/w63k4lb9ly2lb4ly2lb4dy11r8lb2r4w5~x2/"><circle cx="299.2" cy="27.1" r="4" fill="#3465a4"><title>Seller Dress (Personal)</title></circle></a><a href="/setts/s10/w102dt3ly3dt3w3dt12n14g12w3o3~x2/"><circle cx="394.2" cy="38.1" r="4" fill="#3465a4"><title>Miss Emma Halford-MacLeod</title></circle></a><a href="/setts/s11/w36g6r2g3w2g3dy6p4g2p2w2~x2/"><circle cx="295.1" cy="73.3" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/setts/s16/db3t2db3ly2w4ly2k8ly2w4ly2r8ly2w20ly2w62ly2/"><circle cx="373.2" cy="14.0" r="4" fill="#3465a4"><title>Druid</title></circle></a><circle cx="338.2" cy="43.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w46r3do2ly2w7do2w2do11lo6t2lo3w3~x2/"><circle cx="330.8" cy="38.9" r="4" fill="#3465a4"><title>Diana, Plaid Dress</title></circle></a><a href="/setts/s13/lb50db6lb2k6ly2k3lb2k3g6r6k2r2lb2~x2/"><circle cx="311.1" cy="31.8" r="4" fill="#3465a4"><title>Stewart Dress (Artefact)</title></circle></a><a href="/setts/s12/lb24r2lb3dy1ly1dy1lb1dy6o6b1o2lb1~x4/"><circle cx="318.4" cy="58.4" r="4" fill="#3465a4"><title>Unidentified #54</title></circle></a><a href="/setts/s12/w63k4t9ly2t4ly2t4o11r8t2r4w5~x2/"><circle cx="305.4" cy="34.7" r="4" fill="#3465a4"><title>Seller, Sillar</title></circle></a><a href="/setts/s10/w102k3lo3k3w3k12db14g12w3r3~x2/"><circle cx="375.9" cy="31.9" r="4" fill="#3465a4"><title>Halford-Macleod, Miss Emma (Personal</title></circle></a><a href="/setts/s11/w24db2k2ly1k1w1g6n4g1n1w1~x4/"><circle cx="278.0" cy="41.2" r="4" fill="#3465a4"><title>Pritchard</title></circle></a><a href="/setts/s12/w63k4lb9ly2lb4ly2lb4dy11r8lb2r4w5~x2/"><circle cx="298.5" cy="27.0" r="4" fill="#3465a4"><title>Seller Dress (Personal)</title></circle></a><a href="/setts/s10/w102dt3ly3dt3w3dt12n14g12w3o3~x2/"><circle cx="393.5" cy="37.9" r="4" fill="#3465a4"><title>Miss Emma Halford-MacLeod</title></circle></a><a href="/setts/s11/w36g6r2g3w2g3dy6p4g2p2w2~x2/"><circle cx="294.5" cy="73.1" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/setts/s16/db3t2db3ly2w4ly2k8ly2w4ly2r8ly2w20ly2w62ly2/"><circle cx="372.4" cy="14.0" r="4" fill="#3465a4"><title>Druid</title></circle></a><circle cx="337.6" cy="43.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/w46r3w7dr2ly2dr2w2dr11o6b2o3w2~x2/

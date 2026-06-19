@@ -2,7 +2,7 @@
 title: "Seton"
 date: 2023-03-18
 ---
-**Bands:** [GWGRBRKRGR](/stripes/gwgrbrkrgr/) · **Stripes:** [G W G R DB R K R G R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">G W G R DB R K R G R</span></span>
+**Bands:** [RGRKRBRGWG](/stripes/rgrkrbrgwg/) · **Stripes:** [R G R K R DB R G W G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R K R DB R G W G</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -914,17 +917,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Chisholm](/setts/s10/r6w1r24db6g2k1g2k1g12r1~x2/) — ΔT 0.67
 1. [Leach, Leech, Leitch, dress](/setts/s9/r33w1k3w1g13r7k3p3w1~x2/) — ΔT 0.71
 1. [Stewart of Rothesay](/setts/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/) — ΔT 0.75
-1. [Drummond of Perth](/setts/s8/r36lb1db3ly1dg16r8db3lb5~x2/) — ΔT 0.81
+1. [Drummond of Perth](/setts/s8/r36lb1db3ly1dg16r8db3lb5/) — ΔT 0.81
 1. [Chisholm #2](/setts/s10/r6w1r24db6dg2k1dg2k1dg12r1~x2/) — ΔT 0.84
-1. [Chisholm VS](/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1~x2/) — ΔT 0.86
+1. [Chisholm VS](/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1/) — ΔT 0.86
 1. [MacAulay](/setts/s9/r48db1g24db1r10db1g12k1w4~x2/) — ΔT 0.92
 1. [Seton](/setts/s10/dg6lr1dg12r4db4r2k4r32dg1r2~x2/) — ΔT 1.00
 1. [Drummond of Perth](/setts/s9/r51ly2k4w2g21r10k4t4w2~x2/) — ΔT 1.06
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dg6lb1dg12r4db4r2k4r32dg1r2~x2/"><circle cx="369.5" cy="88.7" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s10/r6w1r24db6g2k1g2k1g12r1~x2/"><circle cx="336.0" cy="104.5" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s9/r33w1k3w1g13r7k3p3w1~x2/"><circle cx="375.6" cy="81.9" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, dress</title></circle></a><a href="/setts/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/"><circle cx="369.3" cy="84.3" r="4" fill="#3465a4"><title>Stewart of Rothesay</title></circle></a><a href="/setts/s8/r36lb1db3ly1dg16r8db3lb5~x2/"><circle cx="373.5" cy="93.7" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s10/r6w1r24db6dg2k1dg2k1dg12r1~x2/"><circle cx="341.2" cy="103.1" r="4" fill="#3465a4"><title>Chisholm #2</title></circle></a><a href="/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1~x2/"><circle cx="331.9" cy="102.8" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/setts/s9/r48db1g24db1r10db1g12k1w4~x2/"><circle cx="394.6" cy="84.2" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s10/dg6lr1dg12r4db4r2k4r32dg1r2~x2/"><circle cx="387.8" cy="101.9" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s9/r51ly2k4w2g21r10k4t4w2~x2/"><circle cx="345.1" cy="75.4" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><circle cx="369.0" cy="88.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dg6lb1dg12r4db4r2k4r32dg1r2~x2/"><circle cx="369.1" cy="88.6" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s10/r6w1r24db6g2k1g2k1g12r1~x2/"><circle cx="335.6" cy="104.4" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s9/r33w1k3w1g13r7k3p3w1~x2/"><circle cx="375.1" cy="81.7" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, dress</title></circle></a><a href="/setts/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/"><circle cx="368.8" cy="84.2" r="4" fill="#3465a4"><title>Stewart of Rothesay</title></circle></a><a href="/setts/s8/r36lb1db3ly1dg16r8db3lb5/"><circle cx="373.1" cy="93.6" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s10/r6w1r24db6dg2k1dg2k1dg12r1~x2/"><circle cx="340.8" cy="103.0" r="4" fill="#3465a4"><title>Chisholm #2</title></circle></a><a href="/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1/"><circle cx="331.5" cy="102.7" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/setts/s9/r48db1g24db1r10db1g12k1w4~x2/"><circle cx="394.1" cy="84.1" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s10/dg6lr1dg12r4db4r2k4r32dg1r2~x2/"><circle cx="387.5" cy="101.9" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s9/r51ly2k4w2g21r10k4t4w2~x2/"><circle cx="344.7" cy="75.3" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><circle cx="368.6" cy="88.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/g6w1g12r4db4r2k4r32g1r2~x2/

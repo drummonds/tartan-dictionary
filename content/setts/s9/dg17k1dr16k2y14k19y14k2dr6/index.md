@@ -2,7 +2,7 @@
 title: "Borthwick"
 date: 2023-03-18
 ---
-**Bands:** [BKGKGKBKG](/stripes/bkgkgkbkg/) · **Stripes:** [DR K Y K Y K DR K DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">DR K Y K Y K DR K DG</span></span>
+**Bands:** [GKBKGKGKB](/stripes/gkbkgkgkb/) · **Stripes:** [DG K DR K Y K Y K DR](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="seq">DG K DR K Y K Y K DR</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -13,14 +13,22 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2625](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2625)
-- Scottish Register of Tartans: [3555](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3555)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 1429
 - Scottish Tartans Authority (ITI): 218
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1429
 - Scottish Tartans World Register: 218
-- Scottish Tartans World Register: 864
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Variants
 
@@ -53,7 +61,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Borthwick](/setts/s9/g17k1r16k2y14k19y14k2r6~x2/) — ΔT 0.66
 1. [Borthwick](/setts/s9/dg17k1r16k2y14k19y14k2r6/) — ΔT 0.69
 1. [Borthwick D](/setts/s9/dg12k1r10k2y10k14y10k2r4~x2/) — ΔT 0.74
-1. [Borthwick (Clan)](/setts/s9/g17k1r16k2o14k19o14k2r6~x2/) — ΔT 1.13
+1. [Borthwick (Clan)](/setts/s9/g17k1r16k2o14k19o14k2r6~x2/) — ΔT 1.14
 1. [Young Presidents Organisation](/setts/s12/r22db5k10g12k2g12k10db3k2db3k2db16~x2/) — ΔT 1.19
 1. [Skene of Cromar (Cant version)](/setts/s6/g21k21r1db20r20k2~x2/) — ΔT 1.24
 1. [Logan - 1797 (Dark)](/setts/s7/k9lr4k1lr4dg15r4k1~x4/) — ΔT 1.31
@@ -61,8 +69,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg17k1dr16k2y14k19y14k2dr6~x2/"><circle cx="154.6" cy="181.7" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s9/dg12k1dr10k2y10k14y10k2dr4~x2/"><circle cx="138.8" cy="195.4" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/setts/s9/g17k1r16k2y14k19y14k2r6~x2/"><circle cx="142.1" cy="171.3" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s9/dg17k1r16k2y14k19y14k2r6/"><circle cx="148.8" cy="172.3" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s9/dg12k1r10k2y10k14y10k2r4~x2/"><circle cx="133.8" cy="187.2" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/setts/s9/g17k1r16k2o14k19o14k2r6~x2/"><circle cx="170.7" cy="184.1" r="4" fill="#3465a4"><title>Borthwick (Clan)</title></circle></a><a href="/setts/s12/r22db5k10g12k2g12k10db3k2db3k2db16~x2/"><circle cx="117.4" cy="177.1" r="4" fill="#3465a4"><title>Young Presidents Organisation</title></circle></a><a href="/setts/s6/g21k21r1db20r20k2~x2/"><circle cx="166.0" cy="204.4" r="4" fill="#3465a4"><title>Skene of Cromar (Cant version)</title></circle></a><a href="/setts/s7/k9lr4k1lr4dg15r4k1~x4/"><circle cx="215.3" cy="185.3" r="4" fill="#3465a4"><title>Logan - 1797 (Dark)</title></circle></a><a href="/setts/s12/db9r3db3r5db16r2k17g16r5g3ly1g9~x2/"><circle cx="129.1" cy="146.2" r="4" fill="#3465a4"><title>Bowie</title></circle></a><circle cx="154.6" cy="181.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg17k1dr16k2y14k19y14k2dr6~x2/"><circle cx="154.8" cy="181.7" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s9/dg12k1dr10k2y10k14y10k2dr4~x2/"><circle cx="139.0" cy="195.4" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/setts/s9/g17k1r16k2y14k19y14k2r6~x2/"><circle cx="142.2" cy="171.2" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s9/dg17k1r16k2y14k19y14k2r6/"><circle cx="148.9" cy="172.3" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s9/dg12k1r10k2y10k14y10k2r4~x2/"><circle cx="133.9" cy="187.2" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/setts/s9/g17k1r16k2o14k19o14k2r6~x2/"><circle cx="170.7" cy="184.2" r="4" fill="#3465a4"><title>Borthwick (Clan)</title></circle></a><a href="/setts/s12/r22db5k10g12k2g12k10db3k2db3k2db16~x2/"><circle cx="117.5" cy="177.2" r="4" fill="#3465a4"><title>Young Presidents Organisation</title></circle></a><a href="/setts/s6/g21k21r1db20r20k2~x2/"><circle cx="166.1" cy="204.5" r="4" fill="#3465a4"><title>Skene of Cromar (Cant version)</title></circle></a><a href="/setts/s7/k9lr4k1lr4dg15r4k1~x4/"><circle cx="215.3" cy="185.3" r="4" fill="#3465a4"><title>Logan - 1797 (Dark)</title></circle></a><a href="/setts/s12/db9r3db3r5db16r2k17g16r5g3ly1g9~x2/"><circle cx="129.1" cy="146.3" r="4" fill="#3465a4"><title>Bowie</title></circle></a><circle cx="154.8" cy="181.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dg17k1dr16k2y14k19y14k2dr6/

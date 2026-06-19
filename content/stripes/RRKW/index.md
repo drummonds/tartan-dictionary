@@ -34,6 +34,6 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Thompson, Dress (Clan)](/setts/s4/lb3k16o16r3~x4/)|
-|![Thompson, Dress (Clan) example sett](/setts/s4/lb3k16o16r3~x4/sett.png)|
+| [Thompson, Dress (Clan)](/setts/s4/r3o16k16lb3~x4/)|
+|![Thompson, Dress (Clan) example sett](/setts/s4/r3o16k16lb3~x4/sett.png)|
 

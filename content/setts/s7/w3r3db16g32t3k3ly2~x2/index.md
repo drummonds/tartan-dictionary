@@ -2,7 +2,7 @@
 title: "Washington State"
 date: 2023-03-18
 ---
-**Bands:** [WRBGBKY](/stripes/wrbgbky/) · **Stripes:** [W R DB G T K LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W R DB G T K LY</span></span>
+**Bands:** [YKBGBRW](/stripes/ykbgbrw/) · **Stripes:** [LY K T G DB R W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K T G DB R W</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
@@ -32,7 +32,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-DY/4 K6 B6 G64 DB32 DR6 W/6
+W/6 DR6 DB32 G64 B6 K6 DY/4
 ![Sett](sett.png)
 
 ## Palette
@@ -55,13 +55,13 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DY/4 K6 B6 G64 DB32 DR6 W/6 tartan")
+![Tartan detail](tartan.png "W/6 DR6 DB32 G64 B6 K6 DY/4 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Scottish Ambulance Service (Corporat](/setts/s9/lb3dg2t2dg32k2g2k12t16r3~x2/) — ΔT 0.96
+1. [Scottish Ambulance Service (Corporat](/setts/s9/r3t16k12g2k2dg32t2dg2lb3~x2/) — ΔT 0.96
 1. [Brooke](/setts/s9/b2lb1b2k16g20k14r2w2ly2~x2/) — ΔT 1.07
 1. [Washington District Tartan Tartan Number: 2148. Earliest known date: 1988 The Washington State tartan was a project of the Vancouver U.S.A. Country Dancers. It was designed by Margaret McLeod van Nus and Frank Cannonito in order to commemorate the Washington State Centennial celebrations. Governor Booth Gardner signed the bill into law, adopting the design on behalf of the House of Representatives in 1991. The tartan is accredited by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/w3r4db13g37t3k3ly2~x2/) — ΔT 1.08
 1. [Young Enterprise Scotland](/setts/s7/ly3k8o3g4g4dt22ly2~x2/) — ΔT 1.24
@@ -74,8 +74,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lb3dg2t2dg32k2g2k12t16r3~x2/"><circle cx="185.1" cy="104.1" r="4" fill="#3465a4"><title>Scottish Ambulance Service (Corporat</title></circle></a><a href="/setts/s9/b2lb1b2k16g20k14r2w2ly2~x2/"><circle cx="207.4" cy="100.0" r="4" fill="#3465a4"><title>Brooke</title></circle></a><a href="/setts/s7/w3r4db13g37t3k3ly2~x2/"><circle cx="283.6" cy="115.3" r="4" fill="#3465a4"><title>Washington District Tartan Tartan Number: 2148. Earliest known date: 1988 The Washington State tartan was a project of the Vancouver U.S.A. Country Dancers. It was designed by Margaret McLeod van Nus and Frank Cannonito in order to commemorate the Washington State Centennial celebrations. Governor Booth Gardner signed the bill into law, adopting the design on behalf of the House of Representatives in 1991. The tartan is accredited by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/ly3k8o3g4g4dt22ly2~x2/"><circle cx="171.3" cy="139.9" r="4" fill="#3465a4"><title>Young Enterprise Scotland</title></circle></a><a href="/setts/s7/k2db2g16db2ly1db13w2~x2/"><circle cx="194.3" cy="139.0" r="4" fill="#3465a4"><title>Wishart, hunting</title></circle></a><a href="/setts/s8/r3w6r2g32db36k2db4ly2~x2/"><circle cx="243.5" cy="120.5" r="4" fill="#3465a4"><title>Canadian Centennial</title></circle></a><a href="/setts/s7/w3r4db13g37b3k3ly2~x2/"><circle cx="270.4" cy="108.2" r="4" fill="#3465a4"><title>Washington</title></circle></a><a href="/setts/s9/w2db20dg2g2dg2g4dg8ly2r1~x2/"><circle cx="231.7" cy="115.2" r="4" fill="#3465a4"><title>Nova Scotia</title></circle></a><a href="/setts/s7/r4g14k3lp3g12db36w4~x2/"><circle cx="221.2" cy="154.1" r="4" fill="#3465a4"><title>Vipont</title></circle></a><a href="/setts/s7/r3lb2g20k3db8g2lb2~x2/"><circle cx="219.2" cy="160.6" r="4" fill="#3465a4"><title>Royal British Legion (Corporate)</title></circle></a><circle cx="225.1" cy="118.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r3t16k12g2k2dg32t2dg2lb3~x2/"><circle cx="185.1" cy="104.2" r="4" fill="#3465a4"><title>Scottish Ambulance Service (Corporat</title></circle></a><a href="/setts/s9/b2lb1b2k16g20k14r2w2ly2~x2/"><circle cx="207.4" cy="100.0" r="4" fill="#3465a4"><title>Brooke</title></circle></a><a href="/setts/s7/w3r4db13g37t3k3ly2~x2/"><circle cx="283.5" cy="115.3" r="4" fill="#3465a4"><title>Washington District Tartan Tartan Number: 2148. Earliest known date: 1988 The Washington State tartan was a project of the Vancouver U.S.A. Country Dancers. It was designed by Margaret McLeod van Nus and Frank Cannonito in order to commemorate the Washington State Centennial celebrations. Governor Booth Gardner signed the bill into law, adopting the design on behalf of the House of Representatives in 1991. The tartan is accredited by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/ly3k8o3g4g4dt22ly2~x2/"><circle cx="171.4" cy="139.9" r="4" fill="#3465a4"><title>Young Enterprise Scotland</title></circle></a><a href="/setts/s7/k2db2g16db2ly1db13w2~x2/"><circle cx="194.4" cy="139.0" r="4" fill="#3465a4"><title>Wishart, hunting</title></circle></a><a href="/setts/s8/r3w6r2g32db36k2db4ly2~x2/"><circle cx="243.3" cy="120.5" r="4" fill="#3465a4"><title>Canadian Centennial</title></circle></a><a href="/setts/s7/w3r4db13g37b3k3ly2~x2/"><circle cx="270.2" cy="108.2" r="4" fill="#3465a4"><title>Washington</title></circle></a><a href="/setts/s9/w2db20dg2g2dg2g4dg8ly2r1~x2/"><circle cx="231.7" cy="115.2" r="4" fill="#3465a4"><title>Nova Scotia</title></circle></a><a href="/setts/s7/r4g14k3lp3g12db36w4~x2/"><circle cx="221.1" cy="154.1" r="4" fill="#3465a4"><title>Vipont</title></circle></a><a href="/setts/s7/r3lb2g20k3db8g2lb2~x2/"><circle cx="219.2" cy="160.6" r="4" fill="#3465a4"><title>Royal British Legion (Corporate)</title></circle></a><circle cx="225.1" cy="118.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/w3r3db16g32t3k3ly2~x2/

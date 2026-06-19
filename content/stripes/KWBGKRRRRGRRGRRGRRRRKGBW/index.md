@@ -22,6 +22,6 @@ KWBGKRRRRGRRGRRGRRRRKGBW
 
 | Tartans |
 |---------------|
-| [St. Andrews Grand](/setts/s24/k3w2db23g18k12r1r1r1r1dg2r1r1g4r1r1dg2r1r1r1r1k12g18db23w2~x2/)|
-|![St. Andrews Grand example sett](/setts/s24/k3w2db23g18k12r1r1r1r1dg2r1r1g4r1r1dg2r1r1r1r1k12g18db23w2~x2/sett.png)|
+| [St. Andrews Grand](/setts/s24/g4r1r1dg2r1r1r1r1k12g18db23w2k3~x2/)|
+|![St. Andrews Grand example sett](/setts/s24/g4r1r1dg2r1r1r1r1k12g18db23w2k3~x2/sett.png)|
 

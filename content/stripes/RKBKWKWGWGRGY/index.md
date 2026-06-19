@@ -22,6 +22,6 @@ RKBKWKWGWGRGY
 
 | Tartans |
 |---------------|
-| [Nashotah House](/setts/s13/lo2g1r5g7w2g15lb8k14w2k10dp6k2r2~x2/)|
-|![Nashotah House example sett](/setts/s13/lo2g1r5g7w2g15lb8k14w2k10dp6k2r2~x2/sett.png)|
+| [Nashotah House](/setts/s13/r2k2dp6k10w2k14lb8g15w2g7r5g1lo2~x2/)|
+|![Nashotah House example sett](/setts/s13/r2k2dp6k10w2k14lb8g15w2g7r5g1lo2~x2/sett.png)|
 

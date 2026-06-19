@@ -20,7 +20,7 @@ BBGRK
 
 
 
-### B DO DG O K <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="seq">B DO DG O K</span></span>
+### K O DG DO B <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K O DG DO B</span></span>
 
 | Tartans |
 |---------------|

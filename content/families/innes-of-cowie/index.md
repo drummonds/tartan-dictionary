@@ -1,8 +1,8 @@
 ---
-title: "Innes of Cowie"
+title: "Innes, of Cowie"
 date: 2023-03-18
 ---
-A family of [Clan Innes](/clan/innes/).
+A family of [Clan Innes,](/clan/innes/).
 
 **Trove of Scotland:** [search “Cowie”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Cowie&viewmode=grid)
 

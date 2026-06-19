@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Rose, White dress
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -900,7 +909,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-K/3 LN18 G6 K6 B6 R/32
+R/32 B6 K6 G6 LN18 K/3
 ![Sett](sett.png)
 
 ## Palette
@@ -916,7 +925,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/3 LN18 G6 K6 B6 R/32 tartan")
+![Tartan detail](tartan.png "R/32 B6 K6 G6 LN18 K/3 tartan")
 
 ## Nearest tartans
 
@@ -925,18 +934,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Rose White Dress](/setts/s6/r24n4k4g4w13k2~x4/) — ΔT 0.54
 1. [Siddle, New (Corporate)](/setts/s5/r30db20w15lb3ly3/) — ΔT 0.97
 1. [Ballater Victoria Week](/setts/s5/dp8ly6k2o1w1~x8/) — ΔT 0.99
-1. [MacTavish](/setts/s6/lb2r12db2lb6k6lb1~x2/) — ΔT 1.08
-1. [McGill University](/setts/s5/ly3dg8db12r24w3~x2/) — ΔT 1.12
+1. [MacTavish](/setts/s6/lb2r12db2lb6k6lb1/) — ΔT 1.08
+1. [McGill University](/setts/s5/w3r24db12dg8ly3~x2/) — ΔT 1.12
 1. [Hearts Football Club (Corporate)](/setts/s9/db3w12k11r4w2r2w2r24ly3~x2/) — ΔT 1.13
 1. [Glasgow](/setts/s7/dg20r3y3r15w19dg3t2~x2/) — ΔT 1.15
 1. [Shiel, Claret (Dance)](/setts/s7/w8r5dp10r24w30r2db2~x2/) — ΔT 1.16
-1. [Hoffman Texas German](/setts/s7/k23r27db3r5w3k14ly6~x2/) — ΔT 1.25
 1. [Caledonian Brewery (Corporate)](/setts/s7/w4dg20dg10r25b2r2dg2~x2/) — ΔT 1.25
+1. [Hoffman Texas German](/setts/s7/k23r27db3r5w3k14ly6~x2/) — ΔT 1.25
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r24n4k4g4w13k2~x4/"><circle cx="202.4" cy="151.5" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/setts/s5/r30db20w15lb3ly3/"><circle cx="171.9" cy="178.4" r="4" fill="#3465a4"><title>Siddle, New (Corporate)</title></circle></a><a href="/setts/s5/dp8ly6k2o1w1~x8/"><circle cx="178.1" cy="180.7" r="4" fill="#3465a4"><title>Ballater Victoria Week</title></circle></a><a href="/setts/s6/lb2r12db2lb6k6lb1~x2/"><circle cx="186.2" cy="173.4" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/setts/s5/ly3dg8db12r24w3~x2/"><circle cx="197.4" cy="181.8" r="4" fill="#3465a4"><title>McGill University</title></circle></a><a href="/setts/s9/db3w12k11r4w2r2w2r24ly3~x2/"><circle cx="212.5" cy="125.4" r="4" fill="#3465a4"><title>Hearts Football Club (Corporate)</title></circle></a><a href="/setts/s7/dg20r3y3r15w19dg3t2~x2/"><circle cx="134.9" cy="157.9" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><a href="/setts/s7/w8r5dp10r24w30r2db2~x2/"><circle cx="212.0" cy="131.0" r="4" fill="#3465a4"><title>Shiel, Claret (Dance)</title></circle></a><a href="/setts/s7/k23r27db3r5w3k14ly6~x2/"><circle cx="207.5" cy="173.2" r="4" fill="#3465a4"><title>Hoffman Texas German</title></circle></a><a href="/setts/s7/w4dg20dg10r25b2r2dg2~x2/"><circle cx="203.1" cy="153.8" r="4" fill="#3465a4"><title>Caledonian Brewery (Corporate)</title></circle></a><circle cx="180.5" cy="154.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r24n4k4g4w13k2~x4/"><circle cx="202.2" cy="151.4" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/setts/s5/r30db20w15lb3ly3/"><circle cx="171.7" cy="178.3" r="4" fill="#3465a4"><title>Siddle, New (Corporate)</title></circle></a><a href="/setts/s5/dp8ly6k2o1w1~x8/"><circle cx="177.9" cy="180.6" r="4" fill="#3465a4"><title>Ballater Victoria Week</title></circle></a><a href="/setts/s6/lb2r12db2lb6k6lb1/"><circle cx="186.0" cy="173.3" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/setts/s5/w3r24db12dg8ly3~x2/"><circle cx="197.2" cy="181.7" r="4" fill="#3465a4"><title>McGill University</title></circle></a><a href="/setts/s9/db3w12k11r4w2r2w2r24ly3~x2/"><circle cx="212.2" cy="125.3" r="4" fill="#3465a4"><title>Hearts Football Club (Corporate)</title></circle></a><a href="/setts/s7/dg20r3y3r15w19dg3t2~x2/"><circle cx="134.8" cy="157.9" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><a href="/setts/s7/w8r5dp10r24w30r2db2~x2/"><circle cx="211.6" cy="130.9" r="4" fill="#3465a4"><title>Shiel, Claret (Dance)</title></circle></a><a href="/setts/s7/w4dg20dg10r25b2r2dg2~x2/"><circle cx="203.0" cy="153.8" r="4" fill="#3465a4"><title>Caledonian Brewery (Corporate)</title></circle></a><a href="/setts/s7/k23r27db3r5w3k14ly6~x2/"><circle cx="207.4" cy="173.1" r="4" fill="#3465a4"><title>Hoffman Texas German</title></circle></a><circle cx="180.3" cy="154.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r32db6k6g6w18k3/

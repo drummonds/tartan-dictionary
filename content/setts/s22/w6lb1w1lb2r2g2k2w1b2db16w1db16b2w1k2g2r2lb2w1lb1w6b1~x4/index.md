@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [22 band tartan](/bands/bands2
 Original link http://www.tartansauthority.com/tartan-ferret/display/3040/
 
 ## Thread count
-B/4 W24 N4 W4 N8 R8 G8 K8 W4 B8 DB64 W4 DB64 B8 W4 K8 G8 R8 N8 W4 N4 W/24
+W/24 N4 W4 N8 R8 G8 K8 W4 B8 DB64 W4 DB64 B8 W4 K8 G8 R8 N8 W4 N4 W24 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -35,7 +35,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Cooper Dress (Dalgliesh #1) (Dance)](/setts/s18/db2lp4r2w26db3w2db3k10lp3db2lp3g9db1k1db21lp3db2r2~x2/) — ΔT 1.69
 1. [Buchanan, John & Isabella (Commemor)](/setts/s15/r1w1db8t12ly1t1db2w3db6t1ly1t1db1w1r1~x6/) — ΔT 1.69
 1. [Ferrari (Name)](/setts/s19/ly6db2lo2db1k1db1ly4t2ly2db17k2t3k8t3k2t17k2t2ly2~x2/) — ΔT 1.72
-1. [Russian Arctic Convoy](/setts/s14/lb1k1db3k3db3k3db28w1r8w1db2o6w16r1~x2/) — ΔT 1.76
+1. [Russian Arctic Convoy](/setts/s14/r1w16o6db2w1r8w1db28k3db3k3db3k1lb1~x2/) — ΔT 1.76
 1. [Mead of Poetry, The](/setts/s12/w6n2db6n2db25n2r1n2ly3db5w6n4~x2/) — ΔT 1.77
 1. [MacBeth Dress (Clan)](/setts/s16/w1r3k1r3g4k1w1k1w1k1db6lo2db4w14db1w1~x4/) — ΔT 1.78
 1. [Malcolm, Dress](/setts/s23/w4db4w50db5k25db23r3db10r3db23k25g27k4db4ly4k4g27k26w5db5w50db4w4/) — ΔT 1.84
@@ -43,8 +43,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/b1w6lb1w1lb2r2g2k2w1b2db16w1~x4/"><circle cx="144.7" cy="60.0" r="4" fill="#3465a4"><title>Arctic</title></circle></a><a href="/setts/s16/r1w1db8b12ly1b1k2w3k6db1b1ly1b1db1w1r1~x6/"><circle cx="102.2" cy="86.3" r="4" fill="#3465a4"><title>Buchanan, John &amp; Isabella</title></circle></a><a href="/setts/s18/db2lp4r2w26db3w2db3k10lp3db2lp3g9db1k1db21lp3db2r2~x2/"><circle cx="127.8" cy="41.8" r="4" fill="#3465a4"><title>Cooper Dress (Dalgliesh #1) (Dance)</title></circle></a><a href="/setts/s15/r1w1db8t12ly1t1db2w3db6t1ly1t1db1w1r1~x6/"><circle cx="126.0" cy="98.0" r="4" fill="#3465a4"><title>Buchanan, John &amp; Isabella (Commemor)</title></circle></a><a href="/setts/s19/ly6db2lo2db1k1db1ly4t2ly2db17k2t3k8t3k2t17k2t2ly2~x2/"><circle cx="121.5" cy="78.2" r="4" fill="#3465a4"><title>Ferrari (Name)</title></circle></a><a href="/setts/s14/lb1k1db3k3db3k3db28w1r8w1db2o6w16r1~x2/"><circle cx="211.6" cy="48.9" r="4" fill="#3465a4"><title>Russian Arctic Convoy</title></circle></a><a href="/setts/s12/w6n2db6n2db25n2r1n2ly3db5w6n4~x2/"><circle cx="205.9" cy="76.1" r="4" fill="#3465a4"><title>Mead of Poetry, The</title></circle></a><a href="/setts/s16/w1r3k1r3g4k1w1k1w1k1db6lo2db4w14db1w1~x4/"><circle cx="128.0" cy="73.0" r="4" fill="#3465a4"><title>MacBeth Dress (Clan)</title></circle></a><a href="/setts/s23/w4db4w50db5k25db23r3db10r3db23k25g27k4db4ly4k4g27k26w5db5w50db4w4/"><circle cx="74.2" cy="55.3" r="4" fill="#3465a4"><title>Malcolm, Dress</title></circle></a><a href="/setts/s14/db3r3dt24lb24k2lb3r2lb3k2lb24dt24r3db3w2~x2/"><circle cx="181.0" cy="100.3" r="4" fill="#3465a4"><title>Hamburg 2</title></circle></a><circle cx="137.3" cy="37.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/b1w6lb1w1lb2r2g2k2w1b2db16w1~x4/"><circle cx="144.6" cy="60.0" r="4" fill="#3465a4"><title>Arctic</title></circle></a><a href="/setts/s16/r1w1db8b12ly1b1k2w3k6db1b1ly1b1db1w1r1~x6/"><circle cx="102.2" cy="86.3" r="4" fill="#3465a4"><title>Buchanan, John &amp; Isabella</title></circle></a><a href="/setts/s18/db2lp4r2w26db3w2db3k10lp3db2lp3g9db1k1db21lp3db2r2~x2/"><circle cx="127.6" cy="41.9" r="4" fill="#3465a4"><title>Cooper Dress (Dalgliesh #1) (Dance)</title></circle></a><a href="/setts/s15/r1w1db8t12ly1t1db2w3db6t1ly1t1db1w1r1~x6/"><circle cx="126.0" cy="98.1" r="4" fill="#3465a4"><title>Buchanan, John &amp; Isabella (Commemor)</title></circle></a><a href="/setts/s19/ly6db2lo2db1k1db1ly4t2ly2db17k2t3k8t3k2t17k2t2ly2~x2/"><circle cx="121.4" cy="78.3" r="4" fill="#3465a4"><title>Ferrari (Name)</title></circle></a><a href="/setts/s14/r1w16o6db2w1r8w1db28k3db3k3db3k1lb1~x2/"><circle cx="211.3" cy="48.9" r="4" fill="#3465a4"><title>Russian Arctic Convoy</title></circle></a><a href="/setts/s12/w6n2db6n2db25n2r1n2ly3db5w6n4~x2/"><circle cx="205.8" cy="76.0" r="4" fill="#3465a4"><title>Mead of Poetry, The</title></circle></a><a href="/setts/s16/w1r3k1r3g4k1w1k1w1k1db6lo2db4w14db1w1~x4/"><circle cx="127.8" cy="73.1" r="4" fill="#3465a4"><title>MacBeth Dress (Clan)</title></circle></a><a href="/setts/s23/w4db4w50db5k25db23r3db10r3db23k25g27k4db4ly4k4g27k26w5db5w50db4w4/"><circle cx="74.2" cy="55.5" r="4" fill="#3465a4"><title>Malcolm, Dress</title></circle></a><a href="/setts/s14/db3r3dt24lb24k2lb3r2lb3k2lb24dt24r3db3w2~x2/"><circle cx="180.9" cy="100.3" r="4" fill="#3465a4"><title>Hamburg 2</title></circle></a><circle cx="137.1" cy="37.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s22/w6lb1w1lb2r2g2k2w1b2db16w1db16b2w1k2g2r2lb2w1lb1w6b1~x4/

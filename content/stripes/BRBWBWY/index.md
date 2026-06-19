@@ -20,7 +20,7 @@ BRBWBWY
 
 
 
-### DB R DB LT DB LT LY <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB R DB LT DB LT LY</span></span>
+### LY LT DB LT DB R DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY LT DB LT DB R DB</span></span>
 
 | Tartans |
 |---------------|

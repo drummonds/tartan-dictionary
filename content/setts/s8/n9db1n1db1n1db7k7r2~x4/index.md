@@ -2,7 +2,7 @@
 title: "Caledonian Hotel (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BBBBBBKR](/stripes/bbbbbbkr/) · **Stripes:** [N DB N DB N DB K R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">N DB N DB N DB K R</span></span>
+**Bands:** [RKBBBBBB](/stripes/rkbbbbbb/) · **Stripes:** [R K DB N DB N DB N](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="seq">R K DB N DB N DB N</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -18,7 +18,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2215
 
 ## Thread count
-DR/8 K28 DB28 N4 DB4 N4 DB4 N/36
+N/36 DB4 N4 DB4 N4 DB28 K28 DR/8
 ![Sett](sett.png)
 
 ## Palette
@@ -33,7 +33,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/8 K28 DB28 N4 DB4 N4 DB4 N/36 tartan")
+![Tartan detail](tartan.png "N/36 DB4 N4 DB4 N4 DB28 K28 DR/8 tartan")
 
 ## Nearest tartans
 
@@ -42,7 +42,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Caledonian Hotel (Corporate)](/setts/s8/n9db1n1db1n1db7dg7r2~x4/) — ΔT 0.85
 1. [Christian Dewar (Personal)](/setts/s9/db16k2db2k2db2k6dg13ly2dg3~x2/) — ΔT 0.94
 1. [Forbes #5](/setts/s9/db28k3db6k3db6k20dy28k3w6~x2/) — ΔT 0.94
-1. [Brabender](/setts/s8/g1db7k1db1k4r1g4k1~x6/) — ΔT 0.95
+1. [Brabender](/setts/s8/k1g4r1k4db1k1db7g1~x6/) — ΔT 0.95
 1. [Bareback (Corporate)](/setts/s6/n6k6n21k16db36ly4/) — ΔT 0.96
 1. [Baird (Modern)](/setts/s8/db3k2db8k8g8dp1g1dp3~x4/) — ΔT 1.03
 1. [Baird Clan Tartan Tartan Number: 104. Earliest known date: 1906 This tartan is first recorded in Johnston's work of 1906, and the sample from the Highland Society of London probably dates from the same period. In both these early references the triple stripes are rendered in red. Today, however, they are generally woven in purple. The name originates from 'bard' meaning poet. The Bairds owned estates in Aberdeenshire which were later purchased by the Gordons. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/db3k2db8k8g8dp1g1dp3~x2/) — ΔT 1.03
@@ -52,8 +52,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/n9db1n1db1n1db7dg7r2~x4/"><circle cx="256.1" cy="235.1" r="4" fill="#3465a4"><title>Caledonian Hotel (Corporate)</title></circle></a><a href="/setts/s9/db16k2db2k2db2k6dg13ly2dg3~x2/"><circle cx="272.8" cy="232.1" r="4" fill="#3465a4"><title>Christian Dewar (Personal)</title></circle></a><a href="/setts/s9/db28k3db6k3db6k20dy28k3w6~x2/"><circle cx="218.9" cy="207.5" r="4" fill="#3465a4"><title>Forbes #5</title></circle></a><a href="/setts/s8/g1db7k1db1k4r1g4k1~x6/"><circle cx="223.3" cy="233.0" r="4" fill="#3465a4"><title>Brabender</title></circle></a><a href="/setts/s6/n6k6n21k16db36ly4/"><circle cx="232.9" cy="240.3" r="4" fill="#3465a4"><title>Bareback (Corporate)</title></circle></a><a href="/setts/s8/db3k2db8k8g8dp1g1dp3~x4/"><circle cx="181.0" cy="241.9" r="4" fill="#3465a4"><title>Baird (Modern)</title></circle></a><a href="/setts/s8/db3k2db8k8g8dp1g1dp3~x2/"><circle cx="181.0" cy="241.9" r="4" fill="#3465a4"><title>Baird Clan Tartan Tartan Number: 104. Earliest known date: 1906 This tartan is first recorded in Johnston's work of 1906, and the sample from the Highland Society of London probably dates from the same period. In both these early references the triple stripes are rendered in red. Today, however, they are generally woven in purple. The name originates from 'bard' meaning poet. The Bairds owned estates in Aberdeenshire which were later purchased by the Gordons. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db8k2db2k2db2k8dg7k1w1~x2/"><circle cx="226.3" cy="233.2" r="4" fill="#3465a4"><title>Forbes #3</title></circle></a><a href="/setts/s8/db10k1db1k1db2k8dg10w1~x4/"><circle cx="243.9" cy="219.3" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s8/dp11dy2dp2dy2dp2dy11dg14w2~x2/"><circle cx="201.9" cy="227.6" r="4" fill="#3465a4"><title>Lamont #2</title></circle></a><circle cx="239.7" cy="224.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/n9db1n1db1n1db7dg7r2~x4/"><circle cx="256.2" cy="235.2" r="4" fill="#3465a4"><title>Caledonian Hotel (Corporate)</title></circle></a><a href="/setts/s9/db16k2db2k2db2k6dg13ly2dg3~x2/"><circle cx="272.9" cy="232.2" r="4" fill="#3465a4"><title>Christian Dewar (Personal)</title></circle></a><a href="/setts/s9/db28k3db6k3db6k20dy28k3w6~x2/"><circle cx="219.0" cy="207.5" r="4" fill="#3465a4"><title>Forbes #5</title></circle></a><a href="/setts/s8/k1g4r1k4db1k1db7g1~x6/"><circle cx="223.5" cy="233.1" r="4" fill="#3465a4"><title>Brabender</title></circle></a><a href="/setts/s6/n6k6n21k16db36ly4/"><circle cx="233.0" cy="240.3" r="4" fill="#3465a4"><title>Bareback (Corporate)</title></circle></a><a href="/setts/s8/db3k2db8k8g8dp1g1dp3~x4/"><circle cx="181.2" cy="242.0" r="4" fill="#3465a4"><title>Baird (Modern)</title></circle></a><a href="/setts/s8/db3k2db8k8g8dp1g1dp3~x2/"><circle cx="181.2" cy="242.0" r="4" fill="#3465a4"><title>Baird Clan Tartan Tartan Number: 104. Earliest known date: 1906 This tartan is first recorded in Johnston's work of 1906, and the sample from the Highland Society of London probably dates from the same period. In both these early references the triple stripes are rendered in red. Today, however, they are generally woven in purple. The name originates from 'bard' meaning poet. The Bairds owned estates in Aberdeenshire which were later purchased by the Gordons. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db8k2db2k2db2k8dg7k1w1~x2/"><circle cx="226.4" cy="233.2" r="4" fill="#3465a4"><title>Forbes #3</title></circle></a><a href="/setts/s8/db10k1db1k1db2k8dg10w1~x4/"><circle cx="244.0" cy="219.3" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s8/dp11dy2dp2dy2dp2dy11dg14w2~x2/"><circle cx="202.0" cy="227.7" r="4" fill="#3465a4"><title>Lamont #2</title></circle></a><circle cx="239.8" cy="224.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/n9db1n1db1n1db7k7r2~x4/

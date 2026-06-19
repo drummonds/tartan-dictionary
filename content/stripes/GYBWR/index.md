@@ -8,7 +8,7 @@ GYBWR
 
 It is a 5 band tartan.
 
-![Woven sample](/setts/s5/g15ly1db4w1r15~x4/tartan.png)
+![Woven sample](/setts/s5/r15w1db4ly1g15~x4/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ GYBWR
 
 
 
-### G LY DB W R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">G LY DB W R</span></span>
+### R W DB LY G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W DB LY G</span></span>
 
 | Tartans |
 |---------------|
-| [Eglinton, Duke of (Artefact)](/setts/s5/g15ly1db4w1r15~x4/)|
-|![Eglinton, Duke of (Artefact) example sett](/setts/s5/g15ly1db4w1r15~x4/sett.png)|
+| [Eglinton, Duke of (Artefact)](/setts/s5/r15w1db4ly1g15~x4/)|
+|![Eglinton, Duke of (Artefact) example sett](/setts/s5/r15w1db4ly1g15~x4/sett.png)|
 

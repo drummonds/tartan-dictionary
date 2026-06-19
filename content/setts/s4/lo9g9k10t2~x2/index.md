@@ -2,7 +2,7 @@
 title: "Wilson's, No 196"
 date: 2023-03-18
 ---
-**Bands:** [BKGY](/stripes/bkgy/) · **Stripes:** [T K G LO](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">T K G LO</span></span>
+**Bands:** [YGKB](/stripes/ygkb/) · **Stripes:** [LO G K T](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">LO G K T</span></span>
 
 
 This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/4 K20 G18 O/18
+O/18 G18 K20 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -907,7 +910,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/4 K20 G18 O/18 tartan")
+![Tartan detail](tartan.png "O/18 G18 K20 B/4 tartan")
 
 ## Nearest tartans
 
@@ -916,7 +919,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Unnamed, No 28](/setts/s4/r6g5k5t1~x2/) — ΔT 0.99
 1. [MacKinnon Dress Hunting (Fashion)](/setts/s4/dg7dr7w7r1~x6/) — ΔT 1.29
 1. [Ramsay, Red](/setts/s7/k4o9k13g6o3g9w4~x2/) — ΔT 1.30
-1. [Timespan, (MacKay)](/setts/s5/g6r1k6r1y6~x6/) — ΔT 1.36
+1. [Timespan, (MacKay)](/setts/s5/y6r1k6r1g6~x6/) — ΔT 1.36
 1. [Ramsay (Orange)](/setts/s7/k4lo9k13g6lo3g9w4~x2/) — ΔT 1.39
 1. [Austin / Wilson's No 173](/setts/s5/p3k3p3g6ly2~x2/) — ΔT 1.48
 1. [Wilson's No.196](/setts/s4/r9g9k10t2~x2/) — ΔT 1.50
@@ -926,8 +929,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/r6g5k5t1~x2/"><circle cx="118.4" cy="268.7" r="4" fill="#3465a4"><title>Unnamed, No 28</title></circle></a><a href="/setts/s4/dg7dr7w7r1~x6/"><circle cx="107.5" cy="252.6" r="4" fill="#3465a4"><title>MacKinnon Dress Hunting (Fashion)</title></circle></a><a href="/setts/s7/k4o9k13g6o3g9w4~x2/"><circle cx="84.0" cy="252.8" r="4" fill="#3465a4"><title>Ramsay, Red</title></circle></a><a href="/setts/s5/g6r1k6r1y6~x6/"><circle cx="101.6" cy="245.0" r="4" fill="#3465a4"><title>Timespan, (MacKay)</title></circle></a><a href="/setts/s7/k4lo9k13g6lo3g9w4~x2/"><circle cx="95.0" cy="254.8" r="4" fill="#3465a4"><title>Ramsay (Orange)</title></circle></a><a href="/setts/s5/p3k3p3g6ly2~x2/"><circle cx="71.2" cy="288.7" r="4" fill="#3465a4"><title>Austin / Wilson's No 173</title></circle></a><a href="/setts/s4/r9g9k10t2~x2/"><circle cx="124.4" cy="290.9" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><a href="/setts/s4/k18g18dr21r4~x2/"><circle cx="121.0" cy="292.9" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/setts/s4/g9dr7w7r1~x4/"><circle cx="140.4" cy="243.5" r="4" fill="#3465a4"><title>MacKinnon Dress Trade Tartan Tartan Number: 921. Earliest known date: 1970-80 Canada. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/dg9dy7w7r1~x4/"><circle cx="143.5" cy="247.1" r="4" fill="#3465a4"><title>MacKinnon Dress</title></circle></a><circle cx="83.8" cy="274.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/r6g5k5t1~x2/"><circle cx="118.6" cy="268.6" r="4" fill="#3465a4"><title>Unnamed, No 28</title></circle></a><a href="/setts/s4/dg7dr7w7r1~x6/"><circle cx="107.6" cy="252.5" r="4" fill="#3465a4"><title>MacKinnon Dress Hunting (Fashion)</title></circle></a><a href="/setts/s7/k4o9k13g6o3g9w4~x2/"><circle cx="84.1" cy="252.7" r="4" fill="#3465a4"><title>Ramsay, Red</title></circle></a><a href="/setts/s5/y6r1k6r1g6~x6/"><circle cx="101.8" cy="245.0" r="4" fill="#3465a4"><title>Timespan, (MacKay)</title></circle></a><a href="/setts/s7/k4lo9k13g6lo3g9w4~x2/"><circle cx="95.1" cy="254.7" r="4" fill="#3465a4"><title>Ramsay (Orange)</title></circle></a><a href="/setts/s5/p3k3p3g6ly2~x2/"><circle cx="71.4" cy="288.6" r="4" fill="#3465a4"><title>Austin / Wilson's No 173</title></circle></a><a href="/setts/s4/r9g9k10t2~x2/"><circle cx="124.6" cy="290.8" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><a href="/setts/s4/k18g18dr21r4~x2/"><circle cx="121.3" cy="292.9" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/setts/s4/g9dr7w7r1~x4/"><circle cx="140.4" cy="243.3" r="4" fill="#3465a4"><title>MacKinnon Dress Trade Tartan Tartan Number: 921. Earliest known date: 1970-80 Canada. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/dg9dy7w7r1~x4/"><circle cx="143.5" cy="246.9" r="4" fill="#3465a4"><title>MacKinnon Dress</title></circle></a><circle cx="83.9" cy="274.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/lo9g9k10t2~x2/

@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4323
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Unnamed, No 31
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -51,8 +57,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db8g8db1g8k8db8ly2~x2/"><circle cx="145.0" cy="248.2" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/setts/s7/db4g6w1g6k6db6k2~x4/"><circle cx="119.6" cy="261.3" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/setts/s7/b10k3b10k14r2g14k4~x2/"><circle cx="131.5" cy="238.4" r="4" fill="#3465a4"><title>Fletcher #2</title></circle></a><a href="/setts/s6/t3g6k6t4r1t1~x2/"><circle cx="128.4" cy="243.9" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/setts/s7/db16g14w2g14k13db12k4~x2/"><circle cx="173.6" cy="269.4" r="4" fill="#3465a4"><title>MacNeil of Colonsay (Clan)</title></circle></a><a href="/setts/s7/k8g8k1g8k8b8w2~x2/"><circle cx="128.3" cy="239.9" r="4" fill="#3465a4"><title>Unnamed, No 31</title></circle></a><a href="/setts/s7/k12g12k2g12k12db12t3~x2/"><circle cx="130.3" cy="262.3" r="4" fill="#3465a4"><title>MacIntyre</title></circle></a><a href="/setts/s7/db6k1db6k8r1g8k2~x2/"><circle cx="158.0" cy="232.2" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/setts/s6/k4w2g13k13t12k2~x2/"><circle cx="166.5" cy="238.1" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/setts/s7/k9g9w2g9k9db9k3~x2/"><circle cx="148.1" cy="288.8" r="4" fill="#3465a4"><title>Graham of Montrose - 1850 (Clan)</title></circle></a><circle cx="152.1" cy="252.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db8g8db1g8k8db8ly2~x2/"><circle cx="145.1" cy="248.0" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/setts/s7/db4g6w1g6k6db6k2~x4/"><circle cx="119.9" cy="261.1" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/setts/s7/b10k3b10k14r2g14k4~x2/"><circle cx="131.8" cy="238.3" r="4" fill="#3465a4"><title>Fletcher #2</title></circle></a><a href="/setts/s6/t3g6k6t4r1t1~x2/"><circle cx="128.6" cy="243.8" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/setts/s7/db16g14w2g14k13db12k4~x2/"><circle cx="173.9" cy="269.3" r="4" fill="#3465a4"><title>MacNeil of Colonsay (Clan)</title></circle></a><a href="/setts/s7/k8g8k1g8k8b8w2~x2/"><circle cx="128.6" cy="239.7" r="4" fill="#3465a4"><title>Unnamed, No 31</title></circle></a><a href="/setts/s7/k12g12k2g12k12db12t3~x2/"><circle cx="130.6" cy="262.2" r="4" fill="#3465a4"><title>MacIntyre</title></circle></a><a href="/setts/s7/db6k1db6k8r1g8k2~x2/"><circle cx="158.3" cy="232.2" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/setts/s6/k4w2g13k13t12k2~x2/"><circle cx="166.6" cy="238.0" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/setts/s7/k9g9w2g9k9db9k3~x2/"><circle cx="148.3" cy="288.8" r="4" fill="#3465a4"><title>Graham of Montrose - 1850 (Clan)</title></circle></a><circle cx="152.3" cy="252.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k8dg8k1dg8k8b8w2~x2/

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -915,19 +918,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacLeod, of Argentina](/setts/s5/db10w3db12ly14r4~x2/) — ΔT 1.56
 1. [Daks - House Check, C.6700.03](/setts/s5/k3w7k4w6o3~x2/) — ΔT 1.72
-1. [Unidentified #33](/setts/s9/dg2r3dg4ly1dg1w1dg4r3dg2~x2/) — ΔT 1.86
+1. [Unidentified #33](/setts/s9/dg2r3dg4w1dg1ly1dg4r3dg2~x2/) — ΔT 1.86
 1. [Unidentified Sample](/setts/s6/db11r4ly9db4ly2db11~x2/) — ΔT 1.95
 1. [Ardalansish Tweed (Fashion)](/setts/s6/do1lo1do2w4n1w1~x8/) — ΔT 1.99
 1. [Canyon County Idaho Sheriff](/setts/s6/k5lo5w1lo5k5r1~x10/) — ΔT 2.00
 1. [Longford County, Crest Range](/setts/s6/w7k6lo15k16k8w3~x2/) — ΔT 2.01
 1. [MacLeod of Argentina](/setts/s5/b10w3b12ly14r4~x2/) — ΔT 2.01
-1. [Norwich No.077](/setts/s9/dg5r9dg10ly2dg2w2dg10r9dg5~x2/) — ΔT 2.02
-1. [Daks, Black (Fashion)](/setts/s5/ly3k6dy4k6r3~x2/) — ΔT 2.07
+1. [Norwich No.077](/setts/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/) — ΔT 2.03
+1. [Daks, Black (Fashion)](/setts/s5/r3k6dy4k6ly3~x2/) — ΔT 2.07
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db10w3db12ly14r4~x2/"><circle cx="187.1" cy="255.3" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><a href="/setts/s5/k3w7k4w6o3~x2/"><circle cx="168.2" cy="308.9" r="4" fill="#3465a4"><title>Daks - House Check, C.6700.03</title></circle></a><a href="/setts/s9/dg2r3dg4ly1dg1w1dg4r3dg2~x2/"><circle cx="260.2" cy="257.2" r="4" fill="#3465a4"><title>Unidentified #33</title></circle></a><a href="/setts/s6/db11r4ly9db4ly2db11~x2/"><circle cx="293.7" cy="265.5" r="4" fill="#3465a4"><title>Unidentified Sample</title></circle></a><a href="/setts/s6/do1lo1do2w4n1w1~x8/"><circle cx="177.1" cy="226.1" r="4" fill="#3465a4"><title>Ardalansish Tweed (Fashion)</title></circle></a><a href="/setts/s6/k5lo5w1lo5k5r1~x10/"><circle cx="187.3" cy="254.1" r="4" fill="#3465a4"><title>Canyon County Idaho Sheriff</title></circle></a><a href="/setts/s6/w7k6lo15k16k8w3~x2/"><circle cx="218.0" cy="261.3" r="4" fill="#3465a4"><title>Longford County, Crest Range</title></circle></a><a href="/setts/s5/b10w3b12ly14r4~x2/"><circle cx="201.5" cy="265.6" r="4" fill="#3465a4"><title>MacLeod of Argentina</title></circle></a><a href="/setts/s9/dg5r9dg10ly2dg2w2dg10r9dg5~x2/"><circle cx="269.1" cy="242.5" r="4" fill="#3465a4"><title>Norwich No.077</title></circle></a><a href="/setts/s5/ly3k6dy4k6r3~x2/"><circle cx="146.8" cy="327.2" r="4" fill="#3465a4"><title>Daks, Black (Fashion)</title></circle></a><circle cx="224.8" cy="289.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db10w3db12ly14r4~x2/"><circle cx="187.0" cy="255.1" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><a href="/setts/s5/k3w7k4w6o3~x2/"><circle cx="168.2" cy="308.5" r="4" fill="#3465a4"><title>Daks - House Check, C.6700.03</title></circle></a><a href="/setts/s9/dg2r3dg4w1dg1ly1dg4r3dg2~x2/"><circle cx="260.0" cy="257.0" r="4" fill="#3465a4"><title>Unidentified #33</title></circle></a><a href="/setts/s6/db11r4ly9db4ly2db11~x2/"><circle cx="293.6" cy="265.2" r="4" fill="#3465a4"><title>Unidentified Sample</title></circle></a><a href="/setts/s6/do1lo1do2w4n1w1~x8/"><circle cx="176.8" cy="225.9" r="4" fill="#3465a4"><title>Ardalansish Tweed (Fashion)</title></circle></a><a href="/setts/s6/k5lo5w1lo5k5r1~x10/"><circle cx="187.3" cy="253.9" r="4" fill="#3465a4"><title>Canyon County Idaho Sheriff</title></circle></a><a href="/setts/s6/w7k6lo15k16k8w3~x2/"><circle cx="218.0" cy="261.0" r="4" fill="#3465a4"><title>Longford County, Crest Range</title></circle></a><a href="/setts/s5/b10w3b12ly14r4~x2/"><circle cx="201.4" cy="265.4" r="4" fill="#3465a4"><title>MacLeod of Argentina</title></circle></a><a href="/setts/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/"><circle cx="269.0" cy="242.3" r="4" fill="#3465a4"><title>Norwich No.077</title></circle></a><a href="/setts/s5/r3k6dy4k6ly3~x2/"><circle cx="147.0" cy="327.0" r="4" fill="#3465a4"><title>Daks, Black (Fashion)</title></circle></a><circle cx="224.7" cy="289.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/y5k2r2ly2y5~x10/

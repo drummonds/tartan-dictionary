@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -907,7 +910,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Antarctic](/setts/s12/t2w76o4w4o11lo11ly7k11w4t11db32w2/) — ΔT 0.35
 1. [Stewart Victoria (Royal)](/setts/s14/r2w24b3w3k6lo1k1w1k1g8r4k1r2w1~x4/) — ΔT 1.27
-1. [Allandale Red Dress Tartan Tartan Number: 8457. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/g3r2g1r9o2k3r5g17w40k1w2k3~x2/) — ΔT 1.28
+1. [Allandale Red Dress Tartan Tartan Number: 8457. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/k3w2k1w40g17r5k3o2r9g1r2g3~x2/) — ΔT 1.28
 1. [Stuart/Stewart Victoria](/setts/s14/r2w24t3w3k6ly1k1w1k1dg8r4k1r2w1~x2/) — ΔT 1.30
 1. [Stewart dress](/setts/s15/w20r4w4r7w132k26db26ly6db6w9g83r30k5r7w4/) — ΔT 1.31
 1. [Stewart Victoria](/setts/s14/r2w24t3w3k6ly1k1w1k1g8r4k1r2w1~x2/) — ΔT 1.38
@@ -918,8 +921,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/t2w76o4w4o11lo11ly7k11w4t11db32w2/"><circle cx="211.2" cy="21.6" r="4" fill="#3465a4"><title>Antarctic</title></circle></a><a href="/setts/s14/r2w24b3w3k6lo1k1w1k1g8r4k1r2w1~x4/"><circle cx="217.6" cy="44.5" r="4" fill="#3465a4"><title>Stewart Victoria (Royal)</title></circle></a><a href="/setts/s12/g3r2g1r9o2k3r5g17w40k1w2k3~x2/"><circle cx="241.5" cy="30.4" r="4" fill="#3465a4"><title>Allandale Red Dress Tartan Tartan Number: 8457. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r2w24t3w3k6ly1k1w1k1dg8r4k1r2w1~x2/"><circle cx="219.2" cy="42.4" r="4" fill="#3465a4"><title>Stuart/Stewart Victoria</title></circle></a><a href="/setts/s15/w20r4w4r7w132k26db26ly6db6w9g83r30k5r7w4/"><circle cx="204.8" cy="30.2" r="4" fill="#3465a4"><title>Stewart dress</title></circle></a><a href="/setts/s14/r2w24t3w3k6ly1k1w1k1g8r4k1r2w1~x2/"><circle cx="212.7" cy="41.1" r="4" fill="#3465a4"><title>Stewart Victoria</title></circle></a><a href="/setts/s10/w50k1dp14g14w2dp2w2k4ly2db30~x2/"><circle cx="222.3" cy="43.3" r="4" fill="#3465a4"><title>MacBeth Dress (Dance)</title></circle></a><a href="/setts/s16/w48r2y5lb18w20lb8y6g2lb6y5lb4k20y8k14w24db4/"><circle cx="153.2" cy="48.3" r="4" fill="#3465a4"><title>Manhattan Financial</title></circle></a><a href="/setts/s16/w24r1w3o9w10o4w3g1o3w3o2k10w4k7w12db2~x2/"><circle cx="155.0" cy="50.1" r="4" fill="#3465a4"><title>Manhattan Financial</title></circle></a><a href="/setts/s10/w45r9k2w8k2ly1k10db8dp12w2~x2/"><circle cx="268.2" cy="37.3" r="4" fill="#3465a4"><title>Bruce of Kinnaird Dress (Dance)</title></circle></a><circle cx="206.4" cy="18.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/t2w76o4w4o11lo11ly7k11w4t11db32w2/"><circle cx="210.8" cy="21.6" r="4" fill="#3465a4"><title>Antarctic</title></circle></a><a href="/setts/s14/r2w24b3w3k6lo1k1w1k1g8r4k1r2w1~x4/"><circle cx="217.1" cy="44.5" r="4" fill="#3465a4"><title>Stewart Victoria (Royal)</title></circle></a><a href="/setts/s12/k3w2k1w40g17r5k3o2r9g1r2g3~x2/"><circle cx="241.1" cy="30.4" r="4" fill="#3465a4"><title>Allandale Red Dress Tartan Tartan Number: 8457. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r2w24t3w3k6ly1k1w1k1dg8r4k1r2w1~x2/"><circle cx="218.8" cy="42.3" r="4" fill="#3465a4"><title>Stuart/Stewart Victoria</title></circle></a><a href="/setts/s15/w20r4w4r7w132k26db26ly6db6w9g83r30k5r7w4/"><circle cx="204.4" cy="30.2" r="4" fill="#3465a4"><title>Stewart dress</title></circle></a><a href="/setts/s14/r2w24t3w3k6ly1k1w1k1g8r4k1r2w1~x2/"><circle cx="212.3" cy="41.1" r="4" fill="#3465a4"><title>Stewart Victoria</title></circle></a><a href="/setts/s10/w50k1dp14g14w2dp2w2k4ly2db30~x2/"><circle cx="222.0" cy="43.3" r="4" fill="#3465a4"><title>MacBeth Dress (Dance)</title></circle></a><a href="/setts/s16/w48r2y5lb18w20lb8y6g2lb6y5lb4k20y8k14w24db4/"><circle cx="152.9" cy="48.3" r="4" fill="#3465a4"><title>Manhattan Financial</title></circle></a><a href="/setts/s16/w24r1w3o9w10o4w3g1o3w3o2k10w4k7w12db2~x2/"><circle cx="154.6" cy="50.1" r="4" fill="#3465a4"><title>Manhattan Financial</title></circle></a><a href="/setts/s10/w45r9k2w8k2ly1k10db8dp12w2~x2/"><circle cx="267.7" cy="37.2" r="4" fill="#3465a4"><title>Bruce of Kinnaird Dress (Dance)</title></circle></a><circle cx="206.0" cy="18.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/t2w76lb4w4lb11o11ly7k11w4t11dt32w2/

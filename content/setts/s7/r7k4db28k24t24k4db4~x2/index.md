@@ -2,7 +2,7 @@
 title: "MacCorquodale"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKR](/stripes/bkbkbkr/) · **Stripes:** [DB K T K DB K R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K T K DB K R</span></span>
+**Bands:** [RKBKBKB](/stripes/rkbkbkb/) · **Stripes:** [R K DB K T K DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K DB K T K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/8 K8 Ba48 K48 B56 K8 R/14
+R/14 K8 B56 K48 Ba48 K8 B/8
 ![Sett](sett.png)
 
 ## Palette
@@ -907,7 +910,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/8 K8 Ba48 K48 B56 K8 R/14 tartan")
+![Tartan detail](tartan.png "R/14 K8 B56 K48 Ba48 K8 B/8 tartan")
 
 ## Nearest tartans
 
@@ -926,8 +929,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/dp3k1dp8k6dg8k1w2~x2/"><circle cx="177.0" cy="225.7" r="4" fill="#3465a4"><title>Baillie (Highland Society)</title></circle></a><a href="/setts/s8/db3k2db8k8g8p1g1p3~x2/"><circle cx="129.4" cy="216.8" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/setts/s9/db28k3db6k3db6k20o28k3w6~x2/"><circle cx="179.7" cy="185.3" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s7/ly6dg3ly3dg22k23dp23k4~x2/"><circle cx="148.6" cy="217.0" r="4" fill="#3465a4"><title>Gordon of Esslemont</title></circle></a><a href="/setts/s7/db9k7o5r1o5k1o2~x4/"><circle cx="185.5" cy="220.8" r="4" fill="#3465a4"><title>Greyhound Grenadiers (Corporate)</title></circle></a><a href="/setts/s6/ly5db24k8db18ly6o3/"><circle cx="122.9" cy="204.6" r="4" fill="#3465a4"><title>CALA Homes</title></circle></a><a href="/setts/s5/g1k9t4db9t1~x6/"><circle cx="183.6" cy="233.0" r="4" fill="#3465a4"><title>Wallace Blue Dress Tartan Tartan Number: 6569. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/k18lr8k8lr8r5lr18k5lr5k12db36r5~x2/"><circle cx="120.1" cy="189.2" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/setts/s11/k18lr8k8lr8r5lr18k5lr5k12db36r5/"><circle cx="120.1" cy="189.2" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/setts/s6/o4db19o3k20o24db3~x2/"><circle cx="153.2" cy="222.9" r="4" fill="#3465a4"><title>Edinburgh International Conference Centre</title></circle></a><circle cx="144.0" cy="219.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/dp3k1dp8k6dg8k1w2~x2/"><circle cx="177.2" cy="225.7" r="4" fill="#3465a4"><title>Baillie (Highland Society)</title></circle></a><a href="/setts/s8/db3k2db8k8g8p1g1p3~x2/"><circle cx="129.6" cy="216.8" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/setts/s9/db28k3db6k3db6k20o28k3w6~x2/"><circle cx="179.8" cy="185.3" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s7/ly6dg3ly3dg22k23dp23k4~x2/"><circle cx="148.7" cy="217.0" r="4" fill="#3465a4"><title>Gordon of Esslemont</title></circle></a><a href="/setts/s7/db9k7o5r1o5k1o2~x4/"><circle cx="185.6" cy="220.7" r="4" fill="#3465a4"><title>Greyhound Grenadiers (Corporate)</title></circle></a><a href="/setts/s6/ly5db24k8db18ly6o3/"><circle cx="123.1" cy="204.6" r="4" fill="#3465a4"><title>CALA Homes</title></circle></a><a href="/setts/s5/g1k9t4db9t1~x6/"><circle cx="183.9" cy="232.9" r="4" fill="#3465a4"><title>Wallace Blue Dress Tartan Tartan Number: 6569. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/k18lr8k8lr8r5lr18k5lr5k12db36r5~x2/"><circle cx="120.3" cy="189.2" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/setts/s11/k18lr8k8lr8r5lr18k5lr5k12db36r5/"><circle cx="120.3" cy="189.2" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/setts/s6/o4db19o3k20o24db3~x2/"><circle cx="153.4" cy="222.8" r="4" fill="#3465a4"><title>Edinburgh International Conference Centre</title></circle></a><circle cx="144.2" cy="219.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r7k4db28k24t24k4db4~x2/

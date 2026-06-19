@@ -2,7 +2,7 @@
 title: "Nickel Lodge Centennial Corporate Tartan Tartan Number: 920. Earliest known date: 1988 1989 See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GGWBRYRYR](/stripes/ggwbryryr/) · **Stripes:** [G DY W DB O LY O LY O](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="seq">G DY W DB O LY O LY O</span></span>
+**Bands:** [RYRYRBWGG](/stripes/ryryrbwgg/) · **Stripes:** [O LY O LY O DB W DY G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O LY O LY O DB W DY G</span></span>
 
 
 This was sourced from house-of-tartan.  It is a [9 band tartan](/bands/bands9/).
@@ -10,7 +10,7 @@ This was sourced from house-of-tartan.  It is a [9 band tartan](/bands/bands9/).
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=920
 
 ## Thread count
-G/12 T2 LN8 DB12 N4 Y2 N4 Y2 N/36
+N/36 Y2 N4 Y2 N4 DB12 LN8 T2 G/12
 ![Sett](sett.png)
 
 ## Palette
@@ -35,15 +35,15 @@ The nearest existing variants by ΔTartan distance.
 1. [State Seal of West Virginia (Fash)](/setts/s8/o49lo3b13dy8k23b10o14r4~x2/) — ΔT 1.08
 1. [Guszcza, The (Personal)](/setts/s9/n28r2n3w2n17y8lb16lo3lb3~x2/) — ΔT 1.09
 1. [O'Donohue Personal)](/setts/s10/b24w2b6g9r6b3r6g35k2ly2~x2/) — ΔT 1.10
-1. [Caskie](/setts/s7/ly3k1g12r7t25k1w3~x2/) — ΔT 1.10
+1. [Caskie](/setts/s7/w3k1t25r7g12k1ly3~x2/) — ΔT 1.10
 1. [Ofsharick, Matthew (Personal)](/setts/s9/o55b8w8b8g5o8ly4w4k4~x2/) — ΔT 1.13
-1. [(4) Traill](/setts/s7/r8ly2o7ly2n24k2g1~x2/) — ΔT 1.20
+1. [(4) Traill](/setts/s7/r8ly2o7ly2n24k2g1~x2/) — ΔT 1.21
 1. [Hebridean Fire](/setts/s9/lb4r2lb7n30lb8n7r5k1w2~x2/) — ΔT 1.24
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/o16ly1o2ly1o2dt6w4dy1dg6~x2/"><circle cx="248.0" cy="131.1" r="4" fill="#3465a4"><title>Nickel Lodge Centennial</title></circle></a><a href="/setts/s9/y18ly1y2ly1y2db6w4o1g6~x2/"><circle cx="287.2" cy="130.0" r="4" fill="#3465a4"><title>Nickel Lodge, Centennial</title></circle></a><a href="/setts/s9/o36ly2o1ly2o4dt12w8dy2dg12~x2/"><circle cx="291.1" cy="94.3" r="4" fill="#3465a4"><title>Nickel Lodge Centennial (Corporate)</title></circle></a><a href="/setts/s8/o49lo3b13dy8k23b10o14r4~x2/"><circle cx="243.9" cy="147.6" r="4" fill="#3465a4"><title>State Seal of West Virginia (Fash)</title></circle></a><a href="/setts/s9/n28r2n3w2n17y8lb16lo3lb3~x2/"><circle cx="301.2" cy="145.9" r="4" fill="#3465a4"><title>Guszcza, The (Personal)</title></circle></a><a href="/setts/s10/b24w2b6g9r6b3r6g35k2ly2~x2/"><circle cx="241.8" cy="122.8" r="4" fill="#3465a4"><title>O'Donohue Personal)</title></circle></a><a href="/setts/s7/ly3k1g12r7t25k1w3~x2/"><circle cx="242.2" cy="119.1" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/setts/s9/o55b8w8b8g5o8ly4w4k4~x2/"><circle cx="318.8" cy="118.3" r="4" fill="#3465a4"><title>Ofsharick, Matthew (Personal)</title></circle></a><a href="/setts/s7/r8ly2o7ly2n24k2g1~x2/"><circle cx="276.6" cy="118.6" r="4" fill="#3465a4"><title>(4) Traill</title></circle></a><a href="/setts/s9/lb4r2lb7n30lb8n7r5k1w2~x2/"><circle cx="326.5" cy="100.0" r="4" fill="#3465a4"><title>Hebridean Fire</title></circle></a><circle cx="272.2" cy="121.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/o16ly1o2ly1o2dt6w4dy1dg6~x2/"><circle cx="247.8" cy="131.1" r="4" fill="#3465a4"><title>Nickel Lodge Centennial</title></circle></a><a href="/setts/s9/y18ly1y2ly1y2db6w4o1g6~x2/"><circle cx="286.9" cy="130.1" r="4" fill="#3465a4"><title>Nickel Lodge, Centennial</title></circle></a><a href="/setts/s9/o36ly2o1ly2o4dt12w8dy2dg12~x2/"><circle cx="290.8" cy="94.4" r="4" fill="#3465a4"><title>Nickel Lodge Centennial (Corporate)</title></circle></a><a href="/setts/s8/o49lo3b13dy8k23b10o14r4~x2/"><circle cx="243.7" cy="147.7" r="4" fill="#3465a4"><title>State Seal of West Virginia (Fash)</title></circle></a><a href="/setts/s9/n28r2n3w2n17y8lb16lo3lb3~x2/"><circle cx="300.9" cy="145.9" r="4" fill="#3465a4"><title>Guszcza, The (Personal)</title></circle></a><a href="/setts/s10/b24w2b6g9r6b3r6g35k2ly2~x2/"><circle cx="241.6" cy="122.9" r="4" fill="#3465a4"><title>O'Donohue Personal)</title></circle></a><a href="/setts/s7/w3k1t25r7g12k1ly3~x2/"><circle cx="242.0" cy="119.1" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/setts/s9/o55b8w8b8g5o8ly4w4k4~x2/"><circle cx="318.4" cy="118.2" r="4" fill="#3465a4"><title>Ofsharick, Matthew (Personal)</title></circle></a><a href="/setts/s7/r8ly2o7ly2n24k2g1~x2/"><circle cx="276.4" cy="118.6" r="4" fill="#3465a4"><title>(4) Traill</title></circle></a><a href="/setts/s9/lb4r2lb7n30lb8n7r5k1w2~x2/"><circle cx="326.1" cy="100.0" r="4" fill="#3465a4"><title>Hebridean Fire</title></circle></a><circle cx="271.9" cy="121.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/o18ly1o2ly1o2db6w4dy1g6~x2/

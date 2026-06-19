@@ -9,6 +9,14 @@ This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1127
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Erskine Hunting
+- Erskine, hunting
+- Royal Scots Fusiliers
+
 ## Attestations
 
 This cloth appears in 5 source records; the oldest owns this page.
@@ -321,6 +329,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -421,6 +430,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -680,6 +690,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,8 +927,8 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Celtic 2009 (Sports)](/setts/s5/g40dg15g4dg4g4~x2/) — ΔT 1.48
 1. [Emerald, The](/setts/s6/dg2g2g7dg10g1g1~x4/) — ΔT 1.71
-1. [Carnet (Fashion)](/setts/s6/k6dg3k3dg11k1dg2~x4/) — ΔT 1.98
-1. [Harmony, 11](/setts/s6/g6o2g29o29g2o6~x2/) — ΔT 1.99
+1. [Carnet (Fashion)](/setts/s6/k6dg3k3dg11k1dg2~x4/) — ΔT 1.97
+1. [Harmony, 11](/setts/s6/o6g2o29g29o2g6~x2/) — ΔT 1.99
 1. [Spring Morning](/setts/s6/y9g9lo1g9y9g1~x4/) — ΔT 2.12
 1. [Glen Boig](/setts/s5/g13dy3g1do3dy1~x6/) — ΔT 2.15
 1. [Park (Estate Check)](/setts/s6/y4dg18dg6dg6dg24ly3~x2/) — ΔT 2.19
@@ -927,8 +938,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/g40dg15g4dg4g4~x2/"><circle cx="488.1" cy="307.1" r="4" fill="#3465a4"><title>Celtic 2009 (Sports)</title></circle></a><a href="/setts/s6/dg2g2g7dg10g1g1~x4/"><circle cx="447.1" cy="317.4" r="4" fill="#3465a4"><title>Emerald, The</title></circle></a><a href="/setts/s6/k6dg3k3dg11k1dg2~x4/"><circle cx="505.1" cy="321.1" r="4" fill="#3465a4"><title>Carnet (Fashion)</title></circle></a><a href="/setts/s6/g6o2g29o29g2o6~x2/"><circle cx="481.2" cy="285.4" r="4" fill="#3465a4"><title>Harmony, 11</title></circle></a><a href="/setts/s6/y9g9lo1g9y9g1~x4/"><circle cx="402.4" cy="322.2" r="4" fill="#3465a4"><title>Spring Morning</title></circle></a><a href="/setts/s5/g13dy3g1do3dy1~x6/"><circle cx="568.8" cy="307.0" r="4" fill="#3465a4"><title>Glen Boig</title></circle></a><a href="/setts/s6/y4dg18dg6dg6dg24ly3~x2/"><circle cx="377.3" cy="303.2" r="4" fill="#3465a4"><title>Park (Estate Check)</title></circle></a><a href="/setts/s4/g1y9g9lo1~x4/"><circle cx="413.7" cy="313.1" r="4" fill="#3465a4"><title>Spring Morning (Fashion)</title></circle></a><a href="/setts/s9/g24g3g4g12g8g3g8g30b3~x2/"><circle cx="427.4" cy="285.6" r="4" fill="#3465a4"><title>Gates, Hunting</title></circle></a><a href="/setts/s6/y4dg18dg6dg6dg24k3~x2/"><circle cx="369.9" cy="300.9" r="4" fill="#3465a4"><title>Park Estate</title></circle></a><circle cx="477.4" cy="339.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/g40dg15g4dg4g4~x2/"><circle cx="487.9" cy="307.2" r="4" fill="#3465a4"><title>Celtic 2009 (Sports)</title></circle></a><a href="/setts/s6/dg2g2g7dg10g1g1~x4/"><circle cx="447.0" cy="317.6" r="4" fill="#3465a4"><title>Emerald, The</title></circle></a><a href="/setts/s6/k6dg3k3dg11k1dg2~x4/"><circle cx="505.0" cy="321.0" r="4" fill="#3465a4"><title>Carnet (Fashion)</title></circle></a><a href="/setts/s6/o6g2o29g29o2g6~x2/"><circle cx="480.9" cy="285.3" r="4" fill="#3465a4"><title>Harmony, 11</title></circle></a><a href="/setts/s6/y9g9lo1g9y9g1~x4/"><circle cx="402.3" cy="322.2" r="4" fill="#3465a4"><title>Spring Morning</title></circle></a><a href="/setts/s5/g13dy3g1do3dy1~x6/"><circle cx="568.5" cy="307.0" r="4" fill="#3465a4"><title>Glen Boig</title></circle></a><a href="/setts/s6/y4dg18dg6dg6dg24ly3~x2/"><circle cx="377.3" cy="303.3" r="4" fill="#3465a4"><title>Park (Estate Check)</title></circle></a><a href="/setts/s4/g1y9g9lo1~x4/"><circle cx="413.6" cy="313.0" r="4" fill="#3465a4"><title>Spring Morning (Fashion)</title></circle></a><a href="/setts/s9/g24g3g4g12g8g3g8g30b3~x2/"><circle cx="427.1" cy="285.6" r="4" fill="#3465a4"><title>Gates, Hunting</title></circle></a><a href="/setts/s6/y4dg18dg6dg6dg24k3~x2/"><circle cx="369.9" cy="301.1" r="4" fill="#3465a4"><title>Park Estate</title></circle></a><circle cx="477.3" cy="339.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/dg5g3dg24g24dg3g5~x2/

@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacKenzie, dress
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,7 +915,7 @@ The nearest existing variants by ΔTartan distance.
 1. [MacKenzie Dress #2](/setts/s15/w16db3w3db3w3k16dg13k1w3k1dg13k16db16k1r3~x2/) — ΔT 0.61
 1. [Lauder](/setts/s19/r4db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4~x2/) — ΔT 0.87
 1. [MacDonald of Clanranald 1](/setts/s13/db16r2db2r7db31r2k32w3g31r7g2r2g16~x2/) — ΔT 0.99
-1. [Collister Personal Tartan Tartan Number: 6757. Earliest known date: 2005 To commemorate the wedding of Laura Jenkins and Gary Collister in October 2005. Organised through The House of Tartan, Comrie, Perthshire and woven by D C Dalgliesh. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/k26n2k2n2k2n10w10n6dt10lo5dt10n6w10n10k2n2k2n2~x2/) — ΔT 1.05
+1. [Collister Personal Tartan Tartan Number: 6757. Earliest known date: 2005 To commemorate the wedding of Laura Jenkins and Gary Collister in October 2005. Organised through The House of Tartan, Comrie, Perthshire and woven by D C Dalgliesh. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/k26n2k2n2k2n10w10n6dt10lo5~x2/) — ΔT 1.05
 1. [MacDonald of Clanranald 2](/setts/s13/db8r1db2r3db12r1k12w1g12r3g2r1g8~x2/) — ΔT 1.06
 1. [Bowie](/setts/s12/db9r3db3r5db16r2k17g16r5g3ly1g9~x2/) — ΔT 1.10
 1. [Gordon dress](/setts/s23/w2db1w12db2w2k8db8k2db2k2db8k8g8k1ly2k1g8k8w2db2w12db1w2~x2/) — ΔT 1.10
@@ -916,8 +925,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/w16db3w3db3w3k16dg13k1w3k1dg13k16db16k1r3~x2/"><circle cx="109.2" cy="123.2" r="4" fill="#3465a4"><title>MacKenzie Dress #2</title></circle></a><a href="/setts/s19/r4db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4~x2/"><circle cx="96.9" cy="97.1" r="4" fill="#3465a4"><title>Lauder</title></circle></a><a href="/setts/s13/db16r2db2r7db31r2k32w3g31r7g2r2g16~x2/"><circle cx="143.0" cy="126.8" r="4" fill="#3465a4"><title>MacDonald of Clanranald 1</title></circle></a><a href="/setts/s18/k26n2k2n2k2n10w10n6dt10lo5dt10n6w10n10k2n2k2n2~x2/"><circle cx="113.4" cy="118.6" r="4" fill="#3465a4"><title>Collister Personal Tartan Tartan Number: 6757. Earliest known date: 2005 To commemorate the wedding of Laura Jenkins and Gary Collister in October 2005. Organised through The House of Tartan, Comrie, Perthshire and woven by D C Dalgliesh. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12w1g12r3g2r1g8~x2/"><circle cx="132.7" cy="147.2" r="4" fill="#3465a4"><title>MacDonald of Clanranald 2</title></circle></a><a href="/setts/s12/db9r3db3r5db16r2k17g16r5g3ly1g9~x2/"><circle cx="129.1" cy="146.2" r="4" fill="#3465a4"><title>Bowie</title></circle></a><a href="/setts/s23/w2db1w12db2w2k8db8k2db2k2db8k8g8k1ly2k1g8k8w2db2w12db1w2~x2/"><circle cx="71.9" cy="110.9" r="4" fill="#3465a4"><title>Gordon dress</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1~x2/"><circle cx="141.2" cy="143.3" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s11/w4db20g5k6g2w3g2k6g13p8g2~x2/"><circle cx="103.6" cy="158.5" r="4" fill="#3465a4"><title>Bowlers</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="144.3" cy="131.8" r="4" fill="#3465a4"><title>Robertson of Kindeace</title></circle></a><circle cx="96.4" cy="119.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/w16db3w3db3w3k16dg13k1w3k1dg13k16db16k1r3~x2/"><circle cx="109.2" cy="123.3" r="4" fill="#3465a4"><title>MacKenzie Dress #2</title></circle></a><a href="/setts/s19/r4db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4~x2/"><circle cx="96.8" cy="97.1" r="4" fill="#3465a4"><title>Lauder</title></circle></a><a href="/setts/s13/db16r2db2r7db31r2k32w3g31r7g2r2g16~x2/"><circle cx="143.0" cy="126.8" r="4" fill="#3465a4"><title>MacDonald of Clanranald 1</title></circle></a><a href="/setts/s18/k26n2k2n2k2n10w10n6dt10lo5~x2/"><circle cx="113.3" cy="118.6" r="4" fill="#3465a4"><title>Collister Personal Tartan Tartan Number: 6757. Earliest known date: 2005 To commemorate the wedding of Laura Jenkins and Gary Collister in October 2005. Organised through The House of Tartan, Comrie, Perthshire and woven by D C Dalgliesh. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12w1g12r3g2r1g8~x2/"><circle cx="132.8" cy="147.3" r="4" fill="#3465a4"><title>MacDonald of Clanranald 2</title></circle></a><a href="/setts/s12/db9r3db3r5db16r2k17g16r5g3ly1g9~x2/"><circle cx="129.1" cy="146.3" r="4" fill="#3465a4"><title>Bowie</title></circle></a><a href="/setts/s23/w2db1w12db2w2k8db8k2db2k2db8k8g8k1ly2k1g8k8w2db2w12db1w2~x2/"><circle cx="71.8" cy="111.0" r="4" fill="#3465a4"><title>Gordon dress</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1~x2/"><circle cx="141.2" cy="143.3" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s11/w4db20g5k6g2w3g2k6g13p8g2~x2/"><circle cx="103.7" cy="158.5" r="4" fill="#3465a4"><title>Bowlers</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="144.5" cy="131.8" r="4" fill="#3465a4"><title>Robertson of Kindeace</title></circle></a><circle cx="96.4" cy="119.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/w16db3w3db3w3k16g13k1w3k1g13k16db16k1r3~x2/

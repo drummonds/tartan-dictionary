@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/
 Original link http://www.tartansauthority.com/tartan-ferret/display/10565/
 
 ## Thread count
-B/8 R8 Ba40 W/112
+W/112 Ba40 R8 B/8
 ![Sett](sett.png)
 
 ## Palette
@@ -25,7 +25,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/8 R8 Ba40 W/112 tartan")
+![Tartan detail](tartan.png "W/112 Ba40 R8 B/8 tartan")
 
 ## Nearest tartans
 
@@ -44,8 +44,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/w80db30lo5ly4~x2/"><circle cx="381.0" cy="159.5" r="4" fill="#3465a4"><title>Tarbh Deargh (Red Bull)</title></circle></a><a href="/setts/s4/w35n12r2n2~x2/"><circle cx="394.1" cy="163.4" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/setts/s6/w93lr6w13b35w12lr6/"><circle cx="424.1" cy="162.8" r="4" fill="#3465a4"><title>Butties</title></circle></a><a href="/setts/s6/w93o6w13db35w12o6/"><circle cx="408.0" cy="156.5" r="4" fill="#3465a4"><title>Butties</title></circle></a><a href="/setts/s7/w24g2w8db5ly4db5ly4~x2/"><circle cx="305.0" cy="161.9" r="4" fill="#3465a4"><title>Clackson Arisaid (Name?)</title></circle></a><a href="/setts/s6/db23w8lb2k5w44db4~x2/"><circle cx="320.3" cy="135.2" r="4" fill="#3465a4"><title>WaterAid</title></circle></a><a href="/setts/s8/db9lb27db2ly4db2lb10db2w3~x2/"><circle cx="334.0" cy="153.7" r="4" fill="#3465a4"><title>Alaska Highlanders P &amp; D (Corporate)</title></circle></a><a href="/setts/s8/w12r2w12g17w12r2w5p2~x4/"><circle cx="299.7" cy="192.7" r="4" fill="#3465a4"><title>Milne, Green (Dance)</title></circle></a><a href="/setts/s6/ly5db15lb5db5lb40ly3~x2/"><circle cx="334.4" cy="175.9" r="4" fill="#3465a4"><title>Legary</title></circle></a><a href="/setts/s8/w20k2w20lo5k3w3lo4k2/"><circle cx="401.5" cy="174.6" r="4" fill="#3465a4"><title>Guzzo Dress (Personal)</title></circle></a><circle cx="367.9" cy="175.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/w80db30lo5ly4~x2/"><circle cx="380.5" cy="159.1" r="4" fill="#3465a4"><title>Tarbh Deargh (Red Bull)</title></circle></a><a href="/setts/s4/w35n12r2n2~x2/"><circle cx="393.5" cy="163.0" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/setts/s6/w93lr6w13b35w12lr6/"><circle cx="423.4" cy="162.3" r="4" fill="#3465a4"><title>Butties</title></circle></a><a href="/setts/s6/w93o6w13db35w12o6/"><circle cx="407.4" cy="156.0" r="4" fill="#3465a4"><title>Butties</title></circle></a><a href="/setts/s7/w24g2w8db5ly4db5ly4~x2/"><circle cx="304.5" cy="161.6" r="4" fill="#3465a4"><title>Clackson Arisaid (Name?)</title></circle></a><a href="/setts/s6/db23w8lb2k5w44db4~x2/"><circle cx="319.9" cy="134.8" r="4" fill="#3465a4"><title>WaterAid</title></circle></a><a href="/setts/s8/db9lb27db2ly4db2lb10db2w3~x2/"><circle cx="333.6" cy="153.4" r="4" fill="#3465a4"><title>Alaska Highlanders P &amp; D (Corporate)</title></circle></a><a href="/setts/s8/w12r2w12g17w12r2w5p2~x4/"><circle cx="299.2" cy="192.4" r="4" fill="#3465a4"><title>Milne, Green (Dance)</title></circle></a><a href="/setts/s6/ly5db15lb5db5lb40ly3~x2/"><circle cx="334.0" cy="175.5" r="4" fill="#3465a4"><title>Legary</title></circle></a><a href="/setts/s8/w20k2w20lo5k3w3lo4k2/"><circle cx="400.8" cy="174.1" r="4" fill="#3465a4"><title>Guzzo Dress (Personal)</title></circle></a><circle cx="367.4" cy="174.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/w14b5r1t1~x8/

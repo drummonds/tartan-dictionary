@@ -2,7 +2,7 @@
 title: "Souza Nery (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [WBRKRGY](/stripes/wbrkrgy/) · **Stripes:** [W DB R K R G LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W DB R K R G LY</span></span>
+**Bands:** [YGRKRBW](/stripes/ygrkrbw/) · **Stripes:** [LY G R K R DB W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY G R K R DB W</span></span>
 
 
 This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/6 DB74 R6 K34 R6 G44 Y/8
+Y/8 G44 R6 K34 R6 DB74 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -909,27 +912,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/6 DB74 R6 K34 R6 G44 Y/8 tartan")
+![Tartan detail](tartan.png "Y/8 G44 R6 K34 R6 DB74 LN/6 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [St Columba](/setts/s8/db60t5w4o12g42p12t5p12/) — ΔT 0.63
-1. [Renfrewshire Tartan](/setts/s7/ly4g13k8db25t8db2p4~x2/) — ΔT 0.72
+1. [Renfrewshire Tartan](/setts/s7/p4db2t8db25k8g13ly4~x2/) — ΔT 0.72
 1. [Leung (Personal)](/setts/s9/m4k7m2db25k19w2g13k2ly3~x2/) — ΔT 0.74
 1. [Minnesota (District)](/setts/s8/k6w3k2db30r9k4g20ly3~x2/) — ΔT 0.78
 1. [Unidentified (ex Tony Murray)](/setts/s7/r2ly2db9dy1dg9r1w1~x2/) — ΔT 0.80
-1. [James (Personal)](/setts/s7/lr2db6ly1dg12ly1k6r2~x4/) — ΔT 0.84
+1. [James (Personal)](/setts/s7/r2k6ly1dg12ly1db6lr2~x4/) — ΔT 0.84
 1. [Renfrewshire](/setts/s7/dp4db2t8db25k8g13ly4~x2/) — ΔT 0.85
 1. [Harvey of Cornwall (Personal)](/setts/s7/w10k52db52dg24ly10dg5r5/) — ΔT 0.87
-1. [St. Andrews Golf Club (Corporate)](/setts/s9/lo1g3lb1g5k1g1k9db12w1~x4/) — ΔT 0.89
-1. [Morris of Eddergoll (Personal)](/setts/s6/lo2g20k10r3db20w2~x2/) — ΔT 0.90
+1. [St. Andrews Golf Club (Corporate)](/setts/s9/w1db12k9g1k1g5lb1g3lo1~x4/) — ΔT 0.89
+1. [Morris of Eddergoll (Personal)](/setts/s6/w2db20r3k10g20lo2~x2/) — ΔT 0.90
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db60t5w4o12g42p12t5p12/"><circle cx="166.5" cy="137.5" r="4" fill="#3465a4"><title>St Columba</title></circle></a><a href="/setts/s7/ly4g13k8db25t8db2p4~x2/"><circle cx="149.2" cy="164.5" r="4" fill="#3465a4"><title>Renfrewshire Tartan</title></circle></a><a href="/setts/s9/m4k7m2db25k19w2g13k2ly3~x2/"><circle cx="152.2" cy="147.7" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/setts/s8/k6w3k2db30r9k4g20ly3~x2/"><circle cx="154.7" cy="132.9" r="4" fill="#3465a4"><title>Minnesota (District)</title></circle></a><a href="/setts/s7/r2ly2db9dy1dg9r1w1~x2/"><circle cx="148.6" cy="161.9" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><a href="/setts/s7/lr2db6ly1dg12ly1k6r2~x4/"><circle cx="163.4" cy="169.7" r="4" fill="#3465a4"><title>James (Personal)</title></circle></a><a href="/setts/s7/dp4db2t8db25k8g13ly4~x2/"><circle cx="168.1" cy="173.7" r="4" fill="#3465a4"><title>Renfrewshire</title></circle></a><a href="/setts/s7/w10k52db52dg24ly10dg5r5/"><circle cx="123.4" cy="167.3" r="4" fill="#3465a4"><title>Harvey of Cornwall (Personal)</title></circle></a><a href="/setts/s9/lo1g3lb1g5k1g1k9db12w1~x4/"><circle cx="164.3" cy="149.6" r="4" fill="#3465a4"><title>St. Andrews Golf Club (Corporate)</title></circle></a><a href="/setts/s6/lo2g20k10r3db20w2~x2/"><circle cx="138.7" cy="181.3" r="4" fill="#3465a4"><title>Morris of Eddergoll (Personal)</title></circle></a><circle cx="176.2" cy="155.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db60t5w4o12g42p12t5p12/"><circle cx="166.6" cy="137.6" r="4" fill="#3465a4"><title>St Columba</title></circle></a><a href="/setts/s7/p4db2t8db25k8g13ly4~x2/"><circle cx="149.3" cy="164.6" r="4" fill="#3465a4"><title>Renfrewshire Tartan</title></circle></a><a href="/setts/s9/m4k7m2db25k19w2g13k2ly3~x2/"><circle cx="152.4" cy="147.8" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/setts/s8/k6w3k2db30r9k4g20ly3~x2/"><circle cx="154.7" cy="132.9" r="4" fill="#3465a4"><title>Minnesota (District)</title></circle></a><a href="/setts/s7/r2ly2db9dy1dg9r1w1~x2/"><circle cx="148.6" cy="162.0" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><a href="/setts/s7/r2k6ly1dg12ly1db6lr2~x4/"><circle cx="163.5" cy="169.8" r="4" fill="#3465a4"><title>James (Personal)</title></circle></a><a href="/setts/s7/dp4db2t8db25k8g13ly4~x2/"><circle cx="168.2" cy="173.8" r="4" fill="#3465a4"><title>Renfrewshire</title></circle></a><a href="/setts/s7/w10k52db52dg24ly10dg5r5/"><circle cx="123.6" cy="167.4" r="4" fill="#3465a4"><title>Harvey of Cornwall (Personal)</title></circle></a><a href="/setts/s9/w1db12k9g1k1g5lb1g3lo1~x4/"><circle cx="164.5" cy="149.8" r="4" fill="#3465a4"><title>St. Andrews Golf Club (Corporate)</title></circle></a><a href="/setts/s6/w2db20r3k10g20lo2~x2/"><circle cx="138.9" cy="181.3" r="4" fill="#3465a4"><title>Morris of Eddergoll (Personal)</title></circle></a><circle cx="176.3" cy="155.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/ly4g22r3k17r3db37w3~x2/

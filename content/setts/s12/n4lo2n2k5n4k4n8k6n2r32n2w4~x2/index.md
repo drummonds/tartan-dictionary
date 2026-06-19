@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/10534/
 
 ## Thread count
-LN/8 N4 R64 N4 K12 N16 K8 N8 K10 N4 DY4 N/8
+N/8 DY4 N4 K10 N8 K8 N16 K12 N4 R64 N4 LN/8
 ![Sett](sett.png)
 
 ## Palette
@@ -29,8 +29,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Varenne](/setts/s11/o32do4r2k8r3lb2r3k8r2do4r30~x2/) — ΔT 0.76
-1. [MacDougall #11](/setts/s15/r6m3w3r4dg33m3w3r4w3m3db9r33m3w4r4~x2/) — ΔT 0.92
-1. [Scotland (Personal)](/setts/s11/g3ly1dp1g20r2dp9r2r20dp1ly1r3~x2/) — ΔT 0.95
+1. [MacDougall #11](/setts/s15/r6m3w3r4dg33m3w3r4w3m3db9r33m3w4r4~x2/) — ΔT 0.93
+1. [Scotland (Personal)](/setts/s11/r3ly1dp1r20r2dp9r2g20dp1ly1g3~x2/) — ΔT 0.95
 1. [Rourke-Frew (Name)](/setts/s11/dt6k3r2k3r31k6lo2k6lo13k2lo2~x2/) — ΔT 0.98
 1. [Eidart 1990 (Fashion)](/setts/s12/n4r20k2r2k2r3k6o26w3o2w2o4~x2/) — ΔT 0.99
 1. [Orr Senior, Gerald William](/setts/s12/n4ly2n2k5n4k4n8k6n2r32n2w4~x2/) — ΔT 0.99
@@ -41,8 +41,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/o32do4r2k8r3lb2r3k8r2do4r30~x2/"><circle cx="227.4" cy="115.1" r="4" fill="#3465a4"><title>Varenne</title></circle></a><a href="/setts/s15/r6m3w3r4dg33m3w3r4w3m3db9r33m3w4r4~x2/"><circle cx="212.3" cy="103.2" r="4" fill="#3465a4"><title>MacDougall #11</title></circle></a><a href="/setts/s11/g3ly1dp1g20r2dp9r2r20dp1ly1r3~x2/"><circle cx="245.4" cy="113.6" r="4" fill="#3465a4"><title>Scotland (Personal)</title></circle></a><a href="/setts/s11/dt6k3r2k3r31k6lo2k6lo13k2lo2~x2/"><circle cx="254.2" cy="125.8" r="4" fill="#3465a4"><title>Rourke-Frew (Name)</title></circle></a><a href="/setts/s12/n4r20k2r2k2r3k6o26w3o2w2o4~x2/"><circle cx="225.1" cy="120.0" r="4" fill="#3465a4"><title>Eidart 1990 (Fashion)</title></circle></a><a href="/setts/s12/n4ly2n2k5n4k4n8k6n2r32n2w4~x2/"><circle cx="219.2" cy="90.1" r="4" fill="#3465a4"><title>Orr Senior, Gerald William</title></circle></a><a href="/setts/s12/r3r4dg3dp3r11dg30r3dp7dg3r2r4w2~x2/"><circle cx="266.1" cy="120.3" r="4" fill="#3465a4"><title>MacKinnon #7</title></circle></a><a href="/setts/s11/dp6do3r2do3r31do6lo2do6lo13do2lo2~x2/"><circle cx="266.3" cy="130.2" r="4" fill="#3465a4"><title>Rourke-Frew (Ontario)</title></circle></a><a href="/setts/s14/w3r5dg3dp3r14dg36r3dp8dg3r36dg14r3r5w3~x2/"><circle cx="253.9" cy="119.0" r="4" fill="#3465a4"><title>MacKinnon #11</title></circle></a><a href="/setts/s12/dp1r1dp1r6g26dp14r20t1r1t1r2lr1~x2/"><circle cx="280.3" cy="95.7" r="4" fill="#3465a4"><title>Scobie (Name)</title></circle></a><circle cx="245.3" cy="106.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/o32do4r2k8r3lb2r3k8r2do4r30~x2/"><circle cx="227.2" cy="115.2" r="4" fill="#3465a4"><title>Varenne</title></circle></a><a href="/setts/s15/r6m3w3r4dg33m3w3r4w3m3db9r33m3w4r4~x2/"><circle cx="211.9" cy="103.2" r="4" fill="#3465a4"><title>MacDougall #11</title></circle></a><a href="/setts/s11/r3ly1dp1r20r2dp9r2g20dp1ly1g3~x2/"><circle cx="245.1" cy="113.7" r="4" fill="#3465a4"><title>Scotland (Personal)</title></circle></a><a href="/setts/s11/dt6k3r2k3r31k6lo2k6lo13k2lo2~x2/"><circle cx="253.9" cy="125.8" r="4" fill="#3465a4"><title>Rourke-Frew (Name)</title></circle></a><a href="/setts/s12/n4r20k2r2k2r3k6o26w3o2w2o4~x2/"><circle cx="224.8" cy="120.0" r="4" fill="#3465a4"><title>Eidart 1990 (Fashion)</title></circle></a><a href="/setts/s12/n4ly2n2k5n4k4n8k6n2r32n2w4~x2/"><circle cx="218.9" cy="90.1" r="4" fill="#3465a4"><title>Orr Senior, Gerald William</title></circle></a><a href="/setts/s12/r3r4dg3dp3r11dg30r3dp7dg3r2r4w2~x2/"><circle cx="265.9" cy="120.3" r="4" fill="#3465a4"><title>MacKinnon #7</title></circle></a><a href="/setts/s11/dp6do3r2do3r31do6lo2do6lo13do2lo2~x2/"><circle cx="265.9" cy="130.2" r="4" fill="#3465a4"><title>Rourke-Frew (Ontario)</title></circle></a><a href="/setts/s14/w3r5dg3dp3r14dg36r3dp8dg3r36dg14r3r5w3~x2/"><circle cx="253.6" cy="119.0" r="4" fill="#3465a4"><title>MacKinnon #11</title></circle></a><a href="/setts/s12/dp1r1dp1r6g26dp14r20t1r1t1r2lr1~x2/"><circle cx="279.9" cy="95.8" r="4" fill="#3465a4"><title>Scobie (Name)</title></circle></a><circle cx="245.0" cy="106.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/n4lo2n2k5n4k4n8k6n2r32n2w4~x2/

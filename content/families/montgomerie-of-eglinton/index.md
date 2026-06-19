@@ -8,5 +8,5 @@ A family of [Clan Montgomerie](/clan/montgomerie/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s7/k4g5k4db28k4r5k4~x2/"><img src="/setts/s7/k4g5k4db28k4r5k4~x2/sett.png" alt="Montgomerie of Eglinton" width="240"><br>Montgomerie of Eglinton</a>
+<a class="tartan" href="/setts/s7/k4r5k4db28k4g5k4~x2/"><img src="/setts/s7/k4r5k4db28k4g5k4~x2/sett.png" alt="Montgomerie of Eglinton" width="240"><br>Montgomerie of Eglinton</a>
 

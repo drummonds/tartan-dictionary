@@ -2,12 +2,19 @@
 title: "Ogilvie of Inverarity - 1842 (V.S.)"
 date: 2023-03-18
 ---
-**Bands:** [BYBKGKGR](/stripes/bybkgkgr/) · **Stripes:** [DB LY DB K G K G R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB LY DB K G K G R</span></span>
+**Bands:** [RGKGKBYB](/stripes/rgkgkbyb/) · **Stripes:** [R G K G K DB LY DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">R G K G K DB LY DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/666/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Ogilvie of Inverquharity
+- Ogilvie, of Inverquharity
 
 ## Attestations
 
@@ -319,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -928,8 +938,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/ly2k4ly1dg16k14db23k4r1~x2/"><circle cx="235.1" cy="165.8" r="4" fill="#3465a4"><title>Thomas of Craigie (Personal)</title></circle></a><a href="/setts/s10/g2t2db33r2k35g33k1r2k1g2~x2/"><circle cx="256.5" cy="120.9" r="4" fill="#3465a4"><title>Lochaber - 1819 (District)</title></circle></a><a href="/setts/s7/k6db3g28w1db28db2w3~x2/"><circle cx="268.8" cy="151.9" r="4" fill="#3465a4"><title>Weisfeld (Name)</title></circle></a><a href="/setts/s9/dy3k3dy3k18n28lb1dg22k2dy2~x2/"><circle cx="222.2" cy="140.1" r="4" fill="#3465a4"><title>Black Gold (Corporate)</title></circle></a><a href="/setts/s7/db4k2db16w1k8dg24r4~x2/"><circle cx="265.4" cy="175.0" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/setts/s11/db8t3db40r3k44t3r3g40r2k4r7~x2/"><circle cx="201.8" cy="131.3" r="4" fill="#3465a4"><title>Lochaber Cameron</title></circle></a><a href="/setts/s6/r6db32k18g28k1lb2~x2/"><circle cx="234.2" cy="167.2" r="4" fill="#3465a4"><title>Naysmith (Name)</title></circle></a><a href="/setts/s9/g40k8g4k8g4r14db64t9db3/"><circle cx="261.2" cy="145.8" r="4" fill="#3465a4"><title>West Lothian</title></circle></a><a href="/setts/s8/w4k1dg18k17db13r1db3r1~x2/"><circle cx="179.0" cy="160.9" r="4" fill="#3465a4"><title>Whitson #2</title></circle></a><a href="/setts/s7/db4k2db16lr1k8dg24r4~x2/"><circle cx="248.5" cy="171.1" r="4" fill="#3465a4"><title>Colqhoun VS</title></circle></a><circle cx="245.6" cy="149.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/ly2k4ly1dg16k14db23k4r1~x2/"><circle cx="235.2" cy="165.9" r="4" fill="#3465a4"><title>Thomas of Craigie (Personal)</title></circle></a><a href="/setts/s10/g2t2db33r2k35g33k1r2k1g2~x2/"><circle cx="256.5" cy="121.0" r="4" fill="#3465a4"><title>Lochaber - 1819 (District)</title></circle></a><a href="/setts/s7/k6db3g28w1db28db2w3~x2/"><circle cx="268.8" cy="152.0" r="4" fill="#3465a4"><title>Weisfeld (Name)</title></circle></a><a href="/setts/s9/dy3k3dy3k18n28lb1dg22k2dy2~x2/"><circle cx="222.3" cy="140.2" r="4" fill="#3465a4"><title>Black Gold (Corporate)</title></circle></a><a href="/setts/s7/db4k2db16w1k8dg24r4~x2/"><circle cx="265.5" cy="175.1" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/setts/s11/db8t3db40r3k44t3r3g40r2k4r7~x2/"><circle cx="201.9" cy="131.4" r="4" fill="#3465a4"><title>Lochaber Cameron</title></circle></a><a href="/setts/s6/r6db32k18g28k1lb2~x2/"><circle cx="234.3" cy="167.2" r="4" fill="#3465a4"><title>Naysmith (Name)</title></circle></a><a href="/setts/s9/g40k8g4k8g4r14db64t9db3/"><circle cx="261.3" cy="145.9" r="4" fill="#3465a4"><title>West Lothian</title></circle></a><a href="/setts/s8/w4k1dg18k17db13r1db3r1~x2/"><circle cx="179.1" cy="161.0" r="4" fill="#3465a4"><title>Whitson #2</title></circle></a><a href="/setts/s7/db4k2db16lr1k8dg24r4~x2/"><circle cx="248.6" cy="171.1" r="4" fill="#3465a4"><title>Colqhoun VS</title></circle></a><circle cx="245.7" cy="149.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db28ly1db2k26g24k1g2r3~x2/

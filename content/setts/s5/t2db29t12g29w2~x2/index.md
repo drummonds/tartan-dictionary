@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/46/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Wallace, Blue Wallace
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -319,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,19 +925,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Skibo](/setts/s5/r2g23db11db22r2~x2/) — ΔT 0.76
 1. [MacRobart (Personal)](/setts/s6/db30k10g10lb2g15lb2~x2/) — ΔT 1.03
-1. [Flower of Scotland](/setts/s6/b3g25b3k16b25r3~x2/) — ΔT 1.05
+1. [Flower of Scotland](/setts/s6/r3b25k16b3g25b3~x2/) — ΔT 1.05
 1. [Rothesay & Caithness Fencibles (Mil)](/setts/s5/b32k10g15k2ly4~x2/) — ΔT 1.14
 1. [Douglas Clan Tartan Tartan Number: 1032. Earliest known date: 1831 Wilson's sent a list of tartans to Logan about 1830 stating that 'No 148' had been sold as Douglas for a 'considerable' time. Logan included the Douglas tartan even though he said that no family tartans appeared in his book. The distinction between clans and families is obscure. There are many historic references to the 'Border Clans' which would certainly describe the Douglas'. There is also a black and grey sett for the clan which first appeared in the Vestiarium Scoticum in 1842. The present chiefship is vacant on account of the compound surnames of the eligible claimants. Lord Lyon will not recognise 'double barrel' names. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/k3db3g23db21w2~x2/) — ΔT 1.15
 1. [Louisville Spaulding (Personal)](/setts/s5/k20db50g50r3k3~x2/) — ΔT 1.17
 1. [MacKirdy](/setts/s5/k2g12k11b12w1~x2/) — ΔT 1.20
 1. [DeLoughery (Personal)](/setts/s6/db20k6lo4db3g20w2~x2/) — ΔT 1.24
-1. [Sinclair of Ulbster](/setts/s6/b12k4g6ly1g6k4~x8/) — ΔT 1.24
-1. [MacThomas](/setts/s7/b5m3b32k16g32m3g5~x2/) — ΔT 1.26
+1. [Sinclair of Ulbster](/setts/s6/b12k4g6ly1~x8/) — ΔT 1.24
+1. [MacThomas](/setts/s7/g5m3g32k16b32m3b5~x2/) — ΔT 1.26
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r2g23db11db22r2~x2/"><circle cx="216.3" cy="231.8" r="4" fill="#3465a4"><title>Skibo</title></circle></a><a href="/setts/s6/db30k10g10lb2g15lb2~x2/"><circle cx="264.1" cy="217.4" r="4" fill="#3465a4"><title>MacRobart (Personal)</title></circle></a><a href="/setts/s6/b3g25b3k16b25r3~x2/"><circle cx="210.4" cy="230.2" r="4" fill="#3465a4"><title>Flower of Scotland</title></circle></a><a href="/setts/s5/b32k10g15k2ly4~x2/"><circle cx="277.0" cy="208.6" r="4" fill="#3465a4"><title>Rothesay &amp; Caithness Fencibles (Mil)</title></circle></a><a href="/setts/s5/k3db3g23db21w2~x2/"><circle cx="258.6" cy="212.6" r="4" fill="#3465a4"><title>Douglas Clan Tartan Tartan Number: 1032. Earliest known date: 1831 Wilson's sent a list of tartans to Logan about 1830 stating that 'No 148' had been sold as Douglas for a 'considerable' time. Logan included the Douglas tartan even though he said that no family tartans appeared in his book. The distinction between clans and families is obscure. There are many historic references to the 'Border Clans' which would certainly describe the Douglas'. There is also a black and grey sett for the clan which first appeared in the Vestiarium Scoticum in 1842. The present chiefship is vacant on account of the compound surnames of the eligible claimants. Lord Lyon will not recognise 'double barrel' names. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k20db50g50r3k3~x2/"><circle cx="255.4" cy="220.7" r="4" fill="#3465a4"><title>Louisville Spaulding (Personal)</title></circle></a><a href="/setts/s5/k2g12k11b12w1~x2/"><circle cx="179.1" cy="232.8" r="4" fill="#3465a4"><title>MacKirdy</title></circle></a><a href="/setts/s6/db20k6lo4db3g20w2~x2/"><circle cx="206.7" cy="203.1" r="4" fill="#3465a4"><title>DeLoughery (Personal)</title></circle></a><a href="/setts/s6/b12k4g6ly1g6k4~x8/"><circle cx="191.9" cy="239.5" r="4" fill="#3465a4"><title>Sinclair of Ulbster</title></circle></a><a href="/setts/s7/b5m3b32k16g32m3g5~x2/"><circle cx="212.2" cy="198.7" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><circle cx="249.0" cy="223.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r2g23db11db22r2~x2/"><circle cx="216.4" cy="231.8" r="4" fill="#3465a4"><title>Skibo</title></circle></a><a href="/setts/s6/db30k10g10lb2g15lb2~x2/"><circle cx="264.2" cy="217.4" r="4" fill="#3465a4"><title>MacRobart (Personal)</title></circle></a><a href="/setts/s6/r3b25k16b3g25b3~x2/"><circle cx="210.4" cy="230.2" r="4" fill="#3465a4"><title>Flower of Scotland</title></circle></a><a href="/setts/s5/b32k10g15k2ly4~x2/"><circle cx="277.0" cy="208.5" r="4" fill="#3465a4"><title>Rothesay &amp; Caithness Fencibles (Mil)</title></circle></a><a href="/setts/s5/k3db3g23db21w2~x2/"><circle cx="258.6" cy="212.6" r="4" fill="#3465a4"><title>Douglas Clan Tartan Tartan Number: 1032. Earliest known date: 1831 Wilson's sent a list of tartans to Logan about 1830 stating that 'No 148' had been sold as Douglas for a 'considerable' time. Logan included the Douglas tartan even though he said that no family tartans appeared in his book. The distinction between clans and families is obscure. There are many historic references to the 'Border Clans' which would certainly describe the Douglas'. There is also a black and grey sett for the clan which first appeared in the Vestiarium Scoticum in 1842. The present chiefship is vacant on account of the compound surnames of the eligible claimants. Lord Lyon will not recognise 'double barrel' names. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k20db50g50r3k3~x2/"><circle cx="255.6" cy="220.7" r="4" fill="#3465a4"><title>Louisville Spaulding (Personal)</title></circle></a><a href="/setts/s5/k2g12k11b12w1~x2/"><circle cx="179.3" cy="232.8" r="4" fill="#3465a4"><title>MacKirdy</title></circle></a><a href="/setts/s6/db20k6lo4db3g20w2~x2/"><circle cx="206.8" cy="203.1" r="4" fill="#3465a4"><title>DeLoughery (Personal)</title></circle></a><a href="/setts/s6/b12k4g6ly1~x8/"><circle cx="192.0" cy="239.5" r="4" fill="#3465a4"><title>Sinclair of Ulbster</title></circle></a><a href="/setts/s7/g5m3g32k16b32m3b5~x2/"><circle cx="212.2" cy="198.7" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><circle cx="249.0" cy="223.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/t2db29t12g29w2~x2/

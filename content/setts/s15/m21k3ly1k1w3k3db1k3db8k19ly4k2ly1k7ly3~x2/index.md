@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,12 +915,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Cates Dress](/setts/s12/ly2w1r2k20r9k20ly7n20k5ly1k1r1~x2/) — ΔT 1.27
 1. [Boyd (Clan)](/setts/s13/k5w4k4r5k35k4w10db2w2db2w2r22ly5~x2/) — ΔT 1.29
 1. [Watson-Kirby (Personal)](/setts/s12/k5ly3dg10k23r3k10r3w2r9w2k3w1~x2/) — ΔT 1.35
-1. [Unidentified Fashion](/setts/s15/n32k4n5k4n32k2w2lo12k16w8k4r5k4w8k16~x2/) — ΔT 1.36
+1. [Unidentified Fashion](/setts/s15/n32k4n5k4n32k2w2lo12k16w8k4r5k4w8k16~x2/) — ΔT 1.37
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/w1dr2ly2dr20b1dr1k6dr6k6ly2dr1ly2b6dr3k1dr3k20dr1ly2w1~x2/"><circle cx="229.0" cy="81.3" r="4" fill="#3465a4"><title>McDill (2015)</title></circle></a><a href="/setts/s15/r22k3lo1k1w3k3db1k3db8k19lo4k2lo1k7lo3~x2/"><circle cx="247.3" cy="99.1" r="4" fill="#3465a4"><title>Ruxton</title></circle></a><a href="/setts/s14/r21k3lo1k3k2db1k3db8k29lo4k2lo1k7lo3~x2/"><circle cx="278.2" cy="81.6" r="4" fill="#3465a4"><title>(5) Ruxton</title></circle></a><a href="/setts/s17/r5k20do1k2do1k2do2k2do5o2do2o2do2o3do2o10w3~x2/"><circle cx="177.9" cy="87.7" r="4" fill="#3465a4"><title>Nike Golf Dark</title></circle></a><a href="/setts/s11/k2k28k4k1k4m16t3m2y2m3t1~x2/"><circle cx="253.5" cy="91.7" r="4" fill="#3465a4"><title>Torridon Dress Tartan Tartan Number: 8185. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/k5r1w2r1k26r3lo1n10w1r3w1n10w1r3~x2/"><circle cx="255.0" cy="81.2" r="4" fill="#3465a4"><title>El Dorado Hills P &amp; D (Corporate)</title></circle></a><a href="/setts/s12/ly2w1r2k20r9k20ly7n20k5ly1k1r1~x2/"><circle cx="258.1" cy="117.5" r="4" fill="#3465a4"><title>Cates Dress</title></circle></a><a href="/setts/s13/k5w4k4r5k35k4w10db2w2db2w2r22ly5~x2/"><circle cx="169.7" cy="78.6" r="4" fill="#3465a4"><title>Boyd (Clan)</title></circle></a><a href="/setts/s12/k5ly3dg10k23r3k10r3w2r9w2k3w1~x2/"><circle cx="279.1" cy="119.4" r="4" fill="#3465a4"><title>Watson-Kirby (Personal)</title></circle></a><a href="/setts/s15/n32k4n5k4n32k2w2lo12k16w8k4r5k4w8k16~x2/"><circle cx="186.9" cy="114.3" r="4" fill="#3465a4"><title>Unidentified Fashion</title></circle></a><circle cx="225.3" cy="95.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/w1dr2ly2dr20b1dr1k6dr6k6ly2dr1ly2b6dr3k1dr3k20dr1ly2w1~x2/"><circle cx="228.9" cy="81.4" r="4" fill="#3465a4"><title>McDill (2015)</title></circle></a><a href="/setts/s15/r22k3lo1k1w3k3db1k3db8k19lo4k2lo1k7lo3~x2/"><circle cx="247.2" cy="99.1" r="4" fill="#3465a4"><title>Ruxton</title></circle></a><a href="/setts/s14/r21k3lo1k3k2db1k3db8k29lo4k2lo1k7lo3~x2/"><circle cx="278.2" cy="81.6" r="4" fill="#3465a4"><title>(5) Ruxton</title></circle></a><a href="/setts/s17/r5k20do1k2do1k2do2k2do5o2do2o2do2o3do2o10w3~x2/"><circle cx="177.9" cy="87.7" r="4" fill="#3465a4"><title>Nike Golf Dark</title></circle></a><a href="/setts/s11/k2k28k4k1k4m16t3m2y2m3t1~x2/"><circle cx="253.5" cy="91.7" r="4" fill="#3465a4"><title>Torridon Dress Tartan Tartan Number: 8185. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/k5r1w2r1k26r3lo1n10w1r3w1n10w1r3~x2/"><circle cx="254.8" cy="81.2" r="4" fill="#3465a4"><title>El Dorado Hills P &amp; D (Corporate)</title></circle></a><a href="/setts/s12/ly2w1r2k20r9k20ly7n20k5ly1k1r1~x2/"><circle cx="258.0" cy="117.5" r="4" fill="#3465a4"><title>Cates Dress</title></circle></a><a href="/setts/s13/k5w4k4r5k35k4w10db2w2db2w2r22ly5~x2/"><circle cx="169.7" cy="78.6" r="4" fill="#3465a4"><title>Boyd (Clan)</title></circle></a><a href="/setts/s12/k5ly3dg10k23r3k10r3w2r9w2k3w1~x2/"><circle cx="279.0" cy="119.3" r="4" fill="#3465a4"><title>Watson-Kirby (Personal)</title></circle></a><a href="/setts/s15/n32k4n5k4n32k2w2lo12k16w8k4r5k4w8k16~x2/"><circle cx="186.8" cy="114.3" r="4" fill="#3465a4"><title>Unidentified Fashion</title></circle></a><circle cx="225.3" cy="95.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/m21k3ly1k1w3k3db1k3db8k19ly4k2ly1k7ly3~x2/

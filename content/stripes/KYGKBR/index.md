@@ -26,4 +26,6 @@ KYGKBR
 |---------------|
 | [Rose Hunting](/setts/s6/k4lr1dg10k10db10r2~x2/)|
 |![Rose Hunting example sett](/setts/s6/k4lr1dg10k10db10r2~x2/sett.png)|
+| [Rose Hunting](/setts/s6/k4lr1dg10k10db10r2/)|
+|![Rose Hunting example sett](/setts/s6/k4lr1dg10k10db10r2/sett.png)|
 

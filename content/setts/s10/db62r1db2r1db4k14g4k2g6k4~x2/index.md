@@ -2,7 +2,7 @@
 title: "Park"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBKGKGK](/stripes/brbrbkgkgk/) · **Stripes:** [DB R DB R DB K G K G K](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">DB R DB R DB K G K G K</span></span>
+**Bands:** [KGKGKBRBRB](/stripes/kgkgkbrbrb/) · **Stripes:** [K G K G K DB R DB R DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">K G K G K DB R DB R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -915,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db62r1db2r1db4k14g4w2g6k4~x2/"><circle cx="451.6" cy="78.2" r="4" fill="#3465a4"><title>Parr</title></circle></a><a href="/setts/s10/k53b3k2w1k2b3k5b32ly1r3~x2/"><circle cx="409.8" cy="86.2" r="4" fill="#3465a4"><title>Estonian National Tartan (District)</title></circle></a><a href="/setts/s11/db45k10y2k2ly2k2y10db5k1db5ly1~x2/"><circle cx="430.0" cy="96.2" r="4" fill="#3465a4"><title>Skye</title></circle></a><a href="/setts/s10/db54lb3k5lb1k2lb1k2g8r8lb2~x2/"><circle cx="416.1" cy="77.7" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/setts/s8/w3dt9ly1lb3dp9lb1dt40dp2~x2/"><circle cx="474.5" cy="109.7" r="4" fill="#3465a4"><title>Parkin</title></circle></a><a href="/setts/s9/db60w1db6g10r1g7k2lo2w2~x2/"><circle cx="488.5" cy="77.5" r="4" fill="#3465a4"><title>Mohammed, Abu Hassan (Personal)</title></circle></a><a href="/setts/s8/g3db16k3p2k45r1k2lo3~x2/"><circle cx="415.8" cy="86.5" r="4" fill="#3465a4"><title>Cumnock</title></circle></a><a href="/setts/s10/db108w6k10w3k3w3k3g12r12w4/"><circle cx="399.8" cy="77.0" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/setts/s11/db45n5o1dt1lb1dt1lb5o3dt1o2lb1~x4/"><circle cx="452.7" cy="65.6" r="4" fill="#3465a4"><title>Mingulay (Fashion)</title></circle></a><a href="/setts/s10/w6db32o3db3o1db3o2db4db1ly2~x2/"><circle cx="414.8" cy="91.8" r="4" fill="#3465a4"><title>X Marks the Scot</title></circle></a><circle cx="458.2" cy="82.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db62r1db2r1db4k14g4w2g6k4~x2/"><circle cx="451.4" cy="78.0" r="4" fill="#3465a4"><title>Parr</title></circle></a><a href="/setts/s10/k53b3k2w1k2b3k5b32ly1r3~x2/"><circle cx="409.6" cy="86.1" r="4" fill="#3465a4"><title>Estonian National Tartan (District)</title></circle></a><a href="/setts/s11/db45k10y2k2ly2k2y10db5k1db5ly1~x2/"><circle cx="429.8" cy="96.0" r="4" fill="#3465a4"><title>Skye</title></circle></a><a href="/setts/s10/db54lb3k5lb1k2lb1k2g8r8lb2~x2/"><circle cx="416.0" cy="77.7" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/setts/s8/w3dt9ly1lb3dp9lb1dt40dp2~x2/"><circle cx="474.3" cy="109.5" r="4" fill="#3465a4"><title>Parkin</title></circle></a><a href="/setts/s9/db60w1db6g10r1g7k2lo2w2~x2/"><circle cx="488.3" cy="77.3" r="4" fill="#3465a4"><title>Mohammed, Abu Hassan (Personal)</title></circle></a><a href="/setts/s8/g3db16k3p2k45r1k2lo3~x2/"><circle cx="415.7" cy="86.4" r="4" fill="#3465a4"><title>Cumnock</title></circle></a><a href="/setts/s10/db108w6k10w3k3w3k3g12r12w4/"><circle cx="399.7" cy="76.9" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/setts/s11/db45n5o1dt1lb1dt1lb5o3dt1o2lb1~x4/"><circle cx="452.5" cy="65.5" r="4" fill="#3465a4"><title>Mingulay (Fashion)</title></circle></a><a href="/setts/s10/w6db32o3db3o1db3o2db4db1ly2~x2/"><circle cx="414.6" cy="91.6" r="4" fill="#3465a4"><title>X Marks the Scot</title></circle></a><circle cx="458.0" cy="82.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db62r1db2r1db4k14g4k2g6k4~x2/

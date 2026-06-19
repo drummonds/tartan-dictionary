@@ -2,7 +2,7 @@
 title: "MacGrath (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BBBBYWYWY](/stripes/bbbbywywy/) · **Stripes:** [T DB T DB LY W LY W LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">T DB T DB LY W LY W LY</span></span>
+**Bands:** [YWYWYBBBB](/stripes/ywywybbbb/) · **Stripes:** [LY W LY W LY DB T DB T](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY W LY W LY DB T DB T</span></span>
 
 
 This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3375
 
 ## Thread count
-B/16 DB4 B4 DB4 Y4 W48 Y20 W4 Y/24
+Y/24 W4 Y20 W48 Y4 DB4 B4 DB4 B/16
 ![Sett](sett.png)
 
 ## Palette
@@ -46,16 +46,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Greater St. Louis Firefighters (Cor)](/setts/s9/n3w3w38n25r3n6w7n3r2~x2/) — ΔT 1.73
 1. [Aviemore, Check](/setts/s8/g2o10g11ly4o1w18g2o1~x2/) — ΔT 1.73
 1. [MacPherson Dress Blue (Dance) #2](/setts/s7/w5r3w26g21w3g8ly3~x2/) — ΔT 1.76
-1. [Barbie's Plaid](/setts/s6/ly2g19ly20b22ly4n2~x2/) — ΔT 1.77
+1. [Barbie's Plaid](/setts/s6/n2ly4b22ly20g19ly2~x2/) — ΔT 1.77
 1. [Banff, White (Fashion)](/setts/s7/w8ly3w22o22dr3r2w4~x2/) — ΔT 1.77
 1. [Lake Ainslie Heritage](/setts/s7/lb8w16g18r2ly4r1lb4~x2/) — ΔT 1.80
 1. [Aguilar Pardo, Luis Alejandro (Personal)](/setts/s8/g4ly3r2ly22lb22w2lb3k2~x2/) — ΔT 1.83
-1. [Nova Scotia, dress](/setts/s9/g3w29g3db3g3db6g13ly3r2~x2/) — ΔT 1.88
+1. [Nova Scotia, dress](/setts/s9/g3w29g3db3g3db6g13ly3r2~x2/) — ΔT 1.89
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r2o9lb4w2n22w2lb4w22n2w8r2~x2/"><circle cx="176.0" cy="121.4" r="4" fill="#3465a4"><title>MacRae Grey (Fashion)</title></circle></a><a href="/setts/s10/g4y4g2w36y14w2lt4g7m5w3~x2/"><circle cx="241.3" cy="96.6" r="4" fill="#3465a4"><title>Rikaco Eve</title></circle></a><a href="/setts/s9/n3w3w38n25r3n6w7n3r2~x2/"><circle cx="267.7" cy="129.3" r="4" fill="#3465a4"><title>Greater St. Louis Firefighters (Cor)</title></circle></a><a href="/setts/s8/g2o10g11ly4o1w18g2o1~x2/"><circle cx="202.0" cy="152.3" r="4" fill="#3465a4"><title>Aviemore, Check</title></circle></a><a href="/setts/s7/w5r3w26g21w3g8ly3~x2/"><circle cx="263.3" cy="189.8" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance) #2</title></circle></a><a href="/setts/s6/ly2g19ly20b22ly4n2~x2/"><circle cx="186.2" cy="194.8" r="4" fill="#3465a4"><title>Barbie's Plaid</title></circle></a><a href="/setts/s7/w8ly3w22o22dr3r2w4~x2/"><circle cx="251.0" cy="150.0" r="4" fill="#3465a4"><title>Banff, White (Fashion)</title></circle></a><a href="/setts/s7/lb8w16g18r2ly4r1lb4~x2/"><circle cx="156.2" cy="148.5" r="4" fill="#3465a4"><title>Lake Ainslie Heritage</title></circle></a><a href="/setts/s8/g4ly3r2ly22lb22w2lb3k2~x2/"><circle cx="194.0" cy="121.4" r="4" fill="#3465a4"><title>Aguilar Pardo, Luis Alejandro (Personal)</title></circle></a><a href="/setts/s9/g3w29g3db3g3db6g13ly3r2~x2/"><circle cx="211.2" cy="120.7" r="4" fill="#3465a4"><title>Nova Scotia, dress</title></circle></a><circle cx="206.0" cy="145.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r2o9lb4w2n22w2lb4w22n2w8r2~x2/"><circle cx="175.6" cy="121.3" r="4" fill="#3465a4"><title>MacRae Grey (Fashion)</title></circle></a><a href="/setts/s10/g4y4g2w36y14w2lt4g7m5w3~x2/"><circle cx="240.8" cy="96.5" r="4" fill="#3465a4"><title>Rikaco Eve</title></circle></a><a href="/setts/s9/n3w3w38n25r3n6w7n3r2~x2/"><circle cx="267.3" cy="129.2" r="4" fill="#3465a4"><title>Greater St. Louis Firefighters (Cor)</title></circle></a><a href="/setts/s8/g2o10g11ly4o1w18g2o1~x2/"><circle cx="201.6" cy="152.2" r="4" fill="#3465a4"><title>Aviemore, Check</title></circle></a><a href="/setts/s7/w5r3w26g21w3g8ly3~x2/"><circle cx="262.9" cy="189.6" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance) #2</title></circle></a><a href="/setts/s6/n2ly4b22ly20g19ly2~x2/"><circle cx="185.8" cy="194.7" r="4" fill="#3465a4"><title>Barbie's Plaid</title></circle></a><a href="/setts/s7/w8ly3w22o22dr3r2w4~x2/"><circle cx="250.5" cy="149.8" r="4" fill="#3465a4"><title>Banff, White (Fashion)</title></circle></a><a href="/setts/s7/lb8w16g18r2ly4r1lb4~x2/"><circle cx="155.8" cy="148.5" r="4" fill="#3465a4"><title>Lake Ainslie Heritage</title></circle></a><a href="/setts/s8/g4ly3r2ly22lb22w2lb3k2~x2/"><circle cx="193.6" cy="121.4" r="4" fill="#3465a4"><title>Aguilar Pardo, Luis Alejandro (Personal)</title></circle></a><a href="/setts/s9/g3w29g3db3g3db6g13ly3r2~x2/"><circle cx="210.8" cy="120.6" r="4" fill="#3465a4"><title>Nova Scotia, dress</title></circle></a><circle cx="205.4" cy="145.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/ly6w1ly5w12ly1db1t1db1t4~x4/

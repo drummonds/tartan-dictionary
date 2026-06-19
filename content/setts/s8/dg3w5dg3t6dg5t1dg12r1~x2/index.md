@@ -2,7 +2,7 @@
 title: "Hasegawa (Akasaka) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GWGBGBGR](/stripes/gwgbgbgr/) · **Stripes:** [DG W DG T DG T DG R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG W DG T DG T DG R</span></span>
+**Bands:** [RGBGBGWG](/stripes/rgbgbgwg/) · **Stripes:** [R DG T DG T DG W DG](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG T DG T DG W DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -39,19 +39,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Hasegawa (Akasaka) (Personal)](/setts/s8/dg3w5dg3db6dg5db1dg12r1~x2/) — ΔT 0.81
 1. [McGirr, David (Letterkenny)](/setts/s12/dg13r1dg13t6r1w6dg13r1dg13w6r1t6~x2/) — ΔT 0.98
-1. [MacKintosh Hunting](/setts/s7/ly2dg12db6r3dg12r4db1~x2/) — ΔT 0.99
-1. [MacIver Hunting](/setts/s9/ly2g12k3g3k16g3k3g12w2~x2/) — ΔT 1.31
+1. [MacKintosh Hunting](/setts/s7/ly2dg12db6r3dg12r4db1/) — ΔT 0.99
+1. [MacIver Hunting](/setts/s9/w2g12k3g3k16g3k3g12ly2~x2/) — ΔT 1.31
 1. [Arkansas](/setts/s7/g3w1g12r6g3k3g2~x4/) — ΔT 1.34
 1. [Duke of York Hunting](/setts/s8/g99db20w8db30ly8db10ly8g46/) — ΔT 1.35
 1. [MacIntyre Hunting (VS)](/setts/s6/g4db12r3db12g32w4~x2/) — ΔT 1.41
-1. [Lockhart](/setts/s9/g13k3g34k6db16r2db16k3g13~x2/) — ΔT 1.43
+1. [Lockhart](/setts/s9/g13k3g34k6db16r2db16k3g13~x2/) — ΔT 1.44
 1. [MacKintosh Hunting](/setts/s7/ly2g12db6r3g12r4db1~x2/) — ΔT 1.44
 1. [Keppoch](/setts/s7/k5g2k5g2db8g25w4~x2/) — ΔT 1.45
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dg3w5dg3db6dg5db1dg12r1~x2/"><circle cx="311.8" cy="201.1" r="4" fill="#3465a4"><title>Hasegawa (Akasaka) (Personal)</title></circle></a><a href="/setts/s12/dg13r1dg13t6r1w6dg13r1dg13w6r1t6~x2/"><circle cx="318.0" cy="179.0" r="4" fill="#3465a4"><title>McGirr, David (Letterkenny)</title></circle></a><a href="/setts/s7/ly2dg12db6r3dg12r4db1~x2/"><circle cx="302.4" cy="209.7" r="4" fill="#3465a4"><title>MacKintosh Hunting</title></circle></a><a href="/setts/s9/ly2g12k3g3k16g3k3g12w2~x2/"><circle cx="273.9" cy="205.3" r="4" fill="#3465a4"><title>MacIver Hunting</title></circle></a><a href="/setts/s7/g3w1g12r6g3k3g2~x4/"><circle cx="367.4" cy="208.8" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/setts/s8/g99db20w8db30ly8db10ly8g46/"><circle cx="357.2" cy="188.5" r="4" fill="#3465a4"><title>Duke of York Hunting</title></circle></a><a href="/setts/s6/g4db12r3db12g32w4~x2/"><circle cx="295.2" cy="211.1" r="4" fill="#3465a4"><title>MacIntyre Hunting (VS)</title></circle></a><a href="/setts/s9/g13k3g34k6db16r2db16k3g13~x2/"><circle cx="289.9" cy="184.9" r="4" fill="#3465a4"><title>Lockhart</title></circle></a><a href="/setts/s7/ly2g12db6r3g12r4db1~x2/"><circle cx="322.9" cy="217.1" r="4" fill="#3465a4"><title>MacKintosh Hunting</title></circle></a><a href="/setts/s7/k5g2k5g2db8g25w4~x2/"><circle cx="297.5" cy="187.0" r="4" fill="#3465a4"><title>Keppoch</title></circle></a><circle cx="312.1" cy="199.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dg3w5dg3db6dg5db1dg12r1~x2/"><circle cx="311.8" cy="200.8" r="4" fill="#3465a4"><title>Hasegawa (Akasaka) (Personal)</title></circle></a><a href="/setts/s12/dg13r1dg13t6r1w6dg13r1dg13w6r1t6~x2/"><circle cx="317.8" cy="178.8" r="4" fill="#3465a4"><title>McGirr, David (Letterkenny)</title></circle></a><a href="/setts/s7/ly2dg12db6r3dg12r4db1/"><circle cx="302.3" cy="209.5" r="4" fill="#3465a4"><title>MacKintosh Hunting</title></circle></a><a href="/setts/s9/w2g12k3g3k16g3k3g12ly2~x2/"><circle cx="273.8" cy="205.1" r="4" fill="#3465a4"><title>MacIver Hunting</title></circle></a><a href="/setts/s7/g3w1g12r6g3k3g2~x4/"><circle cx="367.1" cy="208.6" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/setts/s8/g99db20w8db30ly8db10ly8g46/"><circle cx="357.0" cy="188.3" r="4" fill="#3465a4"><title>Duke of York Hunting</title></circle></a><a href="/setts/s6/g4db12r3db12g32w4~x2/"><circle cx="295.2" cy="210.9" r="4" fill="#3465a4"><title>MacIntyre Hunting (VS)</title></circle></a><a href="/setts/s9/g13k3g34k6db16r2db16k3g13~x2/"><circle cx="289.9" cy="184.7" r="4" fill="#3465a4"><title>Lockhart</title></circle></a><a href="/setts/s7/ly2g12db6r3g12r4db1~x2/"><circle cx="322.7" cy="216.9" r="4" fill="#3465a4"><title>MacKintosh Hunting</title></circle></a><a href="/setts/s7/k5g2k5g2db8g25w4~x2/"><circle cx="297.4" cy="186.8" r="4" fill="#3465a4"><title>Keppoch</title></circle></a><circle cx="312.0" cy="198.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/dg3w5dg3t6dg5t1dg12r1~x2/

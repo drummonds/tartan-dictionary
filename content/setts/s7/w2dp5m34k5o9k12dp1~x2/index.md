@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/
 Original link http://www.tartansauthority.com/tartan-ferret/display/11249/
 
 ## Thread count
-P/2 K24 N18 K10 R68 P10 W/4
+W/4 P10 R68 K10 N18 K24 P/2
 ![Sett](sett.png)
 
 ## Palette
@@ -26,7 +26,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "P/2 K24 N18 K10 R68 P10 W/4 tartan")
+![Tartan detail](tartan.png "W/4 P10 R68 K10 N18 K24 P/2 tartan")
 
 ## Nearest tartans
 
@@ -45,8 +45,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w2dp5m34k5n9k12dp1~x2/"><circle cx="332.3" cy="137.3" r="4" fill="#3465a4"><title>Thomson, Reona Ellen (Personal)</title></circle></a><a href="/setts/s7/t4ly1r28db24k5t5k3~x4/"><circle cx="249.5" cy="128.6" r="4" fill="#3465a4"><title>McKnight #2 (Personal)</title></circle></a><a href="/setts/s6/r40db15k2dp1db15k6~x2/"><circle cx="368.6" cy="144.1" r="4" fill="#3465a4"><title>Double Elvis Gallery (Corporate)</title></circle></a><a href="/setts/s7/dt50r26k9r4w2lo2r10~x2/"><circle cx="313.9" cy="134.5" r="4" fill="#3465a4"><title>Java Saint Andrew Society Dress</title></circle></a><a href="/setts/s8/lo5dt1r2dt4r36dt22w4ly2~x2/"><circle cx="328.8" cy="94.5" r="4" fill="#3465a4"><title>Aberdeen F.C. Corporate Tartan Tartan Number: 2694. Earliest known date: 1997 The Aberdeen Football Club commissioned this design to include the colours of the teams away strip - navy and gold. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r27g4k4g4k4db6lo1~x4/"><circle cx="326.2" cy="120.6" r="4" fill="#3465a4"><title>MacLeay (Clan)</title></circle></a><a href="/setts/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="252.5" cy="125.7" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><a href="/setts/s11/db3t1r30db32r3w1r3dg23r31db3w1/"><circle cx="321.2" cy="100.0" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/setts/s9/db26g11r8k2r2w2r4w1r15~x2/"><circle cx="243.2" cy="119.7" r="4" fill="#3465a4"><title>Royal Scottish Assurance (Corporate)</title></circle></a><a href="/setts/s7/db4ly1r28db25k10db5k3~x2/"><circle cx="225.6" cy="135.4" r="4" fill="#3465a4"><title>McKnight (Personal)</title></circle></a><circle cx="312.6" cy="117.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w2dp5m34k5n9k12dp1~x2/"><circle cx="332.1" cy="137.3" r="4" fill="#3465a4"><title>Thomson, Reona Ellen (Personal)</title></circle></a><a href="/setts/s7/t4ly1r28db24k5t5k3~x4/"><circle cx="249.4" cy="128.7" r="4" fill="#3465a4"><title>McKnight #2 (Personal)</title></circle></a><a href="/setts/s6/r40db15k2dp1db15k6~x2/"><circle cx="368.4" cy="144.0" r="4" fill="#3465a4"><title>Double Elvis Gallery (Corporate)</title></circle></a><a href="/setts/s7/dt50r26k9r4w2lo2r10~x2/"><circle cx="313.7" cy="134.4" r="4" fill="#3465a4"><title>Java Saint Andrew Society Dress</title></circle></a><a href="/setts/s8/lo5dt1r2dt4r36dt22w4ly2~x2/"><circle cx="328.4" cy="94.5" r="4" fill="#3465a4"><title>Aberdeen F.C. Corporate Tartan Tartan Number: 2694. Earliest known date: 1997 The Aberdeen Football Club commissioned this design to include the colours of the teams away strip - navy and gold. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r27g4k4g4k4db6lo1~x4/"><circle cx="325.9" cy="120.6" r="4" fill="#3465a4"><title>MacLeay (Clan)</title></circle></a><a href="/setts/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="252.3" cy="125.7" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><a href="/setts/s11/db3t1r30db32r3w1r3dg23r31db3w1/"><circle cx="320.8" cy="100.0" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/setts/s9/db26g11r8k2r2w2r4w1r15~x2/"><circle cx="243.0" cy="119.7" r="4" fill="#3465a4"><title>Royal Scottish Assurance (Corporate)</title></circle></a><a href="/setts/s7/db4ly1r28db25k10db5k3~x2/"><circle cx="225.6" cy="135.4" r="4" fill="#3465a4"><title>McKnight (Personal)</title></circle></a><circle cx="312.4" cy="117.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/w2dp5m34k5o9k12dp1~x2/

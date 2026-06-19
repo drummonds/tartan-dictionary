@@ -22,6 +22,6 @@ RGRKGRGRGRGRGYGY
 
 | Tartans |
 |---------------|
-| [Brian Boru 2014](/setts/s16/ly4y1ly2y16r2y1r2y4r2y1r2y8k1r24y2r4~x2/)|
-|![Brian Boru 2014 example sett](/setts/s16/ly4y1ly2y16r2y1r2y4r2y1r2y8k1r24y2r4~x2/sett.png)|
+| [Brian Boru 2014](/setts/s16/r4y2r24k1y8r2y1r2y4r2y1r2y16ly2y1ly4~x2/)|
+|![Brian Boru 2014 example sett](/setts/s16/r4y2r24k1y8r2y1r2y4r2y1r2y16ly2y1ly4~x2/sett.png)|
 

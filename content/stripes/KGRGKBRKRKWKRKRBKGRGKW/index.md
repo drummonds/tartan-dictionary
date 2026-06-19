@@ -22,6 +22,6 @@ KGRGKBRKRKWKRKRBKGRGKW
 
 | Tartans |
 |---------------|
-| [Hargis](/setts/s22/w2k1dg8r2dg8k6db10r4k2r2k1w2k1r2k2r4db10k6dg8r2dg8k1~x2/)|
-|![Hargis example sett](/setts/s22/w2k1dg8r2dg8k6db10r4k2r2k1w2k1r2k2r4db10k6dg8r2dg8k1~x2/sett.png)|
+| [Hargis](/setts/s22/w2k1dg8r2dg8k6db10r4k2r2k1w2~x2/)|
+|![Hargis example sett](/setts/s22/w2k1dg8r2dg8k6db10r4k2r2k1w2~x2/sett.png)|
 

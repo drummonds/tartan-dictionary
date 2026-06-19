@@ -20,7 +20,7 @@ GBKYR
 
 
 
-### DG DB K LY R <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG DB K LY R</span></span>
+### R LY K DB DG <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">R LY K DB DG</span></span>
 
 | Tartans |
 |---------------|

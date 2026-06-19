@@ -2,7 +2,7 @@
 title: "Tomomi"
 date: 2023-03-18
 ---
-**Bands:** [WWRYGY](/stripes/wwrygy/) · **Stripes:** [W W R LO G LR](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">W W R LO G LR</span></span>
+**Bands:** [YGYRWW](/stripes/ygyrww/) · **Stripes:** [LR G LO R W W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LR G LO R W W</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [11001](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11001)
 
 ## Thread count
-N/4 LG4 Y8 LR80 W30 Wa/10
+Wa/10 W30 LR80 Y8 LG4 N/4
 ![Sett](sett.png)
 
 ## Palette
@@ -33,27 +33,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "N/4 LG4 Y8 LR80 W30 Wa/10 tartan")
+![Tartan detail](tartan.png "Wa/10 W30 LR80 Y8 LG4 N/4 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Duminiak (Personal)](/setts/s6/o47w6r24w3dt5lo3~x2/) — ΔT 1.96
-1. [Nicolson of the Isles (Personal)](/setts/s7/ly2r4b4lb35lg5r12w2~x2/) — ΔT 1.98
+1. [Nicolson of the Isles (Personal)](/setts/s7/w2r12lg5lb35b4r4ly2~x2/) — ΔT 1.98
 1. [de Meuron Dress (Family)](/setts/s7/lb40dp5lb6ly26o13lb9dy3~x2/) — ΔT 2.10
 1. [Roseate Sunrise](/setts/s6/r26r5m12ly1g1r3~x2/) — ΔT 2.15
 1. [Hello Kitty (Corporate)](/setts/s10/do2r3r3r21ly3r2r6g6r4lb2~x2/) — ΔT 2.28
-1. [Dundhuin Gold](/setts/s6/o59t28ly5dg3w4ly5~x2/) — ΔT 2.32
-1. [Virginia Military Institute, New Market](/setts/s9/ly6r30o2k3o30g3o2r25w6~x2/) — ΔT 2.34
+1. [Dundhuin Gold](/setts/s6/o59t28ly5dg3w4ly5~x2/) — ΔT 2.33
+1. [Virginia Military Institute, New Market](/setts/s9/w6r25o2g3o30k3o2r30ly6~x2/) — ΔT 2.34
 1. [Confederate Memorial (Military)](/setts/s10/t12ly4r4ly4ly2ly56r18w1db4w3~x2/) — ΔT 2.36
 1. [Confederate Memorial Commemmorative Tartan Tartan Number: 2501. Earliest known date: 1995 Designed by Dr. Philip Smith in 1995. Grey is the colour of the Confederate States of America. The fields represent the Confederate Army in line of battle-- light blue for infantry, flanked by red for artilllery and yellow for outriding cavalry. The red field represents the Confederate flag in true proportions. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/lg8lr2r3lr2ly2lr28r10lb1db3lb2~x2/) — ΔT 2.39
 1. [Studio Wolf Polysun](/setts/s12/lo18r3w3r3lo2r1w1g1lo2ly1r1k1~x4/) — ΔT 2.40
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/o47w6r24w3dt5lo3~x2/"><circle cx="326.0" cy="158.5" r="4" fill="#3465a4"><title>Duminiak (Personal)</title></circle></a><a href="/setts/s7/ly2r4b4lb35lg5r12w2~x2/"><circle cx="290.9" cy="114.7" r="4" fill="#3465a4"><title>Nicolson of the Isles (Personal)</title></circle></a><a href="/setts/s7/lb40dp5lb6ly26o13lb9dy3~x2/"><circle cx="287.0" cy="166.4" r="4" fill="#3465a4"><title>de Meuron Dress (Family)</title></circle></a><a href="/setts/s6/r26r5m12ly1g1r3~x2/"><circle cx="351.4" cy="122.4" r="4" fill="#3465a4"><title>Roseate Sunrise</title></circle></a><a href="/setts/s10/do2r3r3r21ly3r2r6g6r4lb2~x2/"><circle cx="273.3" cy="132.1" r="4" fill="#3465a4"><title>Hello Kitty (Corporate)</title></circle></a><a href="/setts/s6/o59t28ly5dg3w4ly5~x2/"><circle cx="375.1" cy="160.3" r="4" fill="#3465a4"><title>Dundhuin Gold</title></circle></a><a href="/setts/s9/ly6r30o2k3o30g3o2r25w6~x2/"><circle cx="282.6" cy="125.2" r="4" fill="#3465a4"><title>Virginia Military Institute, New Market</title></circle></a><a href="/setts/s10/t12ly4r4ly4ly2ly56r18w1db4w3~x2/"><circle cx="376.3" cy="54.8" r="4" fill="#3465a4"><title>Confederate Memorial (Military)</title></circle></a><a href="/setts/s10/lg8lr2r3lr2ly2lr28r10lb1db3lb2~x2/"><circle cx="287.8" cy="79.5" r="4" fill="#3465a4"><title>Confederate Memorial Commemmorative Tartan Tartan Number: 2501. Earliest known date: 1995 Designed by Dr. Philip Smith in 1995. Grey is the colour of the Confederate States of America. The fields represent the Confederate Army in line of battle-- light blue for infantry, flanked by red for artilllery and yellow for outriding cavalry. The red field represents the Confederate flag in true proportions. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/lo18r3w3r3lo2r1w1g1lo2ly1r1k1~x4/"><circle cx="324.8" cy="62.4" r="4" fill="#3465a4"><title>Studio Wolf Polysun</title></circle></a><circle cx="358.6" cy="120.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/o47w6r24w3dt5lo3~x2/"><circle cx="325.6" cy="158.5" r="4" fill="#3465a4"><title>Duminiak (Personal)</title></circle></a><a href="/setts/s7/w2r12lg5lb35b4r4ly2~x2/"><circle cx="290.5" cy="114.6" r="4" fill="#3465a4"><title>Nicolson of the Isles (Personal)</title></circle></a><a href="/setts/s7/lb40dp5lb6ly26o13lb9dy3~x2/"><circle cx="286.5" cy="166.4" r="4" fill="#3465a4"><title>de Meuron Dress (Family)</title></circle></a><a href="/setts/s6/r26r5m12ly1g1r3~x2/"><circle cx="350.9" cy="122.5" r="4" fill="#3465a4"><title>Roseate Sunrise</title></circle></a><a href="/setts/s10/do2r3r3r21ly3r2r6g6r4lb2~x2/"><circle cx="272.8" cy="132.2" r="4" fill="#3465a4"><title>Hello Kitty (Corporate)</title></circle></a><a href="/setts/s6/o59t28ly5dg3w4ly5~x2/"><circle cx="374.7" cy="160.3" r="4" fill="#3465a4"><title>Dundhuin Gold</title></circle></a><a href="/setts/s9/w6r25o2g3o30k3o2r30ly6~x2/"><circle cx="282.2" cy="125.3" r="4" fill="#3465a4"><title>Virginia Military Institute, New Market</title></circle></a><a href="/setts/s10/t12ly4r4ly4ly2ly56r18w1db4w3~x2/"><circle cx="375.7" cy="54.8" r="4" fill="#3465a4"><title>Confederate Memorial (Military)</title></circle></a><a href="/setts/s10/lg8lr2r3lr2ly2lr28r10lb1db3lb2~x2/"><circle cx="287.3" cy="79.5" r="4" fill="#3465a4"><title>Confederate Memorial Commemmorative Tartan Tartan Number: 2501. Earliest known date: 1995 Designed by Dr. Philip Smith in 1995. Grey is the colour of the Confederate States of America. The fields represent the Confederate Army in line of battle-- light blue for infantry, flanked by red for artilllery and yellow for outriding cavalry. The red field represents the Confederate flag in true proportions. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/lo18r3w3r3lo2r1w1g1lo2ly1r1k1~x4/"><circle cx="324.1" cy="62.3" r="4" fill="#3465a4"><title>Studio Wolf Polysun</title></circle></a><circle cx="357.9" cy="120.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/w5w15r40lo4g2lr2~x2/

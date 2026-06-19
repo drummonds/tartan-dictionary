@@ -20,7 +20,7 @@ WGYBRKGY
 
 
 
-### W DG LG T R K DG LG <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#82D67A"></span><span class="seq">W DG LG T R K DG LG</span></span>
+### LG DG K R T LG DG W <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LG DG K R T LG DG W</span></span>
 
 | Tartans |
 |---------------|

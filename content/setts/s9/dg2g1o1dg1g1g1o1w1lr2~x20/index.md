@@ -2,7 +2,7 @@
 title: "Stirling"
 date: 2023-03-18
 ---
-**Bands:** [GGRGGGRWY](/stripes/ggrgggrwy/) · **Stripes:** [DG G O DG G G O W LR](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">DG G O DG G G O W LR</span></span>
+**Bands:** [YWRGGGRGG](/stripes/ywrgggrgg/) · **Stripes:** [LR W O G G DG O G DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="seq">LR W O G G DG O G DG</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -909,16 +912,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Rainbow](/setts/s6/g2ly1lo1r1p1db1~x36/) — ΔT 1.58
 1. [Roscommon County Crest (Fashion)](/setts/s11/g11k5lo7w5lo7k5g7lo11db16lo7ly5~x2/) — ΔT 1.68
 1. [Scandinavian](/setts/s14/g10k6t10ly4t10k3g10k3g10k3r10w4r10k6~x2/) — ΔT 1.82
-1. [Stewarton (Fashion)](/setts/s8/k1g3o3db3o3lr3o3k1~x4/) — ΔT 1.85
+1. [Stewarton (Fashion)](/setts/s8/k1o3lr3o3db3o3g3k1~x4/) — ΔT 1.85
 1. [Devon Original District Tartan Tartan Number: 1284. Earliest known date: 1984 The Devon Original and Devon Companion owe their origin to the success of the Cornish St Piran sett, which was woven by Coldharbour Mill in the early 1980's. The accreditation certificate was presented to the Mayor of Barnstaple in 1991. In a poem describing the tartan, Miss M. Miles says, "So, in the mind, Devon's beauty is retrieved By contemplating Devon's tartan's weave." See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/lr5g4w1g4o4dg4ly1~x4/) — ΔT 1.93
-1. [Ellis (Personal)](/setts/s9/ly2k1g5r4g2r2g4k1w2~x6/) — ΔT 1.94
+1. [Ellis (Personal)](/setts/s9/w2k1g4r2g2r4g5k1ly2~x6/) — ΔT 1.94
 1. [Titanic](/setts/s9/ly2o1ly1o3o3db3ly2lr2db1~x4/) — ΔT 1.95
 1. [Devon, Original](/setts/s7/y5g4w1g4o4dg4ly1~x4/) — ΔT 1.97
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lp2w1y1g1g1dg1y1g1dg1~x20/"><circle cx="14.0" cy="274.3" r="4" fill="#3465a4"><title>Stirling Millennium</title></circle></a><a href="/setts/s6/g2ly1lo1r1dp1db1~x36/"><circle cx="14.0" cy="273.4" r="4" fill="#3465a4"><title>Rainbow (Fashion)</title></circle></a><a href="/setts/s6/g2ly1lo1r1p1db1~x36/"><circle cx="14.0" cy="271.2" r="4" fill="#3465a4"><title>Rainbow</title></circle></a><a href="/setts/s11/g11k5lo7w5lo7k5g7lo11db16lo7ly5~x2/"><circle cx="27.7" cy="226.9" r="4" fill="#3465a4"><title>Roscommon County Crest (Fashion)</title></circle></a><a href="/setts/s14/g10k6t10ly4t10k3g10k3g10k3r10w4r10k6~x2/"><circle cx="14.0" cy="208.1" r="4" fill="#3465a4"><title>Scandinavian</title></circle></a><a href="/setts/s8/k1g3o3db3o3lr3o3k1~x4/"><circle cx="14.0" cy="262.9" r="4" fill="#3465a4"><title>Stewarton (Fashion)</title></circle></a><a href="/setts/s7/lr5g4w1g4o4dg4ly1~x4/"><circle cx="71.2" cy="234.5" r="4" fill="#3465a4"><title>Devon Original District Tartan Tartan Number: 1284. Earliest known date: 1984 The Devon Original and Devon Companion owe their origin to the success of the Cornish St Piran sett, which was woven by Coldharbour Mill in the early 1980's. The accreditation certificate was presented to the Mayor of Barnstaple in 1991. In a poem describing the tartan, Miss M. Miles says, &quot;So, in the mind, Devon's beauty is retrieved By contemplating Devon's tartan's weave.&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/ly2k1g5r4g2r2g4k1w2~x6/"><circle cx="14.0" cy="197.5" r="4" fill="#3465a4"><title>Ellis (Personal)</title></circle></a><a href="/setts/s9/ly2o1ly1o3o3db3ly2lr2db1~x4/"><circle cx="14.0" cy="243.3" r="4" fill="#3465a4"><title>Titanic</title></circle></a><a href="/setts/s7/y5g4w1g4o4dg4ly1~x4/"><circle cx="69.2" cy="242.7" r="4" fill="#3465a4"><title>Devon, Original</title></circle></a><circle cx="14.0" cy="263.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lp2w1y1g1g1dg1y1g1dg1~x20/"><circle cx="14.0" cy="274.5" r="4" fill="#3465a4"><title>Stirling Millennium</title></circle></a><a href="/setts/s6/g2ly1lo1r1dp1db1~x36/"><circle cx="14.0" cy="273.5" r="4" fill="#3465a4"><title>Rainbow (Fashion)</title></circle></a><a href="/setts/s6/g2ly1lo1r1p1db1~x36/"><circle cx="14.0" cy="271.3" r="4" fill="#3465a4"><title>Rainbow</title></circle></a><a href="/setts/s11/g11k5lo7w5lo7k5g7lo11db16lo7ly5~x2/"><circle cx="27.8" cy="227.0" r="4" fill="#3465a4"><title>Roscommon County Crest (Fashion)</title></circle></a><a href="/setts/s14/g10k6t10ly4t10k3g10k3g10k3r10w4r10k6~x2/"><circle cx="14.0" cy="208.2" r="4" fill="#3465a4"><title>Scandinavian</title></circle></a><a href="/setts/s8/k1o3lr3o3db3o3g3k1~x4/"><circle cx="14.0" cy="263.0" r="4" fill="#3465a4"><title>Stewarton (Fashion)</title></circle></a><a href="/setts/s7/lr5g4w1g4o4dg4ly1~x4/"><circle cx="71.2" cy="234.6" r="4" fill="#3465a4"><title>Devon Original District Tartan Tartan Number: 1284. Earliest known date: 1984 The Devon Original and Devon Companion owe their origin to the success of the Cornish St Piran sett, which was woven by Coldharbour Mill in the early 1980's. The accreditation certificate was presented to the Mayor of Barnstaple in 1991. In a poem describing the tartan, Miss M. Miles says, &quot;So, in the mind, Devon's beauty is retrieved By contemplating Devon's tartan's weave.&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/w2k1g4r2g2r4g5k1ly2~x6/"><circle cx="14.0" cy="197.6" r="4" fill="#3465a4"><title>Ellis (Personal)</title></circle></a><a href="/setts/s9/ly2o1ly1o3o3db3ly2lr2db1~x4/"><circle cx="14.0" cy="243.3" r="4" fill="#3465a4"><title>Titanic</title></circle></a><a href="/setts/s7/y5g4w1g4o4dg4ly1~x4/"><circle cx="69.3" cy="242.8" r="4" fill="#3465a4"><title>Devon, Original</title></circle></a><circle cx="14.0" cy="263.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dg2g1o1dg1g1g1o1w1lr2~x20/

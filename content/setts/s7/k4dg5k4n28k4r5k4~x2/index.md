@@ -2,7 +2,7 @@
 title: "Montgomery"
 date: 2023-03-18
 ---
-**Bands:** [KGKBKRK](/stripes/kgkbkrk/) · **Stripes:** [K DG K N K R K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K DG K N K R K</span></span>
+**Bands:** [KRKBKGK](/stripes/krkbkgk/) · **Stripes:** [K R K N K DG K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="seq">K R K N K DG K</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -60,7 +60,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-K/8 DG10 K8 N56 K8 DR10 K/8
+K/8 DR10 K8 N56 K8 DG10 K/8
 ![Sett](sett.png)
 
 ## Palette
@@ -75,7 +75,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/8 DG10 K8 N56 K8 DR10 K/8 tartan")
+![Tartan detail](tartan.png "K/8 DR10 K8 N56 K8 DG10 K/8 tartan")
 
 ## Nearest tartans
 
@@ -83,19 +83,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Montgomery](/setts/s7/k4dg5k4n28k4r5k4/) — ΔT 0.00
 1. [Denny Hunting](/setts/s6/k4dg5k2dg5r17db2~x2/) — ΔT 1.18
-1. [Montgomerie of Eglinton](/setts/s7/k4g5k4db28k4r5k4~x2/) — ΔT 1.23
+1. [Montgomerie of Eglinton](/setts/s7/k4r5k4db28k4g5k4~x2/) — ΔT 1.23
 1. [Dunbog Primary (School)](/setts/s6/r12db3g5db16ly2g2~x2/) — ΔT 1.27
 1. [Chinzei Keiai Senior High School](/setts/s9/n3o3k16n2k2n16k3n2lb2~x2/) — ΔT 1.30
-1. [Daks (Blue Loden)](/setts/s8/lo3t7do2m2do14t2do2lo3~x2/) — ΔT 1.34
 1. [Ardmore (Fashion)](/setts/s8/k21o2k8w2o16n6k2n8~x2/) — ΔT 1.34
+1. [Daks (Blue Loden)](/setts/s8/lo3t7do2m2do14t2do2lo3~x2/) — ΔT 1.34
 1. [Daks, Blue Loden](/setts/s8/o5t13dr4r4dr27t3dr4o5/) — ΔT 1.38
 1. [Strummer, Joe (Commemorative)](/setts/s7/k3dy3lo6k12lo1o2dy2~x4/) — ΔT 1.40
-1. [Drambuie Dress](/setts/s6/ly6k5r4k48dy36w6/) — ΔT 1.42
+1. [Drambuie Dress](/setts/s6/w6dy36k48r4k5ly6/) — ΔT 1.42
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k4dg5k4n28k4r5k4/"><circle cx="273.2" cy="198.9" r="4" fill="#3465a4"><title>Montgomery</title></circle></a><a href="/setts/s6/k4dg5k2dg5r17db2~x2/"><circle cx="266.6" cy="216.0" r="4" fill="#3465a4"><title>Denny Hunting</title></circle></a><a href="/setts/s7/k4g5k4db28k4r5k4~x2/"><circle cx="263.7" cy="202.1" r="4" fill="#3465a4"><title>Montgomerie of Eglinton</title></circle></a><a href="/setts/s6/r12db3g5db16ly2g2~x2/"><circle cx="223.8" cy="209.6" r="4" fill="#3465a4"><title>Dunbog Primary (School)</title></circle></a><a href="/setts/s9/n3o3k16n2k2n16k3n2lb2~x2/"><circle cx="281.3" cy="198.1" r="4" fill="#3465a4"><title>Chinzei Keiai Senior High School</title></circle></a><a href="/setts/s8/lo3t7do2m2do14t2do2lo3~x2/"><circle cx="267.2" cy="206.4" r="4" fill="#3465a4"><title>Daks (Blue Loden)</title></circle></a><a href="/setts/s8/k21o2k8w2o16n6k2n8~x2/"><circle cx="239.6" cy="197.6" r="4" fill="#3465a4"><title>Ardmore (Fashion)</title></circle></a><a href="/setts/s8/o5t13dr4r4dr27t3dr4o5/"><circle cx="307.8" cy="202.3" r="4" fill="#3465a4"><title>Daks, Blue Loden</title></circle></a><a href="/setts/s7/k3dy3lo6k12lo1o2dy2~x4/"><circle cx="264.7" cy="193.6" r="4" fill="#3465a4"><title>Strummer, Joe (Commemorative)</title></circle></a><a href="/setts/s6/ly6k5r4k48dy36w6/"><circle cx="266.9" cy="173.9" r="4" fill="#3465a4"><title>Drambuie Dress</title></circle></a><circle cx="273.2" cy="198.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k4dg5k4n28k4r5k4/"><circle cx="273.2" cy="198.8" r="4" fill="#3465a4"><title>Montgomery</title></circle></a><a href="/setts/s6/k4dg5k2dg5r17db2~x2/"><circle cx="266.6" cy="215.9" r="4" fill="#3465a4"><title>Denny Hunting</title></circle></a><a href="/setts/s7/k4r5k4db28k4g5k4~x2/"><circle cx="263.8" cy="202.0" r="4" fill="#3465a4"><title>Montgomerie of Eglinton</title></circle></a><a href="/setts/s6/r12db3g5db16ly2g2~x2/"><circle cx="223.9" cy="209.5" r="4" fill="#3465a4"><title>Dunbog Primary (School)</title></circle></a><a href="/setts/s9/n3o3k16n2k2n16k3n2lb2~x2/"><circle cx="281.2" cy="198.0" r="4" fill="#3465a4"><title>Chinzei Keiai Senior High School</title></circle></a><a href="/setts/s8/k21o2k8w2o16n6k2n8~x2/"><circle cx="239.6" cy="197.5" r="4" fill="#3465a4"><title>Ardmore (Fashion)</title></circle></a><a href="/setts/s8/lo3t7do2m2do14t2do2lo3~x2/"><circle cx="267.1" cy="206.3" r="4" fill="#3465a4"><title>Daks (Blue Loden)</title></circle></a><a href="/setts/s8/o5t13dr4r4dr27t3dr4o5/"><circle cx="307.6" cy="202.2" r="4" fill="#3465a4"><title>Daks, Blue Loden</title></circle></a><a href="/setts/s7/k3dy3lo6k12lo1o2dy2~x4/"><circle cx="264.7" cy="193.5" r="4" fill="#3465a4"><title>Strummer, Joe (Commemorative)</title></circle></a><a href="/setts/s6/w6dy36k48r4k5ly6/"><circle cx="266.9" cy="173.8" r="4" fill="#3465a4"><title>Drambuie Dress</title></circle></a><circle cx="273.2" cy="198.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k4dg5k4n28k4r5k4~x2/

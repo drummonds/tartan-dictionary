@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7565/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Fettes Personal
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k50dt3lp2r3w1~x2/"><circle cx="624.3" cy="132.0" r="4" fill="#3465a4"><title>Fettes Personal Tartan Tartan Number: 7565. Earliest known date: 2008 Designed online for four kilts by Fiona Fettes. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k45db2r4ly1w1~x2/"><circle cx="621.1" cy="133.7" r="4" fill="#3465a4"><title>McHattie (Personal)</title></circle></a><a href="/setts/s5/k100r1o10db10ly2~x2/"><circle cx="598.8" cy="139.6" r="4" fill="#3465a4"><title>Forand (Personal)</title></circle></a><a href="/setts/s5/k45b2r4ly1w1~x2/"><circle cx="612.8" cy="129.6" r="4" fill="#3465a4"><title>McHattie (Personal)</title></circle></a><a href="/setts/s6/k83g4r4g10k1w3~x2/"><circle cx="589.4" cy="132.0" r="4" fill="#3465a4"><title>Perratt (Personal)</title></circle></a><a href="/setts/s8/k108k4lr4w2lr4k1db2w2~x2/"><circle cx="621.8" cy="88.2" r="4" fill="#3465a4"><title>Modern Craft (Masonic)</title></circle></a><a href="/setts/s6/k80r6dg3r12k2w2~x2/"><circle cx="583.1" cy="141.9" r="4" fill="#3465a4"><title>Dellen</title></circle></a><a href="/setts/s8/k83ly2db4r2k8g5r4w3~x2/"><circle cx="564.7" cy="87.5" r="4" fill="#3465a4"><title>Spirit of Lanarkshire (Corporate)</title></circle></a><a href="/setts/s7/r3db2ly1db50w1db2t3~x2/"><circle cx="626.0" cy="109.1" r="4" fill="#3465a4"><title>Easton (2014)</title></circle></a><a href="/setts/s9/ly2k4ly1k4r5k50y1k2r1~x2/"><circle cx="626.0" cy="107.0" r="4" fill="#3465a4"><title>Magdalene</title></circle></a><circle cx="626.0" cy="135.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k50dt3lp2r3w1~x2/"><circle cx="624.1" cy="131.7" r="4" fill="#3465a4"><title>Fettes Personal Tartan Tartan Number: 7565. Earliest known date: 2008 Designed online for four kilts by Fiona Fettes. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k45db2r4ly1w1~x2/"><circle cx="620.9" cy="133.3" r="4" fill="#3465a4"><title>McHattie (Personal)</title></circle></a><a href="/setts/s5/k100r1o10db10ly2~x2/"><circle cx="598.6" cy="139.3" r="4" fill="#3465a4"><title>Forand (Personal)</title></circle></a><a href="/setts/s5/k45b2r4ly1w1~x2/"><circle cx="612.6" cy="129.2" r="4" fill="#3465a4"><title>McHattie (Personal)</title></circle></a><a href="/setts/s6/k83g4r4g10k1w3~x2/"><circle cx="589.2" cy="131.6" r="4" fill="#3465a4"><title>Perratt (Personal)</title></circle></a><a href="/setts/s8/k108k4lr4w2lr4k1db2w2~x2/"><circle cx="621.6" cy="87.9" r="4" fill="#3465a4"><title>Modern Craft (Masonic)</title></circle></a><a href="/setts/s6/k80r6dg3r12k2w2~x2/"><circle cx="582.9" cy="141.6" r="4" fill="#3465a4"><title>Dellen</title></circle></a><a href="/setts/s8/k83ly2db4r2k8g5r4w3~x2/"><circle cx="564.5" cy="87.3" r="4" fill="#3465a4"><title>Spirit of Lanarkshire (Corporate)</title></circle></a><a href="/setts/s7/r3db2ly1db50w1db2t3~x2/"><circle cx="626.0" cy="108.7" r="4" fill="#3465a4"><title>Easton (2014)</title></circle></a><a href="/setts/s9/ly2k4ly1k4r5k50y1k2r1~x2/"><circle cx="626.0" cy="106.6" r="4" fill="#3465a4"><title>Magdalene</title></circle></a><circle cx="626.0" cy="135.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/k50db3p2r3w1~x4/

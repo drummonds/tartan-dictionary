@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4930
 
 ## Thread count
-DR/4 Na24 DR4 G24 DR48 N/8
+N/8 DR48 G24 DR4 Na24 DR/4
 ![Sett](sett.png)
 
 ## Palette
@@ -32,7 +32,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/4 Na24 DR4 G24 DR48 N/8 tartan")
+![Tartan detail](tartan.png "N/8 DR48 G24 DR4 Na24 DR/4 tartan")
 
 ## Nearest tartans
 
@@ -51,8 +51,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g4r28db6g10k10g3~x2/"><circle cx="267.9" cy="226.5" r="4" fill="#3465a4"><title>Canadian Autumn</title></circle></a><a href="/setts/s5/n11k4r4lo4n1~x4/"><circle cx="266.6" cy="231.8" r="4" fill="#3465a4"><title>Ikelman #2 (Personal)</title></circle></a><a href="/setts/s6/db18ly2dy6ly2dy19r3~x2/"><circle cx="297.6" cy="218.5" r="4" fill="#3465a4"><title>Balfour #2</title></circle></a><a href="/setts/s6/db18ly2dy6ly2dy19r3~x4/"><circle cx="297.6" cy="218.5" r="4" fill="#3465a4"><title>Balfour (Clan)</title></circle></a><a href="/setts/s6/g3r22t5g10k10g2~x2/"><circle cx="251.9" cy="225.9" r="4" fill="#3465a4"><title>Strathspey (Fashion)</title></circle></a><a href="/setts/s5/ly2dg17g4r15dg1~x2/"><circle cx="302.2" cy="200.2" r="4" fill="#3465a4"><title>Christmas</title></circle></a><a href="/setts/s6/dr2dg14lb3dr13ly1dr2~x4/"><circle cx="312.8" cy="199.1" r="4" fill="#3465a4"><title>Swedish Para Whisky Club (Corporate</title></circle></a><a href="/setts/s7/dg12g6dg6r15k1r1k2~x2/"><circle cx="253.3" cy="191.0" r="4" fill="#3465a4"><title>Cook (Name)</title></circle></a><a href="/setts/s6/r30k8dg30b4r3b2~x2/"><circle cx="280.8" cy="187.6" r="4" fill="#3465a4"><title>Plummer Family Personal Tartan Tartan Number: 2778. Earliest known date: 2001 From a D C Dalgliesh swatch in 2001 via Phil Smith June 2004. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r6dg16r4db12r16b1r2~x2/"><circle cx="289.8" cy="200.6" r="4" fill="#3465a4"><title>MacQuarrie LO</title></circle></a><circle cx="288.5" cy="212.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g4r28db6g10k10g3~x2/"><circle cx="267.8" cy="226.5" r="4" fill="#3465a4"><title>Canadian Autumn</title></circle></a><a href="/setts/s5/n11k4r4lo4n1~x4/"><circle cx="266.5" cy="231.7" r="4" fill="#3465a4"><title>Ikelman #2 (Personal)</title></circle></a><a href="/setts/s6/db18ly2dy6ly2dy19r3~x2/"><circle cx="297.5" cy="218.4" r="4" fill="#3465a4"><title>Balfour #2</title></circle></a><a href="/setts/s6/db18ly2dy6ly2dy19r3~x4/"><circle cx="297.5" cy="218.4" r="4" fill="#3465a4"><title>Balfour (Clan)</title></circle></a><a href="/setts/s6/g3r22t5g10k10g2~x2/"><circle cx="251.9" cy="225.9" r="4" fill="#3465a4"><title>Strathspey (Fashion)</title></circle></a><a href="/setts/s5/ly2dg17g4r15dg1~x2/"><circle cx="302.1" cy="200.2" r="4" fill="#3465a4"><title>Christmas</title></circle></a><a href="/setts/s6/dr2dg14lb3dr13ly1dr2~x4/"><circle cx="312.8" cy="199.0" r="4" fill="#3465a4"><title>Swedish Para Whisky Club (Corporate</title></circle></a><a href="/setts/s7/dg12g6dg6r15k1r1k2~x2/"><circle cx="253.2" cy="191.0" r="4" fill="#3465a4"><title>Cook (Name)</title></circle></a><a href="/setts/s6/r30k8dg30b4r3b2~x2/"><circle cx="280.6" cy="187.6" r="4" fill="#3465a4"><title>Plummer Family Personal Tartan Tartan Number: 2778. Earliest known date: 2001 From a D C Dalgliesh swatch in 2001 via Phil Smith June 2004. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r6dg16r4db12r16b1r2~x2/"><circle cx="289.7" cy="200.6" r="4" fill="#3465a4"><title>MacQuarrie LO</title></circle></a><circle cx="288.5" cy="212.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/lb2dr12g6dr1n6dr1~x4/

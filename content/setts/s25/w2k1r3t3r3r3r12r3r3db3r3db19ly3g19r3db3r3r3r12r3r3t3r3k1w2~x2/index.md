@@ -2,7 +2,7 @@
 title: "Fitzgerald dress"
 date: 2023-03-18
 ---
-**Bands:** [WKRBRRRRRBRBYGRBRRRRRBRKW](/stripes/wkrbrrrrrbrbygrbrrrrrbrkw/) · **Stripes:** [W K R T R R R R R DB R DB LY G R DB R R R R R T R K W](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K R T R R R R R DB R DB LY G R DB R R R R R T R K W</span></span>
+**Bands:** [WKRBRRRRRBRGYBRBRRRRRBRKW](/stripes/wkrbrrrrrbrgybrbrrrrrbrkw/) · **Stripes:** [W K R T R R R R R DB R G LY DB R DB R R R R R T R K W](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K R T R R R R R DB R G LY DB R DB R R R R R T R K W</span></span>
 
 
 This was sourced from weddslist.  It is a [25 band tartan](/bands/bands25/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 K2 R6 Ba6 R6 DR6 R24 DR6 R6 B6 R6 B38 Y6 G38 R6 B6 R6 DR6 R24 DR6 R6 Ba6 R6 K2 LN/4
+LN/4 K2 R6 Ba6 R6 DR6 R24 DR6 R6 B6 R6 G38 Y6 B38 R6 B6 R6 DR6 R24 DR6 R6 Ba6 R6 K2 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -912,15 +915,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Macan of Lurgyvallan](/setts/s24/r16g1r1g1r1g4k1lb1k1ly1k1t6db4t6k1ly1k1lb1k1g4r12g1r1k1~x4/) — ΔT 1.24
 1. [Campbell, New Louden](/setts/s18/r25w2lo5t2db2lo5w2g12w2m2lo2r5k2r5lo2m2w2lo9~x2/) — ΔT 1.30
 1. [Unnamed C18th - Hynde Cotton Jacket](/setts/s18/r40p5k26r4p10db14p10r5k2r5k2r5k2r5lr2dg26lb6lr2/) — ΔT 1.38
-1. [Macan, of Lurgyvallan](/setts/s24/r16g1r1g1r1g4k1w1k1ly1k1t6db4t6k1ly1k1w1k1g4r12g1r1k1~x2/) — ΔT 1.47
+1. [Macan, of Lurgyvallan](/setts/s24/r16g1r1g1r1g4k1w1k1ly1k1t6db4t6k1ly1k1w1k1g4r12g1r1k1~x2/) — ΔT 1.46
 1. [MacBean MacVean](/setts/s23/r32w2db2db2t2w2t2db2db2w2k2dg9k2w2m3r3r3dg2r3r3m3w2dg6~x2/) — ΔT 1.59
 1. [Fitzgerald Dress](/setts/s25/w2k1r3db3r3r3r19r3r3db3r3db29ly3g29r3db3r3r3r19r3r3db3r3k1w2~x4/) — ΔT 1.59
 1. [Kinross #2](/setts/s28/o36lb1lb6lb1db8r4k4r24k4o8lb1lb6lb1lo18o6k4o6lo18lb1lb6lb1lo8k4o24k4o4db8lb4~x2/) — ΔT 1.60
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s25/w2k1r3t3r3m3r12m3r3db3r3db19ly3g19r3db3r3m3r12m3r3t3r3k1w2~x2/"><circle cx="142.2" cy="38.3" r="4" fill="#3465a4"><title>Fitzgerald Family Tartan Tartan Number: 1818. Earliest known date: 1985 One of four Fitzgerald tartans all apparently designed by Robert P. Fitzgerald of Philadelphia. Starting with this variation of Robertson (for no discernible reason) he then designed the blue and hunting as color variations and a further &quot;fancy dress&quot; version. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s20/db5db2db9n10t2n4t2g10r33w2r33g10t2n4t2n10db9db2db5w3~x2/"><circle cx="177.3" cy="69.1" r="4" fill="#3465a4"><title>Inverclyde</title></circle></a><a href="/setts/s18/r25w2o5b2db2o5w2g12w2dp2o2r5k2r5o2dp2w2o9~x2/"><circle cx="143.1" cy="58.0" r="4" fill="#3465a4"><title>Campbell, New Louden</title></circle></a><a href="/setts/s24/r16g1r1g1r1g4k1lb1k1ly1k1t6db4t6k1ly1k1lb1k1g4r12g1r1k1~x4/"><circle cx="186.5" cy="43.4" r="4" fill="#3465a4"><title>Macan of Lurgyvallan</title></circle></a><a href="/setts/s18/r25w2lo5t2db2lo5w2g12w2m2lo2r5k2r5lo2m2w2lo9~x2/"><circle cx="135.6" cy="53.4" r="4" fill="#3465a4"><title>Campbell, New Louden</title></circle></a><a href="/setts/s18/r40p5k26r4p10db14p10r5k2r5k2r5k2r5lr2dg26lb6lr2/"><circle cx="142.1" cy="58.0" r="4" fill="#3465a4"><title>Unnamed C18th - Hynde Cotton Jacket</title></circle></a><a href="/setts/s24/r16g1r1g1r1g4k1w1k1ly1k1t6db4t6k1ly1k1w1k1g4r12g1r1k1~x2/"><circle cx="169.9" cy="36.6" r="4" fill="#3465a4"><title>Macan, of Lurgyvallan</title></circle></a><a href="/setts/s23/r32w2db2db2t2w2t2db2db2w2k2dg9k2w2m3r3r3dg2r3r3m3w2dg6~x2/"><circle cx="126.4" cy="14.0" r="4" fill="#3465a4"><title>MacBean MacVean</title></circle></a><a href="/setts/s25/w2k1r3db3r3r3r19r3r3db3r3db29ly3g29r3db3r3r3r19r3r3db3r3k1w2~x4/"><circle cx="185.7" cy="19.3" r="4" fill="#3465a4"><title>Fitzgerald Dress</title></circle></a><a href="/setts/s28/o36lb1lb6lb1db8r4k4r24k4o8lb1lb6lb1lo18o6k4o6lo18lb1lb6lb1lo8k4o24k4o4db8lb4~x2/"><circle cx="164.4" cy="18.7" r="4" fill="#3465a4"><title>Kinross #2</title></circle></a><circle cx="141.6" cy="39.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s25/w2k1r3t3r3m3r12m3r3db3r3db19ly3g19r3db3r3m3r12m3r3t3r3k1w2~x2/"><circle cx="141.9" cy="38.6" r="4" fill="#3465a4"><title>Fitzgerald Family Tartan Tartan Number: 1818. Earliest known date: 1985 One of four Fitzgerald tartans all apparently designed by Robert P. Fitzgerald of Philadelphia. Starting with this variation of Robertson (for no discernible reason) he then designed the blue and hunting as color variations and a further &quot;fancy dress&quot; version. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s20/db5db2db9n10t2n4t2g10r33w2r33g10t2n4t2n10db9db2db5w3~x2/"><circle cx="177.1" cy="69.4" r="4" fill="#3465a4"><title>Inverclyde</title></circle></a><a href="/setts/s18/r25w2o5b2db2o5w2g12w2dp2o2r5k2r5o2dp2w2o9~x2/"><circle cx="142.8" cy="58.3" r="4" fill="#3465a4"><title>Campbell, New Louden</title></circle></a><a href="/setts/s24/r16g1r1g1r1g4k1lb1k1ly1k1t6db4t6k1ly1k1lb1k1g4r12g1r1k1~x4/"><circle cx="186.1" cy="43.6" r="4" fill="#3465a4"><title>Macan of Lurgyvallan</title></circle></a><a href="/setts/s18/r25w2lo5t2db2lo5w2g12w2m2lo2r5k2r5lo2m2w2lo9~x2/"><circle cx="135.3" cy="53.7" r="4" fill="#3465a4"><title>Campbell, New Louden</title></circle></a><a href="/setts/s18/r40p5k26r4p10db14p10r5k2r5k2r5k2r5lr2dg26lb6lr2/"><circle cx="142.0" cy="58.2" r="4" fill="#3465a4"><title>Unnamed C18th - Hynde Cotton Jacket</title></circle></a><a href="/setts/s24/r16g1r1g1r1g4k1w1k1ly1k1t6db4t6k1ly1k1w1k1g4r12g1r1k1~x2/"><circle cx="169.6" cy="36.8" r="4" fill="#3465a4"><title>Macan, of Lurgyvallan</title></circle></a><a href="/setts/s23/r32w2db2db2t2w2t2db2db2w2k2dg9k2w2m3r3r3dg2r3r3m3w2dg6~x2/"><circle cx="126.1" cy="14.0" r="4" fill="#3465a4"><title>MacBean MacVean</title></circle></a><a href="/setts/s25/w2k1r3db3r3r3r19r3r3db3r3db29ly3g29r3db3r3r3r19r3r3db3r3k1w2~x4/"><circle cx="185.4" cy="19.5" r="4" fill="#3465a4"><title>Fitzgerald Dress</title></circle></a><a href="/setts/s28/o36lb1lb6lb1db8r4k4r24k4o8lb1lb6lb1lo18o6k4o6lo18lb1lb6lb1lo8k4o24k4o4db8lb4~x2/"><circle cx="164.0" cy="19.0" r="4" fill="#3465a4"><title>Kinross #2</title></circle></a><circle cx="141.4" cy="39.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s25/w2k1r3t3r3r3r12r3r3db3r3db19ly3g19r3db3r3r3r12r3r3t3r3k1w2~x2/

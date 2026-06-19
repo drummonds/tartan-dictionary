@@ -24,6 +24,6 @@ YRGRGRGRY
 |---------------|
 | [MacPhie](/setts/s9/lr1r12dg2r1dg16r1dg2r12ly1~x2/)|
 |![MacPhie example sett](/setts/s9/lr1r12dg2r1dg16r1dg2r12ly1~x2/sett.png)|
-| [MacFie](/setts/s9/lr2r12dg2r1dg32r1dg2r12ly2~x2/)|
-|![MacFie example sett](/setts/s9/lr2r12dg2r1dg32r1dg2r12ly2~x2/sett.png)|
+| [MacFie](/setts/s9/lr2r12dg2r1dg32r1dg2r12ly2/)|
+|![MacFie example sett](/setts/s9/lr2r12dg2r1dg32r1dg2r12ly2/sett.png)|
 

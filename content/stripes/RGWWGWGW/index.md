@@ -8,7 +8,7 @@ RGWWGWGW
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/lp1dg1lp1dg7lb7lp1dg1r1~x6/tartan.png)
+![Woven sample](/setts/s8/r1dg1lp1lb7dg7lp1dg1lp1~x6/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RGWWGWGW
 
 | Tartans |
 |---------------|
-| [Beck-McSorley](/setts/s8/lp1dg1lp1dg7lb7lp1dg1r1~x6/)|
-|![Beck-McSorley example sett](/setts/s8/lp1dg1lp1dg7lb7lp1dg1r1~x6/sett.png)|
+| [Beck-McSorley](/setts/s8/r1dg1lp1lb7dg7lp1dg1lp1~x6/)|
+|![Beck-McSorley example sett](/setts/s8/r1dg1lp1lb7dg7lp1dg1lp1~x6/sett.png)|
 

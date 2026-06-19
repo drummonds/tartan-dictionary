@@ -23,7 +23,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10506](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10506)
 
 ## Thread count
-W/4 P48 DO4 P4 Wa6 Pa8 Wa/60
+Wa/60 Pa8 Wa6 P4 DO4 P48 W/4
 ![Sett](sett.png)
 
 ## Palette
@@ -39,14 +39,14 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "W/4 P48 DO4 P4 Wa6 Pa8 Wa/60 tartan")
+![Tartan detail](tartan.png "Wa/60 Pa8 Wa6 P4 DO4 P48 W/4 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Cunningham Dress Purple (Dance)](/setts/s7/w5dp2w34dp34k2dp2t4~x2/) — ΔT 1.11
-1. [Torridon, Saphire (Dance)](/setts/s7/ly3db2k2db30w30db2w3~x2/) — ΔT 1.27
+1. [Torridon, Saphire (Dance)](/setts/s7/w3db2w30db30k2db2ly3~x2/) — ΔT 1.27
 1. [St. Andrew's Links Dress (Corporate)](/setts/s7/lr30lp4lr3dp2r2dp24w2~x2/) — ΔT 1.30
 1. [Cunningham Dress Purple (Dance) Fashion Tartan Tartan Number: 6531. Earliest known date: 01/01/1986 A dancers' tartan from D C Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/t2dp1k1dp20w20dp1w2~x4/) — ΔT 1.35
 1. [Merida Dance](/setts/s8/w8k4w54db18m6db8m49w6/) — ΔT 1.42
@@ -58,8 +58,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w5dp2w34dp34k2dp2t4~x2/"><circle cx="280.7" cy="124.0" r="4" fill="#3465a4"><title>Cunningham Dress Purple (Dance)</title></circle></a><a href="/setts/s7/ly3db2k2db30w30db2w3~x2/"><circle cx="239.9" cy="122.0" r="4" fill="#3465a4"><title>Torridon, Saphire (Dance)</title></circle></a><a href="/setts/s7/lr30lp4lr3dp2r2dp24w2~x2/"><circle cx="284.1" cy="130.1" r="4" fill="#3465a4"><title>St. Andrew's Links Dress (Corporate)</title></circle></a><a href="/setts/s7/t2dp1k1dp20w20dp1w2~x4/"><circle cx="301.4" cy="120.0" r="4" fill="#3465a4"><title>Cunningham Dress Purple (Dance) Fashion Tartan Tartan Number: 6531. Earliest known date: 01/01/1986 A dancers' tartan from D C Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/w8k4w54db18m6db8m49w6/"><circle cx="218.9" cy="131.1" r="4" fill="#3465a4"><title>Merida Dance</title></circle></a><a href="/setts/s7/w5k3w31dp26w4dp10t4~x2/"><circle cx="251.9" cy="164.4" r="4" fill="#3465a4"><title>MacPherson Dress Purple</title></circle></a><a href="/setts/s10/w3db2w30db4m26w2m2dp4m2w3~x2/"><circle cx="280.9" cy="116.3" r="4" fill="#3465a4"><title>Harris, Lilac (Dance)</title></circle></a><a href="/setts/s7/w5k3w31p26w4p10t4~x2/"><circle cx="250.6" cy="163.3" r="4" fill="#3465a4"><title>MacPherson, dress (purple)</title></circle></a><a href="/setts/s8/w8k6w54db16m6db8m49w6/"><circle cx="206.2" cy="149.7" r="4" fill="#3465a4"><title>Meridia Dance</title></circle></a><a href="/setts/s7/b4r2b40k11g2w16r2~x2/"><circle cx="287.5" cy="119.5" r="4" fill="#3465a4"><title>Jack Sinclair (Personal)</title></circle></a><circle cx="248.7" cy="114.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w5dp2w34dp34k2dp2t4~x2/"><circle cx="280.2" cy="123.8" r="4" fill="#3465a4"><title>Cunningham Dress Purple (Dance)</title></circle></a><a href="/setts/s7/w3db2w30db30k2db2ly3~x2/"><circle cx="239.6" cy="121.8" r="4" fill="#3465a4"><title>Torridon, Saphire (Dance)</title></circle></a><a href="/setts/s7/lr30lp4lr3dp2r2dp24w2~x2/"><circle cx="283.7" cy="130.0" r="4" fill="#3465a4"><title>St. Andrew's Links Dress (Corporate)</title></circle></a><a href="/setts/s7/t2dp1k1dp20w20dp1w2~x4/"><circle cx="301.0" cy="119.8" r="4" fill="#3465a4"><title>Cunningham Dress Purple (Dance) Fashion Tartan Tartan Number: 6531. Earliest known date: 01/01/1986 A dancers' tartan from D C Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/w8k4w54db18m6db8m49w6/"><circle cx="218.5" cy="130.9" r="4" fill="#3465a4"><title>Merida Dance</title></circle></a><a href="/setts/s7/w5k3w31dp26w4dp10t4~x2/"><circle cx="251.6" cy="164.2" r="4" fill="#3465a4"><title>MacPherson Dress Purple</title></circle></a><a href="/setts/s10/w3db2w30db4m26w2m2dp4m2w3~x2/"><circle cx="280.4" cy="116.2" r="4" fill="#3465a4"><title>Harris, Lilac (Dance)</title></circle></a><a href="/setts/s7/w5k3w31p26w4p10t4~x2/"><circle cx="250.3" cy="163.0" r="4" fill="#3465a4"><title>MacPherson, dress (purple)</title></circle></a><a href="/setts/s8/w8k6w54db16m6db8m49w6/"><circle cx="205.8" cy="149.5" r="4" fill="#3465a4"><title>Meridia Dance</title></circle></a><a href="/setts/s7/b4r2b40k11g2w16r2~x2/"><circle cx="287.2" cy="119.3" r="4" fill="#3465a4"><title>Jack Sinclair (Personal)</title></circle></a><circle cx="248.3" cy="114.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/w30b4w3dp2r2dp24w2~x2/

@@ -21,14 +21,14 @@ WBYBBYBY
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### W B LY B DB LY DB LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W B LY B DB LY DB LY</span></span>
+### LY DB LY DB B LY B W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DB LY DB B LY B W</span></span>
 
 | Tartans |
 |---------------|
 | [Halesowen (District)](/setts/s8/w9b3ly3b24db24ly2db2ly2~x2/)|
 |![Halesowen (District) example sett](/setts/s8/w9b3ly3b24db24ly2db2ly2~x2/sett.png)|
 
-### W DB LY DB DT LY DT LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W DB LY DB DT LY DT LY</span></span>
+### LY DT LY DT DB LY DB W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DT LY DT DB LY DB W</span></span>
 
 | Tartans |
 |---------------|

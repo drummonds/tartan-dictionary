@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/4839/
 
 ## Thread count
-DR/4 K2 DB16 K16 G16 DY4 G16 K16 N2 K2 N2 K2 N/12
+N/12 K2 N2 K2 N2 K16 G16 DY4 G16 K16 DB16 K2 DR/4
 ![Sett](sett.png)
 
 ## Palette
@@ -33,17 +33,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Drennan](/setts/s12/db7w3g3db18lo3k15lo3g17r6g3r2g7~x2/) — ΔT 0.59
 1. [Paisley](/setts/s12/db7w2g3db18ly2k15ly2g17r5g3r2g7~x2/) — ΔT 0.66
 1. [Gemmell](/setts/s14/t8k1t1k1t1k5g6k1g6k6db3w1r1w1~x4/) — ΔT 0.67
-1. [Bowie (white lines) (Name)](/setts/s13/db8r2db3r4db13w2y13w2dg13r4dg4lo2dg8~x2/) — ΔT 0.73
+1. [Bowie (white lines) (Name)](/setts/s13/dg8lo2dg4r4dg13w2y13w2db13r4db3r2db8~x2/) — ΔT 0.73
 1. [Gordonstoun](/setts/s12/ly4g20r3db11t3r11g11r3k20r3k3t3~x2/) — ΔT 0.75
 1. [Unidentified #37](/setts/s10/k6dg14t2r3t2k16ly2b16dg16r3~x2/) — ΔT 0.78
-1. [Hislop Hunting (Name)](/setts/s11/r2db8g9k2w3k1ly1k7ly2k8r2~x2/) — ΔT 0.79
+1. [Hislop Hunting (Name)](/setts/s11/r2k8ly2k7ly1k1w3k2g9db8r2~x2/) — ΔT 0.78
 1. [Kinloch Anderson Heather (Corporate)](/setts/s12/dp4dp4dp2dp14dg6g3dg6g2g4g2g15o3~x2/) — ΔT 0.81
 1. [Esteba-Quer (Personal)](/setts/s14/g10r2g2r3g11lb2k10r2db12k1lo2r2lo2r2~x2/) — ΔT 0.86
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/w6k1w1k1w1k8g8lo2g8k8db8k1r2~x2/"><circle cx="70.3" cy="146.2" r="4" fill="#3465a4"><title>Farquharson Dress</title></circle></a><a href="/setts/s12/db7w3g3db18lo3k15lo3g17r6g3r2g7~x2/"><circle cx="106.6" cy="160.0" r="4" fill="#3465a4"><title>Drennan</title></circle></a><a href="/setts/s12/db7w2g3db18ly2k15ly2g17r5g3r2g7~x2/"><circle cx="102.0" cy="143.0" r="4" fill="#3465a4"><title>Paisley</title></circle></a><a href="/setts/s14/t8k1t1k1t1k5g6k1g6k6db3w1r1w1~x4/"><circle cx="88.8" cy="149.1" r="4" fill="#3465a4"><title>Gemmell</title></circle></a><a href="/setts/s13/db8r2db3r4db13w2y13w2dg13r4dg4lo2dg8~x2/"><circle cx="69.5" cy="163.9" r="4" fill="#3465a4"><title>Bowie (white lines) (Name)</title></circle></a><a href="/setts/s12/ly4g20r3db11t3r11g11r3k20r3k3t3~x2/"><circle cx="65.4" cy="155.7" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/setts/s10/k6dg14t2r3t2k16ly2b16dg16r3~x2/"><circle cx="113.3" cy="169.4" r="4" fill="#3465a4"><title>Unidentified #37</title></circle></a><a href="/setts/s11/r2db8g9k2w3k1ly1k7ly2k8r2~x2/"><circle cx="105.2" cy="154.9" r="4" fill="#3465a4"><title>Hislop Hunting (Name)</title></circle></a><a href="/setts/s12/dp4dp4dp2dp14dg6g3dg6g2g4g2g15o3~x2/"><circle cx="97.5" cy="164.4" r="4" fill="#3465a4"><title>Kinloch Anderson Heather (Corporate)</title></circle></a><a href="/setts/s14/g10r2g2r3g11lb2k10r2db12k1lo2r2lo2r2~x2/"><circle cx="105.7" cy="124.3" r="4" fill="#3465a4"><title>Esteba-Quer (Personal)</title></circle></a><circle cx="86.1" cy="155.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/w6k1w1k1w1k8g8lo2g8k8db8k1r2~x2/"><circle cx="70.4" cy="146.3" r="4" fill="#3465a4"><title>Farquharson Dress</title></circle></a><a href="/setts/s12/db7w3g3db18lo3k15lo3g17r6g3r2g7~x2/"><circle cx="106.8" cy="160.1" r="4" fill="#3465a4"><title>Drennan</title></circle></a><a href="/setts/s12/db7w2g3db18ly2k15ly2g17r5g3r2g7~x2/"><circle cx="102.1" cy="143.1" r="4" fill="#3465a4"><title>Paisley</title></circle></a><a href="/setts/s14/t8k1t1k1t1k5g6k1g6k6db3w1r1w1~x4/"><circle cx="88.9" cy="149.2" r="4" fill="#3465a4"><title>Gemmell</title></circle></a><a href="/setts/s13/dg8lo2dg4r4dg13w2y13w2db13r4db3r2db8~x2/"><circle cx="69.6" cy="164.1" r="4" fill="#3465a4"><title>Bowie (white lines) (Name)</title></circle></a><a href="/setts/s12/ly4g20r3db11t3r11g11r3k20r3k3t3~x2/"><circle cx="65.5" cy="155.8" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/setts/s10/k6dg14t2r3t2k16ly2b16dg16r3~x2/"><circle cx="113.4" cy="169.5" r="4" fill="#3465a4"><title>Unidentified #37</title></circle></a><a href="/setts/s11/r2k8ly2k7ly1k1w3k2g9db8r2~x2/"><circle cx="105.3" cy="155.0" r="4" fill="#3465a4"><title>Hislop Hunting (Name)</title></circle></a><a href="/setts/s12/dp4dp4dp2dp14dg6g3dg6g2g4g2g15o3~x2/"><circle cx="97.6" cy="164.5" r="4" fill="#3465a4"><title>Kinloch Anderson Heather (Corporate)</title></circle></a><a href="/setts/s14/g10r2g2r3g11lb2k10r2db12k1lo2r2lo2r2~x2/"><circle cx="105.8" cy="124.4" r="4" fill="#3465a4"><title>Esteba-Quer (Personal)</title></circle></a><circle cx="86.3" cy="155.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1r2~x2/

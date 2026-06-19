@@ -10,9 +10,3 @@ A family of [Clan Little](/clan/little/).
 
 <a class="tartan" href="/setts/s10/k4w4k4w4k4r8k2r8k8lo1~x4/"><img src="/setts/s10/k4w4k4w4k4r8k2r8k8lo1~x4/sett.png" alt="Little of Morton Rigg" width="240"><br>Little of Morton Rigg</a>
 
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s8/k3t1k32db6k4db16k3r2~x2/"><img src="/setts/s8/k3t1k32db6k4db16k3r2~x2/sett.png" alt="Little of Morton Rigg Red (Personal)" width="140"><br>Little of Morton Rigg Red (Personal)</a></li>
-</ul>
-

@@ -2,7 +2,7 @@
 title: "Livingston, dress"
 date: 2023-03-18
 ---
-**Bands:** [BWKWKYKWKWKWKWKY](/stripes/bwkwkykwkwkwkwky/) · **Stripes:** [DB W K W K LY K W K W K W K W K LY](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB W K W K LY K W K W K W K W K LY</span></span>
+**Bands:** [YKWKWKWKWKYKWKWB](/stripes/ykwkwkwkwkykwkwb/) · **Stripes:** [LY K W K W K W K W K LY K W K W DB](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K W K W K W K W K LY K W K W DB</span></span>
 
 
 This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -913,17 +916,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Angus Dress 1992 (Dance)](/setts/s11/k3r1k32db6w20db2r1db2r1db2r3~x2/) — ΔT 1.44
 1. [Anderson Blue](/setts/s15/t8k1o1k1t22o1k14o1w2o1w6k3o1w3o1~x2/) — ΔT 1.52
 1. [Black Onyx](/setts/s15/k30lr33k1o1k1lr8k1o2k1lr3k1o3w2k1o7~x2/) — ΔT 1.54
-1. [Lorne Dress (Dance) Fashion Tartan Tartan Number: 6560. Earliest known date: 01/01/2005 A dance tartan from DC Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/db3k1w27db2w2db2w2db19g19db1k3~x2/) — ΔT 1.63
+1. [Lorne Dress (Dance) Fashion Tartan Tartan Number: 6560. Earliest known date: 01/01/2005 A dance tartan from DC Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/k3db1g19db19w2db2w2db2w27k1db3~x2/) — ΔT 1.63
 1. [Black Onyx (Fashion)](/setts/s15/k30o33k1lo1k1o8k1lo2k1o3k1lo3w2k1lo7~x2/) — ΔT 1.66
 1. [Lesotho](/setts/s13/w4k1db24k1dg12k1w12k1db12w4k1w1k2~x2/) — ΔT 1.67
-1. [Beaufort](/setts/s18/b3w8o2w2o2w2o8k2o2k2o2k8w2b24o2k2o1k3~x2/) — ΔT 1.72
+1. [Beaufort](/setts/s18/k3o1k2o2b24w2k8o2k2o2k2o8w2o2w2o2w8b3~x2/) — ΔT 1.72
 1. [Christmas Morning](/setts/s9/g3r12g15r2w1db30w1g2r2~x2/) — ΔT 1.79
 1. [Sutherland, Dress Royal (Dance)](/setts/s20/w24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12w24g2~x4/) — ΔT 1.80
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/db54w3k3w3k2ly3k2w20k3w3k4w3k4w4k2ly4~x2/"><circle cx="259.8" cy="59.3" r="4" fill="#3465a4"><title>Livingstone Dress</title></circle></a><a href="/setts/s11/k3r1k32db6w20db2r1db2r1db2r3~x2/"><circle cx="272.2" cy="82.3" r="4" fill="#3465a4"><title>Angus Dress 1992 (Dance)</title></circle></a><a href="/setts/s15/t8k1o1k1t22o1k14o1w2o1w6k3o1w3o1~x2/"><circle cx="247.4" cy="95.3" r="4" fill="#3465a4"><title>Anderson Blue</title></circle></a><a href="/setts/s15/k30lr33k1o1k1lr8k1o2k1lr3k1o3w2k1o7~x2/"><circle cx="302.8" cy="72.8" r="4" fill="#3465a4"><title>Black Onyx</title></circle></a><a href="/setts/s11/db3k1w27db2w2db2w2db19g19db1k3~x2/"><circle cx="211.4" cy="100.7" r="4" fill="#3465a4"><title>Lorne Dress (Dance) Fashion Tartan Tartan Number: 6560. Earliest known date: 01/01/2005 A dance tartan from DC Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/k30o33k1lo1k1o8k1lo2k1o3k1lo3w2k1lo7~x2/"><circle cx="309.9" cy="77.8" r="4" fill="#3465a4"><title>Black Onyx (Fashion)</title></circle></a><a href="/setts/s13/w4k1db24k1dg12k1w12k1db12w4k1w1k2~x2/"><circle cx="249.0" cy="109.7" r="4" fill="#3465a4"><title>Lesotho</title></circle></a><a href="/setts/s18/b3w8o2w2o2w2o8k2o2k2o2k8w2b24o2k2o1k3~x2/"><circle cx="177.5" cy="83.8" r="4" fill="#3465a4"><title>Beaufort</title></circle></a><a href="/setts/s9/g3r12g15r2w1db30w1g2r2~x2/"><circle cx="261.2" cy="112.1" r="4" fill="#3465a4"><title>Christmas Morning</title></circle></a><a href="/setts/s20/w24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12w24g2~x4/"><circle cx="171.3" cy="60.7" r="4" fill="#3465a4"><title>Sutherland, Dress Royal (Dance)</title></circle></a><circle cx="265.8" cy="42.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/db54w3k3w3k2ly3k2w20k3w3k4w3k4w4k2ly4~x2/"><circle cx="259.6" cy="59.2" r="4" fill="#3465a4"><title>Livingstone Dress</title></circle></a><a href="/setts/s11/k3r1k32db6w20db2r1db2r1db2r3~x2/"><circle cx="272.0" cy="82.1" r="4" fill="#3465a4"><title>Angus Dress 1992 (Dance)</title></circle></a><a href="/setts/s15/t8k1o1k1t22o1k14o1w2o1w6k3o1w3o1~x2/"><circle cx="247.1" cy="95.2" r="4" fill="#3465a4"><title>Anderson Blue</title></circle></a><a href="/setts/s15/k30lr33k1o1k1lr8k1o2k1lr3k1o3w2k1o7~x2/"><circle cx="302.4" cy="72.7" r="4" fill="#3465a4"><title>Black Onyx</title></circle></a><a href="/setts/s11/k3db1g19db19w2db2w2db2w27k1db3~x2/"><circle cx="211.2" cy="100.6" r="4" fill="#3465a4"><title>Lorne Dress (Dance) Fashion Tartan Tartan Number: 6560. Earliest known date: 01/01/2005 A dance tartan from DC Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/k30o33k1lo1k1o8k1lo2k1o3k1lo3w2k1lo7~x2/"><circle cx="309.6" cy="77.7" r="4" fill="#3465a4"><title>Black Onyx (Fashion)</title></circle></a><a href="/setts/s13/w4k1db24k1dg12k1w12k1db12w4k1w1k2~x2/"><circle cx="248.8" cy="109.6" r="4" fill="#3465a4"><title>Lesotho</title></circle></a><a href="/setts/s18/k3o1k2o2b24w2k8o2k2o2k2o8w2o2w2o2w8b3~x2/"><circle cx="177.2" cy="83.8" r="4" fill="#3465a4"><title>Beaufort</title></circle></a><a href="/setts/s9/g3r12g15r2w1db30w1g2r2~x2/"><circle cx="261.0" cy="112.0" r="4" fill="#3465a4"><title>Christmas Morning</title></circle></a><a href="/setts/s20/w24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12w24g2~x4/"><circle cx="171.0" cy="60.7" r="4" fill="#3465a4"><title>Sutherland, Dress Royal (Dance)</title></circle></a><circle cx="265.5" cy="42.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/db133w16k8w8k2ly4k2w54k8w8k16w8k16w16k2ly12/

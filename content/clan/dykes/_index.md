@@ -1,8 +1,8 @@
 ---
-title: "Clan Dykes,"
+title: "Clan Dykes"
 date: 2023-03-18
 ---
 ## Families
 
-- [Dykes, of Perthshire](/families/dykes-of-perthshire/)
+- [Dykes of Perthshire](/families/dykes-of-perthshire/)
 

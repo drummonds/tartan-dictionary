@@ -2,12 +2,18 @@
 title: "MacLean, Variation"
 date: 2023-03-18
 ---
-**Bands:** [BKYKWKGRBRK](/stripes/bkykwkgrbrk/) · **Stripes:** [P K LY K W K G R P R K](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">P K LY K W K G R P R K</span></span>
+**Bands:** [KRBRGKWKYKB](/stripes/krbrgkwkykb/) · **Stripes:** [K R P R G K W K LY K P](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">K R P R G K W K LY K P</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacLean, Variation
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/8 R20 P8 R114 G100 K8 LN12 K8 Y8 K24 P/90
+P/90 K24 Y8 K8 LN12 K8 G100 R114 P8 R20 K/8
 ![Sett](sett.png)
 
 ## Palette
@@ -906,7 +915,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacLean Variation](/setts/s11/dp45k12ly4k4w6k4dg50r57dp4r10k4~x2/) — ΔT 0.61
 1. [MacLean of Duart #4](/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/) — ΔT 0.71
-1. [Gordon of Abergeldie](/setts/s10/r63w4k4dp18ly4dg50ly4dp18k4w4~x2/) — ΔT 0.78
+1. [Gordon of Abergeldie](/setts/s10/r63w4k4dp18ly4dg50~x2/) — ΔT 0.78
 1. [Kilmorie](/setts/s11/k3r30g10k3ly2k3w2k6r2db12w2~x2/) — ΔT 0.78
 1. [MacLean](/setts/s12/db4lb1k3ly1dg1lb1k1dg8r12lb1r2k1~x2/) — ΔT 0.80
 1. [Norwell](/setts/s11/r4k4r32g4w3g4k13g3db18r2ly3~x2/) — ΔT 0.81
@@ -917,8 +926,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dp45k12ly4k4w6k4dg50r57dp4r10k4~x2/"><circle cx="153.2" cy="104.4" r="4" fill="#3465a4"><title>MacLean Variation</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/"><circle cx="161.2" cy="101.1" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><a href="/setts/s10/r63w4k4dp18ly4dg50ly4dp18k4w4~x2/"><circle cx="183.5" cy="100.3" r="4" fill="#3465a4"><title>Gordon of Abergeldie</title></circle></a><a href="/setts/s11/k3r30g10k3ly2k3w2k6r2db12w2~x2/"><circle cx="190.2" cy="96.2" r="4" fill="#3465a4"><title>Kilmorie</title></circle></a><a href="/setts/s12/db4lb1k3ly1dg1lb1k1dg8r12lb1r2k1~x2/"><circle cx="143.4" cy="100.2" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s11/r4k4r32g4w3g4k13g3db18r2ly3~x2/"><circle cx="189.8" cy="101.6" r="4" fill="#3465a4"><title>Norwell</title></circle></a><a href="/setts/s13/lo6w4k3t14w3r34k34w4t3lo8w3g4k2~x2/"><circle cx="122.2" cy="78.6" r="4" fill="#3465a4"><title>Nazarian (Personal)</title></circle></a><a href="/setts/s14/r27dg20k7ly3o3r2o3ly3o6dp6k2r3o4dp3~x2/"><circle cx="142.3" cy="102.3" r="4" fill="#3465a4"><title>Roman Family Tribute (Personal)</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/"><circle cx="178.8" cy="101.3" r="4" fill="#3465a4"><title>Maclean of Duart (Wilsons) (Clan)</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3g22r31t3r4k2~x2/"><circle cx="147.1" cy="97.0" r="4" fill="#3465a4"><title>MacLean of Duart 1</title></circle></a><circle cx="142.2" cy="98.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dp45k12ly4k4w6k4dg50r57dp4r10k4~x2/"><circle cx="153.1" cy="104.6" r="4" fill="#3465a4"><title>MacLean Variation</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/"><circle cx="161.0" cy="101.2" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><a href="/setts/s10/r63w4k4dp18ly4dg50~x2/"><circle cx="183.3" cy="100.4" r="4" fill="#3465a4"><title>Gordon of Abergeldie</title></circle></a><a href="/setts/s11/k3r30g10k3ly2k3w2k6r2db12w2~x2/"><circle cx="190.0" cy="96.3" r="4" fill="#3465a4"><title>Kilmorie</title></circle></a><a href="/setts/s12/db4lb1k3ly1dg1lb1k1dg8r12lb1r2k1~x2/"><circle cx="143.3" cy="100.3" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s11/r4k4r32g4w3g4k13g3db18r2ly3~x2/"><circle cx="189.6" cy="101.7" r="4" fill="#3465a4"><title>Norwell</title></circle></a><a href="/setts/s13/lo6w4k3t14w3r34k34w4t3lo8w3g4k2~x2/"><circle cx="122.0" cy="78.7" r="4" fill="#3465a4"><title>Nazarian (Personal)</title></circle></a><a href="/setts/s14/r27dg20k7ly3o3r2o3ly3o6dp6k2r3o4dp3~x2/"><circle cx="142.2" cy="102.5" r="4" fill="#3465a4"><title>Roman Family Tribute (Personal)</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/"><circle cx="178.6" cy="101.4" r="4" fill="#3465a4"><title>Maclean of Duart (Wilsons) (Clan)</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3g22r31t3r4k2~x2/"><circle cx="146.9" cy="97.0" r="4" fill="#3465a4"><title>MacLean of Duart 1</title></circle></a><circle cx="142.1" cy="98.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/p45k12ly4k4w6k4g50r57p4r10k4~x2/

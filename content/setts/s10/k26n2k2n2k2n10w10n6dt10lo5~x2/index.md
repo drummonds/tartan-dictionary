@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=712
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Collister Personal
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -55,8 +61,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k4r1k12w1r4w1dg4w1m4dg12k1w2~x2/"><circle cx="148.0" cy="138.5" r="4" fill="#3465a4"><title>Glenfalloch</title></circle></a><a href="/setts/s10/r7db2g5db2k24db2g10db28g10w3~x2/"><circle cx="149.2" cy="141.9" r="4" fill="#3465a4"><title>Colgan, USA, Robert James</title></circle></a><a href="/setts/s8/ly2k2db14db4k5r2ly5r1~x4/"><circle cx="166.1" cy="152.9" r="4" fill="#3465a4"><title>Lovell (2014)</title></circle></a><a href="/setts/s12/w4k2b9k3m3k3m3k23g10k2m6w2~x2/"><circle cx="187.4" cy="137.8" r="4" fill="#3465a4"><title>Auld Lang Syne Blue</title></circle></a><a href="/setts/s9/w3ly2g8k2ly3k2db15k1ly2~x4/"><circle cx="160.8" cy="136.3" r="4" fill="#3465a4"><title>MacManus (Estimated threadcount)</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1~x2/"><circle cx="141.2" cy="143.3" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s9/lr18k3lr4w3lr4k19n20k2m4~x2/"><circle cx="141.8" cy="163.1" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/setts/s9/n12k2n2k2n2k12lp12t3w1~x2/"><circle cx="150.3" cy="155.7" r="4" fill="#3465a4"><title>de Franck, Matt (Personal)</title></circle></a><a href="/setts/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/"><circle cx="126.9" cy="157.5" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s9/dg14k2dg4r2dg4k14p15k1w3~x2/"><circle cx="164.9" cy="154.1" r="4" fill="#3465a4"><title>MacRae, hunting</title></circle></a><circle cx="158.2" cy="141.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k4r1k12w1r4w1dg4w1m4dg12k1w2~x2/"><circle cx="148.0" cy="138.6" r="4" fill="#3465a4"><title>Glenfalloch</title></circle></a><a href="/setts/s10/r7db2g5db2k24db2g10db28g10w3~x2/"><circle cx="149.3" cy="141.9" r="4" fill="#3465a4"><title>Colgan, USA, Robert James</title></circle></a><a href="/setts/s8/ly2k2db14db4k5r2ly5r1~x4/"><circle cx="166.1" cy="152.9" r="4" fill="#3465a4"><title>Lovell (2014)</title></circle></a><a href="/setts/s12/w4k2b9k3m3k3m3k23g10k2m6w2~x2/"><circle cx="187.4" cy="137.7" r="4" fill="#3465a4"><title>Auld Lang Syne Blue</title></circle></a><a href="/setts/s9/w3ly2g8k2ly3k2db15k1ly2~x4/"><circle cx="160.8" cy="136.3" r="4" fill="#3465a4"><title>MacManus (Estimated threadcount)</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1~x2/"><circle cx="141.2" cy="143.3" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s9/lr18k3lr4w3lr4k19n20k2m4~x2/"><circle cx="141.8" cy="163.1" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/setts/s9/n12k2n2k2n2k12lp12t3w1~x2/"><circle cx="150.3" cy="155.7" r="4" fill="#3465a4"><title>de Franck, Matt (Personal)</title></circle></a><a href="/setts/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/"><circle cx="127.0" cy="157.5" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s9/dg14k2dg4r2dg4k14p15k1w3~x2/"><circle cx="165.0" cy="154.1" r="4" fill="#3465a4"><title>MacRae, hunting</title></circle></a><circle cx="158.2" cy="141.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/k26n2k2n2k2n10w10n6dt10lo5~x2/

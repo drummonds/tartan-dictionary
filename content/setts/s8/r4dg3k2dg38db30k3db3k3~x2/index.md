@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/6 DB6 K6 DB60 DG76 K4 DG6 R/8
+R/8 DG6 K4 DG76 DB60 K6 DB6 K/6
 ![Sett](sett.png)
 
 ## Palette
@@ -907,7 +910,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/6 DB6 K6 DB60 DG76 K4 DG6 R/8 tartan")
+![Tartan detail](tartan.png "R/8 DG6 K4 DG76 DB60 K6 DB6 K/6 tartan")
 
 ## Nearest tartans
 
@@ -915,6 +918,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Patriot, The (Fashion)](/setts/s7/k10db4k34dt2k2dt30w3~x2/) — ΔT 1.21
 1. [Scottish Chieftain (Universal)](/setts/s8/k20r1dg3k8dg2k2dg20w2~x2/) — ΔT 1.33
+1. [Johnston](/setts/s8/ly3dg2k1dg30db24k2db2k2~x2/) — ΔT 1.33
 1. [Stephen-Mathieson](/setts/s12/db16g1db1g1db1k12g1db1g1db1g6dp2~x4/) — ΔT 1.34
 1. [Oliphant](/setts/s6/db4k4db24dg32lr1dg2~x2/) — ΔT 1.35
 1. [Jones (Welsh Name)](/setts/s10/db6t3db3t15dg7db7dg5db17dg46dg4/) — ΔT 1.39
@@ -922,12 +926,11 @@ The nearest existing variants by ΔTartan distance.
 1. [Trotter (Personal)](/setts/s9/dt23k2dt2k2dt2k28r2k4n2~x2/) — ΔT 1.44
 1. [Durie](/setts/s9/k12r1k1r1k1r4dg12ly1dg2~x4/) — ΔT 1.44
 1. [Harley (Leslie), Robert](/setts/s8/dg2k3ly1k3dg2db8dg16k1~x4/) — ΔT 1.45
-1. [Home or Hume (Vestiarium Scoticum)](/setts/s8/k28r1k2r1k8db24dg2db3~x2/) — ΔT 1.45
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k10db4k34dt2k2dt30w3~x2/"><circle cx="388.6" cy="210.9" r="4" fill="#3465a4"><title>Patriot, The (Fashion)</title></circle></a><a href="/setts/s8/k20r1dg3k8dg2k2dg20w2~x2/"><circle cx="393.1" cy="205.7" r="4" fill="#3465a4"><title>Scottish Chieftain (Universal)</title></circle></a><a href="/setts/s12/db16g1db1g1db1k12g1db1g1db1g6dp2~x4/"><circle cx="328.5" cy="173.1" r="4" fill="#3465a4"><title>Stephen-Mathieson</title></circle></a><a href="/setts/s6/db4k4db24dg32lr1dg2~x2/"><circle cx="389.7" cy="191.0" r="4" fill="#3465a4"><title>Oliphant</title></circle></a><a href="/setts/s10/db6t3db3t15dg7db7dg5db17dg46dg4/"><circle cx="349.4" cy="198.1" r="4" fill="#3465a4"><title>Jones (Welsh Name)</title></circle></a><a href="/setts/s7/k4r1k4r1dg14n1dg1~x4/"><circle cx="393.3" cy="207.3" r="4" fill="#3465a4"><title>Pinehurst Resort</title></circle></a><a href="/setts/s9/dt23k2dt2k2dt2k28r2k4n2~x2/"><circle cx="404.6" cy="198.9" r="4" fill="#3465a4"><title>Trotter (Personal)</title></circle></a><a href="/setts/s9/k12r1k1r1k1r4dg12ly1dg2~x4/"><circle cx="275.7" cy="192.2" r="4" fill="#3465a4"><title>Durie</title></circle></a><a href="/setts/s8/dg2k3ly1k3dg2db8dg16k1~x4/"><circle cx="346.2" cy="196.3" r="4" fill="#3465a4"><title>Harley (Leslie), Robert</title></circle></a><a href="/setts/s8/k28r1k2r1k8db24dg2db3~x2/"><circle cx="424.5" cy="177.9" r="4" fill="#3465a4"><title>Home or Hume (Vestiarium Scoticum)</title></circle></a><circle cx="358.4" cy="190.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k10db4k34dt2k2dt30w3~x2/"><circle cx="388.7" cy="210.9" r="4" fill="#3465a4"><title>Patriot, The (Fashion)</title></circle></a><a href="/setts/s8/k20r1dg3k8dg2k2dg20w2~x2/"><circle cx="393.1" cy="205.7" r="4" fill="#3465a4"><title>Scottish Chieftain (Universal)</title></circle></a><a href="/setts/s8/ly3dg2k1dg30db24k2db2k2~x2/"><circle cx="354.7" cy="156.0" r="4" fill="#3465a4"><title>Johnston</title></circle></a><a href="/setts/s12/db16g1db1g1db1k12g1db1g1db1g6dp2~x4/"><circle cx="328.5" cy="173.2" r="4" fill="#3465a4"><title>Stephen-Mathieson</title></circle></a><a href="/setts/s6/db4k4db24dg32lr1dg2~x2/"><circle cx="389.7" cy="190.9" r="4" fill="#3465a4"><title>Oliphant</title></circle></a><a href="/setts/s10/db6t3db3t15dg7db7dg5db17dg46dg4/"><circle cx="349.4" cy="198.1" r="4" fill="#3465a4"><title>Jones (Welsh Name)</title></circle></a><a href="/setts/s7/k4r1k4r1dg14n1dg1~x4/"><circle cx="393.3" cy="207.2" r="4" fill="#3465a4"><title>Pinehurst Resort</title></circle></a><a href="/setts/s9/dt23k2dt2k2dt2k28r2k4n2~x2/"><circle cx="404.6" cy="198.9" r="4" fill="#3465a4"><title>Trotter (Personal)</title></circle></a><a href="/setts/s9/k12r1k1r1k1r4dg12ly1dg2~x4/"><circle cx="275.8" cy="192.3" r="4" fill="#3465a4"><title>Durie</title></circle></a><a href="/setts/s8/dg2k3ly1k3dg2db8dg16k1~x4/"><circle cx="346.2" cy="196.2" r="4" fill="#3465a4"><title>Harley (Leslie), Robert</title></circle></a><circle cx="358.5" cy="190.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r4dg3k2dg38db30k3db3k3~x2/

@@ -10,7 +10,7 @@ This was sourced from house-of-tartan.  It is a [4 band tartan](/bands/bands4/).
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10331
 
 ## Thread count
-DR/12 DB2 DG24 K/88
+K/88 DG24 DB2 DR/12
 ![Sett](sett.png)
 
 ## Palette
@@ -27,7 +27,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/12 DB2 DG24 K/88 tartan")
+![Tartan detail](tartan.png "K/88 DG24 DB2 DR/12 tartan")
 
 ## Nearest tartans
 
@@ -39,15 +39,15 @@ The nearest existing variants by ΔTartan distance.
 1. [STLTH (Corporate)](/setts/s7/dt4k2dt4k45n2k3n2~x2/) — ΔT 3.22
 1. [Sanix Muted](/setts/s4/dg3dy30dg40r3~x2/) — ΔT 3.32
 1. [Hector, James (Corporate)](/setts/s5/do2dg11dt27dg8r2~x2/) — ΔT 3.32
-1. [Hector, James](/setts/s8/dg8dt27dg11do2dg11dt27dg8r2~x2/) — ΔT 3.32
+1. [Hector, James](/setts/s8/dg8dt27dg11do2dg11dt27dg8r2~x2/) — ΔT 3.33
 1. [Bouncing Blackie (Personal)](/setts/s6/db13dt13dg21db34dt55do3/) — ΔT 3.33
 1. [Cairns, David (Personal)](/setts/s5/do11n1do4n8r1~x8/) — ΔT 3.34
 1. [Scottish Tourist Board (1990)](/setts/s4/db88dt35w3dt10/) — ΔT 3.41
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k120db4k12dt36dg3k6/"><circle cx="626.0" cy="264.7" r="4" fill="#3465a4"><title>Scottish Football Association (Corp)</title></circle></a><a href="/setts/s5/dt4k43k20dt7y2~x2/"><circle cx="532.9" cy="302.4" r="4" fill="#3465a4"><title>Deighan (Edinburgh)</title></circle></a><a href="/setts/s7/dg23db3k8db4dg4db56dy8/"><circle cx="527.1" cy="264.9" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/setts/s7/dt4k2dt4k45n2k3n2~x2/"><circle cx="626.0" cy="265.5" r="4" fill="#3465a4"><title>STLTH (Corporate)</title></circle></a><a href="/setts/s4/dg3dy30dg40r3~x2/"><circle cx="536.8" cy="335.1" r="4" fill="#3465a4"><title>Sanix Muted</title></circle></a><a href="/setts/s5/do2dg11dt27dg8r2~x2/"><circle cx="491.9" cy="310.3" r="4" fill="#3465a4"><title>Hector, James (Corporate)</title></circle></a><a href="/setts/s8/dg8dt27dg11do2dg11dt27dg8r2~x2/"><circle cx="508.8" cy="315.6" r="4" fill="#3465a4"><title>Hector, James</title></circle></a><a href="/setts/s6/db13dt13dg21db34dt55do3/"><circle cx="528.6" cy="352.5" r="4" fill="#3465a4"><title>Bouncing Blackie (Personal)</title></circle></a><a href="/setts/s5/do11n1do4n8r1~x8/"><circle cx="545.2" cy="340.0" r="4" fill="#3465a4"><title>Cairns, David (Personal)</title></circle></a><a href="/setts/s4/db88dt35w3dt10/"><circle cx="611.7" cy="307.0" r="4" fill="#3465a4"><title>Scottish Tourist Board (1990)</title></circle></a><circle cx="626.0" cy="297.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k120db4k12dt36dg3k6/"><circle cx="626.0" cy="264.9" r="4" fill="#3465a4"><title>Scottish Football Association (Corp)</title></circle></a><a href="/setts/s5/dt4k43k20dt7y2~x2/"><circle cx="533.0" cy="302.7" r="4" fill="#3465a4"><title>Deighan (Edinburgh)</title></circle></a><a href="/setts/s7/dg23db3k8db4dg4db56dy8/"><circle cx="527.1" cy="265.1" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/setts/s7/dt4k2dt4k45n2k3n2~x2/"><circle cx="626.0" cy="265.5" r="4" fill="#3465a4"><title>STLTH (Corporate)</title></circle></a><a href="/setts/s4/dg3dy30dg40r3~x2/"><circle cx="536.7" cy="335.3" r="4" fill="#3465a4"><title>Sanix Muted</title></circle></a><a href="/setts/s5/do2dg11dt27dg8r2~x2/"><circle cx="491.9" cy="310.5" r="4" fill="#3465a4"><title>Hector, James (Corporate)</title></circle></a><a href="/setts/s8/dg8dt27dg11do2dg11dt27dg8r2~x2/"><circle cx="508.8" cy="315.9" r="4" fill="#3465a4"><title>Hector, James</title></circle></a><a href="/setts/s6/db13dt13dg21db34dt55do3/"><circle cx="528.7" cy="353.0" r="4" fill="#3465a4"><title>Bouncing Blackie (Personal)</title></circle></a><a href="/setts/s5/do11n1do4n8r1~x8/"><circle cx="545.1" cy="340.1" r="4" fill="#3465a4"><title>Cairns, David (Personal)</title></circle></a><a href="/setts/s4/db88dt35w3dt10/"><circle cx="611.6" cy="307.1" r="4" fill="#3465a4"><title>Scottish Tourist Board (1990)</title></circle></a><circle cx="626.0" cy="297.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/k44dg12dt1o6~x2/

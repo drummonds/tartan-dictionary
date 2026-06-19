@@ -22,6 +22,6 @@ KWKRKRKRKW
 
 | Tartans |
 |---------------|
-| [Hakkarain (Personal)](/setts/s10/k37w18k37r2k2r2k2r2k37w18~x2/)|
-|![Hakkarain (Personal) example sett](/setts/s10/k37w18k37r2k2r2k2r2k37w18~x2/sett.png)|
+| [Hakkarain (Personal)](/setts/s10/k37w18k37r2k2r2~x2/)|
+|![Hakkarain (Personal) example sett](/setts/s10/k37w18k37r2k2r2~x2/sett.png)|
 

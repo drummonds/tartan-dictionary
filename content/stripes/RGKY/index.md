@@ -8,7 +8,7 @@ RGKY
 
 It is a 4 band tartan.
 
-![Woven sample](/setts/s4/lo1k11g11r1~x4/tartan.png)
+![Woven sample](/setts/s4/r1g11k11lo1~x4/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RGKY
 
 | Tartans |
 |---------------|
-| [Brooks Brothers (Corporate)](/setts/s4/lo1k11g11r1~x4/)|
-|![Brooks Brothers (Corporate) example sett](/setts/s4/lo1k11g11r1~x4/sett.png)|
+| [Brooks Brothers (Corporate)](/setts/s4/r1g11k11lo1~x4/)|
+|![Brooks Brothers (Corporate) example sett](/setts/s4/r1g11k11lo1~x4/sett.png)|
 

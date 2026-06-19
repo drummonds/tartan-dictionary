@@ -2,7 +2,7 @@
 title: "Cartier, Sir George Etienne"
 date: 2023-03-18
 ---
-**Bands:** [BKBRBKGRGR](/stripes/bkbrbkgrgr/) · **Stripes:** [N K N R N K DG O DG R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">N K N R N K DG O DG R</span></span>
+**Bands:** [RGRGKBRBKB](/stripes/rgrgkbrbkb/) · **Stripes:** [R DG O DG K N R N K N](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">R DG O DG K N R N K N</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4474
 
 ## Thread count
-B/4 K8 B12 DR36 B12 K28 DG20 LG6 DG12 DR/8
+DR/8 DG12 LG6 DG20 K28 B12 DR36 B12 K8 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -39,17 +39,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Etienne-Carter, Sir George](/setts/s10/r4g6ly3g12k14db5r20db5k4db2~x2/) — ΔT 1.11
 1. [Kinloch Anderson Limited](/setts/s12/r4o14o2o4o2k6o3k6k14r2k4r4~x2/) — ΔT 1.12
 1. [Unidentified, pattern](/setts/s12/db2r4k7r8g10k4ly2k8db4r4db14r2~x2/) — ΔT 1.13
-1. [Cumming LO](/setts/s9/b4k2b4k10y1dg10r4lr1r4~x2/) — ΔT 1.14
-1. [Cumming LO](/setts/s9/b4k2b4k10y1dg10r4lr1r4/) — ΔT 1.14
+1. [Cumming LO](/setts/s9/r4lr1r4dg10y1k10b4k2b4~x2/) — ΔT 1.14
 1. [Unidentified pattern](/setts/s12/db2r4k7r8dg10k4ly2k8db4r4db14r2~x2/) — ΔT 1.14
 1. [Cavan Irish County Tartan Tartan Number: 2274. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/k3r9k5k9o3k9k5dg24k2o3~x2/) — ΔT 1.15
 1. [Coffield-Limesand (Personal)](/setts/s9/dp8k1g2k1dy2k6g8k1w2~x4/) — ΔT 1.19
 1. [St. Clement of Rome (Corporate)](/setts/s8/db18k5r26k5g25k5db18ly2~x2/) — ΔT 1.19
+1. [MacDonald of Clanranald D](/setts/s13/dg6r2dg2r3dg11lr2k11r2db12r3db2r2db6~x2/) — ΔT 1.20
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r8lb2r22k10dg6k6dg10k6dg10dg3dg3dg4~x2/"><circle cx="139.0" cy="174.8" r="4" fill="#3465a4"><title>Iona</title></circle></a><a href="/setts/s10/r4g6ly3g12k14db5r20db5k4db2~x2/"><circle cx="124.8" cy="172.2" r="4" fill="#3465a4"><title>Etienne-Carter, Sir George</title></circle></a><a href="/setts/s12/r4o14o2o4o2k6o3k6k14r2k4r4~x2/"><circle cx="97.6" cy="173.9" r="4" fill="#3465a4"><title>Kinloch Anderson Limited</title></circle></a><a href="/setts/s12/db2r4k7r8g10k4ly2k8db4r4db14r2~x2/"><circle cx="69.3" cy="184.7" r="4" fill="#3465a4"><title>Unidentified, pattern</title></circle></a><a href="/setts/s9/b4k2b4k10y1dg10r4lr1r4~x2/"><circle cx="84.5" cy="166.0" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/setts/s9/b4k2b4k10y1dg10r4lr1r4/"><circle cx="84.5" cy="166.0" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/setts/s12/db2r4k7r8dg10k4ly2k8db4r4db14r2~x2/"><circle cx="91.6" cy="192.8" r="4" fill="#3465a4"><title>Unidentified pattern</title></circle></a><a href="/setts/s10/k3r9k5k9o3k9k5dg24k2o3~x2/"><circle cx="137.1" cy="167.6" r="4" fill="#3465a4"><title>Cavan Irish County Tartan Tartan Number: 2274. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/dp8k1g2k1dy2k6g8k1w2~x4/"><circle cx="128.8" cy="183.8" r="4" fill="#3465a4"><title>Coffield-Limesand (Personal)</title></circle></a><a href="/setts/s8/db18k5r26k5g25k5db18ly2~x2/"><circle cx="158.8" cy="185.2" r="4" fill="#3465a4"><title>St. Clement of Rome (Corporate)</title></circle></a><circle cx="111.3" cy="193.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r8lb2r22k10dg6k6dg10k6dg10dg3dg3dg4~x2/"><circle cx="139.1" cy="174.9" r="4" fill="#3465a4"><title>Iona</title></circle></a><a href="/setts/s10/r4g6ly3g12k14db5r20db5k4db2~x2/"><circle cx="124.8" cy="172.3" r="4" fill="#3465a4"><title>Etienne-Carter, Sir George</title></circle></a><a href="/setts/s12/r4o14o2o4o2k6o3k6k14r2k4r4~x2/"><circle cx="97.7" cy="174.0" r="4" fill="#3465a4"><title>Kinloch Anderson Limited</title></circle></a><a href="/setts/s12/db2r4k7r8g10k4ly2k8db4r4db14r2~x2/"><circle cx="69.5" cy="184.8" r="4" fill="#3465a4"><title>Unidentified, pattern</title></circle></a><a href="/setts/s9/r4lr1r4dg10y1k10b4k2b4~x2/"><circle cx="84.7" cy="166.1" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/setts/s12/db2r4k7r8dg10k4ly2k8db4r4db14r2~x2/"><circle cx="91.7" cy="192.9" r="4" fill="#3465a4"><title>Unidentified pattern</title></circle></a><a href="/setts/s10/k3r9k5k9o3k9k5dg24k2o3~x2/"><circle cx="137.3" cy="167.7" r="4" fill="#3465a4"><title>Cavan Irish County Tartan Tartan Number: 2274. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/dp8k1g2k1dy2k6g8k1w2~x4/"><circle cx="128.9" cy="183.9" r="4" fill="#3465a4"><title>Coffield-Limesand (Personal)</title></circle></a><a href="/setts/s8/db18k5r26k5g25k5db18ly2~x2/"><circle cx="158.9" cy="185.2" r="4" fill="#3465a4"><title>St. Clement of Rome (Corporate)</title></circle></a><a href="/setts/s13/dg6r2dg2r3dg11lr2k11r2db12r3db2r2db6~x2/"><circle cx="105.1" cy="192.1" r="4" fill="#3465a4"><title>MacDonald of Clanranald D</title></circle></a><circle cx="111.5" cy="193.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r4dg6o3dg10k14n6r18n6k4n2~x2/

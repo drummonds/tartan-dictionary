@@ -18,7 +18,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 3137
 
 ## Thread count
-W/6 G6 Y6 Ga48 K6 N6 W48 N6 K48 N6 W6 Ga48 N6 W/6
+W/6 N6 Ga48 W6 N6 K48 N6 W48 N6 K6 Ga48 Y6 G6 W/6
 ![Sett](sett.png)
 
 ## Palette
@@ -39,8 +39,8 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Tiree](/setts/s11/lo1y6g2w1k8w1g2w9k1w4ly1~x4/) — ΔT 1.14
 1. [Gillies Dress, Green (Dance)](/setts/s10/ly6k2g12r4g8k10w24b2w3b2~x2/) — ΔT 1.15
-1. [Praetorian, Green (Fashion)](/setts/s14/w1k1ly1dg8k1lr1w8lr1k8lr1w1dg8lr1w1~x6/) — ΔT 1.25
-1. [MacInnes, dress](/setts/s13/g4w24g3k3g3k3g24k4w4k4db24g8r4~x2/) — ΔT 1.27
+1. [Praetorian, Green (Fashion)](/setts/s14/w1k1ly1dg8k1lr1w8lr1k8lr1w1dg8lr1w1~x6/) — ΔT 1.26
+1. [MacInnes, dress](/setts/s13/r4g8db24k4w4k4g24k3g3k3g3w24g4~x2/) — ΔT 1.27
 1. [Gillies, dress Green](/setts/s10/ly6k2g15r6g8k12w25t2w3t2~x2/) — ΔT 1.34
 1. [Madewell Dress](/setts/s8/r2k2w16dg13g6ly2k2w2~x2/) — ΔT 1.34
 1. [Downie Dress](/setts/s11/g3t3g5r4g28db8w3db3w24r2k2~x2/) — ΔT 1.36
@@ -50,8 +50,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/lo1y6g2w1k8w1g2w9k1w4ly1~x4/"><circle cx="106.7" cy="121.9" r="4" fill="#3465a4"><title>Tiree</title></circle></a><a href="/setts/s10/ly6k2g12r4g8k10w24b2w3b2~x2/"><circle cx="92.8" cy="115.1" r="4" fill="#3465a4"><title>Gillies Dress, Green (Dance)</title></circle></a><a href="/setts/s14/w1k1ly1dg8k1lr1w8lr1k8lr1w1dg8lr1w1~x6/"><circle cx="127.5" cy="130.8" r="4" fill="#3465a4"><title>Praetorian, Green (Fashion)</title></circle></a><a href="/setts/s13/g4w24g3k3g3k3g24k4w4k4db24g8r4~x2/"><circle cx="112.5" cy="138.5" r="4" fill="#3465a4"><title>MacInnes, dress</title></circle></a><a href="/setts/s10/ly6k2g15r6g8k12w25t2w3t2~x2/"><circle cx="84.7" cy="116.5" r="4" fill="#3465a4"><title>Gillies, dress Green</title></circle></a><a href="/setts/s8/r2k2w16dg13g6ly2k2w2~x2/"><circle cx="111.7" cy="138.7" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><a href="/setts/s11/g3t3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="167.1" cy="101.4" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><a href="/setts/s20/g10k1r1k3r1k1g1r1g3r1g1ly1n3ly1n1w1ly3w1ly1w10~x4/"><circle cx="85.8" cy="82.9" r="4" fill="#3465a4"><title>Spice of Life (Fashion)</title></circle></a><a href="/setts/s14/r6g4ly4g25r4g6r4g6w34g4w4k4r4w6/"><circle cx="155.5" cy="121.1" r="4" fill="#3465a4"><title>Hay, White Dress</title></circle></a><a href="/setts/s13/db1r1db8k3g8r1g1r1g8k3w10r1w1~x4/"><circle cx="106.6" cy="133.1" r="4" fill="#3465a4"><title>Blair, dress</title></circle></a><circle cx="94.0" cy="109.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/lo1y6g2w1k8w1g2w9k1w4ly1~x4/"><circle cx="106.5" cy="121.9" r="4" fill="#3465a4"><title>Tiree</title></circle></a><a href="/setts/s10/ly6k2g12r4g8k10w24b2w3b2~x2/"><circle cx="92.6" cy="115.0" r="4" fill="#3465a4"><title>Gillies Dress, Green (Dance)</title></circle></a><a href="/setts/s14/w1k1ly1dg8k1lr1w8lr1k8lr1w1dg8lr1w1~x6/"><circle cx="127.4" cy="130.8" r="4" fill="#3465a4"><title>Praetorian, Green (Fashion)</title></circle></a><a href="/setts/s13/r4g8db24k4w4k4g24k3g3k3g3w24g4~x2/"><circle cx="112.4" cy="138.5" r="4" fill="#3465a4"><title>MacInnes, dress</title></circle></a><a href="/setts/s10/ly6k2g15r6g8k12w25t2w3t2~x2/"><circle cx="84.5" cy="116.5" r="4" fill="#3465a4"><title>Gillies, dress Green</title></circle></a><a href="/setts/s8/r2k2w16dg13g6ly2k2w2~x2/"><circle cx="111.6" cy="138.7" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><a href="/setts/s11/g3t3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="166.9" cy="101.4" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><a href="/setts/s20/g10k1r1k3r1k1g1r1g3r1g1ly1n3ly1n1w1ly3w1ly1w10~x4/"><circle cx="85.6" cy="83.0" r="4" fill="#3465a4"><title>Spice of Life (Fashion)</title></circle></a><a href="/setts/s14/r6g4ly4g25r4g6r4g6w34g4w4k4r4w6/"><circle cx="155.2" cy="121.1" r="4" fill="#3465a4"><title>Hay, White Dress</title></circle></a><a href="/setts/s13/db1r1db8k3g8r1g1r1g8k3w10r1w1~x4/"><circle cx="106.5" cy="133.1" r="4" fill="#3465a4"><title>Blair, dress</title></circle></a><circle cx="93.8" cy="109.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/w1dg1ly1g8k1lb1w8lb1k8lb1w1g8lb1w1~x6/

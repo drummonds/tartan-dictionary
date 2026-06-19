@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [21 band tartan](/bands/bands21/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Kinnear, Pilette of
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -914,18 +923,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Unidentified, Phyllis Gordon](/setts/s20/k40g8r1g57ly5g9w5g57r1g8k40dp7k4g4k2w4k2g4k4dp7~x2/) — ΔT 1.16
 1. [Kennedy](/setts/s17/k2g2ly1g3r1g2r1g12db4k3db3k3db3k3db4g24r2~x2/) — ΔT 1.17
 1. [Campbell, Marquis of Lorne](/setts/s18/k6g4k22g3k3g32r3g3w3g3ly3g32k3g3k22g4k6p6/) — ΔT 1.36
-1. [King George VI (Green Stewart)](/setts/s22/g42b3k8ly2k2w3k2g12r5k2r2w2r2k2r5g12k2w3k2ly2k8b3~x2/) — ΔT 1.50
-1. [Lorne, Marquis of](/setts/s18/db3k3g2k14g2k2g20r2g2w2g2ly2g20k2g2k14g2k3~x2/) — ΔT 1.53
+1. [King George VI (Green Stewart)](/setts/s22/g42b3k8ly2k2w3k2g12r5k2r2w2~x2/) — ΔT 1.50
+1. [Lorne, Marquis of](/setts/s18/k3g2k14g2k2g20ly2g2w2g2r2g20k2g2k14g2k3db3~x2/) — ΔT 1.53
 1. [Reilly fae the Mearns (Personal)](/setts/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/) — ΔT 1.54
-1. [Lorne, Marquis of #2](/setts/s18/db10dg10g8dg46g3dg3g55ly4g5w4g5r4g55dg3g3dg46g8dg10~x2/) — ΔT 1.60
+1. [Lorne, Marquis of #2](/setts/s18/dg10g8dg46g3dg3g55r4g5w4g5ly4g55dg3g3dg46g8dg10db10~x2/) — ΔT 1.60
 1. [Blairlogie, or Blair Athol](/setts/s17/k20r3db10g3db5g25k1g1w3g1k1g25db5g3db10r1db2~x2/) — ΔT 1.65
 1. [King Edward VII](/setts/s17/ly8g84db21k10db10k10db10k10db21g62r3g6r3g10ly3g5r6~x2/) — ΔT 1.65
-1. [Unidentified Plaid 14](/setts/s35/r8k31g8k8g56k3ly3r3k3r3k12db36k3ly8k3g44k2db6k2g44k3w8k3db36k12r3k3r3ly3k3g56k8g8k31r8~x2/) — ΔT 1.70
+1. [Unidentified Plaid 14](/setts/s35/r8k31g8k8g56k3ly3r3k3r3k12db36k3w8k3g44k2db6k2g44k3ly8k3db36k12r3k3r3ly3k3g56k8g8k31r8~x2/) — ΔT 1.70
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/k40g8r1g57ly5g9w5g57r1g8k40dp7k4g4k2w4k2g4k4dp7~x2/"><circle cx="293.9" cy="37.8" r="4" fill="#3465a4"><title>Unidentified, Phyllis Gordon</title></circle></a><a href="/setts/s17/k2g2ly1g3r1g2r1g12db4k3db3k3db3k3db4g24r2~x2/"><circle cx="292.4" cy="80.2" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/setts/s18/k6g4k22g3k3g32r3g3w3g3ly3g32k3g3k22g4k6p6/"><circle cx="221.4" cy="110.4" r="4" fill="#3465a4"><title>Campbell, Marquis of Lorne</title></circle></a><a href="/setts/s22/g42b3k8ly2k2w3k2g12r5k2r2w2r2k2r5g12k2w3k2ly2k8b3~x2/"><circle cx="253.6" cy="57.8" r="4" fill="#3465a4"><title>King George VI (Green Stewart)</title></circle></a><a href="/setts/s18/db3k3g2k14g2k2g20r2g2w2g2ly2g20k2g2k14g2k3~x2/"><circle cx="213.3" cy="105.6" r="4" fill="#3465a4"><title>Lorne, Marquis of</title></circle></a><a href="/setts/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/"><circle cx="289.5" cy="75.6" r="4" fill="#3465a4"><title>Reilly fae the Mearns (Personal)</title></circle></a><a href="/setts/s18/db10dg10g8dg46g3dg3g55ly4g5w4g5r4g55dg3g3dg46g8dg10~x2/"><circle cx="262.5" cy="95.0" r="4" fill="#3465a4"><title>Lorne, Marquis of #2</title></circle></a><a href="/setts/s17/k20r3db10g3db5g25k1g1w3g1k1g25db5g3db10r1db2~x2/"><circle cx="243.4" cy="96.5" r="4" fill="#3465a4"><title>Blairlogie, or Blair Athol</title></circle></a><a href="/setts/s17/ly8g84db21k10db10k10db10k10db21g62r3g6r3g10ly3g5r6~x2/"><circle cx="321.7" cy="89.4" r="4" fill="#3465a4"><title>King Edward VII</title></circle></a><a href="/setts/s35/r8k31g8k8g56k3ly3r3k3r3k12db36k3ly8k3g44k2db6k2g44k3w8k3db36k12r3k3r3ly3k3g56k8g8k31r8~x2/"><circle cx="189.9" cy="39.0" r="4" fill="#3465a4"><title>Unidentified Plaid 14</title></circle></a><circle cx="265.7" cy="66.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/k40g8r1g57ly5g9w5g57r1g8k40dp7k4g4k2w4k2g4k4dp7~x2/"><circle cx="293.8" cy="37.8" r="4" fill="#3465a4"><title>Unidentified, Phyllis Gordon</title></circle></a><a href="/setts/s17/k2g2ly1g3r1g2r1g12db4k3db3k3db3k3db4g24r2~x2/"><circle cx="292.2" cy="80.2" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/setts/s18/k6g4k22g3k3g32r3g3w3g3ly3g32k3g3k22g4k6p6/"><circle cx="221.4" cy="110.3" r="4" fill="#3465a4"><title>Campbell, Marquis of Lorne</title></circle></a><a href="/setts/s22/g42b3k8ly2k2w3k2g12r5k2r2w2~x2/"><circle cx="253.3" cy="57.9" r="4" fill="#3465a4"><title>King George VI (Green Stewart)</title></circle></a><a href="/setts/s18/k3g2k14g2k2g20ly2g2w2g2r2g20k2g2k14g2k3db3~x2/"><circle cx="213.2" cy="105.5" r="4" fill="#3465a4"><title>Lorne, Marquis of</title></circle></a><a href="/setts/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/"><circle cx="289.3" cy="75.6" r="4" fill="#3465a4"><title>Reilly fae the Mearns (Personal)</title></circle></a><a href="/setts/s18/dg10g8dg46g3dg3g55r4g5w4g5ly4g55dg3g3dg46g8dg10db10~x2/"><circle cx="262.3" cy="95.0" r="4" fill="#3465a4"><title>Lorne, Marquis of #2</title></circle></a><a href="/setts/s17/k20r3db10g3db5g25k1g1w3g1k1g25db5g3db10r1db2~x2/"><circle cx="243.3" cy="96.4" r="4" fill="#3465a4"><title>Blairlogie, or Blair Athol</title></circle></a><a href="/setts/s17/ly8g84db21k10db10k10db10k10db21g62r3g6r3g10ly3g5r6~x2/"><circle cx="321.4" cy="89.3" r="4" fill="#3465a4"><title>King Edward VII</title></circle></a><a href="/setts/s35/r8k31g8k8g56k3ly3r3k3r3k12db36k3w8k3g44k2db6k2g44k3ly8k3db36k12r3k3r3ly3k3g56k8g8k31r8~x2/"><circle cx="189.8" cy="39.1" r="4" fill="#3465a4"><title>Unidentified Plaid 14</title></circle></a><circle cx="265.6" cy="66.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s21/k2r1k6g2k6g24k4g2r3lr1r2ly1r3g2k4g24k6g2k6r1k2~x2/

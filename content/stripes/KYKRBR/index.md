@@ -26,6 +26,4 @@ KYKRBR
 |---------------|
 | [Ramsay](/setts/s6/k4lr2k28r30n1r3~x2/)|
 |![Ramsay example sett](/setts/s6/k4lr2k28r30n1r3~x2/sett.png)|
-| [Ramsay](/setts/s6/k4lr2k28r30n1r3/)|
-|![Ramsay example sett](/setts/s6/k4lr2k28r30n1r3/sett.png)|
 

@@ -18,10 +18,10 @@ WYRGRYRYRYRY
 
 
 
-### W LO R Y R LO R LO O LY R LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W LO R Y R LO R LO O LY R LY</span></span>
+### LY R LY O LO R LO R Y R LO W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY R LY O LO R LO R Y R LO W</span></span>
 
 | Tartans |
 |---------------|
-| [Flodden](/setts/s12/ly2r2ly2o14lo2r3lo1r1y20r3lo1w2~x2/)|
-|![Flodden example sett](/setts/s12/ly2r2ly2o14lo2r3lo1r1y20r3lo1w2~x2/sett.png)|
+| [Flodden](/setts/s12/w2lo1r3y20r1lo1r3lo2o14ly2r2ly2~x2/)|
+|![Flodden example sett](/setts/s12/w2lo1r3y20r1lo1r3lo2o14ly2r2ly2~x2/sett.png)|
 

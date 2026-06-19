@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7583/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Shiel, Purple
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -24,7 +30,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7583
 
 ## Thread count
-LP/4 G4 W60 DP48 B20 G10 W/16
+W/16 G10 B20 DP48 W60 G4 LP/4
 ![Sett](sett.png)
 
 ## Palette
@@ -40,7 +46,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LP/4 G4 W60 DP48 B20 G10 W/16 tartan")
+![Tartan detail](tartan.png "W/16 G10 B20 DP48 W60 G4 LP/4 tartan")
 
 ## Nearest tartans
 
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w8b5t10dp24w30b2dg2~x2/"><circle cx="208.8" cy="140.5" r="4" fill="#3465a4"><title>Shiel, Magenta (Dance)</title></circle></a><a href="/setts/s7/w39db9k10dg11r7k3r7~x2/"><circle cx="171.6" cy="138.9" r="4" fill="#3465a4"><title>MacDuff Dress #5</title></circle></a><a href="/setts/s6/g4w28p8ly2db17g4~x2/"><circle cx="184.9" cy="151.7" r="4" fill="#3465a4"><title>Manx, dress</title></circle></a><a href="/setts/s6/g4w28dp8ly2db17g4~x2/"><circle cx="181.7" cy="150.6" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/setts/s8/db4w1db2w18g3w1r9ly4~x4/"><circle cx="213.1" cy="114.7" r="4" fill="#3465a4"><title>Manitoba Dress (1958) (District)</title></circle></a><a href="/setts/s7/w39db9k10g11r7k3r7~x2/"><circle cx="165.4" cy="138.2" r="4" fill="#3465a4"><title>MacDuff dress</title></circle></a><a href="/setts/s7/w8g5dp10t24w30g2lp2~x2/"><circle cx="209.0" cy="144.5" r="4" fill="#3465a4"><title>Shiel, Purple V2 (Dance)</title></circle></a><a href="/setts/s8/r6db2p21w3dg19w26dg3w5~x2/"><circle cx="155.7" cy="140.1" r="4" fill="#3465a4"><title>Culloden, dress Ancient</title></circle></a><a href="/setts/s6/db2w14p4ly1g8db2~x2/"><circle cx="187.7" cy="152.4" r="4" fill="#3465a4"><title>Manx Laxey, dress green</title></circle></a><a href="/setts/s9/r2db2w26g25k14db13w26db2r2~x2/"><circle cx="169.0" cy="140.5" r="4" fill="#3465a4"><title>MacNaughton Dress</title></circle></a><circle cx="199.1" cy="137.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w8b5t10dp24w30b2dg2~x2/"><circle cx="208.5" cy="140.3" r="4" fill="#3465a4"><title>Shiel, Magenta (Dance)</title></circle></a><a href="/setts/s7/w39db9k10dg11r7k3r7~x2/"><circle cx="171.3" cy="138.8" r="4" fill="#3465a4"><title>MacDuff Dress #5</title></circle></a><a href="/setts/s6/g4w28p8ly2db17g4~x2/"><circle cx="184.6" cy="151.6" r="4" fill="#3465a4"><title>Manx, dress</title></circle></a><a href="/setts/s6/g4w28dp8ly2db17g4~x2/"><circle cx="181.6" cy="150.5" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/setts/s8/db4w1db2w18g3w1r9ly4~x4/"><circle cx="212.7" cy="114.6" r="4" fill="#3465a4"><title>Manitoba Dress (1958) (District)</title></circle></a><a href="/setts/s7/w39db9k10g11r7k3r7~x2/"><circle cx="165.2" cy="138.0" r="4" fill="#3465a4"><title>MacDuff dress</title></circle></a><a href="/setts/s7/w8g5dp10t24w30g2lp2~x2/"><circle cx="208.7" cy="144.4" r="4" fill="#3465a4"><title>Shiel, Purple V2 (Dance)</title></circle></a><a href="/setts/s8/r6db2p21w3dg19w26dg3w5~x2/"><circle cx="155.5" cy="140.0" r="4" fill="#3465a4"><title>Culloden, dress Ancient</title></circle></a><a href="/setts/s6/db2w14p4ly1g8db2~x2/"><circle cx="187.5" cy="152.3" r="4" fill="#3465a4"><title>Manx Laxey, dress green</title></circle></a><a href="/setts/s9/r2db2w26g25k14db13w26db2r2~x2/"><circle cx="168.8" cy="140.4" r="4" fill="#3465a4"><title>MacNaughton Dress</title></circle></a><circle cx="198.8" cy="137.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/w8g5t10dp24w30g2lp2~x2/

@@ -2,7 +2,7 @@
 title: "William Murdoch, (Scottish Gas)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKBKBKBKBKB](/stripes/bkbkbkbkbkbkbkb/) · **Stripes:** [B K B K B K DB K T K DB K B K B](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B K B K B K DB K T K DB K B K B</span></span>
+**Bands:** [BKBKBKBKBKBKBKB](/stripes/bkbkbkbkbkbkbkb/) · **Stripes:** [B K B K DB K T K DB K B K B K B](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B K B K DB K T K DB K B K B K B</span></span>
 
 
 This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -915,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/b12k2b2k2b2k10r2k10b12k3b12k10b11k2b2~x2/"><circle cx="172.7" cy="208.6" r="4" fill="#3465a4"><title>Mundigl</title></circle></a><a href="/setts/s15/db13k3db3k3db3k10t10w4r4w4t10k10db14k3db3~x2/"><circle cx="91.0" cy="200.2" r="4" fill="#3465a4"><title>Palatine Union Personal Tartan Tartan Number: 6802. Earliest known date: 2004 Designed as a unique tartan for the wedding of Traepischke Graves (Trapper Graves) and Steve Lalor in Seattle. Palatine is an old Scottish name and also a district in Seattle. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/db20r3db3r3db3k10lr14k4lr14k10db14r3db3~x2/"><circle cx="138.0" cy="191.9" r="4" fill="#3465a4"><title>Commonwealth Variation</title></circle></a><a href="/setts/s10/db3t1db6r2b6k1r1k1b6r3~x4/"><circle cx="133.4" cy="200.8" r="4" fill="#3465a4"><title>Ballater</title></circle></a><a href="/setts/s13/db8dt1db1dt1db1dt7lr6dt3lr6dt7db6dt1db1~x4/"><circle cx="204.6" cy="211.8" r="4" fill="#3465a4"><title>Hebron</title></circle></a><a href="/setts/s11/k3lo2b14k14lb2k14lb2b6lb2b16lb3~x2/"><circle cx="216.0" cy="193.6" r="4" fill="#3465a4"><title>Immanuel Presbyterian Church (Corp)</title></circle></a><a href="/setts/s14/r12db10t3o3t3db3t16db3t3o3t3db10r12w4~x2/"><circle cx="86.0" cy="183.1" r="4" fill="#3465a4"><title>Greer</title></circle></a><a href="/setts/s15/db6k1db1k1db1k6lt6k1w1k1lt6k6db6k1r1~x4/"><circle cx="107.3" cy="164.1" r="4" fill="#3465a4"><title>MacKenzie Blue</title></circle></a><a href="/setts/s14/g12k5db18k5w5k5db18k3db6k3db6k5g12r5~x2/"><circle cx="150.1" cy="198.7" r="4" fill="#3465a4"><title>Encyclopaedia Britannica (Corporate)</title></circle></a><a href="/setts/s10/r2db6dt6db2r2db4dt6r2db2w1~x4/"><circle cx="199.2" cy="246.8" r="4" fill="#3465a4"><title>Scottish N. A. Business Council (Co</title></circle></a><circle cx="139.7" cy="211.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/b12k2b2k2b2k10r2k10b12k3b12k10b11k2b2~x2/"><circle cx="172.8" cy="208.6" r="4" fill="#3465a4"><title>Mundigl</title></circle></a><a href="/setts/s15/db13k3db3k3db3k10t10w4r4w4t10k10db14k3db3~x2/"><circle cx="91.2" cy="200.2" r="4" fill="#3465a4"><title>Palatine Union Personal Tartan Tartan Number: 6802. Earliest known date: 2004 Designed as a unique tartan for the wedding of Traepischke Graves (Trapper Graves) and Steve Lalor in Seattle. Palatine is an old Scottish name and also a district in Seattle. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/db20r3db3r3db3k10lr14k4lr14k10db14r3db3~x2/"><circle cx="138.2" cy="191.8" r="4" fill="#3465a4"><title>Commonwealth Variation</title></circle></a><a href="/setts/s10/db3t1db6r2b6k1r1k1b6r3~x4/"><circle cx="133.6" cy="200.8" r="4" fill="#3465a4"><title>Ballater</title></circle></a><a href="/setts/s13/db8dt1db1dt1db1dt7lr6dt3lr6dt7db6dt1db1~x4/"><circle cx="204.6" cy="211.7" r="4" fill="#3465a4"><title>Hebron</title></circle></a><a href="/setts/s11/k3lo2b14k14lb2k14lb2b6lb2b16lb3~x2/"><circle cx="216.0" cy="193.5" r="4" fill="#3465a4"><title>Immanuel Presbyterian Church (Corp)</title></circle></a><a href="/setts/s14/r12db10t3o3t3db3t16db3t3o3t3db10r12w4~x2/"><circle cx="86.1" cy="183.1" r="4" fill="#3465a4"><title>Greer</title></circle></a><a href="/setts/s15/db6k1db1k1db1k6lt6k1w1k1lt6k6db6k1r1~x4/"><circle cx="107.4" cy="164.1" r="4" fill="#3465a4"><title>MacKenzie Blue</title></circle></a><a href="/setts/s14/g12k5db18k5w5k5db18k3db6k3db6k5g12r5~x2/"><circle cx="150.2" cy="198.7" r="4" fill="#3465a4"><title>Encyclopaedia Britannica (Corporate)</title></circle></a><a href="/setts/s10/r2db6dt6db2r2db4dt6r2db2w1~x4/"><circle cx="199.3" cy="246.8" r="4" fill="#3465a4"><title>Scottish N. A. Business Council (Co</title></circle></a><circle cx="139.8" cy="211.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/b11k2b4k2b4k11db11k2t4k2db11k11b11k2b4~x2/

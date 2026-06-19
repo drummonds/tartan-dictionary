@@ -8,7 +8,7 @@ RBRWKBY
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/lo3n14k5w1o11db1o3~x4/tartan.png)
+![Woven sample](/setts/s7/o3db1o11w1k5n14lo3~x4/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RBRWKBY
 
 | Tartans |
 |---------------|
-| [Glen Lyon (Fashion)](/setts/s7/lo3n14k5w1o11db1o3~x4/)|
-|![Glen Lyon (Fashion) example sett](/setts/s7/lo3n14k5w1o11db1o3~x4/sett.png)|
+| [Glen Lyon (Fashion)](/setts/s7/o3db1o11w1k5n14lo3~x4/)|
+|![Glen Lyon (Fashion) example sett](/setts/s7/o3db1o11w1k5n14lo3~x4/sett.png)|
 

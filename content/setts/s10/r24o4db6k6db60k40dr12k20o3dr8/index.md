@@ -2,7 +2,7 @@
 title: "The KpgM"
 date: 2023-03-18
 ---
-**Bands:** [BRKBKBKBRR](/stripes/brkbkbkbrr/) · **Stripes:** [DR O K DR K DB K DB O R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">DR O K DR K DB K DB O R</span></span>
+**Bands:** [RRBKBKBKRB](/stripes/rrbkbkbkrb/) · **Stripes:** [R O DB K DB K DR K O DR](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="seq">R O DB K DB K DR K O DR</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DR/8 LT3 K20 DR12 K40 B60 K6 B6 LT4 R/24
+R/24 LT4 B6 K6 B60 K40 DR12 K20 LT3 DR/8
 ![Sett](sett.png)
 
 ## Palette
@@ -907,17 +910,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Bannockbane Navy Fashion Tartan Tartan Number: 3653. Earliest known date: Not Specified. This is a variation on a trade sett which originated in the early 1970s. Other variants of the design (in different colourways) are included in the Register. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k3m2db30m1k18o30m2o3~x2/) — ΔT 1.18
 1. [Logan and MacLennan](/setts/s11/r6db3r2db2r2db16k12dg16r1dg1ly2~x2/) — ΔT 1.21
 1. [Army Medical Services](/setts/s12/r16db2r2db2r2db16dg16ly1r16db16r2lr2~x2/) — ΔT 1.21
-1. [Clanranald, MacDonald of](/setts/s13/db16r2db2r7db31r2k32lb3dg31r7dg2r2dg16~x2/) — ΔT 1.22
+1. [Clanranald, MacDonald of](/setts/s13/dg16r2dg2r7dg31lb3k32r2db31r7db2r2db16~x2/) — ΔT 1.22
 1. [Brooks Brothers (Corporate)](/setts/s11/o48k10db12k2o3k2db12k10o10k2ly3~x2/) — ΔT 1.23
 1. [Okada, Yayoi (Personal)](/setts/s11/db1m1r5k1dg1k1dg1k5db10dg1r1~x4/) — ΔT 1.24
 1. [Urbino (Fashion)](/setts/s10/dg3dp2dg2dp2dg2dp20k20dg22k1o3~x4/) — ΔT 1.25
 1. [Applestone](/setts/s14/b22r2b2r6b2r2b38k46r2do42y2do2y2do15~x2/) — ΔT 1.30
-1. [SheBoom](/setts/s8/k35p2k3dp13g8w4g8dp8~x2/) — ΔT 1.31
+1. [SheBoom](/setts/s8/k35p2k3dp13g8w4g8dp8~x2/) — ΔT 1.32
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg14k2dg4r2dg4k14p15k1w3~x2/"><circle cx="164.9" cy="154.1" r="4" fill="#3465a4"><title>MacRae, hunting</title></circle></a><a href="/setts/s8/k3m2db30m1k18o30m2o3~x2/"><circle cx="212.6" cy="116.6" r="4" fill="#3465a4"><title>Bannockbane Navy Fashion Tartan Tartan Number: 3653. Earliest known date: Not Specified. This is a variation on a trade sett which originated in the early 1970s. Other variants of the design (in different colourways) are included in the Register. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r6db3r2db2r2db16k12dg16r1dg1ly2~x2/"><circle cx="147.8" cy="135.4" r="4" fill="#3465a4"><title>Logan and MacLennan</title></circle></a><a href="/setts/s12/r16db2r2db2r2db16dg16ly1r16db16r2lr2~x2/"><circle cx="229.7" cy="146.6" r="4" fill="#3465a4"><title>Army Medical Services</title></circle></a><a href="/setts/s13/db16r2db2r7db31r2k32lb3dg31r7dg2r2dg16~x2/"><circle cx="168.0" cy="143.2" r="4" fill="#3465a4"><title>Clanranald, MacDonald of</title></circle></a><a href="/setts/s11/o48k10db12k2o3k2db12k10o10k2ly3~x2/"><circle cx="259.5" cy="112.3" r="4" fill="#3465a4"><title>Brooks Brothers (Corporate)</title></circle></a><a href="/setts/s11/db1m1r5k1dg1k1dg1k5db10dg1r1~x4/"><circle cx="182.3" cy="147.2" r="4" fill="#3465a4"><title>Okada, Yayoi (Personal)</title></circle></a><a href="/setts/s10/dg3dp2dg2dp2dg2dp20k20dg22k1o3~x4/"><circle cx="239.6" cy="143.5" r="4" fill="#3465a4"><title>Urbino (Fashion)</title></circle></a><a href="/setts/s14/b22r2b2r6b2r2b38k46r2do42y2do2y2do15~x2/"><circle cx="195.0" cy="99.2" r="4" fill="#3465a4"><title>Applestone</title></circle></a><a href="/setts/s8/k35p2k3dp13g8w4g8dp8~x2/"><circle cx="243.8" cy="149.1" r="4" fill="#3465a4"><title>SheBoom</title></circle></a><circle cx="197.4" cy="138.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg14k2dg4r2dg4k14p15k1w3~x2/"><circle cx="165.0" cy="154.1" r="4" fill="#3465a4"><title>MacRae, hunting</title></circle></a><a href="/setts/s8/k3m2db30m1k18o30m2o3~x2/"><circle cx="212.7" cy="116.6" r="4" fill="#3465a4"><title>Bannockbane Navy Fashion Tartan Tartan Number: 3653. Earliest known date: Not Specified. This is a variation on a trade sett which originated in the early 1970s. Other variants of the design (in different colourways) are included in the Register. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r6db3r2db2r2db16k12dg16r1dg1ly2~x2/"><circle cx="147.9" cy="135.5" r="4" fill="#3465a4"><title>Logan and MacLennan</title></circle></a><a href="/setts/s12/r16db2r2db2r2db16dg16ly1r16db16r2lr2~x2/"><circle cx="229.7" cy="146.7" r="4" fill="#3465a4"><title>Army Medical Services</title></circle></a><a href="/setts/s13/dg16r2dg2r7dg31lb3k32r2db31r7db2r2db16~x2/"><circle cx="168.2" cy="143.4" r="4" fill="#3465a4"><title>Clanranald, MacDonald of</title></circle></a><a href="/setts/s11/o48k10db12k2o3k2db12k10o10k2ly3~x2/"><circle cx="259.4" cy="112.4" r="4" fill="#3465a4"><title>Brooks Brothers (Corporate)</title></circle></a><a href="/setts/s11/db1m1r5k1dg1k1dg1k5db10dg1r1~x4/"><circle cx="182.4" cy="147.3" r="4" fill="#3465a4"><title>Okada, Yayoi (Personal)</title></circle></a><a href="/setts/s10/dg3dp2dg2dp2dg2dp20k20dg22k1o3~x4/"><circle cx="239.7" cy="143.5" r="4" fill="#3465a4"><title>Urbino (Fashion)</title></circle></a><a href="/setts/s14/b22r2b2r6b2r2b38k46r2do42y2do2y2do15~x2/"><circle cx="195.0" cy="99.3" r="4" fill="#3465a4"><title>Applestone</title></circle></a><a href="/setts/s8/k35p2k3dp13g8w4g8dp8~x2/"><circle cx="243.8" cy="149.1" r="4" fill="#3465a4"><title>SheBoom</title></circle></a><circle cx="197.6" cy="138.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r24o4db6k6db60k40dr12k20o3dr8/

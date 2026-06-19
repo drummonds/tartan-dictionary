@@ -9,8 +9,14 @@ This was sourced from house-of-tartan.  It is a [4 band tartan](/bands/bands4/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1542
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacKinnon Hunting #2
+
 ## Thread count
-LN/2 T16 G16 R/2
+R/2 G16 T16 LN/2
 ![Sett](sett.png)
 
 ## Palette
@@ -25,7 +31,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/2 T16 G16 R/2 tartan")
+![Tartan detail](tartan.png "R/2 G16 T16 LN/2 tartan")
 
 ## Nearest tartans
 
@@ -40,12 +46,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Ballintrae Trade Tartan Tartan Number: 1541. Earliest known date: 1982 Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/dy10r5dy62dg40dy5g44r10/) — ΔT 1.66
 1. [MacKinnon, hunting](/setts/s7/g1o8g8r1g8o8w1~x4/) — ΔT 1.69
 1. [McMoosie Htg (Fashion)](/setts/s5/dy46g23b23r4ly4~x2/) — ΔT 1.70
-1. [Wilson's No.161](/setts/s4/t13r2g13r2~x2/) — ΔT 1.70
+1. [Wilson's No.161](/setts/s4/g13r2t13~x2/) — ΔT 1.70
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/r1dg8dy8w1~x2/"><circle cx="309.2" cy="277.8" r="4" fill="#3465a4"><title>MacKinnon Hunting #2</title></circle></a><a href="/setts/s4/r1g8o8w1~x2/"><circle cx="302.0" cy="267.8" r="4" fill="#3465a4"><title>MacKinnon, hunting</title></circle></a><a href="/setts/s4/g30lo3t8o25~x2/"><circle cx="295.1" cy="258.3" r="4" fill="#3465a4"><title>Dohmen Family (Zuid-Nederland)</title></circle></a><a href="/setts/s7/dy5r3dy31dg20dy3g22r5~x2/"><circle cx="261.8" cy="225.7" r="4" fill="#3465a4"><title>Ballantrae (Dalgety)</title></circle></a><a href="/setts/s7/g24r9g4dg19ly2dg6g7~x2/"><circle cx="303.6" cy="237.1" r="4" fill="#3465a4"><title>Doyle</title></circle></a><a href="/setts/s5/lo5y33dg33r6w2~x2/"><circle cx="306.0" cy="219.0" r="4" fill="#3465a4"><title>Symington</title></circle></a><a href="/setts/s7/dy10r5dy62dg40dy5g44r10/"><circle cx="270.4" cy="218.1" r="4" fill="#3465a4"><title>Ballintrae Trade Tartan Tartan Number: 1541. Earliest known date: 1982 Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/g1o8g8r1g8o8w1~x4/"><circle cx="335.3" cy="268.0" r="4" fill="#3465a4"><title>MacKinnon, hunting</title></circle></a><a href="/setts/s5/dy46g23b23r4ly4~x2/"><circle cx="283.5" cy="238.8" r="4" fill="#3465a4"><title>McMoosie Htg (Fashion)</title></circle></a><a href="/setts/s4/t13r2g13r2~x2/"><circle cx="289.9" cy="290.8" r="4" fill="#3465a4"><title>Wilson's No.161</title></circle></a><circle cx="305.7" cy="273.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/r1dg8dy8w1~x2/"><circle cx="309.1" cy="277.8" r="4" fill="#3465a4"><title>MacKinnon Hunting #2</title></circle></a><a href="/setts/s4/r1g8o8w1~x2/"><circle cx="301.8" cy="267.7" r="4" fill="#3465a4"><title>MacKinnon, hunting</title></circle></a><a href="/setts/s4/g30lo3t8o25~x2/"><circle cx="294.8" cy="258.3" r="4" fill="#3465a4"><title>Dohmen Family (Zuid-Nederland)</title></circle></a><a href="/setts/s7/dy5r3dy31dg20dy3g22r5~x2/"><circle cx="261.7" cy="225.8" r="4" fill="#3465a4"><title>Ballantrae (Dalgety)</title></circle></a><a href="/setts/s7/g24r9g4dg19ly2dg6g7~x2/"><circle cx="303.5" cy="237.1" r="4" fill="#3465a4"><title>Doyle</title></circle></a><a href="/setts/s5/lo5y33dg33r6w2~x2/"><circle cx="305.9" cy="219.0" r="4" fill="#3465a4"><title>Symington</title></circle></a><a href="/setts/s7/dy10r5dy62dg40dy5g44r10/"><circle cx="270.3" cy="218.1" r="4" fill="#3465a4"><title>Ballintrae Trade Tartan Tartan Number: 1541. Earliest known date: 1982 Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/g1o8g8r1g8o8w1~x4/"><circle cx="335.1" cy="268.0" r="4" fill="#3465a4"><title>MacKinnon, hunting</title></circle></a><a href="/setts/s5/dy46g23b23r4ly4~x2/"><circle cx="283.5" cy="238.9" r="4" fill="#3465a4"><title>McMoosie Htg (Fashion)</title></circle></a><a href="/setts/s4/g13r2t13~x2/"><circle cx="289.8" cy="290.6" r="4" fill="#3465a4"><title>Wilson's No.161</title></circle></a><circle cx="305.6" cy="273.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/r1g8dy8w1~x2/

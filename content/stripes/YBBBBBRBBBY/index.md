@@ -18,7 +18,7 @@ YBBBBBRBBBY
 
 
 
-### LO DO DB DO DB DO R DO DB DO LO <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LO DO DB DO DB DO R DO DB DO LO</span></span>
+### LO DO DB DO R DO DB DO DB DO LO <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LO DO DB DO R DO DB DO DB DO LO</span></span>
 
 | Tartans |
 |---------------|

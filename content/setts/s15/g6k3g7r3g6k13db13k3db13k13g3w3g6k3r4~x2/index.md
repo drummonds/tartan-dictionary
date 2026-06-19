@@ -2,12 +2,18 @@
 title: "MacRae"
 date: 2023-03-18
 ---
-**Bands:** [GKGRGKBKBKGWGKR](/stripes/gkgrgkbkbkgwgkr/) · **Stripes:** [G K G R G K DB K DB K G W G K R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">G K G R G K DB K DB K G W G K R</span></span>
+**Bands:** [RKGWGKBKBKGRGKG](/stripes/rkgwgkbkbkgrgkg/) · **Stripes:** [R K G W G K DB K DB K G R G K G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K G W G K DB K DB K G R G K G</span></span>
 
 
 This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacRae #2
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,8 +925,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db4o14k14g4db16g4o8g4db16g4k14o14db4b3~x2/"><circle cx="73.8" cy="204.6" r="4" fill="#3465a4"><title>Hinnigan (Personal)</title></circle></a><a href="/setts/s15/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3~x2/"><circle cx="104.7" cy="216.4" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/setts/s13/r3b10k10g10r3g10k10b2k2b2k2b5k2~x2/"><circle cx="108.5" cy="212.9" r="4" fill="#3465a4"><title>Blairgowrie High School S.A. (Corp)</title></circle></a><a href="/setts/s13/g8ly2g2k6g11r2k12k12r2k6ly2k4r3~x2/"><circle cx="93.7" cy="183.0" r="4" fill="#3465a4"><title>Mandela, Commemorative</title></circle></a><a href="/setts/s13/r3b10k10dg10r3dg10k10b2k2b2k2b5k2~x4/"><circle cx="115.1" cy="216.3" r="4" fill="#3465a4"><title>Blairgowrie High School (SA)</title></circle></a><a href="/setts/s18/db8o3db3o3db3o3db4g4k3g3k3g3k3g13r8g4db3k6~x2/"><circle cx="55.6" cy="197.2" r="4" fill="#3465a4"><title>Glasgow, Celtic Society</title></circle></a><a href="/setts/s13/db3k1db1k1db1k4g4w1g4k4db4k1db1~x2/"><circle cx="105.7" cy="229.4" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s14/g4k1g1k1g1k5db5r2db2r2db5g5k1g1~x2/"><circle cx="102.1" cy="210.9" r="4" fill="#3465a4"><title>MacLachlan, Hunting</title></circle></a><a href="/setts/s15/db13w2db2r2db2k12g12k2g3k2g12k12db12k2r3~x2/"><circle cx="97.9" cy="177.0" r="4" fill="#3465a4"><title>Scottish National</title></circle></a><a href="/setts/s14/r2db4k1db1k1db1k8g8ly2g8k8db8k1r2~x2/"><circle cx="106.3" cy="164.5" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><circle cx="69.4" cy="200.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db4o14k14g4db16g4o8g4db16g4k14o14db4b3~x2/"><circle cx="74.1" cy="204.7" r="4" fill="#3465a4"><title>Hinnigan (Personal)</title></circle></a><a href="/setts/s15/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3~x2/"><circle cx="104.9" cy="216.4" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/setts/s13/r3b10k10g10r3g10k10b2k2b2k2b5k2~x2/"><circle cx="108.7" cy="212.9" r="4" fill="#3465a4"><title>Blairgowrie High School S.A. (Corp)</title></circle></a><a href="/setts/s13/g8ly2g2k6g11r2k12k12r2k6ly2k4r3~x2/"><circle cx="93.9" cy="183.0" r="4" fill="#3465a4"><title>Mandela, Commemorative</title></circle></a><a href="/setts/s13/r3b10k10dg10r3dg10k10b2k2b2k2b5k2~x4/"><circle cx="115.3" cy="216.3" r="4" fill="#3465a4"><title>Blairgowrie High School (SA)</title></circle></a><a href="/setts/s18/db8o3db3o3db3o3db4g4k3g3k3g3k3g13r8g4db3k6~x2/"><circle cx="55.8" cy="197.3" r="4" fill="#3465a4"><title>Glasgow, Celtic Society</title></circle></a><a href="/setts/s13/db3k1db1k1db1k4g4w1g4k4db4k1db1~x2/"><circle cx="105.9" cy="229.3" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s14/g4k1g1k1g1k5db5r2db2r2db5g5k1g1~x2/"><circle cx="102.2" cy="210.9" r="4" fill="#3465a4"><title>MacLachlan, Hunting</title></circle></a><a href="/setts/s15/db13w2db2r2db2k12g12k2g3k2g12k12db12k2r3~x2/"><circle cx="98.2" cy="177.1" r="4" fill="#3465a4"><title>Scottish National</title></circle></a><a href="/setts/s14/r2db4k1db1k1db1k8g8ly2g8k8db8k1r2~x2/"><circle cx="106.4" cy="164.5" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><circle cx="69.6" cy="200.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/g6k3g7r3g6k13db13k3db13k13g3w3g6k3r4~x2/

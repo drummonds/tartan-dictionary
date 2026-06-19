@@ -25,7 +25,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-LT/4 Y4 LT42 T22 W4 K40 R/6
+R/6 K40 W4 T22 LT42 Y4 LT/4
 ![Sett](sett.png)
 
 ## Palette
@@ -42,7 +42,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LT/4 Y4 LT42 T22 W4 K40 R/6 tartan")
+![Tartan detail](tartan.png "R/6 K40 W4 T22 LT42 Y4 LT/4 tartan")
 
 ## Nearest tartans
 
@@ -50,7 +50,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Barbour - Classic](/setts/s7/o4ly2o21dy11w2k20r3~x2/) — ΔT 0.24
 1. [Barbour Corporate Tartan Tartan Number: 2489. Earliest known date: 1998 For the linings of Barbour's famous wax jackets. Tartan designed by Kinloch Anderson of Edinburgh. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/y4ly2y21do11w2k20r3~x2/) — ΔT 0.66
-1. [Sawyer](/setts/s8/g2lr1g10db1k4r8lb1r2~x4/) — ΔT 0.91
+1. [Sawyer](/setts/s8/r2lb1r8k4db1g10lr1g2~x4/) — ΔT 0.91
 1. [Scotch House 2000 Dress](/setts/s7/g22w3k2ly3k19r18db4~x2/) — ΔT 0.97
 1. [McMuldroch (2014)](/setts/s10/g19k18r18ly2w2dp2ly2w2r8dp3~x2/) — ΔT 0.98
 1. [Caledonian Brewery Corporate Tartan Tartan Number: 2315. Earliest known date: pre 1997 Designed by Kinloch Anderson Ltd to commemorate the opening of the new Caledonian Brewery Malting Building. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/lb4k13g6r16lb2r2g2~x2/) — ΔT 1.04
@@ -61,8 +61,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/o4ly2o21dy11w2k20r3~x2/"><circle cx="172.7" cy="160.5" r="4" fill="#3465a4"><title>Barbour - Classic</title></circle></a><a href="/setts/s7/y4ly2y21do11w2k20r3~x2/"><circle cx="176.2" cy="168.5" r="4" fill="#3465a4"><title>Barbour Corporate Tartan Tartan Number: 2489. Earliest known date: 1998 For the linings of Barbour's famous wax jackets. Tartan designed by Kinloch Anderson of Edinburgh. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/g2lr1g10db1k4r8lb1r2~x4/"><circle cx="191.2" cy="162.9" r="4" fill="#3465a4"><title>Sawyer</title></circle></a><a href="/setts/s7/g22w3k2ly3k19r18db4~x2/"><circle cx="112.7" cy="158.1" r="4" fill="#3465a4"><title>Scotch House 2000 Dress</title></circle></a><a href="/setts/s10/g19k18r18ly2w2dp2ly2w2r8dp3~x2/"><circle cx="119.3" cy="133.6" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s7/lb4k13g6r16lb2r2g2~x2/"><circle cx="172.2" cy="188.2" r="4" fill="#3465a4"><title>Caledonian Brewery Corporate Tartan Tartan Number: 2315. Earliest known date: pre 1997 Designed by Kinloch Anderson Ltd to commemorate the opening of the new Caledonian Brewery Malting Building. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r3n2r25o12k25w2lb2~x2/"><circle cx="186.6" cy="135.2" r="4" fill="#3465a4"><title>Bombeiros Voluntarios De Galicia (Co</title></circle></a><a href="/setts/s9/db3t1k1r12r1g9r1t1db3~x4/"><circle cx="196.9" cy="131.0" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/setts/s7/r1g4w1g4ly1r8t1~x6/"><circle cx="177.9" cy="171.7" r="4" fill="#3465a4"><title>George Watson's College</title></circle></a><a href="/setts/s7/w4dg20dg10r25b2r2dg2~x2/"><circle cx="203.1" cy="153.8" r="4" fill="#3465a4"><title>Caledonian Brewery (Corporate)</title></circle></a><circle cx="167.3" cy="156.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/o4ly2o21dy11w2k20r3~x2/"><circle cx="172.6" cy="160.6" r="4" fill="#3465a4"><title>Barbour - Classic</title></circle></a><a href="/setts/s7/y4ly2y21do11w2k20r3~x2/"><circle cx="176.3" cy="168.6" r="4" fill="#3465a4"><title>Barbour Corporate Tartan Tartan Number: 2489. Earliest known date: 1998 For the linings of Barbour's famous wax jackets. Tartan designed by Kinloch Anderson of Edinburgh. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r2lb1r8k4db1g10lr1g2~x4/"><circle cx="191.2" cy="163.0" r="4" fill="#3465a4"><title>Sawyer</title></circle></a><a href="/setts/s7/g22w3k2ly3k19r18db4~x2/"><circle cx="112.8" cy="158.2" r="4" fill="#3465a4"><title>Scotch House 2000 Dress</title></circle></a><a href="/setts/s10/g19k18r18ly2w2dp2ly2w2r8dp3~x2/"><circle cx="119.2" cy="133.7" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s7/lb4k13g6r16lb2r2g2~x2/"><circle cx="172.2" cy="188.2" r="4" fill="#3465a4"><title>Caledonian Brewery Corporate Tartan Tartan Number: 2315. Earliest known date: pre 1997 Designed by Kinloch Anderson Ltd to commemorate the opening of the new Caledonian Brewery Malting Building. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r3n2r25o12k25w2lb2~x2/"><circle cx="186.5" cy="135.3" r="4" fill="#3465a4"><title>Bombeiros Voluntarios De Galicia (Co</title></circle></a><a href="/setts/s9/db3t1k1r12r1g9r1t1db3~x4/"><circle cx="196.7" cy="131.1" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/setts/s7/r1g4w1g4ly1r8t1~x6/"><circle cx="177.8" cy="171.8" r="4" fill="#3465a4"><title>George Watson's College</title></circle></a><a href="/setts/s7/w4dg20dg10r25b2r2dg2~x2/"><circle cx="203.0" cy="153.8" r="4" fill="#3465a4"><title>Caledonian Brewery (Corporate)</title></circle></a><circle cx="167.3" cy="156.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r3k20w2dy11o21ly2o2~x2/

@@ -22,6 +22,6 @@ KWBRKRBRWBWRBRKRBWKY
 
 | Tartans |
 |---------------|
-| [Hart (Texas) (Personal)](/setts/s20/ly4k3w2db7r7k4r5db4r30w2db3w2r30db4r5k4r7db7w2k3~x2/)|
-|![Hart (Texas) (Personal) example sett](/setts/s20/ly4k3w2db7r7k4r5db4r30w2db3w2r30db4r5k4r7db7w2k3~x2/sett.png)|
+| [Hart (Texas) (Personal)](/setts/s20/ly4k3w2db7r7k4r5db4r30w2db3~x2/)|
+|![Hart (Texas) (Personal) example sett](/setts/s20/ly4k3w2db7r7k4r5db4r30w2db3~x2/sett.png)|
 

@@ -21,7 +21,7 @@ BKBKG
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### B K B K G <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">B K B K G</span></span>
+### G K B K B <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">G K B K B</span></span>
 
 | Tartans |
 |---------------|
@@ -30,7 +30,7 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 | [Campbell of Glenlyon Check (Clan)](/setts/s5/g7k6b7k1b2~x4/)|
 |![Campbell of Glenlyon Check (Clan) example sett](/setts/s5/g7k6b7k1b2~x4/sett.png)|
 
-### DB K DB K G <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB K DB K G</span></span>
+### G K DB K DB <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G K DB K DB</span></span>
 
 | Tartans |
 |---------------|

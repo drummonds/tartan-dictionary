@@ -2,7 +2,7 @@
 title: "Maine State"
 date: 2023-03-18
 ---
-**Bands:** [BRGBBBBBBRG](/stripes/brgbbbbbbrg/) · **Stripes:** [T R G DB T DB T DB T R G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">T R G DB T DB T DB T R G</span></span>
+**Bands:** [GRBBBBBBGRB](/stripes/grbbbbbbgrb/) · **Stripes:** [G R T DB T DB T DB G R T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">G R T DB T DB T DB G R T</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/4 R4 G66 DB4 B4 DB12 B4 DB4 B46 R4 G/4
+G/4 R4 B46 DB4 B4 DB12 B4 DB4 G66 R4 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -914,16 +917,16 @@ The nearest existing variants by ΔTartan distance.
 1. [MacOrrell](/setts/s9/db5ly2db17g14w1g1w1g4ly2~x2/) — ΔT 1.08
 1. [Pina (Corporate)](/setts/s16/g2db1t6db6g4r1g18db1g1r1g1db1g4db10t6db1~x4/) — ΔT 1.13
 1. [Tiger](/setts/s16/g2db1b6db10g4db1g1r1g1db1g18r1g4db6b6db1~x4/) — ΔT 1.13
-1. [Maine Dirigo](/setts/s13/db4lb1g4r2g14db2g1db1lb1db1lb13r1g1~x4/) — ΔT 1.23
+1. [Maine Dirigo](/setts/s13/db4lb1g4r2g14db2g1db1lb1db1lb13r1g1~x4/) — ΔT 1.22
 1. [Banff Centennial](/setts/s8/k1b1k1b12dg12k1dg1ly1~x4/) — ΔT 1.27
-1. [MacAuliffe Name Tartan Tartan Number: 2839. Earliest known date: 2005 The MacAuliffes are Irish in origin, being a branch of the powerful MacCarthys. The MacAuliffe's are descended from Auliffe Alainn (Humphrey the Dandy) MacCarthy, the son of Donough MacCarthy, the son of Murcharch MacCarthy, the son of Teige MacCarthy, who was King of Desmond (south Munster) from 1118 to 1124. The tartan is available from House of Tartan, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/g37w2g6db23ly6db2ly3db2ly3db2ly6db23g6w2~x2/) — ΔT 1.28
+1. [MacAuliffe Name Tartan Tartan Number: 2839. Earliest known date: 2005 The MacAuliffes are Irish in origin, being a branch of the powerful MacCarthys. The MacAuliffe's are descended from Auliffe Alainn (Humphrey the Dandy) MacCarthy, the son of Donough MacCarthy, the son of Murcharch MacCarthy, the son of Teige MacCarthy, who was King of Desmond (south Munster) from 1118 to 1124. The tartan is available from House of Tartan, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/g37w2g6db23ly6db2ly3db2~x2/) — ΔT 1.28
 1. [Chakraa (Fashion)](/setts/s11/k7t38g7k2g7k2g7lo21k3g4k3~x2/) — ΔT 1.28
 1. [Dunedin Chapter (Corporate)](/setts/s10/t39g3t3g20k3g20k3g3k20r3~x2/) — ΔT 1.30
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g2r2t21db2t2db6t2db2g33r2t2~x2/"><circle cx="317.2" cy="152.8" r="4" fill="#3465a4"><title>Maine State District Tartan Tartan Number: 502. Earliest known date: 1965 Maine tartan is the oldest of America's tartans. It was woven by the Maine Spinning Company which has now gone out of business. When the tartan was first introduced it was reported in the Glasgow Herald (30.12.65) that it had been 'duly accredited by the State of Maine'. The State archives, however, are unable to locate the authorization. It is now marketed by the Maine Tartan and Tweed company, who hold the copyright. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/dg2db2t23db2t2db6t2db2dg33r2t2~x2/"><circle cx="321.6" cy="155.2" r="4" fill="#3465a4"><title>Maine, Original State of (Fashion)</title></circle></a><a href="/setts/s9/db5ly2db17g14w1g1w1g4ly2~x2/"><circle cx="282.6" cy="161.0" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><a href="/setts/s16/g2db1t6db6g4r1g18db1g1r1g1db1g4db10t6db1~x4/"><circle cx="262.7" cy="135.4" r="4" fill="#3465a4"><title>Pina (Corporate)</title></circle></a><a href="/setts/s16/g2db1b6db10g4db1g1r1g1db1g18r1g4db6b6db1~x4/"><circle cx="265.6" cy="138.4" r="4" fill="#3465a4"><title>Tiger</title></circle></a><a href="/setts/s13/db4lb1g4r2g14db2g1db1lb1db1lb13r1g1~x4/"><circle cx="230.8" cy="131.5" r="4" fill="#3465a4"><title>Maine Dirigo</title></circle></a><a href="/setts/s8/k1b1k1b12dg12k1dg1ly1~x4/"><circle cx="276.1" cy="176.8" r="4" fill="#3465a4"><title>Banff Centennial</title></circle></a><a href="/setts/s14/g37w2g6db23ly6db2ly3db2ly3db2ly6db23g6w2~x2/"><circle cx="246.7" cy="127.0" r="4" fill="#3465a4"><title>MacAuliffe Name Tartan Tartan Number: 2839. Earliest known date: 2005 The MacAuliffes are Irish in origin, being a branch of the powerful MacCarthys. The MacAuliffe's are descended from Auliffe Alainn (Humphrey the Dandy) MacCarthy, the son of Donough MacCarthy, the son of Murcharch MacCarthy, the son of Teige MacCarthy, who was King of Desmond (south Munster) from 1118 to 1124. The tartan is available from House of Tartan, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/k7t38g7k2g7k2g7lo21k3g4k3~x2/"><circle cx="221.7" cy="147.0" r="4" fill="#3465a4"><title>Chakraa (Fashion)</title></circle></a><a href="/setts/s10/t39g3t3g20k3g20k3g3k20r3~x2/"><circle cx="231.6" cy="176.8" r="4" fill="#3465a4"><title>Dunedin Chapter (Corporate)</title></circle></a><circle cx="289.4" cy="141.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g2r2t21db2t2db6t2db2g33r2t2~x2/"><circle cx="316.9" cy="152.8" r="4" fill="#3465a4"><title>Maine State District Tartan Tartan Number: 502. Earliest known date: 1965 Maine tartan is the oldest of America's tartans. It was woven by the Maine Spinning Company which has now gone out of business. When the tartan was first introduced it was reported in the Glasgow Herald (30.12.65) that it had been 'duly accredited by the State of Maine'. The State archives, however, are unable to locate the authorization. It is now marketed by the Maine Tartan and Tweed company, who hold the copyright. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/dg2db2t23db2t2db6t2db2dg33r2t2~x2/"><circle cx="321.4" cy="155.2" r="4" fill="#3465a4"><title>Maine, Original State of (Fashion)</title></circle></a><a href="/setts/s9/db5ly2db17g14w1g1w1g4ly2~x2/"><circle cx="282.4" cy="160.8" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><a href="/setts/s16/g2db1t6db6g4r1g18db1g1r1g1db1g4db10t6db1~x4/"><circle cx="262.5" cy="135.4" r="4" fill="#3465a4"><title>Pina (Corporate)</title></circle></a><a href="/setts/s16/g2db1b6db10g4db1g1r1g1db1g18r1g4db6b6db1~x4/"><circle cx="265.5" cy="138.4" r="4" fill="#3465a4"><title>Tiger</title></circle></a><a href="/setts/s13/db4lb1g4r2g14db2g1db1lb1db1lb13r1g1~x4/"><circle cx="230.6" cy="131.5" r="4" fill="#3465a4"><title>Maine Dirigo</title></circle></a><a href="/setts/s8/k1b1k1b12dg12k1dg1ly1~x4/"><circle cx="276.0" cy="176.7" r="4" fill="#3465a4"><title>Banff Centennial</title></circle></a><a href="/setts/s14/g37w2g6db23ly6db2ly3db2~x2/"><circle cx="246.5" cy="126.9" r="4" fill="#3465a4"><title>MacAuliffe Name Tartan Tartan Number: 2839. Earliest known date: 2005 The MacAuliffes are Irish in origin, being a branch of the powerful MacCarthys. The MacAuliffe's are descended from Auliffe Alainn (Humphrey the Dandy) MacCarthy, the son of Donough MacCarthy, the son of Murcharch MacCarthy, the son of Teige MacCarthy, who was King of Desmond (south Munster) from 1118 to 1124. The tartan is available from House of Tartan, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/k7t38g7k2g7k2g7lo21k3g4k3~x2/"><circle cx="221.6" cy="147.0" r="4" fill="#3465a4"><title>Chakraa (Fashion)</title></circle></a><a href="/setts/s10/t39g3t3g20k3g20k3g3k20r3~x2/"><circle cx="231.5" cy="176.8" r="4" fill="#3465a4"><title>Dunedin Chapter (Corporate)</title></circle></a><circle cx="289.2" cy="141.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/g2r2t23db2t2db6t2db2g33r2t2~x2/

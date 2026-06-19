@@ -2,7 +2,7 @@
 title: "Hudson Bay Company Artifact"
 date: 2023-03-18
 ---
-**Bands:** [WBWBRYWBWYRRBRW](/stripes/wbwbrywbwyrrbrw/) · **Stripes:** [W B W DR O LY W DR W LY O O DR O W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W B W DR O LY W DR W LY O O DR O W</span></span>
+**Bands:** [WRBRRYWBWYRBWBW](/stripes/wrbrrywbwyrbwbw/) · **Stripes:** [W O DR O O LY W DR W LY O DR W B W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W O DR O O LY W DR W LY O DR W B W</span></span>
 
 
 This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 B4 LN4 DR6 LTa14 Y14 LN2 DR6 LN2 Y14 LT22 LTa6 DR22 LTa28 LN/18
+LN/18 LTa28 DR22 LTa6 LT22 Y14 LN2 DR6 LN2 Y14 LTa14 DR6 LN4 B4 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -909,16 +912,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Jacobite, dress](/setts/s17/r16dr4w6r6w20dr15g4o15w1dr3w1o5r6g4w3db3w3~x2/) — ΔT 0.97
 1. [Jacobite Dress](/setts/s17/r16dy4w6r6w20dy15dg4dy15w1dy3w1dy5r6dg4w3db3w3~x2/) — ΔT 0.98
 1. [Jacobite Dress General Tartan Tartan Number: 1665. Earliest known date: pre 2003 See Jacobite file for report on 2nd pivot. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s17/r16do4w6r6w20do15g4dy15w1do3w1dy5r6g4w3db3w3~x2/) — ΔT 0.99
-1. [Du Lion](/setts/s16/dy8db8dy3db1ly2dy10ly2db2ly15ly3k3ly15k1r3k8r8~x2/) — ΔT 1.00
+1. [Du Lion](/setts/s16/dy8db8dy3db1ly2dy10ly2db2ly15ly3k3ly15k1r3k8r8~x2/) — ΔT 1.01
 1. [Jacobite Silk sash](/setts/s10/w2r8dy5ly6w5dg21w6r8r4w2/) — ΔT 1.02
 1. [Dalrymple of Castleton](/setts/s14/lo2r15lo3dr2lo3k14lo2t6w2t6lo2r7t10w1~x2/) — ΔT 1.08
 1. [Buchanan #6](/setts/s11/ly30k2ly15r15w2r15db15dg15db4dg15db15~x2/) — ΔT 1.11
-1. [Wilson's No.227](/setts/s16/r26t7dp8ly3r3w3g20dp10w2dp10g20w3r3ly3dp8t7~x2/) — ΔT 1.13
+1. [Wilson's No.227](/setts/s16/r26t7dp8ly3r3w3g20dp10w2~x2/) — ΔT 1.13
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/w9dy14do11dy3lo11ly7w1do3w1ly7dy7do3w2t2w2~x2/"><circle cx="65.2" cy="112.2" r="4" fill="#3465a4"><title>Bonnie Prince Charlie (Hudson Bay)</title></circle></a><a href="/setts/s14/db4w2r6k1db12g4w2r6r6w2g8r2w16r4~x2/"><circle cx="79.3" cy="103.2" r="4" fill="#3465a4"><title>MacFarlane, dress</title></circle></a><a href="/setts/s17/r16dr4w6r6w20dr15g4o15w1dr3w1o5r6g4w3db3w3~x2/"><circle cx="93.5" cy="80.0" r="4" fill="#3465a4"><title>Jacobite, dress</title></circle></a><a href="/setts/s17/r16dy4w6r6w20dy15dg4dy15w1dy3w1dy5r6dg4w3db3w3~x2/"><circle cx="88.4" cy="79.9" r="4" fill="#3465a4"><title>Jacobite Dress</title></circle></a><a href="/setts/s17/r16do4w6r6w20do15g4dy15w1do3w1dy5r6g4w3db3w3~x2/"><circle cx="92.7" cy="80.2" r="4" fill="#3465a4"><title>Jacobite Dress General Tartan Tartan Number: 1665. Earliest known date: pre 2003 See Jacobite file for report on 2nd pivot. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/dy8db8dy3db1ly2dy10ly2db2ly15ly3k3ly15k1r3k8r8~x2/"><circle cx="38.6" cy="98.5" r="4" fill="#3465a4"><title>Du Lion</title></circle></a><a href="/setts/s10/w2r8dy5ly6w5dg21w6r8r4w2/"><circle cx="81.4" cy="132.9" r="4" fill="#3465a4"><title>Jacobite Silk sash</title></circle></a><a href="/setts/s14/lo2r15lo3dr2lo3k14lo2t6w2t6lo2r7t10w1~x2/"><circle cx="95.3" cy="107.6" r="4" fill="#3465a4"><title>Dalrymple of Castleton</title></circle></a><a href="/setts/s11/ly30k2ly15r15w2r15db15dg15db4dg15db15~x2/"><circle cx="79.7" cy="137.5" r="4" fill="#3465a4"><title>Buchanan #6</title></circle></a><a href="/setts/s16/r26t7dp8ly3r3w3g20dp10w2dp10g20w3r3ly3dp8t7~x2/"><circle cx="89.7" cy="110.4" r="4" fill="#3465a4"><title>Wilson's No.227</title></circle></a><circle cx="70.3" cy="112.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/w9dy14do11dy3lo11ly7w1do3w1ly7dy7do3w2t2w2~x2/"><circle cx="65.0" cy="112.3" r="4" fill="#3465a4"><title>Bonnie Prince Charlie (Hudson Bay)</title></circle></a><a href="/setts/s14/db4w2r6k1db12g4w2r6r6w2g8r2w16r4~x2/"><circle cx="79.1" cy="103.3" r="4" fill="#3465a4"><title>MacFarlane, dress</title></circle></a><a href="/setts/s17/r16dr4w6r6w20dr15g4o15w1dr3w1o5r6g4w3db3w3~x2/"><circle cx="93.3" cy="80.1" r="4" fill="#3465a4"><title>Jacobite, dress</title></circle></a><a href="/setts/s17/r16dy4w6r6w20dy15dg4dy15w1dy3w1dy5r6dg4w3db3w3~x2/"><circle cx="88.2" cy="80.0" r="4" fill="#3465a4"><title>Jacobite Dress</title></circle></a><a href="/setts/s17/r16do4w6r6w20do15g4dy15w1do3w1dy5r6g4w3db3w3~x2/"><circle cx="92.4" cy="80.3" r="4" fill="#3465a4"><title>Jacobite Dress General Tartan Tartan Number: 1665. Earliest known date: pre 2003 See Jacobite file for report on 2nd pivot. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/dy8db8dy3db1ly2dy10ly2db2ly15ly3k3ly15k1r3k8r8~x2/"><circle cx="38.5" cy="98.7" r="4" fill="#3465a4"><title>Du Lion</title></circle></a><a href="/setts/s10/w2r8dy5ly6w5dg21w6r8r4w2/"><circle cx="81.2" cy="133.0" r="4" fill="#3465a4"><title>Jacobite Silk sash</title></circle></a><a href="/setts/s14/lo2r15lo3dr2lo3k14lo2t6w2t6lo2r7t10w1~x2/"><circle cx="95.2" cy="107.7" r="4" fill="#3465a4"><title>Dalrymple of Castleton</title></circle></a><a href="/setts/s11/ly30k2ly15r15w2r15db15dg15db4dg15db15~x2/"><circle cx="79.5" cy="137.6" r="4" fill="#3465a4"><title>Buchanan #6</title></circle></a><a href="/setts/s16/r26t7dp8ly3r3w3g20dp10w2~x2/"><circle cx="89.6" cy="110.6" r="4" fill="#3465a4"><title>Wilson's No.227</title></circle></a><circle cx="70.1" cy="112.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/w9o14dr11o3o11ly7w1dr3w1ly7o7dr3w2b2w2~x2/

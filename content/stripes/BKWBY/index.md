@@ -20,7 +20,7 @@ BKWBY
 
 
 
-### B K LB P LG <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#82D67A"></span><span class="seq">B K LB P LG</span></span>
+### LG P LB K B <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LG P LB K B</span></span>
 
 | Tartans |
 |---------------|

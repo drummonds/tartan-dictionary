@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10327](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10327)
 
 ## Thread count
-R/2 LT6 N4 LT4 N16 LT88 W/4
+W/4 LT88 N16 LT4 N4 LT6 R/2
 ![Sett](sett.png)
 
 ## Palette
@@ -31,7 +31,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "R/2 LT6 N4 LT4 N16 LT88 W/4 tartan")
+![Tartan detail](tartan.png "W/4 LT88 N16 LT4 N4 LT6 R/2 tartan")
 
 ## Nearest tartans
 
@@ -50,8 +50,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w2lo44db8lo2db2lo3r1~x2/"><circle cx="590.3" cy="119.0" r="4" fill="#3465a4"><title>Reece (Name)</title></circle></a><a href="/setts/s7/db3y1w1y25w1y1p3~x2/"><circle cx="575.0" cy="154.0" r="4" fill="#3465a4"><title>St Giles, Check</title></circle></a><a href="/setts/s8/n70ly4n3ly4n7k2n2r7~x2/"><circle cx="626.0" cy="133.2" r="4" fill="#3465a4"><title>European</title></circle></a><a href="/setts/s7/db3o1w1o25w1o1dp3~x2/"><circle cx="558.0" cy="144.3" r="4" fill="#3465a4"><title>St Giles Check Tartan Tartan Number: 387. Earliest known date: 1984 St Giles Church is in the Royal Mile, Edinburgh See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/y40r8y4w2y4ly5~x2/"><circle cx="566.4" cy="187.8" r="4" fill="#3465a4"><title>Reid (1939)</title></circle></a><a href="/setts/s6/n65k2n4lr2n10r24~x2/"><circle cx="579.9" cy="186.6" r="4" fill="#3465a4"><title>Norsemen (Corporate)</title></circle></a><a href="/setts/s11/o5g1o32r1o8r9o2g2g3r3g1~x2/"><circle cx="539.7" cy="141.6" r="4" fill="#3465a4"><title>Portosalvo (Corporate)</title></circle></a><a href="/setts/s9/dy2lb2lo4dy5lo5dy46lo7dy1w2~x2/"><circle cx="551.8" cy="114.0" r="4" fill="#3465a4"><title>KIltwalk, The (Corporate)</title></circle></a><a href="/setts/s7/db3o1w1o25w1o1dp3~x4/"><circle cx="545.7" cy="137.9" r="4" fill="#3465a4"><title>St. Giles Check (Corporate)</title></circle></a><a href="/setts/s11/y40n3y8r2y2w2y10n6do2n2w2~x2/"><circle cx="539.3" cy="141.0" r="4" fill="#3465a4"><title>Spencer</title></circle></a><circle cx="626.0" cy="136.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w2lo44db8lo2db2lo3r1~x2/"><circle cx="589.6" cy="118.6" r="4" fill="#3465a4"><title>Reece (Name)</title></circle></a><a href="/setts/s7/db3y1w1y25w1y1p3~x2/"><circle cx="574.4" cy="153.7" r="4" fill="#3465a4"><title>St Giles, Check</title></circle></a><a href="/setts/s8/n70ly4n3ly4n7k2n2r7~x2/"><circle cx="626.0" cy="132.9" r="4" fill="#3465a4"><title>European</title></circle></a><a href="/setts/s7/db3o1w1o25w1o1dp3~x2/"><circle cx="557.5" cy="144.0" r="4" fill="#3465a4"><title>St Giles Check Tartan Tartan Number: 387. Earliest known date: 1984 St Giles Church is in the Royal Mile, Edinburgh See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/y40r8y4w2y4ly5~x2/"><circle cx="565.8" cy="187.6" r="4" fill="#3465a4"><title>Reid (1939)</title></circle></a><a href="/setts/s6/n65k2n4lr2n10r24~x2/"><circle cx="579.5" cy="186.5" r="4" fill="#3465a4"><title>Norsemen (Corporate)</title></circle></a><a href="/setts/s11/o5g1o32r1o8r9o2g2g3r3g1~x2/"><circle cx="539.1" cy="141.6" r="4" fill="#3465a4"><title>Portosalvo (Corporate)</title></circle></a><a href="/setts/s9/dy2lb2lo4dy5lo5dy46lo7dy1w2~x2/"><circle cx="551.2" cy="113.8" r="4" fill="#3465a4"><title>KIltwalk, The (Corporate)</title></circle></a><a href="/setts/s7/db3o1w1o25w1o1dp3~x4/"><circle cx="545.2" cy="137.6" r="4" fill="#3465a4"><title>St. Giles Check (Corporate)</title></circle></a><a href="/setts/s11/y40n3y8r2y2w2y10n6do2n2w2~x2/"><circle cx="538.7" cy="140.8" r="4" fill="#3465a4"><title>Spencer</title></circle></a><circle cx="626.0" cy="136.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/w2o44dt8o2dt2o3r1~x2/

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -905,21 +908,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Hose (Dunmore)](/setts/s3/lb13k1r13~x4/) — ΔT 0.72
+1. [Hose (Dunmore)](/setts/s3/r13k1lb13~x4/) — ΔT 0.72
 1. [MacRae of Conchra #2](/setts/s4/k5w37r37w5~x2/) — ΔT 1.59
-1. [Lewis, Magenta (Dance)](/setts/s4/lg4w35m31w4~x2/) — ΔT 1.78
+1. [Lewis, Magenta (Dance)](/setts/s4/w4m31w35lg4~x2/) — ΔT 1.78
 1. [Lewis, Red (Dance)](/setts/s4/r4w35r31w4~x2/) — ΔT 1.85
 1. [Malaysian Unknown (Artefact)](/setts/s5/lb45r2g9lb2r30~x2/) — ΔT 1.87
 1. [Buchanan #5](/setts/s6/k2w28r13w2r13w2~x2/) — ΔT 1.95
 1. [Masai Shuka 28 (Artefact)](/setts/s3/lb9r20db2~x2/) — ΔT 1.96
 1. [Masai Shuka 24 (Artefact)](/setts/s4/t15w2r20w3~x4/) — ΔT 1.97
-1. [Buchanan VS](/setts/s6/lb2r4lb2r4lb9k1/) — ΔT 2.01
+1. [Buchanan VS](/setts/s6/lb2r4lb2r4lb9k1~x2/) — ΔT 2.01
 1. [Ailsa, Red V2 (Dance)](/setts/s6/r8r3r28w32r3w4~x2/) — ΔT 2.06
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/lb13k1r13~x4/"><circle cx="305.8" cy="234.8" r="4" fill="#3465a4"><title>Hose (Dunmore)</title></circle></a><a href="/setts/s4/k5w37r37w5~x2/"><circle cx="281.8" cy="221.8" r="4" fill="#3465a4"><title>MacRae of Conchra #2</title></circle></a><a href="/setts/s4/lg4w35m31w4~x2/"><circle cx="307.4" cy="218.0" r="4" fill="#3465a4"><title>Lewis, Magenta (Dance)</title></circle></a><a href="/setts/s4/r4w35r31w4~x2/"><circle cx="349.6" cy="233.4" r="4" fill="#3465a4"><title>Lewis, Red (Dance)</title></circle></a><a href="/setts/s5/lb45r2g9lb2r30~x2/"><circle cx="336.2" cy="164.3" r="4" fill="#3465a4"><title>Malaysian Unknown (Artefact)</title></circle></a><a href="/setts/s6/k2w28r13w2r13w2~x2/"><circle cx="323.4" cy="170.9" r="4" fill="#3465a4"><title>Buchanan #5</title></circle></a><a href="/setts/s3/lb9r20db2~x2/"><circle cx="387.0" cy="238.8" r="4" fill="#3465a4"><title>Masai Shuka 28 (Artefact)</title></circle></a><a href="/setts/s4/t15w2r20w3~x4/"><circle cx="301.2" cy="230.5" r="4" fill="#3465a4"><title>Masai Shuka 24 (Artefact)</title></circle></a><a href="/setts/s6/lb2r4lb2r4lb9k1/"><circle cx="322.4" cy="205.9" r="4" fill="#3465a4"><title>Buchanan VS</title></circle></a><a href="/setts/s6/r8r3r28w32r3w4~x2/"><circle cx="293.5" cy="179.3" r="4" fill="#3465a4"><title>Ailsa, Red V2 (Dance)</title></circle></a><circle cx="317.2" cy="214.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/r13k1lb13~x4/"><circle cx="305.4" cy="234.5" r="4" fill="#3465a4"><title>Hose (Dunmore)</title></circle></a><a href="/setts/s4/k5w37r37w5~x2/"><circle cx="281.3" cy="221.5" r="4" fill="#3465a4"><title>MacRae of Conchra #2</title></circle></a><a href="/setts/s4/w4m31w35lg4~x2/"><circle cx="307.0" cy="217.6" r="4" fill="#3465a4"><title>Lewis, Magenta (Dance)</title></circle></a><a href="/setts/s4/r4w35r31w4~x2/"><circle cx="349.0" cy="233.0" r="4" fill="#3465a4"><title>Lewis, Red (Dance)</title></circle></a><a href="/setts/s5/lb45r2g9lb2r30~x2/"><circle cx="335.7" cy="164.0" r="4" fill="#3465a4"><title>Malaysian Unknown (Artefact)</title></circle></a><a href="/setts/s6/k2w28r13w2r13w2~x2/"><circle cx="322.9" cy="170.6" r="4" fill="#3465a4"><title>Buchanan #5</title></circle></a><a href="/setts/s3/lb9r20db2~x2/"><circle cx="386.5" cy="238.4" r="4" fill="#3465a4"><title>Masai Shuka 28 (Artefact)</title></circle></a><a href="/setts/s4/t15w2r20w3~x4/"><circle cx="300.9" cy="230.3" r="4" fill="#3465a4"><title>Masai Shuka 24 (Artefact)</title></circle></a><a href="/setts/s6/lb2r4lb2r4lb9k1~x2/"><circle cx="321.8" cy="205.5" r="4" fill="#3465a4"><title>Buchanan VS</title></circle></a><a href="/setts/s6/r8r3r28w32r3w4~x2/"><circle cx="293.0" cy="179.1" r="4" fill="#3465a4"><title>Ailsa, Red V2 (Dance)</title></circle></a><circle cx="316.7" cy="213.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/w37k2r36~x2/

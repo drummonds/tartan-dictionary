@@ -20,7 +20,7 @@ BRKBR
 
 
 
-### DP R K DP R <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="seq">DP R K DP R</span></span>
+### R DP K R DP <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DP K R DP</span></span>
 
 | Tartans |
 |---------------|

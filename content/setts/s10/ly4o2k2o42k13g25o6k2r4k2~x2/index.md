@@ -17,7 +17,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-K/4 R8 K4 N12 G50 K26 N84 K4 N4 Y/8
+Y/8 N4 K4 N84 K26 G50 N12 K4 R8 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -41,15 +41,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Gray, hunting](/setts/s11/k3w1g29y8r2y2r2y2r8g7k2~x2/) — ΔT 1.13
 1. [Ben Vorlich (Fashion)](/setts/s11/o68w3o3w8o3w3o24dt16o3dt20w3~x2/) — ΔT 1.14
 1. [Stirling University (Corporate)](/setts/s8/g22r3w1g2r3t16k3ly2~x4/) — ΔT 1.20
-1. [MacDowall](/setts/s12/ly3w12k3w3k3w3k7n48k7n3g14w3~x2/) — ΔT 1.20
+1. [MacDowall](/setts/s12/w3g14n3k7n48k7w3k3w3k3w12ly3~x2/) — ΔT 1.20
 1. [Stirling, University of Corporate Univ Tartan Tartan Number: 2297. Earliest known date: 1994 This is the accepted University design. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g22r3k1g2r3t16k3ly2~x4/) — ΔT 1.22
 1. [Dinwoodie (Name)](/setts/s10/dy12o2k2o42k13g25o6k2r4k10~x2/) — ΔT 1.23
 1. [Courtet-Meyer (Personal)](/setts/s14/k15w1k1w1k1w1k1g15r1g15lo2r5lo2w3~x2/) — ΔT 1.23
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly7o2k2o41k12g22o6k2r4k2~x2/"><circle cx="256.1" cy="115.6" r="4" fill="#3465a4"><title>Dinwiddie</title></circle></a><a href="/setts/s10/y7y2k2y41k12g22y6k2r4k2~x2/"><circle cx="248.7" cy="115.3" r="4" fill="#3465a4"><title>Dinwiddie</title></circle></a><a href="/setts/s9/g71k4r4db9r4db4r36db4w4/"><circle cx="298.2" cy="118.4" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/setts/s11/k3w1g29y8r2y2r2y2r8g7k2~x2/"><circle cx="312.9" cy="105.2" r="4" fill="#3465a4"><title>Gray, hunting</title></circle></a><a href="/setts/s11/o68w3o3w8o3w3o24dt16o3dt20w3~x2/"><circle cx="269.1" cy="101.7" r="4" fill="#3465a4"><title>Ben Vorlich (Fashion)</title></circle></a><a href="/setts/s8/g22r3w1g2r3t16k3ly2~x4/"><circle cx="250.7" cy="123.9" r="4" fill="#3465a4"><title>Stirling University (Corporate)</title></circle></a><a href="/setts/s12/ly3w12k3w3k3w3k7n48k7n3g14w3~x2/"><circle cx="225.3" cy="103.9" r="4" fill="#3465a4"><title>MacDowall</title></circle></a><a href="/setts/s8/g22r3k1g2r3t16k3ly2~x4/"><circle cx="250.6" cy="124.7" r="4" fill="#3465a4"><title>Stirling, University of Corporate Univ Tartan Tartan Number: 2297. Earliest known date: 1994 This is the accepted University design. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/dy12o2k2o42k13g25o6k2r4k10~x2/"><circle cx="229.2" cy="135.7" r="4" fill="#3465a4"><title>Dinwoodie (Name)</title></circle></a><a href="/setts/s14/k15w1k1w1k1w1k1g15r1g15lo2r5lo2w3~x2/"><circle cx="214.7" cy="101.5" r="4" fill="#3465a4"><title>Courtet-Meyer (Personal)</title></circle></a><circle cx="267.5" cy="115.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly7o2k2o41k12g22o6k2r4k2~x2/"><circle cx="255.8" cy="115.5" r="4" fill="#3465a4"><title>Dinwiddie</title></circle></a><a href="/setts/s10/y7y2k2y41k12g22y6k2r4k2~x2/"><circle cx="248.5" cy="115.2" r="4" fill="#3465a4"><title>Dinwiddie</title></circle></a><a href="/setts/s9/g71k4r4db9r4db4r36db4w4/"><circle cx="297.9" cy="118.3" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/setts/s11/k3w1g29y8r2y2r2y2r8g7k2~x2/"><circle cx="312.6" cy="105.1" r="4" fill="#3465a4"><title>Gray, hunting</title></circle></a><a href="/setts/s11/o68w3o3w8o3w3o24dt16o3dt20w3~x2/"><circle cx="268.8" cy="101.7" r="4" fill="#3465a4"><title>Ben Vorlich (Fashion)</title></circle></a><a href="/setts/s8/g22r3w1g2r3t16k3ly2~x4/"><circle cx="250.5" cy="124.0" r="4" fill="#3465a4"><title>Stirling University (Corporate)</title></circle></a><a href="/setts/s12/w3g14n3k7n48k7w3k3w3k3w12ly3~x2/"><circle cx="225.1" cy="103.8" r="4" fill="#3465a4"><title>MacDowall</title></circle></a><a href="/setts/s8/g22r3k1g2r3t16k3ly2~x4/"><circle cx="250.4" cy="124.7" r="4" fill="#3465a4"><title>Stirling, University of Corporate Univ Tartan Tartan Number: 2297. Earliest known date: 1994 This is the accepted University design. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/dy12o2k2o42k13g25o6k2r4k10~x2/"><circle cx="229.1" cy="135.8" r="4" fill="#3465a4"><title>Dinwoodie (Name)</title></circle></a><a href="/setts/s14/k15w1k1w1k1w1k1g15r1g15lo2r5lo2w3~x2/"><circle cx="214.4" cy="101.4" r="4" fill="#3465a4"><title>Courtet-Meyer (Personal)</title></circle></a><circle cx="267.2" cy="115.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/ly4o2k2o42k13g25o6k2r4k2~x2/

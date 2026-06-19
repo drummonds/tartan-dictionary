@@ -21,14 +21,14 @@ BBBKY
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DT B DT K LO <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DT B DT K LO</span></span>
+### LO K DT B DT <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="seq">LO K DT B DT</span></span>
 
 | Tartans |
 |---------------|
 | [Burnett's & Struth (Corporate)](/setts/s5/dt68b7dt16k16lo4~x2/)|
 |![Burnett's & Struth (Corporate) example sett](/setts/s5/dt68b7dt16k16lo4~x2/sett.png)|
 
-### DT T DT K LO <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DT T DT K LO</span></span>
+### LO K DT T DT <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="seq">LO K DT T DT</span></span>
 
 | Tartans |
 |---------------|

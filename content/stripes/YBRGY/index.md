@@ -20,7 +20,7 @@ YBRGY
 
 
 
-### LY DP O DG LY <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY DP O DG LY</span></span>
+### LY DG O DP LY <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY DG O DP LY</span></span>
 
 | Tartans |
 |---------------|

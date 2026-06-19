@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/5 B6 R11 G32 LN2 B6 LN2 R/56
+R/56 LN2 B6 LN2 G32 R11 B6 LN/5
 ![Sett](sett.png)
 
 ## Palette
@@ -907,27 +910,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/5 B6 R11 G32 LN2 B6 LN2 R/56 tartan")
+![Tartan detail](tartan.png "R/56 LN2 B6 LN2 G32 R11 B6 LN/5 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Chisholm](/setts/s10/r6w1r24db6g2db1g2db1g12r1~x2/) — ΔT 0.76
-1. [Scott - 1842 (Clan)](/setts/s10/g4r3k1r28g14r4g4w3g4r4~x2/) — ΔT 0.86
+1. [Scott - 1842 (Clan)](/setts/s10/r4g4w3g4r4g14r28k1r3g4~x2/) — ΔT 0.86
 1. [Buccleuch](/setts/s7/r107k9r5db41r5g51r14/) — ΔT 0.87
 1. [MacDonell of Keppoch (artefact)](/setts/s11/r6db1r1dg28r4db8w1r32dg1r4dg2~x2/) — ΔT 0.94
 1. [Carrick](/setts/s9/r28db12r3g20p1g2p1g2r7~x2/) — ΔT 0.94
 1. [MacDonell of Keppoch](/setts/s10/g2r2db1r24t1db6r3g12r4db1~x2/) — ΔT 0.98
-1. [Scott](/setts/s10/dg4r3k1r28dg14r4dg4lb3dg4r4/) — ΔT 0.98
+1. [Scott](/setts/s10/dg4r3k1r28dg14r4dg4lb3dg4r4~x2/) — ΔT 0.98
 1. [Carrick](/setts/s9/r28db12r3g20m1g2m1g2r7~x2/) — ΔT 0.99
-1. [Menzies](/setts/s8/r12g9w1t3r24t3w1g9~x8/) — ΔT 0.99
+1. [Menzies](/setts/s8/r24t3w1g9r12~x8/) — ΔT 0.99
 1. [Carrick (Clan)](/setts/s9/r28db12r3g20dp1g2dp1g2r7~x2/) — ΔT 1.00
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r6w1r24db6g2db1g2db1g12r1~x2/"><circle cx="365.1" cy="123.1" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s10/g4r3k1r28g14r4g4w3g4r4~x2/"><circle cx="382.2" cy="123.5" r="4" fill="#3465a4"><title>Scott - 1842 (Clan)</title></circle></a><a href="/setts/s7/r107k9r5db41r5g51r14/"><circle cx="352.5" cy="153.5" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/setts/s11/r6db1r1dg28r4db8w1r32dg1r4dg2~x2/"><circle cx="375.4" cy="104.3" r="4" fill="#3465a4"><title>MacDonell of Keppoch (artefact)</title></circle></a><a href="/setts/s9/r28db12r3g20p1g2p1g2r7~x2/"><circle cx="338.5" cy="137.5" r="4" fill="#3465a4"><title>Carrick</title></circle></a><a href="/setts/s10/g2r2db1r24t1db6r3g12r4db1~x2/"><circle cx="396.1" cy="130.3" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s10/dg4r3k1r28dg14r4dg4lb3dg4r4/"><circle cx="384.0" cy="124.9" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s9/r28db12r3g20m1g2m1g2r7~x2/"><circle cx="337.9" cy="136.3" r="4" fill="#3465a4"><title>Carrick</title></circle></a><a href="/setts/s8/r12g9w1t3r24t3w1g9~x8/"><circle cx="374.5" cy="155.0" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s9/r28db12r3g20dp1g2dp1g2r7~x2/"><circle cx="336.1" cy="135.9" r="4" fill="#3465a4"><title>Carrick (Clan)</title></circle></a><circle cx="360.8" cy="124.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r6w1r24db6g2db1g2db1g12r1~x2/"><circle cx="364.7" cy="123.0" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s10/r4g4w3g4r4g14r28k1r3g4~x2/"><circle cx="381.8" cy="123.4" r="4" fill="#3465a4"><title>Scott - 1842 (Clan)</title></circle></a><a href="/setts/s7/r107k9r5db41r5g51r14/"><circle cx="352.2" cy="153.4" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/setts/s11/r6db1r1dg28r4db8w1r32dg1r4dg2~x2/"><circle cx="374.9" cy="104.2" r="4" fill="#3465a4"><title>MacDonell of Keppoch (artefact)</title></circle></a><a href="/setts/s9/r28db12r3g20p1g2p1g2r7~x2/"><circle cx="338.1" cy="137.4" r="4" fill="#3465a4"><title>Carrick</title></circle></a><a href="/setts/s10/g2r2db1r24t1db6r3g12r4db1~x2/"><circle cx="395.6" cy="130.2" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s10/dg4r3k1r28dg14r4dg4lb3dg4r4~x2/"><circle cx="383.6" cy="124.8" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s9/r28db12r3g20m1g2m1g2r7~x2/"><circle cx="337.6" cy="136.2" r="4" fill="#3465a4"><title>Carrick</title></circle></a><a href="/setts/s8/r24t3w1g9r12~x8/"><circle cx="374.1" cy="154.9" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s9/r28db12r3g20dp1g2dp1g2r7~x2/"><circle cx="335.8" cy="135.8" r="4" fill="#3465a4"><title>Carrick (Clan)</title></circle></a><circle cx="360.3" cy="123.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r56w2db6w2g32r11db6w5/

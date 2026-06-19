@@ -35,21 +35,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Stirling, Bannockburn dress](/setts/s10/ly5w3t28r5k21r5t3r5w28r5~x2/) — ΔT 0.77
-1. [Cameron of Erracht Dress](/setts/s11/ly2k2r2db10r1k9w9r2w2r1w2~x2/) — ΔT 0.77
-1. [Andreou Family (Personal)](/setts/s11/ly1k2r1k2db8k2r1k2w8k2r1~x4/) — ΔT 0.83
+1. [Stirling, Bannockburn dress](/setts/s10/r5w28r5t3r5k21r5t28w3ly5~x2/) — ΔT 0.77
+1. [Cameron of Erracht Dress](/setts/s11/w2r1w2r2w9k9r1db10r2k2ly2~x2/) — ΔT 0.77
+1. [Andreou Family (Personal)](/setts/s11/r1k2w8k2r1k2db8k2r1k2ly1~x4/) — ΔT 0.83
 1. [Oliver, dress](/setts/s9/w5g3r3g3r3db20r16w21k3~x2/) — ΔT 0.89
 1. [Kinloch Anderson Dress](/setts/s12/r8w30y5w8y5k12w6k12db28r4db8r8/) — ΔT 1.02
 1. [Ailsa, Craig](/setts/s8/r5w2db20ly2k16w18k2w5~x2/) — ΔT 1.04
 1. [Kervegant, Suzanne (Personal)](/setts/s10/g6db11lb8k4lb8r4lb8k27lb4r4~x2/) — ΔT 1.10
 1. [Culloden, Stirling](/setts/s8/r4o2b15ly2k14w14k2w4~x2/) — ΔT 1.11
-1. [Thom(p)son](/setts/s10/ly1db9k1w4k1w2k2w2k1r1~x4/) — ΔT 1.12
+1. [Thom(p)son](/setts/s10/r1k1w2k2w2k1w4k1db9ly1~x4/) — ΔT 1.12
 1. [Pengelly, The Cornish (Name)](/setts/s7/lb5k26ly4lb24dp8k3r4~x2/) — ΔT 1.15
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly5w3t28r5k21r5t3r5w28r5~x2/"><circle cx="82.2" cy="134.9" r="4" fill="#3465a4"><title>Stirling, Bannockburn dress</title></circle></a><a href="/setts/s11/ly2k2r2db10r1k9w9r2w2r1w2~x2/"><circle cx="88.1" cy="130.2" r="4" fill="#3465a4"><title>Cameron of Erracht Dress</title></circle></a><a href="/setts/s11/ly1k2r1k2db8k2r1k2w8k2r1~x4/"><circle cx="105.0" cy="145.0" r="4" fill="#3465a4"><title>Andreou Family (Personal)</title></circle></a><a href="/setts/s9/w5g3r3g3r3db20r16w21k3~x2/"><circle cx="110.8" cy="154.6" r="4" fill="#3465a4"><title>Oliver, dress</title></circle></a><a href="/setts/s12/r8w30y5w8y5k12w6k12db28r4db8r8/"><circle cx="66.5" cy="151.4" r="4" fill="#3465a4"><title>Kinloch Anderson Dress</title></circle></a><a href="/setts/s8/r5w2db20ly2k16w18k2w5~x2/"><circle cx="116.9" cy="154.1" r="4" fill="#3465a4"><title>Ailsa, Craig</title></circle></a><a href="/setts/s10/g6db11lb8k4lb8r4lb8k27lb4r4~x2/"><circle cx="108.2" cy="168.6" r="4" fill="#3465a4"><title>Kervegant, Suzanne (Personal)</title></circle></a><a href="/setts/s8/r4o2b15ly2k14w14k2w4~x2/"><circle cx="62.0" cy="148.2" r="4" fill="#3465a4"><title>Culloden, Stirling</title></circle></a><a href="/setts/s10/ly1db9k1w4k1w2k2w2k1r1~x4/"><circle cx="132.9" cy="138.8" r="4" fill="#3465a4"><title>Thom(p)son</title></circle></a><a href="/setts/s7/lb5k26ly4lb24dp8k3r4~x2/"><circle cx="152.7" cy="162.3" r="4" fill="#3465a4"><title>Pengelly, The Cornish (Name)</title></circle></a><circle cx="95.6" cy="150.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r5w28r5t3r5k21r5t28w3ly5~x2/"><circle cx="82.1" cy="134.9" r="4" fill="#3465a4"><title>Stirling, Bannockburn dress</title></circle></a><a href="/setts/s11/w2r1w2r2w9k9r1db10r2k2ly2~x2/"><circle cx="88.0" cy="130.2" r="4" fill="#3465a4"><title>Cameron of Erracht Dress</title></circle></a><a href="/setts/s11/r1k2w8k2r1k2db8k2r1k2ly1~x4/"><circle cx="105.0" cy="145.0" r="4" fill="#3465a4"><title>Andreou Family (Personal)</title></circle></a><a href="/setts/s9/w5g3r3g3r3db20r16w21k3~x2/"><circle cx="110.6" cy="154.6" r="4" fill="#3465a4"><title>Oliver, dress</title></circle></a><a href="/setts/s12/r8w30y5w8y5k12w6k12db28r4db8r8/"><circle cx="66.5" cy="151.4" r="4" fill="#3465a4"><title>Kinloch Anderson Dress</title></circle></a><a href="/setts/s8/r5w2db20ly2k16w18k2w5~x2/"><circle cx="116.9" cy="154.0" r="4" fill="#3465a4"><title>Ailsa, Craig</title></circle></a><a href="/setts/s10/g6db11lb8k4lb8r4lb8k27lb4r4~x2/"><circle cx="108.2" cy="168.6" r="4" fill="#3465a4"><title>Kervegant, Suzanne (Personal)</title></circle></a><a href="/setts/s8/r4o2b15ly2k14w14k2w4~x2/"><circle cx="62.0" cy="148.2" r="4" fill="#3465a4"><title>Culloden, Stirling</title></circle></a><a href="/setts/s10/r1k1w2k2w2k1w4k1db9ly1~x4/"><circle cx="132.8" cy="138.8" r="4" fill="#3465a4"><title>Thom(p)son</title></circle></a><a href="/setts/s7/lb5k26ly4lb24dp8k3r4~x2/"><circle cx="152.6" cy="162.2" r="4" fill="#3465a4"><title>Pengelly, The Cornish (Name)</title></circle></a><circle cx="95.5" cy="150.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/k1w7r6db7r1g1r1g1w1~x4/

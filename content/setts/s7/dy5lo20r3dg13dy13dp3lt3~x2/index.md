@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7821
 
 ## Thread count
-LB/6 DP6 T26 DG26 DR6 LT40 T/10
+T/10 LT40 DR6 DG26 T26 DP6 LB/6
 ![Sett](sett.png)
 
 ## Palette
@@ -34,7 +34,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LB/6 DP6 T26 DG26 DR6 LT40 T/10 tartan")
+![Tartan detail](tartan.png "T/10 LT40 DR6 DG26 T26 DP6 LB/6 tartan")
 
 ## Nearest tartans
 
@@ -53,8 +53,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/dy5lo20r3dg13dy13db3g3~x2/"><circle cx="149.1" cy="215.3" r="4" fill="#3465a4"><title>Christmas Hill Game Farm (Corporate)</title></circle></a><a href="/setts/s7/k2m15dy15g15r2g3ly2~x2/"><circle cx="163.6" cy="200.4" r="4" fill="#3465a4"><title>Crossbill</title></circle></a><a href="/setts/s7/g21t21ly3r21n3dp5n3~x2/"><circle cx="112.3" cy="193.4" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/setts/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/"><circle cx="109.2" cy="204.7" r="4" fill="#3465a4"><title>Corcoran of Sherbrooke (Personal)</title></circle></a><a href="/setts/s9/r1dy7db3g1o3g1db3g7w1~x4/"><circle cx="130.0" cy="196.1" r="4" fill="#3465a4"><title>Adamson (Personal)</title></circle></a><a href="/setts/s9/t4dy27lo8k4lo8k4lo8r11ly3~x2/"><circle cx="152.6" cy="169.6" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><a href="/setts/s7/g4n12lo2k10y10lo3y2~x2/"><circle cx="104.7" cy="228.6" r="4" fill="#3465a4"><title>Rothesay</title></circle></a><a href="/setts/s9/dy3o2dg19o6dg2o6lo14r4w2~x2/"><circle cx="151.9" cy="164.5" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society</title></circle></a><a href="/setts/s12/dg4o2dg8do8y2o8y16k2do5o2y5lo2~x2/"><circle cx="141.9" cy="178.1" r="4" fill="#3465a4"><title>Blaylock Hunting (Name)</title></circle></a><a href="/setts/s9/dy2o2dg19o6dg2o6lo14r4w2~x2/"><circle cx="157.6" cy="162.0" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society (Corp)</title></circle></a><circle cx="134.7" cy="206.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/dy5lo20r3dg13dy13db3g3~x2/"><circle cx="149.1" cy="215.5" r="4" fill="#3465a4"><title>Christmas Hill Game Farm (Corporate)</title></circle></a><a href="/setts/s7/k2m15dy15g15r2g3ly2~x2/"><circle cx="163.6" cy="200.6" r="4" fill="#3465a4"><title>Crossbill</title></circle></a><a href="/setts/s7/g21t21ly3r21n3dp5n3~x2/"><circle cx="112.3" cy="193.6" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/setts/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/"><circle cx="109.2" cy="204.9" r="4" fill="#3465a4"><title>Corcoran of Sherbrooke (Personal)</title></circle></a><a href="/setts/s9/r1dy7db3g1o3g1db3g7w1~x4/"><circle cx="130.1" cy="196.3" r="4" fill="#3465a4"><title>Adamson (Personal)</title></circle></a><a href="/setts/s9/t4dy27lo8k4lo8k4lo8r11ly3~x2/"><circle cx="152.5" cy="169.8" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><a href="/setts/s7/g4n12lo2k10y10lo3y2~x2/"><circle cx="104.8" cy="228.7" r="4" fill="#3465a4"><title>Rothesay</title></circle></a><a href="/setts/s9/dy3o2dg19o6dg2o6lo14r4w2~x2/"><circle cx="151.8" cy="164.6" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society</title></circle></a><a href="/setts/s12/dg4o2dg8do8y2o8y16k2do5o2y5lo2~x2/"><circle cx="141.9" cy="178.3" r="4" fill="#3465a4"><title>Blaylock Hunting (Name)</title></circle></a><a href="/setts/s9/dy2o2dg19o6dg2o6lo14r4w2~x2/"><circle cx="157.6" cy="162.1" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society (Corp)</title></circle></a><circle cx="134.7" cy="206.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/dy5lo20r3dg13dy13dp3lt3~x2/

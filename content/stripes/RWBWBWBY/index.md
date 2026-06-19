@@ -8,7 +8,7 @@ RWBWBWBY
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/ly2db6w2db9w9db2w6r2~x4/tartan.png)
+![Woven sample](/setts/s8/r2w6db2w9db9w2db6ly2~x4/tartan.png)
 
 
 
@@ -24,8 +24,8 @@ RWBWBWBY
 
 | Tartans |
 |---------------|
-| [North Vancouver Island](/setts/s8/ly2db6w2db9w9db2w6r2~x4/)|
-|![North Vancouver Island example sett](/setts/s8/ly2db6w2db9w9db2w6r2~x4/sett.png)|
-| [North Vancouver, Island](/setts/s8/ly2db6w2db9w9db2w6r2~x2/)|
-|![North Vancouver, Island example sett](/setts/s8/ly2db6w2db9w9db2w6r2~x2/sett.png)|
+| [North Vancouver Island](/setts/s8/r2w6db2w9db9w2db6ly2~x4/)|
+|![North Vancouver Island example sett](/setts/s8/r2w6db2w9db9w2db6ly2~x4/sett.png)|
+| [North Vancouver, Island](/setts/s8/r2w6db2w9db9w2db6ly2~x2/)|
+|![North Vancouver, Island example sett](/setts/s8/r2w6db2w9db9w2db6ly2~x2/sett.png)|
 

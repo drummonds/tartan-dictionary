@@ -2,12 +2,18 @@
 title: "Unidentified, fragment"
 date: 2023-03-18
 ---
-**Bands:** [BKRKBKGKGYGKGKBKWK](/stripes/bkrkbkgkgygkgkbkwk/) · **Stripes:** [P K R K P K G K G LY G K G K P K W K](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">P K R K P K G K G LY G K G K P K W K</span></span>
+**Bands:** [KWKBKGKGYGKGKBKRKB](/stripes/kwkbkgkgygkgkbkrkb/) · **Stripes:** [K W K P K G K G LY G K G K P K R K P](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">K W K P K G K G LY G K G K P K R K P</span></span>
 
 
 This was sourced from weddslist.  It is a [18 band tartan](/bands/bands18/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified, fragment
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/12 LN12 K12 P12 K38 G38 K12 G38 Y12 G38 K12 G38 K38 P12 K12 R12 K12 P/94
+P/94 K12 R12 K12 P12 K38 G38 K12 G38 Y12 G38 K12 G38 K38 P12 K12 LN12 K/12
 ![Sett](sett.png)
 
 ## Palette
@@ -912,13 +921,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Ferrazza in Guidonia, Rome (Personal)](/setts/s23/db16k16dg2k2dg2k2dg16k2dg2k2dg2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/) — ΔT 1.08
 1. [Ferrazza (Personal)](/setts/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/) — ΔT 1.09
 1. [Cunningham, hunting](/setts/s17/db10k1g1k1g1k1db10r3k10r3g10k1ly1k1w1k1g10~x2/) — ΔT 1.10
-1. [Malcolm](/setts/s15/db2g1db6k6g6k1ly1k1t1k1g6k6db6r1db2~x4/) — ΔT 1.14
+1. [Malcolm](/setts/s15/db2r1db6k6g6k1t1k1ly1k1g6k6db6g1db2~x4/) — ΔT 1.14
 1. [Farquharson Dress](/setts/s13/w6k1w1k1w1k8g8lo2g8k8db8k1r2~x2/) — ΔT 1.15
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s21/r4g4r1k7r1k1t1r1k7r1g4r4t1db4r1g7ly1g7r1db4t1~x4/"><circle cx="71.5" cy="135.8" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/setts/s18/dt7k2dt7w1k2w1k8dg2w3r10w3dg2k8w1dt11k2lr3k2~x2/"><circle cx="74.8" cy="120.1" r="4" fill="#3465a4"><title>Bell (2015)</title></circle></a><a href="/setts/s21/db6ly1db1g1db1g1db1g5k1g1k1g1k1g1k1g6r5db2r2db1r5~x4/"><circle cx="83.2" cy="131.0" r="4" fill="#3465a4"><title>Recovery</title></circle></a><a href="/setts/s21/o16r2o2r2o2k16dg2b2dg2b2dg10r2g10b2g2b2g2k16o15r2o2~x2/"><circle cx="75.7" cy="107.9" r="4" fill="#3465a4"><title>Cherry Valley New York</title></circle></a><a href="/setts/s14/k1ly1k1g6k6db6r1db1r1db6k6g6k1t1~x4/"><circle cx="80.8" cy="162.8" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><a href="/setts/s23/db16k16dg2k2dg2k2dg16k2dg2k2dg2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/"><circle cx="109.2" cy="111.2" r="4" fill="#3465a4"><title>Ferrazza in Guidonia, Rome (Personal)</title></circle></a><a href="/setts/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/"><circle cx="104.6" cy="106.4" r="4" fill="#3465a4"><title>Ferrazza (Personal)</title></circle></a><a href="/setts/s17/db10k1g1k1g1k1db10r3k10r3g10k1ly1k1w1k1g10~x2/"><circle cx="107.8" cy="114.9" r="4" fill="#3465a4"><title>Cunningham, hunting</title></circle></a><a href="/setts/s15/db2g1db6k6g6k1ly1k1t1k1g6k6db6r1db2~x4/"><circle cx="83.0" cy="165.0" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><a href="/setts/s13/w6k1w1k1w1k8g8lo2g8k8db8k1r2~x2/"><circle cx="70.3" cy="146.2" r="4" fill="#3465a4"><title>Farquharson Dress</title></circle></a><circle cx="84.4" cy="130.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s21/r4g4r1k7r1k1t1r1k7r1g4r4t1db4r1g7ly1g7r1db4t1~x4/"><circle cx="71.6" cy="136.0" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/setts/s18/dt7k2dt7w1k2w1k8dg2w3r10w3dg2k8w1dt11k2lr3k2~x2/"><circle cx="75.0" cy="120.2" r="4" fill="#3465a4"><title>Bell (2015)</title></circle></a><a href="/setts/s21/db6ly1db1g1db1g1db1g5k1g1k1g1k1g1k1g6r5db2r2db1r5~x4/"><circle cx="83.2" cy="131.1" r="4" fill="#3465a4"><title>Recovery</title></circle></a><a href="/setts/s21/o16r2o2r2o2k16dg2b2dg2b2dg10r2g10b2g2b2g2k16o15r2o2~x2/"><circle cx="75.8" cy="108.0" r="4" fill="#3465a4"><title>Cherry Valley New York</title></circle></a><a href="/setts/s14/k1ly1k1g6k6db6r1db1r1db6k6g6k1t1~x4/"><circle cx="81.0" cy="162.9" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><a href="/setts/s23/db16k16dg2k2dg2k2dg16k2dg2k2dg2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/"><circle cx="109.3" cy="111.3" r="4" fill="#3465a4"><title>Ferrazza in Guidonia, Rome (Personal)</title></circle></a><a href="/setts/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/"><circle cx="104.6" cy="106.5" r="4" fill="#3465a4"><title>Ferrazza (Personal)</title></circle></a><a href="/setts/s17/db10k1g1k1g1k1db10r3k10r3g10k1ly1k1w1k1g10~x2/"><circle cx="107.9" cy="115.0" r="4" fill="#3465a4"><title>Cunningham, hunting</title></circle></a><a href="/setts/s15/db2r1db6k6g6k1t1k1ly1k1g6k6db6g1db2~x4/"><circle cx="83.2" cy="165.1" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><a href="/setts/s13/w6k1w1k1w1k8g8lo2g8k8db8k1r2~x2/"><circle cx="70.4" cy="146.3" r="4" fill="#3465a4"><title>Farquharson Dress</title></circle></a><circle cx="84.5" cy="130.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s18/p47k6r6k6p6k19g19k6g19ly6g19k6g19k19p6k6w6k6~x2/

@@ -8,7 +8,7 @@ GKYR
 
 It is a 4 band tartan.
 
-![Woven sample](/setts/s4/g1k8ly13r1~x6/tartan.png)
+![Woven sample](/setts/s4/r1ly13k8g1~x6/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ GKYR
 
 
 
-### G K LY R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">G K LY R</span></span>
+### R LY K G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R LY K G</span></span>
 
 | Tartans |
 |---------------|
-| [Billy Apple® Yellow](/setts/s4/g1k8ly13r1~x6/)|
-|![Billy Apple® Yellow example sett](/setts/s4/g1k8ly13r1~x6/sett.png)|
+| [Billy Apple® Yellow](/setts/s4/r1ly13k8g1~x6/)|
+|![Billy Apple® Yellow example sett](/setts/s4/r1ly13k8g1~x6/sett.png)|
 

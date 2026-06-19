@@ -2,7 +2,7 @@
 title: "Lethcoe (Thousand Oaks) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BBGYWK](/stripes/bbgywk/) · **Stripes:** [DP T G LY W K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">DP T G LY W K</span></span>
+**Bands:** [KWYGBB](/stripes/kwygbb/) · **Stripes:** [K W LY G T DP](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K W LY G T DP</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10813](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10813)
 
 ## Thread count
-N/16 B16 LG124 LY8 W16 T/64
+T/64 W16 LY8 LG124 B16 N/16
 ![Sett](sett.png)
 
 ## Palette
@@ -32,7 +32,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "N/16 B16 LG124 LY8 W16 T/64 tartan")
+![Tartan detail](tartan.png "T/64 W16 LY8 LG124 B16 N/16 tartan")
 
 ## Nearest tartans
 
@@ -51,8 +51,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g11w11k3ly3dg36lo7~x2/"><circle cx="202.1" cy="154.9" r="4" fill="#3465a4"><title>Driver (Name)</title></circle></a><a href="/setts/s6/k3g44db27ly6r10w3~x2/"><circle cx="191.8" cy="140.7" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><a href="/setts/s6/g11w11k3ly3dg36r7~x2/"><circle cx="194.6" cy="150.3" r="4" fill="#3465a4"><title>Driver, RC</title></circle></a><a href="/setts/s9/ly16lo5k8lo8k68g46w8k8r8/"><circle cx="198.2" cy="124.3" r="4" fill="#3465a4"><title>Louth County Crest (Fashion)</title></circle></a><a href="/setts/s6/w8k16g32dt3lo5w5~x2/"><circle cx="187.3" cy="178.7" r="4" fill="#3465a4"><title>Mellor (Name)</title></circle></a><a href="/setts/s8/g5ly1r2g25k14db19w4g2~x2/"><circle cx="194.3" cy="120.7" r="4" fill="#3465a4"><title>Tooth</title></circle></a><a href="/setts/s7/t6db17p4db2k11g33ly4~x2/"><circle cx="170.6" cy="144.5" r="4" fill="#3465a4"><title>East Lothian</title></circle></a><a href="/setts/s6/o5dt30w3dg15ly8r4~x2/"><circle cx="172.0" cy="167.9" r="4" fill="#3465a4"><title>Carleton College Rugby</title></circle></a><a href="/setts/s9/b2lb1b2k16g20k14r2w2ly2~x2/"><circle cx="207.4" cy="100.0" r="4" fill="#3465a4"><title>Brooke</title></circle></a><a href="/setts/s5/lr2dg17w6b5r1~x4/"><circle cx="256.9" cy="165.0" r="4" fill="#3465a4"><title>Scotstown</title></circle></a><circle cx="208.0" cy="133.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g11w11k3ly3dg36lo7~x2/"><circle cx="202.0" cy="154.8" r="4" fill="#3465a4"><title>Driver (Name)</title></circle></a><a href="/setts/s6/k3g44db27ly6r10w3~x2/"><circle cx="191.7" cy="140.6" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><a href="/setts/s6/g11w11k3ly3dg36r7~x2/"><circle cx="194.5" cy="150.2" r="4" fill="#3465a4"><title>Driver, RC</title></circle></a><a href="/setts/s9/ly16lo5k8lo8k68g46w8k8r8/"><circle cx="198.1" cy="124.3" r="4" fill="#3465a4"><title>Louth County Crest (Fashion)</title></circle></a><a href="/setts/s6/w8k16g32dt3lo5w5~x2/"><circle cx="187.3" cy="178.6" r="4" fill="#3465a4"><title>Mellor (Name)</title></circle></a><a href="/setts/s8/g5ly1r2g25k14db19w4g2~x2/"><circle cx="194.4" cy="120.7" r="4" fill="#3465a4"><title>Tooth</title></circle></a><a href="/setts/s7/t6db17p4db2k11g33ly4~x2/"><circle cx="170.7" cy="144.5" r="4" fill="#3465a4"><title>East Lothian</title></circle></a><a href="/setts/s6/o5dt30w3dg15ly8r4~x2/"><circle cx="172.0" cy="167.9" r="4" fill="#3465a4"><title>Carleton College Rugby</title></circle></a><a href="/setts/s9/b2lb1b2k16g20k14r2w2ly2~x2/"><circle cx="207.4" cy="100.0" r="4" fill="#3465a4"><title>Brooke</title></circle></a><a href="/setts/s5/lr2dg17w6b5r1~x4/"><circle cx="256.8" cy="164.8" r="4" fill="#3465a4"><title>Scotstown</title></circle></a><circle cx="208.0" cy="133.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k16w4ly2g31t4dp4~x4/

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 LT8 N4 LT16 G32 N8 LN4 N8 Y4 N16 B10 N/120
+N/120 B10 N16 Y4 N8 LN4 N8 G32 LT16 N4 LT8 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -912,13 +915,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Stuart/Stewart Silver](/setts/s12/y60t5y8ly2y4w2y4dg16dy8y2dy4w2~x2/) — ΔT 2.05
 1. [Miller Hargreaves (Personal)](/setts/s8/lr40t4lr4m5y5lr3ly6r3~x2/) — ΔT 2.11
 1. [Down](/setts/s9/o65dr9r11o5t2lo2y5o2lo13~x2/) — ΔT 2.12
-1. [Canuck Place](/setts/s9/lo1r2lg3o24lg26db3lg15db2w1~x2/) — ΔT 2.14
+1. [Canuck Place](/setts/s9/w1db2lg15db3lg26o24lg3r2lo1~x2/) — ΔT 2.14
 1. [Inchforth (Personal)](/setts/s9/o4dg2o7n30o8n7g5dg1w2~x2/) — ΔT 2.16
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/n48r4n6lo2n2lr2n2r10b6n2b3lr2~x2/"><circle cx="518.9" cy="142.7" r="4" fill="#3465a4"><title>Gabrielle (Fashion)</title></circle></a><a href="/setts/s12/o60t5o8ly2o4w2o4g16dy8o2dy4w2~x2/"><circle cx="457.9" cy="101.1" r="4" fill="#3465a4"><title>Stuart Silver Commemorative Tartan Tartan Number: 1281. Earliest known date: 1977 1977 Jubilee tartan NOT accepted. No official jubilee tartan was adopted for the occasion. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/g46ly1y5ly1g5ly1p5ly1g16r1ly4~x2/"><circle cx="531.2" cy="104.6" r="4" fill="#3465a4"><title>Craven County</title></circle></a><a href="/setts/s13/r4y40dt12y2dt12y30k2y4k2y4y2y3k3~x2/"><circle cx="487.5" cy="166.2" r="4" fill="#3465a4"><title>Bartlett, Chris (Personal)</title></circle></a><a href="/setts/s7/r2b4y18n2y2n41w2~x2/"><circle cx="460.3" cy="181.1" r="4" fill="#3465a4"><title>Haddrell (2013)</title></circle></a><a href="/setts/s12/y60t5y8ly2y4w2y4dg16dy8y2dy4w2~x2/"><circle cx="448.9" cy="97.6" r="4" fill="#3465a4"><title>Stuart/Stewart Silver</title></circle></a><a href="/setts/s8/lr40t4lr4m5y5lr3ly6r3~x2/"><circle cx="443.3" cy="158.3" r="4" fill="#3465a4"><title>Miller Hargreaves (Personal)</title></circle></a><a href="/setts/s9/o65dr9r11o5t2lo2y5o2lo13~x2/"><circle cx="460.4" cy="117.0" r="4" fill="#3465a4"><title>Down</title></circle></a><a href="/setts/s9/lo1r2lg3o24lg26db3lg15db2w1~x2/"><circle cx="384.4" cy="137.7" r="4" fill="#3465a4"><title>Canuck Place</title></circle></a><a href="/setts/s9/o4dg2o7n30o8n7g5dg1w2~x2/"><circle cx="409.2" cy="160.6" r="4" fill="#3465a4"><title>Inchforth (Personal)</title></circle></a><circle cx="498.2" cy="124.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/n48r4n6lo2n2lr2n2r10b6n2b3lr2~x2/"><circle cx="518.5" cy="142.8" r="4" fill="#3465a4"><title>Gabrielle (Fashion)</title></circle></a><a href="/setts/s12/o60t5o8ly2o4w2o4g16dy8o2dy4w2~x2/"><circle cx="457.4" cy="101.2" r="4" fill="#3465a4"><title>Stuart Silver Commemorative Tartan Tartan Number: 1281. Earliest known date: 1977 1977 Jubilee tartan NOT accepted. No official jubilee tartan was adopted for the occasion. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/g46ly1y5ly1g5ly1p5ly1g16r1ly4~x2/"><circle cx="530.7" cy="104.6" r="4" fill="#3465a4"><title>Craven County</title></circle></a><a href="/setts/s13/r4y40dt12y2dt12y30k2y4k2y4y2y3k3~x2/"><circle cx="487.1" cy="166.2" r="4" fill="#3465a4"><title>Bartlett, Chris (Personal)</title></circle></a><a href="/setts/s7/r2b4y18n2y2n41w2~x2/"><circle cx="459.9" cy="181.1" r="4" fill="#3465a4"><title>Haddrell (2013)</title></circle></a><a href="/setts/s12/y60t5y8ly2y4w2y4dg16dy8y2dy4w2~x2/"><circle cx="448.4" cy="97.6" r="4" fill="#3465a4"><title>Stuart/Stewart Silver</title></circle></a><a href="/setts/s8/lr40t4lr4m5y5lr3ly6r3~x2/"><circle cx="442.7" cy="158.3" r="4" fill="#3465a4"><title>Miller Hargreaves (Personal)</title></circle></a><a href="/setts/s9/o65dr9r11o5t2lo2y5o2lo13~x2/"><circle cx="460.0" cy="117.1" r="4" fill="#3465a4"><title>Down</title></circle></a><a href="/setts/s9/w1db2lg15db3lg26o24lg3r2lo1~x2/"><circle cx="384.0" cy="137.7" r="4" fill="#3465a4"><title>Canuck Place</title></circle></a><a href="/setts/s9/o4dg2o7n30o8n7g5dg1w2~x2/"><circle cx="408.9" cy="160.7" r="4" fill="#3465a4"><title>Inchforth (Personal)</title></circle></a><circle cx="497.7" cy="124.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/y60t5y8ly2y4w2y4g16o8y2o4w2~x2/

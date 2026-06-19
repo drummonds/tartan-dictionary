@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10659
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Filipino
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -23,7 +29,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10659](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10659)
 
 ## Thread count
-K/8 R6 K20 DG16 P6 DG16 DB32 LN8 Y4 LN8 R/60
+R/60 LN8 Y4 LN8 DB32 DG16 P6 DG16 K20 R6 K/8
 ![Sett](sett.png)
 
 ## Palette
@@ -48,16 +54,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Colville (Personal)](/setts/s11/r16m3k12dy10k3r3ly3k3db2r2w1~x2/) — ΔT 1.04
 1. [MacLean Variation](/setts/s11/dp45k12ly4k4w6k4dg50r57dp4r10k4~x2/) — ΔT 1.07
 1. [Scotland's International - Away (Fas](/setts/s10/r24r24k2w6k2ly2k16lb5db6w2~x2/) — ΔT 1.07
-1. [Tribal](/setts/s10/lg2k16r5k1r8k1r5k1dp16ly2~x4/) — ΔT 1.11
-1. [MacLean, Variation](/setts/s11/p45k12ly4k4w6k4g50r57p4r10k4~x2/) — ΔT 1.13
+1. [Tribal](/setts/s10/ly2dp16k1r5k1r8k1r5k16lg2~x4/) — ΔT 1.11
+1. [MacLean, Variation](/setts/s11/p45k12ly4k4w6k4g50r57p4r10k4~x2/) — ΔT 1.12
 1. [Inverclyde (Corporate)](/setts/s11/w3db5db2db9n10t2n4t2g10r33w2~x2/) — ΔT 1.14
 1. [MacLean](/setts/s12/db4b1k3ly1k1lr1k1dg8r12b1r2k1~x2/) — ΔT 1.16
 1. [Unidentified #31](/setts/s14/r12w1k1dg12ly2db5t6r2t2r4dg2r2k2dg2~x2/) — ΔT 1.16
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x4/"><circle cx="142.7" cy="91.3" r="4" fill="#3465a4"><title>MacLean of Duart #6</title></circle></a><a href="/setts/s11/r2db2k3ly3r3k3dy10k12m3r16w1~x2/"><circle cx="145.7" cy="101.6" r="4" fill="#3465a4"><title>Unnamed 18th century plaid (Carlisle Museum)</title></circle></a><a href="/setts/s11/r16m3k12dy10k3r3ly3k3db2r2w1~x2/"><circle cx="145.7" cy="101.6" r="4" fill="#3465a4"><title>Colville (Personal)</title></circle></a><a href="/setts/s11/dp45k12ly4k4w6k4dg50r57dp4r10k4~x2/"><circle cx="153.2" cy="104.4" r="4" fill="#3465a4"><title>MacLean Variation</title></circle></a><a href="/setts/s10/r24r24k2w6k2ly2k16lb5db6w2~x2/"><circle cx="80.1" cy="100.5" r="4" fill="#3465a4"><title>Scotland's International - Away (Fas</title></circle></a><a href="/setts/s10/lg2k16r5k1r8k1r5k1dp16ly2~x4/"><circle cx="138.8" cy="108.3" r="4" fill="#3465a4"><title>Tribal</title></circle></a><a href="/setts/s11/p45k12ly4k4w6k4g50r57p4r10k4~x2/"><circle cx="142.2" cy="98.5" r="4" fill="#3465a4"><title>MacLean, Variation</title></circle></a><a href="/setts/s11/w3db5db2db9n10t2n4t2g10r33w2~x2/"><circle cx="174.3" cy="86.6" r="4" fill="#3465a4"><title>Inverclyde (Corporate)</title></circle></a><a href="/setts/s12/db4b1k3ly1k1lr1k1dg8r12b1r2k1~x2/"><circle cx="139.7" cy="97.3" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s14/r12w1k1dg12ly2db5t6r2t2r4dg2r2k2dg2~x2/"><circle cx="122.1" cy="103.2" r="4" fill="#3465a4"><title>Unidentified #31</title></circle></a><circle cx="115.6" cy="95.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x4/"><circle cx="142.6" cy="91.5" r="4" fill="#3465a4"><title>MacLean of Duart #6</title></circle></a><a href="/setts/s11/r2db2k3ly3r3k3dy10k12m3r16w1~x2/"><circle cx="145.6" cy="101.8" r="4" fill="#3465a4"><title>Unnamed 18th century plaid (Carlisle Museum)</title></circle></a><a href="/setts/s11/r16m3k12dy10k3r3ly3k3db2r2w1~x2/"><circle cx="145.6" cy="101.8" r="4" fill="#3465a4"><title>Colville (Personal)</title></circle></a><a href="/setts/s11/dp45k12ly4k4w6k4dg50r57dp4r10k4~x2/"><circle cx="153.1" cy="104.6" r="4" fill="#3465a4"><title>MacLean Variation</title></circle></a><a href="/setts/s10/r24r24k2w6k2ly2k16lb5db6w2~x2/"><circle cx="80.0" cy="100.7" r="4" fill="#3465a4"><title>Scotland's International - Away (Fas</title></circle></a><a href="/setts/s10/ly2dp16k1r5k1r8k1r5k16lg2~x4/"><circle cx="138.8" cy="108.4" r="4" fill="#3465a4"><title>Tribal</title></circle></a><a href="/setts/s11/p45k12ly4k4w6k4g50r57p4r10k4~x2/"><circle cx="142.1" cy="98.6" r="4" fill="#3465a4"><title>MacLean, Variation</title></circle></a><a href="/setts/s11/w3db5db2db9n10t2n4t2g10r33w2~x2/"><circle cx="174.1" cy="86.8" r="4" fill="#3465a4"><title>Inverclyde (Corporate)</title></circle></a><a href="/setts/s12/db4b1k3ly1k1lr1k1dg8r12b1r2k1~x2/"><circle cx="139.8" cy="97.5" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s14/r12w1k1dg12ly2db5t6r2t2r4dg2r2k2dg2~x2/"><circle cx="122.0" cy="103.4" r="4" fill="#3465a4"><title>Unidentified #31</title></circle></a><circle cx="115.5" cy="96.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/r30w4ly2w4db16dg8dp3dg8k10r3k4~x2/

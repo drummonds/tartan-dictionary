@@ -20,7 +20,7 @@ YWYGYYWY
 
 
 
-### LR LB LR Y LR LR LB LY <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LR LB LR Y LR LR LB LY</span></span>
+### LY LB LR LR Y LR LB LR <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">LY LB LR LR Y LR LB LR</span></span>
 
 | Tartans |
 |---------------|

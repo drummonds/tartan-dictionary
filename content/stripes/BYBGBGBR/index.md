@@ -20,7 +20,7 @@ BYBGBGBR
 
 
 
-### DR LO DR G DO DY DR R <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="seq">DR LO DR G DO DY DR R</span></span>
+### R DR DY DO G DR LO DR <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="seq">R DR DY DO G DR LO DR</span></span>
 
 | Tartans |
 |---------------|

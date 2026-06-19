@@ -2,7 +2,7 @@
 title: "Harmony 8"
 date: 2023-03-18
 ---
-**Bands:** [BGRBG](/stripes/bgrbg/) · **Stripes:** [DR Y O DR Y](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DR Y O DR Y</span></span>
+**Bands:** [GBRGB](/stripes/gbrgb/) · **Stripes:** [Y DR O Y DR](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="seq">Y DR O Y DR</span></span>
 
 
 This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -909,17 +912,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Harmony 8](/setts/s5/dy2y10o15dy10y2~x4/) — ΔT 1.03
 1. [Glen Esk (1993)](/setts/s7/dg2r1dg8r5y5r1y2~x4/) — ΔT 1.12
 1. [MacNab #2](/setts/s6/g1m1g7m4r7m1~x4/) — ΔT 1.13
-1. [MacNab, Variant](/setts/s6/g1r1g7r4r7r1~x4/) — ΔT 1.20
+1. [MacNab, Variant](/setts/s6/r1r7r4g7r1g1~x4/) — ΔT 1.20
 1. [Callum (Buchan) (Name)](/setts/s5/n7r1dt6r8lr1~x8/) — ΔT 1.40
 1. [Chindecella Gorse (Kemete Heil)](/setts/s8/o9do4o4do4o24dy19do19dy4~x2/) — ΔT 1.43
-1. [MacCormick (Dress)](/setts/s6/k3g13k10r13k2r3~x2/) — ΔT 1.45
+1. [MacCormick (Dress)](/setts/s6/k3g13k10r13k2r3~x2/) — ΔT 1.46
 1. [Glasgow #2](/setts/s7/dg25r4db24r21dg25r3db4~x2/) — ΔT 1.46
 1. [Moray of Abercairney](/setts/s5/r8r1g4r1db4~x2/) — ΔT 1.49
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/dp2g10o15dp10g2~x4/"><circle cx="253.9" cy="277.7" r="4" fill="#3465a4"><title>Harmony, 6</title></circle></a><a href="/setts/s5/dy2y10o15dy10y2~x4/"><circle cx="229.2" cy="262.1" r="4" fill="#3465a4"><title>Harmony 8</title></circle></a><a href="/setts/s7/dg2r1dg8r5y5r1y2~x4/"><circle cx="271.2" cy="257.8" r="4" fill="#3465a4"><title>Glen Esk (1993)</title></circle></a><a href="/setts/s6/g1m1g7m4r7m1~x4/"><circle cx="261.7" cy="251.4" r="4" fill="#3465a4"><title>MacNab #2</title></circle></a><a href="/setts/s6/g1r1g7r4r7r1~x4/"><circle cx="252.1" cy="248.3" r="4" fill="#3465a4"><title>MacNab, Variant</title></circle></a><a href="/setts/s5/n7r1dt6r8lr1~x8/"><circle cx="258.6" cy="262.9" r="4" fill="#3465a4"><title>Callum (Buchan) (Name)</title></circle></a><a href="/setts/s8/o9do4o4do4o24dy19do19dy4~x2/"><circle cx="281.4" cy="273.8" r="4" fill="#3465a4"><title>Chindecella Gorse (Kemete Heil)</title></circle></a><a href="/setts/s6/k3g13k10r13k2r3~x2/"><circle cx="228.2" cy="274.4" r="4" fill="#3465a4"><title>MacCormick (Dress)</title></circle></a><a href="/setts/s7/dg25r4db24r21dg25r3db4~x2/"><circle cx="281.8" cy="261.6" r="4" fill="#3465a4"><title>Glasgow #2</title></circle></a><a href="/setts/s5/r8r1g4r1db4~x2/"><circle cx="242.4" cy="235.1" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><circle cx="257.1" cy="276.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/dp2g10o15dp10g2~x4/"><circle cx="253.8" cy="277.7" r="4" fill="#3465a4"><title>Harmony, 6</title></circle></a><a href="/setts/s5/dy2y10o15dy10y2~x4/"><circle cx="229.1" cy="262.0" r="4" fill="#3465a4"><title>Harmony 8</title></circle></a><a href="/setts/s7/dg2r1dg8r5y5r1y2~x4/"><circle cx="271.1" cy="257.8" r="4" fill="#3465a4"><title>Glen Esk (1993)</title></circle></a><a href="/setts/s6/g1m1g7m4r7m1~x4/"><circle cx="261.6" cy="251.4" r="4" fill="#3465a4"><title>MacNab #2</title></circle></a><a href="/setts/s6/r1r7r4g7r1g1~x4/"><circle cx="251.9" cy="248.2" r="4" fill="#3465a4"><title>MacNab, Variant</title></circle></a><a href="/setts/s5/n7r1dt6r8lr1~x8/"><circle cx="258.5" cy="263.0" r="4" fill="#3465a4"><title>Callum (Buchan) (Name)</title></circle></a><a href="/setts/s8/o9do4o4do4o24dy19do19dy4~x2/"><circle cx="281.3" cy="273.8" r="4" fill="#3465a4"><title>Chindecella Gorse (Kemete Heil)</title></circle></a><a href="/setts/s6/k3g13k10r13k2r3~x2/"><circle cx="228.2" cy="274.4" r="4" fill="#3465a4"><title>MacCormick (Dress)</title></circle></a><a href="/setts/s7/dg25r4db24r21dg25r3db4~x2/"><circle cx="281.8" cy="261.5" r="4" fill="#3465a4"><title>Glasgow #2</title></circle></a><a href="/setts/s5/r8r1g4r1db4~x2/"><circle cx="242.3" cy="235.1" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><circle cx="257.0" cy="276.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/dr2y10o15dr10y2~x4/

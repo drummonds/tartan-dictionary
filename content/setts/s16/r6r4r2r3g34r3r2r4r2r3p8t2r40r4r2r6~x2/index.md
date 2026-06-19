@@ -2,7 +2,7 @@
 title: "MacDougall 4"
 date: 2023-03-18
 ---
-**Bands:** [RRRRBBRRRRRGRRRR](/stripes/rrrrbbrrrrrgrrrr/) · **Stripes:** [R R R R T P R R R R R G R R R R](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R R R T P R R R R R G R R R R</span></span>
+**Bands:** [RRRRGRRRRRBBRRRR](/stripes/rrrrgrrrrrbbrrrr/) · **Stripes:** [R R R R G R R R R R P T R R R R](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R R R G R R R R R P T R R R R</span></span>
 
 
 This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -909,16 +912,16 @@ The nearest existing variants by ΔTartan distance.
 1. [North West Mounted Police](/setts/s16/r44do3w2g14w2y4r4do2r4y4w2dt12do6r6y7w2~x2/) — ΔT 1.36
 1. [Ryutokukan High School (Corporate)](/setts/s12/o3n20r1n4r2n2r4n2r5g2r20w3~x2/) — ΔT 1.36
 1. [MacDougal 1](/setts/s24/t1r4r2r2g27r4g2r4p10r3r2r2r2r3g10r10g10r2p2r26r3r2r3t1~x2/) — ΔT 1.37
-1. [Purdy, R Scott (Personal)](/setts/s15/lo1r1k1w1r21k1lo12w1o7dg3lo6k1w1k1r1~x2/) — ΔT 1.37
+1. [Purdy, R Scott (Personal)](/setts/s15/r1k1w1k1lo6dg3o7w1lo12k1r21w1k1r1lo1~x2/) — ΔT 1.37
 1. [Grant or New Bruce Clan Tartan Tartan Number: 1385. Earliest known date: 1819 As ordered by Patrick Grant of Redcastle, the chief of the Clan Grant. The large red and the large green squares have been reduced by a factor of 4 to allow display. The original sett was S15 P2 S4 P4 S156 LB2 S4 P42 S6 G4 S6 G178 S4 P4 S10 (HSHP half sett half pivot). This tartan was also adopted by the Drummonds. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/r12dp2r4dp4r39t2r4dp11r6g4r6g45r4dp4db10/) — ΔT 1.39
 1. [Grant or New Bruce](/setts/s15/r12p2r4p4r39t2r4p11r6g4r6g45r4p4db10/) — ΔT 1.41
-1. [Birral, Burrell](/setts/s17/r65w2p8t4w2t4p8w2g32w2r8r4p2r4r8w2p16~x2/) — ΔT 1.43
+1. [Birral, Burrell](/setts/s17/r65w2p8t4w2t4p8w2g32w2r8r4p2r4r8w2p16~x2/) — ΔT 1.42
 1. [MacDougall - 1819 (Clan)](/setts/s24/y1r4r2r2y27r4y2r4dp10r3r2r2r2r3y10r10y10r2dp2r26r3r2r3y1~x2/) — ΔT 1.45
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/r6r4r2r3dg34r3r2r4r2r3dp8t2r40r4r2r6~x2/"><circle cx="286.6" cy="73.1" r="4" fill="#3465a4"><title>MacDougall #9</title></circle></a><a href="/setts/s16/r44do3lb2g14lb2y4r4do2r4y4lb2dt12do6r6y7lb2~x2/"><circle cx="284.0" cy="84.3" r="4" fill="#3465a4"><title>North West Mounted Police (Commemo)</title></circle></a><a href="/setts/s16/r44do3w2g14w2y4r4do2r4y4w2dt12do6r6y7w2~x2/"><circle cx="259.1" cy="71.0" r="4" fill="#3465a4"><title>North West Mounted Police</title></circle></a><a href="/setts/s12/o3n20r1n4r2n2r4n2r5g2r20w3~x2/"><circle cx="254.4" cy="111.7" r="4" fill="#3465a4"><title>Ryutokukan High School (Corporate)</title></circle></a><a href="/setts/s24/t1r4r2r2g27r4g2r4p10r3r2r2r2r3g10r10g10r2p2r26r3r2r3t1~x2/"><circle cx="236.7" cy="60.1" r="4" fill="#3465a4"><title>MacDougal 1</title></circle></a><a href="/setts/s15/lo1r1k1w1r21k1lo12w1o7dg3lo6k1w1k1r1~x2/"><circle cx="235.8" cy="63.0" r="4" fill="#3465a4"><title>Purdy, R Scott (Personal)</title></circle></a><a href="/setts/s15/r12dp2r4dp4r39t2r4dp11r6g4r6g45r4dp4db10/"><circle cx="300.2" cy="99.6" r="4" fill="#3465a4"><title>Grant or New Bruce Clan Tartan Tartan Number: 1385. Earliest known date: 1819 As ordered by Patrick Grant of Redcastle, the chief of the Clan Grant. The large red and the large green squares have been reduced by a factor of 4 to allow display. The original sett was S15 P2 S4 P4 S156 LB2 S4 P42 S6 G4 S6 G178 S4 P4 S10 (HSHP half sett half pivot). This tartan was also adopted by the Drummonds. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/r12p2r4p4r39t2r4p11r6g4r6g45r4p4db10/"><circle cx="295.3" cy="97.9" r="4" fill="#3465a4"><title>Grant or New Bruce</title></circle></a><a href="/setts/s17/r65w2p8t4w2t4p8w2g32w2r8r4p2r4r8w2p16~x2/"><circle cx="279.9" cy="39.3" r="4" fill="#3465a4"><title>Birral, Burrell</title></circle></a><a href="/setts/s24/y1r4r2r2y27r4y2r4dp10r3r2r2r2r3y10r10y10r2dp2r26r3r2r3y1~x2/"><circle cx="266.4" cy="71.4" r="4" fill="#3465a4"><title>MacDougall - 1819 (Clan)</title></circle></a><circle cx="291.2" cy="78.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/r6r4r2r3dg34r3r2r4r2r3dp8t2r40r4r2r6~x2/"><circle cx="286.2" cy="73.3" r="4" fill="#3465a4"><title>MacDougall #9</title></circle></a><a href="/setts/s16/r44do3lb2g14lb2y4r4do2r4y4lb2dt12do6r6y7lb2~x2/"><circle cx="283.7" cy="84.5" r="4" fill="#3465a4"><title>North West Mounted Police (Commemo)</title></circle></a><a href="/setts/s16/r44do3w2g14w2y4r4do2r4y4w2dt12do6r6y7w2~x2/"><circle cx="258.8" cy="71.1" r="4" fill="#3465a4"><title>North West Mounted Police</title></circle></a><a href="/setts/s12/o3n20r1n4r2n2r4n2r5g2r20w3~x2/"><circle cx="254.1" cy="111.9" r="4" fill="#3465a4"><title>Ryutokukan High School (Corporate)</title></circle></a><a href="/setts/s24/t1r4r2r2g27r4g2r4p10r3r2r2r2r3g10r10g10r2p2r26r3r2r3t1~x2/"><circle cx="236.3" cy="60.3" r="4" fill="#3465a4"><title>MacDougal 1</title></circle></a><a href="/setts/s15/r1k1w1k1lo6dg3o7w1lo12k1r21w1k1r1lo1~x2/"><circle cx="235.3" cy="63.2" r="4" fill="#3465a4"><title>Purdy, R Scott (Personal)</title></circle></a><a href="/setts/s15/r12dp2r4dp4r39t2r4dp11r6g4r6g45r4dp4db10/"><circle cx="299.8" cy="99.7" r="4" fill="#3465a4"><title>Grant or New Bruce Clan Tartan Tartan Number: 1385. Earliest known date: 1819 As ordered by Patrick Grant of Redcastle, the chief of the Clan Grant. The large red and the large green squares have been reduced by a factor of 4 to allow display. The original sett was S15 P2 S4 P4 S156 LB2 S4 P42 S6 G4 S6 G178 S4 P4 S10 (HSHP half sett half pivot). This tartan was also adopted by the Drummonds. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/r12p2r4p4r39t2r4p11r6g4r6g45r4p4db10/"><circle cx="294.9" cy="97.9" r="4" fill="#3465a4"><title>Grant or New Bruce</title></circle></a><a href="/setts/s17/r65w2p8t4w2t4p8w2g32w2r8r4p2r4r8w2p16~x2/"><circle cx="279.4" cy="39.5" r="4" fill="#3465a4"><title>Birral, Burrell</title></circle></a><a href="/setts/s24/y1r4r2r2y27r4y2r4dp10r3r2r2r2r3y10r10y10r2dp2r26r3r2r3y1~x2/"><circle cx="266.0" cy="71.7" r="4" fill="#3465a4"><title>MacDougall - 1819 (Clan)</title></circle></a><circle cx="290.8" cy="78.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/r6r4r2r3g34r3r2r4r2r3p8t2r40r4r2r6~x2/

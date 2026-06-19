@@ -32,21 +32,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Thomson Dress (Blue)](/setts/s6/ly1k4w4k2b10r1~x6/) — ΔT 0.70
+1. [Thomson Dress (Blue)](/setts/s6/r1b10k2w4k4ly1~x6/) — ΔT 0.70
 1. [MacTavish Dress](/setts/s6/r4t28k6lb12k12lo3~x2/) — ΔT 0.77
 1. [Manx Dress](/setts/s6/g4w28dp8ly2db17g4~x2/) — ΔT 0.87
 1. [Ferguson Dress #2](/setts/s7/db68k42w32r5w32dg4w6/) — ΔT 0.93
 1. [Sinclair Dress (Dance)](/setts/s7/db4r2db31k10g4w21g2~x2/) — ΔT 0.96
-1. [Loch Ness (Fashion)](/setts/s7/lb2k17lg11t21r2t2r2~x2/) — ΔT 0.97
-1. [Clunie (Name)](/setts/s6/ly6k2o11k7db24w6~x2/) — ΔT 0.99
+1. [Loch Ness (Fashion)](/setts/s7/r2t2r2t21lg11k17lb2~x2/) — ΔT 0.97
+1. [Clunie (Name)](/setts/s6/w6db24k7o11k2ly6~x2/) — ΔT 0.99
 1. [Manx, dress](/setts/s6/g4w28p8ly2db17g4~x2/) — ΔT 1.00
 1. [Davidson (Wedding) (Personal)](/setts/s7/r2db14k6g1w12g1w2~x4/) — ΔT 1.01
 1. [Arran (Pendleton)](/setts/s8/t12k1t1k1t1db8w9y2~x4/) — ΔT 1.02
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/ly1k4w4k2b10r1~x6/"><circle cx="179.9" cy="178.3" r="4" fill="#3465a4"><title>Thomson Dress (Blue)</title></circle></a><a href="/setts/s6/r4t28k6lb12k12lo3~x2/"><circle cx="168.4" cy="187.3" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/setts/s6/g4w28dp8ly2db17g4~x2/"><circle cx="181.7" cy="150.6" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/setts/s7/db68k42w32r5w32dg4w6/"><circle cx="160.3" cy="148.1" r="4" fill="#3465a4"><title>Ferguson Dress #2</title></circle></a><a href="/setts/s7/db4r2db31k10g4w21g2~x2/"><circle cx="214.0" cy="143.2" r="4" fill="#3465a4"><title>Sinclair Dress (Dance)</title></circle></a><a href="/setts/s7/lb2k17lg11t21r2t2r2~x2/"><circle cx="169.5" cy="170.4" r="4" fill="#3465a4"><title>Loch Ness (Fashion)</title></circle></a><a href="/setts/s6/ly6k2o11k7db24w6~x2/"><circle cx="154.7" cy="176.4" r="4" fill="#3465a4"><title>Clunie (Name)</title></circle></a><a href="/setts/s6/g4w28p8ly2db17g4~x2/"><circle cx="184.9" cy="151.7" r="4" fill="#3465a4"><title>Manx, dress</title></circle></a><a href="/setts/s7/r2db14k6g1w12g1w2~x4/"><circle cx="149.5" cy="138.8" r="4" fill="#3465a4"><title>Davidson (Wedding) (Personal)</title></circle></a><a href="/setts/s8/t12k1t1k1t1db8w9y2~x4/"><circle cx="158.4" cy="148.1" r="4" fill="#3465a4"><title>Arran (Pendleton)</title></circle></a><circle cx="186.1" cy="168.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r1b10k2w4k4ly1~x6/"><circle cx="179.9" cy="178.2" r="4" fill="#3465a4"><title>Thomson Dress (Blue)</title></circle></a><a href="/setts/s6/r4t28k6lb12k12lo3~x2/"><circle cx="168.3" cy="187.2" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/setts/s6/g4w28dp8ly2db17g4~x2/"><circle cx="181.6" cy="150.5" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/setts/s7/db68k42w32r5w32dg4w6/"><circle cx="160.2" cy="148.1" r="4" fill="#3465a4"><title>Ferguson Dress #2</title></circle></a><a href="/setts/s7/db4r2db31k10g4w21g2~x2/"><circle cx="213.9" cy="143.1" r="4" fill="#3465a4"><title>Sinclair Dress (Dance)</title></circle></a><a href="/setts/s7/r2t2r2t21lg11k17lb2~x2/"><circle cx="169.5" cy="170.4" r="4" fill="#3465a4"><title>Loch Ness (Fashion)</title></circle></a><a href="/setts/s6/w6db24k7o11k2ly6~x2/"><circle cx="154.7" cy="176.3" r="4" fill="#3465a4"><title>Clunie (Name)</title></circle></a><a href="/setts/s6/g4w28p8ly2db17g4~x2/"><circle cx="184.6" cy="151.6" r="4" fill="#3465a4"><title>Manx, dress</title></circle></a><a href="/setts/s7/r2db14k6g1w12g1w2~x4/"><circle cx="149.4" cy="138.7" r="4" fill="#3465a4"><title>Davidson (Wedding) (Personal)</title></circle></a><a href="/setts/s8/t12k1t1k1t1db8w9y2~x4/"><circle cx="158.3" cy="148.0" r="4" fill="#3465a4"><title>Arran (Pendleton)</title></circle></a><circle cx="186.0" cy="168.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r15t98db72ly25db8w15/

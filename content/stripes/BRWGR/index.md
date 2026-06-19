@@ -20,7 +20,7 @@ BRWGR
 
 
 
-### DB O W DY R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB O W DY R</span></span>
+### R DY W O DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="seq">R DY W O DB</span></span>
 
 | Tartans |
 |---------------|

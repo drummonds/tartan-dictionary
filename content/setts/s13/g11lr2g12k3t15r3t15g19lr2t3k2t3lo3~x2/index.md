@@ -2,7 +2,7 @@
 title: "Greylock"
 date: 2023-03-18
 ---
-**Bands:** [GYGKBRBGYBKBY](/stripes/gygkbrbgybkby/) · **Stripes:** [G LR G K T R T G LR T K T LO](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">G LR G K T R T G LR T K T LO</span></span>
+**Bands:** [YBKBYGBRBKGYG](/stripes/ybkbygbrbkgyg/) · **Stripes:** [LO T K T LR G T R T K G LR G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO T K T LR G T R T K G LR G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 944
 
 ## Thread count
-DY/6 B6 K4 B6 N4 G38 B30 DR6 B30 K6 G24 N4 G/22
+G/22 N4 G24 K6 B30 DR6 B30 G38 N4 B6 K4 B6 DY/6
 ![Sett](sett.png)
 
 ## Palette
@@ -46,8 +46,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Scottish Heritage USA (SHUSA) (Corp)](/setts/s15/g3m2g14k6g4w2t14r2t14w2g4k6g14r2g3~x2/) — ΔT 1.21
-1. [Chieftain's](/setts/s12/b8g8k1r1ly1b2g2k1r1ly1b8g8~x4/) — ΔT 1.27
+1. [Scottish Heritage USA (SHUSA) (Corp)](/setts/s15/g3r2g14k6g4w2t14r2t14w2g4k6g14m2g3~x2/) — ΔT 1.21
+1. [Chieftain's](/setts/s12/g8b8ly1r1k1g2b2ly1r1k1g8b8~x4/) — ΔT 1.27
 1. [Norwegian Night (Fashion)](/setts/s18/n2dt9y1dt4y2dt2y4n1y15g1y3g3y2g4y1g7ly1r2~x2/) — ΔT 1.28
 1. [MacKinnon 4](/setts/s14/p2y3g2db2y6g16y2db4g2y16g8p2y4w2~x2/) — ΔT 1.35
 1. [MacConnell](/setts/s10/db22g6db5t2g22r6g5r4g9w3~x2/) — ΔT 1.38
@@ -59,8 +59,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/g3m2g14k6g4w2t14r2t14w2g4k6g14r2g3~x2/"><circle cx="162.6" cy="162.8" r="4" fill="#3465a4"><title>Scottish Heritage USA (SHUSA) (Corp)</title></circle></a><a href="/setts/s12/b8g8k1r1ly1b2g2k1r1ly1b8g8~x4/"><circle cx="231.6" cy="186.5" r="4" fill="#3465a4"><title>Chieftain's</title></circle></a><a href="/setts/s18/n2dt9y1dt4y2dt2y4n1y15g1y3g3y2g4y1g7ly1r2~x2/"><circle cx="220.3" cy="129.3" r="4" fill="#3465a4"><title>Norwegian Night (Fashion)</title></circle></a><a href="/setts/s14/p2y3g2db2y6g16y2db4g2y16g8p2y4w2~x2/"><circle cx="252.3" cy="191.8" r="4" fill="#3465a4"><title>MacKinnon 4</title></circle></a><a href="/setts/s10/db22g6db5t2g22r6g5r4g9w3~x2/"><circle cx="246.7" cy="180.2" r="4" fill="#3465a4"><title>MacConnell</title></circle></a><a href="/setts/s9/lo5g23b21lo30k10lo4g4lo16lb3~x2/"><circle cx="174.7" cy="179.9" r="4" fill="#3465a4"><title>State Seal of Kansas (Fashion)</title></circle></a><a href="/setts/s9/w4r13g54dg22k4y20g48r13w4/"><circle cx="267.5" cy="162.0" r="4" fill="#3465a4"><title>Wynberg Boys' High School</title></circle></a><a href="/setts/s10/t29do8g21r3g8t16w3do3w3g8~x2/"><circle cx="232.4" cy="188.6" r="4" fill="#3465a4"><title>Morneau (Quebec), Richard (Personal)</title></circle></a><a href="/setts/s10/g11r4g4r7g41o11t4db41r4db8/"><circle cx="235.9" cy="176.5" r="4" fill="#3465a4"><title>Stewart of Appin, Ancient hunting</title></circle></a><a href="/setts/s8/db2r1db10w1o4g8ly1g2~x4/"><circle cx="192.1" cy="172.4" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><circle cx="217.9" cy="170.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/g3r2g14k6g4w2t14r2t14w2g4k6g14m2g3~x2/"><circle cx="162.5" cy="162.9" r="4" fill="#3465a4"><title>Scottish Heritage USA (SHUSA) (Corp)</title></circle></a><a href="/setts/s12/g8b8ly1r1k1g2b2ly1r1k1g8b8~x4/"><circle cx="231.5" cy="186.5" r="4" fill="#3465a4"><title>Chieftain's</title></circle></a><a href="/setts/s18/n2dt9y1dt4y2dt2y4n1y15g1y3g3y2g4y1g7ly1r2~x2/"><circle cx="220.2" cy="129.5" r="4" fill="#3465a4"><title>Norwegian Night (Fashion)</title></circle></a><a href="/setts/s14/p2y3g2db2y6g16y2db4g2y16g8p2y4w2~x2/"><circle cx="252.1" cy="192.0" r="4" fill="#3465a4"><title>MacKinnon 4</title></circle></a><a href="/setts/s10/db22g6db5t2g22r6g5r4g9w3~x2/"><circle cx="246.6" cy="180.2" r="4" fill="#3465a4"><title>MacConnell</title></circle></a><a href="/setts/s9/lo5g23b21lo30k10lo4g4lo16lb3~x2/"><circle cx="174.6" cy="180.0" r="4" fill="#3465a4"><title>State Seal of Kansas (Fashion)</title></circle></a><a href="/setts/s9/w4r13g54dg22k4y20g48r13w4/"><circle cx="267.3" cy="162.0" r="4" fill="#3465a4"><title>Wynberg Boys' High School</title></circle></a><a href="/setts/s10/t29do8g21r3g8t16w3do3w3g8~x2/"><circle cx="232.2" cy="188.7" r="4" fill="#3465a4"><title>Morneau (Quebec), Richard (Personal)</title></circle></a><a href="/setts/s10/g11r4g4r7g41o11t4db41r4db8/"><circle cx="235.8" cy="176.6" r="4" fill="#3465a4"><title>Stewart of Appin, Ancient hunting</title></circle></a><a href="/setts/s8/db2r1db10w1o4g8ly1g2~x4/"><circle cx="192.0" cy="172.5" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><circle cx="217.8" cy="170.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/g11lr2g12k3t15r3t15g19lr2t3k2t3lo3~x2/

@@ -8,7 +8,7 @@ RGGGRY
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/lo4r2dg40dg39dg3r4~x2/tartan.png)
+![Woven sample](/setts/s6/r4dg3dg39dg40r2lo4~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RGGGRY
 
 | Tartans |
 |---------------|
-| [McGeorge (Personal)](/setts/s6/lo4r2dg40dg39dg3r4~x2/)|
-|![McGeorge (Personal) example sett](/setts/s6/lo4r2dg40dg39dg3r4~x2/sett.png)|
+| [McGeorge (Personal)](/setts/s6/r4dg3dg39dg40r2lo4~x2/)|
+|![McGeorge (Personal) example sett](/setts/s6/r4dg3dg39dg40r2lo4~x2/sett.png)|
 

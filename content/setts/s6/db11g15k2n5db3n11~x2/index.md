@@ -2,7 +2,7 @@
 title: "Saorsa (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BBBKGB](/stripes/bbbkgb/) · **Stripes:** [N DB N K G DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">N DB N K G DB</span></span>
+**Bands:** [BGKBBB](/stripes/bgkbbb/) · **Stripes:** [DB G K N DB N](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="seq">DB G K N DB N</span></span>
 
 
 This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
@@ -37,16 +37,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Casely](/setts/s6/r4g11k11g2n11y3~x4/) — ΔT 1.28
 1. [Corey (Name)](/setts/s5/b32dy16g3lo4dg28~x2/) — ΔT 1.29
 1. [Cairngorm #2](/setts/s7/n5t4n22k15y22o4y4~x2/) — ΔT 1.40
-1. [Tennant (Yules)](/setts/s7/r1db7g7db7g7dy7r1~x8/) — ΔT 1.40
+1. [Tennant (Yules)](/setts/s7/r1dy7g7db7g7db7r1~x8/) — ΔT 1.40
 1. [Royal Highland Society (Corporate)](/setts/s8/ly4dg17k10dt3k3dt17r3dt3~x2/) — ΔT 1.44
 1. [Scottish Airports (Corporate)](/setts/s6/dp4n18k17n3g18n4~x2/) — ΔT 1.44
-1. [MacCaughan or MacEachain (Personal)](/setts/s6/dp2dg6k2db6k1r2~x4/) — ΔT 1.44
 1. [Styrian](/setts/s8/o16dg29n19g8n19dg29o16r4~x2/) — ΔT 1.44
+1. [MacCaughan or MacEachain (Personal)](/setts/s6/dp2dg6k2db6k1r2~x4/) — ΔT 1.44
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/g8n19dg29o16r4~x2/"><circle cx="194.6" cy="273.1" r="4" fill="#3465a4"><title>Styrian (Fashion)</title></circle></a><a href="/setts/s5/t25dg25k6dp10r6~x2/"><circle cx="163.6" cy="281.5" r="4" fill="#3465a4"><title>Breon (Jersey Shore, Pennsylvania) (Personal)</title></circle></a><a href="/setts/s6/r4g11k11g2n11y3~x4/"><circle cx="132.8" cy="263.4" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/setts/s5/b32dy16g3lo4dg28~x2/"><circle cx="217.9" cy="237.8" r="4" fill="#3465a4"><title>Corey (Name)</title></circle></a><a href="/setts/s7/n5t4n22k15y22o4y4~x2/"><circle cx="218.3" cy="268.6" r="4" fill="#3465a4"><title>Cairngorm #2</title></circle></a><a href="/setts/s7/r1db7g7db7g7dy7r1~x8/"><circle cx="208.2" cy="280.4" r="4" fill="#3465a4"><title>Tennant (Yules)</title></circle></a><a href="/setts/s8/ly4dg17k10dt3k3dt17r3dt3~x2/"><circle cx="197.2" cy="244.8" r="4" fill="#3465a4"><title>Royal Highland Society (Corporate)</title></circle></a><a href="/setts/s6/dp4n18k17n3g18n4~x2/"><circle cx="222.7" cy="280.6" r="4" fill="#3465a4"><title>Scottish Airports (Corporate)</title></circle></a><a href="/setts/s6/dp2dg6k2db6k1r2~x4/"><circle cx="165.1" cy="263.6" r="4" fill="#3465a4"><title>MacCaughan or MacEachain (Personal)</title></circle></a><a href="/setts/s8/o16dg29n19g8n19dg29o16r4~x2/"><circle cx="195.0" cy="266.5" r="4" fill="#3465a4"><title>Styrian</title></circle></a><circle cx="185.8" cy="261.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/g8n19dg29o16r4~x2/"><circle cx="194.8" cy="273.2" r="4" fill="#3465a4"><title>Styrian (Fashion)</title></circle></a><a href="/setts/s5/t25dg25k6dp10r6~x2/"><circle cx="163.8" cy="281.7" r="4" fill="#3465a4"><title>Breon (Jersey Shore, Pennsylvania) (Personal)</title></circle></a><a href="/setts/s6/r4g11k11g2n11y3~x4/"><circle cx="132.9" cy="263.6" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/setts/s5/b32dy16g3lo4dg28~x2/"><circle cx="218.0" cy="237.9" r="4" fill="#3465a4"><title>Corey (Name)</title></circle></a><a href="/setts/s7/n5t4n22k15y22o4y4~x2/"><circle cx="218.4" cy="268.9" r="4" fill="#3465a4"><title>Cairngorm #2</title></circle></a><a href="/setts/s7/r1dy7g7db7g7db7r1~x8/"><circle cx="208.3" cy="280.5" r="4" fill="#3465a4"><title>Tennant (Yules)</title></circle></a><a href="/setts/s8/ly4dg17k10dt3k3dt17r3dt3~x2/"><circle cx="197.4" cy="245.0" r="4" fill="#3465a4"><title>Royal Highland Society (Corporate)</title></circle></a><a href="/setts/s6/dp4n18k17n3g18n4~x2/"><circle cx="222.8" cy="280.7" r="4" fill="#3465a4"><title>Scottish Airports (Corporate)</title></circle></a><a href="/setts/s8/o16dg29n19g8n19dg29o16r4~x2/"><circle cx="195.1" cy="266.6" r="4" fill="#3465a4"><title>Styrian</title></circle></a><a href="/setts/s6/dp2dg6k2db6k1r2~x4/"><circle cx="165.4" cy="263.8" r="4" fill="#3465a4"><title>MacCaughan or MacEachain (Personal)</title></circle></a><circle cx="186.0" cy="261.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db11g15k2n5db3n11~x2/

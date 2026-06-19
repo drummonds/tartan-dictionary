@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3843/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Barkwell, The
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -319,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -901,7 +910,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-K/4 R16 K8 R96 K60 R120 K4 Y/16
+Y/16 K4 R120 K60 R96 K8 R16 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -915,7 +924,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/4 R16 K8 R96 K60 R120 K4 Y/16 tartan")
+![Tartan detail](tartan.png "Y/16 K4 R120 K60 R96 K8 R16 K/4 tartan")
 
 ## Nearest tartans
 
@@ -923,7 +932,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Duke of Sussex](/setts/s7/r18g1k5g1k1g1r9~x2/) — ΔT 1.10
 1. [Barkwell (Personal)](/setts/s8/r20k1ly3k1r60k30r48k4~x2/) — ΔT 1.12
-1. [Knights Templar Hunting](/setts/s8/k22w1k12r43w1r43k12w1~x2/) — ΔT 1.15
+1. [Knights Templar Hunting](/setts/s8/k22w1k12r43w1~x2/) — ΔT 1.15
 1. [Oilmens](/setts/s14/r4k2r24k15r30k1ly4k1r30k15r24k2r4k1~x4/) — ΔT 1.22
 1. [Cameron Ancient](/setts/s7/r58ly3r6dg16r12dg16r6/) — ΔT 1.23
 1. [Virgin](/setts/s8/r51o2r6k10r2k4o3k3~x2/) — ΔT 1.24
@@ -934,8 +943,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r18g1k5g1k1g1r9~x2/"><circle cx="489.1" cy="155.8" r="4" fill="#3465a4"><title>Duke of Sussex</title></circle></a><a href="/setts/s8/r20k1ly3k1r60k30r48k4~x2/"><circle cx="561.6" cy="132.9" r="4" fill="#3465a4"><title>Barkwell (Personal)</title></circle></a><a href="/setts/s8/k22w1k12r43w1r43k12w1~x2/"><circle cx="450.5" cy="136.7" r="4" fill="#3465a4"><title>Knights Templar Hunting</title></circle></a><a href="/setts/s14/r4k2r24k15r30k1ly4k1r30k15r24k2r4k1~x4/"><circle cx="502.7" cy="129.5" r="4" fill="#3465a4"><title>Oilmens</title></circle></a><a href="/setts/s7/r58ly3r6dg16r12dg16r6/"><circle cx="489.5" cy="173.3" r="4" fill="#3465a4"><title>Cameron Ancient</title></circle></a><a href="/setts/s8/r51o2r6k10r2k4o3k3~x2/"><circle cx="519.0" cy="117.4" r="4" fill="#3465a4"><title>Virgin</title></circle></a><a href="/setts/s7/r3dg16r4k6r28dg1r3~x2/"><circle cx="429.1" cy="156.3" r="4" fill="#3465a4"><title>Maxwell Ancient</title></circle></a><a href="/setts/s8/k4r4ly2r41k4r4k12w2~x2/"><circle cx="436.1" cy="116.0" r="4" fill="#3465a4"><title>Aberdeen Football Club (2002)</title></circle></a><a href="/setts/s6/r5db10r5dg5r25ly1~x4/"><circle cx="454.3" cy="166.1" r="4" fill="#3465a4"><title>AON</title></circle></a><a href="/setts/s9/g4r32db9r6db2r3db2r12w3~x2/"><circle cx="464.0" cy="145.6" r="4" fill="#3465a4"><title>Rose</title></circle></a><circle cx="494.1" cy="144.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r18g1k5g1k1g1r9~x2/"><circle cx="488.6" cy="155.4" r="4" fill="#3465a4"><title>Duke of Sussex</title></circle></a><a href="/setts/s8/r20k1ly3k1r60k30r48k4~x2/"><circle cx="561.0" cy="132.5" r="4" fill="#3465a4"><title>Barkwell (Personal)</title></circle></a><a href="/setts/s8/k22w1k12r43w1~x2/"><circle cx="450.0" cy="136.4" r="4" fill="#3465a4"><title>Knights Templar Hunting</title></circle></a><a href="/setts/s14/r4k2r24k15r30k1ly4k1r30k15r24k2r4k1~x4/"><circle cx="502.1" cy="129.2" r="4" fill="#3465a4"><title>Oilmens</title></circle></a><a href="/setts/s7/r58ly3r6dg16r12dg16r6/"><circle cx="488.9" cy="173.0" r="4" fill="#3465a4"><title>Cameron Ancient</title></circle></a><a href="/setts/s8/r51o2r6k10r2k4o3k3~x2/"><circle cx="518.4" cy="117.1" r="4" fill="#3465a4"><title>Virgin</title></circle></a><a href="/setts/s7/r3dg16r4k6r28dg1r3~x2/"><circle cx="428.6" cy="156.0" r="4" fill="#3465a4"><title>Maxwell Ancient</title></circle></a><a href="/setts/s8/k4r4ly2r41k4r4k12w2~x2/"><circle cx="435.5" cy="115.7" r="4" fill="#3465a4"><title>Aberdeen Football Club (2002)</title></circle></a><a href="/setts/s6/r5db10r5dg5r25ly1~x4/"><circle cx="453.9" cy="165.9" r="4" fill="#3465a4"><title>AON</title></circle></a><a href="/setts/s9/g4r32db9r6db2r3db2r12w3~x2/"><circle cx="463.5" cy="145.3" r="4" fill="#3465a4"><title>Rose</title></circle></a><circle cx="493.6" cy="143.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/ly4k1r30k15r24k2r4k1~x4/

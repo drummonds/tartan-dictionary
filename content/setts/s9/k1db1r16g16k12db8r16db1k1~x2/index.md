@@ -2,7 +2,7 @@
 title: "MacNaughton"
 date: 2023-03-18
 ---
-**Bands:** [KBRBKGRBK](/stripes/kbrbkgrbk/) · **Stripes:** [K DB R DB K G R DB K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB R DB K G R DB K</span></span>
+**Bands:** [KBRGKBRBK](/stripes/kbrgkbrbk/) · **Stripes:** [K DB R G K DB R DB K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB R G K DB R DB K</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/2 B2 R32 B16 K24 G32 R32 B2 K/2
+K/2 B2 R32 G32 K24 B16 R32 B2 K/2
 ![Sett](sett.png)
 
 ## Palette
@@ -913,17 +916,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Montrose](/setts/s9/db1k1r12g12k6db5r12k1db1~x2/) — ΔT 0.55
 1. [MacNaughton](/setts/s9/k1lb1r16dg16k12lb8r16lb1k1~x2/) — ΔT 0.58
 1. [MacNaughten](/setts/s9/k1b1r16dg16k12b8r16b1k1~x2/) — ΔT 0.61
-1. [MacNaughten](/setts/s9/k1b1r16dg16k12b8r16b1k1/) — ΔT 0.61
 1. [Dickie](/setts/s8/g8r2g12k6g3db6r24k4~x2/) — ΔT 0.82
 1. [MacNaughton (Logan) #2](/setts/s9/k2db2r26dg25k13db13r26db2k2~x2/) — ΔT 0.97
 1. [Blackstock Red (Dress)](/setts/s7/ly2dg7k6r11k1r1ly2~x4/) — ΔT 0.99
 1. [Memery (Reston, USA)](/setts/s9/w4k6r3k15r3k6r27db9w2~x2/) — ΔT 0.99
 1. [Private SA Club](/setts/s8/k3r8k3r8lo19r7dt36r3~x2/) — ΔT 1.01
+1. [Distripress Annual Congress 2012](/setts/s8/r12k2w8k4n16r2k31n2/) — ΔT 1.02
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k15dg1k3r9dg1r3lo11k1~x4/"><circle cx="233.7" cy="162.9" r="4" fill="#3465a4"><title>Island of Innis, The</title></circle></a><a href="/setts/s9/db1k1r12g12k6db5r12k1db1~x2/"><circle cx="227.1" cy="168.9" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/setts/s9/k1lb1r16dg16k12lb8r16lb1k1~x2/"><circle cx="208.8" cy="149.8" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/setts/s9/k1b1r16dg16k12b8r16b1k1~x2/"><circle cx="231.8" cy="167.4" r="4" fill="#3465a4"><title>MacNaughten</title></circle></a><a href="/setts/s9/k1b1r16dg16k12b8r16b1k1/"><circle cx="231.8" cy="167.4" r="4" fill="#3465a4"><title>MacNaughten</title></circle></a><a href="/setts/s8/g8r2g12k6g3db6r24k4~x2/"><circle cx="200.8" cy="180.4" r="4" fill="#3465a4"><title>Dickie</title></circle></a><a href="/setts/s9/k2db2r26dg25k13db13r26db2k2~x2/"><circle cx="230.5" cy="161.5" r="4" fill="#3465a4"><title>MacNaughton (Logan) #2</title></circle></a><a href="/setts/s7/ly2dg7k6r11k1r1ly2~x4/"><circle cx="188.6" cy="182.9" r="4" fill="#3465a4"><title>Blackstock Red (Dress)</title></circle></a><a href="/setts/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="225.8" cy="151.3" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><a href="/setts/s8/k3r8k3r8lo19r7dt36r3~x2/"><circle cx="229.7" cy="173.0" r="4" fill="#3465a4"><title>Private SA Club</title></circle></a><circle cx="219.1" cy="159.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k15dg1k3r9dg1r3lo11k1~x4/"><circle cx="233.6" cy="162.8" r="4" fill="#3465a4"><title>Island of Innis, The</title></circle></a><a href="/setts/s9/db1k1r12g12k6db5r12k1db1~x2/"><circle cx="227.0" cy="168.9" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/setts/s9/k1lb1r16dg16k12lb8r16lb1k1~x2/"><circle cx="208.7" cy="149.7" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/setts/s9/k1b1r16dg16k12b8r16b1k1~x2/"><circle cx="231.7" cy="167.4" r="4" fill="#3465a4"><title>MacNaughten</title></circle></a><a href="/setts/s8/g8r2g12k6g3db6r24k4~x2/"><circle cx="200.7" cy="180.3" r="4" fill="#3465a4"><title>Dickie</title></circle></a><a href="/setts/s9/k2db2r26dg25k13db13r26db2k2~x2/"><circle cx="230.2" cy="161.4" r="4" fill="#3465a4"><title>MacNaughton (Logan) #2</title></circle></a><a href="/setts/s7/ly2dg7k6r11k1r1ly2~x4/"><circle cx="188.5" cy="182.8" r="4" fill="#3465a4"><title>Blackstock Red (Dress)</title></circle></a><a href="/setts/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="225.6" cy="151.2" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><a href="/setts/s8/k3r8k3r8lo19r7dt36r3~x2/"><circle cx="229.6" cy="173.0" r="4" fill="#3465a4"><title>Private SA Club</title></circle></a><a href="/setts/s8/r12k2w8k4n16r2k31n2/"><circle cx="237.8" cy="150.1" r="4" fill="#3465a4"><title>Distripress Annual Congress 2012</title></circle></a><circle cx="219.0" cy="159.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/k1db1r16g16k12db8r16db1k1~x2/

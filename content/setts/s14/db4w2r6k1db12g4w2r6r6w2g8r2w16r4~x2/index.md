@@ -2,7 +2,7 @@
 title: "MacFarlane, dress"
 date: 2023-03-18
 ---
-**Bands:** [BWRKBGWRRWGRWR](/stripes/bwrkbgwrrwgrwr/) · **Stripes:** [DB W R K DB G W R R W G R W R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB W R K DB G W R R W G R W R</span></span>
+**Bands:** [RWRGWRRWGBKRWB](/stripes/rwrgwrrwgbkrwb/) · **Stripes:** [R W R G W R R W G DB K R W DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R W R G W R R W G DB K R W DB</span></span>
 
 
 This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -913,12 +916,12 @@ The nearest existing variants by ΔTartan distance.
 1. [MacFarlane Dress Clan Tartan Tartan Number: 659. Earliest known date: 1930-40 MacKinlay was a collector of tartans from the period between the wars. He drew out the patterns on strips of paper defining the warp with colouring pencils. Originally listed as MacFadzean MacPhedran. Threadcount corrected in 2005. The B2 in the red was restored. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/db4w2r6k1db12g4w2r6db1r6w2g8r2w16r4~x2/) — ΔT 1.02
 1. [Stuart/Stewart variant](/setts/s15/k6dg10w10k2w23db10w2k6ly2k8dg10r12dg4r8w4/) — ΔT 1.02
 1. [Harrods (Corporate)](/setts/s14/dy2w2k2w12dy1w1dy1w1lo4do5lo2do9dy3r2~x2/) — ΔT 1.02
-1. [Harrods](/setts/s14/o2w2k2w12o1w1o1w1o4dr5o2dr9o3r2~x2/) — ΔT 1.03
+1. [Harrods](/setts/s14/r2o3dr9o2dr5o4w1o1w1o1w12k2w2o2~x2/) — ΔT 1.03
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/lo2r15lo3dr2lo3k14lo2t6w2t6lo2r7t10w1~x2/"><circle cx="95.3" cy="107.6" r="4" fill="#3465a4"><title>Dalrymple of Castleton</title></circle></a><a href="/setts/s17/r16dr4w6r6w20dr15g4o15w1dr3w1o5r6g4w3db3w3~x2/"><circle cx="93.5" cy="80.0" r="4" fill="#3465a4"><title>Jacobite, dress</title></circle></a><a href="/setts/s15/w9o14dr11o3o11ly7w1dr3w1ly7o7dr3w2b2w2~x2/"><circle cx="70.3" cy="112.2" r="4" fill="#3465a4"><title>Hudson Bay Company Artifact</title></circle></a><a href="/setts/s17/r16dy4w6r6w20dy15dg4dy15w1dy3w1dy5r6dg4w3db3w3~x2/"><circle cx="88.4" cy="79.9" r="4" fill="#3465a4"><title>Jacobite Dress</title></circle></a><a href="/setts/s17/r16do4w6r6w20do15g4dy15w1do3w1dy5r6g4w3db3w3~x2/"><circle cx="92.7" cy="80.2" r="4" fill="#3465a4"><title>Jacobite Dress General Tartan Tartan Number: 1665. Earliest known date: pre 2003 See Jacobite file for report on 2nd pivot. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r5w23db5w5k7ly3k3w2k3dg16r8dg3r6w3~x2/"><circle cx="88.0" cy="102.5" r="4" fill="#3465a4"><title>Victoria Highland Dress</title></circle></a><a href="/setts/s15/db4w2r6k1db12g4w2r6db1r6w2g8r2w16r4~x2/"><circle cx="118.4" cy="111.8" r="4" fill="#3465a4"><title>MacFarlane Dress Clan Tartan Tartan Number: 659. Earliest known date: 1930-40 MacKinlay was a collector of tartans from the period between the wars. He drew out the patterns on strips of paper defining the warp with colouring pencils. Originally listed as MacFadzean MacPhedran. Threadcount corrected in 2005. The B2 in the red was restored. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/k6dg10w10k2w23db10w2k6ly2k8dg10r12dg4r8w4/"><circle cx="56.9" cy="120.6" r="4" fill="#3465a4"><title>Stuart/Stewart variant</title></circle></a><a href="/setts/s14/dy2w2k2w12dy1w1dy1w1lo4do5lo2do9dy3r2~x2/"><circle cx="101.1" cy="98.6" r="4" fill="#3465a4"><title>Harrods (Corporate)</title></circle></a><a href="/setts/s14/o2w2k2w12o1w1o1w1o4dr5o2dr9o3r2~x2/"><circle cx="99.9" cy="97.2" r="4" fill="#3465a4"><title>Harrods</title></circle></a><circle cx="79.3" cy="103.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/lo2r15lo3dr2lo3k14lo2t6w2t6lo2r7t10w1~x2/"><circle cx="95.2" cy="107.7" r="4" fill="#3465a4"><title>Dalrymple of Castleton</title></circle></a><a href="/setts/s17/r16dr4w6r6w20dr15g4o15w1dr3w1o5r6g4w3db3w3~x2/"><circle cx="93.3" cy="80.1" r="4" fill="#3465a4"><title>Jacobite, dress</title></circle></a><a href="/setts/s15/w9o14dr11o3o11ly7w1dr3w1ly7o7dr3w2b2w2~x2/"><circle cx="70.1" cy="112.3" r="4" fill="#3465a4"><title>Hudson Bay Company Artifact</title></circle></a><a href="/setts/s17/r16dy4w6r6w20dy15dg4dy15w1dy3w1dy5r6dg4w3db3w3~x2/"><circle cx="88.2" cy="80.0" r="4" fill="#3465a4"><title>Jacobite Dress</title></circle></a><a href="/setts/s17/r16do4w6r6w20do15g4dy15w1do3w1dy5r6g4w3db3w3~x2/"><circle cx="92.4" cy="80.3" r="4" fill="#3465a4"><title>Jacobite Dress General Tartan Tartan Number: 1665. Earliest known date: pre 2003 See Jacobite file for report on 2nd pivot. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r5w23db5w5k7ly3k3w2k3dg16r8dg3r6w3~x2/"><circle cx="87.8" cy="102.6" r="4" fill="#3465a4"><title>Victoria Highland Dress</title></circle></a><a href="/setts/s15/db4w2r6k1db12g4w2r6db1r6w2g8r2w16r4~x2/"><circle cx="118.2" cy="111.9" r="4" fill="#3465a4"><title>MacFarlane Dress Clan Tartan Tartan Number: 659. Earliest known date: 1930-40 MacKinlay was a collector of tartans from the period between the wars. He drew out the patterns on strips of paper defining the warp with colouring pencils. Originally listed as MacFadzean MacPhedran. Threadcount corrected in 2005. The B2 in the red was restored. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/k6dg10w10k2w23db10w2k6ly2k8dg10r12dg4r8w4/"><circle cx="56.8" cy="120.7" r="4" fill="#3465a4"><title>Stuart/Stewart variant</title></circle></a><a href="/setts/s14/dy2w2k2w12dy1w1dy1w1lo4do5lo2do9dy3r2~x2/"><circle cx="100.9" cy="98.7" r="4" fill="#3465a4"><title>Harrods (Corporate)</title></circle></a><a href="/setts/s14/r2o3dr9o2dr5o4w1o1w1o1w12k2w2o2~x2/"><circle cx="99.7" cy="97.3" r="4" fill="#3465a4"><title>Harrods</title></circle></a><circle cx="79.1" cy="103.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/db4w2r6k1db12g4w2r6r6w2g8r2w16r4~x2/

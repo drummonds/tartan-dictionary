@@ -8,7 +8,7 @@ RWWYGRYW
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/lb4ly2o16y16ly9w11lb2m4~x2/tartan.png)
+![Woven sample](/setts/s8/m4lb2w11ly9y16o16ly2lb4~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RWWYGRYW
 
 | Tartans |
 |---------------|
-| [Takashimaya Dm Rose](/setts/s8/lb4ly2o16y16ly9w11lb2m4~x2/)|
-|![Takashimaya Dm Rose example sett](/setts/s8/lb4ly2o16y16ly9w11lb2m4~x2/sett.png)|
+| [Takashimaya Dm Rose](/setts/s8/m4lb2w11ly9y16o16ly2lb4~x2/)|
+|![Takashimaya Dm Rose example sett](/setts/s8/m4lb2w11ly9y16o16ly2lb4~x2/sett.png)|
 

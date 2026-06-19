@@ -20,7 +20,7 @@ BWBWK
 
 
 
-### DB LP DB LP K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#000000"></span><span class="seq">DB LP DB LP K</span></span>
+### K LP DB LP DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="seq">K LP DB LP DB</span></span>
 
 | Tartans |
 |---------------|

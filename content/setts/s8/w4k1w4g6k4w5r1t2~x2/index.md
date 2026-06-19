@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacDuff, dress
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/4 R2 LN10 K8 G12 LN8 K2 LN/8
+LN/8 K2 LN8 G12 K8 LN10 R2 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -901,7 +910,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/4 R2 LN10 K8 G12 LN8 K2 LN/8 tartan")
+![Tartan detail](tartan.png "LN/8 K2 LN8 G12 K8 LN10 R2 B/4 tartan")
 
 ## Nearest tartans
 
@@ -920,8 +929,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w4k1w4dg6k4w5r1t2~x2/"><circle cx="120.4" cy="205.0" r="4" fill="#3465a4"><title>MacDuff Dress</title></circle></a><a href="/setts/s8/w16db4k12g4w6lo4w11ly7~x2/"><circle cx="95.8" cy="193.7" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/setts/s8/lb8db2k6dg2lb3o2lb6ly4~x4/"><circle cx="101.1" cy="200.7" r="4" fill="#3465a4"><title>MacLaren Albino (Dance)</title></circle></a><a href="/setts/s8/w16db4k12dg4w6lo4w11ly7~x2/"><circle cx="102.3" cy="196.0" r="4" fill="#3465a4"><title>MacLaren Dress (Dance)</title></circle></a><a href="/setts/s7/dg3b12dg12w12dg2w12dg3~x2/"><circle cx="87.0" cy="193.6" r="4" fill="#3465a4"><title>Game Fair (Corporate)</title></circle></a><a href="/setts/s8/w16db4k12dg4w6r4w11ly7~x2/"><circle cx="102.7" cy="195.3" r="4" fill="#3465a4"><title>MacLaren (D.C Dalgliesh version)</title></circle></a><a href="/setts/s9/g8r1g4dy2w4t3w1t3w4~x8/"><circle cx="115.5" cy="188.0" r="4" fill="#3465a4"><title>Gaelic College of St.Anns</title></circle></a><a href="/setts/s8/k4db9ly6db22g4w20g6w4/"><circle cx="115.3" cy="188.3" r="4" fill="#3465a4"><title>Ship Hector</title></circle></a><a href="/setts/s8/lb12k3lb3k3lb13t6k17r3~x2/"><circle cx="131.5" cy="190.0" r="4" fill="#3465a4"><title>Mitsukoshi (Corporate)</title></circle></a><a href="/setts/s7/k9w38k22g31k5g31ly5/"><circle cx="151.6" cy="212.0" r="4" fill="#3465a4"><title>Lawsons' Whisky</title></circle></a><circle cx="113.6" cy="203.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w4k1w4dg6k4w5r1t2~x2/"><circle cx="120.3" cy="204.9" r="4" fill="#3465a4"><title>MacDuff Dress</title></circle></a><a href="/setts/s8/w16db4k12g4w6lo4w11ly7~x2/"><circle cx="95.6" cy="193.6" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/setts/s8/lb8db2k6dg2lb3o2lb6ly4~x4/"><circle cx="101.0" cy="200.6" r="4" fill="#3465a4"><title>MacLaren Albino (Dance)</title></circle></a><a href="/setts/s8/w16db4k12dg4w6lo4w11ly7~x2/"><circle cx="102.1" cy="195.9" r="4" fill="#3465a4"><title>MacLaren Dress (Dance)</title></circle></a><a href="/setts/s7/dg3b12dg12w12dg2w12dg3~x2/"><circle cx="87.0" cy="193.6" r="4" fill="#3465a4"><title>Game Fair (Corporate)</title></circle></a><a href="/setts/s8/w16db4k12dg4w6r4w11ly7~x2/"><circle cx="102.6" cy="195.2" r="4" fill="#3465a4"><title>MacLaren (D.C Dalgliesh version)</title></circle></a><a href="/setts/s9/g8r1g4dy2w4t3w1t3w4~x8/"><circle cx="115.3" cy="187.9" r="4" fill="#3465a4"><title>Gaelic College of St.Anns</title></circle></a><a href="/setts/s8/k4db9ly6db22g4w20g6w4/"><circle cx="115.2" cy="188.2" r="4" fill="#3465a4"><title>Ship Hector</title></circle></a><a href="/setts/s8/lb12k3lb3k3lb13t6k17r3~x2/"><circle cx="131.5" cy="189.9" r="4" fill="#3465a4"><title>Mitsukoshi (Corporate)</title></circle></a><a href="/setts/s7/k9w38k22g31k5g31ly5/"><circle cx="151.6" cy="211.8" r="4" fill="#3465a4"><title>Lawsons' Whisky</title></circle></a><circle cx="113.5" cy="203.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/w4k1w4g6k4w5r1t2~x2/

@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1115
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Entre Rios Province (Provisional
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/dg8g6dg48w31o42g6o8/"><circle cx="143.1" cy="184.1" r="4" fill="#3465a4"><title>Bannockbane, Green</title></circle></a><a href="/setts/s6/r4o25k6w12k11ly3~x2/"><circle cx="141.4" cy="185.0" r="4" fill="#3465a4"><title>Thomson Dress (Grey) (Fashion)</title></circle></a><a href="/setts/s7/lo30w4lo20g20k20lo3k6~x2/"><circle cx="199.3" cy="197.8" r="4" fill="#3465a4"><title>St Andrews Bay</title></circle></a><a href="/setts/s7/dg4g3dg24w15lo21g3lo4~x2/"><circle cx="144.9" cy="184.5" r="4" fill="#3465a4"><title>Bannockbane Dark Green</title></circle></a><a href="/setts/s9/do21r2lg18r2lg18r2dg8w6do10~x2/"><circle cx="151.8" cy="163.1" r="4" fill="#3465a4"><title>Red Dirt Girl</title></circle></a><a href="/setts/s7/g4ly7o9ly9db20w2db2~x2/"><circle cx="156.2" cy="170.7" r="4" fill="#3465a4"><title>Tombow 140th Anniversary, The</title></circle></a><a href="/setts/s5/ly32k21r16lr6dt4~x2/"><circle cx="130.8" cy="196.9" r="4" fill="#3465a4"><title>Scottish American Athletic Assoc</title></circle></a><a href="/setts/s5/k4t3p11g14ly2~x2/"><circle cx="147.8" cy="213.6" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><a href="/setts/s6/r3w8db4dg14r4db2~x4/"><circle cx="150.7" cy="214.0" r="4" fill="#3465a4"><title>MacKintosh Dress (Scott Adie)</title></circle></a><a href="/setts/s7/dy17g5db2w12db2ly4g7~x4/"><circle cx="103.5" cy="175.6" r="4" fill="#3465a4"><title>Northern Ontario</title></circle></a><circle cx="144.7" cy="193.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/dg8g6dg48w31o42g6o8/"><circle cx="143.0" cy="184.1" r="4" fill="#3465a4"><title>Bannockbane, Green</title></circle></a><a href="/setts/s6/r4o25k6w12k11ly3~x2/"><circle cx="141.3" cy="185.0" r="4" fill="#3465a4"><title>Thomson Dress (Grey) (Fashion)</title></circle></a><a href="/setts/s7/lo30w4lo20g20k20lo3k6~x2/"><circle cx="199.3" cy="197.7" r="4" fill="#3465a4"><title>St Andrews Bay</title></circle></a><a href="/setts/s7/dg4g3dg24w15lo21g3lo4~x2/"><circle cx="144.8" cy="184.5" r="4" fill="#3465a4"><title>Bannockbane Dark Green</title></circle></a><a href="/setts/s9/do21r2lg18r2lg18r2dg8w6do10~x2/"><circle cx="151.6" cy="163.0" r="4" fill="#3465a4"><title>Red Dirt Girl</title></circle></a><a href="/setts/s7/g4ly7o9ly9db20w2db2~x2/"><circle cx="156.1" cy="170.7" r="4" fill="#3465a4"><title>Tombow 140th Anniversary, The</title></circle></a><a href="/setts/s5/ly32k21r16lr6dt4~x2/"><circle cx="130.7" cy="196.8" r="4" fill="#3465a4"><title>Scottish American Athletic Assoc</title></circle></a><a href="/setts/s5/k4t3p11g14ly2~x2/"><circle cx="147.9" cy="213.5" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><a href="/setts/s6/r3w8db4dg14r4db2~x4/"><circle cx="150.6" cy="213.9" r="4" fill="#3465a4"><title>MacKintosh Dress (Scott Adie)</title></circle></a><a href="/setts/s7/dy17g5db2w12db2ly4g7~x4/"><circle cx="103.4" cy="175.6" r="4" fill="#3465a4"><title>Northern Ontario</title></circle></a><circle cx="144.7" cy="193.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/g36lb4g8k29r24w7~x2/

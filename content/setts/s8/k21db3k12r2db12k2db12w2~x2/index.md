@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1843
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Inverness Caledonian Thistle F.C Corporate Weavers
+- Inverness Caledonian Thistle F.C. (C
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -47,7 +54,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Marchmont](/setts/s7/k1db12k12g1k12db12w1~x4/) — ΔT 1.15
-1. [Scottish Express International](/setts/s6/db6k29b6k29db50k6/) — ΔT 1.30
+1. [Scottish Express International](/setts/s6/k6db50k29b6k29db6/) — ΔT 1.30
 1. [Carrick High School](/setts/s7/k6lo2k16t6k3db18k2~x2/) — ΔT 1.34
 1. [Printing Industries of America](/setts/s8/k7r2k2k6lo1k1lo1k4~x4/) — ΔT 1.34
 1. [Laois Irish County Tartan Tartan Number: 2252. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/k15n2k5n5k18y5k5y2k15~x2/) — ΔT 1.48
@@ -59,8 +66,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k1db12k12g1k12db12w1~x4/"><circle cx="284.5" cy="218.1" r="4" fill="#3465a4"><title>Marchmont</title></circle></a><a href="/setts/s6/db6k29b6k29db50k6/"><circle cx="255.6" cy="234.8" r="4" fill="#3465a4"><title>Scottish Express International</title></circle></a><a href="/setts/s7/k6lo2k16t6k3db18k2~x2/"><circle cx="249.6" cy="217.9" r="4" fill="#3465a4"><title>Carrick High School</title></circle></a><a href="/setts/s8/k7r2k2k6lo1k1lo1k4~x4/"><circle cx="231.0" cy="236.5" r="4" fill="#3465a4"><title>Printing Industries of America</title></circle></a><a href="/setts/s9/k15n2k5n5k18y5k5y2k15~x2/"><circle cx="278.3" cy="231.3" r="4" fill="#3465a4"><title>Laois Irish County Tartan Tartan Number: 2252. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r4k21w2k20db21k2db2~x2/"><circle cx="347.7" cy="222.3" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/setts/s5/k4dg3dp18k18lb2~x2/"><circle cx="271.6" cy="231.4" r="4" fill="#3465a4"><title>Wcwm 1106-2</title></circle></a><a href="/setts/s7/db18k1db2k18ly2dg16k16~x2/"><circle cx="278.1" cy="220.0" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/setts/s7/db18k1db2k18ly2dg16k16/"><circle cx="267.4" cy="214.6" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/setts/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><circle cx="288.0" cy="193.3" r="4" fill="#3465a4"><title>New Golf Club</title></circle></a><circle cx="310.4" cy="227.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k1db12k12g1k12db12w1~x4/"><circle cx="284.8" cy="218.0" r="4" fill="#3465a4"><title>Marchmont</title></circle></a><a href="/setts/s6/k6db50k29b6k29db6/"><circle cx="255.9" cy="234.7" r="4" fill="#3465a4"><title>Scottish Express International</title></circle></a><a href="/setts/s7/k6lo2k16t6k3db18k2~x2/"><circle cx="249.9" cy="217.8" r="4" fill="#3465a4"><title>Carrick High School</title></circle></a><a href="/setts/s8/k7r2k2k6lo1k1lo1k4~x4/"><circle cx="231.3" cy="236.5" r="4" fill="#3465a4"><title>Printing Industries of America</title></circle></a><a href="/setts/s9/k15n2k5n5k18y5k5y2k15~x2/"><circle cx="278.6" cy="231.2" r="4" fill="#3465a4"><title>Laois Irish County Tartan Tartan Number: 2252. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r4k21w2k20db21k2db2~x2/"><circle cx="347.8" cy="222.1" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/setts/s5/k4dg3dp18k18lb2~x2/"><circle cx="271.8" cy="231.2" r="4" fill="#3465a4"><title>Wcwm 1106-2</title></circle></a><a href="/setts/s7/db18k1db2k18ly2dg16k16~x2/"><circle cx="278.4" cy="219.9" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/setts/s7/db18k1db2k18ly2dg16k16/"><circle cx="267.7" cy="214.5" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/setts/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><circle cx="288.1" cy="193.2" r="4" fill="#3465a4"><title>New Golf Club</title></circle></a><circle cx="310.8" cy="227.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k21db3k12r2db12k2db12w2~x2/

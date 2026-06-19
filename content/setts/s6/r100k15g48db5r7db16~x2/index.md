@@ -2,7 +2,7 @@
 title: "Plummer (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BRBGKR](/stripes/brbgkr/) · **Stripes:** [DB R DB G K R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R DB G K R</span></span>
+**Bands:** [RKGBRB](/stripes/rkgbrb/) · **Stripes:** [R K G DB R DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R K G DB R DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2778
 
 ## Thread count
-DB/32 R14 DB10 G96 K30 R/200
+R/200 K30 G96 DB10 R14 DB/32
 ![Sett](sett.png)
 
 ## Palette
@@ -40,17 +40,17 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/32 R14 DB10 G96 K30 R/200 tartan")
+![Tartan detail](tartan.png "R/200 K30 G96 DB10 R14 DB/32 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Buccleuch](/setts/s7/r107k9r5db41r5g51r14/) — ΔT 0.40
+1. [Buccleuch](/setts/s7/r107k9r5db41r5g51r14/) — ΔT 0.41
 1. [MacPhail](/setts/s6/r25k7r3g13y1k2~x4/) — ΔT 0.56
 1. [Fraser (1745)](/setts/s6/r2db12r2g12r24w1~x2/) — ΔT 0.72
 1. [Buccleuch](/setts/s7/r107k9r5dp41r5g51r14/) — ΔT 0.76
-1. [McInally (Name)](/setts/s7/lo3g2r28k6r4g16r3~x2/) — ΔT 0.87
+1. [McInally (Name)](/setts/s7/r3g16r4k6r28g2lo3~x2/) — ΔT 0.87
 1. [Grant of Lurg](/setts/s6/r2db10r2g10r25w2~x2/) — ΔT 0.95
 1. [MacGregor of Cardney](/setts/s6/m18g9m2g3k1w1~x4/) — ΔT 0.99
 1. [MacPhail](/setts/s6/r25db7r3g13t1k2~x4/) — ΔT 1.01
@@ -59,8 +59,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r107k9r5db41r5g51r14/"><circle cx="352.5" cy="153.5" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/setts/s6/r25k7r3g13y1k2~x4/"><circle cx="351.9" cy="158.3" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/setts/s6/r2db12r2g12r24w1~x2/"><circle cx="333.7" cy="163.4" r="4" fill="#3465a4"><title>Fraser (1745)</title></circle></a><a href="/setts/s7/r107k9r5dp41r5g51r14/"><circle cx="364.3" cy="153.1" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/setts/s7/lo3g2r28k6r4g16r3~x2/"><circle cx="345.8" cy="171.5" r="4" fill="#3465a4"><title>McInally (Name)</title></circle></a><a href="/setts/s6/r2db10r2g10r25w2~x2/"><circle cx="328.6" cy="179.1" r="4" fill="#3465a4"><title>Grant of Lurg</title></circle></a><a href="/setts/s6/m18g9m2g3k1w1~x4/"><circle cx="396.7" cy="173.3" r="4" fill="#3465a4"><title>MacGregor of Cardney</title></circle></a><a href="/setts/s6/r25db7r3g13t1k2~x4/"><circle cx="328.7" cy="142.7" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/setts/s7/r2db1r16db4r1g10r1~x4/"><circle cx="376.0" cy="177.6" r="4" fill="#3465a4"><title>Robertson - 1988 (Corporate)</title></circle></a><a href="/setts/s7/r8w2m30g12m3g12m3~x2/"><circle cx="331.8" cy="186.4" r="4" fill="#3465a4"><title>Wasko (Personal)</title></circle></a><circle cx="356.6" cy="163.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r107k9r5db41r5g51r14/"><circle cx="352.2" cy="153.4" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/setts/s6/r25k7r3g13y1k2~x4/"><circle cx="351.6" cy="158.2" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/setts/s6/r2db12r2g12r24w1~x2/"><circle cx="333.4" cy="163.2" r="4" fill="#3465a4"><title>Fraser (1745)</title></circle></a><a href="/setts/s7/r107k9r5dp41r5g51r14/"><circle cx="363.9" cy="153.0" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/setts/s7/r3g16r4k6r28g2lo3~x2/"><circle cx="345.5" cy="171.4" r="4" fill="#3465a4"><title>McInally (Name)</title></circle></a><a href="/setts/s6/r2db10r2g10r25w2~x2/"><circle cx="328.3" cy="179.0" r="4" fill="#3465a4"><title>Grant of Lurg</title></circle></a><a href="/setts/s6/m18g9m2g3k1w1~x4/"><circle cx="396.4" cy="173.1" r="4" fill="#3465a4"><title>MacGregor of Cardney</title></circle></a><a href="/setts/s6/r25db7r3g13t1k2~x4/"><circle cx="328.4" cy="142.6" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/setts/s7/r2db1r16db4r1g10r1~x4/"><circle cx="375.6" cy="177.4" r="4" fill="#3465a4"><title>Robertson - 1988 (Corporate)</title></circle></a><a href="/setts/s7/r8w2m30g12m3g12m3~x2/"><circle cx="331.5" cy="186.3" r="4" fill="#3465a4"><title>Wasko (Personal)</title></circle></a><circle cx="356.2" cy="163.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r100k15g48db5r7db16~x2/

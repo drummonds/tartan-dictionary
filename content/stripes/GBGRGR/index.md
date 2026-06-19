@@ -20,7 +20,7 @@ GBGRGR
 
 
 
-### Y N Y R Y R <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="seq">Y N Y R Y R</span></span>
+### R Y R Y N Y <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R Y R Y N Y</span></span>
 
 | Tartans |
 |---------------|

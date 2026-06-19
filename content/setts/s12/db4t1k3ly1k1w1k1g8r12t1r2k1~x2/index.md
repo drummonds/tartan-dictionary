@@ -2,12 +2,18 @@
 title: "MacLean of Duart 5"
 date: 2023-03-18
 ---
-**Bands:** [BBKYKWKGRBRK](/stripes/bbkykwkgrbrk/) · **Stripes:** [DB T K LY K W K G R T R K](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">DB T K LY K W K G R T R K</span></span>
+**Bands:** [KRBRGKWKYKBB](/stripes/krbrgkwkykbb/) · **Stripes:** [K R T R G K W K LY K T DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">K R T R G K W K LY K T DB</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacLean of Duart
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -919,12 +928,12 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Cree Clan Tartan Tartan Number: 1856. Earliest known date: 1981 A branch of the Stewart clan from Galloway and the South West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/ly3do22db2k7ly3k2w3k2g7r5k3r3w3~x2/) — ΔT 0.72
+1. [Cree Clan Tartan Tartan Number: 1856. Earliest known date: 1981 A branch of the Stewart clan from Galloway and the South West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/w3r3k3r5g7k2w3k2ly3k7db2do22ly3~x2/) — ΔT 0.72
 1. [MacLean of Duart #6](/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x4/) — ΔT 0.74
 1. [MacLean](/setts/s12/db4lb1k3ly1dg1lb1k1dg8r12lb1r2k1~x2/) — ΔT 0.90
-1. [Cree](/setts/s13/ly3dr22db2k7ly3k2w3k2g7r5k3r3w3~x2/) — ΔT 0.91
+1. [Cree](/setts/s13/w3r3k3r5g7k2w3k2ly3k7db2dr22ly3~x2/) — ΔT 0.91
 1. [MacLean](/setts/s12/db4b1k3ly1k1lr1k1dg8r12b1r2k1~x2/) — ΔT 0.94
-1. [Cree (Fashion)](/setts/s13/ly3dy20db2k6ly3k2w3k2g6r6k3r3w3~x2/) — ΔT 0.95
+1. [Cree (Fashion)](/setts/s13/w3r3k3r6g6k2w3k2ly3k6db2dy20ly3~x2/) — ΔT 0.95
 1. [Angels' Share, The](/setts/s11/o40ly10w6lo10dy6lo4dy6lo4dy60k34t11/) — ΔT 0.99
 1. [MacLean](/setts/s12/do9t5k8ly2k4w4k4g28r44t4r5k3~x2/) — ΔT 1.00
 1. [MacLean of Duart 1](/setts/s11/t13k6ly2k3w4k3g22r31t3r4k2~x2/) — ΔT 1.01
@@ -932,8 +941,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/ly3do22db2k7ly3k2w3k2g7r5k3r3w3~x2/"><circle cx="86.1" cy="94.7" r="4" fill="#3465a4"><title>Cree Clan Tartan Tartan Number: 1856. Earliest known date: 1981 A branch of the Stewart clan from Galloway and the South West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x4/"><circle cx="142.7" cy="91.3" r="4" fill="#3465a4"><title>MacLean of Duart #6</title></circle></a><a href="/setts/s12/db4lb1k3ly1dg1lb1k1dg8r12lb1r2k1~x2/"><circle cx="143.4" cy="100.2" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s13/ly3dr22db2k7ly3k2w3k2g7r5k3r3w3~x2/"><circle cx="74.7" cy="90.1" r="4" fill="#3465a4"><title>Cree</title></circle></a><a href="/setts/s12/db4b1k3ly1k1lr1k1dg8r12b1r2k1~x2/"><circle cx="139.7" cy="97.3" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s13/ly3dy20db2k6ly3k2w3k2g6r6k3r3w3~x2/"><circle cx="66.7" cy="98.0" r="4" fill="#3465a4"><title>Cree (Fashion)</title></circle></a><a href="/setts/s11/o40ly10w6lo10dy6lo4dy6lo4dy60k34t11/"><circle cx="133.9" cy="90.7" r="4" fill="#3465a4"><title>Angels' Share, The</title></circle></a><a href="/setts/s12/do9t5k8ly2k4w4k4g28r44t4r5k3~x2/"><circle cx="166.7" cy="59.1" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3g22r31t3r4k2~x2/"><circle cx="147.1" cy="97.0" r="4" fill="#3465a4"><title>MacLean of Duart 1</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4g32r50t6r8k3/"><circle cx="159.3" cy="94.3" r="4" fill="#3465a4"><title>MacLean of Duart 3</title></circle></a><circle cx="125.0" cy="86.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/w3r3k3r5g7k2w3k2ly3k7db2do22ly3~x2/"><circle cx="86.1" cy="94.9" r="4" fill="#3465a4"><title>Cree Clan Tartan Tartan Number: 1856. Earliest known date: 1981 A branch of the Stewart clan from Galloway and the South West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x4/"><circle cx="142.6" cy="91.5" r="4" fill="#3465a4"><title>MacLean of Duart #6</title></circle></a><a href="/setts/s12/db4lb1k3ly1dg1lb1k1dg8r12lb1r2k1~x2/"><circle cx="143.3" cy="100.3" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s13/w3r3k3r5g7k2w3k2ly3k7db2dr22ly3~x2/"><circle cx="74.7" cy="90.2" r="4" fill="#3465a4"><title>Cree</title></circle></a><a href="/setts/s12/db4b1k3ly1k1lr1k1dg8r12b1r2k1~x2/"><circle cx="139.8" cy="97.5" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s13/w3r3k3r6g6k2w3k2ly3k6db2dy20ly3~x2/"><circle cx="66.6" cy="98.2" r="4" fill="#3465a4"><title>Cree (Fashion)</title></circle></a><a href="/setts/s11/o40ly10w6lo10dy6lo4dy6lo4dy60k34t11/"><circle cx="133.7" cy="90.9" r="4" fill="#3465a4"><title>Angels' Share, The</title></circle></a><a href="/setts/s12/do9t5k8ly2k4w4k4g28r44t4r5k3~x2/"><circle cx="166.6" cy="59.2" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3g22r31t3r4k2~x2/"><circle cx="146.9" cy="97.0" r="4" fill="#3465a4"><title>MacLean of Duart 1</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4g32r50t6r8k3/"><circle cx="159.2" cy="94.4" r="4" fill="#3465a4"><title>MacLean of Duart 3</title></circle></a><circle cx="124.9" cy="86.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x2/

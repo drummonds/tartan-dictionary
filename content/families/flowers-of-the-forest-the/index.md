@@ -13,6 +13,6 @@ A family of [Clan Flowers](/clan/flowers/).
 ## Other tartans
 
 <ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s9/o2r4r2db5lg3y13r20do2r2~x2/"><img src="/setts/s9/o2r4r2db5lg3y13r20do2r2~x2/sett.png" alt="Flowers of the Forest, The" width="140"><br>Flowers of the Forest, The</a></li>
+<li><a class="tartan" href="/setts/s9/r2do2r20y13lg3db5r2r4o2~x2/"><img src="/setts/s9/r2do2r20y13lg3db5r2r4o2~x2/sett.png" alt="Flowers of the Forest, The" width="140"><br>Flowers of the Forest, The</a></li>
 </ul>
 

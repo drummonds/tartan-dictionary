@@ -20,7 +20,7 @@ BGYKK
 
 
 
-### N DY LO K K <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="seq">N DY LO K K</span></span>
+### K K LO DY N <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#636363"></span><span class="seq">K K LO DY N</span></span>
 
 | Tartans |
 |---------------|

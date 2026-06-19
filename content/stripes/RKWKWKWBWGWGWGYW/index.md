@@ -22,6 +22,6 @@ RKWKWKWBWGWGWGYW
 
 | Tartans |
 |---------------|
-| [Clanedin/Commonwealth](/setts/s16/lb3ly10dy4lb2dy3lb2dy2lb6db3lb6k2lb2k3lb2k8r3~x2/)|
-|![Clanedin/Commonwealth example sett](/setts/s16/lb3ly10dy4lb2dy3lb2dy2lb6db3lb6k2lb2k3lb2k8r3~x2/sett.png)|
+| [Clanedin/Commonwealth](/setts/s16/r3k8lb2k3lb2k2lb6db3lb6dy2lb2dy3lb2dy4ly10lb3~x2/)|
+|![Clanedin/Commonwealth example sett](/setts/s16/r3k8lb2k3lb2k2lb6db3lb6dy2lb2dy3lb2dy4ly10lb3~x2/sett.png)|
 

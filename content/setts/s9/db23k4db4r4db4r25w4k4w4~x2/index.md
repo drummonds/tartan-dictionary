@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -922,8 +925,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r18ly2b6ly2b4ly2b12ly3r4g2~x2/"><circle cx="204.4" cy="167.2" r="4" fill="#3465a4"><title>Unnamed</title></circle></a><a href="/setts/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="222.2" cy="153.3" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/setts/s10/r10k4r4k6r28k10lo4db30k4db7~x2/"><circle cx="207.9" cy="187.5" r="4" fill="#3465a4"><title>St George's School</title></circle></a><a href="/setts/s12/r3t19k4r3k3r7k3r5k3r5k2w2~x2/"><circle cx="178.6" cy="154.2" r="4" fill="#3465a4"><title>Duchess of Kent</title></circle></a><a href="/setts/s10/db1dg4db1r1db1ly1db5r6db1ly1~x2/"><circle cx="187.6" cy="194.0" r="4" fill="#3465a4"><title>Unidentified Specimen #3</title></circle></a><a href="/setts/s7/ly3db22k3db3k11r20ly3~x2/"><circle cx="163.8" cy="191.3" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/setts/s9/db1r1k8r1db1r1o8r1db1~x4/"><circle cx="187.0" cy="170.4" r="4" fill="#3465a4"><title>MacPherson Hunting Clan Tartan Tartan Number: 547. Earliest known date: 1850 This version also appears in Grants 'Tartans of the Clans of Scotland' (1886). D.W.Stewart said (in 1893) &quot;it was the earliest known to have been worn by the clan, and is reputed to have been worn in two forms; as a clan tartan with a white ground and as a hunting tartan with a grey ground&quot;. It appeared first in Smiths work of 1850, 'Authenticated Tartans of the Clans and Families of Scotland'. Originally recorded in the Urquhart Register as MacPherson of Pitmain. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r3k15r2k2r6o16k3o2k3o9w2~x2/"><circle cx="195.6" cy="172.1" r="4" fill="#3465a4"><title>Lunch with an Old Bag Charity, The</title></circle></a><a href="/setts/s11/m3k15m2k2m6lr16k3lr2k3lr9w2~x2/"><circle cx="181.1" cy="159.9" r="4" fill="#3465a4"><title>Lunch with an Old Bag (Fundraising Committee)</title></circle></a><a href="/setts/s9/b1r1k8r1b1r1o8r1b1~x4/"><circle cx="185.3" cy="170.1" r="4" fill="#3465a4"><title>MacPherson Htg</title></circle></a><circle cx="194.1" cy="177.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r18ly2b6ly2b4ly2b12ly3r4g2~x2/"><circle cx="204.3" cy="167.1" r="4" fill="#3465a4"><title>Unnamed</title></circle></a><a href="/setts/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="222.0" cy="153.2" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/setts/s10/r10k4r4k6r28k10lo4db30k4db7~x2/"><circle cx="207.8" cy="187.5" r="4" fill="#3465a4"><title>St George's School</title></circle></a><a href="/setts/s12/r3t19k4r3k3r7k3r5k3r5k2w2~x2/"><circle cx="178.5" cy="154.1" r="4" fill="#3465a4"><title>Duchess of Kent</title></circle></a><a href="/setts/s10/db1dg4db1r1db1ly1db5r6db1ly1~x2/"><circle cx="187.5" cy="193.9" r="4" fill="#3465a4"><title>Unidentified Specimen #3</title></circle></a><a href="/setts/s7/ly3db22k3db3k11r20ly3~x2/"><circle cx="163.9" cy="191.2" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/setts/s9/db1r1k8r1db1r1o8r1db1~x4/"><circle cx="187.0" cy="170.4" r="4" fill="#3465a4"><title>MacPherson Hunting Clan Tartan Tartan Number: 547. Earliest known date: 1850 This version also appears in Grants 'Tartans of the Clans of Scotland' (1886). D.W.Stewart said (in 1893) &quot;it was the earliest known to have been worn by the clan, and is reputed to have been worn in two forms; as a clan tartan with a white ground and as a hunting tartan with a grey ground&quot;. It appeared first in Smiths work of 1850, 'Authenticated Tartans of the Clans and Families of Scotland'. Originally recorded in the Urquhart Register as MacPherson of Pitmain. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r3k15r2k2r6o16k3o2k3o9w2~x2/"><circle cx="195.4" cy="172.0" r="4" fill="#3465a4"><title>Lunch with an Old Bag Charity, The</title></circle></a><a href="/setts/s11/m3k15m2k2m6lr16k3lr2k3lr9w2~x2/"><circle cx="180.9" cy="159.8" r="4" fill="#3465a4"><title>Lunch with an Old Bag (Fundraising Committee)</title></circle></a><a href="/setts/s9/b1r1k8r1b1r1o8r1b1~x4/"><circle cx="185.2" cy="170.1" r="4" fill="#3465a4"><title>MacPherson Htg</title></circle></a><circle cx="194.0" cy="177.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/db23k4db4r4db4r25w4k4w4~x2/

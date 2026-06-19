@@ -2,12 +2,18 @@
 title: "Cockburn"
 date: 2023-03-18
 ---
-**Bands:** [BKGKGKBKWKBKYKGKR](/stripes/bkgkgkbkwkbkykgkr/) · **Stripes:** [DB K G K G K DB K W K DB K LY K G K R](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K G K G K DB K W K DB K LY K G K R</span></span>
+**Bands:** [RKGKYKBKWKBKGKGKB](/stripes/rkgkykbkwkbkgkgkb/) · **Stripes:** [R K G K LY K DB K W K DB K G K G K DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K G K LY K DB K W K DB K G K G K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [17 band tartan](/bands/bands17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Cockburn
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -904,21 +913,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Scotia (EWM)](/setts/s16/db58g28dy4w18db14r3db8k4db8r3db14w18dy4g28db58w4/) — ΔT 1.26
+1. [Scotia (EWM)](/setts/s16/db58g28dy4w18db14r3db8k4db8r3db14w18dy4g28db58w4/) — ΔT 1.27
 1. [Me to You](/setts/s12/db32w3db3ly3k3g3k3r10db6k3db3g3~x2/) — ΔT 1.30
 1. [Rankin](/setts/s16/db36g10r2g10w2g10r2k10db14r2db12r3db2r2db4w2~x2/) — ΔT 1.32
 1. [Leando (Coldingham) Dress (Personal)](/setts/s13/n38k4r3do6w2do2w2do2k12n6do2n6w2~x2/) — ΔT 1.36
-1. [Cockburn Blue](/setts/s17/db15k1dg1k1dg1k1db5k1w1k1db5k1ly1k1dg5k1r1~x2/) — ΔT 1.46
+1. [Cockburn Blue](/setts/s17/db15k1dg1k1dg1k1db5k1w1k1db5k1ly1k1dg5k1r1~x2/) — ΔT 1.45
 1. [Astrobiology](/setts/s15/k23db1g1r3db2r1db12ly1k1w1k6db4g2k2g3~x2/) — ΔT 1.47
 1. [Parker, Black (2009) (Name)](/setts/s14/k30r3db10ly3k40t5o5db8r3ly5k25db8t8k5/) — ΔT 1.47
-1. [Glasgow, University of Corporate Tartan Tartan Number: 2680. Earliest known date: 2002 The official livery and promotional university tartan (STS). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/db2w2k2lo2k7g4db22k2db22g4k7lo2k2w2~x2/) — ΔT 1.48
+1. [Glasgow, University of Corporate Tartan Tartan Number: 2680. Earliest known date: 2002 The official livery and promotional university tartan (STS). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/k2db22g4k7lo2k2w2db2~x2/) — ΔT 1.48
 1. [Cavalry, 7th..](/setts/s17/db48w4g3ly2w2ly2g3w2r8w4db5lp3g2lp3db5w4r4/) — ΔT 1.48
 1. [Joss](/setts/s13/r3g1db2g4db30k2db4k2db30g27ly3k3w3~x2/) — ΔT 1.49
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/db58g28dy4w18db14r3db8k4db8r3db14w18dy4g28db58w4/"><circle cx="270.4" cy="99.6" r="4" fill="#3465a4"><title>Scotia (EWM)</title></circle></a><a href="/setts/s12/db32w3db3ly3k3g3k3r10db6k3db3g3~x2/"><circle cx="276.6" cy="118.3" r="4" fill="#3465a4"><title>Me to You</title></circle></a><a href="/setts/s16/db36g10r2g10w2g10r2k10db14r2db12r3db2r2db4w2~x2/"><circle cx="282.4" cy="118.0" r="4" fill="#3465a4"><title>Rankin</title></circle></a><a href="/setts/s13/n38k4r3do6w2do2w2do2k12n6do2n6w2~x2/"><circle cx="299.7" cy="95.2" r="4" fill="#3465a4"><title>Leando (Coldingham) Dress (Personal)</title></circle></a><a href="/setts/s17/db15k1dg1k1dg1k1db5k1w1k1db5k1ly1k1dg5k1r1~x2/"><circle cx="319.3" cy="110.3" r="4" fill="#3465a4"><title>Cockburn Blue</title></circle></a><a href="/setts/s15/k23db1g1r3db2r1db12ly1k1w1k6db4g2k2g3~x2/"><circle cx="280.7" cy="88.6" r="4" fill="#3465a4"><title>Astrobiology</title></circle></a><a href="/setts/s14/k30r3db10ly3k40t5o5db8r3ly5k25db8t8k5/"><circle cx="304.1" cy="132.0" r="4" fill="#3465a4"><title>Parker, Black (2009) (Name)</title></circle></a><a href="/setts/s14/db2w2k2lo2k7g4db22k2db22g4k7lo2k2w2~x2/"><circle cx="288.0" cy="144.8" r="4" fill="#3465a4"><title>Glasgow, University of Corporate Tartan Tartan Number: 2680. Earliest known date: 2002 The official livery and promotional university tartan (STS). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/db48w4g3ly2w2ly2g3w2r8w4db5lp3g2lp3db5w4r4/"><circle cx="267.8" cy="40.1" r="4" fill="#3465a4"><title>Cavalry, 7th..</title></circle></a><a href="/setts/s13/r3g1db2g4db30k2db4k2db30g27ly3k3w3~x2/"><circle cx="321.2" cy="87.4" r="4" fill="#3465a4"><title>Joss</title></circle></a><circle cx="279.3" cy="90.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/db58g28dy4w18db14r3db8k4db8r3db14w18dy4g28db58w4/"><circle cx="270.3" cy="99.6" r="4" fill="#3465a4"><title>Scotia (EWM)</title></circle></a><a href="/setts/s12/db32w3db3ly3k3g3k3r10db6k3db3g3~x2/"><circle cx="276.5" cy="118.3" r="4" fill="#3465a4"><title>Me to You</title></circle></a><a href="/setts/s16/db36g10r2g10w2g10r2k10db14r2db12r3db2r2db4w2~x2/"><circle cx="282.3" cy="118.0" r="4" fill="#3465a4"><title>Rankin</title></circle></a><a href="/setts/s13/n38k4r3do6w2do2w2do2k12n6do2n6w2~x2/"><circle cx="299.5" cy="95.1" r="4" fill="#3465a4"><title>Leando (Coldingham) Dress (Personal)</title></circle></a><a href="/setts/s17/db15k1dg1k1dg1k1db5k1w1k1db5k1ly1k1dg5k1r1~x2/"><circle cx="319.2" cy="110.4" r="4" fill="#3465a4"><title>Cockburn Blue</title></circle></a><a href="/setts/s15/k23db1g1r3db2r1db12ly1k1w1k6db4g2k2g3~x2/"><circle cx="280.7" cy="88.7" r="4" fill="#3465a4"><title>Astrobiology</title></circle></a><a href="/setts/s14/k30r3db10ly3k40t5o5db8r3ly5k25db8t8k5/"><circle cx="304.1" cy="131.9" r="4" fill="#3465a4"><title>Parker, Black (2009) (Name)</title></circle></a><a href="/setts/s14/k2db22g4k7lo2k2w2db2~x2/"><circle cx="288.0" cy="144.8" r="4" fill="#3465a4"><title>Glasgow, University of Corporate Tartan Tartan Number: 2680. Earliest known date: 2002 The official livery and promotional university tartan (STS). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/db48w4g3ly2w2ly2g3w2r8w4db5lp3g2lp3db5w4r4/"><circle cx="267.6" cy="40.1" r="4" fill="#3465a4"><title>Cavalry, 7th..</title></circle></a><a href="/setts/s13/r3g1db2g4db30k2db4k2db30g27ly3k3w3~x2/"><circle cx="321.0" cy="87.4" r="4" fill="#3465a4"><title>Joss</title></circle></a><circle cx="279.2" cy="90.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s17/db15k1g1k1g1k1db5k1w1k1db5k1ly1k1g5k1r1~x2/

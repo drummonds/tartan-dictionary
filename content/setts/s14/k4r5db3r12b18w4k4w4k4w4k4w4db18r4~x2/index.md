@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k4r6db3r16t18w4k4w4k4w4k4w4db18r4~x2/"><circle cx="43.8" cy="150.8" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo (Dance)</title></circle></a><a href="/setts/s15/dp16lb2r7lb2k14lb8dp15lb2dg17lb6dg6r8k6r8k2/"><circle cx="39.5" cy="156.3" r="4" fill="#3465a4"><title>Huntly Old</title></circle></a><a href="/setts/s12/r8w30y5w8y5k12w6k12db28r4db8r8/"><circle cx="66.5" cy="151.4" r="4" fill="#3465a4"><title>Kinloch Anderson Dress</title></circle></a><a href="/setts/s16/g1r1g1r1db7r6w7k1w7r6db7r1g1r1g1w1~x4/"><circle cx="88.3" cy="130.5" r="4" fill="#3465a4"><title>Oliver Dress (Dance)</title></circle></a><a href="/setts/s12/ly3ly3ly12k2ly2lo2ly8k2db12dp8k2dp2~x2/"><circle cx="30.1" cy="146.6" r="4" fill="#3465a4"><title>Merise and Lars (Personal)</title></circle></a><a href="/setts/s13/db15w2db9db10db2db10r8db2r8lo6r2lo19w3~x2/"><circle cx="85.7" cy="156.8" r="4" fill="#3465a4"><title>Holland, Tartan of (Fashion)</title></circle></a><a href="/setts/s9/w4db8w1lo1db6lo3r6lo1w4~x2/"><circle cx="43.2" cy="170.6" r="4" fill="#3465a4"><title>Womble</title></circle></a><a href="/setts/s15/db2k1db6k1r5ly3r5k2w3k2w9k1w2k1ly2~x2/"><circle cx="61.9" cy="134.3" r="4" fill="#3465a4"><title>Unidentified #11</title></circle></a><a href="/setts/s9/w4db8w1r1db6r3r6r1w4~x2/"><circle cx="47.0" cy="169.2" r="4" fill="#3465a4"><title>Wombles #5</title></circle></a><a href="/setts/s9/w4db8w1db1dg6db3r6db1w4~x2/"><circle cx="45.7" cy="178.1" r="4" fill="#3465a4"><title>Wombles #2</title></circle></a><circle cx="26.1" cy="152.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k4r6db3r16t18w4k4w4k4w4k4w4db18r4~x2/"><circle cx="43.8" cy="150.9" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo (Dance)</title></circle></a><a href="/setts/s15/dp16lb2r7lb2k14lb8dp15lb2dg17lb6dg6r8k6r8k2/"><circle cx="39.6" cy="156.4" r="4" fill="#3465a4"><title>Huntly Old</title></circle></a><a href="/setts/s12/r8w30y5w8y5k12w6k12db28r4db8r8/"><circle cx="66.5" cy="151.4" r="4" fill="#3465a4"><title>Kinloch Anderson Dress</title></circle></a><a href="/setts/s16/g1r1g1r1db7r6w7k1w7r6db7r1g1r1g1w1~x4/"><circle cx="88.2" cy="130.5" r="4" fill="#3465a4"><title>Oliver Dress (Dance)</title></circle></a><a href="/setts/s12/ly3ly3ly12k2ly2lo2ly8k2db12dp8k2dp2~x2/"><circle cx="30.1" cy="146.7" r="4" fill="#3465a4"><title>Merise and Lars (Personal)</title></circle></a><a href="/setts/s13/db15w2db9db10db2db10r8db2r8lo6r2lo19w3~x2/"><circle cx="85.6" cy="156.9" r="4" fill="#3465a4"><title>Holland, Tartan of (Fashion)</title></circle></a><a href="/setts/s9/w4db8w1lo1db6lo3r6lo1w4~x2/"><circle cx="43.1" cy="170.7" r="4" fill="#3465a4"><title>Womble</title></circle></a><a href="/setts/s15/db2k1db6k1r5ly3r5k2w3k2w9k1w2k1ly2~x2/"><circle cx="61.8" cy="134.3" r="4" fill="#3465a4"><title>Unidentified #11</title></circle></a><a href="/setts/s9/w4db8w1r1db6r3r6r1w4~x2/"><circle cx="47.0" cy="169.3" r="4" fill="#3465a4"><title>Wombles #5</title></circle></a><a href="/setts/s9/w4db8w1db1dg6db3r6db1w4~x2/"><circle cx="45.7" cy="178.1" r="4" fill="#3465a4"><title>Wombles #2</title></circle></a><circle cx="26.1" cy="152.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/k4r5db3r12b18w4k4w4k4w4k4w4db18r4~x2/

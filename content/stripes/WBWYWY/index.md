@@ -20,7 +20,7 @@ WBWYWY
 
 
 
-### W DP W LY W LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W DP W LY W LY</span></span>
+### LY W LY W DP W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY W LY W DP W</span></span>
 
 | Tartans |
 |---------------|

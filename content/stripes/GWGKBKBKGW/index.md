@@ -22,6 +22,6 @@ GWGKBKBKGW
 
 | Tartans |
 |---------------|
-| [Wilson's No.158](/setts/s10/g19w2g4k13dp12k3dp12k13g4w2~x2/)|
-|![Wilson's No.158 example sett](/setts/s10/g19w2g4k13dp12k3dp12k13g4w2~x2/sett.png)|
+| [Wilson's No.158](/setts/s10/g19w2g4k13dp12k3~x2/)|
+|![Wilson's No.158 example sett](/setts/s10/g19w2g4k13dp12k3~x2/sett.png)|
 

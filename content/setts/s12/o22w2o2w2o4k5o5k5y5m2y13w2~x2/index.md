@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 N26 DR4 N10 K10 LT10 K10 LT8 LN4 LT4 LN4 LT/44
+LT/44 LN4 LT4 LN4 LT8 K10 LT10 K10 N10 DR4 N26 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/w3k2g18r2db9r18g2r2g2r2db2r3g18k2~x2/"><circle cx="224.5" cy="141.7" r="4" fill="#3465a4"><title>MacGuire (Name)</title></circle></a><a href="/setts/s12/o4k2r2k1r1k1r2db3o1dg4o9dg1~x4/"><circle cx="174.3" cy="157.4" r="4" fill="#3465a4"><title>California Firefighters (Corporate)</title></circle></a><a href="/setts/s10/lo24k5r2k2w2n8w3k2w2lo2~x2/"><circle cx="242.3" cy="123.0" r="4" fill="#3465a4"><title>Stewart Fawn Trade Tartan Tartan Number: 1738. Earliest known date: 1985 A very attractive sett based on the Royal Stewart tartan but using the colours of the Burberry Check. See Thompson Camel tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/dy27w2dy3lo4dy3w2dy5k13n2w26n3~x2/"><circle cx="189.2" cy="113.8" r="4" fill="#3465a4"><title>MacKellar Dress, Maroon (Dance)</title></circle></a><a href="/setts/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/"><circle cx="234.7" cy="151.9" r="4" fill="#3465a4"><title>Hynde Artifact Tartan Tartan Number: 976. Earliest known date: 1744 Trews belonging to Sir John Hynde. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/o24k5r2k2w2n8w3k2w2o2~x2/"><circle cx="242.6" cy="117.5" r="4" fill="#3465a4"><title>Stuart/Stewart Fawn</title></circle></a><a href="/setts/s11/g14r1g14r7w1r7w1r7db5p3w1~x4/"><circle cx="221.8" cy="146.9" r="4" fill="#3465a4"><title>Hynde</title></circle></a><a href="/setts/s12/n4r20k2r2k2r3k6o26w3o2w2o4~x2/"><circle cx="225.1" cy="120.0" r="4" fill="#3465a4"><title>Eidart 1990 (Fashion)</title></circle></a><a href="/setts/s10/g6k2g3k2g6db8r20ly2r3g2~x2/"><circle cx="210.1" cy="153.7" r="4" fill="#3465a4"><title>Connolly Dress (Name)</title></circle></a><a href="/setts/s12/r4k2ly13lo3k22r2k2w13k7r3k7w4~x2/"><circle cx="181.4" cy="138.8" r="4" fill="#3465a4"><title>Tyrone County Crest (Fashion)</title></circle></a><circle cx="213.0" cy="135.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/w3k2g18r2db9r18g2r2g2r2db2r3g18k2~x2/"><circle cx="224.3" cy="141.7" r="4" fill="#3465a4"><title>MacGuire (Name)</title></circle></a><a href="/setts/s12/o4k2r2k1r1k1r2db3o1dg4o9dg1~x4/"><circle cx="174.2" cy="157.4" r="4" fill="#3465a4"><title>California Firefighters (Corporate)</title></circle></a><a href="/setts/s10/lo24k5r2k2w2n8w3k2w2lo2~x2/"><circle cx="242.0" cy="122.9" r="4" fill="#3465a4"><title>Stewart Fawn Trade Tartan Tartan Number: 1738. Earliest known date: 1985 A very attractive sett based on the Royal Stewart tartan but using the colours of the Burberry Check. See Thompson Camel tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/dy27w2dy3lo4dy3w2dy5k13n2w26n3~x2/"><circle cx="188.9" cy="113.8" r="4" fill="#3465a4"><title>MacKellar Dress, Maroon (Dance)</title></circle></a><a href="/setts/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/"><circle cx="234.5" cy="151.9" r="4" fill="#3465a4"><title>Hynde Artifact Tartan Tartan Number: 976. Earliest known date: 1744 Trews belonging to Sir John Hynde. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/o24k5r2k2w2n8w3k2w2o2~x2/"><circle cx="242.3" cy="117.5" r="4" fill="#3465a4"><title>Stuart/Stewart Fawn</title></circle></a><a href="/setts/s11/g14r1g14r7w1r7w1r7db5p3w1~x4/"><circle cx="221.6" cy="146.9" r="4" fill="#3465a4"><title>Hynde</title></circle></a><a href="/setts/s12/n4r20k2r2k2r3k6o26w3o2w2o4~x2/"><circle cx="224.8" cy="120.0" r="4" fill="#3465a4"><title>Eidart 1990 (Fashion)</title></circle></a><a href="/setts/s10/g6k2g3k2g6db8r20ly2r3g2~x2/"><circle cx="209.9" cy="153.8" r="4" fill="#3465a4"><title>Connolly Dress (Name)</title></circle></a><a href="/setts/s12/r4k2ly13lo3k22r2k2w13k7r3k7w4~x2/"><circle cx="181.3" cy="138.7" r="4" fill="#3465a4"><title>Tyrone County Crest (Fashion)</title></circle></a><circle cx="212.7" cy="135.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/o22w2o2w2o4k5o5k5y5m2y13w2~x2/

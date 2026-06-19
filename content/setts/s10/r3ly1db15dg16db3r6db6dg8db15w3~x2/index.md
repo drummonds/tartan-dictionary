@@ -35,20 +35,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Apache](/setts/s12/k15db7o3k13o3db7k23o3db7ly2dp4ly2~x2/) — ΔT 1.10
-1. [Steve Walls](/setts/s10/r3ly1db15g16db3r6db6g8db15w3~x2/) — ΔT 1.17
-1. [Dalmeny - 2002 (Fashion)](/setts/s10/db11w2db11k4g8r1g8k4db11w2~x2/) — ΔT 1.21
-1. [Grainger](/setts/s12/db36r4db6g18db15k18w4k18db15g18db6r4~x2/) — ΔT 1.30
+1. [Steve Walls](/setts/s10/r3ly1db15g16db3r6db6g8db15w3~x2/) — ΔT 1.18
+1. [Dalmeny - 2002 (Fashion)](/setts/s10/db11w2db11k4g8r1~x2/) — ΔT 1.21
+1. [Grainger](/setts/s12/db36r4db6g18db15k18w4~x2/) — ΔT 1.30
 1. [Goodwin, Robert Richard (Personal)](/setts/s12/k5lb2b10lb2k5db15k2db15k5db10lb1ly2~x2/) — ΔT 1.33
 1. [U.S.I. Limited](/setts/s11/k20n2t2n4dg20w2k16n7t2k3t5~x2/) — ΔT 1.34
 1. [Croy, Jake (Personal)](/setts/s8/n10k7lt2lb2k27b7lt2b7~x2/) — ΔT 1.35
-1. [MacCainsh](/setts/s11/lo2db8k1g2k1g4k1g2k1db8r2~x2/) — ΔT 1.36
 1. [Edgar (2014) (Name)](/setts/s13/w1db16k12lb2dp3lb2k12db2k2db2k2db7w1~x2/) — ΔT 1.36
-1. [Miller](/setts/s8/lo2g6b9db30b9g15db6r2~x2/) — ΔT 1.39
+1. [MacCainsh](/setts/s11/r2db8k1g2k1g4k1g2k1db8lo2~x2/) — ΔT 1.36
+1. [Miller](/setts/s8/r2db6g15b9db30b9g6lo2~x2/) — ΔT 1.39
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k15db7o3k13o3db7k23o3db7ly2dp4ly2~x2/"><circle cx="280.3" cy="173.2" r="4" fill="#3465a4"><title>Apache</title></circle></a><a href="/setts/s10/r3ly1db15g16db3r6db6g8db15w3~x2/"><circle cx="246.7" cy="171.7" r="4" fill="#3465a4"><title>Steve Walls</title></circle></a><a href="/setts/s10/db11w2db11k4g8r1g8k4db11w2~x2/"><circle cx="224.2" cy="196.8" r="4" fill="#3465a4"><title>Dalmeny - 2002 (Fashion)</title></circle></a><a href="/setts/s12/db36r4db6g18db15k18w4k18db15g18db6r4~x2/"><circle cx="206.5" cy="199.1" r="4" fill="#3465a4"><title>Grainger</title></circle></a><a href="/setts/s12/k5lb2b10lb2k5db15k2db15k5db10lb1ly2~x2/"><circle cx="263.1" cy="168.0" r="4" fill="#3465a4"><title>Goodwin, Robert Richard (Personal)</title></circle></a><a href="/setts/s11/k20n2t2n4dg20w2k16n7t2k3t5~x2/"><circle cx="209.8" cy="173.7" r="4" fill="#3465a4"><title>U.S.I. Limited</title></circle></a><a href="/setts/s8/n10k7lt2lb2k27b7lt2b7~x2/"><circle cx="266.9" cy="169.2" r="4" fill="#3465a4"><title>Croy, Jake (Personal)</title></circle></a><a href="/setts/s11/lo2db8k1g2k1g4k1g2k1db8r2~x2/"><circle cx="223.9" cy="186.7" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/setts/s13/w1db16k12lb2dp3lb2k12db2k2db2k2db7w1~x2/"><circle cx="251.9" cy="147.9" r="4" fill="#3465a4"><title>Edgar (2014) (Name)</title></circle></a><a href="/setts/s8/lo2g6b9db30b9g15db6r2~x2/"><circle cx="229.9" cy="180.8" r="4" fill="#3465a4"><title>Miller</title></circle></a><circle cx="253.8" cy="183.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k15db7o3k13o3db7k23o3db7ly2dp4ly2~x2/"><circle cx="280.4" cy="173.1" r="4" fill="#3465a4"><title>Apache</title></circle></a><a href="/setts/s10/r3ly1db15g16db3r6db6g8db15w3~x2/"><circle cx="246.7" cy="171.7" r="4" fill="#3465a4"><title>Steve Walls</title></circle></a><a href="/setts/s10/db11w2db11k4g8r1~x2/"><circle cx="224.3" cy="196.8" r="4" fill="#3465a4"><title>Dalmeny - 2002 (Fashion)</title></circle></a><a href="/setts/s12/db36r4db6g18db15k18w4~x2/"><circle cx="206.6" cy="199.1" r="4" fill="#3465a4"><title>Grainger</title></circle></a><a href="/setts/s12/k5lb2b10lb2k5db15k2db15k5db10lb1ly2~x2/"><circle cx="263.2" cy="168.0" r="4" fill="#3465a4"><title>Goodwin, Robert Richard (Personal)</title></circle></a><a href="/setts/s11/k20n2t2n4dg20w2k16n7t2k3t5~x2/"><circle cx="210.0" cy="173.7" r="4" fill="#3465a4"><title>U.S.I. Limited</title></circle></a><a href="/setts/s8/n10k7lt2lb2k27b7lt2b7~x2/"><circle cx="267.0" cy="169.1" r="4" fill="#3465a4"><title>Croy, Jake (Personal)</title></circle></a><a href="/setts/s13/w1db16k12lb2dp3lb2k12db2k2db2k2db7w1~x2/"><circle cx="252.0" cy="148.0" r="4" fill="#3465a4"><title>Edgar (2014) (Name)</title></circle></a><a href="/setts/s11/r2db8k1g2k1g4k1g2k1db8lo2~x2/"><circle cx="224.0" cy="186.7" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/setts/s8/r2db6g15b9db30b9g6lo2~x2/"><circle cx="230.0" cy="180.7" r="4" fill="#3465a4"><title>Miller</title></circle></a><circle cx="254.0" cy="183.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r3ly1db15dg16db3r6db6dg8db15w3~x2/

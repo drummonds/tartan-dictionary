@@ -9,6 +9,14 @@ This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3324
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Perry / Pirrie
+- Perry Pirrie
+- Perry, Pirrie
+
 ## Attestations
 
 This cloth appears in 4 source records; the oldest owns this page.
@@ -320,6 +328,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +429,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +689,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -930,13 +941,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Dellen](/setts/s6/k80r6g3r12k2w2~x2/) — ΔT 1.50
 1. [Perry Ancient (Personal)](/setts/s5/k75y26y3k4ly6~x2/) — ΔT 1.50
 1. [State University of New York College at Buffalo](/setts/s8/k70r5k3lb4dp4lb4k3r12/) — ΔT 1.52
-1. [Pride of New Zealand, The](/setts/s4/n124k60w1k2/) — ΔT 1.66
+1. [Pride of New Zealand, The](/setts/s4/n124k60w1k2~x2/) — ΔT 1.66
 1. [Highland Brewing Company](/setts/s8/k42t2r3k5r16k8ly2k3~x2/) — ΔT 1.66
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k30r10ly1k8w3~x4/"><circle cx="459.8" cy="167.2" r="4" fill="#3465a4"><title>Union Fire Club Pipes and Drums</title></circle></a><a href="/setts/s5/k65r27w2k4ly5~x2/"><circle cx="457.4" cy="164.5" r="4" fill="#3465a4"><title>Perry Dress (Personal)</title></circle></a><a href="/setts/s7/k53ly4k7ly2k4r30w3~x2/"><circle cx="390.8" cy="133.9" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><a href="/setts/s5/k4r11k32ly1k4~x2/"><circle cx="539.8" cy="185.5" r="4" fill="#3465a4"><title>Harvie</title></circle></a><a href="/setts/s6/o4n6k4o8k49o2/"><circle cx="489.8" cy="164.7" r="4" fill="#3465a4"><title>Harley Davidson (Corporate)</title></circle></a><a href="/setts/s6/k80r6g3r12k2w2~x2/"><circle cx="557.9" cy="131.6" r="4" fill="#3465a4"><title>Dellen</title></circle></a><a href="/setts/s5/k75y26y3k4ly6~x2/"><circle cx="463.0" cy="182.7" r="4" fill="#3465a4"><title>Perry Ancient (Personal)</title></circle></a><a href="/setts/s8/k70r5k3lb4dp4lb4k3r12/"><circle cx="464.3" cy="120.6" r="4" fill="#3465a4"><title>State University of New York College at Buffalo</title></circle></a><a href="/setts/s4/n124k60w1k2/"><circle cx="484.1" cy="180.1" r="4" fill="#3465a4"><title>Pride of New Zealand, The</title></circle></a><a href="/setts/s8/k42t2r3k5r16k8ly2k3~x2/"><circle cx="481.7" cy="161.9" r="4" fill="#3465a4"><title>Highland Brewing Company</title></circle></a><circle cx="473.8" cy="145.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k30r10ly1k8w3~x4/"><circle cx="459.7" cy="166.9" r="4" fill="#3465a4"><title>Union Fire Club Pipes and Drums</title></circle></a><a href="/setts/s5/k65r27w2k4ly5~x2/"><circle cx="457.3" cy="164.2" r="4" fill="#3465a4"><title>Perry Dress (Personal)</title></circle></a><a href="/setts/s7/k53ly4k7ly2k4r30w3~x2/"><circle cx="390.6" cy="133.7" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><a href="/setts/s5/k4r11k32ly1k4~x2/"><circle cx="539.6" cy="185.1" r="4" fill="#3465a4"><title>Harvie</title></circle></a><a href="/setts/s6/o4n6k4o8k49o2/"><circle cx="489.6" cy="164.4" r="4" fill="#3465a4"><title>Harley Davidson (Corporate)</title></circle></a><a href="/setts/s6/k80r6g3r12k2w2~x2/"><circle cx="557.6" cy="131.3" r="4" fill="#3465a4"><title>Dellen</title></circle></a><a href="/setts/s5/k75y26y3k4ly6~x2/"><circle cx="462.9" cy="182.4" r="4" fill="#3465a4"><title>Perry Ancient (Personal)</title></circle></a><a href="/setts/s8/k70r5k3lb4dp4lb4k3r12/"><circle cx="464.0" cy="120.3" r="4" fill="#3465a4"><title>State University of New York College at Buffalo</title></circle></a><a href="/setts/s4/n124k60w1k2~x2/"><circle cx="484.0" cy="179.8" r="4" fill="#3465a4"><title>Pride of New Zealand, The</title></circle></a><a href="/setts/s8/k42t2r3k5r16k8ly2k3~x2/"><circle cx="481.5" cy="161.7" r="4" fill="#3465a4"><title>Highland Brewing Company</title></circle></a><circle cx="473.6" cy="145.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/k75r26w2k4ly5~x2/

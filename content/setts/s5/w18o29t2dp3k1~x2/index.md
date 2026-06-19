@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5340
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Kinloch of Loch Awe
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -25,7 +31,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 3027
 
 ## Thread count
-K/2 P6 B4 N58 W/36
+W/36 N58 B4 P6 K/2
 ![Sett](sett.png)
 
 ## Palette
@@ -42,7 +48,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/2 P6 B4 N58 W/36 tartan")
+![Tartan detail](tartan.png "W/36 N58 B4 P6 K/2 tartan")
 
 ## Nearest tartans
 
@@ -53,16 +59,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Galicia](/setts/s6/t53k2w53k2r4ly7~x2/) — ΔT 1.20
 1. [Mount Vernon Primary School (Corp)](/setts/s5/lb25db11r5w1k1~x4/) — ΔT 1.33
 1. [Kimon Andreou Family (Personal)](/setts/s4/w40t40r1k4~x2/) — ΔT 1.50
-1. [Cornish National Day](/setts/s8/k5w2ly36t47r3t47ly36w2~x2/) — ΔT 1.54
+1. [Cornish National Day](/setts/s8/k5w2ly36t47r3~x2/) — ΔT 1.54
 1. [Herriot (New Zealand) (Name)](/setts/s6/w15ly2dt5lr3t40dt10/) — ΔT 1.56
 1. [Tartan Lassie (Fashion)](/setts/s6/w3b23lr44b26g4ly2~x2/) — ΔT 1.57
-1. [Nicolson of the Isles (Personal)](/setts/s7/ly2r4b4lb35lg5r12w2~x2/) — ΔT 1.58
-1. [Boucherville Formal District Tartan Tartan Number: 2118. Earliest known date: 1990 Three designers from La Navette d'Art ENR, Jeanette Blanchette, Pauline Bastien and Jacqueline Provost, based their design on symbolic colours. Le bleu azur represente la loyaute, le gris argent la serenite, le jaune (l'or) la generosite, le vert represente l'esperance, et le blanc symbole de purete et d'innocence "nous rappelle notre appartenance au Quebec." "Les tisserands, c'est nous tous...!" See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/w40ly4o10w8db4o4db4o4g1/) — ΔT 1.58
+1. [Nicolson of the Isles (Personal)](/setts/s7/w2r12lg5lb35b4r4ly2~x2/) — ΔT 1.58
+1. [Boucherville Formal District Tartan Tartan Number: 2118. Earliest known date: 1990 Three designers from La Navette d'Art ENR, Jeanette Blanchette, Pauline Bastien and Jacqueline Provost, based their design on symbolic colours. Le bleu azur represente la loyaute, le gris argent la serenite, le jaune (l'or) la generosite, le vert represente l'esperance, et le blanc symbole de purete et d'innocence "nous rappelle notre appartenance au Quebec." "Les tisserands, c'est nous tous...!" See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/w40ly4o10w8db4o4db4o4g1~x2/) — ΔT 1.58
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k5w2ly36b47r3~x2/"><circle cx="288.7" cy="134.4" r="4" fill="#3465a4"><title>Cornish, National Day</title></circle></a><a href="/setts/s5/k5w2ly36t47r3~x2/"><circle cx="290.4" cy="144.1" r="4" fill="#3465a4"><title>Oliver Dress Pink</title></circle></a><a href="/setts/s6/t53k2w53k2r4ly7~x2/"><circle cx="261.7" cy="110.4" r="4" fill="#3465a4"><title>Galicia</title></circle></a><a href="/setts/s5/lb25db11r5w1k1~x4/"><circle cx="315.5" cy="136.0" r="4" fill="#3465a4"><title>Mount Vernon Primary School (Corp)</title></circle></a><a href="/setts/s4/w40t40r1k4~x2/"><circle cx="314.0" cy="150.6" r="4" fill="#3465a4"><title>Kimon Andreou Family (Personal)</title></circle></a><a href="/setts/s8/k5w2ly36t47r3t47ly36w2~x2/"><circle cx="296.8" cy="139.2" r="4" fill="#3465a4"><title>Cornish National Day</title></circle></a><a href="/setts/s6/w15ly2dt5lr3t40dt10/"><circle cx="295.2" cy="152.9" r="4" fill="#3465a4"><title>Herriot (New Zealand) (Name)</title></circle></a><a href="/setts/s6/w3b23lr44b26g4ly2~x2/"><circle cx="290.9" cy="148.9" r="4" fill="#3465a4"><title>Tartan Lassie (Fashion)</title></circle></a><a href="/setts/s7/ly2r4b4lb35lg5r12w2~x2/"><circle cx="290.9" cy="114.7" r="4" fill="#3465a4"><title>Nicolson of the Isles (Personal)</title></circle></a><a href="/setts/s9/w40ly4o10w8db4o4db4o4g1/"><circle cx="365.2" cy="81.8" r="4" fill="#3465a4"><title>Boucherville Formal District Tartan Tartan Number: 2118. Earliest known date: 1990 Three designers from La Navette d'Art ENR, Jeanette Blanchette, Pauline Bastien and Jacqueline Provost, based their design on symbolic colours. Le bleu azur represente la loyaute, le gris argent la serenite, le jaune (l'or) la generosite, le vert represente l'esperance, et le blanc symbole de purete et d'innocence &quot;nous rappelle notre appartenance au Quebec.&quot; &quot;Les tisserands, c'est nous tous...!&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="324.7" cy="131.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k5w2ly36b47r3~x2/"><circle cx="288.3" cy="134.2" r="4" fill="#3465a4"><title>Cornish, National Day</title></circle></a><a href="/setts/s5/k5w2ly36t47r3~x2/"><circle cx="290.0" cy="144.0" r="4" fill="#3465a4"><title>Oliver Dress Pink</title></circle></a><a href="/setts/s6/t53k2w53k2r4ly7~x2/"><circle cx="261.2" cy="110.3" r="4" fill="#3465a4"><title>Galicia</title></circle></a><a href="/setts/s5/lb25db11r5w1k1~x4/"><circle cx="315.2" cy="135.8" r="4" fill="#3465a4"><title>Mount Vernon Primary School (Corp)</title></circle></a><a href="/setts/s4/w40t40r1k4~x2/"><circle cx="313.6" cy="150.4" r="4" fill="#3465a4"><title>Kimon Andreou Family (Personal)</title></circle></a><a href="/setts/s8/k5w2ly36t47r3~x2/"><circle cx="296.5" cy="139.0" r="4" fill="#3465a4"><title>Cornish National Day</title></circle></a><a href="/setts/s6/w15ly2dt5lr3t40dt10/"><circle cx="295.0" cy="152.8" r="4" fill="#3465a4"><title>Herriot (New Zealand) (Name)</title></circle></a><a href="/setts/s6/w3b23lr44b26g4ly2~x2/"><circle cx="290.6" cy="148.8" r="4" fill="#3465a4"><title>Tartan Lassie (Fashion)</title></circle></a><a href="/setts/s7/w2r12lg5lb35b4r4ly2~x2/"><circle cx="290.5" cy="114.6" r="4" fill="#3465a4"><title>Nicolson of the Isles (Personal)</title></circle></a><a href="/setts/s9/w40ly4o10w8db4o4db4o4g1~x2/"><circle cx="364.6" cy="81.6" r="4" fill="#3465a4"><title>Boucherville Formal District Tartan Tartan Number: 2118. Earliest known date: 1990 Three designers from La Navette d'Art ENR, Jeanette Blanchette, Pauline Bastien and Jacqueline Provost, based their design on symbolic colours. Le bleu azur represente la loyaute, le gris argent la serenite, le jaune (l'or) la generosite, le vert represente l'esperance, et le blanc symbole de purete et d'innocence &quot;nous rappelle notre appartenance au Quebec.&quot; &quot;Les tisserands, c'est nous tous...!&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="324.3" cy="131.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/w18o29t2dp3k1~x2/

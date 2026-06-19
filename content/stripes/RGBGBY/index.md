@@ -8,7 +8,7 @@ RGBGBY
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/lr2db14g14db2g3r2~x2/tartan.png)
+![Woven sample](/setts/s6/r2g3db2g14db14lr2~x2/tartan.png)
 
 
 
@@ -25,13 +25,13 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Bobby Jones (Personal)](/setts/s6/lo1db16dy8dt12dy2r1~x2/)|
-|![Bobby Jones (Personal) example sett](/setts/s6/lo1db16dy8dt12dy2r1~x2/sett.png)|
+| [Bobby Jones (Personal)](/setts/s6/r1dy2dt12dy8db16lo1~x2/)|
+|![Bobby Jones (Personal) example sett](/setts/s6/r1dy2dt12dy8db16lo1~x2/sett.png)|
 
 ### R G DB G DB LR <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">R G DB G DB LR</span></span>
 
 | Tartans |
 |---------------|
-| [Irving of Bonshaw Tower (Personal)](/setts/s6/lr2db14g14db2g3r2~x2/)|
-|![Irving of Bonshaw Tower (Personal) example sett](/setts/s6/lr2db14g14db2g3r2~x2/sett.png)|
+| [Irving of Bonshaw Tower (Personal)](/setts/s6/r2g3db2g14db14lr2~x2/)|
+|![Irving of Bonshaw Tower (Personal) example sett](/setts/s6/r2g3db2g14db14lr2~x2/sett.png)|
 

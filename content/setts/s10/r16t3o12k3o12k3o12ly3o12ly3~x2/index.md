@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -905,19 +908,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Sutherland of Duffus (Clan)](/setts/s10/r22lb3lo14k3lo14k3lo14ly3lo14ly3~x2/) — ΔT 1.27
 1. [Caledonia No 3](/setts/s9/r13t3r13g12ly2dp9t9r13dp2~x2/) — ΔT 1.38
-1. [Bruce County](/setts/s12/lo1r8g2r2g6r1g6r2g2r7db1w1~x4/) — ΔT 1.42
+1. [Bruce County](/setts/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/) — ΔT 1.42
 1. [Cameron of Lochiel](/setts/s9/r6g3r6db1w1db1r2db8r4~x2/) — ΔT 1.45
 1. [Bruce](/setts/s11/lr1r4dg1r1dg3r1dg3r1dg1r4ly1~x2/) — ΔT 1.48
 1. [Hunter (USA)](/setts/s11/dg6r2dg14r14db2r14w2dg14db2dg4ly3~x2/) — ΔT 1.50
 1. [Peacock, Grahame (Name)](/setts/s11/r10g2r20g16db3g16r3db8r20g2r10~x2/) — ΔT 1.52
-1. [Norwich No.077](/setts/s9/dg5r9dg10ly2dg2w2dg10r9dg5~x2/) — ΔT 1.54
+1. [Norwich No.077](/setts/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/) — ΔT 1.54
 1. [Morrison](/setts/s9/g5w2g8r9k3r4k3r17g3~x2/) — ΔT 1.55
 1. [MacTavish](/setts/s7/r6g1r6db1g3k3g3~x4/) — ΔT 1.57
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r22lb3lo14k3lo14k3lo14ly3lo14ly3~x2/"><circle cx="301.3" cy="194.6" r="4" fill="#3465a4"><title>Sutherland of Duffus (Clan)</title></circle></a><a href="/setts/s9/r13t3r13g12ly2dp9t9r13dp2~x2/"><circle cx="199.6" cy="209.4" r="4" fill="#3465a4"><title>Caledonia No 3</title></circle></a><a href="/setts/s12/lo1r8g2r2g6r1g6r2g2r7db1w1~x4/"><circle cx="264.7" cy="172.6" r="4" fill="#3465a4"><title>Bruce County</title></circle></a><a href="/setts/s9/r6g3r6db1w1db1r2db8r4~x2/"><circle cx="301.0" cy="209.3" r="4" fill="#3465a4"><title>Cameron of Lochiel</title></circle></a><a href="/setts/s11/lr1r4dg1r1dg3r1dg3r1dg1r4ly1~x2/"><circle cx="263.6" cy="239.9" r="4" fill="#3465a4"><title>Bruce</title></circle></a><a href="/setts/s11/dg6r2dg14r14db2r14w2dg14db2dg4ly3~x2/"><circle cx="229.3" cy="181.4" r="4" fill="#3465a4"><title>Hunter (USA)</title></circle></a><a href="/setts/s11/r10g2r20g16db3g16r3db8r20g2r10~x2/"><circle cx="316.5" cy="198.4" r="4" fill="#3465a4"><title>Peacock, Grahame (Name)</title></circle></a><a href="/setts/s9/dg5r9dg10ly2dg2w2dg10r9dg5~x2/"><circle cx="269.1" cy="242.5" r="4" fill="#3465a4"><title>Norwich No.077</title></circle></a><a href="/setts/s9/g5w2g8r9k3r4k3r17g3~x2/"><circle cx="286.4" cy="195.1" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/setts/s7/r6g1r6db1g3k3g3~x4/"><circle cx="247.2" cy="240.3" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><circle cx="267.6" cy="211.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r22lb3lo14k3lo14k3lo14ly3lo14ly3~x2/"><circle cx="300.9" cy="194.5" r="4" fill="#3465a4"><title>Sutherland of Duffus (Clan)</title></circle></a><a href="/setts/s9/r13t3r13g12ly2dp9t9r13dp2~x2/"><circle cx="199.4" cy="209.4" r="4" fill="#3465a4"><title>Caledonia No 3</title></circle></a><a href="/setts/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/"><circle cx="264.4" cy="172.5" r="4" fill="#3465a4"><title>Bruce County</title></circle></a><a href="/setts/s9/r6g3r6db1w1db1r2db8r4~x2/"><circle cx="300.7" cy="209.2" r="4" fill="#3465a4"><title>Cameron of Lochiel</title></circle></a><a href="/setts/s11/lr1r4dg1r1dg3r1dg3r1dg1r4ly1~x2/"><circle cx="263.4" cy="239.9" r="4" fill="#3465a4"><title>Bruce</title></circle></a><a href="/setts/s11/dg6r2dg14r14db2r14w2dg14db2dg4ly3~x2/"><circle cx="229.2" cy="181.3" r="4" fill="#3465a4"><title>Hunter (USA)</title></circle></a><a href="/setts/s11/r10g2r20g16db3g16r3db8r20g2r10~x2/"><circle cx="316.2" cy="198.3" r="4" fill="#3465a4"><title>Peacock, Grahame (Name)</title></circle></a><a href="/setts/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/"><circle cx="269.0" cy="242.3" r="4" fill="#3465a4"><title>Norwich No.077</title></circle></a><a href="/setts/s9/g5w2g8r9k3r4k3r17g3~x2/"><circle cx="286.1" cy="194.9" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/setts/s7/r6g1r6db1g3k3g3~x4/"><circle cx="247.0" cy="240.2" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><circle cx="267.4" cy="211.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r16t3o12k3o12k3o12ly3o12ly3~x2/

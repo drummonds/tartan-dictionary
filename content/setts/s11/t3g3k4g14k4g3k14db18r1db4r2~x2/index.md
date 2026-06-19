@@ -2,7 +2,7 @@
 title: "Clerke of Ulva"
 date: 2023-03-18
 ---
-**Bands:** [BGKGKGKBRBR](/stripes/bgkgkgkbrbr/) · **Stripes:** [T G K G K G K DB R DB R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">T G K G K G K DB R DB R</span></span>
+**Bands:** [RBRBKGKGKGB](/stripes/rbrbkgkgkgb/) · **Stripes:** [R DB R DB K G K G K G T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">R DB R DB K G K G K G T</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="157.4" cy="135.6" r="4" fill="#3465a4"><title>Campbell, Red</title></circle></a><a href="/setts/s11/lt3dg3k4dg14k4dg3k14db18lo1db4lo2~x2/"><circle cx="150.8" cy="149.6" r="4" fill="#3465a4"><title>Clark of Ulva (Clan)</title></circle></a><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/"><circle cx="158.1" cy="134.3" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s11/db24k4db4k4db4k24g24r5g6k2ly2~x2/"><circle cx="144.1" cy="150.7" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/setts/s11/dg8r1dg1r3dg16k16r1db16r3db8ly2/"><circle cx="159.5" cy="153.8" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><a href="/setts/s11/db9k9db9r2k18w1g12r2g4r2g4~x2/"><circle cx="155.8" cy="150.0" r="4" fill="#3465a4"><title>Newman</title></circle></a><a href="/setts/s13/lt3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/"><circle cx="161.5" cy="138.6" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/setts/s10/r7db2g5db18g10db2k24db2g10ly3~x2/"><circle cx="118.6" cy="160.2" r="4" fill="#3465a4"><title>Offally</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="144.3" cy="131.8" r="4" fill="#3465a4"><title>Robertson of Kindeace</title></circle></a><a href="/setts/s15/db16k2db2k2db2k12g12ly2k2ly2g12k16db16k1w3~x2/"><circle cx="146.8" cy="131.7" r="4" fill="#3465a4"><title>Dyce</title></circle></a><circle cx="148.1" cy="144.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="157.5" cy="135.7" r="4" fill="#3465a4"><title>Campbell, Red</title></circle></a><a href="/setts/s11/lt3dg3k4dg14k4dg3k14db18lo1db4lo2~x2/"><circle cx="151.0" cy="149.7" r="4" fill="#3465a4"><title>Clark of Ulva (Clan)</title></circle></a><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/"><circle cx="158.2" cy="134.3" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s11/db24k4db4k4db4k24g24r5g6k2ly2~x2/"><circle cx="144.2" cy="150.7" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/setts/s11/dg8r1dg1r3dg16k16r1db16r3db8ly2/"><circle cx="159.7" cy="153.9" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><a href="/setts/s11/db9k9db9r2k18w1g12r2g4r2g4~x2/"><circle cx="156.0" cy="150.0" r="4" fill="#3465a4"><title>Newman</title></circle></a><a href="/setts/s13/lt3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/"><circle cx="161.7" cy="138.7" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/setts/s10/r7db2g5db18g10db2k24db2g10ly3~x2/"><circle cx="118.8" cy="160.3" r="4" fill="#3465a4"><title>Offally</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="144.5" cy="131.8" r="4" fill="#3465a4"><title>Robertson of Kindeace</title></circle></a><a href="/setts/s15/db16k2db2k2db2k12g12ly2k2ly2g12k16db16k1w3~x2/"><circle cx="146.9" cy="131.7" r="4" fill="#3465a4"><title>Dyce</title></circle></a><circle cx="148.3" cy="145.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/t3g3k4g14k4g3k14db18r1db4r2~x2/

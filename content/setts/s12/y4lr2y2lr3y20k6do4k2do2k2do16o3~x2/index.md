@@ -2,12 +2,18 @@
 title: "Dorcas"
 date: 2023-03-18
 ---
-**Bands:** [GYGYGKBKBKBR](/stripes/gygygkbkbkbr/) · **Stripes:** [Y LR Y LR Y K DO K DO K DO O](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="seq">Y LR Y LR Y K DO K DO K DO O</span></span>
+**Bands:** [RBKBKBKGYGYG](/stripes/rbkbkbkgygyg/) · **Stripes:** [O DO K DO K DO K Y LR Y LR Y](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">O DO K DO K DO K Y LR Y LR Y</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4879
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Scotch House 'Dorcas'
 
 ## Attestations
 
@@ -42,21 +48,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Callum, Brown (Fashion)](/setts/s12/o3lr2o2lr3o20db6dy3db2dy2db2dy16r3~x2/) — ΔT 0.37
-1. [Manx Heritage](/setts/s14/t3r3t2r3dg2r2dg2r17db10r2dg2r2dg19y3~x2/) — ΔT 0.79
-1. [MacIntyre and Glenorchy](/setts/s14/g2k2r3g18r3dp6y2r4g6r2dp18r3g2k2~x2/) — ΔT 0.80
+1. [Callum, Brown (Fashion)](/setts/s12/r3dy16db2dy2db2dy3db6o20lr3o2lr2o3~x2/) — ΔT 0.37
+1. [Manx Heritage](/setts/s14/y3dg19r2dg2r2db10r17dg2r2dg2r3t2r3t3~x2/) — ΔT 0.79
+1. [MacIntyre and Glenorchy](/setts/s14/k2g2r3dp18r2g6r4y2dp6r3g18r3k2g2~x2/) — ΔT 0.80
 1. [Harmony 5](/setts/s12/dg9r3dg4dy3dg3dy4dg3dp11o30r3o4dg3~x2/) — ΔT 0.88
 1. [Manx Heritage](/setts/s14/o3g19r2g2r2db10r17g2r2g2r3t2r3t3~x2/) — ΔT 0.89
 1. [Michael from Appin (Personal)](/setts/s12/db4r24dg2r3dg19ly2r2db8r2dg2w2r2~x2/) — ΔT 0.98
-1. [Dryburgh](/setts/s11/ly2k10n2k2n2k3n10o16o2o2o2~x2/) — ΔT 0.98
+1. [Dryburgh](/setts/s11/o2o2o2o16n10k3n2k2n2k10ly2~x2/) — ΔT 0.98
 1. [Glen Nevis #2 (Personal)](/setts/s12/y14lo1y1lo1y2k3y3k3do3do1do9lo1~x4/) — ΔT 0.99
 1. [Connolly Dress (Name)](/setts/s10/g6k2g3k2g6db8r20ly2r3g2~x2/) — ΔT 1.00
 1. [Pope of Wales](/setts/s12/k10r26k2r4k2r26k3g36k3g30k3y2/) — ΔT 1.03
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/o3lr2o2lr3o20db6dy3db2dy2db2dy16r3~x2/"><circle cx="204.7" cy="145.6" r="4" fill="#3465a4"><title>Callum, Brown (Fashion)</title></circle></a><a href="/setts/s14/t3r3t2r3dg2r2dg2r17db10r2dg2r2dg19y3~x2/"><circle cx="221.9" cy="146.3" r="4" fill="#3465a4"><title>Manx Heritage</title></circle></a><a href="/setts/s14/g2k2r3g18r3dp6y2r4g6r2dp18r3g2k2~x2/"><circle cx="194.4" cy="150.6" r="4" fill="#3465a4"><title>MacIntyre and Glenorchy</title></circle></a><a href="/setts/s12/dg9r3dg4dy3dg3dy4dg3dp11o30r3o4dg3~x2/"><circle cx="234.7" cy="149.9" r="4" fill="#3465a4"><title>Harmony 5</title></circle></a><a href="/setts/s14/o3g19r2g2r2db10r17g2r2g2r3t2r3t3~x2/"><circle cx="221.3" cy="144.7" r="4" fill="#3465a4"><title>Manx Heritage</title></circle></a><a href="/setts/s12/db4r24dg2r3dg19ly2r2db8r2dg2w2r2~x2/"><circle cx="270.9" cy="141.6" r="4" fill="#3465a4"><title>Michael from Appin (Personal)</title></circle></a><a href="/setts/s11/ly2k10n2k2n2k3n10o16o2o2o2~x2/"><circle cx="164.7" cy="162.5" r="4" fill="#3465a4"><title>Dryburgh</title></circle></a><a href="/setts/s12/y14lo1y1lo1y2k3y3k3do3do1do9lo1~x4/"><circle cx="275.6" cy="146.5" r="4" fill="#3465a4"><title>Glen Nevis #2 (Personal)</title></circle></a><a href="/setts/s10/g6k2g3k2g6db8r20ly2r3g2~x2/"><circle cx="210.1" cy="153.7" r="4" fill="#3465a4"><title>Connolly Dress (Name)</title></circle></a><a href="/setts/s12/k10r26k2r4k2r26k3g36k3g30k3y2/"><circle cx="209.3" cy="134.6" r="4" fill="#3465a4"><title>Pope of Wales</title></circle></a><circle cx="208.8" cy="153.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r3dy16db2dy2db2dy3db6o20lr3o2lr2o3~x2/"><circle cx="204.5" cy="145.7" r="4" fill="#3465a4"><title>Callum, Brown (Fashion)</title></circle></a><a href="/setts/s14/y3dg19r2dg2r2db10r17dg2r2dg2r3t2r3t3~x2/"><circle cx="221.7" cy="146.5" r="4" fill="#3465a4"><title>Manx Heritage</title></circle></a><a href="/setts/s14/k2g2r3dp18r2g6r4y2dp6r3g18r3k2g2~x2/"><circle cx="194.4" cy="150.7" r="4" fill="#3465a4"><title>MacIntyre and Glenorchy</title></circle></a><a href="/setts/s12/dg9r3dg4dy3dg3dy4dg3dp11o30r3o4dg3~x2/"><circle cx="234.5" cy="150.0" r="4" fill="#3465a4"><title>Harmony 5</title></circle></a><a href="/setts/s14/o3g19r2g2r2db10r17g2r2g2r3t2r3t3~x2/"><circle cx="221.1" cy="144.8" r="4" fill="#3465a4"><title>Manx Heritage</title></circle></a><a href="/setts/s12/db4r24dg2r3dg19ly2r2db8r2dg2w2r2~x2/"><circle cx="270.7" cy="141.6" r="4" fill="#3465a4"><title>Michael from Appin (Personal)</title></circle></a><a href="/setts/s11/o2o2o2o16n10k3n2k2n2k10ly2~x2/"><circle cx="164.6" cy="162.6" r="4" fill="#3465a4"><title>Dryburgh</title></circle></a><a href="/setts/s12/y14lo1y1lo1y2k3y3k3do3do1do9lo1~x4/"><circle cx="275.4" cy="146.5" r="4" fill="#3465a4"><title>Glen Nevis #2 (Personal)</title></circle></a><a href="/setts/s10/g6k2g3k2g6db8r20ly2r3g2~x2/"><circle cx="209.9" cy="153.8" r="4" fill="#3465a4"><title>Connolly Dress (Name)</title></circle></a><a href="/setts/s12/k10r26k2r4k2r26k3g36k3g30k3y2/"><circle cx="209.2" cy="134.7" r="4" fill="#3465a4"><title>Pope of Wales</title></circle></a><circle cx="208.6" cy="153.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/y4lr2y2lr3y20k6do4k2do2k2do16o3~x2/

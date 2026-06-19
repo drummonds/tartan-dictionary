@@ -2,12 +2,18 @@
 title: "Port Authority of NY & NJ"
 date: 2023-03-18
 ---
-**Bands:** [BBBBYB](/stripes/bbbbyb/) · **Stripes:** [T DB T DT LO DT](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="seq">T DB T DT LO DT</span></span>
+**Bands:** [BYBBBB](/stripes/bybbbb/) · **Stripes:** [DT LO DT T DB T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">DT LO DT T DB T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3357
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Port Authority of NY & NJ (Corporate
 
 ## Attestations
 
@@ -47,20 +53,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Corries](/setts/s6/t28dt15r2dt2w1dt6~x2/) — ΔT 0.71
-1. [Roxburgh](/setts/s8/db16w1db1w1db8dg16r1db2~x2/) — ΔT 1.16
-1. [Hector James](/setts/s5/o2g11db27g5r2~x2/) — ΔT 1.25
+1. [Roxburgh](/setts/s8/db16w1db1w1db8dg16r1db2~x2/) — ΔT 1.17
+1. [Hector James](/setts/s5/r2g5db27g11o2~x2/) — ΔT 1.25
 1. [Connecticut State Police PB (Cor.)](/setts/s6/n42db2n2db17lo8db4~x2/) — ΔT 1.25
 1. [Thorburn (Lochcarron)](/setts/s6/dt3t14dt3o16dt34r3~x2/) — ΔT 1.27
-1. [Ewell Castle School](/setts/s6/b4w1b18db18r1db4~x4/) — ΔT 1.31
+1. [Ewell Castle School](/setts/s6/db4r1db18b18w1b4~x4/) — ΔT 1.31
 1. [Greenlaw, American (Name)](/setts/s8/b46r2b3r2b14g38k3g4~x2/) — ΔT 1.37
 1. [Bermuda Plaid (1947) (District)](/setts/s7/t33r8db12g12t8db2t8~x2/) — ΔT 1.37
-1. [Melville (Two black lines)](/setts/s6/b4k2b26dg26w1dg4~x4/) — ΔT 1.39
+1. [Melville (Two black lines)](/setts/s6/dg4w1dg26b26k2b4~x4/) — ΔT 1.39
 1. [Leonard (Name)](/setts/s8/b36db6b5r3k2r3b5db18~x2/) — ΔT 1.42
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/t28dt15r2dt2w1dt6~x2/"><circle cx="382.0" cy="178.6" r="4" fill="#3465a4"><title>Corries</title></circle></a><a href="/setts/s8/db16w1db1w1db8dg16r1db2~x2/"><circle cx="399.1" cy="197.6" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><a href="/setts/s5/o2g11db27g5r2~x2/"><circle cx="379.2" cy="224.0" r="4" fill="#3465a4"><title>Hector James</title></circle></a><a href="/setts/s6/n42db2n2db17lo8db4~x2/"><circle cx="381.5" cy="179.4" r="4" fill="#3465a4"><title>Connecticut State Police PB (Cor.)</title></circle></a><a href="/setts/s6/dt3t14dt3o16dt34r3~x2/"><circle cx="333.0" cy="225.4" r="4" fill="#3465a4"><title>Thorburn (Lochcarron)</title></circle></a><a href="/setts/s6/b4w1b18db18r1db4~x4/"><circle cx="345.7" cy="204.5" r="4" fill="#3465a4"><title>Ewell Castle School</title></circle></a><a href="/setts/s8/b46r2b3r2b14g38k3g4~x2/"><circle cx="410.8" cy="183.2" r="4" fill="#3465a4"><title>Greenlaw, American (Name)</title></circle></a><a href="/setts/s7/t33r8db12g12t8db2t8~x2/"><circle cx="347.2" cy="210.6" r="4" fill="#3465a4"><title>Bermuda Plaid (1947) (District)</title></circle></a><a href="/setts/s6/b4k2b26dg26w1dg4~x4/"><circle cx="370.6" cy="193.4" r="4" fill="#3465a4"><title>Melville (Two black lines)</title></circle></a><a href="/setts/s8/b36db6b5r3k2r3b5db18~x2/"><circle cx="417.9" cy="197.7" r="4" fill="#3465a4"><title>Leonard (Name)</title></circle></a><circle cx="381.8" cy="202.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/t28dt15r2dt2w1dt6~x2/"><circle cx="381.9" cy="178.5" r="4" fill="#3465a4"><title>Corries</title></circle></a><a href="/setts/s8/db16w1db1w1db8dg16r1db2~x2/"><circle cx="399.0" cy="197.5" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><a href="/setts/s5/r2g5db27g11o2~x2/"><circle cx="379.1" cy="223.9" r="4" fill="#3465a4"><title>Hector James</title></circle></a><a href="/setts/s6/n42db2n2db17lo8db4~x2/"><circle cx="381.3" cy="179.2" r="4" fill="#3465a4"><title>Connecticut State Police PB (Cor.)</title></circle></a><a href="/setts/s6/dt3t14dt3o16dt34r3~x2/"><circle cx="333.0" cy="225.4" r="4" fill="#3465a4"><title>Thorburn (Lochcarron)</title></circle></a><a href="/setts/s6/db4r1db18b18w1b4~x4/"><circle cx="345.7" cy="204.3" r="4" fill="#3465a4"><title>Ewell Castle School</title></circle></a><a href="/setts/s8/b46r2b3r2b14g38k3g4~x2/"><circle cx="410.6" cy="183.1" r="4" fill="#3465a4"><title>Greenlaw, American (Name)</title></circle></a><a href="/setts/s7/t33r8db12g12t8db2t8~x2/"><circle cx="347.0" cy="210.5" r="4" fill="#3465a4"><title>Bermuda Plaid (1947) (District)</title></circle></a><a href="/setts/s6/dg4w1dg26b26k2b4~x4/"><circle cx="370.5" cy="193.3" r="4" fill="#3465a4"><title>Melville (Two black lines)</title></circle></a><a href="/setts/s8/b36db6b5r3k2r3b5db18~x2/"><circle cx="417.7" cy="197.7" r="4" fill="#3465a4"><title>Leonard (Name)</title></circle></a><circle cx="381.6" cy="202.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/t9db2t39dt33lo2dt5~x2/

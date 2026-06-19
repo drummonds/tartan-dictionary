@@ -1,0 +1,63 @@
+---
+title: "Graham"
+date: 2023-03-18
+---
+**Bands:** [KGKG](/stripes/kgkg/) · **Stripes:** [K DG K DG](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K DG K DG</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1479
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1479](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1479)
+- Scottish Tartans World Register: 786
+
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [Campbell Simpson](/setts/s4/dg22k3dg25k4~x2/)
+
+
+## Thread count
+G/24 K8 G2 K/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| G | <code style="background-color:#005020;"><span style="color:#005020;filter:grayscale(1) invert(1) contrast(100);">#005020</span></code> `#005020` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "G/24 K8 G2 K/8 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Carnet (Fashion)](/setts/s6/k6dg3k3dg11k1dg2~x4/) — ΔT 1.48
+1. [Glen Trool District Tartan Tartan Number: 914. Earliest known date: pre 1945 Glen Trool is in the Galloway Uplands in the Southwest of Scotland. The tartan began life as a trade sett - a colourful fashion fabric - and was given a name merely to identify it. It proved very popular and is now recognised as a District Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/dg37dy9dg3r9dy3~x2/) — ΔT 1.81
+1. [Glen Boig](/setts/s5/g37o9g3dr9o3~x2/) — ΔT 1.86
+1. [Loton (Personal)](/setts/s5/r6dg2db2dg17r2~x4/) — ΔT 1.88
+1. [Gunn (Logan)](/setts/s6/dg2k12dg1k12dg12r2~x2/) — ΔT 1.91
+1. [Montgomery](/setts/s4/g6db2g1~x4/) — ΔT 1.96
+1. [Montgomery - 1842 (VS](/setts/s4/g6db2g1~x8/) — ΔT 1.96
+1. [MacSporran Rejected design](/setts/s6/dg30dg13dg7dg30dg2ly4~x2/) — ΔT 1.99
+1. [Green Highland, The (Fashion)](/setts/s6/db2dg15do3db7dg7db2~x4/) — ΔT 2.01
+1. [Grey Spirit Fashion Tartan Tartan Number: 6594. Earliest known date: 01/03/2005 A fashion tartan from ACS Clothing of Glasgow for use in their kilt hire business. Woven by Lochcarron. The grey is actually a grey/black marl (mixture) which can't be shown graphically. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/n6k16n6k16n45k4~x2/) — ΔT 2.03
+
+## Neighbour map
+
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k6dg3k3dg11k1dg2~x4/"><circle cx="505.0" cy="321.0" r="4" fill="#3465a4"><title>Carnet (Fashion)</title></circle></a><a href="/setts/s5/dg37dy9dg3r9dy3~x2/"><circle cx="476.9" cy="258.4" r="4" fill="#3465a4"><title>Glen Trool District Tartan Tartan Number: 914. Earliest known date: pre 1945 Glen Trool is in the Galloway Uplands in the Southwest of Scotland. The tartan began life as a trade sett - a colourful fashion fabric - and was given a name merely to identify it. It proved very popular and is now recognised as a District Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/g37o9g3dr9o3~x2/"><circle cx="492.7" cy="271.4" r="4" fill="#3465a4"><title>Glen Boig</title></circle></a><a href="/setts/s5/r6dg2db2dg17r2~x4/"><circle cx="453.1" cy="267.3" r="4" fill="#3465a4"><title>Loton (Personal)</title></circle></a><a href="/setts/s6/dg2k12dg1k12dg12r2~x2/"><circle cx="403.3" cy="269.0" r="4" fill="#3465a4"><title>Gunn (Logan)</title></circle></a><a href="/setts/s4/g6db2g1~x4/"><circle cx="426.5" cy="330.6" r="4" fill="#3465a4"><title>Montgomery</title></circle></a><a href="/setts/s4/g6db2g1~x8/"><circle cx="426.5" cy="330.6" r="4" fill="#3465a4"><title>Montgomery - 1842 (VS</title></circle></a><a href="/setts/s6/dg30dg13dg7dg30dg2ly4~x2/"><circle cx="396.2" cy="272.6" r="4" fill="#3465a4"><title>MacSporran Rejected design</title></circle></a><a href="/setts/s6/db2dg15do3db7dg7db2~x4/"><circle cx="389.2" cy="290.3" r="4" fill="#3465a4"><title>Green Highland, The (Fashion)</title></circle></a><a href="/setts/s6/n6k16n6k16n45k4~x2/"><circle cx="460.5" cy="268.2" r="4" fill="#3465a4"><title>Grey Spirit Fashion Tartan Tartan Number: 6594. Earliest known date: 01/03/2005 A fashion tartan from ACS Clothing of Glasgow for use in their kilt hire business. Woven by Lochcarron. The grey is actually a grey/black marl (mixture) which can't be shown graphically. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="488.0" cy="319.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s4/dg12k4dg1~x2/

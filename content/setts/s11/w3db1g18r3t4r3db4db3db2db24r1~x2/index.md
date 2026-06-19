@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3428
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Queen of the South Football Club
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -46,8 +52,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Heston (Name)](/setts/s11/lo2dg8o12m3o9m3o12lb9db48k8lo2~x2/) — ΔT 0.62
-1. [Festival Intercltico de Avils (Coror](/setts/s10/g2k1r5w7r1db10w1db10b30ly1~x2/) — ΔT 0.83
+1. [Heston (Name)](/setts/s11/lo2k8db48lb9o12m3o9m3o12dg8lo2~x2/) — ΔT 0.62
+1. [Festival Intercltico de Avils (Coror](/setts/s10/g2k1r5w7r1db10w1db10b30ly1~x2/) — ΔT 0.84
 1. [Unidentified Lady's kilt](/setts/s8/db39dy3k14dy3t14ly4w2dy2~x2/) — ΔT 1.00
 1. [Manx Hunting](/setts/s11/db38n1o11n1w4n1ly4n1y20n1t6~x2/) — ΔT 1.04
 1. [Inverclyde, Green (Corporate)](/setts/s11/w3db5b2db9dp10k2dp4k2g10g33w2~x2/) — ΔT 1.07
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/lo2dg8o12m3o9m3o12lb9db48k8lo2~x2/"><circle cx="191.7" cy="82.7" r="4" fill="#3465a4"><title>Heston (Name)</title></circle></a><a href="/setts/s10/g2k1r5w7r1db10w1db10b30ly1~x2/"><circle cx="220.1" cy="73.8" r="4" fill="#3465a4"><title>Festival Intercltico de Avils (Coror</title></circle></a><a href="/setts/s8/db39dy3k14dy3t14ly4w2dy2~x2/"><circle cx="231.5" cy="114.7" r="4" fill="#3465a4"><title>Unidentified Lady's kilt</title></circle></a><a href="/setts/s11/db38n1o11n1w4n1ly4n1y20n1t6~x2/"><circle cx="240.5" cy="67.6" r="4" fill="#3465a4"><title>Manx Hunting</title></circle></a><a href="/setts/s11/w3db5b2db9dp10k2dp4k2g10g33w2~x2/"><circle cx="159.0" cy="96.9" r="4" fill="#3465a4"><title>Inverclyde, Green (Corporate)</title></circle></a><a href="/setts/s11/k8lb1t1dy10t16p2k3n33lb1n3w2~x2/"><circle cx="238.3" cy="73.6" r="4" fill="#3465a4"><title>Lomond Mist</title></circle></a><a href="/setts/s11/db16t8lo1t1w1t1t6g3t1g3w1~x4/"><circle cx="175.6" cy="116.7" r="4" fill="#3465a4"><title>Brighton &amp; Hove</title></circle></a><a href="/setts/s13/g12db3o3w2o3db3g5k8db31t5db8w4r6~x2/"><circle cx="178.5" cy="96.1" r="4" fill="#3465a4"><title>Twenty First Century</title></circle></a><a href="/setts/s12/db30dt4g5dt2r2dt2g5dt4w10dt5b8dt1~x2/"><circle cx="181.1" cy="86.9" r="4" fill="#3465a4"><title>Lyon (Personal)</title></circle></a><a href="/setts/s12/db4r1k3lo1k1lr1k1db8t12r1t2k1~x4/"><circle cx="143.9" cy="109.2" r="4" fill="#3465a4"><title>MacLean (Dress)</title></circle></a><circle cx="200.2" cy="84.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/lo2k8db48lb9o12m3o9m3o12dg8lo2~x2/"><circle cx="191.7" cy="82.8" r="4" fill="#3465a4"><title>Heston (Name)</title></circle></a><a href="/setts/s10/g2k1r5w7r1db10w1db10b30ly1~x2/"><circle cx="220.0" cy="73.9" r="4" fill="#3465a4"><title>Festival Intercltico de Avils (Coror</title></circle></a><a href="/setts/s8/db39dy3k14dy3t14ly4w2dy2~x2/"><circle cx="231.5" cy="114.8" r="4" fill="#3465a4"><title>Unidentified Lady's kilt</title></circle></a><a href="/setts/s11/db38n1o11n1w4n1ly4n1y20n1t6~x2/"><circle cx="240.4" cy="67.8" r="4" fill="#3465a4"><title>Manx Hunting</title></circle></a><a href="/setts/s11/w3db5b2db9dp10k2dp4k2g10g33w2~x2/"><circle cx="158.9" cy="97.0" r="4" fill="#3465a4"><title>Inverclyde, Green (Corporate)</title></circle></a><a href="/setts/s11/k8lb1t1dy10t16p2k3n33lb1n3w2~x2/"><circle cx="238.1" cy="73.7" r="4" fill="#3465a4"><title>Lomond Mist</title></circle></a><a href="/setts/s11/db16t8lo1t1w1t1t6g3t1g3w1~x4/"><circle cx="175.6" cy="116.9" r="4" fill="#3465a4"><title>Brighton &amp; Hove</title></circle></a><a href="/setts/s13/g12db3o3w2o3db3g5k8db31t5db8w4r6~x2/"><circle cx="178.5" cy="96.1" r="4" fill="#3465a4"><title>Twenty First Century</title></circle></a><a href="/setts/s12/db30dt4g5dt2r2dt2g5dt4w10dt5b8dt1~x2/"><circle cx="181.1" cy="87.0" r="4" fill="#3465a4"><title>Lyon (Personal)</title></circle></a><a href="/setts/s12/db4r1k3lo1k1lr1k1db8t12r1t2k1~x4/"><circle cx="143.9" cy="109.4" r="4" fill="#3465a4"><title>MacLean (Dress)</title></circle></a><circle cx="200.1" cy="84.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/w3db1g18r3t4r3db4db3db2db24r1~x2/

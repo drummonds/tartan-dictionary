@@ -2,12 +2,18 @@
 title: "Metropolitan Atlanta Police (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [RKBKBKGBGKBKR](/stripes/rkbkbkgbgkbkr/) · **Stripes:** [R K DB K DB K DG DB DG K DB K R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K DB K DB K DG DB DG K DB K R</span></span>
+**Bands:** [RKBKGBGKBKBKR](/stripes/rkbkgbgkbkbkr/) · **Stripes:** [R K DB K DG DB DG K DB K DB K R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K DB K DG DB DG K DB K DB K R</span></span>
 
 
 This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2491/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Metropolitan Atlanta Police, Emerald Society
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DR/4 K4 DB42 K6 DB6 K16 G32 DB6 G32 K16 DB42 K4 DR/4
+DR/4 K4 DB42 K16 G32 DB6 G32 K16 DB6 K6 DB42 K4 DR/4
 ![Sett](sett.png)
 
 ## Palette
@@ -915,15 +924,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Riddoch](/setts/s14/db8k1db1k1db1k8r1dg14r1k8db8db1k1db1~x4/) — ΔT 1.27
 1. [MacAndreis (Personal)](/setts/s10/k3dg4db25k16dg3k3dg3k3dg6r3~x2/) — ΔT 1.28
 1. [Lawtie (Personal)](/setts/s11/k20lr2k8dt2k2dt2k2dt10r5g5dt15~x2/) — ΔT 1.30
-1. [Grampian](/setts/s14/y24r2y3db14dt24r2dt3db3dt3r2dt24db14y3r2~x2/) — ΔT 1.32
+1. [Grampian](/setts/s14/y24r2y3db14dt24r2dt3db3~x2/) — ΔT 1.32
 1. [Westwood Gordon Pink (Fashion)](/setts/s13/db21k3db3k3db3k20dg18r3dg18k20db18k3db3~x2/) — ΔT 1.35
 1. [Pitceathly Chamberlain Tartan Tartan Number: 10190. Earliest known date: 2010 Designed for the 80th birthday of Sophia Joan Chamberlain nee Pitceathly for her own use and that of her immediate family. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/db2k3dg5k7db20k2db5k2dg20lb1~x2/) — ΔT 1.36
 1. [Grant Hunting or Black Watch](/setts/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x4/) — ΔT 1.38
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db16k2db2k2db2k6dg13ly2dg3~x2/"><circle cx="272.8" cy="232.1" r="4" fill="#3465a4"><title>Christian Dewar (Personal)</title></circle></a><a href="/setts/s11/db4dg4db18k19dg4k19dg4db7dg4db12dg2~x2/"><circle cx="298.3" cy="257.4" r="4" fill="#3465a4"><title>Clergy #2</title></circle></a><a href="/setts/s11/dg24db7dg7db7k22db7k4dy4k4db40m14/"><circle cx="249.1" cy="208.4" r="4" fill="#3465a4"><title>Brethwe Powys</title></circle></a><a href="/setts/s14/db8k1db1k1db1k8r1dg14r1k8db8db1k1db1~x4/"><circle cx="291.5" cy="198.1" r="4" fill="#3465a4"><title>Riddoch</title></circle></a><a href="/setts/s10/k3dg4db25k16dg3k3dg3k3dg6r3~x2/"><circle cx="257.0" cy="220.9" r="4" fill="#3465a4"><title>MacAndreis (Personal)</title></circle></a><a href="/setts/s11/k20lr2k8dt2k2dt2k2dt10r5g5dt15~x2/"><circle cx="271.0" cy="206.8" r="4" fill="#3465a4"><title>Lawtie (Personal)</title></circle></a><a href="/setts/s14/y24r2y3db14dt24r2dt3db3dt3r2dt24db14y3r2~x2/"><circle cx="301.6" cy="199.3" r="4" fill="#3465a4"><title>Grampian</title></circle></a><a href="/setts/s13/db21k3db3k3db3k20dg18r3dg18k20db18k3db3~x2/"><circle cx="230.7" cy="239.6" r="4" fill="#3465a4"><title>Westwood Gordon Pink (Fashion)</title></circle></a><a href="/setts/s10/db2k3dg5k7db20k2db5k2dg20lb1~x2/"><circle cx="330.8" cy="205.1" r="4" fill="#3465a4"><title>Pitceathly Chamberlain Tartan Tartan Number: 10190. Earliest known date: 2010 Designed for the 80th birthday of Sophia Joan Chamberlain nee Pitceathly for her own use and that of her immediate family. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x4/"><circle cx="271.5" cy="228.2" r="4" fill="#3465a4"><title>Grant Hunting or Black Watch</title></circle></a><circle cx="295.6" cy="225.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db16k2db2k2db2k6dg13ly2dg3~x2/"><circle cx="272.9" cy="232.2" r="4" fill="#3465a4"><title>Christian Dewar (Personal)</title></circle></a><a href="/setts/s11/db4dg4db18k19dg4k19dg4db7dg4db12dg2~x2/"><circle cx="298.4" cy="257.5" r="4" fill="#3465a4"><title>Clergy #2</title></circle></a><a href="/setts/s11/dg24db7dg7db7k22db7k4dy4k4db40m14/"><circle cx="249.2" cy="208.6" r="4" fill="#3465a4"><title>Brethwe Powys</title></circle></a><a href="/setts/s14/db8k1db1k1db1k8r1dg14r1k8db8db1k1db1~x4/"><circle cx="291.5" cy="198.3" r="4" fill="#3465a4"><title>Riddoch</title></circle></a><a href="/setts/s10/k3dg4db25k16dg3k3dg3k3dg6r3~x2/"><circle cx="257.1" cy="221.1" r="4" fill="#3465a4"><title>MacAndreis (Personal)</title></circle></a><a href="/setts/s11/k20lr2k8dt2k2dt2k2dt10r5g5dt15~x2/"><circle cx="271.1" cy="206.9" r="4" fill="#3465a4"><title>Lawtie (Personal)</title></circle></a><a href="/setts/s14/y24r2y3db14dt24r2dt3db3~x2/"><circle cx="301.6" cy="199.4" r="4" fill="#3465a4"><title>Grampian</title></circle></a><a href="/setts/s13/db21k3db3k3db3k20dg18r3dg18k20db18k3db3~x2/"><circle cx="230.8" cy="239.8" r="4" fill="#3465a4"><title>Westwood Gordon Pink (Fashion)</title></circle></a><a href="/setts/s10/db2k3dg5k7db20k2db5k2dg20lb1~x2/"><circle cx="330.9" cy="205.3" r="4" fill="#3465a4"><title>Pitceathly Chamberlain Tartan Tartan Number: 10190. Earliest known date: 2010 Designed for the 80th birthday of Sophia Joan Chamberlain nee Pitceathly for her own use and that of her immediate family. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x4/"><circle cx="271.6" cy="228.2" r="4" fill="#3465a4"><title>Grant Hunting or Black Watch</title></circle></a><circle cx="295.7" cy="225.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r2k2db21k8dg16db3dg16k8db3k3db21k2r2~x2/

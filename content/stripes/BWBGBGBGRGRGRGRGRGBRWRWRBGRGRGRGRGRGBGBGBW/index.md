@@ -22,6 +22,6 @@ BWBGBGBGRGRGRGRGRGBRWRWRBGRGRGRGRGRGBGBGBW
 
 | Tartans |
 |---------------|
-| [Wilson (Janet)](/setts/s42/db45w4db6g6db6g6db6g37r6g6r6g6r6g6r6g39r27g6db6r12w4r30w4r12db6g6r27g39r6g6r6g6r6g6r6g37db6g6db6g6db6w4/)|
-|![Wilson (Janet) example sett](/setts/s42/db45w4db6g6db6g6db6g37r6g6r6g6r6g6r6g39r27g6db6r12w4r30w4r12db6g6r27g39r6g6r6g6r6g6r6g37db6g6db6g6db6w4/sett.png)|
+| [Wilson (Janet)](/setts/s42/db45w4db6g6db6g6db6g37r6g6r6g6r6g6r6g39r27g6db6r12w4r30/)|
+|![Wilson (Janet) example sett](/setts/s42/db45w4db6g6db6g6db6g37r6g6r6g6r6g6r6g39r27g6db6r12w4r30/sett.png)|
 

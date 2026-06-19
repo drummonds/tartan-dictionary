@@ -20,7 +20,7 @@ BGKBRBRB
 
 
 
-### B Y K DT R DT R DT <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">B Y K DT R DT R DT</span></span>
+### DT R DT R DT K Y B <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DT R DT R DT K Y B</span></span>
 
 | Tartans |
 |---------------|

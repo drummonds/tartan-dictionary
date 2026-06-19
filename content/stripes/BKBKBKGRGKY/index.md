@@ -19,7 +19,7 @@ BKBKBKGRGKY
 Grouped by stripe pattern — the 3 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB K DB K DB K G R G K LY <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB K DB K DB K G R G K LY</span></span>
+### LY K G R G K DB K DB K DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K G R G K DB K DB K DB</span></span>
 
 | Tartans |
 |---------------|
@@ -30,17 +30,17 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 | [MacLaren](/setts/s11/db22k4db4k4db4k22g22r6g6k2ly3~x2/)|
 |![MacLaren example sett](/setts/s11/db22k4db4k4db4k22g22r6g6k2ly3~x2/sett.png)|
 
-### B K B K B K G R G K LY <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">B K B K B K G R G K LY</span></span>
-
-| Tartans |
-|---------------|
-| [Grant (Wilson's 1819 Key Pattern Book)](/setts/s11/b22k4b4k4b4k22g22r5g6k2ly3~x2/)|
-|![Grant (Wilson's 1819 Key Pattern Book) example sett](/setts/s11/b22k4b4k4b4k22g22r5g6k2ly3~x2/sett.png)|
-
-### DB K DB K DB K DG R DG K LY <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB K DB K DB K DG R DG K LY</span></span>
+### LY K DG R DG K DB K DB K DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K DG R DG K DB K DB K DB</span></span>
 
 | Tartans |
 |---------------|
 | [MacLaren (labelled)](/setts/s11/db22k4db4k4db4k22dg22r6dg6k2ly3~x2/)|
 |![MacLaren (labelled) example sett](/setts/s11/db22k4db4k4db4k22dg22r6dg6k2ly3~x2/sett.png)|
+
+### LY K G R G K B K B K B <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LY K G R G K B K B K B</span></span>
+
+| Tartans |
+|---------------|
+| [Grant (Wilson's 1819 Key Pattern Book)](/setts/s11/b22k4b4k4b4k22g22r5g6k2ly3~x2/)|
+|![Grant (Wilson's 1819 Key Pattern Book) example sett](/setts/s11/b22k4b4k4b4k22g22r5g6k2ly3~x2/sett.png)|
 

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LT/6 DR6 LT20 DR18 LN2 DR6 LN20 DR18 LT6 DR6 LT6 DR6 LT/40
+LT/40 DR6 LT6 DR6 LT6 DR18 LN20 DR6 LN2 DR18 LT20 DR6 LT/6
 ![Sett](sett.png)
 
 ## Palette
@@ -906,16 +909,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Wilson's No.005](/setts/s10/dg5r4dg17lt5r32lt5dg17r4dg5w2~x2/) — ΔT 1.22
 1. [Wilson's No.119](/setts/s12/r6g28r6dp2r6dp19r6dp2r6g28r6dp2~x2/) — ΔT 1.24
 1. [Oregon State University (Corporate)](/setts/s11/k6lo8k13w1lo11k1lo11w4k2lo1k2~x2/) — ΔT 1.25
-1. [Ross 6](/setts/s18/g18r2g18r18g2r4g2r18db18r2db18r18db1r1db2r1db1r18~x2/) — ΔT 1.26
+1. [Ross 6](/setts/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g18~x2/) — ΔT 1.26
 1. [Drummond](/setts/s12/db24r7g7r39db4r2db2r5g42r7db6r7~x2/) — ΔT 1.30
-1. [Robertson D](/setts/s13/r3dg1r15db2r2db15r2dg15r2db2r15dg1r3~x2/) — ΔT 1.31
+1. [Robertson D](/setts/s13/r3dg1r15db2r2dg15r2db15r2db2r15dg1r3~x2/) — ΔT 1.31
 1. [Drummond #2](/setts/s12/db24r7dg7r39db4r2db2r5dg42r7db6r7~x2/) — ΔT 1.31
 1. [Annan](/setts/s10/o15y1o2lo2o2y1o3k8y10o3~x4/) — ΔT 1.32
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lo20do3lo3do3lo3do9w10do3w1do9lo10do3lo3~x2/"><circle cx="275.1" cy="149.4" r="4" fill="#3465a4"><title>Brown Watch Dress</title></circle></a><a href="/setts/s12/r28g2r2g2db12g18r2g18db12r15g2r3~x2/"><circle cx="273.5" cy="180.1" r="4" fill="#3465a4"><title>Frasers Highlanders (Military?)</title></circle></a><a href="/setts/s10/dg5r4dg17lt5r32lt5dg17r4dg5w2~x2/"><circle cx="262.0" cy="148.7" r="4" fill="#3465a4"><title>Wilson's No.005</title></circle></a><a href="/setts/s12/r6g28r6dp2r6dp19r6dp2r6g28r6dp2~x2/"><circle cx="305.4" cy="179.4" r="4" fill="#3465a4"><title>Wilson's No.119</title></circle></a><a href="/setts/s11/k6lo8k13w1lo11k1lo11w4k2lo1k2~x2/"><circle cx="276.4" cy="169.5" r="4" fill="#3465a4"><title>Oregon State University (Corporate)</title></circle></a><a href="/setts/s18/g18r2g18r18g2r4g2r18db18r2db18r18db1r1db2r1db1r18~x2/"><circle cx="316.4" cy="153.1" r="4" fill="#3465a4"><title>Ross 6</title></circle></a><a href="/setts/s12/db24r7g7r39db4r2db2r5g42r7db6r7~x2/"><circle cx="307.7" cy="152.8" r="4" fill="#3465a4"><title>Drummond</title></circle></a><a href="/setts/s13/r3dg1r15db2r2db15r2dg15r2db2r15dg1r3~x2/"><circle cx="321.5" cy="155.7" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/setts/s12/db24r7dg7r39db4r2db2r5dg42r7db6r7~x2/"><circle cx="307.0" cy="149.6" r="4" fill="#3465a4"><title>Drummond #2</title></circle></a><a href="/setts/s10/o15y1o2lo2o2y1o3k8y10o3~x4/"><circle cx="287.0" cy="157.3" r="4" fill="#3465a4"><title>Annan</title></circle></a><circle cx="293.4" cy="158.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lo20do3lo3do3lo3do9w10do3w1do9lo10do3lo3~x2/"><circle cx="274.8" cy="149.2" r="4" fill="#3465a4"><title>Brown Watch Dress</title></circle></a><a href="/setts/s12/r28g2r2g2db12g18r2g18db12r15g2r3~x2/"><circle cx="273.3" cy="180.0" r="4" fill="#3465a4"><title>Frasers Highlanders (Military?)</title></circle></a><a href="/setts/s10/dg5r4dg17lt5r32lt5dg17r4dg5w2~x2/"><circle cx="261.7" cy="148.5" r="4" fill="#3465a4"><title>Wilson's No.005</title></circle></a><a href="/setts/s12/r6g28r6dp2r6dp19r6dp2r6g28r6dp2~x2/"><circle cx="305.2" cy="179.3" r="4" fill="#3465a4"><title>Wilson's No.119</title></circle></a><a href="/setts/s11/k6lo8k13w1lo11k1lo11w4k2lo1k2~x2/"><circle cx="276.1" cy="169.2" r="4" fill="#3465a4"><title>Oregon State University (Corporate)</title></circle></a><a href="/setts/s18/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g18~x2/"><circle cx="316.1" cy="153.1" r="4" fill="#3465a4"><title>Ross 6</title></circle></a><a href="/setts/s12/db24r7g7r39db4r2db2r5g42r7db6r7~x2/"><circle cx="307.4" cy="152.7" r="4" fill="#3465a4"><title>Drummond</title></circle></a><a href="/setts/s13/r3dg1r15db2r2dg15r2db15r2db2r15dg1r3~x2/"><circle cx="321.2" cy="155.5" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/setts/s12/db24r7dg7r39db4r2db2r5dg42r7db6r7~x2/"><circle cx="306.7" cy="149.6" r="4" fill="#3465a4"><title>Drummond #2</title></circle></a><a href="/setts/s10/o15y1o2lo2o2y1o3k8y10o3~x4/"><circle cx="286.8" cy="157.2" r="4" fill="#3465a4"><title>Annan</title></circle></a><circle cx="293.1" cy="157.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/o20dr3o3dr3o3dr9w10dr3w1dr9o10dr3o3~x2/

@@ -20,7 +20,7 @@ RBRBWBYR
 
 
 
-### R DT O DT LB DT LY O <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R DT O DT LB DT LY O</span></span>
+### O LY DT LB DT O DT R <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="seq">O LY DT LB DT O DT R</span></span>
 
 | Tartans |
 |---------------|

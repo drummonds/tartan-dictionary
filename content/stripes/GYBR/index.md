@@ -21,14 +21,14 @@ GYBR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### G LO T O <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="seq">G LO T O</span></span>
+### O T LO G <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O T LO G</span></span>
 
 | Tartans |
 |---------------|
 | [Dohmen Family (Zuid-Nederland)](/setts/s4/g30lo3t8o25~x2/)|
 |![Dohmen Family (Zuid-Nederland) example sett](/setts/s4/g30lo3t8o25~x2/sett.png)|
 
-### G LY DB R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">G LY DB R</span></span>
+### R DB LY G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DB LY G</span></span>
 
 | Tartans |
 |---------------|

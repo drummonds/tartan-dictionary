@@ -21,14 +21,14 @@ BGBGBGBG
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB DG DB DG DB DG DB DG <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">DB DG DB DG DB DG DB DG</span></span>
+### DG DB DG DB DG DB DG DB <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">DG DB DG DB DG DB DG DB</span></span>
 
 | Tartans |
 |---------------|
 | [Lochleven (Dance)](/setts/s8/db48dg6db3dg6db6dg4db2dg10~x2/)|
 |![Lochleven (Dance) example sett](/setts/s8/db48dg6db3dg6db6dg4db2dg10~x2/sett.png)|
 
-### N Y N Y N Y N Y <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">N Y N Y N Y N Y</span></span>
+### Y N Y N Y N Y N <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="seq">Y N Y N Y N Y N</span></span>
 
 | Tartans |
 |---------------|

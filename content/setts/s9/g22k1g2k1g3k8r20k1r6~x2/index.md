@@ -2,12 +2,18 @@
 title: "Stewart of Athol"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGKRKR](/stripes/gkgkgkrkr/) · **Stripes:** [G K G K G K R K R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">G K G K G K R K R</span></span>
+**Bands:** [RKRKGKGKG](/stripes/rkrkgkgkg/) · **Stripes:** [R K R K G K G K G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K R K G K G K G</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Stewart of Athol
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -913,7 +922,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Kerr](/setts/s10/dg20k1dg2k1dg3k14r28k1r2k4~x2/) — ΔT 1.28
 1. [City of Armadale](/setts/s10/k21g2k2g2k3g15r29g2r2g4~x2/) — ΔT 1.29
 1. [Southdown (Fashion)](/setts/s9/k3r1k3w5k5w3k5dy23r3~x2/) — ΔT 1.32
-1. [MacQuarrie 6](/setts/s13/g1r1g1r1g14r1k10r1g1r21g1r1k1~x2/) — ΔT 1.34
+1. [MacQuarrie 6](/setts/s13/k1r1g1r21g1r1k10r1g14r1g1r1g1~x2/) — ΔT 1.34
 1. [Lindsay](/setts/s9/g12dg1g1dg1g1k5r10k1r2~x2/) — ΔT 1.35
 1. [Vaughan (Welsh Series)](/setts/s11/w2k35g30k3lo30k2lo4k2lo30k3w2/) — ΔT 1.35
 1. [Longford County Crest (Fashion)](/setts/s8/k44lo9k3lo8lo16lo15lo6k7~x2/) — ΔT 1.37
@@ -921,8 +930,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg22k1dg2k1dg3k8r20k1r6~x2/"><circle cx="292.6" cy="153.8" r="4" fill="#3465a4"><title>Stewart of Atholl</title></circle></a><a href="/setts/s10/g20k1g2k1g3k14r28k1r2k4~x2/"><circle cx="271.0" cy="119.6" r="4" fill="#3465a4"><title>Kerr</title></circle></a><a href="/setts/s10/dg20k1dg2k1dg3k14r28k1r2k4~x2/"><circle cx="279.3" cy="131.1" r="4" fill="#3465a4"><title>Kerr</title></circle></a><a href="/setts/s10/k21g2k2g2k3g15r29g2r2g4~x2/"><circle cx="261.9" cy="164.6" r="4" fill="#3465a4"><title>City of Armadale</title></circle></a><a href="/setts/s9/k3r1k3w5k5w3k5dy23r3~x2/"><circle cx="253.7" cy="127.3" r="4" fill="#3465a4"><title>Southdown (Fashion)</title></circle></a><a href="/setts/s13/g1r1g1r1g14r1k10r1g1r21g1r1k1~x2/"><circle cx="308.8" cy="110.0" r="4" fill="#3465a4"><title>MacQuarrie 6</title></circle></a><a href="/setts/s9/g12dg1g1dg1g1k5r10k1r2~x2/"><circle cx="219.4" cy="156.5" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s11/w2k35g30k3lo30k2lo4k2lo30k3w2/"><circle cx="235.9" cy="128.6" r="4" fill="#3465a4"><title>Vaughan (Welsh Series)</title></circle></a><a href="/setts/s8/k44lo9k3lo8lo16lo15lo6k7~x2/"><circle cx="212.8" cy="165.9" r="4" fill="#3465a4"><title>Longford County Crest (Fashion)</title></circle></a><a href="/setts/s9/k3r1k14lo14r1lo1r1lo1r2~x4/"><circle cx="275.9" cy="150.9" r="4" fill="#3465a4"><title>Brecheen</title></circle></a><circle cx="280.2" cy="148.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg22k1dg2k1dg3k8r20k1r6~x2/"><circle cx="292.4" cy="153.7" r="4" fill="#3465a4"><title>Stewart of Atholl</title></circle></a><a href="/setts/s10/g20k1g2k1g3k14r28k1r2k4~x2/"><circle cx="270.7" cy="119.4" r="4" fill="#3465a4"><title>Kerr</title></circle></a><a href="/setts/s10/dg20k1dg2k1dg3k14r28k1r2k4~x2/"><circle cx="279.2" cy="131.0" r="4" fill="#3465a4"><title>Kerr</title></circle></a><a href="/setts/s10/k21g2k2g2k3g15r29g2r2g4~x2/"><circle cx="261.7" cy="164.5" r="4" fill="#3465a4"><title>City of Armadale</title></circle></a><a href="/setts/s9/k3r1k3w5k5w3k5dy23r3~x2/"><circle cx="253.5" cy="127.2" r="4" fill="#3465a4"><title>Southdown (Fashion)</title></circle></a><a href="/setts/s13/k1r1g1r21g1r1k10r1g14r1g1r1g1~x2/"><circle cx="308.5" cy="109.9" r="4" fill="#3465a4"><title>MacQuarrie 6</title></circle></a><a href="/setts/s9/g12dg1g1dg1g1k5r10k1r2~x2/"><circle cx="219.3" cy="156.5" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s11/w2k35g30k3lo30k2lo4k2lo30k3w2/"><circle cx="235.6" cy="128.5" r="4" fill="#3465a4"><title>Vaughan (Welsh Series)</title></circle></a><a href="/setts/s8/k44lo9k3lo8lo16lo15lo6k7~x2/"><circle cx="212.7" cy="165.8" r="4" fill="#3465a4"><title>Longford County Crest (Fashion)</title></circle></a><a href="/setts/s9/k3r1k14lo14r1lo1r1lo1r2~x4/"><circle cx="275.7" cy="150.8" r="4" fill="#3465a4"><title>Brecheen</title></circle></a><circle cx="279.9" cy="148.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/g22k1g2k1g3k8r20k1r6~x2/

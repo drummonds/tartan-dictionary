@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -918,12 +921,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Black Watch (Piper)](/setts/s13/db12w2db2w2db2r10dg12r3dg12r10db12w2db2~x2/) — ΔT 1.04
 1. [Ryukoku University Heian Junior High School](/setts/s10/lp4k16lr5n8lr2p2lr2p2n8k3~x2/) — ΔT 1.10
 1. [Ryukoku University Heian Junior Corporate Tartan Tartan Number: 10716. Earliest known date: 12 October 2012 This tartan represents the school's hope for its students' future. It is inspired by the colours of the clouds whilst the sun is rising. Beyond the clouds there is a light of hope which is purple. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/m5k15lr5n9lr2dp2lr2dp2n9k3~x2/) — ΔT 1.14
-1. [Andreou Family (Personal)](/setts/s11/ly1k2r1k2db8k2r1k2w8k2r1~x4/) — ΔT 1.15
+1. [Andreou Family (Personal)](/setts/s11/r1k2w8k2r1k2db8k2r1k2ly1~x4/) — ΔT 1.15
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k9lb8k8lb8r5lb18k5lb5k12db36r5/"><circle cx="110.6" cy="177.9" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/setts/s11/k12w6k6w6r4w13k3w4k8db24r3~x2/"><circle cx="105.8" cy="172.9" r="4" fill="#3465a4"><title>Merchiston Castle School Pipe Band</title></circle></a><a href="/setts/s13/db23k3db3k3db3k17ly22k4ly22k17db22k3db3~x2/"><circle cx="142.9" cy="174.0" r="4" fill="#3465a4"><title>Gordon (Clan)</title></circle></a><a href="/setts/s13/w25dp8w8dp8w8dp46k46lb8k46dp46w46dp8w8/"><circle cx="127.6" cy="180.0" r="4" fill="#3465a4"><title>Poulter SG 102 (Fashion)</title></circle></a><a href="/setts/s11/k18lr8k8lr8r5lr18k5lr5k12db36r5~x2/"><circle cx="120.1" cy="189.2" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/setts/s11/k18lr8k8lr8r5lr18k5lr5k12db36r5/"><circle cx="120.1" cy="189.2" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/setts/s13/db12w2db2w2db2r10dg12r3dg12r10db12w2db2~x2/"><circle cx="130.0" cy="193.0" r="4" fill="#3465a4"><title>Black Watch (Piper)</title></circle></a><a href="/setts/s10/lp4k16lr5n8lr2p2lr2p2n8k3~x2/"><circle cx="113.4" cy="165.8" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior High School</title></circle></a><a href="/setts/s10/m5k15lr5n9lr2dp2lr2dp2n9k3~x2/"><circle cx="99.0" cy="174.6" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior Corporate Tartan Tartan Number: 10716. Earliest known date: 12 October 2012 This tartan represents the school's hope for its students' future. It is inspired by the colours of the clouds whilst the sun is rising. Beyond the clouds there is a light of hope which is purple. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/ly1k2r1k2db8k2r1k2w8k2r1~x4/"><circle cx="105.0" cy="145.0" r="4" fill="#3465a4"><title>Andreou Family (Personal)</title></circle></a><circle cx="109.5" cy="177.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k9lb8k8lb8r5lb18k5lb5k12db36r5/"><circle cx="110.8" cy="177.9" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/setts/s11/k12w6k6w6r4w13k3w4k8db24r3~x2/"><circle cx="105.8" cy="172.9" r="4" fill="#3465a4"><title>Merchiston Castle School Pipe Band</title></circle></a><a href="/setts/s13/db23k3db3k3db3k17ly22k4ly22k17db22k3db3~x2/"><circle cx="142.9" cy="174.0" r="4" fill="#3465a4"><title>Gordon (Clan)</title></circle></a><a href="/setts/s13/w25dp8w8dp8w8dp46k46lb8k46dp46w46dp8w8/"><circle cx="127.6" cy="179.9" r="4" fill="#3465a4"><title>Poulter SG 102 (Fashion)</title></circle></a><a href="/setts/s11/k18lr8k8lr8r5lr18k5lr5k12db36r5~x2/"><circle cx="120.3" cy="189.2" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/setts/s11/k18lr8k8lr8r5lr18k5lr5k12db36r5/"><circle cx="120.3" cy="189.2" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/setts/s13/db12w2db2w2db2r10dg12r3dg12r10db12w2db2~x2/"><circle cx="130.0" cy="193.0" r="4" fill="#3465a4"><title>Black Watch (Piper)</title></circle></a><a href="/setts/s10/lp4k16lr5n8lr2p2lr2p2n8k3~x2/"><circle cx="113.5" cy="165.8" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior High School</title></circle></a><a href="/setts/s10/m5k15lr5n9lr2dp2lr2dp2n9k3~x2/"><circle cx="99.2" cy="174.6" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior Corporate Tartan Tartan Number: 10716. Earliest known date: 12 October 2012 This tartan represents the school's hope for its students' future. It is inspired by the colours of the clouds whilst the sun is rising. Beyond the clouds there is a light of hope which is purple. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r1k2w8k2r1k2db8k2r1k2ly1~x4/"><circle cx="105.0" cy="145.0" r="4" fill="#3465a4"><title>Andreou Family (Personal)</title></circle></a><circle cx="109.6" cy="177.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k18w8k8w8r5w18k5w5k12db36r5~x2/

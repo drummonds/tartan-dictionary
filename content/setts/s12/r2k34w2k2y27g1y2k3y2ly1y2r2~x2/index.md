@@ -2,7 +2,7 @@
 title: "Hudson, Bay Company"
 date: 2023-03-18
 ---
-**Bands:** [RGYGKGGGKWKR](/stripes/rgygkgggkwkr/) · **Stripes:** [R Y LY Y K Y G Y K W K R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R Y LY Y K Y G Y K W K R</span></span>
+**Bands:** [RKWKGGGKGYGR](/stripes/rkwkgggkgygr/) · **Stripes:** [R K W K Y G Y K Y LY Y R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K W K Y G Y K Y LY Y R</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/n1k6n35k6k2dp3n1k6k2w1~x2/"><circle cx="319.6" cy="69.4" r="4" fill="#3465a4"><title>Melrose Newbigging Grey</title></circle></a><a href="/setts/s12/r2k34w2k2o27g1o2k3o2ly1o2r2~x2/"><circle cx="291.0" cy="54.9" r="4" fill="#3465a4"><title>Hudson's Bay Company</title></circle></a><a href="/setts/s12/db36ly4k6lb1k1lb1k1dg8r6k1r3lb1/"><circle cx="272.4" cy="53.0" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/setts/s17/w2k32lr5dt3lr2dt3lr2dt3lr1dt6ly3k2ly1k3ly2k2w1~x2/"><circle cx="246.6" cy="37.3" r="4" fill="#3465a4"><title>Cornish Pascoe, The</title></circle></a><a href="/setts/s8/k3r1k30w1o28g1o1w3~x2/"><circle cx="305.9" cy="101.6" r="4" fill="#3465a4"><title>Dunlop</title></circle></a><a href="/setts/s11/ly4k5b2k30k1k4k4k1k15r6w3~x2/"><circle cx="275.9" cy="93.4" r="4" fill="#3465a4"><title>Correctional Service Canada</title></circle></a><a href="/setts/s13/k58db5w5k10ly3k3w3k3dg14r11k3r4w3~x2/"><circle cx="316.0" cy="79.0" r="4" fill="#3465a4"><title>Stuart/Stewart Black #2</title></circle></a><a href="/setts/s12/db36ly4k6ly1k1w1k1g8r6k1r3w1~x2/"><circle cx="279.4" cy="49.3" r="4" fill="#3465a4"><title>MacBeth, MacLulich</title></circle></a><a href="/setts/s17/w2k32o5n3o2n3o2n3o1n6ly3k2ly1w3ly2k2w1~x2/"><circle cx="249.3" cy="36.1" r="4" fill="#3465a4"><title>Cornish Pascoe (Name)</title></circle></a><a href="/setts/s10/p6k2ly6k60y60r6k25ly4k2w6/"><circle cx="253.4" cy="72.2" r="4" fill="#3465a4"><title>US Army Civil Affairs</title></circle></a><circle cx="286.6" cy="53.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/n1k6n35k6k2dp3n1k6k2w1~x2/"><circle cx="319.5" cy="69.3" r="4" fill="#3465a4"><title>Melrose Newbigging Grey</title></circle></a><a href="/setts/s12/r2k34w2k2o27g1o2k3o2ly1o2r2~x2/"><circle cx="290.9" cy="54.9" r="4" fill="#3465a4"><title>Hudson's Bay Company</title></circle></a><a href="/setts/s12/db36ly4k6lb1k1lb1k1dg8r6k1r3lb1/"><circle cx="272.4" cy="53.0" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/setts/s17/w2k32lr5dt3lr2dt3lr2dt3lr1dt6ly3k2ly1k3ly2k2w1~x2/"><circle cx="246.5" cy="37.3" r="4" fill="#3465a4"><title>Cornish Pascoe, The</title></circle></a><a href="/setts/s8/k3r1k30w1o28g1o1w3~x2/"><circle cx="305.8" cy="101.5" r="4" fill="#3465a4"><title>Dunlop</title></circle></a><a href="/setts/s11/ly4k5b2k30k1k4k4k1k15r6w3~x2/"><circle cx="275.9" cy="93.4" r="4" fill="#3465a4"><title>Correctional Service Canada</title></circle></a><a href="/setts/s13/k58db5w5k10ly3k3w3k3dg14r11k3r4w3~x2/"><circle cx="315.8" cy="79.0" r="4" fill="#3465a4"><title>Stuart/Stewart Black #2</title></circle></a><a href="/setts/s12/db36ly4k6ly1k1w1k1g8r6k1r3w1~x2/"><circle cx="279.3" cy="49.3" r="4" fill="#3465a4"><title>MacBeth, MacLulich</title></circle></a><a href="/setts/s17/w2k32o5n3o2n3o2n3o1n6ly3k2ly1w3ly2k2w1~x2/"><circle cx="249.1" cy="36.1" r="4" fill="#3465a4"><title>Cornish Pascoe (Name)</title></circle></a><a href="/setts/s10/p6k2ly6k60y60r6k25ly4k2w6/"><circle cx="253.4" cy="72.2" r="4" fill="#3465a4"><title>US Army Civil Affairs</title></circle></a><circle cx="286.5" cy="53.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r2k34w2k2y27g1y2k3y2ly1y2r2~x2/

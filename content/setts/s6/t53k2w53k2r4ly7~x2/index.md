@@ -2,7 +2,7 @@
 title: "Galicia"
 date: 2023-03-18
 ---
-**Bands:** [BKWKRY](/stripes/bkwkry/) · **Stripes:** [T K W K R LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">T K W K R LY</span></span>
+**Bands:** [YRKWKB](/stripes/yrkwkb/) · **Stripes:** [LY R K W K T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY R K W K T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -48,7 +48,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Kinloch of Loch Awe (Personal)](/setts/s5/w18o29t2dp3k1~x2/) — ΔT 1.20
 1. [Cornish, National Day](/setts/s5/k5w2ly36b47r3~x2/) — ΔT 1.28
-1. [Galloway (Dance)](/setts/s6/g3r2b35w35b2r3~x2/) — ΔT 1.35
+1. [Galloway (Dance)](/setts/s6/r3b2w35b35r2g3~x2/) — ΔT 1.35
 1. [Musselburgh Dress (Dance)](/setts/s9/t14db1n3g1n3db1n4w24r1~x4/) — ΔT 1.43
 1. [Shiel, Purple V2 (Dance)](/setts/s7/w8g5dp10t24w30g2lp2~x2/) — ΔT 1.48
 1. [Oliver Dress Pink](/setts/s5/k5w2ly36t47r3~x2/) — ΔT 1.49
@@ -59,8 +59,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/w18o29t2dp3k1~x2/"><circle cx="324.7" cy="131.6" r="4" fill="#3465a4"><title>Kinloch of Loch Awe (Personal)</title></circle></a><a href="/setts/s5/k5w2ly36b47r3~x2/"><circle cx="288.7" cy="134.4" r="4" fill="#3465a4"><title>Cornish, National Day</title></circle></a><a href="/setts/s6/g3r2b35w35b2r3~x2/"><circle cx="272.0" cy="144.3" r="4" fill="#3465a4"><title>Galloway (Dance)</title></circle></a><a href="/setts/s9/t14db1n3g1n3db1n4w24r1~x4/"><circle cx="226.8" cy="75.7" r="4" fill="#3465a4"><title>Musselburgh Dress (Dance)</title></circle></a><a href="/setts/s7/w8g5dp10t24w30g2lp2~x2/"><circle cx="209.0" cy="144.5" r="4" fill="#3465a4"><title>Shiel, Purple V2 (Dance)</title></circle></a><a href="/setts/s5/k5w2ly36t47r3~x2/"><circle cx="290.4" cy="144.1" r="4" fill="#3465a4"><title>Oliver Dress Pink</title></circle></a><a href="/setts/s8/db4w1db2w18g3w1r9ly4~x4/"><circle cx="213.1" cy="114.7" r="4" fill="#3465a4"><title>Manitoba Dress (1958) (District)</title></circle></a><a href="/setts/s7/r9w27k7w45lb60dg4lo5/"><circle cx="207.8" cy="125.2" r="4" fill="#3465a4"><title>Ch. Supt. Everett and Mrs Julene Sum</title></circle></a><a href="/setts/s7/w2db1w15t12w1ly3db1~x6/"><circle cx="287.7" cy="154.2" r="4" fill="#3465a4"><title>St. John's (Corporate)</title></circle></a><a href="/setts/s10/g4y4g2w36y14w2lt4g7m5w3~x2/"><circle cx="241.3" cy="96.6" r="4" fill="#3465a4"><title>Rikaco Eve</title></circle></a><circle cx="261.7" cy="110.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/w18o29t2dp3k1~x2/"><circle cx="324.3" cy="131.4" r="4" fill="#3465a4"><title>Kinloch of Loch Awe (Personal)</title></circle></a><a href="/setts/s5/k5w2ly36b47r3~x2/"><circle cx="288.3" cy="134.2" r="4" fill="#3465a4"><title>Cornish, National Day</title></circle></a><a href="/setts/s6/r3b2w35b35r2g3~x2/"><circle cx="271.6" cy="144.0" r="4" fill="#3465a4"><title>Galloway (Dance)</title></circle></a><a href="/setts/s9/t14db1n3g1n3db1n4w24r1~x4/"><circle cx="226.4" cy="75.7" r="4" fill="#3465a4"><title>Musselburgh Dress (Dance)</title></circle></a><a href="/setts/s7/w8g5dp10t24w30g2lp2~x2/"><circle cx="208.7" cy="144.4" r="4" fill="#3465a4"><title>Shiel, Purple V2 (Dance)</title></circle></a><a href="/setts/s5/k5w2ly36t47r3~x2/"><circle cx="290.0" cy="144.0" r="4" fill="#3465a4"><title>Oliver Dress Pink</title></circle></a><a href="/setts/s8/db4w1db2w18g3w1r9ly4~x4/"><circle cx="212.7" cy="114.6" r="4" fill="#3465a4"><title>Manitoba Dress (1958) (District)</title></circle></a><a href="/setts/s7/r9w27k7w45lb60dg4lo5/"><circle cx="207.3" cy="125.2" r="4" fill="#3465a4"><title>Ch. Supt. Everett and Mrs Julene Sum</title></circle></a><a href="/setts/s7/w2db1w15t12w1ly3db1~x6/"><circle cx="287.3" cy="154.0" r="4" fill="#3465a4"><title>St. John's (Corporate)</title></circle></a><a href="/setts/s10/g4y4g2w36y14w2lt4g7m5w3~x2/"><circle cx="240.8" cy="96.5" r="4" fill="#3465a4"><title>Rikaco Eve</title></circle></a><circle cx="261.2" cy="110.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/t53k2w53k2r4ly7~x2/

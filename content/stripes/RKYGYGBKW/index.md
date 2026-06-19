@@ -22,6 +22,6 @@ RKYGYGBKW
 
 | Tartans |
 |---------------|
-| [Federated Women's Institutes of](/setts/s9/lb2k1db12g3lo4g3lo2k1r2~x4/)|
-|![Federated Women's Institutes of example sett](/setts/s9/lb2k1db12g3lo4g3lo2k1r2~x4/sett.png)|
+| [Federated Women's Institutes of](/setts/s9/r2k1lo2g3lo4g3db12k1lb2~x4/)|
+|![Federated Women's Institutes of example sett](/setts/s9/r2k1lo2g3lo4g3db12k1lb2~x4/sett.png)|
 

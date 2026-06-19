@@ -8,7 +8,7 @@ BRYRYRYB
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/db4ly1r12ly2r2ly12r1db4~x4/tartan.png)
+![Woven sample](/setts/s8/db4r1ly12r2ly2r12ly1db4~x4/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ BRYRYRYB
 
 | Tartans |
 |---------------|
-| [Glassary #2](/setts/s8/db4ly1r12ly2r2ly12r1db4~x4/)|
-|![Glassary #2 example sett](/setts/s8/db4ly1r12ly2r2ly12r1db4~x4/sett.png)|
+| [Glassary #2](/setts/s8/db4r1ly12r2ly2r12ly1db4~x4/)|
+|![Glassary #2 example sett](/setts/s8/db4r1ly12r2ly2r12ly1db4~x4/sett.png)|
 

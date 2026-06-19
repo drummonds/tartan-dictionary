@@ -18,10 +18,10 @@ WRYRYKYRYRYKYRYRW
 
 
 
-### LB O LO O LO K LO O LO O LO K LO O LO O W <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LB O LO O LO K LO O LO O LO K LO O LO O W</span></span>
+### W O LO O LO K LO O LO O LO K LO O LO O LB <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">W O LO O LO K LO O LO O LO K LO O LO O LB</span></span>
 
 | Tartans |
 |---------------|
-| [Australia, The](/setts/s17/lb2o15lo10o4lo2k2lo2o4lo50o4lo2k2lo2o4lo10o15w2~x2/)|
-|![Australia, The example sett](/setts/s17/lb2o15lo10o4lo2k2lo2o4lo50o4lo2k2lo2o4lo10o15w2~x2/sett.png)|
+| [Australia, The](/setts/s17/w2o15lo10o4lo2k2lo2o4lo50o4lo2k2lo2o4lo10o15lb2~x2/)|
+|![Australia, The example sett](/setts/s17/w2o15lo10o4lo2k2lo2o4lo50o4lo2k2lo2o4lo10o15lb2~x2/sett.png)|
 

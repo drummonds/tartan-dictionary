@@ -2,7 +2,7 @@
 title: "Wilson's, No 188"
 date: 2023-03-18
 ---
-**Bands:** [BGR](/stripes/bgr/) · **Stripes:** [T G R](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">T G R</span></span>
+**Bands:** [RGB](/stripes/rgb/) · **Stripes:** [R G T](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">R G T</span></span>
 
 
 This was sourced from weddslist.  It is a [3 band tartan](/bands/bands3/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -893,7 +896,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/4 G8 R/16
+R/16 G8 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -907,7 +910,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/4 G8 R/16 tartan")
+![Tartan detail](tartan.png "R/16 G8 B/4 tartan")
 
 ## Nearest tartans
 
@@ -915,19 +918,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Wilson's No.188](/setts/s4/g2r4g2t1~x4/) — ΔT 1.44
 1. [Menzies](/setts/s5/r5dg5lr1b2r5~x2/) — ΔT 1.63
-1. [Menzies](/setts/s5/r5dg5lr1b2r5/) — ΔT 1.63
 1. [MacGowan](/setts/s5/r4db4r1g4r4~x6/) — ΔT 1.82
 1. [MacKinnon 11](/setts/s4/r3g20r25w3~x4/) — ΔT 1.84
-1. [MacGregor of Glenstrae #2](/setts/s4/r17dg9r2dg9~x2/) — ΔT 1.87
+1. [MacGregor of Glenstrae #2](/setts/s4/r17dg9r2~x2/) — ΔT 1.87
 1. [Wilson's, No 208](/setts/s3/g7t2r4~x2/) — ΔT 1.88
-1. [Lugo (2013)](/setts/s4/r10dg4lo1dg4~x8/) — ΔT 1.89
+1. [Lugo (2013)](/setts/s4/r10dg4lo1~x8/) — ΔT 1.89
 1. [MacKinnon #6](/setts/s4/r3dg20r25w3~x4/) — ΔT 1.93
-1. [Bryce](/setts/s4/ly1r9g7r1~x4/) — ΔT 1.93
+1. [Bryce](/setts/s4/r1g7r9ly1~x4/) — ΔT 1.93
+1. [Gow](/setts/s5/r4dg4r1db4r4~x4/) — ΔT 1.94
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/g2r4g2t1~x4/"><circle cx="240.3" cy="313.9" r="4" fill="#3465a4"><title>Wilson's No.188</title></circle></a><a href="/setts/s5/r5dg5lr1b2r5~x2/"><circle cx="275.6" cy="283.9" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s5/r5dg5lr1b2r5/"><circle cx="275.6" cy="283.9" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s5/r4db4r1g4r4~x6/"><circle cx="239.3" cy="316.0" r="4" fill="#3465a4"><title>MacGowan</title></circle></a><a href="/setts/s4/r3g20r25w3~x4/"><circle cx="340.0" cy="246.3" r="4" fill="#3465a4"><title>MacKinnon 11</title></circle></a><a href="/setts/s4/r17dg9r2dg9~x2/"><circle cx="350.0" cy="287.3" r="4" fill="#3465a4"><title>MacGregor of Glenstrae #2</title></circle></a><a href="/setts/s3/g7t2r4~x2/"><circle cx="268.8" cy="339.2" r="4" fill="#3465a4"><title>Wilson's, No 208</title></circle></a><a href="/setts/s4/r10dg4lo1dg4~x8/"><circle cx="349.8" cy="263.6" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/setts/s4/r3dg20r25w3~x4/"><circle cx="335.4" cy="240.1" r="4" fill="#3465a4"><title>MacKinnon #6</title></circle></a><a href="/setts/s4/ly1r9g7r1~x4/"><circle cx="356.3" cy="246.0" r="4" fill="#3465a4"><title>Bryce</title></circle></a><circle cx="308.8" cy="316.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/g2r4g2t1~x4/"><circle cx="240.3" cy="313.7" r="4" fill="#3465a4"><title>Wilson's No.188</title></circle></a><a href="/setts/s5/r5dg5lr1b2r5~x2/"><circle cx="275.5" cy="283.8" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s5/r4db4r1g4r4~x6/"><circle cx="239.2" cy="315.8" r="4" fill="#3465a4"><title>MacGowan</title></circle></a><a href="/setts/s4/r3g20r25w3~x4/"><circle cx="339.7" cy="246.1" r="4" fill="#3465a4"><title>MacKinnon 11</title></circle></a><a href="/setts/s4/r17dg9r2~x2/"><circle cx="349.8" cy="287.0" r="4" fill="#3465a4"><title>MacGregor of Glenstrae #2</title></circle></a><a href="/setts/s3/g7t2r4~x2/"><circle cx="268.7" cy="339.0" r="4" fill="#3465a4"><title>Wilson's, No 208</title></circle></a><a href="/setts/s4/r10dg4lo1~x8/"><circle cx="349.6" cy="263.4" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/setts/s4/r3dg20r25w3~x4/"><circle cx="335.1" cy="239.8" r="4" fill="#3465a4"><title>MacKinnon #6</title></circle></a><a href="/setts/s4/r1g7r9ly1~x4/"><circle cx="355.9" cy="245.7" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/setts/s5/r4dg4r1db4r4~x4/"><circle cx="245.5" cy="320.3" r="4" fill="#3465a4"><title>Gow</title></circle></a><circle cx="308.6" cy="316.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/r4g2t1~x4/

@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/941/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Erskine, Green
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -319,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,17 +925,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Bundy, Dress Black Personal)](/setts/s8/g1g1w1g15w15g1w1g1~x4/) — ΔT 1.51
 1. [Wallace Green Dress Fashion Tartan Tartan Number: 2212. Earliest known date: pre 2004 A dancers tartan based on the Wallace See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/w12g12w1g12w12lo1~x4/) — ΔT 1.62
 1. [Lewis, Green (Dance)](/setts/s4/dg4w35g31w4~x2/) — ΔT 1.67
-1. [Burns (Fashion)](/setts/s6/w15do6w1do3o3w1~x4/) — ΔT 1.70
+1. [Burns (Fashion)](/setts/s6/w15do6w1do3o3w1~x4/) — ΔT 1.69
 1. [WVU Mountaineer Tartan](/setts/s6/db4ly9w4db9ly18w1~x2/) — ΔT 1.70
 1. [MacMugen](/setts/s6/dt3w16dt4w3dt12w2~x3/) — ΔT 1.79
 1. [WVU Mountaineer (Corporate)](/setts/s6/dt4ly9w4dt9ly18w1~x2/) — ΔT 1.97
-1. [O'Neill](/setts/s9/w2g1w2o6w10g6w2o1w2~x2/) — ΔT 2.07
-1. [Forbes Dress (Clans Originaux)](/setts/s7/w6b3w20k2w3k25w3~x2/) — ΔT 2.12
+1. [O'Neill](/setts/s9/w2o1w2g6w10o6w2g1w2~x2/) — ΔT 2.07
+1. [MacPherson Dress Green (Dance)](/setts/s7/w5r3w26g20w3g8ly3~x2/) — ΔT 2.12
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dg6w2dg29w29dg2w6~x2/"><circle cx="327.4" cy="200.0" r="4" fill="#3465a4"><title>Erskine Green</title></circle></a><a href="/setts/s8/g1g1w1g15w15g1w1g1~x4/"><circle cx="296.3" cy="144.0" r="4" fill="#3465a4"><title>Bundy, Dress Black Personal)</title></circle></a><a href="/setts/s6/w12g12w1g12w12lo1~x4/"><circle cx="273.7" cy="223.8" r="4" fill="#3465a4"><title>Wallace Green Dress Fashion Tartan Tartan Number: 2212. Earliest known date: pre 2004 A dancers tartan based on the Wallace See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/dg4w35g31w4~x2/"><circle cx="282.2" cy="231.1" r="4" fill="#3465a4"><title>Lewis, Green (Dance)</title></circle></a><a href="/setts/s6/w15do6w1do3o3w1~x4/"><circle cx="323.5" cy="166.4" r="4" fill="#3465a4"><title>Burns (Fashion)</title></circle></a><a href="/setts/s6/db4ly9w4db9ly18w1~x2/"><circle cx="301.2" cy="179.6" r="4" fill="#3465a4"><title>WVU Mountaineer Tartan</title></circle></a><a href="/setts/s6/dt3w16dt4w3dt12w2~x3/"><circle cx="294.5" cy="226.7" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><a href="/setts/s6/dt4ly9w4dt9ly18w1~x2/"><circle cx="316.5" cy="183.1" r="4" fill="#3465a4"><title>WVU Mountaineer (Corporate)</title></circle></a><a href="/setts/s9/w2g1w2o6w10g6w2o1w2~x2/"><circle cx="286.9" cy="192.0" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/setts/s7/w6b3w20k2w3k25w3~x2/"><circle cx="282.4" cy="170.0" r="4" fill="#3465a4"><title>Forbes Dress (Clans Originaux)</title></circle></a><circle cx="320.5" cy="195.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dg6w2dg29w29dg2w6~x2/"><circle cx="327.0" cy="199.6" r="4" fill="#3465a4"><title>Erskine Green</title></circle></a><a href="/setts/s8/g1g1w1g15w15g1w1g1~x4/"><circle cx="295.8" cy="143.7" r="4" fill="#3465a4"><title>Bundy, Dress Black Personal)</title></circle></a><a href="/setts/s6/w12g12w1g12w12lo1~x4/"><circle cx="273.4" cy="223.5" r="4" fill="#3465a4"><title>Wallace Green Dress Fashion Tartan Tartan Number: 2212. Earliest known date: pre 2004 A dancers tartan based on the Wallace See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/dg4w35g31w4~x2/"><circle cx="281.9" cy="230.7" r="4" fill="#3465a4"><title>Lewis, Green (Dance)</title></circle></a><a href="/setts/s6/w15do6w1do3o3w1~x4/"><circle cx="323.0" cy="166.0" r="4" fill="#3465a4"><title>Burns (Fashion)</title></circle></a><a href="/setts/s6/db4ly9w4db9ly18w1~x2/"><circle cx="300.7" cy="179.2" r="4" fill="#3465a4"><title>WVU Mountaineer Tartan</title></circle></a><a href="/setts/s6/dt3w16dt4w3dt12w2~x3/"><circle cx="294.2" cy="226.2" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><a href="/setts/s6/dt4ly9w4dt9ly18w1~x2/"><circle cx="316.0" cy="182.8" r="4" fill="#3465a4"><title>WVU Mountaineer (Corporate)</title></circle></a><a href="/setts/s9/w2o1w2g6w10o6w2g1w2~x2/"><circle cx="286.4" cy="191.7" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/setts/s7/w5r3w26g20w3g8ly3~x2/"><circle cx="245.8" cy="183.0" r="4" fill="#3465a4"><title>MacPherson Dress Green (Dance)</title></circle></a><circle cx="320.0" cy="194.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/g6w2g29w29g2w6~x2/

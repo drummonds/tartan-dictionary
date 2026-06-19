@@ -2,12 +2,18 @@
 title: "Riley's Theme"
 date: 2023-03-18
 ---
-**Bands:** [BBGBYB](/stripes/bbgbyb/) · **Stripes:** [T DT Y N LY T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="seq">T DT Y N LY T</span></span>
+**Bands:** [BYBGBB](/stripes/bybgbb/) · **Stripes:** [T LY N Y DT T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="seq">T LY N Y DT T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10657
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Riley's Theme Commemorative
 
 ## Attestations
 
@@ -51,15 +57,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Aisteach](/setts/s7/dp32dg16o14k4o6dp7k2~x2/) — ΔT 1.73
 1. [Hebridean Thistle (Fashion)](/setts/s9/o4dp2o7n30o8n7dp5dp1w2~x2/) — ΔT 1.74
 1. [Skibo (Corporate)](/setts/s5/r2y23db11b22r2~x2/) — ΔT 1.79
-1. [Burt #1 (Name)](/setts/s9/m2lg13b8lg3b33lo3b8lo13r2~x2/) — ΔT 1.79
+1. [Burt #1 (Name)](/setts/s9/r2lo13b8lo3b33lg3b8lg13m2~x2/) — ΔT 1.79
 1. [Bagpipe Shop, The (Corporate)](/setts/s5/n10lr3o3r1g1~x10/) — ΔT 1.80
 1. [McFarland-Collins](/setts/s6/db40n16k5dt16w2dp6~x2/) — ΔT 1.82
 1. [Titanium (Fashion)](/setts/s9/n44o8n8o22lb4o4lb11o2lb2~x2/) — ΔT 1.83
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db12t6g30db9r8lo1~x2/"><circle cx="320.3" cy="192.9" r="4" fill="#3465a4"><title>Wright, Anne (Personal)</title></circle></a><a href="/setts/s6/r4y2db4y35t27r3~x2/"><circle cx="342.1" cy="186.8" r="4" fill="#3465a4"><title>Royal Deeside (District)</title></circle></a><a href="/setts/s9/n8o4lb2o4n1o12g9n24r4~x2/"><circle cx="349.6" cy="189.5" r="4" fill="#3465a4"><title>Willsher Wedding (Personal)</title></circle></a><a href="/setts/s7/dp32dg16o14k4o6dp7k2~x2/"><circle cx="351.8" cy="235.3" r="4" fill="#3465a4"><title>Aisteach</title></circle></a><a href="/setts/s9/o4dp2o7n30o8n7dp5dp1w2~x2/"><circle cx="407.0" cy="154.3" r="4" fill="#3465a4"><title>Hebridean Thistle (Fashion)</title></circle></a><a href="/setts/s5/r2y23db11b22r2~x2/"><circle cx="290.9" cy="267.9" r="4" fill="#3465a4"><title>Skibo (Corporate)</title></circle></a><a href="/setts/s9/m2lg13b8lg3b33lo3b8lo13r2~x2/"><circle cx="371.7" cy="183.7" r="4" fill="#3465a4"><title>Burt #1 (Name)</title></circle></a><a href="/setts/s5/n10lr3o3r1g1~x10/"><circle cx="364.3" cy="239.2" r="4" fill="#3465a4"><title>Bagpipe Shop, The (Corporate)</title></circle></a><a href="/setts/s6/db40n16k5dt16w2dp6~x2/"><circle cx="302.9" cy="203.1" r="4" fill="#3465a4"><title>McFarland-Collins</title></circle></a><a href="/setts/s9/n44o8n8o22lb4o4lb11o2lb2~x2/"><circle cx="379.8" cy="181.4" r="4" fill="#3465a4"><title>Titanium (Fashion)</title></circle></a><circle cx="345.3" cy="208.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db12t6g30db9r8lo1~x2/"><circle cx="320.2" cy="193.0" r="4" fill="#3465a4"><title>Wright, Anne (Personal)</title></circle></a><a href="/setts/s6/r4y2db4y35t27r3~x2/"><circle cx="341.8" cy="186.8" r="4" fill="#3465a4"><title>Royal Deeside (District)</title></circle></a><a href="/setts/s9/n8o4lb2o4n1o12g9n24r4~x2/"><circle cx="349.4" cy="189.7" r="4" fill="#3465a4"><title>Willsher Wedding (Personal)</title></circle></a><a href="/setts/s7/dp32dg16o14k4o6dp7k2~x2/"><circle cx="351.8" cy="235.5" r="4" fill="#3465a4"><title>Aisteach</title></circle></a><a href="/setts/s9/o4dp2o7n30o8n7dp5dp1w2~x2/"><circle cx="406.7" cy="154.4" r="4" fill="#3465a4"><title>Hebridean Thistle (Fashion)</title></circle></a><a href="/setts/s5/r2y23db11b22r2~x2/"><circle cx="291.0" cy="268.0" r="4" fill="#3465a4"><title>Skibo (Corporate)</title></circle></a><a href="/setts/s9/r2lo13b8lo3b33lg3b8lg13m2~x2/"><circle cx="371.4" cy="183.7" r="4" fill="#3465a4"><title>Burt #1 (Name)</title></circle></a><a href="/setts/s5/n10lr3o3r1g1~x10/"><circle cx="364.1" cy="239.3" r="4" fill="#3465a4"><title>Bagpipe Shop, The (Corporate)</title></circle></a><a href="/setts/s6/db40n16k5dt16w2dp6~x2/"><circle cx="303.0" cy="203.4" r="4" fill="#3465a4"><title>McFarland-Collins</title></circle></a><a href="/setts/s9/n44o8n8o22lb4o4lb11o2lb2~x2/"><circle cx="379.5" cy="181.5" r="4" fill="#3465a4"><title>Titanium (Fashion)</title></circle></a><circle cx="345.2" cy="208.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/t20dt4y5n14ly1t2~x2/

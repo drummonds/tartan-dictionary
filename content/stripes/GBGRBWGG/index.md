@@ -20,7 +20,7 @@ GBGRBWGG
 
 
 
-### DG DO DG R DO W DG Y <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DG DO DG R DO W DG Y</span></span>
+### Y DG W DO R DG DO DG <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="seq">Y DG W DO R DG DO DG</span></span>
 
 | Tartans |
 |---------------|

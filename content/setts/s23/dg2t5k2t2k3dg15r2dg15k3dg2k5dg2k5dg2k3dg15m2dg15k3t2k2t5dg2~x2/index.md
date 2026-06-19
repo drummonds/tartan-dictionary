@@ -1,0 +1,54 @@
+---
+title: "Gunning, Robert Maxwell Stewart (Personal)"
+date: 2023-03-18
+---
+**Bands:** [GBKBKGRGKGKGKGKGRGKBKBG](/stripes/gbkbkgrgkgkgkgkgrgkbkbg/) · **Stripes:** [DG T K T K DG R DG K DG K DG K DG K DG M DG K T K T DG](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="seq">DG T K T K DG R DG K DG K DG K DG K DG M DG K T K T DG</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [23 band tartan](/bands/bands23/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11525
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11525](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11525)
+
+## Thread count
+DG/4 B10 K4 B4 K6 DG30 DR4 DG30 K6 DG4 K10 DG4 K10 DG4 K6 DG30 LR4 DG30 K6 B4 K4 B10 DG/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> `#5C8CA8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| DG | <code style="background-color:#002814;"><span style="color:#002814;filter:grayscale(1) invert(1) contrast(100);">#002814</span></code> `#002814` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.20 |
+| DR | <code style="background-color:#800028;"><span style="color:#800028;filter:grayscale(1) invert(1) contrast(100);">#800028</span></code> `#800028` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.17 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LR | <code style="background-color:#EC34C4;"><span style="color:#EC34C4;filter:grayscale(1) invert(1) contrast(100);">#EC34C4</span></code> `#EC34C4` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Stuart/Stewart Hunting #2](/setts/s22/db9dg4db9k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27ly4dg27k8db3k3/) — ΔT 0.96
+1. [Stewart Hunting](/setts/s26/db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27ly4dg27k8db3k3db3k3/) — ΔT 1.28
+1. [Pride (Wales)](/setts/s22/k40db4t4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4t4db4k40g12/) — ΔT 1.54
+1. [Stewart Hunting Early](/setts/s23/dg4db9k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27ly4dg27k8db3k3db9dg4~x2/) — ΔT 1.64
+1. [Pride of Wales (Fashion)](/setts/s12/g12k40db4t4db4k28db7k8db7k8db10r4/) — ΔT 1.67
+1. [Hopetoun Rejected design](/setts/s14/dg11db1k1dg2k12ly1k12dg2k2dg11k2dg2k12ly1~x4/) — ΔT 1.67
+1. [Cornwall](/setts/s15/n4r12n4k14n36r3n36k14n4r12n4r12k14n36lo3~x2/) — ΔT 1.76
+1. [MacAlpine](/setts/s14/k8ly1k4dg1k4w1k4dg1k1dg6k1dg6k1dg1~x4/) — ΔT 1.81
+1. [Stewart Hunting D](/setts/s27/dg2db3k1db1k1db1k4dg12r2dg12k3dg2k6dg2k6dg2k3dg12ly2dg12k4db1k1db1k1db3dg2~x2/) — ΔT 1.83
+1. [MacGlynn](/setts/s17/k3dg3w3dg3dp3dg3dp3dg15dp3k3dp3k3dp3k3dp3dg19r3~x2/) — ΔT 1.84
+
+## Neighbour map
+
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s22/db9dg4db9k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27ly4dg27k8db3k3/"><circle cx="303.8" cy="184.6" r="4" fill="#3465a4"><title>Stuart/Stewart Hunting #2</title></circle></a><a href="/setts/s26/db9dg4db9k3db3k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27ly4dg27k8db3k3db3k3/"><circle cx="274.5" cy="161.2" r="4" fill="#3465a4"><title>Stewart Hunting</title></circle></a><a href="/setts/s22/k40db4t4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4t4db4k40g12/"><circle cx="405.6" cy="188.8" r="4" fill="#3465a4"><title>Pride (Wales)</title></circle></a><a href="/setts/s23/dg4db9k3db3k8dg27r4dg27k8dg5k13dg4k13dg5k8dg27ly4dg27k8db3k3db9dg4~x2/"><circle cx="273.4" cy="165.9" r="4" fill="#3465a4"><title>Stewart Hunting Early</title></circle></a><a href="/setts/s12/g12k40db4t4db4k28db7k8db7k8db10r4/"><circle cx="367.1" cy="202.1" r="4" fill="#3465a4"><title>Pride of Wales (Fashion)</title></circle></a><a href="/setts/s14/dg11db1k1dg2k12ly1k12dg2k2dg11k2dg2k12ly1~x4/"><circle cx="368.7" cy="201.1" r="4" fill="#3465a4"><title>Hopetoun Rejected design</title></circle></a><a href="/setts/s15/n4r12n4k14n36r3n36k14n4r12n4r12k14n36lo3~x2/"><circle cx="362.1" cy="200.6" r="4" fill="#3465a4"><title>Cornwall</title></circle></a><a href="/setts/s14/k8ly1k4dg1k4w1k4dg1k1dg6k1dg6k1dg1~x4/"><circle cx="321.7" cy="211.6" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s27/dg2db3k1db1k1db1k4dg12r2dg12k3dg2k6dg2k6dg2k3dg12ly2dg12k4db1k1db1k1db3dg2~x2/"><circle cx="285.3" cy="138.9" r="4" fill="#3465a4"><title>Stewart Hunting D</title></circle></a><a href="/setts/s17/k3dg3w3dg3dp3dg3dp3dg15dp3k3dp3k3dp3k3dp3dg19r3~x2/"><circle cx="236.3" cy="161.8" r="4" fill="#3465a4"><title>MacGlynn</title></circle></a><circle cx="329.4" cy="181.6" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s23/dg2t5k2t2k3dg15r2dg15k3dg2k5dg2k5dg2k3dg15m2dg15k3t2k2t5dg2~x2/

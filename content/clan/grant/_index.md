@@ -11,8 +11,8 @@ date: 2023-03-18
 ## Families
 
 - [Grant of Acharrow](/families/grant-of-acharrow/)
+- [Grant of Acharrow Artifact](/families/grant-of-acharrow-artifact/)
 - [Grant of Achnarrow Error](/families/grant-of-achnarrow-error/)
-- [Grant of Auchnarrow](/families/grant-of-auchnarrow/)
 - [Grant of Ballindalloch](/families/grant-of-ballindalloch/)
 - [Grant of Glenmoriston](/families/grant-of-glenmoriston/)
 - [Grant of Lurg](/families/grant-of-lurg/)

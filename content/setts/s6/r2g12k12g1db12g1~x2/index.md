@@ -2,7 +2,7 @@
 title: "Gunn"
 date: 2023-03-18
 ---
-**Bands:** [GBGKGR](/stripes/gbgkgr/) · **Stripes:** [G DB G K G R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">G DB G K G R</span></span>
+**Bands:** [RGKGBG](/stripes/rgkgbg/) · **Stripes:** [R G K G DB G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G K G DB G</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -895,13 +898,13 @@ External register numbers recorded for this tartan.
 
 Other setts woven to the same stripe pattern.
 
-- [Gunn](/setts/s6/g2db12g1k12g12r2~x2/)
+- [Gunn](/setts/s6/r2g12k12g1db12g2~x2/)
 - [Gunn - 1810 (Clan)](/setts/s6/r4g12k12g2db12g3~x2/)
 - [Lauder (Family)](/setts/s6/g3db8g3k4g15r2~x2/)
 
 
 ## Thread count
-G/2 B24 G2 K24 G24 R/4
+R/4 G24 K24 G2 B24 G/2
 ![Sett](sett.png)
 
 ## Palette
@@ -916,27 +919,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/2 B24 G2 K24 G24 R/4 tartan")
+![Tartan detail](tartan.png "R/4 G24 K24 G2 B24 G/2 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Ferguson of Balquhidder](/setts/s6/g2db12r1k12g12k2~x2/) — ΔT 0.30
+1. [Ferguson of Balquhidder](/setts/s6/k2g12k12r1db12g2~x2/) — ΔT 0.30
 1. [Unnamed, No 59](/setts/s6/t1db11k11g11k2t1~x2/) — ΔT 0.40
 1. [Blair](/setts/s7/db3r1db10k8g10r1g3~x4/) — ΔT 0.61
 1. [MacNeil 1](/setts/s6/w1db9k9g9k2w1~x4/) — ΔT 0.63
 1. [Melville](/setts/s6/k4w2g18k13db12k2~x2/) — ΔT 0.68
 1. [MacKirdy](/setts/s5/k2g12k11db12w1~x2/) — ΔT 0.74
-1. [Graham of Montrose](/setts/s6/g4db15w2k16g19k4~x2/) — ΔT 0.75
+1. [Graham of Montrose](/setts/s6/k4g19k16w2db15g4~x2/) — ΔT 0.75
 1. [Wilson's No 158](/setts/s6/g21w2g4k17p14k3~x2/) — ΔT 0.87
-1. [Unnamed, No 115](/setts/s8/db10k6t1g6k1g6t1k6~x2/) — ΔT 0.88
+1. [Unnamed, No 115](/setts/s8/db10k6t1g6k1~x2/) — ΔT 0.88
 1. [Graham W](/setts/s6/dg21lb2dg4k17dp14k3/) — ΔT 0.90
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g2db12r1k12g12k2~x2/"><circle cx="171.4" cy="211.9" r="4" fill="#3465a4"><title>Ferguson of Balquhidder</title></circle></a><a href="/setts/s6/t1db11k11g11k2t1~x2/"><circle cx="167.4" cy="212.4" r="4" fill="#3465a4"><title>Unnamed, No 59</title></circle></a><a href="/setts/s7/db3r1db10k8g10r1g3~x4/"><circle cx="167.2" cy="213.5" r="4" fill="#3465a4"><title>Blair</title></circle></a><a href="/setts/s6/w1db9k9g9k2w1~x4/"><circle cx="146.3" cy="216.7" r="4" fill="#3465a4"><title>MacNeil 1</title></circle></a><a href="/setts/s6/k4w2g18k13db12k2~x2/"><circle cx="159.6" cy="221.6" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/setts/s5/k2g12k11db12w1~x2/"><circle cx="161.0" cy="227.3" r="4" fill="#3465a4"><title>MacKirdy</title></circle></a><a href="/setts/s6/g4db15w2k16g19k4~x2/"><circle cx="162.0" cy="224.3" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/setts/s6/g21w2g4k17p14k3~x2/"><circle cx="181.9" cy="208.4" r="4" fill="#3465a4"><title>Wilson's No 158</title></circle></a><a href="/setts/s8/db10k6t1g6k1g6t1k6~x2/"><circle cx="146.2" cy="214.8" r="4" fill="#3465a4"><title>Unnamed, No 115</title></circle></a><a href="/setts/s6/dg21lb2dg4k17dp14k3/"><circle cx="200.6" cy="222.3" r="4" fill="#3465a4"><title>Graham W</title></circle></a><circle cx="173.0" cy="206.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k2g12k12r1db12g2~x2/"><circle cx="171.6" cy="211.8" r="4" fill="#3465a4"><title>Ferguson of Balquhidder</title></circle></a><a href="/setts/s6/t1db11k11g11k2t1~x2/"><circle cx="167.6" cy="212.4" r="4" fill="#3465a4"><title>Unnamed, No 59</title></circle></a><a href="/setts/s7/db3r1db10k8g10r1g3~x4/"><circle cx="167.4" cy="213.5" r="4" fill="#3465a4"><title>Blair</title></circle></a><a href="/setts/s6/w1db9k9g9k2w1~x4/"><circle cx="146.6" cy="216.6" r="4" fill="#3465a4"><title>MacNeil 1</title></circle></a><a href="/setts/s6/k4w2g18k13db12k2~x2/"><circle cx="159.8" cy="221.5" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/setts/s5/k2g12k11db12w1~x2/"><circle cx="161.3" cy="227.2" r="4" fill="#3465a4"><title>MacKirdy</title></circle></a><a href="/setts/s6/k4g19k16w2db15g4~x2/"><circle cx="162.2" cy="224.2" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/setts/s6/g21w2g4k17p14k3~x2/"><circle cx="182.0" cy="208.3" r="4" fill="#3465a4"><title>Wilson's No 158</title></circle></a><a href="/setts/s8/db10k6t1g6k1~x2/"><circle cx="146.4" cy="214.8" r="4" fill="#3465a4"><title>Unnamed, No 115</title></circle></a><a href="/setts/s6/dg21lb2dg4k17dp14k3/"><circle cx="200.8" cy="222.2" r="4" fill="#3465a4"><title>Graham W</title></circle></a><circle cx="173.1" cy="206.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r2g12k12g1db12g1~x2/

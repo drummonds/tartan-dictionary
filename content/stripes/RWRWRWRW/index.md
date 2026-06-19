@@ -43,6 +43,6 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Menzies Dress](/setts/s8/r36lb4r3lb4r6lb2r1lb12~x2/)|
-|![Menzies Dress example sett](/setts/s8/r36lb4r3lb4r6lb2r1lb12~x2/sett.png)|
+| [Menzies Dress](/setts/s8/r36lb4r3lb4r6lb2r1lb12/)|
+|![Menzies Dress example sett](/setts/s8/r36lb4r3lb4r6lb2r1lb12/sett.png)|
 

@@ -21,7 +21,7 @@ BRBKGWR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB R DB K G W R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R DB K G W R</span></span>
+### R W G K DB R DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R W G K DB R DB</span></span>
 
 | Tartans |
 |---------------|
@@ -30,7 +30,7 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 | [Sinclair, The Jack](/setts/s7/db4r2db39k11g2w16r2~x2/)|
 |![Sinclair, The Jack example sett](/setts/s7/db4r2db39k11g2w16r2~x2/sett.png)|
 
-### B R B K G W R <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">B R B K G W R</span></span>
+### R W G K B R B <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R W G K B R B</span></span>
 
 | Tartans |
 |---------------|

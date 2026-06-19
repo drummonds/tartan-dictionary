@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Edinburgh
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/4 DR6 G20 R10 DR6 R6 DR6 B50 LN/6
+LN/6 B50 DR6 R6 DR6 R10 G20 DR6 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -913,19 +922,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Edinburgh District (District)](/setts/s9/w3n25m3r3m3r5g10m3k2~x2/) — ΔT 0.49
 1. [Loch Lomond & the Trossachs (Fashion](/setts/s10/w2r5k2lo3k4db28r4dg14k4w2~x2/) — ΔT 0.65
-1. [Edinburgh District](/setts/s9/w3b25m3r3m3r5g10m3k2~x2/) — ΔT 0.77
+1. [Edinburgh District](/setts/s9/w3b25m3r3m3r5g10m3k2~x2/) — ΔT 0.78
 1. [Traill Clan/Family Weavers Tartan Tartan Number: 3093. Earliest known date: 2002 The Traill tartan is for anyone tracing their ancestry to the Scottish 'Traills' - Traill of Blebo and descendants in Orkney and elsewhere. Blue is poor. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r16ly2dy7ly2b24k2g2~x2/) — ΔT 0.78
 1. [Edinburgh](/setts/s9/w8db50k4r8k6r12g17p7k4/) — ΔT 0.79
 1. [Edinburgh](/setts/s9/w3db22k2r3k2r5g7r2k2~x2/) — ΔT 0.80
 1. [Scottish Association for Neurological Sciences](/setts/s9/db46ly4db4ly4db6k16n66lb11r6/) — ΔT 0.87
-1. [State Seal of Utah (Fashion)](/setts/s8/dt48lo25dy15r7lb5dt7k10lb10~x2/) — ΔT 1.04
+1. [State Seal of Utah (Fashion)](/setts/s8/dt48lo25dy15r7lb5dt7k10lb10~x2/) — ΔT 1.03
 1. [Turnbull, Dress Bruce (Personal)](/setts/s8/o11k66y32dg11y10db6y10r4/) — ΔT 1.04
 1. [Unidentified Furnishing](/setts/s11/db24k6lo4k6lb4k6g24r48db5r6k5~x2/) — ΔT 1.08
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w3n25m3r3m3r5g10m3k2~x2/"><circle cx="206.0" cy="136.0" r="4" fill="#3465a4"><title>Edinburgh District (District)</title></circle></a><a href="/setts/s10/w2r5k2lo3k4db28r4dg14k4w2~x2/"><circle cx="180.8" cy="120.1" r="4" fill="#3465a4"><title>Loch Lomond &amp; the Trossachs (Fashion</title></circle></a><a href="/setts/s9/w3b25m3r3m3r5g10m3k2~x2/"><circle cx="192.7" cy="129.5" r="4" fill="#3465a4"><title>Edinburgh District</title></circle></a><a href="/setts/s7/r16ly2dy7ly2b24k2g2~x2/"><circle cx="212.3" cy="152.2" r="4" fill="#3465a4"><title>Traill Clan/Family Weavers Tartan Tartan Number: 3093. Earliest known date: 2002 The Traill tartan is for anyone tracing their ancestry to the Scottish 'Traills' - Traill of Blebo and descendants in Orkney and elsewhere. Blue is poor. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/w8db50k4r8k6r12g17p7k4/"><circle cx="167.5" cy="125.5" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><a href="/setts/s9/w3db22k2r3k2r5g7r2k2~x2/"><circle cx="183.9" cy="125.3" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><a href="/setts/s9/db46ly4db4ly4db6k16n66lb11r6/"><circle cx="216.1" cy="127.8" r="4" fill="#3465a4"><title>Scottish Association for Neurological Sciences</title></circle></a><a href="/setts/s8/dt48lo25dy15r7lb5dt7k10lb10~x2/"><circle cx="157.9" cy="163.0" r="4" fill="#3465a4"><title>State Seal of Utah (Fashion)</title></circle></a><a href="/setts/s8/o11k66y32dg11y10db6y10r4/"><circle cx="219.0" cy="133.6" r="4" fill="#3465a4"><title>Turnbull, Dress Bruce (Personal)</title></circle></a><a href="/setts/s11/db24k6lo4k6lb4k6g24r48db5r6k5~x2/"><circle cx="180.3" cy="132.1" r="4" fill="#3465a4"><title>Unidentified Furnishing</title></circle></a><circle cx="195.7" cy="130.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w3n25m3r3m3r5g10m3k2~x2/"><circle cx="205.9" cy="136.1" r="4" fill="#3465a4"><title>Edinburgh District (District)</title></circle></a><a href="/setts/s10/w2r5k2lo3k4db28r4dg14k4w2~x2/"><circle cx="180.8" cy="120.2" r="4" fill="#3465a4"><title>Loch Lomond &amp; the Trossachs (Fashion</title></circle></a><a href="/setts/s9/w3b25m3r3m3r5g10m3k2~x2/"><circle cx="192.6" cy="129.6" r="4" fill="#3465a4"><title>Edinburgh District</title></circle></a><a href="/setts/s7/r16ly2dy7ly2b24k2g2~x2/"><circle cx="212.2" cy="152.3" r="4" fill="#3465a4"><title>Traill Clan/Family Weavers Tartan Tartan Number: 3093. Earliest known date: 2002 The Traill tartan is for anyone tracing their ancestry to the Scottish 'Traills' - Traill of Blebo and descendants in Orkney and elsewhere. Blue is poor. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/w8db50k4r8k6r12g17p7k4/"><circle cx="167.5" cy="125.5" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><a href="/setts/s9/w3db22k2r3k2r5g7r2k2~x2/"><circle cx="183.9" cy="125.3" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><a href="/setts/s9/db46ly4db4ly4db6k16n66lb11r6/"><circle cx="216.1" cy="127.9" r="4" fill="#3465a4"><title>Scottish Association for Neurological Sciences</title></circle></a><a href="/setts/s8/dt48lo25dy15r7lb5dt7k10lb10~x2/"><circle cx="157.9" cy="163.0" r="4" fill="#3465a4"><title>State Seal of Utah (Fashion)</title></circle></a><a href="/setts/s8/o11k66y32dg11y10db6y10r4/"><circle cx="219.0" cy="133.6" r="4" fill="#3465a4"><title>Turnbull, Dress Bruce (Personal)</title></circle></a><a href="/setts/s11/db24k6lo4k6lb4k6g24r48db5r6k5~x2/"><circle cx="180.3" cy="132.3" r="4" fill="#3465a4"><title>Unidentified Furnishing</title></circle></a><circle cx="195.6" cy="131.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/w3db25r3r3r3r5g10r3k2~x2/

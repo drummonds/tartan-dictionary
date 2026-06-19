@@ -21,14 +21,14 @@ RBRRR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### R DB R R R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB R R R</span></span>
+### R R R DB R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R R DB R</span></span>
 
 | Tartans |
 |---------------|
 | [Ferguson Britt Red (Corporate)](/setts/s5/r4db24r21r21r4~x2/)|
 |![Ferguson Britt Red (Corporate) example sett](/setts/s5/r4db24r21r21r4~x2/sett.png)|
 
-### R N R R R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">R N R R R</span></span>
+### R R R N R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R R N R</span></span>
 
 | Tartans |
 |---------------|

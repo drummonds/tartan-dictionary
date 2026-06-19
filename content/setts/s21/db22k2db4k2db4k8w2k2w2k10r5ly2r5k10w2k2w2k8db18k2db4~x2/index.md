@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -903,11 +906,11 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Roberts of Wales](/setts/s22/db24k3db2k3db24t20k3t2k3t20db4t20k3t2k3t20db24k3db2k3db24r4/) — ΔT 1.19
+1. [Roberts of Wales](/setts/s22/db24k3db2k3db24t20k3t2k3t20db4t20k3t2k3t20db24k3db2k3db24r4/) — ΔT 1.18
 1. [Hanna of Stirlingshire](/setts/s18/k1lr2k2lr2k1lr4k1db9lo1db9k1lr4k1lr2k2lr2k1r1~x4/) — ΔT 1.22
-1. [Rangers F. C. Dress Corporate Tartan Tartan Number: 2171. Earliest known date: 1994 Chris Aitken designed the new 'dress' version of the Rangers F.C. tartan in 1994 to complement the existing corporate tartan which was slightly modified at the same time. The Rangers football club first introduced their clubs tartan in 1989. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s20/db30k9db5w4db2r2db2w4db5k9db30k9db3w2db6r2db6w2db3k9~x2/) — ΔT 1.29
+1. [Rangers F. C. Dress Corporate Tartan Tartan Number: 2171. Earliest known date: 1994 Chris Aitken designed the new 'dress' version of the Rangers F.C. tartan in 1994 to complement the existing corporate tartan which was slightly modified at the same time. The Rangers football club first introduced their clubs tartan in 1989. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s20/db30k9db5w4db2r2db2w4db5k9db30k9db3w2db6r2db6w2db3k9~x2/) — ΔT 1.28
 1. [Scottish Knights Templar Militi Templi Scotia](/setts/s18/db2r2k2lb3k4lb5k6db20r2lb4r2db20k6lb5k4lb3k2r2~x2/) — ΔT 1.30
-1. [Citadel, Military Academy](/setts/s15/ly3k2db18db11w3db2w2db5w2db2w3db11db18k2r3~x2/) — ΔT 1.32
+1. [Citadel, Military Academy](/setts/s15/r3k2db18db11w3db2w2db5w2db2w3db11db18k2ly3~x2/) — ΔT 1.32
 1. [McCruden, Raymond (Personal)](/setts/s15/db15k4db4k4db4k16t16k2g3k2t16k16db18k1w2~x2/) — ΔT 1.37
 1. [City of Sarnia](/setts/s15/db10k2w2k3w2k10db10k1r2k1db10k10db10k1ly2~x2/) — ΔT 1.38
 1. [United Services Planning Association](/setts/s20/db20r2db12g6lb2g4b4g4lb2g16lb2g4b4g4lb2g6db12r2db20ly3~x2/) — ΔT 1.41
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s22/db24k3db2k3db24t20k3t2k3t20db4t20k3t2k3t20db24k3db2k3db24r4/"><circle cx="244.6" cy="147.6" r="4" fill="#3465a4"><title>Roberts of Wales</title></circle></a><a href="/setts/s18/k1lr2k2lr2k1lr4k1db9lo1db9k1lr4k1lr2k2lr2k1r1~x4/"><circle cx="147.9" cy="128.3" r="4" fill="#3465a4"><title>Hanna of Stirlingshire</title></circle></a><a href="/setts/s20/db30k9db5w4db2r2db2w4db5k9db30k9db3w2db6r2db6w2db3k9~x2/"><circle cx="211.0" cy="121.4" r="4" fill="#3465a4"><title>Rangers F. C. Dress Corporate Tartan Tartan Number: 2171. Earliest known date: 1994 Chris Aitken designed the new 'dress' version of the Rangers F.C. tartan in 1994 to complement the existing corporate tartan which was slightly modified at the same time. The Rangers football club first introduced their clubs tartan in 1989. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/db2r2k2lb3k4lb5k6db20r2lb4r2db20k6lb5k4lb3k2r2~x2/"><circle cx="202.7" cy="139.3" r="4" fill="#3465a4"><title>Scottish Knights Templar Militi Templi Scotia</title></circle></a><a href="/setts/s15/ly3k2db18db11w3db2w2db5w2db2w3db11db18k2r3~x2/"><circle cx="148.3" cy="130.3" r="4" fill="#3465a4"><title>Citadel, Military Academy</title></circle></a><a href="/setts/s15/db15k4db4k4db4k16t16k2g3k2t16k16db18k1w2~x2/"><circle cx="177.9" cy="142.7" r="4" fill="#3465a4"><title>McCruden, Raymond (Personal)</title></circle></a><a href="/setts/s15/db10k2w2k3w2k10db10k1r2k1db10k10db10k1ly2~x2/"><circle cx="237.4" cy="167.5" r="4" fill="#3465a4"><title>City of Sarnia</title></circle></a><a href="/setts/s20/db20r2db12g6lb2g4b4g4lb2g16lb2g4b4g4lb2g6db12r2db20ly3~x2/"><circle cx="192.5" cy="130.0" r="4" fill="#3465a4"><title>United Services Planning Association</title></circle></a><a href="/setts/s14/db14k2g3k2g3k2db12r4db10r3db10r4lb28r4~x2/"><circle cx="192.2" cy="122.7" r="4" fill="#3465a4"><title>Wcwm 1138</title></circle></a><a href="/setts/s13/w1db16k12lb2dp3lb2k12db2k2db2k2db7w1~x2/"><circle cx="251.9" cy="147.9" r="4" fill="#3465a4"><title>Edgar (2014) (Name)</title></circle></a><circle cx="201.9" cy="131.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s22/db24k3db2k3db24t20k3t2k3t20db4t20k3t2k3t20db24k3db2k3db24r4/"><circle cx="244.6" cy="147.6" r="4" fill="#3465a4"><title>Roberts of Wales</title></circle></a><a href="/setts/s18/k1lr2k2lr2k1lr4k1db9lo1db9k1lr4k1lr2k2lr2k1r1~x4/"><circle cx="147.9" cy="128.3" r="4" fill="#3465a4"><title>Hanna of Stirlingshire</title></circle></a><a href="/setts/s20/db30k9db5w4db2r2db2w4db5k9db30k9db3w2db6r2db6w2db3k9~x2/"><circle cx="211.1" cy="121.5" r="4" fill="#3465a4"><title>Rangers F. C. Dress Corporate Tartan Tartan Number: 2171. Earliest known date: 1994 Chris Aitken designed the new 'dress' version of the Rangers F.C. tartan in 1994 to complement the existing corporate tartan which was slightly modified at the same time. The Rangers football club first introduced their clubs tartan in 1989. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/db2r2k2lb3k4lb5k6db20r2lb4r2db20k6lb5k4lb3k2r2~x2/"><circle cx="202.6" cy="139.3" r="4" fill="#3465a4"><title>Scottish Knights Templar Militi Templi Scotia</title></circle></a><a href="/setts/s15/r3k2db18db11w3db2w2db5w2db2w3db11db18k2ly3~x2/"><circle cx="148.4" cy="130.3" r="4" fill="#3465a4"><title>Citadel, Military Academy</title></circle></a><a href="/setts/s15/db15k4db4k4db4k16t16k2g3k2t16k16db18k1w2~x2/"><circle cx="178.0" cy="142.8" r="4" fill="#3465a4"><title>McCruden, Raymond (Personal)</title></circle></a><a href="/setts/s15/db10k2w2k3w2k10db10k1r2k1db10k10db10k1ly2~x2/"><circle cx="237.6" cy="167.5" r="4" fill="#3465a4"><title>City of Sarnia</title></circle></a><a href="/setts/s20/db20r2db12g6lb2g4b4g4lb2g16lb2g4b4g4lb2g6db12r2db20ly3~x2/"><circle cx="192.6" cy="130.1" r="4" fill="#3465a4"><title>United Services Planning Association</title></circle></a><a href="/setts/s14/db14k2g3k2g3k2db12r4db10r3db10r4lb28r4~x2/"><circle cx="192.1" cy="122.7" r="4" fill="#3465a4"><title>Wcwm 1138</title></circle></a><a href="/setts/s13/w1db16k12lb2dp3lb2k12db2k2db2k2db7w1~x2/"><circle cx="252.0" cy="148.0" r="4" fill="#3465a4"><title>Edgar (2014) (Name)</title></circle></a><circle cx="202.0" cy="131.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s21/db22k2db4k2db4k8w2k2w2k10r5ly2r5k10w2k2w2k8db18k2db4~x2/

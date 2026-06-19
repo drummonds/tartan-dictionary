@@ -2,7 +2,7 @@
 title: "Balmoral"
 date: 2023-03-18
 ---
-**Bands:** [GRGWKGWGWGKGR](/stripes/grgwkgwgwgkgr/) · **Stripes:** [Y R Y LP K Y LP Y LP Y K Y R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="seq">Y R Y LP K Y LP Y LP Y K Y R</span></span>
+**Bands:** [RGKGWGWGKWGRG](/stripes/rgkgwgwgkwgrg/) · **Stripes:** [R Y K Y LP Y LP Y K LP Y R Y](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R Y K Y LP Y LP Y K LP Y R Y</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,17 +909,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Balmoral](/setts/s13/lb9r5lb47n13k11lb5n5lb5n21lb11k5lb5r5/) — ΔT 0.97
 1. [Balmoral (Green) (Royal)](/setts/s13/lb5g3lb24n7k6lb3n3lb3n11lb6k3lb3g3~x2/) — ΔT 1.03
 1. [Balmoral](/setts/s13/lr4r2lr11y2k2lr1y1lr1y4lr2k1lr1r1~x2/) — ΔT 1.04
-1. [Balmoral](/setts/s13/lr4r2lr11y2k2lr1y1lr1y4lr2k1lr1r1/) — ΔT 1.04
 1. [Balmoral Royal Tartan Tartan Number: 1302. Earliest known date: 1860 The Balmoral tartan is not produced as an article of commerce. D.W.Stewart wrote in his book, 'Old and Rare Scottish Tartans' (1893), "Her Majesty the Queen has not only granted permission for its publication here, but has also graciously afforded information concerning its inception in the early years of the reign, when the sett was designed by the Prince Consort." The grey threads are flecked to give an impression of granite. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/o2r1o8lp2k2o1lp1o1lp4o2k1o1r1~x2/) — ΔT 1.04
 1. [Balmoral Gillies (Royal)](/setts/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/) — ΔT 1.12
 1. [Balmoral Variant (Corporate)](/setts/s12/lb12r6lb60n16k23n22lb6k6lb6n8r6n8~x2/) — ΔT 1.13
-1. [Carlisle (Family)](/setts/s12/b32lo15k3lo6r3lo6b33lo6r3lo6k3lo15~x4/) — ΔT 1.18
-1. [Breifne](/setts/s12/lb3lr4lb12dg2lb3dg2lb3dg2lb12k4dg18lr3~x2/) — ΔT 1.25
+1. [Carlisle (Family)](/setts/s12/b33lo6r3lo6k3lo15b32~x4/) — ΔT 1.18
+1. [Breifne](/setts/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2/) — ΔT 1.25
+1. [Balmoral (Jack Allen)](/setts/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2/) — ΔT 1.29
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lb5r3lb24n7k6lb3n3lb3n11lb6k3lb3r3~x2/"><circle cx="250.4" cy="159.9" r="4" fill="#3465a4"><title>Balmoral (Royal)</title></circle></a><a href="/setts/s13/lb9r5lb47n13k11lb5n5lb5n21lb11k5lb5r5/"><circle cx="253.5" cy="143.1" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s13/lb5g3lb24n7k6lb3n3lb3n11lb6k3lb3g3~x2/"><circle cx="248.0" cy="163.3" r="4" fill="#3465a4"><title>Balmoral (Green) (Royal)</title></circle></a><a href="/setts/s13/lr4r2lr11y2k2lr1y1lr1y4lr2k1lr1r1~x2/"><circle cx="310.2" cy="145.5" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s13/lr4r2lr11y2k2lr1y1lr1y4lr2k1lr1r1/"><circle cx="310.2" cy="145.5" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s13/o2r1o8lp2k2o1lp1o1lp4o2k1o1r1~x2/"><circle cx="288.6" cy="177.9" r="4" fill="#3465a4"><title>Balmoral Royal Tartan Tartan Number: 1302. Earliest known date: 1860 The Balmoral tartan is not produced as an article of commerce. D.W.Stewart wrote in his book, 'Old and Rare Scottish Tartans' (1893), &quot;Her Majesty the Queen has not only granted permission for its publication here, but has also graciously afforded information concerning its inception in the early years of the reign, when the sett was designed by the Prince Consort.&quot; The grey threads are flecked to give an impression of granite. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/"><circle cx="278.5" cy="132.8" r="4" fill="#3465a4"><title>Balmoral Gillies (Royal)</title></circle></a><a href="/setts/s12/lb12r6lb60n16k23n22lb6k6lb6n8r6n8~x2/"><circle cx="219.1" cy="148.5" r="4" fill="#3465a4"><title>Balmoral Variant (Corporate)</title></circle></a><a href="/setts/s12/b32lo15k3lo6r3lo6b33lo6r3lo6k3lo15~x4/"><circle cx="259.3" cy="154.7" r="4" fill="#3465a4"><title>Carlisle (Family)</title></circle></a><a href="/setts/s12/lb3lr4lb12dg2lb3dg2lb3dg2lb12k4dg18lr3~x2/"><circle cx="220.2" cy="167.2" r="4" fill="#3465a4"><title>Breifne</title></circle></a><circle cx="261.1" cy="165.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lb5r3lb24n7k6lb3n3lb3n11lb6k3lb3r3~x2/"><circle cx="250.1" cy="159.7" r="4" fill="#3465a4"><title>Balmoral (Royal)</title></circle></a><a href="/setts/s13/lb9r5lb47n13k11lb5n5lb5n21lb11k5lb5r5/"><circle cx="253.1" cy="142.9" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s13/lb5g3lb24n7k6lb3n3lb3n11lb6k3lb3g3~x2/"><circle cx="247.6" cy="163.2" r="4" fill="#3465a4"><title>Balmoral (Green) (Royal)</title></circle></a><a href="/setts/s13/lr4r2lr11y2k2lr1y1lr1y4lr2k1lr1r1~x2/"><circle cx="309.8" cy="145.3" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s13/o2r1o8lp2k2o1lp1o1lp4o2k1o1r1~x2/"><circle cx="288.3" cy="177.8" r="4" fill="#3465a4"><title>Balmoral Royal Tartan Tartan Number: 1302. Earliest known date: 1860 The Balmoral tartan is not produced as an article of commerce. D.W.Stewart wrote in his book, 'Old and Rare Scottish Tartans' (1893), &quot;Her Majesty the Queen has not only granted permission for its publication here, but has also graciously afforded information concerning its inception in the early years of the reign, when the sett was designed by the Prince Consort.&quot; The grey threads are flecked to give an impression of granite. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/"><circle cx="278.1" cy="132.6" r="4" fill="#3465a4"><title>Balmoral Gillies (Royal)</title></circle></a><a href="/setts/s12/lb12r6lb60n16k23n22lb6k6lb6n8r6n8~x2/"><circle cx="218.8" cy="148.4" r="4" fill="#3465a4"><title>Balmoral Variant (Corporate)</title></circle></a><a href="/setts/s12/b33lo6r3lo6k3lo15b32~x4/"><circle cx="259.1" cy="154.5" r="4" fill="#3465a4"><title>Carlisle (Family)</title></circle></a><a href="/setts/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2/"><circle cx="220.0" cy="167.0" r="4" fill="#3465a4"><title>Breifne</title></circle></a><a href="/setts/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2/"><circle cx="273.8" cy="134.5" r="4" fill="#3465a4"><title>Balmoral (Jack Allen)</title></circle></a><circle cx="260.8" cy="165.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/y2r1y8lp2k2y1lp1y1lp4y2k1y1r1~x2/

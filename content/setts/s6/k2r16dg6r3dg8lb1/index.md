@@ -13,13 +13,23 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Thread count
 K/2 R16 G6 R3 G8 N/1
@@ -49,15 +59,15 @@ The nearest existing variants by ΔTartan distance.
 1. [MacAulay](/setts/s6/k2r16dg6r3dg8lr1~x2/) — ΔT 0.82
 1. [MacAulay](/setts/s6/k2r16dg6r3dg8lr1/) — ΔT 0.82
 1. [MacKintosh #4](/setts/s6/r5w2r28k12dg16r3~x2/) — ΔT 0.82
-1. [Denny, hunting](/setts/s6/db1r16g6k1g6k1~x2/) — ΔT 0.82
-1. [Cumming SM](/setts/s8/r3dg9lb1dg9r3dg6r18k2/) — ΔT 0.89
+1. [Denny, hunting](/setts/s6/k1g6k1g6r16db1~x2/) — ΔT 0.82
+1. [Cumming SM](/setts/s8/r3dg9lb1dg9r3dg6r18k2~x2/) — ΔT 0.89
 1. [MacKintosh 6](/setts/s6/r5w2r28k12g16r3~x2/) — ΔT 0.90
-1. [McInally (Name)](/setts/s7/lo3g2r28k6r4g16r3~x2/) — ΔT 0.97
+1. [McInally (Name)](/setts/s7/r3g16r4k6r28g2lo3~x2/) — ΔT 0.97
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k2r16g6r3g8w1~x4/"><circle cx="331.9" cy="187.8" r="4" fill="#3465a4"><title>MacAulay (Clan)</title></circle></a><a href="/setts/s6/k2r16g6r3g8w1~x2/"><circle cx="315.5" cy="181.2" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s6/k2r16g6r3g8lb1~x2/"><circle cx="336.0" cy="189.9" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s6/k2r16dg6r3dg8lr1~x2/"><circle cx="343.3" cy="197.7" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s6/k2r16dg6r3dg8lr1/"><circle cx="343.3" cy="197.7" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s6/r5w2r28k12dg16r3~x2/"><circle cx="301.5" cy="181.2" r="4" fill="#3465a4"><title>MacKintosh #4</title></circle></a><a href="/setts/s6/db1r16g6k1g6k1~x2/"><circle cx="324.0" cy="169.5" r="4" fill="#3465a4"><title>Denny, hunting</title></circle></a><a href="/setts/s8/r3dg9lb1dg9r3dg6r18k2/"><circle cx="308.8" cy="175.6" r="4" fill="#3465a4"><title>Cumming SM</title></circle></a><a href="/setts/s6/r5w2r28k12g16r3~x2/"><circle cx="284.2" cy="177.8" r="4" fill="#3465a4"><title>MacKintosh 6</title></circle></a><a href="/setts/s7/lo3g2r28k6r4g16r3~x2/"><circle cx="345.8" cy="171.5" r="4" fill="#3465a4"><title>McInally (Name)</title></circle></a><circle cx="322.5" cy="183.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k2r16g6r3g8w1~x4/"><circle cx="331.6" cy="187.7" r="4" fill="#3465a4"><title>MacAulay (Clan)</title></circle></a><a href="/setts/s6/k2r16g6r3g8w1~x2/"><circle cx="315.2" cy="181.0" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s6/k2r16g6r3g8lb1~x2/"><circle cx="335.7" cy="189.8" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s6/k2r16dg6r3dg8lr1~x2/"><circle cx="343.1" cy="197.6" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s6/k2r16dg6r3dg8lr1/"><circle cx="343.1" cy="197.6" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s6/r5w2r28k12dg16r3~x2/"><circle cx="301.3" cy="181.1" r="4" fill="#3465a4"><title>MacKintosh #4</title></circle></a><a href="/setts/s6/k1g6k1g6r16db1~x2/"><circle cx="323.7" cy="169.3" r="4" fill="#3465a4"><title>Denny, hunting</title></circle></a><a href="/setts/s8/r3dg9lb1dg9r3dg6r18k2~x2/"><circle cx="308.5" cy="175.5" r="4" fill="#3465a4"><title>Cumming SM</title></circle></a><a href="/setts/s6/r5w2r28k12g16r3~x2/"><circle cx="284.0" cy="177.6" r="4" fill="#3465a4"><title>MacKintosh 6</title></circle></a><a href="/setts/s7/r3g16r4k6r28g2lo3~x2/"><circle cx="345.5" cy="171.4" r="4" fill="#3465a4"><title>McInally (Name)</title></circle></a><circle cx="322.2" cy="183.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k2r16dg6r3dg8lb1/

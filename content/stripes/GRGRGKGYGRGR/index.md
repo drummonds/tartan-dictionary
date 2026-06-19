@@ -18,10 +18,10 @@ GRGRGKGYGRGR
 
 
 
-### G R G R G K G LY G R G R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">G R G R G K G LY G R G R</span></span>
+### R G R G LY G K G R G R G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G LY G K G R G R G</span></span>
 
 | Tartans |
 |---------------|
-| [Quinn (Name?)](/setts/s12/g20r20g5r5g30k10g10ly8g30r5g5r20~x2/)|
-|![Quinn (Name?) example sett](/setts/s12/g20r20g5r5g30k10g10ly8g30r5g5r20~x2/sett.png)|
+| [Quinn (Name?)](/setts/s12/r20g5r5g30ly8g10k10g30r5g5r20g20~x2/)|
+|![Quinn (Name?) example sett](/setts/s12/r20g5r5g30ly8g10k10g30r5g5r20g20~x2/sett.png)|
 

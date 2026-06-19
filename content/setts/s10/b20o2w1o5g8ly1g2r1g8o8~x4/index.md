@@ -2,12 +2,18 @@
 title: "Connecticut, State of"
 date: 2023-03-18
 ---
-**Bands:** [BRWRGYGRGR](/stripes/brwrgygrgr/) · **Stripes:** [B O W O G LY G R G O](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="seq">B O W O G LY G R G O</span></span>
+**Bands:** [RGRGYGRWRB](/stripes/rgrgygrwrb/) · **Stripes:** [O G R G LY G O W O B](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="seq">O G R G LY G O W O B</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=744
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Connecticut, State of
 
 ## Attestations
 
@@ -55,7 +61,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Chisholm Colonial](/setts/s10/dt6w1lo24g6n3g1n3g1n12r1~x2/) — ΔT 1.18
 1. [Lyon, Jeffrey M (Hunting) (Personal)](/setts/s10/t30b1t1b16g5r5ly2b2dy15b1~x2/) — ΔT 1.19
 1. [Lyon, Jeffrey M (Hunting) (Personal)](/setts/s10/t27dt2t2dt16g5r5lo2dt2dy14dt2~x2/) — ΔT 1.26
-1. [Carter (Savannah)](/setts/s10/do4y26ly1y2ly2do4lg26do4y3ly3~x2/) — ΔT 1.27
+1. [Carter (Savannah)](/setts/s10/do4y26ly1y2ly2do4lg26do4y3ly3~x2/) — ΔT 1.26
 1. [Connecticut](/setts/s10/db20y2w1y5dg8ly1dg2r1dg8y16~x4/) — ΔT 1.29
 1. [St Ninian's Day](/setts/s12/w4g1g31ly1g4g21t4g1t36r2t9w2~x2/) — ΔT 1.39
 1. [State Seal of Idaho (Fashion)](/setts/s12/lb4k1b33lb4lo15g4lo3b4lo15lo2g30k2~x2/) — ΔT 1.42
@@ -64,8 +70,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/b5w1m9b5r4b5g20ly1g1ly1~x4/"><circle cx="240.8" cy="136.6" r="4" fill="#3465a4"><title>Hobkirk (School)</title></circle></a><a href="/setts/s10/dt6w1lo24g6n3g1n3g1n12r1~x2/"><circle cx="265.3" cy="127.3" r="4" fill="#3465a4"><title>Chisholm Colonial</title></circle></a><a href="/setts/s10/t30b1t1b16g5r5ly2b2dy15b1~x2/"><circle cx="267.3" cy="124.9" r="4" fill="#3465a4"><title>Lyon, Jeffrey M (Hunting) (Personal)</title></circle></a><a href="/setts/s10/t27dt2t2dt16g5r5lo2dt2dy14dt2~x2/"><circle cx="219.4" cy="157.2" r="4" fill="#3465a4"><title>Lyon, Jeffrey M (Hunting) (Personal)</title></circle></a><a href="/setts/s10/do4y26ly1y2ly2do4lg26do4y3ly3~x2/"><circle cx="236.5" cy="109.8" r="4" fill="#3465a4"><title>Carter (Savannah)</title></circle></a><a href="/setts/s10/db20y2w1y5dg8ly1dg2r1dg8y16~x4/"><circle cx="217.9" cy="139.6" r="4" fill="#3465a4"><title>Connecticut</title></circle></a><a href="/setts/s12/w4g1g31ly1g4g21t4g1t36r2t9w2~x2/"><circle cx="280.5" cy="111.2" r="4" fill="#3465a4"><title>St Ninian's Day</title></circle></a><a href="/setts/s12/lb4k1b33lb4lo15g4lo3b4lo15lo2g30k2~x2/"><circle cx="206.2" cy="103.8" r="4" fill="#3465a4"><title>State Seal of Idaho (Fashion)</title></circle></a><a href="/setts/s13/n19o4b2n10o22k1g3k1o3w1b5o1k3~x2/"><circle cx="282.0" cy="131.0" r="4" fill="#3465a4"><title>Giants Causeway (District)</title></circle></a><a href="/setts/s14/o22b12g12ly2b4ly2g12b12o12k1r6k2g10b10~x2/"><circle cx="181.6" cy="160.9" r="4" fill="#3465a4"><title>Penman</title></circle></a><circle cx="229.2" cy="150.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/b5w1m9b5r4b5g20ly1g1ly1~x4/"><circle cx="240.6" cy="136.8" r="4" fill="#3465a4"><title>Hobkirk (School)</title></circle></a><a href="/setts/s10/dt6w1lo24g6n3g1n3g1n12r1~x2/"><circle cx="265.1" cy="127.5" r="4" fill="#3465a4"><title>Chisholm Colonial</title></circle></a><a href="/setts/s10/t30b1t1b16g5r5ly2b2dy15b1~x2/"><circle cx="267.1" cy="125.2" r="4" fill="#3465a4"><title>Lyon, Jeffrey M (Hunting) (Personal)</title></circle></a><a href="/setts/s10/t27dt2t2dt16g5r5lo2dt2dy14dt2~x2/"><circle cx="219.3" cy="157.4" r="4" fill="#3465a4"><title>Lyon, Jeffrey M (Hunting) (Personal)</title></circle></a><a href="/setts/s10/do4y26ly1y2ly2do4lg26do4y3ly3~x2/"><circle cx="236.3" cy="110.0" r="4" fill="#3465a4"><title>Carter (Savannah)</title></circle></a><a href="/setts/s10/db20y2w1y5dg8ly1dg2r1dg8y16~x4/"><circle cx="217.9" cy="139.8" r="4" fill="#3465a4"><title>Connecticut</title></circle></a><a href="/setts/s12/w4g1g31ly1g4g21t4g1t36r2t9w2~x2/"><circle cx="280.3" cy="111.4" r="4" fill="#3465a4"><title>St Ninian's Day</title></circle></a><a href="/setts/s12/lb4k1b33lb4lo15g4lo3b4lo15lo2g30k2~x2/"><circle cx="205.9" cy="104.0" r="4" fill="#3465a4"><title>State Seal of Idaho (Fashion)</title></circle></a><a href="/setts/s13/n19o4b2n10o22k1g3k1o3w1b5o1k3~x2/"><circle cx="281.8" cy="131.2" r="4" fill="#3465a4"><title>Giants Causeway (District)</title></circle></a><a href="/setts/s14/o22b12g12ly2b4ly2g12b12o12k1r6k2g10b10~x2/"><circle cx="181.5" cy="161.2" r="4" fill="#3465a4"><title>Penman</title></circle></a><circle cx="229.1" cy="150.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/b20o2w1o5g8ly1g2r1g8o8~x4/

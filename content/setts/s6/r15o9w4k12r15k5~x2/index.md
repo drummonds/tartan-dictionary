@@ -23,7 +23,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [11069](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11069)
 
 ## Thread count
-K/10 R30 K24 W8 N18 R/30
+R/30 N18 W8 K24 R30 K/10
 ![Sett](sett.png)
 
 ## Palette
@@ -38,7 +38,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/10 R30 K24 W8 N18 R/30 tartan")
+![Tartan detail](tartan.png "R/30 N18 W8 K24 R30 K/10 tartan")
 
 ## Nearest tartans
 
@@ -47,9 +47,9 @@ The nearest existing variants by ΔTartan distance.
 1. [MacDuff #3](/setts/s7/r10db6k8dg10r6dg3r6~x2/) — ΔT 1.36
 1. [Hamby Sport (Personal)](/setts/s4/r25k13w8db5~x2/) — ΔT 1.37
 1. [MacDuff #5](/setts/s7/r8t3k4dg6r4k1r4~x2/) — ΔT 1.38
-1. [Torana](/setts/s6/lo13dt13lo2o5dt13r13~x2/) — ΔT 1.42
+1. [Torana](/setts/s6/r13dt13o5lo2dt13lo13~x2/) — ΔT 1.42
 1. [MacDuff](/setts/s7/r8t3k4g6r4k1r4~x2/) — ΔT 1.44
-1. [Gow](/setts/s5/r4db4r1dg4r4~x2/) — ΔT 1.44
+1. [Gow](/setts/s5/r4dg4r1db4r4~x2/) — ΔT 1.44
 1. [Fiddes (Corrected)](/setts/s7/g12r11dp12r3dp8g8dp8~x2/) — ΔT 1.47
 1. [MacDuff](/setts/s7/r10db6k8g10r6g3r6~x2/) — ΔT 1.51
 1. [MacNaughton (Logan)](/setts/s7/db5r17dg16k10db10r17db5~x2/) — ΔT 1.52
@@ -57,8 +57,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r10db6k8dg10r6dg3r6~x2/"><circle cx="136.2" cy="289.4" r="4" fill="#3465a4"><title>MacDuff #3</title></circle></a><a href="/setts/s4/r25k13w8db5~x2/"><circle cx="195.7" cy="245.1" r="4" fill="#3465a4"><title>Hamby Sport (Personal)</title></circle></a><a href="/setts/s7/r8t3k4dg6r4k1r4~x2/"><circle cx="231.9" cy="232.9" r="4" fill="#3465a4"><title>MacDuff #5</title></circle></a><a href="/setts/s6/lo13dt13lo2o5dt13r13~x2/"><circle cx="163.6" cy="245.5" r="4" fill="#3465a4"><title>Torana</title></circle></a><a href="/setts/s7/r8t3k4g6r4k1r4~x2/"><circle cx="214.7" cy="228.8" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s5/r4db4r1dg4r4~x2/"><circle cx="220.8" cy="309.6" r="4" fill="#3465a4"><title>Gow</title></circle></a><a href="/setts/s7/g12r11dp12r3dp8g8dp8~x2/"><circle cx="150.2" cy="281.0" r="4" fill="#3465a4"><title>Fiddes (Corrected)</title></circle></a><a href="/setts/s7/r10db6k8g10r6g3r6~x2/"><circle cx="115.7" cy="283.2" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s7/db5r17dg16k10db10r17db5~x2/"><circle cx="131.2" cy="273.2" r="4" fill="#3465a4"><title>MacNaughton (Logan)</title></circle></a><a href="/setts/s5/dg9w1r9k9r9~x8/"><circle cx="212.4" cy="247.7" r="4" fill="#3465a4"><title>Unidentified item</title></circle></a><circle cx="173.7" cy="261.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r10db6k8dg10r6dg3r6~x2/"><circle cx="136.2" cy="289.3" r="4" fill="#3465a4"><title>MacDuff #3</title></circle></a><a href="/setts/s4/r25k13w8db5~x2/"><circle cx="195.6" cy="244.9" r="4" fill="#3465a4"><title>Hamby Sport (Personal)</title></circle></a><a href="/setts/s7/r8t3k4dg6r4k1r4~x2/"><circle cx="231.8" cy="232.8" r="4" fill="#3465a4"><title>MacDuff #5</title></circle></a><a href="/setts/s6/r13dt13o5lo2dt13lo13~x2/"><circle cx="163.6" cy="245.4" r="4" fill="#3465a4"><title>Torana</title></circle></a><a href="/setts/s7/r8t3k4g6r4k1r4~x2/"><circle cx="214.6" cy="228.7" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s5/r4dg4r1db4r4~x2/"><circle cx="220.8" cy="309.4" r="4" fill="#3465a4"><title>Gow</title></circle></a><a href="/setts/s7/g12r11dp12r3dp8g8dp8~x2/"><circle cx="150.2" cy="281.0" r="4" fill="#3465a4"><title>Fiddes (Corrected)</title></circle></a><a href="/setts/s7/r10db6k8g10r6g3r6~x2/"><circle cx="115.7" cy="283.1" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s7/db5r17dg16k10db10r17db5~x2/"><circle cx="131.3" cy="273.2" r="4" fill="#3465a4"><title>MacNaughton (Logan)</title></circle></a><a href="/setts/s5/dg9w1r9k9r9~x8/"><circle cx="212.4" cy="247.6" r="4" fill="#3465a4"><title>Unidentified item</title></circle></a><circle cx="173.6" cy="261.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r15o9w4k12r15k5~x2/

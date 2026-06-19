@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 K12 B6 K24 B4 G22 LN22 Y6 LN4 Y4 LN/12
+LN/12 Y4 LN4 Y6 LN22 G22 B4 K24 B6 K12 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w6ly2w2ly3w11g11b2k12b3k6w2~x2/"><circle cx="70.1" cy="171.1" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/setts/s13/lr12k2r2k2r2k12lg11ly2lg11k12lr11k2r2~x2/"><circle cx="91.7" cy="163.6" r="4" fill="#3465a4"><title>92nd Regiment Drummers' Plaid (Mil.)</title></circle></a><a href="/setts/s13/w20k3w3k3w3k16g17ly5g17k16db16k3db3~x2/"><circle cx="59.2" cy="167.6" r="4" fill="#3465a4"><title>Gordon, dress 4</title></circle></a><a href="/setts/s12/k4g4k2g12k6w3k6o2w4o2w15r3~x2/"><circle cx="83.5" cy="151.5" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/setts/s9/w16dg2k5r2k10dg11ly2dg11k2~x2/"><circle cx="124.7" cy="176.3" r="4" fill="#3465a4"><title>Unidentified #46</title></circle></a><a href="/setts/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="76.1" cy="166.6" r="4" fill="#3465a4"><title>MacKenzie Dress - 1950 (Clan)</title></circle></a><a href="/setts/s13/w20k3w3k3w3k16dg17ly5dg17k16db16k3db3~x2/"><circle cx="72.4" cy="171.9" r="4" fill="#3465a4"><title>Gordon Dress #2</title></circle></a><a href="/setts/s12/k4g4k2g14k6w3k6w2w4w2w15r3~x2/"><circle cx="80.9" cy="147.6" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/setts/s9/w16g2k5r2k10g11ly2g11k2~x2/"><circle cx="112.9" cy="172.9" r="4" fill="#3465a4"><title>Unnamed 9</title></circle></a><a href="/setts/s14/db12w2db2r2db3k11g12k2g3k2g12db12w13r2~x2/"><circle cx="71.8" cy="166.3" r="4" fill="#3465a4"><title>Scottish National Dress</title></circle></a><circle cx="63.6" cy="170.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w6ly2w2ly3w11g11b2k12b3k6w2~x2/"><circle cx="70.0" cy="171.1" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/setts/s13/lr12k2r2k2r2k12lg11ly2lg11k12lr11k2r2~x2/"><circle cx="91.6" cy="163.6" r="4" fill="#3465a4"><title>92nd Regiment Drummers' Plaid (Mil.)</title></circle></a><a href="/setts/s13/w20k3w3k3w3k16g17ly5g17k16db16k3db3~x2/"><circle cx="59.3" cy="167.6" r="4" fill="#3465a4"><title>Gordon, dress 4</title></circle></a><a href="/setts/s12/k4g4k2g12k6w3k6o2w4o2w15r3~x2/"><circle cx="83.4" cy="151.5" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/setts/s9/w16dg2k5r2k10dg11ly2dg11k2~x2/"><circle cx="124.7" cy="176.2" r="4" fill="#3465a4"><title>Unidentified #46</title></circle></a><a href="/setts/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="76.2" cy="166.6" r="4" fill="#3465a4"><title>MacKenzie Dress - 1950 (Clan)</title></circle></a><a href="/setts/s13/w20k3w3k3w3k16dg17ly5dg17k16db16k3db3~x2/"><circle cx="72.4" cy="172.0" r="4" fill="#3465a4"><title>Gordon Dress #2</title></circle></a><a href="/setts/s12/k4g4k2g14k6w3k6w2w4w2w15r3~x2/"><circle cx="80.7" cy="147.5" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/setts/s9/w16g2k5r2k10g11ly2g11k2~x2/"><circle cx="112.9" cy="172.8" r="4" fill="#3465a4"><title>Unnamed 9</title></circle></a><a href="/setts/s14/db12w2db2r2db3k11g12k2g3k2g12db12w13r2~x2/"><circle cx="71.9" cy="166.3" r="4" fill="#3465a4"><title>Scottish National Dress</title></circle></a><circle cx="63.6" cy="170.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/w6ly2w2ly3w11g11db2k12db3k6w2~x2/

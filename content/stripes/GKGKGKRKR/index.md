@@ -19,7 +19,7 @@ GKGKGKRKR
 Grouped by stripe pattern — the 3 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DG K DG K DG K R K R <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG K DG K DG K R K R</span></span>
+### R K R K DG K DG K DG <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">R K R K DG K DG K DG</span></span>
 
 | Tartans |
 |---------------|
@@ -28,14 +28,14 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 | [Stewart of Atholl](/setts/s9/dg22k1dg2k1dg3k8r20k1r6~x2/)|
 |![Stewart of Atholl example sett](/setts/s9/dg22k1dg2k1dg3k8r20k1r6~x2/sett.png)|
 
-### G K G K G K M K M <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="seq">G K G K G K M K M</span></span>
+### M K M K G K G K G <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">M K M K G K G K G</span></span>
 
 | Tartans |
 |---------------|
 | [Alma College](/setts/s9/g24k3g2k3g4k4m20k3m6~x2/)|
 |![Alma College example sett](/setts/s9/g24k3g2k3g4k4m20k3m6~x2/sett.png)|
 
-### G K G K G K R K R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">G K G K G K R K R</span></span>
+### R K R K G K G K G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K R K G K G K G</span></span>
 
 | Tartans |
 |---------------|

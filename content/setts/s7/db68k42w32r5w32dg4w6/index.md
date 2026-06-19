@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1162
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Ferguson, dress
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -921,14 +930,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Ferguson Dress](/setts/s7/t17k12w9m2w9g1w2~x4/) — ΔT 0.94
 1. [Sinclair dress](/setts/s7/db2r1db16k5g2w11g1~x4/) — ΔT 1.05
 1. [Kuznetsov (2014)](/setts/s7/db49ly12r12ly12dg32w8db3/) — ΔT 1.05
-1. [Bannockbane Blue #1](/setts/s8/b4lo2b13w8lo1k13lo2k4~x2/) — ΔT 1.08
+1. [Bannockbane Blue #1](/setts/s8/k4lo2k13lo1w8b13lo2b4~x2/) — ΔT 1.08
 1. [Clunie (Personal)](/setts/s6/w12db48k13o22k3ly6/) — ΔT 1.09
 1. [Sinclair Dress (Dance)](/setts/s7/db4r2db31k10g4w21g2~x2/) — ΔT 1.10
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r2db14k6g1w12g1w2~x4/"><circle cx="149.5" cy="138.8" r="4" fill="#3465a4"><title>Davidson (Wedding) (Personal)</title></circle></a><a href="/setts/s7/t34db24w18r3w18g2w3~x2/"><circle cx="159.2" cy="149.8" r="4" fill="#3465a4"><title>Ferguson, dress</title></circle></a><a href="/setts/s8/r6db2dp21w3dg19w26dg3w5~x2/"><circle cx="152.7" cy="141.6" r="4" fill="#3465a4"><title>Culloden Dress Ancient</title></circle></a><a href="/setts/s6/r15t98db72ly25db8w15/"><circle cx="186.1" cy="168.3" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><a href="/setts/s7/t17k12w9m2w9g1w2~x4/"><circle cx="156.1" cy="150.7" r="4" fill="#3465a4"><title>Ferguson Dress</title></circle></a><a href="/setts/s7/db2r1db16k5g2w11g1~x4/"><circle cx="210.1" cy="139.3" r="4" fill="#3465a4"><title>Sinclair dress</title></circle></a><a href="/setts/s7/db49ly12r12ly12dg32w8db3/"><circle cx="157.0" cy="152.3" r="4" fill="#3465a4"><title>Kuznetsov (2014)</title></circle></a><a href="/setts/s8/b4lo2b13w8lo1k13lo2k4~x2/"><circle cx="149.3" cy="172.3" r="4" fill="#3465a4"><title>Bannockbane Blue #1</title></circle></a><a href="/setts/s6/w12db48k13o22k3ly6/"><circle cx="197.6" cy="160.5" r="4" fill="#3465a4"><title>Clunie (Personal)</title></circle></a><a href="/setts/s7/db4r2db31k10g4w21g2~x2/"><circle cx="214.0" cy="143.2" r="4" fill="#3465a4"><title>Sinclair Dress (Dance)</title></circle></a><circle cx="160.3" cy="148.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r2db14k6g1w12g1w2~x4/"><circle cx="149.4" cy="138.7" r="4" fill="#3465a4"><title>Davidson (Wedding) (Personal)</title></circle></a><a href="/setts/s7/t34db24w18r3w18g2w3~x2/"><circle cx="159.1" cy="149.7" r="4" fill="#3465a4"><title>Ferguson, dress</title></circle></a><a href="/setts/s8/r6db2dp21w3dg19w26dg3w5~x2/"><circle cx="152.5" cy="141.5" r="4" fill="#3465a4"><title>Culloden Dress Ancient</title></circle></a><a href="/setts/s6/r15t98db72ly25db8w15/"><circle cx="186.0" cy="168.3" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><a href="/setts/s7/t17k12w9m2w9g1w2~x4/"><circle cx="155.9" cy="150.6" r="4" fill="#3465a4"><title>Ferguson Dress</title></circle></a><a href="/setts/s7/db2r1db16k5g2w11g1~x4/"><circle cx="210.0" cy="139.2" r="4" fill="#3465a4"><title>Sinclair dress</title></circle></a><a href="/setts/s7/db49ly12r12ly12dg32w8db3/"><circle cx="157.0" cy="152.3" r="4" fill="#3465a4"><title>Kuznetsov (2014)</title></circle></a><a href="/setts/s8/k4lo2k13lo1w8b13lo2b4~x2/"><circle cx="149.3" cy="172.1" r="4" fill="#3465a4"><title>Bannockbane Blue #1</title></circle></a><a href="/setts/s6/w12db48k13o22k3ly6/"><circle cx="197.6" cy="160.5" r="4" fill="#3465a4"><title>Clunie (Personal)</title></circle></a><a href="/setts/s7/db4r2db31k10g4w21g2~x2/"><circle cx="213.9" cy="143.1" r="4" fill="#3465a4"><title>Sinclair Dress (Dance)</title></circle></a><circle cx="160.2" cy="148.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/db68k42w32r5w32dg4w6/

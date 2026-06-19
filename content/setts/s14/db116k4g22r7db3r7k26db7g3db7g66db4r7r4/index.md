@@ -2,7 +2,7 @@
 title: "Cooper"
 date: 2023-03-18
 ---
-**Bands:** [BKGRBRKBGBGBRR](/stripes/bkgrbrkbgbgbrr/) · **Stripes:** [DB K G R DB R K DB G DB G DB R R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K G R DB R K DB G DB G DB R R</span></span>
+**Bands:** [RRBGBGBKRBRGKB](/stripes/rrbgbgbkrbrgkb/) · **Stripes:** [R R DB G DB G DB K R DB R G K DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R R DB G DB G DB K R DB R G K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -923,8 +926,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/g3b2g3r4g15k2g2k2g3db35k2db2k1db2~x2/"><circle cx="318.7" cy="80.8" r="4" fill="#3465a4"><title>Prestoungrange/Dolphinstoun/Wills</title></circle></a><a href="/setts/s12/r10db4r3db6w3db4w3db40dg73k4db2ly6/"><circle cx="283.5" cy="64.8" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><a href="/setts/s11/db60k15g10r2g10r2g10r2g10k1ly4~x2/"><circle cx="327.5" cy="93.5" r="4" fill="#3465a4"><title>Muir/Moore</title></circle></a><a href="/setts/s12/r10dt4r3dt6w3dt4w3dt40dg73k4dt2ly6/"><circle cx="290.3" cy="73.5" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><a href="/setts/s13/dg50k3w4k1lo5r4k1w2k2b15k5dg4w2~x2/"><circle cx="321.5" cy="46.8" r="4" fill="#3465a4"><title>City of Abbotsford (District)</title></circle></a><a href="/setts/s18/g2r2g18o6db40lo1db1lo4w2lo4db1lo1db40o6g18r2g2w1~x2/"><circle cx="298.7" cy="45.9" r="4" fill="#3465a4"><title>O'Mahony, The</title></circle></a><a href="/setts/s10/w5n38y3db11y1db11y3n4w5lo1~x2/"><circle cx="307.0" cy="94.7" r="4" fill="#3465a4"><title>Ballarat</title></circle></a><a href="/setts/s12/lo1lg3k2g5dp4g1k14lg1k4g25lg2lo1~x2/"><circle cx="260.9" cy="97.3" r="4" fill="#3465a4"><title>Walker, Gauvin (Personal)</title></circle></a><a href="/setts/s15/k94db20dg34w3dg4w3dg3ly5dg5k5db7w5db5r5db12/"><circle cx="268.5" cy="62.4" r="4" fill="#3465a4"><title>Australian Federal Police</title></circle></a><a href="/setts/s18/r2r3db2g32db3g1db3k14r3db2r3g12db1k1db30r3db2r2~x2/"><circle cx="226.8" cy="70.7" r="4" fill="#3465a4"><title>Cooper</title></circle></a><circle cx="305.1" cy="75.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/g3b2g3r4g15k2g2k2g3db35k2db2k1db2~x2/"><circle cx="318.5" cy="80.8" r="4" fill="#3465a4"><title>Prestoungrange/Dolphinstoun/Wills</title></circle></a><a href="/setts/s12/r10db4r3db6w3db4w3db40dg73k4db2ly6/"><circle cx="283.4" cy="64.8" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><a href="/setts/s11/db60k15g10r2g10r2g10r2g10k1ly4~x2/"><circle cx="327.4" cy="93.6" r="4" fill="#3465a4"><title>Muir/Moore</title></circle></a><a href="/setts/s12/r10dt4r3dt6w3dt4w3dt40dg73k4dt2ly6/"><circle cx="290.1" cy="73.6" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><a href="/setts/s13/dg50k3w4k1lo5r4k1w2k2b15k5dg4w2~x2/"><circle cx="321.4" cy="46.8" r="4" fill="#3465a4"><title>City of Abbotsford (District)</title></circle></a><a href="/setts/s18/g2r2g18o6db40lo1db1lo4w2lo4db1lo1db40o6g18r2g2w1~x2/"><circle cx="298.4" cy="45.9" r="4" fill="#3465a4"><title>O'Mahony, The</title></circle></a><a href="/setts/s10/w5n38y3db11y1db11y3n4w5lo1~x2/"><circle cx="306.8" cy="94.7" r="4" fill="#3465a4"><title>Ballarat</title></circle></a><a href="/setts/s12/lo1lg3k2g5dp4g1k14lg1k4g25lg2lo1~x2/"><circle cx="260.8" cy="97.3" r="4" fill="#3465a4"><title>Walker, Gauvin (Personal)</title></circle></a><a href="/setts/s15/k94db20dg34w3dg4w3dg3ly5dg5k5db7w5db5r5db12/"><circle cx="268.4" cy="62.5" r="4" fill="#3465a4"><title>Australian Federal Police</title></circle></a><a href="/setts/s18/r2r3db2g32db3g1db3k14r3db2r3g12db1k1db30r3db2r2~x2/"><circle cx="226.7" cy="70.7" r="4" fill="#3465a4"><title>Cooper</title></circle></a><circle cx="304.9" cy="75.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/db116k4g22r7db3r7k26db7g3db7g66db4r7r4/

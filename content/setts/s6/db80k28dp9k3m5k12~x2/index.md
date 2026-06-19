@@ -2,7 +2,7 @@
 title: "Earl Blue Marl"
 date: 2023-03-18
 ---
-**Bands:** [BKBKRK](/stripes/bkbkrk/) · **Stripes:** [DB K DP K M K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K DP K M K</span></span>
+**Bands:** [KRKBKB](/stripes/krkbkb/) · **Stripes:** [K M K DP K DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K M K DP K DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -46,7 +46,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Deighan (Burham Kent) (Name)](/setts/s5/n4db43k20n7o2~x2/) — ΔT 1.19
-1. [Potts (Personal)](/setts/s6/ly1y3db3do28db36y1~x2/) — ΔT 1.29
+1. [Potts (Personal)](/setts/s6/y1db36do28db3y3ly1~x2/) — ΔT 1.29
 1. [Royal British Legion Scotland (Corp)](/setts/s8/lo4dp2db30k3dp8db5dp1r2~x2/) — ΔT 1.39
 1. [Potts (Personal)](/setts/s6/k1y3db3do28db36y1~x2/) — ΔT 1.40
 1. [Round Table (1997)](/setts/s6/db47dg14dp5do2r3dg7~x2/) — ΔT 1.43
@@ -58,8 +58,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/n4db43k20n7o2~x2/"><circle cx="402.9" cy="225.5" r="4" fill="#3465a4"><title>Deighan (Burham Kent) (Name)</title></circle></a><a href="/setts/s6/ly1y3db3do28db36y1~x2/"><circle cx="453.2" cy="186.7" r="4" fill="#3465a4"><title>Potts (Personal)</title></circle></a><a href="/setts/s8/lo4dp2db30k3dp8db5dp1r2~x2/"><circle cx="451.1" cy="153.9" r="4" fill="#3465a4"><title>Royal British Legion Scotland (Corp)</title></circle></a><a href="/setts/s6/k1y3db3do28db36y1~x2/"><circle cx="472.8" cy="197.3" r="4" fill="#3465a4"><title>Potts (Personal)</title></circle></a><a href="/setts/s6/db47dg14dp5do2r3dg7~x2/"><circle cx="442.4" cy="192.0" r="4" fill="#3465a4"><title>Round Table (1997)</title></circle></a><a href="/setts/s6/db55db18w3db2r2db6~x2/"><circle cx="468.8" cy="179.2" r="4" fill="#3465a4"><title>S.C.O.T.S.</title></circle></a><a href="/setts/s12/db4y1db30k15dp4db2k2db2k10db4dp2db2~x2/"><circle cx="447.0" cy="167.3" r="4" fill="#3465a4"><title>Scotland's Own (Fashion)</title></circle></a><a href="/setts/s8/k28r1k2r1k8db24dg2db3~x2/"><circle cx="424.5" cy="177.9" r="4" fill="#3465a4"><title>Home or Hume (Vestiarium Scoticum)</title></circle></a><a href="/setts/s5/db4r1db18n18lr1~x4/"><circle cx="400.1" cy="227.8" r="4" fill="#3465a4"><title>Ardee (Corporate)</title></circle></a><a href="/setts/s6/db8k39db8k39db87r6/"><circle cx="429.9" cy="254.9" r="4" fill="#3465a4"><title>Largan (?)</title></circle></a><circle cx="453.2" cy="200.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/n4db43k20n7o2~x2/"><circle cx="403.1" cy="225.5" r="4" fill="#3465a4"><title>Deighan (Burham Kent) (Name)</title></circle></a><a href="/setts/s6/y1db36do28db3y3ly1~x2/"><circle cx="453.1" cy="186.7" r="4" fill="#3465a4"><title>Potts (Personal)</title></circle></a><a href="/setts/s8/lo4dp2db30k3dp8db5dp1r2~x2/"><circle cx="451.0" cy="153.9" r="4" fill="#3465a4"><title>Royal British Legion Scotland (Corp)</title></circle></a><a href="/setts/s6/k1y3db3do28db36y1~x2/"><circle cx="472.7" cy="197.4" r="4" fill="#3465a4"><title>Potts (Personal)</title></circle></a><a href="/setts/s6/db47dg14dp5do2r3dg7~x2/"><circle cx="442.3" cy="192.0" r="4" fill="#3465a4"><title>Round Table (1997)</title></circle></a><a href="/setts/s6/db55db18w3db2r2db6~x2/"><circle cx="468.7" cy="179.1" r="4" fill="#3465a4"><title>S.C.O.T.S.</title></circle></a><a href="/setts/s12/db4y1db30k15dp4db2k2db2k10db4dp2db2~x2/"><circle cx="447.0" cy="167.4" r="4" fill="#3465a4"><title>Scotland's Own (Fashion)</title></circle></a><a href="/setts/s8/k28r1k2r1k8db24dg2db3~x2/"><circle cx="424.4" cy="177.9" r="4" fill="#3465a4"><title>Home or Hume (Vestiarium Scoticum)</title></circle></a><a href="/setts/s5/db4r1db18n18lr1~x4/"><circle cx="400.1" cy="227.8" r="4" fill="#3465a4"><title>Ardee (Corporate)</title></circle></a><a href="/setts/s6/db8k39db8k39db87r6/"><circle cx="429.9" cy="254.8" r="4" fill="#3465a4"><title>Largan (?)</title></circle></a><circle cx="453.2" cy="200.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db80k28dp9k3m5k12~x2/

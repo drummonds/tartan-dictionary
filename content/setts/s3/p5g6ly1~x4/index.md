@@ -2,7 +2,7 @@
 title: "Wilson's, No 81"
 date: 2023-03-18
 ---
-**Bands:** [BGY](/stripes/bgy/) · **Stripes:** [P G LY](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">P G LY</span></span>
+**Bands:** [YGB](/stripes/ygb/) · **Stripes:** [LY G P](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">LY G P</span></span>
 
 
 This was sourced from weddslist.  It is a [3 band tartan](/bands/bands3/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -925,8 +928,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/g6p5t1~x4/"><circle cx="273.8" cy="304.7" r="4" fill="#3465a4"><title>Wilson's, No 55</title></circle></a><a href="/setts/s3/p2g4ly1~x4/"><circle cx="261.6" cy="310.8" r="4" fill="#3465a4"><title>Wilson's, No 201</title></circle></a><a href="/setts/s3/dp2g4ly1~x4/"><circle cx="264.9" cy="317.3" r="4" fill="#3465a4"><title>Wilson's No.201</title></circle></a><a href="/setts/s3/g6dp5t1~x4/"><circle cx="289.8" cy="319.3" r="4" fill="#3465a4"><title>Wilson's No.055</title></circle></a><a href="/setts/s4/w2dg13o13w2~x6/"><circle cx="233.5" cy="249.5" r="4" fill="#3465a4"><title>Dunoon Irish</title></circle></a><a href="/setts/s4/g15r3p11t2~x2/"><circle cx="252.2" cy="248.8" r="4" fill="#3465a4"><title>MacNab 7</title></circle></a><a href="/setts/s4/db21g34r14w6~x2/"><circle cx="178.5" cy="268.2" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/setts/s5/db20k5db18ly26k6~x2/"><circle cx="206.4" cy="265.0" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/setts/s4/db3g6ly1r3~x10/"><circle cx="194.7" cy="269.3" r="4" fill="#3465a4"><title>Delroeux (Personal)</title></circle></a><a href="/setts/s4/db3dg6ly1r3~x10/"><circle cx="170.9" cy="256.8" r="4" fill="#3465a4"><title>Delroeux, John Michael (Personal)</title></circle></a><circle cx="259.8" cy="295.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/g6p5t1~x4/"><circle cx="273.8" cy="304.5" r="4" fill="#3465a4"><title>Wilson's, No 55</title></circle></a><a href="/setts/s3/p2g4ly1~x4/"><circle cx="261.6" cy="310.5" r="4" fill="#3465a4"><title>Wilson's, No 201</title></circle></a><a href="/setts/s3/dp2g4ly1~x4/"><circle cx="265.0" cy="317.0" r="4" fill="#3465a4"><title>Wilson's No.201</title></circle></a><a href="/setts/s3/g6dp5t1~x4/"><circle cx="289.9" cy="319.0" r="4" fill="#3465a4"><title>Wilson's No.055</title></circle></a><a href="/setts/s4/w2dg13o13w2~x6/"><circle cx="233.4" cy="249.2" r="4" fill="#3465a4"><title>Dunoon Irish</title></circle></a><a href="/setts/s4/g15r3p11t2~x2/"><circle cx="252.2" cy="248.6" r="4" fill="#3465a4"><title>MacNab 7</title></circle></a><a href="/setts/s4/db21g34r14w6~x2/"><circle cx="178.6" cy="268.0" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/setts/s5/db20k5db18ly26k6~x2/"><circle cx="206.4" cy="264.7" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/setts/s4/db3g6ly1r3~x10/"><circle cx="194.8" cy="269.2" r="4" fill="#3465a4"><title>Delroeux (Personal)</title></circle></a><a href="/setts/s4/db3dg6ly1r3~x10/"><circle cx="171.0" cy="256.6" r="4" fill="#3465a4"><title>Delroeux, John Michael (Personal)</title></circle></a><circle cx="259.7" cy="294.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/p5g6ly1~x4/

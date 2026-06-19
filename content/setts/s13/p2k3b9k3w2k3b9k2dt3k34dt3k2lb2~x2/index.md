@@ -1,0 +1,55 @@
+---
+title: "Hanson (2016)"
+date: 2023-03-18
+---
+**Bands:** [BKBKWKBKBKBKW](/stripes/bkbkwkbkbkbkw/) · **Stripes:** [P K B K W K B K DT K DT K LB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">P K B K W K B K DT K DT K LB</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11438
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11438](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11438)
+
+## Thread count
+P/4 K6 B18 K6 LN4 K6 B18 K4 Ka6 K68 Ka6 K4 LB/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#0000FF;"><span style="color:#0000FF;filter:grayscale(1) invert(1) contrast(100);">#0000FF</span></code> `#0000FF` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.20 |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
+| Ka | <code style="background-color:#1C1C1C;"><span style="color:#1C1C1C;filter:grayscale(1) invert(1) contrast(100);">#1C1C1C</span></code> `#1C1C1C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| LB | <code style="background-color:#98C8E8;"><span style="color:#98C8E8;filter:grayscale(1) invert(1) contrast(100);">#98C8E8</span></code> `#98C8E8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.18 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| P | <code style="background-color:#9058D8;"><span style="color:#9058D8;filter:grayscale(1) invert(1) contrast(100);">#9058D8</span></code> `#9058D8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Wcwm 1105](/setts/s12/db84r3k16ly4k4lb4k4dg20db8k4db8lb4/) — ΔT 1.58
+1. [Niagara Region](/setts/s12/w4k2w2k28dt4k2dt2r1k13r1dg13r2~x2/) — ΔT 1.65
+1. [Arnold (California)](/setts/s25/db4k1lo2k1db3k1db2k2db2k4db2k2db2k1db3r1db4k19dp1k2dp3k4db4k1w2~x2/) — ΔT 1.67
+1. [Mount Dora](/setts/s10/k42dp4k16dg10k2r6k2dg10k3w4~x2/) — ΔT 1.73
+1. [Northfield Academy Corporate Tartan Tartan Number: 11490. Earliest known date: 2016, March Northfield is built on Freedom Lands gifted by Robert the Bruce to the Burgh of Aberdeen around 1313 and this Academy design is based on the complex 1782 Aberdeen tartan. The dark blue squares number 56 threads for the year 1956 when the Academy was opened; the maroon is from the original 1956 school badge; the predominantly dark blue and light blue colours represent the colours of the school tie in 2016; the four light blue lines around the white represent the four capacities of Scottish education's Curriculum for Excellence in the 21st century. Finally, the grey remembers the 19th century Cairncry Granite Quarry on part of which, Northfield Academy was built. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/lr2db1t2db2k1t12db2k1k10db28t1db3t2db3w1~x2/) — ΔT 1.74
+1. [Wupper Pipes & Drums (Corporate)](/setts/s14/r2k4w1k4db18g1db18k6db3ly1db2ly1db2ly2~x2/) — ΔT 1.76
+1. [Dama Weekend](/setts/s11/k42n2k2n4y4ly2y6k9y2k2r2~x2/) — ΔT 1.78
+1. [Fitzgerald Hunting](/setts/s10/r2m3k16db4r2db4k36n3k3w2~x2/) — ΔT 1.90
+1. [East Tennessee State University](/setts/s8/lo2db2w1db6w1ly2db17ly1~x2/) — ΔT 1.92
+1. [Blue Brough from Orkney](/setts/s13/k4n8db54ly6db23n4k4r14k4n2db2k4db4/) — ΔT 1.95
+
+## Neighbour map
+
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db84r3k16ly4k4lb4k4dg20db8k4db8lb4/"><circle cx="343.5" cy="82.5" r="4" fill="#3465a4"><title>Wcwm 1105</title></circle></a><a href="/setts/s12/w4k2w2k28dt4k2dt2r1k13r1dg13r2~x2/"><circle cx="339.7" cy="110.7" r="4" fill="#3465a4"><title>Niagara Region</title></circle></a><a href="/setts/s25/db4k1lo2k1db3k1db2k2db2k4db2k2db2k1db3r1db4k19dp1k2dp3k4db4k1w2~x2/"><circle cx="253.0" cy="83.5" r="4" fill="#3465a4"><title>Arnold (California)</title></circle></a><a href="/setts/s10/k42dp4k16dg10k2r6k2dg10k3w4~x2/"><circle cx="313.2" cy="126.9" r="4" fill="#3465a4"><title>Mount Dora</title></circle></a><a href="/setts/s15/lr2db1t2db2k1t12db2k1k10db28t1db3t2db3w1~x2/"><circle cx="309.0" cy="80.8" r="4" fill="#3465a4"><title>Northfield Academy Corporate Tartan Tartan Number: 11490. Earliest known date: 2016, March Northfield is built on Freedom Lands gifted by Robert the Bruce to the Burgh of Aberdeen around 1313 and this Academy design is based on the complex 1782 Aberdeen tartan. The dark blue squares number 56 threads for the year 1956 when the Academy was opened; the maroon is from the original 1956 school badge; the predominantly dark blue and light blue colours represent the colours of the school tie in 2016; the four light blue lines around the white represent the four capacities of Scottish education's Curriculum for Excellence in the 21st century. Finally, the grey remembers the 19th century Cairncry Granite Quarry on part of which, Northfield Academy was built. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r2k4w1k4db18g1db18k6db3ly1db2ly1db2ly2~x2/"><circle cx="361.1" cy="113.5" r="4" fill="#3465a4"><title>Wupper Pipes &amp; Drums (Corporate)</title></circle></a><a href="/setts/s11/k42n2k2n4y4ly2y6k9y2k2r2~x2/"><circle cx="320.3" cy="98.2" r="4" fill="#3465a4"><title>Dama Weekend</title></circle></a><a href="/setts/s10/r2m3k16db4r2db4k36n3k3w2~x2/"><circle cx="248.7" cy="98.9" r="4" fill="#3465a4"><title>Fitzgerald Hunting</title></circle></a><a href="/setts/s8/lo2db2w1db6w1ly2db17ly1~x2/"><circle cx="301.7" cy="129.9" r="4" fill="#3465a4"><title>East Tennessee State University</title></circle></a><a href="/setts/s13/k4n8db54ly6db23n4k4r14k4n2db2k4db4/"><circle cx="348.5" cy="97.3" r="4" fill="#3465a4"><title>Blue Brough from Orkney</title></circle></a><circle cx="305.4" cy="98.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s13/p2k3b9k3w2k3b9k2dt3k34dt3k2lb2~x2/

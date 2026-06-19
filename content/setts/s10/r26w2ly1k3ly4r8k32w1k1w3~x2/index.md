@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7752
 
 ## Thread count
-LN/6 DBa2 LN2 DBa64 R16 Y8 DBa6 Y2 LN4 R/52
+R/52 LN4 Y2 DBa6 Y8 R16 DBa64 LN2 DBa2 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -46,17 +46,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Good Conduct (USA)](/setts/s10/db5r12k38r4w2r2w2r2w2r4~x2/) — ΔT 1.11
 1. [Sutherland de Albergaria (Personal)](/setts/s8/w10k2w2k66ly6r48k5r8/) — ΔT 1.12
 1. [Boring and Dull](/setts/s9/db5w4r1db26r26w1r8w5k1~x2/) — ΔT 1.18
-1. [Marjoribanks (Clan)](/setts/s8/lo3r2w1r40k37w3k3w3~x2/) — ΔT 1.24
+1. [Marjoribanks (Clan)](/setts/s8/w3k3w3k37r40w1r2lo3~x2/) — ΔT 1.24
 1. [Boring and Dull](/setts/s9/db5w4r1db26r25w1r8w5dt1~x2/) — ΔT 1.32
 1. [Manac](/setts/s14/k33w1r23k1lr6w1lr6k1r23w1k33r3w3b3~x2/) — ΔT 1.37
-1. [Solberg-Wormald (Personal)](/setts/s12/r155lb16k34db48r18ly6r9ly6r18db48k34lb16/) — ΔT 1.41
+1. [Solberg-Wormald (Personal)](/setts/s12/r155lb16k34db48r18ly6r9/) — ΔT 1.41
 1. [Mens Bigi](/setts/s8/lo4k17r1k4r2k4r33w3~x2/) — ΔT 1.41
-1. [Marjoribanks](/setts/s8/ly3r2w1r40k36w3k3w3~x2/) — ΔT 1.42
+1. [Marjoribanks](/setts/s8/w3k3w3k36r40w1r2ly3~x2/) — ΔT 1.42
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/n36m8n2m8n1k2n4k2n4k18w2k1w4~x2/"><circle cx="304.0" cy="80.7" r="4" fill="#3465a4"><title>Diamond Jubilee</title></circle></a><a href="/setts/s10/db5r12k38r4w2r2w2r2w2r4~x2/"><circle cx="304.9" cy="103.6" r="4" fill="#3465a4"><title>Good Conduct (USA)</title></circle></a><a href="/setts/s8/w10k2w2k66ly6r48k5r8/"><circle cx="321.5" cy="107.2" r="4" fill="#3465a4"><title>Sutherland de Albergaria (Personal)</title></circle></a><a href="/setts/s9/db5w4r1db26r26w1r8w5k1~x2/"><circle cx="289.8" cy="114.2" r="4" fill="#3465a4"><title>Boring and Dull</title></circle></a><a href="/setts/s8/lo3r2w1r40k37w3k3w3~x2/"><circle cx="328.8" cy="93.6" r="4" fill="#3465a4"><title>Marjoribanks (Clan)</title></circle></a><a href="/setts/s9/db5w4r1db26r25w1r8w5dt1~x2/"><circle cx="285.0" cy="112.2" r="4" fill="#3465a4"><title>Boring and Dull</title></circle></a><a href="/setts/s14/k33w1r23k1lr6w1lr6k1r23w1k33r3w3b3~x2/"><circle cx="284.0" cy="71.7" r="4" fill="#3465a4"><title>Manac</title></circle></a><a href="/setts/s12/r155lb16k34db48r18ly6r9ly6r18db48k34lb16/"><circle cx="265.8" cy="88.5" r="4" fill="#3465a4"><title>Solberg-Wormald (Personal)</title></circle></a><a href="/setts/s8/lo4k17r1k4r2k4r33w3~x2/"><circle cx="365.1" cy="122.7" r="4" fill="#3465a4"><title>Mens Bigi</title></circle></a><a href="/setts/s8/ly3r2w1r40k36w3k3w3~x2/"><circle cx="321.1" cy="93.5" r="4" fill="#3465a4"><title>Marjoribanks</title></circle></a><circle cx="294.1" cy="94.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/n36m8n2m8n1k2n4k2n4k18w2k1w4~x2/"><circle cx="303.8" cy="80.6" r="4" fill="#3465a4"><title>Diamond Jubilee</title></circle></a><a href="/setts/s10/db5r12k38r4w2r2w2r2w2r4~x2/"><circle cx="304.6" cy="103.5" r="4" fill="#3465a4"><title>Good Conduct (USA)</title></circle></a><a href="/setts/s8/w10k2w2k66ly6r48k5r8/"><circle cx="321.3" cy="107.1" r="4" fill="#3465a4"><title>Sutherland de Albergaria (Personal)</title></circle></a><a href="/setts/s9/db5w4r1db26r26w1r8w5k1~x2/"><circle cx="289.4" cy="114.1" r="4" fill="#3465a4"><title>Boring and Dull</title></circle></a><a href="/setts/s8/w3k3w3k37r40w1r2lo3~x2/"><circle cx="328.5" cy="93.4" r="4" fill="#3465a4"><title>Marjoribanks (Clan)</title></circle></a><a href="/setts/s9/db5w4r1db26r25w1r8w5dt1~x2/"><circle cx="284.7" cy="112.1" r="4" fill="#3465a4"><title>Boring and Dull</title></circle></a><a href="/setts/s14/k33w1r23k1lr6w1lr6k1r23w1k33r3w3b3~x2/"><circle cx="283.8" cy="71.6" r="4" fill="#3465a4"><title>Manac</title></circle></a><a href="/setts/s12/r155lb16k34db48r18ly6r9/"><circle cx="265.5" cy="88.4" r="4" fill="#3465a4"><title>Solberg-Wormald (Personal)</title></circle></a><a href="/setts/s8/lo4k17r1k4r2k4r33w3~x2/"><circle cx="364.9" cy="122.5" r="4" fill="#3465a4"><title>Mens Bigi</title></circle></a><a href="/setts/s8/w3k3w3k36r40w1r2ly3~x2/"><circle cx="320.8" cy="93.4" r="4" fill="#3465a4"><title>Marjoribanks</title></circle></a><circle cx="293.9" cy="94.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r26w2ly1k3ly4r8k32w1k1w3~x2/

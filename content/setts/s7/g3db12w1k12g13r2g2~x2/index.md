@@ -2,12 +2,19 @@
 title: "Paterson (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GBWKGRG](/stripes/gbwkgrg/) · **Stripes:** [G DB W K G R G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G DB W K G R G</span></span>
+**Bands:** [GRGKWBG](/stripes/grgkwbg/) · **Stripes:** [G R G K W DB G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G R G K W DB G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3300
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacFadzean, MacPhedran
+- MacFadzean/MacPhedran
 
 ## Attestations
 
@@ -319,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -925,18 +935,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Rhun (Fashion)](/setts/s7/r12db68w7k39g75r6g6/) — ΔT 0.56
 1. [Dunfermline Bank of Scotland (Corp)](/setts/s8/dg24k5dg6r6dg6k20b20w2~x2/) — ΔT 0.58
 1. [Guelph, City Of](/setts/s8/g12k1g2r1g2k10db10lo1~x4/) — ΔT 0.66
-1. [Tait #1](/setts/s8/ly5k2g28k19g4db19k2r5~x2/) — ΔT 0.67
+1. [Tait #1](/setts/s8/r5k2db19g4k19g28k2ly5~x2/) — ΔT 0.67
 1. [MacFadzean/MacPhedran](/setts/s7/g3db12w1k12g13r2g2~x4/) — ΔT 0.68
 1. [MacPhedran/MacFadzean](/setts/s7/dg3db12lb1k12dg13r2dg2~x2/) — ΔT 0.68
 1. [Genet, Citizen (Commem)](/setts/s7/r2k9g12db8r1db1w1~x4/) — ΔT 0.76
-1. [Mantle (Personal)](/setts/s8/g3db16w2k14g18r3g2r3~x2/) — ΔT 0.76
+1. [Mantle (Personal)](/setts/s8/r3g2r3g18k14w2db16g3~x2/) — ΔT 0.76
 1. [MacWilliam (Clan)](/setts/s6/dy2g12k10r1b16r2~x4/) — ΔT 0.79
 1. [Royal Ashburn Golf Club](/setts/s6/g2b22r2k21g23ly2~x2/) — ΔT 0.80
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r12db68w7k39g75r6g6/"><circle cx="196.8" cy="183.2" r="4" fill="#3465a4"><title>Rhun (Fashion)</title></circle></a><a href="/setts/s8/dg24k5dg6r6dg6k20b20w2~x2/"><circle cx="182.0" cy="193.6" r="4" fill="#3465a4"><title>Dunfermline Bank of Scotland (Corp)</title></circle></a><a href="/setts/s8/g12k1g2r1g2k10db10lo1~x4/"><circle cx="219.9" cy="187.7" r="4" fill="#3465a4"><title>Guelph, City Of</title></circle></a><a href="/setts/s8/ly5k2g28k19g4db19k2r5~x2/"><circle cx="184.4" cy="172.0" r="4" fill="#3465a4"><title>Tait #1</title></circle></a><a href="/setts/s7/g3db12w1k12g13r2g2~x4/"><circle cx="193.8" cy="187.3" r="4" fill="#3465a4"><title>MacFadzean/MacPhedran</title></circle></a><a href="/setts/s7/dg3db12lb1k12dg13r2dg2~x2/"><circle cx="220.4" cy="203.3" r="4" fill="#3465a4"><title>MacPhedran/MacFadzean</title></circle></a><a href="/setts/s7/r2k9g12db8r1db1w1~x4/"><circle cx="170.8" cy="183.1" r="4" fill="#3465a4"><title>Genet, Citizen (Commem)</title></circle></a><a href="/setts/s8/g3db16w2k14g18r3g2r3~x2/"><circle cx="174.5" cy="195.7" r="4" fill="#3465a4"><title>Mantle (Personal)</title></circle></a><a href="/setts/s6/dy2g12k10r1b16r2~x4/"><circle cx="193.4" cy="191.4" r="4" fill="#3465a4"><title>MacWilliam (Clan)</title></circle></a><a href="/setts/s6/g2b22r2k21g23ly2~x2/"><circle cx="175.5" cy="199.3" r="4" fill="#3465a4"><title>Royal Ashburn Golf Club</title></circle></a><circle cx="200.7" cy="194.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r12db68w7k39g75r6g6/"><circle cx="196.9" cy="183.3" r="4" fill="#3465a4"><title>Rhun (Fashion)</title></circle></a><a href="/setts/s8/dg24k5dg6r6dg6k20b20w2~x2/"><circle cx="182.1" cy="193.7" r="4" fill="#3465a4"><title>Dunfermline Bank of Scotland (Corp)</title></circle></a><a href="/setts/s8/g12k1g2r1g2k10db10lo1~x4/"><circle cx="220.1" cy="187.8" r="4" fill="#3465a4"><title>Guelph, City Of</title></circle></a><a href="/setts/s8/r5k2db19g4k19g28k2ly5~x2/"><circle cx="184.4" cy="172.1" r="4" fill="#3465a4"><title>Tait #1</title></circle></a><a href="/setts/s7/g3db12w1k12g13r2g2~x4/"><circle cx="193.9" cy="187.3" r="4" fill="#3465a4"><title>MacFadzean/MacPhedran</title></circle></a><a href="/setts/s7/dg3db12lb1k12dg13r2dg2~x2/"><circle cx="220.5" cy="203.4" r="4" fill="#3465a4"><title>MacPhedran/MacFadzean</title></circle></a><a href="/setts/s7/r2k9g12db8r1db1w1~x4/"><circle cx="170.9" cy="183.2" r="4" fill="#3465a4"><title>Genet, Citizen (Commem)</title></circle></a><a href="/setts/s8/r3g2r3g18k14w2db16g3~x2/"><circle cx="174.6" cy="195.8" r="4" fill="#3465a4"><title>Mantle (Personal)</title></circle></a><a href="/setts/s6/dy2g12k10r1b16r2~x4/"><circle cx="193.5" cy="191.5" r="4" fill="#3465a4"><title>MacWilliam (Clan)</title></circle></a><a href="/setts/s6/g2b22r2k21g23ly2~x2/"><circle cx="175.6" cy="199.3" r="4" fill="#3465a4"><title>Royal Ashburn Golf Club</title></circle></a><circle cx="200.8" cy="194.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/g3db12w1k12g13r2g2~x2/

@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/10312/
 
 ## Thread count
-DB/4 K2 G16 K20 Y20 K2 G10 K2 T20 DB20 K30 N/6
+N/6 K30 DB20 T20 K2 G10 K2 Y20 K20 G16 K2 DB/4
 ![Sett](sett.png)
 
 ## Palette
@@ -35,15 +35,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Esteba-Quer (Personal)](/setts/s14/g10r2g2r3g11lb2k10r2db12k1lo2r2lo2r2~x2/) — ΔT 0.87
 1. [Castlefield (Personal)](/setts/s12/lr3k15y10o10k1g5k1lo10k10g8k1y2~x2/) — ΔT 0.93
 1. [Esteba-Quer (Personal)](/setts/s15/g10r2g2r3g11lb2k10r2db12k1lo2r2lo2r2lo2~x2/) — ΔT 0.97
-1. [Hislop Hunting (Name)](/setts/s11/r2db8g9k2w3k1ly1k7ly2k8r2~x2/) — ΔT 1.03
-1. [Hislop/Hyslop Hunting #2](/setts/s11/r2db8dg9k2w3k1ly1k7ly2k8r2~x2/) — ΔT 1.05
-1. [Smith](/setts/s11/ly3k1g12k12db12t3db12k12g12k1r3~x2/) — ΔT 1.05
+1. [Hislop Hunting (Name)](/setts/s11/r2k8ly2k7ly1k1w3k2g9db8r2~x2/) — ΔT 1.03
+1. [Hislop/Hyslop Hunting #2](/setts/s11/r2k8ly2k7ly1k1w3k2dg9db8r2~x2/) — ΔT 1.05
+1. [Smith](/setts/s11/r3k1g12k12db12t3db12k12g12k1ly3~x2/) — ΔT 1.05
 1. [Stephenson](/setts/s11/k6g20t2r5t2k20ly3db20g26r3db5~x2/) — ΔT 1.08
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/lr3k15k10o10k1g5k1o10k10g8k1k2~x2/"><circle cx="121.9" cy="144.7" r="4" fill="#3465a4"><title>Blue Castlefield</title></circle></a><a href="/setts/s10/ly4ly3dg2k6dg4w1dg12k10dg2dg3~x2/"><circle cx="117.2" cy="158.7" r="4" fill="#3465a4"><title>Noble (South Africa) (Personal)</title></circle></a><a href="/setts/s10/ly4ly3dg2k6g4w1dg12k10g2dg3~x2/"><circle cx="118.3" cy="158.5" r="4" fill="#3465a4"><title>Noble (South Africa) (Personal)</title></circle></a><a href="/setts/s14/g10r2g2r3g11lb2k10r2db12k1lo2r2lo2r2~x2/"><circle cx="105.7" cy="124.3" r="4" fill="#3465a4"><title>Esteba-Quer (Personal)</title></circle></a><a href="/setts/s12/lr3k15y10o10k1g5k1lo10k10g8k1y2~x2/"><circle cx="110.6" cy="135.5" r="4" fill="#3465a4"><title>Castlefield (Personal)</title></circle></a><a href="/setts/s15/g10r2g2r3g11lb2k10r2db12k1lo2r2lo2r2lo2~x2/"><circle cx="97.6" cy="118.8" r="4" fill="#3465a4"><title>Esteba-Quer (Personal)</title></circle></a><a href="/setts/s11/r2db8g9k2w3k1ly1k7ly2k8r2~x2/"><circle cx="105.2" cy="154.9" r="4" fill="#3465a4"><title>Hislop Hunting (Name)</title></circle></a><a href="/setts/s11/r2db8dg9k2w3k1ly1k7ly2k8r2~x2/"><circle cx="110.4" cy="158.6" r="4" fill="#3465a4"><title>Hislop/Hyslop Hunting #2</title></circle></a><a href="/setts/s11/ly3k1g12k12db12t3db12k12g12k1r3~x2/"><circle cx="83.2" cy="159.9" r="4" fill="#3465a4"><title>Smith</title></circle></a><a href="/setts/s11/k6g20t2r5t2k20ly3db20g26r3db5~x2/"><circle cx="140.2" cy="137.3" r="4" fill="#3465a4"><title>Stephenson</title></circle></a><circle cx="107.6" cy="141.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/lr3k15k10o10k1g5k1o10k10g8k1k2~x2/"><circle cx="122.0" cy="144.8" r="4" fill="#3465a4"><title>Blue Castlefield</title></circle></a><a href="/setts/s10/ly4ly3dg2k6dg4w1dg12k10dg2dg3~x2/"><circle cx="117.3" cy="158.7" r="4" fill="#3465a4"><title>Noble (South Africa) (Personal)</title></circle></a><a href="/setts/s10/ly4ly3dg2k6g4w1dg12k10g2dg3~x2/"><circle cx="118.4" cy="158.6" r="4" fill="#3465a4"><title>Noble (South Africa) (Personal)</title></circle></a><a href="/setts/s14/g10r2g2r3g11lb2k10r2db12k1lo2r2lo2r2~x2/"><circle cx="105.8" cy="124.4" r="4" fill="#3465a4"><title>Esteba-Quer (Personal)</title></circle></a><a href="/setts/s12/lr3k15y10o10k1g5k1lo10k10g8k1y2~x2/"><circle cx="110.6" cy="135.6" r="4" fill="#3465a4"><title>Castlefield (Personal)</title></circle></a><a href="/setts/s15/g10r2g2r3g11lb2k10r2db12k1lo2r2lo2r2lo2~x2/"><circle cx="97.7" cy="118.9" r="4" fill="#3465a4"><title>Esteba-Quer (Personal)</title></circle></a><a href="/setts/s11/r2k8ly2k7ly1k1w3k2g9db8r2~x2/"><circle cx="105.3" cy="155.0" r="4" fill="#3465a4"><title>Hislop Hunting (Name)</title></circle></a><a href="/setts/s11/r2k8ly2k7ly1k1w3k2dg9db8r2~x2/"><circle cx="110.5" cy="158.7" r="4" fill="#3465a4"><title>Hislop/Hyslop Hunting #2</title></circle></a><a href="/setts/s11/r3k1g12k12db12t3db12k12g12k1ly3~x2/"><circle cx="83.4" cy="160.0" r="4" fill="#3465a4"><title>Smith</title></circle></a><a href="/setts/s11/k6g20t2r5t2k20ly3db20g26r3db5~x2/"><circle cx="140.2" cy="137.3" r="4" fill="#3465a4"><title>Stephenson</title></circle></a><circle cx="107.7" cy="141.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/lr3k15k10dy10k1g5k1ly10k10g8k1k2~x2/

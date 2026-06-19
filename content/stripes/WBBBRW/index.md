@@ -20,7 +20,7 @@ WBBBRW
 
 
 
-### LB DB N DT R LB <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB DB N DT R LB</span></span>
+### LB R DT N DB LB <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB R DT N DB LB</span></span>
 
 | Tartans |
 |---------------|

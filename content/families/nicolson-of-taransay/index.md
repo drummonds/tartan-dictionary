@@ -8,12 +8,12 @@ A family of [Clan Nicolson](/clan/nicolson/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s7/r11db3db8w3ly3g5k5~x4/"><img src="/setts/s7/r11db3db8w3ly3g5k5~x4/sett.png" alt="Nicolson of Taransay Hunting (Personal)" width="240"><br>Nicolson of Taransay Hunting (Personal)</a>
+<a class="tartan" href="/setts/s7/w6g10r22db16g2k4k5~x2/"><img src="/setts/s7/w6g10r22db16g2k4k5~x2/sett.png" alt="Nicolson of Taransay (Personal)" width="240"><br>Nicolson of Taransay (Personal)</a>
 
 ## Other tartans
 
 <ul class="tartan-grid">
 <li><a class="tartan" href="/setts/s7/w6g10r22db16g2g4g5~x2/"><img src="/setts/s7/w6g10r22db16g2g4g5~x2/sett.png" alt="Nicolson of Taransay (Personal)" width="140"><br>Nicolson of Taransay (Personal)</a></li>
-<li><a class="tartan" href="/setts/s7/w6g10r22db16g2k4k5~x2/"><img src="/setts/s7/w6g10r22db16g2k4k5~x2/sett.png" alt="Nicolson of Taransay (Personal)" width="140"><br>Nicolson of Taransay (Personal)</a></li>
+<li><a class="tartan" href="/setts/s7/r11db3db8w3ly3g5k5~x4/"><img src="/setts/s7/r11db3db8w3ly3g5k5~x4/sett.png" alt="Nicolson of Taransay Hunting (Personal)" width="140"><br>Nicolson of Taransay Hunting (Personal)</a></li>
 </ul>
 

@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacLeod, and MacNicol
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/2 R16 G2 R16 K8 B2 K4 R8 G32 R16 G2 R/16
+R/16 G2 R16 G32 R8 K4 B2 K8 R16 G2 R16 K/2
 ![Sett](sett.png)
 
 ## Palette
@@ -908,15 +917,15 @@ The nearest existing variants by ΔTartan distance.
 1. [MacKillop](/setts/s10/g4r4k2r20t1k7r2g10r3k2~x2/) — ΔT 1.09
 1. [Grant, Kilt](/setts/s15/r5k1r2k2r16t2r2k9r2g2r2g13r2k2r4~x2/) — ΔT 1.13
 1. [Unidentified No 3 #2](/setts/s15/r5k1r2k2r16t2r2k9r2dg2r2dg13r2k2r4~x2/) — ΔT 1.14
-1. [Cumming VS](/setts/s10/r4dg8lb1dg8r4dg4r2dg4r24k2/) — ΔT 1.15
+1. [Cumming VS](/setts/s10/r4dg8lb1dg8r4dg4r2dg4r24k2~x2/) — ΔT 1.15
 1. [MacQuarrie Ancient](/setts/s12/r2db1r10k4r2dg8r2dg8r7k1r2db1~x2/) — ΔT 1.16
 1. [MacNicol/Nicolson (Inverness Tweed Mill Co Ltd)](/setts/s11/r8g2r8k8db1k3r2g15r8k2r6~x4/) — ΔT 1.17
-1. [Morrison, Ancient](/setts/s10/g6w3g12r12k4r6k4r24g4r6/) — ΔT 1.18
+1. [Morrison, Ancient](/setts/s10/r6g4r24k4r6k4r12g12w3g6/) — ΔT 1.18
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r8dg1r8dg16r4k2t1k4r8dg1r8k1~x2/"><circle cx="333.8" cy="152.0" r="4" fill="#3465a4"><title>MacLeod and MacNicol</title></circle></a><a href="/setts/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/"><circle cx="259.1" cy="171.2" r="4" fill="#3465a4"><title>MacQuarrie, Ancient</title></circle></a><a href="/setts/s15/r6db2r3dg12r2dg2r2db4r2lb2r14db2r2db1r6~x2/"><circle cx="327.1" cy="141.9" r="4" fill="#3465a4"><title>Drummond of Megginch - Child's Kilt (c.1890)</title></circle></a><a href="/setts/s10/g4r4k2r20t1k7r2g10r3k2~x2/"><circle cx="293.1" cy="133.6" r="4" fill="#3465a4"><title>MacKillop</title></circle></a><a href="/setts/s15/r5k1r2k2r16t2r2k9r2g2r2g13r2k2r4~x2/"><circle cx="276.4" cy="123.2" r="4" fill="#3465a4"><title>Grant, Kilt</title></circle></a><a href="/setts/s15/r5k1r2k2r16t2r2k9r2dg2r2dg13r2k2r4~x2/"><circle cx="296.5" cy="128.1" r="4" fill="#3465a4"><title>Unidentified No 3 #2</title></circle></a><a href="/setts/s10/r4dg8lb1dg8r4dg4r2dg4r24k2/"><circle cx="372.6" cy="137.6" r="4" fill="#3465a4"><title>Cumming VS</title></circle></a><a href="/setts/s12/r2db1r10k4r2dg8r2dg8r7k1r2db1~x2/"><circle cx="276.3" cy="175.4" r="4" fill="#3465a4"><title>MacQuarrie Ancient</title></circle></a><a href="/setts/s11/r8g2r8k8db1k3r2g15r8k2r6~x4/"><circle cx="271.6" cy="174.7" r="4" fill="#3465a4"><title>MacNicol/Nicolson (Inverness Tweed Mill Co Ltd)</title></circle></a><a href="/setts/s10/g6w3g12r12k4r6k4r24g4r6/"><circle cx="288.3" cy="185.2" r="4" fill="#3465a4"><title>Morrison, Ancient</title></circle></a><circle cx="317.0" cy="148.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r8dg1r8dg16r4k2t1k4r8dg1r8k1~x2/"><circle cx="333.5" cy="151.9" r="4" fill="#3465a4"><title>MacLeod and MacNicol</title></circle></a><a href="/setts/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/"><circle cx="258.9" cy="171.1" r="4" fill="#3465a4"><title>MacQuarrie, Ancient</title></circle></a><a href="/setts/s15/r6db2r3dg12r2dg2r2db4r2lb2r14db2r2db1r6~x2/"><circle cx="326.8" cy="141.8" r="4" fill="#3465a4"><title>Drummond of Megginch - Child's Kilt (c.1890)</title></circle></a><a href="/setts/s10/g4r4k2r20t1k7r2g10r3k2~x2/"><circle cx="292.9" cy="133.4" r="4" fill="#3465a4"><title>MacKillop</title></circle></a><a href="/setts/s15/r5k1r2k2r16t2r2k9r2g2r2g13r2k2r4~x2/"><circle cx="276.1" cy="123.1" r="4" fill="#3465a4"><title>Grant, Kilt</title></circle></a><a href="/setts/s15/r5k1r2k2r16t2r2k9r2dg2r2dg13r2k2r4~x2/"><circle cx="296.1" cy="128.0" r="4" fill="#3465a4"><title>Unidentified No 3 #2</title></circle></a><a href="/setts/s10/r4dg8lb1dg8r4dg4r2dg4r24k2~x2/"><circle cx="372.2" cy="137.5" r="4" fill="#3465a4"><title>Cumming VS</title></circle></a><a href="/setts/s12/r2db1r10k4r2dg8r2dg8r7k1r2db1~x2/"><circle cx="276.1" cy="175.4" r="4" fill="#3465a4"><title>MacQuarrie Ancient</title></circle></a><a href="/setts/s11/r8g2r8k8db1k3r2g15r8k2r6~x4/"><circle cx="271.4" cy="174.6" r="4" fill="#3465a4"><title>MacNicol/Nicolson (Inverness Tweed Mill Co Ltd)</title></circle></a><a href="/setts/s10/r6g4r24k4r6k4r12g12w3g6/"><circle cx="288.0" cy="185.1" r="4" fill="#3465a4"><title>Morrison, Ancient</title></circle></a><circle cx="316.6" cy="148.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r8g1r8g16r4k2t1k4r8g1r8k1~x2/

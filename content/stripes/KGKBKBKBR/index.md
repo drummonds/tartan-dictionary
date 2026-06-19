@@ -23,8 +23,6 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Urquhart D](/setts/s9/r3db6k1db1k1db1k6dg9k2/)|
-|![Urquhart D example sett](/setts/s9/r3db6k1db1k1db1k6dg9k2/sett.png)|
 | [Urquhart D](/setts/s9/r3db6k1db1k1db1k6dg9k2~x2/)|
 |![Urquhart D example sett](/setts/s9/r3db6k1db1k1db1k6dg9k2~x2/sett.png)|
 

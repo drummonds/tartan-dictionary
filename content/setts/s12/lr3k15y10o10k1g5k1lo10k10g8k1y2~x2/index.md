@@ -2,7 +2,7 @@
 title: "Castlefield (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GKGKYKGKRGKY](/stripes/gkgkykgkrgky/) · **Stripes:** [Y K G K LO K G K O Y K LR](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">Y K G K LO K G K O Y K LR</span></span>
+**Bands:** [YKGRKGKYKGKG](/stripes/ykgrkgkykgkg/) · **Stripes:** [LR K Y O K G K LO K G K Y](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LR K Y O K G K LO K G K Y</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10154](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10154)
 
 ## Thread count
-N/4 K2 G16 K20 Y20 K2 G10 K2 LT20 N20 K30 Na/6
+Na/6 K30 N20 LT20 K2 G10 K2 Y20 K20 G16 K2 N/4
 ![Sett](sett.png)
 
 ## Palette
@@ -35,12 +35,12 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Blue Castlefield](/setts/s12/lr3k15k10o10k1g5k1o10k10g8k1k2~x2/) — ΔT 0.88
+1. [Blue Castlefield](/setts/s12/lr3k15k10o10k1g5k1o10k10g8k1k2~x2/) — ΔT 0.89
 1. [Blue Castlefield (Fashion)](/setts/s12/lr3k15k10dy10k1g5k1ly10k10g8k1k2~x2/) — ΔT 0.93
 1. [Castlefield (Personal)](/setts/s12/o3k15n10dy10k1g5k1lo10k10g8k1n2~x2/) — ΔT 1.00
 1. [Donegal County Crest (Fashion)](/setts/s13/k4dg10lo4dg10k4g20dg5k2lo6k2r10k2w4~x2/) — ΔT 1.04
 1. [Unnamed No 1](/setts/s11/r8t7k8ly2k1ly1g19k1r8t3r8~x2/) — ΔT 1.06
-1. [Redgate (Name)](/setts/s14/lg6r3lg11dy2lg3dy2lg3k10lb1k10g9r2g4r6~x2/) — ΔT 1.06
+1. [Redgate (Name)](/setts/s14/r6g4r2g9k10lb1k10lg3dy2lg3dy2lg11r3lg6~x2/) — ΔT 1.06
 1. [Teddy Bear 111th Anniversary](/setts/s11/n26k6ly32g14dy11k19w2dy16g11n19k2/) — ΔT 1.07
 1. [Wilson's, No 90](/setts/s12/r19t13k16ly3k3w5k3g32k2r15t5r15~x2/) — ΔT 1.08
 1. [Unidentified - C20th](/setts/s15/db2k2db8k8g12k1w2k1g12k8r3t3r14t2r2~x2/) — ΔT 1.10
@@ -48,8 +48,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/lr3k15k10o10k1g5k1o10k10g8k1k2~x2/"><circle cx="121.9" cy="144.7" r="4" fill="#3465a4"><title>Blue Castlefield</title></circle></a><a href="/setts/s12/lr3k15k10dy10k1g5k1ly10k10g8k1k2~x2/"><circle cx="107.6" cy="141.4" r="4" fill="#3465a4"><title>Blue Castlefield (Fashion)</title></circle></a><a href="/setts/s12/o3k15n10dy10k1g5k1lo10k10g8k1n2~x2/"><circle cx="136.5" cy="152.0" r="4" fill="#3465a4"><title>Castlefield (Personal)</title></circle></a><a href="/setts/s13/k4dg10lo4dg10k4g20dg5k2lo6k2r10k2w4~x2/"><circle cx="81.4" cy="151.6" r="4" fill="#3465a4"><title>Donegal County Crest (Fashion)</title></circle></a><a href="/setts/s11/r8t7k8ly2k1ly1g19k1r8t3r8~x2/"><circle cx="139.4" cy="110.4" r="4" fill="#3465a4"><title>Unnamed No 1</title></circle></a><a href="/setts/s14/lg6r3lg11dy2lg3dy2lg3k10lb1k10g9r2g4r6~x2/"><circle cx="76.5" cy="146.9" r="4" fill="#3465a4"><title>Redgate (Name)</title></circle></a><a href="/setts/s11/n26k6ly32g14dy11k19w2dy16g11n19k2/"><circle cx="83.4" cy="151.4" r="4" fill="#3465a4"><title>Teddy Bear 111th Anniversary</title></circle></a><a href="/setts/s12/r19t13k16ly3k3w5k3g32k2r15t5r15~x2/"><circle cx="123.2" cy="113.9" r="4" fill="#3465a4"><title>Wilson's, No 90</title></circle></a><a href="/setts/s15/db2k2db8k8g12k1w2k1g12k8r3t3r14t2r2~x2/"><circle cx="101.2" cy="123.2" r="4" fill="#3465a4"><title>Unidentified - C20th</title></circle></a><a href="/setts/s17/t8k4t8k20lo1g20r8w1r8w1r8g20lo1k20t8k4t4~x2/"><circle cx="129.8" cy="108.5" r="4" fill="#3465a4"><title>Cumming</title></circle></a><circle cx="110.6" cy="135.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/lr3k15k10o10k1g5k1o10k10g8k1k2~x2/"><circle cx="122.0" cy="144.8" r="4" fill="#3465a4"><title>Blue Castlefield</title></circle></a><a href="/setts/s12/lr3k15k10dy10k1g5k1ly10k10g8k1k2~x2/"><circle cx="107.7" cy="141.5" r="4" fill="#3465a4"><title>Blue Castlefield (Fashion)</title></circle></a><a href="/setts/s12/o3k15n10dy10k1g5k1lo10k10g8k1n2~x2/"><circle cx="136.5" cy="152.2" r="4" fill="#3465a4"><title>Castlefield (Personal)</title></circle></a><a href="/setts/s13/k4dg10lo4dg10k4g20dg5k2lo6k2r10k2w4~x2/"><circle cx="81.5" cy="151.8" r="4" fill="#3465a4"><title>Donegal County Crest (Fashion)</title></circle></a><a href="/setts/s11/r8t7k8ly2k1ly1g19k1r8t3r8~x2/"><circle cx="139.3" cy="110.4" r="4" fill="#3465a4"><title>Unnamed No 1</title></circle></a><a href="/setts/s14/r6g4r2g9k10lb1k10lg3dy2lg3dy2lg11r3lg6~x2/"><circle cx="76.6" cy="147.0" r="4" fill="#3465a4"><title>Redgate (Name)</title></circle></a><a href="/setts/s11/n26k6ly32g14dy11k19w2dy16g11n19k2/"><circle cx="83.4" cy="151.6" r="4" fill="#3465a4"><title>Teddy Bear 111th Anniversary</title></circle></a><a href="/setts/s12/r19t13k16ly3k3w5k3g32k2r15t5r15~x2/"><circle cx="123.1" cy="114.0" r="4" fill="#3465a4"><title>Wilson's, No 90</title></circle></a><a href="/setts/s15/db2k2db8k8g12k1w2k1g12k8r3t3r14t2r2~x2/"><circle cx="101.3" cy="123.4" r="4" fill="#3465a4"><title>Unidentified - C20th</title></circle></a><a href="/setts/s17/t8k4t8k20lo1g20r8w1r8w1r8g20lo1k20t8k4t4~x2/"><circle cx="129.8" cy="108.7" r="4" fill="#3465a4"><title>Cumming</title></circle></a><circle cx="110.6" cy="135.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/lr3k15y10o10k1g5k1lo10k10g8k1y2~x2/

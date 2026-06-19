@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6915
 
 ## Thread count
-LN/8 DB88 K20 R8 G8 R/16
+R/16 G8 R8 K20 DB88 LN/8
 ![Sett](sett.png)
 
 ## Palette
@@ -40,14 +40,14 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/8 DB88 K20 R8 G8 R/16 tartan")
+![Tartan detail](tartan.png "R/16 G8 R8 K20 DB88 LN/8 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Vance (Family Association)](/setts/s6/r4db24w2g13db2k3~x4/) — ΔT 0.97
-1. [Glasgow, University of](/setts/s8/db2w2k2lo2k7g4db22k2~x2/) — ΔT 1.04
+1. [Glasgow, University of](/setts/s8/k2db22g4k7lo2k2w2db2~x2/) — ΔT 1.04
 1. [Croy, Jake (Personal)](/setts/s8/n10k7lt2lb2k27b7lt2b7~x2/) — ΔT 1.14
 1. [City of Rome Pipe Band (Corporate)](/setts/s7/r12lo6k88db45k6db6ly6/) — ΔT 1.15
 1. [Burt #2 (Name)](/setts/s9/db8w2k8g12r2db3r2db24r2~x2/) — ΔT 1.18
@@ -59,8 +59,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r4db24w2g13db2k3~x4/"><circle cx="277.4" cy="178.7" r="4" fill="#3465a4"><title>Vance (Family Association)</title></circle></a><a href="/setts/s8/db2w2k2lo2k7g4db22k2~x2/"><circle cx="303.1" cy="166.3" r="4" fill="#3465a4"><title>Glasgow, University of</title></circle></a><a href="/setts/s8/n10k7lt2lb2k27b7lt2b7~x2/"><circle cx="266.9" cy="169.2" r="4" fill="#3465a4"><title>Croy, Jake (Personal)</title></circle></a><a href="/setts/s7/r12lo6k88db45k6db6ly6/"><circle cx="336.7" cy="167.3" r="4" fill="#3465a4"><title>City of Rome Pipe Band (Corporate)</title></circle></a><a href="/setts/s9/db8w2k8g12r2db3r2db24r2~x2/"><circle cx="288.0" cy="171.7" r="4" fill="#3465a4"><title>Burt #2 (Name)</title></circle></a><a href="/setts/s6/p5g8k5db32w2r2~x2/"><circle cx="318.5" cy="152.7" r="4" fill="#3465a4"><title>Marion (Personal)</title></circle></a><a href="/setts/s8/db1lo1db13lo3y3lo3r1lo1~x4/"><circle cx="306.8" cy="157.3" r="4" fill="#3465a4"><title>Glen Moray</title></circle></a><a href="/setts/s6/o11db1o3db1db9r1~x4/"><circle cx="329.3" cy="208.4" r="4" fill="#3465a4"><title>Dege, of Saville Row</title></circle></a><a href="/setts/s7/db20dy1db1dy1dg8k1w3~x2/"><circle cx="353.2" cy="144.8" r="4" fill="#3465a4"><title>Chestico</title></circle></a><a href="/setts/s7/k62db15dp15o20ly5db5k15~x2/"><circle cx="289.9" cy="185.9" r="4" fill="#3465a4"><title>Black Raven</title></circle></a><circle cx="322.5" cy="177.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r4db24w2g13db2k3~x4/"><circle cx="277.3" cy="178.6" r="4" fill="#3465a4"><title>Vance (Family Association)</title></circle></a><a href="/setts/s8/k2db22g4k7lo2k2w2db2~x2/"><circle cx="303.2" cy="166.3" r="4" fill="#3465a4"><title>Glasgow, University of</title></circle></a><a href="/setts/s8/n10k7lt2lb2k27b7lt2b7~x2/"><circle cx="267.0" cy="169.1" r="4" fill="#3465a4"><title>Croy, Jake (Personal)</title></circle></a><a href="/setts/s7/r12lo6k88db45k6db6ly6/"><circle cx="336.7" cy="167.2" r="4" fill="#3465a4"><title>City of Rome Pipe Band (Corporate)</title></circle></a><a href="/setts/s9/db8w2k8g12r2db3r2db24r2~x2/"><circle cx="288.0" cy="171.6" r="4" fill="#3465a4"><title>Burt #2 (Name)</title></circle></a><a href="/setts/s6/p5g8k5db32w2r2~x2/"><circle cx="318.5" cy="152.6" r="4" fill="#3465a4"><title>Marion (Personal)</title></circle></a><a href="/setts/s8/db1lo1db13lo3y3lo3r1lo1~x4/"><circle cx="306.7" cy="157.3" r="4" fill="#3465a4"><title>Glen Moray</title></circle></a><a href="/setts/s6/o11db1o3db1db9r1~x4/"><circle cx="329.2" cy="208.3" r="4" fill="#3465a4"><title>Dege, of Saville Row</title></circle></a><a href="/setts/s7/db20dy1db1dy1dg8k1w3~x2/"><circle cx="353.2" cy="144.6" r="4" fill="#3465a4"><title>Chestico</title></circle></a><a href="/setts/s7/k62db15dp15o20ly5db5k15~x2/"><circle cx="290.0" cy="185.8" r="4" fill="#3465a4"><title>Black Raven</title></circle></a><circle cx="322.4" cy="176.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r4g2r2k5dt22w2~x4/

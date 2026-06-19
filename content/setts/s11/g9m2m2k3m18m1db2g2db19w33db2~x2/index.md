@@ -2,7 +2,7 @@
 title: "Pride of Scotland Dress (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [BWBGBRRKRRG](/stripes/bwbgbrrkrrg/) · **Stripes:** [DB W DB G DB M M K M M G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB W DB G DB M M K M M G</span></span>
+**Bands:** [GRRKRRBGBWB](/stripes/grrkrrbgbwb/) · **Stripes:** [G M M K M M DB G DB W DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">G M M K M M DB G DB W DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6566
 
 ## Thread count
-DB/4 LN66 DB38 G4 DB4 R2 P36 K6 P4 R4 G/18
+G/18 R4 P4 K6 P36 R2 DB4 G4 DB38 LN66 DB/4
 ![Sett](sett.png)
 
 ## Palette
@@ -49,15 +49,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Salaberry-de-Valleyfield Traditional](/setts/s14/db20w3db4w3db4w3r22lg2k1lg2ly16w1k2w1~x2/) — ΔT 1.07
 1. [Rosslyn Chapel](/setts/s11/g12db1p4db30lo3w2lo3w2lo3w10r4~x2/) — ΔT 1.08
 1. [Scotland's Charity Air Ambulance](/setts/s9/w2b27k1g3k1n10k1r24w2~x2/) — ΔT 1.16
-1. [Cooper Dress (Dalgleish #2) (Dance)](/setts/s18/db2r4dy2w28db3w2db3k10r3db2r3g9db1k1db21r4db2dy2~x2/) — ΔT 1.20
+1. [Cooper Dress (Dalgleish #2) (Dance)](/setts/s18/dy2db2r4db21k1db1g9r3db2r3k10db3w2db3w28dy2r4db2~x2/) — ΔT 1.20
 1. [Xain (Personal)](/setts/s10/t63dp21w16dp2w4dp4w12o6w16k21~x2/) — ΔT 1.20
 1. [MacBeth Dress (Dance)](/setts/s10/w50k1dp14g14w2dp2w2k4ly2db30~x2/) — ΔT 1.22
 1. [S.O.B.H.D. (Corporate)](/setts/s8/r3w30db10k3dp15g2dp3g1~x2/) — ΔT 1.22
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k4lg9lb30k2lb4w5k2w2k1w2r7r15k3~x2/"><circle cx="164.0" cy="55.4" r="4" fill="#3465a4"><title>Un-named (USA Bedheads)</title></circle></a><a href="/setts/s11/g12db1dp4db30lo3w2lo3w2lo3w10r4~x2/"><circle cx="191.5" cy="72.4" r="4" fill="#3465a4"><title>Rosslyn Chapel</title></circle></a><a href="/setts/s11/t63dp21w16dp2w4dp4w12lo6w16dp4k21~x2/"><circle cx="188.4" cy="86.9" r="4" fill="#3465a4"><title>Xain (Personal)</title></circle></a><a href="/setts/s14/db20w3db4w3db4w3r22lg2k1lg2ly16w1k2w1~x2/"><circle cx="120.9" cy="51.9" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield Traditional</title></circle></a><a href="/setts/s11/g12db1p4db30lo3w2lo3w2lo3w10r4~x2/"><circle cx="196.0" cy="73.5" r="4" fill="#3465a4"><title>Rosslyn Chapel</title></circle></a><a href="/setts/s9/w2b27k1g3k1n10k1r24w2~x2/"><circle cx="205.4" cy="76.0" r="4" fill="#3465a4"><title>Scotland's Charity Air Ambulance</title></circle></a><a href="/setts/s18/db2r4dy2w28db3w2db3k10r3db2r3g9db1k1db21r4db2dy2~x2/"><circle cx="131.0" cy="37.3" r="4" fill="#3465a4"><title>Cooper Dress (Dalgleish #2) (Dance)</title></circle></a><a href="/setts/s10/t63dp21w16dp2w4dp4w12o6w16k21~x2/"><circle cx="188.9" cy="95.5" r="4" fill="#3465a4"><title>Xain (Personal)</title></circle></a><a href="/setts/s10/w50k1dp14g14w2dp2w2k4ly2db30~x2/"><circle cx="222.3" cy="43.3" r="4" fill="#3465a4"><title>MacBeth Dress (Dance)</title></circle></a><a href="/setts/s8/r3w30db10k3dp15g2dp3g1~x2/"><circle cx="204.7" cy="74.4" r="4" fill="#3465a4"><title>S.O.B.H.D. (Corporate)</title></circle></a><circle cx="163.6" cy="59.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k4lg9lb30k2lb4w5k2w2k1w2r7r15k3~x2/"><circle cx="163.7" cy="55.4" r="4" fill="#3465a4"><title>Un-named (USA Bedheads)</title></circle></a><a href="/setts/s11/g12db1dp4db30lo3w2lo3w2lo3w10r4~x2/"><circle cx="191.4" cy="72.4" r="4" fill="#3465a4"><title>Rosslyn Chapel</title></circle></a><a href="/setts/s11/t63dp21w16dp2w4dp4w12lo6w16dp4k21~x2/"><circle cx="188.2" cy="86.9" r="4" fill="#3465a4"><title>Xain (Personal)</title></circle></a><a href="/setts/s14/db20w3db4w3db4w3r22lg2k1lg2ly16w1k2w1~x2/"><circle cx="120.6" cy="52.0" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield Traditional</title></circle></a><a href="/setts/s11/g12db1p4db30lo3w2lo3w2lo3w10r4~x2/"><circle cx="195.8" cy="73.6" r="4" fill="#3465a4"><title>Rosslyn Chapel</title></circle></a><a href="/setts/s9/w2b27k1g3k1n10k1r24w2~x2/"><circle cx="205.2" cy="76.1" r="4" fill="#3465a4"><title>Scotland's Charity Air Ambulance</title></circle></a><a href="/setts/s18/dy2db2r4db21k1db1g9r3db2r3k10db3w2db3w28dy2r4db2~x2/"><circle cx="130.7" cy="37.4" r="4" fill="#3465a4"><title>Cooper Dress (Dalgleish #2) (Dance)</title></circle></a><a href="/setts/s10/t63dp21w16dp2w4dp4w12o6w16k21~x2/"><circle cx="188.7" cy="95.5" r="4" fill="#3465a4"><title>Xain (Personal)</title></circle></a><a href="/setts/s10/w50k1dp14g14w2dp2w2k4ly2db30~x2/"><circle cx="222.0" cy="43.3" r="4" fill="#3465a4"><title>MacBeth Dress (Dance)</title></circle></a><a href="/setts/s8/r3w30db10k3dp15g2dp3g1~x2/"><circle cx="204.4" cy="74.4" r="4" fill="#3465a4"><title>S.O.B.H.D. (Corporate)</title></circle></a><circle cx="163.4" cy="59.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/g9m2m2k3m18m1db2g2db19w33db2~x2/

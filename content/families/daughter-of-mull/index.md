@@ -8,5 +8,5 @@ A family of [Clan Daughter](/clan/daughter/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s5/m1lb1g1w1r1~x16/"><img src="/setts/s5/m1lb1g1w1r1~x16/sett.png" alt="Daughter of Mull" width="240"><br>Daughter of Mull</a>
+<a class="tartan" href="/setts/s5/r1w1g1lb1m1~x16/"><img src="/setts/s5/r1w1g1lb1m1~x16/sett.png" alt="Daughter of Mull" width="240"><br>Daughter of Mull</a>
 

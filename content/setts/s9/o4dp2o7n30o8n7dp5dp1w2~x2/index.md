@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/
 Original link http://www.tartansauthority.com/tartan-ferret/display/8016/
 
 ## Thread count
-LN/4 DP2 P10 N14 Na16 N60 Na14 DP4 Na/8
+Na/8 DP4 Na14 N60 Na16 N14 P10 DP2 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -31,18 +31,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Inchforth (Personal)](/setts/s9/o4dg2o7n30o8n7g5dg1w2~x2/) — ΔT 0.79
 1. [Toyokawa Check](/setts/s11/n36dr10lo2dr5g2dr5lo10n5lo2n10w2~x2/) — ΔT 1.16
 1. [Hickory](/setts/s10/db4y30do2y2do14w2do2w1do6y3~x2/) — ΔT 1.27
-1. [Burt #1 (Name)](/setts/s9/m2lg13b8lg3b33lo3b8lo13r2~x2/) — ΔT 1.31
+1. [Burt #1 (Name)](/setts/s9/r2lo13b8lo3b33lg3b8lg13m2~x2/) — ΔT 1.31
 1. [Titanium (Fashion)](/setts/s9/n44o8n8o22lb4o4lb11o2lb2~x2/) — ΔT 1.32
 1. [Haddrell (2013)](/setts/s7/r2b4y18n2y2n41w2~x2/) — ΔT 1.33
-1. [Dabney Grey (Personal)](/setts/s11/r2lr2r1lr24o1n3k3lr3o12lr4r1~x2/) — ΔT 1.35
+1. [Dabney Grey (Personal)](/setts/s11/r2lr2r1lr24o1n3k3lr3o12lr4r1~x2/) — ΔT 1.36
 1. [Chisholm hunting](/setts/s10/o6w1o24db6g2db1g2db1g12r1~x2/) — ΔT 1.36
 1. [Portree, Check](/setts/s12/y38db4y8o2y4w3y4m14n7y2n4w2~x2/) — ΔT 1.44
 1. [Royal Deeside (District)](/setts/s6/r4y2db4y35t27r3~x2/) — ΔT 1.52
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/o4dg2o7n30o8n7g5dg1w2~x2/"><circle cx="409.2" cy="160.6" r="4" fill="#3465a4"><title>Inchforth (Personal)</title></circle></a><a href="/setts/s11/n36dr10lo2dr5g2dr5lo10n5lo2n10w2~x2/"><circle cx="384.8" cy="157.8" r="4" fill="#3465a4"><title>Toyokawa Check</title></circle></a><a href="/setts/s10/db4y30do2y2do14w2do2w1do6y3~x2/"><circle cx="365.6" cy="133.7" r="4" fill="#3465a4"><title>Hickory</title></circle></a><a href="/setts/s9/m2lg13b8lg3b33lo3b8lo13r2~x2/"><circle cx="371.7" cy="183.7" r="4" fill="#3465a4"><title>Burt #1 (Name)</title></circle></a><a href="/setts/s9/n44o8n8o22lb4o4lb11o2lb2~x2/"><circle cx="379.8" cy="181.4" r="4" fill="#3465a4"><title>Titanium (Fashion)</title></circle></a><a href="/setts/s7/r2b4y18n2y2n41w2~x2/"><circle cx="460.3" cy="181.1" r="4" fill="#3465a4"><title>Haddrell (2013)</title></circle></a><a href="/setts/s11/r2lr2r1lr24o1n3k3lr3o12lr4r1~x2/"><circle cx="394.7" cy="130.0" r="4" fill="#3465a4"><title>Dabney Grey (Personal)</title></circle></a><a href="/setts/s10/o6w1o24db6g2db1g2db1g12r1~x2/"><circle cx="383.0" cy="151.9" r="4" fill="#3465a4"><title>Chisholm hunting</title></circle></a><a href="/setts/s12/y38db4y8o2y4w3y4m14n7y2n4w2~x2/"><circle cx="382.5" cy="126.8" r="4" fill="#3465a4"><title>Portree, Check</title></circle></a><a href="/setts/s6/r4y2db4y35t27r3~x2/"><circle cx="342.1" cy="186.8" r="4" fill="#3465a4"><title>Royal Deeside (District)</title></circle></a><circle cx="407.0" cy="154.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/o4dg2o7n30o8n7g5dg1w2~x2/"><circle cx="408.9" cy="160.7" r="4" fill="#3465a4"><title>Inchforth (Personal)</title></circle></a><a href="/setts/s11/n36dr10lo2dr5g2dr5lo10n5lo2n10w2~x2/"><circle cx="384.5" cy="157.9" r="4" fill="#3465a4"><title>Toyokawa Check</title></circle></a><a href="/setts/s10/db4y30do2y2do14w2do2w1do6y3~x2/"><circle cx="365.3" cy="133.8" r="4" fill="#3465a4"><title>Hickory</title></circle></a><a href="/setts/s9/r2lo13b8lo3b33lg3b8lg13m2~x2/"><circle cx="371.4" cy="183.7" r="4" fill="#3465a4"><title>Burt #1 (Name)</title></circle></a><a href="/setts/s9/n44o8n8o22lb4o4lb11o2lb2~x2/"><circle cx="379.5" cy="181.5" r="4" fill="#3465a4"><title>Titanium (Fashion)</title></circle></a><a href="/setts/s7/r2b4y18n2y2n41w2~x2/"><circle cx="459.9" cy="181.1" r="4" fill="#3465a4"><title>Haddrell (2013)</title></circle></a><a href="/setts/s11/r2lr2r1lr24o1n3k3lr3o12lr4r1~x2/"><circle cx="394.2" cy="130.0" r="4" fill="#3465a4"><title>Dabney Grey (Personal)</title></circle></a><a href="/setts/s10/o6w1o24db6g2db1g2db1g12r1~x2/"><circle cx="382.7" cy="152.0" r="4" fill="#3465a4"><title>Chisholm hunting</title></circle></a><a href="/setts/s12/y38db4y8o2y4w3y4m14n7y2n4w2~x2/"><circle cx="382.1" cy="126.9" r="4" fill="#3465a4"><title>Portree, Check</title></circle></a><a href="/setts/s6/r4y2db4y35t27r3~x2/"><circle cx="341.8" cy="186.8" r="4" fill="#3465a4"><title>Royal Deeside (District)</title></circle></a><circle cx="406.7" cy="154.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/o4dp2o7n30o8n7dp5dp1w2~x2/

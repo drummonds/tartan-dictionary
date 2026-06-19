@@ -2,12 +2,19 @@
 title: "Telfer, Jamie of the Fair Dodhead"
 date: 2023-03-18
 ---
-**Bands:** [BBBGBGRGBRY](/stripes/bbbgbgrgbry/) · **Stripes:** [B DB DP DG DP DG R DG DP R LO](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">B DB DP DG DP DG R DG DP R LO</span></span>
+**Bands:** [YRBGRGBGBBB](/stripes/yrbgrgbgbbb/) · **Stripes:** [LO R DP DG R DG DP DG DP DB B](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LO R DP DG R DG DP DG DP DB B</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10112
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Telfer, Jamie
+- Telfer, Jamie of the Fair Dodhead
 
 ## Attestations
 
@@ -24,7 +31,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10112](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10112)
 
 ## Thread count
-B/4 DB20 N24 DG8 N4 DG48 DR4 DG8 N4 DR20 DY/4
+DY/4 DR20 N4 DG8 DR4 DG48 N4 DG8 N24 DB20 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -56,8 +63,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/n10r3n32y12k5y2k4y2k17o4k2lr2~x2/"><circle cx="259.7" cy="142.9" r="4" fill="#3465a4"><title>Scottish Spirit Fashion Tartan Tartan Number: 10970. Earliest known date: 2013 ACS Clothing. Designed by Lochcarron. Wanted 'Highland Spirit' but that was taken by Ian McLure of T J Matthews. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/do24g5n2k14dr2k3g3k3n14do6k4do3g2~x2/"><circle cx="252.4" cy="185.3" r="4" fill="#3465a4"><title>Berwick (Fashion)</title></circle></a><a href="/setts/s14/dy3ly3dy12ly1k1db12k1db12k1dg12k1dy12t3db2~x2/"><circle cx="192.2" cy="161.9" r="4" fill="#3465a4"><title>Balmaha</title></circle></a><a href="/setts/s13/dg12k1r2k1dg12y2k12ly1k12y2dt12k3dt12~x2/"><circle cx="194.6" cy="181.7" r="4" fill="#3465a4"><title>Greg Wells (Personal)</title></circle></a><a href="/setts/s8/dg5g2db2db15r2lg2dg5r2~x4/"><circle cx="222.3" cy="201.8" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><a href="/setts/s10/o7dg20y2dg4k5db4k2db20k3w1~x2/"><circle cx="252.9" cy="169.5" r="4" fill="#3465a4"><title>McMeeken</title></circle></a><a href="/setts/s11/o3dp5r2dp9y8dg2y4dg2n8db28o2~x2/"><circle cx="200.2" cy="138.4" r="4" fill="#3465a4"><title>Glenisla (Fashion)</title></circle></a><a href="/setts/s10/do6o4n22r4k22do22k2r5k2do6~x2/"><circle cx="236.1" cy="205.9" r="4" fill="#3465a4"><title>Lochaber (Ingles Buchan)</title></circle></a><a href="/setts/s12/dg1k8n5k23n5db3n5dp3n5dg5n3w1~x2/"><circle cx="297.1" cy="147.1" r="4" fill="#3465a4"><title>Hand, Edinburgh</title></circle></a><a href="/setts/s8/k4w1dg12k3db16r1db1r1~x2/"><circle cx="263.3" cy="163.4" r="4" fill="#3465a4"><title>Purves (2014)</title></circle></a><circle cx="248.0" cy="174.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/n10r3n32y12k5y2k4y2k17o4k2lr2~x2/"><circle cx="259.7" cy="143.1" r="4" fill="#3465a4"><title>Scottish Spirit Fashion Tartan Tartan Number: 10970. Earliest known date: 2013 ACS Clothing. Designed by Lochcarron. Wanted 'Highland Spirit' but that was taken by Ian McLure of T J Matthews. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/do24g5n2k14dr2k3g3k3n14do6k4do3g2~x2/"><circle cx="252.4" cy="185.6" r="4" fill="#3465a4"><title>Berwick (Fashion)</title></circle></a><a href="/setts/s14/dy3ly3dy12ly1k1db12k1db12k1dg12k1dy12t3db2~x2/"><circle cx="192.2" cy="162.2" r="4" fill="#3465a4"><title>Balmaha</title></circle></a><a href="/setts/s13/dg12k1r2k1dg12y2k12ly1k12y2dt12k3dt12~x2/"><circle cx="194.7" cy="182.0" r="4" fill="#3465a4"><title>Greg Wells (Personal)</title></circle></a><a href="/setts/s8/dg5g2db2db15r2lg2dg5r2~x4/"><circle cx="222.5" cy="202.0" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><a href="/setts/s10/o7dg20y2dg4k5db4k2db20k3w1~x2/"><circle cx="253.0" cy="169.8" r="4" fill="#3465a4"><title>McMeeken</title></circle></a><a href="/setts/s11/o3dp5r2dp9y8dg2y4dg2n8db28o2~x2/"><circle cx="200.3" cy="138.7" r="4" fill="#3465a4"><title>Glenisla (Fashion)</title></circle></a><a href="/setts/s10/do6o4n22r4k22do22k2r5k2do6~x2/"><circle cx="236.1" cy="206.2" r="4" fill="#3465a4"><title>Lochaber (Ingles Buchan)</title></circle></a><a href="/setts/s12/dg1k8n5k23n5db3n5dp3n5dg5n3w1~x2/"><circle cx="297.1" cy="147.3" r="4" fill="#3465a4"><title>Hand, Edinburgh</title></circle></a><a href="/setts/s8/k4w1dg12k3db16r1db1r1~x2/"><circle cx="263.4" cy="163.6" r="4" fill="#3465a4"><title>Purves (2014)</title></circle></a><circle cx="248.0" cy="174.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/b1db5dp6dg2dp1dg12r1dg2dp1r5lo1~x4/

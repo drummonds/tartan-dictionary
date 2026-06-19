@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 3259
 
 ## Thread count
-LN/6 LB4 Y4 LB40 K12 DB50 R/6
+R/6 DB50 K12 LB40 Y4 LB4 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -42,7 +42,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/6 LB4 Y4 LB40 K12 DB50 R/6 tartan")
+![Tartan detail](tartan.png "R/6 DB50 K12 LB40 Y4 LB4 LN/6 tartan")
 
 ## Nearest tartans
 
@@ -51,7 +51,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Hodgkinson](/setts/s8/t5ly5db12g1db1r1db1w2~x4/) — ΔT 0.94
 1. [Curd (2013)](/setts/s8/db1t9w3ly3db9ly1g1r1~x4/) — ΔT 0.96
 1. [Dignan School of Dancing](/setts/s7/lo4r2b32k10dp4lb21dp2~x2/) — ΔT 0.98
-1. [Loch Ness (Fashion)](/setts/s7/lb2k17lg11t21r2t2r2~x2/) — ΔT 1.01
+1. [Loch Ness (Fashion)](/setts/s7/r2t2r2t21lg11k17lb2~x2/) — ΔT 1.01
 1. [Yorkshire, C.C.C.](/setts/s8/t5ly5db12g1db1r1db1w2~x2/) — ΔT 1.03
 1. [Arran (Pendleton)](/setts/s8/t12k1t1k1t1db8w9y2~x4/) — ΔT 1.03
 1. [Unidentified (Woven sample)](/setts/s8/k16w6k4b64m19k8g42ly6/) — ΔT 1.03
@@ -61,8 +61,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/t5ly5db12g1db1r1db1w2~x4/"><circle cx="203.3" cy="131.8" r="4" fill="#3465a4"><title>Hodgkinson</title></circle></a><a href="/setts/s8/db1t9w3ly3db9ly1g1r1~x4/"><circle cx="109.4" cy="143.5" r="4" fill="#3465a4"><title>Curd (2013)</title></circle></a><a href="/setts/s7/lo4r2b32k10dp4lb21dp2~x2/"><circle cx="178.3" cy="128.5" r="4" fill="#3465a4"><title>Dignan School of Dancing</title></circle></a><a href="/setts/s7/lb2k17lg11t21r2t2r2~x2/"><circle cx="169.5" cy="170.4" r="4" fill="#3465a4"><title>Loch Ness (Fashion)</title></circle></a><a href="/setts/s8/t5ly5db12g1db1r1db1w2~x2/"><circle cx="210.8" cy="135.4" r="4" fill="#3465a4"><title>Yorkshire, C.C.C.</title></circle></a><a href="/setts/s8/t12k1t1k1t1db8w9y2~x4/"><circle cx="158.4" cy="148.1" r="4" fill="#3465a4"><title>Arran (Pendleton)</title></circle></a><a href="/setts/s8/k16w6k4b64m19k8g42ly6/"><circle cx="161.8" cy="135.5" r="4" fill="#3465a4"><title>Unidentified (Woven sample)</title></circle></a><a href="/setts/s9/dp4k2w3k2db30g9k4w20ly3~x2/"><circle cx="142.8" cy="105.8" r="4" fill="#3465a4"><title>Minnesota Dress</title></circle></a><a href="/setts/s9/db4w3db17lb10k1dp5k1lb6dg3~x2/"><circle cx="169.8" cy="127.5" r="4" fill="#3465a4"><title>Queen Margaret University</title></circle></a><a href="/setts/s8/r3lr25db6db3r2t5db18w3~x2/"><circle cx="153.3" cy="133.5" r="4" fill="#3465a4"><title>Fulbright Foundation</title></circle></a><circle cx="172.0" cy="140.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/t5ly5db12g1db1r1db1w2~x4/"><circle cx="203.2" cy="131.8" r="4" fill="#3465a4"><title>Hodgkinson</title></circle></a><a href="/setts/s8/db1t9w3ly3db9ly1g1r1~x4/"><circle cx="109.3" cy="143.5" r="4" fill="#3465a4"><title>Curd (2013)</title></circle></a><a href="/setts/s7/lo4r2b32k10dp4lb21dp2~x2/"><circle cx="178.3" cy="128.5" r="4" fill="#3465a4"><title>Dignan School of Dancing</title></circle></a><a href="/setts/s7/r2t2r2t21lg11k17lb2~x2/"><circle cx="169.5" cy="170.4" r="4" fill="#3465a4"><title>Loch Ness (Fashion)</title></circle></a><a href="/setts/s8/t5ly5db12g1db1r1db1w2~x2/"><circle cx="210.7" cy="135.4" r="4" fill="#3465a4"><title>Yorkshire, C.C.C.</title></circle></a><a href="/setts/s8/t12k1t1k1t1db8w9y2~x4/"><circle cx="158.3" cy="148.0" r="4" fill="#3465a4"><title>Arran (Pendleton)</title></circle></a><a href="/setts/s8/k16w6k4b64m19k8g42ly6/"><circle cx="161.8" cy="135.5" r="4" fill="#3465a4"><title>Unidentified (Woven sample)</title></circle></a><a href="/setts/s9/dp4k2w3k2db30g9k4w20ly3~x2/"><circle cx="142.7" cy="105.8" r="4" fill="#3465a4"><title>Minnesota Dress</title></circle></a><a href="/setts/s9/db4w3db17lb10k1dp5k1lb6dg3~x2/"><circle cx="169.7" cy="127.5" r="4" fill="#3465a4"><title>Queen Margaret University</title></circle></a><a href="/setts/s8/r3lr25db6db3r2t5db18w3~x2/"><circle cx="153.2" cy="133.5" r="4" fill="#3465a4"><title>Fulbright Foundation</title></circle></a><circle cx="172.0" cy="140.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r3dt25k6lb20ly2lb2w3~x2/

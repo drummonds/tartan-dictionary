@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/4 R6 G30 B4 DR6 B4 DR10 B4 DR6 Y8 DR/12
+DR/12 Y8 DR6 B4 DR10 B4 DR6 B4 G30 R6 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -907,17 +910,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Dorcas Check](/setts/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/) — ΔT 0.73
 1. [Leitrim County, Crest Range](/setts/s10/o10k24o5k13o24k5dg52k5db18w8/) — ΔT 0.91
 1. [Maguire](/setts/s13/g18r18k3r3db3r3db4r3k9r4g18w6k3~x2/) — ΔT 0.93
-1. [Clare](/setts/s11/ly3db2g14db2m14db2m14db2g14db14m3~x2/) — ΔT 0.96
+1. [Clare](/setts/s11/m3db14g14db2m14db2m14db2g14db2ly3~x2/) — ΔT 0.96
 1. [Anderson 10](/setts/s14/k3r7k4o7r3o7k4g3k3g19k2g2k2r3~x2/) — ΔT 1.02
 1. [Sikh](/setts/s8/o56k12o7k12o7g50db50ly10/) — ΔT 1.03
 1. [California Firefighters (Corporate)](/setts/s12/o4k2r2k1r1k1r2db3o1dg4o9dg1~x4/) — ΔT 1.03
 1. [Dorcas, Check](/setts/s12/o4w2o2w3o18k6g3k2g2k2g14lo3~x2/) — ΔT 1.04
-1. [Stirling & Bannockburn (District)](/setts/s10/ly3g2lg18r3k13r4lg3r4g18r3~x2/) — ΔT 1.06
+1. [Stirling & Bannockburn (District)](/setts/s10/r3g18r4lg3r4k13r3lg18g2ly3~x2/) — ΔT 1.06
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/o9k2o2r2g6k1ly1k1g6r3~x2/"><circle cx="147.0" cy="174.9" r="4" fill="#3465a4"><title>MacAart</title></circle></a><a href="/setts/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/"><circle cx="171.8" cy="155.1" r="4" fill="#3465a4"><title>Dorcas Check</title></circle></a><a href="/setts/s10/o10k24o5k13o24k5dg52k5db18w8/"><circle cx="124.6" cy="166.4" r="4" fill="#3465a4"><title>Leitrim County, Crest Range</title></circle></a><a href="/setts/s13/g18r18k3r3db3r3db4r3k9r4g18w6k3~x2/"><circle cx="130.4" cy="166.3" r="4" fill="#3465a4"><title>Maguire</title></circle></a><a href="/setts/s11/ly3db2g14db2m14db2m14db2g14db14m3~x2/"><circle cx="122.1" cy="181.3" r="4" fill="#3465a4"><title>Clare</title></circle></a><a href="/setts/s14/k3r7k4o7r3o7k4g3k3g19k2g2k2r3~x2/"><circle cx="118.4" cy="149.1" r="4" fill="#3465a4"><title>Anderson 10</title></circle></a><a href="/setts/s8/o56k12o7k12o7g50db50ly10/"><circle cx="142.6" cy="188.5" r="4" fill="#3465a4"><title>Sikh</title></circle></a><a href="/setts/s12/o4k2r2k1r1k1r2db3o1dg4o9dg1~x4/"><circle cx="174.3" cy="157.4" r="4" fill="#3465a4"><title>California Firefighters (Corporate)</title></circle></a><a href="/setts/s12/o4w2o2w3o18k6g3k2g2k2g14lo3~x2/"><circle cx="150.6" cy="143.3" r="4" fill="#3465a4"><title>Dorcas, Check</title></circle></a><a href="/setts/s10/ly3g2lg18r3k13r4lg3r4g18r3~x2/"><circle cx="107.0" cy="162.4" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn (District)</title></circle></a><circle cx="141.2" cy="174.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/o9k2o2r2g6k1ly1k1g6r3~x2/"><circle cx="147.0" cy="175.0" r="4" fill="#3465a4"><title>MacAart</title></circle></a><a href="/setts/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/"><circle cx="171.7" cy="155.1" r="4" fill="#3465a4"><title>Dorcas Check</title></circle></a><a href="/setts/s10/o10k24o5k13o24k5dg52k5db18w8/"><circle cx="124.7" cy="166.5" r="4" fill="#3465a4"><title>Leitrim County, Crest Range</title></circle></a><a href="/setts/s13/g18r18k3r3db3r3db4r3k9r4g18w6k3~x2/"><circle cx="130.4" cy="166.3" r="4" fill="#3465a4"><title>Maguire</title></circle></a><a href="/setts/s11/m3db14g14db2m14db2m14db2g14db2ly3~x2/"><circle cx="122.1" cy="181.4" r="4" fill="#3465a4"><title>Clare</title></circle></a><a href="/setts/s14/k3r7k4o7r3o7k4g3k3g19k2g2k2r3~x2/"><circle cx="118.5" cy="149.2" r="4" fill="#3465a4"><title>Anderson 10</title></circle></a><a href="/setts/s8/o56k12o7k12o7g50db50ly10/"><circle cx="142.6" cy="188.6" r="4" fill="#3465a4"><title>Sikh</title></circle></a><a href="/setts/s12/o4k2r2k1r1k1r2db3o1dg4o9dg1~x4/"><circle cx="174.2" cy="157.4" r="4" fill="#3465a4"><title>California Firefighters (Corporate)</title></circle></a><a href="/setts/s12/o4w2o2w3o18k6g3k2g2k2g14lo3~x2/"><circle cx="150.5" cy="143.3" r="4" fill="#3465a4"><title>Dorcas, Check</title></circle></a><a href="/setts/s10/r3g18r4lg3r4k13r3lg18g2ly3~x2/"><circle cx="106.9" cy="162.4" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn (District)</title></circle></a><circle cx="141.2" cy="174.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/dr6ly4dr3db2dr5db2dr3db2g15r3db2~x2/

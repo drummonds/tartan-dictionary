@@ -2,7 +2,7 @@
 title: "Confederate Cavalry (Military)"
 date: 2023-03-18
 ---
-**Bands:** [GGGGGY](/stripes/gggggy/) · **Stripes:** [DG Y DG Y DG LO](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DG Y DG Y DG LO</span></span>
+**Bands:** [YGGGGG](/stripes/yggggg/) · **Stripes:** [LO DG Y DG Y DG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="seq">LO DG Y DG Y DG</span></span>
 
 
 This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4567
 
 ## Thread count
-DG/4 LT28 DG16 LT6 DG24 DY/4
+DY/4 DG24 LT6 DG16 LT28 DG/4
 ![Sett](sett.png)
 
 ## Palette
@@ -38,14 +38,14 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DG/4 LT28 DG16 LT6 DG24 DY/4 tartan")
+![Tartan detail](tartan.png "DY/4 DG24 LT6 DG16 LT28 DG/4 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Confederate Artillery](/setts/s6/dg2o14dg8o3dg12r2~x2/) — ΔT 0.75
-1. [Confederate Infantry](/setts/s6/db2dg12o3dg8o14dg2~x2/) — ΔT 0.91
+1. [Confederate Infantry](/setts/s6/dg2o14dg8o3dg12db2~x2/) — ΔT 0.91
 1. [Romsdal](/setts/s5/g22dt5r4dt5r3~x2/) — ΔT 1.04
 1. [MacArthur-Fox (Personal)](/setts/s5/k8g3k4g20r4~x2/) — ΔT 1.06
 1. [Skene Clan Tartan Tartan Number: 516. Earliest known date: 1886 Smith No 53 has ROSE in place of RED. Grant's version is similar to the sample named Skene in the 1830 pattern book of Wilson's of Bannockburn. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/db6r3g2r3g12r3g2~x2/) — ΔT 1.18
@@ -57,8 +57,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dg2o14dg8o3dg12r2~x2/"><circle cx="320.4" cy="263.1" r="4" fill="#3465a4"><title>Confederate Artillery</title></circle></a><a href="/setts/s6/db2dg12o3dg8o14dg2~x2/"><circle cx="313.8" cy="262.2" r="4" fill="#3465a4"><title>Confederate Infantry</title></circle></a><a href="/setts/s5/g22dt5r4dt5r3~x2/"><circle cx="342.1" cy="256.7" r="4" fill="#3465a4"><title>Romsdal</title></circle></a><a href="/setts/s5/k8g3k4g20r4~x2/"><circle cx="356.0" cy="278.0" r="4" fill="#3465a4"><title>MacArthur-Fox (Personal)</title></circle></a><a href="/setts/s7/db6r3g2r3g12r3g2~x2/"><circle cx="284.1" cy="253.4" r="4" fill="#3465a4"><title>Skene Clan Tartan Tartan Number: 516. Earliest known date: 1886 Smith No 53 has ROSE in place of RED. Grant's version is similar to the sample named Skene in the 1830 pattern book of Wilson's of Bannockburn. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dg16ly3dg14r16dg2r2dg3~x2/"><circle cx="406.6" cy="262.5" r="4" fill="#3465a4"><title>Scott Autumn (Fashion)</title></circle></a><a href="/setts/s7/db6r15g41r15db20g41t6/"><circle cx="284.4" cy="246.6" r="4" fill="#3465a4"><title>Bean Hunting</title></circle></a><a href="/setts/s5/g10db2r8lo2g5~x4/"><circle cx="279.7" cy="282.5" r="4" fill="#3465a4"><title>Cub Scouts of America</title></circle></a><a href="/setts/s7/db5dg8k1ly2k1dg8db4~x4/"><circle cx="295.5" cy="252.1" r="4" fill="#3465a4"><title>Salvation Army Htg (Corporate)</title></circle></a><a href="/setts/s4/r2g9r2t2~x4/"><circle cx="343.9" cy="288.4" r="4" fill="#3465a4"><title>Wilson's No.212</title></circle></a><circle cx="337.1" cy="274.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dg2o14dg8o3dg12r2~x2/"><circle cx="320.3" cy="262.9" r="4" fill="#3465a4"><title>Confederate Artillery</title></circle></a><a href="/setts/s6/dg2o14dg8o3dg12db2~x2/"><circle cx="313.8" cy="262.0" r="4" fill="#3465a4"><title>Confederate Infantry</title></circle></a><a href="/setts/s5/g22dt5r4dt5r3~x2/"><circle cx="342.0" cy="256.5" r="4" fill="#3465a4"><title>Romsdal</title></circle></a><a href="/setts/s5/k8g3k4g20r4~x2/"><circle cx="355.9" cy="277.8" r="4" fill="#3465a4"><title>MacArthur-Fox (Personal)</title></circle></a><a href="/setts/s7/db6r3g2r3g12r3g2~x2/"><circle cx="284.0" cy="253.3" r="4" fill="#3465a4"><title>Skene Clan Tartan Tartan Number: 516. Earliest known date: 1886 Smith No 53 has ROSE in place of RED. Grant's version is similar to the sample named Skene in the 1830 pattern book of Wilson's of Bannockburn. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dg16ly3dg14r16dg2r2dg3~x2/"><circle cx="406.4" cy="262.3" r="4" fill="#3465a4"><title>Scott Autumn (Fashion)</title></circle></a><a href="/setts/s7/db6r15g41r15db20g41t6/"><circle cx="284.3" cy="246.5" r="4" fill="#3465a4"><title>Bean Hunting</title></circle></a><a href="/setts/s5/g10db2r8lo2g5~x4/"><circle cx="279.6" cy="282.4" r="4" fill="#3465a4"><title>Cub Scouts of America</title></circle></a><a href="/setts/s7/db5dg8k1ly2k1dg8db4~x4/"><circle cx="295.5" cy="252.0" r="4" fill="#3465a4"><title>Salvation Army Htg (Corporate)</title></circle></a><a href="/setts/s4/r2g9r2t2~x4/"><circle cx="343.7" cy="288.2" r="4" fill="#3465a4"><title>Wilson's No.212</title></circle></a><circle cx="337.0" cy="273.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/dg2y14dg8y3dg12lo2~x2/

@@ -2,7 +2,7 @@
 title: "Gordonstoun"
 date: 2023-03-18
 ---
-**Bands:** [BKRKRGRBBRGY](/stripes/bkrkrgrbbrgy/) · **Stripes:** [T K R K R G R T DB R G LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">T K R K R G R T DB R G LY</span></span>
+**Bands:** [YGRBBRGRKRKB](/stripes/ygrbbrgrkrkb/) · **Stripes:** [LY G R DB T R G R K R K T](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY G R DB T R G R K R K T</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-Ba/6 K6 DR6 K40 DR6 G22 DR22 Ba6 B22 DR6 G40 Y/8
+Y/8 G40 DR6 B22 Ba6 DR22 G22 DR6 K40 DR6 K6 Ba/6
 ![Sett](sett.png)
 
 ## Palette
@@ -904,21 +907,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Bowie (white lines) (Name)](/setts/s13/db8r2db3r4db13w2y13w2dg13r4dg4lo2dg8~x2/) — ΔT 0.69
+1. [Bowie (white lines) (Name)](/setts/s13/dg8lo2dg4r4dg13w2y13w2db13r4db3r2db8~x2/) — ΔT 0.69
 1. [Farquharson Dress (Fashion)](/setts/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1r2~x2/) — ΔT 0.75
 1. [Farquharson Dress](/setts/s13/w6k1w1k1w1k8g8lo2g8k8db8k1r2~x2/) — ΔT 0.81
-1. [Stirling, and Bannockburn](/setts/s10/ly3g2db18r3k13r4t3r4g18r3~x2/) — ΔT 0.81
-1. [Hislop Hunting (Name)](/setts/s11/r2db8g9k2w3k1ly1k7ly2k8r2~x2/) — ΔT 0.89
+1. [Stirling, and Bannockburn](/setts/s10/r3g18r4t3r4k13r3db18g2ly3~x2/) — ΔT 0.81
+1. [Hislop Hunting (Name)](/setts/s11/r2k8ly2k7ly1k1w3k2g9db8r2~x2/) — ΔT 0.89
 1. [Paisley](/setts/s12/db7w2g3db18ly2k15ly2g17r5g3r2g7~x2/) — ΔT 0.89
 1. [Unnamed 4](/setts/s10/k6g14t2r3t2k16ly2b16g16r3~x2/) — ΔT 0.93
 1. [Watt (Personal)](/setts/s13/db9k2w4db4lo2k10g12k3g12k8r11k2lo4~x2/) — ΔT 0.98
 1. [Comyn, Cumming](/setts/s9/r4w1r4g10ly1k10t4k2t4~x4/) — ΔT 1.00
-1. [Hislop/Hyslop Hunting #2](/setts/s11/r2db8dg9k2w3k1ly1k7ly2k8r2~x2/) — ΔT 1.00
+1. [Hislop/Hyslop Hunting #2](/setts/s11/r2k8ly2k7ly1k1w3k2dg9db8r2~x2/) — ΔT 1.00
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db8r2db3r4db13w2y13w2dg13r4dg4lo2dg8~x2/"><circle cx="69.5" cy="163.9" r="4" fill="#3465a4"><title>Bowie (white lines) (Name)</title></circle></a><a href="/setts/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1r2~x2/"><circle cx="86.1" cy="155.3" r="4" fill="#3465a4"><title>Farquharson Dress (Fashion)</title></circle></a><a href="/setts/s13/w6k1w1k1w1k8g8lo2g8k8db8k1r2~x2/"><circle cx="70.3" cy="146.2" r="4" fill="#3465a4"><title>Farquharson Dress</title></circle></a><a href="/setts/s10/ly3g2db18r3k13r4t3r4g18r3~x2/"><circle cx="71.2" cy="145.0" r="4" fill="#3465a4"><title>Stirling, and Bannockburn</title></circle></a><a href="/setts/s11/r2db8g9k2w3k1ly1k7ly2k8r2~x2/"><circle cx="105.2" cy="154.9" r="4" fill="#3465a4"><title>Hislop Hunting (Name)</title></circle></a><a href="/setts/s12/db7w2g3db18ly2k15ly2g17r5g3r2g7~x2/"><circle cx="102.0" cy="143.0" r="4" fill="#3465a4"><title>Paisley</title></circle></a><a href="/setts/s10/k6g14t2r3t2k16ly2b16g16r3~x2/"><circle cx="92.0" cy="157.3" r="4" fill="#3465a4"><title>Unnamed 4</title></circle></a><a href="/setts/s13/db9k2w4db4lo2k10g12k3g12k8r11k2lo4~x2/"><circle cx="42.5" cy="178.5" r="4" fill="#3465a4"><title>Watt (Personal)</title></circle></a><a href="/setts/s9/r4w1r4g10ly1k10t4k2t4~x4/"><circle cx="64.8" cy="154.5" r="4" fill="#3465a4"><title>Comyn, Cumming</title></circle></a><a href="/setts/s11/r2db8dg9k2w3k1ly1k7ly2k8r2~x2/"><circle cx="110.4" cy="158.6" r="4" fill="#3465a4"><title>Hislop/Hyslop Hunting #2</title></circle></a><circle cx="65.4" cy="155.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dg8lo2dg4r4dg13w2y13w2db13r4db3r2db8~x2/"><circle cx="69.6" cy="164.1" r="4" fill="#3465a4"><title>Bowie (white lines) (Name)</title></circle></a><a href="/setts/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1r2~x2/"><circle cx="86.3" cy="155.4" r="4" fill="#3465a4"><title>Farquharson Dress (Fashion)</title></circle></a><a href="/setts/s13/w6k1w1k1w1k8g8lo2g8k8db8k1r2~x2/"><circle cx="70.4" cy="146.3" r="4" fill="#3465a4"><title>Farquharson Dress</title></circle></a><a href="/setts/s10/r3g18r4t3r4k13r3db18g2ly3~x2/"><circle cx="71.3" cy="145.1" r="4" fill="#3465a4"><title>Stirling, and Bannockburn</title></circle></a><a href="/setts/s11/r2k8ly2k7ly1k1w3k2g9db8r2~x2/"><circle cx="105.3" cy="155.0" r="4" fill="#3465a4"><title>Hislop Hunting (Name)</title></circle></a><a href="/setts/s12/db7w2g3db18ly2k15ly2g17r5g3r2g7~x2/"><circle cx="102.1" cy="143.1" r="4" fill="#3465a4"><title>Paisley</title></circle></a><a href="/setts/s10/k6g14t2r3t2k16ly2b16g16r3~x2/"><circle cx="92.1" cy="157.3" r="4" fill="#3465a4"><title>Unnamed 4</title></circle></a><a href="/setts/s13/db9k2w4db4lo2k10g12k3g12k8r11k2lo4~x2/"><circle cx="42.6" cy="178.6" r="4" fill="#3465a4"><title>Watt (Personal)</title></circle></a><a href="/setts/s9/r4w1r4g10ly1k10t4k2t4~x4/"><circle cx="65.0" cy="154.5" r="4" fill="#3465a4"><title>Comyn, Cumming</title></circle></a><a href="/setts/s11/r2k8ly2k7ly1k1w3k2dg9db8r2~x2/"><circle cx="110.5" cy="158.7" r="4" fill="#3465a4"><title>Hislop/Hyslop Hunting #2</title></circle></a><circle cx="65.5" cy="155.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/ly4g20r3db11t3r11g11r3k20r3k3t3~x2/

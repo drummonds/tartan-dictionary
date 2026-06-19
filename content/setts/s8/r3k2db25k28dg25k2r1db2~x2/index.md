@@ -2,7 +2,7 @@
 title: "Common Kilt"
 date: 2023-03-18
 ---
-**Bands:** [BRKGKBKR](/stripes/brkgkbkr/) · **Stripes:** [DB R K DG K DB K R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R K DG K DB K R</span></span>
+**Bands:** [RKBKGKRB](/stripes/rkbkgkrb/) · **Stripes:** [R K DB K DG K R DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R K DB K DG K R DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 554
 
 ## Thread count
-DB/4 R2 K4 DG50 K56 DB50 K4 R/6
+R/6 K4 DB50 K56 DG50 K4 R2 DB/4
 ![Sett](sett.png)
 
 ## Palette
@@ -40,27 +40,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/4 R2 K4 DG50 K56 DB50 K4 R/6 tartan")
+![Tartan detail](tartan.png "R/6 K4 DB50 K56 DG50 K4 R2 DB/4 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [MacThomas](/setts/s9/db1db1r2db21k11dg21r2dg1dg1~x2/) — ΔT 1.13
-1. [Coarse Kilt](/setts/s7/r3k2db25k28dg25k2r3~x2/) — ΔT 1.19
+1. [MacThomas](/setts/s9/dg1dg1r2dg21k11db21r2db1db1~x2/) — ΔT 1.13
+1. [Coarse Kilt](/setts/s7/r3k2dg25k28db25k2r3~x2/) — ΔT 1.19
 1. [Ogilvy VS](/setts/s8/db28ly1db2k16dg24k1dg2r3~x2/) — ΔT 1.21
 1. [Singh, Gopal (Personal)](/setts/s6/k10r4dg34db34k1lo3~x2/) — ΔT 1.23
 1. [Dundas](/setts/s7/k4db16k12dg24r1dg2k2~x2/) — ΔT 1.23
 1. [Black Watch RHR](/setts/s8/db10k1db3k1db20k25dg40k3~x2/) — ΔT 1.28
 1. [Kerr Hunting](/setts/s10/dg20k1dg2k1dg3k14db28k1db2k4~x2/) — ΔT 1.29
-1. [Colqhoun VS](/setts/s7/db4k2db16lr1k8dg24r4~x2/) — ΔT 1.31
-1. [Colqhoun VS](/setts/s7/db4k2db16lr1k8dg24r4/) — ΔT 1.31
+1. [Colqhoun VS](/setts/s7/db4k2db16lr1k8dg24r4~x2/) — ΔT 1.32
 1. [Graham of Menteith](/setts/s6/dg16b2dg1k12db12k1~x2/) — ΔT 1.38
+1. [MacLaren](/setts/s7/db24k8dg8r2dg8k1ly2~x2/) — ΔT 1.41
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db1db1r2db21k11dg21r2dg1dg1~x2/"><circle cx="259.1" cy="160.2" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/setts/s7/r3k2db25k28dg25k2r3~x2/"><circle cx="230.8" cy="208.5" r="4" fill="#3465a4"><title>Coarse Kilt</title></circle></a><a href="/setts/s8/db28ly1db2k16dg24k1dg2r3~x2/"><circle cx="250.0" cy="147.2" r="4" fill="#3465a4"><title>Ogilvy VS</title></circle></a><a href="/setts/s6/k10r4dg34db34k1lo3~x2/"><circle cx="281.8" cy="168.7" r="4" fill="#3465a4"><title>Singh, Gopal (Personal)</title></circle></a><a href="/setts/s7/k4db16k12dg24r1dg2k2~x2/"><circle cx="275.2" cy="187.7" r="4" fill="#3465a4"><title>Dundas</title></circle></a><a href="/setts/s8/db10k1db3k1db20k25dg40k3~x2/"><circle cx="314.0" cy="179.8" r="4" fill="#3465a4"><title>Black Watch RHR</title></circle></a><a href="/setts/s10/dg20k1dg2k1dg3k14db28k1db2k4~x2/"><circle cx="307.4" cy="171.2" r="4" fill="#3465a4"><title>Kerr Hunting</title></circle></a><a href="/setts/s7/db4k2db16lr1k8dg24r4~x2/"><circle cx="248.5" cy="171.1" r="4" fill="#3465a4"><title>Colqhoun VS</title></circle></a><a href="/setts/s7/db4k2db16lr1k8dg24r4/"><circle cx="248.5" cy="171.1" r="4" fill="#3465a4"><title>Colqhoun VS</title></circle></a><a href="/setts/s6/dg16b2dg1k12db12k1~x2/"><circle cx="242.7" cy="220.0" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><circle cx="274.1" cy="175.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg1dg1r2dg21k11db21r2db1db1~x2/"><circle cx="259.3" cy="160.3" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/setts/s7/r3k2dg25k28db25k2r3~x2/"><circle cx="231.1" cy="208.5" r="4" fill="#3465a4"><title>Coarse Kilt</title></circle></a><a href="/setts/s8/db28ly1db2k16dg24k1dg2r3~x2/"><circle cx="250.2" cy="147.2" r="4" fill="#3465a4"><title>Ogilvy VS</title></circle></a><a href="/setts/s6/k10r4dg34db34k1lo3~x2/"><circle cx="282.0" cy="168.7" r="4" fill="#3465a4"><title>Singh, Gopal (Personal)</title></circle></a><a href="/setts/s7/k4db16k12dg24r1dg2k2~x2/"><circle cx="275.4" cy="187.7" r="4" fill="#3465a4"><title>Dundas</title></circle></a><a href="/setts/s8/db10k1db3k1db20k25dg40k3~x2/"><circle cx="314.2" cy="179.7" r="4" fill="#3465a4"><title>Black Watch RHR</title></circle></a><a href="/setts/s10/dg20k1dg2k1dg3k14db28k1db2k4~x2/"><circle cx="307.6" cy="171.1" r="4" fill="#3465a4"><title>Kerr Hunting</title></circle></a><a href="/setts/s7/db4k2db16lr1k8dg24r4~x2/"><circle cx="248.6" cy="171.1" r="4" fill="#3465a4"><title>Colqhoun VS</title></circle></a><a href="/setts/s6/dg16b2dg1k12db12k1~x2/"><circle cx="243.0" cy="220.0" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/setts/s7/db24k8dg8r2dg8k1ly2~x2/"><circle cx="267.5" cy="169.2" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><circle cx="274.3" cy="175.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r3k2db25k28dg25k2r1db2~x2/

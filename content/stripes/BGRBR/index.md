@@ -20,7 +20,7 @@ BGRBR
 
 
 
-### DO G R DO R <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="seq">DO G R DO R</span></span>
+### R DO R G DO <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="seq">R DO R G DO</span></span>
 
 | Tartans |
 |---------------|

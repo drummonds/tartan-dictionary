@@ -2,7 +2,7 @@
 title: "Seton"
 date: 2023-03-18
 ---
-**Bands:** [GYGRBRKRGR](/stripes/gygrbrkrgr/) · **Stripes:** [DG LR DG R DB R K R DG R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG LR DG R DB R K R DG R</span></span>
+**Bands:** [RGRKRBRGYG](/stripes/rgrkrbrgyg/) · **Stripes:** [R DG R K R DB R DG LR DG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG R K R DB R DG LR DG</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -79,20 +79,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Chisholm VS](/setts/s10/r6lr1r24db6dg2k1dg2k1dg12r1~x2/) — ΔT 0.65
+1. [Chisholm VS](/setts/s10/r6lr1r24db6dg2k1dg2k1dg12r1/) — ΔT 0.65
 1. [Seton](/setts/s10/dg6lb1dg12r4db4r2k4r32dg1r2~x2/) — ΔT 0.77
-1. [Chisholm VS](/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1~x2/) — ΔT 0.92
+1. [Chisholm VS](/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1/) — ΔT 0.92
 1. [Seton](/setts/s10/g6w1g12r4db4r2k4r32g1r2~x2/) — ΔT 1.00
 1. [MacEdward](/setts/s10/r6ly1r24g6db2k1db2k1db12r1~x2/) — ΔT 1.04
 1. [Chisholm #2](/setts/s10/r6w1r24db6dg2k1dg2k1dg12r1~x2/) — ΔT 1.04
 1. [Drummond of Perth](/setts/s9/r36lr1db3ly1dg16r8db3b2lr1~x2/) — ΔT 1.06
 1. [Drummond of Perth](/setts/s9/r36lr1db3ly1dg16r8db3b2lr1/) — ΔT 1.06
 1. [MacDonell of Keppoch](/setts/s10/dg2r2db1r24b1db6r3dg12r4db1~x2/) — ΔT 1.06
-1. [Leach (1995)](/setts/s9/r24lb1k3lb1g14r8k3dp3lb2~x4/) — ΔT 1.09
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r6lr1r24db6dg2k1dg2k1dg12r1~x2/"><circle cx="350.3" cy="115.8" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/setts/s10/dg6lb1dg12r4db4r2k4r32dg1r2~x2/"><circle cx="369.5" cy="88.7" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1~x2/"><circle cx="331.9" cy="102.8" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/setts/s10/g6w1g12r4db4r2k4r32g1r2~x2/"><circle cx="369.0" cy="88.8" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s10/r6ly1r24g6db2k1db2k1db12r1~x2/"><circle cx="344.1" cy="106.6" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/setts/s10/r6w1r24db6dg2k1dg2k1dg12r1~x2/"><circle cx="341.2" cy="103.1" r="4" fill="#3465a4"><title>Chisholm #2</title></circle></a><a href="/setts/s9/r36lr1db3ly1dg16r8db3b2lr1~x2/"><circle cx="404.6" cy="85.2" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s9/r36lr1db3ly1dg16r8db3b2lr1/"><circle cx="404.6" cy="85.2" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s10/dg2r2db1r24b1db6r3dg12r4db1~x2/"><circle cx="398.5" cy="136.2" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s9/r24lb1k3lb1g14r8k3dp3lb2~x4/"><circle cx="330.9" cy="129.6" r="4" fill="#3465a4"><title>Leach (1995)</title></circle></a><circle cx="387.8" cy="101.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r6lr1r24db6dg2k1dg2k1dg12r1~x2/"><circle cx="350.0" cy="115.8" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/setts/s10/r6lr1r24db6dg2k1dg2k1dg12r1/"><circle cx="350.0" cy="115.8" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/setts/s10/dg6lb1dg12r4db4r2k4r32dg1r2~x2/"><circle cx="369.1" cy="88.6" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1/"><circle cx="331.5" cy="102.7" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/setts/s10/g6w1g12r4db4r2k4r32g1r2~x2/"><circle cx="368.6" cy="88.7" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s10/r6ly1r24g6db2k1db2k1db12r1~x2/"><circle cx="343.7" cy="106.6" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/setts/s10/r6w1r24db6dg2k1dg2k1dg12r1~x2/"><circle cx="340.8" cy="103.0" r="4" fill="#3465a4"><title>Chisholm #2</title></circle></a><a href="/setts/s9/r36lr1db3ly1dg16r8db3b2lr1~x2/"><circle cx="404.3" cy="85.2" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s9/r36lr1db3ly1dg16r8db3b2lr1/"><circle cx="404.3" cy="85.2" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s10/dg2r2db1r24b1db6r3dg12r4db1~x2/"><circle cx="398.2" cy="136.1" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><circle cx="387.5" cy="101.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/dg6lr1dg12r4db4r2k4r32dg1r2~x2/

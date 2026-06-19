@@ -20,7 +20,7 @@ BBBBKGB
 
 
 
-### DP DB DP DB K DG DP <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP DB DP DB K DG DP</span></span>
+### DP DG K DB DP DB DP <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP DG K DB DP DB DP</span></span>
 
 | Tartans |
 |---------------|

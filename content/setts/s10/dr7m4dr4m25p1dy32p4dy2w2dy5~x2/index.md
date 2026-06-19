@@ -2,7 +2,7 @@
 title: "Bell, John"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBGBGWG](/stripes/brbrbgbgwg/) · **Stripes:** [DR M DR M P DY P DY W DY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">DR M DR M P DY P DY W DY</span></span>
+**Bands:** [GWGBGBRBRB](/stripes/gwgbgbrbrb/) · **Stripes:** [DY W DY P DY P M DR M DR](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#55120C"></span><span class="seq">DY W DY P DY P M DR M DR</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/o7r4o4r25dp1y32dp4y2w2y5~x2/"><circle cx="360.6" cy="142.3" r="4" fill="#3465a4"><title>Bell of Ardbel (Name)</title></circle></a><a href="/setts/s10/dt5n5dt2r47dt18o2dt5dy9n7o3~x2/"><circle cx="353.5" cy="153.9" r="4" fill="#3465a4"><title>Rikaco Red</title></circle></a><a href="/setts/s10/do7r4do4r25dp1y32dp4y2w2y5~x2/"><circle cx="339.1" cy="130.1" r="4" fill="#3465a4"><title>Bell of Ardbel (Personal)</title></circle></a><a href="/setts/s10/dy36k3o6k3do10o5do3lo4k1dy2~x2/"><circle cx="413.3" cy="146.6" r="4" fill="#3465a4"><title>Mead (Tennessee) Hunting (Personal)</title></circle></a><a href="/setts/s10/db4y30do2y2do14w2do2w1do6y3~x2/"><circle cx="365.6" cy="133.7" r="4" fill="#3465a4"><title>Hickory</title></circle></a><a href="/setts/s11/n8k2o26lo1o6k3dg10lg1k3n22lg1~x2/"><circle cx="310.6" cy="149.4" r="4" fill="#3465a4"><title>Faulkner (Personal)</title></circle></a><a href="/setts/s12/dr44o5o8o2o2o2o2o14o9o2o4o2~x2/"><circle cx="369.3" cy="152.1" r="4" fill="#3465a4"><title>Waverly, Check</title></circle></a><a href="/setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2~x2/"><circle cx="421.6" cy="135.5" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2/"><circle cx="421.6" cy="135.5" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/setts/s8/b5k1r30n15r8dg30r8n2~x2/"><circle cx="328.2" cy="161.9" r="4" fill="#3465a4"><title>Shaw</title></circle></a><circle cx="364.3" cy="146.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/o7r4o4r25dp1y32dp4y2w2y5~x2/"><circle cx="360.3" cy="142.5" r="4" fill="#3465a4"><title>Bell of Ardbel (Name)</title></circle></a><a href="/setts/s10/dt5n5dt2r47dt18o2dt5dy9n7o3~x2/"><circle cx="353.3" cy="154.1" r="4" fill="#3465a4"><title>Rikaco Red</title></circle></a><a href="/setts/s10/do7r4do4r25dp1y32dp4y2w2y5~x2/"><circle cx="338.9" cy="130.3" r="4" fill="#3465a4"><title>Bell of Ardbel (Personal)</title></circle></a><a href="/setts/s10/dy36k3o6k3do10o5do3lo4k1dy2~x2/"><circle cx="413.0" cy="146.8" r="4" fill="#3465a4"><title>Mead (Tennessee) Hunting (Personal)</title></circle></a><a href="/setts/s10/db4y30do2y2do14w2do2w1do6y3~x2/"><circle cx="365.3" cy="133.8" r="4" fill="#3465a4"><title>Hickory</title></circle></a><a href="/setts/s11/n8k2o26lo1o6k3dg10lg1k3n22lg1~x2/"><circle cx="310.5" cy="149.7" r="4" fill="#3465a4"><title>Faulkner (Personal)</title></circle></a><a href="/setts/s12/dr44o5o8o2o2o2o2o14o9o2o4o2~x2/"><circle cx="369.1" cy="152.3" r="4" fill="#3465a4"><title>Waverly, Check</title></circle></a><a href="/setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2~x2/"><circle cx="421.2" cy="135.6" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2/"><circle cx="421.2" cy="135.6" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/setts/s8/b5k1r30n15r8dg30r8n2~x2/"><circle cx="328.0" cy="162.0" r="4" fill="#3465a4"><title>Shaw</title></circle></a><circle cx="364.1" cy="146.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/dr7m4dr4m25p1dy32p4dy2w2dy5~x2/

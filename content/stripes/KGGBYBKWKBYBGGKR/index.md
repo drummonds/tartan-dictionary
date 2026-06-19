@@ -22,6 +22,6 @@ KGGBYBKWKBYBGGKR
 
 | Tartans |
 |---------------|
-| [Hughes Interconnection Int.](/setts/s16/m2k1g18dy26b18ly4b18k2w4k2b18ly4b18dy26g18k1~x2/)|
-|![Hughes Interconnection Int. example sett](/setts/s16/m2k1g18dy26b18ly4b18k2w4k2b18ly4b18dy26g18k1~x2/sett.png)|
+| [Hughes Interconnection Int.](/setts/s16/w4k2b18ly4b18dy26g18k1m2~x2/)|
+|![Hughes Interconnection Int. example sett](/setts/s16/w4k2b18ly4b18dy26g18k1m2~x2/sett.png)|
 

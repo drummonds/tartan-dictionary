@@ -18,10 +18,10 @@ WBKBBRBRKBGRGW
 
 
 
-### W N K T N R N R K N G R G W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W N K T N R N R K N G R G W</span></span>
+### W G R G N K R N R N T K N W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W G R G N K R N R N T K N W</span></span>
 
 | Tartans |
 |---------------|
-| [Aberfeldy](/setts/s14/w2g2r2g16n2k13r2n2r2n32t2k2n2w2~x2/)|
-|![Aberfeldy example sett](/setts/s14/w2g2r2g16n2k13r2n2r2n32t2k2n2w2~x2/sett.png)|
+| [Aberfeldy](/setts/s14/w2n2k2t2n32r2n2r2k13n2g16r2g2w2~x2/)|
+|![Aberfeldy example sett](/setts/s14/w2n2k2t2n32r2n2r2k13n2g16r2g2w2~x2/sett.png)|
 

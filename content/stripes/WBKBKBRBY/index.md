@@ -18,10 +18,10 @@ WBKBKBRBY
 
 
 
-### W DB K T K DB R DB LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W DB K T K DB R DB LY</span></span>
+### LY DB R DB K T K DB W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DB R DB K T K DB W</span></span>
 
 | Tartans |
 |---------------|
-| [MacCormick Festive](/setts/s9/ly3db24r3db8k1t16k1db3w3~x2/)|
-|![MacCormick Festive example sett](/setts/s9/ly3db24r3db8k1t16k1db3w3~x2/sett.png)|
+| [MacCormick Festive](/setts/s9/w3db3k1t16k1db8r3db24ly3~x2/)|
+|![MacCormick Festive example sett](/setts/s9/w3db3k1t16k1db8r3db24ly3~x2/sett.png)|
 

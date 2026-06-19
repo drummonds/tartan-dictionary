@@ -22,6 +22,6 @@ BWBWBWBWBWBWKWBWBWBWBWBW
 
 | Tartans |
 |---------------|
-| [Hanna (Bible) (Personal)](/setts/s24/db4w2db4w2db4w2db4w2db4w2db4w25k16w25db4w2db4w2db4w2db4w2db4w2~x2/)|
-|![Hanna (Bible) (Personal) example sett](/setts/s24/db4w2db4w2db4w2db4w2db4w2db4w25k16w25db4w2db4w2db4w2db4w2db4w2~x2/sett.png)|
+| [Hanna (Bible) (Personal)](/setts/s24/k16w25db4w2db4w2db4w2db4w2db4w2db4~x2/)|
+|![Hanna (Bible) (Personal) example sett](/setts/s24/k16w25db4w2db4w2db4w2db4w2db4w2db4~x2/sett.png)|
 

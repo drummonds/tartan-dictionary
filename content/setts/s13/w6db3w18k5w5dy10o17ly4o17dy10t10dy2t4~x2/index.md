@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 601
 
 ## Thread count
-B/8 K4 B20 K20 DO34 Y8 DO34 K20 LN10 Ka10 LN36 Ba6 LN/12
+LN/12 Ba6 LN36 Ka10 LN10 K20 DO34 Y8 DO34 K20 B20 K4 B/8
 ![Sett](sett.png)
 
 ## Palette
@@ -42,7 +42,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Stuart/Stewart variant](/setts/s15/k6dg10w10k2w23db10w2k6ly2k8dg10r12dg4r8w4/) — ΔT 1.19
 1. [Ruairidh (Personal)](/setts/s15/k6o7dy36k17o17ly34db6ly6db6ly34o17k17r39w4r6/) — ΔT 1.20
 1. [MacInnes Ancient Hunting](/setts/s14/w8db3w10o8ly2k4db3k2db3k2r3w1k2r2~x2/) — ΔT 1.22
-1. [Hovington (2014)](/setts/s13/k2w1lo6r6w1k2lb2do3lb2k1lb2g3lb2~x2/) — ΔT 1.24
+1. [Hovington (2014)](/setts/s13/k2w1lo6r6w1k2lb2do3lb2k1lb2g3lb2~x2/) — ΔT 1.23
 1. [MacLellan/McLellan Dress (Personal)](/setts/s13/k2w1db7k4r1w8r2w8k1dg7w1dg7ly2~x4/) — ΔT 1.28
 1. [MacInnes Ancient Htg (Clan?)](/setts/s14/w8db3w10lo8ly2k4db3k2db3k2r3w1k2r2~x2/) — ΔT 1.29
 1. [Glendale](/setts/s10/dy5w1dy5w1g6ly1k1ly1lb8r1~x4/) — ΔT 1.29
@@ -50,8 +50,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/w6db3w18k5w5dr10o17ly4o17dr10t10dr2t4~x2/"><circle cx="29.7" cy="125.7" r="4" fill="#3465a4"><title>Gordon, dress 5</title></circle></a><a href="/setts/s14/r2lb11w4lb5db6ly1k1w1k1g8r8k1r4w1~x2/"><circle cx="41.5" cy="93.3" r="4" fill="#3465a4"><title>Albert (Silk)</title></circle></a><a href="/setts/s15/k6dg10w10k2w23db10w2k6ly2k8dg10r12dg4r8w4/"><circle cx="56.9" cy="120.6" r="4" fill="#3465a4"><title>Stuart/Stewart variant</title></circle></a><a href="/setts/s15/k6o7dy36k17o17ly34db6ly6db6ly34o17k17r39w4r6/"><circle cx="33.6" cy="106.4" r="4" fill="#3465a4"><title>Ruairidh (Personal)</title></circle></a><a href="/setts/s14/w8db3w10o8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="66.0" cy="120.8" r="4" fill="#3465a4"><title>MacInnes Ancient Hunting</title></circle></a><a href="/setts/s13/k2w1lo6r6w1k2lb2do3lb2k1lb2g3lb2~x2/"><circle cx="14.0" cy="132.4" r="4" fill="#3465a4"><title>Hovington (2014)</title></circle></a><a href="/setts/s13/k2w1db7k4r1w8r2w8k1dg7w1dg7ly2~x4/"><circle cx="62.1" cy="136.7" r="4" fill="#3465a4"><title>MacLellan/McLellan Dress (Personal)</title></circle></a><a href="/setts/s14/w8db3w10lo8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="64.4" cy="122.0" r="4" fill="#3465a4"><title>MacInnes Ancient Htg (Clan?)</title></circle></a><a href="/setts/s10/dy5w1dy5w1g6ly1k1ly1lb8r1~x4/"><circle cx="71.5" cy="131.6" r="4" fill="#3465a4"><title>Glendale</title></circle></a><a href="/setts/s12/dp3t1w9r6dg5t2w2t2w2t2dg12ly2~x4/"><circle cx="102.8" cy="122.5" r="4" fill="#3465a4"><title>Fredericton #1</title></circle></a><circle cx="30.8" cy="126.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/w6db3w18k5w5dr10o17ly4o17dr10t10dr2t4~x2/"><circle cx="29.7" cy="125.9" r="4" fill="#3465a4"><title>Gordon, dress 5</title></circle></a><a href="/setts/s14/r2lb11w4lb5db6ly1k1w1k1g8r8k1r4w1~x2/"><circle cx="41.3" cy="93.5" r="4" fill="#3465a4"><title>Albert (Silk)</title></circle></a><a href="/setts/s15/k6dg10w10k2w23db10w2k6ly2k8dg10r12dg4r8w4/"><circle cx="56.8" cy="120.7" r="4" fill="#3465a4"><title>Stuart/Stewart variant</title></circle></a><a href="/setts/s15/k6o7dy36k17o17ly34db6ly6db6ly34o17k17r39w4r6/"><circle cx="33.4" cy="106.6" r="4" fill="#3465a4"><title>Ruairidh (Personal)</title></circle></a><a href="/setts/s14/w8db3w10o8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="65.8" cy="120.9" r="4" fill="#3465a4"><title>MacInnes Ancient Hunting</title></circle></a><a href="/setts/s13/k2w1lo6r6w1k2lb2do3lb2k1lb2g3lb2~x2/"><circle cx="14.0" cy="132.6" r="4" fill="#3465a4"><title>Hovington (2014)</title></circle></a><a href="/setts/s13/k2w1db7k4r1w8r2w8k1dg7w1dg7ly2~x4/"><circle cx="62.0" cy="136.7" r="4" fill="#3465a4"><title>MacLellan/McLellan Dress (Personal)</title></circle></a><a href="/setts/s14/w8db3w10lo8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="64.3" cy="122.1" r="4" fill="#3465a4"><title>MacInnes Ancient Htg (Clan?)</title></circle></a><a href="/setts/s10/dy5w1dy5w1g6ly1k1ly1lb8r1~x4/"><circle cx="71.4" cy="131.7" r="4" fill="#3465a4"><title>Glendale</title></circle></a><a href="/setts/s12/dp3t1w9r6dg5t2w2t2w2t2dg12ly2~x4/"><circle cx="102.6" cy="122.6" r="4" fill="#3465a4"><title>Fredericton #1</title></circle></a><circle cx="30.7" cy="126.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/w6db3w18k5w5dy10o17ly4o17dy10t10dy2t4~x2/

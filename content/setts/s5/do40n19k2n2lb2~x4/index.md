@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3096
 
+## Also known as
+
+This cloth is also recorded under:
+
+- National Ballet of Canada (Corporate
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -53,13 +59,13 @@ The nearest existing variants by ΔTartan distance.
 1. [MacWilliam Htg](/setts/s7/dg2dy32dy12k10r1db16r2~x2/) — ΔT 1.66
 1. [Dege of Saville Row](/setts/s6/dy11db1dy3db1db9r1~x4/) — ΔT 1.67
 1. [Unidentified #44](/setts/s7/db13k3db20dy70db20dy30w3~x2/) — ΔT 1.69
-1. [Wcwm 9275 5471-1](/setts/s6/ly4k1r38dg28k2r4~x2/) — ΔT 1.70
-1. [Lion Brand Sportswear](/setts/s7/lr4dt1r15dt42r6dt4lo1~x2/) — ΔT 1.70
+1. [Wcwm 9275 5471-1](/setts/s6/r4k2dg28r38k1ly4~x2/) — ΔT 1.70
+1. [Lion Brand Sportswear](/setts/s7/lr4dt1r15dt42r6dt4lo1~x2/) — ΔT 1.71
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/lo3dy33db24dy2db2dy2~x2/"><circle cx="441.1" cy="220.8" r="4" fill="#3465a4"><title>Keepers of the Quaich</title></circle></a><a href="/setts/s5/n30do9w1r5ly1~x4/"><circle cx="466.2" cy="176.3" r="4" fill="#3465a4"><title>Dunning Primary (School)</title></circle></a><a href="/setts/s4/dt62r24lo5dg3~x2/"><circle cx="471.7" cy="226.2" r="4" fill="#3465a4"><title>Meaux (Personal)</title></circle></a><a href="/setts/s5/dg37dy9dg3r9dy3~x2/"><circle cx="477.1" cy="258.5" r="4" fill="#3465a4"><title>Glen Trool District Tartan Tartan Number: 914. Earliest known date: pre 1945 Glen Trool is in the Galloway Uplands in the Southwest of Scotland. The tartan began life as a trade sett - a colourful fashion fabric - and was given a name merely to identify it. It proved very popular and is now recognised as a District Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/dy3db3dy3db27dy40y3/"><circle cx="472.3" cy="247.7" r="4" fill="#3465a4"><title>Keeper of the Quaich</title></circle></a><a href="/setts/s7/dg2dy32dy12k10r1db16r2~x2/"><circle cx="412.8" cy="178.6" r="4" fill="#3465a4"><title>MacWilliam Htg</title></circle></a><a href="/setts/s6/dy11db1dy3db1db9r1~x4/"><circle cx="399.7" cy="245.0" r="4" fill="#3465a4"><title>Dege of Saville Row</title></circle></a><a href="/setts/s7/db13k3db20dy70db20dy30w3~x2/"><circle cx="482.0" cy="221.1" r="4" fill="#3465a4"><title>Unidentified #44</title></circle></a><a href="/setts/s6/ly4k1r38dg28k2r4~x2/"><circle cx="413.8" cy="158.3" r="4" fill="#3465a4"><title>Wcwm 9275 5471-1</title></circle></a><a href="/setts/s7/lr4dt1r15dt42r6dt4lo1~x2/"><circle cx="496.0" cy="156.1" r="4" fill="#3465a4"><title>Lion Brand Sportswear</title></circle></a><circle cx="464.4" cy="207.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/lo3dy33db24dy2db2dy2~x2/"><circle cx="440.9" cy="220.7" r="4" fill="#3465a4"><title>Keepers of the Quaich</title></circle></a><a href="/setts/s5/n30do9w1r5ly1~x4/"><circle cx="465.9" cy="176.2" r="4" fill="#3465a4"><title>Dunning Primary (School)</title></circle></a><a href="/setts/s4/dt62r24lo5dg3~x2/"><circle cx="471.6" cy="226.0" r="4" fill="#3465a4"><title>Meaux (Personal)</title></circle></a><a href="/setts/s5/dg37dy9dg3r9dy3~x2/"><circle cx="476.9" cy="258.4" r="4" fill="#3465a4"><title>Glen Trool District Tartan Tartan Number: 914. Earliest known date: pre 1945 Glen Trool is in the Galloway Uplands in the Southwest of Scotland. The tartan began life as a trade sett - a colourful fashion fabric - and was given a name merely to identify it. It proved very popular and is now recognised as a District Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/dy3db3dy3db27dy40y3/"><circle cx="472.2" cy="247.6" r="4" fill="#3465a4"><title>Keeper of the Quaich</title></circle></a><a href="/setts/s7/dg2dy32dy12k10r1db16r2~x2/"><circle cx="412.7" cy="178.6" r="4" fill="#3465a4"><title>MacWilliam Htg</title></circle></a><a href="/setts/s6/dy11db1dy3db1db9r1~x4/"><circle cx="399.7" cy="245.0" r="4" fill="#3465a4"><title>Dege of Saville Row</title></circle></a><a href="/setts/s7/db13k3db20dy70db20dy30w3~x2/"><circle cx="481.8" cy="221.0" r="4" fill="#3465a4"><title>Unidentified #44</title></circle></a><a href="/setts/s6/r4k2dg28r38k1ly4~x2/"><circle cx="413.6" cy="158.3" r="4" fill="#3465a4"><title>Wcwm 9275 5471-1</title></circle></a><a href="/setts/s7/lr4dt1r15dt42r6dt4lo1~x2/"><circle cx="495.8" cy="156.0" r="4" fill="#3465a4"><title>Lion Brand Sportswear</title></circle></a><circle cx="464.2" cy="207.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/do40n19k2n2lb2~x4/

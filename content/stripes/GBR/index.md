@@ -21,14 +21,14 @@ GBR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DG DP R <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG DP R</span></span>
+### R DP DG <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="seq">R DP DG</span></span>
 
 | Tartans |
 |---------------|
 | [Wilson's No.084](/setts/s3/dg6dp5r1~x4/)|
 |![Wilson's No.084 example sett](/setts/s3/dg6dp5r1~x4/sett.png)|
 
-### G T R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">G T R</span></span>
+### R T G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R T G</span></span>
 
 | Tartans |
 |---------------|

@@ -86,19 +86,6 @@ body.container a {
   display: flex;
   flex-wrap: wrap;
 }
-/* The /stripes/ index also carries a `.tops` row of example tartans under the swatches: up to three
-   small linked sett previews per slot count (issue #15), reusing the a.tartan preview-card styling. */
-.band-summary .tops {
-  display: flex;
-  flex-wrap: wrap;
-  gap: .6rem;
-  margin-top: .5rem;
-}
-.band-summary .tops a.tartan {
-  font-size: .85em;
-  text-align: center;
-  max-width: 7rem;
-}
 
 /* Families A–Z summary: the same card grid, one card per letter — a `.letter` link (the letter, its
    count) over a `.names` row of the first few families, each linked, with a trailing "…" to the
@@ -548,23 +535,4 @@ a.tartan img {
 html.tartan-bg {
   background-image: var(--tartan-bg);
   background-size: auto;
-}
-
-/* ------- wide tartan renders must stay inside the reading column -------
-   A high-multiplier sett (e.g. KR at x172) renders a sett.png hundreds of px wide. In the tartan
-   tables on /stripes/<seq>/ and the sett pages, an auto-layout cell grows to the image's natural
-   width and the table blows past the page (issues #17, #19). Fixed layout makes columns share the
-   available width, so the image (capped at 100% of its cell) scales down to fit. The proportional
-   human-palette stripe bar likewise yields to the column on a narrow screen. */
-.post-text table {
-  table-layout: fixed;
-  width: 100%;
-}
-.post-text td img,
-.post-text th img {
-  max-width: 100%;
-  height: auto;
-}
-.post-text .stripe-bar {
-  max-width: 100%;
 }

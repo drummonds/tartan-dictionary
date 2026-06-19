@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Murray, dress White
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -923,8 +932,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db4k4db10k10g13ly3g13k10w4db4w16db2w3~x2/"><circle cx="42.6" cy="172.5" r="4" fill="#3465a4"><title>Gordon Dress Tartan Tartan Number: 294. Earliest known date: pre 2003 No source given See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/db4k4db10k10dg13ly3dg13k10w4db4w16db2w3~x2/"><circle cx="45.0" cy="173.9" r="4" fill="#3465a4"><title>Gordon Dress</title></circle></a><a href="/setts/s13/db4k4db10k10g12lo2g12k10w4db4w16db3w2~x2/"><circle cx="40.1" cy="173.1" r="4" fill="#3465a4"><title>Gordon Dress (1965)</title></circle></a><a href="/setts/s10/w4dt6r3dt10n14lo6w18lo6n4lo2~x2/"><circle cx="65.9" cy="162.0" r="4" fill="#3465a4"><title>Gray, Sir John Hamilton (Commem)</title></circle></a><a href="/setts/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="76.1" cy="166.6" r="4" fill="#3465a4"><title>MacKenzie Dress - 1950 (Clan)</title></circle></a><a href="/setts/s11/w6ly2w2ly3w11g11b2k12b3k6w2~x2/"><circle cx="70.1" cy="171.1" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/setts/s9/w4db8w1db1g6db3r6db1w4~x2/"><circle cx="43.5" cy="178.6" r="4" fill="#3465a4"><title>Womble</title></circle></a><a href="/setts/s12/k6g5k6do6w1do10k6w3r1w12r1w3~x4/"><circle cx="92.4" cy="150.9" r="4" fill="#3465a4"><title>Forbes - 1970 (WCWM #1)</title></circle></a><a href="/setts/s12/dg17t3dg17k15w33db8w33k15dg17t3dg17t3~x2/"><circle cx="114.0" cy="158.4" r="4" fill="#3465a4"><title>MacRobart Family Tartan Tartan Number: 2399. Earliest known date: June 1997 Dress version for personal and family use based on original design by Michael Owen Holder (# 2388). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/dt6r3dt10n14lo6w18lo6n4lo2n4lo6w18lo6n14dt10r3dt6w4~x2/"><circle cx="45.3" cy="142.4" r="4" fill="#3465a4"><title>Gray, Hamilton John</title></circle></a><circle cx="48.1" cy="173.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db4k4db10k10g13ly3g13k10w4db4w16db2w3~x2/"><circle cx="42.7" cy="172.5" r="4" fill="#3465a4"><title>Gordon Dress Tartan Tartan Number: 294. Earliest known date: pre 2003 No source given See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/db4k4db10k10dg13ly3dg13k10w4db4w16db2w3~x2/"><circle cx="45.1" cy="174.0" r="4" fill="#3465a4"><title>Gordon Dress</title></circle></a><a href="/setts/s13/db4k4db10k10g12lo2g12k10w4db4w16db3w2~x2/"><circle cx="40.2" cy="173.2" r="4" fill="#3465a4"><title>Gordon Dress (1965)</title></circle></a><a href="/setts/s10/w4dt6r3dt10n14lo6w18lo6n4lo2~x2/"><circle cx="65.8" cy="162.0" r="4" fill="#3465a4"><title>Gray, Sir John Hamilton (Commem)</title></circle></a><a href="/setts/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="76.2" cy="166.6" r="4" fill="#3465a4"><title>MacKenzie Dress - 1950 (Clan)</title></circle></a><a href="/setts/s11/w6ly2w2ly3w11g11b2k12b3k6w2~x2/"><circle cx="70.0" cy="171.1" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/setts/s9/w4db8w1db1g6db3r6db1w4~x2/"><circle cx="43.5" cy="178.6" r="4" fill="#3465a4"><title>Womble</title></circle></a><a href="/setts/s12/k6g5k6do6w1do10k6w3r1w12r1w3~x4/"><circle cx="92.4" cy="150.9" r="4" fill="#3465a4"><title>Forbes - 1970 (WCWM #1)</title></circle></a><a href="/setts/s12/dg17t3dg17k15w33db8w33k15dg17t3dg17t3~x2/"><circle cx="113.9" cy="158.3" r="4" fill="#3465a4"><title>MacRobart Family Tartan Tartan Number: 2399. Earliest known date: June 1997 Dress version for personal and family use based on original design by Michael Owen Holder (# 2388). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/dt6r3dt10n14lo6w18lo6n4lo2n4lo6w18lo6n14dt10r3dt6w4~x2/"><circle cx="45.1" cy="142.4" r="4" fill="#3465a4"><title>Gray, Hamilton John</title></circle></a><circle cx="48.1" cy="173.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/w5db2w17db5w5db9g12r3g12k9db11r3~x2/

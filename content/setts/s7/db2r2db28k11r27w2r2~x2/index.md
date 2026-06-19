@@ -2,7 +2,7 @@
 title: "Americana - 1978 #2 (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BRBKRWR](/stripes/brbkrwr/) · **Stripes:** [DB R DB K R W R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R DB K R W R</span></span>
+**Bands:** [RWRKBRB](/stripes/rwrkbrb/) · **Stripes:** [R W R K DB R DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R W R K DB R DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
@@ -36,16 +36,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Galloway Dress (Yellow Line)](/setts/s6/dg2r1db16r16db1ly2~x2/) — ΔT 0.94
 1. [Girl Guiding Scotland (Corporate)](/setts/s9/k36r3db3r3k8db24r18ly3r3~x2/) — ΔT 1.07
 1. [Galloway Red](/setts/s6/g3r2db22r22db2w3~x2/) — ΔT 1.08
-1. [Robinson, dress](/setts/s6/g1db16r7k1r7k1~x2/) — ΔT 1.09
+1. [Robinson, dress](/setts/s6/k1r7k1r7db16g1~x2/) — ΔT 1.09
 1. [Cetoloni (Personal)](/setts/s6/db1r12k6ly1k6db1~x4/) — ΔT 1.09
 1. [Black and Red](/setts/s8/r25k2n4k2r8k31db32k8/) — ΔT 1.13
 1. [Grady (Personal)](/setts/s9/k36r3db3r3k8db24r18g3r3~x2/) — ΔT 1.15
-1. [Robinson Dress (Pendleton) #1](/setts/s6/g1db16r7k1r7k1~x4/) — ΔT 1.18
+1. [Robinson Dress (Pendleton) #1](/setts/s6/k1r7k1r7db16g1~x4/) — ΔT 1.18
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r7k3r4k5r25k7ly2db22k3db4~x2/"><circle cx="251.9" cy="161.9" r="4" fill="#3465a4"><title>St. George's (Edinburgh) (School)</title></circle></a><a href="/setts/s6/r36lb3r5k21db24k3~x2/"><circle cx="249.3" cy="194.7" r="4" fill="#3465a4"><title>Graham of Menteith (Red)</title></circle></a><a href="/setts/s6/dg2r1db16r16db1ly2~x2/"><circle cx="308.6" cy="167.0" r="4" fill="#3465a4"><title>Galloway Dress (Yellow Line)</title></circle></a><a href="/setts/s9/k36r3db3r3k8db24r18ly3r3~x2/"><circle cx="250.9" cy="171.7" r="4" fill="#3465a4"><title>Girl Guiding Scotland (Corporate)</title></circle></a><a href="/setts/s6/g3r2db22r22db2w3~x2/"><circle cx="277.5" cy="178.8" r="4" fill="#3465a4"><title>Galloway Red</title></circle></a><a href="/setts/s6/g1db16r7k1r7k1~x2/"><circle cx="325.0" cy="181.4" r="4" fill="#3465a4"><title>Robinson, dress</title></circle></a><a href="/setts/s6/db1r12k6ly1k6db1~x4/"><circle cx="273.6" cy="187.6" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/setts/s8/r25k2n4k2r8k31db32k8/"><circle cx="240.4" cy="181.0" r="4" fill="#3465a4"><title>Black and Red</title></circle></a><a href="/setts/s9/k36r3db3r3k8db24r18g3r3~x2/"><circle cx="259.7" cy="177.7" r="4" fill="#3465a4"><title>Grady (Personal)</title></circle></a><a href="/setts/s6/g1db16r7k1r7k1~x4/"><circle cx="329.2" cy="182.2" r="4" fill="#3465a4"><title>Robinson Dress (Pendleton) #1</title></circle></a><circle cx="270.6" cy="168.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r7k3r4k5r25k7ly2db22k3db4~x2/"><circle cx="251.7" cy="161.8" r="4" fill="#3465a4"><title>St. George's (Edinburgh) (School)</title></circle></a><a href="/setts/s6/r36lb3r5k21db24k3~x2/"><circle cx="249.2" cy="194.7" r="4" fill="#3465a4"><title>Graham of Menteith (Red)</title></circle></a><a href="/setts/s6/dg2r1db16r16db1ly2~x2/"><circle cx="308.4" cy="166.9" r="4" fill="#3465a4"><title>Galloway Dress (Yellow Line)</title></circle></a><a href="/setts/s9/k36r3db3r3k8db24r18ly3r3~x2/"><circle cx="250.9" cy="171.7" r="4" fill="#3465a4"><title>Girl Guiding Scotland (Corporate)</title></circle></a><a href="/setts/s6/g3r2db22r22db2w3~x2/"><circle cx="277.4" cy="178.6" r="4" fill="#3465a4"><title>Galloway Red</title></circle></a><a href="/setts/s6/k1r7k1r7db16g1~x2/"><circle cx="324.9" cy="181.2" r="4" fill="#3465a4"><title>Robinson, dress</title></circle></a><a href="/setts/s6/db1r12k6ly1k6db1~x4/"><circle cx="273.5" cy="187.5" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/setts/s8/r25k2n4k2r8k31db32k8/"><circle cx="240.4" cy="181.1" r="4" fill="#3465a4"><title>Black and Red</title></circle></a><a href="/setts/s9/k36r3db3r3k8db24r18g3r3~x2/"><circle cx="259.7" cy="177.7" r="4" fill="#3465a4"><title>Grady (Personal)</title></circle></a><a href="/setts/s6/k1r7k1r7db16g1~x4/"><circle cx="329.1" cy="182.1" r="4" fill="#3465a4"><title>Robinson Dress (Pendleton) #1</title></circle></a><circle cx="270.5" cy="168.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/db2r2db28k11r27w2r2~x2/

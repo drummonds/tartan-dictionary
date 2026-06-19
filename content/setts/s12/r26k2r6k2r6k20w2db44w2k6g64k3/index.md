@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Jardine, dress
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/3 G64 K6 LN2 B44 LN2 K20 R6 K2 R6 K2 R/26
+R/26 K2 R6 K2 R6 K20 LN2 B44 LN2 K6 G64 K/3
 ![Sett](sett.png)
 
 ## Palette
@@ -916,15 +925,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Black Gold](/setts/s9/dy3k3dy3k18n28w1g22k2dy2~x2/) — ΔT 1.19
 1. [Cooper](/setts/s18/r2r3db2g32db3g1db3k14r3db2r3g12db1k1db30r3db2r2~x2/) — ΔT 1.22
 1. [Glynn of Glynstewart (Personal)](/setts/s14/t20k2g3k2t20r3k20r2k20r3g30ly3g1ly2~x2/) — ΔT 1.23
-1. [State Seal of Oklahoma (Fashion)](/setts/s14/lb4do1b32g5do4lb4do4g5do5lo10do4lo4do23lo4~x2/) — ΔT 1.24
-1. [Lochaber](/setts/s10/g4t2db33r2k35g33k1r2k1g4~x2/) — ΔT 1.24
+1. [State Seal of Oklahoma (Fashion)](/setts/s14/lo4do23lo4do4lo10do5g5do4lb4do4g5b32do1lb4~x2/) — ΔT 1.24
+1. [Lochaber](/setts/s10/g4t2db33r2k35g33k1r2k1g4~x2/) — ΔT 1.25
 1. [Ogilvie 1](/setts/s9/db24ly2k8g16k1g3k1g3r4~x2/) — ΔT 1.28
 1. [Gillies](/setts/s14/db88k15g9r12g20k3ly8k3g20r12g9k15db24k36~x2/) — ΔT 1.28
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/"><circle cx="198.1" cy="91.2" r="4" fill="#3465a4"><title>MacDonald of Clanranald 3</title></circle></a><a href="/setts/s10/r4w6k10db5k3o16k3dg33k1w4~x2/"><circle cx="180.1" cy="87.5" r="4" fill="#3465a4"><title>Fermanagh County, Crest Range</title></circle></a><a href="/setts/s12/k4w1db26k5db5k32g23k2r4k2g13k1~x2/"><circle cx="222.4" cy="109.3" r="4" fill="#3465a4"><title>Young, Melvina (Artefact)</title></circle></a><a href="/setts/s9/dy3k3dy3k18n28w1g22k2dy2~x2/"><circle cx="190.1" cy="122.9" r="4" fill="#3465a4"><title>Black Gold</title></circle></a><a href="/setts/s18/r2r3db2g32db3g1db3k14r3db2r3g12db1k1db30r3db2r2~x2/"><circle cx="226.8" cy="70.7" r="4" fill="#3465a4"><title>Cooper</title></circle></a><a href="/setts/s14/t20k2g3k2t20r3k20r2k20r3g30ly3g1ly2~x2/"><circle cx="168.6" cy="93.9" r="4" fill="#3465a4"><title>Glynn of Glynstewart (Personal)</title></circle></a><a href="/setts/s14/lb4do1b32g5do4lb4do4g5do5lo10do4lo4do23lo4~x2/"><circle cx="211.0" cy="96.8" r="4" fill="#3465a4"><title>State Seal of Oklahoma (Fashion)</title></circle></a><a href="/setts/s10/g4t2db33r2k35g33k1r2k1g4~x2/"><circle cx="213.5" cy="102.5" r="4" fill="#3465a4"><title>Lochaber</title></circle></a><a href="/setts/s9/db24ly2k8g16k1g3k1g3r4~x2/"><circle cx="210.4" cy="126.6" r="4" fill="#3465a4"><title>Ogilvie 1</title></circle></a><a href="/setts/s14/db88k15g9r12g20k3ly8k3g20r12g9k15db24k36~x2/"><circle cx="206.2" cy="100.6" r="4" fill="#3465a4"><title>Gillies</title></circle></a><circle cx="192.6" cy="85.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/"><circle cx="198.1" cy="91.3" r="4" fill="#3465a4"><title>MacDonald of Clanranald 3</title></circle></a><a href="/setts/s10/r4w6k10db5k3o16k3dg33k1w4~x2/"><circle cx="180.0" cy="87.6" r="4" fill="#3465a4"><title>Fermanagh County, Crest Range</title></circle></a><a href="/setts/s12/k4w1db26k5db5k32g23k2r4k2g13k1~x2/"><circle cx="222.4" cy="109.3" r="4" fill="#3465a4"><title>Young, Melvina (Artefact)</title></circle></a><a href="/setts/s9/dy3k3dy3k18n28w1g22k2dy2~x2/"><circle cx="190.2" cy="122.9" r="4" fill="#3465a4"><title>Black Gold</title></circle></a><a href="/setts/s18/r2r3db2g32db3g1db3k14r3db2r3g12db1k1db30r3db2r2~x2/"><circle cx="226.7" cy="70.7" r="4" fill="#3465a4"><title>Cooper</title></circle></a><a href="/setts/s14/t20k2g3k2t20r3k20r2k20r3g30ly3g1ly2~x2/"><circle cx="168.5" cy="93.9" r="4" fill="#3465a4"><title>Glynn of Glynstewart (Personal)</title></circle></a><a href="/setts/s14/lo4do23lo4do4lo10do5g5do4lb4do4g5b32do1lb4~x2/"><circle cx="210.9" cy="96.9" r="4" fill="#3465a4"><title>State Seal of Oklahoma (Fashion)</title></circle></a><a href="/setts/s10/g4t2db33r2k35g33k1r2k1g4~x2/"><circle cx="213.5" cy="102.5" r="4" fill="#3465a4"><title>Lochaber</title></circle></a><a href="/setts/s9/db24ly2k8g16k1g3k1g3r4~x2/"><circle cx="210.4" cy="126.6" r="4" fill="#3465a4"><title>Ogilvie 1</title></circle></a><a href="/setts/s14/db88k15g9r12g20k3ly8k3g20r12g9k15db24k36~x2/"><circle cx="206.2" cy="100.7" r="4" fill="#3465a4"><title>Gillies</title></circle></a><circle cx="192.5" cy="85.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r26k2r6k2r6k20w2db44w2k6g64k3/

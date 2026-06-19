@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=793
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Crane of Cluny Hunting
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -50,7 +56,7 @@ The nearest existing variants by ΔTartan distance.
 1. [KIltwalk, The (Corporate)](/setts/s9/dy2lb2lo4dy5lo5dy46lo7dy1w2~x2/) — ΔT 1.74
 1. [Glenlivet Dress Reproduction (Corp)](/setts/s8/dy6r2dy42db2dy5w16dy5db2~x2/) — ΔT 1.84
 1. [Crail](/setts/s7/n140k3w16k3do16k3do16/) — ΔT 1.90
-1. [Bro-Dreger](/setts/s7/lo3k2lo32r3lo3k5w3~x2/) — ΔT 2.01
+1. [Bro-Dreger](/setts/s7/w3k5lo3r3lo32k2lo3~x2/) — ΔT 2.01
 1. [Kinfauns Castle (Corporate)](/setts/s6/r4dp12g2dp2g46w1~x2/) — ΔT 2.12
 1. [Gairloch](/setts/s8/y24y1k9y1y9y2w2db2~x2/) — ΔT 2.17
 1. [Glenlivet Dress Reproduction](/setts/s14/w16dy5db2dy42r2dy6r2dy42db2dy5w16dy5db2dy5~x2/) — ΔT 2.20
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w2lo44db8lo2db2lo3r1~x2/"><circle cx="590.3" cy="119.0" r="4" fill="#3465a4"><title>Reece (Name)</title></circle></a><a href="/setts/s9/dy2lb2lo4dy5lo5dy46lo7dy1w2~x2/"><circle cx="551.8" cy="114.0" r="4" fill="#3465a4"><title>KIltwalk, The (Corporate)</title></circle></a><a href="/setts/s8/dy6r2dy42db2dy5w16dy5db2~x2/"><circle cx="453.1" cy="136.6" r="4" fill="#3465a4"><title>Glenlivet Dress Reproduction (Corp)</title></circle></a><a href="/setts/s7/n140k3w16k3do16k3do16/"><circle cx="503.0" cy="111.8" r="4" fill="#3465a4"><title>Crail</title></circle></a><a href="/setts/s7/lo3k2lo32r3lo3k5w3~x2/"><circle cx="469.9" cy="144.6" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><a href="/setts/s6/r4dp12g2dp2g46w1~x2/"><circle cx="518.8" cy="141.2" r="4" fill="#3465a4"><title>Kinfauns Castle (Corporate)</title></circle></a><a href="/setts/s8/y24y1k9y1y9y2w2db2~x2/"><circle cx="471.9" cy="147.3" r="4" fill="#3465a4"><title>Gairloch</title></circle></a><a href="/setts/s14/w16dy5db2dy42r2dy6r2dy42db2dy5w16dy5db2dy5~x2/"><circle cx="438.3" cy="114.5" r="4" fill="#3465a4"><title>Glenlivet Dress Reproduction</title></circle></a><a href="/setts/s8/db6db3ly3db2ly3db4ly48db4/"><circle cx="474.2" cy="113.4" r="4" fill="#3465a4"><title>Morris (Welsh Name)</title></circle></a><a href="/setts/s7/ly6dy14db10dy58g3dy8w2/"><circle cx="549.3" cy="148.3" r="4" fill="#3465a4"><title>Kozmyk (Corporate)</title></circle></a><circle cx="562.3" cy="93.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w2lo44db8lo2db2lo3r1~x2/"><circle cx="589.6" cy="118.6" r="4" fill="#3465a4"><title>Reece (Name)</title></circle></a><a href="/setts/s9/dy2lb2lo4dy5lo5dy46lo7dy1w2~x2/"><circle cx="551.2" cy="113.8" r="4" fill="#3465a4"><title>KIltwalk, The (Corporate)</title></circle></a><a href="/setts/s8/dy6r2dy42db2dy5w16dy5db2~x2/"><circle cx="452.7" cy="136.2" r="4" fill="#3465a4"><title>Glenlivet Dress Reproduction (Corp)</title></circle></a><a href="/setts/s7/n140k3w16k3do16k3do16/"><circle cx="502.6" cy="111.6" r="4" fill="#3465a4"><title>Crail</title></circle></a><a href="/setts/s7/w3k5lo3r3lo32k2lo3~x2/"><circle cx="469.3" cy="144.3" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><a href="/setts/s6/r4dp12g2dp2g46w1~x2/"><circle cx="518.5" cy="140.9" r="4" fill="#3465a4"><title>Kinfauns Castle (Corporate)</title></circle></a><a href="/setts/s8/y24y1k9y1y9y2w2db2~x2/"><circle cx="471.5" cy="147.0" r="4" fill="#3465a4"><title>Gairloch</title></circle></a><a href="/setts/s14/w16dy5db2dy42r2dy6r2dy42db2dy5w16dy5db2dy5~x2/"><circle cx="437.8" cy="114.3" r="4" fill="#3465a4"><title>Glenlivet Dress Reproduction</title></circle></a><a href="/setts/s8/db6db3ly3db2ly3db4ly48db4/"><circle cx="473.4" cy="113.0" r="4" fill="#3465a4"><title>Morris (Welsh Name)</title></circle></a><a href="/setts/s7/ly6dy14db10dy58g3dy8w2/"><circle cx="548.9" cy="148.0" r="4" fill="#3465a4"><title>Kozmyk (Corporate)</title></circle></a><circle cx="561.7" cy="93.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/lo83k6lo3k9r2k5lo2ly2~x2/

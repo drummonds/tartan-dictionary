@@ -8,5 +8,5 @@ A family of [Clan Morris](/clan/morris/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s6/lb2dg20db3k10dy20ly2~x2/"><img src="/setts/s6/lb2dg20db3k10dy20ly2~x2/sett.png" alt="Morris of Balgonie Htg (Personal)" width="240"><br>Morris of Balgonie Htg (Personal)</a>
+<a class="tartan" href="/setts/s6/ly2dy20k10db3dg20lb2~x2/"><img src="/setts/s6/ly2dy20k10db3dg20lb2~x2/sett.png" alt="Morris of Balgonie Htg (Personal)" width="240"><br>Morris of Balgonie Htg (Personal)</a>
 

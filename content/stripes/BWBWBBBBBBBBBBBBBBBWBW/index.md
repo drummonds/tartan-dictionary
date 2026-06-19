@@ -22,6 +22,6 @@ BWBWBBBBBBBBBBBBBBBWBW
 
 | Tartans |
 |---------------|
-| [Highland Sky](/setts/s22/n7lb4n20lb1n1dt2n2dt11n1n2dt2n43dt2n2n1dt11n2dt2n1lb1n20lb4~x2/)|
-|![Highland Sky example sett](/setts/s22/n7lb4n20lb1n1dt2n2dt11n1n2dt2n43dt2n2n1dt11n2dt2n1lb1n20lb4~x2/sett.png)|
+| [Highland Sky](/setts/s22/n43dt2n2n1dt11n2dt2n1lb1n20lb4n7~x2/)|
+|![Highland Sky example sett](/setts/s22/n43dt2n2n1dt11n2dt2n1lb1n20lb4n7~x2/sett.png)|
 

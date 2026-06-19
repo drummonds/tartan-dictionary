@@ -21,7 +21,7 @@ BGWGKBK
 Grouped by stripe pattern — the 3 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB G W G K DB K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">DB G W G K DB K</span></span>
+### K DB K G W G DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K G W G DB</span></span>
 
 | Tartans |
 |---------------|
@@ -30,14 +30,14 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 | [MacNeil of Colonsay](/setts/s7/db4g6w1g6k6db6k2~x4/)|
 |![MacNeil of Colonsay example sett](/setts/s7/db4g6w1g6k6db6k2~x4/sett.png)|
 
-### DB DG LB DG K DB K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">DB DG LB DG K DB K</span></span>
+### K DB K DG LB DG DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DG LB DG DB</span></span>
 
 | Tartans |
 |---------------|
 | [MacNeil of Colonsay](/setts/s7/db4dg6lb1dg6k6db6k2~x2/)|
 |![MacNeil of Colonsay example sett](/setts/s7/db4dg6lb1dg6k6db6k2~x2/sett.png)|
 
-### DB DG W DG K DB K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">DB DG W DG K DB K</span></span>
+### K DB K DG W DG DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DG W DG DB</span></span>
 
 | Tartans |
 |---------------|

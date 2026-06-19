@@ -21,7 +21,7 @@ BRBKY
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB R DB K LY <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB R DB K LY</span></span>
+### LY K DB R DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K DB R DB</span></span>
 
 | Tartans |
 |---------------|
@@ -30,7 +30,7 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 | [MacLaine of Lochbuie, hunting](/setts/s5/db32r3db4k1ly3~x2/)|
 |![MacLaine of Lochbuie, hunting example sett](/setts/s5/db32r3db4k1ly3~x2/sett.png)|
 
-### DT R DT K LO <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DT R DT K LO</span></span>
+### LO K DT R DT <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">LO K DT R DT</span></span>
 
 | Tartans |
 |---------------|

@@ -2,12 +2,18 @@
 title: "MacNab 6"
 date: 2023-03-18
 ---
-**Bands:** [GRRGRRK](/stripes/grrgrrk/) · **Stripes:** [G R M G M R K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">G R M G M R K</span></span>
+**Bands:** [KRRGRRG](/stripes/krrgrrg/) · **Stripes:** [K R M G M R G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K R M G M R G</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacNab 6
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -909,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 1. [MacNab 5](/setts/s7/g6r2r2g4r2r12k1~x2/) — ΔT 0.29
 1. [Cetoloni (Personal)](/setts/s6/db1r12g6ly1g6db1~x4/) — ΔT 0.68
 1. [MacNab (Crimson)](/setts/s7/dg28r7m7dg14m7r48k4~x2/) — ΔT 0.70
-1. [Lennox](/setts/s7/g2w1g10r2r10r1r2~x2/) — ΔT 0.73
-1. [Lennox](/setts/s7/g2lr1g10r2r10r1r2~x4/) — ΔT 0.73
+1. [Lennox](/setts/s7/r2r1r10r2g10w1g2~x2/) — ΔT 0.73
+1. [Lennox](/setts/s7/r2r1r10r2g10lr1g2~x4/) — ΔT 0.73
 1. [Burnett](/setts/s8/r4g14ly3g14r4g3r29y4~x2/) — ΔT 0.77
 1. [Scrymgeour](/setts/s7/r15k1y2db3r2k1y15~x6/) — ΔT 0.84
 1. [MacNab #3](/setts/s7/dg6r2r2dg4r2r12k1~x2/) — ΔT 0.89
@@ -919,8 +928,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g6r2r2g4r2r12k1~x2/"><circle cx="288.3" cy="190.5" r="4" fill="#3465a4"><title>MacNab 5</title></circle></a><a href="/setts/s6/db1r12g6ly1g6db1~x4/"><circle cx="288.5" cy="197.9" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/setts/s7/dg28r7m7dg14m7r48k4~x2/"><circle cx="298.4" cy="187.9" r="4" fill="#3465a4"><title>MacNab (Crimson)</title></circle></a><a href="/setts/s7/g2w1g10r2r10r1r2~x2/"><circle cx="270.3" cy="191.3" r="4" fill="#3465a4"><title>Lennox</title></circle></a><a href="/setts/s7/g2lr1g10r2r10r1r2~x4/"><circle cx="285.3" cy="198.1" r="4" fill="#3465a4"><title>Lennox</title></circle></a><a href="/setts/s8/r4g14ly3g14r4g3r29y4~x2/"><circle cx="308.9" cy="194.0" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/setts/s7/r15k1y2db3r2k1y15~x6/"><circle cx="306.0" cy="166.4" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/setts/s7/dg6r2r2dg4r2r12k1~x2/"><circle cx="298.1" cy="191.5" r="4" fill="#3465a4"><title>MacNab #3</title></circle></a><a href="/setts/s6/k2r16g6r3g8lb1~x2/"><circle cx="336.0" cy="189.9" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s6/k2r16g6r3g8w1~x4/"><circle cx="331.9" cy="187.8" r="4" fill="#3465a4"><title>MacAulay (Clan)</title></circle></a><circle cx="289.6" cy="187.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g6r2r2g4r2r12k1~x2/"><circle cx="288.0" cy="190.4" r="4" fill="#3465a4"><title>MacNab 5</title></circle></a><a href="/setts/s6/db1r12g6ly1g6db1~x4/"><circle cx="288.3" cy="197.8" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/setts/s7/dg28r7m7dg14m7r48k4~x2/"><circle cx="298.1" cy="187.8" r="4" fill="#3465a4"><title>MacNab (Crimson)</title></circle></a><a href="/setts/s7/r2r1r10r2g10w1g2~x2/"><circle cx="270.0" cy="191.3" r="4" fill="#3465a4"><title>Lennox</title></circle></a><a href="/setts/s7/r2r1r10r2g10lr1g2~x4/"><circle cx="285.0" cy="198.1" r="4" fill="#3465a4"><title>Lennox</title></circle></a><a href="/setts/s8/r4g14ly3g14r4g3r29y4~x2/"><circle cx="308.6" cy="193.9" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/setts/s7/r15k1y2db3r2k1y15~x6/"><circle cx="305.7" cy="166.4" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/setts/s7/dg6r2r2dg4r2r12k1~x2/"><circle cx="297.8" cy="191.4" r="4" fill="#3465a4"><title>MacNab #3</title></circle></a><a href="/setts/s6/k2r16g6r3g8lb1~x2/"><circle cx="335.7" cy="189.8" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s6/k2r16g6r3g8w1~x4/"><circle cx="331.6" cy="187.7" r="4" fill="#3465a4"><title>MacAulay (Clan)</title></circle></a><circle cx="289.3" cy="186.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/g28r7m7g14m7r48k4~x2/

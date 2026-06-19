@@ -2,7 +2,7 @@
 title: "University Plaid"
 date: 2023-03-18
 ---
-**Bands:** [GRGGBGBGRGR](/stripes/grggbgbgrgr/) · **Stripes:** [DG R DG Y DB Y DB Y R DG R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG R DG Y DB Y DB Y R DG R</span></span>
+**Bands:** [RGRGBGBGGRG](/stripes/rgrgbgbggrg/) · **Stripes:** [R DG R Y DB Y DB Y DG R DG](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG R Y DB Y DB Y DG R DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4390
 
 ## Thread count
-DG/8 DR2 DG6 LT2 DB6 LT2 DB6 LT2 DR8 DG6 DR/8
+DR/8 DG6 DR8 LT2 DB6 LT2 DB6 LT2 DG6 DR2 DG/8
 ![Sett](sett.png)
 
 ## Palette
@@ -41,10 +41,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Huntly #3](/setts/s10/dy2lr1dy5k4do5o1do5k4dy5lr1~x4/) — ΔT 1.19
+1. [Huntly #3](/setts/s10/dy2lr1dy5k4do5o1~x4/) — ΔT 1.19
 1. [Wilson's No.231](/setts/s10/dp8k9y2dg10k2dg10y2k9dp8dg2~x2/) — ΔT 1.28
 1. [Murray of Atholl](/setts/s13/db18dy4db3dy3db3dy18g18r10g18dy18db18dy3r10~x2/) — ΔT 1.32
-1. [Price-Powell (Personal)](/setts/s12/db14p5db4p5db14k14dg14k4lo4k8dg14k14~x2/) — ΔT 1.32
+1. [Price-Powell (Personal)](/setts/s12/k14dg14k8lo4k4dg14k14db14p5db4p5db14~x2/) — ΔT 1.32
 1. [Longford, County](/setts/s10/db5k3db18dg6k6dg6dy12r5dy12r3~x2/) — ΔT 1.39
 1. [Hueg (Munich) Hunting (Personal)](/setts/s11/r10do10r4dg2r2do2r4dg12dp12dg3dp4~x2/) — ΔT 1.40
 1. [Gleneagles Group Corporate Tartan Tartan Number: 2107. Earliest known date: 1989 Designed for a range of tartan goods called the Gleneagles Collection. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/dr5g6dy1g6dr5db6dr1~x2/) — ΔT 1.41
@@ -54,8 +54,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dy2lr1dy5k4do5o1do5k4dy5lr1~x4/"><circle cx="167.0" cy="260.1" r="4" fill="#3465a4"><title>Huntly #3</title></circle></a><a href="/setts/s10/dp8k9y2dg10k2dg10y2k9dp8dg2~x2/"><circle cx="171.7" cy="264.9" r="4" fill="#3465a4"><title>Wilson's No.231</title></circle></a><a href="/setts/s13/db18dy4db3dy3db3dy18g18r10g18dy18db18dy3r10~x2/"><circle cx="159.8" cy="235.2" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/setts/s12/db14p5db4p5db14k14dg14k4lo4k8dg14k14~x2/"><circle cx="135.5" cy="275.0" r="4" fill="#3465a4"><title>Price-Powell (Personal)</title></circle></a><a href="/setts/s10/db5k3db18dg6k6dg6dy12r5dy12r3~x2/"><circle cx="154.6" cy="246.7" r="4" fill="#3465a4"><title>Longford, County</title></circle></a><a href="/setts/s11/r10do10r4dg2r2do2r4dg12dp12dg3dp4~x2/"><circle cx="175.0" cy="238.7" r="4" fill="#3465a4"><title>Hueg (Munich) Hunting (Personal)</title></circle></a><a href="/setts/s7/dr5g6dy1g6dr5db6dr1~x2/"><circle cx="212.8" cy="283.4" r="4" fill="#3465a4"><title>Gleneagles Group Corporate Tartan Tartan Number: 2107. Earliest known date: 1989 Designed for a range of tartan goods called the Gleneagles Collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/do10r3do10g14k12db12do14r4~x2/"><circle cx="174.5" cy="293.4" r="4" fill="#3465a4"><title>Wcwm 1310</title></circle></a><a href="/setts/s7/dy7r3dy9g15db19dy14r4~x2/"><circle cx="229.6" cy="279.7" r="4" fill="#3465a4"><title>Dorward/Dogwood</title></circle></a><a href="/setts/s8/r12r4r4r4r4dt11dg12t4~x2/"><circle cx="130.2" cy="269.1" r="4" fill="#3465a4"><title>Akins Clan Tartan Tartan Number: 2426. Earliest known date: 1822 This is the `Approved` tartan for the Akins Clan See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="170.1" cy="283.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dy2lr1dy5k4do5o1~x4/"><circle cx="167.1" cy="260.3" r="4" fill="#3465a4"><title>Huntly #3</title></circle></a><a href="/setts/s10/dp8k9y2dg10k2dg10y2k9dp8dg2~x2/"><circle cx="171.9" cy="265.0" r="4" fill="#3465a4"><title>Wilson's No.231</title></circle></a><a href="/setts/s13/db18dy4db3dy3db3dy18g18r10g18dy18db18dy3r10~x2/"><circle cx="159.8" cy="235.3" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/setts/s12/k14dg14k8lo4k4dg14k14db14p5db4p5db14~x2/"><circle cx="135.8" cy="275.2" r="4" fill="#3465a4"><title>Price-Powell (Personal)</title></circle></a><a href="/setts/s10/db5k3db18dg6k6dg6dy12r5dy12r3~x2/"><circle cx="154.7" cy="247.0" r="4" fill="#3465a4"><title>Longford, County</title></circle></a><a href="/setts/s11/r10do10r4dg2r2do2r4dg12dp12dg3dp4~x2/"><circle cx="175.1" cy="238.9" r="4" fill="#3465a4"><title>Hueg (Munich) Hunting (Personal)</title></circle></a><a href="/setts/s7/dr5g6dy1g6dr5db6dr1~x2/"><circle cx="212.9" cy="283.4" r="4" fill="#3465a4"><title>Gleneagles Group Corporate Tartan Tartan Number: 2107. Earliest known date: 1989 Designed for a range of tartan goods called the Gleneagles Collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/do10r3do10g14k12db12do14r4~x2/"><circle cx="174.8" cy="293.5" r="4" fill="#3465a4"><title>Wcwm 1310</title></circle></a><a href="/setts/s7/dy7r3dy9g15db19dy14r4~x2/"><circle cx="229.6" cy="279.8" r="4" fill="#3465a4"><title>Dorward/Dogwood</title></circle></a><a href="/setts/s8/r12r4r4r4r4dt11dg12t4~x2/"><circle cx="130.3" cy="269.3" r="4" fill="#3465a4"><title>Akins Clan Tartan Tartan Number: 2426. Earliest known date: 1822 This is the `Approved` tartan for the Akins Clan See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="170.2" cy="283.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/dg4r1dg3y1db3y1db3y1r4dg3r4~x2/

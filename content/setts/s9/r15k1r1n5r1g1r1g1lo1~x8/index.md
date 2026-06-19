@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3239
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Oliver, Red
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -25,7 +31,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1606
 
 ## Thread count
-DY/8 G8 T8 G8 T8 Ga40 T8 K8 T/120
+T/120 K8 T8 Ga40 T8 G8 T8 G8 DY/8
 ![Sett](sett.png)
 
 ## Palette
@@ -45,8 +51,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Galway Irish County Tartan Tartan Number: 2254. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/lo4o2db3o40db3o3db4o3y13o4~x2/) — ΔT 1.12
-1. [Galway, County](/setts/s10/lo4r2dp3r40dp3r3dp4r3dg13r4~x2/) — ΔT 1.41
+1. [Galway Irish County Tartan Tartan Number: 2254. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/o4y13o3db4o3db3o40db3o2lo4~x2/) — ΔT 1.12
+1. [Galway, County](/setts/s10/r4dg13r3dp4r3dp3r40dp3r2lo4~x2/) — ΔT 1.41
 1. [Tyrone Irish County Tartan Tartan Number: 2264. Earliest known date: 1993 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/dr50o6dy7dg2dy2ly2dy2o14dr8dy2dr9dg3~x2/) — ΔT 1.57
 1. [Oakhall (Corporate)](/setts/s8/k3r48g6r6g12ly3g2k3~x2/) — ΔT 1.59
 1. [Tyrone, County](/setts/s12/r50y6do7dg2do2lb2do2y14r8dg2r9dg3~x2/) — ΔT 1.62
@@ -58,8 +64,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/lo4o2db3o40db3o3db4o3y13o4~x2/"><circle cx="463.3" cy="142.7" r="4" fill="#3465a4"><title>Galway Irish County Tartan Tartan Number: 2254. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/lo4r2dp3r40dp3r3dp4r3dg13r4~x2/"><circle cx="474.7" cy="145.4" r="4" fill="#3465a4"><title>Galway, County</title></circle></a><a href="/setts/s12/dr50o6dy7dg2dy2ly2dy2o14dr8dy2dr9dg3~x2/"><circle cx="425.0" cy="114.2" r="4" fill="#3465a4"><title>Tyrone Irish County Tartan Tartan Number: 2264. Earliest known date: 1993 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/k3r48g6r6g12ly3g2k3~x2/"><circle cx="459.2" cy="142.0" r="4" fill="#3465a4"><title>Oakhall (Corporate)</title></circle></a><a href="/setts/s12/r50y6do7dg2do2lb2do2y14r8dg2r9dg3~x2/"><circle cx="469.3" cy="131.2" r="4" fill="#3465a4"><title>Tyrone, County</title></circle></a><a href="/setts/s12/k1r14g1r1g6lb2g6r1g1r14k1lb1~x4/"><circle cx="374.9" cy="139.7" r="4" fill="#3465a4"><title>MacMaster Clan/Family Tartan Tartan Number: 3493. Earliest known date: 1986 Designed by Phil Smith in 1986 for all of the names MacMaster, MacMasters etc. See MacMasters Canada. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/k3y3lo2y30k2y3m12y6m6k3y3~x2/"><circle cx="374.3" cy="146.9" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><a href="/setts/s13/do17do3do2do1do1do1do1do1r3lo2do1lo2r1~x4/"><circle cx="414.7" cy="134.2" r="4" fill="#3465a4"><title>Kinnaird (1984)</title></circle></a><a href="/setts/s12/r42db3r6lo2r2lb2r2g14r8r2r3lb2~x2/"><circle cx="389.9" cy="91.8" r="4" fill="#3465a4"><title>Wcwm 1286-9</title></circle></a><a href="/setts/s10/dr30g4dp3t3g4dr30dp3t3dg4ly2~x2/"><circle cx="437.5" cy="138.4" r="4" fill="#3465a4"><title>Islay Whisky Club (Corporate)</title></circle></a><circle cx="459.1" cy="147.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/o4y13o3db4o3db3o40db3o2lo4~x2/"><circle cx="462.8" cy="142.6" r="4" fill="#3465a4"><title>Galway Irish County Tartan Tartan Number: 2254. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r4dg13r3dp4r3dp3r40dp3r2lo4~x2/"><circle cx="474.3" cy="145.3" r="4" fill="#3465a4"><title>Galway, County</title></circle></a><a href="/setts/s12/dr50o6dy7dg2dy2ly2dy2o14dr8dy2dr9dg3~x2/"><circle cx="424.7" cy="114.2" r="4" fill="#3465a4"><title>Tyrone Irish County Tartan Tartan Number: 2264. Earliest known date: 1993 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/k3r48g6r6g12ly3g2k3~x2/"><circle cx="458.8" cy="141.9" r="4" fill="#3465a4"><title>Oakhall (Corporate)</title></circle></a><a href="/setts/s12/r50y6do7dg2do2lb2do2y14r8dg2r9dg3~x2/"><circle cx="468.9" cy="131.3" r="4" fill="#3465a4"><title>Tyrone, County</title></circle></a><a href="/setts/s12/k1r14g1r1g6lb2g6r1g1r14k1lb1~x4/"><circle cx="374.5" cy="139.7" r="4" fill="#3465a4"><title>MacMaster Clan/Family Tartan Tartan Number: 3493. Earliest known date: 1986 Designed by Phil Smith in 1986 for all of the names MacMaster, MacMasters etc. See MacMasters Canada. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/k3y3lo2y30k2y3m12y6m6k3y3~x2/"><circle cx="373.9" cy="146.9" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><a href="/setts/s13/do17do3do2do1do1do1do1do1r3lo2do1lo2r1~x4/"><circle cx="414.4" cy="134.3" r="4" fill="#3465a4"><title>Kinnaird (1984)</title></circle></a><a href="/setts/s12/r42db3r6lo2r2lb2r2g14r8r2r3lb2~x2/"><circle cx="389.5" cy="91.9" r="4" fill="#3465a4"><title>Wcwm 1286-9</title></circle></a><a href="/setts/s10/dr30g4dp3t3g4dr30dp3t3dg4ly2~x2/"><circle cx="437.2" cy="138.4" r="4" fill="#3465a4"><title>Islay Whisky Club (Corporate)</title></circle></a><circle cx="458.6" cy="147.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r15k1r1n5r1g1r1g1lo1~x8/

@@ -21,14 +21,14 @@ GWR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DG W R <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG W R</span></span>
+### R W DG <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">R W DG</span></span>
 
 | Tartans |
 |---------------|
 | [Juchter (Personal)](/setts/s3/dg20w5r3~x2/)|
 |![Juchter (Personal) example sett](/setts/s3/dg20w5r3~x2/sett.png)|
 
-### Y W R <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">Y W R</span></span>
+### R W Y <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R W Y</span></span>
 
 | Tartans |
 |---------------|

@@ -2,12 +2,18 @@
 title: "MacDuff"
 date: 2023-03-18
 ---
-**Bands:** [RBKGRKR](/stripes/rbkgrkr/) · **Stripes:** [R T K G R K R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R T K G R K R</span></span>
+**Bands:** [RKRGKBR](/stripes/rkrgkbr/) · **Stripes:** [R K R G K T R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R G K T R</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacDuff #5
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,16 +920,16 @@ The nearest existing variants by ΔTartan distance.
 1. [MacDuff #5](/setts/s7/r8t3k4dg6r4k1r4~x2/) — ΔT 0.73
 1. [MacDuff Clan Tartan Tartan Number: 2141. Earliest known date: 1831 According to D.C.Stewart, "It will be observed that the MacDuff tartan is substantially the Royal Stuart with the white and yellow lines removed. Whether this indicates it as a source of the Stuart, or the association of the Earls of Fife with the Crown, remains to be determined." James Logan published this sett in his book, 'The Scottish Gael' in 1831. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r8db3k4g6r4k1r4~x4/) — ΔT 0.88
 1. [Unidentified item](/setts/s5/dg9w1r9k9r9~x8/) — ΔT 0.91
-1. [Unidentified, item](/setts/s5/g9w1r9k9r9~x8/) — ΔT 0.99
-1. [Torana](/setts/s6/lo13dt13lo2o5dt13r13~x2/) — ΔT 1.03
+1. [Unidentified, item](/setts/s5/r9k9r9w1g9~x8/) — ΔT 0.99
+1. [Torana](/setts/s6/r13dt13o5lo2dt13lo13~x2/) — ΔT 1.03
 1. [MacDuff #2](/setts/s7/r22t8k9dg14r10t2r10~x2/) — ΔT 1.13
 1. [MacTavish](/setts/s7/r6g1r6db1g3k3g3~x4/) — ΔT 1.18
 1. [Connel](/setts/s6/r8k8ly1k8r8w1~x4/) — ΔT 1.30
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r8db3k4dg6r4k1r4~x2/"><circle cx="219.5" cy="231.9" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s7/r22t8k9g14r10t2r10~x2/"><circle cx="254.6" cy="213.1" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s7/r8t3k4dg6r4k1r4~x2/"><circle cx="231.9" cy="232.9" r="4" fill="#3465a4"><title>MacDuff #5</title></circle></a><a href="/setts/s7/r8db3k4g6r4k1r4~x4/"><circle cx="240.0" cy="239.6" r="4" fill="#3465a4"><title>MacDuff Clan Tartan Tartan Number: 2141. Earliest known date: 1831 According to D.C.Stewart, &quot;It will be observed that the MacDuff tartan is substantially the Royal Stuart with the white and yellow lines removed. Whether this indicates it as a source of the Stuart, or the association of the Earls of Fife with the Crown, remains to be determined.&quot; James Logan published this sett in his book, 'The Scottish Gael' in 1831. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/dg9w1r9k9r9~x8/"><circle cx="212.4" cy="247.7" r="4" fill="#3465a4"><title>Unidentified item</title></circle></a><a href="/setts/s5/g9w1r9k9r9~x8/"><circle cx="193.4" cy="243.5" r="4" fill="#3465a4"><title>Unidentified, item</title></circle></a><a href="/setts/s6/lo13dt13lo2o5dt13r13~x2/"><circle cx="163.6" cy="245.5" r="4" fill="#3465a4"><title>Torana</title></circle></a><a href="/setts/s7/r22t8k9dg14r10t2r10~x2/"><circle cx="268.7" cy="215.9" r="4" fill="#3465a4"><title>MacDuff #2</title></circle></a><a href="/setts/s7/r6g1r6db1g3k3g3~x4/"><circle cx="247.2" cy="240.3" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/setts/s6/r8k8ly1k8r8w1~x4/"><circle cx="246.2" cy="226.8" r="4" fill="#3465a4"><title>Connel</title></circle></a><circle cx="214.7" cy="228.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r8db3k4dg6r4k1r4~x2/"><circle cx="219.4" cy="231.8" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s7/r22t8k9g14r10t2r10~x2/"><circle cx="254.4" cy="212.9" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s7/r8t3k4dg6r4k1r4~x2/"><circle cx="231.8" cy="232.8" r="4" fill="#3465a4"><title>MacDuff #5</title></circle></a><a href="/setts/s7/r8db3k4g6r4k1r4~x4/"><circle cx="239.9" cy="239.5" r="4" fill="#3465a4"><title>MacDuff Clan Tartan Tartan Number: 2141. Earliest known date: 1831 According to D.C.Stewart, &quot;It will be observed that the MacDuff tartan is substantially the Royal Stuart with the white and yellow lines removed. Whether this indicates it as a source of the Stuart, or the association of the Earls of Fife with the Crown, remains to be determined.&quot; James Logan published this sett in his book, 'The Scottish Gael' in 1831. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/dg9w1r9k9r9~x8/"><circle cx="212.4" cy="247.6" r="4" fill="#3465a4"><title>Unidentified item</title></circle></a><a href="/setts/s5/r9k9r9w1g9~x8/"><circle cx="193.4" cy="243.3" r="4" fill="#3465a4"><title>Unidentified, item</title></circle></a><a href="/setts/s6/r13dt13o5lo2dt13lo13~x2/"><circle cx="163.6" cy="245.4" r="4" fill="#3465a4"><title>Torana</title></circle></a><a href="/setts/s7/r22t8k9dg14r10t2r10~x2/"><circle cx="268.5" cy="215.7" r="4" fill="#3465a4"><title>MacDuff #2</title></circle></a><a href="/setts/s7/r6g1r6db1g3k3g3~x4/"><circle cx="247.0" cy="240.2" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/setts/s6/r8k8ly1k8r8w1~x4/"><circle cx="246.1" cy="226.6" r="4" fill="#3465a4"><title>Connel</title></circle></a><circle cx="214.6" cy="228.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r8t3k4g6r4k1r4~x2/

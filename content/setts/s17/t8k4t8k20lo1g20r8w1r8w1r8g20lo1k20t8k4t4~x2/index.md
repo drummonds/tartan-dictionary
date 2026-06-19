@@ -24,7 +24,7 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 Later records of the **Cumming** name adjusted Logan's counts: [Cumming](/setts/s22/g10r3b12ba1r10g12r3b20r3b3ba1r3b20r3g12r12ba1b12r3g20r3b3~b2c4084-ba3c82af-g005020-rdc0000~x2/); [Cumming #2](/setts/s8/r3g9w1g9r3g6r18k2~g006818-k101010-rc80000-wfcfcfc~x2/); [Cumming and Glenorchy](/setts/s22/r3b20r3g12r8ba1b12r3g22r3b3g33r3b12ba1r8g12r3b20r3b3ba1~b2c4084-ba3c82af-g005020-rdc0000~x2/); [Cumming Hunting](/setts/s23/k1r1g8r1k6b1r6g6r1k8r1b1k1r1k8r1g6r6b1k6r1g8r1~b2888c4-g006818-k101010-rc80000~x4/). Compare their thread counts with Logan's above.
 
 ## Thread count
-B/8 K8 B16 K40 O2 G40 R16 LN2 R16 LN2 R16 G40 O2 K40 B16 K8 B/16
+B/16 K8 B16 K40 O2 G40 R16 LN2 R16 LN2 R16 G40 O2 K40 B16 K8 B/8
 ![Sett](sett.png)
 
 ## Palette
@@ -46,18 +46,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Unidentified - C20th](/setts/s15/db2k2db8k8g12k1w2k1g12k8r3t3r14t2r2~x2/) — ΔT 0.78
 1. [Buchanan, hunting](/setts/s18/g24k2t6k2m12w1m12k2t6k2o12k2o12k2t6k2g12t6~x2/) — ΔT 0.83
 1. [Hay Gray (Personal)](/setts/s14/o18k2o2k2o9g10ly2g10dp11k9dp2k2dp1r3~x2/) — ΔT 0.97
-1. [Norwich No.001](/setts/s22/r8y7k8lo2k1lb3k1dg19k1r8y3r8y3r8k1dg19k1lb3k1lo2k8y7~x2/) — ΔT 1.01
+1. [Norwich No.001](/setts/s22/r8y7k8lo2k1lb3k1dg19k1r8y3r8~x2/) — ΔT 1.01
 1. [Scottish Wildcat](/setts/s14/dr10w1do1w2o10dr8do2k17do2dr7o19k3ly1k1~x2/) — ΔT 1.01
 1. [Jones, Melnyk (Personal)](/setts/s20/g5k5g5r12g3k15g3k2w1k2t7k2ly10k2t7k2w1k3r15k3~x2/) — ΔT 1.04
 1. [Watson - Kirby (Personal)](/setts/s15/dg10ly6dg20k20db20k6db8r6db20r6w4r16w4db6w1~x2/) — ΔT 1.10
+1. [Wilson's No.090](/setts/s22/r18t13k16lo3k3lb5k3dg32k2r15t5r15~x2/) — ΔT 1.12
 1. [Castlefield (Personal)](/setts/s12/lr3k15y10o10k1g5k1lo10k10g8k1y2~x2/) — ΔT 1.12
-1. [Wilson's No.090](/setts/s22/r18t13k16lo3k3lb5k3dg32k2r15t5r15t5r15k2dg32k3lb5k3lo3k16t13~x2/) — ΔT 1.12
 1. [Blue Castlefield](/setts/s12/lr3k15k10o10k1g5k1o10k10g8k1k2~x2/) — ΔT 1.13
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db2k2db8k8g12k1w2k1g12k8r3t3r14t2r2~x2/"><circle cx="101.2" cy="123.2" r="4" fill="#3465a4"><title>Unidentified - C20th</title></circle></a><a href="/setts/s18/g24k2t6k2m12w1m12k2t6k2o12k2o12k2t6k2g12t6~x2/"><circle cx="114.6" cy="97.2" r="4" fill="#3465a4"><title>Buchanan, hunting</title></circle></a><a href="/setts/s14/o18k2o2k2o9g10ly2g10dp11k9dp2k2dp1r3~x2/"><circle cx="130.1" cy="110.8" r="4" fill="#3465a4"><title>Hay Gray (Personal)</title></circle></a><a href="/setts/s22/r8y7k8lo2k1lb3k1dg19k1r8y3r8y3r8k1dg19k1lb3k1lo2k8y7~x2/"><circle cx="118.1" cy="84.9" r="4" fill="#3465a4"><title>Norwich No.001</title></circle></a><a href="/setts/s14/dr10w1do1w2o10dr8do2k17do2dr7o19k3ly1k1~x2/"><circle cx="157.8" cy="102.3" r="4" fill="#3465a4"><title>Scottish Wildcat</title></circle></a><a href="/setts/s20/g5k5g5r12g3k15g3k2w1k2t7k2ly10k2t7k2w1k3r15k3~x2/"><circle cx="99.6" cy="97.1" r="4" fill="#3465a4"><title>Jones, Melnyk (Personal)</title></circle></a><a href="/setts/s15/dg10ly6dg20k20db20k6db8r6db20r6w4r16w4db6w1~x2/"><circle cx="111.6" cy="125.0" r="4" fill="#3465a4"><title>Watson - Kirby (Personal)</title></circle></a><a href="/setts/s12/lr3k15y10o10k1g5k1lo10k10g8k1y2~x2/"><circle cx="110.6" cy="135.5" r="4" fill="#3465a4"><title>Castlefield (Personal)</title></circle></a><a href="/setts/s22/r18t13k16lo3k3lb5k3dg32k2r15t5r15t5r15k2dg32k3lb5k3lo3k16t13~x2/"><circle cx="99.4" cy="96.4" r="4" fill="#3465a4"><title>Wilson's No.090</title></circle></a><a href="/setts/s12/lr3k15k10o10k1g5k1o10k10g8k1k2~x2/"><circle cx="121.9" cy="144.7" r="4" fill="#3465a4"><title>Blue Castlefield</title></circle></a><circle cx="129.8" cy="108.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db2k2db8k8g12k1w2k1g12k8r3t3r14t2r2~x2/"><circle cx="101.3" cy="123.4" r="4" fill="#3465a4"><title>Unidentified - C20th</title></circle></a><a href="/setts/s18/g24k2t6k2m12w1m12k2t6k2o12k2o12k2t6k2g12t6~x2/"><circle cx="114.6" cy="97.5" r="4" fill="#3465a4"><title>Buchanan, hunting</title></circle></a><a href="/setts/s14/o18k2o2k2o9g10ly2g10dp11k9dp2k2dp1r3~x2/"><circle cx="130.1" cy="110.9" r="4" fill="#3465a4"><title>Hay Gray (Personal)</title></circle></a><a href="/setts/s22/r8y7k8lo2k1lb3k1dg19k1r8y3r8~x2/"><circle cx="118.0" cy="85.1" r="4" fill="#3465a4"><title>Norwich No.001</title></circle></a><a href="/setts/s14/dr10w1do1w2o10dr8do2k17do2dr7o19k3ly1k1~x2/"><circle cx="157.8" cy="102.4" r="4" fill="#3465a4"><title>Scottish Wildcat</title></circle></a><a href="/setts/s20/g5k5g5r12g3k15g3k2w1k2t7k2ly10k2t7k2w1k3r15k3~x2/"><circle cx="99.5" cy="97.3" r="4" fill="#3465a4"><title>Jones, Melnyk (Personal)</title></circle></a><a href="/setts/s15/dg10ly6dg20k20db20k6db8r6db20r6w4r16w4db6w1~x2/"><circle cx="111.7" cy="125.1" r="4" fill="#3465a4"><title>Watson - Kirby (Personal)</title></circle></a><a href="/setts/s22/r18t13k16lo3k3lb5k3dg32k2r15t5r15~x2/"><circle cx="99.3" cy="96.6" r="4" fill="#3465a4"><title>Wilson's No.090</title></circle></a><a href="/setts/s12/lr3k15y10o10k1g5k1lo10k10g8k1y2~x2/"><circle cx="110.6" cy="135.6" r="4" fill="#3465a4"><title>Castlefield (Personal)</title></circle></a><a href="/setts/s12/lr3k15k10o10k1g5k1o10k10g8k1k2~x2/"><circle cx="122.0" cy="144.8" r="4" fill="#3465a4"><title>Blue Castlefield</title></circle></a><circle cx="129.8" cy="108.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s17/t8k4t8k20lo1g20r8w1r8w1r8g20lo1k20t8k4t4~x2/

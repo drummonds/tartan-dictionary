@@ -22,6 +22,6 @@ BBBWBBWBWBBWBB
 
 | Tartans |
 |---------------|
-| [Salem Scottish Dancers (Dance) #2](/setts/s14/b5dt30w4dt4b18w3dt3w3b18dt4w4dt30b5dt5~x2/)|
-|![Salem Scottish Dancers (Dance) #2 example sett](/setts/s14/b5dt30w4dt4b18w3dt3w3b18dt4w4dt30b5dt5~x2/sett.png)|
+| [Salem Scottish Dancers (Dance) #2](/setts/s14/dt5b5dt30w4dt4b18w3dt3w3b18dt4w4dt30b5~x2/)|
+|![Salem Scottish Dancers (Dance) #2 example sett](/setts/s14/dt5b5dt30w4dt4b18w3dt3w3b18dt4w4dt30b5~x2/sett.png)|
 

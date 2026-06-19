@@ -85,20 +85,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Dougles Green](/setts/s5/k4b2dg8db8lr1/) — ΔT 0.00
-1. [Davidson of Tulloch](/setts/s5/lr1dg6k3db6r1~x2/) — ΔT 0.61
+1. [Davidson of Tulloch](/setts/s5/r1db6k3dg6lr1~x2/) — ΔT 0.61
 1. [Douglas](/setts/s5/k2b2dg8db8lr1~x2/) — ΔT 0.64
 1. [Douglas](/setts/s5/k2b2dg8db8lr1/) — ΔT 0.64
 1. [Bhatti](/setts/s5/k7lt3dg18db18w2~x2/) — ΔT 0.84
-1. [Davidson of Tulloch](/setts/s5/lb1dg6k3db6r1/) — ΔT 0.90
+1. [Davidson of Tulloch](/setts/s5/r1db6k3dg6lb1/) — ΔT 0.90
 1. [Leslie Hunting](/setts/s6/r2db8k8lr1dg8k1~x2/) — ΔT 0.94
 1. [Leslie Hunting](/setts/s6/r2db8k8lr1dg8k1/) — ΔT 0.94
 1. [Mitchell (Clan)](/setts/s6/k2g17k16r2db17lr2~x2/) — ΔT 0.97
-1. [Leslie Hunting](/setts/s6/r2db8k8lb1dg8k1~x2/) — ΔT 1.02
+1. [Leslie Hunting](/setts/s6/r2db8k8lb1dg8k1/) — ΔT 1.02
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k4b2dg8db8lr1/"><circle cx="146.6" cy="244.9" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><a href="/setts/s5/lr1dg6k3db6r1~x2/"><circle cx="139.9" cy="249.2" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/setts/s5/k2b2dg8db8lr1~x2/"><circle cx="182.2" cy="237.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/setts/s5/k2b2dg8db8lr1/"><circle cx="182.2" cy="237.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/setts/s5/k7lt3dg18db18w2~x2/"><circle cx="164.9" cy="225.1" r="4" fill="#3465a4"><title>Bhatti</title></circle></a><a href="/setts/s5/lb1dg6k3db6r1/"><circle cx="125.7" cy="241.9" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/setts/s6/r2db8k8lr1dg8k1~x2/"><circle cx="138.8" cy="226.4" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/setts/s6/r2db8k8lr1dg8k1/"><circle cx="138.8" cy="226.4" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/setts/s6/k2g17k16r2db17lr2~x2/"><circle cx="162.9" cy="221.3" r="4" fill="#3465a4"><title>Mitchell (Clan)</title></circle></a><a href="/setts/s6/r2db8k8lb1dg8k1~x2/"><circle cx="124.6" cy="219.0" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><circle cx="146.6" cy="244.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k4b2dg8db8lr1/"><circle cx="147.0" cy="245.0" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><a href="/setts/s5/r1db6k3dg6lr1~x2/"><circle cx="140.2" cy="249.2" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/setts/s5/k2b2dg8db8lr1~x2/"><circle cx="182.5" cy="237.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/setts/s5/k2b2dg8db8lr1/"><circle cx="182.5" cy="237.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/setts/s5/k7lt3dg18db18w2~x2/"><circle cx="165.2" cy="225.1" r="4" fill="#3465a4"><title>Bhatti</title></circle></a><a href="/setts/s5/r1db6k3dg6lb1/"><circle cx="126.0" cy="241.9" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/setts/s6/r2db8k8lr1dg8k1~x2/"><circle cx="139.2" cy="226.5" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/setts/s6/r2db8k8lr1dg8k1/"><circle cx="139.2" cy="226.5" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/setts/s6/k2g17k16r2db17lr2~x2/"><circle cx="163.2" cy="221.4" r="4" fill="#3465a4"><title>Mitchell (Clan)</title></circle></a><a href="/setts/s6/r2db8k8lb1dg8k1/"><circle cx="124.9" cy="219.0" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><circle cx="147.0" cy="245.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/k4b2dg8db8lr1~x2/

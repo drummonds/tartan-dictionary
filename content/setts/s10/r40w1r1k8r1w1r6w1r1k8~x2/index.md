@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Miyuki, Check Red, 1002A
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DB/16 R2 LN2 R12 LN2 R2 DB16 R2 LN2 R/80
+R/80 LN2 R2 DB16 R2 LN2 R12 LN2 R2 DB/16
 ![Sett](sett.png)
 
 ## Palette
@@ -907,15 +916,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Masai Shuka 05 (Artefact)](/setts/s10/r80w7k2w2k2r3k7r2p12k2~x2/) — ΔT 1.34
 1. [Old Spice (Corporate)](/setts/s10/r104dg3r5dg3r18dg8w9r9w9r3/) — ΔT 1.35
 1. [Virgin](/setts/s8/r51o2r6k10r2k4o3k3~x2/) — ΔT 1.37
-1. [Masai Shuka 27 (Artefact)](/setts/s10/r30db8r2k1r2k1r2k1r2db8~x2/) — ΔT 1.40
+1. [Masai Shuka 27 (Artefact)](/setts/s10/r30db8r2k1r2k1~x2/) — ΔT 1.40
 1. [Unnamed C20th - Skirt](/setts/s10/r58k12r4k2ly2k2r10w5k2ly4~x2/) — ΔT 1.46
 1. [Southern Illinois University - Carbondale](/setts/s9/k5dr40k4w2k4dr10w4dr5w1~x2/) — ΔT 1.49
-1. [Milan Club Scozia (Corporate)](/setts/s17/r48k2r2k2r4k2r2k2r4w1k4r2k2r2k18r5w6/) — ΔT 1.52
+1. [Milan Club Scozia (Corporate)](/setts/s17/r48k2r2k2r4k2r2k2r4w1k4r2k2r2k18r5w6~x2/) — ΔT 1.52
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k5r40k4w2k4r10w4r5w1~x2/"><circle cx="526.1" cy="119.5" r="4" fill="#3465a4"><title>Southern Illinois University (Corp.)</title></circle></a><a href="/setts/s10/r40w1r1dt8r1w1r6w1r1dt8~x2/"><circle cx="547.3" cy="100.0" r="4" fill="#3465a4"><title>Miyuki #2</title></circle></a><a href="/setts/s13/k6r1k1r1k1r5k2r5k4r2w1r40w1~x2/"><circle cx="579.3" cy="76.1" r="4" fill="#3465a4"><title>Jupiter Shop Channel Co., Ltd (Corp)</title></circle></a><a href="/setts/s10/r80w7k2w2k2r3k7r2p12k2~x2/"><circle cx="510.3" cy="64.5" r="4" fill="#3465a4"><title>Masai Shuka 05 (Artefact)</title></circle></a><a href="/setts/s10/r104dg3r5dg3r18dg8w9r9w9r3/"><circle cx="591.7" cy="102.9" r="4" fill="#3465a4"><title>Old Spice (Corporate)</title></circle></a><a href="/setts/s8/r51o2r6k10r2k4o3k3~x2/"><circle cx="519.0" cy="117.4" r="4" fill="#3465a4"><title>Virgin</title></circle></a><a href="/setts/s10/r30db8r2k1r2k1r2k1r2db8~x2/"><circle cx="496.4" cy="121.0" r="4" fill="#3465a4"><title>Masai Shuka 27 (Artefact)</title></circle></a><a href="/setts/s10/r58k12r4k2ly2k2r10w5k2ly4~x2/"><circle cx="477.9" cy="90.7" r="4" fill="#3465a4"><title>Unnamed C20th - Skirt</title></circle></a><a href="/setts/s9/k5dr40k4w2k4dr10w4dr5w1~x2/"><circle cx="514.0" cy="120.5" r="4" fill="#3465a4"><title>Southern Illinois University - Carbondale</title></circle></a><a href="/setts/s17/r48k2r2k2r4k2r2k2r4w1k4r2k2r2k18r5w6/"><circle cx="464.2" cy="56.9" r="4" fill="#3465a4"><title>Milan Club Scozia (Corporate)</title></circle></a><circle cx="522.4" cy="90.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k5r40k4w2k4r10w4r5w1~x2/"><circle cx="525.6" cy="119.2" r="4" fill="#3465a4"><title>Southern Illinois University (Corp.)</title></circle></a><a href="/setts/s10/r40w1r1dt8r1w1r6w1r1dt8~x2/"><circle cx="546.6" cy="99.7" r="4" fill="#3465a4"><title>Miyuki #2</title></circle></a><a href="/setts/s13/k6r1k1r1k1r5k2r5k4r2w1r40w1~x2/"><circle cx="578.5" cy="75.8" r="4" fill="#3465a4"><title>Jupiter Shop Channel Co., Ltd (Corp)</title></circle></a><a href="/setts/s10/r80w7k2w2k2r3k7r2p12k2~x2/"><circle cx="509.6" cy="64.2" r="4" fill="#3465a4"><title>Masai Shuka 05 (Artefact)</title></circle></a><a href="/setts/s10/r104dg3r5dg3r18dg8w9r9w9r3/"><circle cx="591.0" cy="102.5" r="4" fill="#3465a4"><title>Old Spice (Corporate)</title></circle></a><a href="/setts/s8/r51o2r6k10r2k4o3k3~x2/"><circle cx="518.4" cy="117.1" r="4" fill="#3465a4"><title>Virgin</title></circle></a><a href="/setts/s10/r30db8r2k1r2k1~x2/"><circle cx="495.9" cy="120.8" r="4" fill="#3465a4"><title>Masai Shuka 27 (Artefact)</title></circle></a><a href="/setts/s10/r58k12r4k2ly2k2r10w5k2ly4~x2/"><circle cx="477.3" cy="90.5" r="4" fill="#3465a4"><title>Unnamed C20th - Skirt</title></circle></a><a href="/setts/s9/k5dr40k4w2k4dr10w4dr5w1~x2/"><circle cx="513.6" cy="120.2" r="4" fill="#3465a4"><title>Southern Illinois University - Carbondale</title></circle></a><a href="/setts/s17/r48k2r2k2r4k2r2k2r4w1k4r2k2r2k18r5w6~x2/"><circle cx="463.6" cy="56.6" r="4" fill="#3465a4"><title>Milan Club Scozia (Corporate)</title></circle></a><circle cx="521.8" cy="90.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r40w1r1k8r1w1r6w1r1k8~x2/

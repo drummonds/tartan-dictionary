@@ -21,7 +21,7 @@ KBKGWGK
 Grouped by stripe pattern — the 4 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### K DB K G W G K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB K G W G K</span></span>
+### K G W G K DB K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K G W G K DB K</span></span>
 
 | Tartans |
 |---------------|
@@ -32,21 +32,21 @@ Grouped by stripe pattern — the 4 human-palette shadings of this band pattern,
 | [MacLaggan](/setts/s7/k7g6w1g6k7db7k1~x4/)|
 |![MacLaggan example sett](/setts/s7/k7g6w1g6k7db7k1~x4/sett.png)|
 
-### K DB K DG LB DG K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB K DG LB DG K</span></span>
+### K DG LB DG K DB K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K DG LB DG K DB K</span></span>
 
 | Tartans |
 |---------------|
-| [Graham of Montrose](/setts/s7/k4dg4lb1dg4k4db4k1/)|
-|![Graham of Montrose example sett](/setts/s7/k4dg4lb1dg4k4db4k1/sett.png)|
+| [Graham of Montrose](/setts/s7/k4dg4lb1dg4k4db4k1~x2/)|
+|![Graham of Montrose example sett](/setts/s7/k4dg4lb1dg4k4db4k1~x2/sett.png)|
 
-### K DP K G W G K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">K DP K G W G K</span></span>
+### K G W G K DP K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="seq">K G W G K DP K</span></span>
 
 | Tartans |
 |---------------|
 | [MacLaggan](/setts/s7/k13g12w2g12k13dp12k2~x2/)|
 |![MacLaggan example sett](/setts/s7/k13g12w2g12k13dp12k2~x2/sett.png)|
 
-### K P K G W G K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">K P K G W G K</span></span>
+### K G W G K P K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="seq">K G W G K P K</span></span>
 
 | Tartans |
 |---------------|

@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1503
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Grant of Auchnarrow
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -25,7 +31,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1844
 
 ## Thread count
-LN/4 LR6 G4 LR14 LT28 LN4 DB4 LN4 DB12 G16 LN76 LR4 LN/12
+LN/12 LR4 LN76 G16 DB12 LN4 DB4 LN4 LT28 LR14 G4 LR6 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -56,8 +62,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="261.1" cy="80.2" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/setts/s11/w38y10m2y3w2y3g8lr3y2lr3w2~x2/"><circle cx="295.9" cy="85.7" r="4" fill="#3465a4"><title>Glenmore Green Fashion Tartan Tartan Number: 5041. Earliest known date: pre 1988 A Royal Stewart colour variation produced by many weaving mills See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/g4y4g2w36y14w2lt4g7m5w3~x2/"><circle cx="241.3" cy="96.6" r="4" fill="#3465a4"><title>Rikaco Eve</title></circle></a><a href="/setts/s9/w50o4lo2k2lo2o4lo10o15t2~x2/"><circle cx="319.5" cy="84.0" r="4" fill="#3465a4"><title>Australian, dress</title></circle></a><a href="/setts/s13/db3ly1t1w15t1r4t1w1t15r1t1r1t3~x4/"><circle cx="241.2" cy="98.9" r="4" fill="#3465a4"><title>Federal Memorial Dress (Military)</title></circle></a><a href="/setts/s16/lb18ly2lb2ly1r3g3r2g2r1k2lb3w7lb2w2lb1w4~x4/"><circle cx="206.3" cy="75.0" r="4" fill="#3465a4"><title>Inverness County (Canada)</title></circle></a><a href="/setts/s13/o2w3k1t9k1lr6g1lr3g1lr19k2w7o1~x2/"><circle cx="232.6" cy="89.7" r="4" fill="#3465a4"><title>Cahaba Memorial (Commemorative)</title></circle></a><a href="/setts/s14/w40o1w6o3lo1o7lo3n1lo8n3k1n9k2w8~x2/"><circle cx="340.7" cy="54.7" r="4" fill="#3465a4"><title>Snowy Owl (Fashion)</title></circle></a><a href="/setts/s11/w68lr3w3lr8w3lr3o24dt16o3dt20lr3~x2/"><circle cx="234.0" cy="77.8" r="4" fill="#3465a4"><title>Ben Vorlich</title></circle></a><a href="/setts/s10/n1w1o2w1n1w16o6db1ly1t1~x4/"><circle cx="319.7" cy="92.8" r="4" fill="#3465a4"><title>Gray, Thomas (Personal)</title></circle></a><circle cx="275.0" cy="88.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="260.6" cy="80.1" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/setts/s11/w38y10m2y3w2y3g8lr3y2lr3w2~x2/"><circle cx="295.3" cy="85.6" r="4" fill="#3465a4"><title>Glenmore Green Fashion Tartan Tartan Number: 5041. Earliest known date: pre 1988 A Royal Stewart colour variation produced by many weaving mills See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/g4y4g2w36y14w2lt4g7m5w3~x2/"><circle cx="240.8" cy="96.5" r="4" fill="#3465a4"><title>Rikaco Eve</title></circle></a><a href="/setts/s9/w50o4lo2k2lo2o4lo10o15t2~x2/"><circle cx="319.0" cy="83.9" r="4" fill="#3465a4"><title>Australian, dress</title></circle></a><a href="/setts/s13/db3ly1t1w15t1r4t1w1t15r1t1r1t3~x4/"><circle cx="240.7" cy="98.9" r="4" fill="#3465a4"><title>Federal Memorial Dress (Military)</title></circle></a><a href="/setts/s16/lb18ly2lb2ly1r3g3r2g2r1k2lb3w7lb2w2lb1w4~x4/"><circle cx="205.8" cy="75.1" r="4" fill="#3465a4"><title>Inverness County (Canada)</title></circle></a><a href="/setts/s13/o2w3k1t9k1lr6g1lr3g1lr19k2w7o1~x2/"><circle cx="232.2" cy="89.7" r="4" fill="#3465a4"><title>Cahaba Memorial (Commemorative)</title></circle></a><a href="/setts/s14/w40o1w6o3lo1o7lo3n1lo8n3k1n9k2w8~x2/"><circle cx="340.0" cy="54.6" r="4" fill="#3465a4"><title>Snowy Owl (Fashion)</title></circle></a><a href="/setts/s11/w68lr3w3lr8w3lr3o24dt16o3dt20lr3~x2/"><circle cx="233.6" cy="77.7" r="4" fill="#3465a4"><title>Ben Vorlich</title></circle></a><a href="/setts/s10/n1w1o2w1n1w16o6db1ly1t1~x4/"><circle cx="319.1" cy="92.7" r="4" fill="#3465a4"><title>Gray, Thomas (Personal)</title></circle></a><circle cx="274.4" cy="88.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/w6r2w38g8db6w2db2w2lo14r7g2r3w2~x2/

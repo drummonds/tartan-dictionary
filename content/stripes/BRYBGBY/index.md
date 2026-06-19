@@ -20,7 +20,7 @@ BRYBGBY
 
 
 
-### N O LY DB DG DO LY <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">N O LY DB DG DO LY</span></span>
+### LY DO DG DB LY O N <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="seq">LY DO DG DB LY O N</span></span>
 
 | Tartans |
 |---------------|

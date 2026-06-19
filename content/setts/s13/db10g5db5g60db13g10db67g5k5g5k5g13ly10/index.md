@@ -2,12 +2,18 @@
 title: "Princess Beatrice Hunting"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBGBGKGKGY](/stripes/bgbgbgbgkgkgy/) · **Stripes:** [DB G DB G DB G DB G K G K G LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB G DB G DB G DB G K G K G LY</span></span>
+**Bands:** [YGKGKGBGBGBGB](/stripes/ygkgkgbgbgbgb/) · **Stripes:** [LY G K G K G DB G DB G DB G DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">LY G K G K G DB G DB G DB G DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3399
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Princess Beatrice Hunting
 
 ## Attestations
 
@@ -25,7 +31,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 545
 
 ## Thread count
-DBa/10 G5 DBa5 G60 DBa13 G10 DB67 G5 K5 G5 K5 G13 Y/10
+Y/10 G13 K5 G5 K5 G5 DB67 G10 DBa13 G60 DBa5 G5 DBa/10
 ![Sett](sett.png)
 
 ## Palette
@@ -56,8 +62,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g6k2g24k10dt2p2dt2p2dt10k2lb3~x2/"><circle cx="235.3" cy="160.3" r="4" fill="#3465a4"><title>Scottish Rugby Union (City of Nagasaki)</title></circle></a><a href="/setts/s16/b11k3b3k3b4k15g36w3g36k15b4k3b3k3b11r4~x2/"><circle cx="226.4" cy="140.9" r="4" fill="#3465a4"><title>Semple</title></circle></a><a href="/setts/s14/db10r5g5r5g60db13g10db67g5k5g5k5g13ly10/"><circle cx="223.2" cy="117.8" r="4" fill="#3465a4"><title>Beatrice Princess.. (Hunting) Royal Family Tartan Tartan Number: 545. Earliest known date: pre 2003 Reduced by 1/6th to display. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/dg3db10n3db2n2db2dg3k5dg2k5dg22r2dg3r2~x2/"><circle cx="250.9" cy="158.4" r="4" fill="#3465a4"><title>Lochcarron Hunting</title></circle></a><a href="/setts/s13/g19r1g2r2g15r1dt13w1db2r2db21r1w3~x2/"><circle cx="237.2" cy="122.6" r="4" fill="#3465a4"><title>Ontario (Official)</title></circle></a><a href="/setts/s9/r2db12dg2g11dg4db5g2dg24w2~x2/"><circle cx="251.1" cy="183.0" r="4" fill="#3465a4"><title>Fraser Gathering, Green (1997)</title></circle></a><a href="/setts/s14/db6r3g3r3g36db6g6db40g3k3g3k3g8ly6~x2/"><circle cx="227.4" cy="112.2" r="4" fill="#3465a4"><title>Princess Beatrice Hunting (MacKinlay strip)</title></circle></a><a href="/setts/s15/dp2k2g6t4k2db5k4g20k4t5k2t4g6k2dp2~x2/"><circle cx="205.0" cy="163.8" r="4" fill="#3465a4"><title>Letham Hunting (Name)</title></circle></a><a href="/setts/s11/db4k3db23k9g2t2g2t2g8k2ly3~x2/"><circle cx="225.2" cy="156.5" r="4" fill="#3465a4"><title>Forth</title></circle></a><a href="/setts/s9/g5db24g7k10g24ly2db2ly2r2~x2/"><circle cx="241.8" cy="173.1" r="4" fill="#3465a4"><title>Maitland Chief</title></circle></a><circle cx="253.7" cy="143.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g6k2g24k10dt2p2dt2p2dt10k2lb3~x2/"><circle cx="235.3" cy="160.4" r="4" fill="#3465a4"><title>Scottish Rugby Union (City of Nagasaki)</title></circle></a><a href="/setts/s16/b11k3b3k3b4k15g36w3g36k15b4k3b3k3b11r4~x2/"><circle cx="226.3" cy="141.0" r="4" fill="#3465a4"><title>Semple</title></circle></a><a href="/setts/s14/db10r5g5r5g60db13g10db67g5k5g5k5g13ly10/"><circle cx="223.2" cy="118.0" r="4" fill="#3465a4"><title>Beatrice Princess.. (Hunting) Royal Family Tartan Tartan Number: 545. Earliest known date: pre 2003 Reduced by 1/6th to display. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/dg3db10n3db2n2db2dg3k5dg2k5dg22r2dg3r2~x2/"><circle cx="250.9" cy="158.5" r="4" fill="#3465a4"><title>Lochcarron Hunting</title></circle></a><a href="/setts/s13/g19r1g2r2g15r1dt13w1db2r2db21r1w3~x2/"><circle cx="237.1" cy="122.7" r="4" fill="#3465a4"><title>Ontario (Official)</title></circle></a><a href="/setts/s9/r2db12dg2g11dg4db5g2dg24w2~x2/"><circle cx="251.2" cy="183.0" r="4" fill="#3465a4"><title>Fraser Gathering, Green (1997)</title></circle></a><a href="/setts/s14/db6r3g3r3g36db6g6db40g3k3g3k3g8ly6~x2/"><circle cx="227.4" cy="112.3" r="4" fill="#3465a4"><title>Princess Beatrice Hunting (MacKinlay strip)</title></circle></a><a href="/setts/s15/dp2k2g6t4k2db5k4g20k4t5k2t4g6k2dp2~x2/"><circle cx="205.0" cy="163.8" r="4" fill="#3465a4"><title>Letham Hunting (Name)</title></circle></a><a href="/setts/s11/db4k3db23k9g2t2g2t2g8k2ly3~x2/"><circle cx="225.3" cy="156.5" r="4" fill="#3465a4"><title>Forth</title></circle></a><a href="/setts/s9/g5db24g7k10g24ly2db2ly2r2~x2/"><circle cx="241.8" cy="173.1" r="4" fill="#3465a4"><title>Maitland Chief</title></circle></a><circle cx="253.7" cy="143.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db10g5db5g60db13g10db67g5k5g5k5g13ly10/

@@ -18,7 +18,7 @@ BKRYRKGYKBY
 
 
 
-### N K O LO O K DG LG K N LG <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#82D67A"></span><span class="seq">N K O LO O K DG LG K N LG</span></span>
+### LG N K LG DG K O LO O K N <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">LG N K LG DG K O LO O K N</span></span>
 
 | Tartans |
 |---------------|

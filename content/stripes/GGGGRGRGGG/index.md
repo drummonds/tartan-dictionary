@@ -18,10 +18,10 @@ GGGGRGRGGG
 
 
 
-### G DY G DY R DY R DY G DY <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">G DY G DY R DY R DY G DY</span></span>
+### DY G DY R DY R DY G DY G <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DY G DY R DY R DY G DY G</span></span>
 
 | Tartans |
 |---------------|
-| [Dewar](/setts/s10/dy1g7dy4r7dy1r7dy4g7dy1g1~x4/)|
-|![Dewar example sett](/setts/s10/dy1g7dy4r7dy1r7dy4g7dy1g1~x4/sett.png)|
+| [Dewar](/setts/s10/dy1r7dy4g7dy1g1~x4/)|
+|![Dewar example sett](/setts/s10/dy1r7dy4g7dy1g1~x4/sett.png)|
 

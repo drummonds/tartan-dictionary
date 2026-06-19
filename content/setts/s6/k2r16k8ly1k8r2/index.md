@@ -9,17 +9,43 @@ This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Brodie
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Brodie Dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
+- undated — Brodie Dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+
 ## Register references
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
+- Scottish Register of Tartans: [2625](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2625)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
+- Scottish Tartans Authority (ITI): 1429
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
+- Scottish Tartans World Register: 1429
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Variants
 
@@ -59,13 +85,13 @@ The nearest existing variants by ΔTartan distance.
 1. [MacIain](/setts/s7/r4k8r4k8r12k1ly2~x2/) — ΔT 1.02
 1. [MacIver](/setts/s5/k16r2k2r12w1~x2/) — ΔT 1.09
 1. [Brodie (Clan)](/setts/s6/k2r16k8ly1k8r2~x4/) — ΔT 1.09
-1. [Swanstrom (Personal)](/setts/s6/k8r1k8r11ly1r1~x4/) — ΔT 1.19
+1. [Swanstrom (Personal)](/setts/s6/k8r1k8r11ly1r1~x4/) — ΔT 1.20
 1. [MacQueen](/setts/s6/k2r6k2r6k12ly1~x4/) — ΔT 1.21
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k2r16k8ly1k8r2~x2/"><circle cx="322.2" cy="194.3" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/setts/s6/k2r6k2r6k12ly1~x2/"><circle cx="324.5" cy="213.0" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><a href="/setts/s5/k18r4k18r32lb3/"><circle cx="289.3" cy="225.4" r="4" fill="#3465a4"><title>Munro VS</title></circle></a><a href="/setts/s5/k18r4k18r32lr3~x2/"><circle cx="296.9" cy="232.6" r="4" fill="#3465a4"><title>Munro VS</title></circle></a><a href="/setts/s5/k18r4k18r32lr3/"><circle cx="296.9" cy="232.6" r="4" fill="#3465a4"><title>Munro VS</title></circle></a><a href="/setts/s7/r4k8r4k8r12k1ly2~x2/"><circle cx="288.0" cy="210.1" r="4" fill="#3465a4"><title>MacIain</title></circle></a><a href="/setts/s5/k16r2k2r12w1~x2/"><circle cx="360.5" cy="195.4" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/setts/s6/k2r16k8ly1k8r2~x4/"><circle cx="341.4" cy="198.8" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><a href="/setts/s6/k8r1k8r11ly1r1~x4/"><circle cx="336.6" cy="214.9" r="4" fill="#3465a4"><title>Swanstrom (Personal)</title></circle></a><a href="/setts/s6/k2r6k2r6k12ly1~x4/"><circle cx="342.6" cy="216.9" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><circle cx="320.6" cy="192.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k2r16k8ly1k8r2~x2/"><circle cx="322.2" cy="194.0" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/setts/s6/k2r6k2r6k12ly1~x2/"><circle cx="324.5" cy="212.7" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><a href="/setts/s5/k18r4k18r32lb3/"><circle cx="289.3" cy="225.1" r="4" fill="#3465a4"><title>Munro VS</title></circle></a><a href="/setts/s5/k18r4k18r32lr3~x2/"><circle cx="296.9" cy="232.4" r="4" fill="#3465a4"><title>Munro VS</title></circle></a><a href="/setts/s5/k18r4k18r32lr3/"><circle cx="296.9" cy="232.4" r="4" fill="#3465a4"><title>Munro VS</title></circle></a><a href="/setts/s7/r4k8r4k8r12k1ly2~x2/"><circle cx="287.9" cy="209.9" r="4" fill="#3465a4"><title>MacIain</title></circle></a><a href="/setts/s5/k16r2k2r12w1~x2/"><circle cx="360.3" cy="195.2" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/setts/s6/k2r16k8ly1k8r2~x4/"><circle cx="341.2" cy="198.6" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><a href="/setts/s6/k8r1k8r11ly1r1~x4/"><circle cx="336.5" cy="214.7" r="4" fill="#3465a4"><title>Swanstrom (Personal)</title></circle></a><a href="/setts/s6/k2r6k2r6k12ly1~x4/"><circle cx="342.4" cy="216.7" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><circle cx="320.5" cy="192.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k2r16k8ly1k8r2/

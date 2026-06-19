@@ -18,7 +18,7 @@ BYGBYGYBY
 
 
 
-### DO LO DG DO LO DY LO DO LO <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DO LO DG DO LO DY LO DO LO</span></span>
+### LO DO LO DY LO DO DG LO DO <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="seq">LO DO LO DY LO DO DG LO DO</span></span>
 
 | Tartans |
 |---------------|

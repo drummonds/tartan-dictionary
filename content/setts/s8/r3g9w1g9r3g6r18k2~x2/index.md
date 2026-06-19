@@ -9,6 +9,14 @@ This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=835
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Comyn or MacAulay
+- Comyn, or MacAulay
+- Cumming #2
+
 ## Attestations
 
 This cloth appears in 4 source records; the oldest owns this page.
@@ -320,6 +328,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +429,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +689,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -894,7 +905,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/4 R36 G12 R6 G18 W2 G18 R/6
+R/6 G18 W2 G18 R6 G12 R36 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -909,13 +920,13 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/4 R36 G12 R6 G18 W2 G18 R/6 tartan")
+![Tartan detail](tartan.png "R/6 G18 W2 G18 R6 G12 R36 K/4 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Cumming SM](/setts/s8/r3dg9lb1dg9r3dg6r18k2/) — ΔT 0.55
+1. [Cumming SM](/setts/s8/r3dg9lb1dg9r3dg6r18k2~x2/) — ΔT 0.55
 1. [MacGregor of Balquidder (Logan)](/setts/s6/g9r2g9r14k1w2~x2/) — ΔT 0.79
 1. [MacAulay (Clan)](/setts/s6/k2r16g6r3g8w1~x4/) — ΔT 0.88
 1. [MacAulay](/setts/s6/k2r16g6r3g8lb1~x2/) — ΔT 0.89
@@ -928,8 +939,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r3dg9lb1dg9r3dg6r18k2/"><circle cx="308.8" cy="175.6" r="4" fill="#3465a4"><title>Cumming SM</title></circle></a><a href="/setts/s6/g9r2g9r14k1w2~x2/"><circle cx="298.3" cy="199.0" r="4" fill="#3465a4"><title>MacGregor of Balquidder (Logan)</title></circle></a><a href="/setts/s6/k2r16g6r3g8w1~x4/"><circle cx="331.9" cy="187.8" r="4" fill="#3465a4"><title>MacAulay (Clan)</title></circle></a><a href="/setts/s6/k2r16g6r3g8lb1~x2/"><circle cx="336.0" cy="189.9" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s8/r3dg9lr1dg9r3dg6r18k2~x2/"><circle cx="331.5" cy="189.9" r="4" fill="#3465a4"><title>Cumming SM</title></circle></a><a href="/setts/s6/k2r16g6r3g8w1~x2/"><circle cx="315.5" cy="181.2" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s9/r12db2r3g20k4g20r30k2r1~x2/"><circle cx="345.5" cy="146.1" r="4" fill="#3465a4"><title>Oriel #1 (District)</title></circle></a><a href="/setts/s6/db1r12g6ly1g6db1~x4/"><circle cx="288.5" cy="197.9" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/setts/s7/g28r7m7g14m7r48k4~x2/"><circle cx="289.6" cy="187.0" r="4" fill="#3465a4"><title>MacNab 6</title></circle></a><a href="/setts/s9/g20k2r3k2r6g20r29g3r10~x2/"><circle cx="336.1" cy="186.3" r="4" fill="#3465a4"><title>Livingston</title></circle></a><circle cx="313.7" cy="177.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r3dg9lb1dg9r3dg6r18k2~x2/"><circle cx="308.5" cy="175.5" r="4" fill="#3465a4"><title>Cumming SM</title></circle></a><a href="/setts/s6/g9r2g9r14k1w2~x2/"><circle cx="298.1" cy="198.9" r="4" fill="#3465a4"><title>MacGregor of Balquidder (Logan)</title></circle></a><a href="/setts/s6/k2r16g6r3g8w1~x4/"><circle cx="331.6" cy="187.7" r="4" fill="#3465a4"><title>MacAulay (Clan)</title></circle></a><a href="/setts/s6/k2r16g6r3g8lb1~x2/"><circle cx="335.7" cy="189.8" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s8/r3dg9lr1dg9r3dg6r18k2~x2/"><circle cx="331.4" cy="189.9" r="4" fill="#3465a4"><title>Cumming SM</title></circle></a><a href="/setts/s6/k2r16g6r3g8w1~x2/"><circle cx="315.2" cy="181.0" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s9/r12db2r3g20k4g20r30k2r1~x2/"><circle cx="345.2" cy="146.0" r="4" fill="#3465a4"><title>Oriel #1 (District)</title></circle></a><a href="/setts/s6/db1r12g6ly1g6db1~x4/"><circle cx="288.3" cy="197.8" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/setts/s7/g28r7m7g14m7r48k4~x2/"><circle cx="289.3" cy="186.9" r="4" fill="#3465a4"><title>MacNab 6</title></circle></a><a href="/setts/s9/g20k2r3k2r6g20r29g3r10~x2/"><circle cx="335.7" cy="186.2" r="4" fill="#3465a4"><title>Livingston</title></circle></a><circle cx="313.4" cy="177.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r3g9w1g9r3g6r18k2~x2/

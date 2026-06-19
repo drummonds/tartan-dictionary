@@ -2,12 +2,18 @@
 title: "Federal Bureau of Investigation"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBBR](/stripes/bwbwbbr/) · **Stripes:** [DB LB DB LB DB B R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB LB DB LB DB B R</span></span>
+**Bands:** [RBBWBWB](/stripes/rbbwbwb/) · **Stripes:** [R B DB LB DB LB DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="seq">R B DB LB DB LB DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1155
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Federal Bureau of Investigation
 
 ## Attestations
 
@@ -49,18 +55,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Int. Police Association (Official)](/setts/s7/db7r3db26t2db2t26ly4~x2/) — ΔT 1.01
 1. [Callaway (Name)](/setts/s9/r4b12db36w4db4b16w3db6b3~x2/) — ΔT 1.03
 1. [Aberdeen Academy of Performing Arts](/setts/s6/db4p2dp3db24b24w3~x2/) — ΔT 1.05
-1. [Ewell Castle School](/setts/s6/b4w1b18db18r1db4~x4/) — ΔT 1.08
+1. [Ewell Castle School](/setts/s6/db4r1db18b18w1b4~x4/) — ΔT 1.08
 1. [Gilt Edge (Corporate)](/setts/s5/db3db2t31db34w2~x2/) — ΔT 1.09
 1. [Aberdeen Academy of Performing Art](/setts/s6/db4dp2dp3db24t24w3~x2/) — ΔT 1.15
 1. [MacNeil - 1994 (Personal)](/setts/s5/b30k12dt12k2w3~x2/) — ΔT 1.17
 1. [Sabema](/setts/s8/db25k3db7k15b25k2b2w4~x2/) — ΔT 1.23
-1. [Pacific](/setts/s12/g2dg2g1dg14b2dg10b10dg2b14m1b2m2~x4/) — ΔT 1.27
 1. [Highlands School, (North Carolina)](/setts/s8/y12db2y2db30db3db2db13w4~x2/) — ΔT 1.27
+1. [Pacific](/setts/s12/g2dg2g1dg14b2dg10b10dg2b14m1b2m2~x4/) — ΔT 1.27
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db7r3db26t2db2t26ly4~x2/"><circle cx="288.6" cy="179.8" r="4" fill="#3465a4"><title>Int. Police Association (Official)</title></circle></a><a href="/setts/s9/r4b12db36w4db4b16w3db6b3~x2/"><circle cx="304.0" cy="180.7" r="4" fill="#3465a4"><title>Callaway (Name)</title></circle></a><a href="/setts/s6/db4p2dp3db24b24w3~x2/"><circle cx="264.5" cy="188.0" r="4" fill="#3465a4"><title>Aberdeen Academy of Performing Arts</title></circle></a><a href="/setts/s6/b4w1b18db18r1db4~x4/"><circle cx="345.7" cy="204.5" r="4" fill="#3465a4"><title>Ewell Castle School</title></circle></a><a href="/setts/s5/db3db2t31db34w2~x2/"><circle cx="345.8" cy="201.9" r="4" fill="#3465a4"><title>Gilt Edge (Corporate)</title></circle></a><a href="/setts/s6/db4dp2dp3db24t24w3~x2/"><circle cx="266.1" cy="183.6" r="4" fill="#3465a4"><title>Aberdeen Academy of Performing Art</title></circle></a><a href="/setts/s5/b30k12dt12k2w3~x2/"><circle cx="280.2" cy="211.1" r="4" fill="#3465a4"><title>MacNeil - 1994 (Personal)</title></circle></a><a href="/setts/s8/db25k3db7k15b25k2b2w4~x2/"><circle cx="215.5" cy="194.5" r="4" fill="#3465a4"><title>Sabema</title></circle></a><a href="/setts/s12/g2dg2g1dg14b2dg10b10dg2b14m1b2m2~x4/"><circle cx="286.6" cy="174.3" r="4" fill="#3465a4"><title>Pacific</title></circle></a><a href="/setts/s8/y12db2y2db30db3db2db13w4~x2/"><circle cx="280.3" cy="170.7" r="4" fill="#3465a4"><title>Highlands School, (North Carolina)</title></circle></a><circle cx="288.5" cy="190.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db7r3db26t2db2t26ly4~x2/"><circle cx="288.6" cy="179.7" r="4" fill="#3465a4"><title>Int. Police Association (Official)</title></circle></a><a href="/setts/s9/r4b12db36w4db4b16w3db6b3~x2/"><circle cx="303.9" cy="180.6" r="4" fill="#3465a4"><title>Callaway (Name)</title></circle></a><a href="/setts/s6/db4p2dp3db24b24w3~x2/"><circle cx="264.6" cy="188.0" r="4" fill="#3465a4"><title>Aberdeen Academy of Performing Arts</title></circle></a><a href="/setts/s6/db4r1db18b18w1b4~x4/"><circle cx="345.7" cy="204.3" r="4" fill="#3465a4"><title>Ewell Castle School</title></circle></a><a href="/setts/s5/db3db2t31db34w2~x2/"><circle cx="345.8" cy="201.8" r="4" fill="#3465a4"><title>Gilt Edge (Corporate)</title></circle></a><a href="/setts/s6/db4dp2dp3db24t24w3~x2/"><circle cx="266.1" cy="183.5" r="4" fill="#3465a4"><title>Aberdeen Academy of Performing Art</title></circle></a><a href="/setts/s5/b30k12dt12k2w3~x2/"><circle cx="280.4" cy="211.0" r="4" fill="#3465a4"><title>MacNeil - 1994 (Personal)</title></circle></a><a href="/setts/s8/db25k3db7k15b25k2b2w4~x2/"><circle cx="215.6" cy="194.5" r="4" fill="#3465a4"><title>Sabema</title></circle></a><a href="/setts/s8/y12db2y2db30db3db2db13w4~x2/"><circle cx="280.3" cy="170.6" r="4" fill="#3465a4"><title>Highlands School, (North Carolina)</title></circle></a><a href="/setts/s12/g2dg2g1dg14b2dg10b10dg2b14m1b2m2~x4/"><circle cx="286.6" cy="174.2" r="4" fill="#3465a4"><title>Pacific</title></circle></a><circle cx="288.5" cy="190.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/db6lb2db2lb3db16b26r2~x2/

@@ -2,12 +2,18 @@
 title: "Georgia, State of (District)"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGKBR](/stripes/gkgkgkbr/) · **Stripes:** [Y K Y K Y K T R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">Y K Y K Y K T R</span></span>
+**Bands:** [RBKGKGKG](/stripes/rbkgkgkg/) · **Stripes:** [R T K Y K Y K Y](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R T K Y K Y K Y</span></span>
 
 
 This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/794/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Georgia, State of
 
 ## Thread count
 G/72 K4 G4 K4 G6 K24 B20 R/40
@@ -44,8 +50,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r5k2dg1k2r5k2dg18lo3~x2/"><circle cx="309.4" cy="164.0" r="4" fill="#3465a4"><title>Midpac Tissue (non woven)</title></circle></a><a href="/setts/s7/dp8r3ly1r3g14r3ly1~x4/"><circle cx="247.6" cy="177.9" r="4" fill="#3465a4"><title>Logan with Yellow</title></circle></a><a href="/setts/s10/g3r2db2r14b1db4r2g12r2db2~x8/"><circle cx="278.8" cy="162.7" r="4" fill="#3465a4"><title>MacKillop (Clan)</title></circle></a><a href="/setts/s8/g36k2g2k2g3k12t10r20~x2/"><circle cx="273.9" cy="165.6" r="4" fill="#3465a4"><title>Georgia, State of</title></circle></a><a href="/setts/s7/dp8r3ly1r3dg14r3ly1~x4/"><circle cx="248.8" cy="180.3" r="4" fill="#3465a4"><title>Logan - 1819 (with yellow)</title></circle></a><a href="/setts/s8/r30db3r2db3r6db14g26g6/"><circle cx="243.0" cy="170.0" r="4" fill="#3465a4"><title>Cranston, dress</title></circle></a><a href="/setts/s6/r30k8dg30b4r3b2~x2/"><circle cx="280.8" cy="187.6" r="4" fill="#3465a4"><title>Plummer Family Personal Tartan Tartan Number: 2778. Earliest known date: 2001 From a D C Dalgliesh swatch in 2001 via Phil Smith June 2004. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dg12g6dg6r15k1r1k2~x2/"><circle cx="253.3" cy="191.0" r="4" fill="#3465a4"><title>Cook (Name)</title></circle></a><a href="/setts/s7/g12t6g6r15k1r1k2~x4/"><circle cx="249.5" cy="188.8" r="4" fill="#3465a4"><title>McCook/Cook (Name)</title></circle></a><a href="/setts/s10/r4t3r32db30r4dg32r3dg32r3dg3~x2/"><circle cx="266.3" cy="183.7" r="4" fill="#3465a4"><title>Unidentified Plaid #15</title></circle></a><circle cx="290.5" cy="166.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r5k2dg1k2r5k2dg18lo3~x2/"><circle cx="309.2" cy="163.9" r="4" fill="#3465a4"><title>Midpac Tissue (non woven)</title></circle></a><a href="/setts/s7/dp8r3ly1r3g14r3ly1~x4/"><circle cx="247.4" cy="177.9" r="4" fill="#3465a4"><title>Logan with Yellow</title></circle></a><a href="/setts/s10/g3r2db2r14b1db4r2g12r2db2~x8/"><circle cx="278.5" cy="162.6" r="4" fill="#3465a4"><title>MacKillop (Clan)</title></circle></a><a href="/setts/s8/g36k2g2k2g3k12t10r20~x2/"><circle cx="273.7" cy="165.5" r="4" fill="#3465a4"><title>Georgia, State of</title></circle></a><a href="/setts/s7/dp8r3ly1r3dg14r3ly1~x4/"><circle cx="248.6" cy="180.2" r="4" fill="#3465a4"><title>Logan - 1819 (with yellow)</title></circle></a><a href="/setts/s8/r30db3r2db3r6db14g26g6/"><circle cx="242.7" cy="170.0" r="4" fill="#3465a4"><title>Cranston, dress</title></circle></a><a href="/setts/s6/r30k8dg30b4r3b2~x2/"><circle cx="280.6" cy="187.6" r="4" fill="#3465a4"><title>Plummer Family Personal Tartan Tartan Number: 2778. Earliest known date: 2001 From a D C Dalgliesh swatch in 2001 via Phil Smith June 2004. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dg12g6dg6r15k1r1k2~x2/"><circle cx="253.2" cy="191.0" r="4" fill="#3465a4"><title>Cook (Name)</title></circle></a><a href="/setts/s7/g12t6g6r15k1r1k2~x4/"><circle cx="249.3" cy="188.7" r="4" fill="#3465a4"><title>McCook/Cook (Name)</title></circle></a><a href="/setts/s10/r4t3r32db30r4dg32r3dg32r3dg3~x2/"><circle cx="266.1" cy="183.6" r="4" fill="#3465a4"><title>Unidentified Plaid #15</title></circle></a><circle cx="290.3" cy="166.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/y36k2y2k2y3k12t10r20~x2/

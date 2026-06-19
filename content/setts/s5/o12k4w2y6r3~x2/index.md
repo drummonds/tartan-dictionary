@@ -2,7 +2,7 @@
 title: "Strathblane"
 date: 2023-03-18
 ---
-**Bands:** [RGWKR](/stripes/rgwkr/) · **Stripes:** [R Y W K O](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R Y W K O</span></span>
+**Bands:** [RKWGR](/stripes/rkwgr/) · **Stripes:** [O K W Y R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="seq">O K W Y R</span></span>
 
 
 This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,16 +915,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Baillie of Polkemmet Red](/setts/s5/w3b12k12r20g2~x2/) — ΔT 1.06
 1. [Wilson's, No 176](/setts/s5/k4t3g12p13ly2~x2/) — ΔT 1.09
 1. [Thompson (J.C.'s Fancy) (Personal)](/setts/s6/r2lo8db2y4k4y1~x6/) — ΔT 1.09
-1. [Inspiration](/setts/s5/ly5n21ly11db12r5~x2/) — ΔT 1.14
-1. [Inspiration](/setts/s5/lo5dt21ly11t12r5~x2/) — ΔT 1.16
+1. [Inspiration](/setts/s5/r5db12ly11n21ly5~x2/) — ΔT 1.14
+1. [Inspiration](/setts/s5/r5t12ly11dt21lo5~x2/) — ΔT 1.16
 1. [Wellington, No 122](/setts/s5/k4t3p11g14ly2~x2/) — ΔT 1.18
 1. [Wilson's, No 183](/setts/s6/k2t1p6g6r1g1~x4/) — ΔT 1.18
 1. [Sachie Hara Scottish Check (Personal)](/setts/s5/k5db4g24r21w3~x2/) — ΔT 1.19
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/dy12k4w2o6r3~x2/"><circle cx="173.6" cy="229.7" r="4" fill="#3465a4"><title>Strathblane (Fashion)</title></circle></a><a href="/setts/s6/w4r7lo5b13r18g3~x2/"><circle cx="197.2" cy="215.0" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/setts/s5/w3b12k12r20g2~x2/"><circle cx="170.6" cy="198.3" r="4" fill="#3465a4"><title>Baillie of Polkemmet Red</title></circle></a><a href="/setts/s5/k4t3g12p13ly2~x2/"><circle cx="135.5" cy="215.8" r="4" fill="#3465a4"><title>Wilson's, No 176</title></circle></a><a href="/setts/s6/r2lo8db2y4k4y1~x6/"><circle cx="144.0" cy="211.9" r="4" fill="#3465a4"><title>Thompson (J.C.'s Fancy) (Personal)</title></circle></a><a href="/setts/s5/ly5n21ly11db12r5~x2/"><circle cx="95.2" cy="240.0" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/setts/s5/lo5dt21ly11t12r5~x2/"><circle cx="98.0" cy="246.4" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/setts/s5/k4t3p11g14ly2~x2/"><circle cx="147.8" cy="213.6" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><a href="/setts/s6/k2t1p6g6r1g1~x4/"><circle cx="161.4" cy="205.5" r="4" fill="#3465a4"><title>Wilson's, No 183</title></circle></a><a href="/setts/s5/k5db4g24r21w3~x2/"><circle cx="194.3" cy="201.7" r="4" fill="#3465a4"><title>Sachie Hara Scottish Check (Personal)</title></circle></a><circle cx="158.1" cy="221.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/dy12k4w2o6r3~x2/"><circle cx="173.6" cy="229.7" r="4" fill="#3465a4"><title>Strathblane (Fashion)</title></circle></a><a href="/setts/s6/w4r7lo5b13r18g3~x2/"><circle cx="197.1" cy="214.9" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/setts/s5/w3b12k12r20g2~x2/"><circle cx="170.6" cy="198.3" r="4" fill="#3465a4"><title>Baillie of Polkemmet Red</title></circle></a><a href="/setts/s5/k4t3g12p13ly2~x2/"><circle cx="135.6" cy="215.8" r="4" fill="#3465a4"><title>Wilson's, No 176</title></circle></a><a href="/setts/s6/r2lo8db2y4k4y1~x6/"><circle cx="144.0" cy="211.9" r="4" fill="#3465a4"><title>Thompson (J.C.'s Fancy) (Personal)</title></circle></a><a href="/setts/s5/r5db12ly11n21ly5~x2/"><circle cx="95.1" cy="239.9" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/setts/s5/r5t12ly11dt21lo5~x2/"><circle cx="98.1" cy="246.4" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/setts/s5/k4t3p11g14ly2~x2/"><circle cx="147.9" cy="213.5" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><a href="/setts/s6/k2t1p6g6r1g1~x4/"><circle cx="161.5" cy="205.4" r="4" fill="#3465a4"><title>Wilson's, No 183</title></circle></a><a href="/setts/s5/k5db4g24r21w3~x2/"><circle cx="194.2" cy="201.6" r="4" fill="#3465a4"><title>Sachie Hara Scottish Check (Personal)</title></circle></a><circle cx="158.1" cy="221.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/o12k4w2y6r3~x2/

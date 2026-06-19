@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/8 B30 K30 G30 R/8
+R/8 G30 K30 B30 LN/8
 ![Sett](sett.png)
 
 ## Palette
@@ -908,7 +911,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/8 B30 K30 G30 R/8 tartan")
+![Tartan detail](tartan.png "R/8 G30 K30 B30 LN/8 tartan")
 
 ## Nearest tartans
 
@@ -927,8 +930,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/t3g8k9db7r2db2~x2/"><circle cx="56.8" cy="245.0" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/setts/s6/k3g10k10r3db8w3~x2/"><circle cx="67.1" cy="257.5" r="4" fill="#3465a4"><title>Russell (Clan)</title></circle></a><a href="/setts/s6/k4g16k14ly3db16r4~x2/"><circle cx="77.3" cy="229.3" r="4" fill="#3465a4"><title>Birse</title></circle></a><a href="/setts/s6/r4g11k11g2db11y3~x4/"><circle cx="73.2" cy="236.1" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/setts/s5/p11t2k10g10ly2~x2/"><circle cx="79.8" cy="232.3" r="4" fill="#3465a4"><title>Wilson's, No 217</title></circle></a><a href="/setts/s5/k2g8k7db8r2~x2/"><circle cx="98.3" cy="279.7" r="4" fill="#3465a4"><title>Denholme</title></circle></a><a href="/setts/s6/lr4g17k17db17r3db3~x2/"><circle cx="93.1" cy="224.0" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/setts/s6/k3r1g5k3w1p3~x2/"><circle cx="84.7" cy="237.5" r="4" fill="#3465a4"><title>Wilson's, No 194</title></circle></a><a href="/setts/s6/k3g8k8r2db8w2~x2/"><circle cx="94.5" cy="255.9" r="4" fill="#3465a4"><title>Mitchell Family Tartan Tartan Number: 2142. Earliest known date: 1816-20 Named in honour of General Billy Mitchell when it was adopted as the tartan of the United States Air Force pipe band. The sett is also known as Russell, Hunter and Galbraith. The earliest reference to the tartan is in the collection of the Highland Society of London where it is labelled Galbraith. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/k6b2db12g8r5k2g3~x4/"><circle cx="81.5" cy="219.2" r="4" fill="#3465a4"><title>Cooke</title></circle></a><circle cx="36.0" cy="258.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/t3g8k9db7r2db2~x2/"><circle cx="57.1" cy="245.0" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/setts/s6/k3g10k10r3db8w3~x2/"><circle cx="67.4" cy="257.5" r="4" fill="#3465a4"><title>Russell (Clan)</title></circle></a><a href="/setts/s6/k4g16k14ly3db16r4~x2/"><circle cx="77.6" cy="229.3" r="4" fill="#3465a4"><title>Birse</title></circle></a><a href="/setts/s6/r4g11k11g2db11y3~x4/"><circle cx="73.5" cy="236.1" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/setts/s5/p11t2k10g10ly2~x2/"><circle cx="80.0" cy="232.2" r="4" fill="#3465a4"><title>Wilson's, No 217</title></circle></a><a href="/setts/s5/k2g8k7db8r2~x2/"><circle cx="98.7" cy="279.6" r="4" fill="#3465a4"><title>Denholme</title></circle></a><a href="/setts/s6/lr4g17k17db17r3db3~x2/"><circle cx="93.4" cy="223.9" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/setts/s6/k3r1g5k3w1p3~x2/"><circle cx="85.0" cy="237.5" r="4" fill="#3465a4"><title>Wilson's, No 194</title></circle></a><a href="/setts/s6/k3g8k8r2db8w2~x2/"><circle cx="94.8" cy="256.0" r="4" fill="#3465a4"><title>Mitchell Family Tartan Tartan Number: 2142. Earliest known date: 1816-20 Named in honour of General Billy Mitchell when it was adopted as the tartan of the United States Air Force pipe band. The sett is also known as Russell, Hunter and Galbraith. The earliest reference to the tartan is in the collection of the Highland Society of London where it is labelled Galbraith. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/k6b2db12g8r5k2g3~x4/"><circle cx="81.8" cy="219.3" r="4" fill="#3465a4"><title>Cooke</title></circle></a><circle cx="36.3" cy="258.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/r4g15k15db15w4~x2/

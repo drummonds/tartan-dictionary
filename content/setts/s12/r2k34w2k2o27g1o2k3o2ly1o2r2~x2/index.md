@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1778
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Hudson's Bay
+- Hudson's Bay Company
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -60,8 +67,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db36ly4k6ly1k1w1k1g8r6k1r3w1~x2/"><circle cx="279.4" cy="49.3" r="4" fill="#3465a4"><title>MacBeth, MacLulich</title></circle></a><a href="/setts/s13/lb4b1w1b1k29lb3ly1k4lb20k2db1k3lb3~x2/"><circle cx="284.3" cy="56.5" r="4" fill="#3465a4"><title>Silverton (Name)</title></circle></a><a href="/setts/s10/n1k6n35k6k2dp3n1k6k2w1~x2/"><circle cx="319.6" cy="69.4" r="4" fill="#3465a4"><title>Melrose Newbigging Grey</title></circle></a><a href="/setts/s12/db36ly4k5w1k1w1k2g8r6k1r3w1~x4/"><circle cx="287.2" cy="52.8" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/setts/s12/t57db4k8ly4k4t4k4g8r6k4r4t2/"><circle cx="301.9" cy="59.0" r="4" fill="#3465a4"><title>Royal Stewart, (Variant)</title></circle></a><a href="/setts/s12/db36ly4k6lb1k1lb1k1dg8r6k1r3lb1/"><circle cx="272.4" cy="53.0" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/setts/s12/r2k34w2k2y27g1y2k3y2ly1y2r2~x2/"><circle cx="286.6" cy="53.3" r="4" fill="#3465a4"><title>Hudson, Bay Company</title></circle></a><a href="/setts/s12/ly6w2n4lb1db6lb1db40lb1db6lb1n4w4~x2/"><circle cx="285.4" cy="48.0" r="4" fill="#3465a4"><title>Moskyok-Collins (Portland) (Personal</title></circle></a><a href="/setts/s10/w2lo4db1lo1db40o6g18r2g2w1~x2/"><circle cx="302.1" cy="64.5" r="4" fill="#3465a4"><title>O'Mahony, The (Commemorative)</title></circle></a><a href="/setts/s17/db48w4g3ly2w2ly2g3w2r8w4db5lp3g2lp3db5w4r4/"><circle cx="267.8" cy="40.1" r="4" fill="#3465a4"><title>Cavalry, 7th..</title></circle></a><circle cx="291.0" cy="54.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db36ly4k6ly1k1w1k1g8r6k1r3w1~x2/"><circle cx="279.3" cy="49.3" r="4" fill="#3465a4"><title>MacBeth, MacLulich</title></circle></a><a href="/setts/s13/lb4b1w1b1k29lb3ly1k4lb20k2db1k3lb3~x2/"><circle cx="284.1" cy="56.4" r="4" fill="#3465a4"><title>Silverton (Name)</title></circle></a><a href="/setts/s10/n1k6n35k6k2dp3n1k6k2w1~x2/"><circle cx="319.5" cy="69.3" r="4" fill="#3465a4"><title>Melrose Newbigging Grey</title></circle></a><a href="/setts/s12/db36ly4k5w1k1w1k2g8r6k1r3w1~x4/"><circle cx="287.0" cy="52.8" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/setts/s12/t57db4k8ly4k4t4k4g8r6k4r4t2/"><circle cx="301.7" cy="59.0" r="4" fill="#3465a4"><title>Royal Stewart, (Variant)</title></circle></a><a href="/setts/s12/db36ly4k6lb1k1lb1k1dg8r6k1r3lb1/"><circle cx="272.4" cy="53.0" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/setts/s12/r2k34w2k2y27g1y2k3y2ly1y2r2~x2/"><circle cx="286.5" cy="53.2" r="4" fill="#3465a4"><title>Hudson, Bay Company</title></circle></a><a href="/setts/s12/ly6w2n4lb1db6lb1db40lb1db6lb1n4w4~x2/"><circle cx="285.3" cy="48.0" r="4" fill="#3465a4"><title>Moskyok-Collins (Portland) (Personal</title></circle></a><a href="/setts/s10/w2lo4db1lo1db40o6g18r2g2w1~x2/"><circle cx="301.9" cy="64.4" r="4" fill="#3465a4"><title>O'Mahony, The (Commemorative)</title></circle></a><a href="/setts/s17/db48w4g3ly2w2ly2g3w2r8w4db5lp3g2lp3db5w4r4/"><circle cx="267.6" cy="40.1" r="4" fill="#3465a4"><title>Cavalry, 7th..</title></circle></a><circle cx="290.9" cy="54.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r2k34w2k2o27g1o2k3o2ly1o2r2~x2/

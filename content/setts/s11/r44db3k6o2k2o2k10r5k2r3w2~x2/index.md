@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 R6 K4 R10 K20 LT4 K4 LT4 K12 B6 R/88
+R/88 B6 K12 LT4 K4 LT4 K20 R10 K4 R6 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -907,17 +910,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Heritage Plaid](/setts/s11/r44db3k6lo2k2lo2k10r5k2r3w2~x2/) — ΔT 0.85
 1. [Stewart/Stuart of Rothesay (Sobieski)](/setts/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/) — ΔT 1.15
 1. [Stewart of Rothesay](/setts/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/) — ΔT 1.26
-1. [Stewart Royal](/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1~x2/) — ΔT 1.28
+1. [Stewart Royal](/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1/) — ΔT 1.28
 1. [Trevison](/setts/s12/r47k1r6w3dt2w3r6k13g2w2r2k13~x2/) — ΔT 1.39
 1. [Oliver, dress](/setts/s9/r40k3r2db12r2g2r2g2ly3~x2/) — ΔT 1.39
 1. [Braemar, Castle](/setts/s10/r52k5ly5k8o5dr5k2r6k1ly2~x2/) — ΔT 1.39
-1. [Stuart of Bute](/setts/s9/r12dg6k1dg2k1dg1k6r24lb2/) — ΔT 1.42
+1. [Stuart of Bute](/setts/s9/r12dg6k1dg2k1dg1k6r24lb2~x2/) — ΔT 1.42
 1. [Stewart Royal](/setts/s12/r36db4k6ly1k1lr1k1dg8r4k1r2lr1~x2/) — ΔT 1.43
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r44t3k6k2k2k2k10r5k2r3w2~x2/"><circle cx="399.5" cy="78.6" r="4" fill="#3465a4"><title>Hilton Champion Corporate Golf Tartan Tartan Number: 2336. Earliest known date: c.1970 Originally called Hilton Champion, this tartan was designed by Kinloch Anderson for the officials and winning jacket for the Hilton-sponsored Heritage Classic golf tournament. The name was changed to Heritage Plaid in September 2000 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r44db3k6lo2k2lo2k10r5k2r3w2~x2/"><circle cx="408.2" cy="81.4" r="4" fill="#3465a4"><title>Heritage Plaid</title></circle></a><a href="/setts/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/"><circle cx="380.0" cy="87.8" r="4" fill="#3465a4"><title>Stewart/Stuart of Rothesay (Sobieski)</title></circle></a><a href="/setts/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/"><circle cx="369.3" cy="84.3" r="4" fill="#3465a4"><title>Stewart of Rothesay</title></circle></a><a href="/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1~x2/"><circle cx="379.1" cy="34.1" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><a href="/setts/s12/r47k1r6w3dt2w3r6k13g2w2r2k13~x2/"><circle cx="394.0" cy="50.2" r="4" fill="#3465a4"><title>Trevison</title></circle></a><a href="/setts/s9/r40k3r2db12r2g2r2g2ly3~x2/"><circle cx="432.4" cy="98.6" r="4" fill="#3465a4"><title>Oliver, dress</title></circle></a><a href="/setts/s10/r52k5ly5k8o5dr5k2r6k1ly2~x2/"><circle cx="411.9" cy="49.0" r="4" fill="#3465a4"><title>Braemar, Castle</title></circle></a><a href="/setts/s9/r12dg6k1dg2k1dg1k6r24lb2/"><circle cx="400.6" cy="118.4" r="4" fill="#3465a4"><title>Stuart of Bute</title></circle></a><a href="/setts/s12/r36db4k6ly1k1lr1k1dg8r4k1r2lr1~x2/"><circle cx="392.1" cy="45.3" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><circle cx="389.8" cy="75.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r44t3k6k2k2k2k10r5k2r3w2~x2/"><circle cx="399.1" cy="78.5" r="4" fill="#3465a4"><title>Hilton Champion Corporate Golf Tartan Tartan Number: 2336. Earliest known date: c.1970 Originally called Hilton Champion, this tartan was designed by Kinloch Anderson for the officials and winning jacket for the Hilton-sponsored Heritage Classic golf tournament. The name was changed to Heritage Plaid in September 2000 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r44db3k6lo2k2lo2k10r5k2r3w2~x2/"><circle cx="407.7" cy="81.3" r="4" fill="#3465a4"><title>Heritage Plaid</title></circle></a><a href="/setts/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/"><circle cx="379.6" cy="87.7" r="4" fill="#3465a4"><title>Stewart/Stuart of Rothesay (Sobieski)</title></circle></a><a href="/setts/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/"><circle cx="368.8" cy="84.2" r="4" fill="#3465a4"><title>Stewart of Rothesay</title></circle></a><a href="/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1/"><circle cx="378.7" cy="34.0" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><a href="/setts/s12/r47k1r6w3dt2w3r6k13g2w2r2k13~x2/"><circle cx="393.5" cy="50.1" r="4" fill="#3465a4"><title>Trevison</title></circle></a><a href="/setts/s9/r40k3r2db12r2g2r2g2ly3~x2/"><circle cx="431.9" cy="98.5" r="4" fill="#3465a4"><title>Oliver, dress</title></circle></a><a href="/setts/s10/r52k5ly5k8o5dr5k2r6k1ly2~x2/"><circle cx="411.4" cy="48.8" r="4" fill="#3465a4"><title>Braemar, Castle</title></circle></a><a href="/setts/s9/r12dg6k1dg2k1dg1k6r24lb2~x2/"><circle cx="400.2" cy="118.2" r="4" fill="#3465a4"><title>Stuart of Bute</title></circle></a><a href="/setts/s12/r36db4k6ly1k1lr1k1dg8r4k1r2lr1~x2/"><circle cx="391.7" cy="45.3" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><circle cx="389.4" cy="75.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/r44db3k6o2k2o2k10r5k2r3w2~x2/

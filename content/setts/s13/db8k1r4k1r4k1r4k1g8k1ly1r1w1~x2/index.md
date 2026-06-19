@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Unnamed No 158, Silk Fragment
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,8 +926,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g8k1ly1r1w1db8k1r4k1r4k1r4k1~x2/"><circle cx="121.3" cy="134.3" r="4" fill="#3465a4"><title>Norwich No.158</title></circle></a><a href="/setts/s13/db8k1r4k1r4k1r4k1dg8k1ly1r1w1~x2/"><circle cx="122.6" cy="133.4" r="4" fill="#3465a4"><title>Unidentified No 158 Silk Fragment</title></circle></a><a href="/setts/s10/g19k18r18ly2w2dp2ly2w2r8dp3~x2/"><circle cx="119.3" cy="133.6" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s15/r6db1r6g8ly1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="91.2" cy="136.9" r="4" fill="#3465a4"><title>MacPherson 9</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3dg24r14k4r4w2~x2/"><circle cx="116.8" cy="124.5" r="4" fill="#3465a4"><title>Stuart/Stewart #2</title></circle></a><a href="/setts/s13/lo2g6r12k3w3k3g16k2g2k2g2k12lp2~x2/"><circle cx="131.1" cy="135.8" r="4" fill="#3465a4"><title>Kapasi (Personal)</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3g24r14k4r4w2~x2/"><circle cx="100.5" cy="119.9" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/setts/s10/g19k18r18w2ly2dp2ly2w2r8dp3~x2/"><circle cx="106.5" cy="129.4" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s14/r9t8k2t2k2t8k16ly3dg18r10k3r10w2r5~x2/"><circle cx="97.8" cy="140.6" r="4" fill="#3465a4"><title>Caledonia - 1819 (Wilsons') No.155</title></circle></a><a href="/setts/s14/r25w4k4g25ly3k15t13r5t5r15g4r5k2g3~x2/"><circle cx="126.4" cy="112.4" r="4" fill="#3465a4"><title>Wilson's, No 226</title></circle></a><circle cx="107.4" cy="128.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g8k1ly1r1w1db8k1r4k1r4k1r4k1~x2/"><circle cx="121.3" cy="134.4" r="4" fill="#3465a4"><title>Norwich No.158</title></circle></a><a href="/setts/s13/db8k1r4k1r4k1r4k1dg8k1ly1r1w1~x2/"><circle cx="122.5" cy="133.6" r="4" fill="#3465a4"><title>Unidentified No 158 Silk Fragment</title></circle></a><a href="/setts/s10/g19k18r18ly2w2dp2ly2w2r8dp3~x2/"><circle cx="119.2" cy="133.7" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s15/r6db1r6g8ly1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="91.2" cy="137.0" r="4" fill="#3465a4"><title>MacPherson 9</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3dg24r14k4r4w2~x2/"><circle cx="116.8" cy="124.6" r="4" fill="#3465a4"><title>Stuart/Stewart #2</title></circle></a><a href="/setts/s13/lo2g6r12k3w3k3g16k2g2k2g2k12lp2~x2/"><circle cx="131.0" cy="135.9" r="4" fill="#3465a4"><title>Kapasi (Personal)</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3g24r14k4r4w2~x2/"><circle cx="100.5" cy="120.0" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/setts/s10/g19k18r18w2ly2dp2ly2w2r8dp3~x2/"><circle cx="106.5" cy="129.5" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s14/r9t8k2t2k2t8k16ly3dg18r10k3r10w2r5~x2/"><circle cx="97.7" cy="140.8" r="4" fill="#3465a4"><title>Caledonia - 1819 (Wilsons') No.155</title></circle></a><a href="/setts/s14/r25w4k4g25ly3k15t13r5t5r15g4r5k2g3~x2/"><circle cx="126.3" cy="112.5" r="4" fill="#3465a4"><title>Wilson's, No 226</title></circle></a><circle cx="107.3" cy="129.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db8k1r4k1r4k1r4k1g8k1ly1r1w1~x2/

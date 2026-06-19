@@ -2,7 +2,7 @@
 title: "Thompson/Thomson/MacTavish special grey"
 date: 2023-03-18
 ---
-**Bands:** [RGKYKR](/stripes/rgkykr/) · **Stripes:** [R Y K LO K R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R Y K LO K R</span></span>
+**Bands:** [RKYKGR](/stripes/rkykgr/) · **Stripes:** [R K LO K Y R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K LO K Y R</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2758
 
 ## Thread count
-R/6 K28 LG26 K12 N54 R/6
+R/6 N54 K12 LG26 K28 R/6
 ![Sett](sett.png)
 
 ## Palette
@@ -32,27 +32,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "R/6 K28 LG26 K12 N54 R/6 tartan")
+![Tartan detail](tartan.png "R/6 N54 K12 LG26 K28 R/6 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Scottish Ballet](/setts/s6/ly5g22dp15dp11dp5g2~x2/) — ΔT 0.70
-1. [Un-named (D C Dalgliesh) #3](/setts/s6/g3lr24k15o3g25k3~x2/) — ΔT 0.75
-1. [British Hills](/setts/s5/ly2db8r8dg17r2~x4/) — ΔT 0.78
+1. [Un-named (D C Dalgliesh) #3](/setts/s6/k3g25o3k15lr24g3~x2/) — ΔT 0.75
+1. [British Hills](/setts/s5/r2dg17r8db8ly2~x4/) — ΔT 0.78
 1. [MacKintosh Dress (Scott Adie)](/setts/s6/r3w8db4dg14r4db2~x4/) — ΔT 0.86
 1. [Bronte House Check (Fashion)](/setts/s6/r10dy60dt13lb24dt24dy8/) — ΔT 0.86
 1. [Thompson Grey Family Tartan Tartan Number: 1611. Earliest known date: pre 2003 Designed for Lord Thomson of Fleet in 1958 based on a sample in the Moy Hall collection dating from the mid 19th century. The tartan is also suitable for MacTavishs and Thompsons, who claim descent from the Clan MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r2o20k5w10k10r2~x2/) — ΔT 0.89
-1. [Logan #2](/setts/s7/db9r3ly1r3dg9r3ly1~x2/) — ΔT 0.97
 1. [Henkel (Corporate)](/setts/s6/k3y28k3r22k8w3~x2/) — ΔT 0.97
+1. [Logan #2](/setts/s7/db9r3ly1r3dg9r3ly1~x2/) — ΔT 0.97
 1. [Logan #3](/setts/s7/dp9lr4dp1lr4g15r4dp1~x4/) — ΔT 0.97
 1. [Logan Light](/setts/s7/dp9r4dp1r4g15r4dp1~x2/) — ΔT 0.97
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/ly5g22dp15dp11dp5g2~x2/"><circle cx="194.9" cy="212.9" r="4" fill="#3465a4"><title>Scottish Ballet</title></circle></a><a href="/setts/s6/g3lr24k15o3g25k3~x2/"><circle cx="180.2" cy="206.0" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #3</title></circle></a><a href="/setts/s5/ly2db8r8dg17r2~x4/"><circle cx="220.7" cy="221.2" r="4" fill="#3465a4"><title>British Hills</title></circle></a><a href="/setts/s6/r3w8db4dg14r4db2~x4/"><circle cx="150.7" cy="214.0" r="4" fill="#3465a4"><title>MacKintosh Dress (Scott Adie)</title></circle></a><a href="/setts/s6/r10dy60dt13lb24dt24dy8/"><circle cx="232.3" cy="220.4" r="4" fill="#3465a4"><title>Bronte House Check (Fashion)</title></circle></a><a href="/setts/s6/r2o20k5w10k10r2~x2/"><circle cx="174.7" cy="192.4" r="4" fill="#3465a4"><title>Thompson Grey Family Tartan Tartan Number: 1611. Earliest known date: pre 2003 Designed for Lord Thomson of Fleet in 1958 based on a sample in the Moy Hall collection dating from the mid 19th century. The tartan is also suitable for MacTavishs and Thompsons, who claim descent from the Clan MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/db9r3ly1r3dg9r3ly1~x2/"><circle cx="168.3" cy="206.1" r="4" fill="#3465a4"><title>Logan #2</title></circle></a><a href="/setts/s6/k3y28k3r22k8w3~x2/"><circle cx="223.1" cy="189.6" r="4" fill="#3465a4"><title>Henkel (Corporate)</title></circle></a><a href="/setts/s7/dp9lr4dp1lr4g15r4dp1~x4/"><circle cx="211.2" cy="176.5" r="4" fill="#3465a4"><title>Logan #3</title></circle></a><a href="/setts/s7/dp9r4dp1r4g15r4dp1~x2/"><circle cx="210.8" cy="173.0" r="4" fill="#3465a4"><title>Logan Light</title></circle></a><circle cx="192.5" cy="206.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/ly5g22dp15dp11dp5g2~x2/"><circle cx="194.9" cy="212.8" r="4" fill="#3465a4"><title>Scottish Ballet</title></circle></a><a href="/setts/s6/k3g25o3k15lr24g3~x2/"><circle cx="180.1" cy="205.9" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #3</title></circle></a><a href="/setts/s5/r2dg17r8db8ly2~x4/"><circle cx="220.6" cy="221.1" r="4" fill="#3465a4"><title>British Hills</title></circle></a><a href="/setts/s6/r3w8db4dg14r4db2~x4/"><circle cx="150.6" cy="213.9" r="4" fill="#3465a4"><title>MacKintosh Dress (Scott Adie)</title></circle></a><a href="/setts/s6/r10dy60dt13lb24dt24dy8/"><circle cx="232.2" cy="220.2" r="4" fill="#3465a4"><title>Bronte House Check (Fashion)</title></circle></a><a href="/setts/s6/r2o20k5w10k10r2~x2/"><circle cx="174.6" cy="192.3" r="4" fill="#3465a4"><title>Thompson Grey Family Tartan Tartan Number: 1611. Earliest known date: pre 2003 Designed for Lord Thomson of Fleet in 1958 based on a sample in the Moy Hall collection dating from the mid 19th century. The tartan is also suitable for MacTavishs and Thompsons, who claim descent from the Clan MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/k3y28k3r22k8w3~x2/"><circle cx="222.9" cy="189.5" r="4" fill="#3465a4"><title>Henkel (Corporate)</title></circle></a><a href="/setts/s7/db9r3ly1r3dg9r3ly1~x2/"><circle cx="168.2" cy="206.1" r="4" fill="#3465a4"><title>Logan #2</title></circle></a><a href="/setts/s7/dp9lr4dp1lr4g15r4dp1~x4/"><circle cx="211.1" cy="176.5" r="4" fill="#3465a4"><title>Logan #3</title></circle></a><a href="/setts/s7/dp9r4dp1r4g15r4dp1~x2/"><circle cx="210.7" cy="172.9" r="4" fill="#3465a4"><title>Logan Light</title></circle></a><circle cx="192.4" cy="206.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r3y27k6lo13k14r3~x2/

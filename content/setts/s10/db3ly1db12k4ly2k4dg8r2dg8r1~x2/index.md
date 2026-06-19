@@ -2,12 +2,19 @@
 title: "MacMillan Hunting"
 date: 2023-03-18
 ---
-**Bands:** [BYBKYKGRGR](/stripes/bybkykgrgr/) · **Stripes:** [DB LY DB K LY K DG R DG R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB LY DB K LY K DG R DG R</span></span>
+**Bands:** [RGRGKYKBYB](/stripes/rgrgkykbyb/) · **Stripes:** [R DG R DG K LY K DB LY DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">R DG R DG K LY K DB LY DB</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacMillan Htg
+- MacMillan Hunting #2
 
 ## Attestations
 
@@ -91,20 +98,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Biskup (Personal)](/setts/s10/db12r4db18r2k19g18r4g3lo2g8~x2/) — ΔT 0.55
-1. [MacDonell of Glengarry](/setts/s11/db8r4db12r1k12dg12r3dg2r1dg4lb1~x2/) — ΔT 0.68
+1. [MacDonell of Glengarry](/setts/s11/db8r4db12r1k12dg12r3dg2r1dg4lb1~x2/) — ΔT 0.67
 1. [Robertson, hunting](/setts/s10/db18k10g9k2r2k2g9k10db9w2~x2/) — ΔT 0.72
-1. [Spar (UK) Ltd](/setts/s12/db2k1db10k9g9r1g2w1g9k9db10k2~x4/) — ΔT 0.72
+1. [Spar (UK) Ltd](/setts/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/) — ΔT 0.72
 1. [MacLaren](/setts/s11/db22k4db4k4db4k22g22r6g6k2ly3~x2/) — ΔT 0.77
-1. [MacEwen / MacEwan](/setts/s13/ly2k1g12k12db12k1db2k1db12k12g12k1r2~x2/) — ΔT 0.77
+1. [MacEwen / MacEwan](/setts/s13/r2k1g12k12db12k1db2k1db12k12g12k1ly2~x2/) — ΔT 0.77
 1. [Offally](/setts/s10/r7db2g5db18g10db2k24db2g10ly3~x2/) — ΔT 0.79
 1. [Cameron of Erracht](/setts/s11/dg8r1dg1r3dg16k16r1db16r3db8ly2/) — ΔT 0.82
 1. [Colgan (Personal)](/setts/s9/r7db2g5k24db2g10db28g10lb3~x2/) — ΔT 0.82
-1. [MacDonald of Clanranald](/setts/s13/db8r1db2r3db12r1k12lb1dg12r3dg2r1dg8~x2/) — ΔT 0.83
+1. [MacDonald of Clanranald](/setts/s13/dg8r1dg2r3dg12lb1k12r1db12r3db2r1db8~x2/) — ΔT 0.83
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db12r4db18r2k19g18r4g3lo2g8~x2/"><circle cx="117.5" cy="183.1" r="4" fill="#3465a4"><title>Biskup (Personal)</title></circle></a><a href="/setts/s11/db8r4db12r1k12dg12r3dg2r1dg4lb1~x2/"><circle cx="139.2" cy="167.9" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s10/db18k10g9k2r2k2g9k10db9w2~x2/"><circle cx="129.9" cy="189.3" r="4" fill="#3465a4"><title>Robertson, hunting</title></circle></a><a href="/setts/s12/db2k1db10k9g9r1g2w1g9k9db10k2~x4/"><circle cx="127.0" cy="175.7" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/setts/s11/db22k4db4k4db4k22g22r6g6k2ly3~x2/"><circle cx="127.5" cy="157.0" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/setts/s13/ly2k1g12k12db12k1db2k1db12k12g12k1r2~x2/"><circle cx="137.9" cy="154.8" r="4" fill="#3465a4"><title>MacEwen / MacEwan</title></circle></a><a href="/setts/s10/r7db2g5db18g10db2k24db2g10ly3~x2/"><circle cx="118.6" cy="160.2" r="4" fill="#3465a4"><title>Offally</title></circle></a><a href="/setts/s11/dg8r1dg1r3dg16k16r1db16r3db8ly2/"><circle cx="159.5" cy="153.8" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><a href="/setts/s9/r7db2g5k24db2g10db28g10lb3~x2/"><circle cx="149.2" cy="161.8" r="4" fill="#3465a4"><title>Colgan (Personal)</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12lb1dg12r3dg2r1dg8~x2/"><circle cx="146.2" cy="158.2" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><circle cx="142.1" cy="176.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db12r4db18r2k19g18r4g3lo2g8~x2/"><circle cx="117.8" cy="183.2" r="4" fill="#3465a4"><title>Biskup (Personal)</title></circle></a><a href="/setts/s11/db8r4db12r1k12dg12r3dg2r1dg4lb1~x2/"><circle cx="139.4" cy="168.0" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s10/db18k10g9k2r2k2g9k10db9w2~x2/"><circle cx="130.2" cy="189.3" r="4" fill="#3465a4"><title>Robertson, hunting</title></circle></a><a href="/setts/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/"><circle cx="127.2" cy="175.7" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/setts/s11/db22k4db4k4db4k22g22r6g6k2ly3~x2/"><circle cx="127.7" cy="157.0" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/setts/s13/r2k1g12k12db12k1db2k1db12k12g12k1ly2~x2/"><circle cx="138.1" cy="154.8" r="4" fill="#3465a4"><title>MacEwen / MacEwan</title></circle></a><a href="/setts/s10/r7db2g5db18g10db2k24db2g10ly3~x2/"><circle cx="118.8" cy="160.3" r="4" fill="#3465a4"><title>Offally</title></circle></a><a href="/setts/s11/dg8r1dg1r3dg16k16r1db16r3db8ly2/"><circle cx="159.7" cy="153.9" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><a href="/setts/s9/r7db2g5k24db2g10db28g10lb3~x2/"><circle cx="149.4" cy="161.9" r="4" fill="#3465a4"><title>Colgan (Personal)</title></circle></a><a href="/setts/s13/dg8r1dg2r3dg12lb1k12r1db12r3db2r1db8~x2/"><circle cx="146.3" cy="158.3" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><circle cx="142.3" cy="176.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db3ly1db12k4ly2k4dg8r2dg8r1~x2/

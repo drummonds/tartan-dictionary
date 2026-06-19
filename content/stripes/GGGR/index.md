@@ -20,7 +20,7 @@ GGGR
 
 
 
-### DG DY DG R <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG DY DG R</span></span>
+### R DG DY DG <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG DY DG</span></span>
 
 | Tartans |
 |---------------|

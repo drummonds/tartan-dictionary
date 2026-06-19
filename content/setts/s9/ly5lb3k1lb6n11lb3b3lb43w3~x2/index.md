@@ -2,12 +2,18 @@
 title: "Royal College of Midwives"
 date: 2023-03-18
 ---
-**Bands:** [WWBWBWKWY](/stripes/wwbwbwkwy/) · **Stripes:** [W LB B LB N LB K LB LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W LB B LB N LB K LB LY</span></span>
+**Bands:** [YWKWBWBWW](/stripes/ywkwbwbww/) · **Stripes:** [LY LB K LB N LB B LB W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY LB K LB N LB B LB W</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3596
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Royal College of Midwives
 
 ## Attestations
 
@@ -24,7 +30,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5766
 
 ## Thread count
-W/6 Na86 B6 Na6 N22 Na12 K2 Na6 Y/10
+Y/10 Na6 K2 Na12 N22 Na6 B6 Na86 W/6
 ![Sett](sett.png)
 
 ## Palette
@@ -47,17 +53,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Druid (Corporate)](/setts/s15/dp3o2dp3ly2w4g8ly2w4ly2r8ly2w20ly2w62ly2/) — ΔT 1.68
 1. [Quigley of Knockcroghery (Hunting) (Personal)](/setts/s11/t27w2t15ly1t1ly1t15k2w2ly16r1~x2/) — ΔT 1.71
 1. [Bourbon, Sebastien (Personal)](/setts/s11/w2k2o4w4o5w4o3w50w2r2w2~x2/) — ΔT 1.78
-1. [Boucherville Formal District Tartan Tartan Number: 2118. Earliest known date: 1990 Three designers from La Navette d'Art ENR, Jeanette Blanchette, Pauline Bastien and Jacqueline Provost, based their design on symbolic colours. Le bleu azur represente la loyaute, le gris argent la serenite, le jaune (l'or) la generosite, le vert represente l'esperance, et le blanc symbole de purete et d'innocence "nous rappelle notre appartenance au Quebec." "Les tisserands, c'est nous tous...!" See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/w40ly4o10w8db4o4db4o4g1/) — ΔT 1.80
+1. [Boucherville Formal District Tartan Tartan Number: 2118. Earliest known date: 1990 Three designers from La Navette d'Art ENR, Jeanette Blanchette, Pauline Bastien and Jacqueline Provost, based their design on symbolic colours. Le bleu azur represente la loyaute, le gris argent la serenite, le jaune (l'or) la generosite, le vert represente l'esperance, et le blanc symbole de purete et d'innocence "nous rappelle notre appartenance au Quebec." "Les tisserands, c'est nous tous...!" See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/w40ly4o10w8db4o4db4o4g1~x2/) — ΔT 1.79
 1. [Miss Emma Halford-MacLeod](/setts/s10/w102dt3ly3dt3w3dt12n14g12w3o3~x2/) — ΔT 1.80
 1. [Confederate Memorial (Military)](/setts/s10/t12ly4r4ly4ly2ly56r18w1db4w3~x2/) — ΔT 1.81
-1. [Boucherville (Tartan de..), dress](/setts/s9/w40ly4y10w8b4y4b4y4g1/) — ΔT 1.87
+1. [Boucherville (Tartan de..), dress](/setts/s9/w40ly4y10w8b4y4b4y4g1~x2/) — ΔT 1.87
 1. [MacDonald from Rawtenstall (Personal)](/setts/s8/lb7w2m7w4lb50w2k2r2~x2/) — ΔT 1.91
 1. [Kuehle (Personal)](/setts/s7/lp6w2lp1db6o30w1r3~x2/) — ΔT 1.98
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/lo30db6m1w2m6w2m1db6lo30lb1r3~x2/"><circle cx="413.3" cy="88.8" r="4" fill="#3465a4"><title>Kuehle Hunting (Personal)</title></circle></a><a href="/setts/s15/dp3o2dp3ly2w4g8ly2w4ly2r8ly2w20ly2w62ly2/"><circle cx="430.5" cy="34.6" r="4" fill="#3465a4"><title>Druid (Corporate)</title></circle></a><a href="/setts/s11/t27w2t15ly1t1ly1t15k2w2ly16r1~x2/"><circle cx="423.6" cy="111.6" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Hunting) (Personal)</title></circle></a><a href="/setts/s11/w2k2o4w4o5w4o3w50w2r2w2~x2/"><circle cx="446.6" cy="81.2" r="4" fill="#3465a4"><title>Bourbon, Sebastien (Personal)</title></circle></a><a href="/setts/s9/w40ly4o10w8db4o4db4o4g1/"><circle cx="365.2" cy="81.8" r="4" fill="#3465a4"><title>Boucherville Formal District Tartan Tartan Number: 2118. Earliest known date: 1990 Three designers from La Navette d'Art ENR, Jeanette Blanchette, Pauline Bastien and Jacqueline Provost, based their design on symbolic colours. Le bleu azur represente la loyaute, le gris argent la serenite, le jaune (l'or) la generosite, le vert represente l'esperance, et le blanc symbole de purete et d'innocence &quot;nous rappelle notre appartenance au Quebec.&quot; &quot;Les tisserands, c'est nous tous...!&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/w102dt3ly3dt3w3dt12n14g12w3o3~x2/"><circle cx="394.2" cy="38.1" r="4" fill="#3465a4"><title>Miss Emma Halford-MacLeod</title></circle></a><a href="/setts/s10/t12ly4r4ly4ly2ly56r18w1db4w3~x2/"><circle cx="376.3" cy="54.8" r="4" fill="#3465a4"><title>Confederate Memorial (Military)</title></circle></a><a href="/setts/s9/w40ly4y10w8b4y4b4y4g1/"><circle cx="364.8" cy="81.8" r="4" fill="#3465a4"><title>Boucherville (Tartan de..), dress</title></circle></a><a href="/setts/s8/lb7w2m7w4lb50w2k2r2~x2/"><circle cx="471.6" cy="99.3" r="4" fill="#3465a4"><title>MacDonald from Rawtenstall (Personal)</title></circle></a><a href="/setts/s7/lp6w2lp1db6o30w1r3~x2/"><circle cx="378.2" cy="105.5" r="4" fill="#3465a4"><title>Kuehle (Personal)</title></circle></a><circle cx="454.3" cy="76.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/lo30db6m1w2m6w2m1db6lo30lb1r3~x2/"><circle cx="412.8" cy="88.8" r="4" fill="#3465a4"><title>Kuehle Hunting (Personal)</title></circle></a><a href="/setts/s15/dp3o2dp3ly2w4g8ly2w4ly2r8ly2w20ly2w62ly2/"><circle cx="429.6" cy="34.4" r="4" fill="#3465a4"><title>Druid (Corporate)</title></circle></a><a href="/setts/s11/t27w2t15ly1t1ly1t15k2w2ly16r1~x2/"><circle cx="423.2" cy="111.5" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Hunting) (Personal)</title></circle></a><a href="/setts/s11/w2k2o4w4o5w4o3w50w2r2w2~x2/"><circle cx="445.8" cy="81.1" r="4" fill="#3465a4"><title>Bourbon, Sebastien (Personal)</title></circle></a><a href="/setts/s9/w40ly4o10w8db4o4db4o4g1~x2/"><circle cx="364.6" cy="81.6" r="4" fill="#3465a4"><title>Boucherville Formal District Tartan Tartan Number: 2118. Earliest known date: 1990 Three designers from La Navette d'Art ENR, Jeanette Blanchette, Pauline Bastien and Jacqueline Provost, based their design on symbolic colours. Le bleu azur represente la loyaute, le gris argent la serenite, le jaune (l'or) la generosite, le vert represente l'esperance, et le blanc symbole de purete et d'innocence &quot;nous rappelle notre appartenance au Quebec.&quot; &quot;Les tisserands, c'est nous tous...!&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/w102dt3ly3dt3w3dt12n14g12w3o3~x2/"><circle cx="393.5" cy="37.9" r="4" fill="#3465a4"><title>Miss Emma Halford-MacLeod</title></circle></a><a href="/setts/s10/t12ly4r4ly4ly2ly56r18w1db4w3~x2/"><circle cx="375.7" cy="54.8" r="4" fill="#3465a4"><title>Confederate Memorial (Military)</title></circle></a><a href="/setts/s9/w40ly4y10w8b4y4b4y4g1~x2/"><circle cx="364.2" cy="81.6" r="4" fill="#3465a4"><title>Boucherville (Tartan de..), dress</title></circle></a><a href="/setts/s8/lb7w2m7w4lb50w2k2r2~x2/"><circle cx="470.9" cy="99.0" r="4" fill="#3465a4"><title>MacDonald from Rawtenstall (Personal)</title></circle></a><a href="/setts/s7/lp6w2lp1db6o30w1r3~x2/"><circle cx="377.8" cy="105.4" r="4" fill="#3465a4"><title>Kuehle (Personal)</title></circle></a><circle cx="453.7" cy="76.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/ly5lb3k1lb6n11lb3b3lb43w3~x2/

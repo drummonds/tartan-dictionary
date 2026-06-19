@@ -2,7 +2,7 @@
 title: "Crinnion (Middlesbrough) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKWBY](/stripes/bkwby/) · **Stripes:** [B K LB P LG](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#82D67A"></span><span class="seq">B K LB P LG</span></span>
+**Bands:** [YBWKB](/stripes/ybwkb/) · **Stripes:** [LG P LB K B](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LG P LB K B</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10789](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10789)
 
 ## Thread count
-B/12 K4 N12 P16 G/12
+G/12 P16 N12 K4 B/12
 ![Sett](sett.png)
 
 ## Palette
@@ -32,7 +32,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/12 K4 N12 P16 G/12 tartan")
+![Tartan detail](tartan.png "G/12 P16 N12 K4 B/12 tartan")
 
 ## Nearest tartans
 
@@ -51,8 +51,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/t3w10db10g10r2~x4/"><circle cx="52.6" cy="237.8" r="4" fill="#3465a4"><title>MacTeddy</title></circle></a><a href="/setts/s5/lt3w10db10g10k2~x4/"><circle cx="32.8" cy="235.6" r="4" fill="#3465a4"><title>MacTeddy</title></circle></a><a href="/setts/s5/r13ly13g13b22w4~x2/"><circle cx="51.7" cy="236.6" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/setts/s6/lb3lb2db3r3k3ly1~x8/"><circle cx="14.0" cy="254.4" r="4" fill="#3465a4"><title>Becker (Name)</title></circle></a><a href="/setts/s5/db9r12g9db5w2~x4/"><circle cx="120.7" cy="251.8" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Heritage Trust, The</title></circle></a><a href="/setts/s4/g3db3dp4w1~x4/"><circle cx="99.6" cy="296.4" r="4" fill="#3465a4"><title>Pride of the Glen</title></circle></a><a href="/setts/s5/r13lo13g13db22w4~x2/"><circle cx="72.5" cy="245.5" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/setts/s6/db5dp3w2dg3k1ly1~x10/"><circle cx="35.2" cy="210.6" r="4" fill="#3465a4"><title>MacBlain (2016)</title></circle></a><a href="/setts/s8/k6w11b11r13db17w10k2w4~x2/"><circle cx="63.2" cy="191.0" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo Dress</title></circle></a><a href="/setts/s5/db2m3g3o6ly2~x2/"><circle cx="63.7" cy="266.7" r="4" fill="#3465a4"><title>Dunoon Burgh Hall Trust</title></circle></a><circle cx="14.0" cy="268.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/t3w10db10g10r2~x4/"><circle cx="52.7" cy="237.8" r="4" fill="#3465a4"><title>MacTeddy</title></circle></a><a href="/setts/s5/lt3w10db10g10k2~x4/"><circle cx="32.9" cy="235.5" r="4" fill="#3465a4"><title>MacTeddy</title></circle></a><a href="/setts/s5/r13ly13g13b22w4~x2/"><circle cx="51.7" cy="236.6" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/setts/s6/lb3lb2db3r3k3ly1~x8/"><circle cx="14.0" cy="254.5" r="4" fill="#3465a4"><title>Becker (Name)</title></circle></a><a href="/setts/s5/db9r12g9db5w2~x4/"><circle cx="120.8" cy="251.7" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Heritage Trust, The</title></circle></a><a href="/setts/s4/g3db3dp4w1~x4/"><circle cx="99.8" cy="296.3" r="4" fill="#3465a4"><title>Pride of the Glen</title></circle></a><a href="/setts/s5/r13lo13g13db22w4~x2/"><circle cx="72.6" cy="245.5" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/setts/s6/db5dp3w2dg3k1ly1~x10/"><circle cx="35.4" cy="210.6" r="4" fill="#3465a4"><title>MacBlain (2016)</title></circle></a><a href="/setts/s8/k6w11b11r13db17w10k2w4~x2/"><circle cx="63.2" cy="191.0" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo Dress</title></circle></a><a href="/setts/s5/db2m3g3o6ly2~x2/"><circle cx="63.7" cy="266.7" r="4" fill="#3465a4"><title>Dunoon Burgh Hall Trust</title></circle></a><circle cx="14.0" cy="268.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/b3k1lb3p4lg3~x4/

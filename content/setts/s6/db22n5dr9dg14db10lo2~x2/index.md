@@ -2,12 +2,18 @@
 title: "Belfrage"
 date: 2023-03-18
 ---
-**Bands:** [BBBGBY](/stripes/bbbgby/) · **Stripes:** [DB N DR DG DB LO](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DB N DR DG DB LO</span></span>
+**Bands:** [YBGBBB](/stripes/ybgbbb/) · **Stripes:** [LO DB DG DR N DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="seq">LO DB DG DR N DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5408
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Belfrage Swedish
 
 ## Attestations
 
@@ -53,9 +59,9 @@ The nearest existing variants by ΔTartan distance.
 1. [Moray (Corporate)](/setts/s8/db15dp3db30k22dg18dp3dg3w3~x2/) — ΔT 1.26
 1. [The Harbour Town, Hilton Head](/setts/s6/k3dg11k3dr11k18o3~x2/) — ΔT 1.45
 1. [Mackison](/setts/s6/dt18dp1dt12k14g14r2~x2/) — ΔT 1.45
-1. [Cultoquhey Hotel Corporate Tartan Tartan Number: 3393. Earliest known date: circa1990 Designed by Peter MacDonald as a Cook tartan for the former owners (David & Anna) of the Cultoquhey Hotel near Crieff. When they left, if became the house tartan of the hotel See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/ly3dg32k11db22r3~x2/) — ΔT 1.48
+1. [Cultoquhey Hotel Corporate Tartan Tartan Number: 3393. Earliest known date: circa1990 Designed by Peter MacDonald as a Cook tartan for the former owners (David & Anna) of the Cultoquhey Hotel near Crieff. When they left, if became the house tartan of the hotel See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/r3db22k11dg32ly3~x2/) — ΔT 1.48
 1. [Haus of RvR](/setts/s11/db13w2db13k3db13k21lo3k18db9k2db2~x2/) — ΔT 1.49
-1. [Rose, Danny and Hanna (Personal)](/setts/s5/lg11db19dt38r7k7~x2/) — ΔT 1.50
+1. [Rose, Danny and Hanna (Personal)](/setts/s5/lg11db19dt38r7k7~x2/) — ΔT 1.51
 1. [Robert Gordon University](/setts/s6/k4r2k12db12k1lo2~x2/) — ΔT 1.54
 1. [St. Andrew Society](/setts/s7/db16k16db16w3db16k2t3~x2/) — ΔT 1.55
 1. [Lyle and Scott](/setts/s6/dg5db2dg9db19dr9ly2~x2/) — ΔT 1.56
@@ -63,8 +69,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db15dp3db30k22dg18dp3dg3w3~x2/"><circle cx="254.9" cy="217.0" r="4" fill="#3465a4"><title>Moray (Corporate)</title></circle></a><a href="/setts/s6/k3dg11k3dr11k18o3~x2/"><circle cx="267.9" cy="274.6" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/setts/s6/dt18dp1dt12k14g14r2~x2/"><circle cx="293.0" cy="235.6" r="4" fill="#3465a4"><title>Mackison</title></circle></a><a href="/setts/s5/ly3dg32k11db22r3~x2/"><circle cx="271.2" cy="243.2" r="4" fill="#3465a4"><title>Cultoquhey Hotel Corporate Tartan Tartan Number: 3393. Earliest known date: circa1990 Designed by Peter MacDonald as a Cook tartan for the former owners (David &amp; Anna) of the Cultoquhey Hotel near Crieff. When they left, if became the house tartan of the hotel See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/db13w2db13k3db13k21lo3k18db9k2db2~x2/"><circle cx="243.9" cy="206.9" r="4" fill="#3465a4"><title>Haus of RvR</title></circle></a><a href="/setts/s5/lg11db19dt38r7k7~x2/"><circle cx="218.9" cy="262.8" r="4" fill="#3465a4"><title>Rose, Danny and Hanna (Personal)</title></circle></a><a href="/setts/s6/k4r2k12db12k1lo2~x2/"><circle cx="338.6" cy="237.6" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/setts/s7/db16k16db16w3db16k2t3~x2/"><circle cx="215.2" cy="244.7" r="4" fill="#3465a4"><title>St. Andrew Society</title></circle></a><a href="/setts/s6/dg5db2dg9db19dr9ly2~x2/"><circle cx="202.7" cy="221.6" r="4" fill="#3465a4"><title>Lyle and Scott</title></circle></a><a href="/setts/s9/dt5dp1dt4db4dt7db8w1db2ly1~x4/"><circle cx="271.6" cy="234.8" r="4" fill="#3465a4"><title>Romantic Scotland (Madonna)</title></circle></a><circle cx="270.5" cy="247.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db15dp3db30k22dg18dp3dg3w3~x2/"><circle cx="255.1" cy="217.1" r="4" fill="#3465a4"><title>Moray (Corporate)</title></circle></a><a href="/setts/s6/k3dg11k3dr11k18o3~x2/"><circle cx="268.1" cy="274.6" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/setts/s6/dt18dp1dt12k14g14r2~x2/"><circle cx="293.1" cy="235.6" r="4" fill="#3465a4"><title>Mackison</title></circle></a><a href="/setts/s5/r3db22k11dg32ly3~x2/"><circle cx="271.4" cy="243.3" r="4" fill="#3465a4"><title>Cultoquhey Hotel Corporate Tartan Tartan Number: 3393. Earliest known date: circa1990 Designed by Peter MacDonald as a Cook tartan for the former owners (David &amp; Anna) of the Cultoquhey Hotel near Crieff. When they left, if became the house tartan of the hotel See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/db13w2db13k3db13k21lo3k18db9k2db2~x2/"><circle cx="244.1" cy="207.0" r="4" fill="#3465a4"><title>Haus of RvR</title></circle></a><a href="/setts/s5/lg11db19dt38r7k7~x2/"><circle cx="219.1" cy="262.9" r="4" fill="#3465a4"><title>Rose, Danny and Hanna (Personal)</title></circle></a><a href="/setts/s6/k4r2k12db12k1lo2~x2/"><circle cx="338.7" cy="237.6" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/setts/s7/db16k16db16w3db16k2t3~x2/"><circle cx="215.5" cy="244.8" r="4" fill="#3465a4"><title>St. Andrew Society</title></circle></a><a href="/setts/s6/dg5db2dg9db19dr9ly2~x2/"><circle cx="202.9" cy="221.7" r="4" fill="#3465a4"><title>Lyle and Scott</title></circle></a><a href="/setts/s9/dt5dp1dt4db4dt7db8w1db2ly1~x4/"><circle cx="271.7" cy="234.8" r="4" fill="#3465a4"><title>Romantic Scotland (Madonna)</title></circle></a><circle cx="270.8" cy="247.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db22n5dr9dg14db10lo2~x2/

@@ -18,10 +18,10 @@ BRBRGRRWRWRR
 
 
 
-### P R P R G M R LT R LT R M <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="seq">P R P R G M R LT R LT R M</span></span>
+### M R LT R LT R M G R P R P <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">M R LT R LT R M G R P R P</span></span>
 
 | Tartans |
 |---------------|
-| [Scobie (Blackford)](/setts/s12/m1r2lt1r1lt1r20m14g26r6p1r1p1~x2/)|
-|![Scobie (Blackford) example sett](/setts/s12/m1r2lt1r1lt1r20m14g26r6p1r1p1~x2/sett.png)|
+| [Scobie (Blackford)](/setts/s12/p1r1p1r6g26m14r20lt1r1lt1r2m1~x2/)|
+|![Scobie (Blackford) example sett](/setts/s12/p1r1p1r6g26m14r20lt1r1lt1r2m1~x2/sett.png)|
 

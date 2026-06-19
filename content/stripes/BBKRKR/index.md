@@ -20,7 +20,7 @@ BBKRKR
 
 
 
-### P N K R K O <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">P N K R K O</span></span>
+### O K R K N P <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">O K R K N P</span></span>
 
 | Tartans |
 |---------------|

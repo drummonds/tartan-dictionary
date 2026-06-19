@@ -2,12 +2,18 @@
 title: "MacHarg, Iain"
 date: 2023-03-18
 ---
-**Bands:** [BBBKGKGKG](/stripes/bbbkgkgkg/) · **Stripes:** [DB DP DB K G K G K G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB DP DB K G K G K G</span></span>
+**Bands:** [GKGKGKBBB](/stripes/gkgkgkbbb/) · **Stripes:** [G K G K G K DB DP DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="seq">G K G K G K DB DP DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10159
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacHarg, Iain
 
 ## Attestations
 
@@ -23,7 +29,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10159](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10159)
 
 ## Thread count
-DB/6 P6 DB48 K16 G4 K4 G4 K4 G/40
+G/40 K4 G4 K4 G4 K16 DB48 P6 DB/6
 ![Sett](sett.png)
 
 ## Palette
@@ -40,11 +46,11 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Shaw](/setts/s10/g24k2db3k2db8r2db8k2db3k2~x2/) — ΔT 0.59
-1. [Hebridean Old.. District Tartan Tartan Number: 249. Earliest known date: pre 2003 Alternative count on 1990 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/db2k2db18t1k13t1g16db3k2~x2/) — ΔT 0.70
+1. [Shaw](/setts/s10/g24k2db3k2db8r2~x2/) — ΔT 0.59
+1. [Hebridean Old.. District Tartan Tartan Number: 249. Earliest known date: pre 2003 Alternative count on 1990 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/k2db3g16t1k13t1db18k2db2~x2/) — ΔT 0.70
 1. [Lamont](/setts/s8/db10k1db1k1db2k8dg10w1~x4/) — ΔT 0.70
 1. [Aitchison Family (Kinghorn) (Personal)](/setts/s9/k2db3k2db18k11db2k11g25p2~x2/) — ΔT 0.86
-1. [Hume or Home](/setts/s9/db3dg3db20r2k2r2k20dg3k3~x2/) — ΔT 0.89
+1. [Hume or Home](/setts/s9/k3dg3k20r2k2r2db20dg3db3~x2/) — ΔT 0.89
 1. [Princess Louise (Royal)](/setts/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/) — ΔT 0.90
 1. [Gordon #2](/setts/s10/db56k6db6k6db6k44dg44ly4dg5ly8/) — ΔT 0.90
 1. [Durie (Clan)](/setts/s9/db12r1db1r1db1r4g12ly1g2~x4/) — ΔT 0.98
@@ -53,8 +59,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g24k2db3k2db8r2db8k2db3k2~x2/"><circle cx="284.8" cy="184.7" r="4" fill="#3465a4"><title>Shaw</title></circle></a><a href="/setts/s9/db2k2db18t1k13t1g16db3k2~x2/"><circle cx="272.1" cy="185.7" r="4" fill="#3465a4"><title>Hebridean Old.. District Tartan Tartan Number: 249. Earliest known date: pre 2003 Alternative count on 1990 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db10k1db1k1db2k8dg10w1~x4/"><circle cx="243.9" cy="219.3" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s9/k2db3k2db18k11db2k11g25p2~x2/"><circle cx="247.4" cy="212.3" r="4" fill="#3465a4"><title>Aitchison Family (Kinghorn) (Personal)</title></circle></a><a href="/setts/s9/db3dg3db20r2k2r2k20dg3k3~x2/"><circle cx="288.7" cy="199.9" r="4" fill="#3465a4"><title>Hume or Home</title></circle></a><a href="/setts/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/"><circle cx="233.5" cy="196.2" r="4" fill="#3465a4"><title>Princess Louise (Royal)</title></circle></a><a href="/setts/s10/db56k6db6k6db6k44dg44ly4dg5ly8/"><circle cx="230.3" cy="178.3" r="4" fill="#3465a4"><title>Gordon #2</title></circle></a><a href="/setts/s9/db12r1db1r1db1r4g12ly1g2~x4/"><circle cx="267.4" cy="182.6" r="4" fill="#3465a4"><title>Durie (Clan)</title></circle></a><a href="/setts/s10/db1k1db8k2lo1g12lo1db8k1db1~x4/"><circle cx="300.5" cy="185.4" r="4" fill="#3465a4"><title>Rowan (Name)</title></circle></a><a href="/setts/s11/db30k2db2k2db2k32g15r2g4r4g30~x2/"><circle cx="254.1" cy="171.2" r="4" fill="#3465a4"><title>Scottish Tourist Board (1981) (Corp)</title></circle></a><circle cx="273.5" cy="195.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g24k2db3k2db8r2~x2/"><circle cx="284.8" cy="184.8" r="4" fill="#3465a4"><title>Shaw</title></circle></a><a href="/setts/s9/k2db3g16t1k13t1db18k2db2~x2/"><circle cx="272.2" cy="185.7" r="4" fill="#3465a4"><title>Hebridean Old.. District Tartan Tartan Number: 249. Earliest known date: pre 2003 Alternative count on 1990 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db10k1db1k1db2k8dg10w1~x4/"><circle cx="244.0" cy="219.3" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s9/k2db3k2db18k11db2k11g25p2~x2/"><circle cx="247.5" cy="212.4" r="4" fill="#3465a4"><title>Aitchison Family (Kinghorn) (Personal)</title></circle></a><a href="/setts/s9/k3dg3k20r2k2r2db20dg3db3~x2/"><circle cx="288.7" cy="199.9" r="4" fill="#3465a4"><title>Hume or Home</title></circle></a><a href="/setts/s11/g2k1db9k7g1k1g1k1g9r1db1~x4/"><circle cx="233.6" cy="196.3" r="4" fill="#3465a4"><title>Princess Louise (Royal)</title></circle></a><a href="/setts/s10/db56k6db6k6db6k44dg44ly4dg5ly8/"><circle cx="230.4" cy="178.3" r="4" fill="#3465a4"><title>Gordon #2</title></circle></a><a href="/setts/s9/db12r1db1r1db1r4g12ly1g2~x4/"><circle cx="267.4" cy="182.6" r="4" fill="#3465a4"><title>Durie (Clan)</title></circle></a><a href="/setts/s10/db1k1db8k2lo1g12lo1db8k1db1~x4/"><circle cx="300.4" cy="185.4" r="4" fill="#3465a4"><title>Rowan (Name)</title></circle></a><a href="/setts/s11/db30k2db2k2db2k32g15r2g4r4g30~x2/"><circle cx="254.1" cy="171.2" r="4" fill="#3465a4"><title>Scottish Tourist Board (1981) (Corp)</title></circle></a><circle cx="273.5" cy="195.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/g20k2g2k2g2k8db24dp3db3~x2/

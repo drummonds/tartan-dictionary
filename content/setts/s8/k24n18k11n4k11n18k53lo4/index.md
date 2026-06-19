@@ -10,7 +10,7 @@ This was sourced from house-of-tartan.  It is a [8 band tartan](/bands/bands8/).
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8351
 
 ## Thread count
-DY/4 K53 N18 K11 N4 K11 N18 K/24
+K/24 N18 K11 N4 K11 N18 K53 DY/4
 ![Sett](sett.png)
 
 ## Palette
@@ -25,7 +25,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DY/4 K53 N18 K11 N4 K11 N18 K/24 tartan")
+![Tartan detail](tartan.png "K/24 N18 K11 N4 K11 N18 K53 DY/4 tartan")
 
 ## Nearest tartans
 
@@ -38,14 +38,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Grey Spirit](/setts/s10/n45k17n6k17n6k17n6k17n45k4~x2/) — ΔT 1.47
 1. [Grey Spirit (Fashion)](/setts/s6/n6k17n6k17n45k4~x2/) — ΔT 1.53
 1. [Tyneside Scottish (Khaki)](/setts/s13/dt11y1dt1y1dt1y8dt8y1dt8y8dt8y1dt1~x4/) — ΔT 1.61
-1. [Sunderland of Scotland (Fashion)](/setts/s7/o1k21o5k3o5k9r1~x4/) — ΔT 1.62
+1. [Sunderland of Scotland (Fashion)](/setts/s7/r1k9o5k3o5k21o1~x4/) — ΔT 1.62
 1. [Melange](/setts/s9/k80n4k44n50k36n4y12k12y45/) — ΔT 1.64
 1. [Gunn (Logan)](/setts/s6/dg2k12dg1k12dg12r2~x2/) — ΔT 1.67
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k24n18k11n4k11n18k53r4/"><circle cx="461.2" cy="239.5" r="4" fill="#3465a4"><title>Spirit of Glyndwr Gold (Fashion)</title></circle></a><a href="/setts/s8/k24n18k11n4k11n18k53n4/"><circle cx="489.3" cy="259.0" r="4" fill="#3465a4"><title>Spirit of Glyndwr Grey (Fashion)</title></circle></a><a href="/setts/s8/k1g1k8n1k1n2k1n1~x8/"><circle cx="459.8" cy="238.0" r="4" fill="#3465a4"><title>Nightstalker (Corporate)</title></circle></a><a href="/setts/s7/n13k3n3k3n3k35r3~x2/"><circle cx="451.6" cy="215.2" r="4" fill="#3465a4"><title>Holden Black (Corporate)</title></circle></a><a href="/setts/s10/n45k17n6k17n6k17n6k17n45k4~x2/"><circle cx="416.6" cy="247.0" r="4" fill="#3465a4"><title>Grey Spirit</title></circle></a><a href="/setts/s6/n6k17n6k17n45k4~x2/"><circle cx="433.8" cy="261.2" r="4" fill="#3465a4"><title>Grey Spirit (Fashion)</title></circle></a><a href="/setts/s13/dt11y1dt1y1dt1y8dt8y1dt8y8dt8y1dt1~x4/"><circle cx="429.2" cy="224.6" r="4" fill="#3465a4"><title>Tyneside Scottish (Khaki)</title></circle></a><a href="/setts/s7/o1k21o5k3o5k9r1~x4/"><circle cx="480.2" cy="194.5" r="4" fill="#3465a4"><title>Sunderland of Scotland (Fashion)</title></circle></a><a href="/setts/s9/k80n4k44n50k36n4y12k12y45/"><circle cx="372.2" cy="209.7" r="4" fill="#3465a4"><title>Melange</title></circle></a><a href="/setts/s6/dg2k12dg1k12dg12r2~x2/"><circle cx="403.3" cy="269.1" r="4" fill="#3465a4"><title>Gunn (Logan)</title></circle></a><circle cx="454.5" cy="236.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k24n18k11n4k11n18k53r4/"><circle cx="461.1" cy="239.3" r="4" fill="#3465a4"><title>Spirit of Glyndwr Gold (Fashion)</title></circle></a><a href="/setts/s8/k24n18k11n4k11n18k53n4/"><circle cx="489.3" cy="258.8" r="4" fill="#3465a4"><title>Spirit of Glyndwr Grey (Fashion)</title></circle></a><a href="/setts/s8/k1g1k8n1k1n2k1n1~x8/"><circle cx="459.8" cy="237.8" r="4" fill="#3465a4"><title>Nightstalker (Corporate)</title></circle></a><a href="/setts/s7/n13k3n3k3n3k35r3~x2/"><circle cx="451.5" cy="215.0" r="4" fill="#3465a4"><title>Holden Black (Corporate)</title></circle></a><a href="/setts/s10/n45k17n6k17n6k17n6k17n45k4~x2/"><circle cx="416.5" cy="246.7" r="4" fill="#3465a4"><title>Grey Spirit</title></circle></a><a href="/setts/s6/n6k17n6k17n45k4~x2/"><circle cx="433.7" cy="260.9" r="4" fill="#3465a4"><title>Grey Spirit (Fashion)</title></circle></a><a href="/setts/s13/dt11y1dt1y1dt1y8dt8y1dt8y8dt8y1dt1~x4/"><circle cx="429.0" cy="224.3" r="4" fill="#3465a4"><title>Tyneside Scottish (Khaki)</title></circle></a><a href="/setts/s7/r1k9o5k3o5k21o1~x4/"><circle cx="480.1" cy="194.2" r="4" fill="#3465a4"><title>Sunderland of Scotland (Fashion)</title></circle></a><a href="/setts/s9/k80n4k44n50k36n4y12k12y45/"><circle cx="372.1" cy="209.5" r="4" fill="#3465a4"><title>Melange</title></circle></a><a href="/setts/s6/dg2k12dg1k12dg12r2~x2/"><circle cx="403.3" cy="269.0" r="4" fill="#3465a4"><title>Gunn (Logan)</title></circle></a><circle cx="454.4" cy="236.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k24n18k11n4k11n18k53lo4/

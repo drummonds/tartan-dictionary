@@ -2,7 +2,7 @@
 title: "Abercrombie"
 date: 2023-03-18
 ---
-**Bands:** [KBRKGWGRK](/stripes/kbrkgwgrk/) · **Stripes:** [K DB R K G W G R K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB R K G W G R K</span></span>
+**Bands:** [KRGWGKRBK](/stripes/krgwgkrbk/) · **Stripes:** [K R G W G K R DB K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K R G W G K R DB K</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/4 B16 R2 K28 G28 LN2 G28 R2 K/24
+K/24 R2 G28 LN2 G28 K28 R2 B16 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -912,10 +915,10 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Norwich No.079](/setts/s10/g18ly2k14t5k4t5k14ly2g18r5~x2/) — ΔT 0.89
 1. [MacPhadran](/setts/s7/g3db12lr1k12g13r2g2~x2/) — ΔT 1.03
-1. [MacCaskill](/setts/s7/k2ly1db15k15g15r1k2~x2/) — ΔT 1.17
+1. [MacCaskill](/setts/s7/k2r1g15k15db15ly1k2~x2/) — ΔT 1.17
 1. [Abercrombie](/setts/s9/g14w1g7k7db2k2db2k2db7~x2/) — ΔT 1.24
 1. [Cleghorn (Personal)](/setts/s7/g8r3g30k8w3k36w8~x2/) — ΔT 1.24
-1. [MacNeil 5](/setts/s6/ly1k5g12k12db12w1~x4/) — ΔT 1.27
+1. [MacNeil 5](/setts/s6/w1db12k12g12k5ly1~x4/) — ΔT 1.27
 1. [Newman](/setts/s11/db9k9db9r2k18w1g12r2g4r2g4~x2/) — ΔT 1.27
 1. [Unnamed 6](/setts/s8/k16g16k2g16k16w2p16k1~x2/) — ΔT 1.28
 1. [Hibernian F.C.](/setts/s11/p3dg6k9g11w1g11w1g11k9dg6p3~x4/) — ΔT 1.29
@@ -923,8 +926,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g18ly2k14t5k4t5k14ly2g18r5~x2/"><circle cx="146.6" cy="184.4" r="4" fill="#3465a4"><title>Norwich No.079</title></circle></a><a href="/setts/s7/g3db12lr1k12g13r2g2~x2/"><circle cx="168.7" cy="180.2" r="4" fill="#3465a4"><title>MacPhadran</title></circle></a><a href="/setts/s7/k2ly1db15k15g15r1k2~x2/"><circle cx="178.1" cy="167.4" r="4" fill="#3465a4"><title>MacCaskill</title></circle></a><a href="/setts/s9/g14w1g7k7db2k2db2k2db7~x2/"><circle cx="224.4" cy="183.3" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/setts/s7/g8r3g30k8w3k36w8~x2/"><circle cx="223.1" cy="184.8" r="4" fill="#3465a4"><title>Cleghorn (Personal)</title></circle></a><a href="/setts/s6/ly1k5g12k12db12w1~x4/"><circle cx="157.6" cy="198.7" r="4" fill="#3465a4"><title>MacNeil 5</title></circle></a><a href="/setts/s11/db9k9db9r2k18w1g12r2g4r2g4~x2/"><circle cx="155.8" cy="150.0" r="4" fill="#3465a4"><title>Newman</title></circle></a><a href="/setts/s8/k16g16k2g16k16w2p16k1~x2/"><circle cx="192.5" cy="193.3" r="4" fill="#3465a4"><title>Unnamed 6</title></circle></a><a href="/setts/s11/p3dg6k9g11w1g11w1g11k9dg6p3~x4/"><circle cx="155.3" cy="188.8" r="4" fill="#3465a4"><title>Hibernian F.C.</title></circle></a><a href="/setts/s6/r5g18ly2k14t5k4~x2/"><circle cx="140.3" cy="200.8" r="4" fill="#3465a4"><title>Dahlonega (District)</title></circle></a><circle cx="188.0" cy="171.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g18ly2k14t5k4t5k14ly2g18r5~x2/"><circle cx="146.8" cy="184.3" r="4" fill="#3465a4"><title>Norwich No.079</title></circle></a><a href="/setts/s7/g3db12lr1k12g13r2g2~x2/"><circle cx="168.9" cy="180.1" r="4" fill="#3465a4"><title>MacPhadran</title></circle></a><a href="/setts/s7/k2r1g15k15db15ly1k2~x2/"><circle cx="178.3" cy="167.3" r="4" fill="#3465a4"><title>MacCaskill</title></circle></a><a href="/setts/s9/g14w1g7k7db2k2db2k2db7~x2/"><circle cx="224.4" cy="183.2" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/setts/s7/g8r3g30k8w3k36w8~x2/"><circle cx="223.2" cy="184.7" r="4" fill="#3465a4"><title>Cleghorn (Personal)</title></circle></a><a href="/setts/s6/w1db12k12g12k5ly1~x4/"><circle cx="157.8" cy="198.6" r="4" fill="#3465a4"><title>MacNeil 5</title></circle></a><a href="/setts/s11/db9k9db9r2k18w1g12r2g4r2g4~x2/"><circle cx="156.0" cy="150.0" r="4" fill="#3465a4"><title>Newman</title></circle></a><a href="/setts/s8/k16g16k2g16k16w2p16k1~x2/"><circle cx="192.6" cy="193.2" r="4" fill="#3465a4"><title>Unnamed 6</title></circle></a><a href="/setts/s11/p3dg6k9g11w1g11w1g11k9dg6p3~x4/"><circle cx="155.5" cy="188.7" r="4" fill="#3465a4"><title>Hibernian F.C.</title></circle></a><a href="/setts/s6/r5g18ly2k14t5k4~x2/"><circle cx="140.5" cy="200.8" r="4" fill="#3465a4"><title>Dahlonega (District)</title></circle></a><circle cx="188.1" cy="171.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/k12r1g14w1g14k14r1db8k2~x2/

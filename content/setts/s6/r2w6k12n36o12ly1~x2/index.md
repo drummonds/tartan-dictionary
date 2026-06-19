@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10133/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Stone, Alan
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -46,15 +52,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Ascension Island Heritage Trust](/setts/s7/r8t45w1o4k11g6r4~x2/) — ΔT 1.11
 1. [Gamblin Thompson (Personal)](/setts/s6/t2g13r2k6db23w1~x4/) — ΔT 1.25
 1. [Kirkcaldy Name Tartan Tartan Number: 9072. Earliest known date: 2008 Blue and white for the Scottish flag, the red and yellow is from William Kirkcaldy's shield (it is also my son's army colours). It is for general use. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/t23w3k10r2dt45ly1~x2/) — ΔT 1.27
-1. [Timmins (2013)](/setts/s10/g4db2t14db12t32ly1db12dp14db2r4~x2/) — ΔT 1.28
+1. [Timmins (2013)](/setts/s10/r4db2dp14db12ly1t32db12t14db2g4~x2/) — ΔT 1.28
 1. [Longhaugh Primary School](/setts/s8/g20db2w2db12dp29r1dp1k3~x2/) — ΔT 1.28
 1. [Sandelin (Personal)](/setts/s8/w10db2w1db35g10lo3g10r4~x2/) — ΔT 1.29
 1. [College of New Caledonia](/setts/s6/db52lo23g6dg5w1r1~x2/) — ΔT 1.31
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r8ly2o7ly2n24k2g1~x2/"><circle cx="276.6" cy="118.6" r="4" fill="#3465a4"><title>(4) Traill</title></circle></a><a href="/setts/s6/r2w6k12db36o12ly1~x2/"><circle cx="269.7" cy="114.2" r="4" fill="#3465a4"><title>Alan Stone Family (Personal)</title></circle></a><a href="/setts/s7/r8t45w1y4k11g6r4~x2/"><circle cx="343.0" cy="93.2" r="4" fill="#3465a4"><title>Ascension Island Heritage Society</title></circle></a><a href="/setts/s7/r8t45w1o4k11g6r4~x2/"><circle cx="336.0" cy="92.0" r="4" fill="#3465a4"><title>Ascension Island Heritage Trust</title></circle></a><a href="/setts/s6/t2g13r2k6db23w1~x4/"><circle cx="268.5" cy="149.0" r="4" fill="#3465a4"><title>Gamblin Thompson (Personal)</title></circle></a><a href="/setts/s6/t23w3k10r2dt45ly1~x2/"><circle cx="332.3" cy="120.8" r="4" fill="#3465a4"><title>Kirkcaldy Name Tartan Tartan Number: 9072. Earliest known date: 2008 Blue and white for the Scottish flag, the red and yellow is from William Kirkcaldy's shield (it is also my son's army colours). It is for general use. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/g4db2t14db12t32ly1db12dp14db2r4~x2/"><circle cx="249.8" cy="113.4" r="4" fill="#3465a4"><title>Timmins (2013)</title></circle></a><a href="/setts/s8/g20db2w2db12dp29r1dp1k3~x2/"><circle cx="229.7" cy="98.8" r="4" fill="#3465a4"><title>Longhaugh Primary School</title></circle></a><a href="/setts/s8/w10db2w1db35g10lo3g10r4~x2/"><circle cx="273.9" cy="112.6" r="4" fill="#3465a4"><title>Sandelin (Personal)</title></circle></a><a href="/setts/s6/db52lo23g6dg5w1r1~x2/"><circle cx="358.5" cy="90.1" r="4" fill="#3465a4"><title>College of New Caledonia</title></circle></a><circle cx="286.4" cy="119.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r8ly2o7ly2n24k2g1~x2/"><circle cx="276.4" cy="118.6" r="4" fill="#3465a4"><title>(4) Traill</title></circle></a><a href="/setts/s6/r2w6k12db36o12ly1~x2/"><circle cx="269.6" cy="114.2" r="4" fill="#3465a4"><title>Alan Stone Family (Personal)</title></circle></a><a href="/setts/s7/r8t45w1y4k11g6r4~x2/"><circle cx="342.7" cy="93.2" r="4" fill="#3465a4"><title>Ascension Island Heritage Society</title></circle></a><a href="/setts/s7/r8t45w1o4k11g6r4~x2/"><circle cx="335.7" cy="91.9" r="4" fill="#3465a4"><title>Ascension Island Heritage Trust</title></circle></a><a href="/setts/s6/t2g13r2k6db23w1~x4/"><circle cx="268.5" cy="149.0" r="4" fill="#3465a4"><title>Gamblin Thompson (Personal)</title></circle></a><a href="/setts/s6/t23w3k10r2dt45ly1~x2/"><circle cx="332.3" cy="120.8" r="4" fill="#3465a4"><title>Kirkcaldy Name Tartan Tartan Number: 9072. Earliest known date: 2008 Blue and white for the Scottish flag, the red and yellow is from William Kirkcaldy's shield (it is also my son's army colours). It is for general use. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r4db2dp14db12ly1t32db12t14db2g4~x2/"><circle cx="249.8" cy="113.5" r="4" fill="#3465a4"><title>Timmins (2013)</title></circle></a><a href="/setts/s8/g20db2w2db12dp29r1dp1k3~x2/"><circle cx="229.6" cy="98.9" r="4" fill="#3465a4"><title>Longhaugh Primary School</title></circle></a><a href="/setts/s8/w10db2w1db35g10lo3g10r4~x2/"><circle cx="273.8" cy="112.5" r="4" fill="#3465a4"><title>Sandelin (Personal)</title></circle></a><a href="/setts/s6/db52lo23g6dg5w1r1~x2/"><circle cx="358.3" cy="90.0" r="4" fill="#3465a4"><title>College of New Caledonia</title></circle></a><circle cx="286.2" cy="119.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r2w6k12n36o12ly1~x2/

@@ -2,7 +2,7 @@
 title: "Tyndrum"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGKRKGK](/stripes/gkgkgkrkgk/) · **Stripes:** [Y K Y K Y K O K Y K](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="seq">Y K Y K Y K O K Y K</span></span>
+**Bands:** [KGKRKGKGKG](/stripes/kgkrkgkgkg/) · **Stripes:** [K Y K O K Y K Y K Y](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K Y K O K Y K Y K Y</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/8 N8 K4 LT24 K16 N8 K4 N4 K4 N/24
+N/24 K4 N4 K4 N8 K16 LT24 K4 N8 K/8
 ![Sett](sett.png)
 
 ## Palette
@@ -901,8 +904,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Clergy (Grey)](/setts/s11/lb1n3lb1n2lb1k6lb1k6n6lb1n1~x2/) — ΔT 0.73
-1. [Clergy 6](/setts/s11/w1y3w1y1w1k6w1k6y6w1y1~x2/) — ΔT 0.80
+1. [Clergy (Grey)](/setts/s11/n1lb1n6k6lb1k6lb1n2lb1n3lb1~x2/) — ΔT 0.73
+1. [Clergy 6](/setts/s11/y1w1y6k6w1k6w1y1w1y3w1~x2/) — ΔT 0.80
 1. [Tyndrum District Tartan Tartan Number: 1128. Earliest known date: 1983 Tyndrum is a village in northwest Perthshire on the rail line between Glasgow and Fort William. Specimen seen in Mairi MacIntyre's shop, Fort William 1983. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/o6k1o1k1o2k4dy6k1o2k2~x4/) — ΔT 1.06
 1. [Tyndrum](/setts/s10/o6k1o1k1o2k4lo6k1o2k2~x8/) — ΔT 1.12
 1. [Dundee United Football Club](/setts/s11/k3lo1k5lo1lb5lo5k5lo1lb5lo1k1~x4/) — ΔT 1.14
@@ -914,8 +917,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/lb1n3lb1n2lb1k6lb1k6n6lb1n1~x2/"><circle cx="208.8" cy="216.1" r="4" fill="#3465a4"><title>Clergy (Grey)</title></circle></a><a href="/setts/s11/w1y3w1y1w1k6w1k6y6w1y1~x2/"><circle cx="187.3" cy="198.2" r="4" fill="#3465a4"><title>Clergy 6</title></circle></a><a href="/setts/s10/o6k1o1k1o2k4dy6k1o2k2~x4/"><circle cx="213.7" cy="231.6" r="4" fill="#3465a4"><title>Tyndrum District Tartan Tartan Number: 1128. Earliest known date: 1983 Tyndrum is a village in northwest Perthshire on the rail line between Glasgow and Fort William. Specimen seen in Mairi MacIntyre's shop, Fort William 1983. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/o6k1o1k1o2k4lo6k1o2k2~x8/"><circle cx="203.3" cy="225.1" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/setts/s11/k3lo1k5lo1lb5lo5k5lo1lb5lo1k1~x4/"><circle cx="150.3" cy="217.6" r="4" fill="#3465a4"><title>Dundee United Football Club</title></circle></a><a href="/setts/s9/g6db11lr8k4lr8k4lr8k27lr4~x2/"><circle cx="172.3" cy="199.8" r="4" fill="#3465a4"><title>Brittany National (District)</title></circle></a><a href="/setts/s17/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2~x2/"><circle cx="159.0" cy="195.6" r="4" fill="#3465a4"><title>Carnegie Check</title></circle></a><a href="/setts/s8/n12dt2n2dt2n2dt10w12dt3~x2/"><circle cx="172.9" cy="217.4" r="4" fill="#3465a4"><title>Grey Watch Dress (Fashion)</title></circle></a><a href="/setts/s11/k4w4db19k19w4k19w4db7w4db11w4~x2/"><circle cx="165.0" cy="225.4" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/setts/s11/k4lr4t29k29lr4k29lr4t6lr4t14lr4~x2/"><circle cx="240.7" cy="201.6" r="4" fill="#3465a4"><title>Clergy (Corporate)</title></circle></a><circle cx="187.5" cy="220.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/n1lb1n6k6lb1k6lb1n2lb1n3lb1~x2/"><circle cx="208.8" cy="215.9" r="4" fill="#3465a4"><title>Clergy (Grey)</title></circle></a><a href="/setts/s11/y1w1y6k6w1k6w1y1w1y3w1~x2/"><circle cx="187.3" cy="198.0" r="4" fill="#3465a4"><title>Clergy 6</title></circle></a><a href="/setts/s10/o6k1o1k1o2k4dy6k1o2k2~x4/"><circle cx="213.7" cy="231.5" r="4" fill="#3465a4"><title>Tyndrum District Tartan Tartan Number: 1128. Earliest known date: 1983 Tyndrum is a village in northwest Perthshire on the rail line between Glasgow and Fort William. Specimen seen in Mairi MacIntyre's shop, Fort William 1983. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/o6k1o1k1o2k4lo6k1o2k2~x8/"><circle cx="203.2" cy="224.9" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/setts/s11/k3lo1k5lo1lb5lo5k5lo1lb5lo1k1~x4/"><circle cx="150.3" cy="217.4" r="4" fill="#3465a4"><title>Dundee United Football Club</title></circle></a><a href="/setts/s9/g6db11lr8k4lr8k4lr8k27lr4~x2/"><circle cx="172.4" cy="199.7" r="4" fill="#3465a4"><title>Brittany National (District)</title></circle></a><a href="/setts/s17/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2~x2/"><circle cx="159.0" cy="195.4" r="4" fill="#3465a4"><title>Carnegie Check</title></circle></a><a href="/setts/s8/n12dt2n2dt2n2dt10w12dt3~x2/"><circle cx="172.9" cy="217.2" r="4" fill="#3465a4"><title>Grey Watch Dress (Fashion)</title></circle></a><a href="/setts/s11/k4w4db19k19w4k19w4db7w4db11w4~x2/"><circle cx="165.2" cy="225.2" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/setts/s11/k4lr4t29k29lr4k29lr4t6lr4t14lr4~x2/"><circle cx="240.7" cy="201.5" r="4" fill="#3465a4"><title>Clergy (Corporate)</title></circle></a><circle cx="187.5" cy="220.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/y6k1y1k1y2k4o6k1y2k2~x4/

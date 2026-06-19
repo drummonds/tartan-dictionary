@@ -2,12 +2,18 @@
 title: "Feddinch Club, St Andrews Limited, The"
 date: 2023-03-18
 ---
-**Bands:** [GKKR](/stripes/gkkr/) · **Stripes:** [DG K K R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG K K R</span></span>
+**Bands:** [RKKG](/stripes/rkkg/) · **Stripes:** [R K K DG](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">R K K DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3879
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Feddinch Club, St Andrews Limited, The
 
 ## Attestations
 
@@ -52,15 +58,15 @@ The nearest existing variants by ΔTartan distance.
 1. [St Andrews Old Course Hotel, Golf Course and Spa](/setts/s6/dg45db14k3db2dy2db5~x2/) — ΔT 1.90
 1. [Dempster Family Tartan Tartan Number: 2219. Earliest known date: 2001 Designed by Claire Donaldson of the House of Edgar. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/dt4dg2dr16dr10dg10dt32n3~x2/) — ΔT 1.99
 1. [Heslop Lurdenlaw by Kelso](/setts/s4/dt44dg12g1o6~x2/) — ΔT 2.01
-1. [John Telfar Dunbar Hunting](/setts/s7/dg5k2dg28k10dy26db4dg4~x2/) — ΔT 2.11
 1. [Hector, James (Corporate)](/setts/s5/do2dg11dt27dg8r2~x2/) — ΔT 2.11
+1. [John Telfar Dunbar Hunting](/setts/s7/dg5k2dg28k10dy26db4dg4~x2/) — ΔT 2.11
 1. [Williams (New York) (Personal)](/setts/s5/k30dt6k6dt41t2~x2/) — ΔT 2.20
 1. [Tern House](/setts/s7/dg23db3k8db4dg4db56dy8/) — ΔT 2.20
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dt43dg8dt8dt21dg10w2~x2/"><circle cx="426.1" cy="252.3" r="4" fill="#3465a4"><title>Longmuir (2014)</title></circle></a><a href="/setts/s5/dt62o4dy10dy3dg21~x2/"><circle cx="471.9" cy="233.1" r="4" fill="#3465a4"><title>McGovern (2016)</title></circle></a><a href="/setts/s6/k43dg8k8dt21dg10w2~x2/"><circle cx="422.4" cy="251.7" r="4" fill="#3465a4"><title>Longmuir (2014)</title></circle></a><a href="/setts/s6/dg45db14k3db2dy2db5~x2/"><circle cx="561.9" cy="254.0" r="4" fill="#3465a4"><title>St Andrews Old Course Hotel, Golf Course and Spa</title></circle></a><a href="/setts/s7/dt4dg2dr16dr10dg10dt32n3~x2/"><circle cx="383.9" cy="250.9" r="4" fill="#3465a4"><title>Dempster Family Tartan Tartan Number: 2219. Earliest known date: 2001 Designed by Claire Donaldson of the House of Edgar. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/dt44dg12g1o6~x2/"><circle cx="596.2" cy="241.1" r="4" fill="#3465a4"><title>Heslop Lurdenlaw by Kelso</title></circle></a><a href="/setts/s7/dg5k2dg28k10dy26db4dg4~x2/"><circle cx="392.1" cy="268.8" r="4" fill="#3465a4"><title>John Telfar Dunbar Hunting</title></circle></a><a href="/setts/s5/do2dg11dt27dg8r2~x2/"><circle cx="491.9" cy="310.3" r="4" fill="#3465a4"><title>Hector, James (Corporate)</title></circle></a><a href="/setts/s5/k30dt6k6dt41t2~x2/"><circle cx="474.0" cy="270.6" r="4" fill="#3465a4"><title>Williams (New York) (Personal)</title></circle></a><a href="/setts/s7/dg23db3k8db4dg4db56dy8/"><circle cx="527.1" cy="264.9" r="4" fill="#3465a4"><title>Tern House</title></circle></a><circle cx="480.2" cy="288.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dt43dg8dt8dt21dg10w2~x2/"><circle cx="426.2" cy="252.4" r="4" fill="#3465a4"><title>Longmuir (2014)</title></circle></a><a href="/setts/s5/dt62o4dy10dy3dg21~x2/"><circle cx="471.9" cy="233.2" r="4" fill="#3465a4"><title>McGovern (2016)</title></circle></a><a href="/setts/s6/k43dg8k8dt21dg10w2~x2/"><circle cx="422.5" cy="251.8" r="4" fill="#3465a4"><title>Longmuir (2014)</title></circle></a><a href="/setts/s6/dg45db14k3db2dy2db5~x2/"><circle cx="561.8" cy="254.2" r="4" fill="#3465a4"><title>St Andrews Old Course Hotel, Golf Course and Spa</title></circle></a><a href="/setts/s7/dt4dg2dr16dr10dg10dt32n3~x2/"><circle cx="383.9" cy="251.1" r="4" fill="#3465a4"><title>Dempster Family Tartan Tartan Number: 2219. Earliest known date: 2001 Designed by Claire Donaldson of the House of Edgar. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/dt44dg12g1o6~x2/"><circle cx="596.1" cy="241.1" r="4" fill="#3465a4"><title>Heslop Lurdenlaw by Kelso</title></circle></a><a href="/setts/s5/do2dg11dt27dg8r2~x2/"><circle cx="491.9" cy="310.5" r="4" fill="#3465a4"><title>Hector, James (Corporate)</title></circle></a><a href="/setts/s7/dg5k2dg28k10dy26db4dg4~x2/"><circle cx="392.1" cy="269.1" r="4" fill="#3465a4"><title>John Telfar Dunbar Hunting</title></circle></a><a href="/setts/s5/k30dt6k6dt41t2~x2/"><circle cx="474.0" cy="270.6" r="4" fill="#3465a4"><title>Williams (New York) (Personal)</title></circle></a><a href="/setts/s7/dg23db3k8db4dg4db56dy8/"><circle cx="527.1" cy="265.1" r="4" fill="#3465a4"><title>Tern House</title></circle></a><circle cx="480.3" cy="288.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/dg43k14k14r2~x2/

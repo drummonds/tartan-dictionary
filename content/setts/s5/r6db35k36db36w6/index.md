@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/6 B36 K36 DB35 R/6
+R/6 DB35 K36 B36 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -908,27 +911,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/6 B36 K36 DB35 R/6 tartan")
+![Tartan detail](tartan.png "R/6 DB35 K36 B36 LN/6 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Commonwealth Games](/setts/s6/m3db17dt13m2k20w2~x2/) — ΔT 1.19
-1. [Davidson of Tulloch](/setts/s5/lr1dg6k3db6r1~x2/) — ΔT 1.33
+1. [Davidson of Tulloch](/setts/s5/r1db6k3dg6lr1~x2/) — ΔT 1.33
 1. [Herd](/setts/s6/dp4dg25k24w3db24w4~x2/) — ΔT 1.36
-1. [Gracey (2013)](/setts/s7/p3dp8g20k20db17k3t3~x2/) — ΔT 1.36
+1. [Gracey (2013)](/setts/s7/t3k3db17k20g20dp8p3~x2/) — ΔT 1.36
 1. [Dougles Green](/setts/s5/k4b2dg8db8lr1~x2/) — ΔT 1.37
 1. [Dougles Green](/setts/s5/k4b2dg8db8lr1/) — ΔT 1.37
 1. [MacNiel of Barra](/setts/s6/lr3db14k12dg12k2ly3~x2/) — ΔT 1.39
 1. [MacNiel of Barra](/setts/s6/lr3db14k12dg12k2ly3/) — ΔT 1.39
-1. [CALA Homes](/setts/s6/ly5db24k8db18ly6o3/) — ΔT 1.39
-1. [Leslie Hunting](/setts/s6/r2db8k8lb1dg8k1~x2/) — ΔT 1.40
+1. [CALA Homes](/setts/s6/ly5db24k8db18ly6o3/) — ΔT 1.40
+1. [Leslie Hunting](/setts/s6/r2db8k8lb1dg8k1/) — ΔT 1.40
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/m3db17dt13m2k20w2~x2/"><circle cx="142.8" cy="200.2" r="4" fill="#3465a4"><title>Commonwealth Games</title></circle></a><a href="/setts/s5/lr1dg6k3db6r1~x2/"><circle cx="139.9" cy="249.2" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/setts/s6/dp4dg25k24w3db24w4~x2/"><circle cx="115.4" cy="217.2" r="4" fill="#3465a4"><title>Herd</title></circle></a><a href="/setts/s7/p3dp8g20k20db17k3t3~x2/"><circle cx="84.0" cy="204.6" r="4" fill="#3465a4"><title>Gracey (2013)</title></circle></a><a href="/setts/s5/k4b2dg8db8lr1~x2/"><circle cx="146.6" cy="244.9" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><a href="/setts/s5/k4b2dg8db8lr1/"><circle cx="146.6" cy="244.9" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><a href="/setts/s6/lr3db14k12dg12k2ly3~x2/"><circle cx="100.0" cy="228.4" r="4" fill="#3465a4"><title>MacNiel of Barra</title></circle></a><a href="/setts/s6/lr3db14k12dg12k2ly3/"><circle cx="100.0" cy="228.4" r="4" fill="#3465a4"><title>MacNiel of Barra</title></circle></a><a href="/setts/s6/ly5db24k8db18ly6o3/"><circle cx="122.9" cy="204.6" r="4" fill="#3465a4"><title>CALA Homes</title></circle></a><a href="/setts/s6/r2db8k8lb1dg8k1~x2/"><circle cx="124.6" cy="219.0" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><circle cx="103.1" cy="246.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/m3db17dt13m2k20w2~x2/"><circle cx="143.2" cy="200.2" r="4" fill="#3465a4"><title>Commonwealth Games</title></circle></a><a href="/setts/s5/r1db6k3dg6lr1~x2/"><circle cx="140.2" cy="249.2" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/setts/s6/dp4dg25k24w3db24w4~x2/"><circle cx="115.8" cy="217.3" r="4" fill="#3465a4"><title>Herd</title></circle></a><a href="/setts/s7/t3k3db17k20g20dp8p3~x2/"><circle cx="84.4" cy="204.7" r="4" fill="#3465a4"><title>Gracey (2013)</title></circle></a><a href="/setts/s5/k4b2dg8db8lr1~x2/"><circle cx="147.0" cy="245.0" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><a href="/setts/s5/k4b2dg8db8lr1/"><circle cx="147.0" cy="245.0" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><a href="/setts/s6/lr3db14k12dg12k2ly3~x2/"><circle cx="100.4" cy="228.5" r="4" fill="#3465a4"><title>MacNiel of Barra</title></circle></a><a href="/setts/s6/lr3db14k12dg12k2ly3/"><circle cx="100.4" cy="228.5" r="4" fill="#3465a4"><title>MacNiel of Barra</title></circle></a><a href="/setts/s6/ly5db24k8db18ly6o3/"><circle cx="123.1" cy="204.6" r="4" fill="#3465a4"><title>CALA Homes</title></circle></a><a href="/setts/s6/r2db8k8lb1dg8k1/"><circle cx="124.9" cy="219.0" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><circle cx="103.5" cy="246.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/r6db35k36db36w6/

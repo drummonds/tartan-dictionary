@@ -2,7 +2,7 @@
 title: "Mounth, The"
 date: 2023-03-18
 ---
-**Bands:** [BGBWBWBGG](/stripes/bgbwbwbgg/) · **Stripes:** [DP G DB W DB W DB Y DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="seq">DP G DB W DB W DB Y DG</span></span>
+**Bands:** [GGBWBWBGB](/stripes/ggbwbwbgb/) · **Stripes:** [DG Y DB W DB W DB G DP](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DG Y DB W DB W DB G DP</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -905,20 +908,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Glen Erin](/setts/s8/db16g8db8g8db16r3o3g3~x2/) — ΔT 0.89
-1. [Quinn](/setts/s9/ly1n8k4g1g4g1k4n8r1~x6/) — ΔT 1.24
+1. [Quinn](/setts/s9/r1n8k4g1g4g1k4n8ly1~x6/) — ΔT 1.24
 1. [United Services, Planning Association](/setts/s8/db4dg2w2dg4db10r2db12ly3~x2/) — ΔT 1.27
 1. [Smithers](/setts/s11/p3db13y2db4w2db8k13g10k2g8p3~x2/) — ΔT 1.30
 1. [Scotsburn Croft](/setts/s9/lt16k3lt16k26dp4k26n20w3n8/) — ΔT 1.31
-1. [MacLellan, McLellan hunting](/setts/s14/ly2g7r2db5k1db5w1db5k1db5r2k5db7r2~x2/) — ΔT 1.38
+1. [MacLellan, McLellan hunting](/setts/s14/r2db7k5r2db5k1db5w1db5k1db5r2g7ly2~x2/) — ΔT 1.38
 1. [Hislop (Name)](/setts/s8/w4k2t18g18k18w3k18r3~x2/) — ΔT 1.39
+1. [Quinn (Personal)](/setts/s9/r1b8k4g1dg4g1k4b8ly1~x6/) — ΔT 1.42
 1. [Loyalhanna](/setts/s8/db15lb2g2ly15r3db21r3g15~x2/) — ΔT 1.42
-1. [Quinn (Personal)](/setts/s9/ly1b8k4g1dg4g1k4b8r1~x6/) — ΔT 1.42
 1. [First Command Fin. Planning (Corp)](/setts/s11/g16lb2g4b4g4lb2g6db12r2db20ly3~x2/) — ΔT 1.48
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db16g8db8g8db16r3o3g3~x2/"><circle cx="154.9" cy="219.7" r="4" fill="#3465a4"><title>Glen Erin</title></circle></a><a href="/setts/s9/ly1n8k4g1g4g1k4n8r1~x6/"><circle cx="180.4" cy="173.8" r="4" fill="#3465a4"><title>Quinn</title></circle></a><a href="/setts/s8/db4dg2w2dg4db10r2db12ly3~x2/"><circle cx="197.0" cy="194.4" r="4" fill="#3465a4"><title>United Services, Planning Association</title></circle></a><a href="/setts/s11/p3db13y2db4w2db8k13g10k2g8p3~x2/"><circle cx="84.5" cy="179.8" r="4" fill="#3465a4"><title>Smithers</title></circle></a><a href="/setts/s9/lt16k3lt16k26dp4k26n20w3n8/"><circle cx="150.7" cy="185.0" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/setts/s14/ly2g7r2db5k1db5w1db5k1db5r2k5db7r2~x2/"><circle cx="166.4" cy="175.2" r="4" fill="#3465a4"><title>MacLellan, McLellan hunting</title></circle></a><a href="/setts/s8/w4k2t18g18k18w3k18r3~x2/"><circle cx="145.7" cy="175.4" r="4" fill="#3465a4"><title>Hislop (Name)</title></circle></a><a href="/setts/s8/db15lb2g2ly15r3db21r3g15~x2/"><circle cx="176.0" cy="176.8" r="4" fill="#3465a4"><title>Loyalhanna</title></circle></a><a href="/setts/s9/ly1b8k4g1dg4g1k4b8r1~x6/"><circle cx="200.0" cy="190.6" r="4" fill="#3465a4"><title>Quinn (Personal)</title></circle></a><a href="/setts/s11/g16lb2g4b4g4lb2g6db12r2db20ly3~x2/"><circle cx="177.1" cy="154.8" r="4" fill="#3465a4"><title>First Command Fin. Planning (Corp)</title></circle></a><circle cx="132.3" cy="194.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db16g8db8g8db16r3o3g3~x2/"><circle cx="155.1" cy="219.7" r="4" fill="#3465a4"><title>Glen Erin</title></circle></a><a href="/setts/s9/r1n8k4g1g4g1k4n8ly1~x6/"><circle cx="180.5" cy="173.7" r="4" fill="#3465a4"><title>Quinn</title></circle></a><a href="/setts/s8/db4dg2w2dg4db10r2db12ly3~x2/"><circle cx="197.2" cy="194.4" r="4" fill="#3465a4"><title>United Services, Planning Association</title></circle></a><a href="/setts/s11/p3db13y2db4w2db8k13g10k2g8p3~x2/"><circle cx="84.7" cy="179.8" r="4" fill="#3465a4"><title>Smithers</title></circle></a><a href="/setts/s9/lt16k3lt16k26dp4k26n20w3n8/"><circle cx="150.8" cy="184.9" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/setts/s14/r2db7k5r2db5k1db5w1db5k1db5r2g7ly2~x2/"><circle cx="166.4" cy="175.2" r="4" fill="#3465a4"><title>MacLellan, McLellan hunting</title></circle></a><a href="/setts/s8/w4k2t18g18k18w3k18r3~x2/"><circle cx="145.8" cy="175.4" r="4" fill="#3465a4"><title>Hislop (Name)</title></circle></a><a href="/setts/s9/r1b8k4g1dg4g1k4b8ly1~x6/"><circle cx="200.1" cy="190.7" r="4" fill="#3465a4"><title>Quinn (Personal)</title></circle></a><a href="/setts/s8/db15lb2g2ly15r3db21r3g15~x2/"><circle cx="176.0" cy="176.8" r="4" fill="#3465a4"><title>Loyalhanna</title></circle></a><a href="/setts/s11/g16lb2g4b4g4lb2g6db12r2db20ly3~x2/"><circle cx="177.2" cy="154.8" r="4" fill="#3465a4"><title>First Command Fin. Planning (Corp)</title></circle></a><circle cx="132.5" cy="194.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dg2y13db12w3db10w3db12g13dp2~x2/

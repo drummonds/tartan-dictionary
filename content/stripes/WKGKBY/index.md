@@ -20,7 +20,7 @@ WKGKBY
 
 
 
-### LB K DG K DP LO <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LB K DG K DP LO</span></span>
+### LO DP K DG K LB <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LO DP K DG K LB</span></span>
 
 | Tartans |
 |---------------|

@@ -319,6 +319,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +420,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +680,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,7 +914,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Tweedside Variation (silk sample)](/setts/s9/k50w3k3r4w3r3w5r3k3~x2/) — ΔT 0.62
 1. [White Stripes Hunting](/setts/s7/r2k1r2k14w1k1w1~x8/) — ΔT 0.86
-1. [Knights Templar Dress (Corporate)](/setts/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/) — ΔT 1.12
+1. [Knights Templar Dress (Corporate)](/setts/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/) — ΔT 1.13
 1. [Volkswagen Black Trim (Fashion)](/setts/s8/k20w1k1w3k1r1k1w1~x4/) — ΔT 1.23
 1. [Bunnahabhain](/setts/s9/lo8k7r3k7r3k38w2k3lo6~x2/) — ΔT 1.34
 1. [Stuart/Stewart Mourning](/setts/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/) — ΔT 1.35
@@ -922,8 +925,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k50w3k3r4w3r3w5r3k3~x2/"><circle cx="459.2" cy="134.7" r="4" fill="#3465a4"><title>Tweedside Variation (silk sample)</title></circle></a><a href="/setts/s7/r2k1r2k14w1k1w1~x8/"><circle cx="456.5" cy="167.6" r="4" fill="#3465a4"><title>White Stripes Hunting</title></circle></a><a href="/setts/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="487.8" cy="124.8" r="4" fill="#3465a4"><title>Knights Templar Dress (Corporate)</title></circle></a><a href="/setts/s8/k20w1k1w3k1r1k1w1~x4/"><circle cx="526.6" cy="142.4" r="4" fill="#3465a4"><title>Volkswagen Black Trim (Fashion)</title></circle></a><a href="/setts/s9/lo8k7r3k7r3k38w2k3lo6~x2/"><circle cx="430.6" cy="144.7" r="4" fill="#3465a4"><title>Bunnahabhain</title></circle></a><a href="/setts/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/"><circle cx="481.2" cy="138.0" r="4" fill="#3465a4"><title>Stuart/Stewart Mourning</title></circle></a><a href="/setts/s7/w5k3ly6k5w3k30ly2~x2/"><circle cx="405.6" cy="168.1" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/setts/s8/k70r5k3lb4dp4lb4k3r12/"><circle cx="464.3" cy="120.6" r="4" fill="#3465a4"><title>State University of New York College at Buffalo</title></circle></a><a href="/setts/s7/n3k31w6k7n3k12w2~x2/"><circle cx="472.5" cy="192.2" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/setts/s12/k10y5k2y5k10w1k26w1y4w1k5w1~x2/"><circle cx="479.3" cy="150.7" r="4" fill="#3465a4"><title>Clergy #3</title></circle></a><circle cx="453.3" cy="151.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k50w3k3r4w3r3w5r3k3~x2/"><circle cx="458.9" cy="134.4" r="4" fill="#3465a4"><title>Tweedside Variation (silk sample)</title></circle></a><a href="/setts/s7/r2k1r2k14w1k1w1~x8/"><circle cx="456.3" cy="167.2" r="4" fill="#3465a4"><title>White Stripes Hunting</title></circle></a><a href="/setts/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="487.5" cy="124.5" r="4" fill="#3465a4"><title>Knights Templar Dress (Corporate)</title></circle></a><a href="/setts/s8/k20w1k1w3k1r1k1w1~x4/"><circle cx="526.3" cy="141.9" r="4" fill="#3465a4"><title>Volkswagen Black Trim (Fashion)</title></circle></a><a href="/setts/s9/lo8k7r3k7r3k38w2k3lo6~x2/"><circle cx="430.4" cy="144.4" r="4" fill="#3465a4"><title>Bunnahabhain</title></circle></a><a href="/setts/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/"><circle cx="480.8" cy="137.5" r="4" fill="#3465a4"><title>Stuart/Stewart Mourning</title></circle></a><a href="/setts/s7/w5k3ly6k5w3k30ly2~x2/"><circle cx="405.4" cy="167.7" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/setts/s8/k70r5k3lb4dp4lb4k3r12/"><circle cx="464.0" cy="120.3" r="4" fill="#3465a4"><title>State University of New York College at Buffalo</title></circle></a><a href="/setts/s7/n3k31w6k7n3k12w2~x2/"><circle cx="472.3" cy="191.8" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/setts/s12/k10y5k2y5k10w1k26w1y4w1k5w1~x2/"><circle cx="479.1" cy="150.4" r="4" fill="#3465a4"><title>Clergy #3</title></circle></a><circle cx="453.0" cy="150.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/k27w2k2w2k2w2k2w2k4r5~x4/

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=840
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Cumming, Comyn
+- Cumming/Comyn
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -17,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1158
 
 ## Thread count
-K/4 R48 G8 R4 G8 R8 G16 LN2 G16 R/8
+R/8 G16 LN2 G16 R8 G8 R4 G8 R48 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -34,21 +41,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Cumming VS](/setts/s10/r4dg8lb1dg8r4dg4r2dg4r24k2/) — ΔT 0.38
-1. [Scott](/setts/s10/dg4r3k1r28dg14r4dg4lb3dg4r4/) — ΔT 0.39
-1. [Scott - 1842 (Clan)](/setts/s10/g4r3k1r28g14r4g4w3g4r4~x2/) — ΔT 0.53
+1. [Cumming VS](/setts/s10/r4dg8lb1dg8r4dg4r2dg4r24k2~x2/) — ΔT 0.38
+1. [Scott](/setts/s10/dg4r3k1r28dg14r4dg4lb3dg4r4~x2/) — ΔT 0.39
+1. [Scott - 1842 (Clan)](/setts/s10/r4g4w3g4r4g14r28k1r3g4~x2/) — ΔT 0.53
 1. [Baluch Regiment (Military)](/setts/s9/r5g20r5g3r4g5r36do2w4~x2/) — ΔT 0.72
-1. [Cumming, Comyn](/setts/s10/r4g8w1g8r4g4r2g4r24k2~x2/) — ΔT 0.76
-1. [MacFie](/setts/s9/lb1r12dg2r1dg16r1dg2r12ly1/) — ΔT 0.79
+1. [Cumming, Comyn](/setts/s10/r4g8w1g8r4g4r2g4r24k2~x2/) — ΔT 0.75
+1. [MacFie](/setts/s9/ly1r12dg2r1dg16r1dg2r12lb1/) — ΔT 0.79
 1. [Chisholm, The](/setts/s10/r12w2r37db6g3db3r4db3g21r4~x2/) — ΔT 0.80
 1. [Chisholm, The (MacGregor-Hastie)](/setts/s10/r12w2r37b6g3b3r4b3g21r4~x2/) — ΔT 0.84
 1. [MacDougal 3](/setts/s11/r4g8k6r8r6g2r2g2r24g1r3~x2/) — ΔT 0.87
-1. [MacDonell of Keppoch](/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/) — ΔT 0.90
+1. [MacDonell of Keppoch](/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1/) — ΔT 0.90
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r4dg8lb1dg8r4dg4r2dg4r24k2/"><circle cx="372.6" cy="137.6" r="4" fill="#3465a4"><title>Cumming VS</title></circle></a><a href="/setts/s10/dg4r3k1r28dg14r4dg4lb3dg4r4/"><circle cx="384.0" cy="124.9" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s10/g4r3k1r28g14r4g4w3g4r4~x2/"><circle cx="382.2" cy="123.5" r="4" fill="#3465a4"><title>Scott - 1842 (Clan)</title></circle></a><a href="/setts/s9/r5g20r5g3r4g5r36do2w4~x2/"><circle cx="384.5" cy="141.5" r="4" fill="#3465a4"><title>Baluch Regiment (Military)</title></circle></a><a href="/setts/s10/r4g8w1g8r4g4r2g4r24k2~x2/"><circle cx="366.9" cy="135.7" r="4" fill="#3465a4"><title>Cumming, Comyn</title></circle></a><a href="/setts/s9/lb1r12dg2r1dg16r1dg2r12ly1/"><circle cx="360.5" cy="154.7" r="4" fill="#3465a4"><title>MacFie</title></circle></a><a href="/setts/s10/r12w2r37db6g3db3r4db3g21r4~x2/"><circle cx="381.5" cy="141.8" r="4" fill="#3465a4"><title>Chisholm, The</title></circle></a><a href="/setts/s10/r12w2r37b6g3b3r4b3g21r4~x2/"><circle cx="379.8" cy="140.4" r="4" fill="#3465a4"><title>Chisholm, The (MacGregor-Hastie)</title></circle></a><a href="/setts/s11/r4g8k6r8r6g2r2g2r24g1r3~x2/"><circle cx="360.0" cy="127.5" r="4" fill="#3465a4"><title>MacDougal 3</title></circle></a><a href="/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/"><circle cx="375.0" cy="119.9" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><circle cx="372.0" cy="134.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r4dg8lb1dg8r4dg4r2dg4r24k2~x2/"><circle cx="372.2" cy="137.5" r="4" fill="#3465a4"><title>Cumming VS</title></circle></a><a href="/setts/s10/dg4r3k1r28dg14r4dg4lb3dg4r4~x2/"><circle cx="383.6" cy="124.8" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s10/r4g4w3g4r4g14r28k1r3g4~x2/"><circle cx="381.8" cy="123.4" r="4" fill="#3465a4"><title>Scott - 1842 (Clan)</title></circle></a><a href="/setts/s9/r5g20r5g3r4g5r36do2w4~x2/"><circle cx="384.0" cy="141.4" r="4" fill="#3465a4"><title>Baluch Regiment (Military)</title></circle></a><a href="/setts/s10/r4g8w1g8r4g4r2g4r24k2~x2/"><circle cx="366.5" cy="135.5" r="4" fill="#3465a4"><title>Cumming, Comyn</title></circle></a><a href="/setts/s9/ly1r12dg2r1dg16r1dg2r12lb1/"><circle cx="360.1" cy="154.6" r="4" fill="#3465a4"><title>MacFie</title></circle></a><a href="/setts/s10/r12w2r37db6g3db3r4db3g21r4~x2/"><circle cx="381.0" cy="141.7" r="4" fill="#3465a4"><title>Chisholm, The</title></circle></a><a href="/setts/s10/r12w2r37b6g3b3r4b3g21r4~x2/"><circle cx="379.4" cy="140.2" r="4" fill="#3465a4"><title>Chisholm, The (MacGregor-Hastie)</title></circle></a><a href="/setts/s11/r4g8k6r8r6g2r2g2r24g1r3~x2/"><circle cx="359.6" cy="127.4" r="4" fill="#3465a4"><title>MacDougal 3</title></circle></a><a href="/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1/"><circle cx="374.6" cy="119.7" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><circle cx="371.6" cy="133.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r4dg8w1dg8r4dg4r2dg4r24k2~x2/

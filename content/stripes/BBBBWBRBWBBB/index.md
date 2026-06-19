@@ -22,6 +22,6 @@ BBBBWBRBWBBB
 
 | Tartans |
 |---------------|
-| [St. George's School (Birmingham)](/setts/s12/db2dt2db21dt20w2dt21r4dt21w2dt20db21dt2~x2/)|
-|![St. George's School (Birmingham) example sett](/setts/s12/db2dt2db21dt20w2dt21r4dt21w2dt20db21dt2~x2/sett.png)|
+| [St. George's School (Birmingham)](/setts/s12/r4dt21w2dt20db21dt2db2~x2/)|
+|![St. George's School (Birmingham) example sett](/setts/s12/r4dt21w2dt20db21dt2db2~x2/sett.png)|
 

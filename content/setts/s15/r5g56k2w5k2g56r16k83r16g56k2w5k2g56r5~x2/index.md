@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,7 +909,7 @@ The nearest existing variants by ΔTartan distance.
 1. [King Edward VII](/setts/s17/ly8g84db21k10db10k10db10k10db21g62r3g6r3g10ly3g5r6~x2/) — ΔT 1.55
 1. [Hope Vere / Weir](/setts/s16/dg19k1g3k1dg3k9dg20k1ly1k7ly1k1dg21k12dg2g1~x2/) — ΔT 1.67
 1. [Mull Rugby Club (Old)](/setts/s8/g44lb2g10t3k6lb1r2k18~x2/) — ΔT 1.69
-1. [MacHardy](/setts/s8/g3r1k12w1k12g32r1k3~x2/) — ΔT 1.71
+1. [MacHardy](/setts/s8/k3r1g32k12w1k12r1g3~x2/) — ΔT 1.71
 1. [Lodge Isandlwana](/setts/s10/dg40r8dg26g5dg10ly3db4ly2db1ly16~x2/) — ΔT 1.72
 1. [Moss](/setts/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/) — ΔT 1.88
 1. [Laggen Dress (Fashion)](/setts/s11/y42k10y2k2k2k2y10k6k2k3y2~x2/) — ΔT 1.90
@@ -915,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g25w1k23g7ly2g2ly2g7k23w1g39g4g14~x2/"><circle cx="267.9" cy="99.9" r="4" fill="#3465a4"><title>Duffy</title></circle></a><a href="/setts/s17/ly8g84db21k10db10k10db10k10db21g62r3g6r3g10ly3g5r6~x2/"><circle cx="321.7" cy="89.4" r="4" fill="#3465a4"><title>King Edward VII</title></circle></a><a href="/setts/s16/dg19k1g3k1dg3k9dg20k1ly1k7ly1k1dg21k12dg2g1~x2/"><circle cx="366.0" cy="136.5" r="4" fill="#3465a4"><title>Hope Vere / Weir</title></circle></a><a href="/setts/s8/g44lb2g10t3k6lb1r2k18~x2/"><circle cx="372.1" cy="105.5" r="4" fill="#3465a4"><title>Mull Rugby Club (Old)</title></circle></a><a href="/setts/s8/g3r1k12w1k12g32r1k3~x2/"><circle cx="341.2" cy="133.3" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/setts/s10/dg40r8dg26g5dg10ly3db4ly2db1ly16~x2/"><circle cx="368.1" cy="104.9" r="4" fill="#3465a4"><title>Lodge Isandlwana</title></circle></a><a href="/setts/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/"><circle cx="263.4" cy="99.4" r="4" fill="#3465a4"><title>Moss</title></circle></a><a href="/setts/s11/y42k10y2k2k2k2y10k6k2k3y2~x2/"><circle cx="374.8" cy="114.4" r="4" fill="#3465a4"><title>Laggen Dress (Fashion)</title></circle></a><a href="/setts/s10/k3dg32k2dg4ly4dg2ly4dg4k6w3~x2/"><circle cx="377.9" cy="145.6" r="4" fill="#3465a4"><title>University of Alberta (Corporate)</title></circle></a><a href="/setts/s11/g17t2g2t2k21t2k3g30k2t2k4~x2/"><circle cx="288.3" cy="147.5" r="4" fill="#3465a4"><title>Fort William</title></circle></a><circle cx="349.0" cy="99.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g25w1k23g7ly2g2ly2g7k23w1g39g4g14~x2/"><circle cx="267.8" cy="99.8" r="4" fill="#3465a4"><title>Duffy</title></circle></a><a href="/setts/s17/ly8g84db21k10db10k10db10k10db21g62r3g6r3g10ly3g5r6~x2/"><circle cx="321.4" cy="89.3" r="4" fill="#3465a4"><title>King Edward VII</title></circle></a><a href="/setts/s16/dg19k1g3k1dg3k9dg20k1ly1k7ly1k1dg21k12dg2g1~x2/"><circle cx="365.9" cy="136.3" r="4" fill="#3465a4"><title>Hope Vere / Weir</title></circle></a><a href="/setts/s8/g44lb2g10t3k6lb1r2k18~x2/"><circle cx="372.0" cy="105.3" r="4" fill="#3465a4"><title>Mull Rugby Club (Old)</title></circle></a><a href="/setts/s8/k3r1g32k12w1k12r1g3~x2/"><circle cx="341.1" cy="133.1" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/setts/s10/dg40r8dg26g5dg10ly3db4ly2db1ly16~x2/"><circle cx="367.9" cy="104.6" r="4" fill="#3465a4"><title>Lodge Isandlwana</title></circle></a><a href="/setts/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/"><circle cx="263.1" cy="99.3" r="4" fill="#3465a4"><title>Moss</title></circle></a><a href="/setts/s11/y42k10y2k2k2k2y10k6k2k3y2~x2/"><circle cx="374.5" cy="114.1" r="4" fill="#3465a4"><title>Laggen Dress (Fashion)</title></circle></a><a href="/setts/s10/k3dg32k2dg4ly4dg2ly4dg4k6w3~x2/"><circle cx="377.7" cy="145.4" r="4" fill="#3465a4"><title>University of Alberta (Corporate)</title></circle></a><a href="/setts/s11/g17t2g2t2k21t2k3g30k2t2k4~x2/"><circle cx="288.2" cy="147.3" r="4" fill="#3465a4"><title>Fort William</title></circle></a><circle cx="348.8" cy="99.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/r5g56k2w5k2g56r16k83r16g56k2w5k2g56r5~x2/

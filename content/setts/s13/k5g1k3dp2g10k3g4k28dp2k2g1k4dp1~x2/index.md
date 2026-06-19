@@ -2,7 +2,7 @@
 title: "McCarthy"
 date: 2023-03-18
 ---
-**Bands:** [BKGKBKGKGBKGK](/stripes/bkgkbkgkgbkgk/) · **Stripes:** [DP K G K DP K G K G DP K G K](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">DP K G K DP K G K G DP K G K</span></span>
+**Bands:** [KGKBGKGKBKGKB](/stripes/kgkbgkgkbkgkb/) · **Stripes:** [K G K DP G K G K DP K G K DP](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K G K DP G K G K DP K G K DP</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -904,18 +907,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Irish Heritage](/setts/s11/g4k6g4k6g12k75g3k6g14k6w4/) — ΔT 1.57
 1. [Calum's Cabin](/setts/s10/db32o4dt12db2dt4db2dt2y16db67o6/) — ΔT 1.60
 1. [Brooks Brothers Signature (Corporate](/setts/s9/k5lo1dg7r1k45r5lo3k4lo3~x2/) — ΔT 1.65
-1. [Stewart/Stuart Mourning](/setts/s20/k40n3k5n2k2n2k2n6k4w2k4w2k4n6k2n2k2n2k5n3~x2/) — ΔT 1.69
+1. [Stewart/Stuart Mourning](/setts/s20/k40n3k5n2k2n2k2n6k4w2k4~x2/) — ΔT 1.69
 1. [Clergy #3](/setts/s12/k10y5k2y5k10w1k26w1y4w1k5w1~x2/) — ΔT 1.72
 1. [Entier](/setts/s12/k2g4k6lr2k31ly2k1ly2k16g20ly1lr2~x2/) — ΔT 1.80
-1. [Ironside (Personal)](/setts/s18/dp5w2dp4k10b2k2b2k6dp2k40dp2k6b2k2b2k10dp4w2~x2/) — ΔT 1.82
+1. [Ironside (Personal)](/setts/s18/k40dp2k6b2k2b2k10dp4w2dp5~x2/) — ΔT 1.81
 1. [Reagan (Personal)](/setts/s10/k4g12k3g4k3g3k36g3k2ly3~x2/) — ΔT 1.83
 1. [Springbank](/setts/s11/k14n2k2n5k25w1n9p3k3w1k14~x2/) — ΔT 1.85
 1. [Clergy](/setts/s17/lr1k5lr1y4lr1k26lr1k10y5k2y5k10lr1y4lr1k5lr1~x2/) — ΔT 1.85
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g4k6g4k6g12k75g3k6g14k6w4/"><circle cx="502.8" cy="152.0" r="4" fill="#3465a4"><title>Irish Heritage</title></circle></a><a href="/setts/s10/db32o4dt12db2dt4db2dt2y16db67o6/"><circle cx="462.3" cy="138.0" r="4" fill="#3465a4"><title>Calum's Cabin</title></circle></a><a href="/setts/s9/k5lo1dg7r1k45r5lo3k4lo3~x2/"><circle cx="509.8" cy="120.2" r="4" fill="#3465a4"><title>Brooks Brothers Signature (Corporate</title></circle></a><a href="/setts/s20/k40n3k5n2k2n2k2n6k4w2k4w2k4n6k2n2k2n2k5n3~x2/"><circle cx="469.5" cy="122.3" r="4" fill="#3465a4"><title>Stewart/Stuart Mourning</title></circle></a><a href="/setts/s12/k10y5k2y5k10w1k26w1y4w1k5w1~x2/"><circle cx="479.3" cy="150.7" r="4" fill="#3465a4"><title>Clergy #3</title></circle></a><a href="/setts/s12/k2g4k6lr2k31ly2k1ly2k16g20ly1lr2~x2/"><circle cx="407.0" cy="132.3" r="4" fill="#3465a4"><title>Entier</title></circle></a><a href="/setts/s18/dp5w2dp4k10b2k2b2k6dp2k40dp2k6b2k2b2k10dp4w2~x2/"><circle cx="460.6" cy="117.7" r="4" fill="#3465a4"><title>Ironside (Personal)</title></circle></a><a href="/setts/s10/k4g12k3g4k3g3k36g3k2ly3~x2/"><circle cx="445.3" cy="172.8" r="4" fill="#3465a4"><title>Reagan (Personal)</title></circle></a><a href="/setts/s11/k14n2k2n5k25w1n9p3k3w1k14~x2/"><circle cx="467.5" cy="161.3" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/setts/s17/lr1k5lr1y4lr1k26lr1k10y5k2y5k10lr1y4lr1k5lr1~x2/"><circle cx="426.3" cy="127.8" r="4" fill="#3465a4"><title>Clergy</title></circle></a><circle cx="459.1" cy="147.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g4k6g4k6g12k75g3k6g14k6w4/"><circle cx="502.6" cy="151.7" r="4" fill="#3465a4"><title>Irish Heritage</title></circle></a><a href="/setts/s10/db32o4dt12db2dt4db2dt2y16db67o6/"><circle cx="462.2" cy="137.7" r="4" fill="#3465a4"><title>Calum's Cabin</title></circle></a><a href="/setts/s9/k5lo1dg7r1k45r5lo3k4lo3~x2/"><circle cx="509.7" cy="120.0" r="4" fill="#3465a4"><title>Brooks Brothers Signature (Corporate</title></circle></a><a href="/setts/s20/k40n3k5n2k2n2k2n6k4w2k4~x2/"><circle cx="469.2" cy="122.0" r="4" fill="#3465a4"><title>Stewart/Stuart Mourning</title></circle></a><a href="/setts/s12/k10y5k2y5k10w1k26w1y4w1k5w1~x2/"><circle cx="479.1" cy="150.4" r="4" fill="#3465a4"><title>Clergy #3</title></circle></a><a href="/setts/s12/k2g4k6lr2k31ly2k1ly2k16g20ly1lr2~x2/"><circle cx="406.8" cy="132.1" r="4" fill="#3465a4"><title>Entier</title></circle></a><a href="/setts/s18/k40dp2k6b2k2b2k10dp4w2dp5~x2/"><circle cx="460.4" cy="117.5" r="4" fill="#3465a4"><title>Ironside (Personal)</title></circle></a><a href="/setts/s10/k4g12k3g4k3g3k36g3k2ly3~x2/"><circle cx="445.1" cy="172.6" r="4" fill="#3465a4"><title>Reagan (Personal)</title></circle></a><a href="/setts/s11/k14n2k2n5k25w1n9p3k3w1k14~x2/"><circle cx="467.4" cy="161.0" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/setts/s17/lr1k5lr1y4lr1k26lr1k10y5k2y5k10lr1y4lr1k5lr1~x2/"><circle cx="426.2" cy="127.5" r="4" fill="#3465a4"><title>Clergy</title></circle></a><circle cx="459.1" cy="147.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/k5g1k3dp2g10k3g4k28dp2k2g1k4dp1~x2/

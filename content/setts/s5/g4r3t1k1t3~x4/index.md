@@ -2,12 +2,18 @@
 title: "Wilson's, No 214"
 date: 2023-03-18
 ---
-**Bands:** [BKBRG](/stripes/bkbrg/) · **Stripes:** [T K T R G](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">T K T R G</span></span>
+**Bands:** [GRBKB](/stripes/grbkb/) · **Stripes:** [G R T K T](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">G R T K T</span></span>
 
 
 This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Wilson's, No 214
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/12 K4 B4 R12 G/16
+G/16 R12 B4 K4 B/12
 ![Sett](sett.png)
 
 ## Palette
@@ -900,27 +909,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/12 K4 B4 R12 G/16 tartan")
+![Tartan detail](tartan.png "G/16 R12 B4 K4 B/12 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Creek Indian Nation](/setts/s5/db2g4ly1db1r2~x12/) — ΔT 0.65
-1. [Timespan](/setts/s5/g6r1k6r1o6~x6/) — ΔT 1.06
+1. [Timespan](/setts/s5/o6r1k6r1g6~x6/) — ΔT 1.06
 1. [Ramsay (Orange)](/setts/s7/k4lo9k13g6lo3g9w4~x2/) — ΔT 1.17
 1. [Stewart, Plaid](/setts/s7/r2g4db8r9g9k2r2~x2/) — ΔT 1.20
-1. [Inspiration](/setts/s5/lo5dt21ly11t12r5~x2/) — ΔT 1.23
+1. [Inspiration](/setts/s5/r5t12ly11dt21lo5~x2/) — ΔT 1.23
 1. [Gallowater Old District Tartan Tartan Number: 1025. Earliest known date: 1819 Both 'Old' and 'New' appear in Wilson's 1819 pattern book. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/k19t10dp19g40ly10/) — ΔT 1.23
-1. [Wilson's No.214](/setts/s8/t3k1t1r3g4r3t1k1~x4/) — ΔT 1.25
+1. [Wilson's No.214](/setts/s8/g4r3t1k1t3~x4/) — ΔT 1.25
 1. [Wilson's No.203](/setts/s4/t2r4g5ly1~x4/) — ΔT 1.29
 1. [Harbison (2015)](/setts/s4/db21g34r14w6~x2/) — ΔT 1.29
 1. [Waterloo](/setts/s6/y3dg6k6y4r1y1~x2/) — ΔT 1.29
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db2g4ly1db1r2~x12/"><circle cx="144.5" cy="273.4" r="4" fill="#3465a4"><title>Creek Indian Nation</title></circle></a><a href="/setts/s5/g6r1k6r1o6~x6/"><circle cx="129.4" cy="256.2" r="4" fill="#3465a4"><title>Timespan</title></circle></a><a href="/setts/s7/k4lo9k13g6lo3g9w4~x2/"><circle cx="95.0" cy="254.8" r="4" fill="#3465a4"><title>Ramsay (Orange)</title></circle></a><a href="/setts/s7/r2g4db8r9g9k2r2~x2/"><circle cx="146.0" cy="246.5" r="4" fill="#3465a4"><title>Stewart, Plaid</title></circle></a><a href="/setts/s5/lo5dt21ly11t12r5~x2/"><circle cx="98.0" cy="246.4" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/setts/s5/k19t10dp19g40ly10/"><circle cx="108.7" cy="255.8" r="4" fill="#3465a4"><title>Gallowater Old District Tartan Tartan Number: 1025. Earliest known date: 1819 Both 'Old' and 'New' appear in Wilson's 1819 pattern book. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/t3k1t1r3g4r3t1k1~x4/"><circle cx="117.4" cy="249.9" r="4" fill="#3465a4"><title>Wilson's No.214</title></circle></a><a href="/setts/s4/t2r4g5ly1~x4/"><circle cx="177.5" cy="277.1" r="4" fill="#3465a4"><title>Wilson's No.203</title></circle></a><a href="/setts/s4/db21g34r14w6~x2/"><circle cx="178.5" cy="268.2" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/setts/s6/y3dg6k6y4r1y1~x2/"><circle cx="157.3" cy="254.1" r="4" fill="#3465a4"><title>Waterloo</title></circle></a><circle cx="108.8" cy="276.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db2g4ly1db1r2~x12/"><circle cx="144.5" cy="273.3" r="4" fill="#3465a4"><title>Creek Indian Nation</title></circle></a><a href="/setts/s5/o6r1k6r1g6~x6/"><circle cx="129.5" cy="256.2" r="4" fill="#3465a4"><title>Timespan</title></circle></a><a href="/setts/s7/k4lo9k13g6lo3g9w4~x2/"><circle cx="95.1" cy="254.7" r="4" fill="#3465a4"><title>Ramsay (Orange)</title></circle></a><a href="/setts/s7/r2g4db8r9g9k2r2~x2/"><circle cx="146.0" cy="246.5" r="4" fill="#3465a4"><title>Stewart, Plaid</title></circle></a><a href="/setts/s5/r5t12ly11dt21lo5~x2/"><circle cx="98.1" cy="246.4" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/setts/s5/k19t10dp19g40ly10/"><circle cx="108.8" cy="255.8" r="4" fill="#3465a4"><title>Gallowater Old District Tartan Tartan Number: 1025. Earliest known date: 1819 Both 'Old' and 'New' appear in Wilson's 1819 pattern book. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/g4r3t1k1t3~x4/"><circle cx="117.4" cy="249.9" r="4" fill="#3465a4"><title>Wilson's No.214</title></circle></a><a href="/setts/s4/t2r4g5ly1~x4/"><circle cx="177.5" cy="277.0" r="4" fill="#3465a4"><title>Wilson's No.203</title></circle></a><a href="/setts/s4/db21g34r14w6~x2/"><circle cx="178.6" cy="268.0" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/setts/s6/y3dg6k6y4r1y1~x2/"><circle cx="157.5" cy="254.1" r="4" fill="#3465a4"><title>Waterloo</title></circle></a><circle cx="108.9" cy="276.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/g4r3t1k1t3~x4/

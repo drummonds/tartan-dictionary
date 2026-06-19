@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5123
 
 ## Thread count
-DR/6 Na60 K18 N18 K/18
+K/18 N18 K18 Na60 DR/6
 ![Sett](sett.png)
 
 ## Palette
@@ -39,7 +39,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/6 Na60 K18 N18 K/18 tartan")
+![Tartan detail](tartan.png "K/18 N18 K18 Na60 DR/6 tartan")
 
 ## Nearest tartans
 
@@ -58,8 +58,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k3w3k3y10r1~x6/"><circle cx="232.2" cy="210.7" r="4" fill="#3465a4"><title>Burberry Hunting</title></circle></a><a href="/setts/s6/r12db3g5db16ly2g2~x2/"><circle cx="223.8" cy="209.6" r="4" fill="#3465a4"><title>Dunbog Primary (School)</title></circle></a><a href="/setts/s6/r2k28y5w12y14r2~x2/"><circle cx="205.3" cy="175.4" r="4" fill="#3465a4"><title>Callaway</title></circle></a><a href="/setts/s5/k6w6k6o21r2~x4/"><circle cx="240.0" cy="196.9" r="4" fill="#3465a4"><title>Burberry, Check</title></circle></a><a href="/setts/s4/r5y32k31w5~x2/"><circle cx="197.2" cy="237.7" r="4" fill="#3465a4"><title>Loganair, Uniform Skirt</title></circle></a><a href="/setts/s6/lb5o34k24o4r24o4~x2/"><circle cx="191.0" cy="202.1" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/setts/s4/r5o32k31w5~x2/"><circle cx="210.3" cy="241.1" r="4" fill="#3465a4"><title>Loganair</title></circle></a><a href="/setts/s5/k4w3k4y9r1~x4/"><circle cx="187.6" cy="223.8" r="4" fill="#3465a4"><title>Oban Grey</title></circle></a><a href="/setts/s6/r4o30k6w13k13w3~x2/"><circle cx="185.1" cy="187.4" r="4" fill="#3465a4"><title>Thom(p)son camel</title></circle></a><a href="/setts/s4/r5o32k31w5/"><circle cx="209.3" cy="239.6" r="4" fill="#3465a4"><title>Loganair Uniform Skirt Corporate Tartan Tartan Number: 1629. Earliest known date: c.1985 Half actual count for display. Used until 1988 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="230.9" cy="209.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k3w3k3y10r1~x6/"><circle cx="232.2" cy="210.5" r="4" fill="#3465a4"><title>Burberry Hunting</title></circle></a><a href="/setts/s6/r12db3g5db16ly2g2~x2/"><circle cx="223.9" cy="209.5" r="4" fill="#3465a4"><title>Dunbog Primary (School)</title></circle></a><a href="/setts/s6/r2k28y5w12y14r2~x2/"><circle cx="205.3" cy="175.3" r="4" fill="#3465a4"><title>Callaway</title></circle></a><a href="/setts/s5/k6w6k6o21r2~x4/"><circle cx="239.9" cy="196.7" r="4" fill="#3465a4"><title>Burberry, Check</title></circle></a><a href="/setts/s4/r5y32k31w5~x2/"><circle cx="197.4" cy="237.5" r="4" fill="#3465a4"><title>Loganair, Uniform Skirt</title></circle></a><a href="/setts/s6/lb5o34k24o4r24o4~x2/"><circle cx="190.9" cy="202.0" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/setts/s4/r5o32k31w5~x2/"><circle cx="210.3" cy="241.0" r="4" fill="#3465a4"><title>Loganair</title></circle></a><a href="/setts/s5/k4w3k4y9r1~x4/"><circle cx="187.5" cy="223.6" r="4" fill="#3465a4"><title>Oban Grey</title></circle></a><a href="/setts/s6/r4o30k6w13k13w3~x2/"><circle cx="185.0" cy="187.3" r="4" fill="#3465a4"><title>Thom(p)son camel</title></circle></a><a href="/setts/s4/r5o32k31w5/"><circle cx="209.3" cy="239.4" r="4" fill="#3465a4"><title>Loganair Uniform Skirt Corporate Tartan Tartan Number: 1629. Earliest known date: c.1985 Half actual count for display. Used until 1988 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="231.0" cy="209.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/k3lb3k3n10r1~x6/

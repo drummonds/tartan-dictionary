@@ -18,10 +18,10 @@ BGRGBGRGBGRGBG
 
 
 
-### DO Y R Y DB Y O Y DB Y R Y DO Y <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DO Y R Y DB Y O Y DB Y R Y DO Y</span></span>
+### Y DO Y R Y DB Y O Y DB Y R Y DO <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="seq">Y DO Y R Y DB Y O Y DB Y R Y DO</span></span>
 
 | Tartans |
 |---------------|
-| [Kildare, County](/setts/s14/y8do2y13r4y12db22y5o3y5db22y12r4y13do2~x2/)|
-|![Kildare, County example sett](/setts/s14/y8do2y13r4y12db22y5o3y5db22y12r4y13do2~x2/sett.png)|
+| [Kildare, County](/setts/s14/y8do2y13r4y12db22y5o3~x2/)|
+|![Kildare, County example sett](/setts/s14/y8do2y13r4y12db22y5o3~x2/sett.png)|
 

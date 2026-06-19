@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -915,17 +918,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Caledonian Cameron Commando](/setts/s14/r21lt9k2lt2k2lt9k18ly3dg21r13k3r13w2r13~x2/) — ΔT 0.71
 1. [MacPherson #8](/setts/s15/r14dg3r14dg13ly2k14db6k2db2k2db6r9w2k2r2~x2/) — ΔT 0.84
 1. [Caledonia](/setts/s14/r21t9k2t2k2t9k18ly3g21r13k3r13w2r13~x2/) — ΔT 0.84
-1. [Robieson](/setts/s13/ly1k1r8k1r1dg8r1k8r1dg1r8k1w1~x6/) — ΔT 0.90
+1. [Robieson](/setts/s13/w1k1r8dg1r1k8r1dg8r1k1r8k1ly1~x6/) — ΔT 0.90
 1. [Kidd](/setts/s15/r14t3r12g16ly2k11t7k2t2k2t7r12w3k3r4~x2/) — ΔT 0.95
 1. [Laois County Crest (Fashion)](/setts/s11/ly9lo3k4lo4k8r17k3r17db8k4w4~x2/) — ΔT 0.97
-1. [Robieson (Name)](/setts/s13/ly1k1r8db1r1g8r1db8r1g1r8k1w1~x6/) — ΔT 1.00
+1. [Robieson (Name)](/setts/s13/w1k1r8g1r1db8r1g8r1db1r8k1ly1~x6/) — ΔT 1.00
 1. [MacPherson #5](/setts/s15/r18t5r18g24ly3k19t10k3t3k3t10r18w4k5r5~x2/) — ΔT 1.01
 1. [Mars (Personal)](/setts/s11/r16g16r8k8ly3k3db3k3ly3r14w3~x2/) — ΔT 1.04
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r14g3r14g13ly2k14db6k2db2k2db6r9w2k2r2~x2/"><circle cx="116.9" cy="135.2" r="4" fill="#3465a4"><title>MacPherson 7</title></circle></a><a href="/setts/s14/r21lt9k2lt2k2lt9k18ly3dg21r13k3r13w2r13~x2/"><circle cx="134.8" cy="120.0" r="4" fill="#3465a4"><title>Caledonian Cameron Commando</title></circle></a><a href="/setts/s15/r14dg3r14dg13ly2k14db6k2db2k2db6r9w2k2r2~x2/"><circle cx="133.4" cy="139.3" r="4" fill="#3465a4"><title>MacPherson #8</title></circle></a><a href="/setts/s14/r21t9k2t2k2t9k18ly3g21r13k3r13w2r13~x2/"><circle cx="166.0" cy="133.1" r="4" fill="#3465a4"><title>Caledonia</title></circle></a><a href="/setts/s13/ly1k1r8k1r1dg8r1k8r1dg1r8k1w1~x6/"><circle cx="167.6" cy="111.1" r="4" fill="#3465a4"><title>Robieson</title></circle></a><a href="/setts/s15/r14t3r12g16ly2k11t7k2t2k2t7r12w3k3r4~x2/"><circle cx="125.4" cy="140.5" r="4" fill="#3465a4"><title>Kidd</title></circle></a><a href="/setts/s11/ly9lo3k4lo4k8r17k3r17db8k4w4~x2/"><circle cx="107.1" cy="167.5" r="4" fill="#3465a4"><title>Laois County Crest (Fashion)</title></circle></a><a href="/setts/s13/ly1k1r8db1r1g8r1db8r1g1r8k1w1~x6/"><circle cx="190.5" cy="126.1" r="4" fill="#3465a4"><title>Robieson (Name)</title></circle></a><a href="/setts/s15/r18t5r18g24ly3k19t10k3t3k3t10r18w4k5r5~x2/"><circle cx="118.0" cy="141.1" r="4" fill="#3465a4"><title>MacPherson #5</title></circle></a><a href="/setts/s11/r16g16r8k8ly3k3db3k3ly3r14w3~x2/"><circle cx="151.8" cy="173.9" r="4" fill="#3465a4"><title>Mars (Personal)</title></circle></a><circle cx="147.2" cy="133.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r14g3r14g13ly2k14db6k2db2k2db6r9w2k2r2~x2/"><circle cx="116.9" cy="135.3" r="4" fill="#3465a4"><title>MacPherson 7</title></circle></a><a href="/setts/s14/r21lt9k2lt2k2lt9k18ly3dg21r13k3r13w2r13~x2/"><circle cx="134.7" cy="120.1" r="4" fill="#3465a4"><title>Caledonian Cameron Commando</title></circle></a><a href="/setts/s15/r14dg3r14dg13ly2k14db6k2db2k2db6r9w2k2r2~x2/"><circle cx="133.3" cy="139.4" r="4" fill="#3465a4"><title>MacPherson #8</title></circle></a><a href="/setts/s14/r21t9k2t2k2t9k18ly3g21r13k3r13w2r13~x2/"><circle cx="165.8" cy="133.1" r="4" fill="#3465a4"><title>Caledonia</title></circle></a><a href="/setts/s13/w1k1r8dg1r1k8r1dg8r1k1r8k1ly1~x6/"><circle cx="167.4" cy="111.2" r="4" fill="#3465a4"><title>Robieson</title></circle></a><a href="/setts/s15/r14t3r12g16ly2k11t7k2t2k2t7r12w3k3r4~x2/"><circle cx="125.3" cy="140.6" r="4" fill="#3465a4"><title>Kidd</title></circle></a><a href="/setts/s11/ly9lo3k4lo4k8r17k3r17db8k4w4~x2/"><circle cx="107.0" cy="167.6" r="4" fill="#3465a4"><title>Laois County Crest (Fashion)</title></circle></a><a href="/setts/s13/w1k1r8g1r1db8r1g8r1db1r8k1ly1~x6/"><circle cx="190.3" cy="126.2" r="4" fill="#3465a4"><title>Robieson (Name)</title></circle></a><a href="/setts/s15/r18t5r18g24ly3k19t10k3t3k3t10r18w4k5r5~x2/"><circle cx="117.9" cy="141.3" r="4" fill="#3465a4"><title>MacPherson #5</title></circle></a><a href="/setts/s11/r16g16r8k8ly3k3db3k3ly3r14w3~x2/"><circle cx="151.8" cy="174.0" r="4" fill="#3465a4"><title>Mars (Personal)</title></circle></a><circle cx="147.1" cy="133.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r8db2k1db3k4ly1k1w1k1g8r6w1r6~x4/

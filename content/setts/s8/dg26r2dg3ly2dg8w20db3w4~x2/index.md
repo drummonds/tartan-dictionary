@@ -47,20 +47,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Solberg-Bell](/setts/s6/ly8k2dt20t4w1k2~x4/) — ΔT 1.29
-1. [Royal Troon Golf Club, The](/setts/s8/ly3dt34dg5w2dg2w10dt4r3~x2/) — ΔT 1.31
+1. [Royal Troon Golf Club, The](/setts/s8/r3dt4w10dg2w2dg5dt34ly3~x2/) — ΔT 1.31
 1. [Scotstown](/setts/s5/lr2dg17w6b5r1~x4/) — ΔT 1.37
 1. [Riley (Personal)](/setts/s8/p26g6k8g3k8g30w3g3~x2/) — ΔT 1.37
 1. [St Patrick's Krewe](/setts/s8/dg50r5dg8w10dg8db8dg8lo21~x2/) — ΔT 1.39
 1. [Bell of the Borders](/setts/s9/r3g2k9lr2k2lr24ly2lr2ly1~x4/) — ΔT 1.39
-1. [Harris (Personal)](/setts/s11/lb1n3lb8r1lb1r1lb20k15lb2n8lo1~x2/) — ΔT 1.41
-1. [MacPherson Dress (1951)](/setts/s7/ly3k9w3k20w30p3w3~x2/) — ΔT 1.41
-1. [MacPherson - 1842 (VS) Dress](/setts/s7/ly1k4w2k11w17m2w1~x4/) — ΔT 1.42
-1. [Gordon Dress (MacGregor-Hastie)](/setts/s9/ly4k4dg12k37w4k4w16k2w4~x2/) — ΔT 1.44
+1. [Harris (Personal)](/setts/s11/lo1n8lb2k15lb20r1lb1r1lb8n3lb1~x2/) — ΔT 1.41
+1. [MacPherson Dress (1951)](/setts/s7/w3p3w30k20w3k9ly3~x2/) — ΔT 1.41
+1. [MacPherson - 1842 (VS) Dress](/setts/s7/w1m2w17k11w2k4ly1~x4/) — ΔT 1.42
+1. [Gordon Dress (MacGregor-Hastie)](/setts/s9/w4k2w16k4w4k37dg12k4ly4~x2/) — ΔT 1.44
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/ly8k2dt20t4w1k2~x4/"><circle cx="267.1" cy="141.2" r="4" fill="#3465a4"><title>Solberg-Bell</title></circle></a><a href="/setts/s8/ly3dt34dg5w2dg2w10dt4r3~x2/"><circle cx="303.0" cy="119.0" r="4" fill="#3465a4"><title>Royal Troon Golf Club, The</title></circle></a><a href="/setts/s5/lr2dg17w6b5r1~x4/"><circle cx="256.9" cy="165.0" r="4" fill="#3465a4"><title>Scotstown</title></circle></a><a href="/setts/s8/p26g6k8g3k8g30w3g3~x2/"><circle cx="224.0" cy="178.9" r="4" fill="#3465a4"><title>Riley (Personal)</title></circle></a><a href="/setts/s8/dg50r5dg8w10dg8db8dg8lo21~x2/"><circle cx="294.5" cy="165.1" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><a href="/setts/s9/r3g2k9lr2k2lr24ly2lr2ly1~x4/"><circle cx="309.3" cy="92.0" r="4" fill="#3465a4"><title>Bell of the Borders</title></circle></a><a href="/setts/s11/lb1n3lb8r1lb1r1lb20k15lb2n8lo1~x2/"><circle cx="255.8" cy="101.5" r="4" fill="#3465a4"><title>Harris (Personal)</title></circle></a><a href="/setts/s7/ly3k9w3k20w30p3w3~x2/"><circle cx="247.9" cy="163.8" r="4" fill="#3465a4"><title>MacPherson Dress (1951)</title></circle></a><a href="/setts/s7/ly1k4w2k11w17m2w1~x4/"><circle cx="282.2" cy="140.2" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/setts/s9/ly4k4dg12k37w4k4w16k2w4~x2/"><circle cx="276.4" cy="136.2" r="4" fill="#3465a4"><title>Gordon Dress (MacGregor-Hastie)</title></circle></a><circle cx="256.6" cy="142.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/ly8k2dt20t4w1k2~x4/"><circle cx="267.0" cy="141.0" r="4" fill="#3465a4"><title>Solberg-Bell</title></circle></a><a href="/setts/s8/r3dt4w10dg2w2dg5dt34ly3~x2/"><circle cx="302.9" cy="118.8" r="4" fill="#3465a4"><title>Royal Troon Golf Club, The</title></circle></a><a href="/setts/s5/lr2dg17w6b5r1~x4/"><circle cx="256.8" cy="164.8" r="4" fill="#3465a4"><title>Scotstown</title></circle></a><a href="/setts/s8/p26g6k8g3k8g30w3g3~x2/"><circle cx="223.9" cy="178.7" r="4" fill="#3465a4"><title>Riley (Personal)</title></circle></a><a href="/setts/s8/dg50r5dg8w10dg8db8dg8lo21~x2/"><circle cx="294.4" cy="164.9" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><a href="/setts/s9/r3g2k9lr2k2lr24ly2lr2ly1~x4/"><circle cx="308.9" cy="91.8" r="4" fill="#3465a4"><title>Bell of the Borders</title></circle></a><a href="/setts/s11/lo1n8lb2k15lb20r1lb1r1lb8n3lb1~x2/"><circle cx="255.5" cy="101.4" r="4" fill="#3465a4"><title>Harris (Personal)</title></circle></a><a href="/setts/s7/w3p3w30k20w3k9ly3~x2/"><circle cx="247.6" cy="163.6" r="4" fill="#3465a4"><title>MacPherson Dress (1951)</title></circle></a><a href="/setts/s7/w1m2w17k11w2k4ly1~x4/"><circle cx="281.9" cy="139.9" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/setts/s9/w4k2w16k4w4k37dg12k4ly4~x2/"><circle cx="276.2" cy="136.0" r="4" fill="#3465a4"><title>Gordon Dress (MacGregor-Hastie)</title></circle></a><circle cx="256.4" cy="141.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/dg26r2dg3ly2dg8w20db3w4~x2/

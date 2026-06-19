@@ -22,6 +22,6 @@ RWKGYBWRWRGRKGKRGRWRWBYGKW
 
 | Tartans |
 |---------------|
-| [Norwich No.058](/setts/s26/r12w1k1g12ly1db5lt6r2lt2r4g2r2k2g2k2r2g2r4lt2r2lt6db5ly1g12k1w1~x2/)|
-|![Norwich No.058 example sett](/setts/s26/r12w1k1g12ly1db5lt6r2lt2r4g2r2k2g2k2r2g2r4lt2r2lt6db5ly1g12k1w1~x2/sett.png)|
+| [Norwich No.058](/setts/s26/r12w1k1g12ly1db5lt6r2lt2r4g2r2k2g2~x2/)|
+|![Norwich No.058 example sett](/setts/s26/r12w1k1g12ly1db5lt6r2lt2r4g2r2k2g2~x2/sett.png)|
 

@@ -2,12 +2,18 @@
 title: "South Aiken Presby Church (Corporate"
 date: 2023-03-18
 ---
-**Bands:** [YBWBGY](/stripes/ybwbgy/) · **Stripes:** [LO T LB T G LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LO T LB T G LY</span></span>
+**Bands:** [YGBWBY](/stripes/ygbwby/) · **Stripes:** [LY G T LB T LO](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LY G T LB T LO</span></span>
 
 
 This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7732/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- South Aiken Presbyterian Church
 
 ## Attestations
 
@@ -51,7 +57,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Irving of Glentulchan (Personal)](/setts/s6/r1lg9lr9k1lr1w1~x6/) — ΔT 1.54
 1. [Postcode Lottery](/setts/s7/g3r1g12w4lb15ly1lb3~x4/) — ΔT 1.55
 1. [Dama Classic (Fashion)](/setts/s8/lr30w3lr3w3lr12n30o3n5~x2/) — ΔT 1.60
-1. [Johore](/setts/s8/o57w5g20o5lo10o5g20w5~x2/) — ΔT 1.64
+1. [Johore](/setts/s8/o57w5g20o5lo10~x2/) — ΔT 1.64
 1. [Allanton (Fashion)](/setts/s6/t4g16ly2db7t28w4~x2/) — ΔT 1.64
 1. [Highlands Country Club (Corporate)](/setts/s7/g5lb15lb11lb2lb1lb1g4~x4/) — ΔT 1.67
 1. [Organic](/setts/s9/y25p3y8p13ly8lr2ly11y2p3~x2/) — ΔT 1.68
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r2lt1r1lt11lg16g1w1~x2/"><circle cx="308.1" cy="154.4" r="4" fill="#3465a4"><title>Gift of Life Michigan</title></circle></a><a href="/setts/s6/r4y2db4y35t27r3~x2/"><circle cx="342.1" cy="186.8" r="4" fill="#3465a4"><title>Royal Deeside (District)</title></circle></a><a href="/setts/s6/r1lg9lr9k1lr1w1~x6/"><circle cx="299.8" cy="213.9" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/setts/s7/g3r1g12w4lb15ly1lb3~x4/"><circle cx="259.3" cy="169.8" r="4" fill="#3465a4"><title>Postcode Lottery</title></circle></a><a href="/setts/s8/lr30w3lr3w3lr12n30o3n5~x2/"><circle cx="344.3" cy="207.8" r="4" fill="#3465a4"><title>Dama Classic (Fashion)</title></circle></a><a href="/setts/s8/o57w5g20o5lo10o5g20w5~x2/"><circle cx="329.7" cy="195.5" r="4" fill="#3465a4"><title>Johore</title></circle></a><a href="/setts/s6/t4g16ly2db7t28w4~x2/"><circle cx="281.6" cy="189.9" r="4" fill="#3465a4"><title>Allanton (Fashion)</title></circle></a><a href="/setts/s7/g5lb15lb11lb2lb1lb1g4~x4/"><circle cx="241.6" cy="191.3" r="4" fill="#3465a4"><title>Highlands Country Club (Corporate)</title></circle></a><a href="/setts/s9/y25p3y8p13ly8lr2ly11y2p3~x2/"><circle cx="270.1" cy="190.4" r="4" fill="#3465a4"><title>Organic</title></circle></a><a href="/setts/s8/o3lr4o4k4o18k3n36w3~x2/"><circle cx="291.8" cy="166.8" r="4" fill="#3465a4"><title>Hebridean Granite (Fashion)</title></circle></a><circle cx="305.5" cy="176.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r2lt1r1lt11lg16g1w1~x2/"><circle cx="307.6" cy="154.4" r="4" fill="#3465a4"><title>Gift of Life Michigan</title></circle></a><a href="/setts/s6/r4y2db4y35t27r3~x2/"><circle cx="341.8" cy="186.8" r="4" fill="#3465a4"><title>Royal Deeside (District)</title></circle></a><a href="/setts/s6/r1lg9lr9k1lr1w1~x6/"><circle cx="299.5" cy="213.9" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/setts/s7/g3r1g12w4lb15ly1lb3~x4/"><circle cx="258.9" cy="169.8" r="4" fill="#3465a4"><title>Postcode Lottery</title></circle></a><a href="/setts/s8/lr30w3lr3w3lr12n30o3n5~x2/"><circle cx="344.0" cy="207.7" r="4" fill="#3465a4"><title>Dama Classic (Fashion)</title></circle></a><a href="/setts/s8/o57w5g20o5lo10~x2/"><circle cx="329.3" cy="195.4" r="4" fill="#3465a4"><title>Johore</title></circle></a><a href="/setts/s6/t4g16ly2db7t28w4~x2/"><circle cx="281.5" cy="189.8" r="4" fill="#3465a4"><title>Allanton (Fashion)</title></circle></a><a href="/setts/s7/g5lb15lb11lb2lb1lb1g4~x4/"><circle cx="241.3" cy="191.3" r="4" fill="#3465a4"><title>Highlands Country Club (Corporate)</title></circle></a><a href="/setts/s9/y25p3y8p13ly8lr2ly11y2p3~x2/"><circle cx="269.8" cy="190.4" r="4" fill="#3465a4"><title>Organic</title></circle></a><a href="/setts/s8/o3lr4o4k4o18k3n36w3~x2/"><circle cx="291.6" cy="166.8" r="4" fill="#3465a4"><title>Hebridean Granite (Fashion)</title></circle></a><circle cx="305.2" cy="176.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/ly30g3t2lb2t30lo4~x2/

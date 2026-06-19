@@ -2,7 +2,7 @@
 title: "Innes of Learney Htg"
 date: 2023-03-18
 ---
-A family of [Clan Innes](/clan/innes/).
+A family of [Clan Innes,](/clan/innes/).
 
 **Trove of Scotland:** [search “Learney Htg”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Learney+Htg&viewmode=grid)
 

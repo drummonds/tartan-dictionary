@@ -2,12 +2,18 @@
 title: "By Storm"
 date: 2023-03-18
 ---
-**Bands:** [BBBGKBKB](/stripes/bbbgkbkb/) · **Stripes:** [DP DP DP DG K DP K DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP DP DP DG K DP K DP</span></span>
+**Bands:** [BKBKGBBB](/stripes/bkbkgbbb/) · **Stripes:** [DP K DP K DG DP DP DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DP K DP K DG DP DP DP</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6018
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Tartan Spirit Corporate)
 
 ## Attestations
 
@@ -52,15 +58,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Bute Heather, Autumn](/setts/s11/db6ly1m18k6m4k4dp8dg1dp8k1db5~x2/) — ΔT 1.84
 1. [Richards (Welsh Name)](/setts/s12/db5r2db2r2db2dt5r2dt1dg1dt1r10dg3~x4/) — ΔT 1.91
 1. [Dalgliesh, Ewen (Personal)](/setts/s10/db45dp6o6dp30dg6dp6dg30k4r4k3/) — ΔT 1.93
-1. [Bobby Jones (Personal)](/setts/s6/lo1db16dy8dt12dy2r1~x2/) — ΔT 1.94
+1. [Bobby Jones (Personal)](/setts/s6/r1dy2dt12dy8db16lo1~x2/) — ΔT 1.94
 1. [Aisteach](/setts/s7/dp32dg16o14k4o6dp7k2~x2/) — ΔT 2.05
 1. [Dempster Family Tartan Tartan Number: 2219. Earliest known date: 2001 Designed by Claire Donaldson of the House of Edgar. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/dt4dg2dr16dr10dg10dt32n3~x2/) — ΔT 2.10
 1. [Newlands, Charlie (Personal)](/setts/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/) — ΔT 2.11
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/do40t2dp2t2do2dp5dp20t2dp20~x2/"><circle cx="430.9" cy="211.7" r="4" fill="#3465a4"><title>Phillips</title></circle></a><a href="/setts/s7/db64r3k3r3dp61dg5dp6~x2/"><circle cx="430.9" cy="204.1" r="4" fill="#3465a4"><title>Rutherford, John (Personal)</title></circle></a><a href="/setts/s11/db6k2dp14k5dp14k3dt4k6dt24w2dp6~x2/"><circle cx="290.2" cy="231.2" r="4" fill="#3465a4"><title>Dunn #2</title></circle></a><a href="/setts/s11/db6ly1m18k6m4k4dp8dg1dp8k1db5~x2/"><circle cx="244.1" cy="178.3" r="4" fill="#3465a4"><title>Bute Heather, Autumn</title></circle></a><a href="/setts/s12/db5r2db2r2db2dt5r2dt1dg1dt1r10dg3~x4/"><circle cx="278.1" cy="207.4" r="4" fill="#3465a4"><title>Richards (Welsh Name)</title></circle></a><a href="/setts/s10/db45dp6o6dp30dg6dp6dg30k4r4k3/"><circle cx="259.3" cy="191.7" r="4" fill="#3465a4"><title>Dalgliesh, Ewen (Personal)</title></circle></a><a href="/setts/s6/lo1db16dy8dt12dy2r1~x2/"><circle cx="305.9" cy="228.9" r="4" fill="#3465a4"><title>Bobby Jones (Personal)</title></circle></a><a href="/setts/s7/dp32dg16o14k4o6dp7k2~x2/"><circle cx="351.8" cy="235.3" r="4" fill="#3465a4"><title>Aisteach</title></circle></a><a href="/setts/s7/dt4dg2dr16dr10dg10dt32n3~x2/"><circle cx="383.9" cy="250.9" r="4" fill="#3465a4"><title>Dempster Family Tartan Tartan Number: 2219. Earliest known date: 2001 Designed by Claire Donaldson of the House of Edgar. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/"><circle cx="308.5" cy="183.8" r="4" fill="#3465a4"><title>Newlands, Charlie (Personal)</title></circle></a><circle cx="351.2" cy="220.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/do40t2dp2t2do2dp5dp20t2dp20~x2/"><circle cx="430.8" cy="211.9" r="4" fill="#3465a4"><title>Phillips</title></circle></a><a href="/setts/s7/db64r3k3r3dp61dg5dp6~x2/"><circle cx="430.9" cy="204.3" r="4" fill="#3465a4"><title>Rutherford, John (Personal)</title></circle></a><a href="/setts/s11/db6k2dp14k5dp14k3dt4k6dt24w2dp6~x2/"><circle cx="290.3" cy="231.5" r="4" fill="#3465a4"><title>Dunn #2</title></circle></a><a href="/setts/s11/db6ly1m18k6m4k4dp8dg1dp8k1db5~x2/"><circle cx="244.1" cy="178.6" r="4" fill="#3465a4"><title>Bute Heather, Autumn</title></circle></a><a href="/setts/s12/db5r2db2r2db2dt5r2dt1dg1dt1r10dg3~x4/"><circle cx="278.1" cy="207.6" r="4" fill="#3465a4"><title>Richards (Welsh Name)</title></circle></a><a href="/setts/s10/db45dp6o6dp30dg6dp6dg30k4r4k3/"><circle cx="259.4" cy="192.1" r="4" fill="#3465a4"><title>Dalgliesh, Ewen (Personal)</title></circle></a><a href="/setts/s6/r1dy2dt12dy8db16lo1~x2/"><circle cx="306.0" cy="229.1" r="4" fill="#3465a4"><title>Bobby Jones (Personal)</title></circle></a><a href="/setts/s7/dp32dg16o14k4o6dp7k2~x2/"><circle cx="351.8" cy="235.5" r="4" fill="#3465a4"><title>Aisteach</title></circle></a><a href="/setts/s7/dt4dg2dr16dr10dg10dt32n3~x2/"><circle cx="383.9" cy="251.1" r="4" fill="#3465a4"><title>Dempster Family Tartan Tartan Number: 2219. Earliest known date: 2001 Designed by Claire Donaldson of the House of Edgar. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/"><circle cx="308.6" cy="184.2" r="4" fill="#3465a4"><title>Newlands, Charlie (Personal)</title></circle></a><circle cx="351.2" cy="221.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/dp5dp3dp18dg8k8dp31k2dp4~x2/

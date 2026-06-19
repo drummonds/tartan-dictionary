@@ -2,7 +2,7 @@
 title: "Land's End (Unnamed Camel)"
 date: 2023-03-18
 ---
-**Bands:** [BRGBRRRBR](/stripes/brgbrrrbr/) · **Stripes:** [DR O DG DR O O O DR O](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DR O DG DR O O O DR O</span></span>
+**Bands:** [RBRRRBGRB](/stripes/rbrrrbgrb/) · **Stripes:** [O DR O O O DR DG O DR](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="seq">O DR O O O DR DG O DR</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DR/8 LT40 DG30 DR4 LT6 LTa12 LT6 DR4 LT/48
+LT/48 DR4 LT6 LTa12 LT6 DR4 DG30 LT40 DR/8
 ![Sett](sett.png)
 
 ## Palette
@@ -904,7 +907,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Seton Htg (Clan)](/setts/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/) — ΔT 1.11
 1. [Scottish Piping Society of London](/setts/s12/y21r3y21db5y3r30y3db5y21r3y21db2~x2/) — ΔT 1.34
-1. [MacIver of Strathendry Htg (Personal](/setts/s9/lo3o28do5o5do33o5do5o28r3~x2/) — ΔT 1.38
+1. [MacIver of Strathendry Htg (Personal](/setts/s9/r3o28do5o5do33o5do5o28lo3~x2/) — ΔT 1.38
 1. [Hubbard (2016)](/setts/s9/dt5r19dt2y8r3y18dt2y9dt2~x2/) — ΔT 1.41
 1. [Burnett of Powis (Personal)](/setts/s8/r3y19ly3y19r3y3r21t3~x2/) — ΔT 1.41
 1. [Howells](/setts/s15/n16r1dg3n5r1n5dg3n4dg12n14ly1n14dg12ly2r6~x2/) — ΔT 1.44
@@ -915,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/"><circle cx="392.2" cy="175.8" r="4" fill="#3465a4"><title>Seton Htg (Clan)</title></circle></a><a href="/setts/s12/y21r3y21db5y3r30y3db5y21r3y21db2~x2/"><circle cx="444.3" cy="207.9" r="4" fill="#3465a4"><title>Scottish Piping Society of London</title></circle></a><a href="/setts/s9/lo3o28do5o5do33o5do5o28r3~x2/"><circle cx="420.9" cy="217.3" r="4" fill="#3465a4"><title>MacIver of Strathendry Htg (Personal</title></circle></a><a href="/setts/s9/dt5r19dt2y8r3y18dt2y9dt2~x2/"><circle cx="317.6" cy="212.5" r="4" fill="#3465a4"><title>Hubbard (2016)</title></circle></a><a href="/setts/s8/r3y19ly3y19r3y3r21t3~x2/"><circle cx="352.5" cy="225.5" r="4" fill="#3465a4"><title>Burnett of Powis (Personal)</title></circle></a><a href="/setts/s15/n16r1dg3n5r1n5dg3n4dg12n14ly1n14dg12ly2r6~x2/"><circle cx="390.8" cy="197.5" r="4" fill="#3465a4"><title>Howells</title></circle></a><a href="/setts/s8/r12n2lr1n2r3dg8r3n1~x2/"><circle cx="377.4" cy="207.0" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s8/r12n2lr1n2r3dg8r3n1/"><circle cx="377.4" cy="207.0" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s14/y19ly3y19r3y19ly3y19r3y3r21t3r21y3r3~x2/"><circle cx="355.0" cy="209.4" r="4" fill="#3465a4"><title>Burnett of Powis (Modern) (Personal)</title></circle></a><a href="/setts/s9/lo24do2lo3dy6lo3do2dg15lo20do4~x2/"><circle cx="365.4" cy="189.3" r="4" fill="#3465a4"><title>Land's End Camel</title></circle></a><circle cx="410.6" cy="212.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4/"><circle cx="391.9" cy="175.8" r="4" fill="#3465a4"><title>Seton Htg (Clan)</title></circle></a><a href="/setts/s12/y21r3y21db5y3r30y3db5y21r3y21db2~x2/"><circle cx="443.9" cy="207.8" r="4" fill="#3465a4"><title>Scottish Piping Society of London</title></circle></a><a href="/setts/s9/r3o28do5o5do33o5do5o28lo3~x2/"><circle cx="420.6" cy="217.3" r="4" fill="#3465a4"><title>MacIver of Strathendry Htg (Personal</title></circle></a><a href="/setts/s9/dt5r19dt2y8r3y18dt2y9dt2~x2/"><circle cx="317.4" cy="212.5" r="4" fill="#3465a4"><title>Hubbard (2016)</title></circle></a><a href="/setts/s8/r3y19ly3y19r3y3r21t3~x2/"><circle cx="352.2" cy="225.5" r="4" fill="#3465a4"><title>Burnett of Powis (Personal)</title></circle></a><a href="/setts/s15/n16r1dg3n5r1n5dg3n4dg12n14ly1n14dg12ly2r6~x2/"><circle cx="390.5" cy="197.5" r="4" fill="#3465a4"><title>Howells</title></circle></a><a href="/setts/s8/r12n2lr1n2r3dg8r3n1~x2/"><circle cx="377.1" cy="207.0" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s8/r12n2lr1n2r3dg8r3n1/"><circle cx="377.1" cy="207.0" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s14/y19ly3y19r3y19ly3y19r3y3r21t3r21y3r3~x2/"><circle cx="354.6" cy="209.4" r="4" fill="#3465a4"><title>Burnett of Powis (Modern) (Personal)</title></circle></a><a href="/setts/s9/lo24do2lo3dy6lo3do2dg15lo20do4~x2/"><circle cx="365.1" cy="189.1" r="4" fill="#3465a4"><title>Land's End Camel</title></circle></a><circle cx="410.3" cy="212.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/o24dr2o3o6o3dr2dg15o20dr4~x2/

@@ -6,4 +6,5 @@ date: 2023-03-18
 
 - [Crane of Clunie](/families/crane-of-clunie/)
 - [Crane of Cluny](/families/crane-of-cluny/)
+- [Crane of Cluny Htg](/families/crane-of-cluny-htg/)
 

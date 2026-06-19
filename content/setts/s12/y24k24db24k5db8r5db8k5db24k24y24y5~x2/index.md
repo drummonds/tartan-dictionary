@@ -2,7 +2,7 @@
 title: "Heritage"
 date: 2023-03-18
 ---
-**Bands:** [GGKBKBRBKBKG](/stripes/ggkbkbrbkbkg/) · **Stripes:** [Y Y K DB K DB R DB K DB K Y](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">Y Y K DB K DB R DB K DB K Y</span></span>
+**Bands:** [GKBKBRBKBKGG](/stripes/gkbkbrbkbkgg/) · **Stripes:** [Y K DB K DB R DB K DB K Y Y](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">Y K DB K DB R DB K DB K Y Y</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6014
 
 ## Thread count
-LG/10 N48 K48 DBa48 K10 DBa16 R10 DBa16 K10 DBa48 K48 N/48
+N/48 K48 DBa48 K10 DBa16 R10 DBa16 K10 DBa48 K48 N48 LG/10
 ![Sett](sett.png)
 
 ## Palette
@@ -38,7 +38,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Price-Powell (Personal)](/setts/s12/db14p5db4p5db14k14dg14k4lo4k8dg14k14~x2/) — ΔT 0.99
+1. [Price-Powell (Personal)](/setts/s12/k14dg14k8lo4k4dg14k14db14p5db4p5db14~x2/) — ΔT 0.99
 1. [Glenalmond College](/setts/s12/db12k2db2k2db2k12dg12r3dg12k12db12r3~x2/) — ΔT 1.11
 1. [Wilson's No.112 (Blue)](/setts/s10/dg12k14db11r3db3r3db11k14dg12y3~x2/) — ΔT 1.11
 1. [Cheape of Torosay](/setts/s13/db6k1db1k1db1k6dg6t2dg6k6db6k1db2~x2/) — ΔT 1.16
@@ -51,8 +51,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db14p5db4p5db14k14dg14k4lo4k8dg14k14~x2/"><circle cx="135.5" cy="275.0" r="4" fill="#3465a4"><title>Price-Powell (Personal)</title></circle></a><a href="/setts/s12/db12k2db2k2db2k12dg12r3dg12k12db12r3~x2/"><circle cx="174.0" cy="240.2" r="4" fill="#3465a4"><title>Glenalmond College</title></circle></a><a href="/setts/s10/dg12k14db11r3db3r3db11k14dg12y3~x2/"><circle cx="123.7" cy="253.2" r="4" fill="#3465a4"><title>Wilson's No.112 (Blue)</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6dg6t2dg6k6db6k1db2~x2/"><circle cx="203.1" cy="250.0" r="4" fill="#3465a4"><title>Cheape of Torosay</title></circle></a><a href="/setts/s15/db11k3db3k3db3k11r3dg13k3dg13r3k11db11k3db3~x2/"><circle cx="166.7" cy="246.3" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/setts/s12/dt3r2dt13k9do3k2do14k2do3k9dt15lb3~x2/"><circle cx="222.7" cy="224.7" r="4" fill="#3465a4"><title>McWilliams Dress (2014)</title></circle></a><a href="/setts/s11/db4db3n7k9n13r2db13db9n7k3n4~x2/"><circle cx="202.0" cy="251.6" r="4" fill="#3465a4"><title>Paul Henry (Personal)</title></circle></a><a href="/setts/s10/dp8k9y2dg10k2dg10y2k9dp8dg2~x2/"><circle cx="171.7" cy="264.9" r="4" fill="#3465a4"><title>Wilson's No.231</title></circle></a><a href="/setts/s12/db5k1db1k1db1k4dg5ly1dg5k4db6k1~x4/"><circle cx="195.5" cy="245.0" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/setts/s12/dg16k16db4dg3db12lo2db12dg3db4k16dg16r4~x2/"><circle cx="167.1" cy="217.4" r="4" fill="#3465a4"><title>Junior Chamber International</title></circle></a><circle cx="165.9" cy="248.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k14dg14k8lo4k4dg14k14db14p5db4p5db14~x2/"><circle cx="135.8" cy="275.2" r="4" fill="#3465a4"><title>Price-Powell (Personal)</title></circle></a><a href="/setts/s12/db12k2db2k2db2k12dg12r3dg12k12db12r3~x2/"><circle cx="174.2" cy="240.3" r="4" fill="#3465a4"><title>Glenalmond College</title></circle></a><a href="/setts/s10/dg12k14db11r3db3r3db11k14dg12y3~x2/"><circle cx="124.0" cy="253.4" r="4" fill="#3465a4"><title>Wilson's No.112 (Blue)</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6dg6t2dg6k6db6k1db2~x2/"><circle cx="203.2" cy="250.1" r="4" fill="#3465a4"><title>Cheape of Torosay</title></circle></a><a href="/setts/s15/db11k3db3k3db3k11r3dg13k3dg13r3k11db11k3db3~x2/"><circle cx="166.9" cy="246.5" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/setts/s12/dt3r2dt13k9do3k2do14k2do3k9dt15lb3~x2/"><circle cx="222.8" cy="224.9" r="4" fill="#3465a4"><title>McWilliams Dress (2014)</title></circle></a><a href="/setts/s11/db4db3n7k9n13r2db13db9n7k3n4~x2/"><circle cx="202.2" cy="251.8" r="4" fill="#3465a4"><title>Paul Henry (Personal)</title></circle></a><a href="/setts/s10/dp8k9y2dg10k2dg10y2k9dp8dg2~x2/"><circle cx="171.9" cy="265.0" r="4" fill="#3465a4"><title>Wilson's No.231</title></circle></a><a href="/setts/s12/db5k1db1k1db1k4dg5ly1dg5k4db6k1~x4/"><circle cx="195.6" cy="245.1" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/setts/s12/dg16k16db4dg3db12lo2db12dg3db4k16dg16r4~x2/"><circle cx="167.3" cy="217.6" r="4" fill="#3465a4"><title>Junior Chamber International</title></circle></a><circle cx="166.1" cy="249.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/y24k24db24k5db8r5db8k5db24k24y24y5~x2/

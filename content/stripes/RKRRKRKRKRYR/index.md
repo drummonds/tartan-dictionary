@@ -22,6 +22,6 @@ RKRRKRKRKRYR
 
 | Tartans |
 |---------------|
-| [Sweetheart, The](/setts/s12/m6lr5m23k20m6k3o4k10m14r45k7r6/)|
-|![Sweetheart, The example sett](/setts/s12/m6lr5m23k20m6k3o4k10m14r45k7r6/sett.png)|
+| [Sweetheart, The](/setts/s12/r6k7r45m14k10o4k3m6k20m23lr5m6/)|
+|![Sweetheart, The example sett](/setts/s12/r6k7r45m14k10o4k3m6k20m23lr5m6/sett.png)|
 

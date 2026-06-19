@@ -2,7 +2,7 @@
 title: "Elliott"
 date: 2023-03-18
 ---
-**Bands:** [BBBR](/stripes/bbbr/) · **Stripes:** [DB DR DB R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB DR DB R</span></span>
+**Bands:** [RBBB](/stripes/rbbb/) · **Stripes:** [R DB DR DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB DR DB</span></span>
 
 
 This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
@@ -93,15 +93,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Lochaber #3](/setts/s4/db1t1db8r1~x2/) — ΔT 2.07
 1. [Burnett's & Struth (Corporate)](/setts/s5/dt68b7dt16k16lo4~x2/) — ΔT 2.09
 1. [Elliot](/setts/s6/db9dy12db44dy12db9r3~x2/) — ΔT 2.13
-1. [Brooks Brothers Tattersall Blue](/setts/s5/lo1db9lo2db9r1~x4/) — ΔT 2.18
+1. [Brooks Brothers Tattersall Blue](/setts/s5/r1db9lo2db9lo1~x4/) — ΔT 2.18
 1. [Auchairne (Corporate)](/setts/s6/b11db7b3db70lb4db6~x2/) — ΔT 2.26
 1. [Staines (2013)](/setts/s3/db1k12db1~x10/) — ΔT 2.26
 1. [Lynch](/setts/s6/r19db6r7db101dg6db7~x2/) — ΔT 2.29
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/db44dy12db9r3~x2/"><circle cx="612.1" cy="290.7" r="4" fill="#3465a4"><title>Elliot (Clan)</title></circle></a><a href="/setts/s4/db16r4db3r1~x2/"><circle cx="554.7" cy="251.4" r="4" fill="#3465a4"><title>Elliott</title></circle></a><a href="/setts/s5/dt68t7dt16k16lo4~x2/"><circle cx="551.3" cy="244.9" r="4" fill="#3465a4"><title>Burnetts &amp; Struth</title></circle></a><a href="/setts/s4/db1t1db8r1~x2/"><circle cx="590.9" cy="279.8" r="4" fill="#3465a4"><title>Lochaber #3</title></circle></a><a href="/setts/s5/dt68b7dt16k16lo4~x2/"><circle cx="548.2" cy="240.7" r="4" fill="#3465a4"><title>Burnett's &amp; Struth (Corporate)</title></circle></a><a href="/setts/s6/db9dy12db44dy12db9r3~x2/"><circle cx="532.4" cy="267.5" r="4" fill="#3465a4"><title>Elliot</title></circle></a><a href="/setts/s5/lo1db9lo2db9r1~x4/"><circle cx="544.0" cy="269.5" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Blue</title></circle></a><a href="/setts/s6/b11db7b3db70lb4db6~x2/"><circle cx="613.6" cy="198.8" r="4" fill="#3465a4"><title>Auchairne (Corporate)</title></circle></a><a href="/setts/s3/db1k12db1~x10/"><circle cx="626.0" cy="300.1" r="4" fill="#3465a4"><title>Staines (2013)</title></circle></a><a href="/setts/s6/r19db6r7db101dg6db7~x2/"><circle cx="595.0" cy="211.5" r="4" fill="#3465a4"><title>Lynch</title></circle></a><circle cx="603.0" cy="280.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/db44dy12db9r3~x2/"><circle cx="612.0" cy="290.5" r="4" fill="#3465a4"><title>Elliot (Clan)</title></circle></a><a href="/setts/s4/db16r4db3r1~x2/"><circle cx="554.6" cy="251.1" r="4" fill="#3465a4"><title>Elliott</title></circle></a><a href="/setts/s5/dt68t7dt16k16lo4~x2/"><circle cx="551.2" cy="244.7" r="4" fill="#3465a4"><title>Burnetts &amp; Struth</title></circle></a><a href="/setts/s4/db1t1db8r1~x2/"><circle cx="590.7" cy="279.5" r="4" fill="#3465a4"><title>Lochaber #3</title></circle></a><a href="/setts/s5/dt68b7dt16k16lo4~x2/"><circle cx="548.1" cy="240.6" r="4" fill="#3465a4"><title>Burnett's &amp; Struth (Corporate)</title></circle></a><a href="/setts/s6/db9dy12db44dy12db9r3~x2/"><circle cx="532.3" cy="267.3" r="4" fill="#3465a4"><title>Elliot</title></circle></a><a href="/setts/s5/r1db9lo2db9lo1~x4/"><circle cx="543.9" cy="269.1" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Blue</title></circle></a><a href="/setts/s6/b11db7b3db70lb4db6~x2/"><circle cx="613.4" cy="198.4" r="4" fill="#3465a4"><title>Auchairne (Corporate)</title></circle></a><a href="/setts/s3/db1k12db1~x10/"><circle cx="626.0" cy="299.7" r="4" fill="#3465a4"><title>Staines (2013)</title></circle></a><a href="/setts/s6/r19db6r7db101dg6db7~x2/"><circle cx="594.7" cy="211.2" r="4" fill="#3465a4"><title>Lynch</title></circle></a><circle cx="603.0" cy="279.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/db16dr4db3r1~x2/

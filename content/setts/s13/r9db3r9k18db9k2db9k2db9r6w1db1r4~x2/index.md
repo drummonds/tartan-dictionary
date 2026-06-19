@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2942
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Metro Detroit Police & Fire P &
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -54,8 +60,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db10g1db2g3db16g1k16r16g3r2g1r10~x2/"><circle cx="208.0" cy="155.1" r="4" fill="#3465a4"><title>MacInroy (Wedding) (Personal)</title></circle></a><a href="/setts/s15/r12k2r2k2r2k10db10k1dg3k1db12k10r12k2r2~x2/"><circle cx="192.8" cy="158.4" r="4" fill="#3465a4"><title>MacLachlan #3</title></circle></a><a href="/setts/s14/r37db37r2db37g37r37k4r37g37db37r2db37r37k4~x2/"><circle cx="221.0" cy="178.8" r="4" fill="#3465a4"><title>Skene of Cromar</title></circle></a><a href="/setts/s8/r25k2n4k2r8k31db32k8/"><circle cx="240.4" cy="181.0" r="4" fill="#3465a4"><title>Black and Red</title></circle></a><a href="/setts/s12/r16db2r2db2r2db16dg16ly1r16db16r2lr2~x2/"><circle cx="229.7" cy="146.6" r="4" fill="#3465a4"><title>Army Medical Services</title></circle></a><a href="/setts/s13/dp11k1dp1k1dp1k9g4lb1g4k8dp8k1dp1~x4/"><circle cx="256.7" cy="176.7" r="4" fill="#3465a4"><title>Scottish Heritage Preservation (Corp</title></circle></a><a href="/setts/s15/dt43k4dt4k4dt4k26r32k4w10k4r32k26dt32k4r10/"><circle cx="181.2" cy="162.7" r="4" fill="#3465a4"><title>Frankfurt &amp; Disttrict P &amp; D (Corpora</title></circle></a><a href="/setts/s13/db6r30db6r30db6g6db6r6db15r2g10db15r2/"><circle cx="293.5" cy="173.6" r="4" fill="#3465a4"><title>Great Dane, The</title></circle></a><a href="/setts/s8/k4r37db37r2db37g37r37k4~x2/"><circle cx="235.0" cy="190.2" r="4" fill="#3465a4"><title>Skene of Cromar - 1950 (Clan)</title></circle></a><a href="/setts/s10/r7k3r4k5r25k7ly2db22k3db4~x2/"><circle cx="251.9" cy="161.9" r="4" fill="#3465a4"><title>St. George's (Edinburgh) (School)</title></circle></a><circle cx="221.5" cy="162.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db10g1db2g3db16g1k16r16g3r2g1r10~x2/"><circle cx="207.9" cy="155.2" r="4" fill="#3465a4"><title>MacInroy (Wedding) (Personal)</title></circle></a><a href="/setts/s15/r12k2r2k2r2k10db10k1dg3k1db12k10r12k2r2~x2/"><circle cx="192.8" cy="158.4" r="4" fill="#3465a4"><title>MacLachlan #3</title></circle></a><a href="/setts/s14/r37db37r2db37g37r37k4r37g37db37r2db37r37k4~x2/"><circle cx="220.9" cy="178.8" r="4" fill="#3465a4"><title>Skene of Cromar</title></circle></a><a href="/setts/s8/r25k2n4k2r8k31db32k8/"><circle cx="240.4" cy="181.1" r="4" fill="#3465a4"><title>Black and Red</title></circle></a><a href="/setts/s12/r16db2r2db2r2db16dg16ly1r16db16r2lr2~x2/"><circle cx="229.7" cy="146.7" r="4" fill="#3465a4"><title>Army Medical Services</title></circle></a><a href="/setts/s13/dp11k1dp1k1dp1k9g4lb1g4k8dp8k1dp1~x4/"><circle cx="256.7" cy="176.7" r="4" fill="#3465a4"><title>Scottish Heritage Preservation (Corp</title></circle></a><a href="/setts/s15/dt43k4dt4k4dt4k26r32k4w10k4r32k26dt32k4r10/"><circle cx="181.1" cy="162.8" r="4" fill="#3465a4"><title>Frankfurt &amp; Disttrict P &amp; D (Corpora</title></circle></a><a href="/setts/s13/db6r30db6r30db6g6db6r6db15r2g10db15r2/"><circle cx="293.4" cy="173.6" r="4" fill="#3465a4"><title>Great Dane, The</title></circle></a><a href="/setts/s8/k4r37db37r2db37g37r37k4~x2/"><circle cx="234.9" cy="190.2" r="4" fill="#3465a4"><title>Skene of Cromar - 1950 (Clan)</title></circle></a><a href="/setts/s10/r7k3r4k5r25k7ly2db22k3db4~x2/"><circle cx="251.7" cy="161.8" r="4" fill="#3465a4"><title>St. George's (Edinburgh) (School)</title></circle></a><circle cx="221.5" cy="162.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r9db3r9k18db9k2db9k2db9r6w1db1r4~x2/

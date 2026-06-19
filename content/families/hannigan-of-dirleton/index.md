@@ -8,7 +8,7 @@ A family of [Clan Hannigan](/clan/hannigan/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s14/dp4g4y2w3g27y30ly1r3ly1y30g27w3y2g4~x2/"><img src="/setts/s14/dp4g4y2w3g27y30ly1r3ly1y30g27w3y2g4~x2/sett.png" alt="Hannigan of Dirleton (Personal)" width="240"><br>Hannigan of Dirleton (Personal)</a>
+<a class="tartan" href="/setts/s14/dp4g4y2w3g27y30ly1r3~x2/"><img src="/setts/s14/dp4g4y2w3g27y30ly1r3~x2/sett.png" alt="Hannigan of Dirleton (Personal)" width="240"><br>Hannigan of Dirleton (Personal)</a>
 
 ## Other tartans
 

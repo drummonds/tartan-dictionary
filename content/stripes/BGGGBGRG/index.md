@@ -21,21 +21,21 @@ BGGGBGRG
 Grouped by stripe pattern — the 3 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### B G DY G B G R G <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">B G DY G B G R G</span></span>
-
-| Tartans |
-|---------------|
-| [Glenlivet](/setts/s8/g18r6g75b6g13dy35g12b6/)|
-|![Glenlivet example sett](/setts/s8/g18r6g75b6g13dy35g12b6/sett.png)|
-
-### DB DG DY DG DB DG R DG <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">DB DG DY DG DB DG R DG</span></span>
+### DG R DG DB DG DY DG DB <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">DG R DG DB DG DY DG DB</span></span>
 
 | Tartans |
 |---------------|
 | [Gayre Bodyguard](/setts/s8/dg18r6dg75db6dg13dy35dg12db6/)|
 |![Gayre Bodyguard example sett](/setts/s8/dg18r6dg75db6dg13dy35dg12db6/sett.png)|
 
-### DB G DY G DB G R G <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB G DY G DB G R G</span></span>
+### G R G B G DY G B <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="seq">G R G B G DY G B</span></span>
+
+| Tartans |
+|---------------|
+| [Glenlivet](/setts/s8/g18r6g75b6g13dy35g12b6/)|
+|![Glenlivet example sett](/setts/s8/g18r6g75b6g13dy35g12b6/sett.png)|
+
+### G R G DB G DY G DB <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G DB G DY G DB</span></span>
 
 | Tartans |
 |---------------|

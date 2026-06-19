@@ -2,7 +2,7 @@
 title: "Pride of New Zealand"
 date: 2023-03-18
 ---
-**Bands:** [BKWK](/stripes/bkwk/) · **Stripes:** [N K W K](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">N K W K</span></span>
+**Bands:** [KWKB](/stripes/kwkb/) · **Stripes:** [K W K N](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">K W K N</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
@@ -28,11 +28,11 @@ External register numbers recorded for this tartan.
 
 Other setts woven to the same stripe pattern.
 
-- [Pride of New Zealand, The](/setts/s4/n124k60w1k2/)
+- [Pride of New Zealand, The](/setts/s4/n124k60w1k2~x2/)
 
 
 ## Thread count
-K/2 W2 K60 N/124
+N/124 K60 W2 K/2
 ![Sett](sett.png)
 
 ## Palette
@@ -46,7 +46,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/2 W2 K60 N/124 tartan")
+![Tartan detail](tartan.png "N/124 K60 W2 K/2 tartan")
 
 ## Nearest tartans
 
@@ -54,7 +54,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Westwater (Edinburgh, 2012)](/setts/s3/k62t33ly1~x2/) — ΔT 1.39
 1. [Silver Mist](/setts/s5/n2k13n31k1n1~x4/) — ΔT 1.46
-1. [Pride of New Zealand, The](/setts/s4/n124k60w1k2/) — ΔT 1.48
+1. [Pride of New Zealand, The](/setts/s4/n124k60w1k2~x2/) — ΔT 1.48
 1. [Silver Mist (Corporate)](/setts/s6/k13n2k13n31k1n1~x4/) — ΔT 1.68
 1. [Perry Hunting (Green) (Personal)](/setts/s5/k75g26lr2g4lo5~x2/) — ΔT 1.80
 1. [Westwater (Personal)](/setts/s3/k62b33ly1~x2/) — ΔT 1.84
@@ -65,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/k62t33ly1~x2/"><circle cx="470.7" cy="220.5" r="4" fill="#3465a4"><title>Westwater (Edinburgh, 2012)</title></circle></a><a href="/setts/s5/n2k13n31k1n1~x4/"><circle cx="563.0" cy="215.7" r="4" fill="#3465a4"><title>Silver Mist</title></circle></a><a href="/setts/s4/n124k60w1k2/"><circle cx="484.1" cy="180.1" r="4" fill="#3465a4"><title>Pride of New Zealand, The</title></circle></a><a href="/setts/s6/k13n2k13n31k1n1~x4/"><circle cx="463.2" cy="213.7" r="4" fill="#3465a4"><title>Silver Mist (Corporate)</title></circle></a><a href="/setts/s5/k75g26lr2g4lo5~x2/"><circle cx="466.5" cy="166.9" r="4" fill="#3465a4"><title>Perry Hunting (Green) (Personal)</title></circle></a><a href="/setts/s3/k62b33ly1~x2/"><circle cx="459.5" cy="221.1" r="4" fill="#3465a4"><title>Westwater (Personal)</title></circle></a><a href="/setts/s8/dt8y74k8dt42y11k2y16dt4/"><circle cx="432.4" cy="150.9" r="4" fill="#3465a4"><title>Orkney Slate</title></circle></a><a href="/setts/s6/k72g23k7g8r1w3~x2/"><circle cx="500.5" cy="149.5" r="4" fill="#3465a4"><title>MacGregor, Black (Personal)</title></circle></a><a href="/setts/s6/db48g14r3g2r3g2~x2/"><circle cx="490.5" cy="188.5" r="4" fill="#3465a4"><title>Wilson</title></circle></a><a href="/setts/s7/lr4dt1r15dt42r6dt4lo1~x2/"><circle cx="496.0" cy="156.1" r="4" fill="#3465a4"><title>Lion Brand Sportswear</title></circle></a><circle cx="513.0" cy="193.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/k62t33ly1~x2/"><circle cx="470.7" cy="220.2" r="4" fill="#3465a4"><title>Westwater (Edinburgh, 2012)</title></circle></a><a href="/setts/s5/n2k13n31k1n1~x4/"><circle cx="562.7" cy="215.4" r="4" fill="#3465a4"><title>Silver Mist</title></circle></a><a href="/setts/s4/n124k60w1k2~x2/"><circle cx="484.0" cy="179.8" r="4" fill="#3465a4"><title>Pride of New Zealand, The</title></circle></a><a href="/setts/s6/k13n2k13n31k1n1~x4/"><circle cx="463.1" cy="213.5" r="4" fill="#3465a4"><title>Silver Mist (Corporate)</title></circle></a><a href="/setts/s5/k75g26lr2g4lo5~x2/"><circle cx="466.4" cy="166.7" r="4" fill="#3465a4"><title>Perry Hunting (Green) (Personal)</title></circle></a><a href="/setts/s3/k62b33ly1~x2/"><circle cx="459.6" cy="220.7" r="4" fill="#3465a4"><title>Westwater (Personal)</title></circle></a><a href="/setts/s8/dt8y74k8dt42y11k2y16dt4/"><circle cx="432.2" cy="150.8" r="4" fill="#3465a4"><title>Orkney Slate</title></circle></a><a href="/setts/s6/k72g23k7g8r1w3~x2/"><circle cx="500.4" cy="149.3" r="4" fill="#3465a4"><title>MacGregor, Black (Personal)</title></circle></a><a href="/setts/s6/db48g14r3g2r3g2~x2/"><circle cx="490.3" cy="188.3" r="4" fill="#3465a4"><title>Wilson</title></circle></a><a href="/setts/s7/lr4dt1r15dt42r6dt4lo1~x2/"><circle cx="495.8" cy="156.0" r="4" fill="#3465a4"><title>Lion Brand Sportswear</title></circle></a><circle cx="512.8" cy="193.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/n62k30w1k1~x2/

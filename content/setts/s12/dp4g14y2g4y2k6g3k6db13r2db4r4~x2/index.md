@@ -2,12 +2,18 @@
 title: "Kinloch Anderson Hunting"
 date: 2023-03-18
 ---
-**Bands:** [BGGGGKGKBRBR](/stripes/bggggkgkbrbr/) · **Stripes:** [DP G Y G Y K G K DB R DB R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DP G Y G Y K G K DB R DB R</span></span>
+**Bands:** [RBRBKGKGGGGB](/stripes/rbrbkgkggggb/) · **Stripes:** [R DB R DB K G K Y G Y G DP](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DB R DB K G K Y G Y G DP</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1988
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Kinloch Anderson Hunting
 
 ## Attestations
 
@@ -46,19 +52,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Kinloch Anderson Castle Grey](/setts/s12/do8y8do4y28k12dt6k12r4dt8r4dt29lr6/) — ΔT 0.65
 1. [Malcolm #2](/setts/s14/k1ly1k1dg6k6db6r1db1r1db6k6dg6k1t1~x4/) — ΔT 0.74
-1. [Malcolm](/setts/s14/b1k1g6k6db6r1db1r1db6k6g6k1ly1k1~x4/) — ΔT 0.75
+1. [Malcolm](/setts/s14/k1ly1k1g6k6db6r1db1r1db6k6g6k1b1~x4/) — ΔT 0.75
 1. [Logan Rogers](/setts/s10/db2r2db2w1db8k8dg8r2dg2ly2~x2/) — ΔT 0.87
 1. [Cunningham Hunting](/setts/s17/db12k2g2k2g2k2db13r6k10r6g13k2lo2k2lb2k2g12~x2/) — ΔT 0.91
 1. [South Australia #2](/setts/s11/r6db24r3db12r7db12k3dg8ly3dg8k3/) — ΔT 0.92
 1. [Denovan, The Lairdship of (Personal)](/setts/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/) — ΔT 0.96
 1. [North of Scotland Tartan Army](/setts/s13/dp3k3dp10k11g14db3g14k11w3lr3db15lr2w2~x2/) — ΔT 0.96
-1. [Adam Smith (Corporate)](/setts/s11/b2k1dt8k7g8ly2g8k7dt8k1r2~x4/) — ΔT 1.00
+1. [Adam Smith (Corporate)](/setts/s11/r2k1dt8k7g8ly2g8k7dt8k1b2~x4/) — ΔT 1.00
 1. [Lee Cox (Personal)](/setts/s17/n3w2r2dp6dg10n3k3n3k3n3dg14n3k3n3k7dg2r3~x2/) — ΔT 1.00
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/do8y8do4y28k12dt6k12r4dt8r4dt29lr6/"><circle cx="110.2" cy="174.1" r="4" fill="#3465a4"><title>Kinloch Anderson Castle Grey</title></circle></a><a href="/setts/s14/k1ly1k1dg6k6db6r1db1r1db6k6dg6k1t1~x4/"><circle cx="132.5" cy="187.6" r="4" fill="#3465a4"><title>Malcolm #2</title></circle></a><a href="/setts/s14/b1k1g6k6db6r1db1r1db6k6g6k1ly1k1~x4/"><circle cx="118.2" cy="179.7" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><a href="/setts/s10/db2r2db2w1db8k8dg8r2dg2ly2~x2/"><circle cx="104.4" cy="175.8" r="4" fill="#3465a4"><title>Logan Rogers</title></circle></a><a href="/setts/s17/db12k2g2k2g2k2db13r6k10r6g13k2lo2k2lb2k2g12~x2/"><circle cx="97.4" cy="161.3" r="4" fill="#3465a4"><title>Cunningham Hunting</title></circle></a><a href="/setts/s11/r6db24r3db12r7db12k3dg8ly3dg8k3/"><circle cx="85.8" cy="175.7" r="4" fill="#3465a4"><title>South Australia #2</title></circle></a><a href="/setts/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/"><circle cx="134.3" cy="200.2" r="4" fill="#3465a4"><title>Denovan, The Lairdship of (Personal)</title></circle></a><a href="/setts/s13/dp3k3dp10k11g14db3g14k11w3lr3db15lr2w2~x2/"><circle cx="65.8" cy="168.3" r="4" fill="#3465a4"><title>North of Scotland Tartan Army</title></circle></a><a href="/setts/s11/b2k1dt8k7g8ly2g8k7dt8k1r2~x4/"><circle cx="102.1" cy="199.9" r="4" fill="#3465a4"><title>Adam Smith (Corporate)</title></circle></a><a href="/setts/s17/n3w2r2dp6dg10n3k3n3k3n3dg14n3k3n3k7dg2r3~x2/"><circle cx="115.8" cy="171.2" r="4" fill="#3465a4"><title>Lee Cox (Personal)</title></circle></a><circle cx="105.7" cy="186.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/do8y8do4y28k12dt6k12r4dt8r4dt29lr6/"><circle cx="110.3" cy="174.3" r="4" fill="#3465a4"><title>Kinloch Anderson Castle Grey</title></circle></a><a href="/setts/s14/k1ly1k1dg6k6db6r1db1r1db6k6dg6k1t1~x4/"><circle cx="132.7" cy="187.8" r="4" fill="#3465a4"><title>Malcolm #2</title></circle></a><a href="/setts/s14/k1ly1k1g6k6db6r1db1r1db6k6g6k1b1~x4/"><circle cx="118.3" cy="179.9" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><a href="/setts/s10/db2r2db2w1db8k8dg8r2dg2ly2~x2/"><circle cx="104.6" cy="176.0" r="4" fill="#3465a4"><title>Logan Rogers</title></circle></a><a href="/setts/s17/db12k2g2k2g2k2db13r6k10r6g13k2lo2k2lb2k2g12~x2/"><circle cx="97.6" cy="161.5" r="4" fill="#3465a4"><title>Cunningham Hunting</title></circle></a><a href="/setts/s11/r6db24r3db12r7db12k3dg8ly3dg8k3/"><circle cx="86.0" cy="175.9" r="4" fill="#3465a4"><title>South Australia #2</title></circle></a><a href="/setts/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/"><circle cx="134.5" cy="200.4" r="4" fill="#3465a4"><title>Denovan, The Lairdship of (Personal)</title></circle></a><a href="/setts/s13/dp3k3dp10k11g14db3g14k11w3lr3db15lr2w2~x2/"><circle cx="65.9" cy="168.5" r="4" fill="#3465a4"><title>North of Scotland Tartan Army</title></circle></a><a href="/setts/s11/r2k1dt8k7g8ly2g8k7dt8k1b2~x4/"><circle cx="102.4" cy="200.1" r="4" fill="#3465a4"><title>Adam Smith (Corporate)</title></circle></a><a href="/setts/s17/n3w2r2dp6dg10n3k3n3k3n3dg14n3k3n3k7dg2r3~x2/"><circle cx="115.9" cy="171.4" r="4" fill="#3465a4"><title>Lee Cox (Personal)</title></circle></a><circle cx="105.9" cy="186.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/dp4g14y2g4y2k6g3k6db13r2db4r4~x2/

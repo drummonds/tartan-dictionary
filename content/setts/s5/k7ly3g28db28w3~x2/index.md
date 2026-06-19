@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Turnbull, hunting
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -926,16 +935,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Turnbull Hunting (1983) #2](/setts/s5/k2ly1g10db10w1~x6/) — ΔT 0.79
 1. [Turnbull, hunting](/setts/s5/r7ly3g28db28w3~x2/) — ΔT 0.87
 1. [Dick (Personal)](/setts/s7/k5g30ly3b15k15b7w3~x2/) — ΔT 0.92
-1. [Inglis (Name)](/setts/s6/lo4db12r3db10g24lr4~x2/) — ΔT 0.93
+1. [Inglis (Name)](/setts/s6/lr4g24db10r3db12lo4~x2/) — ΔT 0.93
 1. [Turnbull Hunting (Name)](/setts/s5/r2ly1g10db10w1~x6/) — ΔT 0.96
-1. [Sanix Modern](/setts/s5/ly2g19k11db16r2~x2/) — ΔT 0.98
+1. [Sanix Modern](/setts/s5/r2db16k11g19ly2~x2/) — ΔT 0.98
 1. [MacThomas](/setts/s7/db3r2db22k11g24lp2g3~x2/) — ΔT 0.98
 1. [Irving of Bonshaw Tower](/setts/s6/r1g1k1g9db9w1~x6/) — ΔT 1.00
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k7m3g29db29w3~x2/"><circle cx="198.3" cy="204.9" r="4" fill="#3465a4"><title>Highlander, Highland Laddie Kilts</title></circle></a><a href="/setts/s5/k1t1g8db8w1~x4/"><circle cx="210.4" cy="211.8" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/setts/s5/k2ly1g10db10w1~x6/"><circle cx="215.5" cy="204.6" r="4" fill="#3465a4"><title>Turnbull Hunting (1983) #2</title></circle></a><a href="/setts/s5/r7ly3g28db28w3~x2/"><circle cx="207.2" cy="208.9" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><a href="/setts/s7/k5g30ly3b15k15b7w3~x2/"><circle cx="160.2" cy="190.7" r="4" fill="#3465a4"><title>Dick (Personal)</title></circle></a><a href="/setts/s6/lo4db12r3db10g24lr4~x2/"><circle cx="183.3" cy="208.9" r="4" fill="#3465a4"><title>Inglis (Name)</title></circle></a><a href="/setts/s5/r2ly1g10db10w1~x6/"><circle cx="220.9" cy="202.5" r="4" fill="#3465a4"><title>Turnbull Hunting (Name)</title></circle></a><a href="/setts/s5/ly2g19k11db16r2~x2/"><circle cx="135.8" cy="206.3" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/setts/s7/db3r2db22k11g24lp2g3~x2/"><circle cx="195.2" cy="176.2" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/setts/s6/r1g1k1g9db9w1~x6/"><circle cx="238.5" cy="190.3" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower</title></circle></a><circle cx="185.6" cy="202.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k7m3g29db29w3~x2/"><circle cx="198.4" cy="204.9" r="4" fill="#3465a4"><title>Highlander, Highland Laddie Kilts</title></circle></a><a href="/setts/s5/k1t1g8db8w1~x4/"><circle cx="210.4" cy="211.7" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/setts/s5/k2ly1g10db10w1~x6/"><circle cx="215.6" cy="204.5" r="4" fill="#3465a4"><title>Turnbull Hunting (1983) #2</title></circle></a><a href="/setts/s5/r7ly3g28db28w3~x2/"><circle cx="207.2" cy="208.8" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><a href="/setts/s7/k5g30ly3b15k15b7w3~x2/"><circle cx="160.2" cy="190.6" r="4" fill="#3465a4"><title>Dick (Personal)</title></circle></a><a href="/setts/s6/lr4g24db10r3db12lo4~x2/"><circle cx="183.4" cy="208.8" r="4" fill="#3465a4"><title>Inglis (Name)</title></circle></a><a href="/setts/s5/r2ly1g10db10w1~x6/"><circle cx="220.9" cy="202.5" r="4" fill="#3465a4"><title>Turnbull Hunting (Name)</title></circle></a><a href="/setts/s5/r2db16k11g19ly2~x2/"><circle cx="136.0" cy="206.3" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/setts/s7/db3r2db22k11g24lp2g3~x2/"><circle cx="195.3" cy="176.2" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/setts/s6/r1g1k1g9db9w1~x6/"><circle cx="238.4" cy="190.2" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower</title></circle></a><circle cx="185.7" cy="202.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/k7ly3g28db28w3~x2/

@@ -2,12 +2,18 @@
 title: "Campbell, the 42nd"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGK](/stripes/bkbkgk/) · **Stripes:** [DB K DB K G K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K DB K G K</span></span>
+**Bands:** [KGKBKB](/stripes/kgkbkb/) · **Stripes:** [K G K DB K DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K G K DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Campbell, the 42nd
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -889,7 +898,7 @@ External register numbers recorded for this tartan.
 Other setts woven to the same stripe pattern.
 
 - [Black Watch (variation)](/setts/s6/k5g23k18db21k33db3~x2/)
-- [Sutherland, 42nd](/setts/s6/db1k1db3k3g3k1~x4/)
+- [Sutherland, 42nd](/setts/s6/k1g3k3db3k1db1~x4/)
 - [Wartley Htg (Fashion)](/setts/s6/db4k2db16k10g18k3~x2/)
 
 
@@ -914,21 +923,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Sutherland, 42nd](/setts/s6/db1k1db3k3g3k1~x4/) — ΔT 0.73
+1. [Sutherland, 42nd](/setts/s6/k1g3k3db3k1db1~x4/) — ΔT 0.73
 1. [Wilson's, No 166](/setts/s6/t3g12k14t11k3t3~x2/) — ΔT 0.80
 1. [Unnamed 1](/setts/s5/k5g14k16db12g4~x2/) — ΔT 0.81
 1. [Campbell of Glenlyon](/setts/s5/g7k6db7k1db2~x2/) — ΔT 0.86
 1. [Strathspey](/setts/s7/k1g5k5db5k1db1k1~x4/) — ΔT 0.88
 1. [Unnamed, No 63](/setts/s7/k3g4k1g4k3db4k1~x2/) — ΔT 0.97
-1. [MacKay](/setts/s6/g3db14g2k14g14k3~x2/) — ΔT 1.00
-1. [Scottish Airports](/setts/s6/dp4dt18k17dt3g18dt4~x2/) — ΔT 1.20
+1. [MacKay](/setts/s6/k3g14k14g2db14g3~x2/) — ΔT 1.00
+1. [Scottish Airports](/setts/s6/dt4g18dt3k17dt18dp4~x2/) — ΔT 1.20
 1. [Denholme](/setts/s5/k2g8k7db8r2~x2/) — ΔT 1.20
 1. [MacCallum](/setts/s7/k6g6r1g6k6db6k1~x2/) — ΔT 1.22
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db1k1db3k3g3k1~x4/"><circle cx="148.3" cy="306.9" r="4" fill="#3465a4"><title>Sutherland, 42nd</title></circle></a><a href="/setts/s6/t3g12k14t11k3t3~x2/"><circle cx="145.2" cy="267.7" r="4" fill="#3465a4"><title>Wilson's, No 166</title></circle></a><a href="/setts/s5/k5g14k16db12g4~x2/"><circle cx="156.6" cy="310.9" r="4" fill="#3465a4"><title>Unnamed 1</title></circle></a><a href="/setts/s5/g7k6db7k1db2~x2/"><circle cx="178.8" cy="276.7" r="4" fill="#3465a4"><title>Campbell of Glenlyon</title></circle></a><a href="/setts/s7/k1g5k5db5k1db1k1~x4/"><circle cx="188.7" cy="257.5" r="4" fill="#3465a4"><title>Strathspey</title></circle></a><a href="/setts/s7/k3g4k1g4k3db4k1~x2/"><circle cx="139.9" cy="297.1" r="4" fill="#3465a4"><title>Unnamed, No 63</title></circle></a><a href="/setts/s6/g3db14g2k14g14k3~x2/"><circle cx="179.4" cy="254.8" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/setts/s6/dp4dt18k17dt3g18dt4~x2/"><circle cx="162.0" cy="252.7" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/setts/s5/k2g8k7db8r2~x2/"><circle cx="98.3" cy="279.7" r="4" fill="#3465a4"><title>Denholme</title></circle></a><a href="/setts/s7/k6g6r1g6k6db6k1~x2/"><circle cx="141.0" cy="258.0" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><circle cx="154.3" cy="285.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k1g3k3db3k1db1~x4/"><circle cx="148.7" cy="306.7" r="4" fill="#3465a4"><title>Sutherland, 42nd</title></circle></a><a href="/setts/s6/t3g12k14t11k3t3~x2/"><circle cx="145.4" cy="267.6" r="4" fill="#3465a4"><title>Wilson's, No 166</title></circle></a><a href="/setts/s5/k5g14k16db12g4~x2/"><circle cx="157.0" cy="310.8" r="4" fill="#3465a4"><title>Unnamed 1</title></circle></a><a href="/setts/s5/g7k6db7k1db2~x2/"><circle cx="179.1" cy="276.5" r="4" fill="#3465a4"><title>Campbell of Glenlyon</title></circle></a><a href="/setts/s7/k1g5k5db5k1db1k1~x4/"><circle cx="189.0" cy="257.4" r="4" fill="#3465a4"><title>Strathspey</title></circle></a><a href="/setts/s7/k3g4k1g4k3db4k1~x2/"><circle cx="140.2" cy="296.9" r="4" fill="#3465a4"><title>Unnamed, No 63</title></circle></a><a href="/setts/s6/k3g14k14g2db14g3~x2/"><circle cx="179.6" cy="254.7" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/setts/s6/dt4g18dt3k17dt18dp4~x2/"><circle cx="162.3" cy="252.7" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/setts/s5/k2g8k7db8r2~x2/"><circle cx="98.7" cy="279.6" r="4" fill="#3465a4"><title>Denholme</title></circle></a><a href="/setts/s7/k6g6r1g6k6db6k1~x2/"><circle cx="141.3" cy="257.8" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><circle cx="154.6" cy="285.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db6k6db18k18g22k5/

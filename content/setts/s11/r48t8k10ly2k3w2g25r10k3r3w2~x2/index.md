@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1212
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Follower's, Plaid
+- Followers' Plaid
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -319,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -925,8 +935,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r47g16k8w3ly3r2ly3w3db6k3r4ly4w3~x2/"><circle cx="254.9" cy="51.5" r="4" fill="#3465a4"><title>MacGill Clan Tartan Tartan Number: 1487. Earliest known date: pre 1745 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. One can assume that the sample dates between 1930 and 1950. The family tartan, which originated with the MacGills of Jura, was in use before 1745 but when tartan was proscribed the sett seemed to have been lost until a piece was discovered in Kintyre. It is now in the Museum of Antiquities, Edinburgh. The current version, which first appeared in 1930, is known as the MacGill Society tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/k3r24k4ly1k2w1db4dg6r3k1r2w1~x4/"><circle cx="305.7" cy="64.5" r="4" fill="#3465a4"><title>Stewart of Galloway - 1842 (Clan)</title></circle></a><a href="/setts/s9/r41w2p5ly2g21r9p5db3w2~x2/"><circle cx="309.5" cy="94.9" r="4" fill="#3465a4"><title>Perthshire, or Drummond</title></circle></a><a href="/setts/s12/r26w1k8ly1dg13k1w4k1ly2k4t3r8~x4/"><circle cx="230.0" cy="67.5" r="4" fill="#3465a4"><title>Drummond Relic</title></circle></a><a href="/setts/s11/t14k8ly2k3w4k3dg21r48t4r5k3~x2/"><circle cx="233.9" cy="74.4" r="4" fill="#3465a4"><title>MacLean of Duart #5</title></circle></a><a href="/setts/s9/w2r2db14g16ly2k2g2r35g1~x2/"><circle cx="289.8" cy="76.7" r="4" fill="#3465a4"><title>King (Austria) (Personal)</title></circle></a><a href="/setts/s11/t4k2db3r33g9w3r5db10r6g2k2~x2/"><circle cx="288.1" cy="96.9" r="4" fill="#3465a4"><title>MacArthur-Fox Dress (Personal)</title></circle></a><a href="/setts/s9/r41w2dp5ly2g21r9dp5db3w2~x2/"><circle cx="316.5" cy="97.2" r="4" fill="#3465a4"><title>Perthshire or Drummond District Tartan Tartan Number: 1670. Earliest known date: c.1819 Perthshire is known as the gateway to the Highlands. The Perthshire tartan is similar to a the Drummond sett, the tartan of a Drummond clan who had extensive lands in the district. The first record of this tartan is in the early nineteenth century account book of Wilson's of Bannockburn where it is referred to as the 'Perthshire Rock and Wheel' being an early type of soft tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/db3r2db2r35lo2db3k2db5k4g13k1w3~x2/"><circle cx="280.6" cy="50.3" r="4" fill="#3465a4"><title>Celtic Nations (Fashion)</title></circle></a><a href="/setts/s14/r20w6r100db15k10db15k40ly5dg54r15k5r15k6w8/"><circle cx="225.8" cy="77.2" r="4" fill="#3465a4"><title>Unidentified Bedspread</title></circle></a><circle cx="281.9" cy="76.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r47g16k8w3ly3r2ly3w3db6k3r4ly4w3~x2/"><circle cx="254.5" cy="51.5" r="4" fill="#3465a4"><title>MacGill Clan Tartan Tartan Number: 1487. Earliest known date: pre 1745 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. One can assume that the sample dates between 1930 and 1950. The family tartan, which originated with the MacGills of Jura, was in use before 1745 but when tartan was proscribed the sett seemed to have been lost until a piece was discovered in Kintyre. It is now in the Museum of Antiquities, Edinburgh. The current version, which first appeared in 1930, is known as the MacGill Society tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/k3r24k4ly1k2w1db4dg6r3k1r2w1~x4/"><circle cx="305.3" cy="64.5" r="4" fill="#3465a4"><title>Stewart of Galloway - 1842 (Clan)</title></circle></a><a href="/setts/s9/r41w2p5ly2g21r9p5db3w2~x2/"><circle cx="309.1" cy="94.9" r="4" fill="#3465a4"><title>Perthshire, or Drummond</title></circle></a><a href="/setts/s12/r26w1k8ly1dg13k1w4k1ly2k4t3r8~x4/"><circle cx="229.7" cy="67.6" r="4" fill="#3465a4"><title>Drummond Relic</title></circle></a><a href="/setts/s11/t14k8ly2k3w4k3dg21r48t4r5k3~x2/"><circle cx="233.6" cy="74.5" r="4" fill="#3465a4"><title>MacLean of Duart #5</title></circle></a><a href="/setts/s9/w2r2db14g16ly2k2g2r35g1~x2/"><circle cx="289.5" cy="76.8" r="4" fill="#3465a4"><title>King (Austria) (Personal)</title></circle></a><a href="/setts/s11/t4k2db3r33g9w3r5db10r6g2k2~x2/"><circle cx="287.7" cy="96.9" r="4" fill="#3465a4"><title>MacArthur-Fox Dress (Personal)</title></circle></a><a href="/setts/s9/r41w2dp5ly2g21r9dp5db3w2~x2/"><circle cx="316.1" cy="97.2" r="4" fill="#3465a4"><title>Perthshire or Drummond District Tartan Tartan Number: 1670. Earliest known date: c.1819 Perthshire is known as the gateway to the Highlands. The Perthshire tartan is similar to a the Drummond sett, the tartan of a Drummond clan who had extensive lands in the district. The first record of this tartan is in the early nineteenth century account book of Wilson's of Bannockburn where it is referred to as the 'Perthshire Rock and Wheel' being an early type of soft tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/db3r2db2r35lo2db3k2db5k4g13k1w3~x2/"><circle cx="280.3" cy="50.3" r="4" fill="#3465a4"><title>Celtic Nations (Fashion)</title></circle></a><a href="/setts/s14/r20w6r100db15k10db15k40ly5dg54r15k5r15k6w8/"><circle cx="225.6" cy="77.3" r="4" fill="#3465a4"><title>Unidentified Bedspread</title></circle></a><circle cx="281.6" cy="76.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/r48t8k10ly2k3w2g25r10k3r3w2~x2/

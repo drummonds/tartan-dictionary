@@ -18,7 +18,7 @@ WBKBGKWKGKW
 
 
 
-### LB DP K DP Y K LB K Y K LB <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB DP K DP Y K LB K Y K LB</span></span>
+### LB K Y K LB K Y DP K DP LB <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB K Y K LB K Y DP K DP LB</span></span>
 
 | Tartans |
 |---------------|

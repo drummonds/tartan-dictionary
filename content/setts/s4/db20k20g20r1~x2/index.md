@@ -2,7 +2,7 @@
 title: "Gunn (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKGR](/stripes/bkgr/) · **Stripes:** [DB K G R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K G R</span></span>
+**Bands:** [RGKB](/stripes/rgkb/) · **Stripes:** [R G K DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R G K DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
@@ -41,18 +41,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Gunn (2011) Personal Tartan Tartan Number: 10459. Earliest known date: 17th July 2011 This is a variation on the original Gunn tartan, created in memory of the designer's grandfather, William Jesse Gunn and intended principally for the designer and his immediate family. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/b20k20g20r1~x2/) — ΔT 1.01
 1. [Wilson's Folio 131](/setts/s5/db12k17dg19w2k5~x2/) — ΔT 1.40
 1. [Landels (Personal)](/setts/s5/db31g2k20ly2g24~x2/) — ΔT 1.54
-1. [Gunn](/setts/s6/g2db12g1k12g12r2~x2/) — ΔT 1.57
+1. [Gunn](/setts/s6/r2g12k12g1db12g2~x2/) — ΔT 1.57
 1. [Glenturret Distillery](/setts/s6/lo4db24g3k21g23k1~x2/) — ΔT 1.58
-1. [Graham of Montrose](/setts/s6/dg4db15w2k16dg19k4~x2/) — ΔT 1.62
+1. [Graham of Montrose](/setts/s6/k4dg19k16w2db15dg4~x2/) — ΔT 1.62
 1. [Dundas #2](/setts/s7/k4db16k12g12r1g2k2~x2/) — ΔT 1.66
 1. [Louisville Spaulding (Personal)](/setts/s5/k20db50g50r3k3~x2/) — ΔT 1.69
 1. [Corey in Balachuirn](/setts/s5/b32do16dg3o4k28~x2/) — ΔT 1.71
-1. [Ferguson of Balquhidder](/setts/s6/dg2db12r1k12dg12k2~x2/) — ΔT 1.72
+1. [Ferguson of Balquhidder](/setts/s6/k2dg12k12r1db12dg2~x2/) — ΔT 1.72
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/b20k20g20r1~x2/"><circle cx="201.6" cy="247.5" r="4" fill="#3465a4"><title>Gunn (2011) Personal Tartan Tartan Number: 10459. Earliest known date: 17th July 2011 This is a variation on the original Gunn tartan, created in memory of the designer's grandfather, William Jesse Gunn and intended principally for the designer and his immediate family. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/db12k17dg19w2k5~x2/"><circle cx="222.4" cy="268.2" r="4" fill="#3465a4"><title>Wilson's Folio 131</title></circle></a><a href="/setts/s5/db31g2k20ly2g24~x2/"><circle cx="218.5" cy="213.6" r="4" fill="#3465a4"><title>Landels (Personal)</title></circle></a><a href="/setts/s6/g2db12g1k12g12r2~x2/"><circle cx="216.4" cy="230.6" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/setts/s6/lo4db24g3k21g23k1~x2/"><circle cx="225.9" cy="198.5" r="4" fill="#3465a4"><title>Glenturret Distillery</title></circle></a><a href="/setts/s6/dg4db15w2k16dg19k4~x2/"><circle cx="222.7" cy="254.1" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/setts/s7/k4db16k12g12r1g2k2~x2/"><circle cx="248.6" cy="216.6" r="4" fill="#3465a4"><title>Dundas #2</title></circle></a><a href="/setts/s5/k20db50g50r3k3~x2/"><circle cx="255.4" cy="220.7" r="4" fill="#3465a4"><title>Louisville Spaulding (Personal)</title></circle></a><a href="/setts/s5/b32do16dg3o4k28~x2/"><circle cx="199.2" cy="229.4" r="4" fill="#3465a4"><title>Corey in Balachuirn</title></circle></a><a href="/setts/s6/dg2db12r1k12dg12k2~x2/"><circle cx="249.9" cy="250.8" r="4" fill="#3465a4"><title>Ferguson of Balquhidder</title></circle></a><circle cx="226.8" cy="259.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/b20k20g20r1~x2/"><circle cx="201.8" cy="247.5" r="4" fill="#3465a4"><title>Gunn (2011) Personal Tartan Tartan Number: 10459. Earliest known date: 17th July 2011 This is a variation on the original Gunn tartan, created in memory of the designer's grandfather, William Jesse Gunn and intended principally for the designer and his immediate family. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/db12k17dg19w2k5~x2/"><circle cx="222.6" cy="268.2" r="4" fill="#3465a4"><title>Wilson's Folio 131</title></circle></a><a href="/setts/s5/db31g2k20ly2g24~x2/"><circle cx="218.7" cy="213.6" r="4" fill="#3465a4"><title>Landels (Personal)</title></circle></a><a href="/setts/s6/r2g12k12g1db12g2~x2/"><circle cx="216.6" cy="230.6" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/setts/s6/lo4db24g3k21g23k1~x2/"><circle cx="226.1" cy="198.5" r="4" fill="#3465a4"><title>Glenturret Distillery</title></circle></a><a href="/setts/s6/k4dg19k16w2db15dg4~x2/"><circle cx="222.9" cy="254.1" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/setts/s7/k4db16k12g12r1g2k2~x2/"><circle cx="248.7" cy="216.6" r="4" fill="#3465a4"><title>Dundas #2</title></circle></a><a href="/setts/s5/k20db50g50r3k3~x2/"><circle cx="255.6" cy="220.7" r="4" fill="#3465a4"><title>Louisville Spaulding (Personal)</title></circle></a><a href="/setts/s5/b32do16dg3o4k28~x2/"><circle cx="199.4" cy="229.4" r="4" fill="#3465a4"><title>Corey in Balachuirn</title></circle></a><a href="/setts/s6/k2dg12k12r1db12dg2~x2/"><circle cx="250.1" cy="250.9" r="4" fill="#3465a4"><title>Ferguson of Balquhidder</title></circle></a><circle cx="227.0" cy="259.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/db20k20g20r1~x2/

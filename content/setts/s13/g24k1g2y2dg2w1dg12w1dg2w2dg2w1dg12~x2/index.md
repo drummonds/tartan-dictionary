@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DG/24 LN2 DG4 LN4 DG4 LN2 DG24 LN2 DG4 LG4 G4 K2 G/48
+G/48 K2 G4 LG4 DG4 LN2 DG24 LN2 DG4 LN4 DG4 LN2 DG/24
 ![Sett](sett.png)
 
 ## Palette
@@ -905,19 +908,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Currie of Balilone Family Tartan Tartan Number: 778. Earliest known date: 1822 Granted by charter in 1822 to Currie of Balilone, by MacDonald, Lord of the Isles. The sett is based on the Lord of the Isles and the design is attributed to the Chief. The tartan is available to all members of the Clan Currie Society. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/g24k1g2ly2dg2w1dg12w1dg2w2dg2w1dg12~x2/) — ΔT 0.81
 1. [Montgomery, Stuart (Personal)](/setts/s10/db6g24k1w2k1g24g24w3k1w3~x2/) — ΔT 1.32
-1. [Lorne, Marquis of #2](/setts/s18/db10dg10g8dg46g3dg3g55ly4g5w4g5r4g55dg3g3dg46g8dg10~x2/) — ΔT 1.33
+1. [Lorne, Marquis of #2](/setts/s18/dg10g8dg46g3dg3g55r4g5w4g5ly4g55dg3g3dg46g8dg10db10~x2/) — ΔT 1.33
 1. [Gray, hunting](/setts/s11/k3w1g29y8r2y2r2y2r8g7k2~x2/) — ΔT 1.34
 1. [King Edward VII](/setts/s17/ly8g84db21k10db10k10db10k10db21g62r3g6r3g10ly3g5r6~x2/) — ΔT 1.36
 1. [Irish National District Tartan Tartan Number: 2245. Earliest known date: 1992 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar in association with John and Joan (Jo) Nisbet of Piper's Cove in New Jersey USA. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s19/g36dg5ly5dg9k5w5dg2g7dg1ly2dg1g7dg2w5k5dg9ly5dg5g17~x2/) — ΔT 1.38
-1. [160th SOAR(A) Night Stalkers (Mil.)](/setts/s9/k2b8k6g35k8lo2w2k2lo2~x2/) — ΔT 1.38
+1. [160th SOAR(A) Night Stalkers (Mil.)](/setts/s9/k2b8k6g35k8lo2w2k2lo2~x2/) — ΔT 1.39
 1. [University of North Texas](/setts/s11/k1g3w3g15k1g3g2k1g1g1w1~x2/) — ΔT 1.39
 1. [West Lothian/Linlithgowshire](/setts/s9/g40k8g4k8g4m14g64t9g3/) — ΔT 1.45
 1. [Reilly fae the Mearns (Personal)](/setts/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/) — ΔT 1.46
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g24k1g2ly2dg2w1dg12w1dg2w2dg2w1dg12~x2/"><circle cx="301.5" cy="117.9" r="4" fill="#3465a4"><title>Currie of Balilone Family Tartan Tartan Number: 778. Earliest known date: 1822 Granted by charter in 1822 to Currie of Balilone, by MacDonald, Lord of the Isles. The sett is based on the Lord of the Isles and the design is attributed to the Chief. The tartan is available to all members of the Clan Currie Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/db6g24k1w2k1g24g24w3k1w3~x2/"><circle cx="295.8" cy="132.6" r="4" fill="#3465a4"><title>Montgomery, Stuart (Personal)</title></circle></a><a href="/setts/s18/db10dg10g8dg46g3dg3g55ly4g5w4g5r4g55dg3g3dg46g8dg10~x2/"><circle cx="262.5" cy="95.0" r="4" fill="#3465a4"><title>Lorne, Marquis of #2</title></circle></a><a href="/setts/s11/k3w1g29y8r2y2r2y2r8g7k2~x2/"><circle cx="312.9" cy="105.2" r="4" fill="#3465a4"><title>Gray, hunting</title></circle></a><a href="/setts/s17/ly8g84db21k10db10k10db10k10db21g62r3g6r3g10ly3g5r6~x2/"><circle cx="321.7" cy="89.4" r="4" fill="#3465a4"><title>King Edward VII</title></circle></a><a href="/setts/s19/g36dg5ly5dg9k5w5dg2g7dg1ly2dg1g7dg2w5k5dg9ly5dg5g17~x2/"><circle cx="268.4" cy="88.8" r="4" fill="#3465a4"><title>Irish National District Tartan Tartan Number: 2245. Earliest known date: 1992 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar in association with John and Joan (Jo) Nisbet of Piper's Cove in New Jersey USA. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/k2b8k6g35k8lo2w2k2lo2~x2/"><circle cx="291.3" cy="134.7" r="4" fill="#3465a4"><title>160th SOAR(A) Night Stalkers (Mil.)</title></circle></a><a href="/setts/s11/k1g3w3g15k1g3g2k1g1g1w1~x2/"><circle cx="283.3" cy="124.4" r="4" fill="#3465a4"><title>University of North Texas</title></circle></a><a href="/setts/s9/g40k8g4k8g4m14g64t9g3/"><circle cx="231.5" cy="134.4" r="4" fill="#3465a4"><title>West Lothian/Linlithgowshire</title></circle></a><a href="/setts/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/"><circle cx="289.5" cy="75.6" r="4" fill="#3465a4"><title>Reilly fae the Mearns (Personal)</title></circle></a><circle cx="285.9" cy="110.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g24k1g2ly2dg2w1dg12w1dg2w2dg2w1dg12~x2/"><circle cx="301.3" cy="118.0" r="4" fill="#3465a4"><title>Currie of Balilone Family Tartan Tartan Number: 778. Earliest known date: 1822 Granted by charter in 1822 to Currie of Balilone, by MacDonald, Lord of the Isles. The sett is based on the Lord of the Isles and the design is attributed to the Chief. The tartan is available to all members of the Clan Currie Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/db6g24k1w2k1g24g24w3k1w3~x2/"><circle cx="295.6" cy="132.6" r="4" fill="#3465a4"><title>Montgomery, Stuart (Personal)</title></circle></a><a href="/setts/s18/dg10g8dg46g3dg3g55r4g5w4g5ly4g55dg3g3dg46g8dg10db10~x2/"><circle cx="262.3" cy="95.0" r="4" fill="#3465a4"><title>Lorne, Marquis of #2</title></circle></a><a href="/setts/s11/k3w1g29y8r2y2r2y2r8g7k2~x2/"><circle cx="312.6" cy="105.1" r="4" fill="#3465a4"><title>Gray, hunting</title></circle></a><a href="/setts/s17/ly8g84db21k10db10k10db10k10db21g62r3g6r3g10ly3g5r6~x2/"><circle cx="321.4" cy="89.3" r="4" fill="#3465a4"><title>King Edward VII</title></circle></a><a href="/setts/s19/g36dg5ly5dg9k5w5dg2g7dg1ly2dg1g7dg2w5k5dg9ly5dg5g17~x2/"><circle cx="268.2" cy="88.8" r="4" fill="#3465a4"><title>Irish National District Tartan Tartan Number: 2245. Earliest known date: 1992 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar in association with John and Joan (Jo) Nisbet of Piper's Cove in New Jersey USA. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/k2b8k6g35k8lo2w2k2lo2~x2/"><circle cx="291.2" cy="134.7" r="4" fill="#3465a4"><title>160th SOAR(A) Night Stalkers (Mil.)</title></circle></a><a href="/setts/s11/k1g3w3g15k1g3g2k1g1g1w1~x2/"><circle cx="283.1" cy="124.3" r="4" fill="#3465a4"><title>University of North Texas</title></circle></a><a href="/setts/s9/g40k8g4k8g4m14g64t9g3/"><circle cx="231.3" cy="134.4" r="4" fill="#3465a4"><title>West Lothian/Linlithgowshire</title></circle></a><a href="/setts/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/"><circle cx="289.3" cy="75.6" r="4" fill="#3465a4"><title>Reilly fae the Mearns (Personal)</title></circle></a><circle cx="285.7" cy="110.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/g24k1g2y2dg2w1dg12w1dg2w2dg2w1dg12~x2/

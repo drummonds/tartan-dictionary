@@ -2,7 +2,7 @@
 title: "State Seal of Iowa (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BBBWBRGY](/stripes/bbbwbrgy/) · **Stripes:** [DT B DT LB B R DY LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DT B DT LB B R DY LO</span></span>
+**Bands:** [YGRBWBBB](/stripes/ygrbwbbb/) · **Stripes:** [LO DY R B LB DT B DT](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="seq">LO DY R B LB DT B DT</span></span>
 
 
 This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/
 Original link http://www.tartansauthority.com/tartan-ferret/display/8629/
 
 ## Thread count
-DB/10 B86 DB36 LR8 B12 DR10 T50 DY/10
+DY/10 T50 DR10 B12 LR8 DB36 B86 DB/10
 ![Sett](sett.png)
 
 ## Palette
@@ -27,7 +27,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/10 B86 DB36 LR8 B12 DR10 T50 DY/10 tartan")
+![Tartan detail](tartan.png "DY/10 T50 DR10 B12 LR8 DB36 B86 DB/10 tartan")
 
 ## Nearest tartans
 
@@ -38,16 +38,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Blairmore House](/setts/s8/db17w2db2r2db2do12dg16lo3~x4/) — ΔT 1.11
 1. [State Seal of North Dakota (Fashion)](/setts/s11/g37dp5g5dp12b10db5b5db40dy4db4lo4~x2/) — ΔT 1.12
 1. [Ayrshire District Tartan Tartan Number: 436. Earliest known date: 1988 Dr Phil Smith, a Fellow of the Scottish Tartans Society, designed the Ayrshire district tartan at the suggestion of the Clan Boyd and Clan Cunningham Societies. In his book, 'District Tartans' (1992) co-authored with Dr G Teall, he says, the colours "..reflect the gold of the rising sun, the green of the land and brown of the coast, the blue of the sea and the red of the setting sun. The Ayrshire tartan is intended for those with connections in the districts of Kyle, Cunninghame and Inverclyde." See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/db2r1db10w1dy4g8ly1g2~x4/) — ΔT 1.18
-1. [State Seal of Michigan (Fashion)](/setts/s6/lb4b38n19lo6do27r4~x2/) — ΔT 1.18
+1. [State Seal of Michigan (Fashion)](/setts/s6/r4do27lo6n19b38lb4~x2/) — ΔT 1.18
 1. [Suzugamine (Corporate)](/setts/s9/db4dy5g19dp5dy5k5dy5db36ly3~x2/) — ΔT 1.18
 1. [Blairmore House (Corporate)](/setts/s8/db17lb2db2r2db2do12dg16lo3~x4/) — ΔT 1.20
 1. [Allman-Jones (Personal)](/setts/s7/r3w2y7n25k8y15dg2~x2/) — ΔT 1.21
-1. [Glen Lyon (Fashion)](/setts/s7/lo3n14k5w1o11db1o3~x4/) — ΔT 1.22
+1. [Glen Lyon (Fashion)](/setts/s7/o3db1o11w1k5n14lo3~x4/) — ΔT 1.22
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dg10w2dt3g2m14dt26dg2dt6~x2/"><circle cx="252.4" cy="167.6" r="4" fill="#3465a4"><title>Spirit of Fife (Corporate)</title></circle></a><a href="/setts/s9/dg3lo2m10dg10b20dg12r3b10w2~x2/"><circle cx="185.7" cy="189.6" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/setts/s8/db17w2db2r2db2do12dg16lo3~x4/"><circle cx="176.7" cy="189.5" r="4" fill="#3465a4"><title>Blairmore House</title></circle></a><a href="/setts/s11/g37dp5g5dp12b10db5b5db40dy4db4lo4~x2/"><circle cx="194.7" cy="161.8" r="4" fill="#3465a4"><title>State Seal of North Dakota (Fashion)</title></circle></a><a href="/setts/s8/db2r1db10w1dy4g8ly1g2~x4/"><circle cx="191.1" cy="172.8" r="4" fill="#3465a4"><title>Ayrshire District Tartan Tartan Number: 436. Earliest known date: 1988 Dr Phil Smith, a Fellow of the Scottish Tartans Society, designed the Ayrshire district tartan at the suggestion of the Clan Boyd and Clan Cunningham Societies. In his book, 'District Tartans' (1992) co-authored with Dr G Teall, he says, the colours &quot;..reflect the gold of the rising sun, the green of the land and brown of the coast, the blue of the sea and the red of the setting sun. The Ayrshire tartan is intended for those with connections in the districts of Kyle, Cunninghame and Inverclyde.&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/lb4b38n19lo6do27r4~x2/"><circle cx="173.7" cy="195.3" r="4" fill="#3465a4"><title>State Seal of Michigan (Fashion)</title></circle></a><a href="/setts/s9/db4dy5g19dp5dy5k5dy5db36ly3~x2/"><circle cx="224.3" cy="156.0" r="4" fill="#3465a4"><title>Suzugamine (Corporate)</title></circle></a><a href="/setts/s8/db17lb2db2r2db2do12dg16lo3~x4/"><circle cx="193.4" cy="198.3" r="4" fill="#3465a4"><title>Blairmore House (Corporate)</title></circle></a><a href="/setts/s7/r3w2y7n25k8y15dg2~x2/"><circle cx="214.2" cy="174.0" r="4" fill="#3465a4"><title>Allman-Jones (Personal)</title></circle></a><a href="/setts/s7/lo3n14k5w1o11db1o3~x4/"><circle cx="181.6" cy="163.9" r="4" fill="#3465a4"><title>Glen Lyon (Fashion)</title></circle></a><circle cx="219.7" cy="176.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dg10w2dt3g2m14dt26dg2dt6~x2/"><circle cx="252.4" cy="167.7" r="4" fill="#3465a4"><title>Spirit of Fife (Corporate)</title></circle></a><a href="/setts/s9/dg3lo2m10dg10b20dg12r3b10w2~x2/"><circle cx="185.8" cy="189.7" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/setts/s8/db17w2db2r2db2do12dg16lo3~x4/"><circle cx="176.9" cy="189.6" r="4" fill="#3465a4"><title>Blairmore House</title></circle></a><a href="/setts/s11/g37dp5g5dp12b10db5b5db40dy4db4lo4~x2/"><circle cx="194.7" cy="162.0" r="4" fill="#3465a4"><title>State Seal of North Dakota (Fashion)</title></circle></a><a href="/setts/s8/db2r1db10w1dy4g8ly1g2~x4/"><circle cx="191.2" cy="172.9" r="4" fill="#3465a4"><title>Ayrshire District Tartan Tartan Number: 436. Earliest known date: 1988 Dr Phil Smith, a Fellow of the Scottish Tartans Society, designed the Ayrshire district tartan at the suggestion of the Clan Boyd and Clan Cunningham Societies. In his book, 'District Tartans' (1992) co-authored with Dr G Teall, he says, the colours &quot;..reflect the gold of the rising sun, the green of the land and brown of the coast, the blue of the sea and the red of the setting sun. The Ayrshire tartan is intended for those with connections in the districts of Kyle, Cunninghame and Inverclyde.&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r4do27lo6n19b38lb4~x2/"><circle cx="173.8" cy="195.4" r="4" fill="#3465a4"><title>State Seal of Michigan (Fashion)</title></circle></a><a href="/setts/s9/db4dy5g19dp5dy5k5dy5db36ly3~x2/"><circle cx="224.3" cy="156.1" r="4" fill="#3465a4"><title>Suzugamine (Corporate)</title></circle></a><a href="/setts/s8/db17lb2db2r2db2do12dg16lo3~x4/"><circle cx="193.6" cy="198.5" r="4" fill="#3465a4"><title>Blairmore House (Corporate)</title></circle></a><a href="/setts/s7/r3w2y7n25k8y15dg2~x2/"><circle cx="214.2" cy="174.1" r="4" fill="#3465a4"><title>Allman-Jones (Personal)</title></circle></a><a href="/setts/s7/o3db1o11w1k5n14lo3~x4/"><circle cx="181.5" cy="164.0" r="4" fill="#3465a4"><title>Glen Lyon (Fashion)</title></circle></a><circle cx="219.6" cy="176.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/dt5b43dt18lb4b6r5dy25lo5~x2/

@@ -2,12 +2,19 @@
 title: "Hebridean, South Uist"
 date: 2023-03-18
 ---
-**Bands:** [GRKRGRKRKR](/stripes/grkrgrkrkr/) · **Stripes:** [G R K R G R K R K R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">G R K R G R K R K R</span></span>
+**Bands:** [RKRKRGRKRG](/stripes/rkrkrgrkrg/) · **Stripes:** [R K R K R G R K R G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K R K R G R K R G</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Hebridean, South Uist
+- Hebrides South Uist #3
 
 ## Attestations
 
@@ -318,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -914,15 +924,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Campbell 'Camel'](/setts/s10/do1lr2k5do3k1o4k1o10k1o1~x4/) — ΔT 1.22
 1. [Oregon State University](/setts/s11/k6o8k13w1o11k1o11w4k2o1k2~x2/) — ΔT 1.28
 1. [Nicolson](/setts/s12/k10r12g3r12k2r12g3r12g20r2k8t2/) — ΔT 1.30
-1. [Robieson QAHS (Fashion)](/setts/s13/k1db1k8ly1k1ly8db1r8k1r1k8db1k1~x6/) — ΔT 1.33
+1. [Robieson QAHS (Fashion)](/setts/s13/k1db1k8r1k1r8db1ly8k1ly1k8db1k1~x6/) — ΔT 1.33
 1. [Alexander](/setts/s9/r12db2r4db4k15g4r4g2r12~x2/) — ΔT 1.36
 1. [Montrose](/setts/s9/db1k1r12g12k6db5r12k1db1~x2/) — ΔT 1.36
 1. [MacQuarrie, Ancient](/setts/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/) — ΔT 1.40
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/y20k2y3k2y4k9r18k2r5k2r9~x2/"><circle cx="231.3" cy="172.7" r="4" fill="#3465a4"><title>Aubigny, Auld Alliance</title></circle></a><a href="/setts/s10/k10t1k1r10t1k1t1r10g6r2~x2/"><circle cx="248.2" cy="161.0" r="4" fill="#3465a4"><title>Scoepaig, fragment</title></circle></a><a href="/setts/s9/ly20k2ly3k2ly4k9r18k2r5~x2/"><circle cx="223.3" cy="173.2" r="4" fill="#3465a4"><title>Aubigny</title></circle></a><a href="/setts/s10/do1lr2k5do3k1o4k1o10k1o1~x4/"><circle cx="241.7" cy="162.1" r="4" fill="#3465a4"><title>Campbell 'Camel'</title></circle></a><a href="/setts/s11/k6o8k13w1o11k1o11w4k2o1k2~x2/"><circle cx="270.0" cy="168.5" r="4" fill="#3465a4"><title>Oregon State University</title></circle></a><a href="/setts/s12/k10r12g3r12k2r12g3r12g20r2k8t2/"><circle cx="227.3" cy="176.9" r="4" fill="#3465a4"><title>Nicolson</title></circle></a><a href="/setts/s13/k1db1k8ly1k1ly8db1r8k1r1k8db1k1~x6/"><circle cx="215.3" cy="150.9" r="4" fill="#3465a4"><title>Robieson QAHS (Fashion)</title></circle></a><a href="/setts/s9/r12db2r4db4k15g4r4g2r12~x2/"><circle cx="243.2" cy="195.1" r="4" fill="#3465a4"><title>Alexander</title></circle></a><a href="/setts/s9/db1k1r12g12k6db5r12k1db1~x2/"><circle cx="227.1" cy="168.9" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/setts/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/"><circle cx="259.1" cy="171.2" r="4" fill="#3465a4"><title>MacQuarrie, Ancient</title></circle></a><circle cx="254.6" cy="187.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/y20k2y3k2y4k9r18k2r5k2r9~x2/"><circle cx="231.0" cy="172.6" r="4" fill="#3465a4"><title>Aubigny, Auld Alliance</title></circle></a><a href="/setts/s10/k10t1k1r10t1k1t1r10g6r2~x2/"><circle cx="248.1" cy="160.9" r="4" fill="#3465a4"><title>Scoepaig, fragment</title></circle></a><a href="/setts/s9/ly20k2ly3k2ly4k9r18k2r5~x2/"><circle cx="223.1" cy="173.0" r="4" fill="#3465a4"><title>Aubigny</title></circle></a><a href="/setts/s10/do1lr2k5do3k1o4k1o10k1o1~x4/"><circle cx="241.6" cy="162.0" r="4" fill="#3465a4"><title>Campbell 'Camel'</title></circle></a><a href="/setts/s11/k6o8k13w1o11k1o11w4k2o1k2~x2/"><circle cx="269.7" cy="168.2" r="4" fill="#3465a4"><title>Oregon State University</title></circle></a><a href="/setts/s12/k10r12g3r12k2r12g3r12g20r2k8t2/"><circle cx="227.1" cy="176.8" r="4" fill="#3465a4"><title>Nicolson</title></circle></a><a href="/setts/s13/k1db1k8r1k1r8db1ly8k1ly1k8db1k1~x6/"><circle cx="215.2" cy="150.8" r="4" fill="#3465a4"><title>Robieson QAHS (Fashion)</title></circle></a><a href="/setts/s9/r12db2r4db4k15g4r4g2r12~x2/"><circle cx="243.1" cy="195.0" r="4" fill="#3465a4"><title>Alexander</title></circle></a><a href="/setts/s9/db1k1r12g12k6db5r12k1db1~x2/"><circle cx="227.0" cy="168.9" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/setts/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/"><circle cx="258.9" cy="171.1" r="4" fill="#3465a4"><title>MacQuarrie, Ancient</title></circle></a><circle cx="254.4" cy="187.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/g8r1k1r8g1r8k1r1k8r1~x6/

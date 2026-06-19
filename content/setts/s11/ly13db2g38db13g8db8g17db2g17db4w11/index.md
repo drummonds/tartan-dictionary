@@ -2,7 +2,7 @@
 title: "Bute Heather, Glencallum (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [WBGBGBGBGBY](/stripes/wbgbgbgbgby/) · **Stripes:** [W DB G DB G DB G DB G DB LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W DB G DB G DB G DB G DB LY</span></span>
+**Bands:** [YBGBGBGBGBW](/stripes/ybgbgbgbgbw/) · **Stripes:** [LY DB G DB G DB G DB G DB W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DB G DB G DB G DB G DB W</span></span>
 
 
 This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
@@ -13,11 +13,11 @@ Original link http://www.tartansauthority.com/tartan-ferret/display/8131/
 
 Other setts woven to the same stripe pattern.
 
-- [Bruce (Personal)](/setts/s11/ly1db8g2db2g6db1g6db2g2db8w1~x4/)
+- [Bruce (Personal)](/setts/s11/w1db8g2db2g6db1g6db2g2db8ly1~x4/)
 
 
 ## Thread count
-LN/11 DB4 G17 DB2 G17 DB8 G8 DB13 G38 DBa2 Y/13
+Y/13 DBa2 G38 DB13 G8 DB8 G17 DB2 G17 DB4 LN/11
 ![Sett](sett.png)
 
 ## Palette
@@ -42,14 +42,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Hibernian F. C. (2004) (C orporate)](/setts/s8/g21w2g21k17dg12dp6k2w1~x2/) — ΔT 1.29
 1. [William & Mary GALA (Corporate)](/setts/s11/k3db10dg25ly2dg2ly3dg2ly2dg25db10w3~x2/) — ΔT 1.30
 1. [Taylor](/setts/s8/g8k2g13r4g12db22g5ly3~x2/) — ΔT 1.32
-1. [Henderson/MacKendrick](/setts/s9/ly1k6g4k1g16db1g4db6w1~x4/) — ΔT 1.36
-1. [MacKendrick](/setts/s9/ly1k6g4k1g16db1g4db6w1~x2/) — ΔT 1.36
+1. [Henderson/MacKendrick](/setts/s9/w1db6g4db1g16k1g4k6ly1~x4/) — ΔT 1.36
+1. [MacKendrick](/setts/s9/w1db6g4db1g16k1g4k6ly1~x2/) — ΔT 1.36
 1. [Bartlett from Winnetka, Illinois](/setts/s13/k3g3ly2g4k2g3k2g24db10ly2db10g30r3~x2/) — ΔT 1.48
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/t1dp10k10g12k1g12t2g16w1~x2/"><circle cx="318.1" cy="182.5" r="4" fill="#3465a4"><title>Faskin Family (Aberdeenshire)</title></circle></a><a href="/setts/s7/g12k4g12w1b6w1ly4~x4/"><circle cx="276.9" cy="196.0" r="4" fill="#3465a4"><title>Pinder, Nigel (Personal)</title></circle></a><a href="/setts/s8/g13p1g1p1g3db5k4ly2~x2/"><circle cx="260.3" cy="159.2" r="4" fill="#3465a4"><title>Carrick, hunting</title></circle></a><a href="/setts/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/"><circle cx="324.0" cy="160.9" r="4" fill="#3465a4"><title>Ronald, Clan (Clan)</title></circle></a><a href="/setts/s8/g21w2g21k17dg12dp6k2w1~x2/"><circle cx="236.1" cy="160.3" r="4" fill="#3465a4"><title>Hibernian F. C. (2004) (C orporate)</title></circle></a><a href="/setts/s11/k3db10dg25ly2dg2ly3dg2ly2dg25db10w3~x2/"><circle cx="323.9" cy="153.3" r="4" fill="#3465a4"><title>William &amp; Mary GALA (Corporate)</title></circle></a><a href="/setts/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="266.2" cy="199.6" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/setts/s9/ly1k6g4k1g16db1g4db6w1~x4/"><circle cx="327.2" cy="165.9" r="4" fill="#3465a4"><title>Henderson/MacKendrick</title></circle></a><a href="/setts/s9/ly1k6g4k1g16db1g4db6w1~x2/"><circle cx="327.2" cy="165.9" r="4" fill="#3465a4"><title>MacKendrick</title></circle></a><a href="/setts/s13/k3g3ly2g4k2g3k2g24db10ly2db10g30r3~x2/"><circle cx="347.0" cy="136.3" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><circle cx="286.8" cy="152.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/t1dp10k10g12k1g12t2g16w1~x2/"><circle cx="318.0" cy="182.4" r="4" fill="#3465a4"><title>Faskin Family (Aberdeenshire)</title></circle></a><a href="/setts/s7/g12k4g12w1b6w1ly4~x4/"><circle cx="276.8" cy="195.9" r="4" fill="#3465a4"><title>Pinder, Nigel (Personal)</title></circle></a><a href="/setts/s8/g13p1g1p1g3db5k4ly2~x2/"><circle cx="260.2" cy="159.0" r="4" fill="#3465a4"><title>Carrick, hunting</title></circle></a><a href="/setts/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/"><circle cx="323.8" cy="160.8" r="4" fill="#3465a4"><title>Ronald, Clan (Clan)</title></circle></a><a href="/setts/s8/g21w2g21k17dg12dp6k2w1~x2/"><circle cx="236.0" cy="160.2" r="4" fill="#3465a4"><title>Hibernian F. C. (2004) (C orporate)</title></circle></a><a href="/setts/s11/k3db10dg25ly2dg2ly3dg2ly2dg25db10w3~x2/"><circle cx="323.8" cy="153.2" r="4" fill="#3465a4"><title>William &amp; Mary GALA (Corporate)</title></circle></a><a href="/setts/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="266.1" cy="199.5" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/setts/s9/w1db6g4db1g16k1g4k6ly1~x4/"><circle cx="327.1" cy="165.8" r="4" fill="#3465a4"><title>Henderson/MacKendrick</title></circle></a><a href="/setts/s9/w1db6g4db1g16k1g4k6ly1~x2/"><circle cx="327.1" cy="165.8" r="4" fill="#3465a4"><title>MacKendrick</title></circle></a><a href="/setts/s13/k3g3ly2g4k2g3k2g24db10ly2db10g30r3~x2/"><circle cx="346.8" cy="136.1" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><circle cx="286.6" cy="152.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/ly13db2g38db13g8db8g17db2g17db4w11/

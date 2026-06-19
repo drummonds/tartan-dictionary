@@ -2,7 +2,7 @@
 title: "Royal Dornoch Golf Club, The"
 date: 2023-03-18
 ---
-**Bands:** [RBBGBYBGBR](/stripes/rbbgbybgbr/) · **Stripes:** [R DR B DG DB LY DB DG DB R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DR B DG DB LY DB DG DB R</span></span>
+**Bands:** [RBGBYBGBBR](/stripes/rbgbybgbbr/) · **Stripes:** [R DB DG DB LY DB DG B DR R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB DG DB LY DB DG B DR R</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
@@ -35,11 +35,11 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Tantallon](/setts/s10/ly3k21r7k2g10k2r7k2db21w3~x2/) — ΔT 0.71
+1. [Tantallon](/setts/s10/w3db21k2r7k2g10k2r7k21ly3~x2/) — ΔT 0.71
 1. [Scottish Cultural Society (Corporate](/setts/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/) — ΔT 0.72
 1. [Scottish Bear (Mathan Albannach)](/setts/s11/dy11w3db5w2ly1db4w1db2db11db3g2~x2/) — ΔT 0.76
 1. [Crozier/Crosser](/setts/s11/w4db5r3db22ly4k3dg17r7k2r7ly2~x2/) — ΔT 0.79
-1. [Tantallon #2](/setts/s10/ly3k22r7k2dg10k2r7k2db22w3~x2/) — ΔT 0.79
+1. [Tantallon #2](/setts/s10/w3db22k2r7k2dg10k2r7k22ly3~x2/) — ΔT 0.79
 1. [Brotherston (Personal)](/setts/s10/k10lb5dp10g20k6g6db10r2db2r4~x2/) — ΔT 0.88
 1. [Scottish National - 1934 (Fashion)](/setts/s9/w2r3db6db8g12k1r4db2w2~x4/) — ΔT 0.91
 1. [National (1934), The](/setts/s9/w2db3r6k8g12lo1db4k2w2~x2/) — ΔT 0.92
@@ -48,8 +48,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly3k21r7k2g10k2r7k2db21w3~x2/"><circle cx="118.3" cy="141.1" r="4" fill="#3465a4"><title>Tantallon</title></circle></a><a href="/setts/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/"><circle cx="108.6" cy="165.7" r="4" fill="#3465a4"><title>Scottish Cultural Society (Corporate</title></circle></a><a href="/setts/s11/dy11w3db5w2ly1db4w1db2db11db3g2~x2/"><circle cx="81.8" cy="135.9" r="4" fill="#3465a4"><title>Scottish Bear (Mathan Albannach)</title></circle></a><a href="/setts/s11/w4db5r3db22ly4k3dg17r7k2r7ly2~x2/"><circle cx="106.6" cy="128.9" r="4" fill="#3465a4"><title>Crozier/Crosser</title></circle></a><a href="/setts/s10/ly3k22r7k2dg10k2r7k2db22w3~x2/"><circle cx="125.3" cy="140.3" r="4" fill="#3465a4"><title>Tantallon #2</title></circle></a><a href="/setts/s10/k10lb5dp10g20k6g6db10r2db2r4~x2/"><circle cx="99.9" cy="171.5" r="4" fill="#3465a4"><title>Brotherston (Personal)</title></circle></a><a href="/setts/s9/w2r3db6db8g12k1r4db2w2~x4/"><circle cx="93.5" cy="154.0" r="4" fill="#3465a4"><title>Scottish National - 1934 (Fashion)</title></circle></a><a href="/setts/s9/w2db3r6k8g12lo1db4k2w2~x2/"><circle cx="74.8" cy="145.7" r="4" fill="#3465a4"><title>National (1934), The</title></circle></a><a href="/setts/s9/m4k7m2db25k19w2g13k2ly3~x2/"><circle cx="152.2" cy="147.7" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/setts/s9/r3db16m2db2m12k8g12k12w3~x2/"><circle cx="66.0" cy="180.2" r="4" fill="#3465a4"><title>Celtic Women International</title></circle></a><circle cx="97.4" cy="150.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w3db21k2r7k2g10k2r7k21ly3~x2/"><circle cx="118.5" cy="141.2" r="4" fill="#3465a4"><title>Tantallon</title></circle></a><a href="/setts/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/"><circle cx="108.7" cy="165.8" r="4" fill="#3465a4"><title>Scottish Cultural Society (Corporate</title></circle></a><a href="/setts/s11/dy11w3db5w2ly1db4w1db2db11db3g2~x2/"><circle cx="82.0" cy="136.0" r="4" fill="#3465a4"><title>Scottish Bear (Mathan Albannach)</title></circle></a><a href="/setts/s11/w4db5r3db22ly4k3dg17r7k2r7ly2~x2/"><circle cx="106.7" cy="129.0" r="4" fill="#3465a4"><title>Crozier/Crosser</title></circle></a><a href="/setts/s10/w3db22k2r7k2dg10k2r7k22ly3~x2/"><circle cx="125.4" cy="140.4" r="4" fill="#3465a4"><title>Tantallon #2</title></circle></a><a href="/setts/s10/k10lb5dp10g20k6g6db10r2db2r4~x2/"><circle cx="100.0" cy="171.7" r="4" fill="#3465a4"><title>Brotherston (Personal)</title></circle></a><a href="/setts/s9/w2r3db6db8g12k1r4db2w2~x4/"><circle cx="93.6" cy="154.1" r="4" fill="#3465a4"><title>Scottish National - 1934 (Fashion)</title></circle></a><a href="/setts/s9/w2db3r6k8g12lo1db4k2w2~x2/"><circle cx="74.9" cy="145.8" r="4" fill="#3465a4"><title>National (1934), The</title></circle></a><a href="/setts/s9/m4k7m2db25k19w2g13k2ly3~x2/"><circle cx="152.4" cy="147.8" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/setts/s9/r3db16m2db2m12k8g12k12w3~x2/"><circle cx="66.2" cy="180.4" r="4" fill="#3465a4"><title>Celtic Women International</title></circle></a><circle cx="97.6" cy="150.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r12db22dg5db3ly3db3dg17b9dr7r2~x2/

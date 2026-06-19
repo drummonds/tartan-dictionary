@@ -2,7 +2,7 @@
 title: "Diana, hunting Plaid"
 date: 2023-03-18
 ---
-**Bands:** [RBBBGWGRGRBR](/stripes/rbbbgwgrgrbr/) · **Stripes:** [R B DB B G W G R G O B O](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R B DB B G W G R G O B O</span></span>
+**Bands:** [RBRGRGWGBBBR](/stripes/rbrgrgwgbbbr/) · **Stripes:** [O B O G R G W G B DB B R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="seq">O B O G R G W G B DB B R</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dy46t3dy7g2r2g2w2g11t6db2t3r2~x2/"><circle cx="393.3" cy="104.3" r="4" fill="#3465a4"><title>Diana Hunting Plaid Tartan Tartan Number: 1318. Earliest known date: 1981 Based on MacNab. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/y38db4y8o2y4w3y4m14n7y2n4w2~x2/"><circle cx="382.5" cy="126.8" r="4" fill="#3465a4"><title>Portree, Check</title></circle></a><a href="/setts/s12/o38lp4o8dy2o4w3o4r14n7o2n4w2~x2/"><circle cx="370.2" cy="117.3" r="4" fill="#3465a4"><title>Portree Check (District) Tartan Tartan Number: 1280. Earliest known date: pre 2003 Designed for the Porteous Family Association, and submitted to the Monitoring Committee of the Scottish Tartan Society by Captain Barry Porteous who was president of the association at that time. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/y60t5y8ly2y4w2y4dg16dy8y2dy4w2~x2/"><circle cx="448.9" cy="97.6" r="4" fill="#3465a4"><title>Stuart/Stewart Silver</title></circle></a><a href="/setts/s13/g8ly2o4p4g3p4o42g4r3g4o4p5r3/"><circle cx="380.2" cy="121.8" r="4" fill="#3465a4"><title>Sarna</title></circle></a><a href="/setts/s12/o60t5o8ly2o4w2o4g16dy8o2dy4w2~x2/"><circle cx="457.9" cy="101.1" r="4" fill="#3465a4"><title>Stuart Silver Commemorative Tartan Tartan Number: 1281. Earliest known date: 1977 1977 Jubilee tartan NOT accepted. No official jubilee tartan was adopted for the occasion. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/o38db4o8lo2o4w3o4r14n7o2n4w2~x2/"><circle cx="363.4" cy="114.8" r="4" fill="#3465a4"><title>Portree Check</title></circle></a><a href="/setts/s9/o66m3g3m3g16dr8g3dr3m4~x2/"><circle cx="401.2" cy="120.5" r="4" fill="#3465a4"><title>Scottish National Htg (Fashion)</title></circle></a><a href="/setts/s9/y65p3g3p3g16dr8g3dr3dr4~x2/"><circle cx="397.9" cy="124.0" r="4" fill="#3465a4"><title>Scottish National (hunting)</title></circle></a><a href="/setts/s11/r2lr2r1lr24o1n3k3lr3o12lr4r1~x2/"><circle cx="394.7" cy="130.0" r="4" fill="#3465a4"><title>Dabney Grey (Personal)</title></circle></a><circle cx="400.2" cy="102.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dy46t3dy7g2r2g2w2g11t6db2t3r2~x2/"><circle cx="393.0" cy="104.4" r="4" fill="#3465a4"><title>Diana Hunting Plaid Tartan Tartan Number: 1318. Earliest known date: 1981 Based on MacNab. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/y38db4y8o2y4w3y4m14n7y2n4w2~x2/"><circle cx="382.1" cy="126.9" r="4" fill="#3465a4"><title>Portree, Check</title></circle></a><a href="/setts/s12/o38lp4o8dy2o4w3o4r14n7o2n4w2~x2/"><circle cx="369.8" cy="117.3" r="4" fill="#3465a4"><title>Portree Check (District) Tartan Tartan Number: 1280. Earliest known date: pre 2003 Designed for the Porteous Family Association, and submitted to the Monitoring Committee of the Scottish Tartan Society by Captain Barry Porteous who was president of the association at that time. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/y60t5y8ly2y4w2y4dg16dy8y2dy4w2~x2/"><circle cx="448.4" cy="97.6" r="4" fill="#3465a4"><title>Stuart/Stewart Silver</title></circle></a><a href="/setts/s13/g8ly2o4p4g3p4o42g4r3g4o4p5r3/"><circle cx="379.8" cy="121.9" r="4" fill="#3465a4"><title>Sarna</title></circle></a><a href="/setts/s12/o60t5o8ly2o4w2o4g16dy8o2dy4w2~x2/"><circle cx="457.4" cy="101.2" r="4" fill="#3465a4"><title>Stuart Silver Commemorative Tartan Tartan Number: 1281. Earliest known date: 1977 1977 Jubilee tartan NOT accepted. No official jubilee tartan was adopted for the occasion. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/o38db4o8lo2o4w3o4r14n7o2n4w2~x2/"><circle cx="363.0" cy="114.9" r="4" fill="#3465a4"><title>Portree Check</title></circle></a><a href="/setts/s9/o66m3g3m3g16dr8g3dr3m4~x2/"><circle cx="400.8" cy="120.5" r="4" fill="#3465a4"><title>Scottish National Htg (Fashion)</title></circle></a><a href="/setts/s9/y65p3g3p3g16dr8g3dr3dr4~x2/"><circle cx="397.5" cy="124.0" r="4" fill="#3465a4"><title>Scottish National (hunting)</title></circle></a><a href="/setts/s11/r2lr2r1lr24o1n3k3lr3o12lr4r1~x2/"><circle cx="394.2" cy="130.0" r="4" fill="#3465a4"><title>Dabney Grey (Personal)</title></circle></a><circle cx="399.7" cy="102.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/

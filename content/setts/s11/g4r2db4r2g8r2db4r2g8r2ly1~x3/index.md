@@ -2,7 +2,7 @@
 title: "Hall"
 date: 2023-03-18
 ---
-**Bands:** [GRBRGRBRGRY](/stripes/grbrgrbrgry/) · **Stripes:** [G R DB R G R DB R G R LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G R DB R G R DB R G R LY</span></span>
+**Bands:** [YRGRBRGRBRG](/stripes/yrgrbrgrbrg/) · **Stripes:** [LY R G R DB R G R DB R G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY R G R DB R G R DB R G</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -913,7 +916,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Harmer](/setts/s12/dg36lo8k9lo24dg4lo12dg4lo24k9lo8dg36r4/) — ΔT 1.16
 1. [Bean Hunting](/setts/s7/db6r15g41r15db20g41t6/) — ΔT 1.20
 1. [Mariverain](/setts/s11/db3g8db5r1db5g2ly1g2r5db4ly1~x2/) — ΔT 1.25
-1. [Dublin](/setts/s12/g3dr3g3dr16g3dr3g3m5g18r2g8r3~x2/) — ΔT 1.25
+1. [Dublin](/setts/s12/r3g8r2g18m5g3dr3g3dr16g3dr3g3~x2/) — ΔT 1.25
 1. [Invertere (Daks #1)](/setts/s14/dg6lo2db2lo11dg2lo2m3lo2dg2lo11db2lo2dg6m3~x2/) — ΔT 1.26
 1. [Unidentified #57](/setts/s8/dg20r8lr2r8dg5ly8dg2ly8~x2/) — ΔT 1.28
 1. [Unidentified Plaid 6](/setts/s10/r4t3r32db30r4g32r3g32r3g3~x2/) — ΔT 1.31
@@ -922,8 +925,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g6r3db6r3g12r3db6r3g12r3ly2~x2/"><circle cx="227.5" cy="226.4" r="4" fill="#3465a4"><title>Hall (1994)</title></circle></a><a href="/setts/s12/dg36lo8k9lo24dg4lo12dg4lo24k9lo8dg36r4/"><circle cx="228.2" cy="188.8" r="4" fill="#3465a4"><title>Harmer</title></circle></a><a href="/setts/s7/db6r15g41r15db20g41t6/"><circle cx="284.4" cy="246.6" r="4" fill="#3465a4"><title>Bean Hunting</title></circle></a><a href="/setts/s11/db3g8db5r1db5g2ly1g2r5db4ly1~x2/"><circle cx="195.8" cy="207.5" r="4" fill="#3465a4"><title>Mariverain</title></circle></a><a href="/setts/s12/g3dr3g3dr16g3dr3g3m5g18r2g8r3~x2/"><circle cx="292.2" cy="192.7" r="4" fill="#3465a4"><title>Dublin</title></circle></a><a href="/setts/s14/dg6lo2db2lo11dg2lo2m3lo2dg2lo11db2lo2dg6m3~x2/"><circle cx="250.9" cy="201.9" r="4" fill="#3465a4"><title>Invertere (Daks #1)</title></circle></a><a href="/setts/s8/dg20r8lr2r8dg5ly8dg2ly8~x2/"><circle cx="224.1" cy="210.3" r="4" fill="#3465a4"><title>Unidentified #57</title></circle></a><a href="/setts/s10/r4t3r32db30r4g32r3g32r3g3~x2/"><circle cx="261.5" cy="183.0" r="4" fill="#3465a4"><title>Unidentified Plaid 6</title></circle></a><a href="/setts/s13/y5dp1y1dp1y1dg3y3dg1y3dg3ly3ly1ly1~x4/"><circle cx="164.9" cy="210.3" r="4" fill="#3465a4"><title>Balmoral Hotel Edinburgh</title></circle></a><a href="/setts/s7/g25r4db24r21g25r3db4~x2/"><circle cx="257.1" cy="248.0" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><circle cx="242.4" cy="215.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g6r3db6r3g12r3db6r3g12r3ly2~x2/"><circle cx="227.4" cy="226.3" r="4" fill="#3465a4"><title>Hall (1994)</title></circle></a><a href="/setts/s12/dg36lo8k9lo24dg4lo12dg4lo24k9lo8dg36r4/"><circle cx="228.0" cy="188.7" r="4" fill="#3465a4"><title>Harmer</title></circle></a><a href="/setts/s7/db6r15g41r15db20g41t6/"><circle cx="284.3" cy="246.5" r="4" fill="#3465a4"><title>Bean Hunting</title></circle></a><a href="/setts/s11/db3g8db5r1db5g2ly1g2r5db4ly1~x2/"><circle cx="195.7" cy="207.4" r="4" fill="#3465a4"><title>Mariverain</title></circle></a><a href="/setts/s12/r3g8r2g18m5g3dr3g3dr16g3dr3g3~x2/"><circle cx="292.0" cy="192.6" r="4" fill="#3465a4"><title>Dublin</title></circle></a><a href="/setts/s14/dg6lo2db2lo11dg2lo2m3lo2dg2lo11db2lo2dg6m3~x2/"><circle cx="250.7" cy="201.8" r="4" fill="#3465a4"><title>Invertere (Daks #1)</title></circle></a><a href="/setts/s8/dg20r8lr2r8dg5ly8dg2ly8~x2/"><circle cx="223.9" cy="210.3" r="4" fill="#3465a4"><title>Unidentified #57</title></circle></a><a href="/setts/s10/r4t3r32db30r4g32r3g32r3g3~x2/"><circle cx="261.3" cy="183.0" r="4" fill="#3465a4"><title>Unidentified Plaid 6</title></circle></a><a href="/setts/s13/y5dp1y1dp1y1dg3y3dg1y3dg3ly3ly1ly1~x4/"><circle cx="164.8" cy="210.3" r="4" fill="#3465a4"><title>Balmoral Hotel Edinburgh</title></circle></a><a href="/setts/s7/g25r4db24r21g25r3db4~x2/"><circle cx="257.0" cy="247.8" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><circle cx="242.2" cy="215.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/g4r2db4r2g8r2db4r2g8r2ly1~x3/

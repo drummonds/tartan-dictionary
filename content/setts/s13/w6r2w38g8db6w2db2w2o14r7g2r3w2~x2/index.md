@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 R6 G4 R14 LT28 LN4 B4 LN4 B12 G16 LN76 R4 LN/12
+LN/12 R4 LN76 G16 B12 LN4 B4 LN4 LT28 R14 G4 R6 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/w6r2w38g8db6w2db2w2lo14r7g2r3w2~x2/"><circle cx="275.0" cy="88.2" r="4" fill="#3465a4"><title>Grant of Auchnarrow</title></circle></a><a href="/setts/s10/g4y4g2w36y14w2lt4g7m5w3~x2/"><circle cx="241.3" cy="96.6" r="4" fill="#3465a4"><title>Rikaco Eve</title></circle></a><a href="/setts/s11/w60dt24o3dt5w3dt5o16o8k3o6w4/"><circle cx="229.9" cy="79.8" r="4" fill="#3465a4"><title>Glenmore Pink</title></circle></a><a href="/setts/s11/w68lr3w3lr8w3lr3o24dt16o3dt20lr3~x2/"><circle cx="234.0" cy="77.8" r="4" fill="#3465a4"><title>Ben Vorlich</title></circle></a><a href="/setts/s11/w38y10m2y3w2y3g8lr3y2lr3w2~x2/"><circle cx="295.9" cy="85.7" r="4" fill="#3465a4"><title>Glenmore Green Fashion Tartan Tartan Number: 5041. Earliest known date: pre 1988 A Royal Stewart colour variation produced by many weaving mills See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/w50o4lo2k2lo2o4lo10o15t2~x2/"><circle cx="319.5" cy="84.0" r="4" fill="#3465a4"><title>Australian, dress</title></circle></a><a href="/setts/s12/w42db6w10k3w3k3w3g15r9w3r4k4~x2/"><circle cx="252.9" cy="89.0" r="4" fill="#3465a4"><title>Braveheart - Warrior (dress) Universal Tartan Tartan Number: 2236. Earliest known date: pre 2002 Designed by Michael King of Aberdeen to prevent anyone else 'cashing in' on the popularity of the Braveheart film. Never been woven as far as is known. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w38k10do2k3w2k3y8o3k2o3w2~x2/"><circle cx="267.5" cy="73.8" r="4" fill="#3465a4"><title>Glenmore Green</title></circle></a><a href="/setts/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/"><circle cx="247.5" cy="90.3" r="4" fill="#3465a4"><title>Braveheart Warrior (Dress)</title></circle></a><a href="/setts/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/"><circle cx="276.5" cy="63.7" r="4" fill="#3465a4"><title>Rothesay, Duke of</title></circle></a><circle cx="261.1" cy="80.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/w6r2w38g8db6w2db2w2lo14r7g2r3w2~x2/"><circle cx="274.4" cy="88.2" r="4" fill="#3465a4"><title>Grant of Auchnarrow</title></circle></a><a href="/setts/s10/g4y4g2w36y14w2lt4g7m5w3~x2/"><circle cx="240.8" cy="96.5" r="4" fill="#3465a4"><title>Rikaco Eve</title></circle></a><a href="/setts/s11/w60dt24o3dt5w3dt5o16o8k3o6w4/"><circle cx="229.5" cy="79.6" r="4" fill="#3465a4"><title>Glenmore Pink</title></circle></a><a href="/setts/s11/w68lr3w3lr8w3lr3o24dt16o3dt20lr3~x2/"><circle cx="233.6" cy="77.7" r="4" fill="#3465a4"><title>Ben Vorlich</title></circle></a><a href="/setts/s11/w38y10m2y3w2y3g8lr3y2lr3w2~x2/"><circle cx="295.3" cy="85.6" r="4" fill="#3465a4"><title>Glenmore Green Fashion Tartan Tartan Number: 5041. Earliest known date: pre 1988 A Royal Stewart colour variation produced by many weaving mills See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/w50o4lo2k2lo2o4lo10o15t2~x2/"><circle cx="319.0" cy="83.9" r="4" fill="#3465a4"><title>Australian, dress</title></circle></a><a href="/setts/s12/w42db6w10k3w3k3w3g15r9w3r4k4~x2/"><circle cx="252.4" cy="88.8" r="4" fill="#3465a4"><title>Braveheart - Warrior (dress) Universal Tartan Tartan Number: 2236. Earliest known date: pre 2002 Designed by Michael King of Aberdeen to prevent anyone else 'cashing in' on the popularity of the Braveheart film. Never been woven as far as is known. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w38k10do2k3w2k3y8o3k2o3w2~x2/"><circle cx="267.0" cy="73.7" r="4" fill="#3465a4"><title>Glenmore Green</title></circle></a><a href="/setts/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/"><circle cx="247.0" cy="90.1" r="4" fill="#3465a4"><title>Braveheart Warrior (Dress)</title></circle></a><a href="/setts/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/"><circle cx="276.0" cy="63.6" r="4" fill="#3465a4"><title>Rothesay, Duke of</title></circle></a><circle cx="260.6" cy="80.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/

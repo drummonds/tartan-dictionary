@@ -8,7 +8,7 @@ GGYGYGW
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/w6g64ly2g20ly38g20g1~x2/tartan.png)
+![Woven sample](/setts/s7/w6g64ly2g20ly38g20g1/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ GGYGYGW
 
 | Tartans |
 |---------------|
-| [European Union](/setts/s7/w6g64ly2g20ly38g20g1~x2/)|
-|![European Union example sett](/setts/s7/w6g64ly2g20ly38g20g1~x2/sett.png)|
+| [European Union](/setts/s7/w6g64ly2g20ly38g20g1/)|
+|![European Union example sett](/setts/s7/w6g64ly2g20ly38g20g1/sett.png)|
 

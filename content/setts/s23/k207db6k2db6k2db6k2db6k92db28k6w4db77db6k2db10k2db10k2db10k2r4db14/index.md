@@ -2,7 +2,7 @@
 title: "Unidentified Plaid 12"
 date: 2023-03-18
 ---
-**Bands:** [BRKBKBKBKBBWKBKBKBKBKBK](/stripes/brkbkbkbkbbwkbkbkbkbkbk/) · **Stripes:** [DB R K DB K DB K DB K DB DB W K DB K DB K DB K DB K DB K](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">DB R K DB K DB K DB K DB DB W K DB K DB K DB K DB K DB K</span></span>
+**Bands:** [KBKBKBKBKBKWBBKBKBKBKRB](/stripes/kbkbkbkbkbkwbbkbkbkbkrb/) · **Stripes:** [K DB K DB K DB K DB K DB K W DB DB K DB K DB K DB K R DB](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB K DB K DB K DB K W DB DB K DB K DB K DB K R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [23 band tartan](/bands/bands23/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/14 R4 K2 B10 K2 B10 K2 B10 K2 DB6 B77 LN4 K6 B28 K92 DB6 K2 DB6 K2 DB6 K2 DB6 K/207
+K/207 DB6 K2 DB6 K2 DB6 K2 DB6 K92 B28 K6 LN4 B77 DB6 K2 B10 K2 B10 K2 B10 K2 R4 B/14
 ![Sett](sett.png)
 
 ## Palette
@@ -907,17 +910,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Khalsa](/setts/s22/dt5w1dt5w1dt5w1dt5w1dt5w1o5db1ly5db1o5ly1k36w1db3w1k72w1~x2/) — ΔT 1.90
 1. [Quraysh](/setts/s18/dt8k50y2k2o2k24dt8k2y2n1y2n8y2n8y2n1y2k2~x2/) — ΔT 2.19
 1. [Westwood Metropolitan 1 (Fashion)](/setts/s29/db98k98ly1g10ly1k11ly1k1ly1k1ly1k1ly1k1ly1k1ly1k11db1k1db10k1db1k1r7ly1r10k10g2~x2/) — ΔT 2.21
-1. [Watt](/setts/s22/k96db8k12dp3k3dp3k3g20r8k3r4w4r4k3r8g20k3dp3k3dp3k12db8/) — ΔT 2.24
+1. [Watt](/setts/s22/k96db8k12dp3k3dp3k3g20r8k3r4w4/) — ΔT 2.24
 1. [Flotilla Navy](/setts/s11/k36db6ly1db1lb1db1dy8o4db1o2lb1~x4/) — ΔT 2.26
-1. [Unidentified (Miss Paterson)](/setts/s44/b14r4k2b10k2b10k2b10k2db6b77w4k6b28k92db6k2db6k2db6k2db6k207db6k2db6k2db6k2db6k92b28k6w4b76db6k2b10k2b10k2b10k2r4/) — ΔT 2.29
+1. [Unidentified (Miss Paterson)](/setts/s44/b14r4k2b10k2b10k2b10k2db6b77w4k6b28k92db6k2db6k2db6k2db6k207db6k2db6k2db6k2db6k92b28k6w4b76db6k2b10k2b10k2b10k2r4/) — ΔT 2.30
 1. [Glen Ross (WCWM - 2)](/setts/s12/k48n4k6lr2k2r2k2n10o6k2o3r2~x2/) — ΔT 2.31
-1. [Marsa Scout Group](/setts/s11/g4k1ly2k1g8k44r2db8k1k1r4~x2/) — ΔT 2.31
+1. [Marsa Scout Group](/setts/s11/r4k1k1db8r2k44g8k1ly2k1g4~x2/) — ΔT 2.31
 1. [Arbroath Smokie Corporate Tartan Tartan Number: 6596. Earliest known date: 01/01/2005 Designed by Heather Yellowly of the Strathmore Woollen Co, of Forfar for Campbell Scott of Arbroath Fisheries. The tartan celebrates the European protective geographical status being awarded to the Arbroath Smokie - one of only a few food products to have been awarded this status. Colours: red represents the sandstone of Arbroath Abbey where the Declaration of Independence was signed in 1320; blue and white represent the sea; the red glow of the smokie barrel and the golden yellow of the delicacy itself. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/lo1k45dt23w1dt6r2lo1r2lo1~x2/) — ΔT 2.33
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db1k6db2k8db2k2db52r2db2ly8db2ly6db2ly2r1~x2/"><circle cx="393.5" cy="44.4" r="4" fill="#3465a4"><title>(3) Laing</title></circle></a><a href="/setts/s22/dt5w1dt5w1dt5w1dt5w1dt5w1o5db1ly5db1o5ly1k36w1db3w1k72w1~x2/"><circle cx="403.8" cy="14.0" r="4" fill="#3465a4"><title>Khalsa</title></circle></a><a href="/setts/s18/dt8k50y2k2o2k24dt8k2y2n1y2n8y2n8y2n1y2k2~x2/"><circle cx="437.7" cy="80.1" r="4" fill="#3465a4"><title>Quraysh</title></circle></a><a href="/setts/s29/db98k98ly1g10ly1k11ly1k1ly1k1ly1k1ly1k1ly1k1ly1k11db1k1db10k1db1k1r7ly1r10k10g2~x2/"><circle cx="353.2" cy="14.0" r="4" fill="#3465a4"><title>Westwood Metropolitan 1 (Fashion)</title></circle></a><a href="/setts/s22/k96db8k12dp3k3dp3k3g20r8k3r4w4r4k3r8g20k3dp3k3dp3k12db8/"><circle cx="350.2" cy="44.2" r="4" fill="#3465a4"><title>Watt</title></circle></a><a href="/setts/s11/k36db6ly1db1lb1db1dy8o4db1o2lb1~x4/"><circle cx="338.6" cy="67.6" r="4" fill="#3465a4"><title>Flotilla Navy</title></circle></a><a href="/setts/s44/b14r4k2b10k2b10k2b10k2db6b77w4k6b28k92db6k2db6k2db6k2db6k207db6k2db6k2db6k2db6k92b28k6w4b76db6k2b10k2b10k2b10k2r4/"><circle cx="365.4" cy="14.0" r="4" fill="#3465a4"><title>Unidentified (Miss Paterson)</title></circle></a><a href="/setts/s12/k48n4k6lr2k2r2k2n10o6k2o3r2~x2/"><circle cx="401.3" cy="94.6" r="4" fill="#3465a4"><title>Glen Ross (WCWM - 2)</title></circle></a><a href="/setts/s11/g4k1ly2k1g8k44r2db8k1k1r4~x2/"><circle cx="421.2" cy="84.3" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/setts/s9/lo1k45dt23w1dt6r2lo1r2lo1~x2/"><circle cx="382.1" cy="99.7" r="4" fill="#3465a4"><title>Arbroath Smokie Corporate Tartan Tartan Number: 6596. Earliest known date: 01/01/2005 Designed by Heather Yellowly of the Strathmore Woollen Co, of Forfar for Campbell Scott of Arbroath Fisheries. The tartan celebrates the European protective geographical status being awarded to the Arbroath Smokie - one of only a few food products to have been awarded this status. Colours: red represents the sandstone of Arbroath Abbey where the Declaration of Independence was signed in 1320; blue and white represent the sea; the red glow of the smokie barrel and the golden yellow of the delicacy itself. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="434.2" cy="45.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db1k6db2k8db2k2db52r2db2ly8db2ly6db2ly2r1~x2/"><circle cx="393.4" cy="44.3" r="4" fill="#3465a4"><title>(3) Laing</title></circle></a><a href="/setts/s22/dt5w1dt5w1dt5w1dt5w1dt5w1o5db1ly5db1o5ly1k36w1db3w1k72w1~x2/"><circle cx="403.6" cy="14.0" r="4" fill="#3465a4"><title>Khalsa</title></circle></a><a href="/setts/s18/dt8k50y2k2o2k24dt8k2y2n1y2n8y2n8y2n1y2k2~x2/"><circle cx="437.6" cy="80.2" r="4" fill="#3465a4"><title>Quraysh</title></circle></a><a href="/setts/s29/db98k98ly1g10ly1k11ly1k1ly1k1ly1k1ly1k1ly1k1ly1k11db1k1db10k1db1k1r7ly1r10k10g2~x2/"><circle cx="353.0" cy="14.0" r="4" fill="#3465a4"><title>Westwood Metropolitan 1 (Fashion)</title></circle></a><a href="/setts/s22/k96db8k12dp3k3dp3k3g20r8k3r4w4/"><circle cx="350.0" cy="44.3" r="4" fill="#3465a4"><title>Watt</title></circle></a><a href="/setts/s11/k36db6ly1db1lb1db1dy8o4db1o2lb1~x4/"><circle cx="338.7" cy="67.6" r="4" fill="#3465a4"><title>Flotilla Navy</title></circle></a><a href="/setts/s44/b14r4k2b10k2b10k2b10k2db6b77w4k6b28k92db6k2db6k2db6k2db6k207db6k2db6k2db6k2db6k92b28k6w4b76db6k2b10k2b10k2b10k2r4/"><circle cx="365.2" cy="14.0" r="4" fill="#3465a4"><title>Unidentified (Miss Paterson)</title></circle></a><a href="/setts/s12/k48n4k6lr2k2r2k2n10o6k2o3r2~x2/"><circle cx="401.2" cy="94.5" r="4" fill="#3465a4"><title>Glen Ross (WCWM - 2)</title></circle></a><a href="/setts/s11/r4k1k1db8r2k44g8k1ly2k1g4~x2/"><circle cx="421.0" cy="84.2" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/setts/s9/lo1k45dt23w1dt6r2lo1r2lo1~x2/"><circle cx="382.1" cy="99.6" r="4" fill="#3465a4"><title>Arbroath Smokie Corporate Tartan Tartan Number: 6596. Earliest known date: 01/01/2005 Designed by Heather Yellowly of the Strathmore Woollen Co, of Forfar for Campbell Scott of Arbroath Fisheries. The tartan celebrates the European protective geographical status being awarded to the Arbroath Smokie - one of only a few food products to have been awarded this status. Colours: red represents the sandstone of Arbroath Abbey where the Declaration of Independence was signed in 1320; blue and white represent the sea; the red glow of the smokie barrel and the golden yellow of the delicacy itself. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="434.2" cy="45.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s23/k207db6k2db6k2db6k2db6k92db28k6w4db77db6k2db10k2db10k2db10k2r4db14/

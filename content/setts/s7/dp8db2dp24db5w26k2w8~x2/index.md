@@ -10,7 +10,7 @@ This was sourced from house-of-tartan.  It is a [7 band tartan](/bands/bands7/).
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8189
 
 ## Thread count
-LN/16 K4 LN52 DB10 P48 DB4 P/16
+P/16 DB4 P48 DB10 LN52 K4 LN/16
 ![Sett](sett.png)
 
 ## Palette
@@ -25,7 +25,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/16 K4 LN52 DB10 P48 DB4 P/16 tartan")
+![Tartan detail](tartan.png "P/16 DB4 P48 DB10 LN52 K4 LN/16 tartan")
 
 ## Nearest tartans
 
@@ -44,8 +44,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w5k3w31p26w4p10t4~x2/"><circle cx="250.6" cy="163.3" r="4" fill="#3465a4"><title>MacPherson, dress (purple)</title></circle></a><a href="/setts/s7/w5k3w31dp26w4dp10t4~x2/"><circle cx="251.9" cy="164.4" r="4" fill="#3465a4"><title>MacPherson Dress Purple</title></circle></a><a href="/setts/s8/w8k4w54db18m6db8m49w6/"><circle cx="218.9" cy="131.1" r="4" fill="#3465a4"><title>Merida Dance</title></circle></a><a href="/setts/s7/w5dp2w34dp34k2dp2t4~x2/"><circle cx="280.7" cy="124.0" r="4" fill="#3465a4"><title>Cunningham Dress Purple (Dance)</title></circle></a><a href="/setts/s8/w8k6w54db16m6db8m49w6/"><circle cx="206.2" cy="149.7" r="4" fill="#3465a4"><title>Meridia Dance</title></circle></a><a href="/setts/s10/w4db2w1r2w16db16r16db12db1w4~x2/"><circle cx="193.4" cy="135.9" r="4" fill="#3465a4"><title>Spirit of Russia, The</title></circle></a><a href="/setts/s8/dp42lb2w2lb2dp5t12w32dp4~x2/"><circle cx="293.3" cy="121.9" r="4" fill="#3465a4"><title>Longniddry Dress (Dance)</title></circle></a><a href="/setts/s10/w4db2w1r2w16db16r16db12k1w4~x2/"><circle cx="186.1" cy="136.3" r="4" fill="#3465a4"><title>Spirit of Russia, The</title></circle></a><a href="/setts/s8/dp42db2w2db2dp5t12w32dp4~x2/"><circle cx="292.9" cy="122.6" r="4" fill="#3465a4"><title>Longniddry Dress District Tartan Tartan Number: 88. Earliest known date: pre 2003 A dancers tartan from D.C. Dalgleish weavers of Selkirk See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/w32db3r4db3r8db32w3db4~x2/"><circle cx="229.0" cy="148.3" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><circle cx="238.0" cy="160.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w5k3w31p26w4p10t4~x2/"><circle cx="250.3" cy="163.0" r="4" fill="#3465a4"><title>MacPherson, dress (purple)</title></circle></a><a href="/setts/s7/w5k3w31dp26w4dp10t4~x2/"><circle cx="251.6" cy="164.2" r="4" fill="#3465a4"><title>MacPherson Dress Purple</title></circle></a><a href="/setts/s8/w8k4w54db18m6db8m49w6/"><circle cx="218.5" cy="130.9" r="4" fill="#3465a4"><title>Merida Dance</title></circle></a><a href="/setts/s7/w5dp2w34dp34k2dp2t4~x2/"><circle cx="280.2" cy="123.8" r="4" fill="#3465a4"><title>Cunningham Dress Purple (Dance)</title></circle></a><a href="/setts/s8/w8k6w54db16m6db8m49w6/"><circle cx="205.8" cy="149.5" r="4" fill="#3465a4"><title>Meridia Dance</title></circle></a><a href="/setts/s10/w4db2w1r2w16db16r16db12db1w4~x2/"><circle cx="193.1" cy="135.7" r="4" fill="#3465a4"><title>Spirit of Russia, The</title></circle></a><a href="/setts/s8/dp42lb2w2lb2dp5t12w32dp4~x2/"><circle cx="292.9" cy="121.7" r="4" fill="#3465a4"><title>Longniddry Dress (Dance)</title></circle></a><a href="/setts/s10/w4db2w1r2w16db16r16db12k1w4~x2/"><circle cx="185.9" cy="136.2" r="4" fill="#3465a4"><title>Spirit of Russia, The</title></circle></a><a href="/setts/s8/dp42db2w2db2dp5t12w32dp4~x2/"><circle cx="292.6" cy="122.4" r="4" fill="#3465a4"><title>Longniddry Dress District Tartan Tartan Number: 88. Earliest known date: pre 2003 A dancers tartan from D.C. Dalgleish weavers of Selkirk See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/w32db3r4db3r8db32w3db4~x2/"><circle cx="228.8" cy="148.1" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><circle cx="237.8" cy="159.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/dp8db2dp24db5w26k2w8~x2/

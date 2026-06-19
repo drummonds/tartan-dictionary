@@ -2,7 +2,7 @@
 title: "Henry, W.A."
 date: 2023-03-18
 ---
-**Bands:** [RRWGYRYRR](/stripes/rrwgyryrr/) · **Stripes:** [O R W G LY R LY O R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">O R W G LY R LY O R</span></span>
+**Bands:** [RRYRYGWRR](/stripes/rryrygwrr/) · **Stripes:** [R O LY R LY G W R O](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R O LY R LY G W R O</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,13 +914,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Satisfashion Argyll (Corporate)](/setts/s10/do5lo1y27lo9r6do5lo1lo23do3lo5~x2/) — ΔT 1.22
 1. [Commonwealth Games - 2014](/setts/s11/g28lo18db4lo18r3r2r3r2r3r2r3~x2/) — ΔT 1.24
 1. [Tache, Sir Etienne Paschal #2](/setts/s8/w3dy1r29dy16dg23db3dg3lo2~x2/) — ΔT 1.34
-1. [Scotland (Personal)](/setts/s11/g3ly1dp1g20r2dp9r2r20dp1ly1r3~x2/) — ΔT 1.46
+1. [Scotland (Personal)](/setts/s11/r3ly1dp1r20r2dp9r2g20dp1ly1g3~x2/) — ΔT 1.46
 1. [Prince Edward Island](/setts/s15/g16o1g2o1g2o12r12o1ly2o1r12o12g12o1w2~x2/) — ΔT 1.48
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dy24r24w3g21ly2r1ly2dy6r2~x2/"><circle cx="240.6" cy="135.1" r="4" fill="#3465a4"><title>Henry W.A. Canadian Tartan Tartan Number: 1667. Earliest known date: 1983 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/ly25o2w2db2w2o13dy28db2o3~x2/"><circle cx="225.8" cy="144.4" r="4" fill="#3465a4"><title>Brousseau (Personal)</title></circle></a><a href="/setts/s8/w3o1r29o16g23db3g3ly2~x2/"><circle cx="230.1" cy="115.3" r="4" fill="#3465a4"><title>Etienne, Paschal Tache Sir...</title></circle></a><a href="/setts/s8/w3dy1r29dy16g23db3g3ly2~x2/"><circle cx="228.1" cy="114.6" r="4" fill="#3465a4"><title>Etienne Paschal Tache Sir... Canadian Tartan Tartan Number: 1877. Earliest known date: 1983 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/t16k1r7k1r7k1t7y24lo4~x2/"><circle cx="248.4" cy="153.3" r="4" fill="#3465a4"><title>Knockando Woolmill (Corporate)</title></circle></a><a href="/setts/s10/do5lo1y27lo9r6do5lo1lo23do3lo5~x2/"><circle cx="303.8" cy="147.3" r="4" fill="#3465a4"><title>Satisfashion Argyll (Corporate)</title></circle></a><a href="/setts/s11/g28lo18db4lo18r3r2r3r2r3r2r3~x2/"><circle cx="253.5" cy="138.8" r="4" fill="#3465a4"><title>Commonwealth Games - 2014</title></circle></a><a href="/setts/s8/w3dy1r29dy16dg23db3dg3lo2~x2/"><circle cx="226.8" cy="114.3" r="4" fill="#3465a4"><title>Tache, Sir Etienne Paschal #2</title></circle></a><a href="/setts/s11/g3ly1dp1g20r2dp9r2r20dp1ly1r3~x2/"><circle cx="245.4" cy="113.6" r="4" fill="#3465a4"><title>Scotland (Personal)</title></circle></a><a href="/setts/s15/g16o1g2o1g2o12r12o1ly2o1r12o12g12o1w2~x2/"><circle cx="225.7" cy="145.5" r="4" fill="#3465a4"><title>Prince Edward Island</title></circle></a><circle cx="247.1" cy="137.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dy24r24w3g21ly2r1ly2dy6r2~x2/"><circle cx="240.3" cy="135.3" r="4" fill="#3465a4"><title>Henry W.A. Canadian Tartan Tartan Number: 1667. Earliest known date: 1983 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/ly25o2w2db2w2o13dy28db2o3~x2/"><circle cx="225.5" cy="144.5" r="4" fill="#3465a4"><title>Brousseau (Personal)</title></circle></a><a href="/setts/s8/w3o1r29o16g23db3g3ly2~x2/"><circle cx="229.8" cy="115.4" r="4" fill="#3465a4"><title>Etienne, Paschal Tache Sir...</title></circle></a><a href="/setts/s8/w3dy1r29dy16g23db3g3ly2~x2/"><circle cx="227.8" cy="114.8" r="4" fill="#3465a4"><title>Etienne Paschal Tache Sir... Canadian Tartan Tartan Number: 1877. Earliest known date: 1983 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/t16k1r7k1r7k1t7y24lo4~x2/"><circle cx="248.2" cy="153.4" r="4" fill="#3465a4"><title>Knockando Woolmill (Corporate)</title></circle></a><a href="/setts/s10/do5lo1y27lo9r6do5lo1lo23do3lo5~x2/"><circle cx="303.5" cy="147.5" r="4" fill="#3465a4"><title>Satisfashion Argyll (Corporate)</title></circle></a><a href="/setts/s11/g28lo18db4lo18r3r2r3r2r3r2r3~x2/"><circle cx="253.2" cy="138.9" r="4" fill="#3465a4"><title>Commonwealth Games - 2014</title></circle></a><a href="/setts/s8/w3dy1r29dy16dg23db3dg3lo2~x2/"><circle cx="226.6" cy="114.4" r="4" fill="#3465a4"><title>Tache, Sir Etienne Paschal #2</title></circle></a><a href="/setts/s11/r3ly1dp1r20r2dp9r2g20dp1ly1g3~x2/"><circle cx="245.1" cy="113.7" r="4" fill="#3465a4"><title>Scotland (Personal)</title></circle></a><a href="/setts/s15/g16o1g2o1g2o12r12o1ly2o1r12o12g12o1w2~x2/"><circle cx="225.5" cy="145.7" r="4" fill="#3465a4"><title>Prince Edward Island</title></circle></a><circle cx="246.8" cy="137.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/o24r24w3g21ly2r1ly2o6r2~x2/

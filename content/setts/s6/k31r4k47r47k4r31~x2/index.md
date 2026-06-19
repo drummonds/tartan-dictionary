@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -899,7 +902,7 @@ Other setts woven to the same stripe pattern.
 - [Cameron Black & Red (Dress)](/setts/s6/k2r12k2r12k33r2~x2/)
 - [Cameron, Black & Red (dress)](/setts/s6/k1r4k1r4k13r1~x4/)
 - [Erskine, Black & Red (Clan)](/setts/s6/k6r3k28r28k3r6~x2/)
-- [Ewing](/setts/s6/k23r3k1r12k1r3~x4/)
+- [Ewing](/setts/s6/k23r3k1r12~x4/)
 - [The Mary Erskine](/setts/s6/k3r1k16r16k1r3~x4/)
 
 
@@ -925,7 +928,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacLeod Black & Red](/setts/s5/r8k1r8k12r1~x2/) — ΔT 0.81
 1. [MacKeane (Clan?)](/setts/s7/r4k8r4k8r12k1ly1~x2/) — ΔT 0.98
-1. [MacFarlane Red & Black (Artefact)](/setts/s4/k30r17k3r17~x4/) — ΔT 1.00
+1. [MacFarlane Red & Black (Artefact)](/setts/s4/k30r17k3~x4/) — ΔT 1.00
 1. [MacDonald of Ardnamurchan (Clan?)](/setts/s7/r4k8r4k8r12k1ly2~x4/) — ΔT 1.02
 1. [MacLeod of Raasay (Highland Society of London)](/setts/s5/k13r2k13r19k2~x2/) — ΔT 1.05
 1. [Erskine, Black & Red (Clan)](/setts/s6/k6r3k28r28k3r6~x2/) — ΔT 1.07
@@ -936,8 +939,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r8k1r8k12r1~x2/"><circle cx="376.4" cy="236.5" r="4" fill="#3465a4"><title>MacLeod Black &amp; Red</title></circle></a><a href="/setts/s7/r4k8r4k8r12k1ly1~x2/"><circle cx="328.0" cy="214.1" r="4" fill="#3465a4"><title>MacKeane (Clan?)</title></circle></a><a href="/setts/s4/k30r17k3r17~x4/"><circle cx="344.1" cy="277.4" r="4" fill="#3465a4"><title>MacFarlane Red &amp; Black (Artefact)</title></circle></a><a href="/setts/s7/r4k8r4k8r12k1ly2~x4/"><circle cx="306.1" cy="215.6" r="4" fill="#3465a4"><title>MacDonald of Ardnamurchan (Clan?)</title></circle></a><a href="/setts/s5/k13r2k13r19k2~x2/"><circle cx="373.8" cy="262.1" r="4" fill="#3465a4"><title>MacLeod of Raasay (Highland Society of London)</title></circle></a><a href="/setts/s6/k6r3k28r28k3r6~x2/"><circle cx="361.8" cy="231.9" r="4" fill="#3465a4"><title>Erskine, Black &amp; Red (Clan)</title></circle></a><a href="/setts/s5/k18r4k18r32w3~x2/"><circle cx="301.8" cy="227.4" r="4" fill="#3465a4"><title>Munro (Black and Red)</title></circle></a><a href="/setts/s5/r4k1r12k12r2~x2/"><circle cx="373.9" cy="230.2" r="4" fill="#3465a4"><title>Campbell of Armaddie</title></circle></a><a href="/setts/s8/k12r3k2r16k8r12k2r3~x2/"><circle cx="360.3" cy="231.4" r="4" fill="#3465a4"><title>MacLeod #2</title></circle></a><a href="/setts/s6/k2r6k2r6k12ly1~x4/"><circle cx="342.6" cy="216.9" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><circle cx="338.7" cy="240.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r8k1r8k12r1~x2/"><circle cx="376.2" cy="236.1" r="4" fill="#3465a4"><title>MacLeod Black &amp; Red</title></circle></a><a href="/setts/s7/r4k8r4k8r12k1ly1~x2/"><circle cx="327.8" cy="213.9" r="4" fill="#3465a4"><title>MacKeane (Clan?)</title></circle></a><a href="/setts/s4/k30r17k3~x4/"><circle cx="344.1" cy="277.1" r="4" fill="#3465a4"><title>MacFarlane Red &amp; Black (Artefact)</title></circle></a><a href="/setts/s7/r4k8r4k8r12k1ly2~x4/"><circle cx="306.0" cy="215.4" r="4" fill="#3465a4"><title>MacDonald of Ardnamurchan (Clan?)</title></circle></a><a href="/setts/s5/k13r2k13r19k2~x2/"><circle cx="373.7" cy="261.7" r="4" fill="#3465a4"><title>MacLeod of Raasay (Highland Society of London)</title></circle></a><a href="/setts/s6/k6r3k28r28k3r6~x2/"><circle cx="361.6" cy="231.6" r="4" fill="#3465a4"><title>Erskine, Black &amp; Red (Clan)</title></circle></a><a href="/setts/s5/k18r4k18r32w3~x2/"><circle cx="301.7" cy="227.1" r="4" fill="#3465a4"><title>Munro (Black and Red)</title></circle></a><a href="/setts/s5/r4k1r12k12r2~x2/"><circle cx="373.8" cy="229.8" r="4" fill="#3465a4"><title>Campbell of Armaddie</title></circle></a><a href="/setts/s8/k12r3k2r16k8r12k2r3~x2/"><circle cx="360.0" cy="231.1" r="4" fill="#3465a4"><title>MacLeod #2</title></circle></a><a href="/setts/s6/k2r6k2r6k12ly1~x4/"><circle cx="342.4" cy="216.7" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><circle cx="338.6" cy="239.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k31r4k47r47k4r31~x2/

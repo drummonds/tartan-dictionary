@@ -2,12 +2,18 @@
 title: "Glen Orchy"
 date: 2023-03-18
 ---
-**Bands:** [BBRGRBBRGRBBRG](/stripes/bbrgrbbrgrbbrg/) · **Stripes:** [DB T R G R DB T R G R DB T R G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB T R G R DB T R G R DB T R G</span></span>
+**Bands:** [GRBBRGRBBRGRBB](/stripes/grbbrgrbbrgrbb/) · **Stripes:** [G R T DB R G R T DB R G R T DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">G R T DB R G R T DB R G R T DB</span></span>
 
 
 This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Glenorchy
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/4 Ba2 R4 G32 R4 B12 Ba2 R4 G12 R4 B32 Ba2 R4 G/4
+G/4 R4 Ba2 B32 R4 G12 R4 Ba2 B12 R4 G32 R4 Ba2 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -903,20 +912,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Glen Orchy](/setts/s15/g3r2r1db18r2g8r4t1db8r2g18r2r1db3t1~x2/) — ΔT 0.89
-1. [Glenorchy](/setts/s14/db2t1r2dg16r2db6t1r2dg6r2db16t1r2dg2~x2/) — ΔT 0.91
-1. [Durie Clan Tartan Tartan Number: 2228. Earliest known date: 1988 When the matriculation of the Durie 'Arms' was updated in June 1988, this tartan was designed for family use by Harry G Lindlay of Kinloch & Anderson of Edinburgh. The design is said to be based on the Argyle & Southern Highlanders regimental tartan - the yellow is from the mess dress (military uniform evening wear) facings (lapels) and the burgundy represents the Durie family's French connections. Andrew, son of Lt. Col. Raymond Varley Dewar Durie succeded his father as clan chieftain in 1999. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/g2ly1g12r4db1r1db1r1db12r1db1r1db1r4g12ly1~x4/) — ΔT 1.03
+1. [Glenorchy](/setts/s14/dg2r2t1db16r2dg6r2t1db6r2dg16r2t1db2~x2/) — ΔT 0.91
+1. [Durie Clan Tartan Tartan Number: 2228. Earliest known date: 1988 When the matriculation of the Durie 'Arms' was updated in June 1988, this tartan was designed for family use by Harry G Lindlay of Kinloch & Anderson of Edinburgh. The design is said to be based on the Argyle & Southern Highlanders regimental tartan - the yellow is from the mess dress (military uniform evening wear) facings (lapels) and the burgundy represents the Durie family's French connections. Andrew, son of Lt. Col. Raymond Varley Dewar Durie succeded his father as clan chieftain in 1999. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/db12r1db1r1db1r4g12ly1g2~x4/) — ΔT 1.03
 1. [Highland Granite Weavers Tartan Tartan Number: 6499. Earliest known date: 2005 The colours reflect the imposing scenery when journeying north from Perth to Inverness or through to Royal Deeside, granite being the predominant composition of the surrounding unique hills and mountains. This tartan is for those wishing to embrace the growing popularity of the kilt who may either have no strong clan tartan connection, or who wish to wear a tartan different from their own. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/o16k2o3k2o4k10n27lr2n8lr2n27k10o4k2o3k2o16n2~x2/) — ΔT 1.10
 1. [Cape Breton University Chemistry Society](/setts/s10/db4o17db4y4db2y4db4y27db4ly4~x2/) — ΔT 1.13
 1. [Glenorchy - National Archives](/setts/s15/g3db2r1db17r2g8r4t1db8r2g17r2r1db3t1~x2/) — ΔT 1.14
 1. [Dunedin Chapter (Corporate)](/setts/s10/t39g3t3g20k3g20k3g3k20r3~x2/) — ΔT 1.15
-1. [MacInroy Hunting](/setts/s15/db2g24r2g2db11k3db11k12g3r12g2r2g24db2k2~x2/) — ΔT 1.15
+1. [MacInroy Hunting](/setts/s15/k2db2g24r2g2r12g3k12db11k3db11g2r2g24db2~x2/) — ΔT 1.15
 1. [MacIntyre, and Glenorchy](/setts/s15/t1r2db2r4g16r2db1r4g1r2db16r4g2r2t1~x2/) — ΔT 1.16
 1. [Chakraa (Fashion)](/setts/s11/k7t38g7k2g7k2g7lo21k3g4k3~x2/) — ΔT 1.17
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/g3r2r1db18r2g8r4t1db8r2g18r2r1db3t1~x2/"><circle cx="241.8" cy="126.5" r="4" fill="#3465a4"><title>Glen Orchy</title></circle></a><a href="/setts/s14/db2t1r2dg16r2db6t1r2dg6r2db16t1r2dg2~x2/"><circle cx="276.5" cy="158.0" r="4" fill="#3465a4"><title>Glenorchy</title></circle></a><a href="/setts/s16/g2ly1g12r4db1r1db1r1db12r1db1r1db1r4g12ly1~x4/"><circle cx="275.8" cy="152.6" r="4" fill="#3465a4"><title>Durie Clan Tartan Tartan Number: 2228. Earliest known date: 1988 When the matriculation of the Durie 'Arms' was updated in June 1988, this tartan was designed for family use by Harry G Lindlay of Kinloch &amp; Anderson of Edinburgh. The design is said to be based on the Argyle &amp; Southern Highlanders regimental tartan - the yellow is from the mess dress (military uniform evening wear) facings (lapels) and the burgundy represents the Durie family's French connections. Andrew, son of Lt. Col. Raymond Varley Dewar Durie succeded his father as clan chieftain in 1999. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/o16k2o3k2o4k10n27lr2n8lr2n27k10o4k2o3k2o16n2~x2/"><circle cx="273.3" cy="154.8" r="4" fill="#3465a4"><title>Highland Granite Weavers Tartan Tartan Number: 6499. Earliest known date: 2005 The colours reflect the imposing scenery when journeying north from Perth to Inverness or through to Royal Deeside, granite being the predominant composition of the surrounding unique hills and mountains. This tartan is for those wishing to embrace the growing popularity of the kilt who may either have no strong clan tartan connection, or who wish to wear a tartan different from their own. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/db4o17db4y4db2y4db4y27db4ly4~x2/"><circle cx="281.0" cy="175.4" r="4" fill="#3465a4"><title>Cape Breton University Chemistry Society</title></circle></a><a href="/setts/s15/g3db2r1db17r2g8r4t1db8r2g17r2r1db3t1~x2/"><circle cx="249.5" cy="131.8" r="4" fill="#3465a4"><title>Glenorchy - National Archives</title></circle></a><a href="/setts/s10/t39g3t3g20k3g20k3g3k20r3~x2/"><circle cx="231.6" cy="176.8" r="4" fill="#3465a4"><title>Dunedin Chapter (Corporate)</title></circle></a><a href="/setts/s15/db2g24r2g2db11k3db11k12g3r12g2r2g24db2k2~x2/"><circle cx="253.3" cy="159.9" r="4" fill="#3465a4"><title>MacInroy Hunting</title></circle></a><a href="/setts/s15/t1r2db2r4g16r2db1r4g1r2db16r4g2r2t1~x2/"><circle cx="232.3" cy="132.6" r="4" fill="#3465a4"><title>MacIntyre, and Glenorchy</title></circle></a><a href="/setts/s11/k7t38g7k2g7k2g7lo21k3g4k3~x2/"><circle cx="221.7" cy="147.0" r="4" fill="#3465a4"><title>Chakraa (Fashion)</title></circle></a><circle cx="259.8" cy="149.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/g3r2r1db18r2g8r4t1db8r2g18r2r1db3t1~x2/"><circle cx="241.6" cy="126.6" r="4" fill="#3465a4"><title>Glen Orchy</title></circle></a><a href="/setts/s14/dg2r2t1db16r2dg6r2t1db6r2dg16r2t1db2~x2/"><circle cx="276.3" cy="158.1" r="4" fill="#3465a4"><title>Glenorchy</title></circle></a><a href="/setts/s16/db12r1db1r1db1r4g12ly1g2~x4/"><circle cx="275.7" cy="152.7" r="4" fill="#3465a4"><title>Durie Clan Tartan Tartan Number: 2228. Earliest known date: 1988 When the matriculation of the Durie 'Arms' was updated in June 1988, this tartan was designed for family use by Harry G Lindlay of Kinloch &amp; Anderson of Edinburgh. The design is said to be based on the Argyle &amp; Southern Highlanders regimental tartan - the yellow is from the mess dress (military uniform evening wear) facings (lapels) and the burgundy represents the Durie family's French connections. Andrew, son of Lt. Col. Raymond Varley Dewar Durie succeded his father as clan chieftain in 1999. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/o16k2o3k2o4k10n27lr2n8lr2n27k10o4k2o3k2o16n2~x2/"><circle cx="273.1" cy="154.9" r="4" fill="#3465a4"><title>Highland Granite Weavers Tartan Tartan Number: 6499. Earliest known date: 2005 The colours reflect the imposing scenery when journeying north from Perth to Inverness or through to Royal Deeside, granite being the predominant composition of the surrounding unique hills and mountains. This tartan is for those wishing to embrace the growing popularity of the kilt who may either have no strong clan tartan connection, or who wish to wear a tartan different from their own. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/db4o17db4y4db2y4db4y27db4ly4~x2/"><circle cx="280.9" cy="175.4" r="4" fill="#3465a4"><title>Cape Breton University Chemistry Society</title></circle></a><a href="/setts/s15/g3db2r1db17r2g8r4t1db8r2g17r2r1db3t1~x2/"><circle cx="249.4" cy="131.9" r="4" fill="#3465a4"><title>Glenorchy - National Archives</title></circle></a><a href="/setts/s10/t39g3t3g20k3g20k3g3k20r3~x2/"><circle cx="231.5" cy="176.8" r="4" fill="#3465a4"><title>Dunedin Chapter (Corporate)</title></circle></a><a href="/setts/s15/k2db2g24r2g2r12g3k12db11k3db11g2r2g24db2~x2/"><circle cx="253.2" cy="159.9" r="4" fill="#3465a4"><title>MacInroy Hunting</title></circle></a><a href="/setts/s15/t1r2db2r4g16r2db1r4g1r2db16r4g2r2t1~x2/"><circle cx="232.1" cy="132.7" r="4" fill="#3465a4"><title>MacIntyre, and Glenorchy</title></circle></a><a href="/setts/s11/k7t38g7k2g7k2g7lo21k3g4k3~x2/"><circle cx="221.6" cy="147.0" r="4" fill="#3465a4"><title>Chakraa (Fashion)</title></circle></a><circle cx="259.6" cy="149.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/db2t1r2g16r2db6t1r2g6r2db16t1r2g2~x2/

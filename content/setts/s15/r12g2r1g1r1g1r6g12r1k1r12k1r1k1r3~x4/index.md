@@ -2,12 +2,18 @@
 title: "MacDonell of Keppoch #3"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRGRKRKRKR](/stripes/rgrgrgrgrkrkrkr/) · **Stripes:** [R G R G R G R G R K R K R K R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G R G R G R G R K R K R K R</span></span>
+**Bands:** [RKRKRKRGRGRGRGR](/stripes/rkrkrkrgrgrgrgr/) · **Stripes:** [R K R K R K R G R G R G R G R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K R K R G R G R G R G R</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2388
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacDonell of Keppoch #3
 
 ## Attestations
 
@@ -48,21 +54,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Waverley Care Aids Trust](/setts/s10/r8g2r2k1r1g2r1k1r2g2~x10/) — ΔT 1.32
-1. [MacColl](/setts/s14/r12db1r1dg8r2db1r1db3r1db1r12dg1r1dg4~x2/) — ΔT 1.35
+1. [Waverley Care Aids Trust](/setts/s10/r8g2r2k1r1g2~x10/) — ΔT 1.32
 1. [MacDonald of Aird & Valley (Clan?)](/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g8~x4/) — ΔT 1.38
 1. [Scottish Piping Society of London](/setts/s12/y21r3y21db5y3r30y3db5y21r3y21db2~x2/) — ΔT 1.47
 1. [Frame (Ferniegair) (Personal)](/setts/s12/dg4do14r1do1dg1do1r1do14r14do1r1dg1~x4/) — ΔT 1.47
 1. [MacColl](/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x2/) — ΔT 1.55
 1. [Frame - Ferniegair (Personal)](/setts/s12/dg4dy14r1dy1dg1dy1r1dy14r14dy1r1dg1~x4/) — ΔT 1.62
-1. [Welsh National #2](/setts/s12/k4dy2r2dy2k2dy15lo2dy15k2dy2r2dy2~x4/) — ΔT 1.64
+1. [Welsh National #2](/setts/s12/k4dy2r2dy2k2dy15lo2~x4/) — ΔT 1.64
 1. [MacColl](/setts/s14/r12o1r1g8r2o1r1db3r1o1r12g1r1g4~x2/) — ΔT 1.66
 1. [MacColl](/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x4/) — ΔT 1.67
+1. [Oakhall](/setts/s14/r48g6r6g12ly3g2k3g2ly3g12r6g6r48k3~x2/) — ΔT 1.71
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r8g2r2k1r1g2r1k1r2g2~x10/"><circle cx="416.8" cy="229.6" r="4" fill="#3465a4"><title>Waverley Care Aids Trust</title></circle></a><a href="/setts/s14/r12db1r1dg8r2db1r1db3r1db1r12dg1r1dg4~x2/"><circle cx="400.0" cy="170.2" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g8~x4/"><circle cx="381.1" cy="182.8" r="4" fill="#3465a4"><title>MacDonald of Aird &amp; Valley (Clan?)</title></circle></a><a href="/setts/s12/y21r3y21db5y3r30y3db5y21r3y21db2~x2/"><circle cx="444.3" cy="207.9" r="4" fill="#3465a4"><title>Scottish Piping Society of London</title></circle></a><a href="/setts/s12/dg4do14r1do1dg1do1r1do14r14do1r1dg1~x4/"><circle cx="441.2" cy="193.3" r="4" fill="#3465a4"><title>Frame (Ferniegair) (Personal)</title></circle></a><a href="/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x2/"><circle cx="394.4" cy="162.8" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/setts/s12/dg4dy14r1dy1dg1dy1r1dy14r14dy1r1dg1~x4/"><circle cx="446.6" cy="192.8" r="4" fill="#3465a4"><title>Frame - Ferniegair (Personal)</title></circle></a><a href="/setts/s12/k4dy2r2dy2k2dy15lo2dy15k2dy2r2dy2~x4/"><circle cx="456.3" cy="197.9" r="4" fill="#3465a4"><title>Welsh National #2</title></circle></a><a href="/setts/s14/r12o1r1g8r2o1r1db3r1o1r12g1r1g4~x2/"><circle cx="385.2" cy="152.0" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x4/"><circle cx="390.7" cy="159.9" r="4" fill="#3465a4"><title>MacColl</title></circle></a><circle cx="466.5" cy="184.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r8g2r2k1r1g2~x10/"><circle cx="416.5" cy="229.5" r="4" fill="#3465a4"><title>Waverley Care Aids Trust</title></circle></a><a href="/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g8~x4/"><circle cx="380.8" cy="182.7" r="4" fill="#3465a4"><title>MacDonald of Aird &amp; Valley (Clan?)</title></circle></a><a href="/setts/s12/y21r3y21db5y3r30y3db5y21r3y21db2~x2/"><circle cx="443.9" cy="207.8" r="4" fill="#3465a4"><title>Scottish Piping Society of London</title></circle></a><a href="/setts/s12/dg4do14r1do1dg1do1r1do14r14do1r1dg1~x4/"><circle cx="440.9" cy="193.3" r="4" fill="#3465a4"><title>Frame (Ferniegair) (Personal)</title></circle></a><a href="/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x2/"><circle cx="393.9" cy="162.7" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/setts/s12/dg4dy14r1dy1dg1dy1r1dy14r14dy1r1dg1~x4/"><circle cx="446.2" cy="192.8" r="4" fill="#3465a4"><title>Frame - Ferniegair (Personal)</title></circle></a><a href="/setts/s12/k4dy2r2dy2k2dy15lo2~x4/"><circle cx="456.0" cy="197.7" r="4" fill="#3465a4"><title>Welsh National #2</title></circle></a><a href="/setts/s14/r12o1r1g8r2o1r1db3r1o1r12g1r1g4~x2/"><circle cx="384.7" cy="151.9" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x4/"><circle cx="390.2" cy="159.8" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/setts/s14/r48g6r6g12ly3g2k3g2ly3g12r6g6r48k3~x2/"><circle cx="469.4" cy="124.5" r="4" fill="#3465a4"><title>Oakhall</title></circle></a><circle cx="466.1" cy="183.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/r12g2r1g1r1g1r6g12r1k1r12k1r1k1r3~x4/

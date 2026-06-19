@@ -2,7 +2,7 @@
 title: "Aviemore, Check"
 date: 2023-03-18
 ---
-**Bands:** [GRGYRWGR](/stripes/grgyrwgr/) · **Stripes:** [G O G LY O W G O](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="seq">G O G LY O W G O</span></span>
+**Bands:** [RGWRYGRG](/stripes/rgwrygrg/) · **Stripes:** [O G W O LY G O G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O G W O LY G O G</span></span>
 
 
 This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -908,19 +911,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Aviemore Check](/setts/s8/g2dy10g11ly4dy1w18g2dy1~x2/) — ΔT 0.72
 1. [Dogwood](/setts/s8/g3r12g12o5r1w25g2r1~x2/) — ΔT 1.18
-1. [Barbie's Plaid](/setts/s6/ly2g19ly20b22ly4n2~x2/) — ΔT 1.22
+1. [Barbie's Plaid](/setts/s6/n2ly4b22ly20g19ly2~x2/) — ΔT 1.22
 1. [Dogwood Trade Tartan Tartan Number: 913. Earliest known date: 1968 The registered tartan of the Dinwiddie Clan. Dinwiddies are normally associated with the Maxwells, but Lord Lyon stated, in 1988, that Dinwiddies were a sept of no other clan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g3r12g12lo5r1w25g2r1~x2/) — ΔT 1.29
 1. [Lake Ainslie Heritage](/setts/s7/lb8w16g18r2ly4r1lb4~x2/) — ΔT 1.35
 1. [Bannock Bane M.406](/setts/s8/dg4dy3dg21dy2w14o22dy3o4~x2/) — ΔT 1.38
-1. [Grant - 1714 (Piper) (Portrait)](/setts/s12/r24k2g8k2r8k1g24lb6k2r14lb18k4/) — ΔT 1.38
+1. [Grant - 1714 (Piper) (Portrait)](/setts/s12/r24k2g8k2r8k1g24lb6k2r14lb18k4~x2/) — ΔT 1.38
 1. [Greater St. Louis Firefighters (Cor)](/setts/s9/n3w3w38n25r3n6w7n3r2~x2/) — ΔT 1.40
 1. [Prince Edward Island, Dress](/setts/s9/g22r2g4r2g4r18w24r1lo3~x2/) — ΔT 1.43
 1. [Nova Scotia, dress](/setts/s9/g3w29g3db3g3db6g13ly3r2~x2/) — ΔT 1.51
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g2dy10g11ly4dy1w18g2dy1~x2/"><circle cx="188.2" cy="146.8" r="4" fill="#3465a4"><title>Aviemore Check</title></circle></a><a href="/setts/s8/g3r12g12o5r1w25g2r1~x2/"><circle cx="223.3" cy="125.1" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/setts/s6/ly2g19ly20b22ly4n2~x2/"><circle cx="186.2" cy="194.8" r="4" fill="#3465a4"><title>Barbie's Plaid</title></circle></a><a href="/setts/s8/g3r12g12lo5r1w25g2r1~x2/"><circle cx="223.5" cy="124.8" r="4" fill="#3465a4"><title>Dogwood Trade Tartan Tartan Number: 913. Earliest known date: 1968 The registered tartan of the Dinwiddie Clan. Dinwiddies are normally associated with the Maxwells, but Lord Lyon stated, in 1988, that Dinwiddies were a sept of no other clan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/lb8w16g18r2ly4r1lb4~x2/"><circle cx="156.2" cy="148.5" r="4" fill="#3465a4"><title>Lake Ainslie Heritage</title></circle></a><a href="/setts/s8/dg4dy3dg21dy2w14o22dy3o4~x2/"><circle cx="181.2" cy="178.7" r="4" fill="#3465a4"><title>Bannock Bane M.406</title></circle></a><a href="/setts/s12/r24k2g8k2r8k1g24lb6k2r14lb18k4/"><circle cx="215.3" cy="128.6" r="4" fill="#3465a4"><title>Grant - 1714 (Piper) (Portrait)</title></circle></a><a href="/setts/s9/n3w3w38n25r3n6w7n3r2~x2/"><circle cx="267.7" cy="129.3" r="4" fill="#3465a4"><title>Greater St. Louis Firefighters (Cor)</title></circle></a><a href="/setts/s9/g22r2g4r2g4r18w24r1lo3~x2/"><circle cx="214.6" cy="127.0" r="4" fill="#3465a4"><title>Prince Edward Island, Dress</title></circle></a><a href="/setts/s9/g3w29g3db3g3db6g13ly3r2~x2/"><circle cx="211.2" cy="120.7" r="4" fill="#3465a4"><title>Nova Scotia, dress</title></circle></a><circle cx="202.0" cy="152.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g2dy10g11ly4dy1w18g2dy1~x2/"><circle cx="188.0" cy="146.7" r="4" fill="#3465a4"><title>Aviemore Check</title></circle></a><a href="/setts/s8/g3r12g12o5r1w25g2r1~x2/"><circle cx="222.9" cy="124.9" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/setts/s6/n2ly4b22ly20g19ly2~x2/"><circle cx="185.8" cy="194.7" r="4" fill="#3465a4"><title>Barbie's Plaid</title></circle></a><a href="/setts/s8/g3r12g12lo5r1w25g2r1~x2/"><circle cx="223.1" cy="124.7" r="4" fill="#3465a4"><title>Dogwood Trade Tartan Tartan Number: 913. Earliest known date: 1968 The registered tartan of the Dinwiddie Clan. Dinwiddies are normally associated with the Maxwells, but Lord Lyon stated, in 1988, that Dinwiddies were a sept of no other clan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/lb8w16g18r2ly4r1lb4~x2/"><circle cx="155.8" cy="148.5" r="4" fill="#3465a4"><title>Lake Ainslie Heritage</title></circle></a><a href="/setts/s8/dg4dy3dg21dy2w14o22dy3o4~x2/"><circle cx="181.0" cy="178.6" r="4" fill="#3465a4"><title>Bannock Bane M.406</title></circle></a><a href="/setts/s12/r24k2g8k2r8k1g24lb6k2r14lb18k4~x2/"><circle cx="214.9" cy="128.5" r="4" fill="#3465a4"><title>Grant - 1714 (Piper) (Portrait)</title></circle></a><a href="/setts/s9/n3w3w38n25r3n6w7n3r2~x2/"><circle cx="267.3" cy="129.2" r="4" fill="#3465a4"><title>Greater St. Louis Firefighters (Cor)</title></circle></a><a href="/setts/s9/g22r2g4r2g4r18w24r1lo3~x2/"><circle cx="214.3" cy="126.9" r="4" fill="#3465a4"><title>Prince Edward Island, Dress</title></circle></a><a href="/setts/s9/g3w29g3db3g3db6g13ly3r2~x2/"><circle cx="210.8" cy="120.6" r="4" fill="#3465a4"><title>Nova Scotia, dress</title></circle></a><circle cx="201.6" cy="152.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/g2o10g11ly4o1w18g2o1~x2/

@@ -2,12 +2,22 @@
 title: "New South Wales Scottish Rifles"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKGRGKBKB](/stripes/bkbkbkgrgkbkb/) · **Stripes:** [DB K DB K DB K G R G K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DB K G R G K DB K DB</span></span>
+**Bands:** [BKBKGRGKBKBKB](/stripes/bkbkgrgkbkbkb/) · **Stripes:** [DB K DB K G R G K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K G R G K DB K DB K DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3119
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Murray #2
+- NSW Scottish Rifles
+- New South Wales Scottish Rifle Regimental
+- New South Wales Scottish Rifles
+- New South Wales, Scottish Rifles
 
 ## Attestations
 
@@ -320,6 +330,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +431,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +691,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -931,8 +944,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x4/"><circle cx="176.9" cy="233.0" r="4" fill="#3465a4"><title>Murray #2</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6g6t2g6k6db6k1db2~x4/"><circle cx="177.1" cy="235.4" r="4" fill="#3465a4"><title>Cheape of Torosay (Clan)</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6g6t2g6k6db6k1g2~x4/"><circle cx="165.8" cy="234.2" r="4" fill="#3465a4"><title>Cheape of Torosay #2 (Personal)</title></circle></a><a href="/setts/s13/db1k1db6k6g6k1w1k1g6k6db6k1db1~x8/"><circle cx="182.1" cy="223.4" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/db30k5db5k5db5k24g24ly6g24k24db24k5db5/"><circle cx="187.1" cy="235.4" r="4" fill="#3465a4"><title>Lamberton (?)</title></circle></a><a href="/setts/s12/db5k1db1k1db1k4dg5ly1dg5k4db6k1~x4/"><circle cx="195.5" cy="245.0" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/setts/s13/g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/"><circle cx="175.1" cy="245.2" r="4" fill="#3465a4"><title>Lochinvar Marine Harvest</title></circle></a><a href="/setts/s12/db12k2db2k2db2k12dg12r3dg12k12db12r3~x2/"><circle cx="174.0" cy="240.2" r="4" fill="#3465a4"><title>Glenalmond College</title></circle></a><a href="/setts/s15/db12k4db4k4db4k12g16k2r3k2g16k12db16k4db4/"><circle cx="190.6" cy="221.1" r="4" fill="#3465a4"><title>MacKinlay (2/4 black stripes)</title></circle></a><a href="/setts/s13/db23k3db3k3db3k17g22ly4g22k17db22k3db3~x2/"><circle cx="193.5" cy="211.3" r="4" fill="#3465a4"><title>Westgate (Corporate)</title></circle></a><circle cx="176.9" cy="233.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x4/"><circle cx="177.1" cy="233.1" r="4" fill="#3465a4"><title>Murray #2</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6g6t2g6k6db6k1db2~x4/"><circle cx="177.3" cy="235.4" r="4" fill="#3465a4"><title>Cheape of Torosay (Clan)</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6g6t2g6k6db6k1g2~x4/"><circle cx="165.9" cy="234.3" r="4" fill="#3465a4"><title>Cheape of Torosay #2 (Personal)</title></circle></a><a href="/setts/s13/db1k1db6k6g6k1w1k1g6k6db6k1db1~x8/"><circle cx="182.3" cy="223.5" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/db30k5db5k5db5k24g24ly6g24k24db24k5db5/"><circle cx="187.3" cy="235.5" r="4" fill="#3465a4"><title>Lamberton (?)</title></circle></a><a href="/setts/s12/db5k1db1k1db1k4dg5ly1dg5k4db6k1~x4/"><circle cx="195.6" cy="245.1" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/setts/s13/g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/"><circle cx="175.3" cy="245.2" r="4" fill="#3465a4"><title>Lochinvar Marine Harvest</title></circle></a><a href="/setts/s12/db12k2db2k2db2k12dg12r3dg12k12db12r3~x2/"><circle cx="174.2" cy="240.3" r="4" fill="#3465a4"><title>Glenalmond College</title></circle></a><a href="/setts/s15/db12k4db4k4db4k12g16k2r3k2g16k12db16k4db4/"><circle cx="190.8" cy="221.2" r="4" fill="#3465a4"><title>MacKinlay (2/4 black stripes)</title></circle></a><a href="/setts/s13/db23k3db3k3db3k17g22ly4g22k17db22k3db3~x2/"><circle cx="193.7" cy="211.3" r="4" fill="#3465a4"><title>Westgate (Corporate)</title></circle></a><circle cx="177.1" cy="233.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x2/

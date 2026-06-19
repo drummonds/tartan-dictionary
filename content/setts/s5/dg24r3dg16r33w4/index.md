@@ -45,8 +45,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Munro (Black and Red)](/setts/s5/k18r4k18r32w3~x2/) — ΔT 0.94
-1. [Bodog.com](/setts/s5/lb3k10r25k25r3~x2/) — ΔT 0.95
-1. [Lugo (2013)](/setts/s4/r10dg4ly1dg4~x8/) — ΔT 1.00
+1. [Bodog.com](/setts/s5/r3k25r25k10lb3~x2/) — ΔT 0.95
+1. [Lugo (2013)](/setts/s4/r10dg4ly1~x8/) — ΔT 1.00
 1. [Prince of Orange](/setts/s4/t6do28lo20t3~x2/) — ΔT 1.03
 1. [MacQueen](/setts/s6/k2r6k2r6k12ly1~x4/) — ΔT 1.03
 1. [Swanstrom (Personal)](/setts/s6/k8r1k8r11ly1r1~x4/) — ΔT 1.04
@@ -57,8 +57,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k18r4k18r32w3~x2/"><circle cx="301.8" cy="227.4" r="4" fill="#3465a4"><title>Munro (Black and Red)</title></circle></a><a href="/setts/s5/lb3k10r25k25r3~x2/"><circle cx="317.6" cy="237.5" r="4" fill="#3465a4"><title>Bodog.com</title></circle></a><a href="/setts/s4/r10dg4ly1dg4~x8/"><circle cx="331.4" cy="248.8" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/setts/s4/t6do28lo20t3~x2/"><circle cx="283.1" cy="244.7" r="4" fill="#3465a4"><title>Prince of Orange</title></circle></a><a href="/setts/s6/k2r6k2r6k12ly1~x4/"><circle cx="342.6" cy="216.9" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><a href="/setts/s6/k8r1k8r11ly1r1~x4/"><circle cx="336.6" cy="214.9" r="4" fill="#3465a4"><title>Swanstrom (Personal)</title></circle></a><a href="/setts/s4/k1r8k8ly1~x6/"><circle cx="305.9" cy="242.9" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/setts/s4/k1r8k8ly1~x4/"><circle cx="305.9" cy="242.9" r="4" fill="#3465a4"><title>Wallace (Clan)</title></circle></a><a href="/setts/s6/r19k8r18k50w14k6/"><circle cx="289.1" cy="223.8" r="4" fill="#3465a4"><title>Knights Breton</title></circle></a><a href="/setts/s6/k3r15k11ly2k4r3~x2/"><circle cx="288.1" cy="227.9" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><circle cx="308.5" cy="231.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k18r4k18r32w3~x2/"><circle cx="301.7" cy="227.1" r="4" fill="#3465a4"><title>Munro (Black and Red)</title></circle></a><a href="/setts/s5/r3k25r25k10lb3~x2/"><circle cx="317.5" cy="237.3" r="4" fill="#3465a4"><title>Bodog.com</title></circle></a><a href="/setts/s4/r10dg4ly1~x8/"><circle cx="331.2" cy="248.6" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/setts/s4/t6do28lo20t3~x2/"><circle cx="283.0" cy="244.4" r="4" fill="#3465a4"><title>Prince of Orange</title></circle></a><a href="/setts/s6/k2r6k2r6k12ly1~x4/"><circle cx="342.4" cy="216.7" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><a href="/setts/s6/k8r1k8r11ly1r1~x4/"><circle cx="336.5" cy="214.7" r="4" fill="#3465a4"><title>Swanstrom (Personal)</title></circle></a><a href="/setts/s4/k1r8k8ly1~x6/"><circle cx="305.8" cy="242.6" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/setts/s4/k1r8k8ly1~x4/"><circle cx="305.8" cy="242.6" r="4" fill="#3465a4"><title>Wallace (Clan)</title></circle></a><a href="/setts/s6/r19k8r18k50w14k6/"><circle cx="289.0" cy="223.5" r="4" fill="#3465a4"><title>Knights Breton</title></circle></a><a href="/setts/s6/k3r15k11ly2k4r3~x2/"><circle cx="287.9" cy="227.7" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><circle cx="308.3" cy="231.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/dg24r3dg16r33w4/

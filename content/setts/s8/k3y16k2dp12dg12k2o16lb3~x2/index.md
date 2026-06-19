@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4801
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Young Presidents Org. Dress
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -55,13 +61,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Mekos, The](/setts/s6/do19dg23lo3db15r11w5~x2/) — ΔT 1.40
 1. [Caledonian (WCWM)](/setts/s11/r4lb2r6k2r6do16lo2k12o10k2o1~x2/) — ΔT 1.42
 1. [Cuthill (Personal)](/setts/s13/db3g4r2g3r3g16dt16r16db3r3db2r4ly3~x2/) — ΔT 1.44
-1. [Bonnie Brae](/setts/s11/o6dg4o3dg4o3dg26db20r26y3db3r6/) — ΔT 1.44
-1. [Christmas Hill Game Farm](/setts/s7/dy5lo20r3dg13dy13dp3lt3~x2/) — ΔT 1.46
+1. [Bonnie Brae](/setts/s11/r6db3y3r26db20dg26o3dg4o3dg4o6/) — ΔT 1.44
+1. [Roscommon, County](/setts/s10/r5ly3r19do6ly5do6dg12db5dg12db3~x2/) — ΔT 1.46
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/dg21t21ly3r21dt3dp5dt3~x2/"><circle cx="104.9" cy="191.4" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/setts/s11/dy30k6dy6r6lo6o14k4o3n14k6n16~x2/"><circle cx="149.6" cy="177.4" r="4" fill="#3465a4"><title>Bracken (WCWM)</title></circle></a><a href="/setts/s9/g13w2g10k5r13k3r5dt15o5~x2/"><circle cx="91.2" cy="197.0" r="4" fill="#3465a4"><title>Glen Chalmadale</title></circle></a><a href="/setts/s12/lo5db2r14do9dg8db3r3db3r3db3dg18ly3~x2/"><circle cx="150.7" cy="170.4" r="4" fill="#3465a4"><title>Meath, County</title></circle></a><a href="/setts/s7/g21t21ly3r21n3dp5n3~x2/"><circle cx="112.3" cy="193.4" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/setts/s6/do19dg23lo3db15r11w5~x2/"><circle cx="86.4" cy="216.8" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/setts/s11/r4lb2r6k2r6do16lo2k12o10k2o1~x2/"><circle cx="125.4" cy="140.9" r="4" fill="#3465a4"><title>Caledonian (WCWM)</title></circle></a><a href="/setts/s13/db3g4r2g3r3g16dt16r16db3r3db2r4ly3~x2/"><circle cx="125.6" cy="158.5" r="4" fill="#3465a4"><title>Cuthill (Personal)</title></circle></a><a href="/setts/s11/o6dg4o3dg4o3dg26db20r26y3db3r6/"><circle cx="154.2" cy="166.2" r="4" fill="#3465a4"><title>Bonnie Brae</title></circle></a><a href="/setts/s7/dy5lo20r3dg13dy13dp3lt3~x2/"><circle cx="134.7" cy="206.0" r="4" fill="#3465a4"><title>Christmas Hill Game Farm</title></circle></a><circle cx="91.4" cy="194.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/dg21t21ly3r21dt3dp5dt3~x2/"><circle cx="105.0" cy="191.6" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/setts/s11/dy30k6dy6r6lo6o14k4o3n14k6n16~x2/"><circle cx="149.6" cy="177.6" r="4" fill="#3465a4"><title>Bracken (WCWM)</title></circle></a><a href="/setts/s9/g13w2g10k5r13k3r5dt15o5~x2/"><circle cx="91.3" cy="197.2" r="4" fill="#3465a4"><title>Glen Chalmadale</title></circle></a><a href="/setts/s12/lo5db2r14do9dg8db3r3db3r3db3dg18ly3~x2/"><circle cx="150.7" cy="170.6" r="4" fill="#3465a4"><title>Meath, County</title></circle></a><a href="/setts/s7/g21t21ly3r21n3dp5n3~x2/"><circle cx="112.3" cy="193.6" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/setts/s6/do19dg23lo3db15r11w5~x2/"><circle cx="86.6" cy="217.0" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/setts/s11/r4lb2r6k2r6do16lo2k12o10k2o1~x2/"><circle cx="125.4" cy="141.2" r="4" fill="#3465a4"><title>Caledonian (WCWM)</title></circle></a><a href="/setts/s13/db3g4r2g3r3g16dt16r16db3r3db2r4ly3~x2/"><circle cx="125.6" cy="158.7" r="4" fill="#3465a4"><title>Cuthill (Personal)</title></circle></a><a href="/setts/s11/r6db3y3r26db20dg26o3dg4o3dg4o6/"><circle cx="154.3" cy="166.5" r="4" fill="#3465a4"><title>Bonnie Brae</title></circle></a><a href="/setts/s10/r5ly3r19do6ly5do6dg12db5dg12db3~x2/"><circle cx="116.9" cy="208.2" r="4" fill="#3465a4"><title>Roscommon, County</title></circle></a><circle cx="91.6" cy="194.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k3y16k2dp12dg12k2o16lb3~x2/

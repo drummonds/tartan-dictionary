@@ -2,7 +2,7 @@
 title: "Gedling, Peter (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKBYBYBBR](/stripes/bkbybybbr/) · **Stripes:** [DP K DP LY DP LY DP DB R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DP K DP LY DP LY DP DB R</span></span>
+**Bands:** [RBBYBYBKB](/stripes/rbbybybkb/) · **Stripes:** [R DB DP LY DP LY DP K DP](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DB DP LY DP LY DP K DP</span></span>
 
 
 This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/
 Original link http://www.tartansauthority.com/tartan-ferret/display/10957/
 
 ## Thread count
-DP/2 K64 DP4 Y4 DP2 Y2 DP6 DB18 R/16
+R/16 DB18 DP6 Y2 DP2 Y4 DP4 K64 DP/2
 ![Sett](sett.png)
 
 ## Palette
@@ -35,14 +35,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Midnight Balmoral (Personal)](/setts/s9/t4w1k36db2r4w1db14r8w1~x2/) — ΔT 1.07
 1. [Distripress (Corporate)](/setts/s8/r6k1w4k4n15r1k35o2~x2/) — ΔT 1.16
 1. [Town of Petawawa](/setts/s9/dg4w1db2lo2k3db3w1dp22lo1~x4/) — ΔT 1.16
-1. [Hot Boontjie](/setts/s8/m4dg4k1w2k1dg18k32r4~x2/) — ΔT 1.17
+1. [Hot Boontjie](/setts/s8/r4k32dg18k1w2k1dg4m4~x2/) — ΔT 1.17
 1. [Brooks Brothers (Corporate)](/setts/s11/o48k10db12k2o3k2db12k10o10k2ly3~x2/) — ΔT 1.22
 1. [Italian American](/setts/s9/r4k2w6k2db40k80dg10w6r3/) — ΔT 1.23
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/o4w1k36db2r4w1db14r8w1~x2/"><circle cx="328.8" cy="111.3" r="4" fill="#3465a4"><title>Midnight Balmoral (Fashion)</title></circle></a><a href="/setts/s9/db12w1db2k3r15k1ly2k39r2~x2/"><circle cx="355.2" cy="96.4" r="4" fill="#3465a4"><title>Superstition Fire Honor Guard Pipes</title></circle></a><a href="/setts/s8/r35w8k85o6k4o14k2dp4/"><circle cx="362.8" cy="98.7" r="4" fill="#3465a4"><title>MacEvil (Corporate)</title></circle></a><a href="/setts/s10/r3w2r2db2r2db24k28r2k3ly1~x2/"><circle cx="296.1" cy="107.3" r="4" fill="#3465a4"><title>Locky</title></circle></a><a href="/setts/s9/t4w1k36db2r4w1db14r8w1~x2/"><circle cx="297.2" cy="93.4" r="4" fill="#3465a4"><title>Midnight Balmoral (Personal)</title></circle></a><a href="/setts/s8/r6k1w4k4n15r1k35o2~x2/"><circle cx="355.6" cy="110.1" r="4" fill="#3465a4"><title>Distripress (Corporate)</title></circle></a><a href="/setts/s9/dg4w1db2lo2k3db3w1dp22lo1~x4/"><circle cx="317.1" cy="104.7" r="4" fill="#3465a4"><title>Town of Petawawa</title></circle></a><a href="/setts/s8/m4dg4k1w2k1dg18k32r4~x2/"><circle cx="340.2" cy="130.5" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/setts/s11/o48k10db12k2o3k2db12k10o10k2ly3~x2/"><circle cx="259.5" cy="112.3" r="4" fill="#3465a4"><title>Brooks Brothers (Corporate)</title></circle></a><a href="/setts/s9/r4k2w6k2db40k80dg10w6r3/"><circle cx="341.6" cy="97.1" r="4" fill="#3465a4"><title>Italian American</title></circle></a><circle cx="339.7" cy="106.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/o4w1k36db2r4w1db14r8w1~x2/"><circle cx="328.8" cy="111.3" r="4" fill="#3465a4"><title>Midnight Balmoral (Fashion)</title></circle></a><a href="/setts/s9/db12w1db2k3r15k1ly2k39r2~x2/"><circle cx="355.0" cy="96.4" r="4" fill="#3465a4"><title>Superstition Fire Honor Guard Pipes</title></circle></a><a href="/setts/s8/r35w8k85o6k4o14k2dp4/"><circle cx="362.6" cy="98.6" r="4" fill="#3465a4"><title>MacEvil (Corporate)</title></circle></a><a href="/setts/s10/r3w2r2db2r2db24k28r2k3ly1~x2/"><circle cx="296.1" cy="107.4" r="4" fill="#3465a4"><title>Locky</title></circle></a><a href="/setts/s9/t4w1k36db2r4w1db14r8w1~x2/"><circle cx="297.2" cy="93.3" r="4" fill="#3465a4"><title>Midnight Balmoral (Personal)</title></circle></a><a href="/setts/s8/r6k1w4k4n15r1k35o2~x2/"><circle cx="355.5" cy="110.0" r="4" fill="#3465a4"><title>Distripress (Corporate)</title></circle></a><a href="/setts/s9/dg4w1db2lo2k3db3w1dp22lo1~x4/"><circle cx="317.0" cy="104.8" r="4" fill="#3465a4"><title>Town of Petawawa</title></circle></a><a href="/setts/s8/r4k32dg18k1w2k1dg4m4~x2/"><circle cx="340.1" cy="130.4" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/setts/s11/o48k10db12k2o3k2db12k10o10k2ly3~x2/"><circle cx="259.4" cy="112.4" r="4" fill="#3465a4"><title>Brooks Brothers (Corporate)</title></circle></a><a href="/setts/s9/r4k2w6k2db40k80dg10w6r3/"><circle cx="341.6" cy="97.0" r="4" fill="#3465a4"><title>Italian American</title></circle></a><circle cx="339.6" cy="106.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r8db9dp3ly1dp1ly2dp2k32dp1~x2/

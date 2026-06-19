@@ -2,12 +2,19 @@
 title: "Scottish American Athletic Assoc"
 date: 2023-03-18
 ---
-**Bands:** [BYRKY](/stripes/byrky/) · **Stripes:** [DT LR R K LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DT LR R K LY</span></span>
+**Bands:** [YKRYB](/stripes/ykryb/) · **Stripes:** [LY K R LR DT](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="seq">LY K R LR DT</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3708
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Scottish American Athletic Assoc (Co
+- Scottish American Athletic Assoc Corporate Sports
 
 ## Attestations
 
@@ -25,7 +32,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7193
 
 ## Thread count
-Na/8 N12 DRa32 K42 Y/64
+Y/64 K42 DRa32 N12 Na/8
 ![Sett](sett.png)
 
 ## Palette
@@ -45,7 +52,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "Na/8 N12 DRa32 K42 Y/64 tartan")
+![Tartan detail](tartan.png "Y/64 K42 DRa32 N12 Na/8 tartan")
 
 ## Nearest tartans
 
@@ -54,7 +61,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Entre Rios Province (Provisional](/setts/s6/g36lb4g8k29r24w7~x2/) — ΔT 1.06
 1. [Samye](/setts/s5/ly25r10g10db11w2~x2/) — ΔT 1.07
 1. [Aboyne II (Fashion)](/setts/s6/r2ly1r5k4g5w1~x4/) — ΔT 1.20
-1. [Thirkill (Dalgliesh)](/setts/s7/ly6k8g7r6k2r18w6~x4/) — ΔT 1.29
+1. [Thirkill (Dalgliesh)](/setts/s7/w6r18k2r6g7k8ly6~x4/) — ΔT 1.29
 1. [Turnbull, dress](/setts/s5/k7db3g28r28ly3~x2/) — ΔT 1.30
 1. [Sachie Hara Scottish Check (Personal)](/setts/s5/k5db4g24r21w3~x2/) — ΔT 1.31
 1. [Burberry Counterfeit](/setts/s5/o3w3k3lo10r1~x6/) — ΔT 1.35
@@ -64,8 +71,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g36lb4g8k29r24w7~x2/"><circle cx="144.7" cy="193.7" r="4" fill="#3465a4"><title>Entre Rios Province (Provisional</title></circle></a><a href="/setts/s5/ly25r10g10db11w2~x2/"><circle cx="160.0" cy="183.7" r="4" fill="#3465a4"><title>Samye</title></circle></a><a href="/setts/s6/r2ly1r5k4g5w1~x4/"><circle cx="113.6" cy="221.7" r="4" fill="#3465a4"><title>Aboyne II (Fashion)</title></circle></a><a href="/setts/s7/ly6k8g7r6k2r18w6~x4/"><circle cx="149.7" cy="180.2" r="4" fill="#3465a4"><title>Thirkill (Dalgliesh)</title></circle></a><a href="/setts/s5/k7db3g28r28ly3~x2/"><circle cx="197.1" cy="189.0" r="4" fill="#3465a4"><title>Turnbull, dress</title></circle></a><a href="/setts/s5/k5db4g24r21w3~x2/"><circle cx="194.3" cy="201.7" r="4" fill="#3465a4"><title>Sachie Hara Scottish Check (Personal)</title></circle></a><a href="/setts/s5/o3w3k3lo10r1~x6/"><circle cx="212.9" cy="186.3" r="4" fill="#3465a4"><title>Burberry Counterfeit</title></circle></a><a href="/setts/s5/y26k10r10ly10y3~x2/"><circle cx="200.1" cy="215.5" r="4" fill="#3465a4"><title>Ikelman No 2</title></circle></a><a href="/setts/s5/r39t22k11ly22g5~x2/"><circle cx="130.9" cy="203.5" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/setts/s7/r36w3lo4g24w24k3lo6~x2/"><circle cx="140.5" cy="146.5" r="4" fill="#3465a4"><title>MacLachlan Dress</title></circle></a><circle cx="130.8" cy="196.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g36lb4g8k29r24w7~x2/"><circle cx="144.7" cy="193.6" r="4" fill="#3465a4"><title>Entre Rios Province (Provisional</title></circle></a><a href="/setts/s5/ly25r10g10db11w2~x2/"><circle cx="159.8" cy="183.6" r="4" fill="#3465a4"><title>Samye</title></circle></a><a href="/setts/s6/r2ly1r5k4g5w1~x4/"><circle cx="113.6" cy="221.6" r="4" fill="#3465a4"><title>Aboyne II (Fashion)</title></circle></a><a href="/setts/s7/w6r18k2r6g7k8ly6~x4/"><circle cx="149.6" cy="180.2" r="4" fill="#3465a4"><title>Thirkill (Dalgliesh)</title></circle></a><a href="/setts/s5/k7db3g28r28ly3~x2/"><circle cx="197.0" cy="188.9" r="4" fill="#3465a4"><title>Turnbull, dress</title></circle></a><a href="/setts/s5/k5db4g24r21w3~x2/"><circle cx="194.2" cy="201.6" r="4" fill="#3465a4"><title>Sachie Hara Scottish Check (Personal)</title></circle></a><a href="/setts/s5/o3w3k3lo10r1~x6/"><circle cx="212.7" cy="186.2" r="4" fill="#3465a4"><title>Burberry Counterfeit</title></circle></a><a href="/setts/s5/y26k10r10ly10y3~x2/"><circle cx="200.0" cy="215.3" r="4" fill="#3465a4"><title>Ikelman No 2</title></circle></a><a href="/setts/s5/r39t22k11ly22g5~x2/"><circle cx="130.8" cy="203.4" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/setts/s7/r36w3lo4g24w24k3lo6~x2/"><circle cx="140.3" cy="146.4" r="4" fill="#3465a4"><title>MacLachlan Dress</title></circle></a><circle cx="130.7" cy="196.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/ly32k21r16lr6dt4~x2/

@@ -22,6 +22,6 @@ RWKWKWKWKWKWKWKWKWKW
 
 | Tartans |
 |---------------|
-| [Kerr Shepherd's Plaid (Clan)](/setts/s20/r1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1~x8/)|
-|![Kerr Shepherd's Plaid (Clan) example sett](/setts/s20/r1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1~x8/sett.png)|
+| [Kerr Shepherd's Plaid (Clan)](/setts/s20/k1w1k1w1k1w1k1w1k1w1r1~x8/)|
+|![Kerr Shepherd's Plaid (Clan) example sett](/setts/s20/k1w1k1w1k1w1k1w1k1w1r1~x8/sett.png)|
 

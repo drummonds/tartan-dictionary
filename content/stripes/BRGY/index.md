@@ -21,14 +21,14 @@ BRGY
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB R G LY <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB R G LY</span></span>
+### LY G R DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY G R DB</span></span>
 
 | Tartans |
 |---------------|
 | [Barber Family (Personal)](/setts/s4/ly30g30r1db16~x2/)|
 |![Barber Family (Personal) example sett](/setts/s4/ly30g30r1db16~x2/sett.png)|
 
-### T R G LY <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">T R G LY</span></span>
+### LY G R T <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY G R T</span></span>
 
 | Tartans |
 |---------------|

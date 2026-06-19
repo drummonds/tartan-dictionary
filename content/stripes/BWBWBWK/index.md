@@ -8,7 +8,7 @@ BWBWBWK
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/db1w1db8w4db2w3k1~x6/tartan.png)
+![Woven sample](/setts/s7/k1w3db2w4db8w1db1~x6/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ BWBWBWK
 
 
 
-### DB W DB W DB W K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">DB W DB W DB W K</span></span>
+### K W DB W DB W DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">K W DB W DB W DB</span></span>
 
 | Tartans |
 |---------------|
-| [Queen Margaret University (Corporate](/setts/s7/db1w1db8w4db2w3k1~x6/)|
-|![Queen Margaret University (Corporate example sett](/setts/s7/db1w1db8w4db2w3k1~x6/sett.png)|
+| [Queen Margaret University (Corporate](/setts/s7/k1w3db2w4db8w1db1~x6/)|
+|![Queen Margaret University (Corporate example sett](/setts/s7/k1w3db2w4db8w1db1~x6/sett.png)|
 

@@ -8,11 +8,11 @@ A family of [Clan MacDonald](/clan/macdonald/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s9/lo3g2lo2g21w2r18lo2g3r3~x2/"><img src="/setts/s9/lo3g2lo2g21w2r18lo2g3r3~x2/sett.png" alt="MacDonald of Kingsburgh" width="240"><br>MacDonald of Kingsburgh</a>
+<a class="tartan" href="/setts/s9/r3g3lo2r18w2g21lo2g2lo3~x2/"><img src="/setts/s9/r3g3lo2r18w2g21lo2g2lo3~x2/sett.png" alt="MacDonald of Kingsburgh" width="240"><br>MacDonald of Kingsburgh</a>
 
 ## Other tartans
 
 <ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s9/ly3g1ly1g21w1r18ly1g3r3~x2/"><img src="/setts/s9/ly3g1ly1g21w1r18ly1g3r3~x2/sett.png" alt="MacDonald of Kingsburgh" width="140"><br>MacDonald of Kingsburgh</a></li>
+<li><a class="tartan" href="/setts/s9/r3g3ly1r18w1g21ly1g1ly3~x2/"><img src="/setts/s9/r3g3ly1r18w1g21ly1g1ly3~x2/sett.png" alt="MacDonald of Kingsburgh" width="140"><br>MacDonald of Kingsburgh</a></li>
 </ul>
 

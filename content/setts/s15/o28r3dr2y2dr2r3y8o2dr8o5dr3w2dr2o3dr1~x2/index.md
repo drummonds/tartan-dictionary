@@ -2,7 +2,7 @@
 title: "Caithness"
 date: 2023-03-18
 ---
-**Bands:** [BRBWBRBRGRBGBRR](/stripes/brbwbrbrgrbgbrr/) · **Stripes:** [DR O DR W DR O DR O Y R DR Y DR R O](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DR O DR W DR O DR O Y R DR Y DR R O</span></span>
+**Bands:** [RRBGBRGRBRBWBRB](/stripes/rrbgbrgrbrbwbrb/) · **Stripes:** [O R DR Y DR R Y O DR O DR W DR O DR](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="seq">O R DR Y DR R Y O DR O DR W DR O DR</span></span>
 
 
 This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DR/2 LT6 DR4 LN4 DR6 LT10 DR16 LT4 N16 R6 DR4 N4 DR4 R6 LTa/56
+LTa/56 R6 DR4 N4 DR4 R6 N16 LT4 DR16 LT10 DR6 LN4 DR4 LT6 DR/2
 ![Sett](sett.png)
 
 ## Palette
@@ -907,18 +910,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Caithness District Tartan Tartan Number: 2466. Earliest known date: (Feb, 2001) Designed by Trudi Mann of Wick and incorporating colours of Caithness, including the unique blue grey Caithness flagstone. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/dy28r3do2o2do2r3o8lo2do8lo5do3w2do2lo3do1~x2/) — ΔT 0.84
 1. [Langermann (Name)](/setts/s16/dt1y2dt1y3g6dt1y6dt2lo5r13dy23lo1dy1lo1dy2lo1~x2/) — ΔT 1.01
 1. [Ryutokukan High School (Corporate)](/setts/s12/o3n20r1n4r2n2r4n2r5g2r20w3~x2/) — ΔT 1.19
-1. [Flodden](/setts/s12/ly2r2ly2o14lo2r3lo1r1y20r3lo1w2~x2/) — ΔT 1.28
+1. [Flodden](/setts/s12/w2lo1r3y20r1lo1r3lo2o14ly2r2ly2~x2/) — ΔT 1.28
 1. [Buglass](/setts/s13/lo3n1lo1n16do2n2do2n3do12do26ly2do3lb2~x2/) — ΔT 1.31
 1. [Ryutokukan High School](/setts/s12/do3n20r1n4r2n2r4n2r5lg2dr20w3~x2/) — ΔT 1.36
 1. [North West Mounted Police (Commemo)](/setts/s16/r44do3lb2g14lb2y4r4do2r4y4lb2dt12do6r6y7lb2~x2/) — ΔT 1.51
 1. [MacColl, hunting](/setts/s18/r6r3r6db22r7r2w1r2db2r2w1r2r7y22r7y2r2r2~x2/) — ΔT 1.52
 1. [Langerman (Anchorage)](/setts/s16/db1y2db1y3dg6db1y6db2r5r13do23r1do1r1do2r1~x2/) — ΔT 1.54
-1. [Melrose (Newbigging) (Personal)](/setts/s18/lo1k1r15n2r1n2r1n2r1n15k2g2n1g2n1g10k2w1~x2/) — ΔT 1.54
+1. [Melrose (Newbigging) (Personal)](/setts/s18/w1k2g10n1g2n1g2k2n15r1n2r1n2r1n2r15k1lo1~x2/) — ΔT 1.54
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/dy28r3do2o2do2r3o8lo2do8lo5do3w2do2lo3do1~x2/"><circle cx="236.2" cy="82.6" r="4" fill="#3465a4"><title>Caithness District Tartan Tartan Number: 2466. Earliest known date: (Feb, 2001) Designed by Trudi Mann of Wick and incorporating colours of Caithness, including the unique blue grey Caithness flagstone. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/dt1y2dt1y3g6dt1y6dt2lo5r13dy23lo1dy1lo1dy2lo1~x2/"><circle cx="252.1" cy="101.7" r="4" fill="#3465a4"><title>Langermann (Name)</title></circle></a><a href="/setts/s12/o3n20r1n4r2n2r4n2r5g2r20w3~x2/"><circle cx="254.4" cy="111.7" r="4" fill="#3465a4"><title>Ryutokukan High School (Corporate)</title></circle></a><a href="/setts/s12/ly2r2ly2o14lo2r3lo1r1y20r3lo1w2~x2/"><circle cx="254.8" cy="112.4" r="4" fill="#3465a4"><title>Flodden</title></circle></a><a href="/setts/s13/lo3n1lo1n16do2n2do2n3do12do26ly2do3lb2~x2/"><circle cx="281.1" cy="121.7" r="4" fill="#3465a4"><title>Buglass</title></circle></a><a href="/setts/s12/do3n20r1n4r2n2r4n2r5lg2dr20w3~x2/"><circle cx="250.4" cy="119.0" r="4" fill="#3465a4"><title>Ryutokukan High School</title></circle></a><a href="/setts/s16/r44do3lb2g14lb2y4r4do2r4y4lb2dt12do6r6y7lb2~x2/"><circle cx="284.0" cy="84.3" r="4" fill="#3465a4"><title>North West Mounted Police (Commemo)</title></circle></a><a href="/setts/s18/r6r3r6db22r7r2w1r2db2r2w1r2r7y22r7y2r2r2~x2/"><circle cx="260.0" cy="105.6" r="4" fill="#3465a4"><title>MacColl, hunting</title></circle></a><a href="/setts/s16/db1y2db1y3dg6db1y6db2r5r13do23r1do1r1do2r1~x2/"><circle cx="273.5" cy="116.4" r="4" fill="#3465a4"><title>Langerman (Anchorage)</title></circle></a><a href="/setts/s18/lo1k1r15n2r1n2r1n2r1n15k2g2n1g2n1g10k2w1~x2/"><circle cx="226.6" cy="108.4" r="4" fill="#3465a4"><title>Melrose (Newbigging) (Personal)</title></circle></a><circle cx="252.6" cy="90.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/dy28r3do2o2do2r3o8lo2do8lo5do3w2do2lo3do1~x2/"><circle cx="235.9" cy="82.9" r="4" fill="#3465a4"><title>Caithness District Tartan Tartan Number: 2466. Earliest known date: (Feb, 2001) Designed by Trudi Mann of Wick and incorporating colours of Caithness, including the unique blue grey Caithness flagstone. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/dt1y2dt1y3g6dt1y6dt2lo5r13dy23lo1dy1lo1dy2lo1~x2/"><circle cx="251.8" cy="102.1" r="4" fill="#3465a4"><title>Langermann (Name)</title></circle></a><a href="/setts/s12/o3n20r1n4r2n2r4n2r5g2r20w3~x2/"><circle cx="254.1" cy="111.9" r="4" fill="#3465a4"><title>Ryutokukan High School (Corporate)</title></circle></a><a href="/setts/s12/w2lo1r3y20r1lo1r3lo2o14ly2r2ly2~x2/"><circle cx="254.4" cy="112.6" r="4" fill="#3465a4"><title>Flodden</title></circle></a><a href="/setts/s13/lo3n1lo1n16do2n2do2n3do12do26ly2do3lb2~x2/"><circle cx="280.9" cy="121.9" r="4" fill="#3465a4"><title>Buglass</title></circle></a><a href="/setts/s12/do3n20r1n4r2n2r4n2r5lg2dr20w3~x2/"><circle cx="250.3" cy="119.2" r="4" fill="#3465a4"><title>Ryutokukan High School</title></circle></a><a href="/setts/s16/r44do3lb2g14lb2y4r4do2r4y4lb2dt12do6r6y7lb2~x2/"><circle cx="283.7" cy="84.5" r="4" fill="#3465a4"><title>North West Mounted Police (Commemo)</title></circle></a><a href="/setts/s18/r6r3r6db22r7r2w1r2db2r2w1r2r7y22r7y2r2r2~x2/"><circle cx="259.6" cy="105.8" r="4" fill="#3465a4"><title>MacColl, hunting</title></circle></a><a href="/setts/s16/db1y2db1y3dg6db1y6db2r5r13do23r1do1r1do2r1~x2/"><circle cx="273.4" cy="116.8" r="4" fill="#3465a4"><title>Langerman (Anchorage)</title></circle></a><a href="/setts/s18/w1k2g10n1g2n1g2k2n15r1n2r1n2r1n2r15k1lo1~x2/"><circle cx="226.5" cy="108.7" r="4" fill="#3465a4"><title>Melrose (Newbigging) (Personal)</title></circle></a><circle cx="252.3" cy="90.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/o28r3dr2y2dr2r3y8o2dr8o5dr3w2dr2o3dr1~x2/

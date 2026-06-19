@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -903,12 +906,12 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Dalmeny - 2002 (Fashion)](/setts/s10/db11w2db11k4g8r1g8k4db11w2~x2/) — ΔT 0.91
+1. [Dalmeny - 2002 (Fashion)](/setts/s10/db11w2db11k4g8r1~x2/) — ΔT 0.91
 1. [Notre Dame Marching Guard](/setts/s10/g9b9k24b35dr5b35k24b9g9dr5~x2/) — ΔT 1.00
-1. [Seaford House](/setts/s9/lb3db3lb12db26g26r3g26db28w3/) — ΔT 1.15
-1. [MacCainsh](/setts/s11/ly2db8k1g2k1g4k1g2k1db8r2~x2/) — ΔT 1.16
+1. [Seaford House](/setts/s9/w3db28g26r3g26db26lb12db3lb3/) — ΔT 1.15
+1. [MacCainsh](/setts/s11/r2db8k1g2k1g4k1g2k1db8ly2~x2/) — ΔT 1.16
 1. [Glackin-McColgan (Personal)](/setts/s9/b16k11b24dg10ly3dg17b15k5r6~x2/) — ΔT 1.17
-1. [Bruce (Personal)](/setts/s11/ly1db8g2db2g6db1g6db2g2db8w1~x4/) — ΔT 1.18
+1. [Bruce (Personal)](/setts/s11/w1db8g2db2g6db1g6db2g2db8ly1~x4/) — ΔT 1.18
 1. [Hunter of Hunterston (Clan)](/setts/s11/g5db2g14db14r2db14w2g14r2g4ly3~x2/) — ΔT 1.21
 1. [O'Connell, William (Name)](/setts/s10/db19g7db7t2g20k9g6k4g10w3~x2/) — ΔT 1.22
 1. [Grainger (Name)](/setts/s7/db36r4db6g18db15k18w4~x2/) — ΔT 1.29
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db11w2db11k4g8r1g8k4db11w2~x2/"><circle cx="224.2" cy="196.8" r="4" fill="#3465a4"><title>Dalmeny - 2002 (Fashion)</title></circle></a><a href="/setts/s10/g9b9k24b35dr5b35k24b9g9dr5~x2/"><circle cx="238.6" cy="222.5" r="4" fill="#3465a4"><title>Notre Dame Marching Guard</title></circle></a><a href="/setts/s9/lb3db3lb12db26g26r3g26db28w3/"><circle cx="196.7" cy="189.3" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/setts/s11/ly2db8k1g2k1g4k1g2k1db8r2~x2/"><circle cx="199.6" cy="171.9" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/setts/s9/b16k11b24dg10ly3dg17b15k5r6~x2/"><circle cx="197.4" cy="223.6" r="4" fill="#3465a4"><title>Glackin-McColgan (Personal)</title></circle></a><a href="/setts/s11/ly1db8g2db2g6db1g6db2g2db8w1~x4/"><circle cx="286.1" cy="214.7" r="4" fill="#3465a4"><title>Bruce (Personal)</title></circle></a><a href="/setts/s11/g5db2g14db14r2db14w2g14r2g4ly3~x2/"><circle cx="214.5" cy="191.5" r="4" fill="#3465a4"><title>Hunter of Hunterston (Clan)</title></circle></a><a href="/setts/s10/db19g7db7t2g20k9g6k4g10w3~x2/"><circle cx="224.5" cy="205.6" r="4" fill="#3465a4"><title>O'Connell, William (Name)</title></circle></a><a href="/setts/s7/db36r4db6g18db15k18w4~x2/"><circle cx="263.9" cy="213.7" r="4" fill="#3465a4"><title>Grainger (Name)</title></circle></a><a href="/setts/s12/w6dt20b5dt5b5dt20r14dt4k18dt30lo4dt4/"><circle cx="254.9" cy="178.8" r="4" fill="#3465a4"><title>Edinburgh Bus Tours</title></circle></a><circle cx="238.8" cy="201.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db11w2db11k4g8r1~x2/"><circle cx="224.3" cy="196.8" r="4" fill="#3465a4"><title>Dalmeny - 2002 (Fashion)</title></circle></a><a href="/setts/s10/g9b9k24b35dr5b35k24b9g9dr5~x2/"><circle cx="238.6" cy="222.4" r="4" fill="#3465a4"><title>Notre Dame Marching Guard</title></circle></a><a href="/setts/s9/w3db28g26r3g26db26lb12db3lb3/"><circle cx="196.7" cy="189.2" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/setts/s11/r2db8k1g2k1g4k1g2k1db8ly2~x2/"><circle cx="199.6" cy="171.9" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/setts/s9/b16k11b24dg10ly3dg17b15k5r6~x2/"><circle cx="197.5" cy="223.6" r="4" fill="#3465a4"><title>Glackin-McColgan (Personal)</title></circle></a><a href="/setts/s11/w1db8g2db2g6db1g6db2g2db8ly1~x4/"><circle cx="286.1" cy="214.5" r="4" fill="#3465a4"><title>Bruce (Personal)</title></circle></a><a href="/setts/s11/g5db2g14db14r2db14w2g14r2g4ly3~x2/"><circle cx="214.5" cy="191.5" r="4" fill="#3465a4"><title>Hunter of Hunterston (Clan)</title></circle></a><a href="/setts/s10/db19g7db7t2g20k9g6k4g10w3~x2/"><circle cx="224.6" cy="205.5" r="4" fill="#3465a4"><title>O'Connell, William (Name)</title></circle></a><a href="/setts/s7/db36r4db6g18db15k18w4~x2/"><circle cx="264.0" cy="213.6" r="4" fill="#3465a4"><title>Grainger (Name)</title></circle></a><a href="/setts/s12/w6dt20b5dt5b5dt20r14dt4k18dt30lo4dt4/"><circle cx="255.0" cy="178.8" r="4" fill="#3465a4"><title>Edinburgh Bus Tours</title></circle></a><circle cx="238.8" cy="201.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db8k1db8k2g6r1g6k2db8w1~x2/

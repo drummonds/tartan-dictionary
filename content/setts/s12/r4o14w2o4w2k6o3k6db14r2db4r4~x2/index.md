@@ -2,7 +2,7 @@
 title: "Kinloch Anderson, dress"
 date: 2023-03-18
 ---
-**Bands:** [RBRBKRKWRWRR](/stripes/rbrbkrkwrwrr/) · **Stripes:** [R DB R DB K O K W O W O R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB R DB K O K W O W O R</span></span>
+**Bands:** [RRWRWKRKBRBR](/stripes/rrwrwkrkbrbr/) · **Stripes:** [R O W O W K O K DB R DB R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R O W O W K O K DB R DB R</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-R/8 DB8 R4 DB28 K12 LT6 K12 LN4 LTa8 LN4 LT28 R/8
+R/8 LT28 LN4 LTa8 LN4 K12 LT6 K12 DB28 R4 DB8 R/8
 ![Sett](sett.png)
 
 ## Palette
@@ -910,15 +913,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Kinloch Anderson Old Dress](/setts/s12/r4y14lb2do4lb2k6y3k6db13r2db4r4~x2/) — ΔT 0.98
 1. [Kinloch Anderson Limited](/setts/s12/r4o14o2o4o2k6o3k6k14r2k4r4~x2/) — ΔT 1.04
 1. [Prince Albert](/setts/s13/r3db9r2k7ly2k2w2k2g6r5k2r2w2~x2/) — ΔT 1.05
-1. [Prince Albert #3](/setts/s13/r3db9r2k7ly2k2w2k2g6r5k2r2w2~x4/) — ΔT 1.06
+1. [Prince Albert #3](/setts/s13/r3db9r2k7ly2k2w2k2g6r5k2r2w2~x4/) — ΔT 1.07
 1. [Black Hills](/setts/s9/db3w2g14r14k2db7k9ly2k2~x2/) — ΔT 1.08
-1. [Bowie (white lines) (Name)](/setts/s13/db8r2db3r4db13w2y13w2dg13r4dg4lo2dg8~x2/) — ΔT 1.09
+1. [Bowie (white lines) (Name)](/setts/s13/dg8lo2dg4r4dg13w2y13w2db13r4db3r2db8~x2/) — ΔT 1.09
 1. [Prince Albert](/setts/s13/db23r6db6k10ly3k2w2k2g11r12k2r10w2~x2/) — ΔT 1.10
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r13w2r13k3r13dg21n3k18n9k2n2k2n15w2~x2/"><circle cx="54.9" cy="133.4" r="4" fill="#3465a4"><title>Taiwan Scottish</title></circle></a><a href="/setts/s13/r6db9k2db2k2db9k10ly4n17r5k2r5w4~x2/"><circle cx="56.0" cy="151.2" r="4" fill="#3465a4"><title>Alberta Caledonia (Corporate)</title></circle></a><a href="/setts/s15/r6db2r6g10ly1k10db6k1db2k1db6r6w2k2r2~x2/"><circle cx="75.6" cy="132.6" r="4" fill="#3465a4"><title>MacPherson 10</title></circle></a><a href="/setts/s12/r4y14lb2do4lb2k6y3k6db13r2db4r4~x2/"><circle cx="63.7" cy="168.4" r="4" fill="#3465a4"><title>Kinloch Anderson Old Dress</title></circle></a><a href="/setts/s12/r4o14o2o4o2k6o3k6k14r2k4r4~x2/"><circle cx="97.6" cy="173.9" r="4" fill="#3465a4"><title>Kinloch Anderson Limited</title></circle></a><a href="/setts/s13/r3db9r2k7ly2k2w2k2g6r5k2r2w2~x2/"><circle cx="14.0" cy="167.9" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><a href="/setts/s13/r3db9r2k7ly2k2w2k2g6r5k2r2w2~x4/"><circle cx="18.8" cy="169.8" r="4" fill="#3465a4"><title>Prince Albert #3</title></circle></a><a href="/setts/s9/db3w2g14r14k2db7k9ly2k2~x2/"><circle cx="59.5" cy="162.6" r="4" fill="#3465a4"><title>Black Hills</title></circle></a><a href="/setts/s13/db8r2db3r4db13w2y13w2dg13r4dg4lo2dg8~x2/"><circle cx="69.5" cy="163.9" r="4" fill="#3465a4"><title>Bowie (white lines) (Name)</title></circle></a><a href="/setts/s13/db23r6db6k10ly3k2w2k2g11r12k2r10w2~x2/"><circle cx="96.5" cy="121.6" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><circle cx="45.4" cy="153.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r13w2r13k3r13dg21n3k18n9k2n2k2n15w2~x2/"><circle cx="55.0" cy="133.6" r="4" fill="#3465a4"><title>Taiwan Scottish</title></circle></a><a href="/setts/s13/r6db9k2db2k2db9k10ly4n17r5k2r5w4~x2/"><circle cx="56.1" cy="151.4" r="4" fill="#3465a4"><title>Alberta Caledonia (Corporate)</title></circle></a><a href="/setts/s15/r6db2r6g10ly1k10db6k1db2k1db6r6w2k2r2~x2/"><circle cx="75.6" cy="132.7" r="4" fill="#3465a4"><title>MacPherson 10</title></circle></a><a href="/setts/s12/r4y14lb2do4lb2k6y3k6db13r2db4r4~x2/"><circle cx="63.8" cy="168.6" r="4" fill="#3465a4"><title>Kinloch Anderson Old Dress</title></circle></a><a href="/setts/s12/r4o14o2o4o2k6o3k6k14r2k4r4~x2/"><circle cx="97.7" cy="174.0" r="4" fill="#3465a4"><title>Kinloch Anderson Limited</title></circle></a><a href="/setts/s13/r3db9r2k7ly2k2w2k2g6r5k2r2w2~x2/"><circle cx="14.0" cy="168.0" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><a href="/setts/s13/r3db9r2k7ly2k2w2k2g6r5k2r2w2~x4/"><circle cx="18.9" cy="170.0" r="4" fill="#3465a4"><title>Prince Albert #3</title></circle></a><a href="/setts/s9/db3w2g14r14k2db7k9ly2k2~x2/"><circle cx="59.6" cy="162.7" r="4" fill="#3465a4"><title>Black Hills</title></circle></a><a href="/setts/s13/dg8lo2dg4r4dg13w2y13w2db13r4db3r2db8~x2/"><circle cx="69.6" cy="164.1" r="4" fill="#3465a4"><title>Bowie (white lines) (Name)</title></circle></a><a href="/setts/s13/db23r6db6k10ly3k2w2k2g11r12k2r10w2~x2/"><circle cx="96.5" cy="121.7" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><circle cx="45.5" cy="153.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r4o14w2o4w2k6o3k6db14r2db4r4~x2/

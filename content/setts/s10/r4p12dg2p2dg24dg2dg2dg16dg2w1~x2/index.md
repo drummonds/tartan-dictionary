@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/2 DG4 DG32 DG4 DG4 DG48 P4 DG4 P24 R/8
+R/8 P24 DG4 P4 DG48 DG4 DG4 DG32 DG4 LN/2
 ![Sett](sett.png)
 
 ## Palette
@@ -902,7 +905,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Highland Autumn (Fashion)](/setts/s8/lo2k1n9k8n28k2n2r2~x2/) — ΔT 1.15
+1. [Highland Autumn (Fashion)](/setts/s8/r2n2k2n28k8n9k1lo2~x2/) — ΔT 1.15
 1. [Glenfeshie (Personal)](/setts/s9/r4g3dp3g44dp16g10w2g2dp2~x2/) — ΔT 1.20
 1. [Springbank](/setts/s11/k14n2k2n5k25w1n9m3k3w1k14~x2/) — ΔT 1.24
 1. [Harley Davidson](/setts/s10/k49o8k4n6o4n6k4o8k49o2/) — ΔT 1.25
@@ -915,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/lo2k1n9k8n28k2n2r2~x2/"><circle cx="518.6" cy="164.9" r="4" fill="#3465a4"><title>Highland Autumn (Fashion)</title></circle></a><a href="/setts/s9/r4g3dp3g44dp16g10w2g2dp2~x2/"><circle cx="450.2" cy="148.0" r="4" fill="#3465a4"><title>Glenfeshie (Personal)</title></circle></a><a href="/setts/s11/k14n2k2n5k25w1n9m3k3w1k14~x2/"><circle cx="476.1" cy="166.2" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/setts/s10/k49o8k4n6o4n6k4o8k49o2/"><circle cx="508.4" cy="154.9" r="4" fill="#3465a4"><title>Harley Davidson</title></circle></a><a href="/setts/s8/dg18r6dg75b6dg13lo35dg12b6/"><circle cx="424.4" cy="201.6" r="4" fill="#3465a4"><title>Glenlivet Check (Corporate)</title></circle></a><a href="/setts/s10/y5k1y33dp1y9k9dp5k1r2k4~x2/"><circle cx="468.5" cy="137.4" r="4" fill="#3465a4"><title>Lochnagar Dress (Fashion)</title></circle></a><a href="/setts/s11/k14n2k2n5k25w1n9p3k3w1k14~x2/"><circle cx="467.5" cy="161.3" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/setts/s11/k10n2o2n2k14n2k2lp1n12k24m2~x2/"><circle cx="431.3" cy="147.7" r="4" fill="#3465a4"><title>Pride of Scotland Platinum</title></circle></a><a href="/setts/s10/k3n6k8lr2k8n3k5n36k2n3~x2/"><circle cx="453.1" cy="179.4" r="4" fill="#3465a4"><title>City Building (Glasgow) LLP</title></circle></a><a href="/setts/s13/w3dg35db3dg2db3dg10r3dg2r3dg2r3dg10lo2~x2/"><circle cx="477.7" cy="138.6" r="4" fill="#3465a4"><title>Glencross (Kirkbampton) (Personal)</title></circle></a><circle cx="476.8" cy="164.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r2n2k2n28k8n9k1lo2~x2/"><circle cx="518.2" cy="164.7" r="4" fill="#3465a4"><title>Highland Autumn (Fashion)</title></circle></a><a href="/setts/s9/r4g3dp3g44dp16g10w2g2dp2~x2/"><circle cx="449.9" cy="147.7" r="4" fill="#3465a4"><title>Glenfeshie (Personal)</title></circle></a><a href="/setts/s11/k14n2k2n5k25w1n9m3k3w1k14~x2/"><circle cx="476.0" cy="165.9" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/setts/s10/k49o8k4n6o4n6k4o8k49o2/"><circle cx="508.2" cy="154.7" r="4" fill="#3465a4"><title>Harley Davidson</title></circle></a><a href="/setts/s8/dg18r6dg75b6dg13lo35dg12b6/"><circle cx="424.2" cy="201.4" r="4" fill="#3465a4"><title>Glenlivet Check (Corporate)</title></circle></a><a href="/setts/s10/y5k1y33dp1y9k9dp5k1r2k4~x2/"><circle cx="468.2" cy="137.2" r="4" fill="#3465a4"><title>Lochnagar Dress (Fashion)</title></circle></a><a href="/setts/s11/k14n2k2n5k25w1n9p3k3w1k14~x2/"><circle cx="467.4" cy="161.0" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/setts/s11/k10n2o2n2k14n2k2lp1n12k24m2~x2/"><circle cx="431.2" cy="147.6" r="4" fill="#3465a4"><title>Pride of Scotland Platinum</title></circle></a><a href="/setts/s10/k3n6k8lr2k8n3k5n36k2n3~x2/"><circle cx="452.9" cy="179.3" r="4" fill="#3465a4"><title>City Building (Glasgow) LLP</title></circle></a><a href="/setts/s13/w3dg35db3dg2db3dg10r3dg2r3dg2r3dg10lo2~x2/"><circle cx="477.4" cy="138.5" r="4" fill="#3465a4"><title>Glencross (Kirkbampton) (Personal)</title></circle></a><circle cx="476.6" cy="164.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r4p12dg2p2dg24dg2dg2dg16dg2w1~x2/

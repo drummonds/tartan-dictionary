@@ -8,7 +8,7 @@ RKGYGY
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/ly1g6ly1g6k6r1~x6/tartan.png)
+![Woven sample](/setts/s6/r1k6g6ly1g6ly1~x6/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RKGYGY
 
 | Tartans |
 |---------------|
-| [Moore Caledonian (Personal)](/setts/s6/ly1g6ly1g6k6r1~x6/)|
-|![Moore Caledonian (Personal) example sett](/setts/s6/ly1g6ly1g6k6r1~x6/sett.png)|
+| [Moore Caledonian (Personal)](/setts/s6/r1k6g6ly1g6ly1~x6/)|
+|![Moore Caledonian (Personal) example sett](/setts/s6/r1k6g6ly1g6ly1~x6/sett.png)|
 

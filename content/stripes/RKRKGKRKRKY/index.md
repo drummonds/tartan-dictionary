@@ -22,6 +22,6 @@ RKRKGKRKRKY
 
 | Tartans |
 |---------------|
-| [Canterbury (Fashion)](/setts/s11/lo2k2r14k2r5k4dg4k4r5k20r2~x2/)|
-|![Canterbury (Fashion) example sett](/setts/s11/lo2k2r14k2r5k4dg4k4r5k20r2~x2/sett.png)|
+| [Canterbury (Fashion)](/setts/s11/r2k20r5k4dg4k4r5k2r14k2lo2~x2/)|
+|![Canterbury (Fashion) example sett](/setts/s11/r2k20r5k4dg4k4r5k2r14k2lo2~x2/sett.png)|
 

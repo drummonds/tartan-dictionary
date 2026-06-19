@@ -2,7 +2,7 @@
 title: "De Grussa"
 date: 2023-03-18
 ---
-**Bands:** [BWBYRK](/stripes/bwbyrk/) · **Stripes:** [DB W DB LY R K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">DB W DB LY R K</span></span>
+**Bands:** [KRYBWB](/stripes/krybwb/) · **Stripes:** [K R LY DB W DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">K R LY DB W DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -41,18 +41,18 @@ The nearest existing variants by ΔTartan distance.
 1. [de Grussa (Personal)](/setts/s6/db24w4db24lo4r5k4~x2/) — ΔT 0.93
 1. [Abertay University (Estimated threadcount)](/setts/s6/r5db15g3db15ly3db3~x2/) — ΔT 1.50
 1. [Maud, Mary](/setts/s8/db65k9db21ly8db21w8db35r35/) — ΔT 1.55
-1. [Baptist Union of Scotland](/setts/s6/lb4db23g16k4db23lo4/) — ΔT 1.72
+1. [Baptist Union of Scotland](/setts/s6/lo4db23k4g16db23lb4/) — ΔT 1.72
 1. [Laing of Archiestown](/setts/s5/db8r1w1r1k1~x8/) — ΔT 1.81
 1. [Columba of Iona (School)](/setts/s8/db14m3db14dy6db14w4db14ly3~x2/) — ΔT 1.82
-1. [St. Eloi](/setts/s6/r3lo2k10w1k10lo2~x6/) — ΔT 1.82
+1. [St. Eloi](/setts/s6/r3lo2k10w1~x6/) — ΔT 1.82
 1. [Kucher, Gregory](/setts/s4/db8r1k1lr1~x10/) — ΔT 1.84
 1. [Laing of Archiestown](/setts/s5/db19r2w2r2k2~x4/) — ΔT 1.87
-1. [Bank of Scotland (1995)](/setts/s5/lb1db6k5db6lo1~x6/) — ΔT 1.89
+1. [Bank of Scotland (1995)](/setts/s5/lo1db6k5db6lb1~x6/) — ΔT 1.89
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db24w4db24lo4r5k4~x2/"><circle cx="377.3" cy="220.8" r="4" fill="#3465a4"><title>de Grussa (Personal)</title></circle></a><a href="/setts/s6/r5db15g3db15ly3db3~x2/"><circle cx="401.6" cy="255.4" r="4" fill="#3465a4"><title>Abertay University (Estimated threadcount)</title></circle></a><a href="/setts/s8/db65k9db21ly8db21w8db35r35/"><circle cx="350.2" cy="204.0" r="4" fill="#3465a4"><title>Maud, Mary</title></circle></a><a href="/setts/s6/lb4db23g16k4db23lo4/"><circle cx="274.6" cy="235.0" r="4" fill="#3465a4"><title>Baptist Union of Scotland</title></circle></a><a href="/setts/s5/db8r1w1r1k1~x8/"><circle cx="370.2" cy="199.1" r="4" fill="#3465a4"><title>Laing of Archiestown</title></circle></a><a href="/setts/s8/db14m3db14dy6db14w4db14ly3~x2/"><circle cx="376.3" cy="251.1" r="4" fill="#3465a4"><title>Columba of Iona (School)</title></circle></a><a href="/setts/s6/r3lo2k10w1k10lo2~x6/"><circle cx="376.6" cy="216.0" r="4" fill="#3465a4"><title>St. Eloi</title></circle></a><a href="/setts/s4/db8r1k1lr1~x10/"><circle cx="423.1" cy="232.6" r="4" fill="#3465a4"><title>Kucher, Gregory</title></circle></a><a href="/setts/s5/db19r2w2r2k2~x4/"><circle cx="414.9" cy="193.8" r="4" fill="#3465a4"><title>Laing of Archiestown</title></circle></a><a href="/setts/s5/lb1db6k5db6lo1~x6/"><circle cx="296.0" cy="263.0" r="4" fill="#3465a4"><title>Bank of Scotland (1995)</title></circle></a><circle cx="360.0" cy="213.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db24w4db24lo4r5k4~x2/"><circle cx="377.3" cy="220.5" r="4" fill="#3465a4"><title>de Grussa (Personal)</title></circle></a><a href="/setts/s6/r5db15g3db15ly3db3~x2/"><circle cx="401.5" cy="255.1" r="4" fill="#3465a4"><title>Abertay University (Estimated threadcount)</title></circle></a><a href="/setts/s8/db65k9db21ly8db21w8db35r35/"><circle cx="350.1" cy="203.8" r="4" fill="#3465a4"><title>Maud, Mary</title></circle></a><a href="/setts/s6/lo4db23k4g16db23lb4/"><circle cx="274.8" cy="234.8" r="4" fill="#3465a4"><title>Baptist Union of Scotland</title></circle></a><a href="/setts/s5/db8r1w1r1k1~x8/"><circle cx="370.1" cy="198.8" r="4" fill="#3465a4"><title>Laing of Archiestown</title></circle></a><a href="/setts/s8/db14m3db14dy6db14w4db14ly3~x2/"><circle cx="376.3" cy="250.8" r="4" fill="#3465a4"><title>Columba of Iona (School)</title></circle></a><a href="/setts/s6/r3lo2k10w1~x6/"><circle cx="376.7" cy="215.7" r="4" fill="#3465a4"><title>St. Eloi</title></circle></a><a href="/setts/s4/db8r1k1lr1~x10/"><circle cx="423.2" cy="232.2" r="4" fill="#3465a4"><title>Kucher, Gregory</title></circle></a><a href="/setts/s5/db19r2w2r2k2~x4/"><circle cx="414.8" cy="193.5" r="4" fill="#3465a4"><title>Laing of Archiestown</title></circle></a><a href="/setts/s5/lo1db6k5db6lb1~x6/"><circle cx="296.2" cy="262.7" r="4" fill="#3465a4"><title>Bank of Scotland (1995)</title></circle></a><circle cx="360.0" cy="213.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db24w4db24ly4r5k4~x2/

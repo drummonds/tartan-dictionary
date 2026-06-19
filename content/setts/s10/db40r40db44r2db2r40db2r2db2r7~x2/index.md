@@ -2,7 +2,7 @@
 title: "Prince Charles Edward"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBRBRBR](/stripes/brbrbrbrbr/) · **Stripes:** [DB R DB R DB R DB R DB R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R DB R DB R DB R DB R</span></span>
+**Bands:** [RBRBRBRBRB](/stripes/rbrbrbrbrb/) · **Stripes:** [R DB R DB R DB R DB R DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB R DB R DB R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -888,7 +891,7 @@ External register numbers recorded for this tartan.
 
 Other setts woven to the same stripe pattern.
 
-- [Hebrides #7](/setts/s10/db2r2db15r15db2r2db2r15db15r2~x2/)
+- [Hebrides #7](/setts/s10/db2r2db15r15db2r2~x2/)
 - [Masai Shuka 23 (Artefact)](/setts/s10/r15db4r1db1r1db1r1db1r1db1~x4/)
 
 
@@ -909,20 +912,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Unidentified Plaid #12](/setts/s8/db3r64db3r3db62r3db3r3/) — ΔT 1.32
-1. [Unnamed C18th - Prince Charles Edward #2](/setts/s18/db40r40db44r2db2r40db2r2db2r7db2r2db2r40db2r2db44r40~x2/) — ΔT 1.48
+1. [Unnamed C18th - Prince Charles Edward #2](/setts/s18/db40r40db44r2db2r40db2r2db2r7~x2/) — ΔT 1.48
 1. [Fraser, Isabella](/setts/s7/g2r21db60r48db2r3g2~x2/) — ΔT 1.60
 1. [Auburn University (Alabama) (Corp)](/setts/s6/db3o3db24o30db3o2~x2/) — ΔT 1.61
 1. [St. Mildreds Check (School)](/setts/s7/db4r1db18r18db1r1w1~x2/) — ΔT 1.67
 1. [Bell's](/setts/s11/ly3dt4r12dt27ly2r65ly2dt27r12dt4ly3~x2/) — ΔT 1.69
-1. [Greater Victoria Police PB](/setts/s12/r7dt1r26dt31w1dt1w2dt1w1dt31r26dt1~x2/) — ΔT 1.71
+1. [Greater Victoria Police PB](/setts/s12/r7dt1r26dt31w1dt1w2~x2/) — ΔT 1.71
 1. [Baluchistan Fitzgerald Regimental Tartan Tartan Number: 1524. Earliest known date: 1983 Based on Rothesay dating possibly early 1900s. Adopted by the Baluch Regiment, Northern India, Fitzgerald being the name of the commanding officer at that time and has since become the Fitxgerald tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/m5y20m5y3m4y5m36y1w4~x2/) — ΔT 1.73
 1. [New Breckon (Fashion?)](/setts/s9/dt6lo2dt27r27lo2r2lo2r2dt4~x2/) — ΔT 1.76
 1. [Greater Victoria Police PB (Corp)](/setts/s7/r7dt1r26dt31w1dt1w2~x2/) — ΔT 1.82
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db3r64db3r3db62r3db3r3/"><circle cx="433.3" cy="160.3" r="4" fill="#3465a4"><title>Unidentified Plaid #12</title></circle></a><a href="/setts/s18/db40r40db44r2db2r40db2r2db2r7db2r2db2r40db2r2db44r40~x2/"><circle cx="422.1" cy="148.2" r="4" fill="#3465a4"><title>Unnamed C18th - Prince Charles Edward #2</title></circle></a><a href="/setts/s7/g2r21db60r48db2r3g2~x2/"><circle cx="410.9" cy="155.1" r="4" fill="#3465a4"><title>Fraser, Isabella</title></circle></a><a href="/setts/s6/db3o3db24o30db3o2~x2/"><circle cx="412.1" cy="211.7" r="4" fill="#3465a4"><title>Auburn University (Alabama) (Corp)</title></circle></a><a href="/setts/s7/db4r1db18r18db1r1w1~x2/"><circle cx="423.0" cy="195.5" r="4" fill="#3465a4"><title>St. Mildreds Check (School)</title></circle></a><a href="/setts/s11/ly3dt4r12dt27ly2r65ly2dt27r12dt4ly3~x2/"><circle cx="450.2" cy="150.8" r="4" fill="#3465a4"><title>Bell's</title></circle></a><a href="/setts/s12/r7dt1r26dt31w1dt1w2dt1w1dt31r26dt1~x2/"><circle cx="423.4" cy="154.8" r="4" fill="#3465a4"><title>Greater Victoria Police PB</title></circle></a><a href="/setts/s9/m5y20m5y3m4y5m36y1w4~x2/"><circle cx="475.0" cy="151.2" r="4" fill="#3465a4"><title>Baluchistan Fitzgerald Regimental Tartan Tartan Number: 1524. Earliest known date: 1983 Based on Rothesay dating possibly early 1900s. Adopted by the Baluch Regiment, Northern India, Fitzgerald being the name of the commanding officer at that time and has since become the Fitxgerald tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/dt6lo2dt27r27lo2r2lo2r2dt4~x2/"><circle cx="353.4" cy="170.7" r="4" fill="#3465a4"><title>New Breckon (Fashion?)</title></circle></a><a href="/setts/s7/r7dt1r26dt31w1dt1w2~x2/"><circle cx="411.0" cy="168.4" r="4" fill="#3465a4"><title>Greater Victoria Police PB (Corp)</title></circle></a><circle cx="427.4" cy="186.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db3r64db3r3db62r3db3r3/"><circle cx="432.9" cy="160.1" r="4" fill="#3465a4"><title>Unidentified Plaid #12</title></circle></a><a href="/setts/s18/db40r40db44r2db2r40db2r2db2r7~x2/"><circle cx="421.7" cy="148.0" r="4" fill="#3465a4"><title>Unnamed C18th - Prince Charles Edward #2</title></circle></a><a href="/setts/s7/g2r21db60r48db2r3g2~x2/"><circle cx="410.6" cy="154.9" r="4" fill="#3465a4"><title>Fraser, Isabella</title></circle></a><a href="/setts/s6/db3o3db24o30db3o2~x2/"><circle cx="411.9" cy="211.4" r="4" fill="#3465a4"><title>Auburn University (Alabama) (Corp)</title></circle></a><a href="/setts/s7/db4r1db18r18db1r1w1~x2/"><circle cx="422.8" cy="195.4" r="4" fill="#3465a4"><title>St. Mildreds Check (School)</title></circle></a><a href="/setts/s11/ly3dt4r12dt27ly2r65ly2dt27r12dt4ly3~x2/"><circle cx="449.8" cy="150.7" r="4" fill="#3465a4"><title>Bell's</title></circle></a><a href="/setts/s12/r7dt1r26dt31w1dt1w2~x2/"><circle cx="423.1" cy="154.7" r="4" fill="#3465a4"><title>Greater Victoria Police PB</title></circle></a><a href="/setts/s9/m5y20m5y3m4y5m36y1w4~x2/"><circle cx="474.5" cy="151.0" r="4" fill="#3465a4"><title>Baluchistan Fitzgerald Regimental Tartan Tartan Number: 1524. Earliest known date: 1983 Based on Rothesay dating possibly early 1900s. Adopted by the Baluch Regiment, Northern India, Fitzgerald being the name of the commanding officer at that time and has since become the Fitxgerald tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/dt6lo2dt27r27lo2r2lo2r2dt4~x2/"><circle cx="353.1" cy="170.5" r="4" fill="#3465a4"><title>New Breckon (Fashion?)</title></circle></a><a href="/setts/s7/r7dt1r26dt31w1dt1w2~x2/"><circle cx="410.8" cy="168.3" r="4" fill="#3465a4"><title>Greater Victoria Police PB (Corp)</title></circle></a><circle cx="427.0" cy="186.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db40r40db44r2db2r40db2r2db2r7~x2/

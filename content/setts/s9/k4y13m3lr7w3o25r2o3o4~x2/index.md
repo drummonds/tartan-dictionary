@@ -38,21 +38,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Australian Donkey (Corporate)](/setts/s9/dy4o3r2o25w3lr7r3o13k4~x2/) — ΔT 0.48
-1. [Australian Heavy Horse (Corporate)](/setts/s10/lr4g2lr18k2n5o16w2n2o2lr4~x2/) — ΔT 1.77
+1. [Australian Donkey (Corporate)](/setts/s9/k4o13r3lr7w3o25r2o3dy4~x2/) — ΔT 0.48
+1. [Australian Heavy Horse (Corporate)](/setts/s10/lr4o2n2w2o16n5k2lr18g2lr4~x2/) — ΔT 1.77
 1. [Saint Joseph de Sorel](/setts/s13/r12g2o5g2y9ly2t8w1t3w1t3w1t8~x2/) — ΔT 1.80
 1. [State Seal of Mississippi (Fashion)](/setts/s9/y48o26lb5dy7lb10y3b7o10r3~x2/) — ΔT 1.82
 1. [Unidentified 31](/setts/s11/ly3o24db4o8w2o2g10r12o2r5w2~x2/) — ΔT 1.88
 1. [Meath](/setts/s12/o5db2r14dr9g8t3r3t3r3t3g19w3~x2/) — ΔT 1.95
-1. [Wallace Memorial Centenary](/setts/s7/lg1t12dy1n9g1r12r1~x4/) — ΔT 2.00
-1. [Australian Heavy Horse](/setts/s10/n4lr2n2w2do16n5k2n18n2n4~x2/) — ΔT 2.05
+1. [Wallace Memorial Centenary](/setts/s7/r1r12g1n9dy1t12lg1~x4/) — ΔT 2.00
+1. [Australian Heavy Horse](/setts/s10/n4n2n18k2n5do16w2n2lr2n4~x2/) — ΔT 2.05
 1. [Guardian of Scotland, Wthd (Fashion)](/setts/s10/ly2k1r30n8y24lo5y5dp11k1ly2~x2/) — ΔT 2.13
 1. [Unidentified, Silk scarf](/setts/s10/w3r10o6ly8t8g32r8r10r6w3~x4/) — ΔT 2.14
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dy4o3r2o25w3lr7r3o13k4~x2/"><circle cx="188.0" cy="117.6" r="4" fill="#3465a4"><title>Australian Donkey (Corporate)</title></circle></a><a href="/setts/s10/lr4g2lr18k2n5o16w2n2o2lr4~x2/"><circle cx="191.7" cy="129.3" r="4" fill="#3465a4"><title>Australian Heavy Horse (Corporate)</title></circle></a><a href="/setts/s13/r12g2o5g2y9ly2t8w1t3w1t3w1t8~x2/"><circle cx="150.6" cy="134.6" r="4" fill="#3465a4"><title>Saint Joseph de Sorel</title></circle></a><a href="/setts/s9/y48o26lb5dy7lb10y3b7o10r3~x2/"><circle cx="242.8" cy="139.9" r="4" fill="#3465a4"><title>State Seal of Mississippi (Fashion)</title></circle></a><a href="/setts/s11/ly3o24db4o8w2o2g10r12o2r5w2~x2/"><circle cx="202.2" cy="121.2" r="4" fill="#3465a4"><title>Unidentified 31</title></circle></a><a href="/setts/s12/o5db2r14dr9g8t3r3t3r3t3g19w3~x2/"><circle cx="131.0" cy="141.1" r="4" fill="#3465a4"><title>Meath</title></circle></a><a href="/setts/s7/lg1t12dy1n9g1r12r1~x4/"><circle cx="170.0" cy="149.1" r="4" fill="#3465a4"><title>Wallace Memorial Centenary</title></circle></a><a href="/setts/s10/n4lr2n2w2do16n5k2n18n2n4~x2/"><circle cx="205.0" cy="143.2" r="4" fill="#3465a4"><title>Australian Heavy Horse</title></circle></a><a href="/setts/s10/ly2k1r30n8y24lo5y5dp11k1ly2~x2/"><circle cx="195.5" cy="85.7" r="4" fill="#3465a4"><title>Guardian of Scotland, Wthd (Fashion)</title></circle></a><a href="/setts/s10/w3r10o6ly8t8g32r8r10r6w3~x4/"><circle cx="101.6" cy="127.9" r="4" fill="#3465a4"><title>Unidentified, Silk scarf</title></circle></a><circle cx="192.6" cy="117.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k4o13r3lr7w3o25r2o3dy4~x2/"><circle cx="187.8" cy="117.9" r="4" fill="#3465a4"><title>Australian Donkey (Corporate)</title></circle></a><a href="/setts/s10/lr4o2n2w2o16n5k2lr18g2lr4~x2/"><circle cx="191.5" cy="129.4" r="4" fill="#3465a4"><title>Australian Heavy Horse (Corporate)</title></circle></a><a href="/setts/s13/r12g2o5g2y9ly2t8w1t3w1t3w1t8~x2/"><circle cx="150.4" cy="134.8" r="4" fill="#3465a4"><title>Saint Joseph de Sorel</title></circle></a><a href="/setts/s9/y48o26lb5dy7lb10y3b7o10r3~x2/"><circle cx="242.6" cy="140.2" r="4" fill="#3465a4"><title>State Seal of Mississippi (Fashion)</title></circle></a><a href="/setts/s11/ly3o24db4o8w2o2g10r12o2r5w2~x2/"><circle cx="202.0" cy="121.4" r="4" fill="#3465a4"><title>Unidentified 31</title></circle></a><a href="/setts/s12/o5db2r14dr9g8t3r3t3r3t3g19w3~x2/"><circle cx="130.9" cy="141.4" r="4" fill="#3465a4"><title>Meath</title></circle></a><a href="/setts/s7/r1r12g1n9dy1t12lg1~x4/"><circle cx="169.9" cy="149.3" r="4" fill="#3465a4"><title>Wallace Memorial Centenary</title></circle></a><a href="/setts/s10/n4n2n18k2n5do16w2n2lr2n4~x2/"><circle cx="204.9" cy="143.3" r="4" fill="#3465a4"><title>Australian Heavy Horse</title></circle></a><a href="/setts/s10/ly2k1r30n8y24lo5y5dp11k1ly2~x2/"><circle cx="195.3" cy="86.0" r="4" fill="#3465a4"><title>Guardian of Scotland, Wthd (Fashion)</title></circle></a><a href="/setts/s10/w3r10o6ly8t8g32r8r10r6w3~x4/"><circle cx="101.4" cy="128.1" r="4" fill="#3465a4"><title>Unidentified, Silk scarf</title></circle></a><circle cx="192.3" cy="117.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/k4y13m3lr7w3o25r2o3o4~x2/

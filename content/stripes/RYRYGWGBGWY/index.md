@@ -22,6 +22,6 @@ RYRYGWGBGWY
 
 | Tartans |
 |---------------|
-| [Vasseur Mignon (Personal)](/setts/s11/ly2lb11g5n11g11lb5g5ly2r2ly2r2~x2/)|
-|![Vasseur Mignon (Personal) example sett](/setts/s11/ly2lb11g5n11g11lb5g5ly2r2ly2r2~x2/sett.png)|
+| [Vasseur Mignon (Personal)](/setts/s11/r2ly2r2ly2g5lb5g11n11g5lb11ly2~x2/)|
+|![Vasseur Mignon (Personal) example sett](/setts/s11/r2ly2r2ly2g5lb5g11n11g5lb11ly2~x2/sett.png)|
 

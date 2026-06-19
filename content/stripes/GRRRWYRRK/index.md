@@ -18,10 +18,10 @@ GRRRWYRRK
 
 
 
-### DY O R O W LR R O K <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="seq">DY O R O W LR R O K</span></span>
+### K O R LR W O R O DY <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">K O R LR W O R O DY</span></span>
 
 | Tartans |
 |---------------|
-| [Australian Donkey (Corporate)](/setts/s9/dy4o3r2o25w3lr7r3o13k4~x2/)|
-|![Australian Donkey (Corporate) example sett](/setts/s9/dy4o3r2o25w3lr7r3o13k4~x2/sett.png)|
+| [Australian Donkey (Corporate)](/setts/s9/k4o13r3lr7w3o25r2o3dy4~x2/)|
+|![Australian Donkey (Corporate) example sett](/setts/s9/k4o13r3lr7w3o25r2o3dy4~x2/sett.png)|
 

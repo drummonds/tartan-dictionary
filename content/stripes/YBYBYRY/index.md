@@ -20,7 +20,7 @@ YBYBYRY
 
 
 
-### LG DB LG DB LG R LG <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="seq">LG DB LG DB LG R LG</span></span>
+### LG R LG DB LG DB LG <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="seq">LG R LG DB LG DB LG</span></span>
 
 | Tartans |
 |---------------|

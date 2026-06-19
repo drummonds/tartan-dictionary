@@ -10,7 +10,7 @@ This was sourced from house-of-tartan.  It is a [20 band tartan](/bands/bands20/
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=93
 
 ## Thread count
-LN/10 K4 P4 B4 P4 LN2 B2 LN2 P4 B4 K2 P8 Y10 LN2 P6 Y2 K2 LN2 B2 P/50
+P/50 B2 LN2 K2 Y2 P6 LN2 Y10 P8 K2 B4 P4 LN2 B2 LN2 P4 B4 P4 K4 LN/10
 ![Sett](sett.png)
 
 ## Palette
@@ -32,17 +32,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Lions Club](/setts/s21/dp60y2w2k2dp2ly2dp8w8ly12dp10k2y5dp5w2y2w2dp5y5dp5k5w12/) — ΔT 0.46
 1. [House of Holland (Fashion)](/setts/s15/lb5k1p5k1g4k1ly4k1p30lp1k2p1lb1ly1k1~x2/) — ΔT 1.11
 1. [Scottish Bakers](/setts/s14/w2dp2y3ly5y13dp2y2dp2y2dp33m2dp1y4w1~x2/) — ΔT 1.52
-1. [Svanholm (Personal)](/setts/s18/ly4k1m14k1w2k1dp28k4ly2w3ly2k4dp28k1w2k1m14k1~x2/) — ΔT 1.56
-1. [Kiltwalk](/setts/s14/ly8lb8r8db2r3db2r3db3r2db3r2db52lb2w8/) — ΔT 1.58
-1. [ESPRAS (Corporate)](/setts/s13/lo2m10w1m3w1m3w1m3db2r1db36w1r2~x2/) — ΔT 1.69
+1. [Svanholm (Personal)](/setts/s18/ly4k1m14k1w2k1dp28k4ly2w3~x2/) — ΔT 1.56
+1. [Kiltwalk](/setts/s14/w8lb2db52r2db3r2db3r3db2r3db2r8lb8ly8/) — ΔT 1.58
+1. [ESPRAS (Corporate)](/setts/s13/r2w1db36r1db2m3w1m3w1m3w1m10lo2~x2/) — ΔT 1.69
 1. [Stevens #4](/setts/s12/p27ly2k3lo2k2w2k2o6p3k2p2w2~x2/) — ΔT 1.72
 1. [Diamond Jubilee (McGill) (Fashion)](/setts/s13/dp36dp8dp2dp8dp1lb2dp4lb2dp4lb18w2lb1w4~x2/) — ΔT 1.75
 1. [Nance (2002)](/setts/s11/dp52y14o2g3dp2g3y6lb6g2lb6dp2~x2/) — ΔT 1.81
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/p25t1w1k1ly1p3w1ly5p4k1t2p2w1t1w1p2t2p2k2w5~x2/"><circle cx="331.4" cy="40.3" r="4" fill="#3465a4"><title>Lions</title></circle></a><a href="/setts/s21/dp60y2w2k2dp2ly2dp8w8ly12dp10k2y5dp5w2y2w2dp5y5dp5k5w12/"><circle cx="331.3" cy="30.1" r="4" fill="#3465a4"><title>Lions Club</title></circle></a><a href="/setts/s15/lb5k1p5k1g4k1ly4k1p30lp1k2p1lb1ly1k1~x2/"><circle cx="344.7" cy="29.2" r="4" fill="#3465a4"><title>House of Holland (Fashion)</title></circle></a><a href="/setts/s14/w2dp2y3ly5y13dp2y2dp2y2dp33m2dp1y4w1~x2/"><circle cx="347.1" cy="68.6" r="4" fill="#3465a4"><title>Scottish Bakers</title></circle></a><a href="/setts/s18/ly4k1m14k1w2k1dp28k4ly2w3ly2k4dp28k1w2k1m14k1~x2/"><circle cx="287.7" cy="59.9" r="4" fill="#3465a4"><title>Svanholm (Personal)</title></circle></a><a href="/setts/s14/ly8lb8r8db2r3db2r3db3r2db3r2db52lb2w8/"><circle cx="322.5" cy="60.3" r="4" fill="#3465a4"><title>Kiltwalk</title></circle></a><a href="/setts/s13/lo2m10w1m3w1m3w1m3db2r1db36w1r2~x2/"><circle cx="385.8" cy="64.1" r="4" fill="#3465a4"><title>ESPRAS (Corporate)</title></circle></a><a href="/setts/s12/p27ly2k3lo2k2w2k2o6p3k2p2w2~x2/"><circle cx="292.2" cy="78.6" r="4" fill="#3465a4"><title>Stevens #4</title></circle></a><a href="/setts/s13/dp36dp8dp2dp8dp1lb2dp4lb2dp4lb18w2lb1w4~x2/"><circle cx="311.3" cy="79.1" r="4" fill="#3465a4"><title>Diamond Jubilee (McGill) (Fashion)</title></circle></a><a href="/setts/s11/dp52y14o2g3dp2g3y6lb6g2lb6dp2~x2/"><circle cx="359.8" cy="90.1" r="4" fill="#3465a4"><title>Nance (2002)</title></circle></a><circle cx="335.4" cy="43.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/p25t1w1k1ly1p3w1ly5p4k1t2p2w1t1w1p2t2p2k2w5~x2/"><circle cx="331.0" cy="40.2" r="4" fill="#3465a4"><title>Lions</title></circle></a><a href="/setts/s21/dp60y2w2k2dp2ly2dp8w8ly12dp10k2y5dp5w2y2w2dp5y5dp5k5w12/"><circle cx="330.9" cy="30.0" r="4" fill="#3465a4"><title>Lions Club</title></circle></a><a href="/setts/s15/lb5k1p5k1g4k1ly4k1p30lp1k2p1lb1ly1k1~x2/"><circle cx="344.3" cy="29.2" r="4" fill="#3465a4"><title>House of Holland (Fashion)</title></circle></a><a href="/setts/s14/w2dp2y3ly5y13dp2y2dp2y2dp33m2dp1y4w1~x2/"><circle cx="346.8" cy="68.5" r="4" fill="#3465a4"><title>Scottish Bakers</title></circle></a><a href="/setts/s18/ly4k1m14k1w2k1dp28k4ly2w3~x2/"><circle cx="287.3" cy="60.0" r="4" fill="#3465a4"><title>Svanholm (Personal)</title></circle></a><a href="/setts/s14/w8lb2db52r2db3r2db3r3db2r3db2r8lb8ly8/"><circle cx="322.1" cy="60.2" r="4" fill="#3465a4"><title>Kiltwalk</title></circle></a><a href="/setts/s13/r2w1db36r1db2m3w1m3w1m3w1m10lo2~x2/"><circle cx="385.5" cy="64.1" r="4" fill="#3465a4"><title>ESPRAS (Corporate)</title></circle></a><a href="/setts/s12/p27ly2k3lo2k2w2k2o6p3k2p2w2~x2/"><circle cx="291.9" cy="78.5" r="4" fill="#3465a4"><title>Stevens #4</title></circle></a><a href="/setts/s13/dp36dp8dp2dp8dp1lb2dp4lb2dp4lb18w2lb1w4~x2/"><circle cx="311.0" cy="79.0" r="4" fill="#3465a4"><title>Diamond Jubilee (McGill) (Fashion)</title></circle></a><a href="/setts/s11/dp52y14o2g3dp2g3y6lb6g2lb6dp2~x2/"><circle cx="359.5" cy="90.0" r="4" fill="#3465a4"><title>Nance (2002)</title></circle></a><circle cx="334.9" cy="43.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s20/dp25t1w1k1ly1dp3w1ly5dp4k1t2dp2w1t1w1dp2t2dp2k2w5~x2/

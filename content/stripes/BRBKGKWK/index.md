@@ -8,7 +8,7 @@ BRBKGKWK
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/db3r2db8k8g8k3w2k3~x2/tartan.png)
+![Woven sample](/setts/s8/k3w2k3g8k8db8r2db3~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ BRBKGKWK
 
 
 
-### DB R DB K G K W K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">DB R DB K G K W K</span></span>
+### K W K G K DB R DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">K W K G K DB R DB</span></span>
 
 | Tartans |
 |---------------|
-| [Davidson, Double](/setts/s8/db3r2db8k8g8k3w2k3~x2/)|
-|![Davidson, Double example sett](/setts/s8/db3r2db8k8g8k3w2k3~x2/sett.png)|
+| [Davidson, Double](/setts/s8/k3w2k3g8k8db8r2db3~x2/)|
+|![Davidson, Double example sett](/setts/s8/k3w2k3g8k8db8r2db3~x2/sett.png)|
 

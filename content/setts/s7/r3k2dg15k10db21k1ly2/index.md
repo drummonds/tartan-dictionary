@@ -13,13 +13,23 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Variants
 
@@ -58,15 +68,15 @@ The nearest existing variants by ΔTartan distance.
 1. [MacLaren](/setts/s7/db24k8dg8r2dg8k1ly2/) — ΔT 0.86
 1. [Nery](/setts/s7/lo6g28r4k20r3db45k5~x2/) — ΔT 0.98
 1. [Ogilvy VS](/setts/s8/db28ly1db2k16dg24k1dg2r3~x2/) — ΔT 0.98
-1. [MacCaskill](/setts/s7/k2ly1db15k15g15r1k2~x2/) — ΔT 0.99
+1. [MacCaskill](/setts/s7/k2r1g15k15db15ly1k2~x2/) — ΔT 0.99
 1. [Colqhoun VS](/setts/s7/db4k2db16lr1k8dg24r4~x2/) — ΔT 0.99
-1. [Colqhoun VS](/setts/s7/db4k2db16lr1k8dg24r4/) — ΔT 0.99
-1. [Meoni (Personal)](/setts/s7/db1g1db18g12k18r1k1~x2/) — ΔT 1.06
+1. [Meoni (Personal)](/setts/s7/k1r1k18g12db18g1db1~x2/) — ΔT 1.06
+1. [MacNeil](/setts/s7/ly1k3dg15k14db16r2lb1~x2/) — ΔT 1.07
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db4k2db16lb1k8dg24r4/"><circle cx="232.5" cy="163.0" r="4" fill="#3465a4"><title>Colquhoun VS</title></circle></a><a href="/setts/s9/db24ly2k8dg16k1dg3k1dg3r4~x2/"><circle cx="225.7" cy="139.3" r="4" fill="#3465a4"><title>Ogilvy Hunting</title></circle></a><a href="/setts/s7/db24k8dg8r2dg8k1lb2/"><circle cx="254.0" cy="162.3" r="4" fill="#3465a4"><title>Fergusson</title></circle></a><a href="/setts/s7/db24k8dg8r2dg8k1ly2/"><circle cx="249.6" cy="159.7" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/setts/s7/lo6g28r4k20r3db45k5~x2/"><circle cx="183.0" cy="167.7" r="4" fill="#3465a4"><title>Nery</title></circle></a><a href="/setts/s8/db28ly1db2k16dg24k1dg2r3~x2/"><circle cx="250.0" cy="147.2" r="4" fill="#3465a4"><title>Ogilvy VS</title></circle></a><a href="/setts/s7/k2ly1db15k15g15r1k2~x2/"><circle cx="178.1" cy="167.4" r="4" fill="#3465a4"><title>MacCaskill</title></circle></a><a href="/setts/s7/db4k2db16lr1k8dg24r4~x2/"><circle cx="248.5" cy="171.1" r="4" fill="#3465a4"><title>Colqhoun VS</title></circle></a><a href="/setts/s7/db4k2db16lr1k8dg24r4/"><circle cx="248.5" cy="171.1" r="4" fill="#3465a4"><title>Colqhoun VS</title></circle></a><a href="/setts/s7/db1g1db18g12k18r1k1~x2/"><circle cx="231.9" cy="177.8" r="4" fill="#3465a4"><title>Meoni (Personal)</title></circle></a><circle cx="202.8" cy="161.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db4k2db16lb1k8dg24r4/"><circle cx="232.7" cy="163.1" r="4" fill="#3465a4"><title>Colquhoun VS</title></circle></a><a href="/setts/s9/db24ly2k8dg16k1dg3k1dg3r4~x2/"><circle cx="225.8" cy="139.3" r="4" fill="#3465a4"><title>Ogilvy Hunting</title></circle></a><a href="/setts/s7/db24k8dg8r2dg8k1lb2/"><circle cx="254.2" cy="162.3" r="4" fill="#3465a4"><title>Fergusson</title></circle></a><a href="/setts/s7/db24k8dg8r2dg8k1ly2/"><circle cx="249.8" cy="159.7" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/setts/s7/lo6g28r4k20r3db45k5~x2/"><circle cx="183.2" cy="167.7" r="4" fill="#3465a4"><title>Nery</title></circle></a><a href="/setts/s8/db28ly1db2k16dg24k1dg2r3~x2/"><circle cx="250.2" cy="147.2" r="4" fill="#3465a4"><title>Ogilvy VS</title></circle></a><a href="/setts/s7/k2r1g15k15db15ly1k2~x2/"><circle cx="178.3" cy="167.3" r="4" fill="#3465a4"><title>MacCaskill</title></circle></a><a href="/setts/s7/db4k2db16lr1k8dg24r4~x2/"><circle cx="248.6" cy="171.1" r="4" fill="#3465a4"><title>Colqhoun VS</title></circle></a><a href="/setts/s7/k1r1k18g12db18g1db1~x2/"><circle cx="232.1" cy="177.8" r="4" fill="#3465a4"><title>Meoni (Personal)</title></circle></a><a href="/setts/s7/ly1k3dg15k14db16r2lb1~x2/"><circle cx="150.7" cy="160.3" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><circle cx="203.0" cy="161.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r3k2dg15k10db21k1ly2/

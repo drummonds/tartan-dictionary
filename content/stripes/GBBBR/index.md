@@ -8,7 +8,7 @@ GBBBR
 
 It is a 5 band tartan.
 
-![Woven sample](/setts/s5/g2dp20db9dp20r2~x2/tartan.png)
+![Woven sample](/setts/s5/r2dp20db9dp20g2~x2/tartan.png)
 
 
 
@@ -21,17 +21,17 @@ GBBBR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### G DP DB DP R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="seq">G DP DB DP R</span></span>
+### R DP DB DP G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DP DB DP G</span></span>
 
 | Tartans |
 |---------------|
-| [Scottish Netball (1987) (Corporate)](/setts/s5/g2dp20db9dp20r2~x2/)|
-|![Scottish Netball (1987) (Corporate) example sett](/setts/s5/g2dp20db9dp20r2~x2/sett.png)|
+| [Scottish Netball (1987) (Corporate)](/setts/s5/r2dp20db9dp20g2~x2/)|
+|![Scottish Netball (1987) (Corporate) example sett](/setts/s5/r2dp20db9dp20g2~x2/sett.png)|
 
-### G P DB P R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="seq">G P DB P R</span></span>
+### R P DB P G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R P DB P G</span></span>
 
 | Tartans |
 |---------------|
-| [Scottish Netball Association](/setts/s5/g2p20db9p20r2~x2/)|
-|![Scottish Netball Association example sett](/setts/s5/g2p20db9p20r2~x2/sett.png)|
+| [Scottish Netball Association](/setts/s5/r2p20db9p20g2~x2/)|
+|![Scottish Netball Association example sett](/setts/s5/r2p20db9p20g2~x2/sett.png)|
 

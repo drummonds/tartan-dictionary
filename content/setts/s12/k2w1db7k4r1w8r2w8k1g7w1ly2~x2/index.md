@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k2w1db7k4r1w8r2w8k1dg7w1dg7ly2~x4/"><circle cx="62.1" cy="136.7" r="4" fill="#3465a4"><title>MacLellan/McLellan Dress (Personal)</title></circle></a><a href="/setts/s11/dy1w4k1w9lo2w1k8w1lo2o6r1~x4/"><circle cx="109.1" cy="118.0" r="4" fill="#3465a4"><title>Kintyre</title></circle></a><a href="/setts/s11/lo1y6g2w1k8w1g2w9k1w4ly1~x4/"><circle cx="106.7" cy="121.9" r="4" fill="#3465a4"><title>Tiree</title></circle></a><a href="/setts/s15/w13db3w13g10ly2k7db5k2db2k2db5r8w2k2r2~x2/"><circle cx="45.2" cy="130.4" r="4" fill="#3465a4"><title>MacPherson, dress</title></circle></a><a href="/setts/s15/w13db3w13dg10ly2k7db5k2db2k2db5r8w2k2r2~x2/"><circle cx="51.8" cy="131.7" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s12/k4g4k2g12k6w3k6o2w4o2w15r3~x2/"><circle cx="83.5" cy="151.5" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/setts/s11/k4ly2lg13k8r2w13r2w13k2g12ly4~x2/"><circle cx="44.7" cy="151.4" r="4" fill="#3465a4"><title>MacLellan Dress (Personal)</title></circle></a><a href="/setts/s14/w8db3w10lo8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="64.4" cy="122.0" r="4" fill="#3465a4"><title>MacInnes Ancient Htg (Clan?)</title></circle></a><a href="/setts/s13/r4w16t5k5ly2k2w2k2g5r5k2r2w2~x2/"><circle cx="75.3" cy="110.9" r="4" fill="#3465a4"><title>Victoria (Wilsons)</title></circle></a><a href="/setts/s15/w16db3w8k3w3k6ly2k2w2k2g7r4k2r2w2~x2/"><circle cx="128.5" cy="113.2" r="4" fill="#3465a4"><title>Stewart dress</title></circle></a><circle cx="79.7" cy="131.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k2w1db7k4r1w8r2w8k1dg7w1dg7ly2~x4/"><circle cx="62.0" cy="136.7" r="4" fill="#3465a4"><title>MacLellan/McLellan Dress (Personal)</title></circle></a><a href="/setts/s11/dy1w4k1w9lo2w1k8w1lo2o6r1~x4/"><circle cx="108.9" cy="118.0" r="4" fill="#3465a4"><title>Kintyre</title></circle></a><a href="/setts/s11/lo1y6g2w1k8w1g2w9k1w4ly1~x4/"><circle cx="106.5" cy="121.9" r="4" fill="#3465a4"><title>Tiree</title></circle></a><a href="/setts/s15/w13db3w13g10ly2k7db5k2db2k2db5r8w2k2r2~x2/"><circle cx="45.1" cy="130.5" r="4" fill="#3465a4"><title>MacPherson, dress</title></circle></a><a href="/setts/s15/w13db3w13dg10ly2k7db5k2db2k2db5r8w2k2r2~x2/"><circle cx="51.7" cy="131.8" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s12/k4g4k2g12k6w3k6o2w4o2w15r3~x2/"><circle cx="83.4" cy="151.5" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/setts/s11/k4ly2lg13k8r2w13r2w13k2g12ly4~x2/"><circle cx="44.6" cy="151.5" r="4" fill="#3465a4"><title>MacLellan Dress (Personal)</title></circle></a><a href="/setts/s14/w8db3w10lo8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="64.3" cy="122.1" r="4" fill="#3465a4"><title>MacInnes Ancient Htg (Clan?)</title></circle></a><a href="/setts/s13/r4w16t5k5ly2k2w2k2g5r5k2r2w2~x2/"><circle cx="75.0" cy="111.0" r="4" fill="#3465a4"><title>Victoria (Wilsons)</title></circle></a><a href="/setts/s15/w16db3w8k3w3k6ly2k2w2k2g7r4k2r2w2~x2/"><circle cx="128.3" cy="113.1" r="4" fill="#3465a4"><title>Stewart dress</title></circle></a><circle cx="79.6" cy="131.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/k2w1db7k4r1w8r2w8k1g7w1ly2~x2/

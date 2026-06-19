@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -920,8 +923,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r2t1r1t11g16dg1w1~x2/"><circle cx="289.9" cy="156.7" r="4" fill="#3465a4"><title>Gift of Life Michigan (Corporate)</title></circle></a><a href="/setts/s5/k5w2ly36t47r3~x2/"><circle cx="290.4" cy="144.1" r="4" fill="#3465a4"><title>Oliver Dress Pink</title></circle></a><a href="/setts/s5/w8r6lo2g34b3~x2/"><circle cx="369.1" cy="169.6" r="4" fill="#3465a4"><title>Milling-Kristensen (Personal)</title></circle></a><a href="/setts/s9/g20ly2y5w4g2y2g2y2b6~x2/"><circle cx="247.5" cy="157.2" r="4" fill="#3465a4"><title>Boucherville (Tartan de..)</title></circle></a><a href="/setts/s7/g3r1g12w4lb15ly1lb3~x4/"><circle cx="259.3" cy="169.8" r="4" fill="#3465a4"><title>Postcode Lottery</title></circle></a><a href="/setts/s5/lr2dg17w6b5r1~x4/"><circle cx="256.9" cy="165.0" r="4" fill="#3465a4"><title>Scotstown</title></circle></a><a href="/setts/s8/k3r1ly1t11g13t5r1ly1~x4/"><circle cx="226.6" cy="163.3" r="4" fill="#3465a4"><title>Snodgrass (Clan)</title></circle></a><a href="/setts/s7/g12k1r1k1b2k1ly4~x8/"><circle cx="271.0" cy="156.6" r="4" fill="#3465a4"><title>Alberta (District)</title></circle></a><a href="/setts/s7/g13k1r1k1b2k1ly4~x8/"><circle cx="291.1" cy="152.7" r="4" fill="#3465a4"><title>Alberta (Province)</title></circle></a><a href="/setts/s7/g10r3g30y10w2db15r4~x2/"><circle cx="289.4" cy="189.5" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><circle cx="291.1" cy="172.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r2t1r1t11g16dg1w1~x2/"><circle cx="289.6" cy="156.6" r="4" fill="#3465a4"><title>Gift of Life Michigan (Corporate)</title></circle></a><a href="/setts/s5/k5w2ly36t47r3~x2/"><circle cx="290.0" cy="144.0" r="4" fill="#3465a4"><title>Oliver Dress Pink</title></circle></a><a href="/setts/s5/w8r6lo2g34b3~x2/"><circle cx="368.8" cy="169.4" r="4" fill="#3465a4"><title>Milling-Kristensen (Personal)</title></circle></a><a href="/setts/s9/g20ly2y5w4g2y2g2y2b6~x2/"><circle cx="247.2" cy="157.1" r="4" fill="#3465a4"><title>Boucherville (Tartan de..)</title></circle></a><a href="/setts/s7/g3r1g12w4lb15ly1lb3~x4/"><circle cx="258.9" cy="169.8" r="4" fill="#3465a4"><title>Postcode Lottery</title></circle></a><a href="/setts/s5/lr2dg17w6b5r1~x4/"><circle cx="256.8" cy="164.8" r="4" fill="#3465a4"><title>Scotstown</title></circle></a><a href="/setts/s8/k3r1ly1t11g13t5r1ly1~x4/"><circle cx="226.4" cy="163.2" r="4" fill="#3465a4"><title>Snodgrass (Clan)</title></circle></a><a href="/setts/s7/g12k1r1k1b2k1ly4~x8/"><circle cx="270.8" cy="156.5" r="4" fill="#3465a4"><title>Alberta (District)</title></circle></a><a href="/setts/s7/g13k1r1k1b2k1ly4~x8/"><circle cx="290.9" cy="152.6" r="4" fill="#3465a4"><title>Alberta (Province)</title></circle></a><a href="/setts/s7/g10r3g30y10w2db15r4~x2/"><circle cx="289.3" cy="189.5" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><circle cx="290.8" cy="172.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/m3lb35db4g47w3~x2/

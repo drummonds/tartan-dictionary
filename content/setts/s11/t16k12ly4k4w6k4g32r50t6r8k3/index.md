@@ -2,12 +2,19 @@
 title: "MacLean of Duart 3"
 date: 2023-03-18
 ---
-**Bands:** [BKYKWKGRBRK](/stripes/bkykwkgrbrk/) · **Stripes:** [T K LY K W K G R T R K](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">T K LY K W K G R T R K</span></span>
+**Bands:** [KRBRGKWKYKB](/stripes/krbrgkwkykb/) · **Stripes:** [K R T R G K W K LY K T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K R T R G K W K LY K T</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacLean of Duart #3
+- MacLean of Duart 3
 
 ## Register references
 
@@ -311,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,17 +927,17 @@ The nearest existing variants by ΔTartan distance.
 1. [MacLean of Duart #4](/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/) — ΔT 0.63
 1. [MacLean of Duart 4](/setts/s11/t8k4ly1k2w3k2g12r24t2r3k2~x2/) — ΔT 0.67
 1. [Stewart, Prince Charles Edward](/setts/s12/r14t4k6ly1k2w2k2g12r6k2r2w1~x2/) — ΔT 0.68
-1. [Boyd](/setts/s12/ly5g22k2db2k2db2k10r38g5r4k4w5~x2/) — ΔT 0.68
+1. [Boyd](/setts/s12/w5k4r4g5r38k10db2k2db2k2g22ly5~x2/) — ΔT 0.68
 1. [Maclean of Duart (Wilsons) (Clan)](/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/) — ΔT 0.70
-1. [Aberdeen Forever (District)](/setts/s12/lb4k22o2k3o2k2o3k1o8r16w2ly4~x2/) — ΔT 0.73
+1. [Aberdeen Forever (District)](/setts/s12/ly4w2r16o8k1o3k2o2k3o2k22lb4~x2/) — ΔT 0.73
 1. [O'Keefe](/setts/s12/k8r2k3ly2k2w3k2y12o22r2o2k1~x2/) — ΔT 0.75
 1. [MacLean](/setts/s12/db4lb1k3ly1dg1lb1k1dg8r12lb1r2k1~x2/) — ΔT 0.77
-1. [Boyd](/setts/s12/lb5k4r4dg5r38k10db2k2db2k2dg22ly5/) — ΔT 0.84
+1. [Boyd](/setts/s12/ly5dg22k2db2k2db2k10r38dg5r4k4lb5/) — ΔT 0.84
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/t13k6ly2k3w4k3g22r31t3r4k2~x2/"><circle cx="147.1" cy="97.0" r="4" fill="#3465a4"><title>MacLean of Duart 1</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/"><circle cx="161.2" cy="101.1" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><a href="/setts/s11/t8k4ly1k2w3k2g12r24t2r3k2~x2/"><circle cx="192.9" cy="76.7" r="4" fill="#3465a4"><title>MacLean of Duart 4</title></circle></a><a href="/setts/s12/r14t4k6ly1k2w2k2g12r6k2r2w1~x2/"><circle cx="144.9" cy="106.8" r="4" fill="#3465a4"><title>Stewart, Prince Charles Edward</title></circle></a><a href="/setts/s12/ly5g22k2db2k2db2k10r38g5r4k4w5~x2/"><circle cx="188.1" cy="78.7" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/"><circle cx="178.8" cy="101.3" r="4" fill="#3465a4"><title>Maclean of Duart (Wilsons) (Clan)</title></circle></a><a href="/setts/s12/lb4k22o2k3o2k2o3k1o8r16w2ly4~x2/"><circle cx="176.8" cy="82.1" r="4" fill="#3465a4"><title>Aberdeen Forever (District)</title></circle></a><a href="/setts/s12/k8r2k3ly2k2w3k2y12o22r2o2k1~x2/"><circle cx="172.5" cy="79.5" r="4" fill="#3465a4"><title>O'Keefe</title></circle></a><a href="/setts/s12/db4lb1k3ly1dg1lb1k1dg8r12lb1r2k1~x2/"><circle cx="143.4" cy="100.2" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s12/lb5k4r4dg5r38k10db2k2db2k2dg22ly5/"><circle cx="188.0" cy="77.5" r="4" fill="#3465a4"><title>Boyd</title></circle></a><circle cx="159.3" cy="94.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/t13k6ly2k3w4k3g22r31t3r4k2~x2/"><circle cx="146.9" cy="97.0" r="4" fill="#3465a4"><title>MacLean of Duart 1</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/"><circle cx="161.0" cy="101.2" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><a href="/setts/s11/t8k4ly1k2w3k2g12r24t2r3k2~x2/"><circle cx="192.7" cy="76.7" r="4" fill="#3465a4"><title>MacLean of Duart 4</title></circle></a><a href="/setts/s12/r14t4k6ly1k2w2k2g12r6k2r2w1~x2/"><circle cx="144.8" cy="106.9" r="4" fill="#3465a4"><title>Stewart, Prince Charles Edward</title></circle></a><a href="/setts/s12/w5k4r4g5r38k10db2k2db2k2g22ly5~x2/"><circle cx="188.0" cy="78.7" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/"><circle cx="178.6" cy="101.4" r="4" fill="#3465a4"><title>Maclean of Duart (Wilsons) (Clan)</title></circle></a><a href="/setts/s12/ly4w2r16o8k1o3k2o2k3o2k22lb4~x2/"><circle cx="176.7" cy="82.2" r="4" fill="#3465a4"><title>Aberdeen Forever (District)</title></circle></a><a href="/setts/s12/k8r2k3ly2k2w3k2y12o22r2o2k1~x2/"><circle cx="172.4" cy="79.5" r="4" fill="#3465a4"><title>O'Keefe</title></circle></a><a href="/setts/s12/db4lb1k3ly1dg1lb1k1dg8r12lb1r2k1~x2/"><circle cx="143.3" cy="100.3" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s12/ly5dg22k2db2k2db2k10r38dg5r4k4lb5/"><circle cx="187.9" cy="77.6" r="4" fill="#3465a4"><title>Boyd</title></circle></a><circle cx="159.2" cy="94.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/t16k12ly4k4w6k4g32r50t6r8k3/

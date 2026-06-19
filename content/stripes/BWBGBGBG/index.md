@@ -20,7 +20,7 @@ BWBGBGBG
 
 
 
-### DO W DO Y DO Y DO Y <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DO W DO Y DO Y DO Y</span></span>
+### Y DO Y DO Y DO W DO <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="seq">Y DO Y DO Y DO W DO</span></span>
 
 | Tartans |
 |---------------|

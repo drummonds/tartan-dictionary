@@ -18,7 +18,7 @@ BBGBBYBBGBY
 
 
 
-### B DB Y B DB LY P B Y DB LO <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">B DB Y B DB LY P B Y DB LO</span></span>
+### LO DB Y B P LY DB B Y DB B <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LO DB Y B P LY DB B Y DB B</span></span>
 
 | Tartans |
 |---------------|

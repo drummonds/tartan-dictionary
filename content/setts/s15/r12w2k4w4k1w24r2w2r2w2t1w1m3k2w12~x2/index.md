@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7843
 
 ## Thread count
-LR/24 W4 K8 W8 K2 W48 LR4 W4 LR4 W4 B2 W2 LP6 K4 W/24
+W/24 K4 LP6 W2 B2 W4 LR4 W4 LR4 W48 K2 W8 K8 W4 LR/24
 ![Sett](sett.png)
 
 ## Palette
@@ -42,7 +42,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Unidentified Scarlett #4](/setts/s20/dp3w2lo8w10g8w10dp4w40lo8w2lb3w2lo8w40dp4w10g8w10lo8w2~x2/) — ΔT 1.06
+1. [Unidentified Scarlett #4](/setts/s20/dp3w2lo8w10g8w10dp4w40lo8w2lb3~x2/) — ΔT 1.06
 1. [Confederate Memorial Dress](/setts/s14/t18w4r6w4lo4w36y4w4y4w36r12w1db4w3~x2/) — ΔT 1.21
 1. [Confederate Memorial Dress (Military](/setts/s14/t18w4m6w4lo4w36n4w4n4w36m12w1db4w3~x2/) — ΔT 1.23
 1. [Grant of Acharrow](/setts/s12/w9r4w40g9db1w3k3w20r18g4r6w3~x2/) — ΔT 1.26
@@ -55,8 +55,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/dp3w2lo8w10g8w10dp4w40lo8w2lb3w2lo8w40dp4w10g8w10lo8w2~x2/"><circle cx="342.7" cy="69.6" r="4" fill="#3465a4"><title>Unidentified Scarlett #4</title></circle></a><a href="/setts/s14/t18w4r6w4lo4w36y4w4y4w36r12w1db4w3~x2/"><circle cx="314.0" cy="45.2" r="4" fill="#3465a4"><title>Confederate Memorial Dress</title></circle></a><a href="/setts/s14/t18w4m6w4lo4w36n4w4n4w36m12w1db4w3~x2/"><circle cx="307.8" cy="43.2" r="4" fill="#3465a4"><title>Confederate Memorial Dress (Military</title></circle></a><a href="/setts/s12/w9r4w40g9db1w3k3w20r18g4r6w3~x2/"><circle cx="349.7" cy="71.1" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/setts/s12/w46r3do2ly2w7do2w2do11lo6t2lo3w3~x2/"><circle cx="331.5" cy="39.1" r="4" fill="#3465a4"><title>Diana, Plaid Dress</title></circle></a><a href="/setts/s9/w20lo2n5w4db2n2db2n2dg1~x2/"><circle cx="296.6" cy="89.1" r="4" fill="#3465a4"><title>Boucherville Dress</title></circle></a><a href="/setts/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/"><circle cx="304.6" cy="35.7" r="4" fill="#3465a4"><title>Snowy Owl</title></circle></a><a href="/setts/s12/w46r3w7dr2ly2dr2w2dr11o6b2o3w2~x2/"><circle cx="338.2" cy="43.7" r="4" fill="#3465a4"><title>Diana, Plaid dress</title></circle></a><a href="/setts/s19/t1r3r3w26db3w3g14w36r3r1r3w36db14w2g3w26r3r3t1~x2/"><circle cx="366.4" cy="34.5" r="4" fill="#3465a4"><title>McDougall, Miss Anne (Personal)</title></circle></a><a href="/setts/s11/w36g6r2g3w2g3dy6p4g2p2w2~x2/"><circle cx="295.1" cy="73.3" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><circle cx="329.6" cy="61.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/dp3w2lo8w10g8w10dp4w40lo8w2lb3~x2/"><circle cx="341.9" cy="69.3" r="4" fill="#3465a4"><title>Unidentified Scarlett #4</title></circle></a><a href="/setts/s14/t18w4r6w4lo4w36y4w4y4w36r12w1db4w3~x2/"><circle cx="313.3" cy="45.0" r="4" fill="#3465a4"><title>Confederate Memorial Dress</title></circle></a><a href="/setts/s14/t18w4m6w4lo4w36n4w4n4w36m12w1db4w3~x2/"><circle cx="307.1" cy="43.0" r="4" fill="#3465a4"><title>Confederate Memorial Dress (Military</title></circle></a><a href="/setts/s12/w9r4w40g9db1w3k3w20r18g4r6w3~x2/"><circle cx="349.0" cy="70.9" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/setts/s12/w46r3do2ly2w7do2w2do11lo6t2lo3w3~x2/"><circle cx="330.8" cy="38.9" r="4" fill="#3465a4"><title>Diana, Plaid Dress</title></circle></a><a href="/setts/s9/w20lo2n5w4db2n2db2n2dg1~x2/"><circle cx="296.0" cy="88.8" r="4" fill="#3465a4"><title>Boucherville Dress</title></circle></a><a href="/setts/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/"><circle cx="304.0" cy="35.5" r="4" fill="#3465a4"><title>Snowy Owl</title></circle></a><a href="/setts/s12/w46r3w7dr2ly2dr2w2dr11o6b2o3w2~x2/"><circle cx="337.6" cy="43.5" r="4" fill="#3465a4"><title>Diana, Plaid dress</title></circle></a><a href="/setts/s19/t1r3r3w26db3w3g14w36r3r1r3w36db14w2g3w26r3r3t1~x2/"><circle cx="365.7" cy="34.3" r="4" fill="#3465a4"><title>McDougall, Miss Anne (Personal)</title></circle></a><a href="/setts/s11/w36g6r2g3w2g3dy6p4g2p2w2~x2/"><circle cx="294.5" cy="73.1" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><circle cx="328.9" cy="61.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/r12w2k4w4k1w24r2w2r2w2t1w1m3k2w12~x2/

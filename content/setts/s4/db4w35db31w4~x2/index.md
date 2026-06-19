@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7590/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Lewis, Navy
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -44,20 +50,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [MacPhee (Black and White)](/setts/s4/k22w3k3w22~x2/) — ΔT 1.30
-1. [Buchanan Dress Blue (Dance)](/setts/s6/w5db16w5db16w33r3~x2/) — ΔT 1.36
+1. [Buchanan Dress Blue (Dance)](/setts/s6/w5db16w5db16w33r3~x2/) — ΔT 1.37
 1. [Ailsa, Navy (Dance)](/setts/s6/db8w3db28w32k3w4~x2/) — ΔT 1.39
 1. [Erskine Blanket](/setts/s6/db1w1db5w5db1w1~x8/) — ΔT 1.39
-1. [Erskine Blue (Dance)](/setts/s6/db6w2db29w29db2w6~x2/) — ΔT 1.41
+1. [Erskine Blue (Dance)](/setts/s6/db6w2db29w29db2w6~x2/) — ΔT 1.42
 1. [Valley Forge (Artefact)](/setts/s6/lb5k4lb32k32lb5k4~x2/) — ΔT 1.46
-1. [Barbie's Moss Plaid (Blue & White)](/setts/s6/dt3w3dt20w20dt20w3~x2/) — ΔT 1.47
+1. [Barbie's Moss Plaid (Blue & White)](/setts/s6/w20dt20w3dt3~x2/) — ΔT 1.47
 1. [MacLeod Black & White](/setts/s5/w14k2w14k19w2~x2/) — ΔT 1.52
 1. [MacMugen](/setts/s6/dt3w16dt4w3dt12w2~x3/) — ΔT 1.55
 1. [Erskine (Black and White)](/setts/s6/k2w1k9w9k1w2~x6/) — ΔT 1.55
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/k22w3k3w22~x2/"><circle cx="284.6" cy="248.9" r="4" fill="#3465a4"><title>MacPhee (Black and White)</title></circle></a><a href="/setts/s6/w5db16w5db16w33r3~x2/"><circle cx="284.0" cy="195.0" r="4" fill="#3465a4"><title>Buchanan Dress Blue (Dance)</title></circle></a><a href="/setts/s6/db8w3db28w32k3w4~x2/"><circle cx="279.5" cy="190.2" r="4" fill="#3465a4"><title>Ailsa, Navy (Dance)</title></circle></a><a href="/setts/s6/db1w1db5w5db1w1~x8/"><circle cx="281.0" cy="247.6" r="4" fill="#3465a4"><title>Erskine Blanket</title></circle></a><a href="/setts/s6/db6w2db29w29db2w6~x2/"><circle cx="320.4" cy="190.5" r="4" fill="#3465a4"><title>Erskine Blue (Dance)</title></circle></a><a href="/setts/s6/lb5k4lb32k32lb5k4~x2/"><circle cx="304.7" cy="219.5" r="4" fill="#3465a4"><title>Valley Forge (Artefact)</title></circle></a><a href="/setts/s6/dt3w3dt20w20dt20w3~x2/"><circle cx="325.4" cy="246.3" r="4" fill="#3465a4"><title>Barbie's Moss Plaid (Blue &amp; White)</title></circle></a><a href="/setts/s5/w14k2w14k19w2~x2/"><circle cx="313.4" cy="234.2" r="4" fill="#3465a4"><title>MacLeod Black &amp; White</title></circle></a><a href="/setts/s6/dt3w16dt4w3dt12w2~x3/"><circle cx="294.5" cy="226.7" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><a href="/setts/s6/k2w1k9w9k1w2~x6/"><circle cx="294.8" cy="213.9" r="4" fill="#3465a4"><title>Erskine (Black and White)</title></circle></a><circle cx="307.5" cy="241.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/k22w3k3w22~x2/"><circle cx="284.4" cy="248.4" r="4" fill="#3465a4"><title>MacPhee (Black and White)</title></circle></a><a href="/setts/s6/w5db16w5db16w33r3~x2/"><circle cx="283.7" cy="194.6" r="4" fill="#3465a4"><title>Buchanan Dress Blue (Dance)</title></circle></a><a href="/setts/s6/db8w3db28w32k3w4~x2/"><circle cx="279.3" cy="189.9" r="4" fill="#3465a4"><title>Ailsa, Navy (Dance)</title></circle></a><a href="/setts/s6/db1w1db5w5db1w1~x8/"><circle cx="280.7" cy="247.2" r="4" fill="#3465a4"><title>Erskine Blanket</title></circle></a><a href="/setts/s6/db6w2db29w29db2w6~x2/"><circle cx="320.1" cy="190.1" r="4" fill="#3465a4"><title>Erskine Blue (Dance)</title></circle></a><a href="/setts/s6/lb5k4lb32k32lb5k4~x2/"><circle cx="304.6" cy="219.1" r="4" fill="#3465a4"><title>Valley Forge (Artefact)</title></circle></a><a href="/setts/s6/w20dt20w3dt3~x2/"><circle cx="325.2" cy="245.8" r="4" fill="#3465a4"><title>Barbie's Moss Plaid (Blue &amp; White)</title></circle></a><a href="/setts/s5/w14k2w14k19w2~x2/"><circle cx="313.1" cy="233.7" r="4" fill="#3465a4"><title>MacLeod Black &amp; White</title></circle></a><a href="/setts/s6/dt3w16dt4w3dt12w2~x3/"><circle cx="294.2" cy="226.2" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><a href="/setts/s6/k2w1k9w9k1w2~x6/"><circle cx="294.5" cy="213.5" r="4" fill="#3465a4"><title>Erskine (Black and White)</title></circle></a><circle cx="307.3" cy="241.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/db4w35db31w4~x2/

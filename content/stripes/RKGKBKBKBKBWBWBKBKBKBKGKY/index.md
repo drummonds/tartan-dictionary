@@ -22,6 +22,6 @@ RKGKBKBKBKBWBWBKBKBKBKGKY
 
 | Tartans |
 |---------------|
-| [Recovery Hunting](/setts/s25/lo1k1dg8k1dt1k1dt1k1dt1k1dt8w1dt2w1dt8k1dt1k1dt1k1dt1k1dg8k1r1~x4/)|
-|![Recovery Hunting example sett](/setts/s25/lo1k1dg8k1dt1k1dt1k1dt1k1dt8w1dt2w1dt8k1dt1k1dt1k1dt1k1dg8k1r1~x4/sett.png)|
+| [Recovery Hunting](/setts/s25/r1k1dg8k1dt1k1dt1k1dt1k1dt8w1dt2w1dt8k1dt1k1dt1k1dt1k1dg8k1lo1~x4/)|
+|![Recovery Hunting example sett](/setts/s25/r1k1dg8k1dt1k1dt1k1dt1k1dt8w1dt2w1dt8k1dt1k1dt1k1dt1k1dg8k1lo1~x4/sett.png)|
 

@@ -2,12 +2,18 @@
 title: "Hope-Weir / Weir"
 date: 2023-03-18
 ---
-**Bands:** [BKGKBKYK](/stripes/bkgkbkyk/) · **Stripes:** [T K G K DB K LY K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="seq">T K G K DB K LY K</span></span>
+**Bands:** [KYKBKGKB](/stripes/kykbkgkb/) · **Stripes:** [K LY K DB K G K T](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K LY K DB K G K T</span></span>
 
 
 This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Hope-Weir / Weir
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-Ba/4 K2 G4 K24 B56 K2 Y2 K/16
+K/16 Y2 K2 B56 K24 G4 K2 Ba/4
 ![Sett](sett.png)
 
 ## Palette
@@ -908,7 +917,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "Ba/4 K2 G4 K24 B56 K2 Y2 K/16 tartan")
+![Tartan detail](tartan.png "K/16 Y2 K2 B56 K24 G4 K2 Ba/4 tartan")
 
 ## Nearest tartans
 
@@ -923,12 +932,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Home, or Hume](/setts/s8/k28r1k2r1k8db24g2db3~x2/) — ΔT 1.22
 1. [MacLaurin, of Brioch](/setts/s7/db36k10g3r3g6k1ly2~x2/) — ΔT 1.25
 1. [Italian American](/setts/s9/r4k2w6k2db40k80dg10w6r3/) — ΔT 1.25
-1. [Kingsbarns Golf Links](/setts/s10/b8ly3k4g4k48b48g4b4r3k8/) — ΔT 1.25
+1. [Kingsbarns Golf Links](/setts/s10/k8r3b4g4b48k48g4k4ly3b8/) — ΔT 1.25
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w2k40dg22lo3dg2r3dg2w2~x2/"><circle cx="302.6" cy="128.4" r="4" fill="#3465a4"><title>Tartan Day SA</title></circle></a><a href="/setts/s8/g1db1k1db30k30w2db5ly1~x2/"><circle cx="358.5" cy="127.3" r="4" fill="#3465a4"><title>Binder Wedding (Personal)</title></circle></a><a href="/setts/s9/w3db2ly1db2ly1db31k28r2k2~x2/"><circle cx="337.9" cy="113.6" r="4" fill="#3465a4"><title>Hill (Name)</title></circle></a><a href="/setts/s12/w4k2w2k28dt4k2dt2r1k13r1dg13r2~x2/"><circle cx="339.7" cy="110.8" r="4" fill="#3465a4"><title>Niagara Region</title></circle></a><a href="/setts/s7/k1w1k18db20w1r1lo1~x4/"><circle cx="313.4" cy="144.1" r="4" fill="#3465a4"><title>Fuller of Hopewell (Personal)</title></circle></a><a href="/setts/s7/r4k9dg9k40r2k2w2~x2/"><circle cx="358.5" cy="146.9" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen' (Personal)</title></circle></a><a href="/setts/s8/k28r1k2r1k8db24g2db3~x2/"><circle cx="368.4" cy="152.7" r="4" fill="#3465a4"><title>Home, or Hume</title></circle></a><a href="/setts/s7/db36k10g3r3g6k1ly2~x2/"><circle cx="353.4" cy="115.8" r="4" fill="#3465a4"><title>MacLaurin, of Brioch</title></circle></a><a href="/setts/s9/r4k2w6k2db40k80dg10w6r3/"><circle cx="341.6" cy="97.1" r="4" fill="#3465a4"><title>Italian American</title></circle></a><a href="/setts/s10/b8ly3k4g4k48b48g4b4r3k8/"><circle cx="253.8" cy="129.5" r="4" fill="#3465a4"><title>Kingsbarns Golf Links</title></circle></a><circle cx="320.5" cy="125.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w2k40dg22lo3dg2r3dg2w2~x2/"><circle cx="302.7" cy="128.3" r="4" fill="#3465a4"><title>Tartan Day SA</title></circle></a><a href="/setts/s8/g1db1k1db30k30w2db5ly1~x2/"><circle cx="358.5" cy="127.2" r="4" fill="#3465a4"><title>Binder Wedding (Personal)</title></circle></a><a href="/setts/s9/w3db2ly1db2ly1db31k28r2k2~x2/"><circle cx="337.8" cy="113.6" r="4" fill="#3465a4"><title>Hill (Name)</title></circle></a><a href="/setts/s12/w4k2w2k28dt4k2dt2r1k13r1dg13r2~x2/"><circle cx="339.7" cy="110.7" r="4" fill="#3465a4"><title>Niagara Region</title></circle></a><a href="/setts/s7/k1w1k18db20w1r1lo1~x4/"><circle cx="313.5" cy="144.1" r="4" fill="#3465a4"><title>Fuller of Hopewell (Personal)</title></circle></a><a href="/setts/s7/r4k9dg9k40r2k2w2~x2/"><circle cx="358.5" cy="146.8" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen' (Personal)</title></circle></a><a href="/setts/s8/k28r1k2r1k8db24g2db3~x2/"><circle cx="368.5" cy="152.6" r="4" fill="#3465a4"><title>Home, or Hume</title></circle></a><a href="/setts/s7/db36k10g3r3g6k1ly2~x2/"><circle cx="353.3" cy="115.7" r="4" fill="#3465a4"><title>MacLaurin, of Brioch</title></circle></a><a href="/setts/s9/r4k2w6k2db40k80dg10w6r3/"><circle cx="341.6" cy="97.0" r="4" fill="#3465a4"><title>Italian American</title></circle></a><a href="/setts/s10/k8r3b4g4b48k48g4k4ly3b8/"><circle cx="253.9" cy="129.4" r="4" fill="#3465a4"><title>Kingsbarns Golf Links</title></circle></a><circle cx="320.6" cy="125.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k8ly1k1db28k12g2k1t2~x2/

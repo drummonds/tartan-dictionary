@@ -2,7 +2,7 @@
 title: "Roast Den, The"
 date: 2023-03-18
 ---
-**Bands:** [GBGGGGGBY](/stripes/gbgggggby/) · **Stripes:** [DG DR G G DG G G DR LO](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DG DR G G DG G G DR LO</span></span>
+**Bands:** [YBGGGGGBG](/stripes/ybgggggbg/) · **Stripes:** [LO DR G G DG G G DR DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="seq">LO DR G G DG G G DR DG</span></span>
 
 
 This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/
 Original link http://www.tartansauthority.com/tartan-ferret/display/11256/
 
 ## Thread count
-DG/24 DR24 Ga2 G8 DG4 G8 Ga2 DR24 LT/124
+LT/124 DR24 Ga2 G8 DG4 G8 Ga2 DR24 DG/24
 ![Sett](sett.png)
 
 ## Palette
@@ -36,13 +36,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Afghanistan Memorial](/setts/s13/dt8k3y1k1y39k3r3y2dt11k8y2k3w2~x2/) — ΔT 1.38
 1. [Gray Htg (Name)](/setts/s11/k3w1g29o8m2o2m2o2m8g7k2~x2/) — ΔT 1.41
 1. [Roast Den, The](/setts/s9/y62do12lg1y4dg2y4lg1do12dg12~x2/) — ΔT 1.43
-1. [Saunders (Personal)](/setts/s13/dr1lr16y4lr17y46ly1k1ly1k1ly1k1ly1k1/) — ΔT 1.44
+1. [Saunders (Personal)](/setts/s13/k1ly1k1ly1k1ly1k1ly1y46lr17y4lr16dr1~x2/) — ΔT 1.44
 1. [MacDonald of Kingsburgh -1746 (Clan)](/setts/s9/g8dg1g1dg42w2o40g2dg2o3~x2/) — ΔT 1.45
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g40lo2r3lb2g4lo1r18lb1g2lo1b4lb1lo3~x2/"><circle cx="374.2" cy="71.8" r="4" fill="#3465a4"><title>Morgan Jocelyn . . . (Personal)</title></circle></a><a href="/setts/s9/g15ly3g27r2g2r33b2w1b4~x2/"><circle cx="334.2" cy="114.4" r="4" fill="#3465a4"><title>Longmore (Name)</title></circle></a><a href="/setts/s13/r6r1db2r2g40r6db13t1r48g2r4r1g4~x2/"><circle cx="372.1" cy="75.6" r="4" fill="#3465a4"><title>MacDonald of Glencoe</title></circle></a><a href="/setts/s13/r5ly1db2r2g30r5db10t1r42g2r4ly1g4~x2/"><circle cx="372.3" cy="78.7" r="4" fill="#3465a4"><title>MacDonald, of Glencoe</title></circle></a><a href="/setts/s9/y32w1k3w1g14y7k3dp3w1~x2/"><circle cx="382.6" cy="121.1" r="4" fill="#3465a4"><title>Leach Htg #2 (Name)</title></circle></a><a href="/setts/s13/dt8k3y1k1y39k3r3y2dt11k8y2k3w2~x2/"><circle cx="331.1" cy="76.7" r="4" fill="#3465a4"><title>Afghanistan Memorial</title></circle></a><a href="/setts/s11/k3w1g29o8m2o2m2o2m8g7k2~x2/"><circle cx="335.1" cy="115.5" r="4" fill="#3465a4"><title>Gray Htg (Name)</title></circle></a><a href="/setts/s9/y62do12lg1y4dg2y4lg1do12dg12~x2/"><circle cx="415.1" cy="108.5" r="4" fill="#3465a4"><title>Roast Den, The</title></circle></a><a href="/setts/s13/dr1lr16y4lr17y46ly1k1ly1k1ly1k1ly1k1/"><circle cx="410.9" cy="75.2" r="4" fill="#3465a4"><title>Saunders (Personal)</title></circle></a><a href="/setts/s9/g8dg1g1dg42w2o40g2dg2o3~x2/"><circle cx="343.2" cy="104.9" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh -1746 (Clan)</title></circle></a><circle cx="383.8" cy="87.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g40lo2r3lb2g4lo1r18lb1g2lo1b4lb1lo3~x2/"><circle cx="373.7" cy="71.8" r="4" fill="#3465a4"><title>Morgan Jocelyn . . . (Personal)</title></circle></a><a href="/setts/s9/g15ly3g27r2g2r33b2w1b4~x2/"><circle cx="333.9" cy="114.4" r="4" fill="#3465a4"><title>Longmore (Name)</title></circle></a><a href="/setts/s13/r6r1db2r2g40r6db13t1r48g2r4r1g4~x2/"><circle cx="371.7" cy="75.6" r="4" fill="#3465a4"><title>MacDonald of Glencoe</title></circle></a><a href="/setts/s13/r5ly1db2r2g30r5db10t1r42g2r4ly1g4~x2/"><circle cx="372.0" cy="78.7" r="4" fill="#3465a4"><title>MacDonald, of Glencoe</title></circle></a><a href="/setts/s9/y32w1k3w1g14y7k3dp3w1~x2/"><circle cx="382.2" cy="121.1" r="4" fill="#3465a4"><title>Leach Htg #2 (Name)</title></circle></a><a href="/setts/s13/dt8k3y1k1y39k3r3y2dt11k8y2k3w2~x2/"><circle cx="330.8" cy="76.7" r="4" fill="#3465a4"><title>Afghanistan Memorial</title></circle></a><a href="/setts/s11/k3w1g29o8m2o2m2o2m8g7k2~x2/"><circle cx="334.9" cy="115.5" r="4" fill="#3465a4"><title>Gray Htg (Name)</title></circle></a><a href="/setts/s9/y62do12lg1y4dg2y4lg1do12dg12~x2/"><circle cx="414.8" cy="108.5" r="4" fill="#3465a4"><title>Roast Den, The</title></circle></a><a href="/setts/s13/k1ly1k1ly1k1ly1k1ly1y46lr17y4lr16dr1~x2/"><circle cx="410.4" cy="75.2" r="4" fill="#3465a4"><title>Saunders (Personal)</title></circle></a><a href="/setts/s9/g8dg1g1dg42w2o40g2dg2o3~x2/"><circle cx="342.8" cy="104.8" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh -1746 (Clan)</title></circle></a><circle cx="383.4" cy="87.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/lo62dr12g1g4dg2g4g1dr12dg12~x2/

@@ -18,7 +18,7 @@ BRRBBBBBRR
 
 
 
-### DO O R DO N DO N DO O R <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">DO O R DO N DO N DO O R</span></span>
+### R O DO N DO N DO R O DO <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="seq">R O DO N DO N DO R O DO</span></span>
 
 | Tartans |
 |---------------|

@@ -2,7 +2,7 @@
 title: "Tulloch Homes"
 date: 2023-03-18
 ---
-**Bands:** [GGRBRGY](/stripes/ggrbrgy/) · **Stripes:** [G DG R DT R DG LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G DG R DT R DG LY</span></span>
+**Bands:** [YGRBRGG](/stripes/ygrbrgg/) · **Stripes:** [LY DG R DT R DG G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY DG R DT R DG G</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/6 DG14 DR9 DB7 DR9 DG54 Y/6
+Y/6 DG54 DR9 DB7 DR9 DG14 G/6
 ![Sett](sett.png)
 
 ## Palette
@@ -901,14 +904,14 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/6 DG14 DR9 DB7 DR9 DG54 Y/6 tartan")
+![Tartan detail](tartan.png "Y/6 DG54 DR9 DB7 DR9 DG14 G/6 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Tulloch Homes](/setts/s7/g6g14r9dt7r9g54ly6/) — ΔT 1.08
-1. [St Johns County Sheriff Office (Cor)](/setts/s5/r17db7lo8g58k6~x2/) — ΔT 1.10
+1. [Tulloch Homes](/setts/s7/g6g14r9dt7r9g54ly6/) — ΔT 1.09
+1. [St Johns County Sheriff Office (Cor)](/setts/s5/r17db7lo8g58k6~x2/) — ΔT 1.11
 1. [Paton (Personal)](/setts/s7/r3g20k20g20lo2g2lo2~x2/) — ΔT 1.19
 1. [Ronald, Clan (Clan)](/setts/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/) — ΔT 1.25
 1. [Marshall Field](/setts/s8/g10db1w1db1ly1db6g8r1~x8/) — ΔT 1.27
@@ -920,8 +923,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g6g14r9dt7r9g54ly6/"><circle cx="357.3" cy="192.3" r="4" fill="#3465a4"><title>Tulloch Homes</title></circle></a><a href="/setts/s5/r17db7lo8g58k6~x2/"><circle cx="325.8" cy="200.3" r="4" fill="#3465a4"><title>St Johns County Sheriff Office (Cor)</title></circle></a><a href="/setts/s7/r3g20k20g20lo2g2lo2~x2/"><circle cx="347.8" cy="221.5" r="4" fill="#3465a4"><title>Paton (Personal)</title></circle></a><a href="/setts/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/"><circle cx="324.0" cy="160.9" r="4" fill="#3465a4"><title>Ronald, Clan (Clan)</title></circle></a><a href="/setts/s8/g10db1w1db1ly1db6g8r1~x8/"><circle cx="326.6" cy="186.5" r="4" fill="#3465a4"><title>Marshall Field</title></circle></a><a href="/setts/s7/dg3w1dg12r6dg3k3g2~x4/"><circle cx="295.0" cy="190.6" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/setts/s7/k3g2k3g18r2db2lo1~x4/"><circle cx="379.6" cy="155.0" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/setts/s11/g28r2g28r7lb2r7lb2r7k5dp4lb2~x2/"><circle cx="336.3" cy="153.7" r="4" fill="#3465a4"><title>Hynde (Sir John)</title></circle></a><a href="/setts/s5/r17db7lo8dg58k6~x2/"><circle cx="317.4" cy="197.6" r="4" fill="#3465a4"><title>St Johns County's Sheriff's Office</title></circle></a><a href="/setts/s11/k3db10dg25ly2dg2ly3dg2ly2dg25db10w3~x2/"><circle cx="323.9" cy="153.3" r="4" fill="#3465a4"><title>William &amp; Mary GALA (Corporate)</title></circle></a><circle cx="352.7" cy="193.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g6g14r9dt7r9g54ly6/"><circle cx="357.1" cy="192.1" r="4" fill="#3465a4"><title>Tulloch Homes</title></circle></a><a href="/setts/s5/r17db7lo8g58k6~x2/"><circle cx="325.7" cy="200.2" r="4" fill="#3465a4"><title>St Johns County Sheriff Office (Cor)</title></circle></a><a href="/setts/s7/r3g20k20g20lo2g2lo2~x2/"><circle cx="347.8" cy="221.4" r="4" fill="#3465a4"><title>Paton (Personal)</title></circle></a><a href="/setts/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/"><circle cx="323.8" cy="160.8" r="4" fill="#3465a4"><title>Ronald, Clan (Clan)</title></circle></a><a href="/setts/s8/g10db1w1db1ly1db6g8r1~x8/"><circle cx="326.4" cy="186.3" r="4" fill="#3465a4"><title>Marshall Field</title></circle></a><a href="/setts/s7/dg3w1dg12r6dg3k3g2~x4/"><circle cx="295.0" cy="190.5" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/setts/s7/k3g2k3g18r2db2lo1~x4/"><circle cx="379.4" cy="154.9" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/setts/s11/g28r2g28r7lb2r7lb2r7k5dp4lb2~x2/"><circle cx="336.1" cy="153.6" r="4" fill="#3465a4"><title>Hynde (Sir John)</title></circle></a><a href="/setts/s5/r17db7lo8dg58k6~x2/"><circle cx="317.4" cy="197.5" r="4" fill="#3465a4"><title>St Johns County's Sheriff's Office</title></circle></a><a href="/setts/s11/k3db10dg25ly2dg2ly3dg2ly2dg25db10w3~x2/"><circle cx="323.8" cy="153.2" r="4" fill="#3465a4"><title>William &amp; Mary GALA (Corporate)</title></circle></a><circle cx="352.6" cy="193.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/g6dg14r9dt7r9dg54ly6/

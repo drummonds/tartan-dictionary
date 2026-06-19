@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Perthshire
+- Perthshire District
+
 ## Attestations
 
 This cloth appears in 4 source records; the oldest owns this page.
@@ -320,6 +327,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +428,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +688,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -894,7 +904,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/2 Ba4 B6 R16 G32 Y2 B6 LN2 R/72
+R/72 LN2 B6 Y2 G32 R16 B6 Ba4 LN/2
 ![Sett](sett.png)
 
 ## Palette
@@ -926,8 +936,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r36w1db3ly1g16r8db3b2w1~x2/"><circle cx="394.5" cy="74.5" r="4" fill="#3465a4"><title>Drummond of Perth (Clan)</title></circle></a><a href="/setts/s9/r38ly1db3w1g13r6db3t3w1~x2/"><circle cx="412.5" cy="69.9" r="4" fill="#3465a4"><title>Drummond, Ancient</title></circle></a><a href="/setts/s9/r36w1db3ly1dg16r8db3t2w1~x2/"><circle cx="398.8" cy="75.5" r="4" fill="#3465a4"><title>Perthshire or Drummond of Perth</title></circle></a><a href="/setts/s8/r72g3ly2g26r14db6t6w2/"><circle cx="432.4" cy="84.6" r="4" fill="#3465a4"><title>Stewart of Fingask - 1745 (Clan?)</title></circle></a><a href="/setts/s8/r72dg3ly2dg26r14db6t6w2/"><circle cx="424.6" cy="77.7" r="4" fill="#3465a4"><title>Stuart/Stewart of Fingask</title></circle></a><a href="/setts/s9/r36lr1db3ly1dg16r8db3b2lr1~x2/"><circle cx="404.6" cy="85.2" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s9/r36lr1db3ly1dg16r8db3b2lr1/"><circle cx="404.6" cy="85.2" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s8/r48db3lo2g14r8db3t4w3~x2/"><circle cx="402.9" cy="91.6" r="4" fill="#3465a4"><title>Drummond of Fingask</title></circle></a><a href="/setts/s9/ly9k1lb4k1r40k1n4g9ly1~x2/"><circle cx="347.5" cy="52.5" r="4" fill="#3465a4"><title>Kings Mountain 1780 (Commemorative)</title></circle></a><a href="/setts/s9/r51ly2k4w2g21r10k4t4w2~x2/"><circle cx="345.1" cy="75.4" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><circle cx="395.0" cy="75.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r36w1db3ly1g16r8db3b2w1~x2/"><circle cx="394.0" cy="74.4" r="4" fill="#3465a4"><title>Drummond of Perth (Clan)</title></circle></a><a href="/setts/s9/r38ly1db3w1g13r6db3t3w1~x2/"><circle cx="412.0" cy="69.8" r="4" fill="#3465a4"><title>Drummond, Ancient</title></circle></a><a href="/setts/s9/r36w1db3ly1dg16r8db3t2w1~x2/"><circle cx="398.3" cy="75.5" r="4" fill="#3465a4"><title>Perthshire or Drummond of Perth</title></circle></a><a href="/setts/s8/r72g3ly2g26r14db6t6w2/"><circle cx="431.8" cy="84.5" r="4" fill="#3465a4"><title>Stewart of Fingask - 1745 (Clan?)</title></circle></a><a href="/setts/s8/r72dg3ly2dg26r14db6t6w2/"><circle cx="424.0" cy="77.6" r="4" fill="#3465a4"><title>Stuart/Stewart of Fingask</title></circle></a><a href="/setts/s9/r36lr1db3ly1dg16r8db3b2lr1~x2/"><circle cx="404.3" cy="85.2" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s9/r36lr1db3ly1dg16r8db3b2lr1/"><circle cx="404.3" cy="85.2" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s8/r48db3lo2g14r8db3t4w3~x2/"><circle cx="402.4" cy="91.5" r="4" fill="#3465a4"><title>Drummond of Fingask</title></circle></a><a href="/setts/s9/ly9k1lb4k1r40k1n4g9ly1~x2/"><circle cx="346.9" cy="52.5" r="4" fill="#3465a4"><title>Kings Mountain 1780 (Commemorative)</title></circle></a><a href="/setts/s9/r51ly2k4w2g21r10k4t4w2~x2/"><circle cx="344.7" cy="75.3" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><circle cx="394.5" cy="75.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r36w1db3ly1g16r8db3t2w1~x2/

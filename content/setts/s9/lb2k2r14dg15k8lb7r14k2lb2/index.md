@@ -13,13 +13,23 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Thread count
 N/2 K2 R14 G15 K8 N7 R14 K2 N/2
@@ -43,17 +53,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Daks](/setts/s8/o3k7o2w2o12k2o2o3~x2/) — ΔT 1.09
 1. [Montrose](/setts/s9/db1k1r12g12k6db5r12k1db1~x2/) — ΔT 1.10
 1. [Montrose (Graham)](/setts/s9/y1k1r8dg8k6y4r8k1y1~x8/) — ΔT 1.12
-1. [Dogrobes](/setts/s9/lb3r2lb9dt15w2dt15r9w2r3~x2/) — ΔT 1.13
+1. [Dogrobes](/setts/s9/r3w2r9dt15w2dt15lb9r2lb3~x2/) — ΔT 1.13
 1. [Blackstock Red (Dress)](/setts/s7/ly2dg7k6r11k1r1ly2~x4/) — ΔT 1.14
-1. [MacMillan Varient (Unidentified)](/setts/s6/dg3k31r17dg6ly18k3~x2/) — ΔT 1.15
+1. [MacMillan Varient (Unidentified)](/setts/s6/k3ly18dg6r17k31dg3~x2/) — ΔT 1.15
 1. [Blackstock, dress](/setts/s7/ly2g7k6r12k1r1ly2~x4/) — ΔT 1.17
 1. [Redwood Dress](/setts/s9/dg3r1w5r1dg2r1dg1r9do2~x4/) — ΔT 1.20
 1. [Al Suwaidi of Abu Dhabi (Personal)](/setts/s8/w2r7dg7k7r2dg2k2w1~x5/) — ΔT 1.20
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lr1k1r10g10k5lr5r10k1lr1~x4/"><circle cx="201.4" cy="171.6" r="4" fill="#3465a4"><title>Graham Red</title></circle></a><a href="/setts/s8/o3k7o2w2o12k2o2o3~x2/"><circle cx="174.8" cy="202.4" r="4" fill="#3465a4"><title>Daks</title></circle></a><a href="/setts/s9/db1k1r12g12k6db5r12k1db1~x2/"><circle cx="227.1" cy="168.9" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/setts/s9/y1k1r8dg8k6y4r8k1y1~x8/"><circle cx="192.4" cy="199.0" r="4" fill="#3465a4"><title>Montrose (Graham)</title></circle></a><a href="/setts/s9/lb3r2lb9dt15w2dt15r9w2r3~x2/"><circle cx="205.3" cy="183.3" r="4" fill="#3465a4"><title>Dogrobes</title></circle></a><a href="/setts/s7/ly2dg7k6r11k1r1ly2~x4/"><circle cx="188.6" cy="182.9" r="4" fill="#3465a4"><title>Blackstock Red (Dress)</title></circle></a><a href="/setts/s6/dg3k31r17dg6ly18k3~x2/"><circle cx="189.7" cy="190.9" r="4" fill="#3465a4"><title>MacMillan Varient (Unidentified)</title></circle></a><a href="/setts/s7/ly2g7k6r12k1r1ly2~x4/"><circle cx="190.6" cy="168.4" r="4" fill="#3465a4"><title>Blackstock, dress</title></circle></a><a href="/setts/s9/dg3r1w5r1dg2r1dg1r9do2~x4/"><circle cx="228.7" cy="171.2" r="4" fill="#3465a4"><title>Redwood Dress</title></circle></a><a href="/setts/s8/w2r7dg7k7r2dg2k2w1~x5/"><circle cx="111.6" cy="203.7" r="4" fill="#3465a4"><title>Al Suwaidi of Abu Dhabi (Personal)</title></circle></a><circle cx="159.3" cy="184.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lr1k1r10g10k5lr5r10k1lr1~x4/"><circle cx="201.2" cy="171.6" r="4" fill="#3465a4"><title>Graham Red</title></circle></a><a href="/setts/s8/o3k7o2w2o12k2o2o3~x2/"><circle cx="174.7" cy="202.3" r="4" fill="#3465a4"><title>Daks</title></circle></a><a href="/setts/s9/db1k1r12g12k6db5r12k1db1~x2/"><circle cx="227.0" cy="168.9" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/setts/s9/y1k1r8dg8k6y4r8k1y1~x8/"><circle cx="192.3" cy="199.0" r="4" fill="#3465a4"><title>Montrose (Graham)</title></circle></a><a href="/setts/s9/r3w2r9dt15w2dt15lb9r2lb3~x2/"><circle cx="205.2" cy="183.1" r="4" fill="#3465a4"><title>Dogrobes</title></circle></a><a href="/setts/s7/ly2dg7k6r11k1r1ly2~x4/"><circle cx="188.5" cy="182.8" r="4" fill="#3465a4"><title>Blackstock Red (Dress)</title></circle></a><a href="/setts/s6/k3ly18dg6r17k31dg3~x2/"><circle cx="189.6" cy="190.8" r="4" fill="#3465a4"><title>MacMillan Varient (Unidentified)</title></circle></a><a href="/setts/s7/ly2g7k6r12k1r1ly2~x4/"><circle cx="190.5" cy="168.3" r="4" fill="#3465a4"><title>Blackstock, dress</title></circle></a><a href="/setts/s9/dg3r1w5r1dg2r1dg1r9do2~x4/"><circle cx="228.5" cy="171.1" r="4" fill="#3465a4"><title>Redwood Dress</title></circle></a><a href="/setts/s8/w2r7dg7k7r2dg2k2w1~x5/"><circle cx="111.6" cy="203.7" r="4" fill="#3465a4"><title>Al Suwaidi of Abu Dhabi (Personal)</title></circle></a><circle cx="159.2" cy="183.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/lb2k2r14dg15k8lb7r14k2lb2/

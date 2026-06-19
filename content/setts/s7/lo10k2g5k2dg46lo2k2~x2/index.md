@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/
 Original link http://www.tartansauthority.com/tartan-ferret/display/10829/
 
 ## Thread count
-K/4 DY4 Ga92 K4 G10 K4 LT/20
+LT/20 K4 G10 K4 Ga92 DY4 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -26,7 +26,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/4 DY4 Ga92 K4 G10 K4 LT/20 tartan")
+![Tartan detail](tartan.png "LT/20 K4 G10 K4 Ga92 DY4 K/4 tartan")
 
 ## Nearest tartans
 
@@ -45,8 +45,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g55db7r24g12dt4ly3dt4~x2/"><circle cx="387.0" cy="175.4" r="4" fill="#3465a4"><title>Crieff &amp; Strathearn #1</title></circle></a><a href="/setts/s10/dg40r5k2w2k2ly3k2dg10r3k3~x2/"><circle cx="438.8" cy="127.7" r="4" fill="#3465a4"><title>Palmer, Arnold</title></circle></a><a href="/setts/s8/g45k4r2g4r2k4n21r5~x2/"><circle cx="369.5" cy="154.6" r="4" fill="#3465a4"><title>Shiach (Personal)</title></circle></a><a href="/setts/s9/y32w1k3w1g14y7k3dp3w1~x2/"><circle cx="382.6" cy="121.1" r="4" fill="#3465a4"><title>Leach Htg #2 (Name)</title></circle></a><a href="/setts/s7/k3g2k3g18r2db2lo1~x4/"><circle cx="379.6" cy="155.0" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/setts/s8/g44k2g2k2g3k12db10r3~x2/"><circle cx="420.0" cy="164.9" r="4" fill="#3465a4"><title>Celtic (New) Corporate Sport Tartan Tartan Number: 2232. Earliest known date: 1842 Should have a white line (?). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/g50r1r20k2w1~x2/"><circle cx="499.1" cy="147.6" r="4" fill="#3465a4"><title>Kenspeckle</title></circle></a><a href="/setts/s8/g62o3g3o31k4g5t5r3~x2/"><circle cx="364.8" cy="142.1" r="4" fill="#3465a4"><title>Sheffield, City of (District)</title></circle></a><a href="/setts/s8/g16dg1lg4dg41lg1dg6g2dg2~x2/"><circle cx="503.9" cy="153.3" r="4" fill="#3465a4"><title>Semper</title></circle></a><a href="/setts/s8/dg5r3dg3lo2dg1ly8dg24lo2~x2/"><circle cx="442.8" cy="158.7" r="4" fill="#3465a4"><title>St. Christopher (Corporate)</title></circle></a><circle cx="453.6" cy="153.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g55db7r24g12dt4ly3dt4~x2/"><circle cx="386.8" cy="175.4" r="4" fill="#3465a4"><title>Crieff &amp; Strathearn #1</title></circle></a><a href="/setts/s10/dg40r5k2w2k2ly3k2dg10r3k3~x2/"><circle cx="438.4" cy="127.6" r="4" fill="#3465a4"><title>Palmer, Arnold</title></circle></a><a href="/setts/s8/g45k4r2g4r2k4n21r5~x2/"><circle cx="369.3" cy="154.6" r="4" fill="#3465a4"><title>Shiach (Personal)</title></circle></a><a href="/setts/s9/y32w1k3w1g14y7k3dp3w1~x2/"><circle cx="382.2" cy="121.1" r="4" fill="#3465a4"><title>Leach Htg #2 (Name)</title></circle></a><a href="/setts/s7/k3g2k3g18r2db2lo1~x4/"><circle cx="379.4" cy="154.9" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/setts/s8/g44k2g2k2g3k12db10r3~x2/"><circle cx="419.8" cy="164.8" r="4" fill="#3465a4"><title>Celtic (New) Corporate Sport Tartan Tartan Number: 2232. Earliest known date: 1842 Should have a white line (?). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/g50r1r20k2w1~x2/"><circle cx="498.8" cy="147.5" r="4" fill="#3465a4"><title>Kenspeckle</title></circle></a><a href="/setts/s8/g62o3g3o31k4g5t5r3~x2/"><circle cx="364.5" cy="142.2" r="4" fill="#3465a4"><title>Sheffield, City of (District)</title></circle></a><a href="/setts/s8/g16dg1lg4dg41lg1dg6g2dg2~x2/"><circle cx="503.7" cy="153.1" r="4" fill="#3465a4"><title>Semper</title></circle></a><a href="/setts/s8/dg5r3dg3lo2dg1ly8dg24lo2~x2/"><circle cx="442.4" cy="158.4" r="4" fill="#3465a4"><title>St. Christopher (Corporate)</title></circle></a><circle cx="453.3" cy="153.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/lo10k2g5k2dg46lo2k2~x2/

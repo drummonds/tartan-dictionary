@@ -15,6 +15,6 @@ A family of [Clan MacAn](/clan/macan/).
 <ul class="tartan-grid">
 <li><a class="tartan" href="/setts/s24/r16g1r1g1r1g4k1lb1k1ly1k1t6db4t6k1ly1k1lb1k1g4r12g1r1k1~x4/"><img src="/setts/s24/r16g1r1g1r1g4k1lb1k1ly1k1t6db4t6k1ly1k1lb1k1g4r12g1r1k1~x4/sett.png" alt="Macan of Lurgyvallan" width="140"><br>Macan of Lurgyvallan</a></li>
 <li><a class="tartan" href="/setts/s24/r16g1r1g1r1g4k1w1k1ly1k1t6db4t6k1ly1k1w1k1g4r12g1r1k1~x2/"><img src="/setts/s24/r16g1r1g1r1g4k1w1k1ly1k1t6db4t6k1ly1k1w1k1g4r12g1r1k1~x2/sett.png" alt="Macan, of Lurgyvallan" width="140"><br>Macan, of Lurgyvallan</a></li>
-<li><a class="tartan" href="/setts/s6/r10k1r4g6r4k1~x2/"><img src="/setts/s6/r10k1r4g6r4k1~x2/sett.png" alt="Macan, of Lurgyvallan (Hose)" width="140"><br>Macan, of Lurgyvallan (Hose)</a></li>
+<li><a class="tartan" href="/setts/s6/r10k1r4g6~x2/"><img src="/setts/s6/r10k1r4g6~x2/sett.png" alt="Macan, of Lurgyvallan (Hose)" width="140"><br>Macan, of Lurgyvallan (Hose)</a></li>
 </ul>
 

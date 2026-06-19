@@ -2,12 +2,19 @@
 title: "Norwich Collection No. 60"
 date: 2023-03-18
 ---
-**Bands:** [BKGR](/stripes/bkgr/) · **Stripes:** [DP K G R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">DP K G R</span></span>
+**Bands:** [RGKB](/stripes/rgkb/) · **Stripes:** [R G K DP](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R G K DP</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3168
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Wilson's No.159
+- Wilson's, No 159
 
 ## Attestations
 
@@ -61,8 +68,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/g9k11dp8t2~x2/"><circle cx="167.3" cy="309.0" r="4" fill="#3465a4"><title>Wilson's No.228</title></circle></a><a href="/setts/s4/dp8k11dg9w2~x2/"><circle cx="141.9" cy="293.9" r="4" fill="#3465a4"><title>Wilson's No 220</title></circle></a><a href="/setts/s4/dp5k5g5w1~x4/"><circle cx="112.3" cy="291.3" r="4" fill="#3465a4"><title>Wilson's No.220</title></circle></a><a href="/setts/s4/dp6k5dg5r1~x2/"><circle cx="170.3" cy="301.2" r="4" fill="#3465a4"><title>Unidentified No 60</title></circle></a><a href="/setts/s4/r9g9k10t2~x2/"><circle cx="124.4" cy="290.9" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><a href="/setts/s4/r6dg5k5t1~x2/"><circle cx="144.4" cy="277.3" r="4" fill="#3465a4"><title>Unidentified No 28</title></circle></a><a href="/setts/s5/dt6k6dt6r14ly3~x2/"><circle cx="160.8" cy="268.4" r="4" fill="#3465a4"><title>Chivas Regal</title></circle></a><a href="/setts/s5/dp3k3dp3dg6r2~x2/"><circle cx="122.3" cy="315.6" r="4" fill="#3465a4"><title>Austin (Wilson's No 137)</title></circle></a><a href="/setts/s4/db4k5dg4r1~x4/"><circle cx="169.0" cy="322.1" r="4" fill="#3465a4"><title>Unidentified pattern #3</title></circle></a><a href="/setts/s5/k1g3k3db3r1~x4/"><circle cx="129.9" cy="317.5" r="4" fill="#3465a4"><title>Durham District Tartan Tartan Number: 1089. Earliest known date: 1819 It was Wilson's practice to give the names of towns to many of his new designs. Maybe because the order came from there or because it was the name of the purchaser. There was a family of Durhams associated with the Royal Court in Edinburgh prior to the Union of the Crowns. Wilson was also a collector of tartans, receiving samples from his agents in the Highlands and from purchase orders from around the world. See 'Denholme' and 'Urquhart'. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="157.1" cy="296.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/g9k11dp8t2~x2/"><circle cx="167.6" cy="308.9" r="4" fill="#3465a4"><title>Wilson's No.228</title></circle></a><a href="/setts/s4/dp8k11dg9w2~x2/"><circle cx="142.2" cy="293.9" r="4" fill="#3465a4"><title>Wilson's No 220</title></circle></a><a href="/setts/s4/dp5k5g5w1~x4/"><circle cx="112.5" cy="291.2" r="4" fill="#3465a4"><title>Wilson's No.220</title></circle></a><a href="/setts/s4/dp6k5dg5r1~x2/"><circle cx="170.6" cy="301.2" r="4" fill="#3465a4"><title>Unidentified No 60</title></circle></a><a href="/setts/s4/r9g9k10t2~x2/"><circle cx="124.6" cy="290.8" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><a href="/setts/s4/r6dg5k5t1~x2/"><circle cx="144.5" cy="277.3" r="4" fill="#3465a4"><title>Unidentified No 28</title></circle></a><a href="/setts/s5/dt6k6dt6r14ly3~x2/"><circle cx="160.9" cy="268.3" r="4" fill="#3465a4"><title>Chivas Regal</title></circle></a><a href="/setts/s5/dp3k3dp3dg6r2~x2/"><circle cx="122.6" cy="315.6" r="4" fill="#3465a4"><title>Austin (Wilson's No 137)</title></circle></a><a href="/setts/s4/db4k5dg4r1~x4/"><circle cx="169.3" cy="322.2" r="4" fill="#3465a4"><title>Unidentified pattern #3</title></circle></a><a href="/setts/s5/k1g3k3db3r1~x4/"><circle cx="130.2" cy="317.5" r="4" fill="#3465a4"><title>Durham District Tartan Tartan Number: 1089. Earliest known date: 1819 It was Wilson's practice to give the names of towns to many of his new designs. Maybe because the order came from there or because it was the name of the purchaser. There was a family of Durhams associated with the Royal Court in Edinburgh prior to the Union of the Crowns. Wilson was also a collector of tartans, receiving samples from his agents in the Highlands and from purchase orders from around the world. See 'Denholme' and 'Urquhart'. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="157.4" cy="296.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/dp8k11g9r2~x2/

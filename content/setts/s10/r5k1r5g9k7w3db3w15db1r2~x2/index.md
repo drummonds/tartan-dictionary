@@ -2,12 +2,18 @@
 title: "MacDuff, dress"
 date: 2023-03-18
 ---
-**Bands:** [RBWBWKGRKR](/stripes/rbwbwkgrkr/) · **Stripes:** [R DB W DB W K G R K R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB W DB W K G R K R</span></span>
+**Bands:** [RKRGKWBWBR](/stripes/rkrgkwbwbr/) · **Stripes:** [R K R G K W DB W DB R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R G K W DB W DB R</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacDuff, dress
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-R/4 B2 LN30 B6 LN6 K14 G18 R10 K2 R/10
+R/10 K2 R10 G18 K14 LN6 B6 LN30 B2 R/4
 ![Sett](sett.png)
 
 ## Palette
@@ -923,8 +932,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r16k6r14g22k16db16w10r6w45k4r4/"><circle cx="93.2" cy="136.0" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/setts/s11/r16k6r14dg22k16db16w10r6w45k4r4/"><circle cx="99.4" cy="135.6" r="4" fill="#3465a4"><title>MacDuff Dress #4</title></circle></a><a href="/setts/s8/dg2do8dg8r3do1w12dg2y1~x2/"><circle cx="123.1" cy="151.9" r="4" fill="#3465a4"><title>National Trust Corporate Tartan Tartan Number: 2117. Earliest known date: pre 1991 Sent in by Tweedmill for information. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r4k1r4g8k6lb3db2lb11db1r2~x4/"><circle cx="103.9" cy="157.1" r="4" fill="#3465a4"><title>MacDuff Dress #2</title></circle></a><a href="/setts/s10/lo12k3g24r12g24k32w44g4w8g4/"><circle cx="107.4" cy="134.7" r="4" fill="#3465a4"><title>Gillies Dress Green</title></circle></a><a href="/setts/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/"><circle cx="136.0" cy="116.2" r="4" fill="#3465a4"><title>Catalunya Escocia</title></circle></a><a href="/setts/s10/ly22k11ly10k2g2k2ly10k11ly7r2~x2/"><circle cx="129.1" cy="143.4" r="4" fill="#3465a4"><title>Project, Faith Inc (Corporate)</title></circle></a><a href="/setts/s9/r5db1r5g13db8t5r5w1db3~x2/"><circle cx="120.0" cy="162.7" r="4" fill="#3465a4"><title>Unidentified #27</title></circle></a><a href="/setts/s13/w18r3w3r10w26r3k26g28r10g3r3g8lo6/"><circle cx="87.8" cy="137.9" r="4" fill="#3465a4"><title>Carnegie Dress #2 (Fashion)</title></circle></a><a href="/setts/s12/w6dg2w27k10n4k4n4k4n15r2n2r4~x2/"><circle cx="154.2" cy="113.0" r="4" fill="#3465a4"><title>Sutherland Dress, Old (Dance)</title></circle></a><circle cx="112.2" cy="127.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r16k6r14g22k16db16w10r6w45k4r4/"><circle cx="93.1" cy="136.0" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/setts/s11/r16k6r14dg22k16db16w10r6w45k4r4/"><circle cx="99.3" cy="135.6" r="4" fill="#3465a4"><title>MacDuff Dress #4</title></circle></a><a href="/setts/s8/dg2do8dg8r3do1w12dg2y1~x2/"><circle cx="123.0" cy="151.9" r="4" fill="#3465a4"><title>National Trust Corporate Tartan Tartan Number: 2117. Earliest known date: pre 1991 Sent in by Tweedmill for information. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r4k1r4g8k6lb3db2lb11db1r2~x4/"><circle cx="103.8" cy="157.1" r="4" fill="#3465a4"><title>MacDuff Dress #2</title></circle></a><a href="/setts/s10/lo12k3g24r12g24k32w44g4w8g4/"><circle cx="107.2" cy="134.7" r="4" fill="#3465a4"><title>Gillies Dress Green</title></circle></a><a href="/setts/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/"><circle cx="135.7" cy="116.2" r="4" fill="#3465a4"><title>Catalunya Escocia</title></circle></a><a href="/setts/s10/ly22k11ly10k2g2k2ly10k11ly7r2~x2/"><circle cx="128.9" cy="143.4" r="4" fill="#3465a4"><title>Project, Faith Inc (Corporate)</title></circle></a><a href="/setts/s9/r5db1r5g13db8t5r5w1db3~x2/"><circle cx="119.9" cy="162.7" r="4" fill="#3465a4"><title>Unidentified #27</title></circle></a><a href="/setts/s13/w18r3w3r10w26r3k26g28r10g3r3g8lo6/"><circle cx="87.6" cy="137.9" r="4" fill="#3465a4"><title>Carnegie Dress #2 (Fashion)</title></circle></a><a href="/setts/s12/w6dg2w27k10n4k4n4k4n15r2n2r4~x2/"><circle cx="153.9" cy="113.0" r="4" fill="#3465a4"><title>Sutherland Dress, Old (Dance)</title></circle></a><circle cx="112.0" cy="127.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r5k1r5g9k7w3db3w15db1r2~x2/

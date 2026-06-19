@@ -2,12 +2,18 @@
 title: "Lochaber Cameron"
 date: 2023-03-18
 ---
-**Bands:** [BBBRKBRGRKR](/stripes/bbbrkbrgrkr/) · **Stripes:** [DB T DB R K T R G R K R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB T DB R K T R G R K R</span></span>
+**Bands:** [RKRGRBKRBBB](/stripes/rkrgrbkrbbb/) · **Stripes:** [R K R G R T K R DB T DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">R K R G R T K R DB T DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2165
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Lochaber, Cameron
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,7 +921,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Baron of Greencastle Htg (Personal)](/setts/s13/db4ly2g24ly2k12db3k2db2k2db14r1db1r3~x2/) — ΔT 0.71
 1. [MacDonell of Glengarry #3](/setts/s11/db16r5db30r2k33g30r5g2r2g7w4/) — ΔT 0.81
-1. [MacDonald of Clanranald #2](/setts/s13/db16r2db2r7db31r2k32w3dg31r7dg2r2dg16~x2/) — ΔT 0.82
+1. [MacDonald of Clanranald #2](/setts/s13/dg16r2dg2r7dg31w3k32r2db31r7db2r2db16~x2/) — ΔT 0.82
 1. [Glynn of Glynnstewart (Personal)](/setts/s14/db20k2g3k2db20r3k20r2k20r3g30ly3g1ly2~x2/) — ΔT 0.88
 1. [MacDonald of Clanranald #5](/setts/s14/db20r2db2r5db30r2k32w2dg30r5dg4r2dg4w2/) — ΔT 0.88
 1. [Jardine Dress (Clan)](/setts/s12/r26k2r6k2r6k20lr2db44lr2k6dg64k3/) — ΔT 0.94
@@ -923,8 +932,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db4ly2g24ly2k12db3k2db2k2db14r1db1r3~x2/"><circle cx="207.0" cy="116.6" r="4" fill="#3465a4"><title>Baron of Greencastle Htg (Personal)</title></circle></a><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w4/"><circle cx="182.0" cy="150.0" r="4" fill="#3465a4"><title>MacDonell of Glengarry #3</title></circle></a><a href="/setts/s13/db16r2db2r7db31r2k32w3dg31r7dg2r2dg16~x2/"><circle cx="182.0" cy="145.2" r="4" fill="#3465a4"><title>MacDonald of Clanranald #2</title></circle></a><a href="/setts/s14/db20k2g3k2db20r3k20r2k20r3g30ly3g1ly2~x2/"><circle cx="206.7" cy="115.5" r="4" fill="#3465a4"><title>Glynn of Glynnstewart (Personal)</title></circle></a><a href="/setts/s14/db20r2db2r5db30r2k32w2dg30r5dg4r2dg4w2/"><circle cx="203.5" cy="131.3" r="4" fill="#3465a4"><title>MacDonald of Clanranald #5</title></circle></a><a href="/setts/s12/r26k2r6k2r6k20lr2db44lr2k6dg64k3/"><circle cx="235.4" cy="105.6" r="4" fill="#3465a4"><title>Jardine Dress (Clan)</title></circle></a><a href="/setts/s10/dg40k8r4k4r8k4r4k8db40ly3~x2/"><circle cx="194.0" cy="153.9" r="4" fill="#3465a4"><title>Griffiths of Llangynin (Personal)</title></circle></a><a href="/setts/s13/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/"><circle cx="183.6" cy="150.8" r="4" fill="#3465a4"><title>MacNeil of Colonsay (Highland Society of London)</title></circle></a><a href="/setts/s11/db2w2y24k24ly1r2y2r2ly1db24y2~x2/"><circle cx="207.6" cy="108.5" r="4" fill="#3465a4"><title>Smithsonian (Corporate)</title></circle></a><a href="/setts/s9/dy3k3dy3k18n28lb1dg22k2dy2~x2/"><circle cx="222.2" cy="140.1" r="4" fill="#3465a4"><title>Black Gold (Corporate)</title></circle></a><circle cx="201.8" cy="131.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db4ly2g24ly2k12db3k2db2k2db14r1db1r3~x2/"><circle cx="207.0" cy="116.7" r="4" fill="#3465a4"><title>Baron of Greencastle Htg (Personal)</title></circle></a><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w4/"><circle cx="182.0" cy="150.1" r="4" fill="#3465a4"><title>MacDonell of Glengarry #3</title></circle></a><a href="/setts/s13/dg16r2dg2r7dg31w3k32r2db31r7db2r2db16~x2/"><circle cx="182.1" cy="145.3" r="4" fill="#3465a4"><title>MacDonald of Clanranald #2</title></circle></a><a href="/setts/s14/db20k2g3k2db20r3k20r2k20r3g30ly3g1ly2~x2/"><circle cx="206.7" cy="115.6" r="4" fill="#3465a4"><title>Glynn of Glynnstewart (Personal)</title></circle></a><a href="/setts/s14/db20r2db2r5db30r2k32w2dg30r5dg4r2dg4w2/"><circle cx="203.5" cy="131.4" r="4" fill="#3465a4"><title>MacDonald of Clanranald #5</title></circle></a><a href="/setts/s12/r26k2r6k2r6k20lr2db44lr2k6dg64k3/"><circle cx="235.3" cy="105.8" r="4" fill="#3465a4"><title>Jardine Dress (Clan)</title></circle></a><a href="/setts/s10/dg40k8r4k4r8k4r4k8db40ly3~x2/"><circle cx="194.0" cy="154.0" r="4" fill="#3465a4"><title>Griffiths of Llangynin (Personal)</title></circle></a><a href="/setts/s13/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/"><circle cx="183.7" cy="151.0" r="4" fill="#3465a4"><title>MacNeil of Colonsay (Highland Society of London)</title></circle></a><a href="/setts/s11/db2w2y24k24ly1r2y2r2ly1db24y2~x2/"><circle cx="207.6" cy="108.7" r="4" fill="#3465a4"><title>Smithsonian (Corporate)</title></circle></a><a href="/setts/s9/dy3k3dy3k18n28lb1dg22k2dy2~x2/"><circle cx="222.3" cy="140.2" r="4" fill="#3465a4"><title>Black Gold (Corporate)</title></circle></a><circle cx="201.9" cy="131.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db8t3db40r3k44t3r3g40r2k4r7~x2/

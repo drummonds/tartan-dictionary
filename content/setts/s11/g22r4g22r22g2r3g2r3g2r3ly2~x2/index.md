@@ -2,12 +2,18 @@
 title: "MacRea ? MacRae"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRGRGRY](/stripes/grgrgrgrgry/) · **Stripes:** [G R G R G R G R G R LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G R G R G R G R G R LY</span></span>
+**Bands:** [YRGRGRGRGRG](/stripes/yrgrgrgrgrg/) · **Stripes:** [LY R G R G R G R G R G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY R G R G R G R G R G</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacRea / MacRae
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -907,15 +916,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Livingstone](/setts/s10/g14r4g2r2g2r4g19r30g2r9~x2/) — ΔT 1.44
 1. [Livingston](/setts/s9/g20k2r3k2r6g20r29g3r10~x2/) — ΔT 1.44
 1. [Donachie](/setts/s10/r24g2r2g40r25g2r2g2r2g20~x2/) — ΔT 1.46
-1. [Skene #2](/setts/s12/db6r3g1r3g12r3g1r3g12r3g1r3~x4/) — ΔT 1.47
+1. [Skene #2](/setts/s12/db6r3g1r3g12r3g1~x4/) — ΔT 1.47
 1. [Princess Marina](/setts/s12/r3dg18dg4r3dg4r5dg4r5dg4r5dg2w2~x2/) — ΔT 1.48
 1. [Invertere (Daks #2)](/setts/s14/g14dy4db4dy27g3dy4ly5dy4g3dy27db4dy4g14ly5~x2/) — ΔT 1.52
 1. [Fraser of Castle Leathers, Major James](/setts/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/) — ΔT 1.54
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r3g18g4r3g4r5g4r5g4r5g2w2~x2/"><circle cx="359.5" cy="207.2" r="4" fill="#3465a4"><title>Princess Marina</title></circle></a><a href="/setts/s11/dg22r4dg22r22dg2r3dg2r3dg2r3ly2~x2/"><circle cx="375.4" cy="179.3" r="4" fill="#3465a4"><title>MacRea / MacRae</title></circle></a><a href="/setts/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/"><circle cx="347.3" cy="159.2" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/setts/s10/g14r4g2r2g2r4g19r30g2r9~x2/"><circle cx="415.5" cy="194.9" r="4" fill="#3465a4"><title>Livingstone</title></circle></a><a href="/setts/s9/g20k2r3k2r6g20r29g3r10~x2/"><circle cx="336.1" cy="186.3" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/setts/s10/r24g2r2g40r25g2r2g2r2g20~x2/"><circle cx="424.9" cy="183.8" r="4" fill="#3465a4"><title>Donachie</title></circle></a><a href="/setts/s12/db6r3g1r3g12r3g1r3g12r3g1r3~x4/"><circle cx="325.3" cy="195.1" r="4" fill="#3465a4"><title>Skene #2</title></circle></a><a href="/setts/s12/r3dg18dg4r3dg4r5dg4r5dg4r5dg2w2~x2/"><circle cx="354.7" cy="202.1" r="4" fill="#3465a4"><title>Princess Marina</title></circle></a><a href="/setts/s14/g14dy4db4dy27g3dy4ly5dy4g3dy27db4dy4g14ly5~x2/"><circle cx="310.2" cy="180.8" r="4" fill="#3465a4"><title>Invertere (Daks #2)</title></circle></a><a href="/setts/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/"><circle cx="289.6" cy="181.6" r="4" fill="#3465a4"><title>Fraser of Castle Leathers, Major James</title></circle></a><circle cx="380.7" cy="185.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r3g18g4r3g4r5g4r5g4r5g2w2~x2/"><circle cx="359.1" cy="207.0" r="4" fill="#3465a4"><title>Princess Marina</title></circle></a><a href="/setts/s11/dg22r4dg22r22dg2r3dg2r3dg2r3ly2~x2/"><circle cx="375.0" cy="179.1" r="4" fill="#3465a4"><title>MacRea / MacRae</title></circle></a><a href="/setts/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/"><circle cx="346.8" cy="158.9" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/setts/s10/g14r4g2r2g2r4g19r30g2r9~x2/"><circle cx="415.0" cy="194.7" r="4" fill="#3465a4"><title>Livingstone</title></circle></a><a href="/setts/s9/g20k2r3k2r6g20r29g3r10~x2/"><circle cx="335.7" cy="186.2" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/setts/s10/r24g2r2g40r25g2r2g2r2g20~x2/"><circle cx="424.4" cy="183.6" r="4" fill="#3465a4"><title>Donachie</title></circle></a><a href="/setts/s12/db6r3g1r3g12r3g1~x4/"><circle cx="325.1" cy="195.0" r="4" fill="#3465a4"><title>Skene #2</title></circle></a><a href="/setts/s12/r3dg18dg4r3dg4r5dg4r5dg4r5dg2w2~x2/"><circle cx="354.4" cy="201.8" r="4" fill="#3465a4"><title>Princess Marina</title></circle></a><a href="/setts/s14/g14dy4db4dy27g3dy4ly5dy4g3dy27db4dy4g14ly5~x2/"><circle cx="310.0" cy="180.7" r="4" fill="#3465a4"><title>Invertere (Daks #2)</title></circle></a><a href="/setts/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/"><circle cx="289.3" cy="181.5" r="4" fill="#3465a4"><title>Fraser of Castle Leathers, Major James</title></circle></a><circle cx="380.3" cy="184.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/g22r4g22r22g2r3g2r3g2r3ly2~x2/

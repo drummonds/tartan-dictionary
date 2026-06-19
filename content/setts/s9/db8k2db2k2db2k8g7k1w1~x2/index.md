@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Forbes #3
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -909,14 +918,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Wilson's, No 157](/setts/s11/k16db2t2db4g16t2k15db6t2k3t4~x2/) — ΔT 0.86
 1. [Argyll, Campbell](/setts/s10/k3db17k20g18w4g18k20db18k2db2~x2/) — ΔT 0.86
 1. [Mowat](/setts/s7/db48k6db10k46ly4k22g43/) — ΔT 0.89
-1. [Unnamed, No 115](/setts/s8/db10k6t1g6k1g6t1k6~x2/) — ΔT 0.94
+1. [Unnamed, No 115](/setts/s8/db10k6t1g6k1~x2/) — ΔT 0.94
 1. [Louisiana](/setts/s8/k3g3lb2g11k12db18k2lb3~x2/) — ΔT 0.95
 1. [Gordon 5](/setts/s12/db5k1db1k1db1k4g5ly1g5k4db6k1~x4/) — ΔT 0.98
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db9k9db9r2k18g12r2g4r2g4~x2/"><circle cx="149.7" cy="201.9" r="4" fill="#3465a4"><title>Newlands</title></circle></a><a href="/setts/s7/db6k1db6k8r1g8k2~x2/"><circle cx="158.0" cy="232.2" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/setts/s7/db1k1db6k6g6k1w1~x2/"><circle cx="142.6" cy="223.1" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s8/db10k1db1k1db2k8g10w1~x2/"><circle cx="184.5" cy="189.6" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s11/k16db2t2db4g16t2k15db6t2k3t4~x2/"><circle cx="192.4" cy="190.4" r="4" fill="#3465a4"><title>Wilson's, No 157</title></circle></a><a href="/setts/s10/k3db17k20g18w4g18k20db18k2db2~x2/"><circle cx="145.3" cy="206.4" r="4" fill="#3465a4"><title>Argyll, Campbell</title></circle></a><a href="/setts/s7/db48k6db10k46ly4k22g43/"><circle cx="192.5" cy="210.4" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/setts/s8/db10k6t1g6k1g6t1k6~x2/"><circle cx="146.2" cy="214.8" r="4" fill="#3465a4"><title>Unnamed, No 115</title></circle></a><a href="/setts/s8/k3g3lb2g11k12db18k2lb3~x2/"><circle cx="137.2" cy="198.6" r="4" fill="#3465a4"><title>Louisiana</title></circle></a><a href="/setts/s12/db5k1db1k1db1k4g5ly1g5k4db6k1~x4/"><circle cx="132.5" cy="213.6" r="4" fill="#3465a4"><title>Gordon 5</title></circle></a><circle cx="171.3" cy="206.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db9k9db9r2k18g12r2g4r2g4~x2/"><circle cx="149.9" cy="201.9" r="4" fill="#3465a4"><title>Newlands</title></circle></a><a href="/setts/s7/db6k1db6k8r1g8k2~x2/"><circle cx="158.3" cy="232.2" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/setts/s7/db1k1db6k6g6k1w1~x2/"><circle cx="142.8" cy="223.0" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s8/db10k1db1k1db2k8g10w1~x2/"><circle cx="184.7" cy="189.5" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s11/k16db2t2db4g16t2k15db6t2k3t4~x2/"><circle cx="192.6" cy="190.4" r="4" fill="#3465a4"><title>Wilson's, No 157</title></circle></a><a href="/setts/s10/k3db17k20g18w4g18k20db18k2db2~x2/"><circle cx="145.6" cy="206.3" r="4" fill="#3465a4"><title>Argyll, Campbell</title></circle></a><a href="/setts/s7/db48k6db10k46ly4k22g43/"><circle cx="192.7" cy="210.3" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/setts/s8/db10k6t1g6k1~x2/"><circle cx="146.4" cy="214.8" r="4" fill="#3465a4"><title>Unnamed, No 115</title></circle></a><a href="/setts/s8/k3g3lb2g11k12db18k2lb3~x2/"><circle cx="137.5" cy="198.6" r="4" fill="#3465a4"><title>Louisiana</title></circle></a><a href="/setts/s12/db5k1db1k1db1k4g5ly1g5k4db6k1~x4/"><circle cx="132.7" cy="213.6" r="4" fill="#3465a4"><title>Gordon 5</title></circle></a><circle cx="171.5" cy="206.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/db8k2db2k2db2k8g7k1w1~x2/

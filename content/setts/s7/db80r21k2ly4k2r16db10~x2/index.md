@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Salvation Army, dress
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/20 R32 K4 Y8 K4 R42 B/160
+B/160 R42 K4 Y8 K4 R32 B/20
 ![Sett](sett.png)
 
 ## Palette
@@ -907,7 +916,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/20 R32 K4 Y8 K4 R42 B/160 tartan")
+![Tartan detail](tartan.png "B/160 R42 K4 Y8 K4 R32 B/20 tartan")
 
 ## Nearest tartans
 
@@ -917,7 +926,7 @@ The nearest existing variants by ΔTartan distance.
 1. [McBrayer Blue (Personal)](/setts/s8/db57k1r12db1g12r14db1r2~x2/) — ΔT 1.09
 1. [Clan Gregor Tartan Tartan Number: 3089. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/db25r8db3r4k1w3~x2/) — ΔT 1.16
 1. [Falkirk Football Club (Corporate)](/setts/s9/db5r16db4k3db4k3db43r15w1~x2/) — ΔT 1.22
-1. [Ahmlaigh (Corporate)](/setts/s7/dp50k8g4k1g4k1g14~x2/) — ΔT 1.28
+1. [Ahmlaigh (Corporate)](/setts/s7/dp50k8g4k1g4k1g14/) — ΔT 1.28
 1. [Michie, Andrew (Personal)](/setts/s5/dp62g5g20lb5k1~x2/) — ΔT 1.30
 1. [Auchtermuchty Tartan Army](/setts/s6/db80r8w1r8ly20db15~x2/) — ΔT 1.41
 1. [Baker](/setts/s8/db28o3w1o3db4w2p1w5~x4/) — ΔT 1.46
@@ -926,8 +935,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db74k2r15k2ly4k2r16db10~x2/"><circle cx="472.6" cy="122.5" r="4" fill="#3465a4"><title>Salvation Army Dress (Corporate)</title></circle></a><a href="/setts/s8/db57k1r12db1g12r14db1r2~x2/"><circle cx="433.5" cy="115.3" r="4" fill="#3465a4"><title>McBrayer Blue (Personal)</title></circle></a><a href="/setts/s6/db25r8db3r4k1w3~x2/"><circle cx="416.8" cy="158.0" r="4" fill="#3465a4"><title>Clan Gregor Tartan Tartan Number: 3089. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db5r16db4k3db4k3db43r15w1~x2/"><circle cx="420.0" cy="121.3" r="4" fill="#3465a4"><title>Falkirk Football Club (Corporate)</title></circle></a><a href="/setts/s7/dp50k8g4k1g4k1g14~x2/"><circle cx="471.1" cy="138.8" r="4" fill="#3465a4"><title>Ahmlaigh (Corporate)</title></circle></a><a href="/setts/s5/dp62g5g20lb5k1~x2/"><circle cx="453.1" cy="121.7" r="4" fill="#3465a4"><title>Michie, Andrew (Personal)</title></circle></a><a href="/setts/s6/db80r8w1r8ly20db15~x2/"><circle cx="476.8" cy="125.7" r="4" fill="#3465a4"><title>Auchtermuchty Tartan Army</title></circle></a><a href="/setts/s8/db28o3w1o3db4w2p1w5~x4/"><circle cx="436.0" cy="125.3" r="4" fill="#3465a4"><title>Baker</title></circle></a><a href="/setts/s6/db80r7w1r7ly20db15~x2/"><circle cx="487.3" cy="125.4" r="4" fill="#3465a4"><title>Auchtermuchty Tartan Army (Corp)</title></circle></a><a href="/setts/s10/y5k1y33dp1y9k9dp5k1r2k4~x2/"><circle cx="468.5" cy="137.4" r="4" fill="#3465a4"><title>Lochnagar Dress (Fashion)</title></circle></a><circle cx="476.1" cy="132.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db74k2r15k2ly4k2r16db10~x2/"><circle cx="472.3" cy="122.3" r="4" fill="#3465a4"><title>Salvation Army Dress (Corporate)</title></circle></a><a href="/setts/s8/db57k1r12db1g12r14db1r2~x2/"><circle cx="433.3" cy="115.1" r="4" fill="#3465a4"><title>McBrayer Blue (Personal)</title></circle></a><a href="/setts/s6/db25r8db3r4k1w3~x2/"><circle cx="416.5" cy="157.8" r="4" fill="#3465a4"><title>Clan Gregor Tartan Tartan Number: 3089. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db5r16db4k3db4k3db43r15w1~x2/"><circle cx="419.8" cy="121.1" r="4" fill="#3465a4"><title>Falkirk Football Club (Corporate)</title></circle></a><a href="/setts/s7/dp50k8g4k1g4k1g14/"><circle cx="470.8" cy="138.6" r="4" fill="#3465a4"><title>Ahmlaigh (Corporate)</title></circle></a><a href="/setts/s5/dp62g5g20lb5k1~x2/"><circle cx="452.8" cy="121.5" r="4" fill="#3465a4"><title>Michie, Andrew (Personal)</title></circle></a><a href="/setts/s6/db80r8w1r8ly20db15~x2/"><circle cx="476.5" cy="125.3" r="4" fill="#3465a4"><title>Auchtermuchty Tartan Army</title></circle></a><a href="/setts/s8/db28o3w1o3db4w2p1w5~x4/"><circle cx="435.7" cy="125.1" r="4" fill="#3465a4"><title>Baker</title></circle></a><a href="/setts/s6/db80r7w1r7ly20db15~x2/"><circle cx="487.0" cy="125.0" r="4" fill="#3465a4"><title>Auchtermuchty Tartan Army (Corp)</title></circle></a><a href="/setts/s10/y5k1y33dp1y9k9dp5k1r2k4~x2/"><circle cx="468.2" cy="137.2" r="4" fill="#3465a4"><title>Lochnagar Dress (Fashion)</title></circle></a><circle cx="475.8" cy="132.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/db80r21k2ly4k2r16db10~x2/

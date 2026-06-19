@@ -8,7 +8,7 @@ BYGBWW
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/lb5w1t3g4lr2t5~x8/tartan.png)
+![Woven sample](/setts/s6/t5lr2g4t3w1lb5~x8/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ BYGBWW
 
 | Tartans |
 |---------------|
-| [Heriot Bay Local (Quadra Island, British Columbia)](/setts/s6/lb5w1t3g4lr2t5~x8/)|
-|![Heriot Bay Local (Quadra Island, British Columbia) example sett](/setts/s6/lb5w1t3g4lr2t5~x8/sett.png)|
+| [Heriot Bay Local (Quadra Island, British Columbia)](/setts/s6/t5lr2g4t3w1lb5~x8/)|
+|![Heriot Bay Local (Quadra Island, British Columbia) example sett](/setts/s6/t5lr2g4t3w1lb5~x8/sett.png)|
 

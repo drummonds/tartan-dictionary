@@ -30,6 +30,6 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Hayes (Fashion)](/setts/s14/lr2r2dg1r2dg3r17dg4r1dg1r1dg12ly1dg1r2~x4/)|
-|![Hayes (Fashion) example sett](/setts/s14/lr2r2dg1r2dg3r17dg4r1dg1r1dg12ly1dg1r2~x4/sett.png)|
+| [Hayes (Fashion)](/setts/s14/r2dg1ly1dg12r1dg1r1dg4r17dg3r2dg1r2lr2~x4/)|
+|![Hayes (Fashion) example sett](/setts/s14/r2dg1ly1dg12r1dg1r1dg4r17dg3r2dg1r2lr2~x4/sett.png)|
 

@@ -2,7 +2,7 @@
 title: "Bean Hunting"
 date: 2023-03-18
 ---
-**Bands:** [BGBRGRB](/stripes/bgbrgrb/) · **Stripes:** [T G DB R G R DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">T G DB R G R DB</span></span>
+**Bands:** [BRGRBGB](/stripes/brgrbgb/) · **Stripes:** [DB R G R DB G T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">DB R G R DB G T</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,8 +913,8 @@ The nearest existing variants by ΔTartan distance.
 1. [MacKintosh Hunting](/setts/s7/ly2g12db6r3g12r4db1~x2/) — ΔT 1.08
 1. [Cub Scouts of America](/setts/s5/g10db2r8lo2g5~x4/) — ΔT 1.20
 1. [Hall](/setts/s11/g4r2db4r2g8r2db4r2g8r2ly1~x3/) — ΔT 1.20
-1. [Bean of Freeport Htg (Corporate)](/setts/s7/db6g41dt20r15g41r15dt6/) — ΔT 1.23
-1. [Salvation Army Htg (Corporate)](/setts/s7/db5dg8k1ly2k1dg8db4~x4/) — ΔT 1.28
+1. [Bean of Freeport Htg (Corporate)](/setts/s7/dt6r15g41r15dt20g41db6/) — ΔT 1.23
+1. [Salvation Army Htg (Corporate)](/setts/s7/db5dg8k1ly2k1dg8db4~x4/) — ΔT 1.29
 1. [Confederate Cavalry (Military)](/setts/s6/dg2y14dg8y3dg12lo2~x2/) — ΔT 1.33
 1. [Wilson's, No 179](/setts/s5/g6ly1r1t2r2~x4/) — ΔT 1.34
 1. [Lauder (Family)](/setts/s6/g3db8g3k4g15r2~x2/) — ΔT 1.34
@@ -919,8 +922,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r5g20r5g20db24g6ly4/"><circle cx="264.2" cy="247.9" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting) Clan/Family Tartan Tartan Number: 5351. Earliest known date: 01/01/1940 Design close to Cameron Hunting which has two red lines shown in Vestiarium Scoticum. This design evolved in the 1940s by J G MacKay of Portree and was first put on show at the Cameron Gathering at Achnacarry in 1956. (original STA ref: 1535) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/ly2g12db6r3g12r4db1~x2/"><circle cx="322.9" cy="217.1" r="4" fill="#3465a4"><title>MacKintosh Hunting</title></circle></a><a href="/setts/s5/g10db2r8lo2g5~x4/"><circle cx="279.7" cy="282.5" r="4" fill="#3465a4"><title>Cub Scouts of America</title></circle></a><a href="/setts/s11/g4r2db4r2g8r2db4r2g8r2ly1~x3/"><circle cx="242.4" cy="215.4" r="4" fill="#3465a4"><title>Hall</title></circle></a><a href="/setts/s7/db6g41dt20r15g41r15dt6/"><circle cx="305.0" cy="258.3" r="4" fill="#3465a4"><title>Bean of Freeport Htg (Corporate)</title></circle></a><a href="/setts/s7/db5dg8k1ly2k1dg8db4~x4/"><circle cx="295.5" cy="252.1" r="4" fill="#3465a4"><title>Salvation Army Htg (Corporate)</title></circle></a><a href="/setts/s6/dg2y14dg8y3dg12lo2~x2/"><circle cx="337.1" cy="274.0" r="4" fill="#3465a4"><title>Confederate Cavalry (Military)</title></circle></a><a href="/setts/s5/g6ly1r1t2r2~x4/"><circle cx="245.4" cy="243.2" r="4" fill="#3465a4"><title>Wilson's, No 179</title></circle></a><a href="/setts/s6/g3db8g3k4g15r2~x2/"><circle cx="329.1" cy="253.5" r="4" fill="#3465a4"><title>Lauder (Family)</title></circle></a><a href="/setts/s7/g25r4db24r21g25r3db4~x2/"><circle cx="257.1" cy="248.0" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><circle cx="284.4" cy="246.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r5g20r5g20db24g6ly4/"><circle cx="264.1" cy="247.8" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting) Clan/Family Tartan Tartan Number: 5351. Earliest known date: 01/01/1940 Design close to Cameron Hunting which has two red lines shown in Vestiarium Scoticum. This design evolved in the 1940s by J G MacKay of Portree and was first put on show at the Cameron Gathering at Achnacarry in 1956. (original STA ref: 1535) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/ly2g12db6r3g12r4db1~x2/"><circle cx="322.7" cy="216.9" r="4" fill="#3465a4"><title>MacKintosh Hunting</title></circle></a><a href="/setts/s5/g10db2r8lo2g5~x4/"><circle cx="279.6" cy="282.4" r="4" fill="#3465a4"><title>Cub Scouts of America</title></circle></a><a href="/setts/s11/g4r2db4r2g8r2db4r2g8r2ly1~x3/"><circle cx="242.2" cy="215.3" r="4" fill="#3465a4"><title>Hall</title></circle></a><a href="/setts/s7/dt6r15g41r15dt20g41db6/"><circle cx="305.0" cy="258.2" r="4" fill="#3465a4"><title>Bean of Freeport Htg (Corporate)</title></circle></a><a href="/setts/s7/db5dg8k1ly2k1dg8db4~x4/"><circle cx="295.5" cy="252.0" r="4" fill="#3465a4"><title>Salvation Army Htg (Corporate)</title></circle></a><a href="/setts/s6/dg2y14dg8y3dg12lo2~x2/"><circle cx="337.0" cy="273.8" r="4" fill="#3465a4"><title>Confederate Cavalry (Military)</title></circle></a><a href="/setts/s5/g6ly1r1t2r2~x4/"><circle cx="245.2" cy="243.1" r="4" fill="#3465a4"><title>Wilson's, No 179</title></circle></a><a href="/setts/s6/g3db8g3k4g15r2~x2/"><circle cx="329.0" cy="253.4" r="4" fill="#3465a4"><title>Lauder (Family)</title></circle></a><a href="/setts/s7/g25r4db24r21g25r3db4~x2/"><circle cx="257.0" cy="247.8" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><circle cx="284.3" cy="246.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/db6r15g41r15db20g41t6/

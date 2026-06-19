@@ -18,10 +18,10 @@ BRBKGWGWGKBR
 
 
 
-### DB R DB K G W G W G K DB R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R DB K G W G W G K DB R</span></span>
+### R DB K G W G W G K DB R DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB K G W G W G K DB R DB</span></span>
 
 | Tartans |
 |---------------|
-| [Sinclair Dress (Dance)](/setts/s12/db4r2db31k10g4w21g2w21g4k10db31r2~x2/)|
-|![Sinclair Dress (Dance) example sett](/setts/s12/db4r2db31k10g4w21g2w21g4k10db31r2~x2/sett.png)|
+| [Sinclair Dress (Dance)](/setts/s12/db4r2db31k10g4w21g2~x2/)|
+|![Sinclair Dress (Dance) example sett](/setts/s12/db4r2db31k10g4w21g2~x2/sett.png)|
 

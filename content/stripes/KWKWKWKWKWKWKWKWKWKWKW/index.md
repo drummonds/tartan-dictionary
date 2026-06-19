@@ -22,6 +22,6 @@ KWKWKWKWKWKWKWKWKWKWKW
 
 | Tartans |
 |---------------|
-| [Scott (Black and White)](/setts/s22/k31w2k4w1k1w1k1w1k1w1k3w3k3w1k1w1k1w1k1w1k4w2~x4/)|
-|![Scott (Black and White) example sett](/setts/s22/k31w2k4w1k1w1k1w1k1w1k3w3k3w1k1w1k1w1k1w1k4w2~x4/sett.png)|
+| [Scott (Black and White)](/setts/s22/k31w2k4w1k1w1k1w1k1w1k3w3~x4/)|
+|![Scott (Black and White) example sett](/setts/s22/k31w2k4w1k1w1k1w1k1w1k3w3~x4/sett.png)|
 

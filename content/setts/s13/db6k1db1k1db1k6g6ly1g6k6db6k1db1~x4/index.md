@@ -2,12 +2,18 @@
 title: "Gordon 4"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKGYGKBKB](/stripes/bkbkbkgygkbkb/) · **Stripes:** [DB K DB K DB K G LY G K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DB K G LY G K DB K DB</span></span>
+**Bands:** [BKBKGYGKBKBKB](/stripes/bkbkgygkbkbkb/) · **Stripes:** [DB K DB K G LY G K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K G LY G K DB K DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Gordon Regimental
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -930,8 +939,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db6k1db1k1db1k6g6t2g6k6db6k1db2~x2/"><circle cx="127.1" cy="211.8" r="4" fill="#3465a4"><title>Cheape</title></circle></a><a href="/setts/s12/db5k1db1k1db1k4g5ly1g5k4db6k1~x4/"><circle cx="132.5" cy="213.6" r="4" fill="#3465a4"><title>Gordon 5</title></circle></a><a href="/setts/s13/r3b10k10g10r3g10k10b2k2b2k2b5k2~x2/"><circle cx="108.5" cy="212.9" r="4" fill="#3465a4"><title>Blairgowrie High School S.A. (Corp)</title></circle></a><a href="/setts/s13/r3b10k10dg10r3dg10k10b2k2b2k2b5k2~x4/"><circle cx="115.1" cy="216.3" r="4" fill="#3465a4"><title>Blairgowrie High School (SA)</title></circle></a><a href="/setts/s15/db6k2db2k2db2k6g8k1r2k1g8k6db8k2db2~x2/"><circle cx="133.6" cy="194.8" r="4" fill="#3465a4"><title>MacKinlay</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x2/"><circle cx="150.6" cy="183.4" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="149.4" cy="183.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/"><circle cx="155.8" cy="181.3" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s15/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3~x2/"><circle cx="104.7" cy="216.4" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/setts/s13/db3k1db1k1db1k4g4w1g4k4db4k1db1~x2/"><circle cx="105.7" cy="229.4" r="4" fill="#3465a4"><title>Lamont</title></circle></a><circle cx="132.1" cy="203.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db6k1db1k1db1k6g6t2g6k6db6k1db2~x2/"><circle cx="127.3" cy="211.8" r="4" fill="#3465a4"><title>Cheape</title></circle></a><a href="/setts/s12/db5k1db1k1db1k4g5ly1g5k4db6k1~x4/"><circle cx="132.7" cy="213.6" r="4" fill="#3465a4"><title>Gordon 5</title></circle></a><a href="/setts/s13/r3b10k10g10r3g10k10b2k2b2k2b5k2~x2/"><circle cx="108.7" cy="212.9" r="4" fill="#3465a4"><title>Blairgowrie High School S.A. (Corp)</title></circle></a><a href="/setts/s13/r3b10k10dg10r3dg10k10b2k2b2k2b5k2~x4/"><circle cx="115.3" cy="216.3" r="4" fill="#3465a4"><title>Blairgowrie High School (SA)</title></circle></a><a href="/setts/s15/db6k2db2k2db2k6g8k1r2k1g8k6db8k2db2~x2/"><circle cx="133.8" cy="194.8" r="4" fill="#3465a4"><title>MacKinlay</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x2/"><circle cx="150.8" cy="183.3" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="149.6" cy="183.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/"><circle cx="156.0" cy="181.3" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s15/db11k3db3k3db3k11r3g13k3g13r3k11db11k3db3~x2/"><circle cx="104.9" cy="216.4" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/setts/s13/db3k1db1k1db1k4g4w1g4k4db4k1db1~x2/"><circle cx="105.9" cy="229.3" r="4" fill="#3465a4"><title>Lamont</title></circle></a><circle cx="132.3" cy="203.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db6k1db1k1db1k6g6ly1g6k6db6k1db1~x4/

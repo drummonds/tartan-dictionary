@@ -22,6 +22,6 @@ RBKBKBKBY
 
 | Tartans |
 |---------------|
-| [Modowny](/setts/s9/ly1n6k1n1k2n1k1n6r1~x8/)|
-|![Modowny example sett](/setts/s9/ly1n6k1n1k2n1k1n6r1~x8/sett.png)|
+| [Modowny](/setts/s9/r1n6k1n1k2n1k1n6ly1~x8/)|
+|![Modowny example sett](/setts/s9/r1n6k1n1k2n1k1n6ly1~x8/sett.png)|
 

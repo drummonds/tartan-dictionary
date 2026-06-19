@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -915,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k3r1k3w5k5w3k5dy23r3~x2/"><circle cx="253.7" cy="127.3" r="4" fill="#3465a4"><title>Southdown (Fashion)</title></circle></a><a href="/setts/s10/w6k1g29k23p27g3p3g3p3g4~x2/"><circle cx="218.4" cy="121.4" r="4" fill="#3465a4"><title>Rennie</title></circle></a><a href="/setts/s9/k8r1k3w5k5w3k5dr23r3~x2/"><circle cx="248.0" cy="141.8" r="4" fill="#3465a4"><title>Southdown Tartan Tartan Number: 1194. Earliest known date: pre 2003 Designed for the Glasgow conference in 2002 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r12k2w8k4n16r2k31n2/"><circle cx="237.9" cy="150.2" r="4" fill="#3465a4"><title>Distripress Annual Congress 2012</title></circle></a><a href="/setts/s9/k10w10k10o32k2w2k2w2r5~x2/"><circle cx="213.4" cy="130.7" r="4" fill="#3465a4"><title>Burberry (Counterfeit #4)</title></circle></a><a href="/setts/s10/lb16k4o1k2lb1k6dg6k1dg6lb1~x4/"><circle cx="194.8" cy="140.0" r="4" fill="#3465a4"><title>Unidentified #49</title></circle></a><a href="/setts/s9/n3r3k38n25ly3n6r7n3ly2~x2/"><circle cx="271.1" cy="144.7" r="4" fill="#3465a4"><title>Greater St Louis Area Firefighters Highland Guard</title></circle></a><a href="/setts/s7/r2w8k14o25w2k2w2~x2/"><circle cx="221.7" cy="156.5" r="4" fill="#3465a4"><title>Merric, Dark Camel..</title></circle></a><a href="/setts/s9/g22k3g1k3g2p8m1p8m16~x2/"><circle cx="231.5" cy="148.7" r="4" fill="#3465a4"><title>Queen of Scots</title></circle></a><a href="/setts/s6/r2k28y5w12y14r2~x2/"><circle cx="205.3" cy="175.4" r="4" fill="#3465a4"><title>Callaway</title></circle></a><circle cx="224.8" cy="132.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k3r1k3w5k5w3k5dy23r3~x2/"><circle cx="253.5" cy="127.2" r="4" fill="#3465a4"><title>Southdown (Fashion)</title></circle></a><a href="/setts/s10/w6k1g29k23p27g3p3g3p3g4~x2/"><circle cx="218.3" cy="121.3" r="4" fill="#3465a4"><title>Rennie</title></circle></a><a href="/setts/s9/k8r1k3w5k5w3k5dr23r3~x2/"><circle cx="247.9" cy="141.8" r="4" fill="#3465a4"><title>Southdown Tartan Tartan Number: 1194. Earliest known date: pre 2003 Designed for the Glasgow conference in 2002 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r12k2w8k4n16r2k31n2/"><circle cx="237.8" cy="150.1" r="4" fill="#3465a4"><title>Distripress Annual Congress 2012</title></circle></a><a href="/setts/s9/k10w10k10o32k2w2k2w2r5~x2/"><circle cx="213.2" cy="130.5" r="4" fill="#3465a4"><title>Burberry (Counterfeit #4)</title></circle></a><a href="/setts/s10/lb16k4o1k2lb1k6dg6k1dg6lb1~x4/"><circle cx="194.7" cy="139.9" r="4" fill="#3465a4"><title>Unidentified #49</title></circle></a><a href="/setts/s9/n3r3k38n25ly3n6r7n3ly2~x2/"><circle cx="271.1" cy="144.6" r="4" fill="#3465a4"><title>Greater St Louis Area Firefighters Highland Guard</title></circle></a><a href="/setts/s7/r2w8k14o25w2k2w2~x2/"><circle cx="221.6" cy="156.4" r="4" fill="#3465a4"><title>Merric, Dark Camel..</title></circle></a><a href="/setts/s9/g22k3g1k3g2p8m1p8m16~x2/"><circle cx="231.4" cy="148.7" r="4" fill="#3465a4"><title>Queen of Scots</title></circle></a><a href="/setts/s6/r2k28y5w12y14r2~x2/"><circle cx="205.3" cy="175.3" r="4" fill="#3465a4"><title>Callaway</title></circle></a><circle cx="224.7" cy="131.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/k8r1k3w5k5w3k5o23r3~x2/

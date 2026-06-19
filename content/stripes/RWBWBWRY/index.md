@@ -8,7 +8,7 @@ RWBWBWRY
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/ly18o10w4db1lb30db1w4o10~x2/tartan.png)
+![Woven sample](/setts/s8/lb30db1w4o10ly18~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RWBWBWRY
 
 | Tartans |
 |---------------|
-| [Alloway Primary (Corporate)](/setts/s8/ly18o10w4db1lb30db1w4o10~x2/)|
-|![Alloway Primary (Corporate) example sett](/setts/s8/ly18o10w4db1lb30db1w4o10~x2/sett.png)|
+| [Alloway Primary (Corporate)](/setts/s8/lb30db1w4o10ly18~x2/)|
+|![Alloway Primary (Corporate) example sett](/setts/s8/lb30db1w4o10ly18~x2/sett.png)|
 

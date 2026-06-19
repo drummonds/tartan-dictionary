@@ -2,7 +2,7 @@
 title: "H.M.S. DUNCAN"
 date: 2023-03-18
 ---
-**Bands:** [BBKRKR](/stripes/bbkrkr/) · **Stripes:** [P N K R K O](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">P N K R K O</span></span>
+**Bands:** [RKRKBB](/stripes/rkrkbb/) · **Stripes:** [O K R K N P](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">O K R K N P</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10268](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10268)
 
 ## Thread count
-LT/6 DB30 R4 DB30 N30 P/6
+P/6 N30 DB30 R4 DB30 LT/6
 ![Sett](sett.png)
 
 ## Palette
@@ -32,18 +32,18 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LT/6 DB30 R4 DB30 N30 P/6 tartan")
+![Tartan detail](tartan.png "P/6 N30 DB30 R4 DB30 LT/6 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Woodcock (2014)](/setts/s7/db30dp9dg6dp9r4db17w5~x2/) — ΔT 0.85
-1. [Ancient Atlantic](/setts/s6/ly1db6k1dy5db6w1~x4/) — ΔT 1.03
+1. [Ancient Atlantic](/setts/s6/w1db6dy5k1db6ly1~x4/) — ΔT 1.03
 1. [Grainger (Name)](/setts/s7/db36r4db6g18db15k18w4~x2/) — ΔT 1.05
-1. [Baptist Union of Scotland](/setts/s6/lb4db23g16k4db23lo4/) — ΔT 1.13
+1. [Baptist Union of Scotland](/setts/s6/lo4db23k4g16db23lb4/) — ΔT 1.13
 1. [Massachusetts](/setts/s6/r1db12k5o3db5w1~x4/) — ΔT 1.13
-1. [Massachusetts (Unofficial)](/setts/s6/lb1db5lo3k5db12r1~x4/) — ΔT 1.14
+1. [Massachusetts (Unofficial)](/setts/s6/r1db12k5lo3db5lb1~x4/) — ΔT 1.14
 1. [College of Radiographers Corporate Tartan Tartan Number: 1274. Earliest known date: 1988 Marketed in Edinburgh around 1930s but no longer seen. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/k15ly2k10db18w3~x2/) — ΔT 1.18
 1. [College of Radiographers](/setts/s5/k15lo2k10db18lb3~x2/) — ΔT 1.25
 1. [United Services, Planning Association](/setts/s8/db4dg2w2dg4db10r2db12ly3~x2/) — ΔT 1.34
@@ -51,8 +51,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db30dp9dg6dp9r4db17w5~x2/"><circle cx="269.0" cy="208.1" r="4" fill="#3465a4"><title>Woodcock (2014)</title></circle></a><a href="/setts/s6/ly1db6k1dy5db6w1~x4/"><circle cx="271.8" cy="229.4" r="4" fill="#3465a4"><title>Ancient Atlantic</title></circle></a><a href="/setts/s7/db36r4db6g18db15k18w4~x2/"><circle cx="263.9" cy="213.7" r="4" fill="#3465a4"><title>Grainger (Name)</title></circle></a><a href="/setts/s6/lb4db23g16k4db23lo4/"><circle cx="274.6" cy="235.0" r="4" fill="#3465a4"><title>Baptist Union of Scotland</title></circle></a><a href="/setts/s6/r1db12k5o3db5w1~x4/"><circle cx="317.1" cy="193.7" r="4" fill="#3465a4"><title>Massachusetts</title></circle></a><a href="/setts/s6/lb1db5lo3k5db12r1~x4/"><circle cx="324.4" cy="198.8" r="4" fill="#3465a4"><title>Massachusetts (Unofficial)</title></circle></a><a href="/setts/s5/k15ly2k10db18w3~x2/"><circle cx="267.3" cy="244.8" r="4" fill="#3465a4"><title>College of Radiographers Corporate Tartan Tartan Number: 1274. Earliest known date: 1988 Marketed in Edinburgh around 1930s but no longer seen. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k15lo2k10db18lb3~x2/"><circle cx="273.6" cy="252.8" r="4" fill="#3465a4"><title>College of Radiographers</title></circle></a><a href="/setts/s8/db4dg2w2dg4db10r2db12ly3~x2/"><circle cx="197.0" cy="194.4" r="4" fill="#3465a4"><title>United Services, Planning Association</title></circle></a><a href="/setts/s9/k10p3db4p3k7b3g8k17ly2~x2/"><circle cx="235.0" cy="185.6" r="4" fill="#3465a4"><title>Ayrshire Tourist Board</title></circle></a><circle cx="251.9" cy="221.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db30dp9dg6dp9r4db17w5~x2/"><circle cx="269.1" cy="208.0" r="4" fill="#3465a4"><title>Woodcock (2014)</title></circle></a><a href="/setts/s6/w1db6dy5k1db6ly1~x4/"><circle cx="271.9" cy="229.3" r="4" fill="#3465a4"><title>Ancient Atlantic</title></circle></a><a href="/setts/s7/db36r4db6g18db15k18w4~x2/"><circle cx="264.0" cy="213.6" r="4" fill="#3465a4"><title>Grainger (Name)</title></circle></a><a href="/setts/s6/lo4db23k4g16db23lb4/"><circle cx="274.8" cy="234.8" r="4" fill="#3465a4"><title>Baptist Union of Scotland</title></circle></a><a href="/setts/s6/r1db12k5o3db5w1~x4/"><circle cx="317.1" cy="193.6" r="4" fill="#3465a4"><title>Massachusetts</title></circle></a><a href="/setts/s6/r1db12k5lo3db5lb1~x4/"><circle cx="324.5" cy="198.6" r="4" fill="#3465a4"><title>Massachusetts (Unofficial)</title></circle></a><a href="/setts/s5/k15ly2k10db18w3~x2/"><circle cx="267.5" cy="244.6" r="4" fill="#3465a4"><title>College of Radiographers Corporate Tartan Tartan Number: 1274. Earliest known date: 1988 Marketed in Edinburgh around 1930s but no longer seen. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k15lo2k10db18lb3~x2/"><circle cx="273.8" cy="252.7" r="4" fill="#3465a4"><title>College of Radiographers</title></circle></a><a href="/setts/s8/db4dg2w2dg4db10r2db12ly3~x2/"><circle cx="197.2" cy="194.4" r="4" fill="#3465a4"><title>United Services, Planning Association</title></circle></a><a href="/setts/s9/k10p3db4p3k7b3g8k17ly2~x2/"><circle cx="235.2" cy="185.6" r="4" fill="#3465a4"><title>Ayrshire Tourist Board</title></circle></a><circle cx="252.0" cy="221.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/o3k15r2k15n15p3~x2/

@@ -8,5 +8,5 @@ A family of [Clan Morris](/clan/morris/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s6/lo2g20k10r3db20w2~x2/"><img src="/setts/s6/lo2g20k10r3db20w2~x2/sett.png" alt="Morris of Eddergoll (Personal)" width="240"><br>Morris of Eddergoll (Personal)</a>
+<a class="tartan" href="/setts/s6/w2db20r3k10g20lo2~x2/"><img src="/setts/s6/w2db20r3k10g20lo2~x2/sett.png" alt="Morris of Eddergoll (Personal)" width="240"><br>Morris of Eddergoll (Personal)</a>
 

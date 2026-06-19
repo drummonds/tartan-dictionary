@@ -2,12 +2,18 @@
 title: "Auld Lang Syne, Blue (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [WBKGKBKBKBKW](/stripes/wbkgkbkbkbkw/) · **Stripes:** [W DP K G K DP K DP K N K W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DP K G K DP K DP K N K W</span></span>
+**Bands:** [WKBKBKBKGKBW](/stripes/wkbkbkbkgkbw/) · **Stripes:** [W K N K DP K DP K G K DP W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K N K DP K DP K G K DP W</span></span>
 
 
 This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7250/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Auld Lang Syne, Blue
 
 ## Thread count
 LN/8 K4 B18 K6 P6 K6 P6 K46 G20 K4 P12 LN/4
@@ -35,14 +41,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Dama Resort](/setts/s11/p3k2n6k2n2k18y13lb2y2k6p2~x2/) — ΔT 0.98
 1. [Model T Ford (Corporate)](/setts/s10/k4dt16k3dt3k32lo7k3r10k2w4~x2/) — ΔT 1.00
 1. [American Society of Travel Agents, The (2001)](/setts/s11/db4y32db4y4db32m6db32dg4db3dg32w4/) — ΔT 1.03
-1. [O'Sheehan](/setts/s12/ly2db17k4w2k2ly2k2db4g6k2g2w2~x2/) — ΔT 1.07
+1. [O'Sheehan](/setts/s12/w2g2k2g6db4k2ly2k2w2k4db17ly2~x2/) — ΔT 1.07
 1. [Scottish Spirit](/setts/s12/n9m3n32n12k5n2k4n2k17p4k2lb2~x2/) — ΔT 1.08
 1. [Glenfalloch](/setts/s12/k4r1k12w1r4w1dg4w1m4dg12k1w2~x2/) — ΔT 1.10
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w4k2b9k3b3k3b3k25dg10k2b6w2~x2/"><circle cx="207.1" cy="135.7" r="4" fill="#3465a4"><title>Auld Lang Syne Blue Fashion Tartan Tartan Number: 7250. Earliest known date: 01/01/2007 No further information. Also called Auld Lang Syne Modern. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/w4k2b9k3m3k3m3k23g10k2m6w2~x2/"><circle cx="187.4" cy="137.8" r="4" fill="#3465a4"><title>Auld Lang Syne Blue</title></circle></a><a href="/setts/s13/g4r4db44w6db5o4db3o8db3o16g4r22w4/"><circle cx="201.3" cy="117.6" r="4" fill="#3465a4"><title>Largs</title></circle></a><a href="/setts/s11/o14k2db3k1ly2k1db3k14db3k1w1~x2/"><circle cx="210.0" cy="129.1" r="4" fill="#3465a4"><title>McGuffey (School)</title></circle></a><a href="/setts/s11/p3k2n6k2n2k18y13lb2y2k6p2~x2/"><circle cx="230.2" cy="171.4" r="4" fill="#3465a4"><title>Dama Resort</title></circle></a><a href="/setts/s10/k4dt16k3dt3k32lo7k3r10k2w4~x2/"><circle cx="264.7" cy="140.4" r="4" fill="#3465a4"><title>Model T Ford (Corporate)</title></circle></a><a href="/setts/s11/db4y32db4y4db32m6db32dg4db3dg32w4/"><circle cx="234.4" cy="170.3" r="4" fill="#3465a4"><title>American Society of Travel Agents, The (2001)</title></circle></a><a href="/setts/s12/ly2db17k4w2k2ly2k2db4g6k2g2w2~x2/"><circle cx="173.2" cy="147.8" r="4" fill="#3465a4"><title>O'Sheehan</title></circle></a><a href="/setts/s12/n9m3n32n12k5n2k4n2k17p4k2lb2~x2/"><circle cx="204.2" cy="115.8" r="4" fill="#3465a4"><title>Scottish Spirit</title></circle></a><a href="/setts/s12/k4r1k12w1r4w1dg4w1m4dg12k1w2~x2/"><circle cx="148.0" cy="138.5" r="4" fill="#3465a4"><title>Glenfalloch</title></circle></a><circle cx="205.5" cy="147.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w4k2b9k3b3k3b3k25dg10k2b6w2~x2/"><circle cx="207.1" cy="135.7" r="4" fill="#3465a4"><title>Auld Lang Syne Blue Fashion Tartan Tartan Number: 7250. Earliest known date: 01/01/2007 No further information. Also called Auld Lang Syne Modern. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/w4k2b9k3m3k3m3k23g10k2m6w2~x2/"><circle cx="187.4" cy="137.7" r="4" fill="#3465a4"><title>Auld Lang Syne Blue</title></circle></a><a href="/setts/s13/g4r4db44w6db5o4db3o8db3o16g4r22w4/"><circle cx="201.3" cy="117.6" r="4" fill="#3465a4"><title>Largs</title></circle></a><a href="/setts/s11/o14k2db3k1ly2k1db3k14db3k1w1~x2/"><circle cx="210.0" cy="129.1" r="4" fill="#3465a4"><title>McGuffey (School)</title></circle></a><a href="/setts/s11/p3k2n6k2n2k18y13lb2y2k6p2~x2/"><circle cx="230.2" cy="171.5" r="4" fill="#3465a4"><title>Dama Resort</title></circle></a><a href="/setts/s10/k4dt16k3dt3k32lo7k3r10k2w4~x2/"><circle cx="264.7" cy="140.3" r="4" fill="#3465a4"><title>Model T Ford (Corporate)</title></circle></a><a href="/setts/s11/db4y32db4y4db32m6db32dg4db3dg32w4/"><circle cx="234.4" cy="170.3" r="4" fill="#3465a4"><title>American Society of Travel Agents, The (2001)</title></circle></a><a href="/setts/s12/w2g2k2g6db4k2ly2k2w2k4db17ly2~x2/"><circle cx="173.2" cy="147.8" r="4" fill="#3465a4"><title>O'Sheehan</title></circle></a><a href="/setts/s12/n9m3n32n12k5n2k4n2k17p4k2lb2~x2/"><circle cx="204.2" cy="115.9" r="4" fill="#3465a4"><title>Scottish Spirit</title></circle></a><a href="/setts/s12/k4r1k12w1r4w1dg4w1m4dg12k1w2~x2/"><circle cx="148.0" cy="138.6" r="4" fill="#3465a4"><title>Glenfalloch</title></circle></a><circle cx="205.5" cy="147.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/w4k2n9k3dp3k3dp3k23g10k2dp6w2~x2/

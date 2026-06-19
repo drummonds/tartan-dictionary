@@ -43,6 +43,6 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Fraser VS](/setts/s6/lb1r12dg6r1db6r1/)|
-|![Fraser VS example sett](/setts/s6/lb1r12dg6r1db6r1/sett.png)|
+| [Fraser VS](/setts/s6/r1db6r1dg6r12lb1/)|
+|![Fraser VS example sett](/setts/s6/r1db6r1dg6r12lb1/sett.png)|
 

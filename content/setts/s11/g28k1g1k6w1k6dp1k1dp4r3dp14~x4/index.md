@@ -2,7 +2,7 @@
 title: "New Hampshire"
 date: 2023-03-18
 ---
-**Bands:** [BRBKBKWKGKG](/stripes/brbkbkwkgkg/) · **Stripes:** [DP R DP K DP K W K G K G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DP R DP K DP K W K G K G</span></span>
+**Bands:** [GKGKWKBKBRB](/stripes/gkgkwkbkbrb/) · **Stripes:** [G K G K W K DP K DP R DP](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">G K G K W K DP K DP R DP</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
@@ -43,12 +43,12 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [McFly (School)](/setts/s13/o28k4k6k2lo4k2k6k28k4k2k1k1db2~x2/) — ΔT 0.77
+1. [McFly (School)](/setts/s13/o28k4k6k2lo4k2k6k28k4k2k1k1db2/) — ΔT 0.77
 1. [El Dorado Hills Firefighters Pipes and Drums](/setts/s14/k5r1w2r1k26r3lo1dt10w1r3w1dt10w1r3~x2/) — ΔT 0.88
 1. [Sutherland (Clan)](/setts/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2/) — ΔT 1.00
 1. [Pride of Scotland Silver](/setts/s12/k9o2k2n2o18n2k2r1k1k19n33r2~x2/) — ΔT 1.04
 1. [Ontario (Official)](/setts/s13/g19r1g2r2g15r1dt13w1db2r2db21r1w3~x2/) — ΔT 1.06
-1. [Kormylo (Personal)](/setts/s12/ly2r9db3dg12r2db40r2dg20db2r18db2w2~x2/) — ΔT 1.10
+1. [Kormylo (Personal)](/setts/s12/w2db2r18db2dg20r2db40r2dg12db3r9ly2~x2/) — ΔT 1.10
 1. [Scotland 2000](/setts/s8/w4dt38g6dr2g6dr36lo2dr3~x2/) — ΔT 1.10
 1. [McFly School](/setts/s13/o28k4db6k2lo4k2db6k28db4db2k1k1lb2/) — ΔT 1.12
 1. [Kerby/Kirby](/setts/s12/r6g1lb2g24k3g3k3g3k8db8lb2db4~x2/) — ΔT 1.14
@@ -56,8 +56,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/o28k4k6k2lo4k2k6k28k4k2k1k1db2~x2/"><circle cx="252.4" cy="97.1" r="4" fill="#3465a4"><title>McFly (School)</title></circle></a><a href="/setts/s14/k5r1w2r1k26r3lo1dt10w1r3w1dt10w1r3~x2/"><circle cx="271.5" cy="90.6" r="4" fill="#3465a4"><title>El Dorado Hills Firefighters Pipes and Drums</title></circle></a><a href="/setts/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2/"><circle cx="241.6" cy="123.1" r="4" fill="#3465a4"><title>Sutherland (Clan)</title></circle></a><a href="/setts/s12/k9o2k2n2o18n2k2r1k1k19n33r2~x2/"><circle cx="291.8" cy="119.1" r="4" fill="#3465a4"><title>Pride of Scotland Silver</title></circle></a><a href="/setts/s13/g19r1g2r2g15r1dt13w1db2r2db21r1w3~x2/"><circle cx="237.2" cy="122.6" r="4" fill="#3465a4"><title>Ontario (Official)</title></circle></a><a href="/setts/s12/ly2r9db3dg12r2db40r2dg20db2r18db2w2~x2/"><circle cx="249.4" cy="120.1" r="4" fill="#3465a4"><title>Kormylo (Personal)</title></circle></a><a href="/setts/s8/w4dt38g6dr2g6dr36lo2dr3~x2/"><circle cx="274.7" cy="147.3" r="4" fill="#3465a4"><title>Scotland 2000</title></circle></a><a href="/setts/s13/o28k4db6k2lo4k2db6k28db4db2k1k1lb2/"><circle cx="244.1" cy="91.5" r="4" fill="#3465a4"><title>McFly School</title></circle></a><a href="/setts/s12/r6g1lb2g24k3g3k3g3k8db8lb2db4~x2/"><circle cx="245.2" cy="126.7" r="4" fill="#3465a4"><title>Kerby/Kirby</title></circle></a><a href="/setts/s11/w4k1db16k1dg32r6k6o6dg4o2dg1~x2/"><circle cx="250.9" cy="91.3" r="4" fill="#3465a4"><title>Zambia</title></circle></a><circle cx="275.1" cy="106.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/o28k4k6k2lo4k2k6k28k4k2k1k1db2/"><circle cx="252.4" cy="97.2" r="4" fill="#3465a4"><title>McFly (School)</title></circle></a><a href="/setts/s14/k5r1w2r1k26r3lo1dt10w1r3w1dt10w1r3~x2/"><circle cx="271.4" cy="90.6" r="4" fill="#3465a4"><title>El Dorado Hills Firefighters Pipes and Drums</title></circle></a><a href="/setts/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2/"><circle cx="241.6" cy="123.1" r="4" fill="#3465a4"><title>Sutherland (Clan)</title></circle></a><a href="/setts/s12/k9o2k2n2o18n2k2r1k1k19n33r2~x2/"><circle cx="291.6" cy="119.2" r="4" fill="#3465a4"><title>Pride of Scotland Silver</title></circle></a><a href="/setts/s13/g19r1g2r2g15r1dt13w1db2r2db21r1w3~x2/"><circle cx="237.1" cy="122.7" r="4" fill="#3465a4"><title>Ontario (Official)</title></circle></a><a href="/setts/s12/w2db2r18db2dg20r2db40r2dg12db3r9ly2~x2/"><circle cx="249.3" cy="120.2" r="4" fill="#3465a4"><title>Kormylo (Personal)</title></circle></a><a href="/setts/s8/w4dt38g6dr2g6dr36lo2dr3~x2/"><circle cx="274.6" cy="147.4" r="4" fill="#3465a4"><title>Scotland 2000</title></circle></a><a href="/setts/s13/o28k4db6k2lo4k2db6k28db4db2k1k1lb2/"><circle cx="244.1" cy="91.5" r="4" fill="#3465a4"><title>McFly School</title></circle></a><a href="/setts/s12/r6g1lb2g24k3g3k3g3k8db8lb2db4~x2/"><circle cx="245.2" cy="126.7" r="4" fill="#3465a4"><title>Kerby/Kirby</title></circle></a><a href="/setts/s11/w4k1db16k1dg32r6k6o6dg4o2dg1~x2/"><circle cx="250.8" cy="91.3" r="4" fill="#3465a4"><title>Zambia</title></circle></a><circle cx="275.0" cy="106.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/g28k1g1k6w1k6dp1k1dp4r3dp14~x4/

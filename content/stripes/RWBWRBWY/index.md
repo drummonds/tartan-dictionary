@@ -8,7 +8,7 @@ RWBWRBWY
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/ly4w1db42r1w21db4w4r4~x2/tartan.png)
+![Woven sample](/setts/s8/r4w4db4w21r1db42w1ly4~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RWBWRBWY
 
 | Tartans |
 |---------------|
-| [Presley of Memphis](/setts/s8/ly4w1db42r1w21db4w4r4~x2/)|
-|![Presley of Memphis example sett](/setts/s8/ly4w1db42r1w21db4w4r4~x2/sett.png)|
+| [Presley of Memphis](/setts/s8/r4w4db4w21r1db42w1ly4~x2/)|
+|![Presley of Memphis example sett](/setts/s8/r4w4db4w21r1db42w1ly4~x2/sett.png)|
 

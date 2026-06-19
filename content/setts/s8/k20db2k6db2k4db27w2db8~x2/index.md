@@ -2,7 +2,7 @@
 title: "Pride of Kinross"
 date: 2023-03-18
 ---
-**Bands:** [BWBKBKBK](/stripes/bwbkbkbk/) · **Stripes:** [DB W DB K DB K DB K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">DB W DB K DB K DB K</span></span>
+**Bands:** [KBKBKBWB](/stripes/kbkbkbwb/) · **Stripes:** [K DB K DB K DB W DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB K DB W DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -23,7 +23,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [11282](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11282)
 
 ## Thread count
-DB/16 W4 DB54 K8 DB4 K12 DB4 K/40
+K/40 DB4 K12 DB4 K8 DB54 W4 DB/16
 ![Sett](sett.png)
 
 ## Palette
@@ -37,7 +37,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/16 W4 DB54 K8 DB4 K12 DB4 K/40 tartan")
+![Tartan detail](tartan.png "K/40 DB4 K12 DB4 K8 DB54 W4 DB/16 tartan")
 
 ## Nearest tartans
 
@@ -46,18 +46,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Argentina](/setts/s7/db5w3db33k3db3k36db3~x2/) — ΔT 0.99
 1. [Auckland (Fashion)](/setts/s8/dg3k3db2k16db2k2db24lb2~x2/) — ΔT 1.26
 1. [Royal Scotsman Train (Corporate)](/setts/s6/db5k2db14k14db2lr2~x2/) — ΔT 1.29
-1. [Marchmont (Personal)](/setts/s7/g1db12k12g1k12db12k1~x4/) — ΔT 1.35
+1. [Marchmont (Personal)](/setts/s7/k1db12k12g1k12db12g1~x4/) — ΔT 1.35
 1. [St. Georges, Edgbaston](/setts/s7/r4k21w2k20db21k2db2~x2/) — ΔT 1.35
 1. [Murdoch Celebration (Personal)](/setts/s8/db30r2db2r4db9k26w2k4~x2/) — ΔT 1.36
-1. [Oban](/setts/s8/b6k10b1k1b1k10db10k6~x4/) — ΔT 1.36
+1. [Oban](/setts/s8/k6db10k10b1k1b1k10b6~x4/) — ΔT 1.36
 1. [Slanj Dress (Corporate)](/setts/s8/k4db36k4db4k34b3k3w4~x2/) — ΔT 1.37
 1. [Gallaecia - Galicia National](/setts/s5/db24n13db4n4w2~x2/) — ΔT 1.40
 1. [Murdoch Clebration (Personal)](/setts/s8/k21db8r4db2r2db23k4w2~x2/) — ΔT 1.40
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db5w3db33k3db3k36db3~x2/"><circle cx="379.2" cy="224.2" r="4" fill="#3465a4"><title>Argentina</title></circle></a><a href="/setts/s8/dg3k3db2k16db2k2db24lb2~x2/"><circle cx="362.1" cy="205.1" r="4" fill="#3465a4"><title>Auckland (Fashion)</title></circle></a><a href="/setts/s6/db5k2db14k14db2lr2~x2/"><circle cx="353.0" cy="270.7" r="4" fill="#3465a4"><title>Royal Scotsman Train (Corporate)</title></circle></a><a href="/setts/s7/g1db12k12g1k12db12k1~x4/"><circle cx="366.8" cy="264.6" r="4" fill="#3465a4"><title>Marchmont (Personal)</title></circle></a><a href="/setts/s7/r4k21w2k20db21k2db2~x2/"><circle cx="347.7" cy="222.3" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/setts/s8/db30r2db2r4db9k26w2k4~x2/"><circle cx="334.5" cy="182.3" r="4" fill="#3465a4"><title>Murdoch Celebration (Personal)</title></circle></a><a href="/setts/s8/b6k10b1k1b1k10db10k6~x4/"><circle cx="367.6" cy="263.8" r="4" fill="#3465a4"><title>Oban</title></circle></a><a href="/setts/s8/k4db36k4db4k34b3k3w4~x2/"><circle cx="348.3" cy="202.6" r="4" fill="#3465a4"><title>Slanj Dress (Corporate)</title></circle></a><a href="/setts/s5/db24n13db4n4w2~x2/"><circle cx="397.4" cy="254.2" r="4" fill="#3465a4"><title>Gallaecia - Galicia National</title></circle></a><a href="/setts/s8/k21db8r4db2r2db23k4w2~x2/"><circle cx="308.9" cy="198.5" r="4" fill="#3465a4"><title>Murdoch Clebration (Personal)</title></circle></a><circle cx="389.9" cy="222.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db5w3db33k3db3k36db3~x2/"><circle cx="379.4" cy="224.0" r="4" fill="#3465a4"><title>Argentina</title></circle></a><a href="/setts/s8/dg3k3db2k16db2k2db24lb2~x2/"><circle cx="362.1" cy="205.0" r="4" fill="#3465a4"><title>Auckland (Fashion)</title></circle></a><a href="/setts/s6/db5k2db14k14db2lr2~x2/"><circle cx="353.1" cy="270.6" r="4" fill="#3465a4"><title>Royal Scotsman Train (Corporate)</title></circle></a><a href="/setts/s7/k1db12k12g1k12db12g1~x4/"><circle cx="366.9" cy="264.5" r="4" fill="#3465a4"><title>Marchmont (Personal)</title></circle></a><a href="/setts/s7/r4k21w2k20db21k2db2~x2/"><circle cx="347.8" cy="222.1" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/setts/s8/db30r2db2r4db9k26w2k4~x2/"><circle cx="334.5" cy="182.2" r="4" fill="#3465a4"><title>Murdoch Celebration (Personal)</title></circle></a><a href="/setts/s8/k6db10k10b1k1b1k10b6~x4/"><circle cx="367.7" cy="263.7" r="4" fill="#3465a4"><title>Oban</title></circle></a><a href="/setts/s8/k4db36k4db4k34b3k3w4~x2/"><circle cx="348.3" cy="202.5" r="4" fill="#3465a4"><title>Slanj Dress (Corporate)</title></circle></a><a href="/setts/s5/db24n13db4n4w2~x2/"><circle cx="397.4" cy="254.0" r="4" fill="#3465a4"><title>Gallaecia - Galicia National</title></circle></a><a href="/setts/s8/k21db8r4db2r2db23k4w2~x2/"><circle cx="308.9" cy="198.5" r="4" fill="#3465a4"><title>Murdoch Clebration (Personal)</title></circle></a><circle cx="389.9" cy="221.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k20db2k6db2k4db27w2db8~x2/

@@ -1,10 +1,10 @@
 ---
-title: "Mead of Poetry, The"
+title: "Mead Of Poetry, The"
 date: 2023-03-18
 ---
 A family of [Clan Mead](/clan/mead/).
 
-**Trove of Scotland:** [search “Poetry, The”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Poetry%2C+The&viewmode=grid)
+**Trove of Scotland:** [search “Mead Of Poetry, The”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Mead+Of+Poetry%2C+The&viewmode=grid)
 
 ## Tartan
 

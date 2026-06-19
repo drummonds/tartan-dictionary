@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/12 R24 Ra40 R32 G128 B32 Y32 LT24 Ra40 LN/12
+LN/12 Ra40 LT24 Y32 B32 G128 R32 Ra40 R24 LN/12
 ![Sett](sett.png)
 
 ## Palette
@@ -909,7 +912,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Bruce of Kinnaird (Fashion)](/setts/s10/lo22ly22dr2lb6dr2lo2dr16lg5lo8lb2~x2/) — ΔT 1.08
 1. [Jacobite, Silk sash](/setts/s10/w2r8o5ly6w5g21w6r8r4w2/) — ΔT 1.21
 1. [Porcupine](/setts/s11/o1r1o3lo1o1dy8ly7g1o1t1w1~x4/) — ΔT 1.28
-1. [Wilson's No.121](/setts/s12/t4dp3y1g9lb1r8k1r8lb1g9y1dp3~x4/) — ΔT 1.32
+1. [Wilson's No.121](/setts/s12/t4dp3y1g9lb1r8k1~x4/) — ΔT 1.32
 1. [Wilson's, No 132](/setts/s8/k3r18w2g21g2p7t5w2~x2/) — ΔT 1.33
 1. [Wilson's, No 121](/setts/s7/t4p3g1g9w1r8k1~x4/) — ΔT 1.33
 1. [Wilson's No.132](/setts/s14/r18w2g21y2dp7y5w2y5dp7y2g21w2r18k3~x2/) — ΔT 1.34
@@ -918,8 +921,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w3r10dy6ly8t8dg32r8r10r6w3~x4/"><circle cx="93.2" cy="123.1" r="4" fill="#3465a4"><title>Unidentified Silk scarf</title></circle></a><a href="/setts/s10/lo22ly22dr2lb6dr2lo2dr16lg5lo8lb2~x2/"><circle cx="132.9" cy="134.1" r="4" fill="#3465a4"><title>Bruce of Kinnaird (Fashion)</title></circle></a><a href="/setts/s10/w2r8o5ly6w5g21w6r8r4w2/"><circle cx="89.7" cy="138.0" r="4" fill="#3465a4"><title>Jacobite, Silk sash</title></circle></a><a href="/setts/s11/o1r1o3lo1o1dy8ly7g1o1t1w1~x4/"><circle cx="80.7" cy="101.5" r="4" fill="#3465a4"><title>Porcupine</title></circle></a><a href="/setts/s12/t4dp3y1g9lb1r8k1r8lb1g9y1dp3~x4/"><circle cx="125.1" cy="137.3" r="4" fill="#3465a4"><title>Wilson's No.121</title></circle></a><a href="/setts/s8/k3r18w2g21g2p7t5w2~x2/"><circle cx="110.4" cy="123.1" r="4" fill="#3465a4"><title>Wilson's, No 132</title></circle></a><a href="/setts/s7/t4p3g1g9w1r8k1~x4/"><circle cx="97.5" cy="149.9" r="4" fill="#3465a4"><title>Wilson's, No 121</title></circle></a><a href="/setts/s14/r18w2g21y2dp7y5w2y5dp7y2g21w2r18k3~x2/"><circle cx="123.0" cy="112.9" r="4" fill="#3465a4"><title>Wilson's No.132</title></circle></a><a href="/setts/s9/t4dy27lr8k4lr8k4lr8r11ly3~x2/"><circle cx="119.6" cy="150.4" r="4" fill="#3465a4"><title>Brittany Hunting French Fancy Tartan Tartan Number: 5977. Earliest known date: 2003 For Richard and Anne-Marie Duclos of Le Coudray-Montceaux, France. Based on the Breton National at 3902. The term Randonnée (Walking) is used in the sense of the Scottish category, Hunting. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/lo40k5y48k5r20k5lr14k10w4r28lr10/"><circle cx="96.8" cy="137.5" r="4" fill="#3465a4"><title>Kildare County Crest (Fashion)</title></circle></a><circle cx="101.6" cy="127.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w3r10dy6ly8t8dg32r8r10r6w3~x4/"><circle cx="93.1" cy="123.3" r="4" fill="#3465a4"><title>Unidentified Silk scarf</title></circle></a><a href="/setts/s10/lo22ly22dr2lb6dr2lo2dr16lg5lo8lb2~x2/"><circle cx="132.6" cy="134.3" r="4" fill="#3465a4"><title>Bruce of Kinnaird (Fashion)</title></circle></a><a href="/setts/s10/w2r8o5ly6w5g21w6r8r4w2/"><circle cx="89.5" cy="138.1" r="4" fill="#3465a4"><title>Jacobite, Silk sash</title></circle></a><a href="/setts/s11/o1r1o3lo1o1dy8ly7g1o1t1w1~x4/"><circle cx="80.4" cy="101.8" r="4" fill="#3465a4"><title>Porcupine</title></circle></a><a href="/setts/s12/t4dp3y1g9lb1r8k1~x4/"><circle cx="125.1" cy="137.5" r="4" fill="#3465a4"><title>Wilson's No.121</title></circle></a><a href="/setts/s8/k3r18w2g21g2p7t5w2~x2/"><circle cx="110.3" cy="123.3" r="4" fill="#3465a4"><title>Wilson's, No 132</title></circle></a><a href="/setts/s7/t4p3g1g9w1r8k1~x4/"><circle cx="97.4" cy="150.0" r="4" fill="#3465a4"><title>Wilson's, No 121</title></circle></a><a href="/setts/s14/r18w2g21y2dp7y5w2y5dp7y2g21w2r18k3~x2/"><circle cx="122.9" cy="113.0" r="4" fill="#3465a4"><title>Wilson's No.132</title></circle></a><a href="/setts/s9/t4dy27lr8k4lr8k4lr8r11ly3~x2/"><circle cx="119.5" cy="150.5" r="4" fill="#3465a4"><title>Brittany Hunting French Fancy Tartan Tartan Number: 5977. Earliest known date: 2003 For Richard and Anne-Marie Duclos of Le Coudray-Montceaux, France. Based on the Breton National at 3902. The term Randonnée (Walking) is used in the sense of the Scottish category, Hunting. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/lo40k5y48k5r20k5lr14k10w4r28lr10/"><circle cx="96.7" cy="137.7" r="4" fill="#3465a4"><title>Kildare County Crest (Fashion)</title></circle></a><circle cx="101.4" cy="128.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/w3r10o6ly8t8g32r8r10r6w3~x4/

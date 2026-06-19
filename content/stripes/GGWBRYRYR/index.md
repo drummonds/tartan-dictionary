@@ -19,7 +19,7 @@ GGWBRYRYR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DG DY W DT O LY O LY O <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DG DY W DT O LY O LY O</span></span>
+### O LY O LY O DT W DY DG <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="seq">O LY O LY O DT W DY DG</span></span>
 
 | Tartans |
 |---------------|
@@ -28,7 +28,7 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 | [Nickel Lodge Centennial (Corporate)](/setts/s9/o36ly2o1ly2o4dt12w8dy2dg12~x2/)|
 |![Nickel Lodge Centennial (Corporate) example sett](/setts/s9/o36ly2o1ly2o4dt12w8dy2dg12~x2/sett.png)|
 
-### G DY W DB O LY O LY O <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="seq">G DY W DB O LY O LY O</span></span>
+### O LY O LY O DB W DY G <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O LY O LY O DB W DY G</span></span>
 
 | Tartans |
 |---------------|

@@ -20,7 +20,7 @@ BYBWBY
 
 
 
-### DO LR DO LB DO LR <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">DO LR DO LB DO LR</span></span>
+### LR DO LB DO LR DO <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#412714"></span><span class="seq">LR DO LB DO LR DO</span></span>
 
 | Tartans |
 |---------------|

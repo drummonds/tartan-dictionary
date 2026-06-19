@@ -2,7 +2,7 @@
 title: "MacColl, hunting"
 date: 2023-03-18
 ---
-**Bands:** [RRGRGRRWRBRWRRBRRR](/stripes/rrgrgrrwrbrwrrbrrr/) · **Stripes:** [R R Y R Y R R W R DB R W R R DB R R R](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R Y R Y R R W R DB R W R R DB R R R</span></span>
+**Bands:** [RRRBRRWRBRWRRGRGRR](/stripes/rrrbrrwrbrwrrgrgrr/) · **Stripes:** [R R R DB R R W R DB R W R R Y R Y R R](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R R DB R R W R DB R W R R Y R Y R R</span></span>
 
 
 This was sourced from weddslist.  It is a [18 band tartan](/bands/bands18/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DR/4 R4 G4 R14 G44 R14 DR4 LN2 R4 B4 R4 LN2 DR4 R14 B44 R12 DR6 R/12
+R/12 DR6 R12 B44 R14 DR4 LN2 R4 B4 R4 LN2 DR4 R14 G44 R14 G4 R4 DR/4
 ![Sett](sett.png)
 
 ## Palette
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/r6m3r6db22r7m2w1r2db2r2w1m2r7y22r7y2r2m2~x2/"><circle cx="249.9" cy="98.9" r="4" fill="#3465a4"><title>MacColl Hunting Clan Tartan Tartan Number: 1637. Earliest known date: pre 2003 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/r6m3r6db22r7m2w1r2db2r2w1m2r7g22r7g2r2m2~x2/"><circle cx="232.6" cy="93.5" r="4" fill="#3465a4"><title>MacColl Hunting</title></circle></a><a href="/setts/s17/r7r3r6db26r8dg2r2db2r2g1r2r8g26r8g2r2r2~x2/"><circle cx="250.7" cy="94.7" r="4" fill="#3465a4"><title>MacColl, Ancient</title></circle></a><a href="/setts/s15/lr3lo8r2lo8db11r2lo4r4r27db1r2db2r2db13r2~x2/"><circle cx="258.1" cy="100.8" r="4" fill="#3465a4"><title>Strathdon (District?)</title></circle></a><a href="/setts/s17/r30dp3r3dg12r12dg12r8r3r8dp12r5dg3r5dg25r4r6t1~x2/"><circle cx="224.6" cy="109.6" r="4" fill="#3465a4"><title>MacDougall #3</title></circle></a><a href="/setts/s17/r7r3r6db26r8r2r2db2r2dg1r2r8dg26r8dg2r2r2~x2/"><circle cx="269.1" cy="106.9" r="4" fill="#3465a4"><title>MacColl Ancient</title></circle></a><a href="/setts/s12/o3n20r1n4r2n2r4n2r5g2r20w3~x2/"><circle cx="254.4" cy="111.7" r="4" fill="#3465a4"><title>Ryutokukan High School (Corporate)</title></circle></a><a href="/setts/s15/r12dp2r4dp4r39t2r4dp11r6g4r6g45r4dp4db10/"><circle cx="300.2" cy="99.6" r="4" fill="#3465a4"><title>Grant or New Bruce Clan Tartan Tartan Number: 1385. Earliest known date: 1819 As ordered by Patrick Grant of Redcastle, the chief of the Clan Grant. The large red and the large green squares have been reduced by a factor of 4 to allow display. The original sett was S15 P2 S4 P4 S156 LB2 S4 P42 S6 G4 S6 G178 S4 P4 S10 (HSHP half sett half pivot). This tartan was also adopted by the Drummonds. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/g3b4g3b4g3r28lo2b2r28b6r9lo2b2~x2/"><circle cx="253.4" cy="126.2" r="4" fill="#3465a4"><title>Pitcairn Heritage (Name)</title></circle></a><a href="/setts/s15/r8k5r8g27r8w2r3g3r3w2r8o27r8o3r3~x2/"><circle cx="247.8" cy="144.8" r="4" fill="#3465a4"><title>McCall (Name)</title></circle></a><circle cx="260.0" cy="105.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/r6m3r6db22r7m2w1r2db2r2w1m2r7y22r7y2r2m2~x2/"><circle cx="249.6" cy="99.1" r="4" fill="#3465a4"><title>MacColl Hunting Clan Tartan Tartan Number: 1637. Earliest known date: pre 2003 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/r6m3r6db22r7m2w1r2db2r2w1m2r7g22r7g2r2m2~x2/"><circle cx="232.4" cy="93.7" r="4" fill="#3465a4"><title>MacColl Hunting</title></circle></a><a href="/setts/s17/r7r3r6db26r8dg2r2db2r2g1r2r8g26r8g2r2r2~x2/"><circle cx="250.4" cy="94.8" r="4" fill="#3465a4"><title>MacColl, Ancient</title></circle></a><a href="/setts/s15/lr3lo8r2lo8db11r2lo4r4r27db1r2db2r2db13r2~x2/"><circle cx="257.8" cy="100.9" r="4" fill="#3465a4"><title>Strathdon (District?)</title></circle></a><a href="/setts/s17/r30dp3r3dg12r12dg12r8r3r8dp12r5dg3r5dg25r4r6t1~x2/"><circle cx="224.4" cy="109.8" r="4" fill="#3465a4"><title>MacDougall #3</title></circle></a><a href="/setts/s17/r7r3r6db26r8r2r2db2r2dg1r2r8dg26r8dg2r2r2~x2/"><circle cx="268.8" cy="106.9" r="4" fill="#3465a4"><title>MacColl Ancient</title></circle></a><a href="/setts/s12/o3n20r1n4r2n2r4n2r5g2r20w3~x2/"><circle cx="254.1" cy="111.9" r="4" fill="#3465a4"><title>Ryutokukan High School (Corporate)</title></circle></a><a href="/setts/s15/r12dp2r4dp4r39t2r4dp11r6g4r6g45r4dp4db10/"><circle cx="299.8" cy="99.7" r="4" fill="#3465a4"><title>Grant or New Bruce Clan Tartan Tartan Number: 1385. Earliest known date: 1819 As ordered by Patrick Grant of Redcastle, the chief of the Clan Grant. The large red and the large green squares have been reduced by a factor of 4 to allow display. The original sett was S15 P2 S4 P4 S156 LB2 S4 P42 S6 G4 S6 G178 S4 P4 S10 (HSHP half sett half pivot). This tartan was also adopted by the Drummonds. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/g3b4g3b4g3r28lo2b2r28b6r9lo2b2~x2/"><circle cx="253.1" cy="126.4" r="4" fill="#3465a4"><title>Pitcairn Heritage (Name)</title></circle></a><a href="/setts/s15/r8k5r8g27r8w2r3g3r3w2r8o27r8o3r3~x2/"><circle cx="247.6" cy="144.9" r="4" fill="#3465a4"><title>McCall (Name)</title></circle></a><circle cx="259.6" cy="105.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s18/r6r3r6db22r7r2w1r2db2r2w1r2r7y22r7y2r2r2~x2/

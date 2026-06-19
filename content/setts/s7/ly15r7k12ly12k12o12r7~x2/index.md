@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-R/14 LT24 K24 Y24 K24 R14 Y/30
+Y/30 R14 K24 Y24 K24 LT24 R/14
 ![Sett](sett.png)
 
 ## Palette
@@ -900,7 +903,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "R/14 LT24 K24 Y24 K24 R14 Y/30 tartan")
+![Tartan detail](tartan.png "Y/30 R14 K24 Y24 K24 LT24 R/14 tartan")
 
 ## Nearest tartans
 
@@ -909,18 +912,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Duffus Lord... Portrait Tartan Tartan Number: 1661. Earliest known date: 1705 The hose in the portrait of Lord Duffus (1705). Reconstructed and woven by Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/ly15r7k12ly12k12dy12r7~x2/) — ΔT 0.52
 1. [Duffus Hose, Lord](/setts/s7/lo11m6k10lo10k10dy10m4~x2/) — ΔT 1.33
 1. [Boxer Beauty](/setts/s7/k13dy28lo13dy28k18w18k13~x2/) — ΔT 1.42
-1. [Harazeen](/setts/s8/r2g1w1k1r2g1w1k1~x20/) — ΔT 1.51
+1. [Harazeen](/setts/s8/r2g1w1k1~x20/) — ΔT 1.51
 1. [MacDuff](/setts/s7/r10db6k8g10r6g3r6~x2/) — ΔT 1.59
-1. [Sturch (Corporate)](/setts/s4/ly2g3db2r2~x5/) — ΔT 1.84
+1. [Sturch (Corporate)](/setts/s4/r2db2g3ly2~x5/) — ΔT 1.84
 1. [Hage-West (Personal)](/setts/s6/dg8k8dg8ly6k3ly6~x2/) — ΔT 1.85
 1. [Akins Red Dress](/setts/s9/g6r4g5r13k13w5k13r13ly6~x2/) — ΔT 1.95
-1. [Austin / Wilson's No 173](/setts/s5/p3k3p3g6ly2~x2/) — ΔT 1.99
+1. [Austin / Wilson's No 173](/setts/s5/p3k3p3g6ly2~x2/) — ΔT 1.98
 1. [Burns Heritage Check](/setts/s9/k12w12k12w12g13w8dr6g4dr5/) — ΔT 2.05
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly15r7k12ly12k12dy12r7~x2/"><circle cx="24.1" cy="300.7" r="4" fill="#3465a4"><title>Duffus Lord... Portrait Tartan Tartan Number: 1661. Earliest known date: 1705 The hose in the portrait of Lord Duffus (1705). Reconstructed and woven by Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/lo11m6k10lo10k10dy10m4~x2/"><circle cx="62.1" cy="302.7" r="4" fill="#3465a4"><title>Duffus Hose, Lord</title></circle></a><a href="/setts/s7/k13dy28lo13dy28k18w18k13~x2/"><circle cx="83.6" cy="297.6" r="4" fill="#3465a4"><title>Boxer Beauty</title></circle></a><a href="/setts/s8/r2g1w1k1r2g1w1k1~x20/"><circle cx="45.6" cy="269.4" r="4" fill="#3465a4"><title>Harazeen</title></circle></a><a href="/setts/s7/r10db6k8g10r6g3r6~x2/"><circle cx="115.7" cy="283.2" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s4/ly2g3db2r2~x5/"><circle cx="14.0" cy="357.3" r="4" fill="#3465a4"><title>Sturch (Corporate)</title></circle></a><a href="/setts/s6/dg8k8dg8ly6k3ly6~x2/"><circle cx="90.6" cy="319.9" r="4" fill="#3465a4"><title>Hage-West (Personal)</title></circle></a><a href="/setts/s9/g6r4g5r13k13w5k13r13ly6~x2/"><circle cx="68.9" cy="230.6" r="4" fill="#3465a4"><title>Akins Red Dress</title></circle></a><a href="/setts/s5/p3k3p3g6ly2~x2/"><circle cx="71.2" cy="288.7" r="4" fill="#3465a4"><title>Austin / Wilson's No 173</title></circle></a><a href="/setts/s9/k12w12k12w12g13w8dr6g4dr5/"><circle cx="42.1" cy="259.9" r="4" fill="#3465a4"><title>Burns Heritage Check</title></circle></a><circle cx="14.6" cy="297.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly15r7k12ly12k12dy12r7~x2/"><circle cx="24.2" cy="300.6" r="4" fill="#3465a4"><title>Duffus Lord... Portrait Tartan Tartan Number: 1661. Earliest known date: 1705 The hose in the portrait of Lord Duffus (1705). Reconstructed and woven by Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/lo11m6k10lo10k10dy10m4~x2/"><circle cx="62.3" cy="302.6" r="4" fill="#3465a4"><title>Duffus Hose, Lord</title></circle></a><a href="/setts/s7/k13dy28lo13dy28k18w18k13~x2/"><circle cx="83.8" cy="297.5" r="4" fill="#3465a4"><title>Boxer Beauty</title></circle></a><a href="/setts/s8/r2g1w1k1~x20/"><circle cx="45.5" cy="269.2" r="4" fill="#3465a4"><title>Harazeen</title></circle></a><a href="/setts/s7/r10db6k8g10r6g3r6~x2/"><circle cx="115.7" cy="283.1" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s4/r2db2g3ly2~x5/"><circle cx="14.0" cy="357.2" r="4" fill="#3465a4"><title>Sturch (Corporate)</title></circle></a><a href="/setts/s6/dg8k8dg8ly6k3ly6~x2/"><circle cx="90.8" cy="319.7" r="4" fill="#3465a4"><title>Hage-West (Personal)</title></circle></a><a href="/setts/s9/g6r4g5r13k13w5k13r13ly6~x2/"><circle cx="68.9" cy="230.5" r="4" fill="#3465a4"><title>Akins Red Dress</title></circle></a><a href="/setts/s5/p3k3p3g6ly2~x2/"><circle cx="71.4" cy="288.6" r="4" fill="#3465a4"><title>Austin / Wilson's No 173</title></circle></a><a href="/setts/s9/k12w12k12w12g13w8dr6g4dr5/"><circle cx="42.2" cy="259.8" r="4" fill="#3465a4"><title>Burns Heritage Check</title></circle></a><circle cx="14.7" cy="297.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/ly15r7k12ly12k12o12r7~x2/

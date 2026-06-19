@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,14 +915,14 @@ The nearest existing variants by ΔTartan distance.
 1. [British Columbia](/setts/s12/g2k1g4lr4ly1lr4r4k1r4lr2r4w1~x4/) — ΔT 1.56
 1. [Prince Albert #2](/setts/s13/r3db9r2k7ly2k2w2k2dg6r5k2r2w2~x2/) — ΔT 1.57
 1. [Buchanan, Incorrect](/setts/s16/db3g1k3db3k3g1db3g1r6w1r6db4ly5db1ly5g1~x4/) — ΔT 1.57
-1. [Clanedin/Commonwealth](/setts/s16/lb3ly10dy4lb2dy3lb2dy2lb6db3lb6k2lb2k3lb2k8r3~x2/) — ΔT 1.58
+1. [Clanedin/Commonwealth](/setts/s16/r3k8lb2k3lb2k2lb6db3lb6dy2lb2dy3lb2dy4ly10lb3~x2/) — ΔT 1.58
 1. [Prince Albert #3](/setts/s13/r3db9r2k7ly2k2w2k2g6r5k2r2w2~x4/) — ΔT 1.58
-1. [Buchanan Incorrect](/setts/s16/db3dg1k3db3k3dg1db3dg1r6w1r6db4ly5db1ly5dg1~x4/) — ΔT 1.62
+1. [Buchanan Incorrect](/setts/s16/db3dg1k3db3k3dg1db3dg1r6w1r6db4ly5db1ly5dg1~x4/) — ΔT 1.63
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r7t3k2t2k2t3k6ly2dg7r4db2r4w2r5~x2/"><circle cx="31.5" cy="176.4" r="4" fill="#3465a4"><title>Caledonia Variant</title></circle></a><a href="/setts/s11/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7~x2/"><circle cx="14.0" cy="201.8" r="4" fill="#3465a4"><title>Unnamed C19th (Silk Sash)</title></circle></a><a href="/setts/s12/g2k1g4t4ly1t4r4k1r4t2r4w1~x4/"><circle cx="69.2" cy="197.6" r="4" fill="#3465a4"><title>British Columbia</title></circle></a><a href="/setts/s11/ly9lo3k4lo4k8r17k3r17db8k4w4~x2/"><circle cx="107.1" cy="167.5" r="4" fill="#3465a4"><title>Laois County Crest (Fashion)</title></circle></a><a href="/setts/s12/g2k1g4lr4ly1lr4r4k1r4lr2r4w1~x4/"><circle cx="71.6" cy="197.0" r="4" fill="#3465a4"><title>British Columbia</title></circle></a><a href="/setts/s13/r3db9r2k7ly2k2w2k2dg6r5k2r2w2~x2/"><circle cx="22.4" cy="170.8" r="4" fill="#3465a4"><title>Prince Albert #2</title></circle></a><a href="/setts/s16/db3g1k3db3k3g1db3g1r6w1r6db4ly5db1ly5g1~x4/"><circle cx="22.7" cy="149.9" r="4" fill="#3465a4"><title>Buchanan, Incorrect</title></circle></a><a href="/setts/s16/lb3ly10dy4lb2dy3lb2dy2lb6db3lb6k2lb2k3lb2k8r3~x2/"><circle cx="35.6" cy="152.1" r="4" fill="#3465a4"><title>Clanedin/Commonwealth</title></circle></a><a href="/setts/s13/r3db9r2k7ly2k2w2k2g6r5k2r2w2~x4/"><circle cx="18.8" cy="169.8" r="4" fill="#3465a4"><title>Prince Albert #3</title></circle></a><a href="/setts/s16/db3dg1k3db3k3dg1db3dg1r6w1r6db4ly5db1ly5dg1~x4/"><circle cx="30.7" cy="152.0" r="4" fill="#3465a4"><title>Buchanan Incorrect</title></circle></a><circle cx="18.3" cy="173.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r7t3k2t2k2t3k6ly2dg7r4db2r4w2r5~x2/"><circle cx="31.5" cy="176.6" r="4" fill="#3465a4"><title>Caledonia Variant</title></circle></a><a href="/setts/s11/db7lr2dp5ly2dg7ly2r5lr2r5ly2db7~x2/"><circle cx="14.0" cy="201.9" r="4" fill="#3465a4"><title>Unnamed C19th (Silk Sash)</title></circle></a><a href="/setts/s12/g2k1g4t4ly1t4r4k1r4t2r4w1~x4/"><circle cx="69.2" cy="197.7" r="4" fill="#3465a4"><title>British Columbia</title></circle></a><a href="/setts/s11/ly9lo3k4lo4k8r17k3r17db8k4w4~x2/"><circle cx="107.0" cy="167.6" r="4" fill="#3465a4"><title>Laois County Crest (Fashion)</title></circle></a><a href="/setts/s12/g2k1g4lr4ly1lr4r4k1r4lr2r4w1~x4/"><circle cx="71.6" cy="197.1" r="4" fill="#3465a4"><title>British Columbia</title></circle></a><a href="/setts/s13/r3db9r2k7ly2k2w2k2dg6r5k2r2w2~x2/"><circle cx="22.5" cy="170.9" r="4" fill="#3465a4"><title>Prince Albert #2</title></circle></a><a href="/setts/s16/db3g1k3db3k3g1db3g1r6w1r6db4ly5db1ly5g1~x4/"><circle cx="22.7" cy="150.0" r="4" fill="#3465a4"><title>Buchanan, Incorrect</title></circle></a><a href="/setts/s16/r3k8lb2k3lb2k2lb6db3lb6dy2lb2dy3lb2dy4ly10lb3~x2/"><circle cx="35.5" cy="152.2" r="4" fill="#3465a4"><title>Clanedin/Commonwealth</title></circle></a><a href="/setts/s13/r3db9r2k7ly2k2w2k2g6r5k2r2w2~x4/"><circle cx="18.9" cy="170.0" r="4" fill="#3465a4"><title>Prince Albert #3</title></circle></a><a href="/setts/s16/db3dg1k3db3k3dg1db3dg1r6w1r6db4ly5db1ly5dg1~x4/"><circle cx="30.7" cy="152.2" r="4" fill="#3465a4"><title>Buchanan Incorrect</title></circle></a><circle cx="18.4" cy="173.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/r7t3k2t2k2t3k6ly2g7r4db2r4w2r5~x2/

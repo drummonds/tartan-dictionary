@@ -2,7 +2,7 @@
 title: "Royal Highland Society (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BRBKBKGY](/stripes/brbkbkgy/) · **Stripes:** [DT R DT K DT K DG LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DT R DT K DT K DG LY</span></span>
+**Bands:** [YGKBKBRB](/stripes/ygkbkbrb/) · **Stripes:** [LY DG K DT K DT R DT](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">LY DG K DT K DT R DT</span></span>
 
 
 This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/
 Original link http://www.tartansauthority.com/tartan-ferret/display/2054/
 
 ## Thread count
-DB/6 DR6 DB34 K6 DB6 K20 DG34 LG/8
+LG/8 DG34 K20 DB6 K6 DB34 DR6 DB/6
 ![Sett](sett.png)
 
 ## Palette
@@ -26,7 +26,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/6 DR6 DB34 K6 DB6 K20 DG34 LG/8 tartan")
+![Tartan detail](tartan.png "LG/8 DG34 K20 DB6 K6 DB34 DR6 DB/6 tartan")
 
 ## Nearest tartans
 
@@ -45,8 +45,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/lb4dg17k10dt3k3dt17r3dt3~x2/"><circle cx="188.5" cy="240.5" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/setts/s7/dt14k5dp5k5dt14dg32r4~x2/"><circle cx="252.5" cy="242.7" r="4" fill="#3465a4"><title>Bennachie (Whisky)</title></circle></a><a href="/setts/s7/dg3dt22dr10o5dg21r6dt3~x2/"><circle cx="217.1" cy="248.2" r="4" fill="#3465a4"><title>Swankie</title></circle></a><a href="/setts/s12/dt3r2dt13k9do3k2do14k2do3k9dt15lb3~x2/"><circle cx="222.7" cy="224.7" r="4" fill="#3465a4"><title>McWilliams Dress (2014)</title></circle></a><a href="/setts/s12/db4lo3db24k18dg24t3dg4lo3dg24k18db24t3~x2/"><circle cx="201.2" cy="225.9" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes, The</title></circle></a><a href="/setts/s10/dt13dg19k2dg7k2dg7k2db18r2dt13~x2/"><circle cx="234.7" cy="232.6" r="4" fill="#3465a4"><title>South Australia</title></circle></a><a href="/setts/s7/r5db8k5db24k24y24y5~x2/"><circle cx="154.1" cy="254.7" r="4" fill="#3465a4"><title>Heritage (Corporate)</title></circle></a><a href="/setts/s6/r4k15t4dt15dg24y4~x2/"><circle cx="157.3" cy="244.6" r="4" fill="#3465a4"><title>Haughfoot (Commemorative)</title></circle></a><a href="/setts/s9/dt20b3dt4r3dt3k10g21k4r20~x2/"><circle cx="157.1" cy="217.6" r="4" fill="#3465a4"><title>Holland &amp; Sherry (Corporate)</title></circle></a><a href="/setts/s6/db2k2db12k8dg11r2~x2/"><circle cx="217.2" cy="272.3" r="4" fill="#3465a4"><title>Murray #3</title></circle></a><circle cx="197.2" cy="244.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/lb4dg17k10dt3k3dt17r3dt3~x2/"><circle cx="188.7" cy="240.6" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/setts/s7/dt14k5dp5k5dt14dg32r4~x2/"><circle cx="252.6" cy="242.9" r="4" fill="#3465a4"><title>Bennachie (Whisky)</title></circle></a><a href="/setts/s7/dg3dt22dr10o5dg21r6dt3~x2/"><circle cx="217.3" cy="248.4" r="4" fill="#3465a4"><title>Swankie</title></circle></a><a href="/setts/s12/dt3r2dt13k9do3k2do14k2do3k9dt15lb3~x2/"><circle cx="222.8" cy="224.9" r="4" fill="#3465a4"><title>McWilliams Dress (2014)</title></circle></a><a href="/setts/s12/db4lo3db24k18dg24t3dg4lo3dg24k18db24t3~x2/"><circle cx="201.4" cy="226.1" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes, The</title></circle></a><a href="/setts/s10/dt13dg19k2dg7k2dg7k2db18r2dt13~x2/"><circle cx="234.9" cy="232.8" r="4" fill="#3465a4"><title>South Australia</title></circle></a><a href="/setts/s7/r5db8k5db24k24y24y5~x2/"><circle cx="154.4" cy="254.9" r="4" fill="#3465a4"><title>Heritage (Corporate)</title></circle></a><a href="/setts/s6/r4k15t4dt15dg24y4~x2/"><circle cx="157.6" cy="244.8" r="4" fill="#3465a4"><title>Haughfoot (Commemorative)</title></circle></a><a href="/setts/s9/dt20b3dt4r3dt3k10g21k4r20~x2/"><circle cx="157.2" cy="217.8" r="4" fill="#3465a4"><title>Holland &amp; Sherry (Corporate)</title></circle></a><a href="/setts/s6/db2k2db12k8dg11r2~x2/"><circle cx="217.4" cy="272.4" r="4" fill="#3465a4"><title>Murray #3</title></circle></a><circle cx="197.4" cy="245.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/ly4dg17k10dt3k3dt17r3dt3~x2/

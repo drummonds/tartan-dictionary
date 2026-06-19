@@ -2,12 +2,19 @@
 title: "MacPherson Dress Green (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [WRWGWGY](/stripes/wrwgwgy/) · **Stripes:** [W R W G W G LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W R W G W G LY</span></span>
+**Bands:** [YGWGWRW](/stripes/ygwgwrw/) · **Stripes:** [LY G W G W R W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY G W G W R W</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2718
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacPherson Dress, Green
+- MacPherson, dress green
 
 ## Attestations
 
@@ -320,6 +327,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +428,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +688,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -926,17 +936,17 @@ The nearest existing variants by ΔTartan distance.
 1. [MacPherson Dress Blue (Dance) #2](/setts/s7/w5r3w26g21w3g8ly3~x2/) — ΔT 0.92
 1. [MacDiarmid Dress](/setts/s9/w38r12w37g32k3w4k3g32r4~x2/) — ΔT 0.99
 1. [Uist, Green (Dance)](/setts/s7/g3r2g27dg3w30dg2w3~x2/) — ΔT 1.24
-1. [Fraser Yellow #2](/setts/s6/ly1db3ly1dg3ly8w1~x4/) — ΔT 1.24
+1. [Fraser Yellow #2](/setts/s6/w1ly8dg3ly1db3ly1~x4/) — ΔT 1.24
 1. [Tilburg Hunting (District)](/setts/s7/b6k3b37ly41w3ly6w3~x2/) — ΔT 1.37
-1. [O'Neill](/setts/s9/w2g1w2o6w10g6w2o1w2~x2/) — ΔT 1.38
-1. [Fraser, Yellow](/setts/s6/ly1db3ly1g3ly8w1~x4/) — ΔT 1.42
+1. [O'Neill](/setts/s9/w2o1w2g6w10o6w2g1w2~x2/) — ΔT 1.38
+1. [Fraser, Yellow](/setts/s6/w1ly8g3ly1db3ly1~x4/) — ΔT 1.42
 1. [Birnham, Blue (Dance)](/setts/s6/k3w25g16w3n25w3~x2/) — ΔT 1.43
 1. [Puffin (Personal)](/setts/s9/k4w1k1w9g1w1g1w1o4~x4/) — ΔT 1.45
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w38r12w37g32k3w4k3g32r4/"><circle cx="224.9" cy="162.2" r="4" fill="#3465a4"><title>MacDiarmid, dress</title></circle></a><a href="/setts/s7/w5r3w26g21w3g8ly3~x2/"><circle cx="263.3" cy="189.8" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance) #2</title></circle></a><a href="/setts/s9/w38r12w37g32k3w4k3g32r4~x2/"><circle cx="226.6" cy="162.4" r="4" fill="#3465a4"><title>MacDiarmid Dress</title></circle></a><a href="/setts/s7/g3r2g27dg3w30dg2w3~x2/"><circle cx="267.8" cy="145.2" r="4" fill="#3465a4"><title>Uist, Green (Dance)</title></circle></a><a href="/setts/s6/ly1db3ly1dg3ly8w1~x4/"><circle cx="272.7" cy="191.9" r="4" fill="#3465a4"><title>Fraser Yellow #2</title></circle></a><a href="/setts/s7/b6k3b37ly41w3ly6w3~x2/"><circle cx="288.4" cy="161.4" r="4" fill="#3465a4"><title>Tilburg Hunting (District)</title></circle></a><a href="/setts/s9/w2g1w2o6w10g6w2o1w2~x2/"><circle cx="286.9" cy="192.0" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/setts/s6/ly1db3ly1g3ly8w1~x4/"><circle cx="279.9" cy="194.0" r="4" fill="#3465a4"><title>Fraser, Yellow</title></circle></a><a href="/setts/s6/k3w25g16w3n25w3~x2/"><circle cx="180.8" cy="199.5" r="4" fill="#3465a4"><title>Birnham, Blue (Dance)</title></circle></a><a href="/setts/s9/k4w1k1w9g1w1g1w1o4~x4/"><circle cx="215.0" cy="147.0" r="4" fill="#3465a4"><title>Puffin (Personal)</title></circle></a><circle cx="246.2" cy="183.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w38r12w37g32k3w4k3g32r4/"><circle cx="224.6" cy="162.0" r="4" fill="#3465a4"><title>MacDiarmid, dress</title></circle></a><a href="/setts/s7/w5r3w26g21w3g8ly3~x2/"><circle cx="262.9" cy="189.6" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance) #2</title></circle></a><a href="/setts/s9/w38r12w37g32k3w4k3g32r4~x2/"><circle cx="226.3" cy="162.2" r="4" fill="#3465a4"><title>MacDiarmid Dress</title></circle></a><a href="/setts/s7/g3r2g27dg3w30dg2w3~x2/"><circle cx="267.4" cy="145.0" r="4" fill="#3465a4"><title>Uist, Green (Dance)</title></circle></a><a href="/setts/s6/w1ly8dg3ly1db3ly1~x4/"><circle cx="272.3" cy="191.6" r="4" fill="#3465a4"><title>Fraser Yellow #2</title></circle></a><a href="/setts/s7/b6k3b37ly41w3ly6w3~x2/"><circle cx="288.1" cy="161.3" r="4" fill="#3465a4"><title>Tilburg Hunting (District)</title></circle></a><a href="/setts/s9/w2o1w2g6w10o6w2g1w2~x2/"><circle cx="286.4" cy="191.7" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/setts/s6/w1ly8g3ly1db3ly1~x4/"><circle cx="279.4" cy="193.8" r="4" fill="#3465a4"><title>Fraser, Yellow</title></circle></a><a href="/setts/s6/k3w25g16w3n25w3~x2/"><circle cx="180.6" cy="199.4" r="4" fill="#3465a4"><title>Birnham, Blue (Dance)</title></circle></a><a href="/setts/s9/k4w1k1w9g1w1g1w1o4~x4/"><circle cx="214.6" cy="146.8" r="4" fill="#3465a4"><title>Puffin (Personal)</title></circle></a><circle cx="245.8" cy="183.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/w5r3w26g20w3g8ly3~x2/

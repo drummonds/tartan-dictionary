@@ -2,7 +2,7 @@
 title: "Gayre, hunting"
 date: 2023-03-18
 ---
-**Bands:** [BGKGBGKRGGGRK](/stripes/bgkgbgkrgggrk/) · **Stripes:** [DB G K Y DB Y K R G Y G R K](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">DB G K Y DB Y K R G Y G R K</span></span>
+**Bands:** [KRGGGRKGBGKGB](/stripes/krgggrkgbgkgb/) · **Stripes:** [K R G Y G R K Y DB Y K G DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">K R G Y G R K Y DB Y K G DB</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -905,19 +908,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Gayre Hunting Clan Tartan Tartan Number: 165. Earliest known date: 1963 Five versions of Gayre tartan are recorded. Hunting, Dress, Bodyguard, Arisaidh and the version recorded by Lord Lyon, the Clan sett. This can be found in the Public Register of All Arms and Bearings in Scotland. (1992) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/db16g4k4o22db5o22k3r5g4o4g4r4k4~x2/) — ΔT 0.51
 1. [Gayre Hunting](/setts/s13/db20g4k4o20db4o20k3r6g4o4g4r4k4~x2/) — ΔT 0.62
-1. [Tartan de Longueuil](/setts/s16/ly4db3ly2db2k1r1k1db7k1r1k1g10r1db3ly1db3~x2/) — ΔT 0.96
-1. [Thistle Dubh](/setts/s15/lp5n4lp3n6g3n2g3n2g2n10k15n20w3n3w5~x2/) — ΔT 0.99
+1. [Tartan de Longueuil](/setts/s16/ly4db3ly2db2k1r1k1db7k1r1k1g10r1db3ly1db3~x2/) — ΔT 0.97
+1. [Thistle Dubh](/setts/s15/w5n3w3n20k15n10g2n2g3n2g3n6lp3n4lp5~x2/) — ΔT 0.99
 1. [Callum Scotch House Trade Tartan Tartan Number: 1319. Earliest known date: pre 2003 Sett identical to Vestiarium Scoticum No 196 'Menzies' See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/dy4w2dy2w3dy20db6t3db2t2db2t16r3~x2/) — ΔT 1.04
-1. [MacCainsh](/setts/s11/ly2db8k1g2k1g4k1g2k1db8r2~x2/) — ΔT 1.05
+1. [MacCainsh](/setts/s11/r2db8k1g2k1g4k1g2k1db8ly2~x2/) — ΔT 1.05
 1. [Scottish Borders Tourist Board](/setts/s16/db24y4db3y4db24y6lb3y4r3y8lo3y8r3y4lb3y6~x2/) — ΔT 1.11
 1. [Perry Golf](/setts/s16/n4ly4dt7ly4n3ly22db8n8db8n8db8n8db8n8ly34r4~x2/) — ΔT 1.13
-1. [Ritchie](/setts/s13/lb3r6b6r6g16db6lb3db6r14lb2r3lb2r3~x2/) — ΔT 1.15
+1. [Ritchie](/setts/s13/r3lb2r3lb2r14db6lb3db6g16r6b6r6lb3~x2/) — ΔT 1.15
 1. [Cochrane (1974)](/setts/s13/dg22r4dg2r2dg2r4dg12k12r2db10r4db4ly3~x2/) — ΔT 1.16
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db16g4k4o22db5o22k3r5g4o4g4r4k4~x2/"><circle cx="199.7" cy="170.5" r="4" fill="#3465a4"><title>Gayre Hunting Clan Tartan Tartan Number: 165. Earliest known date: 1963 Five versions of Gayre tartan are recorded. Hunting, Dress, Bodyguard, Arisaidh and the version recorded by Lord Lyon, the Clan sett. This can be found in the Public Register of All Arms and Bearings in Scotland. (1992) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/db20g4k4o20db4o20k3r6g4o4g4r4k4~x2/"><circle cx="164.0" cy="171.0" r="4" fill="#3465a4"><title>Gayre Hunting</title></circle></a><a href="/setts/s16/ly4db3ly2db2k1r1k1db7k1r1k1g10r1db3ly1db3~x2/"><circle cx="162.2" cy="136.6" r="4" fill="#3465a4"><title>Tartan de Longueuil</title></circle></a><a href="/setts/s15/lp5n4lp3n6g3n2g3n2g2n10k15n20w3n3w5~x2/"><circle cx="230.0" cy="144.9" r="4" fill="#3465a4"><title>Thistle Dubh</title></circle></a><a href="/setts/s12/dy4w2dy2w3dy20db6t3db2t2db2t16r3~x2/"><circle cx="197.2" cy="147.4" r="4" fill="#3465a4"><title>Callum Scotch House Trade Tartan Tartan Number: 1319. Earliest known date: pre 2003 Sett identical to Vestiarium Scoticum No 196 'Menzies' See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/ly2db8k1g2k1g4k1g2k1db8r2~x2/"><circle cx="199.6" cy="171.9" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/setts/s16/db24y4db3y4db24y6lb3y4r3y8lo3y8r3y4lb3y6~x2/"><circle cx="233.6" cy="159.3" r="4" fill="#3465a4"><title>Scottish Borders Tourist Board</title></circle></a><a href="/setts/s16/n4ly4dt7ly4n3ly22db8n8db8n8db8n8db8n8ly34r4~x2/"><circle cx="194.5" cy="144.5" r="4" fill="#3465a4"><title>Perry Golf</title></circle></a><a href="/setts/s13/lb3r6b6r6g16db6lb3db6r14lb2r3lb2r3~x2/"><circle cx="148.4" cy="169.3" r="4" fill="#3465a4"><title>Ritchie</title></circle></a><a href="/setts/s13/dg22r4dg2r2dg2r4dg12k12r2db10r4db4ly3~x2/"><circle cx="209.2" cy="158.7" r="4" fill="#3465a4"><title>Cochrane (1974)</title></circle></a><circle cx="187.0" cy="165.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db16g4k4o22db5o22k3r5g4o4g4r4k4~x2/"><circle cx="199.5" cy="170.5" r="4" fill="#3465a4"><title>Gayre Hunting Clan Tartan Tartan Number: 165. Earliest known date: 1963 Five versions of Gayre tartan are recorded. Hunting, Dress, Bodyguard, Arisaidh and the version recorded by Lord Lyon, the Clan sett. This can be found in the Public Register of All Arms and Bearings in Scotland. (1992) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/db20g4k4o20db4o20k3r6g4o4g4r4k4~x2/"><circle cx="164.0" cy="171.1" r="4" fill="#3465a4"><title>Gayre Hunting</title></circle></a><a href="/setts/s16/ly4db3ly2db2k1r1k1db7k1r1k1g10r1db3ly1db3~x2/"><circle cx="162.1" cy="136.6" r="4" fill="#3465a4"><title>Tartan de Longueuil</title></circle></a><a href="/setts/s15/w5n3w3n20k15n10g2n2g3n2g3n6lp3n4lp5~x2/"><circle cx="229.9" cy="144.8" r="4" fill="#3465a4"><title>Thistle Dubh</title></circle></a><a href="/setts/s12/dy4w2dy2w3dy20db6t3db2t2db2t16r3~x2/"><circle cx="197.0" cy="147.4" r="4" fill="#3465a4"><title>Callum Scotch House Trade Tartan Tartan Number: 1319. Earliest known date: pre 2003 Sett identical to Vestiarium Scoticum No 196 'Menzies' See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r2db8k1g2k1g4k1g2k1db8ly2~x2/"><circle cx="199.6" cy="171.9" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/setts/s16/db24y4db3y4db24y6lb3y4r3y8lo3y8r3y4lb3y6~x2/"><circle cx="233.5" cy="159.3" r="4" fill="#3465a4"><title>Scottish Borders Tourist Board</title></circle></a><a href="/setts/s16/n4ly4dt7ly4n3ly22db8n8db8n8db8n8db8n8ly34r4~x2/"><circle cx="194.4" cy="144.6" r="4" fill="#3465a4"><title>Perry Golf</title></circle></a><a href="/setts/s13/r3lb2r3lb2r14db6lb3db6g16r6b6r6lb3~x2/"><circle cx="148.3" cy="169.3" r="4" fill="#3465a4"><title>Ritchie</title></circle></a><a href="/setts/s13/dg22r4dg2r2dg2r4dg12k12r2db10r4db4ly3~x2/"><circle cx="209.1" cy="158.7" r="4" fill="#3465a4"><title>Cochrane (1974)</title></circle></a><circle cx="186.9" cy="165.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db16g4k4y22db5y22k3r5g4y4g4r4k4~x2/

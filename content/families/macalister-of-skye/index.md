@@ -8,5 +8,5 @@ A family of [Clan MacAlister](/clan/macalister/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s9/lo4k1lo1k30lb1r26lo1k5r4~x2/"><img src="/setts/s9/lo4k1lo1k30lb1r26lo1k5r4~x2/sett.png" alt="MacAlister of Skye" width="240"><br>MacAlister of Skye</a>
+<a class="tartan" href="/setts/s9/r4k5lo1r26lb1k30lo1k1lo4~x2/"><img src="/setts/s9/r4k5lo1r26lb1k30lo1k1lo4~x2/sett.png" alt="MacAlister of Skye" width="240"><br>MacAlister of Skye</a>
 

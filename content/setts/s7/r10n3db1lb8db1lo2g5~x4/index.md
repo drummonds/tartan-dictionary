@@ -2,7 +2,7 @@
 title: "Porcupine City of"
 date: 2023-03-18
 ---
-**Bands:** [GYBWBBR](/stripes/gybwbbr/) · **Stripes:** [G LO DB LB DB N R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="seq">G LO DB LB DB N R</span></span>
+**Bands:** [RBBWBYG](/stripes/rbbwbyg/) · **Stripes:** [R N DB LB DB LO G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R N DB LB DB LO G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5493
 
 ## Thread count
-G/20 DY8 DB4 Na32 DB4 N12 R/40
+R/40 N12 DB4 Na32 DB4 DY8 G/20
 ![Sett](sett.png)
 
 ## Palette
@@ -41,7 +41,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/20 DY8 DB4 Na32 DB4 N12 R/40 tartan")
+![Tartan detail](tartan.png "R/40 N12 DB4 Na32 DB4 DY8 G/20 tartan")
 
 ## Nearest tartans
 
@@ -60,8 +60,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w6g10r22db16g2g4g5~x2/"><circle cx="105.7" cy="161.1" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><a href="/setts/s9/t4dy27lr8k4lr8k4lr8r11ly3~x2/"><circle cx="119.6" cy="150.4" r="4" fill="#3465a4"><title>Brittany Hunting French Fancy Tartan Tartan Number: 5977. Earliest known date: 2003 For Richard and Anne-Marie Duclos of Le Coudray-Montceaux, France. Based on the Breton National at 3902. The term Randonnée (Walking) is used in the sense of the Scottish category, Hunting. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/r22t6db10ly4r4w4g22db8ly3/"><circle cx="89.7" cy="163.6" r="4" fill="#3465a4"><title>Unnamed No 14</title></circle></a><a href="/setts/s9/r22t6db10ly4r4w4dg22db8ly3/"><circle cx="87.9" cy="161.2" r="4" fill="#3465a4"><title>Unidentified No 14</title></circle></a><a href="/setts/s9/w6t36lo12g19g6r6g6r28g4/"><circle cx="96.4" cy="161.7" r="4" fill="#3465a4"><title>Derry Family (Personal)</title></circle></a><a href="/setts/s6/lo13b8r5k3w2g1~x4/"><circle cx="151.2" cy="151.4" r="4" fill="#3465a4"><title>Ball</title></circle></a><a href="/setts/s7/t4p3g1g9w1r8k1~x4/"><circle cx="97.5" cy="149.9" r="4" fill="#3465a4"><title>Wilson's, No 121</title></circle></a><a href="/setts/s7/w3g24r13g4lo11r8db2~x2/"><circle cx="162.8" cy="166.1" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/setts/s7/dy17o5db2w12db2ly4g7~x2/"><circle cx="87.8" cy="166.3" r="4" fill="#3465a4"><title>Ontario Northern Canadian District Tartan Tartan Number: 956. Earliest known date: 1967 The six colours represent the nickel bearing rocks (grey), the snow (white), the sky and the lakes (blue), gold, the forests and fields (green), and the Indian Nation (red brown). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/o17y5db2w12db2ly4g7~x2/"><circle cx="105.2" cy="173.7" r="4" fill="#3465a4"><title>Ontario, Northern</title></circle></a><circle cx="116.6" cy="163.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w6g10r22db16g2g4g5~x2/"><circle cx="105.7" cy="161.2" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><a href="/setts/s9/t4dy27lr8k4lr8k4lr8r11ly3~x2/"><circle cx="119.5" cy="150.5" r="4" fill="#3465a4"><title>Brittany Hunting French Fancy Tartan Tartan Number: 5977. Earliest known date: 2003 For Richard and Anne-Marie Duclos of Le Coudray-Montceaux, France. Based on the Breton National at 3902. The term Randonnée (Walking) is used in the sense of the Scottish category, Hunting. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/r22t6db10ly4r4w4g22db8ly3/"><circle cx="89.6" cy="163.7" r="4" fill="#3465a4"><title>Unnamed No 14</title></circle></a><a href="/setts/s9/r22t6db10ly4r4w4dg22db8ly3/"><circle cx="87.8" cy="161.3" r="4" fill="#3465a4"><title>Unidentified No 14</title></circle></a><a href="/setts/s9/w6t36lo12g19g6r6g6r28g4/"><circle cx="96.3" cy="161.8" r="4" fill="#3465a4"><title>Derry Family (Personal)</title></circle></a><a href="/setts/s6/lo13b8r5k3w2g1~x4/"><circle cx="151.1" cy="151.4" r="4" fill="#3465a4"><title>Ball</title></circle></a><a href="/setts/s7/t4p3g1g9w1r8k1~x4/"><circle cx="97.4" cy="150.0" r="4" fill="#3465a4"><title>Wilson's, No 121</title></circle></a><a href="/setts/s7/w3g24r13g4lo11r8db2~x2/"><circle cx="162.6" cy="166.2" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/setts/s7/dy17o5db2w12db2ly4g7~x2/"><circle cx="87.7" cy="166.4" r="4" fill="#3465a4"><title>Ontario Northern Canadian District Tartan Tartan Number: 956. Earliest known date: 1967 The six colours represent the nickel bearing rocks (grey), the snow (white), the sky and the lakes (blue), gold, the forests and fields (green), and the Indian Nation (red brown). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/o17y5db2w12db2ly4g7~x2/"><circle cx="105.1" cy="173.8" r="4" fill="#3465a4"><title>Ontario, Northern</title></circle></a><circle cx="116.5" cy="163.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r10n3db1lb8db1lo2g5~x4/

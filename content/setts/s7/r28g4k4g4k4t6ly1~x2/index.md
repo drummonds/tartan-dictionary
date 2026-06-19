@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Livingstone, MacLay MacLeay
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,19 +925,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Livingstone MacLay MacLeay](/setts/s7/r28dg4k4dg4k4t6ly1~x2/) — ΔT 0.67
 1. [MacLeay (Clan)](/setts/s7/r27g4k4g4k4db6lo1~x4/) — ΔT 0.86
-1. [Chisholm VS](/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1~x2/) — ΔT 0.99
+1. [Chisholm VS](/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1/) — ΔT 0.99
 1. [Aberdeen Football Club (1999)](/setts/s8/r5k1r2k4r36k23w4ly2~x2/) — ΔT 1.04
 1. [Mensah](/setts/s8/ly3g9db9k1ly2k15r37g2~x2/) — ΔT 1.05
 1. [Unidentified Plaid 10](/setts/s10/w8r100k42g42r5k3r5t42r100w8/) — ΔT 1.05
 1. [MacLeay](/setts/s7/r27y4k4y4k4t6lo1~x4/) — ΔT 1.06
-1. [Bro-Zol](/setts/s10/db3w5r25db1g3db1r8k2w9k3~x2/) — ΔT 1.07
-1. [Drummond of Perth](/setts/s8/r36lb1db3ly1dg16r8db3lb5~x2/) — ΔT 1.12
+1. [Bro-Zol](/setts/s10/k3w9k2r8db1g3db1r25w5db3~x2/) — ΔT 1.07
+1. [Drummond of Perth](/setts/s8/r36lb1db3ly1dg16r8db3lb5/) — ΔT 1.12
 1. [MacGleish Formal (Personal)](/setts/s5/r50k25g10o5ly2~x2/) — ΔT 1.12
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r28dg4k4dg4k4t6ly1~x2/"><circle cx="325.4" cy="110.2" r="4" fill="#3465a4"><title>Livingstone MacLay MacLeay</title></circle></a><a href="/setts/s7/r27g4k4g4k4db6lo1~x4/"><circle cx="326.2" cy="120.6" r="4" fill="#3465a4"><title>MacLeay (Clan)</title></circle></a><a href="/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1~x2/"><circle cx="331.9" cy="102.8" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/setts/s8/r5k1r2k4r36k23w4ly2~x2/"><circle cx="316.9" cy="87.9" r="4" fill="#3465a4"><title>Aberdeen Football Club (1999)</title></circle></a><a href="/setts/s8/ly3g9db9k1ly2k15r37g2~x2/"><circle cx="280.7" cy="97.3" r="4" fill="#3465a4"><title>Mensah</title></circle></a><a href="/setts/s10/w8r100k42g42r5k3r5t42r100w8/"><circle cx="325.9" cy="95.2" r="4" fill="#3465a4"><title>Unidentified Plaid 10</title></circle></a><a href="/setts/s7/r27y4k4y4k4t6lo1~x4/"><circle cx="325.8" cy="116.9" r="4" fill="#3465a4"><title>MacLeay</title></circle></a><a href="/setts/s10/db3w5r25db1g3db1r8k2w9k3~x2/"><circle cx="293.2" cy="94.8" r="4" fill="#3465a4"><title>Bro-Zol</title></circle></a><a href="/setts/s8/r36lb1db3ly1dg16r8db3lb5~x2/"><circle cx="373.5" cy="93.7" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s5/r50k25g10o5ly2~x2/"><circle cx="322.5" cy="146.4" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><circle cx="310.3" cy="107.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r28dg4k4dg4k4t6ly1~x2/"><circle cx="325.1" cy="110.2" r="4" fill="#3465a4"><title>Livingstone MacLay MacLeay</title></circle></a><a href="/setts/s7/r27g4k4g4k4db6lo1~x4/"><circle cx="325.9" cy="120.6" r="4" fill="#3465a4"><title>MacLeay (Clan)</title></circle></a><a href="/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1/"><circle cx="331.5" cy="102.7" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/setts/s8/r5k1r2k4r36k23w4ly2~x2/"><circle cx="316.6" cy="87.8" r="4" fill="#3465a4"><title>Aberdeen Football Club (1999)</title></circle></a><a href="/setts/s8/ly3g9db9k1ly2k15r37g2~x2/"><circle cx="280.4" cy="97.3" r="4" fill="#3465a4"><title>Mensah</title></circle></a><a href="/setts/s10/w8r100k42g42r5k3r5t42r100w8/"><circle cx="325.6" cy="95.1" r="4" fill="#3465a4"><title>Unidentified Plaid 10</title></circle></a><a href="/setts/s7/r27y4k4y4k4t6lo1~x4/"><circle cx="325.4" cy="116.8" r="4" fill="#3465a4"><title>MacLeay</title></circle></a><a href="/setts/s10/k3w9k2r8db1g3db1r25w5db3~x2/"><circle cx="292.9" cy="94.7" r="4" fill="#3465a4"><title>Bro-Zol</title></circle></a><a href="/setts/s8/r36lb1db3ly1dg16r8db3lb5/"><circle cx="373.1" cy="93.6" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s5/r50k25g10o5ly2~x2/"><circle cx="322.3" cy="146.3" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><circle cx="310.0" cy="107.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r28g4k4g4k4t6ly1~x2/

@@ -2,12 +2,19 @@
 title: "MacAlpine D (a)"
 date: 2023-03-18
 ---
-**Bands:** [GKYBGBGKGKGKYK](/stripes/gkybgbgkgkgkyk/) · **Stripes:** [DG K LY DB DG DB DG K DG K DG K LR K](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="seq">DG K LY DB DG DB DG K DG K DG K LR K</span></span>
+**Bands:** [KYKGKGKGBGBYKG](/stripes/kykgkgkgbgbykg/) · **Stripes:** [K LR K DG K DG K DG DB DG DB LY K DG](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K LR K DG K DG K DG DB DG DB LY K DG</span></span>
 
 
 This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — MacAlpine D (a) (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — MacAlpine D (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Register references
 
@@ -52,15 +59,8 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
 
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [MacAlpine D](/setts/s14/k4lr1k4dg1k1dg6k1dg6db1dg1db4ly1k4dg1/)
-
-
 ## Thread count
-DG/2 K8 LG2 DB8 DG2 DB2 DG12 K2 DG12 K2 DG2 K8 N2 K/8
+K/8 N2 K8 DG2 K2 DG12 K2 DG12 DB2 DG2 DB8 LG2 K8 DG/2
 ![Sett](sett.png)
 
 ## Palette
@@ -78,21 +78,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [MacAlpine D](/setts/s14/k4lr1k4dg1k1dg6k1dg6db1dg1db4ly1k4dg1/) — ΔT 0.00
-1. [MacAlpine D](/setts/s14/k4lb1k4dg1k1dg6k1dg6db1dg1db4ly1k4dg1/) — ΔT 0.56
+1. [MacAlpine D](/setts/s14/k4lb1k4dg1k1dg6k1dg6db1dg1db4ly1k4dg1~x2/) — ΔT 0.56
 1. [Polaris (Military)](/setts/s17/k6k1k1k1k1k7g6lo1k1db1k1lo1g6k7k7k1k1~x4/) — ΔT 0.95
 1. [Cumbernauld](/setts/s15/k17k3k3k3k3k17g17k2w3k2g17k17k17k3r3~x2/) — ΔT 1.02
 1. [Farquharson](/setts/s14/r2db4k1db1k1db1k8dg8ly2dg8k8db8k1r2~x2/) — ΔT 1.13
 1. [Scotland's National (Fashion)](/setts/s15/dt12w2dt2r2dt2k10g12k2g4k2g12k10dt12k2r3~x2/) — ΔT 1.13
-1. [Campbell of Loudoun (Clan)](/setts/s13/ly1k1g7k8db7k1db2k1db7k8g7k1w1~x4/) — ΔT 1.14
+1. [Campbell of Loudoun (Clan)](/setts/s13/w1k1g7k8db7k1db2k1db7k8g7k1ly1~x4/) — ΔT 1.14
 1. [Farquharson](/setts/s14/r2db4k1db1k1db1k8dg8ly2dg8k8db8k1r2/) — ΔT 1.18
 1. [Thormanby Buccaneer Bay](/setts/s16/dg17k2dg2k2dg2k15db15r7db15k15dg2k2dg2k2dg17lo2~x2/) — ΔT 1.19
 1. [Skene N](/setts/s12/k4db24k4r3k4dg24k4ly3k4dg24r3k4/) — ΔT 1.21
+1. [Gordon](/setts/s13/db12k2db2k2db2k12dg12ly2dg12k12db11k2db2/) — ΔT 1.25
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k4lr1k4dg1k1dg6k1dg6db1dg1db4ly1k4dg1/"><circle cx="166.3" cy="201.4" r="4" fill="#3465a4"><title>MacAlpine D</title></circle></a><a href="/setts/s14/k4lb1k4dg1k1dg6k1dg6db1dg1db4ly1k4dg1/"><circle cx="150.6" cy="194.0" r="4" fill="#3465a4"><title>MacAlpine D</title></circle></a><a href="/setts/s17/k6k1k1k1k1k7g6lo1k1db1k1lo1g6k7k7k1k1~x4/"><circle cx="163.4" cy="176.3" r="4" fill="#3465a4"><title>Polaris (Military)</title></circle></a><a href="/setts/s15/k17k3k3k3k3k17g17k2w3k2g17k17k17k3r3~x2/"><circle cx="137.4" cy="169.2" r="4" fill="#3465a4"><title>Cumbernauld</title></circle></a><a href="/setts/s14/r2db4k1db1k1db1k8dg8ly2dg8k8db8k1r2~x2/"><circle cx="136.0" cy="183.5" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/setts/s15/dt12w2dt2r2dt2k10g12k2g4k2g12k10dt12k2r3~x2/"><circle cx="111.7" cy="192.4" r="4" fill="#3465a4"><title>Scotland's National (Fashion)</title></circle></a><a href="/setts/s13/ly1k1g7k8db7k1db2k1db7k8g7k1w1~x4/"><circle cx="141.0" cy="178.0" r="4" fill="#3465a4"><title>Campbell of Loudoun (Clan)</title></circle></a><a href="/setts/s14/r2db4k1db1k1db1k8dg8ly2dg8k8db8k1r2/"><circle cx="121.5" cy="175.4" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/setts/s16/dg17k2dg2k2dg2k15db15r7db15k15dg2k2dg2k2dg17lo2~x2/"><circle cx="153.4" cy="168.3" r="4" fill="#3465a4"><title>Thormanby Buccaneer Bay</title></circle></a><a href="/setts/s12/k4db24k4r3k4dg24k4ly3k4dg24r3k4/"><circle cx="196.4" cy="170.0" r="4" fill="#3465a4"><title>Skene N</title></circle></a><circle cx="166.3" cy="201.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k4lb1k4dg1k1dg6k1dg6db1dg1db4ly1k4dg1~x2/"><circle cx="150.8" cy="194.0" r="4" fill="#3465a4"><title>MacAlpine D</title></circle></a><a href="/setts/s17/k6k1k1k1k1k7g6lo1k1db1k1lo1g6k7k7k1k1~x4/"><circle cx="163.6" cy="176.5" r="4" fill="#3465a4"><title>Polaris (Military)</title></circle></a><a href="/setts/s15/k17k3k3k3k3k17g17k2w3k2g17k17k17k3r3~x2/"><circle cx="137.7" cy="169.3" r="4" fill="#3465a4"><title>Cumbernauld</title></circle></a><a href="/setts/s14/r2db4k1db1k1db1k8dg8ly2dg8k8db8k1r2~x2/"><circle cx="136.3" cy="183.6" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/setts/s15/dt12w2dt2r2dt2k10g12k2g4k2g12k10dt12k2r3~x2/"><circle cx="111.9" cy="192.5" r="4" fill="#3465a4"><title>Scotland's National (Fashion)</title></circle></a><a href="/setts/s13/w1k1g7k8db7k1db2k1db7k8g7k1ly1~x4/"><circle cx="141.3" cy="178.1" r="4" fill="#3465a4"><title>Campbell of Loudoun (Clan)</title></circle></a><a href="/setts/s14/r2db4k1db1k1db1k8dg8ly2dg8k8db8k1r2/"><circle cx="121.8" cy="175.5" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/setts/s16/dg17k2dg2k2dg2k15db15r7db15k15dg2k2dg2k2dg17lo2~x2/"><circle cx="153.6" cy="168.4" r="4" fill="#3465a4"><title>Thormanby Buccaneer Bay</title></circle></a><a href="/setts/s12/k4db24k4r3k4dg24k4ly3k4dg24r3k4/"><circle cx="196.5" cy="170.0" r="4" fill="#3465a4"><title>Skene N</title></circle></a><a href="/setts/s13/db12k2db2k2db2k12dg12ly2dg12k12db11k2db2/"><circle cx="164.5" cy="224.7" r="4" fill="#3465a4"><title>Gordon</title></circle></a><circle cx="166.6" cy="201.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/k4lr1k4dg1k1dg6k1dg6db1dg1db4ly1k4dg1~x2/

@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4455
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Victoria,Yellow
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -319,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -918,15 +927,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Baxter Clan Tartan Tartan Number: 175. Earliest known date: 1856 A discription of this sett is given in The Baronage of Angus and Mearns (1856). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/w2r16k1t2k1ly43k1t2k1g16t1~x2/) — ΔT 1.30
 1. [Chattan Chief Clan Tartan Tartan Number: 1851. Earliest known date: 1816 Also known as Finzean's fancy. The record of the Lord Lyon states, 'Note - this tartan is specifically for the Chief of Clan Chattan and his immediate family.' Logan descibed this sett (without the chiefs extra white line) thus: 'The Chief also wears a particular tartan of a very showy pattern.' It is illustrated by Smith in 1850. Chief of the Clan Mackintosh Sir Aeneas Mackintosh of that Ilk, acknowledged this sett as the Clan tartan in 1816. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s17/w4ly12r8k8t32w4ly7r7k2r7ly7w4g32w2k4r60w2/) — ΔT 1.34
 1. [Unidentified 9](/setts/s14/r35ly7w1dg3w1ly7dg19w2g17r12g5r5r5g2~x2/) — ΔT 1.45
-1. [Allandale Red Dress Tartan Tartan Number: 8457. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/g3r2g1r9o2k3r5g17w40k1w2k3~x2/) — ΔT 1.45
+1. [Allandale Red Dress Tartan Tartan Number: 8457. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/k3w2k1w40g17r5k3o2r9g1r2g3~x2/) — ΔT 1.45
 1. [MacGill](/setts/s13/r28g10k7w2ly2r1ly2w2db5k2r2ly2w3~x4/) — ΔT 1.50
 1. [Elystan Glodrydd (Welsh Tribe)](/setts/s9/w2g27ly1lo7b5ly5r17ly6b1~x2/) — ΔT 1.51
-1. [Stewart dress](/setts/s15/w20r4w4r7w132k26db26ly6db6w9g83r30k5r7w4/) — ΔT 1.51
+1. [Puccini (Fashion)](/setts/s16/r6lb1r1k15r1lb2k1lo5lb25r5k1r5k1lb5k1r5~x2/) — ΔT 1.51
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/w4ly10r8k7y28w3ly6r5k2r5ly6w3g30w2k3r50w2~x2/"><circle cx="170.7" cy="47.0" r="4" fill="#3465a4"><title>Chattan</title></circle></a><a href="/setts/s17/w4ly12r8k8t32w4ly7r7k2r7ly7w4g32w2k4r60w2~x2/"><circle cx="186.9" cy="40.6" r="4" fill="#3465a4"><title>Chattan, Chief of Clan</title></circle></a><a href="/setts/s17/w4ly12r8k8t32w4ly7r7k2r7ly7w4g32w2k8r60w2/"><circle cx="172.3" cy="40.4" r="4" fill="#3465a4"><title>Chattan, Chief</title></circle></a><a href="/setts/s11/w2r16k1t2k1ly43k1t2k1g16t1~x2/"><circle cx="281.6" cy="33.3" r="4" fill="#3465a4"><title>Baxter Clan Tartan Tartan Number: 175. Earliest known date: 1856 A discription of this sett is given in The Baronage of Angus and Mearns (1856). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/w4ly12r8k8t32w4ly7r7k2r7ly7w4g32w2k4r60w2/"><circle cx="191.9" cy="43.4" r="4" fill="#3465a4"><title>Chattan Chief Clan Tartan Tartan Number: 1851. Earliest known date: 1816 Also known as Finzean's fancy. The record of the Lord Lyon states, 'Note - this tartan is specifically for the Chief of Clan Chattan and his immediate family.' Logan descibed this sett (without the chiefs extra white line) thus: 'The Chief also wears a particular tartan of a very showy pattern.' It is illustrated by Smith in 1850. Chief of the Clan Mackintosh Sir Aeneas Mackintosh of that Ilk, acknowledged this sett as the Clan tartan in 1816. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r35ly7w1dg3w1ly7dg19w2g17r12g5r5r5g2~x2/"><circle cx="214.3" cy="64.2" r="4" fill="#3465a4"><title>Unidentified 9</title></circle></a><a href="/setts/s12/g3r2g1r9o2k3r5g17w40k1w2k3~x2/"><circle cx="241.5" cy="30.4" r="4" fill="#3465a4"><title>Allandale Red Dress Tartan Tartan Number: 8457. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/r28g10k7w2ly2r1ly2w2db5k2r2ly2w3~x4/"><circle cx="220.1" cy="49.5" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/setts/s9/w2g27ly1lo7b5ly5r17ly6b1~x2/"><circle cx="170.3" cy="86.4" r="4" fill="#3465a4"><title>Elystan Glodrydd (Welsh Tribe)</title></circle></a><a href="/setts/s15/w20r4w4r7w132k26db26ly6db6w9g83r30k5r7w4/"><circle cx="204.8" cy="30.2" r="4" fill="#3465a4"><title>Stewart dress</title></circle></a><circle cx="210.8" cy="37.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/w4ly10r8k7y28w3ly6r5k2r5ly6w3g30w2k3r50w2~x2/"><circle cx="170.4" cy="47.1" r="4" fill="#3465a4"><title>Chattan</title></circle></a><a href="/setts/s17/w4ly12r8k8t32w4ly7r7k2r7ly7w4g32w2k4r60w2~x2/"><circle cx="186.5" cy="40.7" r="4" fill="#3465a4"><title>Chattan, Chief of Clan</title></circle></a><a href="/setts/s17/w4ly12r8k8t32w4ly7r7k2r7ly7w4g32w2k8r60w2/"><circle cx="171.9" cy="40.5" r="4" fill="#3465a4"><title>Chattan, Chief</title></circle></a><a href="/setts/s11/w2r16k1t2k1ly43k1t2k1g16t1~x2/"><circle cx="281.0" cy="33.3" r="4" fill="#3465a4"><title>Baxter Clan Tartan Tartan Number: 175. Earliest known date: 1856 A discription of this sett is given in The Baronage of Angus and Mearns (1856). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/w4ly12r8k8t32w4ly7r7k2r7ly7w4g32w2k4r60w2/"><circle cx="191.5" cy="43.5" r="4" fill="#3465a4"><title>Chattan Chief Clan Tartan Tartan Number: 1851. Earliest known date: 1816 Also known as Finzean's fancy. The record of the Lord Lyon states, 'Note - this tartan is specifically for the Chief of Clan Chattan and his immediate family.' Logan descibed this sett (without the chiefs extra white line) thus: 'The Chief also wears a particular tartan of a very showy pattern.' It is illustrated by Smith in 1850. Chief of the Clan Mackintosh Sir Aeneas Mackintosh of that Ilk, acknowledged this sett as the Clan tartan in 1816. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r35ly7w1dg3w1ly7dg19w2g17r12g5r5r5g2~x2/"><circle cx="213.9" cy="64.2" r="4" fill="#3465a4"><title>Unidentified 9</title></circle></a><a href="/setts/s12/k3w2k1w40g17r5k3o2r9g1r2g3~x2/"><circle cx="241.1" cy="30.4" r="4" fill="#3465a4"><title>Allandale Red Dress Tartan Tartan Number: 8457. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/r28g10k7w2ly2r1ly2w2db5k2r2ly2w3~x4/"><circle cx="219.8" cy="49.6" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/setts/s9/w2g27ly1lo7b5ly5r17ly6b1~x2/"><circle cx="169.9" cy="86.4" r="4" fill="#3465a4"><title>Elystan Glodrydd (Welsh Tribe)</title></circle></a><a href="/setts/s16/r6lb1r1k15r1lb2k1lo5lb25r5k1r5k1lb5k1r5~x2/"><circle cx="173.3" cy="41.6" r="4" fill="#3465a4"><title>Puccini (Fashion)</title></circle></a><circle cx="210.4" cy="37.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/r6ly60db12ly6k12ly2k2w2k2g18r18k3r4w2~x2/

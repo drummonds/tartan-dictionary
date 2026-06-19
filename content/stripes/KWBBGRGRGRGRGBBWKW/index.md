@@ -22,6 +22,6 @@ KWBBGRGRGRGRGBBWKW
 
 | Tartans |
 |---------------|
-| [Scotland the Brave Dress (Dance)](/setts/s18/w3k1w20dp1db6g6m3g1m1g2m1g1m3g6db6dp1w20k1~x4/)|
-|![Scotland the Brave Dress (Dance) example sett](/setts/s18/w3k1w20dp1db6g6m3g1m1g2m1g1m3g6db6dp1w20k1~x4/sett.png)|
+| [Scotland the Brave Dress (Dance)](/setts/s18/w3k1w20dp1db6g6m3g1m1g2~x4/)|
+|![Scotland the Brave Dress (Dance) example sett](/setts/s18/w3k1w20dp1db6g6m3g1m1g2~x4/sett.png)|
 

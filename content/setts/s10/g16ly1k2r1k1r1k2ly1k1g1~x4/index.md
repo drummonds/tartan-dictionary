@@ -17,7 +17,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-G/4 K4 Y4 K8 R4 K4 R4 K8 Y4 G/64
+G/64 Y4 K8 R4 K4 R4 K8 Y4 K4 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -43,12 +43,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Birmingham Irish Pipes & Drums](/setts/s8/dg48lo3k6w4dg3k15lo3dg4~x2/) — ΔT 1.32
 1. [Scotts Valley](/setts/s9/dg20r1ly1r1lb1dg1r1lb1db5~x4/) — ΔT 1.33
 1. [Smeaton Hunting (Name)](/setts/s10/k6g4lb3g44k32g3k3lo3k2g3~x2/) — ΔT 1.33
-1. [Palmer, Arnold](/setts/s10/dg40r5k2w2k2ly3k2dg10r3k3~x2/) — ΔT 1.36
+1. [Palmer, Arnold](/setts/s10/dg40r5k2w2k2ly3k2dg10r3k3~x2/) — ΔT 1.35
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g30ly2k3r2k2r2k3ly2k2g4~x2/"><circle cx="401.5" cy="142.5" r="4" fill="#3465a4"><title>Forde</title></circle></a><a href="/setts/s10/k3dg32k2dg4ly4dg2ly4dg4k6w3~x2/"><circle cx="377.9" cy="145.6" r="4" fill="#3465a4"><title>University of Alberta (Corporate)</title></circle></a><a href="/setts/s10/g16y1k2r1k1r1k2y1k1g1~x4/"><circle cx="363.6" cy="127.2" r="4" fill="#3465a4"><title>Forde</title></circle></a><a href="/setts/s8/dg78dt13ly6r3ly5dg6dt9ly6~x2/"><circle cx="427.6" cy="136.8" r="4" fill="#3465a4"><title>Walterström (2014)</title></circle></a><a href="/setts/s8/g78db13ly6r3ly5g6db9ly6~x2/"><circle cx="425.1" cy="133.1" r="4" fill="#3465a4"><title>Walterstrm (2014))</title></circle></a><a href="/setts/s11/dg42k10lr2k2r2k2dg10r6k2r3dg2~x2/"><circle cx="416.3" cy="138.2" r="4" fill="#3465a4"><title>Dryfe</title></circle></a><a href="/setts/s8/dg48lo3k6w4dg3k15lo3dg4~x2/"><circle cx="367.8" cy="150.6" r="4" fill="#3465a4"><title>Birmingham Irish Pipes &amp; Drums</title></circle></a><a href="/setts/s9/dg20r1ly1r1lb1dg1r1lb1db5~x4/"><circle cx="403.3" cy="123.1" r="4" fill="#3465a4"><title>Scotts Valley</title></circle></a><a href="/setts/s10/k6g4lb3g44k32g3k3lo3k2g3~x2/"><circle cx="360.7" cy="146.0" r="4" fill="#3465a4"><title>Smeaton Hunting (Name)</title></circle></a><a href="/setts/s10/dg40r5k2w2k2ly3k2dg10r3k3~x2/"><circle cx="438.8" cy="127.7" r="4" fill="#3465a4"><title>Palmer, Arnold</title></circle></a><circle cx="389.7" cy="137.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g30ly2k3r2k2r2k3ly2k2g4~x2/"><circle cx="401.2" cy="142.3" r="4" fill="#3465a4"><title>Forde</title></circle></a><a href="/setts/s10/k3dg32k2dg4ly4dg2ly4dg4k6w3~x2/"><circle cx="377.7" cy="145.4" r="4" fill="#3465a4"><title>University of Alberta (Corporate)</title></circle></a><a href="/setts/s10/g16y1k2r1k1r1k2y1k1g1~x4/"><circle cx="363.3" cy="127.0" r="4" fill="#3465a4"><title>Forde</title></circle></a><a href="/setts/s8/dg78dt13ly6r3ly5dg6dt9ly6~x2/"><circle cx="427.4" cy="136.6" r="4" fill="#3465a4"><title>Walterström (2014)</title></circle></a><a href="/setts/s8/g78db13ly6r3ly5g6db9ly6~x2/"><circle cx="424.7" cy="132.9" r="4" fill="#3465a4"><title>Walterstrm (2014))</title></circle></a><a href="/setts/s11/dg42k10lr2k2r2k2dg10r6k2r3dg2~x2/"><circle cx="416.1" cy="138.0" r="4" fill="#3465a4"><title>Dryfe</title></circle></a><a href="/setts/s8/dg48lo3k6w4dg3k15lo3dg4~x2/"><circle cx="367.7" cy="150.3" r="4" fill="#3465a4"><title>Birmingham Irish Pipes &amp; Drums</title></circle></a><a href="/setts/s9/dg20r1ly1r1lb1dg1r1lb1db5~x4/"><circle cx="403.1" cy="122.9" r="4" fill="#3465a4"><title>Scotts Valley</title></circle></a><a href="/setts/s10/k6g4lb3g44k32g3k3lo3k2g3~x2/"><circle cx="360.5" cy="145.8" r="4" fill="#3465a4"><title>Smeaton Hunting (Name)</title></circle></a><a href="/setts/s10/dg40r5k2w2k2ly3k2dg10r3k3~x2/"><circle cx="438.4" cy="127.6" r="4" fill="#3465a4"><title>Palmer, Arnold</title></circle></a><circle cx="389.4" cy="136.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/g16ly1k2r1k1r1k2ly1k1g1~x4/

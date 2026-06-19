@@ -18,10 +18,10 @@ RGBGBGBRYRYR
 
 
 
-### R DY DB DY DB DY DB O LR O LR O <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R DY DB DY DB DY DB O LR O LR O</span></span>
+### O LR O LR O DB DY DB DY DB DY R <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="seq">O LR O LR O DB DY DB DY DB DY R</span></span>
 
 | Tartans |
 |---------------|
-| [Callum, Brown (Fashion)](/setts/s12/o3lr2o2lr3o20db6dy3db2dy2db2dy16r3~x2/)|
-|![Callum, Brown (Fashion) example sett](/setts/s12/o3lr2o2lr3o20db6dy3db2dy2db2dy16r3~x2/sett.png)|
+| [Callum, Brown (Fashion)](/setts/s12/r3dy16db2dy2db2dy3db6o20lr3o2lr2o3~x2/)|
+|![Callum, Brown (Fashion) example sett](/setts/s12/r3dy16db2dy2db2dy3db6o20lr3o2lr2o3~x2/sett.png)|
 

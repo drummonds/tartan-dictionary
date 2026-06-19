@@ -2,12 +2,18 @@
 title: "Tough (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BYKGKR](/stripes/bykgkr/) · **Stripes:** [N LY K DG K R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">N LY K DG K R</span></span>
+**Bands:** [RKGKYB](/stripes/rkgkyb/) · **Stripes:** [R K DG K LY N](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="seq">R K DG K LY N</span></span>
 
 
 This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2582/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Tough Personal
 
 ## Attestations
 
@@ -26,7 +32,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2582
 
 ## Thread count
-DR/4 K8 G64 K8 Y2 N/8
+N/8 Y2 K8 G64 K8 DR/4
 ![Sett](sett.png)
 
 ## Palette
@@ -42,7 +48,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/4 K8 G64 K8 Y2 N/8 tartan")
+![Tartan detail](tartan.png "N/8 Y2 K8 G64 K8 DR/4 tartan")
 
 ## Nearest tartans
 
@@ -61,8 +67,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/y5ly1k5dg46k5r3~x2/"><circle cx="482.9" cy="129.2" r="4" fill="#3465a4"><title>Touch</title></circle></a><a href="/setts/s7/r5k3r9dg56t4dg2w3/"><circle cx="471.1" cy="132.1" r="4" fill="#3465a4"><title>MTV</title></circle></a><a href="/setts/s7/dg40k3w1k5r1k2r10~x2/"><circle cx="421.5" cy="110.3" r="4" fill="#3465a4"><title>Aviemore Highland (Corporate)</title></circle></a><a href="/setts/s8/g10lo3w2k2g8k22g43lo4~x2/"><circle cx="383.4" cy="151.3" r="4" fill="#3465a4"><title>Celtic Pride</title></circle></a><a href="/setts/s6/db6w3r3g55k10r3~x4/"><circle cx="411.8" cy="150.4" r="4" fill="#3465a4"><title>Military Medical Memorial (USA)</title></circle></a><a href="/setts/s7/dr5k3dr9dg56t4dg2w3/"><circle cx="479.2" cy="138.6" r="4" fill="#3465a4"><title>MTV</title></circle></a><a href="/setts/s8/dg78dt13ly6r3ly5dg6dt9ly6~x2/"><circle cx="427.6" cy="136.8" r="4" fill="#3465a4"><title>Walterström (2014)</title></circle></a><a href="/setts/s5/k75g26lr2g4lo5~x2/"><circle cx="466.5" cy="166.9" r="4" fill="#3465a4"><title>Perry Hunting (Green) (Personal)</title></circle></a><a href="/setts/s5/dg60ly16m8t2o3~x2/"><circle cx="425.4" cy="151.8" r="4" fill="#3465a4"><title>Isle of Raasay</title></circle></a><a href="/setts/s7/k3g2k3g18r2db2lo1~x4/"><circle cx="379.6" cy="155.0" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><circle cx="442.5" cy="143.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/y5ly1k5dg46k5r3~x2/"><circle cx="482.8" cy="129.0" r="4" fill="#3465a4"><title>Touch</title></circle></a><a href="/setts/s7/r5k3r9dg56t4dg2w3/"><circle cx="470.9" cy="131.9" r="4" fill="#3465a4"><title>MTV</title></circle></a><a href="/setts/s7/dg40k3w1k5r1k2r10~x2/"><circle cx="421.2" cy="110.2" r="4" fill="#3465a4"><title>Aviemore Highland (Corporate)</title></circle></a><a href="/setts/s8/g10lo3w2k2g8k22g43lo4~x2/"><circle cx="383.2" cy="151.2" r="4" fill="#3465a4"><title>Celtic Pride</title></circle></a><a href="/setts/s6/db6w3r3g55k10r3~x4/"><circle cx="411.5" cy="150.2" r="4" fill="#3465a4"><title>Military Medical Memorial (USA)</title></circle></a><a href="/setts/s7/dr5k3dr9dg56t4dg2w3/"><circle cx="479.0" cy="138.5" r="4" fill="#3465a4"><title>MTV</title></circle></a><a href="/setts/s8/dg78dt13ly6r3ly5dg6dt9ly6~x2/"><circle cx="427.4" cy="136.6" r="4" fill="#3465a4"><title>Walterström (2014)</title></circle></a><a href="/setts/s5/k75g26lr2g4lo5~x2/"><circle cx="466.4" cy="166.7" r="4" fill="#3465a4"><title>Perry Hunting (Green) (Personal)</title></circle></a><a href="/setts/s5/dg60ly16m8t2o3~x2/"><circle cx="425.1" cy="151.6" r="4" fill="#3465a4"><title>Isle of Raasay</title></circle></a><a href="/setts/s7/k3g2k3g18r2db2lo1~x4/"><circle cx="379.4" cy="154.9" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><circle cx="442.3" cy="143.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/n4ly1k4dg32k4r2~x2/

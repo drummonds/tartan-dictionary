@@ -2,12 +2,18 @@
 title: "Stewart hunting, Plaid"
 date: 2023-03-18
 ---
-**Bands:** [BGBKGRGKGKGKGKGYGK](/stripes/bgbkgrgkgkgkgkgygk/) · **Stripes:** [DB G DB K G R G K G K G K G K G LY G K](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">DB G DB K G R G K G K G K G K G LY G K</span></span>
+**Bands:** [KGYGKGKGKGKGRGKBGB](/stripes/kgygkgkgkgkgrgkbgb/) · **Stripes:** [K G LY G K G K G K G K G R G K DB G DB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">K G LY G K G K G K G K G R G K DB G DB</span></span>
 
 
 This was sourced from weddslist.  It is a [18 band tartan](/bands/bands18/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Stewart hunting, Plaid
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -905,19 +914,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacBride](/setts/s13/ly3g15k15db15k2db15k15g15dp3g15k15g15ly3~x2/) — ΔT 0.97
 1. [MacAlpine](/setts/s14/dt4g1dt1g6k1g6dt1g1dt4w1k4g1k4ly2~x4/) — ΔT 1.30
-1. [Crihfield Family (Personal)](/setts/s13/lb4k2g6o3g10k10g4k10g10o3g6k2o4~x2/) — ΔT 1.32
+1. [Crihfield Family (Personal)](/setts/s13/o4k2g6o3g10k10g4k10g10o3g6k2lb4~x2/) — ΔT 1.32
 1. [Norwich No.031](/setts/s12/t8k8g8k1g8k8g8k1g8k8t8w2~x2/) — ΔT 1.42
 1. [Graham-Maila (Personal)](/setts/s13/db5k3r4g9w2g9k9g9w2g9k9ly7k3~x2/) — ΔT 1.43
 1. [Stewart hunting](/setts/s26/db8g2db8k2db2k2db2k4g11r2g11k4g2k9g2k9g2k4g11ly2g11k4db2k2db2k4~x2/) — ΔT 1.44
 1. [MacRae](/setts/s15/g6k3g7r3g6k13db13k3db13k13g3w3g6k3r4~x2/) — ΔT 1.44
-1. [Scott, Green (Clan)](/setts/s14/g8k3w3k6ly4db12g6k8g12r3g3w3g3k8~x2/) — ΔT 1.54
+1. [Scott, Green (Clan)](/setts/s14/k8g3w3g3r3g12k8g6db12ly4k6w3k3g8~x2/) — ΔT 1.54
 1. [Arrol](/setts/s9/r2db4k4g4lb1g4k4g4lb1~x4/) — ΔT 1.56
 1. [Mandela, Commemorative](/setts/s13/g8ly2g2k6g11r2k12k12r2k6ly2k4r3~x2/) — ΔT 1.57
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/ly3g15k15db15k2db15k15g15dp3g15k15g15ly3~x2/"><circle cx="108.1" cy="203.6" r="4" fill="#3465a4"><title>MacBride</title></circle></a><a href="/setts/s14/dt4g1dt1g6k1g6dt1g1dt4w1k4g1k4ly2~x4/"><circle cx="111.4" cy="184.8" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s13/lb4k2g6o3g10k10g4k10g10o3g6k2o4~x2/"><circle cx="158.5" cy="228.7" r="4" fill="#3465a4"><title>Crihfield Family (Personal)</title></circle></a><a href="/setts/s12/t8k8g8k1g8k8g8k1g8k8t8w2~x2/"><circle cx="132.7" cy="226.1" r="4" fill="#3465a4"><title>Norwich No.031</title></circle></a><a href="/setts/s13/db5k3r4g9w2g9k9g9w2g9k9ly7k3~x2/"><circle cx="76.4" cy="202.7" r="4" fill="#3465a4"><title>Graham-Maila (Personal)</title></circle></a><a href="/setts/s26/db8g2db8k2db2k2db2k4g11r2g11k4g2k9g2k9g2k4g11ly2g11k4db2k2db2k4~x2/"><circle cx="119.9" cy="164.0" r="4" fill="#3465a4"><title>Stewart hunting</title></circle></a><a href="/setts/s15/g6k3g7r3g6k13db13k3db13k13g3w3g6k3r4~x2/"><circle cx="69.4" cy="200.7" r="4" fill="#3465a4"><title>MacRae</title></circle></a><a href="/setts/s14/g8k3w3k6ly4db12g6k8g12r3g3w3g3k8~x2/"><circle cx="56.0" cy="198.2" r="4" fill="#3465a4"><title>Scott, Green (Clan)</title></circle></a><a href="/setts/s9/r2db4k4g4lb1g4k4g4lb1~x4/"><circle cx="76.5" cy="250.4" r="4" fill="#3465a4"><title>Arrol</title></circle></a><a href="/setts/s13/g8ly2g2k6g11r2k12k12r2k6ly2k4r3~x2/"><circle cx="93.7" cy="183.0" r="4" fill="#3465a4"><title>Mandela, Commemorative</title></circle></a><circle cx="93.3" cy="208.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/ly3g15k15db15k2db15k15g15dp3g15k15g15ly3~x2/"><circle cx="108.3" cy="203.6" r="4" fill="#3465a4"><title>MacBride</title></circle></a><a href="/setts/s14/dt4g1dt1g6k1g6dt1g1dt4w1k4g1k4ly2~x4/"><circle cx="111.6" cy="184.8" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s13/o4k2g6o3g10k10g4k10g10o3g6k2lb4~x2/"><circle cx="158.7" cy="228.5" r="4" fill="#3465a4"><title>Crihfield Family (Personal)</title></circle></a><a href="/setts/s12/t8k8g8k1g8k8g8k1g8k8t8w2~x2/"><circle cx="132.9" cy="226.0" r="4" fill="#3465a4"><title>Norwich No.031</title></circle></a><a href="/setts/s13/db5k3r4g9w2g9k9g9w2g9k9ly7k3~x2/"><circle cx="76.5" cy="202.7" r="4" fill="#3465a4"><title>Graham-Maila (Personal)</title></circle></a><a href="/setts/s26/db8g2db8k2db2k2db2k4g11r2g11k4g2k9g2k9g2k4g11ly2g11k4db2k2db2k4~x2/"><circle cx="120.0" cy="164.1" r="4" fill="#3465a4"><title>Stewart hunting</title></circle></a><a href="/setts/s15/g6k3g7r3g6k13db13k3db13k13g3w3g6k3r4~x2/"><circle cx="69.6" cy="200.8" r="4" fill="#3465a4"><title>MacRae</title></circle></a><a href="/setts/s14/k8g3w3g3r3g12k8g6db12ly4k6w3k3g8~x2/"><circle cx="56.1" cy="198.3" r="4" fill="#3465a4"><title>Scott, Green (Clan)</title></circle></a><a href="/setts/s9/r2db4k4g4lb1g4k4g4lb1~x4/"><circle cx="76.8" cy="250.3" r="4" fill="#3465a4"><title>Arrol</title></circle></a><a href="/setts/s13/g8ly2g2k6g11r2k12k12r2k6ly2k4r3~x2/"><circle cx="93.9" cy="183.0" r="4" fill="#3465a4"><title>Mandela, Commemorative</title></circle></a><circle cx="93.5" cy="208.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s18/db9g3db9k4g10r4g10k6g2k7g2k7g2k6g10ly4g10k8~x2/

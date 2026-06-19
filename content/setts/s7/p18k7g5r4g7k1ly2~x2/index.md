@@ -2,7 +2,7 @@
 title: "Regent"
 date: 2023-03-18
 ---
-**Bands:** [BKGRGKY](/stripes/bkgrgky/) · **Stripes:** [P K G R G K LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">P K G R G K LY</span></span>
+**Bands:** [YKGRGKB](/stripes/ykgrgkb/) · **Stripes:** [LY K G R G K P](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">LY K G R G K P</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -920,15 +923,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Regent](/setts/s7/dp18k7g5r4g7k1ly2~x2/) — ΔT 1.15
 1. [MacRae, hunting](/setts/s9/dg14k2dg4r2dg4k14p15k1w3~x2/) — ΔT 1.18
 1. [Sheboom](/setts/s8/k35m2k3dp13g8w4g8dp8~x2/) — ΔT 1.18
-1. [Loch Etive](/setts/s8/ly3db3k2db18k26r21g2w3~x2/) — ΔT 1.20
+1. [Loch Etive](/setts/s8/w3g2r21k26db18k2db3ly3~x2/) — ΔT 1.20
 1. [Afternoon Tea / Assam](/setts/s6/r15r98db72t25db8w15/) — ΔT 1.24
-1. [MacNeil 8](/setts/s6/ly2k6g33k33p33w2~x2/) — ΔT 1.25
-1. [Loch Etive](/setts/s8/lb3g2r21k26db18k2db3ly3~x2/) — ΔT 1.25
+1. [Loch Etive](/setts/s8/ly3db3k2db18k26r21g2lb3~x2/) — ΔT 1.25
+1. [MacNeil 8](/setts/s6/w2p33k33g33k6ly2~x2/) — ΔT 1.25
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db8k4db31lo5r26k5ly10lo5k2/"><circle cx="188.0" cy="136.5" r="4" fill="#3465a4"><title>McGurk (Personal)</title></circle></a><a href="/setts/s8/ly2k2db14db4k5r2ly5r1~x4/"><circle cx="166.1" cy="152.9" r="4" fill="#3465a4"><title>Lovell (2014)</title></circle></a><a href="/setts/s5/k15db2r15b6b1~x2/"><circle cx="198.6" cy="180.9" r="4" fill="#3465a4"><title>O2 (Corporate)</title></circle></a><a href="/setts/s7/dp18k7g5r4g7k1ly2~x2/"><circle cx="215.4" cy="169.8" r="4" fill="#3465a4"><title>Regent</title></circle></a><a href="/setts/s9/dg14k2dg4r2dg4k14p15k1w3~x2/"><circle cx="164.9" cy="154.1" r="4" fill="#3465a4"><title>MacRae, hunting</title></circle></a><a href="/setts/s8/k35m2k3dp13g8w4g8dp8~x2/"><circle cx="239.6" cy="146.8" r="4" fill="#3465a4"><title>Sheboom</title></circle></a><a href="/setts/s8/ly3db3k2db18k26r21g2w3~x2/"><circle cx="153.5" cy="132.2" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><a href="/setts/s6/r15r98db72t25db8w15/"><circle cx="217.0" cy="174.2" r="4" fill="#3465a4"><title>Afternoon Tea / Assam</title></circle></a><a href="/setts/s6/ly2k6g33k33p33w2~x2/"><circle cx="170.3" cy="168.0" r="4" fill="#3465a4"><title>MacNeil 8</title></circle></a><a href="/setts/s8/lb3g2r21k26db18k2db3ly3~x2/"><circle cx="158.4" cy="135.9" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><circle cx="186.2" cy="150.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db8k4db31lo5r26k5ly10lo5k2/"><circle cx="187.9" cy="136.5" r="4" fill="#3465a4"><title>McGurk (Personal)</title></circle></a><a href="/setts/s8/ly2k2db14db4k5r2ly5r1~x4/"><circle cx="166.1" cy="152.9" r="4" fill="#3465a4"><title>Lovell (2014)</title></circle></a><a href="/setts/s5/k15db2r15b6b1~x2/"><circle cx="198.7" cy="180.8" r="4" fill="#3465a4"><title>O2 (Corporate)</title></circle></a><a href="/setts/s7/dp18k7g5r4g7k1ly2~x2/"><circle cx="215.4" cy="169.8" r="4" fill="#3465a4"><title>Regent</title></circle></a><a href="/setts/s9/dg14k2dg4r2dg4k14p15k1w3~x2/"><circle cx="165.0" cy="154.1" r="4" fill="#3465a4"><title>MacRae, hunting</title></circle></a><a href="/setts/s8/k35m2k3dp13g8w4g8dp8~x2/"><circle cx="239.6" cy="146.8" r="4" fill="#3465a4"><title>Sheboom</title></circle></a><a href="/setts/s8/w3g2r21k26db18k2db3ly3~x2/"><circle cx="153.5" cy="132.2" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><a href="/setts/s6/r15r98db72t25db8w15/"><circle cx="216.9" cy="174.2" r="4" fill="#3465a4"><title>Afternoon Tea / Assam</title></circle></a><a href="/setts/s8/ly3db3k2db18k26r21g2lb3~x2/"><circle cx="158.4" cy="136.0" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><a href="/setts/s6/w2p33k33g33k6ly2~x2/"><circle cx="170.5" cy="168.0" r="4" fill="#3465a4"><title>MacNeil 8</title></circle></a><circle cx="186.2" cy="150.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/p18k7g5r4g7k1ly2~x2/

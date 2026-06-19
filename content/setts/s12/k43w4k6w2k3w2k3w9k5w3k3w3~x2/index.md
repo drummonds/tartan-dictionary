@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4009
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Stuart/Stewart Mourning
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -319,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -920,16 +929,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Tweedside Variation (silk sample)](/setts/s9/k50w3k3r4w3r3w5r3k3~x2/) — ΔT 1.38
 1. [Menzies](/setts/s8/k32w4k2w4k4w2k1w6~x2/) — ΔT 1.43
 1. [Knights Templar Dress (Corporate)](/setts/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/) — ΔT 1.46
-1. [Stewart/Stuart, Royal (Black and White))](/setts/s20/k36w4k6w1k1w1k1w8k4w1k6w1k4w8k1w1k1w1k6w4~x2/) — ΔT 1.49
-1. [Menzies (1938)](/setts/s8/k36w4k3w4k6w2k1w12~x4/) — ΔT 1.51
+1. [Stewart/Stuart, Royal (Black and White))](/setts/s20/k36w4k6w1k1w1k1w8k4w1k6~x2/) — ΔT 1.49
 1. [Volkswagen Black Trim (Fashion)](/setts/s8/k20w1k1w3k1r1k1w1~x4/) — ΔT 1.51
+1. [Menzies (1938)](/setts/s8/k36w4k3w4k6w2k1w12~x4/) — ΔT 1.51
 1. [Bargain Booze](/setts/s7/k75lb6k5lb18k2lb2k3~x2/) — ΔT 1.53
 1. [Kinloch Anderson Black and White](/setts/s10/k4w14k2w4k8w3k30w2k4w4~x2/) — ΔT 1.54
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k36w4k6w1k1w1k1w8k4w1k6~x2/"><circle cx="537.5" cy="125.5" r="4" fill="#3465a4"><title>Royal Stewart B &amp; W (Universal?)</title></circle></a><a href="/setts/s10/k27w2k2w2k2w2k2w2k4r5~x4/"><circle cx="453.3" cy="151.1" r="4" fill="#3465a4"><title>Reiver Check</title></circle></a><a href="/setts/s9/k50w3k3r4w3r3w5r3k3~x2/"><circle cx="459.2" cy="134.7" r="4" fill="#3465a4"><title>Tweedside Variation (silk sample)</title></circle></a><a href="/setts/s8/k32w4k2w4k4w2k1w6~x2/"><circle cx="479.6" cy="150.0" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="487.8" cy="124.8" r="4" fill="#3465a4"><title>Knights Templar Dress (Corporate)</title></circle></a><a href="/setts/s20/k36w4k6w1k1w1k1w8k4w1k6w1k4w8k1w1k1w1k6w4~x2/"><circle cx="455.2" cy="89.1" r="4" fill="#3465a4"><title>Stewart/Stuart, Royal (Black and White))</title></circle></a><a href="/setts/s8/k36w4k3w4k6w2k1w12~x4/"><circle cx="452.4" cy="140.6" r="4" fill="#3465a4"><title>Menzies (1938)</title></circle></a><a href="/setts/s8/k20w1k1w3k1r1k1w1~x4/"><circle cx="526.6" cy="142.4" r="4" fill="#3465a4"><title>Volkswagen Black Trim (Fashion)</title></circle></a><a href="/setts/s7/k75lb6k5lb18k2lb2k3~x2/"><circle cx="548.6" cy="148.5" r="4" fill="#3465a4"><title>Bargain Booze</title></circle></a><a href="/setts/s10/k4w14k2w4k8w3k30w2k4w4~x2/"><circle cx="384.3" cy="175.2" r="4" fill="#3465a4"><title>Kinloch Anderson Black and White</title></circle></a><circle cx="481.2" cy="138.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k36w4k6w1k1w1k1w8k4w1k6~x2/"><circle cx="537.2" cy="125.0" r="4" fill="#3465a4"><title>Royal Stewart B &amp; W (Universal?)</title></circle></a><a href="/setts/s10/k27w2k2w2k2w2k2w2k4r5~x4/"><circle cx="453.0" cy="150.7" r="4" fill="#3465a4"><title>Reiver Check</title></circle></a><a href="/setts/s9/k50w3k3r4w3r3w5r3k3~x2/"><circle cx="458.9" cy="134.4" r="4" fill="#3465a4"><title>Tweedside Variation (silk sample)</title></circle></a><a href="/setts/s8/k32w4k2w4k4w2k1w6~x2/"><circle cx="479.5" cy="149.5" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="487.5" cy="124.5" r="4" fill="#3465a4"><title>Knights Templar Dress (Corporate)</title></circle></a><a href="/setts/s20/k36w4k6w1k1w1k1w8k4w1k6~x2/"><circle cx="454.7" cy="88.8" r="4" fill="#3465a4"><title>Stewart/Stuart, Royal (Black and White))</title></circle></a><a href="/setts/s8/k20w1k1w3k1r1k1w1~x4/"><circle cx="526.3" cy="141.9" r="4" fill="#3465a4"><title>Volkswagen Black Trim (Fashion)</title></circle></a><a href="/setts/s8/k36w4k3w4k6w2k1w12~x4/"><circle cx="452.1" cy="140.1" r="4" fill="#3465a4"><title>Menzies (1938)</title></circle></a><a href="/setts/s7/k75lb6k5lb18k2lb2k3~x2/"><circle cx="548.3" cy="148.0" r="4" fill="#3465a4"><title>Bargain Booze</title></circle></a><a href="/setts/s10/k4w14k2w4k8w3k30w2k4w4~x2/"><circle cx="384.1" cy="174.8" r="4" fill="#3465a4"><title>Kinloch Anderson Black and White</title></circle></a><circle cx="480.8" cy="137.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/

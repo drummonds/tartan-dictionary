@@ -22,6 +22,6 @@ BBWBRBBBWBBBRBWB
 
 | Tartans |
 |---------------|
-| [United States (Personal)](/setts/s16/b7db5w6db5r7db2b2db70w2db70b2db2r7db5w6db5/)|
-|![United States (Personal) example sett](/setts/s16/b7db5w6db5r7db2b2db70w2db70b2db2r7db5w6db5/sett.png)|
+| [United States (Personal)](/setts/s16/b7db5w6db5r7db2b2db70w2/)|
+|![United States (Personal) example sett](/setts/s16/b7db5w6db5r7db2b2db70w2/sett.png)|
 

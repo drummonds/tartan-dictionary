@@ -20,7 +20,7 @@ BGB
 
 
 
-### P G T <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">P G T</span></span>
+### T G P <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">T G P</span></span>
 
 | Tartans |
 |---------------|

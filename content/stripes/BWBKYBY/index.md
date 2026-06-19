@@ -21,14 +21,14 @@ BWBKYBY
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DP W DP K LO DP LO <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DP W DP K LO DP LO</span></span>
+### LO DP LO K DP W DP <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LO DP LO K DP W DP</span></span>
 
 | Tartans |
 |---------------|
 | [East Carolina University (Corp.)](/setts/s7/dp13w2dp8k5lo10dp75lo3~x2/)|
 |![East Carolina University (Corp.) example sett](/setts/s7/dp13w2dp8k5lo10dp75lo3~x2/sett.png)|
 
-### P W P K LY P LY <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">P W P K LY P LY</span></span>
+### LY P LY K P W P <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">LY P LY K P W P</span></span>
 
 | Tartans |
 |---------------|

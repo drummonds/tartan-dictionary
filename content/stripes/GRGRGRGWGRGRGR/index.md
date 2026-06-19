@@ -18,10 +18,10 @@ GRGRGRGWGRGRGR
 
 
 
-### G M G M G M G W G M G M G M <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="seq">G M G M G M G W G M G M G M</span></span>
+### M G M G M G W G M G M G M G <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="seq">M G M G M G W G M G M G M G</span></span>
 
 | Tartans |
 |---------------|
-| [Leeds, University of (Dance) #1](/setts/s14/g34m4g4m4g4m12g20w5g20m12g4m4g4m4~x2/)|
-|![Leeds, University of (Dance) #1 example sett](/setts/s14/g34m4g4m4g4m12g20w5g20m12g4m4g4m4~x2/sett.png)|
+| [Leeds, University of (Dance) #1](/setts/s14/g34m4g4m4g4m12g20w5~x2/)|
+|![Leeds, University of (Dance) #1 example sett](/setts/s14/g34m4g4m4g4m12g20w5~x2/sett.png)|
 

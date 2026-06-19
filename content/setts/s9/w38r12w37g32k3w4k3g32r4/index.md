@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacDiarmid, dress
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -923,14 +932,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Kerry County Crest (Fashion)](/setts/s10/ly14db5g25db5w2g11db7w5g6ly5~x2/) — ΔT 1.39
 1. [MacPherson Dress Blue (Dance) #2](/setts/s7/w5r3w26g21w3g8ly3~x2/) — ΔT 1.45
 1. [McCabe (2016)](/setts/s6/db8ly1dg5ly12r1dg2~x6/) — ΔT 1.45
-1. [Fraser Yellow](/setts/s7/ly2db14ly2dg14ly27w2r2~x2/) — ΔT 1.46
+1. [Fraser Yellow](/setts/s7/r2w2ly27dg14ly2db14ly2~x2/) — ΔT 1.46
 1. [Michigan State University](/setts/s7/g18w55o19g20w2g20k5/) — ΔT 1.47
-1. [O'Neill](/setts/s9/w2g1w2o6w10g6w2o1w2~x2/) — ΔT 1.49
+1. [O'Neill](/setts/s9/w2o1w2g6w10o6w2g1w2~x2/) — ΔT 1.49
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w38r12w37g32k3w4k3g32r4~x2/"><circle cx="226.6" cy="162.4" r="4" fill="#3465a4"><title>MacDiarmid Dress</title></circle></a><a href="/setts/s7/w5r3w26g20w3g8ly3~x2/"><circle cx="246.2" cy="183.2" r="4" fill="#3465a4"><title>MacPherson Dress Green (Dance)</title></circle></a><a href="/setts/s7/g3r2g27dg3w30dg2w3~x2/"><circle cx="267.8" cy="145.2" r="4" fill="#3465a4"><title>Uist, Green (Dance)</title></circle></a><a href="/setts/s9/k4w1k1w9g1w1g1w1o4~x4/"><circle cx="215.0" cy="147.0" r="4" fill="#3465a4"><title>Puffin (Personal)</title></circle></a><a href="/setts/s10/ly14db5g25db5w2g11db7w5g6ly5~x2/"><circle cx="215.3" cy="178.5" r="4" fill="#3465a4"><title>Kerry County Crest (Fashion)</title></circle></a><a href="/setts/s7/w5r3w26g21w3g8ly3~x2/"><circle cx="263.3" cy="189.8" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance) #2</title></circle></a><a href="/setts/s6/db8ly1dg5ly12r1dg2~x6/"><circle cx="188.4" cy="175.2" r="4" fill="#3465a4"><title>McCabe (2016)</title></circle></a><a href="/setts/s7/ly2db14ly2dg14ly27w2r2~x2/"><circle cx="224.4" cy="142.2" r="4" fill="#3465a4"><title>Fraser Yellow</title></circle></a><a href="/setts/s7/g18w55o19g20w2g20k5/"><circle cx="219.3" cy="145.2" r="4" fill="#3465a4"><title>Michigan State University</title></circle></a><a href="/setts/s9/w2g1w2o6w10g6w2o1w2~x2/"><circle cx="286.9" cy="192.0" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><circle cx="224.9" cy="162.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w38r12w37g32k3w4k3g32r4~x2/"><circle cx="226.3" cy="162.2" r="4" fill="#3465a4"><title>MacDiarmid Dress</title></circle></a><a href="/setts/s7/w5r3w26g20w3g8ly3~x2/"><circle cx="245.8" cy="183.0" r="4" fill="#3465a4"><title>MacPherson Dress Green (Dance)</title></circle></a><a href="/setts/s7/g3r2g27dg3w30dg2w3~x2/"><circle cx="267.4" cy="145.0" r="4" fill="#3465a4"><title>Uist, Green (Dance)</title></circle></a><a href="/setts/s9/k4w1k1w9g1w1g1w1o4~x4/"><circle cx="214.6" cy="146.8" r="4" fill="#3465a4"><title>Puffin (Personal)</title></circle></a><a href="/setts/s10/ly14db5g25db5w2g11db7w5g6ly5~x2/"><circle cx="215.1" cy="178.4" r="4" fill="#3465a4"><title>Kerry County Crest (Fashion)</title></circle></a><a href="/setts/s7/w5r3w26g21w3g8ly3~x2/"><circle cx="262.9" cy="189.6" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance) #2</title></circle></a><a href="/setts/s6/db8ly1dg5ly12r1dg2~x6/"><circle cx="188.2" cy="175.0" r="4" fill="#3465a4"><title>McCabe (2016)</title></circle></a><a href="/setts/s7/r2w2ly27dg14ly2db14ly2~x2/"><circle cx="224.1" cy="142.1" r="4" fill="#3465a4"><title>Fraser Yellow</title></circle></a><a href="/setts/s7/g18w55o19g20w2g20k5/"><circle cx="218.9" cy="145.0" r="4" fill="#3465a4"><title>Michigan State University</title></circle></a><a href="/setts/s9/w2o1w2g6w10o6w2g1w2~x2/"><circle cx="286.4" cy="191.7" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><circle cx="224.6" cy="162.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/w38r12w37g32k3w4k3g32r4/

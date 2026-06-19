@@ -2,12 +2,18 @@
 title: "McKnight #2 (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BYRBKBK](/stripes/byrbkbk/) · **Stripes:** [T LY R DB K T K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="seq">T LY R DB K T K</span></span>
+**Bands:** [KBKBRYB](/stripes/kbkbryb/) · **Stripes:** [K T K DB R LY T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="seq">K T K DB R LY T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2893
+
+## Also known as
+
+This cloth is also recorded under:
+
+- McKnight #2
 
 ## Attestations
 
@@ -50,7 +56,7 @@ The nearest existing variants by ΔTartan distance.
 1. [McKnight (Personal)](/setts/s7/db4ly1r28db25k10db5k3~x2/) — ΔT 0.81
 1. [Royal Scottish Assurance](/setts/s9/db26dg11r8k2r2w2r4w1r15~x2/) — ΔT 0.83
 1. [Diaspora](/setts/s6/dt3dg1r24dt16db28w3~x2/) — ΔT 0.92
-1. [Abernethy (Colerain, USA)](/setts/s7/lo1db14r28y14r1dg14lo1~x2/) — ΔT 1.06
+1. [Abernethy (Colerain, USA)](/setts/s7/lo1dg14r1y14r28db14lo1~x2/) — ΔT 1.06
 1. [Thomson, Reona Ellen (Personal)](/setts/s7/w2dp5m34k5o9k12dp1~x2/) — ΔT 1.20
 1. [Porsche Bank Austria](/setts/s11/db49k2g2k2g2k10r38db5r4k4lr10~x2/) — ΔT 1.23
 1. [Cherry, John S. (Personal)](/setts/s7/o4dt36r35g2r2g8w4~x2/) — ΔT 1.24
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db26g11r8k2r2w2r4w1r15~x2/"><circle cx="243.2" cy="119.7" r="4" fill="#3465a4"><title>Royal Scottish Assurance (Corporate)</title></circle></a><a href="/setts/s7/db4ly1r28db25k10db5k3~x2/"><circle cx="225.6" cy="135.4" r="4" fill="#3465a4"><title>McKnight (Personal)</title></circle></a><a href="/setts/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="252.5" cy="125.7" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><a href="/setts/s6/dt3dg1r24dt16db28w3~x2/"><circle cx="243.4" cy="158.3" r="4" fill="#3465a4"><title>Diaspora</title></circle></a><a href="/setts/s7/lo1db14r28y14r1dg14lo1~x2/"><circle cx="221.5" cy="133.6" r="4" fill="#3465a4"><title>Abernethy (Colerain, USA)</title></circle></a><a href="/setts/s7/w2dp5m34k5o9k12dp1~x2/"><circle cx="312.6" cy="117.7" r="4" fill="#3465a4"><title>Thomson, Reona Ellen (Personal)</title></circle></a><a href="/setts/s11/db49k2g2k2g2k10r38db5r4k4lr10~x2/"><circle cx="256.9" cy="95.0" r="4" fill="#3465a4"><title>Porsche Bank Austria</title></circle></a><a href="/setts/s7/o4dt36r35g2r2g8w4~x2/"><circle cx="247.2" cy="137.4" r="4" fill="#3465a4"><title>Cherry, John S. (Personal)</title></circle></a><a href="/setts/s7/dt50r26k9r4w2lo2r10~x2/"><circle cx="313.9" cy="134.5" r="4" fill="#3465a4"><title>Java Saint Andrew Society Dress</title></circle></a><a href="/setts/s7/r64k30g30b18w4b2w3/"><circle cx="230.2" cy="119.6" r="4" fill="#3465a4"><title>Clyde (Personal)</title></circle></a><circle cx="249.5" cy="128.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db26g11r8k2r2w2r4w1r15~x2/"><circle cx="243.0" cy="119.7" r="4" fill="#3465a4"><title>Royal Scottish Assurance (Corporate)</title></circle></a><a href="/setts/s7/db4ly1r28db25k10db5k3~x2/"><circle cx="225.6" cy="135.4" r="4" fill="#3465a4"><title>McKnight (Personal)</title></circle></a><a href="/setts/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="252.3" cy="125.7" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><a href="/setts/s6/dt3dg1r24dt16db28w3~x2/"><circle cx="243.4" cy="158.4" r="4" fill="#3465a4"><title>Diaspora</title></circle></a><a href="/setts/s7/lo1dg14r1y14r28db14lo1~x2/"><circle cx="221.4" cy="133.6" r="4" fill="#3465a4"><title>Abernethy (Colerain, USA)</title></circle></a><a href="/setts/s7/w2dp5m34k5o9k12dp1~x2/"><circle cx="312.4" cy="117.7" r="4" fill="#3465a4"><title>Thomson, Reona Ellen (Personal)</title></circle></a><a href="/setts/s11/db49k2g2k2g2k10r38db5r4k4lr10~x2/"><circle cx="256.8" cy="95.1" r="4" fill="#3465a4"><title>Porsche Bank Austria</title></circle></a><a href="/setts/s7/o4dt36r35g2r2g8w4~x2/"><circle cx="247.0" cy="137.4" r="4" fill="#3465a4"><title>Cherry, John S. (Personal)</title></circle></a><a href="/setts/s7/dt50r26k9r4w2lo2r10~x2/"><circle cx="313.7" cy="134.4" r="4" fill="#3465a4"><title>Java Saint Andrew Society Dress</title></circle></a><a href="/setts/s7/r64k30g30b18w4b2w3/"><circle cx="230.0" cy="119.5" r="4" fill="#3465a4"><title>Clyde (Personal)</title></circle></a><circle cx="249.4" cy="128.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/t4ly1r28db24k5t5k3~x4/

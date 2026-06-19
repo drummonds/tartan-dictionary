@@ -2,12 +2,18 @@
 title: "Unidentified 15"
 date: 2023-03-18
 ---
-**Bands:** [BKRGRBBRBRBBRBBRG](/stripes/bkrgrbbrbrbbrbbrg/) · **Stripes:** [T K R G R P T R P R T P R P T R G](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">T K R G R P T R P R T P R P T R G</span></span>
+**Bands:** [GRBBRBBRBRBBRGRKB](/stripes/grbbrbbrbrbbrgrkb/) · **Stripes:** [G R T P R P T R P R T P R G R K T](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">G R T P R P T R P R T P R G R K T</span></span>
 
 
 This was sourced from weddslist.  It is a [17 band tartan](/bands/bands17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified #14
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/4 K2 R14 G70 R4 P2 B2 R6 P32 R6 B2 P2 R70 P2 B2 R6 G/8
+G/8 R6 B2 P2 R70 P2 B2 R6 P32 R6 B2 P2 R4 G70 R14 K2 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -910,14 +919,14 @@ The nearest existing variants by ΔTartan distance.
 1. [MacDougall (Logan)](/setts/s20/t1r12r4dg72r8dg4r8db18r12r4r12dg18r18dg18r8db4r72r6r4t1~x2/) — ΔT 1.02
 1. [MacDonald of Boisdale](/setts/s21/r16w1db6w1r6w1db32w1r24g1g16g1r4g1g6g1r4w1db6w1r16~x2/) — ΔT 1.04
 1. [Grant or New Bruce](/setts/s15/r12p2r4p4r39t2r4p11r6g4r6g45r4p4db10/) — ΔT 1.05
-1. [MacDougall](/setts/s20/lb1r3r1dg23r3dg1r3db6r4r1r4dg6r6dg6r2db1r24r1r1lb1/) — ΔT 1.07
+1. [MacDougall](/setts/s20/lb1r3r1dg23r3dg1r3db6r4r1r4dg6r6dg6r2db1r24r1r1lb1~x2/) — ΔT 1.07
 1. [MacFarlane](/setts/s14/r42k1dg12lr2r3k1r3lr2dg2n12k4r3lr4dg3~x2/) — ΔT 1.09
-1. [Drummond](/setts/s17/w1t4db6r16g32ly1db6w1r68w1db6ly1g32r16db6t4w1~x2/) — ΔT 1.11
+1. [MacFarlane](/setts/s14/r42k1dg12lr2r3k1r3lr2dg2n12k4r3lr4dg3/) — ΔT 1.09
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/dg4r3t1dp1r35dp1t1r3dp16r3t1dp1r2dg35r7k1t2~x2/"><circle cx="307.4" cy="53.9" r="4" fill="#3465a4"><title>Unidentified #14</title></circle></a><a href="/setts/s18/g14r6r2dt3r65dt2t2r6dt34r6t2dt2r4g66r12r2dt2t4/"><circle cx="297.5" cy="67.5" r="4" fill="#3465a4"><title>Stewart of Ardshiel Clan Tartan Tartan Number: 73. Earliest known date: 1822 There are minor differences between the warp and weft in the blue not shown in the illustration. This is the earliest record of a Stewart of Ardshiel tartan. It differs from the Stewart of Appin in that the Red is interchanged with the blue. Ardshiel is part of Appin and it may be a variation on a sett common to the area. Stewarts of Ardshiel are regarded as a sept of the Appin branch. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/r36ly2db1r3g41r3db1ly2r3db12r3ly2db1r36g3r3g4~x2/"><circle cx="362.4" cy="57.6" r="4" fill="#3465a4"><title>Munro (Clan)</title></circle></a><a href="/setts/s18/dg14r6r2k3r65k2t2r6k34r6t2k2r4dg66r12r2k2t4/"><circle cx="276.1" cy="55.8" r="4" fill="#3465a4"><title>Stewart of Ardshiel - 1816 (Clan)</title></circle></a><a href="/setts/s20/t1r12r4dg72r8dg4r8db18r12r4r12dg18r18dg18r8db4r72r6r4t1~x2/"><circle cx="303.6" cy="56.7" r="4" fill="#3465a4"><title>MacDougall (Logan)</title></circle></a><a href="/setts/s21/r16w1db6w1r6w1db32w1r24g1g16g1r4g1g6g1r4w1db6w1r16~x2/"><circle cx="289.7" cy="66.2" r="4" fill="#3465a4"><title>MacDonald of Boisdale</title></circle></a><a href="/setts/s15/r12p2r4p4r39t2r4p11r6g4r6g45r4p4db10/"><circle cx="295.3" cy="97.9" r="4" fill="#3465a4"><title>Grant or New Bruce</title></circle></a><a href="/setts/s20/lb1r3r1dg23r3dg1r3db6r4r1r4dg6r6dg6r2db1r24r1r1lb1/"><circle cx="255.6" cy="69.4" r="4" fill="#3465a4"><title>MacDougall</title></circle></a><a href="/setts/s14/r42k1dg12lr2r3k1r3lr2dg2n12k4r3lr4dg3~x2/"><circle cx="359.1" cy="63.1" r="4" fill="#3465a4"><title>MacFarlane</title></circle></a><a href="/setts/s17/w1t4db6r16g32ly1db6w1r68w1db6ly1g32r16db6t4w1~x2/"><circle cx="318.5" cy="35.7" r="4" fill="#3465a4"><title>Drummond</title></circle></a><circle cx="312.1" cy="57.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/dg4r3t1dp1r35dp1t1r3dp16r3t1dp1r2dg35r7k1t2~x2/"><circle cx="307.0" cy="54.0" r="4" fill="#3465a4"><title>Unidentified #14</title></circle></a><a href="/setts/s18/g14r6r2dt3r65dt2t2r6dt34r6t2dt2r4g66r12r2dt2t4/"><circle cx="297.2" cy="67.6" r="4" fill="#3465a4"><title>Stewart of Ardshiel Clan Tartan Tartan Number: 73. Earliest known date: 1822 There are minor differences between the warp and weft in the blue not shown in the illustration. This is the earliest record of a Stewart of Ardshiel tartan. It differs from the Stewart of Appin in that the Red is interchanged with the blue. Ardshiel is part of Appin and it may be a variation on a sett common to the area. Stewarts of Ardshiel are regarded as a sept of the Appin branch. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/r36ly2db1r3g41r3db1ly2r3db12r3ly2db1r36g3r3g4~x2/"><circle cx="361.9" cy="57.6" r="4" fill="#3465a4"><title>Munro (Clan)</title></circle></a><a href="/setts/s18/dg14r6r2k3r65k2t2r6k34r6t2k2r4dg66r12r2k2t4/"><circle cx="275.8" cy="55.8" r="4" fill="#3465a4"><title>Stewart of Ardshiel - 1816 (Clan)</title></circle></a><a href="/setts/s20/t1r12r4dg72r8dg4r8db18r12r4r12dg18r18dg18r8db4r72r6r4t1~x2/"><circle cx="303.2" cy="56.8" r="4" fill="#3465a4"><title>MacDougall (Logan)</title></circle></a><a href="/setts/s21/r16w1db6w1r6w1db32w1r24g1g16g1r4g1g6g1r4w1db6w1r16~x2/"><circle cx="289.3" cy="66.3" r="4" fill="#3465a4"><title>MacDonald of Boisdale</title></circle></a><a href="/setts/s15/r12p2r4p4r39t2r4p11r6g4r6g45r4p4db10/"><circle cx="294.9" cy="97.9" r="4" fill="#3465a4"><title>Grant or New Bruce</title></circle></a><a href="/setts/s20/lb1r3r1dg23r3dg1r3db6r4r1r4dg6r6dg6r2db1r24r1r1lb1~x2/"><circle cx="255.2" cy="69.5" r="4" fill="#3465a4"><title>MacDougall</title></circle></a><a href="/setts/s14/r42k1dg12lr2r3k1r3lr2dg2n12k4r3lr4dg3~x2/"><circle cx="358.7" cy="63.1" r="4" fill="#3465a4"><title>MacFarlane</title></circle></a><a href="/setts/s14/r42k1dg12lr2r3k1r3lr2dg2n12k4r3lr4dg3/"><circle cx="358.7" cy="63.1" r="4" fill="#3465a4"><title>MacFarlane</title></circle></a><circle cx="311.6" cy="57.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s17/g4r3t1p1r35p1t1r3p16r3t1p1r2g35r7k1t2~x2/

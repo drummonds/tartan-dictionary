@@ -2,12 +2,19 @@
 title: "Maclean of Duart (Wilsons) (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [BKYKWKGRBRK](/stripes/bkykwkgrbrk/) · **Stripes:** [T K LY K W K DG R T R K](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">T K LY K W K DG R T R K</span></span>
+**Bands:** [KRBRGKWKYKB](/stripes/krbrgkwkykb/) · **Stripes:** [K R T R DG K W K LY K T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K R T R DG K W K LY K T</span></span>
 
 
 This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/377/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacLean of Duart #3
+- MacLean of Duart 3
 
 ## Attestations
 
@@ -60,13 +67,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Norwell](/setts/s11/r4k4r32g4w3g4k13g3db18r2ly3~x2/) — ΔT 0.79
 1. [Ogg of Tarragann](/setts/s12/k2t6w1r14k1r14w1k6dg10lo1dg2lo2~x2/) — ΔT 0.80
 1. [Unidentified No 1](/setts/s12/r8t7k8ly2k1w2k1dg19k1r8t3r8~x2/) — ΔT 0.81
-1. [Gordon of Abergeldie](/setts/s10/r63w4k4dp18ly4dg50ly4dp18k4w4~x2/) — ΔT 0.83
+1. [Gordon of Abergeldie](/setts/s10/r63w4k4dp18ly4dg50~x2/) — ΔT 0.83
 1. [Ogg of Tarragann (Personal)](/setts/s12/k2t6w1r14k1r14w1k6g10lo1g2lo2~x2/) — ΔT 0.83
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/"><circle cx="161.2" cy="101.1" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4g32r50t6r8k3/"><circle cx="159.3" cy="94.3" r="4" fill="#3465a4"><title>MacLean of Duart 3</title></circle></a><a href="/setts/s11/t8k4ly1k2w3k2dg12r24t2r3k2~x2/"><circle cx="206.3" cy="79.9" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/setts/s11/k3r30g10k3ly2k3w2k6r2db12w2~x2/"><circle cx="190.2" cy="96.2" r="4" fill="#3465a4"><title>Kilmorie</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3g22r31t3r4k2~x2/"><circle cx="147.1" cy="97.0" r="4" fill="#3465a4"><title>MacLean of Duart 1</title></circle></a><a href="/setts/s11/r4k4r32g4w3g4k13g3db18r2ly3~x2/"><circle cx="189.8" cy="101.6" r="4" fill="#3465a4"><title>Norwell</title></circle></a><a href="/setts/s12/k2t6w1r14k1r14w1k6dg10lo1dg2lo2~x2/"><circle cx="202.2" cy="112.9" r="4" fill="#3465a4"><title>Ogg of Tarragann</title></circle></a><a href="/setts/s12/r8t7k8ly2k1w2k1dg19k1r8t3r8~x2/"><circle cx="146.0" cy="107.4" r="4" fill="#3465a4"><title>Unidentified No 1</title></circle></a><a href="/setts/s10/r63w4k4dp18ly4dg50ly4dp18k4w4~x2/"><circle cx="183.5" cy="100.3" r="4" fill="#3465a4"><title>Gordon of Abergeldie</title></circle></a><a href="/setts/s12/k2t6w1r14k1r14w1k6g10lo1g2lo2~x2/"><circle cx="203.6" cy="112.5" r="4" fill="#3465a4"><title>Ogg of Tarragann (Personal)</title></circle></a><circle cx="178.8" cy="101.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/"><circle cx="161.0" cy="101.2" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4g32r50t6r8k3/"><circle cx="159.2" cy="94.4" r="4" fill="#3465a4"><title>MacLean of Duart 3</title></circle></a><a href="/setts/s11/t8k4ly1k2w3k2dg12r24t2r3k2~x2/"><circle cx="206.0" cy="80.0" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/setts/s11/k3r30g10k3ly2k3w2k6r2db12w2~x2/"><circle cx="190.0" cy="96.3" r="4" fill="#3465a4"><title>Kilmorie</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3g22r31t3r4k2~x2/"><circle cx="146.9" cy="97.0" r="4" fill="#3465a4"><title>MacLean of Duart 1</title></circle></a><a href="/setts/s11/r4k4r32g4w3g4k13g3db18r2ly3~x2/"><circle cx="189.6" cy="101.7" r="4" fill="#3465a4"><title>Norwell</title></circle></a><a href="/setts/s12/k2t6w1r14k1r14w1k6dg10lo1dg2lo2~x2/"><circle cx="201.9" cy="113.0" r="4" fill="#3465a4"><title>Ogg of Tarragann</title></circle></a><a href="/setts/s12/r8t7k8ly2k1w2k1dg19k1r8t3r8~x2/"><circle cx="145.8" cy="107.6" r="4" fill="#3465a4"><title>Unidentified No 1</title></circle></a><a href="/setts/s10/r63w4k4dp18ly4dg50~x2/"><circle cx="183.3" cy="100.4" r="4" fill="#3465a4"><title>Gordon of Abergeldie</title></circle></a><a href="/setts/s12/k2t6w1r14k1r14w1k6g10lo1g2lo2~x2/"><circle cx="203.3" cy="112.6" r="4" fill="#3465a4"><title>Ogg of Tarragann (Personal)</title></circle></a><circle cx="178.6" cy="101.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/

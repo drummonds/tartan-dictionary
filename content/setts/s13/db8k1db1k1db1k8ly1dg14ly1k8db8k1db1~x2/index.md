@@ -2,12 +2,19 @@
 title: "Black from Cumnock (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKYGYKBKB](/stripes/bkbkbkygykbkb/) · **Stripes:** [DB K DB K DB K LY DG LY K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DB K LY DG LY K DB K DB</span></span>
+**Bands:** [BKBKYGYKBKBKB](/stripes/bkbkygykbkbkb/) · **Stripes:** [DB K DB K LY DG LY K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K LY DG LY K DB K DB K DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4925
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Breadalbane Fencibles
+- Campbell of Breadalbane
 
 ## Attestations
 
@@ -88,20 +95,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Campbell of Breadalbane #2](/setts/s13/db26k4db4k4db4k27ly5dg47ly5k27db25k4db4~x2/) — ΔT 0.50
-1. [MacDonald #3](/setts/s12/db16r2db2r5db29r2k31dg29r5dg2r2dg16~x2/) — ΔT 0.67
+1. [MacDonald #3](/setts/s12/dg16r2dg2r5dg29k31r2db29r5db2r2db16~x2/) — ΔT 0.67
 1. [Graham](/setts/s11/k2db12k12g1t2g16t2g1k12db12k1~x4/) — ΔT 0.70
 1. [Hope-Vere/Weir #2](/setts/s14/dg19k1dg4k1dg3k10db20ly1k7ly1db20k10ly3dg1~x2/) — ΔT 0.71
-1. [Riddoch Personal Tartan Tartan Number: 5856. Earliest known date: circa 1992 Designed by Tony Murray for an Albert (Bert) Riddoch of Bearsden, Glasgow as a private and personal tartan initially but it was then changed to usage by anyone of the name. Bert Riddoch (2002) is a private investgator involved in covert drugs investigations and 'highly thought of by the police'. Tartan based on Campbell of Breadalbane. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/db18k2db2k2db2k15r2g28r2k15db2k2db2k2~x2/) — ΔT 0.71
-1. [MacDonald #4](/setts/s12/db17r2db2r6db32r2k34dg32r6dg2r2dg17~x2/) — ΔT 0.74
-1. [Hebrides #10](/setts/s16/db2k2db18t1k13t1g16db3k2db3g16t1k13t1db18k2~x2/) — ΔT 0.75
-1. [MacDonald #5](/setts/s12/db12r2db2r5db26r2k29dg27r5dg2r2dg12~x2/) — ΔT 0.78
+1. [Riddoch Personal Tartan Tartan Number: 5856. Earliest known date: circa 1992 Designed by Tony Murray for an Albert (Bert) Riddoch of Bearsden, Glasgow as a private and personal tartan initially but it was then changed to usage by anyone of the name. Bert Riddoch (2002) is a private investgator involved in covert drugs investigations and 'highly thought of by the police'. Tartan based on Campbell of Breadalbane. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/g28r2k15db2k2db2k2db18~x2/) — ΔT 0.71
+1. [MacDonald #4](/setts/s12/dg17r2dg2r6dg32k34r2db32r6db2r2db17~x2/) — ΔT 0.74
+1. [Hebrides #10](/setts/s16/k2db18t1k13t1g16db3k2db3g16t1k13t1db18k2db2~x2/) — ΔT 0.75
+1. [MacDonald #5](/setts/s12/dg12r2dg2r5dg27k29r2db26r5db2r2db12~x2/) — ΔT 0.78
 1. [Gordon #2](/setts/s10/db56k6db6k6db6k44dg44ly4dg5ly8/) — ΔT 0.78
 1. [Campbell of Breadalbane (Military)](/setts/s13/db26k4db4k4db4k27ly5g47ly5k27db25k4db4~x2/) — ΔT 0.79
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db26k4db4k4db4k27ly5dg47ly5k27db25k4db4~x2/"><circle cx="214.8" cy="183.4" r="4" fill="#3465a4"><title>Campbell of Breadalbane #2</title></circle></a><a href="/setts/s12/db16r2db2r5db29r2k31dg29r5dg2r2dg16~x2/"><circle cx="223.4" cy="176.5" r="4" fill="#3465a4"><title>MacDonald #3</title></circle></a><a href="/setts/s11/k2db12k12g1t2g16t2g1k12db12k1~x4/"><circle cx="234.9" cy="191.2" r="4" fill="#3465a4"><title>Graham</title></circle></a><a href="/setts/s14/dg19k1dg4k1dg3k10db20ly1k7ly1db20k10ly3dg1~x2/"><circle cx="254.7" cy="161.7" r="4" fill="#3465a4"><title>Hope-Vere/Weir #2</title></circle></a><a href="/setts/s14/db18k2db2k2db2k15r2g28r2k15db2k2db2k2~x2/"><circle cx="258.0" cy="161.5" r="4" fill="#3465a4"><title>Riddoch Personal Tartan Tartan Number: 5856. Earliest known date: circa 1992 Designed by Tony Murray for an Albert (Bert) Riddoch of Bearsden, Glasgow as a private and personal tartan initially but it was then changed to usage by anyone of the name. Bert Riddoch (2002) is a private investgator involved in covert drugs investigations and 'highly thought of by the police'. Tartan based on Campbell of Breadalbane. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/db17r2db2r6db32r2k34dg32r6dg2r2dg17~x2/"><circle cx="225.2" cy="172.1" r="4" fill="#3465a4"><title>MacDonald #4</title></circle></a><a href="/setts/s16/db2k2db18t1k13t1g16db3k2db3g16t1k13t1db18k2~x2/"><circle cx="254.4" cy="165.1" r="4" fill="#3465a4"><title>Hebrides #10</title></circle></a><a href="/setts/s12/db12r2db2r5db26r2k29dg27r5dg2r2dg12~x2/"><circle cx="213.2" cy="175.3" r="4" fill="#3465a4"><title>MacDonald #5</title></circle></a><a href="/setts/s10/db56k6db6k6db6k44dg44ly4dg5ly8/"><circle cx="230.3" cy="178.3" r="4" fill="#3465a4"><title>Gordon #2</title></circle></a><a href="/setts/s13/db26k4db4k4db4k27ly5g47ly5k27db25k4db4~x2/"><circle cx="207.5" cy="180.0" r="4" fill="#3465a4"><title>Campbell of Breadalbane (Military)</title></circle></a><circle cx="238.8" cy="179.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db26k4db4k4db4k27ly5dg47ly5k27db25k4db4~x2/"><circle cx="214.9" cy="183.5" r="4" fill="#3465a4"><title>Campbell of Breadalbane #2</title></circle></a><a href="/setts/s12/dg16r2dg2r5dg29k31r2db29r5db2r2db16~x2/"><circle cx="223.4" cy="176.6" r="4" fill="#3465a4"><title>MacDonald #3</title></circle></a><a href="/setts/s11/k2db12k12g1t2g16t2g1k12db12k1~x4/"><circle cx="235.0" cy="191.2" r="4" fill="#3465a4"><title>Graham</title></circle></a><a href="/setts/s14/dg19k1dg4k1dg3k10db20ly1k7ly1db20k10ly3dg1~x2/"><circle cx="254.8" cy="161.8" r="4" fill="#3465a4"><title>Hope-Vere/Weir #2</title></circle></a><a href="/setts/s14/g28r2k15db2k2db2k2db18~x2/"><circle cx="258.0" cy="161.5" r="4" fill="#3465a4"><title>Riddoch Personal Tartan Tartan Number: 5856. Earliest known date: circa 1992 Designed by Tony Murray for an Albert (Bert) Riddoch of Bearsden, Glasgow as a private and personal tartan initially but it was then changed to usage by anyone of the name. Bert Riddoch (2002) is a private investgator involved in covert drugs investigations and 'highly thought of by the police'. Tartan based on Campbell of Breadalbane. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/dg17r2dg2r6dg32k34r2db32r6db2r2db17~x2/"><circle cx="225.3" cy="172.2" r="4" fill="#3465a4"><title>MacDonald #4</title></circle></a><a href="/setts/s16/k2db18t1k13t1g16db3k2db3g16t1k13t1db18k2db2~x2/"><circle cx="254.4" cy="165.2" r="4" fill="#3465a4"><title>Hebrides #10</title></circle></a><a href="/setts/s12/dg12r2dg2r5dg27k29r2db26r5db2r2db12~x2/"><circle cx="213.2" cy="175.4" r="4" fill="#3465a4"><title>MacDonald #5</title></circle></a><a href="/setts/s10/db56k6db6k6db6k44dg44ly4dg5ly8/"><circle cx="230.4" cy="178.3" r="4" fill="#3465a4"><title>Gordon #2</title></circle></a><a href="/setts/s13/db26k4db4k4db4k27ly5g47ly5k27db25k4db4~x2/"><circle cx="207.6" cy="180.0" r="4" fill="#3465a4"><title>Campbell of Breadalbane (Military)</title></circle></a><circle cx="238.8" cy="179.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db8k1db1k1db1k8ly1dg14ly1k8db8k1db1~x2/

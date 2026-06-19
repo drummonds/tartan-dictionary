@@ -2,7 +2,7 @@
 title: "London Fog Black"
 date: 2023-03-18
 ---
-**Bands:** [BKYWYK](/stripes/bkywyk/) · **Stripes:** [B K LR W LR K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="seq">B K LR W LR K</span></span>
+**Bands:** [KYWYKB](/stripes/kywykb/) · **Stripes:** [K LR W LR K B](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K LR W LR K B</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7269
 
 ## Thread count
-B/4 K100 N8 LN10 N4 K/20
+K/20 N4 LN10 N8 K100 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -39,7 +39,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/4 K100 N8 LN10 N4 K/20 tartan")
+![Tartan detail](tartan.png "K/20 N4 LN10 N8 K100 B/4 tartan")
 
 ## Nearest tartans
 
@@ -48,7 +48,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Black Country (District)](/setts/s8/k21r1k1ly1k1r1k3w3~x6/) — ΔT 0.87
 1. [Auld Bernensis](/setts/s8/k62r3k3lo3k3r3k9lr5~x2/) — ΔT 1.19
 1. [Merola (2016)](/setts/s6/k36ly5k1ly1lr5k12~x2/) — ΔT 1.19
-1. [East of Scotland Tartan Army](/setts/s6/dt40ly10dt8r20dt100w5/) — ΔT 1.20
+1. [East of Scotland Tartan Army](/setts/s6/dt40ly10dt8r20dt100w5/) — ΔT 1.21
 1. [Volkswagen Black Trim (Fashion)](/setts/s8/k20w1k1w3k1r1k1w1~x4/) — ΔT 1.34
 1. [Fily, Sylvain Roger](/setts/s5/r2g2k20w1db1~x6/) — ΔT 1.34
 1. [Dellen](/setts/s6/k80r6g3r12k2w2~x2/) — ΔT 1.35
@@ -58,8 +58,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k21r1k1ly1k1r1k3w3~x6/"><circle cx="528.9" cy="134.1" r="4" fill="#3465a4"><title>Black Country (District)</title></circle></a><a href="/setts/s8/k62r3k3lo3k3r3k9lr5~x2/"><circle cx="579.0" cy="142.1" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><a href="/setts/s6/k36ly5k1ly1lr5k12~x2/"><circle cx="552.3" cy="162.1" r="4" fill="#3465a4"><title>Merola (2016)</title></circle></a><a href="/setts/s6/dt40ly10dt8r20dt100w5/"><circle cx="518.6" cy="181.2" r="4" fill="#3465a4"><title>East of Scotland Tartan Army</title></circle></a><a href="/setts/s8/k20w1k1w3k1r1k1w1~x4/"><circle cx="526.6" cy="142.4" r="4" fill="#3465a4"><title>Volkswagen Black Trim (Fashion)</title></circle></a><a href="/setts/s5/r2g2k20w1db1~x6/"><circle cx="476.7" cy="150.1" r="4" fill="#3465a4"><title>Fily, Sylvain Roger</title></circle></a><a href="/setts/s6/k80r6g3r12k2w2~x2/"><circle cx="557.9" cy="131.6" r="4" fill="#3465a4"><title>Dellen</title></circle></a><a href="/setts/s8/k60r3k15r3lb2r5b3r2~x2/"><circle cx="568.4" cy="133.9" r="4" fill="#3465a4"><title>Whitaker (2014)</title></circle></a><a href="/setts/s9/k25w1n3w1k31n3k31w2o9~x2/"><circle cx="539.9" cy="156.0" r="4" fill="#3465a4"><title>Savannah Harley Davidson (Corporate)</title></circle></a><a href="/setts/s8/k31w1k2w2dt3k2t4w2~x4/"><circle cx="484.4" cy="117.3" r="4" fill="#3465a4"><title>Capco</title></circle></a><circle cx="539.7" cy="152.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k21r1k1ly1k1r1k3w3~x6/"><circle cx="528.7" cy="133.7" r="4" fill="#3465a4"><title>Black Country (District)</title></circle></a><a href="/setts/s8/k62r3k3lo3k3r3k9lr5~x2/"><circle cx="578.8" cy="141.7" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><a href="/setts/s6/k36ly5k1ly1lr5k12~x2/"><circle cx="552.1" cy="161.6" r="4" fill="#3465a4"><title>Merola (2016)</title></circle></a><a href="/setts/s6/dt40ly10dt8r20dt100w5/"><circle cx="518.4" cy="180.8" r="4" fill="#3465a4"><title>East of Scotland Tartan Army</title></circle></a><a href="/setts/s8/k20w1k1w3k1r1k1w1~x4/"><circle cx="526.3" cy="141.9" r="4" fill="#3465a4"><title>Volkswagen Black Trim (Fashion)</title></circle></a><a href="/setts/s5/r2g2k20w1db1~x6/"><circle cx="476.6" cy="149.8" r="4" fill="#3465a4"><title>Fily, Sylvain Roger</title></circle></a><a href="/setts/s6/k80r6g3r12k2w2~x2/"><circle cx="557.6" cy="131.3" r="4" fill="#3465a4"><title>Dellen</title></circle></a><a href="/setts/s8/k60r3k15r3lb2r5b3r2~x2/"><circle cx="568.1" cy="133.5" r="4" fill="#3465a4"><title>Whitaker (2014)</title></circle></a><a href="/setts/s9/k25w1n3w1k31n3k31w2o9~x2/"><circle cx="539.7" cy="155.7" r="4" fill="#3465a4"><title>Savannah Harley Davidson (Corporate)</title></circle></a><a href="/setts/s8/k31w1k2w2dt3k2t4w2~x4/"><circle cx="484.1" cy="117.0" r="4" fill="#3465a4"><title>Capco</title></circle></a><circle cx="539.5" cy="152.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k10lr2w5lr4k50b2~x2/

@@ -2,12 +2,18 @@
 title: "Ross, hunting"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGBGKGKGRGR](/stripes/gbgbgbgkgkgrgr/) · **Stripes:** [G T G T G T G K G K G R G R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">G T G T G T G K G K G R G R</span></span>
+**Bands:** [RGRGKGKGBGBGBG](/stripes/rgrgkgkgbgbgbg/) · **Stripes:** [R G R G K G K G T G T G T G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G K G K G T G T G T G</span></span>
 
 
 This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Ross, hunting
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -907,16 +916,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Greenshields, Alan (Personal)](/setts/s13/k4g20ly4g20ly26g4k10r3k16g18ly4g20k4/) — ΔT 1.22
 1. [Ronald, Clan (Clan)](/setts/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/) — ΔT 1.36
 1. [Walker, hunting](/setts/s12/r4k2g7k15g3k3g3k7g28k7g6k2/) — ΔT 1.40
-1. [MacIver Hunting](/setts/s9/ly2g12k3g3k16g3k3g12w2~x2/) — ΔT 1.43
+1. [MacIver Hunting](/setts/s9/w2g12k3g3k16g3k3g12ly2~x2/) — ΔT 1.43
 1. [William & Mary GALA (Corporate)](/setts/s11/k3db10dg25ly2dg2ly3dg2ly2dg25db10w3~x2/) — ΔT 1.47
 1. [Bartlett from Winnetka, Illinois](/setts/s13/k3g3ly2g4k2g3k2g24db10ly2db10g30r3~x2/) — ΔT 1.51
 1. [Bute Heather, Glencallum (Fashion)](/setts/s11/ly13db2g38db13g8db8g17db2g17db4w11/) — ΔT 1.52
-1. [Monroig, Eric (Personal)](/setts/s12/ly2g16ly1b6r1ly1r1b6ly1g16b2r2~x2/) — ΔT 1.54
+1. [Monroig, Eric (Personal)](/setts/s12/r2b2g16ly1b6r1ly1r1b6ly1g16ly2~x2/) — ΔT 1.55
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k8w3k8g4k4g32k4g32k4g4k8w3k8t4~x2/"><circle cx="315.6" cy="170.8" r="4" fill="#3465a4"><title>Hartmann (Personal)</title></circle></a><a href="/setts/s14/dg2w4dg2w1dg1w1dg3k2dg2k2dg12r1dg2r1~x2/"><circle cx="332.8" cy="150.7" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><a href="/setts/s13/k4g20ly4g20ly26g4k10r3k16g18ly4g20k4/"><circle cx="223.8" cy="192.8" r="4" fill="#3465a4"><title>Greenshields, Alan (Personal)</title></circle></a><a href="/setts/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/"><circle cx="324.0" cy="160.9" r="4" fill="#3465a4"><title>Ronald, Clan (Clan)</title></circle></a><a href="/setts/s12/r4k2g7k15g3k3g3k7g28k7g6k2/"><circle cx="274.1" cy="164.1" r="4" fill="#3465a4"><title>Walker, hunting</title></circle></a><a href="/setts/s9/ly2g12k3g3k16g3k3g12w2~x2/"><circle cx="273.9" cy="205.3" r="4" fill="#3465a4"><title>MacIver Hunting</title></circle></a><a href="/setts/s11/k3db10dg25ly2dg2ly3dg2ly2dg25db10w3~x2/"><circle cx="323.9" cy="153.3" r="4" fill="#3465a4"><title>William &amp; Mary GALA (Corporate)</title></circle></a><a href="/setts/s13/k3g3ly2g4k2g3k2g24db10ly2db10g30r3~x2/"><circle cx="347.0" cy="136.3" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/setts/s11/ly13db2g38db13g8db8g17db2g17db4w11/"><circle cx="286.8" cy="152.2" r="4" fill="#3465a4"><title>Bute Heather, Glencallum (Fashion)</title></circle></a><a href="/setts/s12/ly2g16ly1b6r1ly1r1b6ly1g16b2r2~x2/"><circle cx="324.7" cy="144.1" r="4" fill="#3465a4"><title>Monroig, Eric (Personal)</title></circle></a><circle cx="284.4" cy="168.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k8w3k8g4k4g32k4g32k4g4k8w3k8t4~x2/"><circle cx="315.5" cy="170.7" r="4" fill="#3465a4"><title>Hartmann (Personal)</title></circle></a><a href="/setts/s14/dg2w4dg2w1dg1w1dg3k2dg2k2dg12r1dg2r1~x2/"><circle cx="332.5" cy="150.4" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><a href="/setts/s13/k4g20ly4g20ly26g4k10r3k16g18ly4g20k4/"><circle cx="223.6" cy="192.6" r="4" fill="#3465a4"><title>Greenshields, Alan (Personal)</title></circle></a><a href="/setts/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/"><circle cx="323.8" cy="160.8" r="4" fill="#3465a4"><title>Ronald, Clan (Clan)</title></circle></a><a href="/setts/s12/r4k2g7k15g3k3g3k7g28k7g6k2/"><circle cx="274.1" cy="164.0" r="4" fill="#3465a4"><title>Walker, hunting</title></circle></a><a href="/setts/s9/w2g12k3g3k16g3k3g12ly2~x2/"><circle cx="273.8" cy="205.1" r="4" fill="#3465a4"><title>MacIver Hunting</title></circle></a><a href="/setts/s11/k3db10dg25ly2dg2ly3dg2ly2dg25db10w3~x2/"><circle cx="323.8" cy="153.2" r="4" fill="#3465a4"><title>William &amp; Mary GALA (Corporate)</title></circle></a><a href="/setts/s13/k3g3ly2g4k2g3k2g24db10ly2db10g30r3~x2/"><circle cx="346.8" cy="136.1" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/setts/s11/ly13db2g38db13g8db8g17db2g17db4w11/"><circle cx="286.6" cy="152.0" r="4" fill="#3465a4"><title>Bute Heather, Glencallum (Fashion)</title></circle></a><a href="/setts/s12/r2b2g16ly1b6r1ly1r1b6ly1g16ly2~x2/"><circle cx="324.3" cy="143.9" r="4" fill="#3465a4"><title>Monroig, Eric (Personal)</title></circle></a><circle cx="284.2" cy="168.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/g4t6g3t2g3t2g3k5g3k5g20r3g4r3~x2/

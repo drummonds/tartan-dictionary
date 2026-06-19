@@ -21,14 +21,14 @@ BKBYK
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB K DB LO K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K DB LO K</span></span>
+### K LO DB K DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K LO DB K DB</span></span>
 
 | Tartans |
 |---------------|
 | [Johore Regiment (Military)](/setts/s5/db20k5db18lo26k6~x2/)|
 |![Johore Regiment (Military) example sett](/setts/s5/db20k5db18lo26k6~x2/sett.png)|
 
-### DB K DB LY K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K DB LY K</span></span>
+### K LY DB K DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K LY DB K DB</span></span>
 
 | Tartans |
 |---------------|

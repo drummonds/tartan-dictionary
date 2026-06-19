@@ -20,7 +20,7 @@ BYBYRRR
 
 
 
-### DB LR DB LR M O M <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#CA047B"></span><span class="seq">DB LR DB LR M O M</span></span>
+### M O M LR DB LR DB <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="seq">M O M LR DB LR DB</span></span>
 
 | Tartans |
 |---------------|

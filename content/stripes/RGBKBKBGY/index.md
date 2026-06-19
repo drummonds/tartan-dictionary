@@ -22,6 +22,6 @@ RGBKBKBGY
 
 | Tartans |
 |---------------|
-| [Cambridge (Fashion)](/setts/s9/ly4g73db73k4t4k4db73g73r4/)|
-|![Cambridge (Fashion) example sett](/setts/s9/ly4g73db73k4t4k4db73g73r4/sett.png)|
+| [Cambridge (Fashion)](/setts/s9/r4g73db73k4t4k4db73g73ly4/)|
+|![Cambridge (Fashion) example sett](/setts/s9/r4g73db73k4t4k4db73g73ly4/sett.png)|
 

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db25w2db25t25r2t25g25ly2g25~x2/"><circle cx="148.7" cy="191.5" r="4" fill="#3465a4"><title>Royal Columbian Canadian Tartan Tartan Number: 1900. Earliest known date: pre 2003 This entry needs checking. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/t22r3t2w3do14y20ly2y20do14t11lr6~x2/"><circle cx="131.4" cy="161.9" r="4" fill="#3465a4"><title>Wisconsin</title></circle></a><a href="/setts/s9/dg3lo2m10dg10b20dg12r3b10w2~x2/"><circle cx="185.7" cy="189.6" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/setts/s7/db7b12k3b12dy12g25dt3~x2/"><circle cx="132.2" cy="215.3" r="4" fill="#3465a4"><title>Scottish Odyssey (Fashion)</title></circle></a><a href="/setts/s10/lo7g11db4t31db4g11dy4db14lb3db4~x2/"><circle cx="137.9" cy="164.9" r="4" fill="#3465a4"><title>State Seal of Nebraska (Fashion)</title></circle></a><a href="/setts/s14/y11db6g6ly1db2ly1g6db6y11k1r3k1g5db5~x2/"><circle cx="130.6" cy="160.5" r="4" fill="#3465a4"><title>Penman</title></circle></a><a href="/setts/s12/t18dt3t10dt3t10dt14lo2r7lo2lg14lo2dt14~x2/"><circle cx="168.0" cy="195.7" r="4" fill="#3465a4"><title>Ralston (UK)</title></circle></a><a href="/setts/s6/k1ly1db8g10db7w1~x2/"><circle cx="164.9" cy="201.3" r="4" fill="#3465a4"><title>Porteous Family Tartan Tartan Number: 1264. Earliest known date: 1978 Designed for the Porteous Family Association, and submitted to the Monitoring Committee of the Scottish Tartan Society by Captain Barry Porteous who was president of the association at that time. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/o11db6g6ly1db2ly1g6db6o11k1r3k1g5db5~x2/"><circle cx="128.6" cy="158.4" r="4" fill="#3465a4"><title>Penman Family Tartan Tartan Number: 167. Earliest known date: pre 1992 The late William Penman supplied members of the Penman family with this tartan for many years. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/b7db11k3db11dy11g22db3~x2/"><circle cx="101.9" cy="215.7" r="4" fill="#3465a4"><title>Scottish Odyssey</title></circle></a><circle cx="151.5" cy="199.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db25w2db25t25r2t25g25ly2g25~x2/"><circle cx="148.8" cy="191.7" r="4" fill="#3465a4"><title>Royal Columbian Canadian Tartan Tartan Number: 1900. Earliest known date: pre 2003 This entry needs checking. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/t22r3t2w3do14y20ly2y20do14t11lr6~x2/"><circle cx="131.4" cy="162.2" r="4" fill="#3465a4"><title>Wisconsin</title></circle></a><a href="/setts/s9/dg3lo2m10dg10b20dg12r3b10w2~x2/"><circle cx="185.8" cy="189.7" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/setts/s7/db7b12k3b12dy12g25dt3~x2/"><circle cx="132.4" cy="215.4" r="4" fill="#3465a4"><title>Scottish Odyssey (Fashion)</title></circle></a><a href="/setts/s10/lo7g11db4t31db4g11dy4db14lb3db4~x2/"><circle cx="137.9" cy="165.0" r="4" fill="#3465a4"><title>State Seal of Nebraska (Fashion)</title></circle></a><a href="/setts/s14/y11db6g6ly1db2ly1g6db6y11k1r3k1g5db5~x2/"><circle cx="130.5" cy="160.7" r="4" fill="#3465a4"><title>Penman</title></circle></a><a href="/setts/s12/t18dt3t10dt3t10dt14lo2r7lo2lg14lo2dt14~x2/"><circle cx="168.0" cy="195.8" r="4" fill="#3465a4"><title>Ralston (UK)</title></circle></a><a href="/setts/s6/k1ly1db8g10db7w1~x2/"><circle cx="165.0" cy="201.5" r="4" fill="#3465a4"><title>Porteous Family Tartan Tartan Number: 1264. Earliest known date: 1978 Designed for the Porteous Family Association, and submitted to the Monitoring Committee of the Scottish Tartan Society by Captain Barry Porteous who was president of the association at that time. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/o11db6g6ly1db2ly1g6db6o11k1r3k1g5db5~x2/"><circle cx="128.6" cy="158.6" r="4" fill="#3465a4"><title>Penman Family Tartan Tartan Number: 167. Earliest known date: pre 1992 The late William Penman supplied members of the Penman family with this tartan for many years. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/b7db11k3db11dy11g22db3~x2/"><circle cx="102.1" cy="215.8" r="4" fill="#3465a4"><title>Scottish Odyssey</title></circle></a><circle cx="151.6" cy="199.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/db25t25r2t25g25y2g25db25w4~x2/

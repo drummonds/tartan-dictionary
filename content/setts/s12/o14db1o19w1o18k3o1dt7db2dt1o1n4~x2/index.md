@@ -2,7 +2,7 @@
 title: "Orkney Magnus"
 date: 2023-03-18
 ---
-**Bands:** [BRBBBRKRWRBR](/stripes/brbbbrkrwrbr/) · **Stripes:** [N O DT DB DT O K O W O DB O](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="seq">N O DT DB DT O K O W O DB O</span></span>
+**Bands:** [RBRWRKRBBBRB](/stripes/rbrwrkrbbbrb/) · **Stripes:** [O DB O W O K O DT DB DT O N](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="seq">O DB O W O K O DT DB DT O N</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [11158](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11158)
 
 ## Thread count
-N/8 Na2 DN2 DB4 DN14 Na2 K6 Na36 W2 Na38 DB2 Na/28
+Na/28 DB2 Na38 W2 Na36 K6 Na2 DN14 DB4 DN2 Na2 N/8
 ![Sett](sett.png)
 
 ## Palette
@@ -41,15 +41,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Kuehle Family (Personal)](/setts/s11/y30db6p1w2p6w2p1db6y30lb1r3~x2/) — ΔT 1.32
 1. [Kuehle Hunting (Personal)](/setts/s11/lo30db6m1w2m6w2m1db6lo30lb1r3~x2/) — ΔT 1.36
 1. [Pounds (Name)](/setts/s16/n21k3n15k4o6k3n2r3n1lo2n1dp3n18k2n2k2~x2/) — ΔT 1.52
-1. [Stuart/Stewart Authentic Grey](/setts/s12/ly1y2k1y3k4w1k1w1y3r1y20r1~x2/) — ΔT 1.53
-1. [Stewart Grey Fancy Tartan Tartan Number: 1632. Earliest known date: pre 2003 Plain weave. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/ly1o2k1o3k4w1k1w1o3r1o20r1~x2/) — ΔT 1.57
+1. [Stuart/Stewart Authentic Grey](/setts/s12/r1y20r1y3w1k1w1k4y3k1y2ly1~x2/) — ΔT 1.53
+1. [Stewart Grey Fancy Tartan Tartan Number: 1632. Earliest known date: pre 2003 Plain weave. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/r1o20r1o3w1k1w1k4o3k1o2ly1~x2/) — ΔT 1.57
 1. [Yukon](/setts/s11/t20dp4r4w4g4ly4t4ly1t2ly1t20~x4/) — ΔT 1.58
-1. [Pounds](/setts/s16/n21k3n15k4o6k3n2r3n1ly2n1p3n18k2n2k2~x2/) — ΔT 1.62
+1. [Orkney Magnus](/setts/s12/o14db1o19w1o18k3o1n7db2n1lb1o4~x2/) — ΔT 1.62
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/t27w2t15ly1t1ly1t15k2w2ly16r1~x2/"><circle cx="423.6" cy="111.6" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Hunting) (Personal)</title></circle></a><a href="/setts/s11/n6k1lo6k1n28w1k2w1n16w1r5~x2/"><circle cx="476.5" cy="117.6" r="4" fill="#3465a4"><title>Historic Caledonian Railway Enthusiasts', The</title></circle></a><a href="/setts/s9/n14b3n2lb8n5lb2k2n25w2~x2/"><circle cx="415.3" cy="161.5" r="4" fill="#3465a4"><title>Turnberry Scotland</title></circle></a><a href="/setts/s11/y30db6p1w2p6w2p1db6y30lb1r3~x2/"><circle cx="422.0" cy="100.0" r="4" fill="#3465a4"><title>Kuehle Family (Personal)</title></circle></a><a href="/setts/s11/lo30db6m1w2m6w2m1db6lo30lb1r3~x2/"><circle cx="413.3" cy="88.8" r="4" fill="#3465a4"><title>Kuehle Hunting (Personal)</title></circle></a><a href="/setts/s16/n21k3n15k4o6k3n2r3n1lo2n1dp3n18k2n2k2~x2/"><circle cx="406.2" cy="119.7" r="4" fill="#3465a4"><title>Pounds (Name)</title></circle></a><a href="/setts/s12/ly1y2k1y3k4w1k1w1y3r1y20r1~x2/"><circle cx="438.2" cy="96.8" r="4" fill="#3465a4"><title>Stuart/Stewart Authentic Grey</title></circle></a><a href="/setts/s12/ly1o2k1o3k4w1k1w1o3r1o20r1~x2/"><circle cx="434.7" cy="94.5" r="4" fill="#3465a4"><title>Stewart Grey Fancy Tartan Tartan Number: 1632. Earliest known date: pre 2003 Plain weave. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/t20dp4r4w4g4ly4t4ly1t2ly1t20~x4/"><circle cx="356.2" cy="116.6" r="4" fill="#3465a4"><title>Yukon</title></circle></a><a href="/setts/s16/n21k3n15k4o6k3n2r3n1ly2n1p3n18k2n2k2~x2/"><circle cx="401.3" cy="119.5" r="4" fill="#3465a4"><title>Pounds</title></circle></a><circle cx="421.7" cy="119.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/t27w2t15ly1t1ly1t15k2w2ly16r1~x2/"><circle cx="423.2" cy="111.5" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Hunting) (Personal)</title></circle></a><a href="/setts/s11/n6k1lo6k1n28w1k2w1n16w1r5~x2/"><circle cx="476.0" cy="117.4" r="4" fill="#3465a4"><title>Historic Caledonian Railway Enthusiasts', The</title></circle></a><a href="/setts/s9/n14b3n2lb8n5lb2k2n25w2~x2/"><circle cx="415.0" cy="161.3" r="4" fill="#3465a4"><title>Turnberry Scotland</title></circle></a><a href="/setts/s11/y30db6p1w2p6w2p1db6y30lb1r3~x2/"><circle cx="421.7" cy="100.0" r="4" fill="#3465a4"><title>Kuehle Family (Personal)</title></circle></a><a href="/setts/s11/lo30db6m1w2m6w2m1db6lo30lb1r3~x2/"><circle cx="412.8" cy="88.8" r="4" fill="#3465a4"><title>Kuehle Hunting (Personal)</title></circle></a><a href="/setts/s16/n21k3n15k4o6k3n2r3n1lo2n1dp3n18k2n2k2~x2/"><circle cx="405.9" cy="119.7" r="4" fill="#3465a4"><title>Pounds (Name)</title></circle></a><a href="/setts/s12/r1y20r1y3w1k1w1k4y3k1y2ly1~x2/"><circle cx="437.7" cy="96.6" r="4" fill="#3465a4"><title>Stuart/Stewart Authentic Grey</title></circle></a><a href="/setts/s12/r1o20r1o3w1k1w1k4o3k1o2ly1~x2/"><circle cx="434.2" cy="94.3" r="4" fill="#3465a4"><title>Stewart Grey Fancy Tartan Tartan Number: 1632. Earliest known date: pre 2003 Plain weave. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/t20dp4r4w4g4ly4t4ly1t2ly1t20~x4/"><circle cx="355.8" cy="116.5" r="4" fill="#3465a4"><title>Yukon</title></circle></a><a href="/setts/s12/o14db1o19w1o18k3o1n7db2n1lb1o4~x2/"><circle cx="497.4" cy="140.1" r="4" fill="#3465a4"><title>Orkney Magnus</title></circle></a><circle cx="421.3" cy="119.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/o14db1o19w1o18k3o1dt7db2dt1o1n4~x2/

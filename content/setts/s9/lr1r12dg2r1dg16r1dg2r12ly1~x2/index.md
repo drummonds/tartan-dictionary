@@ -56,11 +56,11 @@ External register numbers recorded for this tartan.
 
 Other setts woven to the same stripe pattern.
 
-- [MacFie](/setts/s9/lr2r12dg2r1dg32r1dg2r12ly2~x2/)
+- [MacFie](/setts/s9/lr2r12dg2r1dg32r1dg2r12ly2/)
 
 
 ## Thread count
-LG/2 DR24 DG4 DR2 DG32 DR2 DG4 DR24 N/2
+N/2 DR24 DG4 DR2 DG32 DR2 DG4 DR24 LG/2
 ![Sett](sett.png)
 
 ## Palette
@@ -78,20 +78,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Cumming VS](/setts/s10/r4dg8lr1dg8r4dg4r2dg4r24k2~x2/) — ΔT 0.76
-1. [Scott](/setts/s10/dg4r3k1r28dg14r4dg4lr3dg4r4~x2/) — ΔT 0.94
-1. [Scott](/setts/s10/dg4r3k1r28dg14r4dg4lr3dg4r4/) — ΔT 0.94
+1. [Scott](/setts/s10/dg4r3k1r28dg14r4dg4lr3dg4r4~x2/) — ΔT 0.95
 1. [Burnett of Leys Family Tartan Tartan Number: 2355. Earliest known date: Unknown In Scottish Tartan Society Files but source unknown. At present woven by Lochcarron. The entry in the Lyon Court Books does not define the pattern. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r2g6ly1g6r3g2r16t1~x4/) — ΔT 0.95
 1. [Kirk (Name)](/setts/s7/r4g21r4k7r34lo3r4~x2/) — ΔT 0.96
-1. [Kirk](/setts/s12/r4lo3r34k7r4g21r4g21r4k7r34lo3~x2/) — ΔT 1.04
-1. [MacFie](/setts/s9/lb1r12dg2r1dg16r1dg2r12ly1/) — ΔT 1.04
+1. [Kirk](/setts/s12/r4g21r4k7r34lo3r4~x2/) — ΔT 1.04
+1. [MacFie](/setts/s9/ly1r12dg2r1dg16r1dg2r12lb1/) — ΔT 1.04
 1. [Livingston](/setts/s10/dg12r4k1r2k1r4dg16r20dg2r8~x2/) — ΔT 1.07
-1. [MacPhie/Macfie](/setts/s9/ly1r12g2r1g16r1g2r12w1~x4/) — ΔT 1.10
+1. [MacPhie/Macfie](/setts/s9/w1r12g2r1g16r1g2r12ly1~x4/) — ΔT 1.10
 1. [Burnett](/setts/s8/r2g6ly1g6r3g2r16db1~x4/) — ΔT 1.15
+1. [Cumming SM](/setts/s8/r3dg9lr1dg9r3dg6r18k2~x2/) — ΔT 1.19
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r4dg8lr1dg8r4dg4r2dg4r24k2~x2/"><circle cx="395.7" cy="152.9" r="4" fill="#3465a4"><title>Cumming VS</title></circle></a><a href="/setts/s10/dg4r3k1r28dg14r4dg4lr3dg4r4~x2/"><circle cx="408.9" cy="141.3" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s10/dg4r3k1r28dg14r4dg4lr3dg4r4/"><circle cx="408.9" cy="141.3" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s8/r2g6ly1g6r3g2r16t1~x4/"><circle cx="378.3" cy="168.7" r="4" fill="#3465a4"><title>Burnett of Leys Family Tartan Tartan Number: 2355. Earliest known date: Unknown In Scottish Tartan Society Files but source unknown. At present woven by Lochcarron. The entry in the Lyon Court Books does not define the pattern. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r4g21r4k7r34lo3r4~x2/"><circle cx="376.5" cy="194.1" r="4" fill="#3465a4"><title>Kirk (Name)</title></circle></a><a href="/setts/s12/r4lo3r34k7r4g21r4g21r4k7r34lo3~x2/"><circle cx="345.8" cy="175.0" r="4" fill="#3465a4"><title>Kirk</title></circle></a><a href="/setts/s9/lb1r12dg2r1dg16r1dg2r12ly1/"><circle cx="360.5" cy="154.7" r="4" fill="#3465a4"><title>MacFie</title></circle></a><a href="/setts/s10/dg12r4k1r2k1r4dg16r20dg2r8~x2/"><circle cx="403.0" cy="187.7" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/setts/s9/ly1r12g2r1g16r1g2r12w1~x4/"><circle cx="361.9" cy="155.2" r="4" fill="#3465a4"><title>MacPhie/Macfie</title></circle></a><a href="/setts/s8/r2g6ly1g6r3g2r16db1~x4/"><circle cx="372.3" cy="166.9" r="4" fill="#3465a4"><title>Burnett</title></circle></a><circle cx="387.9" cy="172.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r4dg8lr1dg8r4dg4r2dg4r24k2~x2/"><circle cx="395.4" cy="152.8" r="4" fill="#3465a4"><title>Cumming VS</title></circle></a><a href="/setts/s10/dg4r3k1r28dg14r4dg4lr3dg4r4~x2/"><circle cx="408.5" cy="141.2" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s8/r2g6ly1g6r3g2r16t1~x4/"><circle cx="377.8" cy="168.5" r="4" fill="#3465a4"><title>Burnett of Leys Family Tartan Tartan Number: 2355. Earliest known date: Unknown In Scottish Tartan Society Files but source unknown. At present woven by Lochcarron. The entry in the Lyon Court Books does not define the pattern. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r4g21r4k7r34lo3r4~x2/"><circle cx="376.2" cy="194.0" r="4" fill="#3465a4"><title>Kirk (Name)</title></circle></a><a href="/setts/s12/r4g21r4k7r34lo3r4~x2/"><circle cx="345.5" cy="175.0" r="4" fill="#3465a4"><title>Kirk</title></circle></a><a href="/setts/s9/ly1r12dg2r1dg16r1dg2r12lb1/"><circle cx="360.1" cy="154.6" r="4" fill="#3465a4"><title>MacFie</title></circle></a><a href="/setts/s10/dg12r4k1r2k1r4dg16r20dg2r8~x2/"><circle cx="402.7" cy="187.6" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/setts/s9/w1r12g2r1g16r1g2r12ly1~x4/"><circle cx="361.5" cy="155.1" r="4" fill="#3465a4"><title>MacPhie/Macfie</title></circle></a><a href="/setts/s8/r2g6ly1g6r3g2r16db1~x4/"><circle cx="371.9" cy="166.7" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/setts/s8/r3dg9lr1dg9r3dg6r18k2~x2/"><circle cx="331.4" cy="189.9" r="4" fill="#3465a4"><title>Cumming SM</title></circle></a><circle cx="387.5" cy="172.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/lr1r12dg2r1dg16r1dg2r12ly1~x2/

@@ -2,7 +2,7 @@
 title: "Potts (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GBBBGK](/stripes/gbbbgk/) · **Stripes:** [Y DB DO DB Y K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="seq">Y DB DO DB Y K</span></span>
+**Bands:** [KGBBBG](/stripes/kgbbbg/) · **Stripes:** [K Y DB DO DB Y](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K Y DB DO DB Y</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -37,12 +37,12 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Potts (Personal)](/setts/s6/ly1y3db3do28db36y1~x2/) — ΔT 0.67
+1. [Potts (Personal)](/setts/s6/y1db36do28db3y3ly1~x2/) — ΔT 0.67
 1. [Earl Blue Marl](/setts/s6/db80k28dp9k3m5k12~x2/) — ΔT 1.40
 1. [Round Table (1997)](/setts/s6/db47dg14dp5do2r3dg7~x2/) — ΔT 1.41
 1. [U.S. Navy/Edzell (Military)](/setts/s6/dt45db7w3db27r1db7~x2/) — ΔT 1.46
 1. [Dalziel Rugby Club (Corporate)](/setts/s7/db56k4w1db6k20w2k20~x2/) — ΔT 1.50
-1. [Finnie (Personal)](/setts/s8/db4y4db37k20y1dp5y1k4~x2/) — ΔT 1.53
+1. [Finnie (Personal)](/setts/s8/k4y1dp5y1k20db37y4db4~x2/) — ΔT 1.53
 1. [Klappert Original (Odsherred, Denmark) (Personal)](/setts/s9/r1k1dt30k6dt1k6dy8k1r1~x2/) — ΔT 1.54
 1. [Scottish Heritage](/setts/s8/k2db6k1db7dg13k11db42r2~x2/) — ΔT 1.66
 1. [Blue Spirit Fashion Tartan Tartan Number: 7001. Earliest known date: 01/08/2006 Designed by Kirsty Anderson of The House of Edgar for ACS Clothing of Glasgow. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/db3k12db3k17db40k2db2w1~x2/) — ΔT 1.69
@@ -50,8 +50,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/ly1y3db3do28db36y1~x2/"><circle cx="453.2" cy="186.7" r="4" fill="#3465a4"><title>Potts (Personal)</title></circle></a><a href="/setts/s6/db80k28dp9k3m5k12~x2/"><circle cx="453.2" cy="200.6" r="4" fill="#3465a4"><title>Earl Blue Marl</title></circle></a><a href="/setts/s6/db47dg14dp5do2r3dg7~x2/"><circle cx="442.4" cy="192.0" r="4" fill="#3465a4"><title>Round Table (1997)</title></circle></a><a href="/setts/s6/dt45db7w3db27r1db7~x2/"><circle cx="450.4" cy="200.3" r="4" fill="#3465a4"><title>U.S. Navy/Edzell (Military)</title></circle></a><a href="/setts/s7/db56k4w1db6k20w2k20~x2/"><circle cx="499.7" cy="195.3" r="4" fill="#3465a4"><title>Dalziel Rugby Club (Corporate)</title></circle></a><a href="/setts/s8/db4y4db37k20y1dp5y1k4~x2/"><circle cx="466.5" cy="197.4" r="4" fill="#3465a4"><title>Finnie (Personal)</title></circle></a><a href="/setts/s9/r1k1dt30k6dt1k6dy8k1r1~x2/"><circle cx="444.4" cy="164.8" r="4" fill="#3465a4"><title>Klappert Original (Odsherred, Denmark) (Personal)</title></circle></a><a href="/setts/s8/k2db6k1db7dg13k11db42r2~x2/"><circle cx="461.5" cy="178.7" r="4" fill="#3465a4"><title>Scottish Heritage</title></circle></a><a href="/setts/s8/db3k12db3k17db40k2db2w1~x2/"><circle cx="537.4" cy="205.7" r="4" fill="#3465a4"><title>Blue Spirit Fashion Tartan Tartan Number: 7001. Earliest known date: 01/08/2006 Designed by Kirsty Anderson of The House of Edgar for ACS Clothing of Glasgow. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/k28r1k2r1k8db24dg2db3~x2/"><circle cx="424.5" cy="177.9" r="4" fill="#3465a4"><title>Home or Hume (Vestiarium Scoticum)</title></circle></a><circle cx="472.8" cy="197.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/y1db36do28db3y3ly1~x2/"><circle cx="453.1" cy="186.7" r="4" fill="#3465a4"><title>Potts (Personal)</title></circle></a><a href="/setts/s6/db80k28dp9k3m5k12~x2/"><circle cx="453.2" cy="200.6" r="4" fill="#3465a4"><title>Earl Blue Marl</title></circle></a><a href="/setts/s6/db47dg14dp5do2r3dg7~x2/"><circle cx="442.3" cy="192.0" r="4" fill="#3465a4"><title>Round Table (1997)</title></circle></a><a href="/setts/s6/dt45db7w3db27r1db7~x2/"><circle cx="450.4" cy="200.4" r="4" fill="#3465a4"><title>U.S. Navy/Edzell (Military)</title></circle></a><a href="/setts/s7/db56k4w1db6k20w2k20~x2/"><circle cx="499.7" cy="195.2" r="4" fill="#3465a4"><title>Dalziel Rugby Club (Corporate)</title></circle></a><a href="/setts/s8/k4y1dp5y1k20db37y4db4~x2/"><circle cx="466.4" cy="197.5" r="4" fill="#3465a4"><title>Finnie (Personal)</title></circle></a><a href="/setts/s9/r1k1dt30k6dt1k6dy8k1r1~x2/"><circle cx="444.3" cy="164.8" r="4" fill="#3465a4"><title>Klappert Original (Odsherred, Denmark) (Personal)</title></circle></a><a href="/setts/s8/k2db6k1db7dg13k11db42r2~x2/"><circle cx="461.5" cy="178.8" r="4" fill="#3465a4"><title>Scottish Heritage</title></circle></a><a href="/setts/s8/db3k12db3k17db40k2db2w1~x2/"><circle cx="537.3" cy="205.6" r="4" fill="#3465a4"><title>Blue Spirit Fashion Tartan Tartan Number: 7001. Earliest known date: 01/08/2006 Designed by Kirsty Anderson of The House of Edgar for ACS Clothing of Glasgow. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/k28r1k2r1k8db24dg2db3~x2/"><circle cx="424.4" cy="177.9" r="4" fill="#3465a4"><title>Home or Hume (Vestiarium Scoticum)</title></circle></a><circle cx="472.7" cy="197.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k1y3db3do28db36y1~x2/

@@ -22,6 +22,6 @@ BWBBGBYGYGYGYWBYBWYGYGYGYBGBBW
 
 | Tartans |
 |---------------|
-| [All Irish Blue Irish District Tartan Tartan Number: 4066. Earliest known date: 1997 Part of a collection produced by Lochcarron in 1997 to acknowledge the early historical and cultural links between the Scots and Irish. Lochcarron sample. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s30/b6lb2db2b30g2b2lo2g4lo2g2lo1g18lo1lb2db2lo4db2lb2lo1g18lo1g2lo2g4lo2b2g2b30db2lb2~x2/)|
-|![All Irish Blue Irish District Tartan Tartan Number: 4066. Earliest known date: 1997 Part of a collection produced by Lochcarron in 1997 to acknowledge the early historical and cultural links between the Scots and Irish. Lochcarron sample. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s30/b6lb2db2b30g2b2lo2g4lo2g2lo1g18lo1lb2db2lo4db2lb2lo1g18lo1g2lo2g4lo2b2g2b30db2lb2~x2/sett.png)|
+| [All Irish Blue Irish District Tartan Tartan Number: 4066. Earliest known date: 1997 Part of a collection produced by Lochcarron in 1997 to acknowledge the early historical and cultural links between the Scots and Irish. Lochcarron sample. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s30/b6lb2db2b30g2b2lo2g4lo2g2lo1g18lo1lb2db2lo4~x2/)|
+|![All Irish Blue Irish District Tartan Tartan Number: 4066. Earliest known date: 1997 Part of a collection produced by Lochcarron in 1997 to acknowledge the early historical and cultural links between the Scots and Irish. Lochcarron sample. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s30/b6lb2db2b30g2b2lo2g4lo2g2lo1g18lo1lb2db2lo4~x2/sett.png)|
 

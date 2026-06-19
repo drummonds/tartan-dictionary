@@ -2,7 +2,7 @@
 title: "Moran (French) (Name)"
 date: 2023-03-18
 ---
-**Bands:** [BYKRYGKGKG](/stripes/bykrygkgkg/) · **Stripes:** [T LY K R LY DG K DG K DG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">T LY K R LY DG K DG K DG</span></span>
+**Bands:** [GKGKGYRKYB](/stripes/gkgkgyrkyb/) · **Stripes:** [DG K DG K DG LY R K LY T](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="seq">DG K DG K DG LY R K LY T</span></span>
 
 
 This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7385
 
 ## Thread count
-B/14 Y4 K16 R16 Y16 DG4 K4 DG4 K4 DG/134
+DG/134 K4 DG4 K4 DG4 Y16 R16 K16 Y4 B/14
 ![Sett](sett.png)
 
 ## Palette
@@ -49,14 +49,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Langtree](/setts/s12/k86n6k4lb3k3r3k3n22o14k3o6lb4/) — ΔT 1.21
 1. [Springbok](/setts/s12/dg3g2dg40dy2dg4dy8w1g4dg2o4ly4w2~x2/) — ΔT 1.24
 1. [Aviemore Highland (Corporate)](/setts/s7/dg40k3w1k5r1k2r10~x2/) — ΔT 1.24
-1. [Marsa Scout Group](/setts/s11/g4k1ly2k1g8k44r2db8k1k1r4~x2/) — ΔT 1.25
+1. [Marsa Scout Group](/setts/s11/r4k1k1db8r2k44g8k1ly2k1g4~x2/) — ΔT 1.25
 1. [Walterström (2014)](/setts/s8/dg78dt13ly6r3ly5dg6dt9ly6~x2/) — ΔT 1.26
-1. [Marsa Scout Group](/setts/s11/g4k1ly2k1g8k44r2k1db8k1r4~x2/) — ΔT 1.27
+1. [Marsa Scout Group](/setts/s11/r4k1db8k1r2k44g8k1ly2k1g4~x2/) — ΔT 1.27
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dg68k2dg2k2dg2lo8r8k8lo2db7~x2/"><circle cx="442.6" cy="104.1" r="4" fill="#3465a4"><title>Moran Family Ubique</title></circle></a><a href="/setts/s9/dg20r1ly1r1lb1dg1r1lb1db5~x4/"><circle cx="403.3" cy="123.1" r="4" fill="#3465a4"><title>Scotts Valley</title></circle></a><a href="/setts/s12/dg32t2k7ly1k1w1k2r7dg5k1dg3w1~x2/"><circle cx="382.1" cy="79.4" r="4" fill="#3465a4"><title>Stuart/Stewart (Variant)</title></circle></a><a href="/setts/s12/dg44db3k8ly2k2w2k2dg9r5k2r2w2~x2/"><circle cx="366.8" cy="88.4" r="4" fill="#3465a4"><title>Princess Mary</title></circle></a><a href="/setts/s12/k86n6k4lb3k3r3k3n22o14k3o6lb4/"><circle cx="396.9" cy="88.6" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/setts/s12/dg3g2dg40dy2dg4dy8w1g4dg2o4ly4w2~x2/"><circle cx="398.0" cy="75.4" r="4" fill="#3465a4"><title>Springbok</title></circle></a><a href="/setts/s7/dg40k3w1k5r1k2r10~x2/"><circle cx="421.5" cy="110.3" r="4" fill="#3465a4"><title>Aviemore Highland (Corporate)</title></circle></a><a href="/setts/s11/g4k1ly2k1g8k44r2db8k1k1r4~x2/"><circle cx="421.2" cy="84.3" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/setts/s8/dg78dt13ly6r3ly5dg6dt9ly6~x2/"><circle cx="427.6" cy="136.8" r="4" fill="#3465a4"><title>Walterström (2014)</title></circle></a><a href="/setts/s11/g4k1ly2k1g8k44r2k1db8k1r4~x2/"><circle cx="399.9" cy="73.7" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><circle cx="416.3" cy="92.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dg68k2dg2k2dg2lo8r8k8lo2db7~x2/"><circle cx="442.4" cy="104.0" r="4" fill="#3465a4"><title>Moran Family Ubique</title></circle></a><a href="/setts/s9/dg20r1ly1r1lb1dg1r1lb1db5~x4/"><circle cx="403.1" cy="122.9" r="4" fill="#3465a4"><title>Scotts Valley</title></circle></a><a href="/setts/s12/dg32t2k7ly1k1w1k2r7dg5k1dg3w1~x2/"><circle cx="381.8" cy="79.3" r="4" fill="#3465a4"><title>Stuart/Stewart (Variant)</title></circle></a><a href="/setts/s12/dg44db3k8ly2k2w2k2dg9r5k2r2w2~x2/"><circle cx="366.6" cy="88.4" r="4" fill="#3465a4"><title>Princess Mary</title></circle></a><a href="/setts/s12/k86n6k4lb3k3r3k3n22o14k3o6lb4/"><circle cx="396.7" cy="88.5" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/setts/s12/dg3g2dg40dy2dg4dy8w1g4dg2o4ly4w2~x2/"><circle cx="397.8" cy="75.4" r="4" fill="#3465a4"><title>Springbok</title></circle></a><a href="/setts/s7/dg40k3w1k5r1k2r10~x2/"><circle cx="421.2" cy="110.2" r="4" fill="#3465a4"><title>Aviemore Highland (Corporate)</title></circle></a><a href="/setts/s11/r4k1k1db8r2k44g8k1ly2k1g4~x2/"><circle cx="421.0" cy="84.2" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/setts/s8/dg78dt13ly6r3ly5dg6dt9ly6~x2/"><circle cx="427.4" cy="136.6" r="4" fill="#3465a4"><title>Walterström (2014)</title></circle></a><a href="/setts/s11/r4k1db8k1r2k44g8k1ly2k1g4~x2/"><circle cx="399.7" cy="73.6" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><circle cx="416.0" cy="92.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/dg67k2dg2k2dg2ly8r8k8ly2t7~x2/

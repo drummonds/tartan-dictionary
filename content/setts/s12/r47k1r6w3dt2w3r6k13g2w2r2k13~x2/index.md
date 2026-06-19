@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4148
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Trevison Personal
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -25,7 +31,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5846
 
 ## Thread count
-K/26 R4 LN4 G4 K26 R12 LN6 DB4 LN6 R12 K2 R/94
+R/94 K2 R12 LN6 DB4 LN6 R12 K26 G4 LN4 R4 K/26
 ![Sett](sett.png)
 
 ## Palette
@@ -48,16 +54,16 @@ The nearest existing variants by ΔTartan distance.
 1. [MacFarlane Red](/setts/s14/r98k3g21w5r5k2r5w5g2db21k7r7w8g4/) — ΔT 0.92
 1. [Leach, Leech, Leitch, dress](/setts/s9/r33w1k3w1g13r7k3p3w1~x2/) — ΔT 1.01
 1. [MacKintosh, MacPherson](/setts/s13/r36g8ly1k6t4k1t1k1t4r11w1k1r1~x2/) — ΔT 1.05
-1. [Stewart/Stuart of Rothesay (Sobieski)](/setts/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/) — ΔT 1.07
-1. [Stewart Royal](/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1~x2/) — ΔT 1.09
+1. [Stewart/Stuart of Rothesay (Sobieski)](/setts/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/) — ΔT 1.08
+1. [Stewart Royal](/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1/) — ΔT 1.09
 1. [Stewart of Rothesay](/setts/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/) — ΔT 1.12
 1. [Seton](/setts/s10/dg6lb1dg12r4db4r2k4r32dg1r2~x2/) — ΔT 1.12
 1. [Stuart/Stewart of Rothesay](/setts/s13/dg7r122db17r12k12ly3k4w3dg48r16k4r6w5/) — ΔT 1.17
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r52k5ly5k8o5dr5k2r6k1ly2~x2/"><circle cx="411.9" cy="49.0" r="4" fill="#3465a4"><title>Braemar, Castle</title></circle></a><a href="/setts/s10/r52k5ly5k8lo5do5k2r6k1ly2~x2/"><circle cx="429.1" cy="55.1" r="4" fill="#3465a4"><title>Braemar Castle Corporate Tartan Tartan Number: 1628. Earliest known date: 1985 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r98k3g21w5r5k2r5w5g2db21k7r7w8g4/"><circle cx="377.0" cy="29.0" r="4" fill="#3465a4"><title>MacFarlane Red</title></circle></a><a href="/setts/s9/r33w1k3w1g13r7k3p3w1~x2/"><circle cx="375.6" cy="81.9" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, dress</title></circle></a><a href="/setts/s13/r36g8ly1k6t4k1t1k1t4r11w1k1r1~x2/"><circle cx="372.5" cy="38.4" r="4" fill="#3465a4"><title>MacKintosh, MacPherson</title></circle></a><a href="/setts/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/"><circle cx="380.0" cy="87.8" r="4" fill="#3465a4"><title>Stewart/Stuart of Rothesay (Sobieski)</title></circle></a><a href="/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1~x2/"><circle cx="379.1" cy="34.1" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><a href="/setts/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/"><circle cx="369.3" cy="84.3" r="4" fill="#3465a4"><title>Stewart of Rothesay</title></circle></a><a href="/setts/s10/dg6lb1dg12r4db4r2k4r32dg1r2~x2/"><circle cx="369.5" cy="88.7" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s13/dg7r122db17r12k12ly3k4w3dg48r16k4r6w5/"><circle cx="372.3" cy="36.4" r="4" fill="#3465a4"><title>Stuart/Stewart of Rothesay</title></circle></a><circle cx="394.0" cy="50.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r52k5ly5k8o5dr5k2r6k1ly2~x2/"><circle cx="411.4" cy="48.8" r="4" fill="#3465a4"><title>Braemar, Castle</title></circle></a><a href="/setts/s10/r52k5ly5k8lo5do5k2r6k1ly2~x2/"><circle cx="428.6" cy="55.0" r="4" fill="#3465a4"><title>Braemar Castle Corporate Tartan Tartan Number: 1628. Earliest known date: 1985 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r98k3g21w5r5k2r5w5g2db21k7r7w8g4/"><circle cx="376.4" cy="28.9" r="4" fill="#3465a4"><title>MacFarlane Red</title></circle></a><a href="/setts/s9/r33w1k3w1g13r7k3p3w1~x2/"><circle cx="375.1" cy="81.7" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, dress</title></circle></a><a href="/setts/s13/r36g8ly1k6t4k1t1k1t4r11w1k1r1~x2/"><circle cx="372.1" cy="38.3" r="4" fill="#3465a4"><title>MacKintosh, MacPherson</title></circle></a><a href="/setts/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/"><circle cx="379.6" cy="87.7" r="4" fill="#3465a4"><title>Stewart/Stuart of Rothesay (Sobieski)</title></circle></a><a href="/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1/"><circle cx="378.7" cy="34.0" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><a href="/setts/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/"><circle cx="368.8" cy="84.2" r="4" fill="#3465a4"><title>Stewart of Rothesay</title></circle></a><a href="/setts/s10/dg6lb1dg12r4db4r2k4r32dg1r2~x2/"><circle cx="369.1" cy="88.6" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s13/dg7r122db17r12k12ly3k4w3dg48r16k4r6w5/"><circle cx="371.8" cy="36.4" r="4" fill="#3465a4"><title>Stuart/Stewart of Rothesay</title></circle></a><circle cx="393.5" cy="50.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r47k1r6w3dt2w3r6k13g2w2r2k13~x2/

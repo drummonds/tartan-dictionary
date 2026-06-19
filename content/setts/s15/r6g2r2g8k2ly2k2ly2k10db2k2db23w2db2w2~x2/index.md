@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 B4 LN4 B46 K4 B4 K20 Y4 K4 Y4 K4 G16 R4 G4 R/12
+R/12 G4 R4 G16 K4 Y4 K4 Y4 K20 B4 K4 B46 LN4 B4 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -915,7 +918,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Quebec, Plaid Du](/setts/s12/db25g5db2ly2k2r3g20r20db2w2k2r2~x2/) — ΔT 0.93
 1. [Stewart Blue](/setts/s12/t29db3k10ly2k2t2k2g10r5k3r2t2~x2/) — ΔT 1.02
 1. [Cunningham, hunting](/setts/s17/db10k1g1k1g1k1db10r3k10r3g10k1ly1k1w1k1g10~x2/) — ΔT 1.13
-1. [Glasgow, City of Culture](/setts/s11/ly6db2ly2db23k2w4k2g21r2g2r6~x2/) — ΔT 1.15
+1. [Glasgow, City of Culture](/setts/s11/r6g2r2g21k2w4k2db23ly2db2ly6~x2/) — ΔT 1.15
 1. [Cailean #2 (Fashion)](/setts/s12/o4k12db2k2db2k2db2o16dr3o2lr2o4~x2/) — ΔT 1.18
 1. [Royal Scottish Pipe Band Association](/setts/s12/lb6k1t20r2g3r2k15r2g3r2k6k3~x2/) — ΔT 1.20
 1. [Crozier/Crosser](/setts/s11/w4db5r3db22ly4k3dg17r7k2r7ly2~x2/) — ΔT 1.20
@@ -924,8 +927,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/dt48lo4dt28k5w4k6lo4k7g8k7lo4k6w4k5r24lo4g48/"><circle cx="108.7" cy="90.8" r="4" fill="#3465a4"><title>Total</title></circle></a><a href="/setts/s12/db25g5db2ly2k2r3g20r20db2w2k2r2~x2/"><circle cx="138.8" cy="106.1" r="4" fill="#3465a4"><title>Quebec, Plaid Du</title></circle></a><a href="/setts/s12/t29db3k10ly2k2t2k2g10r5k3r2t2~x2/"><circle cx="186.5" cy="96.8" r="4" fill="#3465a4"><title>Stewart Blue</title></circle></a><a href="/setts/s17/db10k1g1k1g1k1db10r3k10r3g10k1ly1k1w1k1g10~x2/"><circle cx="107.8" cy="114.9" r="4" fill="#3465a4"><title>Cunningham, hunting</title></circle></a><a href="/setts/s11/ly6db2ly2db23k2w4k2g21r2g2r6~x2/"><circle cx="129.8" cy="114.0" r="4" fill="#3465a4"><title>Glasgow, City of Culture</title></circle></a><a href="/setts/s12/o4k12db2k2db2k2db2o16dr3o2lr2o4~x2/"><circle cx="136.5" cy="130.6" r="4" fill="#3465a4"><title>Cailean #2 (Fashion)</title></circle></a><a href="/setts/s12/lb6k1t20r2g3r2k15r2g3r2k6k3~x2/"><circle cx="136.6" cy="96.5" r="4" fill="#3465a4"><title>Royal Scottish Pipe Band Association</title></circle></a><a href="/setts/s11/w4db5r3db22ly4k3dg17r7k2r7ly2~x2/"><circle cx="106.6" cy="128.9" r="4" fill="#3465a4"><title>Crozier/Crosser</title></circle></a><a href="/setts/s21/o16r2o2r2o2k16dg2b2dg2b2dg10r2g10b2g2b2g2k16o15r2o2~x2/"><circle cx="75.7" cy="107.9" r="4" fill="#3465a4"><title>Cherry Valley New York</title></circle></a><a href="/setts/s12/b2db18ly4k5ly1k1w1k2g8k1r3w1~x4/"><circle cx="124.0" cy="72.3" r="4" fill="#3465a4"><title>Bethune</title></circle></a><circle cx="128.4" cy="93.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/dt48lo4dt28k5w4k6lo4k7g8k7lo4k6w4k5r24lo4g48/"><circle cx="108.7" cy="90.9" r="4" fill="#3465a4"><title>Total</title></circle></a><a href="/setts/s12/db25g5db2ly2k2r3g20r20db2w2k2r2~x2/"><circle cx="138.8" cy="106.2" r="4" fill="#3465a4"><title>Quebec, Plaid Du</title></circle></a><a href="/setts/s12/t29db3k10ly2k2t2k2g10r5k3r2t2~x2/"><circle cx="186.4" cy="96.8" r="4" fill="#3465a4"><title>Stewart Blue</title></circle></a><a href="/setts/s17/db10k1g1k1g1k1db10r3k10r3g10k1ly1k1w1k1g10~x2/"><circle cx="107.9" cy="115.0" r="4" fill="#3465a4"><title>Cunningham, hunting</title></circle></a><a href="/setts/s11/r6g2r2g21k2w4k2db23ly2db2ly6~x2/"><circle cx="129.8" cy="114.1" r="4" fill="#3465a4"><title>Glasgow, City of Culture</title></circle></a><a href="/setts/s12/o4k12db2k2db2k2db2o16dr3o2lr2o4~x2/"><circle cx="136.6" cy="130.7" r="4" fill="#3465a4"><title>Cailean #2 (Fashion)</title></circle></a><a href="/setts/s12/lb6k1t20r2g3r2k15r2g3r2k6k3~x2/"><circle cx="136.6" cy="96.6" r="4" fill="#3465a4"><title>Royal Scottish Pipe Band Association</title></circle></a><a href="/setts/s11/w4db5r3db22ly4k3dg17r7k2r7ly2~x2/"><circle cx="106.7" cy="129.0" r="4" fill="#3465a4"><title>Crozier/Crosser</title></circle></a><a href="/setts/s21/o16r2o2r2o2k16dg2b2dg2b2dg10r2g10b2g2b2g2k16o15r2o2~x2/"><circle cx="75.8" cy="108.0" r="4" fill="#3465a4"><title>Cherry Valley New York</title></circle></a><a href="/setts/s12/b2db18ly4k5ly1k1w1k2g8k1r3w1~x4/"><circle cx="124.0" cy="72.4" r="4" fill="#3465a4"><title>Bethune</title></circle></a><circle cx="128.4" cy="93.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/r6g2r2g8k2ly2k2ly2k10db2k2db23w2db2w2~x2/

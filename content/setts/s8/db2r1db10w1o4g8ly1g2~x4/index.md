@@ -2,7 +2,7 @@
 title: "Ayrshire"
 date: 2023-03-18
 ---
-**Bands:** [BRBWRGYG](/stripes/brbwrgyg/) · **Stripes:** [DB R DB W O G LY G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB R DB W O G LY G</span></span>
+**Bands:** [GYGRWBRB](/stripes/gygrwbrb/) · **Stripes:** [G LY G O W DB R DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G LY G O W DB R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/8 R4 B40 LN4 LT16 G32 Y4 G/8
+G/8 Y4 G32 LT16 LN4 B40 R4 B/8
 ![Sett](sett.png)
 
 ## Palette
@@ -909,7 +912,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/8 R4 B40 LN4 LT16 G32 Y4 G/8 tartan")
+![Tartan detail](tartan.png "G/8 Y4 G32 LT16 LN4 B40 R4 B/8 tartan")
 
 ## Nearest tartans
 
@@ -920,7 +923,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Patel (2013)](/setts/s9/dg3ly2r10dg10g20dg12r3g10w2~x2/) — ΔT 0.87
 1. [McComb (Personal)](/setts/s7/db3r2db18k6g18ly2g3~x2/) — ΔT 0.96
 1. [Gallagher Ancient](/setts/s9/db4dg41lo4g4lo4g9r18lo4w4~x2/) — ΔT 1.01
-1. [Glen Lyon (Fashion)](/setts/s7/lo3n14k5w1o11db1o3~x4/) — ΔT 1.02
+1. [Glen Lyon (Fashion)](/setts/s7/o3db1o11w1k5n14lo3~x4/) — ΔT 1.02
 1. [Royal Pharmaceutical Society (Corp)](/setts/s9/dy2o2dg19o6dg2o6lo14r4w2~x2/) — ΔT 1.02
 1. [Lundy (Personal)](/setts/s7/lb2k2g8g8r1g1w1~x4/) — ΔT 1.03
 1. [Big Rory (Corporate)](/setts/s10/n10w5n48k35g5k5g35r5g5dp5/) — ΔT 1.05
@@ -928,8 +931,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db2r1db10w1dy4g8ly1g2~x4/"><circle cx="191.1" cy="172.8" r="4" fill="#3465a4"><title>Ayrshire District Tartan Tartan Number: 436. Earliest known date: 1988 Dr Phil Smith, a Fellow of the Scottish Tartans Society, designed the Ayrshire district tartan at the suggestion of the Clan Boyd and Clan Cunningham Societies. In his book, 'District Tartans' (1992) co-authored with Dr G Teall, he says, the colours &quot;..reflect the gold of the rising sun, the green of the land and brown of the coast, the blue of the sea and the red of the setting sun. The Ayrshire tartan is intended for those with connections in the districts of Kyle, Cunninghame and Inverclyde.&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db1dy4g8ly1g8db12w1db2r1~x4/"><circle cx="217.0" cy="166.3" r="4" fill="#3465a4"><title>Connor (Personal)</title></circle></a><a href="/setts/s9/dg3ly2r10dg10g20dg12r3g10w2~x2/"><circle cx="167.4" cy="179.0" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/setts/s7/db3r2db18k6g18ly2g3~x2/"><circle cx="184.9" cy="184.2" r="4" fill="#3465a4"><title>McComb (Personal)</title></circle></a><a href="/setts/s9/db4dg41lo4g4lo4g9r18lo4w4~x2/"><circle cx="203.6" cy="143.3" r="4" fill="#3465a4"><title>Gallagher Ancient</title></circle></a><a href="/setts/s7/lo3n14k5w1o11db1o3~x4/"><circle cx="181.6" cy="163.9" r="4" fill="#3465a4"><title>Glen Lyon (Fashion)</title></circle></a><a href="/setts/s9/dy2o2dg19o6dg2o6lo14r4w2~x2/"><circle cx="157.6" cy="162.0" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society (Corp)</title></circle></a><a href="/setts/s7/lb2k2g8g8r1g1w1~x4/"><circle cx="157.9" cy="181.1" r="4" fill="#3465a4"><title>Lundy (Personal)</title></circle></a><a href="/setts/s10/n10w5n48k35g5k5g35r5g5dp5/"><circle cx="169.4" cy="161.8" r="4" fill="#3465a4"><title>Big Rory (Corporate)</title></circle></a><a href="/setts/s9/db4dg41lo4g4lo4g9o18lo4w4~x2/"><circle cx="209.9" cy="146.9" r="4" fill="#3465a4"><title>Gallagher Irish Fashion Tartan Tartan Number: 4053. Earliest known date: 2001 February See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="192.1" cy="172.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db2r1db10w1dy4g8ly1g2~x4/"><circle cx="191.2" cy="172.9" r="4" fill="#3465a4"><title>Ayrshire District Tartan Tartan Number: 436. Earliest known date: 1988 Dr Phil Smith, a Fellow of the Scottish Tartans Society, designed the Ayrshire district tartan at the suggestion of the Clan Boyd and Clan Cunningham Societies. In his book, 'District Tartans' (1992) co-authored with Dr G Teall, he says, the colours &quot;..reflect the gold of the rising sun, the green of the land and brown of the coast, the blue of the sea and the red of the setting sun. The Ayrshire tartan is intended for those with connections in the districts of Kyle, Cunninghame and Inverclyde.&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db1dy4g8ly1g8db12w1db2r1~x4/"><circle cx="217.0" cy="166.4" r="4" fill="#3465a4"><title>Connor (Personal)</title></circle></a><a href="/setts/s9/dg3ly2r10dg10g20dg12r3g10w2~x2/"><circle cx="167.4" cy="179.1" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/setts/s7/db3r2db18k6g18ly2g3~x2/"><circle cx="185.0" cy="184.3" r="4" fill="#3465a4"><title>McComb (Personal)</title></circle></a><a href="/setts/s9/db4dg41lo4g4lo4g9r18lo4w4~x2/"><circle cx="203.4" cy="143.4" r="4" fill="#3465a4"><title>Gallagher Ancient</title></circle></a><a href="/setts/s7/o3db1o11w1k5n14lo3~x4/"><circle cx="181.5" cy="164.0" r="4" fill="#3465a4"><title>Glen Lyon (Fashion)</title></circle></a><a href="/setts/s9/dy2o2dg19o6dg2o6lo14r4w2~x2/"><circle cx="157.6" cy="162.1" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society (Corp)</title></circle></a><a href="/setts/s7/lb2k2g8g8r1g1w1~x4/"><circle cx="157.9" cy="181.2" r="4" fill="#3465a4"><title>Lundy (Personal)</title></circle></a><a href="/setts/s10/n10w5n48k35g5k5g35r5g5dp5/"><circle cx="169.5" cy="161.9" r="4" fill="#3465a4"><title>Big Rory (Corporate)</title></circle></a><a href="/setts/s9/db4dg41lo4g4lo4g9o18lo4w4~x2/"><circle cx="209.7" cy="147.0" r="4" fill="#3465a4"><title>Gallagher Irish Fashion Tartan Tartan Number: 4053. Earliest known date: 2001 February See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="192.0" cy="172.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db2r1db10w1o4g8ly1g2~x4/

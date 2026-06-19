@@ -38,19 +38,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Gallaecia (Unofficial) (District)](/setts/s5/db24t13db4t4w2~x2/) — ΔT 1.47
 1. [Ochterlonie](/setts/s6/db35lr8db21lr13db6lo4~x2/) — ΔT 1.65
-1. [Swan, Brian E](/setts/s6/k6db17k6db17k27w3~x2/) — ΔT 1.66
-1. [Bank of Scotland (1995)](/setts/s5/lb1db6k5db6lo1~x6/) — ΔT 1.67
+1. [Swan, Brian E](/setts/s6/k6db17k6db17k27w3~x2/) — ΔT 1.67
+1. [Bank of Scotland (1995)](/setts/s5/lo1db6k5db6lb1~x6/) — ΔT 1.67
 1. [Manx Cornaa (Personal)](/setts/s4/t1db5t5w1~x4/) — ΔT 1.75
 1. [Manx Cornaa (Personal)](/setts/s6/db5t5w1t5db5t1~x4/) — ΔT 1.79
-1. [Baptist Union of Scotland](/setts/s6/lb4db23g16k4db23lo4/) — ΔT 1.81
+1. [Baptist Union of Scotland](/setts/s6/lo4db23k4g16db23lb4/) — ΔT 1.81
 1. [Dollar Academy (1930s) (Corporate)](/setts/s6/db9k9db9k9db42w5~x2/) — ΔT 1.84
 1. [MacHardy, Blue](/setts/s8/db6r3g26db26w4db26r5g5~x2/) — ΔT 1.84
 1. [UEFA (Corporate)](/setts/s4/b30ly5b4r12~x4/) — ΔT 1.85
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db24t13db4t4w2~x2/"><circle cx="365.8" cy="234.8" r="4" fill="#3465a4"><title>Gallaecia (Unofficial) (District)</title></circle></a><a href="/setts/s6/db35lr8db21lr13db6lo4~x2/"><circle cx="388.0" cy="239.2" r="4" fill="#3465a4"><title>Ochterlonie</title></circle></a><a href="/setts/s6/k6db17k6db17k27w3~x2/"><circle cx="291.4" cy="258.3" r="4" fill="#3465a4"><title>Swan, Brian E</title></circle></a><a href="/setts/s5/lb1db6k5db6lo1~x6/"><circle cx="296.0" cy="263.0" r="4" fill="#3465a4"><title>Bank of Scotland (1995)</title></circle></a><a href="/setts/s4/t1db5t5w1~x4/"><circle cx="278.3" cy="295.4" r="4" fill="#3465a4"><title>Manx Cornaa (Personal)</title></circle></a><a href="/setts/s6/db5t5w1t5db5t1~x4/"><circle cx="277.6" cy="304.4" r="4" fill="#3465a4"><title>Manx Cornaa (Personal)</title></circle></a><a href="/setts/s6/lb4db23g16k4db23lo4/"><circle cx="274.6" cy="235.0" r="4" fill="#3465a4"><title>Baptist Union of Scotland</title></circle></a><a href="/setts/s6/db9k9db9k9db42w5~x2/"><circle cx="448.5" cy="250.0" r="4" fill="#3465a4"><title>Dollar Academy (1930s) (Corporate)</title></circle></a><a href="/setts/s8/db6r3g26db26w4db26r5g5~x2/"><circle cx="303.6" cy="215.2" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><a href="/setts/s4/b30ly5b4r12~x4/"><circle cx="382.0" cy="251.1" r="4" fill="#3465a4"><title>UEFA (Corporate)</title></circle></a><circle cx="323.6" cy="272.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db24t13db4t4w2~x2/"><circle cx="365.8" cy="234.5" r="4" fill="#3465a4"><title>Gallaecia (Unofficial) (District)</title></circle></a><a href="/setts/s6/db35lr8db21lr13db6lo4~x2/"><circle cx="388.0" cy="238.8" r="4" fill="#3465a4"><title>Ochterlonie</title></circle></a><a href="/setts/s6/k6db17k6db17k27w3~x2/"><circle cx="291.7" cy="258.1" r="4" fill="#3465a4"><title>Swan, Brian E</title></circle></a><a href="/setts/s5/lo1db6k5db6lb1~x6/"><circle cx="296.2" cy="262.7" r="4" fill="#3465a4"><title>Bank of Scotland (1995)</title></circle></a><a href="/setts/s4/t1db5t5w1~x4/"><circle cx="278.3" cy="295.1" r="4" fill="#3465a4"><title>Manx Cornaa (Personal)</title></circle></a><a href="/setts/s6/db5t5w1t5db5t1~x4/"><circle cx="277.7" cy="304.2" r="4" fill="#3465a4"><title>Manx Cornaa (Personal)</title></circle></a><a href="/setts/s6/lo4db23k4g16db23lb4/"><circle cx="274.8" cy="234.8" r="4" fill="#3465a4"><title>Baptist Union of Scotland</title></circle></a><a href="/setts/s6/db9k9db9k9db42w5~x2/"><circle cx="448.5" cy="249.6" r="4" fill="#3465a4"><title>Dollar Academy (1930s) (Corporate)</title></circle></a><a href="/setts/s8/db6r3g26db26w4db26r5g5~x2/"><circle cx="303.6" cy="215.0" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><a href="/setts/s4/b30ly5b4r12~x4/"><circle cx="381.9" cy="250.7" r="4" fill="#3465a4"><title>UEFA (Corporate)</title></circle></a><circle cx="323.6" cy="271.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db3t3db16t16db16w3~x2/

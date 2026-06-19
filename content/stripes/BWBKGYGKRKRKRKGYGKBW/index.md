@@ -22,6 +22,6 @@ BWBKGYGKRKRKRKGYGKBW
 
 | Tartans |
 |---------------|
-| [Hunnisett/Edinchip (Personal)](/setts/s20/db38w2db2k10g2ly2g22k3r3k3r3k3r3k3g22ly2g2k10db2w2~x2/)|
-|![Hunnisett/Edinchip (Personal) example sett](/setts/s20/db38w2db2k10g2ly2g22k3r3k3r3k3r3k3g22ly2g2k10db2w2~x2/sett.png)|
+| [Hunnisett/Edinchip (Personal)](/setts/s20/db38w2db2k10g2ly2g22k3r3k3r3~x2/)|
+|![Hunnisett/Edinchip (Personal) example sett](/setts/s20/db38w2db2k10g2ly2g22k3r3k3r3~x2/sett.png)|
 

@@ -8,7 +8,7 @@ RRRRRRY
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/lo1o3o4o1o1o1o1~x12/tartan.png)
+![Woven sample](/setts/s7/o1o1o1o1o4o3lo1~x12/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RRRRRRY
 
 | Tartans |
 |---------------|
-| [Burns' Birthplace (Commem)](/setts/s7/lo1o3o4o1o1o1o1~x12/)|
-|![Burns' Birthplace (Commem) example sett](/setts/s7/lo1o3o4o1o1o1o1~x12/sett.png)|
+| [Burns' Birthplace (Commem)](/setts/s7/o1o1o1o1o4o3lo1~x12/)|
+|![Burns' Birthplace (Commem) example sett](/setts/s7/o1o1o1o1o4o3lo1~x12/sett.png)|
 

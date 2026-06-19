@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -913,14 +916,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Thompson Black (Fashion)](/setts/s6/g3k15r8g2o8k2~x4/) — ΔT 1.00
 1. [Montrose](/setts/s9/b2k2r14dg15k8b7r14k2b2~x2/) — ΔT 1.02
 1. [Montrose](/setts/s9/b2k2r14dg15k8b7r14k2b2/) — ΔT 1.02
-1. [Wcwm 759-3](/setts/s6/lb5o34k24o4r24o4~x2/) — ΔT 1.03
+1. [Wcwm 759-3](/setts/s6/lb5o34k24o4r24o4~x2/) — ΔT 1.04
 1. [Montrose](/setts/s9/lb2k2r14dg15k8lb7r14k2lb2/) — ΔT 1.09
 1. [Dickie](/setts/s8/g8r2g12k6g3db6r24k4~x2/) — ΔT 1.14
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dy3k7dy2w2lo12k2lo2dy3~x2/"><circle cx="179.4" cy="204.2" r="4" fill="#3465a4"><title>Daks (Brown)</title></circle></a><a href="/setts/s8/g1r9g3k3g3r1k9w1~x2/"><circle cx="203.3" cy="192.3" r="4" fill="#3465a4"><title>Manson Family Tartan Tartan Number: 987. Earliest known date: 1983 The official recording of the sett shows the letter G for the dark green stripe. In heraldic terms this means 'Gules' - red. The designer, Hugh Kirkwood Rankine, clearly intended dark green and this is reproduced here. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/lb13k3lb3k3lb3k15dy18r3~x2/"><circle cx="133.1" cy="195.6" r="4" fill="#3465a4"><title>Holden Brown (Corporate)</title></circle></a><a href="/setts/s9/lb2r12k4r2k2r2k6g5lb2~x2/"><circle cx="197.0" cy="211.5" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><a href="/setts/s6/g3k15r8g2o8k2~x4/"><circle cx="201.2" cy="223.1" r="4" fill="#3465a4"><title>Thompson Black (Fashion)</title></circle></a><a href="/setts/s9/b2k2r14dg15k8b7r14k2b2~x2/"><circle cx="184.1" cy="203.1" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/setts/s9/b2k2r14dg15k8b7r14k2b2/"><circle cx="184.1" cy="203.1" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/setts/s6/lb5o34k24o4r24o4~x2/"><circle cx="191.0" cy="202.1" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/setts/s9/lb2k2r14dg15k8lb7r14k2lb2/"><circle cx="159.3" cy="184.0" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/setts/s8/g8r2g12k6g3db6r24k4~x2/"><circle cx="200.8" cy="180.4" r="4" fill="#3465a4"><title>Dickie</title></circle></a><circle cx="174.8" cy="202.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dy3k7dy2w2lo12k2lo2dy3~x2/"><circle cx="179.3" cy="204.2" r="4" fill="#3465a4"><title>Daks (Brown)</title></circle></a><a href="/setts/s8/g1r9g3k3g3r1k9w1~x2/"><circle cx="203.3" cy="192.3" r="4" fill="#3465a4"><title>Manson Family Tartan Tartan Number: 987. Earliest known date: 1983 The official recording of the sett shows the letter G for the dark green stripe. In heraldic terms this means 'Gules' - red. The designer, Hugh Kirkwood Rankine, clearly intended dark green and this is reproduced here. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/lb13k3lb3k3lb3k15dy18r3~x2/"><circle cx="133.0" cy="195.5" r="4" fill="#3465a4"><title>Holden Brown (Corporate)</title></circle></a><a href="/setts/s9/lb2r12k4r2k2r2k6g5lb2~x2/"><circle cx="197.0" cy="211.5" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><a href="/setts/s6/g3k15r8g2o8k2~x4/"><circle cx="201.2" cy="223.0" r="4" fill="#3465a4"><title>Thompson Black (Fashion)</title></circle></a><a href="/setts/s9/b2k2r14dg15k8b7r14k2b2~x2/"><circle cx="184.1" cy="203.1" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/setts/s9/b2k2r14dg15k8b7r14k2b2/"><circle cx="184.1" cy="203.1" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/setts/s6/lb5o34k24o4r24o4~x2/"><circle cx="190.9" cy="202.0" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/setts/s9/lb2k2r14dg15k8lb7r14k2lb2/"><circle cx="159.2" cy="183.9" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/setts/s8/g8r2g12k6g3db6r24k4~x2/"><circle cx="200.7" cy="180.3" r="4" fill="#3465a4"><title>Dickie</title></circle></a><circle cx="174.7" cy="202.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/o3k7o2w2o12k2o2o3~x2/

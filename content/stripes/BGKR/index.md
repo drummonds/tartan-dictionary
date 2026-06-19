@@ -8,7 +8,7 @@ BGKR
 
 It is a 4 band tartan.
 
-![Woven sample](/setts/s4/b1y6k6r1~x10/tartan.png)
+![Woven sample](/setts/s4/r1k6y6b1~x10/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ BGKR
 
 
 
-### B Y K R <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">B Y K R</span></span>
+### R K Y B <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R K Y B</span></span>
 
 | Tartans |
 |---------------|
-| [Mayer, Chris (Personal)](/setts/s4/b1y6k6r1~x10/)|
-|![Mayer, Chris (Personal) example sett](/setts/s4/b1y6k6r1~x10/sett.png)|
+| [Mayer, Chris (Personal)](/setts/s4/r1k6y6b1~x10/)|
+|![Mayer, Chris (Personal) example sett](/setts/s4/r1k6y6b1~x10/sett.png)|
 

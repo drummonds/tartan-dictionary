@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,13 +913,13 @@ The nearest existing variants by ΔTartan distance.
 1. [North Carolina State University - Pack Plaid](/setts/s12/w15dt25r10w5dt25w7dt16k9dt17k10dt23r9~x2/) — ΔT 1.58
 1. [Sackett (Name)](/setts/s10/k8dg8k1dg8lr1k8o8k1o8k8~x4/) — ΔT 1.58
 1. [Scott, Sir Walter](/setts/s6/k3g9t2k11p9k3~x2/) — ΔT 1.66
-1. [Gipsy](/setts/s9/k2r2db8r2w1r2k8r2k2~x2/) — ΔT 1.75
+1. [Gipsy](/setts/s9/k2r2k8r2w1r2db8r2k2~x2/) — ΔT 1.75
 1. [LP Cover (Dance)](/setts/s7/ly3k9b1k1r6k2ly3~x4/) — ΔT 1.77
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/"><circle cx="192.9" cy="223.0" r="4" fill="#3465a4"><title>Little of Morton Rig Family/Clan Tartan Tartan Number: 2349. Earliest known date: 1991 Designed in 1991 by Dr. J.C.(Pat) Little of Morton Rigg, Dumfries, for the newly organized Clan Little Society. Registered with TECA 12 June1992. Incorporates elements of the Wallace and Shepherd setts. from Pat Little via JCT. Sample in STA's Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/k4w4k4w4k4r8k2r8k8lo1~x4/"><circle cx="179.2" cy="209.9" r="4" fill="#3465a4"><title>Little of Morton Rigg</title></circle></a><a href="/setts/s10/k5w4k4r4k4w7k2w7k8ly1~x4/"><circle cx="176.8" cy="215.2" r="4" fill="#3465a4"><title>Little, Arisaid</title></circle></a><a href="/setts/s7/r4k8r4k8db12k1w2~x2/"><circle cx="195.3" cy="205.3" r="4" fill="#3465a4"><title>MacKean Red</title></circle></a><a href="/setts/s8/r2k4r2k4db1w1db4r1~x4/"><circle cx="133.1" cy="244.9" r="4" fill="#3465a4"><title>MacKean</title></circle></a><a href="/setts/s12/w15dt25r10w5dt25w7dt16k9dt17k10dt23r9~x2/"><circle cx="219.2" cy="230.4" r="4" fill="#3465a4"><title>North Carolina State University - Pack Plaid</title></circle></a><a href="/setts/s10/k8dg8k1dg8lr1k8o8k1o8k8~x4/"><circle cx="172.4" cy="227.5" r="4" fill="#3465a4"><title>Sackett (Name)</title></circle></a><a href="/setts/s6/k3g9t2k11p9k3~x2/"><circle cx="168.1" cy="251.2" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/setts/s9/k2r2db8r2w1r2k8r2k2~x2/"><circle cx="184.0" cy="196.1" r="4" fill="#3465a4"><title>Gipsy</title></circle></a><a href="/setts/s7/ly3k9b1k1r6k2ly3~x4/"><circle cx="210.4" cy="198.9" r="4" fill="#3465a4"><title>LP Cover (Dance)</title></circle></a><circle cx="189.9" cy="222.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/"><circle cx="193.0" cy="222.9" r="4" fill="#3465a4"><title>Little of Morton Rig Family/Clan Tartan Tartan Number: 2349. Earliest known date: 1991 Designed in 1991 by Dr. J.C.(Pat) Little of Morton Rigg, Dumfries, for the newly organized Clan Little Society. Registered with TECA 12 June1992. Incorporates elements of the Wallace and Shepherd setts. from Pat Little via JCT. Sample in STA's Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/k4w4k4w4k4r8k2r8k8lo1~x4/"><circle cx="179.2" cy="209.7" r="4" fill="#3465a4"><title>Little of Morton Rigg</title></circle></a><a href="/setts/s10/k5w4k4r4k4w7k2w7k8ly1~x4/"><circle cx="176.9" cy="215.0" r="4" fill="#3465a4"><title>Little, Arisaid</title></circle></a><a href="/setts/s7/r4k8r4k8db12k1w2~x2/"><circle cx="195.5" cy="205.2" r="4" fill="#3465a4"><title>MacKean Red</title></circle></a><a href="/setts/s8/r2k4r2k4db1w1db4r1~x4/"><circle cx="133.3" cy="244.8" r="4" fill="#3465a4"><title>MacKean</title></circle></a><a href="/setts/s12/w15dt25r10w5dt25w7dt16k9dt17k10dt23r9~x2/"><circle cx="219.2" cy="230.2" r="4" fill="#3465a4"><title>North Carolina State University - Pack Plaid</title></circle></a><a href="/setts/s10/k8dg8k1dg8lr1k8o8k1o8k8~x4/"><circle cx="172.6" cy="227.4" r="4" fill="#3465a4"><title>Sackett (Name)</title></circle></a><a href="/setts/s6/k3g9t2k11p9k3~x2/"><circle cx="168.4" cy="251.1" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/setts/s9/k2r2k8r2w1r2db8r2k2~x2/"><circle cx="184.2" cy="196.0" r="4" fill="#3465a4"><title>Gipsy</title></circle></a><a href="/setts/s7/ly3k9b1k1r6k2ly3~x4/"><circle cx="210.4" cy="198.7" r="4" fill="#3465a4"><title>LP Cover (Dance)</title></circle></a><circle cx="190.1" cy="222.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/k10w7k8w7k8dr14k4dr14k16ly2/

@@ -20,7 +20,7 @@ BRYRWG
 
 
 
-### N O LY R LB DY <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">N O LY R LB DY</span></span>
+### DY LB R LY O N <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="seq">DY LB R LY O N</span></span>
 
 | Tartans |
 |---------------|

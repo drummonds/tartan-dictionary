@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2725
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacPherson, Red Cluny
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -915,19 +924,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Dunbar #2](/setts/s6/k4r26k4w2k13ly4~x2/) — ΔT 0.65
 1. [Nakayama (Personal)](/setts/s8/db1r1k2r7k7r1k2w1~x6/) — ΔT 0.86
-1. [MacIver (Clan)](/setts/s9/ly2r12k3r3k16r3k3r12w2~x2/) — ΔT 0.94
+1. [MacIver (Clan)](/setts/s9/w2r12k3r3k16r3k3r12ly2~x2/) — ΔT 0.94
 1. [Cetoloni (Personal)](/setts/s6/db1r12k6ly1k6db1~x4/) — ΔT 0.94
 1. [Nakayama (Fashion)](/setts/s8/b1r1k2r7k7r1k2w1~x6/) — ΔT 1.04
 1. [Ramsay Red Clan Tartan Tartan Number: 1238. Earliest known date: 1842 Ramsay was one of the names adopted by members of the Clan MacGregor when their own was proscribed. It is not surprising then that an early MacGregor sett was used as a basis for the Ramsay tartan. It is possible that the tartan was in existance long before the earliest recorded date given. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r5m2r30k28w2k4~x2/) — ΔT 1.09
 1. [Scoepaig, fragment](/setts/s10/k10t1k1r10t1k1t1r10g6r2~x2/) — ΔT 1.13
-1. [Fraser VS](/setts/s6/lb1r12dg6r1db6r1/) — ΔT 1.17
+1. [Fraser VS](/setts/s6/r1db6r1dg6r12lb1/) — ΔT 1.17
 1. [Cameron of Locheil #3](/setts/s9/r24db8r23k4w4k4r10k32r8/) — ΔT 1.18
 1. [Memery (Reston, USA)](/setts/s9/w4k6r3k15r3k6r27db9w2~x2/) — ΔT 1.19
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k4r26k4w2k13ly4~x2/"><circle cx="281.7" cy="165.7" r="4" fill="#3465a4"><title>Dunbar #2</title></circle></a><a href="/setts/s8/db1r1k2r7k7r1k2w1~x6/"><circle cx="262.5" cy="188.9" r="4" fill="#3465a4"><title>Nakayama (Personal)</title></circle></a><a href="/setts/s9/ly2r12k3r3k16r3k3r12w2~x2/"><circle cx="283.1" cy="182.3" r="4" fill="#3465a4"><title>MacIver (Clan)</title></circle></a><a href="/setts/s6/db1r12k6ly1k6db1~x4/"><circle cx="273.6" cy="187.6" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/setts/s8/b1r1k2r7k7r1k2w1~x6/"><circle cx="265.9" cy="192.5" r="4" fill="#3465a4"><title>Nakayama (Fashion)</title></circle></a><a href="/setts/s6/r5m2r30k28w2k4~x2/"><circle cx="325.8" cy="168.9" r="4" fill="#3465a4"><title>Ramsay Red Clan Tartan Tartan Number: 1238. Earliest known date: 1842 Ramsay was one of the names adopted by members of the Clan MacGregor when their own was proscribed. It is not surprising then that an early MacGregor sett was used as a basis for the Ramsay tartan. It is possible that the tartan was in existance long before the earliest recorded date given. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/k10t1k1r10t1k1t1r10g6r2~x2/"><circle cx="248.2" cy="161.0" r="4" fill="#3465a4"><title>Scoepaig, fragment</title></circle></a><a href="/setts/s6/lb1r12dg6r1db6r1/"><circle cx="281.6" cy="184.6" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><a href="/setts/s9/r24db8r23k4w4k4r10k32r8/"><circle cx="281.2" cy="186.2" r="4" fill="#3465a4"><title>Cameron of Locheil #3</title></circle></a><a href="/setts/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="225.8" cy="151.3" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><circle cx="261.6" cy="174.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k4r26k4w2k13ly4~x2/"><circle cx="281.4" cy="165.5" r="4" fill="#3465a4"><title>Dunbar #2</title></circle></a><a href="/setts/s8/db1r1k2r7k7r1k2w1~x6/"><circle cx="262.3" cy="188.8" r="4" fill="#3465a4"><title>Nakayama (Personal)</title></circle></a><a href="/setts/s9/w2r12k3r3k16r3k3r12ly2~x2/"><circle cx="282.9" cy="182.1" r="4" fill="#3465a4"><title>MacIver (Clan)</title></circle></a><a href="/setts/s6/db1r12k6ly1k6db1~x4/"><circle cx="273.5" cy="187.5" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/setts/s8/b1r1k2r7k7r1k2w1~x6/"><circle cx="265.8" cy="192.3" r="4" fill="#3465a4"><title>Nakayama (Fashion)</title></circle></a><a href="/setts/s6/r5m2r30k28w2k4~x2/"><circle cx="325.6" cy="168.7" r="4" fill="#3465a4"><title>Ramsay Red Clan Tartan Tartan Number: 1238. Earliest known date: 1842 Ramsay was one of the names adopted by members of the Clan MacGregor when their own was proscribed. It is not surprising then that an early MacGregor sett was used as a basis for the Ramsay tartan. It is possible that the tartan was in existance long before the earliest recorded date given. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/k10t1k1r10t1k1t1r10g6r2~x2/"><circle cx="248.1" cy="160.9" r="4" fill="#3465a4"><title>Scoepaig, fragment</title></circle></a><a href="/setts/s6/r1db6r1dg6r12lb1/"><circle cx="281.5" cy="184.5" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><a href="/setts/s9/r24db8r23k4w4k4r10k32r8/"><circle cx="281.0" cy="186.0" r="4" fill="#3465a4"><title>Cameron of Locheil #3</title></circle></a><a href="/setts/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="225.6" cy="151.2" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><circle cx="261.4" cy="174.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r6k3r29k23w4k7ly3~x2/

@@ -8,7 +8,7 @@ WKGKBKY
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/ly3k1db20k16g20k1w3~x2/tartan.png)
+![Woven sample](/setts/s7/w3k1g20k16db20k1ly3~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ WKGKBKY
 
 
 
-### W K G K DB K LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W K G K DB K LY</span></span>
+### LY K DB K G K W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K DB K G K W</span></span>
 
 | Tartans |
 |---------------|
-| [MacCormick](/setts/s7/ly3k1db20k16g20k1w3~x2/)|
-|![MacCormick example sett](/setts/s7/ly3k1db20k16g20k1w3~x2/sett.png)|
+| [MacCormick](/setts/s7/w3k1g20k16db20k1ly3~x2/)|
+|![MacCormick example sett](/setts/s7/w3k1g20k16db20k1ly3~x2/sett.png)|
 

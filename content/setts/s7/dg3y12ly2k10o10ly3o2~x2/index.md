@@ -2,7 +2,7 @@
 title: "Rothesay"
 date: 2023-03-18
 ---
-**Bands:** [GGYKRYR](/stripes/ggykryr/) · **Stripes:** [DG Y LY K O LY O](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DG Y LY K O LY O</span></span>
+**Bands:** [RYRKYGG](/stripes/ryrkygg/) · **Stripes:** [O LY O K LY Y DG](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="seq">O LY O K LY Y DG</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -908,20 +911,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Strathblane](/setts/s8/o6w2k4dy12k4w2o6r3~x2/) — ΔT 0.87
-1. [Thompson's Fancy (Fashion)](/setts/s6/lb1k4lb4db2dy6r1~x6/) — ΔT 0.98
+1. [Thompson's Fancy (Fashion)](/setts/s6/r1dy6db2lb4k4lb1~x6/) — ΔT 0.98
 1. [Cooke](/setts/s7/k6b2db12g8r5k2g3~x4/) — ΔT 1.08
 1. [MacCaughan, or MacEachain](/setts/s6/dp2g6k2db6k1r2~x4/) — ΔT 1.10
 1. [South Africa 1994 (Fashion)](/setts/s7/k20ly4db13w4g30w4r13~x2/) — ΔT 1.10
 1. [Equorian Olympic](/setts/s8/db2y1o1dg6w3o3o1y1/) — ΔT 1.14
-1. [Cumming LO](/setts/s9/lb4k2lb4k10ly1dg10r4lb1r4/) — ΔT 1.16
+1. [Cumming LO](/setts/s9/r4lb1r4dg10ly1k10lb4k2lb4/) — ΔT 1.16
 1. [Wombles 7 (Corporate)](/setts/s9/lb3g6lb1db1r5db2o5db1lb3~x4/) — ΔT 1.17
 1. [MacLaren](/setts/s7/p9k7g5r4g7k1ly1~x2/) — ΔT 1.17
 1. [Logan, or MacLennan](/setts/s10/db1r1db1r1db4k4g4r1g1ly1~x4/) — ΔT 1.20
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/o6w2k4dy12k4w2o6r3~x2/"><circle cx="87.6" cy="205.9" r="4" fill="#3465a4"><title>Strathblane</title></circle></a><a href="/setts/s6/lb1k4lb4db2dy6r1~x6/"><circle cx="87.6" cy="218.9" r="4" fill="#3465a4"><title>Thompson's Fancy (Fashion)</title></circle></a><a href="/setts/s7/k6b2db12g8r5k2g3~x4/"><circle cx="81.5" cy="219.2" r="4" fill="#3465a4"><title>Cooke</title></circle></a><a href="/setts/s6/dp2g6k2db6k1r2~x4/"><circle cx="94.0" cy="225.7" r="4" fill="#3465a4"><title>MacCaughan, or MacEachain</title></circle></a><a href="/setts/s7/k20ly4db13w4g30w4r13~x2/"><circle cx="79.7" cy="179.2" r="4" fill="#3465a4"><title>South Africa 1994 (Fashion)</title></circle></a><a href="/setts/s8/db2y1o1dg6w3o3o1y1/"><circle cx="96.1" cy="194.6" r="4" fill="#3465a4"><title>Equorian Olympic</title></circle></a><a href="/setts/s9/lb4k2lb4k10ly1dg10r4lb1r4/"><circle cx="80.7" cy="163.1" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/setts/s9/lb3g6lb1db1r5db2o5db1lb3~x4/"><circle cx="51.1" cy="199.1" r="4" fill="#3465a4"><title>Wombles 7 (Corporate)</title></circle></a><a href="/setts/s7/p9k7g5r4g7k1ly1~x2/"><circle cx="106.5" cy="199.9" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/setts/s10/db1r1db1r1db4k4g4r1g1ly1~x4/"><circle cx="62.6" cy="203.3" r="4" fill="#3465a4"><title>Logan, or MacLennan</title></circle></a><circle cx="67.7" cy="201.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/o6w2k4dy12k4w2o6r3~x2/"><circle cx="87.6" cy="206.0" r="4" fill="#3465a4"><title>Strathblane</title></circle></a><a href="/setts/s6/r1dy6db2lb4k4lb1~x6/"><circle cx="87.7" cy="218.9" r="4" fill="#3465a4"><title>Thompson's Fancy (Fashion)</title></circle></a><a href="/setts/s7/k6b2db12g8r5k2g3~x4/"><circle cx="81.8" cy="219.3" r="4" fill="#3465a4"><title>Cooke</title></circle></a><a href="/setts/s6/dp2g6k2db6k1r2~x4/"><circle cx="94.2" cy="225.7" r="4" fill="#3465a4"><title>MacCaughan, or MacEachain</title></circle></a><a href="/setts/s7/k20ly4db13w4g30w4r13~x2/"><circle cx="79.8" cy="179.3" r="4" fill="#3465a4"><title>South Africa 1994 (Fashion)</title></circle></a><a href="/setts/s8/db2y1o1dg6w3o3o1y1/"><circle cx="96.1" cy="194.6" r="4" fill="#3465a4"><title>Equorian Olympic</title></circle></a><a href="/setts/s9/r4lb1r4dg10ly1k10lb4k2lb4/"><circle cx="80.8" cy="163.1" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/setts/s9/lb3g6lb1db1r5db2o5db1lb3~x4/"><circle cx="51.1" cy="199.2" r="4" fill="#3465a4"><title>Wombles 7 (Corporate)</title></circle></a><a href="/setts/s7/p9k7g5r4g7k1ly1~x2/"><circle cx="106.6" cy="199.9" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/setts/s10/db1r1db1r1db4k4g4r1g1ly1~x4/"><circle cx="62.7" cy="203.4" r="4" fill="#3465a4"><title>Logan, or MacLennan</title></circle></a><circle cx="67.8" cy="201.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/dg3y12ly2k10o10ly3o2~x2/

@@ -22,6 +22,6 @@ RGWYGWGWGWYWYY
 
 | Tartans |
 |---------------|
-| [Glen Forest](/setts/s14/ly10lo4lb4lo5lb4dy5lb4dy14lb8dy5lo8lb8dy5o10/)|
-|![Glen Forest example sett](/setts/s14/ly10lo4lb4lo5lb4dy5lb4dy14lb8dy5lo8lb8dy5o10/sett.png)|
+| [Glen Forest](/setts/s14/o10dy5lb8lo8dy5lb8dy14lb4dy5lb4lo5lb4lo4ly10/)|
+|![Glen Forest example sett](/setts/s14/o10dy5lb8lo8dy5lb8dy14lb4dy5lb4lo5lb4lo4ly10/sett.png)|
 

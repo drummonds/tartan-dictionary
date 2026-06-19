@@ -18,7 +18,7 @@ GBGBGBBYBY
 
 
 
-### Y T Y DT Y DT DP LO DP LO <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">Y T Y DT Y DT DP LO DP LO</span></span>
+### LO DP LO DP DT Y DT Y T Y <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LO DP LO DP DT Y DT Y T Y</span></span>
 
 | Tartans |
 |---------------|

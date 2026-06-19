@@ -2,7 +2,7 @@
 title: "Oakley (2015)"
 date: 2023-03-18
 ---
-**Bands:** [GKWRY](/stripes/gkwry/) · **Stripes:** [DG K W R LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DG K W R LY</span></span>
+**Bands:** [YRWKG](/stripes/yrwkg/) · **Stripes:** [LY R W K DG](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">LY R W K DG</span></span>
 
 
 This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
@@ -33,20 +33,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Oakley (2015)](/setts/s5/dg37k22w4r15lo3~x2/) — ΔT 0.37
-1. [Afternoon Tea / Afternoon Tea](/setts/s6/ly15g98k72m25k8w15/) — ΔT 1.08
-1. [Drambuie Dress](/setts/s6/ly6k5r4k48dy36w6/) — ΔT 1.11
+1. [Afternoon Tea / Afternoon Tea](/setts/s6/w15k8m25k72g98ly15/) — ΔT 1.08
+1. [Drambuie Dress](/setts/s6/w6dy36k48r4k5ly6/) — ΔT 1.11
 1. [Unidentified No 79](/setts/s6/r5dg18ly2k14t5k4~x2/) — ΔT 1.12
-1. [MacMillan - 2002 (Black - Unofficial](/setts/s6/dg3k31r17dg6lo18k3~x2/) — ΔT 1.16
-1. [Teylu Coleman (Cornwall)](/setts/s5/ly3dp17do9k25w3~x2/) — ΔT 1.18
+1. [MacMillan - 2002 (Black - Unofficial](/setts/s6/k3lo18dg6r17k31dg3~x2/) — ΔT 1.16
+1. [Teylu Coleman (Cornwall)](/setts/s5/w3k25do9dp17ly3~x2/) — ΔT 1.18
 1. [Bryan Wedding (Personal)](/setts/s6/dy30ly5t10k10w2k2~x2/) — ΔT 1.20
-1. [Afternoon Tea / Darjeeling](/setts/s6/ly15dt8r25dt72dg98w15/) — ΔT 1.23
+1. [Afternoon Tea / Darjeeling](/setts/s6/w15dg98dt72r25dt8ly15/) — ΔT 1.23
 1. [Bryan Wedding (Personal)](/setts/s6/dy30ly5b10k10w2k2~x2/) — ΔT 1.26
 1. [Asheville Firefighters, The](/setts/s6/k17dg48ly4r10lb12dg4/) — ΔT 1.26
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/dg37k22w4r15lo3~x2/"><circle cx="220.8" cy="200.3" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><a href="/setts/s6/ly15g98k72m25k8w15/"><circle cx="201.5" cy="180.7" r="4" fill="#3465a4"><title>Afternoon Tea / Afternoon Tea</title></circle></a><a href="/setts/s6/ly6k5r4k48dy36w6/"><circle cx="266.9" cy="173.9" r="4" fill="#3465a4"><title>Drambuie Dress</title></circle></a><a href="/setts/s6/r5dg18ly2k14t5k4~x2/"><circle cx="170.9" cy="212.9" r="4" fill="#3465a4"><title>Unidentified No 79</title></circle></a><a href="/setts/s6/dg3k31r17dg6lo18k3~x2/"><circle cx="218.1" cy="210.7" r="4" fill="#3465a4"><title>MacMillan - 2002 (Black - Unofficial</title></circle></a><a href="/setts/s5/ly3dp17do9k25w3~x2/"><circle cx="198.3" cy="221.8" r="4" fill="#3465a4"><title>Teylu Coleman (Cornwall)</title></circle></a><a href="/setts/s6/dy30ly5t10k10w2k2~x2/"><circle cx="252.8" cy="161.6" r="4" fill="#3465a4"><title>Bryan Wedding (Personal)</title></circle></a><a href="/setts/s6/ly15dt8r25dt72dg98w15/"><circle cx="206.1" cy="187.6" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/setts/s6/dy30ly5b10k10w2k2~x2/"><circle cx="268.0" cy="171.9" r="4" fill="#3465a4"><title>Bryan Wedding (Personal)</title></circle></a><a href="/setts/s6/k17dg48ly4r10lb12dg4/"><circle cx="262.1" cy="178.1" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><circle cx="213.5" cy="197.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/dg37k22w4r15lo3~x2/"><circle cx="220.9" cy="200.3" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><a href="/setts/s6/w15k8m25k72g98ly15/"><circle cx="201.5" cy="180.6" r="4" fill="#3465a4"><title>Afternoon Tea / Afternoon Tea</title></circle></a><a href="/setts/s6/w6dy36k48r4k5ly6/"><circle cx="266.9" cy="173.8" r="4" fill="#3465a4"><title>Drambuie Dress</title></circle></a><a href="/setts/s6/r5dg18ly2k14t5k4~x2/"><circle cx="171.0" cy="212.9" r="4" fill="#3465a4"><title>Unidentified No 79</title></circle></a><a href="/setts/s6/k3lo18dg6r17k31dg3~x2/"><circle cx="218.1" cy="210.6" r="4" fill="#3465a4"><title>MacMillan - 2002 (Black - Unofficial</title></circle></a><a href="/setts/s5/w3k25do9dp17ly3~x2/"><circle cx="198.5" cy="221.8" r="4" fill="#3465a4"><title>Teylu Coleman (Cornwall)</title></circle></a><a href="/setts/s6/dy30ly5t10k10w2k2~x2/"><circle cx="252.7" cy="161.5" r="4" fill="#3465a4"><title>Bryan Wedding (Personal)</title></circle></a><a href="/setts/s6/w15dg98dt72r25dt8ly15/"><circle cx="206.2" cy="187.6" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/setts/s6/dy30ly5b10k10w2k2~x2/"><circle cx="267.9" cy="171.8" r="4" fill="#3465a4"><title>Bryan Wedding (Personal)</title></circle></a><a href="/setts/s6/k17dg48ly4r10lb12dg4/"><circle cx="262.0" cy="178.0" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><circle cx="213.5" cy="197.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/dg37k22w4r15ly3~x2/

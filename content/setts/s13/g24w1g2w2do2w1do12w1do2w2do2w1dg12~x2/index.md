@@ -2,12 +2,18 @@
 title: "MacDonald Hunting"
 date: 2023-03-18
 ---
-**Bands:** [GWBWBWBWBWGWG](/stripes/gwbwbwbwbwgwg/) · **Stripes:** [DG W DO W DO W DO W DO W G W G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DG W DO W DO W DO W DO W G W G</span></span>
+**Bands:** [GWGWBWBWBWBWG](/stripes/gwgwbwbwbwbwg/) · **Stripes:** [G W G W DO W DO W DO W DO W DG](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">G W G W DO W DO W DO W DO W DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2347
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacDonald, hunting
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DG/24 LN2 T4 LN4 T4 LN2 T24 LN2 T4 LN4 G4 LN2 G/48
+G/48 LN2 G4 LN4 T4 LN2 T24 LN2 T4 LN4 T4 LN2 DG/24
 ![Sett](sett.png)
 
 ## Palette
@@ -909,7 +918,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Hammarby Football Club](/setts/s14/k1lo2k18lb2g2lb2g2lb2g2lb2g22k1lo2k1~x2/) — ΔT 1.09
+1. [Hammarby Football Club](/setts/s14/k1lo2k18lb2g2lb2g2lb2g2lb2g22k1lo2k1~x2/) — ΔT 1.10
 1. [New World Irish](/setts/s11/w9g2g2w3g18w2k2w1k19g33lo2~x2/) — ΔT 1.28
 1. [MacMillan Old Clan Tartan Tartan Number: 2025. Earliest known date: 1847 The term 'ancient' normally describes a change in colour that can be applied to any tartan. In the case of MacMillan the 'ancient' form involves a more radical change, justifying the traditional use of the adjective in the name of the tartan. James Logan, co-author of 'The Clans of the Scottish Highlands' (1847), states that this version is identical with Buchanan. The thread count was deduced by J. Cant from the illustration by R.R. MacIan in the same work. In 1951 Lieut. General Sir Gordon MacMillan, then G.O.C. Scottish Command, was recognised as chief of the clan by the Lord Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/g2k1g18k1g2k1m12g4ly6k1ly6k1~x2/) — ΔT 1.44
 1. [MacMillan, Ancient](/setts/s12/g2k1g18k1g2k1r12g4ly6k1ly6k1~x2/) — ΔT 1.45
@@ -922,8 +931,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k1lo2k18lb2g2lb2g2lb2g2lb2g22k1lo2k1~x2/"><circle cx="275.6" cy="106.8" r="4" fill="#3465a4"><title>Hammarby Football Club</title></circle></a><a href="/setts/s11/w9g2g2w3g18w2k2w1k19g33lo2~x2/"><circle cx="185.3" cy="90.7" r="4" fill="#3465a4"><title>New World Irish</title></circle></a><a href="/setts/s12/g2k1g18k1g2k1m12g4ly6k1ly6k1~x2/"><circle cx="252.0" cy="128.5" r="4" fill="#3465a4"><title>MacMillan Old Clan Tartan Tartan Number: 2025. Earliest known date: 1847 The term 'ancient' normally describes a change in colour that can be applied to any tartan. In the case of MacMillan the 'ancient' form involves a more radical change, justifying the traditional use of the adjective in the name of the tartan. James Logan, co-author of 'The Clans of the Scottish Highlands' (1847), states that this version is identical with Buchanan. The thread count was deduced by J. Cant from the illustration by R.R. MacIan in the same work. In 1951 Lieut. General Sir Gordon MacMillan, then G.O.C. Scottish Command, was recognised as chief of the clan by the Lord Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/g2k1g18k1g2k1r12g4ly6k1ly6k1~x2/"><circle cx="238.9" cy="123.3" r="4" fill="#3465a4"><title>MacMillan, Ancient</title></circle></a><a href="/setts/s12/g1k1g14k2r3db3k6w1k1w1k1w1~x4/"><circle cx="188.7" cy="112.4" r="4" fill="#3465a4"><title>Murray-Hetherington (Personal) Name Tartan Tartan Number: 10700. Earliest known date: 18 September 2012 After years of wearing the Murray of Atholl tartan, the registrant has chosen to register a tartan in his own name. He belongs to a family that has intermarried with the Murrays for many years and bears the additional surname of Murray. The underlying design of this personal tartan is based on details derived from the Blair Atholl tartan with due and proper differences to distinguish it. The colours used were specifically chosen to represent the colours found in the Murray of Atholl sett. The addition of three white stripes alludes to the three silver stars of the Murrays. The black and white also reflect the principal heraldic colours in the registrant's coat of arms granted to him by Garter King of Arms (England) and Norroy and Ulster King of Arms. The tartan, for the registrant, his immediate family, and their descendants to wear, maintains the strong link with the Murray Clan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/r3g2k1g20k9t20k1t2r3~x2/"><circle cx="203.9" cy="142.6" r="4" fill="#3465a4"><title>Ayrton</title></circle></a><a href="/setts/s14/k1ly2k21w2g2w2g2w2g2w2g20k1ly2k1~x2/"><circle cx="232.5" cy="96.7" r="4" fill="#3465a4"><title>Hammaby,The</title></circle></a><a href="/setts/s12/lr12y3lr3dg4lr16y3lr3y3lr3y16dg52lr4/"><circle cx="289.6" cy="141.2" r="4" fill="#3465a4"><title>Kelso (Fashion)</title></circle></a><a href="/setts/s19/r1k3g2k2y2k1y3k1y2r3k1g16k1y18ly1g1y2k2r1~x2/"><circle cx="215.9" cy="79.0" r="4" fill="#3465a4"><title>Craig</title></circle></a><a href="/setts/s12/dg2k1dg18k1dg2k1r12dg4ly6k1ly6k1~x2/"><circle cx="253.9" cy="130.1" r="4" fill="#3465a4"><title>MacMillan Ancient</title></circle></a><circle cx="233.0" cy="107.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k1lo2k18lb2g2lb2g2lb2g2lb2g22k1lo2k1~x2/"><circle cx="275.4" cy="106.7" r="4" fill="#3465a4"><title>Hammarby Football Club</title></circle></a><a href="/setts/s11/w9g2g2w3g18w2k2w1k19g33lo2~x2/"><circle cx="185.2" cy="90.7" r="4" fill="#3465a4"><title>New World Irish</title></circle></a><a href="/setts/s12/g2k1g18k1g2k1m12g4ly6k1ly6k1~x2/"><circle cx="251.8" cy="128.4" r="4" fill="#3465a4"><title>MacMillan Old Clan Tartan Tartan Number: 2025. Earliest known date: 1847 The term 'ancient' normally describes a change in colour that can be applied to any tartan. In the case of MacMillan the 'ancient' form involves a more radical change, justifying the traditional use of the adjective in the name of the tartan. James Logan, co-author of 'The Clans of the Scottish Highlands' (1847), states that this version is identical with Buchanan. The thread count was deduced by J. Cant from the illustration by R.R. MacIan in the same work. In 1951 Lieut. General Sir Gordon MacMillan, then G.O.C. Scottish Command, was recognised as chief of the clan by the Lord Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/g2k1g18k1g2k1r12g4ly6k1ly6k1~x2/"><circle cx="238.6" cy="123.2" r="4" fill="#3465a4"><title>MacMillan, Ancient</title></circle></a><a href="/setts/s12/g1k1g14k2r3db3k6w1k1w1k1w1~x4/"><circle cx="188.6" cy="112.3" r="4" fill="#3465a4"><title>Murray-Hetherington (Personal) Name Tartan Tartan Number: 10700. Earliest known date: 18 September 2012 After years of wearing the Murray of Atholl tartan, the registrant has chosen to register a tartan in his own name. He belongs to a family that has intermarried with the Murrays for many years and bears the additional surname of Murray. The underlying design of this personal tartan is based on details derived from the Blair Atholl tartan with due and proper differences to distinguish it. The colours used were specifically chosen to represent the colours found in the Murray of Atholl sett. The addition of three white stripes alludes to the three silver stars of the Murrays. The black and white also reflect the principal heraldic colours in the registrant's coat of arms granted to him by Garter King of Arms (England) and Norroy and Ulster King of Arms. The tartan, for the registrant, his immediate family, and their descendants to wear, maintains the strong link with the Murray Clan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/r3g2k1g20k9t20k1t2r3~x2/"><circle cx="203.8" cy="142.5" r="4" fill="#3465a4"><title>Ayrton</title></circle></a><a href="/setts/s14/k1ly2k21w2g2w2g2w2g2w2g20k1ly2k1~x2/"><circle cx="232.4" cy="96.6" r="4" fill="#3465a4"><title>Hammaby,The</title></circle></a><a href="/setts/s12/lr12y3lr3dg4lr16y3lr3y3lr3y16dg52lr4/"><circle cx="289.4" cy="141.0" r="4" fill="#3465a4"><title>Kelso (Fashion)</title></circle></a><a href="/setts/s19/r1k3g2k2y2k1y3k1y2r3k1g16k1y18ly1g1y2k2r1~x2/"><circle cx="215.7" cy="79.0" r="4" fill="#3465a4"><title>Craig</title></circle></a><a href="/setts/s12/dg2k1dg18k1dg2k1r12dg4ly6k1ly6k1~x2/"><circle cx="253.7" cy="130.1" r="4" fill="#3465a4"><title>MacMillan Ancient</title></circle></a><circle cx="232.8" cy="107.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/g24w1g2w2do2w1do12w1do2w2do2w1dg12~x2/

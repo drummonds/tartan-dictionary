@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -924,12 +927,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Woodberry Forest School (Corporate)](/setts/s10/r6k3w3k3w3k34r6g5r6k5~x2/) — ΔT 1.51
 1. [Hebridean 8](/setts/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/) — ΔT 1.52
 1. [Moffat](/setts/s7/k39y3k3y3k14y28r3~x2/) — ΔT 1.56
-1. [Johnston Orange/Black (Corporate)](/setts/s8/lo1k1lo1k12lo12k1lo1w1~x4/) — ΔT 1.62
+1. [Johnston Orange/Black (Corporate)](/setts/s8/w1lo1k1lo12k12lo1k1lo1~x4/) — ΔT 1.62
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k18r2k2r5w2r2w2r2k2~x4/"><circle cx="335.4" cy="170.4" r="4" fill="#3465a4"><title>Tweedside Red</title></circle></a><a href="/setts/s12/k20o4k20o2o2o7k2o2o2o7o2o2~x4/"><circle cx="323.9" cy="178.6" r="4" fill="#3465a4"><title>Black Forest</title></circle></a><a href="/setts/s12/k20o2o2o7o2o2k2o7o2o2k20o4~x4/"><circle cx="323.9" cy="178.6" r="4" fill="#3465a4"><title>Black Forest (Fashion)</title></circle></a><a href="/setts/s10/ly6k2ly2r10k4r4k4r2k35ly2~x2/"><circle cx="376.6" cy="137.1" r="4" fill="#3465a4"><title>Einigkeit</title></circle></a><a href="/setts/s9/lr1r6k1r1k16r1k1r6ly1~x2/"><circle cx="331.1" cy="140.3" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/setts/s8/k13y1k1y1k4y10ly1y1~x6/"><circle cx="337.8" cy="180.8" r="4" fill="#3465a4"><title>West Point</title></circle></a><a href="/setts/s10/r6k3w3k3w3k34r6g5r6k5~x2/"><circle cx="325.7" cy="150.3" r="4" fill="#3465a4"><title>Woodberry Forest School (Corporate)</title></circle></a><a href="/setts/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/"><circle cx="348.1" cy="150.9" r="4" fill="#3465a4"><title>Hebridean 8</title></circle></a><a href="/setts/s7/k39y3k3y3k14y28r3~x2/"><circle cx="357.4" cy="196.2" r="4" fill="#3465a4"><title>Moffat</title></circle></a><a href="/setts/s8/lo1k1lo1k12lo12k1lo1w1~x4/"><circle cx="314.8" cy="158.7" r="4" fill="#3465a4"><title>Johnston Orange/Black (Corporate)</title></circle></a><circle cx="331.7" cy="174.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k18r2k2r5w2r2w2r2k2~x4/"><circle cx="335.2" cy="170.1" r="4" fill="#3465a4"><title>Tweedside Red</title></circle></a><a href="/setts/s12/k20o4k20o2o2o7k2o2o2o7o2o2~x4/"><circle cx="323.9" cy="178.5" r="4" fill="#3465a4"><title>Black Forest</title></circle></a><a href="/setts/s12/k20o2o2o7o2o2k2o7o2o2k20o4~x4/"><circle cx="323.9" cy="178.5" r="4" fill="#3465a4"><title>Black Forest (Fashion)</title></circle></a><a href="/setts/s10/ly6k2ly2r10k4r4k4r2k35ly2~x2/"><circle cx="376.5" cy="136.8" r="4" fill="#3465a4"><title>Einigkeit</title></circle></a><a href="/setts/s9/lr1r6k1r1k16r1k1r6ly1~x2/"><circle cx="331.0" cy="140.1" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/setts/s8/k13y1k1y1k4y10ly1y1~x6/"><circle cx="337.8" cy="180.5" r="4" fill="#3465a4"><title>West Point</title></circle></a><a href="/setts/s10/r6k3w3k3w3k34r6g5r6k5~x2/"><circle cx="325.5" cy="150.1" r="4" fill="#3465a4"><title>Woodberry Forest School (Corporate)</title></circle></a><a href="/setts/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/"><circle cx="348.0" cy="150.7" r="4" fill="#3465a4"><title>Hebridean 8</title></circle></a><a href="/setts/s7/k39y3k3y3k14y28r3~x2/"><circle cx="357.5" cy="195.9" r="4" fill="#3465a4"><title>Moffat</title></circle></a><a href="/setts/s8/w1lo1k1lo12k12lo1k1lo1~x4/"><circle cx="314.6" cy="158.4" r="4" fill="#3465a4"><title>Johnston Orange/Black (Corporate)</title></circle></a><circle cx="331.7" cy="174.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/k18r2k2r5w2r2w2r2k2~x2/

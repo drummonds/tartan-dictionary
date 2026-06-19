@@ -18,10 +18,10 @@ BGBWBYBYBWBG
 
 
 
-### DP DG DP W DP LY DP LY DP W DP DG <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="seq">DP DG DP W DP LY DP LY DP W DP DG</span></span>
+### DG DP W DP LY DP LY DP W DP DG DP <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DG DP W DP LY DP LY DP W DP DG DP</span></span>
 
 | Tartans |
 |---------------|
-| [Justus International (Personal)](/setts/s12/dp2dg1dp1w1dp1ly1dp2ly1dp1w1dp1dg1~x24/)|
-|![Justus International (Personal) example sett](/setts/s12/dp2dg1dp1w1dp1ly1dp2ly1dp1w1dp1dg1~x24/sett.png)|
+| [Justus International (Personal)](/setts/s12/dp2dg1dp1w1dp1ly1dp2~x24/)|
+|![Justus International (Personal) example sett](/setts/s12/dp2dg1dp1w1dp1ly1dp2~x24/sett.png)|
 

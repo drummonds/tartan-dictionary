@@ -2,12 +2,18 @@
 title: "Unidentified, pattern"
 date: 2023-03-18
 ---
-**Bands:** [BRKRGKYKBRBR](/stripes/brkrgkykbrbr/) · **Stripes:** [DB R K R G K LY K DB R DB R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R K R G K LY K DB R DB R</span></span>
+**Bands:** [RBRBKYKGRKRB](/stripes/rbrbkykgrkrb/) · **Stripes:** [R DB R DB K LY K G R K R DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB K LY K G R K R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified, pattern
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/4 R8 K14 R16 G20 K8 Y4 K16 B8 R8 B28 R/4
+R/4 B28 R8 B8 K16 Y4 K8 G20 R16 K14 R8 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -910,14 +919,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Carnegie](/setts/s13/db3r1db1r2db6r1k6dg6r2dg1r1dg2ly1~x2/) — ΔT 0.97
 1. [Carnegie](/setts/s13/db3r1db1r2db6r1k6g6r2g1r1g2ly1~x2/) — ΔT 1.03
 1. [Huntly Old](/setts/s15/dp16lb2r7lb2k14lb8dp15lb2dg17lb6dg6r8k6r8k2/) — ΔT 1.08
-1. [Ryukoku University Heian Junior Corporate Tartan Tartan Number: 10716. Earliest known date: 12 October 2012 This tartan represents the school's hope for its students' future. It is inspired by the colours of the clouds whilst the sun is rising. Beyond the clouds there is a light of hope which is purple. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/m5k15lr5n9lr2dp2lr2dp2n9k3~x2/) — ΔT 1.09
+1. [Ryukoku University Heian Junior Corporate Tartan Tartan Number: 10716. Earliest known date: 12 October 2012 This tartan represents the school's hope for its students' future. It is inspired by the colours of the clouds whilst the sun is rising. Beyond the clouds there is a light of hope which is purple. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/m5k15lr5n9lr2dp2lr2dp2n9k3~x2/) — ΔT 1.08
 1. [MacSporran](/setts/s13/db17r3db4r5db20r3k20g20r5g4r3k3ly11~x2/) — ΔT 1.11
-1. [MacDonald of Clanranald D](/setts/s13/db6r2db2r3db12r2k10lb2dg12r3dg2r2dg6/) — ΔT 1.11
+1. [MacDonald of Clanranald D](/setts/s13/dg6r2dg2r3dg12lb2k10r2db12r3db2r2db6/) — ΔT 1.11
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r4o14o2o4o2k6o3k6k14r2k4r4~x2/"><circle cx="97.6" cy="173.9" r="4" fill="#3465a4"><title>Kinloch Anderson Limited</title></circle></a><a href="/setts/s12/r20g3r3g13r6k10db14w3r3w3db14k12~x2/"><circle cx="81.8" cy="181.3" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/setts/s12/r8g2r2g6r4k8db12w2r2w2db12k5~x2/"><circle cx="94.7" cy="182.2" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/setts/s12/db2r4k7r8dg10k4ly2k8db4r4db14r2~x2/"><circle cx="91.6" cy="192.8" r="4" fill="#3465a4"><title>Unidentified pattern</title></circle></a><a href="/setts/s13/db3r1db1r2db6r1k6dg6r2dg1r1dg2ly1~x2/"><circle cx="85.1" cy="179.5" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/setts/s13/db3r1db1r2db6r1k6g6r2g1r1g2ly1~x2/"><circle cx="79.7" cy="173.2" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/setts/s15/dp16lb2r7lb2k14lb8dp15lb2dg17lb6dg6r8k6r8k2/"><circle cx="39.5" cy="156.3" r="4" fill="#3465a4"><title>Huntly Old</title></circle></a><a href="/setts/s10/m5k15lr5n9lr2dp2lr2dp2n9k3~x2/"><circle cx="99.0" cy="174.6" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior Corporate Tartan Tartan Number: 10716. Earliest known date: 12 October 2012 This tartan represents the school's hope for its students' future. It is inspired by the colours of the clouds whilst the sun is rising. Beyond the clouds there is a light of hope which is purple. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/db17r3db4r5db20r3k20g20r5g4r3k3ly11~x2/"><circle cx="87.2" cy="165.7" r="4" fill="#3465a4"><title>MacSporran</title></circle></a><a href="/setts/s13/db6r2db2r3db12r2k10lb2dg12r3dg2r2dg6/"><circle cx="92.7" cy="183.5" r="4" fill="#3465a4"><title>MacDonald of Clanranald D</title></circle></a><circle cx="69.3" cy="184.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r4o14o2o4o2k6o3k6k14r2k4r4~x2/"><circle cx="97.7" cy="174.0" r="4" fill="#3465a4"><title>Kinloch Anderson Limited</title></circle></a><a href="/setts/s12/r20g3r3g13r6k10db14w3r3w3db14k12~x2/"><circle cx="81.9" cy="181.4" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/setts/s12/r8g2r2g6r4k8db12w2r2w2db12k5~x2/"><circle cx="94.8" cy="182.2" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/setts/s12/db2r4k7r8dg10k4ly2k8db4r4db14r2~x2/"><circle cx="91.7" cy="192.9" r="4" fill="#3465a4"><title>Unidentified pattern</title></circle></a><a href="/setts/s13/db3r1db1r2db6r1k6dg6r2dg1r1dg2ly1~x2/"><circle cx="85.3" cy="179.6" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/setts/s13/db3r1db1r2db6r1k6g6r2g1r1g2ly1~x2/"><circle cx="79.8" cy="173.3" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/setts/s15/dp16lb2r7lb2k14lb8dp15lb2dg17lb6dg6r8k6r8k2/"><circle cx="39.6" cy="156.4" r="4" fill="#3465a4"><title>Huntly Old</title></circle></a><a href="/setts/s10/m5k15lr5n9lr2dp2lr2dp2n9k3~x2/"><circle cx="99.2" cy="174.6" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior Corporate Tartan Tartan Number: 10716. Earliest known date: 12 October 2012 This tartan represents the school's hope for its students' future. It is inspired by the colours of the clouds whilst the sun is rising. Beyond the clouds there is a light of hope which is purple. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/db17r3db4r5db20r3k20g20r5g4r3k3ly11~x2/"><circle cx="87.3" cy="165.7" r="4" fill="#3465a4"><title>MacSporran</title></circle></a><a href="/setts/s13/dg6r2dg2r3dg12lb2k10r2db12r3db2r2db6/"><circle cx="92.9" cy="183.6" r="4" fill="#3465a4"><title>MacDonald of Clanranald D</title></circle></a><circle cx="69.5" cy="184.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/db2r4k7r8g10k4ly2k8db4r4db14r2~x2/

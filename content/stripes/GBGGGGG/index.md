@@ -21,14 +21,14 @@ GBGGGGG
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DY DB DY DG DG DG DG <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="seq">DY DB DY DG DG DG DG</span></span>
+### DG DG DG DG DY DB DY <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">DG DG DG DG DY DB DY</span></span>
 
 | Tartans |
 |---------------|
 | [de Meuron (Neuchâtel) Day, The](/setts/s7/dy40db5dy6dg26dg13dg9dg3~x2/)|
 |![de Meuron (Neuchâtel) Day, The example sett](/setts/s7/dy40db5dy6dg26dg13dg9dg3~x2/sett.png)|
 
-### DY DT DY DG Y DG DY <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">DY DT DY DG Y DG DY</span></span>
+### DY DG Y DG DY DT DY <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">DY DG Y DG DY DT DY</span></span>
 
 | Tartans |
 |---------------|

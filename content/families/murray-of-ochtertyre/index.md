@@ -8,7 +8,7 @@ A family of [Clan Murray](/clan/murray/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s16/k1r1k10r10k1r1k1r1k8r1k1r1k1r10k10r1~x4/"><img src="/setts/s16/k1r1k10r10k1r1k1r1k8r1k1r1k1r10k10r1~x4/sett.png" alt="Murray of Ochtertyre" width="240"><br>Murray of Ochtertyre</a>
+<a class="tartan" href="/setts/s16/k8r1k1r1k1r10k10r1k1~x4/"><img src="/setts/s16/k8r1k1r1k1r10k10r1k1~x4/sett.png" alt="Murray of Ochtertyre" width="240"><br>Murray of Ochtertyre</a>
 
 ## Other tartans
 

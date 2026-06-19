@@ -2,12 +2,18 @@
 title: "Bradey Blue Dress"
 date: 2023-03-18
 ---
-**Bands:** [RKWBBKWKR](/stripes/rkwbbkwkr/) · **Stripes:** [M K W B DB K W K M](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="seq">M K W B DB K W K M</span></span>
+**Bands:** [RKWKBBWKR](/stripes/rkwkbbwkr/) · **Stripes:** [M K W K DB B W K M](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="seq">M K W K DB B W K M</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=332
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Bradey Dress, Blue
 
 ## Attestations
 
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/t12k1t1k1t1db8w9o2~x4/"><circle cx="156.2" cy="142.5" r="4" fill="#3465a4"><title>Arran - 1989 (Fashion)</title></circle></a><a href="/setts/s6/g4w28dp8ly2db17g4~x2/"><circle cx="181.7" cy="150.6" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/setts/s7/t34db24w18r3w18g2w3~x2/"><circle cx="159.2" cy="149.8" r="4" fill="#3465a4"><title>Ferguson, dress</title></circle></a><a href="/setts/s7/w28t19db19w4db2p2db7~x2/"><circle cx="170.0" cy="155.6" r="4" fill="#3465a4"><title>St. Andrews Dress, Earl of (Danc</title></circle></a><a href="/setts/s10/db8r3db36t3k10w34r4w3r3w8~x2/"><circle cx="169.3" cy="119.5" r="4" fill="#3465a4"><title>Stewart of Appin Htg Dress</title></circle></a><a href="/setts/s10/lo12k3b24r12b24k32w44b4w8b4/"><circle cx="106.9" cy="132.1" r="4" fill="#3465a4"><title>Gillies Dress Blue</title></circle></a><a href="/setts/s7/w20db14dt14w4db2b2dt7~x2/"><circle cx="129.2" cy="171.8" r="4" fill="#3465a4"><title>Earl of St. Andrews Dress</title></circle></a><a href="/setts/s7/n8w28o3g3n8k9n4~x2/"><circle cx="164.0" cy="152.2" r="4" fill="#3465a4"><title>MacTavish of Dunardry Dress</title></circle></a><a href="/setts/s9/r2db2w26g25k14db13w26db2r2~x2/"><circle cx="169.0" cy="140.5" r="4" fill="#3465a4"><title>MacNaughton Dress</title></circle></a><a href="/setts/s6/g4w28p8ly2db17g4~x2/"><circle cx="184.9" cy="151.7" r="4" fill="#3465a4"><title>Manx, dress</title></circle></a><circle cx="155.1" cy="135.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/t12k1t1k1t1db8w9o2~x4/"><circle cx="156.1" cy="142.4" r="4" fill="#3465a4"><title>Arran - 1989 (Fashion)</title></circle></a><a href="/setts/s6/g4w28dp8ly2db17g4~x2/"><circle cx="181.6" cy="150.5" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/setts/s7/t34db24w18r3w18g2w3~x2/"><circle cx="159.1" cy="149.7" r="4" fill="#3465a4"><title>Ferguson, dress</title></circle></a><a href="/setts/s7/w28t19db19w4db2p2db7~x2/"><circle cx="169.8" cy="155.5" r="4" fill="#3465a4"><title>St. Andrews Dress, Earl of (Danc</title></circle></a><a href="/setts/s10/db8r3db36t3k10w34r4w3r3w8~x2/"><circle cx="169.1" cy="119.5" r="4" fill="#3465a4"><title>Stewart of Appin Htg Dress</title></circle></a><a href="/setts/s10/lo12k3b24r12b24k32w44b4w8b4/"><circle cx="106.8" cy="132.1" r="4" fill="#3465a4"><title>Gillies Dress Blue</title></circle></a><a href="/setts/s7/w20db14dt14w4db2b2dt7~x2/"><circle cx="129.1" cy="171.7" r="4" fill="#3465a4"><title>Earl of St. Andrews Dress</title></circle></a><a href="/setts/s7/n8w28o3g3n8k9n4~x2/"><circle cx="163.8" cy="152.1" r="4" fill="#3465a4"><title>MacTavish of Dunardry Dress</title></circle></a><a href="/setts/s9/r2db2w26g25k14db13w26db2r2~x2/"><circle cx="168.8" cy="140.4" r="4" fill="#3465a4"><title>MacNaughton Dress</title></circle></a><a href="/setts/s6/g4w28p8ly2db17g4~x2/"><circle cx="184.6" cy="151.6" r="4" fill="#3465a4"><title>Manx, dress</title></circle></a><circle cx="154.9" cy="135.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/m1k1w13b13db7k7w13k1m1~x4/

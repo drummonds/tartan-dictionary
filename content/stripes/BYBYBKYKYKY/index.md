@@ -18,10 +18,10 @@ BYBYBKYKYKY
 
 
 
-### T LY T LY T K LY K LY K LY <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">T LY T LY T K LY K LY K LY</span></span>
+### LY K LY K LY K T LY T LY T <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY K LY K LY K T LY T LY T</span></span>
 
 | Tartans |
 |---------------|
-| [General Choi](/setts/s11/ly3k2ly2k2ly2k28t32ly2t3ly2t3~x2/)|
-|![General Choi example sett](/setts/s11/ly3k2ly2k2ly2k28t32ly2t3ly2t3~x2/sett.png)|
+| [General Choi](/setts/s11/t3ly2t3ly2t32k28ly2k2ly2k2ly3~x2/)|
+|![General Choi example sett](/setts/s11/t3ly2t3ly2t32k28ly2k2ly2k2ly3~x2/sett.png)|
 

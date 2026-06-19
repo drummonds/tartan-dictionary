@@ -2,7 +2,7 @@
 title: "St Andrews, Earl of"
 date: 2023-03-18
 ---
-**Bands:** [BKWKWK](/stripes/bkwkwk/) · **Stripes:** [DB K W K W K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K W K W K</span></span>
+**Bands:** [KWKWKB](/stripes/kwkwkb/) · **Stripes:** [K W K W K DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K W K W K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -908,18 +911,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Ramsay Blue Hunting](/setts/s6/k4lb2k28b30k1b3~x2/) — ΔT 1.15
 1. [St. Andrews, Earl of (District)](/setts/s6/b52db28w5db3w2db10~x2/) — ΔT 1.17
 1. [Jon's Theme](/setts/s6/k1ly2k3n12k18w1~x2/) — ΔT 1.26
-1. [Oakleigh (Corporate)](/setts/s6/b4k1b20k20ly1k4~x4/) — ΔT 1.26
+1. [Oakleigh (Corporate)](/setts/s6/k4ly1k20b20k1b4~x4/) — ΔT 1.26
 1. [Jon's Theme (Fashion)](/setts/s6/k1lo2k3db12k18w1~x2/) — ΔT 1.33
-1. [Hannah (Personal)](/setts/s6/ly2k9w3k9db35w2~x2/) — ΔT 1.35
+1. [Hannah (Personal)](/setts/s6/w2db35k9w3k9ly2~x2/) — ΔT 1.35
 1. [NHS Grampian](/setts/s7/k4w1t2w1k16db36t4~x2/) — ΔT 1.35
-1. [Finnie (Personal)](/setts/s8/db4w4db37k20w1dp5w1k4~x2/) — ΔT 1.44
+1. [Finnie (Personal)](/setts/s8/k4w1dp5w1k20db37w4db4~x2/) — ΔT 1.44
 1. [Ramsay](/setts/s6/k4w2k28db30k1db3~x2/) — ΔT 1.50
 1. [Roxburgh, Green (District)](/setts/s8/db23w1db1w1db8g22r1db3~x4/) — ΔT 1.54
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k4lb2k28b30k1b3~x2/"><circle cx="366.3" cy="178.3" r="4" fill="#3465a4"><title>Ramsay Blue Hunting</title></circle></a><a href="/setts/s6/b52db28w5db3w2db10~x2/"><circle cx="361.8" cy="183.7" r="4" fill="#3465a4"><title>St. Andrews, Earl of (District)</title></circle></a><a href="/setts/s6/k1ly2k3n12k18w1~x2/"><circle cx="366.4" cy="186.8" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/setts/s6/b4k1b20k20ly1k4~x4/"><circle cx="353.1" cy="200.2" r="4" fill="#3465a4"><title>Oakleigh (Corporate)</title></circle></a><a href="/setts/s6/k1lo2k3db12k18w1~x2/"><circle cx="374.1" cy="194.2" r="4" fill="#3465a4"><title>Jon's Theme (Fashion)</title></circle></a><a href="/setts/s6/ly2k9w3k9db35w2~x2/"><circle cx="349.9" cy="171.7" r="4" fill="#3465a4"><title>Hannah (Personal)</title></circle></a><a href="/setts/s7/k4w1t2w1k16db36t4~x2/"><circle cx="395.5" cy="147.5" r="4" fill="#3465a4"><title>NHS Grampian</title></circle></a><a href="/setts/s8/db4w4db37k20w1dp5w1k4~x2/"><circle cx="365.4" cy="135.7" r="4" fill="#3465a4"><title>Finnie (Personal)</title></circle></a><a href="/setts/s6/k4w2k28db30k1db3~x2/"><circle cx="364.5" cy="179.0" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/setts/s8/db23w1db1w1db8g22r1db3~x4/"><circle cx="375.1" cy="158.0" r="4" fill="#3465a4"><title>Roxburgh, Green (District)</title></circle></a><circle cx="369.2" cy="188.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k4lb2k28b30k1b3~x2/"><circle cx="366.3" cy="178.0" r="4" fill="#3465a4"><title>Ramsay Blue Hunting</title></circle></a><a href="/setts/s6/b52db28w5db3w2db10~x2/"><circle cx="361.8" cy="183.5" r="4" fill="#3465a4"><title>St. Andrews, Earl of (District)</title></circle></a><a href="/setts/s6/k1ly2k3n12k18w1~x2/"><circle cx="366.4" cy="186.6" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/setts/s6/k4ly1k20b20k1b4~x4/"><circle cx="353.1" cy="199.9" r="4" fill="#3465a4"><title>Oakleigh (Corporate)</title></circle></a><a href="/setts/s6/k1lo2k3db12k18w1~x2/"><circle cx="374.2" cy="194.0" r="4" fill="#3465a4"><title>Jon's Theme (Fashion)</title></circle></a><a href="/setts/s6/w2db35k9w3k9ly2~x2/"><circle cx="349.8" cy="171.5" r="4" fill="#3465a4"><title>Hannah (Personal)</title></circle></a><a href="/setts/s7/k4w1t2w1k16db36t4~x2/"><circle cx="395.5" cy="147.4" r="4" fill="#3465a4"><title>NHS Grampian</title></circle></a><a href="/setts/s8/k4w1dp5w1k20db37w4db4~x2/"><circle cx="365.4" cy="135.6" r="4" fill="#3465a4"><title>Finnie (Personal)</title></circle></a><a href="/setts/s6/k4w2k28db30k1db3~x2/"><circle cx="364.6" cy="178.8" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/setts/s8/db23w1db1w1db8g22r1db3~x4/"><circle cx="375.1" cy="157.8" r="4" fill="#3465a4"><title>Roxburgh, Green (District)</title></circle></a><circle cx="369.2" cy="188.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db52k28w5k3w2k10/

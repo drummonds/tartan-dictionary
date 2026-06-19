@@ -8,7 +8,7 @@ RBRBWKY
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/ly2k1lb6db2r6db4r2~x2/tartan.png)
+![Woven sample](/setts/s7/r2db4r6db2lb6k1ly2~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RBRBWKY
 
 | Tartans |
 |---------------|
-| [Unidentified Printing](/setts/s7/ly2k1lb6db2r6db4r2~x2/)|
-|![Unidentified Printing example sett](/setts/s7/ly2k1lb6db2r6db4r2~x2/sett.png)|
+| [Unidentified Printing](/setts/s7/r2db4r6db2lb6k1ly2~x2/)|
+|![Unidentified Printing example sett](/setts/s7/r2db4r6db2lb6k1ly2~x2/sett.png)|
 

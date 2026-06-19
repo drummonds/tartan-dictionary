@@ -8,7 +8,7 @@ RBBBKGY
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/ly4g10k7db20t7db2m4~x2/tartan.png)
+![Woven sample](/setts/s7/m4db2t7db20k7g10ly4~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RBBBKGY
 
 | Tartans |
 |---------------|
-| [Renfrewshire District Tartan Tartan Number: 2560. Earliest known date: 1998 Designed for anyone residing in the County of Renfrewshire See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/ly4g10k7db20t7db2m4~x2/)|
-|![Renfrewshire District Tartan Tartan Number: 2560. Earliest known date: 1998 Designed for anyone residing in the County of Renfrewshire See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/ly4g10k7db20t7db2m4~x2/sett.png)|
+| [Renfrewshire District Tartan Tartan Number: 2560. Earliest known date: 1998 Designed for anyone residing in the County of Renfrewshire See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/m4db2t7db20k7g10ly4~x2/)|
+|![Renfrewshire District Tartan Tartan Number: 2560. Earliest known date: 1998 Designed for anyone residing in the County of Renfrewshire See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/m4db2t7db20k7g10ly4~x2/sett.png)|
 

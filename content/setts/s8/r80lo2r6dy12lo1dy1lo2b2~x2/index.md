@@ -2,7 +2,7 @@
 title: "Alegre-Wood (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BYGYGRYR](/stripes/bygygryr/) · **Stripes:** [B LO DY LO DY R LO R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="seq">B LO DY LO DY R LO R</span></span>
+**Bands:** [RYRGYGYB](/stripes/ryrgygyb/) · **Stripes:** [R LO R DY LO DY LO B](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R LO R DY LO DY LO B</span></span>
 
 
 This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7698
 
 ## Thread count
-B/4 DY4 T2 DY2 T24 DR12 O4 DR/160
+DR/160 O4 DR12 T24 DY2 T2 DY4 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -40,7 +40,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/4 DY4 T2 DY2 T24 DR12 O4 DR/160 tartan")
+![Tartan detail](tartan.png "DR/160 O4 DR12 T24 DY2 T2 DY4 B/4 tartan")
 
 ## Nearest tartans
 
@@ -59,8 +59,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r2dt6r24dg2r2r1r6dt1r2~x2/"><circle cx="602.2" cy="178.7" r="4" fill="#3465a4"><title>Fitzgibbon Red</title></circle></a><a href="/setts/s13/o32dy8o1dy1lb1o1lb1o1o1dy1o1o4dy1~x4/"><circle cx="611.5" cy="128.4" r="4" fill="#3465a4"><title>Parma</title></circle></a><a href="/setts/s8/o96db8o8w3o8g3o8r3~x2/"><circle cx="626.0" cy="155.6" r="4" fill="#3465a4"><title>Burnett, of Leys hunting</title></circle></a><a href="/setts/s8/r92db10r8w3r8g4r8r4~x2/"><circle cx="626.0" cy="126.5" r="4" fill="#3465a4"><title>Burnett of Leys Hunting</title></circle></a><a href="/setts/s9/r2k6r24g2r2r1r6k1r2~x2/"><circle cx="564.9" cy="160.8" r="4" fill="#3465a4"><title>Fitzgibbon Red (Name)</title></circle></a><a href="/setts/s8/dr90k1k2t10k5r2k2t2~x2/"><circle cx="626.0" cy="104.8" r="4" fill="#3465a4"><title>Lock in Northumberland</title></circle></a><a href="/setts/s8/r75db6r6w2r6g2r6r2~x2/"><circle cx="626.0" cy="119.6" r="4" fill="#3465a4"><title>Burnett of Leys Htg (Clan)</title></circle></a><a href="/setts/s6/dy45lb2r4ly1o2n2~x4/"><circle cx="618.2" cy="120.5" r="4" fill="#3465a4"><title>Windy Meadows (Fashion)</title></circle></a><a href="/setts/s11/y80lg1y2lo8y2lg1y2r15k1r3lb2~x2/"><circle cx="567.6" cy="68.7" r="4" fill="#3465a4"><title>Drovers' Tryst (Corporate)</title></circle></a><a href="/setts/s6/r2dy1r4r1r12lo1~x2/"><circle cx="626.0" cy="232.5" r="4" fill="#3465a4"><title>Killiechassie</title></circle></a><circle cx="626.0" cy="135.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r2dt6r24dg2r2r1r6dt1r2~x2/"><circle cx="601.7" cy="178.6" r="4" fill="#3465a4"><title>Fitzgibbon Red</title></circle></a><a href="/setts/s13/o32dy8o1dy1lb1o1lb1o1o1dy1o1o4dy1~x4/"><circle cx="610.9" cy="128.5" r="4" fill="#3465a4"><title>Parma</title></circle></a><a href="/setts/s8/o96db8o8w3o8g3o8r3~x2/"><circle cx="626.0" cy="155.4" r="4" fill="#3465a4"><title>Burnett, of Leys hunting</title></circle></a><a href="/setts/s8/r92db10r8w3r8g4r8r4~x2/"><circle cx="626.0" cy="126.3" r="4" fill="#3465a4"><title>Burnett of Leys Hunting</title></circle></a><a href="/setts/s9/r2k6r24g2r2r1r6k1r2~x2/"><circle cx="564.4" cy="160.7" r="4" fill="#3465a4"><title>Fitzgibbon Red (Name)</title></circle></a><a href="/setts/s8/dr90k1k2t10k5r2k2t2~x2/"><circle cx="626.0" cy="104.7" r="4" fill="#3465a4"><title>Lock in Northumberland</title></circle></a><a href="/setts/s8/r75db6r6w2r6g2r6r2~x2/"><circle cx="626.0" cy="119.4" r="4" fill="#3465a4"><title>Burnett of Leys Htg (Clan)</title></circle></a><a href="/setts/s6/dy45lb2r4ly1o2n2~x4/"><circle cx="617.7" cy="120.4" r="4" fill="#3465a4"><title>Windy Meadows (Fashion)</title></circle></a><a href="/setts/s11/y80lg1y2lo8y2lg1y2r15k1r3lb2~x2/"><circle cx="566.9" cy="68.7" r="4" fill="#3465a4"><title>Drovers' Tryst (Corporate)</title></circle></a><a href="/setts/s6/r2dy1r4r1r12lo1~x2/"><circle cx="626.0" cy="232.3" r="4" fill="#3465a4"><title>Killiechassie</title></circle></a><circle cx="626.0" cy="135.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r80lo2r6dy12lo1dy1lo2b2~x2/

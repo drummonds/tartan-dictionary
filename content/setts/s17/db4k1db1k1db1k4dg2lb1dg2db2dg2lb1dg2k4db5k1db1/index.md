@@ -2,7 +2,7 @@
 title: "Arbuthnott"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKGWGBGWGKBKB](/stripes/bkbkbkgwgbgwgkbkb/) · **Stripes:** [DB K DB K DB K DG LB DG DB DG LB DG K DB K DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DB K DG LB DG DB DG LB DG K DB K DB</span></span>
+**Bands:** [BKBKGWGBGWGKBKBKB](/stripes/bkbkgwgbgwgkbkbkb/) · **Stripes:** [DB K DB K DG LB DG DB DG LB DG K DB K DB K DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DG LB DG DB DG LB DG K DB K DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [17 band tartan](/bands/bands17/).
@@ -13,13 +13,23 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Thread count
 DB/4 K1 DB1 K1 DB1 K4 G2 N1 G2 DB2 G2 N1 G2 K4 DB5 K1 DB/1
@@ -52,8 +62,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/db4k1db1k1db1k4dg2lr1dg2db2dg2lr1dg2k4db5k1db1~x2/"><circle cx="152.0" cy="229.6" r="4" fill="#3465a4"><title>Arbuthnott</title></circle></a><a href="/setts/s17/db4k1db1k1db1k4dg2lr1dg2db2dg2lr1dg2k4db5k1db1/"><circle cx="152.0" cy="229.6" r="4" fill="#3465a4"><title>Arbuthnott</title></circle></a><a href="/setts/s13/db3k1db1k1db1k4dg4lb1dg4k4db4k1db1/"><circle cx="130.8" cy="246.7" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s13/db16k3db3k3db3k16dg19lo3dg19k16db15k3db3~x2/"><circle cx="149.4" cy="216.7" r="4" fill="#3465a4"><title>92nd Regiment (Gordon) (Mil.)</title></circle></a><a href="/setts/s13/db3k1db1k1db1k4dg4lr1dg4k4db4k1db1~x2/"><circle cx="146.1" cy="254.2" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s13/db3k1db1k1db1k4dg4lr1dg4k4db4k1db1/"><circle cx="146.1" cy="254.2" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6dg8k1lb2k1dg8k6db8k1db2/"><circle cx="179.5" cy="203.4" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/db12k2db2k2db2k12dg12ly2dg12k12db11k2db2/"><circle cx="164.2" cy="224.7" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6dg6r2dg6k6db6k1db2/"><circle cx="163.1" cy="232.8" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s13/db16k3db3k3db3k16g15k3g15k16db15k3db3~x2/"><circle cx="175.1" cy="240.8" r="4" fill="#3465a4"><title>93rd Regiment (Military)</title></circle></a><circle cx="136.3" cy="221.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/db4k1db1k1db1k4dg2lr1dg2db2dg2lr1dg2k4db5k1db1~x2/"><circle cx="152.4" cy="229.6" r="4" fill="#3465a4"><title>Arbuthnott</title></circle></a><a href="/setts/s17/db4k1db1k1db1k4dg2lr1dg2db2dg2lr1dg2k4db5k1db1/"><circle cx="152.4" cy="229.6" r="4" fill="#3465a4"><title>Arbuthnott</title></circle></a><a href="/setts/s13/db3k1db1k1db1k4dg4lb1dg4k4db4k1db1/"><circle cx="131.1" cy="246.7" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s13/db16k3db3k3db3k16dg19lo3dg19k16db15k3db3~x2/"><circle cx="149.7" cy="216.7" r="4" fill="#3465a4"><title>92nd Regiment (Gordon) (Mil.)</title></circle></a><a href="/setts/s13/db3k1db1k1db1k4dg4lr1dg4k4db4k1db1~x2/"><circle cx="146.5" cy="254.3" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s13/db3k1db1k1db1k4dg4lr1dg4k4db4k1db1/"><circle cx="146.5" cy="254.3" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6dg8k1lb2k1dg8k6db8k1db2/"><circle cx="179.8" cy="203.4" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/db12k2db2k2db2k12dg12ly2dg12k12db11k2db2/"><circle cx="164.5" cy="224.7" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6dg6r2dg6k6db6k1db2/"><circle cx="163.5" cy="232.9" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s13/db16k3db3k3db3k16g15k3g15k16db15k3db3~x2/"><circle cx="175.4" cy="240.8" r="4" fill="#3465a4"><title>93rd Regiment (Military)</title></circle></a><circle cx="136.6" cy="221.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s17/db4k1db1k1db1k4dg2lb1dg2db2dg2lb1dg2k4db5k1db1/

@@ -319,6 +319,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +420,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +680,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -893,7 +896,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/6 Y4 DB36 K6 DB6 K6 DB6 K36 G36 K4 R/6
+R/6 K4 G36 K36 DB6 K6 DB6 K6 DB36 Y4 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -912,21 +915,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Loch Awe](/setts/s9/lb3k2r3g20k24db20r3k2ly3~x2/) — ΔT 0.73
+1. [Loch Awe](/setts/s9/ly3k2r3db20k24g20r3k2lb3~x2/) — ΔT 0.73
 1. [Tombow 21st School Memorial](/setts/s9/dy4db3k18k3k2g18dy3g2lb2~x4/) — ΔT 0.78
-1. [Loch Freuchie (District)](/setts/s10/lb3g3r2g20k25ly2dt18k2dt3r3~x2/) — ΔT 0.82
+1. [Loch Freuchie (District)](/setts/s10/r3dt3k2dt18ly2k25g20r2g3lb3~x2/) — ΔT 0.82
 1. [Liberton](/setts/s13/k5lr5ly2lr5k5dt25k5lr3dg5r2dg5lr3k5~x2/) — ΔT 0.82
 1. [Drennan](/setts/s12/db7w3g3db18lo3k15lo3g17r6g3r2g7~x2/) — ΔT 0.83
 1. [Schmidt (2014)](/setts/s10/k3db20db8db4g20k2g2r2g3ly3~x2/) — ΔT 0.83
-1. [Wojtek Memorial Trust](/setts/s11/lo3dg28dg3dg3dg11db4r3db3r6db15w3~x2/) — ΔT 0.90
-1. [St. Andrews Golf Club (Corporate)](/setts/s9/lo1g3lb1g5k1g1k9db12w1~x4/) — ΔT 0.91
+1. [Wojtek Memorial Trust](/setts/s11/w3db15r6db3r3db4dg11dg3dg3dg28lo3~x2/) — ΔT 0.90
+1. [St. Andrews Golf Club (Corporate)](/setts/s9/w1db12k9g1k1g5lb1g3lo1~x4/) — ΔT 0.91
 1. [Leung (Personal)](/setts/s9/m4k7m2db25k19w2g13k2ly3~x2/) — ΔT 0.91
 1. [Loch Freuchie](/setts/s10/n3dg3r2dg20k25ly2n13k2n3r3~x2/) — ΔT 0.94
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lb3k2r3g20k24db20r3k2ly3~x2/"><circle cx="145.1" cy="144.2" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/setts/s9/dy4db3k18k3k2g18dy3g2lb2~x4/"><circle cx="155.4" cy="161.2" r="4" fill="#3465a4"><title>Tombow 21st School Memorial</title></circle></a><a href="/setts/s10/lb3g3r2g20k25ly2dt18k2dt3r3~x2/"><circle cx="155.8" cy="143.0" r="4" fill="#3465a4"><title>Loch Freuchie (District)</title></circle></a><a href="/setts/s13/k5lr5ly2lr5k5dt25k5lr3dg5r2dg5lr3k5~x2/"><circle cx="131.4" cy="130.6" r="4" fill="#3465a4"><title>Liberton</title></circle></a><a href="/setts/s12/db7w3g3db18lo3k15lo3g17r6g3r2g7~x2/"><circle cx="106.6" cy="160.0" r="4" fill="#3465a4"><title>Drennan</title></circle></a><a href="/setts/s10/k3db20db8db4g20k2g2r2g3ly3~x2/"><circle cx="174.9" cy="158.8" r="4" fill="#3465a4"><title>Schmidt (2014)</title></circle></a><a href="/setts/s11/lo3dg28dg3dg3dg11db4r3db3r6db15w3~x2/"><circle cx="160.0" cy="153.9" r="4" fill="#3465a4"><title>Wojtek Memorial Trust</title></circle></a><a href="/setts/s9/lo1g3lb1g5k1g1k9db12w1~x4/"><circle cx="164.3" cy="149.6" r="4" fill="#3465a4"><title>St. Andrews Golf Club (Corporate)</title></circle></a><a href="/setts/s9/m4k7m2db25k19w2g13k2ly3~x2/"><circle cx="152.2" cy="147.7" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/setts/s10/n3dg3r2dg20k25ly2n13k2n3r3~x2/"><circle cx="180.4" cy="148.4" r="4" fill="#3465a4"><title>Loch Freuchie</title></circle></a><circle cx="140.8" cy="153.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/ly3k2r3db20k24g20r3k2lb3~x2/"><circle cx="145.2" cy="144.4" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/setts/s9/dy4db3k18k3k2g18dy3g2lb2~x4/"><circle cx="155.6" cy="161.3" r="4" fill="#3465a4"><title>Tombow 21st School Memorial</title></circle></a><a href="/setts/s10/r3dt3k2dt18ly2k25g20r2g3lb3~x2/"><circle cx="155.9" cy="143.2" r="4" fill="#3465a4"><title>Loch Freuchie (District)</title></circle></a><a href="/setts/s13/k5lr5ly2lr5k5dt25k5lr3dg5r2dg5lr3k5~x2/"><circle cx="131.5" cy="130.7" r="4" fill="#3465a4"><title>Liberton</title></circle></a><a href="/setts/s12/db7w3g3db18lo3k15lo3g17r6g3r2g7~x2/"><circle cx="106.8" cy="160.1" r="4" fill="#3465a4"><title>Drennan</title></circle></a><a href="/setts/s10/k3db20db8db4g20k2g2r2g3ly3~x2/"><circle cx="175.0" cy="158.9" r="4" fill="#3465a4"><title>Schmidt (2014)</title></circle></a><a href="/setts/s11/w3db15r6db3r3db4dg11dg3dg3dg28lo3~x2/"><circle cx="160.1" cy="154.1" r="4" fill="#3465a4"><title>Wojtek Memorial Trust</title></circle></a><a href="/setts/s9/w1db12k9g1k1g5lb1g3lo1~x4/"><circle cx="164.5" cy="149.8" r="4" fill="#3465a4"><title>St. Andrews Golf Club (Corporate)</title></circle></a><a href="/setts/s9/m4k7m2db25k19w2g13k2ly3~x2/"><circle cx="152.4" cy="147.8" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/setts/s10/n3dg3r2dg20k25ly2n13k2n3r3~x2/"><circle cx="180.5" cy="148.6" r="4" fill="#3465a4"><title>Loch Freuchie</title></circle></a><circle cx="141.0" cy="153.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/r3k2g18k18db3k3db3k3db18ly2w3~x2/

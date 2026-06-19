@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,15 +915,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Ferguson Dress variation](/setts/s10/lb8k4lb8k2lb3k8dg8r2dg8k4~x2/) — ΔT 1.12
 1. [Wilson's, No 97](/setts/s7/k11g12k2g12k12p12w3~x2/) — ΔT 1.18
 1. [Unnamed, No 30](/setts/s9/k1db3k3g3r1g3k3g1r1~x2/) — ΔT 1.20
-1. [Walker, James](/setts/s6/g2r4k6t1g7k2~x4/) — ΔT 1.20
-1. [Timespan, (MacKay)](/setts/s5/g6r1k6r1y6~x6/) — ΔT 1.22
+1. [Walker, James](/setts/s6/k2g7t1k6r4g2~x4/) — ΔT 1.20
+1. [Timespan, (MacKay)](/setts/s5/y6r1k6r1g6~x6/) — ΔT 1.22
 1. [Abercrombie, (Wilson's No 64)](/setts/s7/k6g6ly1g6k6p6k1~x4/) — ΔT 1.24
 1. [Wilson's, No 64 or Abercrombie](/setts/s7/k6g6w1g6k6p6k1~x4/) — ΔT 1.29
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k4lo9k13g6lo3g9w4~x2/"><circle cx="95.0" cy="254.8" r="4" fill="#3465a4"><title>Ramsay (Orange)</title></circle></a><a href="/setts/s9/ly8g16k6g6k6g6k16r21k5/"><circle cx="97.6" cy="238.2" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/setts/s7/g24k4g24k24t7r24t7~x2/"><circle cx="137.0" cy="241.8" r="4" fill="#3465a4"><title>Unidentified, Pinafore</title></circle></a><a href="/setts/s10/lb8k4lb8k2lb3k8dg8r2dg8k4~x2/"><circle cx="67.9" cy="240.7" r="4" fill="#3465a4"><title>Ferguson Dress variation</title></circle></a><a href="/setts/s7/k11g12k2g12k12p12w3~x2/"><circle cx="121.2" cy="252.5" r="4" fill="#3465a4"><title>Wilson's, No 97</title></circle></a><a href="/setts/s9/k1db3k3g3r1g3k3g1r1~x2/"><circle cx="82.6" cy="269.3" r="4" fill="#3465a4"><title>Unnamed, No 30</title></circle></a><a href="/setts/s6/g2r4k6t1g7k2~x4/"><circle cx="157.8" cy="236.7" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/setts/s5/g6r1k6r1y6~x6/"><circle cx="101.6" cy="245.0" r="4" fill="#3465a4"><title>Timespan, (MacKay)</title></circle></a><a href="/setts/s7/k6g6ly1g6k6p6k1~x4/"><circle cx="137.4" cy="250.6" r="4" fill="#3465a4"><title>Abercrombie, (Wilson's No 64)</title></circle></a><a href="/setts/s7/k6g6w1g6k6p6k1~x4/"><circle cx="136.4" cy="250.2" r="4" fill="#3465a4"><title>Wilson's, No 64 or Abercrombie</title></circle></a><circle cx="84.0" cy="252.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k4lo9k13g6lo3g9w4~x2/"><circle cx="95.1" cy="254.7" r="4" fill="#3465a4"><title>Ramsay (Orange)</title></circle></a><a href="/setts/s9/ly8g16k6g6k6g6k16r21k5/"><circle cx="97.8" cy="238.1" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/setts/s7/g24k4g24k24t7r24t7~x2/"><circle cx="137.1" cy="241.7" r="4" fill="#3465a4"><title>Unidentified, Pinafore</title></circle></a><a href="/setts/s10/lb8k4lb8k2lb3k8dg8r2dg8k4~x2/"><circle cx="68.1" cy="240.6" r="4" fill="#3465a4"><title>Ferguson Dress variation</title></circle></a><a href="/setts/s7/k11g12k2g12k12p12w3~x2/"><circle cx="121.5" cy="252.4" r="4" fill="#3465a4"><title>Wilson's, No 97</title></circle></a><a href="/setts/s9/k1db3k3g3r1g3k3g1r1~x2/"><circle cx="82.9" cy="269.2" r="4" fill="#3465a4"><title>Unnamed, No 30</title></circle></a><a href="/setts/s6/k2g7t1k6r4g2~x4/"><circle cx="158.0" cy="236.6" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/setts/s5/y6r1k6r1g6~x6/"><circle cx="101.8" cy="245.0" r="4" fill="#3465a4"><title>Timespan, (MacKay)</title></circle></a><a href="/setts/s7/k6g6ly1g6k6p6k1~x4/"><circle cx="137.6" cy="250.4" r="4" fill="#3465a4"><title>Abercrombie, (Wilson's No 64)</title></circle></a><a href="/setts/s7/k6g6w1g6k6p6k1~x4/"><circle cx="136.6" cy="250.1" r="4" fill="#3465a4"><title>Wilson's, No 64 or Abercrombie</title></circle></a><circle cx="84.1" cy="252.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k4o9k13g6o3g9w4~x2/

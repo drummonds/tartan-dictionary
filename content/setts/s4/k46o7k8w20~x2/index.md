@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -905,7 +908,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Lords of Skye (Fashion?)](/setts/s4/k46dy7k8w20~x2/) — ΔT 1.07
+1. [Lords of Skye (Fashion?)](/setts/s4/k46dy7k8w20~x2/) — ΔT 1.08
 1. [Glen Coe Trade Tartan Tartan Number: 1243. Earliest known date: Modern Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/k37w9k3dg9w3~x2/) — ΔT 1.57
 1. [Black 1990 (Name)](/setts/s6/k17r6k2w6k17lo2~x2/) — ΔT 1.62
 1. [St. Eloi (Corporate)](/setts/s4/r3lo2k10w1~x6/) — ΔT 1.63
@@ -914,12 +917,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Glen Coe #1 (Fashion)](/setts/s5/k37w9k3g9w3~x2/) — ΔT 1.71
 1. [Burberry Blue](/setts/s5/lr3k3lr3k10r1~x6/) — ΔT 1.74
 1. [Black (symmetrical)](/setts/s6/k17r6k2lb6k17lo2~x2/) — ΔT 1.76
-1. [St. Eloi](/setts/s6/r3lo2k10w1k10lo2~x6/) — ΔT 1.78
+1. [St. Eloi](/setts/s6/r3lo2k10w1~x6/) — ΔT 1.78
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/k46dy7k8w20~x2/"><circle cx="335.8" cy="250.0" r="4" fill="#3465a4"><title>Lords of Skye (Fashion?)</title></circle></a><a href="/setts/s5/k37w9k3dg9w3~x2/"><circle cx="373.4" cy="207.5" r="4" fill="#3465a4"><title>Glen Coe Trade Tartan Tartan Number: 1243. Earliest known date: Modern Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/k17r6k2w6k17lo2~x2/"><circle cx="372.1" cy="222.8" r="4" fill="#3465a4"><title>Black 1990 (Name)</title></circle></a><a href="/setts/s4/r3lo2k10w1~x6/"><circle cx="322.5" cy="218.6" r="4" fill="#3465a4"><title>St. Eloi (Corporate)</title></circle></a><a href="/setts/s6/k21lb2k5lb9k13g2~x4/"><circle cx="415.8" cy="234.4" r="4" fill="#3465a4"><title>New Zealand (2000)</title></circle></a><a href="/setts/s6/k21w2k5w9k13g2~x4/"><circle cx="415.8" cy="227.7" r="4" fill="#3465a4"><title>New Zealand District Tartan Tartan Number: 3250. Earliest known date: 2000 Designed as a District sett by Timely Marketing Promotions, Christchurch, New Zealand See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k37w9k3g9w3~x2/"><circle cx="364.0" cy="202.2" r="4" fill="#3465a4"><title>Glen Coe #1 (Fashion)</title></circle></a><a href="/setts/s5/lr3k3lr3k10r1~x6/"><circle cx="351.6" cy="236.6" r="4" fill="#3465a4"><title>Burberry Blue</title></circle></a><a href="/setts/s6/k17r6k2lb6k17lo2~x2/"><circle cx="381.5" cy="227.7" r="4" fill="#3465a4"><title>Black (symmetrical)</title></circle></a><a href="/setts/s6/r3lo2k10w1k10lo2~x6/"><circle cx="376.6" cy="216.0" r="4" fill="#3465a4"><title>St. Eloi</title></circle></a><circle cx="337.4" cy="256.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/k46dy7k8w20~x2/"><circle cx="335.8" cy="249.6" r="4" fill="#3465a4"><title>Lords of Skye (Fashion?)</title></circle></a><a href="/setts/s5/k37w9k3dg9w3~x2/"><circle cx="373.3" cy="207.1" r="4" fill="#3465a4"><title>Glen Coe Trade Tartan Tartan Number: 1243. Earliest known date: Modern Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/k17r6k2w6k17lo2~x2/"><circle cx="372.1" cy="222.4" r="4" fill="#3465a4"><title>Black 1990 (Name)</title></circle></a><a href="/setts/s4/r3lo2k10w1~x6/"><circle cx="322.5" cy="218.4" r="4" fill="#3465a4"><title>St. Eloi (Corporate)</title></circle></a><a href="/setts/s6/k21lb2k5lb9k13g2~x4/"><circle cx="415.9" cy="233.9" r="4" fill="#3465a4"><title>New Zealand (2000)</title></circle></a><a href="/setts/s6/k21w2k5w9k13g2~x4/"><circle cx="415.8" cy="227.2" r="4" fill="#3465a4"><title>New Zealand District Tartan Tartan Number: 3250. Earliest known date: 2000 Designed as a District sett by Timely Marketing Promotions, Christchurch, New Zealand See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k37w9k3g9w3~x2/"><circle cx="364.0" cy="201.8" r="4" fill="#3465a4"><title>Glen Coe #1 (Fashion)</title></circle></a><a href="/setts/s5/lr3k3lr3k10r1~x6/"><circle cx="351.7" cy="236.2" r="4" fill="#3465a4"><title>Burberry Blue</title></circle></a><a href="/setts/s6/k17r6k2lb6k17lo2~x2/"><circle cx="381.5" cy="227.4" r="4" fill="#3465a4"><title>Black (symmetrical)</title></circle></a><a href="/setts/s6/r3lo2k10w1~x6/"><circle cx="376.7" cy="215.7" r="4" fill="#3465a4"><title>St. Eloi</title></circle></a><circle cx="337.5" cy="256.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/k46o7k8w20~x2/

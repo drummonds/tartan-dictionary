@@ -3,10 +3,11 @@ title: "Families & clans — N"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-21 clans and families beginning with N. [Back to the A–Z](/families/).
+23 clans and families beginning with N. [Back to the A–Z](/families/).
 
 ## Na
 
+- [Nairn](/setts/s5/r1k8g2db4r1~x8/)
 - [Nance](/setts/s10/db2lo1db6r1db2r2k2g6t1g2~x4/)
 - [Naysmith](/setts/s6/r6db32k18g28k1lb2~x2/)
 
@@ -31,10 +32,11 @@ background: /bg/clans.png
 ## No
 
 - [Norris](/setts/s6/g6b1g7w1b7r1~x4/)
-- [Norris Hunting](/setts/s6/k2w1o8r1t28r2~x2/)
+- [Norris Htg](/setts/s6/k2w1o8r1t28r2~x2/)
 - [North](/clan/north/) — clan
 - [North of Scotland Tartan Army](/families/north-of-scotland-tartan-army/)
 - [Norwell](/setts/s11/r4k4r32g4w3g4k13g3db18r2ly3~x2/)
+- [Nowell/Noel](/setts/s7/db3g4db20g24k2lb3r1~x2/)
 - [Nowell/Noel 1951](/setts/s8/lr3k24lr6k8w4k8lr35k2~x2/)
 
 ## Nu

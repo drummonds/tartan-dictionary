@@ -2,7 +2,7 @@
 title: "Glenshee"
 date: 2023-03-18
 ---
-**Bands:** [BWRWR](/stripes/bwrwr/) · **Stripes:** [N LB R W R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">N LB R W R</span></span>
+**Bands:** [RWRWB](/stripes/rwrwb/) · **Stripes:** [R W R LB N](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="seq">R W R LB N</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
@@ -319,6 +319,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +420,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +680,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -893,7 +896,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-N/12 Na4 R8 LN4 R/48
+R/48 LN4 R8 Na4 N/12
 ![Sett](sett.png)
 
 ## Palette
@@ -908,7 +911,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "N/12 Na4 R8 LN4 R/48 tartan")
+![Tartan detail](tartan.png "R/48 LN4 R8 Na4 N/12 tartan")
 
 ## Nearest tartans
 
@@ -923,12 +926,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Sildesalaten](/setts/s5/r32lb4dt7ly2t2~x5/) — ΔT 1.77
 1. [Ploysongsang, Edward Thiravej (Personal)](/setts/s6/r34w4t7lo10t7r18~x2/) — ΔT 1.81
 1. [MacLaine of Lochbuie (Coburn)](/setts/s4/r32dg8t4ly1~x2/) — ΔT 1.82
-1. [AON](/setts/s6/r5db10r5dg5r25ly1~x4/) — ΔT 1.87
+1. [Princess Elizabeth #2](/setts/s8/r60db8w3db10ly3t4ly3r19~x2/) — ΔT 1.87
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r12w1r2o1n3~x4/"><circle cx="502.0" cy="193.9" r="4" fill="#3465a4"><title>Glen Shee Plaid (Fashion)</title></circle></a><a href="/setts/s4/ly6k3r40w3~x2/"><circle cx="508.1" cy="173.9" r="4" fill="#3465a4"><title>Masai Shuka 18 (Artefact)</title></circle></a><a href="/setts/s6/r65dg16r4dp4r4w5~x2/"><circle cx="509.2" cy="152.2" r="4" fill="#3465a4"><title>Howard, Vincent (Personal)</title></circle></a><a href="/setts/s6/r65g16r4dp4r4w5~x2/"><circle cx="504.0" cy="149.4" r="4" fill="#3465a4"><title>Howard, Vincent (Personal)</title></circle></a><a href="/setts/s7/r58ly3r6dg16r12dg16r6/"><circle cx="489.5" cy="173.3" r="4" fill="#3465a4"><title>Cameron Ancient</title></circle></a><a href="/setts/s9/g4r32db9r6db2r3db2r12w3~x2/"><circle cx="464.0" cy="145.6" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s5/r32lb4dt7ly2t2~x5/"><circle cx="417.7" cy="142.6" r="4" fill="#3465a4"><title>Sildesalaten</title></circle></a><a href="/setts/s6/r34w4t7lo10t7r18~x2/"><circle cx="374.6" cy="210.9" r="4" fill="#3465a4"><title>Ploysongsang, Edward Thiravej (Personal)</title></circle></a><a href="/setts/s4/r32dg8t4ly1~x2/"><circle cx="520.5" cy="171.7" r="4" fill="#3465a4"><title>MacLaine of Lochbuie (Coburn)</title></circle></a><a href="/setts/s6/r5db10r5dg5r25ly1~x4/"><circle cx="454.3" cy="166.1" r="4" fill="#3465a4"><title>AON</title></circle></a><circle cx="494.7" cy="186.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r12w1r2o1n3~x4/"><circle cx="501.4" cy="193.6" r="4" fill="#3465a4"><title>Glen Shee Plaid (Fashion)</title></circle></a><a href="/setts/s4/ly6k3r40w3~x2/"><circle cx="507.5" cy="173.5" r="4" fill="#3465a4"><title>Masai Shuka 18 (Artefact)</title></circle></a><a href="/setts/s6/r65dg16r4dp4r4w5~x2/"><circle cx="508.6" cy="151.9" r="4" fill="#3465a4"><title>Howard, Vincent (Personal)</title></circle></a><a href="/setts/s6/r65g16r4dp4r4w5~x2/"><circle cx="503.4" cy="149.2" r="4" fill="#3465a4"><title>Howard, Vincent (Personal)</title></circle></a><a href="/setts/s7/r58ly3r6dg16r12dg16r6/"><circle cx="488.9" cy="173.0" r="4" fill="#3465a4"><title>Cameron Ancient</title></circle></a><a href="/setts/s9/g4r32db9r6db2r3db2r12w3~x2/"><circle cx="463.5" cy="145.3" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s5/r32lb4dt7ly2t2~x5/"><circle cx="417.2" cy="142.4" r="4" fill="#3465a4"><title>Sildesalaten</title></circle></a><a href="/setts/s6/r34w4t7lo10t7r18~x2/"><circle cx="374.1" cy="210.7" r="4" fill="#3465a4"><title>Ploysongsang, Edward Thiravej (Personal)</title></circle></a><a href="/setts/s4/r32dg8t4ly1~x2/"><circle cx="519.9" cy="171.5" r="4" fill="#3465a4"><title>MacLaine of Lochbuie (Coburn)</title></circle></a><a href="/setts/s8/r60db8w3db10ly3t4ly3r19~x2/"><circle cx="463.6" cy="114.7" r="4" fill="#3465a4"><title>Princess Elizabeth #2</title></circle></a><circle cx="494.0" cy="185.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/r12w1r2lb1n3~x4/

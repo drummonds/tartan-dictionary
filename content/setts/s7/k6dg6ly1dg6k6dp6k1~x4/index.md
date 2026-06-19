@@ -2,12 +2,18 @@
 title: "Abercrombie (Wilsons No 2/64)"
 date: 2023-03-18
 ---
-**Bands:** [KBKGYGK](/stripes/kbkgygk/) · **Stripes:** [K DP K DG LY DG K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="seq">K DP K DG LY DG K</span></span>
+**Bands:** [KGYGKBK](/stripes/kgygkbk/) · **Stripes:** [K DG LY DG K DP K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="seq">K DG LY DG K DP K</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=12
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Abercrombie,
 
 ## Register references
 
@@ -51,8 +57,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k11dg12k2dg12k12dp12w3~x2/"><circle cx="164.9" cy="274.7" r="4" fill="#3465a4"><title>Wilson's No 97</title></circle></a><a href="/setts/s7/db4dg6w1dg6k6db6k2~x2/"><circle cx="161.4" cy="279.7" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/setts/s7/k13g12w2g12k13dp12k2~x2/"><circle cx="185.3" cy="266.3" r="4" fill="#3465a4"><title>MacLaggan</title></circle></a><a href="/setts/s7/db16g14w2g14k13db12k4~x2/"><circle cx="173.6" cy="269.4" r="4" fill="#3465a4"><title>MacNeil of Colonsay (Clan)</title></circle></a><a href="/setts/s7/k4dg4ly1dg4k4db4k1~x2/"><circle cx="168.7" cy="305.0" r="4" fill="#3465a4"><title>MacKay Coat</title></circle></a><a href="/setts/s7/k4dg4k1dg4k4db4ly1~x2/"><circle cx="168.7" cy="305.0" r="4" fill="#3465a4"><title>Unidentified No 39</title></circle></a><a href="/setts/s7/dg24k4dg24k24t7r24t7~x2/"><circle cx="192.4" cy="268.7" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/setts/s6/r4g12k12g2db12g3~x2/"><circle cx="167.4" cy="263.6" r="4" fill="#3465a4"><title>Gunn - 1810 (Clan)</title></circle></a><a href="/setts/s8/k7dg7k1dg7k7t1dp7k1~x4/"><circle cx="234.7" cy="264.8" r="4" fill="#3465a4"><title>Wilson's No 108</title></circle></a><a href="/setts/s7/g21k6t3g11k17db17k3~x2/"><circle cx="205.7" cy="262.1" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><circle cx="192.5" cy="278.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k11dg12k2dg12k12dp12w3~x2/"><circle cx="165.1" cy="274.7" r="4" fill="#3465a4"><title>Wilson's No 97</title></circle></a><a href="/setts/s7/db4dg6w1dg6k6db6k2~x2/"><circle cx="161.7" cy="279.7" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/setts/s7/k13g12w2g12k13dp12k2~x2/"><circle cx="185.5" cy="266.3" r="4" fill="#3465a4"><title>MacLaggan</title></circle></a><a href="/setts/s7/db16g14w2g14k13db12k4~x2/"><circle cx="173.9" cy="269.3" r="4" fill="#3465a4"><title>MacNeil of Colonsay (Clan)</title></circle></a><a href="/setts/s7/k4dg4ly1dg4k4db4k1~x2/"><circle cx="169.0" cy="305.0" r="4" fill="#3465a4"><title>MacKay Coat</title></circle></a><a href="/setts/s7/k4dg4k1dg4k4db4ly1~x2/"><circle cx="169.0" cy="305.0" r="4" fill="#3465a4"><title>Unidentified No 39</title></circle></a><a href="/setts/s7/dg24k4dg24k24t7r24t7~x2/"><circle cx="192.5" cy="268.7" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/setts/s6/r4g12k12g2db12g3~x2/"><circle cx="167.6" cy="263.6" r="4" fill="#3465a4"><title>Gunn - 1810 (Clan)</title></circle></a><a href="/setts/s8/k7dg7k1dg7k7t1dp7k1~x4/"><circle cx="234.9" cy="264.8" r="4" fill="#3465a4"><title>Wilson's No 108</title></circle></a><a href="/setts/s7/g21k6t3g11k17db17k3~x2/"><circle cx="205.9" cy="262.1" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><circle cx="192.7" cy="278.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k6dg6ly1dg6k6dp6k1~x4/

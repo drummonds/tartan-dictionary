@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/6 K4 LT32 O50 B/12
+B/12 O50 LT32 K4 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -900,7 +903,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/6 K4 LT32 O50 B/12 tartan")
+![Tartan detail](tartan.png "B/12 O50 LT32 K4 B/6 tartan")
 
 ## Nearest tartans
 
@@ -910,7 +913,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Prince of Orange #2](/setts/s5/db6lo25dy16k2db3~x2/) — ΔT 0.77
 1. [Nesbit, Rose](/setts/s6/r6lb3r37k16lb16g4~x2/) — ΔT 0.99
 1. [Starr (1978) (Name)](/setts/s7/k2r4w1r10g12r2w2~x4/) — ΔT 1.06
-1. [Ruthven (V.S.)](/setts/s6/w6g15db18r30g2r4~x2/) — ΔT 1.18
+1. [Ruthven (V.S.)](/setts/s6/w6g15db18r30g2r4~x2/) — ΔT 1.19
 1. [Henkel (Corporate)](/setts/s6/k3y28k3r22k8w3~x2/) — ΔT 1.24
 1. [Manhattan Ethnic](/setts/s7/o72dr30o18lr62y10dr7lr32/) — ΔT 1.25
 1. [Logan, Light](/setts/s7/p9r4p1r4g15r4p1~x2/) — ΔT 1.31
@@ -919,8 +922,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r44g6k3g16w22/"><circle cx="253.8" cy="179.0" r="4" fill="#3465a4"><title>Basque (Corporate)</title></circle></a><a href="/setts/s5/db6lo25dy16k2db3~x2/"><circle cx="277.6" cy="200.4" r="4" fill="#3465a4"><title>Prince of Orange #2</title></circle></a><a href="/setts/s6/r6lb3r37k16lb16g4~x2/"><circle cx="267.2" cy="172.2" r="4" fill="#3465a4"><title>Nesbit, Rose</title></circle></a><a href="/setts/s7/k2r4w1r10g12r2w2~x4/"><circle cx="265.1" cy="177.3" r="4" fill="#3465a4"><title>Starr (1978) (Name)</title></circle></a><a href="/setts/s6/w6g15db18r30g2r4~x2/"><circle cx="242.1" cy="184.8" r="4" fill="#3465a4"><title>Ruthven (V.S.)</title></circle></a><a href="/setts/s6/k3y28k3r22k8w3~x2/"><circle cx="223.1" cy="189.6" r="4" fill="#3465a4"><title>Henkel (Corporate)</title></circle></a><a href="/setts/s7/o72dr30o18lr62y10dr7lr32/"><circle cx="227.4" cy="203.9" r="4" fill="#3465a4"><title>Manhattan Ethnic</title></circle></a><a href="/setts/s7/p9r4p1r4g15r4p1~x2/"><circle cx="219.0" cy="173.6" r="4" fill="#3465a4"><title>Logan, Light</title></circle></a><a href="/setts/s6/r24n5o9n2o9lb9~x4/"><circle cx="234.5" cy="206.5" r="4" fill="#3465a4"><title>Plaid Wine</title></circle></a><a href="/setts/s7/p8r3ly1r3g14r3ly1~x4/"><circle cx="240.1" cy="174.1" r="4" fill="#3465a4"><title>Logan, with Yellow</title></circle></a><circle cx="266.8" cy="189.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r44g6k3g16w22/"><circle cx="253.5" cy="178.8" r="4" fill="#3465a4"><title>Basque (Corporate)</title></circle></a><a href="/setts/s5/db6lo25dy16k2db3~x2/"><circle cx="277.3" cy="200.3" r="4" fill="#3465a4"><title>Prince of Orange #2</title></circle></a><a href="/setts/s6/r6lb3r37k16lb16g4~x2/"><circle cx="266.8" cy="172.0" r="4" fill="#3465a4"><title>Nesbit, Rose</title></circle></a><a href="/setts/s7/k2r4w1r10g12r2w2~x4/"><circle cx="264.8" cy="177.1" r="4" fill="#3465a4"><title>Starr (1978) (Name)</title></circle></a><a href="/setts/s6/w6g15db18r30g2r4~x2/"><circle cx="241.9" cy="184.8" r="4" fill="#3465a4"><title>Ruthven (V.S.)</title></circle></a><a href="/setts/s6/k3y28k3r22k8w3~x2/"><circle cx="222.9" cy="189.5" r="4" fill="#3465a4"><title>Henkel (Corporate)</title></circle></a><a href="/setts/s7/o72dr30o18lr62y10dr7lr32/"><circle cx="227.1" cy="203.8" r="4" fill="#3465a4"><title>Manhattan Ethnic</title></circle></a><a href="/setts/s7/p9r4p1r4g15r4p1~x2/"><circle cx="218.8" cy="173.5" r="4" fill="#3465a4"><title>Logan, Light</title></circle></a><a href="/setts/s6/r24n5o9n2o9lb9~x4/"><circle cx="234.3" cy="206.4" r="4" fill="#3465a4"><title>Plaid Wine</title></circle></a><a href="/setts/s7/p8r3ly1r3g14r3ly1~x4/"><circle cx="239.8" cy="174.0" r="4" fill="#3465a4"><title>Logan, with Yellow</title></circle></a><circle cx="266.5" cy="189.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/db6lo25o16k2db3~x2/

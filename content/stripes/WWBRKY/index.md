@@ -20,7 +20,7 @@ WWBRKY
 
 
 
-### LB LB DB R K LY <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LB LB DB R K LY</span></span>
+### LY K R DB LB LB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LY K R DB LB LB</span></span>
 
 | Tartans |
 |---------------|

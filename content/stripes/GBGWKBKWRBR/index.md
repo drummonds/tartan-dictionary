@@ -19,17 +19,17 @@ GBGWKBKWRBR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### G DB G LB K DB K LB R DB R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">G DB G LB K DB K LB R DB R</span></span>
+### R DB R LB K DB K LB G DB G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DB R LB K DB K LB G DB G</span></span>
 
 | Tartans |
 |---------------|
-| [MacMichael](/setts/s11/g1db1g8lb1k2db16k2lb1r8db1r1~x4/)|
-|![MacMichael example sett](/setts/s11/g1db1g8lb1k2db16k2lb1r8db1r1~x4/sett.png)|
+| [MacMichael](/setts/s11/r1db1r8lb1k2db16k2lb1g8db1g1~x4/)|
+|![MacMichael example sett](/setts/s11/r1db1r8lb1k2db16k2lb1g8db1g1~x4/sett.png)|
 
-### G DB G W K DB K W R DB R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">G DB G W K DB K W R DB R</span></span>
+### R DB R W K DB K W G DB G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DB R W K DB K W G DB G</span></span>
 
 | Tartans |
 |---------------|
-| [MacMichael](/setts/s11/g1db1g8w1k2db16k2w1r8db1r1~x2/)|
-|![MacMichael example sett](/setts/s11/g1db1g8w1k2db16k2w1r8db1r1~x2/sett.png)|
+| [MacMichael](/setts/s11/r1db1r8w1k2db16k2w1g8db1g1~x2/)|
+|![MacMichael example sett](/setts/s11/r1db1r8w1k2db16k2w1g8db1g1~x2/sett.png)|
 

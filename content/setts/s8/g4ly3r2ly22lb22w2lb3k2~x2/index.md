@@ -2,12 +2,18 @@
 title: "Aguilar Pardo, Luis Alejandro (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GYRYWWWK](/stripes/gyrywwwk/) · **Stripes:** [G LY R LY LB W LB K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="seq">G LY R LY LB W LB K</span></span>
+**Bands:** [KWWWYRYG](/stripes/kwwwyryg/) · **Stripes:** [K LB W LB LY R LY G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K LB W LB LY R LY G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11147
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Pardo, Luis Alejandro Aguilar
 
 ## Attestations
 
@@ -47,20 +53,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Ch. Supt. Everett and Mrs Julene Sum](/setts/s7/r9w27k7w45lb60dg4lo5/) — ΔT 1.29
-1. [Los Angeles (District)](/setts/s8/t4t24ly5g2t3db5ly33db2~x2/) — ΔT 1.31
+1. [Los Angeles (District)](/setts/s8/t4t24ly5g2t3db5ly33db2~x2/) — ΔT 1.32
 1. [Reekie, Charlene (Personal)](/setts/s6/w43k5r3g5ly27dp5~x2/) — ΔT 1.34
 1. [Ch. Supt. Everett and Mrs Julene Summerfield Dress](/setts/s7/r9w25k7w45lt60g4ly5/) — ΔT 1.36
 1. [Manchester Blues Dress (Comm)](/setts/s11/w26lb9k2lb2w2lb2o11lb8ly2o2r2~x2/) — ΔT 1.37
 1. [Manchester Blues Modern](/setts/s11/lb26w9k2w2lb2w2o11w8ly2o2r2~x2/) — ΔT 1.47
 1. [Reekie, Charlene](/setts/s6/w43k5r3dg5ly27m5~x2/) — ΔT 1.50
 1. [Taylor, dress](/setts/s9/g9k2r4g14w3lp3w23g5ly3~x2/) — ΔT 1.52
-1. [Nova Scotia, dress](/setts/s9/g3w29g3db3g3db6g13ly3r2~x2/) — ΔT 1.55
+1. [Nova Scotia, dress](/setts/s9/g3w29g3db3g3db6g13ly3r2~x2/) — ΔT 1.56
 1. [Rikaco Eve](/setts/s10/g4y4g2w36y14w2lt4g7m5w3~x2/) — ΔT 1.57
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r9w27k7w45lb60dg4lo5/"><circle cx="207.8" cy="125.2" r="4" fill="#3465a4"><title>Ch. Supt. Everett and Mrs Julene Sum</title></circle></a><a href="/setts/s8/t4t24ly5g2t3db5ly33db2~x2/"><circle cx="255.8" cy="119.5" r="4" fill="#3465a4"><title>Los Angeles (District)</title></circle></a><a href="/setts/s6/w43k5r3g5ly27dp5~x2/"><circle cx="215.2" cy="119.1" r="4" fill="#3465a4"><title>Reekie, Charlene (Personal)</title></circle></a><a href="/setts/s7/r9w25k7w45lt60g4ly5/"><circle cx="204.7" cy="125.0" r="4" fill="#3465a4"><title>Ch. Supt. Everett and Mrs Julene Summerfield Dress</title></circle></a><a href="/setts/s11/w26lb9k2lb2w2lb2o11lb8ly2o2r2~x2/"><circle cx="189.4" cy="105.6" r="4" fill="#3465a4"><title>Manchester Blues Dress (Comm)</title></circle></a><a href="/setts/s11/lb26w9k2w2lb2w2o11w8ly2o2r2~x2/"><circle cx="191.9" cy="108.5" r="4" fill="#3465a4"><title>Manchester Blues Modern</title></circle></a><a href="/setts/s6/w43k5r3dg5ly27m5~x2/"><circle cx="209.5" cy="114.0" r="4" fill="#3465a4"><title>Reekie, Charlene</title></circle></a><a href="/setts/s9/g9k2r4g14w3lp3w23g5ly3~x2/"><circle cx="163.7" cy="130.7" r="4" fill="#3465a4"><title>Taylor, dress</title></circle></a><a href="/setts/s9/g3w29g3db3g3db6g13ly3r2~x2/"><circle cx="211.2" cy="120.7" r="4" fill="#3465a4"><title>Nova Scotia, dress</title></circle></a><a href="/setts/s10/g4y4g2w36y14w2lt4g7m5w3~x2/"><circle cx="241.3" cy="96.6" r="4" fill="#3465a4"><title>Rikaco Eve</title></circle></a><circle cx="194.0" cy="121.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r9w27k7w45lb60dg4lo5/"><circle cx="207.3" cy="125.2" r="4" fill="#3465a4"><title>Ch. Supt. Everett and Mrs Julene Sum</title></circle></a><a href="/setts/s8/t4t24ly5g2t3db5ly33db2~x2/"><circle cx="255.4" cy="119.4" r="4" fill="#3465a4"><title>Los Angeles (District)</title></circle></a><a href="/setts/s6/w43k5r3g5ly27dp5~x2/"><circle cx="214.7" cy="119.0" r="4" fill="#3465a4"><title>Reekie, Charlene (Personal)</title></circle></a><a href="/setts/s7/r9w25k7w45lt60g4ly5/"><circle cx="204.2" cy="125.0" r="4" fill="#3465a4"><title>Ch. Supt. Everett and Mrs Julene Summerfield Dress</title></circle></a><a href="/setts/s11/w26lb9k2lb2w2lb2o11lb8ly2o2r2~x2/"><circle cx="188.9" cy="105.6" r="4" fill="#3465a4"><title>Manchester Blues Dress (Comm)</title></circle></a><a href="/setts/s11/lb26w9k2w2lb2w2o11w8ly2o2r2~x2/"><circle cx="191.5" cy="108.6" r="4" fill="#3465a4"><title>Manchester Blues Modern</title></circle></a><a href="/setts/s6/w43k5r3dg5ly27m5~x2/"><circle cx="209.0" cy="113.9" r="4" fill="#3465a4"><title>Reekie, Charlene</title></circle></a><a href="/setts/s9/g9k2r4g14w3lp3w23g5ly3~x2/"><circle cx="163.4" cy="130.6" r="4" fill="#3465a4"><title>Taylor, dress</title></circle></a><a href="/setts/s9/g3w29g3db3g3db6g13ly3r2~x2/"><circle cx="210.8" cy="120.6" r="4" fill="#3465a4"><title>Nova Scotia, dress</title></circle></a><a href="/setts/s10/g4y4g2w36y14w2lt4g7m5w3~x2/"><circle cx="240.8" cy="96.5" r="4" fill="#3465a4"><title>Rikaco Eve</title></circle></a><circle cx="193.6" cy="121.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/g4ly3r2ly22lb22w2lb3k2~x2/

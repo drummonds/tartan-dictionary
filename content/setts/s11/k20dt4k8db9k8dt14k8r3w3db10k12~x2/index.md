@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands1
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6881/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Westenra of Christchurch NZ Commemorative
+
 ## Thread count
 K/40 DB8 K16 DBa18 K16 DB28 K16 R6 LN6 DBa20 K/24
 ![Sett](sett.png)
@@ -30,19 +36,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Dalmeny](/setts/s10/db8k1db8k2dg6r1dg6k2db8w1~x2/) — ΔT 1.42
 1. [Process Safety Solutions Ltd](/setts/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/) — ΔT 1.48
-1. [Westenra of Christchurch](/setts/s20/k20dt4k8db9k8dt14k8r3w3db10k12db10w3r3k8dt14k8db9k8dt4~x2/) — ΔT 1.51
+1. [Westenra of Christchurch](/setts/s20/k20dt4k8db9k8dt14k8r3w3db10k12~x2/) — ΔT 1.51
 1. [Tennent (Personal)](/setts/s8/r1k7g7k7db7k7r1w1~x4/) — ΔT 1.52
 1. [Haus of RvR](/setts/s11/db13w2db13k3db13k21lo3k18db9k2db2~x2/) — ΔT 1.54
 1. [Romantic Scotland (Madonna)](/setts/s9/dt5dp1dt4db4dt7db8w1db2ly1~x4/) — ΔT 1.54
 1. [Unidentified #2](/setts/s10/k14t2db6dg7r2k14db6t2db2t4~x2/) — ΔT 1.55
 1. [Rainford (Personal)](/setts/s9/k12db10k3lt4k3db10k12dg12k2~x2/) — ΔT 1.57
 1. [Glen Nevis #1](/setts/s8/dg8r2dg2r3dg8db12dg2lo2~x2/) — ΔT 1.58
-1. [Grainger](/setts/s12/db36r4db6g18db15k18w4k18db15g18db6r4~x2/) — ΔT 1.61
+1. [O'Connell, William Benedict (Personal)](/setts/s10/k19dg7k7t2dg20k9dg6k4dg10w3~x2/) — ΔT 1.61
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db8k1db8k2dg6r1dg6k2db8w1~x2/"><circle cx="291.9" cy="229.2" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><a href="/setts/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/"><circle cx="294.1" cy="249.4" r="4" fill="#3465a4"><title>Process Safety Solutions Ltd</title></circle></a><a href="/setts/s20/k20dt4k8db9k8dt14k8r3w3db10k12db10w3r3k8dt14k8db9k8dt4~x2/"><circle cx="190.9" cy="218.3" r="4" fill="#3465a4"><title>Westenra of Christchurch</title></circle></a><a href="/setts/s8/r1k7g7k7db7k7r1w1~x4/"><circle cx="236.0" cy="231.2" r="4" fill="#3465a4"><title>Tennent (Personal)</title></circle></a><a href="/setts/s11/db13w2db13k3db13k21lo3k18db9k2db2~x2/"><circle cx="243.9" cy="206.9" r="4" fill="#3465a4"><title>Haus of RvR</title></circle></a><a href="/setts/s9/dt5dp1dt4db4dt7db8w1db2ly1~x4/"><circle cx="271.6" cy="234.8" r="4" fill="#3465a4"><title>Romantic Scotland (Madonna)</title></circle></a><a href="/setts/s10/k14t2db6dg7r2k14db6t2db2t4~x2/"><circle cx="211.6" cy="214.3" r="4" fill="#3465a4"><title>Unidentified #2</title></circle></a><a href="/setts/s9/k12db10k3lt4k3db10k12dg12k2~x2/"><circle cx="225.7" cy="274.0" r="4" fill="#3465a4"><title>Rainford (Personal)</title></circle></a><a href="/setts/s8/dg8r2dg2r3dg8db12dg2lo2~x2/"><circle cx="275.8" cy="255.2" r="4" fill="#3465a4"><title>Glen Nevis #1</title></circle></a><a href="/setts/s12/db36r4db6g18db15k18w4k18db15g18db6r4~x2/"><circle cx="206.5" cy="199.1" r="4" fill="#3465a4"><title>Grainger</title></circle></a><circle cx="258.7" cy="246.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db8k1db8k2dg6r1dg6k2db8w1~x2/"><circle cx="292.0" cy="229.3" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><a href="/setts/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/"><circle cx="294.1" cy="249.4" r="4" fill="#3465a4"><title>Process Safety Solutions Ltd</title></circle></a><a href="/setts/s20/k20dt4k8db9k8dt14k8r3w3db10k12~x2/"><circle cx="191.1" cy="218.4" r="4" fill="#3465a4"><title>Westenra of Christchurch</title></circle></a><a href="/setts/s8/r1k7g7k7db7k7r1w1~x4/"><circle cx="236.1" cy="231.2" r="4" fill="#3465a4"><title>Tennent (Personal)</title></circle></a><a href="/setts/s11/db13w2db13k3db13k21lo3k18db9k2db2~x2/"><circle cx="244.1" cy="207.0" r="4" fill="#3465a4"><title>Haus of RvR</title></circle></a><a href="/setts/s9/dt5dp1dt4db4dt7db8w1db2ly1~x4/"><circle cx="271.7" cy="234.8" r="4" fill="#3465a4"><title>Romantic Scotland (Madonna)</title></circle></a><a href="/setts/s10/k14t2db6dg7r2k14db6t2db2t4~x2/"><circle cx="211.7" cy="214.3" r="4" fill="#3465a4"><title>Unidentified #2</title></circle></a><a href="/setts/s9/k12db10k3lt4k3db10k12dg12k2~x2/"><circle cx="225.9" cy="274.1" r="4" fill="#3465a4"><title>Rainford (Personal)</title></circle></a><a href="/setts/s8/dg8r2dg2r3dg8db12dg2lo2~x2/"><circle cx="276.0" cy="255.2" r="4" fill="#3465a4"><title>Glen Nevis #1</title></circle></a><a href="/setts/s10/k19dg7k7t2dg20k9dg6k4dg10w3~x2/"><circle cx="246.1" cy="221.9" r="4" fill="#3465a4"><title>O'Connell, William Benedict (Personal)</title></circle></a><circle cx="258.9" cy="246.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k20dt4k8db9k8dt14k8r3w3db10k12~x2/

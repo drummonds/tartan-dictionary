@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7474
 
 ## Thread count
-DB/6 R6 LN6 G28 K28 R6 DB10 K4 DB48 Y4 DB/8
+DB/8 Y4 DB48 K4 DB10 R6 K28 G28 LN6 R6 DB/6
 ![Sett](sett.png)
 
 ## Palette
@@ -48,17 +48,17 @@ The nearest existing variants by ΔTartan distance.
 1. [MacLulich](/setts/s12/db33r8k12ly2k4w4k4g12db8k4db4w2~x2/) — ΔT 0.60
 1. [Souza Nery (Personal)](/setts/s12/db37r3k17r3g22k4g22r3k17r3db37w3~x2/) — ΔT 0.70
 1. [Scottish Hockey Union (Sports)](/setts/s11/db50k10db6k10db6dg5lp5dg5p8dg23w5~x2/) — ΔT 0.74
-1. [MacKusick Family Tartan of North America](/setts/s13/db8k2db3k12dp3w1dp3k16dg3w2r1w2dg8~x2/) — ΔT 0.79
+1. [MacKusick Family Tartan of North America](/setts/s13/dg8w2r1w2dg3k16dp3w1dp3k12db3k2db8~x2/) — ΔT 0.80
 1. [Sacramento City Fire Department (P&D](/setts/s13/ly2db2w1db15k5g11k1r3k1g11k5db17w1~x2/) — ΔT 0.82
-1. [Stephenson (Name)](/setts/s11/k6g20b2r5b2k20lo3db20g26r3db5~x2/) — ΔT 0.83
+1. [Stephenson (Name)](/setts/s11/k6g20b2r5b2k20lo3db20g26r3db5~x2/) — ΔT 0.82
 1. [Stinson, Ancient](/setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/) — ΔT 0.90
 1. [Loch Lomond Millenium](/setts/s11/k3dg2k12db4b19r3b19db4k12dg2lo3~x2/) — ΔT 0.91
 1. [Scottish Italian](/setts/s8/b11db5g4w3r3k16db28b2~x2/) — ΔT 0.93
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db33r8k12ly2k4w4k4dg12db8k4db4w2~x2/"><circle cx="207.8" cy="120.3" r="4" fill="#3465a4"><title>MacBeth/Stewart Brydone 1862</title></circle></a><a href="/setts/s12/db33r8k12ly2k4w4k4g12db8k4db4w2~x2/"><circle cx="205.6" cy="119.1" r="4" fill="#3465a4"><title>MacLulich</title></circle></a><a href="/setts/s12/db37r3k17r3g22k4g22r3k17r3db37w3~x2/"><circle cx="192.1" cy="152.0" r="4" fill="#3465a4"><title>Souza Nery (Personal)</title></circle></a><a href="/setts/s11/db50k10db6k10db6dg5lp5dg5p8dg23w5~x2/"><circle cx="192.3" cy="140.3" r="4" fill="#3465a4"><title>Scottish Hockey Union (Sports)</title></circle></a><a href="/setts/s13/db8k2db3k12dp3w1dp3k16dg3w2r1w2dg8~x2/"><circle cx="197.4" cy="129.6" r="4" fill="#3465a4"><title>MacKusick Family Tartan of North America</title></circle></a><a href="/setts/s13/ly2db2w1db15k5g11k1r3k1g11k5db17w1~x2/"><circle cx="210.0" cy="127.1" r="4" fill="#3465a4"><title>Sacramento City Fire Department (P&amp;D</title></circle></a><a href="/setts/s11/k6g20b2r5b2k20lo3db20g26r3db5~x2/"><circle cx="166.9" cy="147.8" r="4" fill="#3465a4"><title>Stephenson (Name)</title></circle></a><a href="/setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/"><circle cx="171.6" cy="141.0" r="4" fill="#3465a4"><title>Stinson, Ancient</title></circle></a><a href="/setts/s11/k3dg2k12db4b19r3b19db4k12dg2lo3~x2/"><circle cx="192.3" cy="165.8" r="4" fill="#3465a4"><title>Loch Lomond Millenium</title></circle></a><a href="/setts/s8/b11db5g4w3r3k16db28b2~x2/"><circle cx="208.2" cy="156.0" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><circle cx="199.3" cy="140.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db33r8k12ly2k4w4k4dg12db8k4db4w2~x2/"><circle cx="207.8" cy="120.4" r="4" fill="#3465a4"><title>MacBeth/Stewart Brydone 1862</title></circle></a><a href="/setts/s12/db33r8k12ly2k4w4k4g12db8k4db4w2~x2/"><circle cx="205.6" cy="119.2" r="4" fill="#3465a4"><title>MacLulich</title></circle></a><a href="/setts/s12/db37r3k17r3g22k4g22r3k17r3db37w3~x2/"><circle cx="192.2" cy="152.1" r="4" fill="#3465a4"><title>Souza Nery (Personal)</title></circle></a><a href="/setts/s11/db50k10db6k10db6dg5lp5dg5p8dg23w5~x2/"><circle cx="192.4" cy="140.4" r="4" fill="#3465a4"><title>Scottish Hockey Union (Sports)</title></circle></a><a href="/setts/s13/dg8w2r1w2dg3k16dp3w1dp3k12db3k2db8~x2/"><circle cx="197.5" cy="129.7" r="4" fill="#3465a4"><title>MacKusick Family Tartan of North America</title></circle></a><a href="/setts/s13/ly2db2w1db15k5g11k1r3k1g11k5db17w1~x2/"><circle cx="210.0" cy="127.2" r="4" fill="#3465a4"><title>Sacramento City Fire Department (P&amp;D</title></circle></a><a href="/setts/s11/k6g20b2r5b2k20lo3db20g26r3db5~x2/"><circle cx="167.0" cy="147.9" r="4" fill="#3465a4"><title>Stephenson (Name)</title></circle></a><a href="/setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/"><circle cx="171.7" cy="141.0" r="4" fill="#3465a4"><title>Stinson, Ancient</title></circle></a><a href="/setts/s11/k3dg2k12db4b19r3b19db4k12dg2lo3~x2/"><circle cx="192.4" cy="165.8" r="4" fill="#3465a4"><title>Loch Lomond Millenium</title></circle></a><a href="/setts/s8/b11db5g4w3r3k16db28b2~x2/"><circle cx="208.4" cy="156.1" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><circle cx="199.3" cy="140.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db4ly2db24k2db5r3k14g14w3r3db3~x2/

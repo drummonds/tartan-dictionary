@@ -2,7 +2,7 @@
 title: "MacHardy"
 date: 2023-03-18
 ---
-**Bands:** [BRGBWBRG](/stripes/brgbwbrg/) · **Stripes:** [DB R G DB W DB R G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB R G DB W DB R G</span></span>
+**Bands:** [GRBWBGRB](/stripes/grbwbgrb/) · **Stripes:** [G R DB W DB G R DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G R DB W DB G R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -899,7 +902,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/6 R6 G36 B32 LN4 B52 R6 G/6
+G/6 R6 B52 LN4 B32 G36 R6 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -914,7 +917,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/6 R6 G36 B32 LN4 B52 R6 G/6 tartan")
+![Tartan detail](tartan.png "G/6 R6 B52 LN4 B32 G36 R6 B/6 tartan")
 
 ## Nearest tartans
 
@@ -926,15 +929,15 @@ The nearest existing variants by ΔTartan distance.
 1. [A2 (Personal)](/setts/s8/dt1r1dt10t1dt1t5dt1w1~x6/) — ΔT 1.07
 1. [Glen Esk](/setts/s8/dg10r1dg1r2dg8db10dg1ly1~x4/) — ΔT 1.09
 1. [MacHardy, Blue](/setts/s8/db6r3g26db26w4db26r5g5~x2/) — ΔT 1.10
-1. [Connaught Green](/setts/s6/lb1y4db2y5db12r1~x2/) — ΔT 1.10
+1. [Connaught Green](/setts/s6/r1db12y5db2y4lb1~x2/) — ΔT 1.10
 1. [Orlando, City of (District)](/setts/s9/db12ly1g16db1g1db14g3db14r2~x4/) — ΔT 1.12
 1. [Katsushika (Corporate)](/setts/s8/db22ly2db1ly2db10y2g11y6~x2/) — ΔT 1.13
 1. [Katsushika Scottish Country Dancers](/setts/s8/db22ly2db1ly2db10r2g11r6~x2/) — ΔT 1.17
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db16w1db1w1db8g16r1db2~x2/"><circle cx="369.6" cy="180.8" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><a href="/setts/s10/db15g7ly3g7db40g7ly3g7db15r5~x2/"><circle cx="374.7" cy="186.1" r="4" fill="#3465a4"><title>Wheadon</title></circle></a><a href="/setts/s8/w4y15db8k4db28k2db4w2/"><circle cx="352.2" cy="186.7" r="4" fill="#3465a4"><title>Kelvinside Academy (School)</title></circle></a><a href="/setts/s8/dt1r1dt10t1dt1t5dt1w1~x6/"><circle cx="372.5" cy="193.9" r="4" fill="#3465a4"><title>A2 (Personal)</title></circle></a><a href="/setts/s8/dg10r1dg1r2dg8db10dg1ly1~x4/"><circle cx="324.8" cy="208.0" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/setts/s8/db6r3g26db26w4db26r5g5~x2/"><circle cx="303.6" cy="215.2" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><a href="/setts/s6/lb1y4db2y5db12r1~x2/"><circle cx="353.8" cy="219.7" r="4" fill="#3465a4"><title>Connaught Green</title></circle></a><a href="/setts/s9/db12ly1g16db1g1db14g3db14r2~x4/"><circle cx="405.0" cy="203.1" r="4" fill="#3465a4"><title>Orlando, City of (District)</title></circle></a><a href="/setts/s8/db22ly2db1ly2db10y2g11y6~x2/"><circle cx="349.5" cy="173.2" r="4" fill="#3465a4"><title>Katsushika (Corporate)</title></circle></a><a href="/setts/s8/db22ly2db1ly2db10r2g11r6~x2/"><circle cx="347.1" cy="166.3" r="4" fill="#3465a4"><title>Katsushika Scottish Country Dancers</title></circle></a><circle cx="360.6" cy="198.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db16w1db1w1db8g16r1db2~x2/"><circle cx="369.5" cy="180.6" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><a href="/setts/s10/db15g7ly3g7db40g7ly3g7db15r5~x2/"><circle cx="374.6" cy="186.0" r="4" fill="#3465a4"><title>Wheadon</title></circle></a><a href="/setts/s8/w4y15db8k4db28k2db4w2/"><circle cx="352.1" cy="186.6" r="4" fill="#3465a4"><title>Kelvinside Academy (School)</title></circle></a><a href="/setts/s8/dt1r1dt10t1dt1t5dt1w1~x6/"><circle cx="372.4" cy="193.7" r="4" fill="#3465a4"><title>A2 (Personal)</title></circle></a><a href="/setts/s8/dg10r1dg1r2dg8db10dg1ly1~x4/"><circle cx="324.8" cy="207.8" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/setts/s8/db6r3g26db26w4db26r5g5~x2/"><circle cx="303.6" cy="215.0" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><a href="/setts/s6/r1db12y5db2y4lb1~x2/"><circle cx="353.7" cy="219.6" r="4" fill="#3465a4"><title>Connaught Green</title></circle></a><a href="/setts/s9/db12ly1g16db1g1db14g3db14r2~x4/"><circle cx="405.0" cy="202.9" r="4" fill="#3465a4"><title>Orlando, City of (District)</title></circle></a><a href="/setts/s8/db22ly2db1ly2db10y2g11y6~x2/"><circle cx="349.4" cy="173.1" r="4" fill="#3465a4"><title>Katsushika (Corporate)</title></circle></a><a href="/setts/s8/db22ly2db1ly2db10r2g11r6~x2/"><circle cx="346.9" cy="166.2" r="4" fill="#3465a4"><title>Katsushika Scottish Country Dancers</title></circle></a><circle cx="360.5" cy="198.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db3r3g18db16w2db26r3g3~x2/

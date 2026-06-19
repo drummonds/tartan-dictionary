@@ -2,7 +2,7 @@
 title: "Dundas, (Red)"
 date: 2023-03-18
 ---
-**Bands:** [BKBRGRKBRBRBKRKBRG](/stripes/bkbrgrkbrbrbkrkbrg/) · **Stripes:** [T K DP R G R K T R DB R T K R K DP R G](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">T K DP R G R K T R DB R T K R K DP R G</span></span>
+**Bands:** [GRBKRKBRBRBKRGRBKB](/stripes/grbkrkbrbrbkrgrbkb/) · **Stripes:** [G R DP K R K T R DB R T K R G R DP K T](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">G R DP K R K T R DB R T K R G R DP K T</span></span>
 
 
 This was sourced from weddslist.  It is a [18 band tartan](/bands/bands18/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-Ba/6 K2 P2 R10 G48 R4 K2 Ba2 R4 B10 R4 Ba2 K2 R38 K2 P2 R8 G/8
+G/8 R8 P2 K2 R38 K2 Ba2 R4 B10 R4 Ba2 K2 R4 G48 R10 P2 K2 Ba/6
 ![Sett](sett.png)
 
 ## Palette
@@ -904,21 +907,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Sommerville](/setts/s18/ly2r5r3g54r5g3r5db20r5r3r5g16r2db4r48r6r3w2~x2/) — ΔT 0.68
+1. [Sommerville](/setts/s18/w2r3r6r48db4r2g16r5r3r5db20r5g3r5g54r3r5ly2~x2/) — ΔT 0.68
 1. [Dundas (Red)](/setts/s18/dg4r4dp1k1r19k1t1r2db5r2t1k1r2dg24r5dp1k1t3~x2/) — ΔT 0.69
-1. [Sommerville](/setts/s18/ly2r5r3g54r5g3r5db21r5r3r5g17r2db4r48r5r3w2/) — ΔT 0.84
-1. [O'Keefe](/setts/s22/k8r2k3ly2k2w3k2lo12y22r2y2k1y2r2y22lo12k2w3k2ly2k3r2~x2/) — ΔT 1.04
+1. [Sommerville](/setts/s18/w2r3r5r48db4r2g17r5r3r5db21r5g3r5g54r3r5ly2/) — ΔT 0.84
+1. [O'Keefe](/setts/s22/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/) — ΔT 1.04
 1. [North West Mounted Police](/setts/s16/r44do3w2g14w2y4r4do2r4y4w2dt12do6r6y7w2~x2/) — ΔT 1.05
-1. [MacDougall 7](/setts/s20/w1p2r1g22r3g1r3db9p2r1p2g8r8g8r1db1r22p2r2w1~x2/) — ΔT 1.07
+1. [MacDougall 7](/setts/s20/w1r2p2r22db1r1g8r8g8p2r1p2db9r3g1r3g22r1p2w1~x2/) — ΔT 1.07
 1. [Stewart of Ardshiel](/setts/s18/g14r6r2k3r65k2t2r6k34r6t2k2r4g66r12r2k2t4/) — ΔT 1.11
-1. [MacDougall Clan Tartan Tartan Number: 1776. Earliest known date: 1977 Matched to a sample by B Urquhart in 2004, from Lochcarron reiver cloth. The purple colour was lightened considerably to a pale mauve, giving an almost equal prominence to the white. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s20/w2lp2r2g22r3g1r3db9lp2r2lp2g8r8g8r2db2r22lp2r2w2~x2/) — ΔT 1.20
+1. [MacDougall Clan Tartan Tartan Number: 1776. Earliest known date: 1977 Matched to a sample by B Urquhart in 2004, from Lochcarron reiver cloth. The purple colour was lightened considerably to a pale mauve, giving an almost equal prominence to the white. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s20/w2r2lp2r22db2r2g8r8g8lp2r2lp2db9r3g1r3g22r2lp2w2~x2/) — ΔT 1.20
 1. [Westwood](/setts/s18/r6t4dg16lo2k1w6k1lo30r15lo30k1w6k1lo2dg16t4r6w1~x2/) — ΔT 1.21
-1. [MacDougall](/setts/s20/lb1r3r1dg23r3dg1r3db6r4r1r4dg6r6dg6r2db1r24r1r1lb1/) — ΔT 1.21
+1. [MacDougall](/setts/s20/lb1r3r1dg23r3dg1r3db6r4r1r4dg6r6dg6r2db1r24r1r1lb1~x2/) — ΔT 1.21
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/ly2r5r3g54r5g3r5db20r5r3r5g16r2db4r48r6r3w2~x2/"><circle cx="232.1" cy="54.9" r="4" fill="#3465a4"><title>Sommerville</title></circle></a><a href="/setts/s18/dg4r4dp1k1r19k1t1r2db5r2t1k1r2dg24r5dp1k1t3~x2/"><circle cx="258.0" cy="58.0" r="4" fill="#3465a4"><title>Dundas (Red)</title></circle></a><a href="/setts/s18/ly2r5r3g54r5g3r5db21r5r3r5g17r2db4r48r5r3w2/"><circle cx="240.2" cy="59.4" r="4" fill="#3465a4"><title>Sommerville</title></circle></a><a href="/setts/s22/k8r2k3ly2k2w3k2lo12y22r2y2k1y2r2y22lo12k2w3k2ly2k3r2~x2/"><circle cx="200.4" cy="63.0" r="4" fill="#3465a4"><title>O'Keefe</title></circle></a><a href="/setts/s16/r44do3w2g14w2y4r4do2r4y4w2dt12do6r6y7w2~x2/"><circle cx="259.1" cy="71.0" r="4" fill="#3465a4"><title>North West Mounted Police</title></circle></a><a href="/setts/s20/w1p2r1g22r3g1r3db9p2r1p2g8r8g8r1db1r22p2r2w1~x2/"><circle cx="252.7" cy="83.6" r="4" fill="#3465a4"><title>MacDougall 7</title></circle></a><a href="/setts/s18/g14r6r2k3r65k2t2r6k34r6t2k2r4g66r12r2k2t4/"><circle cx="266.1" cy="52.9" r="4" fill="#3465a4"><title>Stewart of Ardshiel</title></circle></a><a href="/setts/s20/w2lp2r2g22r3g1r3db9lp2r2lp2g8r8g8r2db2r22lp2r2w2~x2/"><circle cx="236.3" cy="83.8" r="4" fill="#3465a4"><title>MacDougall Clan Tartan Tartan Number: 1776. Earliest known date: 1977 Matched to a sample by B Urquhart in 2004, from Lochcarron reiver cloth. The purple colour was lightened considerably to a pale mauve, giving an almost equal prominence to the white. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/r6t4dg16lo2k1w6k1lo30r15lo30k1w6k1lo2dg16t4r6w1~x2/"><circle cx="213.1" cy="62.6" r="4" fill="#3465a4"><title>Westwood</title></circle></a><a href="/setts/s20/lb1r3r1dg23r3dg1r3db6r4r1r4dg6r6dg6r2db1r24r1r1lb1/"><circle cx="255.6" cy="69.4" r="4" fill="#3465a4"><title>MacDougall</title></circle></a><circle cx="247.0" cy="55.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/w2r3r6r48db4r2g16r5r3r5db20r5g3r5g54r3r5ly2~x2/"><circle cx="231.8" cy="55.1" r="4" fill="#3465a4"><title>Sommerville</title></circle></a><a href="/setts/s18/dg4r4dp1k1r19k1t1r2db5r2t1k1r2dg24r5dp1k1t3~x2/"><circle cx="257.6" cy="58.1" r="4" fill="#3465a4"><title>Dundas (Red)</title></circle></a><a href="/setts/s18/w2r3r5r48db4r2g17r5r3r5db21r5g3r5g54r3r5ly2/"><circle cx="239.8" cy="59.6" r="4" fill="#3465a4"><title>Sommerville</title></circle></a><a href="/setts/s22/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/"><circle cx="200.0" cy="63.1" r="4" fill="#3465a4"><title>O'Keefe</title></circle></a><a href="/setts/s16/r44do3w2g14w2y4r4do2r4y4w2dt12do6r6y7w2~x2/"><circle cx="258.8" cy="71.1" r="4" fill="#3465a4"><title>North West Mounted Police</title></circle></a><a href="/setts/s20/w1r2p2r22db1r1g8r8g8p2r1p2db9r3g1r3g22r1p2w1~x2/"><circle cx="252.4" cy="83.7" r="4" fill="#3465a4"><title>MacDougall 7</title></circle></a><a href="/setts/s18/g14r6r2k3r65k2t2r6k34r6t2k2r4g66r12r2k2t4/"><circle cx="265.8" cy="52.9" r="4" fill="#3465a4"><title>Stewart of Ardshiel</title></circle></a><a href="/setts/s20/w2r2lp2r22db2r2g8r8g8lp2r2lp2db9r3g1r3g22r2lp2w2~x2/"><circle cx="236.0" cy="83.8" r="4" fill="#3465a4"><title>MacDougall Clan Tartan Tartan Number: 1776. Earliest known date: 1977 Matched to a sample by B Urquhart in 2004, from Lochcarron reiver cloth. The purple colour was lightened considerably to a pale mauve, giving an almost equal prominence to the white. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/r6t4dg16lo2k1w6k1lo30r15lo30k1w6k1lo2dg16t4r6w1~x2/"><circle cx="212.8" cy="62.7" r="4" fill="#3465a4"><title>Westwood</title></circle></a><a href="/setts/s20/lb1r3r1dg23r3dg1r3db6r4r1r4dg6r6dg6r2db1r24r1r1lb1~x2/"><circle cx="255.2" cy="69.5" r="4" fill="#3465a4"><title>MacDougall</title></circle></a><circle cx="246.6" cy="55.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s18/g4r4dp1k1r19k1t1r2db5r2t1k1r2g24r5dp1k1t3~x2/

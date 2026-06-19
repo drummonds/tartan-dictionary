@@ -22,6 +22,6 @@ KRKWKWKGRGKWKWKR
 
 | Tartans |
 |---------------|
-| [Southdown](/setts/s16/k3r1k3w5k5w3k5dy23r3dy23k5w3k5w5k3r1~x2/)|
-|![Southdown example sett](/setts/s16/k3r1k3w5k5w3k5dy23r3dy23k5w3k5w5k3r1~x2/sett.png)|
+| [Southdown](/setts/s16/k3r1k3w5k5w3k5dy23r3~x2/)|
+|![Southdown example sett](/setts/s16/k3r1k3w5k5w3k5dy23r3~x2/sett.png)|
 

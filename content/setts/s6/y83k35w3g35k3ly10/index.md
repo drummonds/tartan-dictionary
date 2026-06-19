@@ -2,7 +2,7 @@
 title: "Brandon, Manitoba"
 date: 2023-03-18
 ---
-**Bands:** [GKWGKY](/stripes/gkwgky/) · **Stripes:** [Y K W G K LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">Y K W G K LY</span></span>
+**Bands:** [YKGWKG](/stripes/ykgwkg/) · **Stripes:** [LY K G W K Y](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LY K G W K Y</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -909,19 +912,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Brandon (Manitoba)](/setts/s6/o84k35w3g35k3ly10/) — ΔT 0.88
 1. [Brandon (Manitoba) (District)](/setts/s6/o84k35lr3g35k3ly10/) — ΔT 0.90
-1. [Brandon Manitoba Trade Tartan Tartan Number: 1884. Earliest known date: pre 1997 From Dalgleish as Hamilton of Brandon. There is a similarity to Cape Breton. And to Paton's Jacobite. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/ly83k35w3g35k3ly10/) — ΔT 1.20
+1. [Brandon Manitoba Trade Tartan Tartan Number: 1884. Earliest known date: pre 1997 From Dalgleish as Hamilton of Brandon. There is a similarity to Cape Breton. And to Paton's Jacobite. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/ly83k35w3g35k3ly10/) — ΔT 1.21
 1. [Pollock](/setts/s7/g3r16w4k6g28r1g3~x2/) — ΔT 1.30
 1. [Hamilton of Brandon (Fashion)](/setts/s6/lo16k7w1g7k1ly3~x4/) — ΔT 1.40
 1. [MacLamroc](/setts/s6/ly4k1dg16k16r1w3~x2/) — ΔT 1.49
 1. [Hibernian F. C. (2004) (C orporate)](/setts/s8/g21w2g21k17dg12dp6k2w1~x2/) — ΔT 1.49
 1. [Kilkenny](/setts/s7/m5dg27o2g25ly7dg3m3~x2/) — ΔT 1.55
 1. [Herbage](/setts/s5/g25k8y10r1y3~x4/) — ΔT 1.55
-1. [Jacobite #2](/setts/s6/ly70k30w3dg30k3ly10/) — ΔT 1.57
+1. [Jacobite #2](/setts/s6/ly70k30w3dg30k3ly10/) — ΔT 1.58
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/o84k35w3g35k3ly10/"><circle cx="261.0" cy="131.7" r="4" fill="#3465a4"><title>Brandon (Manitoba)</title></circle></a><a href="/setts/s6/o84k35lr3g35k3ly10/"><circle cx="263.5" cy="133.2" r="4" fill="#3465a4"><title>Brandon (Manitoba) (District)</title></circle></a><a href="/setts/s6/ly83k35w3g35k3ly10/"><circle cx="242.9" cy="121.2" r="4" fill="#3465a4"><title>Brandon Manitoba Trade Tartan Tartan Number: 1884. Earliest known date: pre 1997 From Dalgleish as Hamilton of Brandon. There is a similarity to Cape Breton. And to Paton's Jacobite. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/g3r16w4k6g28r1g3~x2/"><circle cx="322.6" cy="141.7" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/setts/s6/lo16k7w1g7k1ly3~x4/"><circle cx="216.1" cy="162.9" r="4" fill="#3465a4"><title>Hamilton of Brandon (Fashion)</title></circle></a><a href="/setts/s6/ly4k1dg16k16r1w3~x2/"><circle cx="212.8" cy="162.8" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/setts/s8/g21w2g21k17dg12dp6k2w1~x2/"><circle cx="236.1" cy="160.3" r="4" fill="#3465a4"><title>Hibernian F. C. (2004) (C orporate)</title></circle></a><a href="/setts/s7/m5dg27o2g25ly7dg3m3~x2/"><circle cx="202.8" cy="165.0" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/setts/s5/g25k8y10r1y3~x4/"><circle cx="302.0" cy="181.7" r="4" fill="#3465a4"><title>Herbage</title></circle></a><a href="/setts/s6/ly70k30w3dg30k3ly10/"><circle cx="288.5" cy="145.9" r="4" fill="#3465a4"><title>Jacobite #2</title></circle></a><circle cx="250.1" cy="133.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/o84k35w3g35k3ly10/"><circle cx="260.8" cy="131.6" r="4" fill="#3465a4"><title>Brandon (Manitoba)</title></circle></a><a href="/setts/s6/o84k35lr3g35k3ly10/"><circle cx="263.3" cy="133.1" r="4" fill="#3465a4"><title>Brandon (Manitoba) (District)</title></circle></a><a href="/setts/s6/ly83k35w3g35k3ly10/"><circle cx="242.6" cy="121.1" r="4" fill="#3465a4"><title>Brandon Manitoba Trade Tartan Tartan Number: 1884. Earliest known date: pre 1997 From Dalgleish as Hamilton of Brandon. There is a similarity to Cape Breton. And to Paton's Jacobite. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/g3r16w4k6g28r1g3~x2/"><circle cx="322.3" cy="141.5" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/setts/s6/lo16k7w1g7k1ly3~x4/"><circle cx="216.0" cy="162.8" r="4" fill="#3465a4"><title>Hamilton of Brandon (Fashion)</title></circle></a><a href="/setts/s6/ly4k1dg16k16r1w3~x2/"><circle cx="212.8" cy="162.7" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/setts/s8/g21w2g21k17dg12dp6k2w1~x2/"><circle cx="236.0" cy="160.2" r="4" fill="#3465a4"><title>Hibernian F. C. (2004) (C orporate)</title></circle></a><a href="/setts/s7/m5dg27o2g25ly7dg3m3~x2/"><circle cx="202.7" cy="165.0" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/setts/s5/g25k8y10r1y3~x4/"><circle cx="301.9" cy="181.5" r="4" fill="#3465a4"><title>Herbage</title></circle></a><a href="/setts/s6/ly70k30w3dg30k3ly10/"><circle cx="288.1" cy="145.6" r="4" fill="#3465a4"><title>Jacobite #2</title></circle></a><circle cx="249.9" cy="133.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/y83k35w3g35k3ly10/

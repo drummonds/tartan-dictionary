@@ -2,7 +2,7 @@
 title: "Loch Linnhe"
 date: 2023-03-18
 ---
-**Bands:** [GRBRWGRBRY](/stripes/grbrwgrbry/) · **Stripes:** [G R DB R LT G R DB R LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G R DB R LT G R DB R LY</span></span>
+**Bands:** [YRBRGWRBRG](/stripes/yrbrgwrbrg/) · **Stripes:** [LY R DB R G LT R DB R G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY R DB R G LT R DB R G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [11611](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11611)
 
 ## Thread count
-G/6 R12 B24 R10 LB4 G20 R62 B4 R8 Y/6
+Y/6 R8 B4 R62 G20 LB4 R10 B24 R12 G/6
 ![Sett](sett.png)
 
 ## Palette
@@ -38,17 +38,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Loch Creran](/setts/s11/r5g9ly2g9r5b9r28g3lt2r4b2~x2/) — ΔT 0.74
 1. [Loch Lochy](/setts/s8/r6dg14r6db11r31lb2r4ly3~x2/) — ΔT 0.88
 1. [1745 Trading (Corporate)](/setts/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/) — ΔT 1.00
-1. [Bro-Zol](/setts/s10/db3w5r25db1g3db1r8k2w9k3~x2/) — ΔT 1.07
+1. [Bro-Zol](/setts/s10/k3w9k2r8db1g3db1r25w5db3~x2/) — ΔT 1.07
 1. [Loch Creran (District)](/setts/s11/r6dg8ly2dg8r6dt8r29dg3lb2r5dt3~x2/) — ΔT 1.11
 1. [Hoben (Personal)](/setts/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/) — ΔT 1.12
 1. [Hepburn (Clan)](/setts/s12/r21db4k5ly2k2ly2k2r7g4r2db3ly2~x4/) — ΔT 1.13
 1. [Loch Lochy (District)](/setts/s8/r6g14r6db12r31lb2r4ly3~x2/) — ΔT 1.15
-1. [MacFie Dress](/setts/s9/lo1r12g2r2w16r2g2r12w1~x4/) — ΔT 1.19
+1. [MacFie Dress](/setts/s9/w1r12g2r2w16r2g2r12lo1~x4/) — ΔT 1.19
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/ly4k3w2db7r7k4r5db4r30w2db3~x2/"><circle cx="315.0" cy="106.4" r="4" fill="#3465a4"><title>Hart (Texas) (Personal)</title></circle></a><a href="/setts/s11/r5g9ly2g9r5b9r28g3lt2r4b2~x2/"><circle cx="269.5" cy="122.6" r="4" fill="#3465a4"><title>Loch Creran</title></circle></a><a href="/setts/s8/r6dg14r6db11r31lb2r4ly3~x2/"><circle cx="332.9" cy="143.4" r="4" fill="#3465a4"><title>Loch Lochy</title></circle></a><a href="/setts/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/"><circle cx="341.7" cy="94.9" r="4" fill="#3465a4"><title>1745 Trading (Corporate)</title></circle></a><a href="/setts/s10/db3w5r25db1g3db1r8k2w9k3~x2/"><circle cx="293.2" cy="94.8" r="4" fill="#3465a4"><title>Bro-Zol</title></circle></a><a href="/setts/s11/r6dg8ly2dg8r6dt8r29dg3lb2r5dt3~x2/"><circle cx="317.6" cy="136.1" r="4" fill="#3465a4"><title>Loch Creran (District)</title></circle></a><a href="/setts/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/"><circle cx="361.9" cy="116.0" r="4" fill="#3465a4"><title>Hoben (Personal)</title></circle></a><a href="/setts/s12/r21db4k5ly2k2ly2k2r7g4r2db3ly2~x4/"><circle cx="245.3" cy="115.9" r="4" fill="#3465a4"><title>Hepburn (Clan)</title></circle></a><a href="/setts/s8/r6g14r6db12r31lb2r4ly3~x2/"><circle cx="335.2" cy="149.2" r="4" fill="#3465a4"><title>Loch Lochy (District)</title></circle></a><a href="/setts/s9/lo1r12g2r2w16r2g2r12w1~x4/"><circle cx="309.8" cy="134.2" r="4" fill="#3465a4"><title>MacFie Dress</title></circle></a><circle cx="308.0" cy="116.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/ly4k3w2db7r7k4r5db4r30w2db3~x2/"><circle cx="314.5" cy="106.3" r="4" fill="#3465a4"><title>Hart (Texas) (Personal)</title></circle></a><a href="/setts/s11/r5g9ly2g9r5b9r28g3lt2r4b2~x2/"><circle cx="269.2" cy="122.5" r="4" fill="#3465a4"><title>Loch Creran</title></circle></a><a href="/setts/s8/r6dg14r6db11r31lb2r4ly3~x2/"><circle cx="332.5" cy="143.3" r="4" fill="#3465a4"><title>Loch Lochy</title></circle></a><a href="/setts/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/"><circle cx="341.3" cy="94.8" r="4" fill="#3465a4"><title>1745 Trading (Corporate)</title></circle></a><a href="/setts/s10/k3w9k2r8db1g3db1r25w5db3~x2/"><circle cx="292.9" cy="94.7" r="4" fill="#3465a4"><title>Bro-Zol</title></circle></a><a href="/setts/s11/r6dg8ly2dg8r6dt8r29dg3lb2r5dt3~x2/"><circle cx="317.3" cy="136.1" r="4" fill="#3465a4"><title>Loch Creran (District)</title></circle></a><a href="/setts/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/"><circle cx="361.4" cy="115.8" r="4" fill="#3465a4"><title>Hoben (Personal)</title></circle></a><a href="/setts/s12/r21db4k5ly2k2ly2k2r7g4r2db3ly2~x4/"><circle cx="245.0" cy="115.9" r="4" fill="#3465a4"><title>Hepburn (Clan)</title></circle></a><a href="/setts/s8/r6g14r6db12r31lb2r4ly3~x2/"><circle cx="334.9" cy="149.1" r="4" fill="#3465a4"><title>Loch Lochy (District)</title></circle></a><a href="/setts/s9/w1r12g2r2w16r2g2r12lo1~x4/"><circle cx="309.4" cy="134.0" r="4" fill="#3465a4"><title>MacFie Dress</title></circle></a><circle cx="307.6" cy="116.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/g3r6db12r5lt2g10r31db2r4ly3~x2/

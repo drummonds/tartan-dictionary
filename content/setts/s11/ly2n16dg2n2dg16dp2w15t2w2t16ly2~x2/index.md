@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/6722/
 
 ## Thread count
-Y/4 B32 W4 B4 W30 P4 G32 N4 G4 N32 Y/4
+Y/4 N32 G4 N4 G32 P4 W30 B4 W4 B32 Y/4
 ![Sett](sett.png)
 
 ## Palette
@@ -29,21 +29,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Robinson, Barbara Ann (Personal)](/setts/s11/ly1b8w1b1w8k1g8db1g1db8ly1~x4/) — ΔT 1.20
+1. [Robinson, Barbara Ann (Personal)](/setts/s11/ly1db8g1db1g8k1w8b1w1b8ly1~x4/) — ΔT 1.20
 1. [MacLeod Special Dress (Dance)](/setts/s10/ly4b25g3k3g3k3g13w24k2r3~x2/) — ΔT 1.20
 1. [Stirling (Clan)](/setts/s9/lb4k2g20lr2k13lr2b20lr2r2~x2/) — ΔT 1.32
 1. [Coulter Dress (Personal)](/setts/s8/r6w20g12o3g8t20k2t3~x2/) — ΔT 1.33
 1. [Cossar (Personal)](/setts/s11/w4t5lo3t22ly4k3g16lo7k2lo7ly2~x2/) — ΔT 1.33
 1. [Bouguet, Adrian Hunting (Personal)](/setts/s12/lb15lr6dg15lr4lb3dg3lb3lr4dg15lr2w3r1~x2/) — ΔT 1.37
 1. [Sound of Iona](/setts/s9/w30lb4dt6m4dt6g6dt12g13lt4~x2/) — ΔT 1.39
-1. [Stirling and Bannockburn](/setts/s10/ly3g2lg18r3k13r4lb3r4g18r3~x2/) — ΔT 1.40
-1. [Holroyd, John (Personal](/setts/s12/ly3t21db12g3db3ly3db3db8g5db2g7w3~x2/) — ΔT 1.41
+1. [Stirling and Bannockburn](/setts/s10/r3g18r4lb3r4k13r3lg18g2ly3~x2/) — ΔT 1.40
+1. [Holroyd, John (Personal](/setts/s12/w3g7db2g5db8db3ly3db3g3db12t21ly3~x2/) — ΔT 1.41
 1. [MacLeod, Californian](/setts/s10/ly4db25g3k3g3k3g13w24k2r3~x2/) — ΔT 1.43
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/ly1b8w1b1w8k1g8db1g1db8ly1~x4/"><circle cx="28.1" cy="129.6" r="4" fill="#3465a4"><title>Robinson, Barbara Ann (Personal)</title></circle></a><a href="/setts/s10/ly4b25g3k3g3k3g13w24k2r3~x2/"><circle cx="88.0" cy="109.5" r="4" fill="#3465a4"><title>MacLeod Special Dress (Dance)</title></circle></a><a href="/setts/s9/lb4k2g20lr2k13lr2b20lr2r2~x2/"><circle cx="100.0" cy="143.4" r="4" fill="#3465a4"><title>Stirling (Clan)</title></circle></a><a href="/setts/s8/r6w20g12o3g8t20k2t3~x2/"><circle cx="82.5" cy="152.9" r="4" fill="#3465a4"><title>Coulter Dress (Personal)</title></circle></a><a href="/setts/s11/w4t5lo3t22ly4k3g16lo7k2lo7ly2~x2/"><circle cx="123.2" cy="136.4" r="4" fill="#3465a4"><title>Cossar (Personal)</title></circle></a><a href="/setts/s12/lb15lr6dg15lr4lb3dg3lb3lr4dg15lr2w3r1~x2/"><circle cx="41.6" cy="100.1" r="4" fill="#3465a4"><title>Bouguet, Adrian Hunting (Personal)</title></circle></a><a href="/setts/s9/w30lb4dt6m4dt6g6dt12g13lt4~x2/"><circle cx="82.4" cy="146.0" r="4" fill="#3465a4"><title>Sound of Iona</title></circle></a><a href="/setts/s10/ly3g2lg18r3k13r4lb3r4g18r3~x2/"><circle cx="75.4" cy="144.8" r="4" fill="#3465a4"><title>Stirling and Bannockburn</title></circle></a><a href="/setts/s12/ly3t21db12g3db3ly3db3db8g5db2g7w3~x2/"><circle cx="79.8" cy="138.8" r="4" fill="#3465a4"><title>Holroyd, John (Personal</title></circle></a><a href="/setts/s10/ly4db25g3k3g3k3g13w24k2r3~x2/"><circle cx="87.9" cy="109.8" r="4" fill="#3465a4"><title>MacLeod, Californian</title></circle></a><circle cx="52.6" cy="137.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/ly1db8g1db1g8k1w8b1w1b8ly1~x4/"><circle cx="28.0" cy="129.7" r="4" fill="#3465a4"><title>Robinson, Barbara Ann (Personal)</title></circle></a><a href="/setts/s10/ly4b25g3k3g3k3g13w24k2r3~x2/"><circle cx="87.8" cy="109.6" r="4" fill="#3465a4"><title>MacLeod Special Dress (Dance)</title></circle></a><a href="/setts/s9/lb4k2g20lr2k13lr2b20lr2r2~x2/"><circle cx="100.0" cy="143.5" r="4" fill="#3465a4"><title>Stirling (Clan)</title></circle></a><a href="/setts/s8/r6w20g12o3g8t20k2t3~x2/"><circle cx="82.4" cy="153.0" r="4" fill="#3465a4"><title>Coulter Dress (Personal)</title></circle></a><a href="/setts/s11/w4t5lo3t22ly4k3g16lo7k2lo7ly2~x2/"><circle cx="123.0" cy="136.5" r="4" fill="#3465a4"><title>Cossar (Personal)</title></circle></a><a href="/setts/s12/lb15lr6dg15lr4lb3dg3lb3lr4dg15lr2w3r1~x2/"><circle cx="41.5" cy="100.3" r="4" fill="#3465a4"><title>Bouguet, Adrian Hunting (Personal)</title></circle></a><a href="/setts/s9/w30lb4dt6m4dt6g6dt12g13lt4~x2/"><circle cx="82.3" cy="146.0" r="4" fill="#3465a4"><title>Sound of Iona</title></circle></a><a href="/setts/s10/r3g18r4lb3r4k13r3lg18g2ly3~x2/"><circle cx="75.4" cy="145.0" r="4" fill="#3465a4"><title>Stirling and Bannockburn</title></circle></a><a href="/setts/s12/w3g7db2g5db8db3ly3db3g3db12t21ly3~x2/"><circle cx="79.8" cy="138.9" r="4" fill="#3465a4"><title>Holroyd, John (Personal</title></circle></a><a href="/setts/s10/ly4db25g3k3g3k3g13w24k2r3~x2/"><circle cx="87.8" cy="109.8" r="4" fill="#3465a4"><title>MacLeod, Californian</title></circle></a><circle cx="52.5" cy="137.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/ly2n16dg2n2dg16dp2w15t2w2t16ly2~x2/

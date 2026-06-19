@@ -2,12 +2,18 @@
 title: "Java Saint Andrew Society Dress"
 date: 2023-03-18
 ---
-**Bands:** [BRKRWYR](/stripes/brkrwyr/) · **Stripes:** [DT R K R W LO R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="seq">DT R K R W LO R</span></span>
+**Bands:** [RYWRKRB](/stripes/rywrkrb/) · **Stripes:** [R LO W R K R DT](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">R LO W R K R DT</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1885
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Java Saint Andrew Soc. Dress
 
 ## Attestations
 
@@ -60,8 +66,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w3r2dp31g30ly2dp2ly1~x2/"><circle cx="314.0" cy="114.8" r="4" fill="#3465a4"><title>Caig (Corporate)</title></circle></a><a href="/setts/s6/lb12g12k12g24dp75ly4/"><circle cx="298.7" cy="149.8" r="4" fill="#3465a4"><title>Widows Sons Scotland Dress</title></circle></a><a href="/setts/s8/dp3r3dp34g18lo2g18lb2r3~x2/"><circle cx="288.6" cy="154.6" r="4" fill="#3465a4"><title>Singh</title></circle></a><a href="/setts/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="252.5" cy="125.7" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><a href="/setts/s7/o4dt36r35g2r2g8w4~x2/"><circle cx="247.2" cy="137.4" r="4" fill="#3465a4"><title>Cherry, John S. (Personal)</title></circle></a><a href="/setts/s9/g18g2db5r45lb3db18lb3r8lb2~x2/"><circle cx="281.2" cy="109.8" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><a href="/setts/s9/db26g11r8k2r2w2r4w1r15~x2/"><circle cx="243.2" cy="119.7" r="4" fill="#3465a4"><title>Royal Scottish Assurance (Corporate)</title></circle></a><a href="/setts/s8/ly3db8w3db34r34g4r4w2~x2/"><circle cx="269.9" cy="125.7" r="4" fill="#3465a4"><title>Manitoba Masonic (Corporate)</title></circle></a><a href="/setts/s8/w4dt38g6r2g6r38lo2r3~x2/"><circle cx="292.0" cy="145.3" r="4" fill="#3465a4"><title>21st Century (Fashion)</title></circle></a><a href="/setts/s7/t4ly1r28db24k5t5k3~x4/"><circle cx="249.5" cy="128.6" r="4" fill="#3465a4"><title>McKnight #2 (Personal)</title></circle></a><circle cx="313.9" cy="134.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w3r2dp31g30ly2dp2ly1~x2/"><circle cx="313.8" cy="114.7" r="4" fill="#3465a4"><title>Caig (Corporate)</title></circle></a><a href="/setts/s6/lb12g12k12g24dp75ly4/"><circle cx="298.6" cy="149.7" r="4" fill="#3465a4"><title>Widows Sons Scotland Dress</title></circle></a><a href="/setts/s8/dp3r3dp34g18lo2g18lb2r3~x2/"><circle cx="288.4" cy="154.6" r="4" fill="#3465a4"><title>Singh</title></circle></a><a href="/setts/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="252.3" cy="125.7" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><a href="/setts/s7/o4dt36r35g2r2g8w4~x2/"><circle cx="247.0" cy="137.4" r="4" fill="#3465a4"><title>Cherry, John S. (Personal)</title></circle></a><a href="/setts/s9/g18g2db5r45lb3db18lb3r8lb2~x2/"><circle cx="281.0" cy="109.9" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><a href="/setts/s9/db26g11r8k2r2w2r4w1r15~x2/"><circle cx="243.0" cy="119.7" r="4" fill="#3465a4"><title>Royal Scottish Assurance (Corporate)</title></circle></a><a href="/setts/s8/ly3db8w3db34r34g4r4w2~x2/"><circle cx="269.7" cy="125.6" r="4" fill="#3465a4"><title>Manitoba Masonic (Corporate)</title></circle></a><a href="/setts/s8/w4dt38g6r2g6r38lo2r3~x2/"><circle cx="291.8" cy="145.3" r="4" fill="#3465a4"><title>21st Century (Fashion)</title></circle></a><a href="/setts/s7/t4ly1r28db24k5t5k3~x4/"><circle cx="249.4" cy="128.7" r="4" fill="#3465a4"><title>McKnight #2 (Personal)</title></circle></a><circle cx="313.7" cy="134.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/dt50r26k9r4w2lo2r10~x2/

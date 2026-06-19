@@ -22,6 +22,6 @@ RGKGBKBGKBY
 
 | Tartans |
 |---------------|
-| [King (Personal)](/setts/s11/ly3n1k1y15n4k12n26y2k1y2r3~x2/)|
-|![King (Personal) example sett](/setts/s11/ly3n1k1y15n4k12n26y2k1y2r3~x2/sett.png)|
+| [King (Personal)](/setts/s11/r3y2k1y2n26k12n4y15k1n1ly3~x2/)|
+|![King (Personal) example sett](/setts/s11/r3y2k1y2n26k12n4y15k1n1ly3~x2/sett.png)|
 

@@ -2,7 +2,7 @@
 title: "St. Andrews International Golf Club"
 date: 2023-03-18
 ---
-**Bands:** [GKBR](/stripes/gkbr/) · **Stripes:** [DG K DT R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG K DT R</span></span>
+**Bands:** [RBKG](/stripes/rbkg/) · **Stripes:** [R DT K DG](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">R DT K DG</span></span>
 
 
 This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,8 +909,9 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Forbes #6](/setts/s6/ly1k4dg4k8dg16r1~x2/) — ΔT 1.43
+1. [Forbes #6](/setts/s6/r1dg16k8dg4k4ly1~x2/) — ΔT 1.43
 1. [Gunn (Logan)](/setts/s6/dg2k12dg1k12dg12r2~x2/) — ΔT 1.68
+1. [Barclay Hunting](/setts/s4/dg1db16dg16r1~x2/) — ΔT 1.72
 1. [Tolmie](/setts/s5/k8lo1k8dg13r2~x4/) — ΔT 1.77
 1. [Douglas (Clan)](/setts/s5/k6db4dg44k41w4~x2/) — ΔT 1.79
 1. [Lossiemouth/Hersbruck](/setts/s6/dg26k3dg12k10dp15w2~x2/) — ΔT 1.81
@@ -915,12 +919,11 @@ The nearest existing variants by ΔTartan distance.
 1. [Green Swamp Youth Campers](/setts/s6/k8r2k13lo2dg48b6~x2/) — ΔT 1.82
 1. [Wcwm 1255](/setts/s5/g3r1k14g14lo1~x4/) — ΔT 1.84
 1. [Robert Byers Family - Dooballagh, Ireland](/setts/s4/k5g40db20ly3~x2/) — ΔT 1.84
-1. [McGeorge (Personal)](/setts/s6/lo4r2dg40dg39dg3r4~x2/) — ΔT 1.87
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/ly1k4dg4k8dg16r1~x2/"><circle cx="388.7" cy="222.0" r="4" fill="#3465a4"><title>Forbes #6</title></circle></a><a href="/setts/s6/dg2k12dg1k12dg12r2~x2/"><circle cx="403.3" cy="269.1" r="4" fill="#3465a4"><title>Gunn (Logan)</title></circle></a><a href="/setts/s5/k8lo1k8dg13r2~x4/"><circle cx="307.6" cy="245.7" r="4" fill="#3465a4"><title>Tolmie</title></circle></a><a href="/setts/s5/k6db4dg44k41w4~x2/"><circle cx="317.8" cy="235.7" r="4" fill="#3465a4"><title>Douglas (Clan)</title></circle></a><a href="/setts/s6/dg26k3dg12k10dp15w2~x2/"><circle cx="301.8" cy="228.8" r="4" fill="#3465a4"><title>Lossiemouth/Hersbruck</title></circle></a><a href="/setts/s6/db4k4db24dg32lr1dg2~x2/"><circle cx="389.7" cy="191.0" r="4" fill="#3465a4"><title>Oliphant</title></circle></a><a href="/setts/s6/k8r2k13lo2dg48b6~x2/"><circle cx="408.4" cy="175.3" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/setts/s5/g3r1k14g14lo1~x4/"><circle cx="337.7" cy="223.4" r="4" fill="#3465a4"><title>Wcwm 1255</title></circle></a><a href="/setts/s4/k5g40db20ly3~x2/"><circle cx="353.6" cy="237.5" r="4" fill="#3465a4"><title>Robert Byers Family - Dooballagh, Ireland</title></circle></a><a href="/setts/s6/lo4r2dg40dg39dg3r4~x2/"><circle cx="367.8" cy="210.3" r="4" fill="#3465a4"><title>McGeorge (Personal)</title></circle></a><circle cx="398.9" cy="246.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r1dg16k8dg4k4ly1~x2/"><circle cx="388.7" cy="221.9" r="4" fill="#3465a4"><title>Forbes #6</title></circle></a><a href="/setts/s6/dg2k12dg1k12dg12r2~x2/"><circle cx="403.3" cy="269.0" r="4" fill="#3465a4"><title>Gunn (Logan)</title></circle></a><a href="/setts/s4/dg1db16dg16r1~x2/"><circle cx="400.5" cy="269.2" r="4" fill="#3465a4"><title>Barclay Hunting</title></circle></a><a href="/setts/s5/k8lo1k8dg13r2~x4/"><circle cx="307.7" cy="245.6" r="4" fill="#3465a4"><title>Tolmie</title></circle></a><a href="/setts/s5/k6db4dg44k41w4~x2/"><circle cx="317.9" cy="235.7" r="4" fill="#3465a4"><title>Douglas (Clan)</title></circle></a><a href="/setts/s6/dg26k3dg12k10dp15w2~x2/"><circle cx="302.0" cy="228.7" r="4" fill="#3465a4"><title>Lossiemouth/Hersbruck</title></circle></a><a href="/setts/s6/db4k4db24dg32lr1dg2~x2/"><circle cx="389.7" cy="190.9" r="4" fill="#3465a4"><title>Oliphant</title></circle></a><a href="/setts/s6/k8r2k13lo2dg48b6~x2/"><circle cx="408.3" cy="175.3" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/setts/s5/g3r1k14g14lo1~x4/"><circle cx="337.7" cy="223.3" r="4" fill="#3465a4"><title>Wcwm 1255</title></circle></a><a href="/setts/s4/k5g40db20ly3~x2/"><circle cx="353.5" cy="237.3" r="4" fill="#3465a4"><title>Robert Byers Family - Dooballagh, Ireland</title></circle></a><circle cx="399.1" cy="246.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/dg43k14dt14r2~x2/

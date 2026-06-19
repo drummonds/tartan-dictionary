@@ -2,7 +2,7 @@
 title: "Borthwick"
 date: 2023-03-18
 ---
-**Bands:** [GKRKGKGKR](/stripes/gkrkgkgkr/) · **Stripes:** [G K R K Y K Y K R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">G K R K Y K Y K R</span></span>
+**Bands:** [RKGKGKRKG](/stripes/rkgkgkrkg/) · **Stripes:** [R K Y K Y K R K G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K Y K Y K R K G</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-DR/12 K6 N24 K32 N24 K6 DR24 K4 G/24
+G/24 K4 DR24 K6 N24 K32 N24 K6 DR/12
 ![Sett](sett.png)
 
 ## Palette
@@ -922,8 +925,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg12k2r12k3n12k16n12k3r6~x2/"><circle cx="110.9" cy="218.0" r="4" fill="#3465a4"><title>Borthwick Hunting</title></circle></a><a href="/setts/s9/dg12k1r10k2y10k14y10k2r4~x2/"><circle cx="133.8" cy="187.2" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/setts/s7/r20k14w2k14g9r3g11~x2/"><circle cx="161.1" cy="218.0" r="4" fill="#3465a4"><title>Brough</title></circle></a><a href="/setts/s9/g12k2m12k3o12k16o12k3m6~x2/"><circle cx="124.2" cy="222.5" r="4" fill="#3465a4"><title>Borthwick Family Tartan Tartan Number: 816. Earliest known date: pre 2003 Borthwick is an ancient Scottish family of Celtic origin. William de Borthwick built Borthwick Castle in Midlothian in the 14th century. The present chief of the border family is Major John Henry Stuart Borthwick of Crookston, Midlothian. He was recognised by Lord Lyon as the 23rd Lord Borthwick in 1986. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/db7r3db9r2k10g9r3g2r2g7~x2/"><circle cx="95.5" cy="230.6" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/setts/s8/w2r7dg7k7r2dg2k2w1~x5/"><circle cx="111.6" cy="203.7" r="4" fill="#3465a4"><title>Al Suwaidi of Abu Dhabi (Personal)</title></circle></a><a href="/setts/s7/p9k7g5r4g7k1ly1~x2/"><circle cx="106.5" cy="199.9" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/setts/s9/dg12k2r12k3o12k16o12k3r6~x2/"><circle cx="128.0" cy="225.1" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s12/db8r2db2r4db10r2k11g10r4g2r2g8~x2/"><circle cx="95.7" cy="211.3" r="4" fill="#3465a4"><title>MacDonald 2</title></circle></a><a href="/setts/s9/dg12k1dr10k2y10k14y10k2dr4~x2/"><circle cx="138.8" cy="195.4" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><circle cx="100.0" cy="214.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg12k2r12k3n12k16n12k3r6~x2/"><circle cx="111.0" cy="218.0" r="4" fill="#3465a4"><title>Borthwick Hunting</title></circle></a><a href="/setts/s9/dg12k1r10k2y10k14y10k2r4~x2/"><circle cx="133.9" cy="187.2" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/setts/s7/r20k14w2k14g9r3g11~x2/"><circle cx="161.2" cy="217.9" r="4" fill="#3465a4"><title>Brough</title></circle></a><a href="/setts/s9/g12k2m12k3o12k16o12k3m6~x2/"><circle cx="124.3" cy="222.6" r="4" fill="#3465a4"><title>Borthwick Family Tartan Tartan Number: 816. Earliest known date: pre 2003 Borthwick is an ancient Scottish family of Celtic origin. William de Borthwick built Borthwick Castle in Midlothian in the 14th century. The present chief of the border family is Major John Henry Stuart Borthwick of Crookston, Midlothian. He was recognised by Lord Lyon as the 23rd Lord Borthwick in 1986. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/db7r3db9r2k10g9r3g2r2g7~x2/"><circle cx="95.6" cy="230.6" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/setts/s8/w2r7dg7k7r2dg2k2w1~x5/"><circle cx="111.6" cy="203.7" r="4" fill="#3465a4"><title>Al Suwaidi of Abu Dhabi (Personal)</title></circle></a><a href="/setts/s7/p9k7g5r4g7k1ly1~x2/"><circle cx="106.6" cy="199.9" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/setts/s9/dg12k2r12k3o12k16o12k3r6~x2/"><circle cx="128.0" cy="225.1" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s12/db8r2db2r4db10r2k11g10r4g2r2g8~x2/"><circle cx="95.8" cy="211.3" r="4" fill="#3465a4"><title>MacDonald 2</title></circle></a><a href="/setts/s9/dg12k1dr10k2y10k14y10k2dr4~x2/"><circle cx="139.0" cy="195.4" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><circle cx="100.2" cy="213.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/g12k2r12k3y12k16y12k3r6~x2/

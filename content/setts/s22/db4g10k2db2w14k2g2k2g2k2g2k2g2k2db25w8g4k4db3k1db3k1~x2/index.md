@@ -2,12 +2,18 @@
 title: "Alberta, Quebec Nova Scotia"
 date: 2023-03-18
 ---
-**Bands:** [BGKBWKGKGKGKGKBWGKBKBK](/stripes/bgkbwkgkgkgkgkbwgkbkbk/) · **Stripes:** [DB G K DB W K G K G K G K G K DB W G K DB K DB K](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">DB G K DB W K G K G K G K G K DB W G K DB K DB K</span></span>
+**Bands:** [KBKBKGWBKGKGKGKGKWBKGB](/stripes/kbkbkgwbkgkgkgkgkwbkgb/) · **Stripes:** [K DB K DB K G W DB K G K G K G K G K W DB K G DB](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB K G W DB K G K G K G K G K W DB K G DB</span></span>
 
 
 This was sourced from weddslist.  It is a [22 band tartan](/bands/bands22/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Alberta, Quebec, Nova Scotia.
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -905,9 +914,9 @@ The nearest existing variants by ΔTartan distance.
 1. [Alberta, Quebec, Nova Scotia.](/setts/s22/db4dg10k2db2w14k2dg2k2dg2k2dg2k2dg2k2db25w8dg4k4db3k1db3k1~x2/) — ΔT 0.57
 1. [Fair Trade](/setts/s15/k8b2k2b24k8w2k1w2k4w2k1w2k8g16k4~x2/) — ΔT 1.07
 1. [Graham, dress](/setts/s21/w4db4w60db5w5k30db27k5db30k27g4t5g66t5g4k30w5db5w57db4w4/) — ΔT 1.24
-1. [Beaufort](/setts/s18/b3w8o2w2o2w2o8k2o2k2o2k8w2b24o2k2o1k3~x2/) — ΔT 1.24
+1. [Beaufort](/setts/s18/k3o1k2o2b24w2k8o2k2o2k2o8w2o2w2o2w8b3~x2/) — ΔT 1.24
 1. [Graham Dress](/setts/s21/w4db4w60db5w5k30db27k5db30k27dg4t5dg66t5dg4k30w5db5w57db4w4/) — ΔT 1.25
-1. [Nigeria](/setts/s14/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4~x2/) — ΔT 1.26
+1. [Nigeria](/setts/s14/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4~x2/) — ΔT 1.27
 1. [Scottish Islamic](/setts/s18/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2~x2/) — ΔT 1.29
 1. [Help for Heroes Corporate Tartan Tartan Number: 10561. Earliest known date: 20/01/2012 The use of the tartan is restricted in line with a legal agreement between Help for Heroes and Lochcarron of Scotland. Woven by Lochcarron of Scotland This tartan was inspired by William McGregor and George Neil of G B Tailoring, and has been produced to raise funds for Help for Heroes. The colours represent the UK Army, Navy and Airforce See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/r12lt50dt20db2dt10db4dt8db6dt6db6dt4db8dt2db32lb12db5/) — ΔT 1.31
 1. [Scottish Islamic (Corporate)](/setts/s18/g2lo2g2lo2g2lo2g18k1g2k5db2k1db19w2db2w2db2w2~x2/) — ΔT 1.32
@@ -915,8 +924,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s22/db4dg10k2db2w14k2dg2k2dg2k2dg2k2dg2k2db25w8dg4k4db3k1db3k1~x2/"><circle cx="190.8" cy="86.2" r="4" fill="#3465a4"><title>Alberta, Quebec, Nova Scotia.</title></circle></a><a href="/setts/s15/k8b2k2b24k8w2k1w2k4w2k1w2k8g16k4~x2/"><circle cx="203.4" cy="108.3" r="4" fill="#3465a4"><title>Fair Trade</title></circle></a><a href="/setts/s21/w4db4w60db5w5k30db27k5db30k27g4t5g66t5g4k30w5db5w57db4w4/"><circle cx="117.6" cy="80.7" r="4" fill="#3465a4"><title>Graham, dress</title></circle></a><a href="/setts/s18/b3w8o2w2o2w2o8k2o2k2o2k8w2b24o2k2o1k3~x2/"><circle cx="177.5" cy="83.8" r="4" fill="#3465a4"><title>Beaufort</title></circle></a><a href="/setts/s21/w4db4w60db5w5k30db27k5db30k27dg4t5dg66t5dg4k30w5db5w57db4w4/"><circle cx="125.9" cy="83.3" r="4" fill="#3465a4"><title>Graham Dress</title></circle></a><a href="/setts/s14/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4~x2/"><circle cx="190.2" cy="114.2" r="4" fill="#3465a4"><title>Nigeria</title></circle></a><a href="/setts/s18/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2~x2/"><circle cx="182.5" cy="87.7" r="4" fill="#3465a4"><title>Scottish Islamic</title></circle></a><a href="/setts/s16/r12lt50dt20db2dt10db4dt8db6dt6db6dt4db8dt2db32lb12db5/"><circle cx="141.8" cy="89.7" r="4" fill="#3465a4"><title>Help for Heroes Corporate Tartan Tartan Number: 10561. Earliest known date: 20/01/2012 The use of the tartan is restricted in line with a legal agreement between Help for Heroes and Lochcarron of Scotland. Woven by Lochcarron of Scotland This tartan was inspired by William McGregor and George Neil of G B Tailoring, and has been produced to raise funds for Help for Heroes. The colours represent the UK Army, Navy and Airforce See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/g2lo2g2lo2g2lo2g18k1g2k5db2k1db19w2db2w2db2w2~x2/"><circle cx="186.6" cy="88.0" r="4" fill="#3465a4"><title>Scottish Islamic (Corporate)</title></circle></a><a href="/setts/s29/w23dt2w2dt2w2dt22g12dt2g12dt10w3dt1o2dt10y8g4y8dt10o2dt1g5y23dt22w2g2w2dt2y2w2~x2/"><circle cx="165.3" cy="66.5" r="4" fill="#3465a4"><title>House of Timber Wolf (Personal)</title></circle></a><circle cx="177.5" cy="80.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s22/db4dg10k2db2w14k2dg2k2dg2k2dg2k2dg2k2db25w8dg4k4db3k1db3k1~x2/"><circle cx="190.6" cy="86.2" r="4" fill="#3465a4"><title>Alberta, Quebec, Nova Scotia.</title></circle></a><a href="/setts/s15/k8b2k2b24k8w2k1w2k4w2k1w2k8g16k4~x2/"><circle cx="203.3" cy="108.2" r="4" fill="#3465a4"><title>Fair Trade</title></circle></a><a href="/setts/s21/w4db4w60db5w5k30db27k5db30k27g4t5g66t5g4k30w5db5w57db4w4/"><circle cx="117.4" cy="80.7" r="4" fill="#3465a4"><title>Graham, dress</title></circle></a><a href="/setts/s18/k3o1k2o2b24w2k8o2k2o2k2o8w2o2w2o2w8b3~x2/"><circle cx="177.2" cy="83.8" r="4" fill="#3465a4"><title>Beaufort</title></circle></a><a href="/setts/s21/w4db4w60db5w5k30db27k5db30k27dg4t5dg66t5dg4k30w5db5w57db4w4/"><circle cx="125.8" cy="83.3" r="4" fill="#3465a4"><title>Graham Dress</title></circle></a><a href="/setts/s14/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4~x2/"><circle cx="190.0" cy="114.2" r="4" fill="#3465a4"><title>Nigeria</title></circle></a><a href="/setts/s18/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2~x2/"><circle cx="182.5" cy="87.8" r="4" fill="#3465a4"><title>Scottish Islamic</title></circle></a><a href="/setts/s16/r12lt50dt20db2dt10db4dt8db6dt6db6dt4db8dt2db32lb12db5/"><circle cx="141.8" cy="89.8" r="4" fill="#3465a4"><title>Help for Heroes Corporate Tartan Tartan Number: 10561. Earliest known date: 20/01/2012 The use of the tartan is restricted in line with a legal agreement between Help for Heroes and Lochcarron of Scotland. Woven by Lochcarron of Scotland This tartan was inspired by William McGregor and George Neil of G B Tailoring, and has been produced to raise funds for Help for Heroes. The colours represent the UK Army, Navy and Airforce See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/g2lo2g2lo2g2lo2g18k1g2k5db2k1db19w2db2w2db2w2~x2/"><circle cx="186.5" cy="88.0" r="4" fill="#3465a4"><title>Scottish Islamic (Corporate)</title></circle></a><a href="/setts/s29/w23dt2w2dt2w2dt22g12dt2g12dt10w3dt1o2dt10y8g4y8dt10o2dt1g5y23dt22w2g2w2dt2y2w2~x2/"><circle cx="165.1" cy="66.6" r="4" fill="#3465a4"><title>House of Timber Wolf (Personal)</title></circle></a><circle cx="177.3" cy="80.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s22/db4g10k2db2w14k2g2k2g2k2g2k2g2k2db25w8g4k4db3k1db3k1~x2/

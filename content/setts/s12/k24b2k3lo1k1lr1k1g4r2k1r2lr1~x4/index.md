@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3943
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Stewart, Black
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -45,10 +51,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Watt (Corporate/Name)](/setts/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4/) — ΔT 0.54
-1. [Hawes (Personal)](/setts/s10/lo2k2t3w2dr3g4k50g5dr3w2~x2/) — ΔT 0.57
-1. [Hawks (2014)](/setts/s10/ly2k2db3w2do3g4k50g5do3w2~x2/) — ΔT 0.71
+1. [Hawes (Personal)](/setts/s10/w2dr3g5k50g4dr3w2t3k2lo2~x2/) — ΔT 0.57
+1. [Hawks (2014)](/setts/s10/w2do3g5k50g4do3w2db3k2ly2~x2/) — ΔT 0.71
 1. [Stewart Black Clan Tartan Tartan Number: 1061. Earliest known date: c.1930 Count from a silk sample in the STS collection labelled Stewart See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/k48db4k8ly2k3w3k3g12r6k3r3w3~x2/) — ΔT 0.89
-1. [Hawes (2014)](/setts/s10/ly2k2t3w2do3g4k50g5do3w2~x2/) — ΔT 0.94
+1. [Hawes (2014)](/setts/s10/w2do3g5k50g4do3w2t3k2ly2~x2/) — ΔT 0.94
 1. [Longmount](/setts/s12/k48n4k6lb2k2r2k2n10o6k2o3r2~x2/) — ΔT 0.95
 1. [Clan An Caigeann (Corporate)](/setts/s12/k44ly3k4ly3k4db4w2db4r2w2dg4ly2~x2/) — ΔT 0.96
 1. [Thin Blue Line UK](/setts/s10/dt5k35b3k2r3k2g3k2w3k2~x2/) — ΔT 1.01
@@ -57,8 +63,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4/"><circle cx="446.2" cy="77.0" r="4" fill="#3465a4"><title>Watt (Corporate/Name)</title></circle></a><a href="/setts/s10/lo2k2t3w2dr3g4k50g5dr3w2~x2/"><circle cx="413.3" cy="84.7" r="4" fill="#3465a4"><title>Hawes (Personal)</title></circle></a><a href="/setts/s10/ly2k2db3w2do3g4k50g5do3w2~x2/"><circle cx="406.4" cy="81.8" r="4" fill="#3465a4"><title>Hawks (2014)</title></circle></a><a href="/setts/s12/k48db4k8ly2k3w3k3g12r6k3r3w3~x2/"><circle cx="368.3" cy="82.9" r="4" fill="#3465a4"><title>Stewart Black Clan Tartan Tartan Number: 1061. Earliest known date: c.1930 Count from a silk sample in the STS collection labelled Stewart See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/ly2k2t3w2do3g4k50g5do3w2~x2/"><circle cx="397.8" cy="77.1" r="4" fill="#3465a4"><title>Hawes (2014)</title></circle></a><a href="/setts/s12/k48n4k6lb2k2r2k2n10o6k2o3r2~x2/"><circle cx="431.3" cy="104.9" r="4" fill="#3465a4"><title>Longmount</title></circle></a><a href="/setts/s12/k44ly3k4ly3k4db4w2db4r2w2dg4ly2~x2/"><circle cx="369.6" cy="74.1" r="4" fill="#3465a4"><title>Clan An Caigeann (Corporate)</title></circle></a><a href="/setts/s10/dt5k35b3k2r3k2g3k2w3k2~x2/"><circle cx="402.1" cy="100.5" r="4" fill="#3465a4"><title>Thin Blue Line UK</title></circle></a><a href="/setts/s8/dy3k48dy5w3dy3g2g5lb3~x2/"><circle cx="387.8" cy="98.1" r="4" fill="#3465a4"><title>Pavelka Ltd</title></circle></a><a href="/setts/s13/w2db2k32dg9r2w2r2dg4k20ly1k9db2w2~x2/"><circle cx="386.7" cy="85.0" r="4" fill="#3465a4"><title>Nova Scotia Medical Examiner Service</title></circle></a><circle cx="421.4" cy="85.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4/"><circle cx="446.0" cy="76.9" r="4" fill="#3465a4"><title>Watt (Corporate/Name)</title></circle></a><a href="/setts/s10/w2dr3g5k50g4dr3w2t3k2lo2~x2/"><circle cx="413.1" cy="84.6" r="4" fill="#3465a4"><title>Hawes (Personal)</title></circle></a><a href="/setts/s10/w2do3g5k50g4do3w2db3k2ly2~x2/"><circle cx="406.2" cy="81.7" r="4" fill="#3465a4"><title>Hawks (2014)</title></circle></a><a href="/setts/s12/k48db4k8ly2k3w3k3g12r6k3r3w3~x2/"><circle cx="368.1" cy="82.8" r="4" fill="#3465a4"><title>Stewart Black Clan Tartan Tartan Number: 1061. Earliest known date: c.1930 Count from a silk sample in the STS collection labelled Stewart See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/w2do3g5k50g4do3w2t3k2ly2~x2/"><circle cx="397.6" cy="77.0" r="4" fill="#3465a4"><title>Hawes (2014)</title></circle></a><a href="/setts/s12/k48n4k6lb2k2r2k2n10o6k2o3r2~x2/"><circle cx="431.1" cy="104.8" r="4" fill="#3465a4"><title>Longmount</title></circle></a><a href="/setts/s12/k44ly3k4ly3k4db4w2db4r2w2dg4ly2~x2/"><circle cx="369.4" cy="74.0" r="4" fill="#3465a4"><title>Clan An Caigeann (Corporate)</title></circle></a><a href="/setts/s10/dt5k35b3k2r3k2g3k2w3k2~x2/"><circle cx="401.9" cy="100.3" r="4" fill="#3465a4"><title>Thin Blue Line UK</title></circle></a><a href="/setts/s8/dy3k48dy5w3dy3g2g5lb3~x2/"><circle cx="387.7" cy="98.0" r="4" fill="#3465a4"><title>Pavelka Ltd</title></circle></a><a href="/setts/s13/w2db2k32dg9r2w2r2dg4k20ly1k9db2w2~x2/"><circle cx="386.6" cy="84.9" r="4" fill="#3465a4"><title>Nova Scotia Medical Examiner Service</title></circle></a><circle cx="421.3" cy="85.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/k24b2k3lo1k1lr1k1g4r2k1r2lr1~x4/

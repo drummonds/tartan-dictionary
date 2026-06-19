@@ -2,12 +2,18 @@
 title: "Hepburn #2"
 date: 2023-03-18
 ---
-**Bands:** [BBBBYB](/stripes/bbbbyb/) · **Stripes:** [DB B DB B LY B](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DB B DB B LY B</span></span>
+**Bands:** [BYBBBB](/stripes/bybbbb/) · **Stripes:** [B LY B DB B DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="seq">B LY B DB B DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1689
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Hepburn #2
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/4 Y4 B24 Ba12 B4 Ba/52
+Ba/52 B4 Ba12 B24 Y4 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -906,7 +915,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/4 Y4 B24 Ba12 B4 Ba/52 tartan")
+![Tartan detail](tartan.png "Ba/52 B4 Ba12 B24 Y4 B/4 tartan")
 
 ## Nearest tartans
 
@@ -925,8 +934,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db12ly1t16db1t1db14t3db14ly1~x4/"><circle cx="434.1" cy="216.0" r="4" fill="#3465a4"><title>Orlando Police Department (Corporate</title></circle></a><a href="/setts/s5/b50db15w3db4w2~x2/"><circle cx="496.4" cy="207.9" r="4" fill="#3465a4"><title>Scottish Tourist Board (1990) (Corp)</title></circle></a><a href="/setts/s5/db72t6db12t17w6~x2/"><circle cx="496.8" cy="233.3" r="4" fill="#3465a4"><title>Gulfmark (Corporate)</title></circle></a><a href="/setts/s6/t52db28w3db2w2db10~x2/"><circle cx="401.9" cy="191.6" r="4" fill="#3465a4"><title>St Andrews Earl of Royal family Tartan Tartan Number: 85. Earliest known date: c.1930 Count taken from a 'MacKinlay Strip'. Prince George is reputed to have worn this tartan at a Scottish Society dinner in 1919 and kept everyone guessing the name of the tartan. However, MacKinlay's record shows the design dating to 1930. No further details can be found. The sett has much in common with the Clan Donald. Royal titles of territorial origin provide a precedent for considering tartans of the name, District tartans. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/lg6r1lg17db3lg3db8lg1~x2/"><circle cx="454.1" cy="208.0" r="4" fill="#3465a4"><title>Dominion (Fashion)</title></circle></a><a href="/setts/s7/db4w3b6db40b8db12g3~x2/"><circle cx="471.6" cy="200.9" r="4" fill="#3465a4"><title>JetBlue (Corporate)</title></circle></a><a href="/setts/s5/db24t13db4t4w2~x2/"><circle cx="365.8" cy="234.8" r="4" fill="#3465a4"><title>Gallaecia (Unofficial) (District)</title></circle></a><a href="/setts/s5/b11lo2r1lo2r1~x4/"><circle cx="396.8" cy="209.6" r="4" fill="#3465a4"><title>Carlisle Ancient</title></circle></a><a href="/setts/s6/db5t1db15t25db1t5~x4/"><circle cx="467.8" cy="225.1" r="4" fill="#3465a4"><title>Dram! (Corporate)</title></circle></a><a href="/setts/s6/db40g7ly3g7db15r5~x2/"><circle cx="428.2" cy="202.0" r="4" fill="#3465a4"><title>Wheadon (Name)</title></circle></a><circle cx="424.6" cy="224.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db12ly1t16db1t1db14t3db14ly1~x4/"><circle cx="434.0" cy="215.7" r="4" fill="#3465a4"><title>Orlando Police Department (Corporate</title></circle></a><a href="/setts/s5/b50db15w3db4w2~x2/"><circle cx="496.2" cy="207.6" r="4" fill="#3465a4"><title>Scottish Tourist Board (1990) (Corp)</title></circle></a><a href="/setts/s5/db72t6db12t17w6~x2/"><circle cx="496.7" cy="232.9" r="4" fill="#3465a4"><title>Gulfmark (Corporate)</title></circle></a><a href="/setts/s6/t52db28w3db2w2db10~x2/"><circle cx="401.7" cy="191.4" r="4" fill="#3465a4"><title>St Andrews Earl of Royal family Tartan Tartan Number: 85. Earliest known date: c.1930 Count taken from a 'MacKinlay Strip'. Prince George is reputed to have worn this tartan at a Scottish Society dinner in 1919 and kept everyone guessing the name of the tartan. However, MacKinlay's record shows the design dating to 1930. No further details can be found. The sett has much in common with the Clan Donald. Royal titles of territorial origin provide a precedent for considering tartans of the name, District tartans. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/lg6r1lg17db3lg3db8lg1~x2/"><circle cx="453.7" cy="207.7" r="4" fill="#3465a4"><title>Dominion (Fashion)</title></circle></a><a href="/setts/s7/db4w3b6db40b8db12g3~x2/"><circle cx="471.5" cy="200.6" r="4" fill="#3465a4"><title>JetBlue (Corporate)</title></circle></a><a href="/setts/s5/db24t13db4t4w2~x2/"><circle cx="365.8" cy="234.5" r="4" fill="#3465a4"><title>Gallaecia (Unofficial) (District)</title></circle></a><a href="/setts/s5/b11lo2r1lo2r1~x4/"><circle cx="396.5" cy="209.3" r="4" fill="#3465a4"><title>Carlisle Ancient</title></circle></a><a href="/setts/s6/db5t1db15t25db1t5~x4/"><circle cx="467.6" cy="224.8" r="4" fill="#3465a4"><title>Dram! (Corporate)</title></circle></a><a href="/setts/s6/db40g7ly3g7db15r5~x2/"><circle cx="428.1" cy="201.7" r="4" fill="#3465a4"><title>Wheadon (Name)</title></circle></a><circle cx="424.5" cy="224.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db13b1db3b6ly1b1~x4/

@@ -18,7 +18,7 @@ WYBBBBBBY
 
 
 
-### W LG DB DB DB DB DB DB LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W LG DB DB DB DB DB DB LY</span></span>
+### LY DB DB DB DB DB DB LG W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DB DB DB DB DB DB LG W</span></span>
 
 | Tartans |
 |---------------|

@@ -2,12 +2,19 @@
 title: "Newton Primary School"
 date: 2023-03-18
 ---
-**Bands:** [BRBWBRBRY](/stripes/brbwbrbry/) · **Stripes:** [DB R DB W DB R DB R LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB R DB W DB R DB R LY</span></span>
+**Bands:** [YRBRBWBRB](/stripes/yrbrbwbrb/) · **Stripes:** [LY R DB R DB W DB R DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY R DB R DB W DB R DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3131
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Newton Primary School
+- Newton Primary School, Dunblane
 
 ## Attestations
 
@@ -319,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -914,17 +924,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Ikelman #5 (Personal)](/setts/s12/db15g2db2w1db1w1db1w1db2g2db15r10~x4/) — ΔT 1.25
 1. [Kansas State University](/setts/s9/dp60k10dp6lr6dp6w4dp4k15dp15/) — ΔT 1.27
 1. [Masai Shuka 29 (Artefact)](/setts/s8/r5db20r3db20k6db3lb2db1~x2/) — ΔT 1.28
-1. [SPA Association (Corporate)](/setts/s10/ly1db2w1db15k4ly1db1ly1db5w1~x4/) — ΔT 1.29
-1. [Louisville Fire & Rescue P&D](/setts/s9/lo1db8r3db2r1db2r3db8w1~x4/) — ΔT 1.33
+1. [SPA Association (Corporate)](/setts/s10/w1db5ly1db1ly1k4db15w1db2ly1~x4/) — ΔT 1.29
+1. [Louisville Fire & Rescue P&D](/setts/s9/w1db8r3db2r1db2r3db8lo1~x4/) — ΔT 1.33
 1. [BC Corps of Commissionaires, The](/setts/s7/db12lb1r3lb1r3lb1db6~x4/) — ΔT 1.37
 1. [Tokyo Bluebells](/setts/s8/db18r1db1r1db1k7db13w2~x4/) — ΔT 1.39
 1. [Ottawa Fire Service (Corporate)](/setts/s11/db63lo3w3db8lo3db3w3db3r14db9lo3~x2/) — ΔT 1.41
-1. [Orlando Fire Department (Corporate)](/setts/s9/db12ly1r16db1r1db14r3db14ly1~x4/) — ΔT 1.43
+1. [Orlando Fire Department (Corporate)](/setts/s9/db12ly1r16db1r1db14r3db14ly1~x4/) — ΔT 1.42
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db32r3db3r4w3r5db4r7~x2/"><circle cx="412.5" cy="185.9" r="4" fill="#3465a4"><title>Edinburgh TIC (Corporate)</title></circle></a><a href="/setts/s12/db15g2db2w1db1w1db1w1db2g2db15r10~x4/"><circle cx="403.1" cy="152.5" r="4" fill="#3465a4"><title>Ikelman #5 (Personal)</title></circle></a><a href="/setts/s9/dp60k10dp6lr6dp6w4dp4k15dp15/"><circle cx="455.6" cy="162.4" r="4" fill="#3465a4"><title>Kansas State University</title></circle></a><a href="/setts/s8/r5db20r3db20k6db3lb2db1~x2/"><circle cx="453.3" cy="176.1" r="4" fill="#3465a4"><title>Masai Shuka 29 (Artefact)</title></circle></a><a href="/setts/s10/ly1db2w1db15k4ly1db1ly1db5w1~x4/"><circle cx="420.8" cy="148.8" r="4" fill="#3465a4"><title>SPA Association (Corporate)</title></circle></a><a href="/setts/s9/lo1db8r3db2r1db2r3db8w1~x4/"><circle cx="382.4" cy="207.6" r="4" fill="#3465a4"><title>Louisville Fire &amp; Rescue P&amp;D</title></circle></a><a href="/setts/s7/db12lb1r3lb1r3lb1db6~x4/"><circle cx="406.7" cy="208.6" r="4" fill="#3465a4"><title>BC Corps of Commissionaires, The</title></circle></a><a href="/setts/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="460.6" cy="168.8" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><a href="/setts/s11/db63lo3w3db8lo3db3w3db3r14db9lo3~x2/"><circle cx="483.0" cy="119.5" r="4" fill="#3465a4"><title>Ottawa Fire Service (Corporate)</title></circle></a><a href="/setts/s9/db12ly1r16db1r1db14r3db14ly1~x4/"><circle cx="420.4" cy="191.1" r="4" fill="#3465a4"><title>Orlando Fire Department (Corporate)</title></circle></a><circle cx="427.3" cy="161.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db32r3db3r4w3r5db4r7~x2/"><circle cx="412.2" cy="185.6" r="4" fill="#3465a4"><title>Edinburgh TIC (Corporate)</title></circle></a><a href="/setts/s12/db15g2db2w1db1w1db1w1db2g2db15r10~x4/"><circle cx="403.0" cy="152.3" r="4" fill="#3465a4"><title>Ikelman #5 (Personal)</title></circle></a><a href="/setts/s9/dp60k10dp6lr6dp6w4dp4k15dp15/"><circle cx="455.4" cy="162.1" r="4" fill="#3465a4"><title>Kansas State University</title></circle></a><a href="/setts/s8/r5db20r3db20k6db3lb2db1~x2/"><circle cx="453.2" cy="175.9" r="4" fill="#3465a4"><title>Masai Shuka 29 (Artefact)</title></circle></a><a href="/setts/s10/w1db5ly1db1ly1k4db15w1db2ly1~x4/"><circle cx="420.7" cy="148.5" r="4" fill="#3465a4"><title>SPA Association (Corporate)</title></circle></a><a href="/setts/s9/w1db8r3db2r1db2r3db8lo1~x4/"><circle cx="382.3" cy="207.3" r="4" fill="#3465a4"><title>Louisville Fire &amp; Rescue P&amp;D</title></circle></a><a href="/setts/s7/db12lb1r3lb1r3lb1db6~x4/"><circle cx="406.5" cy="208.3" r="4" fill="#3465a4"><title>BC Corps of Commissionaires, The</title></circle></a><a href="/setts/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="460.5" cy="168.5" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><a href="/setts/s11/db63lo3w3db8lo3db3w3db3r14db9lo3~x2/"><circle cx="482.7" cy="119.3" r="4" fill="#3465a4"><title>Ottawa Fire Service (Corporate)</title></circle></a><a href="/setts/s9/db12ly1r16db1r1db14r3db14ly1~x4/"><circle cx="420.2" cy="190.8" r="4" fill="#3465a4"><title>Orlando Fire Department (Corporate)</title></circle></a><circle cx="427.1" cy="161.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/db26r3db3w2db3r3db6r6ly2~x4/

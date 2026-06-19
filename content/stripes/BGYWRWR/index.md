@@ -20,7 +20,7 @@ BGYWRWR
 
 
 
-### DT G LY LB R W R <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DT G LY LB R W R</span></span>
+### R W R LB LY G DT <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="seq">R W R LB LY G DT</span></span>
 
 | Tartans |
 |---------------|

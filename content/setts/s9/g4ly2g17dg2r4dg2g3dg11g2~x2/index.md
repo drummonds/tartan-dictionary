@@ -2,12 +2,18 @@
 title: "Armagh"
 date: 2023-03-18
 ---
-**Bands:** [GGGGRGGYG](/stripes/ggggrggyg/) · **Stripes:** [G DG G DG R DG G LY G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G DG G DG R DG G LY G</span></span>
+**Bands:** [GYGGRGGGG](/stripes/gyggrgggg/) · **Stripes:** [G LY G DG R DG G DG G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G LY G DG R DG G DG G</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Armagh Irish County
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/4 DG22 G6 DG4 R8 DG4 G34 Y4 G/8
+G/8 Y4 G34 DG4 R8 DG4 G6 DG22 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -910,20 +919,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Daks, Muted Loden](/setts/s8/o5g12dg4r4dg27g3dg4o5/) — ΔT 0.96
-1. [Hunting Kenmore](/setts/s7/ly2dg2g19dg2g2dg19r2~x2/) — ΔT 1.00
-1. [Dublin](/setts/s12/g3dr3g3dr16g3dr3g3m5g18r2g8r3~x2/) — ΔT 1.31
+1. [Hunting Kenmore](/setts/s7/r2dg19g2dg2g19dg2ly2~x2/) — ΔT 1.00
+1. [Dublin](/setts/s12/r3g8r2g18m5g3dr3g3dr16g3dr3g3~x2/) — ΔT 1.31
 1. [Paton (Personal)](/setts/s7/r3g20k20g20lo2g2lo2~x2/) — ΔT 1.31
 1. [Freedom of Derry](/setts/s7/g14ly7g14dg50g64w6g7/) — ΔT 1.37
 1. [Daks (Muted Loden)](/setts/s8/dy3g6dg2r2dg14g2dg2dy3~x2/) — ΔT 1.41
 1. [MacKintosh, hunting](/setts/s7/db1r3g11r2db5g11ly1~x2/) — ΔT 1.42
 1. [Invertere (Daks #2) (Fashion)](/setts/s8/ly5g14dy4db4dy27g3dy4ly5~x2/) — ΔT 1.47
 1. [Ayrton, Laoch](/setts/s10/r1g6ly1g6db1g1db1g1db2r1~x4/) — ΔT 1.48
-1. [Campbell-Simpson (Personal)](/setts/s10/g12k2g2dg9g4k2g4dg9g2k2~x4/) — ΔT 1.48
+1. [Campbell-Simpson (Personal)](/setts/s10/g12k2g2dg9g4k2~x4/) — ΔT 1.48
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/o5g12dg4r4dg27g3dg4o5/"><circle cx="292.4" cy="207.6" r="4" fill="#3465a4"><title>Daks, Muted Loden</title></circle></a><a href="/setts/s7/ly2dg2g19dg2g2dg19r2~x2/"><circle cx="306.3" cy="208.4" r="4" fill="#3465a4"><title>Hunting Kenmore</title></circle></a><a href="/setts/s12/g3dr3g3dr16g3dr3g3m5g18r2g8r3~x2/"><circle cx="292.2" cy="192.7" r="4" fill="#3465a4"><title>Dublin</title></circle></a><a href="/setts/s7/r3g20k20g20lo2g2lo2~x2/"><circle cx="347.8" cy="221.5" r="4" fill="#3465a4"><title>Paton (Personal)</title></circle></a><a href="/setts/s7/g14ly7g14dg50g64w6g7/"><circle cx="337.2" cy="205.4" r="4" fill="#3465a4"><title>Freedom of Derry</title></circle></a><a href="/setts/s8/dy3g6dg2r2dg14g2dg2dy3~x2/"><circle cx="297.0" cy="234.1" r="4" fill="#3465a4"><title>Daks (Muted Loden)</title></circle></a><a href="/setts/s7/db1r3g11r2db5g11ly1~x2/"><circle cx="365.5" cy="217.6" r="4" fill="#3465a4"><title>MacKintosh, hunting</title></circle></a><a href="/setts/s8/ly5g14dy4db4dy27g3dy4ly5~x2/"><circle cx="278.7" cy="194.5" r="4" fill="#3465a4"><title>Invertere (Daks #2) (Fashion)</title></circle></a><a href="/setts/s10/r1g6ly1g6db1g1db1g1db2r1~x4/"><circle cx="355.9" cy="218.3" r="4" fill="#3465a4"><title>Ayrton, Laoch</title></circle></a><a href="/setts/s10/g12k2g2dg9g4k2g4dg9g2k2~x4/"><circle cx="275.3" cy="256.4" r="4" fill="#3465a4"><title>Campbell-Simpson (Personal)</title></circle></a><circle cx="304.3" cy="209.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/o5g12dg4r4dg27g3dg4o5/"><circle cx="292.3" cy="207.5" r="4" fill="#3465a4"><title>Daks, Muted Loden</title></circle></a><a href="/setts/s7/r2dg19g2dg2g19dg2ly2~x2/"><circle cx="306.2" cy="208.3" r="4" fill="#3465a4"><title>Hunting Kenmore</title></circle></a><a href="/setts/s12/r3g8r2g18m5g3dr3g3dr16g3dr3g3~x2/"><circle cx="292.0" cy="192.6" r="4" fill="#3465a4"><title>Dublin</title></circle></a><a href="/setts/s7/r3g20k20g20lo2g2lo2~x2/"><circle cx="347.8" cy="221.4" r="4" fill="#3465a4"><title>Paton (Personal)</title></circle></a><a href="/setts/s7/g14ly7g14dg50g64w6g7/"><circle cx="337.0" cy="205.1" r="4" fill="#3465a4"><title>Freedom of Derry</title></circle></a><a href="/setts/s8/dy3g6dg2r2dg14g2dg2dy3~x2/"><circle cx="296.9" cy="234.1" r="4" fill="#3465a4"><title>Daks (Muted Loden)</title></circle></a><a href="/setts/s7/db1r3g11r2db5g11ly1~x2/"><circle cx="365.2" cy="217.4" r="4" fill="#3465a4"><title>MacKintosh, hunting</title></circle></a><a href="/setts/s8/ly5g14dy4db4dy27g3dy4ly5~x2/"><circle cx="278.5" cy="194.4" r="4" fill="#3465a4"><title>Invertere (Daks #2) (Fashion)</title></circle></a><a href="/setts/s10/r1g6ly1g6db1g1db1g1db2r1~x4/"><circle cx="355.6" cy="218.1" r="4" fill="#3465a4"><title>Ayrton, Laoch</title></circle></a><a href="/setts/s10/g12k2g2dg9g4k2~x4/"><circle cx="275.2" cy="256.3" r="4" fill="#3465a4"><title>Campbell-Simpson (Personal)</title></circle></a><circle cx="304.1" cy="209.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/g4ly2g17dg2r4dg2g3dg11g2~x2/

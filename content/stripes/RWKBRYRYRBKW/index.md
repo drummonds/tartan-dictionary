@@ -22,6 +22,6 @@ RWKBRYRYRBKW
 
 | Tartans |
 |---------------|
-| [Solberg-Wormald (Personal)](/setts/s12/r155lb16k34db48r18ly6r9ly6r18db48k34lb16/)|
-|![Solberg-Wormald (Personal) example sett](/setts/s12/r155lb16k34db48r18ly6r9ly6r18db48k34lb16/sett.png)|
+| [Solberg-Wormald (Personal)](/setts/s12/r155lb16k34db48r18ly6r9/)|
+|![Solberg-Wormald (Personal) example sett](/setts/s12/r155lb16k34db48r18ly6r9/sett.png)|
 

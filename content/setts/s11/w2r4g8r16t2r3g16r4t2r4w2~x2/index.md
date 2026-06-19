@@ -2,12 +2,18 @@
 title: "MacKinnon 7"
 date: 2023-03-18
 ---
-**Bands:** [WRBRGRBRGRW](/stripes/wrbrgrbrgrw/) · **Stripes:** [W R T R G R T R G R W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R T R G R T R G R W</span></span>
+**Bands:** [WRGRBRGRBRW](/stripes/wrgrbrgrbrw/) · **Stripes:** [W R G R T R G R T R W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R G R T R G R T R W</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacKinnon #10
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 R8 B4 R8 G32 R6 B4 R32 G16 R8 LN/4
+LN/4 R8 G16 R32 B4 R6 G32 R8 B4 R8 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -908,15 +917,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Burns](/setts/s12/r3g3r3g14r3g3r3db5r18ly2r8ly2~x2/) — ΔT 0.94
 1. [Bird of Paradise (Fashion)](/setts/s12/lo28r3lo3db5lo3g3r3g12r3g3lo6db3~x2/) — ΔT 0.95
 1. [Burnett](/setts/s8/r4g14ly3g14r4g3r29y4~x2/) — ΔT 0.99
-1. [Bruce (Vestiarium)](/setts/s11/ly1r8g2r2g6r1g6r2g2r8w1~x4/) — ΔT 1.01
+1. [Bruce (Vestiarium)](/setts/s11/w1r8g2r2g6r1g6r2g2r8ly1~x4/) — ΔT 1.01
 1. [Matheson](/setts/s13/r2g2r12db10t3g10r2g2r2g10r12g2r2~x2/) — ΔT 1.06
-1. [Bruce County](/setts/s12/ly1r8g2r2g6r1g6r2g2r7db1w1~x2/) — ΔT 1.06
-1. [Bruce County](/setts/s12/lo1r8g2r2g6r1g6r2g2r7db1w1~x4/) — ΔT 1.12
+1. [Bruce County](/setts/s12/w1db1r7g2r2g6r1g6r2g2r8ly1~x2/) — ΔT 1.06
+1. [Bruce County](/setts/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/) — ΔT 1.12
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w2r4dg8r16t2r3dg16r4t2r4w2~x2/"><circle cx="260.3" cy="173.6" r="4" fill="#3465a4"><title>MacKinnon #10</title></circle></a><a href="/setts/s10/r5w2g3w2r10g10r2w1r2dg1~x4/"><circle cx="262.2" cy="177.8" r="4" fill="#3465a4"><title>Glenfinnan (Fashion)</title></circle></a><a href="/setts/s12/r1t1r6db3r1g6r1g6r6db1r1t1~x2/"><circle cx="240.3" cy="200.6" r="4" fill="#3465a4"><title>MacQuarrie 4</title></circle></a><a href="/setts/s12/r3g3r3g14r3g3r3db5r18ly2r8ly2~x2/"><circle cx="311.3" cy="173.4" r="4" fill="#3465a4"><title>Burns</title></circle></a><a href="/setts/s12/lo28r3lo3db5lo3g3r3g12r3g3lo6db3~x2/"><circle cx="297.5" cy="157.1" r="4" fill="#3465a4"><title>Bird of Paradise (Fashion)</title></circle></a><a href="/setts/s8/r4g14ly3g14r4g3r29y4~x2/"><circle cx="308.9" cy="194.0" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/setts/s11/ly1r8g2r2g6r1g6r2g2r8w1~x4/"><circle cx="305.2" cy="195.5" r="4" fill="#3465a4"><title>Bruce (Vestiarium)</title></circle></a><a href="/setts/s13/r2g2r12db10t3g10r2g2r2g10r12g2r2~x2/"><circle cx="226.7" cy="200.3" r="4" fill="#3465a4"><title>Matheson</title></circle></a><a href="/setts/s12/ly1r8g2r2g6r1g6r2g2r7db1w1~x2/"><circle cx="264.1" cy="173.2" r="4" fill="#3465a4"><title>Bruce County</title></circle></a><a href="/setts/s12/lo1r8g2r2g6r1g6r2g2r7db1w1~x4/"><circle cx="264.7" cy="172.6" r="4" fill="#3465a4"><title>Bruce County</title></circle></a><circle cx="265.5" cy="179.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w2r4dg8r16t2r3dg16r4t2r4w2~x2/"><circle cx="259.9" cy="173.5" r="4" fill="#3465a4"><title>MacKinnon #10</title></circle></a><a href="/setts/s10/r5w2g3w2r10g10r2w1r2dg1~x4/"><circle cx="261.9" cy="177.7" r="4" fill="#3465a4"><title>Glenfinnan (Fashion)</title></circle></a><a href="/setts/s12/r1t1r6db3r1g6r1g6r6db1r1t1~x2/"><circle cx="240.1" cy="200.6" r="4" fill="#3465a4"><title>MacQuarrie 4</title></circle></a><a href="/setts/s12/r3g3r3g14r3g3r3db5r18ly2r8ly2~x2/"><circle cx="310.9" cy="173.3" r="4" fill="#3465a4"><title>Burns</title></circle></a><a href="/setts/s12/lo28r3lo3db5lo3g3r3g12r3g3lo6db3~x2/"><circle cx="297.0" cy="157.0" r="4" fill="#3465a4"><title>Bird of Paradise (Fashion)</title></circle></a><a href="/setts/s8/r4g14ly3g14r4g3r29y4~x2/"><circle cx="308.6" cy="193.9" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/setts/s11/w1r8g2r2g6r1g6r2g2r8ly1~x4/"><circle cx="304.8" cy="195.4" r="4" fill="#3465a4"><title>Bruce (Vestiarium)</title></circle></a><a href="/setts/s13/r2g2r12db10t3g10r2g2r2g10r12g2r2~x2/"><circle cx="226.4" cy="200.3" r="4" fill="#3465a4"><title>Matheson</title></circle></a><a href="/setts/s12/w1db1r7g2r2g6r1g6r2g2r8ly1~x2/"><circle cx="263.8" cy="173.1" r="4" fill="#3465a4"><title>Bruce County</title></circle></a><a href="/setts/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/"><circle cx="264.4" cy="172.5" r="4" fill="#3465a4"><title>Bruce County</title></circle></a><circle cx="265.2" cy="179.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/w2r4g8r16t2r3g16r4t2r4w2~x2/

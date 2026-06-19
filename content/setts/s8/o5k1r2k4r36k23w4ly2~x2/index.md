@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -908,20 +911,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Aberdeen Football Club (1999)](/setts/s8/r5k1r2k4r36k23w4ly2~x2/) — ΔT 0.86
-1. [Marjoribanks](/setts/s8/ly3r2w1r40k36w3k3w3~x2/) — ΔT 1.05
-1. [Marjoribanks (Clan)](/setts/s8/lo3r2w1r40k37w3k3w3~x2/) — ΔT 1.14
+1. [Marjoribanks](/setts/s8/w3k3w3k36r40w1r2ly3~x2/) — ΔT 1.05
+1. [Marjoribanks (Clan)](/setts/s8/w3k3w3k37r40w1r2lo3~x2/) — ΔT 1.14
 1. [Sutherland de Albergaria (Personal)](/setts/s8/w10k2w2k66ly6r48k5r8/) — ΔT 1.16
 1. [Cunningham #3](/setts/s7/k3r1k30r28db1r1w3~x2/) — ΔT 1.24
 1. [Barbecue Plaid](/setts/s8/r45k2r2k28w16r4k4lo2/) — ΔT 1.28
 1. [Livingstone, MacLay MacLeay](/setts/s7/r28g4k4g4k4t6ly1~x2/) — ΔT 1.29
-1. [Leslie Dress](/setts/s8/r4k6ly1k6r4db16r32db1/) — ΔT 1.35
+1. [Leslie Dress](/setts/s8/r4k6ly1k6r4db16r32db1~x2/) — ΔT 1.35
 1. [Cunningham](/setts/s7/k3r1k30r28db1r1lb3~x2/) — ΔT 1.38
 1. [Leslie](/setts/s8/r4k6ly1k6r4db16r32k1~x2/) — ΔT 1.40
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r5k1r2k4r36k23w4ly2~x2/"><circle cx="316.9" cy="87.9" r="4" fill="#3465a4"><title>Aberdeen Football Club (1999)</title></circle></a><a href="/setts/s8/ly3r2w1r40k36w3k3w3~x2/"><circle cx="321.1" cy="93.5" r="4" fill="#3465a4"><title>Marjoribanks</title></circle></a><a href="/setts/s8/lo3r2w1r40k37w3k3w3~x2/"><circle cx="328.8" cy="93.6" r="4" fill="#3465a4"><title>Marjoribanks (Clan)</title></circle></a><a href="/setts/s8/w10k2w2k66ly6r48k5r8/"><circle cx="321.5" cy="107.2" r="4" fill="#3465a4"><title>Sutherland de Albergaria (Personal)</title></circle></a><a href="/setts/s7/k3r1k30r28db1r1w3~x2/"><circle cx="350.3" cy="117.9" r="4" fill="#3465a4"><title>Cunningham #3</title></circle></a><a href="/setts/s8/r45k2r2k28w16r4k4lo2/"><circle cx="284.0" cy="114.3" r="4" fill="#3465a4"><title>Barbecue Plaid</title></circle></a><a href="/setts/s7/r28g4k4g4k4t6ly1~x2/"><circle cx="310.3" cy="107.2" r="4" fill="#3465a4"><title>Livingstone, MacLay MacLeay</title></circle></a><a href="/setts/s8/r4k6ly1k6r4db16r32db1/"><circle cx="353.2" cy="117.5" r="4" fill="#3465a4"><title>Leslie Dress</title></circle></a><a href="/setts/s7/k3r1k30r28db1r1lb3~x2/"><circle cx="340.9" cy="119.6" r="4" fill="#3465a4"><title>Cunningham</title></circle></a><a href="/setts/s8/r4k6ly1k6r4db16r32k1~x2/"><circle cx="360.5" cy="119.5" r="4" fill="#3465a4"><title>Leslie</title></circle></a><circle cx="300.8" cy="84.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r5k1r2k4r36k23w4ly2~x2/"><circle cx="316.6" cy="87.8" r="4" fill="#3465a4"><title>Aberdeen Football Club (1999)</title></circle></a><a href="/setts/s8/w3k3w3k36r40w1r2ly3~x2/"><circle cx="320.8" cy="93.4" r="4" fill="#3465a4"><title>Marjoribanks</title></circle></a><a href="/setts/s8/w3k3w3k37r40w1r2lo3~x2/"><circle cx="328.5" cy="93.4" r="4" fill="#3465a4"><title>Marjoribanks (Clan)</title></circle></a><a href="/setts/s8/w10k2w2k66ly6r48k5r8/"><circle cx="321.3" cy="107.1" r="4" fill="#3465a4"><title>Sutherland de Albergaria (Personal)</title></circle></a><a href="/setts/s7/k3r1k30r28db1r1w3~x2/"><circle cx="350.0" cy="117.7" r="4" fill="#3465a4"><title>Cunningham #3</title></circle></a><a href="/setts/s8/r45k2r2k28w16r4k4lo2/"><circle cx="283.7" cy="114.2" r="4" fill="#3465a4"><title>Barbecue Plaid</title></circle></a><a href="/setts/s7/r28g4k4g4k4t6ly1~x2/"><circle cx="310.0" cy="107.1" r="4" fill="#3465a4"><title>Livingstone, MacLay MacLeay</title></circle></a><a href="/setts/s8/r4k6ly1k6r4db16r32db1~x2/"><circle cx="353.0" cy="117.3" r="4" fill="#3465a4"><title>Leslie Dress</title></circle></a><a href="/setts/s7/k3r1k30r28db1r1lb3~x2/"><circle cx="340.7" cy="119.5" r="4" fill="#3465a4"><title>Cunningham</title></circle></a><a href="/setts/s8/r4k6ly1k6r4db16r32k1~x2/"><circle cx="360.2" cy="119.4" r="4" fill="#3465a4"><title>Leslie</title></circle></a><circle cx="300.6" cy="84.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/o5k1r2k4r36k23w4ly2~x2/

@@ -18,10 +18,10 @@ BRBGBGBRBWBKBRBRK
 
 
 
-### DB R DB DG DB DG DB R DB W DB K DB R DB R K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">DB R DB DG DB DG DB R DB W DB K DB R DB R K</span></span>
+### K R DB R DB K DB W DB R DB DG DB DG DB R DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">K R DB R DB K DB W DB R DB DG DB DG DB R DB</span></span>
 
 | Tartans |
 |---------------|
-| [Isla Grant (Personal)](/setts/s17/db4r3db3dg11db3dg3db3r4db3w3db3k3db5r3db3r2k4~x2/)|
-|![Isla Grant (Personal) example sett](/setts/s17/db4r3db3dg11db3dg3db3r4db3w3db3k3db5r3db3r2k4~x2/sett.png)|
+| [Isla Grant (Personal)](/setts/s17/k4r2db3r3db5k3db3w3db3r4db3dg3db3dg11db3r3db4~x2/)|
+|![Isla Grant (Personal) example sett](/setts/s17/k4r2db3r3db5k3db3w3db3r4db3dg3db3dg11db3r3db4~x2/sett.png)|
 

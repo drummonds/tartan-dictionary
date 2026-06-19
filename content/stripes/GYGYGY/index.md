@@ -8,7 +8,7 @@ GYGYGY
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/lo3y20lo20y20lo3y3~x2/tartan.png)
+![Woven sample](/setts/s6/y3lo3y20lo20y20lo3~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ GYGYGY
 
 
 
-### Y LO Y LO Y LO <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">Y LO Y LO Y LO</span></span>
+### LO Y LO Y LO Y <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LO Y LO Y LO Y</span></span>
 
 | Tartans |
 |---------------|
-| [Barbie's Moss Plaid (Yellow & Green)](/setts/s6/lo3y20lo20y20lo3y3~x2/)|
-|![Barbie's Moss Plaid (Yellow & Green) example sett](/setts/s6/lo3y20lo20y20lo3y3~x2/sett.png)|
+| [Barbie's Moss Plaid (Yellow & Green)](/setts/s6/y3lo3y20lo20y20lo3~x2/)|
+|![Barbie's Moss Plaid (Yellow & Green) example sett](/setts/s6/y3lo3y20lo20y20lo3~x2/sett.png)|
 

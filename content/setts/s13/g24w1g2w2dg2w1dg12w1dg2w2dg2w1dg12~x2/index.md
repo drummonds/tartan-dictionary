@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2378
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacDonald, Lord of the Isles Htg #2
+- MacDonald, Lord of the Isles Hunting
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -319,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -893,7 +903,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DG/24 LN2 DG4 LN4 DG4 LN2 DG24 LN2 DG4 LN4 G4 LN2 G/48
+G/48 LN2 G4 LN4 DG4 LN2 DG24 LN2 DG4 LN4 DG4 LN2 DG/24
 ![Sett](sett.png)
 
 ## Palette
@@ -911,19 +921,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacDonald, Lord of the Isles](/setts/s13/g24w1g2w2db2w1db1w1db2w2db2w1db12~x2/) — ΔT 1.25
 1. [Kelso (Fashion)](/setts/s12/lr12y3lr3dg4lr16y3lr3y3lr3y16dg52lr4/) — ΔT 1.36
-1. [Johnston/Johnstone](/setts/s14/ly3g2k1g30b24k2b2k2b2k2b24g30k1g2~x2/) — ΔT 1.36
+1. [Johnston/Johnstone](/setts/s14/ly3g2k1g30b24k2b2k2~x2/) — ΔT 1.36
 1. [Hammarby Football Club](/setts/s14/k1lo2k18lb2g2lb2g2lb2g2lb2g22k1lo2k1~x2/) — ΔT 1.38
 1. [Smeaton Hunting (Name)](/setts/s10/k6g4lb3g44k32g3k3lo3k2g3~x2/) — ΔT 1.49
 1. [Grand Lodge of Scotland (Corporate)](/setts/s10/db1k2db1k6db1k1g1k6g21ly1~x2/) — ΔT 1.53
 1. [Johnston (Clan)](/setts/s8/ly3g2k1g30b24k2b2k2~x2/) — ΔT 1.53
-1. [Kelvingrove](/setts/s14/k16b1k1b1k1b9g18b1g18b9k1b1k1b1~x4/) — ΔT 1.54
+1. [Kelvingrove](/setts/s14/k16b1k1b1k1b9g18b1~x4/) — ΔT 1.54
 1. [Currie of Balilone (Variant Franklin)](/setts/s13/dg30k1dg2lo2k2w1k12w1k2w2k2w1k6~x2/) — ΔT 1.54
 1. [Johnston / Johnstone](/setts/s8/ly3g2k1g30db24k2db2k2~x2/) — ΔT 1.54
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g24w1g2w2db2w1db1w1db2w2db2w1db12~x2/"><circle cx="328.4" cy="120.0" r="4" fill="#3465a4"><title>MacDonald, Lord of the Isles</title></circle></a><a href="/setts/s12/lr12y3lr3dg4lr16y3lr3y3lr3y16dg52lr4/"><circle cx="289.6" cy="141.2" r="4" fill="#3465a4"><title>Kelso (Fashion)</title></circle></a><a href="/setts/s14/ly3g2k1g30b24k2b2k2b2k2b24g30k1g2~x2/"><circle cx="344.3" cy="128.8" r="4" fill="#3465a4"><title>Johnston/Johnstone</title></circle></a><a href="/setts/s14/k1lo2k18lb2g2lb2g2lb2g2lb2g22k1lo2k1~x2/"><circle cx="275.6" cy="106.8" r="4" fill="#3465a4"><title>Hammarby Football Club</title></circle></a><a href="/setts/s10/k6g4lb3g44k32g3k3lo3k2g3~x2/"><circle cx="360.7" cy="146.0" r="4" fill="#3465a4"><title>Smeaton Hunting (Name)</title></circle></a><a href="/setts/s10/db1k2db1k6db1k1g1k6g21ly1~x2/"><circle cx="366.1" cy="148.0" r="4" fill="#3465a4"><title>Grand Lodge of Scotland (Corporate)</title></circle></a><a href="/setts/s8/ly3g2k1g30b24k2b2k2~x2/"><circle cx="331.5" cy="141.5" r="4" fill="#3465a4"><title>Johnston (Clan)</title></circle></a><a href="/setts/s14/k16b1k1b1k1b9g18b1g18b9k1b1k1b1~x4/"><circle cx="268.1" cy="150.6" r="4" fill="#3465a4"><title>Kelvingrove</title></circle></a><a href="/setts/s13/dg30k1dg2lo2k2w1k12w1k2w2k2w1k6~x2/"><circle cx="342.6" cy="106.5" r="4" fill="#3465a4"><title>Currie of Balilone (Variant Franklin)</title></circle></a><a href="/setts/s8/ly3g2k1g30db24k2db2k2~x2/"><circle cx="324.6" cy="135.6" r="4" fill="#3465a4"><title>Johnston / Johnstone</title></circle></a><circle cx="328.9" cy="143.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g24w1g2w2db2w1db1w1db2w2db2w1db12~x2/"><circle cx="328.1" cy="119.9" r="4" fill="#3465a4"><title>MacDonald, Lord of the Isles</title></circle></a><a href="/setts/s12/lr12y3lr3dg4lr16y3lr3y3lr3y16dg52lr4/"><circle cx="289.4" cy="141.0" r="4" fill="#3465a4"><title>Kelso (Fashion)</title></circle></a><a href="/setts/s14/ly3g2k1g30b24k2b2k2~x2/"><circle cx="344.0" cy="128.8" r="4" fill="#3465a4"><title>Johnston/Johnstone</title></circle></a><a href="/setts/s14/k1lo2k18lb2g2lb2g2lb2g2lb2g22k1lo2k1~x2/"><circle cx="275.4" cy="106.7" r="4" fill="#3465a4"><title>Hammarby Football Club</title></circle></a><a href="/setts/s10/k6g4lb3g44k32g3k3lo3k2g3~x2/"><circle cx="360.5" cy="145.8" r="4" fill="#3465a4"><title>Smeaton Hunting (Name)</title></circle></a><a href="/setts/s10/db1k2db1k6db1k1g1k6g21ly1~x2/"><circle cx="365.9" cy="147.9" r="4" fill="#3465a4"><title>Grand Lodge of Scotland (Corporate)</title></circle></a><a href="/setts/s8/ly3g2k1g30b24k2b2k2~x2/"><circle cx="331.3" cy="141.4" r="4" fill="#3465a4"><title>Johnston (Clan)</title></circle></a><a href="/setts/s14/k16b1k1b1k1b9g18b1~x4/"><circle cx="268.1" cy="150.4" r="4" fill="#3465a4"><title>Kelvingrove</title></circle></a><a href="/setts/s13/dg30k1dg2lo2k2w1k12w1k2w2k2w1k6~x2/"><circle cx="342.5" cy="106.4" r="4" fill="#3465a4"><title>Currie of Balilone (Variant Franklin)</title></circle></a><a href="/setts/s8/ly3g2k1g30db24k2db2k2~x2/"><circle cx="324.4" cy="135.4" r="4" fill="#3465a4"><title>Johnston / Johnstone</title></circle></a><circle cx="328.7" cy="143.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/g24w1g2w2dg2w1dg12w1dg2w2dg2w1dg12~x2/

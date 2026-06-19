@@ -22,6 +22,6 @@ RGWGRGWWYWYWY
 
 | Tartans |
 |---------------|
-| [Pille Family (Personal)](/setts/s13/ly4lb8ly2lb8lg20lb4w5g1r2g1w5g1r4~x2/)|
-|![Pille Family (Personal) example sett](/setts/s13/ly4lb8ly2lb8lg20lb4w5g1r2g1w5g1r4~x2/sett.png)|
+| [Pille Family (Personal)](/setts/s13/r4g1w5g1r2g1w5lb4lg20lb8ly2lb8ly4~x2/)|
+|![Pille Family (Personal) example sett](/setts/s13/r4g1w5g1r2g1w5lb4lg20lb8ly2lb8ly4~x2/sett.png)|
 

@@ -21,14 +21,14 @@ BYGGR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DP LO DY G R <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">DP LO DY G R</span></span>
+### R G DY LO DP <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R G DY LO DP</span></span>
 
 | Tartans |
 |---------------|
 | [Clare (Prince George) (Personal)](/setts/s5/dp5lo5dy13g41r3~x2/)|
 |![Clare (Prince George) (Personal) example sett](/setts/s5/dp5lo5dy13g41r3~x2/sett.png)|
 
-### DT LO DY G R <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">DT LO DY G R</span></span>
+### R G DY LO DT <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="seq">R G DY LO DT</span></span>
 
 | Tartans |
 |---------------|

@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3887
 
+## Also known as
+
+This cloth is also recorded under:
+
+- St. Columba
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -58,13 +64,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Stirling University Corporate Tartan Tartan Number: 2074. Earliest known date: Aug 1992 This is a simplified Stirling and Bannockburn district sett with the Universities 'Green and Grey' striped through the black. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/g28r4k3o2k1dg2r3db20ly2~x2/) — ΔT 1.08
 1. [Begg (Personal)](/setts/s9/p4g30db12g3db2t3db26dp4db2/) — ΔT 1.09
 1. [MacLeroy and Troine 1987](/setts/s10/k4t6w4t6do8t37lr12do46o6lo4/) — ΔT 1.09
-1. [Anne Arundel County](/setts/s8/g4dt7db33k9o2k9o10r4~x2/) — ΔT 1.09
+1. [Anne Arundel County](/setts/s8/r4o10k9o2k9db33dt7g4~x2/) — ΔT 1.09
 1. [Unidentified (ex Tony Murray)](/setts/s9/w2db20dg2dg2dg2dg5dg8ly2r1~x2/) — ΔT 1.11
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db24r8g8r2g8k1ly2~x2/"><circle cx="204.8" cy="118.4" r="4" fill="#3465a4"><title>Scout Mapping Service #1 (Corporate)</title></circle></a><a href="/setts/s8/db39dy3k14dy3t14ly4w2dy2~x2/"><circle cx="231.5" cy="114.7" r="4" fill="#3465a4"><title>Unidentified Lady's kilt</title></circle></a><a href="/setts/s9/db20y1w1lo3y4g10n4y1dp4~x2/"><circle cx="177.3" cy="101.7" r="4" fill="#3465a4"><title>St. Columba (two greens) (Corporate)</title></circle></a><a href="/setts/s9/dg28r4k3y2k1dg2r3db20ly2~x2/"><circle cx="247.7" cy="99.5" r="4" fill="#3465a4"><title>Stirling University</title></circle></a><a href="/setts/s8/db11dt5g4w3r3k16dt28lb2~x2/"><circle cx="195.3" cy="146.8" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/setts/s9/g28r4k3o2k1dg2r3db20ly2~x2/"><circle cx="234.3" cy="92.3" r="4" fill="#3465a4"><title>Stirling University Corporate Tartan Tartan Number: 2074. Earliest known date: Aug 1992 This is a simplified Stirling and Bannockburn district sett with the Universities 'Green and Grey' striped through the black. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/p4g30db12g3db2t3db26dp4db2/"><circle cx="182.9" cy="140.9" r="4" fill="#3465a4"><title>Begg (Personal)</title></circle></a><a href="/setts/s10/k4t6w4t6do8t37lr12do46o6lo4/"><circle cx="183.8" cy="127.1" r="4" fill="#3465a4"><title>MacLeroy and Troine 1987</title></circle></a><a href="/setts/s8/g4dt7db33k9o2k9o10r4~x2/"><circle cx="196.3" cy="143.0" r="4" fill="#3465a4"><title>Anne Arundel County</title></circle></a><a href="/setts/s9/w2db20dg2dg2dg2dg5dg8ly2r1~x2/"><circle cx="237.6" cy="123.6" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><circle cx="206.6" cy="120.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db24r8g8r2g8k1ly2~x2/"><circle cx="204.8" cy="118.5" r="4" fill="#3465a4"><title>Scout Mapping Service #1 (Corporate)</title></circle></a><a href="/setts/s8/db39dy3k14dy3t14ly4w2dy2~x2/"><circle cx="231.5" cy="114.8" r="4" fill="#3465a4"><title>Unidentified Lady's kilt</title></circle></a><a href="/setts/s9/db20y1w1lo3y4g10n4y1dp4~x2/"><circle cx="177.3" cy="102.0" r="4" fill="#3465a4"><title>St. Columba (two greens) (Corporate)</title></circle></a><a href="/setts/s9/dg28r4k3y2k1dg2r3db20ly2~x2/"><circle cx="247.7" cy="99.7" r="4" fill="#3465a4"><title>Stirling University</title></circle></a><a href="/setts/s8/db11dt5g4w3r3k16dt28lb2~x2/"><circle cx="195.4" cy="146.9" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/setts/s9/g28r4k3o2k1dg2r3db20ly2~x2/"><circle cx="234.2" cy="92.4" r="4" fill="#3465a4"><title>Stirling University Corporate Tartan Tartan Number: 2074. Earliest known date: Aug 1992 This is a simplified Stirling and Bannockburn district sett with the Universities 'Green and Grey' striped through the black. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/p4g30db12g3db2t3db26dp4db2/"><circle cx="183.0" cy="141.1" r="4" fill="#3465a4"><title>Begg (Personal)</title></circle></a><a href="/setts/s10/k4t6w4t6do8t37lr12do46o6lo4/"><circle cx="183.8" cy="127.3" r="4" fill="#3465a4"><title>MacLeroy and Troine 1987</title></circle></a><a href="/setts/s8/r4o10k9o2k9db33dt7g4~x2/"><circle cx="196.4" cy="143.2" r="4" fill="#3465a4"><title>Anne Arundel County</title></circle></a><a href="/setts/s9/w2db20dg2dg2dg2dg5dg8ly2r1~x2/"><circle cx="237.6" cy="123.7" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><circle cx="206.6" cy="121.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db20y1w1lo3g14n4y1dp4~x2/

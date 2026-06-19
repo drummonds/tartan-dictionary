@@ -2,7 +2,7 @@
 title: "Buschke (Skye) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [WBRKGBY](/stripes/wbrkgby/) · **Stripes:** [W DB R K DG DR LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W DB R K DG DR LY</span></span>
+**Bands:** [YBGKRBW](/stripes/ybgkrbw/) · **Stripes:** [LY DR DG K R DB W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DR DG K R DB W</span></span>
 
 
 This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/
 Original link http://www.tartansauthority.com/tartan-ferret/display/10899/
 
 ## Thread count
-W/2 DB32 R4 K60 DG22 DR8 Y/4
+Y/4 DR8 DG22 K60 R4 DB32 W/2
 ![Sett](sett.png)
 
 ## Palette
@@ -28,7 +28,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "W/2 DB32 R4 K60 DG22 DR8 Y/4 tartan")
+![Tartan detail](tartan.png "Y/4 DR8 DG22 K60 R4 DB32 W/2 tartan")
 
 ## Nearest tartans
 
@@ -36,19 +36,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Buschke (Skye) (Personal)](/setts/s7/ly2do4dg11k30r2db16w1~x2/) — ΔT 1.12
 1. [Pictou County](/setts/s8/dp23w1o3w1dp12lo9dg40dp3~x2/) — ΔT 1.23
-1. [Beauly Firth and Glens](/setts/s8/dp3n3dp3n27w1t15k22r3~x2/) — ΔT 1.35
+1. [Beauly Firth and Glens](/setts/s8/dp3n3dp3n27w1t15k22r3~x2/) — ΔT 1.36
 1. [Scragg Moran (Personal)](/setts/s10/g1dt28k11r5w1r5k11lr1k2g1~x2/) — ΔT 1.41
 1. [St. Columba (one green)](/setts/s8/db20y1w1lo3g14n4y1dp4~x2/) — ΔT 1.42
 1. [Sidey Family Tartan (Name)](/setts/s10/db4w1k2db25k12b1k2g16k2r1~x2/) — ΔT 1.42
 1. [Stirling University](/setts/s9/dg28r4k3y2k1dg2r3db20ly2~x2/) — ΔT 1.47
-1. [Fujitsu](/setts/s8/ly1k6g32k12r12dp9db6w1~x2/) — ΔT 1.47
-1. [Anne Arundel County](/setts/s8/g4dt7db33k9o2k9o10r4~x2/) — ΔT 1.47
+1. [Fujitsu](/setts/s8/w1db6dp9r12k12g32k6ly1~x2/) — ΔT 1.47
+1. [Anne Arundel County](/setts/s8/r4o10k9o2k9db33dt7g4~x2/) — ΔT 1.47
 1. [Chesters, Eric (Personal)](/setts/s7/k12g8ly1dg13lb1db31k8~x2/) — ΔT 1.49
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly2do4dg11k30r2db16w1~x2/"><circle cx="227.2" cy="115.2" r="4" fill="#3465a4"><title>Buschke (Skye) (Personal)</title></circle></a><a href="/setts/s8/dp23w1o3w1dp12lo9dg40dp3~x2/"><circle cx="294.3" cy="124.2" r="4" fill="#3465a4"><title>Pictou County</title></circle></a><a href="/setts/s8/dp3n3dp3n27w1t15k22r3~x2/"><circle cx="233.9" cy="138.4" r="4" fill="#3465a4"><title>Beauly Firth and Glens</title></circle></a><a href="/setts/s10/g1dt28k11r5w1r5k11lr1k2g1~x2/"><circle cx="276.5" cy="116.0" r="4" fill="#3465a4"><title>Scragg Moran (Personal)</title></circle></a><a href="/setts/s8/db20y1w1lo3g14n4y1dp4~x2/"><circle cx="206.6" cy="120.9" r="4" fill="#3465a4"><title>St. Columba (one green)</title></circle></a><a href="/setts/s10/db4w1k2db25k12b1k2g16k2r1~x2/"><circle cx="275.1" cy="129.6" r="4" fill="#3465a4"><title>Sidey Family Tartan (Name)</title></circle></a><a href="/setts/s9/dg28r4k3y2k1dg2r3db20ly2~x2/"><circle cx="247.7" cy="99.5" r="4" fill="#3465a4"><title>Stirling University</title></circle></a><a href="/setts/s8/ly1k6g32k12r12dp9db6w1~x2/"><circle cx="200.5" cy="111.9" r="4" fill="#3465a4"><title>Fujitsu</title></circle></a><a href="/setts/s8/g4dt7db33k9o2k9o10r4~x2/"><circle cx="196.3" cy="143.0" r="4" fill="#3465a4"><title>Anne Arundel County</title></circle></a><a href="/setts/s7/k12g8ly1dg13lb1db31k8~x2/"><circle cx="253.7" cy="164.3" r="4" fill="#3465a4"><title>Chesters, Eric (Personal)</title></circle></a><circle cx="252.9" cy="126.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly2do4dg11k30r2db16w1~x2/"><circle cx="227.4" cy="115.3" r="4" fill="#3465a4"><title>Buschke (Skye) (Personal)</title></circle></a><a href="/setts/s8/dp23w1o3w1dp12lo9dg40dp3~x2/"><circle cx="294.3" cy="124.3" r="4" fill="#3465a4"><title>Pictou County</title></circle></a><a href="/setts/s8/dp3n3dp3n27w1t15k22r3~x2/"><circle cx="233.9" cy="138.6" r="4" fill="#3465a4"><title>Beauly Firth and Glens</title></circle></a><a href="/setts/s10/g1dt28k11r5w1r5k11lr1k2g1~x2/"><circle cx="276.5" cy="116.2" r="4" fill="#3465a4"><title>Scragg Moran (Personal)</title></circle></a><a href="/setts/s8/db20y1w1lo3g14n4y1dp4~x2/"><circle cx="206.6" cy="121.1" r="4" fill="#3465a4"><title>St. Columba (one green)</title></circle></a><a href="/setts/s10/db4w1k2db25k12b1k2g16k2r1~x2/"><circle cx="275.2" cy="129.7" r="4" fill="#3465a4"><title>Sidey Family Tartan (Name)</title></circle></a><a href="/setts/s9/dg28r4k3y2k1dg2r3db20ly2~x2/"><circle cx="247.7" cy="99.7" r="4" fill="#3465a4"><title>Stirling University</title></circle></a><a href="/setts/s8/w1db6dp9r12k12g32k6ly1~x2/"><circle cx="200.6" cy="112.1" r="4" fill="#3465a4"><title>Fujitsu</title></circle></a><a href="/setts/s8/r4o10k9o2k9db33dt7g4~x2/"><circle cx="196.4" cy="143.2" r="4" fill="#3465a4"><title>Anne Arundel County</title></circle></a><a href="/setts/s7/k12g8ly1dg13lb1db31k8~x2/"><circle cx="253.9" cy="164.5" r="4" fill="#3465a4"><title>Chesters, Eric (Personal)</title></circle></a><circle cx="253.1" cy="126.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/ly2dr4dg11k30r2db16w1~x2/

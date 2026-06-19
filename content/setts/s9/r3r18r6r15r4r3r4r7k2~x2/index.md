@@ -27,20 +27,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Tune Hotels](/setts/s9/r3r18r6r15r4r3r4r7w2~x2/) — ΔT 0.43
-1. [Grelloch](/setts/s10/r2k1r12r12t1m2t1r12r12k1~x4/) — ΔT 2.05
+1. [Grelloch](/setts/s10/r2k1r12r12t1m2~x4/) — ΔT 2.05
 1. [Kinloch Anderson Rowanberry](/setts/s14/ly7r30r4r8dr4r12r6r12m28dr4m8dr8m8dr4/) — ΔT 2.23
 1. [Love (Fashion)](/setts/s5/r1r4r10lo2w1~x4/) — ΔT 2.23
 1. [Cetoloni](/setts/s6/db2r22dy11y2dy11db2~x2/) — ΔT 2.25
 1. [Barbour - Cardinal Red](/setts/s7/r3ly2r18db8w1r18r2~x2/) — ΔT 2.26
 1. [Unidentified Lindley #5](/setts/s10/dy1r1lo7r7dy1lo1dy1r7lo7r1~x4/) — ΔT 2.39
 1. [Wcwm 1155](/setts/s10/do7do2do2do2do2do6r14do2r2do2~x4/) — ΔT 2.45
-1. [Grelloch (Fashion)](/setts/s6/m2t1r12r12k1r2~x4/) — ΔT 2.46
+1. [Grelloch (Fashion)](/setts/s6/r2k1r12r12t1m2~x4/) — ΔT 2.46
 1. [Unidentified, Sett](/setts/s9/lr2o1r10o12o10lr6r10o1lr2~x2/) — ΔT 2.47
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r3r18r6r15r4r3r4r7w2~x2/"><circle cx="349.2" cy="222.1" r="4" fill="#3465a4"><title>Tune Hotels</title></circle></a><a href="/setts/s10/r2k1r12r12t1m2t1r12r12k1~x4/"><circle cx="394.9" cy="206.2" r="4" fill="#3465a4"><title>Grelloch</title></circle></a><a href="/setts/s14/ly7r30r4r8dr4r12r6r12m28dr4m8dr8m8dr4/"><circle cx="227.4" cy="196.4" r="4" fill="#3465a4"><title>Kinloch Anderson Rowanberry</title></circle></a><a href="/setts/s5/r1r4r10lo2w1~x4/"><circle cx="349.3" cy="196.6" r="4" fill="#3465a4"><title>Love (Fashion)</title></circle></a><a href="/setts/s6/db2r22dy11y2dy11db2~x2/"><circle cx="354.4" cy="233.0" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/setts/s7/r3ly2r18db8w1r18r2~x2/"><circle cx="305.2" cy="162.1" r="4" fill="#3465a4"><title>Barbour - Cardinal Red</title></circle></a><a href="/setts/s10/dy1r1lo7r7dy1lo1dy1r7lo7r1~x4/"><circle cx="349.7" cy="227.9" r="4" fill="#3465a4"><title>Unidentified Lindley #5</title></circle></a><a href="/setts/s10/do7do2do2do2do2do6r14do2r2do2~x4/"><circle cx="299.1" cy="233.7" r="4" fill="#3465a4"><title>Wcwm 1155</title></circle></a><a href="/setts/s6/m2t1r12r12k1r2~x4/"><circle cx="410.0" cy="226.5" r="4" fill="#3465a4"><title>Grelloch (Fashion)</title></circle></a><a href="/setts/s9/lr2o1r10o12o10lr6r10o1lr2~x2/"><circle cx="261.1" cy="219.8" r="4" fill="#3465a4"><title>Unidentified, Sett</title></circle></a><circle cx="341.1" cy="219.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r3r18r6r15r4r3r4r7w2~x2/"><circle cx="348.7" cy="222.2" r="4" fill="#3465a4"><title>Tune Hotels</title></circle></a><a href="/setts/s10/r2k1r12r12t1m2~x4/"><circle cx="394.5" cy="206.5" r="4" fill="#3465a4"><title>Grelloch</title></circle></a><a href="/setts/s14/ly7r30r4r8dr4r12r6r12m28dr4m8dr8m8dr4/"><circle cx="227.2" cy="196.7" r="4" fill="#3465a4"><title>Kinloch Anderson Rowanberry</title></circle></a><a href="/setts/s5/r1r4r10lo2w1~x4/"><circle cx="348.8" cy="196.6" r="4" fill="#3465a4"><title>Love (Fashion)</title></circle></a><a href="/setts/s6/db2r22dy11y2dy11db2~x2/"><circle cx="354.2" cy="233.1" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/setts/s7/r3ly2r18db8w1r18r2~x2/"><circle cx="304.9" cy="162.2" r="4" fill="#3465a4"><title>Barbour - Cardinal Red</title></circle></a><a href="/setts/s10/dy1r1lo7r7dy1lo1dy1r7lo7r1~x4/"><circle cx="349.2" cy="227.9" r="4" fill="#3465a4"><title>Unidentified Lindley #5</title></circle></a><a href="/setts/s10/do7do2do2do2do2do6r14do2r2do2~x4/"><circle cx="298.9" cy="233.8" r="4" fill="#3465a4"><title>Wcwm 1155</title></circle></a><a href="/setts/s6/r2k1r12r12t1m2~x4/"><circle cx="409.7" cy="226.8" r="4" fill="#3465a4"><title>Grelloch (Fashion)</title></circle></a><a href="/setts/s9/lr2o1r10o12o10lr6r10o1lr2~x2/"><circle cx="260.7" cy="220.0" r="4" fill="#3465a4"><title>Unidentified, Sett</title></circle></a><circle cx="340.7" cy="219.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r3r18r6r15r4r3r4r7k2~x2/

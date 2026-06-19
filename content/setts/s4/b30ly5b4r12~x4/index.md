@@ -2,7 +2,7 @@
 title: "UEFA (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BYBR](/stripes/bybr/) · **Stripes:** [B LY B R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="seq">B LY B R</span></span>
+**Bands:** [RBYB](/stripes/rbyb/) · **Stripes:** [R B LY B](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R B LY B</span></span>
 
 
 This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
@@ -30,12 +30,12 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [UEFA (Glasgow)](/setts/s6/r12b4ly5b30ly5b4~x4/) — ΔT 1.12
+1. [UEFA (Glasgow)](/setts/s6/b30ly5b4r12~x4/) — ΔT 1.12
 1. [International Festival of Authors](/setts/s6/dp30m5dp5t4dp4g12~x2/) — ΔT 1.38
 1. [Debbie Munro Memorial (Corporate)](/setts/s5/db26lp11db3lp4k2~x4/) — ΔT 1.44
-1. [South Australian Pipes & Drums (Corp](/setts/s6/db60ly6db11r25db11ly6~x2/) — ΔT 1.48
+1. [South Australian Pipes & Drums (Corp](/setts/s6/db60ly6db11r25~x2/) — ΔT 1.48
 1. [Carlisle Ancient](/setts/s5/b11lo2r1lo2r1~x4/) — ΔT 1.64
-1. [Auchmaliddie Samkoma](/setts/s4/r4w4dp23w4~x4/) — ΔT 1.65
+1. [Auchmaliddie Samkoma](/setts/s4/dp23w4r4~x4/) — ΔT 1.65
 1. [Laing of Archiestown](/setts/s5/db8r1w1r1k1~x8/) — ΔT 1.77
 1. [International Festival of Authors (C](/setts/s6/dp30m5dp5b4dp4g12~x2/) — ΔT 1.79
 1. [Glen Moy](/setts/s5/db13lb3db1r3lb1~x6/) — ΔT 1.79
@@ -43,8 +43,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r12b4ly5b30ly5b4~x4/"><circle cx="347.1" cy="218.1" r="4" fill="#3465a4"><title>UEFA (Glasgow)</title></circle></a><a href="/setts/s6/dp30m5dp5t4dp4g12~x2/"><circle cx="349.3" cy="210.7" r="4" fill="#3465a4"><title>International Festival of Authors</title></circle></a><a href="/setts/s5/db26lp11db3lp4k2~x4/"><circle cx="378.5" cy="206.4" r="4" fill="#3465a4"><title>Debbie Munro Memorial (Corporate)</title></circle></a><a href="/setts/s6/db60ly6db11r25db11ly6~x2/"><circle cx="410.6" cy="215.1" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><a href="/setts/s5/b11lo2r1lo2r1~x4/"><circle cx="396.8" cy="209.6" r="4" fill="#3465a4"><title>Carlisle Ancient</title></circle></a><a href="/setts/s4/r4w4dp23w4~x4/"><circle cx="350.5" cy="237.1" r="4" fill="#3465a4"><title>Auchmaliddie Samkoma</title></circle></a><a href="/setts/s5/db8r1w1r1k1~x8/"><circle cx="370.2" cy="199.1" r="4" fill="#3465a4"><title>Laing of Archiestown</title></circle></a><a href="/setts/s6/dp30m5dp5b4dp4g12~x2/"><circle cx="365.1" cy="209.8" r="4" fill="#3465a4"><title>International Festival of Authors (C</title></circle></a><a href="/setts/s5/db13lb3db1r3lb1~x6/"><circle cx="395.5" cy="201.2" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/setts/s5/m13w3m1k3w1~x6/"><circle cx="392.5" cy="185.3" r="4" fill="#3465a4"><title>Glen App</title></circle></a><circle cx="382.0" cy="251.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/b30ly5b4r12~x4/"><circle cx="346.9" cy="217.8" r="4" fill="#3465a4"><title>UEFA (Glasgow)</title></circle></a><a href="/setts/s6/dp30m5dp5t4dp4g12~x2/"><circle cx="349.1" cy="210.4" r="4" fill="#3465a4"><title>International Festival of Authors</title></circle></a><a href="/setts/s5/db26lp11db3lp4k2~x4/"><circle cx="378.3" cy="206.0" r="4" fill="#3465a4"><title>Debbie Munro Memorial (Corporate)</title></circle></a><a href="/setts/s6/db60ly6db11r25~x2/"><circle cx="410.4" cy="214.8" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><a href="/setts/s5/b11lo2r1lo2r1~x4/"><circle cx="396.5" cy="209.3" r="4" fill="#3465a4"><title>Carlisle Ancient</title></circle></a><a href="/setts/s4/dp23w4r4~x4/"><circle cx="350.3" cy="236.7" r="4" fill="#3465a4"><title>Auchmaliddie Samkoma</title></circle></a><a href="/setts/s5/db8r1w1r1k1~x8/"><circle cx="370.1" cy="198.8" r="4" fill="#3465a4"><title>Laing of Archiestown</title></circle></a><a href="/setts/s6/dp30m5dp5b4dp4g12~x2/"><circle cx="364.8" cy="209.6" r="4" fill="#3465a4"><title>International Festival of Authors (C</title></circle></a><a href="/setts/s5/db13lb3db1r3lb1~x6/"><circle cx="395.4" cy="200.9" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/setts/s5/m13w3m1k3w1~x6/"><circle cx="392.1" cy="184.9" r="4" fill="#3465a4"><title>Glen App</title></circle></a><circle cx="381.9" cy="250.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/b30ly5b4r12~x4/

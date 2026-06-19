@@ -2,7 +2,7 @@
 title: "MacAart"
 date: 2023-03-18
 ---
-**Bands:** [RGKYKGRRKR](/stripes/rgkykgrrkr/) · **Stripes:** [R G K LY K G R O K O](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R G K LY K G R O K O</span></span>
+**Bands:** [RKRRGKYKGR](/stripes/rkrrgkykgr/) · **Stripes:** [O K O R G K LY K G R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">O K O R G K LY K G R</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,12 +915,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Dorcas, Check](/setts/s12/o4w2o2w3o18k6g3k2g2k2g14lo3~x2/) — ΔT 1.11
 1. [Bannockbane, Green](/setts/s7/dg8g6dg48w31o42g6o8/) — ΔT 1.12
 1. [Fraser Hunting Dress Clan Tartan Tartan Number: 603. Earliest known date: pre 2003 In the Hunting Fraser, brown replaces the red of the Clan sett. The late Charles Ian Fraser of Reeling said, in his publication, "Clan Fraser", that this sett was designed by the Sobieski Stuart brothers at the request of Lord Lovat for use by the Inverness and Nairn militia. A letter to Lord Lovat from the War Office, c.1855, authorised the use of the Fraser tartan for the corps. The tartan is worn by the Boghall & Bathgate pipe bands. (Strathallan 1994) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/db4dy24g17dy3w18dy3w18dy3g17dy24r4~x2/) — ΔT 1.15
-1. [Stirling & Bannockburn (District)](/setts/s10/ly3g2lg18r3k13r4lg3r4g18r3~x2/) — ΔT 1.15
+1. [Stirling & Bannockburn (District)](/setts/s10/r3g18r4lg3r4k13r3lg18g2ly3~x2/) — ΔT 1.15
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dr6ly4dr3db2dr5db2dr3db2g15r3db2~x2/"><circle cx="141.2" cy="174.8" r="4" fill="#3465a4"><title>Limerick</title></circle></a><a href="/setts/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/"><circle cx="171.8" cy="155.1" r="4" fill="#3465a4"><title>Dorcas Check</title></circle></a><a href="/setts/s9/g6lr2g10k3r1k3lo10lr2lo6~x4/"><circle cx="135.8" cy="175.7" r="4" fill="#3465a4"><title>Eire (District?)</title></circle></a><a href="/setts/s9/dg6lr2dg10k3r1k3lo10lr2lo6~x4/"><circle cx="135.6" cy="175.6" r="4" fill="#3465a4"><title>Eire</title></circle></a><a href="/setts/s8/o30k4o3k4o3g20dt20ly4~x2/"><circle cx="195.6" cy="175.2" r="4" fill="#3465a4"><title>Sikh (Corporate)</title></circle></a><a href="/setts/s8/db4r11db1g8r2g4k1ly2~x4/"><circle cx="188.7" cy="170.1" r="4" fill="#3465a4"><title>Craik, of Assington</title></circle></a><a href="/setts/s12/o4w2o2w3o18k6g3k2g2k2g14lo3~x2/"><circle cx="150.6" cy="143.3" r="4" fill="#3465a4"><title>Dorcas, Check</title></circle></a><a href="/setts/s7/dg8g6dg48w31o42g6o8/"><circle cx="143.1" cy="184.1" r="4" fill="#3465a4"><title>Bannockbane, Green</title></circle></a><a href="/setts/s11/db4dy24g17dy3w18dy3w18dy3g17dy24r4~x2/"><circle cx="148.5" cy="176.3" r="4" fill="#3465a4"><title>Fraser Hunting Dress Clan Tartan Tartan Number: 603. Earliest known date: pre 2003 In the Hunting Fraser, brown replaces the red of the Clan sett. The late Charles Ian Fraser of Reeling said, in his publication, &quot;Clan Fraser&quot;, that this sett was designed by the Sobieski Stuart brothers at the request of Lord Lovat for use by the Inverness and Nairn militia. A letter to Lord Lovat from the War Office, c.1855, authorised the use of the Fraser tartan for the corps. The tartan is worn by the Boghall &amp; Bathgate pipe bands. (Strathallan 1994) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/ly3g2lg18r3k13r4lg3r4g18r3~x2/"><circle cx="107.0" cy="162.4" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn (District)</title></circle></a><circle cx="147.0" cy="174.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dr6ly4dr3db2dr5db2dr3db2g15r3db2~x2/"><circle cx="141.2" cy="174.8" r="4" fill="#3465a4"><title>Limerick</title></circle></a><a href="/setts/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/"><circle cx="171.7" cy="155.1" r="4" fill="#3465a4"><title>Dorcas Check</title></circle></a><a href="/setts/s9/g6lr2g10k3r1k3lo10lr2lo6~x4/"><circle cx="135.7" cy="175.7" r="4" fill="#3465a4"><title>Eire (District?)</title></circle></a><a href="/setts/s9/dg6lr2dg10k3r1k3lo10lr2lo6~x4/"><circle cx="135.6" cy="175.6" r="4" fill="#3465a4"><title>Eire</title></circle></a><a href="/setts/s8/o30k4o3k4o3g20dt20ly4~x2/"><circle cx="195.5" cy="175.2" r="4" fill="#3465a4"><title>Sikh (Corporate)</title></circle></a><a href="/setts/s8/db4r11db1g8r2g4k1ly2~x4/"><circle cx="188.5" cy="170.1" r="4" fill="#3465a4"><title>Craik, of Assington</title></circle></a><a href="/setts/s12/o4w2o2w3o18k6g3k2g2k2g14lo3~x2/"><circle cx="150.5" cy="143.3" r="4" fill="#3465a4"><title>Dorcas, Check</title></circle></a><a href="/setts/s7/dg8g6dg48w31o42g6o8/"><circle cx="143.0" cy="184.1" r="4" fill="#3465a4"><title>Bannockbane, Green</title></circle></a><a href="/setts/s11/db4dy24g17dy3w18dy3w18dy3g17dy24r4~x2/"><circle cx="148.3" cy="176.3" r="4" fill="#3465a4"><title>Fraser Hunting Dress Clan Tartan Tartan Number: 603. Earliest known date: pre 2003 In the Hunting Fraser, brown replaces the red of the Clan sett. The late Charles Ian Fraser of Reeling said, in his publication, &quot;Clan Fraser&quot;, that this sett was designed by the Sobieski Stuart brothers at the request of Lord Lovat for use by the Inverness and Nairn militia. A letter to Lord Lovat from the War Office, c.1855, authorised the use of the Fraser tartan for the corps. The tartan is worn by the Boghall &amp; Bathgate pipe bands. (Strathallan 1994) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r3g18r4lg3r4k13r3lg18g2ly3~x2/"><circle cx="106.9" cy="162.4" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn (District)</title></circle></a><circle cx="147.0" cy="175.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/o9k2o2r2g6k1ly1k1g6r3~x2/

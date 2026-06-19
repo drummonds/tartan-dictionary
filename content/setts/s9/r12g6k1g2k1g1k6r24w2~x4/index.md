@@ -9,6 +9,13 @@ This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1485/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Stuart of Bute, The Htg
+- Stuart/Stewart of Bute
+
 ## Variants
 
 Other setts woven to the same stripe pattern.
@@ -17,7 +24,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-LN/8 R96 K24 G4 K4 G8 K4 G24 R/48
+R/48 G24 K4 G8 K4 G4 K24 R96 LN/8
 ![Sett](sett.png)
 
 ## Palette
@@ -35,20 +42,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Stuart of Bute](/setts/s9/r12y6k1y2k1y1k6r24w2~x4/) — ΔT 0.48
-1. [Galway](/setts/s10/o4r2k4r40k3r3k4r3g13r4~x2/) — ΔT 0.59
-1. [Stuart of Bute](/setts/s9/r12dg6k1dg2k1dg1k6r24lb2/) — ΔT 0.74
+1. [Galway](/setts/s10/r4g13r3k4r3k3r40k4r2o4~x2/) — ΔT 0.59
+1. [Stuart of Bute](/setts/s9/r12dg6k1dg2k1dg1k6r24lb2~x2/) — ΔT 0.74
 1. [Stuart/Stewart of Bute](/setts/s9/r12g6k1g2k1g1k6r24w2~x2/) — ΔT 0.76
 1. [Stuart of Bute](/setts/s9/r12dg6k1dg2k1dg1k6r24lr2~x2/) — ΔT 0.81
 1. [Anthony Plaid Red](/setts/s9/r18k1ly3k1lr1r3k2r2lr2~x4/) — ΔT 0.91
-1. [MacDonell of Keppoch](/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/) — ΔT 0.98
-1. [Highlands of Wyomissing (Corporate)](/setts/s8/r35lb3r8ly2dg11ly2r8lb3~x2/) — ΔT 0.98
+1. [MacDonell of Keppoch](/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1/) — ΔT 0.98
+1. [Highlands of Wyomissing (Corporate)](/setts/s8/r35lb3r8ly2dg11~x2/) — ΔT 0.98
 1. [Baluch Regiment (Military)](/setts/s9/r5g20r5g3r4g5r36do2w4~x2/) — ΔT 1.04
 1. [MacDougal 3](/setts/s11/r4g8k6r8r6g2r2g2r24g1r3~x2/) — ΔT 1.04
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r12y6k1y2k1y1k6r24w2~x4/"><circle cx="414.3" cy="120.5" r="4" fill="#3465a4"><title>Stuart of Bute</title></circle></a><a href="/setts/s10/o4r2k4r40k3r3k4r3g13r4~x2/"><circle cx="411.5" cy="114.2" r="4" fill="#3465a4"><title>Galway</title></circle></a><a href="/setts/s9/r12dg6k1dg2k1dg1k6r24lb2/"><circle cx="400.6" cy="118.4" r="4" fill="#3465a4"><title>Stuart of Bute</title></circle></a><a href="/setts/s9/r12g6k1g2k1g1k6r24w2~x2/"><circle cx="396.6" cy="117.6" r="4" fill="#3465a4"><title>Stuart/Stewart of Bute</title></circle></a><a href="/setts/s9/r12dg6k1dg2k1dg1k6r24lr2~x2/"><circle cx="414.4" cy="129.9" r="4" fill="#3465a4"><title>Stuart of Bute</title></circle></a><a href="/setts/s9/r18k1ly3k1lr1r3k2r2lr2~x4/"><circle cx="442.7" cy="126.2" r="4" fill="#3465a4"><title>Anthony Plaid Red</title></circle></a><a href="/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/"><circle cx="375.0" cy="119.9" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s8/r35lb3r8ly2dg11ly2r8lb3~x2/"><circle cx="448.7" cy="151.3" r="4" fill="#3465a4"><title>Highlands of Wyomissing (Corporate)</title></circle></a><a href="/setts/s9/r5g20r5g3r4g5r36do2w4~x2/"><circle cx="384.5" cy="141.5" r="4" fill="#3465a4"><title>Baluch Regiment (Military)</title></circle></a><a href="/setts/s11/r4g8k6r8r6g2r2g2r24g1r3~x2/"><circle cx="360.0" cy="127.5" r="4" fill="#3465a4"><title>MacDougal 3</title></circle></a><circle cx="417.2" cy="125.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r12y6k1y2k1y1k6r24w2~x4/"><circle cx="413.8" cy="120.3" r="4" fill="#3465a4"><title>Stuart of Bute</title></circle></a><a href="/setts/s10/r4g13r3k4r3k3r40k4r2o4~x2/"><circle cx="411.0" cy="114.1" r="4" fill="#3465a4"><title>Galway</title></circle></a><a href="/setts/s9/r12dg6k1dg2k1dg1k6r24lb2~x2/"><circle cx="400.2" cy="118.2" r="4" fill="#3465a4"><title>Stuart of Bute</title></circle></a><a href="/setts/s9/r12g6k1g2k1g1k6r24w2~x2/"><circle cx="396.1" cy="117.3" r="4" fill="#3465a4"><title>Stuart/Stewart of Bute</title></circle></a><a href="/setts/s9/r12dg6k1dg2k1dg1k6r24lr2~x2/"><circle cx="414.1" cy="129.7" r="4" fill="#3465a4"><title>Stuart of Bute</title></circle></a><a href="/setts/s9/r18k1ly3k1lr1r3k2r2lr2~x4/"><circle cx="442.3" cy="126.0" r="4" fill="#3465a4"><title>Anthony Plaid Red</title></circle></a><a href="/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1/"><circle cx="374.6" cy="119.7" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s8/r35lb3r8ly2dg11~x2/"><circle cx="448.2" cy="151.1" r="4" fill="#3465a4"><title>Highlands of Wyomissing (Corporate)</title></circle></a><a href="/setts/s9/r5g20r5g3r4g5r36do2w4~x2/"><circle cx="384.0" cy="141.4" r="4" fill="#3465a4"><title>Baluch Regiment (Military)</title></circle></a><a href="/setts/s11/r4g8k6r8r6g2r2g2r24g1r3~x2/"><circle cx="359.6" cy="127.4" r="4" fill="#3465a4"><title>MacDougal 3</title></circle></a><circle cx="416.7" cy="125.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r12g6k1g2k1g1k6r24w2~x4/

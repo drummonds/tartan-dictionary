@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7602/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Uist, Green
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g42g2w2g2g5dt12w32g4~x2/"><circle cx="266.8" cy="129.4" r="4" fill="#3465a4"><title>Longniddry Green (Dance)</title></circle></a><a href="/setts/s7/b6k3b37ly41w3ly6w3~x2/"><circle cx="288.4" cy="161.4" r="4" fill="#3465a4"><title>Tilburg Hunting (District)</title></circle></a><a href="/setts/s8/g1g1w1g15w15g1w1g1~x4/"><circle cx="296.3" cy="144.0" r="4" fill="#3465a4"><title>Bundy, Dress Black Personal)</title></circle></a><a href="/setts/s8/g42g2w2g2g5dg12w32g4~x2/"><circle cx="281.3" cy="139.0" r="4" fill="#3465a4"><title>Longniddry, Green</title></circle></a><a href="/setts/s9/w38r12w37g32k3w4k3g32r4/"><circle cx="224.9" cy="162.2" r="4" fill="#3465a4"><title>MacDiarmid, dress</title></circle></a><a href="/setts/s7/w5r3w26g20w3g8ly3~x2/"><circle cx="246.2" cy="183.2" r="4" fill="#3465a4"><title>MacPherson Dress Green (Dance)</title></circle></a><a href="/setts/s7/w5g2w34g34k2g2ly4~x2/"><circle cx="282.8" cy="140.9" r="4" fill="#3465a4"><title>Cunningham Dress Green (Dance)</title></circle></a><a href="/setts/s9/w38r12w37g32k3w4k3g32r4~x2/"><circle cx="226.6" cy="162.4" r="4" fill="#3465a4"><title>MacDiarmid Dress</title></circle></a><a href="/setts/s10/dg7r3k3w54dg24r5dg5w5dg5r5~x2/"><circle cx="279.8" cy="108.9" r="4" fill="#3465a4"><title>Scott Dress #2</title></circle></a><a href="/setts/s9/g3w29g3db3g3db6g13ly3r2~x2/"><circle cx="211.2" cy="120.7" r="4" fill="#3465a4"><title>Nova Scotia, dress</title></circle></a><circle cx="267.8" cy="145.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g42g2w2g2g5dt12w32g4~x2/"><circle cx="266.5" cy="129.2" r="4" fill="#3465a4"><title>Longniddry Green (Dance)</title></circle></a><a href="/setts/s7/b6k3b37ly41w3ly6w3~x2/"><circle cx="288.1" cy="161.3" r="4" fill="#3465a4"><title>Tilburg Hunting (District)</title></circle></a><a href="/setts/s8/g1g1w1g15w15g1w1g1~x4/"><circle cx="295.8" cy="143.7" r="4" fill="#3465a4"><title>Bundy, Dress Black Personal)</title></circle></a><a href="/setts/s8/g42g2w2g2g5dg12w32g4~x2/"><circle cx="280.9" cy="138.8" r="4" fill="#3465a4"><title>Longniddry, Green</title></circle></a><a href="/setts/s9/w38r12w37g32k3w4k3g32r4/"><circle cx="224.6" cy="162.0" r="4" fill="#3465a4"><title>MacDiarmid, dress</title></circle></a><a href="/setts/s7/w5r3w26g20w3g8ly3~x2/"><circle cx="245.8" cy="183.0" r="4" fill="#3465a4"><title>MacPherson Dress Green (Dance)</title></circle></a><a href="/setts/s7/w5g2w34g34k2g2ly4~x2/"><circle cx="282.3" cy="140.6" r="4" fill="#3465a4"><title>Cunningham Dress Green (Dance)</title></circle></a><a href="/setts/s9/w38r12w37g32k3w4k3g32r4~x2/"><circle cx="226.3" cy="162.2" r="4" fill="#3465a4"><title>MacDiarmid Dress</title></circle></a><a href="/setts/s10/dg7r3k3w54dg24r5dg5w5dg5r5~x2/"><circle cx="279.4" cy="108.7" r="4" fill="#3465a4"><title>Scott Dress #2</title></circle></a><a href="/setts/s9/g3w29g3db3g3db6g13ly3r2~x2/"><circle cx="210.8" cy="120.6" r="4" fill="#3465a4"><title>Nova Scotia, dress</title></circle></a><circle cx="267.4" cy="145.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/g3r2g27dg3w30dg2w3~x2/

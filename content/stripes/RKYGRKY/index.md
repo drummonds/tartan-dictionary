@@ -8,7 +8,7 @@ RKYGRKY
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/lo15k1r2g3lo2k1r15~x6/tartan.png)
+![Woven sample](/setts/s7/r15k1lo2g3r2k1lo15~x6/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RKYGRKY
 
 | Tartans |
 |---------------|
-| [Scrymgeour (Clan)](/setts/s7/lo15k1r2g3lo2k1r15~x6/)|
-|![Scrymgeour (Clan) example sett](/setts/s7/lo15k1r2g3lo2k1r15~x6/sett.png)|
+| [Scrymgeour (Clan)](/setts/s7/r15k1lo2g3r2k1lo15~x6/)|
+|![Scrymgeour (Clan) example sett](/setts/s7/r15k1lo2g3r2k1lo15~x6/sett.png)|
 

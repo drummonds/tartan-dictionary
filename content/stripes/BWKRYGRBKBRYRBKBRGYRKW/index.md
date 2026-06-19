@@ -22,6 +22,6 @@ BWKRYGRBKBRYRBKBRGYRKW
 
 | Tartans |
 |---------------|
-| [Wren](/setts/s22/db6w2k2r6ly2g12r6t3k3t3r28ly4r28t3k3t3r6g12ly2r6k2w2~x2/)|
-|![Wren example sett](/setts/s22/db6w2k2r6ly2g12r6t3k3t3r28ly4r28t3k3t3r6g12ly2r6k2w2~x2/sett.png)|
+| [Wren](/setts/s22/db6w2k2r6ly2g12r6t3k3t3r28ly4~x2/)|
+|![Wren example sett](/setts/s22/db6w2k2r6ly2g12r6t3k3t3r28ly4~x2/sett.png)|
 

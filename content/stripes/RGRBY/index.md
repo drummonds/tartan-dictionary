@@ -32,8 +32,8 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [British Hills](/setts/s5/ly2db8r8dg17r2~x4/)|
-|![British Hills example sett](/setts/s5/ly2db8r8dg17r2~x4/sett.png)|
+| [British Hills](/setts/s5/r2dg17r8db8ly2~x4/)|
+|![British Hills example sett](/setts/s5/r2dg17r8db8ly2~x4/sett.png)|
 
 ### R G R DB LY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R G R DB LY</span></span>
 

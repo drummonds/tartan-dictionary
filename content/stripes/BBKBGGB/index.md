@@ -21,14 +21,14 @@ BBKBGGB
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### B DB K DB DY G DB <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">B DB K DB DY G DB</span></span>
+### DB G DY DB K DB B <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DB G DY DB K DB B</span></span>
 
 | Tartans |
 |---------------|
 | [Scottish Odyssey](/setts/s7/b7db11k3db11dy11g22db3~x2/)|
 |![Scottish Odyssey example sett](/setts/s7/b7db11k3db11dy11g22db3~x2/sett.png)|
 
-### DB B K B DY G DT <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="seq">DB B K B DY G DT</span></span>
+### DT G DY B K B DB <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="seq">DT G DY B K B DB</span></span>
 
 | Tartans |
 |---------------|

@@ -20,7 +20,7 @@ BBWRY
 
 
 
-### N DO W R LY <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">N DO W R LY</span></span>
+### LY R W DO N <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="seq">LY R W DO N</span></span>
 
 | Tartans |
 |---------------|

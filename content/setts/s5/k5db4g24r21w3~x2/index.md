@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3633
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Sachie Hara Scottish Check
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -52,7 +58,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Turnbull Dress](/setts/s5/k2db1g10r10ly1~x6/) — ΔT 0.82
 1. [Strathblane (Fashion)](/setts/s5/dy12k4w2o6r3~x2/) — ΔT 1.00
 1. [Douglas of Roxburgh](/setts/s5/k6db3dg20r20ly3~x2/) — ΔT 1.05
-1. [British Hills](/setts/s5/ly2db8r8dg17r2~x4/) — ΔT 1.09
+1. [British Hills](/setts/s5/r2dg17r8db8ly2~x4/) — ΔT 1.09
 1. [Celtic Combat](/setts/s6/k2o20k8dg18o3w2~x2/) — ΔT 1.10
 1. [ChuMac (Personal)](/setts/s5/g15ly3r3dp8w2~x6/) — ΔT 1.11
 1. [Entre Rios Province (Provisional](/setts/s6/g36lb4g8k29r24w7~x2/) — ΔT 1.13
@@ -61,8 +67,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k7db3g28r28ly3~x2/"><circle cx="197.1" cy="189.0" r="4" fill="#3465a4"><title>Turnbull, dress</title></circle></a><a href="/setts/s5/k2db1g10r10ly1~x6/"><circle cx="236.0" cy="194.0" r="4" fill="#3465a4"><title>Turnbull Dress</title></circle></a><a href="/setts/s5/dy12k4w2o6r3~x2/"><circle cx="173.6" cy="229.7" r="4" fill="#3465a4"><title>Strathblane (Fashion)</title></circle></a><a href="/setts/s5/k6db3dg20r20ly3~x2/"><circle cx="164.6" cy="209.5" r="4" fill="#3465a4"><title>Douglas of Roxburgh</title></circle></a><a href="/setts/s5/ly2db8r8dg17r2~x4/"><circle cx="220.7" cy="221.2" r="4" fill="#3465a4"><title>British Hills</title></circle></a><a href="/setts/s6/k2o20k8dg18o3w2~x2/"><circle cx="237.5" cy="204.3" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/setts/s5/g15ly3r3dp8w2~x6/"><circle cx="205.9" cy="210.5" r="4" fill="#3465a4"><title>ChuMac (Personal)</title></circle></a><a href="/setts/s6/g36lb4g8k29r24w7~x2/"><circle cx="144.7" cy="193.7" r="4" fill="#3465a4"><title>Entre Rios Province (Provisional</title></circle></a><a href="/setts/s7/w4dg20g10r25b2r2g2~x2/"><circle cx="207.5" cy="158.5" r="4" fill="#3465a4"><title>Caledonian Brewery</title></circle></a><a href="/setts/s8/db4r11db1g8r2g4k1ly2~x4/"><circle cx="188.7" cy="170.1" r="4" fill="#3465a4"><title>Craik, of Assington</title></circle></a><circle cx="194.3" cy="201.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k7db3g28r28ly3~x2/"><circle cx="197.0" cy="188.9" r="4" fill="#3465a4"><title>Turnbull, dress</title></circle></a><a href="/setts/s5/k2db1g10r10ly1~x6/"><circle cx="235.9" cy="194.0" r="4" fill="#3465a4"><title>Turnbull Dress</title></circle></a><a href="/setts/s5/dy12k4w2o6r3~x2/"><circle cx="173.6" cy="229.7" r="4" fill="#3465a4"><title>Strathblane (Fashion)</title></circle></a><a href="/setts/s5/k6db3dg20r20ly3~x2/"><circle cx="164.6" cy="209.5" r="4" fill="#3465a4"><title>Douglas of Roxburgh</title></circle></a><a href="/setts/s5/r2dg17r8db8ly2~x4/"><circle cx="220.6" cy="221.1" r="4" fill="#3465a4"><title>British Hills</title></circle></a><a href="/setts/s6/k2o20k8dg18o3w2~x2/"><circle cx="237.3" cy="204.2" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/setts/s5/g15ly3r3dp8w2~x6/"><circle cx="205.8" cy="210.4" r="4" fill="#3465a4"><title>ChuMac (Personal)</title></circle></a><a href="/setts/s6/g36lb4g8k29r24w7~x2/"><circle cx="144.7" cy="193.6" r="4" fill="#3465a4"><title>Entre Rios Province (Provisional</title></circle></a><a href="/setts/s7/w4dg20g10r25b2r2g2~x2/"><circle cx="207.3" cy="158.5" r="4" fill="#3465a4"><title>Caledonian Brewery</title></circle></a><a href="/setts/s8/db4r11db1g8r2g4k1ly2~x4/"><circle cx="188.5" cy="170.1" r="4" fill="#3465a4"><title>Craik, of Assington</title></circle></a><circle cx="194.2" cy="201.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/k5db4g24r21w3~x2/

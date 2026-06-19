@@ -2,12 +2,18 @@
 title: "Kyle, Grape (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [BYBKBYBKWY](/stripes/bybkbybkwy/) · **Stripes:** [DP LG DP K DP LG DP K W LG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="seq">DP LG DP K DP LG DP K W LG</span></span>
+**Bands:** [YWKBYBKBYB](/stripes/ywkbybkbyb/) · **Stripes:** [LG W K DP LG DP K DP LG DP](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LG W K DP LG DP K DP LG DP</span></span>
 
 
 This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7585/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Kyle, Grape
 
 ## Attestations
 
@@ -45,17 +51,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Walker, dress](/setts/s12/y4k2r7k15r3k3r3k7w28r7w6r2/) — ΔT 0.79
 1. [Meg Merrilees, New (1831)](/setts/s9/t5r5k58r5t5r5w25r5t4/) — ΔT 0.96
 1. [McRae, Dress](/setts/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/) — ΔT 1.01
-1. [Clemens and August (Personal)](/setts/s8/ly35db3r4db3r8db30w3db4~x2/) — ΔT 1.04
+1. [Clemens and August (Personal)](/setts/s8/ly35db3r4db3r8db30w3db4~x2/) — ΔT 1.05
 1. [Fraser, Arisaid](/setts/s10/k14w2k3w2dr10w32dr10k10w2k3~x2/) — ΔT 1.11
 1. [Scottish Knights Templar, of M.T.S. St Andrew](/setts/s10/w4r1db20k6w5k4w3k2r1db2~x2/) — ΔT 1.13
-1. [Distripress Annual Congress 2012](/setts/s8/r12k2w8k4n16r2k31n2/) — ΔT 1.14
+1. [Distripress Annual Congress 2012](/setts/s8/r12k2w8k4n16r2k31n2/) — ΔT 1.15
 1. [Lord Arran (Corporate)](/setts/s9/r3dy1w12dy2db2dy2db14w2db2~x2/) — ΔT 1.15
 1. [Siddle](/setts/s10/dr3w29db2w2db2w2db14dr31db2w2~x2/) — ΔT 1.17
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/"><circle cx="208.6" cy="123.7" r="4" fill="#3465a4"><title>Scott, (MacRae)</title></circle></a><a href="/setts/s12/y4k2r7k15r3k3r3k7w28r7w6r2/"><circle cx="177.8" cy="126.8" r="4" fill="#3465a4"><title>Walker, dress</title></circle></a><a href="/setts/s9/t5r5k58r5t5r5w25r5t4/"><circle cx="248.5" cy="122.8" r="4" fill="#3465a4"><title>Meg Merrilees, New (1831)</title></circle></a><a href="/setts/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/"><circle cx="190.3" cy="134.6" r="4" fill="#3465a4"><title>McRae, Dress</title></circle></a><a href="/setts/s8/ly35db3r4db3r8db30w3db4~x2/"><circle cx="227.6" cy="145.5" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><a href="/setts/s10/k14w2k3w2dr10w32dr10k10w2k3~x2/"><circle cx="229.0" cy="147.6" r="4" fill="#3465a4"><title>Fraser, Arisaid</title></circle></a><a href="/setts/s10/w4r1db20k6w5k4w3k2r1db2~x2/"><circle cx="232.9" cy="126.5" r="4" fill="#3465a4"><title>Scottish Knights Templar, of M.T.S. St Andrew</title></circle></a><a href="/setts/s8/r12k2w8k4n16r2k31n2/"><circle cx="237.9" cy="150.2" r="4" fill="#3465a4"><title>Distripress Annual Congress 2012</title></circle></a><a href="/setts/s9/r3dy1w12dy2db2dy2db14w2db2~x2/"><circle cx="225.4" cy="143.3" r="4" fill="#3465a4"><title>Lord Arran (Corporate)</title></circle></a><a href="/setts/s10/dr3w29db2w2db2w2db14dr31db2w2~x2/"><circle cx="232.2" cy="127.8" r="4" fill="#3465a4"><title>Siddle</title></circle></a><circle cx="219.0" cy="123.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/"><circle cx="208.5" cy="123.5" r="4" fill="#3465a4"><title>Scott, (MacRae)</title></circle></a><a href="/setts/s12/y4k2r7k15r3k3r3k7w28r7w6r2/"><circle cx="177.6" cy="126.7" r="4" fill="#3465a4"><title>Walker, dress</title></circle></a><a href="/setts/s9/t5r5k58r5t5r5w25r5t4/"><circle cx="248.3" cy="122.7" r="4" fill="#3465a4"><title>Meg Merrilees, New (1831)</title></circle></a><a href="/setts/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/"><circle cx="190.1" cy="134.4" r="4" fill="#3465a4"><title>McRae, Dress</title></circle></a><a href="/setts/s8/ly35db3r4db3r8db30w3db4~x2/"><circle cx="227.4" cy="145.3" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><a href="/setts/s10/k14w2k3w2dr10w32dr10k10w2k3~x2/"><circle cx="228.8" cy="147.4" r="4" fill="#3465a4"><title>Fraser, Arisaid</title></circle></a><a href="/setts/s10/w4r1db20k6w5k4w3k2r1db2~x2/"><circle cx="232.9" cy="126.4" r="4" fill="#3465a4"><title>Scottish Knights Templar, of M.T.S. St Andrew</title></circle></a><a href="/setts/s8/r12k2w8k4n16r2k31n2/"><circle cx="237.8" cy="150.1" r="4" fill="#3465a4"><title>Distripress Annual Congress 2012</title></circle></a><a href="/setts/s9/r3dy1w12dy2db2dy2db14w2db2~x2/"><circle cx="225.2" cy="143.2" r="4" fill="#3465a4"><title>Lord Arran (Corporate)</title></circle></a><a href="/setts/s10/dr3w29db2w2db2w2db14dr31db2w2~x2/"><circle cx="231.9" cy="127.6" r="4" fill="#3465a4"><title>Siddle</title></circle></a><circle cx="218.8" cy="123.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/dp17lg1dp2k2dp2lg1dp3k8w17lg2~x4/

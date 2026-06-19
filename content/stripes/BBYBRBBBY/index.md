@@ -18,7 +18,7 @@ BBYBRBBBY
 
 
 
-### DB DT LR DT R DT DB DT LR <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">DB DT LR DT R DT DB DT LR</span></span>
+### LR DT DB DT R DT LR DT DB <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="seq">LR DT DB DT R DT LR DT DB</span></span>
 
 | Tartans |
 |---------------|

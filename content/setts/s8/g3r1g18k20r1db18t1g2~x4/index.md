@@ -2,7 +2,7 @@
 title: "Lochaber"
 date: 2023-03-18
 ---
-**Bands:** [GBBRKGRG](/stripes/gbbrkgrg/) · **Stripes:** [G T DB R K G R G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G T DB R K G R G</span></span>
+**Bands:** [GRGKRBBG](/stripes/grgkrbbg/) · **Stripes:** [G R G K R DB T G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G R G K R DB T G</span></span>
 
 
 This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/8 Ba4 B72 R4 K80 G72 R4 G/12
+G/12 R4 G72 K80 R4 B72 Ba4 G/8
 ![Sett](sett.png)
 
 ## Palette
@@ -901,14 +904,14 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/8 Ba4 B72 R4 K80 G72 R4 G/12 tartan")
+![Tartan detail](tartan.png "G/12 R4 G72 K80 R4 B72 Ba4 G/8 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Whitson](/setts/s8/w4k1g18k17db13r1db3r1~x2/) — ΔT 0.70
-1. [MacCaskill](/setts/s7/k2ly1db15k15g15r1k2~x2/) — ΔT 0.71
+1. [MacCaskill](/setts/s7/k2r1g15k15db15ly1k2~x2/) — ΔT 0.71
 1. [Black Gold](/setts/s9/dy3k3dy3k18n28w1g22k2dy2~x2/) — ΔT 0.74
 1. [Ogilvie 1](/setts/s9/db24ly2k8g16k1g3k1g3r4~x2/) — ΔT 0.82
 1. [Colquhoun](/setts/s7/db4k2db16w1k8g24r4~x2/) — ΔT 0.90
@@ -920,8 +923,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w4k1g18k17db13r1db3r1~x2/"><circle cx="143.2" cy="144.3" r="4" fill="#3465a4"><title>Whitson</title></circle></a><a href="/setts/s7/k2ly1db15k15g15r1k2~x2/"><circle cx="178.1" cy="167.4" r="4" fill="#3465a4"><title>MacCaskill</title></circle></a><a href="/setts/s9/dy3k3dy3k18n28w1g22k2dy2~x2/"><circle cx="190.1" cy="122.9" r="4" fill="#3465a4"><title>Black Gold</title></circle></a><a href="/setts/s9/db24ly2k8g16k1g3k1g3r4~x2/"><circle cx="210.4" cy="126.6" r="4" fill="#3465a4"><title>Ogilvie 1</title></circle></a><a href="/setts/s7/db4k2db16w1k8g24r4~x2/"><circle cx="212.9" cy="148.7" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/"><circle cx="158.1" cy="134.3" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s11/t3g3k4g14k4g3k14db18r1db4r2~x2/"><circle cx="148.1" cy="144.9" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/setts/s8/r7g3r2g33k31db31k3db3/"><circle cx="179.0" cy="170.0" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/setts/s9/db24ly2k8dg16k1dg3k1dg3r4~x2/"><circle cx="225.7" cy="139.3" r="4" fill="#3465a4"><title>Ogilvy Hunting</title></circle></a><a href="/setts/s10/r7db2g5db2k24db2g10db28g10w3~x2/"><circle cx="149.2" cy="141.9" r="4" fill="#3465a4"><title>Colgan, USA, Robert James</title></circle></a><circle cx="189.5" cy="143.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w4k1g18k17db13r1db3r1~x2/"><circle cx="143.4" cy="144.3" r="4" fill="#3465a4"><title>Whitson</title></circle></a><a href="/setts/s7/k2r1g15k15db15ly1k2~x2/"><circle cx="178.3" cy="167.3" r="4" fill="#3465a4"><title>MacCaskill</title></circle></a><a href="/setts/s9/dy3k3dy3k18n28w1g22k2dy2~x2/"><circle cx="190.2" cy="122.9" r="4" fill="#3465a4"><title>Black Gold</title></circle></a><a href="/setts/s9/db24ly2k8g16k1g3k1g3r4~x2/"><circle cx="210.4" cy="126.6" r="4" fill="#3465a4"><title>Ogilvie 1</title></circle></a><a href="/setts/s7/db4k2db16w1k8g24r4~x2/"><circle cx="212.9" cy="148.6" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/"><circle cx="158.2" cy="134.3" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s11/t3g3k4g14k4g3k14db18r1db4r2~x2/"><circle cx="148.3" cy="145.0" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/setts/s8/r7g3r2g33k31db31k3db3/"><circle cx="179.2" cy="169.9" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/setts/s9/db24ly2k8dg16k1dg3k1dg3r4~x2/"><circle cx="225.8" cy="139.3" r="4" fill="#3465a4"><title>Ogilvy Hunting</title></circle></a><a href="/setts/s10/r7db2g5db2k24db2g10db28g10w3~x2/"><circle cx="149.3" cy="141.9" r="4" fill="#3465a4"><title>Colgan, USA, Robert James</title></circle></a><circle cx="189.6" cy="143.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/g3r1g18k20r1db18t1g2~x4/

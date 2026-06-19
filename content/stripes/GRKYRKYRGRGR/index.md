@@ -19,14 +19,14 @@ GRKYRKYRGRGR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DG M K LO M K LO M DG M DG M <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="seq">DG M K LO M K LO M DG M DG M</span></span>
+### M DG M DG M LO K M LO K M DG <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="seq">M DG M DG M LO K M LO K M DG</span></span>
 
 | Tartans |
 |---------------|
 | [Livingstone Australia (NSW) (Clan)](/setts/s12/dg12m4k1lo1m2k1lo1m4dg16m20dg2m8~x2/)|
 |![Livingstone Australia (NSW) (Clan) example sett](/setts/s12/dg12m4k1lo1m2k1lo1m4dg16m20dg2m8~x2/sett.png)|
 
-### DG O K LY O K LY O DG O DG O <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DG O K LY O K LY O DG O DG O</span></span>
+### O DG O DG O LY K O LY K O DG <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="seq">O DG O DG O LY K O LY K O DG</span></span>
 
 | Tartans |
 |---------------|

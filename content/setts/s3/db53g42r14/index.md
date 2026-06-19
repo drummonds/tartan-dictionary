@@ -2,7 +2,7 @@
 title: "Agnew"
 date: 2023-03-18
 ---
-**Bands:** [BGR](/stripes/bgr/) · **Stripes:** [DB G R](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB G R</span></span>
+**Bands:** [RGB](/stripes/rgb/) · **Stripes:** [R G DB](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">R G DB</span></span>
 
 
 This was sourced from weddslist.  It is a [3 band tartan](/bands/bands3/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -924,18 +927,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Agnew](/setts/s3/db53g42r14~x2/) — ΔT 0.73
 1. [Ferguson](/setts/s3/db6g5r1~x4/) — ΔT 0.93
 1. [Wilson's No 84, Ferguson](/setts/s3/db5g6r1~x4/) — ΔT 1.08
-1. [Wilson's No.055](/setts/s3/g6dp5t1~x4/) — ΔT 1.12
+1. [Wilson's No.055](/setts/s3/g6dp5t1~x4/) — ΔT 1.13
 1. [Wilson's No 62, (Ferguson)](/setts/s3/db13r2g13~x2/) — ΔT 1.15
 1. [MacCurdie (Clan?)](/setts/s4/k5g14db12g4~x4/) — ΔT 1.17
-1. [Wilson's No.208](/setts/s4/g7t2r4t2~x2/) — ΔT 1.24
+1. [Wilson's No.208](/setts/s4/g7t2r4~x2/) — ΔT 1.24
 1. [Wilson's, No 55](/setts/s3/g6p5t1~x4/) — ΔT 1.29
 1. [Wilson's No.209](/setts/s4/g4dp5g4t2~x2/) — ΔT 1.44
 1. [Mull](/setts/s3/k5g4t2~x2/) — ΔT 1.57
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/db53g42r14~x2/"><circle cx="252.0" cy="348.3" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/setts/s3/db6g5r1~x4/"><circle cx="293.4" cy="323.9" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/setts/s3/db5g6r1~x4/"><circle cx="291.6" cy="323.8" r="4" fill="#3465a4"><title>Wilson's No 84, Ferguson</title></circle></a><a href="/setts/s3/g6dp5t1~x4/"><circle cx="289.8" cy="319.3" r="4" fill="#3465a4"><title>Wilson's No.055</title></circle></a><a href="/setts/s3/db13r2g13~x2/"><circle cx="288.6" cy="320.4" r="4" fill="#3465a4"><title>Wilson's No 62, (Ferguson)</title></circle></a><a href="/setts/s4/k5g14db12g4~x4/"><circle cx="265.1" cy="346.0" r="4" fill="#3465a4"><title>MacCurdie (Clan?)</title></circle></a><a href="/setts/s4/g7t2r4t2~x2/"><circle cx="225.9" cy="316.5" r="4" fill="#3465a4"><title>Wilson's No.208</title></circle></a><a href="/setts/s3/g6p5t1~x4/"><circle cx="273.8" cy="304.7" r="4" fill="#3465a4"><title>Wilson's, No 55</title></circle></a><a href="/setts/s4/g4dp5g4t2~x2/"><circle cx="217.2" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.209</title></circle></a><a href="/setts/s3/k5g4t2~x2/"><circle cx="177.9" cy="366.0" r="4" fill="#3465a4"><title>Mull</title></circle></a><circle cx="247.9" cy="346.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/db53g42r14~x2/"><circle cx="252.2" cy="348.1" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/setts/s3/db6g5r1~x4/"><circle cx="293.4" cy="323.6" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/setts/s3/db5g6r1~x4/"><circle cx="291.6" cy="323.6" r="4" fill="#3465a4"><title>Wilson's No 84, Ferguson</title></circle></a><a href="/setts/s3/g6dp5t1~x4/"><circle cx="289.9" cy="319.0" r="4" fill="#3465a4"><title>Wilson's No.055</title></circle></a><a href="/setts/s3/db13r2g13~x2/"><circle cx="288.7" cy="320.2" r="4" fill="#3465a4"><title>Wilson's No 62, (Ferguson)</title></circle></a><a href="/setts/s4/k5g14db12g4~x4/"><circle cx="265.3" cy="345.9" r="4" fill="#3465a4"><title>MacCurdie (Clan?)</title></circle></a><a href="/setts/s4/g7t2r4~x2/"><circle cx="225.9" cy="316.4" r="4" fill="#3465a4"><title>Wilson's No.208</title></circle></a><a href="/setts/s3/g6p5t1~x4/"><circle cx="273.8" cy="304.5" r="4" fill="#3465a4"><title>Wilson's, No 55</title></circle></a><a href="/setts/s4/g4dp5g4t2~x2/"><circle cx="217.4" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.209</title></circle></a><a href="/setts/s3/k5g4t2~x2/"><circle cx="178.2" cy="366.0" r="4" fill="#3465a4"><title>Mull</title></circle></a><circle cx="248.0" cy="346.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/db53g42r14/

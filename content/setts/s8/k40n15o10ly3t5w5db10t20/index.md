@@ -2,7 +2,7 @@
 title: "Julien Pigeut Tartan Tartan Number: 6574. Earliest known date: 2004 For the wedding of Julien and Sylvia Piguet. Also worn by Roland Mathez best man of Julien. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BBWBYRBK](/stripes/bbwbyrbk/) · **Stripes:** [T DB W T LY O N K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="seq">T DB W T LY O N K</span></span>
+**Bands:** [KBRYBWBB](/stripes/kbrybwbb/) · **Stripes:** [K N O LY T W DB T](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">K N O LY T W DB T</span></span>
 
 
 This was sourced from house-of-tartan.  It is a [8 band tartan](/bands/bands8/).
@@ -10,7 +10,7 @@ This was sourced from house-of-tartan.  It is a [8 band tartan](/bands/bands8/).
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6574
 
 ## Thread count
-B/20 DB10 LN5 B5 Y3 Na10 N15 K/40
+K/40 N15 Na10 Y3 B5 LN5 DB10 B/20
 ![Sett](sett.png)
 
 ## Palette
@@ -28,7 +28,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/20 DB10 LN5 B5 Y3 Na10 N15 K/40 tartan")
+![Tartan detail](tartan.png "K/40 N15 Na10 Y3 B5 LN5 DB10 B/20 tartan")
 
 ## Nearest tartans
 
@@ -38,7 +38,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Young Family Tartan Tartan Number: 2048. Earliest known date: 1991 Based on the Christina Young blanket dating from 1726 and preserved at the Scottish Tartans Society museum in Keith, Banffshire. The design retains the unusual purple - yellow - orange box check of the original blanket and changes only the ground colour to the greens and blues of the Douglas tartan. There are 7 colours. Black is normally replaced by dark blue in commercial weaving. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k3db3g15db15m5lo3ly2m1~x2/) — ΔT 0.85
 1. [Coats (New Zealand)](/setts/s9/k9ly6db9lr2o3lr2dg17db17lb5~x2/) — ΔT 0.92
 1. [Aurora House Check](/setts/s11/db40lg3db11k7g22k7db3w3lr10k32ly13~x2/) — ΔT 1.01
-1. [Renfrewshire Tartan](/setts/s7/ly4g13k8db25t8db2p4~x2/) — ΔT 1.04
+1. [Renfrewshire Tartan](/setts/s7/p4db2t8db25k8g13ly4~x2/) — ΔT 1.04
 1. [Moran (Virgin Islands) (Personal)](/setts/s9/t3r3k5g8w2k13db13t26w3~x2/) — ΔT 1.07
 1. [Iowa (District)](/setts/s8/r4ly3g12k16dy5db20k4w2~x2/) — ΔT 1.07
 1. [Silversea](/setts/s7/r3dt20dt20g2lr4lr17w3~x2/) — ΔT 1.09
@@ -47,8 +47,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k3db3g15db15dp5o3y2dp1~x2/"><circle cx="102.3" cy="127.1" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/setts/s8/k3db3g15db15m5lo3ly2m1~x2/"><circle cx="118.5" cy="131.9" r="4" fill="#3465a4"><title>Young Family Tartan Tartan Number: 2048. Earliest known date: 1991 Based on the Christina Young blanket dating from 1726 and preserved at the Scottish Tartans Society museum in Keith, Banffshire. The design retains the unusual purple - yellow - orange box check of the original blanket and changes only the ground colour to the greens and blues of the Douglas tartan. There are 7 colours. Black is normally replaced by dark blue in commercial weaving. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/k9ly6db9lr2o3lr2dg17db17lb5~x2/"><circle cx="86.0" cy="161.7" r="4" fill="#3465a4"><title>Coats (New Zealand)</title></circle></a><a href="/setts/s11/db40lg3db11k7g22k7db3w3lr10k32ly13~x2/"><circle cx="90.5" cy="115.1" r="4" fill="#3465a4"><title>Aurora House Check</title></circle></a><a href="/setts/s7/ly4g13k8db25t8db2p4~x2/"><circle cx="149.2" cy="164.5" r="4" fill="#3465a4"><title>Renfrewshire Tartan</title></circle></a><a href="/setts/s9/t3r3k5g8w2k13db13t26w3~x2/"><circle cx="133.3" cy="145.1" r="4" fill="#3465a4"><title>Moran (Virgin Islands) (Personal)</title></circle></a><a href="/setts/s8/r4ly3g12k16dy5db20k4w2~x2/"><circle cx="81.7" cy="156.5" r="4" fill="#3465a4"><title>Iowa (District)</title></circle></a><a href="/setts/s7/r3dt20dt20g2lr4lr17w3~x2/"><circle cx="77.0" cy="151.0" r="4" fill="#3465a4"><title>Silversea</title></circle></a><a href="/setts/s8/t26db13k13w2g8k5r3t3~x2/"><circle cx="150.8" cy="159.2" r="4" fill="#3465a4"><title>Moran (Coilessan) (Personal)</title></circle></a><a href="/setts/s8/k16w6k4b64m19k8g42ly6/"><circle cx="161.8" cy="135.5" r="4" fill="#3465a4"><title>Unidentified (Woven sample)</title></circle></a><circle cx="108.4" cy="135.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k3db3g15db15dp5o3y2dp1~x2/"><circle cx="102.5" cy="127.3" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/setts/s8/k3db3g15db15m5lo3ly2m1~x2/"><circle cx="118.6" cy="132.1" r="4" fill="#3465a4"><title>Young Family Tartan Tartan Number: 2048. Earliest known date: 1991 Based on the Christina Young blanket dating from 1726 and preserved at the Scottish Tartans Society museum in Keith, Banffshire. The design retains the unusual purple - yellow - orange box check of the original blanket and changes only the ground colour to the greens and blues of the Douglas tartan. There are 7 colours. Black is normally replaced by dark blue in commercial weaving. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/k9ly6db9lr2o3lr2dg17db17lb5~x2/"><circle cx="86.1" cy="161.8" r="4" fill="#3465a4"><title>Coats (New Zealand)</title></circle></a><a href="/setts/s11/db40lg3db11k7g22k7db3w3lr10k32ly13~x2/"><circle cx="90.6" cy="115.2" r="4" fill="#3465a4"><title>Aurora House Check</title></circle></a><a href="/setts/s7/p4db2t8db25k8g13ly4~x2/"><circle cx="149.3" cy="164.6" r="4" fill="#3465a4"><title>Renfrewshire Tartan</title></circle></a><a href="/setts/s9/t3r3k5g8w2k13db13t26w3~x2/"><circle cx="133.4" cy="145.1" r="4" fill="#3465a4"><title>Moran (Virgin Islands) (Personal)</title></circle></a><a href="/setts/s8/r4ly3g12k16dy5db20k4w2~x2/"><circle cx="81.9" cy="156.7" r="4" fill="#3465a4"><title>Iowa (District)</title></circle></a><a href="/setts/s7/r3dt20dt20g2lr4lr17w3~x2/"><circle cx="77.1" cy="151.1" r="4" fill="#3465a4"><title>Silversea</title></circle></a><a href="/setts/s8/t26db13k13w2g8k5r3t3~x2/"><circle cx="150.9" cy="159.3" r="4" fill="#3465a4"><title>Moran (Coilessan) (Personal)</title></circle></a><a href="/setts/s8/k16w6k4b64m19k8g42ly6/"><circle cx="161.8" cy="135.5" r="4" fill="#3465a4"><title>Unidentified (Woven sample)</title></circle></a><circle cx="108.5" cy="135.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k40n15o10ly3t5w5db10t20/

@@ -8,7 +8,7 @@ KGKBKGKR
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/r13k4y4k4db13k4y4k4~x4/tartan.png)
+![Woven sample](/setts/s8/db13k4y4k4r13~x4/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ KGKBKGKR
 
 | Tartans |
 |---------------|
-| [Clark, Red](/setts/s8/r13k4y4k4db13k4y4k4~x4/)|
-|![Clark, Red example sett](/setts/s8/r13k4y4k4db13k4y4k4~x4/sett.png)|
+| [Clark, Red](/setts/s8/db13k4y4k4r13~x4/)|
+|![Clark, Red example sett](/setts/s8/db13k4y4k4r13~x4/sett.png)|
 

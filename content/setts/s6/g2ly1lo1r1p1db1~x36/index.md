@@ -2,7 +2,7 @@
 title: "Rainbow"
 date: 2023-03-18
 ---
-**Bands:** [BBRYYG](/stripes/bbryyg/) · **Stripes:** [DB P R LO LY G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB P R LO LY G</span></span>
+**Bands:** [GYYRBB](/stripes/gyyrbb/) · **Stripes:** [G LY LO R P DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="seq">G LY LO R P DB</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/36 P36 R36 O36 Y36 G/72
+G/72 Y36 O36 R36 P36 B/36
 ![Sett](sett.png)
 
 ## Palette
@@ -902,7 +905,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/36 P36 R36 O36 Y36 G/72 tartan")
+![Tartan detail](tartan.png "G/72 Y36 O36 R36 P36 B/36 tartan")
 
 ## Nearest tartans
 
@@ -914,15 +917,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Stirling Millennium](/setts/s9/lp2w1y1g1g1dg1y1g1dg1~x20/) — ΔT 1.82
 1. [Krifa-Jean (Personal)](/setts/s7/dg4r5db4ly4do2o4r4~x5/) — ΔT 1.84
 1. [Mitchell, Martin (Personal)](/setts/s6/lr12lo8r5k6lr7g5~x4/) — ΔT 1.85
-1. [Dunoon Burgh Hall Trust](/setts/s5/db2m3g3o6ly2~x2/) — ΔT 2.01
+1. [Dunoon Burgh Hall Trust](/setts/s5/db2m3g3o6ly2~x2/) — ΔT 2.00
 1. [Nassau County Firefighters (P&D)](/setts/s10/k13w13r26lo13r20dt13r26g22w13k13/) — ΔT 2.01
 1. [Krifa-Jean (Personal)](/setts/s7/dg4r5ly4db4dy2k4r4~x10/) — ΔT 2.02
-1. [Wild Mustard Dreams](/setts/s5/lo17ly17o17g26b5~x2/) — ΔT 2.02
+1. [Wild Mustard Dreams](/setts/s5/lo17ly17o17g26b5~x2/) — ΔT 2.03
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g2ly1lo1r1dp1db1~x36/"><circle cx="14.0" cy="273.4" r="4" fill="#3465a4"><title>Rainbow (Fashion)</title></circle></a><a href="/setts/s9/ly2o1ly1o3o3db3ly2lr2db1~x4/"><circle cx="14.0" cy="243.3" r="4" fill="#3465a4"><title>Titanic</title></circle></a><a href="/setts/s9/dg2g1o1dg1g1g1o1w1lr2~x20/"><circle cx="14.0" cy="263.6" r="4" fill="#3465a4"><title>Stirling</title></circle></a><a href="/setts/s9/lp2w1y1g1g1dg1y1g1dg1~x20/"><circle cx="14.0" cy="274.3" r="4" fill="#3465a4"><title>Stirling Millennium</title></circle></a><a href="/setts/s7/dg4r5db4ly4do2o4r4~x5/"><circle cx="14.0" cy="259.9" r="4" fill="#3465a4"><title>Krifa-Jean (Personal)</title></circle></a><a href="/setts/s6/lr12lo8r5k6lr7g5~x4/"><circle cx="80.0" cy="287.3" r="4" fill="#3465a4"><title>Mitchell, Martin (Personal)</title></circle></a><a href="/setts/s5/db2m3g3o6ly2~x2/"><circle cx="63.7" cy="266.7" r="4" fill="#3465a4"><title>Dunoon Burgh Hall Trust</title></circle></a><a href="/setts/s10/k13w13r26lo13r20dt13r26g22w13k13/"><circle cx="15.7" cy="246.5" r="4" fill="#3465a4"><title>Nassau County Firefighters (P&amp;D)</title></circle></a><a href="/setts/s7/dg4r5ly4db4dy2k4r4~x10/"><circle cx="14.0" cy="255.5" r="4" fill="#3465a4"><title>Krifa-Jean (Personal)</title></circle></a><a href="/setts/s5/lo17ly17o17g26b5~x2/"><circle cx="66.7" cy="253.4" r="4" fill="#3465a4"><title>Wild Mustard Dreams</title></circle></a><circle cx="14.0" cy="271.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g2ly1lo1r1dp1db1~x36/"><circle cx="14.0" cy="273.5" r="4" fill="#3465a4"><title>Rainbow (Fashion)</title></circle></a><a href="/setts/s9/ly2o1ly1o3o3db3ly2lr2db1~x4/"><circle cx="14.0" cy="243.3" r="4" fill="#3465a4"><title>Titanic</title></circle></a><a href="/setts/s9/dg2g1o1dg1g1g1o1w1lr2~x20/"><circle cx="14.0" cy="263.7" r="4" fill="#3465a4"><title>Stirling</title></circle></a><a href="/setts/s9/lp2w1y1g1g1dg1y1g1dg1~x20/"><circle cx="14.0" cy="274.5" r="4" fill="#3465a4"><title>Stirling Millennium</title></circle></a><a href="/setts/s7/dg4r5db4ly4do2o4r4~x5/"><circle cx="14.0" cy="260.2" r="4" fill="#3465a4"><title>Krifa-Jean (Personal)</title></circle></a><a href="/setts/s6/lr12lo8r5k6lr7g5~x4/"><circle cx="80.1" cy="287.3" r="4" fill="#3465a4"><title>Mitchell, Martin (Personal)</title></circle></a><a href="/setts/s5/db2m3g3o6ly2~x2/"><circle cx="63.7" cy="266.7" r="4" fill="#3465a4"><title>Dunoon Burgh Hall Trust</title></circle></a><a href="/setts/s10/k13w13r26lo13r20dt13r26g22w13k13/"><circle cx="15.7" cy="246.6" r="4" fill="#3465a4"><title>Nassau County Firefighters (P&amp;D)</title></circle></a><a href="/setts/s7/dg4r5ly4db4dy2k4r4~x10/"><circle cx="14.0" cy="255.7" r="4" fill="#3465a4"><title>Krifa-Jean (Personal)</title></circle></a><a href="/setts/s5/lo17ly17o17g26b5~x2/"><circle cx="66.7" cy="253.4" r="4" fill="#3465a4"><title>Wild Mustard Dreams</title></circle></a><circle cx="14.0" cy="271.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/g2ly1lo1r1p1db1~x36/

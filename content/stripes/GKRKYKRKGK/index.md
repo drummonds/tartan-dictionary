@@ -18,10 +18,10 @@ GKRKYKRKGK
 
 
 
-### DG K R K LO K R K DG K <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="seq">DG K R K LO K R K DG K</span></span>
+### K DG K R K LO K R K DG <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K DG K R K LO K R K DG</span></span>
 
 | Tartans |
 |---------------|
-| [Kalkofen](/setts/s10/k40dg15k10r2k10lo2k10r2k10dg15~x2/)|
-|![Kalkofen example sett](/setts/s10/k40dg15k10r2k10lo2k10r2k10dg15~x2/sett.png)|
+| [Kalkofen](/setts/s10/k40dg15k10r2k10lo2~x2/)|
+|![Kalkofen example sett](/setts/s10/k40dg15k10r2k10lo2~x2/sett.png)|
 

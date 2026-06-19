@@ -20,7 +20,7 @@ BWRRBWR
 
 
 
-### N LB M O N LB M <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#CA047B"></span><span class="seq">N LB M O N LB M</span></span>
+### M LB N O M LB N <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="seq">M LB N O M LB N</span></span>
 
 | Tartans |
 |---------------|

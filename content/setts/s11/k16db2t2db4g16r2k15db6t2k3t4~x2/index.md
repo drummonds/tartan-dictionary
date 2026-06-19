@@ -2,12 +2,19 @@
 title: "Wilson's No.060"
 date: 2023-03-18
 ---
-**Bands:** [BKBBKRGBBBK](/stripes/bkbbkrgbbbk/) · **Stripes:** [T K T DB K R G DB T DB K](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">T K T DB K R G DB T DB K</span></span>
+**Bands:** [KBBBGRKBBKB](/stripes/kbbbgrkbbkb/) · **Stripes:** [K DB T DB G R K DB T K T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K DB T DB G R K DB T K T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4660
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Wilson's No.060
+- Wilson's, No 60
 
 ## Attestations
 
@@ -319,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -893,7 +903,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/8 K6 B4 DB12 K30 R4 G32 DB8 B4 DB4 K/32
+K/32 DB4 B4 DB8 G32 R4 K30 DB12 B4 K6 B/8
 ![Sett](sett.png)
 
 ## Palette
@@ -914,7 +924,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Scottish Tartans Authority](/setts/s11/k16k2t2k4dg16r2k15k6t2k3t4~x2/) — ΔT 0.33
-1. [Unidentified #32](/setts/s12/dg8k2ly1k1dg8k8dp8k2w1k1dp1k8~x2/) — ΔT 0.53
+1. [Unidentified #32](/setts/s12/k8dp1k1w1k2dp8k8dg8k1ly1k2dg8~x2/) — ΔT 0.53
 1. [Dama Resort (Fashion)](/setts/s11/dp3k2n6k2n2k18g13lb2g2k6dp2~x2/) — ΔT 0.55
 1. [Dama Resort](/setts/s11/p3k2n6k2n2k18y13lb2y2k6p2~x2/) — ΔT 0.77
 1. [Skene N](/setts/s12/k4db24k4r3k4dg24k4y3k4dg24r3k4~x2/) — ΔT 0.80
@@ -926,8 +936,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k16k2t2k4dg16r2k15k6t2k3t4~x2/"><circle cx="219.4" cy="195.5" r="4" fill="#3465a4"><title>Scottish Tartans Authority</title></circle></a><a href="/setts/s12/dg8k2ly1k1dg8k8dp8k2w1k1dp1k8~x2/"><circle cx="214.2" cy="193.2" r="4" fill="#3465a4"><title>Unidentified #32</title></circle></a><a href="/setts/s11/dp3k2n6k2n2k18g13lb2g2k6dp2~x2/"><circle cx="233.1" cy="176.5" r="4" fill="#3465a4"><title>Dama Resort (Fashion)</title></circle></a><a href="/setts/s11/p3k2n6k2n2k18y13lb2y2k6p2~x2/"><circle cx="230.2" cy="171.4" r="4" fill="#3465a4"><title>Dama Resort</title></circle></a><a href="/setts/s12/k4db24k4r3k4dg24k4y3k4dg24r3k4~x2/"><circle cx="221.3" cy="182.7" r="4" fill="#3465a4"><title>Skene N</title></circle></a><a href="/setts/s12/k4db24k4r3k4dg24k4y3k4dg24r3k4/"><circle cx="221.3" cy="182.7" r="4" fill="#3465a4"><title>Skene N</title></circle></a><a href="/setts/s10/k14t2db6dg7r2k14db6t2db2t4~x2/"><circle cx="211.6" cy="214.3" r="4" fill="#3465a4"><title>Unidentified #2</title></circle></a><a href="/setts/s10/dg8w1dg1r1dg4k4db8k1db1k1~x2/"><circle cx="221.2" cy="198.8" r="4" fill="#3465a4"><title>Scott #2</title></circle></a><a href="/setts/s10/g8w1g1r1g4k4db8k1db1k1~x4/"><circle cx="191.7" cy="184.5" r="4" fill="#3465a4"><title>Allen (1996)</title></circle></a><a href="/setts/s12/dt8r8dt42k4dt4k4dt4k20g4k10g25w8/"><circle cx="191.4" cy="166.6" r="4" fill="#3465a4"><title>Bannatyne</title></circle></a><circle cx="216.4" cy="192.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k16k2t2k4dg16r2k15k6t2k3t4~x2/"><circle cx="219.5" cy="195.6" r="4" fill="#3465a4"><title>Scottish Tartans Authority</title></circle></a><a href="/setts/s12/k8dp1k1w1k2dp8k8dg8k1ly1k2dg8~x2/"><circle cx="214.3" cy="193.3" r="4" fill="#3465a4"><title>Unidentified #32</title></circle></a><a href="/setts/s11/dp3k2n6k2n2k18g13lb2g2k6dp2~x2/"><circle cx="233.2" cy="176.5" r="4" fill="#3465a4"><title>Dama Resort (Fashion)</title></circle></a><a href="/setts/s11/p3k2n6k2n2k18y13lb2y2k6p2~x2/"><circle cx="230.2" cy="171.5" r="4" fill="#3465a4"><title>Dama Resort</title></circle></a><a href="/setts/s12/k4db24k4r3k4dg24k4y3k4dg24r3k4~x2/"><circle cx="221.5" cy="182.8" r="4" fill="#3465a4"><title>Skene N</title></circle></a><a href="/setts/s12/k4db24k4r3k4dg24k4y3k4dg24r3k4/"><circle cx="221.5" cy="182.8" r="4" fill="#3465a4"><title>Skene N</title></circle></a><a href="/setts/s10/k14t2db6dg7r2k14db6t2db2t4~x2/"><circle cx="211.7" cy="214.3" r="4" fill="#3465a4"><title>Unidentified #2</title></circle></a><a href="/setts/s10/dg8w1dg1r1dg4k4db8k1db1k1~x2/"><circle cx="221.3" cy="198.9" r="4" fill="#3465a4"><title>Scott #2</title></circle></a><a href="/setts/s10/g8w1g1r1g4k4db8k1db1k1~x4/"><circle cx="191.8" cy="184.6" r="4" fill="#3465a4"><title>Allen (1996)</title></circle></a><a href="/setts/s12/dt8r8dt42k4dt4k4dt4k20g4k10g25w8/"><circle cx="191.5" cy="166.6" r="4" fill="#3465a4"><title>Bannatyne</title></circle></a><circle cx="216.5" cy="192.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k16db2t2db4g16r2k15db6t2k3t4~x2/

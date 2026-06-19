@@ -18,10 +18,10 @@ GKYKGKYKGR
 
 
 
-### G K LY K G K LY K G R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">G K LY K G K LY K G R</span></span>
+### R G K LY K G K LY K G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G K LY K G K LY K G</span></span>
 
 | Tartans |
 |---------------|
-| [Harbor Club (Corporate)](/setts/s10/r47g14k5ly2k3g7k3ly2k5g14~x2/)|
-|![Harbor Club (Corporate) example sett](/setts/s10/r47g14k5ly2k3g7k3ly2k5g14~x2/sett.png)|
+| [Harbor Club (Corporate)](/setts/s10/r47g14k5ly2k3g7~x2/)|
+|![Harbor Club (Corporate) example sett](/setts/s10/r47g14k5ly2k3g7~x2/sett.png)|
 

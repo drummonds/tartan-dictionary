@@ -14,7 +14,7 @@ A family of [Clan MacGregor (Clan Gregor)](/clan/macgregor/).
 
 <ul class="tartan-grid">
 <li><a class="tartan" href="/setts/s5/g8r2g9r16g1~x2/"><img src="/setts/s5/g8r2g9r16g1~x2/sett.png" alt="MacGregor of Glen Strae" width="140"><br>MacGregor of Glen Strae</a></li>
-<li><a class="tartan" href="/setts/s4/r17g9r2g9~x2/"><img src="/setts/s4/r17g9r2g9~x2/sett.png" alt="MacGregor of Glenstrae" width="140"><br>MacGregor of Glenstrae</a></li>
-<li><a class="tartan" href="/setts/s4/r17dg9r2dg9~x2/"><img src="/setts/s4/r17dg9r2dg9~x2/sett.png" alt="MacGregor of Glenstrae #2" width="140"><br>MacGregor of Glenstrae #2</a></li>
+<li><a class="tartan" href="/setts/s4/r17g9r2~x2/"><img src="/setts/s4/r17g9r2~x2/sett.png" alt="MacGregor of Glenstrae" width="140"><br>MacGregor of Glenstrae</a></li>
+<li><a class="tartan" href="/setts/s4/r17dg9r2~x2/"><img src="/setts/s4/r17dg9r2~x2/sett.png" alt="MacGregor of Glenstrae #2" width="140"><br>MacGregor of Glenstrae #2</a></li>
 </ul>
 

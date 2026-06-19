@@ -2,7 +2,7 @@
 title: "Ayrshire"
 date: 2023-03-18
 ---
-**Bands:** [BBBBKGY](/stripes/bbbbkgy/) · **Stripes:** [P DB T DB K G LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">P DB T DB K G LY</span></span>
+**Bands:** [YGKBBBB](/stripes/ygkbbbb/) · **Stripes:** [LY G K DB T DB P](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">LY G K DB T DB P</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -888,7 +891,7 @@ External register numbers recorded for this tartan.
 
 Other setts woven to the same stripe pattern.
 
-- [Renfrewshire Tartan](/setts/s7/ly4g13k8db25t8db2p4~x2/)
+- [Renfrewshire Tartan](/setts/s7/p4db2t8db25k8g13ly4~x2/)
 
 
 ## Thread count
@@ -922,14 +925,14 @@ The nearest existing variants by ΔTartan distance.
 1. [National (1934), The](/setts/s9/w2db3r6k8g12lo1db4k2w2~x2/) — ΔT 1.04
 1. [Celtic Women International](/setts/s9/r3db16m2db2m12k8g12k12w3~x2/) — ΔT 1.06
 1. [Hoban (Name)](/setts/s9/ly3lp9k3lp4k9g15k9db11w2~x4/) — ΔT 1.10
-1. [Council of Scottish Clans & Ass. (Co](/setts/s7/ly2r2g15k14db16r2w2~x2/) — ΔT 1.12
-1. [Huntly Gordon](/setts/s6/ly2dg11k11n12dt3r2~x2/) — ΔT 1.12
-1. [Morris of Eddergoll (Personal)](/setts/s6/lo2g20k10r3db20w2~x2/) — ΔT 1.13
+1. [Council of Scottish Clans & Ass. (Co](/setts/s7/w2r2db16k14g15r2ly2~x2/) — ΔT 1.12
+1. [Huntly Gordon](/setts/s6/r2dt3n12k11dg11ly2~x2/) — ΔT 1.12
+1. [Morris of Eddergoll (Personal)](/setts/s6/w2db20r3k10g20lo2~x2/) — ΔT 1.13
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r3ly2g12k12db14w3~x2/"><circle cx="74.8" cy="202.6" r="4" fill="#3465a4"><title>Jamestown Parish Church (Corporate)</title></circle></a><a href="/setts/s7/w10k52db52dg24ly10dg5r5/"><circle cx="123.4" cy="167.3" r="4" fill="#3465a4"><title>Harvey of Cornwall (Personal)</title></circle></a><a href="/setts/s10/r12db22dg5db3ly3db3dg17b9dr7r2~x2/"><circle cx="97.4" cy="150.0" r="4" fill="#3465a4"><title>Royal Dornoch Golf Club, The</title></circle></a><a href="/setts/s9/g2dp2g10k6r2k6t10k1lb2~x2/"><circle cx="76.5" cy="158.1" r="4" fill="#3465a4"><title>Birch (Personal) (Estimated threadcount)</title></circle></a><a href="/setts/s9/w2db3r6k8g12lo1db4k2w2~x2/"><circle cx="74.8" cy="145.7" r="4" fill="#3465a4"><title>National (1934), The</title></circle></a><a href="/setts/s9/r3db16m2db2m12k8g12k12w3~x2/"><circle cx="66.0" cy="180.2" r="4" fill="#3465a4"><title>Celtic Women International</title></circle></a><a href="/setts/s9/ly3lp9k3lp4k9g15k9db11w2~x4/"><circle cx="50.9" cy="181.4" r="4" fill="#3465a4"><title>Hoban (Name)</title></circle></a><a href="/setts/s7/ly2r2g15k14db16r2w2~x2/"><circle cx="84.6" cy="167.3" r="4" fill="#3465a4"><title>Council of Scottish Clans &amp; Ass. (Co</title></circle></a><a href="/setts/s6/ly2dg11k11n12dt3r2~x2/"><circle cx="65.7" cy="209.6" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><a href="/setts/s6/lo2g20k10r3db20w2~x2/"><circle cx="138.7" cy="181.3" r="4" fill="#3465a4"><title>Morris of Eddergoll (Personal)</title></circle></a><circle cx="69.6" cy="178.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r3ly2g12k12db14w3~x2/"><circle cx="75.0" cy="202.7" r="4" fill="#3465a4"><title>Jamestown Parish Church (Corporate)</title></circle></a><a href="/setts/s7/w10k52db52dg24ly10dg5r5/"><circle cx="123.6" cy="167.4" r="4" fill="#3465a4"><title>Harvey of Cornwall (Personal)</title></circle></a><a href="/setts/s10/r12db22dg5db3ly3db3dg17b9dr7r2~x2/"><circle cx="97.6" cy="150.1" r="4" fill="#3465a4"><title>Royal Dornoch Golf Club, The</title></circle></a><a href="/setts/s9/g2dp2g10k6r2k6t10k1lb2~x2/"><circle cx="76.7" cy="158.2" r="4" fill="#3465a4"><title>Birch (Personal) (Estimated threadcount)</title></circle></a><a href="/setts/s9/w2db3r6k8g12lo1db4k2w2~x2/"><circle cx="74.9" cy="145.8" r="4" fill="#3465a4"><title>National (1934), The</title></circle></a><a href="/setts/s9/r3db16m2db2m12k8g12k12w3~x2/"><circle cx="66.2" cy="180.4" r="4" fill="#3465a4"><title>Celtic Women International</title></circle></a><a href="/setts/s9/ly3lp9k3lp4k9g15k9db11w2~x4/"><circle cx="51.0" cy="181.4" r="4" fill="#3465a4"><title>Hoban (Name)</title></circle></a><a href="/setts/s7/w2r2db16k14g15r2ly2~x2/"><circle cx="84.7" cy="167.4" r="4" fill="#3465a4"><title>Council of Scottish Clans &amp; Ass. (Co</title></circle></a><a href="/setts/s6/r2dt3n12k11dg11ly2~x2/"><circle cx="66.0" cy="209.7" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><a href="/setts/s6/w2db20r3k10g20lo2~x2/"><circle cx="138.9" cy="181.3" r="4" fill="#3465a4"><title>Morris of Eddergoll (Personal)</title></circle></a><circle cx="69.8" cy="178.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/p11db2t4db21k16g19ly4~x2/

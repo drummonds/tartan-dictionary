@@ -2,7 +2,7 @@
 title: "Cameron of Locheil #3"
 date: 2023-03-18
 ---
-**Bands:** [RBRKWKRKR](/stripes/rbrkwkrkr/) · **Stripes:** [R DB R K W K R K R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB R K W K R K R</span></span>
+**Bands:** [RKRKWKRBR](/stripes/rkrkwkrbr/) · **Stripes:** [R K R K W K R DB R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K W K R DB R</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
@@ -34,21 +34,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [MacIver (Clan)](/setts/s9/ly2r12k3r3k16r3k3r12w2~x2/) — ΔT 0.45
+1. [MacIver (Clan)](/setts/s9/w2r12k3r3k16r3k3r12ly2~x2/) — ΔT 0.45
 1. [Cameron of Locheil #2](/setts/s9/r6g3r6db1w1db1r2db8r4~x4/) — ΔT 0.78
-1. [MacIver #2](/setts/s9/ly3r27k5r5k32r5k5r27w3~x2/) — ΔT 0.86
+1. [MacIver #2](/setts/s9/w3r27k5r5k32r5k5r27ly3~x2/) — ΔT 0.86
 1. [Alexander - 1985 (Name)](/setts/s9/r12g2r4g4k15t4r4t2r12~x2/) — ΔT 0.92
-1. [Cameron of Locheil](/setts/s9/r6dg3r6db1lb1db1r2db8r4~x2/) — ΔT 0.95
+1. [Cameron of Locheil](/setts/s9/r6dg3r6db1lb1db1r2db8r4/) — ΔT 0.95
 1. [Morrison LC](/setts/s9/dg9lb4dg15r17k5r7k5r32dg5/) — ΔT 0.95
 1. [Alexander](/setts/s9/r12db2r4db4k15g4r4g2r12~x2/) — ΔT 0.97
 1. [Morrison Ancient](/setts/s10/dg6w3dg12r12k4r6k4r24dg4r6/) — ΔT 1.01
 1. [Brice](/setts/s10/k9r18w2k2w4k2w2r12k9r6~x2/) — ΔT 1.05
-1. [MacNicol](/setts/s12/r6dg1r6k4r1lb1r1dg8r6k1r6dg1~x2/) — ΔT 1.08
+1. [MacNicol](/setts/s12/r6dg1r6k4r1lb1r1dg8r6k1r6dg1/) — ΔT 1.08
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/ly2r12k3r3k16r3k3r12w2~x2/"><circle cx="283.1" cy="182.3" r="4" fill="#3465a4"><title>MacIver (Clan)</title></circle></a><a href="/setts/s9/r6g3r6db1w1db1r2db8r4~x4/"><circle cx="268.5" cy="195.7" r="4" fill="#3465a4"><title>Cameron of Locheil #2</title></circle></a><a href="/setts/s9/ly3r27k5r5k32r5k5r27w3~x2/"><circle cx="322.7" cy="161.1" r="4" fill="#3465a4"><title>MacIver #2</title></circle></a><a href="/setts/s9/r12g2r4g4k15t4r4t2r12~x2/"><circle cx="259.3" cy="200.3" r="4" fill="#3465a4"><title>Alexander - 1985 (Name)</title></circle></a><a href="/setts/s9/r6dg3r6db1lb1db1r2db8r4~x2/"><circle cx="274.4" cy="198.9" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s9/dg9lb4dg15r17k5r7k5r32dg5/"><circle cx="281.7" cy="188.9" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/setts/s9/r12db2r4db4k15g4r4g2r12~x2/"><circle cx="243.2" cy="195.1" r="4" fill="#3465a4"><title>Alexander</title></circle></a><a href="/setts/s10/dg6w3dg12r12k4r6k4r24dg4r6/"><circle cx="301.6" cy="186.9" r="4" fill="#3465a4"><title>Morrison Ancient</title></circle></a><a href="/setts/s10/k9r18w2k2w4k2w2r12k9r6~x2/"><circle cx="280.8" cy="184.6" r="4" fill="#3465a4"><title>Brice</title></circle></a><a href="/setts/s12/r6dg1r6k4r1lb1r1dg8r6k1r6dg1~x2/"><circle cx="306.5" cy="179.7" r="4" fill="#3465a4"><title>MacNicol</title></circle></a><circle cx="281.2" cy="186.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w2r12k3r3k16r3k3r12ly2~x2/"><circle cx="282.9" cy="182.1" r="4" fill="#3465a4"><title>MacIver (Clan)</title></circle></a><a href="/setts/s9/r6g3r6db1w1db1r2db8r4~x4/"><circle cx="268.3" cy="195.5" r="4" fill="#3465a4"><title>Cameron of Locheil #2</title></circle></a><a href="/setts/s9/w3r27k5r5k32r5k5r27ly3~x2/"><circle cx="322.3" cy="161.0" r="4" fill="#3465a4"><title>MacIver #2</title></circle></a><a href="/setts/s9/r12g2r4g4k15t4r4t2r12~x2/"><circle cx="259.1" cy="200.2" r="4" fill="#3465a4"><title>Alexander - 1985 (Name)</title></circle></a><a href="/setts/s9/r6dg3r6db1lb1db1r2db8r4/"><circle cx="274.2" cy="198.7" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s9/dg9lb4dg15r17k5r7k5r32dg5/"><circle cx="281.5" cy="188.7" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/setts/s9/r12db2r4db4k15g4r4g2r12~x2/"><circle cx="243.1" cy="195.0" r="4" fill="#3465a4"><title>Alexander</title></circle></a><a href="/setts/s10/dg6w3dg12r12k4r6k4r24dg4r6/"><circle cx="301.3" cy="186.8" r="4" fill="#3465a4"><title>Morrison Ancient</title></circle></a><a href="/setts/s10/k9r18w2k2w4k2w2r12k9r6~x2/"><circle cx="280.5" cy="184.4" r="4" fill="#3465a4"><title>Brice</title></circle></a><a href="/setts/s12/r6dg1r6k4r1lb1r1dg8r6k1r6dg1/"><circle cx="306.2" cy="179.5" r="4" fill="#3465a4"><title>MacNicol</title></circle></a><circle cx="281.0" cy="186.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r24db8r23k4w4k4r10k32r8/

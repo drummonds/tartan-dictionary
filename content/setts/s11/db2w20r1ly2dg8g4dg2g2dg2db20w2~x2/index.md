@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3203
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Nova Scotia, dress
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -319,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,7 +921,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Nova Scotia Dress (District)](/setts/s11/b2w20r1ly2dg8g4dg2g2dg2b20w2~x2/) — ΔT 0.64
+1. [Nova Scotia Dress (District)](/setts/s11/b2w20r1ly2dg8g4dg2g2dg2b20w2~x2/) — ΔT 0.65
 1. [Alberta Dress](/setts/s10/w4g3w19g8k1r4k1db18k1lo2~x2/) — ΔT 0.71
 1. [Anstey (Personal)](/setts/s15/w6db6w3db44dg20g8dg2g8dg6r3dg2r3dg4w25lo4/) — ΔT 0.88
 1. [Minnesota Dress](/setts/s9/dp4k2w3k2db30g9k4w20ly3~x2/) — ΔT 0.97
@@ -925,8 +934,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/b2w20r1ly2dg8g4dg2g2dg2b20w2~x2/"><circle cx="144.9" cy="88.5" r="4" fill="#3465a4"><title>Nova Scotia Dress (District)</title></circle></a><a href="/setts/s10/w4g3w19g8k1r4k1db18k1lo2~x2/"><circle cx="137.7" cy="88.4" r="4" fill="#3465a4"><title>Alberta Dress</title></circle></a><a href="/setts/s15/w6db6w3db44dg20g8dg2g8dg6r3dg2r3dg4w25lo4/"><circle cx="136.0" cy="72.3" r="4" fill="#3465a4"><title>Anstey (Personal)</title></circle></a><a href="/setts/s9/dp4k2w3k2db30g9k4w20ly3~x2/"><circle cx="142.8" cy="105.8" r="4" fill="#3465a4"><title>Minnesota Dress</title></circle></a><a href="/setts/s10/ly4db25g3k3g3k3g13w24k2r3~x2/"><circle cx="87.9" cy="109.8" r="4" fill="#3465a4"><title>MacLeod, Californian</title></circle></a><a href="/setts/s9/g5db22g6k10w24ly2db2w2r2~x2/"><circle cx="105.3" cy="117.6" r="4" fill="#3465a4"><title>Haymarket, dress Blue</title></circle></a><a href="/setts/s13/db24k4dg8ly4dg8k4w4k4w24k1w2k1ly3~x2/"><circle cx="136.2" cy="88.9" r="4" fill="#3465a4"><title>Gordon Dress #4</title></circle></a><a href="/setts/s10/ly4b25g3k3g3k3g13w24k2r3~x2/"><circle cx="88.0" cy="109.5" r="4" fill="#3465a4"><title>MacLeod Special Dress (Dance)</title></circle></a><a href="/setts/s12/db3o2b12db14r2db4dy6o4w24r2w2db3~x2/"><circle cx="93.6" cy="101.8" r="4" fill="#3465a4"><title>Lashbrooke of Barrowfield (Personal)</title></circle></a><a href="/setts/s10/w50g5ly2g5r2g20r2db5ly2db40~x2/"><circle cx="194.5" cy="86.9" r="4" fill="#3465a4"><title>Cornell (Fashion)</title></circle></a><circle cx="138.4" cy="83.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/b2w20r1ly2dg8g4dg2g2dg2b20w2~x2/"><circle cx="144.7" cy="88.5" r="4" fill="#3465a4"><title>Nova Scotia Dress (District)</title></circle></a><a href="/setts/s10/w4g3w19g8k1r4k1db18k1lo2~x2/"><circle cx="137.5" cy="88.4" r="4" fill="#3465a4"><title>Alberta Dress</title></circle></a><a href="/setts/s15/w6db6w3db44dg20g8dg2g8dg6r3dg2r3dg4w25lo4/"><circle cx="135.9" cy="72.4" r="4" fill="#3465a4"><title>Anstey (Personal)</title></circle></a><a href="/setts/s9/dp4k2w3k2db30g9k4w20ly3~x2/"><circle cx="142.7" cy="105.8" r="4" fill="#3465a4"><title>Minnesota Dress</title></circle></a><a href="/setts/s10/ly4db25g3k3g3k3g13w24k2r3~x2/"><circle cx="87.8" cy="109.8" r="4" fill="#3465a4"><title>MacLeod, Californian</title></circle></a><a href="/setts/s9/g5db22g6k10w24ly2db2w2r2~x2/"><circle cx="105.3" cy="117.6" r="4" fill="#3465a4"><title>Haymarket, dress Blue</title></circle></a><a href="/setts/s13/db24k4dg8ly4dg8k4w4k4w24k1w2k1ly3~x2/"><circle cx="136.0" cy="88.9" r="4" fill="#3465a4"><title>Gordon Dress #4</title></circle></a><a href="/setts/s10/ly4b25g3k3g3k3g13w24k2r3~x2/"><circle cx="87.8" cy="109.6" r="4" fill="#3465a4"><title>MacLeod Special Dress (Dance)</title></circle></a><a href="/setts/s12/db3o2b12db14r2db4dy6o4w24r2w2db3~x2/"><circle cx="93.4" cy="101.9" r="4" fill="#3465a4"><title>Lashbrooke of Barrowfield (Personal)</title></circle></a><a href="/setts/s10/w50g5ly2g5r2g20r2db5ly2db40~x2/"><circle cx="194.2" cy="86.9" r="4" fill="#3465a4"><title>Cornell (Fashion)</title></circle></a><circle cx="138.2" cy="83.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db2w20r1ly2dg8g4dg2g2dg2db20w2~x2/

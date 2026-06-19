@@ -2,7 +2,7 @@
 title: "Campbell, Sir Walter Scott"
 date: 2023-03-18
 ---
-**Bands:** [KBKBGK](/stripes/kbkbgk/) · **Stripes:** [K P K DB G K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">K P K DB G K</span></span>
+**Bands:** [KGBKBK](/stripes/kgbkbk/) · **Stripes:** [K G DB K P K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="seq">K G DB K P K</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -907,10 +910,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Scott, Sir Walter](/setts/s6/k3g9t2k11p9k3~x2/) — ΔT 0.43
-1. [Lennie](/setts/s6/g2p8k9t2g10k2~x2/) — ΔT 0.89
+1. [Lennie](/setts/s6/k2g10t2k9p8g2~x2/) — ΔT 0.89
 1. [Forbes Ancient](/setts/s7/db1k6db6k6g6k1w1~x2/) — ΔT 1.02
 1. [MacNeil 2](/setts/s6/w2p10k10g9k3w2~x2/) — ΔT 1.07
-1. [Scottish Airports](/setts/s6/dp4dt18k17dt3g18dt4~x2/) — ΔT 1.12
+1. [Scottish Airports](/setts/s6/dt4g18dt3k17dt18dp4~x2/) — ΔT 1.11
 1. [Denholm (Fashion)](/setts/s5/k5g20k18db20r5~x2/) — ΔT 1.13
 1. [Wilson's, No 64 or Abercrombie](/setts/s7/k6g6w1g6k6p6k1~x4/) — ΔT 1.15
 1. [Wilson's, No 108](/setts/s8/k7g7k1g7k7t1p7k1~x4/) — ΔT 1.16
@@ -919,8 +922,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k3g9t2k11p9k3~x2/"><circle cx="168.1" cy="251.2" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/setts/s6/g2p8k9t2g10k2~x2/"><circle cx="126.8" cy="244.3" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/setts/s7/db1k6db6k6g6k1w1~x2/"><circle cx="184.1" cy="241.0" r="4" fill="#3465a4"><title>Forbes Ancient</title></circle></a><a href="/setts/s6/w2p10k10g9k3w2~x2/"><circle cx="106.8" cy="238.1" r="4" fill="#3465a4"><title>MacNeil 2</title></circle></a><a href="/setts/s6/dp4dt18k17dt3g18dt4~x2/"><circle cx="162.0" cy="252.7" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/setts/s5/k5g20k18db20r5~x2/"><circle cx="110.1" cy="284.5" r="4" fill="#3465a4"><title>Denholm (Fashion)</title></circle></a><a href="/setts/s7/k6g6w1g6k6p6k1~x4/"><circle cx="136.4" cy="250.2" r="4" fill="#3465a4"><title>Wilson's, No 64 or Abercrombie</title></circle></a><a href="/setts/s8/k7g7k1g7k7t1p7k1~x4/"><circle cx="163.6" cy="228.6" r="4" fill="#3465a4"><title>Wilson's, No 108</title></circle></a><a href="/setts/s7/k6g6ly1g6k6p6k1~x4/"><circle cx="137.4" cy="250.6" r="4" fill="#3465a4"><title>Abercrombie, (Wilson's No 64)</title></circle></a><a href="/setts/s6/k5lb2dg18k17dp16k3/"><circle cx="187.2" cy="231.6" r="4" fill="#3465a4"><title>Melville</title></circle></a><circle cx="151.9" cy="255.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k3g9t2k11p9k3~x2/"><circle cx="168.4" cy="251.1" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/setts/s6/k2g10t2k9p8g2~x2/"><circle cx="127.0" cy="244.2" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/setts/s7/db1k6db6k6g6k1w1~x2/"><circle cx="184.4" cy="240.8" r="4" fill="#3465a4"><title>Forbes Ancient</title></circle></a><a href="/setts/s6/w2p10k10g9k3w2~x2/"><circle cx="107.0" cy="238.0" r="4" fill="#3465a4"><title>MacNeil 2</title></circle></a><a href="/setts/s6/dt4g18dt3k17dt18dp4~x2/"><circle cx="162.3" cy="252.7" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/setts/s5/k5g20k18db20r5~x2/"><circle cx="110.5" cy="284.5" r="4" fill="#3465a4"><title>Denholm (Fashion)</title></circle></a><a href="/setts/s7/k6g6w1g6k6p6k1~x4/"><circle cx="136.6" cy="250.1" r="4" fill="#3465a4"><title>Wilson's, No 64 or Abercrombie</title></circle></a><a href="/setts/s8/k7g7k1g7k7t1p7k1~x4/"><circle cx="163.8" cy="228.5" r="4" fill="#3465a4"><title>Wilson's, No 108</title></circle></a><a href="/setts/s7/k6g6ly1g6k6p6k1~x4/"><circle cx="137.6" cy="250.4" r="4" fill="#3465a4"><title>Abercrombie, (Wilson's No 64)</title></circle></a><a href="/setts/s6/k5lb2dg18k17dp16k3/"><circle cx="187.5" cy="231.6" r="4" fill="#3465a4"><title>Melville</title></circle></a><circle cx="152.2" cy="255.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k2g8db2k9p7k2~x2/

@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -895,7 +898,7 @@ External register numbers recorded for this tartan.
 
 Other setts woven to the same stripe pattern.
 
-- [Justus](/setts/s4/k5ly1k1ly1~x12/)
+- [Justus](/setts/s4/k5ly1k1~x12/)
 - [Raeburn](/setts/s4/k34ly3k34ly26~x2/)
 
 
@@ -920,20 +923,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Raeburn](/setts/s4/k34ly3k34ly26~x2/) — ΔT 1.41
-1. [MacFarlane VS](/setts/s4/k7lr6k1lr6~x2/) — ΔT 1.78
-1. [MacFarlane VS](/setts/s4/k7lr6k1lr6/) — ΔT 1.78
+1. [MacFarlane VS](/setts/s4/k7lr6k1~x2/) — ΔT 1.78
+1. [MacFarlane VS](/setts/s4/k7lr6k1/) — ΔT 1.78
 1. [Zwijnenberg, Frans (Personal)](/setts/s3/k23g8lo8~x4/) — ΔT 2.05
 1. [Zwijnenberg, Frans (Personal)](/setts/s3/k23g8ly8~x4/) — ΔT 2.10
 1. [Lords, of Skye](/setts/s4/k46o7k8w20~x2/) — ΔT 2.11
 1. [Cowie, Justine (Personal)](/setts/s3/g9k18r2~x4/) — ΔT 2.13
-1. [MacLeod of Lewis](/setts/s5/k8ly1k8ly12r1/) — ΔT 2.14
 1. [Kincaid, of Kincaid](/setts/s3/k4g6r1~x10/) — ΔT 2.16
 1. [Lords of Skye (Fashion?)](/setts/s4/k46dy7k8w20~x2/) — ΔT 2.18
+1. [MacLeod of Lewis](/setts/s5/k8ly1k8ly12r1~x2/) — ΔT 2.22
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/k34ly3k34ly26~x2/"><circle cx="391.0" cy="278.5" r="4" fill="#3465a4"><title>Raeburn</title></circle></a><a href="/setts/s4/k7lr6k1lr6~x2/"><circle cx="300.3" cy="293.3" r="4" fill="#3465a4"><title>MacFarlane VS</title></circle></a><a href="/setts/s4/k7lr6k1lr6/"><circle cx="300.3" cy="293.3" r="4" fill="#3465a4"><title>MacFarlane VS</title></circle></a><a href="/setts/s3/k23g8lo8~x4/"><circle cx="241.4" cy="323.7" r="4" fill="#3465a4"><title>Zwijnenberg, Frans (Personal)</title></circle></a><a href="/setts/s3/k23g8ly8~x4/"><circle cx="241.2" cy="319.3" r="4" fill="#3465a4"><title>Zwijnenberg, Frans (Personal)</title></circle></a><a href="/setts/s4/k46o7k8w20~x2/"><circle cx="337.4" cy="256.5" r="4" fill="#3465a4"><title>Lords, of Skye</title></circle></a><a href="/setts/s3/g9k18r2~x4/"><circle cx="343.2" cy="277.9" r="4" fill="#3465a4"><title>Cowie, Justine (Personal)</title></circle></a><a href="/setts/s5/k8ly1k8ly12r1/"><circle cx="292.1" cy="227.3" r="4" fill="#3465a4"><title>MacLeod of Lewis</title></circle></a><a href="/setts/s3/k4g6r1~x10/"><circle cx="258.0" cy="299.3" r="4" fill="#3465a4"><title>Kincaid, of Kincaid</title></circle></a><a href="/setts/s4/k46dy7k8w20~x2/"><circle cx="335.8" cy="250.0" r="4" fill="#3465a4"><title>Lords of Skye (Fashion?)</title></circle></a><circle cx="312.7" cy="306.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/k34ly3k34ly26~x2/"><circle cx="390.9" cy="278.0" r="4" fill="#3465a4"><title>Raeburn</title></circle></a><a href="/setts/s4/k7lr6k1~x2/"><circle cx="300.3" cy="292.9" r="4" fill="#3465a4"><title>MacFarlane VS</title></circle></a><a href="/setts/s4/k7lr6k1/"><circle cx="300.3" cy="292.9" r="4" fill="#3465a4"><title>MacFarlane VS</title></circle></a><a href="/setts/s3/k23g8lo8~x4/"><circle cx="241.6" cy="323.3" r="4" fill="#3465a4"><title>Zwijnenberg, Frans (Personal)</title></circle></a><a href="/setts/s3/k23g8ly8~x4/"><circle cx="241.4" cy="319.0" r="4" fill="#3465a4"><title>Zwijnenberg, Frans (Personal)</title></circle></a><a href="/setts/s4/k46o7k8w20~x2/"><circle cx="337.5" cy="256.1" r="4" fill="#3465a4"><title>Lords, of Skye</title></circle></a><a href="/setts/s3/g9k18r2~x4/"><circle cx="343.3" cy="277.5" r="4" fill="#3465a4"><title>Cowie, Justine (Personal)</title></circle></a><a href="/setts/s3/k4g6r1~x10/"><circle cx="258.1" cy="299.0" r="4" fill="#3465a4"><title>Kincaid, of Kincaid</title></circle></a><a href="/setts/s4/k46dy7k8w20~x2/"><circle cx="335.8" cy="249.6" r="4" fill="#3465a4"><title>Lords of Skye (Fashion?)</title></circle></a><a href="/setts/s5/k8ly1k8ly12r1~x2/"><circle cx="286.9" cy="222.8" r="4" fill="#3465a4"><title>MacLeod of Lewis</title></circle></a><circle cx="312.8" cy="305.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/k6ly1k6ly6~x6/

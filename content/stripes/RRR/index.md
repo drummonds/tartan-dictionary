@@ -8,7 +8,7 @@ RRR
 
 It is a 3 band tartan.
 
-![Woven sample](/setts/s3/o1o2r1~x10/tartan.png)
+![Woven sample](/setts/s3/r1o2o1~x10/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ RRR
 
 
 
-### O O R <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">O O R</span></span>
+### R O O <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R O O</span></span>
 
 | Tartans |
 |---------------|
-| [Glenmorangie, Check](/setts/s3/o1o2r1~x10/)|
-|![Glenmorangie, Check example sett](/setts/s3/o1o2r1~x10/sett.png)|
+| [Glenmorangie, Check](/setts/s3/r1o2o1~x10/)|
+|![Glenmorangie, Check example sett](/setts/s3/r1o2o1~x10/sett.png)|
 

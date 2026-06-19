@@ -21,14 +21,14 @@ BGBRBY
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB DG DB R DB LY <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB DG DB R DB LY</span></span>
+### LY DB R DB DG DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB R DB DG DB</span></span>
 
 | Tartans |
 |---------------|
 | [Kilgour](/setts/s6/db14dg21db4r21db14ly2~x2/)|
 |![Kilgour example sett](/setts/s6/db14dg21db4r21db14ly2~x2/sett.png)|
 
-### DB G DB R DB LY <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB G DB R DB LY</span></span>
+### LY DB R DB G DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB R DB G DB</span></span>
 
 | Tartans |
 |---------------|

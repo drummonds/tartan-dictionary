@@ -18,10 +18,10 @@ BKBKBKWGRGWK
 
 
 
-### DB K DB K DB K W G R G W K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K DB K DB K W G R G W K</span></span>
+### K W G R G W K DB K DB K DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K W G R G W K DB K DB K DB</span></span>
 
 | Tartans |
 |---------------|
-| [Fruin Colquhoun](/setts/s12/db19k3db2k3db19k19w3g19r5g19w3k19~x2/)|
-|![Fruin Colquhoun example sett](/setts/s12/db19k3db2k3db19k19w3g19r5g19w3k19~x2/sett.png)|
+| [Fruin Colquhoun](/setts/s12/k19w3g19r5g19w3k19db19k3db2k3db19~x2/)|
+|![Fruin Colquhoun example sett](/setts/s12/k19w3g19r5g19w3k19db19k3db2k3db19~x2/sett.png)|
 

@@ -2,7 +2,7 @@
 title: "MacLaren Dress"
 date: 2023-03-18
 ---
-**Bands:** [BWKGRGKY](/stripes/bwkgrgky/) · **Stripes:** [DB W K G R G K LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DB W K G R G K LO</span></span>
+**Bands:** [YKGRGKWB](/stripes/ykgrgkwb/) · **Stripes:** [LO K G R G K W DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">LO K G R G K W DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 649
 
 ## Thread count
-DB/4 W24 K16 G16 R4 G16 K2 DY/4
+DY/4 K2 G16 R4 G16 K16 W24 DB/4
 ![Sett](sett.png)
 
 ## Palette
@@ -42,7 +42,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/4 W24 K16 G16 R4 G16 K2 DY/4 tartan")
+![Tartan detail](tartan.png "DY/4 K2 G16 R4 G16 K16 W24 DB/4 tartan")
 
 ## Nearest tartans
 
@@ -61,8 +61,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db7w30k13g9r6g16k2ly7~x2/"><circle cx="76.0" cy="132.5" r="4" fill="#3465a4"><title>MacLaren dress</title></circle></a><a href="/setts/s8/r6w20g12o3g8t20k2t3~x2/"><circle cx="82.5" cy="152.9" r="4" fill="#3465a4"><title>Coulter Dress (Personal)</title></circle></a><a href="/setts/s7/db20r2g9w6ly4k2g8~x2/"><circle cx="130.6" cy="163.7" r="4" fill="#3465a4"><title>Crofters (Personal)</title></circle></a><a href="/setts/s10/r7k2t16ly5t10k13w28g2w4g2~x2/"><circle cx="101.6" cy="109.6" r="4" fill="#3465a4"><title>Gillies, Blue dress</title></circle></a><a href="/setts/s7/db8w33k15dg17t3dg17t3~x2/"><circle cx="114.9" cy="174.9" r="4" fill="#3465a4"><title>MacRobart Dress (Personal)</title></circle></a><a href="/setts/s10/ly6k2g15r6g8k12w25t2w3t2~x2/"><circle cx="84.7" cy="116.5" r="4" fill="#3465a4"><title>Gillies, dress Green</title></circle></a><a href="/setts/s10/r7k2t16ly5t10k13w28dg2w4dg4~x2/"><circle cx="93.8" cy="110.4" r="4" fill="#3465a4"><title>Gillies Dress Blue #1 (Dance)</title></circle></a><a href="/setts/s7/ly8r3b2db1w6g12db2~x2/"><circle cx="89.8" cy="144.4" r="4" fill="#3465a4"><title>Carmen Lau (Hong Kong) (Personal)</title></circle></a><a href="/setts/s7/lb4ly2lb21k11w2n21r2~x2/"><circle cx="148.9" cy="143.4" r="4" fill="#3465a4"><title>Barbour -Modern</title></circle></a><a href="/setts/s10/ly6k2t15r5t9k13w25db2w3db2~x2/"><circle cx="87.7" cy="114.8" r="4" fill="#3465a4"><title>Gillies, dress Blue</title></circle></a><circle cx="98.1" cy="144.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db7w30k13g9r6g16k2ly7~x2/"><circle cx="75.9" cy="132.5" r="4" fill="#3465a4"><title>MacLaren dress</title></circle></a><a href="/setts/s8/r6w20g12o3g8t20k2t3~x2/"><circle cx="82.4" cy="153.0" r="4" fill="#3465a4"><title>Coulter Dress (Personal)</title></circle></a><a href="/setts/s7/db20r2g9w6ly4k2g8~x2/"><circle cx="130.5" cy="163.7" r="4" fill="#3465a4"><title>Crofters (Personal)</title></circle></a><a href="/setts/s10/r7k2t16ly5t10k13w28g2w4g2~x2/"><circle cx="101.4" cy="109.6" r="4" fill="#3465a4"><title>Gillies, Blue dress</title></circle></a><a href="/setts/s7/db8w33k15dg17t3dg17t3~x2/"><circle cx="114.9" cy="174.8" r="4" fill="#3465a4"><title>MacRobart Dress (Personal)</title></circle></a><a href="/setts/s10/ly6k2g15r6g8k12w25t2w3t2~x2/"><circle cx="84.5" cy="116.5" r="4" fill="#3465a4"><title>Gillies, dress Green</title></circle></a><a href="/setts/s10/r7k2t16ly5t10k13w28dg2w4dg4~x2/"><circle cx="93.6" cy="110.4" r="4" fill="#3465a4"><title>Gillies Dress Blue #1 (Dance)</title></circle></a><a href="/setts/s7/ly8r3b2db1w6g12db2~x2/"><circle cx="89.6" cy="144.4" r="4" fill="#3465a4"><title>Carmen Lau (Hong Kong) (Personal)</title></circle></a><a href="/setts/s7/lb4ly2lb21k11w2n21r2~x2/"><circle cx="148.7" cy="143.3" r="4" fill="#3465a4"><title>Barbour -Modern</title></circle></a><a href="/setts/s10/ly6k2t15r5t9k13w25db2w3db2~x2/"><circle cx="87.5" cy="114.8" r="4" fill="#3465a4"><title>Gillies, dress Blue</title></circle></a><circle cx="98.0" cy="144.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db2w12k8g8r2g8k1lo2~x2/

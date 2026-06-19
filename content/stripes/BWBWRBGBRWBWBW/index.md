@@ -22,6 +22,6 @@ BWBWRBGBRWBWBW
 
 | Tartans |
 |---------------|
-| [Culloden Red Dress (Dance)](/setts/s14/w12dp6w44dp45w6r45dp8g16dp8r45w6dp45w44dp6/)|
-|![Culloden Red Dress (Dance) example sett](/setts/s14/w12dp6w44dp45w6r45dp8g16dp8r45w6dp45w44dp6/sett.png)|
+| [Culloden Red Dress (Dance)](/setts/s14/g16dp8r45w6dp45w44dp6w12/)|
+|![Culloden Red Dress (Dance) example sett](/setts/s14/g16dp8r45w6dp45w44dp6w12/sett.png)|
 

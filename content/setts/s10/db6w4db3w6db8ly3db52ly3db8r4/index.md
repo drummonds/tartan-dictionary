@@ -2,7 +2,7 @@
 title: "Dundee F.C."
 date: 2023-03-18
 ---
-**Bands:** [BWBWBYBYBR](/stripes/bwbwbybybr/) · **Stripes:** [DB W DB W DB LY DB LY DB R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB W DB W DB LY DB LY DB R</span></span>
+**Bands:** [RBYBYBWBWB](/stripes/rbybybwbwb/) · **Stripes:** [R DB LY DB LY DB W DB W DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB LY DB LY DB W DB W DB</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -903,20 +906,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Dundee F.C. Corporate Tartan Tartan Number: 2058. Earliest known date: 1990 The tartan of the Dundee Football Club launched on the 10th December, 1990. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/db6w4db3w6db8lo3db52lo3db8r4/) — ΔT 1.02
-1. [Clackson (Personal)](/setts/s13/db29r2db10lo5db4w5db4lo5db4w5db10r2db29~x2/) — ΔT 1.21
+1. [Clackson (Personal)](/setts/s13/db29r2db10w5db4lo5db4w5db4lo5db10r2db29~x2/) — ΔT 1.21
 1. [Tokyo Bluebells](/setts/s8/db18r1db1r1db1k7db13w2~x4/) — ΔT 1.47
-1. [SPA Association (Corporate)](/setts/s10/ly1db2w1db15k4ly1db1ly1db5w1~x4/) — ΔT 1.48
+1. [SPA Association (Corporate)](/setts/s10/w1db5ly1db1ly1k4db15w1db2ly1~x4/) — ΔT 1.48
 1. [Talisker](/setts/s7/db16w4db1w2db24w1lo4~x2/) — ΔT 1.57
 1. [United States (Corporate)](/setts/s9/b7db5w6db5r7db2b2db70w2/) — ΔT 1.59
-1. [George, Stuart (Personal)](/setts/s9/db62w2db4w5db6lo2r8lo3w4~x2/) — ΔT 1.59
+1. [George, Stuart (Personal)](/setts/s9/db62w2db4w5db6lo2r8lo3w4~x2/) — ΔT 1.60
 1. [George, Stuart (Personal)](/setts/s9/db62w2db4w5db6ly2r8ly3w4~x2/) — ΔT 1.62
 1. [Ottawa Fire Service (Corporate)](/setts/s11/db63lo3w3db8lo3db3w3db3r14db9lo3~x2/) — ΔT 1.67
-1. [Morris of Wales](/setts/s8/ly4db48ly4db3ly2db3ly3w4/) — ΔT 1.70
+1. [Morris of Wales](/setts/s8/w4ly3db3ly2db3ly4db48ly4/) — ΔT 1.70
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db6w4db3w6db8lo3db52lo3db8r4/"><circle cx="497.6" cy="136.3" r="4" fill="#3465a4"><title>Dundee F.C. Corporate Tartan Tartan Number: 2058. Earliest known date: 1990 The tartan of the Dundee Football Club launched on the 10th December, 1990. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/db29r2db10lo5db4w5db4lo5db4w5db10r2db29~x2/"><circle cx="443.8" cy="158.9" r="4" fill="#3465a4"><title>Clackson (Personal)</title></circle></a><a href="/setts/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="460.6" cy="168.8" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><a href="/setts/s10/ly1db2w1db15k4ly1db1ly1db5w1~x4/"><circle cx="420.8" cy="148.8" r="4" fill="#3465a4"><title>SPA Association (Corporate)</title></circle></a><a href="/setts/s7/db16w4db1w2db24w1lo4~x2/"><circle cx="482.6" cy="155.5" r="4" fill="#3465a4"><title>Talisker</title></circle></a><a href="/setts/s9/b7db5w6db5r7db2b2db70w2/"><circle cx="525.8" cy="108.1" r="4" fill="#3465a4"><title>United States (Corporate)</title></circle></a><a href="/setts/s9/db62w2db4w5db6lo2r8lo3w4~x2/"><circle cx="484.5" cy="102.8" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/setts/s9/db62w2db4w5db6ly2r8ly3w4~x2/"><circle cx="482.9" cy="101.2" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/setts/s11/db63lo3w3db8lo3db3w3db3r14db9lo3~x2/"><circle cx="483.0" cy="119.5" r="4" fill="#3465a4"><title>Ottawa Fire Service (Corporate)</title></circle></a><a href="/setts/s8/ly4db48ly4db3ly2db3ly3w4/"><circle cx="503.3" cy="133.3" r="4" fill="#3465a4"><title>Morris of Wales</title></circle></a><circle cx="482.0" cy="137.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db6w4db3w6db8lo3db52lo3db8r4/"><circle cx="497.4" cy="135.9" r="4" fill="#3465a4"><title>Dundee F.C. Corporate Tartan Tartan Number: 2058. Earliest known date: 1990 The tartan of the Dundee Football Club launched on the 10th December, 1990. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/db29r2db10w5db4lo5db4w5db4lo5db10r2db29~x2/"><circle cx="443.7" cy="158.5" r="4" fill="#3465a4"><title>Clackson (Personal)</title></circle></a><a href="/setts/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="460.5" cy="168.5" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><a href="/setts/s10/w1db5ly1db1ly1k4db15w1db2ly1~x4/"><circle cx="420.7" cy="148.5" r="4" fill="#3465a4"><title>SPA Association (Corporate)</title></circle></a><a href="/setts/s7/db16w4db1w2db24w1lo4~x2/"><circle cx="482.4" cy="155.1" r="4" fill="#3465a4"><title>Talisker</title></circle></a><a href="/setts/s9/b7db5w6db5r7db2b2db70w2/"><circle cx="525.5" cy="107.7" r="4" fill="#3465a4"><title>United States (Corporate)</title></circle></a><a href="/setts/s9/db62w2db4w5db6lo2r8lo3w4~x2/"><circle cx="484.3" cy="102.4" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/setts/s9/db62w2db4w5db6ly2r8ly3w4~x2/"><circle cx="482.6" cy="100.9" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/setts/s11/db63lo3w3db8lo3db3w3db3r14db9lo3~x2/"><circle cx="482.7" cy="119.3" r="4" fill="#3465a4"><title>Ottawa Fire Service (Corporate)</title></circle></a><a href="/setts/s8/w4ly3db3ly2db3ly4db48ly4/"><circle cx="503.0" cy="132.9" r="4" fill="#3465a4"><title>Morris of Wales</title></circle></a><circle cx="481.8" cy="137.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db6w4db3w6db8ly3db52ly3db8r4/

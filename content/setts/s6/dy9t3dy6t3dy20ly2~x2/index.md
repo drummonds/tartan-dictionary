@@ -2,12 +2,20 @@
 title: "Oman RAF, Sultanate of (Military)"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGY](/stripes/gbgbgy/) · **Stripes:** [DY T DY T DY LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DY T DY T DY LY</span></span>
+**Bands:** [YGBGBG](/stripes/ygbgbg/) · **Stripes:** [LY DY T DY T DY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">LY DY T DY T DY</span></span>
 
 
 This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/717/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Oman RAF, Sultanate of
+- Oman, Sultanate of / Oliver dress
+- Oman, Sultanate of..
 
 ## Attestations
 
@@ -319,6 +327,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +428,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +688,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -913,21 +924,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Oman, Sultanate of / Oliver dress](/setts/s10/dy9t3dy6t3dy20ly2dy20t3dy6t3~x2/) — ΔT 1.11
+1. [Oman, Sultanate of / Oliver dress](/setts/s10/dy9t3dy6t3dy20ly2~x2/) — ΔT 1.11
 1. [Brooks Brothers Tattersall Camel](/setts/s5/db1lo9db2lo9r1~x4/) — ΔT 1.46
 1. [Highland Spring (1997)](/setts/s6/g23r3g7r3g23dp7~x2/) — ΔT 1.71
 1. [Scott Htg (Error 2)](/setts/s8/r3dy16dy10r3dy3lb2dy3r3~x2/) — ΔT 1.72
 1. [S3](/setts/s3/y30w2r5~x4/) — ΔT 1.76
 1. [Dunbar, John Telfer (Personal)](/setts/s7/o5k2o28k10o26k4o4~x2/) — ΔT 1.92
-1. [Welsh National](/setts/s8/r8g3r4g44w4g44r4g3~x2/) — ΔT 1.98
+1. [Welsh National](/setts/s8/r8g3r4g44w4~x2/) — ΔT 1.98
 1. [Highland Spring (1997) (Corporate)](/setts/s4/dp7g23r3g7~x2/) — ΔT 2.04
 1. [VersaCold/Atlas (Corporate)](/setts/s9/db3n44k9n10k9n10k9n44r3~x2/) — ΔT 2.08
 1. [Connell (Dalgliesh) (Personal)](/setts/s10/r3g12r1g2r2g2r1g12r3k1~x4/) — ΔT 2.11
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dy9t3dy6t3dy20ly2dy20t3dy6t3~x2/"><circle cx="561.8" cy="240.6" r="4" fill="#3465a4"><title>Oman, Sultanate of / Oliver dress</title></circle></a><a href="/setts/s5/db1lo9db2lo9r1~x4/"><circle cx="535.2" cy="249.2" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Camel</title></circle></a><a href="/setts/s6/g23r3g7r3g23dp7~x2/"><circle cx="516.1" cy="278.4" r="4" fill="#3465a4"><title>Highland Spring (1997)</title></circle></a><a href="/setts/s8/r3dy16dy10r3dy3lb2dy3r3~x2/"><circle cx="512.1" cy="252.4" r="4" fill="#3465a4"><title>Scott Htg (Error 2)</title></circle></a><a href="/setts/s3/y30w2r5~x4/"><circle cx="583.1" cy="255.3" r="4" fill="#3465a4"><title>S3</title></circle></a><a href="/setts/s7/o5k2o28k10o26k4o4~x2/"><circle cx="602.7" cy="251.1" r="4" fill="#3465a4"><title>Dunbar, John Telfer (Personal)</title></circle></a><a href="/setts/s8/r8g3r4g44w4g44r4g3~x2/"><circle cx="576.5" cy="207.8" r="4" fill="#3465a4"><title>Welsh National</title></circle></a><a href="/setts/s4/dp7g23r3g7~x2/"><circle cx="471.9" cy="289.6" r="4" fill="#3465a4"><title>Highland Spring (1997) (Corporate)</title></circle></a><a href="/setts/s9/db3n44k9n10k9n10k9n44r3~x2/"><circle cx="520.2" cy="207.3" r="4" fill="#3465a4"><title>VersaCold/Atlas (Corporate)</title></circle></a><a href="/setts/s10/r3g12r1g2r2g2r1g12r3k1~x4/"><circle cx="475.4" cy="206.7" r="4" fill="#3465a4"><title>Connell (Dalgliesh) (Personal)</title></circle></a><circle cx="559.4" cy="256.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dy9t3dy6t3dy20ly2~x2/"><circle cx="561.4" cy="240.3" r="4" fill="#3465a4"><title>Oman, Sultanate of / Oliver dress</title></circle></a><a href="/setts/s5/db1lo9db2lo9r1~x4/"><circle cx="534.7" cy="248.8" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Camel</title></circle></a><a href="/setts/s6/g23r3g7r3g23dp7~x2/"><circle cx="515.8" cy="278.0" r="4" fill="#3465a4"><title>Highland Spring (1997)</title></circle></a><a href="/setts/s8/r3dy16dy10r3dy3lb2dy3r3~x2/"><circle cx="511.7" cy="252.2" r="4" fill="#3465a4"><title>Scott Htg (Error 2)</title></circle></a><a href="/setts/s3/y30w2r5~x4/"><circle cx="582.7" cy="254.9" r="4" fill="#3465a4"><title>S3</title></circle></a><a href="/setts/s7/o5k2o28k10o26k4o4~x2/"><circle cx="602.2" cy="250.8" r="4" fill="#3465a4"><title>Dunbar, John Telfer (Personal)</title></circle></a><a href="/setts/s8/r8g3r4g44w4~x2/"><circle cx="576.1" cy="207.4" r="4" fill="#3465a4"><title>Welsh National</title></circle></a><a href="/setts/s4/dp7g23r3g7~x2/"><circle cx="471.7" cy="289.2" r="4" fill="#3465a4"><title>Highland Spring (1997) (Corporate)</title></circle></a><a href="/setts/s9/db3n44k9n10k9n10k9n44r3~x2/"><circle cx="519.9" cy="207.0" r="4" fill="#3465a4"><title>VersaCold/Atlas (Corporate)</title></circle></a><a href="/setts/s10/r3g12r1g2r2g2r1g12r3k1~x4/"><circle cx="475.1" cy="206.4" r="4" fill="#3465a4"><title>Connell (Dalgliesh) (Personal)</title></circle></a><circle cx="559.0" cy="256.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/dy9t3dy6t3dy20ly2~x2/

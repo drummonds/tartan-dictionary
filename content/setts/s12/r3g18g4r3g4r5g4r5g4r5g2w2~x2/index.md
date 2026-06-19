@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 G4 R10 G8 R10 G8 R10 G8 R6 G8 G36 R/6
+R/6 G36 G8 R6 G8 R10 G8 R10 G8 R10 G4 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -910,7 +913,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacRea ? MacRae](/setts/s11/g22r4g22r22g2r3g2r3g2r3ly2~x2/) — ΔT 0.98
 1. [Princess Marina](/setts/s12/r3dg18dg4r3dg4r5dg4r5dg4r5dg2w2~x2/) — ΔT 1.24
-1. [Leeds, University of (Dance) #1](/setts/s14/g34m4g4m4g4m12g20w5g20m12g4m4g4m4~x2/) — ΔT 1.24
+1. [Leeds, University of (Dance) #1](/setts/s14/g34m4g4m4g4m12g20w5~x2/) — ΔT 1.24
 1. [Fraser](/setts/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/) — ΔT 1.25
 1. [Unidentified #51](/setts/s14/r2dg2lr2dg8r2dg2r2dg6r1dg1r1dg1r1lr1~x2/) — ΔT 1.38
 1. [Invertere (Daks #2)](/setts/s14/g14dy4db4dy27g3dy4ly5dy4g3dy27db4dy4g14ly5~x2/) — ΔT 1.42
@@ -921,8 +924,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g22r4g22r22g2r3g2r3g2r3ly2~x2/"><circle cx="380.7" cy="185.0" r="4" fill="#3465a4"><title>MacRea ? MacRae</title></circle></a><a href="/setts/s12/r3dg18dg4r3dg4r5dg4r5dg4r5dg2w2~x2/"><circle cx="354.7" cy="202.1" r="4" fill="#3465a4"><title>Princess Marina</title></circle></a><a href="/setts/s14/g34m4g4m4g4m12g20w5g20m12g4m4g4m4~x2/"><circle cx="397.6" cy="204.9" r="4" fill="#3465a4"><title>Leeds, University of (Dance) #1</title></circle></a><a href="/setts/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/"><circle cx="347.3" cy="159.2" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/setts/s14/r2dg2lr2dg8r2dg2r2dg6r1dg1r1dg1r1lr1~x2/"><circle cx="369.6" cy="215.4" r="4" fill="#3465a4"><title>Unidentified #51</title></circle></a><a href="/setts/s14/g14dy4db4dy27g3dy4ly5dy4g3dy27db4dy4g14ly5~x2/"><circle cx="310.2" cy="180.8" r="4" fill="#3465a4"><title>Invertere (Daks #2)</title></circle></a><a href="/setts/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/"><circle cx="289.6" cy="181.6" r="4" fill="#3465a4"><title>Fraser of Castle Leathers, Major James</title></circle></a><a href="/setts/s15/w2r18w2r5w2g13w2g13w2r5w2g13w2g13w2~x2/"><circle cx="276.6" cy="177.7" r="4" fill="#3465a4"><title>Major, Frazer</title></circle></a><a href="/setts/s7/ly1r3g7r3g7r3ly1~x4/"><circle cx="308.4" cy="250.4" r="4" fill="#3465a4"><title>Unidentified 24</title></circle></a><a href="/setts/s8/g9m2g2m2g2m8g11w2~x4/"><circle cx="350.5" cy="250.2" r="4" fill="#3465a4"><title>Leeds University Corporate Tartan Tartan Number: 980. Earliest known date: pre 2003 Leeds University Scottish Country Dance Club. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="359.5" cy="207.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g22r4g22r22g2r3g2r3g2r3ly2~x2/"><circle cx="380.3" cy="184.8" r="4" fill="#3465a4"><title>MacRea ? MacRae</title></circle></a><a href="/setts/s12/r3dg18dg4r3dg4r5dg4r5dg4r5dg2w2~x2/"><circle cx="354.4" cy="201.8" r="4" fill="#3465a4"><title>Princess Marina</title></circle></a><a href="/setts/s14/g34m4g4m4g4m12g20w5~x2/"><circle cx="397.3" cy="204.6" r="4" fill="#3465a4"><title>Leeds, University of (Dance) #1</title></circle></a><a href="/setts/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/"><circle cx="346.8" cy="158.9" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/setts/s14/r2dg2lr2dg8r2dg2r2dg6r1dg1r1dg1r1lr1~x2/"><circle cx="369.3" cy="215.2" r="4" fill="#3465a4"><title>Unidentified #51</title></circle></a><a href="/setts/s14/g14dy4db4dy27g3dy4ly5dy4g3dy27db4dy4g14ly5~x2/"><circle cx="310.0" cy="180.7" r="4" fill="#3465a4"><title>Invertere (Daks #2)</title></circle></a><a href="/setts/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/"><circle cx="289.3" cy="181.5" r="4" fill="#3465a4"><title>Fraser of Castle Leathers, Major James</title></circle></a><a href="/setts/s15/w2r18w2r5w2g13w2g13w2r5w2g13w2g13w2~x2/"><circle cx="276.2" cy="177.5" r="4" fill="#3465a4"><title>Major, Frazer</title></circle></a><a href="/setts/s7/ly1r3g7r3g7r3ly1~x4/"><circle cx="308.2" cy="250.2" r="4" fill="#3465a4"><title>Unidentified 24</title></circle></a><a href="/setts/s8/g9m2g2m2g2m8g11w2~x4/"><circle cx="350.3" cy="249.9" r="4" fill="#3465a4"><title>Leeds University Corporate Tartan Tartan Number: 980. Earliest known date: pre 2003 Leeds University Scottish Country Dance Club. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="359.1" cy="207.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r3g18g4r3g4r5g4r5g4r5g2w2~x2/

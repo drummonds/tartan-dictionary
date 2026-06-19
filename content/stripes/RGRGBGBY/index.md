@@ -8,7 +8,7 @@ RGRGBGBY
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/lo3do2dy29do6dy4r26dy2r3~x2/tartan.png)
+![Woven sample](/setts/s8/r3dy2r26dy4do6dy29do2lo3~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RGRGBGBY
 
 | Tartans |
 |---------------|
-| [Hyland Day (Personal)](/setts/s8/lo3do2dy29do6dy4r26dy2r3~x2/)|
-|![Hyland Day (Personal) example sett](/setts/s8/lo3do2dy29do6dy4r26dy2r3~x2/sett.png)|
+| [Hyland Day (Personal)](/setts/s8/r3dy2r26dy4do6dy29do2lo3~x2/)|
+|![Hyland Day (Personal) example sett](/setts/s8/r3dy2r26dy4do6dy29do2lo3~x2/sett.png)|
 

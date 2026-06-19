@@ -22,6 +22,6 @@ GWRYRWBYGYBWRYRW
 
 | Tartans |
 |---------------|
-| [Satchidananda (Personal)](/setts/s16/dy6w2r2ly5r20w2t10ly4dy18ly4t10w2r20ly5r2w2~x2/)|
-|![Satchidananda (Personal) example sett](/setts/s16/dy6w2r2ly5r20w2t10ly4dy18ly4t10w2r20ly5r2w2~x2/sett.png)|
+| [Satchidananda (Personal)](/setts/s16/dy18ly4t10w2r20ly5r2w2dy6~x2/)|
+|![Satchidananda (Personal) example sett](/setts/s16/dy18ly4t10w2r20ly5r2w2dy6~x2/sett.png)|
 

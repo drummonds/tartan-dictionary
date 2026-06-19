@@ -2,7 +2,7 @@
 title: "Hope-Vere (Lochcarron)"
 date: 2023-03-18
 ---
-**Bands:** [GKBKGKBKYK](/stripes/gkbkgkbkyk/) · **Stripes:** [G K T K G K N K LY K](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="seq">G K T K G K N K LY K</span></span>
+**Bands:** [KYKBKGKBKG](/stripes/kykbkgkbkg/) · **Stripes:** [K LY K N K G K T K G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K LY K N K G K T K G</span></span>
 
 
 This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
@@ -42,21 +42,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Downie (Name)](/setts/s10/t24k2r2t2db12g28r4g5t3g3~x2/) — ΔT 0.90
+1. [Downie (Name)](/setts/s10/t24k2r2t2db12g28r4g5t3g3~x2/) — ΔT 0.91
 1. [Scottish Rugby Union (City of Nagasaki)](/setts/s11/g6k2g24k10dt2p2dt2p2dt10k2lb3~x2/) — ΔT 0.95
 1. [Stewart of Appin, Ancient hunting](/setts/s10/g11r4g4r7g41o11t4db41r4db8/) — ΔT 1.10
 1. [Choinka Family (Personal)](/setts/s11/dy4k2lo3k2dy7k9g20k2t3k2g4~x2/) — ΔT 1.13
 1. [Barbecue Presbyterian Church (Corp)](/setts/s13/dg17r2dg2r5dg29r2db31ly2g29r5g2r2g17~x2/) — ΔT 1.13
 1. [Selby (Name)](/setts/s11/g3n1g1n12k2n2k2n3k12g24w3~x2/) — ΔT 1.13
 1. [Maine Acadia (Fashion)](/setts/s9/dg5k1ly2k1dg19k15ly2dt20dg3~x2/) — ΔT 1.17
-1. [Sinclair Green (Personal)](/setts/s7/g4r2g30n15w2db15r4~x2/) — ΔT 1.18
+1. [Sinclair Green (Personal)](/setts/s7/r4db15w2n15g30r2g4~x2/) — ΔT 1.18
 1. [Barbecue Presbyterian Church](/setts/s13/dg17r2dg2r5dg29r2db31k2g29r5g2r2g17~x2/) — ΔT 1.19
 1. [Scottish Power (Corporate)](/setts/s8/dg5g32dp5k10dg8r3dg8dp3~x2/) — ΔT 1.19
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/t24k2r2t2db12g28r4g5t3g3~x2/"><circle cx="243.9" cy="160.0" r="4" fill="#3465a4"><title>Downie (Name)</title></circle></a><a href="/setts/s11/g6k2g24k10dt2p2dt2p2dt10k2lb3~x2/"><circle cx="235.3" cy="160.3" r="4" fill="#3465a4"><title>Scottish Rugby Union (City of Nagasaki)</title></circle></a><a href="/setts/s10/g11r4g4r7g41o11t4db41r4db8/"><circle cx="235.9" cy="176.5" r="4" fill="#3465a4"><title>Stewart of Appin, Ancient hunting</title></circle></a><a href="/setts/s11/dy4k2lo3k2dy7k9g20k2t3k2g4~x2/"><circle cx="212.1" cy="177.4" r="4" fill="#3465a4"><title>Choinka Family (Personal)</title></circle></a><a href="/setts/s13/dg17r2dg2r5dg29r2db31ly2g29r5g2r2g17~x2/"><circle cx="208.1" cy="159.6" r="4" fill="#3465a4"><title>Barbecue Presbyterian Church (Corp)</title></circle></a><a href="/setts/s11/g3n1g1n12k2n2k2n3k12g24w3~x2/"><circle cx="223.9" cy="127.9" r="4" fill="#3465a4"><title>Selby (Name)</title></circle></a><a href="/setts/s9/dg5k1ly2k1dg19k15ly2dt20dg3~x2/"><circle cx="262.9" cy="182.0" r="4" fill="#3465a4"><title>Maine Acadia (Fashion)</title></circle></a><a href="/setts/s7/g4r2g30n15w2db15r4~x2/"><circle cx="255.1" cy="182.9" r="4" fill="#3465a4"><title>Sinclair Green (Personal)</title></circle></a><a href="/setts/s13/dg17r2dg2r5dg29r2db31k2g29r5g2r2g17~x2/"><circle cx="213.4" cy="162.9" r="4" fill="#3465a4"><title>Barbecue Presbyterian Church</title></circle></a><a href="/setts/s8/dg5g32dp5k10dg8r3dg8dp3~x2/"><circle cx="243.4" cy="196.9" r="4" fill="#3465a4"><title>Scottish Power (Corporate)</title></circle></a><circle cx="253.4" cy="163.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/t24k2r2t2db12g28r4g5t3g3~x2/"><circle cx="243.8" cy="160.1" r="4" fill="#3465a4"><title>Downie (Name)</title></circle></a><a href="/setts/s11/g6k2g24k10dt2p2dt2p2dt10k2lb3~x2/"><circle cx="235.3" cy="160.4" r="4" fill="#3465a4"><title>Scottish Rugby Union (City of Nagasaki)</title></circle></a><a href="/setts/s10/g11r4g4r7g41o11t4db41r4db8/"><circle cx="235.8" cy="176.6" r="4" fill="#3465a4"><title>Stewart of Appin, Ancient hunting</title></circle></a><a href="/setts/s11/dy4k2lo3k2dy7k9g20k2t3k2g4~x2/"><circle cx="212.1" cy="177.5" r="4" fill="#3465a4"><title>Choinka Family (Personal)</title></circle></a><a href="/setts/s13/dg17r2dg2r5dg29r2db31ly2g29r5g2r2g17~x2/"><circle cx="208.1" cy="159.7" r="4" fill="#3465a4"><title>Barbecue Presbyterian Church (Corp)</title></circle></a><a href="/setts/s11/g3n1g1n12k2n2k2n3k12g24w3~x2/"><circle cx="223.9" cy="128.0" r="4" fill="#3465a4"><title>Selby (Name)</title></circle></a><a href="/setts/s9/dg5k1ly2k1dg19k15ly2dt20dg3~x2/"><circle cx="263.0" cy="182.0" r="4" fill="#3465a4"><title>Maine Acadia (Fashion)</title></circle></a><a href="/setts/s7/r4db15w2n15g30r2g4~x2/"><circle cx="255.1" cy="182.9" r="4" fill="#3465a4"><title>Sinclair Green (Personal)</title></circle></a><a href="/setts/s13/dg17r2dg2r5dg29r2db31k2g29r5g2r2g17~x2/"><circle cx="213.4" cy="163.1" r="4" fill="#3465a4"><title>Barbecue Presbyterian Church</title></circle></a><a href="/setts/s8/dg5g32dp5k10dg8r3dg8dp3~x2/"><circle cx="243.4" cy="196.9" r="4" fill="#3465a4"><title>Scottish Power (Corporate)</title></circle></a><circle cx="253.4" cy="163.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/g16k1t2k1g3k5n12k1ly1k3~x4/

@@ -8,7 +8,7 @@ YBBBRRRY
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/lo2dt3db3dt20r16r24r1lr2~x2/tartan.png)
+![Woven sample](/setts/s8/lr2r1r24r16dt20db3dt3lo2~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ YBBBRRRY
 
 
 
-### LO DT DB DT R R R LR <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">LO DT DB DT R R R LR</span></span>
+### LR R R R DT DB DT LO <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LR R R R DT DB DT LO</span></span>
 
 | Tartans |
 |---------------|
-| [Tache, Sir Etienne Paschal](/setts/s8/lo2dt3db3dt20r16r24r1lr2~x2/)|
-|![Tache, Sir Etienne Paschal example sett](/setts/s8/lo2dt3db3dt20r16r24r1lr2~x2/sett.png)|
+| [Tache, Sir Etienne Paschal](/setts/s8/lr2r1r24r16dt20db3dt3lo2~x2/)|
+|![Tache, Sir Etienne Paschal example sett](/setts/s8/lr2r1r24r16dt20db3dt3lo2~x2/sett.png)|
 

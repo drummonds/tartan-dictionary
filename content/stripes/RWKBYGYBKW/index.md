@@ -22,6 +22,6 @@ RWKBYGYBKW
 
 | Tartans |
 |---------------|
-| [Gordon of Abergeldie](/setts/s10/r63w4k4dp18ly4dg50ly4dp18k4w4~x2/)|
-|![Gordon of Abergeldie example sett](/setts/s10/r63w4k4dp18ly4dg50ly4dp18k4w4~x2/sett.png)|
+| [Gordon of Abergeldie](/setts/s10/r63w4k4dp18ly4dg50~x2/)|
+|![Gordon of Abergeldie example sett](/setts/s10/r63w4k4dp18ly4dg50~x2/sett.png)|
 

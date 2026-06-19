@@ -2,12 +2,18 @@
 title: "McGuigan, Julia (St Monans, Fife) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GGGY](/stripes/gggy/) · **Stripes:** [Y Y DY LY](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">Y Y DY LY</span></span>
+**Bands:** [YGGG](/stripes/yggg/) · **Stripes:** [LY DY Y Y](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LY DY Y Y</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10605
+
+## Also known as
+
+This cloth is also recorded under:
+
+- McGuigan, Julia
 
 ## Attestations
 
@@ -57,8 +63,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/y37dy9y3do9dy3~x2/"><circle cx="555.0" cy="298.1" r="4" fill="#3465a4"><title>Glen Boig Trade Tartan Tartan Number: 915. Earliest known date: Modern Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/g13dy3g1do3dy1~x6/"><circle cx="568.8" cy="307.0" r="4" fill="#3465a4"><title>Glen Boig</title></circle></a><a href="/setts/s4/dg3dy30dg40r3~x2/"><circle cx="536.8" cy="335.1" r="4" fill="#3465a4"><title>Sanix Muted</title></circle></a><a href="/setts/s4/y50dy25ly2dp6~x2/"><circle cx="506.0" cy="261.8" r="4" fill="#3465a4"><title>Highland Greenford (Personal)</title></circle></a><a href="/setts/s4/y22dp1y22r4~x4/"><circle cx="469.1" cy="293.2" r="4" fill="#3465a4"><title>McWilliams (2014)</title></circle></a><a href="/setts/s7/y23o4dy6g6y4lb1y4~x4/"><circle cx="506.9" cy="221.4" r="4" fill="#3465a4"><title>Tricor (Corporate)</title></circle></a><a href="/setts/s8/dg18r6dg75db6dg13dy35dg12db6/"><circle cx="541.4" cy="270.0" r="4" fill="#3465a4"><title>Gayre Bodyguard</title></circle></a><a href="/setts/s5/do11n1do4n8r1~x8/"><circle cx="545.2" cy="340.0" r="4" fill="#3465a4"><title>Cairns, David (Personal)</title></circle></a><a href="/setts/s7/dy1g8dy8g1dy8g8dy1~x4/"><circle cx="445.3" cy="334.6" r="4" fill="#3465a4"><title>MacKinnon Htg (Clan)</title></circle></a><a href="/setts/s5/n11o1n4o8r1~x8/"><circle cx="505.0" cy="311.4" r="4" fill="#3465a4"><title>Cairns, David (Personal)</title></circle></a><circle cx="538.1" cy="304.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/y37dy9y3do9dy3~x2/"><circle cx="554.6" cy="298.1" r="4" fill="#3465a4"><title>Glen Boig Trade Tartan Tartan Number: 915. Earliest known date: Modern Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/g13dy3g1do3dy1~x6/"><circle cx="568.5" cy="307.0" r="4" fill="#3465a4"><title>Glen Boig</title></circle></a><a href="/setts/s4/dg3dy30dg40r3~x2/"><circle cx="536.7" cy="335.3" r="4" fill="#3465a4"><title>Sanix Muted</title></circle></a><a href="/setts/s4/y50dy25ly2dp6~x2/"><circle cx="505.7" cy="261.9" r="4" fill="#3465a4"><title>Highland Greenford (Personal)</title></circle></a><a href="/setts/s4/y22dp1y22r4~x4/"><circle cx="468.9" cy="293.4" r="4" fill="#3465a4"><title>McWilliams (2014)</title></circle></a><a href="/setts/s7/y23o4dy6g6y4lb1y4~x4/"><circle cx="506.5" cy="221.6" r="4" fill="#3465a4"><title>Tricor (Corporate)</title></circle></a><a href="/setts/s8/dg18r6dg75db6dg13dy35dg12db6/"><circle cx="541.2" cy="270.1" r="4" fill="#3465a4"><title>Gayre Bodyguard</title></circle></a><a href="/setts/s5/do11n1do4n8r1~x8/"><circle cx="545.1" cy="340.1" r="4" fill="#3465a4"><title>Cairns, David (Personal)</title></circle></a><a href="/setts/s7/dy1g8dy8g1dy8g8dy1~x4/"><circle cx="445.2" cy="334.9" r="4" fill="#3465a4"><title>MacKinnon Htg (Clan)</title></circle></a><a href="/setts/s5/n11o1n4o8r1~x8/"><circle cx="504.7" cy="311.4" r="4" fill="#3465a4"><title>Cairns, David (Personal)</title></circle></a><circle cx="537.8" cy="304.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/y9y52dy15ly4~x2/

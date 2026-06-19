@@ -2,7 +2,7 @@
 title: "Dundhuin"
 date: 2023-03-18
 ---
-**Bands:** [WRGKRY](/stripes/wrgkry/) · **Stripes:** [W R Y K O LR](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">W R Y K O LR</span></span>
+**Bands:** [YRKGRW](/stripes/yrkgrw/) · **Stripes:** [LR O K Y R W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LR O K Y R W</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -39,21 +39,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Pubcrawlers, The](/setts/s7/ly3o16dt5o22dg2o4w3~x2/) — ΔT 1.01
+1. [Pubcrawlers, The](/setts/s7/w3o4dg2o22dt5o16ly3~x2/) — ΔT 1.01
 1. [Barbour Dress](/setts/s7/o4do2o21db11w2o20r3~x2/) — ΔT 1.16
 1. [Dundhuin Ladies (Personal)](/setts/s6/b6dp5k2g18m28w2~x2/) — ΔT 1.17
-1. [Battle of Bannockburn, The](/setts/s8/lo1r2b3t2g6r9do1r1~x4/) — ΔT 1.18
+1. [Battle of Bannockburn, The](/setts/s8/r1do1r9g6t2b3r2lo1~x4/) — ΔT 1.18
 1. [Scottish American Soc. of Michigan](/setts/s6/r48b16lo5g17w8dy3~x2/) — ΔT 1.23
 1. [Windy Meadows](/setts/s6/dy11t2o4ly1o2dt2~x4/) — ΔT 1.24
-1. [Battle of Bannockburn, The](/setts/s8/ly1r2t3lg2y6r9dy1r1~x4/) — ΔT 1.26
+1. [Battle of Bannockburn, The](/setts/s8/r1dy1r9y6lg2t3r2ly1~x4/) — ΔT 1.26
 1. [Duminiak (Trevose, Pennsylvania)](/setts/s6/y47w6r24w3dp5lo3~x2/) — ΔT 1.27
 1. [Spragg (Name)](/setts/s7/r2g16r1r2r12ly1t1~x2/) — ΔT 1.27
 1. [Un-named Dutch](/setts/s7/n2r10n10o3r2lr24w2~x2/) — ΔT 1.30
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly3o16dt5o22dg2o4w3~x2/"><circle cx="238.2" cy="164.4" r="4" fill="#3465a4"><title>Pubcrawlers, The</title></circle></a><a href="/setts/s7/o4do2o21db11w2o20r3~x2/"><circle cx="190.0" cy="167.3" r="4" fill="#3465a4"><title>Barbour Dress</title></circle></a><a href="/setts/s6/b6dp5k2g18m28w2~x2/"><circle cx="240.2" cy="157.6" r="4" fill="#3465a4"><title>Dundhuin Ladies (Personal)</title></circle></a><a href="/setts/s8/lo1r2b3t2g6r9do1r1~x4/"><circle cx="223.1" cy="165.8" r="4" fill="#3465a4"><title>Battle of Bannockburn, The</title></circle></a><a href="/setts/s6/r48b16lo5g17w8dy3~x2/"><circle cx="243.9" cy="140.3" r="4" fill="#3465a4"><title>Scottish American Soc. of Michigan</title></circle></a><a href="/setts/s6/dy11t2o4ly1o2dt2~x4/"><circle cx="277.3" cy="189.2" r="4" fill="#3465a4"><title>Windy Meadows</title></circle></a><a href="/setts/s8/ly1r2t3lg2y6r9dy1r1~x4/"><circle cx="224.9" cy="159.0" r="4" fill="#3465a4"><title>Battle of Bannockburn, The</title></circle></a><a href="/setts/s6/y47w6r24w3dp5lo3~x2/"><circle cx="335.7" cy="166.8" r="4" fill="#3465a4"><title>Duminiak (Trevose, Pennsylvania)</title></circle></a><a href="/setts/s7/r2g16r1r2r12ly1t1~x2/"><circle cx="299.5" cy="152.3" r="4" fill="#3465a4"><title>Spragg (Name)</title></circle></a><a href="/setts/s7/n2r10n10o3r2lr24w2~x2/"><circle cx="251.6" cy="169.9" r="4" fill="#3465a4"><title>Un-named Dutch</title></circle></a><circle cx="258.2" cy="163.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w3o4dg2o22dt5o16ly3~x2/"><circle cx="238.0" cy="164.5" r="4" fill="#3465a4"><title>Pubcrawlers, The</title></circle></a><a href="/setts/s7/o4do2o21db11w2o20r3~x2/"><circle cx="189.8" cy="167.4" r="4" fill="#3465a4"><title>Barbour Dress</title></circle></a><a href="/setts/s6/b6dp5k2g18m28w2~x2/"><circle cx="240.0" cy="157.6" r="4" fill="#3465a4"><title>Dundhuin Ladies (Personal)</title></circle></a><a href="/setts/s8/r1do1r9g6t2b3r2lo1~x4/"><circle cx="222.9" cy="165.9" r="4" fill="#3465a4"><title>Battle of Bannockburn, The</title></circle></a><a href="/setts/s6/r48b16lo5g17w8dy3~x2/"><circle cx="243.6" cy="140.3" r="4" fill="#3465a4"><title>Scottish American Soc. of Michigan</title></circle></a><a href="/setts/s6/dy11t2o4ly1o2dt2~x4/"><circle cx="277.2" cy="189.3" r="4" fill="#3465a4"><title>Windy Meadows</title></circle></a><a href="/setts/s8/r1dy1r9y6lg2t3r2ly1~x4/"><circle cx="224.6" cy="159.1" r="4" fill="#3465a4"><title>Battle of Bannockburn, The</title></circle></a><a href="/setts/s6/y47w6r24w3dp5lo3~x2/"><circle cx="335.4" cy="166.8" r="4" fill="#3465a4"><title>Duminiak (Trevose, Pennsylvania)</title></circle></a><a href="/setts/s7/r2g16r1r2r12ly1t1~x2/"><circle cx="299.2" cy="152.4" r="4" fill="#3465a4"><title>Spragg (Name)</title></circle></a><a href="/setts/s7/n2r10n10o3r2lr24w2~x2/"><circle cx="251.4" cy="170.0" r="4" fill="#3465a4"><title>Un-named Dutch</title></circle></a><circle cx="258.0" cy="163.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/lr6o5k2y18r28w2~x2/

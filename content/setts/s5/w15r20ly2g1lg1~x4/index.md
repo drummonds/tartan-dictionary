@@ -2,7 +2,7 @@
 title: "Tomomi"
 date: 2023-03-18
 ---
-**Bands:** [WRYGY](/stripes/wrygy/) · **Stripes:** [W R LY G LG](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#82D67A"></span><span class="seq">W R LY G LG</span></span>
+**Bands:** [YGYRW](/stripes/ygyrw/) · **Stripes:** [LG G LY R W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LG G LY R W</span></span>
 
 
 This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/
 Original link http://www.tartansauthority.com/tartan-ferret/display/11001/
 
 ## Thread count
-B/4 G4 Y8 R80 W/60
+W/60 R80 Y8 G4 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -26,7 +26,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/4 G4 Y8 R80 W/60 tartan")
+![Tartan detail](tartan.png "W/60 R80 Y8 G4 B/4 tartan")
 
 ## Nearest tartans
 
@@ -45,8 +45,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/o4w2r2r34w37k2~x2/"><circle cx="265.3" cy="108.6" r="4" fill="#3465a4"><title>Papalia, Special Dress</title></circle></a><a href="/setts/s7/w5k2w30r24w3r8dt3~x2/"><circle cx="297.3" cy="141.1" r="4" fill="#3465a4"><title>Arduaine, Red (Dance)</title></circle></a><a href="/setts/s7/r8dp2r24db5w26dy2w8~x2/"><circle cx="234.7" cy="140.0" r="4" fill="#3465a4"><title>Lennox Dress</title></circle></a><a href="/setts/s7/w5r2w34r34k2r2db4~x2/"><circle cx="288.2" cy="118.0" r="4" fill="#3465a4"><title>Cunningham Dress</title></circle></a><a href="/setts/s7/r8p2r24db5w26o2w8~x2/"><circle cx="233.4" cy="141.4" r="4" fill="#3465a4"><title>Lennox, dress</title></circle></a><a href="/setts/s7/r3r2db2r30w30db2w3~x2/"><circle cx="285.2" cy="126.5" r="4" fill="#3465a4"><title>Torridon, Cherry (Dance)</title></circle></a><a href="/setts/s7/w4r2w25r21w3r8ly3~x2/"><circle cx="289.9" cy="154.5" r="4" fill="#3465a4"><title>MacPherson Dress Red</title></circle></a><a href="/setts/s7/w8r5dp10r24w30r2db2~x2/"><circle cx="212.0" cy="131.0" r="4" fill="#3465a4"><title>Shiel, Claret (Dance)</title></circle></a><a href="/setts/s7/r8m2r24m5w25dy2w8~x2/"><circle cx="254.2" cy="159.0" r="4" fill="#3465a4"><title>Lennox Dress District Tartan Tartan Number: 1649. Earliest known date: 1986 Families with the surname 'Lennox' are usually considered related to Clans Stewart or MacFarlane. Some of this surname also choose to wear the distinctive and ancient 'Lennox' tartan. D W Stewart reproduced the sett from a 'lost' portrait of the Countess of Lennox dating from the 16th century. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r8dp2r24dp5w25dy2w8~x2/"><circle cx="248.8" cy="156.6" r="4" fill="#3465a4"><title>MacGiboney (Personal)</title></circle></a><circle cx="290.2" cy="121.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/o4w2r2r34w37k2~x2/"><circle cx="264.8" cy="108.4" r="4" fill="#3465a4"><title>Papalia, Special Dress</title></circle></a><a href="/setts/s7/w5k2w30r24w3r8dt3~x2/"><circle cx="296.8" cy="140.9" r="4" fill="#3465a4"><title>Arduaine, Red (Dance)</title></circle></a><a href="/setts/s7/r8dp2r24db5w26dy2w8~x2/"><circle cx="234.2" cy="139.9" r="4" fill="#3465a4"><title>Lennox Dress</title></circle></a><a href="/setts/s7/w5r2w34r34k2r2db4~x2/"><circle cx="287.7" cy="117.8" r="4" fill="#3465a4"><title>Cunningham Dress</title></circle></a><a href="/setts/s7/r8p2r24db5w26o2w8~x2/"><circle cx="232.9" cy="141.3" r="4" fill="#3465a4"><title>Lennox, dress</title></circle></a><a href="/setts/s7/r3r2db2r30w30db2w3~x2/"><circle cx="284.7" cy="126.3" r="4" fill="#3465a4"><title>Torridon, Cherry (Dance)</title></circle></a><a href="/setts/s7/w4r2w25r21w3r8ly3~x2/"><circle cx="289.3" cy="154.3" r="4" fill="#3465a4"><title>MacPherson Dress Red</title></circle></a><a href="/setts/s7/w8r5dp10r24w30r2db2~x2/"><circle cx="211.6" cy="130.9" r="4" fill="#3465a4"><title>Shiel, Claret (Dance)</title></circle></a><a href="/setts/s7/r8m2r24m5w25dy2w8~x2/"><circle cx="253.7" cy="158.8" r="4" fill="#3465a4"><title>Lennox Dress District Tartan Tartan Number: 1649. Earliest known date: 1986 Families with the surname 'Lennox' are usually considered related to Clans Stewart or MacFarlane. Some of this surname also choose to wear the distinctive and ancient 'Lennox' tartan. D W Stewart reproduced the sett from a 'lost' portrait of the Countess of Lennox dating from the 16th century. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r8dp2r24dp5w25dy2w8~x2/"><circle cx="248.3" cy="156.4" r="4" fill="#3465a4"><title>MacGiboney (Personal)</title></circle></a><circle cx="289.6" cy="121.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/w15r20ly2g1lg1~x4/

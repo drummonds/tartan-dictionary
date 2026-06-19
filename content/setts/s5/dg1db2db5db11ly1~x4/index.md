@@ -2,7 +2,7 @@
 title: "Open Championship, The"
 date: 2023-03-18
 ---
-**Bands:** [GBBBY](/stripes/gbbby/) · **Stripes:** [DG DB DB DB LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DG DB DB DB LY</span></span>
+**Bands:** [YBBBG](/stripes/ybbbg/) · **Stripes:** [LY DB DB DB DG](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">LY DB DB DB DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
@@ -24,7 +24,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-G/4 DB8 B20 DB44 Y/4
+Y/4 DB44 B20 DB8 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -39,7 +39,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/4 DB8 B20 DB44 Y/4 tartan")
+![Tartan detail](tartan.png "Y/4 DB44 B20 DB8 G/4 tartan")
 
 ## Nearest tartans
 
@@ -58,8 +58,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/db31k8dp4w2~x4/"><circle cx="473.7" cy="245.4" r="4" fill="#3465a4"><title>Osborne, Luke Alexander (Personal)</title></circle></a><a href="/setts/s5/dg1db2db5db10ly1~x8/"><circle cx="422.5" cy="265.1" r="4" fill="#3465a4"><title>Open Championship (2000)</title></circle></a><a href="/setts/s6/db9k4lb1k4db9r1~x4/"><circle cx="382.2" cy="257.3" r="4" fill="#3465a4"><title>Scottish Nuclear</title></circle></a><a href="/setts/s5/db24n13db4n4w2~x2/"><circle cx="397.4" cy="254.2" r="4" fill="#3465a4"><title>Gallaecia - Galicia National</title></circle></a><a href="/setts/s7/db20dp2db3dp2db14g18db4~x2/"><circle cx="435.0" cy="264.1" r="4" fill="#3465a4"><title>Pringle, James (Fashion)</title></circle></a><a href="/setts/s6/db1k3db1k3db8r1~x4/"><circle cx="404.3" cy="272.0" r="4" fill="#3465a4"><title>Morgan (MacKay Blue) Clan Tartan Tartan Number: 264. Earliest known date: 1842 The design comes from the Vestiarium Scoticum (1842). The authors, the Sobieski Stuart brothers, enjoyed a popular following among the Scottish gentry in the early Victorian era, and in the spirit of the times, added mystery, romance and some spurious historical documentation to the subject of tartan. Of the better known tartans, the book offers some minor variation, but in other cases it provides the only recorded version of many tartans in use today. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/db50do4db12do23ly4do4~x2/"><circle cx="472.4" cy="248.0" r="4" fill="#3465a4"><title>Sligo, County</title></circle></a><a href="/setts/s7/t5db30k25t5db30dp3t5~x2/"><circle cx="349.1" cy="240.3" r="4" fill="#3465a4"><title>Van Loo Tartan Tartan Number: 6717. Earliest known date: pre 2005 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/t5db30k25t5db30dp2t5~x2/"><circle cx="369.9" cy="225.0" r="4" fill="#3465a4"><title>Van Loo (Personal)</title></circle></a><a href="/setts/s4/db9g16db59ly4~x2/"><circle cx="422.8" cy="230.5" r="4" fill="#3465a4"><title>Oxford University (Corporate)</title></circle></a><circle cx="424.3" cy="248.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/db31k8dp4w2~x4/"><circle cx="473.7" cy="245.3" r="4" fill="#3465a4"><title>Osborne, Luke Alexander (Personal)</title></circle></a><a href="/setts/s5/dg1db2db5db10ly1~x8/"><circle cx="422.5" cy="265.0" r="4" fill="#3465a4"><title>Open Championship (2000)</title></circle></a><a href="/setts/s6/db9k4lb1k4db9r1~x4/"><circle cx="382.3" cy="257.2" r="4" fill="#3465a4"><title>Scottish Nuclear</title></circle></a><a href="/setts/s5/db24n13db4n4w2~x2/"><circle cx="397.4" cy="254.0" r="4" fill="#3465a4"><title>Gallaecia - Galicia National</title></circle></a><a href="/setts/s7/db20dp2db3dp2db14g18db4~x2/"><circle cx="434.9" cy="263.9" r="4" fill="#3465a4"><title>Pringle, James (Fashion)</title></circle></a><a href="/setts/s6/db1k3db1k3db8r1~x4/"><circle cx="404.3" cy="271.9" r="4" fill="#3465a4"><title>Morgan (MacKay Blue) Clan Tartan Tartan Number: 264. Earliest known date: 1842 The design comes from the Vestiarium Scoticum (1842). The authors, the Sobieski Stuart brothers, enjoyed a popular following among the Scottish gentry in the early Victorian era, and in the spirit of the times, added mystery, romance and some spurious historical documentation to the subject of tartan. Of the better known tartans, the book offers some minor variation, but in other cases it provides the only recorded version of many tartans in use today. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/db50do4db12do23ly4do4~x2/"><circle cx="472.3" cy="247.8" r="4" fill="#3465a4"><title>Sligo, County</title></circle></a><a href="/setts/s7/t5db30k25t5db30dp3t5~x2/"><circle cx="349.2" cy="240.3" r="4" fill="#3465a4"><title>Van Loo Tartan Tartan Number: 6717. Earliest known date: pre 2005 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/t5db30k25t5db30dp2t5~x2/"><circle cx="370.0" cy="224.9" r="4" fill="#3465a4"><title>Van Loo (Personal)</title></circle></a><a href="/setts/s4/db9g16db59ly4~x2/"><circle cx="422.9" cy="230.2" r="4" fill="#3465a4"><title>Oxford University (Corporate)</title></circle></a><circle cx="424.4" cy="248.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/dg1db2db5db11ly1~x4/

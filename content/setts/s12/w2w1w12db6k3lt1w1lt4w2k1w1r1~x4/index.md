@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -907,18 +910,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Diana Princess of Wales Commemorative Tartan Tartan Number: 2515. Earliest known date: 1997 Sales help Princess Diana Memorial Trust and commemorate the life of Diana Princess of Wales. The design first appeared in September of 1997 and was relaunched by George Russell, chief executive of Scotland the Brand in December 1998. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/lb2w1lb12n6k3w1t1w1t4w2k1w1r1~x4/) — ΔT 0.76
 1. [Jong Nederland Born Union (Corp)](/setts/s10/r2w1r1w13t12ly2k2t2k1ly1~x4/) — ΔT 1.02
 1. [Diana Princess of Wales Mem. (Commem](/setts/s13/lb2w1lb12t6k3w1g1w1g4w2k1w1r1~x4/) — ΔT 1.05
-1. [Alberta Dress](/setts/s10/w4g3w19g8k1r4k1db18k1lo2~x2/) — ΔT 1.05
+1. [Alberta Dress](/setts/s10/w4g3w19g8k1r4k1db18k1lo2~x2/) — ΔT 1.06
 1. [Highlands of Haliburton Dress](/setts/s15/t4w2t1w19r2dr4t8g4w2t3o2g2dr2r2o2~x2/) — ΔT 1.07
 1. [Diana Pink (Commemorative)](/setts/s13/lp2w1lp12t6k3w1g1w1g4w2k1w1r1~x4/) — ΔT 1.10
 1. [St. Andrews Management School](/setts/s12/r5w2b2w2ly5w2lb2w2k7b14lb30w4~x2/) — ΔT 1.14
 1. [Letang (Personal)](/setts/s14/b14lb2ly2lb2b25k6w17r3w3r3w3r3w3r3~x2/) — ΔT 1.16
-1. [Haymarket Dress (Dance)](/setts/s16/r1w1dt1lo1w12k5y2dt8y2dt8y2k5w12lo1dt1w1~x4/) — ΔT 1.20
+1. [Haymarket Dress (Dance)](/setts/s16/y2dt8y2k5w12lo1dt1w1r1~x4/) — ΔT 1.20
 1. [Gillies Dress Blue #1 (Dance)](/setts/s10/r7k2t16ly5t10k13w28dg2w4dg4~x2/) — ΔT 1.20
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lb2w1lb12n6k3w1t1w1t4w2k1w1r1~x4/"><circle cx="124.0" cy="98.0" r="4" fill="#3465a4"><title>Diana Princess of Wales Commemorative Tartan Tartan Number: 2515. Earliest known date: 1997 Sales help Princess Diana Memorial Trust and commemorate the life of Diana Princess of Wales. The design first appeared in September of 1997 and was relaunched by George Russell, chief executive of Scotland the Brand in December 1998. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r2w1r1w13t12ly2k2t2k1ly1~x4/"><circle cx="159.1" cy="100.4" r="4" fill="#3465a4"><title>Jong Nederland Born Union (Corp)</title></circle></a><a href="/setts/s13/lb2w1lb12t6k3w1g1w1g4w2k1w1r1~x4/"><circle cx="130.9" cy="101.2" r="4" fill="#3465a4"><title>Diana Princess of Wales Mem. (Commem</title></circle></a><a href="/setts/s10/w4g3w19g8k1r4k1db18k1lo2~x2/"><circle cx="137.7" cy="88.4" r="4" fill="#3465a4"><title>Alberta Dress</title></circle></a><a href="/setts/s15/t4w2t1w19r2dr4t8g4w2t3o2g2dr2r2o2~x2/"><circle cx="133.8" cy="65.7" r="4" fill="#3465a4"><title>Highlands of Haliburton Dress</title></circle></a><a href="/setts/s13/lp2w1lp12t6k3w1g1w1g4w2k1w1r1~x4/"><circle cx="131.7" cy="95.0" r="4" fill="#3465a4"><title>Diana Pink (Commemorative)</title></circle></a><a href="/setts/s12/r5w2b2w2ly5w2lb2w2k7b14lb30w4~x2/"><circle cx="159.9" cy="80.3" r="4" fill="#3465a4"><title>St. Andrews Management School</title></circle></a><a href="/setts/s14/b14lb2ly2lb2b25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="166.2" cy="96.9" r="4" fill="#3465a4"><title>Letang (Personal)</title></circle></a><a href="/setts/s16/r1w1dt1lo1w12k5y2dt8y2dt8y2k5w12lo1dt1w1~x4/"><circle cx="119.6" cy="90.5" r="4" fill="#3465a4"><title>Haymarket Dress (Dance)</title></circle></a><a href="/setts/s10/r7k2t16ly5t10k13w28dg2w4dg4~x2/"><circle cx="93.8" cy="110.4" r="4" fill="#3465a4"><title>Gillies Dress Blue #1 (Dance)</title></circle></a><circle cx="109.2" cy="91.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lb2w1lb12n6k3w1t1w1t4w2k1w1r1~x4/"><circle cx="123.7" cy="98.1" r="4" fill="#3465a4"><title>Diana Princess of Wales Commemorative Tartan Tartan Number: 2515. Earliest known date: 1997 Sales help Princess Diana Memorial Trust and commemorate the life of Diana Princess of Wales. The design first appeared in September of 1997 and was relaunched by George Russell, chief executive of Scotland the Brand in December 1998. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r2w1r1w13t12ly2k2t2k1ly1~x4/"><circle cx="158.8" cy="100.4" r="4" fill="#3465a4"><title>Jong Nederland Born Union (Corp)</title></circle></a><a href="/setts/s13/lb2w1lb12t6k3w1g1w1g4w2k1w1r1~x4/"><circle cx="130.6" cy="101.2" r="4" fill="#3465a4"><title>Diana Princess of Wales Mem. (Commem</title></circle></a><a href="/setts/s10/w4g3w19g8k1r4k1db18k1lo2~x2/"><circle cx="137.5" cy="88.4" r="4" fill="#3465a4"><title>Alberta Dress</title></circle></a><a href="/setts/s15/t4w2t1w19r2dr4t8g4w2t3o2g2dr2r2o2~x2/"><circle cx="133.5" cy="65.8" r="4" fill="#3465a4"><title>Highlands of Haliburton Dress</title></circle></a><a href="/setts/s13/lp2w1lp12t6k3w1g1w1g4w2k1w1r1~x4/"><circle cx="131.4" cy="95.0" r="4" fill="#3465a4"><title>Diana Pink (Commemorative)</title></circle></a><a href="/setts/s12/r5w2b2w2ly5w2lb2w2k7b14lb30w4~x2/"><circle cx="159.5" cy="80.3" r="4" fill="#3465a4"><title>St. Andrews Management School</title></circle></a><a href="/setts/s14/b14lb2ly2lb2b25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="166.0" cy="96.9" r="4" fill="#3465a4"><title>Letang (Personal)</title></circle></a><a href="/setts/s16/y2dt8y2k5w12lo1dt1w1r1~x4/"><circle cx="119.4" cy="90.5" r="4" fill="#3465a4"><title>Haymarket Dress (Dance)</title></circle></a><a href="/setts/s10/r7k2t16ly5t10k13w28dg2w4dg4~x2/"><circle cx="93.6" cy="110.4" r="4" fill="#3465a4"><title>Gillies Dress Blue #1 (Dance)</title></circle></a><circle cx="108.9" cy="91.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/w2w1w12db6k3lt1w1lt4w2k1w1r1~x4/

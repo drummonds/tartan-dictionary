@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/11244/
 
 ## Thread count
-K/4 W42 R10 G16 Y6 K2 N10 K2 R56 W/6
+W/6 R56 K2 N10 K2 Y6 G16 R10 W42 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -32,7 +32,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Cape Breton Polish Society](/setts/s10/w3r28k1lr5k1lo3dg8r5w21k2~x2/) — ΔT 0.50
 1. [Rosevear](/setts/s9/r50ly4w16db2w4db2w15g27r4~x2/) — ΔT 1.15
 1. [Kyle, Pink (Dance)](/setts/s10/r17k1r2dp2r2k1r3dp8w17ly2~x4/) — ΔT 1.18
-1. [Clan MacLeod Societies of Canada](/setts/s8/g4w2db4w29r29k4ly2k4~x2/) — ΔT 1.23
+1. [Clan MacLeod Societies of Canada](/setts/s8/k4ly2k4r29w29db4w2g4~x2/) — ΔT 1.23
 1. [Puccini (Fashion)](/setts/s16/r6lb1r1k15r1lb2k1lo5lb25r5k1r5k1lb5k1r5~x2/) — ΔT 1.25
 1. [Kings Mountain 1780](/setts/s9/ly9k1n4k1r30k1t4g9ly3~x2/) — ΔT 1.25
 1. [Crieff Red Dress (Dance)](/setts/s13/k2g2w2g3w33r2dp10r3g3r26g2r4r2~x2/) — ΔT 1.26
@@ -42,8 +42,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w3r28k1lr5k1lo3dg8r5w21k2~x2/"><circle cx="201.9" cy="54.3" r="4" fill="#3465a4"><title>Cape Breton Polish Society</title></circle></a><a href="/setts/s9/r50ly4w16db2w4db2w15g27r4~x2/"><circle cx="195.3" cy="84.6" r="4" fill="#3465a4"><title>Rosevear</title></circle></a><a href="/setts/s10/r17k1r2dp2r2k1r3dp8w17ly2~x4/"><circle cx="200.9" cy="84.9" r="4" fill="#3465a4"><title>Kyle, Pink (Dance)</title></circle></a><a href="/setts/s8/g4w2db4w29r29k4ly2k4~x2/"><circle cx="167.2" cy="86.6" r="4" fill="#3465a4"><title>Clan MacLeod Societies of Canada</title></circle></a><a href="/setts/s16/r6lb1r1k15r1lb2k1lo5lb25r5k1r5k1lb5k1r5~x2/"><circle cx="173.7" cy="41.6" r="4" fill="#3465a4"><title>Puccini (Fashion)</title></circle></a><a href="/setts/s9/ly9k1n4k1r30k1t4g9ly3~x2/"><circle cx="248.9" cy="59.2" r="4" fill="#3465a4"><title>Kings Mountain 1780</title></circle></a><a href="/setts/s13/k2g2w2g3w33r2dp10r3g3r26g2r4r2~x2/"><circle cx="171.4" cy="54.0" r="4" fill="#3465a4"><title>Crieff Red Dress (Dance)</title></circle></a><a href="/setts/s9/m50ly4w16db2w4db2w15g27r4~x2/"><circle cx="192.7" cy="85.3" r="4" fill="#3465a4"><title>Rosevear</title></circle></a><a href="/setts/s11/r27w2r3p4r3w2r5k13r2w26dg3~x2/"><circle cx="179.0" cy="85.6" r="4" fill="#3465a4"><title>MacKellar Dress Red</title></circle></a><a href="/setts/s8/t4w4t4w5k8g2r19lo1~x2/"><circle cx="162.0" cy="107.0" r="4" fill="#3465a4"><title>Edinburgh Napier University (Corp.)</title></circle></a><circle cx="202.3" cy="59.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w3r28k1lr5k1lo3dg8r5w21k2~x2/"><circle cx="201.4" cy="54.3" r="4" fill="#3465a4"><title>Cape Breton Polish Society</title></circle></a><a href="/setts/s9/r50ly4w16db2w4db2w15g27r4~x2/"><circle cx="195.0" cy="84.7" r="4" fill="#3465a4"><title>Rosevear</title></circle></a><a href="/setts/s10/r17k1r2dp2r2k1r3dp8w17ly2~x4/"><circle cx="200.4" cy="84.9" r="4" fill="#3465a4"><title>Kyle, Pink (Dance)</title></circle></a><a href="/setts/s8/k4ly2k4r29w29db4w2g4~x2/"><circle cx="166.7" cy="86.6" r="4" fill="#3465a4"><title>Clan MacLeod Societies of Canada</title></circle></a><a href="/setts/s16/r6lb1r1k15r1lb2k1lo5lb25r5k1r5k1lb5k1r5~x2/"><circle cx="173.3" cy="41.6" r="4" fill="#3465a4"><title>Puccini (Fashion)</title></circle></a><a href="/setts/s9/ly9k1n4k1r30k1t4g9ly3~x2/"><circle cx="248.4" cy="59.2" r="4" fill="#3465a4"><title>Kings Mountain 1780</title></circle></a><a href="/setts/s13/k2g2w2g3w33r2dp10r3g3r26g2r4r2~x2/"><circle cx="170.9" cy="54.0" r="4" fill="#3465a4"><title>Crieff Red Dress (Dance)</title></circle></a><a href="/setts/s9/m50ly4w16db2w4db2w15g27r4~x2/"><circle cx="192.4" cy="85.4" r="4" fill="#3465a4"><title>Rosevear</title></circle></a><a href="/setts/s11/r27w2r3p4r3w2r5k13r2w26dg3~x2/"><circle cx="178.7" cy="85.6" r="4" fill="#3465a4"><title>MacKellar Dress Red</title></circle></a><a href="/setts/s8/t4w4t4w5k8g2r19lo1~x2/"><circle cx="161.8" cy="107.0" r="4" fill="#3465a4"><title>Edinburgh Napier University (Corp.)</title></circle></a><circle cx="201.8" cy="59.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/w3r28k1o5k1ly3g8r5w21k2~x2/

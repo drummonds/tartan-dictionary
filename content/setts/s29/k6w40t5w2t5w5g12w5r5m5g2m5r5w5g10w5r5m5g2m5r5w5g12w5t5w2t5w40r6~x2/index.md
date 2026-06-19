@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [29 band tartan](/bands/bands29/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacBean, Meta
+- MacBean, Meta..
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -913,19 +923,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacBean, Meta (Personal)](/setts/s29/k6w40t5w2t5w5g12w5r5r5g2r5r5w5g10w5r5r5g2r5r5w5g12w5t5w2t5w40r6~x2/) — ΔT 0.15
 1. [Stewart Victoria](/setts/s26/lb24b3lb3k6lo1k1lb1k1g8r4k1r2lb1r2k1r4g8k1lb1k1lo1k6lb3b3lb24r2~x4/) — ΔT 1.11
-1. [MacDonald Dress Clan Tartan Tartan Number: 2001. Earliest known date: pre 2003 Estimated count See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s31/db4r1db1r1db1r1db1r1k4r1k4g4r1g1r1g1r1g1r1g4k4w2r1w7t3w23t3w7r1w2k4~x2/) — ΔT 1.22
-1. [MacDonald Dress #3](/setts/s31/db4r1db1r1db1r1db1r1k4r1k4dg4r1dg1r1dg1r1dg1r1dg4k4w2r1w7b3w23b3w7r1w2k4~x2/) — ΔT 1.24
+1. [MacDonald Dress Clan Tartan Tartan Number: 2001. Earliest known date: pre 2003 Estimated count See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s31/k4w2r1w7t3w23t3w7r1w2k4g4r1g1r1g1r1g1r1g4k4r1k4r1db1r1db1r1db1r1db4~x2/) — ΔT 1.22
+1. [MacDonald Dress #3](/setts/s31/k4w2r1w7b3w23b3w7r1w2k4dg4r1dg1r1dg1r1dg1r1dg4k4r1k4r1db1r1db1r1db1r1db4~x2/) — ΔT 1.24
 1. [Stewart/Stuart Dress (Four red lines)](/setts/s28/r4k3r15g42w5db3lo3db13k13w66r4w2r2w10r2w2r4w66k13db13lo3db3w5g42r15k3r4w2/) — ΔT 1.29
-1. [Scotland the Brave Dress (Dance)](/setts/s18/w3k1w20dp1db6g6m3g1m1g2m1g1m3g6db6dp1w20k1~x4/) — ΔT 1.34
-1. [MacDonald, dress](/setts/s31/db4r1db1r1db1r1db1r1k4r1k4g4r1g1r1g1r1g1r1g4k4w2r1w7b3w23b3w7r1w2k4~x2/) — ΔT 1.37
+1. [Scotland the Brave Dress (Dance)](/setts/s18/w3k1w20dp1db6g6m3g1m1g2~x4/) — ΔT 1.34
+1. [MacDonald, dress](/setts/s31/k4w2r1w7b3w23b3w7r1w2k4g4r1g1r1g1r1g1r1g4k4r1k4r1db1r1db1r1db1r1db4~x2/) — ΔT 1.37
 1. [Oriflame](/setts/s24/w4lo6w6lr21w9n27w10lr1n1lr5n1lr1w10m1r1m5r1m1w10n1m1n5m1n1~x2/) — ΔT 1.44
 1. [Beck Dress (Personal)](/setts/s17/k4t2w15r6ly12r6w25t2k4t2w15t4k2t4k2t4k1~x2/) — ΔT 1.55
-1. [Strathyre Dress (Dance) #2](/setts/s20/w36g6r2g3w2g3dy6p4g2p2w2p2g2p4dy6g3w2g3r2g6~x2/) — ΔT 1.56
+1. [Strathyre Dress (Dance) #2](/setts/s20/w36g6r2g3w2g3dy6p4g2p2w2~x2/) — ΔT 1.56
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s29/k6w40t5w2t5w5g12w5r5r5g2r5r5w5g10w5r5r5g2r5r5w5g12w5t5w2t5w40r6~x2/"><circle cx="201.1" cy="35.6" r="4" fill="#3465a4"><title>MacBean, Meta (Personal)</title></circle></a><a href="/setts/s26/lb24b3lb3k6lo1k1lb1k1g8r4k1r2lb1r2k1r4g8k1lb1k1lo1k6lb3b3lb24r2~x4/"><circle cx="218.3" cy="28.7" r="4" fill="#3465a4"><title>Stewart Victoria</title></circle></a><a href="/setts/s31/db4r1db1r1db1r1db1r1k4r1k4g4r1g1r1g1r1g1r1g4k4w2r1w7t3w23t3w7r1w2k4~x2/"><circle cx="163.3" cy="15.3" r="4" fill="#3465a4"><title>MacDonald Dress Clan Tartan Tartan Number: 2001. Earliest known date: pre 2003 Estimated count See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s31/db4r1db1r1db1r1db1r1k4r1k4dg4r1dg1r1dg1r1dg1r1dg4k4w2r1w7b3w23b3w7r1w2k4~x2/"><circle cx="163.0" cy="14.6" r="4" fill="#3465a4"><title>MacDonald Dress #3</title></circle></a><a href="/setts/s28/r4k3r15g42w5db3lo3db13k13w66r4w2r2w10r2w2r4w66k13db13lo3db3w5g42r15k3r4w2/"><circle cx="174.7" cy="14.0" r="4" fill="#3465a4"><title>Stewart/Stuart Dress (Four red lines)</title></circle></a><a href="/setts/s18/w3k1w20dp1db6g6m3g1m1g2m1g1m3g6db6dp1w20k1~x4/"><circle cx="207.2" cy="47.0" r="4" fill="#3465a4"><title>Scotland the Brave Dress (Dance)</title></circle></a><a href="/setts/s31/db4r1db1r1db1r1db1r1k4r1k4g4r1g1r1g1r1g1r1g4k4w2r1w7b3w23b3w7r1w2k4~x2/"><circle cx="157.7" cy="14.0" r="4" fill="#3465a4"><title>MacDonald, dress</title></circle></a><a href="/setts/s24/w4lo6w6lr21w9n27w10lr1n1lr5n1lr1w10m1r1m5r1m1w10n1m1n5m1n1~x2/"><circle cx="168.3" cy="34.0" r="4" fill="#3465a4"><title>Oriflame</title></circle></a><a href="/setts/s17/k4t2w15r6ly12r6w25t2k4t2w15t4k2t4k2t4k1~x2/"><circle cx="213.0" cy="74.9" r="4" fill="#3465a4"><title>Beck Dress (Personal)</title></circle></a><a href="/setts/s20/w36g6r2g3w2g3dy6p4g2p2w2p2g2p4dy6g3w2g3r2g6~x2/"><circle cx="191.0" cy="52.2" r="4" fill="#3465a4"><title>Strathyre Dress (Dance) #2</title></circle></a><circle cx="197.4" cy="34.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s29/k6w40t5w2t5w5g12w5r5r5g2r5r5w5g10w5r5r5g2r5r5w5g12w5t5w2t5w40r6~x2/"><circle cx="200.5" cy="35.6" r="4" fill="#3465a4"><title>MacBean, Meta (Personal)</title></circle></a><a href="/setts/s26/lb24b3lb3k6lo1k1lb1k1g8r4k1r2lb1r2k1r4g8k1lb1k1lo1k6lb3b3lb24r2~x4/"><circle cx="217.9" cy="28.7" r="4" fill="#3465a4"><title>Stewart Victoria</title></circle></a><a href="/setts/s31/k4w2r1w7t3w23t3w7r1w2k4g4r1g1r1g1r1g1r1g4k4r1k4r1db1r1db1r1db1r1db4~x2/"><circle cx="163.0" cy="15.3" r="4" fill="#3465a4"><title>MacDonald Dress Clan Tartan Tartan Number: 2001. Earliest known date: pre 2003 Estimated count See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s31/k4w2r1w7b3w23b3w7r1w2k4dg4r1dg1r1dg1r1dg1r1dg4k4r1k4r1db1r1db1r1db1r1db4~x2/"><circle cx="162.6" cy="14.7" r="4" fill="#3465a4"><title>MacDonald Dress #3</title></circle></a><a href="/setts/s28/r4k3r15g42w5db3lo3db13k13w66r4w2r2w10r2w2r4w66k13db13lo3db3w5g42r15k3r4w2/"><circle cx="174.2" cy="14.0" r="4" fill="#3465a4"><title>Stewart/Stuart Dress (Four red lines)</title></circle></a><a href="/setts/s18/w3k1w20dp1db6g6m3g1m1g2~x4/"><circle cx="206.8" cy="47.0" r="4" fill="#3465a4"><title>Scotland the Brave Dress (Dance)</title></circle></a><a href="/setts/s31/k4w2r1w7b3w23b3w7r1w2k4g4r1g1r1g1r1g1r1g4k4r1k4r1db1r1db1r1db1r1db4~x2/"><circle cx="157.4" cy="14.0" r="4" fill="#3465a4"><title>MacDonald, dress</title></circle></a><a href="/setts/s24/w4lo6w6lr21w9n27w10lr1n1lr5n1lr1w10m1r1m5r1m1w10n1m1n5m1n1~x2/"><circle cx="167.8" cy="34.1" r="4" fill="#3465a4"><title>Oriflame</title></circle></a><a href="/setts/s17/k4t2w15r6ly12r6w25t2k4t2w15t4k2t4k2t4k1~x2/"><circle cx="212.5" cy="74.8" r="4" fill="#3465a4"><title>Beck Dress (Personal)</title></circle></a><a href="/setts/s20/w36g6r2g3w2g3dy6p4g2p2w2~x2/"><circle cx="190.6" cy="52.1" r="4" fill="#3465a4"><title>Strathyre Dress (Dance) #2</title></circle></a><circle cx="196.9" cy="34.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s29/k6w40t5w2t5w5g12w5r5m5g2m5r5w5g10w5r5m5g2m5r5w5g12w5t5w2t5w40r6~x2/

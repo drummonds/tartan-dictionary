@@ -8,7 +8,7 @@ RBKBY
 
 It is a 5 band tartan.
 
-![Woven sample](/setts/s5/lo1db10k6dt8r1~x4/tartan.png)
+![Woven sample](/setts/s5/r1dt8k6db10lo1~x4/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RBKBY
 
 | Tartans |
 |---------------|
-| [Sanix Modern](/setts/s5/lo1db10k6dt8r1~x4/)|
-|![Sanix Modern example sett](/setts/s5/lo1db10k6dt8r1~x4/sett.png)|
+| [Sanix Modern](/setts/s5/r1dt8k6db10lo1~x4/)|
+|![Sanix Modern example sett](/setts/s5/r1dt8k6db10lo1~x4/sett.png)|
 

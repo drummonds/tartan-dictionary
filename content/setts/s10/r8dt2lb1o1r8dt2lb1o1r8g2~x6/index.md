@@ -2,12 +2,18 @@
 title: "Fearns McIntosh Millennium (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GRRWBRRWBR](/stripes/grrwbrrwbr/) · **Stripes:** [G R O LB DT R O LB DT R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="seq">G R O LB DT R O LB DT R</span></span>
+**Bands:** [RBWRRBWRRG](/stripes/rbwrrbwrrg/) · **Stripes:** [R DT LB O R DT LB O R G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DT LB O R DT LB O R G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1153
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Fearns McIntosh Millennium
 
 ## Attestations
 
@@ -48,16 +54,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Sinclair](/setts/s6/r30dg12k5lr2b6r30/) — ΔT 1.67
 1. [London Caledonian](/setts/s13/r8dp2r14y2r2dp6r2dg2r2dg11r2db2r6~x2/) — ΔT 1.71
 1. [London Caledonian Games Association](/setts/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/) — ΔT 1.84
-1. [Nicolson (McIan)](/setts/s12/r6g1r6k4r1t1r1g8r6k1r6g1~x6/) — ΔT 1.87
+1. [Nicolson (McIan)](/setts/s12/r6g1r6k4r1t1r1g8r6k1r6g1~x6/) — ΔT 1.86
 1. [Duffus Plaid, Lord](/setts/s10/r16t3r12k3r12k3r12lo3r12lo3~x2/) — ΔT 1.87
 1. [MacColl #2](/setts/s14/r12dg1r1dy8r2dy1r1db3r1dy1r12dg1r1dg4~x2/) — ΔT 1.88
 1. [Harding (Florida) (Personal)](/setts/s10/r50ly7m6g4k4g4m6ly7r50dt13~x2/) — ΔT 1.90
-1. [Auld Reekie Trade Tartan Tartan Number: 2381. Earliest known date: Pre 1997 Produced by or for Barkraft Lt for use as a blanket or rug. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/db4r3db3r22g8r2g8r22db3r3~x2/) — ΔT 1.93
+1. [Auld Reekie Trade Tartan Tartan Number: 2381. Earliest known date: Pre 1997 Produced by or for Barkraft Lt for use as a blanket or rug. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/db4r3db3r22g8r2~x2/) — ΔT 1.93
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r15dt5k2dt5r15p3r15w2~x2/"><circle cx="397.7" cy="193.7" r="4" fill="#3465a4"><title>Goodwillie (Fashion)</title></circle></a><a href="/setts/s6/r30dg12k5lr2b6r30~x2/"><circle cx="420.1" cy="182.7" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s6/r30dg12k5lr2b6r30/"><circle cx="420.1" cy="182.7" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s13/r8dp2r14y2r2dp6r2dg2r2dg11r2db2r6~x2/"><circle cx="297.2" cy="171.1" r="4" fill="#3465a4"><title>London Caledonian</title></circle></a><a href="/setts/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/"><circle cx="353.6" cy="162.8" r="4" fill="#3465a4"><title>London Caledonian Games Association</title></circle></a><a href="/setts/s12/r6g1r6k4r1t1r1g8r6k1r6g1~x6/"><circle cx="328.9" cy="190.2" r="4" fill="#3465a4"><title>Nicolson (McIan)</title></circle></a><a href="/setts/s10/r16t3r12k3r12k3r12lo3r12lo3~x2/"><circle cx="325.2" cy="229.8" r="4" fill="#3465a4"><title>Duffus Plaid, Lord</title></circle></a><a href="/setts/s14/r12dg1r1dy8r2dy1r1db3r1dy1r12dg1r1dg4~x2/"><circle cx="382.2" cy="147.1" r="4" fill="#3465a4"><title>MacColl #2</title></circle></a><a href="/setts/s10/r50ly7m6g4k4g4m6ly7r50dt13~x2/"><circle cx="368.3" cy="114.9" r="4" fill="#3465a4"><title>Harding (Florida) (Personal)</title></circle></a><a href="/setts/s10/db4r3db3r22g8r2g8r22db3r3~x2/"><circle cx="424.7" cy="191.4" r="4" fill="#3465a4"><title>Auld Reekie Trade Tartan Tartan Number: 2381. Earliest known date: Pre 1997 Produced by or for Barkraft Lt for use as a blanket or rug. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="414.7" cy="187.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r15dt5k2dt5r15p3r15w2~x2/"><circle cx="397.3" cy="193.5" r="4" fill="#3465a4"><title>Goodwillie (Fashion)</title></circle></a><a href="/setts/s6/r30dg12k5lr2b6r30~x2/"><circle cx="419.7" cy="182.6" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s6/r30dg12k5lr2b6r30/"><circle cx="419.7" cy="182.6" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s13/r8dp2r14y2r2dp6r2dg2r2dg11r2db2r6~x2/"><circle cx="296.9" cy="171.1" r="4" fill="#3465a4"><title>London Caledonian</title></circle></a><a href="/setts/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/"><circle cx="353.1" cy="162.8" r="4" fill="#3465a4"><title>London Caledonian Games Association</title></circle></a><a href="/setts/s12/r6g1r6k4r1t1r1g8r6k1r6g1~x6/"><circle cx="328.6" cy="190.1" r="4" fill="#3465a4"><title>Nicolson (McIan)</title></circle></a><a href="/setts/s10/r16t3r12k3r12k3r12lo3r12lo3~x2/"><circle cx="324.9" cy="229.8" r="4" fill="#3465a4"><title>Duffus Plaid, Lord</title></circle></a><a href="/setts/s14/r12dg1r1dy8r2dy1r1db3r1dy1r12dg1r1dg4~x2/"><circle cx="381.7" cy="147.0" r="4" fill="#3465a4"><title>MacColl #2</title></circle></a><a href="/setts/s10/r50ly7m6g4k4g4m6ly7r50dt13~x2/"><circle cx="367.8" cy="114.8" r="4" fill="#3465a4"><title>Harding (Florida) (Personal)</title></circle></a><a href="/setts/s10/db4r3db3r22g8r2~x2/"><circle cx="424.2" cy="191.2" r="4" fill="#3465a4"><title>Auld Reekie Trade Tartan Tartan Number: 2381. Earliest known date: Pre 1997 Produced by or for Barkraft Lt for use as a blanket or rug. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="414.3" cy="187.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r8dt2lb1o1r8dt2lb1o1r8g2~x6/

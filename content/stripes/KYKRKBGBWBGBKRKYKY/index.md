@@ -22,6 +22,6 @@ KYKRKBGBWBGBKRKYKY
 
 | Tartans |
 |---------------|
-| [Otago](/setts/s18/lo16k2lo6k2r2k2db15g1db1w2db1g1db15k2r2k2lo6k2~x2/)|
-|![Otago example sett](/setts/s18/lo16k2lo6k2r2k2db15g1db1w2db1g1db15k2r2k2lo6k2~x2/sett.png)|
+| [Otago](/setts/s18/lo16k2lo6k2r2k2db15g1db1w2~x2/)|
+|![Otago example sett](/setts/s18/lo16k2lo6k2r2k2db15g1db1w2~x2/sett.png)|
 

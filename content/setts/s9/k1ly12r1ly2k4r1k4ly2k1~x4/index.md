@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2630
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacLeod Snuffbox
+- MacLeod, Snuffbox
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -319,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -893,7 +903,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/4 Y8 K16 R4 K16 Y8 R4 Y48 K/4
+K/4 Y48 R4 Y8 K16 R4 K16 Y8 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -922,8 +932,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly1k4ly1k4ly11r1ly1~x4/"><circle cx="336.1" cy="174.2" r="4" fill="#3465a4"><title>Baileville (Personal)</title></circle></a><a href="/setts/s12/k4ly1k4ly11r1ly1r1ly11k4ly1k4ly1~x4/"><circle cx="311.0" cy="157.1" r="4" fill="#3465a4"><title>Baillieville Family Tartan Tartan Number: 2326. Earliest known date: Oct. 1882 By David R Gurney of Russell Gurney Weavers, Turiff, Aberdeen for Charles D. Fitzhardinge Bailey of Baileville. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/ly1k4ly1k4ly11m1ly1~x4/"><circle cx="331.3" cy="173.7" r="4" fill="#3465a4"><title>Baillieville</title></circle></a><a href="/setts/s9/ly20db27r6db15ly8db11ly78db10r12/"><circle cx="275.4" cy="140.1" r="4" fill="#3465a4"><title>Bracken</title></circle></a><a href="/setts/s11/r4ly34do20ly4do8ly6r2ly5do2ly3r4/"><circle cx="309.2" cy="116.5" r="4" fill="#3465a4"><title>Morgan of Wales</title></circle></a><a href="/setts/s6/k2ly6k2ly11k9r1~x2/"><circle cx="288.0" cy="202.1" r="4" fill="#3465a4"><title>Porter Drinkers', The</title></circle></a><a href="/setts/s9/ly5db9r3db5ly2db4ly26t3r4~x2/"><circle cx="270.5" cy="139.6" r="4" fill="#3465a4"><title>Bracken</title></circle></a><a href="/setts/s11/ly30r2ly2k5ly3o2ly3o22ly3k2ly3~x2/"><circle cx="314.4" cy="110.6" r="4" fill="#3465a4"><title>Dunbarton</title></circle></a><a href="/setts/s6/k4ly32k16r3k16ly4~x2/"><circle cx="267.9" cy="198.5" r="4" fill="#3465a4"><title>Unnamed C21st - Fashion</title></circle></a><a href="/setts/s11/ly30r2ly2k5ly3dy2ly3dy22ly3k2ly3~x2/"><circle cx="318.5" cy="114.6" r="4" fill="#3465a4"><title>Dunbarton Trade Tartan Tartan Number: 1886. Earliest known date: pre 2003 Dunbarton, Quebec. Different warp and weft See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="313.5" cy="156.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly1k4ly1k4ly11r1ly1~x4/"><circle cx="335.7" cy="173.9" r="4" fill="#3465a4"><title>Baileville (Personal)</title></circle></a><a href="/setts/s12/k4ly1k4ly11r1ly1r1ly11k4ly1k4ly1~x4/"><circle cx="310.6" cy="156.8" r="4" fill="#3465a4"><title>Baillieville Family Tartan Tartan Number: 2326. Earliest known date: Oct. 1882 By David R Gurney of Russell Gurney Weavers, Turiff, Aberdeen for Charles D. Fitzhardinge Bailey of Baileville. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/ly1k4ly1k4ly11m1ly1~x4/"><circle cx="330.9" cy="173.4" r="4" fill="#3465a4"><title>Baillieville</title></circle></a><a href="/setts/s9/ly20db27r6db15ly8db11ly78db10r12/"><circle cx="275.0" cy="139.8" r="4" fill="#3465a4"><title>Bracken</title></circle></a><a href="/setts/s11/r4ly34do20ly4do8ly6r2ly5do2ly3r4/"><circle cx="308.7" cy="116.3" r="4" fill="#3465a4"><title>Morgan of Wales</title></circle></a><a href="/setts/s6/k2ly6k2ly11k9r1~x2/"><circle cx="287.7" cy="201.8" r="4" fill="#3465a4"><title>Porter Drinkers', The</title></circle></a><a href="/setts/s9/ly5db9r3db5ly2db4ly26t3r4~x2/"><circle cx="270.0" cy="139.4" r="4" fill="#3465a4"><title>Bracken</title></circle></a><a href="/setts/s11/ly30r2ly2k5ly3o2ly3o22ly3k2ly3~x2/"><circle cx="313.8" cy="110.4" r="4" fill="#3465a4"><title>Dunbarton</title></circle></a><a href="/setts/s6/k4ly32k16r3k16ly4~x2/"><circle cx="267.6" cy="198.2" r="4" fill="#3465a4"><title>Unnamed C21st - Fashion</title></circle></a><a href="/setts/s11/ly30r2ly2k5ly3dy2ly3dy22ly3k2ly3~x2/"><circle cx="317.9" cy="114.4" r="4" fill="#3465a4"><title>Dunbarton Trade Tartan Tartan Number: 1886. Earliest known date: pre 2003 Dunbarton, Quebec. Different warp and weft See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="313.0" cy="156.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/k1ly12r1ly2k4r1k4ly2k1~x4/

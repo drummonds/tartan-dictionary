@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2745
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacRae, hunting
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -43,13 +49,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Genet, Citizen (Commem)](/setts/s7/r2k9g12db8r1db1w1~x4/) — ΔT 0.77
 1. [MacFadzean/MacPhedran](/setts/s7/g3db12w1k12g13r2g2~x4/) — ΔT 0.78
 1. [Curry (Personal)](/setts/s8/r3g2r6g20k15g3db18w2~x2/) — ΔT 0.79
-1. [Patterson (blue) family Tartan Tartan Number: 2325. Earliest known date: 1996 A second tartan for the family of John Patterson. Assume same designer as the first Patterson (Red). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/g4r3g11k10w2db22w2k10g11r3~x2/) — ΔT 0.81
+1. [Patterson (blue) family Tartan Tartan Number: 2325. Earliest known date: 1996 A second tartan for the family of John Patterson. Assume same designer as the first Patterson (Red). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/db22w2k10g11r3g4~x2/) — ΔT 0.81
 1. [MacDonell of Glengarry #3](/setts/s11/db16r5db30r2k33g30r5g2r2g7w4/) — ΔT 0.81
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/ly3k12db1g5db12r1k2r1~x4/"><circle cx="188.1" cy="169.7" r="4" fill="#3465a4"><title>Sandberg of Greenock (Personal)</title></circle></a><a href="/setts/s7/db18k10g6r4g6k1w2~x2/"><circle cx="189.5" cy="175.6" r="4" fill="#3465a4"><title>Ferguson - 1830 of Atholl (Clan)</title></circle></a><a href="/setts/s10/db3ly1db12k4ly2k4dg8r2dg8r1~x4/"><circle cx="162.9" cy="179.1" r="4" fill="#3465a4"><title>MacMillan Htg (1906) (Clan)</title></circle></a><a href="/setts/s10/r6db2g5db18g10db2k28db2g10lo3~x2/"><circle cx="171.7" cy="163.8" r="4" fill="#3465a4"><title>Ofally, County</title></circle></a><a href="/setts/s11/g8r1g1r3g16k16r1db16r3db8ly2~x2/"><circle cx="175.1" cy="156.3" r="4" fill="#3465a4"><title>Cameron of Erracht (Clan)</title></circle></a><a href="/setts/s7/r2k9g12db8r1db1w1~x4/"><circle cx="170.8" cy="183.1" r="4" fill="#3465a4"><title>Genet, Citizen (Commem)</title></circle></a><a href="/setts/s7/g3db12w1k12g13r2g2~x4/"><circle cx="193.8" cy="187.3" r="4" fill="#3465a4"><title>MacFadzean/MacPhedran</title></circle></a><a href="/setts/s8/r3g2r6g20k15g3db18w2~x2/"><circle cx="163.5" cy="187.8" r="4" fill="#3465a4"><title>Curry (Personal)</title></circle></a><a href="/setts/s10/g4r3g11k10w2db22w2k10g11r3~x2/"><circle cx="139.1" cy="179.1" r="4" fill="#3465a4"><title>Patterson (blue) family Tartan Tartan Number: 2325. Earliest known date: 1996 A second tartan for the family of John Patterson. Assume same designer as the first Patterson (Red). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w4/"><circle cx="182.0" cy="150.0" r="4" fill="#3465a4"><title>MacDonell of Glengarry #3</title></circle></a><circle cx="183.7" cy="165.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/ly3k12db1g5db12r1k2r1~x4/"><circle cx="188.2" cy="169.7" r="4" fill="#3465a4"><title>Sandberg of Greenock (Personal)</title></circle></a><a href="/setts/s7/db18k10g6r4g6k1w2~x2/"><circle cx="189.6" cy="175.7" r="4" fill="#3465a4"><title>Ferguson - 1830 of Atholl (Clan)</title></circle></a><a href="/setts/s10/db3ly1db12k4ly2k4dg8r2dg8r1~x4/"><circle cx="163.0" cy="179.1" r="4" fill="#3465a4"><title>MacMillan Htg (1906) (Clan)</title></circle></a><a href="/setts/s10/r6db2g5db18g10db2k28db2g10lo3~x2/"><circle cx="171.8" cy="163.9" r="4" fill="#3465a4"><title>Ofally, County</title></circle></a><a href="/setts/s11/g8r1g1r3g16k16r1db16r3db8ly2~x2/"><circle cx="175.1" cy="156.4" r="4" fill="#3465a4"><title>Cameron of Erracht (Clan)</title></circle></a><a href="/setts/s7/r2k9g12db8r1db1w1~x4/"><circle cx="170.9" cy="183.2" r="4" fill="#3465a4"><title>Genet, Citizen (Commem)</title></circle></a><a href="/setts/s7/g3db12w1k12g13r2g2~x4/"><circle cx="193.9" cy="187.3" r="4" fill="#3465a4"><title>MacFadzean/MacPhedran</title></circle></a><a href="/setts/s8/r3g2r6g20k15g3db18w2~x2/"><circle cx="163.6" cy="187.8" r="4" fill="#3465a4"><title>Curry (Personal)</title></circle></a><a href="/setts/s10/db22w2k10g11r3g4~x2/"><circle cx="139.3" cy="179.1" r="4" fill="#3465a4"><title>Patterson (blue) family Tartan Tartan Number: 2325. Earliest known date: 1996 A second tartan for the family of John Patterson. Assume same designer as the first Patterson (Red). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w4/"><circle cx="182.0" cy="150.1" r="4" fill="#3465a4"><title>MacDonell of Glengarry #3</title></circle></a><circle cx="183.8" cy="165.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/g14k2g4r2g4k14dp15k1w3~x2/

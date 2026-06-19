@@ -2,7 +2,7 @@
 title: "MacPhadran"
 date: 2023-03-18
 ---
-**Bands:** [GBYKGRG](/stripes/gbykgrg/) · **Stripes:** [G DB LR K G R G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G DB LR K G R G</span></span>
+**Bands:** [GRGKYBG](/stripes/grgkybg/) · **Stripes:** [G R G K LR DB G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G R G K LR DB G</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -909,19 +912,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacTaggert](/setts/s7/g9t2g1k6db6r1db1~x2/) — ΔT 0.67
 1. [MacLeod of Assynt](/setts/s6/r3k2g15k10db20ly2~x2/) — ΔT 0.76
-1. [MacCaskill](/setts/s7/k2ly1db15k15g15r1k2~x2/) — ΔT 0.79
+1. [MacCaskill](/setts/s7/k2r1g15k15db15ly1k2~x2/) — ΔT 0.79
 1. [MacLeod, Macleod of Harris](/setts/s7/r3k2g15k10db20k2ly2~x2/) — ΔT 0.79
 1. [MacThomas](/setts/s7/db3r2db22k11g24lp2g3~x2/) — ΔT 0.79
 1. [MacPhail, hunting](/setts/s6/r2db23k14g16k2w2~x2/) — ΔT 0.80
 1. [Forsyth (1795)](/setts/s6/k2g11ly1k8b9r2~x4/) — ΔT 0.81
 1. [Russell, or Mitchell or Hunter or Galbraith](/setts/s6/k2g12k12r1db12w2~x2/) — ΔT 0.81
 1. [Forsyth](/setts/s6/k2g11ly1k8db9r2~x4/) — ΔT 0.82
-1. [MacNeil 5](/setts/s6/ly1k5g12k12db12w1~x4/) — ΔT 0.83
+1. [MacNeil 5](/setts/s6/w1db12k12g12k5ly1~x4/) — ΔT 0.83
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g9t2g1k6db6r1db1~x2/"><circle cx="144.8" cy="192.6" r="4" fill="#3465a4"><title>MacTaggert</title></circle></a><a href="/setts/s6/r3k2g15k10db20ly2~x2/"><circle cx="154.0" cy="193.1" r="4" fill="#3465a4"><title>MacLeod of Assynt</title></circle></a><a href="/setts/s7/k2ly1db15k15g15r1k2~x2/"><circle cx="178.1" cy="167.4" r="4" fill="#3465a4"><title>MacCaskill</title></circle></a><a href="/setts/s7/r3k2g15k10db20k2ly2~x2/"><circle cx="151.3" cy="179.5" r="4" fill="#3465a4"><title>MacLeod, Macleod of Harris</title></circle></a><a href="/setts/s7/db3r2db22k11g24lp2g3~x2/"><circle cx="195.2" cy="176.2" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/setts/s6/r2db23k14g16k2w2~x2/"><circle cx="167.0" cy="186.3" r="4" fill="#3465a4"><title>MacPhail, hunting</title></circle></a><a href="/setts/s6/k2g11ly1k8b9r2~x4/"><circle cx="121.0" cy="195.1" r="4" fill="#3465a4"><title>Forsyth (1795)</title></circle></a><a href="/setts/s6/k2g12k12r1db12w2~x2/"><circle cx="136.5" cy="190.3" r="4" fill="#3465a4"><title>Russell, or Mitchell or Hunter or Galbraith</title></circle></a><a href="/setts/s6/k2g11ly1k8db9r2~x4/"><circle cx="127.1" cy="197.0" r="4" fill="#3465a4"><title>Forsyth</title></circle></a><a href="/setts/s6/ly1k5g12k12db12w1~x4/"><circle cx="157.6" cy="198.7" r="4" fill="#3465a4"><title>MacNeil 5</title></circle></a><circle cx="168.7" cy="180.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g9t2g1k6db6r1db1~x2/"><circle cx="144.9" cy="192.6" r="4" fill="#3465a4"><title>MacTaggert</title></circle></a><a href="/setts/s6/r3k2g15k10db20ly2~x2/"><circle cx="154.2" cy="193.1" r="4" fill="#3465a4"><title>MacLeod of Assynt</title></circle></a><a href="/setts/s7/k2r1g15k15db15ly1k2~x2/"><circle cx="178.3" cy="167.3" r="4" fill="#3465a4"><title>MacCaskill</title></circle></a><a href="/setts/s7/r3k2g15k10db20k2ly2~x2/"><circle cx="151.4" cy="179.5" r="4" fill="#3465a4"><title>MacLeod, Macleod of Harris</title></circle></a><a href="/setts/s7/db3r2db22k11g24lp2g3~x2/"><circle cx="195.3" cy="176.2" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/setts/s6/r2db23k14g16k2w2~x2/"><circle cx="167.2" cy="186.2" r="4" fill="#3465a4"><title>MacPhail, hunting</title></circle></a><a href="/setts/s6/k2g11ly1k8b9r2~x4/"><circle cx="121.2" cy="195.1" r="4" fill="#3465a4"><title>Forsyth (1795)</title></circle></a><a href="/setts/s6/k2g12k12r1db12w2~x2/"><circle cx="136.7" cy="190.3" r="4" fill="#3465a4"><title>Russell, or Mitchell or Hunter or Galbraith</title></circle></a><a href="/setts/s6/k2g11ly1k8db9r2~x4/"><circle cx="127.4" cy="197.0" r="4" fill="#3465a4"><title>Forsyth</title></circle></a><a href="/setts/s6/w1db12k12g12k5ly1~x4/"><circle cx="157.8" cy="198.6" r="4" fill="#3465a4"><title>MacNeil 5</title></circle></a><circle cx="168.9" cy="180.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/g3db12lr1k12g13r2g2~x2/

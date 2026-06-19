@@ -2,7 +2,7 @@
 title: "Wilson's, No 212"
 date: 2023-03-18
 ---
-**Bands:** [BRG](/stripes/brg/) · **Stripes:** [T R G](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">T R G</span></span>
+**Bands:** [GRB](/stripes/grb/) · **Stripes:** [G R T](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">G R T</span></span>
 
 
 This was sourced from weddslist.  It is a [3 band tartan](/bands/bands3/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/8 R8 G/36
+G/36 R8 B/8
 ![Sett](sett.png)
 
 ## Palette
@@ -906,7 +909,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/8 R8 G/36 tartan")
+![Tartan detail](tartan.png "G/36 R8 B/8 tartan")
 
 ## Nearest tartans
 
@@ -919,14 +922,14 @@ The nearest existing variants by ΔTartan distance.
 1. [O'Neill, Red (Corporate?)](/setts/s4/g9o20g46lg5~x2/) — ΔT 1.47
 1. [Ledford](/setts/s3/dg9y4lo1~x8/) — ΔT 1.53
 1. [McMoosie](/setts/s3/g81r10ly20~x2/) — ΔT 1.67
-1. [Highland Spring (1997) (Corporate)](/setts/s4/dp7g23r3g7~x2/) — ΔT 1.73
 1. [Wilson's No.212](/setts/s4/r2g9r2t2~x4/) — ΔT 1.73
+1. [Highland Spring (1997) (Corporate)](/setts/s4/dp7g23r3g7~x2/) — ΔT 1.73
 1. [Unidentified, pattern](/setts/s3/g12db3ly1~x4/) — ΔT 1.94
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/g9o20g40w5~x2/"><circle cx="413.4" cy="287.2" r="4" fill="#3465a4"><title>O'Neill (Australia) (Name)</title></circle></a><a href="/setts/s3/g9o4ly1~x4/"><circle cx="416.0" cy="303.8" r="4" fill="#3465a4"><title>Ledford Family Tartan Tartan Number: 835. Earliest known date: 1987 A quantity of this cloth was woven in 1998 for a Ledford family in the USA. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/g9lo20g40w5~x2/"><circle cx="405.8" cy="281.5" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/setts/s4/g7r3g23m7~x2/"><circle cx="474.5" cy="288.9" r="4" fill="#3465a4"><title>Highland Spring (Green)</title></circle></a><a href="/setts/s4/g9o20g46lg5~x2/"><circle cx="463.9" cy="288.8" r="4" fill="#3465a4"><title>O'Neill, Red (Corporate?)</title></circle></a><a href="/setts/s3/dg9y4lo1~x8/"><circle cx="421.6" cy="306.7" r="4" fill="#3465a4"><title>Ledford</title></circle></a><a href="/setts/s3/g81r10ly20~x2/"><circle cx="441.8" cy="274.2" r="4" fill="#3465a4"><title>McMoosie</title></circle></a><a href="/setts/s4/dp7g23r3g7~x2/"><circle cx="471.9" cy="289.6" r="4" fill="#3465a4"><title>Highland Spring (1997) (Corporate)</title></circle></a><a href="/setts/s4/r2g9r2t2~x4/"><circle cx="343.9" cy="288.4" r="4" fill="#3465a4"><title>Wilson's No.212</title></circle></a><a href="/setts/s3/g12db3ly1~x4/"><circle cx="496.1" cy="275.5" r="4" fill="#3465a4"><title>Unidentified, pattern</title></circle></a><circle cx="415.0" cy="318.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/g9o20g40w5~x2/"><circle cx="413.2" cy="286.9" r="4" fill="#3465a4"><title>O'Neill (Australia) (Name)</title></circle></a><a href="/setts/s3/g9o4ly1~x4/"><circle cx="415.8" cy="303.5" r="4" fill="#3465a4"><title>Ledford Family Tartan Tartan Number: 835. Earliest known date: 1987 A quantity of this cloth was woven in 1998 for a Ledford family in the USA. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/g9lo20g40w5~x2/"><circle cx="405.5" cy="281.2" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/setts/s4/g7r3g23m7~x2/"><circle cx="474.2" cy="288.5" r="4" fill="#3465a4"><title>Highland Spring (Green)</title></circle></a><a href="/setts/s4/g9o20g46lg5~x2/"><circle cx="463.7" cy="288.5" r="4" fill="#3465a4"><title>O'Neill, Red (Corporate?)</title></circle></a><a href="/setts/s3/dg9y4lo1~x8/"><circle cx="421.5" cy="306.5" r="4" fill="#3465a4"><title>Ledford</title></circle></a><a href="/setts/s3/g81r10ly20~x2/"><circle cx="441.5" cy="273.7" r="4" fill="#3465a4"><title>McMoosie</title></circle></a><a href="/setts/s4/r2g9r2t2~x4/"><circle cx="343.7" cy="288.2" r="4" fill="#3465a4"><title>Wilson's No.212</title></circle></a><a href="/setts/s4/dp7g23r3g7~x2/"><circle cx="471.7" cy="289.2" r="4" fill="#3465a4"><title>Highland Spring (1997) (Corporate)</title></circle></a><a href="/setts/s3/g12db3ly1~x4/"><circle cx="495.9" cy="275.1" r="4" fill="#3465a4"><title>Unidentified, pattern</title></circle></a><circle cx="414.8" cy="318.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/g9r2t2~x4/

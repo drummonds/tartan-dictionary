@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/
 Original link http://www.tartansauthority.com/tartan-ferret/display/7900/
 
 ## Thread count
-LN/6 DB28 K24 G24 Y4 R/6
+R/6 Y4 G24 K24 DB28 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -27,27 +27,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/6 DB28 K24 G24 Y4 R/6 tartan")
+![Tartan detail](tartan.png "R/6 Y4 G24 K24 DB28 LN/6 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Huntly Gordon](/setts/s6/ly2dg11k11n12dt3r2~x2/) — ΔT 0.75
+1. [Huntly Gordon](/setts/s6/r2dt3n12k11dg11ly2~x2/) — ΔT 0.75
 1. [Ayrshire](/setts/s7/p11db2t4db21k16g19ly4~x2/) — ΔT 0.81
-1. [Huntly Gordon 2000 (Commem)](/setts/s6/ly2g11k11b12dt3r2~x2/) — ΔT 0.83
+1. [Huntly Gordon 2000 (Commem)](/setts/s6/r2dt3b12k11g11ly2~x2/) — ΔT 0.83
 1. [Caledonian Labrador Retrievers](/setts/s8/m21db4dr5db4m5k21g21ly5~x2/) — ΔT 0.88
 1. [MacCaughan, or MacEachain](/setts/s6/dp2g6k2db6k1r2~x4/) — ΔT 0.92
 1. [Atlantic, Ancient](/setts/s6/w3db17o16db2dg17ly2~x2/) — ΔT 1.00
-1. [Council of Scottish Clans & Ass. (Co](/setts/s7/ly2r2g15k14db16r2w2~x2/) — ΔT 1.00
+1. [Council of Scottish Clans & Ass. (Co](/setts/s7/w2r2db16k14g15r2ly2~x2/) — ΔT 1.00
 1. [Cooke](/setts/s7/k6b2db12g8r5k2g3~x4/) — ΔT 1.01
 1. [South Africa 1994 (Fashion)](/setts/s7/k20ly4db13w4g30w4r13~x2/) — ΔT 1.02
 1. [Eichelberger Family, Jörg (Personal)](/setts/s7/k10r3lo4dt12dg4r4w2~x4/) — ΔT 1.03
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/ly2dg11k11n12dt3r2~x2/"><circle cx="65.7" cy="209.6" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><a href="/setts/s7/p11db2t4db21k16g19ly4~x2/"><circle cx="69.6" cy="178.5" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/setts/s6/ly2g11k11b12dt3r2~x2/"><circle cx="75.8" cy="217.3" r="4" fill="#3465a4"><title>Huntly Gordon 2000 (Commem)</title></circle></a><a href="/setts/s8/m21db4dr5db4m5k21g21ly5~x2/"><circle cx="62.7" cy="189.6" r="4" fill="#3465a4"><title>Caledonian Labrador Retrievers</title></circle></a><a href="/setts/s6/dp2g6k2db6k1r2~x4/"><circle cx="94.0" cy="225.7" r="4" fill="#3465a4"><title>MacCaughan, or MacEachain</title></circle></a><a href="/setts/s6/w3db17o16db2dg17ly2~x2/"><circle cx="119.5" cy="197.5" r="4" fill="#3465a4"><title>Atlantic, Ancient</title></circle></a><a href="/setts/s7/ly2r2g15k14db16r2w2~x2/"><circle cx="84.6" cy="167.3" r="4" fill="#3465a4"><title>Council of Scottish Clans &amp; Ass. (Co</title></circle></a><a href="/setts/s7/k6b2db12g8r5k2g3~x4/"><circle cx="81.5" cy="219.2" r="4" fill="#3465a4"><title>Cooke</title></circle></a><a href="/setts/s7/k20ly4db13w4g30w4r13~x2/"><circle cx="79.7" cy="179.2" r="4" fill="#3465a4"><title>South Africa 1994 (Fashion)</title></circle></a><a href="/setts/s7/k10r3lo4dt12dg4r4w2~x4/"><circle cx="66.8" cy="204.1" r="4" fill="#3465a4"><title>Eichelberger Family, Jörg (Personal)</title></circle></a><circle cx="74.8" cy="202.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r2dt3n12k11dg11ly2~x2/"><circle cx="66.0" cy="209.7" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><a href="/setts/s7/p11db2t4db21k16g19ly4~x2/"><circle cx="69.8" cy="178.6" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/setts/s6/r2dt3b12k11g11ly2~x2/"><circle cx="76.0" cy="217.4" r="4" fill="#3465a4"><title>Huntly Gordon 2000 (Commem)</title></circle></a><a href="/setts/s8/m21db4dr5db4m5k21g21ly5~x2/"><circle cx="62.8" cy="189.7" r="4" fill="#3465a4"><title>Caledonian Labrador Retrievers</title></circle></a><a href="/setts/s6/dp2g6k2db6k1r2~x4/"><circle cx="94.2" cy="225.7" r="4" fill="#3465a4"><title>MacCaughan, or MacEachain</title></circle></a><a href="/setts/s6/w3db17o16db2dg17ly2~x2/"><circle cx="119.6" cy="197.7" r="4" fill="#3465a4"><title>Atlantic, Ancient</title></circle></a><a href="/setts/s7/w2r2db16k14g15r2ly2~x2/"><circle cx="84.7" cy="167.4" r="4" fill="#3465a4"><title>Council of Scottish Clans &amp; Ass. (Co</title></circle></a><a href="/setts/s7/k6b2db12g8r5k2g3~x4/"><circle cx="81.8" cy="219.3" r="4" fill="#3465a4"><title>Cooke</title></circle></a><a href="/setts/s7/k20ly4db13w4g30w4r13~x2/"><circle cx="79.8" cy="179.3" r="4" fill="#3465a4"><title>South Africa 1994 (Fashion)</title></circle></a><a href="/setts/s7/k10r3lo4dt12dg4r4w2~x4/"><circle cx="67.0" cy="204.2" r="4" fill="#3465a4"><title>Eichelberger Family, Jörg (Personal)</title></circle></a><circle cx="75.0" cy="202.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r3ly2g12k12db14w3~x2/

@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [20 band tartan](/bands/bands2
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6112/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Fennell Grandmothers Canadian Personal
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -37,7 +43,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [MacFarhadian (Personal)](/setts/s18/r55dp1ly1r3dp7r3ly1dp1r3g16r3dp1ly1k3w1g5r3k2~x2/) — ΔT 0.35
-1. [MacPherson (Crubin Plaid)](/setts/s15/r160k2w1dg36ly9r4k1r4ly9y36k9r9ly9r4y3/) — ΔT 0.72
+1. [MacPherson (Crubin Plaid)](/setts/s15/r160k2w1dg36ly9r4k1r4ly9y36k9r9ly9r4y3~x2/) — ΔT 0.72
 1. [Glasgow, '88](/setts/s22/r12y2r8db8y4w2ly2w2y2w4y2w2t2w2y3db12r68y2r2y2r3w4/) — ΔT 0.94
 1. [MacLeod of Gesto (Clan)](/setts/s23/r86w2t6w2k2r4ly2g4w2g4ly2r4k2w2g13k2ly2w2ly2k4r4w2k4~x2/) — ΔT 0.94
 1. [MacPherson, The Crubin Plaid](/setts/s15/r160k2w1g36ly9r4k1r4ly9t36k9r9ly9r4t3~x2/) — ΔT 0.95
@@ -49,8 +55,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/r55dp1ly1r3dp7r3ly1dp1r3g16r3dp1ly1k3w1g5r3k2~x2/"><circle cx="432.3" cy="14.0" r="4" fill="#3465a4"><title>MacFarhadian (Personal)</title></circle></a><a href="/setts/s15/r160k2w1dg36ly9r4k1r4ly9y36k9r9ly9r4y3/"><circle cx="404.3" cy="14.0" r="4" fill="#3465a4"><title>MacPherson (Crubin Plaid)</title></circle></a><a href="/setts/s22/r12y2r8db8y4w2ly2w2y2w4y2w2t2w2y3db12r68y2r2y2r3w4/"><circle cx="389.8" cy="14.0" r="4" fill="#3465a4"><title>Glasgow, '88</title></circle></a><a href="/setts/s23/r86w2t6w2k2r4ly2g4w2g4ly2r4k2w2g13k2ly2w2ly2k4r4w2k4~x2/"><circle cx="387.7" cy="14.0" r="4" fill="#3465a4"><title>MacLeod of Gesto (Clan)</title></circle></a><a href="/setts/s15/r160k2w1g36ly9r4k1r4ly9t36k9r9ly9r4t3~x2/"><circle cx="391.0" cy="14.0" r="4" fill="#3465a4"><title>MacPherson, The Crubin Plaid</title></circle></a><a href="/setts/s15/r320k4w2g72ly18r8k2r8ly18t72k18r3ly18r8t14/"><circle cx="385.0" cy="14.0" r="4" fill="#3465a4"><title>Crubin Plaid (MacPherson)</title></circle></a><a href="/setts/s18/r90k1r2db8r2k9k3w1k2ly1k3g13r11k1g2k1r5w2~x2/"><circle cx="478.2" cy="14.0" r="4" fill="#3465a4"><title>Scotia Village (Corporate)</title></circle></a><a href="/setts/s22/r12o2r8db8o4w2ly2w2o2w4o2w2t2w2o3db12r68o2r2o2r3w4/"><circle cx="375.3" cy="14.0" r="4" fill="#3465a4"><title>Glasgow Garden Festival</title></circle></a><a href="/setts/s15/r80k1r2k3r2k1r3dg18k1w1db2ly1db18t3r12~x2/"><circle cx="441.2" cy="14.0" r="4" fill="#3465a4"><title>MacRae of Ardentoul</title></circle></a><a href="/setts/s16/r94k3w2g21w3ly3r5k2r5ly3w3y21k7r7ly8w4~x2/"><circle cx="347.7" cy="14.0" r="4" fill="#3465a4"><title>MacKintosh 8</title></circle></a><circle cx="415.5" cy="14.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/r55dp1ly1r3dp7r3ly1dp1r3g16r3dp1ly1k3w1g5r3k2~x2/"><circle cx="431.6" cy="14.0" r="4" fill="#3465a4"><title>MacFarhadian (Personal)</title></circle></a><a href="/setts/s15/r160k2w1dg36ly9r4k1r4ly9y36k9r9ly9r4y3~x2/"><circle cx="403.7" cy="14.0" r="4" fill="#3465a4"><title>MacPherson (Crubin Plaid)</title></circle></a><a href="/setts/s22/r12y2r8db8y4w2ly2w2y2w4y2w2t2w2y3db12r68y2r2y2r3w4/"><circle cx="389.2" cy="14.0" r="4" fill="#3465a4"><title>Glasgow, '88</title></circle></a><a href="/setts/s23/r86w2t6w2k2r4ly2g4w2g4ly2r4k2w2g13k2ly2w2ly2k4r4w2k4~x2/"><circle cx="387.1" cy="14.0" r="4" fill="#3465a4"><title>MacLeod of Gesto (Clan)</title></circle></a><a href="/setts/s15/r160k2w1g36ly9r4k1r4ly9t36k9r9ly9r4t3~x2/"><circle cx="390.4" cy="14.0" r="4" fill="#3465a4"><title>MacPherson, The Crubin Plaid</title></circle></a><a href="/setts/s15/r320k4w2g72ly18r8k2r8ly18t72k18r3ly18r8t14/"><circle cx="384.4" cy="14.0" r="4" fill="#3465a4"><title>Crubin Plaid (MacPherson)</title></circle></a><a href="/setts/s18/r90k1r2db8r2k9k3w1k2ly1k3g13r11k1g2k1r5w2~x2/"><circle cx="477.6" cy="14.0" r="4" fill="#3465a4"><title>Scotia Village (Corporate)</title></circle></a><a href="/setts/s22/r12o2r8db8o4w2ly2w2o2w4o2w2t2w2o3db12r68o2r2o2r3w4/"><circle cx="374.7" cy="14.0" r="4" fill="#3465a4"><title>Glasgow Garden Festival</title></circle></a><a href="/setts/s15/r80k1r2k3r2k1r3dg18k1w1db2ly1db18t3r12~x2/"><circle cx="440.6" cy="14.0" r="4" fill="#3465a4"><title>MacRae of Ardentoul</title></circle></a><a href="/setts/s16/r94k3w2g21w3ly3r5k2r5ly3w3y21k7r7ly8w4~x2/"><circle cx="347.1" cy="14.0" r="4" fill="#3465a4"><title>MacKintosh 8</title></circle></a><circle cx="414.9" cy="14.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s20/r55dp1ly1r3dp7r3ly1dp1r3g16r3dp1ly1k3w1g5r3k2dp2w1~x2/

@@ -2,12 +2,18 @@
 title: "Murray of Tullibardine 5"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBRBRBRBRKRBRBRGRGRBRK](/stripes/brbrbrbrbrbrkrbrbrgrgrbrk/) · **Stripes:** [DB R DB R DB R DB R DB R DB R K R DB R DB R G R G R DB R K](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">DB R DB R DB R DB R DB R DB R K R DB R DB R G R G R DB R K</span></span>
+**Bands:** [KRBRGRGRBRBRKRBRBRBRBRBRB](/stripes/krbrgrgrbrbrkrbrbrbrbrbrb/) · **Stripes:** [K R DB R G R G R DB R DB R K R DB R DB R DB R DB R DB R DB](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">K R DB R G R G R DB R DB R K R DB R DB R DB R DB R DB R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [25 band tartan](/bands/bands25/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Murray of Tullibardine #4
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,13 +919,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Club World (Corporate)](/setts/s20/db14k7db21k2db2k2db2k4db7r25w2r2k3r16db9r2k4r2k4r2~x2/) — ΔT 1.27
 1. [Murray of Tullibardine](/setts/s21/db4r2db2r3db12r3db2r2k5r2db2r22db26r6dg6r22dg23r14db8r7k3~x2/) — ΔT 1.30
 1. [MacLeod of Tullibardine](/setts/s21/db4r1db1r2db10r2db1r1k1r1db1r12db6r4g4r12g10r6db4r2k2~x4/) — ΔT 1.35
-1. [Unidentified Cant #07](/setts/s38/k21r3g16k6db10r42db11k3r6g4r6db10r6g4r6db3k21db3r24g24r24db3k21db3r6g4r6db10r6g4r6k3db11r42db10k6g16r3/) — ΔT 1.36
-1. [Ross](/setts/s27/dg8r1dg8r8db1r1db2r1db1r8db1r1db2r1db1r8db8r1db8r8dg1r2dg1r8dg8r1dg8~x2/) — ΔT 1.39
+1. [Unidentified Cant #07](/setts/s38/g24r24db3k21db3r6g4r6db10r6g4r6k3db11r42db10k6g16r3k21/) — ΔT 1.36
+1. [Ross](/setts/s27/dg8r1dg8r8dg1r2dg1r8db8r1db8r8db1r1db2r1db1r8db1r1db2r1db1r8dg8r1dg8~x2/) — ΔT 1.39
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4dg4r14dg27r9db6r6k3/"><circle cx="236.9" cy="116.5" r="4" fill="#3465a4"><title>Murray of Tullibardine #4</title></circle></a><a href="/setts/s29/db3r15g2r2g12w2db12r2db4r2db12w2r8db2r2db2r2db2r8db2r2db2r2db2r8g10db1g2r2~x2/"><circle cx="222.0" cy="113.5" r="4" fill="#3465a4"><title>Summerville Presbyterian Church (Cor</title></circle></a><a href="/setts/s21/db4r2db2r3db12r3db2r2k5r2db2r22db26r6g6r22g23r14db8r7k3~x2/"><circle cx="254.7" cy="133.5" r="4" fill="#3465a4"><title>Murray of Tullibardine 2</title></circle></a><a href="/setts/s28/r18k3r3k11dg9k2dg9k11r2k11r3k3r9dg2k3dg2r9k3r3k11r2k11r3k3r18db2r3db2~x2/"><circle cx="208.1" cy="142.8" r="4" fill="#3465a4"><title>MacInroy #2</title></circle></a><a href="/setts/s20/dg20r3dg20r20db3r3db6r3db3r20db3r3db6r3db3r20w3r4db20r4/"><circle cx="219.7" cy="152.8" r="4" fill="#3465a4"><title>MacRae of Conchra</title></circle></a><a href="/setts/s20/db14k7db21k2db2k2db2k4db7r25w2r2k3r16db9r2k4r2k4r2~x2/"><circle cx="234.1" cy="131.4" r="4" fill="#3465a4"><title>Club World (Corporate)</title></circle></a><a href="/setts/s21/db4r2db2r3db12r3db2r2k5r2db2r22db26r6dg6r22dg23r14db8r7k3~x2/"><circle cx="259.1" cy="132.5" r="4" fill="#3465a4"><title>Murray of Tullibardine</title></circle></a><a href="/setts/s21/db4r1db1r2db10r2db1r1k1r1db1r12db6r4g4r12g10r6db4r2k2~x4/"><circle cx="268.3" cy="142.1" r="4" fill="#3465a4"><title>MacLeod of Tullibardine</title></circle></a><a href="/setts/s38/k21r3g16k6db10r42db11k3r6g4r6db10r6g4r6db3k21db3r24g24r24db3k21db3r6g4r6db10r6g4r6k3db11r42db10k6g16r3/"><circle cx="217.0" cy="107.0" r="4" fill="#3465a4"><title>Unidentified Cant #07</title></circle></a><a href="/setts/s27/dg8r1dg8r8db1r1db2r1db1r8db1r1db2r1db1r8db8r1db8r8dg1r2dg1r8dg8r1dg8~x2/"><circle cx="232.4" cy="162.8" r="4" fill="#3465a4"><title>Ross</title></circle></a><circle cx="229.7" cy="117.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4dg4r14dg27r9db6r6k3/"><circle cx="236.7" cy="116.5" r="4" fill="#3465a4"><title>Murray of Tullibardine #4</title></circle></a><a href="/setts/s29/db3r15g2r2g12w2db12r2db4r2db12w2r8db2r2db2r2db2r8db2r2db2r2db2r8g10db1g2r2~x2/"><circle cx="221.7" cy="113.5" r="4" fill="#3465a4"><title>Summerville Presbyterian Church (Cor</title></circle></a><a href="/setts/s21/db4r2db2r3db12r3db2r2k5r2db2r22db26r6g6r22g23r14db8r7k3~x2/"><circle cx="254.5" cy="133.5" r="4" fill="#3465a4"><title>Murray of Tullibardine 2</title></circle></a><a href="/setts/s28/r18k3r3k11dg9k2dg9k11r2k11r3k3r9dg2k3dg2r9k3r3k11r2k11r3k3r18db2r3db2~x2/"><circle cx="207.9" cy="142.8" r="4" fill="#3465a4"><title>MacInroy #2</title></circle></a><a href="/setts/s20/dg20r3dg20r20db3r3db6r3db3r20db3r3db6r3db3r20w3r4db20r4/"><circle cx="219.5" cy="152.8" r="4" fill="#3465a4"><title>MacRae of Conchra</title></circle></a><a href="/setts/s20/db14k7db21k2db2k2db2k4db7r25w2r2k3r16db9r2k4r2k4r2~x2/"><circle cx="233.9" cy="131.4" r="4" fill="#3465a4"><title>Club World (Corporate)</title></circle></a><a href="/setts/s21/db4r2db2r3db12r3db2r2k5r2db2r22db26r6dg6r22dg23r14db8r7k3~x2/"><circle cx="258.8" cy="132.5" r="4" fill="#3465a4"><title>Murray of Tullibardine</title></circle></a><a href="/setts/s21/db4r1db1r2db10r2db1r1k1r1db1r12db6r4g4r12g10r6db4r2k2~x4/"><circle cx="268.0" cy="142.1" r="4" fill="#3465a4"><title>MacLeod of Tullibardine</title></circle></a><a href="/setts/s38/g24r24db3k21db3r6g4r6db10r6g4r6k3db11r42db10k6g16r3k21/"><circle cx="216.8" cy="107.1" r="4" fill="#3465a4"><title>Unidentified Cant #07</title></circle></a><a href="/setts/s27/dg8r1dg8r8dg1r2dg1r8db8r1db8r8db1r1db2r1db1r8db1r1db2r1db1r8dg8r1dg8~x2/"><circle cx="232.2" cy="162.7" r="4" fill="#3465a4"><title>Ross</title></circle></a><circle cx="229.6" cy="117.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4g4r14g27r9db6r6k3/

@@ -2,7 +2,7 @@
 title: "Nickel Lodge Centennial (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GGWBRYRYR](/stripes/ggwbryryr/) · **Stripes:** [DG DY W DT O LY O LY O](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DG DY W DT O LY O LY O</span></span>
+**Bands:** [RYRYRBWGG](/stripes/ryryrbwgg/) · **Stripes:** [O LY O LY O DT W DY DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="seq">O LY O LY O DT W DY DG</span></span>
 
 
 This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
@@ -17,7 +17,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-G/24 T4 LN16 DB24 N8 Y4 N2 Y4 N/72
+N/72 Y4 N2 Y4 N8 DB24 LN16 T4 G/24
 ![Sett](sett.png)
 
 ## Palette
@@ -36,7 +36,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Caskie](/setts/s7/ly3k1g12r7t25k1w3~x2/) — ΔT 1.08
+1. [Caskie](/setts/s7/w3k1t25r7g12k1ly3~x2/) — ΔT 1.08
 1. [Nickel Lodge Centennial Corporate Tartan Tartan Number: 920. Earliest known date: 1988 1989 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/o18ly1o2ly1o2db6w4dy1g6~x2/) — ΔT 1.08
 1. [Ascension Island Heritage Trust](/setts/s7/r8t45w1o4k11g6r4~x2/) — ΔT 1.12
 1. [Barcelona English School](/setts/s12/o52g3w3db3ly3db2r3db12g8db2g6ly4/) — ΔT 1.14
@@ -49,8 +49,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly3k1g12r7t25k1w3~x2/"><circle cx="242.2" cy="119.1" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/setts/s9/o18ly1o2ly1o2db6w4dy1g6~x2/"><circle cx="272.2" cy="121.4" r="4" fill="#3465a4"><title>Nickel Lodge Centennial Corporate Tartan Tartan Number: 920. Earliest known date: 1988 1989 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r8t45w1o4k11g6r4~x2/"><circle cx="336.0" cy="92.0" r="4" fill="#3465a4"><title>Ascension Island Heritage Trust</title></circle></a><a href="/setts/s12/o52g3w3db3ly3db2r3db12g8db2g6ly4/"><circle cx="294.0" cy="72.9" r="4" fill="#3465a4"><title>Barcelona English School</title></circle></a><a href="/setts/s12/o52g3w3db3ly3db2r3db12g8db2g6ly4~x2/"><circle cx="294.0" cy="72.9" r="4" fill="#3465a4"><title>Barcelona English School (School)</title></circle></a><a href="/setts/s14/o11db6g6ly1db2ly1g6db6o36k1r3k1g5db5~x2/"><circle cx="314.5" cy="76.4" r="4" fill="#3465a4"><title>Penman Clan Tartan Tartan Number: 166. Earliest known date: 1984 From design by the late William Penman. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/lb4r2lb7n30lb8n7r5k1w2~x2/"><circle cx="326.5" cy="100.0" r="4" fill="#3465a4"><title>Hebridean Fire</title></circle></a><a href="/setts/s9/y18ly1y2ly1y2db6w4o1g6~x2/"><circle cx="287.2" cy="130.0" r="4" fill="#3465a4"><title>Nickel Lodge, Centennial</title></circle></a><a href="/setts/s11/k10db13k3lb7k1lo20lo3lb13r5lo47k3~x2/"><circle cx="286.1" cy="68.3" r="4" fill="#3465a4"><title>State Seal of Georgia (Fashion)</title></circle></a><a href="/setts/s9/b2do12k1b5w3b5k1g30lo2~x2/"><circle cx="242.1" cy="74.7" r="4" fill="#3465a4"><title>St Brigid's Quirindi</title></circle></a><circle cx="291.1" cy="94.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w3k1t25r7g12k1ly3~x2/"><circle cx="242.0" cy="119.1" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/setts/s9/o18ly1o2ly1o2db6w4dy1g6~x2/"><circle cx="271.9" cy="121.4" r="4" fill="#3465a4"><title>Nickel Lodge Centennial Corporate Tartan Tartan Number: 920. Earliest known date: 1988 1989 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r8t45w1o4k11g6r4~x2/"><circle cx="335.7" cy="91.9" r="4" fill="#3465a4"><title>Ascension Island Heritage Trust</title></circle></a><a href="/setts/s12/o52g3w3db3ly3db2r3db12g8db2g6ly4/"><circle cx="293.6" cy="72.9" r="4" fill="#3465a4"><title>Barcelona English School</title></circle></a><a href="/setts/s12/o52g3w3db3ly3db2r3db12g8db2g6ly4~x2/"><circle cx="293.6" cy="72.9" r="4" fill="#3465a4"><title>Barcelona English School (School)</title></circle></a><a href="/setts/s14/o11db6g6ly1db2ly1g6db6o36k1r3k1g5db5~x2/"><circle cx="314.2" cy="76.5" r="4" fill="#3465a4"><title>Penman Clan Tartan Tartan Number: 166. Earliest known date: 1984 From design by the late William Penman. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/lb4r2lb7n30lb8n7r5k1w2~x2/"><circle cx="326.1" cy="100.0" r="4" fill="#3465a4"><title>Hebridean Fire</title></circle></a><a href="/setts/s9/y18ly1y2ly1y2db6w4o1g6~x2/"><circle cx="286.9" cy="130.1" r="4" fill="#3465a4"><title>Nickel Lodge, Centennial</title></circle></a><a href="/setts/s11/k10db13k3lb7k1lo20lo3lb13r5lo47k3~x2/"><circle cx="285.8" cy="68.3" r="4" fill="#3465a4"><title>State Seal of Georgia (Fashion)</title></circle></a><a href="/setts/s9/b2do12k1b5w3b5k1g30lo2~x2/"><circle cx="241.9" cy="74.7" r="4" fill="#3465a4"><title>St Brigid's Quirindi</title></circle></a><circle cx="290.8" cy="94.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/o36ly2o1ly2o4dt12w8dy2dg12~x2/

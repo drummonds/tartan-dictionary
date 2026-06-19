@@ -8,7 +8,7 @@ RBYBWBW
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/lb3db2w1db50ly1db2r3~x2/tartan.png)
+![Woven sample](/setts/s7/r3db2ly1db50w1db2lb3~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RBYBWBW
 
 | Tartans |
 |---------------|
-| [Easton (2014)](/setts/s7/lb3db2w1db50ly1db2r3~x2/)|
-|![Easton (2014) example sett](/setts/s7/lb3db2w1db50ly1db2r3~x2/sett.png)|
+| [Easton (2014)](/setts/s7/r3db2ly1db50w1db2lb3~x2/)|
+|![Easton (2014) example sett](/setts/s7/r3db2ly1db50w1db2lb3~x2/sett.png)|
 

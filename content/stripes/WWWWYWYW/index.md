@@ -21,14 +21,14 @@ WWWWYWYW
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### W LB W LB LO LB LO LB <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">W LB W LB LO LB LO LB</span></span>
+### LB LO LB LO LB W LB W <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LB LO LB LO LB W LB W</span></span>
 
 | Tartans |
 |---------------|
 | [Amazon](/setts/s8/w8lb30w60lb15lo2lb2lo2lb5~x2/)|
 |![Amazon example sett](/setts/s8/w8lb30w60lb15lo2lb2lo2lb5~x2/sett.png)|
 
-### W W W W LO W LO W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W W W W LO W LO W</span></span>
+### W LO W LO W W W W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W LO W LO W W W W</span></span>
 
 | Tartans |
 |---------------|

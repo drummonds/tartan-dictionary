@@ -22,6 +22,6 @@ GWGBKBKBGW
 
 | Tartans |
 |---------------|
-| [Oliphant](/setts/s10/g2w1g32db24k4db4k4db24g32w1~x4/)|
-|![Oliphant example sett](/setts/s10/g2w1g32db24k4db4k4db24g32w1~x4/sett.png)|
+| [Oliphant](/setts/s10/db4k4db24g32w1g2~x4/)|
+|![Oliphant example sett](/setts/s10/db4k4db24g32w1g2~x4/sett.png)|
 

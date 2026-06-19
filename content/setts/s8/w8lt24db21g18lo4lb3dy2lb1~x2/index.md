@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10931](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10931)
 
 ## Thread count
-LR/2 T4 N6 Y8 LG36 DB42 LB48 W/16
+W/16 LB48 DB42 LG36 Y8 N6 T4 LR/2
 ![Sett](sett.png)
 
 ## Palette
@@ -35,7 +35,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LR/2 T4 N6 Y8 LG36 DB42 LB48 W/16 tartan")
+![Tartan detail](tartan.png "W/16 LB48 DB42 LG36 Y8 N6 T4 LR/2 tartan")
 
 ## Nearest tartans
 
@@ -43,7 +43,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Philpotts, Brian](/setts/s8/ly8t24db21g18lo4lb3dy2lo1~x2/) — ΔT 1.24
 1. [Rwanda](/setts/s11/w4k1db16k1dg12ly12b24lo2b1lo4b2~x2/) — ΔT 1.58
-1. [Lanark Highlands](/setts/s10/lo2db4g10r2g1ly1g2t3w11o2~x4/) — ΔT 1.61
+1. [Lanark Highlands](/setts/s10/o2w11t3g2ly1g1r2g10db4lo2~x4/) — ΔT 1.61
 1. [Jones, Alexander Michael (Personal)](/setts/s11/dg34w6y20y20k2r2r2r2lt24w40lo13/) — ΔT 1.64
 1. [Isle of Jura](/setts/s8/lb12lg12db7w1do5o5lo2ly2~x2/) — ΔT 1.76
 1. [Bouguet, Adrian Hunting (Personal)](/setts/s12/lb15lr6dg15lr4lb3dg3lb3lr4dg15lr2w3r1~x2/) — ΔT 1.79
@@ -54,8 +54,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/ly8t24db21g18lo4lb3dy2lo1~x2/"><circle cx="89.9" cy="97.7" r="4" fill="#3465a4"><title>Philpotts, Brian</title></circle></a><a href="/setts/s11/w4k1db16k1dg12ly12b24lo2b1lo4b2~x2/"><circle cx="110.5" cy="77.8" r="4" fill="#3465a4"><title>Rwanda</title></circle></a><a href="/setts/s10/lo2db4g10r2g1ly1g2t3w11o2~x4/"><circle cx="63.4" cy="94.7" r="4" fill="#3465a4"><title>Lanark Highlands</title></circle></a><a href="/setts/s11/dg34w6y20y20k2r2r2r2lt24w40lo13/"><circle cx="14.0" cy="50.1" r="4" fill="#3465a4"><title>Jones, Alexander Michael (Personal)</title></circle></a><a href="/setts/s8/lb12lg12db7w1do5o5lo2ly2~x2/"><circle cx="17.2" cy="121.9" r="4" fill="#3465a4"><title>Isle of Jura</title></circle></a><a href="/setts/s12/lb15lr6dg15lr4lb3dg3lb3lr4dg15lr2w3r1~x2/"><circle cx="41.6" cy="100.1" r="4" fill="#3465a4"><title>Bouguet, Adrian Hunting (Personal)</title></circle></a><a href="/setts/s11/t4r4t12w12k4g4dt8r1w1dt1ly1~x2/"><circle cx="59.3" cy="110.2" r="4" fill="#3465a4"><title>Arisaig (District)</title></circle></a><a href="/setts/s9/lg16g1g1g1t24k12m16dp2g2~x2/"><circle cx="136.3" cy="103.9" r="4" fill="#3465a4"><title>Thistle Stop LLC</title></circle></a><a href="/setts/s13/lb17r2w2db9ly2y16w1r6w1g5ly1y8ly2~x2/"><circle cx="30.4" cy="68.2" r="4" fill="#3465a4"><title>Okanagan(District)</title></circle></a><a href="/setts/s11/lp66db2lo14db2ly5p8db12g60g60lp2db25/"><circle cx="122.0" cy="75.1" r="4" fill="#3465a4"><title>Dundee Carers' Centre</title></circle></a><circle cx="61.2" cy="80.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/ly8t24db21g18lo4lb3dy2lo1~x2/"><circle cx="89.9" cy="97.9" r="4" fill="#3465a4"><title>Philpotts, Brian</title></circle></a><a href="/setts/s11/w4k1db16k1dg12ly12b24lo2b1lo4b2~x2/"><circle cx="110.4" cy="77.9" r="4" fill="#3465a4"><title>Rwanda</title></circle></a><a href="/setts/s10/o2w11t3g2ly1g1r2g10db4lo2~x4/"><circle cx="63.3" cy="94.9" r="4" fill="#3465a4"><title>Lanark Highlands</title></circle></a><a href="/setts/s11/dg34w6y20y20k2r2r2r2lt24w40lo13/"><circle cx="14.0" cy="50.4" r="4" fill="#3465a4"><title>Jones, Alexander Michael (Personal)</title></circle></a><a href="/setts/s8/lb12lg12db7w1do5o5lo2ly2~x2/"><circle cx="17.2" cy="122.1" r="4" fill="#3465a4"><title>Isle of Jura</title></circle></a><a href="/setts/s12/lb15lr6dg15lr4lb3dg3lb3lr4dg15lr2w3r1~x2/"><circle cx="41.5" cy="100.3" r="4" fill="#3465a4"><title>Bouguet, Adrian Hunting (Personal)</title></circle></a><a href="/setts/s11/t4r4t12w12k4g4dt8r1w1dt1ly1~x2/"><circle cx="59.2" cy="110.4" r="4" fill="#3465a4"><title>Arisaig (District)</title></circle></a><a href="/setts/s9/lg16g1g1g1t24k12m16dp2g2~x2/"><circle cx="136.2" cy="104.1" r="4" fill="#3465a4"><title>Thistle Stop LLC</title></circle></a><a href="/setts/s13/lb17r2w2db9ly2y16w1r6w1g5ly1y8ly2~x2/"><circle cx="30.3" cy="68.5" r="4" fill="#3465a4"><title>Okanagan(District)</title></circle></a><a href="/setts/s11/lp66db2lo14db2ly5p8db12g60g60lp2db25/"><circle cx="121.9" cy="75.3" r="4" fill="#3465a4"><title>Dundee Carers' Centre</title></circle></a><circle cx="61.1" cy="80.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/w8lt24db21g18lo4lb3dy2lb1~x2/

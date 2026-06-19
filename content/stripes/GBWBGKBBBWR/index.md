@@ -18,10 +18,10 @@ GBWBGKBBBWR
 
 
 
-### G DB LB DB G K DB B DB LB R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="seq">G DB LB DB G K DB B DB LB R</span></span>
+### R LB DB B DB K G DB LB DB G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R LB DB B DB K G DB LB DB G</span></span>
 
 | Tartans |
 |---------------|
-| [New Millennium](/setts/s11/g4db23lb23db2g4k6db24b4db6lb3r4~x2/)|
-|![New Millennium example sett](/setts/s11/g4db23lb23db2g4k6db24b4db6lb3r4~x2/sett.png)|
+| [New Millennium](/setts/s11/r4lb3db6b4db24k6g4db2lb23db23g4~x2/)|
+|![New Millennium example sett](/setts/s11/r4lb3db6b4db24k6g4db2lb23db23g4~x2/sett.png)|
 

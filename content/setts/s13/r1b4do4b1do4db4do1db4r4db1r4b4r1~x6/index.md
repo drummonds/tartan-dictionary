@@ -2,12 +2,18 @@
 title: "Vincent"
 date: 2023-03-18
 ---
-**Bands:** [RBBBBBBBRBRBR](/stripes/rbbbbbbbrbrbr/) · **Stripes:** [R B DO B DO DB DO DB R DB R B R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="seq">R B DO B DO DB DO DB R DB R B R</span></span>
+**Bands:** [RBRBRBBBBBBBR](/stripes/rbrbrbbbbbbbr/) · **Stripes:** [R B R DB R DB DO DB DO B DO B R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="seq">R B R DB R DB DO DB DO B DO B R</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4462
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Vincent (WCWM
 
 ## Attestations
 
@@ -24,7 +30,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4342
 
 ## Thread count
-DR/6 B24 DR24 DB6 DR24 DB24 K6 DB24 K24 B6 K24 B24 DR/6
+DR/6 B24 K24 B6 K24 DB24 K6 DB24 DR24 DB6 DR24 B24 DR/6
 ![Sett](sett.png)
 
 ## Palette
@@ -44,18 +50,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Palatine Union Personal Tartan Tartan Number: 6802. Earliest known date: 2004 Designed as a unique tartan for the wedding of Traepischke Graves (Trapper Graves) and Steve Lalor in Seattle. Palatine is an old Scottish name and also a district in Seattle. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/db13k3db3k3db3k10t10w4r4w4t10k10db14k3db3~x2/) — ΔT 1.65
 1. [Greer](/setts/s14/r12db10t3o3t3db3t16db3t3o3t3db10r12w4~x2/) — ΔT 1.67
 1. [William Murdoch, (Scottish Gas)](/setts/s15/b11k2b4k2b4k11db11k2t4k2db11k11b11k2b4~x2/) — ΔT 1.71
-1. [Trinity Presbyterian Church (Corpora](/setts/s12/lr3k6y3k4db16k4y3k6lr12r3lr3r3~x2/) — ΔT 1.76
-1. [Clark, Red](/setts/s8/r13k4y4k4db13k4y4k4~x4/) — ΔT 1.77
+1. [Trinity Presbyterian Church (Corpora](/setts/s12/r3lr3r3lr12k6y3k4db16k4y3k6lr3~x2/) — ΔT 1.76
+1. [Clark, Red](/setts/s8/db13k4y4k4r13~x4/) — ΔT 1.77
 1. [Trinity Presbyterian Church](/setts/s12/r3t3r3t12k6g3k4db16k4g3k6t3~x2/) — ΔT 1.82
 1. [Scottish N. A. Business Council (Co](/setts/s10/r2db6dt6db2r2db4dt6r2db2w1~x4/) — ΔT 1.83
-1. [MacDonald #6](/setts/s12/db8r2db2r4db10r2k11dg10r4dg2r2dg8~x2/) — ΔT 1.85
+1. [MacDonald #6](/setts/s12/dg8r2dg2r4dg10k11r2db10r4db2r2db8~x2/) — ΔT 1.85
 1. [Poulter Sandwich](/setts/s13/dp69b14dp13b14dp13b69db72lb13db72b69dp68b14dp13/) — ΔT 1.86
 1. [Franklin (District)](/setts/s13/k2db3o5k1o2k1o5r3k2r3db6k1db1~x4/) — ΔT 1.91
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db13k3db3k3db3k10t10w4r4w4t10k10db14k3db3~x2/"><circle cx="91.0" cy="200.2" r="4" fill="#3465a4"><title>Palatine Union Personal Tartan Tartan Number: 6802. Earliest known date: 2004 Designed as a unique tartan for the wedding of Traepischke Graves (Trapper Graves) and Steve Lalor in Seattle. Palatine is an old Scottish name and also a district in Seattle. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r12db10t3o3t3db3t16db3t3o3t3db10r12w4~x2/"><circle cx="86.0" cy="183.1" r="4" fill="#3465a4"><title>Greer</title></circle></a><a href="/setts/s15/b11k2b4k2b4k11db11k2t4k2db11k11b11k2b4~x2/"><circle cx="139.7" cy="211.5" r="4" fill="#3465a4"><title>William Murdoch, (Scottish Gas)</title></circle></a><a href="/setts/s12/lr3k6y3k4db16k4y3k6lr12r3lr3r3~x2/"><circle cx="85.7" cy="192.0" r="4" fill="#3465a4"><title>Trinity Presbyterian Church (Corpora</title></circle></a><a href="/setts/s8/r13k4y4k4db13k4y4k4~x4/"><circle cx="104.8" cy="251.6" r="4" fill="#3465a4"><title>Clark, Red</title></circle></a><a href="/setts/s12/r3t3r3t12k6g3k4db16k4g3k6t3~x2/"><circle cx="82.1" cy="195.4" r="4" fill="#3465a4"><title>Trinity Presbyterian Church</title></circle></a><a href="/setts/s10/r2db6dt6db2r2db4dt6r2db2w1~x4/"><circle cx="199.2" cy="246.8" r="4" fill="#3465a4"><title>Scottish N. A. Business Council (Co</title></circle></a><a href="/setts/s12/db8r2db2r4db10r2k11dg10r4dg2r2dg8~x2/"><circle cx="129.5" cy="226.6" r="4" fill="#3465a4"><title>MacDonald #6</title></circle></a><a href="/setts/s13/dp69b14dp13b14dp13b69db72lb13db72b69dp68b14dp13/"><circle cx="189.6" cy="234.9" r="4" fill="#3465a4"><title>Poulter Sandwich</title></circle></a><a href="/setts/s13/k2db3o5k1o2k1o5r3k2r3db6k1db1~x4/"><circle cx="121.7" cy="206.5" r="4" fill="#3465a4"><title>Franklin (District)</title></circle></a><circle cx="73.7" cy="243.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db13k3db3k3db3k10t10w4r4w4t10k10db14k3db3~x2/"><circle cx="91.2" cy="200.2" r="4" fill="#3465a4"><title>Palatine Union Personal Tartan Tartan Number: 6802. Earliest known date: 2004 Designed as a unique tartan for the wedding of Traepischke Graves (Trapper Graves) and Steve Lalor in Seattle. Palatine is an old Scottish name and also a district in Seattle. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r12db10t3o3t3db3t16db3t3o3t3db10r12w4~x2/"><circle cx="86.1" cy="183.1" r="4" fill="#3465a4"><title>Greer</title></circle></a><a href="/setts/s15/b11k2b4k2b4k11db11k2t4k2db11k11b11k2b4~x2/"><circle cx="139.8" cy="211.5" r="4" fill="#3465a4"><title>William Murdoch, (Scottish Gas)</title></circle></a><a href="/setts/s12/r3lr3r3lr12k6y3k4db16k4y3k6lr3~x2/"><circle cx="85.9" cy="192.1" r="4" fill="#3465a4"><title>Trinity Presbyterian Church (Corpora</title></circle></a><a href="/setts/s8/db13k4y4k4r13~x4/"><circle cx="105.0" cy="251.6" r="4" fill="#3465a4"><title>Clark, Red</title></circle></a><a href="/setts/s12/r3t3r3t12k6g3k4db16k4g3k6t3~x2/"><circle cx="82.3" cy="195.5" r="4" fill="#3465a4"><title>Trinity Presbyterian Church</title></circle></a><a href="/setts/s10/r2db6dt6db2r2db4dt6r2db2w1~x4/"><circle cx="199.3" cy="246.8" r="4" fill="#3465a4"><title>Scottish N. A. Business Council (Co</title></circle></a><a href="/setts/s12/dg8r2dg2r4dg10k11r2db10r4db2r2db8~x2/"><circle cx="129.6" cy="226.6" r="4" fill="#3465a4"><title>MacDonald #6</title></circle></a><a href="/setts/s13/dp69b14dp13b14dp13b69db72lb13db72b69dp68b14dp13/"><circle cx="189.7" cy="235.0" r="4" fill="#3465a4"><title>Poulter Sandwich</title></circle></a><a href="/setts/s13/k2db3o5k1o2k1o5r3k2r3db6k1db1~x4/"><circle cx="121.7" cy="206.6" r="4" fill="#3465a4"><title>Franklin (District)</title></circle></a><circle cx="73.9" cy="243.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r1b4do4b1do4db4do1db4r4db1r4b4r1~x6/

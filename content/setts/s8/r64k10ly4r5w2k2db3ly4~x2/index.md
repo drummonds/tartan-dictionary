@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -909,20 +912,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Conroy Family Tartan Tartan Number: 1626. Earliest known date: 1986 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r64k10ly4m5w2k2db3ly4~x2/) — ΔT 0.69
-1. [Prince Charles Cloak](/setts/s8/r48db3ly1dg14r8db3lb4lr1~x2/) — ΔT 1.13
+1. [Prince Charles Cloak](/setts/s8/r48db3ly1dg14r8db3lb4lr1/) — ΔT 1.13
 1. [Conroy (Personal)](/setts/s8/r64k10lo4m5lb2k2db3lo4~x2/) — ΔT 1.14
 1. [TIlted Kilt](/setts/s12/r66db2k11ly4k2w4k11g2r8k2r8w2/) — ΔT 1.19
 1. [Braemar Castle](/setts/s9/r52k5ly5lo5do5k2r6k1ly2~x2/) — ΔT 1.20
 1. [Stewart/Stuart, Royal](/setts/s12/r87db8k11ly2k3w2k3g13r11k2r5w3/) — ΔT 1.20
-1. [Stewart Royal](/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1~x2/) — ΔT 1.25
+1. [Stewart Royal](/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1/) — ΔT 1.25
 1. [Braemar, Castle](/setts/s10/r52k5ly5k8o5dr5k2r6k1ly2~x2/) — ΔT 1.36
 1. [Inverness Cathedral (Corporate)](/setts/s9/r72db6ly1db12k4w1n4w1k5~x2/) — ΔT 1.37
 1. [Stuart/Stewart of Fingask](/setts/s8/r72dg3ly2dg26r14db6t6w2/) — ΔT 1.38
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r64k10ly4m5w2k2db3ly4~x2/"><circle cx="438.3" cy="60.1" r="4" fill="#3465a4"><title>Conroy Family Tartan Tartan Number: 1626. Earliest known date: 1986 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r48db3ly1dg14r8db3lb4lr1~x2/"><circle cx="444.9" cy="60.9" r="4" fill="#3465a4"><title>Prince Charles Cloak</title></circle></a><a href="/setts/s8/r64k10lo4m5lb2k2db3lo4~x2/"><circle cx="437.4" cy="71.3" r="4" fill="#3465a4"><title>Conroy (Personal)</title></circle></a><a href="/setts/s12/r66db2k11ly4k2w4k11g2r8k2r8w2/"><circle cx="403.5" cy="24.1" r="4" fill="#3465a4"><title>TIlted Kilt</title></circle></a><a href="/setts/s9/r52k5ly5lo5do5k2r6k1ly2~x2/"><circle cx="471.0" cy="52.9" r="4" fill="#3465a4"><title>Braemar Castle</title></circle></a><a href="/setts/s12/r87db8k11ly2k3w2k3g13r11k2r5w3/"><circle cx="449.3" cy="31.6" r="4" fill="#3465a4"><title>Stewart/Stuart, Royal</title></circle></a><a href="/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1~x2/"><circle cx="379.1" cy="34.1" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><a href="/setts/s10/r52k5ly5k8o5dr5k2r6k1ly2~x2/"><circle cx="411.9" cy="49.0" r="4" fill="#3465a4"><title>Braemar, Castle</title></circle></a><a href="/setts/s9/r72db6ly1db12k4w1n4w1k5~x2/"><circle cx="467.9" cy="43.1" r="4" fill="#3465a4"><title>Inverness Cathedral (Corporate)</title></circle></a><a href="/setts/s8/r72dg3ly2dg26r14db6t6w2/"><circle cx="424.6" cy="77.7" r="4" fill="#3465a4"><title>Stuart/Stewart of Fingask</title></circle></a><circle cx="420.8" cy="53.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r64k10ly4m5w2k2db3ly4~x2/"><circle cx="437.7" cy="60.0" r="4" fill="#3465a4"><title>Conroy Family Tartan Tartan Number: 1626. Earliest known date: 1986 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r48db3ly1dg14r8db3lb4lr1/"><circle cx="444.4" cy="60.8" r="4" fill="#3465a4"><title>Prince Charles Cloak</title></circle></a><a href="/setts/s8/r64k10lo4m5lb2k2db3lo4~x2/"><circle cx="437.0" cy="71.2" r="4" fill="#3465a4"><title>Conroy (Personal)</title></circle></a><a href="/setts/s12/r66db2k11ly4k2w4k11g2r8k2r8w2/"><circle cx="402.8" cy="24.0" r="4" fill="#3465a4"><title>TIlted Kilt</title></circle></a><a href="/setts/s9/r52k5ly5lo5do5k2r6k1ly2~x2/"><circle cx="470.4" cy="52.7" r="4" fill="#3465a4"><title>Braemar Castle</title></circle></a><a href="/setts/s12/r87db8k11ly2k3w2k3g13r11k2r5w3/"><circle cx="448.7" cy="31.6" r="4" fill="#3465a4"><title>Stewart/Stuart, Royal</title></circle></a><a href="/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1/"><circle cx="378.7" cy="34.0" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><a href="/setts/s10/r52k5ly5k8o5dr5k2r6k1ly2~x2/"><circle cx="411.4" cy="48.8" r="4" fill="#3465a4"><title>Braemar, Castle</title></circle></a><a href="/setts/s9/r72db6ly1db12k4w1n4w1k5~x2/"><circle cx="467.4" cy="43.0" r="4" fill="#3465a4"><title>Inverness Cathedral (Corporate)</title></circle></a><a href="/setts/s8/r72dg3ly2dg26r14db6t6w2/"><circle cx="424.0" cy="77.6" r="4" fill="#3465a4"><title>Stuart/Stewart of Fingask</title></circle></a><circle cx="420.2" cy="53.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r64k10ly4r5w2k2db3ly4~x2/

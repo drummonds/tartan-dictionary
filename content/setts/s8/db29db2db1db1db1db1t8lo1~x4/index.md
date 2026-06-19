@@ -2,12 +2,18 @@
 title: "Marist School, The"
 date: 2023-03-18
 ---
-**Bands:** [BBBBBBBY](/stripes/bbbbbbby/) · **Stripes:** [DB DB DB DB DB DB T LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DB DB DB DB DB DB T LO</span></span>
+**Bands:** [YBBBBBBB](/stripes/ybbbbbbb/) · **Stripes:** [LO T DB DB DB DB DB DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">LO T DB DB DB DB DB DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2836
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Marist School, The
 
 ## Attestations
 
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db128r8t41n4t4n4/"><circle cx="481.1" cy="159.1" r="4" fill="#3465a4"><title>French Freemasons' Pride (Fashion)</title></circle></a><a href="/setts/s6/db55db18w3db2r2db6~x2/"><circle cx="468.8" cy="179.2" r="4" fill="#3465a4"><title>S.C.O.T.S.</title></circle></a><a href="/setts/s7/db80k5g12k2ly2g2k10~x2/"><circle cx="535.9" cy="149.2" r="4" fill="#3465a4"><title>Affara (Personal)</title></circle></a><a href="/setts/s7/db62k22w3k2w2k3r1~x2/"><circle cx="477.0" cy="126.8" r="4" fill="#3465a4"><title>Tyneside Blue, North Tyneside Pipe Band</title></circle></a><a href="/setts/s8/db32lb1db1lo2db1r1db4dg16~x4/"><circle cx="449.9" cy="140.1" r="4" fill="#3465a4"><title>Royal Agricultural Winter Fair</title></circle></a><a href="/setts/s6/db128r8g41n4g4n4/"><circle cx="455.8" cy="150.9" r="4" fill="#3465a4"><title>French Freemasons' Pride</title></circle></a><a href="/setts/s8/dt29b2dt1b1dt1b1db8ly1~x4/"><circle cx="530.5" cy="161.5" r="4" fill="#3465a4"><title>Marist School, The</title></circle></a><a href="/setts/s8/db142dt12db24w7db5w5db5r10/"><circle cx="472.6" cy="133.1" r="4" fill="#3465a4"><title>Glen Innes (District)</title></circle></a><a href="/setts/s6/db144r9t44db4t4db4/"><circle cx="558.2" cy="176.8" r="4" fill="#3465a4"><title>United French Freemasons (Corporate</title></circle></a><a href="/setts/s9/db66w2db10w2db10w2db12r3t24~x2/"><circle cx="495.0" cy="134.0" r="4" fill="#3465a4"><title>RAAF</title></circle></a><circle cx="502.6" cy="144.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db128r8t41n4t4n4/"><circle cx="481.0" cy="158.9" r="4" fill="#3465a4"><title>French Freemasons' Pride (Fashion)</title></circle></a><a href="/setts/s6/db55db18w3db2r2db6~x2/"><circle cx="468.7" cy="179.1" r="4" fill="#3465a4"><title>S.C.O.T.S.</title></circle></a><a href="/setts/s7/db80k5g12k2ly2g2k10~x2/"><circle cx="535.8" cy="149.1" r="4" fill="#3465a4"><title>Affara (Personal)</title></circle></a><a href="/setts/s7/db62k22w3k2w2k3r1~x2/"><circle cx="476.9" cy="126.6" r="4" fill="#3465a4"><title>Tyneside Blue, North Tyneside Pipe Band</title></circle></a><a href="/setts/s8/db32lb1db1lo2db1r1db4dg16~x4/"><circle cx="449.9" cy="140.0" r="4" fill="#3465a4"><title>Royal Agricultural Winter Fair</title></circle></a><a href="/setts/s6/db128r8g41n4g4n4/"><circle cx="455.7" cy="150.7" r="4" fill="#3465a4"><title>French Freemasons' Pride</title></circle></a><a href="/setts/s8/dt29b2dt1b1dt1b1db8ly1~x4/"><circle cx="530.4" cy="161.3" r="4" fill="#3465a4"><title>Marist School, The</title></circle></a><a href="/setts/s8/db142dt12db24w7db5w5db5r10/"><circle cx="472.5" cy="133.1" r="4" fill="#3465a4"><title>Glen Innes (District)</title></circle></a><a href="/setts/s6/db144r9t44db4t4db4/"><circle cx="558.0" cy="176.5" r="4" fill="#3465a4"><title>United French Freemasons (Corporate</title></circle></a><a href="/setts/s9/db66w2db10w2db10w2db12r3t24~x2/"><circle cx="494.9" cy="133.7" r="4" fill="#3465a4"><title>RAAF</title></circle></a><circle cx="502.5" cy="144.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db29db2db1db1db1db1t8lo1~x4/

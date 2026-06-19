@@ -20,7 +20,7 @@ GGY
 
 
 
-### DG Y LO <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DG Y LO</span></span>
+### LO Y DG <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="seq">LO Y DG</span></span>
 
 | Tartans |
 |---------------|

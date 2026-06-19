@@ -18,7 +18,7 @@ BWBRBWBWYWR
 
 
 
-### DO LB DO O DO LB DO LB LG LB O <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DO LB DO O DO LB DO LB LG LB O</span></span>
+### O LB LG LB DO LB DO O DO LB DO <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="seq">O LB LG LB DO LB DO O DO LB DO</span></span>
 
 | Tartans |
 |---------------|

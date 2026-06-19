@@ -2,7 +2,7 @@
 title: "Scotland the Brave"
 date: 2023-03-18
 ---
-**Bands:** [GBGBGKBKWK](/stripes/gbgbgkbkwk/) · **Stripes:** [DG DP DG P DG K P K W K](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">DG DP DG P DG K P K W K</span></span>
+**Bands:** [KWKBKGBGBG](/stripes/kwkbkgbgbg/) · **Stripes:** [K W K P K DG P DG DP DG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="seq">K W K P K DG P DG DP DG</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db1p1g3dp6db2k32db2dp12w1~x2/"><circle cx="366.7" cy="121.2" r="4" fill="#3465a4"><title>Scottish Heather</title></circle></a><a href="/setts/s10/db5w1db44dp1g12k12dp5k2m2k3~x2/"><circle cx="383.7" cy="105.4" r="4" fill="#3465a4"><title>Heart of Scotland (Fashion)</title></circle></a><a href="/setts/s10/db6w1db40m1k12dg12m6dg2dp2dg4~x2/"><circle cx="338.9" cy="103.4" r="4" fill="#3465a4"><title>Scotland the Brave (Fashion)</title></circle></a><a href="/setts/s8/b10lr2k2b1k18lr1k45lr2~x2/"><circle cx="378.5" cy="114.1" r="4" fill="#3465a4"><title>Downs (Name)</title></circle></a><a href="/setts/s10/w2dg15db8dg2db32lb1db8k13r2lb1~x2/"><circle cx="342.6" cy="127.9" r="4" fill="#3465a4"><title>Pilkington (2016)</title></circle></a><a href="/setts/s12/k4dt6k4n4dt29n6k68db10k4b6db4w2/"><circle cx="326.3" cy="90.7" r="4" fill="#3465a4"><title>Earthrise</title></circle></a><a href="/setts/s10/k4r1w1r2k48dr4w1db30ly2r2~x2/"><circle cx="389.1" cy="89.0" r="4" fill="#3465a4"><title>RCACA</title></circle></a><a href="/setts/s12/db92k14db18db5db5db5db5dg32dp16k5dp7ly8/"><circle cx="323.9" cy="130.8" r="4" fill="#3465a4"><title>Bavidge</title></circle></a><a href="/setts/s7/db2k4k36g1k34db4w2~x2/"><circle cx="321.8" cy="145.8" r="4" fill="#3465a4"><title>Police College Tulliallan</title></circle></a><a href="/setts/s11/db9dg2dp2dp2dg18dp2k2dg1k19db33w2~x2/"><circle cx="297.0" cy="119.6" r="4" fill="#3465a4"><title>Highland Pride of Scotland (Fashion)</title></circle></a><circle cx="346.0" cy="114.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db1p1g3dp6db2k32db2dp12w1~x2/"><circle cx="366.8" cy="121.3" r="4" fill="#3465a4"><title>Scottish Heather</title></circle></a><a href="/setts/s10/db5w1db44dp1g12k12dp5k2m2k3~x2/"><circle cx="383.6" cy="105.5" r="4" fill="#3465a4"><title>Heart of Scotland (Fashion)</title></circle></a><a href="/setts/s10/db6w1db40m1k12dg12m6dg2dp2dg4~x2/"><circle cx="338.8" cy="103.5" r="4" fill="#3465a4"><title>Scotland the Brave (Fashion)</title></circle></a><a href="/setts/s8/b10lr2k2b1k18lr1k45lr2~x2/"><circle cx="378.5" cy="114.2" r="4" fill="#3465a4"><title>Downs (Name)</title></circle></a><a href="/setts/s10/w2dg15db8dg2db32lb1db8k13r2lb1~x2/"><circle cx="342.6" cy="128.0" r="4" fill="#3465a4"><title>Pilkington (2016)</title></circle></a><a href="/setts/s12/k4dt6k4n4dt29n6k68db10k4b6db4w2/"><circle cx="326.4" cy="90.8" r="4" fill="#3465a4"><title>Earthrise</title></circle></a><a href="/setts/s10/k4r1w1r2k48dr4w1db30ly2r2~x2/"><circle cx="389.0" cy="89.1" r="4" fill="#3465a4"><title>RCACA</title></circle></a><a href="/setts/s12/db92k14db18db5db5db5db5dg32dp16k5dp7ly8/"><circle cx="324.0" cy="130.9" r="4" fill="#3465a4"><title>Bavidge</title></circle></a><a href="/setts/s7/db2k4k36g1k34db4w2~x2/"><circle cx="322.0" cy="145.9" r="4" fill="#3465a4"><title>Police College Tulliallan</title></circle></a><a href="/setts/s11/db9dg2dp2dp2dg18dp2k2dg1k19db33w2~x2/"><circle cx="297.0" cy="119.8" r="4" fill="#3465a4"><title>Highland Pride of Scotland (Fashion)</title></circle></a><circle cx="346.1" cy="115.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/k6w1k40p1k12dg12p6dg2dp2dg4~x2/

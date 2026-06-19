@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1912
 
+## Also known as
+
+This cloth is also recorded under:
+
+- South Canterbury Centre P. & D. Assoc., Jubilee
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -918,8 +927,8 @@ The nearest existing variants by ΔTartan distance.
 1. [South Canterbury Jubillee (Corporate](/setts/s8/t36db5g5w2r4w2r9w22~x2/) — ΔT 0.59
 1. [Dignan School of Dancing](/setts/s7/lo4r2b32k10dp4lb21dp2~x2/) — ΔT 1.05
 1. [Forfar](/setts/s10/t3ly1t23w20lo1w4db22t4db4r1~x2/) — ΔT 1.07
-1. [Queensferry High (School)](/setts/s9/lr5lb3lb7lr5lb27b8dt43w3lb3/) — ΔT 1.10
-1. [Congo, The Democratic Republic of the](/setts/s11/ly4b1ly2b20ly2r8ly2b20db16k1w4~x2/) — ΔT 1.15
+1. [Queensferry High (School)](/setts/s9/lr5lb3lb7lr5lb27b8dt43w3lb3/) — ΔT 1.11
+1. [Congo, The Democratic Republic of the](/setts/s11/w4k1db16b20ly2r8ly2b20ly2b1ly4~x2/) — ΔT 1.15
 1. [Corryvrechan Dress (Corporate)](/setts/s10/t40db12ly2db2t2db2g6w21r2t2~x2/) — ΔT 1.18
 1. [Jong Nederland Born Union (Corp)](/setts/s10/r2w1r1w13t12ly2k2t2k1ly1~x4/) — ΔT 1.29
 1. [St Andrews, Earl of, dress](/setts/s7/w28t19db19w4db2lp2db7~x2/) — ΔT 1.34
@@ -928,8 +937,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/t36db5g5w2r4w2r9w22~x2/"><circle cx="194.7" cy="115.3" r="4" fill="#3465a4"><title>South Canterbury Jubillee (Corporate</title></circle></a><a href="/setts/s7/lo4r2b32k10dp4lb21dp2~x2/"><circle cx="178.3" cy="128.5" r="4" fill="#3465a4"><title>Dignan School of Dancing</title></circle></a><a href="/setts/s10/t3ly1t23w20lo1w4db22t4db4r1~x2/"><circle cx="165.9" cy="88.8" r="4" fill="#3465a4"><title>Forfar</title></circle></a><a href="/setts/s9/lr5lb3lb7lr5lb27b8dt43w3lb3/"><circle cx="197.0" cy="122.1" r="4" fill="#3465a4"><title>Queensferry High (School)</title></circle></a><a href="/setts/s11/ly4b1ly2b20ly2r8ly2b20db16k1w4~x2/"><circle cx="226.9" cy="106.8" r="4" fill="#3465a4"><title>Congo, The Democratic Republic of the</title></circle></a><a href="/setts/s10/t40db12ly2db2t2db2g6w21r2t2~x2/"><circle cx="228.9" cy="91.4" r="4" fill="#3465a4"><title>Corryvrechan Dress (Corporate)</title></circle></a><a href="/setts/s10/r2w1r1w13t12ly2k2t2k1ly1~x4/"><circle cx="159.1" cy="100.4" r="4" fill="#3465a4"><title>Jong Nederland Born Union (Corp)</title></circle></a><a href="/setts/s7/w28t19db19w4db2lp2db7~x2/"><circle cx="174.3" cy="158.1" r="4" fill="#3465a4"><title>St Andrews, Earl of, dress</title></circle></a><a href="/setts/s8/o2b30ly3b2o16r2g16w2~x2/"><circle cx="216.4" cy="139.3" r="4" fill="#3465a4"><title>WCWM 3947</title></circle></a><a href="/setts/s9/db4w3db17lb10k1dp5k1lb6dg3~x2/"><circle cx="169.8" cy="127.5" r="4" fill="#3465a4"><title>Queen Margaret University</title></circle></a><circle cx="189.5" cy="113.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/t36db5g5w2r4w2r9w22~x2/"><circle cx="194.5" cy="115.3" r="4" fill="#3465a4"><title>South Canterbury Jubillee (Corporate</title></circle></a><a href="/setts/s7/lo4r2b32k10dp4lb21dp2~x2/"><circle cx="178.3" cy="128.5" r="4" fill="#3465a4"><title>Dignan School of Dancing</title></circle></a><a href="/setts/s10/t3ly1t23w20lo1w4db22t4db4r1~x2/"><circle cx="165.7" cy="88.8" r="4" fill="#3465a4"><title>Forfar</title></circle></a><a href="/setts/s9/lr5lb3lb7lr5lb27b8dt43w3lb3/"><circle cx="196.9" cy="122.1" r="4" fill="#3465a4"><title>Queensferry High (School)</title></circle></a><a href="/setts/s11/w4k1db16b20ly2r8ly2b20ly2b1ly4~x2/"><circle cx="226.7" cy="106.8" r="4" fill="#3465a4"><title>Congo, The Democratic Republic of the</title></circle></a><a href="/setts/s10/t40db12ly2db2t2db2g6w21r2t2~x2/"><circle cx="228.7" cy="91.4" r="4" fill="#3465a4"><title>Corryvrechan Dress (Corporate)</title></circle></a><a href="/setts/s10/r2w1r1w13t12ly2k2t2k1ly1~x4/"><circle cx="158.8" cy="100.4" r="4" fill="#3465a4"><title>Jong Nederland Born Union (Corp)</title></circle></a><a href="/setts/s7/w28t19db19w4db2lp2db7~x2/"><circle cx="174.1" cy="158.0" r="4" fill="#3465a4"><title>St Andrews, Earl of, dress</title></circle></a><a href="/setts/s8/o2b30ly3b2o16r2g16w2~x2/"><circle cx="216.3" cy="139.4" r="4" fill="#3465a4"><title>WCWM 3947</title></circle></a><a href="/setts/s9/db4w3db17lb10k1dp5k1lb6dg3~x2/"><circle cx="169.7" cy="127.5" r="4" fill="#3465a4"><title>Queen Margaret University</title></circle></a><circle cx="189.3" cy="113.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/b36db5g5w2r4w2m9w22~x2/

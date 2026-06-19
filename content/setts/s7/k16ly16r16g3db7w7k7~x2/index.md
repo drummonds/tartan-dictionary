@@ -2,7 +2,7 @@
 title: "Eusa"
 date: 2023-03-18
 ---
-**Bands:** [KWBGRYK](/stripes/kwbgryk/) · **Stripes:** [K W DB G R LY K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="seq">K W DB G R LY K</span></span>
+**Bands:** [KYRGBWK](/stripes/kyrgbwk/) · **Stripes:** [K LY R G DB W K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">K LY R G DB W K</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
@@ -23,7 +23,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10236](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10236)
 
 ## Thread count
-K/14 LN14 DB14 G6 R32 Y32 K/32
+K/32 Y32 R32 G6 DB14 LN14 K/14
 ![Sett](sett.png)
 
 ## Palette
@@ -40,16 +40,16 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/14 LN14 DB14 G6 R32 Y32 K/32 tartan")
+![Tartan detail](tartan.png "K/32 Y32 R32 G6 DB14 LN14 K/14 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Kilkenny County Crest (Fashion)](/setts/s8/lo6r8k4w6y16k13lr19k5~x2/) — ΔT 1.02
-1. [Isle of Arran (Personal)](/setts/s9/lr1db3g3lr1dr3r1dr3lo4r1~x4/) — ΔT 1.15
+1. [Isle of Arran (Personal)](/setts/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4/) — ΔT 1.15
 1. [Tipperary County Crest (Fashion)](/setts/s9/r10lr36k24r30lo8k16w18db16lo9/) — ΔT 1.17
-1. [Alabama (Fashion)](/setts/s7/lo3n12r12g16k9lb8r3~x2/) — ΔT 1.36
+1. [Alabama (Fashion)](/setts/s7/r3lb8k9g16r12n12lo3~x2/) — ΔT 1.36
 1. [Nicolson of Assynt & Coigach (Name)](/setts/s7/db8r11g5db3ly3w5k3~x2/) — ΔT 1.36
 1. [Devon Rural Skills Trust](/setts/s8/w5y4b1y4r4b1dg4ly1~x2/) — ΔT 1.42
 1. [Nicolson of Taransay Hunting (Personal)](/setts/s7/r11db3db8w3ly3g5k5~x4/) — ΔT 1.42
@@ -59,8 +59,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/lo6r8k4w6y16k13lr19k5~x2/"><circle cx="20.8" cy="203.1" r="4" fill="#3465a4"><title>Kilkenny County Crest (Fashion)</title></circle></a><a href="/setts/s9/lr1db3g3lr1dr3r1dr3lo4r1~x4/"><circle cx="16.3" cy="210.5" r="4" fill="#3465a4"><title>Isle of Arran (Personal)</title></circle></a><a href="/setts/s9/r10lr36k24r30lo8k16w18db16lo9/"><circle cx="14.0" cy="200.6" r="4" fill="#3465a4"><title>Tipperary County Crest (Fashion)</title></circle></a><a href="/setts/s7/lo3n12r12g16k9lb8r3~x2/"><circle cx="25.7" cy="217.4" r="4" fill="#3465a4"><title>Alabama (Fashion)</title></circle></a><a href="/setts/s7/db8r11g5db3ly3w5k3~x2/"><circle cx="14.0" cy="197.3" r="4" fill="#3465a4"><title>Nicolson of Assynt &amp; Coigach (Name)</title></circle></a><a href="/setts/s8/w5y4b1y4r4b1dg4ly1~x2/"><circle cx="44.9" cy="202.8" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/setts/s7/r11db3db8w3ly3g5k5~x4/"><circle cx="14.0" cy="201.4" r="4" fill="#3465a4"><title>Nicolson of Taransay Hunting (Personal)</title></circle></a><a href="/setts/s6/r2ly1r5k4g5w1~x4/"><circle cx="113.6" cy="221.7" r="4" fill="#3465a4"><title>Aboyne II (Fashion)</title></circle></a><a href="/setts/s8/w5y4t1y4r4t1dg4ly1~x6/"><circle cx="36.8" cy="199.0" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/setts/s13/r6k2r12g10k3w2k3ly2k8w4db6w12r4/"><circle cx="17.8" cy="151.0" r="4" fill="#3465a4"><title>Victoria</title></circle></a><circle cx="25.5" cy="198.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/lo6r8k4w6y16k13lr19k5~x2/"><circle cx="20.9" cy="203.2" r="4" fill="#3465a4"><title>Kilkenny County Crest (Fashion)</title></circle></a><a href="/setts/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4/"><circle cx="16.4" cy="210.6" r="4" fill="#3465a4"><title>Isle of Arran (Personal)</title></circle></a><a href="/setts/s9/r10lr36k24r30lo8k16w18db16lo9/"><circle cx="14.0" cy="200.8" r="4" fill="#3465a4"><title>Tipperary County Crest (Fashion)</title></circle></a><a href="/setts/s7/r3lb8k9g16r12n12lo3~x2/"><circle cx="25.7" cy="217.5" r="4" fill="#3465a4"><title>Alabama (Fashion)</title></circle></a><a href="/setts/s7/db8r11g5db3ly3w5k3~x2/"><circle cx="14.0" cy="197.4" r="4" fill="#3465a4"><title>Nicolson of Assynt &amp; Coigach (Name)</title></circle></a><a href="/setts/s8/w5y4b1y4r4b1dg4ly1~x2/"><circle cx="44.9" cy="202.9" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/setts/s7/r11db3db8w3ly3g5k5~x4/"><circle cx="14.0" cy="201.5" r="4" fill="#3465a4"><title>Nicolson of Taransay Hunting (Personal)</title></circle></a><a href="/setts/s6/r2ly1r5k4g5w1~x4/"><circle cx="113.6" cy="221.6" r="4" fill="#3465a4"><title>Aboyne II (Fashion)</title></circle></a><a href="/setts/s8/w5y4t1y4r4t1dg4ly1~x6/"><circle cx="36.8" cy="199.0" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/setts/s13/r6k2r12g10k3w2k3ly2k8w4db6w12r4/"><circle cx="17.7" cy="151.1" r="4" fill="#3465a4"><title>Victoria</title></circle></a><circle cx="25.6" cy="198.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k16ly16r16g3db7w7k7~x2/

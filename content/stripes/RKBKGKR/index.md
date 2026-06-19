@@ -21,14 +21,14 @@ RKBKGKR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### R K DB K DG K R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K DB K DG K R</span></span>
+### R K DG K DB K R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K DG K DB K R</span></span>
 
 | Tartans |
 |---------------|
-| [Coarse Kilt](/setts/s7/r3k2db25k28dg25k2r3~x2/)|
-|![Coarse Kilt example sett](/setts/s7/r3k2db25k28dg25k2r3~x2/sett.png)|
+| [Coarse Kilt](/setts/s7/r3k2dg25k28db25k2r3~x2/)|
+|![Coarse Kilt example sett](/setts/s7/r3k2dg25k28db25k2r3~x2/sett.png)|
 
-### R K DB K G K R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K DB K G K R</span></span>
+### R K G K DB K R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K G K DB K R</span></span>
 
 | Tartans |
 |---------------|

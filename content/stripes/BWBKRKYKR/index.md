@@ -19,17 +19,17 @@ BWBKRKYKR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB W DB K R K LY K R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB W DB K R K LY K R</span></span>
-
-| Tartans |
-|---------------|
-| [Superstition Fire Honor Guard Pipes](/setts/s9/db12w1db2k3r15k1ly2k39r2~x2/)|
-|![Superstition Fire Honor Guard Pipes example sett](/setts/s9/db12w1db2k3r15k1ly2k39r2~x2/sett.png)|
-
-### T W T K R K LO K R <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">T W T K R K LO K R</span></span>
+### R K LO K R K T W T <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="seq">R K LO K R K T W T</span></span>
 
 | Tartans |
 |---------------|
 | [Superstition Fire Honor Guard Pipes & Drums](/setts/s9/t12w1t2k3r15k1lo2k39r2~x2/)|
 |![Superstition Fire Honor Guard Pipes & Drums example sett](/setts/s9/t12w1t2k3r15k1lo2k39r2~x2/sett.png)|
+
+### R K LY K R K DB W DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R K LY K R K DB W DB</span></span>
+
+| Tartans |
+|---------------|
+| [Superstition Fire Honor Guard Pipes](/setts/s9/db12w1db2k3r15k1ly2k39r2~x2/)|
+|![Superstition Fire Honor Guard Pipes example sett](/setts/s9/db12w1db2k3r15k1ly2k39r2~x2/sett.png)|
 

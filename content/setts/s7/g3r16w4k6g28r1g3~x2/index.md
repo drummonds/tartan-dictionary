@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/6 R2 G56 K12 LN8 R32 G/6
+G/6 R32 LN8 K12 G56 R2 G/6
 ![Sett](sett.png)
 
 ## Palette
@@ -907,7 +910,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/6 R2 G56 K12 LN8 R32 G/6 tartan")
+![Tartan detail](tartan.png "G/6 R32 LN8 K12 G56 R2 G/6 tartan")
 
 ## Nearest tartans
 
@@ -926,8 +929,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/ly70k30w3dg30k3ly10/"><circle cx="288.5" cy="145.9" r="4" fill="#3465a4"><title>Jacobite #2</title></circle></a><a href="/setts/s8/k2r2k2r24g31k1g2ly2~x2/"><circle cx="341.8" cy="115.7" r="4" fill="#3465a4"><title>Gleneil</title></circle></a><a href="/setts/s7/g3r16g4k6g28r1g3~x2/"><circle cx="398.2" cy="166.9" r="4" fill="#3465a4"><title>Maxwell, hunting</title></circle></a><a href="/setts/s6/y83k35w3g35k3ly10/"><circle cx="250.1" cy="133.6" r="4" fill="#3465a4"><title>Brandon, Manitoba</title></circle></a><a href="/setts/s6/ly70k30w3g30k3ly10/"><circle cx="280.2" cy="142.6" r="4" fill="#3465a4"><title>Jacobite</title></circle></a><a href="/setts/s7/g3lo16w4k6g28lo1g3~x4/"><circle cx="337.8" cy="145.2" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/setts/s6/w12k3g50w3k13lo6~x2/"><circle cx="309.9" cy="166.4" r="4" fill="#3465a4"><title>Limerick County Crest (Fashion)</title></circle></a><a href="/setts/s10/w2g4k6r2k2r2k3r2g20w1~x2/"><circle cx="313.4" cy="136.4" r="4" fill="#3465a4"><title>Kiernan</title></circle></a><a href="/setts/s6/o84k35w3g35k3ly10/"><circle cx="261.0" cy="131.7" r="4" fill="#3465a4"><title>Brandon (Manitoba)</title></circle></a><a href="/setts/s6/o84k35lr3g35k3ly10/"><circle cx="263.5" cy="133.2" r="4" fill="#3465a4"><title>Brandon (Manitoba) (District)</title></circle></a><circle cx="322.6" cy="141.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/ly70k30w3dg30k3ly10/"><circle cx="288.1" cy="145.6" r="4" fill="#3465a4"><title>Jacobite #2</title></circle></a><a href="/setts/s8/k2r2k2r24g31k1g2ly2~x2/"><circle cx="341.4" cy="115.5" r="4" fill="#3465a4"><title>Gleneil</title></circle></a><a href="/setts/s7/g3r16g4k6g28r1g3~x2/"><circle cx="397.9" cy="166.6" r="4" fill="#3465a4"><title>Maxwell, hunting</title></circle></a><a href="/setts/s6/y83k35w3g35k3ly10/"><circle cx="249.9" cy="133.5" r="4" fill="#3465a4"><title>Brandon, Manitoba</title></circle></a><a href="/setts/s6/ly70k30w3g30k3ly10/"><circle cx="279.9" cy="142.3" r="4" fill="#3465a4"><title>Jacobite</title></circle></a><a href="/setts/s7/g3lo16w4k6g28lo1g3~x4/"><circle cx="337.5" cy="145.0" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/setts/s6/w12k3g50w3k13lo6~x2/"><circle cx="309.7" cy="166.2" r="4" fill="#3465a4"><title>Limerick County Crest (Fashion)</title></circle></a><a href="/setts/s10/w2g4k6r2k2r2k3r2g20w1~x2/"><circle cx="313.1" cy="136.3" r="4" fill="#3465a4"><title>Kiernan</title></circle></a><a href="/setts/s6/o84k35w3g35k3ly10/"><circle cx="260.8" cy="131.6" r="4" fill="#3465a4"><title>Brandon (Manitoba)</title></circle></a><a href="/setts/s6/o84k35lr3g35k3ly10/"><circle cx="263.3" cy="133.1" r="4" fill="#3465a4"><title>Brandon (Manitoba) (District)</title></circle></a><circle cx="322.3" cy="141.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/g3r16w4k6g28r1g3~x2/

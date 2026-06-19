@@ -20,7 +20,7 @@ GBKG
 
 
 
-### G DP K G <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G DP K G</span></span>
+### G K DP G <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K DP G</span></span>
 
 | Tartans |
 |---------------|

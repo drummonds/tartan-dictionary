@@ -8,7 +8,7 @@ RKYGYBY
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/lr2db6ly1dg12ly1k6r2~x4/tartan.png)
+![Woven sample](/setts/s7/r2k6ly1dg12ly1db6lr2~x4/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RKYGYBY
 
 | Tartans |
 |---------------|
-| [James (Personal)](/setts/s7/lr2db6ly1dg12ly1k6r2~x4/)|
-|![James (Personal) example sett](/setts/s7/lr2db6ly1dg12ly1k6r2~x4/sett.png)|
+| [James (Personal)](/setts/s7/r2k6ly1dg12ly1db6lr2~x4/)|
+|![James (Personal) example sett](/setts/s7/r2k6ly1dg12ly1db6lr2~x4/sett.png)|
 

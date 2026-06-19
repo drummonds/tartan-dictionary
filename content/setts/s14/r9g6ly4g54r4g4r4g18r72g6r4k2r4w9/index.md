@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/9 R4 K2 R4 G6 R72 G18 R4 G4 R4 G54 Y4 G6 R/9
+R/9 G6 Y4 G54 R4 G4 R4 G18 R72 G6 R4 K2 R4 LN/9
 ![Sett](sett.png)
 
 ## Palette
@@ -911,11 +914,11 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Leask](/setts/s14/g2r2w1r2k1r24g12ly2g3ly2g12r2g3ly2~x2/) — ΔT 0.86
-1. [Hay](/setts/s14/lb6r2k1r2dg4r48dg12r2dg2r2dg36ly2dg4r6/) — ΔT 0.88
+1. [Hay](/setts/s14/r6dg4ly2dg36r2dg2r2dg12r48dg4r2k1r2lb6/) — ΔT 0.88
 1. [Keilar (2013)](/setts/s16/o15r3o3r1o35dg5w2db2dg35r1dg3r3dg15o5w2db2~x2/) — ΔT 0.94
 1. [Hay - 1842 (Clan)](/setts/s14/r3dg2ly1dg18r1dg1r1dg6r24dg2r1k1r1w3~x2/) — ΔT 0.94
 1. [Connemarra Irish District Tartan Tartan Number: 3897. Earliest known date: pre 1997 The Connemara tartan has been created to represent the wild yet picturesque area situated in the north west of County Galway. Strictly speaking this should be a fashion tartan but it has been placed in the same class as the House of Edgar irish tartans. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/t4ly1g1r30g18g3g1k3g1g3g18r30g1ly1t4g2~x2/) — ΔT 0.97
-1. [Strang (Personal)](/setts/s14/r36g18r4g6k1lb2k1g2k1lb2k1g6r4g18~x2/) — ΔT 1.17
+1. [Strang (Personal)](/setts/s14/r36g18r4g6k1lb2k1g2~x2/) — ΔT 1.17
 1. [Dalziel](/setts/s17/r24w1db2r4g32r4db2w1r4db6r4w1db2r32g2r3g6~x2/) — ΔT 1.23
 1. [MacDonald of Glencoe #3](/setts/s13/g8r1r6g3r40y2k12r6g30r3k2r1r6~x2/) — ΔT 1.26
 1. [Leask](/setts/s14/g4r2w1r2k1r24g12ly2g3ly2g12r2g3ly4~x2/) — ΔT 1.27
@@ -923,8 +926,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/g2r2w1r2k1r24g12ly2g3ly2g12r2g3ly2~x2/"><circle cx="292.3" cy="91.2" r="4" fill="#3465a4"><title>Leask</title></circle></a><a href="/setts/s14/lb6r2k1r2dg4r48dg12r2dg2r2dg36ly2dg4r6/"><circle cx="356.2" cy="57.5" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/setts/s16/o15r3o3r1o35dg5w2db2dg35r1dg3r3dg15o5w2db2~x2/"><circle cx="296.3" cy="73.6" r="4" fill="#3465a4"><title>Keilar (2013)</title></circle></a><a href="/setts/s14/r3dg2ly1dg18r1dg1r1dg6r24dg2r1k1r1w3~x2/"><circle cx="335.4" cy="84.9" r="4" fill="#3465a4"><title>Hay - 1842 (Clan)</title></circle></a><a href="/setts/s16/t4ly1g1r30g18g3g1k3g1g3g18r30g1ly1t4g2~x2/"><circle cx="309.8" cy="77.8" r="4" fill="#3465a4"><title>Connemarra Irish District Tartan Tartan Number: 3897. Earliest known date: pre 1997 The Connemara tartan has been created to represent the wild yet picturesque area situated in the north west of County Galway. Strictly speaking this should be a fashion tartan but it has been placed in the same class as the House of Edgar irish tartans. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r36g18r4g6k1lb2k1g2k1lb2k1g6r4g18~x2/"><circle cx="360.6" cy="99.6" r="4" fill="#3465a4"><title>Strang (Personal)</title></circle></a><a href="/setts/s17/r24w1db2r4g32r4db2w1r4db6r4w1db2r32g2r3g6~x2/"><circle cx="358.0" cy="73.4" r="4" fill="#3465a4"><title>Dalziel</title></circle></a><a href="/setts/s13/g8r1r6g3r40y2k12r6g30r3k2r1r6~x2/"><circle cx="330.7" cy="77.7" r="4" fill="#3465a4"><title>MacDonald of Glencoe #3</title></circle></a><a href="/setts/s14/g4r2w1r2k1r24g12ly2g3ly2g12r2g3ly4~x2/"><circle cx="300.4" cy="100.3" r="4" fill="#3465a4"><title>Leask</title></circle></a><a href="/setts/s15/r6y2db2r30g2r2g4r2g2r1g20r1y2db2r4~x2/"><circle cx="370.8" cy="78.1" r="4" fill="#3465a4"><title>All Ireland Red</title></circle></a><circle cx="339.9" cy="69.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/g2r2w1r2k1r24g12ly2g3ly2g12r2g3ly2~x2/"><circle cx="291.8" cy="91.2" r="4" fill="#3465a4"><title>Leask</title></circle></a><a href="/setts/s14/r6dg4ly2dg36r2dg2r2dg12r48dg4r2k1r2lb6/"><circle cx="355.7" cy="57.4" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/setts/s16/o15r3o3r1o35dg5w2db2dg35r1dg3r3dg15o5w2db2~x2/"><circle cx="295.9" cy="73.6" r="4" fill="#3465a4"><title>Keilar (2013)</title></circle></a><a href="/setts/s14/r3dg2ly1dg18r1dg1r1dg6r24dg2r1k1r1w3~x2/"><circle cx="335.0" cy="84.9" r="4" fill="#3465a4"><title>Hay - 1842 (Clan)</title></circle></a><a href="/setts/s16/t4ly1g1r30g18g3g1k3g1g3g18r30g1ly1t4g2~x2/"><circle cx="309.4" cy="77.7" r="4" fill="#3465a4"><title>Connemarra Irish District Tartan Tartan Number: 3897. Earliest known date: pre 1997 The Connemara tartan has been created to represent the wild yet picturesque area situated in the north west of County Galway. Strictly speaking this should be a fashion tartan but it has been placed in the same class as the House of Edgar irish tartans. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r36g18r4g6k1lb2k1g2~x2/"><circle cx="360.2" cy="99.5" r="4" fill="#3465a4"><title>Strang (Personal)</title></circle></a><a href="/setts/s17/r24w1db2r4g32r4db2w1r4db6r4w1db2r32g2r3g6~x2/"><circle cx="357.5" cy="73.4" r="4" fill="#3465a4"><title>Dalziel</title></circle></a><a href="/setts/s13/g8r1r6g3r40y2k12r6g30r3k2r1r6~x2/"><circle cx="330.3" cy="77.7" r="4" fill="#3465a4"><title>MacDonald of Glencoe #3</title></circle></a><a href="/setts/s14/g4r2w1r2k1r24g12ly2g3ly2g12r2g3ly4~x2/"><circle cx="300.0" cy="100.3" r="4" fill="#3465a4"><title>Leask</title></circle></a><a href="/setts/s15/r6y2db2r30g2r2g4r2g2r1g20r1y2db2r4~x2/"><circle cx="370.3" cy="78.1" r="4" fill="#3465a4"><title>All Ireland Red</title></circle></a><circle cx="339.4" cy="69.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/r9g6ly4g54r4g4r4g18r72g6r4k2r4w9/

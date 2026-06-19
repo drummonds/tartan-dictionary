@@ -18,10 +18,10 @@ WBYBWBWBWBYBY
 
 
 
-### W N LR N W N W N W N LR N LG <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#82D67A"></span><span class="seq">W N LR N W N W N W N LR N LG</span></span>
+### LG N LR N W N W N W N LR N W <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LG N LR N W N W N W N LR N W</span></span>
 
 | Tartans |
 |---------------|
-| [Delta Dental Association](/setts/s13/lg4n1lr29n6w13n13w6n13w13n6lr29n1w4~x2/)|
-|![Delta Dental Association example sett](/setts/s13/lg4n1lr29n6w13n13w6n13w13n6lr29n1w4~x2/sett.png)|
+| [Delta Dental Association](/setts/s13/w4n1lr29n6w13n13w6n13w13n6lr29n1lg4~x2/)|
+|![Delta Dental Association example sett](/setts/s13/w4n1lr29n6w13n13w6n13w13n6lr29n1lg4~x2/sett.png)|
 

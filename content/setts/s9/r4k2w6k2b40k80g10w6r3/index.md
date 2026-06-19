@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10135/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Italian
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -40,7 +46,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Sinclair-Brown](/setts/s8/db64k11r2k4r2k4g32y4~x2/) — ΔT 0.87
 1. [Melrose Newbigging Grey](/setts/s10/n1k6n35k6k2dp3n1k6k2w1~x2/) — ΔT 1.08
 1. [Sandelin #2 (Personal)](/setts/s8/w10db2w1db35dg10lo3dg10r4~x2/) — ΔT 1.12
-1. [Bro-Kerne](/setts/s9/lo3dt30k1g6k1dt2k14dt1w3~x2/) — ΔT 1.12
+1. [Bro-Kerne](/setts/s9/w3dt1k14dt2k1g6k1dt30lo3~x2/) — ΔT 1.12
 1. [Midnight Balmoral (Personal)](/setts/s9/t4w1k36db2r4w1db14r8w1~x2/) — ΔT 1.12
 1. [Distripress (Corporate)](/setts/s8/r6k1w4k4n15r1k35o2~x2/) — ΔT 1.21
 1. [Royal College of G.P.s (Corporate)](/setts/s8/lo8k50o15dg6o6db3o6lo2~x2/) — ΔT 1.23
@@ -48,8 +54,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r4k2w6k2db40k80dg10w6r3/"><circle cx="341.6" cy="97.1" r="4" fill="#3465a4"><title>Italian American</title></circle></a><a href="/setts/s7/db36k10g3r3g6k1ly2~x2/"><circle cx="353.4" cy="115.8" r="4" fill="#3465a4"><title>MacLaurin, of Brioch</title></circle></a><a href="/setts/s8/db64k11r2k4r2k4g32y4~x2/"><circle cx="313.0" cy="115.8" r="4" fill="#3465a4"><title>Sinclair-Brown</title></circle></a><a href="/setts/s10/n1k6n35k6k2dp3n1k6k2w1~x2/"><circle cx="319.6" cy="69.4" r="4" fill="#3465a4"><title>Melrose Newbigging Grey</title></circle></a><a href="/setts/s8/w10db2w1db35dg10lo3dg10r4~x2/"><circle cx="271.9" cy="113.9" r="4" fill="#3465a4"><title>Sandelin #2 (Personal)</title></circle></a><a href="/setts/s9/lo3dt30k1g6k1dt2k14dt1w3~x2/"><circle cx="333.1" cy="116.5" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><a href="/setts/s9/t4w1k36db2r4w1db14r8w1~x2/"><circle cx="297.2" cy="93.4" r="4" fill="#3465a4"><title>Midnight Balmoral (Personal)</title></circle></a><a href="/setts/s8/r6k1w4k4n15r1k35o2~x2/"><circle cx="355.6" cy="110.1" r="4" fill="#3465a4"><title>Distripress (Corporate)</title></circle></a><a href="/setts/s8/lo8k50o15dg6o6db3o6lo2~x2/"><circle cx="297.4" cy="121.4" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><a href="/setts/s10/n50k12o2k2w2k2o12n7k7w2~x2/"><circle cx="344.8" cy="117.4" r="4" fill="#3465a4"><title>Skye (Fashion)</title></circle></a><circle cx="328.9" cy="88.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r4k2w6k2db40k80dg10w6r3/"><circle cx="341.6" cy="97.0" r="4" fill="#3465a4"><title>Italian American</title></circle></a><a href="/setts/s7/db36k10g3r3g6k1ly2~x2/"><circle cx="353.3" cy="115.7" r="4" fill="#3465a4"><title>MacLaurin, of Brioch</title></circle></a><a href="/setts/s8/db64k11r2k4r2k4g32y4~x2/"><circle cx="313.0" cy="115.7" r="4" fill="#3465a4"><title>Sinclair-Brown</title></circle></a><a href="/setts/s10/n1k6n35k6k2dp3n1k6k2w1~x2/"><circle cx="319.5" cy="69.3" r="4" fill="#3465a4"><title>Melrose Newbigging Grey</title></circle></a><a href="/setts/s8/w10db2w1db35dg10lo3dg10r4~x2/"><circle cx="271.8" cy="113.8" r="4" fill="#3465a4"><title>Sandelin #2 (Personal)</title></circle></a><a href="/setts/s9/w3dt1k14dt2k1g6k1dt30lo3~x2/"><circle cx="332.9" cy="116.5" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><a href="/setts/s9/t4w1k36db2r4w1db14r8w1~x2/"><circle cx="297.2" cy="93.3" r="4" fill="#3465a4"><title>Midnight Balmoral (Personal)</title></circle></a><a href="/setts/s8/r6k1w4k4n15r1k35o2~x2/"><circle cx="355.5" cy="110.0" r="4" fill="#3465a4"><title>Distripress (Corporate)</title></circle></a><a href="/setts/s8/lo8k50o15dg6o6db3o6lo2~x2/"><circle cx="297.3" cy="121.3" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><a href="/setts/s10/n50k12o2k2w2k2o12n7k7w2~x2/"><circle cx="344.6" cy="117.2" r="4" fill="#3465a4"><title>Skye (Fashion)</title></circle></a><circle cx="328.8" cy="88.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r4k2w6k2b40k80g10w6r3/

@@ -22,6 +22,6 @@ WRWRBBWBWWBWW
 
 | Tartans |
 |---------------|
-| [Daughters of the American Revolution](/setts/s13/lb2w2db5w2lb4db5lb6db14db18r4w2r2w2~x2/)|
-|![Daughters of the American Revolution example sett](/setts/s13/lb2w2db5w2lb4db5lb6db14db18r4w2r2w2~x2/sett.png)|
+| [Daughters of the American Revolution](/setts/s13/w2r2w2r4db18db14lb6db5lb4w2db5w2lb2~x2/)|
+|![Daughters of the American Revolution example sett](/setts/s13/w2r2w2r4db18db14lb6db5lb4w2db5w2lb2~x2/sett.png)|
 

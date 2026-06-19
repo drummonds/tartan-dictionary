@@ -2,7 +2,7 @@
 title: "Jahore"
 date: 2023-03-18
 ---
-**Bands:** [BKBYK](/stripes/bkbyk/) · **Stripes:** [DB K DB LY K](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K DB LY K</span></span>
+**Bands:** [KYBKB](/stripes/kybkb/) · **Stripes:** [K LY DB K DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K LY DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -907,7 +910,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Johore Regiment (Military)](/setts/s5/db20k5db18lo26k6~x2/) — ΔT 0.89
 1. [Longford County, Crest Range](/setts/s6/w7k6lo15k16k8w3~x2/) — ΔT 0.95
-1. [Johore Regiment](/setts/s8/db20k5db18lo26k6lo26db18k5~x2/) — ΔT 1.23
+1. [Johore Regiment](/setts/s8/db20k5db18lo26k6~x2/) — ΔT 1.23
 1. [MacLeod, of Argentina](/setts/s5/db10w3db12ly14r4~x2/) — ΔT 1.34
 1. [Delroeux, John Michael (Personal)](/setts/s4/db3dg6ly1r3~x10/) — ΔT 1.35
 1. [New York State Police Pipe Band](/setts/s5/o5dp3o18k16ly3~x4/) — ΔT 1.37
@@ -918,8 +921,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db20k5db18lo26k6~x2/"><circle cx="227.2" cy="274.9" r="4" fill="#3465a4"><title>Johore Regiment (Military)</title></circle></a><a href="/setts/s6/w7k6lo15k16k8w3~x2/"><circle cx="218.0" cy="261.3" r="4" fill="#3465a4"><title>Longford County, Crest Range</title></circle></a><a href="/setts/s8/db20k5db18lo26k6lo26db18k5~x2/"><circle cx="196.0" cy="252.0" r="4" fill="#3465a4"><title>Johore Regiment</title></circle></a><a href="/setts/s5/db10w3db12ly14r4~x2/"><circle cx="187.1" cy="255.3" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><a href="/setts/s4/db3dg6ly1r3~x10/"><circle cx="170.9" cy="256.8" r="4" fill="#3465a4"><title>Delroeux, John Michael (Personal)</title></circle></a><a href="/setts/s5/o5dp3o18k16ly3~x4/"><circle cx="235.6" cy="234.1" r="4" fill="#3465a4"><title>New York State Police Pipe Band</title></circle></a><a href="/setts/s5/w5r5w5k15r2~x2/"><circle cx="214.2" cy="228.1" r="4" fill="#3465a4"><title>Braes High School Falkirk (School)</title></circle></a><a href="/setts/s5/k12n3k12n18w5~x2/"><circle cx="229.8" cy="280.7" r="4" fill="#3465a4"><title>Grampian Television (Corporate)</title></circle></a><a href="/setts/s6/k5lo5w1lo5k5r1~x10/"><circle cx="187.3" cy="254.1" r="4" fill="#3465a4"><title>Canyon County Idaho Sheriff</title></circle></a><a href="/setts/s5/k4w3k4o9r1~x4/"><circle cx="185.8" cy="222.6" r="4" fill="#3465a4"><title>Oban Grey District Tartan Tartan Number: 1237. Earliest known date: pre 2003 Not an official district but a name chosen by the weavers. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="206.4" cy="265.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db20k5db18lo26k6~x2/"><circle cx="227.3" cy="274.6" r="4" fill="#3465a4"><title>Johore Regiment (Military)</title></circle></a><a href="/setts/s6/w7k6lo15k16k8w3~x2/"><circle cx="218.0" cy="261.0" r="4" fill="#3465a4"><title>Longford County, Crest Range</title></circle></a><a href="/setts/s8/db20k5db18lo26k6~x2/"><circle cx="196.0" cy="251.8" r="4" fill="#3465a4"><title>Johore Regiment</title></circle></a><a href="/setts/s5/db10w3db12ly14r4~x2/"><circle cx="187.0" cy="255.1" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><a href="/setts/s4/db3dg6ly1r3~x10/"><circle cx="171.0" cy="256.6" r="4" fill="#3465a4"><title>Delroeux, John Michael (Personal)</title></circle></a><a href="/setts/s5/o5dp3o18k16ly3~x4/"><circle cx="235.5" cy="233.9" r="4" fill="#3465a4"><title>New York State Police Pipe Band</title></circle></a><a href="/setts/s5/w5r5w5k15r2~x2/"><circle cx="214.1" cy="227.8" r="4" fill="#3465a4"><title>Braes High School Falkirk (School)</title></circle></a><a href="/setts/s5/k12n3k12n18w5~x2/"><circle cx="230.0" cy="280.4" r="4" fill="#3465a4"><title>Grampian Television (Corporate)</title></circle></a><a href="/setts/s6/k5lo5w1lo5k5r1~x10/"><circle cx="187.3" cy="253.9" r="4" fill="#3465a4"><title>Canyon County Idaho Sheriff</title></circle></a><a href="/setts/s5/k4w3k4o9r1~x4/"><circle cx="185.8" cy="222.5" r="4" fill="#3465a4"><title>Oban Grey District Tartan Tartan Number: 1237. Earliest known date: pre 2003 Not an official district but a name chosen by the weavers. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="206.4" cy="264.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/db20k5db18ly26k6~x2/

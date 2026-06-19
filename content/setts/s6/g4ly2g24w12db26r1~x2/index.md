@@ -2,12 +2,19 @@
 title: "Vancouver Centennial"
 date: 2023-03-18
 ---
-**Bands:** [GYGWBR](/stripes/gygwbr/) · **Stripes:** [G LY G W DB R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">G LY G W DB R</span></span>
+**Bands:** [RBWGYG](/stripes/rbwgyg/) · **Stripes:** [R DB W G LY G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DB W G LY G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4442
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Vancouver Centennial Commemorative
+- Vancouver, Centennial
 
 ## Attestations
 
@@ -319,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -920,16 +930,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Herriot New Zealand](/setts/s6/w15ly2k5lb3b40k10/) — ΔT 1.51
 1. [Ferguson, dress](/setts/s7/t34db24w18r3w18g2w3~x2/) — ΔT 1.57
 1. [Berger-MacLaren](/setts/s7/b37k12o17r3o17k1ly3~x2/) — ΔT 1.61
-1. [Centennial-King George Lodge No.171](/setts/s5/ly2dg36b30w7r2~x2/) — ΔT 1.62
-1. [Afternoon Tea / Mint Tea](/setts/s6/ly15dt8b25dt72lg98w15/) — ΔT 1.65
+1. [Centennial-King George Lodge No.171](/setts/s5/r2w7b30dg36ly2~x2/) — ΔT 1.62
+1. [Afternoon Tea / Mint Tea](/setts/s6/w15lg98dt72b25dt8ly15/) — ΔT 1.65
 1. [Crookstoun (Personal)](/setts/s6/b53w27r5k19lo1g11~x2/) — ΔT 1.67
 1. [Comrie, Navy Blue (Dance)](/setts/s8/dt42t2w2t2dt5k12w32db4~x2/) — ΔT 1.68
 1. [Emond, Kenneth (Personal)](/setts/s5/dt36t21ly4lb12dp2~x2/) — ΔT 1.69
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/w3b12db1g15m3w1~x4/"><circle cx="205.1" cy="164.8" r="4" fill="#3465a4"><title>Eeraerts, Laurent (Personal)</title></circle></a><a href="/setts/s6/r3w3db36g36k2r2~x2/"><circle cx="244.1" cy="148.3" r="4" fill="#3465a4"><title>Militello (Palermo) Dress (Personal)</title></circle></a><a href="/setts/s6/w15ly2k5lb3b40k10/"><circle cx="252.4" cy="138.6" r="4" fill="#3465a4"><title>Herriot New Zealand</title></circle></a><a href="/setts/s7/t34db24w18r3w18g2w3~x2/"><circle cx="159.2" cy="149.8" r="4" fill="#3465a4"><title>Ferguson, dress</title></circle></a><a href="/setts/s7/b37k12o17r3o17k1ly3~x2/"><circle cx="233.6" cy="123.3" r="4" fill="#3465a4"><title>Berger-MacLaren</title></circle></a><a href="/setts/s5/ly2dg36b30w7r2~x2/"><circle cx="255.9" cy="173.6" r="4" fill="#3465a4"><title>Centennial-King George Lodge No.171</title></circle></a><a href="/setts/s6/ly15dt8b25dt72lg98w15/"><circle cx="193.2" cy="181.5" r="4" fill="#3465a4"><title>Afternoon Tea / Mint Tea</title></circle></a><a href="/setts/s6/b53w27r5k19lo1g11~x2/"><circle cx="213.5" cy="98.1" r="4" fill="#3465a4"><title>Crookstoun (Personal)</title></circle></a><a href="/setts/s8/dt42t2w2t2dt5k12w32db4~x2/"><circle cx="230.8" cy="115.4" r="4" fill="#3465a4"><title>Comrie, Navy Blue (Dance)</title></circle></a><a href="/setts/s5/dt36t21ly4lb12dp2~x2/"><circle cx="240.4" cy="179.9" r="4" fill="#3465a4"><title>Emond, Kenneth (Personal)</title></circle></a><circle cx="194.3" cy="141.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/w3b12db1g15m3w1~x4/"><circle cx="205.0" cy="164.7" r="4" fill="#3465a4"><title>Eeraerts, Laurent (Personal)</title></circle></a><a href="/setts/s6/r3w3db36g36k2r2~x2/"><circle cx="244.1" cy="148.1" r="4" fill="#3465a4"><title>Militello (Palermo) Dress (Personal)</title></circle></a><a href="/setts/s6/w15ly2k5lb3b40k10/"><circle cx="252.3" cy="138.4" r="4" fill="#3465a4"><title>Herriot New Zealand</title></circle></a><a href="/setts/s7/t34db24w18r3w18g2w3~x2/"><circle cx="159.1" cy="149.7" r="4" fill="#3465a4"><title>Ferguson, dress</title></circle></a><a href="/setts/s7/b37k12o17r3o17k1ly3~x2/"><circle cx="233.4" cy="123.2" r="4" fill="#3465a4"><title>Berger-MacLaren</title></circle></a><a href="/setts/s5/r2w7b30dg36ly2~x2/"><circle cx="255.8" cy="173.5" r="4" fill="#3465a4"><title>Centennial-King George Lodge No.171</title></circle></a><a href="/setts/s6/w15lg98dt72b25dt8ly15/"><circle cx="193.2" cy="181.5" r="4" fill="#3465a4"><title>Afternoon Tea / Mint Tea</title></circle></a><a href="/setts/s6/b53w27r5k19lo1g11~x2/"><circle cx="213.4" cy="98.0" r="4" fill="#3465a4"><title>Crookstoun (Personal)</title></circle></a><a href="/setts/s8/dt42t2w2t2dt5k12w32db4~x2/"><circle cx="230.7" cy="115.3" r="4" fill="#3465a4"><title>Comrie, Navy Blue (Dance)</title></circle></a><a href="/setts/s5/dt36t21ly4lb12dp2~x2/"><circle cx="240.4" cy="179.8" r="4" fill="#3465a4"><title>Emond, Kenneth (Personal)</title></circle></a><circle cx="194.2" cy="141.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/g4ly2g24w12db26r1~x2/

@@ -10,7 +10,7 @@ This was sourced from house-of-tartan.  It is a [10 band tartan](/bands/bands10/
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1128
 
 ## Thread count
-K/8 N8 K4 T24 K16 N8 K4 N4 K4 N/24
+N/24 K4 N4 K4 N8 K16 T24 K4 N8 K/8
 ![Sett](sett.png)
 
 ## Palette
@@ -27,7 +27,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Tyndrum](/setts/s10/o6k1o1k1o2k4lo6k1o2k2~x8/) — ΔT 0.55
-1. [Clergy (Grey)](/setts/s11/lb1n3lb1n2lb1k6lb1k6n6lb1n1~x2/) — ΔT 0.75
+1. [Clergy (Grey)](/setts/s11/n1lb1n6k6lb1k6lb1n2lb1n3lb1~x2/) — ΔT 0.75
 1. [Monarch of Argyll (Fashion)](/setts/s12/n23k6n6k6o38k40o6k40o38n38o6n6/) — ΔT 0.78
 1. [Monarch of Argyll (Corporate)](/setts/s12/o23k3o3k3n19k20n3k20n19o19n3o3~x2/) — ΔT 0.97
 1. [Tyndrum](/setts/s10/y6k1y1k1y2k4o6k1y2k2~x4/) — ΔT 1.06
@@ -39,8 +39,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/o6k1o1k1o2k4lo6k1o2k2~x8/"><circle cx="203.3" cy="225.1" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/setts/s11/lb1n3lb1n2lb1k6lb1k6n6lb1n1~x2/"><circle cx="208.8" cy="216.1" r="4" fill="#3465a4"><title>Clergy (Grey)</title></circle></a><a href="/setts/s12/n23k6n6k6o38k40o6k40o38n38o6n6/"><circle cx="194.4" cy="223.4" r="4" fill="#3465a4"><title>Monarch of Argyll (Fashion)</title></circle></a><a href="/setts/s12/o23k3o3k3n19k20n3k20n19o19n3o3~x2/"><circle cx="196.7" cy="219.7" r="4" fill="#3465a4"><title>Monarch of Argyll (Corporate)</title></circle></a><a href="/setts/s10/y6k1y1k1y2k4o6k1y2k2~x4/"><circle cx="187.5" cy="220.5" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/setts/s13/dp8dy1dp1dy1dp1dy8g8dy1g8dy8dp8dy1dp1~x6/"><circle cx="217.1" cy="204.9" r="4" fill="#3465a4"><title>Tyneside Scottish Purple (Mil/Distr)</title></circle></a><a href="/setts/s7/k1y5k5g5k1g1k1~x4/"><circle cx="210.8" cy="262.0" r="4" fill="#3465a4"><title>Strathspey District (District)</title></circle></a><a href="/setts/s10/r3k6r3k6dg6k1w1k1dg6r1~x2/"><circle cx="180.3" cy="223.9" r="4" fill="#3465a4"><title>MacDiarmid #3</title></circle></a><a href="/setts/s13/db16r4db4r4db4r29g27r4g27r29db26r4db4~x2/"><circle cx="226.2" cy="205.2" r="4" fill="#3465a4"><title>Black Watch (Band Plaid)</title></circle></a><a href="/setts/s12/k6r1k1r4k7r1k7dg6r5dg1r1dg5~x2/"><circle cx="231.9" cy="227.8" r="4" fill="#3465a4"><title>MacDonald #8</title></circle></a><circle cx="213.7" cy="231.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/o6k1o1k1o2k4lo6k1o2k2~x8/"><circle cx="203.2" cy="224.9" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/setts/s11/n1lb1n6k6lb1k6lb1n2lb1n3lb1~x2/"><circle cx="208.8" cy="215.9" r="4" fill="#3465a4"><title>Clergy (Grey)</title></circle></a><a href="/setts/s12/n23k6n6k6o38k40o6k40o38n38o6n6/"><circle cx="194.4" cy="223.4" r="4" fill="#3465a4"><title>Monarch of Argyll (Fashion)</title></circle></a><a href="/setts/s12/o23k3o3k3n19k20n3k20n19o19n3o3~x2/"><circle cx="196.7" cy="219.6" r="4" fill="#3465a4"><title>Monarch of Argyll (Corporate)</title></circle></a><a href="/setts/s10/y6k1y1k1y2k4o6k1y2k2~x4/"><circle cx="187.5" cy="220.3" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/setts/s13/dp8dy1dp1dy1dp1dy8g8dy1g8dy8dp8dy1dp1~x6/"><circle cx="216.9" cy="204.9" r="4" fill="#3465a4"><title>Tyneside Scottish Purple (Mil/Distr)</title></circle></a><a href="/setts/s7/k1y5k5g5k1g1k1~x4/"><circle cx="210.8" cy="261.9" r="4" fill="#3465a4"><title>Strathspey District (District)</title></circle></a><a href="/setts/s10/r3k6r3k6dg6k1w1k1dg6r1~x2/"><circle cx="180.4" cy="223.9" r="4" fill="#3465a4"><title>MacDiarmid #3</title></circle></a><a href="/setts/s13/db16r4db4r4db4r29g27r4g27r29db26r4db4~x2/"><circle cx="226.0" cy="205.2" r="4" fill="#3465a4"><title>Black Watch (Band Plaid)</title></circle></a><a href="/setts/s12/k6r1k1r4k7r1k7dg6r5dg1r1dg5~x2/"><circle cx="231.9" cy="227.7" r="4" fill="#3465a4"><title>MacDonald #8</title></circle></a><circle cx="213.7" cy="231.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/o6k1o1k1o2k4dy6k1o2k2~x4/

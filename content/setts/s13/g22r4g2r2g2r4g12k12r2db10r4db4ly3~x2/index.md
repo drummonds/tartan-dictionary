@@ -2,12 +2,19 @@
 title: "Cochrane, -1974"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRGKRBRBY](/stripes/grgrgrgkrbrby/) · **Stripes:** [G R G R G R G K R DB R DB LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G R G R G R G K R DB R DB LY</span></span>
+**Bands:** [YBRBRKGRGRGRG](/stripes/ybrbrkgrgrgrg/) · **Stripes:** [LY DB R DB R K G R G R G R G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY DB R DB R K G R G R G R G</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Cochrane LC
+- Cochrane, -1974
 
 ## Register references
 
@@ -311,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,20 +921,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Dorcas, Check](/setts/s12/o4w2o2w3o18k6g3k2g2k2g14lo3~x2/) — ΔT 0.79
-1. [Reid, Green](/setts/s13/w1r2g10r2g2db8g2k8g2r2g10r2w1~x4/) — ΔT 0.88
+1. [Reid, Green](/setts/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x4/) — ΔT 0.88
 1. [Confessore Family Tartan Tartan Number: 2165. Earliest known date: 1994 Designed for Mr Confessore of Napoli, Italy in 1994 by Mr. Keith Lumsden, researcher at the Scottish Tartans Society. The colours reflect the shades and tones of the Italian countryside. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/dg12y2dg2y7ly4o2ly8o2ly4y7dg2y2dg16w2dg4~x2/) — ΔT 0.94
 1. [Dorcas Check](/setts/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/) — ΔT 0.95
-1. [Reid Family Tartan Tartan Number: 2066. Earliest known date: 1991 Designed for Mr. William Reid, President of DELCO Scottish games. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/w1r2g10r2g2db8g2k8g2r2g10r2w1~x2/) — ΔT 0.97
+1. [Reid Family Tartan Tartan Number: 2066. Earliest known date: 1991 Designed for Mr. William Reid, President of DELCO Scottish games. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x2/) — ΔT 0.97
 1. [Cochrane](/setts/s15/g16r2g2r1g3r1g2r2g12k12r1db16r2db8ly2~x2/) — ΔT 0.98
-1. [Clackson Hunting (Personal)](/setts/s13/r4db5r4db5g8ly2g24w2g8db5r4db5r4~x2/) — ΔT 0.99
+1. [Clackson Hunting (Personal)](/setts/s13/r4db5r4db5g8w2g24ly2g8db5r4db5r4~x2/) — ΔT 0.99
 1. [Confessore (Personal)](/setts/s15/k6y1k1y4ly1r1ly4r1ly2y4k1y1k8w1k2~x4/) — ΔT 1.01
 1. [Skene](/setts/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/) — ΔT 1.02
 1. [Cochrane LC](/setts/s13/dg22r4dg2r2dg2r4dg12k12r2db10r4db4ly3/) — ΔT 1.02
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/o4w2o2w3o18k6g3k2g2k2g14lo3~x2/"><circle cx="150.6" cy="143.3" r="4" fill="#3465a4"><title>Dorcas, Check</title></circle></a><a href="/setts/s13/w1r2g10r2g2db8g2k8g2r2g10r2w1~x4/"><circle cx="208.9" cy="162.8" r="4" fill="#3465a4"><title>Reid, Green</title></circle></a><a href="/setts/s15/dg12y2dg2y7ly4o2ly8o2ly4y7dg2y2dg16w2dg4~x2/"><circle cx="180.3" cy="161.2" r="4" fill="#3465a4"><title>Confessore Family Tartan Tartan Number: 2165. Earliest known date: 1994 Designed for Mr Confessore of Napoli, Italy in 1994 by Mr. Keith Lumsden, researcher at the Scottish Tartans Society. The colours reflect the shades and tones of the Italian countryside. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/"><circle cx="171.8" cy="155.1" r="4" fill="#3465a4"><title>Dorcas Check</title></circle></a><a href="/setts/s13/w1r2g10r2g2db8g2k8g2r2g10r2w1~x2/"><circle cx="214.5" cy="165.1" r="4" fill="#3465a4"><title>Reid Family Tartan Tartan Number: 2066. Earliest known date: 1991 Designed for Mr. William Reid, President of DELCO Scottish games. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/g16r2g2r1g3r1g2r2g12k12r1db16r2db8ly2~x2/"><circle cx="190.1" cy="123.7" r="4" fill="#3465a4"><title>Cochrane</title></circle></a><a href="/setts/s13/r4db5r4db5g8ly2g24w2g8db5r4db5r4~x2/"><circle cx="219.0" cy="146.8" r="4" fill="#3465a4"><title>Clackson Hunting (Personal)</title></circle></a><a href="/setts/s15/k6y1k1y4ly1r1ly4r1ly2y4k1y1k8w1k2~x4/"><circle cx="169.0" cy="147.8" r="4" fill="#3465a4"><title>Confessore (Personal)</title></circle></a><a href="/setts/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/"><circle cx="178.3" cy="157.4" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/setts/s13/dg22r4dg2r2dg2r4dg12k12r2db10r4db4ly3/"><circle cx="187.3" cy="151.3" r="4" fill="#3465a4"><title>Cochrane LC</title></circle></a><circle cx="177.9" cy="144.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/o4w2o2w3o18k6g3k2g2k2g14lo3~x2/"><circle cx="150.5" cy="143.3" r="4" fill="#3465a4"><title>Dorcas, Check</title></circle></a><a href="/setts/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x4/"><circle cx="208.8" cy="162.8" r="4" fill="#3465a4"><title>Reid, Green</title></circle></a><a href="/setts/s15/dg12y2dg2y7ly4o2ly8o2ly4y7dg2y2dg16w2dg4~x2/"><circle cx="180.2" cy="161.2" r="4" fill="#3465a4"><title>Confessore Family Tartan Tartan Number: 2165. Earliest known date: 1994 Designed for Mr Confessore of Napoli, Italy in 1994 by Mr. Keith Lumsden, researcher at the Scottish Tartans Society. The colours reflect the shades and tones of the Italian countryside. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/"><circle cx="171.7" cy="155.1" r="4" fill="#3465a4"><title>Dorcas Check</title></circle></a><a href="/setts/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x2/"><circle cx="214.4" cy="165.1" r="4" fill="#3465a4"><title>Reid Family Tartan Tartan Number: 2066. Earliest known date: 1991 Designed for Mr. William Reid, President of DELCO Scottish games. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/g16r2g2r1g3r1g2r2g12k12r1db16r2db8ly2~x2/"><circle cx="190.1" cy="123.7" r="4" fill="#3465a4"><title>Cochrane</title></circle></a><a href="/setts/s13/r4db5r4db5g8w2g24ly2g8db5r4db5r4~x2/"><circle cx="218.9" cy="146.7" r="4" fill="#3465a4"><title>Clackson Hunting (Personal)</title></circle></a><a href="/setts/s15/k6y1k1y4ly1r1ly4r1ly2y4k1y1k8w1k2~x4/"><circle cx="168.9" cy="147.7" r="4" fill="#3465a4"><title>Confessore (Personal)</title></circle></a><a href="/setts/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/"><circle cx="178.3" cy="157.4" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/setts/s13/dg22r4dg2r2dg2r4dg12k12r2db10r4db4ly3/"><circle cx="187.3" cy="151.4" r="4" fill="#3465a4"><title>Cochrane LC</title></circle></a><circle cx="177.8" cy="144.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/g22r4g2r2g2r4g12k12r2db10r4db4ly3~x2/

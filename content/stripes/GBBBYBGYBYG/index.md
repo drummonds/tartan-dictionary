@@ -18,7 +18,7 @@ GBBBYBGYBYG
 
 
 
-### DY DO T DO LO DO DY LO DO LO DY <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">DY DO T DO LO DO DY LO DO LO DY</span></span>
+### DY LO DO LO DY DO LO DO T DO DY <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">DY LO DO LO DY DO LO DO T DO DY</span></span>
 
 | Tartans |
 |---------------|

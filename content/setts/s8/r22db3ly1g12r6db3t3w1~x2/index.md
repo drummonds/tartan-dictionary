@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/2 Ba6 B6 R12 G24 Y2 B6 R/44
+R/44 B6 Y2 G24 R12 B6 Ba6 LN/2
 ![Sett](sett.png)
 
 ## Palette
@@ -902,7 +905,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/2 Ba6 B6 R12 G24 Y2 B6 R/44 tartan")
+![Tartan detail](tartan.png "R/44 B6 Y2 G24 R12 B6 Ba6 LN/2 tartan")
 
 ## Nearest tartans
 
@@ -910,19 +913,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Perthshire, or Drummond](/setts/s9/r41w2p5ly2g21r9p5db3w2~x2/) — ΔT 0.78
 1. [Perthshire or Drummond District Tartan Tartan Number: 1670. Earliest known date: c.1819 Perthshire is known as the gateway to the Highlands. The Perthshire tartan is similar to a the Drummond sett, the tartan of a Drummond clan who had extensive lands in the district. The first record of this tartan is in the early nineteenth century account book of Wilson's of Bannockburn where it is referred to as the 'Perthshire Rock and Wheel' being an early type of soft tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/r41w2dp5ly2g21r9dp5db3w2~x2/) — ΔT 0.84
-1. [Virginia Military Institute, New Market](/setts/s9/ly6r30y2k3y30g3y2r25w6~x2/) — ΔT 0.98
-1. [Virginia Military Institute, New Market](/setts/s9/ly6r30o2k3o30g3o2r25w6~x2/) — ΔT 1.11
+1. [Virginia Military Institute, New Market](/setts/s9/w6r25y2g3y30k3y2r30ly6~x2/) — ΔT 0.98
+1. [Virginia Military Institute, New Market](/setts/s9/w6r25o2g3o30k3o2r30ly6~x2/) — ΔT 1.11
 1. [Lambert (Front Royal) Greer](/setts/s8/k3r34dg10r5t2k8o2w3~x2/) — ΔT 1.12
 1. [Elbrick Dress (Personal)](/setts/s8/r6b22r6g20ly2r45b2w5~x2/) — ΔT 1.13
-1. [Round Table Sweden](/setts/s8/ly3dt6r30w2dt6g4lo15r3~x2/) — ΔT 1.14
+1. [Round Table Sweden](/setts/s8/r3lo15g4dt6w2r30dt6ly3~x2/) — ΔT 1.14
 1. [MacPhail](/setts/s6/r25db7r3g13t1k2~x4/) — ΔT 1.16
 1. [MacArthur-Fox Dress (Personal)](/setts/s11/t4k2db3r33g9w3r5db10r6g2k2~x2/) — ΔT 1.18
 1. [Followers' Plaid](/setts/s11/r48t8k10ly2k3w2g25r10k3r3w2~x2/) — ΔT 1.18
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r41w2p5ly2g21r9p5db3w2~x2/"><circle cx="309.5" cy="94.9" r="4" fill="#3465a4"><title>Perthshire, or Drummond</title></circle></a><a href="/setts/s9/r41w2dp5ly2g21r9dp5db3w2~x2/"><circle cx="316.5" cy="97.2" r="4" fill="#3465a4"><title>Perthshire or Drummond District Tartan Tartan Number: 1670. Earliest known date: c.1819 Perthshire is known as the gateway to the Highlands. The Perthshire tartan is similar to a the Drummond sett, the tartan of a Drummond clan who had extensive lands in the district. The first record of this tartan is in the early nineteenth century account book of Wilson's of Bannockburn where it is referred to as the 'Perthshire Rock and Wheel' being an early type of soft tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/ly6r30y2k3y30g3y2r25w6~x2/"><circle cx="274.6" cy="122.7" r="4" fill="#3465a4"><title>Virginia Military Institute, New Market</title></circle></a><a href="/setts/s9/ly6r30o2k3o30g3o2r25w6~x2/"><circle cx="282.6" cy="125.2" r="4" fill="#3465a4"><title>Virginia Military Institute, New Market</title></circle></a><a href="/setts/s8/k3r34dg10r5t2k8o2w3~x2/"><circle cx="327.0" cy="117.0" r="4" fill="#3465a4"><title>Lambert (Front Royal) Greer</title></circle></a><a href="/setts/s8/r6b22r6g20ly2r45b2w5~x2/"><circle cx="309.2" cy="128.3" r="4" fill="#3465a4"><title>Elbrick Dress (Personal)</title></circle></a><a href="/setts/s8/ly3dt6r30w2dt6g4lo15r3~x2/"><circle cx="230.5" cy="120.1" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/setts/s6/r25db7r3g13t1k2~x4/"><circle cx="328.7" cy="142.7" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/setts/s11/t4k2db3r33g9w3r5db10r6g2k2~x2/"><circle cx="288.1" cy="96.9" r="4" fill="#3465a4"><title>MacArthur-Fox Dress (Personal)</title></circle></a><a href="/setts/s11/r48t8k10ly2k3w2g25r10k3r3w2~x2/"><circle cx="281.9" cy="76.1" r="4" fill="#3465a4"><title>Followers' Plaid</title></circle></a><circle cx="308.3" cy="115.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r41w2p5ly2g21r9p5db3w2~x2/"><circle cx="309.1" cy="94.9" r="4" fill="#3465a4"><title>Perthshire, or Drummond</title></circle></a><a href="/setts/s9/r41w2dp5ly2g21r9dp5db3w2~x2/"><circle cx="316.1" cy="97.2" r="4" fill="#3465a4"><title>Perthshire or Drummond District Tartan Tartan Number: 1670. Earliest known date: c.1819 Perthshire is known as the gateway to the Highlands. The Perthshire tartan is similar to a the Drummond sett, the tartan of a Drummond clan who had extensive lands in the district. The first record of this tartan is in the early nineteenth century account book of Wilson's of Bannockburn where it is referred to as the 'Perthshire Rock and Wheel' being an early type of soft tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/w6r25y2g3y30k3y2r30ly6~x2/"><circle cx="274.2" cy="122.8" r="4" fill="#3465a4"><title>Virginia Military Institute, New Market</title></circle></a><a href="/setts/s9/w6r25o2g3o30k3o2r30ly6~x2/"><circle cx="282.2" cy="125.3" r="4" fill="#3465a4"><title>Virginia Military Institute, New Market</title></circle></a><a href="/setts/s8/k3r34dg10r5t2k8o2w3~x2/"><circle cx="326.7" cy="117.0" r="4" fill="#3465a4"><title>Lambert (Front Royal) Greer</title></circle></a><a href="/setts/s8/r6b22r6g20ly2r45b2w5~x2/"><circle cx="308.8" cy="128.3" r="4" fill="#3465a4"><title>Elbrick Dress (Personal)</title></circle></a><a href="/setts/s8/r3lo15g4dt6w2r30dt6ly3~x2/"><circle cx="230.2" cy="120.1" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/setts/s6/r25db7r3g13t1k2~x4/"><circle cx="328.4" cy="142.6" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/setts/s11/t4k2db3r33g9w3r5db10r6g2k2~x2/"><circle cx="287.7" cy="96.9" r="4" fill="#3465a4"><title>MacArthur-Fox Dress (Personal)</title></circle></a><a href="/setts/s11/r48t8k10ly2k3w2g25r10k3r3w2~x2/"><circle cx="281.6" cy="76.1" r="4" fill="#3465a4"><title>Followers' Plaid</title></circle></a><circle cx="308.0" cy="115.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r22db3ly1g12r6db3t3w1~x2/

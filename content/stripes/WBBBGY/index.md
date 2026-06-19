@@ -20,7 +20,7 @@ WBBBGY
 
 
 
-### LB DB DO DT DG LO <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LB DB DO DT DG LO</span></span>
+### LO DG DT DO DB LB <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LO DG DT DO DB LB</span></span>
 
 | Tartans |
 |---------------|

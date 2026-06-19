@@ -2,12 +2,18 @@
 title: "Blairlogie, or Blair Athol"
 date: 2023-03-18
 ---
-**Bands:** [BRBGBGKGWGKGBGBRK](/stripes/brbgbgkgwgkgbgbrk/) · **Stripes:** [DB R DB G DB G K G W G K G DB G DB R K](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">DB R DB G DB G K G W G K G DB G DB R K</span></span>
+**Bands:** [KRBGBGKGWGKGBGBRB](/stripes/krbgbgkgwgkgbgbrb/) · **Stripes:** [K R DB G DB G K G W G K G DB G DB R DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">K R DB G DB G K G W G K G DB G DB R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [17 band tartan](/bands/bands17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Blairlogie, or Blair Athol
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -899,7 +908,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/4 R2 B20 G6 B10 G50 K2 G2 LN6 G2 K2 G50 B10 G6 B20 R6 K/40
+K/40 R6 B20 G6 B10 G50 K2 G2 LN6 G2 K2 G50 B10 G6 B20 R2 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -930,8 +939,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s25/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22ly2g22k10db1k1db1k1db7~x2/"><circle cx="205.0" cy="97.1" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/setts/s12/lo1lg3k2g5dp4g1k14lg1k4g25lg2lo1~x2/"><circle cx="260.9" cy="97.3" r="4" fill="#3465a4"><title>Walker, Gauvin (Personal)</title></circle></a><a href="/setts/s15/g16r2g2r1g3r1g2r2g12k12r1db16r2db8ly2~x2/"><circle cx="190.1" cy="123.7" r="4" fill="#3465a4"><title>Cochrane</title></circle></a><a href="/setts/s12/db4w2db24k3db3k3db8k24g48k3g3r2/"><circle cx="220.8" cy="104.9" r="4" fill="#3465a4"><title>Urquhart, White Line</title></circle></a><a href="/setts/s16/db36g10r2g10w2g10r2g10k14r2db12r3db2r2db4w2~x2/"><circle cx="214.8" cy="112.9" r="4" fill="#3465a4"><title>Rankin</title></circle></a><a href="/setts/s17/k20y3db10g3db5g25k1g1w3g1k1g25db5g3db10y1db2~x4/"><circle cx="276.1" cy="113.1" r="4" fill="#3465a4"><title>Blairgowrie</title></circle></a><a href="/setts/s15/g30ly2g5ly2g4k15db29r2db29k15g5ly2g4ly2g17~x2/"><circle cx="178.3" cy="130.9" r="4" fill="#3465a4"><title>Unidentified, B'gowrie</title></circle></a><a href="/setts/s17/db28k1db1k1db3k12g24ly1g1ly2g1ly1g24k12db18k1db4~x2/"><circle cx="239.4" cy="107.8" r="4" fill="#3465a4"><title>Gordon, Ancient</title></circle></a><a href="/setts/s24/k6g18w2g18k6db18k1db4k1db18k6g18r2g18k6db2k2db2k2db18k2db2k2db2~x2/"><circle cx="191.6" cy="110.4" r="4" fill="#3465a4"><title>MacKenzie, Bailey</title></circle></a><a href="/setts/s14/g10g5g5g5g60g13g10db67g5k5g5k5g13ly10/"><circle cx="206.9" cy="121.0" r="4" fill="#3465a4"><title>Beatrice, Princess.. (hunting)</title></circle></a><circle cx="243.4" cy="96.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s25/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22ly2g22k10db1k1db1k1db7~x2/"><circle cx="204.9" cy="97.1" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/setts/s12/lo1lg3k2g5dp4g1k14lg1k4g25lg2lo1~x2/"><circle cx="260.8" cy="97.3" r="4" fill="#3465a4"><title>Walker, Gauvin (Personal)</title></circle></a><a href="/setts/s15/g16r2g2r1g3r1g2r2g12k12r1db16r2db8ly2~x2/"><circle cx="190.1" cy="123.7" r="4" fill="#3465a4"><title>Cochrane</title></circle></a><a href="/setts/s12/db4w2db24k3db3k3db8k24g48k3g3r2/"><circle cx="220.8" cy="104.9" r="4" fill="#3465a4"><title>Urquhart, White Line</title></circle></a><a href="/setts/s16/db36g10r2g10w2g10r2g10k14r2db12r3db2r2db4w2~x2/"><circle cx="214.7" cy="112.9" r="4" fill="#3465a4"><title>Rankin</title></circle></a><a href="/setts/s17/k20y3db10g3db5g25k1g1w3g1k1g25db5g3db10y1db2~x4/"><circle cx="276.0" cy="113.2" r="4" fill="#3465a4"><title>Blairgowrie</title></circle></a><a href="/setts/s15/g30ly2g5ly2g4k15db29r2db29k15g5ly2g4ly2g17~x2/"><circle cx="178.3" cy="130.9" r="4" fill="#3465a4"><title>Unidentified, B'gowrie</title></circle></a><a href="/setts/s17/db28k1db1k1db3k12g24ly1g1ly2g1ly1g24k12db18k1db4~x2/"><circle cx="239.3" cy="107.7" r="4" fill="#3465a4"><title>Gordon, Ancient</title></circle></a><a href="/setts/s24/k6g18w2g18k6db18k1db4k1db18k6g18r2g18k6db2k2db2k2db18k2db2k2db2~x2/"><circle cx="191.6" cy="110.4" r="4" fill="#3465a4"><title>MacKenzie, Bailey</title></circle></a><a href="/setts/s14/g10g5g5g5g60g13g10db67g5k5g5k5g13ly10/"><circle cx="206.9" cy="121.0" r="4" fill="#3465a4"><title>Beatrice, Princess.. (hunting)</title></circle></a><circle cx="243.3" cy="96.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s17/k20r3db10g3db5g25k1g1w3g1k1g25db5g3db10r1db2~x2/

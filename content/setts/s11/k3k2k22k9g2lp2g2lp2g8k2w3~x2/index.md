@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db20k3db3k3db3k16g2ly3g12r2~x2/"><circle cx="160.9" cy="161.7" r="4" fill="#3465a4"><title>Barnes</title></circle></a><a href="/setts/s9/g28k2db3k11db3k2db17db4w2~x2/"><circle cx="186.8" cy="155.3" r="4" fill="#3465a4"><title>West of Wells</title></circle></a><a href="/setts/s11/k16db2t2db4g16ly2k15db6t2k3t4~x2/"><circle cx="170.4" cy="172.8" r="4" fill="#3465a4"><title>Wilson's, No 30</title></circle></a><a href="/setts/s13/g16k5g4k8g44k40g4db52r10db4r4db10w6/"><circle cx="141.1" cy="136.0" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/setts/s9/r7db2g5k24db2g10db28g10lb3~x2/"><circle cx="149.2" cy="161.8" r="4" fill="#3465a4"><title>Colgan (Personal)</title></circle></a><a href="/setts/s14/g1k1g8k8db8r1db8k8g1k1g1k1g3w1~x2/"><circle cx="140.1" cy="161.6" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/setts/s12/w4k2b9k3b3k3b3k25dg10k2b6w2~x2/"><circle cx="207.1" cy="135.7" r="4" fill="#3465a4"><title>Auld Lang Syne Blue Fashion Tartan Tartan Number: 7250. Earliest known date: 01/01/2007 No further information. Also called Auld Lang Syne Modern. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/db24k4db4k4db4k24g24r5g6k2ly2~x2/"><circle cx="144.1" cy="150.7" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/setts/s12/k4db24k4r3k4dg24k4ly3k4dg24r3k4/"><circle cx="196.4" cy="170.0" r="4" fill="#3465a4"><title>Skene N</title></circle></a><a href="/setts/s15/db28k4db4k4db4k28g26k3ly5k3g26k28db26k3r5/"><circle cx="138.9" cy="155.6" r="4" fill="#3465a4"><title>Baillie</title></circle></a><circle cx="181.5" cy="143.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db20k3db3k3db3k16g2ly3g12r2~x2/"><circle cx="161.0" cy="161.7" r="4" fill="#3465a4"><title>Barnes</title></circle></a><a href="/setts/s9/g28k2db3k11db3k2db17db4w2~x2/"><circle cx="187.0" cy="155.3" r="4" fill="#3465a4"><title>West of Wells</title></circle></a><a href="/setts/s11/k16db2t2db4g16ly2k15db6t2k3t4~x2/"><circle cx="170.6" cy="172.8" r="4" fill="#3465a4"><title>Wilson's, No 30</title></circle></a><a href="/setts/s13/g16k5g4k8g44k40g4db52r10db4r4db10w6/"><circle cx="141.3" cy="136.1" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/setts/s9/r7db2g5k24db2g10db28g10lb3~x2/"><circle cx="149.4" cy="161.9" r="4" fill="#3465a4"><title>Colgan (Personal)</title></circle></a><a href="/setts/s14/g1k1g8k8db8r1db8k8g1k1g1k1g3w1~x2/"><circle cx="140.3" cy="161.7" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/setts/s12/w4k2b9k3b3k3b3k25dg10k2b6w2~x2/"><circle cx="207.1" cy="135.7" r="4" fill="#3465a4"><title>Auld Lang Syne Blue Fashion Tartan Tartan Number: 7250. Earliest known date: 01/01/2007 No further information. Also called Auld Lang Syne Modern. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/db24k4db4k4db4k24g24r5g6k2ly2~x2/"><circle cx="144.2" cy="150.7" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/setts/s12/k4db24k4r3k4dg24k4ly3k4dg24r3k4/"><circle cx="196.5" cy="170.0" r="4" fill="#3465a4"><title>Skene N</title></circle></a><a href="/setts/s15/db28k4db4k4db4k28g26k3ly5k3g26k28db26k3r5/"><circle cx="139.0" cy="155.7" r="4" fill="#3465a4"><title>Baillie</title></circle></a><circle cx="181.7" cy="143.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k3k2k22k9g2lp2g2lp2g8k2w3~x2/

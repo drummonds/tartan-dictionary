@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Stuart/Stewart #2
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-LN/4 R8 K8 R28 G48 K6 LN6 K6 Y4 K34 B28 R/40
+R/40 B28 K34 Y4 K6 LN6 K6 G48 R28 K8 R8 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -924,8 +933,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r25t9k2t9k19ly3k3w5k3ly3g22r16g3r3g3~x2/"><circle cx="97.2" cy="103.0" r="4" fill="#3465a4"><title>Wilson's No 181, (Stewart)</title></circle></a><a href="/setts/s12/r19t13k16ly3k3w5k3g32k2r15t5r15~x2/"><circle cx="123.2" cy="113.9" r="4" fill="#3465a4"><title>Wilson's, No 90</title></circle></a><a href="/setts/s14/r25w4k4g25ly3k15t13r5t5r15g4r5k2g3~x2/"><circle cx="126.4" cy="112.4" r="4" fill="#3465a4"><title>Wilson's, No 226</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3dg24r14k4r4w2~x2/"><circle cx="116.8" cy="124.5" r="4" fill="#3465a4"><title>Stuart/Stewart #2</title></circle></a><a href="/setts/s12/r14t4k6ly1k2w2k2g12r6k2r2w1~x2/"><circle cx="144.9" cy="106.8" r="4" fill="#3465a4"><title>Stewart, Prince Charles Edward</title></circle></a><a href="/setts/s10/g19k18r18w2ly2dp2ly2w2r8dp3~x2/"><circle cx="106.5" cy="129.4" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s11/db8k8ly2k3w3k3g24r16db3r4k2~x2/"><circle cx="99.4" cy="118.6" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s13/db8k1r4k1r4k1r4k1g8k1ly1r1w1~x2/"><circle cx="107.4" cy="128.9" r="4" fill="#3465a4"><title>Unnamed No 158, Silk Fragment</title></circle></a><a href="/setts/s10/g19k18r18ly2w2dp2ly2w2r8dp3~x2/"><circle cx="119.3" cy="133.6" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s13/db23r6db6k10ly3k2w2k2g11r12k2r10w2~x2/"><circle cx="96.5" cy="121.6" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><circle cx="100.5" cy="119.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r25t9k2t9k19ly3k3w5k3ly3g22r16g3r3g3~x2/"><circle cx="97.1" cy="103.1" r="4" fill="#3465a4"><title>Wilson's No 181, (Stewart)</title></circle></a><a href="/setts/s12/r19t13k16ly3k3w5k3g32k2r15t5r15~x2/"><circle cx="123.1" cy="114.0" r="4" fill="#3465a4"><title>Wilson's, No 90</title></circle></a><a href="/setts/s14/r25w4k4g25ly3k15t13r5t5r15g4r5k2g3~x2/"><circle cx="126.3" cy="112.5" r="4" fill="#3465a4"><title>Wilson's, No 226</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3dg24r14k4r4w2~x2/"><circle cx="116.8" cy="124.6" r="4" fill="#3465a4"><title>Stuart/Stewart #2</title></circle></a><a href="/setts/s12/r14t4k6ly1k2w2k2g12r6k2r2w1~x2/"><circle cx="144.8" cy="106.9" r="4" fill="#3465a4"><title>Stewart, Prince Charles Edward</title></circle></a><a href="/setts/s10/g19k18r18w2ly2dp2ly2w2r8dp3~x2/"><circle cx="106.5" cy="129.5" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s11/db8k8ly2k3w3k3g24r16db3r4k2~x2/"><circle cx="99.4" cy="118.7" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s13/db8k1r4k1r4k1r4k1g8k1ly1r1w1~x2/"><circle cx="107.3" cy="129.0" r="4" fill="#3465a4"><title>Unnamed No 158, Silk Fragment</title></circle></a><a href="/setts/s10/g19k18r18ly2w2dp2ly2w2r8dp3~x2/"><circle cx="119.2" cy="133.7" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s13/db23r6db6k10ly3k2w2k2g11r12k2r10w2~x2/"><circle cx="96.5" cy="121.7" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><circle cx="100.5" cy="120.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r20t14k17ly2k3w3k3g24r14k4r4w2~x2/

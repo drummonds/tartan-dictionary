@@ -21,7 +21,7 @@ BRBRBRBR
 Grouped by stripe pattern — the 5 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB R DB R DB R DB R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R DB R DB R DB R</span></span>
+### R DB R DB R DB R DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB R DB R DB</span></span>
 
 | Tartans |
 |---------------|
@@ -30,28 +30,28 @@ Grouped by stripe pattern — the 5 human-palette shadings of this band pattern,
 | [Mack of Stoneywood Dress (Personal)](/setts/s8/db80r1db2r1db6r10db1r7~x2/)|
 |![Mack of Stoneywood Dress (Personal) example sett](/setts/s8/db80r1db2r1db6r10db1r7~x2/sett.png)|
 
-### DP R DP R DP R DP R <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="seq">DP R DP R DP R DP R</span></span>
-
-| Tartans |
-|---------------|
-| [Kyle Blue (Clan)](/setts/s8/r54dp6r5dp6r10dp3r2dp18~x2/)|
-|![Kyle Blue (Clan) example sett](/setts/s8/r54dp6r5dp6r10dp3r2dp18~x2/sett.png)|
-
-### DR O N R DB O DB R <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DR O N R DB O DB R</span></span>
-
-| Tartans |
-|---------------|
-| [Jardine, of Castlemilk](/setts/s8/dr9o9n9r1db1o9db1r1~x4/)|
-|![Jardine, of Castlemilk example sett](/setts/s8/dr9o9n9r1db1o9db1r1~x4/sett.png)|
-
-### N O N O N O N O <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="seq">N O N O N O N O</span></span>
+### O N O N O N O N <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="seq">O N O N O N O N</span></span>
 
 | Tartans |
 |---------------|
 | [Hebridean Cairn (Fashion)](/setts/s8/n2o3n3o3n10o2n18o1~x4/)|
 |![Hebridean Cairn (Fashion) example sett](/setts/s8/n2o3n3o3n10o2n18o1~x4/sett.png)|
 
-### N R N R N R N R <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="seq">N R N R N R N R</span></span>
+### R DB O DB R N O DR <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="seq">R DB O DB R N O DR</span></span>
+
+| Tartans |
+|---------------|
+| [Jardine, of Castlemilk](/setts/s8/dr9o9n9r1db1o9db1r1~x4/)|
+|![Jardine, of Castlemilk example sett](/setts/s8/dr9o9n9r1db1o9db1r1~x4/sett.png)|
+
+### R DP R DP R DP R DP <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DP R DP R DP R DP</span></span>
+
+| Tartans |
+|---------------|
+| [Kyle Blue (Clan)](/setts/s8/r54dp6r5dp6r10dp3r2dp18~x2/)|
+|![Kyle Blue (Clan) example sett](/setts/s8/r54dp6r5dp6r10dp3r2dp18~x2/sett.png)|
+
+### R N R N R N R N <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="seq">R N R N R N R N</span></span>
 
 | Tartans |
 |---------------|

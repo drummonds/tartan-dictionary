@@ -18,10 +18,10 @@ BGBRBRBRBG
 
 
 
-### DB DG DB R DB R DB R DB DG <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">DB DG DB R DB R DB R DB DG</span></span>
+### DG DB R DB R DB R DB DG DB <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">DG DB R DB R DB R DB DG DB</span></span>
 
 | Tartans |
 |---------------|
-| [Hamilton (Personal)](/setts/s10/db3dg3db18r14db5r14db5r14db21dg3~x2/)|
-|![Hamilton (Personal) example sett](/setts/s10/db3dg3db18r14db5r14db5r14db21dg3~x2/sett.png)|
+| [Hamilton (Personal)](/setts/s10/dg3db21r14db5r14db5r14db18dg3db3~x2/)|
+|![Hamilton (Personal) example sett](/setts/s10/dg3db21r14db5r14db5r14db18dg3db3~x2/sett.png)|
 

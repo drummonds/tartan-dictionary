@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -907,7 +910,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Aberuchill](/setts/s8/m8k2dy10dp30dy30g55k4lo6/) — ΔT 0.94
 1. [Adams](/setts/s11/r4g4k2g15do5g5do15g6w1db19r2~x2/) — ΔT 1.04
 1. [Adams (Name)](/setts/s11/r4g4k2g17do5g5do17g6lb1db22r2~x2/) — ΔT 1.05
-1. [State Seal of Florida (Fashion)](/setts/s10/lo3do4db3do3g36db11lb3r14lo21r3~x2/) — ΔT 1.07
+1. [State Seal of Florida (Fashion)](/setts/s10/r3lo21r14lb3db11g36do3db3do4lo3~x2/) — ΔT 1.07
 1. [Redgate (Connecticut) Hunting](/setts/s9/t1dr4t12dr1k7dg12k7do21w1~x2/) — ΔT 1.11
 1. [Whitson (Name)](/setts/s9/lb4k1y19lo1k19n13r2n4r2~x4/) — ΔT 1.13
 1. [Scottish Wildcat](/setts/s14/o10w2do1w2n10o8do2k17do2o7n19k3ly1k1~x2/) — ΔT 1.15
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/m8k2dy10dp30dy30g55k4lo6/"><circle cx="232.5" cy="141.3" r="4" fill="#3465a4"><title>Aberuchill</title></circle></a><a href="/setts/s11/r4g4k2g15do5g5do15g6w1db19r2~x2/"><circle cx="193.3" cy="148.6" r="4" fill="#3465a4"><title>Adams</title></circle></a><a href="/setts/s11/r4g4k2g17do5g5do17g6lb1db22r2~x2/"><circle cx="208.1" cy="141.5" r="4" fill="#3465a4"><title>Adams (Name)</title></circle></a><a href="/setts/s10/lo3do4db3do3g36db11lb3r14lo21r3~x2/"><circle cx="164.8" cy="142.2" r="4" fill="#3465a4"><title>State Seal of Florida (Fashion)</title></circle></a><a href="/setts/s9/t1dr4t12dr1k7dg12k7do21w1~x2/"><circle cx="166.4" cy="147.9" r="4" fill="#3465a4"><title>Redgate (Connecticut) Hunting</title></circle></a><a href="/setts/s9/lb4k1y19lo1k19n13r2n4r2~x4/"><circle cx="175.6" cy="145.1" r="4" fill="#3465a4"><title>Whitson (Name)</title></circle></a><a href="/setts/s14/o10w2do1w2n10o8do2k17do2o7n19k3ly1k1~x2/"><circle cx="179.2" cy="116.2" r="4" fill="#3465a4"><title>Scottish Wildcat</title></circle></a><a href="/setts/s11/dg50db12o7db12r10o7k2o7k2o7r10~x2/"><circle cx="247.3" cy="133.5" r="4" fill="#3465a4"><title>Norham and Ladykirk (District)</title></circle></a><a href="/setts/s8/m8k2y10dp30y30g55k4o6/"><circle cx="243.5" cy="150.8" r="4" fill="#3465a4"><title>Aberuchill District Tartan Tartan Number: 6814. Earliest known date: 2005 Aberuchill lends it name to the area south of Comrie where the river Ruchil meets the river Earn. The two rivers form the boundaries of the Aberuchill Estate for which this tartan was created. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/o3k15n10dy10k1g5k1lo10k10g8k1n2~x2/"><circle cx="136.5" cy="152.0" r="4" fill="#3465a4"><title>Castlefield (Personal)</title></circle></a><circle cx="192.5" cy="138.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/m8k2dy10dp30dy30g55k4lo6/"><circle cx="232.4" cy="141.4" r="4" fill="#3465a4"><title>Aberuchill</title></circle></a><a href="/setts/s11/r4g4k2g15do5g5do15g6w1db19r2~x2/"><circle cx="193.4" cy="148.7" r="4" fill="#3465a4"><title>Adams</title></circle></a><a href="/setts/s11/r4g4k2g17do5g5do17g6lb1db22r2~x2/"><circle cx="208.2" cy="141.7" r="4" fill="#3465a4"><title>Adams (Name)</title></circle></a><a href="/setts/s10/r3lo21r14lb3db11g36do3db3do4lo3~x2/"><circle cx="164.8" cy="142.4" r="4" fill="#3465a4"><title>State Seal of Florida (Fashion)</title></circle></a><a href="/setts/s9/t1dr4t12dr1k7dg12k7do21w1~x2/"><circle cx="166.4" cy="148.1" r="4" fill="#3465a4"><title>Redgate (Connecticut) Hunting</title></circle></a><a href="/setts/s9/lb4k1y19lo1k19n13r2n4r2~x4/"><circle cx="175.7" cy="145.3" r="4" fill="#3465a4"><title>Whitson (Name)</title></circle></a><a href="/setts/s14/o10w2do1w2n10o8do2k17do2o7n19k3ly1k1~x2/"><circle cx="179.1" cy="116.4" r="4" fill="#3465a4"><title>Scottish Wildcat</title></circle></a><a href="/setts/s11/dg50db12o7db12r10o7k2o7k2o7r10~x2/"><circle cx="247.2" cy="133.6" r="4" fill="#3465a4"><title>Norham and Ladykirk (District)</title></circle></a><a href="/setts/s8/m8k2y10dp30y30g55k4o6/"><circle cx="243.5" cy="151.0" r="4" fill="#3465a4"><title>Aberuchill District Tartan Tartan Number: 6814. Earliest known date: 2005 Aberuchill lends it name to the area south of Comrie where the river Ruchil meets the river Earn. The two rivers form the boundaries of the Aberuchill Estate for which this tartan was created. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/o3k15n10dy10k1g5k1lo10k10g8k1n2~x2/"><circle cx="136.5" cy="152.2" r="4" fill="#3465a4"><title>Castlefield (Personal)</title></circle></a><circle cx="192.4" cy="138.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/o20dp2o2dp2o3dp8dg9g8y8dg1lr2~x2/

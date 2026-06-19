@@ -2,12 +2,18 @@
 title: "Unidentified, Travelling costume"
 date: 2023-03-18
 ---
-**Bands:** [BRWRKRGYR](/stripes/brwrkrgyr/) · **Stripes:** [DB R W R K R G LY R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R W R K R G LY R</span></span>
+**Bands:** [RYGRKRWRB](/stripes/rygrkrwrb/) · **Stripes:** [R LY G R K R W R DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R LY G R K R W R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified, Travelling costume
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/14 R4 LN40 R58 K4 R58 G40 Y2 R/16
+R/16 Y2 G40 R58 K4 R58 LN40 R4 B/14
 ![Sett](sett.png)
 
 ## Palette
@@ -909,16 +918,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Unidentified Plaid #7](/setts/s10/w8r100k42dg42r5k3r5t42r100w8/) — ΔT 1.28
 1. [Unidentified Plaid 10](/setts/s10/w8r100k42g42r5k3r5t42r100w8/) — ΔT 1.37
 1. [Drummond, (Fingask)](/setts/s8/r22db3ly1g12r6db3t3w1~x2/) — ΔT 1.39
-1. [Bruce](/setts/s13/ly4k1r22dg5r4dg12r6dg12r4dg5r22k1w4~x2/) — ΔT 1.43
+1. [Bruce](/setts/s13/w4k1r22dg5r4dg12r6dg12r4dg5r22k1ly4~x2/) — ΔT 1.43
 1. [Perthshire, or Drummond](/setts/s9/r41w2p5ly2g21r9p5db3w2~x2/) — ΔT 1.45
-1. [Virginia Military Institute, New Market](/setts/s9/ly6r30y2k3y30g3y2r25w6~x2/) — ΔT 1.52
+1. [Virginia Military Institute, New Market](/setts/s9/w6r25y2g3y30k3y2r30ly6~x2/) — ΔT 1.52
 1. [Perth - 1819 (District)](/setts/s9/r30w1dp4ly1dg14r6dp4lt2w1~x4/) — ΔT 1.56
 1. [Cork County Crest (Fashion)](/setts/s11/r7k6r62k15r20n15lo10k16db10k3w6/) — ΔT 1.56
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r8ly1dg20r29k2r29w20r2db7~x2/"><circle cx="290.9" cy="98.2" r="4" fill="#3465a4"><title>Unidentified Travelling costume</title></circle></a><a href="/setts/s8/ly3r4k1r27ly14r4db15w2~x2/"><circle cx="255.4" cy="92.4" r="4" fill="#3465a4"><title>Dalmagarry (Corporate)</title></circle></a><a href="/setts/s10/w8r100k42dg42r5k3r5t42r100w8/"><circle cx="338.0" cy="96.6" r="4" fill="#3465a4"><title>Unidentified Plaid #7</title></circle></a><a href="/setts/s10/w8r100k42g42r5k3r5t42r100w8/"><circle cx="325.9" cy="95.2" r="4" fill="#3465a4"><title>Unidentified Plaid 10</title></circle></a><a href="/setts/s8/r22db3ly1g12r6db3t3w1~x2/"><circle cx="308.3" cy="115.7" r="4" fill="#3465a4"><title>Drummond, (Fingask)</title></circle></a><a href="/setts/s13/ly4k1r22dg5r4dg12r6dg12r4dg5r22k1w4~x2/"><circle cx="319.9" cy="116.0" r="4" fill="#3465a4"><title>Bruce</title></circle></a><a href="/setts/s9/r41w2p5ly2g21r9p5db3w2~x2/"><circle cx="309.5" cy="94.9" r="4" fill="#3465a4"><title>Perthshire, or Drummond</title></circle></a><a href="/setts/s9/ly6r30y2k3y30g3y2r25w6~x2/"><circle cx="274.6" cy="122.7" r="4" fill="#3465a4"><title>Virginia Military Institute, New Market</title></circle></a><a href="/setts/s9/r30w1dp4ly1dg14r6dp4lt2w1~x4/"><circle cx="326.6" cy="74.5" r="4" fill="#3465a4"><title>Perth - 1819 (District)</title></circle></a><a href="/setts/s11/r7k6r62k15r20n15lo10k16db10k3w6/"><circle cx="264.2" cy="98.5" r="4" fill="#3465a4"><title>Cork County Crest (Fashion)</title></circle></a><circle cx="289.0" cy="101.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r8ly1dg20r29k2r29w20r2db7~x2/"><circle cx="290.5" cy="98.1" r="4" fill="#3465a4"><title>Unidentified Travelling costume</title></circle></a><a href="/setts/s8/ly3r4k1r27ly14r4db15w2~x2/"><circle cx="255.0" cy="92.4" r="4" fill="#3465a4"><title>Dalmagarry (Corporate)</title></circle></a><a href="/setts/s10/w8r100k42dg42r5k3r5t42r100w8/"><circle cx="337.6" cy="96.5" r="4" fill="#3465a4"><title>Unidentified Plaid #7</title></circle></a><a href="/setts/s10/w8r100k42g42r5k3r5t42r100w8/"><circle cx="325.6" cy="95.1" r="4" fill="#3465a4"><title>Unidentified Plaid 10</title></circle></a><a href="/setts/s8/r22db3ly1g12r6db3t3w1~x2/"><circle cx="308.0" cy="115.7" r="4" fill="#3465a4"><title>Drummond, (Fingask)</title></circle></a><a href="/setts/s13/w4k1r22dg5r4dg12r6dg12r4dg5r22k1ly4~x2/"><circle cx="319.4" cy="115.9" r="4" fill="#3465a4"><title>Bruce</title></circle></a><a href="/setts/s9/r41w2p5ly2g21r9p5db3w2~x2/"><circle cx="309.1" cy="94.9" r="4" fill="#3465a4"><title>Perthshire, or Drummond</title></circle></a><a href="/setts/s9/w6r25y2g3y30k3y2r30ly6~x2/"><circle cx="274.2" cy="122.8" r="4" fill="#3465a4"><title>Virginia Military Institute, New Market</title></circle></a><a href="/setts/s9/r30w1dp4ly1dg14r6dp4lt2w1~x4/"><circle cx="326.2" cy="74.5" r="4" fill="#3465a4"><title>Perth - 1819 (District)</title></circle></a><a href="/setts/s11/r7k6r62k15r20n15lo10k16db10k3w6/"><circle cx="263.9" cy="98.5" r="4" fill="#3465a4"><title>Cork County Crest (Fashion)</title></circle></a><circle cx="288.6" cy="101.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r8ly1g20r29k2r29w20r2db7~x2/

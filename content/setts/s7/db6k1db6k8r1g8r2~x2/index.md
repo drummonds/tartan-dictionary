@@ -2,7 +2,7 @@
 title: "Fletcher of Dunans"
 date: 2023-03-18
 ---
-**Bands:** [BKBKRGR](/stripes/bkbkrgr/) · **Stripes:** [DB K DB K R G R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K DB K R G R</span></span>
+**Bands:** [RGRKBKB](/stripes/rgrkbkb/) · **Stripes:** [R G R K DB K DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R G R K DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -919,15 +922,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Morrison](/setts/s6/k3g14k14g2db14r3~x2/) — ΔT 0.71
 1. [Blair](/setts/s7/db3r1db10k8g10r1g3~x4/) — ΔT 0.82
 1. [Fletcher #2](/setts/s7/b10k3b10k14r2g14k4~x2/) — ΔT 0.82
-1. [Unnamed, No 115](/setts/s8/db10k6t1g6k1g6t1k6~x2/) — ΔT 0.84
+1. [Unnamed, No 115](/setts/s8/db10k6t1g6k1~x2/) — ΔT 0.84
 1. [Wilson's, No 150 "Coburg"](/setts/s6/g18t2g4k14p12k3~x2/) — ΔT 0.86
-1. [Scottish Airports](/setts/s6/dp4dt18k17dt3g18dt4~x2/) — ΔT 0.87
 1. [MacNeil 1](/setts/s6/w1db9k9g9k2w1~x4/) — ΔT 0.87
+1. [Scottish Airports](/setts/s6/dt4g18dt3k17dt18dp4~x2/) — ΔT 0.87
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db6k1db6k8r1g8k2~x2/"><circle cx="158.0" cy="232.2" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/setts/s8/db3k2db8k8g8p1g1p3~x2/"><circle cx="129.4" cy="216.8" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/setts/s6/db2k2db12k8g11r2~x2/"><circle cx="152.2" cy="240.1" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s6/k3g14k14g2db14r3~x2/"><circle cx="136.9" cy="235.4" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/setts/s7/db3r1db10k8g10r1g3~x4/"><circle cx="167.2" cy="213.5" r="4" fill="#3465a4"><title>Blair</title></circle></a><a href="/setts/s7/b10k3b10k14r2g14k4~x2/"><circle cx="131.5" cy="238.4" r="4" fill="#3465a4"><title>Fletcher #2</title></circle></a><a href="/setts/s8/db10k6t1g6k1g6t1k6~x2/"><circle cx="146.2" cy="214.8" r="4" fill="#3465a4"><title>Unnamed, No 115</title></circle></a><a href="/setts/s6/g18t2g4k14p12k3~x2/"><circle cx="176.9" cy="220.2" r="4" fill="#3465a4"><title>Wilson's, No 150 &quot;Coburg&quot;</title></circle></a><a href="/setts/s6/dp4dt18k17dt3g18dt4~x2/"><circle cx="162.0" cy="252.7" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/setts/s6/w1db9k9g9k2w1~x4/"><circle cx="146.3" cy="216.7" r="4" fill="#3465a4"><title>MacNeil 1</title></circle></a><circle cx="147.0" cy="227.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db6k1db6k8r1g8k2~x2/"><circle cx="158.3" cy="232.2" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/setts/s8/db3k2db8k8g8p1g1p3~x2/"><circle cx="129.6" cy="216.8" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/setts/s6/db2k2db12k8g11r2~x2/"><circle cx="152.4" cy="240.0" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s6/k3g14k14g2db14r3~x2/"><circle cx="137.1" cy="235.4" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/setts/s7/db3r1db10k8g10r1g3~x4/"><circle cx="167.4" cy="213.5" r="4" fill="#3465a4"><title>Blair</title></circle></a><a href="/setts/s7/b10k3b10k14r2g14k4~x2/"><circle cx="131.8" cy="238.3" r="4" fill="#3465a4"><title>Fletcher #2</title></circle></a><a href="/setts/s8/db10k6t1g6k1~x2/"><circle cx="146.4" cy="214.8" r="4" fill="#3465a4"><title>Unnamed, No 115</title></circle></a><a href="/setts/s6/g18t2g4k14p12k3~x2/"><circle cx="177.0" cy="220.1" r="4" fill="#3465a4"><title>Wilson's, No 150 &quot;Coburg&quot;</title></circle></a><a href="/setts/s6/w1db9k9g9k2w1~x4/"><circle cx="146.6" cy="216.6" r="4" fill="#3465a4"><title>MacNeil 1</title></circle></a><a href="/setts/s6/dt4g18dt3k17dt18dp4~x2/"><circle cx="162.3" cy="252.7" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><circle cx="147.3" cy="227.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/db6k1db6k8r1g8r2~x2/

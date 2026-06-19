@@ -2,7 +2,7 @@
 title: "Asman Hunting"
 date: 2023-03-18
 ---
-**Bands:** [BYBRWRWBGRG](/stripes/bybrwrwbgrg/) · **Stripes:** [DB LY DB R W O W DB G O G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB LY DB R W O W DB G O G</span></span>
+**Bands:** [GRGBWRWRBYB](/stripes/grgbwrwrbyb/) · **Stripes:** [G O G DB W O W R DB LY DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">G O G DB W O W R DB LY DB</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/8 Y6 B34 R14 LN4 LT14 LN4 B14 G34 LT6 G/8
+G/8 LT6 G34 B14 LN4 LT14 LN4 R14 B34 Y6 B/8
 ![Sett](sett.png)
 
 ## Palette
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db9o3db2w2db9o6db3w3db3y18dg8r2~x2/"><circle cx="148.3" cy="166.7" r="4" fill="#3465a4"><title>Patterson, William J.M. (Personal)</title></circle></a><a href="/setts/s11/g10m2g2m4g16dp16m2t18lo2t8m3~x2/"><circle cx="142.3" cy="164.2" r="4" fill="#3465a4"><title>Commonwealth Games 1998 (Corporate)</title></circle></a><a href="/setts/s11/o6k3n19k6n4k3o12lr4o12w2o5~x2/"><circle cx="120.8" cy="173.4" r="4" fill="#3465a4"><title>Scotland Forever Antique (Fashion)</title></circle></a><a href="/setts/s11/b30r6dy16lp6g10lp14g24ly4dy10lp3dy28/"><circle cx="129.0" cy="175.3" r="4" fill="#3465a4"><title>Greyfriars (District)</title></circle></a><a href="/setts/s14/o11db6g6ly1db2ly1g6db6o11k1r3k1g5db5~x2/"><circle cx="128.6" cy="158.4" r="4" fill="#3465a4"><title>Penman Family Tartan Tartan Number: 167. Earliest known date: pre 1992 The late William Penman supplied members of the Penman family with this tartan for many years. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/db9n3db2lb2db9n6db3lb3db3g18dg8r2~x2/"><circle cx="137.5" cy="166.3" r="4" fill="#3465a4"><title>Patterson, William John Magee (Personal)</title></circle></a><a href="/setts/s10/r2y6t1y1t1y1t3dt8ly1b1~x4/"><circle cx="131.6" cy="163.0" r="4" fill="#3465a4"><title>Haines Family (Personal)</title></circle></a><a href="/setts/s9/dg3lo2m10dg10b20dg12r3b10w2~x2/"><circle cx="185.7" cy="189.6" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/setts/s12/o8dt8o4dt28dt12n6dt12r4n8r4n29lb6/"><circle cx="135.4" cy="187.1" r="4" fill="#3465a4"><title>Kinloch Anderson Granite (Corporate)</title></circle></a><a href="/setts/s14/y11db6g6ly1db2ly1g6db6y11k1r3k1g5db5~x2/"><circle cx="130.6" cy="160.5" r="4" fill="#3465a4"><title>Penman</title></circle></a><circle cx="154.8" cy="173.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db9o3db2w2db9o6db3w3db3y18dg8r2~x2/"><circle cx="148.3" cy="166.9" r="4" fill="#3465a4"><title>Patterson, William J.M. (Personal)</title></circle></a><a href="/setts/s11/g10m2g2m4g16dp16m2t18lo2t8m3~x2/"><circle cx="142.2" cy="164.3" r="4" fill="#3465a4"><title>Commonwealth Games 1998 (Corporate)</title></circle></a><a href="/setts/s11/o6k3n19k6n4k3o12lr4o12w2o5~x2/"><circle cx="120.8" cy="173.6" r="4" fill="#3465a4"><title>Scotland Forever Antique (Fashion)</title></circle></a><a href="/setts/s11/b30r6dy16lp6g10lp14g24ly4dy10lp3dy28/"><circle cx="129.0" cy="175.4" r="4" fill="#3465a4"><title>Greyfriars (District)</title></circle></a><a href="/setts/s14/o11db6g6ly1db2ly1g6db6o11k1r3k1g5db5~x2/"><circle cx="128.6" cy="158.6" r="4" fill="#3465a4"><title>Penman Family Tartan Tartan Number: 167. Earliest known date: pre 1992 The late William Penman supplied members of the Penman family with this tartan for many years. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/db9n3db2lb2db9n6db3lb3db3g18dg8r2~x2/"><circle cx="137.6" cy="166.5" r="4" fill="#3465a4"><title>Patterson, William John Magee (Personal)</title></circle></a><a href="/setts/s10/r2y6t1y1t1y1t3dt8ly1b1~x4/"><circle cx="131.7" cy="163.1" r="4" fill="#3465a4"><title>Haines Family (Personal)</title></circle></a><a href="/setts/s9/dg3lo2m10dg10b20dg12r3b10w2~x2/"><circle cx="185.8" cy="189.7" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/setts/s12/o8dt8o4dt28dt12n6dt12r4n8r4n29lb6/"><circle cx="135.5" cy="187.4" r="4" fill="#3465a4"><title>Kinloch Anderson Granite (Corporate)</title></circle></a><a href="/setts/s14/y11db6g6ly1db2ly1g6db6y11k1r3k1g5db5~x2/"><circle cx="130.5" cy="160.7" r="4" fill="#3465a4"><title>Penman</title></circle></a><circle cx="154.8" cy="173.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db4ly3db17r7w2o7w2db7g17o3g4~x2/

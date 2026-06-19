@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -905,19 +908,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Farquharson](/setts/s14/r2db4k1db1k1db1k8dg8ly2dg8k8db8k1r2/) — ΔT 0.63
 1. [Polaris](/setts/s17/db6k1db1k1db1k7g6ly1g1db1g1ly1g6k7db7k1db1~x4/) — ΔT 0.65
-1. [Campbell of Loudoun (Clan)](/setts/s13/ly1k1g7k8db7k1db2k1db7k8g7k1w1~x4/) — ΔT 0.69
-1. [Baillie](/setts/s15/db28k4db4k4db4k28g26k3ly5k3g26k28db26k3r5/) — ΔT 0.70
+1. [Campbell of Loudoun (Clan)](/setts/s13/w1k1g7k8db7k1db2k1db7k8g7k1ly1~x4/) — ΔT 0.69
+1. [Baillie](/setts/s15/db28k4db4k4db4k28g26k3ly5k3g26k28db26k3r5/) — ΔT 0.71
 1. [Scottish National](/setts/s15/db13w2db2r2db2k12g12k2g3k2g12k12db12k2r3~x2/) — ΔT 0.71
 1. [Urquhart](/setts/s14/g1k1g8k8db8r1db8k8g1k1g1k1g3w1~x2/) — ΔT 0.74
-1. [Stephenson, hunting](/setts/s15/g5k3db25k25g25k3w3k6w3k3g25k25db25k3r5~x2/) — ΔT 0.79
+1. [Stephenson, hunting](/setts/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5~x2/) — ΔT 0.79
+1. [Campbell Loudon](/setts/s13/ly2k1dg12k12db12k1db2k1db12k12dg12k1lb2~x2/) — ΔT 0.86
 1. [MacClellan](/setts/s14/db18k5g3r3g6k2ly2k2g6r3g3k10db5k10/) — ΔT 0.86
-1. [Campbell Loudon](/setts/s13/lb2k1dg12k12db12k1db2k1db12k12dg12k1ly2~x2/) — ΔT 0.86
-1. [MacAlpine D](/setts/s14/k4lb1k4dg1k1dg6k1dg6db1dg1db4ly1k4dg1/) — ΔT 0.90
+1. [MacAlpine D](/setts/s14/k4lb1k4dg1k1dg6k1dg6db1dg1db4ly1k4dg1~x2/) — ΔT 0.90
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r2db4k1db1k1db1k8dg8ly2dg8k8db8k1r2/"><circle cx="121.5" cy="175.4" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/setts/s17/db6k1db1k1db1k7g6ly1g1db1g1ly1g6k7db7k1db1~x4/"><circle cx="115.9" cy="162.4" r="4" fill="#3465a4"><title>Polaris</title></circle></a><a href="/setts/s13/ly1k1g7k8db7k1db2k1db7k8g7k1w1~x4/"><circle cx="141.0" cy="178.0" r="4" fill="#3465a4"><title>Campbell of Loudoun (Clan)</title></circle></a><a href="/setts/s15/db28k4db4k4db4k28g26k3ly5k3g26k28db26k3r5/"><circle cx="138.9" cy="155.6" r="4" fill="#3465a4"><title>Baillie</title></circle></a><a href="/setts/s15/db13w2db2r2db2k12g12k2g3k2g12k12db12k2r3~x2/"><circle cx="97.9" cy="177.0" r="4" fill="#3465a4"><title>Scottish National</title></circle></a><a href="/setts/s14/g1k1g8k8db8r1db8k8g1k1g1k1g3w1~x2/"><circle cx="140.1" cy="161.6" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/setts/s15/g5k3db25k25g25k3w3k6w3k3g25k25db25k3r5~x2/"><circle cx="127.2" cy="158.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s14/db18k5g3r3g6k2ly2k2g6r3g3k10db5k10/"><circle cx="124.0" cy="164.3" r="4" fill="#3465a4"><title>MacClellan</title></circle></a><a href="/setts/s13/lb2k1dg12k12db12k1db2k1db12k12dg12k1ly2~x2/"><circle cx="156.8" cy="169.4" r="4" fill="#3465a4"><title>Campbell Loudon</title></circle></a><a href="/setts/s14/k4lb1k4dg1k1dg6k1dg6db1dg1db4ly1k4dg1/"><circle cx="150.6" cy="194.0" r="4" fill="#3465a4"><title>MacAlpine D</title></circle></a><circle cx="137.4" cy="169.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r2db4k1db1k1db1k8dg8ly2dg8k8db8k1r2/"><circle cx="121.8" cy="175.5" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/setts/s17/db6k1db1k1db1k7g6ly1g1db1g1ly1g6k7db7k1db1~x4/"><circle cx="116.1" cy="162.5" r="4" fill="#3465a4"><title>Polaris</title></circle></a><a href="/setts/s13/w1k1g7k8db7k1db2k1db7k8g7k1ly1~x4/"><circle cx="141.3" cy="178.1" r="4" fill="#3465a4"><title>Campbell of Loudoun (Clan)</title></circle></a><a href="/setts/s15/db28k4db4k4db4k28g26k3ly5k3g26k28db26k3r5/"><circle cx="139.0" cy="155.7" r="4" fill="#3465a4"><title>Baillie</title></circle></a><a href="/setts/s15/db13w2db2r2db2k12g12k2g3k2g12k12db12k2r3~x2/"><circle cx="98.2" cy="177.1" r="4" fill="#3465a4"><title>Scottish National</title></circle></a><a href="/setts/s14/g1k1g8k8db8r1db8k8g1k1g1k1g3w1~x2/"><circle cx="140.3" cy="161.7" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/setts/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5~x2/"><circle cx="127.4" cy="158.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s13/ly2k1dg12k12db12k1db2k1db12k12dg12k1lb2~x2/"><circle cx="157.1" cy="169.5" r="4" fill="#3465a4"><title>Campbell Loudon</title></circle></a><a href="/setts/s14/db18k5g3r3g6k2ly2k2g6r3g3k10db5k10/"><circle cx="124.2" cy="164.3" r="4" fill="#3465a4"><title>MacClellan</title></circle></a><a href="/setts/s14/k4lb1k4dg1k1dg6k1dg6db1dg1db4ly1k4dg1~x2/"><circle cx="150.8" cy="194.0" r="4" fill="#3465a4"><title>MacAlpine D</title></circle></a><circle cx="137.7" cy="169.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/k17k3k3k3k3k17g17k2w3k2g17k17k17k3r3~x2/

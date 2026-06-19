@@ -18,10 +18,10 @@ RBBBBBBRYRYR
 
 
 
-### R N DB N DB N DB O LR O LR O <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R N DB N DB N DB O LR O LR O</span></span>
+### O LR O LR O DB N DB N DB N R <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="seq">O LR O LR O DB N DB N DB N R</span></span>
 
 | Tartans |
 |---------------|
-| [Callum](/setts/s12/o3lr2o2lr3o20db6n3db2n2db2n16r3~x2/)|
-|![Callum example sett](/setts/s12/o3lr2o2lr3o20db6n3db2n2db2n16r3~x2/sett.png)|
+| [Callum](/setts/s12/r3n16db2n2db2n3db6o20lr3o2lr2o3~x2/)|
+|![Callum example sett](/setts/s12/r3n16db2n2db2n3db6o20lr3o2lr2o3~x2/sett.png)|
 

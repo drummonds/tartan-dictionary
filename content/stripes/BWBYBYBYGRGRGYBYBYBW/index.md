@@ -22,6 +22,6 @@ BWBYBYBYGRGRGYBYBYBW
 
 | Tartans |
 |---------------|
-| [Knox #2](/setts/s20/t3w1db9ly1db9ly1db6ly1dg1r1dg4r1dg1ly1db6ly1db9ly1db9w1~x4/)|
-|![Knox #2 example sett](/setts/s20/t3w1db9ly1db9ly1db6ly1dg1r1dg4r1dg1ly1db6ly1db9ly1db9w1~x4/sett.png)|
+| [Knox #2](/setts/s20/dg4r1dg1ly1db6ly1db9ly1db9w1t3~x4/)|
+|![Knox #2 example sett](/setts/s20/dg4r1dg1ly1db6ly1db9ly1db9w1t3~x4/sett.png)|
 

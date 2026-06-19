@@ -8,7 +8,7 @@ BWKWGWWB
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/db4w2k3lb8dg2lb8w2dr4~x2/tartan.png)
+![Woven sample](/setts/s8/dr4w2lb8dg2lb8k3w2db4~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ BWKWGWWB
 
 | Tartans |
 |---------------|
-| [Desang](/setts/s8/db4w2k3lb8dg2lb8w2dr4~x2/)|
-|![Desang example sett](/setts/s8/db4w2k3lb8dg2lb8w2dr4~x2/sett.png)|
+| [Desang](/setts/s8/dr4w2lb8dg2lb8k3w2db4~x2/)|
+|![Desang example sett](/setts/s8/dr4w2lb8dg2lb8k3w2db4~x2/sett.png)|
 

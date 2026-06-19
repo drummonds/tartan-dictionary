@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2868
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Nazarian
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -24,7 +30,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6728
 
 ## Thread count
-K/4 G8 W6 LG16 B6 W8 K68 R68 W6 B28 K6 W8 LG/12
+LG/12 W8 K6 B28 W6 R68 K68 W8 B6 LG16 W6 G8 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -49,15 +55,15 @@ The nearest existing variants by ΔTartan distance.
 1. [MacCulloch Dress (Name)](/setts/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/) — ΔT 0.82
 1. [Beaton (Name)](/setts/s13/r2dt18ly4k5ly1k1w1k2g8r6k1r3w1~x4/) — ΔT 0.83
 1. [Buchanan (Logan)](/setts/s13/t2dg16k1t2k1ly4k1ly4k1t2k1r16w2~x4/) — ΔT 0.88
-1. [Hebridean Arisaid Red (Dance)](/setts/s16/r6k4r23lr2w2g12db12k4w37k4db12g12w2lr2r23k4~x2/) — ΔT 0.88
+1. [Hebridean Arisaid Red (Dance)](/setts/s16/w37k4db12g12w2lr2r23k4r6~x2/) — ΔT 0.88
 1. [MacLean of Duart 1](/setts/s11/t13k6ly2k3w4k3g22r31t3r4k2~x2/) — ΔT 0.91
-1. [Harrods](/setts/s14/o2w2k2w12o1w1o1w1o4dr5o2dr9o3r2~x2/) — ΔT 0.93
+1. [Harrods](/setts/s14/r2o3dr9o2dr5o4w1o1w1o1w12k2w2o2~x2/) — ΔT 0.93
 1. [Cairn (Fashion)](/setts/s14/o3w20r1db1r1db3r4db2r4db2r4db1y8ly1~x4/) — ΔT 0.98
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lo6w4k3t14w3r34k34w4t3lo8w3g4k2~x2/"><circle cx="122.2" cy="78.6" r="4" fill="#3465a4"><title>Nazarian (Personal)</title></circle></a><a href="/setts/s13/dg1r16w1db2w2k4w2k4w2db2w1dg16t1~x4/"><circle cx="118.2" cy="75.1" r="4" fill="#3465a4"><title>Gibbs/Gibson</title></circle></a><a href="/setts/s14/db20w3db4w3db4w3r22g2k1g2lo16w1k2w1~x2/"><circle cx="139.5" cy="63.9" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield (District)</title></circle></a><a href="/setts/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/"><circle cx="117.2" cy="79.7" r="4" fill="#3465a4"><title>MacCulloch Dress (Name)</title></circle></a><a href="/setts/s13/r2dt18ly4k5ly1k1w1k2g8r6k1r3w1~x4/"><circle cx="124.6" cy="84.8" r="4" fill="#3465a4"><title>Beaton (Name)</title></circle></a><a href="/setts/s13/t2dg16k1t2k1ly4k1ly4k1t2k1r16w2~x4/"><circle cx="126.0" cy="76.8" r="4" fill="#3465a4"><title>Buchanan (Logan)</title></circle></a><a href="/setts/s16/r6k4r23lr2w2g12db12k4w37k4db12g12w2lr2r23k4~x2/"><circle cx="105.8" cy="80.7" r="4" fill="#3465a4"><title>Hebridean Arisaid Red (Dance)</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3g22r31t3r4k2~x2/"><circle cx="147.1" cy="97.0" r="4" fill="#3465a4"><title>MacLean of Duart 1</title></circle></a><a href="/setts/s14/o2w2k2w12o1w1o1w1o4dr5o2dr9o3r2~x2/"><circle cx="99.9" cy="97.2" r="4" fill="#3465a4"><title>Harrods</title></circle></a><a href="/setts/s14/o3w20r1db1r1db3r4db2r4db2r4db1y8ly1~x4/"><circle cx="147.1" cy="61.6" r="4" fill="#3465a4"><title>Cairn (Fashion)</title></circle></a><circle cx="114.8" cy="75.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lo6w4k3t14w3r34k34w4t3lo8w3g4k2~x2/"><circle cx="122.0" cy="78.7" r="4" fill="#3465a4"><title>Nazarian (Personal)</title></circle></a><a href="/setts/s13/dg1r16w1db2w2k4w2k4w2db2w1dg16t1~x4/"><circle cx="118.1" cy="75.2" r="4" fill="#3465a4"><title>Gibbs/Gibson</title></circle></a><a href="/setts/s14/db20w3db4w3db4w3r22g2k1g2lo16w1k2w1~x2/"><circle cx="139.3" cy="64.0" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield (District)</title></circle></a><a href="/setts/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/"><circle cx="117.0" cy="79.8" r="4" fill="#3465a4"><title>MacCulloch Dress (Name)</title></circle></a><a href="/setts/s13/r2dt18ly4k5ly1k1w1k2g8r6k1r3w1~x4/"><circle cx="124.5" cy="84.9" r="4" fill="#3465a4"><title>Beaton (Name)</title></circle></a><a href="/setts/s13/t2dg16k1t2k1ly4k1ly4k1t2k1r16w2~x4/"><circle cx="125.8" cy="76.9" r="4" fill="#3465a4"><title>Buchanan (Logan)</title></circle></a><a href="/setts/s16/w37k4db12g12w2lr2r23k4r6~x2/"><circle cx="105.7" cy="80.9" r="4" fill="#3465a4"><title>Hebridean Arisaid Red (Dance)</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3g22r31t3r4k2~x2/"><circle cx="146.9" cy="97.0" r="4" fill="#3465a4"><title>MacLean of Duart 1</title></circle></a><a href="/setts/s14/r2o3dr9o2dr5o4w1o1w1o1w12k2w2o2~x2/"><circle cx="99.7" cy="97.3" r="4" fill="#3465a4"><title>Harrods</title></circle></a><a href="/setts/s14/o3w20r1db1r1db3r4db2r4db2r4db1y8ly1~x4/"><circle cx="146.8" cy="61.7" r="4" fill="#3465a4"><title>Cairn (Fashion)</title></circle></a><circle cx="114.6" cy="75.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/ly6w4k3t14w3r34k34w4t3ly8w3g4k2~x2/

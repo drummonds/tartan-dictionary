@@ -18,10 +18,10 @@ BRBRBWGWGRGYG
 
 
 
-### DB R DB R DB W Y W DG R DG LO DG <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="seq">DB R DB R DB W Y W DG R DG LO DG</span></span>
+### DG LO DG R DG W Y W DB R DB R DB <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DG LO DG R DG W Y W DB R DB R DB</span></span>
 
 | Tartans |
 |---------------|
-| [Bowie (white lines) (Name)](/setts/s13/db8r2db3r4db13w2y13w2dg13r4dg4lo2dg8~x2/)|
-|![Bowie (white lines) (Name) example sett](/setts/s13/db8r2db3r4db13w2y13w2dg13r4dg4lo2dg8~x2/sett.png)|
+| [Bowie (white lines) (Name)](/setts/s13/dg8lo2dg4r4dg13w2y13w2db13r4db3r2db8~x2/)|
+|![Bowie (white lines) (Name) example sett](/setts/s13/dg8lo2dg4r4dg13w2y13w2db13r4db3r2db8~x2/sett.png)|
 

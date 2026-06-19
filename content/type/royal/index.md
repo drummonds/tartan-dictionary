@@ -4,7 +4,7 @@ date: 2023-03-18
 ---
 Tartans of the royal household.
 
-44 tartans of this type.
+41 tartans of this type.
 
 - [Balmoral (Ghillies white variation)](/setts/s13/w2r1w8o2k2w1o1w1o4w2k1w1r1~x4/)
 - [Balmoral (Green) (Royal)](/setts/s13/lb5g3lb24n7k6lb3n3lb3n11lb6k3lb3g3~x2/)
@@ -15,10 +15,8 @@ Tartans of the royal household.
 - [Duke of Windsor (Royal)](/setts/s4/g75r2g4r40~x2/)
 - [Duke of York Hunting](/setts/s8/g99db20w8db30ly8db10ly8g46/)
 - [Earl of Inverness (Royal)](/setts/s8/r100db10w5db14ly4db8ly4r24/)
-- [King Edward VII](/setts/s32/r6g5ly3g10r3g6r3g62b21k10b10k10b10k10b21g84ly8g84b21k10b10k10b10k10b21g62r3g6r3g10ly3g5/)
-- [King Edward VII](/setts/s17/ly8g84db21k10db10k10db10k10db21g62r3g6r3g10ly3g5r6~x2/)
-- [King George VI (Green Stewart)](/setts/s22/g42b3k8ly2k2w3k2g12r5k2r2w2r2k2r5g12k2w3k2ly2k8b3~x2/)
-- [King George VI (Royal)](/setts/s12/g42b3k8ly2k2w3k2g12r5k2r2w2~x2/)
+- [King Edward VII](/setts/s32/ly8g84b21k10b10k10b10k10b21g62r3g6r3g10ly3g5r6/)
+- [King George VI (Green Stewart)](/setts/s22/g42b3k8ly2k2w3k2g12r5k2r2w2~x2/)
 - [Lorne (Royal?)](/setts/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x4/)
 - [Lorne, Louise of](/setts/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/)
 - [Lorne, Marquis of](/setts/s15/g2k1t8k1t1k1t1k8g1k1g1k1g8k1t2~x4/)
@@ -38,12 +36,11 @@ Tartans of the royal household.
 - [Rothesay, Duke of](/setts/s17/w4r22g3r3g3r3g13r4g13r3g3r3g3r23w2r2w4~x2/)
 - [Rothesay, Duke of #2](/setts/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/)
 - [Stewart (King George VI)](/setts/s14/r2g11g2b2k3lo1k1lr1k1g4r2k1r2lr1~x4/)
-- [Stewart - Pr Ch Ed (Royal)](/setts/s12/r14lg4dt6ly1dt2w2dt2lg12r6dt2r2w1~x4/)
 - [Stewart Victoria](/setts/s26/lb24b3lb3k6lo1k1lb1k1g8r4k1r2lb1r2k1r4g8k1lb1k1lo1k6lb3b3lb24r2~x4/)
 - [Stewart Victoria (Royal)](/setts/s14/r2w24b3w3k6lo1k1w1k1g8r4k1r2w1~x4/)
 - [Stewart/Stuart, Royal #2](/setts/s12/r18db2k3ly1k1w1k1g4r2k1r1w1~x8/)
 - [Strathearn (Royal)](/setts/s11/g1r1ly8r6g1ly1g1r6g6r1ly1~x4/)
-- [Stuart/Stewart - Prince Charles Edward](/setts/s22/r14lg4dt6ly1dt2w2dt2lg12r6dt2r2w1r2dt2r6lg12dt2w2dt2ly1dt6lg4~x4/)
+- [Stuart/Stewart - Prince Charles Edward](/setts/s22/r14lg4dt6ly1dt2w2dt2lg12r6dt2r2w1~x4/)
 - [Stuart/Stewart Victoria](/setts/s14/r2w24t3w3k6ly1k1w1k1dg8r4k1r2w1~x2/)
 - [Victoria (Patons)](/setts/s13/r6k2r12dg10k3w2k3ly2k8w4db6w12r4/)
 - [Victoria (Wilsons)](/setts/s13/r4w16t5k5ly2k2w2k2g5r5k2r2w2~x2/)

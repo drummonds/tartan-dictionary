@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -914,7 +917,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Maryland](/setts/s8/dt8t1db1t1m12ly6k12w2~x4/) — ΔT 1.10
 1. [Campbell, hunting](/setts/s10/db4k1w2k3ly1y12o1k12o12r4~x2/) — ΔT 1.21
 1. [Black Hills](/setts/s9/db3w2g14r14k2db7k9ly2k2~x2/) — ΔT 1.29
-1. [Walter (Personal)](/setts/s12/r24w3ly4dg18dp18y3t4y3dp18dg18ly4w3~x2/) — ΔT 1.34
+1. [Walter (Personal)](/setts/s12/r24w3ly4dg18dp18y3t4~x2/) — ΔT 1.34
 1. [Walter](/setts/s7/r24w3ly4dg18p18dy3t4~x2/) — ΔT 1.37
 1. [Craigmoor](/setts/s9/k2r8db2k2r2k6o2g6ly1~x2/) — ΔT 1.37
 1. [Culloden 1746 - Original](/setts/s8/r5lb1dt10w2k10y10k1ly3~x4/) — ΔT 1.39
@@ -922,8 +925,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r5t2dp14w2k13lo13k2ly3~x2/"><circle cx="43.5" cy="144.3" r="4" fill="#3465a4"><title>Culloden</title></circle></a><a href="/setts/s8/k14ly3g18r15w2r3w2p14~x2/"><circle cx="48.5" cy="154.0" r="4" fill="#3465a4"><title>Wilson's, No 83</title></circle></a><a href="/setts/s8/dt8t1db1t1m12ly6k12w2~x4/"><circle cx="68.6" cy="125.2" r="4" fill="#3465a4"><title>Maryland</title></circle></a><a href="/setts/s10/db4k1w2k3ly1y12o1k12o12r4~x2/"><circle cx="76.8" cy="115.7" r="4" fill="#3465a4"><title>Campbell, hunting</title></circle></a><a href="/setts/s9/db3w2g14r14k2db7k9ly2k2~x2/"><circle cx="59.5" cy="162.6" r="4" fill="#3465a4"><title>Black Hills</title></circle></a><a href="/setts/s12/r24w3ly4dg18dp18y3t4y3dp18dg18ly4w3~x2/"><circle cx="67.3" cy="128.1" r="4" fill="#3465a4"><title>Walter (Personal)</title></circle></a><a href="/setts/s7/r24w3ly4dg18p18dy3t4~x2/"><circle cx="95.4" cy="150.9" r="4" fill="#3465a4"><title>Walter</title></circle></a><a href="/setts/s9/k2r8db2k2r2k6o2g6ly1~x2/"><circle cx="79.5" cy="165.4" r="4" fill="#3465a4"><title>Craigmoor</title></circle></a><a href="/setts/s8/r5lb1dt10w2k10y10k1ly3~x4/"><circle cx="44.2" cy="147.5" r="4" fill="#3465a4"><title>Culloden 1746 - Original</title></circle></a><a href="/setts/s12/r4o14w2o4w2k6o3k6db14r2db4r4~x2/"><circle cx="45.4" cy="153.6" r="4" fill="#3465a4"><title>Kinloch Anderson, dress</title></circle></a><circle cx="35.4" cy="144.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r5t2dp14w2k13lo13k2ly3~x2/"><circle cx="43.5" cy="144.5" r="4" fill="#3465a4"><title>Culloden</title></circle></a><a href="/setts/s8/k14ly3g18r15w2r3w2p14~x2/"><circle cx="48.5" cy="154.1" r="4" fill="#3465a4"><title>Wilson's, No 83</title></circle></a><a href="/setts/s8/dt8t1db1t1m12ly6k12w2~x4/"><circle cx="68.6" cy="125.4" r="4" fill="#3465a4"><title>Maryland</title></circle></a><a href="/setts/s10/db4k1w2k3ly1y12o1k12o12r4~x2/"><circle cx="76.9" cy="115.9" r="4" fill="#3465a4"><title>Campbell, hunting</title></circle></a><a href="/setts/s9/db3w2g14r14k2db7k9ly2k2~x2/"><circle cx="59.6" cy="162.7" r="4" fill="#3465a4"><title>Black Hills</title></circle></a><a href="/setts/s12/r24w3ly4dg18dp18y3t4~x2/"><circle cx="67.3" cy="128.3" r="4" fill="#3465a4"><title>Walter (Personal)</title></circle></a><a href="/setts/s7/r24w3ly4dg18p18dy3t4~x2/"><circle cx="95.3" cy="151.1" r="4" fill="#3465a4"><title>Walter</title></circle></a><a href="/setts/s9/k2r8db2k2r2k6o2g6ly1~x2/"><circle cx="79.6" cy="165.5" r="4" fill="#3465a4"><title>Craigmoor</title></circle></a><a href="/setts/s8/r5lb1dt10w2k10y10k1ly3~x4/"><circle cx="44.4" cy="147.7" r="4" fill="#3465a4"><title>Culloden 1746 - Original</title></circle></a><a href="/setts/s12/r4o14w2o4w2k6o3k6db14r2db4r4~x2/"><circle cx="45.5" cy="153.8" r="4" fill="#3465a4"><title>Kinloch Anderson, dress</title></circle></a><circle cx="35.5" cy="144.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r5t2dp14w2k13y13k2ly3~x2/

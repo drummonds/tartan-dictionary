@@ -21,14 +21,14 @@ BKGWK
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB K DG W K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K DG W K</span></span>
+### K W DG K DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K W DG K DB</span></span>
 
 | Tartans |
 |---------------|
 | [Wilson's Folio 131](/setts/s5/db12k17dg19w2k5~x2/)|
 |![Wilson's Folio 131 example sett](/setts/s5/db12k17dg19w2k5~x2/sett.png)|
 
-### DB K G W K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K G W K</span></span>
+### K W G K DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K W G K DB</span></span>
 
 | Tartans |
 |---------------|

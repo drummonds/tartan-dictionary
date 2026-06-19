@@ -22,6 +22,6 @@ RWRWBWBWBYBWBWBWRW
 
 | Tartans |
 |---------------|
-| [International Police Association](/setts/s18/r2lb1r1lb10dt1lb1dt12lb1dt2ly2dt2lb1dt12lb1dt1lb10r1lb1~x4/)|
-|![International Police Association example sett](/setts/s18/r2lb1r1lb10dt1lb1dt12lb1dt2ly2dt2lb1dt12lb1dt1lb10r1lb1~x4/sett.png)|
+| [International Police Association](/setts/s18/r2lb1r1lb10dt1lb1dt12lb1dt2ly2~x4/)|
+|![International Police Association example sett](/setts/s18/r2lb1r1lb10dt1lb1dt12lb1dt2ly2~x4/sett.png)|
 

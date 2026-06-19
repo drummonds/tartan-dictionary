@@ -8,7 +8,7 @@ RBKBKBKY
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/lo2k1n9k8n28k2n2r2~x2/tartan.png)
+![Woven sample](/setts/s8/r2n2k2n28k8n9k1lo2~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RBKBKBKY
 
 | Tartans |
 |---------------|
-| [Highland Autumn (Fashion)](/setts/s8/lo2k1n9k8n28k2n2r2~x2/)|
-|![Highland Autumn (Fashion) example sett](/setts/s8/lo2k1n9k8n28k2n2r2~x2/sett.png)|
+| [Highland Autumn (Fashion)](/setts/s8/r2n2k2n28k8n9k1lo2~x2/)|
+|![Highland Autumn (Fashion) example sett](/setts/s8/r2n2k2n28k8n9k1lo2~x2/sett.png)|
 

@@ -18,10 +18,10 @@ GGKGKGKGKGK
 
 
 
-### DG DG K DG K DG K DG K DG K <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="seq">DG DG K DG K DG K DG K DG K</span></span>
+### K DG K DG K DG K DG K DG DG <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="seq">K DG K DG K DG K DG K DG DG</span></span>
 
 | Tartans |
 |---------------|
-| [Phillips (Welsh Name)](/setts/s11/dg2dg35k30dg3k30dg2k4dg2k30dg20k2/)|
-|![Phillips (Welsh Name) example sett](/setts/s11/dg2dg35k30dg3k30dg2k4dg2k30dg20k2/sett.png)|
+| [Phillips (Welsh Name)](/setts/s11/k2dg20k30dg2k4dg2k30dg3k30dg35dg2/)|
+|![Phillips (Welsh Name) example sett](/setts/s11/k2dg20k30dg2k4dg2k30dg3k30dg35dg2/sett.png)|
 

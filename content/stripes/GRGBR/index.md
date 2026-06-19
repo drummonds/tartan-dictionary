@@ -20,7 +20,7 @@ GRGBR
 
 
 
-### G O G DR O <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="seq">G O G DR O</span></span>
+### O DR G O G <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O DR G O G</span></span>
 
 | Tartans |
 |---------------|

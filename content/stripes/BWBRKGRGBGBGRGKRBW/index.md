@@ -22,6 +22,6 @@ BWBRKGRGBGBGRGKRBW
 
 | Tartans |
 |---------------|
-| [Scotland the Brave](/setts/s18/db6w1db40m1k12dg12m6dg2dp2dg4dp2dg2m6dg12k12m1db40w1~x2/)|
-|![Scotland the Brave example sett](/setts/s18/db6w1db40m1k12dg12m6dg2dp2dg4dp2dg2m6dg12k12m1db40w1~x2/sett.png)|
+| [Scotland the Brave](/setts/s18/db6w1db40m1k12dg12m6dg2dp2dg4~x2/)|
+|![Scotland the Brave example sett](/setts/s18/db6w1db40m1k12dg12m6dg2dp2dg4~x2/sett.png)|
 

@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/
 Original link http://www.tartansauthority.com/tartan-ferret/display/6428/
 
 ## Thread count
-LN/8 R58 B24 Ba30 R/16
+R/16 Ba30 B24 R58 LN/8
 ![Sett](sett.png)
 
 ## Palette
@@ -25,7 +25,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/8 R58 B24 Ba30 R/16 tartan")
+![Tartan detail](tartan.png "R/16 Ba30 B24 R58 LN/8 tartan")
 
 ## Nearest tartans
 
@@ -39,13 +39,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Nebar (Corporate)](/setts/s4/o24r11k6db4~x4/) — ΔT 1.41
 1. [Bronte House Check](/setts/s6/m10dy60dt13lo24dt24dy8/) — ΔT 1.45
 1. [Drumfintley (Fashion)](/setts/s5/m30k7o20ly4k4~x2/) — ΔT 1.45
-1. [Sidney (Nova Scotia) Canadian Tartan Tartan Number: 1291. Earliest known date: 1986 The Falkirk Tartan. An ornamental twill weave check of natural light and dark wool was discovered at Falkirk in the neck of a jar containing Roman coins. The find is thought to have been buried about 260 A.D. The black and white check is woven today as the Shepherd tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/o16k4w2k4o6r11o2r16~x2/) — ΔT 1.48
+1. [Sidney (Nova Scotia) Canadian Tartan Tartan Number: 1291. Earliest known date: 1986 The Falkirk Tartan. An ornamental twill weave check of natural light and dark wool was discovered at Falkirk in the neck of a jar containing Roman coins. The find is thought to have been buried about 260 A.D. The black and white check is woven today as the Shepherd tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r16o2r11o6k4w2k4o16~x2/) — ΔT 1.48
 1. [Ryan/Fehder (Personal)](/setts/s6/w4r7lo5b13r18g3~x2/) — ΔT 1.48
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r29b12lg15r8lg15b12r29w4~x2/"><circle cx="250.5" cy="227.8" r="4" fill="#3465a4"><title>Snowbird</title></circle></a><a href="/setts/s4/y25k4w8r16~x4/"><circle cx="209.5" cy="243.3" r="4" fill="#3465a4"><title>Buckeye</title></circle></a><a href="/setts/s4/o25k4w8r16~x4/"><circle cx="205.5" cy="241.1" r="4" fill="#3465a4"><title>Buckeye</title></circle></a><a href="/setts/s4/t15w2r20w3~x4/"><circle cx="301.2" cy="230.5" r="4" fill="#3465a4"><title>Masai Shuka 24 (Artefact)</title></circle></a><a href="/setts/s6/b6o6w1o6b6ly1~x8/"><circle cx="232.8" cy="247.4" r="4" fill="#3465a4"><title>Unidentified Lindley</title></circle></a><a href="/setts/s4/o24r11k6db4~x4/"><circle cx="268.6" cy="258.5" r="4" fill="#3465a4"><title>Nebar (Corporate)</title></circle></a><a href="/setts/s6/m10dy60dt13lo24dt24dy8/"><circle cx="248.9" cy="222.5" r="4" fill="#3465a4"><title>Bronte House Check</title></circle></a><a href="/setts/s5/m30k7o20ly4k4~x2/"><circle cx="234.3" cy="219.5" r="4" fill="#3465a4"><title>Drumfintley (Fashion)</title></circle></a><a href="/setts/s8/o16k4w2k4o6r11o2r16~x2/"><circle cx="236.7" cy="202.5" r="4" fill="#3465a4"><title>Sidney (Nova Scotia) Canadian Tartan Tartan Number: 1291. Earliest known date: 1986 The Falkirk Tartan. An ornamental twill weave check of natural light and dark wool was discovered at Falkirk in the neck of a jar containing Roman coins. The find is thought to have been buried about 260 A.D. The black and white check is woven today as the Shepherd tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/w4r7lo5b13r18g3~x2/"><circle cx="197.2" cy="215.0" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><circle cx="268.8" cy="235.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r29b12lg15r8lg15b12r29w4~x2/"><circle cx="250.2" cy="227.7" r="4" fill="#3465a4"><title>Snowbird</title></circle></a><a href="/setts/s4/y25k4w8r16~x4/"><circle cx="209.3" cy="243.2" r="4" fill="#3465a4"><title>Buckeye</title></circle></a><a href="/setts/s4/o25k4w8r16~x4/"><circle cx="205.3" cy="240.9" r="4" fill="#3465a4"><title>Buckeye</title></circle></a><a href="/setts/s4/t15w2r20w3~x4/"><circle cx="300.9" cy="230.3" r="4" fill="#3465a4"><title>Masai Shuka 24 (Artefact)</title></circle></a><a href="/setts/s6/b6o6w1o6b6ly1~x8/"><circle cx="232.6" cy="247.2" r="4" fill="#3465a4"><title>Unidentified Lindley</title></circle></a><a href="/setts/s4/o24r11k6db4~x4/"><circle cx="268.6" cy="258.4" r="4" fill="#3465a4"><title>Nebar (Corporate)</title></circle></a><a href="/setts/s6/m10dy60dt13lo24dt24dy8/"><circle cx="248.8" cy="222.4" r="4" fill="#3465a4"><title>Bronte House Check</title></circle></a><a href="/setts/s5/m30k7o20ly4k4~x2/"><circle cx="234.1" cy="219.4" r="4" fill="#3465a4"><title>Drumfintley (Fashion)</title></circle></a><a href="/setts/s8/r16o2r11o6k4w2k4o16~x2/"><circle cx="236.5" cy="202.4" r="4" fill="#3465a4"><title>Sidney (Nova Scotia) Canadian Tartan Tartan Number: 1291. Earliest known date: 1986 The Falkirk Tartan. An ornamental twill weave check of natural light and dark wool was discovered at Falkirk in the neck of a jar containing Roman coins. The find is thought to have been buried about 260 A.D. The black and white check is woven today as the Shepherd tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/w4r7lo5b13r18g3~x2/"><circle cx="197.1" cy="214.9" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><circle cx="268.6" cy="235.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/r8lg15b12r29w4~x2/

@@ -8,7 +8,7 @@ KRWRBRWR
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/k1r1w1r1db8r1w1r1~x8/tartan.png)
+![Woven sample](/setts/s8/db8r1w1r1k1~x8/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ KRWRBRWR
 
 | Tartans |
 |---------------|
-| [Laing of Archiestown](/setts/s8/k1r1w1r1db8r1w1r1~x8/)|
-|![Laing of Archiestown example sett](/setts/s8/k1r1w1r1db8r1w1r1~x8/sett.png)|
+| [Laing of Archiestown](/setts/s8/db8r1w1r1k1~x8/)|
+|![Laing of Archiestown example sett](/setts/s8/db8r1w1r1k1~x8/sett.png)|
 

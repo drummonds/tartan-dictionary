@@ -2,7 +2,7 @@
 title: "Young"
 date: 2023-03-18
 ---
-**Bands:** [BGRBBGBK](/stripes/bgrbbgbk/) · **Stripes:** [DP Y O DP DB G DB K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">DP Y O DP DB G DB K</span></span>
+**Bands:** [KBGBBRGB](/stripes/kbgbbrgb/) · **Stripes:** [K DB G DB DP O Y DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K DB G DB DP O Y DP</span></span>
 
 
 This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,14 +919,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Scotland's International - Home (Fas](/setts/s10/dt24k24k2w6k2ly2k16lb5r6w2~x2/) — ΔT 1.00
 1. [Bullman (Name)](/setts/s10/g2ly1g13y2g1k12db10r1db1w2~x2/) — ΔT 1.06
 1. [Carnegie of Skibo Corporate Tartan Tartan Number: 8314. Earliest known date: December 2001 Only available from Robert Mathieson, The Kilt Centre, 1 Campbell Lane, Hamilton. ML3 6DB. Scotland. Tel: +44 (0)1698 200 234. e-mail: kiltcentre@btconnect.com Lochcarron swatch. A corporate tartan for use in kilt hire. The name was chosen to imbue the tartan with some relevant provenance - Andrew Carnegie's retirement residence. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/w3db5lt2db9dp10k2dp5k5dg9g31w2~x2/) — ΔT 1.12
-1. [Loch Awe](/setts/s9/ly3k2r3db20k24g20r3k2t3~x2/) — ΔT 1.13
+1. [Loch Awe](/setts/s9/t3k2r3g20k24db20r3k2ly3~x2/) — ΔT 1.13
 1. [Harvey of Cornwall (Personal)](/setts/s7/w10k52db52dg24ly10dg5r5/) — ΔT 1.13
-1. [Loch Awe](/setts/s9/lb3k2r3g20k24db20r3k2ly3~x2/) — ΔT 1.14
+1. [Loch Awe](/setts/s9/ly3k2r3db20k24g20r3k2lb3~x2/) — ΔT 1.14
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k3db3g15db15m5lo3ly2m1~x2/"><circle cx="118.5" cy="131.9" r="4" fill="#3465a4"><title>Young Family Tartan Tartan Number: 2048. Earliest known date: 1991 Based on the Christina Young blanket dating from 1726 and preserved at the Scottish Tartans Society museum in Keith, Banffshire. The design retains the unusual purple - yellow - orange box check of the original blanket and changes only the ground colour to the greens and blues of the Douglas tartan. There are 7 colours. Black is normally replaced by dark blue in commercial weaving. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/k40n15o10ly3t5w5db10t20/"><circle cx="108.4" cy="135.6" r="4" fill="#3465a4"><title>Julien Pigeut Tartan Tartan Number: 6574. Earliest known date: 2004 For the wedding of Julien and Sylvia Piguet. Also worn by Roland Mathez best man of Julien. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/dg32lb3p3lb3dg2k20db17r3ly4~x2/"><circle cx="135.2" cy="107.7" r="4" fill="#3465a4"><title>Colorado (District)</title></circle></a><a href="/setts/s8/r4ly3g12k16dy5db20k4w2~x2/"><circle cx="81.7" cy="156.5" r="4" fill="#3465a4"><title>Iowa (District)</title></circle></a><a href="/setts/s10/dt24k24k2w6k2ly2k16lb5r6w2~x2/"><circle cx="65.2" cy="116.7" r="4" fill="#3465a4"><title>Scotland's International - Home (Fas</title></circle></a><a href="/setts/s10/g2ly1g13y2g1k12db10r1db1w2~x2/"><circle cx="137.6" cy="122.3" r="4" fill="#3465a4"><title>Bullman (Name)</title></circle></a><a href="/setts/s11/w3db5lt2db9dp10k2dp5k5dg9g31w2~x2/"><circle cx="134.2" cy="108.5" r="4" fill="#3465a4"><title>Carnegie of Skibo Corporate Tartan Tartan Number: 8314. Earliest known date: December 2001 Only available from Robert Mathieson, The Kilt Centre, 1 Campbell Lane, Hamilton. ML3 6DB. Scotland. Tel: +44 (0)1698 200 234. e-mail: kiltcentre@btconnect.com Lochcarron swatch. A corporate tartan for use in kilt hire. The name was chosen to imbue the tartan with some relevant provenance - Andrew Carnegie's retirement residence. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/ly3k2r3db20k24g20r3k2t3~x2/"><circle cx="120.3" cy="134.3" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/setts/s7/w10k52db52dg24ly10dg5r5/"><circle cx="123.4" cy="167.3" r="4" fill="#3465a4"><title>Harvey of Cornwall (Personal)</title></circle></a><a href="/setts/s9/lb3k2r3g20k24db20r3k2ly3~x2/"><circle cx="145.1" cy="144.2" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><circle cx="102.3" cy="127.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k3db3g15db15m5lo3ly2m1~x2/"><circle cx="118.6" cy="132.1" r="4" fill="#3465a4"><title>Young Family Tartan Tartan Number: 2048. Earliest known date: 1991 Based on the Christina Young blanket dating from 1726 and preserved at the Scottish Tartans Society museum in Keith, Banffshire. The design retains the unusual purple - yellow - orange box check of the original blanket and changes only the ground colour to the greens and blues of the Douglas tartan. There are 7 colours. Black is normally replaced by dark blue in commercial weaving. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/k40n15o10ly3t5w5db10t20/"><circle cx="108.5" cy="135.7" r="4" fill="#3465a4"><title>Julien Pigeut Tartan Tartan Number: 6574. Earliest known date: 2004 For the wedding of Julien and Sylvia Piguet. Also worn by Roland Mathez best man of Julien. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/dg32lb3p3lb3dg2k20db17r3ly4~x2/"><circle cx="135.3" cy="107.8" r="4" fill="#3465a4"><title>Colorado (District)</title></circle></a><a href="/setts/s8/r4ly3g12k16dy5db20k4w2~x2/"><circle cx="81.9" cy="156.7" r="4" fill="#3465a4"><title>Iowa (District)</title></circle></a><a href="/setts/s10/dt24k24k2w6k2ly2k16lb5r6w2~x2/"><circle cx="65.3" cy="116.9" r="4" fill="#3465a4"><title>Scotland's International - Home (Fas</title></circle></a><a href="/setts/s10/g2ly1g13y2g1k12db10r1db1w2~x2/"><circle cx="137.7" cy="122.4" r="4" fill="#3465a4"><title>Bullman (Name)</title></circle></a><a href="/setts/s11/w3db5lt2db9dp10k2dp5k5dg9g31w2~x2/"><circle cx="134.2" cy="108.7" r="4" fill="#3465a4"><title>Carnegie of Skibo Corporate Tartan Tartan Number: 8314. Earliest known date: December 2001 Only available from Robert Mathieson, The Kilt Centre, 1 Campbell Lane, Hamilton. ML3 6DB. Scotland. Tel: +44 (0)1698 200 234. e-mail: kiltcentre@btconnect.com Lochcarron swatch. A corporate tartan for use in kilt hire. The name was chosen to imbue the tartan with some relevant provenance - Andrew Carnegie's retirement residence. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/t3k2r3g20k24db20r3k2ly3~x2/"><circle cx="120.5" cy="134.4" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/setts/s7/w10k52db52dg24ly10dg5r5/"><circle cx="123.6" cy="167.4" r="4" fill="#3465a4"><title>Harvey of Cornwall (Personal)</title></circle></a><a href="/setts/s9/ly3k2r3db20k24g20r3k2lb3~x2/"><circle cx="145.2" cy="144.4" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><circle cx="102.5" cy="127.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k3db3g15db15dp5o3y2dp1~x2/

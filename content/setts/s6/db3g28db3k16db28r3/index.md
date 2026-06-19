@@ -2,7 +2,7 @@
 title: "Flower of Scotland"
 date: 2023-03-18
 ---
-**Bands:** [BGBKBR](/stripes/bgbkbr/) · **Stripes:** [DB G DB K DB R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB G DB K DB R</span></span>
+**Bands:** [RBKBGB](/stripes/rbkbgb/) · **Stripes:** [R DB K DB G DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB K DB G DB</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/3 G28 B3 K16 B28 R/3
+R/3 B28 K16 B3 G28 B/3
 ![Sett](sett.png)
 
 ## Palette
@@ -900,7 +903,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/3 G28 B3 K16 B28 R/3 tartan")
+![Tartan detail](tartan.png "R/3 B28 K16 B3 G28 B/3 tartan")
 
 ## Nearest tartans
 
@@ -915,12 +918,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Graham of Menteith](/setts/s6/g18t2g4k14db12k3~x2/) — ΔT 0.92
 1. [Douglas](/setts/s5/k2lb2dg8db8lb1/) — ΔT 0.93
 1. [MacArthur of Milton, hunting](/setts/s6/g14db2g2k8p9k2~x2/) — ΔT 0.97
-1. [Unidentified #28](/setts/s6/dg2b4k6t1dg9k2~x2/) — ΔT 0.97
+1. [Unidentified #28](/setts/s6/k2dg9t1k6b4dg2~x2/) — ΔT 0.97
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db3r1db10k8g10r1g3~x4/"><circle cx="167.2" cy="213.5" r="4" fill="#3465a4"><title>Blair</title></circle></a><a href="/setts/s7/r1g8k8r1k8t8r1~x4/"><circle cx="194.9" cy="225.5" r="4" fill="#3465a4"><title>Triad Highland Games Proposed</title></circle></a><a href="/setts/s8/db10k1db1k1db2k8g10w1~x2/"><circle cx="184.5" cy="189.6" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s6/r2g12k12g1db12g1~x2/"><circle cx="173.0" cy="206.1" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/setts/s6/k3b4g20k20g3lo3~x4/"><circle cx="234.0" cy="227.3" r="4" fill="#3465a4"><title>Michaluk (Personal)</title></circle></a><a href="/setts/s6/t1db11k11g11k2t1~x2/"><circle cx="167.4" cy="212.4" r="4" fill="#3465a4"><title>Unnamed, No 59</title></circle></a><a href="/setts/s6/g18t2g4k14db12k3~x2/"><circle cx="177.6" cy="228.1" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/setts/s5/k2lb2dg8db8lb1/"><circle cx="167.9" cy="233.4" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/setts/s6/g14db2g2k8p9k2~x2/"><circle cx="177.7" cy="224.7" r="4" fill="#3465a4"><title>MacArthur of Milton, hunting</title></circle></a><a href="/setts/s6/dg2b4k6t1dg9k2~x2/"><circle cx="229.1" cy="242.7" r="4" fill="#3465a4"><title>Unidentified #28</title></circle></a><circle cx="207.0" cy="216.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db3r1db10k8g10r1g3~x4/"><circle cx="167.4" cy="213.5" r="4" fill="#3465a4"><title>Blair</title></circle></a><a href="/setts/s7/r1g8k8r1k8t8r1~x4/"><circle cx="195.0" cy="225.4" r="4" fill="#3465a4"><title>Triad Highland Games Proposed</title></circle></a><a href="/setts/s8/db10k1db1k1db2k8g10w1~x2/"><circle cx="184.7" cy="189.5" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s6/r2g12k12g1db12g1~x2/"><circle cx="173.1" cy="206.0" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/setts/s6/k3b4g20k20g3lo3~x4/"><circle cx="234.0" cy="227.2" r="4" fill="#3465a4"><title>Michaluk (Personal)</title></circle></a><a href="/setts/s6/t1db11k11g11k2t1~x2/"><circle cx="167.6" cy="212.4" r="4" fill="#3465a4"><title>Unnamed, No 59</title></circle></a><a href="/setts/s6/g18t2g4k14db12k3~x2/"><circle cx="177.8" cy="228.0" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/setts/s5/k2lb2dg8db8lb1/"><circle cx="168.2" cy="233.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/setts/s6/g14db2g2k8p9k2~x2/"><circle cx="177.9" cy="224.5" r="4" fill="#3465a4"><title>MacArthur of Milton, hunting</title></circle></a><a href="/setts/s6/k2dg9t1k6b4dg2~x2/"><circle cx="229.3" cy="242.6" r="4" fill="#3465a4"><title>Unidentified #28</title></circle></a><circle cx="207.2" cy="216.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db3g28db3k16db28r3/

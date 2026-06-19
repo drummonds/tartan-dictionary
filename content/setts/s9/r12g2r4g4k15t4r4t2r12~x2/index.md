@@ -2,7 +2,7 @@
 title: "Alexander - 1985 (Name)"
 date: 2023-03-18
 ---
-**Bands:** [RBRBKGRGR](/stripes/rbrbkgrgr/) · **Stripes:** [R T R T K G R G R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R T R T K G R G R</span></span>
+**Bands:** [RGRGKBRBR](/stripes/rgrgkbrbr/) · **Stripes:** [R G R G K T R T R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G R G K T R T R</span></span>
 
 
 This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1405
 
 ## Thread count
-R/24 B4 R8 B8 K30 G8 R8 G4 R/24
+R/24 G4 R8 G8 K30 B8 R8 B4 R/24
 ![Sett](sett.png)
 
 ## Palette
@@ -50,13 +50,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Morrison](/setts/s9/g5w2g8r9k3r4k3r17g3~x2/) — ΔT 0.87
 1. [Cameron of Locheil #2](/setts/s9/r6g3r6db1w1db1r2db8r4~x4/) — ΔT 0.90
 1. [Cameron of Locheil #3](/setts/s9/r24db8r23k4w4k4r10k32r8/) — ΔT 0.92
-1. [Cameron of Locheil](/setts/s9/r6dg3r6db1lb1db1r2db8r4~x2/) — ΔT 0.96
+1. [Cameron of Locheil](/setts/s9/r6dg3r6db1lb1db1r2db8r4/) — ΔT 0.96
 1. [MacQuarrie Ancient](/setts/s12/r2db1r10k4r2dg8r2dg8r7k1r2db1~x2/) — ΔT 0.96
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg9lr4dg15r17k5r7k5r32dg5~x2/"><circle cx="298.7" cy="201.2" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/setts/s9/dg9lr4dg15r17k5r7k5r32dg5/"><circle cx="298.7" cy="201.2" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/setts/s9/dg9lb4dg15r17k5r7k5r32dg5/"><circle cx="281.7" cy="188.9" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/setts/s12/k10r12dg3r12k2r12dg3r12dg20r2k8t2/"><circle cx="248.5" cy="182.4" r="4" fill="#3465a4"><title>Nicolson MacNicol</title></circle></a><a href="/setts/s9/r12db2r4db4k15g4r4g2r12~x2/"><circle cx="243.2" cy="195.1" r="4" fill="#3465a4"><title>Alexander</title></circle></a><a href="/setts/s9/g5w2g8r9k3r4k3r17g3~x2/"><circle cx="286.4" cy="195.1" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/setts/s9/r6g3r6db1w1db1r2db8r4~x4/"><circle cx="268.5" cy="195.7" r="4" fill="#3465a4"><title>Cameron of Locheil #2</title></circle></a><a href="/setts/s9/r24db8r23k4w4k4r10k32r8/"><circle cx="281.2" cy="186.2" r="4" fill="#3465a4"><title>Cameron of Locheil #3</title></circle></a><a href="/setts/s9/r6dg3r6db1lb1db1r2db8r4~x2/"><circle cx="274.4" cy="198.9" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s12/r2db1r10k4r2dg8r2dg8r7k1r2db1~x2/"><circle cx="276.3" cy="175.4" r="4" fill="#3465a4"><title>MacQuarrie Ancient</title></circle></a><circle cx="259.3" cy="200.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg9lr4dg15r17k5r7k5r32dg5~x2/"><circle cx="298.5" cy="201.1" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/setts/s9/dg9lr4dg15r17k5r7k5r32dg5/"><circle cx="298.5" cy="201.1" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/setts/s9/dg9lb4dg15r17k5r7k5r32dg5/"><circle cx="281.5" cy="188.7" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/setts/s12/k10r12dg3r12k2r12dg3r12dg20r2k8t2/"><circle cx="248.2" cy="182.3" r="4" fill="#3465a4"><title>Nicolson MacNicol</title></circle></a><a href="/setts/s9/r12db2r4db4k15g4r4g2r12~x2/"><circle cx="243.1" cy="195.0" r="4" fill="#3465a4"><title>Alexander</title></circle></a><a href="/setts/s9/g5w2g8r9k3r4k3r17g3~x2/"><circle cx="286.1" cy="194.9" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/setts/s9/r6g3r6db1w1db1r2db8r4~x4/"><circle cx="268.3" cy="195.5" r="4" fill="#3465a4"><title>Cameron of Locheil #2</title></circle></a><a href="/setts/s9/r24db8r23k4w4k4r10k32r8/"><circle cx="281.0" cy="186.0" r="4" fill="#3465a4"><title>Cameron of Locheil #3</title></circle></a><a href="/setts/s9/r6dg3r6db1lb1db1r2db8r4/"><circle cx="274.2" cy="198.7" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s12/r2db1r10k4r2dg8r2dg8r7k1r2db1~x2/"><circle cx="276.1" cy="175.4" r="4" fill="#3465a4"><title>MacQuarrie Ancient</title></circle></a><circle cx="259.1" cy="200.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r12g2r4g4k15t4r4t2r12~x2/

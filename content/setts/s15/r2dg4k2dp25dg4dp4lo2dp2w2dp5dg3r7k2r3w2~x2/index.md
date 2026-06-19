@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10743
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Hueg Scottish Blue Thistle
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -45,18 +51,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Sydney Academy](/setts/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/) — ΔT 0.61
 1. [Hueg (Bavaria) Scottish Thistle (Personal)](/setts/s16/r2dp2k3dg25k2dp3dg4lo2dg2w2dg6dp2r7k2r3w2~x2/) — ΔT 0.97
 1. [Recycled Lamb, The](/setts/s14/g15r1g8m3dp1m3w1m3dp1m3dp12r1g7ly1~x2/) — ΔT 0.97
-1. [Hueg Scottish Blue Thistle (Personal](/setts/s15/lb2r3k2r7g3dp5lb2dp2lo2dp4g4dp25k2g4r2~x2/) — ΔT 1.09
+1. [Hueg Scottish Blue Thistle (Personal](/setts/s15/r2g4k2dp25g4dp4lo2dp2lb2dp5g3r7k2r3lb2~x2/) — ΔT 1.09
 1. [Bro-Naoned](/setts/s10/g5dt2k2dt29r2dt2r15ly2dt4w2~x2/) — ΔT 1.20
 1. [Blais](/setts/s11/db20ly1o1db3k1y2k1r10k1y2r4~x2/) — ΔT 1.25
 1. [Falkirk](/setts/s12/db8o27ly2r3ly2o27db22k2db4k2db4k4~x2/) — ΔT 1.26
 1. [Robbie (Commemorative)](/setts/s13/w1lo2r15db2r2db15r2g15r2db2r15lo2w1~x2/) — ΔT 1.28
+1. [Heirloom Red Alba](/setts/s16/r4ly2r34db10y4db4t4db23w3~x2/) — ΔT 1.29
 1. [Oneness](/setts/s16/db12k3ly2k3r12db12k2lo28k2ly2k2o2k2lo28k2db12~x2/) — ΔT 1.29
-1. [Heirloom Red Alba](/setts/s16/r4ly2r34db10y4db4t4db23w3db23t4db4y4db10r34ly2~x2/) — ΔT 1.29
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/"><circle cx="229.8" cy="123.3" r="4" fill="#3465a4"><title>Sydney Academy</title></circle></a><a href="/setts/s16/r2dp2k3dg25k2dp3dg4lo2dg2w2dg6dp2r7k2r3w2~x2/"><circle cx="261.3" cy="105.3" r="4" fill="#3465a4"><title>Hueg (Bavaria) Scottish Thistle (Personal)</title></circle></a><a href="/setts/s14/g15r1g8m3dp1m3w1m3dp1m3dp12r1g7ly1~x2/"><circle cx="248.5" cy="120.7" r="4" fill="#3465a4"><title>Recycled Lamb, The</title></circle></a><a href="/setts/s15/lb2r3k2r7g3dp5lb2dp2lo2dp4g4dp25k2g4r2~x2/"><circle cx="247.8" cy="99.4" r="4" fill="#3465a4"><title>Hueg Scottish Blue Thistle (Personal</title></circle></a><a href="/setts/s10/g5dt2k2dt29r2dt2r15ly2dt4w2~x2/"><circle cx="319.4" cy="120.6" r="4" fill="#3465a4"><title>Bro-Naoned</title></circle></a><a href="/setts/s11/db20ly1o1db3k1y2k1r10k1y2r4~x2/"><circle cx="283.6" cy="95.1" r="4" fill="#3465a4"><title>Blais</title></circle></a><a href="/setts/s12/db8o27ly2r3ly2o27db22k2db4k2db4k4~x2/"><circle cx="292.2" cy="146.9" r="4" fill="#3465a4"><title>Falkirk</title></circle></a><a href="/setts/s13/w1lo2r15db2r2db15r2g15r2db2r15lo2w1~x2/"><circle cx="259.6" cy="133.1" r="4" fill="#3465a4"><title>Robbie (Commemorative)</title></circle></a><a href="/setts/s16/db12k3ly2k3r12db12k2lo28k2ly2k2o2k2lo28k2db12~x2/"><circle cx="195.0" cy="98.3" r="4" fill="#3465a4"><title>Oneness</title></circle></a><a href="/setts/s16/r4ly2r34db10y4db4t4db23w3db23t4db4y4db10r34ly2~x2/"><circle cx="250.0" cy="106.6" r="4" fill="#3465a4"><title>Heirloom Red Alba</title></circle></a><circle cx="262.0" cy="112.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/"><circle cx="229.6" cy="123.4" r="4" fill="#3465a4"><title>Sydney Academy</title></circle></a><a href="/setts/s16/r2dp2k3dg25k2dp3dg4lo2dg2w2dg6dp2r7k2r3w2~x2/"><circle cx="261.1" cy="105.4" r="4" fill="#3465a4"><title>Hueg (Bavaria) Scottish Thistle (Personal)</title></circle></a><a href="/setts/s14/g15r1g8m3dp1m3w1m3dp1m3dp12r1g7ly1~x2/"><circle cx="248.3" cy="120.8" r="4" fill="#3465a4"><title>Recycled Lamb, The</title></circle></a><a href="/setts/s15/r2g4k2dp25g4dp4lo2dp2lb2dp5g3r7k2r3lb2~x2/"><circle cx="247.7" cy="99.5" r="4" fill="#3465a4"><title>Hueg Scottish Blue Thistle (Personal</title></circle></a><a href="/setts/s10/g5dt2k2dt29r2dt2r15ly2dt4w2~x2/"><circle cx="319.1" cy="120.6" r="4" fill="#3465a4"><title>Bro-Naoned</title></circle></a><a href="/setts/s11/db20ly1o1db3k1y2k1r10k1y2r4~x2/"><circle cx="283.4" cy="95.2" r="4" fill="#3465a4"><title>Blais</title></circle></a><a href="/setts/s12/db8o27ly2r3ly2o27db22k2db4k2db4k4~x2/"><circle cx="292.0" cy="146.9" r="4" fill="#3465a4"><title>Falkirk</title></circle></a><a href="/setts/s13/w1lo2r15db2r2db15r2g15r2db2r15lo2w1~x2/"><circle cx="259.4" cy="133.1" r="4" fill="#3465a4"><title>Robbie (Commemorative)</title></circle></a><a href="/setts/s16/r4ly2r34db10y4db4t4db23w3~x2/"><circle cx="249.8" cy="106.8" r="4" fill="#3465a4"><title>Heirloom Red Alba</title></circle></a><a href="/setts/s16/db12k3ly2k3r12db12k2lo28k2ly2k2o2k2lo28k2db12~x2/"><circle cx="194.8" cy="98.4" r="4" fill="#3465a4"><title>Oneness</title></circle></a><circle cx="261.8" cy="112.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/r2dg4k2dp25dg4dp4lo2dp2w2dp5dg3r7k2r3w2~x2/

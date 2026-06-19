@@ -18,7 +18,7 @@ BYYBRRYRY
 
 
 
-### DB LR LY DB O O LY O LY <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB LR LY DB O O LY O LY</span></span>
+### LY O LY O O DB LY LR DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="seq">LY O LY O O DB LY LR DB</span></span>
 
 | Tartans |
 |---------------|

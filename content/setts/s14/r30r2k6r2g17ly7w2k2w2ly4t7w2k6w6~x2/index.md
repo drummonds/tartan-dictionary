@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Dundee #2
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -319,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -893,7 +902,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/12 K12 LN4 B14 Y8 LN4 K4 LN4 Y14 G34 R4 K12 R4 Ra/60
+Ra/60 R4 K12 R4 G34 Y14 LN4 K4 LN4 Y8 B14 LN4 K12 LN/12
 ![Sett](sett.png)
 
 ## Palette
@@ -916,7 +925,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Dundee #2](/setts/s14/r30r2k6r2dg17ly7w2k2w2ly4t7w2k6w6~x2/) — ΔT 0.45
 1. [Cree](/setts/s13/ly30dy20db2k6ly3k2w3k2g6r6k3r3w3~x2/) — ΔT 1.00
 1. [Gibbs, Gibson](/setts/s13/k2r16w1db2w1ly3w2ly3w1db2w1g16t2~x2/) — ΔT 1.00
-1. [Cree (Fashion)](/setts/s13/ly3dy20db2k6ly3k2w3k2g6r6k3r3w3~x2/) — ΔT 1.03
+1. [Cree (Fashion)](/setts/s13/w3r3k3r6g6k2w3k2ly3k6db2dy20ly3~x2/) — ΔT 1.03
 1. [Buchanan Dress (Fashion)](/setts/s13/r3w34k2o4k2lo7k2lo7k2o4k2do34t3~x2/) — ΔT 1.10
 1. [Buchanan (Logan)](/setts/s13/t2dg16k1t2k1ly4k1ly4k1t2k1r16w2~x4/) — ΔT 1.13
 1. [Buchanan #4](/setts/s13/t4dg25k2t4k2ly8k3ly8k2t4k2r25w4~x2/) — ΔT 1.15
@@ -926,8 +935,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r30r2k6r2dg17ly7w2k2w2ly4t7w2k6w6~x2/"><circle cx="83.5" cy="62.5" r="4" fill="#3465a4"><title>Dundee #2</title></circle></a><a href="/setts/s13/ly30dy20db2k6ly3k2w3k2g6r6k3r3w3~x2/"><circle cx="111.9" cy="61.1" r="4" fill="#3465a4"><title>Cree</title></circle></a><a href="/setts/s13/k2r16w1db2w1ly3w2ly3w1db2w1g16t2~x2/"><circle cx="108.2" cy="59.6" r="4" fill="#3465a4"><title>Gibbs, Gibson</title></circle></a><a href="/setts/s13/ly3dy20db2k6ly3k2w3k2g6r6k3r3w3~x2/"><circle cx="66.7" cy="98.0" r="4" fill="#3465a4"><title>Cree (Fashion)</title></circle></a><a href="/setts/s13/r3w34k2o4k2lo7k2lo7k2o4k2do34t3~x2/"><circle cx="110.6" cy="47.1" r="4" fill="#3465a4"><title>Buchanan Dress (Fashion)</title></circle></a><a href="/setts/s13/t2dg16k1t2k1ly4k1ly4k1t2k1r16w2~x4/"><circle cx="126.0" cy="76.8" r="4" fill="#3465a4"><title>Buchanan (Logan)</title></circle></a><a href="/setts/s13/t4dg25k2t4k2ly8k3ly8k2t4k2r25w4~x2/"><circle cx="87.4" cy="95.3" r="4" fill="#3465a4"><title>Buchanan #4</title></circle></a><a href="/setts/s10/r24g22k2w6k2ly2k15y6r6w2~x2/"><circle cx="65.2" cy="102.6" r="4" fill="#3465a4"><title>Bruce of Kinnaird</title></circle></a><a href="/setts/s13/t2dg12k1t2k1ly3k1ly3k1t2k1r12w2~x2/"><circle cx="94.9" cy="95.5" r="4" fill="#3465a4"><title>Buchanan #3</title></circle></a><a href="/setts/s11/o40ly10w6lo10dy6lo4dy6lo4dy60k34t11/"><circle cx="133.9" cy="90.7" r="4" fill="#3465a4"><title>Angels' Share, The</title></circle></a><circle cx="73.5" cy="60.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r30r2k6r2dg17ly7w2k2w2ly4t7w2k6w6~x2/"><circle cx="83.3" cy="62.7" r="4" fill="#3465a4"><title>Dundee #2</title></circle></a><a href="/setts/s13/ly30dy20db2k6ly3k2w3k2g6r6k3r3w3~x2/"><circle cx="111.6" cy="61.3" r="4" fill="#3465a4"><title>Cree</title></circle></a><a href="/setts/s13/k2r16w1db2w1ly3w2ly3w1db2w1g16t2~x2/"><circle cx="108.0" cy="59.8" r="4" fill="#3465a4"><title>Gibbs, Gibson</title></circle></a><a href="/setts/s13/w3r3k3r6g6k2w3k2ly3k6db2dy20ly3~x2/"><circle cx="66.6" cy="98.2" r="4" fill="#3465a4"><title>Cree (Fashion)</title></circle></a><a href="/setts/s13/r3w34k2o4k2lo7k2lo7k2o4k2do34t3~x2/"><circle cx="110.3" cy="47.3" r="4" fill="#3465a4"><title>Buchanan Dress (Fashion)</title></circle></a><a href="/setts/s13/t2dg16k1t2k1ly4k1ly4k1t2k1r16w2~x4/"><circle cx="125.8" cy="76.9" r="4" fill="#3465a4"><title>Buchanan (Logan)</title></circle></a><a href="/setts/s13/t4dg25k2t4k2ly8k3ly8k2t4k2r25w4~x2/"><circle cx="87.2" cy="95.4" r="4" fill="#3465a4"><title>Buchanan #4</title></circle></a><a href="/setts/s10/r24g22k2w6k2ly2k15y6r6w2~x2/"><circle cx="65.1" cy="102.8" r="4" fill="#3465a4"><title>Bruce of Kinnaird</title></circle></a><a href="/setts/s13/t2dg12k1t2k1ly3k1ly3k1t2k1r12w2~x2/"><circle cx="94.7" cy="95.6" r="4" fill="#3465a4"><title>Buchanan #3</title></circle></a><a href="/setts/s11/o40ly10w6lo10dy6lo4dy6lo4dy60k34t11/"><circle cx="133.7" cy="90.9" r="4" fill="#3465a4"><title>Angels' Share, The</title></circle></a><circle cx="73.3" cy="60.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/r30r2k6r2g17ly7w2k2w2ly4t7w2k6w6~x2/

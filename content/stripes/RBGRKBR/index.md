@@ -20,7 +20,7 @@ RBGRKBR
 
 
 
-### R DO G R K T R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DO G R K T R</span></span>
+### R T K R G DO R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="seq">R T K R G DO R</span></span>
 
 | Tartans |
 |---------------|

@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Stuart/Stewart of Bute hunting
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -902,21 +911,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Partick Thistle Football Club](/setts/s7/k53ly4k7ly2k4r30w3~x2/) — ΔT 0.93
+1. [Partick Thistle Football Club](/setts/s7/k53ly4k7ly2k4r30w3~x2/) — ΔT 0.94
 1. [King Robert the Bruce Memorial (Com](/setts/s10/r8k79o4k4lb4k6o22k6r16k6/) — ΔT 1.14
 1. [Stuart of Bute](/setts/s9/r12dg6k1dg2k1dg1k6r24lr2~x2/) — ΔT 1.19
 1. [Valdres, Kvam & Vang #3](/setts/s10/k4w1r4k2g2r3g2k20r2k2~x2/) — ΔT 1.19
 1. [South Carolina, University of](/setts/s10/r4w4r3k8w3r3k20r40w2r4/) — ΔT 1.23
 1. [Flowers of the Forest, The](/setts/s10/b8t4do5r1do5r1do5r1do16b1~x4/) — ΔT 1.25
-1. [MacDonell of Keppoch](/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/) — ΔT 1.26
+1. [MacDonell of Keppoch](/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1/) — ΔT 1.26
 1. [Bertea, A H (Personal)](/setts/s9/w2k3r10k5r3k5r15k35w1~x2/) — ΔT 1.29
 1. [King Robert the Bruce Memorial, The](/setts/s10/r8k79n4k4w4k6n22k6r16k6/) — ΔT 1.30
 1. [Mens Bigi](/setts/s8/lo4k17r1k4r2k4r33w3~x2/) — ΔT 1.32
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k53ly4k7ly2k4r30w3~x2/"><circle cx="390.8" cy="133.9" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><a href="/setts/s10/r8k79o4k4lb4k6o22k6r16k6/"><circle cx="400.4" cy="130.0" r="4" fill="#3465a4"><title>King Robert the Bruce Memorial (Com</title></circle></a><a href="/setts/s9/r12dg6k1dg2k1dg1k6r24lr2~x2/"><circle cx="414.4" cy="129.9" r="4" fill="#3465a4"><title>Stuart of Bute</title></circle></a><a href="/setts/s10/k4w1r4k2g2r3g2k20r2k2~x2/"><circle cx="415.4" cy="142.2" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #3</title></circle></a><a href="/setts/s10/r4w4r3k8w3r3k20r40w2r4/"><circle cx="384.2" cy="138.8" r="4" fill="#3465a4"><title>South Carolina, University of</title></circle></a><a href="/setts/s10/b8t4do5r1do5r1do5r1do16b1~x4/"><circle cx="378.6" cy="167.6" r="4" fill="#3465a4"><title>Flowers of the Forest, The</title></circle></a><a href="/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/"><circle cx="375.0" cy="119.9" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s9/w2k3r10k5r3k5r15k35w1~x2/"><circle cx="414.1" cy="131.2" r="4" fill="#3465a4"><title>Bertea, A H (Personal)</title></circle></a><a href="/setts/s10/r8k79n4k4w4k6n22k6r16k6/"><circle cx="411.7" cy="137.2" r="4" fill="#3465a4"><title>King Robert the Bruce Memorial, The</title></circle></a><a href="/setts/s8/lo4k17r1k4r2k4r33w3~x2/"><circle cx="365.1" cy="122.7" r="4" fill="#3465a4"><title>Mens Bigi</title></circle></a><circle cx="402.5" cy="132.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k53ly4k7ly2k4r30w3~x2/"><circle cx="390.6" cy="133.7" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><a href="/setts/s10/r8k79o4k4lb4k6o22k6r16k6/"><circle cx="400.2" cy="129.8" r="4" fill="#3465a4"><title>King Robert the Bruce Memorial (Com</title></circle></a><a href="/setts/s9/r12dg6k1dg2k1dg1k6r24lr2~x2/"><circle cx="414.1" cy="129.7" r="4" fill="#3465a4"><title>Stuart of Bute</title></circle></a><a href="/setts/s10/k4w1r4k2g2r3g2k20r2k2~x2/"><circle cx="415.2" cy="142.0" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #3</title></circle></a><a href="/setts/s10/r4w4r3k8w3r3k20r40w2r4/"><circle cx="383.9" cy="138.6" r="4" fill="#3465a4"><title>South Carolina, University of</title></circle></a><a href="/setts/s10/b8t4do5r1do5r1do5r1do16b1~x4/"><circle cx="378.4" cy="167.4" r="4" fill="#3465a4"><title>Flowers of the Forest, The</title></circle></a><a href="/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1/"><circle cx="374.6" cy="119.7" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s9/w2k3r10k5r3k5r15k35w1~x2/"><circle cx="413.8" cy="130.9" r="4" fill="#3465a4"><title>Bertea, A H (Personal)</title></circle></a><a href="/setts/s10/r8k79n4k4w4k6n22k6r16k6/"><circle cx="411.5" cy="137.0" r="4" fill="#3465a4"><title>King Robert the Bruce Memorial, The</title></circle></a><a href="/setts/s8/lo4k17r1k4r2k4r33w3~x2/"><circle cx="364.9" cy="122.5" r="4" fill="#3465a4"><title>Mens Bigi</title></circle></a><circle cx="402.3" cy="132.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/m12g6k1g2k1g1k6m24w2~x2/

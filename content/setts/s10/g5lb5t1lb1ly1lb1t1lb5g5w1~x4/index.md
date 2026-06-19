@@ -9,6 +9,12 @@ This was sourced from house-of-tartan.  It is a [10 band tartan](/bands/bands10/
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3839
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacGiboney Dress
+
 ## Variants
 
 Other setts woven to the same stripe pattern.
@@ -38,20 +44,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [MacGiboney Dress](/setts/s10/g5lb5t1lb1ly1lb1t1lb5g5w1~x8/) — ΔT 0.00
-1. [MacGibboney (Name)](/setts/s6/ly1lb1t1lb5g5w1~x8/) — ΔT 1.17
-1. [Cotswolds Distillery](/setts/s9/dy4ly15lr17ly4n3ly3n3ly12k4~x2/) — ΔT 1.23
+1. [MacGibboney (Name)](/setts/s6/w1g5lb5t1lb1ly1~x8/) — ΔT 1.17
+1. [Cotswolds Distillery](/setts/s9/k4ly12n3ly3n3ly4lr17ly15dy4~x2/) — ΔT 1.23
 1. [Fraser hunting, dress](/setts/s11/db4o24g17o3w18o3w18o3g17o24r4~x2/) — ΔT 1.27
-1. [Hunter of Hunterston](/setts/s11/g5db2g12db12r2db12w2g12r2g4ly3~x2/) — ΔT 1.48
 1. [Poulter SG 096 (Fashion)](/setts/s13/w25g8w8g8w8g46t46w8t46g46w46g8w8/) — ΔT 1.48
+1. [Hunter of Hunterston](/setts/s11/g5db2g12db12r2db12w2g12r2g4ly3~x2/) — ΔT 1.48
 1. [Gaelic College of St.Anns](/setts/s9/g8r1g4dy2w4t3w1t3w4~x8/) — ΔT 1.53
 1. [Supporter.com](/setts/s7/t60g9r7ly12g33ly33t26/) — ΔT 1.53
 1. [Kremlin Zoria](/setts/s11/w5g2w5db5r2db5g11ly2g11db5r2~x4/) — ΔT 1.57
-1. [Vasseur Mignon (Personal)](/setts/s11/ly2lb11g5n11g11lb5g5ly2r2ly2r2~x2/) — ΔT 1.57
+1. [Vasseur Mignon (Personal)](/setts/s11/r2ly2r2ly2g5lb5g11n11g5lb11ly2~x2/) — ΔT 1.57
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g5lb5t1lb1ly1lb1t1lb5g5w1~x8/"><circle cx="183.5" cy="199.9" r="4" fill="#3465a4"><title>MacGiboney Dress</title></circle></a><a href="/setts/s6/ly1lb1t1lb5g5w1~x8/"><circle cx="171.4" cy="213.5" r="4" fill="#3465a4"><title>MacGibboney (Name)</title></circle></a><a href="/setts/s9/dy4ly15lr17ly4n3ly3n3ly12k4~x2/"><circle cx="202.9" cy="190.8" r="4" fill="#3465a4"><title>Cotswolds Distillery</title></circle></a><a href="/setts/s11/db4o24g17o3w18o3w18o3g17o24r4~x2/"><circle cx="162.1" cy="181.0" r="4" fill="#3465a4"><title>Fraser hunting, dress</title></circle></a><a href="/setts/s11/g5db2g12db12r2db12w2g12r2g4ly3~x2/"><circle cx="208.8" cy="206.3" r="4" fill="#3465a4"><title>Hunter of Hunterston</title></circle></a><a href="/setts/s13/w25g8w8g8w8g46t46w8t46g46w46g8w8/"><circle cx="167.9" cy="204.1" r="4" fill="#3465a4"><title>Poulter SG 096 (Fashion)</title></circle></a><a href="/setts/s9/g8r1g4dy2w4t3w1t3w4~x8/"><circle cx="115.5" cy="188.0" r="4" fill="#3465a4"><title>Gaelic College of St.Anns</title></circle></a><a href="/setts/s7/t60g9r7ly12g33ly33t26/"><circle cx="208.9" cy="216.7" r="4" fill="#3465a4"><title>Supporter.com</title></circle></a><a href="/setts/s11/w5g2w5db5r2db5g11ly2g11db5r2~x4/"><circle cx="128.3" cy="198.8" r="4" fill="#3465a4"><title>Kremlin Zoria</title></circle></a><a href="/setts/s11/ly2lb11g5n11g11lb5g5ly2r2ly2r2~x2/"><circle cx="115.2" cy="195.7" r="4" fill="#3465a4"><title>Vasseur Mignon (Personal)</title></circle></a><circle cx="183.5" cy="199.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g5lb5t1lb1ly1lb1t1lb5g5w1~x8/"><circle cx="183.2" cy="199.8" r="4" fill="#3465a4"><title>MacGiboney Dress</title></circle></a><a href="/setts/s6/w1g5lb5t1lb1ly1~x8/"><circle cx="171.1" cy="213.4" r="4" fill="#3465a4"><title>MacGibboney (Name)</title></circle></a><a href="/setts/s9/k4ly12n3ly3n3ly4lr17ly15dy4~x2/"><circle cx="202.6" cy="190.7" r="4" fill="#3465a4"><title>Cotswolds Distillery</title></circle></a><a href="/setts/s11/db4o24g17o3w18o3w18o3g17o24r4~x2/"><circle cx="161.9" cy="181.0" r="4" fill="#3465a4"><title>Fraser hunting, dress</title></circle></a><a href="/setts/s13/w25g8w8g8w8g46t46w8t46g46w46g8w8/"><circle cx="167.6" cy="204.1" r="4" fill="#3465a4"><title>Poulter SG 096 (Fashion)</title></circle></a><a href="/setts/s11/g5db2g12db12r2db12w2g12r2g4ly3~x2/"><circle cx="208.8" cy="206.2" r="4" fill="#3465a4"><title>Hunter of Hunterston</title></circle></a><a href="/setts/s9/g8r1g4dy2w4t3w1t3w4~x8/"><circle cx="115.3" cy="187.9" r="4" fill="#3465a4"><title>Gaelic College of St.Anns</title></circle></a><a href="/setts/s7/t60g9r7ly12g33ly33t26/"><circle cx="208.7" cy="216.5" r="4" fill="#3465a4"><title>Supporter.com</title></circle></a><a href="/setts/s11/w5g2w5db5r2db5g11ly2g11db5r2~x4/"><circle cx="128.3" cy="198.7" r="4" fill="#3465a4"><title>Kremlin Zoria</title></circle></a><a href="/setts/s11/r2ly2r2ly2g5lb5g11n11g5lb11ly2~x2/"><circle cx="115.1" cy="195.8" r="4" fill="#3465a4"><title>Vasseur Mignon (Personal)</title></circle></a><circle cx="183.2" cy="199.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/g5lb5t1lb1ly1lb1t1lb5g5w1~x4/

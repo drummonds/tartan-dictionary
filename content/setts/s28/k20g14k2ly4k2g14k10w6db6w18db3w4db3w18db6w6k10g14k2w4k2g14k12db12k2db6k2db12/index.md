@@ -2,12 +2,18 @@
 title: "Campbell of Loch Neil, dress"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKGKWKGKWBWBWBWBWKGKYKGK](/stripes/bkbkbkgkwkgkwbwbwbwbwkgkykgk/) · **Stripes:** [DB K DB K DB K G K W K G K W DB W DB W DB W DB W K G K LY K G K](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K DB K DB K G K W K G K W DB W DB W DB W DB W K G K LY K G K</span></span>
+**Bands:** [KGKYKGKWBWBWBWBWKGKWKGKBKBKB](/stripes/kgkykgkwbwbwbwbwkgkwkgkbkbkb/) · **Stripes:** [K G K LY K G K W DB W DB W DB W DB W K G K W K G K DB K DB K DB](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K G K LY K G K W DB W DB W DB W DB W K G K W K G K DB K DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [28 band tartan](/bands/bands28/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Campbell of Loch Neil, dress
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/12 K2 B6 K2 B12 K12 G14 K2 LN4 K2 G14 K10 LN6 B6 LN18 B3 LN4 B3 LN18 B6 LN6 K10 G14 K2 Y4 K2 G14 K/20
+K/20 G14 K2 Y4 K2 G14 K10 LN6 B6 LN18 B3 LN4 B3 LN18 B6 LN6 K10 G14 K2 LN4 K2 G14 K12 B12 K2 B6 K2 B/12
 ![Sett](sett.png)
 
 ## Palette
@@ -904,20 +913,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Campbell of Loch Neil Dress](/setts/s28/k20dg14k2ly4k2dg14k10w6db6w18db3w4db3w18db6w6k10dg14k2w4k2dg14k12db12k2db6k2db12/) — ΔT 0.57
-1. [Campbell](/setts/s26/db11k3db11k11g15k2w3k2g15k11w5k5w19k2w5k2w19k5w5k11g15k2ly3k2g15k11~x2/) — ΔT 0.60
-1. [Campbell #2](/setts/s26/db11k3db11k11dg15k2w3k2dg15k11w5k5w19k2w5k2w19k5w5k11dg15k2ly3k2dg15k11~x2/) — ΔT 0.60
+1. [Campbell](/setts/s26/k11g15k2ly3k2g15k11w5k5w19k2w5k2w19k5w5k11g15k2w3k2g15k11db11k3db11~x2/) — ΔT 0.60
+1. [Campbell #2](/setts/s26/k11dg15k2ly3k2dg15k11w5k5w19k2w5k2w19k5w5k11dg15k2w3k2dg15k11db11k3db11~x2/) — ΔT 0.60
 1. [Campbell dress](/setts/s23/k12g12ly3g12k9w5db6w19db2w6db2w19db6w5k9g12w3k12db10k2db2k2db10~x2/) — ΔT 0.65
 1. [Campbell of Loch Neil Dress Clan Tartan Tartan Number: 1963. Earliest known date: pre 2003 Sample 1984 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s26/db12k2db6k2db12k12g14k2w4k2g14k10w6db6w18db3w4db3w18db6w6k10g14k2ly4k2/) — ΔT 0.76
 1. [Gordon dress](/setts/s23/w2db1w12db2w2k8db8k2db2k2db8k8g8k1ly2k1g8k8w2db2w12db1w2~x2/) — ΔT 0.82
-1. [Campbell Dress](/setts/s25/w4b2w16b4w3k8dg8ly2dg8k8b8k2b4k2b8k8dg8w2dg8k8w3b4w16b2w4~x2/) — ΔT 0.87
+1. [Campbell Dress](/setts/s25/w4b2w16b4w3k8dg8w2dg8k8b8k2b4k2b8k8dg8ly2dg8k8w3b4w16b2w4~x2/) — ΔT 0.87
 1. [Colquhoun, dress](/setts/s22/k15w3db3w18db2r2db2w19db3w3k15w2g13r2g14w2k15db10k2db2k2db10/) — ΔT 0.91
-1. [Campbell, dress](/setts/s24/w4k1w8k3w4k4g6w1g6k4db4k1db2k1db4k4g6ly1g6k4w4db3w8db1~x2/) — ΔT 0.93
+1. [Campbell, dress](/setts/s24/w4k1w8k3w4k4g6w1g6k4db4k1db2k1db4k4g6ly1g6k4w4db3w8db1/) — ΔT 0.93
 1. [MacDonell of Glengarry, dress](/setts/s22/db6r2db7r2db7r2k7g8r2g3r2g5w2g5r2g3r2g8k9w15k9r2~x2/) — ΔT 0.96
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s28/k20dg14k2ly4k2dg14k10w6db6w18db3w4db3w18db6w6k10dg14k2w4k2dg14k12db12k2db6k2db12/"><circle cx="50.3" cy="127.5" r="4" fill="#3465a4"><title>Campbell of Loch Neil Dress</title></circle></a><a href="/setts/s26/db11k3db11k11g15k2w3k2g15k11w5k5w19k2w5k2w19k5w5k11g15k2ly3k2g15k11~x2/"><circle cx="62.7" cy="127.6" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/setts/s26/db11k3db11k11dg15k2w3k2dg15k11w5k5w19k2w5k2w19k5w5k11dg15k2ly3k2dg15k11~x2/"><circle cx="74.0" cy="130.8" r="4" fill="#3465a4"><title>Campbell #2</title></circle></a><a href="/setts/s23/k12g12ly3g12k9w5db6w19db2w6db2w19db6w5k9g12w3k12db10k2db2k2db10~x2/"><circle cx="48.2" cy="133.8" r="4" fill="#3465a4"><title>Campbell dress</title></circle></a><a href="/setts/s26/db12k2db6k2db12k12g14k2w4k2g14k10w6db6w18db3w4db3w18db6w6k10g14k2ly4k2/"><circle cx="45.7" cy="129.5" r="4" fill="#3465a4"><title>Campbell of Loch Neil Dress Clan Tartan Tartan Number: 1963. Earliest known date: pre 2003 Sample 1984 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s23/w2db1w12db2w2k8db8k2db2k2db8k8g8k1ly2k1g8k8w2db2w12db1w2~x2/"><circle cx="71.9" cy="110.9" r="4" fill="#3465a4"><title>Gordon dress</title></circle></a><a href="/setts/s25/w4b2w16b4w3k8dg8ly2dg8k8b8k2b4k2b8k8dg8w2dg8k8w3b4w16b2w4~x2/"><circle cx="36.6" cy="134.3" r="4" fill="#3465a4"><title>Campbell Dress</title></circle></a><a href="/setts/s22/k15w3db3w18db2r2db2w19db3w3k15w2g13r2g14w2k15db10k2db2k2db10/"><circle cx="68.3" cy="117.5" r="4" fill="#3465a4"><title>Colquhoun, dress</title></circle></a><a href="/setts/s24/w4k1w8k3w4k4g6w1g6k4db4k1db2k1db4k4g6ly1g6k4w4db3w8db1~x2/"><circle cx="35.7" cy="147.8" r="4" fill="#3465a4"><title>Campbell, dress</title></circle></a><a href="/setts/s22/db6r2db7r2db7r2k7g8r2g3r2g5w2g5r2g3r2g8k9w15k9r2~x2/"><circle cx="32.8" cy="143.5" r="4" fill="#3465a4"><title>MacDonell of Glengarry, dress</title></circle></a><circle cx="38.4" cy="123.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s28/k20dg14k2ly4k2dg14k10w6db6w18db3w4db3w18db6w6k10dg14k2w4k2dg14k12db12k2db6k2db12/"><circle cx="50.3" cy="127.6" r="4" fill="#3465a4"><title>Campbell of Loch Neil Dress</title></circle></a><a href="/setts/s26/k11g15k2ly3k2g15k11w5k5w19k2w5k2w19k5w5k11g15k2w3k2g15k11db11k3db11~x2/"><circle cx="62.7" cy="127.7" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/setts/s26/k11dg15k2ly3k2dg15k11w5k5w19k2w5k2w19k5w5k11dg15k2w3k2dg15k11db11k3db11~x2/"><circle cx="74.0" cy="130.8" r="4" fill="#3465a4"><title>Campbell #2</title></circle></a><a href="/setts/s23/k12g12ly3g12k9w5db6w19db2w6db2w19db6w5k9g12w3k12db10k2db2k2db10~x2/"><circle cx="48.2" cy="133.8" r="4" fill="#3465a4"><title>Campbell dress</title></circle></a><a href="/setts/s26/db12k2db6k2db12k12g14k2w4k2g14k10w6db6w18db3w4db3w18db6w6k10g14k2ly4k2/"><circle cx="45.7" cy="129.5" r="4" fill="#3465a4"><title>Campbell of Loch Neil Dress Clan Tartan Tartan Number: 1963. Earliest known date: pre 2003 Sample 1984 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s23/w2db1w12db2w2k8db8k2db2k2db8k8g8k1ly2k1g8k8w2db2w12db1w2~x2/"><circle cx="71.8" cy="111.0" r="4" fill="#3465a4"><title>Gordon dress</title></circle></a><a href="/setts/s25/w4b2w16b4w3k8dg8w2dg8k8b8k2b4k2b8k8dg8ly2dg8k8w3b4w16b2w4~x2/"><circle cx="36.6" cy="134.3" r="4" fill="#3465a4"><title>Campbell Dress</title></circle></a><a href="/setts/s22/k15w3db3w18db2r2db2w19db3w3k15w2g13r2g14w2k15db10k2db2k2db10/"><circle cx="68.3" cy="117.5" r="4" fill="#3465a4"><title>Colquhoun, dress</title></circle></a><a href="/setts/s24/w4k1w8k3w4k4g6w1g6k4db4k1db2k1db4k4g6ly1g6k4w4db3w8db1/"><circle cx="35.7" cy="147.8" r="4" fill="#3465a4"><title>Campbell, dress</title></circle></a><a href="/setts/s22/db6r2db7r2db7r2k7g8r2g3r2g5w2g5r2g3r2g8k9w15k9r2~x2/"><circle cx="32.9" cy="143.6" r="4" fill="#3465a4"><title>MacDonell of Glengarry, dress</title></circle></a><circle cx="38.4" cy="123.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s28/k20g14k2ly4k2g14k10w6db6w18db3w4db3w18db6w6k10g14k2w4k2g14k12db12k2db6k2db12/

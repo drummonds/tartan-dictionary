@@ -34,6 +34,6 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Buchanan VS](/setts/s6/lb2r4lb2r4lb9k1/)|
-|![Buchanan VS example sett](/setts/s6/lb2r4lb2r4lb9k1/sett.png)|
+| [Buchanan VS](/setts/s6/lb2r4lb2r4lb9k1~x2/)|
+|![Buchanan VS example sett](/setts/s6/lb2r4lb2r4lb9k1~x2/sett.png)|
 

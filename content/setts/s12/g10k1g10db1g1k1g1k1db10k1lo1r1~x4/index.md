@@ -2,7 +2,7 @@
 title: "Old Dobbs County (District)"
 date: 2023-03-18
 ---
-**Bands:** [GKGBGKGKBKYR](/stripes/gkgbgkgkbkyr/) · **Stripes:** [G K G DB G K G K DB K LO R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="seq">G K G DB G K G K DB K LO R</span></span>
+**Bands:** [RYKBKGKGBGKG](/stripes/rykbkgkgbgkg/) · **Stripes:** [R LO K DB K G K G DB G K G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R LO K DB K G K G DB G K G</span></span>
 
 
 This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/7954/
 
 ## Thread count
-DR/4 DY4 K4 DB40 K4 G4 K4 G4 DB4 G40 K4 G/40
+G/40 K4 G40 DB4 G4 K4 G4 K4 DB40 K4 DY4 DR/4
 ![Sett](sett.png)
 
 ## Palette
@@ -30,10 +30,10 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Greenways Marketing Intl](/setts/s12/g3db3g3db24g3db3g3lo2g18r2g18lo2~x2/) — ΔT 1.08
 1. [William & Mary GALA (Corporate)](/setts/s11/k3db10dg25ly2dg2ly3dg2ly2dg25db10w3~x2/) — ΔT 1.20
-1. [Henderson/MacKendrick](/setts/s9/ly1k6g4k1g16db1g4db6w1~x4/) — ΔT 1.22
-1. [MacKendrick](/setts/s9/ly1k6g4k1g16db1g4db6w1~x2/) — ΔT 1.22
+1. [Henderson/MacKendrick](/setts/s9/w1db6g4db1g16k1g4k6ly1~x4/) — ΔT 1.22
+1. [MacKendrick](/setts/s9/w1db6g4db1g16k1g4k6ly1~x2/) — ΔT 1.22
 1. [Hydesville Tower](/setts/s12/db15ly2db2r2db6dg30db6r2db2ly2db15w2~x2/) — ΔT 1.23
-1. [Wardrope (Personal)](/setts/s9/lb3r4k7db3k11g4k4g32r3/) — ΔT 1.23
+1. [Wardrope (Personal)](/setts/s9/r3g32k4g4k11db3k7r4lb3/) — ΔT 1.23
 1. [Boyle, Cameron (Personal)](/setts/s13/g5db20g20db2g2db2g25r2g2r17k8g2w2~x2/) — ΔT 1.23
 1. [Lochcarron Hunting](/setts/s14/dg3db10n3db2n2db2dg3k5dg2k5dg22r2dg3r2~x2/) — ΔT 1.26
 1. [Carrick Hunting District Tartan Tartan Number: 721. Earliest known date: 1930 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g13dp1g1dp1g3db5k4ly2~x2/) — ΔT 1.26
@@ -41,8 +41,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/g3db3g3db24g3db3g3lo2g18r2g18lo2~x2/"><circle cx="335.6" cy="174.7" r="4" fill="#3465a4"><title>Greenways Marketing Intl</title></circle></a><a href="/setts/s11/k3db10dg25ly2dg2ly3dg2ly2dg25db10w3~x2/"><circle cx="323.9" cy="153.3" r="4" fill="#3465a4"><title>William &amp; Mary GALA (Corporate)</title></circle></a><a href="/setts/s9/ly1k6g4k1g16db1g4db6w1~x4/"><circle cx="327.2" cy="165.9" r="4" fill="#3465a4"><title>Henderson/MacKendrick</title></circle></a><a href="/setts/s9/ly1k6g4k1g16db1g4db6w1~x2/"><circle cx="327.2" cy="165.9" r="4" fill="#3465a4"><title>MacKendrick</title></circle></a><a href="/setts/s12/db15ly2db2r2db6dg30db6r2db2ly2db15w2~x2/"><circle cx="305.0" cy="141.2" r="4" fill="#3465a4"><title>Hydesville Tower</title></circle></a><a href="/setts/s9/lb3r4k7db3k11g4k4g32r3/"><circle cx="268.8" cy="168.0" r="4" fill="#3465a4"><title>Wardrope (Personal)</title></circle></a><a href="/setts/s13/g5db20g20db2g2db2g25r2g2r17k8g2w2~x2/"><circle cx="271.3" cy="160.6" r="4" fill="#3465a4"><title>Boyle, Cameron (Personal)</title></circle></a><a href="/setts/s14/dg3db10n3db2n2db2dg3k5dg2k5dg22r2dg3r2~x2/"><circle cx="250.9" cy="158.4" r="4" fill="#3465a4"><title>Lochcarron Hunting</title></circle></a><a href="/setts/s8/g13dp1g1dp1g3db5k4ly2~x2/"><circle cx="289.4" cy="173.2" r="4" fill="#3465a4"><title>Carrick Hunting District Tartan Tartan Number: 721. Earliest known date: 1930 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/dg8k8dg56o8dg8k20dg8o8dg8o16w3r6/"><circle cx="320.8" cy="150.4" r="4" fill="#3465a4"><title>Kelly of Sleat Hunting (Name)</title></circle></a><circle cx="304.0" cy="161.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/g3db3g3db24g3db3g3lo2g18r2g18lo2~x2/"><circle cx="335.5" cy="174.5" r="4" fill="#3465a4"><title>Greenways Marketing Intl</title></circle></a><a href="/setts/s11/k3db10dg25ly2dg2ly3dg2ly2dg25db10w3~x2/"><circle cx="323.8" cy="153.2" r="4" fill="#3465a4"><title>William &amp; Mary GALA (Corporate)</title></circle></a><a href="/setts/s9/w1db6g4db1g16k1g4k6ly1~x4/"><circle cx="327.1" cy="165.8" r="4" fill="#3465a4"><title>Henderson/MacKendrick</title></circle></a><a href="/setts/s9/w1db6g4db1g16k1g4k6ly1~x2/"><circle cx="327.1" cy="165.8" r="4" fill="#3465a4"><title>MacKendrick</title></circle></a><a href="/setts/s12/db15ly2db2r2db6dg30db6r2db2ly2db15w2~x2/"><circle cx="304.9" cy="141.1" r="4" fill="#3465a4"><title>Hydesville Tower</title></circle></a><a href="/setts/s9/r3g32k4g4k11db3k7r4lb3/"><circle cx="268.7" cy="167.9" r="4" fill="#3465a4"><title>Wardrope (Personal)</title></circle></a><a href="/setts/s13/g5db20g20db2g2db2g25r2g2r17k8g2w2~x2/"><circle cx="271.2" cy="160.6" r="4" fill="#3465a4"><title>Boyle, Cameron (Personal)</title></circle></a><a href="/setts/s14/dg3db10n3db2n2db2dg3k5dg2k5dg22r2dg3r2~x2/"><circle cx="250.9" cy="158.5" r="4" fill="#3465a4"><title>Lochcarron Hunting</title></circle></a><a href="/setts/s8/g13dp1g1dp1g3db5k4ly2~x2/"><circle cx="289.3" cy="173.1" r="4" fill="#3465a4"><title>Carrick Hunting District Tartan Tartan Number: 721. Earliest known date: 1930 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/dg8k8dg56o8dg8k20dg8o8dg8o16w3r6/"><circle cx="320.7" cy="150.4" r="4" fill="#3465a4"><title>Kelly of Sleat Hunting (Name)</title></circle></a><circle cx="303.9" cy="161.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/g10k1g10db1g1k1g1k1db10k1lo1r1~x4/

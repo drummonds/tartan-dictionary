@@ -33,20 +33,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Southern Illinois University (Corp.)](/setts/s9/k5r40k4w2k4r10w4r5w1~x2/) — ΔT 0.74
-1. [Salt Lake County](/setts/s7/k4m40k1m3k1w3k4~x2/) — ΔT 1.07
-1. [Lyon College (Corporate)](/setts/s6/r40b8r1w2r1b8~x4/) — ΔT 1.29
+1. [Salt Lake County](/setts/s7/k4m40k1m3k1w3k4~x2/) — ΔT 1.08
+1. [Lyon College (Corporate)](/setts/s6/r40b8r1w2~x4/) — ΔT 1.29
 1. [Miyuki, Check Red, 1002A](/setts/s10/r40w1r1k8r1w1r6w1r1k8~x2/) — ΔT 1.49
 1. [Salt Lake County (District)](/setts/s7/k4r40k1r3k1w3k4~x2/) — ΔT 1.59
-1. [Inverness, Augustus](/setts/s7/m18g1k5g1k1g1m9~x2/) — ΔT 1.60
+1. [Inverness, Augustus](/setts/s7/m18g1k5g1k1g1m9~x2/) — ΔT 1.61
 1. [Inverness - 2000 (Fashion)](/setts/s8/r64k8w3k8w3b4w3r18~x2/) — ΔT 1.64
 1. [Bertea, A H (Personal)](/setts/s9/w2k3r10k5r3k5r15k35w1~x2/) — ΔT 1.70
-1. [Masai Shuka 27 (Artefact)](/setts/s10/r30db8r2k1r2k1r2k1r2db8~x2/) — ΔT 1.71
+1. [Masai Shuka 27 (Artefact)](/setts/s10/r30db8r2k1r2k1~x2/) — ΔT 1.71
 1. [Calgary, University of (Estimated Threadcount)](/setts/s12/r8k1r1k5r1k1r8k1r1k30r1ly2~x2/) — ΔT 1.74
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k5r40k4w2k4r10w4r5w1~x2/"><circle cx="526.1" cy="119.5" r="4" fill="#3465a4"><title>Southern Illinois University (Corp.)</title></circle></a><a href="/setts/s7/k4m40k1m3k1w3k4~x2/"><circle cx="563.4" cy="120.4" r="4" fill="#3465a4"><title>Salt Lake County</title></circle></a><a href="/setts/s6/r40b8r1w2r1b8~x4/"><circle cx="529.6" cy="145.0" r="4" fill="#3465a4"><title>Lyon College (Corporate)</title></circle></a><a href="/setts/s10/r40w1r1k8r1w1r6w1r1k8~x2/"><circle cx="522.4" cy="90.5" r="4" fill="#3465a4"><title>Miyuki, Check Red, 1002A</title></circle></a><a href="/setts/s7/k4r40k1r3k1w3k4~x2/"><circle cx="595.4" cy="132.5" r="4" fill="#3465a4"><title>Salt Lake County (District)</title></circle></a><a href="/setts/s7/m18g1k5g1k1g1m9~x2/"><circle cx="508.8" cy="180.5" r="4" fill="#3465a4"><title>Inverness, Augustus</title></circle></a><a href="/setts/s8/r64k8w3k8w3b4w3r18~x2/"><circle cx="484.8" cy="126.6" r="4" fill="#3465a4"><title>Inverness - 2000 (Fashion)</title></circle></a><a href="/setts/s9/w2k3r10k5r3k5r15k35w1~x2/"><circle cx="414.1" cy="131.2" r="4" fill="#3465a4"><title>Bertea, A H (Personal)</title></circle></a><a href="/setts/s10/r30db8r2k1r2k1r2k1r2db8~x2/"><circle cx="496.4" cy="121.0" r="4" fill="#3465a4"><title>Masai Shuka 27 (Artefact)</title></circle></a><a href="/setts/s12/r8k1r1k5r1k1r8k1r1k30r1ly2~x2/"><circle cx="451.9" cy="112.4" r="4" fill="#3465a4"><title>Calgary, University of (Estimated Threadcount)</title></circle></a><circle cx="514.0" cy="120.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k5r40k4w2k4r10w4r5w1~x2/"><circle cx="525.6" cy="119.2" r="4" fill="#3465a4"><title>Southern Illinois University (Corp.)</title></circle></a><a href="/setts/s7/k4m40k1m3k1w3k4~x2/"><circle cx="563.0" cy="120.1" r="4" fill="#3465a4"><title>Salt Lake County</title></circle></a><a href="/setts/s6/r40b8r1w2~x4/"><circle cx="529.2" cy="144.7" r="4" fill="#3465a4"><title>Lyon College (Corporate)</title></circle></a><a href="/setts/s10/r40w1r1k8r1w1r6w1r1k8~x2/"><circle cx="521.8" cy="90.2" r="4" fill="#3465a4"><title>Miyuki, Check Red, 1002A</title></circle></a><a href="/setts/s7/k4r40k1r3k1w3k4~x2/"><circle cx="594.9" cy="132.2" r="4" fill="#3465a4"><title>Salt Lake County (District)</title></circle></a><a href="/setts/s7/m18g1k5g1k1g1m9~x2/"><circle cx="508.5" cy="180.1" r="4" fill="#3465a4"><title>Inverness, Augustus</title></circle></a><a href="/setts/s8/r64k8w3k8w3b4w3r18~x2/"><circle cx="484.4" cy="126.4" r="4" fill="#3465a4"><title>Inverness - 2000 (Fashion)</title></circle></a><a href="/setts/s9/w2k3r10k5r3k5r15k35w1~x2/"><circle cx="413.8" cy="130.9" r="4" fill="#3465a4"><title>Bertea, A H (Personal)</title></circle></a><a href="/setts/s10/r30db8r2k1r2k1~x2/"><circle cx="495.9" cy="120.8" r="4" fill="#3465a4"><title>Masai Shuka 27 (Artefact)</title></circle></a><a href="/setts/s12/r8k1r1k5r1k1r8k1r1k30r1ly2~x2/"><circle cx="451.6" cy="112.2" r="4" fill="#3465a4"><title>Calgary, University of (Estimated Threadcount)</title></circle></a><circle cx="513.6" cy="120.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/k5dr40k4w2k4dr10w4dr5w1~x2/

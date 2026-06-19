@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,12 +919,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Ogilvie Hunting Clan/Family Tartan Tartan Number: 6082. Earliest known date: pre 2000 Samples in STA Dalgety Collection labelled "Restricted, Hunting Ogilvie, Family Only". However, the major weavers have this in their swatch books so the restriction mentioned above seems to have been lifted at some stage. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/t30ly3t4k25y26k3y3r4~x2/) — ΔT 1.18
 1. [Royal College of Surgeons of Edinburgh, The](/setts/s9/t4n16k2n2k2n2k13o20w4~x2/) — ΔT 1.18
 1. [Caitriot](/setts/s9/w3t2n14lr8t14db16n13t2w3~x2/) — ΔT 1.18
-1. [MacNeil of Barra (Clan)](/setts/s6/ly3k2g12k12b14w3~x4/) — ΔT 1.18
+1. [MacNeil of Barra (Clan)](/setts/s6/w3b14k12g12k2ly3~x4/) — ΔT 1.18
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g12db3g3db3g3k15lg20b3~x2/"><circle cx="110.2" cy="197.3" r="4" fill="#3465a4"><title>Lemania</title></circle></a><a href="/setts/s8/db12r2db2r2db2g10w12o3~x2/"><circle cx="106.2" cy="185.5" r="4" fill="#3465a4"><title>Idaho, Centennial</title></circle></a><a href="/setts/s11/k2y10g4o5g2o3g2o5g4k15lb2~x2/"><circle cx="93.7" cy="176.4" r="4" fill="#3465a4"><title>Elwyn Glen (Scottish Borders)</title></circle></a><a href="/setts/s6/k3ly3db20g25lb18w3~x2/"><circle cx="99.1" cy="179.0" r="4" fill="#3465a4"><title>Porteous (Clan)</title></circle></a><a href="/setts/s6/g10k1db13k3w9ly3~x2/"><circle cx="106.8" cy="181.0" r="4" fill="#3465a4"><title>Inverary Clan Tartan Tartan Number: 772. Earliest known date: pre 2003 From a miniature of Elizabeth Innes at (sic) Edingight from Adam See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/g5ly2t20w2k20w20k2w5~x2/"><circle cx="120.8" cy="153.6" r="4" fill="#3465a4"><title>Alexander Brothers - 2007? (Corp.)</title></circle></a><a href="/setts/s8/t30ly3t4k25y26k3y3r4~x2/"><circle cx="159.1" cy="169.1" r="4" fill="#3465a4"><title>Ogilvie Hunting Clan/Family Tartan Tartan Number: 6082. Earliest known date: pre 2000 Samples in STA Dalgety Collection labelled &quot;Restricted, Hunting Ogilvie, Family Only&quot;. However, the major weavers have this in their swatch books so the restriction mentioned above seems to have been lifted at some stage. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/t4n16k2n2k2n2k13o20w4~x2/"><circle cx="133.9" cy="165.0" r="4" fill="#3465a4"><title>Royal College of Surgeons of Edinburgh, The</title></circle></a><a href="/setts/s9/w3t2n14lr8t14db16n13t2w3~x2/"><circle cx="114.0" cy="193.6" r="4" fill="#3465a4"><title>Caitriot</title></circle></a><a href="/setts/s6/ly3k2g12k12b14w3~x4/"><circle cx="86.3" cy="215.4" r="4" fill="#3465a4"><title>MacNeil of Barra (Clan)</title></circle></a><circle cx="95.4" cy="181.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g12db3g3db3g3k15lg20b3~x2/"><circle cx="110.4" cy="197.3" r="4" fill="#3465a4"><title>Lemania</title></circle></a><a href="/setts/s8/db12r2db2r2db2g10w12o3~x2/"><circle cx="106.2" cy="185.5" r="4" fill="#3465a4"><title>Idaho, Centennial</title></circle></a><a href="/setts/s11/k2y10g4o5g2o3g2o5g4k15lb2~x2/"><circle cx="93.8" cy="176.5" r="4" fill="#3465a4"><title>Elwyn Glen (Scottish Borders)</title></circle></a><a href="/setts/s6/k3ly3db20g25lb18w3~x2/"><circle cx="99.1" cy="179.0" r="4" fill="#3465a4"><title>Porteous (Clan)</title></circle></a><a href="/setts/s6/g10k1db13k3w9ly3~x2/"><circle cx="106.9" cy="181.0" r="4" fill="#3465a4"><title>Inverary Clan Tartan Tartan Number: 772. Earliest known date: pre 2003 From a miniature of Elizabeth Innes at (sic) Edingight from Adam See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/g5ly2t20w2k20w20k2w5~x2/"><circle cx="120.7" cy="153.5" r="4" fill="#3465a4"><title>Alexander Brothers - 2007? (Corp.)</title></circle></a><a href="/setts/s8/t30ly3t4k25y26k3y3r4~x2/"><circle cx="159.0" cy="169.1" r="4" fill="#3465a4"><title>Ogilvie Hunting Clan/Family Tartan Tartan Number: 6082. Earliest known date: pre 2000 Samples in STA Dalgety Collection labelled &quot;Restricted, Hunting Ogilvie, Family Only&quot;. However, the major weavers have this in their swatch books so the restriction mentioned above seems to have been lifted at some stage. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/t4n16k2n2k2n2k13o20w4~x2/"><circle cx="133.9" cy="165.1" r="4" fill="#3465a4"><title>Royal College of Surgeons of Edinburgh, The</title></circle></a><a href="/setts/s9/w3t2n14lr8t14db16n13t2w3~x2/"><circle cx="114.1" cy="193.6" r="4" fill="#3465a4"><title>Caitriot</title></circle></a><a href="/setts/s6/w3b14k12g12k2ly3~x4/"><circle cx="86.5" cy="215.4" r="4" fill="#3465a4"><title>MacNeil of Barra (Clan)</title></circle></a><circle cx="95.4" cy="181.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/b4ly2b16db15g16w3g3w4~x2/

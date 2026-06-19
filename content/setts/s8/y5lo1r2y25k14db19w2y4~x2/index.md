@@ -2,7 +2,7 @@
 title: "Tooth (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GWBKGRYG](/stripes/gwbkgryg/) · **Stripes:** [Y W DB K Y R LO Y](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">Y W DB K Y R LO Y</span></span>
+**Bands:** [GYRGKBWG](/stripes/gyrgkbwg/) · **Stripes:** [Y LO R Y K DB W Y](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">Y LO R Y K DB W Y</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -48,7 +48,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Scotland’s Golf Coast](/setts/s9/lg2w1db16dp2db2dp3db8dg20lo2~x2/) — ΔT 0.74
+1. [Scotland’s Golf Coast](/setts/s9/lo2dg20db8dp3db2dp2db16w1lg2~x2/) — ΔT 0.74
 1. [Glencross, Tynron (Name)](/setts/s6/r3y13db13ly2dg34w3~x2/) — ΔT 0.99
 1. [Young](/setts/s8/db3t3g30db25dp4r3ly2dp1~x2/) — ΔT 0.99
 1. [Dodd of Branford](/setts/s9/g4r2g20db8k8db4lb1lo2k1~x2/) — ΔT 0.99
@@ -57,12 +57,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Turnbull, Dress Bruce (Personal)](/setts/s8/o11k66y32dg11y10db6y10r4/) — ΔT 1.10
 1. [Kleto, Susan (Personal)](/setts/s9/w1dt16lo1r3lo1dg6y2dg6w1~x2/) — ΔT 1.10
 1. [Vienna Highlander (Fashion)](/setts/s8/lo3k2o15k10dt23r2dt1w2~x2/) — ΔT 1.13
-1. [McGeachie (Personal)](/setts/s8/ly1k6g32k12r12b9k6w1~x2/) — ΔT 1.13
+1. [McGeachie (Personal)](/setts/s8/w1k6b9r12k12g32k6ly1~x2/) — ΔT 1.13
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lg2w1db16dp2db2dp3db8dg20lo2~x2/"><circle cx="258.8" cy="135.7" r="4" fill="#3465a4"><title>Scotland’s Golf Coast</title></circle></a><a href="/setts/s6/r3y13db13ly2dg34w3~x2/"><circle cx="259.6" cy="164.7" r="4" fill="#3465a4"><title>Glencross, Tynron (Name)</title></circle></a><a href="/setts/s8/db3t3g30db25dp4r3ly2dp1~x2/"><circle cx="268.8" cy="117.2" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/setts/s9/g4r2g20db8k8db4lb1lo2k1~x2/"><circle cx="240.5" cy="136.2" r="4" fill="#3465a4"><title>Dodd of Branford</title></circle></a><a href="/setts/s9/dt11dt6dg25r1w2lo1dt25dt5w7~x2/"><circle cx="228.8" cy="135.0" r="4" fill="#3465a4"><title>Army Ranger</title></circle></a><a href="/setts/s7/r4lb1y6g25k8db15lb2~x2/"><circle cx="209.6" cy="147.0" r="4" fill="#3465a4"><title>Jones (Name)</title></circle></a><a href="/setts/s8/o11k66y32dg11y10db6y10r4/"><circle cx="219.0" cy="133.6" r="4" fill="#3465a4"><title>Turnbull, Dress Bruce (Personal)</title></circle></a><a href="/setts/s9/w1dt16lo1r3lo1dg6y2dg6w1~x2/"><circle cx="218.5" cy="134.8" r="4" fill="#3465a4"><title>Kleto, Susan (Personal)</title></circle></a><a href="/setts/s8/lo3k2o15k10dt23r2dt1w2~x2/"><circle cx="201.9" cy="119.3" r="4" fill="#3465a4"><title>Vienna Highlander (Fashion)</title></circle></a><a href="/setts/s8/ly1k6g32k12r12b9k6w1~x2/"><circle cx="212.2" cy="119.7" r="4" fill="#3465a4"><title>McGeachie (Personal)</title></circle></a><circle cx="257.8" cy="137.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lo2dg20db8dp3db2dp2db16w1lg2~x2/"><circle cx="258.8" cy="135.7" r="4" fill="#3465a4"><title>Scotland’s Golf Coast</title></circle></a><a href="/setts/s6/r3y13db13ly2dg34w3~x2/"><circle cx="259.6" cy="164.7" r="4" fill="#3465a4"><title>Glencross, Tynron (Name)</title></circle></a><a href="/setts/s8/db3t3g30db25dp4r3ly2dp1~x2/"><circle cx="268.8" cy="117.2" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/setts/s9/g4r2g20db8k8db4lb1lo2k1~x2/"><circle cx="240.5" cy="136.2" r="4" fill="#3465a4"><title>Dodd of Branford</title></circle></a><a href="/setts/s9/dt11dt6dg25r1w2lo1dt25dt5w7~x2/"><circle cx="228.9" cy="135.1" r="4" fill="#3465a4"><title>Army Ranger</title></circle></a><a href="/setts/s7/r4lb1y6g25k8db15lb2~x2/"><circle cx="209.6" cy="147.1" r="4" fill="#3465a4"><title>Jones (Name)</title></circle></a><a href="/setts/s8/o11k66y32dg11y10db6y10r4/"><circle cx="219.0" cy="133.6" r="4" fill="#3465a4"><title>Turnbull, Dress Bruce (Personal)</title></circle></a><a href="/setts/s9/w1dt16lo1r3lo1dg6y2dg6w1~x2/"><circle cx="218.5" cy="134.9" r="4" fill="#3465a4"><title>Kleto, Susan (Personal)</title></circle></a><a href="/setts/s8/lo3k2o15k10dt23r2dt1w2~x2/"><circle cx="201.9" cy="119.3" r="4" fill="#3465a4"><title>Vienna Highlander (Fashion)</title></circle></a><a href="/setts/s8/w1k6b9r12k12g32k6ly1~x2/"><circle cx="212.2" cy="119.8" r="4" fill="#3465a4"><title>McGeachie (Personal)</title></circle></a><circle cx="257.8" cy="137.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/y5lo1r2y25k14db19w2y4~x2/

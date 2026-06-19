@@ -2,7 +2,7 @@
 title: "Wilson's, No 233"
 date: 2023-03-18
 ---
-**Bands:** [GBKGWGK](/stripes/gbkgwgk/) · **Stripes:** [G P K G W G K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">G P K G W G K</span></span>
+**Bands:** [KGWGKBG](/stripes/kgwgkbg/) · **Stripes:** [K G W G K P G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G W G K P G</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/4 P24 K24 Ga24 LN4 Ga24 K/24
+K/24 Ga24 LN4 Ga24 K24 P24 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -901,7 +904,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/4 P24 K24 Ga24 LN4 Ga24 K/24 tartan")
+![Tartan detail](tartan.png "K/24 Ga24 LN4 Ga24 K24 P24 G/4 tartan")
 
 ## Nearest tartans
 
@@ -914,14 +917,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Abercrombie, (Wilson's No 64)](/setts/s7/k6g6ly1g6k6p6k1~x4/) — ΔT 0.93
 1. [Dyce](/setts/s6/k2ly1g6k6db6w1~x4/) — ΔT 0.94
 1. [Vosko](/setts/s9/db25k12ly4k9r6k9ly4k12g25~x2/) — ΔT 0.99
-1. [Brodie hunting](/setts/s7/r2db8g8k8ly1k8r2~x2/) — ΔT 1.01
+1. [Brodie hunting](/setts/s7/r2k8ly1k8g8db8r2~x2/) — ΔT 1.01
 1. [Birse](/setts/s6/k4g16k14ly3db16r4~x2/) — ΔT 1.01
 1. [MacCallum](/setts/s7/k6g6r1g6k6db6k1~x2/) — ΔT 1.08
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k12g12w2g12k12p12r3~x2/"><circle cx="92.5" cy="235.6" r="4" fill="#3465a4"><title>Wilson's, No 120</title></circle></a><a href="/setts/s6/k3r1g5k3w1p3~x2/"><circle cx="84.7" cy="237.5" r="4" fill="#3465a4"><title>Wilson's, No 194</title></circle></a><a href="/setts/s7/k11g12k2g12k12p12w3~x2/"><circle cx="121.2" cy="252.5" r="4" fill="#3465a4"><title>Wilson's, No 97</title></circle></a><a href="/setts/s7/k6g6w1g6k6p6k1~x4/"><circle cx="136.4" cy="250.2" r="4" fill="#3465a4"><title>Wilson's, No 64 or Abercrombie</title></circle></a><a href="/setts/s7/k6g6ly1g6k6p6k1~x4/"><circle cx="137.4" cy="250.6" r="4" fill="#3465a4"><title>Abercrombie, (Wilson's No 64)</title></circle></a><a href="/setts/s6/k2ly1g6k6db6w1~x4/"><circle cx="100.6" cy="223.3" r="4" fill="#3465a4"><title>Dyce</title></circle></a><a href="/setts/s9/db25k12ly4k9r6k9ly4k12g25~x2/"><circle cx="105.4" cy="203.8" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/setts/s7/r2db8g8k8ly1k8r2~x2/"><circle cx="138.2" cy="213.8" r="4" fill="#3465a4"><title>Brodie hunting</title></circle></a><a href="/setts/s6/k4g16k14ly3db16r4~x2/"><circle cx="77.3" cy="229.3" r="4" fill="#3465a4"><title>Birse</title></circle></a><a href="/setts/s7/k6g6r1g6k6db6k1~x2/"><circle cx="141.0" cy="258.0" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><circle cx="99.3" cy="233.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k12g12w2g12k12p12r3~x2/"><circle cx="92.8" cy="235.6" r="4" fill="#3465a4"><title>Wilson's, No 120</title></circle></a><a href="/setts/s6/k3r1g5k3w1p3~x2/"><circle cx="85.0" cy="237.5" r="4" fill="#3465a4"><title>Wilson's, No 194</title></circle></a><a href="/setts/s7/k11g12k2g12k12p12w3~x2/"><circle cx="121.5" cy="252.4" r="4" fill="#3465a4"><title>Wilson's, No 97</title></circle></a><a href="/setts/s7/k6g6w1g6k6p6k1~x4/"><circle cx="136.6" cy="250.1" r="4" fill="#3465a4"><title>Wilson's, No 64 or Abercrombie</title></circle></a><a href="/setts/s7/k6g6ly1g6k6p6k1~x4/"><circle cx="137.6" cy="250.4" r="4" fill="#3465a4"><title>Abercrombie, (Wilson's No 64)</title></circle></a><a href="/setts/s6/k2ly1g6k6db6w1~x4/"><circle cx="100.9" cy="223.2" r="4" fill="#3465a4"><title>Dyce</title></circle></a><a href="/setts/s9/db25k12ly4k9r6k9ly4k12g25~x2/"><circle cx="105.6" cy="203.8" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/setts/s7/r2k8ly1k8g8db8r2~x2/"><circle cx="138.4" cy="213.8" r="4" fill="#3465a4"><title>Brodie hunting</title></circle></a><a href="/setts/s6/k4g16k14ly3db16r4~x2/"><circle cx="77.6" cy="229.3" r="4" fill="#3465a4"><title>Birse</title></circle></a><a href="/setts/s7/k6g6r1g6k6db6k1~x2/"><circle cx="141.3" cy="257.8" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><circle cx="99.6" cy="233.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k6g6w1g6k6p6g1~x4/

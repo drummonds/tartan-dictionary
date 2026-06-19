@@ -2,7 +2,7 @@
 title: "MacLean of Duart, dress"
 date: 2023-03-18
 ---
-**Bands:** [GBRYRWRWRGRR](/stripes/gbryrwrwrgrr/) · **Stripes:** [Y N O LY O W O W R Y R O](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="seq">Y N O LY O W O W R Y R O</span></span>
+**Bands:** [RRGRWRWRYRBG](/stripes/rrgrwrwryrbg/) · **Stripes:** [O R Y R W O W O LY O N Y](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">O R Y R W O W O LY O N Y</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LT/4 R8 Na4 R60 LN38 LT6 LN6 LT6 Y4 LT8 N4 Na/24
+Na/24 N4 LT8 Y4 LT6 LN6 LT6 LN38 R60 Na4 R8 LT/4
 ![Sett](sett.png)
 
 ## Palette
@@ -912,13 +915,13 @@ The nearest existing variants by ΔTartan distance.
 1. [MacGlashan #3](/setts/s16/r20k3w2lo25w2ly5r4k2r4ly5w3t4k5r6w1t1~x2/) — ΔT 1.27
 1. [Glenburnie School](/setts/s10/n22r2w1lo3r1n6r22lo3r1w10~x4/) — ΔT 1.27
 1. [Hogeboom (Personal)](/setts/s9/t4g3t9dt14ly8dt2r35r2r3~x2/) — ΔT 1.27
-1. [Scobie (Blackford)](/setts/s12/m1r2lt1r1lt1r20m14g26r6p1r1p1~x2/) — ΔT 1.28
+1. [Scobie (Blackford)](/setts/s12/p1r1p1r6g26m14r20lt1r1lt1r2m1~x2/) — ΔT 1.28
 1. [Berwick -upon-Tweed (asymmetric)](/setts/s14/r16o5dg2o4dg2o5y38k5dg2k4dg2k5r8b4~x2/) — ΔT 1.33
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/n12o2dy4lo2dy3w3dy3w19r30o2r4dy2~x2/"><circle cx="183.0" cy="85.9" r="4" fill="#3465a4"><title>MacLean of Duart Dress</title></circle></a><a href="/setts/s12/y12n2dy4ly2dy3w3dy3w19r30y2r4dy2~x2/"><circle cx="183.0" cy="83.0" r="4" fill="#3465a4"><title>MacLean of Duart Dress #3</title></circle></a><a href="/setts/s16/r25do3w2lo25w3ly5r4do2r4ly5w3db4do5r6w1db1~x2/"><circle cx="200.3" cy="58.0" r="4" fill="#3465a4"><title>MacGlashan Clan Tartan Tartan Number: 656. Earliest known date: 1982 Author an historian, Dr Philip Smith, lives in the USA and provides up to date information of new designs of tartan produced in the Americas. MacGlashan is associated with Clan MacKintosh or Clan Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r17k1r2dp2r2k1r3dp8w17ly2~x4/"><circle cx="200.9" cy="84.9" r="4" fill="#3465a4"><title>Kyle, Pink (Dance)</title></circle></a><a href="/setts/s16/r39r3w2g14w2ly4r4r2r4ly4w2t12r6r6ly7w2~x2/"><circle cx="226.8" cy="63.5" r="4" fill="#3465a4"><title>North West, Mounted Police</title></circle></a><a href="/setts/s16/r20k3w2lo25w2ly5r4k2r4ly5w3t4k5r6w1t1~x2/"><circle cx="175.8" cy="58.8" r="4" fill="#3465a4"><title>MacGlashan #3</title></circle></a><a href="/setts/s10/n22r2w1lo3r1n6r22lo3r1w10~x4/"><circle cx="235.6" cy="104.2" r="4" fill="#3465a4"><title>Glenburnie School</title></circle></a><a href="/setts/s9/t4g3t9dt14ly8dt2r35r2r3~x2/"><circle cx="236.9" cy="103.9" r="4" fill="#3465a4"><title>Hogeboom (Personal)</title></circle></a><a href="/setts/s12/m1r2lt1r1lt1r20m14g26r6p1r1p1~x2/"><circle cx="246.3" cy="70.2" r="4" fill="#3465a4"><title>Scobie (Blackford)</title></circle></a><a href="/setts/s14/r16o5dg2o4dg2o5y38k5dg2k4dg2k5r8b4~x2/"><circle cx="189.8" cy="83.7" r="4" fill="#3465a4"><title>Berwick -upon-Tweed (asymmetric)</title></circle></a><circle cx="192.4" cy="89.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/n12o2dy4lo2dy3w3dy3w19r30o2r4dy2~x2/"><circle cx="182.6" cy="86.0" r="4" fill="#3465a4"><title>MacLean of Duart Dress</title></circle></a><a href="/setts/s12/y12n2dy4ly2dy3w3dy3w19r30y2r4dy2~x2/"><circle cx="182.6" cy="83.1" r="4" fill="#3465a4"><title>MacLean of Duart Dress #3</title></circle></a><a href="/setts/s16/r25do3w2lo25w3ly5r4do2r4ly5w3db4do5r6w1db1~x2/"><circle cx="199.9" cy="58.2" r="4" fill="#3465a4"><title>MacGlashan Clan Tartan Tartan Number: 656. Earliest known date: 1982 Author an historian, Dr Philip Smith, lives in the USA and provides up to date information of new designs of tartan produced in the Americas. MacGlashan is associated with Clan MacKintosh or Clan Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r17k1r2dp2r2k1r3dp8w17ly2~x4/"><circle cx="200.4" cy="84.9" r="4" fill="#3465a4"><title>Kyle, Pink (Dance)</title></circle></a><a href="/setts/s16/r39r3w2g14w2ly4r4r2r4ly4w2t12r6r6ly7w2~x2/"><circle cx="226.4" cy="63.6" r="4" fill="#3465a4"><title>North West, Mounted Police</title></circle></a><a href="/setts/s16/r20k3w2lo25w2ly5r4k2r4ly5w3t4k5r6w1t1~x2/"><circle cx="175.4" cy="58.9" r="4" fill="#3465a4"><title>MacGlashan #3</title></circle></a><a href="/setts/s10/n22r2w1lo3r1n6r22lo3r1w10~x4/"><circle cx="235.2" cy="104.2" r="4" fill="#3465a4"><title>Glenburnie School</title></circle></a><a href="/setts/s9/t4g3t9dt14ly8dt2r35r2r3~x2/"><circle cx="236.6" cy="104.0" r="4" fill="#3465a4"><title>Hogeboom (Personal)</title></circle></a><a href="/setts/s12/p1r1p1r6g26m14r20lt1r1lt1r2m1~x2/"><circle cx="245.9" cy="70.3" r="4" fill="#3465a4"><title>Scobie (Blackford)</title></circle></a><a href="/setts/s14/r16o5dg2o4dg2o5y38k5dg2k4dg2k5r8b4~x2/"><circle cx="189.5" cy="83.9" r="4" fill="#3465a4"><title>Berwick -upon-Tweed (asymmetric)</title></circle></a><circle cx="192.0" cy="89.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/y12n2o4ly2o3w3o3w19r30y2r4o2~x2/

@@ -20,7 +20,7 @@ BWR
 
 
 
-### DB W R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB W R</span></span>
+### R W DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R W DB</span></span>
 
 | Tartans |
 |---------------|

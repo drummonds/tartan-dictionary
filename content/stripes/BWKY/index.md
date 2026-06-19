@@ -20,7 +20,7 @@ BWKY
 
 
 
-### N W K LG <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="seq">N W K LG</span></span>
+### LG K W N <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="seq">LG K W N</span></span>
 
 | Tartans |
 |---------------|

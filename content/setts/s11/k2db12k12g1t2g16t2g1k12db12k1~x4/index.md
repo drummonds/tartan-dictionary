@@ -24,7 +24,7 @@ See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table an
 Later records of the **Graham** name adjusted Logan's counts: [Graham](/setts/s4/g12k4g1k4~g005020-k101010~x2/); [Graham Dress](/setts/s21/w4b4w60b5w5k30b27k5b30k27g4ba5g66ba5g4k30w5b5w57b4w4~b2c4084-ba3c82af-g005020-k101010-we0e0e0/); [Graham of Airth](/setts/s18/b6k2b6k12b3k13y2g18b3r3b3g18y2k13b15r5b3r5~b5a008c-g005020-k101010-rdc0000-ye8c000~x2/); [Graham of Menteith](/setts/s6/g8b1g1k6ba6k1~b2474e8-ba28287c-g006c3c-k101010~x4/). Compare their thread counts with Logan's above.
 
 ## Thread count
-K/4 DB48 K48 G4 B8 G64 B8 G4 K48 DB48 K/8
+K/8 DB48 K48 G4 B8 G64 B8 G4 K48 DB48 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -43,19 +43,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Black from Cumnock (Personal)](/setts/s13/db8k1db1k1db1k8ly1dg14ly1k8db8k1db1~x2/) — ΔT 0.70
 1. [Campbell of Breadalbane #2](/setts/s13/db26k4db4k4db4k27ly5dg47ly5k27db25k4db4~x2/) — ΔT 0.75
-1. [Hebridean Old.. District Tartan Tartan Number: 249. Earliest known date: pre 2003 Alternative count on 1990 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/db2k2db18t1k13t1g16db3k2~x2/) — ΔT 0.75
+1. [Hebridean Old.. District Tartan Tartan Number: 249. Earliest known date: pre 2003 Alternative count on 1990 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/k2db3g16t1k13t1db18k2db2~x2/) — ΔT 0.75
 1. [Ferguson](/setts/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/) — ΔT 0.76
 1. [Hope-Vere/Weir #2](/setts/s14/dg19k1dg4k1dg3k10db20ly1k7ly1db20k10ly3dg1~x2/) — ΔT 0.80
 1. [Gordon #2](/setts/s10/db56k6db6k6db6k44dg44ly4dg5ly8/) — ΔT 0.81
-1. [MacDonald #3](/setts/s12/db16r2db2r5db29r2k31dg29r5dg2r2dg16~x2/) — ΔT 0.84
+1. [MacDonald #3](/setts/s12/dg16r2dg2r5dg29k31r2db29r5db2r2db16~x2/) — ΔT 0.84
 1. [MacDonald](/setts/s12/db17r2db2r5db29r2k31g29r5g2r2g17~x2/) — ΔT 0.87
-1. [MacDonald #4](/setts/s12/db17r2db2r6db32r2k34dg32r6dg2r2dg17~x2/) — ΔT 0.87
+1. [MacDonald #4](/setts/s12/dg17r2dg2r6dg32k34r2db32r6db2r2db17~x2/) — ΔT 0.87
 1. [Murray of Atholl #3](/setts/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/) — ΔT 0.88
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db8k1db1k1db1k8ly1dg14ly1k8db8k1db1~x2/"><circle cx="238.8" cy="179.1" r="4" fill="#3465a4"><title>Black from Cumnock (Personal)</title></circle></a><a href="/setts/s13/db26k4db4k4db4k27ly5dg47ly5k27db25k4db4~x2/"><circle cx="214.8" cy="183.4" r="4" fill="#3465a4"><title>Campbell of Breadalbane #2</title></circle></a><a href="/setts/s9/db2k2db18t1k13t1g16db3k2~x2/"><circle cx="272.1" cy="185.7" r="4" fill="#3465a4"><title>Hebridean Old.. District Tartan Tartan Number: 249. Earliest known date: pre 2003 Alternative count on 1990 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/"><circle cx="208.0" cy="212.4" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/setts/s14/dg19k1dg4k1dg3k10db20ly1k7ly1db20k10ly3dg1~x2/"><circle cx="254.7" cy="161.7" r="4" fill="#3465a4"><title>Hope-Vere/Weir #2</title></circle></a><a href="/setts/s10/db56k6db6k6db6k44dg44ly4dg5ly8/"><circle cx="230.3" cy="178.3" r="4" fill="#3465a4"><title>Gordon #2</title></circle></a><a href="/setts/s12/db16r2db2r5db29r2k31dg29r5dg2r2dg16~x2/"><circle cx="223.4" cy="176.5" r="4" fill="#3465a4"><title>MacDonald #3</title></circle></a><a href="/setts/s12/db17r2db2r5db29r2k31g29r5g2r2g17~x2/"><circle cx="210.3" cy="169.9" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/setts/s12/db17r2db2r6db32r2k34dg32r6dg2r2dg17~x2/"><circle cx="225.2" cy="172.1" r="4" fill="#3465a4"><title>MacDonald #4</title></circle></a><a href="/setts/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/"><circle cx="189.9" cy="199.7" r="4" fill="#3465a4"><title>Murray of Atholl #3</title></circle></a><circle cx="234.9" cy="191.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db8k1db1k1db1k8ly1dg14ly1k8db8k1db1~x2/"><circle cx="238.8" cy="179.2" r="4" fill="#3465a4"><title>Black from Cumnock (Personal)</title></circle></a><a href="/setts/s13/db26k4db4k4db4k27ly5dg47ly5k27db25k4db4~x2/"><circle cx="214.9" cy="183.5" r="4" fill="#3465a4"><title>Campbell of Breadalbane #2</title></circle></a><a href="/setts/s9/k2db3g16t1k13t1db18k2db2~x2/"><circle cx="272.2" cy="185.7" r="4" fill="#3465a4"><title>Hebridean Old.. District Tartan Tartan Number: 249. Earliest known date: pre 2003 Alternative count on 1990 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/"><circle cx="208.1" cy="212.5" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/setts/s14/dg19k1dg4k1dg3k10db20ly1k7ly1db20k10ly3dg1~x2/"><circle cx="254.8" cy="161.8" r="4" fill="#3465a4"><title>Hope-Vere/Weir #2</title></circle></a><a href="/setts/s10/db56k6db6k6db6k44dg44ly4dg5ly8/"><circle cx="230.4" cy="178.3" r="4" fill="#3465a4"><title>Gordon #2</title></circle></a><a href="/setts/s12/dg16r2dg2r5dg29k31r2db29r5db2r2db16~x2/"><circle cx="223.4" cy="176.6" r="4" fill="#3465a4"><title>MacDonald #3</title></circle></a><a href="/setts/s12/db17r2db2r5db29r2k31g29r5g2r2g17~x2/"><circle cx="210.3" cy="170.0" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/setts/s12/dg17r2dg2r6dg32k34r2db32r6db2r2db17~x2/"><circle cx="225.3" cy="172.2" r="4" fill="#3465a4"><title>MacDonald #4</title></circle></a><a href="/setts/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/"><circle cx="190.0" cy="199.8" r="4" fill="#3465a4"><title>Murray of Atholl #3</title></circle></a><circle cx="235.0" cy="191.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k2db12k12g1t2g16t2g1k12db12k1~x4/

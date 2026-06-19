@@ -8,7 +8,7 @@ WKWKWKY
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/ly4k12w4k12w21k4w4/tartan.png)
+![Woven sample](/setts/s7/w4k4w21k12w4k12ly4/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ WKWKWKY
 
 
 
-### W K W K W K LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W K W K W K LY</span></span>
+### LY K W K W K W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K W K W K W</span></span>
 
 | Tartans |
 |---------------|
-| [Mazda](/setts/s7/ly4k12w4k12w21k4w4/)|
-|![Mazda example sett](/setts/s7/ly4k12w4k12w21k4w4/sett.png)|
+| [Mazda](/setts/s7/w4k4w21k12w4k12ly4/)|
+|![Mazda example sett](/setts/s7/w4k4w21k12w4k12ly4/sett.png)|
 

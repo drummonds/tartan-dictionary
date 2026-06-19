@@ -2,7 +2,7 @@
 title: "Richecourt, Baron of (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [WKRKRWY](/stripes/wkrkrwy/) · **Stripes:** [W K R K R W LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W K R K R W LY</span></span>
+**Bands:** [YWRKRKW](/stripes/ywrkrkw/) · **Stripes:** [LY W R K R K W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY W R K R K W</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
@@ -49,18 +49,18 @@ The nearest existing variants by ΔTartan distance.
 1. [MacPherson Dress](/setts/s7/lb3r1lb30k20lb3k9ly1/) — ΔT 0.78
 1. [Colbert Check (Fashion)](/setts/s8/k62w10ly10k4w18k4lo3w4/) — ΔT 0.85
 1. [MacPherson Dress](/setts/s7/lr3r1lr30k20lr3k9ly1~x2/) — ΔT 0.95
+1. [MacPherson Dress](/setts/s7/lr3r1lr30k20lr3k9ly1/) — ΔT 0.95
 1. [Newcastle](/setts/s10/w8k1db2k4ly2k2ly2k24w8k2~x2/) — ΔT 0.99
 1. [Phantom](/setts/s7/w3o10k38w11o6k2w3~x2/) — ΔT 1.06
 1. [Gretna Football Club (Corporate)](/setts/s7/w36k8w36k95w4k4r6/) — ΔT 1.16
 1. [Cardiff City Football Club (Corp)](/setts/s9/k4lo24k13lo2k4lo3k1lo3t2~x2/) — ΔT 1.17
 1. [MacPherson Dress (1842)](/setts/s7/w3r1w30k20w3k9ly1~x2/) — ΔT 1.18
-1. [Gleneagles](/setts/s7/k4o4w35o1k36o4k2/) — ΔT 1.18
-1. [Gleneagles Gold (Dalgleish)](/setts/s7/k4lo4lb32lo1k32lo4k2~x4/) — ΔT 1.22
+1. [Gleneagles](/setts/s7/k4o4w35o1k36o4k2~x2/) — ΔT 1.18
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/lb3r1lb30k20lb3k9ly1/"><circle cx="322.9" cy="125.5" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s8/k62w10ly10k4w18k4lo3w4/"><circle cx="339.9" cy="123.7" r="4" fill="#3465a4"><title>Colbert Check (Fashion)</title></circle></a><a href="/setts/s7/lr3r1lr30k20lr3k9ly1~x2/"><circle cx="329.5" cy="131.8" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s10/w8k1db2k4ly2k2ly2k24w8k2~x2/"><circle cx="331.8" cy="115.8" r="4" fill="#3465a4"><title>Newcastle</title></circle></a><a href="/setts/s7/w3o10k38w11o6k2w3~x2/"><circle cx="286.9" cy="140.4" r="4" fill="#3465a4"><title>Phantom</title></circle></a><a href="/setts/s7/w36k8w36k95w4k4r6/"><circle cx="346.7" cy="144.3" r="4" fill="#3465a4"><title>Gretna Football Club (Corporate)</title></circle></a><a href="/setts/s9/k4lo24k13lo2k4lo3k1lo3t2~x2/"><circle cx="335.8" cy="130.7" r="4" fill="#3465a4"><title>Cardiff City Football Club (Corp)</title></circle></a><a href="/setts/s7/w3r1w30k20w3k9ly1~x2/"><circle cx="322.9" cy="120.9" r="4" fill="#3465a4"><title>MacPherson Dress (1842)</title></circle></a><a href="/setts/s7/k4o4w35o1k36o4k2/"><circle cx="312.9" cy="125.2" r="4" fill="#3465a4"><title>Gleneagles</title></circle></a><a href="/setts/s7/k4lo4lb32lo1k32lo4k2~x4/"><circle cx="314.1" cy="135.5" r="4" fill="#3465a4"><title>Gleneagles Gold (Dalgleish)</title></circle></a><circle cx="330.1" cy="112.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/lb3r1lb30k20lb3k9ly1/"><circle cx="322.7" cy="125.3" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s8/k62w10ly10k4w18k4lo3w4/"><circle cx="339.6" cy="123.5" r="4" fill="#3465a4"><title>Colbert Check (Fashion)</title></circle></a><a href="/setts/s7/lr3r1lr30k20lr3k9ly1~x2/"><circle cx="329.3" cy="131.5" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s7/lr3r1lr30k20lr3k9ly1/"><circle cx="329.3" cy="131.5" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s10/w8k1db2k4ly2k2ly2k24w8k2~x2/"><circle cx="331.6" cy="115.5" r="4" fill="#3465a4"><title>Newcastle</title></circle></a><a href="/setts/s7/w3o10k38w11o6k2w3~x2/"><circle cx="286.7" cy="140.2" r="4" fill="#3465a4"><title>Phantom</title></circle></a><a href="/setts/s7/w36k8w36k95w4k4r6/"><circle cx="346.4" cy="144.0" r="4" fill="#3465a4"><title>Gretna Football Club (Corporate)</title></circle></a><a href="/setts/s9/k4lo24k13lo2k4lo3k1lo3t2~x2/"><circle cx="335.5" cy="130.5" r="4" fill="#3465a4"><title>Cardiff City Football Club (Corp)</title></circle></a><a href="/setts/s7/w3r1w30k20w3k9ly1~x2/"><circle cx="322.5" cy="120.7" r="4" fill="#3465a4"><title>MacPherson Dress (1842)</title></circle></a><a href="/setts/s7/k4o4w35o1k36o4k2~x2/"><circle cx="312.7" cy="124.9" r="4" fill="#3465a4"><title>Gleneagles</title></circle></a><circle cx="329.8" cy="112.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/w4k30r1k1r3w12ly3~x2/

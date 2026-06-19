@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/
 Original link http://www.tartansauthority.com/tartan-ferret/display/10765/
 
 ## Thread count
-LN/4 G40 DB40 R24 LN4 N/28
+N/28 LN4 R24 DB40 G40 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -26,7 +26,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/4 G40 DB40 R24 LN4 N/28 tartan")
+![Tartan detail](tartan.png "N/28 LN4 R24 DB40 G40 LN/4 tartan")
 
 ## Nearest tartans
 
@@ -45,8 +45,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g4n12lo2k10y10lo3y2~x2/"><circle cx="104.7" cy="228.6" r="4" fill="#3465a4"><title>Rothesay</title></circle></a><a href="/setts/s9/db16db7lo4db2lo16db2y24db8lr11~x2/"><circle cx="106.5" cy="181.6" r="4" fill="#3465a4"><title>Wicklow County Crest (Fashion)</title></circle></a><a href="/setts/s6/r4g11k11g2n11ly3~x4/"><circle cx="98.3" cy="243.0" r="4" fill="#3465a4"><title>Casely (Name)</title></circle></a><a href="/setts/s6/r2dy8db2t4k4t1~x6/"><circle cx="163.2" cy="225.2" r="4" fill="#3465a4"><title>Thompson's Fancy Personal Tartan Tartan Number: 286. Earliest known date: pre 2003 Designed for his own use. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r10db6g24db24r6ly3/"><circle cx="142.1" cy="214.0" r="4" fill="#3465a4"><title>Canine All Dogs (Fashion)</title></circle></a><a href="/setts/s6/y15k10n30o11w3y5~x2/"><circle cx="200.7" cy="217.9" r="4" fill="#3465a4"><title>McHale (Personal)</title></circle></a><a href="/setts/s5/dy9o9y9r1t1~x4/"><circle cx="162.8" cy="221.3" r="4" fill="#3465a4"><title>Jardine #2</title></circle></a><a href="/setts/s6/r4g11k11g2n11y3~x4/"><circle cx="132.8" cy="263.4" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/setts/s8/r9g3b19k3g19r13k3lo3~x2/"><circle cx="151.6" cy="221.2" r="4" fill="#3465a4"><title>Orkney (District?)</title></circle></a><a href="/setts/s6/w3db17o16db2dg17ly2~x2/"><circle cx="119.5" cy="197.5" r="4" fill="#3465a4"><title>Atlantic, Ancient</title></circle></a><circle cx="130.7" cy="222.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g4n12lo2k10y10lo3y2~x2/"><circle cx="104.8" cy="228.7" r="4" fill="#3465a4"><title>Rothesay</title></circle></a><a href="/setts/s9/db16db7lo4db2lo16db2y24db8lr11~x2/"><circle cx="106.5" cy="181.7" r="4" fill="#3465a4"><title>Wicklow County Crest (Fashion)</title></circle></a><a href="/setts/s6/r4g11k11g2n11ly3~x4/"><circle cx="98.5" cy="243.1" r="4" fill="#3465a4"><title>Casely (Name)</title></circle></a><a href="/setts/s6/r2dy8db2t4k4t1~x6/"><circle cx="163.3" cy="225.3" r="4" fill="#3465a4"><title>Thompson's Fancy Personal Tartan Tartan Number: 286. Earliest known date: pre 2003 Designed for his own use. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r10db6g24db24r6ly3/"><circle cx="142.2" cy="214.1" r="4" fill="#3465a4"><title>Canine All Dogs (Fashion)</title></circle></a><a href="/setts/s6/y15k10n30o11w3y5~x2/"><circle cx="200.7" cy="218.0" r="4" fill="#3465a4"><title>McHale (Personal)</title></circle></a><a href="/setts/s5/dy9o9y9r1t1~x4/"><circle cx="162.8" cy="221.4" r="4" fill="#3465a4"><title>Jardine #2</title></circle></a><a href="/setts/s6/r4g11k11g2n11y3~x4/"><circle cx="132.9" cy="263.6" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/setts/s8/r9g3b19k3g19r13k3lo3~x2/"><circle cx="151.6" cy="221.4" r="4" fill="#3465a4"><title>Orkney (District?)</title></circle></a><a href="/setts/s6/w3db17o16db2dg17ly2~x2/"><circle cx="119.6" cy="197.7" r="4" fill="#3465a4"><title>Atlantic, Ancient</title></circle></a><circle cx="130.8" cy="222.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/n7w1r6dt10g10w1~x4/

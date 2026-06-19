@@ -22,6 +22,6 @@ RBGYBRYRBYGY
 
 | Tartans |
 |---------------|
-| [Monroig, Eric (Personal)](/setts/s12/ly2g16ly1b6r1ly1r1b6ly1g16b2r2~x2/)|
-|![Monroig, Eric (Personal) example sett](/setts/s12/ly2g16ly1b6r1ly1r1b6ly1g16b2r2~x2/sett.png)|
+| [Monroig, Eric (Personal)](/setts/s12/r2b2g16ly1b6r1ly1r1b6ly1g16ly2~x2/)|
+|![Monroig, Eric (Personal) example sett](/setts/s12/r2b2g16ly1b6r1ly1r1b6ly1g16ly2~x2/sett.png)|
 

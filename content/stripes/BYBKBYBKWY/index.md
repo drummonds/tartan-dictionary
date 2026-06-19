@@ -18,7 +18,7 @@ BYBKBYBKWY
 
 
 
-### DP LG DP K DP LG DP K W LG <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="seq">DP LG DP K DP LG DP K W LG</span></span>
+### LG W K DP LG DP K DP LG DP <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LG W K DP LG DP K DP LG DP</span></span>
 
 | Tartans |
 |---------------|

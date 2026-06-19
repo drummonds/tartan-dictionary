@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Cowan, of Inveresk
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,19 +926,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Birch (Personal) (Estimated threadcount)](/setts/s9/g2dp2g10k6r2k6t10k1lb2~x2/) — ΔT 0.69
 1. [Cowan of Inveresk (Personal)](/setts/s8/r4dg16w2k15db15k2db2ly2~x2/) — ΔT 0.69
-1. [Council of Scottish Clans & Ass. (Co](/setts/s7/ly2r2g15k14db16r2w2~x2/) — ΔT 0.76
+1. [Council of Scottish Clans & Ass. (Co](/setts/s7/w2r2db16k14g15r2ly2~x2/) — ΔT 0.77
 1. [Borrodale](/setts/s8/r5db3r3db29k29g29w4r4~x2/) — ΔT 0.93
 1. [Blairmore](/setts/s8/db34w5db5r5db5dr26g33o6~x2/) — ΔT 0.95
 1. [Colquhoun](/setts/s7/r2g8w1k8db8k1db1~x4/) — ΔT 0.97
-1. [Stirling, and Bannockburn](/setts/s10/ly3g2db18r3k13r4t3r4g18r3~x2/) — ΔT 0.97
+1. [Stirling, and Bannockburn](/setts/s10/r3g18r4t3r4k13r3db18g2ly3~x2/) — ΔT 0.97
 1. [MacCraig](/setts/s9/dr2lb1g7r1k7g1db7r1g2~x8/) — ΔT 1.02
 1. [Kagame (Personal)](/setts/s10/k5lb14k3k7g3k3g7k6db24w3~x2/) — ΔT 1.02
 1. [Unnamed 4](/setts/s10/k6g14t2r3t2k16ly2b16g16r3~x2/) — ΔT 1.03
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g2dp2g10k6r2k6t10k1lb2~x2/"><circle cx="76.5" cy="158.1" r="4" fill="#3465a4"><title>Birch (Personal) (Estimated threadcount)</title></circle></a><a href="/setts/s8/r4dg16w2k15db15k2db2ly2~x2/"><circle cx="88.0" cy="167.3" r="4" fill="#3465a4"><title>Cowan of Inveresk (Personal)</title></circle></a><a href="/setts/s7/ly2r2g15k14db16r2w2~x2/"><circle cx="84.6" cy="167.3" r="4" fill="#3465a4"><title>Council of Scottish Clans &amp; Ass. (Co</title></circle></a><a href="/setts/s8/r5db3r3db29k29g29w4r4~x2/"><circle cx="114.2" cy="167.8" r="4" fill="#3465a4"><title>Borrodale</title></circle></a><a href="/setts/s8/db34w5db5r5db5dr26g33o6~x2/"><circle cx="119.1" cy="179.0" r="4" fill="#3465a4"><title>Blairmore</title></circle></a><a href="/setts/s7/r2g8w1k8db8k1db1~x4/"><circle cx="110.5" cy="192.2" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/setts/s10/ly3g2db18r3k13r4t3r4g18r3~x2/"><circle cx="71.2" cy="145.0" r="4" fill="#3465a4"><title>Stirling, and Bannockburn</title></circle></a><a href="/setts/s9/dr2lb1g7r1k7g1db7r1g2~x8/"><circle cx="102.6" cy="176.9" r="4" fill="#3465a4"><title>MacCraig</title></circle></a><a href="/setts/s10/k5lb14k3k7g3k3g7k6db24w3~x2/"><circle cx="57.8" cy="150.6" r="4" fill="#3465a4"><title>Kagame (Personal)</title></circle></a><a href="/setts/s10/k6g14t2r3t2k16ly2b16g16r3~x2/"><circle cx="92.0" cy="157.3" r="4" fill="#3465a4"><title>Unnamed 4</title></circle></a><circle cx="79.2" cy="162.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g2dp2g10k6r2k6t10k1lb2~x2/"><circle cx="76.7" cy="158.2" r="4" fill="#3465a4"><title>Birch (Personal) (Estimated threadcount)</title></circle></a><a href="/setts/s8/r4dg16w2k15db15k2db2ly2~x2/"><circle cx="88.3" cy="167.4" r="4" fill="#3465a4"><title>Cowan of Inveresk (Personal)</title></circle></a><a href="/setts/s7/w2r2db16k14g15r2ly2~x2/"><circle cx="84.7" cy="167.4" r="4" fill="#3465a4"><title>Council of Scottish Clans &amp; Ass. (Co</title></circle></a><a href="/setts/s8/r5db3r3db29k29g29w4r4~x2/"><circle cx="114.3" cy="167.9" r="4" fill="#3465a4"><title>Borrodale</title></circle></a><a href="/setts/s8/db34w5db5r5db5dr26g33o6~x2/"><circle cx="119.3" cy="179.1" r="4" fill="#3465a4"><title>Blairmore</title></circle></a><a href="/setts/s7/r2g8w1k8db8k1db1~x4/"><circle cx="110.8" cy="192.2" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/setts/s10/r3g18r4t3r4k13r3db18g2ly3~x2/"><circle cx="71.3" cy="145.1" r="4" fill="#3465a4"><title>Stirling, and Bannockburn</title></circle></a><a href="/setts/s9/dr2lb1g7r1k7g1db7r1g2~x8/"><circle cx="102.8" cy="177.0" r="4" fill="#3465a4"><title>MacCraig</title></circle></a><a href="/setts/s10/k5lb14k3k7g3k3g7k6db24w3~x2/"><circle cx="58.0" cy="150.7" r="4" fill="#3465a4"><title>Kagame (Personal)</title></circle></a><a href="/setts/s10/k6g14t2r3t2k16ly2b16g16r3~x2/"><circle cx="92.1" cy="157.3" r="4" fill="#3465a4"><title>Unnamed 4</title></circle></a><circle cx="79.4" cy="162.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r4g16w2k15db15k2db2ly2~x2/

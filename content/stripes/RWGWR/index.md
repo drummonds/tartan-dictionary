@@ -8,7 +8,7 @@ RWGWR
 
 It is a 5 band tartan.
 
-![Woven sample](/setts/s5/m1lb1g1w1r1~x16/tartan.png)
+![Woven sample](/setts/s5/r1w1g1lb1m1~x16/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ RWGWR
 
 
 
-### M LB G W R <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">M LB G W R</span></span>
+### R W G LB M <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#CA047B"></span><span class="seq">R W G LB M</span></span>
 
 | Tartans |
 |---------------|
-| [Daughter of Mull](/setts/s5/m1lb1g1w1r1~x16/)|
-|![Daughter of Mull example sett](/setts/s5/m1lb1g1w1r1~x16/sett.png)|
+| [Daughter of Mull](/setts/s5/r1w1g1lb1m1~x16/)|
+|![Daughter of Mull example sett](/setts/s5/r1w1g1lb1m1~x16/sett.png)|
 

@@ -9,8 +9,14 @@ This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1063/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Johnston / Johnstone
+
 ## Thread count
-K/4 B4 K4 B48 G60 K2 G4 Y/6
+Y/6 G4 K2 G60 B48 K4 B4 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -25,7 +31,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/4 B4 K4 B48 G60 K2 G4 Y/6 tartan")
+![Tartan detail](tartan.png "Y/6 G4 K2 G60 B48 K4 B4 K/4 tartan")
 
 ## Nearest tartans
 
@@ -34,8 +40,8 @@ The nearest existing variants by ΔTartan distance.
 1. [Johnston / Johnstone](/setts/s8/ly3g2k1g30db24k2db2k2~x2/) — ΔT 0.67
 1. [Oliphant](/setts/s6/db4k4db24g32w1g2~x2/) — ΔT 1.07
 1. [MacAuliffe (Name)](/setts/s8/g37w2g6db23ly6db2ly3db2~x2/) — ΔT 1.16
-1. [New Mexico](/setts/s8/ly1r2ly4db22g10db2g16r1~x2/) — ΔT 1.18
-1. [Johnston/Johnstone](/setts/s14/ly3g2k1g30b24k2b2k2b2k2b24g30k1g2~x2/) — ΔT 1.25
+1. [New Mexico](/setts/s8/r1g16db2g10db22ly4r2ly1~x2/) — ΔT 1.18
+1. [Johnston/Johnstone](/setts/s14/ly3g2k1g30b24k2b2k2~x2/) — ΔT 1.25
 1. [Unidentified (Pahls)](/setts/s10/lo4g4db2g29w1db12g2lo16g4db2~x2/) — ΔT 1.30
 1. [MacOrrell](/setts/s9/db5ly2db17g14w1g1w1g4ly2~x2/) — ΔT 1.31
 1. [Maine State](/setts/s11/g2r2t23db2t2db6t2db2g33r2t2~x2/) — ΔT 1.36
@@ -44,8 +50,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/ly3g2k1g30db24k2db2k2~x2/"><circle cx="324.6" cy="135.6" r="4" fill="#3465a4"><title>Johnston / Johnstone</title></circle></a><a href="/setts/s6/db4k4db24g32w1g2~x2/"><circle cx="350.4" cy="166.1" r="4" fill="#3465a4"><title>Oliphant</title></circle></a><a href="/setts/s8/g37w2g6db23ly6db2ly3db2~x2/"><circle cx="317.8" cy="157.1" r="4" fill="#3465a4"><title>MacAuliffe (Name)</title></circle></a><a href="/setts/s8/ly1r2ly4db22g10db2g16r1~x2/"><circle cx="289.9" cy="164.2" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/setts/s14/ly3g2k1g30b24k2b2k2b2k2b24g30k1g2~x2/"><circle cx="344.3" cy="128.8" r="4" fill="#3465a4"><title>Johnston/Johnstone</title></circle></a><a href="/setts/s10/lo4g4db2g29w1db12g2lo16g4db2~x2/"><circle cx="341.7" cy="150.8" r="4" fill="#3465a4"><title>Unidentified (Pahls)</title></circle></a><a href="/setts/s9/db5ly2db17g14w1g1w1g4ly2~x2/"><circle cx="282.6" cy="161.0" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><a href="/setts/s11/g2r2t23db2t2db6t2db2g33r2t2~x2/"><circle cx="289.4" cy="141.8" r="4" fill="#3465a4"><title>Maine State</title></circle></a><a href="/setts/s8/k3db3k3db22g26k2db1ly3~x2/"><circle cx="267.1" cy="142.8" r="4" fill="#3465a4"><title>Johnstone / Johnston</title></circle></a><a href="/setts/s8/g2k1db6k11g26k1g1lo2~x2/"><circle cx="380.8" cy="157.5" r="4" fill="#3465a4"><title>Mackie (2016)</title></circle></a><circle cx="331.5" cy="141.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/ly3g2k1g30db24k2db2k2~x2/"><circle cx="324.4" cy="135.4" r="4" fill="#3465a4"><title>Johnston / Johnstone</title></circle></a><a href="/setts/s6/db4k4db24g32w1g2~x2/"><circle cx="350.3" cy="166.0" r="4" fill="#3465a4"><title>Oliphant</title></circle></a><a href="/setts/s8/g37w2g6db23ly6db2ly3db2~x2/"><circle cx="317.6" cy="156.9" r="4" fill="#3465a4"><title>MacAuliffe (Name)</title></circle></a><a href="/setts/s8/r1g16db2g10db22ly4r2ly1~x2/"><circle cx="289.7" cy="164.1" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/setts/s14/ly3g2k1g30b24k2b2k2~x2/"><circle cx="344.0" cy="128.8" r="4" fill="#3465a4"><title>Johnston/Johnstone</title></circle></a><a href="/setts/s10/lo4g4db2g29w1db12g2lo16g4db2~x2/"><circle cx="341.5" cy="150.8" r="4" fill="#3465a4"><title>Unidentified (Pahls)</title></circle></a><a href="/setts/s9/db5ly2db17g14w1g1w1g4ly2~x2/"><circle cx="282.4" cy="160.8" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><a href="/setts/s11/g2r2t23db2t2db6t2db2g33r2t2~x2/"><circle cx="289.2" cy="141.8" r="4" fill="#3465a4"><title>Maine State</title></circle></a><a href="/setts/s8/k3db3k3db22g26k2db1ly3~x2/"><circle cx="267.0" cy="142.7" r="4" fill="#3465a4"><title>Johnstone / Johnston</title></circle></a><a href="/setts/s8/g2k1db6k11g26k1g1lo2~x2/"><circle cx="380.7" cy="157.4" r="4" fill="#3465a4"><title>Mackie (2016)</title></circle></a><circle cx="331.3" cy="141.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/ly3g2k1g30b24k2b2k2~x2/

@@ -2,7 +2,7 @@
 title: "Scotch House 2000, antique"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBKRG](/stripes/brbrbkrg/) · **Stripes:** [DB R DB R DB K O DG](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="seq">DB R DB R DB K O DG</span></span>
+**Bands:** [GRKBRBRB](/stripes/grkbrbrb/) · **Stripes:** [DG O K DB R DB R DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DG O K DB R DB R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -920,8 +923,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/ly3k12db1g5db12r1k2r1~x4/"><circle cx="188.1" cy="169.7" r="4" fill="#3465a4"><title>Sandberg of Greenock (Personal)</title></circle></a><a href="/setts/s9/g14k2g4r2g4k14dp15k1w3~x2/"><circle cx="183.7" cy="165.5" r="4" fill="#3465a4"><title>MacRae Hunting #2</title></circle></a><a href="/setts/s9/t4dt16k2dt2k2dt2k13n20w4~x2/"><circle cx="133.6" cy="170.8" r="4" fill="#3465a4"><title>Royal College of Surgeons of Edinburgh</title></circle></a><a href="/setts/s8/r3g2r6g20k15g3db18w2~x2/"><circle cx="163.5" cy="187.8" r="4" fill="#3465a4"><title>Curry (Personal)</title></circle></a><a href="/setts/s7/dp6k3dp21k23w3dg24r3~x2/"><circle cx="158.0" cy="206.6" r="4" fill="#3465a4"><title>Colquhoun #3</title></circle></a><a href="/setts/s7/dp2r2dp16k17dg16k2ly2~x2/"><circle cx="172.4" cy="194.7" r="4" fill="#3465a4"><title>Zangenberg (Personal)</title></circle></a><a href="/setts/s8/r6db3r3db32k30g30ly3r3~x2/"><circle cx="138.3" cy="167.3" r="4" fill="#3465a4"><title>MacDonald of Borrodale (Clan)</title></circle></a><a href="/setts/s9/k23y2m3db7m3y2dg15m21y5~x2/"><circle cx="171.1" cy="179.2" r="4" fill="#3465a4"><title>Land's End (Unnamed Maroon)</title></circle></a><a href="/setts/s7/r2k9g12db8r1db1w1~x4/"><circle cx="170.8" cy="183.1" r="4" fill="#3465a4"><title>Genet, Citizen (Commem)</title></circle></a><a href="/setts/s9/dg14k2dg4r2dg4k14p15k1w3~x2/"><circle cx="164.9" cy="154.1" r="4" fill="#3465a4"><title>MacRae, hunting</title></circle></a><circle cx="167.7" cy="174.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/ly3k12db1g5db12r1k2r1~x4/"><circle cx="188.2" cy="169.7" r="4" fill="#3465a4"><title>Sandberg of Greenock (Personal)</title></circle></a><a href="/setts/s9/g14k2g4r2g4k14dp15k1w3~x2/"><circle cx="183.8" cy="165.5" r="4" fill="#3465a4"><title>MacRae Hunting #2</title></circle></a><a href="/setts/s9/t4dt16k2dt2k2dt2k13n20w4~x2/"><circle cx="133.8" cy="170.9" r="4" fill="#3465a4"><title>Royal College of Surgeons of Edinburgh</title></circle></a><a href="/setts/s8/r3g2r6g20k15g3db18w2~x2/"><circle cx="163.6" cy="187.8" r="4" fill="#3465a4"><title>Curry (Personal)</title></circle></a><a href="/setts/s7/dp6k3dp21k23w3dg24r3~x2/"><circle cx="158.2" cy="206.7" r="4" fill="#3465a4"><title>Colquhoun #3</title></circle></a><a href="/setts/s7/dp2r2dp16k17dg16k2ly2~x2/"><circle cx="172.5" cy="194.8" r="4" fill="#3465a4"><title>Zangenberg (Personal)</title></circle></a><a href="/setts/s8/r6db3r3db32k30g30ly3r3~x2/"><circle cx="138.5" cy="167.3" r="4" fill="#3465a4"><title>MacDonald of Borrodale (Clan)</title></circle></a><a href="/setts/s9/k23y2m3db7m3y2dg15m21y5~x2/"><circle cx="171.3" cy="179.4" r="4" fill="#3465a4"><title>Land's End (Unnamed Maroon)</title></circle></a><a href="/setts/s7/r2k9g12db8r1db1w1~x4/"><circle cx="170.9" cy="183.2" r="4" fill="#3465a4"><title>Genet, Citizen (Commem)</title></circle></a><a href="/setts/s9/dg14k2dg4r2dg4k14p15k1w3~x2/"><circle cx="165.0" cy="154.1" r="4" fill="#3465a4"><title>MacRae, hunting</title></circle></a><circle cx="167.8" cy="174.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db22r3db2r3db2k17o18dg4~x2/

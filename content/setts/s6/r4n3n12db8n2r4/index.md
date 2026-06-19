@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/
 Original link http://www.tartansauthority.com/tartan-ferret/display/8057/
 
 ## Thread count
-R/4 B2 DB8 N12 B3 R/4
+R/4 B3 N12 DB8 B2 R/4
 ![Sett](sett.png)
 
 ## Palette
@@ -25,7 +25,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "R/4 B2 DB8 N12 B3 R/4 tartan")
+![Tartan detail](tartan.png "R/4 B3 N12 DB8 B2 R/4 tartan")
 
 ## Nearest tartans
 
@@ -44,8 +44,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k4m14b2y16m3k3m3b12y4~x2/"><circle cx="201.4" cy="224.9" r="4" fill="#3465a4"><title>Crook</title></circle></a><a href="/setts/s6/db1n8w1db4m8w1~x6/"><circle cx="208.4" cy="228.8" r="4" fill="#3465a4"><title>Little's Chauffeur Drive</title></circle></a><a href="/setts/s7/dg25db4r24db21dy25db4dg3~x2/"><circle cx="170.3" cy="243.8" r="4" fill="#3465a4"><title>Orban-Prentice (Personal)</title></circle></a><a href="/setts/s5/r1dy8r2db8t1~x2/"><circle cx="274.0" cy="252.9" r="4" fill="#3465a4"><title>Unamed Riding cloak 1745</title></circle></a><a href="/setts/s6/r4b3t11db8b2r4/"><circle cx="157.6" cy="260.6" r="4" fill="#3465a4"><title>St. Edmunds (School)</title></circle></a><a href="/setts/s7/dy7r3dy9g15db19dy14r4~x2/"><circle cx="229.6" cy="279.7" r="4" fill="#3465a4"><title>Dorward/Dogwood</title></circle></a><a href="/setts/s5/n7r1dt6r8lr1~x8/"><circle cx="258.6" cy="262.9" r="4" fill="#3465a4"><title>Callum (Buchan) (Name)</title></circle></a><a href="/setts/s6/dy4dt20dy3k20o24dt3~x2/"><circle cx="217.6" cy="255.6" r="4" fill="#3465a4"><title>Edinburgh International Conference Centre, The</title></circle></a><a href="/setts/s5/k1r9n8y8w1~x2/"><circle cx="201.0" cy="236.5" r="4" fill="#3465a4"><title>Pople (Name)</title></circle></a><a href="/setts/s5/t25dg25k6dp10r6~x2/"><circle cx="163.6" cy="281.5" r="4" fill="#3465a4"><title>Breon (Jersey Shore, Pennsylvania) (Personal)</title></circle></a><circle cx="197.4" cy="265.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k4m14b2y16m3k3m3b12y4~x2/"><circle cx="201.4" cy="225.0" r="4" fill="#3465a4"><title>Crook</title></circle></a><a href="/setts/s6/db1n8w1db4m8w1~x6/"><circle cx="208.4" cy="228.8" r="4" fill="#3465a4"><title>Little's Chauffeur Drive</title></circle></a><a href="/setts/s7/dg25db4r24db21dy25db4dg3~x2/"><circle cx="170.4" cy="244.0" r="4" fill="#3465a4"><title>Orban-Prentice (Personal)</title></circle></a><a href="/setts/s5/r1dy8r2db8t1~x2/"><circle cx="274.0" cy="253.0" r="4" fill="#3465a4"><title>Unamed Riding cloak 1745</title></circle></a><a href="/setts/s6/r4b3t11db8b2r4/"><circle cx="157.6" cy="260.7" r="4" fill="#3465a4"><title>St. Edmunds (School)</title></circle></a><a href="/setts/s7/dy7r3dy9g15db19dy14r4~x2/"><circle cx="229.6" cy="279.8" r="4" fill="#3465a4"><title>Dorward/Dogwood</title></circle></a><a href="/setts/s5/n7r1dt6r8lr1~x8/"><circle cx="258.5" cy="263.0" r="4" fill="#3465a4"><title>Callum (Buchan) (Name)</title></circle></a><a href="/setts/s6/dy4dt20dy3k20o24dt3~x2/"><circle cx="217.7" cy="255.7" r="4" fill="#3465a4"><title>Edinburgh International Conference Centre, The</title></circle></a><a href="/setts/s5/k1r9n8y8w1~x2/"><circle cx="201.0" cy="236.6" r="4" fill="#3465a4"><title>Pople (Name)</title></circle></a><a href="/setts/s5/t25dg25k6dp10r6~x2/"><circle cx="163.8" cy="281.7" r="4" fill="#3465a4"><title>Breon (Jersey Shore, Pennsylvania) (Personal)</title></circle></a><circle cx="197.5" cy="265.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r4n3n12db8n2r4/

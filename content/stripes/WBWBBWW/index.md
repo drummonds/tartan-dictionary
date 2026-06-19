@@ -8,7 +8,7 @@ WBWBBWW
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/lb1b20w3db3b4lb4w1~x4/tartan.png)
+![Woven sample](/setts/s7/w1lb4b4db3w3b20lb1~x4/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ WBWBBWW
 
 | Tartans |
 |---------------|
-| [Starr](/setts/s7/lb1b20w3db3b4lb4w1~x4/)|
-|![Starr example sett](/setts/s7/lb1b20w3db3b4lb4w1~x4/sett.png)|
+| [Starr](/setts/s7/w1lb4b4db3w3b20lb1~x4/)|
+|![Starr example sett](/setts/s7/w1lb4b4db3w3b20lb1~x4/sett.png)|
 

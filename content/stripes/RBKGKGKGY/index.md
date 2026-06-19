@@ -25,11 +25,13 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 |---------------|
 | [MacDonnald of ye Ylis](/setts/s9/lr4dg30k1dg1k1dg3k12db10r3~x2/)|
 |![MacDonnald of ye Ylis example sett](/setts/s9/lr4dg30k1dg1k1dg3k12db10r3~x2/sett.png)|
+| [MacDonnald of ye Ylis](/setts/s9/lr4dg30k1dg1k1dg3k12db10r3/)|
+|![MacDonnald of ye Ylis example sett](/setts/s9/lr4dg30k1dg1k1dg3k12db10r3/sett.png)|
 
 ### R DB K G K G K G LY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DB K G K G K G LY</span></span>
 
 | Tartans |
 |---------------|
-| [Sarafilovic (Corporate)](/setts/s9/ly4g44k2g2k2g3k18db15r4~x2/)|
-|![Sarafilovic (Corporate) example sett](/setts/s9/ly4g44k2g2k2g3k18db15r4~x2/sett.png)|
+| [Sarafilovic (Corporate)](/setts/s9/r4db15k18g3k2g2k2g44ly4~x2/)|
+|![Sarafilovic (Corporate) example sett](/setts/s9/r4db15k18g3k2g2k2g44ly4~x2/sett.png)|
 

@@ -2,12 +2,18 @@
 title: "St Patrick's Krewe"
 date: 2023-03-18
 ---
-**Bands:** [GRGWGBGY](/stripes/grgwgbgy/) · **Stripes:** [DG R DG W DG DB DG LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DG R DG W DG DB DG LO</span></span>
+**Bands:** [YGBGWGRG](/stripes/ygbgwgrg/) · **Stripes:** [LO DG DB DG W DG R DG](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">LO DG DB DG W DG R DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10548
+
+## Also known as
+
+This cloth is also recorded under:
+
+- St. Patrick's Krewe
 
 ## Attestations
 
@@ -58,8 +64,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dp2r1k4ly2k12ly8k12ly2k4ly1w2~x2/"><circle cx="298.3" cy="147.5" r="4" fill="#3465a4"><title>Gary Personal Tartan Tartan Number: 564. Earliest known date: 1985 Restricted See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dg3w1dg12r6dg3k3g2~x4/"><circle cx="295.0" cy="190.6" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/setts/s8/k4lo8k26o6g15o6k26w2~x2/"><circle cx="287.6" cy="181.0" r="4" fill="#3465a4"><title>Holestone (Corporate)</title></circle></a><a href="/setts/s11/ly11k4m2k3ly2k4ly15k32ly2k5w2~x2/"><circle cx="304.5" cy="116.7" r="4" fill="#3465a4"><title>Livingston Football Club</title></circle></a><a href="/setts/s6/k17dg48ly4r10lb12dg4/"><circle cx="262.1" cy="178.1" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/setts/s5/dg62g17ly12t8o8~x2/"><circle cx="269.5" cy="199.8" r="4" fill="#3465a4"><title>Dundhuin Hunting (Personal)</title></circle></a><a href="/setts/s7/k2r1ly1y8k15y2dp1~x4/"><circle cx="310.8" cy="149.6" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><a href="/setts/s8/dg26r2dg3ly2dg8w20db3w4~x2/"><circle cx="256.6" cy="142.0" r="4" fill="#3465a4"><title>Green Mountain</title></circle></a><a href="/setts/s10/dy1w2k5dy3k1lo5k1lo11k1lo1~x4/"><circle cx="276.9" cy="162.3" r="4" fill="#3465a4"><title>Braemar or Blair Atholl Trade Tartan Tartan Number: 1741. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/k11w1k1w1k4o8r1~x8/"><circle cx="311.9" cy="182.8" r="4" fill="#3465a4"><title>Dunfermline Athletic (2008) (Corp)</title></circle></a><circle cx="294.5" cy="165.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dp2r1k4ly2k12ly8k12ly2k4ly1w2~x2/"><circle cx="298.1" cy="147.3" r="4" fill="#3465a4"><title>Gary Personal Tartan Tartan Number: 564. Earliest known date: 1985 Restricted See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dg3w1dg12r6dg3k3g2~x4/"><circle cx="295.0" cy="190.5" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/setts/s8/k4lo8k26o6g15o6k26w2~x2/"><circle cx="287.6" cy="180.9" r="4" fill="#3465a4"><title>Holestone (Corporate)</title></circle></a><a href="/setts/s11/ly11k4m2k3ly2k4ly15k32ly2k5w2~x2/"><circle cx="304.3" cy="116.6" r="4" fill="#3465a4"><title>Livingston Football Club</title></circle></a><a href="/setts/s6/k17dg48ly4r10lb12dg4/"><circle cx="262.0" cy="178.0" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/setts/s5/dg62g17ly12t8o8~x2/"><circle cx="269.4" cy="199.6" r="4" fill="#3465a4"><title>Dundhuin Hunting (Personal)</title></circle></a><a href="/setts/s7/k2r1ly1y8k15y2dp1~x4/"><circle cx="310.7" cy="149.4" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><a href="/setts/s8/dg26r2dg3ly2dg8w20db3w4~x2/"><circle cx="256.4" cy="141.8" r="4" fill="#3465a4"><title>Green Mountain</title></circle></a><a href="/setts/s10/dy1w2k5dy3k1lo5k1lo11k1lo1~x4/"><circle cx="276.6" cy="162.1" r="4" fill="#3465a4"><title>Braemar or Blair Atholl Trade Tartan Tartan Number: 1741. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/k11w1k1w1k4o8r1~x8/"><circle cx="311.8" cy="182.6" r="4" fill="#3465a4"><title>Dunfermline Athletic (2008) (Corp)</title></circle></a><circle cx="294.4" cy="164.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/dg50r5dg8w10dg8db8dg8lo21~x2/

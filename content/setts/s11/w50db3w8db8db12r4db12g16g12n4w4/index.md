@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10695
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Fothergill, Baron of Kinross
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -56,8 +62,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w50db3w8db8db12r4db12g16dg12o4w4/"><circle cx="140.1" cy="71.3" r="4" fill="#3465a4"><title>Fothergill (Personal)</title></circle></a><a href="/setts/s12/w2w1w12db6k3lt1w1lt4w2k1w1r1~x4/"><circle cx="109.2" cy="91.3" r="4" fill="#3465a4"><title>Diana Princess of Wales Memorial, The</title></circle></a><a href="/setts/s10/w4g3w19g8k1r4k1db18k1lo2~x2/"><circle cx="137.7" cy="88.4" r="4" fill="#3465a4"><title>Alberta Dress</title></circle></a><a href="/setts/s16/w48r2y5lb18w20lb8y6g2lb6y5lb4k20y8k14w24db4/"><circle cx="153.2" cy="48.3" r="4" fill="#3465a4"><title>Manhattan Financial</title></circle></a><a href="/setts/s10/w4k2w30g3dp3g3dp7db14g3r3~x2/"><circle cx="174.0" cy="84.1" r="4" fill="#3465a4"><title>Edinburgh Dress (Dance)</title></circle></a><a href="/setts/s10/w4k2w30g3p3g3p7db14g3r3~x2/"><circle cx="182.8" cy="90.1" r="4" fill="#3465a4"><title>Edinburgh, dress</title></circle></a><a href="/setts/s16/w24r1w3o9w10o4w3g1o3w3o2k10w4k7w12db2~x2/"><circle cx="155.0" cy="50.1" r="4" fill="#3465a4"><title>Manhattan Financial</title></circle></a><a href="/setts/s13/lo2w3k1db9k1t6g1t3g1t19k2w7lo1~x2/"><circle cx="206.8" cy="82.2" r="4" fill="#3465a4"><title>Cahaba Memorial</title></circle></a><a href="/setts/s10/w3k1w20dp1db6g6m3g1m1g2~x4/"><circle cx="222.7" cy="71.7" r="4" fill="#3465a4"><title>Scotland the Brave Dress (Dance)</title></circle></a><a href="/setts/s10/r2w1r1w13t12ly2k2t2k1ly1~x4/"><circle cx="159.1" cy="100.4" r="4" fill="#3465a4"><title>Jong Nederland Born Union (Corp)</title></circle></a><circle cx="135.3" cy="71.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w50db3w8db8db12r4db12g16dg12o4w4/"><circle cx="139.8" cy="71.3" r="4" fill="#3465a4"><title>Fothergill (Personal)</title></circle></a><a href="/setts/s12/w2w1w12db6k3lt1w1lt4w2k1w1r1~x4/"><circle cx="108.9" cy="91.3" r="4" fill="#3465a4"><title>Diana Princess of Wales Memorial, The</title></circle></a><a href="/setts/s10/w4g3w19g8k1r4k1db18k1lo2~x2/"><circle cx="137.5" cy="88.4" r="4" fill="#3465a4"><title>Alberta Dress</title></circle></a><a href="/setts/s16/w48r2y5lb18w20lb8y6g2lb6y5lb4k20y8k14w24db4/"><circle cx="152.9" cy="48.3" r="4" fill="#3465a4"><title>Manhattan Financial</title></circle></a><a href="/setts/s10/w4k2w30g3dp3g3dp7db14g3r3~x2/"><circle cx="173.7" cy="84.0" r="4" fill="#3465a4"><title>Edinburgh Dress (Dance)</title></circle></a><a href="/setts/s10/w4k2w30g3p3g3p7db14g3r3~x2/"><circle cx="182.5" cy="90.0" r="4" fill="#3465a4"><title>Edinburgh, dress</title></circle></a><a href="/setts/s16/w24r1w3o9w10o4w3g1o3w3o2k10w4k7w12db2~x2/"><circle cx="154.6" cy="50.1" r="4" fill="#3465a4"><title>Manhattan Financial</title></circle></a><a href="/setts/s13/lo2w3k1db9k1t6g1t3g1t19k2w7lo1~x2/"><circle cx="206.5" cy="82.1" r="4" fill="#3465a4"><title>Cahaba Memorial</title></circle></a><a href="/setts/s10/w3k1w20dp1db6g6m3g1m1g2~x4/"><circle cx="222.3" cy="71.6" r="4" fill="#3465a4"><title>Scotland the Brave Dress (Dance)</title></circle></a><a href="/setts/s10/r2w1r1w13t12ly2k2t2k1ly1~x4/"><circle cx="158.8" cy="100.4" r="4" fill="#3465a4"><title>Jong Nederland Born Union (Corp)</title></circle></a><circle cx="135.1" cy="71.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/w50db3w8db8db12r4db12g16g12n4w4/

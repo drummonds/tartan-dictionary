@@ -18,10 +18,10 @@ WKGKGKGKGKGKY
 
 
 
-### W K DG K DG K DG K DG K DG K LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W K DG K DG K DG K DG K DG K LY</span></span>
+### LY K DG K DG K DG K DG K DG K W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K DG K DG K DG K DG K DG K W</span></span>
 
 | Tartans |
 |---------------|
-| [Robieson, Graham Alexander (Personal)](/setts/s13/ly1k1dg8k1dg1k8dg1k8dg1k1dg8k1w1~x6/)|
-|![Robieson, Graham Alexander (Personal) example sett](/setts/s13/ly1k1dg8k1dg1k8dg1k8dg1k1dg8k1w1~x6/sett.png)|
+| [Robieson, Graham Alexander (Personal)](/setts/s13/w1k1dg8k1dg1k8dg1k8dg1k1dg8k1ly1~x6/)|
+|![Robieson, Graham Alexander (Personal) example sett](/setts/s13/w1k1dg8k1dg1k8dg1k8dg1k1dg8k1ly1~x6/sett.png)|
 

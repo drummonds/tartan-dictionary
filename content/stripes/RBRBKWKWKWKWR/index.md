@@ -22,6 +22,6 @@ RBRBKWKWKWKWR
 
 | Tartans |
 |---------------|
-| [Hogmany Plaid](/setts/s13/r4w13k6w6k6w6k5w1k24dt28r2dt2r4/)|
-|![Hogmany Plaid example sett](/setts/s13/r4w13k6w6k6w6k5w1k24dt28r2dt2r4/sett.png)|
+| [Hogmany Plaid](/setts/s13/r4w13k6w6k6w6k5w1k24dt28r2dt2r4~x2/)|
+|![Hogmany Plaid example sett](/setts/s13/r4w13k6w6k6w6k5w1k24dt28r2dt2r4~x2/sett.png)|
 

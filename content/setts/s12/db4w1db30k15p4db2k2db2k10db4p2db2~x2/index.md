@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -904,19 +907,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Niagara Region](/setts/s12/w4k2w2k28dt4k2dt2r1k13r1dg13r2~x2/) — ΔT 1.18
 1. [Dunlop](/setts/s8/k3r1k30w1db28r1db1w3~x2/) — ΔT 1.29
-1. [Finnie (Personal)](/setts/s8/db4w4db37k20w1dp5w1k4~x2/) — ΔT 1.31
+1. [Finnie (Personal)](/setts/s8/k4w1dp5w1k20db37w4db4~x2/) — ΔT 1.31
 1. [Home, or Hume](/setts/s8/k28r1k2r1k8db24g2db3~x2/) — ΔT 1.32
 1. [Kang (Personal)](/setts/s11/db44k3db3k3db3k14ly4k3w2k2w2~x2/) — ΔT 1.36
-1. [Scottish Bluebell (Corporate)](/setts/s13/db80k34w4b8w4k8w4b8w4k34db80w1b8/) — ΔT 1.38
-1. [Blue Brough from Orkney](/setts/s13/db4k4db2n2k4r14k4n4db23ly6db54n8k4/) — ΔT 1.39
+1. [Scottish Bluebell (Corporate)](/setts/s13/db80k34w4b8w4k8w4b8w4k34db80w1b8~x2/) — ΔT 1.38
+1. [Blue Brough from Orkney](/setts/s13/k4n8db54ly6db23n4k4r14k4n2db2k4db4/) — ΔT 1.39
 1. [Unidentified Plaid 9](/setts/s10/db26dg6db26r2dg26w1r6db2r6db13~x2/) — ΔT 1.39
 1. [Hope-Weir / Weir](/setts/s8/k8ly1k1db28k12g2k1t2~x2/) — ΔT 1.42
 1. [Historic Scotland](/setts/s9/db4w1db1w3db24y9k1y9k3~x2/) — ΔT 1.44
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w4k2w2k28dt4k2dt2r1k13r1dg13r2~x2/"><circle cx="339.7" cy="110.8" r="4" fill="#3465a4"><title>Niagara Region</title></circle></a><a href="/setts/s8/k3r1k30w1db28r1db1w3~x2/"><circle cx="359.5" cy="139.2" r="4" fill="#3465a4"><title>Dunlop</title></circle></a><a href="/setts/s8/db4w4db37k20w1dp5w1k4~x2/"><circle cx="365.4" cy="135.7" r="4" fill="#3465a4"><title>Finnie (Personal)</title></circle></a><a href="/setts/s8/k28r1k2r1k8db24g2db3~x2/"><circle cx="368.4" cy="152.7" r="4" fill="#3465a4"><title>Home, or Hume</title></circle></a><a href="/setts/s11/db44k3db3k3db3k14ly4k3w2k2w2~x2/"><circle cx="362.5" cy="110.5" r="4" fill="#3465a4"><title>Kang (Personal)</title></circle></a><a href="/setts/s13/db80k34w4b8w4k8w4b8w4k34db80w1b8/"><circle cx="391.8" cy="109.3" r="4" fill="#3465a4"><title>Scottish Bluebell (Corporate)</title></circle></a><a href="/setts/s13/db4k4db2n2k4r14k4n4db23ly6db54n8k4/"><circle cx="348.6" cy="97.4" r="4" fill="#3465a4"><title>Blue Brough from Orkney</title></circle></a><a href="/setts/s10/db26dg6db26r2dg26w1r6db2r6db13~x2/"><circle cx="353.2" cy="169.1" r="4" fill="#3465a4"><title>Unidentified Plaid 9</title></circle></a><a href="/setts/s8/k8ly1k1db28k12g2k1t2~x2/"><circle cx="320.5" cy="125.7" r="4" fill="#3465a4"><title>Hope-Weir / Weir</title></circle></a><a href="/setts/s9/db4w1db1w3db24y9k1y9k3~x2/"><circle cx="301.7" cy="137.7" r="4" fill="#3465a4"><title>Historic Scotland</title></circle></a><circle cx="365.1" cy="126.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w4k2w2k28dt4k2dt2r1k13r1dg13r2~x2/"><circle cx="339.7" cy="110.7" r="4" fill="#3465a4"><title>Niagara Region</title></circle></a><a href="/setts/s8/k3r1k30w1db28r1db1w3~x2/"><circle cx="359.5" cy="139.2" r="4" fill="#3465a4"><title>Dunlop</title></circle></a><a href="/setts/s8/k4w1dp5w1k20db37w4db4~x2/"><circle cx="365.4" cy="135.6" r="4" fill="#3465a4"><title>Finnie (Personal)</title></circle></a><a href="/setts/s8/k28r1k2r1k8db24g2db3~x2/"><circle cx="368.5" cy="152.6" r="4" fill="#3465a4"><title>Home, or Hume</title></circle></a><a href="/setts/s11/db44k3db3k3db3k14ly4k3w2k2w2~x2/"><circle cx="362.4" cy="110.3" r="4" fill="#3465a4"><title>Kang (Personal)</title></circle></a><a href="/setts/s13/db80k34w4b8w4k8w4b8w4k34db80w1b8~x2/"><circle cx="391.7" cy="109.2" r="4" fill="#3465a4"><title>Scottish Bluebell (Corporate)</title></circle></a><a href="/setts/s13/k4n8db54ly6db23n4k4r14k4n2db2k4db4/"><circle cx="348.5" cy="97.3" r="4" fill="#3465a4"><title>Blue Brough from Orkney</title></circle></a><a href="/setts/s10/db26dg6db26r2dg26w1r6db2r6db13~x2/"><circle cx="353.2" cy="169.0" r="4" fill="#3465a4"><title>Unidentified Plaid 9</title></circle></a><a href="/setts/s8/k8ly1k1db28k12g2k1t2~x2/"><circle cx="320.6" cy="125.7" r="4" fill="#3465a4"><title>Hope-Weir / Weir</title></circle></a><a href="/setts/s9/db4w1db1w3db24y9k1y9k3~x2/"><circle cx="301.7" cy="137.6" r="4" fill="#3465a4"><title>Historic Scotland</title></circle></a><circle cx="365.1" cy="126.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/db4w1db30k15p4db2k2db2k10db4p2db2~x2/

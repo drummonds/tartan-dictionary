@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/4 R4 N36 LT36 DR/72
+DR/72 LT36 N36 R4 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -901,16 +904,16 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/4 R4 N36 LT36 DR/72 tartan")
+![Tartan detail](tartan.png "DR/72 LT36 N36 R4 B/4 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Douglas Ancient Red](/setts/s5/k8lo2n30r30lb3~x2/) — ΔT 0.85
-1. [Buncle (Duns)](/setts/s5/lo9o31dg12do2n9~x2/) — ΔT 0.89
+1. [Buncle (Duns)](/setts/s5/n9do2dg12o31lo9~x2/) — ΔT 0.89
 1. [Miller, Reverend Ian (Personal](/setts/s6/dp2g18dp15r24k1ly2~x2/) — ΔT 1.07
-1. [Buncle (Name)](/setts/s5/lo9r31g12dy2t9~x2/) — ΔT 1.08
+1. [Buncle (Name)](/setts/s5/t9dy2g12r31lo9~x2/) — ΔT 1.08
 1. [Christmas](/setts/s5/ly2dg17g4r15dg1~x2/) — ΔT 1.10
 1. [MacGleish Formal (Personal)](/setts/s5/o50k25dg10o5ly2~x2/) — ΔT 1.16
 1. [Fraser Green](/setts/s6/lb2dr12g6dr1n6dr1~x4/) — ΔT 1.20
@@ -920,8 +923,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k8lo2n30r30lb3~x2/"><circle cx="284.0" cy="200.1" r="4" fill="#3465a4"><title>Douglas Ancient Red</title></circle></a><a href="/setts/s5/lo9o31dg12do2n9~x2/"><circle cx="282.6" cy="197.8" r="4" fill="#3465a4"><title>Buncle (Duns)</title></circle></a><a href="/setts/s6/dp2g18dp15r24k1ly2~x2/"><circle cx="264.9" cy="168.6" r="4" fill="#3465a4"><title>Miller, Reverend Ian (Personal</title></circle></a><a href="/setts/s5/lo9r31g12dy2t9~x2/"><circle cx="284.0" cy="198.0" r="4" fill="#3465a4"><title>Buncle (Name)</title></circle></a><a href="/setts/s5/ly2dg17g4r15dg1~x2/"><circle cx="302.2" cy="200.2" r="4" fill="#3465a4"><title>Christmas</title></circle></a><a href="/setts/s5/o50k25dg10o5ly2~x2/"><circle cx="342.1" cy="164.9" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/setts/s6/lb2dr12g6dr1n6dr1~x4/"><circle cx="288.5" cy="212.2" r="4" fill="#3465a4"><title>Fraser Green</title></circle></a><a href="/setts/s7/r3db1r12o3dg12lb1dg2~x4/"><circle cx="275.2" cy="180.8" r="4" fill="#3465a4"><title>Leckie (Personal)</title></circle></a><a href="/setts/s6/r30k8dg30b4r3b2~x2/"><circle cx="280.8" cy="187.6" r="4" fill="#3465a4"><title>Plummer Family Personal Tartan Tartan Number: 2778. Earliest known date: 2001 From a D C Dalgliesh swatch in 2001 via Phil Smith June 2004. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dt12w2dt13dg3g2r24g3~x2/"><circle cx="248.6" cy="179.7" r="4" fill="#3465a4"><title>Wellmont Foundation (Corporate)</title></circle></a><circle cx="287.3" cy="192.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k8lo2n30r30lb3~x2/"><circle cx="283.9" cy="200.2" r="4" fill="#3465a4"><title>Douglas Ancient Red</title></circle></a><a href="/setts/s5/n9do2dg12o31lo9~x2/"><circle cx="282.4" cy="197.8" r="4" fill="#3465a4"><title>Buncle (Duns)</title></circle></a><a href="/setts/s6/dp2g18dp15r24k1ly2~x2/"><circle cx="264.8" cy="168.6" r="4" fill="#3465a4"><title>Miller, Reverend Ian (Personal</title></circle></a><a href="/setts/s5/t9dy2g12r31lo9~x2/"><circle cx="283.8" cy="198.0" r="4" fill="#3465a4"><title>Buncle (Name)</title></circle></a><a href="/setts/s5/ly2dg17g4r15dg1~x2/"><circle cx="302.1" cy="200.2" r="4" fill="#3465a4"><title>Christmas</title></circle></a><a href="/setts/s5/o50k25dg10o5ly2~x2/"><circle cx="341.9" cy="164.9" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/setts/s6/lb2dr12g6dr1n6dr1~x4/"><circle cx="288.5" cy="212.1" r="4" fill="#3465a4"><title>Fraser Green</title></circle></a><a href="/setts/s7/r3db1r12o3dg12lb1dg2~x4/"><circle cx="275.0" cy="180.8" r="4" fill="#3465a4"><title>Leckie (Personal)</title></circle></a><a href="/setts/s6/r30k8dg30b4r3b2~x2/"><circle cx="280.6" cy="187.6" r="4" fill="#3465a4"><title>Plummer Family Personal Tartan Tartan Number: 2778. Earliest known date: 2001 From a D C Dalgliesh swatch in 2001 via Phil Smith June 2004. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dt12w2dt13dg3g2r24g3~x2/"><circle cx="248.5" cy="179.7" r="4" fill="#3465a4"><title>Wellmont Foundation (Corporate)</title></circle></a><circle cx="287.2" cy="192.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/dr18o9y9r1t1~x4/

@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3380
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Pride of Scotland, Platinum (Fashion
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -43,20 +49,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Pride of Scotland Contemporary](/setts/s11/k9n2o2n2k18n2k2lp1n19k33dp2~x2/) — ΔT 0.67
-1. [Martinez (2014)](/setts/s12/db6ly1r2ly1k25ly1dt2ly1k20r3k20dt6~x2/) — ΔT 0.73
+1. [Martinez (2014)](/setts/s12/dt6k20r3k20ly1dt2ly1k25ly1r2ly1db6~x2/) — ΔT 0.73
 1. [Springbank](/setts/s11/k14n2k2n5k25lo1n9lp3k3w1k14~x2/) — ΔT 0.77
-1. [Martinez (2014)](/setts/s12/b6ly1r2ly1k25ly1ly1k20b2r3k20db6~x2/) — ΔT 0.82
+1. [Martinez (2014)](/setts/s12/db6k20r3b2k20ly1ly1k25ly1r2ly1b6~x2/) — ΔT 0.82
 1. [State Seal of Wisconsin (Fashion)](/setts/s11/k49db15k2lo6k33r4k3dy8lb3db5k3~x2/) — ΔT 1.01
 1. [Springbank](/setts/s11/k14n2k2n5k25w1n9m3k3w1k14~x2/) — ΔT 1.08
-1. [Alamudi (Corporate)](/setts/s12/k13w3r3k34dg21k13dg8k5dg3k2dg1db1/) — ΔT 1.14
+1. [Alamudi (Corporate)](/setts/s12/k13w3r3k34dg21k13dg8k5dg3k2dg1db1~x2/) — ΔT 1.14
 1. [Springbank](/setts/s11/k14n2k2n5k25w1n9p3k3w1k14~x2/) — ΔT 1.16
 1. [Harley Davidson](/setts/s10/k49o8k4n6o4n6k4o8k49o2/) — ΔT 1.35
-1. [Gold-Smith (Personal)](/setts/s13/ly2k6n2k4n3k3n4k2n5k20dy2k25r2~x2/) — ΔT 1.36
+1. [Gold-Smith (Personal)](/setts/s13/r2k25dy2k20n5k2n4k3n3k4n2k6ly2~x2/) — ΔT 1.36
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k9n2o2n2k18n2k2lp1n19k33dp2~x2/"><circle cx="455.8" cy="133.5" r="4" fill="#3465a4"><title>Pride of Scotland Contemporary</title></circle></a><a href="/setts/s12/db6ly1r2ly1k25ly1dt2ly1k20r3k20dt6~x2/"><circle cx="473.0" cy="144.0" r="4" fill="#3465a4"><title>Martinez (2014)</title></circle></a><a href="/setts/s11/k14n2k2n5k25lo1n9lp3k3w1k14~x2/"><circle cx="451.5" cy="146.4" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/setts/s12/b6ly1r2ly1k25ly1ly1k20b2r3k20db6~x2/"><circle cx="451.3" cy="131.8" r="4" fill="#3465a4"><title>Martinez (2014)</title></circle></a><a href="/setts/s11/k49db15k2lo6k33r4k3dy8lb3db5k3~x2/"><circle cx="414.6" cy="122.9" r="4" fill="#3465a4"><title>State Seal of Wisconsin (Fashion)</title></circle></a><a href="/setts/s11/k14n2k2n5k25w1n9m3k3w1k14~x2/"><circle cx="476.1" cy="166.2" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/setts/s12/k13w3r3k34dg21k13dg8k5dg3k2dg1db1/"><circle cx="411.1" cy="137.7" r="4" fill="#3465a4"><title>Alamudi (Corporate)</title></circle></a><a href="/setts/s11/k14n2k2n5k25w1n9p3k3w1k14~x2/"><circle cx="467.5" cy="161.3" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/setts/s10/k49o8k4n6o4n6k4o8k49o2/"><circle cx="508.4" cy="154.9" r="4" fill="#3465a4"><title>Harley Davidson</title></circle></a><a href="/setts/s13/ly2k6n2k4n3k3n4k2n5k20dy2k25r2~x2/"><circle cx="458.5" cy="162.4" r="4" fill="#3465a4"><title>Gold-Smith (Personal)</title></circle></a><circle cx="431.3" cy="147.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k9n2o2n2k18n2k2lp1n19k33dp2~x2/"><circle cx="455.7" cy="133.4" r="4" fill="#3465a4"><title>Pride of Scotland Contemporary</title></circle></a><a href="/setts/s12/dt6k20r3k20ly1dt2ly1k25ly1r2ly1db6~x2/"><circle cx="472.9" cy="143.9" r="4" fill="#3465a4"><title>Martinez (2014)</title></circle></a><a href="/setts/s11/k14n2k2n5k25lo1n9lp3k3w1k14~x2/"><circle cx="451.4" cy="146.2" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/setts/s12/db6k20r3b2k20ly1ly1k25ly1r2ly1b6~x2/"><circle cx="451.2" cy="131.7" r="4" fill="#3465a4"><title>Martinez (2014)</title></circle></a><a href="/setts/s11/k49db15k2lo6k33r4k3dy8lb3db5k3~x2/"><circle cx="414.6" cy="122.9" r="4" fill="#3465a4"><title>State Seal of Wisconsin (Fashion)</title></circle></a><a href="/setts/s11/k14n2k2n5k25w1n9m3k3w1k14~x2/"><circle cx="476.0" cy="165.9" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/setts/s12/k13w3r3k34dg21k13dg8k5dg3k2dg1db1~x2/"><circle cx="411.0" cy="137.7" r="4" fill="#3465a4"><title>Alamudi (Corporate)</title></circle></a><a href="/setts/s11/k14n2k2n5k25w1n9p3k3w1k14~x2/"><circle cx="467.4" cy="161.0" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/setts/s10/k49o8k4n6o4n6k4o8k49o2/"><circle cx="508.2" cy="154.7" r="4" fill="#3465a4"><title>Harley Davidson</title></circle></a><a href="/setts/s13/r2k25dy2k20n5k2n4k3n3k4n2k6ly2~x2/"><circle cx="458.3" cy="162.2" r="4" fill="#3465a4"><title>Gold-Smith (Personal)</title></circle></a><circle cx="431.2" cy="147.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k10n2o2n2k14n2k2lp1n12k24m2~x2/

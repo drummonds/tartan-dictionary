@@ -20,7 +20,7 @@ GYKRYY
 
 
 
-### G LR K R LO LR <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">G LR K R LO LR</span></span>
+### LR LO R K LR G <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LR LO R K LR G</span></span>
 
 | Tartans |
 |---------------|

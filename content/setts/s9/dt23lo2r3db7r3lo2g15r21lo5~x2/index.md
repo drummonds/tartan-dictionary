@@ -2,12 +2,18 @@
 title: "Land's End Maroon"
 date: 2023-03-18
 ---
-**Bands:** [BYRBRYGRY](/stripes/byrbrygry/) · **Stripes:** [DT LO R DB R LO G R LO](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DT LO R DB R LO G R LO</span></span>
+**Bands:** [YRGYRBRYB](/stripes/yrgyrbryb/) · **Stripes:** [LO R G LO R DB R LO DT](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="seq">LO R G LO R DB R LO DT</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2042
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Land's End, Maroon
 
 ## Attestations
 
@@ -56,8 +62,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db22r3db2r3db2k17dy18g4~x2/"><circle cx="213.1" cy="197.5" r="4" fill="#3465a4"><title>Scotch House 2000 Antique</title></circle></a><a href="/setts/s8/dt10r1dt1r1dt1k6y9b2~x2/"><circle cx="204.1" cy="189.3" r="4" fill="#3465a4"><title>Antique 2000</title></circle></a><a href="/setts/s9/dg26db3r3db20r3db3r30lb3k2~x2/"><circle cx="254.4" cy="164.4" r="4" fill="#3465a4"><title>Ormiston (Personal)</title></circle></a><a href="/setts/s9/g11k2g1r4db1r4db13t2db1~x4/"><circle cx="228.4" cy="177.5" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/setts/s8/m21r3m3r3m3db19g22t3~x2/"><circle cx="180.2" cy="194.2" r="4" fill="#3465a4"><title>Akins (Clan)</title></circle></a><a href="/setts/s9/dt20b3dt4r3dt3k10g21k4r20~x2/"><circle cx="157.1" cy="217.6" r="4" fill="#3465a4"><title>Holland &amp; Sherry (Corporate)</title></circle></a><a href="/setts/s9/k23y2m3db7m3y2dg15m21y5~x2/"><circle cx="171.1" cy="179.2" r="4" fill="#3465a4"><title>Land's End (Unnamed Maroon)</title></circle></a><a href="/setts/s11/db8r4db12r1k12dg12r3dg2r1dg4w1~x2/"><circle cx="163.6" cy="174.6" r="4" fill="#3465a4"><title>MacDonell of Glengarry #2</title></circle></a><a href="/setts/s6/r1n12k6ly1do10r1~x4/"><circle cx="241.7" cy="207.8" r="4" fill="#3465a4"><title>Andover (Fashion)</title></circle></a><a href="/setts/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="235.8" cy="199.2" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><circle cx="186.0" cy="183.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db22r3db2r3db2k17dy18g4~x2/"><circle cx="213.2" cy="197.6" r="4" fill="#3465a4"><title>Scotch House 2000 Antique</title></circle></a><a href="/setts/s8/dt10r1dt1r1dt1k6y9b2~x2/"><circle cx="204.1" cy="189.4" r="4" fill="#3465a4"><title>Antique 2000</title></circle></a><a href="/setts/s9/dg26db3r3db20r3db3r30lb3k2~x2/"><circle cx="254.3" cy="164.6" r="4" fill="#3465a4"><title>Ormiston (Personal)</title></circle></a><a href="/setts/s9/g11k2g1r4db1r4db13t2db1~x4/"><circle cx="228.4" cy="177.6" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/setts/s8/m21r3m3r3m3db19g22t3~x2/"><circle cx="180.2" cy="194.3" r="4" fill="#3465a4"><title>Akins (Clan)</title></circle></a><a href="/setts/s9/dt20b3dt4r3dt3k10g21k4r20~x2/"><circle cx="157.2" cy="217.8" r="4" fill="#3465a4"><title>Holland &amp; Sherry (Corporate)</title></circle></a><a href="/setts/s9/k23y2m3db7m3y2dg15m21y5~x2/"><circle cx="171.3" cy="179.4" r="4" fill="#3465a4"><title>Land's End (Unnamed Maroon)</title></circle></a><a href="/setts/s11/db8r4db12r1k12dg12r3dg2r1dg4w1~x2/"><circle cx="163.7" cy="174.7" r="4" fill="#3465a4"><title>MacDonell of Glengarry #2</title></circle></a><a href="/setts/s6/r1n12k6ly1do10r1~x4/"><circle cx="241.7" cy="208.0" r="4" fill="#3465a4"><title>Andover (Fashion)</title></circle></a><a href="/setts/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="235.7" cy="199.3" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><circle cx="186.0" cy="183.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dt23lo2r3db7r3lo2g15r21lo5~x2/

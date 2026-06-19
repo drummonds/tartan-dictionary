@@ -22,6 +22,6 @@ RWBGYGRGBY
 
 | Tartans |
 |---------------|
-| [Lanark Highlands](/setts/s10/lo2db4g10r2g1ly1g2t3w11o2~x4/)|
-|![Lanark Highlands example sett](/setts/s10/lo2db4g10r2g1ly1g2t3w11o2~x4/sett.png)|
+| [Lanark Highlands](/setts/s10/o2w11t3g2ly1g1r2g10db4lo2~x4/)|
+|![Lanark Highlands example sett](/setts/s10/o2w11t3g2ly1g1r2g10db4lo2~x4/sett.png)|
 

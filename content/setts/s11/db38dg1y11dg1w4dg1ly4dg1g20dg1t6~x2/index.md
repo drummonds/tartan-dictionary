@@ -2,7 +2,7 @@
 title: "Manx, hunting"
 date: 2023-03-18
 ---
-**Bands:** [BGGGWGYGGGB](/stripes/bgggwgygggb/) · **Stripes:** [DB DG Y DG W DG LY DG G DG T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="seq">DB DG Y DG W DG LY DG G DG T</span></span>
+**Bands:** [BGGGYGWGGGB](/stripes/bgggygwgggb/) · **Stripes:** [T DG G DG LY DG W DG Y DG DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">T DG G DG LY DG W DG Y DG DB</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -918,8 +921,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w3b38t2k4dp4k4g30ly1g1ly2~x2/"><circle cx="262.3" cy="75.6" r="4" fill="#3465a4"><title>Pinewoods Jubilee</title></circle></a><a href="/setts/s11/k8lb1t1dy10t16p2k3n33lb1n3w2~x2/"><circle cx="238.3" cy="73.6" r="4" fill="#3465a4"><title>Lomond Mist</title></circle></a><a href="/setts/s10/db4o4w1db2o50db20ly1dg25r4k2~x2/"><circle cx="285.2" cy="59.8" r="4" fill="#3465a4"><title>Boisserolles de St-Julien, Baron of</title></circle></a><a href="/setts/s11/db38n1o11n1w4n1ly4n1y20n1t6~x2/"><circle cx="240.5" cy="67.6" r="4" fill="#3465a4"><title>Manx Hunting</title></circle></a><a href="/setts/s9/g28r4k3o2k1dg2r3db20ly2~x2/"><circle cx="234.3" cy="92.3" r="4" fill="#3465a4"><title>Stirling University Corporate Tartan Tartan Number: 2074. Earliest known date: Aug 1992 This is a simplified Stirling and Bannockburn district sett with the Universities 'Green and Grey' striped through the black. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/k8t1o1k10o16lb2k3n33t1n3w2~x2/"><circle cx="236.2" cy="70.1" r="4" fill="#3465a4"><title>Oban Mist</title></circle></a><a href="/setts/s9/lo4k1g28k6dy18lb4b41k1lb3~x2/"><circle cx="226.9" cy="101.6" r="4" fill="#3465a4"><title>State Seal of Pennsylvania (Fashion)</title></circle></a><a href="/setts/s11/k8lb1y1do10y16lb2k3n33lb1n3w2~x2/"><circle cx="250.7" cy="79.1" r="4" fill="#3465a4"><title>Oban Mist</title></circle></a><a href="/setts/s9/dg28r4k3y2k1dg2r3db20ly2~x2/"><circle cx="247.7" cy="99.5" r="4" fill="#3465a4"><title>Stirling University</title></circle></a><a href="/setts/s11/w6db1g35r6b8r6dt8db5dt4db48r2~x2/"><circle cx="245.4" cy="69.8" r="4" fill="#3465a4"><title>Coldstream</title></circle></a><circle cx="227.5" cy="63.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w3b38t2k4dp4k4g30ly1g1ly2~x2/"><circle cx="262.2" cy="75.7" r="4" fill="#3465a4"><title>Pinewoods Jubilee</title></circle></a><a href="/setts/s11/k8lb1t1dy10t16p2k3n33lb1n3w2~x2/"><circle cx="238.1" cy="73.7" r="4" fill="#3465a4"><title>Lomond Mist</title></circle></a><a href="/setts/s10/db4o4w1db2o50db20ly1dg25r4k2~x2/"><circle cx="285.0" cy="59.9" r="4" fill="#3465a4"><title>Boisserolles de St-Julien, Baron of</title></circle></a><a href="/setts/s11/db38n1o11n1w4n1ly4n1y20n1t6~x2/"><circle cx="240.4" cy="67.8" r="4" fill="#3465a4"><title>Manx Hunting</title></circle></a><a href="/setts/s9/g28r4k3o2k1dg2r3db20ly2~x2/"><circle cx="234.2" cy="92.4" r="4" fill="#3465a4"><title>Stirling University Corporate Tartan Tartan Number: 2074. Earliest known date: Aug 1992 This is a simplified Stirling and Bannockburn district sett with the Universities 'Green and Grey' striped through the black. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/k8t1o1k10o16lb2k3n33t1n3w2~x2/"><circle cx="236.1" cy="70.2" r="4" fill="#3465a4"><title>Oban Mist</title></circle></a><a href="/setts/s9/lo4k1g28k6dy18lb4b41k1lb3~x2/"><circle cx="226.8" cy="101.7" r="4" fill="#3465a4"><title>State Seal of Pennsylvania (Fashion)</title></circle></a><a href="/setts/s11/k8lb1y1do10y16lb2k3n33lb1n3w2~x2/"><circle cx="250.6" cy="79.3" r="4" fill="#3465a4"><title>Oban Mist</title></circle></a><a href="/setts/s9/dg28r4k3y2k1dg2r3db20ly2~x2/"><circle cx="247.7" cy="99.7" r="4" fill="#3465a4"><title>Stirling University</title></circle></a><a href="/setts/s11/w6db1g35r6b8r6dt8db5dt4db48r2~x2/"><circle cx="245.3" cy="70.0" r="4" fill="#3465a4"><title>Coldstream</title></circle></a><circle cx="227.4" cy="63.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db38dg1y11dg1w4dg1ly4dg1g20dg1t6~x2/

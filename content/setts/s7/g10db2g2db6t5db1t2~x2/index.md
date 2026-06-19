@@ -2,7 +2,7 @@
 title: "Unnamed, No 17"
 date: 2023-03-18
 ---
-**Bands:** [BBBBGBG](/stripes/bbbbgbg/) · **Stripes:** [T DB T DB G DB G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">T DB T DB G DB G</span></span>
+**Bands:** [GBGBBBB](/stripes/gbgbbbb/) · **Stripes:** [G DB G DB T DB T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">G DB G DB T DB T</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-Ba/4 B2 Ba10 B12 G4 B4 G/20
+G/20 B4 G4 B12 Ba10 B2 Ba/4
 ![Sett](sett.png)
 
 ## Palette
@@ -899,7 +902,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "Ba/4 B2 Ba10 B12 G4 B4 G/20 tartan")
+![Tartan detail](tartan.png "G/20 B4 G4 B12 Ba10 B2 Ba/4 tartan")
 
 ## Nearest tartans
 
@@ -911,15 +914,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Strange Of Balcaskie](/setts/s7/g32o7g7o16db32ly3o8~x2/) — ΔT 1.33
 1. [Unidentified No 17](/setts/s7/dg10db2dg2db6t5db1t2~x2/) — ΔT 1.35
 1. [Bethlehem, City of (District)](/setts/s5/db3o10g9r1g3~x4/) — ΔT 1.36
-1. [Black Watch (Aljean)](/setts/s6/b1db1b10db9g10db1~x4/) — ΔT 1.39
+1. [Black Watch (Aljean)](/setts/s6/db1g10db9b10db1b1~x4/) — ΔT 1.39
 1. [Glasgow, Rock and Wheel](/setts/s7/g25m4db24m21g25m4db2~x2/) — ΔT 1.42
 1. [Falconer of Labhdal Personal Tartan Tartan Number: 6787. Earliest known date: 2005 August This is what James K.R. Falconer calls an update of the family tartan submitted in September 2005 and is the conventional Falconer tartan as seen at #387 with an extra blue line in the centre of the green and the colours rendered in lighter shades. Woven by Drove Weaving of Langholm (Lochcarron) and organised through Pride of Lammermuir, Lady Hilary Menzies. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/k7t7g20t2g2t2g20t7k7t7~x4/) — ΔT 1.48
 1. [Universal Ancient International Tartan Tartan Number: 136. Earliest known date: Canada This design is different in warp and weft. The display gives the general appearance only. Produced to celebrate American tourism is Scotland. The colours are taken from the flags of the two nations and the Atlantic Ocean that separates them. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/t12g2t2g2t2dy8g8dy1~x2/) — ΔT 1.49
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/t7k7t7g20t2g2~x4/"><circle cx="296.6" cy="249.1" r="4" fill="#3465a4"><title>Falconer of Labhdal (Personal)</title></circle></a><a href="/setts/s8/t12dg2t2dg2t2dy8g8dy1~x2/"><circle cx="254.7" cy="218.9" r="4" fill="#3465a4"><title>Universal Ancient</title></circle></a><a href="/setts/s9/db22g3db3g3db3g9y28g3y6~x2/"><circle cx="303.8" cy="229.3" r="4" fill="#3465a4"><title>Manx Centenary</title></circle></a><a href="/setts/s7/g32o7g7o16db32ly3o8~x2/"><circle cx="238.1" cy="235.5" r="4" fill="#3465a4"><title>Strange Of Balcaskie</title></circle></a><a href="/setts/s7/dg10db2dg2db6t5db1t2~x2/"><circle cx="309.3" cy="277.2" r="4" fill="#3465a4"><title>Unidentified No 17</title></circle></a><a href="/setts/s5/db3o10g9r1g3~x4/"><circle cx="279.6" cy="255.4" r="4" fill="#3465a4"><title>Bethlehem, City of (District)</title></circle></a><a href="/setts/s6/b1db1b10db9g10db1~x4/"><circle cx="250.8" cy="258.4" r="4" fill="#3465a4"><title>Black Watch (Aljean)</title></circle></a><a href="/setts/s7/g25m4db24m21g25m4db2~x2/"><circle cx="291.5" cy="245.1" r="4" fill="#3465a4"><title>Glasgow, Rock and Wheel</title></circle></a><a href="/setts/s10/k7t7g20t2g2t2g20t7k7t7~x4/"><circle cx="289.8" cy="227.1" r="4" fill="#3465a4"><title>Falconer of Labhdal Personal Tartan Tartan Number: 6787. Earliest known date: 2005 August This is what James K.R. Falconer calls an update of the family tartan submitted in September 2005 and is the conventional Falconer tartan as seen at #387 with an extra blue line in the centre of the green and the colours rendered in lighter shades. Woven by Drove Weaving of Langholm (Lochcarron) and organised through Pride of Lammermuir, Lady Hilary Menzies. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/t12g2t2g2t2dy8g8dy1~x2/"><circle cx="265.2" cy="221.5" r="4" fill="#3465a4"><title>Universal Ancient International Tartan Tartan Number: 136. Earliest known date: Canada This design is different in warp and weft. The display gives the general appearance only. Produced to celebrate American tourism is Scotland. The colours are taken from the flags of the two nations and the Atlantic Ocean that separates them. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="276.6" cy="258.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/t7k7t7g20t2g2~x4/"><circle cx="296.5" cy="248.9" r="4" fill="#3465a4"><title>Falconer of Labhdal (Personal)</title></circle></a><a href="/setts/s8/t12dg2t2dg2t2dy8g8dy1~x2/"><circle cx="254.6" cy="218.9" r="4" fill="#3465a4"><title>Universal Ancient</title></circle></a><a href="/setts/s9/db22g3db3g3db3g9y28g3y6~x2/"><circle cx="303.7" cy="229.3" r="4" fill="#3465a4"><title>Manx Centenary</title></circle></a><a href="/setts/s7/g32o7g7o16db32ly3o8~x2/"><circle cx="238.0" cy="235.5" r="4" fill="#3465a4"><title>Strange Of Balcaskie</title></circle></a><a href="/setts/s7/dg10db2dg2db6t5db1t2~x2/"><circle cx="309.3" cy="277.2" r="4" fill="#3465a4"><title>Unidentified No 17</title></circle></a><a href="/setts/s5/db3o10g9r1g3~x4/"><circle cx="279.6" cy="255.3" r="4" fill="#3465a4"><title>Bethlehem, City of (District)</title></circle></a><a href="/setts/s6/db1g10db9b10db1b1~x4/"><circle cx="250.9" cy="258.3" r="4" fill="#3465a4"><title>Black Watch (Aljean)</title></circle></a><a href="/setts/s7/g25m4db24m21g25m4db2~x2/"><circle cx="291.4" cy="245.1" r="4" fill="#3465a4"><title>Glasgow, Rock and Wheel</title></circle></a><a href="/setts/s10/k7t7g20t2g2t2g20t7k7t7~x4/"><circle cx="289.6" cy="226.9" r="4" fill="#3465a4"><title>Falconer of Labhdal Personal Tartan Tartan Number: 6787. Earliest known date: 2005 August This is what James K.R. Falconer calls an update of the family tartan submitted in September 2005 and is the conventional Falconer tartan as seen at #387 with an extra blue line in the centre of the green and the colours rendered in lighter shades. Woven by Drove Weaving of Langholm (Lochcarron) and organised through Pride of Lammermuir, Lady Hilary Menzies. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/t12g2t2g2t2dy8g8dy1~x2/"><circle cx="265.0" cy="221.6" r="4" fill="#3465a4"><title>Universal Ancient International Tartan Tartan Number: 136. Earliest known date: Canada This design is different in warp and weft. The display gives the general appearance only. Produced to celebrate American tourism is Scotland. The colours are taken from the flags of the two nations and the Atlantic Ocean that separates them. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="276.6" cy="258.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/g10db2g2db6t5db1t2~x2/

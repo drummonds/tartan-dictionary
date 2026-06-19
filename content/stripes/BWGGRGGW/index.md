@@ -8,7 +8,7 @@ BWGGRGGW
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/db6w1y6dy12r2dy12y6w1~x4/tartan.png)
+![Woven sample](/setts/s8/db6w1y6dy12r2~x4/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ BWGGRGGW
 
 | Tartans |
 |---------------|
-| [Vass (Personal)](/setts/s8/db6w1y6dy12r2dy12y6w1~x4/)|
-|![Vass (Personal) example sett](/setts/s8/db6w1y6dy12r2dy12y6w1~x4/sett.png)|
+| [Vass (Personal)](/setts/s8/db6w1y6dy12r2~x4/)|
+|![Vass (Personal) example sett](/setts/s8/db6w1y6dy12r2~x4/sett.png)|
 

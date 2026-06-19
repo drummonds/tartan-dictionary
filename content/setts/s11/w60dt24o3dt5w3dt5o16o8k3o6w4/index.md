@@ -2,12 +2,18 @@
 title: "Glenmore Pink"
 date: 2023-03-18
 ---
-**Bands:** [WBRBWBRRKRW](/stripes/wbrbwbrrkrw/) · **Stripes:** [W DT O DT W DT O O K O W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DT O DT W DT O O K O W</span></span>
+**Bands:** [WRKRRBWBRBW](/stripes/wrkrrbwbrbw/) · **Stripes:** [W O K O O DT W DT O DT W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W O K O O DT W DT O DT W</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1429
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Glenmore, Pink
 
 ## Attestations
 
@@ -48,15 +54,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Glenmore Green](/setts/s11/w38k10do2k3w2k3y8o3k2o3w2~x2/) — ΔT 0.97
 1. [Hohenzollern](/setts/s11/k1w31k4g8r1g2dt7r4k1r4w1~x2/) — ΔT 0.97
 1. [Tweedsmuir Dress (Dance)](/setts/s10/g1y15dp1y1dp1y2dp6w15t1w1~x4/) — ΔT 0.99
-1. [Harris (Personal)](/setts/s11/lb1n3lb8r1lb1r1lb20k15lb2n8lo1~x2/) — ΔT 1.01
+1. [Harris (Personal)](/setts/s11/lo1n8lb2k15lb20r1lb1r1lb8n3lb1~x2/) — ΔT 1.01
 1. [Grant of Acharrow](/setts/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/) — ΔT 1.01
 1. [Stewart Dress MINI Tartan Tartan Number: 11790. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/w15db2k3ly1k1w1k1g3r4k1r1w1~x2/) — ΔT 1.02
 1. [Stuart/Stewart Dress Royal](/setts/s12/w31db4k6ly2k2w2k2dg7r4k2r2w2~x2/) — ΔT 1.04
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w68lr3w3lr8w3lr3o24dt16o3dt20lr3~x2/"><circle cx="234.0" cy="77.8" r="4" fill="#3465a4"><title>Ben Vorlich</title></circle></a><a href="/setts/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/"><circle cx="276.5" cy="63.7" r="4" fill="#3465a4"><title>Rothesay, Duke of</title></circle></a><a href="/setts/s10/w49dg11r2dg3w2dy10m9dg2m6w2~x2/"><circle cx="280.9" cy="72.9" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><a href="/setts/s11/w38k10do2k3w2k3y8o3k2o3w2~x2/"><circle cx="267.5" cy="73.8" r="4" fill="#3465a4"><title>Glenmore Green</title></circle></a><a href="/setts/s11/k1w31k4g8r1g2dt7r4k1r4w1~x2/"><circle cx="247.1" cy="56.7" r="4" fill="#3465a4"><title>Hohenzollern</title></circle></a><a href="/setts/s10/g1y15dp1y1dp1y2dp6w15t1w1~x4/"><circle cx="200.5" cy="103.3" r="4" fill="#3465a4"><title>Tweedsmuir Dress (Dance)</title></circle></a><a href="/setts/s11/lb1n3lb8r1lb1r1lb20k15lb2n8lo1~x2/"><circle cx="255.8" cy="101.5" r="4" fill="#3465a4"><title>Harris (Personal)</title></circle></a><a href="/setts/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="261.1" cy="80.2" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/setts/s12/w15db2k3ly1k1w1k1g3r4k1r1w1~x2/"><circle cx="200.6" cy="68.1" r="4" fill="#3465a4"><title>Stewart Dress MINI Tartan Tartan Number: 11790. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/w31db4k6ly2k2w2k2dg7r4k2r2w2~x2/"><circle cx="222.1" cy="64.1" r="4" fill="#3465a4"><title>Stuart/Stewart Dress Royal</title></circle></a><circle cx="229.9" cy="79.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w68lr3w3lr8w3lr3o24dt16o3dt20lr3~x2/"><circle cx="233.6" cy="77.7" r="4" fill="#3465a4"><title>Ben Vorlich</title></circle></a><a href="/setts/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/"><circle cx="276.0" cy="63.6" r="4" fill="#3465a4"><title>Rothesay, Duke of</title></circle></a><a href="/setts/s10/w49dg11r2dg3w2dy10m9dg2m6w2~x2/"><circle cx="280.5" cy="72.7" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><a href="/setts/s11/w38k10do2k3w2k3y8o3k2o3w2~x2/"><circle cx="267.0" cy="73.7" r="4" fill="#3465a4"><title>Glenmore Green</title></circle></a><a href="/setts/s11/k1w31k4g8r1g2dt7r4k1r4w1~x2/"><circle cx="246.7" cy="56.6" r="4" fill="#3465a4"><title>Hohenzollern</title></circle></a><a href="/setts/s10/g1y15dp1y1dp1y2dp6w15t1w1~x4/"><circle cx="200.2" cy="103.2" r="4" fill="#3465a4"><title>Tweedsmuir Dress (Dance)</title></circle></a><a href="/setts/s11/lo1n8lb2k15lb20r1lb1r1lb8n3lb1~x2/"><circle cx="255.5" cy="101.4" r="4" fill="#3465a4"><title>Harris (Personal)</title></circle></a><a href="/setts/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="260.6" cy="80.1" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/setts/s12/w15db2k3ly1k1w1k1g3r4k1r1w1~x2/"><circle cx="200.2" cy="68.0" r="4" fill="#3465a4"><title>Stewart Dress MINI Tartan Tartan Number: 11790. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/w31db4k6ly2k2w2k2dg7r4k2r2w2~x2/"><circle cx="221.7" cy="64.0" r="4" fill="#3465a4"><title>Stuart/Stewart Dress Royal</title></circle></a><circle cx="229.5" cy="79.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/w60dt24o3dt5w3dt5o16o8k3o6w4/

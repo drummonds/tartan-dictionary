@@ -2,7 +2,7 @@
 title: "Fraser of Lovat"
 date: 2023-03-18
 ---
-**Bands:** [BRBGRWRGRBRB](/stripes/brbgrwrgrbrb/) · **Stripes:** [DB R DB G R W R G R DB R DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DB G R W R G R DB R DB</span></span>
+**Bands:** [BRBRGRWRGBRB](/stripes/brbrgrwrgbrb/) · **Stripes:** [DB R DB R G R W R G DB R DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DB R G R W R G DB R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -899,7 +902,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/2 R2 B24 G24 R32 LN4 R32 G24 R2 B2 R2 B/32
+B/32 R2 B2 R2 G24 R32 LN4 R32 G24 B24 R2 B/2
 ![Sett](sett.png)
 
 ## Palette
@@ -929,8 +932,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/g2db1r16db12g16w1g16db12r16db1g2db1~x2/"><circle cx="224.2" cy="162.6" r="4" fill="#3465a4"><title>Unidentified (1996)</title></circle></a><a href="/setts/s10/r12ly4r38g25db8g10db8g8db25r3/"><circle cx="211.5" cy="183.7" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/setts/s10/r12ly4r38dg25db8dg10db8dg8db25r3/"><circle cx="215.6" cy="184.0" r="4" fill="#3465a4"><title>MacEdward (Personal)</title></circle></a><a href="/setts/s15/t3r24db4r8g32r4db4r8g4r4db32r8g4r4t2~x2/"><circle cx="252.1" cy="137.2" r="4" fill="#3465a4"><title>MacIntyre (of Gatehouse)</title></circle></a><a href="/setts/s12/db16r1db1r1g12r16g2r16g12db12r1db1~x2/"><circle cx="258.5" cy="178.9" r="4" fill="#3465a4"><title>Fraser, Stewart of Athol</title></circle></a><a href="/setts/s10/g3r2db2r14b1db4r2g12r2db2~x8/"><circle cx="278.8" cy="162.7" r="4" fill="#3465a4"><title>MacKillop (Clan)</title></circle></a><a href="/setts/s12/db10r1db1r1g10r13g2r13g10db10r1db1~x2/"><circle cx="251.7" cy="189.0" r="4" fill="#3465a4"><title>Inverness, Fencibles</title></circle></a><a href="/setts/s16/r5g16r5db4w2db4w2db4r22db4w2db4r5g16r5db2~x4/"><circle cx="209.9" cy="148.5" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s13/y20k2y2k2y2k20y20lo4y20k20y20k1lo4~x2/"><circle cx="202.7" cy="156.3" r="4" fill="#3465a4"><title>MacIsaac (Name?)</title></circle></a><a href="/setts/s10/n28r26w2n5w2r26lg28r5w2r5~x2/"><circle cx="274.0" cy="167.7" r="4" fill="#3465a4"><title>Glenfinnan (Clan?)</title></circle></a><circle cx="230.9" cy="159.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/g2db1r16db12g16w1g16db12r16db1g2db1~x2/"><circle cx="224.1" cy="162.6" r="4" fill="#3465a4"><title>Unidentified (1996)</title></circle></a><a href="/setts/s10/r12ly4r38g25db8g10db8g8db25r3/"><circle cx="211.4" cy="183.7" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/setts/s10/r12ly4r38dg25db8dg10db8dg8db25r3/"><circle cx="215.5" cy="184.0" r="4" fill="#3465a4"><title>MacEdward (Personal)</title></circle></a><a href="/setts/s15/t3r24db4r8g32r4db4r8g4r4db32r8g4r4t2~x2/"><circle cx="251.9" cy="137.2" r="4" fill="#3465a4"><title>MacIntyre (of Gatehouse)</title></circle></a><a href="/setts/s12/db16r1db1r1g12r16g2r16g12db12r1db1~x2/"><circle cx="258.3" cy="178.9" r="4" fill="#3465a4"><title>Fraser, Stewart of Athol</title></circle></a><a href="/setts/s10/g3r2db2r14b1db4r2g12r2db2~x8/"><circle cx="278.5" cy="162.6" r="4" fill="#3465a4"><title>MacKillop (Clan)</title></circle></a><a href="/setts/s12/db10r1db1r1g10r13g2r13g10db10r1db1~x2/"><circle cx="251.5" cy="189.0" r="4" fill="#3465a4"><title>Inverness, Fencibles</title></circle></a><a href="/setts/s16/r5g16r5db4w2db4w2db4r22db4w2db4r5g16r5db2~x4/"><circle cx="209.7" cy="148.5" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s13/y20k2y2k2y2k20y20lo4y20k20y20k1lo4~x2/"><circle cx="202.6" cy="156.3" r="4" fill="#3465a4"><title>MacIsaac (Name?)</title></circle></a><a href="/setts/s10/n28r26w2n5w2r26lg28r5w2r5~x2/"><circle cx="273.7" cy="167.7" r="4" fill="#3465a4"><title>Glenfinnan (Clan?)</title></circle></a><circle cx="230.7" cy="159.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/db16r1db1r1g12r16w2r16g12db12r1db1~x2/

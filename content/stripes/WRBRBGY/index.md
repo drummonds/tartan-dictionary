@@ -21,28 +21,28 @@ WRBRBGY
 Grouped by stripe pattern — the 4 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### LB R DB R DB G LY <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LB R DB R DB G LY</span></span>
-
-| Tartans |
-|---------------|
-| [Feis An Eilein (Corporate)](/setts/s7/lb2r9db8r4db8g2ly2~x4/)|
-|![Feis An Eilein (Corporate) example sett](/setts/s7/lb2r9db8r4db8g2ly2~x4/sett.png)|
-
-### W R B R B G LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W R B R B G LY</span></span>
-
-| Tartans |
-|---------------|
-| [Bathija (Name)](/setts/s7/ly4g18b4r8b8r21w1~x2/)|
-|![Bathija (Name) example sett](/setts/s7/ly4g18b4r8b8r21w1~x2/sett.png)|
-
-### W R DB O DB DG LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W R DB O DB DG LY</span></span>
+### LY DG DB O DB R W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DG DB O DB R W</span></span>
 
 | Tartans |
 |---------------|
 | [G P Bathija (Shikarpur, Sindh)](/setts/s7/ly4dg18db4o8db8r21w1~x2/)|
 |![G P Bathija (Shikarpur, Sindh) example sett](/setts/s7/ly4dg18db4o8db8r21w1~x2/sett.png)|
 
-### W R T O T G LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W R T O T G LY</span></span>
+### LY G B R B R W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY G B R B R W</span></span>
+
+| Tartans |
+|---------------|
+| [Bathija (Name)](/setts/s7/ly4g18b4r8b8r21w1~x2/)|
+|![Bathija (Name) example sett](/setts/s7/ly4g18b4r8b8r21w1~x2/sett.png)|
+
+### LY G DB R DB R LB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LY G DB R DB R LB</span></span>
+
+| Tartans |
+|---------------|
+| [Feis An Eilein (Corporate)](/setts/s7/ly2g2db8r4db8r9lb2~x4/)|
+|![Feis An Eilein (Corporate) example sett](/setts/s7/ly2g2db8r4db8r9lb2~x4/sett.png)|
+
+### LY G T O T R W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY G T O T R W</span></span>
 
 | Tartans |
 |---------------|

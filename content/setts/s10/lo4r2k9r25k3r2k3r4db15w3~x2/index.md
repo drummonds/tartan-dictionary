@@ -2,7 +2,7 @@
 title: "Golfers"
 date: 2023-03-18
 ---
-**Bands:** [WBRKRKRKRY](/stripes/wbrkrkrkry/) · **Stripes:** [W DB R K R K R K R LO](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">W DB R K R K R K R LO</span></span>
+**Bands:** [YRKRKRKRBW](/stripes/yrkrkrkrbw/) · **Stripes:** [LO R K R K R K R DB W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO R K R K R K R DB W</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/6 B30 R8 K6 R4 K6 R50 K18 R4 O/8
+O/8 R4 K18 R50 K6 R4 K6 R8 B30 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="223.0" cy="128.2" r="4" fill="#3465a4"><title>Royal &amp; Ancient/Golfing Stewart</title></circle></a><a href="/setts/s9/lo7k3db4k3r21k2r4k2w4~x2/"><circle cx="238.6" cy="145.9" r="4" fill="#3465a4"><title>Castle Stewart (District)</title></circle></a><a href="/setts/s14/r3db10n3db2n2db2r3k5r2k5r22dg2r3dg2~x2/"><circle cx="230.6" cy="119.2" r="4" fill="#3465a4"><title>Lochcarron Dress</title></circle></a><a href="/setts/s9/do47r8k22r7w3r24do9r10ly3~x2/"><circle cx="228.4" cy="142.3" r="4" fill="#3465a4"><title>Ulster Ancestry</title></circle></a><a href="/setts/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="225.8" cy="151.3" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><a href="/setts/s9/r60lo4k22g5k25t8k4r4k4~x2/"><circle cx="279.7" cy="128.2" r="4" fill="#3465a4"><title>State Seal of Alabama (Fashion)</title></circle></a><a href="/setts/s12/r21db4k5ly2k2ly2k2r7g4r2db3ly2~x2/"><circle cx="243.6" cy="118.2" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/setts/s7/k51r21ly4r12g8db4r5~x2/"><circle cx="246.7" cy="141.5" r="4" fill="#3465a4"><title>Totté (from Hofstade de Baerebeeck) (Personal)</title></circle></a><a href="/setts/s9/db3w12k11r4w2r2w2r24ly3~x2/"><circle cx="212.5" cy="125.4" r="4" fill="#3465a4"><title>Hearts Football Club (Corporate)</title></circle></a><a href="/setts/s12/n4ly2n2k5n4k4n8k6n2r32n2w4~x2/"><circle cx="219.2" cy="90.1" r="4" fill="#3465a4"><title>Orr Senior, Gerald William</title></circle></a><circle cx="218.4" cy="128.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="222.8" cy="128.2" r="4" fill="#3465a4"><title>Royal &amp; Ancient/Golfing Stewart</title></circle></a><a href="/setts/s9/lo7k3db4k3r21k2r4k2w4~x2/"><circle cx="238.4" cy="145.9" r="4" fill="#3465a4"><title>Castle Stewart (District)</title></circle></a><a href="/setts/s14/r3db10n3db2n2db2r3k5r2k5r22dg2r3dg2~x2/"><circle cx="230.4" cy="119.2" r="4" fill="#3465a4"><title>Lochcarron Dress</title></circle></a><a href="/setts/s9/do47r8k22r7w3r24do9r10ly3~x2/"><circle cx="228.2" cy="142.3" r="4" fill="#3465a4"><title>Ulster Ancestry</title></circle></a><a href="/setts/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="225.6" cy="151.2" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><a href="/setts/s9/r60lo4k22g5k25t8k4r4k4~x2/"><circle cx="279.5" cy="128.1" r="4" fill="#3465a4"><title>State Seal of Alabama (Fashion)</title></circle></a><a href="/setts/s12/r21db4k5ly2k2ly2k2r7g4r2db3ly2~x2/"><circle cx="243.3" cy="118.2" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/setts/s7/k51r21ly4r12g8db4r5~x2/"><circle cx="246.5" cy="141.4" r="4" fill="#3465a4"><title>Totté (from Hofstade de Baerebeeck) (Personal)</title></circle></a><a href="/setts/s9/db3w12k11r4w2r2w2r24ly3~x2/"><circle cx="212.2" cy="125.3" r="4" fill="#3465a4"><title>Hearts Football Club (Corporate)</title></circle></a><a href="/setts/s12/n4ly2n2k5n4k4n8k6n2r32n2w4~x2/"><circle cx="218.9" cy="90.1" r="4" fill="#3465a4"><title>Orr Senior, Gerald William</title></circle></a><circle cx="218.3" cy="128.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/lo4r2k9r25k3r2k3r4db15w3~x2/

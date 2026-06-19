@@ -2,7 +2,7 @@
 title: "Graham of Montrose - 1850 (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [KBKGWGK](/stripes/kbkgwgk/) · **Stripes:** [K DB K G W G K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB K G W G K</span></span>
+**Bands:** [KGWGKBK](/stripes/kgwgkbk/) · **Stripes:** [K G W G K DB K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K G W G K DB K</span></span>
 
 
 This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
@@ -18,7 +18,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-K/6 DB18 K18 G18 W4 G18 K/18
+K/18 G18 W4 G18 K18 DB18 K/6
 ![Sett](sett.png)
 
 ## Palette
@@ -33,7 +33,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/6 DB18 K18 G18 W4 G18 K/18 tartan")
+![Tartan detail](tartan.png "K/18 G18 W4 G18 K18 DB18 K/6 tartan")
 
 ## Nearest tartans
 
@@ -52,8 +52,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db4dg6w1dg6k6db6k2~x2/"><circle cx="161.4" cy="279.7" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/setts/s7/k13g12w2g12k13dp12k2~x2/"><circle cx="185.3" cy="266.3" r="4" fill="#3465a4"><title>MacLaggan</title></circle></a><a href="/setts/s7/k11dg12k2dg12k12dp12w3~x2/"><circle cx="164.9" cy="274.7" r="4" fill="#3465a4"><title>Wilson's No 97</title></circle></a><a href="/setts/s7/k4dg4ly1dg4k4db4k1~x2/"><circle cx="168.7" cy="305.0" r="4" fill="#3465a4"><title>MacKay Coat</title></circle></a><a href="/setts/s7/k4dg4k1dg4k4db4ly1~x2/"><circle cx="168.7" cy="305.0" r="4" fill="#3465a4"><title>Unidentified No 39</title></circle></a><a href="/setts/s7/k9g9ly2g9k9db9k3~x2/"><circle cx="128.7" cy="281.8" r="4" fill="#3465a4"><title>Campbell of Breadalbane (Clan)</title></circle></a><a href="/setts/s7/db4g6w1g6k6db6k2~x4/"><circle cx="119.6" cy="261.3" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/setts/s12/db9k9g9w2g9k9g9w2g9k9db9k3~x2/"><circle cx="123.2" cy="266.9" r="4" fill="#3465a4"><title>Graham of Montrose #2</title></circle></a><a href="/setts/s7/db4dg6lb1dg6k6db6k2~x2/"><circle cx="145.1" cy="278.6" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/setts/s7/k8dg8k1dg8k8b8w2~x2/"><circle cx="152.1" cy="252.2" r="4" fill="#3465a4"><title>Unidentified No 31</title></circle></a><circle cx="148.1" cy="288.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db4dg6w1dg6k6db6k2~x2/"><circle cx="161.7" cy="279.7" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/setts/s7/k13g12w2g12k13dp12k2~x2/"><circle cx="185.5" cy="266.3" r="4" fill="#3465a4"><title>MacLaggan</title></circle></a><a href="/setts/s7/k11dg12k2dg12k12dp12w3~x2/"><circle cx="165.1" cy="274.7" r="4" fill="#3465a4"><title>Wilson's No 97</title></circle></a><a href="/setts/s7/k4dg4ly1dg4k4db4k1~x2/"><circle cx="169.0" cy="305.0" r="4" fill="#3465a4"><title>MacKay Coat</title></circle></a><a href="/setts/s7/k4dg4k1dg4k4db4ly1~x2/"><circle cx="169.0" cy="305.0" r="4" fill="#3465a4"><title>Unidentified No 39</title></circle></a><a href="/setts/s7/k9g9ly2g9k9db9k3~x2/"><circle cx="129.0" cy="281.7" r="4" fill="#3465a4"><title>Campbell of Breadalbane (Clan)</title></circle></a><a href="/setts/s7/db4g6w1g6k6db6k2~x4/"><circle cx="119.9" cy="261.1" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/setts/s12/db9k9g9w2g9k9g9w2g9k9db9k3~x2/"><circle cx="123.4" cy="266.9" r="4" fill="#3465a4"><title>Graham of Montrose #2</title></circle></a><a href="/setts/s7/db4dg6lb1dg6k6db6k2~x2/"><circle cx="145.5" cy="278.6" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/setts/s7/k8dg8k1dg8k8b8w2~x2/"><circle cx="152.3" cy="252.1" r="4" fill="#3465a4"><title>Unidentified No 31</title></circle></a><circle cx="148.3" cy="288.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k9g9w2g9k9db9k3~x2/

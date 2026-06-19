@@ -22,6 +22,6 @@ BWKGRKRGKW
 
 | Tartans |
 |---------------|
-| [Wilson's No.194](/setts/s10/dp3w1k3g5r1k3r1g5k3w1~x2/)|
-|![Wilson's No.194 example sett](/setts/s10/dp3w1k3g5r1k3r1g5k3w1~x2/sett.png)|
+| [Wilson's No.194](/setts/s10/k3r1g5k3w1dp3~x2/)|
+|![Wilson's No.194 example sett](/setts/s10/k3r1g5k3w1dp3~x2/sett.png)|
 

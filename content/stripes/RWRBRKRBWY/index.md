@@ -22,6 +22,6 @@ RWRBRKRBWY
 
 | Tartans |
 |---------------|
-| [Stirling, Bannockburn dress](/setts/s10/ly5w3t28r5k21r5t3r5w28r5~x2/)|
-|![Stirling, Bannockburn dress example sett](/setts/s10/ly5w3t28r5k21r5t3r5w28r5~x2/sett.png)|
+| [Stirling, Bannockburn dress](/setts/s10/r5w28r5t3r5k21r5t28w3ly5~x2/)|
+|![Stirling, Bannockburn dress example sett](/setts/s10/r5w28r5t3r5k21r5t28w3ly5~x2/sett.png)|
 

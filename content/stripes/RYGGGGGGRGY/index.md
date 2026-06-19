@@ -22,6 +22,6 @@ RYGGGGGGRGY
 
 | Tartans |
 |---------------|
-| [Tasmanian](/setts/s11/ly2y4m3y4dg3y1dg1y1dg12lr1m2~x4/)|
-|![Tasmanian example sett](/setts/s11/ly2y4m3y4dg3y1dg1y1dg12lr1m2~x4/sett.png)|
+| [Tasmanian](/setts/s11/m2lr1dg12y1dg1y1dg3y4m3y4ly2~x4/)|
+|![Tasmanian example sett](/setts/s11/m2lr1dg12y1dg1y1dg3y4m3y4ly2~x4/sett.png)|
 

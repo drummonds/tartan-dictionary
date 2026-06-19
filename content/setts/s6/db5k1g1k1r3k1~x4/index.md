@@ -2,7 +2,7 @@
 title: "Clerk"
 date: 2023-03-18
 ---
-**Bands:** [BKGKRK](/stripes/bkgkrk/) · **Stripes:** [DB K G K R K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K G K R K</span></span>
+**Bands:** [KRKGKB](/stripes/krkgkb/) · **Stripes:** [K R K G K DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K R K G K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -919,15 +922,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Baillie](/setts/s7/p3k1p8k6g8k1w2~x2/) — ΔT 1.08
 1. [MacTavish #2](/setts/s6/t1r6db1t3k3t1~x8/) — ΔT 1.11
 1. [Edinburgh International Conference Centre](/setts/s6/o4db19o3k20o24db3~x2/) — ΔT 1.12
-1. [Gipsy](/setts/s9/k1r1db5r1w1r1k5r1k1~x2/) — ΔT 1.14
+1. [Gipsy](/setts/s9/k1r1k5r1w1r1db5r1k1~x2/) — ΔT 1.14
 1. [Unidentified #65](/setts/s6/dg3k20k20r20k3r3~x2/) — ΔT 1.14
 1. [MacNeil 2](/setts/s6/w2p10k10g9k3w2~x2/) — ΔT 1.19
 1. [Campbell, Sir Walter Scott](/setts/s6/k2g8db2k9p7k2~x2/) — ΔT 1.21
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db5k1dg1k1r3k1~x4/"><circle cx="195.4" cy="242.1" r="4" fill="#3465a4"><title>Clerk</title></circle></a><a href="/setts/s6/r12db3g5db16ly2g2~x2/"><circle cx="223.8" cy="209.6" r="4" fill="#3465a4"><title>Dunbog Primary (School)</title></circle></a><a href="/setts/s6/r5db35k25db8ly10r5~x2/"><circle cx="220.8" cy="221.3" r="4" fill="#3465a4"><title>University of Notre Dame</title></circle></a><a href="/setts/s7/p3k1p8k6g8k1w2~x2/"><circle cx="148.1" cy="207.4" r="4" fill="#3465a4"><title>Baillie</title></circle></a><a href="/setts/s6/t1r6db1t3k3t1~x8/"><circle cx="192.7" cy="234.6" r="4" fill="#3465a4"><title>MacTavish #2</title></circle></a><a href="/setts/s6/o4db19o3k20o24db3~x2/"><circle cx="153.2" cy="222.9" r="4" fill="#3465a4"><title>Edinburgh International Conference Centre</title></circle></a><a href="/setts/s9/k1r1db5r1w1r1k5r1k1~x2/"><circle cx="164.4" cy="201.3" r="4" fill="#3465a4"><title>Gipsy</title></circle></a><a href="/setts/s6/dg3k20k20r20k3r3~x2/"><circle cx="164.9" cy="226.6" r="4" fill="#3465a4"><title>Unidentified #65</title></circle></a><a href="/setts/s6/w2p10k10g9k3w2~x2/"><circle cx="106.8" cy="238.1" r="4" fill="#3465a4"><title>MacNeil 2</title></circle></a><a href="/setts/s6/k2g8db2k9p7k2~x2/"><circle cx="151.9" cy="255.6" r="4" fill="#3465a4"><title>Campbell, Sir Walter Scott</title></circle></a><circle cx="172.2" cy="233.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db5k1dg1k1r3k1~x4/"><circle cx="195.5" cy="242.1" r="4" fill="#3465a4"><title>Clerk</title></circle></a><a href="/setts/s6/r12db3g5db16ly2g2~x2/"><circle cx="223.9" cy="209.5" r="4" fill="#3465a4"><title>Dunbog Primary (School)</title></circle></a><a href="/setts/s6/r5db35k25db8ly10r5~x2/"><circle cx="220.8" cy="221.1" r="4" fill="#3465a4"><title>University of Notre Dame</title></circle></a><a href="/setts/s7/p3k1p8k6g8k1w2~x2/"><circle cx="148.2" cy="207.3" r="4" fill="#3465a4"><title>Baillie</title></circle></a><a href="/setts/s6/t1r6db1t3k3t1~x8/"><circle cx="192.7" cy="234.6" r="4" fill="#3465a4"><title>MacTavish #2</title></circle></a><a href="/setts/s6/o4db19o3k20o24db3~x2/"><circle cx="153.4" cy="222.8" r="4" fill="#3465a4"><title>Edinburgh International Conference Centre</title></circle></a><a href="/setts/s9/k1r1k5r1w1r1db5r1k1~x2/"><circle cx="164.5" cy="201.2" r="4" fill="#3465a4"><title>Gipsy</title></circle></a><a href="/setts/s6/dg3k20k20r20k3r3~x2/"><circle cx="165.0" cy="226.5" r="4" fill="#3465a4"><title>Unidentified #65</title></circle></a><a href="/setts/s6/w2p10k10g9k3w2~x2/"><circle cx="107.0" cy="238.0" r="4" fill="#3465a4"><title>MacNeil 2</title></circle></a><a href="/setts/s6/k2g8db2k9p7k2~x2/"><circle cx="152.2" cy="255.5" r="4" fill="#3465a4"><title>Campbell, Sir Walter Scott</title></circle></a><circle cx="172.4" cy="233.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db5k1g1k1r3k1~x4/

@@ -8,7 +8,7 @@ BRGBYBRG
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/db1r1dg6db6ly1db6r1dg1~x2/tartan.png)
+![Woven sample](/setts/s8/dg1r1db6ly1db6dg6r1db1~x2/tartan.png)
 
 
 
@@ -21,14 +21,14 @@ BRGBYBRG
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB R DG DB LY DB R DG <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">DB R DG DB LY DB R DG</span></span>
+### DG R DB LY DB DG R DB <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DG R DB LY DB DG R DB</span></span>
 
 | Tartans |
 |---------------|
-| [MacHardy](/setts/s8/db1r1dg6db6ly1db6r1dg1~x2/)|
-|![MacHardy example sett](/setts/s8/db1r1dg6db6ly1db6r1dg1~x2/sett.png)|
+| [MacHardy](/setts/s8/dg1r1db6ly1db6dg6r1db1~x2/)|
+|![MacHardy example sett](/setts/s8/dg1r1db6ly1db6dg6r1db1~x2/sett.png)|
 
-### DB R G DB LY DB R G <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB R G DB LY DB R G</span></span>
+### G R DB LY DB G R DB <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G R DB LY DB G R DB</span></span>
 
 | Tartans |
 |---------------|

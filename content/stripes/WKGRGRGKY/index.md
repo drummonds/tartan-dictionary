@@ -18,10 +18,10 @@ WKGRGRGKY
 
 
 
-### W K G R G R G K LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W K G R G R G K LY</span></span>
+### LY K G R G R G K W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K G R G R G K W</span></span>
 
 | Tartans |
 |---------------|
-| [Ellis (Personal)](/setts/s9/ly2k1g5r4g2r2g4k1w2~x6/)|
-|![Ellis (Personal) example sett](/setts/s9/ly2k1g5r4g2r2g4k1w2~x6/sett.png)|
+| [Ellis (Personal)](/setts/s9/w2k1g4r2g2r4g5k1ly2~x6/)|
+|![Ellis (Personal) example sett](/setts/s9/w2k1g4r2g2r4g5k1ly2~x6/sett.png)|
 

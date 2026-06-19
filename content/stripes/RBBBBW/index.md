@@ -8,7 +8,7 @@ RBBBBW
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/lb2dr16b3dr3b13r2~x4/tartan.png)
+![Woven sample](/setts/s6/r2b13dr3b3dr16lb2~x4/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RBBBBW
 
 | Tartans |
 |---------------|
-| [MacArthur-Fox Blue (Personal)](/setts/s6/lb2dr16b3dr3b13r2~x4/)|
-|![MacArthur-Fox Blue (Personal) example sett](/setts/s6/lb2dr16b3dr3b13r2~x4/sett.png)|
+| [MacArthur-Fox Blue (Personal)](/setts/s6/r2b13dr3b3dr16lb2~x4/)|
+|![MacArthur-Fox Blue (Personal) example sett](/setts/s6/r2b13dr3b3dr16lb2~x4/sett.png)|
 

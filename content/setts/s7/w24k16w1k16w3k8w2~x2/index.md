@@ -17,7 +17,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-W/4 K16 W6 K32 W2 K32 W/48
+W/48 K32 W2 K32 W6 K16 W/4
 ![Sett](sett.png)
 
 ## Palette
@@ -30,13 +30,13 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "W/4 K16 W6 K32 W2 K32 W/48 tartan")
+![Tartan detail](tartan.png "W/48 K32 W2 K32 W6 K16 W/4 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [St. Piran Cornish Flag](/setts/s8/r2k1w10k20w5k20w10k1~x2/) — ΔT 1.19
+1. [St. Piran Cornish Flag](/setts/s8/w5k20w10k1r2~x2/) — ΔT 1.19
 1. [MacLeod, Black & White](/setts/s5/w8k1w8k12w1~x2/) — ΔT 1.30
 1. [Cornish Flag (District)](/setts/s5/w5k20w10k1r2~x2/) — ΔT 1.33
 1. [Menzies Dress Tartan Tartan Number: 12444. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/w6k1w2k4w4k2w4k15r1~x2/) — ΔT 1.35
@@ -49,8 +49,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r2k1w10k20w5k20w10k1~x2/"><circle cx="344.9" cy="171.3" r="4" fill="#3465a4"><title>St. Piran Cornish Flag</title></circle></a><a href="/setts/s5/w8k1w8k12w1~x2/"><circle cx="320.4" cy="229.8" r="4" fill="#3465a4"><title>MacLeod, Black &amp; White</title></circle></a><a href="/setts/s5/w5k20w10k1r2~x2/"><circle cx="325.4" cy="181.8" r="4" fill="#3465a4"><title>Cornish Flag (District)</title></circle></a><a href="/setts/s9/w6k1w2k4w4k2w4k15r1~x2/"><circle cx="316.3" cy="166.6" r="4" fill="#3465a4"><title>Menzies Dress Tartan Tartan Number: 12444. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/w36k8w36k95w4k4r6/"><circle cx="346.7" cy="144.3" r="4" fill="#3465a4"><title>Gretna Football Club (Corporate)</title></circle></a><a href="/setts/s5/k22w3k3w11k1~x2/"><circle cx="413.2" cy="197.3" r="4" fill="#3465a4"><title>MacPhee MacFee or MacIver</title></circle></a><a href="/setts/s7/w5r3w35k28w4k11w2~x2/"><circle cx="302.4" cy="157.8" r="4" fill="#3465a4"><title>MacPherson of Cluny (Black and White)</title></circle></a><a href="/setts/s9/k12lr1k2lr6k4lr3k4lr21r4~x2/"><circle cx="326.3" cy="159.6" r="4" fill="#3465a4"><title>MacKnight (Name)</title></circle></a><a href="/setts/s8/lr3k24lr6k8w4k8lr35k2~x2/"><circle cx="305.2" cy="169.5" r="4" fill="#3465a4"><title>Nowell/Noel 1951 (Name)</title></circle></a><a href="/setts/s5/k27w29k5w14r2~x2/"><circle cx="300.1" cy="201.1" r="4" fill="#3465a4"><title>McPartlin (Personal)</title></circle></a><circle cx="351.0" cy="183.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w5k20w10k1r2~x2/"><circle cx="344.7" cy="170.9" r="4" fill="#3465a4"><title>St. Piran Cornish Flag</title></circle></a><a href="/setts/s5/w8k1w8k12w1~x2/"><circle cx="320.2" cy="229.4" r="4" fill="#3465a4"><title>MacLeod, Black &amp; White</title></circle></a><a href="/setts/s5/w5k20w10k1r2~x2/"><circle cx="325.2" cy="181.5" r="4" fill="#3465a4"><title>Cornish Flag (District)</title></circle></a><a href="/setts/s9/w6k1w2k4w4k2w4k15r1~x2/"><circle cx="316.1" cy="166.3" r="4" fill="#3465a4"><title>Menzies Dress Tartan Tartan Number: 12444. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/w36k8w36k95w4k4r6/"><circle cx="346.4" cy="144.0" r="4" fill="#3465a4"><title>Gretna Football Club (Corporate)</title></circle></a><a href="/setts/s5/k22w3k3w11k1~x2/"><circle cx="413.0" cy="196.9" r="4" fill="#3465a4"><title>MacPhee MacFee or MacIver</title></circle></a><a href="/setts/s7/w5r3w35k28w4k11w2~x2/"><circle cx="302.1" cy="157.5" r="4" fill="#3465a4"><title>MacPherson of Cluny (Black and White)</title></circle></a><a href="/setts/s9/k12lr1k2lr6k4lr3k4lr21r4~x2/"><circle cx="326.0" cy="159.4" r="4" fill="#3465a4"><title>MacKnight (Name)</title></circle></a><a href="/setts/s8/lr3k24lr6k8w4k8lr35k2~x2/"><circle cx="305.1" cy="169.2" r="4" fill="#3465a4"><title>Nowell/Noel 1951 (Name)</title></circle></a><a href="/setts/s5/k27w29k5w14r2~x2/"><circle cx="299.8" cy="200.8" r="4" fill="#3465a4"><title>McPartlin (Personal)</title></circle></a><circle cx="350.8" cy="183.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/w24k16w1k16w3k8w2~x2/

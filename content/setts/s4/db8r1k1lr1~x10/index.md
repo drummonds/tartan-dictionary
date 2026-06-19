@@ -2,7 +2,7 @@
 title: "Kucher, Gregory"
 date: 2023-03-18
 ---
-**Bands:** [BRKY](/stripes/brky/) · **Stripes:** [DB R K LR](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">DB R K LR</span></span>
+**Bands:** [YKRB](/stripes/ykrb/) · **Stripes:** [LR K R DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LR K R DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
@@ -45,13 +45,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Bacon, Blue](/setts/s4/db14k3r3w1~x2/) — ΔT 1.68
 1. [Waugh](/setts/s5/db100y10k5y10r8/) — ΔT 1.73
 1. [Gulfmark (Corporate)](/setts/s5/db72t6db12t17w6~x2/) — ΔT 1.77
-1. [Laing of Archiestown](/setts/s5/db19r2w2r2k2~x4/) — ΔT 1.82
 1. [Waugh (Name)](/setts/s5/db100t10k5t10r8/) — ΔT 1.82
+1. [Laing of Archiestown](/setts/s5/db19r2w2r2k2~x4/) — ΔT 1.82
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db12lb1k2db1r1~x8/"><circle cx="475.6" cy="204.4" r="4" fill="#3465a4"><title>Lochcarron (1985)</title></circle></a><a href="/setts/s6/db35w4db10m3r3m3~x4/"><circle cx="466.8" cy="193.2" r="4" fill="#3465a4"><title>Steffen, Markus (Personal)</title></circle></a><a href="/setts/s4/r2k6db33w2~x4/"><circle cx="507.8" cy="204.9" r="4" fill="#3465a4"><title>McCallie</title></circle></a><a href="/setts/s6/db9k9db9k9db42w5~x2/"><circle cx="448.5" cy="250.0" r="4" fill="#3465a4"><title>Dollar Academy (1930s) (Corporate)</title></circle></a><a href="/setts/s4/db9g16db59ly4~x2/"><circle cx="422.8" cy="230.5" r="4" fill="#3465a4"><title>Oxford University (Corporate)</title></circle></a><a href="/setts/s4/db14k3r3w1~x2/"><circle cx="412.5" cy="224.5" r="4" fill="#3465a4"><title>Bacon, Blue</title></circle></a><a href="/setts/s5/db100y10k5y10r8/"><circle cx="501.3" cy="184.8" r="4" fill="#3465a4"><title>Waugh</title></circle></a><a href="/setts/s5/db72t6db12t17w6~x2/"><circle cx="496.8" cy="233.3" r="4" fill="#3465a4"><title>Gulfmark (Corporate)</title></circle></a><a href="/setts/s5/db19r2w2r2k2~x4/"><circle cx="414.9" cy="193.8" r="4" fill="#3465a4"><title>Laing of Archiestown</title></circle></a><a href="/setts/s5/db100t10k5t10r8/"><circle cx="512.5" cy="183.7" r="4" fill="#3465a4"><title>Waugh (Name)</title></circle></a><circle cx="423.1" cy="232.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db12lb1k2db1r1~x8/"><circle cx="475.7" cy="204.1" r="4" fill="#3465a4"><title>Lochcarron (1985)</title></circle></a><a href="/setts/s6/db35w4db10m3r3m3~x4/"><circle cx="466.8" cy="192.8" r="4" fill="#3465a4"><title>Steffen, Markus (Personal)</title></circle></a><a href="/setts/s4/r2k6db33w2~x4/"><circle cx="507.7" cy="204.6" r="4" fill="#3465a4"><title>McCallie</title></circle></a><a href="/setts/s6/db9k9db9k9db42w5~x2/"><circle cx="448.5" cy="249.6" r="4" fill="#3465a4"><title>Dollar Academy (1930s) (Corporate)</title></circle></a><a href="/setts/s4/db9g16db59ly4~x2/"><circle cx="422.9" cy="230.2" r="4" fill="#3465a4"><title>Oxford University (Corporate)</title></circle></a><a href="/setts/s4/db14k3r3w1~x2/"><circle cx="412.5" cy="224.3" r="4" fill="#3465a4"><title>Bacon, Blue</title></circle></a><a href="/setts/s5/db100y10k5y10r8/"><circle cx="501.3" cy="184.5" r="4" fill="#3465a4"><title>Waugh</title></circle></a><a href="/setts/s5/db72t6db12t17w6~x2/"><circle cx="496.7" cy="232.9" r="4" fill="#3465a4"><title>Gulfmark (Corporate)</title></circle></a><a href="/setts/s5/db100t10k5t10r8/"><circle cx="512.4" cy="183.4" r="4" fill="#3465a4"><title>Waugh (Name)</title></circle></a><a href="/setts/s5/db19r2w2r2k2~x4/"><circle cx="414.8" cy="193.5" r="4" fill="#3465a4"><title>Laing of Archiestown</title></circle></a><circle cx="423.2" cy="232.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/db8r1k1lr1~x10/

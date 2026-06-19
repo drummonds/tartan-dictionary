@@ -2,7 +2,7 @@
 title: "MacAlister"
 date: 2023-03-18
 ---
-**Bands:** [RBRGRBRGRBRBRGRBRBRGRGR](/stripes/rbrgrbrgrbrbrgrbrbrgrgr/) · **Stripes:** [R T R G R T R G R T R T R G R T R DB R G R G R](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R T R G R T R G R T R T R G R T R DB R G R G R</span></span>
+**Bands:** [RGRGRBRBRGRBRBRGRBRGRBR](/stripes/rgrgrbrbrgrbrbrgrbrgrbr/) · **Stripes:** [R G R G R DB R T R G R T R T R G R T R G R T R](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G R G R DB R T R G R T R T R G R T R G R T R</span></span>
 
 
 This was sourced from weddslist.  It is a [23 band tartan](/bands/bands23/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-R/8 Ba2 R2 G12 R24 Ba2 R2 G36 R2 Ba2 R64 Ba2 R2 G36 R2 Ba2 R24 B16 R16 G16 R8 G16 R/64
+R/64 G16 R8 G16 R16 B16 R24 Ba2 R2 G36 R2 Ba2 R64 Ba2 R2 G36 R2 Ba2 R24 G12 R2 Ba2 R/8
 ![Sett](sett.png)
 
 ## Palette
@@ -906,17 +909,17 @@ The nearest existing variants by ΔTartan distance.
 1. [MacAlister CC](/setts/s23/r32dg8r4dg8r8db8r12lb1r1dg18r1lb1r32lb1r1dg18r1lb1r12dg6r1lb1r4~x2/) — ΔT 0.78
 1. [Munro](/setts/s20/r26g3r3g3r3g3r26db1ly1r3db6r3ly1db1r3g26r3db1ly1r13~x4/) — ΔT 0.85
 1. [MacAlister CC](/setts/s23/r32dg8r4dg8r8db8r12b1r1dg18r1b1r32b1r1dg18r1b1r12dg6r1b1r4~x2/) — ΔT 1.04
-1. [MacAlister CC](/setts/s23/r32dg8r4dg8r8db8r12b1r1dg18r1b1r32b1r1dg18r1b1r12dg6r1b1r4/) — ΔT 1.04
 1. [Dalziel](/setts/s17/r40w2db1r3g31r3db1w2r3db8r3w2db1r34g4r4g4~x2/) — ΔT 1.06
 1. [Munro](/setts/s20/r20g2r2g2r2g2r19db1ly1r2db4r2ly1db1r2g18r2db1ly1r19~x2/) — ΔT 1.21
 1. [Grant, or Drummond](/setts/s15/r6db2r2g24r2g2r2db8r2t1r32db2r2db1r6~x2/) — ΔT 1.21
 1. [Drummond](/setts/s15/r6b2r2g24r2g2r2b8r2t1r32b2r2b1r6~x2/) — ΔT 1.25
 1. [Munro (Logan)](/setts/s17/r19ly1db1r2g18r2db1ly1r2db4r2ly1db1r19g2r2g2~x2/) — ΔT 1.25
+1. [MacDonald of Staffa 1](/setts/s31/r16g1r1g1r1g1r1g1r6g1db1g6db1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/) — ΔT 1.30
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s23/r32dg8r4dg8r8db8r12t1r1dg18r1t1r32t1r1dg18r1t1r12dg6r1t1r4~x2/"><circle cx="401.8" cy="84.1" r="4" fill="#3465a4"><title>MacAlister (Cockburn Collection 1810-20)</title></circle></a><a href="/setts/s23/r32dg8r4dg8r8db8r12lb1r1dg18r1lb1r32lb1r1dg18r1lb1r12dg6r1lb1r4~x2/"><circle cx="395.8" cy="84.0" r="4" fill="#3465a4"><title>MacAlister CC</title></circle></a><a href="/setts/s20/r26g3r3g3r3g3r26db1ly1r3db6r3ly1db1r3g26r3db1ly1r13~x4/"><circle cx="427.8" cy="92.3" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/setts/s23/r32dg8r4dg8r8db8r12b1r1dg18r1b1r32b1r1dg18r1b1r12dg6r1b1r4~x2/"><circle cx="425.3" cy="103.7" r="4" fill="#3465a4"><title>MacAlister CC</title></circle></a><a href="/setts/s23/r32dg8r4dg8r8db8r12b1r1dg18r1b1r32b1r1dg18r1b1r12dg6r1b1r4/"><circle cx="425.3" cy="103.7" r="4" fill="#3465a4"><title>MacAlister CC</title></circle></a><a href="/setts/s17/r40w2db1r3g31r3db1w2r3db8r3w2db1r34g4r4g4~x2/"><circle cx="424.4" cy="73.0" r="4" fill="#3465a4"><title>Dalziel</title></circle></a><a href="/setts/s20/r20g2r2g2r2g2r19db1ly1r2db4r2ly1db1r2g18r2db1ly1r19~x2/"><circle cx="442.0" cy="101.5" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/setts/s15/r6db2r2g24r2g2r2db8r2t1r32db2r2db1r6~x2/"><circle cx="399.4" cy="93.9" r="4" fill="#3465a4"><title>Grant, or Drummond</title></circle></a><a href="/setts/s15/r6b2r2g24r2g2r2b8r2t1r32b2r2b1r6~x2/"><circle cx="401.4" cy="94.4" r="4" fill="#3465a4"><title>Drummond</title></circle></a><a href="/setts/s17/r19ly1db1r2g18r2db1ly1r2db4r2ly1db1r19g2r2g2~x2/"><circle cx="388.0" cy="103.7" r="4" fill="#3465a4"><title>Munro (Logan)</title></circle></a><circle cx="408.2" cy="91.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s23/r32dg8r4dg8r8db8r12t1r1dg18r1t1r32t1r1dg18r1t1r12dg6r1t1r4~x2/"><circle cx="401.2" cy="84.0" r="4" fill="#3465a4"><title>MacAlister (Cockburn Collection 1810-20)</title></circle></a><a href="/setts/s23/r32dg8r4dg8r8db8r12lb1r1dg18r1lb1r32lb1r1dg18r1lb1r12dg6r1lb1r4~x2/"><circle cx="395.3" cy="83.9" r="4" fill="#3465a4"><title>MacAlister CC</title></circle></a><a href="/setts/s20/r26g3r3g3r3g3r26db1ly1r3db6r3ly1db1r3g26r3db1ly1r13~x4/"><circle cx="427.2" cy="92.2" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/setts/s23/r32dg8r4dg8r8db8r12b1r1dg18r1b1r32b1r1dg18r1b1r12dg6r1b1r4~x2/"><circle cx="424.8" cy="103.7" r="4" fill="#3465a4"><title>MacAlister CC</title></circle></a><a href="/setts/s17/r40w2db1r3g31r3db1w2r3db8r3w2db1r34g4r4g4~x2/"><circle cx="423.8" cy="72.9" r="4" fill="#3465a4"><title>Dalziel</title></circle></a><a href="/setts/s20/r20g2r2g2r2g2r19db1ly1r2db4r2ly1db1r2g18r2db1ly1r19~x2/"><circle cx="441.4" cy="101.4" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/setts/s15/r6db2r2g24r2g2r2db8r2t1r32db2r2db1r6~x2/"><circle cx="398.9" cy="93.8" r="4" fill="#3465a4"><title>Grant, or Drummond</title></circle></a><a href="/setts/s15/r6b2r2g24r2g2r2b8r2t1r32b2r2b1r6~x2/"><circle cx="400.9" cy="94.4" r="4" fill="#3465a4"><title>Drummond</title></circle></a><a href="/setts/s17/r19ly1db1r2g18r2db1ly1r2db4r2ly1db1r19g2r2g2~x2/"><circle cx="387.5" cy="103.6" r="4" fill="#3465a4"><title>Munro (Logan)</title></circle></a><a href="/setts/s31/r16g1r1g1r1g1r1g1r6g1db1g6db1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/"><circle cx="372.4" cy="98.3" r="4" fill="#3465a4"><title>MacDonald of Staffa 1</title></circle></a><circle cx="407.6" cy="91.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s23/r32g8r4g8r8db8r12t1r1g18r1t1r32t1r1g18r1t1r12g6r1t1r4~x2/

@@ -2,12 +2,18 @@
 title: "Oliver, hunting"
 date: 2023-03-18
 ---
-**Bands:** [BGBGKGYGK](/stripes/bgbgkgygk/) · **Stripes:** [DB G DB G K G LY G K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">DB G DB G K G LY G K</span></span>
+**Bands:** [KGYGKGBGB](/stripes/kgygkgbgb/) · **Stripes:** [K G LY G K G DB G DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">K G LY G K G DB G DB</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Oliver, hunting
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,14 +925,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Gretna Green Fashion Tartan Tartan Number: 5119. Earliest known date: 01/01/1996 Designed in 1996 by Lochcarron for Tartan & Tweeds of Gretna Green. Gretna Green became famous for runaway marriages when 'irregular' marriages were banned by law in England in 1753. Couples were able to run to Scotland and become legally married by proclamation in front of two witnesses. This form of marriage was recognised worldwide. From the middle of the 18th century these marriages were in such demand that the blacksmith, conveniently situated on the crossroads at Gretna Green, became known as the 'anvil priest', giving birth to the anvil as the symbol of Gretna Green. Many couples are still married at the original smithy while many others, although married elsewhere, visit Gretna Green to take the traditional Scottish oath. The Gretna Green tartan reflects the twin influences of this history and that of the powerful border clan Johnstone, so influential in this area of Dumfriesshire, on which this tartan is based. Sample in Scottish Tartans Authority's Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/db2g2k1g30db20r2db2r2~x2/) — ΔT 1.21
 1. [Roxburgh, Green (District)](/setts/s8/db23w1db1w1db8g22r1db3~x4/) — ΔT 1.22
 1. [Chateau](/setts/s10/n36k3dy3t1dy3k3n4dy6k1t2~x4/) — ΔT 1.24
-1. [Pagus Wasia](/setts/s9/ly1db2ly1db3y19k3y1db2r1~x4/) — ΔT 1.27
+1. [Pagus Wasia](/setts/s9/r1db2y1k3y19db3ly1db2ly1~x4/) — ΔT 1.27
 1. [Roxburgh](/setts/s8/db16w1db1w1db8g16r1db2~x2/) — ΔT 1.28
 1. [Skye (Fashion)](/setts/s10/n50k12o2k2w2k2o12n7k7w2~x2/) — ΔT 1.29
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/b64k3g14k4b4k12lo4~x2/"><circle cx="413.9" cy="161.9" r="4" fill="#3465a4"><title>Murray of Elibank</title></circle></a><a href="/setts/s9/db17r3dg55db3dg4db3dg4ly3w5~x2/"><circle cx="392.4" cy="131.6" r="4" fill="#3465a4"><title>Bundanoon</title></circle></a><a href="/setts/s8/db2g2ly1g30db20r2db2r2~x2/"><circle cx="367.7" cy="141.3" r="4" fill="#3465a4"><title>Gretna Green</title></circle></a><a href="/setts/s7/g23db3k8db4g4db56ly8/"><circle cx="371.3" cy="175.0" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/setts/s8/db2g2k1g30db20r2db2r2~x2/"><circle cx="369.2" cy="142.7" r="4" fill="#3465a4"><title>Gretna Green Fashion Tartan Tartan Number: 5119. Earliest known date: 01/01/1996 Designed in 1996 by Lochcarron for Tartan &amp; Tweeds of Gretna Green. Gretna Green became famous for runaway marriages when 'irregular' marriages were banned by law in England in 1753. Couples were able to run to Scotland and become legally married by proclamation in front of two witnesses. This form of marriage was recognised worldwide. From the middle of the 18th century these marriages were in such demand that the blacksmith, conveniently situated on the crossroads at Gretna Green, became known as the 'anvil priest', giving birth to the anvil as the symbol of Gretna Green. Many couples are still married at the original smithy while many others, although married elsewhere, visit Gretna Green to take the traditional Scottish oath. The Gretna Green tartan reflects the twin influences of this history and that of the powerful border clan Johnstone, so influential in this area of Dumfriesshire, on which this tartan is based. Sample in Scottish Tartans Authority's Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db23w1db1w1db8g22r1db3~x4/"><circle cx="375.1" cy="158.0" r="4" fill="#3465a4"><title>Roxburgh, Green (District)</title></circle></a><a href="/setts/s10/n36k3dy3t1dy3k3n4dy6k1t2~x4/"><circle cx="451.3" cy="123.7" r="4" fill="#3465a4"><title>Chateau</title></circle></a><a href="/setts/s9/ly1db2ly1db3y19k3y1db2r1~x4/"><circle cx="375.7" cy="133.2" r="4" fill="#3465a4"><title>Pagus Wasia</title></circle></a><a href="/setts/s8/db16w1db1w1db8g16r1db2~x2/"><circle cx="369.6" cy="180.8" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><a href="/setts/s10/n50k12o2k2w2k2o12n7k7w2~x2/"><circle cx="344.8" cy="117.4" r="4" fill="#3465a4"><title>Skye (Fashion)</title></circle></a><circle cx="398.2" cy="139.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/b64k3g14k4b4k12lo4~x2/"><circle cx="413.7" cy="161.7" r="4" fill="#3465a4"><title>Murray of Elibank</title></circle></a><a href="/setts/s9/db17r3dg55db3dg4db3dg4ly3w5~x2/"><circle cx="392.2" cy="131.4" r="4" fill="#3465a4"><title>Bundanoon</title></circle></a><a href="/setts/s8/db2g2ly1g30db20r2db2r2~x2/"><circle cx="367.6" cy="141.2" r="4" fill="#3465a4"><title>Gretna Green</title></circle></a><a href="/setts/s7/g23db3k8db4g4db56ly8/"><circle cx="371.2" cy="174.9" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/setts/s8/db2g2k1g30db20r2db2r2~x2/"><circle cx="369.1" cy="142.5" r="4" fill="#3465a4"><title>Gretna Green Fashion Tartan Tartan Number: 5119. Earliest known date: 01/01/1996 Designed in 1996 by Lochcarron for Tartan &amp; Tweeds of Gretna Green. Gretna Green became famous for runaway marriages when 'irregular' marriages were banned by law in England in 1753. Couples were able to run to Scotland and become legally married by proclamation in front of two witnesses. This form of marriage was recognised worldwide. From the middle of the 18th century these marriages were in such demand that the blacksmith, conveniently situated on the crossroads at Gretna Green, became known as the 'anvil priest', giving birth to the anvil as the symbol of Gretna Green. Many couples are still married at the original smithy while many others, although married elsewhere, visit Gretna Green to take the traditional Scottish oath. The Gretna Green tartan reflects the twin influences of this history and that of the powerful border clan Johnstone, so influential in this area of Dumfriesshire, on which this tartan is based. Sample in Scottish Tartans Authority's Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db23w1db1w1db8g22r1db3~x4/"><circle cx="375.1" cy="157.8" r="4" fill="#3465a4"><title>Roxburgh, Green (District)</title></circle></a><a href="/setts/s10/n36k3dy3t1dy3k3n4dy6k1t2~x4/"><circle cx="451.0" cy="123.5" r="4" fill="#3465a4"><title>Chateau</title></circle></a><a href="/setts/s9/r1db2y1k3y19db3ly1db2ly1~x4/"><circle cx="375.5" cy="133.1" r="4" fill="#3465a4"><title>Pagus Wasia</title></circle></a><a href="/setts/s8/db16w1db1w1db8g16r1db2~x2/"><circle cx="369.5" cy="180.6" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><a href="/setts/s10/n50k12o2k2w2k2o12n7k7w2~x2/"><circle cx="344.6" cy="117.2" r="4" fill="#3465a4"><title>Skye (Fashion)</title></circle></a><circle cx="398.0" cy="139.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/db40g3db2g12k2g2ly2g2k3~x2/

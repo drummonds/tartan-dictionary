@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1282
 
 ## Thread count
-K/4 LN8 B4 LN58 DO40 K6 LN6 K6 Y4 K8 B4 N/24
+N/24 B4 K8 Y4 K6 LN6 K6 DO40 LN58 B4 LN8 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -42,15 +42,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Diana Pink (Commemorative)](/setts/s13/lp2w1lp12t6k3w1g1w1g4w2k1w1r1~x4/) — ΔT 0.95
 1. [Diana Memorial Rose](/setts/s13/lb4w2lb23y12k6w2lt2w2lt8w4k2w2dr2~x2/) — ΔT 0.98
 1. [State Seal of Delaware (Fashion)](/setts/s10/lb38dt18lb4ly3g10lo3g4lb3lo17r4~x2/) — ΔT 1.02
-1. [MacBean Dress](/setts/s16/g10w4r4r4g2r4r4w4g10w4t4w2t4w23k2r2~x2/) — ΔT 1.04
+1. [MacBean Dress](/setts/s16/g10w4r4r4g2r4r4w4g10w4t4w2t4w23k2r2~x2/) — ΔT 1.05
 1. [MacBean dress](/setts/s16/g10w4r4m4g2m4r4w4g10w4t4w2t4w23k2r2~x2/) — ΔT 1.08
 1. [Hutt #1 (Personal)](/setts/s11/n2ly2n1ly2n1lb15n4r1ly2dg7ly1~x4/) — ΔT 1.09
 1. [Fredericton (District)](/setts/s12/dp6t2w24r15g12t4w4t4w4t4g34ly4/) — ΔT 1.10
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/y12t2dr4ly2dr3w3dr3o20w29t2w4dr2~x2/"><circle cx="167.2" cy="86.4" r="4" fill="#3465a4"><title>MacLean of Duart 7</title></circle></a><a href="/setts/s12/y10lb2dy4ly2dy3w3dy3o18w30n2w4dy2~x2/"><circle cx="166.3" cy="67.9" r="4" fill="#3465a4"><title>MacLean of Duart Dress #4</title></circle></a><a href="/setts/s12/y10lb2dr4ly2dr3w3dr3o18w30n2w4dr2~x2/"><circle cx="163.8" cy="66.6" r="4" fill="#3465a4"><title>MacLean of Duart, dress</title></circle></a><a href="/setts/s13/lp2w1lp12t6k3w1g1w1g4w2k1w1r1~x4/"><circle cx="131.7" cy="95.0" r="4" fill="#3465a4"><title>Diana Pink (Commemorative)</title></circle></a><a href="/setts/s13/lb4w2lb23y12k6w2lt2w2lt8w4k2w2dr2~x2/"><circle cx="118.8" cy="95.5" r="4" fill="#3465a4"><title>Diana Memorial Rose</title></circle></a><a href="/setts/s10/lb38dt18lb4ly3g10lo3g4lb3lo17r4~x2/"><circle cx="177.1" cy="122.3" r="4" fill="#3465a4"><title>State Seal of Delaware (Fashion)</title></circle></a><a href="/setts/s16/g10w4r4r4g2r4r4w4g10w4t4w2t4w23k2r2~x2/"><circle cx="134.9" cy="97.4" r="4" fill="#3465a4"><title>MacBean Dress</title></circle></a><a href="/setts/s16/g10w4r4m4g2m4r4w4g10w4t4w2t4w23k2r2~x2/"><circle cx="132.0" cy="97.0" r="4" fill="#3465a4"><title>MacBean dress</title></circle></a><a href="/setts/s11/n2ly2n1ly2n1lb15n4r1ly2dg7ly1~x4/"><circle cx="182.6" cy="111.8" r="4" fill="#3465a4"><title>Hutt #1 (Personal)</title></circle></a><a href="/setts/s12/dp6t2w24r15g12t4w4t4w4t4g34ly4/"><circle cx="137.5" cy="93.7" r="4" fill="#3465a4"><title>Fredericton (District)</title></circle></a><circle cx="169.5" cy="87.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/y12t2dr4ly2dr3w3dr3o20w29t2w4dr2~x2/"><circle cx="166.8" cy="86.4" r="4" fill="#3465a4"><title>MacLean of Duart 7</title></circle></a><a href="/setts/s12/y10lb2dy4ly2dy3w3dy3o18w30n2w4dy2~x2/"><circle cx="165.9" cy="68.0" r="4" fill="#3465a4"><title>MacLean of Duart Dress #4</title></circle></a><a href="/setts/s12/y10lb2dr4ly2dr3w3dr3o18w30n2w4dr2~x2/"><circle cx="163.4" cy="66.7" r="4" fill="#3465a4"><title>MacLean of Duart, dress</title></circle></a><a href="/setts/s13/lp2w1lp12t6k3w1g1w1g4w2k1w1r1~x4/"><circle cx="131.4" cy="95.0" r="4" fill="#3465a4"><title>Diana Pink (Commemorative)</title></circle></a><a href="/setts/s13/lb4w2lb23y12k6w2lt2w2lt8w4k2w2dr2~x2/"><circle cx="118.5" cy="95.6" r="4" fill="#3465a4"><title>Diana Memorial Rose</title></circle></a><a href="/setts/s10/lb38dt18lb4ly3g10lo3g4lb3lo17r4~x2/"><circle cx="176.8" cy="122.3" r="4" fill="#3465a4"><title>State Seal of Delaware (Fashion)</title></circle></a><a href="/setts/s16/g10w4r4r4g2r4r4w4g10w4t4w2t4w23k2r2~x2/"><circle cx="134.5" cy="97.5" r="4" fill="#3465a4"><title>MacBean Dress</title></circle></a><a href="/setts/s16/g10w4r4m4g2m4r4w4g10w4t4w2t4w23k2r2~x2/"><circle cx="131.7" cy="97.1" r="4" fill="#3465a4"><title>MacBean dress</title></circle></a><a href="/setts/s11/n2ly2n1ly2n1lb15n4r1ly2dg7ly1~x4/"><circle cx="182.3" cy="111.8" r="4" fill="#3465a4"><title>Hutt #1 (Personal)</title></circle></a><a href="/setts/s12/dp6t2w24r15g12t4w4t4w4t4g34ly4/"><circle cx="137.2" cy="93.7" r="4" fill="#3465a4"><title>Fredericton (District)</title></circle></a><circle cx="169.2" cy="87.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/y12t2dy4ly2dy3w3dy3o20w29t2w4dy2~x2/

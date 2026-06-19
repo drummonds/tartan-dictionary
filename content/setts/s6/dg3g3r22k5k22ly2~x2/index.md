@@ -2,7 +2,7 @@
 title: "Clan MacLeod Society of Scotland, Centenary"
 date: 2023-03-18
 ---
-**Bands:** [GGRKKY](/stripes/ggrkky/) · **Stripes:** [DG G R K K LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DG G R K K LY</span></span>
+**Bands:** [YKKRGG](/stripes/ykkrgg/) · **Stripes:** [LY K K R G DG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="seq">LY K K R G DG</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -909,20 +912,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Barbour](/setts/s7/o4ly2o21dr11w2k20r3~x2/) — ΔT 0.73
-1. [Loch Etive](/setts/s8/lb3g2r21k26db18k2db3ly3~x2/) — ΔT 1.01
-1. [Loch Etive](/setts/s8/ly3db3k2db18k26r21g2w3~x2/) — ΔT 1.03
+1. [Loch Etive](/setts/s8/ly3db3k2db18k26r21g2lb3~x2/) — ΔT 1.01
+1. [Loch Etive](/setts/s8/w3g2r21k26db18k2db3ly3~x2/) — ΔT 1.03
 1. [Wishart Dress (Clan)](/setts/s7/k7db4r31db3ly2db27lb4~x2/) — ΔT 1.19
 1. [Wishart, dress](/setts/s7/k2db2r16db2ly1db13w2~x2/) — ΔT 1.19
 1. [Bombeiros Voluntarios De Galicia (Co](/setts/s7/r3n2r25o12k25w2lb2~x2/) — ΔT 1.23
 1. [MacLeod Society of Scotland](/setts/s6/g3g3r22k5db22ly2~x2/) — ΔT 1.25
-1. [Eichelberger (Perrsonal)](/setts/s7/k20r6ly3db24g3r8w4~x2/) — ΔT 1.31
+1. [Eichelberger (Perrsonal)](/setts/s7/k20r6ly3db24g3r8w4~x2/) — ΔT 1.32
 1. [Culloden, Grey](/setts/s8/r6db3p24w2k23y23k2y6~x2/) — ΔT 1.33
 1. [Curnow of Kernow (Personal)](/setts/s7/r3ly2dp26k13y2k8w3~x2/) — ΔT 1.34
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/o4ly2o21dr11w2k20r3~x2/"><circle cx="152.7" cy="155.7" r="4" fill="#3465a4"><title>Barbour</title></circle></a><a href="/setts/s8/lb3g2r21k26db18k2db3ly3~x2/"><circle cx="158.4" cy="135.9" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><a href="/setts/s8/ly3db3k2db18k26r21g2w3~x2/"><circle cx="153.5" cy="132.2" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><a href="/setts/s7/k7db4r31db3ly2db27lb4~x2/"><circle cx="200.2" cy="126.6" r="4" fill="#3465a4"><title>Wishart Dress (Clan)</title></circle></a><a href="/setts/s7/k2db2r16db2ly1db13w2~x2/"><circle cx="211.2" cy="121.9" r="4" fill="#3465a4"><title>Wishart, dress</title></circle></a><a href="/setts/s7/r3n2r25o12k25w2lb2~x2/"><circle cx="186.6" cy="135.2" r="4" fill="#3465a4"><title>Bombeiros Voluntarios De Galicia (Co</title></circle></a><a href="/setts/s6/g3g3r22k5db22ly2~x2/"><circle cx="188.3" cy="157.6" r="4" fill="#3465a4"><title>MacLeod Society of Scotland</title></circle></a><a href="/setts/s7/k20r6ly3db24g3r8w4~x2/"><circle cx="117.6" cy="168.5" r="4" fill="#3465a4"><title>Eichelberger (Perrsonal)</title></circle></a><a href="/setts/s8/r6db3p24w2k23y23k2y6~x2/"><circle cx="119.8" cy="140.9" r="4" fill="#3465a4"><title>Culloden, Grey</title></circle></a><a href="/setts/s7/r3ly2dp26k13y2k8w3~x2/"><circle cx="235.3" cy="151.2" r="4" fill="#3465a4"><title>Curnow of Kernow (Personal)</title></circle></a><circle cx="170.1" cy="154.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/o4ly2o21dr11w2k20r3~x2/"><circle cx="152.8" cy="155.8" r="4" fill="#3465a4"><title>Barbour</title></circle></a><a href="/setts/s8/ly3db3k2db18k26r21g2lb3~x2/"><circle cx="158.4" cy="136.0" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><a href="/setts/s8/w3g2r21k26db18k2db3ly3~x2/"><circle cx="153.5" cy="132.2" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><a href="/setts/s7/k7db4r31db3ly2db27lb4~x2/"><circle cx="200.2" cy="126.7" r="4" fill="#3465a4"><title>Wishart Dress (Clan)</title></circle></a><a href="/setts/s7/k2db2r16db2ly1db13w2~x2/"><circle cx="211.2" cy="121.9" r="4" fill="#3465a4"><title>Wishart, dress</title></circle></a><a href="/setts/s7/r3n2r25o12k25w2lb2~x2/"><circle cx="186.5" cy="135.3" r="4" fill="#3465a4"><title>Bombeiros Voluntarios De Galicia (Co</title></circle></a><a href="/setts/s6/g3g3r22k5db22ly2~x2/"><circle cx="188.3" cy="157.6" r="4" fill="#3465a4"><title>MacLeod Society of Scotland</title></circle></a><a href="/setts/s7/k20r6ly3db24g3r8w4~x2/"><circle cx="117.8" cy="168.6" r="4" fill="#3465a4"><title>Eichelberger (Perrsonal)</title></circle></a><a href="/setts/s8/r6db3p24w2k23y23k2y6~x2/"><circle cx="119.9" cy="141.0" r="4" fill="#3465a4"><title>Culloden, Grey</title></circle></a><a href="/setts/s7/r3ly2dp26k13y2k8w3~x2/"><circle cx="235.4" cy="151.2" r="4" fill="#3465a4"><title>Curnow of Kernow (Personal)</title></circle></a><circle cx="170.2" cy="154.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/dg3g3r22k5k22ly2~x2/

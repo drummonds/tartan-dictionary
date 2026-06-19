@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/10619/
 
 ## Thread count
-R/4 LN8 R4 LN18 G6 K2 G6 K52 Y8 DB14 Y/8
+Y/8 DB14 Y8 K52 G6 K2 G6 LN18 R4 LN8 R/4
 ![Sett](sett.png)
 
 ## Palette
@@ -34,7 +34,7 @@ The nearest existing variants by ΔTartan distance.
 1. [O'Keefe](/setts/s12/k8r2k3ly2k2w3k2y12o22r2o2k1~x2/) — ΔT 0.97
 1. [Royal Scottish P.B. Assoc. (Corp.)](/setts/s12/lb6k1t20r2g3r2k15r2g3r2k6ly3~x2/) — ΔT 0.98
 1. [Carr (Personal)](/setts/s11/ly2db6r5db18g18lg6g6r28lb1g3ly2~x2/) — ΔT 1.06
-1. [Aberdeen Forever (District)](/setts/s12/lb4k22o2k3o2k2o3k1o8r16w2ly4~x2/) — ΔT 1.06
+1. [Aberdeen Forever (District)](/setts/s12/ly4w2r16o8k1o3k2o2k3o2k22lb4~x2/) — ΔT 1.06
 1. [Royal Scottish Pipe Band Association](/setts/s12/lb6k1t20r2g3r2k15r2g3r2k6k3~x2/) — ΔT 1.09
 1. [Fermanagh County, Crest Range](/setts/s10/r4w6k10db5k3o16k3dg33k1w4~x2/) — ΔT 1.11
 1. [Letter Dress (2014)](/setts/s9/lb29k23lo1dg9lo2r4k14w2k4~x2/) — ΔT 1.12
@@ -42,8 +42,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dg50db12o7db12r10w7k2w7k2w7r10~x2/"><circle cx="165.0" cy="84.8" r="4" fill="#3465a4"><title>Norham and Ladykirk</title></circle></a><a href="/setts/s11/dt3db28w2ly2db1dg4dt8w3r4ly10dt2~x2/"><circle cx="198.7" cy="77.0" r="4" fill="#3465a4"><title>Colours of Hope</title></circle></a><a href="/setts/s12/k8r2k3ly2k2w3k2y12o22r2o2k1~x2/"><circle cx="172.5" cy="79.5" r="4" fill="#3465a4"><title>O'Keefe</title></circle></a><a href="/setts/s12/lb6k1t20r2g3r2k15r2g3r2k6ly3~x2/"><circle cx="135.1" cy="93.6" r="4" fill="#3465a4"><title>Royal Scottish P.B. Assoc. (Corp.)</title></circle></a><a href="/setts/s11/ly2db6r5db18g18lg6g6r28lb1g3ly2~x2/"><circle cx="162.8" cy="92.9" r="4" fill="#3465a4"><title>Carr (Personal)</title></circle></a><a href="/setts/s12/lb4k22o2k3o2k2o3k1o8r16w2ly4~x2/"><circle cx="176.8" cy="82.1" r="4" fill="#3465a4"><title>Aberdeen Forever (District)</title></circle></a><a href="/setts/s12/lb6k1t20r2g3r2k15r2g3r2k6k3~x2/"><circle cx="136.6" cy="96.5" r="4" fill="#3465a4"><title>Royal Scottish Pipe Band Association</title></circle></a><a href="/setts/s10/r4w6k10db5k3o16k3dg33k1w4~x2/"><circle cx="180.1" cy="87.5" r="4" fill="#3465a4"><title>Fermanagh County, Crest Range</title></circle></a><a href="/setts/s9/lb29k23lo1dg9lo2r4k14w2k4~x2/"><circle cx="217.2" cy="95.2" r="4" fill="#3465a4"><title>Letter Dress (2014)</title></circle></a><a href="/setts/s10/r3db36w10k8g13ly6g3ly3g3ly1~x2/"><circle cx="179.0" cy="75.3" r="4" fill="#3465a4"><title>Crookdake Cheng</title></circle></a><circle cx="163.3" cy="73.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dg50db12o7db12r10w7k2w7k2w7r10~x2/"><circle cx="164.8" cy="84.9" r="4" fill="#3465a4"><title>Norham and Ladykirk</title></circle></a><a href="/setts/s11/dt3db28w2ly2db1dg4dt8w3r4ly10dt2~x2/"><circle cx="198.6" cy="77.0" r="4" fill="#3465a4"><title>Colours of Hope</title></circle></a><a href="/setts/s12/k8r2k3ly2k2w3k2y12o22r2o2k1~x2/"><circle cx="172.4" cy="79.5" r="4" fill="#3465a4"><title>O'Keefe</title></circle></a><a href="/setts/s12/lb6k1t20r2g3r2k15r2g3r2k6ly3~x2/"><circle cx="135.0" cy="93.7" r="4" fill="#3465a4"><title>Royal Scottish P.B. Assoc. (Corp.)</title></circle></a><a href="/setts/s11/ly2db6r5db18g18lg6g6r28lb1g3ly2~x2/"><circle cx="162.7" cy="93.0" r="4" fill="#3465a4"><title>Carr (Personal)</title></circle></a><a href="/setts/s12/ly4w2r16o8k1o3k2o2k3o2k22lb4~x2/"><circle cx="176.7" cy="82.2" r="4" fill="#3465a4"><title>Aberdeen Forever (District)</title></circle></a><a href="/setts/s12/lb6k1t20r2g3r2k15r2g3r2k6k3~x2/"><circle cx="136.6" cy="96.6" r="4" fill="#3465a4"><title>Royal Scottish Pipe Band Association</title></circle></a><a href="/setts/s10/r4w6k10db5k3o16k3dg33k1w4~x2/"><circle cx="180.0" cy="87.6" r="4" fill="#3465a4"><title>Fermanagh County, Crest Range</title></circle></a><a href="/setts/s9/lb29k23lo1dg9lo2r4k14w2k4~x2/"><circle cx="217.1" cy="95.2" r="4" fill="#3465a4"><title>Letter Dress (2014)</title></circle></a><a href="/setts/s10/r3db36w10k8g13ly6g3ly3g3ly1~x2/"><circle cx="179.0" cy="75.3" r="4" fill="#3465a4"><title>Crookdake Cheng</title></circle></a><circle cx="163.2" cy="73.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/ly4db7ly4k26g3k1g3w9r2w4r2~x2/

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -901,8 +904,9 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Clergy](/setts/s17/lb1k5lb1y4lb1k26lb1k10y5k2y5k10lb1y4lb1k5lb1~x2/) — ΔT 0.19
+1. [Clergy](/setts/s17/lb1k5lb1y4lb1k26lb1k10y5k2y5k10lb1y4lb1k5lb1/) — ΔT 0.19
 1. [Clergy](/setts/s17/lr1k5lr1y4lr1k26lr1k10y5k2y5k10lr1y4lr1k5lr1~x2/) — ΔT 0.22
+1. [Clergy](/setts/s17/lr1k5lr1y4lr1k26lr1k10y5k2y5k10lr1y4lr1k5lr1/) — ΔT 0.22
 1. [Stewart Mourning](/setts/s11/k68y11k16y4k4y4k4y19k14w4k14/) — ΔT 1.36
 1. [Clergy #3](/setts/s12/k10y5k2y5k10w1k26w1y4w1k5w1~x2/) — ΔT 1.50
 1. [Clergy](/setts/s17/w2k10w2o8w1k52w2k20o10k4o10k20w2o8w2k10w1~x2/) — ΔT 1.53
@@ -910,12 +914,11 @@ The nearest existing variants by ΔTartan distance.
 1. [Grey Spencer Plaid](/setts/s11/k40y8o2y2w2y2k9w5y2w5k2~x2/) — ΔT 1.65
 1. [Glasgow Caledonian University (Corp)](/setts/s12/k4w2k25w7t1k5t2k5t1w7k26w2~x2/) — ΔT 1.72
 1. [Valdres, Kvam and Vang](/setts/s11/k4w1r4k2g2r3k2k20r2k2r2/) — ΔT 1.73
-1. [Knights Templar Dress](/setts/s22/r4k2r11k14r2w2k2r2k10w4k50w4k10r2k2w2r2k14r11k2r4w2~x2/) — ΔT 1.73
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/lb1k5lb1y4lb1k26lb1k10y5k2y5k10lb1y4lb1k5lb1~x2/"><circle cx="425.0" cy="127.3" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/setts/s17/lr1k5lr1y4lr1k26lr1k10y5k2y5k10lr1y4lr1k5lr1~x2/"><circle cx="426.3" cy="127.8" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/setts/s11/k68y11k16y4k4y4k4y19k14w4k14/"><circle cx="458.4" cy="167.6" r="4" fill="#3465a4"><title>Stewart Mourning</title></circle></a><a href="/setts/s12/k10y5k2y5k10w1k26w1y4w1k5w1~x2/"><circle cx="479.3" cy="150.7" r="4" fill="#3465a4"><title>Clergy #3</title></circle></a><a href="/setts/s17/w2k10w2o8w1k52w2k20o10k4o10k20w2o8w2k10w1~x2/"><circle cx="464.1" cy="100.5" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/setts/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="487.8" cy="124.8" r="4" fill="#3465a4"><title>Knights Templar Dress (Corporate)</title></circle></a><a href="/setts/s11/k40y8o2y2w2y2k9w5y2w5k2~x2/"><circle cx="365.9" cy="115.7" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><a href="/setts/s12/k4w2k25w7t1k5t2k5t1w7k26w2~x2/"><circle cx="436.6" cy="122.9" r="4" fill="#3465a4"><title>Glasgow Caledonian University (Corp)</title></circle></a><a href="/setts/s11/k4w1r4k2g2r3k2k20r2k2r2/"><circle cx="411.9" cy="133.4" r="4" fill="#3465a4"><title>Valdres, Kvam and Vang</title></circle></a><a href="/setts/s22/r4k2r11k14r2w2k2r2k10w4k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="417.6" cy="94.7" r="4" fill="#3465a4"><title>Knights Templar Dress</title></circle></a><circle cx="420.8" cy="124.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/lb1k5lb1y4lb1k26lb1k10y5k2y5k10lb1y4lb1k5lb1/"><circle cx="424.9" cy="127.0" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/setts/s17/lr1k5lr1y4lr1k26lr1k10y5k2y5k10lr1y4lr1k5lr1~x2/"><circle cx="426.2" cy="127.5" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/setts/s17/lr1k5lr1y4lr1k26lr1k10y5k2y5k10lr1y4lr1k5lr1/"><circle cx="426.2" cy="127.5" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/setts/s11/k68y11k16y4k4y4k4y19k14w4k14/"><circle cx="458.4" cy="167.3" r="4" fill="#3465a4"><title>Stewart Mourning</title></circle></a><a href="/setts/s12/k10y5k2y5k10w1k26w1y4w1k5w1~x2/"><circle cx="479.1" cy="150.4" r="4" fill="#3465a4"><title>Clergy #3</title></circle></a><a href="/setts/s17/w2k10w2o8w1k52w2k20o10k4o10k20w2o8w2k10w1~x2/"><circle cx="463.8" cy="100.2" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/setts/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="487.5" cy="124.5" r="4" fill="#3465a4"><title>Knights Templar Dress (Corporate)</title></circle></a><a href="/setts/s11/k40y8o2y2w2y2k9w5y2w5k2~x2/"><circle cx="365.8" cy="115.5" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><a href="/setts/s12/k4w2k25w7t1k5t2k5t1w7k26w2~x2/"><circle cx="436.4" cy="122.6" r="4" fill="#3465a4"><title>Glasgow Caledonian University (Corp)</title></circle></a><a href="/setts/s11/k4w1r4k2g2r3k2k20r2k2r2/"><circle cx="411.8" cy="133.2" r="4" fill="#3465a4"><title>Valdres, Kvam and Vang</title></circle></a><circle cx="420.7" cy="124.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s17/w1k5w1y4w1k26w1k10y5k2y5k10w1y4w1k5w1~x2/

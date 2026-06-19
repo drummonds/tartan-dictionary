@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 DB4 LN4 DB8 G8 DB60 R/40
+R/40 DB60 G8 DB8 LN4 DB4 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -900,7 +903,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/4 DB4 LN4 DB8 G8 DB60 R/40 tartan")
+![Tartan detail](tartan.png "R/40 DB60 G8 DB8 LN4 DB4 LN/4 tartan")
 
 ## Nearest tartans
 
@@ -908,7 +911,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Phantom (Corporate)](/setts/s7/w3dr10k38o11dr6k2w3~x2/) — ΔT 0.91
 1. [Universal Scientific Indust (Corp.)](/setts/s9/k38t2m24w2k16m6t2k3t5~x2/) — ΔT 1.00
-1. [Bro-Wened](/setts/s6/k43r10w3k3w15db3~x2/) — ΔT 1.04
+1. [Bro-Wened](/setts/s6/k43r10w3k3w15db3~x2/) — ΔT 1.05
 1. [Dunfermline Athletic (2008) (Corp)](/setts/s7/k11w1k1w1k4o8r1~x8/) — ΔT 1.19
 1. [Calgary Firefighters (Corporate)](/setts/s5/o4k48o16r12db3~x2/) — ΔT 1.20
 1. [Cunard o' the Clyde](/setts/s8/r10k3w1k15ly1w3k3ly1~x4/) — ΔT 1.20
@@ -919,8 +922,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w3dr10k38o11dr6k2w3~x2/"><circle cx="314.9" cy="157.0" r="4" fill="#3465a4"><title>Phantom (Corporate)</title></circle></a><a href="/setts/s9/k38t2m24w2k16m6t2k3t5~x2/"><circle cx="339.7" cy="150.3" r="4" fill="#3465a4"><title>Universal Scientific Indust (Corp.)</title></circle></a><a href="/setts/s6/k43r10w3k3w15db3~x2/"><circle cx="317.3" cy="162.4" r="4" fill="#3465a4"><title>Bro-Wened</title></circle></a><a href="/setts/s7/k11w1k1w1k4o8r1~x8/"><circle cx="311.9" cy="182.8" r="4" fill="#3465a4"><title>Dunfermline Athletic (2008) (Corp)</title></circle></a><a href="/setts/s5/o4k48o16r12db3~x2/"><circle cx="336.2" cy="189.0" r="4" fill="#3465a4"><title>Calgary Firefighters (Corporate)</title></circle></a><a href="/setts/s8/r10k3w1k15ly1w3k3ly1~x4/"><circle cx="303.5" cy="152.2" r="4" fill="#3465a4"><title>Cunard o' the Clyde</title></circle></a><a href="/setts/s6/k3db30k8w8k2r3~x2/"><circle cx="291.8" cy="168.1" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/setts/s7/r10db15g2db2w1db1w1~x4/"><circle cx="340.3" cy="170.0" r="4" fill="#3465a4"><title>Ikelman #4 (Personal)</title></circle></a><a href="/setts/s7/w3o10k38w11o6k2w3~x2/"><circle cx="286.9" cy="140.4" r="4" fill="#3465a4"><title>Phantom</title></circle></a><a href="/setts/s5/y4k48y16r12b3~x2/"><circle cx="342.6" cy="193.0" r="4" fill="#3465a4"><title>Calgary Firefighters</title></circle></a><circle cx="318.2" cy="158.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w3dr10k38o11dr6k2w3~x2/"><circle cx="314.8" cy="156.8" r="4" fill="#3465a4"><title>Phantom (Corporate)</title></circle></a><a href="/setts/s9/k38t2m24w2k16m6t2k3t5~x2/"><circle cx="339.6" cy="150.1" r="4" fill="#3465a4"><title>Universal Scientific Indust (Corp.)</title></circle></a><a href="/setts/s6/k43r10w3k3w15db3~x2/"><circle cx="317.2" cy="162.1" r="4" fill="#3465a4"><title>Bro-Wened</title></circle></a><a href="/setts/s7/k11w1k1w1k4o8r1~x8/"><circle cx="311.8" cy="182.6" r="4" fill="#3465a4"><title>Dunfermline Athletic (2008) (Corp)</title></circle></a><a href="/setts/s5/o4k48o16r12db3~x2/"><circle cx="336.1" cy="188.8" r="4" fill="#3465a4"><title>Calgary Firefighters (Corporate)</title></circle></a><a href="/setts/s8/r10k3w1k15ly1w3k3ly1~x4/"><circle cx="303.3" cy="152.0" r="4" fill="#3465a4"><title>Cunard o' the Clyde</title></circle></a><a href="/setts/s6/k3db30k8w8k2r3~x2/"><circle cx="291.8" cy="167.8" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/setts/s7/r10db15g2db2w1db1w1~x4/"><circle cx="340.3" cy="169.8" r="4" fill="#3465a4"><title>Ikelman #4 (Personal)</title></circle></a><a href="/setts/s7/w3o10k38w11o6k2w3~x2/"><circle cx="286.7" cy="140.2" r="4" fill="#3465a4"><title>Phantom</title></circle></a><a href="/setts/s5/y4k48y16r12b3~x2/"><circle cx="342.5" cy="192.8" r="4" fill="#3465a4"><title>Calgary Firefighters</title></circle></a><circle cx="318.1" cy="158.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r10k15g2k2w1k1w1~x4/

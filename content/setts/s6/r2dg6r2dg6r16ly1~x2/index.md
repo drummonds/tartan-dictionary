@@ -68,7 +68,7 @@ External register numbers recorded for this tartan.
 
 Other setts woven to the same stripe pattern.
 
-- [Cameron Clan D](/setts/s6/ly1r15dg6r1dg6r1~x2/)
+- [Cameron Clan D](/setts/s6/r1dg6r1dg6r15ly1~x2/)
 
 
 ## Thread count
@@ -94,19 +94,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Crawford](/setts/s7/r6lb2r30dg12r3dg12r3/) — ΔT 0.37
 1. [Cameron (Clan)](/setts/s6/r2g6r2g6r16ly1~x4/) — ΔT 0.45
-1. [Cameron Clan D](/setts/s6/ly1r15dg6r1dg6r1~x2/) — ΔT 0.50
+1. [Cameron Clan D](/setts/s6/r1dg6r1dg6r15ly1~x2/) — ΔT 0.50
 1. [Cameron](/setts/s6/r2g6r2g6r16ly1~x2/) — ΔT 0.65
 1. [Auld Lang Syne (red) Tartan Tartan Number: 2402. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r4g14r5k6r24g2r4~x2/) — ΔT 0.68
 1. [MacKintosh 1](/setts/s6/r22db5r2g11r3db1~x2/) — ΔT 0.89
 1. [MacKintosh 3](/setts/s6/r68db18r9g34r9db3~x2/) — ΔT 0.94
-1. [MacQuarrie](/setts/s6/r16dg1r1dg1r4dg12~x2/) — ΔT 0.97
+1. [MacQuarrie](/setts/s6/r16dg1r1dg1r4dg12/) — ΔT 0.97
 1. [Crawford](/setts/s7/r6w2r30g12r3g12r3~x2/) — ΔT 0.99
-1. [Robertson 6](/setts/s6/g1r18db4r1g10r1~x4/) — ΔT 1.02
+1. [Robertson 6](/setts/s6/r1g10r1db4r18g1~x4/) — ΔT 1.02
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r6lb2r30dg12r3dg12r3/"><circle cx="417.6" cy="193.7" r="4" fill="#3465a4"><title>Crawford</title></circle></a><a href="/setts/s6/r2g6r2g6r16ly1~x4/"><circle cx="422.2" cy="202.4" r="4" fill="#3465a4"><title>Cameron (Clan)</title></circle></a><a href="/setts/s6/ly1r15dg6r1dg6r1~x2/"><circle cx="394.8" cy="195.5" r="4" fill="#3465a4"><title>Cameron Clan D</title></circle></a><a href="/setts/s6/r2g6r2g6r16ly1~x2/"><circle cx="417.2" cy="201.0" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/setts/s7/r4g14r5k6r24g2r4~x2/"><circle cx="395.1" cy="206.0" r="4" fill="#3465a4"><title>Auld Lang Syne (red) Tartan Tartan Number: 2402. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r22db5r2g11r3db1~x2/"><circle cx="425.4" cy="185.4" r="4" fill="#3465a4"><title>MacKintosh 1</title></circle></a><a href="/setts/s6/r68db18r9g34r9db3~x2/"><circle cx="419.5" cy="188.0" r="4" fill="#3465a4"><title>MacKintosh 3</title></circle></a><a href="/setts/s6/r16dg1r1dg1r4dg12~x2/"><circle cx="452.3" cy="213.1" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><a href="/setts/s7/r6w2r30g12r3g12r3~x2/"><circle cx="411.3" cy="198.3" r="4" fill="#3465a4"><title>Crawford</title></circle></a><a href="/setts/s6/g1r18db4r1g10r1~x4/"><circle cx="398.1" cy="186.5" r="4" fill="#3465a4"><title>Robertson 6</title></circle></a><circle cx="415.0" cy="198.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r6lb2r30dg12r3dg12r3/"><circle cx="417.2" cy="193.4" r="4" fill="#3465a4"><title>Crawford</title></circle></a><a href="/setts/s6/r2g6r2g6r16ly1~x4/"><circle cx="421.8" cy="202.2" r="4" fill="#3465a4"><title>Cameron (Clan)</title></circle></a><a href="/setts/s6/r1dg6r1dg6r15ly1~x2/"><circle cx="394.4" cy="195.3" r="4" fill="#3465a4"><title>Cameron Clan D</title></circle></a><a href="/setts/s6/r2g6r2g6r16ly1~x2/"><circle cx="416.7" cy="200.8" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/setts/s7/r4g14r5k6r24g2r4~x2/"><circle cx="394.7" cy="205.8" r="4" fill="#3465a4"><title>Auld Lang Syne (red) Tartan Tartan Number: 2402. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r22db5r2g11r3db1~x2/"><circle cx="425.0" cy="185.2" r="4" fill="#3465a4"><title>MacKintosh 1</title></circle></a><a href="/setts/s6/r68db18r9g34r9db3~x2/"><circle cx="419.1" cy="187.8" r="4" fill="#3465a4"><title>MacKintosh 3</title></circle></a><a href="/setts/s6/r16dg1r1dg1r4dg12/"><circle cx="451.9" cy="212.8" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><a href="/setts/s7/r6w2r30g12r3g12r3~x2/"><circle cx="411.0" cy="198.0" r="4" fill="#3465a4"><title>Crawford</title></circle></a><a href="/setts/s6/r1g10r1db4r18g1~x4/"><circle cx="397.7" cy="186.3" r="4" fill="#3465a4"><title>Robertson 6</title></circle></a><circle cx="414.6" cy="198.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r2dg6r2dg6r16ly1~x2/

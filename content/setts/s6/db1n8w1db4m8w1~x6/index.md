@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5905
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Little's
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -51,8 +57,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/n32w4n4k24dp29k4/"><circle cx="207.4" cy="228.9" r="4" fill="#3465a4"><title>Grammar School at Leeds (School)</title></circle></a><a href="/setts/s8/dp11dy2dp2dy2dp2dy11dg14w2~x2/"><circle cx="201.9" cy="227.6" r="4" fill="#3465a4"><title>Lamont #2</title></circle></a><a href="/setts/s9/k4m14b2y16m3k3m3b12y4~x2/"><circle cx="201.4" cy="224.9" r="4" fill="#3465a4"><title>Crook</title></circle></a><a href="/setts/s8/m21r3m3r3m3db19g22t3~x2/"><circle cx="180.2" cy="194.2" r="4" fill="#3465a4"><title>Akins (Clan)</title></circle></a><a href="/setts/s6/r4n3n12db8n2r4/"><circle cx="197.4" cy="265.4" r="4" fill="#3465a4"><title>Bristol Gramar School Check (School)</title></circle></a><a href="/setts/s6/db1o8w1db4r8w1~x6/"><circle cx="184.0" cy="208.6" r="4" fill="#3465a4"><title>Little's (Corporate)</title></circle></a><a href="/setts/s8/r33dg17db50dg17r11dg17r9k7/"><circle cx="171.9" cy="225.9" r="4" fill="#3465a4"><title>Carnegie #3</title></circle></a><a href="/setts/s6/t1r6db1t3k3t1~x8/"><circle cx="192.7" cy="234.6" r="4" fill="#3465a4"><title>MacTavish #2</title></circle></a><a href="/setts/s5/r1dy8r2db8t1~x2/"><circle cx="274.0" cy="252.9" r="4" fill="#3465a4"><title>Unamed Riding cloak 1745</title></circle></a><a href="/setts/s8/p11o2p2o2p2o11g14w2~x2/"><circle cx="187.3" cy="211.2" r="4" fill="#3465a4"><title>Lamont</title></circle></a><circle cx="208.4" cy="228.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/n32w4n4k24dp29k4/"><circle cx="207.5" cy="228.9" r="4" fill="#3465a4"><title>Grammar School at Leeds (School)</title></circle></a><a href="/setts/s8/dp11dy2dp2dy2dp2dy11dg14w2~x2/"><circle cx="202.0" cy="227.7" r="4" fill="#3465a4"><title>Lamont #2</title></circle></a><a href="/setts/s9/k4m14b2y16m3k3m3b12y4~x2/"><circle cx="201.4" cy="225.0" r="4" fill="#3465a4"><title>Crook</title></circle></a><a href="/setts/s8/m21r3m3r3m3db19g22t3~x2/"><circle cx="180.2" cy="194.3" r="4" fill="#3465a4"><title>Akins (Clan)</title></circle></a><a href="/setts/s6/r4n3n12db8n2r4/"><circle cx="197.5" cy="265.4" r="4" fill="#3465a4"><title>Bristol Gramar School Check (School)</title></circle></a><a href="/setts/s6/db1o8w1db4r8w1~x6/"><circle cx="183.9" cy="208.6" r="4" fill="#3465a4"><title>Little's (Corporate)</title></circle></a><a href="/setts/s8/r33dg17db50dg17r11dg17r9k7/"><circle cx="171.9" cy="226.0" r="4" fill="#3465a4"><title>Carnegie #3</title></circle></a><a href="/setts/s6/t1r6db1t3k3t1~x8/"><circle cx="192.7" cy="234.6" r="4" fill="#3465a4"><title>MacTavish #2</title></circle></a><a href="/setts/s5/r1dy8r2db8t1~x2/"><circle cx="274.0" cy="253.0" r="4" fill="#3465a4"><title>Unamed Riding cloak 1745</title></circle></a><a href="/setts/s8/p11o2p2o2p2o11g14w2~x2/"><circle cx="187.2" cy="211.2" r="4" fill="#3465a4"><title>Lamont</title></circle></a><circle cx="208.4" cy="228.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db1n8w1db4m8w1~x6/

@@ -18,7 +18,7 @@ KBRKRGRBKRGRK
 
 
 
-### K DB R K R DG R DB K R DG R K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB R K R DG R DB K R DG R K</span></span>
+### K R DG R K DB R DG R K R DB K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K R DG R K DB R DG R K R DB K</span></span>
 
 | Tartans |
 |---------------|
@@ -28,4 +28,6 @@ KBRKRGRBKRGRK
 |![Cumming (d) example sett](/setts/s13/k1db1r1k8r1dg6r6db1k6r1dg8r1k1~x2/sett.png)|
 | [Buchan](/setts/s13/k2db2r2k24r2dg6r6db2k6r2dg27r2k2/)|
 |![Buchan example sett](/setts/s13/k2db2r2k24r2dg6r6db2k6r2dg27r2k2/sett.png)|
+| [Cumming](/setts/s13/k1db1r1k8r1dg6r6db1k6r1dg8r1k1/)|
+|![Cumming example sett](/setts/s13/k1db1r1k8r1dg6r6db1k6r1dg8r1k1/sett.png)|
 

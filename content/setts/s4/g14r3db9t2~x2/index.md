@@ -2,7 +2,7 @@
 title: "Unidentified 10"
 date: 2023-03-18
 ---
-**Bands:** [BBRG](/stripes/bbrg/) · **Stripes:** [T DB R G](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">T DB R G</span></span>
+**Bands:** [GRBB](/stripes/grbb/) · **Stripes:** [G R DB T](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">G R DB T</span></span>
 
 
 This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-Ba/4 B18 R6 G/28
+G/28 R6 B18 Ba/4
 ![Sett](sett.png)
 
 ## Palette
@@ -900,7 +903,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "Ba/4 B18 R6 G/28 tartan")
+![Tartan detail](tartan.png "G/28 R6 B18 Ba/4 tartan")
 
 ## Nearest tartans
 
@@ -909,9 +912,9 @@ The nearest existing variants by ΔTartan distance.
 1. [Bethlehem, City of (District)](/setts/s5/db3o10g9r1g3~x4/) — ΔT 1.03
 1. [Unidentified #4](/setts/s4/dg14r3db9t2~x2/) — ΔT 1.22
 1. [MacNab](/setts/s4/dg15r3db11t2~x2/) — ΔT 1.26
-1. [Wilson's No.161](/setts/s4/t13r2g13r2~x2/) — ΔT 1.28
+1. [Wilson's No.161](/setts/s4/g13r2t13~x2/) — ΔT 1.28
 1. [Trafalgar (Fashion)](/setts/s6/g3db1g8db7k3ly1~x2/) — ΔT 1.34
-1. [Bethlehem, City of](/setts/s5/db3o10dg9r1dg3~x4/) — ΔT 1.37
+1. [Bethlehem, City of](/setts/s5/dg3r1dg9o10db3~x4/) — ΔT 1.37
 1. [Wilson's No 84, Ferguson](/setts/s3/db5g6r1~x4/) — ΔT 1.39
 1. [Simple Technology (Corporate)](/setts/s5/r3g28db9dg18w3~x2/) — ΔT 1.42
 1. [Cameron of Lochiel (Hunting) Clan/Family Tartan Tartan Number: 5351. Earliest known date: 01/01/1940 Design close to Cameron Hunting which has two red lines shown in Vestiarium Scoticum. This design evolved in the 1940s by J G MacKay of Portree and was first put on show at the Cameron Gathering at Achnacarry in 1956. (original STA ref: 1535) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r5g20r5g20db24g6ly4/) — ΔT 1.43
@@ -919,8 +922,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db3o10g9r1g3~x4/"><circle cx="279.6" cy="255.4" r="4" fill="#3465a4"><title>Bethlehem, City of (District)</title></circle></a><a href="/setts/s4/dg14r3db9t2~x2/"><circle cx="292.1" cy="284.6" r="4" fill="#3465a4"><title>Unidentified #4</title></circle></a><a href="/setts/s4/dg15r3db11t2~x2/"><circle cx="282.6" cy="277.9" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/setts/s4/t13r2g13r2~x2/"><circle cx="289.9" cy="290.8" r="4" fill="#3465a4"><title>Wilson's No.161</title></circle></a><a href="/setts/s6/g3db1g8db7k3ly1~x2/"><circle cx="248.8" cy="247.5" r="4" fill="#3465a4"><title>Trafalgar (Fashion)</title></circle></a><a href="/setts/s5/db3o10dg9r1dg3~x4/"><circle cx="256.4" cy="242.9" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/setts/s3/db5g6r1~x4/"><circle cx="291.6" cy="323.8" r="4" fill="#3465a4"><title>Wilson's No 84, Ferguson</title></circle></a><a href="/setts/s5/r3g28db9dg18w3~x2/"><circle cx="234.7" cy="231.6" r="4" fill="#3465a4"><title>Simple Technology (Corporate)</title></circle></a><a href="/setts/s7/r5g20r5g20db24g6ly4/"><circle cx="264.2" cy="247.9" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting) Clan/Family Tartan Tartan Number: 5351. Earliest known date: 01/01/1940 Design close to Cameron Hunting which has two red lines shown in Vestiarium Scoticum. This design evolved in the 1940s by J G MacKay of Portree and was first put on show at the Cameron Gathering at Achnacarry in 1956. (original STA ref: 1535) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s3/db13r2g13~x2/"><circle cx="288.6" cy="320.4" r="4" fill="#3465a4"><title>Wilson's No 62, (Ferguson)</title></circle></a><circle cx="267.6" cy="271.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db3o10g9r1g3~x4/"><circle cx="279.6" cy="255.3" r="4" fill="#3465a4"><title>Bethlehem, City of (District)</title></circle></a><a href="/setts/s4/dg14r3db9t2~x2/"><circle cx="292.1" cy="284.5" r="4" fill="#3465a4"><title>Unidentified #4</title></circle></a><a href="/setts/s4/dg15r3db11t2~x2/"><circle cx="282.7" cy="277.8" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/setts/s4/g13r2t13~x2/"><circle cx="289.8" cy="290.6" r="4" fill="#3465a4"><title>Wilson's No.161</title></circle></a><a href="/setts/s6/g3db1g8db7k3ly1~x2/"><circle cx="248.8" cy="247.4" r="4" fill="#3465a4"><title>Trafalgar (Fashion)</title></circle></a><a href="/setts/s5/dg3r1dg9o10db3~x4/"><circle cx="256.4" cy="242.7" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/setts/s3/db5g6r1~x4/"><circle cx="291.6" cy="323.6" r="4" fill="#3465a4"><title>Wilson's No 84, Ferguson</title></circle></a><a href="/setts/s5/r3g28db9dg18w3~x2/"><circle cx="234.8" cy="231.6" r="4" fill="#3465a4"><title>Simple Technology (Corporate)</title></circle></a><a href="/setts/s7/r5g20r5g20db24g6ly4/"><circle cx="264.1" cy="247.8" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting) Clan/Family Tartan Tartan Number: 5351. Earliest known date: 01/01/1940 Design close to Cameron Hunting which has two red lines shown in Vestiarium Scoticum. This design evolved in the 1940s by J G MacKay of Portree and was first put on show at the Cameron Gathering at Achnacarry in 1956. (original STA ref: 1535) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s3/db13r2g13~x2/"><circle cx="288.7" cy="320.2" r="4" fill="#3465a4"><title>Wilson's No 62, (Ferguson)</title></circle></a><circle cx="267.6" cy="271.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/g14r3db9t2~x2/

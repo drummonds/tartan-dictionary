@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/10 R8 Ba4 R16 LT22 B8 Y4 B8 Y4 Ba18 K8 LT/126
+LT/126 K8 Ba18 Y4 B8 Y4 B8 LT22 R16 Ba4 R8 LN/10
 ![Sett](sett.png)
 
 ## Palette
@@ -918,8 +921,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dy63k4t9ly2db4ly2db4dy11r8t2r4w5~x2/"><circle cx="371.5" cy="54.7" r="4" fill="#3465a4"><title>Seller Sillar Family Tartan Tartan Number: 1737. Earliest known date: 1978 The design is based on the Sillers connection with the Isle of Arran and the Clan Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/dy63k4lb9ly2db4ly2db4dy11r8lb2r4w5~x2/"><circle cx="350.0" cy="42.2" r="4" fill="#3465a4"><title>Seller (Personal)</title></circle></a><a href="/setts/s12/n68b5k9lo3k3lb3k3n20r9k3r5lb4/"><circle cx="405.4" cy="96.4" r="4" fill="#3465a4"><title>British Caledonian Airways #2</title></circle></a><a href="/setts/s12/t12o4r4o4k2o56r18w1db4w3db4w1~x2/"><circle cx="361.6" cy="50.2" r="4" fill="#3465a4"><title>Confederate Memorial</title></circle></a><a href="/setts/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/"><circle cx="400.2" cy="102.6" r="4" fill="#3465a4"><title>Diana, hunting Plaid</title></circle></a><a href="/setts/s12/dy46b3dy7dg2r2dg2w2dg11b6db2b3r2~x2/"><circle cx="368.9" cy="94.1" r="4" fill="#3465a4"><title>Diana Hunting Plaid</title></circle></a><a href="/setts/s13/r68k1g6t4g1t12w1g6ly1g24ly1g2ly3~x2/"><circle cx="373.0" cy="43.2" r="4" fill="#3465a4"><title>Ellis Island (District)</title></circle></a><a href="/setts/s12/n42r3n6y2n2lb2n2db10b6k2b4lb2~x2/"><circle cx="367.9" cy="87.6" r="4" fill="#3465a4"><title>Wcwm 849-2</title></circle></a><a href="/setts/s11/lo30db6m1w2m6w2m1db6lo30lb1r3~x2/"><circle cx="413.3" cy="88.8" r="4" fill="#3465a4"><title>Kuehle Hunting (Personal)</title></circle></a><a href="/setts/s9/n68k4n18o20k3w3k10lb8lo4/"><circle cx="363.8" cy="116.0" r="4" fill="#3465a4"><title>Carbon (Corporate)</title></circle></a><circle cx="379.6" cy="56.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dy63k4t9ly2db4ly2db4dy11r8t2r4w5~x2/"><circle cx="371.2" cy="54.7" r="4" fill="#3465a4"><title>Seller Sillar Family Tartan Tartan Number: 1737. Earliest known date: 1978 The design is based on the Sillers connection with the Isle of Arran and the Clan Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/dy63k4lb9ly2db4ly2db4dy11r8lb2r4w5~x2/"><circle cx="349.6" cy="42.2" r="4" fill="#3465a4"><title>Seller (Personal)</title></circle></a><a href="/setts/s12/n68b5k9lo3k3lb3k3n20r9k3r5lb4/"><circle cx="405.0" cy="96.4" r="4" fill="#3465a4"><title>British Caledonian Airways #2</title></circle></a><a href="/setts/s12/t12o4r4o4k2o56r18w1db4w3db4w1~x2/"><circle cx="361.1" cy="50.2" r="4" fill="#3465a4"><title>Confederate Memorial</title></circle></a><a href="/setts/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/"><circle cx="399.7" cy="102.7" r="4" fill="#3465a4"><title>Diana, hunting Plaid</title></circle></a><a href="/setts/s12/dy46b3dy7dg2r2dg2w2dg11b6db2b3r2~x2/"><circle cx="368.6" cy="94.2" r="4" fill="#3465a4"><title>Diana Hunting Plaid</title></circle></a><a href="/setts/s13/r68k1g6t4g1t12w1g6ly1g24ly1g2ly3~x2/"><circle cx="372.5" cy="43.3" r="4" fill="#3465a4"><title>Ellis Island (District)</title></circle></a><a href="/setts/s12/n42r3n6y2n2lb2n2db10b6k2b4lb2~x2/"><circle cx="367.6" cy="87.6" r="4" fill="#3465a4"><title>Wcwm 849-2</title></circle></a><a href="/setts/s11/lo30db6m1w2m6w2m1db6lo30lb1r3~x2/"><circle cx="412.8" cy="88.8" r="4" fill="#3465a4"><title>Kuehle Hunting (Personal)</title></circle></a><a href="/setts/s9/n68k4n18o20k3w3k10lb8lo4/"><circle cx="363.6" cy="115.9" r="4" fill="#3465a4"><title>Carbon (Corporate)</title></circle></a><circle cx="379.2" cy="56.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/o63k4t9ly2db4ly2db4o11r8t2r4w5~x2/

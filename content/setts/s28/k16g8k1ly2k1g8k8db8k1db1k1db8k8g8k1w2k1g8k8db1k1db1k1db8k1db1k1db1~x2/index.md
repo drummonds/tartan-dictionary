@@ -2,7 +2,7 @@
 title: "Campbell of Argyll"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKBKBKGKWKGKBKBKBKGKYKGK](/stripes/bkbkbkbkbkgkwkgkbkbkbkgkykgk/) · **Stripes:** [DB K DB K DB K DB K DB K G K W K G K DB K DB K DB K G K LY K G K](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K DB K DB K DB K DB K G K W K G K DB K DB K DB K G K LY K G K</span></span>
+**Bands:** [KGKYKGKBKBKBKGKWKGKBKBKBKBKB](/stripes/kgkykgkbkbkbkgkwkgkbkbkbkbkb/) · **Stripes:** [K G K LY K G K DB K DB K DB K G K W K G K DB K DB K DB K DB K DB](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K G K LY K G K DB K DB K DB K G K W K G K DB K DB K DB K DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [28 band tartan](/bands/bands28/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/2 K2 B2 K2 B16 K2 B2 K2 B2 K16 G16 K2 LN4 K2 G16 K16 B16 K2 B2 K2 B16 K16 G16 K2 Y4 K2 G16 K/32
+K/32 G16 K2 Y4 K2 G16 K16 B16 K2 B2 K2 B16 K16 G16 K2 LN4 K2 G16 K16 B2 K2 B2 K2 B16 K2 B2 K2 B/2
 ![Sett](sett.png)
 
 ## Palette
@@ -912,19 +915,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Campbell of Argyll (Clan)](/setts/s28/k13g13k1ly3k1g13k13b12k2b2k2b12k13g13k1w3k1g13k13b2k2b2k2b13k2b2k2b2~x4/) — ΔT 0.72
 1. [Gordon 6](/setts/s32/db15k3db3k3db3k15g15r1g1r4g1r1g15k15db15k3db4k3db15k15g15ly1g1ly4g1ly1g15k15db3k3db3k3~x2/) — ΔT 0.77
-1. [Duchess of Albany](/setts/s27/ly2db14k8g2k1g2k1g4k1g2k1g2db4g2db4g2k1g2k1g4k1g2k1g2k8db14r2~x2/) — ΔT 0.80
+1. [Duchess of Albany](/setts/s27/r2db14k8g2k1g2k1g4k1g2k1g2db4g2db4g2k1g2k1g4k1g2k1g2k8db14ly2~x2/) — ΔT 0.80
 1. [Dorris](/setts/s21/g24k3g3k3g3k18k2t2k2t2k13w3k13t2k2t2k2k18g19k4g4~x2/) — ΔT 1.04
 1. [Farquharson](/setts/s25/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22ly2g22k10db1k1db1k1db7~x2/) — ΔT 1.12
 1. [MacKenzie, Bailey](/setts/s24/k6g18w2g18k6db18k1db4k1db18k6g18r2g18k6db2k2db2k2db18k2db2k2db2~x2/) — ΔT 1.14
-1. [Campbell of Argyll](/setts/s29/db1k1db8k8g8k1ly2k1g8k8db1k1db1k1db8k1db1k1db1k8g8k1w2k1g8k8db8k1db1~x2/) — ΔT 1.15
+1. [Campbell of Argyll](/setts/s29/db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1k8g8k1ly2k1g8k8db8k1db1~x2/) — ΔT 1.15
 1. [Dundee Discovery (Corporate)](/setts/s30/k14g12r2g12k14db20k2db4k2db20g12lo3g3lo1k3r2k3lo1g3lo3g12db4k2db4k2db22k2db4k2db4~x2/) — ΔT 1.20
 1. [Ochiltree](/setts/s19/db12k1g2k1g2k1db12r2k12ly1k12r2g12k1db2k1db2k1g12~x2/) — ΔT 1.31
 1. [Stewart](/setts/s30/db14k12db3dg22dg4k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg4dg22db3k12db14k4~x2/) — ΔT 1.38
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s28/k13g13k1ly3k1g13k13b12k2b2k2b12k13g13k1w3k1g13k13b2k2b2k2b13k2b2k2b2~x4/"><circle cx="142.9" cy="117.4" r="4" fill="#3465a4"><title>Campbell of Argyll (Clan)</title></circle></a><a href="/setts/s32/db15k3db3k3db3k15g15r1g1r4g1r1g15k15db15k3db4k3db15k15g15ly1g1ly4g1ly1g15k15db3k3db3k3~x2/"><circle cx="137.9" cy="103.6" r="4" fill="#3465a4"><title>Gordon 6</title></circle></a><a href="/setts/s27/ly2db14k8g2k1g2k1g4k1g2k1g2db4g2db4g2k1g2k1g4k1g2k1g2k8db14r2~x2/"><circle cx="171.1" cy="103.8" r="4" fill="#3465a4"><title>Duchess of Albany</title></circle></a><a href="/setts/s21/g24k3g3k3g3k18k2t2k2t2k13w3k13t2k2t2k2k18g19k4g4~x2/"><circle cx="152.6" cy="127.5" r="4" fill="#3465a4"><title>Dorris</title></circle></a><a href="/setts/s25/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22ly2g22k10db1k1db1k1db7~x2/"><circle cx="205.0" cy="97.1" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/setts/s24/k6g18w2g18k6db18k1db4k1db18k6g18r2g18k6db2k2db2k2db18k2db2k2db2~x2/"><circle cx="191.6" cy="110.4" r="4" fill="#3465a4"><title>MacKenzie, Bailey</title></circle></a><a href="/setts/s29/db1k1db8k8g8k1ly2k1g8k8db1k1db1k1db8k1db1k1db1k8g8k1w2k1g8k8db8k1db1~x2/"><circle cx="128.2" cy="130.7" r="4" fill="#3465a4"><title>Campbell of Argyll</title></circle></a><a href="/setts/s30/k14g12r2g12k14db20k2db4k2db20g12lo3g3lo1k3r2k3lo1g3lo3g12db4k2db4k2db22k2db4k2db4~x2/"><circle cx="199.7" cy="96.5" r="4" fill="#3465a4"><title>Dundee Discovery (Corporate)</title></circle></a><a href="/setts/s19/db12k1g2k1g2k1db12r2k12ly1k12r2g12k1db2k1db2k1g12~x2/"><circle cx="140.6" cy="124.8" r="4" fill="#3465a4"><title>Ochiltree</title></circle></a><a href="/setts/s30/db14k12db3dg22dg4k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg4dg22db3k12db14k4~x2/"><circle cx="125.6" cy="106.0" r="4" fill="#3465a4"><title>Stewart</title></circle></a><circle cx="180.2" cy="103.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s28/k13g13k1ly3k1g13k13b12k2b2k2b12k13g13k1w3k1g13k13b2k2b2k2b13k2b2k2b2~x4/"><circle cx="143.0" cy="117.5" r="4" fill="#3465a4"><title>Campbell of Argyll (Clan)</title></circle></a><a href="/setts/s32/db15k3db3k3db3k15g15r1g1r4g1r1g15k15db15k3db4k3db15k15g15ly1g1ly4g1ly1g15k15db3k3db3k3~x2/"><circle cx="138.0" cy="103.7" r="4" fill="#3465a4"><title>Gordon 6</title></circle></a><a href="/setts/s27/r2db14k8g2k1g2k1g4k1g2k1g2db4g2db4g2k1g2k1g4k1g2k1g2k8db14ly2~x2/"><circle cx="171.1" cy="103.9" r="4" fill="#3465a4"><title>Duchess of Albany</title></circle></a><a href="/setts/s21/g24k3g3k3g3k18k2t2k2t2k13w3k13t2k2t2k2k18g19k4g4~x2/"><circle cx="152.8" cy="127.5" r="4" fill="#3465a4"><title>Dorris</title></circle></a><a href="/setts/s25/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22ly2g22k10db1k1db1k1db7~x2/"><circle cx="204.9" cy="97.1" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/setts/s24/k6g18w2g18k6db18k1db4k1db18k6g18r2g18k6db2k2db2k2db18k2db2k2db2~x2/"><circle cx="191.6" cy="110.4" r="4" fill="#3465a4"><title>MacKenzie, Bailey</title></circle></a><a href="/setts/s29/db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1k8g8k1ly2k1g8k8db8k1db1~x2/"><circle cx="128.3" cy="130.8" r="4" fill="#3465a4"><title>Campbell of Argyll</title></circle></a><a href="/setts/s30/k14g12r2g12k14db20k2db4k2db20g12lo3g3lo1k3r2k3lo1g3lo3g12db4k2db4k2db22k2db4k2db4~x2/"><circle cx="199.7" cy="96.6" r="4" fill="#3465a4"><title>Dundee Discovery (Corporate)</title></circle></a><a href="/setts/s19/db12k1g2k1g2k1db12r2k12ly1k12r2g12k1db2k1db2k1g12~x2/"><circle cx="140.7" cy="124.9" r="4" fill="#3465a4"><title>Ochiltree</title></circle></a><a href="/setts/s30/db14k12db3dg22dg4k6ly2k2db2k2dg8r4k2r4lb2r4k2r4dg8k2db2k2ly2k6dg4dg22db3k12db14k4~x2/"><circle cx="125.7" cy="106.2" r="4" fill="#3465a4"><title>Stewart</title></circle></a><circle cx="180.3" cy="103.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s28/k16g8k1ly2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1~x2/

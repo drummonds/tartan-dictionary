@@ -2,7 +2,7 @@
 title: "Dege, of Saville Row"
 date: 2023-03-18
 ---
-**Bands:** [RBBRBR](/stripes/rbbrbr/) · **Stripes:** [R DB DB O DB O](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R DB DB O DB O</span></span>
+**Bands:** [RBRBBR](/stripes/rbrbbr/) · **Stripes:** [O DB O DB DB R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">O DB O DB DB R</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,21 +909,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Connaught Green](/setts/s6/lb1y4db2y5db12r1~x2/) — ΔT 0.77
-1. [MacArthur-Fox Blue (Personal)](/setts/s6/lb2dr16b3dr3b13r2~x4/) — ΔT 0.85
+1. [Connaught Green](/setts/s6/r1db12y5db2y4lb1~x2/) — ΔT 0.77
+1. [MacArthur-Fox Blue (Personal)](/setts/s6/r2b13dr3b3dr16lb2~x4/) — ΔT 0.85
 1. [Unnamed C20th - USA](/setts/s7/db2ly1db18g7r7db1g1~x2/) — ΔT 1.02
 1. [Murdoch Celebration (Personal)](/setts/s8/db30r2db2r4db9k26w2k4~x2/) — ΔT 1.08
 1. [Kelley Oliphint](/setts/s5/k3w2n27k31p3~x2/) — ΔT 1.10
 1. [Kelley Oliphint (Commemorative)](/setts/s5/k3w2n27k31lr3~x2/) — ΔT 1.10
-1. [Kelvinside Academy (School)](/setts/s8/w4y15db8k4db28k2db4w2/) — ΔT 1.11
+1. [Kelvinside Academy (School)](/setts/s8/w4y15db8k4db28k2db4w2/) — ΔT 1.12
 1. [Lothian Buses (Corporate?)](/setts/s6/w2db15r3g3r3db1~x8/) — ΔT 1.12
 1. [Heritage of Wales (Fashion)](/setts/s7/r10db4r6db30k10db5w2~x2/) — ΔT 1.13
 1. [MacHardy, Blue](/setts/s8/db6r3g26db26w4db26r5g5~x2/) — ΔT 1.15
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/lb1y4db2y5db12r1~x2/"><circle cx="353.8" cy="219.7" r="4" fill="#3465a4"><title>Connaught Green</title></circle></a><a href="/setts/s6/lb2dr16b3dr3b13r2~x4/"><circle cx="279.2" cy="216.6" r="4" fill="#3465a4"><title>MacArthur-Fox Blue (Personal)</title></circle></a><a href="/setts/s7/db2ly1db18g7r7db1g1~x2/"><circle cx="350.6" cy="173.1" r="4" fill="#3465a4"><title>Unnamed C20th - USA</title></circle></a><a href="/setts/s8/db30r2db2r4db9k26w2k4~x2/"><circle cx="334.5" cy="182.3" r="4" fill="#3465a4"><title>Murdoch Celebration (Personal)</title></circle></a><a href="/setts/s5/k3w2n27k31p3~x2/"><circle cx="341.1" cy="206.9" r="4" fill="#3465a4"><title>Kelley Oliphint</title></circle></a><a href="/setts/s5/k3w2n27k31lr3~x2/"><circle cx="328.9" cy="199.8" r="4" fill="#3465a4"><title>Kelley Oliphint (Commemorative)</title></circle></a><a href="/setts/s8/w4y15db8k4db28k2db4w2/"><circle cx="352.2" cy="186.7" r="4" fill="#3465a4"><title>Kelvinside Academy (School)</title></circle></a><a href="/setts/s6/w2db15r3g3r3db1~x8/"><circle cx="342.1" cy="176.8" r="4" fill="#3465a4"><title>Lothian Buses (Corporate?)</title></circle></a><a href="/setts/s7/r10db4r6db30k10db5w2~x2/"><circle cx="340.2" cy="187.3" r="4" fill="#3465a4"><title>Heritage of Wales (Fashion)</title></circle></a><a href="/setts/s8/db6r3g26db26w4db26r5g5~x2/"><circle cx="303.6" cy="215.2" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><circle cx="329.3" cy="208.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r1db12y5db2y4lb1~x2/"><circle cx="353.7" cy="219.6" r="4" fill="#3465a4"><title>Connaught Green</title></circle></a><a href="/setts/s6/r2b13dr3b3dr16lb2~x4/"><circle cx="279.1" cy="216.5" r="4" fill="#3465a4"><title>MacArthur-Fox Blue (Personal)</title></circle></a><a href="/setts/s7/db2ly1db18g7r7db1g1~x2/"><circle cx="350.5" cy="172.9" r="4" fill="#3465a4"><title>Unnamed C20th - USA</title></circle></a><a href="/setts/s8/db30r2db2r4db9k26w2k4~x2/"><circle cx="334.5" cy="182.2" r="4" fill="#3465a4"><title>Murdoch Celebration (Personal)</title></circle></a><a href="/setts/s5/k3w2n27k31p3~x2/"><circle cx="341.1" cy="206.8" r="4" fill="#3465a4"><title>Kelley Oliphint</title></circle></a><a href="/setts/s5/k3w2n27k31lr3~x2/"><circle cx="328.9" cy="199.6" r="4" fill="#3465a4"><title>Kelley Oliphint (Commemorative)</title></circle></a><a href="/setts/s8/w4y15db8k4db28k2db4w2/"><circle cx="352.1" cy="186.6" r="4" fill="#3465a4"><title>Kelvinside Academy (School)</title></circle></a><a href="/setts/s6/w2db15r3g3r3db1~x8/"><circle cx="342.0" cy="176.6" r="4" fill="#3465a4"><title>Lothian Buses (Corporate?)</title></circle></a><a href="/setts/s7/r10db4r6db30k10db5w2~x2/"><circle cx="340.1" cy="187.2" r="4" fill="#3465a4"><title>Heritage of Wales (Fashion)</title></circle></a><a href="/setts/s8/db6r3g26db26w4db26r5g5~x2/"><circle cx="303.6" cy="215.0" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><circle cx="329.2" cy="208.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/o11db1o3db1db9r1~x4/

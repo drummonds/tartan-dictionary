@@ -22,6 +22,6 @@ BYBRBWBYBYBYB
 
 | Tartans |
 |---------------|
-| [Clydesdale Bank](/setts/s13/n27lr3n28lr3n28lr3n31w2n31r36n20lr3n1/)|
-|![Clydesdale Bank example sett](/setts/s13/n27lr3n28lr3n28lr3n31w2n31r36n20lr3n1/sett.png)|
+| [Clydesdale Bank](/setts/s13/n27lr3n28lr3n28lr3n31w2n31r36n20lr3n1~x2/)|
+|![Clydesdale Bank example sett](/setts/s13/n27lr3n28lr3n28lr3n31w2n31r36n20lr3n1~x2/sett.png)|
 

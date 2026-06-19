@@ -21,24 +21,24 @@ WGRW
 Grouped by stripe pattern — the 3 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### W DG O W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DG O W</span></span>
+### W O DG W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W O DG W</span></span>
 
 | Tartans |
 |---------------|
 | [Dunoon Irish](/setts/s4/w2dg13o13w2~x6/)|
 |![Dunoon Irish example sett](/setts/s4/w2dg13o13w2~x6/sett.png)|
 
-### W G O W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W G O W</span></span>
+### W O G W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W O G W</span></span>
 
 | Tartans |
 |---------------|
-| [Dunoon Irish (Corporate)](/setts/s4/w2g13o13w2~x6/)|
-|![Dunoon Irish (Corporate) example sett](/setts/s4/w2g13o13w2~x6/sett.png)|
+| [Dunoon Irish (Corporate)](/setts/s4/w2o13g13w2~x6/)|
+|![Dunoon Irish (Corporate) example sett](/setts/s4/w2o13g13w2~x6/sett.png)|
 
-### W G R W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W G R W</span></span>
+### W R G W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R G W</span></span>
 
 | Tartans |
 |---------------|
-| [Quaboos Pipers Plaid](/setts/s4/w9g23r23w9~x2/)|
-|![Quaboos Pipers Plaid example sett](/setts/s4/w9g23r23w9~x2/sett.png)|
+| [Quaboos Pipers Plaid](/setts/s4/w9r23g23w9~x2/)|
+|![Quaboos Pipers Plaid example sett](/setts/s4/w9r23g23w9~x2/sett.png)|
 

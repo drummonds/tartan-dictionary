@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/6262/
 
 ## Thread count
-R/8 K2 W8 K2 R36 K6 R8 K6 R8 K20 DB60 K12 DB8 W/12
+W/12 DB8 K12 DB60 K20 R8 K6 R8 K6 R36 K2 W8 K2 R/8
 ![Sett](sett.png)
 
 ## Palette
@@ -32,7 +32,7 @@ The nearest existing variants by ΔTartan distance.
 1. [MacDonald Dress (Irish)](/setts/s12/db17r42db2r5db29r2k31w29r5w2r2w17/) — ΔT 1.22
 1. [Mars Exploration](/setts/s15/r23db1g1r3db2r1db12k3w6k6db4g2k2g3k2~x2/) — ΔT 1.26
 1. [Willox (Name)](/setts/s13/y6lb12dp3w1dp6lb4w1lb4dp6w1k28y5w1~x2/) — ΔT 1.27
-1. [Harris (1997) (Personal)](/setts/s26/r4k1w4k1r18k3r4k3r4k10db30k6db4w6db4k6db30k10r4k3r4k3r18k1w4k1~x2/) — ΔT 1.29
+1. [Harris (1997) (Personal)](/setts/s26/w6db4k6db30k10r4k3r4k3r18k1w4k1r4~x2/) — ΔT 1.29
 1. [Baron of Greencastle Dress #2 (Personal)](/setts/s13/r4k2r24ly2k12db3k2db2k2db12w1db1w3~x2/) — ΔT 1.34
 1. [Unnamed - C19th (Annie Oakley)](/setts/s14/w4k1dg10k1db7k1w4k1db5k1db2k1r20k2~x4/) — ΔT 1.37
 1. [Missouri](/setts/s15/w4db16w2db1w2db8k1r4k2r4k2r24k1w8r2~x2/) — ΔT 1.39
@@ -40,8 +40,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db16k4lb4db8lb24k2r3r20r4k12lb6k1~x2/"><circle cx="162.0" cy="127.5" r="4" fill="#3465a4"><title>Quebec Centennial #2</title></circle></a><a href="/setts/s13/db15lb2w8lb2db42k42r42w8r4w4r4w4r10~x2/"><circle cx="163.3" cy="96.1" r="4" fill="#3465a4"><title>American St Andrews Societies</title></circle></a><a href="/setts/s12/db17r42db2r5db29r2k31w29r5w2r2w17/"><circle cx="151.4" cy="119.0" r="4" fill="#3465a4"><title>MacDonald Dress (Irish)</title></circle></a><a href="/setts/s15/r23db1g1r3db2r1db12k3w6k6db4g2k2g3k2~x2/"><circle cx="179.1" cy="73.2" r="4" fill="#3465a4"><title>Mars Exploration</title></circle></a><a href="/setts/s13/y6lb12dp3w1dp6lb4w1lb4dp6w1k28y5w1~x2/"><circle cx="177.5" cy="83.1" r="4" fill="#3465a4"><title>Willox (Name)</title></circle></a><a href="/setts/s26/r4k1w4k1r18k3r4k3r4k10db30k6db4w6db4k6db30k10r4k3r4k3r18k1w4k1~x2/"><circle cx="212.4" cy="75.2" r="4" fill="#3465a4"><title>Harris (1997) (Personal)</title></circle></a><a href="/setts/s13/r4k2r24ly2k12db3k2db2k2db12w1db1w3~x2/"><circle cx="231.4" cy="98.4" r="4" fill="#3465a4"><title>Baron of Greencastle Dress #2 (Personal)</title></circle></a><a href="/setts/s14/w4k1dg10k1db7k1w4k1db5k1db2k1r20k2~x4/"><circle cx="149.3" cy="85.4" r="4" fill="#3465a4"><title>Unnamed - C19th (Annie Oakley)</title></circle></a><a href="/setts/s15/w4db16w2db1w2db8k1r4k2r4k2r24k1w8r2~x2/"><circle cx="233.8" cy="86.5" r="4" fill="#3465a4"><title>Missouri</title></circle></a><a href="/setts/s14/t8k16r17db19r4k2t7k3r3k2w5k1r3k3~x2/"><circle cx="129.6" cy="114.6" r="4" fill="#3465a4"><title>Popular</title></circle></a><circle cx="207.9" cy="97.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db16k4lb4db8lb24k2r3r20r4k12lb6k1~x2/"><circle cx="161.9" cy="127.5" r="4" fill="#3465a4"><title>Quebec Centennial #2</title></circle></a><a href="/setts/s13/db15lb2w8lb2db42k42r42w8r4w4r4w4r10~x2/"><circle cx="163.2" cy="96.2" r="4" fill="#3465a4"><title>American St Andrews Societies</title></circle></a><a href="/setts/s12/db17r42db2r5db29r2k31w29r5w2r2w17/"><circle cx="151.2" cy="119.0" r="4" fill="#3465a4"><title>MacDonald Dress (Irish)</title></circle></a><a href="/setts/s15/r23db1g1r3db2r1db12k3w6k6db4g2k2g3k2~x2/"><circle cx="178.9" cy="73.2" r="4" fill="#3465a4"><title>Mars Exploration</title></circle></a><a href="/setts/s13/y6lb12dp3w1dp6lb4w1lb4dp6w1k28y5w1~x2/"><circle cx="177.4" cy="83.1" r="4" fill="#3465a4"><title>Willox (Name)</title></circle></a><a href="/setts/s26/w6db4k6db30k10r4k3r4k3r18k1w4k1r4~x2/"><circle cx="212.2" cy="75.3" r="4" fill="#3465a4"><title>Harris (1997) (Personal)</title></circle></a><a href="/setts/s13/r4k2r24ly2k12db3k2db2k2db12w1db1w3~x2/"><circle cx="231.3" cy="98.5" r="4" fill="#3465a4"><title>Baron of Greencastle Dress #2 (Personal)</title></circle></a><a href="/setts/s14/w4k1dg10k1db7k1w4k1db5k1db2k1r20k2~x4/"><circle cx="149.2" cy="85.5" r="4" fill="#3465a4"><title>Unnamed - C19th (Annie Oakley)</title></circle></a><a href="/setts/s15/w4db16w2db1w2db8k1r4k2r4k2r24k1w8r2~x2/"><circle cx="233.4" cy="86.5" r="4" fill="#3465a4"><title>Missouri</title></circle></a><a href="/setts/s14/t8k16r17db19r4k2t7k3r3k2w5k1r3k3~x2/"><circle cx="129.6" cy="114.7" r="4" fill="#3465a4"><title>Popular</title></circle></a><circle cx="207.7" cy="97.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/w6db4k6db30k10r4k3r4k3r18k1w4k1r4~x2/

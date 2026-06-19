@@ -19,24 +19,24 @@ BRBRBRBRGR
 Grouped by stripe pattern — the 3 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB R DB R DB R DB R DG R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R DB R DB R DB R DG R</span></span>
+### O G O DP O DP O DP O DP <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">O G O DP O DP O DP O DP</span></span>
+
+| Tartans |
+|---------------|
+| [Unidentified 18th Century](/setts/s10/dp3o23dp3o26dp3o3dp25o3g24o3~x2/)|
+|![Unidentified 18th Century example sett](/setts/s10/dp3o23dp3o26dp3o3dp25o3g24o3~x2/sett.png)|
+
+### R DG R DB R DB R DB R DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DG R DB R DB R DB R DB</span></span>
 
 | Tartans |
 |---------------|
 | [Unidentified Early 18th Centuary](/setts/s10/db3r23db3r26db3r3db25r3dg24r3~x2/)|
 |![Unidentified Early 18th Centuary example sett](/setts/s10/db3r23db3r26db3r3db25r3dg24r3~x2/sett.png)|
 
-### DB R DB R DB R DB R G R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R DB R DB R DB R G R</span></span>
+### R G R DB R DB R DB R DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R G R DB R DB R DB R DB</span></span>
 
 | Tartans |
 |---------------|
 | [Unidentified, Early 18th C](/setts/s10/db3r23db3r26db3r3db25r3g24r3~x2/)|
 |![Unidentified, Early 18th C example sett](/setts/s10/db3r23db3r26db3r3db25r3g24r3~x2/sett.png)|
-
-### DP O DP O DP O DP O G O <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DP O DP O DP O DP O G O</span></span>
-
-| Tartans |
-|---------------|
-| [Unidentified 18th Century](/setts/s10/dp3o23dp3o26dp3o3dp25o3g24o3~x2/)|
-|![Unidentified 18th Century example sett](/setts/s10/dp3o23dp3o26dp3o3dp25o3g24o3~x2/sett.png)|
 

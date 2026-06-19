@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/
 Original link http://www.tartansauthority.com/tartan-ferret/display/10769/
 
 ## Thread count
-LN/8 DB24 DN6 N62 G8 P8 G8 N/24
+N/24 G8 P8 G8 N62 DN6 DB24 LN/8
 ![Sett](sett.png)
 
 ## Palette
@@ -27,7 +27,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/8 DB24 DN6 N62 G8 P8 G8 N/24 tartan")
+![Tartan detail](tartan.png "N/24 G8 P8 G8 N62 DN6 DB24 LN/8 tartan")
 
 ## Nearest tartans
 
@@ -41,13 +41,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Keogh (Name)](/setts/s10/r4b18r4t3r4k12r3b24k2ly3~x2/) — ΔT 1.22
 1. [Bains of Caithness](/setts/s9/db3g6db2b11r3ly4r3b28w3~x2/) — ΔT 1.23
 1. [Hodgkinson](/setts/s8/t5ly5db12g1db1r1db1w2~x4/) — ΔT 1.27
-1. [Scotia](/setts/s9/ly4db8r3db14w18o4g28db58w4/) — ΔT 1.28
+1. [Scotia](/setts/s9/w4db58g28o4w18db14r3db8ly4/) — ΔT 1.28
 1. [Titanic (Belfast)](/setts/s13/n1r1n9ly1n7k1n1k1n7w4n2w4r1~x4/) — ΔT 1.29
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/n28r2n3w2n17y8lb16lo3lb3~x2/"><circle cx="301.2" cy="145.9" r="4" fill="#3465a4"><title>Guszcza, The (Personal)</title></circle></a><a href="/setts/s8/t5ly5db12g1db1r1db1w2~x2/"><circle cx="210.8" cy="135.4" r="4" fill="#3465a4"><title>Yorkshire, C.C.C.</title></circle></a><a href="/setts/s8/db3n10db3k3w10r4n28k2~x2/"><circle cx="304.7" cy="150.2" r="4" fill="#3465a4"><title>Moorpark Primary School (Corporate)</title></circle></a><a href="/setts/s8/o49lo3b13dy8k23b10o14r4~x2/"><circle cx="243.9" cy="147.6" r="4" fill="#3465a4"><title>State Seal of West Virginia (Fash)</title></circle></a><a href="/setts/s9/b49lb11lo7k16lb5b20lb10k6t5~x2/"><circle cx="213.8" cy="153.0" r="4" fill="#3465a4"><title>State Seal of Louisiana (Fashion)</title></circle></a><a href="/setts/s10/r4b18r4t3r4k12r3b24k2ly3~x2/"><circle cx="259.2" cy="154.6" r="4" fill="#3465a4"><title>Keogh (Name)</title></circle></a><a href="/setts/s9/db3g6db2b11r3ly4r3b28w3~x2/"><circle cx="308.8" cy="137.1" r="4" fill="#3465a4"><title>Bains of Caithness</title></circle></a><a href="/setts/s8/t5ly5db12g1db1r1db1w2~x4/"><circle cx="203.3" cy="131.8" r="4" fill="#3465a4"><title>Hodgkinson</title></circle></a><a href="/setts/s9/ly4db8r3db14w18o4g28db58w4/"><circle cx="274.2" cy="117.0" r="4" fill="#3465a4"><title>Scotia</title></circle></a><a href="/setts/s13/n1r1n9ly1n7k1n1k1n7w4n2w4r1~x4/"><circle cx="275.6" cy="142.3" r="4" fill="#3465a4"><title>Titanic (Belfast)</title></circle></a><circle cx="266.3" cy="155.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/n28r2n3w2n17y8lb16lo3lb3~x2/"><circle cx="300.9" cy="145.9" r="4" fill="#3465a4"><title>Guszcza, The (Personal)</title></circle></a><a href="/setts/s8/t5ly5db12g1db1r1db1w2~x2/"><circle cx="210.7" cy="135.4" r="4" fill="#3465a4"><title>Yorkshire, C.C.C.</title></circle></a><a href="/setts/s8/db3n10db3k3w10r4n28k2~x2/"><circle cx="304.5" cy="150.0" r="4" fill="#3465a4"><title>Moorpark Primary School (Corporate)</title></circle></a><a href="/setts/s8/o49lo3b13dy8k23b10o14r4~x2/"><circle cx="243.7" cy="147.7" r="4" fill="#3465a4"><title>State Seal of West Virginia (Fash)</title></circle></a><a href="/setts/s9/b49lb11lo7k16lb5b20lb10k6t5~x2/"><circle cx="213.7" cy="153.0" r="4" fill="#3465a4"><title>State Seal of Louisiana (Fashion)</title></circle></a><a href="/setts/s10/r4b18r4t3r4k12r3b24k2ly3~x2/"><circle cx="259.1" cy="154.5" r="4" fill="#3465a4"><title>Keogh (Name)</title></circle></a><a href="/setts/s9/db3g6db2b11r3ly4r3b28w3~x2/"><circle cx="308.6" cy="137.1" r="4" fill="#3465a4"><title>Bains of Caithness</title></circle></a><a href="/setts/s8/t5ly5db12g1db1r1db1w2~x4/"><circle cx="203.2" cy="131.8" r="4" fill="#3465a4"><title>Hodgkinson</title></circle></a><a href="/setts/s9/w4db58g28o4w18db14r3db8ly4/"><circle cx="274.1" cy="116.9" r="4" fill="#3465a4"><title>Scotia</title></circle></a><a href="/setts/s13/n1r1n9ly1n7k1n1k1n7w4n2w4r1~x4/"><circle cx="275.3" cy="142.2" r="4" fill="#3465a4"><title>Titanic (Belfast)</title></circle></a><circle cx="266.1" cy="155.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/o12g4dp4g4o31dt3db12w4~x2/

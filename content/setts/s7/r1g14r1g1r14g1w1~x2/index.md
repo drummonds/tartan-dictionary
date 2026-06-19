@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2572
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacKintosh, Fragment
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/2 G2 R28 G2 R2 G28 R/2
+R/2 G28 R2 G2 R28 G2 LN/2
 ![Sett](sett.png)
 
 ## Palette
@@ -906,27 +915,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/2 G2 R28 G2 R2 G28 R/2 tartan")
+![Tartan detail](tartan.png "R/2 G28 R2 G2 R28 G2 LN/2 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [MacDonald of Glenaladale (symmetrical)](/setts/s6/g5w2r27g27r5w2~x2/) — ΔT 1.19
-1. [MacPhee, MacFie](/setts/s9/ly1r12g2r1g16r1g2r12w1~x2/) — ΔT 1.37
+1. [MacPhee, MacFie](/setts/s9/w1r12g2r1g16r1g2r12ly1~x2/) — ΔT 1.37
 1. [Livingston](/setts/s9/g20k2r3k2r6g20r29g3r10~x2/) — ΔT 1.43
-1. [MacDonald of Kingsburgh](/setts/s9/ly3g1ly1g21w1r18ly1g3r3~x2/) — ΔT 1.45
+1. [MacDonald of Kingsburgh](/setts/s9/r3g3ly1r18w1g21ly1g1ly3~x2/) — ΔT 1.45
 1. [Fernandes (Personal)](/setts/s7/g5ly5g5ly35r44r3r3~x2/) — ΔT 1.49
-1. [Unidentified Cant #09](/setts/s8/r44db2g26r3db2r3g26db2/) — ΔT 1.54
+1. [Unidentified Cant #09](/setts/s8/r44db2g26r3db2/) — ΔT 1.54
 1. [Brisbane (Artefact)](/setts/s8/g18lb3ly1r2ly1r3ly1r10~x4/) — ΔT 1.54
-1. [MacPhie/Macfie](/setts/s9/ly1r12g2r1g16r1g2r12w1~x4/) — ΔT 1.55
-1. [Scrymgeour Family Tartan Tartan Number: 1627. Earliest known date: 1971 Yellow ochre. A note in STS files says "Not Adopted" with no explanation. The STS research report reads, "The tartan detailed above was displayed at a gathering of Scrymgeours held at Dudhope Castle, Dundee, in 1971 and was later adopted as the official tartan. The sett was designed by Donald C Stewart, author of 'The Setts of the Scottish Tartans' in 1970." See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/ly15k1o2db3ly2k1o15~x4/) — ΔT 1.57
+1. [MacPhie/Macfie](/setts/s9/w1r12g2r1g16r1g2r12ly1~x4/) — ΔT 1.55
+1. [Scrymgeour Family Tartan Tartan Number: 1627. Earliest known date: 1971 Yellow ochre. A note in STS files says "Not Adopted" with no explanation. The STS research report reads, "The tartan detailed above was displayed at a gathering of Scrymgeours held at Dudhope Castle, Dundee, in 1971 and was later adopted as the official tartan. The sett was designed by Donald C Stewart, author of 'The Setts of the Scottish Tartans' in 1970." See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/o15k1ly2db3o2k1ly15~x4/) — ΔT 1.57
 1. [Burnett](/setts/s8/r2g6ly1g6r3g2r16db1~x4/) — ΔT 1.57
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g5w2r27g27r5w2~x2/"><circle cx="335.6" cy="199.3" r="4" fill="#3465a4"><title>MacDonald of Glenaladale (symmetrical)</title></circle></a><a href="/setts/s9/ly1r12g2r1g16r1g2r12w1~x2/"><circle cx="360.8" cy="155.8" r="4" fill="#3465a4"><title>MacPhee, MacFie</title></circle></a><a href="/setts/s9/g20k2r3k2r6g20r29g3r10~x2/"><circle cx="336.1" cy="186.3" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/setts/s9/ly3g1ly1g21w1r18ly1g3r3~x2/"><circle cx="326.1" cy="131.0" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh</title></circle></a><a href="/setts/s7/g5ly5g5ly35r44r3r3~x2/"><circle cx="285.1" cy="143.3" r="4" fill="#3465a4"><title>Fernandes (Personal)</title></circle></a><a href="/setts/s8/r44db2g26r3db2r3g26db2/"><circle cx="376.9" cy="170.4" r="4" fill="#3465a4"><title>Unidentified Cant #09</title></circle></a><a href="/setts/s8/g18lb3ly1r2ly1r3ly1r10~x4/"><circle cx="298.2" cy="146.3" r="4" fill="#3465a4"><title>Brisbane (Artefact)</title></circle></a><a href="/setts/s9/ly1r12g2r1g16r1g2r12w1~x4/"><circle cx="361.9" cy="155.2" r="4" fill="#3465a4"><title>MacPhie/Macfie</title></circle></a><a href="/setts/s7/ly15k1o2db3ly2k1o15~x4/"><circle cx="268.0" cy="145.9" r="4" fill="#3465a4"><title>Scrymgeour Family Tartan Tartan Number: 1627. Earliest known date: 1971 Yellow ochre. A note in STS files says &quot;Not Adopted&quot; with no explanation. The STS research report reads, &quot;The tartan detailed above was displayed at a gathering of Scrymgeours held at Dudhope Castle, Dundee, in 1971 and was later adopted as the official tartan. The sett was designed by Donald C Stewart, author of 'The Setts of the Scottish Tartans' in 1970.&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r2g6ly1g6r3g2r16db1~x4/"><circle cx="372.3" cy="166.9" r="4" fill="#3465a4"><title>Burnett</title></circle></a><circle cx="359.4" cy="169.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g5w2r27g27r5w2~x2/"><circle cx="335.2" cy="199.1" r="4" fill="#3465a4"><title>MacDonald of Glenaladale (symmetrical)</title></circle></a><a href="/setts/s9/w1r12g2r1g16r1g2r12ly1~x2/"><circle cx="360.4" cy="155.6" r="4" fill="#3465a4"><title>MacPhee, MacFie</title></circle></a><a href="/setts/s9/g20k2r3k2r6g20r29g3r10~x2/"><circle cx="335.7" cy="186.2" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/setts/s9/r3g3ly1r18w1g21ly1g1ly3~x2/"><circle cx="325.7" cy="130.9" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh</title></circle></a><a href="/setts/s7/g5ly5g5ly35r44r3r3~x2/"><circle cx="284.6" cy="143.2" r="4" fill="#3465a4"><title>Fernandes (Personal)</title></circle></a><a href="/setts/s8/r44db2g26r3db2/"><circle cx="376.6" cy="170.3" r="4" fill="#3465a4"><title>Unidentified Cant #09</title></circle></a><a href="/setts/s8/g18lb3ly1r2ly1r3ly1r10~x4/"><circle cx="297.8" cy="146.2" r="4" fill="#3465a4"><title>Brisbane (Artefact)</title></circle></a><a href="/setts/s9/w1r12g2r1g16r1g2r12ly1~x4/"><circle cx="361.5" cy="155.1" r="4" fill="#3465a4"><title>MacPhie/Macfie</title></circle></a><a href="/setts/s7/o15k1ly2db3o2k1ly15~x4/"><circle cx="267.6" cy="145.8" r="4" fill="#3465a4"><title>Scrymgeour Family Tartan Tartan Number: 1627. Earliest known date: 1971 Yellow ochre. A note in STS files says &quot;Not Adopted&quot; with no explanation. The STS research report reads, &quot;The tartan detailed above was displayed at a gathering of Scrymgeours held at Dudhope Castle, Dundee, in 1971 and was later adopted as the official tartan. The sett was designed by Donald C Stewart, author of 'The Setts of the Scottish Tartans' in 1970.&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r2g6ly1g6r3g2r16db1~x4/"><circle cx="371.9" cy="166.7" r="4" fill="#3465a4"><title>Burnett</title></circle></a><circle cx="358.9" cy="169.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r1g14r1g1r14g1w1~x2/

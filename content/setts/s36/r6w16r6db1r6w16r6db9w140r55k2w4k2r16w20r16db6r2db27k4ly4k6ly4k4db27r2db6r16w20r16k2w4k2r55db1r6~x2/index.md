@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [36 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4357
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified, Plaid arisaid
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-R/12 B2 R110 K4 LN8 K4 R32 LN40 R32 B12 R4 B54 K8 Y8 K12 Y8 K8 B54 R4 B12 R32 LN40 R32 K4 LN8 K4 R110 LN280 B18 R12 LN32 R12 B2 R12 LN32 R/12
+R/12 LN32 R12 B2 R12 LN32 R12 B18 LN280 R110 K4 LN8 K4 R32 LN40 R32 B12 R4 B54 K8 Y8 K12 Y8 K8 B54 R4 B12 R32 LN40 R32 K4 LN8 K4 R110 B2 R/12
 ![Sett](sett.png)
 
 ## Palette
@@ -914,17 +923,17 @@ The nearest existing variants by ΔTartan distance.
 1. [MacFarlane](/setts/s27/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3w4r3k4dp12g2w2r3k1r3w2g12k1r21~x4/) — ΔT 1.94
 1. [Women's Wear Daily Dress (Fashion)](/setts/s28/r1k1ly2k1r1k1b2k1r1k1g2k1r2k1w12k1g2k1r1k1b2k1r1k1ly2k1r30w1~x2/) — ΔT 1.96
 1. [Anderson](/setts/s26/r16g2w24g2r6k6r6g2w66ly2k12ly2w12ly2k4ly4k4ly4k7r2k7r6g20r6g20r12/) — ΔT 1.97
-1. [Whitworth](/setts/s38/r5ly1r8w1db20w1t20w1g20ly1r5ly1r5ly1g20ly2r52w1ly5w1ly5w1r52ly2g20ly1r5ly1r5ly1g20w1t20w1db20w1r8ly1~x2/) — ΔT 1.99
+1. [Whitworth](/setts/s38/r5ly1r8w1db20w1t20w1g20ly1r5ly1r5ly1g20ly2r52w1ly5w1~x2/) — ΔT 1.99
 1. [Mystery Tartan](/setts/s52/r12w1k2t1k1t1k1t1k1t1k1t2k3t3r3t12w1k1w2t7k1w1k1w1k1w1k1w1k1w7k3w16k3w7r5w1r1w2r24k3r3w3r2t1r1t1r1t1r1t1r1k4~x2/) — ΔT 2.05
-1. [Seller, Reproduction Dress](/setts/s22/w63k4lb9ly2lb4ly2lb4dy11r8lb2r4w5r4lb2r8dy11lb4ly2lb4ly2lb9k4~x2/) — ΔT 2.08
+1. [Seller, Reproduction Dress](/setts/s22/w63k4lb9ly2lb4ly2lb4dy11r8lb2r4w5~x2/) — ΔT 2.08
 1. [Unidentified Cant #08](/setts/s26/w38db6w5k6w3k2w3k2lb24r24k2r8w2r8k2r24lb24k2w3k2w3k6w5db6w38r4/) — ΔT 2.09
 1. [MacDougall Plaid](/setts/s24/db3dp12w6r6dg46r14dg6r14db14dp8w6r6w6dp8dg12r16dg12r6db6r86dp10w6r10db3/) — ΔT 2.16
-1. [Somerville Dress (Name?)](/setts/s18/ly2r5r3w54r5g3r5db20r5r3r5g16r2db4r48r6r3w2~x2/) — ΔT 2.19
+1. [Somerville Dress (Name?)](/setts/s18/w2r3r6r48db4r2g16r5r3r5db20r5g3r5w54r3r5ly2~x2/) — ΔT 2.19
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s23/db8k2r7k2db8k2r33w93ly3r3ly3w34r98ly3r3ly3r33k2db8k2r7k2db8~x2/"><circle cx="316.8" cy="14.0" r="4" fill="#3465a4"><title>Unidentified #13</title></circle></a><a href="/setts/s27/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3w4r3k4dp12g2w2r3k1r3w2g12k1r21~x4/"><circle cx="286.8" cy="24.4" r="4" fill="#3465a4"><title>MacFarlane</title></circle></a><a href="/setts/s28/r1k1ly2k1r1k1b2k1r1k1g2k1r2k1w12k1g2k1r1k1b2k1r1k1ly2k1r30w1~x2/"><circle cx="259.5" cy="14.0" r="4" fill="#3465a4"><title>Women's Wear Daily Dress (Fashion)</title></circle></a><a href="/setts/s26/r16g2w24g2r6k6r6g2w66ly2k12ly2w12ly2k4ly4k4ly4k7r2k7r6g20r6g20r12/"><circle cx="174.1" cy="20.5" r="4" fill="#3465a4"><title>Anderson</title></circle></a><a href="/setts/s38/r5ly1r8w1db20w1t20w1g20ly1r5ly1r5ly1g20ly2r52w1ly5w1ly5w1r52ly2g20ly1r5ly1r5ly1g20w1t20w1db20w1r8ly1~x2/"><circle cx="229.7" cy="14.0" r="4" fill="#3465a4"><title>Whitworth</title></circle></a><a href="/setts/s52/r12w1k2t1k1t1k1t1k1t1k1t2k3t3r3t12w1k1w2t7k1w1k1w1k1w1k1w1k1w7k3w16k3w7r5w1r1w2r24k3r3w3r2t1r1t1r1t1r1t1r1k4~x2/"><circle cx="173.4" cy="19.5" r="4" fill="#3465a4"><title>Mystery Tartan</title></circle></a><a href="/setts/s22/w63k4lb9ly2lb4ly2lb4dy11r8lb2r4w5r4lb2r8dy11lb4ly2lb4ly2lb9k4~x2/"><circle cx="185.2" cy="14.0" r="4" fill="#3465a4"><title>Seller, Reproduction Dress</title></circle></a><a href="/setts/s26/w38db6w5k6w3k2w3k2lb24r24k2r8w2r8k2r24lb24k2w3k2w3k6w5db6w38r4/"><circle cx="166.0" cy="50.4" r="4" fill="#3465a4"><title>Unidentified Cant #08</title></circle></a><a href="/setts/s24/db3dp12w6r6dg46r14dg6r14db14dp8w6r6w6dp8dg12r16dg12r6db6r86dp10w6r10db3/"><circle cx="271.0" cy="49.5" r="4" fill="#3465a4"><title>MacDougall Plaid</title></circle></a><a href="/setts/s18/ly2r5r3w54r5g3r5db20r5r3r5g16r2db4r48r6r3w2~x2/"><circle cx="178.4" cy="28.1" r="4" fill="#3465a4"><title>Somerville Dress (Name?)</title></circle></a><circle cx="256.1" cy="14.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s23/db8k2r7k2db8k2r33w93ly3r3ly3w34r98ly3r3ly3r33k2db8k2r7k2db8~x2/"><circle cx="316.1" cy="14.0" r="4" fill="#3465a4"><title>Unidentified #13</title></circle></a><a href="/setts/s27/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3w4r3k4dp12g2w2r3k1r3w2g12k1r21~x4/"><circle cx="286.3" cy="24.5" r="4" fill="#3465a4"><title>MacFarlane</title></circle></a><a href="/setts/s28/r1k1ly2k1r1k1b2k1r1k1g2k1r2k1w12k1g2k1r1k1b2k1r1k1ly2k1r30w1~x2/"><circle cx="258.9" cy="14.0" r="4" fill="#3465a4"><title>Women's Wear Daily Dress (Fashion)</title></circle></a><a href="/setts/s26/r16g2w24g2r6k6r6g2w66ly2k12ly2w12ly2k4ly4k4ly4k7r2k7r6g20r6g20r12/"><circle cx="173.6" cy="20.5" r="4" fill="#3465a4"><title>Anderson</title></circle></a><a href="/setts/s38/r5ly1r8w1db20w1t20w1g20ly1r5ly1r5ly1g20ly2r52w1ly5w1~x2/"><circle cx="229.3" cy="14.0" r="4" fill="#3465a4"><title>Whitworth</title></circle></a><a href="/setts/s52/r12w1k2t1k1t1k1t1k1t1k1t2k3t3r3t12w1k1w2t7k1w1k1w1k1w1k1w1k1w7k3w16k3w7r5w1r1w2r24k3r3w3r2t1r1t1r1t1r1t1r1k4~x2/"><circle cx="172.9" cy="19.5" r="4" fill="#3465a4"><title>Mystery Tartan</title></circle></a><a href="/setts/s22/w63k4lb9ly2lb4ly2lb4dy11r8lb2r4w5~x2/"><circle cx="184.6" cy="14.0" r="4" fill="#3465a4"><title>Seller, Reproduction Dress</title></circle></a><a href="/setts/s26/w38db6w5k6w3k2w3k2lb24r24k2r8w2r8k2r24lb24k2w3k2w3k6w5db6w38r4/"><circle cx="165.5" cy="50.4" r="4" fill="#3465a4"><title>Unidentified Cant #08</title></circle></a><a href="/setts/s24/db3dp12w6r6dg46r14dg6r14db14dp8w6r6w6dp8dg12r16dg12r6db6r86dp10w6r10db3/"><circle cx="270.6" cy="49.6" r="4" fill="#3465a4"><title>MacDougall Plaid</title></circle></a><a href="/setts/s18/w2r3r6r48db4r2g16r5r3r5db20r5g3r5w54r3r5ly2~x2/"><circle cx="177.9" cy="28.3" r="4" fill="#3465a4"><title>Somerville Dress (Name?)</title></circle></a><circle cx="255.5" cy="14.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s36/r6w16r6db1r6w16r6db9w140r55k2w4k2r16w20r16db6r2db27k4ly4k6ly4k4db27r2db6r16w20r16k2w4k2r55db1r6~x2/

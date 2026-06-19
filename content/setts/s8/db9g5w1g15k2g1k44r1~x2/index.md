@@ -2,7 +2,7 @@
 title: "Ataç, H.M. & I.C. (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BGWGKGKR](/stripes/bgwgkgkr/) · **Stripes:** [DB G W G K G K R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB G W G K G K R</span></span>
+**Bands:** [RKGKGWGB](/stripes/rkgkgwgb/) · **Stripes:** [R K G K G W G DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">R K G K G W G DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -45,8 +45,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Marsa Scout Group](/setts/s11/g4k1ly2k1g8k44r2db8k1k1r4~x2/) — ΔT 1.17
-1. [Hot Boontjie](/setts/s8/m4dg4k1w2k1dg18k32r4~x2/) — ΔT 1.19
+1. [Marsa Scout Group](/setts/s11/r4k1k1db8r2k44g8k1ly2k1g4~x2/) — ΔT 1.17
+1. [Hot Boontjie](/setts/s8/r4k32dg18k1w2k1dg4m4~x2/) — ΔT 1.19
 1. [Moran Family Ubique](/setts/s10/dg68k2dg2k2dg2lo8r8k8lo2db7~x2/) — ΔT 1.23
 1. [Wells (2014)](/setts/s7/db50dg25lo3o8r1w1r1~x2/) — ΔT 1.30
 1. [Victorian Highland Pipe Band Association (Australia)](/setts/s8/dt46w1lo3dg13w1r7g3w1~x2/) — ΔT 1.34
@@ -58,8 +58,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g4k1ly2k1g8k44r2db8k1k1r4~x2/"><circle cx="421.2" cy="84.3" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/setts/s8/m4dg4k1w2k1dg18k32r4~x2/"><circle cx="340.2" cy="130.5" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/setts/s10/dg68k2dg2k2dg2lo8r8k8lo2db7~x2/"><circle cx="442.6" cy="104.1" r="4" fill="#3465a4"><title>Moran Family Ubique</title></circle></a><a href="/setts/s7/db50dg25lo3o8r1w1r1~x2/"><circle cx="371.9" cy="103.9" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><a href="/setts/s8/dt46w1lo3dg13w1r7g3w1~x2/"><circle cx="402.9" cy="95.7" r="4" fill="#3465a4"><title>Victorian Highland Pipe Band Association (Australia)</title></circle></a><a href="/setts/s9/lr3k6w2k6dt2k2dt32k2n1~x2/"><circle cx="408.6" cy="125.4" r="4" fill="#3465a4"><title>Nocken Blue Modern Tartan (Personal)</title></circle></a><a href="/setts/s9/r4k2w6k2db40k80dg10w6r3/"><circle cx="341.6" cy="97.1" r="4" fill="#3465a4"><title>Italian American</title></circle></a><a href="/setts/s12/dg6k6r1w1k6dg32k6r1w1k6dg6ly2~x4/"><circle cx="395.9" cy="123.8" r="4" fill="#3465a4"><title>Schwarzen Keiler, Die</title></circle></a><a href="/setts/s10/k53b3k2w1k2b3k5b32ly1r3~x2/"><circle cx="409.8" cy="86.2" r="4" fill="#3465a4"><title>Estonian National Tartan (District)</title></circle></a><a href="/setts/s9/lr4dg30k1dg1k1dg3k12db10r3~x2/"><circle cx="304.7" cy="125.6" r="4" fill="#3465a4"><title>MacDonnald of ye Ylis</title></circle></a><circle cx="402.5" cy="120.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r4k1k1db8r2k44g8k1ly2k1g4~x2/"><circle cx="421.0" cy="84.2" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/setts/s8/r4k32dg18k1w2k1dg4m4~x2/"><circle cx="340.1" cy="130.4" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/setts/s10/dg68k2dg2k2dg2lo8r8k8lo2db7~x2/"><circle cx="442.4" cy="104.0" r="4" fill="#3465a4"><title>Moran Family Ubique</title></circle></a><a href="/setts/s7/db50dg25lo3o8r1w1r1~x2/"><circle cx="371.8" cy="103.9" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><a href="/setts/s8/dt46w1lo3dg13w1r7g3w1~x2/"><circle cx="402.7" cy="95.7" r="4" fill="#3465a4"><title>Victorian Highland Pipe Band Association (Australia)</title></circle></a><a href="/setts/s9/lr3k6w2k6dt2k2dt32k2n1~x2/"><circle cx="408.5" cy="125.3" r="4" fill="#3465a4"><title>Nocken Blue Modern Tartan (Personal)</title></circle></a><a href="/setts/s9/r4k2w6k2db40k80dg10w6r3/"><circle cx="341.6" cy="97.0" r="4" fill="#3465a4"><title>Italian American</title></circle></a><a href="/setts/s12/dg6k6r1w1k6dg32k6r1w1k6dg6ly2~x4/"><circle cx="395.8" cy="123.8" r="4" fill="#3465a4"><title>Schwarzen Keiler, Die</title></circle></a><a href="/setts/s10/k53b3k2w1k2b3k5b32ly1r3~x2/"><circle cx="409.6" cy="86.1" r="4" fill="#3465a4"><title>Estonian National Tartan (District)</title></circle></a><a href="/setts/s9/lr4dg30k1dg1k1dg3k12db10r3~x2/"><circle cx="304.7" cy="125.6" r="4" fill="#3465a4"><title>MacDonnald of ye Ylis</title></circle></a><circle cx="402.4" cy="120.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db9g5w1g15k2g1k44r1~x2/

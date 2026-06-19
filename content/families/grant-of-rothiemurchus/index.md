@@ -8,5 +8,11 @@ A family of [Clan Grant](/clan/grant/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s13/r1g1r32db32r8g1r1g1r8g32r32g1r1~x2/"><img src="/setts/s13/r1g1r32db32r8g1r1g1r8g32r32g1r1~x2/sett.png" alt="Grant of Rothiemurchus" width="240"><br>Grant of Rothiemurchus</a>
+<a class="tartan" href="/setts/s13/r1g1r32dp32r8g1r1g1r8g32r32g1r1~x2/"><img src="/setts/s13/r1g1r32dp32r8g1r1g1r8g32r32g1r1~x2/sett.png" alt="Unnamed 18th century plaid from Rothiemurchus" width="240"><br>Unnamed 18th century plaid from Rothiemurchus</a>
+
+## Other tartans
+
+<ul class="tartan-grid">
+<li><a class="tartan" href="/setts/s13/r1g1r32db32r8g1r1g1r8g32r32g1r1~x2/"><img src="/setts/s13/r1g1r32db32r8g1r1g1r8g32r32g1r1~x2/sett.png" alt="Grant of Rothiemurchus" width="140"><br>Grant of Rothiemurchus</a></li>
+</ul>
 

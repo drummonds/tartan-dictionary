@@ -22,6 +22,6 @@ BBBBBGBGBBBGBGBBBBBW
 
 | Tartans |
 |---------------|
-| [Schiehallion](/setts/s20/w2db1b1db31b17db2g3db2g2db4b14db4g2db2g3db2b17db31b1db1~x2/)|
-|![Schiehallion example sett](/setts/s20/w2db1b1db31b17db2g3db2g2db4b14db4g2db2g3db2b17db31b1db1~x2/sett.png)|
+| [Schiehallion](/setts/s20/b14db4g2db2g3db2b17db31b1db1w2~x2/)|
+|![Schiehallion example sett](/setts/s20/b14db4g2db2g3db2b17db31b1db1w2~x2/sett.png)|
 

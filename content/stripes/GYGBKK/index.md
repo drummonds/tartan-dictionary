@@ -20,7 +20,7 @@ GYGBKK
 
 
 
-### G LY DY DB K K <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="seq">G LY DY DB K K</span></span>
+### K K DB DY LY G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K K DB DY LY G</span></span>
 
 | Tartans |
 |---------------|

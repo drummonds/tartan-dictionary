@@ -18,7 +18,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2367
 
 ## Thread count
-K/4 LT12 Na12 N12 DB12 N12 G12 K4 G12 N12 DB12 N12 Na12 LT/12
+LT/12 Na12 N12 DB12 N12 G12 K4 G12 N12 DB12 N12 Na12 LT12 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -41,7 +41,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Stewarton (Fashion)](/setts/s8/k1g3o3db3o3lr3o3k1~x4/) — ΔT 1.34
+1. [Stewarton (Fashion)](/setts/s8/k1o3lr3o3db3o3g3k1~x4/) — ΔT 1.34
 1. [Stanners (Personal)](/setts/s13/lr4k4n4k4g4w1g4w1n3r4n3r4w1~x4/) — ΔT 1.71
 1. [DunBroch](/setts/s11/db4t8k2t5lb2t5dg8dr7dg2dr7dg3~x2/) — ΔT 1.78
 1. [Roscommon County Crest (Fashion)](/setts/s11/g11k5lo7w5lo7k5g7lo11db16lo7ly5~x2/) — ΔT 1.79
@@ -54,8 +54,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k1g3o3db3o3lr3o3k1~x4/"><circle cx="14.0" cy="262.9" r="4" fill="#3465a4"><title>Stewarton (Fashion)</title></circle></a><a href="/setts/s13/lr4k4n4k4g4w1g4w1n3r4n3r4w1~x4/"><circle cx="14.0" cy="215.7" r="4" fill="#3465a4"><title>Stanners (Personal)</title></circle></a><a href="/setts/s11/db4t8k2t5lb2t5dg8dr7dg2dr7dg3~x2/"><circle cx="55.5" cy="222.1" r="4" fill="#3465a4"><title>DunBroch</title></circle></a><a href="/setts/s11/g11k5lo7w5lo7k5g7lo11db16lo7ly5~x2/"><circle cx="27.7" cy="226.9" r="4" fill="#3465a4"><title>Roscommon County Crest (Fashion)</title></circle></a><a href="/setts/s13/t10r3t10k7lo5w2lo5w2lo5k7g10r3g7~x2/"><circle cx="14.0" cy="202.6" r="4" fill="#3465a4"><title>Redgate (Name)</title></circle></a><a href="/setts/s13/o2lr2do2y2lr6y3do3y4lr2do3y2lr2o2~x2/"><circle cx="39.0" cy="235.9" r="4" fill="#3465a4"><title>Callanish, The</title></circle></a><a href="/setts/s13/lr4k4dt4k4g4w1g4w1dt3r4dt3r4w1~x4/"><circle cx="14.0" cy="215.5" r="4" fill="#3465a4"><title>Stanners (Personal)</title></circle></a><a href="/setts/s14/g10k6t10ly4t10k3g10k3g10k3r10w4r10k6~x2/"><circle cx="14.0" cy="208.1" r="4" fill="#3465a4"><title>Scandinavian</title></circle></a><a href="/setts/s9/lp2w1y1g1g1dg1y1g1dg1~x20/"><circle cx="14.0" cy="274.3" r="4" fill="#3465a4"><title>Stirling Millennium</title></circle></a><a href="/setts/s11/db4g4db4w1db1w1m4lo4w1g4m4~x4/"><circle cx="14.0" cy="205.2" r="4" fill="#3465a4"><title>Belwade</title></circle></a><circle cx="14.0" cy="258.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k1o3lr3o3db3o3g3k1~x4/"><circle cx="14.0" cy="263.0" r="4" fill="#3465a4"><title>Stewarton (Fashion)</title></circle></a><a href="/setts/s13/lr4k4n4k4g4w1g4w1n3r4n3r4w1~x4/"><circle cx="14.0" cy="215.9" r="4" fill="#3465a4"><title>Stanners (Personal)</title></circle></a><a href="/setts/s11/db4t8k2t5lb2t5dg8dr7dg2dr7dg3~x2/"><circle cx="55.6" cy="222.2" r="4" fill="#3465a4"><title>DunBroch</title></circle></a><a href="/setts/s11/g11k5lo7w5lo7k5g7lo11db16lo7ly5~x2/"><circle cx="27.8" cy="227.0" r="4" fill="#3465a4"><title>Roscommon County Crest (Fashion)</title></circle></a><a href="/setts/s13/t10r3t10k7lo5w2lo5w2lo5k7g10r3g7~x2/"><circle cx="14.0" cy="202.8" r="4" fill="#3465a4"><title>Redgate (Name)</title></circle></a><a href="/setts/s13/o2lr2do2y2lr6y3do3y4lr2do3y2lr2o2~x2/"><circle cx="39.0" cy="236.0" r="4" fill="#3465a4"><title>Callanish, The</title></circle></a><a href="/setts/s13/lr4k4dt4k4g4w1g4w1dt3r4dt3r4w1~x4/"><circle cx="14.0" cy="215.6" r="4" fill="#3465a4"><title>Stanners (Personal)</title></circle></a><a href="/setts/s14/g10k6t10ly4t10k3g10k3g10k3r10w4r10k6~x2/"><circle cx="14.0" cy="208.2" r="4" fill="#3465a4"><title>Scandinavian</title></circle></a><a href="/setts/s9/lp2w1y1g1g1dg1y1g1dg1~x20/"><circle cx="14.0" cy="274.5" r="4" fill="#3465a4"><title>Stirling Millennium</title></circle></a><a href="/setts/s11/db4g4db4w1db1w1m4lo4w1g4m4~x4/"><circle cx="14.0" cy="205.4" r="4" fill="#3465a4"><title>Belwade</title></circle></a><circle cx="14.0" cy="258.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/o3lr3o3db3o3g3k1g3o3db3o3lr3o3k1~x4/

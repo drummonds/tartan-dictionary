@@ -2,7 +2,7 @@
 title: "Armagh, County"
 date: 2023-03-18
 ---
-**Bands:** [GGGGRGGYG](/stripes/ggggrggyg/) · **Stripes:** [DG DG DG DG R DG DG LY DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="seq">DG DG DG DG R DG DG LY DG</span></span>
+**Bands:** [GYGGRGGGG](/stripes/gyggrgggg/) · **Stripes:** [DG LY DG DG R DG DG DG DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="seq">DG LY DG DG R DG DG DG DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2276
 
 ## Thread count
-G/4 DG22 G6 DG4 DR8 DG4 G34 LG4 G/8
+G/8 LG4 G34 DG4 DR8 DG4 G6 DG22 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -45,8 +45,8 @@ The nearest existing variants by ΔTartan distance.
 1. [Daks (Loden)](/setts/s8/db3dy7g2y2g14dy2g2db3~x2/) — ΔT 1.20
 1. [Scottish Pup](/setts/s8/dg8do2dg13db4dg12n22dg5ly3~x2/) — ΔT 1.30
 1. [Dublin, County](/setts/s12/dg3do3dg3do16dg3do3dg3dr5dg18r2dg8r3~x2/) — ΔT 1.32
-1. [Hueg (Hunting) (Personal)](/setts/s10/dt17g5dt5g17dt4g17k2dy2k2g5~x2/) — ΔT 1.40
-1. [Land's End Blue](/setts/s8/dg2dt26g2dt2g9r2g9dt2~x2/) — ΔT 1.46
+1. [Hueg (Hunting) (Personal)](/setts/s10/dt17g5dt5g17dt4g17k2dy2k2g5~x2/) — ΔT 1.39
+1. [Land's End Blue](/setts/s8/dg2dt26g2dt2g9r2g9dt2~x2/) — ΔT 1.45
 1. [Park Estate](/setts/s6/y4dg18dg6dg6dg24k3~x2/) — ΔT 1.58
 1. [MacKinnon Hunting](/setts/s7/dg1dy8dg8r1dg8dy8w1~x2/) — ΔT 1.60
 1. [St. Andrews New Golf Club](/setts/s9/dp4dt18r2dt2r2dt9g20dt3g4~x2/) — ΔT 1.61
@@ -55,8 +55,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db3dy7g2y2g14dy2g2db3~x2/"><circle cx="329.5" cy="256.0" r="4" fill="#3465a4"><title>Daks (Loden)</title></circle></a><a href="/setts/s8/dg8do2dg13db4dg12n22dg5ly3~x2/"><circle cx="358.2" cy="250.1" r="4" fill="#3465a4"><title>Scottish Pup</title></circle></a><a href="/setts/s12/dg3do3dg3do16dg3do3dg3dr5dg18r2dg8r3~x2/"><circle cx="393.5" cy="249.3" r="4" fill="#3465a4"><title>Dublin, County</title></circle></a><a href="/setts/s10/dt17g5dt5g17dt4g17k2dy2k2g5~x2/"><circle cx="380.8" cy="255.9" r="4" fill="#3465a4"><title>Hueg (Hunting) (Personal)</title></circle></a><a href="/setts/s8/dg2dt26g2dt2g9r2g9dt2~x2/"><circle cx="425.6" cy="230.6" r="4" fill="#3465a4"><title>Land's End Blue</title></circle></a><a href="/setts/s6/y4dg18dg6dg6dg24k3~x2/"><circle cx="369.9" cy="300.9" r="4" fill="#3465a4"><title>Park Estate</title></circle></a><a href="/setts/s7/dg1dy8dg8r1dg8dy8w1~x2/"><circle cx="371.3" cy="295.7" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/setts/s9/dp4dt18r2dt2r2dt9g20dt3g4~x2/"><circle cx="341.2" cy="233.2" r="4" fill="#3465a4"><title>St. Andrews New Golf Club</title></circle></a><a href="/setts/s10/do8y2do27k10n4k2n3k2n16do2~x2/"><circle cx="386.0" cy="231.2" r="4" fill="#3465a4"><title>Highland Granite</title></circle></a><a href="/setts/s10/dy9n4dy2n4dy2n30dy9n4t14lo2~x2/"><circle cx="397.1" cy="215.7" r="4" fill="#3465a4"><title>Hanna of Leith (yellow line)</title></circle></a><circle cx="386.0" cy="256.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db3dy7g2y2g14dy2g2db3~x2/"><circle cx="329.4" cy="256.1" r="4" fill="#3465a4"><title>Daks (Loden)</title></circle></a><a href="/setts/s8/dg8do2dg13db4dg12n22dg5ly3~x2/"><circle cx="358.1" cy="250.2" r="4" fill="#3465a4"><title>Scottish Pup</title></circle></a><a href="/setts/s12/dg3do3dg3do16dg3do3dg3dr5dg18r2dg8r3~x2/"><circle cx="393.4" cy="249.5" r="4" fill="#3465a4"><title>Dublin, County</title></circle></a><a href="/setts/s10/dt17g5dt5g17dt4g17k2dy2k2g5~x2/"><circle cx="380.7" cy="256.0" r="4" fill="#3465a4"><title>Hueg (Hunting) (Personal)</title></circle></a><a href="/setts/s8/dg2dt26g2dt2g9r2g9dt2~x2/"><circle cx="425.6" cy="230.7" r="4" fill="#3465a4"><title>Land's End Blue</title></circle></a><a href="/setts/s6/y4dg18dg6dg6dg24k3~x2/"><circle cx="369.9" cy="301.1" r="4" fill="#3465a4"><title>Park Estate</title></circle></a><a href="/setts/s7/dg1dy8dg8r1dg8dy8w1~x2/"><circle cx="371.2" cy="295.8" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/setts/s9/dp4dt18r2dt2r2dt9g20dt3g4~x2/"><circle cx="341.2" cy="233.2" r="4" fill="#3465a4"><title>St. Andrews New Golf Club</title></circle></a><a href="/setts/s10/do8y2do27k10n4k2n3k2n16do2~x2/"><circle cx="386.0" cy="231.4" r="4" fill="#3465a4"><title>Highland Granite</title></circle></a><a href="/setts/s10/dy9n4dy2n4dy2n30dy9n4t14lo2~x2/"><circle cx="396.8" cy="215.8" r="4" fill="#3465a4"><title>Hanna of Leith (yellow line)</title></circle></a><circle cx="385.9" cy="256.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dg4ly2dg17dg2r4dg2dg3dg11dg2~x2/

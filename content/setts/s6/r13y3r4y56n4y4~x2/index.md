@@ -2,12 +2,19 @@
 title: "Auchairne grey"
 date: 2023-03-18
 ---
-**Bands:** [GBGRGR](/stripes/gbgrgr/) · **Stripes:** [Y N Y R Y R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="seq">Y N Y R Y R</span></span>
+**Bands:** [RGRGBG](/stripes/rgrgbg/) · **Stripes:** [R Y R Y N Y](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R Y R Y N Y</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Auchairne grey
+- Auchairne, Grey
 
 ## Register references
 
@@ -311,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-Na/8 N8 Na112 R8 Na6 R/26
+R/26 Na6 R8 Na112 N8 Na/8
 ![Sett](sett.png)
 
 ## Palette
@@ -899,7 +909,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "Na/8 N8 Na112 R8 Na6 R/26 tartan")
+![Tartan detail](tartan.png "R/26 Na6 R8 Na112 N8 Na/8 tartan")
 
 ## Nearest tartans
 
@@ -918,8 +928,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r13o3r4o56n4o4~x2/"><circle cx="604.0" cy="213.3" r="4" fill="#3465a4"><title>Auchairne Grey</title></circle></a><a href="/setts/s5/y60g13y9r8ly4~x2/"><circle cx="527.9" cy="226.0" r="4" fill="#3465a4"><title>Ballantyne (Personal)</title></circle></a><a href="/setts/s6/n65k2n4lr2n10r24~x2/"><circle cx="579.9" cy="186.6" r="4" fill="#3465a4"><title>Norsemen (Corporate)</title></circle></a><a href="/setts/s6/y40r8y4w2y4ly5~x2/"><circle cx="566.4" cy="187.8" r="4" fill="#3465a4"><title>Reid (1939)</title></circle></a><a href="/setts/s5/o60dg13o9o8ly4~x2/"><circle cx="507.1" cy="212.8" r="4" fill="#3465a4"><title>Ballantyne Personal Tartan Tartan Number: 7563. Earliest known date: 2007 Andrew Ballantyne said, l finally decided to purchase a tartan of my own design. The first kilt was made for my father and he was very pleased with it. The fabric was designed online at House of Tartan and woven by Edgars, Perth. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/o16lb8dy1lb2dy1lb1dy8o34w2~x2/"><circle cx="529.6" cy="165.4" r="4" fill="#3465a4"><title>Stuart of Bute St Colmac</title></circle></a><a href="/setts/s7/db3y1w1y25w1y1p3~x2/"><circle cx="575.0" cy="154.0" r="4" fill="#3465a4"><title>St Giles, Check</title></circle></a><a href="/setts/s7/w2o44dt8o2dt2o3r1~x2/"><circle cx="626.0" cy="136.3" r="4" fill="#3465a4"><title>Reece, Mathew</title></circle></a><a href="/setts/s11/o5g1o32r1o8r9o2g2g3r3g1~x2/"><circle cx="539.7" cy="141.6" r="4" fill="#3465a4"><title>Portosalvo (Corporate)</title></circle></a><a href="/setts/s5/y65r27w2y4ly5~x2/"><circle cx="508.7" cy="174.6" r="4" fill="#3465a4"><title>Perry, Arisaid</title></circle></a><circle cx="610.0" cy="217.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r13o3r4o56n4o4~x2/"><circle cx="603.4" cy="213.1" r="4" fill="#3465a4"><title>Auchairne Grey</title></circle></a><a href="/setts/s5/y60g13y9r8ly4~x2/"><circle cx="527.5" cy="225.8" r="4" fill="#3465a4"><title>Ballantyne (Personal)</title></circle></a><a href="/setts/s6/n65k2n4lr2n10r24~x2/"><circle cx="579.5" cy="186.5" r="4" fill="#3465a4"><title>Norsemen (Corporate)</title></circle></a><a href="/setts/s6/y40r8y4w2y4ly5~x2/"><circle cx="565.8" cy="187.6" r="4" fill="#3465a4"><title>Reid (1939)</title></circle></a><a href="/setts/s5/o60dg13o9o8ly4~x2/"><circle cx="506.7" cy="212.5" r="4" fill="#3465a4"><title>Ballantyne Personal Tartan Tartan Number: 7563. Earliest known date: 2007 Andrew Ballantyne said, l finally decided to purchase a tartan of my own design. The first kilt was made for my father and he was very pleased with it. The fabric was designed online at House of Tartan and woven by Edgars, Perth. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/o16lb8dy1lb2dy1lb1dy8o34w2~x2/"><circle cx="529.0" cy="165.4" r="4" fill="#3465a4"><title>Stuart of Bute St Colmac</title></circle></a><a href="/setts/s7/db3y1w1y25w1y1p3~x2/"><circle cx="574.4" cy="153.7" r="4" fill="#3465a4"><title>St Giles, Check</title></circle></a><a href="/setts/s7/w2o44dt8o2dt2o3r1~x2/"><circle cx="626.0" cy="136.1" r="4" fill="#3465a4"><title>Reece, Mathew</title></circle></a><a href="/setts/s11/o5g1o32r1o8r9o2g2g3r3g1~x2/"><circle cx="539.1" cy="141.6" r="4" fill="#3465a4"><title>Portosalvo (Corporate)</title></circle></a><a href="/setts/s5/y65r27w2y4ly5~x2/"><circle cx="508.1" cy="174.4" r="4" fill="#3465a4"><title>Perry, Arisaid</title></circle></a><circle cx="609.4" cy="217.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r13y3r4y56n4y4~x2/

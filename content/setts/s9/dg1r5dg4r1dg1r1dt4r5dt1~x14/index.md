@@ -2,12 +2,18 @@
 title: "Lumsden Boghead"
 date: 2023-03-18
 ---
-**Bands:** [BRBRGRGRG](/stripes/brbrgrgrg/) · **Stripes:** [DT R DT R DG R DG R DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">DT R DT R DG R DG R DG</span></span>
+**Bands:** [GRGRGRBRB](/stripes/grgrgrbrb/) · **Stripes:** [DG R DG R DG R DT R DT](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">DG R DG R DG R DT R DT</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2247
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Lumsden of Kintore
 
 ## Register references
 
@@ -18,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 418
 
 ## Thread count
-DN/14 R70 DN56 R14 G14 R14 G56 R70 G/14
+G/14 R70 G56 R14 G14 R14 DN56 R70 DN/14
 ![Sett](sett.png)
 
 ## Palette
@@ -47,8 +53,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dt1r5dt4r1g1r1g4r5g1~x12/"><circle cx="273.0" cy="243.6" r="4" fill="#3465a4"><title>Lumsden of Kintore (Clan?)</title></circle></a><a href="/setts/s9/db1r5db4r1g1r1g4r5g1~x20/"><circle cx="274.5" cy="244.4" r="4" fill="#3465a4"><title>Lumsden 1797</title></circle></a><a href="/setts/s11/lr1r4dg1r1dg3r1dg3r1dg1r4ly1~x2/"><circle cx="263.6" cy="239.9" r="4" fill="#3465a4"><title>Bruce</title></circle></a><a href="/setts/s7/r1dg4r1lr1r4dg1r1~x4/"><circle cx="316.4" cy="274.7" r="4" fill="#3465a4"><title>Unidentified #59</title></circle></a><a href="/setts/s7/r6g1r6db1g3k3g3~x4/"><circle cx="247.2" cy="240.3" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/setts/s9/dp1k2r7o4r2k4r7o2dp1~x4/"><circle cx="274.7" cy="225.4" r="4" fill="#3465a4"><title>Clanton (Personal)</title></circle></a><a href="/setts/s7/db3r25db17r5g22r9db3~x2/"><circle cx="266.2" cy="233.4" r="4" fill="#3465a4"><title>MacFadyan (MacGregor Hastie)</title></circle></a><a href="/setts/s10/db3r23db3r26db3r3db25r3g24r3~x2/"><circle cx="301.9" cy="202.6" r="4" fill="#3465a4"><title>Unidentified, Early 18th C</title></circle></a><a href="/setts/s12/r1t1r6db3r1dg6r1dg6r6db1r1t1~x2/"><circle cx="236.8" cy="195.8" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><a href="/setts/s10/r8dg2r2dg6r1dg6r2dg2r8ly1/"><circle cx="335.1" cy="221.4" r="4" fill="#3465a4"><title>Bruce</title></circle></a><circle cx="280.1" cy="246.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dt1r5dt4r1g1r1g4r5g1~x12/"><circle cx="272.8" cy="243.5" r="4" fill="#3465a4"><title>Lumsden of Kintore (Clan?)</title></circle></a><a href="/setts/s9/db1r5db4r1g1r1g4r5g1~x20/"><circle cx="274.3" cy="244.2" r="4" fill="#3465a4"><title>Lumsden 1797</title></circle></a><a href="/setts/s11/lr1r4dg1r1dg3r1dg3r1dg1r4ly1~x2/"><circle cx="263.4" cy="239.9" r="4" fill="#3465a4"><title>Bruce</title></circle></a><a href="/setts/s7/r1dg4r1lr1r4dg1r1~x4/"><circle cx="316.3" cy="274.6" r="4" fill="#3465a4"><title>Unidentified #59</title></circle></a><a href="/setts/s7/r6g1r6db1g3k3g3~x4/"><circle cx="247.0" cy="240.2" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/setts/s9/dp1k2r7o4r2k4r7o2dp1~x4/"><circle cx="274.5" cy="225.4" r="4" fill="#3465a4"><title>Clanton (Personal)</title></circle></a><a href="/setts/s7/db3r25db17r5g22r9db3~x2/"><circle cx="266.1" cy="233.3" r="4" fill="#3465a4"><title>MacFadyan (MacGregor Hastie)</title></circle></a><a href="/setts/s10/db3r23db3r26db3r3db25r3g24r3~x2/"><circle cx="301.6" cy="202.5" r="4" fill="#3465a4"><title>Unidentified, Early 18th C</title></circle></a><a href="/setts/s12/r1t1r6db3r1dg6r1dg6r6db1r1t1~x2/"><circle cx="236.6" cy="195.8" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><a href="/setts/s10/r8dg2r2dg6r1dg6r2dg2r8ly1/"><circle cx="334.7" cy="221.2" r="4" fill="#3465a4"><title>Bruce</title></circle></a><circle cx="279.9" cy="246.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dg1r5dg4r1dg1r1dt4r5dt1~x14/

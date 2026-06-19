@@ -2,7 +2,7 @@
 title: "Walter"
 date: 2023-03-18
 ---
-**Bands:** [BGBGYWR](/stripes/bgbgywr/) · **Stripes:** [T DY P DG LY W R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">T DY P DG LY W R</span></span>
+**Bands:** [RWYGBGB](/stripes/rwygbgb/) · **Stripes:** [R W LY DG P DY T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="seq">R W LY DG P DY T</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/8 T6 P36 DG36 Y8 LN6 R/48
+R/48 LN6 Y8 DG36 P36 T6 B/8
 ![Sett](sett.png)
 
 ## Palette
@@ -903,7 +906,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/8 T6 P36 DG36 Y8 LN6 R/48 tartan")
+![Tartan detail](tartan.png "R/48 LN6 Y8 DG36 P36 T6 B/8 tartan")
 
 ## Nearest tartans
 
@@ -911,7 +914,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Walter (Personal)](/setts/s7/r24w3ly4dg18dp18y3t4~x2/) — ΔT 0.15
 1. [Culloden](/setts/s8/r5t2dp14w2k13lo13k2ly3~x2/) — ΔT 0.93
-1. [Walter (Personal)](/setts/s12/r24w3ly4dg18dp18y3t4y3dp18dg18ly4w3~x2/) — ΔT 1.24
+1. [Walter (Personal)](/setts/s12/r24w3ly4dg18dp18y3t4~x2/) — ΔT 1.24
 1. [MacLeod Soc. of Scotland, (Comm)](/setts/s7/g3g3r22k5db22ly2w2~x2/) — ΔT 1.28
 1. [Scotland's International - Away (Fas](/setts/s10/r24r24k2w6k2ly2k16lb5db6w2~x2/) — ΔT 1.30
 1. [Nicolson of Taransay (Personal)](/setts/s7/w6g10r22db16g2k4k5~x2/) — ΔT 1.33
@@ -922,8 +925,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r24w3ly4dg18dp18y3t4~x2/"><circle cx="94.1" cy="149.7" r="4" fill="#3465a4"><title>Walter (Personal)</title></circle></a><a href="/setts/s8/r5t2dp14w2k13lo13k2ly3~x2/"><circle cx="43.5" cy="144.3" r="4" fill="#3465a4"><title>Culloden</title></circle></a><a href="/setts/s12/r24w3ly4dg18dp18y3t4y3dp18dg18ly4w3~x2/"><circle cx="67.3" cy="128.1" r="4" fill="#3465a4"><title>Walter (Personal)</title></circle></a><a href="/setts/s7/g3g3r22k5db22ly2w2~x2/"><circle cx="156.7" cy="125.2" r="4" fill="#3465a4"><title>MacLeod Soc. of Scotland, (Comm)</title></circle></a><a href="/setts/s10/r24r24k2w6k2ly2k16lb5db6w2~x2/"><circle cx="80.1" cy="100.5" r="4" fill="#3465a4"><title>Scotland's International - Away (Fas</title></circle></a><a href="/setts/s7/w6g10r22db16g2k4k5~x2/"><circle cx="104.8" cy="160.1" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><a href="/setts/s8/r5t2dp14w2k13y13k2ly3~x2/"><circle cx="35.4" cy="144.3" r="4" fill="#3465a4"><title>Culloden, Gold</title></circle></a><a href="/setts/s8/dt8t1db1t1m12ly6k12w2~x4/"><circle cx="68.6" cy="125.2" r="4" fill="#3465a4"><title>Maryland</title></circle></a><a href="/setts/s6/g3db8r11dt3k2dp2~x4/"><circle cx="128.2" cy="203.8" r="4" fill="#3465a4"><title>Nicolson of Tiree &amp; Coll (Clan)</title></circle></a><a href="/setts/s7/ly5lr3db6o8w5r17k2/"><circle cx="72.0" cy="136.4" r="4" fill="#3465a4"><title>Barrington Municipality</title></circle></a><circle cx="95.4" cy="150.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r24w3ly4dg18dp18y3t4~x2/"><circle cx="94.0" cy="149.9" r="4" fill="#3465a4"><title>Walter (Personal)</title></circle></a><a href="/setts/s8/r5t2dp14w2k13lo13k2ly3~x2/"><circle cx="43.5" cy="144.5" r="4" fill="#3465a4"><title>Culloden</title></circle></a><a href="/setts/s12/r24w3ly4dg18dp18y3t4~x2/"><circle cx="67.3" cy="128.3" r="4" fill="#3465a4"><title>Walter (Personal)</title></circle></a><a href="/setts/s7/g3g3r22k5db22ly2w2~x2/"><circle cx="156.6" cy="125.3" r="4" fill="#3465a4"><title>MacLeod Soc. of Scotland, (Comm)</title></circle></a><a href="/setts/s10/r24r24k2w6k2ly2k16lb5db6w2~x2/"><circle cx="80.0" cy="100.7" r="4" fill="#3465a4"><title>Scotland's International - Away (Fas</title></circle></a><a href="/setts/s7/w6g10r22db16g2k4k5~x2/"><circle cx="104.8" cy="160.2" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><a href="/setts/s8/r5t2dp14w2k13y13k2ly3~x2/"><circle cx="35.5" cy="144.5" r="4" fill="#3465a4"><title>Culloden, Gold</title></circle></a><a href="/setts/s8/dt8t1db1t1m12ly6k12w2~x4/"><circle cx="68.6" cy="125.4" r="4" fill="#3465a4"><title>Maryland</title></circle></a><a href="/setts/s6/g3db8r11dt3k2dp2~x4/"><circle cx="128.2" cy="203.9" r="4" fill="#3465a4"><title>Nicolson of Tiree &amp; Coll (Clan)</title></circle></a><a href="/setts/s7/ly5lr3db6o8w5r17k2/"><circle cx="71.8" cy="136.5" r="4" fill="#3465a4"><title>Barrington Municipality</title></circle></a><circle cx="95.3" cy="151.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r24w3ly4dg18p18dy3t4~x2/

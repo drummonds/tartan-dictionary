@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3576
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Rothesay, Duke of
+- Rothesay, Red
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -319,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -920,8 +930,8 @@ The nearest existing variants by ΔTartan distance.
 1. [MacColl](/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x4/) — ΔT 1.04
 1. [Scott](/setts/s18/r16g8r2g2w2g2r2g2w2g2r2g8r16k1r2g3r2k1~x2/) — ΔT 1.10
 1. [MacKinnon 9](/setts/s14/w2r4g2db2r6g4r2db5g2r20g7w2r4w2~x2/) — ΔT 1.15
-1. [Harkness Dress](/setts/s18/b10r2w2r16g6r1g2r1g3r6g3r1g2r1g6r16w2r2~x4/) — ΔT 1.16
-1. [MacColl](/setts/s14/r12db1r1dg8r2db1r1db3r1db1r12dg1r1dg4/) — ΔT 1.16
+1. [Harkness Dress](/setts/s18/b10r2w2r16g6r1g2r1g3r6~x4/) — ΔT 1.16
+1. [MacColl](/setts/s14/r12db1r1dg8r2db1r1db3r1db1r12dg1r1dg4~x2/) — ΔT 1.16
 1. [Bruce Old](/setts/s14/r45db4r4dg48r4db4r4db15r4db4r40dg4r4dg30/) — ΔT 1.18
 1. [Bruce Old Clan Tartan Tartan Number: 876. Earliest known date: 1797 An order dated 1797 in the Wilson's of Bannockburn papers requests '50 Ells Bruce sett tartan'. As no distinction is made between 'old' and 'new' we assume that the 'new' sett, which has much in common with this one, had not been introduced. (Reduced in proportion for illustration.) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/r45dp4r4g48r4dp4r4dp15r4dp4r40g4r4g30/) — ΔT 1.25
 1. [Bruce, Old](/setts/s14/r45db4r4g48r4db4r4db15r4db4r40g4r4g30/) — ΔT 1.26
@@ -929,8 +939,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x2/"><circle cx="394.4" cy="162.8" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x4/"><circle cx="390.7" cy="159.9" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/setts/s18/r16g8r2g2w2g2r2g2w2g2r2g8r16k1r2g3r2k1~x2/"><circle cx="332.3" cy="116.4" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s14/w2r4g2db2r6g4r2db5g2r20g7w2r4w2~x2/"><circle cx="295.4" cy="146.6" r="4" fill="#3465a4"><title>MacKinnon 9</title></circle></a><a href="/setts/s18/b10r2w2r16g6r1g2r1g3r6g3r1g2r1g6r16w2r2~x4/"><circle cx="317.2" cy="121.6" r="4" fill="#3465a4"><title>Harkness Dress</title></circle></a><a href="/setts/s14/r12db1r1dg8r2db1r1db3r1db1r12dg1r1dg4/"><circle cx="379.7" cy="155.8" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/setts/s14/r45db4r4dg48r4db4r4db15r4db4r40dg4r4dg30/"><circle cx="319.7" cy="160.6" r="4" fill="#3465a4"><title>Bruce Old</title></circle></a><a href="/setts/s14/r45dp4r4g48r4dp4r4dp15r4dp4r40g4r4g30/"><circle cx="332.1" cy="165.4" r="4" fill="#3465a4"><title>Bruce Old Clan Tartan Tartan Number: 876. Earliest known date: 1797 An order dated 1797 in the Wilson's of Bannockburn papers requests '50 Ells Bruce sett tartan'. As no distinction is made between 'old' and 'new' we assume that the 'new' sett, which has much in common with this one, had not been introduced. (Reduced in proportion for illustration.) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r45db4r4g48r4db4r4db15r4db4r40g4r4g30/"><circle cx="321.9" cy="165.1" r="4" fill="#3465a4"><title>Bruce, Old</title></circle></a><a href="/setts/s12/r2g2r2g8r2g2r2db2r11ly1r4ly1~x4/"><circle cx="342.8" cy="166.7" r="4" fill="#3465a4"><title>Burns 1930</title></circle></a><circle cx="341.1" cy="151.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x2/"><circle cx="393.9" cy="162.7" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x4/"><circle cx="390.2" cy="159.8" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/setts/s18/r16g8r2g2w2g2r2g2w2g2r2g8r16k1r2g3r2k1~x2/"><circle cx="331.8" cy="116.3" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s14/w2r4g2db2r6g4r2db5g2r20g7w2r4w2~x2/"><circle cx="295.0" cy="146.5" r="4" fill="#3465a4"><title>MacKinnon 9</title></circle></a><a href="/setts/s18/b10r2w2r16g6r1g2r1g3r6~x4/"><circle cx="316.8" cy="121.5" r="4" fill="#3465a4"><title>Harkness Dress</title></circle></a><a href="/setts/s14/r12db1r1dg8r2db1r1db3r1db1r12dg1r1dg4~x2/"><circle cx="379.3" cy="155.6" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/setts/s14/r45db4r4dg48r4db4r4db15r4db4r40dg4r4dg30/"><circle cx="319.3" cy="160.5" r="4" fill="#3465a4"><title>Bruce Old</title></circle></a><a href="/setts/s14/r45dp4r4g48r4dp4r4dp15r4dp4r40g4r4g30/"><circle cx="331.7" cy="165.3" r="4" fill="#3465a4"><title>Bruce Old Clan Tartan Tartan Number: 876. Earliest known date: 1797 An order dated 1797 in the Wilson's of Bannockburn papers requests '50 Ells Bruce sett tartan'. As no distinction is made between 'old' and 'new' we assume that the 'new' sett, which has much in common with this one, had not been introduced. (Reduced in proportion for illustration.) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r45db4r4g48r4db4r4db15r4db4r40g4r4g30/"><circle cx="321.5" cy="165.0" r="4" fill="#3465a4"><title>Bruce, Old</title></circle></a><a href="/setts/s12/r2g2r2g8r2g2r2db2r11ly1r4ly1~x4/"><circle cx="342.4" cy="166.6" r="4" fill="#3465a4"><title>Burns 1930</title></circle></a><circle cx="340.6" cy="150.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s17/w4r22g3r3g3r3g13r4g13r3g3r3g3r23w2r2w4~x2/

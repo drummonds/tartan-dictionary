@@ -2,12 +2,20 @@
 title: "Falconer"
 date: 2023-03-18
 ---
-**Bands:** [BKBGK](/stripes/bkbgk/) · **Stripes:** [B K B G K](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">B K B G K</span></span>
+**Bands:** [KGBKB](/stripes/kgbkb/) · **Stripes:** [K G B K B](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K G B K B</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5239
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Keith
+- Marshall
+- Marshall #2
 
 ## Attestations
 
@@ -60,8 +68,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g9b4k4b3k4b4g9k2~x4/"><circle cx="190.6" cy="282.7" r="4" fill="#3465a4"><title>Keith Clan</title></circle></a><a href="/setts/s5/g7k6b7k1b2~x2/"><circle cx="204.2" cy="289.2" r="4" fill="#3465a4"><title>Campbell of Glenlyon</title></circle></a><a href="/setts/s5/g7k6b7k1b2~x4/"><circle cx="204.2" cy="289.2" r="4" fill="#3465a4"><title>Campbell of Glenlyon Check (Clan)</title></circle></a><a href="/setts/s6/b6k6b18k18g22k5~x2/"><circle cx="180.7" cy="297.4" r="4" fill="#3465a4"><title>Campbell, The 42nd</title></circle></a><a href="/setts/s4/t3o6k4t2~x2/"><circle cx="149.3" cy="333.9" r="4" fill="#3465a4"><title>Bedford Check</title></circle></a><a href="/setts/s5/b10k10b10dg26ly5~x2/"><circle cx="157.5" cy="264.1" r="4" fill="#3465a4"><title>Marshall of Keith (Personal)</title></circle></a><a href="/setts/s5/db9ly9db9t23r3~x2/"><circle cx="194.6" cy="245.5" r="4" fill="#3465a4"><title>Tilburg (District)</title></circle></a><a href="/setts/s6/t3dg12k14t11r3t3~x2/"><circle cx="149.4" cy="264.2" r="4" fill="#3465a4"><title>Wellington or Waterloo</title></circle></a><a href="/setts/s6/b3k2b8db8g8db2~x2/"><circle cx="129.5" cy="281.3" r="4" fill="#3465a4"><title>Black Watch (Pendleton)</title></circle></a><a href="/setts/s6/db2g13db11t4w9db2~x2/"><circle cx="131.2" cy="232.5" r="4" fill="#3465a4"><title>Loch Leven Check Trade Tartan Tartan Number: 108. Earliest known date: 1976 Sample presented by Clan Crest Textiles Ltd in 1976. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="180.4" cy="295.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g9b4k4b3k4b4g9k2~x4/"><circle cx="190.7" cy="282.5" r="4" fill="#3465a4"><title>Keith Clan</title></circle></a><a href="/setts/s5/g7k6b7k1b2~x2/"><circle cx="204.4" cy="289.0" r="4" fill="#3465a4"><title>Campbell of Glenlyon</title></circle></a><a href="/setts/s5/g7k6b7k1b2~x4/"><circle cx="204.4" cy="289.0" r="4" fill="#3465a4"><title>Campbell of Glenlyon Check (Clan)</title></circle></a><a href="/setts/s6/b6k6b18k18g22k5~x2/"><circle cx="180.9" cy="297.3" r="4" fill="#3465a4"><title>Campbell, The 42nd</title></circle></a><a href="/setts/s4/t3o6k4t2~x2/"><circle cx="149.4" cy="333.8" r="4" fill="#3465a4"><title>Bedford Check</title></circle></a><a href="/setts/s5/b10k10b10dg26ly5~x2/"><circle cx="157.7" cy="263.9" r="4" fill="#3465a4"><title>Marshall of Keith (Personal)</title></circle></a><a href="/setts/s5/db9ly9db9t23r3~x2/"><circle cx="194.6" cy="245.3" r="4" fill="#3465a4"><title>Tilburg (District)</title></circle></a><a href="/setts/s6/t3dg12k14t11r3t3~x2/"><circle cx="149.6" cy="264.1" r="4" fill="#3465a4"><title>Wellington or Waterloo</title></circle></a><a href="/setts/s6/b3k2b8db8g8db2~x2/"><circle cx="129.8" cy="281.3" r="4" fill="#3465a4"><title>Black Watch (Pendleton)</title></circle></a><a href="/setts/s6/db2g13db11t4w9db2~x2/"><circle cx="131.3" cy="232.4" r="4" fill="#3465a4"><title>Loch Leven Check Trade Tartan Tartan Number: 108. Earliest known date: 1976 Sample presented by Clan Crest Textiles Ltd in 1976. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="180.6" cy="295.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/b3k4b4g9k2~x4/

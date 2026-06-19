@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Hose Artifact
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 R4 G4 LN46 G4 LN4 R46 LN4 G4 R/4
+R/4 G4 LN4 R46 LN4 G4 LN46 G4 R4 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -913,7 +922,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Swiss Red](/setts/s10/w18r9w1r1w2r1w1r9db3r4~x4/) — ΔT 1.18
 1. [Torridon, Cherry (Dance)](/setts/s7/r3r2db2r30w30db2w3~x2/) — ΔT 1.36
 1. [Masai Shuka 14 (Artefact)](/setts/s8/r40w40k5w2k6w2k5w6~x2/) — ΔT 1.37
-1. [Torridon, Burgundy (Dance)](/setts/s7/lg3r2n2r30w30lg2w3~x2/) — ΔT 1.39
+1. [Torridon, Burgundy (Dance)](/setts/s7/w3lg2w30r30n2r2lg3~x2/) — ΔT 1.39
 1. [Menzies #3](/setts/s12/w4r1w2r3w24r5r3r1r1r1r20w2~x2/) — ΔT 1.42
 1. [Cunningham Dress](/setts/s7/w5r2w34r34k2r2db4~x2/) — ΔT 1.53
 1. [Menzies VS](/setts/s12/lb4r1lb2r3lb24r6r2r1r1r1r20lb2/) — ΔT 1.58
@@ -921,8 +930,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r2dg2w2r23w2dg2w23dg2r2w2~x2/"><circle cx="301.2" cy="130.5" r="4" fill="#3465a4"><title>Hose</title></circle></a><a href="/setts/s8/k1r1w1r15w15r1w1k1~x4/"><circle cx="324.2" cy="129.4" r="4" fill="#3465a4"><title>Bundy, Dress Red (Personal Dance)</title></circle></a><a href="/setts/s10/w18r9w1r1w2r1w1r9db3r4~x4/"><circle cx="320.2" cy="131.1" r="4" fill="#3465a4"><title>Swiss Red</title></circle></a><a href="/setts/s7/r3r2db2r30w30db2w3~x2/"><circle cx="285.2" cy="126.5" r="4" fill="#3465a4"><title>Torridon, Cherry (Dance)</title></circle></a><a href="/setts/s8/r40w40k5w2k6w2k5w6~x2/"><circle cx="296.6" cy="126.0" r="4" fill="#3465a4"><title>Masai Shuka 14 (Artefact)</title></circle></a><a href="/setts/s7/lg3r2n2r30w30lg2w3~x2/"><circle cx="276.7" cy="128.7" r="4" fill="#3465a4"><title>Torridon, Burgundy (Dance)</title></circle></a><a href="/setts/s12/w4r1w2r3w24r5r3r1r1r1r20w2~x2/"><circle cx="333.6" cy="97.6" r="4" fill="#3465a4"><title>Menzies #3</title></circle></a><a href="/setts/s7/w5r2w34r34k2r2db4~x2/"><circle cx="288.2" cy="118.0" r="4" fill="#3465a4"><title>Cunningham Dress</title></circle></a><a href="/setts/s12/lb4r1lb2r3lb24r6r2r1r1r1r20lb2/"><circle cx="345.6" cy="105.0" r="4" fill="#3465a4"><title>Menzies VS</title></circle></a><a href="/setts/s7/w5k2w30r24w3r8dt3~x2/"><circle cx="297.3" cy="141.1" r="4" fill="#3465a4"><title>Arduaine, Red (Dance)</title></circle></a><circle cx="299.3" cy="132.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r2dg2w2r23w2dg2w23dg2r2w2~x2/"><circle cx="300.5" cy="130.3" r="4" fill="#3465a4"><title>Hose</title></circle></a><a href="/setts/s8/k1r1w1r15w15r1w1k1~x4/"><circle cx="323.6" cy="129.2" r="4" fill="#3465a4"><title>Bundy, Dress Red (Personal Dance)</title></circle></a><a href="/setts/s10/w18r9w1r1w2r1w1r9db3r4~x4/"><circle cx="319.6" cy="130.9" r="4" fill="#3465a4"><title>Swiss Red</title></circle></a><a href="/setts/s7/r3r2db2r30w30db2w3~x2/"><circle cx="284.7" cy="126.3" r="4" fill="#3465a4"><title>Torridon, Cherry (Dance)</title></circle></a><a href="/setts/s8/r40w40k5w2k6w2k5w6~x2/"><circle cx="296.1" cy="125.8" r="4" fill="#3465a4"><title>Masai Shuka 14 (Artefact)</title></circle></a><a href="/setts/s7/w3lg2w30r30n2r2lg3~x2/"><circle cx="276.3" cy="128.5" r="4" fill="#3465a4"><title>Torridon, Burgundy (Dance)</title></circle></a><a href="/setts/s12/w4r1w2r3w24r5r3r1r1r1r20w2~x2/"><circle cx="332.9" cy="97.4" r="4" fill="#3465a4"><title>Menzies #3</title></circle></a><a href="/setts/s7/w5r2w34r34k2r2db4~x2/"><circle cx="287.7" cy="117.8" r="4" fill="#3465a4"><title>Cunningham Dress</title></circle></a><a href="/setts/s12/lb4r1lb2r3lb24r6r2r1r1r1r20lb2/"><circle cx="344.9" cy="104.8" r="4" fill="#3465a4"><title>Menzies VS</title></circle></a><a href="/setts/s7/w5k2w30r24w3r8dt3~x2/"><circle cx="296.8" cy="140.9" r="4" fill="#3465a4"><title>Arduaine, Red (Dance)</title></circle></a><circle cx="298.7" cy="132.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r2g2w2r23w2g2w23g2r2w2~x2/

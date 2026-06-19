@@ -2,12 +2,19 @@
 title: "Taylor, dress"
 date: 2023-03-18
 ---
-**Bands:** [GKRGWWWGY](/stripes/gkrgwwwgy/) · **Stripes:** [G K R G W LP W G LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G K R G W LP W G LY</span></span>
+**Bands:** [YGWWWGRKG](/stripes/ygwwwgrkg/) · **Stripes:** [LY G W LP W G R K G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G W LP W G R K G</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Taylor Dress #2
+- Taylor, dress
 
 ## Attestations
 
@@ -318,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -924,8 +934,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg9k2r4dg14w3lp3w23dg5ly3~x2/"><circle cx="159.6" cy="128.3" r="4" fill="#3465a4"><title>Taylor Dress #2</title></circle></a><a href="/setts/s10/g9k2g15r4g14w3y3w23g5ly3~x2/"><circle cx="210.2" cy="140.4" r="4" fill="#3465a4"><title>Taylor, dress</title></circle></a><a href="/setts/s10/g9k2g15r4g14w3o3w23g5ly3~x2/"><circle cx="210.0" cy="139.8" r="4" fill="#3465a4"><title>Taylor Dress</title></circle></a><a href="/setts/s8/lo2lb14k1g11k2r2g2k1~x4/"><circle cx="164.0" cy="123.1" r="4" fill="#3465a4"><title>Mission (District)</title></circle></a><a href="/setts/s9/g3w29g3db3g3db6g13ly3r2~x2/"><circle cx="211.2" cy="120.7" r="4" fill="#3465a4"><title>Nova Scotia, dress</title></circle></a><a href="/setts/s10/ly6k2g12r4g8k10w24b2w3b2~x2/"><circle cx="92.8" cy="115.1" r="4" fill="#3465a4"><title>Gillies Dress, Green (Dance)</title></circle></a><a href="/setts/s11/lo1y6g2w1k8w1g2w9k1w4ly1~x4/"><circle cx="106.7" cy="121.9" r="4" fill="#3465a4"><title>Tiree</title></circle></a><a href="/setts/s10/g32r3dy12b3ly3b3lb24lb24k2lb4~x2/"><circle cx="180.5" cy="98.5" r="4" fill="#3465a4"><title>Webster (Name)</title></circle></a><a href="/setts/s8/r2k2w16dg13g6ly2k2w2~x2/"><circle cx="111.7" cy="138.7" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><a href="/setts/s8/lg4n2g24dy10w12r1w12g2~x2/"><circle cx="157.4" cy="108.3" r="4" fill="#3465a4"><title>Reuben J Jolley Family (Personal)</title></circle></a><circle cx="163.7" cy="130.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg9k2r4dg14w3lp3w23dg5ly3~x2/"><circle cx="159.4" cy="128.2" r="4" fill="#3465a4"><title>Taylor Dress #2</title></circle></a><a href="/setts/s10/g9k2g15r4g14w3y3w23g5ly3~x2/"><circle cx="209.9" cy="140.3" r="4" fill="#3465a4"><title>Taylor, dress</title></circle></a><a href="/setts/s10/g9k2g15r4g14w3o3w23g5ly3~x2/"><circle cx="209.7" cy="139.7" r="4" fill="#3465a4"><title>Taylor Dress</title></circle></a><a href="/setts/s8/lo2lb14k1g11k2r2g2k1~x4/"><circle cx="163.8" cy="123.1" r="4" fill="#3465a4"><title>Mission (District)</title></circle></a><a href="/setts/s9/g3w29g3db3g3db6g13ly3r2~x2/"><circle cx="210.8" cy="120.6" r="4" fill="#3465a4"><title>Nova Scotia, dress</title></circle></a><a href="/setts/s10/ly6k2g12r4g8k10w24b2w3b2~x2/"><circle cx="92.6" cy="115.0" r="4" fill="#3465a4"><title>Gillies Dress, Green (Dance)</title></circle></a><a href="/setts/s11/lo1y6g2w1k8w1g2w9k1w4ly1~x4/"><circle cx="106.5" cy="121.9" r="4" fill="#3465a4"><title>Tiree</title></circle></a><a href="/setts/s10/g32r3dy12b3ly3b3lb24lb24k2lb4~x2/"><circle cx="180.2" cy="98.5" r="4" fill="#3465a4"><title>Webster (Name)</title></circle></a><a href="/setts/s8/r2k2w16dg13g6ly2k2w2~x2/"><circle cx="111.6" cy="138.7" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><a href="/setts/s8/lg4n2g24dy10w12r1w12g2~x2/"><circle cx="157.2" cy="108.3" r="4" fill="#3465a4"><title>Reuben J Jolley Family (Personal)</title></circle></a><circle cx="163.4" cy="130.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/g9k2r4g14w3lp3w23g5ly3~x2/

@@ -2,7 +2,7 @@
 title: "Womack (2014)"
 date: 2023-03-18
 ---
-**Bands:** [BWYWGWKBKGWG](/stripes/bwywgwkbkgwg/) · **Stripes:** [DO W LY W DG W K DB K DG W DG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">DO W LY W DG W K DB K DG W DG</span></span>
+**Bands:** [GWGKBKWGWYWB](/stripes/gwgkbkwgwywb/) · **Stripes:** [DG W DG K DB K W DG W LY W DO](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="seq">DG W DG K DB K W DG W LY W DO</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
@@ -35,21 +35,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Womack (2014)](/setts/s12/dg19w2dg5k4db21k4w2dg5w1ly1w1dr14~x2/) — ΔT 0.55
+1. [Womack (2014)](/setts/s12/dg19w2dg5k4db21k4w2dg5w1ly1w1dr14~x2/) — ΔT 0.56
 1. [Groen (Personal)](/setts/s11/n12r2n3r4n15k24dg18ly1k3dg3w3~x2/) — ΔT 0.75
 1. [McMeeken (Name)](/setts/s10/r7g20ly2g4k5b4k2b20k3w1~x2/) — ΔT 1.00
 1. [Whitson (Name)](/setts/s9/lb4k1y19lo1k19n13r2n4r2~x4/) — ΔT 1.01
 1. [Wcwm 1290](/setts/s11/dg28lb2dg3lo4dg3lb2dg3k14lg2db28lb3~x2/) — ΔT 1.03
 1. [Baron of Greencastle (Personal)](/setts/s13/g4ly2g24r2k12db3k2db2k2db12w1db1w3~x2/) — ΔT 1.06
-1. [Loch Freuchie (District)](/setts/s10/lb3g3r2g20k25ly2dt18k2dt3r3~x2/) — ΔT 1.07
+1. [Loch Freuchie (District)](/setts/s10/r3dt3k2dt18ly2k25g20r2g3lb3~x2/) — ΔT 1.07
 1. [Adams](/setts/s11/r4g4k2g15do5g5do15g6w1db19r2~x2/) — ΔT 1.07
 1. [Adams (Name)](/setts/s11/r4g4k2g17do5g5do17g6lb1db22r2~x2/) — ΔT 1.07
 1. [Loch Freuchie](/setts/s10/n3dg3r2dg20k25ly2n13k2n3r3~x2/) — ΔT 1.08
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dg19w2dg5k4db21k4w2dg5w1ly1w1dr14~x2/"><circle cx="178.7" cy="117.8" r="4" fill="#3465a4"><title>Womack (2014)</title></circle></a><a href="/setts/s11/n12r2n3r4n15k24dg18ly1k3dg3w3~x2/"><circle cx="176.1" cy="120.7" r="4" fill="#3465a4"><title>Groen (Personal)</title></circle></a><a href="/setts/s10/r7g20ly2g4k5b4k2b20k3w1~x2/"><circle cx="190.4" cy="133.8" r="4" fill="#3465a4"><title>McMeeken (Name)</title></circle></a><a href="/setts/s9/lb4k1y19lo1k19n13r2n4r2~x4/"><circle cx="175.6" cy="145.1" r="4" fill="#3465a4"><title>Whitson (Name)</title></circle></a><a href="/setts/s11/dg28lb2dg3lo4dg3lb2dg3k14lg2db28lb3~x2/"><circle cx="204.3" cy="135.3" r="4" fill="#3465a4"><title>Wcwm 1290</title></circle></a><a href="/setts/s13/g4ly2g24r2k12db3k2db2k2db12w1db1w3~x2/"><circle cx="193.7" cy="92.1" r="4" fill="#3465a4"><title>Baron of Greencastle (Personal)</title></circle></a><a href="/setts/s10/lb3g3r2g20k25ly2dt18k2dt3r3~x2/"><circle cx="155.8" cy="143.0" r="4" fill="#3465a4"><title>Loch Freuchie (District)</title></circle></a><a href="/setts/s11/r4g4k2g15do5g5do15g6w1db19r2~x2/"><circle cx="193.3" cy="148.6" r="4" fill="#3465a4"><title>Adams</title></circle></a><a href="/setts/s11/r4g4k2g17do5g5do17g6lb1db22r2~x2/"><circle cx="208.1" cy="141.5" r="4" fill="#3465a4"><title>Adams (Name)</title></circle></a><a href="/setts/s10/n3dg3r2dg20k25ly2n13k2n3r3~x2/"><circle cx="180.4" cy="148.4" r="4" fill="#3465a4"><title>Loch Freuchie</title></circle></a><circle cx="176.4" cy="117.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dg19w2dg5k4db21k4w2dg5w1ly1w1dr14~x2/"><circle cx="178.8" cy="118.0" r="4" fill="#3465a4"><title>Womack (2014)</title></circle></a><a href="/setts/s11/n12r2n3r4n15k24dg18ly1k3dg3w3~x2/"><circle cx="176.1" cy="120.9" r="4" fill="#3465a4"><title>Groen (Personal)</title></circle></a><a href="/setts/s10/r7g20ly2g4k5b4k2b20k3w1~x2/"><circle cx="190.4" cy="134.0" r="4" fill="#3465a4"><title>McMeeken (Name)</title></circle></a><a href="/setts/s9/lb4k1y19lo1k19n13r2n4r2~x4/"><circle cx="175.7" cy="145.3" r="4" fill="#3465a4"><title>Whitson (Name)</title></circle></a><a href="/setts/s11/dg28lb2dg3lo4dg3lb2dg3k14lg2db28lb3~x2/"><circle cx="204.4" cy="135.4" r="4" fill="#3465a4"><title>Wcwm 1290</title></circle></a><a href="/setts/s13/g4ly2g24r2k12db3k2db2k2db12w1db1w3~x2/"><circle cx="193.7" cy="92.2" r="4" fill="#3465a4"><title>Baron of Greencastle (Personal)</title></circle></a><a href="/setts/s10/r3dt3k2dt18ly2k25g20r2g3lb3~x2/"><circle cx="155.9" cy="143.2" r="4" fill="#3465a4"><title>Loch Freuchie (District)</title></circle></a><a href="/setts/s11/r4g4k2g15do5g5do15g6w1db19r2~x2/"><circle cx="193.4" cy="148.7" r="4" fill="#3465a4"><title>Adams</title></circle></a><a href="/setts/s11/r4g4k2g17do5g5do17g6lb1db22r2~x2/"><circle cx="208.2" cy="141.7" r="4" fill="#3465a4"><title>Adams (Name)</title></circle></a><a href="/setts/s10/n3dg3r2dg20k25ly2n13k2n3r3~x2/"><circle cx="180.5" cy="148.6" r="4" fill="#3465a4"><title>Loch Freuchie</title></circle></a><circle cx="176.4" cy="118.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/dg19w2dg5k4db21k4w2dg5w1ly1w1do14~x2/

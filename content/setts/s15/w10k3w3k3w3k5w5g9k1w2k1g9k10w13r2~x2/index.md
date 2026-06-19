@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,7 +914,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Avalon - Washington House](/setts/s14/w3k1o15k6o5k3o8k2o5ly3w2ly4k1w3~x2/) — ΔT 1.07
 1. [Avalon - Calvert House](/setts/s14/w3k1g15k6g5k3g8k2g5ly3w2ly4k1w3~x2/) — ΔT 1.12
-1. [Ferguson Dress Blue (Dance)](/setts/s12/w3k2w18r3w18k23t35k23w18r3w18k2~x2/) — ΔT 1.17
+1. [Ferguson Dress Blue (Dance)](/setts/s12/t35k23w18r3w18k2w3~x2/) — ΔT 1.17
 1. [MacRobart Family Tartan Tartan Number: 2399. Earliest known date: June 1997 Dress version for personal and family use based on original design by Michael Owen Holder (# 2388). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/dg17t3dg17k15w33db8w33k15dg17t3dg17t3~x2/) — ΔT 1.31
 1. [Abergavenny](/setts/s17/lb36k41lb4lb6k8o24lb12lb4o4k6lb4lb4k48o4lb8k22lb18/) — ΔT 1.39
 1. [Black and White](/setts/s15/k19o6k3o15w3o12w9o3w20o3w20k19r4k5w3~x2/) — ΔT 1.41
@@ -922,8 +925,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/w3k1o15k6o5k3o8k2o5ly3w2ly4k1w3~x2/"><circle cx="240.5" cy="141.4" r="4" fill="#3465a4"><title>Avalon - Washington House</title></circle></a><a href="/setts/s14/w3k1g15k6g5k3g8k2g5ly3w2ly4k1w3~x2/"><circle cx="236.6" cy="148.6" r="4" fill="#3465a4"><title>Avalon - Calvert House</title></circle></a><a href="/setts/s12/w3k2w18r3w18k23t35k23w18r3w18k2~x2/"><circle cx="181.3" cy="137.0" r="4" fill="#3465a4"><title>Ferguson Dress Blue (Dance)</title></circle></a><a href="/setts/s12/dg17t3dg17k15w33db8w33k15dg17t3dg17t3~x2/"><circle cx="114.0" cy="158.4" r="4" fill="#3465a4"><title>MacRobart Family Tartan Tartan Number: 2399. Earliest known date: June 1997 Dress version for personal and family use based on original design by Michael Owen Holder (# 2388). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/lb36k41lb4lb6k8o24lb12lb4o4k6lb4lb4k48o4lb8k22lb18/"><circle cx="216.7" cy="128.8" r="4" fill="#3465a4"><title>Abergavenny</title></circle></a><a href="/setts/s15/k19o6k3o15w3o12w9o3w20o3w20k19r4k5w3~x2/"><circle cx="116.2" cy="163.2" r="4" fill="#3465a4"><title>Black and White</title></circle></a><a href="/setts/s13/r3dg8db5w3dg20w3db5w3db5w22db3w8r3~x2/"><circle cx="150.8" cy="152.7" r="4" fill="#3465a4"><title>MacDonald, Flora (Dance)</title></circle></a><a href="/setts/s12/k4w2k9k3r3w3r3w23k10w2k6w2~x2/"><circle cx="212.1" cy="137.2" r="4" fill="#3465a4"><title>Auld Lang Syne, Grey (Fashion)</title></circle></a><a href="/setts/s16/r15y20lr6k4y10lr22k28y6r6lr22y6r2lr12k2lr3y10~x2/"><circle cx="145.6" cy="144.8" r="4" fill="#3465a4"><title>Alexander Brothers - 1993 (Corp.)</title></circle></a><a href="/setts/s16/k17ly2k17w12g2w12g2w12k17r2k17w12ly2w12ly2w12~x2/"><circle cx="168.9" cy="151.6" r="4" fill="#3465a4"><title>Kinnison (Clan?)</title></circle></a><circle cx="173.1" cy="147.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/w3k1o15k6o5k3o8k2o5ly3w2ly4k1w3~x2/"><circle cx="240.2" cy="141.2" r="4" fill="#3465a4"><title>Avalon - Washington House</title></circle></a><a href="/setts/s14/w3k1g15k6g5k3g8k2g5ly3w2ly4k1w3~x2/"><circle cx="236.4" cy="148.4" r="4" fill="#3465a4"><title>Avalon - Calvert House</title></circle></a><a href="/setts/s12/t35k23w18r3w18k2w3~x2/"><circle cx="181.1" cy="136.8" r="4" fill="#3465a4"><title>Ferguson Dress Blue (Dance)</title></circle></a><a href="/setts/s12/dg17t3dg17k15w33db8w33k15dg17t3dg17t3~x2/"><circle cx="113.9" cy="158.3" r="4" fill="#3465a4"><title>MacRobart Family Tartan Tartan Number: 2399. Earliest known date: June 1997 Dress version for personal and family use based on original design by Michael Owen Holder (# 2388). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/lb36k41lb4lb6k8o24lb12lb4o4k6lb4lb4k48o4lb8k22lb18/"><circle cx="216.5" cy="128.6" r="4" fill="#3465a4"><title>Abergavenny</title></circle></a><a href="/setts/s15/k19o6k3o15w3o12w9o3w20o3w20k19r4k5w3~x2/"><circle cx="116.0" cy="163.0" r="4" fill="#3465a4"><title>Black and White</title></circle></a><a href="/setts/s13/r3dg8db5w3dg20w3db5w3db5w22db3w8r3~x2/"><circle cx="150.6" cy="152.6" r="4" fill="#3465a4"><title>MacDonald, Flora (Dance)</title></circle></a><a href="/setts/s12/k4w2k9k3r3w3r3w23k10w2k6w2~x2/"><circle cx="211.9" cy="137.1" r="4" fill="#3465a4"><title>Auld Lang Syne, Grey (Fashion)</title></circle></a><a href="/setts/s16/r15y20lr6k4y10lr22k28y6r6lr22y6r2lr12k2lr3y10~x2/"><circle cx="145.5" cy="144.8" r="4" fill="#3465a4"><title>Alexander Brothers - 1993 (Corp.)</title></circle></a><a href="/setts/s16/k17ly2k17w12g2w12g2w12k17r2k17w12ly2w12ly2w12~x2/"><circle cx="168.7" cy="151.5" r="4" fill="#3465a4"><title>Kinnison (Clan?)</title></circle></a><circle cx="172.9" cy="147.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/w10k3w3k3w3k5w5g9k1w2k1g9k10w13r2~x2/

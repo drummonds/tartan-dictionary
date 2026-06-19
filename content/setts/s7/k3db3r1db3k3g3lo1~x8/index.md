@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4151
 
 ## Thread count
-DY/8 G24 K24 DB24 DR8 DB24 K/24
+K/24 DB24 DR8 DB24 K24 G24 DY/8
 ![Sett](sett.png)
 
 ## Palette
@@ -40,7 +40,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DY/8 G24 K24 DB24 DR8 DB24 K/24 tartan")
+![Tartan detail](tartan.png "K/24 DB24 DR8 DB24 K24 G24 DY/8 tartan")
 
 ## Nearest tartans
 
@@ -48,19 +48,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Montrose of Alabama](/setts/s7/k3k3r1k3k3g3ly1~x8/) — ΔT 0.96
 1. [Denholm](/setts/s8/g8k7db8r2db8k7g8k2~x2/) — ΔT 1.25
-1. [Davidson Double](/setts/s8/db3r2db8k8dg8k3lb2dg3/) — ΔT 1.35
-1. [Davidson Double](/setts/s8/db3r2db8k8dg8k3lr2k3~x2/) — ΔT 1.46
-1. [Davidson Double](/setts/s8/db3r2db8k8dg8k3lr2k3/) — ΔT 1.46
+1. [Davidson Double](/setts/s8/dg3lb2k3dg8k8db8r2db3/) — ΔT 1.35
+1. [Davidson Double](/setts/s8/k3lr2k3dg8k8db8r2db3~x2/) — ΔT 1.46
+1. [Davidson Double](/setts/s8/k3lr2k3dg8k8db8r2db3/) — ΔT 1.46
 1. [MacKean dress](/setts/s9/r1k2dg4k1dg1k2db3k1w1~x6/) — ΔT 1.57
 1. [Denholm (Fashion)](/setts/s5/k5g20k18db20r5~x2/) — ΔT 1.59
-1. [Graham of Montrose](/setts/s7/k4dg4lb1dg4k4db4k1/) — ΔT 1.62
-1. [Davidson, Double](/setts/s8/db3r2db8k8g8k3w2k3~x2/) — ΔT 1.62
+1. [Graham of Montrose](/setts/s7/k4dg4lb1dg4k4db4k1~x2/) — ΔT 1.62
+1. [Davidson, Double](/setts/s8/k3w2k3g8k8db8r2db3~x2/) — ΔT 1.62
 1. [Durham](/setts/s5/k4g8k7db8r4~x2/) — ΔT 1.63
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k3k3r1k3k3g3ly1~x8/"><circle cx="43.6" cy="279.5" r="4" fill="#3465a4"><title>Montrose of Alabama</title></circle></a><a href="/setts/s8/g8k7db8r2db8k7g8k2~x2/"><circle cx="86.7" cy="284.3" r="4" fill="#3465a4"><title>Denholm</title></circle></a><a href="/setts/s8/db3r2db8k8dg8k3lb2dg3/"><circle cx="65.8" cy="244.9" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/setts/s8/db3r2db8k8dg8k3lr2k3~x2/"><circle cx="111.0" cy="253.0" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/setts/s8/db3r2db8k8dg8k3lr2k3/"><circle cx="111.0" cy="253.0" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/setts/s9/r1k2dg4k1dg1k2db3k1w1~x6/"><circle cx="88.9" cy="233.8" r="4" fill="#3465a4"><title>MacKean dress</title></circle></a><a href="/setts/s5/k5g20k18db20r5~x2/"><circle cx="110.1" cy="284.5" r="4" fill="#3465a4"><title>Denholm (Fashion)</title></circle></a><a href="/setts/s7/k4dg4lb1dg4k4db4k1/"><circle cx="133.9" cy="292.1" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/setts/s8/db3r2db8k8g8k3w2k3~x2/"><circle cx="104.1" cy="242.5" r="4" fill="#3465a4"><title>Davidson, Double</title></circle></a><a href="/setts/s5/k4g8k7db8r4~x2/"><circle cx="50.4" cy="336.2" r="4" fill="#3465a4"><title>Durham</title></circle></a><circle cx="50.6" cy="284.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k3k3r1k3k3g3ly1~x8/"><circle cx="44.1" cy="279.5" r="4" fill="#3465a4"><title>Montrose of Alabama</title></circle></a><a href="/setts/s8/g8k7db8r2db8k7g8k2~x2/"><circle cx="87.1" cy="284.2" r="4" fill="#3465a4"><title>Denholm</title></circle></a><a href="/setts/s8/dg3lb2k3dg8k8db8r2db3/"><circle cx="66.2" cy="244.9" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/setts/s8/k3lr2k3dg8k8db8r2db3~x2/"><circle cx="111.5" cy="253.1" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/setts/s8/k3lr2k3dg8k8db8r2db3/"><circle cx="111.5" cy="253.1" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/setts/s9/r1k2dg4k1dg1k2db3k1w1~x6/"><circle cx="89.3" cy="233.9" r="4" fill="#3465a4"><title>MacKean dress</title></circle></a><a href="/setts/s5/k5g20k18db20r5~x2/"><circle cx="110.5" cy="284.5" r="4" fill="#3465a4"><title>Denholm (Fashion)</title></circle></a><a href="/setts/s7/k4dg4lb1dg4k4db4k1~x2/"><circle cx="134.4" cy="292.0" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/setts/s8/k3w2k3g8k8db8r2db3~x2/"><circle cx="104.3" cy="242.5" r="4" fill="#3465a4"><title>Davidson, Double</title></circle></a><a href="/setts/s5/k4g8k7db8r4~x2/"><circle cx="50.8" cy="336.1" r="4" fill="#3465a4"><title>Durham</title></circle></a><circle cx="51.1" cy="284.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k3db3r1db3k3g3lo1~x8/

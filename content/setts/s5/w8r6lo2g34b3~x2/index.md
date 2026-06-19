@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/
 Original link http://www.tartansauthority.com/tartan-ferret/display/10314/
 
 ## Thread count
-B/6 G68 DY4 R12 LN/16
+LN/16 R12 DY4 G68 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -26,7 +26,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/6 G68 DY4 R12 LN/16 tartan")
+![Tartan detail](tartan.png "LN/16 R12 DY4 G68 B/6 tartan")
 
 ## Nearest tartans
 
@@ -45,8 +45,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k2t36dg12w3r2~x2/"><circle cx="400.5" cy="169.8" r="4" fill="#3465a4"><title>Cleland (Name)</title></circle></a><a href="/setts/s6/g55ly4db15w3r3w5~x2/"><circle cx="373.5" cy="143.9" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/setts/s5/k2t28g7w3r2~x2/"><circle cx="396.2" cy="179.3" r="4" fill="#3465a4"><title>Cleland Corporate Tartan Tartan Number: 2181. Earliest known date: 1989 The Tartan is based on the Douglas as the Clelands were hereditary foresters to the Douglases. There was a deal of inter-marriage between the Douglases, the Hamiltons and the Clelands. In 1989 John Clelland Hocknull of Casuavina in Australia's Northern Territories made it known that he was the Founder of the Northern Territories Clan Clelland Association Inc. who wanted to have a Clelland tartan designed. the task fell to Harry Lindley of Kinloch Anderson. D.C. Dalgliesh of Selkirk wove the first piece. Lord Lyon may have recorded the sett in the Lyon Court Books, but this is unconfirmed. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k2n36g12w3r2~x2/"><circle cx="406.9" cy="177.7" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/setts/s6/k2w1g5r1t18r2~x2/"><circle cx="340.8" cy="134.2" r="4" fill="#3465a4"><title>Norris (1998)</title></circle></a><a href="/setts/s5/w8r6ly2g34b3~x2/"><circle cx="335.8" cy="153.2" r="4" fill="#3465a4"><title>Milling-Christensen</title></circle></a><a href="/setts/s4/n62w11k4lg17~x2/"><circle cx="404.2" cy="211.0" r="4" fill="#3465a4"><title>Thunderlord (Corporate)</title></circle></a><a href="/setts/s7/r2b4lb18n2lb2n41w2~x2/"><circle cx="381.8" cy="134.0" r="4" fill="#3465a4"><title>Haddrell (2013)</title></circle></a><a href="/setts/s6/k3t2g13w2t24r3~x4/"><circle cx="290.4" cy="180.3" r="4" fill="#3465a4"><title>Vance</title></circle></a><a href="/setts/s5/dg60ly16m8t2o3~x2/"><circle cx="425.4" cy="151.8" r="4" fill="#3465a4"><title>Isle of Raasay</title></circle></a><circle cx="369.1" cy="169.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k2t36dg12w3r2~x2/"><circle cx="400.2" cy="169.6" r="4" fill="#3465a4"><title>Cleland (Name)</title></circle></a><a href="/setts/s6/g55ly4db15w3r3w5~x2/"><circle cx="373.2" cy="143.7" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/setts/s5/k2t28g7w3r2~x2/"><circle cx="395.9" cy="179.1" r="4" fill="#3465a4"><title>Cleland Corporate Tartan Tartan Number: 2181. Earliest known date: 1989 The Tartan is based on the Douglas as the Clelands were hereditary foresters to the Douglases. There was a deal of inter-marriage between the Douglases, the Hamiltons and the Clelands. In 1989 John Clelland Hocknull of Casuavina in Australia's Northern Territories made it known that he was the Founder of the Northern Territories Clan Clelland Association Inc. who wanted to have a Clelland tartan designed. the task fell to Harry Lindley of Kinloch Anderson. D.C. Dalgliesh of Selkirk wove the first piece. Lord Lyon may have recorded the sett in the Lyon Court Books, but this is unconfirmed. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k2n36g12w3r2~x2/"><circle cx="406.7" cy="177.5" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/setts/s6/k2w1g5r1t18r2~x2/"><circle cx="340.6" cy="134.1" r="4" fill="#3465a4"><title>Norris (1998)</title></circle></a><a href="/setts/s5/w8r6ly2g34b3~x2/"><circle cx="335.6" cy="152.9" r="4" fill="#3465a4"><title>Milling-Christensen</title></circle></a><a href="/setts/s4/n62w11k4lg17~x2/"><circle cx="403.9" cy="210.8" r="4" fill="#3465a4"><title>Thunderlord (Corporate)</title></circle></a><a href="/setts/s7/r2b4lb18n2lb2n41w2~x2/"><circle cx="381.4" cy="133.9" r="4" fill="#3465a4"><title>Haddrell (2013)</title></circle></a><a href="/setts/s6/k3t2g13w2t24r3~x4/"><circle cx="290.2" cy="180.2" r="4" fill="#3465a4"><title>Vance</title></circle></a><a href="/setts/s5/dg60ly16m8t2o3~x2/"><circle cx="425.1" cy="151.6" r="4" fill="#3465a4"><title>Isle of Raasay</title></circle></a><circle cx="368.8" cy="169.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/w8r6lo2g34b3~x2/

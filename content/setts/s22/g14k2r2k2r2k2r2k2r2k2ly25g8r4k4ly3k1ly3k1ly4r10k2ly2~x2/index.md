@@ -2,7 +2,7 @@
 title: "New Brunswick"
 date: 2023-03-18
 ---
-**Bands:** [GKRKRKRKRKYGRKYKYKYRKY](/stripes/gkrkrkrkrkygrkykykyrky/) · **Stripes:** [G K R K R K R K R K LY G R K LY K LY K LY R K LY](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G K R K R K R K R K LY G R K LY K LY K LY R K LY</span></span>
+**Bands:** [YKRYKYKYKRGYKRKRKRKRKG](/stripes/ykrykykykrgykrkrkrkrkg/) · **Stripes:** [LY K R LY K LY K LY K R G LY K R K R K R K R K G](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY K R LY K LY K LY K R G LY K R K R K R K R K G</span></span>
 
 
 This was sourced from weddslist.  It is a [22 band tartan](/bands/bands22/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -902,10 +905,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Waverley Check](/setts/s22/y22w2k3w1k1w1k1w7o5k1o2w1o2k1o5w7k1w1k1w1k3w2~x4/) — ΔT 1.45
-1. [Club World](/setts/s20/g14k7g21k2g2k2g2k4g7r25w2r2k3r16g9r2k4r2k4r2~x2/) — ΔT 1.62
-1. [Buchanan D](/setts/s13/lb2dg16k1lb2k1ly4k1ly4k1lb2k1r16lb2/) — ΔT 1.74
-1. [Buchanan D1](/setts/s13/lb2g16k1lb2k1ly4k1ly4k1lb2k1r16lb2~x2/) — ΔT 1.79
+1. [Waverley Check](/setts/s22/y22w2k3w1k1w1k1w7o5k1o2w1~x4/) — ΔT 1.45
+1. [Club World](/setts/s20/g14k7g21k2g2k2g2k4g7r25w2r2k3r16g9r2k4r2k4r2~x2/) — ΔT 1.63
+1. [Buchanan D](/setts/s13/lb2dg16k1lb2k1ly4k1ly4k1lb2k1r16lb2~x2/) — ΔT 1.74
+1. [Buchanan D1](/setts/s13/lb2r16k1lb2k1ly4k1ly4k1lb2k1g16lb2~x2/) — ΔT 1.79
 1. [Ontario](/setts/s22/ly14o2r2o2r2o2r2o2r2o2g25ly8r4o4g3o1g3o1g4r10o2g2~x2/) — ΔT 1.86
 1. [Chattan](/setts/s16/r11k1w1g4w1ly1r1k1r1ly1w1g4w1k1r1ly3~x2/) — ΔT 1.88
 1. [MacMillan Ancient](/setts/s12/dg2k1dg18k1dg2k1r12dg4ly6k1ly6k1/) — ΔT 1.93
@@ -915,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s22/y22w2k3w1k1w1k1w7o5k1o2w1o2k1o5w7k1w1k1w1k3w2~x4/"><circle cx="174.9" cy="61.2" r="4" fill="#3465a4"><title>Waverley Check</title></circle></a><a href="/setts/s20/g14k7g21k2g2k2g2k4g7r25w2r2k3r16g9r2k4r2k4r2~x2/"><circle cx="199.0" cy="117.1" r="4" fill="#3465a4"><title>Club World</title></circle></a><a href="/setts/s13/lb2dg16k1lb2k1ly4k1ly4k1lb2k1r16lb2/"><circle cx="127.5" cy="83.0" r="4" fill="#3465a4"><title>Buchanan D</title></circle></a><a href="/setts/s13/lb2g16k1lb2k1ly4k1ly4k1lb2k1r16lb2~x2/"><circle cx="124.1" cy="85.3" r="4" fill="#3465a4"><title>Buchanan D1</title></circle></a><a href="/setts/s22/ly14o2r2o2r2o2r2o2r2o2g25ly8r4o4g3o1g3o1g4r10o2g2~x2/"><circle cx="229.6" cy="90.9" r="4" fill="#3465a4"><title>Ontario</title></circle></a><a href="/setts/s16/r11k1w1g4w1ly1r1k1r1ly1w1g4w1k1r1ly3~x2/"><circle cx="163.9" cy="93.4" r="4" fill="#3465a4"><title>Chattan</title></circle></a><a href="/setts/s12/dg2k1dg18k1dg2k1r12dg4ly6k1ly6k1/"><circle cx="241.9" cy="124.8" r="4" fill="#3465a4"><title>MacMillan Ancient</title></circle></a><a href="/setts/s12/g2k1g18k1g2k1r12g4ly6k1ly6k1~x2/"><circle cx="238.9" cy="123.3" r="4" fill="#3465a4"><title>MacMillan, Ancient</title></circle></a><a href="/setts/s36/dg20k1dg1k1dg1k1dg1k1dg1k1dg1k1dg1k8ly8dg16ly50k4r6dg28r1dg1r1dg1r1dg1r1dg1r1dg1r1dg1r8k24ly12k4/"><circle cx="232.0" cy="14.0" r="4" fill="#3465a4"><title>New Brunswick (PIK Mills, Toronto)</title></circle></a><a href="/setts/s26/r16g2w24g2r6k6r6g2w66ly2k12ly2w12ly2k4ly4k4ly4k7r2k7r6g20r6g20r12/"><circle cx="174.1" cy="20.5" r="4" fill="#3465a4"><title>Anderson</title></circle></a><circle cx="182.3" cy="65.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s22/y22w2k3w1k1w1k1w7o5k1o2w1~x4/"><circle cx="174.4" cy="61.2" r="4" fill="#3465a4"><title>Waverley Check</title></circle></a><a href="/setts/s20/g14k7g21k2g2k2g2k4g7r25w2r2k3r16g9r2k4r2k4r2~x2/"><circle cx="198.7" cy="117.1" r="4" fill="#3465a4"><title>Club World</title></circle></a><a href="/setts/s13/lb2dg16k1lb2k1ly4k1ly4k1lb2k1r16lb2~x2/"><circle cx="127.2" cy="83.0" r="4" fill="#3465a4"><title>Buchanan D</title></circle></a><a href="/setts/s13/lb2r16k1lb2k1ly4k1ly4k1lb2k1g16lb2~x2/"><circle cx="123.8" cy="85.3" r="4" fill="#3465a4"><title>Buchanan D1</title></circle></a><a href="/setts/s22/ly14o2r2o2r2o2r2o2r2o2g25ly8r4o4g3o1g3o1g4r10o2g2~x2/"><circle cx="229.2" cy="91.0" r="4" fill="#3465a4"><title>Ontario</title></circle></a><a href="/setts/s16/r11k1w1g4w1ly1r1k1r1ly1w1g4w1k1r1ly3~x2/"><circle cx="163.6" cy="93.5" r="4" fill="#3465a4"><title>Chattan</title></circle></a><a href="/setts/s12/dg2k1dg18k1dg2k1r12dg4ly6k1ly6k1/"><circle cx="241.7" cy="124.7" r="4" fill="#3465a4"><title>MacMillan Ancient</title></circle></a><a href="/setts/s12/g2k1g18k1g2k1r12g4ly6k1ly6k1~x2/"><circle cx="238.6" cy="123.2" r="4" fill="#3465a4"><title>MacMillan, Ancient</title></circle></a><a href="/setts/s36/dg20k1dg1k1dg1k1dg1k1dg1k1dg1k1dg1k8ly8dg16ly50k4r6dg28r1dg1r1dg1r1dg1r1dg1r1dg1r1dg1r8k24ly12k4/"><circle cx="231.6" cy="14.0" r="4" fill="#3465a4"><title>New Brunswick (PIK Mills, Toronto)</title></circle></a><a href="/setts/s26/r16g2w24g2r6k6r6g2w66ly2k12ly2w12ly2k4ly4k4ly4k7r2k7r6g20r6g20r12/"><circle cx="173.6" cy="20.5" r="4" fill="#3465a4"><title>Anderson</title></circle></a><circle cx="181.9" cy="65.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s22/g14k2r2k2r2k2r2k2r2k2ly25g8r4k4ly3k1ly3k1ly4r10k2ly2~x2/

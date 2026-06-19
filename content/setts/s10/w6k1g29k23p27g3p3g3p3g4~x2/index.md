@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/8 P6 G6 P6 G6 P54 K46 G58 K2 LN/12
+LN/12 K2 G58 K46 P54 G6 P6 G6 P6 G/8
 ![Sett](sett.png)
 
 ## Palette
@@ -915,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k8r1k3w5k5w3k5o23r3~x2/"><circle cx="224.8" cy="132.0" r="4" fill="#3465a4"><title>Southdown</title></circle></a><a href="/setts/s10/w6k1g29k23dp27g3dp3g3dp3g4~x2/"><circle cx="243.4" cy="132.8" r="4" fill="#3465a4"><title>Rennie Family Tartan Tartan Number: 716. Earliest known date: 1981. For Robin Rennie. The accreditation list gives the author and weaver, James Scarlett, as the designer in 1980. The tartan register records the designer as Peter MacDonald who worked as a weaver for the Scottish Tartans Society in 1981. Rennies, Rainys and Rainnies (from 'Ranald') are listed as a sept of MacDonell of Keppoch. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r3g14k12db40k12g2k2g2k2g7r3~x2/"><circle cx="221.8" cy="130.2" r="4" fill="#3465a4"><title>Rangers F.C.</title></circle></a><a href="/setts/s9/g3r12g15r2w1db30w1g2r2~x2/"><circle cx="261.2" cy="112.1" r="4" fill="#3465a4"><title>Christmas Morning</title></circle></a><a href="/setts/s10/lb16k4o1k2lb1k6dg6k1dg6lb1~x4/"><circle cx="194.8" cy="140.0" r="4" fill="#3465a4"><title>Unidentified #49</title></circle></a><a href="/setts/s11/r3g16k12db34k12g2k2g2k2g7r3~x2/"><circle cx="187.7" cy="141.5" r="4" fill="#3465a4"><title>Rangers F.C.</title></circle></a><a href="/setts/s9/k6db49g10k2g10k2lo26k2g2~x2/"><circle cx="254.3" cy="122.6" r="4" fill="#3465a4"><title>Madras 3 (Fashion)</title></circle></a><a href="/setts/s8/r3k2db25k28g25k2r1db2~x2/"><circle cx="224.8" cy="146.0" r="4" fill="#3465a4"><title>Common Kilt</title></circle></a><a href="/setts/s9/k3r1k3w5k5w3k5dy23r3~x2/"><circle cx="253.7" cy="127.3" r="4" fill="#3465a4"><title>Southdown (Fashion)</title></circle></a><a href="/setts/s9/g22k3g1k3g2p8m1p8m16~x2/"><circle cx="231.5" cy="148.7" r="4" fill="#3465a4"><title>Queen of Scots</title></circle></a><circle cx="218.4" cy="121.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k8r1k3w5k5w3k5o23r3~x2/"><circle cx="224.7" cy="131.9" r="4" fill="#3465a4"><title>Southdown</title></circle></a><a href="/setts/s10/w6k1g29k23dp27g3dp3g3dp3g4~x2/"><circle cx="243.4" cy="132.8" r="4" fill="#3465a4"><title>Rennie Family Tartan Tartan Number: 716. Earliest known date: 1981. For Robin Rennie. The accreditation list gives the author and weaver, James Scarlett, as the designer in 1980. The tartan register records the designer as Peter MacDonald who worked as a weaver for the Scottish Tartans Society in 1981. Rennies, Rainys and Rainnies (from 'Ranald') are listed as a sept of MacDonell of Keppoch. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r3g14k12db40k12g2k2g2k2g7r3~x2/"><circle cx="221.8" cy="130.1" r="4" fill="#3465a4"><title>Rangers F.C.</title></circle></a><a href="/setts/s9/g3r12g15r2w1db30w1g2r2~x2/"><circle cx="261.0" cy="112.0" r="4" fill="#3465a4"><title>Christmas Morning</title></circle></a><a href="/setts/s10/lb16k4o1k2lb1k6dg6k1dg6lb1~x4/"><circle cx="194.7" cy="139.9" r="4" fill="#3465a4"><title>Unidentified #49</title></circle></a><a href="/setts/s11/r3g16k12db34k12g2k2g2k2g7r3~x2/"><circle cx="187.7" cy="141.5" r="4" fill="#3465a4"><title>Rangers F.C.</title></circle></a><a href="/setts/s9/k6db49g10k2g10k2lo26k2g2~x2/"><circle cx="254.1" cy="122.5" r="4" fill="#3465a4"><title>Madras 3 (Fashion)</title></circle></a><a href="/setts/s8/r3k2db25k28g25k2r1db2~x2/"><circle cx="224.9" cy="145.9" r="4" fill="#3465a4"><title>Common Kilt</title></circle></a><a href="/setts/s9/k3r1k3w5k5w3k5dy23r3~x2/"><circle cx="253.5" cy="127.2" r="4" fill="#3465a4"><title>Southdown (Fashion)</title></circle></a><a href="/setts/s9/g22k3g1k3g2p8m1p8m16~x2/"><circle cx="231.4" cy="148.7" r="4" fill="#3465a4"><title>Queen of Scots</title></circle></a><circle cx="218.3" cy="121.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/w6k1g29k23p27g3p3g3p3g4~x2/

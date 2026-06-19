@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/6 K6 Y6 G54 B60 K4 B8 K4 B60 G8 B4 G2 R/6
+R/6 G2 B4 G8 B60 K4 B8 K4 B60 G54 Y6 K6 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -913,12 +916,12 @@ The nearest existing variants by ΔTartan distance.
 1. [City of Barrie](/setts/s12/b50r3b4k8o4k2ly3k2r12w2r4b4~x2/) — ΔT 1.25
 1. [Proctor](/setts/s14/g78k4g4k4g4k6db26k4w8k4db26k6g48ly3/) — ΔT 1.26
 1. [Canmore Highland Games](/setts/s12/g70db3k9w4k4dp4k3db12g9k4g4o4~x2/) — ΔT 1.26
-1. [Brough from Orkney (Name)](/setts/s13/dt2k2dt1o1k2r7k2o2dt12ly3dt27o4k2~x2/) — ΔT 1.27
+1. [Brough from Orkney (Name)](/setts/s13/k2o4dt27ly3dt12o2k2r7k2o1dt1k2dt2~x2/) — ΔT 1.27
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/t57db4k8ly4k4t4k4dg8r6k4r4t2/"><circle cx="322.7" cy="70.0" r="4" fill="#3465a4"><title>Stuart/Stewart Royal variant</title></circle></a><a href="/setts/s13/r3dg1db2dg4db30k2db4k2db30dg27ly3k3w3~x2/"><circle cx="343.6" cy="97.8" r="4" fill="#3465a4"><title>Joss (Clan)</title></circle></a><a href="/setts/s18/g2r2g18o6db40lo1db1lo4w2lo4db1lo1db40o6g18r2g2w1~x2/"><circle cx="298.7" cy="45.9" r="4" fill="#3465a4"><title>O'Mahony, The</title></circle></a><a href="/setts/s10/w2lo4db1lo1db40o6g18r2g2w1~x2/"><circle cx="302.1" cy="64.5" r="4" fill="#3465a4"><title>O'Mahony, The (Commemorative)</title></circle></a><a href="/setts/s12/t57db4k8ly4k4t4k4g8r6k4r4t2/"><circle cx="301.9" cy="59.0" r="4" fill="#3465a4"><title>Royal Stewart, (Variant)</title></circle></a><a href="/setts/s14/b34g10b5r2k8dy2w3dy2k8r2b5g10b28k3~x2/"><circle cx="293.5" cy="118.8" r="4" fill="#3465a4"><title>Lambert Dress (Personal)</title></circle></a><a href="/setts/s12/b50r3b4k8o4k2ly3k2r12w2r4b4~x2/"><circle cx="337.1" cy="75.4" r="4" fill="#3465a4"><title>City of Barrie</title></circle></a><a href="/setts/s14/g78k4g4k4g4k6db26k4w8k4db26k6g48ly3/"><circle cx="332.2" cy="104.4" r="4" fill="#3465a4"><title>Proctor</title></circle></a><a href="/setts/s12/g70db3k9w4k4dp4k3db12g9k4g4o4~x2/"><circle cx="379.1" cy="94.9" r="4" fill="#3465a4"><title>Canmore Highland Games</title></circle></a><a href="/setts/s13/dt2k2dt1o1k2r7k2o2dt12ly3dt27o4k2~x2/"><circle cx="373.3" cy="106.5" r="4" fill="#3465a4"><title>Brough from Orkney (Name)</title></circle></a><circle cx="321.2" cy="87.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/t57db4k8ly4k4t4k4dg8r6k4r4t2/"><circle cx="322.4" cy="70.0" r="4" fill="#3465a4"><title>Stuart/Stewart Royal variant</title></circle></a><a href="/setts/s13/r3dg1db2dg4db30k2db4k2db30dg27ly3k3w3~x2/"><circle cx="343.5" cy="97.8" r="4" fill="#3465a4"><title>Joss (Clan)</title></circle></a><a href="/setts/s18/g2r2g18o6db40lo1db1lo4w2lo4db1lo1db40o6g18r2g2w1~x2/"><circle cx="298.4" cy="45.9" r="4" fill="#3465a4"><title>O'Mahony, The</title></circle></a><a href="/setts/s10/w2lo4db1lo1db40o6g18r2g2w1~x2/"><circle cx="301.9" cy="64.4" r="4" fill="#3465a4"><title>O'Mahony, The (Commemorative)</title></circle></a><a href="/setts/s12/t57db4k8ly4k4t4k4g8r6k4r4t2/"><circle cx="301.7" cy="59.0" r="4" fill="#3465a4"><title>Royal Stewart, (Variant)</title></circle></a><a href="/setts/s14/b34g10b5r2k8dy2w3dy2k8r2b5g10b28k3~x2/"><circle cx="293.3" cy="118.8" r="4" fill="#3465a4"><title>Lambert Dress (Personal)</title></circle></a><a href="/setts/s12/b50r3b4k8o4k2ly3k2r12w2r4b4~x2/"><circle cx="336.8" cy="75.4" r="4" fill="#3465a4"><title>City of Barrie</title></circle></a><a href="/setts/s14/g78k4g4k4g4k6db26k4w8k4db26k6g48ly3/"><circle cx="332.1" cy="104.2" r="4" fill="#3465a4"><title>Proctor</title></circle></a><a href="/setts/s12/g70db3k9w4k4dp4k3db12g9k4g4o4~x2/"><circle cx="379.0" cy="94.9" r="4" fill="#3465a4"><title>Canmore Highland Games</title></circle></a><a href="/setts/s13/k2o4dt27ly3dt12o2k2r7k2o1dt1k2dt2~x2/"><circle cx="373.1" cy="106.4" r="4" fill="#3465a4"><title>Brough from Orkney (Name)</title></circle></a><circle cx="321.0" cy="87.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r3g1db2g4db30k2db4k2db30g27ly3k3w3~x2/

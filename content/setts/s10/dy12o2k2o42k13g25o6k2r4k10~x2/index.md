@@ -2,7 +2,7 @@
 title: "Dinwoodie (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GRKRKGRKRK](/stripes/grkrkgrkrk/) · **Stripes:** [DY O K O K G O K R K](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">DY O K O K G O K R K</span></span>
+**Bands:** [KRKRGKRKRG](/stripes/krkrgkrkrg/) · **Stripes:** [K R K O G K O K O DY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">K R K O G K O K O DY</span></span>
 
 
 This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/2660/
 
 ## Thread count
-K/20 R8 K4 N12 G50 K26 N84 K4 N4 T/24
+T/24 N4 K4 N84 K26 G50 N12 K4 R8 K/20
 ![Sett](sett.png)
 
 ## Palette
@@ -34,15 +34,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Smoke Showing (UFES)](/setts/s9/g3n5k4n33g12k4w2k18lo3~x2/) — ΔT 0.89
 1. [Ontario (Official)](/setts/s13/g19r1g2r2g15r1dt13w1db2r2db21r1w3~x2/) — ΔT 0.92
 1. [Norham and Ladykirk (District)](/setts/s11/dg50db12o7db12r10o7k2o7k2o7r10~x2/) — ΔT 0.98
-1. [McWilliams Wedding (Personal)](/setts/s9/g2n1k1n14ly2n1k12g10r2~x2/) — ΔT 0.98
+1. [McWilliams Wedding (Personal)](/setts/s9/r2g10k12n1ly2n14k1n1g2~x2/) — ΔT 0.98
 1. [Selby (Name)](/setts/s11/g3n1g1n12k2n2k2n3k12g24w3~x2/) — ΔT 0.98
-1. [Glen Orchy #2 or MacIntyre](/setts/s14/g2k2r3g18r3db6t1r4g6r2db18r3g2k2~x2/) — ΔT 1.06
-1. [Kerby/Kirby](/setts/s12/r6g1lb2g24k3g3k3g3k8db8lb2db4~x2/) — ΔT 1.06
+1. [Glen Orchy #2 or MacIntyre](/setts/s14/k2g2r3db18r2g6r4t1db6r3g18r3k2g2~x2/) — ΔT 1.06
+1. [St Lawrence Trade](/setts/s8/dg2dr13dg11ly5dr1o21dg2o1~x2/) — ΔT 1.06
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r4n12k18n4y22lb1y2lb2y3lb2~x4/"><circle cx="215.1" cy="132.9" r="4" fill="#3465a4"><title>Windsor</title></circle></a><a href="/setts/s12/k10y26k2y4k2y26k3r36k3g30k3r2/"><circle cx="203.4" cy="128.8" r="4" fill="#3465a4"><title>Pope (Welsh Name)</title></circle></a><a href="/setts/s12/k10r26k2r4k2r26k3g36k3g30k3y2/"><circle cx="209.3" cy="134.6" r="4" fill="#3465a4"><title>Pope of Wales</title></circle></a><a href="/setts/s9/g3n5k4n33g12k4w2k18lo3~x2/"><circle cx="240.3" cy="148.3" r="4" fill="#3465a4"><title>Smoke Showing (UFES)</title></circle></a><a href="/setts/s13/g19r1g2r2g15r1dt13w1db2r2db21r1w3~x2/"><circle cx="237.2" cy="122.6" r="4" fill="#3465a4"><title>Ontario (Official)</title></circle></a><a href="/setts/s11/dg50db12o7db12r10o7k2o7k2o7r10~x2/"><circle cx="247.3" cy="133.5" r="4" fill="#3465a4"><title>Norham and Ladykirk (District)</title></circle></a><a href="/setts/s9/g2n1k1n14ly2n1k12g10r2~x2/"><circle cx="191.3" cy="159.9" r="4" fill="#3465a4"><title>McWilliams Wedding (Personal)</title></circle></a><a href="/setts/s11/g3n1g1n12k2n2k2n3k12g24w3~x2/"><circle cx="223.9" cy="127.9" r="4" fill="#3465a4"><title>Selby (Name)</title></circle></a><a href="/setts/s14/g2k2r3g18r3db6t1r4g6r2db18r3g2k2~x2/"><circle cx="225.7" cy="130.8" r="4" fill="#3465a4"><title>Glen Orchy #2 or MacIntyre</title></circle></a><a href="/setts/s12/r6g1lb2g24k3g3k3g3k8db8lb2db4~x2/"><circle cx="245.2" cy="126.7" r="4" fill="#3465a4"><title>Kerby/Kirby</title></circle></a><circle cx="229.2" cy="135.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r4n12k18n4y22lb1y2lb2y3lb2~x4/"><circle cx="215.0" cy="132.9" r="4" fill="#3465a4"><title>Windsor</title></circle></a><a href="/setts/s12/k10y26k2y4k2y26k3r36k3g30k3r2/"><circle cx="203.2" cy="128.9" r="4" fill="#3465a4"><title>Pope (Welsh Name)</title></circle></a><a href="/setts/s12/k10r26k2r4k2r26k3g36k3g30k3y2/"><circle cx="209.2" cy="134.7" r="4" fill="#3465a4"><title>Pope of Wales</title></circle></a><a href="/setts/s9/g3n5k4n33g12k4w2k18lo3~x2/"><circle cx="240.3" cy="148.3" r="4" fill="#3465a4"><title>Smoke Showing (UFES)</title></circle></a><a href="/setts/s13/g19r1g2r2g15r1dt13w1db2r2db21r1w3~x2/"><circle cx="237.1" cy="122.7" r="4" fill="#3465a4"><title>Ontario (Official)</title></circle></a><a href="/setts/s11/dg50db12o7db12r10o7k2o7k2o7r10~x2/"><circle cx="247.2" cy="133.6" r="4" fill="#3465a4"><title>Norham and Ladykirk (District)</title></circle></a><a href="/setts/s9/r2g10k12n1ly2n14k1n1g2~x2/"><circle cx="191.3" cy="160.0" r="4" fill="#3465a4"><title>McWilliams Wedding (Personal)</title></circle></a><a href="/setts/s11/g3n1g1n12k2n2k2n3k12g24w3~x2/"><circle cx="223.9" cy="128.0" r="4" fill="#3465a4"><title>Selby (Name)</title></circle></a><a href="/setts/s14/k2g2r3db18r2g6r4t1db6r3g18r3k2g2~x2/"><circle cx="225.6" cy="130.9" r="4" fill="#3465a4"><title>Glen Orchy #2 or MacIntyre</title></circle></a><a href="/setts/s8/dg2dr13dg11ly5dr1o21dg2o1~x2/"><circle cx="208.2" cy="140.5" r="4" fill="#3465a4"><title>St Lawrence Trade</title></circle></a><circle cx="229.1" cy="135.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/dy12o2k2o42k13g25o6k2r4k10~x2/

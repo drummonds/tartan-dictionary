@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=991
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Drummond of Perth, dress
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/6 Na14 N12 R20 LN50 Na6 N12 Y6 R/134
+R/134 Y6 N12 Na6 LN50 R20 N12 Na14 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -923,8 +932,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r24lr2lr7lr3k2n4k2lr1r4lr1~x2/"><circle cx="340.8" cy="89.1" r="4" fill="#3465a4"><title>VeMMA</title></circle></a><a href="/setts/s10/r24lr2lr7lr3k2k4k2lr1r4lr1~x2/"><circle cx="308.1" cy="73.9" r="4" fill="#3465a4"><title>VeMMA Corporate Tartan Tartan Number: 10730. Earliest known date: 5 November 2012 Created for VeMMA International. VeMMA is a nutritional supplement company marketing fruit juice drinks that have been enhanced with vitamins and anti-oxidants (the name VeMMA is an acronym for Vitamins, essential Minerals, Mangosteen and Aloe vera). VeMMA offers an affiliate marketing program to those who wish to recommend its products. Colours: the orange represents enhanced health through supplementation; silver represents liquid and silver also purifies, soothes, inspires, and reflects back positive energy. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/r40ly1k2y1w15r5k5y5w1~x2/"><circle cx="374.8" cy="59.3" r="4" fill="#3465a4"><title>Drummond of Perth Dress</title></circle></a><a href="/setts/s9/k3lo6lb13r2lb2r32lb1r2lb1~x2/"><circle cx="396.1" cy="96.5" r="4" fill="#3465a4"><title>Fueglistal</title></circle></a><a href="/setts/s9/r40ly1k2o1w15r5k5o5w1~x2/"><circle cx="373.7" cy="61.5" r="4" fill="#3465a4"><title>Drummond of Perth Dress Clan Tartan Tartan Number: 1717. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/r24ly2o3dy2w10r4o3dy3w2~x2/"><circle cx="278.1" cy="122.2" r="4" fill="#3465a4"><title>Manx Laxey (Red)</title></circle></a><a href="/setts/s9/r24ly2y3o2w10r4y3o3w2~x2/"><circle cx="282.3" cy="125.2" r="4" fill="#3465a4"><title>Manx Laxey, Red</title></circle></a><a href="/setts/s9/ly27k4w4r64w4r4k4r4k12~x2/"><circle cx="327.5" cy="109.7" r="4" fill="#3465a4"><title>O'Meehan (Name)</title></circle></a><a href="/setts/s12/r18r3w3r3r2r1w1g1r2ly1r1k1~x4/"><circle cx="348.3" cy="64.2" r="4" fill="#3465a4"><title>Studio Wolf Polysun</title></circle></a><a href="/setts/s8/r35db2w2db2r4r10w25r3~x2/"><circle cx="298.4" cy="122.2" r="4" fill="#3465a4"><title>Longniddry Dress, Red (Dance)</title></circle></a><circle cx="357.3" cy="87.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r24lr2lr7lr3k2n4k2lr1r4lr1~x2/"><circle cx="340.2" cy="89.1" r="4" fill="#3465a4"><title>VeMMA</title></circle></a><a href="/setts/s10/r24lr2lr7lr3k2k4k2lr1r4lr1~x2/"><circle cx="307.5" cy="73.8" r="4" fill="#3465a4"><title>VeMMA Corporate Tartan Tartan Number: 10730. Earliest known date: 5 November 2012 Created for VeMMA International. VeMMA is a nutritional supplement company marketing fruit juice drinks that have been enhanced with vitamins and anti-oxidants (the name VeMMA is an acronym for Vitamins, essential Minerals, Mangosteen and Aloe vera). VeMMA offers an affiliate marketing program to those who wish to recommend its products. Colours: the orange represents enhanced health through supplementation; silver represents liquid and silver also purifies, soothes, inspires, and reflects back positive energy. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/r40ly1k2y1w15r5k5y5w1~x2/"><circle cx="374.2" cy="59.2" r="4" fill="#3465a4"><title>Drummond of Perth Dress</title></circle></a><a href="/setts/s9/k3lo6lb13r2lb2r32lb1r2lb1~x2/"><circle cx="395.4" cy="96.3" r="4" fill="#3465a4"><title>Fueglistal</title></circle></a><a href="/setts/s9/r40ly1k2o1w15r5k5o5w1~x2/"><circle cx="373.1" cy="61.4" r="4" fill="#3465a4"><title>Drummond of Perth Dress Clan Tartan Tartan Number: 1717. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/r24ly2o3dy2w10r4o3dy3w2~x2/"><circle cx="277.6" cy="122.2" r="4" fill="#3465a4"><title>Manx Laxey (Red)</title></circle></a><a href="/setts/s9/r24ly2y3o2w10r4y3o3w2~x2/"><circle cx="281.8" cy="125.1" r="4" fill="#3465a4"><title>Manx Laxey, Red</title></circle></a><a href="/setts/s9/ly27k4w4r64w4r4k4r4k12~x2/"><circle cx="327.0" cy="109.6" r="4" fill="#3465a4"><title>O'Meehan (Name)</title></circle></a><a href="/setts/s12/r18r3w3r3r2r1w1g1r2ly1r1k1~x4/"><circle cx="347.5" cy="64.2" r="4" fill="#3465a4"><title>Studio Wolf Polysun</title></circle></a><a href="/setts/s8/r35db2w2db2r4r10w25r3~x2/"><circle cx="297.9" cy="122.1" r="4" fill="#3465a4"><title>Longniddry Dress, Red (Dance)</title></circle></a><circle cx="356.7" cy="87.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r67ly3n6lb3w25r10n6lb7w3~x2/

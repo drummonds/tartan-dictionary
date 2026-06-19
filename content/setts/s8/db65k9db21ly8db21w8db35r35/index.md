@@ -2,12 +2,18 @@
 title: "Maud, Mary"
 date: 2023-03-18
 ---
-**Bands:** [BKBYBWBR](/stripes/bkbybwbr/) · **Stripes:** [DB K DB LY DB W DB R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K DB LY DB W DB R</span></span>
+**Bands:** [RBWBYBKB](/stripes/rbwbybkb/) · **Stripes:** [R DB W DB LY DB K DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB W DB LY DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Maud, Mary
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -914,10 +923,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Louisville Fire & Rescue P&D](/setts/s9/lo1db8r3db2r1db2r3db8w1~x4/) — ΔT 1.16
+1. [Louisville Fire & Rescue P&D](/setts/s9/w1db8r3db2r1db2r3db8lo1~x4/) — ΔT 1.16
 1. [de Grussa (Personal)](/setts/s6/db24w4db24lo4r5k4~x2/) — ΔT 1.32
 1. [Stradling (Name)](/setts/s6/db40w7db60k10r25ly4/) — ΔT 1.40
-1. [Ancient Atlantic](/setts/s6/ly1db6k1dy5db6w1~x4/) — ΔT 1.53
+1. [Ancient Atlantic](/setts/s6/w1db6dy5k1db6ly1~x4/) — ΔT 1.53
 1. [Abertay University (Estimated threadcount)](/setts/s6/r5db15g3db15ly3db3~x2/) — ΔT 1.53
 1. [Fitzgerald, Blue](/setts/s9/r3db21r3db3k13db13t3db3w2~x2/) — ΔT 1.55
 1. [De Grussa](/setts/s6/db24w4db24ly4r5k4~x2/) — ΔT 1.55
@@ -927,8 +936,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lo1db8r3db2r1db2r3db8w1~x4/"><circle cx="382.4" cy="207.6" r="4" fill="#3465a4"><title>Louisville Fire &amp; Rescue P&amp;D</title></circle></a><a href="/setts/s6/db24w4db24lo4r5k4~x2/"><circle cx="377.3" cy="220.8" r="4" fill="#3465a4"><title>de Grussa (Personal)</title></circle></a><a href="/setts/s6/db40w7db60k10r25ly4/"><circle cx="385.9" cy="193.8" r="4" fill="#3465a4"><title>Stradling (Name)</title></circle></a><a href="/setts/s6/ly1db6k1dy5db6w1~x4/"><circle cx="271.8" cy="229.4" r="4" fill="#3465a4"><title>Ancient Atlantic</title></circle></a><a href="/setts/s6/r5db15g3db15ly3db3~x2/"><circle cx="401.6" cy="255.4" r="4" fill="#3465a4"><title>Abertay University (Estimated threadcount)</title></circle></a><a href="/setts/s9/r3db21r3db3k13db13t3db3w2~x2/"><circle cx="306.4" cy="174.4" r="4" fill="#3465a4"><title>Fitzgerald, Blue</title></circle></a><a href="/setts/s6/db24w4db24ly4r5k4~x2/"><circle cx="360.0" cy="213.7" r="4" fill="#3465a4"><title>De Grussa</title></circle></a><a href="/setts/s6/r1db12k5o3db5w1~x4/"><circle cx="317.1" cy="193.7" r="4" fill="#3465a4"><title>Massachusetts</title></circle></a><a href="/setts/s10/dt30t5dt5lp5dt10w4r4dt10g5dt10~x2/"><circle cx="351.6" cy="177.3" r="4" fill="#3465a4"><title>Bukowski-Jackson (Personal)</title></circle></a><a href="/setts/s10/db20b2w5r2db10b5db20b2w5r5~x2/"><circle cx="337.8" cy="186.8" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><circle cx="350.2" cy="204.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w1db8r3db2r1db2r3db8lo1~x4/"><circle cx="382.3" cy="207.3" r="4" fill="#3465a4"><title>Louisville Fire &amp; Rescue P&amp;D</title></circle></a><a href="/setts/s6/db24w4db24lo4r5k4~x2/"><circle cx="377.3" cy="220.5" r="4" fill="#3465a4"><title>de Grussa (Personal)</title></circle></a><a href="/setts/s6/db40w7db60k10r25ly4/"><circle cx="385.8" cy="193.6" r="4" fill="#3465a4"><title>Stradling (Name)</title></circle></a><a href="/setts/s6/w1db6dy5k1db6ly1~x4/"><circle cx="271.9" cy="229.3" r="4" fill="#3465a4"><title>Ancient Atlantic</title></circle></a><a href="/setts/s6/r5db15g3db15ly3db3~x2/"><circle cx="401.5" cy="255.1" r="4" fill="#3465a4"><title>Abertay University (Estimated threadcount)</title></circle></a><a href="/setts/s9/r3db21r3db3k13db13t3db3w2~x2/"><circle cx="306.4" cy="174.3" r="4" fill="#3465a4"><title>Fitzgerald, Blue</title></circle></a><a href="/setts/s6/db24w4db24ly4r5k4~x2/"><circle cx="360.0" cy="213.4" r="4" fill="#3465a4"><title>De Grussa</title></circle></a><a href="/setts/s6/r1db12k5o3db5w1~x4/"><circle cx="317.1" cy="193.6" r="4" fill="#3465a4"><title>Massachusetts</title></circle></a><a href="/setts/s10/dt30t5dt5lp5dt10w4r4dt10g5dt10~x2/"><circle cx="351.5" cy="177.1" r="4" fill="#3465a4"><title>Bukowski-Jackson (Personal)</title></circle></a><a href="/setts/s10/db20b2w5r2db10b5db20b2w5r5~x2/"><circle cx="337.7" cy="186.6" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><circle cx="350.1" cy="203.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db65k9db21ly8db21w8db35r35/

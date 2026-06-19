@@ -2,7 +2,7 @@
 title: "Fitzsimmons Red (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GGYKRKGKYG](/stripes/ggykrkgkyg/) · **Stripes:** [DY Y LO K R K DY K LO Y](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DY Y LO K R K DY K LO Y</span></span>
+**Bands:** [GYKGKRKYGG](/stripes/gykgkrkygg/) · **Stripes:** [Y LO K DY K R K LO Y DY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">Y LO K DY K R K LO Y DY</span></span>
 
 
 This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
@@ -42,21 +42,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Dryburgh](/setts/s11/ly2k10n2k2n2k3n10o16o2o2o2~x2/) — ΔT 0.78
+1. [Dryburgh](/setts/s11/o2o2o2o16n10k3n2k2n2k10ly2~x2/) — ΔT 0.78
 1. [Brittany National Walking](/setts/s9/t4dy27lo8k4lo8k4lo8r11ly3~x2/) — ΔT 1.08
 1. [Roscommon, County](/setts/s10/r5ly3r19do6ly5do6dg12db5dg12db3~x2/) — ΔT 1.10
 1. [Dorcas](/setts/s12/y4lr2y2lr3y20k6do4k2do2k2do16o3~x2/) — ΔT 1.13
 1. [Sikh (Corporate)](/setts/s8/o30k4o3k4o3g20dt20ly4~x2/) — ΔT 1.14
-1. [MacPherson #9](/setts/s15/r13lr4r13dg28lr3dy26lr10dy2dy2dy2lr10r14lr4dy4r4~x2/) — ΔT 1.17
 1. [Sikh](/setts/s8/o56k12o7k12o7g50db50ly10/) — ΔT 1.17
+1. [MacPherson #9](/setts/s15/r13lr4r13dg28lr3dy26lr10dy2dy2dy2lr10r14lr4dy4r4~x2/) — ΔT 1.17
 1. [Bruce of Kinnaird (Vivienne Westwood Design)](/setts/s10/dy22y22dr2lb6dr2lo2dr16g5dy8lb2~x2/) — ΔT 1.18
-1. [Callum, Brown (Fashion)](/setts/s12/o3lr2o2lr3o20db6dy3db2dy2db2dy16r3~x2/) — ΔT 1.18
-1. [Fitzsimmons](/setts/s10/ly3y2k4o6k4y15k4dg18k2y3~x2/) — ΔT 1.19
+1. [Callum, Brown (Fashion)](/setts/s12/r3dy16db2dy2db2dy3db6o20lr3o2lr2o3~x2/) — ΔT 1.18
+1. [Fitzsimmons](/setts/s10/y3k2dg18k4y15k4o6k4y2ly3~x2/) — ΔT 1.19
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/ly2k10n2k2n2k3n10o16o2o2o2~x2/"><circle cx="164.7" cy="162.5" r="4" fill="#3465a4"><title>Dryburgh</title></circle></a><a href="/setts/s9/t4dy27lo8k4lo8k4lo8r11ly3~x2/"><circle cx="152.6" cy="169.6" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><a href="/setts/s10/r5ly3r19do6ly5do6dg12db5dg12db3~x2/"><circle cx="116.9" cy="208.0" r="4" fill="#3465a4"><title>Roscommon, County</title></circle></a><a href="/setts/s12/y4lr2y2lr3y20k6do4k2do2k2do16o3~x2/"><circle cx="208.8" cy="153.8" r="4" fill="#3465a4"><title>Dorcas</title></circle></a><a href="/setts/s8/o30k4o3k4o3g20dt20ly4~x2/"><circle cx="195.6" cy="175.2" r="4" fill="#3465a4"><title>Sikh (Corporate)</title></circle></a><a href="/setts/s15/r13lr4r13dg28lr3dy26lr10dy2dy2dy2lr10r14lr4dy4r4~x2/"><circle cx="162.9" cy="140.5" r="4" fill="#3465a4"><title>MacPherson #9</title></circle></a><a href="/setts/s8/o56k12o7k12o7g50db50ly10/"><circle cx="142.6" cy="188.5" r="4" fill="#3465a4"><title>Sikh</title></circle></a><a href="/setts/s10/dy22y22dr2lb6dr2lo2dr16g5dy8lb2~x2/"><circle cx="170.4" cy="159.8" r="4" fill="#3465a4"><title>Bruce of Kinnaird (Vivienne Westwood Design)</title></circle></a><a href="/setts/s12/o3lr2o2lr3o20db6dy3db2dy2db2dy16r3~x2/"><circle cx="204.7" cy="145.6" r="4" fill="#3465a4"><title>Callum, Brown (Fashion)</title></circle></a><a href="/setts/s10/ly3y2k4o6k4y15k4dg18k2y3~x2/"><circle cx="163.5" cy="186.6" r="4" fill="#3465a4"><title>Fitzsimmons</title></circle></a><circle cx="156.6" cy="174.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/o2o2o2o16n10k3n2k2n2k10ly2~x2/"><circle cx="164.6" cy="162.6" r="4" fill="#3465a4"><title>Dryburgh</title></circle></a><a href="/setts/s9/t4dy27lo8k4lo8k4lo8r11ly3~x2/"><circle cx="152.5" cy="169.8" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><a href="/setts/s10/r5ly3r19do6ly5do6dg12db5dg12db3~x2/"><circle cx="116.9" cy="208.2" r="4" fill="#3465a4"><title>Roscommon, County</title></circle></a><a href="/setts/s12/y4lr2y2lr3y20k6do4k2do2k2do16o3~x2/"><circle cx="208.6" cy="153.9" r="4" fill="#3465a4"><title>Dorcas</title></circle></a><a href="/setts/s8/o30k4o3k4o3g20dt20ly4~x2/"><circle cx="195.5" cy="175.2" r="4" fill="#3465a4"><title>Sikh (Corporate)</title></circle></a><a href="/setts/s8/o56k12o7k12o7g50db50ly10/"><circle cx="142.6" cy="188.6" r="4" fill="#3465a4"><title>Sikh</title></circle></a><a href="/setts/s15/r13lr4r13dg28lr3dy26lr10dy2dy2dy2lr10r14lr4dy4r4~x2/"><circle cx="162.7" cy="140.7" r="4" fill="#3465a4"><title>MacPherson #9</title></circle></a><a href="/setts/s10/dy22y22dr2lb6dr2lo2dr16g5dy8lb2~x2/"><circle cx="170.3" cy="160.0" r="4" fill="#3465a4"><title>Bruce of Kinnaird (Vivienne Westwood Design)</title></circle></a><a href="/setts/s12/r3dy16db2dy2db2dy3db6o20lr3o2lr2o3~x2/"><circle cx="204.5" cy="145.7" r="4" fill="#3465a4"><title>Callum, Brown (Fashion)</title></circle></a><a href="/setts/s10/y3k2dg18k4y15k4o6k4y2ly3~x2/"><circle cx="163.5" cy="186.7" r="4" fill="#3465a4"><title>Fitzsimmons</title></circle></a><circle cx="156.5" cy="174.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/dy3y2lo18k4r15k4dy6k4lo2y3~x2/

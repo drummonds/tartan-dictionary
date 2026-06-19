@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,14 +913,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Burt Family](/setts/s9/dp2g13db8g3db33dy3db8dy13r2~x2/) — ΔT 1.68
 1. [Dublin Lie-ins (Corporate)](/setts/s11/dt8k3dt26k11t3dt8r4dt8t3k2w3~x2/) — ΔT 1.72
 1. [Jethart](/setts/s9/k22db16r3db16k3db16g3db3b5~x2/) — ΔT 1.72
-1. [MacIver of Strome (Personal)](/setts/s13/ly2db3r2db19k7db6k22db6k7db19r2db3w2~x2/) — ΔT 1.72
+1. [MacIver of Strome (Personal)](/setts/s13/w2db3r2db19k7db6k22db6k7db19r2db3ly2~x2/) — ΔT 1.72
 1. [Van Loo (Personal)](/setts/s7/t5db30k25t5db30dp2t5~x2/) — ΔT 1.74
 1. [Indigo Blue (Corporate)](/setts/s11/db9k1db4k1db18t5k1t1k1t5db4~x2/) — ΔT 1.76
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lb4k1db14k8db6r2db6r3db6r2db6k2lo2~x2/"><circle cx="305.3" cy="177.6" r="4" fill="#3465a4"><title>Aberdale (Fashion)</title></circle></a><a href="/setts/s9/db60r5db60b40db36r10db36b40w5/"><circle cx="379.4" cy="236.9" r="4" fill="#3465a4"><title>Brash</title></circle></a><a href="/setts/s15/db11k1dg3db6k1db6dg3db4dg7db11ly1db11dg7ly2k4/"><circle cx="334.4" cy="216.9" r="4" fill="#3465a4"><title>Beynon</title></circle></a><a href="/setts/s12/db12b2dg10db16dg6db2dg2db2dg6m2db5w2~x2/"><circle cx="291.3" cy="210.5" r="4" fill="#3465a4"><title>Ayre Robinson (Personal)</title></circle></a><a href="/setts/s9/dp2g13db8g3db33dy3db8dy13r2~x2/"><circle cx="335.0" cy="179.1" r="4" fill="#3465a4"><title>Burt Family</title></circle></a><a href="/setts/s11/dt8k3dt26k11t3dt8r4dt8t3k2w3~x2/"><circle cx="350.8" cy="182.7" r="4" fill="#3465a4"><title>Dublin Lie-ins (Corporate)</title></circle></a><a href="/setts/s9/k22db16r3db16k3db16g3db3b5~x2/"><circle cx="297.0" cy="221.7" r="4" fill="#3465a4"><title>Jethart</title></circle></a><a href="/setts/s13/ly2db3r2db19k7db6k22db6k7db19r2db3w2~x2/"><circle cx="314.0" cy="176.1" r="4" fill="#3465a4"><title>MacIver of Strome (Personal)</title></circle></a><a href="/setts/s7/t5db30k25t5db30dp2t5~x2/"><circle cx="369.9" cy="225.0" r="4" fill="#3465a4"><title>Van Loo (Personal)</title></circle></a><a href="/setts/s11/db9k1db4k1db18t5k1t1k1t5db4~x2/"><circle cx="406.6" cy="185.9" r="4" fill="#3465a4"><title>Indigo Blue (Corporate)</title></circle></a><circle cx="358.4" cy="202.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lb4k1db14k8db6r2db6r3db6r2db6k2lo2~x2/"><circle cx="305.4" cy="177.6" r="4" fill="#3465a4"><title>Aberdale (Fashion)</title></circle></a><a href="/setts/s9/db60r5db60b40db36r10db36b40w5/"><circle cx="379.4" cy="236.7" r="4" fill="#3465a4"><title>Brash</title></circle></a><a href="/setts/s15/db11k1dg3db6k1db6dg3db4dg7db11ly1db11dg7ly2k4/"><circle cx="334.5" cy="216.8" r="4" fill="#3465a4"><title>Beynon</title></circle></a><a href="/setts/s12/db12b2dg10db16dg6db2dg2db2dg6m2db5w2~x2/"><circle cx="291.5" cy="210.5" r="4" fill="#3465a4"><title>Ayre Robinson (Personal)</title></circle></a><a href="/setts/s9/dp2g13db8g3db33dy3db8dy13r2~x2/"><circle cx="335.1" cy="179.1" r="4" fill="#3465a4"><title>Burt Family</title></circle></a><a href="/setts/s11/dt8k3dt26k11t3dt8r4dt8t3k2w3~x2/"><circle cx="350.8" cy="182.6" r="4" fill="#3465a4"><title>Dublin Lie-ins (Corporate)</title></circle></a><a href="/setts/s9/k22db16r3db16k3db16g3db3b5~x2/"><circle cx="297.2" cy="221.6" r="4" fill="#3465a4"><title>Jethart</title></circle></a><a href="/setts/s13/w2db3r2db19k7db6k22db6k7db19r2db3ly2~x2/"><circle cx="314.1" cy="176.1" r="4" fill="#3465a4"><title>MacIver of Strome (Personal)</title></circle></a><a href="/setts/s7/t5db30k25t5db30dp2t5~x2/"><circle cx="370.0" cy="224.9" r="4" fill="#3465a4"><title>Van Loo (Personal)</title></circle></a><a href="/setts/s11/db9k1db4k1db18t5k1t1k1t5db4~x2/"><circle cx="406.6" cy="185.9" r="4" fill="#3465a4"><title>Indigo Blue (Corporate)</title></circle></a><circle cx="358.5" cy="202.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/db28db49ly3db49db28w4db28db49r3db49db28w4~x2/

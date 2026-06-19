@@ -2,12 +2,19 @@
 title: "Buchan"
 date: 2023-03-18
 ---
-**Bands:** [BKRGRKRGRKBRGRKRKBRKRGR](/stripes/bkrgrkrgrkbrgrkrkbrkrgr/) · **Stripes:** [DB K R G R K R G R K DB R G R K R K DB R K R G R](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K R G R K R G R K DB R G R K R K DB R K R G R</span></span>
+**Bands:** [RGRKRBKRKRGRBKRGRKRGRKB](/stripes/rgrkrbkrkrgrbkrgrkrgrkb/) · **Stripes:** [R G R K R DB K R K R G R DB K R G R K R G R K DB](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R G R K R DB K R K R G R DB K R G R K R G R K DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [23 band tartan](/bands/bands23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=413
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Buchan Cumming MacIntyre
+- Buchan, Cumming MacIntyre
 
 ## Attestations
 
@@ -319,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -893,7 +903,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DB/4 K12 DR4 G54 DR4 K4 DR4 G54 DR4 K12 DB4 DR12 G12 DR4 K48 DR4 K4 DB4 DR4 K48 DR4 G12 DR/12
+DR/12 G12 DR4 K48 DR4 DB4 K4 DR4 K48 DR4 G12 DR12 DB4 K12 DR4 G54 DR4 K4 DR4 G54 DR4 K12 DB/4
 ![Sett](sett.png)
 
 ## Palette
@@ -910,21 +920,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Cumming/Buchan Hunting](/setts/s24/k2r2dg27r2k6db2r6dg6r2k24r2db2k2r2k24r2dg6r6db2k6r2dg27r2k2~x2/) — ΔT 0.44
-1. [Scottish Tourist Board (1981)](/setts/s20/db30k2db2k2db2k32g15r2g4r4g30r4g4r2g15k32db2k2db2k2~x2/) — ΔT 0.89
-1. [Park Clan/Family Weavers Tartan Tartan Number: 2387. Earliest known date: September 1996 William D. Park wished to have a tartan for himself and family. Can be worn by those of the same name. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s22/g3r2g3r4g34k2g2k2g4k16db16r3db16k16g4k2g2k2g34r4g3r2~x2/) — ΔT 1.10
-1. [Durie Clan Tartan Tartan Number: 2228. Earliest known date: 1988 When the matriculation of the Durie 'Arms' was updated in June 1988, this tartan was designed for family use by Harry G Lindlay of Kinloch & Anderson of Edinburgh. The design is said to be based on the Argyle & Southern Highlanders regimental tartan - the yellow is from the mess dress (military uniform evening wear) facings (lapels) and the burgundy represents the Durie family's French connections. Andrew, son of Lt. Col. Raymond Varley Dewar Durie succeded his father as clan chieftain in 1999. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/g2ly1g12r4db1r1db1r1db12r1db1r1db1r4g12ly1~x4/) — ΔT 1.11
-1. [Harbor Club](/setts/s18/g14k5ly2k3g7k3ly2k5g14r47g14k5ly2k3g7k3ly2k5~x2/) — ΔT 1.27
-1. [Pilette of Kinnear (Personal)](/setts/s21/k4r2k10g3k10g30k8g3r4lb2r4lo2r4g3k8g30k10g3k10r2k4~x2/) — ΔT 1.30
-1. [Ulster (Red)](/setts/s22/k1lo1k1r10k1g1k1g1r1g10k1g10k1g10r1g1k1g1k1r10k1lo1~x4/) — ΔT 1.35
+1. [Cumming/Buchan Hunting](/setts/s24/k2r2dg27r2k6db2r6dg6r2k24r2k2db2r2k24r2dg6r6db2k6r2dg27r2k2~x2/) — ΔT 0.44
+1. [Scottish Tourist Board (1981)](/setts/s20/db30k2db2k2db2k32g15r2g4r4g30~x2/) — ΔT 0.89
+1. [Park Clan/Family Weavers Tartan Tartan Number: 2387. Earliest known date: September 1996 William D. Park wished to have a tartan for himself and family. Can be worn by those of the same name. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s22/r3db16k16g4k2g2k2g34r4g3r2g3~x2/) — ΔT 1.10
+1. [Durie Clan Tartan Tartan Number: 2228. Earliest known date: 1988 When the matriculation of the Durie 'Arms' was updated in June 1988, this tartan was designed for family use by Harry G Lindlay of Kinloch & Anderson of Edinburgh. The design is said to be based on the Argyle & Southern Highlanders regimental tartan - the yellow is from the mess dress (military uniform evening wear) facings (lapels) and the burgundy represents the Durie family's French connections. Andrew, son of Lt. Col. Raymond Varley Dewar Durie succeded his father as clan chieftain in 1999. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/db12r1db1r1db1r4g12ly1g2~x4/) — ΔT 1.11
+1. [Harbor Club](/setts/s18/r47g14k5ly2k3g7k3ly2k5g14~x2/) — ΔT 1.27
+1. [Pilette of Kinnear (Personal)](/setts/s21/k4r2k10g3k10g30k8g3r4lo2r4lb2r4g3k8g30k10g3k10r2k4~x2/) — ΔT 1.30
+1. [Ulster (Red)](/setts/s22/g10k1g10r1g1k1g1k1r10k1lo1k1~x4/) — ΔT 1.35
 1. [MacDonald](/setts/s23/g20r2g4r6g32k32r2db32r6db3r2db20r2db3r6db32r2k32g32r6g4r2g10~x2/) — ΔT 1.37
-1. [Norwich No.023](/setts/s26/g2r2t1db16r2g6r2t1db6r2g16r2t1db2t1r2g16r2db6t1r2g6r2db16t1r2~x2/) — ΔT 1.38
-1. [Stewart of Bute](/setts/s32/b33k2g2k2g2k2b33r3k34r2k34r3g34k2b2k2g34k2b2k2g34r3k34r2k34r3b33k2g2k2g2k2~x2/) — ΔT 1.42
+1. [Norwich No.023](/setts/s26/db2t1r2g16r2db6t1r2g6r2db16t1r2g2~x2/) — ΔT 1.39
+1. [Stewart of Bute](/setts/s32/g34k2b2k2g34r3k34r2k34r3b33k2g2k2g2k2b33~x2/) — ΔT 1.42
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s24/k2r2dg27r2k6db2r6dg6r2k24r2db2k2r2k24r2dg6r6db2k6r2dg27r2k2~x2/"><circle cx="252.0" cy="129.1" r="4" fill="#3465a4"><title>Cumming/Buchan Hunting</title></circle></a><a href="/setts/s20/db30k2db2k2db2k32g15r2g4r4g30r4g4r2g15k32db2k2db2k2~x2/"><circle cx="243.7" cy="137.7" r="4" fill="#3465a4"><title>Scottish Tourist Board (1981)</title></circle></a><a href="/setts/s22/g3r2g3r4g34k2g2k2g4k16db16r3db16k16g4k2g2k2g34r4g3r2~x2/"><circle cx="294.0" cy="130.2" r="4" fill="#3465a4"><title>Park Clan/Family Weavers Tartan Tartan Number: 2387. Earliest known date: September 1996 William D. Park wished to have a tartan for himself and family. Can be worn by those of the same name. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/g2ly1g12r4db1r1db1r1db12r1db1r1db1r4g12ly1~x4/"><circle cx="275.8" cy="152.6" r="4" fill="#3465a4"><title>Durie Clan Tartan Tartan Number: 2228. Earliest known date: 1988 When the matriculation of the Durie 'Arms' was updated in June 1988, this tartan was designed for family use by Harry G Lindlay of Kinloch &amp; Anderson of Edinburgh. The design is said to be based on the Argyle &amp; Southern Highlanders regimental tartan - the yellow is from the mess dress (military uniform evening wear) facings (lapels) and the burgundy represents the Durie family's French connections. Andrew, son of Lt. Col. Raymond Varley Dewar Durie succeded his father as clan chieftain in 1999. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/g14k5ly2k3g7k3ly2k5g14r47g14k5ly2k3g7k3ly2k5~x2/"><circle cx="263.4" cy="109.9" r="4" fill="#3465a4"><title>Harbor Club</title></circle></a><a href="/setts/s21/k4r2k10g3k10g30k8g3r4lb2r4lo2r4g3k8g30k10g3k10r2k4~x2/"><circle cx="256.0" cy="124.8" r="4" fill="#3465a4"><title>Pilette of Kinnear (Personal)</title></circle></a><a href="/setts/s22/k1lo1k1r10k1g1k1g1r1g10k1g10k1g10r1g1k1g1k1r10k1lo1~x4/"><circle cx="304.5" cy="146.6" r="4" fill="#3465a4"><title>Ulster (Red)</title></circle></a><a href="/setts/s23/g20r2g4r6g32k32r2db32r6db3r2db20r2db3r6db32r2k32g32r6g4r2g10~x2/"><circle cx="200.3" cy="139.2" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/setts/s26/g2r2t1db16r2g6r2t1db6r2g16r2t1db2t1r2g16r2db6t1r2g6r2db16t1r2~x2/"><circle cx="244.6" cy="124.0" r="4" fill="#3465a4"><title>Norwich No.023</title></circle></a><a href="/setts/s32/b33k2g2k2g2k2b33r3k34r2k34r3g34k2b2k2g34k2b2k2g34r3k34r2k34r3b33k2g2k2g2k2~x2/"><circle cx="229.6" cy="107.9" r="4" fill="#3465a4"><title>Stewart of Bute</title></circle></a><circle cx="254.6" cy="135.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s24/k2r2dg27r2k6db2r6dg6r2k24r2k2db2r2k24r2dg6r6db2k6r2dg27r2k2~x2/"><circle cx="251.9" cy="129.2" r="4" fill="#3465a4"><title>Cumming/Buchan Hunting</title></circle></a><a href="/setts/s20/db30k2db2k2db2k32g15r2g4r4g30~x2/"><circle cx="243.7" cy="137.8" r="4" fill="#3465a4"><title>Scottish Tourist Board (1981)</title></circle></a><a href="/setts/s22/r3db16k16g4k2g2k2g34r4g3r2g3~x2/"><circle cx="293.8" cy="130.2" r="4" fill="#3465a4"><title>Park Clan/Family Weavers Tartan Tartan Number: 2387. Earliest known date: September 1996 William D. Park wished to have a tartan for himself and family. Can be worn by those of the same name. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/db12r1db1r1db1r4g12ly1g2~x4/"><circle cx="275.7" cy="152.7" r="4" fill="#3465a4"><title>Durie Clan Tartan Tartan Number: 2228. Earliest known date: 1988 When the matriculation of the Durie 'Arms' was updated in June 1988, this tartan was designed for family use by Harry G Lindlay of Kinloch &amp; Anderson of Edinburgh. The design is said to be based on the Argyle &amp; Southern Highlanders regimental tartan - the yellow is from the mess dress (military uniform evening wear) facings (lapels) and the burgundy represents the Durie family's French connections. Andrew, son of Lt. Col. Raymond Varley Dewar Durie succeded his father as clan chieftain in 1999. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/r47g14k5ly2k3g7k3ly2k5g14~x2/"><circle cx="263.2" cy="110.0" r="4" fill="#3465a4"><title>Harbor Club</title></circle></a><a href="/setts/s21/k4r2k10g3k10g30k8g3r4lo2r4lb2r4g3k8g30k10g3k10r2k4~x2/"><circle cx="255.9" cy="124.8" r="4" fill="#3465a4"><title>Pilette of Kinnear (Personal)</title></circle></a><a href="/setts/s22/g10k1g10r1g1k1g1k1r10k1lo1k1~x4/"><circle cx="304.2" cy="146.6" r="4" fill="#3465a4"><title>Ulster (Red)</title></circle></a><a href="/setts/s23/g20r2g4r6g32k32r2db32r6db3r2db20r2db3r6db32r2k32g32r6g4r2g10~x2/"><circle cx="200.3" cy="139.3" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/setts/s26/db2t1r2g16r2db6t1r2g6r2db16t1r2g2~x2/"><circle cx="244.4" cy="124.1" r="4" fill="#3465a4"><title>Norwich No.023</title></circle></a><a href="/setts/s32/g34k2b2k2g34r3k34r2k34r3b33k2g2k2g2k2b33~x2/"><circle cx="229.5" cy="107.9" r="4" fill="#3465a4"><title>Stewart of Bute</title></circle></a><circle cx="254.5" cy="135.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s23/r6g6r2k24r2db2k2r2k24r2g6r6db2k6r2g27r2k2r2g27r2k6db2~x2/

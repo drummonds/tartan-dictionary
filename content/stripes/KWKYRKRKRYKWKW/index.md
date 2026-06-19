@@ -22,6 +22,6 @@ KWKYRKRKRYKWKW
 
 | Tartans |
 |---------------|
-| [Sutherland de Albergaria (Personal)](/setts/s14/w10k2w2k66ly6r48k5r8k5r48ly6k66w2k2/)|
-|![Sutherland de Albergaria (Personal) example sett](/setts/s14/w10k2w2k66ly6r48k5r8k5r48ly6k66w2k2/sett.png)|
+| [Sutherland de Albergaria (Personal)](/setts/s14/w10k2w2k66ly6r48k5r8/)|
+|![Sutherland de Albergaria (Personal) example sett](/setts/s14/w10k2w2k66ly6r48k5r8/sett.png)|
 

@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/
 Original link http://www.tartansauthority.com/tartan-ferret/display/10935/
 
 ## Thread count
-K/6 W2 G64 Y4 K16 Y4 W42 G4 R/12
+R/12 G4 W42 Y4 K16 Y4 G64 W2 K/6
 ![Sett](sett.png)
 
 ## Palette
@@ -34,15 +34,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Fiander, Julian (Personal)](/setts/s10/r6dg2w21dg2lo2k8lo2dg32w1k3~x2/) — ΔT 1.10
 1. [Dogwood](/setts/s8/dg4do10dg10o6do1w26dg2do1~x4/) — ΔT 1.13
 1. [British Columbia #2](/setts/s8/dg4dr14dg14o6dr1w30dg2dr1~x2/) — ΔT 1.21
-1. [McClurg (Name)](/setts/s8/ly4g1ly2g1ly32ly3db32t4~x2/) — ΔT 1.26
+1. [McClurg (Name)](/setts/s8/t4db32ly3ly32g1ly2g1ly4~x2/) — ΔT 1.26
 1. [Pride of Scotland Gold](/setts/s11/k9n2lo2k2lb18lo2k2lb1k19lo33r2~x2/) — ΔT 1.40
 1. [New World Irish](/setts/s11/w9g2g2w3g18w2k2w1k19g33lo2~x2/) — ΔT 1.40
-1. [Southwell (Personal)](/setts/s14/g10g2w14db14r2w1r2g39r2w1r2db14w14g2~x2/) — ΔT 1.40
+1. [Southwell (Personal)](/setts/s14/g39r2w1r2db14w14g2g10~x2/) — ΔT 1.40
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dt3lo2dt30lo1w18lg30lo2lg3~x2/"><circle cx="203.3" cy="104.9" r="4" fill="#3465a4"><title>Bannockbane Green</title></circle></a><a href="/setts/s8/g39r2w1r2db14w14g2g10~x2/"><circle cx="253.9" cy="101.5" r="4" fill="#3465a4"><title>Southwell (Australian) (Personal)</title></circle></a><a href="/setts/s8/y3g32y36o12k2w68g3k2~x2/"><circle cx="227.9" cy="96.2" r="4" fill="#3465a4"><title>Kintail Dress</title></circle></a><a href="/setts/s10/r6dg2w21dg2lo2k8lo2dg32w1k3~x2/"><circle cx="228.8" cy="80.3" r="4" fill="#3465a4"><title>Fiander, Julian (Personal)</title></circle></a><a href="/setts/s8/dg4do10dg10o6do1w26dg2do1~x4/"><circle cx="218.0" cy="118.3" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/setts/s8/dg4dr14dg14o6dr1w30dg2dr1~x2/"><circle cx="215.9" cy="111.1" r="4" fill="#3465a4"><title>British Columbia #2</title></circle></a><a href="/setts/s8/ly4g1ly2g1ly32ly3db32t4~x2/"><circle cx="276.2" cy="87.7" r="4" fill="#3465a4"><title>McClurg (Name)</title></circle></a><a href="/setts/s11/k9n2lo2k2lb18lo2k2lb1k19lo33r2~x2/"><circle cx="227.6" cy="80.6" r="4" fill="#3465a4"><title>Pride of Scotland Gold</title></circle></a><a href="/setts/s11/w9g2g2w3g18w2k2w1k19g33lo2~x2/"><circle cx="185.3" cy="90.7" r="4" fill="#3465a4"><title>New World Irish</title></circle></a><a href="/setts/s14/g10g2w14db14r2w1r2g39r2w1r2db14w14g2~x2/"><circle cx="176.9" cy="64.8" r="4" fill="#3465a4"><title>Southwell (Personal)</title></circle></a><circle cx="217.5" cy="86.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dt3lo2dt30lo1w18lg30lo2lg3~x2/"><circle cx="203.1" cy="104.8" r="4" fill="#3465a4"><title>Bannockbane Green</title></circle></a><a href="/setts/s8/g39r2w1r2db14w14g2g10~x2/"><circle cx="253.6" cy="101.4" r="4" fill="#3465a4"><title>Southwell (Australian) (Personal)</title></circle></a><a href="/setts/s8/y3g32y36o12k2w68g3k2~x2/"><circle cx="227.6" cy="96.1" r="4" fill="#3465a4"><title>Kintail Dress</title></circle></a><a href="/setts/s10/r6dg2w21dg2lo2k8lo2dg32w1k3~x2/"><circle cx="228.6" cy="80.3" r="4" fill="#3465a4"><title>Fiander, Julian (Personal)</title></circle></a><a href="/setts/s8/dg4do10dg10o6do1w26dg2do1~x4/"><circle cx="217.7" cy="118.1" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/setts/s8/dg4dr14dg14o6dr1w30dg2dr1~x2/"><circle cx="215.5" cy="111.0" r="4" fill="#3465a4"><title>British Columbia #2</title></circle></a><a href="/setts/s8/t4db32ly3ly32g1ly2g1ly4~x2/"><circle cx="275.8" cy="87.6" r="4" fill="#3465a4"><title>McClurg (Name)</title></circle></a><a href="/setts/s11/k9n2lo2k2lb18lo2k2lb1k19lo33r2~x2/"><circle cx="227.4" cy="80.6" r="4" fill="#3465a4"><title>Pride of Scotland Gold</title></circle></a><a href="/setts/s11/w9g2g2w3g18w2k2w1k19g33lo2~x2/"><circle cx="185.2" cy="90.7" r="4" fill="#3465a4"><title>New World Irish</title></circle></a><a href="/setts/s14/g39r2w1r2db14w14g2g10~x2/"><circle cx="176.7" cy="64.8" r="4" fill="#3465a4"><title>Southwell (Personal)</title></circle></a><circle cx="217.2" cy="86.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r6g2w21ly2k8ly2g32w1k3~x2/

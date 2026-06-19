@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3705
 
 ## Thread count
-DBa/4 G28 DBa28 DB8 W24 DBa4 W/4
+W/4 DBa4 W24 DB8 DBa28 G28 DBa/4
 ![Sett](sett.png)
 
 ## Palette
@@ -39,7 +39,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DBa/4 G28 DBa28 DB8 W24 DBa4 W/4 tartan")
+![Tartan detail](tartan.png "W/4 DBa4 W24 DB8 DBa28 G28 DBa/4 tartan")
 
 ## Nearest tartans
 
@@ -49,17 +49,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Loch Leven, Check](/setts/s6/k2g13k11t4w9k2~x2/) — ΔT 1.03
 1. [Loch Leven Check Trade Tartan Tartan Number: 108. Earliest known date: 1976 Sample presented by Clan Crest Textiles Ltd in 1976. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/db2g13db11t4w9db2~x2/) — ΔT 1.06
 1. [Business Air](/setts/s8/b4ly2b16db15g16w3g3w4~x2/) — ΔT 1.22
-1. [Bannockbane Blue #1](/setts/s8/b4lo2b13w8lo1k13lo2k4~x2/) — ΔT 1.24
+1. [Bannockbane Blue #1](/setts/s8/k4lo2k13lo1w8b13lo2b4~x2/) — ΔT 1.24
 1. [Thompson (Dance)](/setts/s6/b1lb6db1b3k3b1~x8/) — ΔT 1.28
-1. [Strathclyde](/setts/s7/b4db2b15w10k15db2k4~x2/) — ΔT 1.32
+1. [Strathclyde](/setts/s7/k4db2k15w10b15db2b4~x2/) — ΔT 1.32
 1. [Investors Group](/setts/s10/lb7k2w2k2w2k2lb7t4k10w2~x4/) — ΔT 1.40
 1. [Breton District Tartan Tartan Number: 3902. Earliest known date: 2001 Commissioned by Richard Duclos of Le Coudray-Montceaux, France and produced by House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/g6db11w8k4w8k4w8k27w4~x2/) — ΔT 1.41
 1. [Sibbald Blue (2014)](/setts/s9/dg4db22dt6w10db3w6dp4dt3w4~x2/) — ΔT 1.43
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k2b16w2k16w15k2w2~x2/"><circle cx="129.0" cy="188.0" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/setts/s6/k2g13k11t4w9k2~x2/"><circle cx="113.0" cy="227.9" r="4" fill="#3465a4"><title>Loch Leven, Check</title></circle></a><a href="/setts/s6/db2g13db11t4w9db2~x2/"><circle cx="131.2" cy="232.5" r="4" fill="#3465a4"><title>Loch Leven Check Trade Tartan Tartan Number: 108. Earliest known date: 1976 Sample presented by Clan Crest Textiles Ltd in 1976. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/b4ly2b16db15g16w3g3w4~x2/"><circle cx="95.4" cy="181.6" r="4" fill="#3465a4"><title>Business Air</title></circle></a><a href="/setts/s8/b4lo2b13w8lo1k13lo2k4~x2/"><circle cx="149.3" cy="172.3" r="4" fill="#3465a4"><title>Bannockbane Blue #1</title></circle></a><a href="/setts/s6/b1lb6db1b3k3b1~x8/"><circle cx="134.6" cy="214.7" r="4" fill="#3465a4"><title>Thompson (Dance)</title></circle></a><a href="/setts/s7/b4db2b15w10k15db2k4~x2/"><circle cx="129.4" cy="207.7" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/setts/s10/lb7k2w2k2w2k2lb7t4k10w2~x4/"><circle cx="119.4" cy="200.3" r="4" fill="#3465a4"><title>Investors Group</title></circle></a><a href="/setts/s9/g6db11w8k4w8k4w8k27w4~x2/"><circle cx="159.0" cy="191.3" r="4" fill="#3465a4"><title>Breton District Tartan Tartan Number: 3902. Earliest known date: 2001 Commissioned by Richard Duclos of Le Coudray-Montceaux, France and produced by House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/dg4db22dt6w10db3w6dp4dt3w4~x2/"><circle cx="123.4" cy="165.0" r="4" fill="#3465a4"><title>Sibbald Blue (2014)</title></circle></a><circle cx="116.2" cy="202.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k2b16w2k16w15k2w2~x2/"><circle cx="129.1" cy="187.9" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/setts/s6/k2g13k11t4w9k2~x2/"><circle cx="113.1" cy="227.8" r="4" fill="#3465a4"><title>Loch Leven, Check</title></circle></a><a href="/setts/s6/db2g13db11t4w9db2~x2/"><circle cx="131.3" cy="232.4" r="4" fill="#3465a4"><title>Loch Leven Check Trade Tartan Tartan Number: 108. Earliest known date: 1976 Sample presented by Clan Crest Textiles Ltd in 1976. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/b4ly2b16db15g16w3g3w4~x2/"><circle cx="95.4" cy="181.6" r="4" fill="#3465a4"><title>Business Air</title></circle></a><a href="/setts/s8/k4lo2k13lo1w8b13lo2b4~x2/"><circle cx="149.3" cy="172.1" r="4" fill="#3465a4"><title>Bannockbane Blue #1</title></circle></a><a href="/setts/s6/b1lb6db1b3k3b1~x8/"><circle cx="134.7" cy="214.5" r="4" fill="#3465a4"><title>Thompson (Dance)</title></circle></a><a href="/setts/s7/k4db2k15w10b15db2b4~x2/"><circle cx="129.5" cy="207.5" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/setts/s10/lb7k2w2k2w2k2lb7t4k10w2~x4/"><circle cx="119.4" cy="200.1" r="4" fill="#3465a4"><title>Investors Group</title></circle></a><a href="/setts/s9/g6db11w8k4w8k4w8k27w4~x2/"><circle cx="159.0" cy="191.1" r="4" fill="#3465a4"><title>Breton District Tartan Tartan Number: 3902. Earliest known date: 2001 Commissioned by Richard Duclos of Le Coudray-Montceaux, France and produced by House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/dg4db22dt6w10db3w6dp4dt3w4~x2/"><circle cx="123.4" cy="164.9" r="4" fill="#3465a4"><title>Sibbald Blue (2014)</title></circle></a><circle cx="116.2" cy="202.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/db1g7db7db2w6db1w1~x4/

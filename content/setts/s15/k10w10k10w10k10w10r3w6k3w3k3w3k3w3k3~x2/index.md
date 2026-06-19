@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/6 LN6 K6 LN6 K6 LN6 K6 LN12 R6 LN20 K20 LN20 K20 LN20 K/20
+K/20 LN20 K20 LN20 K20 LN20 R6 LN12 K6 LN6 K6 LN6 K6 LN6 K/6
 ![Sett](sett.png)
 
 ## Palette
@@ -916,13 +919,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Ogilvie (B&W) (Fashion?)](/setts/s20/k12w2k12w2k6w2k7w6k2w6k2w2k6w2k6w2k2w12k2w12~x2/) — ΔT 1.66
 1. [Scott, Sir Walter](/setts/s11/w6k6w2k1w1k1w2k6w6k1w2~x2/) — ΔT 1.68
 1. [Dundee United Football Club](/setts/s11/k3lo1k5lo1lb5lo5k5lo1lb5lo1k1~x4/) — ΔT 1.80
-1. [Scott (Sir Walter Scott) (Personal)](/setts/s20/w2k1w6k6w2k1w1k1w2k6w6k6w2k1w1k1w2k6w6k1~x4/) — ΔT 1.83
+1. [Scott (Sir Walter Scott) (Personal)](/setts/s20/w6k6w2k1w1k1w2k6w6k1w2~x4/) — ΔT 1.84
 1. [Carnegie Check](/setts/s17/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2~x2/) — ΔT 1.84
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/o11k16o4k4w4k4w19k14w4k14w4k14w19k4w4k4o4k16o11k8/"><circle cx="193.3" cy="202.7" r="4" fill="#3465a4"><title>Stewart/Stuart Royal (B,W. &amp; Grey)</title></circle></a><a href="/setts/s13/k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/"><circle cx="183.5" cy="225.2" r="4" fill="#3465a4"><title>Blackcraig (Personal)</title></circle></a><a href="/setts/s21/lb2do2lb2do2lb2dt4lb2do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1~x4/"><circle cx="172.0" cy="217.5" r="4" fill="#3465a4"><title>Prince of Wales Check</title></circle></a><a href="/setts/s22/lb2do2lb2do2lb2dt4lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1~x4/"><circle cx="160.3" cy="214.9" r="4" fill="#3465a4"><title>Prince of Wales (Estate Check)</title></circle></a><a href="/setts/s11/k14w4k14w19k4w4k4y4k16y11k8/"><circle cx="229.3" cy="237.7" r="4" fill="#3465a4"><title>Royal Stuart / Stewart</title></circle></a><a href="/setts/s20/k12w2k12w2k6w2k7w6k2w6k2w2k6w2k6w2k2w12k2w12~x2/"><circle cx="263.1" cy="197.8" r="4" fill="#3465a4"><title>Ogilvie (B&amp;W) (Fashion?)</title></circle></a><a href="/setts/s11/w6k6w2k1w1k1w2k6w6k1w2~x2/"><circle cx="276.0" cy="221.5" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/setts/s11/k3lo1k5lo1lb5lo5k5lo1lb5lo1k1~x4/"><circle cx="150.3" cy="217.6" r="4" fill="#3465a4"><title>Dundee United Football Club</title></circle></a><a href="/setts/s20/w2k1w6k6w2k1w1k1w2k6w6k6w2k1w1k1w2k6w6k1~x4/"><circle cx="244.0" cy="190.8" r="4" fill="#3465a4"><title>Scott (Sir Walter Scott) (Personal)</title></circle></a><a href="/setts/s17/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2~x2/"><circle cx="159.0" cy="195.6" r="4" fill="#3465a4"><title>Carnegie Check</title></circle></a><circle cx="183.5" cy="231.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/o11k16o4k4w4k4w19k14w4k14w4k14w19k4w4k4o4k16o11k8/"><circle cx="193.2" cy="202.5" r="4" fill="#3465a4"><title>Stewart/Stuart Royal (B,W. &amp; Grey)</title></circle></a><a href="/setts/s13/k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/"><circle cx="183.3" cy="224.9" r="4" fill="#3465a4"><title>Blackcraig (Personal)</title></circle></a><a href="/setts/s21/lb2do2lb2do2lb2dt4lb2do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1~x4/"><circle cx="171.8" cy="217.3" r="4" fill="#3465a4"><title>Prince of Wales Check</title></circle></a><a href="/setts/s22/lb2do2lb2do2lb2dt4lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1lb1do1~x4/"><circle cx="160.1" cy="214.7" r="4" fill="#3465a4"><title>Prince of Wales (Estate Check)</title></circle></a><a href="/setts/s11/k14w4k14w19k4w4k4y4k16y11k8/"><circle cx="229.4" cy="237.4" r="4" fill="#3465a4"><title>Royal Stuart / Stewart</title></circle></a><a href="/setts/s20/k12w2k12w2k6w2k7w6k2w6k2w2k6w2k6w2k2w12k2w12~x2/"><circle cx="262.8" cy="197.5" r="4" fill="#3465a4"><title>Ogilvie (B&amp;W) (Fashion?)</title></circle></a><a href="/setts/s11/w6k6w2k1w1k1w2k6w6k1w2~x2/"><circle cx="275.8" cy="221.1" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/setts/s11/k3lo1k5lo1lb5lo5k5lo1lb5lo1k1~x4/"><circle cx="150.3" cy="217.4" r="4" fill="#3465a4"><title>Dundee United Football Club</title></circle></a><a href="/setts/s20/w6k6w2k1w1k1w2k6w6k1w2~x4/"><circle cx="243.7" cy="190.4" r="4" fill="#3465a4"><title>Scott (Sir Walter Scott) (Personal)</title></circle></a><a href="/setts/s17/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2~x2/"><circle cx="159.0" cy="195.4" r="4" fill="#3465a4"><title>Carnegie Check</title></circle></a><circle cx="183.4" cy="230.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/k10w10k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/

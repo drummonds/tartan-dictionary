@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 R8 K8 R26 G56 R2 K8 LN8 K8 Y6 K32 B28 R/64
+R/64 B28 K32 Y6 K8 LN8 K8 R2 G56 R26 K8 R8 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -913,19 +916,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacLean of Duart 4](/setts/s11/t8k4ly1k2w3k2g12r24t2r3k2~x2/) — ΔT 0.87
 1. [O'Keefe](/setts/s12/k8r2k3ly2k2w3k2y12o22r2o2k1~x2/) — ΔT 0.88
-1. [Aberdeen Forever (District)](/setts/s12/lb4k22o2k3o2k2o3k1o8r16w2ly4~x2/) — ΔT 0.91
-1. [Aberdeen Forever](/setts/s12/lb4k26n2k3n2k2n3k1n8r19w2ly4~x2/) — ΔT 0.95
+1. [Aberdeen Forever (District)](/setts/s12/ly4w2r16o8k1o3k2o2k3o2k22lb4~x2/) — ΔT 0.91
+1. [Aberdeen Forever](/setts/s12/ly4w2r19n8k1n3k2n2k3n2k26lb4~x2/) — ΔT 0.95
 1. [Carolina, States of](/setts/s13/r32t14k16ly3k4w4k4r1y28r13k4r4w2~x2/) — ΔT 0.97
 1. [Unnamed No 1](/setts/s11/r8t7k8ly2k1ly1g19k1r8t3r8~x2/) — ΔT 1.10
-1. [Boyd](/setts/s12/ly5g22k2db2k2db2k10r38g5r4k4w5~x2/) — ΔT 1.10
+1. [Boyd](/setts/s12/w5k4r4g5r38k10db2k2db2k2g22ly5~x2/) — ΔT 1.10
 1. [MacLean of Duart 3](/setts/s11/t16k12ly4k4w6k4g32r50t6r8k3/) — ΔT 1.12
 1. [Drummond, Relic](/setts/s12/r26w1k8ly1g13k1w4k1ly2k4t3r8~x4/) — ΔT 1.14
 1. [Wilson's, No 17](/setts/s15/r44g25k2w6k2ly3k16t12r6t12k16ly3k2w6r44~x2/) — ΔT 1.17
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/t8k4ly1k2w3k2g12r24t2r3k2~x2/"><circle cx="192.9" cy="76.7" r="4" fill="#3465a4"><title>MacLean of Duart 4</title></circle></a><a href="/setts/s12/k8r2k3ly2k2w3k2y12o22r2o2k1~x2/"><circle cx="172.5" cy="79.5" r="4" fill="#3465a4"><title>O'Keefe</title></circle></a><a href="/setts/s12/lb4k22o2k3o2k2o3k1o8r16w2ly4~x2/"><circle cx="176.8" cy="82.1" r="4" fill="#3465a4"><title>Aberdeen Forever (District)</title></circle></a><a href="/setts/s12/lb4k26n2k3n2k2n3k1n8r19w2ly4~x2/"><circle cx="195.4" cy="66.9" r="4" fill="#3465a4"><title>Aberdeen Forever</title></circle></a><a href="/setts/s13/r32t14k16ly3k4w4k4r1y28r13k4r4w2~x2/"><circle cx="192.9" cy="82.0" r="4" fill="#3465a4"><title>Carolina, States of</title></circle></a><a href="/setts/s11/r8t7k8ly2k1ly1g19k1r8t3r8~x2/"><circle cx="139.4" cy="110.4" r="4" fill="#3465a4"><title>Unnamed No 1</title></circle></a><a href="/setts/s12/ly5g22k2db2k2db2k10r38g5r4k4w5~x2/"><circle cx="188.1" cy="78.7" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4g32r50t6r8k3/"><circle cx="159.3" cy="94.3" r="4" fill="#3465a4"><title>MacLean of Duart 3</title></circle></a><a href="/setts/s12/r26w1k8ly1g13k1w4k1ly2k4t3r8~x4/"><circle cx="217.1" cy="65.6" r="4" fill="#3465a4"><title>Drummond, Relic</title></circle></a><a href="/setts/s15/r44g25k2w6k2ly3k16t12r6t12k16ly3k2w6r44~x2/"><circle cx="196.8" cy="71.4" r="4" fill="#3465a4"><title>Wilson's, No 17</title></circle></a><circle cx="166.3" cy="70.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/t8k4ly1k2w3k2g12r24t2r3k2~x2/"><circle cx="192.7" cy="76.7" r="4" fill="#3465a4"><title>MacLean of Duart 4</title></circle></a><a href="/setts/s12/k8r2k3ly2k2w3k2y12o22r2o2k1~x2/"><circle cx="172.4" cy="79.5" r="4" fill="#3465a4"><title>O'Keefe</title></circle></a><a href="/setts/s12/ly4w2r16o8k1o3k2o2k3o2k22lb4~x2/"><circle cx="176.7" cy="82.2" r="4" fill="#3465a4"><title>Aberdeen Forever (District)</title></circle></a><a href="/setts/s12/ly4w2r19n8k1n3k2n2k3n2k26lb4~x2/"><circle cx="195.2" cy="67.0" r="4" fill="#3465a4"><title>Aberdeen Forever</title></circle></a><a href="/setts/s13/r32t14k16ly3k4w4k4r1y28r13k4r4w2~x2/"><circle cx="192.7" cy="82.1" r="4" fill="#3465a4"><title>Carolina, States of</title></circle></a><a href="/setts/s11/r8t7k8ly2k1ly1g19k1r8t3r8~x2/"><circle cx="139.3" cy="110.4" r="4" fill="#3465a4"><title>Unnamed No 1</title></circle></a><a href="/setts/s12/w5k4r4g5r38k10db2k2db2k2g22ly5~x2/"><circle cx="188.0" cy="78.7" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4g32r50t6r8k3/"><circle cx="159.2" cy="94.4" r="4" fill="#3465a4"><title>MacLean of Duart 3</title></circle></a><a href="/setts/s12/r26w1k8ly1g13k1w4k1ly2k4t3r8~x4/"><circle cx="216.8" cy="65.6" r="4" fill="#3465a4"><title>Drummond, Relic</title></circle></a><a href="/setts/s15/r44g25k2w6k2ly3k16t12r6t12k16ly3k2w6r44~x2/"><circle cx="196.5" cy="71.4" r="4" fill="#3465a4"><title>Wilson's, No 17</title></circle></a><circle cx="166.1" cy="70.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r32t14k16ly3k4w4k4r1g28r13k4r4w2~x2/

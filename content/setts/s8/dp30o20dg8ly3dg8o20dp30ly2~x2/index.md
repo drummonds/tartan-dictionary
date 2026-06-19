@@ -2,12 +2,18 @@
 title: "Wicks (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BRGYGRBY](/stripes/brgygrby/) · **Stripes:** [DP O DG LY DG O DP LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DP O DG LY DG O DP LY</span></span>
+**Bands:** [YBRGYGRB](/stripes/ybrgygrb/) · **Stripes:** [LY DP O DG LY DG O DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LY DP O DG LY DG O DP</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4622
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Wicks Personal
 
 ## Attestations
 
@@ -52,16 +58,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Highland Spring Dress (2004)](/setts/s8/r25g10db30w4db30g10r25w2~x2/) — ΔT 1.25
 1. [Discover Islay (District)](/setts/s6/dp6ly1dp20db6g19dp2~x4/) — ΔT 1.26
 1. [Skene of Cromar - 1950 (Clan)](/setts/s8/k4r37db37r2db37g37r37k4~x2/) — ΔT 1.40
-1. [Robinson Dress (Pendleton) #1](/setts/s6/g1db16r7k1r7k1~x4/) — ΔT 1.41
+1. [Robinson Dress (Pendleton) #1](/setts/s6/k1r7k1r7db16g1~x4/) — ΔT 1.41
 1. [McIntosh, Georgina (Personal)](/setts/s6/db9r1db2r1r4w1~x12/) — ΔT 1.42
 1. [Harrower, John Anthony (Personal)](/setts/s8/dg8b5k1b17r10b2r10lb2~x2/) — ΔT 1.46
-1. [Robinson, dress](/setts/s6/g1db16r7k1r7k1~x2/) — ΔT 1.47
+1. [Robinson, dress](/setts/s6/k1r7k1r7db16g1~x2/) — ΔT 1.47
 1. [Heritage of Wales (Fashion)](/setts/s7/r10db4r6db30k10db5w2~x2/) — ΔT 1.51
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/ly3dg8o20dp30ly2~x2/"><circle cx="280.7" cy="194.6" r="4" fill="#3465a4"><title>Wicks (Personal)</title></circle></a><a href="/setts/s8/dg8db5k1db17r10db2r10o2~x2/"><circle cx="247.9" cy="174.9" r="4" fill="#3465a4"><title>Harrower, John Anthony (Personal)</title></circle></a><a href="/setts/s8/r25g10db30w4db30g10r25w2~x2/"><circle cx="231.6" cy="197.1" r="4" fill="#3465a4"><title>Highland Spring Dress (2004)</title></circle></a><a href="/setts/s6/dp6ly1dp20db6g19dp2~x4/"><circle cx="337.4" cy="195.4" r="4" fill="#3465a4"><title>Discover Islay (District)</title></circle></a><a href="/setts/s8/k4r37db37r2db37g37r37k4~x2/"><circle cx="235.0" cy="190.2" r="4" fill="#3465a4"><title>Skene of Cromar - 1950 (Clan)</title></circle></a><a href="/setts/s6/g1db16r7k1r7k1~x4/"><circle cx="329.2" cy="182.2" r="4" fill="#3465a4"><title>Robinson Dress (Pendleton) #1</title></circle></a><a href="/setts/s6/db9r1db2r1r4w1~x12/"><circle cx="285.7" cy="201.4" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/setts/s8/dg8b5k1b17r10b2r10lb2~x2/"><circle cx="214.8" cy="152.8" r="4" fill="#3465a4"><title>Harrower, John Anthony (Personal)</title></circle></a><a href="/setts/s6/g1db16r7k1r7k1~x2/"><circle cx="325.0" cy="181.4" r="4" fill="#3465a4"><title>Robinson, dress</title></circle></a><a href="/setts/s7/r10db4r6db30k10db5w2~x2/"><circle cx="340.2" cy="187.3" r="4" fill="#3465a4"><title>Heritage of Wales (Fashion)</title></circle></a><circle cx="282.8" cy="194.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/ly3dg8o20dp30ly2~x2/"><circle cx="280.6" cy="194.5" r="4" fill="#3465a4"><title>Wicks (Personal)</title></circle></a><a href="/setts/s8/dg8db5k1db17r10db2r10o2~x2/"><circle cx="247.8" cy="174.9" r="4" fill="#3465a4"><title>Harrower, John Anthony (Personal)</title></circle></a><a href="/setts/s8/r25g10db30w4db30g10r25w2~x2/"><circle cx="231.5" cy="197.0" r="4" fill="#3465a4"><title>Highland Spring Dress (2004)</title></circle></a><a href="/setts/s6/dp6ly1dp20db6g19dp2~x4/"><circle cx="337.3" cy="195.3" r="4" fill="#3465a4"><title>Discover Islay (District)</title></circle></a><a href="/setts/s8/k4r37db37r2db37g37r37k4~x2/"><circle cx="234.9" cy="190.2" r="4" fill="#3465a4"><title>Skene of Cromar - 1950 (Clan)</title></circle></a><a href="/setts/s6/k1r7k1r7db16g1~x4/"><circle cx="329.1" cy="182.1" r="4" fill="#3465a4"><title>Robinson Dress (Pendleton) #1</title></circle></a><a href="/setts/s6/db9r1db2r1r4w1~x12/"><circle cx="285.6" cy="201.3" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/setts/s8/dg8b5k1b17r10b2r10lb2~x2/"><circle cx="214.7" cy="152.7" r="4" fill="#3465a4"><title>Harrower, John Anthony (Personal)</title></circle></a><a href="/setts/s6/k1r7k1r7db16g1~x2/"><circle cx="324.9" cy="181.2" r="4" fill="#3465a4"><title>Robinson, dress</title></circle></a><a href="/setts/s7/r10db4r6db30k10db5w2~x2/"><circle cx="340.1" cy="187.2" r="4" fill="#3465a4"><title>Heritage of Wales (Fashion)</title></circle></a><circle cx="282.7" cy="194.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/dp30o20dg8ly3dg8o20dp30ly2~x2/

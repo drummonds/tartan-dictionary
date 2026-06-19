@@ -2,7 +2,7 @@
 title: "Commonwealth"
 date: 2023-03-18
 ---
-**Bands:** [BWRWKRBRBR](/stripes/bwrwkrbrbr/) · **Stripes:** [DB W R W K O DB R DB R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB W R W K O DB R DB R</span></span>
+**Bands:** [RBRBRKWRWB](/stripes/rbrbrkwrwb/) · **Stripes:** [R DB R DB O K W R W DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB O K W R W DB</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -908,16 +911,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Westgaard Captain (Personal)](/setts/s12/r9lb4r6db4ly2k2lb2r5db3ly2k2lb2~x2/) — ΔT 1.06
 1. [Stewart Old](/setts/s14/db5k2g2k2g2k2db8r3db3r3db8r3w5r3~x2/) — ΔT 1.12
 1. [Longford Irish County Tartan Tartan Number: 2281. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/db18k3db5k3db18g6k5g6o12r5o12r3~x2/) — ΔT 1.13
-1. [Feis An Eilein (Corporate)](/setts/s7/lb2r9db8r4db8g2ly2~x4/) — ΔT 1.17
-1. [Ritchie](/setts/s13/lb3r6b6r6g16db6lb3db6r14lb2r3lb2r3~x2/) — ΔT 1.20
+1. [Feis An Eilein (Corporate)](/setts/s7/ly2g2db8r4db8r9lb2~x4/) — ΔT 1.17
+1. [Ritchie](/setts/s13/r3lb2r3lb2r14db6lb3db6g16r6b6r6lb3~x2/) — ΔT 1.20
 1. [Denver Broncos (Sports)](/setts/s14/db10w3m4db6ly2db2ly2db6m4w3db10lo5db2lo10~x2/) — ΔT 1.20
 1. [Isle of Gigha (District)](/setts/s7/lo2db4k1db4m4lo4db1~x8/) — ΔT 1.24
 1. [Ogilvy D](/setts/s14/b4r1b4ly1k1r6lr1r4lr1r6k1ly1b4lr1~x2/) — ΔT 1.25
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dt6lo2r6lb3k2lo6dt10r2dt3r2~x4/"><circle cx="149.7" cy="209.7" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/setts/s14/db5k2dg2k2dg2k2db8r3db3r3db8r3w5r3~x2/"><circle cx="126.5" cy="206.7" r="4" fill="#3465a4"><title>Stuart/Stewart Old</title></circle></a><a href="/setts/s12/r9lb4r6db4ly2k2lb2r5db3ly2k2lb2~x2/"><circle cx="120.4" cy="192.4" r="4" fill="#3465a4"><title>Westgaard Captain (Personal)</title></circle></a><a href="/setts/s14/db5k2g2k2g2k2db8r3db3r3db8r3w5r3~x2/"><circle cx="117.1" cy="203.8" r="4" fill="#3465a4"><title>Stewart Old</title></circle></a><a href="/setts/s12/db18k3db5k3db18g6k5g6o12r5o12r3~x2/"><circle cx="132.4" cy="191.2" r="4" fill="#3465a4"><title>Longford Irish County Tartan Tartan Number: 2281. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/lb2r9db8r4db8g2ly2~x4/"><circle cx="137.6" cy="212.7" r="4" fill="#3465a4"><title>Feis An Eilein (Corporate)</title></circle></a><a href="/setts/s13/lb3r6b6r6g16db6lb3db6r14lb2r3lb2r3~x2/"><circle cx="148.4" cy="169.3" r="4" fill="#3465a4"><title>Ritchie</title></circle></a><a href="/setts/s14/db10w3m4db6ly2db2ly2db6m4w3db10lo5db2lo10~x2/"><circle cx="156.2" cy="185.4" r="4" fill="#3465a4"><title>Denver Broncos (Sports)</title></circle></a><a href="/setts/s7/lo2db4k1db4m4lo4db1~x8/"><circle cx="115.3" cy="249.7" r="4" fill="#3465a4"><title>Isle of Gigha (District)</title></circle></a><a href="/setts/s14/b4r1b4ly1k1r6lr1r4lr1r6k1ly1b4lr1~x2/"><circle cx="194.2" cy="173.5" r="4" fill="#3465a4"><title>Ogilvy D</title></circle></a><circle cx="147.1" cy="202.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dt6lo2r6lb3k2lo6dt10r2dt3r2~x4/"><circle cx="149.7" cy="209.7" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/setts/s14/db5k2dg2k2dg2k2db8r3db3r3db8r3w5r3~x2/"><circle cx="126.5" cy="206.6" r="4" fill="#3465a4"><title>Stuart/Stewart Old</title></circle></a><a href="/setts/s12/r9lb4r6db4ly2k2lb2r5db3ly2k2lb2~x2/"><circle cx="120.4" cy="192.3" r="4" fill="#3465a4"><title>Westgaard Captain (Personal)</title></circle></a><a href="/setts/s14/db5k2g2k2g2k2db8r3db3r3db8r3w5r3~x2/"><circle cx="117.1" cy="203.8" r="4" fill="#3465a4"><title>Stewart Old</title></circle></a><a href="/setts/s12/db18k3db5k3db18g6k5g6o12r5o12r3~x2/"><circle cx="132.6" cy="191.3" r="4" fill="#3465a4"><title>Longford Irish County Tartan Tartan Number: 2281. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/ly2g2db8r4db8r9lb2~x4/"><circle cx="137.6" cy="212.8" r="4" fill="#3465a4"><title>Feis An Eilein (Corporate)</title></circle></a><a href="/setts/s13/r3lb2r3lb2r14db6lb3db6g16r6b6r6lb3~x2/"><circle cx="148.3" cy="169.3" r="4" fill="#3465a4"><title>Ritchie</title></circle></a><a href="/setts/s14/db10w3m4db6ly2db2ly2db6m4w3db10lo5db2lo10~x2/"><circle cx="156.2" cy="185.3" r="4" fill="#3465a4"><title>Denver Broncos (Sports)</title></circle></a><a href="/setts/s7/lo2db4k1db4m4lo4db1~x8/"><circle cx="115.5" cy="249.7" r="4" fill="#3465a4"><title>Isle of Gigha (District)</title></circle></a><a href="/setts/s14/b4r1b4ly1k1r6lr1r4lr1r6k1ly1b4lr1~x2/"><circle cx="194.0" cy="173.5" r="4" fill="#3465a4"><title>Ogilvy D</title></circle></a><circle cx="147.1" cy="202.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db12w4r12w5k4o12db20r4db5r4~x2/

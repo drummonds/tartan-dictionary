@@ -17,7 +17,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-LN/4 B60 DB24 Y4 R4 G32 P/8
+P/8 G32 R4 Y4 DB24 B60 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -35,7 +35,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/4 B60 DB24 Y4 R4 G32 P/8 tartan")
+![Tartan detail](tartan.png "P/8 G32 R4 Y4 DB24 B60 LN/4 tartan")
 
 ## Nearest tartans
 
@@ -47,15 +47,15 @@ The nearest existing variants by ΔTartan distance.
 1. [O'Reilly (Estimated threadcount)](/setts/s9/r4b3lr2k2lr12k2db10t25w2~x2/) — ΔT 1.07
 1. [WCWM 3947](/setts/s8/o2b30ly3b2o16r2g16w2~x2/) — ΔT 1.10
 1. [Scout Mapping Service #1 (Corporate)](/setts/s7/db24r8g8r2g8k1ly2~x2/) — ΔT 1.18
-1. [Hek Family (Sunningdale, Berwick on Tweed)](/setts/s9/lt1w2g12k2lt2k2n15lt2ly1~x2/) — ΔT 1.19
-1. [Glen Lyon (Fashion)](/setts/s7/lo3n14k5w1o11db1o3~x4/) — ΔT 1.22
+1. [Hek Family (Sunningdale, Berwick on Tweed)](/setts/s9/ly1lt2n15k2lt2k2g12w2lt1~x2/) — ΔT 1.19
+1. [Glen Lyon (Fashion)](/setts/s7/o3db1o11w1k5n14lo3~x4/) — ΔT 1.22
 1. [Highland, Blue (Corporate)](/setts/s10/dp4g13db5ly3t6ly3db5n6db28w2~x2/) — ΔT 1.23
 1. [MacLeroy and Troine 1987](/setts/s10/k4t6w4t6do8t37lr12do46o6lo4/) — ΔT 1.25
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/dp2g6r1ly1db3t10w1~x2/"><circle cx="145.8" cy="150.9" r="4" fill="#3465a4"><title>Manx National District Tartan Tartan Number: 185. Earliest known date: pre 2003 These are the specifications supplied by the designer. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/p8g31r4y4db17b64w4/"><circle cx="209.6" cy="116.3" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/setts/s7/p2g6r1y1db3b10w1~x2/"><circle cx="138.3" cy="141.5" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/setts/s9/r4b3lr2k2lr12k2db10t25w2~x2/"><circle cx="161.6" cy="122.4" r="4" fill="#3465a4"><title>O'Reilly (Estimated threadcount)</title></circle></a><a href="/setts/s8/o2b30ly3b2o16r2g16w2~x2/"><circle cx="216.4" cy="139.3" r="4" fill="#3465a4"><title>WCWM 3947</title></circle></a><a href="/setts/s7/db24r8g8r2g8k1ly2~x2/"><circle cx="204.8" cy="118.4" r="4" fill="#3465a4"><title>Scout Mapping Service #1 (Corporate)</title></circle></a><a href="/setts/s9/lt1w2g12k2lt2k2n15lt2ly1~x2/"><circle cx="182.5" cy="123.8" r="4" fill="#3465a4"><title>Hek Family (Sunningdale, Berwick on Tweed)</title></circle></a><a href="/setts/s7/lo3n14k5w1o11db1o3~x4/"><circle cx="181.6" cy="163.9" r="4" fill="#3465a4"><title>Glen Lyon (Fashion)</title></circle></a><a href="/setts/s10/dp4g13db5ly3t6ly3db5n6db28w2~x2/"><circle cx="205.6" cy="122.3" r="4" fill="#3465a4"><title>Highland, Blue (Corporate)</title></circle></a><a href="/setts/s10/k4t6w4t6do8t37lr12do46o6lo4/"><circle cx="183.8" cy="127.1" r="4" fill="#3465a4"><title>MacLeroy and Troine 1987</title></circle></a><circle cx="186.2" cy="130.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/dp2g6r1ly1db3t10w1~x2/"><circle cx="145.9" cy="151.0" r="4" fill="#3465a4"><title>Manx National District Tartan Tartan Number: 185. Earliest known date: pre 2003 These are the specifications supplied by the designer. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/p8g31r4y4db17b64w4/"><circle cx="209.5" cy="116.3" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/setts/s7/p2g6r1y1db3b10w1~x2/"><circle cx="138.3" cy="141.6" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/setts/s9/r4b3lr2k2lr12k2db10t25w2~x2/"><circle cx="161.5" cy="122.5" r="4" fill="#3465a4"><title>O'Reilly (Estimated threadcount)</title></circle></a><a href="/setts/s8/o2b30ly3b2o16r2g16w2~x2/"><circle cx="216.3" cy="139.4" r="4" fill="#3465a4"><title>WCWM 3947</title></circle></a><a href="/setts/s7/db24r8g8r2g8k1ly2~x2/"><circle cx="204.8" cy="118.5" r="4" fill="#3465a4"><title>Scout Mapping Service #1 (Corporate)</title></circle></a><a href="/setts/s9/ly1lt2n15k2lt2k2g12w2lt1~x2/"><circle cx="182.4" cy="123.9" r="4" fill="#3465a4"><title>Hek Family (Sunningdale, Berwick on Tweed)</title></circle></a><a href="/setts/s7/o3db1o11w1k5n14lo3~x4/"><circle cx="181.5" cy="164.0" r="4" fill="#3465a4"><title>Glen Lyon (Fashion)</title></circle></a><a href="/setts/s10/dp4g13db5ly3t6ly3db5n6db28w2~x2/"><circle cx="205.6" cy="122.4" r="4" fill="#3465a4"><title>Highland, Blue (Corporate)</title></circle></a><a href="/setts/s10/k4t6w4t6do8t37lr12do46o6lo4/"><circle cx="183.8" cy="127.3" r="4" fill="#3465a4"><title>MacLeroy and Troine 1987</title></circle></a><circle cx="186.1" cy="130.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/dp2g8r1ly1db6t15w1~x4/

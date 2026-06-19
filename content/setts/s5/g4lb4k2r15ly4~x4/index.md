@@ -2,7 +2,7 @@
 title: "Benedict (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GWKRY](/stripes/gwkry/) · **Stripes:** [G LB K R LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G LB K R LY</span></span>
+**Bands:** [YRKWG](/stripes/yrkwg/) · **Stripes:** [LY R K LB G](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY R K LB G</span></span>
 
 
 This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/
 Original link http://www.tartansauthority.com/tartan-ferret/display/4099/
 
 ## Thread count
-G/16 N16 K8 R60 Y/16
+Y/16 R60 K8 N16 G/16
 ![Sett](sett.png)
 
 ## Palette
@@ -26,7 +26,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/16 N16 K8 R60 Y/16 tartan")
+![Tartan detail](tartan.png "Y/16 R60 K8 N16 G/16 tartan")
 
 ## Nearest tartans
 
@@ -40,13 +40,13 @@ The nearest existing variants by ΔTartan distance.
 1. [McCartney (2015)](/setts/s6/r5g3lb3db5r16ly3~x2/) — ΔT 1.28
 1. [Prince of Orange](/setts/s5/db6lo25o16k2db3~x2/) — ΔT 1.37
 1. [Staves (Personal)](/setts/s5/r10dg4r1w1t1~x2/) — ΔT 1.37
-1. [Banff](/setts/s7/lb6o3o3o20o20ly3o6~x2/) — ΔT 1.38
+1. [Banff](/setts/s7/o6ly3o20o20o3o3lb6~x2/) — ΔT 1.38
 1. [Staves (Personal)](/setts/s5/r10dg4r1w1t1~x6/) — ΔT 1.38
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/dg4lb4k2r15ly4~x4/"><circle cx="227.0" cy="189.2" r="4" fill="#3465a4"><title>Benedict (Personal)</title></circle></a><a href="/setts/s7/r20k5dg5r5w5o3dg3~x4/"><circle cx="231.2" cy="175.3" r="4" fill="#3465a4"><title>Mangles, Peter and Annette (Personal</title></circle></a><a href="/setts/s7/r20k5g5r5w5lr3g3~x4/"><circle cx="228.1" cy="171.5" r="4" fill="#3465a4"><title>Mangles, Peter and Annette Family/Personal Tartan Tartan Number: 10844. Earliest known date: 02/05/2013 The colours were chosen to represent the organisation and the location where Peter and Annette first met in Liverpool. In addition the red is representative of the city of Aberdeen (Scotland) and the black and grey is representative of the granite used extensively throughout Aberdeen See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r20k5g5r5w5n3g3~x4/"><circle cx="222.7" cy="170.5" r="4" fill="#3465a4"><title>Mangles, Peter and Annette (Personal)</title></circle></a><a href="/setts/s6/k6r20w2r9w3lb2~x2/"><circle cx="227.0" cy="162.2" r="4" fill="#3465a4"><title>Thermos Un-named (aretefact)</title></circle></a><a href="/setts/s6/r5g3lb3db5r16ly3~x2/"><circle cx="272.2" cy="199.2" r="4" fill="#3465a4"><title>McCartney (2015)</title></circle></a><a href="/setts/s5/db6lo25o16k2db3~x2/"><circle cx="266.8" cy="189.2" r="4" fill="#3465a4"><title>Prince of Orange</title></circle></a><a href="/setts/s5/r10dg4r1w1t1~x2/"><circle cx="327.8" cy="174.3" r="4" fill="#3465a4"><title>Staves (Personal)</title></circle></a><a href="/setts/s7/lb6o3o3o20o20ly3o6~x2/"><circle cx="248.5" cy="199.3" r="4" fill="#3465a4"><title>Banff</title></circle></a><a href="/setts/s5/r10dg4r1w1t1~x6/"><circle cx="328.7" cy="174.7" r="4" fill="#3465a4"><title>Staves (Personal)</title></circle></a><circle cx="232.4" cy="191.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/dg4lb4k2r15ly4~x4/"><circle cx="226.7" cy="189.1" r="4" fill="#3465a4"><title>Benedict (Personal)</title></circle></a><a href="/setts/s7/r20k5dg5r5w5o3dg3~x4/"><circle cx="230.9" cy="175.2" r="4" fill="#3465a4"><title>Mangles, Peter and Annette (Personal</title></circle></a><a href="/setts/s7/r20k5g5r5w5lr3g3~x4/"><circle cx="227.8" cy="171.4" r="4" fill="#3465a4"><title>Mangles, Peter and Annette Family/Personal Tartan Tartan Number: 10844. Earliest known date: 02/05/2013 The colours were chosen to represent the organisation and the location where Peter and Annette first met in Liverpool. In addition the red is representative of the city of Aberdeen (Scotland) and the black and grey is representative of the granite used extensively throughout Aberdeen See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r20k5g5r5w5n3g3~x4/"><circle cx="222.4" cy="170.4" r="4" fill="#3465a4"><title>Mangles, Peter and Annette (Personal)</title></circle></a><a href="/setts/s6/k6r20w2r9w3lb2~x2/"><circle cx="226.7" cy="162.2" r="4" fill="#3465a4"><title>Thermos Un-named (aretefact)</title></circle></a><a href="/setts/s6/r5g3lb3db5r16ly3~x2/"><circle cx="271.9" cy="199.0" r="4" fill="#3465a4"><title>McCartney (2015)</title></circle></a><a href="/setts/s5/db6lo25o16k2db3~x2/"><circle cx="266.5" cy="189.1" r="4" fill="#3465a4"><title>Prince of Orange</title></circle></a><a href="/setts/s5/r10dg4r1w1t1~x2/"><circle cx="327.5" cy="174.2" r="4" fill="#3465a4"><title>Staves (Personal)</title></circle></a><a href="/setts/s7/o6ly3o20o20o3o3lb6~x2/"><circle cx="248.2" cy="199.2" r="4" fill="#3465a4"><title>Banff</title></circle></a><a href="/setts/s5/r10dg4r1w1t1~x6/"><circle cx="328.3" cy="174.6" r="4" fill="#3465a4"><title>Staves (Personal)</title></circle></a><circle cx="232.1" cy="191.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/g4lb4k2r15ly4~x4/

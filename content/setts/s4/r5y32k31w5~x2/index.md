@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Loganair, Uniform Skirt
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/10 K62 N64 R/10
+R/10 N64 K62 LN/10
 ![Sett](sett.png)
 
 ## Palette
@@ -900,27 +909,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/10 K62 N64 R/10 tartan")
+![Tartan detail](tartan.png "R/10 N64 K62 LN/10 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Mayer, Chris (Personal)](/setts/s4/b1y6k6r1~x10/) — ΔT 0.49
+1. [Mayer, Chris (Personal)](/setts/s4/r1k6y6b1~x10/) — ΔT 0.49
 1. [Loganair](/setts/s4/r5o32k31w5~x2/) — ΔT 0.87
 1. [Loganair Uniform Skirt Corporate Tartan Tartan Number: 1629. Earliest known date: c.1985 Half actual count for display. Used until 1988 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/r5o32k31w5/) — ΔT 0.91
-1. [Thompson, Dress (Clan)](/setts/s4/lb3k16o16r3~x4/) — ΔT 1.00
+1. [Thompson, Dress (Clan)](/setts/s4/r3o16k16lb3~x4/) — ΔT 1.00
 1. [Greystone (Burberry Grey)](/setts/s5/k3lb3k3n10r1~x6/) — ΔT 1.05
-1. [Salt Spring Island](/setts/s4/r1dg6db6w1~x4/) — ΔT 1.13
-1. [Meg, Merrilees](/setts/s6/w23db6w6r5k35r10~x2/) — ΔT 1.29
+1. [Salt Spring Island](/setts/s4/r1dg6db6w1~x4/) — ΔT 1.12
+1. [Meg, Merrilees](/setts/s6/w23db6w6r5k35r10~x2/) — ΔT 1.30
 1. [MacArthur of Milton, hunting](/setts/s6/g14db2g2k8p9k2~x2/) — ΔT 1.33
 1. [Dunbog Primary (School)](/setts/s6/r12db3g5db16ly2g2~x2/) — ΔT 1.34
 1. [New York State Police Pipe Band](/setts/s5/o5dp3o18k16ly3~x4/) — ΔT 1.35
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/b1y6k6r1~x10/"><circle cx="191.6" cy="244.0" r="4" fill="#3465a4"><title>Mayer, Chris (Personal)</title></circle></a><a href="/setts/s4/r5o32k31w5~x2/"><circle cx="210.3" cy="241.1" r="4" fill="#3465a4"><title>Loganair</title></circle></a><a href="/setts/s4/r5o32k31w5/"><circle cx="209.3" cy="239.6" r="4" fill="#3465a4"><title>Loganair Uniform Skirt Corporate Tartan Tartan Number: 1629. Earliest known date: c.1985 Half actual count for display. Used until 1988 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/lb3k16o16r3~x4/"><circle cx="192.7" cy="253.1" r="4" fill="#3465a4"><title>Thompson, Dress (Clan)</title></circle></a><a href="/setts/s5/k3lb3k3n10r1~x6/"><circle cx="230.9" cy="209.3" r="4" fill="#3465a4"><title>Greystone (Burberry Grey)</title></circle></a><a href="/setts/s4/r1dg6db6w1~x4/"><circle cx="199.7" cy="254.6" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/setts/s6/w23db6w6r5k35r10~x2/"><circle cx="158.8" cy="199.4" r="4" fill="#3465a4"><title>Meg, Merrilees</title></circle></a><a href="/setts/s6/g14db2g2k8p9k2~x2/"><circle cx="177.7" cy="224.7" r="4" fill="#3465a4"><title>MacArthur of Milton, hunting</title></circle></a><a href="/setts/s6/r12db3g5db16ly2g2~x2/"><circle cx="223.8" cy="209.6" r="4" fill="#3465a4"><title>Dunbog Primary (School)</title></circle></a><a href="/setts/s5/o5dp3o18k16ly3~x4/"><circle cx="235.6" cy="234.1" r="4" fill="#3465a4"><title>New York State Police Pipe Band</title></circle></a><circle cx="197.2" cy="237.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/r1k6y6b1~x10/"><circle cx="191.8" cy="243.9" r="4" fill="#3465a4"><title>Mayer, Chris (Personal)</title></circle></a><a href="/setts/s4/r5o32k31w5~x2/"><circle cx="210.3" cy="241.0" r="4" fill="#3465a4"><title>Loganair</title></circle></a><a href="/setts/s4/r5o32k31w5/"><circle cx="209.3" cy="239.4" r="4" fill="#3465a4"><title>Loganair Uniform Skirt Corporate Tartan Tartan Number: 1629. Earliest known date: c.1985 Half actual count for display. Used until 1988 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/r3o16k16lb3~x4/"><circle cx="192.7" cy="253.0" r="4" fill="#3465a4"><title>Thompson, Dress (Clan)</title></circle></a><a href="/setts/s5/k3lb3k3n10r1~x6/"><circle cx="231.0" cy="209.1" r="4" fill="#3465a4"><title>Greystone (Burberry Grey)</title></circle></a><a href="/setts/s4/r1dg6db6w1~x4/"><circle cx="199.8" cy="254.4" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/setts/s6/w23db6w6r5k35r10~x2/"><circle cx="158.8" cy="199.2" r="4" fill="#3465a4"><title>Meg, Merrilees</title></circle></a><a href="/setts/s6/g14db2g2k8p9k2~x2/"><circle cx="177.9" cy="224.5" r="4" fill="#3465a4"><title>MacArthur of Milton, hunting</title></circle></a><a href="/setts/s6/r12db3g5db16ly2g2~x2/"><circle cx="223.9" cy="209.5" r="4" fill="#3465a4"><title>Dunbog Primary (School)</title></circle></a><a href="/setts/s5/o5dp3o18k16ly3~x4/"><circle cx="235.5" cy="233.9" r="4" fill="#3465a4"><title>New York State Police Pipe Band</title></circle></a><circle cx="197.4" cy="237.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/r5y32k31w5~x2/

@@ -2,7 +2,7 @@
 title: "Head of the Lakes"
 date: 2023-03-18
 ---
-**Bands:** [BKWBWBGKWG](/stripes/bkwbwbgkwg/) · **Stripes:** [T K W P W P G K W G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">T K W P W P G K W G</span></span>
+**Bands:** [GWKGBWBWKB](/stripes/gwkgbwbwkb/) · **Stripes:** [G W K G P W P W K T](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">G W K G P W P W K T</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/2 DB24 LN2 P4 LN2 P4 Ga12 DB24 LN2 G/12
+G/12 LN2 DB24 Ga12 P4 LN2 P4 LN2 DB24 B/2
 ![Sett](sett.png)
 
 ## Palette
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/"><circle cx="171.6" cy="141.0" r="4" fill="#3465a4"><title>Stinson, Ancient</title></circle></a><a href="/setts/s11/lr3dg3r2dg16k2db24k2dg16r2dg3ly3~x2/"><circle cx="228.2" cy="137.6" r="4" fill="#3465a4"><title>Loch Tay</title></circle></a><a href="/setts/s10/r2w2dg8g2dg2db20t8g2db15w2~x2/"><circle cx="239.7" cy="152.6" r="4" fill="#3465a4"><title>Tupper, John Charles (Personal)</title></circle></a><a href="/setts/s11/db50k10db6k10db6dg5lp5dg5p8dg23w5~x2/"><circle cx="192.3" cy="140.3" r="4" fill="#3465a4"><title>Scottish Hockey Union (Sports)</title></circle></a><a href="/setts/s11/t3k1t1db4t10r2k8db2t1k1t3~x2/"><circle cx="193.0" cy="156.9" r="4" fill="#3465a4"><title>Norwich No.020</title></circle></a><a href="/setts/s10/t13k14g6k14t14w1r1ly1g1t3~x2/"><circle cx="203.5" cy="147.1" r="4" fill="#3465a4"><title>Scotshill</title></circle></a><a href="/setts/s10/db6r4db24lb3k6g18lo4g2lo2g4~x2/"><circle cx="154.3" cy="138.3" r="4" fill="#3465a4"><title>Greene</title></circle></a><a href="/setts/s10/b13k14g6k14b14w1r1ly1g1b3~x2/"><circle cx="210.8" cy="152.7" r="4" fill="#3465a4"><title>Scotshill</title></circle></a><a href="/setts/s12/w4k2b9k3b3k3b3k25dg10k2b6w2~x2/"><circle cx="207.1" cy="135.7" r="4" fill="#3465a4"><title>Auld Lang Syne Blue Fashion Tartan Tartan Number: 7250. Earliest known date: 01/01/2007 No further information. Also called Auld Lang Syne Modern. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/k1r1k8g1k1g8ly1db8k1db1k8w1k1~x6/"><circle cx="187.9" cy="143.4" r="4" fill="#3465a4"><title>Survivor</title></circle></a><circle cx="211.0" cy="138.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/"><circle cx="171.7" cy="141.0" r="4" fill="#3465a4"><title>Stinson, Ancient</title></circle></a><a href="/setts/s11/lr3dg3r2dg16k2db24k2dg16r2dg3ly3~x2/"><circle cx="228.2" cy="137.6" r="4" fill="#3465a4"><title>Loch Tay</title></circle></a><a href="/setts/s10/r2w2dg8g2dg2db20t8g2db15w2~x2/"><circle cx="239.8" cy="152.6" r="4" fill="#3465a4"><title>Tupper, John Charles (Personal)</title></circle></a><a href="/setts/s11/db50k10db6k10db6dg5lp5dg5p8dg23w5~x2/"><circle cx="192.4" cy="140.4" r="4" fill="#3465a4"><title>Scottish Hockey Union (Sports)</title></circle></a><a href="/setts/s11/t3k1t1db4t10r2k8db2t1k1t3~x2/"><circle cx="193.1" cy="156.9" r="4" fill="#3465a4"><title>Norwich No.020</title></circle></a><a href="/setts/s10/t13k14g6k14t14w1r1ly1g1t3~x2/"><circle cx="203.5" cy="147.1" r="4" fill="#3465a4"><title>Scotshill</title></circle></a><a href="/setts/s10/db6r4db24lb3k6g18lo4g2lo2g4~x2/"><circle cx="154.4" cy="138.3" r="4" fill="#3465a4"><title>Greene</title></circle></a><a href="/setts/s10/b13k14g6k14b14w1r1ly1g1b3~x2/"><circle cx="210.9" cy="152.7" r="4" fill="#3465a4"><title>Scotshill</title></circle></a><a href="/setts/s12/w4k2b9k3b3k3b3k25dg10k2b6w2~x2/"><circle cx="207.1" cy="135.7" r="4" fill="#3465a4"><title>Auld Lang Syne Blue Fashion Tartan Tartan Number: 7250. Earliest known date: 01/01/2007 No further information. Also called Auld Lang Syne Modern. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/k1r1k8g1k1g8ly1db8k1db1k8w1k1~x6/"><circle cx="187.9" cy="143.5" r="4" fill="#3465a4"><title>Survivor</title></circle></a><circle cx="211.1" cy="138.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/g6w1k12g6p2w1p2w1k12t1~x2/

@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10160
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Shepherd, Derek
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -45,21 +51,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Fraser Yellow](/setts/s7/ly2db14ly2dg14ly27w2r2~x2/) — ΔT 1.21
-1. [Fraser, Yellow](/setts/s7/ly2db14ly2g14ly27w2r2~x2/) — ΔT 1.27
-1. [MacKintosh Dress (Dance)](/setts/s6/g3r9dg18dp8w33r3~x2/) — ΔT 1.42
+1. [Fraser Yellow](/setts/s7/r2w2ly27dg14ly2db14ly2~x2/) — ΔT 1.21
+1. [Fraser, Yellow](/setts/s7/r2w2ly27g14ly2db14ly2~x2/) — ΔT 1.27
+1. [MacKintosh Dress (Dance)](/setts/s6/r3w33dp8dg18r9g3~x2/) — ΔT 1.42
 1. [MacDuck (Corporate)](/setts/s6/k4r5k2ly21g8k2~x2/) — ΔT 1.43
 1. [Cornish Christophers (Personal)](/setts/s8/g5lg5ly26k4ly6r5k15w4~x2/) — ΔT 1.52
 1. [Orange Fanaticos](/setts/s7/lb12lo75k22w12k22w16lb8/) — ΔT 1.58
-1. [Fraser Yellow #2](/setts/s6/ly1db3ly1dg3ly8w1~x4/) — ΔT 1.58
+1. [Fraser Yellow #2](/setts/s6/w1ly8dg3ly1db3ly1~x4/) — ΔT 1.58
 1. [Burberry Counterfeit](/setts/s5/o3w3k3lo10r1~x6/) — ΔT 1.59
 1. [Barbour - Ancient](/setts/s7/w4k2w18k11db2y18ly2~x2/) — ΔT 1.63
 1. [Reekie, Charlene (Personal)](/setts/s6/w43k5r3g5ly27dp5~x2/) — ΔT 1.63
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly2db14ly2dg14ly27w2r2~x2/"><circle cx="224.4" cy="142.2" r="4" fill="#3465a4"><title>Fraser Yellow</title></circle></a><a href="/setts/s7/ly2db14ly2g14ly27w2r2~x2/"><circle cx="229.2" cy="143.6" r="4" fill="#3465a4"><title>Fraser, Yellow</title></circle></a><a href="/setts/s6/g3r9dg18dp8w33r3~x2/"><circle cx="176.5" cy="158.1" r="4" fill="#3465a4"><title>MacKintosh Dress (Dance)</title></circle></a><a href="/setts/s6/k4r5k2ly21g8k2~x2/"><circle cx="228.3" cy="172.1" r="4" fill="#3465a4"><title>MacDuck (Corporate)</title></circle></a><a href="/setts/s8/g5lg5ly26k4ly6r5k15w4~x2/"><circle cx="129.2" cy="151.0" r="4" fill="#3465a4"><title>Cornish Christophers (Personal)</title></circle></a><a href="/setts/s7/lb12lo75k22w12k22w16lb8/"><circle cx="189.3" cy="160.9" r="4" fill="#3465a4"><title>Orange Fanaticos</title></circle></a><a href="/setts/s6/ly1db3ly1dg3ly8w1~x4/"><circle cx="272.7" cy="191.9" r="4" fill="#3465a4"><title>Fraser Yellow #2</title></circle></a><a href="/setts/s5/o3w3k3lo10r1~x6/"><circle cx="212.9" cy="186.3" r="4" fill="#3465a4"><title>Burberry Counterfeit</title></circle></a><a href="/setts/s7/w4k2w18k11db2y18ly2~x2/"><circle cx="130.6" cy="158.5" r="4" fill="#3465a4"><title>Barbour - Ancient</title></circle></a><a href="/setts/s6/w43k5r3g5ly27dp5~x2/"><circle cx="215.2" cy="119.1" r="4" fill="#3465a4"><title>Reekie, Charlene (Personal)</title></circle></a><circle cx="193.0" cy="150.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r2w2ly27dg14ly2db14ly2~x2/"><circle cx="224.1" cy="142.1" r="4" fill="#3465a4"><title>Fraser Yellow</title></circle></a><a href="/setts/s7/r2w2ly27g14ly2db14ly2~x2/"><circle cx="228.8" cy="143.4" r="4" fill="#3465a4"><title>Fraser, Yellow</title></circle></a><a href="/setts/s6/r3w33dp8dg18r9g3~x2/"><circle cx="176.2" cy="158.0" r="4" fill="#3465a4"><title>MacKintosh Dress (Dance)</title></circle></a><a href="/setts/s6/k4r5k2ly21g8k2~x2/"><circle cx="227.9" cy="171.9" r="4" fill="#3465a4"><title>MacDuck (Corporate)</title></circle></a><a href="/setts/s8/g5lg5ly26k4ly6r5k15w4~x2/"><circle cx="129.0" cy="151.0" r="4" fill="#3465a4"><title>Cornish Christophers (Personal)</title></circle></a><a href="/setts/s7/lb12lo75k22w12k22w16lb8/"><circle cx="188.9" cy="160.8" r="4" fill="#3465a4"><title>Orange Fanaticos</title></circle></a><a href="/setts/s6/w1ly8dg3ly1db3ly1~x4/"><circle cx="272.3" cy="191.6" r="4" fill="#3465a4"><title>Fraser Yellow #2</title></circle></a><a href="/setts/s5/o3w3k3lo10r1~x6/"><circle cx="212.7" cy="186.2" r="4" fill="#3465a4"><title>Burberry Counterfeit</title></circle></a><a href="/setts/s7/w4k2w18k11db2y18ly2~x2/"><circle cx="130.5" cy="158.4" r="4" fill="#3465a4"><title>Barbour - Ancient</title></circle></a><a href="/setts/s6/w43k5r3g5ly27dp5~x2/"><circle cx="214.7" cy="119.0" r="4" fill="#3465a4"><title>Reekie, Charlene (Personal)</title></circle></a><circle cx="192.6" cy="150.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k5ly2dy7ly18dy2w2~x4/

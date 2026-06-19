@@ -2,7 +2,7 @@
 title: "Mensah"
 date: 2023-03-18
 ---
-**Bands:** [GRKYKBGY](/stripes/grkykbgy/) · **Stripes:** [G R K LY K DB G LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G R K LY K DB G LY</span></span>
+**Bands:** [YGBKYKRG](/stripes/ygbkykrg/) · **Stripes:** [LY G DB K LY K R G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G DB K LY K R G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2769
 
 ## Thread count
-G/4 R74 K30 Y4 K2 DB18 G18 Y/6
+Y/6 G18 DB18 K2 Y4 K30 R74 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -41,7 +41,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/4 R74 K30 Y4 K2 DB18 G18 Y/6 tartan")
+![Tartan detail](tartan.png "Y/6 G18 DB18 K2 Y4 K30 R74 G/4 tartan")
 
 ## Nearest tartans
 
@@ -60,8 +60,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r64k30g30db18w4db2w3/"><circle cx="231.0" cy="117.5" r="4" fill="#3465a4"><title>Clyde Family (Hurleford) (Personal)</title></circle></a><a href="/setts/s7/r27g4k4g4k4db6lo1~x4/"><circle cx="326.2" cy="120.6" r="4" fill="#3465a4"><title>MacLeay (Clan)</title></circle></a><a href="/setts/s8/lb5k1r30dp15r8dg30r8dp2/"><circle cx="275.7" cy="129.9" r="4" fill="#3465a4"><title>Shaw</title></circle></a><a href="/setts/s7/r64k30g30b18w4b2w3/"><circle cx="230.2" cy="119.6" r="4" fill="#3465a4"><title>Clyde (Personal)</title></circle></a><a href="/setts/s7/r28g4k4g4k4t6ly1~x2/"><circle cx="310.3" cy="107.2" r="4" fill="#3465a4"><title>Livingstone, MacLay MacLeay</title></circle></a><a href="/setts/s10/k5db5k2r47k18w2k5dg9db7w3~x2/"><circle cx="264.3" cy="99.5" r="4" fill="#3465a4"><title>Rikaco Holiday (Fashion)</title></circle></a><a href="/setts/s8/lo5dt1r2dt4r36dt22w4ly2~x2/"><circle cx="328.8" cy="94.5" r="4" fill="#3465a4"><title>Aberdeen F.C. Corporate Tartan Tartan Number: 2694. Earliest known date: 1997 The Aberdeen Football Club commissioned this design to include the colours of the teams away strip - navy and gold. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r28dg4k4dg4k4t6ly1~x2/"><circle cx="325.4" cy="110.2" r="4" fill="#3465a4"><title>Livingstone MacLay MacLeay</title></circle></a><a href="/setts/s9/w2r2db14g16ly2k2g2r35g1~x2/"><circle cx="289.8" cy="76.7" r="4" fill="#3465a4"><title>King (Austria) (Personal)</title></circle></a><a href="/setts/s8/r5k1r2k4r36k23w4ly2~x2/"><circle cx="316.9" cy="87.9" r="4" fill="#3465a4"><title>Aberdeen Football Club (1999)</title></circle></a><circle cx="280.7" cy="97.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r64k30g30db18w4db2w3/"><circle cx="230.8" cy="117.4" r="4" fill="#3465a4"><title>Clyde Family (Hurleford) (Personal)</title></circle></a><a href="/setts/s7/r27g4k4g4k4db6lo1~x4/"><circle cx="325.9" cy="120.6" r="4" fill="#3465a4"><title>MacLeay (Clan)</title></circle></a><a href="/setts/s8/lb5k1r30dp15r8dg30r8dp2/"><circle cx="275.5" cy="129.9" r="4" fill="#3465a4"><title>Shaw</title></circle></a><a href="/setts/s7/r64k30g30b18w4b2w3/"><circle cx="230.0" cy="119.5" r="4" fill="#3465a4"><title>Clyde (Personal)</title></circle></a><a href="/setts/s7/r28g4k4g4k4t6ly1~x2/"><circle cx="310.0" cy="107.1" r="4" fill="#3465a4"><title>Livingstone, MacLay MacLeay</title></circle></a><a href="/setts/s10/k5db5k2r47k18w2k5dg9db7w3~x2/"><circle cx="264.1" cy="99.6" r="4" fill="#3465a4"><title>Rikaco Holiday (Fashion)</title></circle></a><a href="/setts/s8/lo5dt1r2dt4r36dt22w4ly2~x2/"><circle cx="328.4" cy="94.5" r="4" fill="#3465a4"><title>Aberdeen F.C. Corporate Tartan Tartan Number: 2694. Earliest known date: 1997 The Aberdeen Football Club commissioned this design to include the colours of the teams away strip - navy and gold. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r28dg4k4dg4k4t6ly1~x2/"><circle cx="325.1" cy="110.2" r="4" fill="#3465a4"><title>Livingstone MacLay MacLeay</title></circle></a><a href="/setts/s9/w2r2db14g16ly2k2g2r35g1~x2/"><circle cx="289.5" cy="76.8" r="4" fill="#3465a4"><title>King (Austria) (Personal)</title></circle></a><a href="/setts/s8/r5k1r2k4r36k23w4ly2~x2/"><circle cx="316.6" cy="87.8" r="4" fill="#3465a4"><title>Aberdeen Football Club (1999)</title></circle></a><circle cx="280.4" cy="97.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/ly3g9db9k1ly2k15r37g2~x2/

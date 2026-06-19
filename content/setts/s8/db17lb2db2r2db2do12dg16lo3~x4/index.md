@@ -2,12 +2,18 @@
 title: "Blairmore House (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BWBRBBGY](/stripes/bwbrbbgy/) · **Stripes:** [DB LB DB R DB DO DG LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DB LB DB R DB DO DG LO</span></span>
+**Bands:** [YGBBRBWB](/stripes/ygbbrbwb/) · **Stripes:** [LO DG DO DB R DB LB DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="seq">LO DG DO DB R DB LB DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2221/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Blairmore House
 
 ## Attestations
 
@@ -53,8 +59,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db17w2db2r2db2do12dg16lo3~x4/"><circle cx="176.7" cy="189.5" r="4" fill="#3465a4"><title>Blairmore House</title></circle></a><a href="/setts/s8/dg5g2db2db15r2lg2dg5r2~x4/"><circle cx="222.3" cy="201.8" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><a href="/setts/s9/dg15y3dr2y3dg8b12db20r2db4~x2/"><circle cx="175.7" cy="195.5" r="4" fill="#3465a4"><title>Westbrook (2013)</title></circle></a><a href="/setts/s11/g37dp5g5dp12b10db5b5db40dy4db4lo4~x2/"><circle cx="194.7" cy="161.8" r="4" fill="#3465a4"><title>State Seal of North Dakota (Fashion)</title></circle></a><a href="/setts/s6/r3dt24k7db11g11ly2~x2/"><circle cx="196.9" cy="207.6" r="4" fill="#3465a4"><title>Cowie</title></circle></a><a href="/setts/s9/dg3lo2o10dg10db20dg12r3db10w2~x2/"><circle cx="220.0" cy="209.9" r="4" fill="#3465a4"><title>Patel Name Tartan Tartan Number: 10924. Earliest known date: 2013 Designed for the Patel family using colours associated with the Gujarat, a state in the North-West coast of India known locally as Jewel of the West. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/dg2g8dt1g1dt1g1dt8db10w1~x4/"><circle cx="195.8" cy="198.3" r="4" fill="#3465a4"><title>Cowal Gathering</title></circle></a><a href="/setts/s9/db11k1db1k1db1k7dg8r1t7~x4/"><circle cx="197.1" cy="199.9" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/setts/s7/db10dg5g5k1ly2k1db10~x2/"><circle cx="131.3" cy="207.4" r="4" fill="#3465a4"><title>Lenaghan (Personal)</title></circle></a><a href="/setts/s8/dt5b43dt18lb4b6r5dy25lo5~x2/"><circle cx="219.7" cy="176.0" r="4" fill="#3465a4"><title>State Seal of Iowa (Fashion)</title></circle></a><circle cx="193.4" cy="198.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db17w2db2r2db2do12dg16lo3~x4/"><circle cx="176.9" cy="189.6" r="4" fill="#3465a4"><title>Blairmore House</title></circle></a><a href="/setts/s8/dg5g2db2db15r2lg2dg5r2~x4/"><circle cx="222.5" cy="202.0" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><a href="/setts/s9/dg15y3dr2y3dg8b12db20r2db4~x2/"><circle cx="175.9" cy="195.7" r="4" fill="#3465a4"><title>Westbrook (2013)</title></circle></a><a href="/setts/s11/g37dp5g5dp12b10db5b5db40dy4db4lo4~x2/"><circle cx="194.7" cy="162.0" r="4" fill="#3465a4"><title>State Seal of North Dakota (Fashion)</title></circle></a><a href="/setts/s6/r3dt24k7db11g11ly2~x2/"><circle cx="197.1" cy="207.8" r="4" fill="#3465a4"><title>Cowie</title></circle></a><a href="/setts/s9/dg3lo2o10dg10db20dg12r3db10w2~x2/"><circle cx="220.0" cy="210.1" r="4" fill="#3465a4"><title>Patel Name Tartan Tartan Number: 10924. Earliest known date: 2013 Designed for the Patel family using colours associated with the Gujarat, a state in the North-West coast of India known locally as Jewel of the West. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/dg2g8dt1g1dt1g1dt8db10w1~x4/"><circle cx="195.9" cy="198.5" r="4" fill="#3465a4"><title>Cowal Gathering</title></circle></a><a href="/setts/s9/db11k1db1k1db1k7dg8r1t7~x4/"><circle cx="197.2" cy="200.1" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/setts/s7/db10dg5g5k1ly2k1db10~x2/"><circle cx="131.6" cy="207.7" r="4" fill="#3465a4"><title>Lenaghan (Personal)</title></circle></a><a href="/setts/s8/dt5b43dt18lb4b6r5dy25lo5~x2/"><circle cx="219.6" cy="176.1" r="4" fill="#3465a4"><title>State Seal of Iowa (Fashion)</title></circle></a><circle cx="193.6" cy="198.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db17lb2db2r2db2do12dg16lo3~x4/

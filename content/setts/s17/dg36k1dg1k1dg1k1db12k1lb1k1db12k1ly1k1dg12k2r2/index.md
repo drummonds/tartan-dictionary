@@ -2,7 +2,7 @@
 title: "Cockburn"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGKBKWKBKYKGKR](/stripes/gkgkgkbkwkbkykgkr/) · **Stripes:** [DG K DG K DG K DB K LB K DB K LY K DG K R](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG K DG K DG K DB K LB K DB K LY K DG K R</span></span>
+**Bands:** [RKGKYKBKWKBKGKGKG](/stripes/rkgkykbkwkbkgkgkg/) · **Stripes:** [R K DG K LY K DB K LB K DB K DG K DG K DG](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">R K DG K LY K DB K LB K DB K DG K DG K DG</span></span>
 
 
 This was sourced from weddslist.  It is a [17 band tartan](/bands/bands17/).
@@ -13,13 +13,23 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Thread count
 G/36 K1 G1 K1 G1 K1 DB12 K1 N1 K1 DB12 K1 Y1 K1 G12 K2 R/2
@@ -46,16 +56,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Unidentified #30](/setts/s20/dg82k2dg2k2dg2k8db28k1w6k1db28k1ly6k1dg32k2r5k2dg15w6~x2/) — ΔT 1.18
 1. [Unidentified Phyllis Gordon](/setts/s20/k40dg8r1dg57ly5dg9w5dg57r1dg8k40dp7k4dg4k2w4k2dg4k4dp7~x2/) — ΔT 1.20
 1. [Kennedy](/setts/s17/k2dg2ly1dg3dr1dg2dr1dg12db4k3db3k3db3k3db4dg24r2~x2/) — ΔT 1.24
-1. [Kennedy](/setts/s17/k2dg2ly1dg3dr1dg2dr1dg12db4k3db3k3db3k3db4dg24r2/) — ΔT 1.24
-1. [Downs (Personal)](/setts/s12/k68k1g6r3g1r6k2w1g30lb1g2ly2~x2/) — ΔT 1.31
+1. [Downs (Personal)](/setts/s12/k68k1g6r3g1r6k2w1g30lb1g2ly2~x2/) — ΔT 1.30
 1. [Mighty Men](/setts/s14/g40do1dp4do1dp4k4dr1k1dr1k1dr1k1dr2w4~x2/) — ΔT 1.41
 1. [U.S. Special Forces](/setts/s13/b3k3w1r3k8b2dg36b2k8w1k3b3ly2~x2/) — ΔT 1.43
 1. [City of Abbotsford (District)](/setts/s13/dg50k3w4k1lo5r4k1w2k2b15k5dg4w2~x2/) — ΔT 1.43
+1. [Unidentified Cant #10](/setts/s20/dg9ly5dg57r1dg8k40m7k4dg4k2w4~x2/) — ΔT 1.44
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/dg36k1dg1k1dg1k1db12k1lr1k1db12k1ly1k1dg12k2r2~x2/"><circle cx="370.4" cy="72.7" r="4" fill="#3465a4"><title>Cockburn</title></circle></a><a href="/setts/s17/dg36k1dg1k1dg1k1db12k1lr1k1db12k1ly1k1dg12k2r2/"><circle cx="370.4" cy="72.7" r="4" fill="#3465a4"><title>Cockburn</title></circle></a><a href="/setts/s20/dg82k2dg2k2dg2k8db28k1w6k1db28k1ly6k1dg32k2r5k2dg15w6~x2/"><circle cx="355.6" cy="46.4" r="4" fill="#3465a4"><title>Unidentified #30</title></circle></a><a href="/setts/s20/k40dg8r1dg57ly5dg9w5dg57r1dg8k40dp7k4dg4k2w4k2dg4k4dp7~x2/"><circle cx="346.4" cy="61.7" r="4" fill="#3465a4"><title>Unidentified Phyllis Gordon</title></circle></a><a href="/setts/s17/k2dg2ly1dg3dr1dg2dr1dg12db4k3db3k3db3k3db4dg24r2~x2/"><circle cx="337.3" cy="105.5" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/setts/s17/k2dg2ly1dg3dr1dg2dr1dg12db4k3db3k3db3k3db4dg24r2/"><circle cx="337.3" cy="105.5" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/setts/s12/k68k1g6r3g1r6k2w1g30lb1g2ly2~x2/"><circle cx="388.0" cy="56.0" r="4" fill="#3465a4"><title>Downs (Personal)</title></circle></a><a href="/setts/s14/g40do1dp4do1dp4k4dr1k1dr1k1dr1k1dr2w4~x2/"><circle cx="369.0" cy="43.2" r="4" fill="#3465a4"><title>Mighty Men</title></circle></a><a href="/setts/s13/b3k3w1r3k8b2dg36b2k8w1k3b3ly2~x2/"><circle cx="297.3" cy="77.7" r="4" fill="#3465a4"><title>U.S. Special Forces</title></circle></a><a href="/setts/s13/dg50k3w4k1lo5r4k1w2k2b15k5dg4w2~x2/"><circle cx="321.5" cy="46.8" r="4" fill="#3465a4"><title>City of Abbotsford (District)</title></circle></a><circle cx="352.4" cy="64.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/dg36k1dg1k1dg1k1db12k1lr1k1db12k1ly1k1dg12k2r2~x2/"><circle cx="370.3" cy="72.8" r="4" fill="#3465a4"><title>Cockburn</title></circle></a><a href="/setts/s17/dg36k1dg1k1dg1k1db12k1lr1k1db12k1ly1k1dg12k2r2/"><circle cx="370.3" cy="72.8" r="4" fill="#3465a4"><title>Cockburn</title></circle></a><a href="/setts/s20/dg82k2dg2k2dg2k8db28k1w6k1db28k1ly6k1dg32k2r5k2dg15w6~x2/"><circle cx="355.4" cy="46.5" r="4" fill="#3465a4"><title>Unidentified #30</title></circle></a><a href="/setts/s20/k40dg8r1dg57ly5dg9w5dg57r1dg8k40dp7k4dg4k2w4k2dg4k4dp7~x2/"><circle cx="346.3" cy="61.8" r="4" fill="#3465a4"><title>Unidentified Phyllis Gordon</title></circle></a><a href="/setts/s17/k2dg2ly1dg3dr1dg2dr1dg12db4k3db3k3db3k3db4dg24r2~x2/"><circle cx="337.3" cy="105.5" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/setts/s12/k68k1g6r3g1r6k2w1g30lb1g2ly2~x2/"><circle cx="387.8" cy="55.9" r="4" fill="#3465a4"><title>Downs (Personal)</title></circle></a><a href="/setts/s14/g40do1dp4do1dp4k4dr1k1dr1k1dr1k1dr2w4~x2/"><circle cx="368.7" cy="43.1" r="4" fill="#3465a4"><title>Mighty Men</title></circle></a><a href="/setts/s13/b3k3w1r3k8b2dg36b2k8w1k3b3ly2~x2/"><circle cx="297.2" cy="77.8" r="4" fill="#3465a4"><title>U.S. Special Forces</title></circle></a><a href="/setts/s13/dg50k3w4k1lo5r4k1w2k2b15k5dg4w2~x2/"><circle cx="321.4" cy="46.8" r="4" fill="#3465a4"><title>City of Abbotsford (District)</title></circle></a><a href="/setts/s20/dg9ly5dg57r1dg8k40m7k4dg4k2w4~x2/"><circle cx="339.1" cy="56.1" r="4" fill="#3465a4"><title>Unidentified Cant #10</title></circle></a><circle cx="352.3" cy="64.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s17/dg36k1dg1k1dg1k1db12k1lb1k1db12k1ly1k1dg12k2r2/

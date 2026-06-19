@@ -9,8 +9,14 @@ This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2408/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Scottish Highlander
+
 ## Thread count
-DB/8 N6 DR4 N52 DB30 P6 W4 P/52
+P/52 W4 P6 DB30 N52 DR4 N6 DB/8
 ![Sett](sett.png)
 
 ## Palette
@@ -26,7 +32,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/8 N6 DR4 N52 DB30 P6 W4 P/52 tartan")
+![Tartan detail](tartan.png "P/52 W4 P6 DB30 N52 DR4 N6 DB/8 tartan")
 
 ## Nearest tartans
 
@@ -35,7 +41,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Scottish Highlander, dress](/setts/s8/lp26w2lp3db15y26m2y3db4~x2/) — ΔT 1.32
 1. [Lennox Primary School](/setts/s7/dp2lp1dp10db1y10k1y2~x4/) — ΔT 1.34
 1. [IRPA](/setts/s11/r6t2r2t23k2r4k2b21r2b2w6~x2/) — ΔT 1.37
-1. [Scottish Highlander Dress](/setts/s14/db4o3r2o26db15p3w2p26w2p3db15o26r2o3~x2/) — ΔT 1.38
+1. [Scottish Highlander Dress](/setts/s14/p26w2p3db15o26r2o3db4~x2/) — ΔT 1.38
 1. [Pride of the Nation (Fashion)](/setts/s8/t12db6t50db39p12dp6p6w4/) — ΔT 1.44
 1. [Hek (Name)](/setts/s9/db1w2t12k2db2k2dp15db2ly1~x2/) — ΔT 1.44
 1. [Tasmania (District)](/setts/s11/r5lp2db24lr2db2lr2db6lr8r6lr8ly4~x2/) — ΔT 1.48
@@ -45,8 +51,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/lp26w2lp3db15y26m2y3db4~x2/"><circle cx="178.6" cy="146.6" r="4" fill="#3465a4"><title>Scottish Highlander, dress</title></circle></a><a href="/setts/s7/dp2lp1dp10db1y10k1y2~x4/"><circle cx="278.6" cy="182.0" r="4" fill="#3465a4"><title>Lennox Primary School</title></circle></a><a href="/setts/s11/r6t2r2t23k2r4k2b21r2b2w6~x2/"><circle cx="169.5" cy="130.0" r="4" fill="#3465a4"><title>IRPA</title></circle></a><a href="/setts/s14/db4o3r2o26db15p3w2p26w2p3db15o26r2o3~x2/"><circle cx="226.7" cy="135.1" r="4" fill="#3465a4"><title>Scottish Highlander Dress</title></circle></a><a href="/setts/s8/t12db6t50db39p12dp6p6w4/"><circle cx="217.4" cy="153.0" r="4" fill="#3465a4"><title>Pride of the Nation (Fashion)</title></circle></a><a href="/setts/s9/db1w2t12k2db2k2dp15db2ly1~x2/"><circle cx="186.8" cy="117.5" r="4" fill="#3465a4"><title>Hek (Name)</title></circle></a><a href="/setts/s11/r5lp2db24lr2db2lr2db6lr8r6lr8ly4~x2/"><circle cx="223.1" cy="146.5" r="4" fill="#3465a4"><title>Tasmania (District)</title></circle></a><a href="/setts/s6/p9lb1g2lb1db4r1~x12/"><circle cx="249.0" cy="186.3" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/setts/s10/n5dp40n5lr5n32lr5n5lr40dp7w5/"><circle cx="201.9" cy="181.3" r="4" fill="#3465a4"><title>Intelligent Finance</title></circle></a><a href="/setts/s9/dp12r1g4r2dp10t20db3t9w1~x2/"><circle cx="251.2" cy="139.8" r="4" fill="#3465a4"><title>Japan-Scotland Society (Corporate)</title></circle></a><circle cx="213.6" cy="163.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/lp26w2lp3db15y26m2y3db4~x2/"><circle cx="178.5" cy="146.6" r="4" fill="#3465a4"><title>Scottish Highlander, dress</title></circle></a><a href="/setts/s7/dp2lp1dp10db1y10k1y2~x4/"><circle cx="278.5" cy="182.0" r="4" fill="#3465a4"><title>Lennox Primary School</title></circle></a><a href="/setts/s11/r6t2r2t23k2r4k2b21r2b2w6~x2/"><circle cx="169.3" cy="130.1" r="4" fill="#3465a4"><title>IRPA</title></circle></a><a href="/setts/s14/p26w2p3db15o26r2o3db4~x2/"><circle cx="226.5" cy="135.2" r="4" fill="#3465a4"><title>Scottish Highlander Dress</title></circle></a><a href="/setts/s8/t12db6t50db39p12dp6p6w4/"><circle cx="217.4" cy="153.1" r="4" fill="#3465a4"><title>Pride of the Nation (Fashion)</title></circle></a><a href="/setts/s9/db1w2t12k2db2k2dp15db2ly1~x2/"><circle cx="186.7" cy="117.6" r="4" fill="#3465a4"><title>Hek (Name)</title></circle></a><a href="/setts/s11/r5lp2db24lr2db2lr2db6lr8r6lr8ly4~x2/"><circle cx="222.9" cy="146.5" r="4" fill="#3465a4"><title>Tasmania (District)</title></circle></a><a href="/setts/s6/p9lb1g2lb1db4r1~x12/"><circle cx="248.9" cy="186.2" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/setts/s10/n5dp40n5lr5n32lr5n5lr40dp7w5/"><circle cx="201.7" cy="181.4" r="4" fill="#3465a4"><title>Intelligent Finance</title></circle></a><a href="/setts/s9/dp12r1g4r2dp10t20db3t9w1~x2/"><circle cx="251.2" cy="139.8" r="4" fill="#3465a4"><title>Japan-Scotland Society (Corporate)</title></circle></a><circle cx="213.5" cy="163.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/p26w2p3db15o26r2o3db4~x2/

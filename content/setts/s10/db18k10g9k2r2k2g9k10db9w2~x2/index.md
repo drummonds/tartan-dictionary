@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Robertson Hunting #2
+- Robertson, hunting
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,21 +920,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Hunter](/setts/s10/g8k1g8k8r1db8w1db8r1k8~x2/) — ΔT 0.52
-1. [Spar (UK) Ltd](/setts/s12/db2k1db10k9g9r1g2w1g9k9db10k2~x4/) — ΔT 0.59
+1. [Hunter](/setts/s10/k8r1db8w1db8r1k8g8k1g8~x2/) — ΔT 0.52
+1. [Spar (UK) Ltd](/setts/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/) — ΔT 0.59
 1. [Biskup (Personal)](/setts/s10/db12r4db18r2k19g18r4g3lo2g8~x2/) — ΔT 0.59
 1. [MacCallum, of Berwick](/setts/s9/db10r7db31k25g23k8db7k8ly5~x2/) — ΔT 0.69
 1. [MacMillan Hunting](/setts/s10/db3ly1db12k4ly2k4dg8r2dg8r1~x2/) — ΔT 0.72
 1. [MacKenzie](/setts/s14/db10k2db2k2db2k8g8k1w2k1g8k8db9r2~x2/) — ΔT 0.74
 1. [MacLeod of Gesto](/setts/s13/db9k1db1k1db1k7g8ly2g8k7db8k1r2~x2/) — ΔT 0.76
-1. [Campbell of Loudoun (Clan)](/setts/s13/ly1k1g7k8db7k1db2k1db7k8g7k1w1~x4/) — ΔT 0.81
+1. [Campbell of Loudoun (Clan)](/setts/s13/w1k1g7k8db7k1db2k1db7k8g7k1ly1~x4/) — ΔT 0.81
 1. [MacLeod of Skye](/setts/s14/db10k1db1k1db1k6g6k1ly2k1g6k6db6r3~x2/) — ΔT 0.88
 1. [Scottish Women's Rural Institutes](/setts/s12/db6t2db20k15g20ly2g6t2g20k15db20ly4~x2/) — ΔT 0.88
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g8k1g8k8r1db8w1db8r1k8~x2/"><circle cx="104.9" cy="195.4" r="4" fill="#3465a4"><title>Hunter</title></circle></a><a href="/setts/s12/db2k1db10k9g9r1g2w1g9k9db10k2~x4/"><circle cx="127.0" cy="175.7" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/setts/s10/db12r4db18r2k19g18r4g3lo2g8~x2/"><circle cx="117.5" cy="183.1" r="4" fill="#3465a4"><title>Biskup (Personal)</title></circle></a><a href="/setts/s9/db10r7db31k25g23k8db7k8ly5~x2/"><circle cx="119.9" cy="206.3" r="4" fill="#3465a4"><title>MacCallum, of Berwick</title></circle></a><a href="/setts/s10/db3ly1db12k4ly2k4dg8r2dg8r1~x2/"><circle cx="142.1" cy="176.0" r="4" fill="#3465a4"><title>MacMillan Hunting</title></circle></a><a href="/setts/s14/db10k2db2k2db2k8g8k1w2k1g8k8db9r2~x2/"><circle cx="123.5" cy="166.4" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/setts/s13/db9k1db1k1db1k7g8ly2g8k7db8k1r2~x2/"><circle cx="115.6" cy="168.6" r="4" fill="#3465a4"><title>MacLeod of Gesto</title></circle></a><a href="/setts/s13/ly1k1g7k8db7k1db2k1db7k8g7k1w1~x4/"><circle cx="141.0" cy="178.0" r="4" fill="#3465a4"><title>Campbell of Loudoun (Clan)</title></circle></a><a href="/setts/s14/db10k1db1k1db1k6g6k1ly2k1g6k6db6r3~x2/"><circle cx="121.2" cy="159.3" r="4" fill="#3465a4"><title>MacLeod of Skye</title></circle></a><a href="/setts/s12/db6t2db20k15g20ly2g6t2g20k15db20ly4~x2/"><circle cx="118.4" cy="176.4" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes</title></circle></a><circle cx="129.9" cy="189.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k8r1db8w1db8r1k8g8k1g8~x2/"><circle cx="105.1" cy="195.4" r="4" fill="#3465a4"><title>Hunter</title></circle></a><a href="/setts/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/"><circle cx="127.2" cy="175.7" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/setts/s10/db12r4db18r2k19g18r4g3lo2g8~x2/"><circle cx="117.8" cy="183.2" r="4" fill="#3465a4"><title>Biskup (Personal)</title></circle></a><a href="/setts/s9/db10r7db31k25g23k8db7k8ly5~x2/"><circle cx="120.2" cy="206.3" r="4" fill="#3465a4"><title>MacCallum, of Berwick</title></circle></a><a href="/setts/s10/db3ly1db12k4ly2k4dg8r2dg8r1~x2/"><circle cx="142.3" cy="176.0" r="4" fill="#3465a4"><title>MacMillan Hunting</title></circle></a><a href="/setts/s14/db10k2db2k2db2k8g8k1w2k1g8k8db9r2~x2/"><circle cx="123.7" cy="166.5" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/setts/s13/db9k1db1k1db1k7g8ly2g8k7db8k1r2~x2/"><circle cx="115.7" cy="168.6" r="4" fill="#3465a4"><title>MacLeod of Gesto</title></circle></a><a href="/setts/s13/w1k1g7k8db7k1db2k1db7k8g7k1ly1~x4/"><circle cx="141.3" cy="178.1" r="4" fill="#3465a4"><title>Campbell of Loudoun (Clan)</title></circle></a><a href="/setts/s14/db10k1db1k1db1k6g6k1ly2k1g6k6db6r3~x2/"><circle cx="121.4" cy="159.4" r="4" fill="#3465a4"><title>MacLeod of Skye</title></circle></a><a href="/setts/s12/db6t2db20k15g20ly2g6t2g20k15db20ly4~x2/"><circle cx="118.6" cy="176.4" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes</title></circle></a><circle cx="130.2" cy="189.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db18k10g9k2r2k2g9k10db9w2~x2/

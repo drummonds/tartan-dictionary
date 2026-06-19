@@ -20,7 +20,7 @@ GYGRR
 
 
 
-### DY LG DY O R <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">DY LG DY O R</span></span>
+### R O DY LG DY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">R O DY LG DY</span></span>
 
 | Tartans |
 |---------------|

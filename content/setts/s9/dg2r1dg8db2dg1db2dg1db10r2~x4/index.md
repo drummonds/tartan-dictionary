@@ -2,7 +2,7 @@
 title: "Barnaby Brown Pibroch"
 date: 2023-03-18
 ---
-**Bands:** [GRGBGBGBR](/stripes/grgbgbgbr/) · **Stripes:** [DG R DG DB DG DB DG DB R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG R DG DB DG DB DG DB R</span></span>
+**Bands:** [RBGBGBGRG](/stripes/rbgbgbgrg/) · **Stripes:** [R DB DG DB DG DB DG R DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R DB DG DB DG DB DG R DG</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -902,20 +905,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Cadence](/setts/s7/db51dg5r15dg37db17r6dg5~x2/) — ΔT 0.86
-1. [Inkster](/setts/s10/db6dy2db2dy3db10g25db10dy3db2dy2~x2/) — ΔT 0.89
-1. [Brown, Barnaby (Personal)](/setts/s9/g2r1g8db2g1db2g1db10r2~x4/) — ΔT 0.98
+1. [Inkster](/setts/s10/g25db10dy3db2dy2db6~x2/) — ΔT 0.89
+1. [Brown, Barnaby (Personal)](/setts/s9/r2db10g1db2g1db2g8r1g2~x4/) — ΔT 0.98
 1. [Clergy (WCWM)](/setts/s12/y1db4y1db3y1k8y1k8db6y1db1y1~x4/) — ΔT 1.14
-1. [Tartan Army Children's Charity (Corp](/setts/s7/n34k7n12k39n3k4lg3~x2/) — ΔT 1.25
+1. [Tartan Army Children's Charity (Corp](/setts/s7/n34k7n12k39n3k4lg3~x2/) — ΔT 1.26
 1. [TACC (Corporate)](/setts/s7/n34k7n12k40n3k4t3~x2/) — ΔT 1.26
 1. [Paxton (Personal)](/setts/s11/k24dp5k9g3k2g3k2g14dp7k2dp10~x2/) — ΔT 1.29
 1. [Clergy (Smith)](/setts/s11/k1t1db6k6t1k6t1db2t1db3t1~x4/) — ΔT 1.29
-1. [Hume or Home](/setts/s9/db3dg3db20r2k2r2k20dg3k3~x2/) — ΔT 1.30
+1. [Hume or Home](/setts/s9/k3dg3k20r2k2r2db20dg3db3~x2/) — ΔT 1.30
 1. [Black Watch (Miniature) Regimental Tartan Tartan Number: 2200. Earliest known date: pre 2003 This is a miniture version of the regular Black Watch sett. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/db12k1db1k1db1k3g6k1~x2/) — ΔT 1.31
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db51dg5r15dg37db17r6dg5~x2/"><circle cx="311.1" cy="239.6" r="4" fill="#3465a4"><title>Cadence</title></circle></a><a href="/setts/s10/db6dy2db2dy3db10g25db10dy3db2dy2~x2/"><circle cx="313.7" cy="205.9" r="4" fill="#3465a4"><title>Inkster</title></circle></a><a href="/setts/s9/g2r1g8db2g1db2g1db10r2~x4/"><circle cx="319.5" cy="219.4" r="4" fill="#3465a4"><title>Brown, Barnaby (Personal)</title></circle></a><a href="/setts/s12/y1db4y1db3y1k8y1k8db6y1db1y1~x4/"><circle cx="283.3" cy="226.3" r="4" fill="#3465a4"><title>Clergy (WCWM)</title></circle></a><a href="/setts/s7/n34k7n12k39n3k4lg3~x2/"><circle cx="363.1" cy="223.1" r="4" fill="#3465a4"><title>Tartan Army Children's Charity (Corp</title></circle></a><a href="/setts/s7/n34k7n12k40n3k4t3~x2/"><circle cx="370.0" cy="223.6" r="4" fill="#3465a4"><title>TACC (Corporate)</title></circle></a><a href="/setts/s11/k24dp5k9g3k2g3k2g14dp7k2dp10~x2/"><circle cx="296.4" cy="207.1" r="4" fill="#3465a4"><title>Paxton (Personal)</title></circle></a><a href="/setts/s11/k1t1db6k6t1k6t1db2t1db3t1~x4/"><circle cx="270.7" cy="251.2" r="4" fill="#3465a4"><title>Clergy (Smith)</title></circle></a><a href="/setts/s9/db3dg3db20r2k2r2k20dg3k3~x2/"><circle cx="288.7" cy="199.9" r="4" fill="#3465a4"><title>Hume or Home</title></circle></a><a href="/setts/s8/db12k1db1k1db1k3g6k1~x2/"><circle cx="385.8" cy="231.2" r="4" fill="#3465a4"><title>Black Watch (Miniature) Regimental Tartan Tartan Number: 2200. Earliest known date: pre 2003 This is a miniture version of the regular Black Watch sett. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="328.0" cy="229.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db51dg5r15dg37db17r6dg5~x2/"><circle cx="311.2" cy="239.5" r="4" fill="#3465a4"><title>Cadence</title></circle></a><a href="/setts/s10/g25db10dy3db2dy2db6~x2/"><circle cx="313.7" cy="205.8" r="4" fill="#3465a4"><title>Inkster</title></circle></a><a href="/setts/s9/r2db10g1db2g1db2g8r1g2~x4/"><circle cx="319.5" cy="219.3" r="4" fill="#3465a4"><title>Brown, Barnaby (Personal)</title></circle></a><a href="/setts/s12/y1db4y1db3y1k8y1k8db6y1db1y1~x4/"><circle cx="283.4" cy="226.3" r="4" fill="#3465a4"><title>Clergy (WCWM)</title></circle></a><a href="/setts/s7/n34k7n12k39n3k4lg3~x2/"><circle cx="363.1" cy="223.0" r="4" fill="#3465a4"><title>Tartan Army Children's Charity (Corp</title></circle></a><a href="/setts/s7/n34k7n12k40n3k4t3~x2/"><circle cx="369.9" cy="223.4" r="4" fill="#3465a4"><title>TACC (Corporate)</title></circle></a><a href="/setts/s11/k24dp5k9g3k2g3k2g14dp7k2dp10~x2/"><circle cx="296.4" cy="207.0" r="4" fill="#3465a4"><title>Paxton (Personal)</title></circle></a><a href="/setts/s11/k1t1db6k6t1k6t1db2t1db3t1~x4/"><circle cx="270.8" cy="251.2" r="4" fill="#3465a4"><title>Clergy (Smith)</title></circle></a><a href="/setts/s9/k3dg3k20r2k2r2db20dg3db3~x2/"><circle cx="288.7" cy="199.9" r="4" fill="#3465a4"><title>Hume or Home</title></circle></a><a href="/setts/s8/db12k1db1k1db1k3g6k1~x2/"><circle cx="385.9" cy="231.2" r="4" fill="#3465a4"><title>Black Watch (Miniature) Regimental Tartan Tartan Number: 2200. Earliest known date: pre 2003 This is a miniture version of the regular Black Watch sett. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="328.0" cy="229.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dg2r1dg8db2dg1db2dg1db10r2~x4/

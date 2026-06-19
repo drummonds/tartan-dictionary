@@ -2,12 +2,18 @@
 title: "MacKintosh, MacPherson"
 date: 2023-03-18
 ---
-**Bands:** [RGYKBKBKBRWKR](/stripes/rgykbkbkbrwkr/) · **Stripes:** [R G LY K T K T K T R W K R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G LY K T K T K T R W K R</span></span>
+**Bands:** [RKWRBKBKBKYGR](/stripes/rkwrbkbkbkygr/) · **Stripes:** [R K W R T K T K T K LY G R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K W R T K T K T K LY G R</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacKintosh, MacPherson
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -904,7 +913,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Stewart Royal](/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1~x2/) — ΔT 0.54
+1. [Stewart Royal](/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1/) — ΔT 0.54
 1. [Stewart of Rothesay](/setts/s13/g7r122db17r12k12ly3k4w3g48r16k4r6w5/) — ΔT 0.58
 1. [Stuart/Stewart of Rothesay](/setts/s13/dg7r122db17r12k12ly3k4w3dg48r16k4r6w5/) — ΔT 0.60
 1. [MacKintosh/MacPherson](/setts/s13/r36dg8ly1k6t4k1t1k1t4r11w1k1r1~x2/) — ΔT 0.62
@@ -917,8 +926,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1~x2/"><circle cx="379.1" cy="34.1" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><a href="/setts/s13/g7r122db17r12k12ly3k4w3g48r16k4r6w5/"><circle cx="362.2" cy="36.0" r="4" fill="#3465a4"><title>Stewart of Rothesay</title></circle></a><a href="/setts/s13/dg7r122db17r12k12ly3k4w3dg48r16k4r6w5/"><circle cx="372.3" cy="36.4" r="4" fill="#3465a4"><title>Stuart/Stewart of Rothesay</title></circle></a><a href="/setts/s13/r36dg8ly1k6t4k1t1k1t4r11w1k1r1~x2/"><circle cx="385.2" cy="39.9" r="4" fill="#3465a4"><title>MacKintosh/MacPherson</title></circle></a><a href="/setts/s14/dg2r30db4r4k6ly1k1w1k1dg10r4k1r1w1~x2/"><circle cx="337.2" cy="43.1" r="4" fill="#3465a4"><title>Stuart/Stewart</title></circle></a><a href="/setts/s14/g2r30db4r4k6ly1k1w1k1g10r4k1r1w1~x2/"><circle cx="323.5" cy="41.2" r="4" fill="#3465a4"><title>Stuart / Stewart</title></circle></a><a href="/setts/s12/r46w2r2w3r2k3db7k2ly2r2g8w3~x2/"><circle cx="360.5" cy="48.8" r="4" fill="#3465a4"><title>Lions' Pride</title></circle></a><a href="/setts/s12/r36db4k6ly1k1lr1k1dg8r4k1r2lr1~x2/"><circle cx="392.1" cy="45.3" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><a href="/setts/s12/r36db4k6ly1k1lr1k1dg8r4k1r2lr1/"><circle cx="392.1" cy="45.3" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><a href="/setts/s12/r47k1r6w3dt2w3r6k13g2w2r2k13~x2/"><circle cx="394.0" cy="50.2" r="4" fill="#3465a4"><title>Trevison</title></circle></a><circle cx="372.5" cy="38.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1/"><circle cx="378.7" cy="34.0" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><a href="/setts/s13/g7r122db17r12k12ly3k4w3g48r16k4r6w5/"><circle cx="361.7" cy="36.0" r="4" fill="#3465a4"><title>Stewart of Rothesay</title></circle></a><a href="/setts/s13/dg7r122db17r12k12ly3k4w3dg48r16k4r6w5/"><circle cx="371.8" cy="36.4" r="4" fill="#3465a4"><title>Stuart/Stewart of Rothesay</title></circle></a><a href="/setts/s13/r36dg8ly1k6t4k1t1k1t4r11w1k1r1~x2/"><circle cx="384.7" cy="39.9" r="4" fill="#3465a4"><title>MacKintosh/MacPherson</title></circle></a><a href="/setts/s14/dg2r30db4r4k6ly1k1w1k1dg10r4k1r1w1~x2/"><circle cx="336.8" cy="43.1" r="4" fill="#3465a4"><title>Stuart/Stewart</title></circle></a><a href="/setts/s14/g2r30db4r4k6ly1k1w1k1g10r4k1r1w1~x2/"><circle cx="323.1" cy="41.2" r="4" fill="#3465a4"><title>Stuart / Stewart</title></circle></a><a href="/setts/s12/r46w2r2w3r2k3db7k2ly2r2g8w3~x2/"><circle cx="360.0" cy="48.7" r="4" fill="#3465a4"><title>Lions' Pride</title></circle></a><a href="/setts/s12/r36db4k6ly1k1lr1k1dg8r4k1r2lr1~x2/"><circle cx="391.7" cy="45.3" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><a href="/setts/s12/r36db4k6ly1k1lr1k1dg8r4k1r2lr1/"><circle cx="391.7" cy="45.3" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><a href="/setts/s12/r47k1r6w3dt2w3r6k13g2w2r2k13~x2/"><circle cx="393.5" cy="50.1" r="4" fill="#3465a4"><title>Trevison</title></circle></a><circle cx="372.1" cy="38.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r36g8ly1k6t4k1t1k1t4r11w1k1r1~x2/

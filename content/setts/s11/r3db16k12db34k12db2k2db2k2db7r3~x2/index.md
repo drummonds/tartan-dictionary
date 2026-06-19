@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3456
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Rangers Football Club
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -51,13 +57,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Wcwm 1527-2](/setts/s10/db2dp26dg26db2dg3db2dg3db14dp2db2~x2/) — ΔT 1.41
 1. [MacAndreis (Personal)](/setts/s10/k3dg4db25k16dg3k3dg3k3dg6r3~x2/) — ΔT 1.41
 1. [Stephen-Mathieson](/setts/s12/db16g1db1g1db1k12g1db1g1db1g6dp2~x4/) — ΔT 1.46
-1. [Asile](/setts/s18/dt3o1dp2o1k6o1dp2o1dt16k16dp1o2dp1dt6dp1o2dp1k3~x2/) — ΔT 1.47
-1. [Hebridean Old.. District Tartan Tartan Number: 249. Earliest known date: pre 2003 Alternative count on 1990 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/db2k2db18t1k13t1g16db3k2~x2/) — ΔT 1.49
+1. [Asile](/setts/s18/k3dp1o2dp1dt6dp1o2dp1k16dt16o1dp2o1k6o1dp2o1dt3~x2/) — ΔT 1.47
+1. [Hebridean Old.. District Tartan Tartan Number: 249. Earliest known date: pre 2003 Alternative count on 1990 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/k2db3g16t1k13t1db18k2db2~x2/) — ΔT 1.49
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r3db14k12db40k12db2k2db2k2db7r3~x2/"><circle cx="307.2" cy="175.1" r="4" fill="#3465a4"><title>Rangers Football Club #2</title></circle></a><a href="/setts/s10/db30db3db3db3db3db10k10dg20k2w4~x2/"><circle cx="244.0" cy="183.2" r="4" fill="#3465a4"><title>St. Kentigern College (Corporate)</title></circle></a><a href="/setts/s11/r2db6lr2db2k9db30k9db5lr4db2r2~x2/"><circle cx="241.4" cy="152.2" r="4" fill="#3465a4"><title>Rangers Football Club Dress</title></circle></a><a href="/setts/s11/r3db16k12b34k12db2k2db2k2db7r3~x2/"><circle cx="234.1" cy="162.9" r="4" fill="#3465a4"><title>Rangers 1989 (Sports)</title></circle></a><a href="/setts/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2/"><circle cx="345.3" cy="183.9" r="4" fill="#3465a4"><title>Dawson-Nunes (Personal)</title></circle></a><a href="/setts/s10/db2dp26dg26db2dg3db2dg3db14dp2db2~x2/"><circle cx="315.2" cy="212.5" r="4" fill="#3465a4"><title>Wcwm 1527-2</title></circle></a><a href="/setts/s10/k3dg4db25k16dg3k3dg3k3dg6r3~x2/"><circle cx="257.0" cy="220.9" r="4" fill="#3465a4"><title>MacAndreis (Personal)</title></circle></a><a href="/setts/s12/db16g1db1g1db1k12g1db1g1db1g6dp2~x4/"><circle cx="328.5" cy="173.1" r="4" fill="#3465a4"><title>Stephen-Mathieson</title></circle></a><a href="/setts/s18/dt3o1dp2o1k6o1dp2o1dt16k16dp1o2dp1dt6dp1o2dp1k3~x2/"><circle cx="265.9" cy="144.8" r="4" fill="#3465a4"><title>Asile</title></circle></a><a href="/setts/s9/db2k2db18t1k13t1g16db3k2~x2/"><circle cx="272.1" cy="185.7" r="4" fill="#3465a4"><title>Hebridean Old.. District Tartan Tartan Number: 249. Earliest known date: pre 2003 Alternative count on 1990 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="268.3" cy="183.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r3db14k12db40k12db2k2db2k2db7r3~x2/"><circle cx="307.3" cy="175.3" r="4" fill="#3465a4"><title>Rangers Football Club #2</title></circle></a><a href="/setts/s10/db30db3db3db3db3db10k10dg20k2w4~x2/"><circle cx="244.2" cy="183.4" r="4" fill="#3465a4"><title>St. Kentigern College (Corporate)</title></circle></a><a href="/setts/s11/r2db6lr2db2k9db30k9db5lr4db2r2~x2/"><circle cx="241.5" cy="152.3" r="4" fill="#3465a4"><title>Rangers Football Club Dress</title></circle></a><a href="/setts/s11/r3db16k12b34k12db2k2db2k2db7r3~x2/"><circle cx="234.2" cy="163.0" r="4" fill="#3465a4"><title>Rangers 1989 (Sports)</title></circle></a><a href="/setts/s11/db32k3db4k3db4k11dt4k2w3k2dt11~x2/"><circle cx="345.3" cy="183.9" r="4" fill="#3465a4"><title>Dawson-Nunes (Personal)</title></circle></a><a href="/setts/s10/db2dp26dg26db2dg3db2dg3db14dp2db2~x2/"><circle cx="315.2" cy="212.5" r="4" fill="#3465a4"><title>Wcwm 1527-2</title></circle></a><a href="/setts/s10/k3dg4db25k16dg3k3dg3k3dg6r3~x2/"><circle cx="257.1" cy="221.1" r="4" fill="#3465a4"><title>MacAndreis (Personal)</title></circle></a><a href="/setts/s12/db16g1db1g1db1k12g1db1g1db1g6dp2~x4/"><circle cx="328.5" cy="173.2" r="4" fill="#3465a4"><title>Stephen-Mathieson</title></circle></a><a href="/setts/s18/k3dp1o2dp1dt6dp1o2dp1k16dt16o1dp2o1k6o1dp2o1dt3~x2/"><circle cx="265.9" cy="144.9" r="4" fill="#3465a4"><title>Asile</title></circle></a><a href="/setts/s9/k2db3g16t1k13t1db18k2db2~x2/"><circle cx="272.2" cy="185.7" r="4" fill="#3465a4"><title>Hebridean Old.. District Tartan Tartan Number: 249. Earliest known date: pre 2003 Alternative count on 1990 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="268.4" cy="183.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/r3db16k12db34k12db2k2db2k2db7r3~x2/

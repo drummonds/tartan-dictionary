@@ -21,14 +21,14 @@ BBBKGRG
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB DP DB K G R G <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB DP DB K G R G</span></span>
+### G R G K DB DP DB <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G K DB DP DB</span></span>
 
 | Tartans |
 |---------------|
 | [Wcwm 9275-1395](/setts/s7/db6dp3db56k24g6r6g6/)|
 |![Wcwm 9275-1395 example sett](/setts/s7/db6dp3db56k24g6r6g6/sett.png)|
 
-### N T N K Y O Y <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">N T N K Y O Y</span></span>
+### Y O Y K N T N <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#636363"></span><span class="seq">Y O Y K N T N</span></span>
 
 | Tartans |
 |---------------|

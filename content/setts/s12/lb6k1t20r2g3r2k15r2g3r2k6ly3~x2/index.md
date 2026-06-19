@@ -2,12 +2,18 @@
 title: "Royal Scottish P.B. Assoc. (Corp.)"
 date: 2023-03-18
 ---
-**Bands:** [WKBRGRKRGRKY](/stripes/wkbrgrkrgrky/) · **Stripes:** [LB K T R G R K R G R K LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LB K T R G R K R G R K LY</span></span>
+**Bands:** [YKRGRKRGRBKW](/stripes/ykrgrkrgrbkw/) · **Stripes:** [LY K R G R K R G R T K LB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LY K R G R K R G R T K LB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2623/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Royal Scottish P.B. Assoc.
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -913,9 +922,9 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Royal Scottish Pipe Band Association](/setts/s12/lb6k1t20r2g3r2k15r2g3r2k6k3~x2/) — ΔT 0.38
 1. [Norham and Ladykirk](/setts/s11/dg50db12o7db12r10w7k2w7k2w7r10~x2/) — ΔT 0.73
-1. [Carr (Personal)](/setts/s11/ly2db6r5db18g18lg6g6r28lb1g3ly2~x2/) — ΔT 0.75
+1. [Carr (Personal)](/setts/s11/ly2db6r5db18g18lg6g6r28lb1g3ly2~x2/) — ΔT 0.76
 1. [Beaton (Name)](/setts/s13/r2dt18ly4k5ly1k1w1k2g8r6k1r3w1~x4/) — ΔT 0.89
-1. [Glasgow, City of Culture](/setts/s11/ly6db2ly2db23k2w4k2g21r2g2r6~x2/) — ΔT 0.94
+1. [Glasgow, City of Culture](/setts/s11/r6g2r2g21k2w4k2db23ly2db2ly6~x2/) — ΔT 0.94
 1. [Craparo](/setts/s9/r3w6ly4k25w3n30o30w3k2~x2/) — ΔT 0.95
 1. [Beaudoux - Amis Picards (District)](/setts/s11/ly4db7ly4k26g3k1g3w9r2w4r2~x2/) — ΔT 0.98
 1. [Louise of Lorne #2](/setts/s13/r4dg22k16ly2k3w3k2db20r8k2r4k1w2~x2/) — ΔT 0.98
@@ -924,8 +933,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/lb6k1t20r2g3r2k15r2g3r2k6k3~x2/"><circle cx="136.6" cy="96.5" r="4" fill="#3465a4"><title>Royal Scottish Pipe Band Association</title></circle></a><a href="/setts/s11/dg50db12o7db12r10w7k2w7k2w7r10~x2/"><circle cx="165.0" cy="84.8" r="4" fill="#3465a4"><title>Norham and Ladykirk</title></circle></a><a href="/setts/s11/ly2db6r5db18g18lg6g6r28lb1g3ly2~x2/"><circle cx="162.8" cy="92.9" r="4" fill="#3465a4"><title>Carr (Personal)</title></circle></a><a href="/setts/s13/r2dt18ly4k5ly1k1w1k2g8r6k1r3w1~x4/"><circle cx="124.6" cy="84.8" r="4" fill="#3465a4"><title>Beaton (Name)</title></circle></a><a href="/setts/s11/ly6db2ly2db23k2w4k2g21r2g2r6~x2/"><circle cx="129.8" cy="114.0" r="4" fill="#3465a4"><title>Glasgow, City of Culture</title></circle></a><a href="/setts/s9/r3w6ly4k25w3n30o30w3k2~x2/"><circle cx="115.1" cy="120.7" r="4" fill="#3465a4"><title>Craparo</title></circle></a><a href="/setts/s11/ly4db7ly4k26g3k1g3w9r2w4r2~x2/"><circle cx="163.3" cy="73.9" r="4" fill="#3465a4"><title>Beaudoux - Amis Picards (District)</title></circle></a><a href="/setts/s13/r4dg22k16ly2k3w3k2db20r8k2r4k1w2~x2/"><circle cx="121.3" cy="95.7" r="4" fill="#3465a4"><title>Louise of Lorne #2</title></circle></a><a href="/setts/s14/dr10w1do1w2o10dr8do2k17do2dr7o19k3ly1k1~x2/"><circle cx="157.8" cy="102.3" r="4" fill="#3465a4"><title>Scottish Wildcat</title></circle></a><a href="/setts/s16/w2k15n7lr7k1r1k1lr7k1w7k7n7lr7w1k1r1~x2/"><circle cx="97.5" cy="99.9" r="4" fill="#3465a4"><title>Borders (Personal)</title></circle></a><circle cx="135.1" cy="93.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/lb6k1t20r2g3r2k15r2g3r2k6k3~x2/"><circle cx="136.6" cy="96.6" r="4" fill="#3465a4"><title>Royal Scottish Pipe Band Association</title></circle></a><a href="/setts/s11/dg50db12o7db12r10w7k2w7k2w7r10~x2/"><circle cx="164.8" cy="84.9" r="4" fill="#3465a4"><title>Norham and Ladykirk</title></circle></a><a href="/setts/s11/ly2db6r5db18g18lg6g6r28lb1g3ly2~x2/"><circle cx="162.7" cy="93.0" r="4" fill="#3465a4"><title>Carr (Personal)</title></circle></a><a href="/setts/s13/r2dt18ly4k5ly1k1w1k2g8r6k1r3w1~x4/"><circle cx="124.5" cy="84.9" r="4" fill="#3465a4"><title>Beaton (Name)</title></circle></a><a href="/setts/s11/r6g2r2g21k2w4k2db23ly2db2ly6~x2/"><circle cx="129.8" cy="114.1" r="4" fill="#3465a4"><title>Glasgow, City of Culture</title></circle></a><a href="/setts/s9/r3w6ly4k25w3n30o30w3k2~x2/"><circle cx="115.0" cy="120.8" r="4" fill="#3465a4"><title>Craparo</title></circle></a><a href="/setts/s11/ly4db7ly4k26g3k1g3w9r2w4r2~x2/"><circle cx="163.2" cy="73.9" r="4" fill="#3465a4"><title>Beaudoux - Amis Picards (District)</title></circle></a><a href="/setts/s13/r4dg22k16ly2k3w3k2db20r8k2r4k1w2~x2/"><circle cx="121.3" cy="95.8" r="4" fill="#3465a4"><title>Louise of Lorne #2</title></circle></a><a href="/setts/s14/dr10w1do1w2o10dr8do2k17do2dr7o19k3ly1k1~x2/"><circle cx="157.8" cy="102.4" r="4" fill="#3465a4"><title>Scottish Wildcat</title></circle></a><a href="/setts/s16/w2k15n7lr7k1r1k1lr7k1w7k7n7lr7w1k1r1~x2/"><circle cx="97.4" cy="100.0" r="4" fill="#3465a4"><title>Borders (Personal)</title></circle></a><circle cx="135.0" cy="93.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/lb6k1t20r2g3r2k15r2g3r2k6ly3~x2/

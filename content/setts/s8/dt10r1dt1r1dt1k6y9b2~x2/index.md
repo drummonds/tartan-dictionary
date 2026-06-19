@@ -2,7 +2,7 @@
 title: "Antique 2000"
 date: 2023-03-18
 ---
-**Bands:** [BGKBRBRB](/stripes/bgkbrbrb/) · **Stripes:** [B Y K DT R DT R DT](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">B Y K DT R DT R DT</span></span>
+**Bands:** [BRBRBKGB](/stripes/brbrbkgb/) · **Stripes:** [DT R DT R DT K Y B](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DT R DT R DT K Y B</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4087
 
 ## Thread count
-B/4 LT18 K12 DB2 R2 DB2 R2 DB/20
+DB/20 R2 DB2 R2 DB2 K12 LT18 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -40,7 +40,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/4 LT18 K12 DB2 R2 DB2 R2 DB/20 tartan")
+![Tartan detail](tartan.png "DB/20 R2 DB2 R2 DB2 K12 LT18 B/4 tartan")
 
 ## Nearest tartans
 
@@ -51,16 +51,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Dunbartonshire](/setts/s9/g11k2g1r4db1r4db13t2db1~x4/) — ΔT 0.70
 1. [Curry (Personal)](/setts/s8/r3g2r6g20k15g3db18w2~x2/) — ΔT 0.79
 1. [Bailies of Bennachie (Corporate)](/setts/s7/g27r2g4r15db26k2db6~x2/) — ΔT 0.79
-1. [Mantle (Personal)](/setts/s8/g3db16w2k14g18r3g2r3~x2/) — ΔT 0.81
+1. [Mantle (Personal)](/setts/s8/r3g2r3g18k14w2db16g3~x2/) — ΔT 0.81
 1. [Stewart of Appin Htg (Clan)](/setts/s10/g8r3g3r5g26dy7t3db28r3db6~x2/) — ΔT 0.81
-1. [MacLeod Small Clan Tartan Tartan Number: 15833. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/ly1k1db10k5g7k1r1~x2/) — ΔT 0.83
+1. [MacLeod Small Clan Tartan Tartan Number: 15833. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r1k1g7k5db10k1ly1~x2/) — ΔT 0.83
 1. [Scottish Chamber Orchestra](/setts/s9/lb3db20k3db2k5db2k3y15r2~x2/) — ΔT 0.87
 1. [Scottish Chamber Orchestra, The](/setts/s9/lt3dt20k3dt2k5dt2k3y15r2~x2/) — ΔT 0.89
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db22r3db2r3db2k17g18lo4~x2/"><circle cx="188.2" cy="189.2" r="4" fill="#3465a4"><title>Scotch House 2000 Original</title></circle></a><a href="/setts/s7/db24k4r3k4dg24k4r4~x2/"><circle cx="200.8" cy="207.7" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/setts/s9/g11k2g1r4db1r4db13t2db1~x4/"><circle cx="228.4" cy="177.5" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/setts/s8/r3g2r6g20k15g3db18w2~x2/"><circle cx="163.5" cy="187.8" r="4" fill="#3465a4"><title>Curry (Personal)</title></circle></a><a href="/setts/s7/g27r2g4r15db26k2db6~x2/"><circle cx="240.8" cy="194.8" r="4" fill="#3465a4"><title>Bailies of Bennachie (Corporate)</title></circle></a><a href="/setts/s8/g3db16w2k14g18r3g2r3~x2/"><circle cx="174.5" cy="195.7" r="4" fill="#3465a4"><title>Mantle (Personal)</title></circle></a><a href="/setts/s10/g8r3g3r5g26dy7t3db28r3db6~x2/"><circle cx="221.8" cy="182.5" r="4" fill="#3465a4"><title>Stewart of Appin Htg (Clan)</title></circle></a><a href="/setts/s7/ly1k1db10k5g7k1r1~x2/"><circle cx="196.2" cy="194.4" r="4" fill="#3465a4"><title>MacLeod Small Clan Tartan Tartan Number: 15833. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/lb3db20k3db2k5db2k3y15r2~x2/"><circle cx="226.6" cy="176.8" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra</title></circle></a><a href="/setts/s9/lt3dt20k3dt2k5dt2k3y15r2~x2/"><circle cx="221.4" cy="177.9" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra, The</title></circle></a><circle cx="204.1" cy="189.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db22r3db2r3db2k17g18lo4~x2/"><circle cx="188.4" cy="189.3" r="4" fill="#3465a4"><title>Scotch House 2000 Original</title></circle></a><a href="/setts/s7/db24k4r3k4dg24k4r4~x2/"><circle cx="200.9" cy="207.8" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/setts/s9/g11k2g1r4db1r4db13t2db1~x4/"><circle cx="228.4" cy="177.6" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/setts/s8/r3g2r6g20k15g3db18w2~x2/"><circle cx="163.6" cy="187.8" r="4" fill="#3465a4"><title>Curry (Personal)</title></circle></a><a href="/setts/s7/g27r2g4r15db26k2db6~x2/"><circle cx="240.9" cy="194.9" r="4" fill="#3465a4"><title>Bailies of Bennachie (Corporate)</title></circle></a><a href="/setts/s8/r3g2r3g18k14w2db16g3~x2/"><circle cx="174.6" cy="195.8" r="4" fill="#3465a4"><title>Mantle (Personal)</title></circle></a><a href="/setts/s10/g8r3g3r5g26dy7t3db28r3db6~x2/"><circle cx="221.8" cy="182.6" r="4" fill="#3465a4"><title>Stewart of Appin Htg (Clan)</title></circle></a><a href="/setts/s7/r1k1g7k5db10k1ly1~x2/"><circle cx="196.3" cy="194.4" r="4" fill="#3465a4"><title>MacLeod Small Clan Tartan Tartan Number: 15833. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/lb3db20k3db2k5db2k3y15r2~x2/"><circle cx="226.6" cy="176.9" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra</title></circle></a><a href="/setts/s9/lt3dt20k3dt2k5dt2k3y15r2~x2/"><circle cx="221.5" cy="177.9" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra, The</title></circle></a><circle cx="204.1" cy="189.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/dt10r1dt1r1dt1k6y9b2~x2/

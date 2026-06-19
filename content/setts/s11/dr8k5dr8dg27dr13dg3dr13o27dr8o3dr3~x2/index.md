@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -903,20 +906,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Ruben Delanghe (Personal)](/setts/s10/dg14k5db2r21dg18k4db18r9k2r12/) — ΔT 0.90
-1. [Clare, County](/setts/s10/ly3dp2dg14r14dp2r14dp2dg14dp14r3~x2/) — ΔT 0.92
-1. [Clare Irish County Tartan Tartan Number: 2248. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/lo3db2g14db2r14db2r14db2g14db14r3~x2/) — ΔT 0.96
+1. [Clare, County](/setts/s10/r3dp14dg14dp2r14dp2r14dg14dp2ly3~x2/) — ΔT 0.92
+1. [Clare Irish County Tartan Tartan Number: 2248. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/r3db14g14db2r14db2r14db2g14db2lo3~x2/) — ΔT 0.96
 1. [Montrose (Macnaughton variation)](/setts/s9/db1k1r12g12k6db5r12k1db1~x4/) — ΔT 1.00
-1. [Wilson's No.199](/setts/s12/dp11r3dg15r3dp11y2dp11r3dg15r3dp11y2~x2/) — ΔT 1.17
-1. [MacQuarrie SM](/setts/s12/b1r1db1r6dg6r1dg6r1db3r6b1r1~x2/) — ΔT 1.22
+1. [Wilson's No.199](/setts/s12/dp11r3dg15r3dp11y2~x2/) — ΔT 1.17
+1. [MacQuarrie SM](/setts/s12/r1b1r6db3r1dg6r1dg6r6db1r1b1~x2/) — ΔT 1.22
+1. [MacQuarrie SM](/setts/s12/r1b1r6db3r1dg6r1dg6r6db1r1b1/) — ΔT 1.22
 1. [Invertere, (Daks)](/setts/s8/r5dg12o4db4o22dg3o4r5/) — ΔT 1.23
-1. [Matheson N](/setts/s13/r2dg2r12db10b3dg10r2dg2r2dg10r12dg2r2~x2/) — ΔT 1.24
-1. [Matheson N](/setts/s13/r2dg2r12db10b3dg10r2dg2r2dg10r12dg2r2/) — ΔT 1.24
-1. [Loch Rannoch](/setts/s8/dr24g2dr5o14g2o5o17dr2~x2/) — ΔT 1.25
+1. [Matheson N](/setts/s13/r2dg2r12dg10r2dg2r2dg10b3db10r12dg2r2~x2/) — ΔT 1.24
+1. [Matheson N](/setts/s13/r2dg2r12dg10r2dg2r2dg10b3db10r12dg2r2/) — ΔT 1.24
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dg14k5db2r21dg18k4db18r9k2r12/"><circle cx="242.8" cy="231.7" r="4" fill="#3465a4"><title>Ruben Delanghe (Personal)</title></circle></a><a href="/setts/s10/ly3dp2dg14r14dp2r14dp2dg14dp14r3~x2/"><circle cx="232.1" cy="236.2" r="4" fill="#3465a4"><title>Clare, County</title></circle></a><a href="/setts/s11/lo3db2g14db2r14db2r14db2g14db14r3~x2/"><circle cx="206.9" cy="216.3" r="4" fill="#3465a4"><title>Clare Irish County Tartan Tartan Number: 2248. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db1k1r12g12k6db5r12k1db1~x4/"><circle cx="272.8" cy="198.4" r="4" fill="#3465a4"><title>Montrose (Macnaughton variation)</title></circle></a><a href="/setts/s12/dp11r3dg15r3dp11y2dp11r3dg15r3dp11y2~x2/"><circle cx="252.6" cy="217.4" r="4" fill="#3465a4"><title>Wilson's No.199</title></circle></a><a href="/setts/s12/b1r1db1r6dg6r1dg6r1db3r6b1r1~x2/"><circle cx="249.3" cy="208.8" r="4" fill="#3465a4"><title>MacQuarrie SM</title></circle></a><a href="/setts/s8/r5dg12o4db4o22dg3o4r5/"><circle cx="285.6" cy="224.6" r="4" fill="#3465a4"><title>Invertere, (Daks)</title></circle></a><a href="/setts/s13/r2dg2r12db10b3dg10r2dg2r2dg10r12dg2r2~x2/"><circle cx="235.3" cy="208.5" r="4" fill="#3465a4"><title>Matheson N</title></circle></a><a href="/setts/s13/r2dg2r12db10b3dg10r2dg2r2dg10r12dg2r2/"><circle cx="235.3" cy="208.5" r="4" fill="#3465a4"><title>Matheson N</title></circle></a><a href="/setts/s8/dr24g2dr5o14g2o5o17dr2~x2/"><circle cx="292.6" cy="212.3" r="4" fill="#3465a4"><title>Loch Rannoch</title></circle></a><circle cx="265.7" cy="214.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dg14k5db2r21dg18k4db18r9k2r12/"><circle cx="242.8" cy="231.8" r="4" fill="#3465a4"><title>Ruben Delanghe (Personal)</title></circle></a><a href="/setts/s10/r3dp14dg14dp2r14dp2r14dg14dp2ly3~x2/"><circle cx="232.1" cy="236.3" r="4" fill="#3465a4"><title>Clare, County</title></circle></a><a href="/setts/s11/r3db14g14db2r14db2r14db2g14db2lo3~x2/"><circle cx="206.9" cy="216.3" r="4" fill="#3465a4"><title>Clare Irish County Tartan Tartan Number: 2248. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db1k1r12g12k6db5r12k1db1~x4/"><circle cx="272.7" cy="198.4" r="4" fill="#3465a4"><title>Montrose (Macnaughton variation)</title></circle></a><a href="/setts/s12/dp11r3dg15r3dp11y2~x2/"><circle cx="252.5" cy="217.3" r="4" fill="#3465a4"><title>Wilson's No.199</title></circle></a><a href="/setts/s12/r1b1r6db3r1dg6r1dg6r6db1r1b1~x2/"><circle cx="249.2" cy="208.8" r="4" fill="#3465a4"><title>MacQuarrie SM</title></circle></a><a href="/setts/s12/r1b1r6db3r1dg6r1dg6r6db1r1b1/"><circle cx="249.2" cy="208.8" r="4" fill="#3465a4"><title>MacQuarrie SM</title></circle></a><a href="/setts/s8/r5dg12o4db4o22dg3o4r5/"><circle cx="285.5" cy="224.6" r="4" fill="#3465a4"><title>Invertere, (Daks)</title></circle></a><a href="/setts/s13/r2dg2r12dg10r2dg2r2dg10b3db10r12dg2r2~x2/"><circle cx="235.2" cy="208.5" r="4" fill="#3465a4"><title>Matheson N</title></circle></a><a href="/setts/s13/r2dg2r12dg10r2dg2r2dg10b3db10r12dg2r2/"><circle cx="235.2" cy="208.5" r="4" fill="#3465a4"><title>Matheson N</title></circle></a><circle cx="265.6" cy="214.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/dr8k5dr8dg27dr13dg3dr13o27dr8o3dr3~x2/

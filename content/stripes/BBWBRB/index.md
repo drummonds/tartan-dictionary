@@ -21,7 +21,7 @@ BBWBRB
 Grouped by stripe pattern — the 7 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB DB W DB R DB <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB DB W DB R DB</span></span>
+### DB R DB W DB DB <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DB W DB DB</span></span>
 
 | Tartans |
 |---------------|
@@ -32,7 +32,7 @@ Grouped by stripe pattern — the 7 human-palette shadings of this band pattern,
 | [S.C.O.T.S.](/setts/s6/db55db18w3db2r2db6~x2/)|
 |![S.C.O.T.S. example sett](/setts/s6/db55db18w3db2r2db6~x2/sett.png)|
 
-### DT DB W DB R DB <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DT DB W DB R DB</span></span>
+### DB R DB W DB DT <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="seq">DB R DB W DB DT</span></span>
 
 | Tartans |
 |---------------|
@@ -41,38 +41,38 @@ Grouped by stripe pattern — the 7 human-palette shadings of this band pattern,
 | [U.S. Navy/Edzell (Military)](/setts/s6/dt45db7w3db27r1db7~x2/)|
 |![U.S. Navy/Edzell (Military) example sett](/setts/s6/dt45db7w3db27r1db7~x2/sett.png)|
 
-### B DB W DB R DB <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">B DB W DB R DB</span></span>
-
-| Tartans |
-|---------------|
-| [S.C.O.T.S](/setts/s6/b136db45w7db4r4db16/)|
-|![S.C.O.T.S example sett](/setts/s6/b136db45w7db4r4db16/sett.png)|
-
-### B DT W DT R DT <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">B DT W DT R DT</span></span>
-
-| Tartans |
-|---------------|
-| [Pitt (Name)](/setts/s6/b23dt18w5dt2r14dt18~x2/)|
-|![Pitt (Name) example sett](/setts/s6/b23dt18w5dt2r14dt18~x2/sett.png)|
-
-### DB B W B R B <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DB B W B R B</span></span>
+### B R B W B DB <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="seq">B R B W B DB</span></span>
 
 | Tartans |
 |---------------|
 | [Navy-Radar](/setts/s6/db51b8w4b30r1b9~x2/)|
 |![Navy-Radar example sett](/setts/s6/db51b8w4b30r1b9~x2/sett.png)|
 
-### N DT W DT R DT <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">N DT W DT R DT</span></span>
+### DB R DB W DB B <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DB R DB W DB B</span></span>
 
 | Tartans |
 |---------------|
-| [Pitt (Glasgow)](/setts/s6/n23dt18w5dt2r14dt18~x2/)|
-|![Pitt (Glasgow) example sett](/setts/s6/n23dt18w5dt2r14dt18~x2/sett.png)|
+| [S.C.O.T.S](/setts/s6/b136db45w7db4r4db16/)|
+|![S.C.O.T.S example sett](/setts/s6/b136db45w7db4r4db16/sett.png)|
 
-### T DB W DB R DB <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">T DB W DB R DB</span></span>
+### DB R DB W DB T <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">DB R DB W DB T</span></span>
 
 | Tartans |
 |---------------|
 | [Federal Bureaux of Investigation](/setts/s6/t60db19w3db2r2db7~x2/)|
 |![Federal Bureaux of Investigation example sett](/setts/s6/t60db19w3db2r2db7~x2/sett.png)|
+
+### DT R DT W DT B <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DT R DT W DT B</span></span>
+
+| Tartans |
+|---------------|
+| [Pitt (Name)](/setts/s6/b23dt18w5dt2r14dt18~x2/)|
+|![Pitt (Name) example sett](/setts/s6/b23dt18w5dt2r14dt18~x2/sett.png)|
+
+### DT R DT W DT N <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="seq">DT R DT W DT N</span></span>
+
+| Tartans |
+|---------------|
+| [Pitt (Glasgow)](/setts/s6/n23dt18w5dt2r14dt18~x2/)|
+|![Pitt (Glasgow) example sett](/setts/s6/n23dt18w5dt2r14dt18~x2/sett.png)|
 

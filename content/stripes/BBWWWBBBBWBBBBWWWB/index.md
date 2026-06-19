@@ -22,6 +22,6 @@ BBWWWBBBBWBBBBWWWB
 
 | Tartans |
 |---------------|
-| [Saltire](/setts/s18/db10b6lb6w4lb3b6db20b46db2lb2db2b46db20b6lb3w4lb6b6~x2/)|
-|![Saltire example sett](/setts/s18/db10b6lb6w4lb3b6db20b46db2lb2db2b46db20b6lb3w4lb6b6~x2/sett.png)|
+| [Saltire](/setts/s18/db10b6lb6w4lb3b6db20b46db2lb2~x2/)|
+|![Saltire example sett](/setts/s18/db10b6lb6w4lb3b6db20b46db2lb2~x2/sett.png)|
 

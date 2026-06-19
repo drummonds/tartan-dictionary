@@ -2,7 +2,7 @@
 title: "Scott, hunting"
 date: 2023-03-18
 ---
-**Bands:** [RGWGRGRR](/stripes/rgwgrgrr/) · **Stripes:** [R G W G R G O R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G W G R G O R</span></span>
+**Bands:** [RRGRGWGR](/stripes/rrgrgwgr/) · **Stripes:** [R O G R G W G R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R O G R G W G R</span></span>
 
 
 This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-R/2 G4 LN4 G4 R4 G16 T28 R/6
+R/6 T28 G16 R4 G4 LN4 G4 R/2
 ![Sett](sett.png)
 
 ## Palette
@@ -900,7 +903,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "R/2 G4 LN4 G4 R4 G16 T28 R/6 tartan")
+![Tartan detail](tartan.png "R/6 T28 G16 R4 G4 LN4 G4 R/2 tartan")
 
 ## Nearest tartans
 
@@ -908,19 +911,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Cranston, dress](/setts/s8/r30db3r2db3r6db14g26g6/) — ΔT 0.92
 1. [McCook/Cook (Name)](/setts/s7/g12t6g6r15k1r1k2~x4/) — ΔT 0.99
-1. [Lennox](/setts/s7/g2w1g10r2r10r1r2~x2/) — ΔT 1.00
+1. [Lennox](/setts/s7/r2r1r10r2g10w1g2~x2/) — ΔT 1.00
 1. [MacMillan Society of Glasgow](/setts/s9/r16k3r16g44k3g8k3ly20k4~x2/) — ΔT 1.04
-1. [Ballintrae](/setts/s7/o10r5o62dg40o5g44r10/) — ΔT 1.09
+1. [Ballintrae](/setts/s7/r10g44o5dg40o62r5o10/) — ΔT 1.09
 1. [Midpac Tissue (non woven)](/setts/s8/r5k2dg1k2r5k2dg18lo3~x2/) — ΔT 1.09
-1. [Lennox](/setts/s7/g2lr1g10r2r10r1r2~x4/) — ΔT 1.10
+1. [Lennox](/setts/s7/r2r1r10r2g10lr1g2~x4/) — ΔT 1.10
 1. [MacKintosh, Geddes](/setts/s7/db1r5g18r4db9r10w1~x4/) — ΔT 1.10
 1. [Unidentified Plaid 6](/setts/s10/r4t3r32db30r4g32r3g32r3g3~x2/) — ΔT 1.11
 1. [Scott Hunting Clan Tartan Tartan Number: 1546. Earliest known date: 1906 Also known as Green Scott, this tartan is generally available today. The Chief of the Scotts is His Grace the 9th Duke of Buccleuch and 10th of Queensberry who lives in Selkirk in the borders region of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r3dr14g8r2g2w2g2r1~x2/) — ΔT 1.12
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r30db3r2db3r6db14g26g6/"><circle cx="243.0" cy="170.0" r="4" fill="#3465a4"><title>Cranston, dress</title></circle></a><a href="/setts/s7/g12t6g6r15k1r1k2~x4/"><circle cx="249.5" cy="188.8" r="4" fill="#3465a4"><title>McCook/Cook (Name)</title></circle></a><a href="/setts/s7/g2w1g10r2r10r1r2~x2/"><circle cx="270.3" cy="191.3" r="4" fill="#3465a4"><title>Lennox</title></circle></a><a href="/setts/s9/r16k3r16g44k3g8k3ly20k4~x2/"><circle cx="237.8" cy="159.8" r="4" fill="#3465a4"><title>MacMillan Society of Glasgow</title></circle></a><a href="/setts/s7/o10r5o62dg40o5g44r10/"><circle cx="254.5" cy="207.1" r="4" fill="#3465a4"><title>Ballintrae</title></circle></a><a href="/setts/s8/r5k2dg1k2r5k2dg18lo3~x2/"><circle cx="309.4" cy="164.0" r="4" fill="#3465a4"><title>Midpac Tissue (non woven)</title></circle></a><a href="/setts/s7/g2lr1g10r2r10r1r2~x4/"><circle cx="285.3" cy="198.1" r="4" fill="#3465a4"><title>Lennox</title></circle></a><a href="/setts/s7/db1r5g18r4db9r10w1~x4/"><circle cx="249.4" cy="182.2" r="4" fill="#3465a4"><title>MacKintosh, Geddes</title></circle></a><a href="/setts/s10/r4t3r32db30r4g32r3g32r3g3~x2/"><circle cx="261.5" cy="183.0" r="4" fill="#3465a4"><title>Unidentified Plaid 6</title></circle></a><a href="/setts/s8/r3dr14g8r2g2w2g2r1~x2/"><circle cx="246.2" cy="171.1" r="4" fill="#3465a4"><title>Scott Hunting Clan Tartan Tartan Number: 1546. Earliest known date: 1906 Also known as Green Scott, this tartan is generally available today. The Chief of the Scotts is His Grace the 9th Duke of Buccleuch and 10th of Queensberry who lives in Selkirk in the borders region of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="262.4" cy="178.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r30db3r2db3r6db14g26g6/"><circle cx="242.7" cy="170.0" r="4" fill="#3465a4"><title>Cranston, dress</title></circle></a><a href="/setts/s7/g12t6g6r15k1r1k2~x4/"><circle cx="249.3" cy="188.7" r="4" fill="#3465a4"><title>McCook/Cook (Name)</title></circle></a><a href="/setts/s7/r2r1r10r2g10w1g2~x2/"><circle cx="270.0" cy="191.3" r="4" fill="#3465a4"><title>Lennox</title></circle></a><a href="/setts/s9/r16k3r16g44k3g8k3ly20k4~x2/"><circle cx="237.5" cy="159.7" r="4" fill="#3465a4"><title>MacMillan Society of Glasgow</title></circle></a><a href="/setts/s7/r10g44o5dg40o62r5o10/"><circle cx="254.3" cy="207.1" r="4" fill="#3465a4"><title>Ballintrae</title></circle></a><a href="/setts/s8/r5k2dg1k2r5k2dg18lo3~x2/"><circle cx="309.2" cy="163.9" r="4" fill="#3465a4"><title>Midpac Tissue (non woven)</title></circle></a><a href="/setts/s7/r2r1r10r2g10lr1g2~x4/"><circle cx="285.0" cy="198.1" r="4" fill="#3465a4"><title>Lennox</title></circle></a><a href="/setts/s7/db1r5g18r4db9r10w1~x4/"><circle cx="249.2" cy="182.2" r="4" fill="#3465a4"><title>MacKintosh, Geddes</title></circle></a><a href="/setts/s10/r4t3r32db30r4g32r3g32r3g3~x2/"><circle cx="261.3" cy="183.0" r="4" fill="#3465a4"><title>Unidentified Plaid 6</title></circle></a><a href="/setts/s8/r3dr14g8r2g2w2g2r1~x2/"><circle cx="246.1" cy="171.1" r="4" fill="#3465a4"><title>Scott Hunting Clan Tartan Tartan Number: 1546. Earliest known date: 1906 Also known as Green Scott, this tartan is generally available today. The Chief of the Scotts is His Grace the 9th Duke of Buccleuch and 10th of Queensberry who lives in Selkirk in the borders region of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="262.2" cy="178.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r3o14g8r2g2w2g2r1~x2/

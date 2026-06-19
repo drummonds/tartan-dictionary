@@ -2,7 +2,7 @@
 title: "Ohio"
 date: 2023-03-18
 ---
-**Bands:** [BWRBYGBBG](/stripes/bwrbygbbg/) · **Stripes:** [DB W R DB LY G B DB G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB W R DB LY G B DB G</span></span>
+**Bands:** [GBBGYBRWB](/stripes/gbbgybrwb/) · **Stripes:** [G DB B G LY DB R W DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">G DB B G LY DB R W DB</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,19 +909,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Ohio District Tartan Tartan Number: 651. Earliest known date: 1984 Design is based on the colours of Ohio's flag and state seal. The widths of the stripes in each colour are based on the date Ohio was admitted to the Union. The tartan first went on display at the Ohio Scottish Games in June 1983. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/db16w6r8db3ly1g1t3db1g9~x2/) — ΔT 0.50
 1. [Edinburgh District](/setts/s9/w3b25m3r3m3r5g10m3k2~x2/) — ΔT 0.89
-1. [Yukon](/setts/s10/p4db16ly1db1ly1db5ly4g4w4r4~x2/) — ΔT 0.92
+1. [Yukon](/setts/s10/r4w4g4ly4db5ly1db1ly1db16p4~x2/) — ΔT 0.92
 1. [Ogilvie of Inverquharity or Ohio](/setts/s9/db16w6r8db3lo1g1lg3db1g10~x4/) — ΔT 0.92
 1. [Minnesota (District)](/setts/s8/k6w3k2db30r9k4g20ly3~x2/) — ΔT 0.97
 1. [Mary, Queen of Scots](/setts/s9/r5w1db10g10w1ly1g2t2w1~x2/) — ΔT 1.02
 1. [Scottish Association for N.S. (Corp)](/setts/s9/db46ly4db4ly4db6k16o66w11r6/) — ΔT 1.02
-1. [Federated Women's Institutes of](/setts/s9/lb2k1db12g3lo4g3lo2k1r2~x4/) — ΔT 1.04
+1. [Federated Women's Institutes of](/setts/s9/r2k1lo2g3lo4g3db12k1lb2~x4/) — ΔT 1.04
 1. [State Seal of Utah (Fashion)](/setts/s8/dt48lo25dy15r7lb5dt7k10lb10~x2/) — ΔT 1.04
-1. [Hek Family (Sunningdale, Berwick on Tweed)](/setts/s9/lt1w2g12k2lt2k2n15lt2ly1~x2/) — ΔT 1.06
+1. [Hek Family (Sunningdale, Berwick on Tweed)](/setts/s9/ly1lt2n15k2lt2k2g12w2lt1~x2/) — ΔT 1.06
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db16w6r8db3ly1g1t3db1g9~x2/"><circle cx="161.0" cy="128.4" r="4" fill="#3465a4"><title>Ohio District Tartan Tartan Number: 651. Earliest known date: 1984 Design is based on the colours of Ohio's flag and state seal. The widths of the stripes in each colour are based on the date Ohio was admitted to the Union. The tartan first went on display at the Ohio Scottish Games in June 1983. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/w3b25m3r3m3r5g10m3k2~x2/"><circle cx="192.7" cy="129.5" r="4" fill="#3465a4"><title>Edinburgh District</title></circle></a><a href="/setts/s10/p4db16ly1db1ly1db5ly4g4w4r4~x2/"><circle cx="202.4" cy="118.0" r="4" fill="#3465a4"><title>Yukon</title></circle></a><a href="/setts/s9/db16w6r8db3lo1g1lg3db1g10~x4/"><circle cx="148.1" cy="125.5" r="4" fill="#3465a4"><title>Ogilvie of Inverquharity or Ohio</title></circle></a><a href="/setts/s8/k6w3k2db30r9k4g20ly3~x2/"><circle cx="154.7" cy="132.9" r="4" fill="#3465a4"><title>Minnesota (District)</title></circle></a><a href="/setts/s9/r5w1db10g10w1ly1g2t2w1~x2/"><circle cx="136.3" cy="142.8" r="4" fill="#3465a4"><title>Mary, Queen of Scots</title></circle></a><a href="/setts/s9/db46ly4db4ly4db6k16o66w11r6/"><circle cx="194.8" cy="111.0" r="4" fill="#3465a4"><title>Scottish Association for N.S. (Corp)</title></circle></a><a href="/setts/s9/lb2k1db12g3lo4g3lo2k1r2~x4/"><circle cx="142.0" cy="136.9" r="4" fill="#3465a4"><title>Federated Women's Institutes of</title></circle></a><a href="/setts/s8/dt48lo25dy15r7lb5dt7k10lb10~x2/"><circle cx="157.9" cy="163.0" r="4" fill="#3465a4"><title>State Seal of Utah (Fashion)</title></circle></a><a href="/setts/s9/lt1w2g12k2lt2k2n15lt2ly1~x2/"><circle cx="182.5" cy="123.8" r="4" fill="#3465a4"><title>Hek Family (Sunningdale, Berwick on Tweed)</title></circle></a><circle cx="164.8" cy="129.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db16w6r8db3ly1g1t3db1g9~x2/"><circle cx="160.9" cy="128.5" r="4" fill="#3465a4"><title>Ohio District Tartan Tartan Number: 651. Earliest known date: 1984 Design is based on the colours of Ohio's flag and state seal. The widths of the stripes in each colour are based on the date Ohio was admitted to the Union. The tartan first went on display at the Ohio Scottish Games in June 1983. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/w3b25m3r3m3r5g10m3k2~x2/"><circle cx="192.6" cy="129.6" r="4" fill="#3465a4"><title>Edinburgh District</title></circle></a><a href="/setts/s10/r4w4g4ly4db5ly1db1ly1db16p4~x2/"><circle cx="202.3" cy="118.0" r="4" fill="#3465a4"><title>Yukon</title></circle></a><a href="/setts/s9/db16w6r8db3lo1g1lg3db1g10~x4/"><circle cx="148.1" cy="125.6" r="4" fill="#3465a4"><title>Ogilvie of Inverquharity or Ohio</title></circle></a><a href="/setts/s8/k6w3k2db30r9k4g20ly3~x2/"><circle cx="154.7" cy="132.9" r="4" fill="#3465a4"><title>Minnesota (District)</title></circle></a><a href="/setts/s9/r5w1db10g10w1ly1g2t2w1~x2/"><circle cx="136.3" cy="142.8" r="4" fill="#3465a4"><title>Mary, Queen of Scots</title></circle></a><a href="/setts/s9/db46ly4db4ly4db6k16o66w11r6/"><circle cx="194.6" cy="111.1" r="4" fill="#3465a4"><title>Scottish Association for N.S. (Corp)</title></circle></a><a href="/setts/s9/r2k1lo2g3lo4g3db12k1lb2~x4/"><circle cx="142.0" cy="137.0" r="4" fill="#3465a4"><title>Federated Women's Institutes of</title></circle></a><a href="/setts/s8/dt48lo25dy15r7lb5dt7k10lb10~x2/"><circle cx="157.9" cy="163.0" r="4" fill="#3465a4"><title>State Seal of Utah (Fashion)</title></circle></a><a href="/setts/s9/ly1lt2n15k2lt2k2g12w2lt1~x2/"><circle cx="182.4" cy="123.9" r="4" fill="#3465a4"><title>Hek Family (Sunningdale, Berwick on Tweed)</title></circle></a><circle cx="164.7" cy="129.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/db16w6r8db3ly1g1b3db1g9~x2/

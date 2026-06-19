@@ -20,7 +20,7 @@ GYGYY
 
 
 
-### DG LO DG LO LY <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DG LO DG LO LY</span></span>
+### LY LO DG LO DG <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="seq">LY LO DG LO DG</span></span>
 
 | Tartans |
 |---------------|

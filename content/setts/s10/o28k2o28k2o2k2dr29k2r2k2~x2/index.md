@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/4 R4 K4 DR58 K4 LT4 K4 LT56 K4 LT/56
+LT/56 K4 LT56 K4 LT4 K4 DR58 K4 R4 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -908,15 +911,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Glendronach Distillery](/setts/s10/dg22o2lb1lo3o1dg6o22lo3o1dg10~x4/) — ΔT 1.05
 1. [Chisholm Hunting (HSL) Clan Tartan Tartan Number: 1457. Earliest known date: c.1815 Possibly the true source of the Vestiarium Scoticum sett with crimson changed to red. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/m7w2m32db7g3db2g3db2g16m3~x2/) — ΔT 1.11
 1. [MacDonell of Keppoch](/setts/s10/dg2r2db1r24b1db6r3dg12r4db1~x2/) — ΔT 1.13
+1. [MacDonell of Keppoch](/setts/s10/dg2r2db1r24b1db6r3dg12r4db1/) — ΔT 1.13
 1. [Grant D](/setts/s15/r3db1r1dg10r1dg1r1db3r1b1r12db1r1db1r3~x4/) — ΔT 1.16
 1. [Grant D](/setts/s15/r3db1r1dg10r1dg1r1db3r1b1r12db1r1db1r3~x2/) — ΔT 1.16
 1. [Chisholm Hunting](/setts/s10/r7w2r32db7dg3db2dg3db2dg16r3~x2/) — ΔT 1.18
-1. [Gallmore (Fashion)](/setts/s9/o3k14r3k14t3r32k2r6k2~x2/) — ΔT 1.18
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r7w2r32db7g3db2g3db2g16r3~x2/"><circle cx="345.1" cy="151.0" r="4" fill="#3465a4"><title>Chisholm, hunting</title></circle></a><a href="/setts/s10/dr22g11k2g4k2g6k16dr40dr2lb6~x2/"><circle cx="363.2" cy="160.4" r="4" fill="#3465a4"><title>Stewart of Bute Hunting</title></circle></a><a href="/setts/s10/do22ly11do2ly4do2ly6do16do40do2lr6~x2/"><circle cx="349.4" cy="157.1" r="4" fill="#3465a4"><title>Kenmore (Fashion)</title></circle></a><a href="/setts/s10/dg22o2lb1lo3o1dg6o22lo3o1dg10~x4/"><circle cx="360.9" cy="154.8" r="4" fill="#3465a4"><title>Glendronach Distillery</title></circle></a><a href="/setts/s10/m7w2m32db7g3db2g3db2g16m3~x2/"><circle cx="350.5" cy="151.4" r="4" fill="#3465a4"><title>Chisholm Hunting (HSL) Clan Tartan Tartan Number: 1457. Earliest known date: c.1815 Possibly the true source of the Vestiarium Scoticum sett with crimson changed to red. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/dg2r2db1r24b1db6r3dg12r4db1~x2/"><circle cx="398.5" cy="136.2" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s15/r3db1r1dg10r1dg1r1db3r1b1r12db1r1db1r3~x4/"><circle cx="345.4" cy="143.8" r="4" fill="#3465a4"><title>Grant D</title></circle></a><a href="/setts/s15/r3db1r1dg10r1dg1r1db3r1b1r12db1r1db1r3~x2/"><circle cx="345.4" cy="143.8" r="4" fill="#3465a4"><title>Grant D</title></circle></a><a href="/setts/s10/r7w2r32db7dg3db2dg3db2dg16r3~x2/"><circle cx="368.5" cy="162.8" r="4" fill="#3465a4"><title>Chisholm Hunting</title></circle></a><a href="/setts/s9/o3k14r3k14t3r32k2r6k2~x2/"><circle cx="357.8" cy="168.3" r="4" fill="#3465a4"><title>Gallmore (Fashion)</title></circle></a><circle cx="369.5" cy="156.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r7w2r32db7g3db2g3db2g16r3~x2/"><circle cx="344.8" cy="151.0" r="4" fill="#3465a4"><title>Chisholm, hunting</title></circle></a><a href="/setts/s10/dr22g11k2g4k2g6k16dr40dr2lb6~x2/"><circle cx="363.1" cy="160.3" r="4" fill="#3465a4"><title>Stewart of Bute Hunting</title></circle></a><a href="/setts/s10/do22ly11do2ly4do2ly6do16do40do2lr6~x2/"><circle cx="349.2" cy="157.0" r="4" fill="#3465a4"><title>Kenmore (Fashion)</title></circle></a><a href="/setts/s10/dg22o2lb1lo3o1dg6o22lo3o1dg10~x4/"><circle cx="360.7" cy="154.7" r="4" fill="#3465a4"><title>Glendronach Distillery</title></circle></a><a href="/setts/s10/m7w2m32db7g3db2g3db2g16m3~x2/"><circle cx="350.2" cy="151.3" r="4" fill="#3465a4"><title>Chisholm Hunting (HSL) Clan Tartan Tartan Number: 1457. Earliest known date: c.1815 Possibly the true source of the Vestiarium Scoticum sett with crimson changed to red. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/dg2r2db1r24b1db6r3dg12r4db1~x2/"><circle cx="398.2" cy="136.1" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s10/dg2r2db1r24b1db6r3dg12r4db1/"><circle cx="398.2" cy="136.1" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s15/r3db1r1dg10r1dg1r1db3r1b1r12db1r1db1r3~x4/"><circle cx="345.1" cy="143.7" r="4" fill="#3465a4"><title>Grant D</title></circle></a><a href="/setts/s15/r3db1r1dg10r1dg1r1db3r1b1r12db1r1db1r3~x2/"><circle cx="345.1" cy="143.7" r="4" fill="#3465a4"><title>Grant D</title></circle></a><a href="/setts/s10/r7w2r32db7dg3db2dg3db2dg16r3~x2/"><circle cx="368.2" cy="162.8" r="4" fill="#3465a4"><title>Chisholm Hunting</title></circle></a><circle cx="369.3" cy="156.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/o28k2o28k2o2k2dr29k2r2k2~x2/

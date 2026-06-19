@@ -2,7 +2,7 @@
 title: "Cooper"
 date: 2023-03-18
 ---
-**Bands:** [RBRBKBGRBRKBGBGBRR](/stripes/rbrbkbgrbrkbgbgbrr/) · **Stripes:** [R DB R DB K DB G R DB R K DB G DB G DB R R](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB R DB K DB G R DB R K DB G DB G DB R R</span></span>
+**Bands:** [RRBGBGBKRBRGBKBRBR](/stripes/rrbgbgbkrbrgbkbrbr/) · **Stripes:** [R R DB G DB G DB K R DB R G DB K DB R DB R](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R DB G DB G DB K R DB R G DB K DB R DB R</span></span>
 
 
 This was sourced from weddslist.  It is a [18 band tartan](/bands/bands18/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,7 +909,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Rankin, John (Personal)](/setts/s16/t2k1dg15w2dg15k1t2k1r2k20t2k2t2k2t25k1~x2/) — ΔT 0.88
 1. [Shepherd, (Name)](/setts/s19/g40dy5k40lr8g1lr1g1dy2g1dy2g1lr1g1lr7g1k15lr5g1lr10~x2/) — ΔT 1.07
 1. [MacDonald of Clanranald 3](/setts/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/) — ΔT 1.10
-1. [Sutherland](/setts/s22/g6w2g24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12g24w2~x2/) — ΔT 1.10
+1. [Sutherland](/setts/s22/g6w2g24k12db3k2db2k2db12r1db1r3~x2/) — ΔT 1.10
 1. [Scottish Islamic](/setts/s18/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2~x2/) — ΔT 1.12
 1. [Cochrane Hunting](/setts/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/) — ΔT 1.21
 1. [Jardine, dress](/setts/s12/r26k2r6k2r6k20w2db44w2k6g64k3/) — ΔT 1.22
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/t2k1dg15w2dg15k1t2k1r2k20t2k2t2k2t25k1~x2/"><circle cx="225.8" cy="100.4" r="4" fill="#3465a4"><title>Rankin, John (Personal)</title></circle></a><a href="/setts/s19/g40dy5k40lr8g1lr1g1dy2g1dy2g1lr1g1lr7g1k15lr5g1lr10~x2/"><circle cx="266.2" cy="72.2" r="4" fill="#3465a4"><title>Shepherd, (Name)</title></circle></a><a href="/setts/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/"><circle cx="198.1" cy="91.2" r="4" fill="#3465a4"><title>MacDonald of Clanranald 3</title></circle></a><a href="/setts/s22/g6w2g24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12g24w2~x2/"><circle cx="226.2" cy="97.6" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/setts/s18/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2~x2/"><circle cx="182.5" cy="87.7" r="4" fill="#3465a4"><title>Scottish Islamic</title></circle></a><a href="/setts/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/"><circle cx="197.7" cy="104.6" r="4" fill="#3465a4"><title>Cochrane Hunting</title></circle></a><a href="/setts/s12/r26k2r6k2r6k20w2db44w2k6g64k3/"><circle cx="192.6" cy="85.2" r="4" fill="#3465a4"><title>Jardine, dress</title></circle></a><a href="/setts/s12/k4w1db26k5db5k32g23k2r4k2g13k1~x2/"><circle cx="222.4" cy="109.3" r="4" fill="#3465a4"><title>Young, Melvina (Artefact)</title></circle></a><a href="/setts/s16/g19k1g3k1g3k9db20k1ly1k7ly1k1db21k12g2g1~x2/"><circle cx="213.2" cy="113.2" r="4" fill="#3465a4"><title>Hope Vere Family Tartan Tartan Number: 759. Earliest known date: c.1815 Hopetoun House, South Queensferry, home of the Marquesses of Linlithgow, was built by Robert Adam. The Highland Society of London collected specimens of tartan sealed with the signature of the Clan Chief or Head of the family, from 1815 onwards. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/db2lp4r2g24db4g2db4k10lp4db2lp4g8db1k1db22lp4db2r2~x2/"><circle cx="198.5" cy="97.1" r="4" fill="#3465a4"><title>Couper of Gogar</title></circle></a><circle cx="226.8" cy="70.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/t2k1dg15w2dg15k1t2k1r2k20t2k2t2k2t25k1~x2/"><circle cx="225.7" cy="100.5" r="4" fill="#3465a4"><title>Rankin, John (Personal)</title></circle></a><a href="/setts/s19/g40dy5k40lr8g1lr1g1dy2g1dy2g1lr1g1lr7g1k15lr5g1lr10~x2/"><circle cx="266.0" cy="72.2" r="4" fill="#3465a4"><title>Shepherd, (Name)</title></circle></a><a href="/setts/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/"><circle cx="198.1" cy="91.3" r="4" fill="#3465a4"><title>MacDonald of Clanranald 3</title></circle></a><a href="/setts/s22/g6w2g24k12db3k2db2k2db12r1db1r3~x2/"><circle cx="226.1" cy="97.7" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/setts/s18/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2~x2/"><circle cx="182.5" cy="87.8" r="4" fill="#3465a4"><title>Scottish Islamic</title></circle></a><a href="/setts/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/"><circle cx="197.7" cy="104.7" r="4" fill="#3465a4"><title>Cochrane Hunting</title></circle></a><a href="/setts/s12/r26k2r6k2r6k20w2db44w2k6g64k3/"><circle cx="192.5" cy="85.2" r="4" fill="#3465a4"><title>Jardine, dress</title></circle></a><a href="/setts/s12/k4w1db26k5db5k32g23k2r4k2g13k1~x2/"><circle cx="222.4" cy="109.3" r="4" fill="#3465a4"><title>Young, Melvina (Artefact)</title></circle></a><a href="/setts/s16/g19k1g3k1g3k9db20k1ly1k7ly1k1db21k12g2g1~x2/"><circle cx="213.2" cy="113.3" r="4" fill="#3465a4"><title>Hope Vere Family Tartan Tartan Number: 759. Earliest known date: c.1815 Hopetoun House, South Queensferry, home of the Marquesses of Linlithgow, was built by Robert Adam. The Highland Society of London collected specimens of tartan sealed with the signature of the Clan Chief or Head of the family, from 1815 onwards. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/db2lp4r2g24db4g2db4k10lp4db2lp4g8db1k1db22lp4db2r2~x2/"><circle cx="198.5" cy="97.2" r="4" fill="#3465a4"><title>Couper of Gogar</title></circle></a><circle cx="226.7" cy="70.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s18/r2r3db2g32db3g1db3k14r3db2r3g12db1k1db30r3db2r2~x2/

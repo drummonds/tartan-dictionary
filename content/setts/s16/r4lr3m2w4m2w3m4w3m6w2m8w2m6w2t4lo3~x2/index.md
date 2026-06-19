@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10735
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Bradwell, Carl
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -44,7 +50,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Bradwell, Amy (Personal) XXXXXXXXXX](/setts/s16/r4o3dp2lb4dp2lb3dp4lb3dp6lb2dp8lb2dp6lb2t4lo3~x2/) — ΔT 0.98
 1. [Ogilvie #2](/setts/s14/db13r5db12ly4k5r20w4r10w4r20db5ly4db13r4~x2/) — ΔT 1.34
-1. [Hueg (Formal) (Personal)](/setts/s11/b4dt3b13g8r12g4r12b4r5w4r4~x2/) — ΔT 1.36
+1. [Hueg (Formal) (Personal)](/setts/s11/r4w4r5b4r12g4r12g8b13dt3b4~x2/) — ΔT 1.36
 1. [Ogilvy](/setts/s14/lb10r3lb10ly5k2r6lb2r6lb2r6db2ly2lb5lr2/) — ΔT 1.40
 1. [Hueg (Munich) Formal (Personal)](/setts/s11/r4w4r5t4r12dg4r12dg8t13dp3t4~x2/) — ΔT 1.49
 1. [British Columbia](/setts/s12/g2k1g4lr4ly1lr4r4k1r4lr2r4w1~x4/) — ΔT 1.64
@@ -55,8 +61,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/r4o3dp2lb4dp2lb3dp4lb3dp6lb2dp8lb2dp6lb2t4lo3~x2/"><circle cx="110.1" cy="183.1" r="4" fill="#3465a4"><title>Bradwell, Amy (Personal) XXXXXXXXXX</title></circle></a><a href="/setts/s14/db13r5db12ly4k5r20w4r10w4r20db5ly4db13r4~x2/"><circle cx="147.3" cy="160.6" r="4" fill="#3465a4"><title>Ogilvie #2</title></circle></a><a href="/setts/s11/b4dt3b13g8r12g4r12b4r5w4r4~x2/"><circle cx="127.1" cy="198.2" r="4" fill="#3465a4"><title>Hueg (Formal) (Personal)</title></circle></a><a href="/setts/s14/lb10r3lb10ly5k2r6lb2r6lb2r6db2ly2lb5lr2/"><circle cx="121.4" cy="155.1" r="4" fill="#3465a4"><title>Ogilvy</title></circle></a><a href="/setts/s11/r4w4r5t4r12dg4r12dg8t13dp3t4~x2/"><circle cx="141.0" cy="201.8" r="4" fill="#3465a4"><title>Hueg (Munich) Formal (Personal)</title></circle></a><a href="/setts/s12/g2k1g4lr4ly1lr4r4k1r4lr2r4w1~x4/"><circle cx="71.6" cy="197.0" r="4" fill="#3465a4"><title>British Columbia</title></circle></a><a href="/setts/s14/b10r3b10ly5k2r6lr2r6lr2r6n2ly2b5lr2~x2/"><circle cx="114.4" cy="180.8" r="4" fill="#3465a4"><title>Ogilvy</title></circle></a><a href="/setts/s14/b10r3b10ly5k2r6lr2r6lr2r6n2ly2b5lr2/"><circle cx="114.4" cy="180.8" r="4" fill="#3465a4"><title>Ogilvy</title></circle></a><a href="/setts/s12/g2k1g4t4ly1t4r4k1r4t2r4w1~x4/"><circle cx="69.2" cy="197.6" r="4" fill="#3465a4"><title>British Columbia</title></circle></a><a href="/setts/s26/lb6ly2k2r9w2r6w2r9k2ly2lb6r2lb6r2lb6ly2k2r9w2r6w2r9k2ly2lb6w2~x2/"><circle cx="131.2" cy="143.5" r="4" fill="#3465a4"><title>Ogilvie (D.C. Stewart) #2</title></circle></a><circle cx="108.8" cy="182.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/r4o3dp2lb4dp2lb3dp4lb3dp6lb2dp8lb2dp6lb2t4lo3~x2/"><circle cx="109.9" cy="183.1" r="4" fill="#3465a4"><title>Bradwell, Amy (Personal) XXXXXXXXXX</title></circle></a><a href="/setts/s14/db13r5db12ly4k5r20w4r10w4r20db5ly4db13r4~x2/"><circle cx="147.1" cy="160.6" r="4" fill="#3465a4"><title>Ogilvie #2</title></circle></a><a href="/setts/s11/r4w4r5b4r12g4r12g8b13dt3b4~x2/"><circle cx="127.0" cy="198.3" r="4" fill="#3465a4"><title>Hueg (Formal) (Personal)</title></circle></a><a href="/setts/s14/lb10r3lb10ly5k2r6lb2r6lb2r6db2ly2lb5lr2/"><circle cx="121.0" cy="155.1" r="4" fill="#3465a4"><title>Ogilvy</title></circle></a><a href="/setts/s11/r4w4r5t4r12dg4r12dg8t13dp3t4~x2/"><circle cx="140.9" cy="201.9" r="4" fill="#3465a4"><title>Hueg (Munich) Formal (Personal)</title></circle></a><a href="/setts/s12/g2k1g4lr4ly1lr4r4k1r4lr2r4w1~x4/"><circle cx="71.6" cy="197.1" r="4" fill="#3465a4"><title>British Columbia</title></circle></a><a href="/setts/s14/b10r3b10ly5k2r6lr2r6lr2r6n2ly2b5lr2~x2/"><circle cx="114.4" cy="180.9" r="4" fill="#3465a4"><title>Ogilvy</title></circle></a><a href="/setts/s14/b10r3b10ly5k2r6lr2r6lr2r6n2ly2b5lr2/"><circle cx="114.4" cy="180.9" r="4" fill="#3465a4"><title>Ogilvy</title></circle></a><a href="/setts/s12/g2k1g4t4ly1t4r4k1r4t2r4w1~x4/"><circle cx="69.2" cy="197.7" r="4" fill="#3465a4"><title>British Columbia</title></circle></a><a href="/setts/s26/lb6ly2k2r9w2r6w2r9k2ly2lb6r2lb6r2lb6ly2k2r9w2r6w2r9k2ly2lb6w2~x2/"><circle cx="130.8" cy="143.5" r="4" fill="#3465a4"><title>Ogilvie (D.C. Stewart) #2</title></circle></a><circle cx="108.6" cy="182.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/r4lr3m2w4m2w3m4w3m6w2m8w2m6w2t4lo3~x2/

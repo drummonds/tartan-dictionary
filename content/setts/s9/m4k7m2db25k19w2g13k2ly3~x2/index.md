@@ -29,21 +29,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [St. Andrews Golf Club (Corporate)](/setts/s9/lo1g3lb1g5k1g1k9db12w1~x4/) — ΔT 0.54
+1. [St. Andrews Golf Club (Corporate)](/setts/s9/w1db12k9g1k1g5lb1g3lo1~x4/) — ΔT 0.54
 1. [St Columba](/setts/s8/db60t5w4o12g42p12t5p12/) — ΔT 0.67
-1. [Loch Awe](/setts/s9/lb3k2r3g20k24db20r3k2ly3~x2/) — ΔT 0.68
+1. [Loch Awe](/setts/s9/ly3k2r3db20k24g20r3k2lb3~x2/) — ΔT 0.68
 1. [Souza Nery (Personal)](/setts/s7/ly4g22r3k17r3db37w3~x2/) — ΔT 0.74
-1. [Harvey of Cornwall (Personal)](/setts/s7/w10k52db52dg24ly10dg5r5/) — ΔT 0.77
-1. [Stephenson (Name)](/setts/s11/k6g20b2r5b2k20lo3db20g26r3db5~x2/) — ΔT 0.80
+1. [Harvey of Cornwall (Personal)](/setts/s7/w10k52db52dg24ly10dg5r5/) — ΔT 0.78
+1. [Stephenson (Name)](/setts/s11/k6g20b2r5b2k20lo3db20g26r3db5~x2/) — ΔT 0.81
 1. [St Andrews Golf Club](/setts/s9/r1dg3t1dg5k1dg1k9db12w1~x4/) — ΔT 0.82
 1. [Ayre (Personal)](/setts/s8/ly3y14k9r2k9db18k3w1~x2/) — ΔT 0.87
-1. [Tantallon #2](/setts/s10/ly3k22r7k2dg10k2r7k2db22w3~x2/) — ΔT 0.87
+1. [Tantallon #2](/setts/s10/w3db22k2r7k2dg10k2r7k22ly3~x2/) — ΔT 0.87
 1. [Scottish Cultural Society (Corporate](/setts/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/) — ΔT 0.91
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lo1g3lb1g5k1g1k9db12w1~x4/"><circle cx="164.3" cy="149.6" r="4" fill="#3465a4"><title>St. Andrews Golf Club (Corporate)</title></circle></a><a href="/setts/s8/db60t5w4o12g42p12t5p12/"><circle cx="166.5" cy="137.5" r="4" fill="#3465a4"><title>St Columba</title></circle></a><a href="/setts/s9/lb3k2r3g20k24db20r3k2ly3~x2/"><circle cx="145.1" cy="144.2" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/setts/s7/ly4g22r3k17r3db37w3~x2/"><circle cx="176.2" cy="155.4" r="4" fill="#3465a4"><title>Souza Nery (Personal)</title></circle></a><a href="/setts/s7/w10k52db52dg24ly10dg5r5/"><circle cx="123.4" cy="167.3" r="4" fill="#3465a4"><title>Harvey of Cornwall (Personal)</title></circle></a><a href="/setts/s11/k6g20b2r5b2k20lo3db20g26r3db5~x2/"><circle cx="166.9" cy="147.8" r="4" fill="#3465a4"><title>Stephenson (Name)</title></circle></a><a href="/setts/s9/r1dg3t1dg5k1dg1k9db12w1~x4/"><circle cx="157.8" cy="147.2" r="4" fill="#3465a4"><title>St Andrews Golf Club</title></circle></a><a href="/setts/s8/ly3y14k9r2k9db18k3w1~x2/"><circle cx="159.3" cy="153.4" r="4" fill="#3465a4"><title>Ayre (Personal)</title></circle></a><a href="/setts/s10/ly3k22r7k2dg10k2r7k2db22w3~x2/"><circle cx="125.3" cy="140.3" r="4" fill="#3465a4"><title>Tantallon #2</title></circle></a><a href="/setts/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/"><circle cx="108.6" cy="165.7" r="4" fill="#3465a4"><title>Scottish Cultural Society (Corporate</title></circle></a><circle cx="152.2" cy="147.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w1db12k9g1k1g5lb1g3lo1~x4/"><circle cx="164.5" cy="149.8" r="4" fill="#3465a4"><title>St. Andrews Golf Club (Corporate)</title></circle></a><a href="/setts/s8/db60t5w4o12g42p12t5p12/"><circle cx="166.6" cy="137.6" r="4" fill="#3465a4"><title>St Columba</title></circle></a><a href="/setts/s9/ly3k2r3db20k24g20r3k2lb3~x2/"><circle cx="145.2" cy="144.4" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/setts/s7/ly4g22r3k17r3db37w3~x2/"><circle cx="176.3" cy="155.4" r="4" fill="#3465a4"><title>Souza Nery (Personal)</title></circle></a><a href="/setts/s7/w10k52db52dg24ly10dg5r5/"><circle cx="123.6" cy="167.4" r="4" fill="#3465a4"><title>Harvey of Cornwall (Personal)</title></circle></a><a href="/setts/s11/k6g20b2r5b2k20lo3db20g26r3db5~x2/"><circle cx="167.0" cy="147.9" r="4" fill="#3465a4"><title>Stephenson (Name)</title></circle></a><a href="/setts/s9/r1dg3t1dg5k1dg1k9db12w1~x4/"><circle cx="158.0" cy="147.4" r="4" fill="#3465a4"><title>St Andrews Golf Club</title></circle></a><a href="/setts/s8/ly3y14k9r2k9db18k3w1~x2/"><circle cx="159.5" cy="153.5" r="4" fill="#3465a4"><title>Ayre (Personal)</title></circle></a><a href="/setts/s10/w3db22k2r7k2dg10k2r7k22ly3~x2/"><circle cx="125.4" cy="140.4" r="4" fill="#3465a4"><title>Tantallon #2</title></circle></a><a href="/setts/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/"><circle cx="108.7" cy="165.8" r="4" fill="#3465a4"><title>Scottish Cultural Society (Corporate</title></circle></a><circle cx="152.4" cy="147.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/m4k7m2db25k19w2g13k2ly3~x2/

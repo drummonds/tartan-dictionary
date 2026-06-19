@@ -8,7 +8,7 @@ RBGBBBGY
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/lo2g6b9db30b9g15db6r2~x2/tartan.png)
+![Woven sample](/setts/s8/r2db6g15b9db30b9g6lo2~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RBGBBBGY
 
 | Tartans |
 |---------------|
-| [Miller](/setts/s8/lo2g6b9db30b9g15db6r2~x2/)|
-|![Miller example sett](/setts/s8/lo2g6b9db30b9g15db6r2~x2/sett.png)|
+| [Miller](/setts/s8/r2db6g15b9db30b9g6lo2~x2/)|
+|![Miller example sett](/setts/s8/r2db6g15b9db30b9g6lo2~x2/sett.png)|
 

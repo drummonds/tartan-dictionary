@@ -2,12 +2,18 @@
 title: "Gillies, Blue dress"
 date: 2023-03-18
 ---
-**Bands:** [GWGWKBYBKR](/stripes/gwgwkbybkr/) · **Stripes:** [G W G W K T LY T K R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">G W G W K T LY T K R</span></span>
+**Bands:** [RKBYBKWGWG](/stripes/rkbybkwgwg/) · **Stripes:** [R K T LY T K W G W G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K T LY T K W G W G</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Gillies, Blue dress
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/4 LN8 G4 LN56 K26 B20 Y10 B32 K4 R/14
+R/14 K4 B32 Y10 B20 K26 LN56 G4 LN8 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -924,8 +933,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly6k2t15r5t9k13w25db2w3db2~x2/"><circle cx="87.7" cy="114.8" r="4" fill="#3465a4"><title>Gillies, dress Blue</title></circle></a><a href="/setts/s10/r7k2t16ly5t10k13w28dg2w4dg4~x2/"><circle cx="93.8" cy="110.4" r="4" fill="#3465a4"><title>Gillies Dress Blue #1 (Dance)</title></circle></a><a href="/setts/s12/db3o2b12db14r2db4dy6o4w24r2w2db3~x2/"><circle cx="93.6" cy="101.8" r="4" fill="#3465a4"><title>Lashbrooke of Barrowfield (Personal)</title></circle></a><a href="/setts/s9/g5db22g6k10w24ly2db2w2r2~x2/"><circle cx="105.3" cy="117.6" r="4" fill="#3465a4"><title>Haymarket, dress Blue</title></circle></a><a href="/setts/s10/w4g3w19g8k1r4k1db18k1lo2~x2/"><circle cx="137.7" cy="88.4" r="4" fill="#3465a4"><title>Alberta Dress</title></circle></a><a href="/setts/s8/db5w30lr9k9dp9g2dp2g5~x2/"><circle cx="131.9" cy="106.9" r="4" fill="#3465a4"><title>Alexander of Menstry Dress</title></circle></a><a href="/setts/s10/ly4db25g3k3g3k3g13w24k2r3~x2/"><circle cx="87.9" cy="109.8" r="4" fill="#3465a4"><title>MacLeod, Californian</title></circle></a><a href="/setts/s8/db2w12k8g8r2g8k1lo2~x2/"><circle cx="98.1" cy="144.7" r="4" fill="#3465a4"><title>MacLaren Dress</title></circle></a><a href="/setts/s12/db3w3r3w24ly4dy6db3r2db16b12ly2db3~x2/"><circle cx="89.6" cy="98.2" r="4" fill="#3465a4"><title>Lashbrooke of Barrowfield</title></circle></a><a href="/setts/s12/g4w28lb3w3k16lb4o10n4k14r2k2r3/"><circle cx="87.2" cy="81.7" r="4" fill="#3465a4"><title>Edinburgh Zoo Panda (Comm)</title></circle></a><circle cx="101.6" cy="109.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly6k2t15r5t9k13w25db2w3db2~x2/"><circle cx="87.5" cy="114.8" r="4" fill="#3465a4"><title>Gillies, dress Blue</title></circle></a><a href="/setts/s10/r7k2t16ly5t10k13w28dg2w4dg4~x2/"><circle cx="93.6" cy="110.4" r="4" fill="#3465a4"><title>Gillies Dress Blue #1 (Dance)</title></circle></a><a href="/setts/s12/db3o2b12db14r2db4dy6o4w24r2w2db3~x2/"><circle cx="93.4" cy="101.9" r="4" fill="#3465a4"><title>Lashbrooke of Barrowfield (Personal)</title></circle></a><a href="/setts/s9/g5db22g6k10w24ly2db2w2r2~x2/"><circle cx="105.3" cy="117.6" r="4" fill="#3465a4"><title>Haymarket, dress Blue</title></circle></a><a href="/setts/s10/w4g3w19g8k1r4k1db18k1lo2~x2/"><circle cx="137.5" cy="88.4" r="4" fill="#3465a4"><title>Alberta Dress</title></circle></a><a href="/setts/s8/db5w30lr9k9dp9g2dp2g5~x2/"><circle cx="131.7" cy="106.9" r="4" fill="#3465a4"><title>Alexander of Menstry Dress</title></circle></a><a href="/setts/s10/ly4db25g3k3g3k3g13w24k2r3~x2/"><circle cx="87.8" cy="109.8" r="4" fill="#3465a4"><title>MacLeod, Californian</title></circle></a><a href="/setts/s8/db2w12k8g8r2g8k1lo2~x2/"><circle cx="98.0" cy="144.7" r="4" fill="#3465a4"><title>MacLaren Dress</title></circle></a><a href="/setts/s12/db3w3r3w24ly4dy6db3r2db16b12ly2db3~x2/"><circle cx="89.5" cy="98.2" r="4" fill="#3465a4"><title>Lashbrooke of Barrowfield</title></circle></a><a href="/setts/s12/g4w28lb3w3k16lb4o10n4k14r2k2r3/"><circle cx="87.1" cy="81.8" r="4" fill="#3465a4"><title>Edinburgh Zoo Panda (Comm)</title></circle></a><circle cx="101.4" cy="109.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r7k2t16ly5t10k13w28g2w4g2~x2/

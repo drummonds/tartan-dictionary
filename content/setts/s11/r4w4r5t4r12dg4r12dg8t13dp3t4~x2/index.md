@@ -2,7 +2,7 @@
 title: "Hueg (Munich) Formal (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BBBGRGRBRWR](/stripes/bbbgrgrbrwr/) · **Stripes:** [T DP T DG R DG R T R W R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">T DP T DG R DG R T R W R</span></span>
+**Bands:** [RWRBRGRGBBB](/stripes/rwrbrgrgbbb/) · **Stripes:** [R W R T R DG R DG T DP T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="seq">R W R T R DG R DG T DP T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10525](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10525)
 
 ## Thread count
-B/8 N6 B26 K16 R24 G8 R24 B8 R10 W8 R/8
+R/8 W8 R10 B8 R24 G8 R24 K16 B26 N6 B/8
 ![Sett](sett.png)
 
 ## Palette
@@ -35,11 +35,11 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Hueg (Formal) (Personal)](/setts/s11/b4dt3b13g8r12g4r12b4r5w4r4~x2/) — ΔT 0.64
+1. [Hueg (Formal) (Personal)](/setts/s11/r4w4r5b4r12g4r12g8b13dt3b4~x2/) — ΔT 0.64
 1. [Ogilvy](/setts/s14/b10r3b10ly5k2r6lr2r6lr2r6n2ly2b5lr2~x2/) — ΔT 1.11
 1. [Ogilvy](/setts/s14/b10r3b10ly5k2r6lr2r6lr2r6n2ly2b5lr2/) — ΔT 1.11
 1. [British Columbia](/setts/s12/g2k1g4lr4ly1lr4r4k1r4lr2r4w1~x4/) — ΔT 1.28
-1. [Feis An Eilein](/setts/s7/ly2dg2db8m4db8r9y2~x8/) — ΔT 1.32
+1. [Feis An Eilein](/setts/s7/y2r9db8m4db8dg2ly2~x8/) — ΔT 1.32
 1. [British Columbia](/setts/s12/g2k1g4t4ly1t4r4k1r4t2r4w1~x4/) — ΔT 1.37
 1. [Ogilvie #2](/setts/s14/db13r5db12ly4k5r20w4r10w4r20db5ly4db13r4~x2/) — ΔT 1.37
 1. [Caledonia No 3](/setts/s9/r13t3r13g12ly2dp9t9r13dp2~x2/) — ΔT 1.46
@@ -48,8 +48,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/b4dt3b13g8r12g4r12b4r5w4r4~x2/"><circle cx="127.1" cy="198.2" r="4" fill="#3465a4"><title>Hueg (Formal) (Personal)</title></circle></a><a href="/setts/s14/b10r3b10ly5k2r6lr2r6lr2r6n2ly2b5lr2~x2/"><circle cx="114.4" cy="180.8" r="4" fill="#3465a4"><title>Ogilvy</title></circle></a><a href="/setts/s14/b10r3b10ly5k2r6lr2r6lr2r6n2ly2b5lr2/"><circle cx="114.4" cy="180.8" r="4" fill="#3465a4"><title>Ogilvy</title></circle></a><a href="/setts/s12/g2k1g4lr4ly1lr4r4k1r4lr2r4w1~x4/"><circle cx="71.6" cy="197.0" r="4" fill="#3465a4"><title>British Columbia</title></circle></a><a href="/setts/s7/ly2dg2db8m4db8r9y2~x8/"><circle cx="152.4" cy="220.4" r="4" fill="#3465a4"><title>Feis An Eilein</title></circle></a><a href="/setts/s12/g2k1g4t4ly1t4r4k1r4t2r4w1~x4/"><circle cx="69.2" cy="197.6" r="4" fill="#3465a4"><title>British Columbia</title></circle></a><a href="/setts/s14/db13r5db12ly4k5r20w4r10w4r20db5ly4db13r4~x2/"><circle cx="147.3" cy="160.6" r="4" fill="#3465a4"><title>Ogilvie #2</title></circle></a><a href="/setts/s9/r13t3r13g12ly2dp9t9r13dp2~x2/"><circle cx="199.6" cy="209.4" r="4" fill="#3465a4"><title>Caledonia No 3</title></circle></a><a href="/setts/s16/r4lr3m2w4m2w3m4w3m6w2m8w2m6w2t4lo3~x2/"><circle cx="108.8" cy="182.1" r="4" fill="#3465a4"><title>Bradwell, Carl (Personal)</title></circle></a><a href="/setts/s9/dp4n10m18ly3m3ly5r8n9w4~x2/"><circle cx="102.2" cy="184.8" r="4" fill="#3465a4"><title>Khosla, Sarah and Justin (Personal)</title></circle></a><circle cx="141.0" cy="201.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r4w4r5b4r12g4r12g8b13dt3b4~x2/"><circle cx="127.0" cy="198.3" r="4" fill="#3465a4"><title>Hueg (Formal) (Personal)</title></circle></a><a href="/setts/s14/b10r3b10ly5k2r6lr2r6lr2r6n2ly2b5lr2~x2/"><circle cx="114.4" cy="180.9" r="4" fill="#3465a4"><title>Ogilvy</title></circle></a><a href="/setts/s14/b10r3b10ly5k2r6lr2r6lr2r6n2ly2b5lr2/"><circle cx="114.4" cy="180.9" r="4" fill="#3465a4"><title>Ogilvy</title></circle></a><a href="/setts/s12/g2k1g4lr4ly1lr4r4k1r4lr2r4w1~x4/"><circle cx="71.6" cy="197.1" r="4" fill="#3465a4"><title>British Columbia</title></circle></a><a href="/setts/s7/y2r9db8m4db8dg2ly2~x8/"><circle cx="152.4" cy="220.5" r="4" fill="#3465a4"><title>Feis An Eilein</title></circle></a><a href="/setts/s12/g2k1g4t4ly1t4r4k1r4t2r4w1~x4/"><circle cx="69.2" cy="197.7" r="4" fill="#3465a4"><title>British Columbia</title></circle></a><a href="/setts/s14/db13r5db12ly4k5r20w4r10w4r20db5ly4db13r4~x2/"><circle cx="147.1" cy="160.6" r="4" fill="#3465a4"><title>Ogilvie #2</title></circle></a><a href="/setts/s9/r13t3r13g12ly2dp9t9r13dp2~x2/"><circle cx="199.4" cy="209.4" r="4" fill="#3465a4"><title>Caledonia No 3</title></circle></a><a href="/setts/s16/r4lr3m2w4m2w3m4w3m6w2m8w2m6w2t4lo3~x2/"><circle cx="108.6" cy="182.1" r="4" fill="#3465a4"><title>Bradwell, Carl (Personal)</title></circle></a><a href="/setts/s9/dp4n10m18ly3m3ly5r8n9w4~x2/"><circle cx="102.1" cy="184.9" r="4" fill="#3465a4"><title>Khosla, Sarah and Justin (Personal)</title></circle></a><circle cx="140.9" cy="201.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/r4w4r5t4r12dg4r12dg8t13dp3t4~x2/

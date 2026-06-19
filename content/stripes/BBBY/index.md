@@ -21,14 +21,14 @@ BBBY
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### T DP DB LY <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">T DP DB LY</span></span>
+### LY DB DP T <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY DB DP T</span></span>
 
 | Tartans |
 |---------------|
 | [Peacock (Samantha)](/setts/s4/t20dp3db7ly1~x4/)|
 |![Peacock (Samantha) example sett](/setts/s4/t20dp3db7ly1~x4/sett.png)|
 
-### T P DB LY <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">T P DB LY</span></span>
+### LY DB P T <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY DB P T</span></span>
 
 | Tartans |
 |---------------|

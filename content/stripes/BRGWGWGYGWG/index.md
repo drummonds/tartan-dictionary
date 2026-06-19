@@ -18,7 +18,7 @@ BRGWGWGYGWG
 
 
 
-### B R DY LP G LP G LY DY LP DY <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">B R DY LP G LP G LY DY LP DY</span></span>
+### DY LP DY LY G LP G LP DY R B <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DY LP DY LY G LP G LP DY R B</span></span>
 
 | Tartans |
 |---------------|

@@ -2,7 +2,7 @@
 title: "Aquascutum"
 date: 2023-03-18
 ---
-**Bands:** [BWR](/stripes/bwr/) · **Stripes:** [DB W R](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB W R</span></span>
+**Bands:** [RWB](/stripes/rwb/) · **Stripes:** [R W DB](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R W DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [3 band tartan](/bands/bands3/).
@@ -319,6 +319,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +420,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +680,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -913,21 +916,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Dacre Estate Check](/setts/s3/k1w1r1~x14/) — ΔT 1.40
+1. [Dacre Estate Check](/setts/s3/k1w1r1~x14/) — ΔT 1.41
 1. [Usa](/setts/s3/db1lr1r1~x4/) — ΔT 1.42
-1. [Mothers Pride](/setts/s3/ly1db1r1~x40/) — ΔT 1.53
+1. [Mothers Pride](/setts/s3/r1db1ly1~x40/) — ΔT 1.53
 1. [Glen Moriston Estate Check](/setts/s3/dt1lb1w1~x8/) — ΔT 1.78
 1. [Coigach Tweed](/setts/s3/k1lb1o1~x6/) — ΔT 1.86
-1. [Algarve](/setts/s4/db1w1r1dg1~x20/) — ΔT 1.90
-1. [Hogg](/setts/s4/k1w1do1w1~x8/) — ΔT 2.03
-1. [Border Bell](/setts/s7/db1k1w1k1w1r1k1~x16/) — ΔT 2.54
-1. [Bell, Border (Name)](/setts/s7/db1k1w1k1w1r1k1~x14/) — ΔT 2.54
-1. [Shepherd or Falkirk](/setts/s4/k1w1k1w1~x6/) — ΔT 2.77
+1. [Algarve](/setts/s4/dg1r1w1db1~x20/) — ΔT 1.90
+1. [Hogg](/setts/s4/k1w1do1~x8/) — ΔT 2.03
+1. [Border Bell](/setts/s7/k1r1w1k1w1k1db1~x16/) — ΔT 2.54
+1. [Bell, Border (Name)](/setts/s7/k1r1w1k1w1k1db1~x14/) — ΔT 2.54
+1. [Shepherd or Falkirk](/setts/s4/k1w1~x6/) — ΔT 2.77
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/k1w1r1~x14/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Dacre Estate Check</title></circle></a><a href="/setts/s3/db1lr1r1~x4/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Usa</title></circle></a><a href="/setts/s3/ly1db1r1~x40/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Mothers Pride</title></circle></a><a href="/setts/s3/dt1lb1w1~x8/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Glen Moriston Estate Check</title></circle></a><a href="/setts/s3/k1lb1o1~x6/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Coigach Tweed</title></circle></a><a href="/setts/s4/db1w1r1dg1~x20/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Algarve</title></circle></a><a href="/setts/s4/k1w1do1w1~x8/"><circle cx="35.3" cy="366.0" r="4" fill="#3465a4"><title>Hogg</title></circle></a><a href="/setts/s7/db1k1w1k1w1r1k1~x16/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Border Bell</title></circle></a><a href="/setts/s7/db1k1w1k1w1r1k1~x14/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Bell, Border (Name)</title></circle></a><a href="/setts/s4/k1w1k1w1~x6/"><circle cx="95.6" cy="366.0" r="4" fill="#3465a4"><title>Shepherd or Falkirk</title></circle></a><circle cx="14.0" cy="366.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/k1w1r1~x14/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Dacre Estate Check</title></circle></a><a href="/setts/s3/db1lr1r1~x4/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Usa</title></circle></a><a href="/setts/s3/r1db1ly1~x40/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Mothers Pride</title></circle></a><a href="/setts/s3/dt1lb1w1~x8/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Glen Moriston Estate Check</title></circle></a><a href="/setts/s3/k1lb1o1~x6/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Coigach Tweed</title></circle></a><a href="/setts/s4/dg1r1w1db1~x20/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Algarve</title></circle></a><a href="/setts/s4/k1w1do1~x8/"><circle cx="35.5" cy="366.0" r="4" fill="#3465a4"><title>Hogg</title></circle></a><a href="/setts/s7/k1r1w1k1w1k1db1~x16/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Border Bell</title></circle></a><a href="/setts/s7/k1r1w1k1w1k1db1~x14/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Bell, Border (Name)</title></circle></a><a href="/setts/s4/k1w1~x6/"><circle cx="95.8" cy="366.0" r="4" fill="#3465a4"><title>Shepherd or Falkirk</title></circle></a><circle cx="14.0" cy="366.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/db1w1r1~x22/

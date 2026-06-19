@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2456
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacGregor of Balquidder
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -62,14 +68,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Cumming #2](/setts/s8/r3g9w1g9r3g6r18k2~x2/) — ΔT 0.79
 1. [MacAulay](/setts/s6/k2r16g6r3g8lb1~x2/) — ΔT 0.82
 1. [Starr (1978) (Name)](/setts/s7/k2r4w1r10g12r2w2~x4/) — ΔT 0.95
-1. [Denny, hunting](/setts/s6/db1r16g6k1g6k1~x2/) — ΔT 0.99
+1. [Denny, hunting](/setts/s6/k1g6k1g6r16db1~x2/) — ΔT 0.99
 1. [Prince of Orange #2](/setts/s5/db6lo25dy16k2db3~x2/) — ΔT 1.01
-1. [Cumming SM](/setts/s8/r3dg9lb1dg9r3dg6r18k2/) — ΔT 1.01
+1. [Cumming SM](/setts/s8/r3dg9lb1dg9r3dg6r18k2~x2/) — ΔT 1.01
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g9r2g9r14k1w2~x4/"><circle cx="289.6" cy="194.4" r="4" fill="#3465a4"><title>MacGregor of Balquidder - 1831 (Clan</title></circle></a><a href="/setts/s6/db1r12g6ly1g6db1~x4/"><circle cx="288.5" cy="197.9" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/setts/s6/k2r16g6r3g8w1~x2/"><circle cx="315.5" cy="181.2" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s6/k2r16g6r3g8w1~x4/"><circle cx="331.9" cy="187.8" r="4" fill="#3465a4"><title>MacAulay (Clan)</title></circle></a><a href="/setts/s8/r3g9w1g9r3g6r18k2~x2/"><circle cx="313.7" cy="177.4" r="4" fill="#3465a4"><title>Cumming #2</title></circle></a><a href="/setts/s6/k2r16g6r3g8lb1~x2/"><circle cx="336.0" cy="189.9" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s7/k2r4w1r10g12r2w2~x4/"><circle cx="265.1" cy="177.3" r="4" fill="#3465a4"><title>Starr (1978) (Name)</title></circle></a><a href="/setts/s6/db1r16g6k1g6k1~x2/"><circle cx="324.0" cy="169.5" r="4" fill="#3465a4"><title>Denny, hunting</title></circle></a><a href="/setts/s5/db6lo25dy16k2db3~x2/"><circle cx="277.6" cy="200.4" r="4" fill="#3465a4"><title>Prince of Orange #2</title></circle></a><a href="/setts/s8/r3dg9lb1dg9r3dg6r18k2/"><circle cx="308.8" cy="175.6" r="4" fill="#3465a4"><title>Cumming SM</title></circle></a><circle cx="298.3" cy="199.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g9r2g9r14k1w2~x4/"><circle cx="289.3" cy="194.3" r="4" fill="#3465a4"><title>MacGregor of Balquidder - 1831 (Clan</title></circle></a><a href="/setts/s6/db1r12g6ly1g6db1~x4/"><circle cx="288.3" cy="197.8" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/setts/s6/k2r16g6r3g8w1~x2/"><circle cx="315.2" cy="181.0" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s6/k2r16g6r3g8w1~x4/"><circle cx="331.6" cy="187.7" r="4" fill="#3465a4"><title>MacAulay (Clan)</title></circle></a><a href="/setts/s8/r3g9w1g9r3g6r18k2~x2/"><circle cx="313.4" cy="177.3" r="4" fill="#3465a4"><title>Cumming #2</title></circle></a><a href="/setts/s6/k2r16g6r3g8lb1~x2/"><circle cx="335.7" cy="189.8" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s7/k2r4w1r10g12r2w2~x4/"><circle cx="264.8" cy="177.1" r="4" fill="#3465a4"><title>Starr (1978) (Name)</title></circle></a><a href="/setts/s6/k1g6k1g6r16db1~x2/"><circle cx="323.7" cy="169.3" r="4" fill="#3465a4"><title>Denny, hunting</title></circle></a><a href="/setts/s5/db6lo25dy16k2db3~x2/"><circle cx="277.3" cy="200.3" r="4" fill="#3465a4"><title>Prince of Orange #2</title></circle></a><a href="/setts/s8/r3dg9lb1dg9r3dg6r18k2~x2/"><circle cx="308.5" cy="175.5" r="4" fill="#3465a4"><title>Cumming SM</title></circle></a><circle cx="298.1" cy="198.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/g9r2g9r14k1w2~x2/

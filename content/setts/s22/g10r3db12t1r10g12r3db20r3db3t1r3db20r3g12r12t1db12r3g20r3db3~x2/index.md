@@ -2,7 +2,7 @@
 title: "Cumming"
 date: 2023-03-18
 ---
-**Bands:** [BRGRBBRGRBRBBRBRGRBBRG](/stripes/brgrbbrgrbrbbrbrgrbbrg/) · **Stripes:** [DB R G R DB T R G R DB R T DB R DB R G R T DB R G](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB R G R DB T R G R DB R T DB R DB R G R T DB R G</span></span>
+**Bands:** [GRBBRGRBRBBRBRGRBBRGRB](/stripes/grbbrgrbrbbrbrgrbbrgrb/) · **Stripes:** [G R DB T R G R DB R DB T R DB R G R T DB R G R DB](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G R DB T R G R DB R DB T R DB R G R T DB R G R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [22 band tartan](/bands/bands22/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/6 R6 G40 R6 B24 Ba2 R24 G24 R6 B40 R6 Ba2 B6 R6 B40 R6 G24 R20 Ba2 B24 R6 G/20
+G/20 R6 B24 Ba2 R20 G24 R6 B40 R6 B6 Ba2 R6 B40 R6 G24 R24 Ba2 B24 R6 G40 R6 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -916,14 +919,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Cumming and Glenorchy](/setts/s22/r3db20r3dg12r8t1db12r3dg22r3db3dg33r3db12t1r8dg12r3db20r3db3t1~x2/) — ΔT 1.12
 1. [Cumming, of Glenorchy](/setts/s22/g34r3db12t1r8g12r3db20r3db3t1r3db20r3g12r8t1db12r3g22r3db3~x2/) — ΔT 1.13
 1. [Cumming of Glenorchy](/setts/s22/dg34r3db12t1r8dg12r3db20r3db3t1r3db20r3dg12r8t1db12r3dg22r3db3~x2/) — ΔT 1.17
-1. [Norwich No.023](/setts/s26/g2r2t1db16r2g6r2t1db6r2g16r2t1db2t1r2g16r2db6t1r2g6r2db16t1r2~x2/) — ΔT 1.18
+1. [Norwich No.023](/setts/s26/db2t1r2g16r2db6t1r2g6r2db16t1r2g2~x2/) — ΔT 1.18
 1. [Highland Granite Weavers Tartan Tartan Number: 6499. Earliest known date: 2005 The colours reflect the imposing scenery when journeying north from Perth to Inverness or through to Royal Deeside, granite being the predominant composition of the surrounding unique hills and mountains. This tartan is for those wishing to embrace the growing popularity of the kilt who may either have no strong clan tartan connection, or who wish to wear a tartan different from their own. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/o16k2o3k2o4k10n27lr2n8lr2n27k10o4k2o3k2o16n2~x2/) — ΔT 1.20
 1. [Rankin Grey (Personal)](/setts/s21/n14o1n1o1n1o9k6r1n5w1n5r1k6o9r1n5r2n2r1n2w1~x2/) — ΔT 1.30
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s21/r3db21r3g7r7db8r3g21r3db3r3g21r3db8r6g7r3db21r3db3t1~x2/"><circle cx="249.9" cy="135.2" r="4" fill="#3465a4"><title>MacIntyre, or Perthshire</title></circle></a><a href="/setts/s22/dg10r3db12t1r10dg12r3db20r3db3t1r3db20r3dg12r12t1db12r3dg20r3db3~x2/"><circle cx="247.6" cy="143.5" r="4" fill="#3465a4"><title>Cumming</title></circle></a><a href="/setts/s21/r3db21r3dg7r7db8r3dg21r3db3r3dg21r3db8r6dg7r3db21r3db3t1~x2/"><circle cx="258.9" cy="138.0" r="4" fill="#3465a4"><title>MacIntyre of Littleport</title></circle></a><a href="/setts/s22/r3db20r3g12r8t1db12r3g22r3db3g33r3db12t1r8g12r3db20r3db3t1~x2/"><circle cx="276.1" cy="115.0" r="4" fill="#3465a4"><title>Cumming, and Glenorchy</title></circle></a><a href="/setts/s22/r3db20r3dg12r8t1db12r3dg22r3db3dg33r3db12t1r8dg12r3db20r3db3t1~x2/"><circle cx="291.4" cy="122.4" r="4" fill="#3465a4"><title>Cumming and Glenorchy</title></circle></a><a href="/setts/s22/g34r3db12t1r8g12r3db20r3db3t1r3db20r3g12r8t1db12r3g22r3db3~x2/"><circle cx="279.2" cy="113.3" r="4" fill="#3465a4"><title>Cumming, of Glenorchy</title></circle></a><a href="/setts/s22/dg34r3db12t1r8dg12r3db20r3db3t1r3db20r3dg12r8t1db12r3dg22r3db3~x2/"><circle cx="294.6" cy="120.8" r="4" fill="#3465a4"><title>Cumming of Glenorchy</title></circle></a><a href="/setts/s26/g2r2t1db16r2g6r2t1db6r2g16r2t1db2t1r2g16r2db6t1r2g6r2db16t1r2~x2/"><circle cx="244.6" cy="124.0" r="4" fill="#3465a4"><title>Norwich No.023</title></circle></a><a href="/setts/s18/o16k2o3k2o4k10n27lr2n8lr2n27k10o4k2o3k2o16n2~x2/"><circle cx="273.3" cy="154.8" r="4" fill="#3465a4"><title>Highland Granite Weavers Tartan Tartan Number: 6499. Earliest known date: 2005 The colours reflect the imposing scenery when journeying north from Perth to Inverness or through to Royal Deeside, granite being the predominant composition of the surrounding unique hills and mountains. This tartan is for those wishing to embrace the growing popularity of the kilt who may either have no strong clan tartan connection, or who wish to wear a tartan different from their own. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s21/n14o1n1o1n1o9k6r1n5w1n5r1k6o9r1n5r2n2r1n2w1~x2/"><circle cx="237.5" cy="125.6" r="4" fill="#3465a4"><title>Rankin Grey (Personal)</title></circle></a><circle cx="239.9" cy="140.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s21/r3db21r3g7r7db8r3g21r3db3r3g21r3db8r6g7r3db21r3db3t1~x2/"><circle cx="249.7" cy="135.2" r="4" fill="#3465a4"><title>MacIntyre, or Perthshire</title></circle></a><a href="/setts/s22/dg10r3db12t1r10dg12r3db20r3db3t1r3db20r3dg12r12t1db12r3dg20r3db3~x2/"><circle cx="247.5" cy="143.6" r="4" fill="#3465a4"><title>Cumming</title></circle></a><a href="/setts/s21/r3db21r3dg7r7db8r3dg21r3db3r3dg21r3db8r6dg7r3db21r3db3t1~x2/"><circle cx="258.7" cy="138.1" r="4" fill="#3465a4"><title>MacIntyre of Littleport</title></circle></a><a href="/setts/s22/r3db20r3g12r8t1db12r3g22r3db3g33r3db12t1r8g12r3db20r3db3t1~x2/"><circle cx="275.9" cy="115.0" r="4" fill="#3465a4"><title>Cumming, and Glenorchy</title></circle></a><a href="/setts/s22/r3db20r3dg12r8t1db12r3dg22r3db3dg33r3db12t1r8dg12r3db20r3db3t1~x2/"><circle cx="291.2" cy="122.4" r="4" fill="#3465a4"><title>Cumming and Glenorchy</title></circle></a><a href="/setts/s22/g34r3db12t1r8g12r3db20r3db3t1r3db20r3g12r8t1db12r3g22r3db3~x2/"><circle cx="278.9" cy="113.3" r="4" fill="#3465a4"><title>Cumming, of Glenorchy</title></circle></a><a href="/setts/s22/dg34r3db12t1r8dg12r3db20r3db3t1r3db20r3dg12r8t1db12r3dg22r3db3~x2/"><circle cx="294.5" cy="120.8" r="4" fill="#3465a4"><title>Cumming of Glenorchy</title></circle></a><a href="/setts/s26/db2t1r2g16r2db6t1r2g6r2db16t1r2g2~x2/"><circle cx="244.4" cy="124.1" r="4" fill="#3465a4"><title>Norwich No.023</title></circle></a><a href="/setts/s18/o16k2o3k2o4k10n27lr2n8lr2n27k10o4k2o3k2o16n2~x2/"><circle cx="273.1" cy="154.9" r="4" fill="#3465a4"><title>Highland Granite Weavers Tartan Tartan Number: 6499. Earliest known date: 2005 The colours reflect the imposing scenery when journeying north from Perth to Inverness or through to Royal Deeside, granite being the predominant composition of the surrounding unique hills and mountains. This tartan is for those wishing to embrace the growing popularity of the kilt who may either have no strong clan tartan connection, or who wish to wear a tartan different from their own. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s21/n14o1n1o1n1o9k6r1n5w1n5r1k6o9r1n5r2n2r1n2w1~x2/"><circle cx="237.2" cy="125.7" r="4" fill="#3465a4"><title>Rankin Grey (Personal)</title></circle></a><circle cx="239.7" cy="140.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s22/g10r3db12t1r10g12r3db20r3db3t1r3db20r3g12r12t1db12r3g20r3db3~x2/

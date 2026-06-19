@@ -2,7 +2,7 @@
 title: "MacAlpine"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGKGKWKGKYK](/stripes/gkgkgkgkwkgkyk/) · **Stripes:** [G K G K G K G K W K G K LY K](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="seq">G K G K G K G K W K G K LY K</span></span>
+**Bands:** [KYKGKWKGKGKGKG](/stripes/kykgkwkgkgkgkg/) · **Stripes:** [K LY K G K W K G K G K G K G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K LY K G K W K G K G K G K G</span></span>
 
 
 This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/4 K4 G24 K4 G24 K4 G4 K16 LN4 K16 G4 K16 Y4 K/16
+K/16 Y4 K16 G4 K16 LN4 K16 G4 K4 G24 K4 G24 K4 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -909,21 +912,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [MacAlpine](/setts/s14/k4lb1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1/) — ΔT 0.80
-1. [Stewart hunting](/setts/s16/k3g10ly2g10k9g2k9g10r2g10k3g2k5g2k5g2~x2/) — ΔT 0.93
+1. [MacAlpine](/setts/s14/k4lb1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1~x2/) — ΔT 0.81
+1. [Stewart hunting](/setts/s16/k3g10ly2g10k9g2k9g10r2g10k3g2k5g2k5g2~x2/) — ΔT 0.94
 1. [MacAlpine (a)](/setts/s14/k4lr1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1~x2/) — ΔT 1.28
-1. [MacAlpine](/setts/s14/k4lr1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1/) — ΔT 1.28
 1. [Hopetoun](/setts/s12/g22k4g4k21ly2k4ly2k21g4k2db2g22~x2/) — ΔT 1.30
 1. [Unnamed 5](/setts/s13/r3k2db10k10g12k8g12k10g2k10db2k2db2/) — ΔT 1.31
 1. [Hopetoun, Rejected design](/setts/s14/g11db1k1g2k12ly1k12g2k2g11k2g2k12ly1~x4/) — ΔT 1.34
 1. [O'Connor, Old](/setts/s16/g5k24g12k16g26w4g24w4g26k16k4k4k4k4k28g3/) — ΔT 1.38
 1. [Episcopal Clergy (Corporate)](/setts/s11/k1r1g7k8lb1k8r1g2r1g4r1~x4/) — ΔT 1.40
-1. [Crihfield Family (Personal)](/setts/s13/lb4k2g6o3g10k10g4k10g10o3g6k2o4~x2/) — ΔT 1.45
+1. [Crihfield Family (Personal)](/setts/s13/o4k2g6o3g10k10g4k10g10o3g6k2lb4~x2/) — ΔT 1.45
+1. [Royal Na Connaught](/setts/s16/g5k12g6k8g13lb2g12lb2g13k8db2k2db2k2db14g3~x2/) — ΔT 1.46
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k4lb1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1/"><circle cx="241.9" cy="211.8" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s16/k3g10ly2g10k9g2k9g10r2g10k3g2k5g2k5g2~x2/"><circle cx="222.0" cy="214.4" r="4" fill="#3465a4"><title>Stewart hunting</title></circle></a><a href="/setts/s14/k4lr1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1~x2/"><circle cx="256.7" cy="218.5" r="4" fill="#3465a4"><title>MacAlpine (a)</title></circle></a><a href="/setts/s14/k4lr1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1/"><circle cx="256.7" cy="218.5" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s12/g22k4g4k21ly2k4ly2k21g4k2db2g22~x2/"><circle cx="249.5" cy="172.0" r="4" fill="#3465a4"><title>Hopetoun</title></circle></a><a href="/setts/s13/r3k2db10k10g12k8g12k10g2k10db2k2db2/"><circle cx="184.4" cy="218.0" r="4" fill="#3465a4"><title>Unnamed 5</title></circle></a><a href="/setts/s14/g11db1k1g2k12ly1k12g2k2g11k2g2k12ly1~x4/"><circle cx="294.1" cy="167.3" r="4" fill="#3465a4"><title>Hopetoun, Rejected design</title></circle></a><a href="/setts/s16/g5k24g12k16g26w4g24w4g26k16k4k4k4k4k28g3/"><circle cx="184.3" cy="179.4" r="4" fill="#3465a4"><title>O'Connor, Old</title></circle></a><a href="/setts/s11/k1r1g7k8lb1k8r1g2r1g4r1~x4/"><circle cx="232.8" cy="191.1" r="4" fill="#3465a4"><title>Episcopal Clergy (Corporate)</title></circle></a><a href="/setts/s13/lb4k2g6o3g10k10g4k10g10o3g6k2o4~x2/"><circle cx="158.5" cy="228.7" r="4" fill="#3465a4"><title>Crihfield Family (Personal)</title></circle></a><circle cx="225.4" cy="203.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k4lb1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1~x2/"><circle cx="242.0" cy="211.7" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s16/k3g10ly2g10k9g2k9g10r2g10k3g2k5g2k5g2~x2/"><circle cx="222.1" cy="214.2" r="4" fill="#3465a4"><title>Stewart hunting</title></circle></a><a href="/setts/s14/k4lr1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1~x2/"><circle cx="256.8" cy="218.4" r="4" fill="#3465a4"><title>MacAlpine (a)</title></circle></a><a href="/setts/s12/g22k4g4k21ly2k4ly2k21g4k2db2g22~x2/"><circle cx="249.6" cy="171.8" r="4" fill="#3465a4"><title>Hopetoun</title></circle></a><a href="/setts/s13/r3k2db10k10g12k8g12k10g2k10db2k2db2/"><circle cx="184.6" cy="217.9" r="4" fill="#3465a4"><title>Unnamed 5</title></circle></a><a href="/setts/s14/g11db1k1g2k12ly1k12g2k2g11k2g2k12ly1~x4/"><circle cx="294.2" cy="167.1" r="4" fill="#3465a4"><title>Hopetoun, Rejected design</title></circle></a><a href="/setts/s16/g5k24g12k16g26w4g24w4g26k16k4k4k4k4k28g3/"><circle cx="184.4" cy="179.3" r="4" fill="#3465a4"><title>O'Connor, Old</title></circle></a><a href="/setts/s11/k1r1g7k8lb1k8r1g2r1g4r1~x4/"><circle cx="232.9" cy="191.0" r="4" fill="#3465a4"><title>Episcopal Clergy (Corporate)</title></circle></a><a href="/setts/s13/o4k2g6o3g10k10g4k10g10o3g6k2lb4~x2/"><circle cx="158.7" cy="228.5" r="4" fill="#3465a4"><title>Crihfield Family (Personal)</title></circle></a><a href="/setts/s16/g5k12g6k8g13lb2g12lb2g13k8db2k2db2k2db14g3~x2/"><circle cx="182.2" cy="194.9" r="4" fill="#3465a4"><title>Royal Na Connaught</title></circle></a><circle cx="225.5" cy="203.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/k4ly1k4g1k4w1k4g1k1g6k1g6k1g1~x4/

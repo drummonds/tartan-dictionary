@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,13 +913,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Sin-Cos](/setts/s10/k60g64g5g8g5g64k60ly8k8ly8/) — ΔT 1.16
 1. [Hopetoun](/setts/s12/g22k4g4k21ly2k4ly2k21g4k2db2g22~x2/) — ΔT 1.18
 1. [Childers](/setts/s10/k4g13k4g8k44g8k4g13k4w3~x2/) — ΔT 1.20
-1. [Hartmann](/setts/s8/b4k8w3k8g4k4g32k4~x2/) — ΔT 1.21
+1. [Hartmann](/setts/s8/k4g32k4g4k8w3k8b4~x2/) — ΔT 1.21
 1. [Sin-Cos (Corporate)](/setts/s10/k60g64dg5g8dg5g64k60ly8k8ly8/) — ΔT 1.23
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g17t2g2t2k21t2k3g30k2t2k4~x2/"><circle cx="288.3" cy="147.5" r="4" fill="#3465a4"><title>Fort William</title></circle></a><a href="/setts/s9/g13k3g34k6db16r2db16k3g13~x2/"><circle cx="289.9" cy="184.9" r="4" fill="#3465a4"><title>Lockhart</title></circle></a><a href="/setts/s11/db4t2k2db12t4g6k6g28k2t2g3~x2/"><circle cx="261.1" cy="154.8" r="4" fill="#3465a4"><title>Hudson Hunting (Personal)</title></circle></a><a href="/setts/s9/g14w1g7k7db2k2db2k2db7~x2/"><circle cx="224.4" cy="183.3" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/setts/s14/k8w3k8g4k4g32k4g32k4g4k8w3k8t4~x2/"><circle cx="315.6" cy="170.8" r="4" fill="#3465a4"><title>Hartmann (Personal)</title></circle></a><a href="/setts/s10/k60g64g5g8g5g64k60ly8k8ly8/"><circle cx="238.7" cy="170.5" r="4" fill="#3465a4"><title>Sin-Cos</title></circle></a><a href="/setts/s12/g22k4g4k21ly2k4ly2k21g4k2db2g22~x2/"><circle cx="249.5" cy="172.0" r="4" fill="#3465a4"><title>Hopetoun</title></circle></a><a href="/setts/s10/k4g13k4g8k44g8k4g13k4w3~x2/"><circle cx="329.5" cy="171.2" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/setts/s8/b4k8w3k8g4k4g32k4~x2/"><circle cx="270.6" cy="175.5" r="4" fill="#3465a4"><title>Hartmann</title></circle></a><a href="/setts/s10/k60g64dg5g8dg5g64k60ly8k8ly8/"><circle cx="282.4" cy="190.0" r="4" fill="#3465a4"><title>Sin-Cos (Corporate)</title></circle></a><circle cx="274.1" cy="164.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g17t2g2t2k21t2k3g30k2t2k4~x2/"><circle cx="288.2" cy="147.3" r="4" fill="#3465a4"><title>Fort William</title></circle></a><a href="/setts/s9/g13k3g34k6db16r2db16k3g13~x2/"><circle cx="289.9" cy="184.7" r="4" fill="#3465a4"><title>Lockhart</title></circle></a><a href="/setts/s11/db4t2k2db12t4g6k6g28k2t2g3~x2/"><circle cx="261.1" cy="154.7" r="4" fill="#3465a4"><title>Hudson Hunting (Personal)</title></circle></a><a href="/setts/s9/g14w1g7k7db2k2db2k2db7~x2/"><circle cx="224.4" cy="183.2" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/setts/s14/k8w3k8g4k4g32k4g32k4g4k8w3k8t4~x2/"><circle cx="315.5" cy="170.7" r="4" fill="#3465a4"><title>Hartmann (Personal)</title></circle></a><a href="/setts/s10/k60g64g5g8g5g64k60ly8k8ly8/"><circle cx="238.8" cy="170.3" r="4" fill="#3465a4"><title>Sin-Cos</title></circle></a><a href="/setts/s12/g22k4g4k21ly2k4ly2k21g4k2db2g22~x2/"><circle cx="249.6" cy="171.8" r="4" fill="#3465a4"><title>Hopetoun</title></circle></a><a href="/setts/s10/k4g13k4g8k44g8k4g13k4w3~x2/"><circle cx="329.5" cy="171.1" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/setts/s8/k4g32k4g4k8w3k8b4~x2/"><circle cx="270.6" cy="175.3" r="4" fill="#3465a4"><title>Hartmann</title></circle></a><a href="/setts/s10/k60g64dg5g8dg5g64k60ly8k8ly8/"><circle cx="282.4" cy="189.9" r="4" fill="#3465a4"><title>Sin-Cos (Corporate)</title></circle></a><circle cx="274.1" cy="164.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r4k2g7k15g3k3g3k7g28k7g6k2/

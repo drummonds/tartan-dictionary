@@ -2,7 +2,7 @@
 title: "Melville"
 date: 2023-03-18
 ---
-**Bands:** [KBKGYK](/stripes/kbkgyk/) · **Stripes:** [K N K DG LR K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="seq">K N K DG LR K</span></span>
+**Bands:** [KYGKBK](/stripes/kygkbk/) · **Stripes:** [K LR DG K N K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="seq">K LR DG K N K</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -60,7 +60,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-K/6 N32 K34 DG36 Na4 K/10
+K/10 Na4 DG36 K34 N32 K/6
 ![Sett](sett.png)
 
 ## Palette
@@ -75,7 +75,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/6 N32 K34 DG36 Na4 K/10 tartan")
+![Tartan detail](tartan.png "K/10 Na4 DG36 K34 N32 K/6 tartan")
 
 ## Nearest tartans
 
@@ -86,7 +86,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Graham W](/setts/s6/dg21lr2dg4k17n14k3/) — ΔT 0.52
 1. [Graham W](/setts/s6/dg21lb2dg4k17dp14k3/) — ΔT 0.61
 1. [Melville](/setts/s6/k5lb2dg18k17dp16k3/) — ΔT 0.73
-1. [Scottish Airports](/setts/s6/dp4dt18k17dt3g18dt4~x2/) — ΔT 0.89
+1. [Scottish Airports](/setts/s6/dt4g18dt3k17dt18dp4~x2/) — ΔT 0.89
 1. [MacCallum](/setts/s7/dg8k2lb1dg4k6db6k1~x2/) — ΔT 0.90
 1. [Wilson's, No 150 "Coburg"](/setts/s6/g18t2g4k14p12k3~x2/) — ΔT 0.97
 1. [Fletcher](/setts/s7/db6k1db6k8r1g8k2~x2/) — ΔT 0.99
@@ -94,8 +94,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k5lr2dg18k17n16k3/"><circle cx="195.1" cy="234.7" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/setts/s6/dg21lr2dg4k17n14k3~x2/"><circle cx="211.8" cy="227.0" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/setts/s6/dg21lr2dg4k17n14k3/"><circle cx="211.8" cy="227.0" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/setts/s6/dg21lb2dg4k17dp14k3/"><circle cx="200.6" cy="222.3" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/setts/s6/k5lb2dg18k17dp16k3/"><circle cx="187.2" cy="231.6" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/setts/s6/dp4dt18k17dt3g18dt4~x2/"><circle cx="162.0" cy="252.7" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/setts/s7/dg8k2lb1dg4k6db6k1~x2/"><circle cx="194.1" cy="245.1" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/setts/s6/g18t2g4k14p12k3~x2/"><circle cx="176.9" cy="220.2" r="4" fill="#3465a4"><title>Wilson's, No 150 &quot;Coburg&quot;</title></circle></a><a href="/setts/s7/db6k1db6k8r1g8k2~x2/"><circle cx="158.0" cy="232.2" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/setts/s7/db48k6db10k46ly4k22g43/"><circle cx="192.5" cy="210.4" r="4" fill="#3465a4"><title>Mowat</title></circle></a><circle cx="195.1" cy="234.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k5lr2dg18k17n16k3/"><circle cx="195.4" cy="234.6" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/setts/s6/dg21lr2dg4k17n14k3~x2/"><circle cx="212.0" cy="226.9" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/setts/s6/dg21lr2dg4k17n14k3/"><circle cx="212.0" cy="226.9" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/setts/s6/dg21lb2dg4k17dp14k3/"><circle cx="200.8" cy="222.2" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/setts/s6/k5lb2dg18k17dp16k3/"><circle cx="187.5" cy="231.6" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/setts/s6/dt4g18dt3k17dt18dp4~x2/"><circle cx="162.3" cy="252.7" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/setts/s7/dg8k2lb1dg4k6db6k1~x2/"><circle cx="194.4" cy="245.0" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/setts/s6/g18t2g4k14p12k3~x2/"><circle cx="177.0" cy="220.1" r="4" fill="#3465a4"><title>Wilson's, No 150 &quot;Coburg&quot;</title></circle></a><a href="/setts/s7/db6k1db6k8r1g8k2~x2/"><circle cx="158.3" cy="232.2" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/setts/s7/db48k6db10k46ly4k22g43/"><circle cx="192.7" cy="210.3" r="4" fill="#3465a4"><title>Mowat</title></circle></a><circle cx="195.4" cy="234.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k5lr2dg18k17n16k3~x2/

@@ -2,7 +2,7 @@
 title: "Pitcairn Trust Company"
 date: 2023-03-18
 ---
-**Bands:** [BYRBRBYRGBGBG](/stripes/byrbrbyrgbgbg/) · **Stripes:** [T LY R T R DB LY M G DB G DB G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">T LY R T R DB LY M G DB G DB G</span></span>
+**Bands:** [GBGBGRYBRBRYB](/stripes/gbgbgrybrbryb/) · **Stripes:** [G DB G DB G M LY DB R T R LY T](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="seq">G DB G DB G M LY DB R T R LY T</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-Ba/4 Y4 R16 Ba10 R44 B4 Y4 DR44 G6 B6 G6 B6 G/6
+G/6 B6 G6 B6 G6 DR44 Y4 B4 R44 Ba10 R16 Y4 Ba/4
 ![Sett](sett.png)
 
 ## Palette
@@ -911,14 +914,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Harmon (Personal)](/setts/s18/k2r6ly2r2ly2r19db2g2db2r2r4k2r11g2r2g2r6ly2~x2/) — ΔT 1.25
 1. [Ryutokukan High School (Corporate)](/setts/s12/o3n20r1n4r2n2r4n2r5g2r20w3~x2/) — ΔT 1.27
 1. [Berwick -upon-Tweed (asymmetric)](/setts/s14/r16o5dg2o4dg2o5y38k5dg2k4dg2k5r8b4~x2/) — ΔT 1.33
-1. [Gordon of Abergeldie](/setts/s10/r63w4k4dp18ly4dg50ly4dp18k4w4~x2/) — ΔT 1.34
+1. [Gordon of Abergeldie](/setts/s10/r63w4k4dp18ly4dg50~x2/) — ΔT 1.34
 1. [Pitcairn Heritage (Name)](/setts/s13/g3b4g3b4g3r28lo2b2r28b6r9lo2b2~x2/) — ΔT 1.34
 1. [Roman (Personal)](/setts/s14/r27g20k7w3lo3r2lo3w3lo6dp6k2r3lo4dp3~x2/) — ΔT 1.39
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lr6y2lr2y5r20o2r2o25r2o2r4ly10r2~x2/"><circle cx="186.4" cy="111.4" r="4" fill="#3465a4"><title>Strathtay (District?)</title></circle></a><a href="/setts/s9/t3y1k1r12r1dg9r1y1t3~x2/"><circle cx="187.5" cy="131.6" r="4" fill="#3465a4"><title>Murray of Abercairney (Personal)</title></circle></a><a href="/setts/s12/r10lb1r2n1r1n1lo1n4lb2r1lb2lo1~x8/"><circle cx="231.1" cy="122.4" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><a href="/setts/s10/db4ly3db17g6w2dr6w2r24dr3r4~x2/"><circle cx="176.6" cy="126.2" r="4" fill="#3465a4"><title>Asman Family</title></circle></a><a href="/setts/s18/k2r6ly2r2ly2r19db2g2db2r2r4k2r11g2r2g2r6ly2~x2/"><circle cx="195.8" cy="108.5" r="4" fill="#3465a4"><title>Harmon (Personal)</title></circle></a><a href="/setts/s12/o3n20r1n4r2n2r4n2r5g2r20w3~x2/"><circle cx="254.4" cy="111.7" r="4" fill="#3465a4"><title>Ryutokukan High School (Corporate)</title></circle></a><a href="/setts/s14/r16o5dg2o4dg2o5y38k5dg2k4dg2k5r8b4~x2/"><circle cx="189.8" cy="83.7" r="4" fill="#3465a4"><title>Berwick -upon-Tweed (asymmetric)</title></circle></a><a href="/setts/s10/r63w4k4dp18ly4dg50ly4dp18k4w4~x2/"><circle cx="183.5" cy="100.3" r="4" fill="#3465a4"><title>Gordon of Abergeldie</title></circle></a><a href="/setts/s13/g3b4g3b4g3r28lo2b2r28b6r9lo2b2~x2/"><circle cx="253.4" cy="126.2" r="4" fill="#3465a4"><title>Pitcairn Heritage (Name)</title></circle></a><a href="/setts/s14/r27g20k7w3lo3r2lo3w3lo6dp6k2r3lo4dp3~x2/"><circle cx="145.1" cy="103.8" r="4" fill="#3465a4"><title>Roman (Personal)</title></circle></a><circle cx="186.5" cy="116.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lr6y2lr2y5r20o2r2o25r2o2r4ly10r2~x2/"><circle cx="186.0" cy="111.6" r="4" fill="#3465a4"><title>Strathtay (District?)</title></circle></a><a href="/setts/s9/t3y1k1r12r1dg9r1y1t3~x2/"><circle cx="187.3" cy="131.7" r="4" fill="#3465a4"><title>Murray of Abercairney (Personal)</title></circle></a><a href="/setts/s12/r10lb1r2n1r1n1lo1n4lb2r1lb2lo1~x8/"><circle cx="230.8" cy="122.5" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><a href="/setts/s10/db4ly3db17g6w2dr6w2r24dr3r4~x2/"><circle cx="176.5" cy="126.3" r="4" fill="#3465a4"><title>Asman Family</title></circle></a><a href="/setts/s18/k2r6ly2r2ly2r19db2g2db2r2r4k2r11g2r2g2r6ly2~x2/"><circle cx="195.5" cy="108.7" r="4" fill="#3465a4"><title>Harmon (Personal)</title></circle></a><a href="/setts/s12/o3n20r1n4r2n2r4n2r5g2r20w3~x2/"><circle cx="254.1" cy="111.9" r="4" fill="#3465a4"><title>Ryutokukan High School (Corporate)</title></circle></a><a href="/setts/s14/r16o5dg2o4dg2o5y38k5dg2k4dg2k5r8b4~x2/"><circle cx="189.5" cy="83.9" r="4" fill="#3465a4"><title>Berwick -upon-Tweed (asymmetric)</title></circle></a><a href="/setts/s10/r63w4k4dp18ly4dg50~x2/"><circle cx="183.3" cy="100.4" r="4" fill="#3465a4"><title>Gordon of Abergeldie</title></circle></a><a href="/setts/s13/g3b4g3b4g3r28lo2b2r28b6r9lo2b2~x2/"><circle cx="253.1" cy="126.4" r="4" fill="#3465a4"><title>Pitcairn Heritage (Name)</title></circle></a><a href="/setts/s14/r27g20k7w3lo3r2lo3w3lo6dp6k2r3lo4dp3~x2/"><circle cx="144.9" cy="104.0" r="4" fill="#3465a4"><title>Roman (Personal)</title></circle></a><circle cx="186.3" cy="116.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/g3db3g3db3g3m22ly2db2r22t5r8ly2t2~x2/

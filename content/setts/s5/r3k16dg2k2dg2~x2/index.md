@@ -2,7 +2,7 @@
 title: "Gadsden (Artefact)"
 date: 2023-03-18
 ---
-**Bands:** [GKGKR](/stripes/gkgkr/) · **Stripes:** [DG K DG K R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG K DG K R</span></span>
+**Bands:** [RKGKG](/stripes/rkgkg/) · **Stripes:** [R K DG K DG](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">R K DG K DG</span></span>
 
 
 This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/
 Original link http://www.tartansauthority.com/tartan-ferret/display/7889/
 
 ## Thread count
-G/4 DB4 G4 DB32 R/6
+R/6 DB32 G4 DB4 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -24,27 +24,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/4 DB4 G4 DB32 R/6 tartan")
+![Tartan detail](tartan.png "R/6 DB32 G4 DB4 G/4 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Cowe (Personal)](/setts/s7/k8t3k32b14w3k25t3~x2/) — ΔT 1.64
-1. [St. Eloi](/setts/s6/r3lo2k10w1k10lo2~x6/) — ΔT 1.75
+1. [St. Eloi](/setts/s6/r3lo2k10w1~x6/) — ΔT 1.75
 1. [Holden Black (Corporate)](/setts/s7/n13k3n3k3n3k35r3~x2/) — ΔT 1.81
 1. [Dollar Academy (1930s) (Corporate)](/setts/s6/db9k9db9k9db42w5~x2/) — ΔT 1.82
-1. [BC Corps of Commissionaires](/setts/s7/db12w1r3w1r3w1db6~x4/) — ΔT 1.82
 1. [C-Tec N.I. Ltd](/setts/s4/k62db15w6ly4~x2/) — ΔT 1.82
-1. [Rogues (United States), The](/setts/s4/ly3k50n12r3~x2/) — ΔT 1.83
+1. [BC Corps of Commissionaires](/setts/s7/db12w1r3w1r3w1db6~x4/) — ΔT 1.82
+1. [Rogues (United States), The](/setts/s4/r3n12k50ly3~x2/) — ΔT 1.83
 1. [Westgate Fashion Tartan Tartan Number: 6019. Earliest known date: pre 2003 A fashion tartan See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/y14k80y14ly5~x2/) — ΔT 1.85
 1. [Pride of Nova Scotia (Corporate)](/setts/s7/k3lo2k36dt16k5dt2w3~x2/) — ΔT 1.92
 1. [Nightstalker (Corporate)](/setts/s8/k1g1k8n1k1n2k1n1~x8/) — ΔT 1.93
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k8t3k32b14w3k25t3~x2/"><circle cx="412.6" cy="213.0" r="4" fill="#3465a4"><title>Cowe (Personal)</title></circle></a><a href="/setts/s6/r3lo2k10w1k10lo2~x6/"><circle cx="376.6" cy="216.0" r="4" fill="#3465a4"><title>St. Eloi</title></circle></a><a href="/setts/s7/n13k3n3k3n3k35r3~x2/"><circle cx="451.6" cy="215.2" r="4" fill="#3465a4"><title>Holden Black (Corporate)</title></circle></a><a href="/setts/s6/db9k9db9k9db42w5~x2/"><circle cx="448.5" cy="250.0" r="4" fill="#3465a4"><title>Dollar Academy (1930s) (Corporate)</title></circle></a><a href="/setts/s7/db12w1r3w1r3w1db6~x4/"><circle cx="395.8" cy="206.5" r="4" fill="#3465a4"><title>BC Corps of Commissionaires</title></circle></a><a href="/setts/s4/k62db15w6ly4~x2/"><circle cx="424.6" cy="199.8" r="4" fill="#3465a4"><title>C-Tec N.I. Ltd</title></circle></a><a href="/setts/s4/ly3k50n12r3~x2/"><circle cx="466.0" cy="200.6" r="4" fill="#3465a4"><title>Rogues (United States), The</title></circle></a><a href="/setts/s4/y14k80y14ly5~x2/"><circle cx="475.8" cy="229.9" r="4" fill="#3465a4"><title>Westgate Fashion Tartan Tartan Number: 6019. Earliest known date: pre 2003 A fashion tartan See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/k3lo2k36dt16k5dt2w3~x2/"><circle cx="414.1" cy="177.5" r="4" fill="#3465a4"><title>Pride of Nova Scotia (Corporate)</title></circle></a><a href="/setts/s8/k1g1k8n1k1n2k1n1~x8/"><circle cx="459.8" cy="238.0" r="4" fill="#3465a4"><title>Nightstalker (Corporate)</title></circle></a><circle cx="448.5" cy="244.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k8t3k32b14w3k25t3~x2/"><circle cx="412.6" cy="212.7" r="4" fill="#3465a4"><title>Cowe (Personal)</title></circle></a><a href="/setts/s6/r3lo2k10w1~x6/"><circle cx="376.7" cy="215.7" r="4" fill="#3465a4"><title>St. Eloi</title></circle></a><a href="/setts/s7/n13k3n3k3n3k35r3~x2/"><circle cx="451.5" cy="215.0" r="4" fill="#3465a4"><title>Holden Black (Corporate)</title></circle></a><a href="/setts/s6/db9k9db9k9db42w5~x2/"><circle cx="448.5" cy="249.6" r="4" fill="#3465a4"><title>Dollar Academy (1930s) (Corporate)</title></circle></a><a href="/setts/s4/k62db15w6ly4~x2/"><circle cx="424.6" cy="199.4" r="4" fill="#3465a4"><title>C-Tec N.I. Ltd</title></circle></a><a href="/setts/s7/db12w1r3w1r3w1db6~x4/"><circle cx="395.7" cy="206.2" r="4" fill="#3465a4"><title>BC Corps of Commissionaires</title></circle></a><a href="/setts/s4/r3n12k50ly3~x2/"><circle cx="465.9" cy="200.3" r="4" fill="#3465a4"><title>Rogues (United States), The</title></circle></a><a href="/setts/s4/y14k80y14ly5~x2/"><circle cx="475.7" cy="229.6" r="4" fill="#3465a4"><title>Westgate Fashion Tartan Tartan Number: 6019. Earliest known date: pre 2003 A fashion tartan See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/k3lo2k36dt16k5dt2w3~x2/"><circle cx="414.2" cy="177.3" r="4" fill="#3465a4"><title>Pride of Nova Scotia (Corporate)</title></circle></a><a href="/setts/s8/k1g1k8n1k1n2k1n1~x8/"><circle cx="459.8" cy="237.8" r="4" fill="#3465a4"><title>Nightstalker (Corporate)</title></circle></a><circle cx="448.5" cy="244.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/r3k16dg2k2dg2~x2/

@@ -8,7 +8,7 @@ WRKRKY
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/ly6k5o4k48r36w6/tartan.png)
+![Woven sample](/setts/s6/w6r36k48o4k5ly6/tartan.png)
 
 
 
@@ -21,17 +21,17 @@ WRKRKY
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### W O K R K LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W O K R K LY</span></span>
+### LY K O K R W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K O K R W</span></span>
 
 | Tartans |
 |---------------|
-| [Drambuie dress](/setts/s6/ly6k5r4k48o36w6/)|
-|![Drambuie dress example sett](/setts/s6/ly6k5r4k48o36w6/sett.png)|
+| [Drambuie](/setts/s6/w6r36k48o4k5ly6/)|
+|![Drambuie example sett](/setts/s6/w6r36k48o4k5ly6/sett.png)|
 
-### W R K O K LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W R K O K LY</span></span>
+### LY K R K O W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K R K O W</span></span>
 
 | Tartans |
 |---------------|
-| [Drambuie](/setts/s6/ly6k5o4k48r36w6/)|
-|![Drambuie example sett](/setts/s6/ly6k5o4k48r36w6/sett.png)|
+| [Drambuie dress](/setts/s6/w6o36k48r4k5ly6/)|
+|![Drambuie dress example sett](/setts/s6/w6o36k48r4k5ly6/sett.png)|
 

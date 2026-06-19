@@ -22,6 +22,6 @@ BWRWBWBBGBBWBWRW
 
 | Tartans |
 |---------------|
-| [Heather (RSPCC)](/setts/s16/db4lb3o30lb3dp16lb3dp10dp48g4dp48dp10lb3dp16lb3o30lb3~x2/)|
-|![Heather (RSPCC) example sett](/setts/s16/db4lb3o30lb3dp16lb3dp10dp48g4dp48dp10lb3dp16lb3o30lb3~x2/sett.png)|
+| [Heather (RSPCC)](/setts/s16/db4lb3o30lb3dp16lb3dp10dp48g4~x2/)|
+|![Heather (RSPCC) example sett](/setts/s16/db4lb3o30lb3dp16lb3dp10dp48g4~x2/sett.png)|
 

@@ -20,7 +20,7 @@ GBKBGY
 
 
 
-### Y DR K DO Y LO <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">Y DR K DO Y LO</span></span>
+### LO Y DO K DR Y <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LO Y DO K DR Y</span></span>
 
 | Tartans |
 |---------------|

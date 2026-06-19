@@ -23,7 +23,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10949](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10949)
 
 ## Thread count
-Y/4 K70 R4 K8 R8 K8 R20 Y4 K4 Y/12
+Y/12 K4 Y4 R20 K8 R8 K8 R4 K70 Y/4
 ![Sett](sett.png)
 
 ## Palette
@@ -46,14 +46,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Tweedside Red](/setts/s9/k18r2k2r5w2r2w2r2k2~x4/) — ΔT 1.55
 1. [Black Forest](/setts/s12/k20o4k20o2o2o7k2o2o2o7o2o2~x4/) — ΔT 1.61
 1. [Black Forest (Fashion)](/setts/s12/k20o2o2o7o2o2k2o7o2o2k20o4~x4/) — ΔT 1.61
-1. [Johnston Orange/Black (Corporate)](/setts/s8/lo1k1lo1k12lo12k1lo1w1~x4/) — ΔT 1.62
+1. [Johnston Orange/Black (Corporate)](/setts/s8/w1lo1k1lo12k12lo1k1lo1~x4/) — ΔT 1.62
 1. [Bertea, A H (Personal)](/setts/s9/w2k3r10k5r3k5r15k35w1~x2/) — ΔT 1.63
 1. [Partick Thistle Football Club](/setts/s7/k53ly4k7ly2k4r30w3~x2/) — ΔT 1.64
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k18r2k2r5w2r2w2r2k2~x2/"><circle cx="331.7" cy="174.3" r="4" fill="#3465a4"><title>Tweedside</title></circle></a><a href="/setts/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/"><circle cx="348.1" cy="150.9" r="4" fill="#3465a4"><title>Hebridean 8</title></circle></a><a href="/setts/s9/lr1r6k1r1k16r1k1r6ly1~x2/"><circle cx="331.1" cy="140.3" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/setts/s11/k4w1r4k2g2r3k2k20r2k2r2/"><circle cx="411.9" cy="133.4" r="4" fill="#3465a4"><title>Valdres, Kvam and Vang</title></circle></a><a href="/setts/s9/k18r2k2r5w2r2w2r2k2~x4/"><circle cx="335.4" cy="170.4" r="4" fill="#3465a4"><title>Tweedside Red</title></circle></a><a href="/setts/s12/k20o4k20o2o2o7k2o2o2o7o2o2~x4/"><circle cx="323.9" cy="178.6" r="4" fill="#3465a4"><title>Black Forest</title></circle></a><a href="/setts/s12/k20o2o2o7o2o2k2o7o2o2k20o4~x4/"><circle cx="323.9" cy="178.6" r="4" fill="#3465a4"><title>Black Forest (Fashion)</title></circle></a><a href="/setts/s8/lo1k1lo1k12lo12k1lo1w1~x4/"><circle cx="314.8" cy="158.7" r="4" fill="#3465a4"><title>Johnston Orange/Black (Corporate)</title></circle></a><a href="/setts/s9/w2k3r10k5r3k5r15k35w1~x2/"><circle cx="414.1" cy="131.2" r="4" fill="#3465a4"><title>Bertea, A H (Personal)</title></circle></a><a href="/setts/s7/k53ly4k7ly2k4r30w3~x2/"><circle cx="390.8" cy="133.9" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><circle cx="376.6" cy="137.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k18r2k2r5w2r2w2r2k2~x2/"><circle cx="331.7" cy="174.0" r="4" fill="#3465a4"><title>Tweedside</title></circle></a><a href="/setts/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/"><circle cx="348.0" cy="150.7" r="4" fill="#3465a4"><title>Hebridean 8</title></circle></a><a href="/setts/s9/lr1r6k1r1k16r1k1r6ly1~x2/"><circle cx="331.0" cy="140.1" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/setts/s11/k4w1r4k2g2r3k2k20r2k2r2/"><circle cx="411.8" cy="133.2" r="4" fill="#3465a4"><title>Valdres, Kvam and Vang</title></circle></a><a href="/setts/s9/k18r2k2r5w2r2w2r2k2~x4/"><circle cx="335.2" cy="170.1" r="4" fill="#3465a4"><title>Tweedside Red</title></circle></a><a href="/setts/s12/k20o4k20o2o2o7k2o2o2o7o2o2~x4/"><circle cx="323.9" cy="178.5" r="4" fill="#3465a4"><title>Black Forest</title></circle></a><a href="/setts/s12/k20o2o2o7o2o2k2o7o2o2k20o4~x4/"><circle cx="323.9" cy="178.5" r="4" fill="#3465a4"><title>Black Forest (Fashion)</title></circle></a><a href="/setts/s8/w1lo1k1lo12k12lo1k1lo1~x4/"><circle cx="314.6" cy="158.4" r="4" fill="#3465a4"><title>Johnston Orange/Black (Corporate)</title></circle></a><a href="/setts/s9/w2k3r10k5r3k5r15k35w1~x2/"><circle cx="413.8" cy="130.9" r="4" fill="#3465a4"><title>Bertea, A H (Personal)</title></circle></a><a href="/setts/s7/k53ly4k7ly2k4r30w3~x2/"><circle cx="390.6" cy="133.7" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><circle cx="376.5" cy="136.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/ly6k2ly2r10k4r4k4r2k35ly2~x2/

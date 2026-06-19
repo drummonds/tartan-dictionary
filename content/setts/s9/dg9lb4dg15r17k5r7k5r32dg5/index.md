@@ -13,13 +13,23 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Thread count
 G/9 N4 G15 R17 K5 R7 K5 R32 G/5
@@ -39,21 +49,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Morrison, Ancient](/setts/s10/g6w3g12r12k4r6k4r24g4r6/) — ΔT 0.55
+1. [Morrison, Ancient](/setts/s10/r6g4r24k4r6k4r12g12w3g6/) — ΔT 0.55
 1. [Morrison](/setts/s9/g5w2g8r9k3r4k3r17g3~x2/) — ΔT 0.65
 1. [Morrison LC](/setts/s9/dg9lr4dg15r17k5r7k5r32dg5~x2/) — ΔT 0.72
 1. [Morrison LC](/setts/s9/dg9lr4dg15r17k5r7k5r32dg5/) — ΔT 0.72
 1. [Morrison Ancient](/setts/s10/dg6w3dg12r12k4r6k4r24dg4r6/) — ΔT 0.74
-1. [MacIver (Clan)](/setts/s9/ly2r12k3r3k16r3k3r12w2~x2/) — ΔT 0.80
+1. [MacIver (Clan)](/setts/s9/w2r12k3r3k16r3k3r12ly2~x2/) — ΔT 0.80
 1. [Alexander - 1985 (Name)](/setts/s9/r12g2r4g4k15t4r4t2r12~x2/) — ΔT 0.80
 1. [Nicolson, MacNicol](/setts/s12/r6g1r6k4r1t1r1g8r6k1r6g1~x2/) — ΔT 0.82
-1. [MacNicol](/setts/s12/r6dg1r6k4r1lb1r1dg8r6k1r6dg1~x2/) — ΔT 0.87
+1. [MacNicol](/setts/s12/r6dg1r6k4r1lb1r1dg8r6k1r6dg1/) — ΔT 0.87
 1. [Comyn](/setts/s8/k1r9dg2r2dg4lb1dg4r1~x2/) — ΔT 0.91
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g6w3g12r12k4r6k4r24g4r6/"><circle cx="288.3" cy="185.2" r="4" fill="#3465a4"><title>Morrison, Ancient</title></circle></a><a href="/setts/s9/g5w2g8r9k3r4k3r17g3~x2/"><circle cx="286.4" cy="195.1" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/setts/s9/dg9lr4dg15r17k5r7k5r32dg5~x2/"><circle cx="298.7" cy="201.2" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/setts/s9/dg9lr4dg15r17k5r7k5r32dg5/"><circle cx="298.7" cy="201.2" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/setts/s10/dg6w3dg12r12k4r6k4r24dg4r6/"><circle cx="301.6" cy="186.9" r="4" fill="#3465a4"><title>Morrison Ancient</title></circle></a><a href="/setts/s9/ly2r12k3r3k16r3k3r12w2~x2/"><circle cx="283.1" cy="182.3" r="4" fill="#3465a4"><title>MacIver (Clan)</title></circle></a><a href="/setts/s9/r12g2r4g4k15t4r4t2r12~x2/"><circle cx="259.3" cy="200.3" r="4" fill="#3465a4"><title>Alexander - 1985 (Name)</title></circle></a><a href="/setts/s12/r6g1r6k4r1t1r1g8r6k1r6g1~x2/"><circle cx="304.7" cy="180.4" r="4" fill="#3465a4"><title>Nicolson, MacNicol</title></circle></a><a href="/setts/s12/r6dg1r6k4r1lb1r1dg8r6k1r6dg1~x2/"><circle cx="306.5" cy="179.7" r="4" fill="#3465a4"><title>MacNicol</title></circle></a><a href="/setts/s8/k1r9dg2r2dg4lb1dg4r1~x2/"><circle cx="283.5" cy="191.9" r="4" fill="#3465a4"><title>Comyn</title></circle></a><circle cx="281.7" cy="188.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r6g4r24k4r6k4r12g12w3g6/"><circle cx="288.0" cy="185.1" r="4" fill="#3465a4"><title>Morrison, Ancient</title></circle></a><a href="/setts/s9/g5w2g8r9k3r4k3r17g3~x2/"><circle cx="286.1" cy="194.9" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/setts/s9/dg9lr4dg15r17k5r7k5r32dg5~x2/"><circle cx="298.5" cy="201.1" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/setts/s9/dg9lr4dg15r17k5r7k5r32dg5/"><circle cx="298.5" cy="201.1" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/setts/s10/dg6w3dg12r12k4r6k4r24dg4r6/"><circle cx="301.3" cy="186.8" r="4" fill="#3465a4"><title>Morrison Ancient</title></circle></a><a href="/setts/s9/w2r12k3r3k16r3k3r12ly2~x2/"><circle cx="282.9" cy="182.1" r="4" fill="#3465a4"><title>MacIver (Clan)</title></circle></a><a href="/setts/s9/r12g2r4g4k15t4r4t2r12~x2/"><circle cx="259.1" cy="200.2" r="4" fill="#3465a4"><title>Alexander - 1985 (Name)</title></circle></a><a href="/setts/s12/r6g1r6k4r1t1r1g8r6k1r6g1~x2/"><circle cx="304.4" cy="180.2" r="4" fill="#3465a4"><title>Nicolson, MacNicol</title></circle></a><a href="/setts/s12/r6dg1r6k4r1lb1r1dg8r6k1r6dg1/"><circle cx="306.2" cy="179.5" r="4" fill="#3465a4"><title>MacNicol</title></circle></a><a href="/setts/s8/k1r9dg2r2dg4lb1dg4r1~x2/"><circle cx="283.3" cy="191.8" r="4" fill="#3465a4"><title>Comyn</title></circle></a><circle cx="281.5" cy="188.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dg9lb4dg15r17k5r7k5r32dg5/

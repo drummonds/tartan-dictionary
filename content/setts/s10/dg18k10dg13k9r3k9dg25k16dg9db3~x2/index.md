@@ -2,7 +2,7 @@
 title: "Holman"
 date: 2023-03-18
 ---
-**Bands:** [BGKGKRKGKG](/stripes/bgkgkrkgkg/) · **Stripes:** [DB DG K DG K R K DG K DG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">DB DG K DG K R K DG K DG</span></span>
+**Bands:** [GKGKRKGKGB](/stripes/gkgkrkgkgb/) · **Stripes:** [DG K DG K R K DG K DG DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">DG K DG K R K DG K DG DB</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/6 DG18 DB32 DG50 DB18 R6 DB18 DG26 DB20 DG/36
+DG/36 DB20 DG26 DB18 R6 DB18 DG50 DB32 DG18 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -910,13 +913,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Dewar, Robert Alexander](/setts/s9/dg15dt8k5dt8dg15ly3dg15dt8k5~x2/) — ΔT 1.81
 1. [Dalmeny - 1965 (Fashion)](/setts/s10/db8k1db8k2dg6r1dg6k2db8lb1~x2/) — ΔT 1.94
 1. [de Vere-Austin (Clan)](/setts/s11/dg14k8dg21k2lo5k2dg21k11db18k2r5~x2/) — ΔT 1.95
-1. [Bruce of Crionaich (Personal)](/setts/s11/ly1dg8db2dg2db6dg1db6dg2db2dg8r1~x4/) — ΔT 1.95
+1. [Bruce of Crionaich (Personal)](/setts/s11/r1dg8db2dg2db6dg1db6dg2db2dg8ly1~x4/) — ΔT 1.95
 1. [Klappert (Name)](/setts/s9/n16k13n7dy3r2dy3n7k13n16~x2/) — ΔT 1.96
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dt16k13dt7dy3r2dy3dt7k13dt16~x2/"><circle cx="342.3" cy="267.5" r="4" fill="#3465a4"><title>Klappert, Denmark (Personal)</title></circle></a><a href="/setts/s7/k25lo5k5dg25k25db3k10~x2/"><circle cx="408.4" cy="273.5" r="4" fill="#3465a4"><title>London Community Gospel Choir, The</title></circle></a><a href="/setts/s13/r3k2db10k10dg12k8dg12k10dg2k10db2k2db2/"><circle cx="260.3" cy="253.7" r="4" fill="#3465a4"><title>Unidentified #10</title></circle></a><a href="/setts/s6/k5g23k18db21k33db3~x2/"><circle cx="346.3" cy="289.3" r="4" fill="#3465a4"><title>Black Watch (variation)</title></circle></a><a href="/setts/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2/"><circle cx="401.9" cy="259.7" r="4" fill="#3465a4"><title>Guildry of Stirling</title></circle></a><a href="/setts/s9/dg15dt8k5dt8dg15ly3dg15dt8k5~x2/"><circle cx="306.4" cy="317.6" r="4" fill="#3465a4"><title>Dewar, Robert Alexander</title></circle></a><a href="/setts/s10/db8k1db8k2dg6r1dg6k2db8lb1~x2/"><circle cx="330.5" cy="252.0" r="4" fill="#3465a4"><title>Dalmeny - 1965 (Fashion)</title></circle></a><a href="/setts/s11/dg14k8dg21k2lo5k2dg21k11db18k2r5~x2/"><circle cx="302.8" cy="233.1" r="4" fill="#3465a4"><title>de Vere-Austin (Clan)</title></circle></a><a href="/setts/s11/ly1dg8db2dg2db6dg1db6dg2db2dg8r1~x4/"><circle cx="314.8" cy="232.2" r="4" fill="#3465a4"><title>Bruce of Crionaich (Personal)</title></circle></a><a href="/setts/s9/n16k13n7dy3r2dy3n7k13n16~x2/"><circle cx="324.1" cy="252.5" r="4" fill="#3465a4"><title>Klappert (Name)</title></circle></a><circle cx="354.1" cy="284.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dt16k13dt7dy3r2dy3dt7k13dt16~x2/"><circle cx="342.4" cy="267.5" r="4" fill="#3465a4"><title>Klappert, Denmark (Personal)</title></circle></a><a href="/setts/s7/k25lo5k5dg25k25db3k10~x2/"><circle cx="408.5" cy="273.4" r="4" fill="#3465a4"><title>London Community Gospel Choir, The</title></circle></a><a href="/setts/s13/r3k2db10k10dg12k8dg12k10dg2k10db2k2db2/"><circle cx="260.4" cy="253.7" r="4" fill="#3465a4"><title>Unidentified #10</title></circle></a><a href="/setts/s6/k5g23k18db21k33db3~x2/"><circle cx="346.4" cy="289.3" r="4" fill="#3465a4"><title>Black Watch (variation)</title></circle></a><a href="/setts/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2/"><circle cx="401.9" cy="259.7" r="4" fill="#3465a4"><title>Guildry of Stirling</title></circle></a><a href="/setts/s9/dg15dt8k5dt8dg15ly3dg15dt8k5~x2/"><circle cx="306.6" cy="317.6" r="4" fill="#3465a4"><title>Dewar, Robert Alexander</title></circle></a><a href="/setts/s10/db8k1db8k2dg6r1dg6k2db8lb1~x2/"><circle cx="330.7" cy="252.1" r="4" fill="#3465a4"><title>Dalmeny - 1965 (Fashion)</title></circle></a><a href="/setts/s11/dg14k8dg21k2lo5k2dg21k11db18k2r5~x2/"><circle cx="302.9" cy="233.2" r="4" fill="#3465a4"><title>de Vere-Austin (Clan)</title></circle></a><a href="/setts/s11/r1dg8db2dg2db6dg1db6dg2db2dg8ly1~x4/"><circle cx="314.9" cy="232.2" r="4" fill="#3465a4"><title>Bruce of Crionaich (Personal)</title></circle></a><a href="/setts/s9/n16k13n7dy3r2dy3n7k13n16~x2/"><circle cx="324.1" cy="252.4" r="4" fill="#3465a4"><title>Klappert (Name)</title></circle></a><circle cx="354.3" cy="284.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/dg18k10dg13k9r3k9dg25k16dg9db3~x2/

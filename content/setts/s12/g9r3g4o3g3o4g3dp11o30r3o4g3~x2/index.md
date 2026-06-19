@@ -2,7 +2,7 @@
 title: "Harmony 5"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRGBRRRG](/stripes/grgrgrgbrrrg/) · **Stripes:** [G R G O G O G DP O R O G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G R G O G O G DP O R O G</span></span>
+**Bands:** [GRRRBGRGRGRG](/stripes/grrrbgrgrgrg/) · **Stripes:** [G O R O DP G O G O G R G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G O R O DP G O G O G R G</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/6 LT8 R6 LT60 P22 G6 LTa8 G6 LTa6 G8 R6 G/18
+G/18 R6 G8 LTa6 G6 LTa8 G6 P22 LT60 R6 LT8 G/6
 ![Sett](sett.png)
 
 ## Palette
@@ -905,19 +908,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Stewart Camel (Lochcarron)](/setts/s14/y3dy3dg2dy6y7dg2y3dg2lo3dg5y3b3y20dy2~x2/) — ΔT 1.14
 1. [Tasmanian](/setts/s11/r5lp2y24lr2y2lr2y6lr8r6lr8ly4~x2/) — ΔT 1.15
-1. [Methven](/setts/s11/lo2dg24y2dg2y6r21dy2r2dy18dg3r2~x2/) — ΔT 1.17
+1. [Methven](/setts/s11/r2dg3dy18r2dy2r21y6dg2y2dg24lo2~x2/) — ΔT 1.17
 1. [Lander (2013)](/setts/s15/lo18do3lo3do3lo3do16y16r2ly2r2y16do16lo17do3lo3~x2/) — ΔT 1.21
 1. [Brousseau (Personal)](/setts/s9/y25r2lb2db2lb2r13dy28db2r3~x2/) — ΔT 1.28
-1. [Dorcas (Fashion)](/setts/s12/o4lb2o2lb3o26dt6g3dt2g2dt2g20r4~x2/) — ΔT 1.29
-1. [Scottish Crofting Foundation](/setts/s9/do6lg3do18dy2do2dy10y28r2y4~x2/) — ΔT 1.31
+1. [Dorcas (Fashion)](/setts/s12/r4g20dt2g2dt2g3dt6o26lb3o2lb2o4~x2/) — ΔT 1.29
+1. [Scottish Crofting Foundation](/setts/s9/do6lg3do18dy2do2dy10y28r2y4~x2/) — ΔT 1.32
 1. [John Muir Way](/setts/s8/dy35dg19r3y8r3dg8r3t3~x2/) — ΔT 1.37
 1. [Moncton, City of](/setts/s9/g4r1db2r1g10y5r3y10ly1~x4/) — ΔT 1.39
-1. [Methven](/setts/s11/lo2dg24g2dg2g2o21dy2o2dy18dg3o2~x2/) — ΔT 1.44
+1. [Methven](/setts/s11/o2dg3dy18o2dy2o21g2dg2g2dg24lo2~x2/) — ΔT 1.45
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/y3dy3dg2dy6y7dg2y3dg2lo3dg5y3b3y20dy2~x2/"><circle cx="250.9" cy="168.0" r="4" fill="#3465a4"><title>Stewart Camel (Lochcarron)</title></circle></a><a href="/setts/s11/r5lp2y24lr2y2lr2y6lr8r6lr8ly4~x2/"><circle cx="293.4" cy="176.0" r="4" fill="#3465a4"><title>Tasmanian</title></circle></a><a href="/setts/s11/lo2dg24y2dg2y6r21dy2r2dy18dg3r2~x2/"><circle cx="251.6" cy="179.5" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/setts/s15/lo18do3lo3do3lo3do16y16r2ly2r2y16do16lo17do3lo3~x2/"><circle cx="222.4" cy="189.6" r="4" fill="#3465a4"><title>Lander (2013)</title></circle></a><a href="/setts/s9/y25r2lb2db2lb2r13dy28db2r3~x2/"><circle cx="269.8" cy="172.3" r="4" fill="#3465a4"><title>Brousseau (Personal)</title></circle></a><a href="/setts/s12/o4lb2o2lb3o26dt6g3dt2g2dt2g20r4~x2/"><circle cx="269.6" cy="152.8" r="4" fill="#3465a4"><title>Dorcas (Fashion)</title></circle></a><a href="/setts/s9/do6lg3do18dy2do2dy10y28r2y4~x2/"><circle cx="309.9" cy="194.1" r="4" fill="#3465a4"><title>Scottish Crofting Foundation</title></circle></a><a href="/setts/s8/dy35dg19r3y8r3dg8r3t3~x2/"><circle cx="302.1" cy="205.8" r="4" fill="#3465a4"><title>John Muir Way</title></circle></a><a href="/setts/s9/g4r1db2r1g10y5r3y10ly1~x4/"><circle cx="257.2" cy="208.5" r="4" fill="#3465a4"><title>Moncton, City of</title></circle></a><a href="/setts/s11/lo2dg24g2dg2g2o21dy2o2dy18dg3o2~x2/"><circle cx="242.6" cy="158.9" r="4" fill="#3465a4"><title>Methven</title></circle></a><circle cx="271.7" cy="174.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/y3dy3dg2dy6y7dg2y3dg2lo3dg5y3b3y20dy2~x2/"><circle cx="250.7" cy="168.3" r="4" fill="#3465a4"><title>Stewart Camel (Lochcarron)</title></circle></a><a href="/setts/s11/r5lp2y24lr2y2lr2y6lr8r6lr8ly4~x2/"><circle cx="293.0" cy="176.1" r="4" fill="#3465a4"><title>Tasmanian</title></circle></a><a href="/setts/s11/r2dg3dy18r2dy2r21y6dg2y2dg24lo2~x2/"><circle cx="251.5" cy="179.7" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/setts/s15/lo18do3lo3do3lo3do16y16r2ly2r2y16do16lo17do3lo3~x2/"><circle cx="222.2" cy="189.8" r="4" fill="#3465a4"><title>Lander (2013)</title></circle></a><a href="/setts/s9/y25r2lb2db2lb2r13dy28db2r3~x2/"><circle cx="269.6" cy="172.5" r="4" fill="#3465a4"><title>Brousseau (Personal)</title></circle></a><a href="/setts/s12/r4g20dt2g2dt2g3dt6o26lb3o2lb2o4~x2/"><circle cx="269.3" cy="153.0" r="4" fill="#3465a4"><title>Dorcas (Fashion)</title></circle></a><a href="/setts/s9/do6lg3do18dy2do2dy10y28r2y4~x2/"><circle cx="309.8" cy="194.3" r="4" fill="#3465a4"><title>Scottish Crofting Foundation</title></circle></a><a href="/setts/s8/dy35dg19r3y8r3dg8r3t3~x2/"><circle cx="302.0" cy="206.0" r="4" fill="#3465a4"><title>John Muir Way</title></circle></a><a href="/setts/s9/g4r1db2r1g10y5r3y10ly1~x4/"><circle cx="257.0" cy="208.6" r="4" fill="#3465a4"><title>Moncton, City of</title></circle></a><a href="/setts/s11/o2dg3dy18o2dy2o21g2dg2g2dg24lo2~x2/"><circle cx="242.4" cy="159.1" r="4" fill="#3465a4"><title>Methven</title></circle></a><circle cx="271.4" cy="174.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/g9r3g4o3g3o4g3dp11o30r3o4g3~x2/

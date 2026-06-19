@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/
 Original link http://www.tartansauthority.com/tartan-ferret/display/8556/
 
 ## Thread count
-DB/4 R16 DY22 B8 R26 G48 LN/6
+LN/6 G48 R26 B8 DY22 R16 DB/4
 ![Sett](sett.png)
 
 ## Palette
@@ -27,7 +27,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/4 R16 DY22 B8 R26 G48 LN/6 tartan")
+![Tartan detail](tartan.png "LN/6 G48 R26 B8 DY22 R16 DB/4 tartan")
 
 ## Nearest tartans
 
@@ -42,12 +42,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Bathija (Name)](/setts/s7/ly4g18b4r8b8r21w1~x2/) — ΔT 1.19
 1. [Barbour - Muted](/setts/s7/ly4o21w2dt11ly21r2ly4~x2/) — ΔT 1.21
 1. [Barbour Dress](/setts/s7/o4do2o21db11w2o20r3~x2/) — ΔT 1.24
-1. [Bruce of Kinnaird (Fashion)](/setts/s10/lo22ly22dr2lb6dr2lo2dr16lg5lo8lb2~x2/) — ΔT 1.28
+1. [Bruce of Kinnaird (Fashion)](/setts/s10/lo22ly22dr2lb6dr2lo2dr16lg5lo8lb2~x2/) — ΔT 1.29
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/t4dy27lo8k4lo8k4lo8r11ly3~x2/"><circle cx="152.6" cy="169.6" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><a href="/setts/s7/r10n3db1lb8db1lo2g5~x4/"><circle cx="116.6" cy="163.2" r="4" fill="#3465a4"><title>Porcupine City of</title></circle></a><a href="/setts/s7/r1g4w1g4ly1r8t1~x6/"><circle cx="177.9" cy="171.7" r="4" fill="#3465a4"><title>George Watson's College</title></circle></a><a href="/setts/s9/t4dy27lr8k4lr8k4lr8r11ly3~x2/"><circle cx="119.6" cy="150.4" r="4" fill="#3465a4"><title>Brittany Hunting French Fancy Tartan Tartan Number: 5977. Earliest known date: 2003 For Richard and Anne-Marie Duclos of Le Coudray-Montceaux, France. Based on the Breton National at 3902. The term Randonnée (Walking) is used in the sense of the Scottish category, Hunting. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/k20lo4r4lo20y20lb5y2g2~x2/"><circle cx="117.6" cy="159.0" r="4" fill="#3465a4"><title>Hackett Hunting (Personal)</title></circle></a><a href="/setts/s8/db4r11db1g8r2g4k1ly2~x4/"><circle cx="188.7" cy="170.1" r="4" fill="#3465a4"><title>Craik, of Assington</title></circle></a><a href="/setts/s7/ly4g18b4r8b8r21w1~x2/"><circle cx="155.0" cy="142.1" r="4" fill="#3465a4"><title>Bathija (Name)</title></circle></a><a href="/setts/s7/ly4o21w2dt11ly21r2ly4~x2/"><circle cx="149.0" cy="144.5" r="4" fill="#3465a4"><title>Barbour - Muted</title></circle></a><a href="/setts/s7/o4do2o21db11w2o20r3~x2/"><circle cx="190.0" cy="167.3" r="4" fill="#3465a4"><title>Barbour Dress</title></circle></a><a href="/setts/s10/lo22ly22dr2lb6dr2lo2dr16lg5lo8lb2~x2/"><circle cx="132.9" cy="134.1" r="4" fill="#3465a4"><title>Bruce of Kinnaird (Fashion)</title></circle></a><circle cx="162.8" cy="166.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/t4dy27lo8k4lo8k4lo8r11ly3~x2/"><circle cx="152.5" cy="169.8" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><a href="/setts/s7/r10n3db1lb8db1lo2g5~x4/"><circle cx="116.5" cy="163.3" r="4" fill="#3465a4"><title>Porcupine City of</title></circle></a><a href="/setts/s7/r1g4w1g4ly1r8t1~x6/"><circle cx="177.8" cy="171.8" r="4" fill="#3465a4"><title>George Watson's College</title></circle></a><a href="/setts/s9/t4dy27lr8k4lr8k4lr8r11ly3~x2/"><circle cx="119.5" cy="150.5" r="4" fill="#3465a4"><title>Brittany Hunting French Fancy Tartan Tartan Number: 5977. Earliest known date: 2003 For Richard and Anne-Marie Duclos of Le Coudray-Montceaux, France. Based on the Breton National at 3902. The term Randonnée (Walking) is used in the sense of the Scottish category, Hunting. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/k20lo4r4lo20y20lb5y2g2~x2/"><circle cx="117.6" cy="159.1" r="4" fill="#3465a4"><title>Hackett Hunting (Personal)</title></circle></a><a href="/setts/s8/db4r11db1g8r2g4k1ly2~x4/"><circle cx="188.5" cy="170.1" r="4" fill="#3465a4"><title>Craik, of Assington</title></circle></a><a href="/setts/s7/ly4g18b4r8b8r21w1~x2/"><circle cx="154.9" cy="142.2" r="4" fill="#3465a4"><title>Bathija (Name)</title></circle></a><a href="/setts/s7/ly4o21w2dt11ly21r2ly4~x2/"><circle cx="148.7" cy="144.6" r="4" fill="#3465a4"><title>Barbour - Muted</title></circle></a><a href="/setts/s7/o4do2o21db11w2o20r3~x2/"><circle cx="189.8" cy="167.4" r="4" fill="#3465a4"><title>Barbour Dress</title></circle></a><a href="/setts/s10/lo22ly22dr2lb6dr2lo2dr16lg5lo8lb2~x2/"><circle cx="132.6" cy="134.3" r="4" fill="#3465a4"><title>Bruce of Kinnaird (Fashion)</title></circle></a><circle cx="162.6" cy="166.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/w3g24r13g4lo11r8db2~x2/

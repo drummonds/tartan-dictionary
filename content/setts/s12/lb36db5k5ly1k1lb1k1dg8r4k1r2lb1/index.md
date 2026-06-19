@@ -2,7 +2,7 @@
 title: "Stewart Dress"
 date: 2023-03-18
 ---
-**Bands:** [WBKYKWKGRKRW](/stripes/wbkykwkgrkrw/) · **Stripes:** [LB DB K LY K LB K DG R K R LB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB DB K LY K LB K DG R K R LB</span></span>
+**Bands:** [WRKRGKWKYKBW](/stripes/wrkrgkwkykbw/) · **Stripes:** [LB R K R DG K LB K LY K DB LB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB R K R DG K LB K LY K DB LB</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -13,13 +13,23 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Thread count
 N/36 DB5 K5 Y1 K1 N1 K1 G8 R4 K1 R2 N/1
@@ -54,8 +64,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/lr36db4k6ly1k1lr1k1dg8r4k1r2lr1~x2/"><circle cx="304.0" cy="34.8" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/setts/s12/lr36db4k6ly1k1lr1k1dg8r4k1r2lr1/"><circle cx="304.0" cy="34.8" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/setts/s12/w52db2k7w3k2dp2k1db9g8k2g3ly2~x2/"><circle cx="317.4" cy="14.0" r="4" fill="#3465a4"><title>Canmore Highland Games Dress (Corp)</title></circle></a><a href="/setts/s13/lb50db6lb2k6ly2k3lb2k3g6r6k2r2lb2~x2/"><circle cx="311.6" cy="31.9" r="4" fill="#3465a4"><title>Stewart Dress (Artefact)</title></circle></a><a href="/setts/s8/lo10dg1k2b2k18b1w45b1~x2/"><circle cx="300.0" cy="46.5" r="4" fill="#3465a4"><title>Highland Burn (Fashion)</title></circle></a><a href="/setts/s11/w72db20ly2db3w2db3y16dy6db2dy5w2~x2/"><circle cx="313.8" cy="47.9" r="4" fill="#3465a4"><title>Stuart/Stewart Dress Blue</title></circle></a><a href="/setts/s14/r2w24b3w3k6lo1k1w1k1g8r4k1r2w1~x4/"><circle cx="217.6" cy="44.5" r="4" fill="#3465a4"><title>Stewart Victoria (Royal)</title></circle></a><a href="/setts/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/"><circle cx="276.5" cy="63.7" r="4" fill="#3465a4"><title>Rothesay, Duke of</title></circle></a><a href="/setts/s11/w32k10lo1k2w1k2r7y3k1y3w1~x4/"><circle cx="286.4" cy="49.7" r="4" fill="#3465a4"><title>Glen Coe #3</title></circle></a><a href="/setts/s14/r2w24t3w3k6ly1k1w1k1g8r4k1r2w1~x2/"><circle cx="212.7" cy="41.1" r="4" fill="#3465a4"><title>Stewart Victoria</title></circle></a><circle cx="291.6" cy="25.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/lr36db4k6ly1k1lr1k1dg8r4k1r2lr1~x2/"><circle cx="303.7" cy="34.7" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/setts/s12/lr36db4k6ly1k1lr1k1dg8r4k1r2lr1/"><circle cx="303.7" cy="34.7" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/setts/s12/w52db2k7w3k2dp2k1db9g8k2g3ly2~x2/"><circle cx="316.8" cy="14.0" r="4" fill="#3465a4"><title>Canmore Highland Games Dress (Corp)</title></circle></a><a href="/setts/s13/lb50db6lb2k6ly2k3lb2k3g6r6k2r2lb2~x2/"><circle cx="311.1" cy="31.8" r="4" fill="#3465a4"><title>Stewart Dress (Artefact)</title></circle></a><a href="/setts/s8/lo10dg1k2b2k18b1w45b1~x2/"><circle cx="299.6" cy="46.4" r="4" fill="#3465a4"><title>Highland Burn (Fashion)</title></circle></a><a href="/setts/s11/w72db20ly2db3w2db3y16dy6db2dy5w2~x2/"><circle cx="313.3" cy="47.7" r="4" fill="#3465a4"><title>Stuart/Stewart Dress Blue</title></circle></a><a href="/setts/s14/r2w24b3w3k6lo1k1w1k1g8r4k1r2w1~x4/"><circle cx="217.1" cy="44.5" r="4" fill="#3465a4"><title>Stewart Victoria (Royal)</title></circle></a><a href="/setts/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/"><circle cx="276.0" cy="63.6" r="4" fill="#3465a4"><title>Rothesay, Duke of</title></circle></a><a href="/setts/s11/w32k10lo1k2w1k2r7y3k1y3w1~x4/"><circle cx="285.9" cy="49.6" r="4" fill="#3465a4"><title>Glen Coe #3</title></circle></a><a href="/setts/s14/r2w24t3w3k6ly1k1w1k1g8r4k1r2w1~x2/"><circle cx="212.3" cy="41.1" r="4" fill="#3465a4"><title>Stewart Victoria</title></circle></a><circle cx="291.2" cy="25.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/lb36db5k5ly1k1lb1k1dg8r4k1r2lb1/

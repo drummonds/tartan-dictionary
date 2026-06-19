@@ -8,7 +8,7 @@ RWGRBY
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/ly1t3r8g6w12r1~x4/tartan.png)
+![Woven sample](/setts/s6/r1w12g6r8t3ly1~x4/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RWGRBY
 
 | Tartans |
 |---------------|
-| [MacLean, dress](/setts/s6/ly1t3r8g6w12r1~x4/)|
-|![MacLean, dress example sett](/setts/s6/ly1t3r8g6w12r1~x4/sett.png)|
+| [MacLean, dress](/setts/s6/r1w12g6r8t3ly1~x4/)|
+|![MacLean, dress example sett](/setts/s6/r1w12g6r8t3ly1~x4/sett.png)|
 

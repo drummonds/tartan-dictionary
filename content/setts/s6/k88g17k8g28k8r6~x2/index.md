@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Childers Regimental
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -915,10 +924,10 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Childers (Gurkha Rifles) (Military)](/setts/s6/k88dg17k8y28k8r6/) — ΔT 0.89
 1. [Perry, hunting (Green)](/setts/s5/k65g27w2k4ly5~x2/) — ΔT 1.29
-1. [Forbes VS](/setts/s6/ly1k4dg3k8dg16r1/) — ΔT 1.33
-1. [Forbes VS](/setts/s6/ly1k4dg3k8dg16r1~x2/) — ΔT 1.45
+1. [Forbes VS](/setts/s6/r1dg16k8dg3k4ly1/) — ΔT 1.33
+1. [Forbes VS](/setts/s6/r1dg16k8dg3k4ly1~x2/) — ΔT 1.45
 1. [Childers (Personal)](/setts/s6/k44g8k4g13k4w3~x2/) — ΔT 1.46
-1. [Gunn](/setts/s6/g2k12g1k12g12r2~x2/) — ΔT 1.62
+1. [Gunn](/setts/s6/r2g12k12g1k12g2~x2/) — ΔT 1.62
 1. [Moffat](/setts/s7/k39y3k3y3k14y28r3~x2/) — ΔT 1.63
 1. [MacLean VS](/setts/s8/dg3k6lb1k6dg2k2dg16k1~x2/) — ΔT 1.64
 1. [Wilson's, No 167](/setts/s6/k20t2k6g16p4k9~x2/) — ΔT 1.65
@@ -926,8 +935,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k88dg17k8y28k8r6/"><circle cx="398.2" cy="194.0" r="4" fill="#3465a4"><title>Childers (Gurkha Rifles) (Military)</title></circle></a><a href="/setts/s5/k65g27w2k4ly5~x2/"><circle cx="415.8" cy="161.3" r="4" fill="#3465a4"><title>Perry, hunting (Green)</title></circle></a><a href="/setts/s6/ly1k4dg3k8dg16r1/"><circle cx="340.5" cy="198.6" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/setts/s6/ly1k4dg3k8dg16r1~x2/"><circle cx="353.2" cy="204.5" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/setts/s6/k44g8k4g13k4w3~x2/"><circle cx="413.5" cy="193.1" r="4" fill="#3465a4"><title>Childers (Personal)</title></circle></a><a href="/setts/s6/g2k12g1k12g12r2~x2/"><circle cx="323.9" cy="233.6" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/setts/s7/k39y3k3y3k14y28r3~x2/"><circle cx="357.4" cy="196.2" r="4" fill="#3465a4"><title>Moffat</title></circle></a><a href="/setts/s8/dg3k6lb1k6dg2k2dg16k1~x2/"><circle cx="364.6" cy="202.3" r="4" fill="#3465a4"><title>MacLean VS</title></circle></a><a href="/setts/s6/k20t2k6g16p4k9~x2/"><circle cx="299.0" cy="232.3" r="4" fill="#3465a4"><title>Wilson's, No 167</title></circle></a><a href="/setts/s4/k61g10g20w4~x2/"><circle cx="361.0" cy="211.5" r="4" fill="#3465a4"><title>Wesley Owen 2010 (Personal)</title></circle></a><circle cx="376.3" cy="186.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k88dg17k8y28k8r6/"><circle cx="398.3" cy="193.7" r="4" fill="#3465a4"><title>Childers (Gurkha Rifles) (Military)</title></circle></a><a href="/setts/s5/k65g27w2k4ly5~x2/"><circle cx="415.9" cy="161.0" r="4" fill="#3465a4"><title>Perry, hunting (Green)</title></circle></a><a href="/setts/s6/r1dg16k8dg3k4ly1/"><circle cx="340.5" cy="198.4" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/setts/s6/r1dg16k8dg3k4ly1~x2/"><circle cx="353.3" cy="204.3" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/setts/s6/k44g8k4g13k4w3~x2/"><circle cx="413.5" cy="192.8" r="4" fill="#3465a4"><title>Childers (Personal)</title></circle></a><a href="/setts/s6/r2g12k12g1k12g2~x2/"><circle cx="324.0" cy="233.3" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/setts/s7/k39y3k3y3k14y28r3~x2/"><circle cx="357.5" cy="195.9" r="4" fill="#3465a4"><title>Moffat</title></circle></a><a href="/setts/s8/dg3k6lb1k6dg2k2dg16k1~x2/"><circle cx="364.7" cy="202.1" r="4" fill="#3465a4"><title>MacLean VS</title></circle></a><a href="/setts/s6/k20t2k6g16p4k9~x2/"><circle cx="299.2" cy="232.1" r="4" fill="#3465a4"><title>Wilson's, No 167</title></circle></a><a href="/setts/s4/k61g10g20w4~x2/"><circle cx="361.0" cy="211.2" r="4" fill="#3465a4"><title>Wesley Owen 2010 (Personal)</title></circle></a><circle cx="376.4" cy="185.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k88g17k8g28k8r6~x2/

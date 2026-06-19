@@ -2,7 +2,7 @@
 title: "Edinburgh Napier University"
 date: 2023-03-18
 ---
-**Bands:** [BWBWKYRY](/stripes/bwbwkyry/) · **Stripes:** [DB W DB W K LG R LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB W DB W K LG R LY</span></span>
+**Bands:** [YRYKWBWB](/stripes/yrykwbwb/) · **Stripes:** [LY R LG K W DB W DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">LY R LG K W DB W DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -39,21 +39,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Lermontov](/setts/s9/db2w2db24o9r29ly8k2ly1k2~x2/) — ΔT 1.30
+1. [Lermontov](/setts/s9/k2ly1k2ly8r29o9db24w2db2~x2/) — ΔT 1.30
 1. [McKnight Dress #2 (Personal)](/setts/s8/db4ly1w10r28db25k10t5k3~x4/) — ΔT 1.31
-1. [Bro-sant-Malou](/setts/s6/g3ly1w11dt16r24k3~x2/) — ΔT 1.32
+1. [Bro-sant-Malou](/setts/s6/k3r24dt16w11ly1g3~x2/) — ΔT 1.32
 1. [S.O.B.H.D. (Corporate)](/setts/s8/r3w30db10k3dp15g2dp3g1~x2/) — ΔT 1.38
 1. [Scotland's Charity Air Ambulance](/setts/s9/w2b27k1g3k1n10k1r24w2~x2/) — ΔT 1.51
 1. [Rosevear](/setts/s9/r50ly4w16db2w4db2w15g27r4~x2/) — ΔT 1.55
 1. [Edinburgh Napier University (Corp.)](/setts/s8/t4w4t4w5k8g2r19lo1~x2/) — ΔT 1.57
 1. [Clyde Family (Hurleford) (Personal)](/setts/s7/r64k30g30db18w4db2w3/) — ΔT 1.59
 1. [Clinton Wedding](/setts/s12/w5db6r20k6n5k3db26r2ly1r2db3w3~x2/) — ΔT 1.64
-1. [Aberdeen Forever](/setts/s12/lb4k26n2k3n2k2n3k1n8r19w2ly4~x2/) — ΔT 1.65
+1. [Aberdeen Forever](/setts/s12/ly4w2r19n8k1n3k2n2k3n2k26lb4~x2/) — ΔT 1.65
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db2w2db24o9r29ly8k2ly1k2~x2/"><circle cx="195.0" cy="81.5" r="4" fill="#3465a4"><title>Lermontov</title></circle></a><a href="/setts/s8/db4ly1w10r28db25k10t5k3~x4/"><circle cx="153.5" cy="101.9" r="4" fill="#3465a4"><title>McKnight Dress #2 (Personal)</title></circle></a><a href="/setts/s6/g3ly1w11dt16r24k3~x2/"><circle cx="182.2" cy="117.2" r="4" fill="#3465a4"><title>Bro-sant-Malou</title></circle></a><a href="/setts/s8/r3w30db10k3dp15g2dp3g1~x2/"><circle cx="204.7" cy="74.4" r="4" fill="#3465a4"><title>S.O.B.H.D. (Corporate)</title></circle></a><a href="/setts/s9/w2b27k1g3k1n10k1r24w2~x2/"><circle cx="205.4" cy="76.0" r="4" fill="#3465a4"><title>Scotland's Charity Air Ambulance</title></circle></a><a href="/setts/s9/r50ly4w16db2w4db2w15g27r4~x2/"><circle cx="195.3" cy="84.6" r="4" fill="#3465a4"><title>Rosevear</title></circle></a><a href="/setts/s8/t4w4t4w5k8g2r19lo1~x2/"><circle cx="162.0" cy="107.0" r="4" fill="#3465a4"><title>Edinburgh Napier University (Corp.)</title></circle></a><a href="/setts/s7/r64k30g30db18w4db2w3/"><circle cx="231.0" cy="117.5" r="4" fill="#3465a4"><title>Clyde Family (Hurleford) (Personal)</title></circle></a><a href="/setts/s12/w5db6r20k6n5k3db26r2ly1r2db3w3~x2/"><circle cx="201.7" cy="79.8" r="4" fill="#3465a4"><title>Clinton Wedding</title></circle></a><a href="/setts/s12/lb4k26n2k3n2k2n3k1n8r19w2ly4~x2/"><circle cx="195.4" cy="66.9" r="4" fill="#3465a4"><title>Aberdeen Forever</title></circle></a><circle cx="190.9" cy="69.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k2ly1k2ly8r29o9db24w2db2~x2/"><circle cx="194.8" cy="81.5" r="4" fill="#3465a4"><title>Lermontov</title></circle></a><a href="/setts/s8/db4ly1w10r28db25k10t5k3~x4/"><circle cx="153.4" cy="102.0" r="4" fill="#3465a4"><title>McKnight Dress #2 (Personal)</title></circle></a><a href="/setts/s6/k3r24dt16w11ly1g3~x2/"><circle cx="182.0" cy="117.1" r="4" fill="#3465a4"><title>Bro-sant-Malou</title></circle></a><a href="/setts/s8/r3w30db10k3dp15g2dp3g1~x2/"><circle cx="204.4" cy="74.4" r="4" fill="#3465a4"><title>S.O.B.H.D. (Corporate)</title></circle></a><a href="/setts/s9/w2b27k1g3k1n10k1r24w2~x2/"><circle cx="205.2" cy="76.1" r="4" fill="#3465a4"><title>Scotland's Charity Air Ambulance</title></circle></a><a href="/setts/s9/r50ly4w16db2w4db2w15g27r4~x2/"><circle cx="195.0" cy="84.7" r="4" fill="#3465a4"><title>Rosevear</title></circle></a><a href="/setts/s8/t4w4t4w5k8g2r19lo1~x2/"><circle cx="161.8" cy="107.0" r="4" fill="#3465a4"><title>Edinburgh Napier University (Corp.)</title></circle></a><a href="/setts/s7/r64k30g30db18w4db2w3/"><circle cx="230.8" cy="117.4" r="4" fill="#3465a4"><title>Clyde Family (Hurleford) (Personal)</title></circle></a><a href="/setts/s12/w5db6r20k6n5k3db26r2ly1r2db3w3~x2/"><circle cx="201.6" cy="79.8" r="4" fill="#3465a4"><title>Clinton Wedding</title></circle></a><a href="/setts/s12/ly4w2r19n8k1n3k2n2k3n2k26lb4~x2/"><circle cx="195.2" cy="67.0" r="4" fill="#3465a4"><title>Aberdeen Forever</title></circle></a><circle cx="190.7" cy="69.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db4w8db8w10k16lg4r38ly1/

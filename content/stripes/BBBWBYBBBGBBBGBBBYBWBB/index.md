@@ -22,6 +22,6 @@ BBBWBYBBBGBBBGBBBYBWBB
 
 | Tartans |
 |---------------|
-| [Harmony](/setts/s22/db11t3db4w3db3lo4db3db13t34dg3t4db3t4dg3t34db13db3lo4db3w3db4t3~x2/)|
-|![Harmony example sett](/setts/s22/db11t3db4w3db3lo4db3db13t34dg3t4db3t4dg3t34db13db3lo4db3w3db4t3~x2/sett.png)|
+| [Harmony](/setts/s22/db11t3db4w3db3lo4db3db13t34dg3t4db3~x2/)|
+|![Harmony example sett](/setts/s22/db11t3db4w3db3lo4db3db13t34dg3t4db3~x2/sett.png)|
 

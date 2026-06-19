@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10357](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10357)
 
 ## Thread count
-K/2 T50 G38 Y2 Ta14 Y2 G16 K2 R/6
+R/6 K2 G16 Y2 Ta14 Y2 G38 T50 K/2
 ![Sett](sett.png)
 
 ## Palette
@@ -37,19 +37,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Hannigan of Dirleton (Personal)](/setts/s8/dp4g4y2w3g27y30ly1r3~x2/) — ΔT 1.48
 1. [Ramsay (Green Fashion)](/setts/s7/g1r7g7n2r1dg15lb1~x4/) — ΔT 1.65
-1. [Cladish](/setts/s8/lo10b4lo54lb32lo2y54lo5y10/) — ΔT 1.73
-1. [Scottish Crofting Foundation](/setts/s9/do6lg3do18dy2do2dy10y28r2y4~x2/) — ΔT 1.74
+1. [Cladish](/setts/s8/y10lo5y54lo2lb32lo54b4lo10/) — ΔT 1.73
+1. [Scottish Crofting Foundation](/setts/s9/do6lg3do18dy2do2dy10y28r2y4~x2/) — ΔT 1.75
 1. [Rikaco Eve (Fashion)](/setts/s10/g4n4g2lo36n14lo2t4g7r5lo3~x2/) — ΔT 1.76
-1. [Hannigan of Dirleton (Personal)](/setts/s14/dp4g4y2w3g27y30ly1r3ly1y30g27w3y2g4~x2/) — ΔT 1.80
+1. [Hannigan of Dirleton (Personal)](/setts/s14/dp4g4y2w3g27y30ly1r3~x2/) — ΔT 1.80
 1. [State Seal of Minnesota (Fashion)](/setts/s8/r4g46r10db10dy33db5dy4lo3~x2/) — ΔT 1.83
-1. [Flodden](/setts/s12/ly2r2ly2o14lo2r3lo1r1y20r3lo1w2~x2/) — ΔT 1.84
+1. [Flodden](/setts/s12/w2lo1r3y20r1lo1r3lo2o14ly2r2ly2~x2/) — ΔT 1.84
 1. [Satisfashion Argyll (Corporate)](/setts/s10/do5lo1y27lo9r6do5lo1lo23do3lo5~x2/) — ΔT 1.88
-1. [Tricor](/setts/s12/y4lb1y4g6dy6o4y23o4dy6g6y4lb1~x4/) — ΔT 1.88
+1. [Tricor](/setts/s12/y23o4dy6g6y4lb1y4~x4/) — ΔT 1.88
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dp4g4y2w3g27y30ly1r3~x2/"><circle cx="333.3" cy="146.2" r="4" fill="#3465a4"><title>Hannigan of Dirleton (Personal)</title></circle></a><a href="/setts/s7/g1r7g7n2r1dg15lb1~x4/"><circle cx="314.4" cy="212.0" r="4" fill="#3465a4"><title>Ramsay (Green Fashion)</title></circle></a><a href="/setts/s8/lo10b4lo54lb32lo2y54lo5y10/"><circle cx="322.0" cy="175.6" r="4" fill="#3465a4"><title>Cladish</title></circle></a><a href="/setts/s9/do6lg3do18dy2do2dy10y28r2y4~x2/"><circle cx="309.9" cy="194.1" r="4" fill="#3465a4"><title>Scottish Crofting Foundation</title></circle></a><a href="/setts/s10/g4n4g2lo36n14lo2t4g7r5lo3~x2/"><circle cx="356.4" cy="164.6" r="4" fill="#3465a4"><title>Rikaco Eve (Fashion)</title></circle></a><a href="/setts/s14/dp4g4y2w3g27y30ly1r3ly1y30g27w3y2g4~x2/"><circle cx="354.5" cy="137.8" r="4" fill="#3465a4"><title>Hannigan of Dirleton (Personal)</title></circle></a><a href="/setts/s8/r4g46r10db10dy33db5dy4lo3~x2/"><circle cx="289.4" cy="194.8" r="4" fill="#3465a4"><title>State Seal of Minnesota (Fashion)</title></circle></a><a href="/setts/s12/ly2r2ly2o14lo2r3lo1r1y20r3lo1w2~x2/"><circle cx="254.8" cy="112.4" r="4" fill="#3465a4"><title>Flodden</title></circle></a><a href="/setts/s10/do5lo1y27lo9r6do5lo1lo23do3lo5~x2/"><circle cx="303.8" cy="147.3" r="4" fill="#3465a4"><title>Satisfashion Argyll (Corporate)</title></circle></a><a href="/setts/s12/y4lb1y4g6dy6o4y23o4dy6g6y4lb1~x4/"><circle cx="385.3" cy="190.2" r="4" fill="#3465a4"><title>Tricor</title></circle></a><circle cx="321.7" cy="153.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dp4g4y2w3g27y30ly1r3~x2/"><circle cx="333.1" cy="146.4" r="4" fill="#3465a4"><title>Hannigan of Dirleton (Personal)</title></circle></a><a href="/setts/s7/g1r7g7n2r1dg15lb1~x4/"><circle cx="314.2" cy="212.2" r="4" fill="#3465a4"><title>Ramsay (Green Fashion)</title></circle></a><a href="/setts/s8/y10lo5y54lo2lb32lo54b4lo10/"><circle cx="321.6" cy="175.8" r="4" fill="#3465a4"><title>Cladish</title></circle></a><a href="/setts/s9/do6lg3do18dy2do2dy10y28r2y4~x2/"><circle cx="309.8" cy="194.3" r="4" fill="#3465a4"><title>Scottish Crofting Foundation</title></circle></a><a href="/setts/s10/g4n4g2lo36n14lo2t4g7r5lo3~x2/"><circle cx="356.1" cy="164.8" r="4" fill="#3465a4"><title>Rikaco Eve (Fashion)</title></circle></a><a href="/setts/s14/dp4g4y2w3g27y30ly1r3~x2/"><circle cx="354.2" cy="138.0" r="4" fill="#3465a4"><title>Hannigan of Dirleton (Personal)</title></circle></a><a href="/setts/s8/r4g46r10db10dy33db5dy4lo3~x2/"><circle cx="289.3" cy="195.0" r="4" fill="#3465a4"><title>State Seal of Minnesota (Fashion)</title></circle></a><a href="/setts/s12/w2lo1r3y20r1lo1r3lo2o14ly2r2ly2~x2/"><circle cx="254.4" cy="112.6" r="4" fill="#3465a4"><title>Flodden</title></circle></a><a href="/setts/s10/do5lo1y27lo9r6do5lo1lo23do3lo5~x2/"><circle cx="303.5" cy="147.5" r="4" fill="#3465a4"><title>Satisfashion Argyll (Corporate)</title></circle></a><a href="/setts/s12/y23o4dy6g6y4lb1y4~x4/"><circle cx="385.0" cy="190.5" r="4" fill="#3465a4"><title>Tricor</title></circle></a><circle cx="321.4" cy="153.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r3k1y8ly1dy7ly1y19y25k1~x2/

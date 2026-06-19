@@ -18,10 +18,10 @@ BRBRBRBRBRBRBRBRBR
 
 
 
-### DB R DB R DB R DB R DB R DB R DB R DB R DB R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R DB R DB R DB R DB R DB R DB R DB R DB R</span></span>
+### R DB R DB R DB R DB R DB R DB R DB R DB R DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB R DB R DB R DB R DB R DB R DB R DB</span></span>
 
 | Tartans |
 |---------------|
-| [Unnamed C18th - Prince Charles Edward #2](/setts/s18/db40r40db44r2db2r40db2r2db2r7db2r2db2r40db2r2db44r40~x2/)|
-|![Unnamed C18th - Prince Charles Edward #2 example sett](/setts/s18/db40r40db44r2db2r40db2r2db2r7db2r2db2r40db2r2db44r40~x2/sett.png)|
+| [Unnamed C18th - Prince Charles Edward #2](/setts/s18/db40r40db44r2db2r40db2r2db2r7~x2/)|
+|![Unnamed C18th - Prince Charles Edward #2 example sett](/setts/s18/db40r40db44r2db2r40db2r2db2r7~x2/sett.png)|
 

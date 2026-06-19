@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6980
 
 ## Thread count
-LN/6 Ba4 LN4 Ba4 LN2 Ba50 DBa8 N8 B2 N2 B2 N8 DBa8 DR2 DBa2 DR6 DBa2 DR2 DBa8 LN2 DBa4 LN6 Ra/10
+Ra/10 LN6 DBa4 LN2 DBa8 DR2 DBa2 DR6 DBa2 DR2 DBa8 N8 B2 N2 B2 N8 DBa8 Ba50 LN2 Ba4 LN4 Ba4 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -51,17 +51,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Inverclyde Green](/setts/s20/db5b2db9dp10k2dp4k2g10g33w2g33g10k2dp4k2dp10db9b2db5w3~x2/) — ΔT 1.51
 1. [Heston](/setts/s20/dg8o12m3o9m3o12lb9db48k8lo2k8db48lb9o12m3o9m3o12dg8lo2~x2/) — ΔT 1.53
 1. [Causeway, The](/setts/s15/n38t8lg3n20t42k2g6k2t2m3t2w2lg10t2k6/) — ΔT 1.70
-1. [Greenshields (Personal)](/setts/s18/dt40lb3dt3lb3dt3lb4dg8g8n8w2n8g8dg8lb4dt3lb3dt3lb3~x2/) — ΔT 1.72
-1. [St. Andrews Grand](/setts/s24/k3w2db23g18k12r1r1r1r1dg2r1r1g4r1r1dg2r1r1r1r1k12g18db23w2~x2/) — ΔT 1.74
+1. [Greenshields (Personal)](/setts/s18/dt40lb3dt3lb3dt3lb4dg8g8n8w2~x2/) — ΔT 1.72
+1. [St. Andrews Grand](/setts/s24/g4r1r1dg2r1r1r1r1k12g18db23w2k3~x2/) — ΔT 1.74
 1. [Ferrari (Coldrerio)](/setts/s19/ly6n2ly2n1k1n1lo4n2lo2n17k2n3k8n3k2n17k2n2lo2~x2/) — ΔT 1.77
 1. [Anderson (Paton)](/setts/s22/dy6t12k2r3k2t40k6w6k6ly3k3ly3k12r3db12r3dy14k2r3k2dy14r5/) — ΔT 1.78
-1. [Strathclyde, University of](/setts/s26/db7k1r3k1db24k1w3k3y3k3y3g19k2w4k2g19y3k3y3k3w3k1db24k1r3k1~x2/) — ΔT 1.78
+1. [Strathclyde, University of](/setts/s26/db7k1r3k1db24k1w3k3y3k3y3g19k2w4~x2/) — ΔT 1.78
 1. [Anderson 9](/setts/s21/r4t10k1r2k1t32db4w5k4ly2k2ly2k8r2db8g9k1r2k1g8r4~x2/) — ΔT 1.80
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s21/r4t10k1r2k1t32db4w5k4ly2k2ly2k8r2db8dg9k1r2k1dg8r4~x2/"><circle cx="150.3" cy="35.0" r="4" fill="#3465a4"><title>Anderson (MacGregor-Hastie #2)</title></circle></a><a href="/setts/s20/db5b2db9dp10k2dp4k2g10g33w2g33g10k2dp4k2dp10db9b2db5w3~x2/"><circle cx="164.7" cy="81.5" r="4" fill="#3465a4"><title>Inverclyde Green</title></circle></a><a href="/setts/s20/dg8o12m3o9m3o12lb9db48k8lo2k8db48lb9o12m3o9m3o12dg8lo2~x2/"><circle cx="183.1" cy="63.2" r="4" fill="#3465a4"><title>Heston</title></circle></a><a href="/setts/s15/n38t8lg3n20t42k2g6k2t2m3t2w2lg10t2k6/"><circle cx="223.6" cy="87.3" r="4" fill="#3465a4"><title>Causeway, The</title></circle></a><a href="/setts/s18/dt40lb3dt3lb3dt3lb4dg8g8n8w2n8g8dg8lb4dt3lb3dt3lb3~x2/"><circle cx="209.8" cy="96.8" r="4" fill="#3465a4"><title>Greenshields (Personal)</title></circle></a><a href="/setts/s24/k3w2db23g18k12r1r1r1r1dg2r1r1g4r1r1dg2r1r1r1r1k12g18db23w2~x2/"><circle cx="156.5" cy="49.2" r="4" fill="#3465a4"><title>St. Andrews Grand</title></circle></a><a href="/setts/s19/ly6n2ly2n1k1n1lo4n2lo2n17k2n3k8n3k2n17k2n2lo2~x2/"><circle cx="145.0" cy="91.3" r="4" fill="#3465a4"><title>Ferrari (Coldrerio)</title></circle></a><a href="/setts/s22/dy6t12k2r3k2t40k6w6k6ly3k3ly3k12r3db12r3dy14k2r3k2dy14r5/"><circle cx="108.1" cy="56.4" r="4" fill="#3465a4"><title>Anderson (Paton)</title></circle></a><a href="/setts/s26/db7k1r3k1db24k1w3k3y3k3y3g19k2w4k2g19y3k3y3k3w3k1db24k1r3k1~x2/"><circle cx="179.8" cy="61.5" r="4" fill="#3465a4"><title>Strathclyde, University of</title></circle></a><a href="/setts/s21/r4t10k1r2k1t32db4w5k4ly2k2ly2k8r2db8g9k1r2k1g8r4~x2/"><circle cx="133.4" cy="26.6" r="4" fill="#3465a4"><title>Anderson 9</title></circle></a><circle cx="170.3" cy="36.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s21/r4t10k1r2k1t32db4w5k4ly2k2ly2k8r2db8dg9k1r2k1dg8r4~x2/"><circle cx="150.1" cy="35.3" r="4" fill="#3465a4"><title>Anderson (MacGregor-Hastie #2)</title></circle></a><a href="/setts/s20/db5b2db9dp10k2dp4k2g10g33w2g33g10k2dp4k2dp10db9b2db5w3~x2/"><circle cx="164.6" cy="81.8" r="4" fill="#3465a4"><title>Inverclyde Green</title></circle></a><a href="/setts/s20/dg8o12m3o9m3o12lb9db48k8lo2k8db48lb9o12m3o9m3o12dg8lo2~x2/"><circle cx="183.1" cy="63.4" r="4" fill="#3465a4"><title>Heston</title></circle></a><a href="/setts/s15/n38t8lg3n20t42k2g6k2t2m3t2w2lg10t2k6/"><circle cx="223.5" cy="87.5" r="4" fill="#3465a4"><title>Causeway, The</title></circle></a><a href="/setts/s18/dt40lb3dt3lb3dt3lb4dg8g8n8w2~x2/"><circle cx="209.7" cy="97.0" r="4" fill="#3465a4"><title>Greenshields (Personal)</title></circle></a><a href="/setts/s24/g4r1r1dg2r1r1r1r1k12g18db23w2k3~x2/"><circle cx="156.5" cy="49.4" r="4" fill="#3465a4"><title>St. Andrews Grand</title></circle></a><a href="/setts/s19/ly6n2ly2n1k1n1lo4n2lo2n17k2n3k8n3k2n17k2n2lo2~x2/"><circle cx="144.9" cy="91.5" r="4" fill="#3465a4"><title>Ferrari (Coldrerio)</title></circle></a><a href="/setts/s22/dy6t12k2r3k2t40k6w6k6ly3k3ly3k12r3db12r3dy14k2r3k2dy14r5/"><circle cx="108.0" cy="56.7" r="4" fill="#3465a4"><title>Anderson (Paton)</title></circle></a><a href="/setts/s26/db7k1r3k1db24k1w3k3y3k3y3g19k2w4~x2/"><circle cx="179.7" cy="61.7" r="4" fill="#3465a4"><title>Strathclyde, University of</title></circle></a><a href="/setts/s21/r4t10k1r2k1t32db4w5k4ly2k2ly2k8r2db8g9k1r2k1g8r4~x2/"><circle cx="133.3" cy="26.8" r="4" fill="#3465a4"><title>Anderson 9</title></circle></a><circle cx="170.1" cy="36.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s23/r5w3dt2w1dt4r1dt1r3dt1r1dt4o4t1o1t1o4dt4b25w1b2w2b2w3~x2/

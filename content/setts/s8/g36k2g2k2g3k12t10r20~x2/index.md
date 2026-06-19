@@ -2,12 +2,18 @@
 title: "Georgia, State of"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGKBR](/stripes/gkgkgkbr/) · **Stripes:** [G K G K G K T R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">G K G K G K T R</span></span>
+**Bands:** [RBKGKGKG](/stripes/rbkgkgkg/) · **Stripes:** [R T K G K G K G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R T K G K G K G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1333
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Georgia, State of
 
 ## Attestations
 
@@ -319,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,18 +926,18 @@ The nearest existing variants by ΔTartan distance.
 1. [MacNett](/setts/s9/k1db1g16r16k12db8g16db1k1~x2/) — ΔT 0.77
 1. [Buccleuch Weavers Tartan Tartan Number: 6009. Earliest known date: pre 2003 A Fashion tartan from Marton Mills See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/lo15k1lo2k1lo2k10dy14w2~x2/) — ΔT 0.78
 1. [Buccleuch (Fashion)](/setts/s8/lo15k1lo2k1lo2k10y14w2~x2/) — ΔT 0.82
-1. [Cape Breton University](/setts/s10/db4o17db4g4db2g4db4g27db4ly4~x2/) — ΔT 0.85
+1. [Cape Breton University](/setts/s10/db4o17db4g4db2g4db4g27db4ly4~x2/) — ΔT 0.86
 1. [Midpac Tissue (non woven)](/setts/s8/r5k2dg1k2r5k2dg18lo3~x2/) — ΔT 0.91
 1. [Georgia, State of (District)](/setts/s8/y36k2y2k2y3k12t10r20~x2/) — ΔT 0.94
-1. [Glen Tilt #2](/setts/s10/w1g1r1g14r1t6r11g1r1w1~x4/) — ΔT 0.97
+1. [Glen Tilt #2](/setts/s10/w1r1g1r11t6r1g14r1g1w1~x4/) — ΔT 0.97
 1. [Cork](/setts/s9/g28r12g4db20ly2db3ly2db3g7~x2/) — ΔT 1.00
 1. [MacHardy (Clans Originaux)](/setts/s8/g4r4k12w2k12g32r4k3~x2/) — ΔT 1.06
 1. [Blair Atholl (Fashion)](/setts/s8/do2lr2k6do3k2o14k1o1~x4/) — ΔT 1.09
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k1db1g16r16k12db8g16db1k1~x2/"><circle cx="236.3" cy="177.4" r="4" fill="#3465a4"><title>MacNett</title></circle></a><a href="/setts/s8/lo15k1lo2k1lo2k10dy14w2~x2/"><circle cx="230.0" cy="169.2" r="4" fill="#3465a4"><title>Buccleuch Weavers Tartan Tartan Number: 6009. Earliest known date: pre 2003 A Fashion tartan from Marton Mills See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/lo15k1lo2k1lo2k10y14w2~x2/"><circle cx="230.5" cy="169.0" r="4" fill="#3465a4"><title>Buccleuch (Fashion)</title></circle></a><a href="/setts/s10/db4o17db4g4db2g4db4g27db4ly4~x2/"><circle cx="251.7" cy="159.4" r="4" fill="#3465a4"><title>Cape Breton University</title></circle></a><a href="/setts/s8/r5k2dg1k2r5k2dg18lo3~x2/"><circle cx="309.4" cy="164.0" r="4" fill="#3465a4"><title>Midpac Tissue (non woven)</title></circle></a><a href="/setts/s8/y36k2y2k2y3k12t10r20~x2/"><circle cx="290.5" cy="166.8" r="4" fill="#3465a4"><title>Georgia, State of (District)</title></circle></a><a href="/setts/s10/w1g1r1g14r1t6r11g1r1w1~x4/"><circle cx="267.2" cy="153.6" r="4" fill="#3465a4"><title>Glen Tilt #2</title></circle></a><a href="/setts/s9/g28r12g4db20ly2db3ly2db3g7~x2/"><circle cx="274.6" cy="177.9" r="4" fill="#3465a4"><title>Cork</title></circle></a><a href="/setts/s8/g4r4k12w2k12g32r4k3~x2/"><circle cx="296.8" cy="176.5" r="4" fill="#3465a4"><title>MacHardy (Clans Originaux)</title></circle></a><a href="/setts/s8/do2lr2k6do3k2o14k1o1~x4/"><circle cx="268.2" cy="161.2" r="4" fill="#3465a4"><title>Blair Atholl (Fashion)</title></circle></a><circle cx="273.9" cy="165.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k1db1g16r16k12db8g16db1k1~x2/"><circle cx="236.2" cy="177.4" r="4" fill="#3465a4"><title>MacNett</title></circle></a><a href="/setts/s8/lo15k1lo2k1lo2k10dy14w2~x2/"><circle cx="229.9" cy="169.1" r="4" fill="#3465a4"><title>Buccleuch Weavers Tartan Tartan Number: 6009. Earliest known date: pre 2003 A Fashion tartan from Marton Mills See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/lo15k1lo2k1lo2k10y14w2~x2/"><circle cx="230.3" cy="168.9" r="4" fill="#3465a4"><title>Buccleuch (Fashion)</title></circle></a><a href="/setts/s10/db4o17db4g4db2g4db4g27db4ly4~x2/"><circle cx="251.5" cy="159.3" r="4" fill="#3465a4"><title>Cape Breton University</title></circle></a><a href="/setts/s8/r5k2dg1k2r5k2dg18lo3~x2/"><circle cx="309.2" cy="163.9" r="4" fill="#3465a4"><title>Midpac Tissue (non woven)</title></circle></a><a href="/setts/s8/y36k2y2k2y3k12t10r20~x2/"><circle cx="290.3" cy="166.8" r="4" fill="#3465a4"><title>Georgia, State of (District)</title></circle></a><a href="/setts/s10/w1r1g1r11t6r1g14r1g1w1~x4/"><circle cx="267.0" cy="153.6" r="4" fill="#3465a4"><title>Glen Tilt #2</title></circle></a><a href="/setts/s9/g28r12g4db20ly2db3ly2db3g7~x2/"><circle cx="274.5" cy="177.8" r="4" fill="#3465a4"><title>Cork</title></circle></a><a href="/setts/s8/g4r4k12w2k12g32r4k3~x2/"><circle cx="296.8" cy="176.4" r="4" fill="#3465a4"><title>MacHardy (Clans Originaux)</title></circle></a><a href="/setts/s8/do2lr2k6do3k2o14k1o1~x4/"><circle cx="268.1" cy="161.1" r="4" fill="#3465a4"><title>Blair Atholl (Fashion)</title></circle></a><circle cx="273.7" cy="165.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/g36k2g2k2g3k12t10r20~x2/

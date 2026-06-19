@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,9 +914,9 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Baillie](/setts/s15/db28k4db4k4db4k28g26k3ly5k3g26k28db26k3r5/) — ΔT 0.32
-1. [Stephenson, hunting](/setts/s15/g5k3db25k25g25k3w3k6w3k3g25k25db25k3r5~x2/) — ΔT 0.34
+1. [Stephenson, hunting](/setts/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5~x2/) — ΔT 0.34
 1. [Dyce](/setts/s14/db9k1db1k1db1k8g8ly1k1ly1g8k8db8w1~x2/) — ΔT 0.47
-1. [Campbell of Loudoun (Clan)](/setts/s13/ly1k1g7k8db7k1db2k1db7k8g7k1w1~x4/) — ΔT 0.63
+1. [Campbell of Loudoun (Clan)](/setts/s13/w1k1g7k8db7k1db2k1db7k8g7k1ly1~x4/) — ΔT 0.63
 1. [MacClellan](/setts/s14/db18k5g3r3g6k2ly2k2g6r3g3k10db5k10/) — ΔT 0.67
 1. [MacLeod of Gesto](/setts/s13/db9k1db1k1db1k7g8ly2g8k7db8k1r2~x2/) — ΔT 0.69
 1. [Polaris](/setts/s17/db6k1db1k1db1k7g6ly1g1db1g1ly1g6k7db7k1db1~x4/) — ΔT 0.69
@@ -923,8 +926,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db28k4db4k4db4k28g26k3ly5k3g26k28db26k3r5/"><circle cx="138.9" cy="155.6" r="4" fill="#3465a4"><title>Baillie</title></circle></a><a href="/setts/s15/g5k3db25k25g25k3w3k6w3k3g25k25db25k3r5~x2/"><circle cx="127.2" cy="158.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s14/db9k1db1k1db1k8g8ly1k1ly1g8k8db8w1~x2/"><circle cx="121.7" cy="157.0" r="4" fill="#3465a4"><title>Dyce</title></circle></a><a href="/setts/s13/ly1k1g7k8db7k1db2k1db7k8g7k1w1~x4/"><circle cx="141.0" cy="178.0" r="4" fill="#3465a4"><title>Campbell of Loudoun (Clan)</title></circle></a><a href="/setts/s14/db18k5g3r3g6k2ly2k2g6r3g3k10db5k10/"><circle cx="124.0" cy="164.3" r="4" fill="#3465a4"><title>MacClellan</title></circle></a><a href="/setts/s13/db9k1db1k1db1k7g8ly2g8k7db8k1r2~x2/"><circle cx="115.6" cy="168.6" r="4" fill="#3465a4"><title>MacLeod of Gesto</title></circle></a><a href="/setts/s17/db6k1db1k1db1k7g6ly1g1db1g1ly1g6k7db7k1db1~x4/"><circle cx="115.9" cy="162.4" r="4" fill="#3465a4"><title>Polaris</title></circle></a><a href="/setts/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/"><circle cx="103.4" cy="161.2" r="4" fill="#3465a4"><title>MacRae, hunting</title></circle></a><a href="/setts/s14/db10k1db1k1db1k6g6k1ly2k1g6k6db6r3~x2/"><circle cx="121.2" cy="159.3" r="4" fill="#3465a4"><title>MacLeod of Skye</title></circle></a><a href="/setts/s14/r2db4k1db1k1db1k8g8ly2g8k8db8k1r2~x2/"><circle cx="106.3" cy="164.5" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><circle cx="140.1" cy="161.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db28k4db4k4db4k28g26k3ly5k3g26k28db26k3r5/"><circle cx="139.0" cy="155.7" r="4" fill="#3465a4"><title>Baillie</title></circle></a><a href="/setts/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5~x2/"><circle cx="127.4" cy="158.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s14/db9k1db1k1db1k8g8ly1k1ly1g8k8db8w1~x2/"><circle cx="121.8" cy="157.1" r="4" fill="#3465a4"><title>Dyce</title></circle></a><a href="/setts/s13/w1k1g7k8db7k1db2k1db7k8g7k1ly1~x4/"><circle cx="141.3" cy="178.1" r="4" fill="#3465a4"><title>Campbell of Loudoun (Clan)</title></circle></a><a href="/setts/s14/db18k5g3r3g6k2ly2k2g6r3g3k10db5k10/"><circle cx="124.2" cy="164.3" r="4" fill="#3465a4"><title>MacClellan</title></circle></a><a href="/setts/s13/db9k1db1k1db1k7g8ly2g8k7db8k1r2~x2/"><circle cx="115.7" cy="168.6" r="4" fill="#3465a4"><title>MacLeod of Gesto</title></circle></a><a href="/setts/s17/db6k1db1k1db1k7g6ly1g1db1g1ly1g6k7db7k1db1~x4/"><circle cx="116.1" cy="162.5" r="4" fill="#3465a4"><title>Polaris</title></circle></a><a href="/setts/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/"><circle cx="103.6" cy="161.2" r="4" fill="#3465a4"><title>MacRae, hunting</title></circle></a><a href="/setts/s14/db10k1db1k1db1k6g6k1ly2k1g6k6db6r3~x2/"><circle cx="121.4" cy="159.4" r="4" fill="#3465a4"><title>MacLeod of Skye</title></circle></a><a href="/setts/s14/r2db4k1db1k1db1k8g8ly2g8k8db8k1r2~x2/"><circle cx="106.4" cy="164.5" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><circle cx="140.3" cy="161.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/g1k1g8k8db8r1db8k8g1k1g1k1g3w1~x2/

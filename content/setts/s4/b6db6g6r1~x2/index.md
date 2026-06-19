@@ -2,12 +2,18 @@
 title: "Unnamed No 40"
 date: 2023-03-18
 ---
-**Bands:** [BBGR](/stripes/bbgr/) · **Stripes:** [B DB G R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">B DB G R</span></span>
+**Bands:** [RGBB](/stripes/rgbb/) · **Stripes:** [R G DB B](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R G DB B</span></span>
 
 
 This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Unnamed No 40
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -919,8 +928,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/t6db6g6r1~x2/"><circle cx="154.2" cy="303.1" r="4" fill="#3465a4"><title>Norwich No.040</title></circle></a><a href="/setts/s4/b6db6dg6r1~x2/"><circle cx="139.3" cy="298.1" r="4" fill="#3465a4"><title>Unidentified No 40</title></circle></a><a href="/setts/s6/db3g11t2db11b6g3~x2/"><circle cx="198.4" cy="273.1" r="4" fill="#3465a4"><title>Unnamed, No 29</title></circle></a><a href="/setts/s6/r9b6dt13b21o18w4~x2/"><circle cx="131.6" cy="257.1" r="4" fill="#3465a4"><title>Fox-Eves Wedding (Personal)</title></circle></a><a href="/setts/s4/n8y8w4o1~x5/"><circle cx="180.4" cy="255.9" r="4" fill="#3465a4"><title>Farooq in Livingston (Personal)</title></circle></a><a href="/setts/s5/g15dg18dt23w4r8~x2/"><circle cx="104.1" cy="261.0" r="4" fill="#3465a4"><title>Friebe (2014)</title></circle></a><a href="/setts/s5/b25g25k6dt10r6~x2/"><circle cx="137.0" cy="275.4" r="4" fill="#3465a4"><title>Breon (Personal)</title></circle></a><a href="/setts/s6/r4b3t11db8b2r4/"><circle cx="157.6" cy="260.6" r="4" fill="#3465a4"><title>St. Edmunds (School)</title></circle></a><a href="/setts/s5/t1dg3r1dp3t1~x4/"><circle cx="128.7" cy="295.1" r="4" fill="#3465a4"><title>Wilson's No.95</title></circle></a><a href="/setts/s5/r1g7r3db7t1~x2/"><circle cx="201.0" cy="250.4" r="4" fill="#3465a4"><title>Hebridean 4</title></circle></a><circle cx="147.4" cy="296.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/t6db6g6r1~x2/"><circle cx="154.4" cy="303.1" r="4" fill="#3465a4"><title>Norwich No.040</title></circle></a><a href="/setts/s4/b6db6dg6r1~x2/"><circle cx="139.6" cy="298.1" r="4" fill="#3465a4"><title>Unidentified No 40</title></circle></a><a href="/setts/s6/db3g11t2db11b6g3~x2/"><circle cx="198.5" cy="273.1" r="4" fill="#3465a4"><title>Unnamed, No 29</title></circle></a><a href="/setts/s6/r9b6dt13b21o18w4~x2/"><circle cx="131.7" cy="257.1" r="4" fill="#3465a4"><title>Fox-Eves Wedding (Personal)</title></circle></a><a href="/setts/s4/n8y8w4o1~x5/"><circle cx="180.3" cy="255.8" r="4" fill="#3465a4"><title>Farooq in Livingston (Personal)</title></circle></a><a href="/setts/s5/g15dg18dt23w4r8~x2/"><circle cx="104.3" cy="261.1" r="4" fill="#3465a4"><title>Friebe (2014)</title></circle></a><a href="/setts/s5/b25g25k6dt10r6~x2/"><circle cx="137.2" cy="275.4" r="4" fill="#3465a4"><title>Breon (Personal)</title></circle></a><a href="/setts/s6/r4b3t11db8b2r4/"><circle cx="157.6" cy="260.7" r="4" fill="#3465a4"><title>St. Edmunds (School)</title></circle></a><a href="/setts/s5/t1dg3r1dp3t1~x4/"><circle cx="128.9" cy="295.1" r="4" fill="#3465a4"><title>Wilson's No.95</title></circle></a><a href="/setts/s5/r1g7r3db7t1~x2/"><circle cx="201.1" cy="250.4" r="4" fill="#3465a4"><title>Hebridean 4</title></circle></a><circle cx="147.5" cy="296.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/b6db6g6r1~x2/

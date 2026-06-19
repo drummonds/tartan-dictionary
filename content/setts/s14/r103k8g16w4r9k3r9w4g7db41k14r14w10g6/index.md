@@ -2,12 +2,18 @@
 title: "MacFarlane, Red"
 date: 2023-03-18
 ---
-**Bands:** [GWRKBGWRKRWGKR](/stripes/gwrkbgwrkrwgkr/) · **Stripes:** [G W R K DB G W R K R W G K R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">G W R K DB G W R K R W G K R</span></span>
+**Bands:** [RKGWRKRWGBKRWG](/stripes/rkgwrkrwgbkrwg/) · **Stripes:** [R K G W R K R W G DB K R W G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K G W R K R W G DB K R W G</span></span>
 
 
 This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacFarlane, Red
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -899,7 +908,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-G/6 LN10 R14 K14 B41 G7 LN4 R9 K3 R9 LN4 G16 K8 R/103
+R/103 K8 G16 LN4 R9 K3 R9 LN4 G7 B41 K14 R14 LN10 G/6
 ![Sett](sett.png)
 
 ## Palette
@@ -917,12 +926,12 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [MacFarlane](/setts/s14/r42k1dg12lb2r3k1r3lb2dg2dp12k4r3lb4dg3~x2/) — ΔT 0.51
+1. [MacFarlane](/setts/s14/r42k1dg12lb2r3k1r3lb2dg2dp12k4r3lb4dg3/) — ΔT 0.51
 1. [MacFarlane, or Lendrum](/setts/s14/r42k1g12w2r3k1r3w2g2p12k4r3w4g3~x2/) — ΔT 0.67
 1. [Manac](/setts/s14/k33w1r23k1lr6w1lr6k1r23w1k33r3w3b3~x2/) — ΔT 1.01
 1. [Campagna Center (Corporate)](/setts/s13/g2r36g11k5w1g1ly1k1w1k1g16r5w1~x2/) — ΔT 1.02
 1. [MacFarlane Red](/setts/s14/r98k3g21w5r5k2r5w5g2db21k7r7w8g4/) — ΔT 1.10
-1. [MacGillivray](/setts/s13/r4lb1db1r32lb2r2db12r2dg16r4lb1r4db2~x2/) — ΔT 1.11
+1. [MacGillivray](/setts/s13/r4lb1db1r32lb2r2db12r2dg16r4lb1r4db2/) — ΔT 1.11
 1. [Bahrain, Royal](/setts/s18/k16r1k2r3k1r9k1r3k2r1k6dg3lb3dg5r28w3r3w3~x2/) — ΔT 1.12
 1. [MacGillivray](/setts/s13/k6t1p1r57t2r2p23r4g30r6t1r6p2~x2/) — ΔT 1.14
 1. [Celtic Nations (Fashion)](/setts/s12/db3r2db2r35lo2db3k2db5k4g13k1w3~x2/) — ΔT 1.14
@@ -930,8 +939,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r42k1dg12lb2r3k1r3lb2dg2dp12k4r3lb4dg3~x2/"><circle cx="332.9" cy="45.4" r="4" fill="#3465a4"><title>MacFarlane</title></circle></a><a href="/setts/s14/r42k1g12w2r3k1r3w2g2p12k4r3w4g3~x2/"><circle cx="333.0" cy="50.0" r="4" fill="#3465a4"><title>MacFarlane, or Lendrum</title></circle></a><a href="/setts/s14/k33w1r23k1lr6w1lr6k1r23w1k33r3w3b3~x2/"><circle cx="284.0" cy="71.7" r="4" fill="#3465a4"><title>Manac</title></circle></a><a href="/setts/s13/g2r36g11k5w1g1ly1k1w1k1g16r5w1~x2/"><circle cx="327.5" cy="54.1" r="4" fill="#3465a4"><title>Campagna Center (Corporate)</title></circle></a><a href="/setts/s14/r98k3g21w5r5k2r5w5g2db21k7r7w8g4/"><circle cx="377.0" cy="29.0" r="4" fill="#3465a4"><title>MacFarlane Red</title></circle></a><a href="/setts/s13/r4lb1db1r32lb2r2db12r2dg16r4lb1r4db2~x2/"><circle cx="365.1" cy="87.6" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/setts/s18/k16r1k2r3k1r9k1r3k2r1k6dg3lb3dg5r28w3r3w3~x2/"><circle cx="285.7" cy="65.1" r="4" fill="#3465a4"><title>Bahrain, Royal</title></circle></a><a href="/setts/s13/k6t1p1r57t2r2p23r4g30r6t1r6p2~x2/"><circle cx="357.7" cy="55.8" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/setts/s12/db3r2db2r35lo2db3k2db5k4g13k1w3~x2/"><circle cx="280.6" cy="50.3" r="4" fill="#3465a4"><title>Celtic Nations (Fashion)</title></circle></a><a href="/setts/s14/g2r30db4r4k6ly1k1w1k1g10r4k1r1w1~x2/"><circle cx="323.5" cy="41.2" r="4" fill="#3465a4"><title>Stuart / Stewart</title></circle></a><circle cx="312.1" cy="56.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r42k1dg12lb2r3k1r3lb2dg2dp12k4r3lb4dg3/"><circle cx="332.4" cy="45.3" r="4" fill="#3465a4"><title>MacFarlane</title></circle></a><a href="/setts/s14/r42k1g12w2r3k1r3w2g2p12k4r3w4g3~x2/"><circle cx="332.6" cy="50.0" r="4" fill="#3465a4"><title>MacFarlane, or Lendrum</title></circle></a><a href="/setts/s14/k33w1r23k1lr6w1lr6k1r23w1k33r3w3b3~x2/"><circle cx="283.8" cy="71.6" r="4" fill="#3465a4"><title>Manac</title></circle></a><a href="/setts/s13/g2r36g11k5w1g1ly1k1w1k1g16r5w1~x2/"><circle cx="327.0" cy="54.1" r="4" fill="#3465a4"><title>Campagna Center (Corporate)</title></circle></a><a href="/setts/s14/r98k3g21w5r5k2r5w5g2db21k7r7w8g4/"><circle cx="376.4" cy="28.9" r="4" fill="#3465a4"><title>MacFarlane Red</title></circle></a><a href="/setts/s13/r4lb1db1r32lb2r2db12r2dg16r4lb1r4db2/"><circle cx="364.7" cy="87.5" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/setts/s18/k16r1k2r3k1r9k1r3k2r1k6dg3lb3dg5r28w3r3w3~x2/"><circle cx="285.4" cy="65.1" r="4" fill="#3465a4"><title>Bahrain, Royal</title></circle></a><a href="/setts/s13/k6t1p1r57t2r2p23r4g30r6t1r6p2~x2/"><circle cx="357.2" cy="55.8" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/setts/s12/db3r2db2r35lo2db3k2db5k4g13k1w3~x2/"><circle cx="280.3" cy="50.3" r="4" fill="#3465a4"><title>Celtic Nations (Fashion)</title></circle></a><a href="/setts/s14/g2r30db4r4k6ly1k1w1k1g10r4k1r1w1~x2/"><circle cx="323.1" cy="41.2" r="4" fill="#3465a4"><title>Stuart / Stewart</title></circle></a><circle cx="311.7" cy="55.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/r103k8g16w4r9k3r9w4g7db41k14r14w10g6/

@@ -21,7 +21,7 @@ WRWKWKY
 Grouped by stripe pattern — the 3 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### W R W K W K LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W R W K W K LY</span></span>
+### LY K W K W R W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K W K W R W</span></span>
 
 | Tartans |
 |---------------|
@@ -30,17 +30,17 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 | [MacPherson Dress, Blue (Dance)](/setts/s7/w5r3w26k21w3k8ly3~x2/)|
 |![MacPherson Dress, Blue (Dance) example sett](/setts/s7/w5r3w26k21w3k8ly3~x2/sett.png)|
 
-### LB R LB K LB K LY <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LB R LB K LB K LY</span></span>
+### LY K LB K LB R LB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LY K LB K LB R LB</span></span>
 
 | Tartans |
 |---------------|
 | [MacPherson Dress](/setts/s7/lb3r1lb30k20lb3k9ly1/)|
 |![MacPherson Dress example sett](/setts/s7/lb3r1lb30k20lb3k9ly1/sett.png)|
 
-### W M W K W K LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W M W K W K LY</span></span>
+### LY K W K W M W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K W K W M W</span></span>
 
 | Tartans |
 |---------------|
-| [MacPherson - 1842 (VS) Dress](/setts/s7/ly1k4w2k11w17m2w1~x4/)|
-|![MacPherson - 1842 (VS) Dress example sett](/setts/s7/ly1k4w2k11w17m2w1~x4/sett.png)|
+| [MacPherson - 1842 (VS) Dress](/setts/s7/w1m2w17k11w2k4ly1~x4/)|
+|![MacPherson - 1842 (VS) Dress example sett](/setts/s7/w1m2w17k11w2k4ly1~x4/sett.png)|
 

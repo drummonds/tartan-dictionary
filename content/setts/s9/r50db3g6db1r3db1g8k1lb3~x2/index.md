@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/
 Original link http://www.tartansauthority.com/tartan-ferret/display/7120/
 
 ## Thread count
-N/6 K2 G16 DB2 R6 DB2 G12 DB6 R/100
+R/100 DB6 G12 DB2 R6 DB2 G16 K2 N/6
 ![Sett](sett.png)
 
 ## Palette
@@ -37,12 +37,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Royal Stewart - 1819](/setts/s12/r134db10k14ly2k3w3k3g21r11k3r4w2/) — ΔT 1.25
 1. [Braemar Castle](/setts/s9/r52k5ly5lo5do5k2r6k1ly2~x2/) — ΔT 1.26
 1. [Inverness Cathedral (Corporate)](/setts/s9/r72db6ly1db12k4w1n4w1k5~x2/) — ΔT 1.27
-1. [Prince Charles Cloak](/setts/s8/r48db3ly1dg14r8db3lb4lr1~x2/) — ΔT 1.27
+1. [Prince Charles Cloak](/setts/s8/r48db3ly1dg14r8db3lb4lr1/) — ΔT 1.27
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r96db1dg24db1r10db1dg12k1w4~x2/"><circle cx="514.3" cy="61.8" r="4" fill="#3465a4"><title>MacAulay (MacGregor)</title></circle></a><a href="/setts/s8/r70b1r2g12k2g1k10w1~x2/"><circle cx="528.0" cy="67.9" r="4" fill="#3465a4"><title>Zamzam (Personal)</title></circle></a><a href="/setts/s9/r72g6ly2g11b2g2b2r9k2~x2/"><circle cx="533.1" cy="74.3" r="4" fill="#3465a4"><title>Junor</title></circle></a><a href="/setts/s10/r64db16r1db1r12g16r8db2r2k1~x2/"><circle cx="525.1" cy="92.3" r="4" fill="#3465a4"><title>Moffat (1950)</title></circle></a><a href="/setts/s8/r70k2ly1dg18r10k4t4w1~x2/"><circle cx="504.3" cy="60.6" r="4" fill="#3465a4"><title>MacIngust</title></circle></a><a href="/setts/s13/r64k2r2k6g2k2g2o2g6r5g2k6ly2~x2/"><circle cx="474.2" cy="51.4" r="4" fill="#3465a4"><title>Melrose (District)</title></circle></a><a href="/setts/s12/r134db10k14ly2k3w3k3g21r11k3r4w2/"><circle cx="485.9" cy="23.2" r="4" fill="#3465a4"><title>Royal Stewart - 1819</title></circle></a><a href="/setts/s9/r52k5ly5lo5do5k2r6k1ly2~x2/"><circle cx="471.0" cy="52.9" r="4" fill="#3465a4"><title>Braemar Castle</title></circle></a><a href="/setts/s9/r72db6ly1db12k4w1n4w1k5~x2/"><circle cx="467.9" cy="43.1" r="4" fill="#3465a4"><title>Inverness Cathedral (Corporate)</title></circle></a><a href="/setts/s8/r48db3ly1dg14r8db3lb4lr1~x2/"><circle cx="444.9" cy="60.9" r="4" fill="#3465a4"><title>Prince Charles Cloak</title></circle></a><circle cx="507.4" cy="66.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r96db1dg24db1r10db1dg12k1w4~x2/"><circle cx="513.7" cy="61.6" r="4" fill="#3465a4"><title>MacAulay (MacGregor)</title></circle></a><a href="/setts/s8/r70b1r2g12k2g1k10w1~x2/"><circle cx="527.3" cy="67.7" r="4" fill="#3465a4"><title>Zamzam (Personal)</title></circle></a><a href="/setts/s9/r72g6ly2g11b2g2b2r9k2~x2/"><circle cx="532.4" cy="74.1" r="4" fill="#3465a4"><title>Junor</title></circle></a><a href="/setts/s10/r64db16r1db1r12g16r8db2r2k1~x2/"><circle cx="524.5" cy="92.1" r="4" fill="#3465a4"><title>Moffat (1950)</title></circle></a><a href="/setts/s8/r70k2ly1dg18r10k4t4w1~x2/"><circle cx="503.7" cy="60.4" r="4" fill="#3465a4"><title>MacIngust</title></circle></a><a href="/setts/s13/r64k2r2k6g2k2g2o2g6r5g2k6ly2~x2/"><circle cx="473.5" cy="51.2" r="4" fill="#3465a4"><title>Melrose (District)</title></circle></a><a href="/setts/s12/r134db10k14ly2k3w3k3g21r11k3r4w2/"><circle cx="485.3" cy="23.1" r="4" fill="#3465a4"><title>Royal Stewart - 1819</title></circle></a><a href="/setts/s9/r52k5ly5lo5do5k2r6k1ly2~x2/"><circle cx="470.4" cy="52.7" r="4" fill="#3465a4"><title>Braemar Castle</title></circle></a><a href="/setts/s9/r72db6ly1db12k4w1n4w1k5~x2/"><circle cx="467.4" cy="43.0" r="4" fill="#3465a4"><title>Inverness Cathedral (Corporate)</title></circle></a><a href="/setts/s8/r48db3ly1dg14r8db3lb4lr1/"><circle cx="444.4" cy="60.8" r="4" fill="#3465a4"><title>Prince Charles Cloak</title></circle></a><circle cx="506.7" cy="66.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r50db3g6db1r3db1g8k1lb3~x2/

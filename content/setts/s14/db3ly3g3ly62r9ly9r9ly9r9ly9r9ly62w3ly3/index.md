@@ -2,7 +2,7 @@
 title: "Catalan"
 date: 2023-03-18
 ---
-**Bands:** [BYGYRYRYRYRYWY](/stripes/bygyryryryrywy/) · **Stripes:** [DB LY G LY R LY R LY R LY R LY W LY](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB LY G LY R LY R LY R LY R LY W LY</span></span>
+**Bands:** [YWYRYRYRYRYGYB](/stripes/ywyryryryrygyb/) · **Stripes:** [LY W LY R LY R LY R LY R LY G LY DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">LY W LY R LY R LY R LY R LY G LY DB</span></span>
 
 
 This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/3 Y3 G3 Y62 R9 Y9 R9 Y9 R9 Y9 R9 Y62 LN3 Y/3
+Y/3 LN3 Y62 R9 Y9 R9 Y9 R9 Y9 R9 Y62 G3 Y3 B/3
 ![Sett](sett.png)
 
 ## Palette
@@ -916,15 +919,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Dundonald (Name)](/setts/s16/ly25db3ly3db2ly4db2ly3db3ly8ly10r16db1ly16db3ly8db2~x2/) — ΔT 2.26
 1. [Virginia Quadricentennial](/setts/s13/w40o3w10o6w20k3w2k3w10r4w2r8w2/) — ΔT 2.34
 1. [Houston #2 (Personal)](/setts/s12/lo32do2lo12dy2lo1g2lo1dy2lo1g2lo1dy2~x2/) — ΔT 2.41
-1. [Houston (Personal)](/setts/s22/g2lo1dy2lo1g2lo1dy2lo32do2lo12dy2lo2dy2lo12do2lo32dy2lo1g2lo1dy2lo1~x2/) — ΔT 2.57
+1. [Houston (Personal)](/setts/s22/g2lo1dy2lo1g2lo1dy2lo32do2lo12dy2lo2~x2/) — ΔT 2.57
 1. [UPS No.1](/setts/s15/do4ly60do2ly15do2ly2lo2do2ly8do4w1do2w2do2w1~x2/) — ΔT 2.64
 1. [UPS No. 1 (Corporate)](/setts/s16/ly8do2ly2lo2ly2do2ly15do2ly60do4w1do2w2do2w1do4~x2/) — ΔT 2.65
-1. [Bro-Dreger](/setts/s7/lo3k2lo32r3lo3k5w3~x2/) — ΔT 2.69
+1. [Bro-Dreger](/setts/s7/w3k5lo3r3lo32k2lo3~x2/) — ΔT 2.69
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/ly44r6ly6r6ly6r6ly6r6ly44b3ly3g3ly3lb3/"><circle cx="468.8" cy="106.2" r="4" fill="#3465a4"><title>Catalan (92 Olympics)</title></circle></a><a href="/setts/s13/ly40lo3ly10lo6ly20k3ly2k3ly10r4ly2r8ly2~x2/"><circle cx="468.7" cy="123.3" r="4" fill="#3465a4"><title>Virginia Quadricentennial (District)</title></circle></a><a href="/setts/s12/g2ly1lo2ly1g2ly1lo2ly32dy2ly12lo2ly2~x2/"><circle cx="585.9" cy="102.7" r="4" fill="#3465a4"><title>Houston Family Tartan Tartan Number: 2290. Earliest known date: 1994 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/ly25db3ly3db2ly4db2ly3db3ly8ly10r16db1ly16db3ly8db2~x2/"><circle cx="398.6" cy="102.7" r="4" fill="#3465a4"><title>Dundonald (Name)</title></circle></a><a href="/setts/s13/w40o3w10o6w20k3w2k3w10r4w2r8w2/"><circle cx="428.8" cy="97.9" r="4" fill="#3465a4"><title>Virginia Quadricentennial</title></circle></a><a href="/setts/s12/lo32do2lo12dy2lo1g2lo1dy2lo1g2lo1dy2~x2/"><circle cx="604.9" cy="115.0" r="4" fill="#3465a4"><title>Houston #2 (Personal)</title></circle></a><a href="/setts/s22/g2lo1dy2lo1g2lo1dy2lo32do2lo12dy2lo2dy2lo12do2lo32dy2lo1g2lo1dy2lo1~x2/"><circle cx="604.1" cy="93.0" r="4" fill="#3465a4"><title>Houston (Personal)</title></circle></a><a href="/setts/s15/do4ly60do2ly15do2ly2lo2do2ly8do4w1do2w2do2w1~x2/"><circle cx="524.2" cy="29.3" r="4" fill="#3465a4"><title>UPS No.1</title></circle></a><a href="/setts/s16/ly8do2ly2lo2ly2do2ly15do2ly60do4w1do2w2do2w1do4~x2/"><circle cx="527.5" cy="26.0" r="4" fill="#3465a4"><title>UPS No. 1 (Corporate)</title></circle></a><a href="/setts/s7/lo3k2lo32r3lo3k5w3~x2/"><circle cx="469.9" cy="144.6" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><circle cx="494.5" cy="89.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/ly44r6ly6r6ly6r6ly6r6ly44b3ly3g3ly3lb3/"><circle cx="468.0" cy="106.0" r="4" fill="#3465a4"><title>Catalan (92 Olympics)</title></circle></a><a href="/setts/s13/ly40lo3ly10lo6ly20k3ly2k3ly10r4ly2r8ly2~x2/"><circle cx="468.0" cy="122.9" r="4" fill="#3465a4"><title>Virginia Quadricentennial (District)</title></circle></a><a href="/setts/s12/g2ly1lo2ly1g2ly1lo2ly32dy2ly12lo2ly2~x2/"><circle cx="584.9" cy="102.4" r="4" fill="#3465a4"><title>Houston Family Tartan Tartan Number: 2290. Earliest known date: 1994 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/ly25db3ly3db2ly4db2ly3db3ly8ly10r16db1ly16db3ly8db2~x2/"><circle cx="397.9" cy="102.4" r="4" fill="#3465a4"><title>Dundonald (Name)</title></circle></a><a href="/setts/s13/w40o3w10o6w20k3w2k3w10r4w2r8w2/"><circle cx="427.9" cy="97.5" r="4" fill="#3465a4"><title>Virginia Quadricentennial</title></circle></a><a href="/setts/s12/lo32do2lo12dy2lo1g2lo1dy2lo1g2lo1dy2~x2/"><circle cx="604.1" cy="114.7" r="4" fill="#3465a4"><title>Houston #2 (Personal)</title></circle></a><a href="/setts/s22/g2lo1dy2lo1g2lo1dy2lo32do2lo12dy2lo2~x2/"><circle cx="603.3" cy="92.7" r="4" fill="#3465a4"><title>Houston (Personal)</title></circle></a><a href="/setts/s15/do4ly60do2ly15do2ly2lo2do2ly8do4w1do2w2do2w1~x2/"><circle cx="523.2" cy="28.9" r="4" fill="#3465a4"><title>UPS No.1</title></circle></a><a href="/setts/s16/ly8do2ly2lo2ly2do2ly15do2ly60do4w1do2w2do2w1do4~x2/"><circle cx="526.5" cy="25.7" r="4" fill="#3465a4"><title>UPS No. 1 (Corporate)</title></circle></a><a href="/setts/s7/w3k5lo3r3lo32k2lo3~x2/"><circle cx="469.3" cy="144.3" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><circle cx="493.6" cy="89.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/db3ly3g3ly62r9ly9r9ly9r9ly9r9ly62w3ly3/

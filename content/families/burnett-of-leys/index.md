@@ -1,5 +1,5 @@
 ---
-title: "Burnett of Leys"
+title: "Burnett, of Leys"
 date: 2023-03-18
 ---
 A family of [Clan Burnett](/clan/burnett/).

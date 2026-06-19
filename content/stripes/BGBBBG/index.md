@@ -8,7 +8,7 @@ BGBBBG
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/db3dg11t2db11b6dg3~x2/tartan.png)
+![Woven sample](/setts/s6/dg3b6db11t2dg11db3~x2/tartan.png)
 
 
 
@@ -21,14 +21,14 @@ BGBBBG
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB DG T DB B DG <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="seq">DB DG T DB B DG</span></span>
+### DG B DB T DG DB <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">DG B DB T DG DB</span></span>
 
 | Tartans |
 |---------------|
-| [Unidentified No 29](/setts/s6/db3dg11t2db11b6dg3~x2/)|
-|![Unidentified No 29 example sett](/setts/s6/db3dg11t2db11b6dg3~x2/sett.png)|
+| [Unidentified No 29](/setts/s6/dg3b6db11t2dg11db3~x2/)|
+|![Unidentified No 29 example sett](/setts/s6/dg3b6db11t2dg11db3~x2/sett.png)|
 
-### DB G T DB B G <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB G T DB B G</span></span>
+### G B DB T G DB <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G B DB T G DB</span></span>
 
 | Tartans |
 |---------------|

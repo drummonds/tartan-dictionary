@@ -2,7 +2,7 @@
 title: "Unidentified 8"
 date: 2023-03-18
 ---
-**Bands:** [GRRGRBBRBRBBRGRBBR](/stripes/grrgrbbrbrbbrgrbbr/) · **Stripes:** [G R R G R DB DB R DB R DB DB R G R DB DB R](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">G R R G R DB DB R DB R DB DB R G R DB DB R</span></span>
+**Bands:** [RBBRGRBBRBRBBRGRRG](/stripes/rbbrgrbbrbrbbrgrrg/) · **Stripes:** [R DB DB R G R DB DB R DB R DB DB R G R R G](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DB DB R G R DB DB R DB R DB DB R G R R G</span></span>
 
 
 This was sourced from weddslist.  It is a [18 band tartan](/bands/bands18/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/12 Ra12 R2 G6 Ra108 DB2 B2 Ra6 DB32 Ra6 B2 DB2 Ra12 G60 Ra12 DB2 B2 Ra/132
+Ra/132 B2 DB2 Ra12 G60 Ra12 DB2 B2 Ra6 DB32 Ra6 B2 DB2 Ra108 G6 R2 Ra12 G/12
 ![Sett](sett.png)
 
 ## Palette
@@ -907,17 +910,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Melrose (District)](/setts/s13/r64k2r2k6g2k2g2o2g6r5g2k6ly2~x2/) — ΔT 1.20
 1. [Hampden-Sydney College](/setts/s16/r80w2r5k10r6o4r4k2o6k2r10o4r8k10r5w2/) — ΔT 1.27
 1. [Ramada](/setts/s18/r66b1n1r6dg30r6n1b1r3n16r3b1n1r54dg3o1r6dg6~x2/) — ΔT 1.28
-1. [Scotia Village (Corporate)](/setts/s18/r90k1r2db8r2k9k3w1k2ly1k3g13r11k1g2k1r5w2~x2/) — ΔT 1.33
+1. [Scotia Village (Corporate)](/setts/s18/r90k1r2db8r2k9k3w1k2ly1k3g13r11k1g2k1r5w2~x2/) — ΔT 1.32
 1. [Stewart/Stuart, Royal](/setts/s12/r87db8k11ly2k3w2k3g13r11k2r5w3/) — ΔT 1.39
 1. [MacFarhadian (Personal)](/setts/s18/r55dp1ly1r3dp7r3ly1dp1r3g16r3dp1ly1k3w1g5r3k2~x2/) — ΔT 1.41
 1. [Royal Stewart - 1819](/setts/s12/r134db10k14ly2k3w3k3g21r11k3r4w2/) — ΔT 1.41
 1. [Dalziel #1](/setts/s17/r40w2db1r3dg31r3db1w2r3db8r3w2db1r34dg4r4dg4~x2/) — ΔT 1.41
-1. [Inverness](/setts/s14/r36db3w1db6g1k1g1r9g1k1g1db6w1db3~x4/) — ΔT 1.44
+1. [Inverness](/setts/s14/r36db3w1db6g1k1g1r9~x4/) — ΔT 1.44
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/r66db1db1r6dg30r6db1db1r3db16r3db1db1r54dg3r1r6dg6~x2/"><circle cx="478.5" cy="34.9" r="4" fill="#3465a4"><title>Unidentified #34</title></circle></a><a href="/setts/s13/r64k2r2k6g2k2g2o2g6r5g2k6ly2~x2/"><circle cx="474.2" cy="51.4" r="4" fill="#3465a4"><title>Melrose (District)</title></circle></a><a href="/setts/s16/r80w2r5k10r6o4r4k2o6k2r10o4r8k10r5w2/"><circle cx="537.2" cy="67.3" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><a href="/setts/s18/r66b1n1r6dg30r6n1b1r3n16r3b1n1r54dg3o1r6dg6~x2/"><circle cx="517.4" cy="60.3" r="4" fill="#3465a4"><title>Ramada</title></circle></a><a href="/setts/s18/r90k1r2db8r2k9k3w1k2ly1k3g13r11k1g2k1r5w2~x2/"><circle cx="478.2" cy="14.0" r="4" fill="#3465a4"><title>Scotia Village (Corporate)</title></circle></a><a href="/setts/s12/r87db8k11ly2k3w2k3g13r11k2r5w3/"><circle cx="449.3" cy="31.6" r="4" fill="#3465a4"><title>Stewart/Stuart, Royal</title></circle></a><a href="/setts/s18/r55dp1ly1r3dp7r3ly1dp1r3g16r3dp1ly1k3w1g5r3k2~x2/"><circle cx="432.3" cy="14.0" r="4" fill="#3465a4"><title>MacFarhadian (Personal)</title></circle></a><a href="/setts/s12/r134db10k14ly2k3w3k3g21r11k3r4w2/"><circle cx="485.9" cy="23.2" r="4" fill="#3465a4"><title>Royal Stewart - 1819</title></circle></a><a href="/setts/s17/r40w2db1r3dg31r3db1w2r3db8r3w2db1r34dg4r4dg4~x2/"><circle cx="420.0" cy="66.6" r="4" fill="#3465a4"><title>Dalziel #1</title></circle></a><a href="/setts/s14/r36db3w1db6g1k1g1r9g1k1g1db6w1db3~x4/"><circle cx="427.3" cy="51.5" r="4" fill="#3465a4"><title>Inverness</title></circle></a><circle cx="480.5" cy="41.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/r66db1db1r6dg30r6db1db1r3db16r3db1db1r54dg3r1r6dg6~x2/"><circle cx="477.8" cy="34.8" r="4" fill="#3465a4"><title>Unidentified #34</title></circle></a><a href="/setts/s13/r64k2r2k6g2k2g2o2g6r5g2k6ly2~x2/"><circle cx="473.5" cy="51.2" r="4" fill="#3465a4"><title>Melrose (District)</title></circle></a><a href="/setts/s16/r80w2r5k10r6o4r4k2o6k2r10o4r8k10r5w2/"><circle cx="536.6" cy="67.1" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><a href="/setts/s18/r66b1n1r6dg30r6n1b1r3n16r3b1n1r54dg3o1r6dg6~x2/"><circle cx="516.8" cy="60.2" r="4" fill="#3465a4"><title>Ramada</title></circle></a><a href="/setts/s18/r90k1r2db8r2k9k3w1k2ly1k3g13r11k1g2k1r5w2~x2/"><circle cx="477.6" cy="14.0" r="4" fill="#3465a4"><title>Scotia Village (Corporate)</title></circle></a><a href="/setts/s12/r87db8k11ly2k3w2k3g13r11k2r5w3/"><circle cx="448.7" cy="31.6" r="4" fill="#3465a4"><title>Stewart/Stuart, Royal</title></circle></a><a href="/setts/s18/r55dp1ly1r3dp7r3ly1dp1r3g16r3dp1ly1k3w1g5r3k2~x2/"><circle cx="431.6" cy="14.0" r="4" fill="#3465a4"><title>MacFarhadian (Personal)</title></circle></a><a href="/setts/s12/r134db10k14ly2k3w3k3g21r11k3r4w2/"><circle cx="485.3" cy="23.1" r="4" fill="#3465a4"><title>Royal Stewart - 1819</title></circle></a><a href="/setts/s17/r40w2db1r3dg31r3db1w2r3db8r3w2db1r34dg4r4dg4~x2/"><circle cx="419.4" cy="66.5" r="4" fill="#3465a4"><title>Dalziel #1</title></circle></a><a href="/setts/s14/r36db3w1db6g1k1g1r9~x4/"><circle cx="426.8" cy="51.5" r="4" fill="#3465a4"><title>Inverness</title></circle></a><circle cx="479.9" cy="40.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s18/r66db1db1r6g30r6db1db1r3db16r3db1db1r54g3r1r6g6~x2/

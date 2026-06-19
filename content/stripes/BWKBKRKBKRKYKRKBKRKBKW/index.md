@@ -22,6 +22,6 @@ BWKBKRKBKRKYKRKBKRKBKW
 
 | Tartans |
 |---------------|
-| [Saltcoats](/setts/s22/dp5w1k1b14k1r12k1b14k1r5k1ly3k1r5k1b14k1r12k1b14k1w1~x2/)|
-|![Saltcoats example sett](/setts/s22/dp5w1k1b14k1r12k1b14k1r5k1ly3k1r5k1b14k1r12k1b14k1w1~x2/sett.png)|
+| [Saltcoats](/setts/s22/dp5w1k1b14k1r12k1b14k1r5k1ly3~x2/)|
+|![Saltcoats example sett](/setts/s22/dp5w1k1b14k1r12k1b14k1r5k1ly3~x2/sett.png)|
 

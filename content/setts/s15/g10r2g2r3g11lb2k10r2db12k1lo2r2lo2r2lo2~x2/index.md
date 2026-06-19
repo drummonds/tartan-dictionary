@@ -2,7 +2,7 @@
 title: "Esteba-Quer (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGWKRBKYRYRY](/stripes/grgrgwkrbkyryry/) · **Stripes:** [G R G R G LB K R DB K LO R LO R LO](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">G R G R G LB K R DB K LO R LO R LO</span></span>
+**Bands:** [YRYRYKBRKWGRGRG](/stripes/yryrykbrkwgrgrg/) · **Stripes:** [LO R LO R LO K DB R K LB G R G R G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO R LO R LO K DB R K LB G R G R G</span></span>
 
 
 This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/4117/
 
 ## Thread count
-DY/4 DR4 DY4 DR4 DY4 K2 DB24 DR4 K20 N4 G22 DR6 G4 DR4 G/20
+G/20 DR4 G4 DR6 G22 N4 K20 DR4 DB24 K2 DY4 DR4 DY4 DR4 DY/4
 ![Sett](sett.png)
 
 ## Palette
@@ -33,7 +33,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Cunningham, hunting](/setts/s17/db10k1g1k1g1k1db10r3k10r3g10k1ly1k1w1k1g10~x2/) — ΔT 0.76
 1. [Paisley](/setts/s12/db7w2g3db18ly2k15ly2g17r5g3r2g7~x2/) — ΔT 0.81
 1. [Total](/setts/s17/dt48lo4dt28k5w4k6lo4k7g8k7lo4k6w4k5r24lo4g48/) — ΔT 0.84
-1. [Kennedy Dress, (Pendleton)](/setts/s17/dp2w9dt3k2dt2k2dt2k2dt3g10dp1g2dp1g2lo1g2k2~x2/) — ΔT 0.92
+1. [Kennedy Dress, (Pendleton)](/setts/s17/k2g2lo1g2dp1g2dp1g10dt3k2dt2k2dt2k2dt3w9dp2~x2/) — ΔT 0.92
 1. [Farquharson Dress (Fashion)](/setts/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1r2~x2/) — ΔT 0.95
 1. [Blue Castlefield (Fashion)](/setts/s12/lr3k15k10dy10k1g5k1ly10k10g8k1k2~x2/) — ΔT 0.97
 1. [MacKellar](/setts/s12/g30w3g4ly5g4w3g6k14t3k14db18w4~x2/) — ΔT 0.99
@@ -42,8 +42,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/g10r2g2r3g11lb2k10r2db12k1lo2r2lo2r2~x2/"><circle cx="105.7" cy="124.3" r="4" fill="#3465a4"><title>Esteba-Quer (Personal)</title></circle></a><a href="/setts/s17/db10k1g1k1g1k1db10r3k10r3g10k1ly1k1w1k1g10~x2/"><circle cx="107.8" cy="114.9" r="4" fill="#3465a4"><title>Cunningham, hunting</title></circle></a><a href="/setts/s12/db7w2g3db18ly2k15ly2g17r5g3r2g7~x2/"><circle cx="102.0" cy="143.0" r="4" fill="#3465a4"><title>Paisley</title></circle></a><a href="/setts/s17/dt48lo4dt28k5w4k6lo4k7g8k7lo4k6w4k5r24lo4g48/"><circle cx="108.7" cy="90.8" r="4" fill="#3465a4"><title>Total</title></circle></a><a href="/setts/s17/dp2w9dt3k2dt2k2dt2k2dt3g10dp1g2dp1g2lo1g2k2~x2/"><circle cx="77.8" cy="116.0" r="4" fill="#3465a4"><title>Kennedy Dress, (Pendleton)</title></circle></a><a href="/setts/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1r2~x2/"><circle cx="86.1" cy="155.3" r="4" fill="#3465a4"><title>Farquharson Dress (Fashion)</title></circle></a><a href="/setts/s12/lr3k15k10dy10k1g5k1ly10k10g8k1k2~x2/"><circle cx="107.6" cy="141.4" r="4" fill="#3465a4"><title>Blue Castlefield (Fashion)</title></circle></a><a href="/setts/s12/g30w3g4ly5g4w3g6k14t3k14db18w4~x2/"><circle cx="127.9" cy="139.1" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/setts/s13/w6k1w1k1w1k8g8lo2g8k8db8k1r2~x2/"><circle cx="70.3" cy="146.2" r="4" fill="#3465a4"><title>Farquharson Dress</title></circle></a><a href="/setts/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2/"><circle cx="51.1" cy="115.1" r="4" fill="#3465a4"><title>Bowling</title></circle></a><circle cx="97.6" cy="118.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/g10r2g2r3g11lb2k10r2db12k1lo2r2lo2r2~x2/"><circle cx="105.8" cy="124.4" r="4" fill="#3465a4"><title>Esteba-Quer (Personal)</title></circle></a><a href="/setts/s17/db10k1g1k1g1k1db10r3k10r3g10k1ly1k1w1k1g10~x2/"><circle cx="107.9" cy="115.0" r="4" fill="#3465a4"><title>Cunningham, hunting</title></circle></a><a href="/setts/s12/db7w2g3db18ly2k15ly2g17r5g3r2g7~x2/"><circle cx="102.1" cy="143.1" r="4" fill="#3465a4"><title>Paisley</title></circle></a><a href="/setts/s17/dt48lo4dt28k5w4k6lo4k7g8k7lo4k6w4k5r24lo4g48/"><circle cx="108.7" cy="90.9" r="4" fill="#3465a4"><title>Total</title></circle></a><a href="/setts/s17/k2g2lo1g2dp1g2dp1g10dt3k2dt2k2dt2k2dt3w9dp2~x2/"><circle cx="77.7" cy="116.1" r="4" fill="#3465a4"><title>Kennedy Dress, (Pendleton)</title></circle></a><a href="/setts/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1r2~x2/"><circle cx="86.3" cy="155.4" r="4" fill="#3465a4"><title>Farquharson Dress (Fashion)</title></circle></a><a href="/setts/s12/lr3k15k10dy10k1g5k1ly10k10g8k1k2~x2/"><circle cx="107.7" cy="141.5" r="4" fill="#3465a4"><title>Blue Castlefield (Fashion)</title></circle></a><a href="/setts/s12/g30w3g4ly5g4w3g6k14t3k14db18w4~x2/"><circle cx="127.9" cy="139.2" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/setts/s13/w6k1w1k1w1k8g8lo2g8k8db8k1r2~x2/"><circle cx="70.4" cy="146.3" r="4" fill="#3465a4"><title>Farquharson Dress</title></circle></a><a href="/setts/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2/"><circle cx="51.2" cy="115.3" r="4" fill="#3465a4"><title>Bowling</title></circle></a><circle cx="97.7" cy="118.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/g10r2g2r3g11lb2k10r2db12k1lo2r2lo2r2lo2~x2/

@@ -22,6 +22,6 @@ RKBKBKBGKBYWKR
 
 | Tartans |
 |---------------|
-| [Association Cornemuses du Monde](/setts/s14/r3k5w3ly2b10k1y19n19k28n3k3n3k3r3~x2/)|
-|![Association Cornemuses du Monde example sett](/setts/s14/r3k5w3ly2b10k1y19n19k28n3k3n3k3r3~x2/sett.png)|
+| [Association Cornemuses du Monde](/setts/s14/r3k5w3ly2b10k1y19n19k28n3k3n3k3r3/)|
+|![Association Cornemuses du Monde example sett](/setts/s14/r3k5w3ly2b10k1y19n19k28n3k3n3k3r3/sett.png)|
 

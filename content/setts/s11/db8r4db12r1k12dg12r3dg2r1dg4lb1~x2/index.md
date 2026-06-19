@@ -13,13 +13,23 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Thread count
 DB/16 R8 DB24 R2 K24 G24 R6 G4 R2 G8 N/2
@@ -40,21 +50,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [MacDonald of Clanranald](/setts/s13/db8r1db2r3db12r1k12lb1dg12r3dg2r1dg8~x2/) — ΔT 0.43
+1. [MacDonald of Clanranald](/setts/s13/dg8r1dg2r3dg12lb1k12r1db12r3db2r1db8~x2/) — ΔT 0.43
 1. [MacDonell of Glengarry D](/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lb1/) — ΔT 0.51
 1. [MacDonell of Glengarry](/setts/s11/db8r4db12r1k12dg12r3dg2r1dg4lr1~x2/) — ΔT 0.52
 1. [Cameron of Erracht](/setts/s11/dg8r1dg1r3dg16k16r1db16r3db8ly2/) — ΔT 0.64
-1. [MacMillan Hunting](/setts/s10/db3ly1db12k4ly2k4dg8r2dg8r1~x2/) — ΔT 0.68
-1. [MacDonald of Clanranald](/setts/s13/db8r1db2r3db12r1k12lr1dg12r3dg2r1dg8~x2/) — ΔT 0.72
+1. [MacMillan Hunting](/setts/s10/db3ly1db12k4ly2k4dg8r2dg8r1~x2/) — ΔT 0.67
+1. [MacDonald of Clanranald](/setts/s13/dg8r1dg2r3dg12lr1k12r1db12r3db2r1db8~x2/) — ΔT 0.72
+1. [MacDonald of Clanranald](/setts/s13/dg8r1dg2r3dg12lr1k12r1db12r3db2r1db8/) — ΔT 0.72
 1. [Royal College of Surgeons of Edinburgh](/setts/s9/t4dt16k2dt2k2dt2k13n20w4~x2/) — ΔT 0.73
 1. [MacDonell of Glengarry D](/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lr1~x2/) — ΔT 0.75
 1. [MacDonell of Glengarry D](/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lr1/) — ΔT 0.75
-1. [Cameron of Erracht](/setts/s11/dg8r1dg1r3dg16k16r1db16r3db8ly2~x2/) — ΔT 0.77
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db8r1db2r3db12r1k12lb1dg12r3dg2r1dg8~x2/"><circle cx="146.2" cy="158.2" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lb1/"><circle cx="153.3" cy="153.8" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><a href="/setts/s11/db8r4db12r1k12dg12r3dg2r1dg4lr1~x2/"><circle cx="154.1" cy="176.1" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s11/dg8r1dg1r3dg16k16r1db16r3db8ly2/"><circle cx="159.5" cy="153.8" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><a href="/setts/s10/db3ly1db12k4ly2k4dg8r2dg8r1~x2/"><circle cx="142.1" cy="176.0" r="4" fill="#3465a4"><title>MacMillan Hunting</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12lr1dg12r3dg2r1dg8~x2/"><circle cx="161.4" cy="166.5" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/setts/s9/t4dt16k2dt2k2dt2k13n20w4~x2/"><circle cx="133.6" cy="170.8" r="4" fill="#3465a4"><title>Royal College of Surgeons of Edinburgh</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lr1~x2/"><circle cx="168.3" cy="162.1" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lr1/"><circle cx="168.3" cy="162.1" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><a href="/setts/s11/dg8r1dg1r3dg16k16r1db16r3db8ly2~x2/"><circle cx="172.9" cy="161.3" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><circle cx="139.2" cy="167.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dg8r1dg2r3dg12lb1k12r1db12r3db2r1db8~x2/"><circle cx="146.3" cy="158.3" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lb1/"><circle cx="153.4" cy="153.9" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><a href="/setts/s11/db8r4db12r1k12dg12r3dg2r1dg4lr1~x2/"><circle cx="154.3" cy="176.2" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s11/dg8r1dg1r3dg16k16r1db16r3db8ly2/"><circle cx="159.7" cy="153.9" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><a href="/setts/s10/db3ly1db12k4ly2k4dg8r2dg8r1~x2/"><circle cx="142.3" cy="176.0" r="4" fill="#3465a4"><title>MacMillan Hunting</title></circle></a><a href="/setts/s13/dg8r1dg2r3dg12lr1k12r1db12r3db2r1db8~x2/"><circle cx="161.6" cy="166.6" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/setts/s13/dg8r1dg2r3dg12lr1k12r1db12r3db2r1db8/"><circle cx="161.6" cy="166.6" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/setts/s9/t4dt16k2dt2k2dt2k13n20w4~x2/"><circle cx="133.8" cy="170.9" r="4" fill="#3465a4"><title>Royal College of Surgeons of Edinburgh</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lr1~x2/"><circle cx="168.5" cy="162.2" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4lr1/"><circle cx="168.5" cy="162.2" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><circle cx="139.4" cy="168.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db8r4db12r1k12dg12r3dg2r1dg4lb1~x2/

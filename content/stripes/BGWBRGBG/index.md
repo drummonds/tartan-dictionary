@@ -21,7 +21,7 @@ BGWBRGBG
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DR DG W DR O DG DR DG <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="seq">DR DG W DR O DG DR DG</span></span>
+### DG DR DG O DR W DG DR <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="seq">DG DR DG O DR W DG DR</span></span>
 
 | Tartans |
 |---------------|
@@ -30,7 +30,7 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 | [National Trust](/setts/s8/dg2dr8dg8o3dr1w12dg2dr1~x2/)|
 |![National Trust example sett](/setts/s8/dg2dr8dg8o3dr1w12dg2dr1~x2/sett.png)|
 
-### DO DG W DO O DG DO DG <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="seq">DO DG W DO O DG DO DG</span></span>
+### DG DO DG O DO W DG DO <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="seq">DG DO DG O DO W DG DO</span></span>
 
 | Tartans |
 |---------------|

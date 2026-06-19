@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1486
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Graham of Montrose #3
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -37,8 +43,8 @@ The nearest existing variants by ΔTartan distance.
 1. [Graham of Montrose #2](/setts/s12/db9k9g9w2g9k9g9w2g9k9db9k3~x2/) — ΔT 0.85
 1. [Unidentified No 30](/setts/s9/k1db3k3dg3r1dg3k3dg1r1~x2/) — ΔT 1.04
 1. [Wilson's No.064 #2](/setts/s12/dp12k13g12lb2g12k13g12lb2g12k13dp12k2~x2/) — ΔT 1.08
-1. [Lloyd of Dolobran Family Tartan Tartan Number: 1970. Earliest known date: 1930-50 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/db5k1db5k5g4r1g4k1g4w1g4k5~x4/) — ΔT 1.12
-1. [Price-Powell (Personal)](/setts/s12/db14dp5db4dp5db14k14g14k4ly4k8g14k14~x2/) — ΔT 1.13
+1. [Lloyd of Dolobran Family Tartan Tartan Number: 1970. Earliest known date: 1930-50 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/k5g4w1g4k1g4r1g4k5db5k1db5~x4/) — ΔT 1.12
+1. [Price-Powell (Personal)](/setts/s12/k14g14k8ly4k4g14k14db14dp5db4dp5db14~x2/) — ΔT 1.13
 1. [MacNeil of Colonsay](/setts/s7/db4dg6w1dg6k6db6k2~x2/) — ΔT 1.14
 1. [MacKay Coat](/setts/s7/k4dg4ly1dg4k4db4k1~x2/) — ΔT 1.14
 1. [Unidentified No 39](/setts/s7/k4dg4k1dg4k4db4ly1~x2/) — ΔT 1.14
@@ -47,8 +53,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db9k9g9w2g9k9g9w2g9k9db9k3~x2/"><circle cx="123.2" cy="266.9" r="4" fill="#3465a4"><title>Graham of Montrose #2</title></circle></a><a href="/setts/s9/k1db3k3dg3r1dg3k3dg1r1~x2/"><circle cx="139.6" cy="295.6" r="4" fill="#3465a4"><title>Unidentified No 30</title></circle></a><a href="/setts/s12/dp12k13g12lb2g12k13g12lb2g12k13dp12k2~x2/"><circle cx="168.5" cy="252.3" r="4" fill="#3465a4"><title>Wilson's No.064 #2</title></circle></a><a href="/setts/s12/db5k1db5k5g4r1g4k1g4w1g4k5~x4/"><circle cx="131.9" cy="238.7" r="4" fill="#3465a4"><title>Lloyd of Dolobran Family Tartan Tartan Number: 1970. Earliest known date: 1930-50 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/db14dp5db4dp5db14k14g14k4ly4k8g14k14~x2/"><circle cx="93.4" cy="256.3" r="4" fill="#3465a4"><title>Price-Powell (Personal)</title></circle></a><a href="/setts/s7/db4dg6w1dg6k6db6k2~x2/"><circle cx="161.4" cy="279.7" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/setts/s7/k4dg4ly1dg4k4db4k1~x2/"><circle cx="168.7" cy="305.0" r="4" fill="#3465a4"><title>MacKay Coat</title></circle></a><a href="/setts/s7/k4dg4k1dg4k4db4ly1~x2/"><circle cx="168.7" cy="305.0" r="4" fill="#3465a4"><title>Unidentified No 39</title></circle></a><a href="/setts/s12/dp12k12dg12k2dg12k11dg12k2dg12k12dp12y3~x2/"><circle cx="180.8" cy="260.8" r="4" fill="#3465a4"><title>Wilson's No.157 #2</title></circle></a><a href="/setts/s7/k9g9w2g9k9db9k3~x2/"><circle cx="148.1" cy="288.8" r="4" fill="#3465a4"><title>Graham of Montrose - 1850 (Clan)</title></circle></a><circle cx="123.0" cy="279.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db9k9g9w2g9k9g9w2g9k9db9k3~x2/"><circle cx="123.4" cy="266.9" r="4" fill="#3465a4"><title>Graham of Montrose #2</title></circle></a><a href="/setts/s9/k1db3k3dg3r1dg3k3dg1r1~x2/"><circle cx="139.9" cy="295.6" r="4" fill="#3465a4"><title>Unidentified No 30</title></circle></a><a href="/setts/s12/dp12k13g12lb2g12k13g12lb2g12k13dp12k2~x2/"><circle cx="168.7" cy="252.4" r="4" fill="#3465a4"><title>Wilson's No.064 #2</title></circle></a><a href="/setts/s12/k5g4w1g4k1g4r1g4k5db5k1db5~x4/"><circle cx="132.1" cy="238.8" r="4" fill="#3465a4"><title>Lloyd of Dolobran Family Tartan Tartan Number: 1970. Earliest known date: 1930-50 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/k14g14k8ly4k4g14k14db14dp5db4dp5db14~x2/"><circle cx="93.7" cy="256.4" r="4" fill="#3465a4"><title>Price-Powell (Personal)</title></circle></a><a href="/setts/s7/db4dg6w1dg6k6db6k2~x2/"><circle cx="161.7" cy="279.7" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/setts/s7/k4dg4ly1dg4k4db4k1~x2/"><circle cx="169.0" cy="305.0" r="4" fill="#3465a4"><title>MacKay Coat</title></circle></a><a href="/setts/s7/k4dg4k1dg4k4db4ly1~x2/"><circle cx="169.0" cy="305.0" r="4" fill="#3465a4"><title>Unidentified No 39</title></circle></a><a href="/setts/s12/dp12k12dg12k2dg12k11dg12k2dg12k12dp12y3~x2/"><circle cx="180.9" cy="260.8" r="4" fill="#3465a4"><title>Wilson's No.157 #2</title></circle></a><a href="/setts/s7/k9g9w2g9k9db9k3~x2/"><circle cx="148.3" cy="288.8" r="4" fill="#3465a4"><title>Graham of Montrose - 1850 (Clan)</title></circle></a><circle cx="123.3" cy="279.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k4dg4w1dg4k4db4k1db4k4dg4w1~x2/

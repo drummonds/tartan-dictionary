@@ -2,12 +2,18 @@
 title: "Buchanan #6"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBRWRYKY](/stripes/bgbgbrwryky/) · **Stripes:** [DB DG DB DG DB R W R LY K LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB DG DB DG DB R W R LY K LY</span></span>
+**Bands:** [YKYRWRBGBGB](/stripes/ykyrwrbgbgb/) · **Stripes:** [LY K LY R W R DB DG DB DG DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K LY R W R DB DG DB DG DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=419
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Buchanan #6
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/30 DG30 B8 DG30 B30 R30 LN4 R30 Y30 K4 Y/60
+Y/60 K4 Y30 R30 LN4 R30 B30 DG30 B8 DG30 B/30
 ![Sett](sett.png)
 
 ## Palette
@@ -924,8 +933,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w2r8dy5ly6w5dg21w6r8r4w2/"><circle cx="81.4" cy="132.9" r="4" fill="#3465a4"><title>Jacobite Silk sash</title></circle></a><a href="/setts/s15/w9dy14do11dy3lo11ly7w1do3w1ly7dy7do3w2t2w2~x2/"><circle cx="65.2" cy="112.2" r="4" fill="#3465a4"><title>Bonnie Prince Charlie (Hudson Bay)</title></circle></a><a href="/setts/s15/w9o14dr11o3o11ly7w1dr3w1ly7o7dr3w2b2w2~x2/"><circle cx="70.3" cy="112.2" r="4" fill="#3465a4"><title>Hudson Bay Company Artifact</title></circle></a><a href="/setts/s15/k6dg10w10k2w23db10w2k6ly2k8dg10r12dg4r8w4/"><circle cx="56.9" cy="120.6" r="4" fill="#3465a4"><title>Stuart/Stewart variant</title></circle></a><a href="/setts/s14/db4w2r6k1db12g4w2r6r6w2g8r2w16r4~x2/"><circle cx="79.3" cy="103.2" r="4" fill="#3465a4"><title>MacFarlane, dress</title></circle></a><a href="/setts/s15/k6g10w10k2w23db10w2k6ly2k8g10r12g4r8w4/"><circle cx="49.1" cy="119.3" r="4" fill="#3465a4"><title>Stewart, Variant</title></circle></a><a href="/setts/s16/db12r3db9r4ly1r4ly2r5dy3w5dy6w2dg7r2dg13r7~x2/"><circle cx="72.4" cy="127.8" r="4" fill="#3465a4"><title>Riley-Utter Union (Personal)</title></circle></a><a href="/setts/s9/r5db1r5g13db8t5r5w1db3~x2/"><circle cx="120.0" cy="162.7" r="4" fill="#3465a4"><title>Unidentified #27</title></circle></a><a href="/setts/s12/r19t13k16ly3k3w5k3g32k2r15t5r15~x2/"><circle cx="123.2" cy="113.9" r="4" fill="#3465a4"><title>Wilson's, No 90</title></circle></a><a href="/setts/s11/lb24dg3lb3dg3lb3dg10o12dp12o12o2o3~x2/"><circle cx="105.7" cy="131.2" r="4" fill="#3465a4"><title>Isle of Skye (District)</title></circle></a><circle cx="79.7" cy="137.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w2r8dy5ly6w5dg21w6r8r4w2/"><circle cx="81.2" cy="133.0" r="4" fill="#3465a4"><title>Jacobite Silk sash</title></circle></a><a href="/setts/s15/w9dy14do11dy3lo11ly7w1do3w1ly7dy7do3w2t2w2~x2/"><circle cx="65.0" cy="112.3" r="4" fill="#3465a4"><title>Bonnie Prince Charlie (Hudson Bay)</title></circle></a><a href="/setts/s15/w9o14dr11o3o11ly7w1dr3w1ly7o7dr3w2b2w2~x2/"><circle cx="70.1" cy="112.3" r="4" fill="#3465a4"><title>Hudson Bay Company Artifact</title></circle></a><a href="/setts/s15/k6dg10w10k2w23db10w2k6ly2k8dg10r12dg4r8w4/"><circle cx="56.8" cy="120.7" r="4" fill="#3465a4"><title>Stuart/Stewart variant</title></circle></a><a href="/setts/s14/db4w2r6k1db12g4w2r6r6w2g8r2w16r4~x2/"><circle cx="79.1" cy="103.3" r="4" fill="#3465a4"><title>MacFarlane, dress</title></circle></a><a href="/setts/s15/k6g10w10k2w23db10w2k6ly2k8g10r12g4r8w4/"><circle cx="49.1" cy="119.4" r="4" fill="#3465a4"><title>Stewart, Variant</title></circle></a><a href="/setts/s16/db12r3db9r4ly1r4ly2r5dy3w5dy6w2dg7r2dg13r7~x2/"><circle cx="72.4" cy="128.0" r="4" fill="#3465a4"><title>Riley-Utter Union (Personal)</title></circle></a><a href="/setts/s9/r5db1r5g13db8t5r5w1db3~x2/"><circle cx="119.9" cy="162.7" r="4" fill="#3465a4"><title>Unidentified #27</title></circle></a><a href="/setts/s12/r19t13k16ly3k3w5k3g32k2r15t5r15~x2/"><circle cx="123.1" cy="114.0" r="4" fill="#3465a4"><title>Wilson's, No 90</title></circle></a><a href="/setts/s11/lb24dg3lb3dg3lb3dg10o12dp12o12o2o3~x2/"><circle cx="105.6" cy="131.3" r="4" fill="#3465a4"><title>Isle of Skye (District)</title></circle></a><circle cx="79.5" cy="137.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/ly30k2ly15r15w2r15db15dg15db4dg15db15~x2/

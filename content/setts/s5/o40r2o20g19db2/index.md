@@ -2,12 +2,18 @@
 title: "Lloyd of Wales"
 date: 2023-03-18
 ---
-**Bands:** [BGRRR](/stripes/bgrrr/) · **Stripes:** [DB G O R O](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DB G O R O</span></span>
+**Bands:** [RRRGB](/stripes/rrrgb/) · **Stripes:** [O R O G DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">O R O G DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2141
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Lloyd of Wales
 
 ## Attestations
 
@@ -24,7 +30,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5765
 
 ## Thread count
-DB/2 G19 N20 R2 N/40
+N/40 R2 N20 G19 DB/2
 ![Sett](sett.png)
 
 ## Palette
@@ -41,7 +47,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/2 G19 N20 R2 N/40 tartan")
+![Tartan detail](tartan.png "N/40 R2 N20 G19 DB/2 tartan")
 
 ## Nearest tartans
 
@@ -60,8 +66,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/y60g13y9r8ly4~x2/"><circle cx="527.9" cy="226.0" r="4" fill="#3465a4"><title>Ballantyne (Personal)</title></circle></a><a href="/setts/s5/o60dg13o9o8ly4~x2/"><circle cx="507.1" cy="212.8" r="4" fill="#3465a4"><title>Ballantyne Personal Tartan Tartan Number: 7563. Earliest known date: 2007 Andrew Ballantyne said, l finally decided to purchase a tartan of my own design. The first kilt was made for my father and he was very pleased with it. The fabric was designed online at House of Tartan and woven by Edgars, Perth. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/o57w5g20o5lo10~x2/"><circle cx="421.9" cy="228.9" r="4" fill="#3465a4"><title>Johore (District)</title></circle></a><a href="/setts/s4/n8g20w4r1~x5/"><circle cx="415.7" cy="231.5" r="4" fill="#3465a4"><title>Farooq (Personal)</title></circle></a><a href="/setts/s5/y57w5g20y5ly10/"><circle cx="410.4" cy="223.3" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/setts/s5/o57w5g20o5ly10/"><circle cx="403.2" cy="218.7" r="4" fill="#3465a4"><title>Jahore District Tartan Tartan Number: 1309. Earliest known date: c.1890 [50% actual count] Reputed to have been presented to the Sultan of Jahore by Queen Victoria during his visit to Balmoral around 1890. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/db13k3db20o70db20o30w3~x2/"><circle cx="461.0" cy="203.1" r="4" fill="#3465a4"><title>Unidentified 21</title></circle></a><a href="/setts/s6/n65k2n4lr2n10r24~x2/"><circle cx="579.9" cy="186.6" r="4" fill="#3465a4"><title>Norsemen (Corporate)</title></circle></a><a href="/setts/s6/db2n2lb1n18lb2r2~x4/"><circle cx="522.1" cy="185.5" r="4" fill="#3465a4"><title>St. Giles Cathedral (Corporate)</title></circle></a><a href="/setts/s7/n18w2k1w4g13n40r2~x2/"><circle cx="508.5" cy="150.4" r="4" fill="#3465a4"><title>Puxty-Dunne (Personal)</title></circle></a><circle cx="512.8" cy="233.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/y60g13y9r8ly4~x2/"><circle cx="527.5" cy="225.8" r="4" fill="#3465a4"><title>Ballantyne (Personal)</title></circle></a><a href="/setts/s5/o60dg13o9o8ly4~x2/"><circle cx="506.7" cy="212.5" r="4" fill="#3465a4"><title>Ballantyne Personal Tartan Tartan Number: 7563. Earliest known date: 2007 Andrew Ballantyne said, l finally decided to purchase a tartan of my own design. The first kilt was made for my father and he was very pleased with it. The fabric was designed online at House of Tartan and woven by Edgars, Perth. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/o57w5g20o5lo10~x2/"><circle cx="421.5" cy="228.8" r="4" fill="#3465a4"><title>Johore (District)</title></circle></a><a href="/setts/s4/n8g20w4r1~x5/"><circle cx="415.3" cy="231.4" r="4" fill="#3465a4"><title>Farooq (Personal)</title></circle></a><a href="/setts/s5/y57w5g20y5ly10/"><circle cx="410.0" cy="223.1" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/setts/s5/o57w5g20o5ly10/"><circle cx="402.8" cy="218.6" r="4" fill="#3465a4"><title>Jahore District Tartan Tartan Number: 1309. Earliest known date: c.1890 [50% actual count] Reputed to have been presented to the Sultan of Jahore by Queen Victoria during his visit to Balmoral around 1890. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/db13k3db20o70db20o30w3~x2/"><circle cx="460.8" cy="203.0" r="4" fill="#3465a4"><title>Unidentified 21</title></circle></a><a href="/setts/s6/n65k2n4lr2n10r24~x2/"><circle cx="579.5" cy="186.5" r="4" fill="#3465a4"><title>Norsemen (Corporate)</title></circle></a><a href="/setts/s6/db2n2lb1n18lb2r2~x4/"><circle cx="521.7" cy="185.3" r="4" fill="#3465a4"><title>St. Giles Cathedral (Corporate)</title></circle></a><a href="/setts/s7/n18w2k1w4g13n40r2~x2/"><circle cx="508.2" cy="150.2" r="4" fill="#3465a4"><title>Puxty-Dunne (Personal)</title></circle></a><circle cx="512.4" cy="233.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/o40r2o20g19db2/

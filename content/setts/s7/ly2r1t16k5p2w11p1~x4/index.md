@@ -2,7 +2,7 @@
 title: "Dignan"
 date: 2023-03-18
 ---
-**Bands:** [BWBKBRY](/stripes/bwbkbry/) · **Stripes:** [P W P K T R LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">P W P K T R LY</span></span>
+**Bands:** [YRBKBWB](/stripes/yrbkbwb/) · **Stripes:** [LY R T K P W P](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">LY R T K P W P</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-P/4 LN44 P8 K20 B64 R4 Y/8
+Y/8 R4 B64 K20 P8 LN44 P/4
 ![Sett](sett.png)
 
 ## Palette
@@ -902,7 +905,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "P/4 LN44 P8 K20 B64 R4 Y/8 tartan")
+![Tartan detail](tartan.png "Y/8 R4 B64 K20 P8 LN44 P/4 tartan")
 
 ## Nearest tartans
 
@@ -911,7 +914,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Alexander of Menstry Dress](/setts/s8/db5w30lr9k9dp9g2dp2g5~x2/) — ΔT 0.78
 1. [Minnesota Dress](/setts/s9/dp4k2w3k2db30g9k4w20ly3~x2/) — ΔT 0.82
 1. [Pipers' Trail Dance, The](/setts/s6/k6w49dt50dp6t8lo4/) — ΔT 0.82
-1. [Christian Dress (Personal)](/setts/s7/ly3dp2w27k19db27w2r3~x2/) — ΔT 0.84
+1. [Christian Dress (Personal)](/setts/s7/r3w2db27k19w27dp2ly3~x2/) — ΔT 0.84
 1. [Pipers' Trail Dance, The](/setts/s6/k6w49db50dp6db8ly4/) — ΔT 0.86
 1. [Edgar-Feyen (Personal)](/setts/s6/w18k1db4g4dp10lo2~x4/) — ΔT 0.93
 1. [Alberta Dress](/setts/s10/w4g3w19g8k1r4k1db18k1lo2~x2/) — ΔT 1.02
@@ -921,8 +924,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db5w30lr9k9dp9g2dp2g5~x2/"><circle cx="131.9" cy="106.9" r="4" fill="#3465a4"><title>Alexander of Menstry Dress</title></circle></a><a href="/setts/s9/dp4k2w3k2db30g9k4w20ly3~x2/"><circle cx="142.8" cy="105.8" r="4" fill="#3465a4"><title>Minnesota Dress</title></circle></a><a href="/setts/s6/k6w49dt50dp6t8lo4/"><circle cx="158.7" cy="130.5" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/setts/s7/ly3dp2w27k19db27w2r3~x2/"><circle cx="119.6" cy="124.2" r="4" fill="#3465a4"><title>Christian Dress (Personal)</title></circle></a><a href="/setts/s6/k6w49db50dp6db8ly4/"><circle cx="159.4" cy="128.5" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/setts/s6/w18k1db4g4dp10lo2~x4/"><circle cx="184.9" cy="120.7" r="4" fill="#3465a4"><title>Edgar-Feyen (Personal)</title></circle></a><a href="/setts/s10/w4g3w19g8k1r4k1db18k1lo2~x2/"><circle cx="137.7" cy="88.4" r="4" fill="#3465a4"><title>Alberta Dress</title></circle></a><a href="/setts/s6/g4w28dp8ly2db17g4~x2/"><circle cx="181.7" cy="150.6" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/setts/s7/r2db14k6g1w12g1w2~x4/"><circle cx="149.5" cy="138.8" r="4" fill="#3465a4"><title>Davidson (Wedding) (Personal)</title></circle></a><a href="/setts/s10/w4k2w30g3p3g3p7db14g3r3~x2/"><circle cx="182.8" cy="90.1" r="4" fill="#3465a4"><title>Edinburgh, dress</title></circle></a><circle cx="160.1" cy="115.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db5w30lr9k9dp9g2dp2g5~x2/"><circle cx="131.7" cy="106.9" r="4" fill="#3465a4"><title>Alexander of Menstry Dress</title></circle></a><a href="/setts/s9/dp4k2w3k2db30g9k4w20ly3~x2/"><circle cx="142.7" cy="105.8" r="4" fill="#3465a4"><title>Minnesota Dress</title></circle></a><a href="/setts/s6/k6w49dt50dp6t8lo4/"><circle cx="158.6" cy="130.5" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/setts/s7/r3w2db27k19w27dp2ly3~x2/"><circle cx="119.5" cy="124.1" r="4" fill="#3465a4"><title>Christian Dress (Personal)</title></circle></a><a href="/setts/s6/k6w49db50dp6db8ly4/"><circle cx="159.2" cy="128.4" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/setts/s6/w18k1db4g4dp10lo2~x4/"><circle cx="184.6" cy="120.6" r="4" fill="#3465a4"><title>Edgar-Feyen (Personal)</title></circle></a><a href="/setts/s10/w4g3w19g8k1r4k1db18k1lo2~x2/"><circle cx="137.5" cy="88.4" r="4" fill="#3465a4"><title>Alberta Dress</title></circle></a><a href="/setts/s6/g4w28dp8ly2db17g4~x2/"><circle cx="181.6" cy="150.5" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/setts/s7/r2db14k6g1w12g1w2~x4/"><circle cx="149.4" cy="138.7" r="4" fill="#3465a4"><title>Davidson (Wedding) (Personal)</title></circle></a><a href="/setts/s10/w4k2w30g3p3g3p7db14g3r3~x2/"><circle cx="182.5" cy="90.0" r="4" fill="#3465a4"><title>Edinburgh, dress</title></circle></a><circle cx="159.9" cy="115.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/ly2r1t16k5p2w11p1~x4/

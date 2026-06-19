@@ -2,7 +2,7 @@
 title: "National"
 date: 2023-03-18
 ---
-**Bands:** [WBRKGYBKW](/stripes/wbrkgybkw/) · **Stripes:** [W DB R K G LY DB K W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB R K G LY DB K W</span></span>
+**Bands:** [WKBYGKRBW](/stripes/wkbygkrbw/) · **Stripes:** [W K DB LY G K R DB W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K DB LY G K R DB W</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -921,18 +924,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Comyn, Cumming](/setts/s9/r4w1r4g10ly1k10t4k2t4~x4/) — ΔT 0.46
 1. [National (1934), The](/setts/s9/w2db3r6k8g12lo1db4k2w2~x2/) — ΔT 0.53
 1. [Birch (Personal) (Estimated threadcount)](/setts/s9/g2dp2g10k6r2k6t10k1lb2~x2/) — ΔT 0.75
-1. [Stirling, and Bannockburn](/setts/s10/ly3g2db18r3k13r4t3r4g18r3~x2/) — ΔT 0.80
+1. [Stirling, and Bannockburn](/setts/s10/r3g18r4t3r4k13r3db18g2ly3~x2/) — ΔT 0.80
 1. [Firth of Tay](/setts/s10/db2lb2db1lb9k5dg3r2dg5k1ly2~x4/) — ΔT 0.86
 1. [George Brown](/setts/s9/ly3db29k15r4g25r8k4r3w2~x2/) — ΔT 0.87
 1. [MacLean](/setts/s11/db8k8ly2k3w3k3g24r16db3r4k2~x2/) — ΔT 1.00
 1. [Comyn/Cumming](/setts/s9/r4w1r4dg10ly1k10t4k2t4~x4/) — ΔT 1.00
 1. [Bowling](/setts/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2/) — ΔT 1.01
-1. [Leitrim Irish County Tartan Tartan Number: 2271. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/lg3k18lg4dy3lg4o13lg3lr18k2lr3~x2/) — ΔT 1.09
+1. [Leitrim Irish County Tartan Tartan Number: 2271. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/lr3k2lr18lg3o13lg4dy3lg4k18lg3~x2/) — ΔT 1.09
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r4w1r4g10ly1k10t4k2t4~x4/"><circle cx="64.8" cy="154.5" r="4" fill="#3465a4"><title>Comyn, Cumming</title></circle></a><a href="/setts/s9/w2db3r6k8g12lo1db4k2w2~x2/"><circle cx="74.8" cy="145.7" r="4" fill="#3465a4"><title>National (1934), The</title></circle></a><a href="/setts/s9/g2dp2g10k6r2k6t10k1lb2~x2/"><circle cx="76.5" cy="158.1" r="4" fill="#3465a4"><title>Birch (Personal) (Estimated threadcount)</title></circle></a><a href="/setts/s10/ly3g2db18r3k13r4t3r4g18r3~x2/"><circle cx="71.2" cy="145.0" r="4" fill="#3465a4"><title>Stirling, and Bannockburn</title></circle></a><a href="/setts/s10/db2lb2db1lb9k5dg3r2dg5k1ly2~x4/"><circle cx="64.1" cy="148.3" r="4" fill="#3465a4"><title>Firth of Tay</title></circle></a><a href="/setts/s9/ly3db29k15r4g25r8k4r3w2~x2/"><circle cx="110.3" cy="128.9" r="4" fill="#3465a4"><title>George Brown</title></circle></a><a href="/setts/s11/db8k8ly2k3w3k3g24r16db3r4k2~x2/"><circle cx="99.4" cy="118.6" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s9/r4w1r4dg10ly1k10t4k2t4~x4/"><circle cx="86.1" cy="162.5" r="4" fill="#3465a4"><title>Comyn/Cumming</title></circle></a><a href="/setts/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2/"><circle cx="51.1" cy="115.1" r="4" fill="#3465a4"><title>Bowling</title></circle></a><a href="/setts/s10/lg3k18lg4dy3lg4o13lg3lr18k2lr3~x2/"><circle cx="58.5" cy="133.1" r="4" fill="#3465a4"><title>Leitrim Irish County Tartan Tartan Number: 2271. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="65.4" cy="142.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r4w1r4g10ly1k10t4k2t4~x4/"><circle cx="65.0" cy="154.5" r="4" fill="#3465a4"><title>Comyn, Cumming</title></circle></a><a href="/setts/s9/w2db3r6k8g12lo1db4k2w2~x2/"><circle cx="74.9" cy="145.8" r="4" fill="#3465a4"><title>National (1934), The</title></circle></a><a href="/setts/s9/g2dp2g10k6r2k6t10k1lb2~x2/"><circle cx="76.7" cy="158.2" r="4" fill="#3465a4"><title>Birch (Personal) (Estimated threadcount)</title></circle></a><a href="/setts/s10/r3g18r4t3r4k13r3db18g2ly3~x2/"><circle cx="71.3" cy="145.1" r="4" fill="#3465a4"><title>Stirling, and Bannockburn</title></circle></a><a href="/setts/s10/db2lb2db1lb9k5dg3r2dg5k1ly2~x4/"><circle cx="64.2" cy="148.4" r="4" fill="#3465a4"><title>Firth of Tay</title></circle></a><a href="/setts/s9/ly3db29k15r4g25r8k4r3w2~x2/"><circle cx="110.4" cy="129.0" r="4" fill="#3465a4"><title>George Brown</title></circle></a><a href="/setts/s11/db8k8ly2k3w3k3g24r16db3r4k2~x2/"><circle cx="99.4" cy="118.7" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s9/r4w1r4dg10ly1k10t4k2t4~x4/"><circle cx="86.2" cy="162.6" r="4" fill="#3465a4"><title>Comyn/Cumming</title></circle></a><a href="/setts/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2/"><circle cx="51.2" cy="115.3" r="4" fill="#3465a4"><title>Bowling</title></circle></a><a href="/setts/s10/lr3k2lr18lg3o13lg4dy3lg4k18lg3~x2/"><circle cx="58.5" cy="133.2" r="4" fill="#3465a4"><title>Leitrim Irish County Tartan Tartan Number: 2271. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="65.6" cy="142.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/w2db3r6k8g12ly1db4k2w2~x2/

@@ -21,14 +21,14 @@ GWYK
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### G W LO K <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="seq">G W LO K</span></span>
+### K LO W G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K LO W G</span></span>
 
 | Tartans |
 |---------------|
 | [Dhillon (Personal)](/setts/s4/k35lo3w3g3~x4/)|
 |![Dhillon (Personal) example sett](/setts/s4/k35lo3w3g3~x4/sett.png)|
 
-### G W LY K <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="seq">G W LY K</span></span>
+### K LY W G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K LY W G</span></span>
 
 | Tartans |
 |---------------|

@@ -2,12 +2,18 @@
 title: "McKnight Dress #2 (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BYWRBKBK](/stripes/bywrbkbk/) · **Stripes:** [DB LY W R DB K T K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="seq">DB LY W R DB K T K</span></span>
+**Bands:** [KBKBRWYB](/stripes/kbkbrwyb/) · **Stripes:** [K T K DB R W LY DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">K T K DB R W LY DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2895
+
+## Also known as
+
+This cloth is also recorded under:
+
+- McKnight Dress #2
 
 ## Attestations
 
@@ -48,10 +54,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Vinther, Niels Christian (Personal)](/setts/s8/lb3m14w1k2g2k16t20lb1~x2/) — ΔT 1.02
-1. [Lermontov](/setts/s9/db2w2db24o9r29ly8k2ly1k2~x2/) — ΔT 1.17
-1. [Aberdeen Asset Management (Corp)](/setts/s11/db6lb1db2r20g10lo2g2lo2db18r2k6~x2/) — ΔT 1.29
+1. [Lermontov](/setts/s9/k2ly1k2ly8r29o9db24w2db2~x2/) — ΔT 1.17
+1. [Aberdeen Asset Management (Corp)](/setts/s11/k6r2db18lo2g2lo2g10r20db2lb1db6~x2/) — ΔT 1.29
 1. [Edinburgh Napier University](/setts/s8/db4w8db8w10k16lg4r38ly1/) — ΔT 1.31
-1. [Tribal](/setts/s10/lg2k16r5k1r8k1r5k1dp16ly2~x4/) — ΔT 1.35
+1. [Tribal](/setts/s10/ly2dp16k1r5k1r8k1r5k16lg2~x4/) — ΔT 1.35
 1. [Scotland's Charity Air Ambulance](/setts/s9/w2b27k1g3k1n10k1r24w2~x2/) — ΔT 1.36
 1. [Clinton Wedding](/setts/s12/w5db6r20k6n5k3db26r2ly1r2db3w3~x2/) — ΔT 1.37
 1. [Clinton Wedding (Personal)](/setts/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/) — ΔT 1.42
@@ -60,8 +66,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/lb3m14w1k2g2k16t20lb1~x2/"><circle cx="158.2" cy="114.7" r="4" fill="#3465a4"><title>Vinther, Niels Christian (Personal)</title></circle></a><a href="/setts/s9/db2w2db24o9r29ly8k2ly1k2~x2/"><circle cx="195.0" cy="81.5" r="4" fill="#3465a4"><title>Lermontov</title></circle></a><a href="/setts/s11/db6lb1db2r20g10lo2g2lo2db18r2k6~x2/"><circle cx="171.6" cy="106.3" r="4" fill="#3465a4"><title>Aberdeen Asset Management (Corp)</title></circle></a><a href="/setts/s8/db4w8db8w10k16lg4r38ly1/"><circle cx="190.9" cy="69.8" r="4" fill="#3465a4"><title>Edinburgh Napier University</title></circle></a><a href="/setts/s10/lg2k16r5k1r8k1r5k1dp16ly2~x4/"><circle cx="138.8" cy="108.3" r="4" fill="#3465a4"><title>Tribal</title></circle></a><a href="/setts/s9/w2b27k1g3k1n10k1r24w2~x2/"><circle cx="205.4" cy="76.0" r="4" fill="#3465a4"><title>Scotland's Charity Air Ambulance</title></circle></a><a href="/setts/s12/w5db6r20k6n5k3db26r2ly1r2db3w3~x2/"><circle cx="201.7" cy="79.8" r="4" fill="#3465a4"><title>Clinton Wedding</title></circle></a><a href="/setts/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/"><circle cx="211.0" cy="82.7" r="4" fill="#3465a4"><title>Clinton Wedding (Personal)</title></circle></a><a href="/setts/s8/g20db2w2db12dp29r1dp1k3~x2/"><circle cx="229.7" cy="98.8" r="4" fill="#3465a4"><title>Longhaugh Primary School</title></circle></a><a href="/setts/s8/r6t3p24ly2k23w23k2w6~x2/"><circle cx="98.3" cy="125.6" r="4" fill="#3465a4"><title>Culloden, Dress</title></circle></a><circle cx="153.5" cy="101.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/lb3m14w1k2g2k16t20lb1~x2/"><circle cx="158.2" cy="114.7" r="4" fill="#3465a4"><title>Vinther, Niels Christian (Personal)</title></circle></a><a href="/setts/s9/k2ly1k2ly8r29o9db24w2db2~x2/"><circle cx="194.8" cy="81.5" r="4" fill="#3465a4"><title>Lermontov</title></circle></a><a href="/setts/s11/k6r2db18lo2g2lo2g10r20db2lb1db6~x2/"><circle cx="171.6" cy="106.4" r="4" fill="#3465a4"><title>Aberdeen Asset Management (Corp)</title></circle></a><a href="/setts/s8/db4w8db8w10k16lg4r38ly1/"><circle cx="190.7" cy="69.8" r="4" fill="#3465a4"><title>Edinburgh Napier University</title></circle></a><a href="/setts/s10/ly2dp16k1r5k1r8k1r5k16lg2~x4/"><circle cx="138.8" cy="108.4" r="4" fill="#3465a4"><title>Tribal</title></circle></a><a href="/setts/s9/w2b27k1g3k1n10k1r24w2~x2/"><circle cx="205.2" cy="76.1" r="4" fill="#3465a4"><title>Scotland's Charity Air Ambulance</title></circle></a><a href="/setts/s12/w5db6r20k6n5k3db26r2ly1r2db3w3~x2/"><circle cx="201.6" cy="79.8" r="4" fill="#3465a4"><title>Clinton Wedding</title></circle></a><a href="/setts/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/"><circle cx="210.9" cy="82.7" r="4" fill="#3465a4"><title>Clinton Wedding (Personal)</title></circle></a><a href="/setts/s8/g20db2w2db12dp29r1dp1k3~x2/"><circle cx="229.6" cy="98.9" r="4" fill="#3465a4"><title>Longhaugh Primary School</title></circle></a><a href="/setts/s8/r6t3p24ly2k23w23k2w6~x2/"><circle cx="98.3" cy="125.6" r="4" fill="#3465a4"><title>Culloden, Dress</title></circle></a><circle cx="153.4" cy="102.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db4ly1w10r28db25k10t5k3~x4/

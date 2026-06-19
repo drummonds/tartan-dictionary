@@ -2,7 +2,7 @@
 title: "Leith"
 date: 2023-03-18
 ---
-**Bands:** [BKBBBBBGBBBKR](/stripes/bkbbbbbgbbbkr/) · **Stripes:** [T K T DB T DB T G T DB T K R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">T K T DB T DB T G T DB T K R</span></span>
+**Bands:** [RKBBBGBBBBBKB](/stripes/rkbbbgbbbbbkb/) · **Stripes:** [R K T DB T G T DB T DB T K T](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">R K T DB T G T DB T DB T K T</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -909,7 +912,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Stinson (Name)](/setts/s11/k7b20t2r6t2k20ly3g20b27r3b6~x2/) — ΔT 0.89
 1. [McCartney (Night)](/setts/s11/db4g2db24g8b2r2b2ly2b10db2w3~x2/) — ΔT 0.96
 1. [Sacramento City Fire Department (P&D](/setts/s13/ly2db2w1db15k5g11k1r3k1g11k5db17w1~x2/) — ΔT 1.03
-1. [Fermanagh](/setts/s17/g3t3g2t3ly2t2ly2t13db4g3db3g3db3g3db3t20y3~x2/) — ΔT 1.07
+1. [Fermanagh](/setts/s17/y3t20db3g3db3g3db3g3db4t13ly2t2ly2t3g2t3g3~x2/) — ΔT 1.07
 1. [First Command Fin. Planning (Corp)](/setts/s11/g16lb2g4b4g4lb2g6db12r2db20ly3~x2/) — ΔT 1.11
 1. [Texas Blue Bonnet](/setts/s11/g5r1db10w1r1w1t10w1t10w1ly1~x4/) — ΔT 1.13
 1. [Loch Lomond Millenium](/setts/s11/k3dg2k12db4b19r3b19db4k12dg2lo3~x2/) — ΔT 1.14
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db4g2db24g8t2r2t2ly2t10db2w3~x2/"><circle cx="226.5" cy="130.4" r="4" fill="#3465a4"><title>McCartney (Evening/Night)</title></circle></a><a href="/setts/s12/t29db3k10lo2k2t2k2g10r5k3r2t2~x2/"><circle cx="208.2" cy="110.4" r="4" fill="#3465a4"><title>Stuart/Stewart Blue</title></circle></a><a href="/setts/s11/k7b20t2r6t2k20ly3g20b27r3b6~x2/"><circle cx="184.9" cy="148.1" r="4" fill="#3465a4"><title>Stinson (Name)</title></circle></a><a href="/setts/s11/db4g2db24g8b2r2b2ly2b10db2w3~x2/"><circle cx="231.5" cy="128.8" r="4" fill="#3465a4"><title>McCartney (Night)</title></circle></a><a href="/setts/s13/ly2db2w1db15k5g11k1r3k1g11k5db17w1~x2/"><circle cx="210.0" cy="127.1" r="4" fill="#3465a4"><title>Sacramento City Fire Department (P&amp;D</title></circle></a><a href="/setts/s17/g3t3g2t3ly2t2ly2t13db4g3db3g3db3g3db3t20y3~x2/"><circle cx="222.6" cy="122.0" r="4" fill="#3465a4"><title>Fermanagh</title></circle></a><a href="/setts/s11/g16lb2g4b4g4lb2g6db12r2db20ly3~x2/"><circle cx="177.1" cy="154.8" r="4" fill="#3465a4"><title>First Command Fin. Planning (Corp)</title></circle></a><a href="/setts/s11/g5r1db10w1r1w1t10w1t10w1ly1~x4/"><circle cx="200.6" cy="138.4" r="4" fill="#3465a4"><title>Texas Blue Bonnet</title></circle></a><a href="/setts/s11/k3dg2k12db4b19r3b19db4k12dg2lo3~x2/"><circle cx="192.3" cy="165.8" r="4" fill="#3465a4"><title>Loch Lomond Millenium</title></circle></a><a href="/setts/s14/b18dt2k2dt2k1b2k8g1ly1g6k8b14k2g2~x2/"><circle cx="260.0" cy="136.7" r="4" fill="#3465a4"><title>Angove, the Black Swan (Name)</title></circle></a><circle cx="213.7" cy="128.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db4g2db24g8t2r2t2ly2t10db2w3~x2/"><circle cx="226.5" cy="130.5" r="4" fill="#3465a4"><title>McCartney (Evening/Night)</title></circle></a><a href="/setts/s12/t29db3k10lo2k2t2k2g10r5k3r2t2~x2/"><circle cx="208.1" cy="110.5" r="4" fill="#3465a4"><title>Stuart/Stewart Blue</title></circle></a><a href="/setts/s11/k7b20t2r6t2k20ly3g20b27r3b6~x2/"><circle cx="184.9" cy="148.1" r="4" fill="#3465a4"><title>Stinson (Name)</title></circle></a><a href="/setts/s11/db4g2db24g8b2r2b2ly2b10db2w3~x2/"><circle cx="231.3" cy="128.8" r="4" fill="#3465a4"><title>McCartney (Night)</title></circle></a><a href="/setts/s13/ly2db2w1db15k5g11k1r3k1g11k5db17w1~x2/"><circle cx="210.0" cy="127.2" r="4" fill="#3465a4"><title>Sacramento City Fire Department (P&amp;D</title></circle></a><a href="/setts/s17/y3t20db3g3db3g3db3g3db4t13ly2t2ly2t3g2t3g3~x2/"><circle cx="222.4" cy="122.0" r="4" fill="#3465a4"><title>Fermanagh</title></circle></a><a href="/setts/s11/g16lb2g4b4g4lb2g6db12r2db20ly3~x2/"><circle cx="177.2" cy="154.8" r="4" fill="#3465a4"><title>First Command Fin. Planning (Corp)</title></circle></a><a href="/setts/s11/g5r1db10w1r1w1t10w1t10w1ly1~x4/"><circle cx="200.4" cy="138.4" r="4" fill="#3465a4"><title>Texas Blue Bonnet</title></circle></a><a href="/setts/s11/k3dg2k12db4b19r3b19db4k12dg2lo3~x2/"><circle cx="192.4" cy="165.8" r="4" fill="#3465a4"><title>Loch Lomond Millenium</title></circle></a><a href="/setts/s14/b18dt2k2dt2k1b2k8g1ly1g6k8b14k2g2~x2/"><circle cx="259.9" cy="136.7" r="4" fill="#3465a4"><title>Angove, the Black Swan (Name)</title></circle></a><circle cx="213.6" cy="128.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/t5k2t17db3t3db22t3g22t3db3t27k2r4~x2/

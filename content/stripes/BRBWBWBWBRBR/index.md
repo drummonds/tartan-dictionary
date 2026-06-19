@@ -18,10 +18,10 @@ BRBWBWBWBRBR
 
 
 
-### DT R DT W DT W DT W DT R DT R <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="seq">DT R DT W DT W DT W DT R DT R</span></span>
+### R DT R DT W DT W DT W DT R DT <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">R DT R DT W DT W DT W DT R DT</span></span>
 
 | Tartans |
 |---------------|
-| [Greater Victoria Police PB](/setts/s12/r7dt1r26dt31w1dt1w2dt1w1dt31r26dt1~x2/)|
-|![Greater Victoria Police PB example sett](/setts/s12/r7dt1r26dt31w1dt1w2dt1w1dt31r26dt1~x2/sett.png)|
+| [Greater Victoria Police PB](/setts/s12/r7dt1r26dt31w1dt1w2~x2/)|
+|![Greater Victoria Police PB example sett](/setts/s12/r7dt1r26dt31w1dt1w2~x2/sett.png)|
 

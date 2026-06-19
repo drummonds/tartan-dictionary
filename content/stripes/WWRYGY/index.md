@@ -20,7 +20,7 @@ WWRYGY
 
 
 
-### W W R LO G LR <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">W W R LO G LR</span></span>
+### LR G LO R W W <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LR G LO R W W</span></span>
 
 | Tartans |
 |---------------|

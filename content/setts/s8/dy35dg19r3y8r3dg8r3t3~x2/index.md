@@ -2,7 +2,7 @@
 title: "John Muir Way"
 date: 2023-03-18
 ---
-**Bands:** [BRGRGRGG](/stripes/brgrgrgg/) · **Stripes:** [T R DG R Y R DG DY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">T R DG R Y R DG DY</span></span>
+**Bands:** [GGRGRGRB](/stripes/ggrgrgrb/) · **Stripes:** [DY DG R Y R DG R T](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">DY DG R Y R DG R T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [11022](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11022)
 
 ## Thread count
-B/6 R6 DG16 R6 G16 R6 DG38 T/70
+T/70 DG38 R6 G16 R6 DG16 R6 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -32,7 +32,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/6 R6 DG16 R6 G16 R6 DG38 T/70 tartan")
+![Tartan detail](tartan.png "T/70 DG38 R6 G16 R6 DG16 R6 B/6 tartan")
 
 ## Nearest tartans
 
@@ -43,7 +43,7 @@ The nearest existing variants by ΔTartan distance.
 1. [State Seal of Minnesota (Fashion)](/setts/s8/r4g46r10db10dy33db5dy4lo3~x2/) — ΔT 0.73
 1. [Ramsay (Green Fashion)](/setts/s7/g1r7g7n2r1dg15lb1~x4/) — ΔT 1.06
 1. [Pubcrawlers (Corporate)](/setts/s7/g3dy4g2dy22n5r16ly3~x2/) — ΔT 1.11
-1. [Methven](/setts/s11/lo2dg24y2dg2y6r21dy2r2dy18dg3r2~x2/) — ΔT 1.11
+1. [Methven](/setts/s11/r2dg3dy18r2dy2r21y6dg2y2dg24lo2~x2/) — ΔT 1.11
 1. [Cozumel](/setts/s9/dy7k1dg1r1k1r7dg15k1lo1~x4/) — ΔT 1.12
 1. [Moncton, City of](/setts/s9/g4r1db2r1g10y5r3y10ly1~x4/) — ΔT 1.29
 1. [Bennett, John Paul (Personal)](/setts/s7/r4n38k4n6k41dg62y4/) — ΔT 1.32
@@ -51,8 +51,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dy35dg19r3g8r3dg8r3db3~x2/"><circle cx="300.5" cy="205.3" r="4" fill="#3465a4"><title>John Muir Way</title></circle></a><a href="/setts/s9/do6lg3do18dy2do2dy10y28r2y4~x2/"><circle cx="309.9" cy="194.1" r="4" fill="#3465a4"><title>Scottish Crofting Foundation</title></circle></a><a href="/setts/s8/r4g46r10db10dy33db5dy4lo3~x2/"><circle cx="289.4" cy="194.8" r="4" fill="#3465a4"><title>State Seal of Minnesota (Fashion)</title></circle></a><a href="/setts/s7/g1r7g7n2r1dg15lb1~x4/"><circle cx="314.4" cy="212.0" r="4" fill="#3465a4"><title>Ramsay (Green Fashion)</title></circle></a><a href="/setts/s7/g3dy4g2dy22n5r16ly3~x2/"><circle cx="317.3" cy="215.3" r="4" fill="#3465a4"><title>Pubcrawlers (Corporate)</title></circle></a><a href="/setts/s11/lo2dg24y2dg2y6r21dy2r2dy18dg3r2~x2/"><circle cx="251.6" cy="179.5" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/setts/s9/dy7k1dg1r1k1r7dg15k1lo1~x4/"><circle cx="309.5" cy="174.1" r="4" fill="#3465a4"><title>Cozumel</title></circle></a><a href="/setts/s9/g4r1db2r1g10y5r3y10ly1~x4/"><circle cx="257.2" cy="208.5" r="4" fill="#3465a4"><title>Moncton, City of</title></circle></a><a href="/setts/s7/r4n38k4n6k41dg62y4/"><circle cx="291.4" cy="211.4" r="4" fill="#3465a4"><title>Bennett, John Paul (Personal)</title></circle></a><a href="/setts/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/"><circle cx="238.1" cy="182.7" r="4" fill="#3465a4"><title>Henry, W. A.</title></circle></a><circle cx="302.1" cy="205.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dy35dg19r3g8r3dg8r3db3~x2/"><circle cx="300.4" cy="205.5" r="4" fill="#3465a4"><title>John Muir Way</title></circle></a><a href="/setts/s9/do6lg3do18dy2do2dy10y28r2y4~x2/"><circle cx="309.8" cy="194.3" r="4" fill="#3465a4"><title>Scottish Crofting Foundation</title></circle></a><a href="/setts/s8/r4g46r10db10dy33db5dy4lo3~x2/"><circle cx="289.3" cy="195.0" r="4" fill="#3465a4"><title>State Seal of Minnesota (Fashion)</title></circle></a><a href="/setts/s7/g1r7g7n2r1dg15lb1~x4/"><circle cx="314.2" cy="212.2" r="4" fill="#3465a4"><title>Ramsay (Green Fashion)</title></circle></a><a href="/setts/s7/g3dy4g2dy22n5r16ly3~x2/"><circle cx="317.1" cy="215.4" r="4" fill="#3465a4"><title>Pubcrawlers (Corporate)</title></circle></a><a href="/setts/s11/r2dg3dy18r2dy2r21y6dg2y2dg24lo2~x2/"><circle cx="251.5" cy="179.7" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/setts/s9/dy7k1dg1r1k1r7dg15k1lo1~x4/"><circle cx="309.4" cy="174.3" r="4" fill="#3465a4"><title>Cozumel</title></circle></a><a href="/setts/s9/g4r1db2r1g10y5r3y10ly1~x4/"><circle cx="257.0" cy="208.6" r="4" fill="#3465a4"><title>Moncton, City of</title></circle></a><a href="/setts/s7/r4n38k4n6k41dg62y4/"><circle cx="291.5" cy="211.6" r="4" fill="#3465a4"><title>Bennett, John Paul (Personal)</title></circle></a><a href="/setts/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/"><circle cx="238.0" cy="182.9" r="4" fill="#3465a4"><title>Henry, W. A.</title></circle></a><circle cx="302.0" cy="206.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/dy35dg19r3y8r3dg8r3t3~x2/

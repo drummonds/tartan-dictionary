@@ -2,12 +2,18 @@
 title: "MacLean of Duart Hunting"
 date: 2023-03-18
 ---
-**Bands:** [GKWKGKGK](/stripes/gkwkgkgk/) · **Stripes:** [G K W K G K G K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">G K W K G K G K</span></span>
+**Bands:** [KGKGKWKG](/stripes/kgkgkwkg/) · **Stripes:** [K G K G K W K G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G K G K W K G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2617
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacLean of Duart Hunting
 
 ## Attestations
 
@@ -56,17 +62,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Guildry of Stirling](/setts/s10/g18k3g3k3g3k21g2k21g21k4~x2/) — ΔT 1.09
 1. [MacAulay of Lewis](/setts/s8/g6k16r3k16g28k4g12w3~x2/) — ΔT 1.12
 1. [Hartmann (Personal)](/setts/s8/k4g32k4g4k8w3k8t4~x2/) — ΔT 1.16
-1. [MacIver Hunting](/setts/s9/ly2g12k3g3k16g3k3g12w2~x2/) — ΔT 1.24
+1. [MacIver Hunting](/setts/s9/w2g12k3g3k16g3k3g12ly2~x2/) — ΔT 1.24
 1. [Glenbarr](/setts/s8/g3k6r2k6g3k2g16k1~x4/) — ΔT 1.28
 1. [Gaelic Society of Moscow (Corporate)](/setts/s9/k15g2k2g4r2g2r2g2k2~x2/) — ΔT 1.30
 1. [MacArthur-Fox 1993 (Personal)](/setts/s8/k22g5k2g5k11g33k2r4~x2/) — ΔT 1.32
 1. [St. Dennis & Cranley School](/setts/s7/db1g12db4lb1db4g4db1~x4/) — ΔT 1.33
-1. [Confederate Infantry](/setts/s6/db2dg12o3dg8o14dg2~x2/) — ΔT 1.33
+1. [Confederate Infantry](/setts/s6/dg2o14dg8o3dg12db2~x2/) — ΔT 1.33
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g40k20t10k4t7g13k4t4~x2/"><circle cx="299.5" cy="226.9" r="4" fill="#3465a4"><title>Letham (S.Australia)</title></circle></a><a href="/setts/s10/g18k3g3k3g3k21g2k21g21k4~x2/"><circle cx="349.4" cy="231.8" r="4" fill="#3465a4"><title>Guildry of Stirling</title></circle></a><a href="/setts/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="280.1" cy="221.9" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/setts/s8/k4g32k4g4k8w3k8t4~x2/"><circle cx="305.3" cy="190.8" r="4" fill="#3465a4"><title>Hartmann (Personal)</title></circle></a><a href="/setts/s9/ly2g12k3g3k16g3k3g12w2~x2/"><circle cx="273.9" cy="205.3" r="4" fill="#3465a4"><title>MacIver Hunting</title></circle></a><a href="/setts/s8/g3k6r2k6g3k2g16k1~x4/"><circle cx="376.9" cy="215.3" r="4" fill="#3465a4"><title>Glenbarr</title></circle></a><a href="/setts/s9/k15g2k2g4r2g2r2g2k2~x2/"><circle cx="347.4" cy="216.5" r="4" fill="#3465a4"><title>Gaelic Society of Moscow (Corporate)</title></circle></a><a href="/setts/s8/k22g5k2g5k11g33k2r4~x2/"><circle cx="362.8" cy="208.7" r="4" fill="#3465a4"><title>MacArthur-Fox 1993 (Personal)</title></circle></a><a href="/setts/s7/db1g12db4lb1db4g4db1~x4/"><circle cx="369.6" cy="225.1" r="4" fill="#3465a4"><title>St. Dennis &amp; Cranley School</title></circle></a><a href="/setts/s6/db2dg12o3dg8o14dg2~x2/"><circle cx="313.8" cy="262.2" r="4" fill="#3465a4"><title>Confederate Infantry</title></circle></a><circle cx="321.0" cy="231.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g40k20t10k4t7g13k4t4~x2/"><circle cx="299.5" cy="226.7" r="4" fill="#3465a4"><title>Letham (S.Australia)</title></circle></a><a href="/setts/s10/g18k3g3k3g3k21g2k21g21k4~x2/"><circle cx="349.4" cy="231.6" r="4" fill="#3465a4"><title>Guildry of Stirling</title></circle></a><a href="/setts/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="280.1" cy="221.8" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/setts/s8/k4g32k4g4k8w3k8t4~x2/"><circle cx="305.3" cy="190.7" r="4" fill="#3465a4"><title>Hartmann (Personal)</title></circle></a><a href="/setts/s9/w2g12k3g3k16g3k3g12ly2~x2/"><circle cx="273.8" cy="205.1" r="4" fill="#3465a4"><title>MacIver Hunting</title></circle></a><a href="/setts/s8/g3k6r2k6g3k2g16k1~x4/"><circle cx="376.8" cy="215.1" r="4" fill="#3465a4"><title>Glenbarr</title></circle></a><a href="/setts/s9/k15g2k2g4r2g2r2g2k2~x2/"><circle cx="347.3" cy="216.3" r="4" fill="#3465a4"><title>Gaelic Society of Moscow (Corporate)</title></circle></a><a href="/setts/s8/k22g5k2g5k11g33k2r4~x2/"><circle cx="362.7" cy="208.5" r="4" fill="#3465a4"><title>MacArthur-Fox 1993 (Personal)</title></circle></a><a href="/setts/s7/db1g12db4lb1db4g4db1~x4/"><circle cx="369.6" cy="224.8" r="4" fill="#3465a4"><title>St. Dennis &amp; Cranley School</title></circle></a><a href="/setts/s6/dg2o14dg8o3dg12db2~x2/"><circle cx="313.8" cy="262.0" r="4" fill="#3465a4"><title>Confederate Infantry</title></circle></a><circle cx="321.0" cy="231.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/g3k6w2k6g2k2g16k2~x2/

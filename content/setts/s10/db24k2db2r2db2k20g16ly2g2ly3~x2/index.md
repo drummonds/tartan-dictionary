@@ -2,7 +2,7 @@
 title: "Watson (Name)"
 date: 2023-03-18
 ---
-**Bands:** [BKBRBKGYGY](/stripes/bkbrbkgygy/) · **Stripes:** [DB K DB R DB K G LY G LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB K DB R DB K G LY G LY</span></span>
+**Bands:** [YGYGKBRBKB](/stripes/ygygkbrbkb/) · **Stripes:** [LY G LY G K DB R DB K DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LY G LY G K DB R DB K DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
@@ -319,6 +319,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +420,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +680,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,7 +914,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [McWilliams Wedding (Personal)](/setts/s9/g2db1k1db14k2db1k12g10r2~x2/) — ΔT 0.59
+1. [McWilliams Wedding (Personal)](/setts/s9/r2g10k12db1k2db14k1db1g2~x2/) — ΔT 0.59
 1. [Ofally, County](/setts/s10/r6db2g5db18g10db2k28db2g10lo3~x2/) — ΔT 0.74
 1. [Sandberg of Greenock (Personal)](/setts/s8/ly3k12db1g5db12r1k2r1~x4/) — ΔT 0.77
 1. [Bannatyne](/setts/s12/dt8r8dt42k4dt4k4dt4k20g4k10g25w8/) — ΔT 0.78
@@ -924,8 +927,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g2db1k1db14k2db1k12g10r2~x2/"><circle cx="197.3" cy="165.8" r="4" fill="#3465a4"><title>McWilliams Wedding (Personal)</title></circle></a><a href="/setts/s10/r6db2g5db18g10db2k28db2g10lo3~x2/"><circle cx="171.7" cy="163.8" r="4" fill="#3465a4"><title>Ofally, County</title></circle></a><a href="/setts/s8/ly3k12db1g5db12r1k2r1~x4/"><circle cx="188.1" cy="169.7" r="4" fill="#3465a4"><title>Sandberg of Greenock (Personal)</title></circle></a><a href="/setts/s12/dt8r8dt42k4dt4k4dt4k20g4k10g25w8/"><circle cx="191.4" cy="166.6" r="4" fill="#3465a4"><title>Bannatyne</title></circle></a><a href="/setts/s9/g11k2g1m4db1m4db13lt2db1~x4/"><circle cx="195.6" cy="161.6" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w4/"><circle cx="182.0" cy="150.0" r="4" fill="#3465a4"><title>MacDonell of Glengarry #3</title></circle></a><a href="/setts/s11/db4k3db23k9g2t2g2t2g8k2ly3~x2/"><circle cx="225.2" cy="156.5" r="4" fill="#3465a4"><title>Forth</title></circle></a><a href="/setts/s13/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/"><circle cx="183.6" cy="150.8" r="4" fill="#3465a4"><title>MacNeil of Colonsay (Highland Society of London)</title></circle></a><a href="/setts/s9/lt3dt20k3dt2k5dt2k3y15r2~x2/"><circle cx="221.4" cy="177.9" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra, The</title></circle></a><a href="/setts/s9/lb3db20k3db2k5db2k3y15r2~x2/"><circle cx="226.6" cy="176.8" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra</title></circle></a><circle cx="193.8" cy="154.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r2g10k12db1k2db14k1db1g2~x2/"><circle cx="197.4" cy="165.8" r="4" fill="#3465a4"><title>McWilliams Wedding (Personal)</title></circle></a><a href="/setts/s10/r6db2g5db18g10db2k28db2g10lo3~x2/"><circle cx="171.8" cy="163.9" r="4" fill="#3465a4"><title>Ofally, County</title></circle></a><a href="/setts/s8/ly3k12db1g5db12r1k2r1~x4/"><circle cx="188.2" cy="169.7" r="4" fill="#3465a4"><title>Sandberg of Greenock (Personal)</title></circle></a><a href="/setts/s12/dt8r8dt42k4dt4k4dt4k20g4k10g25w8/"><circle cx="191.5" cy="166.6" r="4" fill="#3465a4"><title>Bannatyne</title></circle></a><a href="/setts/s9/g11k2g1m4db1m4db13lt2db1~x4/"><circle cx="195.6" cy="161.6" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w4/"><circle cx="182.0" cy="150.1" r="4" fill="#3465a4"><title>MacDonell of Glengarry #3</title></circle></a><a href="/setts/s11/db4k3db23k9g2t2g2t2g8k2ly3~x2/"><circle cx="225.3" cy="156.5" r="4" fill="#3465a4"><title>Forth</title></circle></a><a href="/setts/s13/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/"><circle cx="183.7" cy="151.0" r="4" fill="#3465a4"><title>MacNeil of Colonsay (Highland Society of London)</title></circle></a><a href="/setts/s9/lt3dt20k3dt2k5dt2k3y15r2~x2/"><circle cx="221.5" cy="177.9" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra, The</title></circle></a><a href="/setts/s9/lb3db20k3db2k5db2k3y15r2~x2/"><circle cx="226.6" cy="176.9" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra</title></circle></a><circle cx="193.9" cy="154.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db24k2db2r2db2k20g16ly2g2ly3~x2/

@@ -8,7 +8,7 @@ RKWGKY
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/ly3k6g64lb2k4r3~x2/tartan.png)
+![Woven sample](/setts/s6/r3k4lb2g64k6ly3~x2/tartan.png)
 
 
 
@@ -32,6 +32,6 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Braemar Royal Highland Gathering](/setts/s6/ly3k6g64lb2k4r3~x2/)|
-|![Braemar Royal Highland Gathering example sett](/setts/s6/ly3k6g64lb2k4r3~x2/sett.png)|
+| [Braemar Royal Highland Gathering](/setts/s6/r3k4lb2g64k6ly3~x2/)|
+|![Braemar Royal Highland Gathering example sett](/setts/s6/r3k4lb2g64k6ly3~x2/sett.png)|
 

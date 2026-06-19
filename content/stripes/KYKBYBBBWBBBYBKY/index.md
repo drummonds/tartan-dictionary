@@ -22,6 +22,6 @@ KYKBYBBBWBBBYBKY
 
 | Tartans |
 |---------------|
-| [Heirloom Dark Alba](/setts/s16/k4lo2k34db10lr4db4dp4db23w3db23dp4db4lr4db10k34lo2~x2/)|
-|![Heirloom Dark Alba example sett](/setts/s16/k4lo2k34db10lr4db4dp4db23w3db23dp4db4lr4db10k34lo2~x2/sett.png)|
+| [Heirloom Dark Alba](/setts/s16/k4lo2k34db10lr4db4dp4db23w3~x2/)|
+|![Heirloom Dark Alba example sett](/setts/s16/k4lo2k34db10lr4db4dp4db23w3~x2/sett.png)|
 

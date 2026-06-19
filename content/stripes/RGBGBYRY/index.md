@@ -8,7 +8,7 @@ RGBGBYRY
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/ly1r1ly2db11g5db1g8r1~x4/tartan.png)
+![Woven sample](/setts/s8/r1g8db1g5db11ly2r1ly1~x4/tartan.png)
 
 
 
@@ -24,8 +24,8 @@ RGBGBYRY
 
 | Tartans |
 |---------------|
-| [New Mexico, State of (Fashion)](/setts/s8/ly1r1ly2db11g5db1g8r1~x4/)|
-|![New Mexico, State of (Fashion) example sett](/setts/s8/ly1r1ly2db11g5db1g8r1~x4/sett.png)|
-| [New Mexico](/setts/s8/ly1r2ly4db22g10db2g16r1~x2/)|
-|![New Mexico example sett](/setts/s8/ly1r2ly4db22g10db2g16r1~x2/sett.png)|
+| [New Mexico, State of (Fashion)](/setts/s8/r1g8db1g5db11ly2r1ly1~x4/)|
+|![New Mexico, State of (Fashion) example sett](/setts/s8/r1g8db1g5db11ly2r1ly1~x4/sett.png)|
+| [New Mexico](/setts/s8/r1g16db2g10db22ly4r2ly1~x2/)|
+|![New Mexico example sett](/setts/s8/r1g16db2g10db22ly4r2ly1~x2/sett.png)|
 

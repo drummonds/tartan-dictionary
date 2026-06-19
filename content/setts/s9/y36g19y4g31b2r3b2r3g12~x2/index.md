@@ -2,12 +2,18 @@
 title: "O'Brien (Scotch Corner)"
 date: 2023-03-18
 ---
-**Bands:** [GGGGBRBRG](/stripes/ggggbrbrg/) · **Stripes:** [Y G Y G B R B R G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">Y G Y G B R B R G</span></span>
+**Bands:** [GRBRBGGGG](/stripes/grbrbgggg/) · **Stripes:** [G R B R B G Y G Y](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">G R B R B G Y G Y</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3214
+
+## Also known as
+
+This cloth is also recorded under:
+
+- O'Brien #2
 
 ## Attestations
 
@@ -24,7 +30,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6173
 
 ## Thread count
-G/24 DR6 B4 DR6 B4 G62 Ga8 G38 Ga/72
+Ga/72 G38 Ga8 G62 B4 DR6 B4 DR6 G/24
 ![Sett](sett.png)
 
 ## Palette
@@ -42,7 +48,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Galloway Green (yellow line)](/setts/s6/ly3g2g32g32g2r3~x2/) — ΔT 1.36
+1. [Galloway Green (yellow line)](/setts/s6/r3g2g32g32g2ly3~x2/) — ΔT 1.36
 1. [Glenlivet](/setts/s8/g18r6g75db6g13o35g12db6/) — ΔT 1.64
 1. [Irving of Bonshaw](/setts/s5/g27g14dt2g2ly2~x4/) — ΔT 1.74
 1. [Prince David](/setts/s15/lo4g1o21g18o2g3o2g18o21lo2g1g3lo2g1g3~x2/) — ΔT 1.80
@@ -55,8 +61,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/ly3g2g32g32g2r3~x2/"><circle cx="375.5" cy="224.1" r="4" fill="#3465a4"><title>Galloway Green (yellow line)</title></circle></a><a href="/setts/s8/g18r6g75db6g13o35g12db6/"><circle cx="472.9" cy="228.7" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/setts/s5/g27g14dt2g2ly2~x4/"><circle cx="424.9" cy="250.5" r="4" fill="#3465a4"><title>Irving of Bonshaw</title></circle></a><a href="/setts/s15/lo4g1o21g18o2g3o2g18o21lo2g1g3lo2g1g3~x2/"><circle cx="364.7" cy="166.0" r="4" fill="#3465a4"><title>Prince David</title></circle></a><a href="/setts/s6/ly10g30g25g30k2g3~x2/"><circle cx="418.6" cy="261.7" r="4" fill="#3465a4"><title>Gordon Cumming (Artefact)</title></circle></a><a href="/setts/s13/g24g2g4g16g1k2g1g16g3ly1g12y2g5~x2/"><circle cx="426.0" cy="189.1" r="4" fill="#3465a4"><title>O'Neill, Martin</title></circle></a><a href="/setts/s5/g40w2y5g5y15~x2/"><circle cx="463.9" cy="238.2" r="4" fill="#3465a4"><title>Castle Bay (Fashion)</title></circle></a><a href="/setts/s6/g32t6g12t28r2db1~x2/"><circle cx="456.3" cy="226.0" r="4" fill="#3465a4"><title>Palm Beach Gardens Police</title></circle></a><a href="/setts/s13/g33ly1g3r3g3ly1g21ly1g3r3g3ly1g21~x2/"><circle cx="439.7" cy="167.5" r="4" fill="#3465a4"><title>Terry</title></circle></a><a href="/setts/s14/g68r4g6db4g34db4g6r4g68db4g16r4g19db4~x2/"><circle cx="395.0" cy="162.9" r="4" fill="#3465a4"><title>ASDA Wal-Mart</title></circle></a><circle cx="411.0" cy="213.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r3g2g32g32g2ly3~x2/"><circle cx="375.3" cy="224.1" r="4" fill="#3465a4"><title>Galloway Green (yellow line)</title></circle></a><a href="/setts/s8/g18r6g75db6g13o35g12db6/"><circle cx="472.6" cy="228.6" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/setts/s5/g27g14dt2g2ly2~x4/"><circle cx="424.7" cy="250.5" r="4" fill="#3465a4"><title>Irving of Bonshaw</title></circle></a><a href="/setts/s15/lo4g1o21g18o2g3o2g18o21lo2g1g3lo2g1g3~x2/"><circle cx="364.3" cy="166.1" r="4" fill="#3465a4"><title>Prince David</title></circle></a><a href="/setts/s6/ly10g30g25g30k2g3~x2/"><circle cx="418.4" cy="261.6" r="4" fill="#3465a4"><title>Gordon Cumming (Artefact)</title></circle></a><a href="/setts/s13/g24g2g4g16g1k2g1g16g3ly1g12y2g5~x2/"><circle cx="425.7" cy="189.2" r="4" fill="#3465a4"><title>O'Neill, Martin</title></circle></a><a href="/setts/s5/g40w2y5g5y15~x2/"><circle cx="463.6" cy="238.2" r="4" fill="#3465a4"><title>Castle Bay (Fashion)</title></circle></a><a href="/setts/s6/g32t6g12t28r2db1~x2/"><circle cx="456.0" cy="226.0" r="4" fill="#3465a4"><title>Palm Beach Gardens Police</title></circle></a><a href="/setts/s13/g33ly1g3r3g3ly1g21ly1g3r3g3ly1g21~x2/"><circle cx="439.2" cy="167.6" r="4" fill="#3465a4"><title>Terry</title></circle></a><a href="/setts/s14/g68r4g6db4g34db4g6r4g68db4g16r4g19db4~x2/"><circle cx="394.7" cy="162.8" r="4" fill="#3465a4"><title>ASDA Wal-Mart</title></circle></a><circle cx="410.7" cy="213.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/y36g19y4g31b2r3b2r3g12~x2/

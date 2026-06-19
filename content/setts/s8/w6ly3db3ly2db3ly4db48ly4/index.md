@@ -2,7 +2,7 @@
 title: "Morris Welsh Name Tartan Tartan Number: 5749. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Meyrick, Meurig, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [WYBYBYBY](/stripes/wybybyby/) · **Stripes:** [W LY DB LY DB LY DB LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W LY DB LY DB LY DB LY</span></span>
+**Bands:** [YBYBYBYW](/stripes/ybybybyw/) · **Stripes:** [LY DB LY DB LY DB LY W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DB LY DB LY DB LY W</span></span>
 
 
 This was sourced from house-of-tartan.  It is a [8 band tartan](/bands/bands8/).
@@ -13,7 +13,7 @@ Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?col
 
 Other setts woven to the same stripe pattern.
 
-- [Morris of Wales](/setts/s8/ly4db48ly4db3ly2db3ly3w4/)
+- [Morris of Wales](/setts/s8/w4ly3db3ly2db3ly4db48ly4/)
 
 
 ## Thread count
@@ -37,7 +37,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Morris of Wales](/setts/s8/ly4db48ly4db3ly2db3ly3w4/) — ΔT 0.36
+1. [Morris of Wales](/setts/s8/w4ly3db3ly2db3ly4db48ly4/) — ΔT 0.36
 1. [University of North Carolina at Greensboro, The](/setts/s9/db96ly11db8ly11db16ly6w4ly16w8/) — ΔT 1.05
 1. [George, Stuart (Personal)](/setts/s9/db62w2db4w5db6ly2r8ly3w4~x2/) — ΔT 1.09
 1. [George, Stuart (Personal)](/setts/s9/db62w2db4w5db6lo2r8lo3w4~x2/) — ΔT 1.13
@@ -50,8 +50,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/ly4db48ly4db3ly2db3ly3w4/"><circle cx="503.3" cy="133.3" r="4" fill="#3465a4"><title>Morris of Wales</title></circle></a><a href="/setts/s9/db96ly11db8ly11db16ly6w4ly16w8/"><circle cx="425.8" cy="130.0" r="4" fill="#3465a4"><title>University of North Carolina at Greensboro, The</title></circle></a><a href="/setts/s9/db62w2db4w5db6ly2r8ly3w4~x2/"><circle cx="482.9" cy="101.2" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/setts/s9/db62w2db4w5db6lo2r8lo3w4~x2/"><circle cx="484.5" cy="102.8" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/setts/s8/db28lo3w1lo3db4w2dp1w5~x4/"><circle cx="413.8" cy="115.7" r="4" fill="#3465a4"><title>Baker (Name)</title></circle></a><a href="/setts/s8/db28o3w1o3db4w2dp1w5~x4/"><circle cx="415.0" cy="115.9" r="4" fill="#3465a4"><title>Baker</title></circle></a><a href="/setts/s6/w6r13dt80w4dt2w4/"><circle cx="524.4" cy="137.4" r="4" fill="#3465a4"><title>Montrose Football Club</title></circle></a><a href="/setts/s8/dt32w4dt2w4dt4w2dt1w6~x2/"><circle cx="484.2" cy="148.2" r="4" fill="#3465a4"><title>Menzies Navy design Tartan Tartan Number: 12424. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db28ly3w1ly3db4w2r1w5~x4/"><circle cx="413.2" cy="112.8" r="4" fill="#3465a4"><title>Baker Dress Family Tartan Tartan Number: 2180. Earliest known date: 1999 STS notes 'Sample in trade specimens file.' See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/db67w10ly14db10w2/"><circle cx="483.0" cy="164.9" r="4" fill="#3465a4"><title>St. John (Corporate?)</title></circle></a><circle cx="480.8" cy="132.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w4ly3db3ly2db3ly4db48ly4/"><circle cx="503.0" cy="132.9" r="4" fill="#3465a4"><title>Morris of Wales</title></circle></a><a href="/setts/s9/db96ly11db8ly11db16ly6w4ly16w8/"><circle cx="425.5" cy="129.7" r="4" fill="#3465a4"><title>University of North Carolina at Greensboro, The</title></circle></a><a href="/setts/s9/db62w2db4w5db6ly2r8ly3w4~x2/"><circle cx="482.6" cy="100.9" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/setts/s9/db62w2db4w5db6lo2r8lo3w4~x2/"><circle cx="484.3" cy="102.4" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/setts/s8/db28lo3w1lo3db4w2dp1w5~x4/"><circle cx="413.6" cy="115.4" r="4" fill="#3465a4"><title>Baker (Name)</title></circle></a><a href="/setts/s8/db28o3w1o3db4w2dp1w5~x4/"><circle cx="414.7" cy="115.6" r="4" fill="#3465a4"><title>Baker</title></circle></a><a href="/setts/s6/w6r13dt80w4dt2w4/"><circle cx="524.1" cy="137.0" r="4" fill="#3465a4"><title>Montrose Football Club</title></circle></a><a href="/setts/s8/dt32w4dt2w4dt4w2dt1w6~x2/"><circle cx="483.8" cy="147.7" r="4" fill="#3465a4"><title>Menzies Navy design Tartan Tartan Number: 12424. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db28ly3w1ly3db4w2r1w5~x4/"><circle cx="412.8" cy="112.5" r="4" fill="#3465a4"><title>Baker Dress Family Tartan Tartan Number: 2180. Earliest known date: 1999 STS notes 'Sample in trade specimens file.' See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/db67w10ly14db10w2/"><circle cx="482.8" cy="164.4" r="4" fill="#3465a4"><title>St. John (Corporate?)</title></circle></a><circle cx="480.5" cy="132.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/w6ly3db3ly2db3ly4db48ly4/

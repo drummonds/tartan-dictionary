@@ -50,8 +50,8 @@ Grouped by stripe pattern — the 6 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Chisholm D](/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1~x2/)|
-|![Chisholm D example sett](/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1~x2/sett.png)|
+| [Chisholm D](/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1/)|
+|![Chisholm D example sett](/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1/sett.png)|
 
 ### R G B G B G B R W R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G B G B G B R W R</span></span>
 

@@ -2,7 +2,7 @@
 title: "MacLaine of Lochbuie"
 date: 2023-03-18
 ---
-**Bands:** [BRBY](/stripes/brby/) · **Stripes:** [DB R DB LY](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB R DB LY</span></span>
+**Bands:** [YBRB](/stripes/ybrb/) · **Stripes:** [LY DB R DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB R DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -921,7 +924,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Gem](/setts/s4/db140r11db14ly11/) — ΔT 1.03
 1. [Westfield (Corporate?)](/setts/s4/dt102lr11dt14w11/) — ΔT 1.21
-1. [Brooks Brothers Tattersall Blue](/setts/s5/lo1db9lo2db9r1~x4/) — ΔT 1.55
+1. [Brooks Brothers Tattersall Blue](/setts/s5/r1db9lo2db9lo1~x4/) — ΔT 1.55
 1. [Lynch](/setts/s6/r3db2r1db18g1db2~x4/) — ΔT 1.72
 1. [Coinean Dubh](/setts/s4/dt50k12dt21w5~x2/) — ΔT 1.89
 1. [Pearson](/setts/s5/ly6db28do2db28y1~x2/) — ΔT 1.90
@@ -932,8 +935,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/db140r11db14ly11/"><circle cx="616.2" cy="231.5" r="4" fill="#3465a4"><title>Gem</title></circle></a><a href="/setts/s4/dt102lr11dt14w11/"><circle cx="540.9" cy="241.0" r="4" fill="#3465a4"><title>Westfield (Corporate?)</title></circle></a><a href="/setts/s5/lo1db9lo2db9r1~x4/"><circle cx="544.0" cy="269.5" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Blue</title></circle></a><a href="/setts/s6/r3db2r1db18g1db2~x4/"><circle cx="602.5" cy="205.3" r="4" fill="#3465a4"><title>Lynch</title></circle></a><a href="/setts/s4/dt50k12dt21w5~x2/"><circle cx="508.5" cy="276.9" r="4" fill="#3465a4"><title>Coinean Dubh</title></circle></a><a href="/setts/s5/ly6db28do2db28y1~x2/"><circle cx="591.2" cy="196.9" r="4" fill="#3465a4"><title>Pearson</title></circle></a><a href="/setts/s5/r5w4k4db80w4~x2/"><circle cx="562.3" cy="163.3" r="4" fill="#3465a4"><title>Volunteer Lifesaving Corps (Corp.)</title></circle></a><a href="/setts/s4/db1t1db8r1~x2/"><circle cx="590.9" cy="279.8" r="4" fill="#3465a4"><title>Lochaber #3</title></circle></a><a href="/setts/s6/db35w4db10r3r3r3~x4/"><circle cx="495.0" cy="196.7" r="4" fill="#3465a4"><title>Steffen, Morris (Personal)</title></circle></a><a href="/setts/s5/db32r3db4k1ly3~x2/"><circle cx="597.6" cy="164.6" r="4" fill="#3465a4"><title>MacLaine of Lochbuie, hunting</title></circle></a><circle cx="591.0" cy="239.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/db140r11db14ly11/"><circle cx="616.0" cy="230.9" r="4" fill="#3465a4"><title>Gem</title></circle></a><a href="/setts/s4/dt102lr11dt14w11/"><circle cx="540.7" cy="240.4" r="4" fill="#3465a4"><title>Westfield (Corporate?)</title></circle></a><a href="/setts/s5/r1db9lo2db9lo1~x4/"><circle cx="543.9" cy="269.1" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Blue</title></circle></a><a href="/setts/s6/r3db2r1db18g1db2~x4/"><circle cx="602.2" cy="204.9" r="4" fill="#3465a4"><title>Lynch</title></circle></a><a href="/setts/s4/dt50k12dt21w5~x2/"><circle cx="508.5" cy="276.5" r="4" fill="#3465a4"><title>Coinean Dubh</title></circle></a><a href="/setts/s5/ly6db28do2db28y1~x2/"><circle cx="591.0" cy="196.5" r="4" fill="#3465a4"><title>Pearson</title></circle></a><a href="/setts/s5/r5w4k4db80w4~x2/"><circle cx="562.0" cy="162.9" r="4" fill="#3465a4"><title>Volunteer Lifesaving Corps (Corp.)</title></circle></a><a href="/setts/s4/db1t1db8r1~x2/"><circle cx="590.7" cy="279.5" r="4" fill="#3465a4"><title>Lochaber #3</title></circle></a><a href="/setts/s6/db35w4db10r3r3r3~x4/"><circle cx="494.8" cy="196.4" r="4" fill="#3465a4"><title>Steffen, Morris (Personal)</title></circle></a><a href="/setts/s5/db32r3db4k1ly3~x2/"><circle cx="597.3" cy="164.2" r="4" fill="#3465a4"><title>MacLaine of Lochbuie, hunting</title></circle></a><circle cx="590.7" cy="239.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/db32r3db4ly3~x2/

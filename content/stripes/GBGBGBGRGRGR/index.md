@@ -18,10 +18,10 @@ GBGBGBGRGRGR
 
 
 
-### G DR G DR G DR G M G R G R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">G DR G DR G DR G M G R G R</span></span>
+### R G R G M G DR G DR G DR G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G M G DR G DR G DR G</span></span>
 
 | Tartans |
 |---------------|
-| [Dublin](/setts/s12/g3dr3g3dr16g3dr3g3m5g18r2g8r3~x2/)|
-|![Dublin example sett](/setts/s12/g3dr3g3dr16g3dr3g3m5g18r2g8r3~x2/sett.png)|
+| [Dublin](/setts/s12/r3g8r2g18m5g3dr3g3dr16g3dr3g3~x2/)|
+|![Dublin example sett](/setts/s12/r3g8r2g18m5g3dr3g3dr16g3dr3g3~x2/sett.png)|
 

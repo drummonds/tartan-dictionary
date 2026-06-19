@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2233
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Louisiana (District
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -52,15 +58,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Forbes](/setts/s7/db1k1db6k6g6k1w1~x2/) — ΔT 1.05
 1. [Unnamed, No 59](/setts/s6/t1db11k11g11k2t1~x2/) — ΔT 1.06
 1. [MacNeil 1](/setts/s6/w1db9k9g9k2w1~x4/) — ΔT 1.09
-1. [Unnamed, No 115](/setts/s8/db10k6t1g6k1g6t1k6~x2/) — ΔT 1.14
+1. [Unnamed, No 115](/setts/s8/db10k6t1g6k1~x2/) — ΔT 1.14
 1. [Colgan (Personal)](/setts/s9/r7db2g5k24db2g10db28g10lb3~x2/) — ΔT 1.17
 1. [Biskup (Personal)](/setts/s10/db12r4db18r2k19g18r4g3lo2g8~x2/) — ΔT 1.19
 1. [Fletcher](/setts/s7/db6k1db6k8r1g8k2~x2/) — ΔT 1.23
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db10k1db1k1db2k8g10w1~x2/"><circle cx="184.5" cy="189.6" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s9/db8k2db2k2db2k8g7k1w1~x2/"><circle cx="171.3" cy="206.6" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s8/db3k2db8k8g8p1g1p3~x2/"><circle cx="129.4" cy="216.8" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/setts/s7/db1k1db6k6g6k1w1~x2/"><circle cx="142.6" cy="223.1" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s6/t1db11k11g11k2t1~x2/"><circle cx="167.4" cy="212.4" r="4" fill="#3465a4"><title>Unnamed, No 59</title></circle></a><a href="/setts/s6/w1db9k9g9k2w1~x4/"><circle cx="146.3" cy="216.7" r="4" fill="#3465a4"><title>MacNeil 1</title></circle></a><a href="/setts/s8/db10k6t1g6k1g6t1k6~x2/"><circle cx="146.2" cy="214.8" r="4" fill="#3465a4"><title>Unnamed, No 115</title></circle></a><a href="/setts/s9/r7db2g5k24db2g10db28g10lb3~x2/"><circle cx="149.2" cy="161.8" r="4" fill="#3465a4"><title>Colgan (Personal)</title></circle></a><a href="/setts/s10/db12r4db18r2k19g18r4g3lo2g8~x2/"><circle cx="117.5" cy="183.1" r="4" fill="#3465a4"><title>Biskup (Personal)</title></circle></a><a href="/setts/s7/db6k1db6k8r1g8k2~x2/"><circle cx="158.0" cy="232.2" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><circle cx="137.2" cy="198.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db10k1db1k1db2k8g10w1~x2/"><circle cx="184.7" cy="189.5" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s9/db8k2db2k2db2k8g7k1w1~x2/"><circle cx="171.5" cy="206.5" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s8/db3k2db8k8g8p1g1p3~x2/"><circle cx="129.6" cy="216.8" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/setts/s7/db1k1db6k6g6k1w1~x2/"><circle cx="142.8" cy="223.0" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s6/t1db11k11g11k2t1~x2/"><circle cx="167.6" cy="212.4" r="4" fill="#3465a4"><title>Unnamed, No 59</title></circle></a><a href="/setts/s6/w1db9k9g9k2w1~x4/"><circle cx="146.6" cy="216.6" r="4" fill="#3465a4"><title>MacNeil 1</title></circle></a><a href="/setts/s8/db10k6t1g6k1~x2/"><circle cx="146.4" cy="214.8" r="4" fill="#3465a4"><title>Unnamed, No 115</title></circle></a><a href="/setts/s9/r7db2g5k24db2g10db28g10lb3~x2/"><circle cx="149.4" cy="161.9" r="4" fill="#3465a4"><title>Colgan (Personal)</title></circle></a><a href="/setts/s10/db12r4db18r2k19g18r4g3lo2g8~x2/"><circle cx="117.8" cy="183.2" r="4" fill="#3465a4"><title>Biskup (Personal)</title></circle></a><a href="/setts/s7/db6k1db6k8r1g8k2~x2/"><circle cx="158.3" cy="232.2" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><circle cx="137.5" cy="198.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k3g3lb2g11k12db18k2lb3~x2/

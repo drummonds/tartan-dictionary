@@ -2,7 +2,7 @@
 title: "Somerset"
 date: 2023-03-18
 ---
-**Bands:** [GGBRRKRKR](/stripes/ggbrrkrkr/) · **Stripes:** [G Y T R O K O K O](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">G Y T R O K O K O</span></span>
+**Bands:** [RKRKRRBGG](/stripes/rkrkrrbgg/) · **Stripes:** [O K O K O R T Y G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O K O K O R T Y G</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,15 +913,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Belwade](/setts/s11/db4g4db4w1db1w1m4lo4w1g4m4~x4/) — ΔT 1.21
 1. [Labrador Club of Scotland (Corporate](/setts/s8/o21ly4dy5ly4o5k21g21lo5~x2/) — ΔT 1.25
 1. [Redgate (Name)](/setts/s13/t10r3t10k7lo5w2lo5w2lo5k7g10r3g7~x2/) — ΔT 1.25
-1. [Alabama (Fashion)](/setts/s7/lo3n12r12g16k9lb8r3~x2/) — ΔT 1.32
+1. [Alabama (Fashion)](/setts/s7/r3lb8k9g16r12n12lo3~x2/) — ΔT 1.32
 1. [Kilkenny County Crest (Fashion)](/setts/s8/lo6r8k4w6y16k13lr19k5~x2/) — ΔT 1.35
 1. [Bhutan](/setts/s9/m3lb2db6lb2dr8lo2g6lo2m2~x2/) — ΔT 1.37
 1. [Loch Fyne](/setts/s6/r1dy3g5lo5dt5t1~x4/) — ΔT 1.37
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g8o8t7r5dy2k2dy2k2dy2~x2/"><circle cx="28.9" cy="222.5" r="4" fill="#3465a4"><title>Somerset District Tartan Tartan Number: 831. Earliest known date: 1984 Blue is the river at Chatworthy, brown is the withies at Rhines, black is the peat on Sedgemoor. Grey shows the colour of Glastonbury Abbey and Wells Cathedral and pink represents the Cheddar Pinks which grow in the Cheddar Gorge, favourite of Victorian visitors. Green portrays the Quantock hills and the wilderness of Exmoor. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/y8o8lg7lr5lb2k2lb2k2lb2~x4/"><circle cx="14.0" cy="204.0" r="4" fill="#3465a4"><title>Somerset (District)</title></circle></a><a href="/setts/s8/dg14lb14db12lr8dy3k3dy3k5~x2/"><circle cx="14.0" cy="201.4" r="4" fill="#3465a4"><title>Somerset #2</title></circle></a><a href="/setts/s11/db4g4db4w1db1w1m4lo4w1g4m4~x4/"><circle cx="14.0" cy="205.2" r="4" fill="#3465a4"><title>Belwade</title></circle></a><a href="/setts/s8/o21ly4dy5ly4o5k21g21lo5~x2/"><circle cx="70.6" cy="192.1" r="4" fill="#3465a4"><title>Labrador Club of Scotland (Corporate</title></circle></a><a href="/setts/s13/t10r3t10k7lo5w2lo5w2lo5k7g10r3g7~x2/"><circle cx="14.0" cy="202.6" r="4" fill="#3465a4"><title>Redgate (Name)</title></circle></a><a href="/setts/s7/lo3n12r12g16k9lb8r3~x2/"><circle cx="25.7" cy="217.4" r="4" fill="#3465a4"><title>Alabama (Fashion)</title></circle></a><a href="/setts/s8/lo6r8k4w6y16k13lr19k5~x2/"><circle cx="20.8" cy="203.1" r="4" fill="#3465a4"><title>Kilkenny County Crest (Fashion)</title></circle></a><a href="/setts/s9/m3lb2db6lb2dr8lo2g6lo2m2~x2/"><circle cx="14.0" cy="198.9" r="4" fill="#3465a4"><title>Bhutan</title></circle></a><a href="/setts/s6/r1dy3g5lo5dt5t1~x4/"><circle cx="48.1" cy="236.1" r="4" fill="#3465a4"><title>Loch Fyne</title></circle></a><circle cx="14.0" cy="210.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g8o8t7r5dy2k2dy2k2dy2~x2/"><circle cx="29.0" cy="222.8" r="4" fill="#3465a4"><title>Somerset District Tartan Tartan Number: 831. Earliest known date: 1984 Blue is the river at Chatworthy, brown is the withies at Rhines, black is the peat on Sedgemoor. Grey shows the colour of Glastonbury Abbey and Wells Cathedral and pink represents the Cheddar Pinks which grow in the Cheddar Gorge, favourite of Victorian visitors. Green portrays the Quantock hills and the wilderness of Exmoor. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/y8o8lg7lr5lb2k2lb2k2lb2~x4/"><circle cx="14.0" cy="204.2" r="4" fill="#3465a4"><title>Somerset (District)</title></circle></a><a href="/setts/s8/dg14lb14db12lr8dy3k3dy3k5~x2/"><circle cx="14.0" cy="201.5" r="4" fill="#3465a4"><title>Somerset #2</title></circle></a><a href="/setts/s11/db4g4db4w1db1w1m4lo4w1g4m4~x4/"><circle cx="14.0" cy="205.4" r="4" fill="#3465a4"><title>Belwade</title></circle></a><a href="/setts/s8/o21ly4dy5ly4o5k21g21lo5~x2/"><circle cx="70.7" cy="192.2" r="4" fill="#3465a4"><title>Labrador Club of Scotland (Corporate</title></circle></a><a href="/setts/s13/t10r3t10k7lo5w2lo5w2lo5k7g10r3g7~x2/"><circle cx="14.0" cy="202.8" r="4" fill="#3465a4"><title>Redgate (Name)</title></circle></a><a href="/setts/s7/r3lb8k9g16r12n12lo3~x2/"><circle cx="25.7" cy="217.5" r="4" fill="#3465a4"><title>Alabama (Fashion)</title></circle></a><a href="/setts/s8/lo6r8k4w6y16k13lr19k5~x2/"><circle cx="20.9" cy="203.2" r="4" fill="#3465a4"><title>Kilkenny County Crest (Fashion)</title></circle></a><a href="/setts/s9/m3lb2db6lb2dr8lo2g6lo2m2~x2/"><circle cx="14.0" cy="199.0" r="4" fill="#3465a4"><title>Bhutan</title></circle></a><a href="/setts/s6/r1dy3g5lo5dt5t1~x4/"><circle cx="48.2" cy="236.3" r="4" fill="#3465a4"><title>Loch Fyne</title></circle></a><circle cx="14.0" cy="210.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/g8y8t7r5o2k2o2k2o2~x2/

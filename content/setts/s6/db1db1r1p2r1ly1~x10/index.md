@@ -2,7 +2,7 @@
 title: "Lytley alias Parsons Formal (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BBRBRY](/stripes/bbrbry/) · **Stripes:** [DB DB R P R LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB DB R P R LY</span></span>
+**Bands:** [YRBRBB](/stripes/yrbrbb/) · **Stripes:** [LY R P R DB DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">LY R P R DB DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10476](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10476)
 
 ## Thread count
-B/10 DB10 R10 P20 Ra10 Y/10
+Y/10 Ra10 P20 R10 DB10 B/10
 ![Sett](sett.png)
 
 ## Palette
@@ -33,7 +33,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/10 DB10 R10 P20 Ra10 Y/10 tartan")
+![Tartan detail](tartan.png "Y/10 Ra10 P20 R10 DB10 B/10 tartan")
 
 ## Nearest tartans
 
@@ -44,7 +44,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Anglicare (Corporate)](/setts/s12/db12w4db4k12db12k4db8db12t12w11r4w8/) — ΔT 2.67
 1. [Crinnion (Middlesbrough) (Personal)](/setts/s5/b3k1lb3p4lg3~x4/) — ΔT 2.74
 1. [Krifa-Jean (Personal)](/setts/s7/dg4r5ly4db4dy2k4r4~x10/) — ΔT 2.81
-1. [Stewarton](/setts/s8/g2o5lp6b7b7b7y5k2~x2/) — ΔT 2.86
+1. [Stewarton](/setts/s8/k2y5b7b7b7lp6o5g2~x2/) — ΔT 2.86
 1. [Nicolson of Assynt & Coigach (Name)](/setts/s7/db8r11g5db3ly3w5k3~x2/) — ΔT 2.87
 1. [Williams, Edmund (Personal)](/setts/s6/dp15dp15g15dg15k8w5~x2/) — ΔT 2.90
 1. [Unidentified (2103)](/setts/s11/n2k2n2k2w1o1w1o1w1o1r2~x8/) — ΔT 2.91
@@ -52,8 +52,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db1dt1r1dp2r1ly1~x10/"><circle cx="14.0" cy="276.4" r="4" fill="#3465a4"><title>Lytley Formal (Personal)</title></circle></a><a href="/setts/s6/lb3lb2db3r3k3ly1~x8/"><circle cx="14.0" cy="254.4" r="4" fill="#3465a4"><title>Becker (Name)</title></circle></a><a href="/setts/s12/db12w4db4k12db12k4db8db12t12w11r4w8/"><circle cx="14.0" cy="215.9" r="4" fill="#3465a4"><title>Anglicare (Corporate)</title></circle></a><a href="/setts/s5/b3k1lb3p4lg3~x4/"><circle cx="14.0" cy="268.9" r="4" fill="#3465a4"><title>Crinnion (Middlesbrough) (Personal)</title></circle></a><a href="/setts/s7/dg4r5ly4db4dy2k4r4~x10/"><circle cx="14.0" cy="255.5" r="4" fill="#3465a4"><title>Krifa-Jean (Personal)</title></circle></a><a href="/setts/s8/g2o5lp6b7b7b7y5k2~x2/"><circle cx="14.0" cy="234.9" r="4" fill="#3465a4"><title>Stewarton</title></circle></a><a href="/setts/s7/db8r11g5db3ly3w5k3~x2/"><circle cx="14.0" cy="197.3" r="4" fill="#3465a4"><title>Nicolson of Assynt &amp; Coigach (Name)</title></circle></a><a href="/setts/s6/dp15dp15g15dg15k8w5~x2/"><circle cx="14.0" cy="265.6" r="4" fill="#3465a4"><title>Williams, Edmund (Personal)</title></circle></a><a href="/setts/s11/n2k2n2k2w1o1w1o1w1o1r2~x8/"><circle cx="14.0" cy="258.7" r="4" fill="#3465a4"><title>Unidentified (2103)</title></circle></a><a href="/setts/s6/db5dp3w2dg3k1ly1~x10/"><circle cx="35.2" cy="210.6" r="4" fill="#3465a4"><title>MacBlain (2016)</title></circle></a><circle cx="14.0" cy="256.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db1dt1r1dp2r1ly1~x10/"><circle cx="14.0" cy="276.6" r="4" fill="#3465a4"><title>Lytley Formal (Personal)</title></circle></a><a href="/setts/s6/lb3lb2db3r3k3ly1~x8/"><circle cx="14.0" cy="254.5" r="4" fill="#3465a4"><title>Becker (Name)</title></circle></a><a href="/setts/s12/db12w4db4k12db12k4db8db12t12w11r4w8/"><circle cx="14.0" cy="216.0" r="4" fill="#3465a4"><title>Anglicare (Corporate)</title></circle></a><a href="/setts/s5/b3k1lb3p4lg3~x4/"><circle cx="14.0" cy="268.9" r="4" fill="#3465a4"><title>Crinnion (Middlesbrough) (Personal)</title></circle></a><a href="/setts/s7/dg4r5ly4db4dy2k4r4~x10/"><circle cx="14.0" cy="255.7" r="4" fill="#3465a4"><title>Krifa-Jean (Personal)</title></circle></a><a href="/setts/s8/k2y5b7b7b7lp6o5g2~x2/"><circle cx="14.0" cy="235.0" r="4" fill="#3465a4"><title>Stewarton</title></circle></a><a href="/setts/s7/db8r11g5db3ly3w5k3~x2/"><circle cx="14.0" cy="197.4" r="4" fill="#3465a4"><title>Nicolson of Assynt &amp; Coigach (Name)</title></circle></a><a href="/setts/s6/dp15dp15g15dg15k8w5~x2/"><circle cx="14.0" cy="265.8" r="4" fill="#3465a4"><title>Williams, Edmund (Personal)</title></circle></a><a href="/setts/s11/n2k2n2k2w1o1w1o1w1o1r2~x8/"><circle cx="14.0" cy="258.8" r="4" fill="#3465a4"><title>Unidentified (2103)</title></circle></a><a href="/setts/s6/db5dp3w2dg3k1ly1~x10/"><circle cx="35.4" cy="210.6" r="4" fill="#3465a4"><title>MacBlain (2016)</title></circle></a><circle cx="14.0" cy="256.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db1db1r1p2r1ly1~x10/

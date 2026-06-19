@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,20 +913,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Skarpathiotakis, George (Personal)](/setts/s15/db2k4db9k4ly4k3ly2k5db4k3db18w2db2w2db2~x2/) — ΔT 1.19
-1. [Dunbog Primary School](/setts/s10/r12db3g5db16ly2g2ly2db16g5db3~x2/) — ΔT 1.29
+1. [Dunbog Primary School](/setts/s10/r12db3g5db16ly2g2~x2/) — ΔT 1.29
 1. [City of Sarnia](/setts/s15/db10k2w2k3w2k10db10k1r2k1db10k10db10k1ly2~x2/) — ΔT 1.31
 1. [Fleming/Frisken/Flanders](/setts/s15/db16k3db3k3db3k16db17k2ly4k2db17k16db17k2w4~x2/) — ΔT 1.33
 1. [Clergy (Mackinlay)](/setts/s11/k1w1db8k9w1k9w1db2w1k4w1~x2/) — ΔT 1.38
 1. [Murray of Elibank](/setts/s13/db56k6g24k6db8k21ly6k21db8k6g24k6db56/) — ΔT 1.41
 1. [Longniddry](/setts/s19/r16db4lo2ly2db4lo6db4ly2lo2db16r3db3ly3db3r3db16lo2ly2db3~x2/) — ΔT 1.45
-1. [Clergy, or Priest](/setts/s11/b1k4b1lp2b1k8b1k8lp7b1k1~x4/) — ΔT 1.46
+1. [Clergy, or Priest](/setts/s11/k1b1lp7k8b1k8b1lp2b1k4b1~x4/) — ΔT 1.46
 1. [Shalom (Fashion)](/setts/s11/k15lb3k3w4k3lb3k15db4k4db30k4~x2/) — ΔT 1.50
 1. [Royal Naval Association](/setts/s16/db14k21r2k3db4k21r3w3r3k21db4k3r2k21db14w3~x2/) — ΔT 1.52
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db2k4db9k4ly4k3ly2k5db4k3db18w2db2w2db2~x2/"><circle cx="246.0" cy="166.7" r="4" fill="#3465a4"><title>Skarpathiotakis, George (Personal)</title></circle></a><a href="/setts/s10/r12db3g5db16ly2g2ly2db16g5db3~x2/"><circle cx="264.6" cy="194.4" r="4" fill="#3465a4"><title>Dunbog Primary School</title></circle></a><a href="/setts/s15/db10k2w2k3w2k10db10k1r2k1db10k10db10k1ly2~x2/"><circle cx="237.4" cy="167.5" r="4" fill="#3465a4"><title>City of Sarnia</title></circle></a><a href="/setts/s15/db16k3db3k3db3k16db17k2ly4k2db17k16db17k2w4~x2/"><circle cx="316.4" cy="200.7" r="4" fill="#3465a4"><title>Fleming/Frisken/Flanders</title></circle></a><a href="/setts/s11/k1w1db8k9w1k9w1db2w1k4w1~x2/"><circle cx="320.7" cy="195.6" r="4" fill="#3465a4"><title>Clergy (Mackinlay)</title></circle></a><a href="/setts/s13/db56k6g24k6db8k21ly6k21db8k6g24k6db56/"><circle cx="241.5" cy="179.0" r="4" fill="#3465a4"><title>Murray of Elibank</title></circle></a><a href="/setts/s19/r16db4lo2ly2db4lo6db4ly2lo2db16r3db3ly3db3r3db16lo2ly2db3~x2/"><circle cx="254.1" cy="158.0" r="4" fill="#3465a4"><title>Longniddry</title></circle></a><a href="/setts/s11/b1k4b1lp2b1k8b1k8lp7b1k1~x4/"><circle cx="291.8" cy="193.9" r="4" fill="#3465a4"><title>Clergy, or Priest</title></circle></a><a href="/setts/s11/k15lb3k3w4k3lb3k15db4k4db30k4~x2/"><circle cx="280.1" cy="180.2" r="4" fill="#3465a4"><title>Shalom (Fashion)</title></circle></a><a href="/setts/s16/db14k21r2k3db4k21r3w3r3k21db4k3r2k21db14w3~x2/"><circle cx="345.3" cy="187.8" r="4" fill="#3465a4"><title>Royal Naval Association</title></circle></a><circle cx="280.0" cy="185.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db2k4db9k4ly4k3ly2k5db4k3db18w2db2w2db2~x2/"><circle cx="246.1" cy="166.5" r="4" fill="#3465a4"><title>Skarpathiotakis, George (Personal)</title></circle></a><a href="/setts/s10/r12db3g5db16ly2g2~x2/"><circle cx="264.6" cy="194.2" r="4" fill="#3465a4"><title>Dunbog Primary School</title></circle></a><a href="/setts/s15/db10k2w2k3w2k10db10k1r2k1db10k10db10k1ly2~x2/"><circle cx="237.6" cy="167.5" r="4" fill="#3465a4"><title>City of Sarnia</title></circle></a><a href="/setts/s15/db16k3db3k3db3k16db17k2ly4k2db17k16db17k2w4~x2/"><circle cx="316.4" cy="200.6" r="4" fill="#3465a4"><title>Fleming/Frisken/Flanders</title></circle></a><a href="/setts/s11/k1w1db8k9w1k9w1db2w1k4w1~x2/"><circle cx="320.7" cy="195.4" r="4" fill="#3465a4"><title>Clergy (Mackinlay)</title></circle></a><a href="/setts/s13/db56k6g24k6db8k21ly6k21db8k6g24k6db56/"><circle cx="241.6" cy="178.9" r="4" fill="#3465a4"><title>Murray of Elibank</title></circle></a><a href="/setts/s19/r16db4lo2ly2db4lo6db4ly2lo2db16r3db3ly3db3r3db16lo2ly2db3~x2/"><circle cx="254.1" cy="158.0" r="4" fill="#3465a4"><title>Longniddry</title></circle></a><a href="/setts/s11/k1b1lp7k8b1k8b1lp2b1k4b1~x4/"><circle cx="291.9" cy="193.6" r="4" fill="#3465a4"><title>Clergy, or Priest</title></circle></a><a href="/setts/s11/k15lb3k3w4k3lb3k15db4k4db30k4~x2/"><circle cx="280.1" cy="180.1" r="4" fill="#3465a4"><title>Shalom (Fashion)</title></circle></a><a href="/setts/s16/db14k21r2k3db4k21r3w3r3k21db4k3r2k21db14w3~x2/"><circle cx="345.4" cy="187.7" r="4" fill="#3465a4"><title>Royal Naval Association</title></circle></a><circle cx="280.0" cy="185.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/db32k6db6k6db6k32db33k4ly8k4db33k32db34k4w8/

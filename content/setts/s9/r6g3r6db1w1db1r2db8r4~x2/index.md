@@ -2,7 +2,7 @@
 title: "Cameron of Lochiel"
 date: 2023-03-18
 ---
-**Bands:** [RBRBWBRGR](/stripes/rbrbwbrgr/) · **Stripes:** [R DB R DB W DB R G R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB R DB W DB R G R</span></span>
+**Bands:** [RGRBWBRBR](/stripes/rgrbwbrbr/) · **Stripes:** [R G R DB W DB R DB R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G R DB W DB R DB R</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -899,7 +902,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-R/8 B16 R4 B2 LN2 B2 R12 G6 R/12
+R/12 G6 R12 B2 LN2 B2 R4 B16 R/8
 ![Sett](sett.png)
 
 ## Palette
@@ -919,18 +922,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Clanton (Personal)](/setts/s9/dp1k2r7o4r2k4r7o2dp1~x4/) — ΔT 1.03
 1. [Alexander - 1985 (Name)](/setts/s9/r12g2r4g4k15t4r4t2r12~x2/) — ΔT 1.04
 1. [Cameron of Locheil](/setts/s9/r6dg3r6db1lr1db1r2db8r4~x2/) — ΔT 1.12
+1. [Cameron of Locheil](/setts/s9/r6dg3r6db1lr1db1r2db8r4/) — ΔT 1.12
 1. [Peacock, Grahame (Name)](/setts/s11/r10g2r20g16db3g16r3db8r20g2r10~x2/) — ΔT 1.13
 1. [MacDuff - 1819 (Clan)](/setts/s7/r36db9k12g17r10k3r10~x2/) — ΔT 1.15
-1. [Chisholm](/setts/s8/r12dp2lb1dp2r3dg8r3dp1~x2/) — ΔT 1.16
-1. [Cameron of Locheil](/setts/s9/r6dg3r6db1lb1db1r2db8r4~x2/) — ΔT 1.17
+1. [Chisholm](/setts/s8/r12dp2lb1dp2r3dg8r3dp1/) — ΔT 1.16
+1. [Cameron of Locheil](/setts/s9/r6dg3r6db1lb1db1r2db8r4/) — ΔT 1.17
 1. [Snowbird](/setts/s8/r29b12lg15r8lg15b12r29w4~x2/) — ΔT 1.23
 1. [Morrison](/setts/s9/g5w2g8r9k3r4k3r17g3~x2/) — ΔT 1.23
-1. [Finnigan (Estimated threadcount)](/setts/s6/r3db15r3g8r20k2~x2/) — ΔT 1.24
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dp1k2r7o4r2k4r7o2dp1~x4/"><circle cx="274.7" cy="225.4" r="4" fill="#3465a4"><title>Clanton (Personal)</title></circle></a><a href="/setts/s9/r12g2r4g4k15t4r4t2r12~x2/"><circle cx="259.3" cy="200.3" r="4" fill="#3465a4"><title>Alexander - 1985 (Name)</title></circle></a><a href="/setts/s9/r6dg3r6db1lr1db1r2db8r4~x2/"><circle cx="289.1" cy="210.2" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s11/r10g2r20g16db3g16r3db8r20g2r10~x2/"><circle cx="316.5" cy="198.4" r="4" fill="#3465a4"><title>Peacock, Grahame (Name)</title></circle></a><a href="/setts/s7/r36db9k12g17r10k3r10~x2/"><circle cx="310.0" cy="199.7" r="4" fill="#3465a4"><title>MacDuff - 1819 (Clan)</title></circle></a><a href="/setts/s8/r12dp2lb1dp2r3dg8r3dp1~x2/"><circle cx="330.5" cy="178.2" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s9/r6dg3r6db1lb1db1r2db8r4~x2/"><circle cx="274.4" cy="198.9" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s8/r29b12lg15r8lg15b12r29w4~x2/"><circle cx="250.5" cy="227.8" r="4" fill="#3465a4"><title>Snowbird</title></circle></a><a href="/setts/s9/g5w2g8r9k3r4k3r17g3~x2/"><circle cx="286.4" cy="195.1" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/setts/s6/r3db15r3g8r20k2~x2/"><circle cx="286.7" cy="207.6" r="4" fill="#3465a4"><title>Finnigan (Estimated threadcount)</title></circle></a><circle cx="301.0" cy="209.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dp1k2r7o4r2k4r7o2dp1~x4/"><circle cx="274.5" cy="225.4" r="4" fill="#3465a4"><title>Clanton (Personal)</title></circle></a><a href="/setts/s9/r12g2r4g4k15t4r4t2r12~x2/"><circle cx="259.1" cy="200.2" r="4" fill="#3465a4"><title>Alexander - 1985 (Name)</title></circle></a><a href="/setts/s9/r6dg3r6db1lr1db1r2db8r4~x2/"><circle cx="289.0" cy="210.1" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s9/r6dg3r6db1lr1db1r2db8r4/"><circle cx="289.0" cy="210.1" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s11/r10g2r20g16db3g16r3db8r20g2r10~x2/"><circle cx="316.2" cy="198.3" r="4" fill="#3465a4"><title>Peacock, Grahame (Name)</title></circle></a><a href="/setts/s7/r36db9k12g17r10k3r10~x2/"><circle cx="309.8" cy="199.6" r="4" fill="#3465a4"><title>MacDuff - 1819 (Clan)</title></circle></a><a href="/setts/s8/r12dp2lb1dp2r3dg8r3dp1/"><circle cx="330.1" cy="178.1" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s9/r6dg3r6db1lb1db1r2db8r4/"><circle cx="274.2" cy="198.7" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s8/r29b12lg15r8lg15b12r29w4~x2/"><circle cx="250.2" cy="227.7" r="4" fill="#3465a4"><title>Snowbird</title></circle></a><a href="/setts/s9/g5w2g8r9k3r4k3r17g3~x2/"><circle cx="286.1" cy="194.9" r="4" fill="#3465a4"><title>Morrison</title></circle></a><circle cx="300.7" cy="209.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r6g3r6db1w1db1r2db8r4~x2/

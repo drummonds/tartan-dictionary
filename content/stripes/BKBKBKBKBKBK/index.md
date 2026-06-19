@@ -18,10 +18,10 @@ BKBKBKBKBKBK
 
 
 
-### DT K DT K DO K DO K DO K DT K <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="seq">DT K DT K DO K DO K DO K DT K</span></span>
+### K DT K DO K DO K DO K DT K DT <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">K DT K DO K DO K DO K DT K DT</span></span>
 
 | Tartans |
 |---------------|
-| [McWilliams (2014)](/setts/s12/dt3k2dt13k9do3k2do14k2do3k9dt15k3~x2/)|
-|![McWilliams (2014) example sett](/setts/s12/dt3k2dt13k9do3k2do14k2do3k9dt15k3~x2/sett.png)|
+| [McWilliams (2014)](/setts/s12/k3dt15k9do3k2do14k2do3k9dt13k2dt3~x2/)|
+|![McWilliams (2014) example sett](/setts/s12/k3dt15k9do3k2do14k2do3k9dt13k2dt3~x2/sett.png)|
 

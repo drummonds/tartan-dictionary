@@ -2,12 +2,18 @@
 title: "Anderson (MacGregor-Hastie #3)"
 date: 2023-03-18
 ---
-**Bands:** [RBRKRBKWKYKYKRKRGRKRKRGR](/stripes/rbrkrbkwkykykrkrgrkrkrgr/) · **Stripes:** [R T R K R T K W K LY K LY K R K R DG R K R K R DG R](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">R T R K R T K W K LY K LY K R K R DG R K R K R DG R</span></span>
+**Bands:** [RGRKRKRGRKRKYKYKWKBRKRBR](/stripes/rgrkrkrgrkrkykykwkbrkrbr/) · **Stripes:** [R DG R K R K R DG R K R K LY K LY K W K T R K R T R](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG R K R K R DG R K R K LY K LY K W K T R K R T R</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [24 band tartan](/bands/bands24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=81
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Anderson 4
 
 ## Register references
 
@@ -17,7 +23,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1393
 
 ## Thread count
-R/12 B20 R4 K4 R4 B54 K12 LN12 K8 Y4 K6 Y4 K18 R4 K18 R8 G20 R4 K4 R8 K4 R4 G20 R/12
+R/12 G20 R4 K4 R8 K4 R4 G20 R8 K18 R4 K18 Y4 K6 Y4 K8 LN12 K12 B54 R4 K4 R4 B20 R/12
 ![Sett](sett.png)
 
 ## Palette
@@ -36,21 +42,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Wilson's No.181](/setts/s28/g3r3g3r16g22ly3k3w5k3ly3k19t9k2t9r25t9k2t9k19ly3k3w5k3ly3g22r16g3r3~x2/) — ΔT 0.66
+1. [Wilson's No.181](/setts/s28/r3g3r16g22ly3k3w5k3ly3k19t9k2t9r25t9k2t9k19ly3k3w5k3ly3g22r16g3r3g3~x2/) — ΔT 0.66
 1. [Anderson 4](/setts/s24/r6g10r2k2r4k2r2g10r4k9r2k9ly2k3ly2k4w6k6t27r2k2r2t10r6~x2/) — ΔT 0.67
 1. [Quadra](/setts/s20/g4k3r1k3r2k2r4k1r4g3k2lo2k2r2k6db6lb14k3lb3r3~x2/) — ΔT 0.82
 1. [Wilson's No.152](/setts/s30/r5k4r13g25k3w5k3ly3k16t9k2t9r12k2g3k2r12t9k2t9k16ly3k3w5k3g25r13k4r5w3~x2/) — ΔT 0.85
 1. [Maple Leaf, dress](/setts/s26/dg1r6g5r6dg1r1dg9o3dg3y3dg9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1r1~x4/) — ΔT 0.94
 1. [Maple Leaf Dress District Tartan Tartan Number: 2033. Earliest known date: pre 1992 In creating the Maple Leaf Tartan fabric, David Weiser captured the natural phenomena of these leaves turning from summer into autumn. (The Office of the High Commissioner for Canada.) This is a dress version of the Maple Leaf tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s26/dg1m6g5m6dg1m1dg9dy3g3ly3dg9m1dg1m6g5m6dg1m1w1m1w12g1w12m1w1m1~x4/) — ΔT 0.96
-1. [Wilson's No.090](/setts/s22/r18t13k16lo3k3lb5k3dg32k2r15t5r15t5r15k2dg32k3lb5k3lo3k16t13~x2/) — ΔT 0.96
+1. [Wilson's No.090](/setts/s22/r18t13k16lo3k3lb5k3dg32k2r15t5r15~x2/) — ΔT 0.96
 1. [Anderson 8](/setts/s24/r6g10r2db2r4db2r2g10r4db8r2k8ly2k4ly2k4w6k6t27r2k2r2t10r6~x2/) — ΔT 0.96
-1. [Norwich No.001](/setts/s22/r8y7k8lo2k1lb3k1dg19k1r8y3r8y3r8k1dg19k1lb3k1lo2k8y7~x2/) — ΔT 0.96
+1. [Norwich No.001](/setts/s22/r8y7k8lo2k1lb3k1dg19k1r8y3r8~x2/) — ΔT 0.96
 1. [Anderson (Highland Society of London)](/setts/s24/r6dg10r2db2r4db2r2dg10r4db8r2k8ly2k4ly2k4w6k6t27r2k2r2t10r6~x2/) — ΔT 0.97
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s28/g3r3g3r16g22ly3k3w5k3ly3k19t9k2t9r25t9k2t9k19ly3k3w5k3ly3g22r16g3r3~x2/"><circle cx="66.1" cy="84.9" r="4" fill="#3465a4"><title>Wilson's No.181</title></circle></a><a href="/setts/s24/r6g10r2k2r4k2r2g10r4k9r2k9ly2k3ly2k4w6k6t27r2k2r2t10r6~x2/"><circle cx="65.6" cy="79.7" r="4" fill="#3465a4"><title>Anderson 4</title></circle></a><a href="/setts/s20/g4k3r1k3r2k2r4k1r4g3k2lo2k2r2k6db6lb14k3lb3r3~x2/"><circle cx="79.8" cy="102.8" r="4" fill="#3465a4"><title>Quadra</title></circle></a><a href="/setts/s30/r5k4r13g25k3w5k3ly3k16t9k2t9r12k2g3k2r12t9k2t9k16ly3k3w5k3g25r13k4r5w3~x2/"><circle cx="59.7" cy="87.9" r="4" fill="#3465a4"><title>Wilson's No.152</title></circle></a><a href="/setts/s26/dg1r6g5r6dg1r1dg9o3dg3y3dg9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1r1~x4/"><circle cx="77.9" cy="79.8" r="4" fill="#3465a4"><title>Maple Leaf, dress</title></circle></a><a href="/setts/s26/dg1m6g5m6dg1m1dg9dy3g3ly3dg9m1dg1m6g5m6dg1m1w1m1w12g1w12m1w1m1~x4/"><circle cx="77.1" cy="78.3" r="4" fill="#3465a4"><title>Maple Leaf Dress District Tartan Tartan Number: 2033. Earliest known date: pre 1992 In creating the Maple Leaf Tartan fabric, David Weiser captured the natural phenomena of these leaves turning from summer into autumn. (The Office of the High Commissioner for Canada.) This is a dress version of the Maple Leaf tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s22/r18t13k16lo3k3lb5k3dg32k2r15t5r15t5r15k2dg32k3lb5k3lo3k16t13~x2/"><circle cx="99.4" cy="96.4" r="4" fill="#3465a4"><title>Wilson's No.090</title></circle></a><a href="/setts/s24/r6g10r2db2r4db2r2g10r4db8r2k8ly2k4ly2k4w6k6t27r2k2r2t10r6~x2/"><circle cx="41.7" cy="65.1" r="4" fill="#3465a4"><title>Anderson 8</title></circle></a><a href="/setts/s22/r8y7k8lo2k1lb3k1dg19k1r8y3r8y3r8k1dg19k1lb3k1lo2k8y7~x2/"><circle cx="118.1" cy="84.9" r="4" fill="#3465a4"><title>Norwich No.001</title></circle></a><a href="/setts/s24/r6dg10r2db2r4db2r2dg10r4db8r2k8ly2k4ly2k4w6k6t27r2k2r2t10r6~x2/"><circle cx="56.7" cy="71.2" r="4" fill="#3465a4"><title>Anderson (Highland Society of London)</title></circle></a><circle cx="81.1" cy="85.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s28/r3g3r16g22ly3k3w5k3ly3k19t9k2t9r25t9k2t9k19ly3k3w5k3ly3g22r16g3r3g3~x2/"><circle cx="66.0" cy="85.1" r="4" fill="#3465a4"><title>Wilson's No.181</title></circle></a><a href="/setts/s24/r6g10r2k2r4k2r2g10r4k9r2k9ly2k3ly2k4w6k6t27r2k2r2t10r6~x2/"><circle cx="65.5" cy="79.9" r="4" fill="#3465a4"><title>Anderson 4</title></circle></a><a href="/setts/s20/g4k3r1k3r2k2r4k1r4g3k2lo2k2r2k6db6lb14k3lb3r3~x2/"><circle cx="79.8" cy="103.0" r="4" fill="#3465a4"><title>Quadra</title></circle></a><a href="/setts/s30/r5k4r13g25k3w5k3ly3k16t9k2t9r12k2g3k2r12t9k2t9k16ly3k3w5k3g25r13k4r5w3~x2/"><circle cx="59.6" cy="88.1" r="4" fill="#3465a4"><title>Wilson's No.152</title></circle></a><a href="/setts/s26/dg1r6g5r6dg1r1dg9o3dg3y3dg9r1dg1r6g5r6dg1r1w1r1w12g1w12r1w1r1~x4/"><circle cx="77.7" cy="80.0" r="4" fill="#3465a4"><title>Maple Leaf, dress</title></circle></a><a href="/setts/s26/dg1m6g5m6dg1m1dg9dy3g3ly3dg9m1dg1m6g5m6dg1m1w1m1w12g1w12m1w1m1~x4/"><circle cx="76.9" cy="78.4" r="4" fill="#3465a4"><title>Maple Leaf Dress District Tartan Tartan Number: 2033. Earliest known date: pre 1992 In creating the Maple Leaf Tartan fabric, David Weiser captured the natural phenomena of these leaves turning from summer into autumn. (The Office of the High Commissioner for Canada.) This is a dress version of the Maple Leaf tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s22/r18t13k16lo3k3lb5k3dg32k2r15t5r15~x2/"><circle cx="99.3" cy="96.6" r="4" fill="#3465a4"><title>Wilson's No.090</title></circle></a><a href="/setts/s24/r6g10r2db2r4db2r2g10r4db8r2k8ly2k4ly2k4w6k6t27r2k2r2t10r6~x2/"><circle cx="41.7" cy="65.3" r="4" fill="#3465a4"><title>Anderson 8</title></circle></a><a href="/setts/s22/r8y7k8lo2k1lb3k1dg19k1r8y3r8~x2/"><circle cx="118.0" cy="85.1" r="4" fill="#3465a4"><title>Norwich No.001</title></circle></a><a href="/setts/s24/r6dg10r2db2r4db2r2dg10r4db8r2k8ly2k4ly2k4w6k6t27r2k2r2t10r6~x2/"><circle cx="56.6" cy="71.5" r="4" fill="#3465a4"><title>Anderson (Highland Society of London)</title></circle></a><circle cx="81.0" cy="85.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s24/r6dg10r2k2r4k2r2dg10r4k9r2k9ly2k3ly2k4w6k6t27r2k2r2t10r6~x2/

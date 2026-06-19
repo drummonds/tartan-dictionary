@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-R/10 T46 DRa26 DR32 G46 T26 Y6 T/26
+T/26 Y6 T26 G46 DR32 DRa26 T46 R/10
 ![Sett](sett.png)
 
 ## Palette
@@ -902,27 +905,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "R/10 T46 DRa26 DR32 G46 T26 Y6 T/26 tartan")
+![Tartan detail](tartan.png "T/26 Y6 T26 G46 DR32 DRa26 T46 R/10 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Leighton (Personal)](/setts/s8/dr5lo1dr5g9do5dy4dr7r2~x4/) — ΔT 1.37
+1. [Leighton (Personal)](/setts/s8/dr5lo1dr5g9do5dy4dr7r2~x4/) — ΔT 1.36
 1. [Leighton (Personal)](/setts/s8/dr20lo4dr20g35do20dy16dr28r8/) — ΔT 1.39
 1. [MacDuff Hunting Clan Tartan Tartan Number: 1654. Earliest known date: 1906 STS records (sic) 'Sett may be quite wrong. (S.S. May 86)' See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/dy8r1dy8g8k8db8dy8r2~x2/) — ΔT 1.47
 1. [Unidentified Printing #3](/setts/s7/dg2ly1dg6r4r6k1r2~x4/) — ΔT 1.57
 1. [Wcwm 1243](/setts/s12/g3db1g6r6lo1r6n6db1n6r2n6lb1~x4/) — ΔT 1.62
 1. [MacDuff Hunting](/setts/s8/do10r2do10g17k12db9do9r2~x2/) — ΔT 1.63
 1. [Indiana "Cardinal" (District)](/setts/s8/db8lo1g12r10y2r6y2r4~x4/) — ΔT 1.68
-1. [Huntly #3](/setts/s10/dy2lr1dy5k4do5o1do5k4dy5lr1~x4/) — ΔT 1.69
+1. [Huntly #3](/setts/s10/dy2lr1dy5k4do5o1~x4/) — ΔT 1.69
 1. [Blaylock Hunting](/setts/s12/g4lr2g8do8o2do8o16k2do5lr2o5ly2~x2/) — ΔT 1.69
 1. [Tennant Family Tartan Tartan Number: 1653. Earliest known date: 1930 MacGregor-Hastie made few notes about his sample collection. In December 1967, Captain Tennant wrote to the Scottish Tartans Society, saying, ".. and I have no objection to other Tennants wearing it (Tennant tartan) but their problem will be to get hold of it ... I don't know of any other Tennant tartan and that is why I think my father designed this one." The head of the Tennant family is Lord Glenconner, descended from John Tennant of Blairston, Ayr. (1635). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r1dy7db7k7g7dy7r1~x4/) — ΔT 1.73
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dr5lo1dr5g9do5dy4dr7r2~x4/"><circle cx="221.9" cy="240.3" r="4" fill="#3465a4"><title>Leighton (Personal)</title></circle></a><a href="/setts/s8/dr20lo4dr20g35do20dy16dr28r8/"><circle cx="221.9" cy="242.6" r="4" fill="#3465a4"><title>Leighton (Personal)</title></circle></a><a href="/setts/s8/dy8r1dy8g8k8db8dy8r2~x2/"><circle cx="215.7" cy="263.7" r="4" fill="#3465a4"><title>MacDuff Hunting Clan Tartan Tartan Number: 1654. Earliest known date: 1906 STS records (sic) 'Sett may be quite wrong. (S.S. May 86)' See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dg2ly1dg6r4r6k1r2~x4/"><circle cx="180.4" cy="235.1" r="4" fill="#3465a4"><title>Unidentified Printing #3</title></circle></a><a href="/setts/s12/g3db1g6r6lo1r6n6db1n6r2n6lb1~x4/"><circle cx="165.6" cy="202.0" r="4" fill="#3465a4"><title>Wcwm 1243</title></circle></a><a href="/setts/s8/do10r2do10g17k12db9do9r2~x2/"><circle cx="191.4" cy="248.7" r="4" fill="#3465a4"><title>MacDuff Hunting</title></circle></a><a href="/setts/s8/db8lo1g12r10y2r6y2r4~x4/"><circle cx="236.8" cy="205.3" r="4" fill="#3465a4"><title>Indiana &quot;Cardinal&quot; (District)</title></circle></a><a href="/setts/s10/dy2lr1dy5k4do5o1do5k4dy5lr1~x4/"><circle cx="167.0" cy="260.1" r="4" fill="#3465a4"><title>Huntly #3</title></circle></a><a href="/setts/s12/g4lr2g8do8o2do8o16k2do5lr2o5ly2~x2/"><circle cx="174.4" cy="185.7" r="4" fill="#3465a4"><title>Blaylock Hunting</title></circle></a><a href="/setts/s7/r1dy7db7k7g7dy7r1~x4/"><circle cx="167.4" cy="261.0" r="4" fill="#3465a4"><title>Tennant Family Tartan Tartan Number: 1653. Earliest known date: 1930 MacGregor-Hastie made few notes about his sample collection. In December 1967, Captain Tennant wrote to the Scottish Tartans Society, saying, &quot;.. and I have no objection to other Tennants wearing it (Tennant tartan) but their problem will be to get hold of it ... I don't know of any other Tennant tartan and that is why I think my father designed this one.&quot; The head of the Tennant family is Lord Glenconner, descended from John Tennant of Blairston, Ayr. (1635). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="184.7" cy="232.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dr5lo1dr5g9do5dy4dr7r2~x4/"><circle cx="222.0" cy="240.5" r="4" fill="#3465a4"><title>Leighton (Personal)</title></circle></a><a href="/setts/s8/dr20lo4dr20g35do20dy16dr28r8/"><circle cx="222.0" cy="242.9" r="4" fill="#3465a4"><title>Leighton (Personal)</title></circle></a><a href="/setts/s8/dy8r1dy8g8k8db8dy8r2~x2/"><circle cx="215.8" cy="263.8" r="4" fill="#3465a4"><title>MacDuff Hunting Clan Tartan Tartan Number: 1654. Earliest known date: 1906 STS records (sic) 'Sett may be quite wrong. (S.S. May 86)' See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dg2ly1dg6r4r6k1r2~x4/"><circle cx="180.4" cy="235.2" r="4" fill="#3465a4"><title>Unidentified Printing #3</title></circle></a><a href="/setts/s12/g3db1g6r6lo1r6n6db1n6r2n6lb1~x4/"><circle cx="165.5" cy="202.2" r="4" fill="#3465a4"><title>Wcwm 1243</title></circle></a><a href="/setts/s8/do10r2do10g17k12db9do9r2~x2/"><circle cx="191.5" cy="248.8" r="4" fill="#3465a4"><title>MacDuff Hunting</title></circle></a><a href="/setts/s8/db8lo1g12r10y2r6y2r4~x4/"><circle cx="236.8" cy="205.4" r="4" fill="#3465a4"><title>Indiana &quot;Cardinal&quot; (District)</title></circle></a><a href="/setts/s10/dy2lr1dy5k4do5o1~x4/"><circle cx="167.1" cy="260.3" r="4" fill="#3465a4"><title>Huntly #3</title></circle></a><a href="/setts/s12/g4lr2g8do8o2do8o16k2do5lr2o5ly2~x2/"><circle cx="174.3" cy="185.9" r="4" fill="#3465a4"><title>Blaylock Hunting</title></circle></a><a href="/setts/s7/r1dy7db7k7g7dy7r1~x4/"><circle cx="167.6" cy="261.1" r="4" fill="#3465a4"><title>Tennant Family Tartan Tartan Number: 1653. Earliest known date: 1930 MacGregor-Hastie made few notes about his sample collection. In December 1967, Captain Tennant wrote to the Scottish Tartans Society, saying, &quot;.. and I have no objection to other Tennants wearing it (Tennant tartan) but their problem will be to get hold of it ... I don't know of any other Tennant tartan and that is why I think my father designed this one.&quot; The head of the Tennant family is Lord Glenconner, descended from John Tennant of Blairston, Ayr. (1635). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="184.7" cy="232.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/o13ly3o13g23dy16dr13o23r5~x2/

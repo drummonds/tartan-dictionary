@@ -2,7 +2,7 @@
 title: "Harkness Htg (Name)"
 date: 2023-03-18
 ---
-**Bands:** [BGRGYGBWBG](/stripes/bgrgygbwbg/) · **Stripes:** [N G R G LY G N W N G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="seq">N G R G LY G N W N G</span></span>
+**Bands:** [GBWBGYGRGB](/stripes/gbwbgygrgb/) · **Stripes:** [G N W N G LY G R G N](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="seq">G N W N G LY G R G N</span></span>
 
 
 This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/5710/
 
 ## Thread count
-G/24 Ga12 R8 Ga16 LT8 Ga24 G64 LN8 G8 Ga/40
+Ga/40 G8 LN8 G64 Ga24 LT8 Ga16 R8 Ga12 G/24
 ![Sett](sett.png)
 
 ## Palette
@@ -30,7 +30,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Taylor](/setts/s8/g8k2g13lr4g12n22g5lo3~x2/) — ΔT 1.17
 1. [MacKinnon 4](/setts/s14/p2y3g2db2y6g16y2db4g2y16g8p2y4w2~x2/) — ΔT 1.29
-1. [Harkness Hunting #2](/setts/s18/g10n2w2n16g6ly2g4r2g3n6g3r2g4ly2g6n16w2n2~x4/) — ΔT 1.29
+1. [Harkness Hunting #2](/setts/s18/g10n2w2n16g6ly2g4r2g3n6~x4/) — ΔT 1.29
 1. [Daks (Loden)](/setts/s8/db3dy7g2y2g14dy2g2db3~x2/) — ΔT 1.38
 1. [Simple Technology](/setts/s8/g28db9dg18w3dg18db9g28r3~x2/) — ΔT 1.42
 1. [Daks, Tartan-Loden](/setts/s8/db3o7g2r2g14o2g2db3~x2/) — ΔT 1.49
@@ -41,8 +41,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g8k2g13lr4g12n22g5lo3~x2/"><circle cx="336.2" cy="237.1" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/setts/s14/p2y3g2db2y6g16y2db4g2y16g8p2y4w2~x2/"><circle cx="252.3" cy="191.8" r="4" fill="#3465a4"><title>MacKinnon 4</title></circle></a><a href="/setts/s18/g10n2w2n16g6ly2g4r2g3n6g3r2g4ly2g6n16w2n2~x4/"><circle cx="265.7" cy="193.9" r="4" fill="#3465a4"><title>Harkness Hunting #2</title></circle></a><a href="/setts/s8/db3dy7g2y2g14dy2g2db3~x2/"><circle cx="329.5" cy="256.0" r="4" fill="#3465a4"><title>Daks (Loden)</title></circle></a><a href="/setts/s8/g28db9dg18w3dg18db9g28r3~x2/"><circle cx="252.9" cy="239.8" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><a href="/setts/s8/db3o7g2r2g14o2g2db3~x2/"><circle cx="305.0" cy="239.0" r="4" fill="#3465a4"><title>Daks, Tartan-Loden</title></circle></a><a href="/setts/s8/g14t2g2t2g3t6g12r2~x2/"><circle cx="270.8" cy="250.9" r="4" fill="#3465a4"><title>Cranston</title></circle></a><a href="/setts/s8/g8dr2g13r4g12t22g5y3~x2/"><circle cx="349.7" cy="238.7" r="4" fill="#3465a4"><title>Kildare</title></circle></a><a href="/setts/s12/dg12w2k5g24k4dg9k2g13k4dg13k2ly3~x2/"><circle cx="230.6" cy="197.4" r="4" fill="#3465a4"><title>Handley (Personal)</title></circle></a><a href="/setts/s8/dg8do2dg13db4dg12n22dg5ly3~x2/"><circle cx="358.2" cy="250.1" r="4" fill="#3465a4"><title>Scottish Pup</title></circle></a><circle cx="283.7" cy="231.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g8k2g13lr4g12n22g5lo3~x2/"><circle cx="336.1" cy="237.2" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/setts/s14/p2y3g2db2y6g16y2db4g2y16g8p2y4w2~x2/"><circle cx="252.1" cy="192.0" r="4" fill="#3465a4"><title>MacKinnon 4</title></circle></a><a href="/setts/s18/g10n2w2n16g6ly2g4r2g3n6~x4/"><circle cx="265.5" cy="194.0" r="4" fill="#3465a4"><title>Harkness Hunting #2</title></circle></a><a href="/setts/s8/db3dy7g2y2g14dy2g2db3~x2/"><circle cx="329.4" cy="256.1" r="4" fill="#3465a4"><title>Daks (Loden)</title></circle></a><a href="/setts/s8/g28db9dg18w3dg18db9g28r3~x2/"><circle cx="252.9" cy="239.9" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><a href="/setts/s8/db3o7g2r2g14o2g2db3~x2/"><circle cx="304.8" cy="239.0" r="4" fill="#3465a4"><title>Daks, Tartan-Loden</title></circle></a><a href="/setts/s8/g14t2g2t2g3t6g12r2~x2/"><circle cx="270.7" cy="251.0" r="4" fill="#3465a4"><title>Cranston</title></circle></a><a href="/setts/s8/g8dr2g13r4g12t22g5y3~x2/"><circle cx="349.6" cy="238.7" r="4" fill="#3465a4"><title>Kildare</title></circle></a><a href="/setts/s12/dg12w2k5g24k4dg9k2g13k4dg13k2ly3~x2/"><circle cx="230.6" cy="197.6" r="4" fill="#3465a4"><title>Handley (Personal)</title></circle></a><a href="/setts/s8/dg8do2dg13db4dg12n22dg5ly3~x2/"><circle cx="358.1" cy="250.2" r="4" fill="#3465a4"><title>Scottish Pup</title></circle></a><circle cx="283.6" cy="231.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/g10n2w2n16g6ly2g4r2g3n6~x4/

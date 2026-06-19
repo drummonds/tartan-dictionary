@@ -2,15 +2,21 @@
 title: "Buccleuch Weavers Tartan Tartan Number: 6009. Earliest known date: pre 2003 A Fashion tartan from Marton Mills See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [WGKYKYKY](/stripes/wgkykyky/) · **Stripes:** [W DY K LO K LO K LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">W DY K LO K LO K LO</span></span>
+**Bands:** [YKYKYKGW](/stripes/ykykykgw/) · **Stripes:** [LO K LO K LO K DY W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO K LO K LO K DY W</span></span>
 
 
 This was sourced from house-of-tartan.  It is a [8 band tartan](/bands/bands8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6009
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Buccleuch
+
 ## Thread count
-LN/4 G28 K20 LT4 K2 LT4 K2 LT/30
+LT/30 K2 LT4 K2 LT4 K20 G28 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -25,7 +31,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/4 G28 K20 LT4 K2 LT4 K2 LT/30 tartan")
+![Tartan detail](tartan.png "LT/30 K2 LT4 K2 LT4 K20 G28 LN/4 tartan")
 
 ## Nearest tartans
 
@@ -44,8 +50,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/lo15k1lo2k1lo2k10y14w2~x2/"><circle cx="230.5" cy="169.0" r="4" fill="#3465a4"><title>Buccleuch (Fashion)</title></circle></a><a href="/setts/s9/k1db1g16r16k12db8g16db1k1~x2/"><circle cx="236.3" cy="177.4" r="4" fill="#3465a4"><title>MacNett</title></circle></a><a href="/setts/s8/g36k2g2k2g3k12t10r20~x2/"><circle cx="273.9" cy="165.6" r="4" fill="#3465a4"><title>Georgia, State of</title></circle></a><a href="/setts/s7/dp9lr4dp1lr4g15r4dp1~x4/"><circle cx="211.2" cy="176.5" r="4" fill="#3465a4"><title>Logan #3</title></circle></a><a href="/setts/s10/db4o17db4g4db2g4db4g27db4ly4~x2/"><circle cx="251.7" cy="159.4" r="4" fill="#3465a4"><title>Cape Breton University</title></circle></a><a href="/setts/s7/g12t6g6r15k1r1k2~x4/"><circle cx="249.5" cy="188.8" r="4" fill="#3465a4"><title>McCook/Cook (Name)</title></circle></a><a href="/setts/s8/r15db2r1db2r3db7g13g3~x2/"><circle cx="229.6" cy="169.3" r="4" fill="#3465a4"><title>Cranston Dress</title></circle></a><a href="/setts/s8/r30db3r2db3r6db14g26g6/"><circle cx="243.0" cy="170.0" r="4" fill="#3465a4"><title>Cranston, dress</title></circle></a><a href="/setts/s7/k2r7k6g12ly1g1k2~x4/"><circle cx="229.6" cy="195.1" r="4" fill="#3465a4"><title>Blackstock Hunting</title></circle></a><a href="/setts/s8/k44lo9k3lo8lo16lo15lo6k7~x2/"><circle cx="212.8" cy="165.9" r="4" fill="#3465a4"><title>Longford County Crest (Fashion)</title></circle></a><circle cx="230.0" cy="169.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/lo15k1lo2k1lo2k10y14w2~x2/"><circle cx="230.3" cy="168.9" r="4" fill="#3465a4"><title>Buccleuch (Fashion)</title></circle></a><a href="/setts/s9/k1db1g16r16k12db8g16db1k1~x2/"><circle cx="236.2" cy="177.4" r="4" fill="#3465a4"><title>MacNett</title></circle></a><a href="/setts/s8/g36k2g2k2g3k12t10r20~x2/"><circle cx="273.7" cy="165.5" r="4" fill="#3465a4"><title>Georgia, State of</title></circle></a><a href="/setts/s7/dp9lr4dp1lr4g15r4dp1~x4/"><circle cx="211.1" cy="176.5" r="4" fill="#3465a4"><title>Logan #3</title></circle></a><a href="/setts/s10/db4o17db4g4db2g4db4g27db4ly4~x2/"><circle cx="251.5" cy="159.3" r="4" fill="#3465a4"><title>Cape Breton University</title></circle></a><a href="/setts/s7/g12t6g6r15k1r1k2~x4/"><circle cx="249.3" cy="188.7" r="4" fill="#3465a4"><title>McCook/Cook (Name)</title></circle></a><a href="/setts/s8/r15db2r1db2r3db7g13g3~x2/"><circle cx="229.4" cy="169.2" r="4" fill="#3465a4"><title>Cranston Dress</title></circle></a><a href="/setts/s8/r30db3r2db3r6db14g26g6/"><circle cx="242.7" cy="170.0" r="4" fill="#3465a4"><title>Cranston, dress</title></circle></a><a href="/setts/s7/k2r7k6g12ly1g1k2~x4/"><circle cx="229.5" cy="195.1" r="4" fill="#3465a4"><title>Blackstock Hunting</title></circle></a><a href="/setts/s8/k44lo9k3lo8lo16lo15lo6k7~x2/"><circle cx="212.7" cy="165.8" r="4" fill="#3465a4"><title>Longford County Crest (Fashion)</title></circle></a><circle cx="229.9" cy="169.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/lo15k1lo2k1lo2k10dy14w2~x2/

@@ -9,13 +9,6 @@ This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Rose Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Rose Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
-
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -59,8 +52,15 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
 
+## Variants
+
+Other setts woven to the same stripe pattern.
+
+- [Rose Hunting](/setts/s6/k4lr1dg10k10db10r2/)
+
+
 ## Thread count
-DR/4 DB20 K20 DG20 N2 K/8
+K/8 N2 DG20 K20 DB20 DR/4
 ![Sett](sett.png)
 
 ## Palette
@@ -76,27 +76,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/4 DB20 K20 DG20 N2 K/8 tartan")
+![Tartan detail](tartan.png "K/8 N2 DG20 K20 DB20 DR/4 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
+1. [Rose Hunting](/setts/s6/k4lr1dg10k10db10r2/) — ΔT 0.00
 1. [Rose Hunting](/setts/s6/dg4lb1dg10k10db10r2/) — ΔT 0.65
 1. [Mitchell](/setts/s6/k2dg12k12r1db12lr2~x2/) — ΔT 0.66
 1. [Mitchell](/setts/s6/k2dg12k12r1db12lr2/) — ΔT 0.66
 1. [Leslie Hunting](/setts/s6/r2db8k8lr1dg8k1~x2/) — ΔT 0.71
 1. [Leslie Hunting](/setts/s6/r2db8k8lr1dg8k1/) — ΔT 0.71
-1. [Brodie Hunting](/setts/s7/r2db8dg8k8ly1k8r2~x2/) — ΔT 0.80
-1. [Brodie Hunting](/setts/s7/r2db8dg8k8ly1k8r2/) — ΔT 0.80
-1. [Campbell of Cawdor](/setts/s7/b2k1dg8k8db8k1r2~x2/) — ΔT 0.83
-1. [Campbell of Cawdor](/setts/s7/b2k1dg8k8db8k1r2/) — ΔT 0.83
+1. [Brodie Hunting](/setts/s7/r2k8ly1k8dg8db8r2~x2/) — ΔT 0.80
+1. [Campbell of Cawdor](/setts/s7/r2k1db8k8dg8k1b2~x2/) — ΔT 0.83
 1. [Mitchell](/setts/s6/k2dg12k12r1db12lb2/) — ΔT 0.85
+1. [Leslie Hunting](/setts/s6/r2db8k8lb1dg8k1/) — ΔT 0.95
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dg4lb1dg10k10db10r2/"><circle cx="156.8" cy="224.4" r="4" fill="#3465a4"><title>Rose Hunting</title></circle></a><a href="/setts/s6/k2dg12k12r1db12lr2~x2/"><circle cx="170.1" cy="211.3" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><a href="/setts/s6/k2dg12k12r1db12lr2/"><circle cx="170.1" cy="211.3" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><a href="/setts/s6/r2db8k8lr1dg8k1~x2/"><circle cx="138.8" cy="226.4" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/setts/s6/r2db8k8lr1dg8k1/"><circle cx="138.8" cy="226.4" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/setts/s7/r2db8dg8k8ly1k8r2~x2/"><circle cx="165.1" cy="231.0" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/setts/s7/r2db8dg8k8ly1k8r2/"><circle cx="165.1" cy="231.0" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/setts/s7/b2k1dg8k8db8k1r2~x2/"><circle cx="143.5" cy="219.0" r="4" fill="#3465a4"><title>Campbell of Cawdor</title></circle></a><a href="/setts/s7/b2k1dg8k8db8k1r2/"><circle cx="143.5" cy="219.0" r="4" fill="#3465a4"><title>Campbell of Cawdor</title></circle></a><a href="/setts/s6/k2dg12k12r1db12lb2/"><circle cx="158.3" cy="205.5" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><circle cx="168.9" cy="230.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k4lr1dg10k10db10r2/"><circle cx="169.3" cy="230.8" r="4" fill="#3465a4"><title>Rose Hunting</title></circle></a><a href="/setts/s6/dg4lb1dg10k10db10r2/"><circle cx="157.1" cy="224.4" r="4" fill="#3465a4"><title>Rose Hunting</title></circle></a><a href="/setts/s6/k2dg12k12r1db12lr2~x2/"><circle cx="170.4" cy="211.3" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><a href="/setts/s6/k2dg12k12r1db12lr2/"><circle cx="170.4" cy="211.3" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><a href="/setts/s6/r2db8k8lr1dg8k1~x2/"><circle cx="139.2" cy="226.5" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/setts/s6/r2db8k8lr1dg8k1/"><circle cx="139.2" cy="226.5" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/setts/s7/r2k8ly1k8dg8db8r2~x2/"><circle cx="165.5" cy="231.0" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/setts/s7/r2k1db8k8dg8k1b2~x2/"><circle cx="143.9" cy="219.1" r="4" fill="#3465a4"><title>Campbell of Cawdor</title></circle></a><a href="/setts/s6/k2dg12k12r1db12lb2/"><circle cx="158.7" cy="205.5" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><a href="/setts/s6/r2db8k8lb1dg8k1/"><circle cx="124.9" cy="219.0" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><circle cx="169.3" cy="230.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k4lr1dg10k10db10r2~x2/

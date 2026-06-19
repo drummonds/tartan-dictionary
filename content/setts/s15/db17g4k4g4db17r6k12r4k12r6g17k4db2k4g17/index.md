@@ -2,12 +2,18 @@
 title: "Stewart Ancient (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BGKGBRKRKRGKBKG](/stripes/bgkgbrkrkrgkbkg/) · **Stripes:** [DB G K G DB R K R K R G K DB K G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB G K G DB R K R K R G K DB K G</span></span>
+**Bands:** [GKBKGRKRKRBGKGB](/stripes/gkbkgrkrkrbgkgb/) · **Stripes:** [G K DB K G R K R K R DB G K G DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G K DB K G R K R K R DB G K G DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/159/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Stewart, Ancient
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -909,10 +918,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Stuart/Stewart Ancient](/setts/s15/db17dg4k4dg4db17r6k12r4k12r6dg17k4db2k4dg17/) — ΔT 0.44
+1. [Stuart/Stewart Ancient](/setts/s15/dg17k4db2k4dg17r6k12r4k12r6db17dg4k4dg4db17/) — ΔT 0.44
 1. [Stewart of Achnacone Clan Tartan Tartan Number: 160. Earliest known date: c.1815 'As made for Achnacone by P.J. Haggart, Aberfeldy...' See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/db8g2k2g2db7r2k6r1k6r2g8k6g7~x2/) — ΔT 0.63
-1. [Earl of Dumfries (Personal)](/setts/s15/db13k2dg2k2dg2k2db13r3k10r2k10r3dg13k6dg13~x2/) — ΔT 0.86
-1. [MacDonald #2](/setts/s12/db11r2db2r4db15r2k15dg15r4dg2r2dg11~x2/) — ΔT 0.91
+1. [Earl of Dumfries (Personal)](/setts/s15/dg13k6dg13r3k10r2k10r3db13k2dg2k2dg2k2db13~x2/) — ΔT 0.86
+1. [MacDonald #2](/setts/s12/dg11r2dg2r4dg15k15r2db15r4db2r2db11~x2/) — ΔT 0.91
 1. [Murray of Atholl #3](/setts/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/) — ΔT 0.93
 1. [MacLachlan Hunting](/setts/s15/g4k1g1k1g1k5db5r2db2r2db5g5k1g1k1~x6/) — ΔT 0.95
 1. [MacDonald MINI Design Tartan Tartan Number: 4199. Earliest known date: Dupion Silk. Display Purposes Only. Reduced Copy of 419 MacDonald. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/db8r2db2r3db12r2k12g12r3g2r2g8/) — ΔT 0.99
@@ -922,8 +931,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db17dg4k4dg4db17r6k12r4k12r6dg17k4db2k4dg17/"><circle cx="159.1" cy="212.3" r="4" fill="#3465a4"><title>Stuart/Stewart Ancient</title></circle></a><a href="/setts/s13/db8g2k2g2db7r2k6r1k6r2g8k6g7~x2/"><circle cx="153.4" cy="228.1" r="4" fill="#3465a4"><title>Stewart of Achnacone Clan Tartan Tartan Number: 160. Earliest known date: c.1815 'As made for Achnacone by P.J. Haggart, Aberfeldy...' See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/db13k2dg2k2dg2k2db13r3k10r2k10r3dg13k6dg13~x2/"><circle cx="178.7" cy="222.2" r="4" fill="#3465a4"><title>Earl of Dumfries (Personal)</title></circle></a><a href="/setts/s12/db11r2db2r4db15r2k15dg15r4dg2r2dg11~x2/"><circle cx="170.1" cy="210.0" r="4" fill="#3465a4"><title>MacDonald #2</title></circle></a><a href="/setts/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/"><circle cx="189.9" cy="199.7" r="4" fill="#3465a4"><title>Murray of Atholl #3</title></circle></a><a href="/setts/s15/g4k1g1k1g1k5db5r2db2r2db5g5k1g1k1~x6/"><circle cx="136.6" cy="223.3" r="4" fill="#3465a4"><title>MacLachlan Hunting</title></circle></a><a href="/setts/s12/db8r2db2r3db12r2k12g12r3g2r2g8/"><circle cx="144.8" cy="215.1" r="4" fill="#3465a4"><title>MacDonald MINI Design Tartan Tartan Number: 4199. Earliest known date: Dupion Silk. Display Purposes Only. Reduced Copy of 419 MacDonald. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/dg7k2dg7lo1k2lo1k10lo3r10lo3k10lo1dg11k2dg3k2~x2/"><circle cx="211.8" cy="191.9" r="4" fill="#3465a4"><title>Blackburn Appalachian Htg (Personal)</title></circle></a><a href="/setts/s15/dg26k4dg6r4dg6k26db26k3w7k3db26k26dg26k3r7~x2/"><circle cx="145.3" cy="179.8" r="4" fill="#3465a4"><title>MacRae Htg - 1820 (Wilsons)</title></circle></a><a href="/setts/s15/dt8k1dt2k1dt2k6g8k1w2k1g8k6dt8k1dt2~x4/"><circle cx="198.6" cy="209.4" r="4" fill="#3465a4"><title>74th Regiment of Foot (Mil.)</title></circle></a><circle cx="152.8" cy="209.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/dg17k4db2k4dg17r6k12r4k12r6db17dg4k4dg4db17/"><circle cx="159.2" cy="212.4" r="4" fill="#3465a4"><title>Stuart/Stewart Ancient</title></circle></a><a href="/setts/s13/db8g2k2g2db7r2k6r1k6r2g8k6g7~x2/"><circle cx="153.5" cy="228.2" r="4" fill="#3465a4"><title>Stewart of Achnacone Clan Tartan Tartan Number: 160. Earliest known date: c.1815 'As made for Achnacone by P.J. Haggart, Aberfeldy...' See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/dg13k6dg13r3k10r2k10r3db13k2dg2k2dg2k2db13~x2/"><circle cx="178.8" cy="222.3" r="4" fill="#3465a4"><title>Earl of Dumfries (Personal)</title></circle></a><a href="/setts/s12/dg11r2dg2r4dg15k15r2db15r4db2r2db11~x2/"><circle cx="170.2" cy="210.1" r="4" fill="#3465a4"><title>MacDonald #2</title></circle></a><a href="/setts/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/"><circle cx="190.0" cy="199.8" r="4" fill="#3465a4"><title>Murray of Atholl #3</title></circle></a><a href="/setts/s15/g4k1g1k1g1k5db5r2db2r2db5g5k1g1k1~x6/"><circle cx="136.7" cy="223.4" r="4" fill="#3465a4"><title>MacLachlan Hunting</title></circle></a><a href="/setts/s12/db8r2db2r3db12r2k12g12r3g2r2g8/"><circle cx="144.9" cy="215.2" r="4" fill="#3465a4"><title>MacDonald MINI Design Tartan Tartan Number: 4199. Earliest known date: Dupion Silk. Display Purposes Only. Reduced Copy of 419 MacDonald. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/dg7k2dg7lo1k2lo1k10lo3r10lo3k10lo1dg11k2dg3k2~x2/"><circle cx="211.8" cy="192.0" r="4" fill="#3465a4"><title>Blackburn Appalachian Htg (Personal)</title></circle></a><a href="/setts/s15/dg26k4dg6r4dg6k26db26k3w7k3db26k26dg26k3r7~x2/"><circle cx="145.4" cy="179.9" r="4" fill="#3465a4"><title>MacRae Htg - 1820 (Wilsons)</title></circle></a><a href="/setts/s15/dt8k1dt2k1dt2k6g8k1w2k1g8k6dt8k1dt2~x4/"><circle cx="198.7" cy="209.5" r="4" fill="#3465a4"><title>74th Regiment of Foot (Mil.)</title></circle></a><circle cx="153.0" cy="210.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/db17g4k4g4db17r6k12r4k12r6g17k4db2k4g17/

@@ -3,7 +3,7 @@ title: "Families & clans — Q"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-4 clans and families beginning with Q. [Back to the A–Z](/families/).
+5 clans and families beginning with Q. [Back to the A–Z](/families/).
 
 ## Qu
 
@@ -11,4 +11,5 @@ background: /bg/clans.png
 - [Quigley](/clan/quigley/) — clan
 - [Quigley of Knockcroghery](/families/quigley-of-knockcroghery/)
 - [Quigley of Knockcroghery Htg](/families/quigley-of-knockcroghery-htg/)
+- [Quinn](/setts/s12/r20g5r5g30ly8g10k10g30r5g5r20g20~x2/)
 

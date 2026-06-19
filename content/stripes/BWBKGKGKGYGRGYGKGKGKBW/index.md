@@ -22,6 +22,6 @@ BWBKGKGKGYGRGYGKGKGKBW
 
 | Tartans |
 |---------------|
-| [Kerby (Personal)](/setts/s22/dp4w2dp10k10g3k3g3k2g24ly2g2r4g2ly2g24k2g3k3g3k10dp10w2~x2/)|
-|![Kerby (Personal) example sett](/setts/s22/dp4w2dp10k10g3k3g3k2g24ly2g2r4g2ly2g24k2g3k3g3k10dp10w2~x2/sett.png)|
+| [Kerby (Personal)](/setts/s22/dp4w2dp10k10g3k3g3k2g24ly2g2r4~x2/)|
+|![Kerby (Personal) example sett](/setts/s22/dp4w2dp10k10g3k3g3k2g24ly2g2r4~x2/sett.png)|
 

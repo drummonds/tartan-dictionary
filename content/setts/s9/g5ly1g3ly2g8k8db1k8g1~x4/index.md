@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1200
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Fitzpatrick Htg
+- Fitzpatrick Hunting
+
 ## Attestations
 
 This cloth appears in 4 source records; the oldest owns this page.
@@ -320,6 +327,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +428,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +688,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -894,7 +904,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/4 K32 DB4 K32 G32 Y8 G12 Y4 G/20
+G/20 Y4 G12 Y8 G32 K32 DB4 K32 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -913,19 +923,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacAulay of Lewis](/setts/s8/g6k16r3k16g28k4g12w3~x2/) — ΔT 0.71
 1. [Smeaton](/setts/s10/dt12w2dt7g15k2g4k2g15dt2k7~x2/) — ΔT 0.86
-1. [MacIver Hunting](/setts/s9/ly2g12k3g3k16g3k3g12w2~x2/) — ΔT 0.97
+1. [MacIver Hunting](/setts/s9/w2g12k3g3k16g3k3g12ly2~x2/) — ΔT 0.97
 1. [Strath Hallidale (Fashion)](/setts/s8/g5k15g5k15g19r2g13lb4~x2/) — ΔT 1.00
 1. [Sin-Cos (Corporate)](/setts/s10/k60g64dg5g8dg5g64k60ly8k8ly8/) — ΔT 1.09
 1. [Aztec, New Mexico](/setts/s8/r3k8g17ly2g17k8b8k2~x2/) — ΔT 1.15
 1. [Cameron Hunting](/setts/s7/r3dg10r3dg14db16dg3ly2/) — ΔT 1.17
-1. [Holman (Personal)](/setts/s6/b3g7k16g20k9r3~x2/) — ΔT 1.23
+1. [Holman (Personal)](/setts/s6/r3k9g20k16g7b3~x2/) — ΔT 1.23
 1. [Brunton (Personal)](/setts/s8/k7r3k27g27ly3g3ly3g3~x2/) — ΔT 1.23
 1. [Cameron of Lochiel (Hunting)](/setts/s7/r3g10r3g14db16g3ly2~x2/) — ΔT 1.25
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="280.1" cy="221.9" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/setts/s10/dt12w2dt7g15k2g4k2g15dt2k7~x2/"><circle cx="212.8" cy="210.6" r="4" fill="#3465a4"><title>Smeaton</title></circle></a><a href="/setts/s9/ly2g12k3g3k16g3k3g12w2~x2/"><circle cx="273.9" cy="205.3" r="4" fill="#3465a4"><title>MacIver Hunting</title></circle></a><a href="/setts/s8/g5k15g5k15g19r2g13lb4~x2/"><circle cx="279.5" cy="238.3" r="4" fill="#3465a4"><title>Strath Hallidale (Fashion)</title></circle></a><a href="/setts/s10/k60g64dg5g8dg5g64k60ly8k8ly8/"><circle cx="282.4" cy="190.0" r="4" fill="#3465a4"><title>Sin-Cos (Corporate)</title></circle></a><a href="/setts/s8/r3k8g17ly2g17k8b8k2~x2/"><circle cx="222.9" cy="207.7" r="4" fill="#3465a4"><title>Aztec, New Mexico</title></circle></a><a href="/setts/s7/r3dg10r3dg14db16dg3ly2/"><circle cx="263.6" cy="229.8" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/setts/s6/b3g7k16g20k9r3~x2/"><circle cx="252.1" cy="263.0" r="4" fill="#3465a4"><title>Holman (Personal)</title></circle></a><a href="/setts/s8/k7r3k27g27ly3g3ly3g3~x2/"><circle cx="252.2" cy="188.9" r="4" fill="#3465a4"><title>Brunton (Personal)</title></circle></a><a href="/setts/s7/r3g10r3g14db16g3ly2~x2/"><circle cx="260.0" cy="225.1" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting)</title></circle></a><circle cx="232.3" cy="220.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="280.1" cy="221.8" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/setts/s10/dt12w2dt7g15k2g4k2g15dt2k7~x2/"><circle cx="212.8" cy="210.5" r="4" fill="#3465a4"><title>Smeaton</title></circle></a><a href="/setts/s9/w2g12k3g3k16g3k3g12ly2~x2/"><circle cx="273.8" cy="205.1" r="4" fill="#3465a4"><title>MacIver Hunting</title></circle></a><a href="/setts/s8/g5k15g5k15g19r2g13lb4~x2/"><circle cx="279.5" cy="238.2" r="4" fill="#3465a4"><title>Strath Hallidale (Fashion)</title></circle></a><a href="/setts/s10/k60g64dg5g8dg5g64k60ly8k8ly8/"><circle cx="282.4" cy="189.9" r="4" fill="#3465a4"><title>Sin-Cos (Corporate)</title></circle></a><a href="/setts/s8/r3k8g17ly2g17k8b8k2~x2/"><circle cx="222.9" cy="207.6" r="4" fill="#3465a4"><title>Aztec, New Mexico</title></circle></a><a href="/setts/s7/r3dg10r3dg14db16dg3ly2/"><circle cx="263.7" cy="229.7" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/setts/s6/r3k9g20k16g7b3~x2/"><circle cx="252.3" cy="262.9" r="4" fill="#3465a4"><title>Holman (Personal)</title></circle></a><a href="/setts/s8/k7r3k27g27ly3g3ly3g3~x2/"><circle cx="252.2" cy="188.7" r="4" fill="#3465a4"><title>Brunton (Personal)</title></circle></a><a href="/setts/s7/r3g10r3g14db16g3ly2~x2/"><circle cx="260.0" cy="224.9" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting)</title></circle></a><circle cx="232.3" cy="220.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/g5ly1g3ly2g8k8db1k8g1~x4/

@@ -2,12 +2,18 @@
 title: "Edinchat"
 date: 2023-03-18
 ---
-**Bands:** [BRGRBR](/stripes/brgrbr/) · **Stripes:** [DB O G O DB O](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DB O G O DB O</span></span>
+**Bands:** [RBRGRB](/stripes/rbrgrb/) · **Stripes:** [O DB O G O DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="seq">O DB O G O DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1506
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Grant of Edinchat
 
 ## Attestations
 
@@ -24,7 +30,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6241
 
 ## Thread count
-DB/8 DO112 G52 DO8 DB52 DO/8
+DO/8 DB52 DO8 G52 DO112 DB/8
 ![Sett](sett.png)
 
 ## Palette
@@ -39,7 +45,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/8 DO112 G52 DO8 DB52 DO/8 tartan")
+![Tartan detail](tartan.png "DO/8 DB52 DO8 G52 DO112 DB/8 tartan")
 
 ## Nearest tartans
 
@@ -49,7 +55,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Grant of Lurg](/setts/s6/db2r25g10r2db10r2~x2/) — ΔT 0.86
 1. [Fraser of Boblainy, Hugh (Personal)](/setts/s5/db1r14g7db7r1~x4/) — ΔT 1.00
 1. [Glasgow, City of](/setts/s7/g28r4dp25r22g27r4dp2~x2/) — ΔT 1.06
-1. [Robertson 6](/setts/s6/g1r18db4r1g10r1~x4/) — ΔT 1.14
+1. [Robertson 6](/setts/s6/r1g10r1db4r18g1~x4/) — ΔT 1.14
 1. [Skene - 1831 (Clan)](/setts/s7/db6r3g1r3g12r3g1~x4/) — ΔT 1.14
 1. [Wasko (Personal)](/setts/s7/r8w2m30g12m3g12m3~x2/) — ΔT 1.19
 1. [Robertson - 1988 (Corporate)](/setts/s7/r2db1r16db4r1g10r1~x4/) — ΔT 1.22
@@ -58,8 +64,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r1r14g7db7r1~x4/"><circle cx="341.8" cy="222.9" r="4" fill="#3465a4"><title>Hugh Fraser of Boblainy</title></circle></a><a href="/setts/s6/db2r25g10r2db10r2~x2/"><circle cx="370.7" cy="206.9" r="4" fill="#3465a4"><title>Grant of Lurg</title></circle></a><a href="/setts/s5/db1r14g7db7r1~x4/"><circle cx="319.4" cy="220.5" r="4" fill="#3465a4"><title>Fraser of Boblainy, Hugh (Personal)</title></circle></a><a href="/setts/s7/g28r4dp25r22g27r4dp2~x2/"><circle cx="299.0" cy="224.0" r="4" fill="#3465a4"><title>Glasgow, City of</title></circle></a><a href="/setts/s6/g1r18db4r1g10r1~x4/"><circle cx="398.1" cy="186.5" r="4" fill="#3465a4"><title>Robertson 6</title></circle></a><a href="/setts/s7/db6r3g1r3g12r3g1~x4/"><circle cx="299.0" cy="216.8" r="4" fill="#3465a4"><title>Skene - 1831 (Clan)</title></circle></a><a href="/setts/s7/r8w2m30g12m3g12m3~x2/"><circle cx="331.8" cy="186.4" r="4" fill="#3465a4"><title>Wasko (Personal)</title></circle></a><a href="/setts/s7/r2db1r16db4r1g10r1~x4/"><circle cx="376.0" cy="177.6" r="4" fill="#3465a4"><title>Robertson - 1988 (Corporate)</title></circle></a><a href="/setts/s6/r6g21k8r28k2r4~x2/"><circle cx="345.8" cy="207.9" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/setts/s7/dg28r4dp25r22dg27r4dp2~x2/"><circle cx="306.4" cy="229.1" r="4" fill="#3465a4"><title>Glasgow, Ciity of (District)</title></circle></a><circle cx="348.6" cy="208.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r1r14g7db7r1~x4/"><circle cx="341.5" cy="222.8" r="4" fill="#3465a4"><title>Hugh Fraser of Boblainy</title></circle></a><a href="/setts/s6/db2r25g10r2db10r2~x2/"><circle cx="370.3" cy="206.8" r="4" fill="#3465a4"><title>Grant of Lurg</title></circle></a><a href="/setts/s5/db1r14g7db7r1~x4/"><circle cx="319.2" cy="220.3" r="4" fill="#3465a4"><title>Fraser of Boblainy, Hugh (Personal)</title></circle></a><a href="/setts/s7/g28r4dp25r22g27r4dp2~x2/"><circle cx="298.8" cy="223.8" r="4" fill="#3465a4"><title>Glasgow, City of</title></circle></a><a href="/setts/s6/r1g10r1db4r18g1~x4/"><circle cx="397.7" cy="186.3" r="4" fill="#3465a4"><title>Robertson 6</title></circle></a><a href="/setts/s7/db6r3g1r3g12r3g1~x4/"><circle cx="298.8" cy="216.7" r="4" fill="#3465a4"><title>Skene - 1831 (Clan)</title></circle></a><a href="/setts/s7/r8w2m30g12m3g12m3~x2/"><circle cx="331.5" cy="186.3" r="4" fill="#3465a4"><title>Wasko (Personal)</title></circle></a><a href="/setts/s7/r2db1r16db4r1g10r1~x4/"><circle cx="375.6" cy="177.4" r="4" fill="#3465a4"><title>Robertson - 1988 (Corporate)</title></circle></a><a href="/setts/s6/r6g21k8r28k2r4~x2/"><circle cx="345.5" cy="207.7" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/setts/s7/dg28r4dp25r22dg27r4dp2~x2/"><circle cx="306.2" cy="229.0" r="4" fill="#3465a4"><title>Glasgow, Ciity of (District)</title></circle></a><circle cx="348.3" cy="208.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db2o28g13o2db13o2~x4/

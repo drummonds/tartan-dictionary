@@ -21,14 +21,14 @@ BBBRB
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DT N DT R DT <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">DT N DT R DT</span></span>
+### DT R DT N DT <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="seq">DT R DT N DT</span></span>
 
 | Tartans |
 |---------------|
-| [Romanes Check (Fashion)](/setts/s5/dt2n21dt11r21dt1/)|
-|![Romanes Check (Fashion) example sett](/setts/s5/dt2n21dt11r21dt1/sett.png)|
+| [Romanes Check (Fashion)](/setts/s5/dt2n21dt11r21dt1~x2/)|
+|![Romanes Check (Fashion) example sett](/setts/s5/dt2n21dt11r21dt1~x2/sett.png)|
 
-### T DB DB R T <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">T DB DB R T</span></span>
+### T R DB DB T <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">T R DB DB T</span></span>
 
 | Tartans |
 |---------------|

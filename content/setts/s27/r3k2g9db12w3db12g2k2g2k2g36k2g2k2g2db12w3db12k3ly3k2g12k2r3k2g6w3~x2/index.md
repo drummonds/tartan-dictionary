@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [27 band tartan](/bands/bands27/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Cockburn #2
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/6 G12 K4 R6 K4 G24 K4 Y6 K6 B24 LN6 B24 G4 K4 G4 K4 G72 K4 G4 K4 G4 B24 LN6 B24 G18 K4 R/6
+R/6 K4 G18 B24 LN6 B24 G4 K4 G4 K4 G72 K4 G4 K4 G4 B24 LN6 B24 K6 Y6 K4 G24 K4 R6 K4 G12 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -906,19 +915,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Duncan of Sketraw Clan Tartan Tartan Number: 6497. Earliest known date: 2005 January A modified version of an unidentified tartan No. 331 from the 1930s. This new version is for John Duncan of Sketraw, and is approved by the Clan Duncan Society See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s32/k6g2k2g14k1ly2k1b5r1b5k1w2k1g14k1b2k1g14k1w2k1b5r1b5k1ly2k1g14k2g2k6r2~x2/) — ΔT 0.98
 1. [Unidentified (R.J.Forsyth)](/setts/s35/r2k6g2k2g14k1ly1r1k1r1k3b9k1ly2k1g11k1b2k1g11k1w2k1b9k1r1k1r1ly1k1g14k2g2k6r2~x2/) — ΔT 1.00
-1. [Hawick](/setts/s33/db2k4lo2k3w2k2g12r2g12db12r2db12k2w2k3lo2k4db4k4lo2k3w2k2g16r2g24r2g16k2w2k3lo2k2~x2/) — ΔT 1.04
-1. [Unidentified Plaid 14](/setts/s35/r8k31g8k8g56k3ly3r3k3r3k12db36k3ly8k3g44k2db6k2g44k3w8k3db36k12r3k3r3ly3k3g56k8g8k31r8~x2/) — ΔT 1.18
-1. [King George VI (Green Stewart)](/setts/s22/g42b3k8ly2k2w3k2g12r5k2r2w2r2k2r5g12k2w3k2ly2k8b3~x2/) — ΔT 1.18
-1. [Seller (Personal)](/setts/s22/g46k3db6ly2db3ly2db3g7r6db2r3w4r3db2r6g7db3ly2db3ly2db6k3~x2/) — ΔT 1.20
-1. [Duncan of Sketraw](/setts/s17/b2k1g14k1w2k1b5r1b5k1ly2k1g14k2g2k6r2~x2/) — ΔT 1.27
+1. [Hawick](/setts/s33/k2lo2k3w2k2g16r2g24r2g16k2w2k3lo2k4db4k4lo2k3w2k2db12r2db12g12r2g12k2w2k3lo2k4db2~x2/) — ΔT 1.04
+1. [Unidentified Plaid 14](/setts/s35/r8k31g8k8g56k3ly3r3k3r3k12db36k3w8k3g44k2db6k2g44k3ly8k3db36k12r3k3r3ly3k3g56k8g8k31r8~x2/) — ΔT 1.18
+1. [King George VI (Green Stewart)](/setts/s22/g42b3k8ly2k2w3k2g12r5k2r2w2~x2/) — ΔT 1.18
+1. [Seller (Personal)](/setts/s22/g46k3db6ly2db3ly2db3g7r6db2r3w4~x2/) — ΔT 1.20
+1. [Duncan of Sketraw](/setts/s17/r2k6g2k2g14k1ly2k1b5r1b5k1w2k1g14k1b2~x2/) — ΔT 1.27
 1. [Farquharson](/setts/s25/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22ly2g22k10db1k1db1k1db7~x2/) — ΔT 1.30
 1. [Cockburn #2](/setts/s27/r3k2dg9db12w3db12dg2k2dg2k2dg36k2dg2k2dg2db12w3db12k3ly3k2dg12k2r3k2dg6w3~x2/) — ΔT 1.34
 1. [Henry (2016)](/setts/s32/dg12ly1t1w1r2w1db1w1db4w1db1w1r2w1t1ly1dg12ly1dg1w1ly3w1db5w1ly3w1dg1ly1dg12ly1dg1ly1~x2/) — ΔT 1.37
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s32/k6g2k2g14k1ly2k1b5r1b5k1w2k1g14k1b2k1g14k1w2k1b5r1b5k1ly2k1g14k2g2k6r2~x2/"><circle cx="207.7" cy="85.1" r="4" fill="#3465a4"><title>Duncan of Sketraw Clan Tartan Tartan Number: 6497. Earliest known date: 2005 January A modified version of an unidentified tartan No. 331 from the 1930s. This new version is for John Duncan of Sketraw, and is approved by the Clan Duncan Society See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s35/r2k6g2k2g14k1ly1r1k1r1k3b9k1ly2k1g11k1b2k1g11k1w2k1b9k1r1k1r1ly1k1g14k2g2k6r2~x2/"><circle cx="187.3" cy="76.9" r="4" fill="#3465a4"><title>Unidentified (R.J.Forsyth)</title></circle></a><a href="/setts/s33/db2k4lo2k3w2k2g12r2g12db12r2db12k2w2k3lo2k4db4k4lo2k3w2k2g16r2g24r2g16k2w2k3lo2k2~x2/"><circle cx="174.1" cy="86.3" r="4" fill="#3465a4"><title>Hawick</title></circle></a><a href="/setts/s35/r8k31g8k8g56k3ly3r3k3r3k12db36k3ly8k3g44k2db6k2g44k3w8k3db36k12r3k3r3ly3k3g56k8g8k31r8~x2/"><circle cx="189.9" cy="39.0" r="4" fill="#3465a4"><title>Unidentified Plaid 14</title></circle></a><a href="/setts/s22/g42b3k8ly2k2w3k2g12r5k2r2w2r2k2r5g12k2w3k2ly2k8b3~x2/"><circle cx="253.6" cy="57.8" r="4" fill="#3465a4"><title>King George VI (Green Stewart)</title></circle></a><a href="/setts/s22/g46k3db6ly2db3ly2db3g7r6db2r3w4r3db2r6g7db3ly2db3ly2db6k3~x2/"><circle cx="235.0" cy="45.2" r="4" fill="#3465a4"><title>Seller (Personal)</title></circle></a><a href="/setts/s17/b2k1g14k1w2k1b5r1b5k1ly2k1g14k2g2k6r2~x2/"><circle cx="210.4" cy="109.9" r="4" fill="#3465a4"><title>Duncan of Sketraw</title></circle></a><a href="/setts/s25/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22ly2g22k10db1k1db1k1db7~x2/"><circle cx="205.0" cy="97.1" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/setts/s27/r3k2dg9db12w3db12dg2k2dg2k2dg36k2dg2k2dg2db12w3db12k3ly3k2dg12k2r3k2dg6w3~x2/"><circle cx="221.9" cy="82.3" r="4" fill="#3465a4"><title>Cockburn #2</title></circle></a><a href="/setts/s32/dg12ly1t1w1r2w1db1w1db4w1db1w1r2w1t1ly1dg12ly1dg1w1ly3w1db5w1ly3w1dg1ly1dg12ly1dg1ly1~x2/"><circle cx="176.0" cy="52.7" r="4" fill="#3465a4"><title>Henry (2016)</title></circle></a><circle cx="188.4" cy="65.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s32/k6g2k2g14k1ly2k1b5r1b5k1w2k1g14k1b2k1g14k1w2k1b5r1b5k1ly2k1g14k2g2k6r2~x2/"><circle cx="207.6" cy="85.2" r="4" fill="#3465a4"><title>Duncan of Sketraw Clan Tartan Tartan Number: 6497. Earliest known date: 2005 January A modified version of an unidentified tartan No. 331 from the 1930s. This new version is for John Duncan of Sketraw, and is approved by the Clan Duncan Society See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s35/r2k6g2k2g14k1ly1r1k1r1k3b9k1ly2k1g11k1b2k1g11k1w2k1b9k1r1k1r1ly1k1g14k2g2k6r2~x2/"><circle cx="187.1" cy="77.0" r="4" fill="#3465a4"><title>Unidentified (R.J.Forsyth)</title></circle></a><a href="/setts/s33/k2lo2k3w2k2g16r2g24r2g16k2w2k3lo2k4db4k4lo2k3w2k2db12r2db12g12r2g12k2w2k3lo2k4db2~x2/"><circle cx="174.0" cy="86.4" r="4" fill="#3465a4"><title>Hawick</title></circle></a><a href="/setts/s35/r8k31g8k8g56k3ly3r3k3r3k12db36k3w8k3g44k2db6k2g44k3ly8k3db36k12r3k3r3ly3k3g56k8g8k31r8~x2/"><circle cx="189.8" cy="39.1" r="4" fill="#3465a4"><title>Unidentified Plaid 14</title></circle></a><a href="/setts/s22/g42b3k8ly2k2w3k2g12r5k2r2w2~x2/"><circle cx="253.3" cy="57.9" r="4" fill="#3465a4"><title>King George VI (Green Stewart)</title></circle></a><a href="/setts/s22/g46k3db6ly2db3ly2db3g7r6db2r3w4~x2/"><circle cx="234.7" cy="45.3" r="4" fill="#3465a4"><title>Seller (Personal)</title></circle></a><a href="/setts/s17/r2k6g2k2g14k1ly2k1b5r1b5k1w2k1g14k1b2~x2/"><circle cx="210.3" cy="109.9" r="4" fill="#3465a4"><title>Duncan of Sketraw</title></circle></a><a href="/setts/s25/db21k1db1k1db1k10g22r2g22k10db16k1db2k1db16k10g22ly2g22k10db1k1db1k1db7~x2/"><circle cx="204.9" cy="97.1" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/setts/s27/r3k2dg9db12w3db12dg2k2dg2k2dg36k2dg2k2dg2db12w3db12k3ly3k2dg12k2r3k2dg6w3~x2/"><circle cx="221.8" cy="82.4" r="4" fill="#3465a4"><title>Cockburn #2</title></circle></a><a href="/setts/s32/dg12ly1t1w1r2w1db1w1db4w1db1w1r2w1t1ly1dg12ly1dg1w1ly3w1db5w1ly3w1dg1ly1dg12ly1dg1ly1~x2/"><circle cx="175.7" cy="52.8" r="4" fill="#3465a4"><title>Henry (2016)</title></circle></a><circle cx="188.2" cy="65.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s27/r3k2g9db12w3db12g2k2g2k2g36k2g2k2g2db12w3db12k3ly3k2g12k2r3k2g6w3~x2/

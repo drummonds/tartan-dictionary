@@ -2,7 +2,7 @@
 title: "Instakilt, Green (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [GWGKGKY](/stripes/gwgkgky/) · **Stripes:** [G W G K G K LO](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">G W G K G K LO</span></span>
+**Bands:** [YKGKGWG](/stripes/ykgkgwg/) · **Stripes:** [LO K G K G W G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO K G K G W G</span></span>
 
 
 This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/
 Original link http://www.tartansauthority.com/tartan-ferret/display/7551/
 
 ## Thread count
-DY/10 K30 G8 K24 G100 W8 G/16
+G/16 W8 G100 K24 G8 K30 DY/10
 ![Sett](sett.png)
 
 ## Palette
@@ -25,7 +25,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DY/10 K30 G8 K24 G100 W8 G/16 tartan")
+![Tartan detail](tartan.png "G/16 W8 G100 K24 G8 K30 DY/10 tartan")
 
 ## Nearest tartans
 
@@ -44,8 +44,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k3lb1g15g6k2dr3lb2~x2/"><circle cx="352.2" cy="180.0" r="4" fill="#3465a4"><title>Leach Hunting</title></circle></a><a href="/setts/s6/k3lb1g21k2dr3lb2~x2/"><circle cx="387.9" cy="154.2" r="4" fill="#3465a4"><title>Leach Htg (Name)</title></circle></a><a href="/setts/s7/g14ly7g14dg50g64w6g7/"><circle cx="337.2" cy="205.4" r="4" fill="#3465a4"><title>Freedom of Derry</title></circle></a><a href="/setts/s6/r8g12w5k11g42k3~x2/"><circle cx="374.0" cy="192.2" r="4" fill="#3465a4"><title>Sir Billi (Corporate)</title></circle></a><a href="/setts/s5/g37w9g3k9w3/"><circle cx="357.7" cy="203.7" r="4" fill="#3465a4"><title>Loch Rannoch</title></circle></a><a href="/setts/s6/w12k3g50w3k13lo6~x2/"><circle cx="309.9" cy="166.4" r="4" fill="#3465a4"><title>Limerick County Crest (Fashion)</title></circle></a><a href="/setts/s6/k5w4r15g70k4w5~x2/"><circle cx="406.7" cy="153.5" r="4" fill="#3465a4"><title>Tahrir - Liberation (Fashion)</title></circle></a><a href="/setts/s8/g4r1g15t5r1w5g4r1~x4/"><circle cx="353.7" cy="180.7" r="4" fill="#3465a4"><title>McGirr (Letterkenny) David, (Pers.)</title></circle></a><a href="/setts/s10/k3dg32k2dg4ly4dg2ly4dg4k6w3~x2/"><circle cx="377.9" cy="145.6" r="4" fill="#3465a4"><title>University of Alberta (Corporate)</title></circle></a><a href="/setts/s5/g19w5g2k5w2~x2/"><circle cx="333.3" cy="216.8" r="4" fill="#3465a4"><title>Loch Rannoch</title></circle></a><circle cx="338.9" cy="177.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k3lb1g15g6k2dr3lb2~x2/"><circle cx="351.9" cy="179.7" r="4" fill="#3465a4"><title>Leach Hunting</title></circle></a><a href="/setts/s6/k3lb1g21k2dr3lb2~x2/"><circle cx="387.5" cy="153.9" r="4" fill="#3465a4"><title>Leach Htg (Name)</title></circle></a><a href="/setts/s7/g14ly7g14dg50g64w6g7/"><circle cx="337.0" cy="205.1" r="4" fill="#3465a4"><title>Freedom of Derry</title></circle></a><a href="/setts/s6/r8g12w5k11g42k3~x2/"><circle cx="373.7" cy="191.9" r="4" fill="#3465a4"><title>Sir Billi (Corporate)</title></circle></a><a href="/setts/s5/g37w9g3k9w3/"><circle cx="357.5" cy="203.3" r="4" fill="#3465a4"><title>Loch Rannoch</title></circle></a><a href="/setts/s6/w12k3g50w3k13lo6~x2/"><circle cx="309.7" cy="166.2" r="4" fill="#3465a4"><title>Limerick County Crest (Fashion)</title></circle></a><a href="/setts/s6/k5w4r15g70k4w5~x2/"><circle cx="406.3" cy="153.2" r="4" fill="#3465a4"><title>Tahrir - Liberation (Fashion)</title></circle></a><a href="/setts/s8/g4r1g15t5r1w5g4r1~x4/"><circle cx="353.4" cy="180.5" r="4" fill="#3465a4"><title>McGirr (Letterkenny) David, (Pers.)</title></circle></a><a href="/setts/s10/k3dg32k2dg4ly4dg2ly4dg4k6w3~x2/"><circle cx="377.7" cy="145.4" r="4" fill="#3465a4"><title>University of Alberta (Corporate)</title></circle></a><a href="/setts/s5/g19w5g2k5w2~x2/"><circle cx="333.1" cy="216.4" r="4" fill="#3465a4"><title>Loch Rannoch</title></circle></a><circle cx="338.6" cy="176.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/g8w4g50k12g4k15lo5~x2/

@@ -8,11 +8,5 @@ A family of [Clan Craik](/clan/craik/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s8/db4r11db1g8r2g4k1lo2~x4/"><img src="/setts/s8/db4r11db1g8r2g4k1lo2~x4/sett.png" alt="Craik of Assington (Personal)" width="240"><br>Craik of Assington (Personal)</a>
-
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s8/db4r11db1g8r2g4k1ly2~x4/"><img src="/setts/s8/db4r11db1g8r2g4k1ly2~x4/sett.png" alt="Craik, of Assington" width="140"><br>Craik, of Assington</a></li>
-</ul>
+<a class="tartan" href="/setts/s8/db4r11db1g8r2g4k1ly2~x4/"><img src="/setts/s8/db4r11db1g8r2g4k1ly2~x4/sett.png" alt="Craik, of Assington" width="240"><br>Craik, of Assington</a>
 

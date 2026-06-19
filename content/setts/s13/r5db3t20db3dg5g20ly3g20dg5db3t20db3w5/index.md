@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7040
 
 ## Thread count
-LN/5 DBb3 B20 DBb3 DG5 G20 Y3 G20 DG5 DBb3 B20 DBb3 R/5
+R/5 DBb3 B20 DBb3 DG5 G20 Y3 G20 DG5 DBb3 B20 DBb3 LN/5
 ![Sett](sett.png)
 
 ## Palette
@@ -49,21 +49,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [McCulloch (Personal)](/setts/s15/t6db1t1db1t3lr1w1r1w1lr1y3k1y1k1y6~x4/) — ΔT 1.21
+1. [McCulloch (Personal)](/setts/s15/y6k1y1k1y3lr1w1r1w1lr1t3db1t1db1t6~x4/) — ΔT 1.21
 1. [Kentucky, State of](/setts/s12/g13db11w2lb4r3ly3r3lb4w2db11g13k2~x2/) — ΔT 1.33
-1. [Stirling](/setts/s16/lr2b20lr2k13lr2g20k2lb4k2g20lr2k13lr2b20lr2r2~x2/) — ΔT 1.38
-1. [WestJet](/setts/s9/lg3dt3ly3dt15g3dt5lg20lb6ly3~x2/) — ΔT 1.38
+1. [Stirling](/setts/s16/r2lr2b20lr2k13lr2g20k2lb4k2g20lr2k13lr2b20lr2~x2/) — ΔT 1.38
+1. [WestJet](/setts/s9/ly3lb6lg20dt5g3dt15ly3dt3lg3~x2/) — ΔT 1.38
 1. [Copar a'Beannichte Dress (Personal)](/setts/s10/g6g20g6w15dt5w2dt15o4dt10r2~x2/) — ΔT 1.48
 1. [Down County Crest (Fashion)](/setts/s12/lo8k3r6k2g20db4g2db4g5lb4db3w3~x2/) — ΔT 1.48
-1. [McCulloch (Military Colours)](/setts/s15/b6db1b1db1b3lr1lb1r1lb1lr1dg3k1dg1k1dg6~x4/) — ΔT 1.54
+1. [McCulloch (Military Colours)](/setts/s15/dg6k1dg1k1dg3lr1lb1r1lb1lr1b3db1b1db1b6~x4/) — ΔT 1.55
 1. [Glendale](/setts/s10/dy5w1dy5w1g6ly1k1ly1lb8r1~x4/) — ΔT 1.57
-1. [Scottish Heritage USA (SHUSA) (Corp)](/setts/s15/g3m2g14k6g4w2t14r2t14w2g4k6g14r2g3~x2/) — ΔT 1.57
+1. [Scottish Heritage USA (SHUSA) (Corp)](/setts/s15/g3r2g14k6g4w2t14r2t14w2g4k6g14m2g3~x2/) — ΔT 1.57
 1. [Stirling (Clan)](/setts/s9/lb4k2g20lr2k13lr2b20lr2r2~x2/) — ΔT 1.58
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/t6db1t1db1t3lr1w1r1w1lr1y3k1y1k1y6~x4/"><circle cx="93.1" cy="140.9" r="4" fill="#3465a4"><title>McCulloch (Personal)</title></circle></a><a href="/setts/s12/g13db11w2lb4r3ly3r3lb4w2db11g13k2~x2/"><circle cx="68.1" cy="146.9" r="4" fill="#3465a4"><title>Kentucky, State of</title></circle></a><a href="/setts/s16/lr2b20lr2k13lr2g20k2lb4k2g20lr2k13lr2b20lr2r2~x2/"><circle cx="99.0" cy="124.6" r="4" fill="#3465a4"><title>Stirling</title></circle></a><a href="/setts/s9/lg3dt3ly3dt15g3dt5lg20lb6ly3~x2/"><circle cx="122.6" cy="167.4" r="4" fill="#3465a4"><title>WestJet</title></circle></a><a href="/setts/s10/g6g20g6w15dt5w2dt15o4dt10r2~x2/"><circle cx="91.2" cy="163.4" r="4" fill="#3465a4"><title>Copar a'Beannichte Dress (Personal)</title></circle></a><a href="/setts/s12/lo8k3r6k2g20db4g2db4g5lb4db3w3~x2/"><circle cx="120.3" cy="126.5" r="4" fill="#3465a4"><title>Down County Crest (Fashion)</title></circle></a><a href="/setts/s15/b6db1b1db1b3lr1lb1r1lb1lr1dg3k1dg1k1dg6~x4/"><circle cx="93.8" cy="146.2" r="4" fill="#3465a4"><title>McCulloch (Military Colours)</title></circle></a><a href="/setts/s10/dy5w1dy5w1g6ly1k1ly1lb8r1~x4/"><circle cx="71.5" cy="131.6" r="4" fill="#3465a4"><title>Glendale</title></circle></a><a href="/setts/s15/g3m2g14k6g4w2t14r2t14w2g4k6g14r2g3~x2/"><circle cx="162.6" cy="162.8" r="4" fill="#3465a4"><title>Scottish Heritage USA (SHUSA) (Corp)</title></circle></a><a href="/setts/s9/lb4k2g20lr2k13lr2b20lr2r2~x2/"><circle cx="100.0" cy="143.4" r="4" fill="#3465a4"><title>Stirling (Clan)</title></circle></a><circle cx="82.4" cy="144.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/y6k1y1k1y3lr1w1r1w1lr1t3db1t1db1t6~x4/"><circle cx="93.1" cy="141.1" r="4" fill="#3465a4"><title>McCulloch (Personal)</title></circle></a><a href="/setts/s12/g13db11w2lb4r3ly3r3lb4w2db11g13k2~x2/"><circle cx="68.2" cy="147.1" r="4" fill="#3465a4"><title>Kentucky, State of</title></circle></a><a href="/setts/s16/r2lr2b20lr2k13lr2g20k2lb4k2g20lr2k13lr2b20lr2~x2/"><circle cx="99.0" cy="124.7" r="4" fill="#3465a4"><title>Stirling</title></circle></a><a href="/setts/s9/ly3lb6lg20dt5g3dt15ly3dt3lg3~x2/"><circle cx="122.5" cy="167.5" r="4" fill="#3465a4"><title>WestJet</title></circle></a><a href="/setts/s10/g6g20g6w15dt5w2dt15o4dt10r2~x2/"><circle cx="91.2" cy="163.5" r="4" fill="#3465a4"><title>Copar a'Beannichte Dress (Personal)</title></circle></a><a href="/setts/s12/lo8k3r6k2g20db4g2db4g5lb4db3w3~x2/"><circle cx="120.3" cy="126.7" r="4" fill="#3465a4"><title>Down County Crest (Fashion)</title></circle></a><a href="/setts/s15/dg6k1dg1k1dg3lr1lb1r1lb1lr1b3db1b1db1b6~x4/"><circle cx="93.9" cy="146.4" r="4" fill="#3465a4"><title>McCulloch (Military Colours)</title></circle></a><a href="/setts/s10/dy5w1dy5w1g6ly1k1ly1lb8r1~x4/"><circle cx="71.4" cy="131.7" r="4" fill="#3465a4"><title>Glendale</title></circle></a><a href="/setts/s15/g3r2g14k6g4w2t14r2t14w2g4k6g14m2g3~x2/"><circle cx="162.5" cy="162.9" r="4" fill="#3465a4"><title>Scottish Heritage USA (SHUSA) (Corp)</title></circle></a><a href="/setts/s9/lb4k2g20lr2k13lr2b20lr2r2~x2/"><circle cx="100.0" cy="143.5" r="4" fill="#3465a4"><title>Stirling (Clan)</title></circle></a><circle cx="82.4" cy="145.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r5db3t20db3dg5g20ly3g20dg5db3t20db3w5/

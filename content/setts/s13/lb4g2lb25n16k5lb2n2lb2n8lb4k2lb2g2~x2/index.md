@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-G/4 Na4 K4 Na8 N16 Na4 N4 Na4 K10 N32 Na50 G4 Na/8
+Na/8 G4 Na50 N32 K10 Na4 N4 Na4 N16 Na8 K4 Na4 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -922,8 +925,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2/"><circle cx="274.2" cy="134.7" r="4" fill="#3465a4"><title>Balmoral (Jack Allen)</title></circle></a><a href="/setts/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/"><circle cx="278.5" cy="132.8" r="4" fill="#3465a4"><title>Balmoral Gillies (Royal)</title></circle></a><a href="/setts/s13/lb9r5lb47n13k11lb5n5lb5n21lb11k5lb5r5/"><circle cx="253.5" cy="143.1" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s13/w12dg2o2w5dg31w5dg2ly5dg2w11dg2o2w2~x2/"><circle cx="250.2" cy="112.6" r="4" fill="#3465a4"><title>Veron</title></circle></a><a href="/setts/s12/lb12r6lb60n16k23n22lb6k6lb6n8r6n8~x2/"><circle cx="219.1" cy="148.5" r="4" fill="#3465a4"><title>Balmoral Variant (Corporate)</title></circle></a><a href="/setts/s10/k9lb4k2lb4k2lb30k9lb4b14lo2~x2/"><circle cx="252.8" cy="131.4" r="4" fill="#3465a4"><title>Hannay (Clan)</title></circle></a><a href="/setts/s11/ly5lb36o5lb5o56k5o8k5o5k34ly5/"><circle cx="210.1" cy="142.8" r="4" fill="#3465a4"><title>Chartered Institute of Bankers in Scotland</title></circle></a><a href="/setts/s13/lb5g3lb24n7k6lb3n3lb3n11lb6k3lb3g3~x2/"><circle cx="248.0" cy="163.3" r="4" fill="#3465a4"><title>Balmoral (Green) (Royal)</title></circle></a><a href="/setts/s12/k4w2k9k3r3w3r3w23k10w2k6w2~x2/"><circle cx="212.1" cy="137.2" r="4" fill="#3465a4"><title>Auld Lang Syne, Grey (Fashion)</title></circle></a><a href="/setts/s10/k9w4k2w4k2w30k9w4db14ly2~x2/"><circle cx="243.3" cy="131.1" r="4" fill="#3465a4"><title>Hannay</title></circle></a><circle cx="258.7" cy="128.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2/"><circle cx="273.8" cy="134.5" r="4" fill="#3465a4"><title>Balmoral (Jack Allen)</title></circle></a><a href="/setts/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/"><circle cx="278.1" cy="132.6" r="4" fill="#3465a4"><title>Balmoral Gillies (Royal)</title></circle></a><a href="/setts/s13/lb9r5lb47n13k11lb5n5lb5n21lb11k5lb5r5/"><circle cx="253.1" cy="142.9" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s13/w12dg2o2w5dg31w5dg2ly5dg2w11dg2o2w2~x2/"><circle cx="249.9" cy="112.4" r="4" fill="#3465a4"><title>Veron</title></circle></a><a href="/setts/s12/lb12r6lb60n16k23n22lb6k6lb6n8r6n8~x2/"><circle cx="218.8" cy="148.4" r="4" fill="#3465a4"><title>Balmoral Variant (Corporate)</title></circle></a><a href="/setts/s10/k9lb4k2lb4k2lb30k9lb4b14lo2~x2/"><circle cx="252.5" cy="131.2" r="4" fill="#3465a4"><title>Hannay (Clan)</title></circle></a><a href="/setts/s11/ly5lb36o5lb5o56k5o8k5o5k34ly5/"><circle cx="209.9" cy="142.7" r="4" fill="#3465a4"><title>Chartered Institute of Bankers in Scotland</title></circle></a><a href="/setts/s13/lb5g3lb24n7k6lb3n3lb3n11lb6k3lb3g3~x2/"><circle cx="247.6" cy="163.2" r="4" fill="#3465a4"><title>Balmoral (Green) (Royal)</title></circle></a><a href="/setts/s12/k4w2k9k3r3w3r3w23k10w2k6w2~x2/"><circle cx="211.9" cy="137.1" r="4" fill="#3465a4"><title>Auld Lang Syne, Grey (Fashion)</title></circle></a><a href="/setts/s10/k9w4k2w4k2w30k9w4db14ly2~x2/"><circle cx="243.1" cy="130.9" r="4" fill="#3465a4"><title>Hannay</title></circle></a><circle cx="258.4" cy="128.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/lb4g2lb25n16k5lb2n2lb2n8lb4k2lb2g2~x2/

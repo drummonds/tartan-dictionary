@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2401
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacDougall #8
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -38,17 +44,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Virginia Tech (Corporate)](/setts/s10/r6lo2r36lo18r2lo4r2lo6w3db4~x2/) — ΔT 0.95
 1. [Virginia Tech](/setts/s10/r6lo2r32lo15r2lo3r2lo6w3db4~x2/) — ΔT 0.97
 1. [MacDonell of Keppoch](/setts/s10/dg2r2db1r24t1db6r3dg12r4db1~x2/) — ΔT 1.02
-1. [Chisholm D](/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1~x2/) — ΔT 1.12
+1. [Chisholm D](/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1/) — ΔT 1.12
 1. [Buccleuch](/setts/s7/r107k9r5dp41r5g51r14/) — ΔT 1.12
 1. [MacDougal 4](/setts/s11/p4g8db6p8r6g2r2g2r24g1r3~x2/) — ΔT 1.16
 1. [Griffiths (Welsh Name)](/setts/s11/lo4r37db17r4db8r6do2r5db2r3lo4/) — ΔT 1.19
 1. [Cameron of Locheil](/setts/s13/db4r1db1r18db10r1dg1r6dg10r6w1r4db1~x2/) — ΔT 1.21
-1. [Morgan (Welsh Name)](/setts/s11/r4r34do20r4do8r6ly2r5do2r3r4/) — ΔT 1.23
+1. [Morgan (Welsh Name)](/setts/s11/r4r34do20r4do8r6ly2r5do2r3r4/) — ΔT 1.22
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r4g8k6r8r6g2r2g2r24g1r3~x2/"><circle cx="360.0" cy="127.5" r="4" fill="#3465a4"><title>MacDougal 3</title></circle></a><a href="/setts/s10/r6lo2r36lo18r2lo4r2lo6w3db4~x2/"><circle cx="377.9" cy="132.2" r="4" fill="#3465a4"><title>Virginia Tech (Corporate)</title></circle></a><a href="/setts/s10/r6lo2r32lo15r2lo3r2lo6w3db4~x2/"><circle cx="370.3" cy="138.1" r="4" fill="#3465a4"><title>Virginia Tech</title></circle></a><a href="/setts/s10/dg2r2db1r24t1db6r3dg12r4db1~x2/"><circle cx="400.9" cy="130.6" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1~x2/"><circle cx="373.5" cy="125.6" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/setts/s7/r107k9r5dp41r5g51r14/"><circle cx="364.3" cy="153.1" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/setts/s11/p4g8db6p8r6g2r2g2r24g1r3~x2/"><circle cx="343.2" cy="137.3" r="4" fill="#3465a4"><title>MacDougal 4</title></circle></a><a href="/setts/s11/lo4r37db17r4db8r6do2r5db2r3lo4/"><circle cx="390.2" cy="132.3" r="4" fill="#3465a4"><title>Griffiths (Welsh Name)</title></circle></a><a href="/setts/s13/db4r1db1r18db10r1dg1r6dg10r6w1r4db1~x2/"><circle cx="337.9" cy="133.8" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s11/r4r34do20r4do8r6ly2r5do2r3r4/"><circle cx="401.8" cy="152.1" r="4" fill="#3465a4"><title>Morgan (Welsh Name)</title></circle></a><circle cx="377.2" cy="131.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r4g8k6r8r6g2r2g2r24g1r3~x2/"><circle cx="359.6" cy="127.4" r="4" fill="#3465a4"><title>MacDougal 3</title></circle></a><a href="/setts/s10/r6lo2r36lo18r2lo4r2lo6w3db4~x2/"><circle cx="377.4" cy="132.1" r="4" fill="#3465a4"><title>Virginia Tech (Corporate)</title></circle></a><a href="/setts/s10/r6lo2r32lo15r2lo3r2lo6w3db4~x2/"><circle cx="369.8" cy="138.0" r="4" fill="#3465a4"><title>Virginia Tech</title></circle></a><a href="/setts/s10/dg2r2db1r24t1db6r3dg12r4db1~x2/"><circle cx="400.5" cy="130.5" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1/"><circle cx="373.1" cy="125.5" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/setts/s7/r107k9r5dp41r5g51r14/"><circle cx="363.9" cy="153.0" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/setts/s11/p4g8db6p8r6g2r2g2r24g1r3~x2/"><circle cx="342.9" cy="137.3" r="4" fill="#3465a4"><title>MacDougal 4</title></circle></a><a href="/setts/s11/lo4r37db17r4db8r6do2r5db2r3lo4/"><circle cx="389.8" cy="132.2" r="4" fill="#3465a4"><title>Griffiths (Welsh Name)</title></circle></a><a href="/setts/s13/db4r1db1r18db10r1dg1r6dg10r6w1r4db1~x2/"><circle cx="337.4" cy="133.8" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s11/r4r34do20r4do8r6ly2r5do2r3r4/"><circle cx="401.3" cy="152.1" r="4" fill="#3465a4"><title>Morgan (Welsh Name)</title></circle></a><circle cx="376.7" cy="131.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/r4dg8k6r8r6dg2r2dg2r24dg1r3~x2/

@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -924,8 +927,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/t3y1k1r12r1dg9r1y1t3~x2/"><circle cx="187.5" cy="131.6" r="4" fill="#3465a4"><title>Murray of Abercairney (Personal)</title></circle></a><a href="/setts/s9/t3y1k1r12r1g9r1y1t3~x2/"><circle cx="184.0" cy="132.1" r="4" fill="#3465a4"><title>Murray of Abercairney</title></circle></a><a href="/setts/s11/w1t3db2r18r2g16r2r2r2t3w1~x2/"><circle cx="209.0" cy="102.7" r="4" fill="#3465a4"><title>Moray of Abercairny</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/"><circle cx="178.8" cy="101.3" r="4" fill="#3465a4"><title>Maclean of Duart (Wilsons) (Clan)</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/"><circle cx="161.2" cy="101.1" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><a href="/setts/s12/db8g2k2lo2k2ly2k2g18r2g2r29k3~x2/"><circle cx="214.7" cy="95.0" r="4" fill="#3465a4"><title>Cats (Fashion)</title></circle></a><a href="/setts/s10/db4ly3db17g6w2dr6w2r24dr3r4~x2/"><circle cx="176.6" cy="126.2" r="4" fill="#3465a4"><title>Asman Family</title></circle></a><a href="/setts/s7/r3k20w2dy11o21ly2o2~x2/"><circle cx="167.3" cy="156.0" r="4" fill="#3465a4"><title>Barbour</title></circle></a><a href="/setts/s10/g6k2g3k2g6db8r20ly2r3g2~x2/"><circle cx="210.1" cy="153.7" r="4" fill="#3465a4"><title>Connolly Dress (Name)</title></circle></a><a href="/setts/s7/r30db12k3g12ly2g3w2~x2/"><circle cx="231.2" cy="129.5" r="4" fill="#3465a4"><title>Hewitt (Name)</title></circle></a><circle cx="196.9" cy="131.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/t3y1k1r12r1dg9r1y1t3~x2/"><circle cx="187.3" cy="131.7" r="4" fill="#3465a4"><title>Murray of Abercairney (Personal)</title></circle></a><a href="/setts/s9/t3y1k1r12r1g9r1y1t3~x2/"><circle cx="183.8" cy="132.2" r="4" fill="#3465a4"><title>Murray of Abercairney</title></circle></a><a href="/setts/s11/w1t3db2r18r2g16r2r2r2t3w1~x2/"><circle cx="208.8" cy="102.8" r="4" fill="#3465a4"><title>Moray of Abercairny</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/"><circle cx="178.6" cy="101.4" r="4" fill="#3465a4"><title>Maclean of Duart (Wilsons) (Clan)</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/"><circle cx="161.0" cy="101.2" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><a href="/setts/s12/db8g2k2lo2k2ly2k2g18r2g2r29k3~x2/"><circle cx="214.5" cy="95.1" r="4" fill="#3465a4"><title>Cats (Fashion)</title></circle></a><a href="/setts/s10/db4ly3db17g6w2dr6w2r24dr3r4~x2/"><circle cx="176.5" cy="126.3" r="4" fill="#3465a4"><title>Asman Family</title></circle></a><a href="/setts/s7/r3k20w2dy11o21ly2o2~x2/"><circle cx="167.3" cy="156.1" r="4" fill="#3465a4"><title>Barbour</title></circle></a><a href="/setts/s10/g6k2g3k2g6db8r20ly2r3g2~x2/"><circle cx="209.9" cy="153.8" r="4" fill="#3465a4"><title>Connolly Dress (Name)</title></circle></a><a href="/setts/s7/r30db12k3g12ly2g3w2~x2/"><circle cx="231.0" cy="129.6" r="4" fill="#3465a4"><title>Hewitt (Name)</title></circle></a><circle cx="196.7" cy="131.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/db3t1k1r12r1g9r1t1db3~x4/

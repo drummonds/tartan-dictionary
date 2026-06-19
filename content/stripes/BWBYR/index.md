@@ -21,14 +21,14 @@ BWBYR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### B W B LY R <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">B W B LY R</span></span>
+### R LY B W B <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R LY B W B</span></span>
 
 | Tartans |
 |---------------|
 | [MacLeod of Argentina](/setts/s5/b10w3b12ly14r4~x2/)|
 |![MacLeod of Argentina example sett](/setts/s5/b10w3b12ly14r4~x2/sett.png)|
 
-### DB W DB LY R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB W DB LY R</span></span>
+### R LY DB W DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R LY DB W DB</span></span>
 
 | Tartans |
 |---------------|

@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7527
 
 ## Thread count
-LN/6 DB50 P42 N6 G42 R4 G4 DB8 N2 P/6
+P/6 N2 DB8 G4 R4 G42 N6 P42 DB50 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -47,17 +47,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Lang of Sherbrooke (Personal)](/setts/s11/g10ly2k2g2k13g2k2g1dp13db24w2~x2/) — ΔT 0.78
 1. [Pride of Scotland](/setts/s11/g9m2m2g3m18g2k2g1k19db33w2~x2/) — ΔT 0.81
 1. [Caisteal Leòdhais](/setts/s10/y4t3y18dt14y2dt2dp18lo1dp2lo3~x2/) — ΔT 0.82
-1. [Yule (Name)](/setts/s9/ly1t3dp14w2db22w2g14ly3t1~x2/) — ΔT 1.01
+1. [Yule (Name)](/setts/s9/t1ly3g14w2db22w2dp14t3ly1~x2/) — ΔT 1.01
 1. [Spirit of Bannockburn (Fashion)](/setts/s13/k2dp4m4dp3g20dp5k4dp3k7dp3k3db35w2~x2/) — ΔT 1.05
 1. [Beauly Firth and Glens](/setts/s8/dp3n3dp3n27w1t15k22r3~x2/) — ΔT 1.09
 1. [Smithsonian (Corporate)](/setts/s11/db2w2y24k24ly1r2y2r2ly1db24y2~x2/) — ΔT 1.15
 1. [Ancient Gathering](/setts/s8/db1t12m6w1lo3db14dt18w1~x2/) — ΔT 1.18
-1. [George Heriot's School](/setts/s7/ly3k1o24db10db24k1w3~x2/) — ΔT 1.20
+1. [George Heriot's School](/setts/s7/w3k1db24db10o24k1ly3~x2/) — ΔT 1.20
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g10ly2dp2g2dp13g2dp2g1k13db24w2~x2/"><circle cx="176.2" cy="112.3" r="4" fill="#3465a4"><title>Lang of Sherbrooke (Personal)</title></circle></a><a href="/setts/s11/g10ly2k2g2k13g2k2g1dp13db24w2~x2/"><circle cx="173.6" cy="112.8" r="4" fill="#3465a4"><title>Lang of Sherbrooke (Personal)</title></circle></a><a href="/setts/s11/g9m2m2g3m18g2k2g1k19db33w2~x2/"><circle cx="212.7" cy="95.7" r="4" fill="#3465a4"><title>Pride of Scotland</title></circle></a><a href="/setts/s10/y4t3y18dt14y2dt2dp18lo1dp2lo3~x2/"><circle cx="188.2" cy="137.3" r="4" fill="#3465a4"><title>Caisteal Leòdhais</title></circle></a><a href="/setts/s9/ly1t3dp14w2db22w2g14ly3t1~x2/"><circle cx="166.4" cy="111.9" r="4" fill="#3465a4"><title>Yule (Name)</title></circle></a><a href="/setts/s13/k2dp4m4dp3g20dp5k4dp3k7dp3k3db35w2~x2/"><circle cx="193.0" cy="108.9" r="4" fill="#3465a4"><title>Spirit of Bannockburn (Fashion)</title></circle></a><a href="/setts/s8/dp3n3dp3n27w1t15k22r3~x2/"><circle cx="233.9" cy="138.4" r="4" fill="#3465a4"><title>Beauly Firth and Glens</title></circle></a><a href="/setts/s11/db2w2y24k24ly1r2y2r2ly1db24y2~x2/"><circle cx="207.6" cy="108.5" r="4" fill="#3465a4"><title>Smithsonian (Corporate)</title></circle></a><a href="/setts/s8/db1t12m6w1lo3db14dt18w1~x2/"><circle cx="148.1" cy="144.4" r="4" fill="#3465a4"><title>Ancient Gathering</title></circle></a><a href="/setts/s7/ly3k1o24db10db24k1w3~x2/"><circle cx="196.6" cy="125.4" r="4" fill="#3465a4"><title>George Heriot's School</title></circle></a><circle cx="204.5" cy="116.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g10ly2dp2g2dp13g2dp2g1k13db24w2~x2/"><circle cx="176.2" cy="112.5" r="4" fill="#3465a4"><title>Lang of Sherbrooke (Personal)</title></circle></a><a href="/setts/s11/g10ly2k2g2k13g2k2g1dp13db24w2~x2/"><circle cx="173.6" cy="113.0" r="4" fill="#3465a4"><title>Lang of Sherbrooke (Personal)</title></circle></a><a href="/setts/s11/g9m2m2g3m18g2k2g1k19db33w2~x2/"><circle cx="212.7" cy="95.9" r="4" fill="#3465a4"><title>Pride of Scotland</title></circle></a><a href="/setts/s10/y4t3y18dt14y2dt2dp18lo1dp2lo3~x2/"><circle cx="188.2" cy="137.5" r="4" fill="#3465a4"><title>Caisteal Leòdhais</title></circle></a><a href="/setts/s9/t1ly3g14w2db22w2dp14t3ly1~x2/"><circle cx="166.4" cy="112.0" r="4" fill="#3465a4"><title>Yule (Name)</title></circle></a><a href="/setts/s13/k2dp4m4dp3g20dp5k4dp3k7dp3k3db35w2~x2/"><circle cx="193.1" cy="109.1" r="4" fill="#3465a4"><title>Spirit of Bannockburn (Fashion)</title></circle></a><a href="/setts/s8/dp3n3dp3n27w1t15k22r3~x2/"><circle cx="233.9" cy="138.6" r="4" fill="#3465a4"><title>Beauly Firth and Glens</title></circle></a><a href="/setts/s11/db2w2y24k24ly1r2y2r2ly1db24y2~x2/"><circle cx="207.6" cy="108.7" r="4" fill="#3465a4"><title>Smithsonian (Corporate)</title></circle></a><a href="/setts/s8/db1t12m6w1lo3db14dt18w1~x2/"><circle cx="148.2" cy="144.6" r="4" fill="#3465a4"><title>Ancient Gathering</title></circle></a><a href="/setts/s7/w3k1db24db10o24k1ly3~x2/"><circle cx="196.6" cy="125.5" r="4" fill="#3465a4"><title>George Heriot's School</title></circle></a><circle cx="204.5" cy="116.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/dp3o1db4g2r2g21o3dp21db25w3~x2/

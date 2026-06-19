@@ -20,7 +20,7 @@ BYKWKY
 
 
 
-### B LR K W K LR <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">B LR K W K LR</span></span>
+### LR K W K LR B <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LR K W K LR B</span></span>
 
 | Tartans |
 |---------------|

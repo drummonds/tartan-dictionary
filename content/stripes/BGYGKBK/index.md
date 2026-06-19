@@ -20,7 +20,7 @@ BGYGKBK
 
 
 
-### DB DG LR DG K DB K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">DB DG LR DG K DB K</span></span>
+### K DB K DG LR DG DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DG LR DG DB</span></span>
 
 | Tartans |
 |---------------|

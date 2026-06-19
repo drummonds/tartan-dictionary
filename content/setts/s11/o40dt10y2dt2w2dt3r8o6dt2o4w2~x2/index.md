@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5851
 
 ## Thread count
-LN/4 LT8 K4 LT12 DR16 K6 LN4 K4 LG4 K20 LT/80
+LT/80 K20 LG4 K4 LN4 K6 DR16 LT12 K4 LT8 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -51,12 +51,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Cavalier, Green](/setts/s11/y40dt10o2dt2w2dt3r8y6dt2y4w2~x2/) — ΔT 1.27
 1. [Chisholm](/setts/s10/r6w1r24db6g2k1g2k1g12r1~x2/) — ΔT 1.31
 1. [Rattray](/setts/s9/g71k4r4dp9r4dp4r36dp4w4/) — ΔT 1.33
-1. [Cavalier, Blue](/setts/s11/y40dt10o2dt2w2dt3y8y6dt2y4w2~x2/) — ΔT 1.34
+1. [Cavalier, Blue](/setts/s11/y40dt10o2dt2w2dt3y8y6dt2y4w2~x2/) — ΔT 1.33
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/o40dt10y2dt2w2dt3y8o6dt2o4w2~x2/"><circle cx="373.3" cy="108.4" r="4" fill="#3465a4"><title>Cavalier, Brown</title></circle></a><a href="/setts/s14/o4r2o24db2o1db2o4db2o1db2o8k1db16w4~x2/"><circle cx="350.8" cy="96.3" r="4" fill="#3465a4"><title>New Jersey</title></circle></a><a href="/setts/s8/lo3y40db12lo3k2lb4k2lo3~x2/"><circle cx="357.1" cy="126.1" r="4" fill="#3465a4"><title>Tunes of Glory (Film)</title></circle></a><a href="/setts/s12/o19dy2do3w1do1w1do1dy6o3do1o3w1~x4/"><circle cx="363.7" cy="120.9" r="4" fill="#3465a4"><title>Glen Moy #2</title></circle></a><a href="/setts/s11/k3y3ly2y30k2y3m12y6m6k3y3~x2/"><circle cx="353.0" cy="136.7" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><a href="/setts/s10/lb6r5lb9db2b3db2o36r2o4r2~x2/"><circle cx="330.3" cy="104.8" r="4" fill="#3465a4"><title>Outpost Club</title></circle></a><a href="/setts/s11/y40dt10o2dt2w2dt3r8y6dt2y4w2~x2/"><circle cx="388.2" cy="122.7" r="4" fill="#3465a4"><title>Cavalier, Green</title></circle></a><a href="/setts/s10/r6w1r24db6g2k1g2k1g12r1~x2/"><circle cx="336.0" cy="104.5" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s9/g71k4r4dp9r4dp4r36dp4w4/"><circle cx="307.4" cy="118.2" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/setts/s11/y40dt10o2dt2w2dt3y8y6dt2y4w2~x2/"><circle cx="361.9" cy="110.6" r="4" fill="#3465a4"><title>Cavalier, Blue</title></circle></a><circle cx="371.2" cy="103.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/o40dt10y2dt2w2dt3y8o6dt2o4w2~x2/"><circle cx="372.9" cy="108.3" r="4" fill="#3465a4"><title>Cavalier, Brown</title></circle></a><a href="/setts/s14/o4r2o24db2o1db2o4db2o1db2o8k1db16w4~x2/"><circle cx="350.4" cy="96.2" r="4" fill="#3465a4"><title>New Jersey</title></circle></a><a href="/setts/s8/lo3y40db12lo3k2lb4k2lo3~x2/"><circle cx="356.8" cy="126.1" r="4" fill="#3465a4"><title>Tunes of Glory (Film)</title></circle></a><a href="/setts/s12/o19dy2do3w1do1w1do1dy6o3do1o3w1~x4/"><circle cx="363.3" cy="120.8" r="4" fill="#3465a4"><title>Glen Moy #2</title></circle></a><a href="/setts/s11/k3y3ly2y30k2y3m12y6m6k3y3~x2/"><circle cx="352.6" cy="136.6" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><a href="/setts/s10/lb6r5lb9db2b3db2o36r2o4r2~x2/"><circle cx="329.8" cy="104.7" r="4" fill="#3465a4"><title>Outpost Club</title></circle></a><a href="/setts/s11/y40dt10o2dt2w2dt3r8y6dt2y4w2~x2/"><circle cx="387.8" cy="122.6" r="4" fill="#3465a4"><title>Cavalier, Green</title></circle></a><a href="/setts/s10/r6w1r24db6g2k1g2k1g12r1~x2/"><circle cx="335.6" cy="104.4" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s9/g71k4r4dp9r4dp4r36dp4w4/"><circle cx="307.1" cy="118.2" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/setts/s11/y40dt10o2dt2w2dt3y8y6dt2y4w2~x2/"><circle cx="361.6" cy="110.4" r="4" fill="#3465a4"><title>Cavalier, Blue</title></circle></a><circle cx="370.8" cy="103.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/o40dt10y2dt2w2dt3r8o6dt2o4w2~x2/

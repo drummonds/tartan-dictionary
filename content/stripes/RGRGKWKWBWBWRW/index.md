@@ -22,6 +22,6 @@ RGRGKWKWBWBWRW
 
 | Tartans |
 |---------------|
-| [Redgate in Connecticut (Ulster-Scots)](/setts/s14/lb6r3lb11do2lb3do2lb3k10w1k10dg9r2dg4r6~x2/)|
-|![Redgate in Connecticut (Ulster-Scots) example sett](/setts/s14/lb6r3lb11do2lb3do2lb3k10w1k10dg9r2dg4r6~x2/sett.png)|
+| [Redgate in Connecticut (Ulster-Scots)](/setts/s14/r6dg4r2dg9k10w1k10lb3do2lb3do2lb11r3lb6~x2/)|
+|![Redgate in Connecticut (Ulster-Scots) example sett](/setts/s14/r6dg4r2dg9k10w1k10lb3do2lb3do2lb11r3lb6~x2/sett.png)|
 

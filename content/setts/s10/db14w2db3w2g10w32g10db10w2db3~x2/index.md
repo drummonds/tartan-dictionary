@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/6 LN4 B20 G20 LN64 G20 LN4 B6 LN4 B/28
+B/28 LN4 B6 LN4 G20 LN64 G20 B20 LN4 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -908,14 +911,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Children's Wish Foundation of Canada](/setts/s8/ly5k2w16k5lg29k2ly2k2~x2/) — ΔT 1.21
 1. [Fraser Arisaid #2](/setts/s10/dt14w2dt3w2dr10w32dr10dt10w2dt3~x2/) — ΔT 1.24
 1. [Children's Wish Foundation of Canada, The](/setts/s8/ly5k2w16k5t29k2ly5k2~x2/) — ΔT 1.28
-1. [Stewart Grey Dress Tartan Tartan Number: 17911. Earliest known date: Estimated Threadcount. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/w30o5k6o2k2w2k13o5k2o2w2~x2/) — ΔT 1.29
+1. [Stewart Grey Dress Tartan Tartan Number: 17911. Earliest known date: Estimated Threadcount. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/w30o5k6o2k2w2k13o5k2o2w2~x2/) — ΔT 1.28
 1. [O'Sullivan-Beare (Family)](/setts/s8/lb40k3lb3k3lb3o8k24o8~x2/) — ΔT 1.32
 1. [Entrelacs](/setts/s13/t14dg4w4t1w2lo2w2dg12t4w2t2w2lo1~x4/) — ΔT 1.32
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dt14lb2dt3lb2g10lb32g10dt10lb2dt3~x2/"><circle cx="249.1" cy="165.8" r="4" fill="#3465a4"><title>Fraser Arisaid</title></circle></a><a href="/setts/s9/dg33db4dg4db4dg4db12w33db3w6~x2/"><circle cx="213.4" cy="172.9" r="4" fill="#3465a4"><title>Lindsay Dress</title></circle></a><a href="/setts/s9/g33n4g4n4g4n12w33n3w6~x2/"><circle cx="224.1" cy="176.5" r="4" fill="#3465a4"><title>Lindsay Dress, Green (Dance)</title></circle></a><a href="/setts/s9/g33db4g4db4g4db12w33db3w6~x2/"><circle cx="216.6" cy="174.3" r="4" fill="#3465a4"><title>Lindsay, dress</title></circle></a><a href="/setts/s8/ly5k2w16k5lg29k2ly2k2~x2/"><circle cx="216.6" cy="134.5" r="4" fill="#3465a4"><title>Children's Wish Foundation of Canada</title></circle></a><a href="/setts/s10/dt14w2dt3w2dr10w32dr10dt10w2dt3~x2/"><circle cx="226.7" cy="142.7" r="4" fill="#3465a4"><title>Fraser Arisaid #2</title></circle></a><a href="/setts/s8/ly5k2w16k5t29k2ly5k2~x2/"><circle cx="192.3" cy="135.9" r="4" fill="#3465a4"><title>Children's Wish Foundation of Canada, The</title></circle></a><a href="/setts/s11/w30o5k6o2k2w2k13o5k2o2w2~x2/"><circle cx="258.0" cy="127.9" r="4" fill="#3465a4"><title>Stewart Grey Dress Tartan Tartan Number: 17911. Earliest known date: Estimated Threadcount. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/lb40k3lb3k3lb3o8k24o8~x2/"><circle cx="274.1" cy="161.6" r="4" fill="#3465a4"><title>O'Sullivan-Beare (Family)</title></circle></a><a href="/setts/s13/t14dg4w4t1w2lo2w2dg12t4w2t2w2lo1~x4/"><circle cx="191.9" cy="141.8" r="4" fill="#3465a4"><title>Entrelacs</title></circle></a><circle cx="235.4" cy="154.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dt14lb2dt3lb2g10lb32g10dt10lb2dt3~x2/"><circle cx="248.9" cy="165.6" r="4" fill="#3465a4"><title>Fraser Arisaid</title></circle></a><a href="/setts/s9/dg33db4dg4db4dg4db12w33db3w6~x2/"><circle cx="213.2" cy="172.7" r="4" fill="#3465a4"><title>Lindsay Dress</title></circle></a><a href="/setts/s9/g33n4g4n4g4n12w33n3w6~x2/"><circle cx="223.8" cy="176.3" r="4" fill="#3465a4"><title>Lindsay Dress, Green (Dance)</title></circle></a><a href="/setts/s9/g33db4g4db4g4db12w33db3w6~x2/"><circle cx="216.3" cy="174.1" r="4" fill="#3465a4"><title>Lindsay, dress</title></circle></a><a href="/setts/s8/ly5k2w16k5lg29k2ly2k2~x2/"><circle cx="216.2" cy="134.4" r="4" fill="#3465a4"><title>Children's Wish Foundation of Canada</title></circle></a><a href="/setts/s10/dt14w2dt3w2dr10w32dr10dt10w2dt3~x2/"><circle cx="226.4" cy="142.4" r="4" fill="#3465a4"><title>Fraser Arisaid #2</title></circle></a><a href="/setts/s8/ly5k2w16k5t29k2ly5k2~x2/"><circle cx="192.1" cy="135.7" r="4" fill="#3465a4"><title>Children's Wish Foundation of Canada, The</title></circle></a><a href="/setts/s11/w30o5k6o2k2w2k13o5k2o2w2~x2/"><circle cx="257.7" cy="127.6" r="4" fill="#3465a4"><title>Stewart Grey Dress Tartan Tartan Number: 17911. Earliest known date: Estimated Threadcount. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/lb40k3lb3k3lb3o8k24o8~x2/"><circle cx="273.8" cy="161.4" r="4" fill="#3465a4"><title>O'Sullivan-Beare (Family)</title></circle></a><a href="/setts/s13/t14dg4w4t1w2lo2w2dg12t4w2t2w2lo1~x4/"><circle cx="191.8" cy="141.8" r="4" fill="#3465a4"><title>Entrelacs</title></circle></a><circle cx="235.1" cy="154.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db14w2db3w2g10w32g10db10w2db3~x2/

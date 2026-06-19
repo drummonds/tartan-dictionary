@@ -2,12 +2,19 @@
 title: "Lochaber Old"
 date: 2023-03-18
 ---
-**Bands:** [BBBRBRB](/stripes/bbbrbrb/) · **Stripes:** [DB T DB R DB R DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB T DB R DB R DB</span></span>
+**Bands:** [BRBRBBB](/stripes/brbrbbb/) · **Stripes:** [DB R DB R DB T DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DB R DB T DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2166
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Lochaber Old..
+- Lochaber, Old..
 
 ## Attestations
 
@@ -319,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -893,7 +903,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/8 Ba4 B64 R4 B140 R4 B/12
+B/12 R4 B140 R4 B64 Ba4 B/8
 ![Sett](sett.png)
 
 ## Palette
@@ -907,17 +917,17 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/8 Ba4 B64 R4 B140 R4 B/12 tartan")
+![Tartan detail](tartan.png "B/12 R4 B140 R4 B64 Ba4 B/8 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Norwich No.030](/setts/s6/db33g3r1db33g3r1~x2/) — ΔT 1.83
+1. [Norwich No.030](/setts/s6/db33g3r1~x2/) — ΔT 1.83
 1. [Wylie (Ancient)](/setts/s6/b86ly2b18r3k1w2~x2/) — ΔT 2.96
 1. [Loch Monar (Fashion)](/setts/s11/db42db10db2db2r2db2db10r6db2r3db2~x2/) — ΔT 3.12
-1. [Allt Dubh (Black Burn)](/setts/s6/k99r5k4r3k2y1~x2/) — ΔT 3.20
-1. [Alich (Personal)](/setts/s4/k50r1db3dp1~x4/) — ΔT 3.32
+1. [Allt Dubh (Black Burn)](/setts/s6/k99r5k4r3k2y1~x2/) — ΔT 3.21
+1. [Alich (Personal)](/setts/s4/k50r1db3dp1~x4/) — ΔT 3.33
 1. [Alich (Personal)](/setts/s4/k50r1dt3dp1~x4/) — ΔT 3.38
 1. [Eternity Fashion Tartan Tartan Number: 10214. Earliest known date: 01/02/2010 This tartan was designed for day wear grey tweed jackets. It has been shown in the Dedicated to Wedding magazine (April 2010). Perfection leads to eternity is the goal for all eternal marriage. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/n88dy3lo2k2k1~x2/) — ΔT 3.41
 1. [St. David's (District)](/setts/s6/dg60r2dg8r1dg5k2/) — ΔT 3.41
@@ -926,8 +936,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db33g3r1db33g3r1~x2/"><circle cx="626.0" cy="226.3" r="4" fill="#3465a4"><title>Norwich No.030</title></circle></a><a href="/setts/s6/b86ly2b18r3k1w2~x2/"><circle cx="626.0" cy="147.7" r="4" fill="#3465a4"><title>Wylie (Ancient)</title></circle></a><a href="/setts/s11/db42db10db2db2r2db2db10r6db2r3db2~x2/"><circle cx="626.0" cy="213.5" r="4" fill="#3465a4"><title>Loch Monar (Fashion)</title></circle></a><a href="/setts/s6/k99r5k4r3k2y1~x2/"><circle cx="626.0" cy="194.0" r="4" fill="#3465a4"><title>Allt Dubh (Black Burn)</title></circle></a><a href="/setts/s4/k50r1db3dp1~x4/"><circle cx="626.0" cy="213.8" r="4" fill="#3465a4"><title>Alich (Personal)</title></circle></a><a href="/setts/s4/k50r1dt3dp1~x4/"><circle cx="626.0" cy="217.5" r="4" fill="#3465a4"><title>Alich (Personal)</title></circle></a><a href="/setts/s5/n88dy3lo2k2k1~x2/"><circle cx="626.0" cy="176.5" r="4" fill="#3465a4"><title>Eternity Fashion Tartan Tartan Number: 10214. Earliest known date: 01/02/2010 This tartan was designed for day wear grey tweed jackets. It has been shown in the Dedicated to Wedding magazine (April 2010). Perfection leads to eternity is the goal for all eternal marriage. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/dg60r2dg8r1dg5k2/"><circle cx="626.0" cy="200.6" r="4" fill="#3465a4"><title>St. David's (District)</title></circle></a><a href="/setts/s7/db8lo2db8dg7db57k3t1~x2/"><circle cx="626.0" cy="152.3" r="4" fill="#3465a4"><title>Cullen (Christian Hill)</title></circle></a><a href="/setts/s5/do88o3ly2k2lr1~x2/"><circle cx="626.0" cy="155.7" r="4" fill="#3465a4"><title>Eternity, Dedicated 2 Weddings</title></circle></a><circle cx="626.0" cy="221.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db33g3r1~x2/"><circle cx="626.0" cy="225.9" r="4" fill="#3465a4"><title>Norwich No.030</title></circle></a><a href="/setts/s6/b86ly2b18r3k1w2~x2/"><circle cx="626.0" cy="147.3" r="4" fill="#3465a4"><title>Wylie (Ancient)</title></circle></a><a href="/setts/s11/db42db10db2db2r2db2db10r6db2r3db2~x2/"><circle cx="626.0" cy="213.3" r="4" fill="#3465a4"><title>Loch Monar (Fashion)</title></circle></a><a href="/setts/s6/k99r5k4r3k2y1~x2/"><circle cx="626.0" cy="193.7" r="4" fill="#3465a4"><title>Allt Dubh (Black Burn)</title></circle></a><a href="/setts/s4/k50r1db3dp1~x4/"><circle cx="626.0" cy="213.5" r="4" fill="#3465a4"><title>Alich (Personal)</title></circle></a><a href="/setts/s4/k50r1dt3dp1~x4/"><circle cx="626.0" cy="217.2" r="4" fill="#3465a4"><title>Alich (Personal)</title></circle></a><a href="/setts/s5/n88dy3lo2k2k1~x2/"><circle cx="626.0" cy="176.3" r="4" fill="#3465a4"><title>Eternity Fashion Tartan Tartan Number: 10214. Earliest known date: 01/02/2010 This tartan was designed for day wear grey tweed jackets. It has been shown in the Dedicated to Wedding magazine (April 2010). Perfection leads to eternity is the goal for all eternal marriage. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/dg60r2dg8r1dg5k2/"><circle cx="626.0" cy="200.1" r="4" fill="#3465a4"><title>St. David's (District)</title></circle></a><a href="/setts/s7/db8lo2db8dg7db57k3t1~x2/"><circle cx="626.0" cy="152.1" r="4" fill="#3465a4"><title>Cullen (Christian Hill)</title></circle></a><a href="/setts/s5/do88o3ly2k2lr1~x2/"><circle cx="626.0" cy="155.4" r="4" fill="#3465a4"><title>Eternity, Dedicated 2 Weddings</title></circle></a><circle cx="626.0" cy="221.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/db3r1db35r1db16t1db2~x4/

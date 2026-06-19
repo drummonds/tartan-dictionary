@@ -2,7 +2,7 @@
 title: "Lynch"
 date: 2023-03-18
 ---
-**Bands:** [BGBRBR](/stripes/bgbrbr/) · **Stripes:** [DB DG DB R DB R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB DG DB R DB R</span></span>
+**Bands:** [RBRBGB](/stripes/rbrbgb/) · **Stripes:** [R DB R DB DG DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB DG DB</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/14 G12 B202 R14 B12 R/38
+R/38 B12 R14 B202 G12 B/14
 ![Sett](sett.png)
 
 ## Palette
@@ -899,7 +902,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/14 G12 B202 R14 B12 R/38 tartan")
+![Tartan detail](tartan.png "R/38 B12 R14 B202 G12 B/14 tartan")
 
 ## Nearest tartans
 
@@ -918,8 +921,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r3db2r1db18g1db2~x4/"><circle cx="602.5" cy="205.3" r="4" fill="#3465a4"><title>Lynch</title></circle></a><a href="/setts/s6/r19db6r14db101g7db7/"><circle cx="531.3" cy="198.5" r="4" fill="#3465a4"><title>Lynch Family Tartan Tartan Number: 2163. Earliest known date: 1994 Information from Dr. Phil Smith, Narvon, USA. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/dt72b6dt12b17w6~x2/"><circle cx="512.4" cy="237.1" r="4" fill="#3465a4"><title>GulfMark</title></circle></a><a href="/setts/s6/b11db7b3db70lb4db6~x2/"><circle cx="613.6" cy="198.8" r="4" fill="#3465a4"><title>Auchairne (Corporate)</title></circle></a><a href="/setts/s6/n65k2n4k2n10r24~x2/"><circle cx="552.8" cy="177.3" r="4" fill="#3465a4"><title>Norsemen, The</title></circle></a><a href="/setts/s4/db1t1db8r1~x2/"><circle cx="590.9" cy="279.8" r="4" fill="#3465a4"><title>Lochaber #3</title></circle></a><a href="/setts/s10/db6lo2db7g4db3g6db2g4db39ly2~x2/"><circle cx="525.5" cy="163.5" r="4" fill="#3465a4"><title>Seletar Shipping (Corporate)</title></circle></a><a href="/setts/s6/db144r9t44db4t4db4/"><circle cx="558.2" cy="176.8" r="4" fill="#3465a4"><title>United French Freemasons (Corporate</title></circle></a><a href="/setts/s5/dt32r3dt4k2lo3~x2/"><circle cx="585.8" cy="213.0" r="4" fill="#3465a4"><title>MacLaine of Lochbuie Hunting</title></circle></a><a href="/setts/s6/db48dg14r3dg2r3dg2~x2/"><circle cx="521.0" cy="205.3" r="4" fill="#3465a4"><title>Wilson #2</title></circle></a><circle cx="595.0" cy="211.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r3db2r1db18g1db2~x4/"><circle cx="602.2" cy="204.9" r="4" fill="#3465a4"><title>Lynch</title></circle></a><a href="/setts/s6/r19db6r14db101g7db7/"><circle cx="531.0" cy="198.2" r="4" fill="#3465a4"><title>Lynch Family Tartan Tartan Number: 2163. Earliest known date: 1994 Information from Dr. Phil Smith, Narvon, USA. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/dt72b6dt12b17w6~x2/"><circle cx="512.1" cy="236.8" r="4" fill="#3465a4"><title>GulfMark</title></circle></a><a href="/setts/s6/b11db7b3db70lb4db6~x2/"><circle cx="613.4" cy="198.4" r="4" fill="#3465a4"><title>Auchairne (Corporate)</title></circle></a><a href="/setts/s6/n65k2n4k2n10r24~x2/"><circle cx="552.5" cy="177.1" r="4" fill="#3465a4"><title>Norsemen, The</title></circle></a><a href="/setts/s4/db1t1db8r1~x2/"><circle cx="590.7" cy="279.5" r="4" fill="#3465a4"><title>Lochaber #3</title></circle></a><a href="/setts/s10/db6lo2db7g4db3g6db2g4db39ly2~x2/"><circle cx="525.2" cy="163.2" r="4" fill="#3465a4"><title>Seletar Shipping (Corporate)</title></circle></a><a href="/setts/s6/db144r9t44db4t4db4/"><circle cx="558.0" cy="176.5" r="4" fill="#3465a4"><title>United French Freemasons (Corporate</title></circle></a><a href="/setts/s5/dt32r3dt4k2lo3~x2/"><circle cx="585.6" cy="212.7" r="4" fill="#3465a4"><title>MacLaine of Lochbuie Hunting</title></circle></a><a href="/setts/s6/db48dg14r3dg2r3dg2~x2/"><circle cx="520.7" cy="205.2" r="4" fill="#3465a4"><title>Wilson #2</title></circle></a><circle cx="594.7" cy="211.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r19db6r7db101dg6db7~x2/

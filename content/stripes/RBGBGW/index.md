@@ -8,7 +8,7 @@ RBGBGW
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/lb1y4db2y5db12r1~x2/tartan.png)
+![Woven sample](/setts/s6/r1db12y5db2y4lb1~x2/tartan.png)
 
 
 
@@ -32,8 +32,8 @@ Grouped by stripe pattern — the 4 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Connaught Green](/setts/s6/lb1y4db2y5db12r1~x2/)|
-|![Connaught Green example sett](/setts/s6/lb1y4db2y5db12r1~x2/sett.png)|
+| [Connaught Green](/setts/s6/r1db12y5db2y4lb1~x2/)|
+|![Connaught Green example sett](/setts/s6/r1db12y5db2y4lb1~x2/sett.png)|
 
 ### R DP G DP G W <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DP G DP G W</span></span>
 

@@ -18,7 +18,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2427
 
 ## Thread count
-K/4 G36 R36 DB4 R4 G4 R4 G4 R36 DB16 R4 G36 K4 LN/6
+LN/6 K4 G36 R4 DB16 R36 G4 R4 G4 R4 DB4 R36 G36 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -44,13 +44,13 @@ The nearest existing variants by ΔTartan distance.
 1. [MacKinnon #5](/setts/s14/k4r3dg2db2r6dg15r2db4dg2r15dg7k2r4w2~x2/) — ΔT 0.68
 1. [MacKinnon 6](/setts/s14/t2r3g2db2r6g16r2db4g2r16g8t2r4w2~x2/) — ΔT 0.79
 1. [MacKinnon 10](/setts/s14/p3r4g3db3r7g17r3db5g4r21g7p3r6w3~x2/) — ΔT 0.80
-1. [MacKinnon](/setts/s14/lr2r4n2dg8r16dg2db4r2dg16r6db2dg2r3n2~x2/) — ΔT 0.88
-1. [MacKinnon](/setts/s14/lr2r4n2dg8r16dg2db4r2dg16r6db2dg2r3n2/) — ΔT 0.88
+1. [MacKinnon](/setts/s14/n2r3dg2db2r6dg16r2db4dg2r16dg8n2r4lr2~x2/) — ΔT 0.88
+1. [MacKinnon](/setts/s14/n2r3dg2db2r6dg16r2db4dg2r16dg8n2r4lr2/) — ΔT 0.88
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/dp2r3g2db2r6g16r2db4g2r16g8dp2r4w2~x2/"><circle cx="221.7" cy="153.9" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/setts/s14/t2r3dg2db2r6dg16r2db4dg2r16dg8t2r4w2~x2/"><circle cx="215.8" cy="150.6" r="4" fill="#3465a4"><title>MacKinnon #2</title></circle></a><a href="/setts/s14/dp2r3dg2db2r6dg16r2db4dg2r16dg8dp2r4lb2/"><circle cx="214.8" cy="152.6" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/setts/s14/dp2r3dg2db2r6dg16r2db4dg2r16dg8dp2r4w2~x2/"><circle cx="215.8" cy="149.5" r="4" fill="#3465a4"><title>MacKinnon #8</title></circle></a><a href="/setts/s14/p2r3g2db2r6g16r2db4g2r16g8p2r4w2~x2/"><circle cx="218.3" cy="153.0" r="4" fill="#3465a4"><title>MacKinnon 5</title></circle></a><a href="/setts/s14/k4r3dg2db2r6dg15r2db4dg2r15dg7k2r4w2~x2/"><circle cx="192.8" cy="155.8" r="4" fill="#3465a4"><title>MacKinnon #5</title></circle></a><a href="/setts/s14/t2r3g2db2r6g16r2db4g2r16g8t2r4w2~x2/"><circle cx="219.0" cy="155.0" r="4" fill="#3465a4"><title>MacKinnon 6</title></circle></a><a href="/setts/s14/p3r4g3db3r7g17r3db5g4r21g7p3r6w3~x2/"><circle cx="210.6" cy="162.7" r="4" fill="#3465a4"><title>MacKinnon 10</title></circle></a><a href="/setts/s14/lr2r4n2dg8r16dg2db4r2dg16r6db2dg2r3n2~x2/"><circle cx="241.5" cy="169.2" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/setts/s14/lr2r4n2dg8r16dg2db4r2dg16r6db2dg2r3n2/"><circle cx="241.5" cy="169.2" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><circle cx="225.8" cy="146.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/dp2r3g2db2r6g16r2db4g2r16g8dp2r4w2~x2/"><circle cx="221.4" cy="153.9" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/setts/s14/t2r3dg2db2r6dg16r2db4dg2r16dg8t2r4w2~x2/"><circle cx="215.6" cy="150.6" r="4" fill="#3465a4"><title>MacKinnon #2</title></circle></a><a href="/setts/s14/dp2r3dg2db2r6dg16r2db4dg2r16dg8dp2r4lb2/"><circle cx="214.6" cy="152.7" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/setts/s14/dp2r3dg2db2r6dg16r2db4dg2r16dg8dp2r4w2~x2/"><circle cx="215.6" cy="149.5" r="4" fill="#3465a4"><title>MacKinnon #8</title></circle></a><a href="/setts/s14/p2r3g2db2r6g16r2db4g2r16g8p2r4w2~x2/"><circle cx="218.0" cy="153.0" r="4" fill="#3465a4"><title>MacKinnon 5</title></circle></a><a href="/setts/s14/k4r3dg2db2r6dg15r2db4dg2r15dg7k2r4w2~x2/"><circle cx="192.6" cy="155.8" r="4" fill="#3465a4"><title>MacKinnon #5</title></circle></a><a href="/setts/s14/t2r3g2db2r6g16r2db4g2r16g8t2r4w2~x2/"><circle cx="218.8" cy="155.0" r="4" fill="#3465a4"><title>MacKinnon 6</title></circle></a><a href="/setts/s14/p3r4g3db3r7g17r3db5g4r21g7p3r6w3~x2/"><circle cx="210.3" cy="162.7" r="4" fill="#3465a4"><title>MacKinnon 10</title></circle></a><a href="/setts/s14/n2r3dg2db2r6dg16r2db4dg2r16dg8n2r4lr2~x2/"><circle cx="241.3" cy="169.2" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/setts/s14/n2r3dg2db2r6dg16r2db4dg2r16dg8n2r4lr2/"><circle cx="241.3" cy="169.2" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><circle cx="225.6" cy="146.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/w3k2dg18r2db8r18dg2r2dg2r2db2r18dg18k2~x2/

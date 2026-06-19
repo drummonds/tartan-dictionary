@@ -2,7 +2,7 @@
 title: "Innes, of Cowie"
 date: 2023-03-18
 ---
-**Bands:** [BKRKRKRWRGRKGKRWRKGKRGRWRKRKRKG](/stripes/bkrkrkrwrgrkgkrwrkgkrgrwrkrkrkg/) · **Stripes:** [DB K R K R K R W R G R K G K R W R K G K R G R W R K R K R K G](/stripes/stripes31/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB K R K R K R W R G R K G K R W R K G K R G R W R K R K R K G</span></span>
+**Bands:** [GKRKRKRWRGRKGKRWRKGKRGRWRKRKRKB](/stripes/gkrkrkrwrgrkgkrwrkgkrgrwrkrkrkb/) · **Stripes:** [G K R K R K R W R G R K G K R W R K G K R G R W R K R K R K DB](/stripes/stripes31/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G K R K R K R W R G R K G K R W R K G K R G R W R K R K R K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [31 band tartan](/bands/bands31/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/2 K12 R2 K2 R2 K2 R12 LN2 R4 G6 R4 K2 G10 K2 R4 LN2 R4 K2 G10 K2 R4 G6 R4 LN2 R12 K2 R2 K2 R2 K12 G/2
+G/2 K12 R2 K2 R2 K2 R12 LN2 R4 G6 R4 K2 G10 K2 R4 LN2 R4 K2 G10 K2 R4 G6 R4 LN2 R12 K2 R2 K2 R2 K12 B/2
 ![Sett](sett.png)
 
 ## Palette
@@ -914,7 +917,7 @@ The nearest existing variants by ΔTartan distance.
 1. [MacInroy](/setts/s28/r18k3r3k11g9k2g9k11r2k11r3k3r9g2k3g2r9k3r3k11r2k11r3k3r18db2r3db2~x2/) — ΔT 1.52
 1. [Comyn / Cumming, Buchan](/setts/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/) — ΔT 1.58
 1. [Ogilvy](/setts/s36/db5k1db5ly2k1r3w1r3w1r3k1ly1db3w1db3ly1k1r3w1r3w1r3k1ly1db5k1db5k1db5ly1k1r3w1r3w1r3~x4/) — ΔT 1.62
-1. [Wilson's No.190](/setts/s36/k3ly2k13w2t11r12w2r12k12ly2g12r12w2r12t11w2k13ly2k3ly2k13w2t11r12w2r12g12ly2k12r12w2r12t11w2k13ly2~x2/) — ΔT 1.66
+1. [Wilson's No.190](/setts/s36/k3ly2k13w2t11r12w2r12k12ly2g12r12w2r12t11w2k13ly2k3~x2/) — ΔT 1.66
 1. [Kilbarchan Unidentified No. 7](/setts/s28/r4k4r6g24r4k3r6g3r4k24r6g4r4t4r4g4r6k24r4g3r6k3r4g24r6k4r4t4~x2/) — ΔT 1.66
 1. [McNair (2016)](/setts/s24/r2r1dg1r1g1r1k2r2r2r1dg2g1ly1g1ly1g1ly1r2k8r1g1r1k3r1~x10/) — ΔT 1.66
 1. [Alliance of Border Scots](/setts/s29/g1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6o1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6g1~x8/) — ΔT 1.66
@@ -923,8 +926,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s31/db1k6r1k1r1k1r6w1r2g3r2k1g5k1r2w1r2k1g5k1r2g3r2w1r6k1r1k1r1k6g1~x4/"><circle cx="147.8" cy="145.2" r="4" fill="#3465a4"><title>Innes of Cowie (Clan?)</title></circle></a><a href="/setts/s28/r18k3r3k11g9k2g9k11r2k11r3k3r9g2k3g2r9k3r3k11r2k11r3k3r18db2r3db2~x2/"><circle cx="188.8" cy="139.3" r="4" fill="#3465a4"><title>MacInroy</title></circle></a><a href="/setts/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/"><circle cx="143.2" cy="151.5" r="4" fill="#3465a4"><title>Comyn / Cumming, Buchan</title></circle></a><a href="/setts/s36/db5k1db5ly2k1r3w1r3w1r3k1ly1db3w1db3ly1k1r3w1r3w1r3k1ly1db5k1db5k1db5ly1k1r3w1r3w1r3~x4/"><circle cx="82.7" cy="135.3" r="4" fill="#3465a4"><title>Ogilvy</title></circle></a><a href="/setts/s36/k3ly2k13w2t11r12w2r12k12ly2g12r12w2r12t11w2k13ly2k3ly2k13w2t11r12w2r12g12ly2k12r12w2r12t11w2k13ly2~x2/"><circle cx="51.6" cy="114.6" r="4" fill="#3465a4"><title>Wilson's No.190</title></circle></a><a href="/setts/s28/r4k4r6g24r4k3r6g3r4k24r6g4r4t4r4g4r6k24r4g3r6k3r4g24r6k4r4t4~x2/"><circle cx="165.7" cy="138.4" r="4" fill="#3465a4"><title>Kilbarchan Unidentified No. 7</title></circle></a><a href="/setts/s24/r2r1dg1r1g1r1k2r2r2r1dg2g1ly1g1ly1g1ly1r2k8r1g1r1k3r1~x10/"><circle cx="64.6" cy="97.6" r="4" fill="#3465a4"><title>McNair (2016)</title></circle></a><a href="/setts/s29/g1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6o1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6g1~x8/"><circle cx="158.0" cy="116.8" r="4" fill="#3465a4"><title>Alliance of Border Scots</title></circle></a><a href="/setts/s28/r18k3r3k11dg9k2dg9k11r2k11r3k3r9dg2k3dg2r9k3r3k11r2k11r3k3r18db2r3db2~x2/"><circle cx="208.1" cy="142.8" r="4" fill="#3465a4"><title>MacInroy #2</title></circle></a><a href="/setts/s24/k12g2k2g2k2g16k3w3k3r12g6lo2g6r12k3w3k3g16k2g2k2g2k12lp2~x2/"><circle cx="127.5" cy="113.9" r="4" fill="#3465a4"><title>Kapasi (Personal)</title></circle></a><circle cx="116.8" cy="125.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s31/db1k6r1k1r1k1r6w1r2g3r2k1g5k1r2w1r2k1g5k1r2g3r2w1r6k1r1k1r1k6g1~x4/"><circle cx="147.7" cy="145.4" r="4" fill="#3465a4"><title>Innes of Cowie (Clan?)</title></circle></a><a href="/setts/s28/r18k3r3k11g9k2g9k11r2k11r3k3r9g2k3g2r9k3r3k11r2k11r3k3r18db2r3db2~x2/"><circle cx="188.7" cy="139.3" r="4" fill="#3465a4"><title>MacInroy</title></circle></a><a href="/setts/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/"><circle cx="143.2" cy="151.5" r="4" fill="#3465a4"><title>Comyn / Cumming, Buchan</title></circle></a><a href="/setts/s36/db5k1db5ly2k1r3w1r3w1r3k1ly1db3w1db3ly1k1r3w1r3w1r3k1ly1db5k1db5k1db5ly1k1r3w1r3w1r3~x4/"><circle cx="82.6" cy="135.4" r="4" fill="#3465a4"><title>Ogilvy</title></circle></a><a href="/setts/s36/k3ly2k13w2t11r12w2r12k12ly2g12r12w2r12t11w2k13ly2k3~x2/"><circle cx="51.5" cy="114.8" r="4" fill="#3465a4"><title>Wilson's No.190</title></circle></a><a href="/setts/s28/r4k4r6g24r4k3r6g3r4k24r6g4r4t4r4g4r6k24r4g3r6k3r4g24r6k4r4t4~x2/"><circle cx="165.5" cy="138.4" r="4" fill="#3465a4"><title>Kilbarchan Unidentified No. 7</title></circle></a><a href="/setts/s24/r2r1dg1r1g1r1k2r2r2r1dg2g1ly1g1ly1g1ly1r2k8r1g1r1k3r1~x10/"><circle cx="64.5" cy="97.7" r="4" fill="#3465a4"><title>McNair (2016)</title></circle></a><a href="/setts/s29/g1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6o1k6w1dy1w1dy1w1dy1w1dy1w1dy1w1k6g1~x8/"><circle cx="158.0" cy="116.8" r="4" fill="#3465a4"><title>Alliance of Border Scots</title></circle></a><a href="/setts/s28/r18k3r3k11dg9k2dg9k11r2k11r3k3r9dg2k3dg2r9k3r3k11r2k11r3k3r18db2r3db2~x2/"><circle cx="207.9" cy="142.8" r="4" fill="#3465a4"><title>MacInroy #2</title></circle></a><a href="/setts/s24/k12g2k2g2k2g16k3w3k3r12g6lo2g6r12k3w3k3g16k2g2k2g2k12lp2~x2/"><circle cx="127.4" cy="114.0" r="4" fill="#3465a4"><title>Kapasi (Personal)</title></circle></a><circle cx="116.7" cy="126.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s31/db1k6r1k1r1k1r6w1r2g3r2k1g5k1r2w1r2k1g5k1r2g3r2w1r6k1r1k1r1k6g1~x2/

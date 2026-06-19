@@ -3,7 +3,7 @@ title: "Families & clans — E"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-17 clans and families beginning with E. [Back to the A–Z](/families/).
+16 clans and families beginning with E. [Back to the A–Z](/families/).
 
 ## Ea
 
@@ -21,12 +21,13 @@ background: /bg/clans.png
 
 ## El
 
-- [Ellenee](/setts/s22/k9r3k3n11k3g11k3g3k3g11k3n11k3r3k9r3k3g11k3n11k3n3~x2/)
+- [Ellene )](/setts/s22/k9r3k3n11k3g11k3g3k3g11k3n11k3r3k9r3k3g11k3n11k3n3~x2/)
 - [Ellis](/setts/s22/k3g30k3dt36k3t26k2t8k2t26k4t26k2t4k2t26k3dt36k3g30k3w2/)
+- [Elystan Glodrydd](/setts/s9/w2dg27ly1lo7t5ly5r17ly6t1~x2/)
 
 ## Er
 
-- [Erskine, Grey](/setts/s6/lb6n2lb25n25lb2n6~x2/)
+- [Erskine, Grey](/setts/s6/n6lb2n25lb25n2lb6~x2/)
 
 ## Es
 
@@ -40,9 +41,4 @@ background: /bg/clans.png
 ## Ew
 
 - [Ewbank](/setts/s9/r3b14ly2k2b14k36ly2k2ly2~x2/)
-
-## Ey
-
-- [Eynon](/clan/eynon/) — clan
-- [Eynon of Wales](/families/eynon-of-wales/)
 

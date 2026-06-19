@@ -20,7 +20,7 @@ BBBRYB
 
 
 
-### B N DT R LY B <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B N DT R LY B</span></span>
+### B LY R DT N B <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#466CC8"></span><span class="seq">B LY R DT N B</span></span>
 
 | Tartans |
 |---------------|

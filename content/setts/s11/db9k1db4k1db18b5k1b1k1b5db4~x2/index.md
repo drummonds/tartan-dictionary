@@ -2,7 +2,7 @@
 title: "Indigo Blue Works"
 date: 2023-03-18
 ---
-**Bands:** [BBKBKBBKBKB](/stripes/bbkbkbbkbkb/) · **Stripes:** [DB B K B K B DB K DB K DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB B K B K B DB K DB K DB</span></span>
+**Bands:** [BKBKBBKBKBB](/stripes/bkbkbbkbkbb/) · **Stripes:** [DB K DB K DB B K B K B DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DB B K B K B DB</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DB/8 B10 K2 B2 K2 B10 DB36 K2 Ba8 K2 DB/18
+DB/18 K2 Ba8 K2 DB36 B10 K2 B2 K2 B10 DB/8
 ![Sett](sett.png)
 
 ## Palette
@@ -907,7 +910,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Ikelman #5 (Personal)](/setts/s12/db15g2db2w1db1w1db1w1db2g2db15r10~x4/) — ΔT 1.35
 1. [Rhys Welsh Name Tartan Tartan Number: 5753. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Rees, Preece, Reese, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/db6lo3db3lo15db7db7db5db17db46w4/) — ΔT 1.37
 1. [Jon's Theme (Fashion)](/setts/s6/k1lo2k3db12k18w1~x2/) — ΔT 1.42
-1. [Kinross](/setts/s14/dg20db2g6db2dg4db27lo2db8lo2db27dg4db2g6db2~x2/) — ΔT 1.43
+1. [Kinross](/setts/s14/dg20db2g6db2dg4db27lo2db8~x2/) — ΔT 1.43
 1. [Scotland's Own](/setts/s12/db4w1db30k15p4db2k2db2k10db4p2db2~x2/) — ΔT 1.47
 1. [Warren Wilson College (Corporate)](/setts/s8/g20lr6db20ly3db48r6db4r6~x2/) — ΔT 1.50
 1. [Prince George's Police Pipe Band](/setts/s8/db42r2y16r2db6r2y8lo3~x2/) — ΔT 1.52
@@ -915,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db30db2k9w3db6w4k3db6~x2/"><circle cx="301.2" cy="169.2" r="4" fill="#3465a4"><title>Auto Docs</title></circle></a><a href="/setts/s8/b15db65ly7b4ly3db30b15w3~x2/"><circle cx="406.3" cy="161.9" r="4" fill="#3465a4"><title>Hoosier (Fashion)</title></circle></a><a href="/setts/s12/db15g2db2w1db1w1db1w1db2g2db15r10~x4/"><circle cx="403.1" cy="152.5" r="4" fill="#3465a4"><title>Ikelman #5 (Personal)</title></circle></a><a href="/setts/s10/db6lo3db3lo15db7db7db5db17db46w4/"><circle cx="297.6" cy="168.8" r="4" fill="#3465a4"><title>Rhys Welsh Name Tartan Tartan Number: 5753. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Rees, Preece, Reese, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/k1lo2k3db12k18w1~x2/"><circle cx="374.1" cy="194.2" r="4" fill="#3465a4"><title>Jon's Theme (Fashion)</title></circle></a><a href="/setts/s14/dg20db2g6db2dg4db27lo2db8lo2db27dg4db2g6db2~x2/"><circle cx="358.2" cy="167.1" r="4" fill="#3465a4"><title>Kinross</title></circle></a><a href="/setts/s12/db4w1db30k15p4db2k2db2k10db4p2db2~x2/"><circle cx="365.1" cy="126.3" r="4" fill="#3465a4"><title>Scotland's Own</title></circle></a><a href="/setts/s8/g20lr6db20ly3db48r6db4r6~x2/"><circle cx="351.1" cy="165.3" r="4" fill="#3465a4"><title>Warren Wilson College (Corporate)</title></circle></a><a href="/setts/s8/db42r2y16r2db6r2y8lo3~x2/"><circle cx="365.9" cy="146.4" r="4" fill="#3465a4"><title>Prince George's Police Pipe Band</title></circle></a><a href="/setts/s8/db21n2w1n2db1r2db1o6~x4/"><circle cx="383.4" cy="133.5" r="4" fill="#3465a4"><title>Blue Rust</title></circle></a><circle cx="358.2" cy="163.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db30db2k9w3db6w4k3db6~x2/"><circle cx="301.3" cy="169.0" r="4" fill="#3465a4"><title>Auto Docs</title></circle></a><a href="/setts/s8/b15db65ly7b4ly3db30b15w3~x2/"><circle cx="406.2" cy="161.6" r="4" fill="#3465a4"><title>Hoosier (Fashion)</title></circle></a><a href="/setts/s12/db15g2db2w1db1w1db1w1db2g2db15r10~x4/"><circle cx="403.0" cy="152.3" r="4" fill="#3465a4"><title>Ikelman #5 (Personal)</title></circle></a><a href="/setts/s10/db6lo3db3lo15db7db7db5db17db46w4/"><circle cx="297.7" cy="168.7" r="4" fill="#3465a4"><title>Rhys Welsh Name Tartan Tartan Number: 5753. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Rees, Preece, Reese, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/k1lo2k3db12k18w1~x2/"><circle cx="374.2" cy="194.0" r="4" fill="#3465a4"><title>Jon's Theme (Fashion)</title></circle></a><a href="/setts/s14/dg20db2g6db2dg4db27lo2db8~x2/"><circle cx="358.1" cy="167.0" r="4" fill="#3465a4"><title>Kinross</title></circle></a><a href="/setts/s12/db4w1db30k15p4db2k2db2k10db4p2db2~x2/"><circle cx="365.1" cy="126.2" r="4" fill="#3465a4"><title>Scotland's Own</title></circle></a><a href="/setts/s8/g20lr6db20ly3db48r6db4r6~x2/"><circle cx="351.1" cy="165.1" r="4" fill="#3465a4"><title>Warren Wilson College (Corporate)</title></circle></a><a href="/setts/s8/db42r2y16r2db6r2y8lo3~x2/"><circle cx="365.8" cy="146.2" r="4" fill="#3465a4"><title>Prince George's Police Pipe Band</title></circle></a><a href="/setts/s8/db21n2w1n2db1r2db1o6~x4/"><circle cx="383.4" cy="133.4" r="4" fill="#3465a4"><title>Blue Rust</title></circle></a><circle cx="358.2" cy="163.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db9k1db4k1db18b5k1b1k1b5db4~x2/

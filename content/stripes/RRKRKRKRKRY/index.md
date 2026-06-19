@@ -22,6 +22,6 @@ RRKRKRKRKRY
 
 | Tartans |
 |---------------|
-| [Wcwm 1713](/setts/s11/ly3o26k12o3k16o4k16o3k12o26r3~x2/)|
-|![Wcwm 1713 example sett](/setts/s11/ly3o26k12o3k16o4k16o3k12o26r3~x2/sett.png)|
+| [Wcwm 1713](/setts/s11/r3o26k12o3k16o4k16o3k12o26ly3~x2/)|
+|![Wcwm 1713 example sett](/setts/s11/r3o26k12o3k16o4k16o3k12o26ly3~x2/sett.png)|
 

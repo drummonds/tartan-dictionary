@@ -2,7 +2,7 @@
 title: "Cadence"
 date: 2023-03-18
 ---
-**Bands:** [BGRGBRG](/stripes/bgrgbrg/) · **Stripes:** [DB DG R DG DB R DG](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">DB DG R DG DB R DG</span></span>
+**Bands:** [GRBGRGB](/stripes/grbgrgb/) · **Stripes:** [DG R DB DG R DG DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">DG R DB DG R DG DB</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,20 +909,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Barnaby Brown Pibroch](/setts/s9/dg2r1dg8db2dg1db2dg1db10r2~x4/) — ΔT 0.86
-1. [Perthshire (New) District Tartan Tartan Number: 2188. Earliest known date: 1992 The New Perthshire District tartan has established itself through use and wont since 1992. It provides a useful alternative to the Drummond pattern which was always closely associated with Perthshire. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/db26r6g16db8g3r2~x2/) — ΔT 1.04
+1. [Perthshire (New) District Tartan Tartan Number: 2188. Earliest known date: 1992 The New Perthshire District tartan has established itself through use and wont since 1992. It provides a useful alternative to the Drummond pattern which was always closely associated with Perthshire. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/db26r6g16db8g3r2~x2/) — ΔT 1.05
 1. [Cadence Design Systems (Corporate)](/setts/s7/k51g5r15g37k17r6g7~x2/) — ΔT 1.07
 1. [Pride of the Forth](/setts/s6/k3n23k3n3k20lg3~x2/) — ΔT 1.15
 1. [Pride of the Forth](/setts/s6/k3n23k3n3k20t3~x2/) — ΔT 1.16
 1. [Robertson of Struan 1816](/setts/s7/r3db1r1db11g10r2db2~x4/) — ΔT 1.17
-1. [Brown, Barnaby (Personal)](/setts/s9/g2r1g8db2g1db2g1db10r2~x4/) — ΔT 1.20
+1. [Brown, Barnaby (Personal)](/setts/s9/r2db10g1db2g1db2g8r1g2~x4/) — ΔT 1.20
 1. [Tartan Army Children's Charity (Corp](/setts/s7/n34k7n12k39n3k4lg3~x2/) — ΔT 1.22
 1. [Paxton (Personal)](/setts/s11/k24dp5k9g3k2g3k2g14dp7k2dp10~x2/) — ΔT 1.23
 1. [TACC (Corporate)](/setts/s7/n34k7n12k40n3k4t3~x2/) — ΔT 1.26
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg2r1dg8db2dg1db2dg1db10r2~x4/"><circle cx="328.0" cy="229.5" r="4" fill="#3465a4"><title>Barnaby Brown Pibroch</title></circle></a><a href="/setts/s6/db26r6g16db8g3r2~x2/"><circle cx="353.1" cy="236.8" r="4" fill="#3465a4"><title>Perthshire (New) District Tartan Tartan Number: 2188. Earliest known date: 1992 The New Perthshire District tartan has established itself through use and wont since 1992. It provides a useful alternative to the Drummond pattern which was always closely associated with Perthshire. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/k51g5r15g37k17r6g7~x2/"><circle cx="279.1" cy="226.9" r="4" fill="#3465a4"><title>Cadence Design Systems (Corporate)</title></circle></a><a href="/setts/s6/k3n23k3n3k20lg3~x2/"><circle cx="325.4" cy="245.7" r="4" fill="#3465a4"><title>Pride of the Forth</title></circle></a><a href="/setts/s6/k3n23k3n3k20t3~x2/"><circle cx="333.4" cy="249.9" r="4" fill="#3465a4"><title>Pride of the Forth</title></circle></a><a href="/setts/s7/r3db1r1db11g10r2db2~x4/"><circle cx="295.6" cy="219.3" r="4" fill="#3465a4"><title>Robertson of Struan 1816</title></circle></a><a href="/setts/s9/g2r1g8db2g1db2g1db10r2~x4/"><circle cx="319.5" cy="219.4" r="4" fill="#3465a4"><title>Brown, Barnaby (Personal)</title></circle></a><a href="/setts/s7/n34k7n12k39n3k4lg3~x2/"><circle cx="363.1" cy="223.1" r="4" fill="#3465a4"><title>Tartan Army Children's Charity (Corp</title></circle></a><a href="/setts/s11/k24dp5k9g3k2g3k2g14dp7k2dp10~x2/"><circle cx="296.4" cy="207.1" r="4" fill="#3465a4"><title>Paxton (Personal)</title></circle></a><a href="/setts/s7/n34k7n12k40n3k4t3~x2/"><circle cx="370.0" cy="223.6" r="4" fill="#3465a4"><title>TACC (Corporate)</title></circle></a><circle cx="311.1" cy="239.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg2r1dg8db2dg1db2dg1db10r2~x4/"><circle cx="328.0" cy="229.4" r="4" fill="#3465a4"><title>Barnaby Brown Pibroch</title></circle></a><a href="/setts/s6/db26r6g16db8g3r2~x2/"><circle cx="353.1" cy="236.6" r="4" fill="#3465a4"><title>Perthshire (New) District Tartan Tartan Number: 2188. Earliest known date: 1992 The New Perthshire District tartan has established itself through use and wont since 1992. It provides a useful alternative to the Drummond pattern which was always closely associated with Perthshire. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/k51g5r15g37k17r6g7~x2/"><circle cx="279.2" cy="226.8" r="4" fill="#3465a4"><title>Cadence Design Systems (Corporate)</title></circle></a><a href="/setts/s6/k3n23k3n3k20lg3~x2/"><circle cx="325.4" cy="245.6" r="4" fill="#3465a4"><title>Pride of the Forth</title></circle></a><a href="/setts/s6/k3n23k3n3k20t3~x2/"><circle cx="333.4" cy="249.8" r="4" fill="#3465a4"><title>Pride of the Forth</title></circle></a><a href="/setts/s7/r3db1r1db11g10r2db2~x4/"><circle cx="295.5" cy="219.2" r="4" fill="#3465a4"><title>Robertson of Struan 1816</title></circle></a><a href="/setts/s9/r2db10g1db2g1db2g8r1g2~x4/"><circle cx="319.5" cy="219.3" r="4" fill="#3465a4"><title>Brown, Barnaby (Personal)</title></circle></a><a href="/setts/s7/n34k7n12k39n3k4lg3~x2/"><circle cx="363.1" cy="223.0" r="4" fill="#3465a4"><title>Tartan Army Children's Charity (Corp</title></circle></a><a href="/setts/s11/k24dp5k9g3k2g3k2g14dp7k2dp10~x2/"><circle cx="296.4" cy="207.0" r="4" fill="#3465a4"><title>Paxton (Personal)</title></circle></a><a href="/setts/s7/n34k7n12k40n3k4t3~x2/"><circle cx="369.9" cy="223.4" r="4" fill="#3465a4"><title>TACC (Corporate)</title></circle></a><circle cx="311.2" cy="239.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/db51dg5r15dg37db17r6dg5~x2/

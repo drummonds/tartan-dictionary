@@ -22,6 +22,6 @@ GWGGGRGRGGGW
 
 | Tartans |
 |---------------|
-| [Tricor](/setts/s12/y4lb1y4g6dy6o4y23o4dy6g6y4lb1~x4/)|
-|![Tricor example sett](/setts/s12/y4lb1y4g6dy6o4y23o4dy6g6y4lb1~x4/sett.png)|
+| [Tricor](/setts/s12/y23o4dy6g6y4lb1y4~x4/)|
+|![Tricor example sett](/setts/s12/y23o4dy6g6y4lb1y4~x4/sett.png)|
 

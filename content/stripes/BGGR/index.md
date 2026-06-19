@@ -20,7 +20,7 @@ BGGR
 
 
 
-### DT DG G O <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DT DG G O</span></span>
+### O G DG DT <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="seq">O G DG DT</span></span>
 
 | Tartans |
 |---------------|

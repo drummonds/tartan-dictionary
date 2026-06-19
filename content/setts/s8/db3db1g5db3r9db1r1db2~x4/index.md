@@ -2,7 +2,7 @@
 title: "Unidentified #61"
 date: 2023-03-18
 ---
-**Bands:** [BBGBRBRB](/stripes/bbgbrbrb/) · **Stripes:** [DB DB G DB R DB R DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB DB G DB R DB R DB</span></span>
+**Bands:** [BRBRBGBB](/stripes/brbrbgbb/) · **Stripes:** [DB R DB R DB G DB DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DB R DB G DB DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -44,20 +44,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Sandberg](/setts/s7/r3k12g4db12r1k2r1~x4/) — ΔT 0.88
-1. [Wilson's No.150](/setts/s10/g19t2g4k13dp12k3dp12k13g4t2~x2/) — ΔT 0.97
+1. [Wilson's No.150](/setts/s10/g19t2g4k13dp12k3~x2/) — ΔT 0.97
 1. [Forbes #5](/setts/s9/db28k3db6k3db6k20dy28k3w6~x2/) — ΔT 0.98
 1. [Baillie (Highland Society)](/setts/s7/dp3k1dp8k6dg8k1w2~x2/) — ΔT 0.98
-1. [Wilson's No.158](/setts/s10/g19w2g4k13dp12k3dp12k13g4w2~x2/) — ΔT 1.01
+1. [Wilson's No.158](/setts/s10/g19w2g4k13dp12k3~x2/) — ΔT 1.01
 1. [North Berwick (Dance)](/setts/s11/dt10r2dt10r10dg2r2dg2r2dg10r1w2~x4/) — ΔT 1.01
-1. [Wilson's No.160](/setts/s10/g19ly2g4k13dp12k3dp12k13g4ly2~x2/) — ΔT 1.02
+1. [Wilson's No.160](/setts/s10/g19ly2g4k13dp12k3~x2/) — ΔT 1.02
 1. [Grammar School at Leeds (School)](/setts/s6/n32w4n4k24dp29k4/) — ΔT 1.03
 1. [Utah (US State)](/setts/s8/w2r3dg9r3db2r3db3w1~x6/) — ΔT 1.03
 1. [Grady (Personal)](/setts/s9/k36r3db3r3k8db24r18g3r3~x2/) — ΔT 1.05
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r3k12g4db12r1k2r1~x4/"><circle cx="243.6" cy="206.3" r="4" fill="#3465a4"><title>Sandberg</title></circle></a><a href="/setts/s10/g19t2g4k13dp12k3dp12k13g4t2~x2/"><circle cx="179.4" cy="213.7" r="4" fill="#3465a4"><title>Wilson's No.150</title></circle></a><a href="/setts/s9/db28k3db6k3db6k20dy28k3w6~x2/"><circle cx="218.9" cy="207.5" r="4" fill="#3465a4"><title>Forbes #5</title></circle></a><a href="/setts/s7/dp3k1dp8k6dg8k1w2~x2/"><circle cx="177.0" cy="225.7" r="4" fill="#3465a4"><title>Baillie (Highland Society)</title></circle></a><a href="/setts/s10/g19w2g4k13dp12k3dp12k13g4w2~x2/"><circle cx="163.3" cy="204.5" r="4" fill="#3465a4"><title>Wilson's No.158</title></circle></a><a href="/setts/s11/dt10r2dt10r10dg2r2dg2r2dg10r1w2~x4/"><circle cx="200.6" cy="186.6" r="4" fill="#3465a4"><title>North Berwick (Dance)</title></circle></a><a href="/setts/s10/g19ly2g4k13dp12k3dp12k13g4ly2~x2/"><circle cx="167.1" cy="206.2" r="4" fill="#3465a4"><title>Wilson's No.160</title></circle></a><a href="/setts/s6/n32w4n4k24dp29k4/"><circle cx="207.4" cy="228.9" r="4" fill="#3465a4"><title>Grammar School at Leeds (School)</title></circle></a><a href="/setts/s8/w2r3dg9r3db2r3db3w1~x6/"><circle cx="158.7" cy="206.4" r="4" fill="#3465a4"><title>Utah (US State)</title></circle></a><a href="/setts/s9/k36r3db3r3k8db24r18g3r3~x2/"><circle cx="259.7" cy="177.7" r="4" fill="#3465a4"><title>Grady (Personal)</title></circle></a><circle cx="217.9" cy="207.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r3k12g4db12r1k2r1~x4/"><circle cx="243.7" cy="206.3" r="4" fill="#3465a4"><title>Sandberg</title></circle></a><a href="/setts/s10/g19t2g4k13dp12k3~x2/"><circle cx="179.5" cy="213.7" r="4" fill="#3465a4"><title>Wilson's No.150</title></circle></a><a href="/setts/s9/db28k3db6k3db6k20dy28k3w6~x2/"><circle cx="219.0" cy="207.5" r="4" fill="#3465a4"><title>Forbes #5</title></circle></a><a href="/setts/s7/dp3k1dp8k6dg8k1w2~x2/"><circle cx="177.2" cy="225.7" r="4" fill="#3465a4"><title>Baillie (Highland Society)</title></circle></a><a href="/setts/s10/g19w2g4k13dp12k3~x2/"><circle cx="163.4" cy="204.5" r="4" fill="#3465a4"><title>Wilson's No.158</title></circle></a><a href="/setts/s11/dt10r2dt10r10dg2r2dg2r2dg10r1w2~x4/"><circle cx="200.5" cy="186.6" r="4" fill="#3465a4"><title>North Berwick (Dance)</title></circle></a><a href="/setts/s10/g19ly2g4k13dp12k3~x2/"><circle cx="167.2" cy="206.2" r="4" fill="#3465a4"><title>Wilson's No.160</title></circle></a><a href="/setts/s6/n32w4n4k24dp29k4/"><circle cx="207.5" cy="228.9" r="4" fill="#3465a4"><title>Grammar School at Leeds (School)</title></circle></a><a href="/setts/s8/w2r3dg9r3db2r3db3w1~x6/"><circle cx="158.7" cy="206.3" r="4" fill="#3465a4"><title>Utah (US State)</title></circle></a><a href="/setts/s9/k36r3db3r3k8db24r18g3r3~x2/"><circle cx="259.7" cy="177.7" r="4" fill="#3465a4"><title>Grady (Personal)</title></circle></a><circle cx="217.9" cy="207.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db3db1g5db3r9db1r1db2~x4/

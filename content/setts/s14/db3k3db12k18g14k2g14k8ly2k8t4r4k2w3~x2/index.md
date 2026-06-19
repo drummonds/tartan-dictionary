@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,20 +909,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Allison](/setts/s13/db3k3db15k15ly3k3g15w3k15db4r6k3ly1~x2/) — ΔT 1.02
-1. [MacInnes](/setts/s13/ly2k12dg2k2dg2k2dg16k3lb3k3db12dg6r2/) — ΔT 1.15
-1. [MacInnes](/setts/s13/ly2k12g2k2g2k2g16k3t3k3db12g6r2~x2/) — ΔT 1.18
+1. [MacInnes](/setts/s13/r2dg6db12k3lb3k3dg16k2dg2k2dg2k12ly2/) — ΔT 1.15
+1. [MacInnes](/setts/s13/r2g6db12k3t3k3g16k2g2k2g2k12ly2~x2/) — ΔT 1.18
 1. [Veere](/setts/s12/t4k3t2db6k15ly2g16db4t2db2k8w4~x2/) — ΔT 1.18
 1. [Elgin - Landshut](/setts/s14/r1k6g1k1g1k1g6k1b1k1k3k3g3w1~x8/) — ΔT 1.21
 1. [Malcolm](/setts/s14/k1ly1k1g6k6db6r1db1r1db6k6g6k1t1~x4/) — ΔT 1.30
 1. [Allison (MacGregor-Hastie)](/setts/s14/db2k2db16k15ly2g16k2g16w2k17db4r6k3ly2~x2/) — ΔT 1.34
-1. [Malcolm](/setts/s15/db2g1db6k6g6k1ly1k1t1k1g6k6db6r1db2~x4/) — ΔT 1.36
+1. [Malcolm](/setts/s15/db2r1db6k6g6k1t1k1ly1k1g6k6db6g1db2~x4/) — ΔT 1.36
 1. [Veere](/setts/s11/lb7k11lt3db9g19lo3k22db9lt3k3db6~x2/) — ΔT 1.40
 1. [Innes, hunting](/setts/s16/t3k18o3k4o3k3o18ly3o3db8o3db3g15k3o3w3~x2/) — ΔT 1.41
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db3k3db15k15ly3k3g15w3k15db4r6k3ly1~x2/"><circle cx="123.9" cy="112.5" r="4" fill="#3465a4"><title>Allison</title></circle></a><a href="/setts/s13/ly2k12dg2k2dg2k2dg16k3lb3k3db12dg6r2/"><circle cx="124.5" cy="150.4" r="4" fill="#3465a4"><title>MacInnes</title></circle></a><a href="/setts/s13/ly2k12g2k2g2k2g16k3t3k3db12g6r2~x2/"><circle cx="117.1" cy="144.9" r="4" fill="#3465a4"><title>MacInnes</title></circle></a><a href="/setts/s12/t4k3t2db6k15ly2g16db4t2db2k8w4~x2/"><circle cx="88.5" cy="148.3" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/setts/s14/r1k6g1k1g1k1g6k1b1k1k3k3g3w1~x8/"><circle cx="87.7" cy="160.7" r="4" fill="#3465a4"><title>Elgin - Landshut</title></circle></a><a href="/setts/s14/k1ly1k1g6k6db6r1db1r1db6k6g6k1t1~x4/"><circle cx="80.8" cy="162.8" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><a href="/setts/s14/db2k2db16k15ly2g16k2g16w2k17db4r6k3ly2~x2/"><circle cx="108.6" cy="137.1" r="4" fill="#3465a4"><title>Allison (MacGregor-Hastie)</title></circle></a><a href="/setts/s15/db2g1db6k6g6k1ly1k1t1k1g6k6db6r1db2~x4/"><circle cx="83.0" cy="165.0" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><a href="/setts/s11/lb7k11lt3db9g19lo3k22db9lt3k3db6~x2/"><circle cx="82.6" cy="166.5" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/setts/s16/t3k18o3k4o3k3o18ly3o3db8o3db3g15k3o3w3~x2/"><circle cx="56.5" cy="123.0" r="4" fill="#3465a4"><title>Innes, hunting</title></circle></a><circle cx="98.7" cy="133.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db3k3db15k15ly3k3g15w3k15db4r6k3ly1~x2/"><circle cx="124.0" cy="112.6" r="4" fill="#3465a4"><title>Allison</title></circle></a><a href="/setts/s13/r2dg6db12k3lb3k3dg16k2dg2k2dg2k12ly2/"><circle cx="124.7" cy="150.4" r="4" fill="#3465a4"><title>MacInnes</title></circle></a><a href="/setts/s13/r2g6db12k3t3k3g16k2g2k2g2k12ly2~x2/"><circle cx="117.2" cy="144.9" r="4" fill="#3465a4"><title>MacInnes</title></circle></a><a href="/setts/s12/t4k3t2db6k15ly2g16db4t2db2k8w4~x2/"><circle cx="88.7" cy="148.4" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/setts/s14/r1k6g1k1g1k1g6k1b1k1k3k3g3w1~x8/"><circle cx="87.9" cy="160.8" r="4" fill="#3465a4"><title>Elgin - Landshut</title></circle></a><a href="/setts/s14/k1ly1k1g6k6db6r1db1r1db6k6g6k1t1~x4/"><circle cx="81.0" cy="162.9" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><a href="/setts/s14/db2k2db16k15ly2g16k2g16w2k17db4r6k3ly2~x2/"><circle cx="108.7" cy="137.3" r="4" fill="#3465a4"><title>Allison (MacGregor-Hastie)</title></circle></a><a href="/setts/s15/db2r1db6k6g6k1t1k1ly1k1g6k6db6g1db2~x4/"><circle cx="83.2" cy="165.1" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><a href="/setts/s11/lb7k11lt3db9g19lo3k22db9lt3k3db6~x2/"><circle cx="82.9" cy="166.5" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/setts/s16/t3k18o3k4o3k3o18ly3o3db8o3db3g15k3o3w3~x2/"><circle cx="56.7" cy="123.2" r="4" fill="#3465a4"><title>Innes, hunting</title></circle></a><circle cx="98.9" cy="133.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/db3k3db12k18g14k2g14k8ly2k8t4r4k2w3~x2/

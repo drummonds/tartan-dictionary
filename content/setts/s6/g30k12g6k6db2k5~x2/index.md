@@ -2,7 +2,7 @@
 title: "Fife, Duchess of.."
 date: 2023-03-18
 ---
-**Bands:** [GKGKBK](/stripes/gkgkbk/) · **Stripes:** [G K G K DB K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">G K G K DB K</span></span>
+**Bands:** [KBKGKG](/stripes/kbkgkg/) · **Stripes:** [K DB K G K G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K DB K G K G</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -914,19 +917,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacLean of Duart, hunting](/setts/s8/g3k6w1k6g2k2g16k1~x2/) — ΔT 0.70
 1. [Duchess of Fife](/setts/s6/g70k26g12k14b3k16~x2/) — ΔT 0.70
-1. [Forbes](/setts/s6/ly1k4g4k8g16r1~x2/) — ΔT 0.94
+1. [Forbes](/setts/s6/r1g16k8g4k4ly1~x2/) — ΔT 0.94
 1. [MacArthur-Fox](/setts/s5/k19g8k10g31r3/) — ΔT 1.15
 1. [MacArthur](/setts/s5/k32g6k12g30ly3/) — ΔT 1.29
-1. [MacIver hunting](/setts/s9/ly3g27k5g5k32g5k5g27w3~x2/) — ΔT 1.35
+1. [MacIver hunting](/setts/s9/w3g27k5g5k32g5k5g27ly3~x2/) — ΔT 1.35
 1. [Innes](/setts/s6/g7k1g7t1k6t1~x2/) — ΔT 1.38
-1. [Graham](/setts/s4/g12k4g1k4~x2/) — ΔT 1.39
+1. [Graham](/setts/s4/g12k4g1~x2/) — ΔT 1.39
 1. [MacLean VS](/setts/s8/dg3k6lb1k6dg2k2dg16k1~x2/) — ΔT 1.40
-1. [Forbes VS](/setts/s6/ly1k4dg3k8dg16r1/) — ΔT 1.40
+1. [Forbes VS](/setts/s6/r1dg16k8dg3k4ly1/) — ΔT 1.40
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g3k6w1k6g2k2g16k1~x2/"><circle cx="334.8" cy="187.7" r="4" fill="#3465a4"><title>MacLean of Duart, hunting</title></circle></a><a href="/setts/s6/g70k26g12k14b3k16~x2/"><circle cx="363.6" cy="197.1" r="4" fill="#3465a4"><title>Duchess of Fife</title></circle></a><a href="/setts/s6/ly1k4g4k8g16r1~x2/"><circle cx="318.7" cy="189.5" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s5/k19g8k10g31r3/"><circle cx="294.5" cy="248.7" r="4" fill="#3465a4"><title>MacArthur-Fox</title></circle></a><a href="/setts/s5/k32g6k12g30ly3/"><circle cx="292.5" cy="245.2" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/setts/s9/ly3g27k5g5k32g5k5g27w3~x2/"><circle cx="286.7" cy="184.8" r="4" fill="#3465a4"><title>MacIver hunting</title></circle></a><a href="/setts/s6/g7k1g7t1k6t1~x2/"><circle cx="298.4" cy="250.2" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/setts/s4/g12k4g1k4~x2/"><circle cx="371.9" cy="264.1" r="4" fill="#3465a4"><title>Graham</title></circle></a><a href="/setts/s8/dg3k6lb1k6dg2k2dg16k1~x2/"><circle cx="364.6" cy="202.3" r="4" fill="#3465a4"><title>MacLean VS</title></circle></a><a href="/setts/s6/ly1k4dg3k8dg16r1/"><circle cx="340.5" cy="198.6" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><circle cx="344.2" cy="211.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g3k6w1k6g2k2g16k1~x2/"><circle cx="334.8" cy="187.4" r="4" fill="#3465a4"><title>MacLean of Duart, hunting</title></circle></a><a href="/setts/s6/g70k26g12k14b3k16~x2/"><circle cx="363.6" cy="196.8" r="4" fill="#3465a4"><title>Duchess of Fife</title></circle></a><a href="/setts/s6/r1g16k8g4k4ly1~x2/"><circle cx="318.7" cy="189.2" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s5/k19g8k10g31r3/"><circle cx="294.6" cy="248.4" r="4" fill="#3465a4"><title>MacArthur-Fox</title></circle></a><a href="/setts/s5/k32g6k12g30ly3/"><circle cx="292.6" cy="244.9" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/setts/s9/w3g27k5g5k32g5k5g27ly3~x2/"><circle cx="286.7" cy="184.6" r="4" fill="#3465a4"><title>MacIver hunting</title></circle></a><a href="/setts/s6/g7k1g7t1k6t1~x2/"><circle cx="298.4" cy="249.9" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/setts/s4/g12k4g1~x2/"><circle cx="371.9" cy="263.7" r="4" fill="#3465a4"><title>Graham</title></circle></a><a href="/setts/s8/dg3k6lb1k6dg2k2dg16k1~x2/"><circle cx="364.7" cy="202.1" r="4" fill="#3465a4"><title>MacLean VS</title></circle></a><a href="/setts/s6/r1dg16k8dg3k4ly1/"><circle cx="340.5" cy="198.4" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><circle cx="344.2" cy="210.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/g30k12g6k6db2k5~x2/

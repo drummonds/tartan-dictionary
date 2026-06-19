@@ -8,13 +8,13 @@ A family of [Clan Louise](/clan/louise/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s11/db1k1db9k6dg1k1dg1k1dg6r1k1~x2/"><img src="/setts/s11/db1k1db9k6dg1k1dg1k1dg6r1k1~x2/sett.png" alt="Louise of Lorne" width="240"><br>Louise of Lorne</a>
+<a class="tartan" href="/setts/s11/k1r1dg6k1dg1k1dg1k6db9k1db1~x2/"><img src="/setts/s11/k1r1dg6k1dg1k1dg1k6db9k1db1~x2/sett.png" alt="Louise of Lorne" width="240"><br>Louise of Lorne</a>
 
 ## Other tartans
 
 <ul class="tartan-grid">
 <li><a class="tartan" href="/setts/s13/r4g22k16ly2k3w3k2db20r8k2r4k1w2~x2/"><img src="/setts/s13/r4g22k16ly2k3w3k2db20r8k2r4k1w2~x2/sett.png" alt="Galt, Sir Alexander.." width="140"><br>Galt, Sir Alexander..</a></li>
-<li><a class="tartan" href="/setts/s11/db1k1db9k6g1k1g1k1g6r1k1~x2/"><img src="/setts/s11/db1k1db9k6g1k1g1k1g6r1k1~x2/sett.png" alt="Louise" width="140"><br>Louise</a></li>
+<li><a class="tartan" href="/setts/s11/k1r1g6k1g1k1g1k6db9k1db1~x2/"><img src="/setts/s11/k1r1g6k1g1k1g1k6db9k1db1~x2/sett.png" alt="Louise" width="140"><br>Louise</a></li>
 <li><a class="tartan" href="/setts/s13/r4dg22k16ly2k3w3k2db20r8k2r4k1w2~x2/"><img src="/setts/s13/r4dg22k16ly2k3w3k2db20r8k2r4k1w2~x2/sett.png" alt="Louise of Lorne #2" width="140"><br>Louise of Lorne #2</a></li>
 </ul>
 

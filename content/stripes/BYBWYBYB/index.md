@@ -21,14 +21,14 @@ BYBWYBYB
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### T LY T W LY DO LY DO <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="seq">T LY T W LY DO LY DO</span></span>
+### DO LY DO LY W T LY T <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="seq">DO LY DO LY W T LY T</span></span>
 
 | Tartans |
 |---------------|
 | [Bannockbane Tan](/setts/s8/do4ly2do13ly1w13t13ly2t4~x2/)|
 |![Bannockbane Tan example sett](/setts/s8/do4ly2do13ly1w13t13ly2t4~x2/sett.png)|
 
-### T LY T W LY DR LY DR <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="seq">T LY T W LY DR LY DR</span></span>
+### DR LY DR LY W T LY T <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="seq">DR LY DR LY W T LY T</span></span>
 
 | Tartans |
 |---------------|

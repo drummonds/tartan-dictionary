@@ -2,7 +2,7 @@
 title: "Buchanan, dress"
 date: 2023-03-18
 ---
-**Bands:** [BRKGKYKYKGKWR](/stripes/brkgkykykgkwr/) · **Stripes:** [T O K Y K LY K LY K Y K W R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">T O K Y K LY K LY K Y K W R</span></span>
+**Bands:** [RWKGKYKYKGKRB](/stripes/rwkgkykykgkrb/) · **Stripes:** [R W K Y K LY K LY K Y K O T](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="seq">R W K Y K LY K LY K Y K O T</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/6 LT68 K4 N8 K4 Y14 K4 Y14 K4 N8 K4 LN68 R/6
+R/6 LN68 K4 N8 K4 Y14 K4 Y14 K4 N8 K4 LT68 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -918,8 +921,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r3w34k2y4k2ly7k2ly7k2y4k2dy34t3~x2/"><circle cx="111.3" cy="48.4" r="4" fill="#3465a4"><title>Buchanan Dress</title></circle></a><a href="/setts/s13/r3w34k2o4k2ly7k2ly7k2o4k2dy34t3~x2/"><circle cx="113.7" cy="48.2" r="4" fill="#3465a4"><title>Buchanan Dress Clan Tartan Tartan Number: 608. Earliest known date: 1977 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/r3w34k2o4k2lo7k2lo7k2o4k2do34t3~x2/"><circle cx="110.6" cy="47.1" r="4" fill="#3465a4"><title>Buchanan Dress (Fashion)</title></circle></a><a href="/setts/s13/k2r16w1db2w1ly3w2ly3w1db2w1g16t2~x2/"><circle cx="108.2" cy="59.6" r="4" fill="#3465a4"><title>Gibbs, Gibson</title></circle></a><a href="/setts/s14/o3w20r1db1r1db3r4db2r4db2r4db1y8ly1~x4/"><circle cx="147.1" cy="61.6" r="4" fill="#3465a4"><title>Cairn (Fashion)</title></circle></a><a href="/setts/s12/y10lb2dr4ly2dr3w3dr3o18w30n2w4dr2~x2/"><circle cx="163.8" cy="66.6" r="4" fill="#3465a4"><title>MacLean of Duart, dress</title></circle></a><a href="/setts/s13/dg1r16w1db2w2ly4w2ly4w2db2w1dg16t1~x4/"><circle cx="123.7" cy="71.1" r="4" fill="#3465a4"><title>Gibbs/Gibson (Name)</title></circle></a><a href="/setts/s16/lg4w1k3w1lo2w1k3w1lo2w1k3w1lg3lb14r1ly2~x2/"><circle cx="71.5" cy="60.9" r="4" fill="#3465a4"><title>City of Dorvil (District)</title></circle></a><a href="/setts/s12/y10lb2dy4ly2dy3w3dy3o18w30n2w4dy2~x2/"><circle cx="166.3" cy="67.9" r="4" fill="#3465a4"><title>MacLean of Duart Dress #4</title></circle></a><a href="/setts/s16/r3k2t2r2dg20r3dg2r2db7r2dg2w23k2t2w2dg2~x2/"><circle cx="115.9" cy="75.8" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin (Dress Hunting Stewart)</title></circle></a><circle cx="111.7" cy="46.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r3w34k2y4k2ly7k2ly7k2y4k2dy34t3~x2/"><circle cx="111.0" cy="48.5" r="4" fill="#3465a4"><title>Buchanan Dress</title></circle></a><a href="/setts/s13/r3w34k2o4k2ly7k2ly7k2o4k2dy34t3~x2/"><circle cx="113.4" cy="48.3" r="4" fill="#3465a4"><title>Buchanan Dress Clan Tartan Tartan Number: 608. Earliest known date: 1977 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/r3w34k2o4k2lo7k2lo7k2o4k2do34t3~x2/"><circle cx="110.3" cy="47.3" r="4" fill="#3465a4"><title>Buchanan Dress (Fashion)</title></circle></a><a href="/setts/s13/k2r16w1db2w1ly3w2ly3w1db2w1g16t2~x2/"><circle cx="108.0" cy="59.8" r="4" fill="#3465a4"><title>Gibbs, Gibson</title></circle></a><a href="/setts/s14/o3w20r1db1r1db3r4db2r4db2r4db1y8ly1~x4/"><circle cx="146.8" cy="61.7" r="4" fill="#3465a4"><title>Cairn (Fashion)</title></circle></a><a href="/setts/s12/y10lb2dr4ly2dr3w3dr3o18w30n2w4dr2~x2/"><circle cx="163.4" cy="66.7" r="4" fill="#3465a4"><title>MacLean of Duart, dress</title></circle></a><a href="/setts/s13/dg1r16w1db2w2ly4w2ly4w2db2w1dg16t1~x4/"><circle cx="123.4" cy="71.2" r="4" fill="#3465a4"><title>Gibbs/Gibson (Name)</title></circle></a><a href="/setts/s16/lg4w1k3w1lo2w1k3w1lo2w1k3w1lg3lb14r1ly2~x2/"><circle cx="71.2" cy="61.1" r="4" fill="#3465a4"><title>City of Dorvil (District)</title></circle></a><a href="/setts/s12/y10lb2dy4ly2dy3w3dy3o18w30n2w4dy2~x2/"><circle cx="165.9" cy="68.0" r="4" fill="#3465a4"><title>MacLean of Duart Dress #4</title></circle></a><a href="/setts/s16/r3k2t2r2dg20r3dg2r2db7r2dg2w23k2t2w2dg2~x2/"><circle cx="115.7" cy="75.9" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin (Dress Hunting Stewart)</title></circle></a><circle cx="111.4" cy="46.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r3w34k2y4k2ly7k2ly7k2y4k2o34t3~x2/

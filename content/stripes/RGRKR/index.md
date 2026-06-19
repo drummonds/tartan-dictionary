@@ -8,7 +8,7 @@ RGRKR
 
 It is a 5 band tartan.
 
-![Woven sample](/setts/s5/r3g10r10k10r3~x4/tartan.png)
+![Woven sample](/setts/s5/r3k10r10g10r3~x4/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ RGRKR
 
 
 
-### R G R K R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G R K R</span></span>
+### R K R G R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R G R</span></span>
 
 | Tartans |
 |---------------|
-| [Unidentified (Gow-like)](/setts/s5/r3g10r10k10r3~x4/)|
-|![Unidentified (Gow-like) example sett](/setts/s5/r3g10r10k10r3~x4/sett.png)|
+| [Unidentified (Gow-like)](/setts/s5/r3k10r10g10r3~x4/)|
+|![Unidentified (Gow-like) example sett](/setts/s5/r3k10r10g10r3~x4/sett.png)|
 

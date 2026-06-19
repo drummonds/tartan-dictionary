@@ -18,10 +18,10 @@ GRKWRGRGWGR
 
 
 
-### G R K W R G R G W G R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">G R K W R G R G W G R</span></span>
+### R G W G R G R W K R G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G W G R G R W K R G</span></span>
 
 | Tartans |
 |---------------|
-| [Scott, dress](/setts/s11/g4r2k1w30r10g14r4g5w2g5r4~x2/)|
-|![Scott, dress example sett](/setts/s11/g4r2k1w30r10g14r4g5w2g5r4~x2/sett.png)|
+| [Scott, dress](/setts/s11/r4g5w2g5r4g14r10w30k1r2g4~x2/)|
+|![Scott, dress example sett](/setts/s11/r4g5w2g5r4g14r10w30k1r2g4~x2/sett.png)|
 

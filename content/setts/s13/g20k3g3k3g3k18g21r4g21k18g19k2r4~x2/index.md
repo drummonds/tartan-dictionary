@@ -2,7 +2,7 @@
 title: "Moncrieffe Athol"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGKGRGKGKR](/stripes/gkgkgkgrgkgkr/) · **Stripes:** [G K G K G K G R G K G K R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">G K G K G K G R G K G K R</span></span>
+**Bands:** [RKGKGRGKGKGKG](/stripes/rkgkgrgkgkgkg/) · **Stripes:** [R K G K G R G K G K G K G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K G K G R G K G K G K G</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -908,7 +911,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [MacIver hunting](/setts/s9/ly3g27k5g5k32g5k5g27w3~x2/) — ΔT 1.37
+1. [MacIver hunting](/setts/s9/w3g27k5g5k32g5k5g27ly3~x2/) — ΔT 1.37
 1. [Ross Hunting](/setts/s14/dg2w4dg2w1dg1w1dg3k2dg2k2dg12r1dg2r1~x2/) — ΔT 1.44
 1. [MacLean of Duart, hunting](/setts/s8/g3k6w1k6g2k2g16k1~x2/) — ΔT 1.55
 1. [Ross, hunting](/setts/s14/g4t6g3t2g3t2g3k5g3k5g20r3g4r3~x2/) — ΔT 1.58
@@ -917,12 +920,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Innes](/setts/s6/g7k1g7t1k6t1~x2/) — ΔT 1.75
 1. [MacAlpine](/setts/s14/k4ly1k4g1k4w1k4g1k1g6k1g6k1g1~x4/) — ΔT 1.80
 1. [Fife, Duchess of..](/setts/s6/g30k12g6k6db2k5~x2/) — ΔT 1.81
-1. [Paton](/setts/s7/ly3g3ly3g19k28g24r3~x2/) — ΔT 1.81
+1. [Paton](/setts/s7/r3g24k28g19ly3g3ly3~x2/) — ΔT 1.81
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/ly3g27k5g5k32g5k5g27w3~x2/"><circle cx="286.7" cy="184.8" r="4" fill="#3465a4"><title>MacIver hunting</title></circle></a><a href="/setts/s14/dg2w4dg2w1dg1w1dg3k2dg2k2dg12r1dg2r1~x2/"><circle cx="332.8" cy="150.7" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><a href="/setts/s8/g3k6w1k6g2k2g16k1~x2/"><circle cx="334.8" cy="187.7" r="4" fill="#3465a4"><title>MacLean of Duart, hunting</title></circle></a><a href="/setts/s14/g4t6g3t2g3t2g3k5g3k5g20r3g4r3~x2/"><circle cx="284.4" cy="168.9" r="4" fill="#3465a4"><title>Ross, hunting</title></circle></a><a href="/setts/s16/k3g10ly2g10k9g2k9g10r2g10k3g2k5g2k5g2~x2/"><circle cx="222.0" cy="214.4" r="4" fill="#3465a4"><title>Stewart hunting</title></circle></a><a href="/setts/s14/g11db1k1g2k12ly1k12g2k2g11k2g2k12ly1~x4/"><circle cx="294.1" cy="167.3" r="4" fill="#3465a4"><title>Hopetoun, Rejected design</title></circle></a><a href="/setts/s6/g7k1g7t1k6t1~x2/"><circle cx="298.4" cy="250.2" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/setts/s14/k4ly1k4g1k4w1k4g1k1g6k1g6k1g1~x4/"><circle cx="225.4" cy="203.4" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s6/g30k12g6k6db2k5~x2/"><circle cx="344.2" cy="211.3" r="4" fill="#3465a4"><title>Fife, Duchess of..</title></circle></a><a href="/setts/s7/ly3g3ly3g19k28g24r3~x2/"><circle cx="263.1" cy="199.0" r="4" fill="#3465a4"><title>Paton</title></circle></a><circle cx="316.3" cy="201.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w3g27k5g5k32g5k5g27ly3~x2/"><circle cx="286.7" cy="184.6" r="4" fill="#3465a4"><title>MacIver hunting</title></circle></a><a href="/setts/s14/dg2w4dg2w1dg1w1dg3k2dg2k2dg12r1dg2r1~x2/"><circle cx="332.5" cy="150.4" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><a href="/setts/s8/g3k6w1k6g2k2g16k1~x2/"><circle cx="334.8" cy="187.4" r="4" fill="#3465a4"><title>MacLean of Duart, hunting</title></circle></a><a href="/setts/s14/g4t6g3t2g3t2g3k5g3k5g20r3g4r3~x2/"><circle cx="284.2" cy="168.8" r="4" fill="#3465a4"><title>Ross, hunting</title></circle></a><a href="/setts/s16/k3g10ly2g10k9g2k9g10r2g10k3g2k5g2k5g2~x2/"><circle cx="222.1" cy="214.2" r="4" fill="#3465a4"><title>Stewart hunting</title></circle></a><a href="/setts/s14/g11db1k1g2k12ly1k12g2k2g11k2g2k12ly1~x4/"><circle cx="294.2" cy="167.1" r="4" fill="#3465a4"><title>Hopetoun, Rejected design</title></circle></a><a href="/setts/s6/g7k1g7t1k6t1~x2/"><circle cx="298.4" cy="249.9" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/setts/s14/k4ly1k4g1k4w1k4g1k1g6k1g6k1g1~x4/"><circle cx="225.5" cy="203.2" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s6/g30k12g6k6db2k5~x2/"><circle cx="344.2" cy="210.9" r="4" fill="#3465a4"><title>Fife, Duchess of..</title></circle></a><a href="/setts/s7/r3g24k28g19ly3g3ly3~x2/"><circle cx="263.1" cy="198.7" r="4" fill="#3465a4"><title>Paton</title></circle></a><circle cx="316.2" cy="200.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/g20k3g3k3g3k18g21r4g21k18g19k2r4~x2/

@@ -2,7 +2,7 @@
 title: "Ville de Beauport"
 date: 2023-03-18
 ---
-**Bands:** [GKBKWKRYKYKWK](/stripes/gkbkwkrykykwk/) · **Stripes:** [G K DB K LB K R LY K LY K LB K](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="seq">G K DB K LB K R LY K LY K LB K</span></span>
+**Bands:** [KWKYKYRKWKBKG](/stripes/kwkykyrkwkbkg/) · **Stripes:** [K LB K LY K LY R K LB K DB K G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K LB K LY K LY R K LB K DB K G</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g16k1db12k1o12k1r10ly7k1ly7k2o1k4~x2/"><circle cx="52.0" cy="108.2" r="4" fill="#3465a4"><title>Ville de Beauport</title></circle></a><a href="/setts/s13/w2o14ly3k6w2k2w2k2g8y6k2y3w1~x2/"><circle cx="50.6" cy="109.3" r="4" fill="#3465a4"><title>O'Farrell</title></circle></a><a href="/setts/s13/w2ly3k2ly6g8k2w2k2g2k6ly3db14w1~x2/"><circle cx="53.0" cy="112.1" r="4" fill="#3465a4"><title>Bowling Irish Family Tartan Tartan Number: 1796. Earliest known date: 1880 This pattern was recorded by Bill Johnston, Shippak, USA in 1978 along with other patterns extracted from the 'Clan Originaux' at Pendleton Mill. This and other Irish patterns appear to have originated in the former Waterford Mill in Ireland before they arrived at Pendleton in the late 19C See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/g12k1db4k1ly6k1ly6k1db4k1r8w1r8k1db4k1g6db4~x4/"><circle cx="49.3" cy="105.9" r="4" fill="#3465a4"><title>Buchanan 2</title></circle></a><a href="/setts/s13/t4g25k2t4k2ly8k3ly8k2t4k2r25w4~x2/"><circle cx="77.4" cy="92.2" r="4" fill="#3465a4"><title>Buchanan 9</title></circle></a><a href="/setts/s16/dy8db8dy3db1ly2dy10ly2db2ly15ly3k3ly15k1r3k8r8~x2/"><circle cx="38.6" cy="98.5" r="4" fill="#3465a4"><title>Du Lion</title></circle></a><a href="/setts/s13/w6db18k1dg8w2k8w2ly8k1r8lo2k1lo4~x2/"><circle cx="35.1" cy="78.7" r="4" fill="#3465a4"><title>Mozambique</title></circle></a><a href="/setts/s13/t2g12k1t2k1ly3k1ly3k1t2k1r12w2~x2/"><circle cx="84.6" cy="92.3" r="4" fill="#3465a4"><title>Buchanan 1</title></circle></a><a href="/setts/s13/t4dg25k2t4k2ly8k3ly8k2t4k2r25w4~x2/"><circle cx="87.4" cy="95.3" r="4" fill="#3465a4"><title>Buchanan #4</title></circle></a><a href="/setts/s15/w9dy14do11dy3lo11ly7w1do3w1ly7dy7do3w2t2w2~x2/"><circle cx="65.2" cy="112.2" r="4" fill="#3465a4"><title>Bonnie Prince Charlie (Hudson Bay)</title></circle></a><circle cx="32.9" cy="97.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g16k1db12k1o12k1r10ly7k1ly7k2o1k4~x2/"><circle cx="51.9" cy="108.4" r="4" fill="#3465a4"><title>Ville de Beauport</title></circle></a><a href="/setts/s13/w2o14ly3k6w2k2w2k2g8y6k2y3w1~x2/"><circle cx="50.6" cy="109.4" r="4" fill="#3465a4"><title>O'Farrell</title></circle></a><a href="/setts/s13/w2ly3k2ly6g8k2w2k2g2k6ly3db14w1~x2/"><circle cx="53.0" cy="112.3" r="4" fill="#3465a4"><title>Bowling Irish Family Tartan Tartan Number: 1796. Earliest known date: 1880 This pattern was recorded by Bill Johnston, Shippak, USA in 1978 along with other patterns extracted from the 'Clan Originaux' at Pendleton Mill. This and other Irish patterns appear to have originated in the former Waterford Mill in Ireland before they arrived at Pendleton in the late 19C See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/g12k1db4k1ly6k1ly6k1db4k1r8w1r8k1db4k1g6db4~x4/"><circle cx="49.2" cy="106.0" r="4" fill="#3465a4"><title>Buchanan 2</title></circle></a><a href="/setts/s13/t4g25k2t4k2ly8k3ly8k2t4k2r25w4~x2/"><circle cx="77.3" cy="92.3" r="4" fill="#3465a4"><title>Buchanan 9</title></circle></a><a href="/setts/s16/dy8db8dy3db1ly2dy10ly2db2ly15ly3k3ly15k1r3k8r8~x2/"><circle cx="38.5" cy="98.7" r="4" fill="#3465a4"><title>Du Lion</title></circle></a><a href="/setts/s13/w6db18k1dg8w2k8w2ly8k1r8lo2k1lo4~x2/"><circle cx="35.0" cy="78.9" r="4" fill="#3465a4"><title>Mozambique</title></circle></a><a href="/setts/s13/t2g12k1t2k1ly3k1ly3k1t2k1r12w2~x2/"><circle cx="84.4" cy="92.4" r="4" fill="#3465a4"><title>Buchanan 1</title></circle></a><a href="/setts/s13/t4dg25k2t4k2ly8k3ly8k2t4k2r25w4~x2/"><circle cx="87.2" cy="95.4" r="4" fill="#3465a4"><title>Buchanan #4</title></circle></a><a href="/setts/s15/w9dy14do11dy3lo11ly7w1do3w1ly7dy7do3w2t2w2~x2/"><circle cx="65.0" cy="112.3" r="4" fill="#3465a4"><title>Bonnie Prince Charlie (Hudson Bay)</title></circle></a><circle cx="32.8" cy="98.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/g16k1db12k1lb12k1r10ly7k1ly7k2lb1k4~x2/

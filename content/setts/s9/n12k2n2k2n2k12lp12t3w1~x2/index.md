@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/
 Original link http://www.tartansauthority.com/tartan-ferret/display/10449/
 
 ## Thread count
-LN/2 B6 LP24 K24 N4 K4 N4 K4 N/24
+N/24 K4 N4 K4 N4 K24 LP24 B6 LN/2
 ![Sett](sett.png)
 
 ## Palette
@@ -32,17 +32,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Royal College of Surgeons of Edinburgh, The](/setts/s9/t4n16k2n2k2n2k13o20w4~x2/) — ΔT 0.79
 1. [Ballantyne (Personal) STWR](/setts/s8/db34dy9ly3dy9y30r3y11r5/) — ΔT 0.80
 1. [Lovell (2014)](/setts/s8/ly2k2db14db4k5r2ly5r1~x4/) — ΔT 0.82
-1. [Thompson Variant](/setts/s10/lo1db9k1lb4k1lb2k2lb2k1r1~x4/) — ΔT 0.88
+1. [Thompson Variant](/setts/s10/r1k1lb2k2lb2k1lb4k1db9lo1~x4/) — ΔT 0.88
 1. [Ritchie, Stephen James (Personal)](/setts/s7/t4n19lr2k19n2lr25lb2~x2/) — ΔT 0.90
 1. [Heart of the Highlands](/setts/s9/o18k3o4lb3o4k18n20k2m4~x2/) — ΔT 0.91
 1. [Collister (Personal)](/setts/s10/k26n2k2n2k2n10w10n6dt10lo5~x2/) — ΔT 0.93
 1. [Monaghan County Crest (Fashion)](/setts/s8/lo15db2lr8db21w2db21db6w7~x2/) — ΔT 0.95
-1. [Brady 60th (Personal)](/setts/s10/ly1db9k1o1k1o1k3o7r1o1~x4/) — ΔT 0.97
+1. [Brady 60th (Personal)](/setts/s10/o1r1o7k3o1k1o1k1db9ly1~x4/) — ΔT 0.97
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lr18k3lr4w3lr4k19n20k2m4~x2/"><circle cx="141.8" cy="163.1" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/setts/s9/t4n16k2n2k2n2k13o20w4~x2/"><circle cx="133.9" cy="165.0" r="4" fill="#3465a4"><title>Royal College of Surgeons of Edinburgh, The</title></circle></a><a href="/setts/s8/db34dy9ly3dy9y30r3y11r5/"><circle cx="187.1" cy="174.1" r="4" fill="#3465a4"><title>Ballantyne (Personal) STWR</title></circle></a><a href="/setts/s8/ly2k2db14db4k5r2ly5r1~x4/"><circle cx="166.1" cy="152.9" r="4" fill="#3465a4"><title>Lovell (2014)</title></circle></a><a href="/setts/s10/lo1db9k1lb4k1lb2k2lb2k1r1~x4/"><circle cx="149.3" cy="146.9" r="4" fill="#3465a4"><title>Thompson Variant</title></circle></a><a href="/setts/s7/t4n19lr2k19n2lr25lb2~x2/"><circle cx="175.7" cy="167.6" r="4" fill="#3465a4"><title>Ritchie, Stephen James (Personal)</title></circle></a><a href="/setts/s9/o18k3o4lb3o4k18n20k2m4~x2/"><circle cx="161.2" cy="174.2" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/setts/s10/k26n2k2n2k2n10w10n6dt10lo5~x2/"><circle cx="158.2" cy="141.8" r="4" fill="#3465a4"><title>Collister (Personal)</title></circle></a><a href="/setts/s8/lo15db2lr8db21w2db21db6w7~x2/"><circle cx="110.0" cy="178.4" r="4" fill="#3465a4"><title>Monaghan County Crest (Fashion)</title></circle></a><a href="/setts/s10/ly1db9k1o1k1o1k3o7r1o1~x4/"><circle cx="183.5" cy="154.5" r="4" fill="#3465a4"><title>Brady 60th (Personal)</title></circle></a><circle cx="150.3" cy="155.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lr18k3lr4w3lr4k19n20k2m4~x2/"><circle cx="141.8" cy="163.1" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/setts/s9/t4n16k2n2k2n2k13o20w4~x2/"><circle cx="133.9" cy="165.1" r="4" fill="#3465a4"><title>Royal College of Surgeons of Edinburgh, The</title></circle></a><a href="/setts/s8/db34dy9ly3dy9y30r3y11r5/"><circle cx="187.2" cy="174.1" r="4" fill="#3465a4"><title>Ballantyne (Personal) STWR</title></circle></a><a href="/setts/s8/ly2k2db14db4k5r2ly5r1~x4/"><circle cx="166.1" cy="152.9" r="4" fill="#3465a4"><title>Lovell (2014)</title></circle></a><a href="/setts/s10/r1k1lb2k2lb2k1lb4k1db9lo1~x4/"><circle cx="149.3" cy="146.8" r="4" fill="#3465a4"><title>Thompson Variant</title></circle></a><a href="/setts/s7/t4n19lr2k19n2lr25lb2~x2/"><circle cx="175.6" cy="167.6" r="4" fill="#3465a4"><title>Ritchie, Stephen James (Personal)</title></circle></a><a href="/setts/s9/o18k3o4lb3o4k18n20k2m4~x2/"><circle cx="161.2" cy="174.3" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/setts/s10/k26n2k2n2k2n10w10n6dt10lo5~x2/"><circle cx="158.2" cy="141.8" r="4" fill="#3465a4"><title>Collister (Personal)</title></circle></a><a href="/setts/s8/lo15db2lr8db21w2db21db6w7~x2/"><circle cx="110.1" cy="178.5" r="4" fill="#3465a4"><title>Monaghan County Crest (Fashion)</title></circle></a><a href="/setts/s10/o1r1o7k3o1k1o1k1db9ly1~x4/"><circle cx="183.5" cy="154.5" r="4" fill="#3465a4"><title>Brady 60th (Personal)</title></circle></a><circle cx="150.3" cy="155.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/n12k2n2k2n2k12lp12t3w1~x2/

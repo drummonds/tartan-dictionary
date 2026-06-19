@@ -8,7 +8,7 @@ BYBRBY
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/db60ly6db11r25db11ly6~x2/tartan.png)
+![Woven sample](/setts/s6/db60ly6db11r25~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ BYBRBY
 
 
 
-### DB LY DB R DB LY <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB LY DB R DB LY</span></span>
+### LY DB R DB LY DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB R DB LY DB</span></span>
 
 | Tartans |
 |---------------|
-| [South Australian Pipes & Drums (Corp](/setts/s6/db60ly6db11r25db11ly6~x2/)|
-|![South Australian Pipes & Drums (Corp example sett](/setts/s6/db60ly6db11r25db11ly6~x2/sett.png)|
+| [South Australian Pipes & Drums (Corp](/setts/s6/db60ly6db11r25~x2/)|
+|![South Australian Pipes & Drums (Corp example sett](/setts/s6/db60ly6db11r25~x2/sett.png)|
 

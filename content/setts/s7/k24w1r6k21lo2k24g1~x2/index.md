@@ -2,7 +2,7 @@
 title: "Gourlay, George (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GKYKRWK](/stripes/gkykrwk/) · **Stripes:** [G K LO K R W K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">G K LO K R W K</span></span>
+**Bands:** [KWRKYKG](/stripes/kwrkykg/) · **Stripes:** [K W R K LO K G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K W R K LO K G</span></span>
 
 
 This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/
 Original link http://www.tartansauthority.com/tartan-ferret/display/10266/
 
 ## Thread count
-G/2 K48 DY4 K42 R12 LN2 K/48
+K/48 LN2 R12 K42 DY4 K48 G/2
 ![Sett](sett.png)
 
 ## Palette
@@ -26,7 +26,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/2 K48 DY4 K42 R12 LN2 K/48 tartan")
+![Tartan detail](tartan.png "K/48 LN2 R12 K42 DY4 K48 G/2 tartan")
 
 ## Nearest tartans
 
@@ -45,8 +45,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k24w1r6k21lo2k24dg1~x2/"><circle cx="589.1" cy="186.8" r="4" fill="#3465a4"><title>Gourlay, George (Personal)</title></circle></a><a href="/setts/s9/k25w1n3w1k31n3k31w2o9~x2/"><circle cx="539.9" cy="156.0" r="4" fill="#3465a4"><title>Savannah Harley Davidson (Corporate)</title></circle></a><a href="/setts/s6/k31r2k10db1k1w1~x4/"><circle cx="626.0" cy="172.8" r="4" fill="#3465a4"><title>NewGeneration Alchemy (NGA) Inc</title></circle></a><a href="/setts/s7/k72r3k11t9k11r3k37/"><circle cx="626.0" cy="214.3" r="4" fill="#3465a4"><title>Chafyn House (School)</title></circle></a><a href="/setts/s8/k62r3k3lo3k3r3k9o5~x2/"><circle cx="599.4" cy="152.7" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><a href="/setts/s7/k40dg15k10r2k10lo2k10~x2/"><circle cx="548.3" cy="220.5" r="4" fill="#3465a4"><title>Langhein, Alex (Personal)</title></circle></a><a href="/setts/s5/k45db2r4ly1w1~x2/"><circle cx="621.1" cy="133.7" r="4" fill="#3465a4"><title>McHattie (Personal)</title></circle></a><a href="/setts/s8/k10n2k2n8k40r4k5r2~x2/"><circle cx="538.7" cy="174.2" r="4" fill="#3465a4"><title>Laird Abdullah (Personal)</title></circle></a><a href="/setts/s8/dt74m9dt4r5dt4m9dt37db9~x2/"><circle cx="539.7" cy="182.9" r="4" fill="#3465a4"><title>Rikaco Vintage</title></circle></a><a href="/setts/s6/dt40ly10dt8r20dt100w5/"><circle cx="518.6" cy="181.2" r="4" fill="#3465a4"><title>East of Scotland Tartan Army</title></circle></a><circle cx="582.7" cy="186.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k24w1r6k21lo2k24dg1~x2/"><circle cx="588.9" cy="186.5" r="4" fill="#3465a4"><title>Gourlay, George (Personal)</title></circle></a><a href="/setts/s9/k25w1n3w1k31n3k31w2o9~x2/"><circle cx="539.7" cy="155.7" r="4" fill="#3465a4"><title>Savannah Harley Davidson (Corporate)</title></circle></a><a href="/setts/s6/k31r2k10db1k1w1~x4/"><circle cx="626.0" cy="172.4" r="4" fill="#3465a4"><title>NewGeneration Alchemy (NGA) Inc</title></circle></a><a href="/setts/s7/k72r3k11t9k11r3k37/"><circle cx="626.0" cy="213.8" r="4" fill="#3465a4"><title>Chafyn House (School)</title></circle></a><a href="/setts/s8/k62r3k3lo3k3r3k9o5~x2/"><circle cx="599.2" cy="152.4" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><a href="/setts/s7/k40dg15k10r2k10lo2k10~x2/"><circle cx="548.2" cy="220.3" r="4" fill="#3465a4"><title>Langhein, Alex (Personal)</title></circle></a><a href="/setts/s5/k45db2r4ly1w1~x2/"><circle cx="620.9" cy="133.3" r="4" fill="#3465a4"><title>McHattie (Personal)</title></circle></a><a href="/setts/s8/k10n2k2n8k40r4k5r2~x2/"><circle cx="538.5" cy="174.0" r="4" fill="#3465a4"><title>Laird Abdullah (Personal)</title></circle></a><a href="/setts/s8/dt74m9dt4r5dt4m9dt37db9~x2/"><circle cx="539.5" cy="182.6" r="4" fill="#3465a4"><title>Rikaco Vintage</title></circle></a><a href="/setts/s6/dt40ly10dt8r20dt100w5/"><circle cx="518.4" cy="180.8" r="4" fill="#3465a4"><title>East of Scotland Tartan Army</title></circle></a><circle cx="582.5" cy="185.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k24w1r6k21lo2k24g1~x2/

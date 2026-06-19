@@ -2,7 +2,7 @@
 title: "MacIver Family (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBGGGGGBG](/stripes/bgbgbgggggbg/) · **Stripes:** [DT Y DT Y DT Y Y Y Y Y DT Y](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DT Y DT Y DT Y Y Y Y Y DT Y</span></span>
+**Bands:** [GBGGGGGBGBGB](/stripes/gbgggggbgbgb/) · **Stripes:** [Y DT Y Y Y Y Y DT Y DT Y DT](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="seq">Y DT Y Y Y Y Y DT Y DT Y DT</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6087
 
 ## Thread count
-G/6 K48 G52 LG52 G6 LG52 G52 K6 G6 K6 G6 K/64
+K/64 G6 K6 G6 K6 G52 LG52 G6 LG52 G52 K48 G/6
 ![Sett](sett.png)
 
 ## Palette
@@ -44,8 +44,8 @@ The nearest existing variants by ΔTartan distance.
 1. [Monarch of Argyll (Corporate)](/setts/s12/o23k3o3k3n19k20n3k20n19o19n3o3~x2/) — ΔT 1.09
 1. [Tyneside, Scottish](/setts/s13/db11o1db1o1db1o8g8o1g8o8db8o1db1~x2/) — ΔT 1.18
 1. [MacNeish Htg](/setts/s11/r6g3k3o24g4k10g4r2g24r6g2~x2/) — ΔT 1.24
-1. [Scottish Scouts (1922) (Corporate)](/setts/s13/n11dt2n2dt2n2dt12o12dt2o12dt12n11dt2n2~x2/) — ΔT 1.26
 1. [Monarch of Argyll (Fashion)](/setts/s12/n23k6n6k6o38k40o6k40o38n38o6n6/) — ΔT 1.26
+1. [Scottish Scouts (1922) (Corporate)](/setts/s13/n11dt2n2dt2n2dt12o12dt2o12dt12n11dt2n2~x2/) — ΔT 1.26
 1. [Robertson of Struan](/setts/s7/r6db2r2db21g20r4g4~x2/) — ΔT 1.29
 1. [Antrim, County](/setts/s10/y5dt2y18lo2dt5lo2o5dt17y2lo4~x2/) — ΔT 1.31
 1. [Fraser of Stratherrick](/setts/s12/db20r2db2r2g19r18g2r18g19db19r2db2~x2/) — ΔT 1.31
@@ -53,8 +53,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dp8dy1dp1dy1dp1dy8g8dy1g8dy8dp8dy1dp1~x6/"><circle cx="217.1" cy="204.9" r="4" fill="#3465a4"><title>Tyneside Scottish Purple (Mil/Distr)</title></circle></a><a href="/setts/s12/o23k3o3k3n19k20n3k20n19o19n3o3~x2/"><circle cx="196.7" cy="219.7" r="4" fill="#3465a4"><title>Monarch of Argyll (Corporate)</title></circle></a><a href="/setts/s13/db11o1db1o1db1o8g8o1g8o8db8o1db1~x2/"><circle cx="271.5" cy="218.1" r="4" fill="#3465a4"><title>Tyneside, Scottish</title></circle></a><a href="/setts/s11/r6g3k3o24g4k10g4r2g24r6g2~x2/"><circle cx="235.0" cy="177.7" r="4" fill="#3465a4"><title>MacNeish Htg</title></circle></a><a href="/setts/s13/n11dt2n2dt2n2dt12o12dt2o12dt12n11dt2n2~x2/"><circle cx="217.5" cy="234.9" r="4" fill="#3465a4"><title>Scottish Scouts (1922) (Corporate)</title></circle></a><a href="/setts/s12/n23k6n6k6o38k40o6k40o38n38o6n6/"><circle cx="194.4" cy="223.4" r="4" fill="#3465a4"><title>Monarch of Argyll (Fashion)</title></circle></a><a href="/setts/s7/r6db2r2db21g20r4g4~x2/"><circle cx="269.4" cy="221.4" r="4" fill="#3465a4"><title>Robertson of Struan</title></circle></a><a href="/setts/s10/y5dt2y18lo2dt5lo2o5dt17y2lo4~x2/"><circle cx="249.3" cy="206.1" r="4" fill="#3465a4"><title>Antrim, County</title></circle></a><a href="/setts/s12/db20r2db2r2g19r18g2r18g19db19r2db2~x2/"><circle cx="219.4" cy="200.9" r="4" fill="#3465a4"><title>Fraser of Stratherrick</title></circle></a><a href="/setts/s12/db10r1db1r1g10r13g2r13g10db10r1db1~x2/"><circle cx="251.7" cy="189.0" r="4" fill="#3465a4"><title>Inverness, Fencibles</title></circle></a><circle cx="228.8" cy="210.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dp8dy1dp1dy1dp1dy8g8dy1g8dy8dp8dy1dp1~x6/"><circle cx="216.9" cy="204.9" r="4" fill="#3465a4"><title>Tyneside Scottish Purple (Mil/Distr)</title></circle></a><a href="/setts/s12/o23k3o3k3n19k20n3k20n19o19n3o3~x2/"><circle cx="196.7" cy="219.6" r="4" fill="#3465a4"><title>Monarch of Argyll (Corporate)</title></circle></a><a href="/setts/s13/db11o1db1o1db1o8g8o1g8o8db8o1db1~x2/"><circle cx="271.4" cy="218.1" r="4" fill="#3465a4"><title>Tyneside, Scottish</title></circle></a><a href="/setts/s11/r6g3k3o24g4k10g4r2g24r6g2~x2/"><circle cx="234.9" cy="177.7" r="4" fill="#3465a4"><title>MacNeish Htg</title></circle></a><a href="/setts/s12/n23k6n6k6o38k40o6k40o38n38o6n6/"><circle cx="194.4" cy="223.4" r="4" fill="#3465a4"><title>Monarch of Argyll (Fashion)</title></circle></a><a href="/setts/s13/n11dt2n2dt2n2dt12o12dt2o12dt12n11dt2n2~x2/"><circle cx="217.5" cy="234.9" r="4" fill="#3465a4"><title>Scottish Scouts (1922) (Corporate)</title></circle></a><a href="/setts/s7/r6db2r2db21g20r4g4~x2/"><circle cx="269.3" cy="221.4" r="4" fill="#3465a4"><title>Robertson of Struan</title></circle></a><a href="/setts/s10/y5dt2y18lo2dt5lo2o5dt17y2lo4~x2/"><circle cx="249.3" cy="206.2" r="4" fill="#3465a4"><title>Antrim, County</title></circle></a><a href="/setts/s12/db20r2db2r2g19r18g2r18g19db19r2db2~x2/"><circle cx="219.3" cy="200.9" r="4" fill="#3465a4"><title>Fraser of Stratherrick</title></circle></a><a href="/setts/s12/db10r1db1r1g10r13g2r13g10db10r1db1~x2/"><circle cx="251.5" cy="189.0" r="4" fill="#3465a4"><title>Inverness, Fencibles</title></circle></a><circle cx="228.7" cy="210.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/dt32y3dt3y3dt3y26y26y3y26y26dt24y3~x2/

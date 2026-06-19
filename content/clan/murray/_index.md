@@ -5,7 +5,7 @@ date: 2023-03-18
 ## Families
 
 - [Murray of Abercairney](/families/murray-of-abercairney/)
-- [Murray of Atholl](/families/murray-of-atholl/)
+- [Murray of Atholl,](/families/murray-of-atholl/)
 - [Murray of Dunmore](/families/murray-of-dunmore/)
 - [Murray of Elibank](/families/murray-of-elibank/)
 - [Murray of Ochtertyre](/families/murray-of-ochtertyre/)

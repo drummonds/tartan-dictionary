@@ -2,7 +2,7 @@
 title: "Virginia Tech"
 date: 2023-03-18
 ---
-**Bands:** [BWYRYRYRYR](/stripes/bwyryryryr/) · **Stripes:** [DB W LO R LO R LO R LO R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB W LO R LO R LO R LO R</span></span>
+**Bands:** [RYRYRYRYWB](/stripes/ryryryrywb/) · **Stripes:** [R LO R LO R LO R LO W DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R LO R LO R LO R LO W DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
@@ -24,7 +24,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-DB/8 LN6 O12 DR4 O6 DR4 O30 DR64 O4 DR/12
+DR/12 O4 DR64 O30 DR4 O6 DR4 O12 LN6 DB/8
 ![Sett](sett.png)
 
 ## Palette
@@ -50,12 +50,12 @@ The nearest existing variants by ΔTartan distance.
 1. [MacDonell of Keppoch](/setts/s10/dg2r2db1r24t1db6r3dg12r4db1~x2/) — ΔT 0.96
 1. [MacColl #3](/setts/s14/r12dy1r1dg8r2dy1r1db3r1dy1r12dg1r1dg4~x2/) — ΔT 0.96
 1. [MacDougall #8](/setts/s11/r4dg8k6r8r6dg2r2dg2r24dg1r3~x2/) — ΔT 0.97
-1. [Chisholm D](/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1~x2/) — ΔT 1.00
+1. [Chisholm D](/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1/) — ΔT 1.00
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r6lo2r36lo18r2lo4r2lo6w3db4~x2/"><circle cx="377.9" cy="132.2" r="4" fill="#3465a4"><title>Virginia Tech (Corporate)</title></circle></a><a href="/setts/s10/r7w2r36db6g3db3g3db3g12r4~x2/"><circle cx="380.0" cy="135.3" r="4" fill="#3465a4"><title>Chisholm of Strathglass</title></circle></a><a href="/setts/s10/r12w2r37b6g3b3r4b3g21r4~x2/"><circle cx="379.8" cy="140.4" r="4" fill="#3465a4"><title>Chisholm, The (MacGregor-Hastie)</title></circle></a><a href="/setts/s10/r12w2r37db6g3db3r4db3g21r4~x2/"><circle cx="381.5" cy="141.8" r="4" fill="#3465a4"><title>Chisholm, The</title></circle></a><a href="/setts/s10/r7w2r36b6g3b3g3b3g12r4~x2/"><circle cx="381.0" cy="135.0" r="4" fill="#3465a4"><title>Chisholm of Strathglass (Clan)</title></circle></a><a href="/setts/s9/r5g20r5g3r4g5r36do2w4~x2/"><circle cx="384.5" cy="141.5" r="4" fill="#3465a4"><title>Baluch Regiment (Military)</title></circle></a><a href="/setts/s10/dg2r2db1r24t1db6r3dg12r4db1~x2/"><circle cx="400.9" cy="130.6" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s14/r12dy1r1dg8r2dy1r1db3r1dy1r12dg1r1dg4~x2/"><circle cx="374.6" cy="142.8" r="4" fill="#3465a4"><title>MacColl #3</title></circle></a><a href="/setts/s11/r4dg8k6r8r6dg2r2dg2r24dg1r3~x2/"><circle cx="377.2" cy="131.2" r="4" fill="#3465a4"><title>MacDougall #8</title></circle></a><a href="/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1~x2/"><circle cx="373.5" cy="125.6" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><circle cx="370.3" cy="138.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r6lo2r36lo18r2lo4r2lo6w3db4~x2/"><circle cx="377.4" cy="132.1" r="4" fill="#3465a4"><title>Virginia Tech (Corporate)</title></circle></a><a href="/setts/s10/r7w2r36db6g3db3g3db3g12r4~x2/"><circle cx="379.5" cy="135.1" r="4" fill="#3465a4"><title>Chisholm of Strathglass</title></circle></a><a href="/setts/s10/r12w2r37b6g3b3r4b3g21r4~x2/"><circle cx="379.4" cy="140.2" r="4" fill="#3465a4"><title>Chisholm, The (MacGregor-Hastie)</title></circle></a><a href="/setts/s10/r12w2r37db6g3db3r4db3g21r4~x2/"><circle cx="381.0" cy="141.7" r="4" fill="#3465a4"><title>Chisholm, The</title></circle></a><a href="/setts/s10/r7w2r36b6g3b3g3b3g12r4~x2/"><circle cx="380.5" cy="134.9" r="4" fill="#3465a4"><title>Chisholm of Strathglass (Clan)</title></circle></a><a href="/setts/s9/r5g20r5g3r4g5r36do2w4~x2/"><circle cx="384.0" cy="141.4" r="4" fill="#3465a4"><title>Baluch Regiment (Military)</title></circle></a><a href="/setts/s10/dg2r2db1r24t1db6r3dg12r4db1~x2/"><circle cx="400.5" cy="130.5" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s14/r12dy1r1dg8r2dy1r1db3r1dy1r12dg1r1dg4~x2/"><circle cx="374.1" cy="142.7" r="4" fill="#3465a4"><title>MacColl #3</title></circle></a><a href="/setts/s11/r4dg8k6r8r6dg2r2dg2r24dg1r3~x2/"><circle cx="376.7" cy="131.1" r="4" fill="#3465a4"><title>MacDougall #8</title></circle></a><a href="/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1/"><circle cx="373.1" cy="125.5" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><circle cx="369.8" cy="138.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r6lo2r32lo15r2lo3r2lo6w3db4~x2/

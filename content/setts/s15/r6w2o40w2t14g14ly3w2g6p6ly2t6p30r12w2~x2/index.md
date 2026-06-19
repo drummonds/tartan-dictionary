@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Stuart / Stewart, Plaid
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 R24 P60 B12 Y4 P12 G12 LN4 Y6 G28 B28 LN4 T80 LN4 R/12
+R/12 LN4 T80 LN4 B28 G28 Y6 LN4 G12 P12 Y4 B12 P60 R24 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -913,13 +922,13 @@ The nearest existing variants by ΔTartan distance.
 1. [City of Edinburgh (2001) (District)](/setts/s16/r18t1o18k1g18w1t18r1o18g1r18k3w4k3w4k3~x2/) — ΔT 1.34
 1. [Inverclyde (Corporate)](/setts/s11/w3db5db2db9n10t2n4t2g10r33w2~x2/) — ΔT 1.35
 1. [Stuart / Stewart, Plaid](/setts/s15/r16w4o100w4db34g30ly10w3g16dp12w4db16dr64r26w4/) — ΔT 1.40
-1. [Berwick -upon-Tweed (asymmetric)](/setts/s14/r16o5dg2o4dg2o5y38k5dg2k4dg2k5r8b4~x2/) — ΔT 1.41
 1. [Brinkie's Brae](/setts/s17/k3w4k3r18db1y18k1g18w1db18r1y18g1r18k3w4k3~x2/) — ΔT 1.41
+1. [Berwick -upon-Tweed (asymmetric)](/setts/s14/r16o5dg2o4dg2o5y38k5dg2k4dg2k5r8b4~x2/) — ΔT 1.41
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r6w2dy40w2t14dg14ly3w2dg6dp6ly2t6dp30r12w2~x2/"><circle cx="106.6" cy="70.3" r="4" fill="#3465a4"><title>Stuart/Stewart Plaid</title></circle></a><a href="/setts/s18/r40p5k26r4p10db14p10r5k2r5k2r5k2r5lr2dg26lb6lr2/"><circle cx="142.1" cy="58.0" r="4" fill="#3465a4"><title>Unnamed C18th - Hynde Cotton Jacket</title></circle></a><a href="/setts/s17/k3w4k3r18db1o18k1g18w1db18r1o18g1r18k3w4k3~x2/"><circle cx="100.7" cy="85.8" r="4" fill="#3465a4"><title>Brinkie's Brae (Personal)</title></circle></a><a href="/setts/s12/r25lo5db6lb2db2lb2db2g10dp10db1dp3lb2~x2/"><circle cx="187.4" cy="89.3" r="4" fill="#3465a4"><title>Skye Highland Outfitters (Corporate)</title></circle></a><a href="/setts/s12/db16dp2db2dp2db2dp8g8lo8r8k1w1r2~x2/"><circle cx="119.9" cy="107.2" r="4" fill="#3465a4"><title>Salt Lake City Arts Council (Corp)</title></circle></a><a href="/setts/s16/r18t1o18k1g18w1t18r1o18g1r18k3w4k3w4k3~x2/"><circle cx="110.4" cy="93.0" r="4" fill="#3465a4"><title>City of Edinburgh (2001) (District)</title></circle></a><a href="/setts/s11/w3db5db2db9n10t2n4t2g10r33w2~x2/"><circle cx="174.3" cy="86.6" r="4" fill="#3465a4"><title>Inverclyde (Corporate)</title></circle></a><a href="/setts/s15/r16w4o100w4db34g30ly10w3g16dp12w4db16dr64r26w4/"><circle cx="114.7" cy="40.0" r="4" fill="#3465a4"><title>Stuart / Stewart, Plaid</title></circle></a><a href="/setts/s14/r16o5dg2o4dg2o5y38k5dg2k4dg2k5r8b4~x2/"><circle cx="189.8" cy="83.7" r="4" fill="#3465a4"><title>Berwick -upon-Tweed (asymmetric)</title></circle></a><a href="/setts/s17/k3w4k3r18db1y18k1g18w1db18r1y18g1r18k3w4k3~x2/"><circle cx="96.3" cy="85.5" r="4" fill="#3465a4"><title>Brinkie's Brae</title></circle></a><circle cx="112.7" cy="70.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r6w2dy40w2t14dg14ly3w2dg6dp6ly2t6dp30r12w2~x2/"><circle cx="106.5" cy="70.6" r="4" fill="#3465a4"><title>Stuart/Stewart Plaid</title></circle></a><a href="/setts/s18/r40p5k26r4p10db14p10r5k2r5k2r5k2r5lr2dg26lb6lr2/"><circle cx="142.0" cy="58.2" r="4" fill="#3465a4"><title>Unnamed C18th - Hynde Cotton Jacket</title></circle></a><a href="/setts/s17/k3w4k3r18db1o18k1g18w1db18r1o18g1r18k3w4k3~x2/"><circle cx="100.6" cy="86.0" r="4" fill="#3465a4"><title>Brinkie's Brae (Personal)</title></circle></a><a href="/setts/s12/r25lo5db6lb2db2lb2db2g10dp10db1dp3lb2~x2/"><circle cx="187.3" cy="89.5" r="4" fill="#3465a4"><title>Skye Highland Outfitters (Corporate)</title></circle></a><a href="/setts/s12/db16dp2db2dp2db2dp8g8lo8r8k1w1r2~x2/"><circle cx="119.8" cy="107.5" r="4" fill="#3465a4"><title>Salt Lake City Arts Council (Corp)</title></circle></a><a href="/setts/s16/r18t1o18k1g18w1t18r1o18g1r18k3w4k3w4k3~x2/"><circle cx="110.2" cy="93.2" r="4" fill="#3465a4"><title>City of Edinburgh (2001) (District)</title></circle></a><a href="/setts/s11/w3db5db2db9n10t2n4t2g10r33w2~x2/"><circle cx="174.1" cy="86.8" r="4" fill="#3465a4"><title>Inverclyde (Corporate)</title></circle></a><a href="/setts/s15/r16w4o100w4db34g30ly10w3g16dp12w4db16dr64r26w4/"><circle cx="114.6" cy="40.3" r="4" fill="#3465a4"><title>Stuart / Stewart, Plaid</title></circle></a><a href="/setts/s17/k3w4k3r18db1y18k1g18w1db18r1y18g1r18k3w4k3~x2/"><circle cx="96.1" cy="85.7" r="4" fill="#3465a4"><title>Brinkie's Brae</title></circle></a><a href="/setts/s14/r16o5dg2o4dg2o5y38k5dg2k4dg2k5r8b4~x2/"><circle cx="189.5" cy="83.9" r="4" fill="#3465a4"><title>Berwick -upon-Tweed (asymmetric)</title></circle></a><circle cx="112.5" cy="70.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/r6w2o40w2t14g14ly3w2g6p6ly2t6p30r12w2~x2/

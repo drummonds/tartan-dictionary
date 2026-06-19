@@ -22,6 +22,6 @@ GWYWGWGYYW
 
 | Tartans |
 |---------------|
-| [Llama (Fashion)](/setts/s10/w2ly25lr6y3w3y3w2lr2w19y2~x2/)|
-|![Llama (Fashion) example sett](/setts/s10/w2ly25lr6y3w3y3w2lr2w19y2~x2/sett.png)|
+| [Llama (Fashion)](/setts/s10/y2w19lr2w2y3w3y3lr6ly25w2~x2/)|
+|![Llama (Fashion) example sett](/setts/s10/y2w19lr2w2y3w3y3lr6ly25w2~x2/sett.png)|
 

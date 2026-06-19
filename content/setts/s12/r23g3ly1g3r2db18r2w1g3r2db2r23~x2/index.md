@@ -2,7 +2,7 @@
 title: "Mair (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [RBRGWRBRGYGR](/stripes/rbrgwrbrgygr/) · **Stripes:** [R DB R G W R DB R G LY G R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB R G W R DB R G LY G R</span></span>
+**Bands:** [RGYGRBRWGRBR](/stripes/rgygrbrwgrbr/) · **Stripes:** [R G LY G R DB R W G R DB R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G LY G R DB R W G R DB R</span></span>
 
 
 This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
@@ -320,6 +320,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +421,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +681,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -894,7 +897,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-R/46 DB4 R4 G6 W2 R4 DB36 R4 G6 Y2 G6 R/46
+R/46 G6 Y2 G6 R4 DB36 R4 W2 G6 R4 DB4 R/46
 ![Sett](sett.png)
 
 ## Palette
@@ -925,8 +928,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/"><circle cx="380.0" cy="87.8" r="4" fill="#3465a4"><title>Stewart/Stuart of Rothesay (Sobieski)</title></circle></a><a href="/setts/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/"><circle cx="361.9" cy="116.0" r="4" fill="#3465a4"><title>Hoben (Personal)</title></circle></a><a href="/setts/s11/lo4r37db17r4db8r6do2r5db2r3lo4/"><circle cx="390.2" cy="132.3" r="4" fill="#3465a4"><title>Griffiths (Welsh Name)</title></circle></a><a href="/setts/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/"><circle cx="341.7" cy="94.9" r="4" fill="#3465a4"><title>1745 Trading (Corporate)</title></circle></a><a href="/setts/s10/r6ly1r24g6db2k1db2k1db12r1~x2/"><circle cx="344.1" cy="106.6" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/setts/s17/r24ly1db1r3g16r3db1ly1r3db6r3ly1db1r16g2m2g2~x2/"><circle cx="376.1" cy="84.1" r="4" fill="#3465a4"><title>Munro Clan Tartan Tartan Number: 974. Earliest known date: 1810-15 This sett is usually regarded as the correct form of the Munro tartan. It is illustrated by Smibert and the Smith brothers (both works published in 1850). In early versions bright pink replaces the crimson between the three green lines. Munros wear the 'Black Watch' as a Hunting tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r7w2r36db6dg3db3dg3db3dg12r4~x2/"><circle cx="373.2" cy="130.5" r="4" fill="#3465a4"><title>Chisholm of Strathglass</title></circle></a><a href="/setts/s9/r40w1db7w1g12r8db6t2w1~x2/"><circle cx="405.4" cy="84.9" r="4" fill="#3465a4"><title>Spens (Lochcarron)</title></circle></a><a href="/setts/s10/r6w1r24db6dg2k1dg2k1dg12r1~x2/"><circle cx="341.2" cy="103.1" r="4" fill="#3465a4"><title>Chisholm #2</title></circle></a><a href="/setts/s11/r44db3k6lo2k2lo2k10r5k2r3w2~x2/"><circle cx="408.2" cy="81.4" r="4" fill="#3465a4"><title>Heritage Plaid</title></circle></a><circle cx="390.6" cy="102.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/"><circle cx="379.6" cy="87.7" r="4" fill="#3465a4"><title>Stewart/Stuart of Rothesay (Sobieski)</title></circle></a><a href="/setts/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/"><circle cx="361.4" cy="115.8" r="4" fill="#3465a4"><title>Hoben (Personal)</title></circle></a><a href="/setts/s11/lo4r37db17r4db8r6do2r5db2r3lo4/"><circle cx="389.8" cy="132.2" r="4" fill="#3465a4"><title>Griffiths (Welsh Name)</title></circle></a><a href="/setts/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/"><circle cx="341.3" cy="94.8" r="4" fill="#3465a4"><title>1745 Trading (Corporate)</title></circle></a><a href="/setts/s10/r6ly1r24g6db2k1db2k1db12r1~x2/"><circle cx="343.7" cy="106.6" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/setts/s17/r24ly1db1r3g16r3db1ly1r3db6r3ly1db1r16g2m2g2~x2/"><circle cx="375.6" cy="84.1" r="4" fill="#3465a4"><title>Munro Clan Tartan Tartan Number: 974. Earliest known date: 1810-15 This sett is usually regarded as the correct form of the Munro tartan. It is illustrated by Smibert and the Smith brothers (both works published in 1850). In early versions bright pink replaces the crimson between the three green lines. Munros wear the 'Black Watch' as a Hunting tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r7w2r36db6dg3db3dg3db3dg12r4~x2/"><circle cx="372.8" cy="130.4" r="4" fill="#3465a4"><title>Chisholm of Strathglass</title></circle></a><a href="/setts/s9/r40w1db7w1g12r8db6t2w1~x2/"><circle cx="404.9" cy="84.8" r="4" fill="#3465a4"><title>Spens (Lochcarron)</title></circle></a><a href="/setts/s10/r6w1r24db6dg2k1dg2k1dg12r1~x2/"><circle cx="340.8" cy="103.0" r="4" fill="#3465a4"><title>Chisholm #2</title></circle></a><a href="/setts/s11/r44db3k6lo2k2lo2k10r5k2r3w2~x2/"><circle cx="407.7" cy="81.3" r="4" fill="#3465a4"><title>Heritage Plaid</title></circle></a><circle cx="390.1" cy="102.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r23g3ly1g3r2db18r2w1g3r2db2r23~x2/

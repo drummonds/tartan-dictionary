@@ -20,7 +20,7 @@ BBRBG
 
 
 
-### B DB R N DG <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="seq">B DB R N DG</span></span>
+### DG N R DB B <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DG N R DB B</span></span>
 
 | Tartans |
 |---------------|

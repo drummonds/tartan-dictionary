@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/6 R12 G8 R36 LN40 K6 LN6 B2 G18 LN80 R8 LN/18
+LN/18 R8 LN80 G18 B2 LN6 K6 LN40 R36 G8 R12 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -906,7 +909,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Border Sett](/setts/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/) — ΔT 1.20
 1. [Ivanka Trump (Personal)](/setts/s15/r12w2k4w4k1w24r2w2r2w2t1w1m3k2w12~x2/) — ΔT 1.26
 1. [Confederate Memorial Dress](/setts/s14/t18w4r6w4lo4w36y4w4y4w36r12w1db4w3~x2/) — ΔT 1.33
-1. [Boucherville Formal District Tartan Tartan Number: 2118. Earliest known date: 1990 Three designers from La Navette d'Art ENR, Jeanette Blanchette, Pauline Bastien and Jacqueline Provost, based their design on symbolic colours. Le bleu azur represente la loyaute, le gris argent la serenite, le jaune (l'or) la generosite, le vert represente l'esperance, et le blanc symbole de purete et d'innocence "nous rappelle notre appartenance au Quebec." "Les tisserands, c'est nous tous...!" See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/w40ly4o10w8db4o4db4o4g1/) — ΔT 1.38
+1. [Boucherville Formal District Tartan Tartan Number: 2118. Earliest known date: 1990 Three designers from La Navette d'Art ENR, Jeanette Blanchette, Pauline Bastien and Jacqueline Provost, based their design on symbolic colours. Le bleu azur represente la loyaute, le gris argent la serenite, le jaune (l'or) la generosite, le vert represente l'esperance, et le blanc symbole de purete et d'innocence "nous rappelle notre appartenance au Quebec." "Les tisserands, c'est nous tous...!" See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/w40ly4o10w8db4o4db4o4g1~x2/) — ΔT 1.38
 1. [Border Sett](/setts/s10/w75dy1r20w16r20w20g9w16g1r38~x2/) — ΔT 1.46
 1. [Confederate Memorial Dress (Military](/setts/s14/t18w4m6w4lo4w36n4w4n4w36m12w1db4w3~x2/) — ΔT 1.46
 1. [Shaw of Tordarroch, Mrs (Personal)](/setts/s11/o8lb46db4lb4db4lb5y7lb7y7lb4db2~x2/) — ΔT 1.48
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/"><circle cx="382.4" cy="95.3" r="4" fill="#3465a4"><title>Border Sett</title></circle></a><a href="/setts/s15/r12w2k4w4k1w24r2w2r2w2t1w1m3k2w12~x2/"><circle cx="329.6" cy="61.6" r="4" fill="#3465a4"><title>Ivanka Trump (Personal)</title></circle></a><a href="/setts/s14/t18w4r6w4lo4w36y4w4y4w36r12w1db4w3~x2/"><circle cx="314.0" cy="45.2" r="4" fill="#3465a4"><title>Confederate Memorial Dress</title></circle></a><a href="/setts/s9/w40ly4o10w8db4o4db4o4g1/"><circle cx="365.2" cy="81.8" r="4" fill="#3465a4"><title>Boucherville Formal District Tartan Tartan Number: 2118. Earliest known date: 1990 Three designers from La Navette d'Art ENR, Jeanette Blanchette, Pauline Bastien and Jacqueline Provost, based their design on symbolic colours. Le bleu azur represente la loyaute, le gris argent la serenite, le jaune (l'or) la generosite, le vert represente l'esperance, et le blanc symbole de purete et d'innocence &quot;nous rappelle notre appartenance au Quebec.&quot; &quot;Les tisserands, c'est nous tous...!&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/w75dy1r20w16r20w20g9w16g1r38~x2/"><circle cx="358.7" cy="83.2" r="4" fill="#3465a4"><title>Border Sett</title></circle></a><a href="/setts/s14/t18w4m6w4lo4w36n4w4n4w36m12w1db4w3~x2/"><circle cx="307.8" cy="43.2" r="4" fill="#3465a4"><title>Confederate Memorial Dress (Military</title></circle></a><a href="/setts/s11/o8lb46db4lb4db4lb5y7lb7y7lb4db2~x2/"><circle cx="397.4" cy="100.5" r="4" fill="#3465a4"><title>Shaw of Tordarroch, Mrs (Personal)</title></circle></a><a href="/setts/s14/w40o1w6o3lo1o7lo3n1lo8n3k1n9k2w8~x2/"><circle cx="340.7" cy="54.7" r="4" fill="#3465a4"><title>Snowy Owl (Fashion)</title></circle></a><a href="/setts/s10/lb48dy15lo2dy3lb2dy3lo12lb8dy2lb6~x2/"><circle cx="390.3" cy="108.0" r="4" fill="#3465a4"><title>Loch Skene (Fashion)</title></circle></a><a href="/setts/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/"><circle cx="304.6" cy="35.7" r="4" fill="#3465a4"><title>Snowy Owl</title></circle></a><circle cx="349.7" cy="71.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/w90r19w20g20w20k2r22k2w20g20w20r19w40~x2/"><circle cx="381.7" cy="95.0" r="4" fill="#3465a4"><title>Border Sett</title></circle></a><a href="/setts/s15/r12w2k4w4k1w24r2w2r2w2t1w1m3k2w12~x2/"><circle cx="328.9" cy="61.4" r="4" fill="#3465a4"><title>Ivanka Trump (Personal)</title></circle></a><a href="/setts/s14/t18w4r6w4lo4w36y4w4y4w36r12w1db4w3~x2/"><circle cx="313.3" cy="45.0" r="4" fill="#3465a4"><title>Confederate Memorial Dress</title></circle></a><a href="/setts/s9/w40ly4o10w8db4o4db4o4g1~x2/"><circle cx="364.6" cy="81.6" r="4" fill="#3465a4"><title>Boucherville Formal District Tartan Tartan Number: 2118. Earliest known date: 1990 Three designers from La Navette d'Art ENR, Jeanette Blanchette, Pauline Bastien and Jacqueline Provost, based their design on symbolic colours. Le bleu azur represente la loyaute, le gris argent la serenite, le jaune (l'or) la generosite, le vert represente l'esperance, et le blanc symbole de purete et d'innocence &quot;nous rappelle notre appartenance au Quebec.&quot; &quot;Les tisserands, c'est nous tous...!&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/w75dy1r20w16r20w20g9w16g1r38~x2/"><circle cx="357.9" cy="82.9" r="4" fill="#3465a4"><title>Border Sett</title></circle></a><a href="/setts/s14/t18w4m6w4lo4w36n4w4n4w36m12w1db4w3~x2/"><circle cx="307.1" cy="43.0" r="4" fill="#3465a4"><title>Confederate Memorial Dress (Military</title></circle></a><a href="/setts/s11/o8lb46db4lb4db4lb5y7lb7y7lb4db2~x2/"><circle cx="396.7" cy="100.2" r="4" fill="#3465a4"><title>Shaw of Tordarroch, Mrs (Personal)</title></circle></a><a href="/setts/s14/w40o1w6o3lo1o7lo3n1lo8n3k1n9k2w8~x2/"><circle cx="340.0" cy="54.6" r="4" fill="#3465a4"><title>Snowy Owl (Fashion)</title></circle></a><a href="/setts/s10/lb48dy15lo2dy3lb2dy3lo12lb8dy2lb6~x2/"><circle cx="389.6" cy="107.8" r="4" fill="#3465a4"><title>Loch Skene (Fashion)</title></circle></a><a href="/setts/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/"><circle cx="304.0" cy="35.5" r="4" fill="#3465a4"><title>Snowy Owl</title></circle></a><circle cx="349.0" cy="70.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/w9r4w40g9db1w3k3w20r18g4r6w3~x2/

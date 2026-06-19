@@ -21,7 +21,7 @@ BGR
 Grouped by stripe pattern — the 4 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB G R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB G R</span></span>
+### R G DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">R G DB</span></span>
 
 | Tartans |
 |---------------|
@@ -34,7 +34,7 @@ Grouped by stripe pattern — the 4 human-palette shadings of this band pattern,
 | [Wilson's No 84, Ferguson](/setts/s3/db5g6r1~x4/)|
 |![Wilson's No 84, Ferguson example sett](/setts/s3/db5g6r1~x4/sett.png)|
 
-### T G R <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">T G R</span></span>
+### R G T <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">R G T</span></span>
 
 | Tartans |
 |---------------|
@@ -45,7 +45,7 @@ Grouped by stripe pattern — the 4 human-palette shadings of this band pattern,
 | [Wilson's, No 61](/setts/s3/r4g7t4~x2/)|
 |![Wilson's, No 61 example sett](/setts/s3/r4g7t4~x2/sett.png)|
 
-### T DG R <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">T DG R</span></span>
+### R DG T <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="seq">R DG T</span></span>
 
 | Tartans |
 |---------------|
@@ -54,7 +54,7 @@ Grouped by stripe pattern — the 4 human-palette shadings of this band pattern,
 | [Gyle (Corporate)](/setts/s3/t8dg1r2~x20/)|
 |![Gyle (Corporate) example sett](/setts/s3/t8dg1r2~x20/sett.png)|
 
-### DB DG R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB DG R</span></span>
+### R DG DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">R DG DB</span></span>
 
 | Tartans |
 |---------------|

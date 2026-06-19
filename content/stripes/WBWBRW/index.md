@@ -21,14 +21,14 @@ WBWBRW
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### W DO W DO O W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DO W DO O W</span></span>
+### W O DO W DO W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W O DO W DO W</span></span>
 
 | Tartans |
 |---------------|
 | [Burns (Fashion)](/setts/s6/w15do6w1do3o3w1~x4/)|
 |![Burns (Fashion) example sett](/setts/s6/w15do6w1do3o3w1~x4/sett.png)|
 
-### W DT W DT R W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DT W DT R W</span></span>
+### W R DT W DT W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R DT W DT W</span></span>
 
 | Tartans |
 |---------------|

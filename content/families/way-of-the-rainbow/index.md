@@ -8,7 +8,7 @@ A family of [Clan Way](/clan/way/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s8/dp1db1g1ly1lo1r1db24k1~x7/"><img src="/setts/s8/dp1db1g1ly1lo1r1db24k1~x7/sett.png" alt="Way of the Rainbow" width="240"><br>Way of the Rainbow</a>
+<a class="tartan" href="/setts/s8/k1db24r1lo1ly1g1db1dp1~x7/"><img src="/setts/s8/k1db24r1lo1ly1g1db1dp1~x7/sett.png" alt="Way of the Rainbow" width="240"><br>Way of the Rainbow</a>
 
 ## Other tartans
 

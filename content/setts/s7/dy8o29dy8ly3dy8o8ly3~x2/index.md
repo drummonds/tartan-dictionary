@@ -2,7 +2,7 @@
 title: "Lister (Name)"
 date: 2023-03-18
 ---
-**Bands:** [GRGYGRY](/stripes/grgygry/) · **Stripes:** [DY O DY LY DY O LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DY O DY LY DY O LY</span></span>
+**Bands:** [YRGYGRG](/stripes/yrgygrg/) · **Stripes:** [LY O DY LY DY O DY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">LY O DY LY DY O DY</span></span>
 
 
 This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
@@ -31,20 +31,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Heil, Rudiger (Personal)](/setts/s8/lo6n2lo2n2lo18n13dt13n2~x2/) — ΔT 1.27
-1. [O'Neill Pipe Band 1983 (Corporate)](/setts/s7/lg1g1lg1g8o5g1o1~x4/) — ΔT 1.35
+1. [O'Neill Pipe Band 1983 (Corporate)](/setts/s7/o1g1o5g8lg1g1lg1~x4/) — ΔT 1.35
 1. [Rob Roy (Film) (Corporate)](/setts/s6/t3dg1t10dg4dy10t2~x4/) — ΔT 1.41
-1. [Daks-Simpson (Muted Skye)](/setts/s8/db5o15dy4o4dy24o4dy4db5/) — ΔT 1.41
+1. [Daks-Simpson (Muted Skye)](/setts/s8/db5o15dy4o4dy24o4dy4db5/) — ΔT 1.42
 1. [Skene](/setts/s7/db6r3g1r3g12r3g1~x2/) — ΔT 1.48
-1. [Miyuki #4](/setts/s8/lo3dy8lo3dy20lo20r3lo8r3~x2/) — ΔT 1.49
-1. [Rob Roy (Film)](/setts/s6/t3dg1t10dg4r10t2~x4/) — ΔT 1.50
+1. [Miyuki #4](/setts/s8/r3lo8r3lo20dy20lo3dy8lo3~x2/) — ΔT 1.49
 1. [Land's End Camel](/setts/s9/lo24do2lo3dy6lo3do2dg15lo20do4~x2/) — ΔT 1.50
+1. [Rob Roy (Film)](/setts/s6/t3dg1t10dg4r10t2~x4/) — ΔT 1.50
 1. [Edinchat](/setts/s6/db2o28g13o2db13o2~x4/) — ΔT 1.51
 1. [Crossnor School](/setts/s7/dg4r2dg13lb2r13dg2r4~x2/) — ΔT 1.54
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/lo6n2lo2n2lo18n13dt13n2~x2/"><circle cx="279.7" cy="227.6" r="4" fill="#3465a4"><title>Heil, Rudiger (Personal)</title></circle></a><a href="/setts/s7/lg1g1lg1g8o5g1o1~x4/"><circle cx="369.4" cy="239.6" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1983 (Corporate)</title></circle></a><a href="/setts/s6/t3dg1t10dg4dy10t2~x4/"><circle cx="334.6" cy="265.6" r="4" fill="#3465a4"><title>Rob Roy (Film) (Corporate)</title></circle></a><a href="/setts/s8/db5o15dy4o4dy24o4dy4db5/"><circle cx="315.7" cy="253.9" r="4" fill="#3465a4"><title>Daks-Simpson (Muted Skye)</title></circle></a><a href="/setts/s7/db6r3g1r3g12r3g1~x2/"><circle cx="298.0" cy="216.7" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/setts/s8/lo3dy8lo3dy20lo20r3lo8r3~x2/"><circle cx="351.2" cy="255.9" r="4" fill="#3465a4"><title>Miyuki #4</title></circle></a><a href="/setts/s6/t3dg1t10dg4r10t2~x4/"><circle cx="314.5" cy="247.0" r="4" fill="#3465a4"><title>Rob Roy (Film)</title></circle></a><a href="/setts/s9/lo24do2lo3dy6lo3do2dg15lo20do4~x2/"><circle cx="365.4" cy="189.3" r="4" fill="#3465a4"><title>Land's End Camel</title></circle></a><a href="/setts/s6/db2o28g13o2db13o2~x4/"><circle cx="348.6" cy="208.4" r="4" fill="#3465a4"><title>Edinchat</title></circle></a><a href="/setts/s7/dg4r2dg13lb2r13dg2r4~x2/"><circle cx="327.4" cy="250.3" r="4" fill="#3465a4"><title>Crossnor School</title></circle></a><circle cx="362.4" cy="233.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/lo6n2lo2n2lo18n13dt13n2~x2/"><circle cx="279.5" cy="227.5" r="4" fill="#3465a4"><title>Heil, Rudiger (Personal)</title></circle></a><a href="/setts/s7/o1g1o5g8lg1g1lg1~x4/"><circle cx="369.1" cy="239.5" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1983 (Corporate)</title></circle></a><a href="/setts/s6/t3dg1t10dg4dy10t2~x4/"><circle cx="334.4" cy="265.5" r="4" fill="#3465a4"><title>Rob Roy (Film) (Corporate)</title></circle></a><a href="/setts/s8/db5o15dy4o4dy24o4dy4db5/"><circle cx="315.5" cy="253.8" r="4" fill="#3465a4"><title>Daks-Simpson (Muted Skye)</title></circle></a><a href="/setts/s7/db6r3g1r3g12r3g1~x2/"><circle cx="297.8" cy="216.5" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/setts/s8/r3lo8r3lo20dy20lo3dy8lo3~x2/"><circle cx="350.9" cy="255.8" r="4" fill="#3465a4"><title>Miyuki #4</title></circle></a><a href="/setts/s9/lo24do2lo3dy6lo3do2dg15lo20do4~x2/"><circle cx="365.1" cy="189.1" r="4" fill="#3465a4"><title>Land's End Camel</title></circle></a><a href="/setts/s6/t3dg1t10dg4r10t2~x4/"><circle cx="314.4" cy="246.9" r="4" fill="#3465a4"><title>Rob Roy (Film)</title></circle></a><a href="/setts/s6/db2o28g13o2db13o2~x4/"><circle cx="348.3" cy="208.3" r="4" fill="#3465a4"><title>Edinchat</title></circle></a><a href="/setts/s7/dg4r2dg13lb2r13dg2r4~x2/"><circle cx="327.1" cy="250.2" r="4" fill="#3465a4"><title>Crossnor School</title></circle></a><circle cx="362.0" cy="233.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/dy8o29dy8ly3dy8o8ly3~x2/

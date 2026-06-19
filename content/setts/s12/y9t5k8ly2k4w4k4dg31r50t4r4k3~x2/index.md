@@ -2,12 +2,18 @@
 title: "MacLean of Duart"
 date: 2023-03-18
 ---
-**Bands:** [GBKYKWKGRBRK](/stripes/gbkykwkgrbrk/) · **Stripes:** [Y T K LY K W K DG R T R K](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">Y T K LY K W K DG R T R K</span></span>
+**Bands:** [KRBRGKWKYKBG](/stripes/krbrgkwkykbg/) · **Stripes:** [K R T R DG K W K LY K T Y](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">K R T R DG K W K LY K T Y</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2605
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacLean of Duart 6
 
 ## Register references
 
@@ -17,7 +23,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 58
 
 ## Thread count
-K/6 R8 B8 R100 G62 K8 LN8 K8 Y4 K16 B10 N/18
+N/18 B10 K16 Y4 K8 LN8 K8 G62 R100 B8 R8 K/6
 ![Sett](sett.png)
 
 ## Palette
@@ -43,15 +49,15 @@ The nearest existing variants by ΔTartan distance.
 1. [MacLean of Duart #2](/setts/s11/t8k4ly1k2w3k2dg12r24t2r3k2~x2/) — ΔT 0.99
 1. [MacLean of Duart #5](/setts/s11/t14k8ly2k3w4k3dg21r48t4r5k3~x2/) — ΔT 0.99
 1. [Elmore (Personal)](/setts/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3ly5w5k4~x2/) — ΔT 1.00
-1. [Mary Stewart, Queen of Scots](/setts/s13/r25db5k5w4k2ly2k2g8r6k2r3k1w2~x2/) — ΔT 1.02
+1. [Mary Stewart, Queen of Scots](/setts/s13/r25db5k5w4k2ly2k2g8r6k2r3k1w2~x2/) — ΔT 1.03
 1. [MacGill](/setts/s13/r28g10k7w2ly2r1ly2w2db5k2r2ly2w3~x4/) — ΔT 1.10
 1. [MacLean of Duart 2](/setts/s11/t14k8ly2k3w4k3g21r48t4r5k3~x2/) — ΔT 1.10
 1. [Stewart of Galloway Clan Tartan Tartan Number: 851. Earliest known date: c.1820 Count taken from the specimen at the Smith Institute in Stirling. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/g9r52t13k16ly2k3w4k3g23r15g7ly3~x2/) — ΔT 1.12
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/do9t5k8ly2k4w4k4dg28r44t4r5k3~x2/"><circle cx="183.2" cy="63.8" r="4" fill="#3465a4"><title>MacLean (rare)</title></circle></a><a href="/setts/s12/y9t5k8ly2k4w4k4g31r50t4r4k3~x2/"><circle cx="185.1" cy="49.1" r="4" fill="#3465a4"><title>MacLean of Duart 6</title></circle></a><a href="/setts/s12/do9t5k8ly2k4w4k4g28r44t4r5k3~x2/"><circle cx="166.7" cy="59.1" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s11/t8k4ly1k2w3k2dg12r24t2r3k2~x2/"><circle cx="206.3" cy="79.9" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/setts/s11/t14k8ly2k3w4k3dg21r48t4r5k3~x2/"><circle cx="233.9" cy="74.4" r="4" fill="#3465a4"><title>MacLean of Duart #5</title></circle></a><a href="/setts/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3ly5w5k4~x2/"><circle cx="185.3" cy="28.7" r="4" fill="#3465a4"><title>Elmore (Personal)</title></circle></a><a href="/setts/s13/r25db5k5w4k2ly2k2g8r6k2r3k1w2~x2/"><circle cx="162.4" cy="46.0" r="4" fill="#3465a4"><title>Mary Stewart, Queen of Scots</title></circle></a><a href="/setts/s13/r28g10k7w2ly2r1ly2w2db5k2r2ly2w3~x4/"><circle cx="220.1" cy="49.5" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/setts/s11/t14k8ly2k3w4k3g21r48t4r5k3~x2/"><circle cx="220.6" cy="71.3" r="4" fill="#3465a4"><title>MacLean of Duart 2</title></circle></a><a href="/setts/s12/g9r52t13k16ly2k3w4k3g23r15g7ly3~x2/"><circle cx="225.9" cy="83.7" r="4" fill="#3465a4"><title>Stewart of Galloway Clan Tartan Tartan Number: 851. Earliest known date: c.1820 Count taken from the specimen at the Smith Institute in Stirling. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="200.9" cy="53.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/do9t5k8ly2k4w4k4dg28r44t4r5k3~x2/"><circle cx="183.0" cy="64.0" r="4" fill="#3465a4"><title>MacLean (rare)</title></circle></a><a href="/setts/s12/y9t5k8ly2k4w4k4g31r50t4r4k3~x2/"><circle cx="184.9" cy="49.2" r="4" fill="#3465a4"><title>MacLean of Duart 6</title></circle></a><a href="/setts/s12/do9t5k8ly2k4w4k4g28r44t4r5k3~x2/"><circle cx="166.6" cy="59.2" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s11/t8k4ly1k2w3k2dg12r24t2r3k2~x2/"><circle cx="206.0" cy="80.0" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/setts/s11/t14k8ly2k3w4k3dg21r48t4r5k3~x2/"><circle cx="233.6" cy="74.5" r="4" fill="#3465a4"><title>MacLean of Duart #5</title></circle></a><a href="/setts/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3ly5w5k4~x2/"><circle cx="185.0" cy="28.8" r="4" fill="#3465a4"><title>Elmore (Personal)</title></circle></a><a href="/setts/s13/r25db5k5w4k2ly2k2g8r6k2r3k1w2~x2/"><circle cx="162.1" cy="46.1" r="4" fill="#3465a4"><title>Mary Stewart, Queen of Scots</title></circle></a><a href="/setts/s13/r28g10k7w2ly2r1ly2w2db5k2r2ly2w3~x4/"><circle cx="219.8" cy="49.6" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/setts/s11/t14k8ly2k3w4k3g21r48t4r5k3~x2/"><circle cx="220.3" cy="71.4" r="4" fill="#3465a4"><title>MacLean of Duart 2</title></circle></a><a href="/setts/s12/g9r52t13k16ly2k3w4k3g23r15g7ly3~x2/"><circle cx="225.6" cy="83.8" r="4" fill="#3465a4"><title>Stewart of Galloway Clan Tartan Tartan Number: 851. Earliest known date: c.1820 Count taken from the specimen at the Smith Institute in Stirling. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="200.7" cy="53.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/y9t5k8ly2k4w4k4dg31r50t4r4k3~x2/

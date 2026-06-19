@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/8 G4 K2 G48 P12 G12 P40 R2 P/12
+P/12 R2 P40 G12 P12 G48 K2 G4 LN/8
 ![Sett](sett.png)
 
 ## Palette
@@ -912,12 +915,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Dunlop Hunting](/setts/s8/k3r1k18w1lo18g1lo1w2~x4/) — ΔT 1.29
 1. [Blue Blas Alba](/setts/s9/y4ly2y39dt10o4dt4r4dt25w3~x2/) — ΔT 1.29
 1. [Inchforth (Personal)](/setts/s9/o4g2o7dt30o8dt7lg5g1w2~x2/) — ΔT 1.31
-1. [Harris (Personal)](/setts/s11/lb1n3lb8r1lb1r1lb20k15lb2n8lo1~x2/) — ΔT 1.33
+1. [Harris (Personal)](/setts/s11/lo1n8lb2k15lb20r1lb1r1lb8n3lb1~x2/) — ΔT 1.33
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lr60k6lr8k2lr8w2r12k49lo4/"><circle cx="293.5" cy="97.6" r="4" fill="#3465a4"><title>Motherwell Football Club. Modern</title></circle></a><a href="/setts/s7/w3r2p31g30ly2g2ly1~x2/"><circle cx="298.9" cy="109.7" r="4" fill="#3465a4"><title>Caig (Personal)</title></circle></a><a href="/setts/s7/w3r2dp31g30ly2dp2ly1~x2/"><circle cx="314.0" cy="114.8" r="4" fill="#3465a4"><title>Caig (Corporate)</title></circle></a><a href="/setts/s7/o6dp4o2w2o24k25lo4~x2/"><circle cx="242.5" cy="158.4" r="4" fill="#3465a4"><title>New York State Troopers (Corporate)</title></circle></a><a href="/setts/s8/dp3r3dp34g18lo2g18lb2r3~x2/"><circle cx="288.6" cy="154.6" r="4" fill="#3465a4"><title>Singh</title></circle></a><a href="/setts/s9/g44db2g4db2g6k16m40db2ly11/"><circle cx="215.5" cy="112.8" r="4" fill="#3465a4"><title>(1) Stewart, modern</title></circle></a><a href="/setts/s8/k3r1k18w1lo18g1lo1w2~x4/"><circle cx="266.7" cy="119.0" r="4" fill="#3465a4"><title>Dunlop Hunting</title></circle></a><a href="/setts/s9/y4ly2y39dt10o4dt4r4dt25w3~x2/"><circle cx="246.6" cy="114.9" r="4" fill="#3465a4"><title>Blue Blas Alba</title></circle></a><a href="/setts/s9/o4g2o7dt30o8dt7lg5g1w2~x2/"><circle cx="334.1" cy="120.2" r="4" fill="#3465a4"><title>Inchforth (Personal)</title></circle></a><a href="/setts/s11/lb1n3lb8r1lb1r1lb20k15lb2n8lo1~x2/"><circle cx="255.8" cy="101.5" r="4" fill="#3465a4"><title>Harris (Personal)</title></circle></a><circle cx="279.3" cy="125.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lr60k6lr8k2lr8w2r12k49lo4/"><circle cx="293.2" cy="97.4" r="4" fill="#3465a4"><title>Motherwell Football Club. Modern</title></circle></a><a href="/setts/s7/w3r2p31g30ly2g2ly1~x2/"><circle cx="298.7" cy="109.7" r="4" fill="#3465a4"><title>Caig (Personal)</title></circle></a><a href="/setts/s7/w3r2dp31g30ly2dp2ly1~x2/"><circle cx="313.8" cy="114.7" r="4" fill="#3465a4"><title>Caig (Corporate)</title></circle></a><a href="/setts/s7/o6dp4o2w2o24k25lo4~x2/"><circle cx="242.4" cy="158.3" r="4" fill="#3465a4"><title>New York State Troopers (Corporate)</title></circle></a><a href="/setts/s8/dp3r3dp34g18lo2g18lb2r3~x2/"><circle cx="288.4" cy="154.6" r="4" fill="#3465a4"><title>Singh</title></circle></a><a href="/setts/s9/g44db2g4db2g6k16m40db2ly11/"><circle cx="215.3" cy="112.8" r="4" fill="#3465a4"><title>(1) Stewart, modern</title></circle></a><a href="/setts/s8/k3r1k18w1lo18g1lo1w2~x4/"><circle cx="266.5" cy="118.8" r="4" fill="#3465a4"><title>Dunlop Hunting</title></circle></a><a href="/setts/s9/y4ly2y39dt10o4dt4r4dt25w3~x2/"><circle cx="246.5" cy="114.9" r="4" fill="#3465a4"><title>Blue Blas Alba</title></circle></a><a href="/setts/s9/o4g2o7dt30o8dt7lg5g1w2~x2/"><circle cx="333.9" cy="120.1" r="4" fill="#3465a4"><title>Inchforth (Personal)</title></circle></a><a href="/setts/s11/lo1n8lb2k15lb20r1lb1r1lb8n3lb1~x2/"><circle cx="255.5" cy="101.4" r="4" fill="#3465a4"><title>Harris (Personal)</title></circle></a><circle cx="279.1" cy="125.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/p6r1p20g6p6g24k1g2w4~x2/

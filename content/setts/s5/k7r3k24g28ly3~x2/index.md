@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -909,18 +912,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Douglas, Black](/setts/s5/k8b5g44k40r6/) — ΔT 0.85
 1. [Wilson's, No 140](/setts/s4/k7ly1g7t1~x2/) — ΔT 0.88
 1. [Cleghorn (Personal)](/setts/s7/g8r3g30k8w3k36w8~x2/) — ΔT 1.04
-1. [Paton](/setts/s7/ly3g3ly3g19k28g24r3~x2/) — ΔT 1.08
+1. [Paton](/setts/s7/r3g24k28g19ly3g3ly3~x2/) — ΔT 1.09
 1. [Sinclair, hunting](/setts/s7/g6r2g13k6w2k16r3~x2/) — ΔT 1.11
 1. [Wallace, hunting](/setts/s4/k4g33k33ly4~x2/) — ΔT 1.18
-1. [Unnamed 3](/setts/s6/g2b4k6t1g9k2~x2/) — ΔT 1.30
+1. [Unnamed 3](/setts/s6/k2g9t1k6b4g2~x2/) — ΔT 1.30
 1. [MacArthur-Fox](/setts/s5/k19g8k10g31r3/) — ΔT 1.34
 1. [MacArthur](/setts/s5/k32g6k12g30ly3/) — ΔT 1.35
 1. [Douglas, (Black)](/setts/s5/k12db3g23k23r3~x2/) — ΔT 1.38
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k8b5g44k40r6/"><circle cx="237.6" cy="222.9" r="4" fill="#3465a4"><title>Douglas, Black</title></circle></a><a href="/setts/s4/k7ly1g7t1~x2/"><circle cx="201.8" cy="244.7" r="4" fill="#3465a4"><title>Wilson's, No 140</title></circle></a><a href="/setts/s7/g8r3g30k8w3k36w8~x2/"><circle cx="223.1" cy="184.8" r="4" fill="#3465a4"><title>Cleghorn (Personal)</title></circle></a><a href="/setts/s7/ly3g3ly3g19k28g24r3~x2/"><circle cx="263.1" cy="199.0" r="4" fill="#3465a4"><title>Paton</title></circle></a><a href="/setts/s7/g6r2g13k6w2k16r3~x2/"><circle cx="203.1" cy="215.9" r="4" fill="#3465a4"><title>Sinclair, hunting</title></circle></a><a href="/setts/s4/k4g33k33ly4~x2/"><circle cx="273.3" cy="256.0" r="4" fill="#3465a4"><title>Wallace, hunting</title></circle></a><a href="/setts/s6/g2b4k6t1g9k2~x2/"><circle cx="189.8" cy="222.1" r="4" fill="#3465a4"><title>Unnamed 3</title></circle></a><a href="/setts/s5/k19g8k10g31r3/"><circle cx="294.5" cy="248.7" r="4" fill="#3465a4"><title>MacArthur-Fox</title></circle></a><a href="/setts/s5/k32g6k12g30ly3/"><circle cx="292.5" cy="245.2" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/setts/s5/k12db3g23k23r3~x2/"><circle cx="258.7" cy="244.8" r="4" fill="#3465a4"><title>Douglas, (Black)</title></circle></a><circle cx="233.2" cy="215.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k8b5g44k40r6/"><circle cx="237.8" cy="222.7" r="4" fill="#3465a4"><title>Douglas, Black</title></circle></a><a href="/setts/s4/k7ly1g7t1~x2/"><circle cx="202.0" cy="244.5" r="4" fill="#3465a4"><title>Wilson's, No 140</title></circle></a><a href="/setts/s7/g8r3g30k8w3k36w8~x2/"><circle cx="223.2" cy="184.7" r="4" fill="#3465a4"><title>Cleghorn (Personal)</title></circle></a><a href="/setts/s7/r3g24k28g19ly3g3ly3~x2/"><circle cx="263.1" cy="198.7" r="4" fill="#3465a4"><title>Paton</title></circle></a><a href="/setts/s7/g6r2g13k6w2k16r3~x2/"><circle cx="203.3" cy="215.8" r="4" fill="#3465a4"><title>Sinclair, hunting</title></circle></a><a href="/setts/s4/k4g33k33ly4~x2/"><circle cx="273.4" cy="255.7" r="4" fill="#3465a4"><title>Wallace, hunting</title></circle></a><a href="/setts/s6/k2g9t1k6b4g2~x2/"><circle cx="190.0" cy="221.9" r="4" fill="#3465a4"><title>Unnamed 3</title></circle></a><a href="/setts/s5/k19g8k10g31r3/"><circle cx="294.6" cy="248.4" r="4" fill="#3465a4"><title>MacArthur-Fox</title></circle></a><a href="/setts/s5/k32g6k12g30ly3/"><circle cx="292.6" cy="244.9" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/setts/s5/k12db3g23k23r3~x2/"><circle cx="258.9" cy="244.6" r="4" fill="#3465a4"><title>Douglas, (Black)</title></circle></a><circle cx="233.3" cy="214.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/k7r3k24g28ly3~x2/

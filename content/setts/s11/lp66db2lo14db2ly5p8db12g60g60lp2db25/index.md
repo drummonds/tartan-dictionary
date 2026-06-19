@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/11084/
 
 ## Thread count
-DB/25 LP2 B60 G60 DB12 P8 Y5 DB2 O14 DB2 LP/66
+LP/66 DB2 O14 DB2 Y5 P8 DB12 G60 B60 LP2 DB/25
 ![Sett](sett.png)
 
 ## Palette
@@ -32,19 +32,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Thistle Stop LLC](/setts/s9/lg16g1g1g1t24k12m16dp2g2~x2/) — ΔT 0.90
 1. [Rwanda](/setts/s11/w4k1db16k1dg12ly12b24lo2b1lo4b2~x2/) — ΔT 1.17
-1. [Scout Mapping Service](/setts/s12/db24r8g8r2g8k1ly2k1g8r2g8r8~x2/) — ΔT 1.33
-1. [Philpotts, Brian](/setts/s8/ly8t24db21g18lo4lb3dy2lo1~x2/) — ΔT 1.44
+1. [Scout Mapping Service](/setts/s12/db24r8g8r2g8k1ly2~x2/) — ΔT 1.33
+1. [Philpotts, Brian](/setts/s8/ly8t24db21g18lo4lb3dy2lo1~x2/) — ΔT 1.43
 1. [Tait #2](/setts/s12/w4k1r2k1g9k2b24k2r6k2g12ly2~x2/) — ΔT 1.55
-1. [Pille Family (Belgium) (Personal)](/setts/s13/lo4dt8lo2dt8lg20dt4w5g1r2g1w5g1r4~x2/) — ΔT 1.57
+1. [Pille Family (Belgium) (Personal)](/setts/s13/r4g1w5g1r2g1w5dt4lg20dt8lo2dt8lo4~x2/) — ΔT 1.57
 1. [Enable (Corporate)](/setts/s13/ly3g4n14dp3n2dp18lb16g14n2dp3lb3n2lo1~x2/) — ΔT 1.58
 1. [Hughes Interconnection Int. (Pers)](/setts/s9/w4k2b18ly4b18dy26g18k1m2~x2/) — ΔT 1.58
 1. [State Seal of New Jersey (Fashion)](/setts/s12/b6k1r4k1b38k17o12dy5o5dy25k1lo4~x2/) — ΔT 1.61
-1. [Robert Lee Jordan Defiance (Per.)](/setts/s14/ly3k1dg21dp1dg3dp12dt3dp3dt4dp3dt24k1w5r3~x2/) — ΔT 1.63
+1. [Robert Lee Jordan Defiance (Per.)](/setts/s14/r3w5k1dt24dp3dt4dp3dt3dp12dg3dp1dg21k1ly3~x2/) — ΔT 1.63
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lg16g1g1g1t24k12m16dp2g2~x2/"><circle cx="136.3" cy="103.9" r="4" fill="#3465a4"><title>Thistle Stop LLC</title></circle></a><a href="/setts/s11/w4k1db16k1dg12ly12b24lo2b1lo4b2~x2/"><circle cx="110.5" cy="77.8" r="4" fill="#3465a4"><title>Rwanda</title></circle></a><a href="/setts/s12/db24r8g8r2g8k1ly2k1g8r2g8r8~x2/"><circle cx="119.4" cy="98.3" r="4" fill="#3465a4"><title>Scout Mapping Service</title></circle></a><a href="/setts/s8/ly8t24db21g18lo4lb3dy2lo1~x2/"><circle cx="89.9" cy="97.7" r="4" fill="#3465a4"><title>Philpotts, Brian</title></circle></a><a href="/setts/s12/w4k1r2k1g9k2b24k2r6k2g12ly2~x2/"><circle cx="167.9" cy="90.5" r="4" fill="#3465a4"><title>Tait #2</title></circle></a><a href="/setts/s13/lo4dt8lo2dt8lg20dt4w5g1r2g1w5g1r4~x2/"><circle cx="122.8" cy="92.8" r="4" fill="#3465a4"><title>Pille Family (Belgium) (Personal)</title></circle></a><a href="/setts/s13/ly3g4n14dp3n2dp18lb16g14n2dp3lb3n2lo1~x2/"><circle cx="106.7" cy="105.4" r="4" fill="#3465a4"><title>Enable (Corporate)</title></circle></a><a href="/setts/s9/w4k2b18ly4b18dy26g18k1m2~x2/"><circle cx="182.1" cy="120.3" r="4" fill="#3465a4"><title>Hughes Interconnection Int. (Pers)</title></circle></a><a href="/setts/s12/b6k1r4k1b38k17o12dy5o5dy25k1lo4~x2/"><circle cx="213.2" cy="91.5" r="4" fill="#3465a4"><title>State Seal of New Jersey (Fashion)</title></circle></a><a href="/setts/s14/ly3k1dg21dp1dg3dp12dt3dp3dt4dp3dt24k1w5r3~x2/"><circle cx="160.8" cy="73.9" r="4" fill="#3465a4"><title>Robert Lee Jordan Defiance (Per.)</title></circle></a><circle cx="122.0" cy="75.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lg16g1g1g1t24k12m16dp2g2~x2/"><circle cx="136.2" cy="104.1" r="4" fill="#3465a4"><title>Thistle Stop LLC</title></circle></a><a href="/setts/s11/w4k1db16k1dg12ly12b24lo2b1lo4b2~x2/"><circle cx="110.4" cy="77.9" r="4" fill="#3465a4"><title>Rwanda</title></circle></a><a href="/setts/s12/db24r8g8r2g8k1ly2~x2/"><circle cx="119.4" cy="98.6" r="4" fill="#3465a4"><title>Scout Mapping Service</title></circle></a><a href="/setts/s8/ly8t24db21g18lo4lb3dy2lo1~x2/"><circle cx="89.9" cy="97.9" r="4" fill="#3465a4"><title>Philpotts, Brian</title></circle></a><a href="/setts/s12/w4k1r2k1g9k2b24k2r6k2g12ly2~x2/"><circle cx="167.8" cy="90.6" r="4" fill="#3465a4"><title>Tait #2</title></circle></a><a href="/setts/s13/r4g1w5g1r2g1w5dt4lg20dt8lo2dt8lo4~x2/"><circle cx="122.6" cy="93.0" r="4" fill="#3465a4"><title>Pille Family (Belgium) (Personal)</title></circle></a><a href="/setts/s13/ly3g4n14dp3n2dp18lb16g14n2dp3lb3n2lo1~x2/"><circle cx="106.6" cy="105.5" r="4" fill="#3465a4"><title>Enable (Corporate)</title></circle></a><a href="/setts/s9/w4k2b18ly4b18dy26g18k1m2~x2/"><circle cx="182.1" cy="120.4" r="4" fill="#3465a4"><title>Hughes Interconnection Int. (Pers)</title></circle></a><a href="/setts/s12/b6k1r4k1b38k17o12dy5o5dy25k1lo4~x2/"><circle cx="213.1" cy="91.7" r="4" fill="#3465a4"><title>State Seal of New Jersey (Fashion)</title></circle></a><a href="/setts/s14/r3w5k1dt24dp3dt4dp3dt3dp12dg3dp1dg21k1ly3~x2/"><circle cx="160.7" cy="74.1" r="4" fill="#3465a4"><title>Robert Lee Jordan Defiance (Per.)</title></circle></a><circle cx="121.9" cy="75.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/lp66db2lo14db2ly5p8db12g60g60lp2db25/

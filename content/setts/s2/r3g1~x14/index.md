@@ -2,12 +2,18 @@
 title: "Wilson's, No 134"
 date: 2023-03-18
 ---
-**Bands:** [GR](/stripes/gr/) · **Stripes:** [G R](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">G R</span></span>
+**Bands:** [RG](/stripes/rg/) · **Stripes:** [R G](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G</span></span>
 
 
 This was sourced from weddslist.  It is a [2 band tartan](/bands/bands2/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Wilson's, No 134
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -888,13 +897,13 @@ External register numbers recorded for this tartan.
 
 Other setts woven to the same stripe pattern.
 
-- [Moncreiffe](/setts/s2/g1r1~x50/)
+- [Moncreiffe](/setts/s2/r1g1~x50/)
 - [Moncreiffe (MacLachlan) Clan Tartan Tartan Number: 963. Earliest known date: 1819 Sir Iain Moncreiffe of that Ilk, acquired the MacLachlan old sett for the clan when he became Chief in 1957. Micheil MacDonald writes in his book, 'The Clans of Scotland', "As a result of a long association with Clan Murray, the Moncreiffes traditionally wore the Atholl tartan. But Sir Iain... arranged that Madam MacLachlan of MacLachlan assign to him a 'primitive' pattern of red and green squares which, though no longer favoured by Clan MacLachlan, Sir Iain felt was appropriate to the long history of the Moncreiffes 'before tartan became fashionable in its present form'. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s2/r14g13~x2/)
-- [Moncrieffe Lachlan (Clan)](/setts/s2/g1r1~x100/)
+- [Moncrieffe Lachlan (Clan)](/setts/s2/r1g1~x100/)
 
 
 ## Thread count
-G/14 R/42
+R/42 G/14
 ![Sett](sett.png)
 
 ## Palette
@@ -907,7 +916,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/14 R/42 tartan")
+![Tartan detail](tartan.png "R/42 G/14 tartan")
 
 ## Nearest tartans
 
@@ -922,12 +931,12 @@ The nearest existing variants by ΔTartan distance.
 1. [International Karate Fed. (Corporat)](/setts/s3/r8w1k1~x20/) — ΔT 3.20
 1. [Virgin One (Corporate)](/setts/s4/lo7w6lo11r2~x2/) — ΔT 3.22
 1. [Roddy "Rowdy" Piper (Personal)](/setts/s2/r9lr1~x20/) — ΔT 3.31
-1. [MacGregor of Glenstrae #2](/setts/s4/r17dg9r2dg9~x2/) — ΔT 3.36
+1. [MacGregor of Glenstrae #2](/setts/s4/r17dg9r2~x2/) — ΔT 3.36
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s2/r3dg1~x14/"><circle cx="486.1" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.134</title></circle></a><a href="/setts/s2/r3t1~x14/"><circle cx="487.6" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.138</title></circle></a><a href="/setts/s2/r8k3~x2/"><circle cx="417.9" cy="364.1" r="4" fill="#3465a4"><title>Wilson's No.234</title></circle></a><a href="/setts/s5/r11k4r4lo4r11~x4/"><circle cx="429.9" cy="321.8" r="4" fill="#3465a4"><title>Ikelman #4 (Personal)</title></circle></a><a href="/setts/s3/r4g2t1~x4/"><circle cx="308.8" cy="316.5" r="4" fill="#3465a4"><title>Wilson's, No 188</title></circle></a><a href="/setts/s3/r30k10ly3~x4/"><circle cx="434.8" cy="240.6" r="4" fill="#3465a4"><title>Masai Shuka 20 (Artefact)</title></circle></a><a href="/setts/s3/r8w1k1~x20/"><circle cx="523.8" cy="246.4" r="4" fill="#3465a4"><title>International Karate Fed. (Corporat)</title></circle></a><a href="/setts/s4/lo7w6lo11r2~x2/"><circle cx="401.1" cy="305.4" r="4" fill="#3465a4"><title>Virgin One (Corporate)</title></circle></a><a href="/setts/s2/r9lr1~x20/"><circle cx="626.0" cy="314.5" r="4" fill="#3465a4"><title>Roddy &quot;Rowdy&quot; Piper (Personal)</title></circle></a><a href="/setts/s4/r17dg9r2dg9~x2/"><circle cx="350.0" cy="287.3" r="4" fill="#3465a4"><title>MacGregor of Glenstrae #2</title></circle></a><circle cx="470.8" cy="366.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s2/r3dg1~x14/"><circle cx="485.7" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.134</title></circle></a><a href="/setts/s2/r3t1~x14/"><circle cx="487.2" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.138</title></circle></a><a href="/setts/s2/r8k3~x2/"><circle cx="417.7" cy="363.6" r="4" fill="#3465a4"><title>Wilson's No.234</title></circle></a><a href="/setts/s5/r11k4r4lo4r11~x4/"><circle cx="429.7" cy="321.4" r="4" fill="#3465a4"><title>Ikelman #4 (Personal)</title></circle></a><a href="/setts/s3/r4g2t1~x4/"><circle cx="308.6" cy="316.3" r="4" fill="#3465a4"><title>Wilson's, No 188</title></circle></a><a href="/setts/s3/r30k10ly3~x4/"><circle cx="434.4" cy="240.2" r="4" fill="#3465a4"><title>Masai Shuka 20 (Artefact)</title></circle></a><a href="/setts/s3/r8w1k1~x20/"><circle cx="523.4" cy="246.0" r="4" fill="#3465a4"><title>International Karate Fed. (Corporat)</title></circle></a><a href="/setts/s4/lo7w6lo11r2~x2/"><circle cx="400.6" cy="305.1" r="4" fill="#3465a4"><title>Virgin One (Corporate)</title></circle></a><a href="/setts/s2/r9lr1~x20/"><circle cx="626.0" cy="313.9" r="4" fill="#3465a4"><title>Roddy &quot;Rowdy&quot; Piper (Personal)</title></circle></a><a href="/setts/s4/r17dg9r2~x2/"><circle cx="349.8" cy="287.0" r="4" fill="#3465a4"><title>MacGregor of Glenstrae #2</title></circle></a><circle cx="470.5" cy="366.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s2/r3g1~x14/

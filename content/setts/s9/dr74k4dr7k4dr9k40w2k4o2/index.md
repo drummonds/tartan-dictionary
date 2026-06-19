@@ -2,12 +2,18 @@
 title: "Llewellen of Wales"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKWKR](/stripes/bkbkbkwkr/) · **Stripes:** [DR K DR K DR K W K O](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DR K DR K DR K W K O</span></span>
+**Bands:** [RKWKBKBKB](/stripes/rkwkbkbkb/) · **Stripes:** [O K W K DR K DR K DR](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="seq">O K W K DR K DR K DR</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2138
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Llewellyn
 
 ## Attestations
 
@@ -42,7 +48,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Wanstall](/setts/s10/dr12dg4dr8dt3dg3dt3dg8dt12dr38lo2~x2/) — ΔT 1.58
-1. [Brodie, Graeme (Personal)](/setts/s11/o2do2k37do3r2do3r1r4do4k19r1~x2/) — ΔT 1.71
+1. [Brodie, Graeme (Personal)](/setts/s11/o2do2k37do3r2do3r1r4do4k19r1~x2/) — ΔT 1.70
 1. [Moulin](/setts/s10/o36k3dy3r1dy3k3o4dy6k1r2~x4/) — ΔT 1.76
 1. [Klappert Original (Odsherred, Denmark) (Personal)](/setts/s9/r1k1dt30k6dt1k6dy8k1r1~x2/) — ΔT 1.78
 1. [Racing Stewart (Stealth)](/setts/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/) — ΔT 1.78
@@ -54,8 +60,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dr12dg4dr8dt3dg3dt3dg8dt12dr38lo2~x2/"><circle cx="486.4" cy="206.8" r="4" fill="#3465a4"><title>Wanstall</title></circle></a><a href="/setts/s11/o2do2k37do3r2do3r1r4do4k19r1~x2/"><circle cx="549.6" cy="141.5" r="4" fill="#3465a4"><title>Brodie, Graeme (Personal)</title></circle></a><a href="/setts/s10/o36k3dy3r1dy3k3o4dy6k1r2~x4/"><circle cx="504.5" cy="128.6" r="4" fill="#3465a4"><title>Moulin</title></circle></a><a href="/setts/s9/r1k1dt30k6dt1k6dy8k1r1~x2/"><circle cx="444.4" cy="164.8" r="4" fill="#3465a4"><title>Klappert Original (Odsherred, Denmark) (Personal)</title></circle></a><a href="/setts/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/"><circle cx="582.8" cy="174.8" r="4" fill="#3465a4"><title>Racing Stewart (Stealth)</title></circle></a><a href="/setts/s6/y4dr52k20do9y2lo1~x2/"><circle cx="491.5" cy="169.6" r="4" fill="#3465a4"><title>Jack, John (Fife) (Personal)</title></circle></a><a href="/setts/s6/k1y3db3do28db36y1~x2/"><circle cx="472.8" cy="197.3" r="4" fill="#3465a4"><title>Potts (Personal)</title></circle></a><a href="/setts/s8/k3t1k32db6k4db16k3r2~x2/"><circle cx="539.4" cy="215.5" r="4" fill="#3465a4"><title>Little of Morton Rigg Red (Personal)</title></circle></a><a href="/setts/s11/lo4do37db17do4db8do6r2do5db2do3lo4/"><circle cx="429.7" cy="176.6" r="4" fill="#3465a4"><title>Griffiths Welsh Name Tartan Tartan Number: 5733. Earliest known date: 2002 The tartan for this Welsh surname and its variation, Griffith, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. Available from Wales Tartan Centres in Swansea See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4/"><circle cx="512.4" cy="158.9" r="4" fill="#3465a4"><title>Verdon</title></circle></a><circle cx="534.5" cy="167.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dr12dg4dr8dt3dg3dt3dg8dt12dr38lo2~x2/"><circle cx="486.2" cy="206.9" r="4" fill="#3465a4"><title>Wanstall</title></circle></a><a href="/setts/s11/o2do2k37do3r2do3r1r4do4k19r1~x2/"><circle cx="549.4" cy="141.5" r="4" fill="#3465a4"><title>Brodie, Graeme (Personal)</title></circle></a><a href="/setts/s10/o36k3dy3r1dy3k3o4dy6k1r2~x4/"><circle cx="504.1" cy="128.6" r="4" fill="#3465a4"><title>Moulin</title></circle></a><a href="/setts/s9/r1k1dt30k6dt1k6dy8k1r1~x2/"><circle cx="444.3" cy="164.8" r="4" fill="#3465a4"><title>Klappert Original (Odsherred, Denmark) (Personal)</title></circle></a><a href="/setts/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/"><circle cx="582.6" cy="174.8" r="4" fill="#3465a4"><title>Racing Stewart (Stealth)</title></circle></a><a href="/setts/s6/y4dr52k20do9y2lo1~x2/"><circle cx="491.3" cy="169.7" r="4" fill="#3465a4"><title>Jack, John (Fife) (Personal)</title></circle></a><a href="/setts/s6/k1y3db3do28db36y1~x2/"><circle cx="472.7" cy="197.4" r="4" fill="#3465a4"><title>Potts (Personal)</title></circle></a><a href="/setts/s8/k3t1k32db6k4db16k3r2~x2/"><circle cx="539.4" cy="215.6" r="4" fill="#3465a4"><title>Little of Morton Rigg Red (Personal)</title></circle></a><a href="/setts/s11/lo4do37db17do4db8do6r2do5db2do3lo4/"><circle cx="429.5" cy="176.6" r="4" fill="#3465a4"><title>Griffiths Welsh Name Tartan Tartan Number: 5733. Earliest known date: 2002 The tartan for this Welsh surname and its variation, Griffith, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. Available from Wales Tartan Centres in Swansea See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4/"><circle cx="512.3" cy="158.9" r="4" fill="#3465a4"><title>Verdon</title></circle></a><circle cx="534.3" cy="167.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dr74k4dr7k4dr9k40w2k4o2/

@@ -8,7 +8,7 @@ WBGGGW
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/w1p1y7y4y1w1~x4/tartan.png)
+![Woven sample](/setts/s6/w1y1y4y7p1w1~x4/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ WBGGGW
 
 
 
-### W P Y Y Y W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W P Y Y Y W</span></span>
+### W Y Y Y P W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W Y Y Y P W</span></span>
 
 | Tartans |
 |---------------|
-| [Lochnagar](/setts/s6/w1p1y7y4y1w1~x4/)|
-|![Lochnagar example sett](/setts/s6/w1p1y7y4y1w1~x4/sett.png)|
+| [Lochnagar](/setts/s6/w1y1y4y7p1w1~x4/)|
+|![Lochnagar example sett](/setts/s6/w1y1y4y7p1w1~x4/sett.png)|
 

@@ -2,7 +2,7 @@
 title: "Stevens #3"
 date: 2023-03-18
 ---
-**Bands:** [BBBRRY](/stripes/bbbrry/) · **Stripes:** [DP T DP R R LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DP T DP R R LY</span></span>
+**Bands:** [YRRBBB](/stripes/yrrbbb/) · **Stripes:** [LY R R DP T DP](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LY R R DP T DP</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -46,7 +46,7 @@ The nearest existing variants by ΔTartan distance.
 1. [McCurdy-Stribbling (Personal)](/setts/s5/db15n20do12r34lb3~x2/) — ΔT 1.30
 1. [Fiddes](/setts/s8/g12r11p12r3r32p8g8p8~x2/) — ΔT 1.39
 1. [Love](/setts/s5/m1dp4r10o2w1~x4/) — ΔT 1.41
-1. [Afternoon Tea / Apple Tea](/setts/s6/ly15r98do72m25do8w15/) — ΔT 1.44
+1. [Afternoon Tea / Apple Tea](/setts/s6/w15do8m25do72r98ly15/) — ΔT 1.44
 1. [Australia Dress](/setts/s9/lr11r4y2k4y2r4y12r20t2~x2/) — ΔT 1.44
 1. [Loch Lomond (1999)](/setts/s9/r28ly3r3db3r4dp8g10dp15dp4~x2/) — ΔT 1.45
 1. [Moray of Abercairney](/setts/s5/r8r1g4r1db4~x2/) — ΔT 1.48
@@ -54,8 +54,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r15r98dp72t25dp8w15/"><circle cx="237.3" cy="178.3" r="4" fill="#3465a4"><title>Afternoon Tea / Assam</title></circle></a><a href="/setts/s5/r8r1dg4r1db4~x2/"><circle cx="240.0" cy="231.3" r="4" fill="#3465a4"><title>Moray of Abercairney #2</title></circle></a><a href="/setts/s5/db15n20do12r34lb3~x2/"><circle cx="206.5" cy="222.2" r="4" fill="#3465a4"><title>McCurdy-Stribbling (Personal)</title></circle></a><a href="/setts/s8/g12r11p12r3r32p8g8p8~x2/"><circle cx="265.2" cy="205.4" r="4" fill="#3465a4"><title>Fiddes</title></circle></a><a href="/setts/s5/m1dp4r10o2w1~x4/"><circle cx="325.9" cy="195.5" r="4" fill="#3465a4"><title>Love</title></circle></a><a href="/setts/s6/ly15r98do72m25do8w15/"><circle cx="221.4" cy="162.3" r="4" fill="#3465a4"><title>Afternoon Tea / Apple Tea</title></circle></a><a href="/setts/s9/lr11r4y2k4y2r4y12r20t2~x2/"><circle cx="233.0" cy="167.0" r="4" fill="#3465a4"><title>Australia Dress</title></circle></a><a href="/setts/s9/r28ly3r3db3r4dp8g10dp15dp4~x2/"><circle cx="227.8" cy="168.5" r="4" fill="#3465a4"><title>Loch Lomond (1999)</title></circle></a><a href="/setts/s5/r8r1g4r1db4~x2/"><circle cx="242.4" cy="235.1" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/setts/s6/r8r1dg4r1dg1t2~x2/"><circle cx="271.8" cy="208.3" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><circle cx="245.7" cy="194.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r15r98dp72t25dp8w15/"><circle cx="237.2" cy="178.4" r="4" fill="#3465a4"><title>Afternoon Tea / Assam</title></circle></a><a href="/setts/s5/r8r1dg4r1db4~x2/"><circle cx="239.8" cy="231.3" r="4" fill="#3465a4"><title>Moray of Abercairney #2</title></circle></a><a href="/setts/s5/db15n20do12r34lb3~x2/"><circle cx="206.5" cy="222.2" r="4" fill="#3465a4"><title>McCurdy-Stribbling (Personal)</title></circle></a><a href="/setts/s8/g12r11p12r3r32p8g8p8~x2/"><circle cx="264.9" cy="205.4" r="4" fill="#3465a4"><title>Fiddes</title></circle></a><a href="/setts/s5/m1dp4r10o2w1~x4/"><circle cx="325.7" cy="195.5" r="4" fill="#3465a4"><title>Love</title></circle></a><a href="/setts/s6/w15do8m25do72r98ly15/"><circle cx="221.2" cy="162.3" r="4" fill="#3465a4"><title>Afternoon Tea / Apple Tea</title></circle></a><a href="/setts/s9/lr11r4y2k4y2r4y12r20t2~x2/"><circle cx="232.7" cy="167.0" r="4" fill="#3465a4"><title>Australia Dress</title></circle></a><a href="/setts/s9/r28ly3r3db3r4dp8g10dp15dp4~x2/"><circle cx="227.7" cy="168.7" r="4" fill="#3465a4"><title>Loch Lomond (1999)</title></circle></a><a href="/setts/s5/r8r1g4r1db4~x2/"><circle cx="242.3" cy="235.1" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/setts/s6/r8r1dg4r1dg1t2~x2/"><circle cx="271.5" cy="208.2" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><circle cx="245.6" cy="194.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/dp2t9dp3r7r19ly2~x2/

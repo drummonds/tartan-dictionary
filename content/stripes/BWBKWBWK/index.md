@@ -8,7 +8,7 @@ BWBKWBWK
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/db4w4db37k20w1dp5w1k4~x2/tartan.png)
+![Woven sample](/setts/s8/k4w1dp5w1k20db37w4db4~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ BWBKWBWK
 
 
 
-### DB W DB K W DP W K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">DB W DB K W DP W K</span></span>
+### K W DP W K DB W DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">K W DP W K DB W DB</span></span>
 
 | Tartans |
 |---------------|
-| [Finnie (Personal)](/setts/s8/db4w4db37k20w1dp5w1k4~x2/)|
-|![Finnie (Personal) example sett](/setts/s8/db4w4db37k20w1dp5w1k4~x2/sett.png)|
+| [Finnie (Personal)](/setts/s8/k4w1dp5w1k20db37w4db4~x2/)|
+|![Finnie (Personal) example sett](/setts/s8/k4w1dp5w1k20db37w4db4~x2/sett.png)|
 

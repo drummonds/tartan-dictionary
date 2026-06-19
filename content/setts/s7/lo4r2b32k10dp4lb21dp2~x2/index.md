@@ -2,12 +2,18 @@
 title: "Dignan School of Dancing"
 date: 2023-03-18
 ---
-**Bands:** [BWBKBRY](/stripes/bwbkbry/) · **Stripes:** [DP LB DP K B R LO](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DP LB DP K B R LO</span></span>
+**Bands:** [YRBKBWB](/stripes/yrbkbwb/) · **Stripes:** [LO R B K DP LB DP](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LO R B K DP LB DP</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=938
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Dignan School of Dancing
 
 ## Attestations
 
@@ -62,8 +68,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db4w3db17lb10k1dp5k1lb6dg3~x2/"><circle cx="169.8" cy="127.5" r="4" fill="#3465a4"><title>Queen Margaret University</title></circle></a><a href="/setts/s9/lr5lb3lb7lr5lb27b8dt43w3lb3/"><circle cx="197.0" cy="122.1" r="4" fill="#3465a4"><title>Queensferry High (School)</title></circle></a><a href="/setts/s7/r3dt25k6lb20ly2lb2w3~x2/"><circle cx="172.0" cy="140.0" r="4" fill="#3465a4"><title>Madras College (Corporate)</title></circle></a><a href="/setts/s8/r3lr25db6db3r2t5db18w3~x2/"><circle cx="153.3" cy="133.5" r="4" fill="#3465a4"><title>Fulbright Foundation</title></circle></a><a href="/setts/s8/b36db5g5w2r4w2m9w22~x2/"><circle cx="189.5" cy="113.5" r="4" fill="#3465a4"><title>Jubilee, South Canterbury Centre Piping &amp; Dancing Association</title></circle></a><a href="/setts/s8/db1lb12p6w1ly3db14b18w1~x2/"><circle cx="125.4" cy="130.3" r="4" fill="#3465a4"><title>Ancient Gathering</title></circle></a><a href="/setts/s8/g5m2g2m9k9lr9db30w5~x2/"><circle cx="164.1" cy="135.0" r="4" fill="#3465a4"><title>Alexander of Menstry</title></circle></a><a href="/setts/s7/ly2r1t16k5p2w11p1~x4/"><circle cx="160.1" cy="115.9" r="4" fill="#3465a4"><title>Dignan</title></circle></a><a href="/setts/s8/t5ly5db12g1db1r1db1w2~x4/"><circle cx="203.3" cy="131.8" r="4" fill="#3465a4"><title>Hodgkinson</title></circle></a><a href="/setts/s7/db4r2db31k10g4w21g2~x2/"><circle cx="214.0" cy="143.2" r="4" fill="#3465a4"><title>Sinclair Dress (Dance)</title></circle></a><circle cx="178.3" cy="128.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db4w3db17lb10k1dp5k1lb6dg3~x2/"><circle cx="169.7" cy="127.5" r="4" fill="#3465a4"><title>Queen Margaret University</title></circle></a><a href="/setts/s9/lr5lb3lb7lr5lb27b8dt43w3lb3/"><circle cx="196.9" cy="122.1" r="4" fill="#3465a4"><title>Queensferry High (School)</title></circle></a><a href="/setts/s7/r3dt25k6lb20ly2lb2w3~x2/"><circle cx="172.0" cy="140.0" r="4" fill="#3465a4"><title>Madras College (Corporate)</title></circle></a><a href="/setts/s8/r3lr25db6db3r2t5db18w3~x2/"><circle cx="153.2" cy="133.5" r="4" fill="#3465a4"><title>Fulbright Foundation</title></circle></a><a href="/setts/s8/b36db5g5w2r4w2m9w22~x2/"><circle cx="189.3" cy="113.5" r="4" fill="#3465a4"><title>Jubilee, South Canterbury Centre Piping &amp; Dancing Association</title></circle></a><a href="/setts/s8/db1lb12p6w1ly3db14b18w1~x2/"><circle cx="125.4" cy="130.4" r="4" fill="#3465a4"><title>Ancient Gathering</title></circle></a><a href="/setts/s8/g5m2g2m9k9lr9db30w5~x2/"><circle cx="164.1" cy="135.0" r="4" fill="#3465a4"><title>Alexander of Menstry</title></circle></a><a href="/setts/s7/ly2r1t16k5p2w11p1~x4/"><circle cx="159.9" cy="115.8" r="4" fill="#3465a4"><title>Dignan</title></circle></a><a href="/setts/s8/t5ly5db12g1db1r1db1w2~x4/"><circle cx="203.2" cy="131.8" r="4" fill="#3465a4"><title>Hodgkinson</title></circle></a><a href="/setts/s7/db4r2db31k10g4w21g2~x2/"><circle cx="213.9" cy="143.1" r="4" fill="#3465a4"><title>Sinclair Dress (Dance)</title></circle></a><circle cx="178.3" cy="128.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/lo4r2b32k10dp4lb21dp2~x2/

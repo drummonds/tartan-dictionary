@@ -2,12 +2,18 @@
 title: "Alexander of Menstry Dress"
 date: 2023-03-18
 ---
-**Bands:** [BWYKBGBG](/stripes/bwykbgbg/) · **Stripes:** [DB W LR K DP G DP G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB W LR K DP G DP G</span></span>
+**Bands:** [GBGBKYWB](/stripes/gbgbkywb/) · **Stripes:** [G DP G DP K LR W DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">G DP G DP K LR W DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=48
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Alexander of Menstry Dress (Personal
 
 ## Attestations
 
@@ -56,12 +62,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Alberta Dress](/setts/s10/w4g3w19g8k1r4k1db18k1lo2~x2/) — ΔT 0.99
 1. [Edgar-Feyen (Personal)](/setts/s6/w18k1db4g4dp10lo2~x4/) — ΔT 1.04
 1. [Gillies, dress Blue](/setts/s10/ly6k2t15r5t9k13w25db2w3db2~x2/) — ΔT 1.05
-1. [Christian Dress (Personal)](/setts/s7/ly3dp2w27k19db27w2r3~x2/) — ΔT 1.21
+1. [Christian Dress (Personal)](/setts/s7/r3w2db27k19w27dp2ly3~x2/) — ΔT 1.21
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly2r1t16k5p2w11p1~x4/"><circle cx="160.1" cy="115.9" r="4" fill="#3465a4"><title>Dignan</title></circle></a><a href="/setts/s10/r7k2t16ly5t10k13w28g2w4g2~x2/"><circle cx="101.6" cy="109.6" r="4" fill="#3465a4"><title>Gillies, Blue dress</title></circle></a><a href="/setts/s9/w37k4db12g12w2lr2r23w4r6~x2/"><circle cx="165.8" cy="97.8" r="4" fill="#3465a4"><title>Hebridean Arisaid, Red/White (Dance)</title></circle></a><a href="/setts/s10/r7k2t16ly5t10k13w28dg2w4dg4~x2/"><circle cx="93.8" cy="110.4" r="4" fill="#3465a4"><title>Gillies Dress Blue #1 (Dance)</title></circle></a><a href="/setts/s10/w4k2w30g3dp3g3dp7db14g3r3~x2/"><circle cx="174.0" cy="84.1" r="4" fill="#3465a4"><title>Edinburgh Dress (Dance)</title></circle></a><a href="/setts/s10/w4k2w30g3p3g3p7db14g3r3~x2/"><circle cx="182.8" cy="90.1" r="4" fill="#3465a4"><title>Edinburgh, dress</title></circle></a><a href="/setts/s10/w4g3w19g8k1r4k1db18k1lo2~x2/"><circle cx="137.7" cy="88.4" r="4" fill="#3465a4"><title>Alberta Dress</title></circle></a><a href="/setts/s6/w18k1db4g4dp10lo2~x4/"><circle cx="184.9" cy="120.7" r="4" fill="#3465a4"><title>Edgar-Feyen (Personal)</title></circle></a><a href="/setts/s10/ly6k2t15r5t9k13w25db2w3db2~x2/"><circle cx="87.7" cy="114.8" r="4" fill="#3465a4"><title>Gillies, dress Blue</title></circle></a><a href="/setts/s7/ly3dp2w27k19db27w2r3~x2/"><circle cx="119.6" cy="124.2" r="4" fill="#3465a4"><title>Christian Dress (Personal)</title></circle></a><circle cx="131.9" cy="106.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly2r1t16k5p2w11p1~x4/"><circle cx="159.9" cy="115.8" r="4" fill="#3465a4"><title>Dignan</title></circle></a><a href="/setts/s10/r7k2t16ly5t10k13w28g2w4g2~x2/"><circle cx="101.4" cy="109.6" r="4" fill="#3465a4"><title>Gillies, Blue dress</title></circle></a><a href="/setts/s9/w37k4db12g12w2lr2r23w4r6~x2/"><circle cx="165.6" cy="97.8" r="4" fill="#3465a4"><title>Hebridean Arisaid, Red/White (Dance)</title></circle></a><a href="/setts/s10/r7k2t16ly5t10k13w28dg2w4dg4~x2/"><circle cx="93.6" cy="110.4" r="4" fill="#3465a4"><title>Gillies Dress Blue #1 (Dance)</title></circle></a><a href="/setts/s10/w4k2w30g3dp3g3dp7db14g3r3~x2/"><circle cx="173.7" cy="84.0" r="4" fill="#3465a4"><title>Edinburgh Dress (Dance)</title></circle></a><a href="/setts/s10/w4k2w30g3p3g3p7db14g3r3~x2/"><circle cx="182.5" cy="90.0" r="4" fill="#3465a4"><title>Edinburgh, dress</title></circle></a><a href="/setts/s10/w4g3w19g8k1r4k1db18k1lo2~x2/"><circle cx="137.5" cy="88.4" r="4" fill="#3465a4"><title>Alberta Dress</title></circle></a><a href="/setts/s6/w18k1db4g4dp10lo2~x4/"><circle cx="184.6" cy="120.6" r="4" fill="#3465a4"><title>Edgar-Feyen (Personal)</title></circle></a><a href="/setts/s10/ly6k2t15r5t9k13w25db2w3db2~x2/"><circle cx="87.5" cy="114.8" r="4" fill="#3465a4"><title>Gillies, dress Blue</title></circle></a><a href="/setts/s7/r3w2db27k19w27dp2ly3~x2/"><circle cx="119.5" cy="124.1" r="4" fill="#3465a4"><title>Christian Dress (Personal)</title></circle></a><circle cx="131.7" cy="106.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db5w30lr9k9dp9g2dp2g5~x2/

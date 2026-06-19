@@ -32,21 +32,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Braemar Royal Highland Gathering](/setts/s6/ly3k6g64lb2k4r3~x2/) — ΔT 1.57
-1. [Mar Tribe](/setts/s5/ly2k3g45k3r2/) — ΔT 1.69
-1. [Mar, Tribe of (Clan)](/setts/s5/ly2k3g45k4r2~x2/) — ΔT 1.71
-1. [Asher (Personal)](/setts/s8/dg40ly2db3r4db3ly2dg40w3~x2/) — ΔT 1.71
-1. [Women's Royal Army Corps Ass. (Corp.](/setts/s12/dg10w2dg10ly1dg10r2dg24g1dg2g1dg2g2~x2/) — ΔT 1.83
+1. [Braemar Royal Highland Gathering](/setts/s6/r3k4lb2g64k6ly3~x2/) — ΔT 1.57
+1. [Mar Tribe](/setts/s5/r2k3g45k3ly2/) — ΔT 1.69
+1. [Mar, Tribe of (Clan)](/setts/s5/r2k4g45k3ly2~x2/) — ΔT 1.72
+1. [Asher (Personal)](/setts/s8/dg40ly2db3r4db3ly2dg40w3~x2/) — ΔT 1.72
+1. [Women's Royal Army Corps Ass. (Corp.](/setts/s12/dg10w2dg10ly1dg10r2dg24g1dg2g1dg2g2~x2/) — ΔT 1.84
 1. [Annapolis Valley](/setts/s6/g30b8g5lb4g5r1~x4/) — ΔT 1.85
 1. [Annapolis Valley](/setts/s6/g30t8g5lb4g5r2~x4/) — ΔT 1.87
-1. [Unidentified #12](/setts/s11/ly2k1dg36k1r2k1r2k1dg36k1t2~x2/) — ΔT 1.91
+1. [Unidentified #12](/setts/s11/t2k1dg36k1r2k1r2k1dg36k1ly2~x2/) — ΔT 1.91
 1. [Delta Lambda Phi (Corporate)](/setts/s12/lo5k1lo6g20w1g3w1g3w1g30k1lo2~x2/) — ΔT 1.92
 1. [Holmston Primary (School)](/setts/s10/g14w2g14r1g14ly2g30t2g2t4~x2/) — ΔT 1.93
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/ly3k6g64lb2k4r3~x2/"><circle cx="539.9" cy="136.9" r="4" fill="#3465a4"><title>Braemar Royal Highland Gathering</title></circle></a><a href="/setts/s5/ly2k3g45k3r2/"><circle cx="589.7" cy="185.2" r="4" fill="#3465a4"><title>Mar Tribe</title></circle></a><a href="/setts/s5/ly2k3g45k4r2~x2/"><circle cx="577.6" cy="187.7" r="4" fill="#3465a4"><title>Mar, Tribe of (Clan)</title></circle></a><a href="/setts/s8/dg40ly2db3r4db3ly2dg40w3~x2/"><circle cx="534.0" cy="154.6" r="4" fill="#3465a4"><title>Asher (Personal)</title></circle></a><a href="/setts/s12/dg10w2dg10ly1dg10r2dg24g1dg2g1dg2g2~x2/"><circle cx="571.9" cy="147.3" r="4" fill="#3465a4"><title>Women's Royal Army Corps Ass. (Corp.</title></circle></a><a href="/setts/s6/g30b8g5lb4g5r1~x4/"><circle cx="511.5" cy="183.9" r="4" fill="#3465a4"><title>Annapolis Valley</title></circle></a><a href="/setts/s6/g30t8g5lb4g5r2~x4/"><circle cx="478.5" cy="213.3" r="4" fill="#3465a4"><title>Annapolis Valley</title></circle></a><a href="/setts/s11/ly2k1dg36k1r2k1r2k1dg36k1t2~x2/"><circle cx="626.0" cy="124.5" r="4" fill="#3465a4"><title>Unidentified #12</title></circle></a><a href="/setts/s12/lo5k1lo6g20w1g3w1g3w1g30k1lo2~x2/"><circle cx="515.1" cy="131.9" r="4" fill="#3465a4"><title>Delta Lambda Phi (Corporate)</title></circle></a><a href="/setts/s10/g14w2g14r1g14ly2g30t2g2t4~x2/"><circle cx="612.9" cy="172.1" r="4" fill="#3465a4"><title>Holmston Primary (School)</title></circle></a><circle cx="541.8" cy="157.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r3k4lb2g64k6ly3~x2/"><circle cx="539.5" cy="136.6" r="4" fill="#3465a4"><title>Braemar Royal Highland Gathering</title></circle></a><a href="/setts/s5/r2k3g45k3ly2/"><circle cx="589.4" cy="184.8" r="4" fill="#3465a4"><title>Mar Tribe</title></circle></a><a href="/setts/s5/r2k4g45k3ly2~x2/"><circle cx="577.2" cy="187.3" r="4" fill="#3465a4"><title>Mar, Tribe of (Clan)</title></circle></a><a href="/setts/s8/dg40ly2db3r4db3ly2dg40w3~x2/"><circle cx="533.7" cy="154.3" r="4" fill="#3465a4"><title>Asher (Personal)</title></circle></a><a href="/setts/s12/dg10w2dg10ly1dg10r2dg24g1dg2g1dg2g2~x2/"><circle cx="571.6" cy="147.0" r="4" fill="#3465a4"><title>Women's Royal Army Corps Ass. (Corp.</title></circle></a><a href="/setts/s6/g30b8g5lb4g5r1~x4/"><circle cx="511.2" cy="183.6" r="4" fill="#3465a4"><title>Annapolis Valley</title></circle></a><a href="/setts/s6/g30t8g5lb4g5r2~x4/"><circle cx="478.3" cy="213.0" r="4" fill="#3465a4"><title>Annapolis Valley</title></circle></a><a href="/setts/s11/t2k1dg36k1r2k1r2k1dg36k1ly2~x2/"><circle cx="626.0" cy="124.3" r="4" fill="#3465a4"><title>Unidentified #12</title></circle></a><a href="/setts/s12/lo5k1lo6g20w1g3w1g3w1g30k1lo2~x2/"><circle cx="514.6" cy="131.6" r="4" fill="#3465a4"><title>Delta Lambda Phi (Corporate)</title></circle></a><a href="/setts/s10/g14w2g14r1g14ly2g30t2g2t4~x2/"><circle cx="612.5" cy="171.8" r="4" fill="#3465a4"><title>Holmston Primary (School)</title></circle></a><circle cx="541.4" cy="156.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/g40ly2db3r4db3ly2g40w3~x2/

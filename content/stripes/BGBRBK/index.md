@@ -8,7 +8,7 @@ BGBRBK
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/db1g1db1r1t1k1~x24/tartan.png)
+![Woven sample](/setts/s6/k1t1r1db1g1db1~x24/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ BGBRBK
 
 
 
-### DB G DB R T K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="seq">DB G DB R T K</span></span>
+### K T R DB G DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">K T R DB G DB</span></span>
 
 | Tartans |
 |---------------|
-| [Antonello (Personal)](/setts/s6/db1g1db1r1t1k1~x24/)|
-|![Antonello (Personal) example sett](/setts/s6/db1g1db1r1t1k1~x24/sett.png)|
+| [Antonello (Personal)](/setts/s6/k1t1r1db1g1db1~x24/)|
+|![Antonello (Personal) example sett](/setts/s6/k1t1r1db1g1db1~x24/sett.png)|
 

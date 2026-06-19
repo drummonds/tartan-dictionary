@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2593
 
 ## Thread count
-LN/6 P4 DB20 Y4 DB4 R4 DB4 DG16 P48 DG4 P/8
+P/8 DG4 P48 DG16 DB4 R4 DB4 Y4 DB20 P4 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -46,19 +46,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Lieuwen, Jeffrey Pascal (Personal)](/setts/s11/dp10db1dp2db1b1db1b2m2b1k1ly2~x10/) — ΔT 0.77
 1. [McCartney (Day)](/setts/s11/p4dg2p24dg8k2r2k2ly2k10p2w3~x2/) — ΔT 0.99
-1. [Kilsyth](/setts/s10/g4ly3db35r13dp8w3dp8r13db35ly3~x2/) — ΔT 1.04
-1. [Wisconsin in Scotland (Corporate)](/setts/s15/ly1db11ly1r2o1r2r2w1r2r2o1r2ly1db11w1~x8/) — ΔT 1.05
+1. [Kilsyth](/setts/s10/g4ly3db35r13dp8w3~x2/) — ΔT 1.04
+1. [Wisconsin in Scotland (Corporate)](/setts/s15/w1db11ly1r2o1r2r2w1r2r2o1r2ly1db11ly1~x8/) — ΔT 1.05
 1. [Blais (Personal)](/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x4/) — ΔT 1.08
 1. [Lieuwen (2013)](/setts/s11/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2~x10/) — ΔT 1.09
 1. [Glenn](/setts/s8/dg4t2db18r2k4r6t1w1~x4/) — ΔT 1.19
 1. [Sydney Academy](/setts/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/) — ΔT 1.19
 1. [Blais](/setts/s11/db20ly1o1db3k1y2k1r10k1y2r4~x2/) — ΔT 1.22
-1. [Heather (RSPCC)](/setts/s16/db4lb3o30lb3dp16lb3dp10dp48g4dp48dp10lb3dp16lb3o30lb3~x2/) — ΔT 1.26
+1. [Heather (RSPCC)](/setts/s16/db4lb3o30lb3dp16lb3dp10dp48g4~x2/) — ΔT 1.26
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dp10db1dp2db1b1db1b2m2b1k1ly2~x10/"><circle cx="234.7" cy="128.5" r="4" fill="#3465a4"><title>Lieuwen, Jeffrey Pascal (Personal)</title></circle></a><a href="/setts/s11/p4dg2p24dg8k2r2k2ly2k10p2w3~x2/"><circle cx="225.1" cy="115.5" r="4" fill="#3465a4"><title>McCartney (Day)</title></circle></a><a href="/setts/s10/g4ly3db35r13dp8w3dp8r13db35ly3~x2/"><circle cx="265.0" cy="141.5" r="4" fill="#3465a4"><title>Kilsyth</title></circle></a><a href="/setts/s15/ly1db11ly1r2o1r2r2w1r2r2o1r2ly1db11w1~x8/"><circle cx="244.3" cy="105.3" r="4" fill="#3465a4"><title>Wisconsin in Scotland (Corporate)</title></circle></a><a href="/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x4/"><circle cx="285.7" cy="95.1" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/setts/s11/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2~x10/"><circle cx="214.9" cy="116.6" r="4" fill="#3465a4"><title>Lieuwen (2013)</title></circle></a><a href="/setts/s8/dg4t2db18r2k4r6t1w1~x4/"><circle cx="237.5" cy="127.7" r="4" fill="#3465a4"><title>Glenn</title></circle></a><a href="/setts/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/"><circle cx="229.8" cy="123.3" r="4" fill="#3465a4"><title>Sydney Academy</title></circle></a><a href="/setts/s11/db20ly1o1db3k1y2k1r10k1y2r4~x2/"><circle cx="283.6" cy="95.1" r="4" fill="#3465a4"><title>Blais</title></circle></a><a href="/setts/s16/db4lb3o30lb3dp16lb3dp10dp48g4dp48dp10lb3dp16lb3o30lb3~x2/"><circle cx="207.4" cy="103.9" r="4" fill="#3465a4"><title>Heather (RSPCC)</title></circle></a><circle cx="246.9" cy="127.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dp10db1dp2db1b1db1b2m2b1k1ly2~x10/"><circle cx="234.5" cy="128.6" r="4" fill="#3465a4"><title>Lieuwen, Jeffrey Pascal (Personal)</title></circle></a><a href="/setts/s11/p4dg2p24dg8k2r2k2ly2k10p2w3~x2/"><circle cx="225.1" cy="115.5" r="4" fill="#3465a4"><title>McCartney (Day)</title></circle></a><a href="/setts/s10/g4ly3db35r13dp8w3~x2/"><circle cx="264.9" cy="141.5" r="4" fill="#3465a4"><title>Kilsyth</title></circle></a><a href="/setts/s15/w1db11ly1r2o1r2r2w1r2r2o1r2ly1db11ly1~x8/"><circle cx="244.1" cy="105.3" r="4" fill="#3465a4"><title>Wisconsin in Scotland (Corporate)</title></circle></a><a href="/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x4/"><circle cx="285.5" cy="95.2" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/setts/s11/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2~x10/"><circle cx="214.7" cy="116.6" r="4" fill="#3465a4"><title>Lieuwen (2013)</title></circle></a><a href="/setts/s8/dg4t2db18r2k4r6t1w1~x4/"><circle cx="237.4" cy="127.7" r="4" fill="#3465a4"><title>Glenn</title></circle></a><a href="/setts/s14/n31k4n4k4n4k4n6w5k4o3dp19o3n4r3~x2/"><circle cx="229.6" cy="123.4" r="4" fill="#3465a4"><title>Sydney Academy</title></circle></a><a href="/setts/s11/db20ly1o1db3k1y2k1r10k1y2r4~x2/"><circle cx="283.4" cy="95.2" r="4" fill="#3465a4"><title>Blais</title></circle></a><a href="/setts/s16/db4lb3o30lb3dp16lb3dp10dp48g4~x2/"><circle cx="207.2" cy="104.1" r="4" fill="#3465a4"><title>Heather (RSPCC)</title></circle></a><circle cx="246.8" cy="127.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/dp4dg2dp24dg8dt2r2dt2ly2dt10dp2w3~x2/

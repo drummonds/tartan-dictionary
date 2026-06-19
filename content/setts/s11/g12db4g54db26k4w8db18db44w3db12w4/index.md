@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -913,12 +916,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Greene](/setts/s10/db6r4db24lb3k6g18lo4g2lo2g4~x2/) — ΔT 1.04
 1. [Pearl of the Orient](/setts/s13/dp4dt20db4dt6g6w2ly4g4r2g18db4r1w4~x2/) — ΔT 1.07
 1. [Tait #2](/setts/s12/w4k1r2k1g9k2b24k2r6k2g12ly2~x2/) — ΔT 1.07
-1. [Loch Awe](/setts/s9/ly3k2r3db20k24g20r3k2t3~x2/) — ΔT 1.13
+1. [Loch Awe](/setts/s9/t3k2r3g20k24db20r3k2ly3~x2/) — ΔT 1.13
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/t34r3t8dt4t8k24g34k2w6/"><circle cx="168.1" cy="136.3" r="4" fill="#3465a4"><title>Hogg Dress</title></circle></a><a href="/setts/s11/r6lg22g8lg4g12lg2g18db8lt12db35ly4/"><circle cx="96.0" cy="125.6" r="4" fill="#3465a4"><title>Bruntsfield Links Golfing Society</title></circle></a><a href="/setts/s12/db4b1db2b16ly2k8ly2g16k1db24k1w4~x2/"><circle cx="152.0" cy="93.5" r="4" fill="#3465a4"><title>Tanzania</title></circle></a><a href="/setts/s9/t34r3t8db4t8k24g34k2w6/"><circle cx="181.6" cy="141.6" r="4" fill="#3465a4"><title>Hogg Dress (Name)</title></circle></a><a href="/setts/s11/g30dp4r6w6db6dp3k14w14db50g50w2/"><circle cx="193.3" cy="99.4" r="4" fill="#3465a4"><title>Brehat (Personal)</title></circle></a><a href="/setts/s10/g9w9k2w2k2ly2dg28g2db12g4~x2/"><circle cx="130.1" cy="114.5" r="4" fill="#3465a4"><title>Order of Saint Lazarus</title></circle></a><a href="/setts/s10/db6r4db24lb3k6g18lo4g2lo2g4~x2/"><circle cx="154.3" cy="138.3" r="4" fill="#3465a4"><title>Greene</title></circle></a><a href="/setts/s13/dp4dt20db4dt6g6w2ly4g4r2g18db4r1w4~x2/"><circle cx="113.2" cy="90.7" r="4" fill="#3465a4"><title>Pearl of the Orient</title></circle></a><a href="/setts/s12/w4k1r2k1g9k2b24k2r6k2g12ly2~x2/"><circle cx="167.9" cy="90.5" r="4" fill="#3465a4"><title>Tait #2</title></circle></a><a href="/setts/s9/ly3k2r3db20k24g20r3k2t3~x2/"><circle cx="120.3" cy="134.3" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><circle cx="140.2" cy="118.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/t34r3t8dt4t8k24g34k2w6/"><circle cx="168.1" cy="136.3" r="4" fill="#3465a4"><title>Hogg Dress</title></circle></a><a href="/setts/s11/r6lg22g8lg4g12lg2g18db8lt12db35ly4/"><circle cx="96.0" cy="125.6" r="4" fill="#3465a4"><title>Bruntsfield Links Golfing Society</title></circle></a><a href="/setts/s12/db4b1db2b16ly2k8ly2g16k1db24k1w4~x2/"><circle cx="152.0" cy="93.5" r="4" fill="#3465a4"><title>Tanzania</title></circle></a><a href="/setts/s9/t34r3t8db4t8k24g34k2w6/"><circle cx="181.6" cy="141.7" r="4" fill="#3465a4"><title>Hogg Dress (Name)</title></circle></a><a href="/setts/s11/g30dp4r6w6db6dp3k14w14db50g50w2/"><circle cx="193.3" cy="99.4" r="4" fill="#3465a4"><title>Brehat (Personal)</title></circle></a><a href="/setts/s10/g9w9k2w2k2ly2dg28g2db12g4~x2/"><circle cx="130.1" cy="114.5" r="4" fill="#3465a4"><title>Order of Saint Lazarus</title></circle></a><a href="/setts/s10/db6r4db24lb3k6g18lo4g2lo2g4~x2/"><circle cx="154.4" cy="138.3" r="4" fill="#3465a4"><title>Greene</title></circle></a><a href="/setts/s13/dp4dt20db4dt6g6w2ly4g4r2g18db4r1w4~x2/"><circle cx="113.2" cy="90.9" r="4" fill="#3465a4"><title>Pearl of the Orient</title></circle></a><a href="/setts/s12/w4k1r2k1g9k2b24k2r6k2g12ly2~x2/"><circle cx="167.8" cy="90.6" r="4" fill="#3465a4"><title>Tait #2</title></circle></a><a href="/setts/s9/t3k2r3g20k24db20r3k2ly3~x2/"><circle cx="120.5" cy="134.4" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><circle cx="140.3" cy="118.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/g12db4g54db26k4w8db18db44w3db12w4/

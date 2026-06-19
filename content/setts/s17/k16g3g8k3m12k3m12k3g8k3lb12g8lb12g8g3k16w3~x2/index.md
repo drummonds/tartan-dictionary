@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3900
 
+## Also known as
+
+This cloth is also recorded under:
+
+- St. Margaret's School Edinburgh
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -54,13 +60,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Unidentified #18](/setts/s20/t3k3dy1k1dy1k1dy1k1dy3t2k1ly1k1dy1k2db2w7k1w2dy1~x2/) — ΔT 0.98
 1. [Land's End (Unnamed Maroon) (Personal)](/setts/s14/w3t2w7t2w2k7dg8k1w2k1dg8k7db7r2~x2/) — ΔT 1.03
 1. [Clanedin Commemorative Tartan Tartan Number: 1619. Earliest known date: 1970 Commonwealth Games 1970 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s17/r3k8w2k3w2k2w6db3w6k2w2dy3w2dy4ly2dy10w3~x2/) — ΔT 1.04
-1. [Clanedin/Commonwealth](/setts/s16/lb3ly10dy4lb2dy3lb2dy2lb6db3lb6k2lb2k3lb2k8r3~x2/) — ΔT 1.05
+1. [Clanedin/Commonwealth](/setts/s16/r3k8lb2k3lb2k2lb6db3lb6dy2lb2dy3lb2dy4ly10lb3~x2/) — ΔT 1.05
 1. [Coulter (Personal)](/setts/s17/t7k9k2k2k2r14g14w2t3w2g14r14k2t7k9k2k2~x2/) — ΔT 1.06
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/g5k1g5k1db5w1db5g2w1lo2db1r3lo1r3~x4/"><circle cx="46.3" cy="171.0" r="4" fill="#3465a4"><title>Festival Celtique de Québec</title></circle></a><a href="/setts/s14/g5k1g5k1db5w1db5g2w1ly2db1r3ly1r3~x4/"><circle cx="50.1" cy="169.9" r="4" fill="#3465a4"><title>Festival Celtique de Qubecc</title></circle></a><a href="/setts/s16/g4w2r2t3db3do2db2do2g2do2g3do2g8do6w8t2~x2/"><circle cx="14.0" cy="170.4" r="4" fill="#3465a4"><title>Missouri Dress (Proposed) (District)</title></circle></a><a href="/setts/s17/db4lo2db4lb6w2k2lb6w2k2lb13lo3k4lo3k8db6w2r4~x2/"><circle cx="38.3" cy="140.8" r="4" fill="#3465a4"><title>Clauwaert (Personal)</title></circle></a><a href="/setts/s16/lp9k3lp4k9g15k9db11w2db11k9g15k9lp4k3lp9ly3~x4/"><circle cx="46.9" cy="168.0" r="4" fill="#3465a4"><title>Hoban (Personal)</title></circle></a><a href="/setts/s20/t3k3dy1k1dy1k1dy1k1dy3t2k1ly1k1dy1k2db2w7k1w2dy1~x2/"><circle cx="37.4" cy="124.6" r="4" fill="#3465a4"><title>Unidentified #18</title></circle></a><a href="/setts/s14/w3t2w7t2w2k7dg8k1w2k1dg8k7db7r2~x2/"><circle cx="26.1" cy="151.0" r="4" fill="#3465a4"><title>Land's End (Unnamed Maroon) (Personal)</title></circle></a><a href="/setts/s17/r3k8w2k3w2k2w6db3w6k2w2dy3w2dy4ly2dy10w3~x2/"><circle cx="44.7" cy="150.0" r="4" fill="#3465a4"><title>Clanedin Commemorative Tartan Tartan Number: 1619. Earliest known date: 1970 Commonwealth Games 1970 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/lb3ly10dy4lb2dy3lb2dy2lb6db3lb6k2lb2k3lb2k8r3~x2/"><circle cx="35.6" cy="152.1" r="4" fill="#3465a4"><title>Clanedin/Commonwealth</title></circle></a><a href="/setts/s17/t7k9k2k2k2r14g14w2t3w2g14r14k2t7k9k2k2~x2/"><circle cx="27.7" cy="132.3" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><circle cx="32.2" cy="163.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/g5k1g5k1db5w1db5g2w1lo2db1r3lo1r3~x4/"><circle cx="46.4" cy="171.1" r="4" fill="#3465a4"><title>Festival Celtique de Québec</title></circle></a><a href="/setts/s14/g5k1g5k1db5w1db5g2w1ly2db1r3ly1r3~x4/"><circle cx="50.1" cy="170.0" r="4" fill="#3465a4"><title>Festival Celtique de Qubecc</title></circle></a><a href="/setts/s16/g4w2r2t3db3do2db2do2g2do2g3do2g8do6w8t2~x2/"><circle cx="14.0" cy="170.5" r="4" fill="#3465a4"><title>Missouri Dress (Proposed) (District)</title></circle></a><a href="/setts/s17/db4lo2db4lb6w2k2lb6w2k2lb13lo3k4lo3k8db6w2r4~x2/"><circle cx="38.2" cy="140.9" r="4" fill="#3465a4"><title>Clauwaert (Personal)</title></circle></a><a href="/setts/s16/lp9k3lp4k9g15k9db11w2db11k9g15k9lp4k3lp9ly3~x4/"><circle cx="47.1" cy="168.1" r="4" fill="#3465a4"><title>Hoban (Personal)</title></circle></a><a href="/setts/s20/t3k3dy1k1dy1k1dy1k1dy3t2k1ly1k1dy1k2db2w7k1w2dy1~x2/"><circle cx="37.4" cy="124.8" r="4" fill="#3465a4"><title>Unidentified #18</title></circle></a><a href="/setts/s14/w3t2w7t2w2k7dg8k1w2k1dg8k7db7r2~x2/"><circle cx="26.2" cy="151.1" r="4" fill="#3465a4"><title>Land's End (Unnamed Maroon) (Personal)</title></circle></a><a href="/setts/s17/r3k8w2k3w2k2w6db3w6k2w2dy3w2dy4ly2dy10w3~x2/"><circle cx="44.6" cy="150.0" r="4" fill="#3465a4"><title>Clanedin Commemorative Tartan Tartan Number: 1619. Earliest known date: 1970 Commonwealth Games 1970 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/r3k8lb2k3lb2k2lb6db3lb6dy2lb2dy3lb2dy4ly10lb3~x2/"><circle cx="35.5" cy="152.2" r="4" fill="#3465a4"><title>Clanedin/Commonwealth</title></circle></a><a href="/setts/s17/t7k9k2k2k2r14g14w2t3w2g14r14k2t7k9k2k2~x2/"><circle cx="27.7" cy="132.4" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><circle cx="32.3" cy="163.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s17/k16g3g8k3m12k3m12k3g8k3lb12g8lb12g8g3k16w3~x2/

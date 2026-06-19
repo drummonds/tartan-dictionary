@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Cumming, Comyn
+- Cumming/Comyn
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +902,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/4 R48 G8 R4 G8 R8 G16 LN2 G16 R/8
+R/8 G16 LN2 G16 R8 G8 R4 G8 R48 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -909,21 +919,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Scott - 1842 (Clan)](/setts/s10/g4r3k1r28g14r4g4w3g4r4~x2/) — ΔT 0.52
-1. [Cumming VS](/setts/s10/r4dg8lb1dg8r4dg4r2dg4r24k2/) — ΔT 0.67
-1. [Scott](/setts/s10/dg4r3k1r28dg14r4dg4lb3dg4r4/) — ΔT 0.70
-1. [Cumming/Comyn](/setts/s10/r4dg8w1dg8r4dg4r2dg4r24k2~x2/) — ΔT 0.76
-1. [MacPhie/Macfie](/setts/s9/ly1r12g2r1g16r1g2r12w1~x4/) — ΔT 0.76
-1. [MacPhee, MacFie](/setts/s9/ly1r12g2r1g16r1g2r12w1~x2/) — ΔT 0.80
-1. [MacFie](/setts/s9/lb1r12dg2r1dg16r1dg2r12ly1/) — ΔT 0.82
+1. [Scott - 1842 (Clan)](/setts/s10/r4g4w3g4r4g14r28k1r3g4~x2/) — ΔT 0.52
+1. [Cumming VS](/setts/s10/r4dg8lb1dg8r4dg4r2dg4r24k2~x2/) — ΔT 0.67
+1. [Scott](/setts/s10/dg4r3k1r28dg14r4dg4lb3dg4r4~x2/) — ΔT 0.70
+1. [Cumming/Comyn](/setts/s10/r4dg8w1dg8r4dg4r2dg4r24k2~x2/) — ΔT 0.75
+1. [MacPhie/Macfie](/setts/s9/w1r12g2r1g16r1g2r12ly1~x4/) — ΔT 0.76
+1. [MacPhee, MacFie](/setts/s9/w1r12g2r1g16r1g2r12ly1~x2/) — ΔT 0.80
+1. [MacFie](/setts/s9/ly1r12dg2r1dg16r1dg2r12lb1/) — ΔT 0.82
 1. [Scott](/setts/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2/) — ΔT 0.86
 1. [Baluch Regiment (Military)](/setts/s9/r5g20r5g3r4g5r36do2w4~x2/) — ΔT 0.90
 1. [Burnett](/setts/s8/r2g6ly1g6r3g2r16db1~x4/) — ΔT 0.93
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g4r3k1r28g14r4g4w3g4r4~x2/"><circle cx="382.2" cy="123.5" r="4" fill="#3465a4"><title>Scott - 1842 (Clan)</title></circle></a><a href="/setts/s10/r4dg8lb1dg8r4dg4r2dg4r24k2/"><circle cx="372.6" cy="137.6" r="4" fill="#3465a4"><title>Cumming VS</title></circle></a><a href="/setts/s10/dg4r3k1r28dg14r4dg4lb3dg4r4/"><circle cx="384.0" cy="124.9" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s10/r4dg8w1dg8r4dg4r2dg4r24k2~x2/"><circle cx="372.0" cy="134.0" r="4" fill="#3465a4"><title>Cumming/Comyn</title></circle></a><a href="/setts/s9/ly1r12g2r1g16r1g2r12w1~x4/"><circle cx="361.9" cy="155.2" r="4" fill="#3465a4"><title>MacPhie/Macfie</title></circle></a><a href="/setts/s9/ly1r12g2r1g16r1g2r12w1~x2/"><circle cx="360.8" cy="155.8" r="4" fill="#3465a4"><title>MacPhee, MacFie</title></circle></a><a href="/setts/s9/lb1r12dg2r1dg16r1dg2r12ly1/"><circle cx="360.5" cy="154.7" r="4" fill="#3465a4"><title>MacFie</title></circle></a><a href="/setts/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2/"><circle cx="335.1" cy="109.1" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s9/r5g20r5g3r4g5r36do2w4~x2/"><circle cx="384.5" cy="141.5" r="4" fill="#3465a4"><title>Baluch Regiment (Military)</title></circle></a><a href="/setts/s8/r2g6ly1g6r3g2r16db1~x4/"><circle cx="372.3" cy="166.9" r="4" fill="#3465a4"><title>Burnett</title></circle></a><circle cx="366.9" cy="135.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r4g4w3g4r4g14r28k1r3g4~x2/"><circle cx="381.8" cy="123.4" r="4" fill="#3465a4"><title>Scott - 1842 (Clan)</title></circle></a><a href="/setts/s10/r4dg8lb1dg8r4dg4r2dg4r24k2~x2/"><circle cx="372.2" cy="137.5" r="4" fill="#3465a4"><title>Cumming VS</title></circle></a><a href="/setts/s10/dg4r3k1r28dg14r4dg4lb3dg4r4~x2/"><circle cx="383.6" cy="124.8" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s10/r4dg8w1dg8r4dg4r2dg4r24k2~x2/"><circle cx="371.6" cy="133.8" r="4" fill="#3465a4"><title>Cumming/Comyn</title></circle></a><a href="/setts/s9/w1r12g2r1g16r1g2r12ly1~x4/"><circle cx="361.5" cy="155.1" r="4" fill="#3465a4"><title>MacPhie/Macfie</title></circle></a><a href="/setts/s9/w1r12g2r1g16r1g2r12ly1~x2/"><circle cx="360.4" cy="155.6" r="4" fill="#3465a4"><title>MacPhee, MacFie</title></circle></a><a href="/setts/s9/ly1r12dg2r1dg16r1dg2r12lb1/"><circle cx="360.1" cy="154.6" r="4" fill="#3465a4"><title>MacFie</title></circle></a><a href="/setts/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2/"><circle cx="334.7" cy="109.0" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s9/r5g20r5g3r4g5r36do2w4~x2/"><circle cx="384.0" cy="141.4" r="4" fill="#3465a4"><title>Baluch Regiment (Military)</title></circle></a><a href="/setts/s8/r2g6ly1g6r3g2r16db1~x4/"><circle cx="371.9" cy="166.7" r="4" fill="#3465a4"><title>Burnett</title></circle></a><circle cx="366.5" cy="135.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r4g8w1g8r4g4r2g4r24k2~x2/

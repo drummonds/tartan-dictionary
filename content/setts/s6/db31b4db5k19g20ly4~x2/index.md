@@ -2,7 +2,7 @@
 title: "Midlothian"
 date: 2023-03-18
 ---
-**Bands:** [BBBKGY](/stripes/bbbkgy/) · **Stripes:** [DB B DB K G LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB B DB K G LY</span></span>
+**Bands:** [YGKBBB](/stripes/ygkbbb/) · **Stripes:** [LY G K DB B DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="seq">LY G K DB B DB</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -908,10 +911,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [MacLeod of Assynt](/setts/s6/r3k2g15k10db20ly2~x2/) — ΔT 0.74
-1. [Inglis (Name)](/setts/s6/lo4db12r3db10g24lr4~x2/) — ΔT 0.77
+1. [Inglis (Name)](/setts/s6/lr4g24db10r3db12lo4~x2/) — ΔT 0.77
 1. [MacPhail, hunting](/setts/s6/r2db23k14g16k2w2~x2/) — ΔT 0.83
 1. [Lanark](/setts/s6/dg31ly4dg6k19db18t9~x2/) — ΔT 0.86
-1. [Teylu Coleman (Name)](/setts/s5/lb3k25n9dt17ly3~x2/) — ΔT 0.94
+1. [Teylu Coleman (Name)](/setts/s5/ly3dt17n9k25lb3~x2/) — ΔT 0.94
 1. [MacTaggert](/setts/s7/g9t2g1k6db6r1db1~x2/) — ΔT 0.94
 1. [MacLeod, Macleod of Harris](/setts/s7/r3k2g15k10db20k2ly2~x2/) — ΔT 0.99
 1. [Wellington](/setts/s6/db1r1db6k6g6w1~x2/) — ΔT 1.01
@@ -920,8 +923,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r3k2g15k10db20ly2~x2/"><circle cx="154.0" cy="193.1" r="4" fill="#3465a4"><title>MacLeod of Assynt</title></circle></a><a href="/setts/s6/lo4db12r3db10g24lr4~x2/"><circle cx="183.3" cy="208.9" r="4" fill="#3465a4"><title>Inglis (Name)</title></circle></a><a href="/setts/s6/r2db23k14g16k2w2~x2/"><circle cx="167.0" cy="186.3" r="4" fill="#3465a4"><title>MacPhail, hunting</title></circle></a><a href="/setts/s6/dg31ly4dg6k19db18t9~x2/"><circle cx="153.8" cy="228.0" r="4" fill="#3465a4"><title>Lanark</title></circle></a><a href="/setts/s5/lb3k25n9dt17ly3~x2/"><circle cx="192.0" cy="221.7" r="4" fill="#3465a4"><title>Teylu Coleman (Name)</title></circle></a><a href="/setts/s7/g9t2g1k6db6r1db1~x2/"><circle cx="144.8" cy="192.6" r="4" fill="#3465a4"><title>MacTaggert</title></circle></a><a href="/setts/s7/r3k2g15k10db20k2ly2~x2/"><circle cx="151.3" cy="179.5" r="4" fill="#3465a4"><title>MacLeod, Macleod of Harris</title></circle></a><a href="/setts/s6/db1r1db6k6g6w1~x2/"><circle cx="101.7" cy="217.1" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/setts/s7/g17ly2k14r2db9r2db10~x2/"><circle cx="116.5" cy="199.0" r="4" fill="#3465a4"><title>MacDonald, (Flora.. )</title></circle></a><a href="/setts/s7/g16lb3g3k10db12r2db3~x2/"><circle cx="164.1" cy="215.2" r="4" fill="#3465a4"><title>MacLean, Donald (Personal)</title></circle></a><circle cx="158.8" cy="208.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r3k2g15k10db20ly2~x2/"><circle cx="154.2" cy="193.1" r="4" fill="#3465a4"><title>MacLeod of Assynt</title></circle></a><a href="/setts/s6/lr4g24db10r3db12lo4~x2/"><circle cx="183.4" cy="208.8" r="4" fill="#3465a4"><title>Inglis (Name)</title></circle></a><a href="/setts/s6/r2db23k14g16k2w2~x2/"><circle cx="167.2" cy="186.2" r="4" fill="#3465a4"><title>MacPhail, hunting</title></circle></a><a href="/setts/s6/dg31ly4dg6k19db18t9~x2/"><circle cx="154.1" cy="228.0" r="4" fill="#3465a4"><title>Lanark</title></circle></a><a href="/setts/s5/ly3dt17n9k25lb3~x2/"><circle cx="192.2" cy="221.7" r="4" fill="#3465a4"><title>Teylu Coleman (Name)</title></circle></a><a href="/setts/s7/g9t2g1k6db6r1db1~x2/"><circle cx="144.9" cy="192.6" r="4" fill="#3465a4"><title>MacTaggert</title></circle></a><a href="/setts/s7/r3k2g15k10db20k2ly2~x2/"><circle cx="151.4" cy="179.5" r="4" fill="#3465a4"><title>MacLeod, Macleod of Harris</title></circle></a><a href="/setts/s6/db1r1db6k6g6w1~x2/"><circle cx="101.9" cy="217.1" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/setts/s7/g17ly2k14r2db9r2db10~x2/"><circle cx="116.7" cy="199.0" r="4" fill="#3465a4"><title>MacDonald, (Flora.. )</title></circle></a><a href="/setts/s7/g16lb3g3k10db12r2db3~x2/"><circle cx="164.3" cy="215.2" r="4" fill="#3465a4"><title>MacLean, Donald (Personal)</title></circle></a><circle cx="159.0" cy="208.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db31b4db5k19g20ly4~x2/

@@ -2,7 +2,7 @@
 title: "Williamson/Smart"
 date: 2023-03-18
 ---
-**Bands:** [BGBRKGKR](/stripes/bgbrkgkr/) · **Stripes:** [DT Y DT R K DG K R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DT Y DT R K DG K R</span></span>
+**Bands:** [RKGKRBGB](/stripes/rkgkrbgb/) · **Stripes:** [R K DG K R DT Y DT](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="seq">R K DG K R DT Y DT</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -45,21 +45,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Amazing Union (Personal)](/setts/s9/o2do15dg12do2dt12do2dg12do15r2~x4/) — ΔT 1.17
+1. [Amazing Union (Personal)](/setts/s9/r2do15dg12do2dt12do2dg12do15o2~x4/) — ΔT 1.17
 1. [House of Bruar (Corporate)](/setts/s6/dr6do26dt28g26dt8y3~x2/) — ΔT 1.31
-1. [House of Bruar](/setts/s10/do26dt28g26dt8y3dt8g26dt28do26dr6~x2/) — ΔT 1.34
-1. [Wilson's No.230](/setts/s12/r4k2db16k17dg16k2y4k2dg16k17db16k2~x2/) — ΔT 1.47
+1. [House of Bruar](/setts/s10/do26dt28g26dt8y3dt8g26dt28do26dr6~x2/) — ΔT 1.35
+1. [Wilson's No.230](/setts/s12/r4k2db16k17dg16k2y4~x2/) — ΔT 1.47
 1. [Swankie](/setts/s7/dg3dt22dr10o5dg21r6dt3~x2/) — ΔT 1.56
-1. [Paul Henry (Personal)](/setts/s11/n4db3n7dt9n13r2n13db9n7dt3n4~x2/) — ΔT 1.59
-1. [Haughfoot](/setts/s10/k15t4dt15dg24y4dg24dt15t4k15r4~x2/) — ΔT 1.64
+1. [Paul Henry (Personal)](/setts/s11/n4dt3n7db9n13r2n13dt9n7db3n4~x2/) — ΔT 1.59
+1. [Haughfoot](/setts/s10/k15t4dt15dg24y4dg24dt15t4k15r4~x2/) — ΔT 1.63
 1. [MacArthur of Milton Hunting](/setts/s6/dg7db1dg1k4dp4k1~x4/) — ΔT 1.64
 1. [de Vere-Austin (Clan)](/setts/s11/dg14k8dg21k2lo5k2dg21k11db18k2r5~x2/) — ΔT 1.64
 1. [Myres Castle](/setts/s7/dg3dg12dt6dg3db15o2db2~x2/) — ΔT 1.67
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/o2do15dg12do2dt12do2dg12do15r2~x4/"><circle cx="321.6" cy="276.4" r="4" fill="#3465a4"><title>Amazing Union (Personal)</title></circle></a><a href="/setts/s6/dr6do26dt28g26dt8y3~x2/"><circle cx="251.5" cy="272.6" r="4" fill="#3465a4"><title>House of Bruar (Corporate)</title></circle></a><a href="/setts/s10/do26dt28g26dt8y3dt8g26dt28do26dr6~x2/"><circle cx="249.1" cy="267.8" r="4" fill="#3465a4"><title>House of Bruar</title></circle></a><a href="/setts/s12/r4k2db16k17dg16k2y4k2dg16k17db16k2~x2/"><circle cx="228.2" cy="235.4" r="4" fill="#3465a4"><title>Wilson's No.230</title></circle></a><a href="/setts/s7/dg3dt22dr10o5dg21r6dt3~x2/"><circle cx="217.1" cy="248.2" r="4" fill="#3465a4"><title>Swankie</title></circle></a><a href="/setts/s11/n4db3n7dt9n13r2n13db9n7dt3n4~x2/"><circle cx="231.3" cy="270.1" r="4" fill="#3465a4"><title>Paul Henry (Personal)</title></circle></a><a href="/setts/s10/k15t4dt15dg24y4dg24dt15t4k15r4~x2/"><circle cx="178.3" cy="246.9" r="4" fill="#3465a4"><title>Haughfoot</title></circle></a><a href="/setts/s6/dg7db1dg1k4dp4k1~x4/"><circle cx="345.0" cy="313.8" r="4" fill="#3465a4"><title>MacArthur of Milton Hunting</title></circle></a><a href="/setts/s11/dg14k8dg21k2lo5k2dg21k11db18k2r5~x2/"><circle cx="302.8" cy="233.1" r="4" fill="#3465a4"><title>de Vere-Austin (Clan)</title></circle></a><a href="/setts/s7/dg3dg12dt6dg3db15o2db2~x2/"><circle cx="254.8" cy="258.3" r="4" fill="#3465a4"><title>Myres Castle</title></circle></a><circle cx="265.2" cy="277.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r2do15dg12do2dt12do2dg12do15o2~x4/"><circle cx="321.7" cy="276.7" r="4" fill="#3465a4"><title>Amazing Union (Personal)</title></circle></a><a href="/setts/s6/dr6do26dt28g26dt8y3~x2/"><circle cx="251.6" cy="272.8" r="4" fill="#3465a4"><title>House of Bruar (Corporate)</title></circle></a><a href="/setts/s10/do26dt28g26dt8y3dt8g26dt28do26dr6~x2/"><circle cx="249.2" cy="268.1" r="4" fill="#3465a4"><title>House of Bruar</title></circle></a><a href="/setts/s12/r4k2db16k17dg16k2y4~x2/"><circle cx="228.4" cy="235.6" r="4" fill="#3465a4"><title>Wilson's No.230</title></circle></a><a href="/setts/s7/dg3dt22dr10o5dg21r6dt3~x2/"><circle cx="217.3" cy="248.4" r="4" fill="#3465a4"><title>Swankie</title></circle></a><a href="/setts/s11/n4dt3n7db9n13r2n13dt9n7db3n4~x2/"><circle cx="231.4" cy="270.4" r="4" fill="#3465a4"><title>Paul Henry (Personal)</title></circle></a><a href="/setts/s10/k15t4dt15dg24y4dg24dt15t4k15r4~x2/"><circle cx="178.6" cy="247.2" r="4" fill="#3465a4"><title>Haughfoot</title></circle></a><a href="/setts/s6/dg7db1dg1k4dp4k1~x4/"><circle cx="345.2" cy="314.0" r="4" fill="#3465a4"><title>MacArthur of Milton Hunting</title></circle></a><a href="/setts/s11/dg14k8dg21k2lo5k2dg21k11db18k2r5~x2/"><circle cx="302.9" cy="233.2" r="4" fill="#3465a4"><title>de Vere-Austin (Clan)</title></circle></a><a href="/setts/s7/dg3dg12dt6dg3db15o2db2~x2/"><circle cx="255.0" cy="258.6" r="4" fill="#3465a4"><title>Myres Castle</title></circle></a><circle cx="265.4" cy="277.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/dt10y3dt10r3k21dg20k15r3~x2/

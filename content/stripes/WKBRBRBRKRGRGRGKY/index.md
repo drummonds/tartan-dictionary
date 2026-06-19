@@ -18,10 +18,10 @@ WKBRBRBRKRGRGRGKY
 
 
 
-### W K DB R DB R DB R K R G R G R G K LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W K DB R DB R DB R K R G R G R G K LY</span></span>
+### LY K G R G R G R K R DB R DB R DB K W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K G R G R G R K R DB R DB R DB K W</span></span>
 
 | Tartans |
 |---------------|
-| [Victoria City of Gardens (Fashion)](/setts/s17/ly2k1g1r1g1r2g25r1k4r1db25r2db1r1db1k1w2~x2/)|
-|![Victoria City of Gardens (Fashion) example sett](/setts/s17/ly2k1g1r1g1r2g25r1k4r1db25r2db1r1db1k1w2~x2/sett.png)|
+| [Victoria City of Gardens (Fashion)](/setts/s17/w2k1db1r1db1r2db25r1k4r1g25r2g1r1g1k1ly2~x2/)|
+|![Victoria City of Gardens (Fashion) example sett](/setts/s17/w2k1db1r1db1r2db25r1k4r1g25r2g1r1g1k1ly2~x2/sett.png)|
 

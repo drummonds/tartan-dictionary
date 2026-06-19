@@ -22,6 +22,6 @@ RKYKWBWBWBWKRKY
 
 | Tartans |
 |---------------|
-| [Oromocto](/setts/s15/ly6k5r1k1w3b5w1b20w1b5w3k1ly1k5r6~x2/)|
-|![Oromocto example sett](/setts/s15/ly6k5r1k1w3b5w1b20w1b5w3k1ly1k5r6~x2/sett.png)|
+| [Oromocto](/setts/s15/r6k5ly1k1w3b5w1b20w1b5w3k1r1k5ly6~x2/)|
+|![Oromocto example sett](/setts/s15/r6k5ly1k1w3b5w1b20w1b5w3k1r1k5ly6~x2/sett.png)|
 

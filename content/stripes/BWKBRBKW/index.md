@@ -8,7 +8,7 @@ BWKBRBKW
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/dt30lb2k6db3r3db3k6lb2~x4/tartan.png)
+![Woven sample](/setts/s8/dt30lb2k6db3r3~x4/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ BWKBRBKW
 
 | Tartans |
 |---------------|
-| [Edinburgh Crystal Corporate Tartan Tartan Number: 2307. Earliest known date: pre 1997 Designed by Sandra Campbell an employee of Edinburgh Crystal. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/dt30lb2k6db3r3db3k6lb2~x4/)|
-|![Edinburgh Crystal Corporate Tartan Tartan Number: 2307. Earliest known date: pre 1997 Designed by Sandra Campbell an employee of Edinburgh Crystal. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/dt30lb2k6db3r3db3k6lb2~x4/sett.png)|
+| [Edinburgh Crystal Corporate Tartan Tartan Number: 2307. Earliest known date: pre 1997 Designed by Sandra Campbell an employee of Edinburgh Crystal. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/dt30lb2k6db3r3~x4/)|
+|![Edinburgh Crystal Corporate Tartan Tartan Number: 2307. Earliest known date: pre 1997 Designed by Sandra Campbell an employee of Edinburgh Crystal. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/dt30lb2k6db3r3~x4/sett.png)|
 

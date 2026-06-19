@@ -18,10 +18,10 @@ WKRGRKRGRKRKY
 
 
 
-### W K R DG R K R DG R K R K LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W K R DG R K R DG R K R K LY</span></span>
+### LY K R K R DG R K R DG R K W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K R K R DG R K R DG R K W</span></span>
 
 | Tartans |
 |---------------|
-| [Robieson](/setts/s13/ly1k1r8k1r1dg8r1k8r1dg1r8k1w1~x6/)|
-|![Robieson example sett](/setts/s13/ly1k1r8k1r1dg8r1k8r1dg1r8k1w1~x6/sett.png)|
+| [Robieson](/setts/s13/w1k1r8dg1r1k8r1dg8r1k1r8k1ly1~x6/)|
+|![Robieson example sett](/setts/s13/w1k1r8dg1r1k8r1dg8r1k1r8k1ly1~x6/sett.png)|
 

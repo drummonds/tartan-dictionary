@@ -2,7 +2,7 @@
 title: "Scottish National (hunting)"
 date: 2023-03-18
 ---
-**Bands:** [BBGBGBGBG](/stripes/bbgbgbgbg/) · **Stripes:** [DR DR G DR G P G P Y](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DR DR G DR G P G P Y</span></span>
+**Bands:** [GBGBGBGBB](/stripes/gbgbgbgbb/) · **Stripes:** [Y P G P G DR G DR DR](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#55120C"></span><span class="seq">Y P G P G DR G DR DR</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DR/8 DRa6 G6 DRa16 G32 P6 G6 P6 N/130
+N/130 P6 G6 P6 G32 DRa16 G6 DRa6 DR/8
 ![Sett](sett.png)
 
 ## Palette
@@ -905,7 +908,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Scottish National Htg (Fashion)](/setts/s9/o66m3g3m3g16dr8g3dr3m4~x2/) — ΔT 0.26
 1. [Cavalier, Green](/setts/s11/y40dt10o2dt2w2dt3r8y6dt2y4w2~x2/) — ΔT 1.22
-1. [Cavalier, Brown](/setts/s11/o40dt10y2dt2w2dt3y8o6dt2o4w2~x2/) — ΔT 1.28
+1. [Cavalier, Brown](/setts/s11/o40dt10y2dt2w2dt3y8o6dt2o4w2~x2/) — ΔT 1.27
 1. [Haddrell (2013)](/setts/s7/r2b4lb18n2lb2n41w2~x2/) — ΔT 1.30
 1. [Cavalier, Blue](/setts/s11/y40dt10o2dt2w2dt3y8y6dt2y4w2~x2/) — ΔT 1.30
 1. [Carbon (Corporate)](/setts/s9/n68k4n18o20k3w3k10lb8lo4/) — ΔT 1.31
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/o66m3g3m3g16dr8g3dr3m4~x2/"><circle cx="401.2" cy="120.5" r="4" fill="#3465a4"><title>Scottish National Htg (Fashion)</title></circle></a><a href="/setts/s11/y40dt10o2dt2w2dt3r8y6dt2y4w2~x2/"><circle cx="388.2" cy="122.7" r="4" fill="#3465a4"><title>Cavalier, Green</title></circle></a><a href="/setts/s11/o40dt10y2dt2w2dt3y8o6dt2o4w2~x2/"><circle cx="373.3" cy="108.4" r="4" fill="#3465a4"><title>Cavalier, Brown</title></circle></a><a href="/setts/s7/r2b4lb18n2lb2n41w2~x2/"><circle cx="381.8" cy="134.0" r="4" fill="#3465a4"><title>Haddrell (2013)</title></circle></a><a href="/setts/s11/y40dt10o2dt2w2dt3y8y6dt2y4w2~x2/"><circle cx="361.9" cy="110.6" r="4" fill="#3465a4"><title>Cavalier, Blue</title></circle></a><a href="/setts/s9/n68k4n18o20k3w3k10lb8lo4/"><circle cx="363.8" cy="116.0" r="4" fill="#3465a4"><title>Carbon (Corporate)</title></circle></a><a href="/setts/s8/y52db6lb3db2lb2db2lb16r3~x2/"><circle cx="414.3" cy="127.8" r="4" fill="#3465a4"><title>Scotch House (Corporate)</title></circle></a><a href="/setts/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/"><circle cx="400.2" cy="102.6" r="4" fill="#3465a4"><title>Diana, hunting Plaid</title></circle></a><a href="/setts/s8/lo3y40db12lo3k2lb4k2lo3~x2/"><circle cx="357.1" cy="126.1" r="4" fill="#3465a4"><title>Tunes of Glory (Film)</title></circle></a><a href="/setts/s11/k1ly1k1ly1k1ly1n46lr17n4lr16r1~x2/"><circle cx="424.0" cy="89.6" r="4" fill="#3465a4"><title>Saunders (Personal)</title></circle></a><circle cx="397.9" cy="124.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/o66m3g3m3g16dr8g3dr3m4~x2/"><circle cx="400.8" cy="120.5" r="4" fill="#3465a4"><title>Scottish National Htg (Fashion)</title></circle></a><a href="/setts/s11/y40dt10o2dt2w2dt3r8y6dt2y4w2~x2/"><circle cx="387.8" cy="122.6" r="4" fill="#3465a4"><title>Cavalier, Green</title></circle></a><a href="/setts/s11/o40dt10y2dt2w2dt3y8o6dt2o4w2~x2/"><circle cx="372.9" cy="108.3" r="4" fill="#3465a4"><title>Cavalier, Brown</title></circle></a><a href="/setts/s7/r2b4lb18n2lb2n41w2~x2/"><circle cx="381.4" cy="133.9" r="4" fill="#3465a4"><title>Haddrell (2013)</title></circle></a><a href="/setts/s11/y40dt10o2dt2w2dt3y8y6dt2y4w2~x2/"><circle cx="361.6" cy="110.4" r="4" fill="#3465a4"><title>Cavalier, Blue</title></circle></a><a href="/setts/s9/n68k4n18o20k3w3k10lb8lo4/"><circle cx="363.6" cy="115.9" r="4" fill="#3465a4"><title>Carbon (Corporate)</title></circle></a><a href="/setts/s8/y52db6lb3db2lb2db2lb16r3~x2/"><circle cx="413.9" cy="127.6" r="4" fill="#3465a4"><title>Scotch House (Corporate)</title></circle></a><a href="/setts/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/"><circle cx="399.7" cy="102.7" r="4" fill="#3465a4"><title>Diana, hunting Plaid</title></circle></a><a href="/setts/s8/lo3y40db12lo3k2lb4k2lo3~x2/"><circle cx="356.8" cy="126.1" r="4" fill="#3465a4"><title>Tunes of Glory (Film)</title></circle></a><a href="/setts/s11/k1ly1k1ly1k1ly1n46lr17n4lr16r1~x2/"><circle cx="423.5" cy="89.6" r="4" fill="#3465a4"><title>Saunders (Personal)</title></circle></a><circle cx="397.5" cy="124.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/y65p3g3p3g16dr8g3dr3dr4~x2/

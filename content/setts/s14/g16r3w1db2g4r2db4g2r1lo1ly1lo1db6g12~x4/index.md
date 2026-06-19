@@ -2,12 +2,18 @@
 title: "Heneghan (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GBYYYRGBRGBWRG](/stripes/gbyyyrgbrgbwrg/) · **Stripes:** [G DB LO LY LO R G DB R G DB W R G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G DB LO LY LO R G DB R G DB W R G</span></span>
+**Bands:** [GRWBGRBGRYYYBG](/stripes/grwbgrbgryyybg/) · **Stripes:** [G R W DB G R DB G R LO LY LO DB G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G R W DB G R DB G R LO LY LO DB G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4969
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Heneghan Commemorative
 
 ## Attestations
 
@@ -24,7 +30,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3841
 
 ## Thread count
-G/48 B24 O4 Y4 O4 R4 G8 B16 R8 G16 B8 W4 R12 G/64
+G/64 R12 W4 B8 G16 R8 B16 G8 R4 O4 Y4 O4 B24 G/48
 ![Sett](sett.png)
 
 ## Palette
@@ -56,8 +62,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/ly2g16t2w2t2w2t6g7r2w1t1dp1~x6/"><circle cx="240.2" cy="109.7" r="4" fill="#3465a4"><title>Fredericton #2</title></circle></a><a href="/setts/s11/dt6g48k4ly4k4w4g20r10k4r6w5/"><circle cx="270.3" cy="118.5" r="4" fill="#3465a4"><title>Steel (Personal)</title></circle></a><a href="/setts/s18/y36g12y4g72k4g13k36r4k4ly4k36g13k4g72y4g12y36w4/"><circle cx="248.8" cy="99.6" r="4" fill="#3465a4"><title>Rooney (Personal)</title></circle></a><a href="/setts/s17/k2g2ly1g3r1g2r1g12db4k3db3k3db3k3db4g24r2~x2/"><circle cx="292.4" cy="80.2" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/setts/s13/k3g3ly2g4k2g3k2g24db10ly2db10g30r3~x2/"><circle cx="347.0" cy="136.3" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/setts/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3t3~x2/"><circle cx="234.6" cy="107.3" r="4" fill="#3465a4"><title>Lorne - Marquis of (Personal)</title></circle></a><a href="/setts/s11/ly13db2g38db13g8db8g17db2g17db4w11/"><circle cx="286.8" cy="152.2" r="4" fill="#3465a4"><title>Bute Heather, Glencallum (Fashion)</title></circle></a><a href="/setts/s12/ly2g16t2w2t2w2t6g7r2w1t1p1~x2/"><circle cx="252.9" cy="116.8" r="4" fill="#3465a4"><title>Fredericton</title></circle></a><a href="/setts/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/"><circle cx="289.5" cy="75.6" r="4" fill="#3465a4"><title>Reilly fae the Mearns (Personal)</title></circle></a><a href="/setts/s11/db3k1g13ly1r1w1r6g3r1g3w1~x2/"><circle cx="260.0" cy="119.5" r="4" fill="#3465a4"><title>Canadian Caledonian, hunting</title></circle></a><circle cx="276.6" cy="104.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/ly2g16t2w2t2w2t6g7r2w1t1dp1~x6/"><circle cx="240.0" cy="109.7" r="4" fill="#3465a4"><title>Fredericton #2</title></circle></a><a href="/setts/s11/dt6g48k4ly4k4w4g20r10k4r6w5/"><circle cx="270.1" cy="118.5" r="4" fill="#3465a4"><title>Steel (Personal)</title></circle></a><a href="/setts/s18/y36g12y4g72k4g13k36r4k4ly4k36g13k4g72y4g12y36w4/"><circle cx="248.5" cy="99.6" r="4" fill="#3465a4"><title>Rooney (Personal)</title></circle></a><a href="/setts/s17/k2g2ly1g3r1g2r1g12db4k3db3k3db3k3db4g24r2~x2/"><circle cx="292.2" cy="80.2" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/setts/s13/k3g3ly2g4k2g3k2g24db10ly2db10g30r3~x2/"><circle cx="346.8" cy="136.1" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/setts/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3t3~x2/"><circle cx="234.4" cy="107.2" r="4" fill="#3465a4"><title>Lorne - Marquis of (Personal)</title></circle></a><a href="/setts/s11/ly13db2g38db13g8db8g17db2g17db4w11/"><circle cx="286.6" cy="152.0" r="4" fill="#3465a4"><title>Bute Heather, Glencallum (Fashion)</title></circle></a><a href="/setts/s12/ly2g16t2w2t2w2t6g7r2w1t1p1~x2/"><circle cx="252.6" cy="116.8" r="4" fill="#3465a4"><title>Fredericton</title></circle></a><a href="/setts/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/"><circle cx="289.3" cy="75.6" r="4" fill="#3465a4"><title>Reilly fae the Mearns (Personal)</title></circle></a><a href="/setts/s11/db3k1g13ly1r1w1r6g3r1g3w1~x2/"><circle cx="259.7" cy="119.4" r="4" fill="#3465a4"><title>Canadian Caledonian, hunting</title></circle></a><circle cx="276.3" cy="104.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/g16r3w1db2g4r2db4g2r1lo1ly1lo1db6g12~x4/

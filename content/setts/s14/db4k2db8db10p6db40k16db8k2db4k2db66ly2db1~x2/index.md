@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -904,10 +907,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Heart of Scotland Fancy Tartan Tartan Number: 4230. Earliest known date: 1999 October 1999. Designed by Lochcarron of Scotland for 'Gavin' Kiltmaker. They use it for their hire kilts. Colour checked against sample. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/db5lb1db44m1g12k12m5k2lp2k3~x2/) — ΔT 1.33
-1. [Scottish Bluebell (Corporate)](/setts/s13/db80k34w4b8w4k8w4b8w4k34db80w1b8/) — ΔT 1.38
+1. [Scottish Bluebell (Corporate)](/setts/s13/db80k34w4b8w4k8w4b8w4k34db80w1b8~x2/) — ΔT 1.38
 1. [Minnock (Name)](/setts/s11/db50k14g3r2g3r2g3r2g3k2lo2~x2/) — ΔT 1.43
+1. [Heart of Scotland (Lochcarron)](/setts/s18/db5w1db44dp1g12k12dp5k2m2k3~x2/) — ΔT 1.44
 1. [Muir Homes](/setts/s11/db66k20db7y4db5y4db5y4db7k2lr6/) — ΔT 1.44
-1. [Heart of Scotland (Lochcarron)](/setts/s18/db5w1db44dp1g12k12dp5k2m2k3m2k2dp5k12g12dp1db44w1~x2/) — ΔT 1.44
 1. [Incorporation of Weavers (Glasgow)](/setts/s9/db3o3db36db7k3db6g5k1ly3~x2/) — ΔT 1.47
 1. [Buckie](/setts/s9/o4k2dg2ly1dg8k20db50r2db2~x2/) — ΔT 1.49
 1. [Heart of Scotland (Fashion)](/setts/s10/db5w1db44dp1g12k12dp5k2m2k3~x2/) — ΔT 1.53
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db5lb1db44m1g12k12m5k2lp2k3~x2/"><circle cx="352.4" cy="88.2" r="4" fill="#3465a4"><title>Heart of Scotland Fancy Tartan Tartan Number: 4230. Earliest known date: 1999 October 1999. Designed by Lochcarron of Scotland for 'Gavin' Kiltmaker. They use it for their hire kilts. Colour checked against sample. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/db80k34w4b8w4k8w4b8w4k34db80w1b8/"><circle cx="391.8" cy="109.3" r="4" fill="#3465a4"><title>Scottish Bluebell (Corporate)</title></circle></a><a href="/setts/s11/db50k14g3r2g3r2g3r2g3k2lo2~x2/"><circle cx="388.0" cy="114.5" r="4" fill="#3465a4"><title>Minnock (Name)</title></circle></a><a href="/setts/s11/db66k20db7y4db5y4db5y4db7k2lr6/"><circle cx="350.8" cy="120.4" r="4" fill="#3465a4"><title>Muir Homes</title></circle></a><a href="/setts/s18/db5w1db44dp1g12k12dp5k2m2k3m2k2dp5k12g12dp1db44w1~x2/"><circle cx="366.1" cy="80.5" r="4" fill="#3465a4"><title>Heart of Scotland (Lochcarron)</title></circle></a><a href="/setts/s9/db3o3db36db7k3db6g5k1ly3~x2/"><circle cx="364.7" cy="110.3" r="4" fill="#3465a4"><title>Incorporation of Weavers (Glasgow)</title></circle></a><a href="/setts/s9/o4k2dg2ly1dg8k20db50r2db2~x2/"><circle cx="400.4" cy="99.7" r="4" fill="#3465a4"><title>Buckie</title></circle></a><a href="/setts/s10/db5w1db44dp1g12k12dp5k2m2k3~x2/"><circle cx="383.7" cy="105.4" r="4" fill="#3465a4"><title>Heart of Scotland (Fashion)</title></circle></a><a href="/setts/s12/db68o5k9o3k3lb3k3n20db9k3db5lb4/"><circle cx="380.3" cy="114.3" r="4" fill="#3465a4"><title>British Caledonian Airways #3</title></circle></a><a href="/setts/s11/b14db4g2db2g3db2b17db31b1db1w2~x2/"><circle cx="356.1" cy="128.7" r="4" fill="#3465a4"><title>Schiehallion (Corporate)</title></circle></a><circle cx="376.9" cy="95.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db5lb1db44m1g12k12m5k2lp2k3~x2/"><circle cx="352.4" cy="88.3" r="4" fill="#3465a4"><title>Heart of Scotland Fancy Tartan Tartan Number: 4230. Earliest known date: 1999 October 1999. Designed by Lochcarron of Scotland for 'Gavin' Kiltmaker. They use it for their hire kilts. Colour checked against sample. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/db80k34w4b8w4k8w4b8w4k34db80w1b8~x2/"><circle cx="391.7" cy="109.2" r="4" fill="#3465a4"><title>Scottish Bluebell (Corporate)</title></circle></a><a href="/setts/s11/db50k14g3r2g3r2g3r2g3k2lo2~x2/"><circle cx="388.0" cy="114.5" r="4" fill="#3465a4"><title>Minnock (Name)</title></circle></a><a href="/setts/s18/db5w1db44dp1g12k12dp5k2m2k3~x2/"><circle cx="366.0" cy="80.6" r="4" fill="#3465a4"><title>Heart of Scotland (Lochcarron)</title></circle></a><a href="/setts/s11/db66k20db7y4db5y4db5y4db7k2lr6/"><circle cx="350.8" cy="120.5" r="4" fill="#3465a4"><title>Muir Homes</title></circle></a><a href="/setts/s9/db3o3db36db7k3db6g5k1ly3~x2/"><circle cx="364.7" cy="110.3" r="4" fill="#3465a4"><title>Incorporation of Weavers (Glasgow)</title></circle></a><a href="/setts/s9/o4k2dg2ly1dg8k20db50r2db2~x2/"><circle cx="400.3" cy="99.8" r="4" fill="#3465a4"><title>Buckie</title></circle></a><a href="/setts/s10/db5w1db44dp1g12k12dp5k2m2k3~x2/"><circle cx="383.6" cy="105.5" r="4" fill="#3465a4"><title>Heart of Scotland (Fashion)</title></circle></a><a href="/setts/s12/db68o5k9o3k3lb3k3n20db9k3db5lb4/"><circle cx="380.2" cy="114.3" r="4" fill="#3465a4"><title>British Caledonian Airways #3</title></circle></a><a href="/setts/s11/b14db4g2db2g3db2b17db31b1db1w2~x2/"><circle cx="356.0" cy="128.7" r="4" fill="#3465a4"><title>Schiehallion (Corporate)</title></circle></a><circle cx="376.9" cy="95.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/db4k2db8db10p6db40k16db8k2db4k2db66ly2db1~x2/

@@ -8,7 +8,7 @@ RYRYGYGY
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/lo3dy8lo3dy20lo20r3lo8r3~x2/tartan.png)
+![Woven sample](/setts/s8/r3lo8r3lo20dy20lo3dy8lo3~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RYRYGYGY
 
 | Tartans |
 |---------------|
-| [Miyuki #4](/setts/s8/lo3dy8lo3dy20lo20r3lo8r3~x2/)|
-|![Miyuki #4 example sett](/setts/s8/lo3dy8lo3dy20lo20r3lo8r3~x2/sett.png)|
+| [Miyuki #4](/setts/s8/r3lo8r3lo20dy20lo3dy8lo3~x2/)|
+|![Miyuki #4 example sett](/setts/s8/r3lo8r3lo20dy20lo3dy8lo3~x2/sett.png)|
 

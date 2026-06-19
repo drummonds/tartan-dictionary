@@ -9,8 +9,14 @@ This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7438/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Galway County, Crest Range
+
 ## Thread count
-LN/8 K6 DR50 K10 DB30 K6 DB30 B10 N/20
+N/20 B10 DB30 K6 DB30 K10 DR50 K6 LN/8
 ![Sett](sett.png)
 
 ## Palette
@@ -32,7 +38,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Commonwealth Games 1998](/setts/s11/dg10m2dg2r4dg16dp16r2t18lo2t8r3~x2/) — ΔT 0.80
 1. [Culloden Grey](/setts/s8/r6db3dp24w2k23y23k2y6~x2/) — ΔT 0.83
 1. [Galway County, Crest Range](/setts/s9/n10db5db15k3db15k5r25k3w4~x2/) — ΔT 0.93
-1. [McLion (Corporate)](/setts/s9/lo1r5db4db1g1db1g1db6w1~x4/) — ΔT 0.95
+1. [McLion (Corporate)](/setts/s9/w1db6g1db1g1db1db4r5lo1~x4/) — ΔT 0.95
 1. [State Seal of Arizona (Fashion)](/setts/s10/g4do21lo10do5lo4r4db10g6db30lb4~x2/) — ΔT 0.98
 1. [Unidentified Scarlett #7](/setts/s10/dp22r3k22g22ly2g22k22r3dp22w3~x2/) — ΔT 1.00
 1. [Pearl O' the Tay (Corporate)](/setts/s11/dt6g3dt3w2dt5k2dt3k2dp16m3k2~x2/) — ΔT 1.03
@@ -42,8 +48,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dg10m2dg2r4dg16dp16r2t18lo2t8r3~x2/"><circle cx="126.3" cy="154.9" r="4" fill="#3465a4"><title>Commonwealth Games 1998</title></circle></a><a href="/setts/s8/r6db3dp24w2k23y23k2y6~x2/"><circle cx="138.4" cy="151.8" r="4" fill="#3465a4"><title>Culloden Grey</title></circle></a><a href="/setts/s9/n10db5db15k3db15k5r25k3w4~x2/"><circle cx="142.2" cy="184.3" r="4" fill="#3465a4"><title>Galway County, Crest Range</title></circle></a><a href="/setts/s9/lo1r5db4db1g1db1g1db6w1~x4/"><circle cx="137.6" cy="185.3" r="4" fill="#3465a4"><title>McLion (Corporate)</title></circle></a><a href="/setts/s10/g4do21lo10do5lo4r4db10g6db30lb4~x2/"><circle cx="159.6" cy="172.0" r="4" fill="#3465a4"><title>State Seal of Arizona (Fashion)</title></circle></a><a href="/setts/s10/dp22r3k22g22ly2g22k22r3dp22w3~x2/"><circle cx="113.1" cy="165.2" r="4" fill="#3465a4"><title>Unidentified Scarlett #7</title></circle></a><a href="/setts/s11/dt6g3dt3w2dt5k2dt3k2dp16m3k2~x2/"><circle cx="156.6" cy="162.5" r="4" fill="#3465a4"><title>Pearl O' the Tay (Corporate)</title></circle></a><a href="/setts/s9/r3db16m2db2m12k8g12k12w3~x2/"><circle cx="66.0" cy="180.2" r="4" fill="#3465a4"><title>Celtic Women International</title></circle></a><a href="/setts/s7/k20r6ly3db24g3r8w4~x2/"><circle cx="117.6" cy="168.5" r="4" fill="#3465a4"><title>Eichelberger (Perrsonal)</title></circle></a><a href="/setts/s11/o9db4o2db4o2db15o9db4r18k9ly2~x2/"><circle cx="140.1" cy="173.7" r="4" fill="#3465a4"><title>Stephens</title></circle></a><circle cx="124.4" cy="172.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dg10m2dg2r4dg16dp16r2t18lo2t8r3~x2/"><circle cx="126.3" cy="155.0" r="4" fill="#3465a4"><title>Commonwealth Games 1998</title></circle></a><a href="/setts/s8/r6db3dp24w2k23y23k2y6~x2/"><circle cx="138.4" cy="151.9" r="4" fill="#3465a4"><title>Culloden Grey</title></circle></a><a href="/setts/s9/n10db5db15k3db15k5r25k3w4~x2/"><circle cx="142.3" cy="184.5" r="4" fill="#3465a4"><title>Galway County, Crest Range</title></circle></a><a href="/setts/s9/w1db6g1db1g1db1db4r5lo1~x4/"><circle cx="137.7" cy="185.5" r="4" fill="#3465a4"><title>McLion (Corporate)</title></circle></a><a href="/setts/s10/g4do21lo10do5lo4r4db10g6db30lb4~x2/"><circle cx="159.6" cy="172.1" r="4" fill="#3465a4"><title>State Seal of Arizona (Fashion)</title></circle></a><a href="/setts/s10/dp22r3k22g22ly2g22k22r3dp22w3~x2/"><circle cx="113.2" cy="165.3" r="4" fill="#3465a4"><title>Unidentified Scarlett #7</title></circle></a><a href="/setts/s11/dt6g3dt3w2dt5k2dt3k2dp16m3k2~x2/"><circle cx="156.7" cy="162.7" r="4" fill="#3465a4"><title>Pearl O' the Tay (Corporate)</title></circle></a><a href="/setts/s9/r3db16m2db2m12k8g12k12w3~x2/"><circle cx="66.2" cy="180.4" r="4" fill="#3465a4"><title>Celtic Women International</title></circle></a><a href="/setts/s7/k20r6ly3db24g3r8w4~x2/"><circle cx="117.8" cy="168.6" r="4" fill="#3465a4"><title>Eichelberger (Perrsonal)</title></circle></a><a href="/setts/s11/o9db4o2db4o2db15o9db4r18k9ly2~x2/"><circle cx="140.1" cy="173.8" r="4" fill="#3465a4"><title>Stephens</title></circle></a><circle cx="124.5" cy="172.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/o10t5db15k3db15k5r25k3w4~x2/

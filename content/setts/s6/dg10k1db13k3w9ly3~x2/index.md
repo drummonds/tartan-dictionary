@@ -2,7 +2,7 @@
 title: "Inverary"
 date: 2023-03-18
 ---
-**Bands:** [GKBKWY](/stripes/gkbkwy/) · **Stripes:** [DG K DB K W LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DG K DB K W LY</span></span>
+**Bands:** [YWKBKG](/stripes/ywkbkg/) · **Stripes:** [LY W K DB K DG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">LY W K DB K DG</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -914,14 +917,14 @@ The nearest existing variants by ΔTartan distance.
 1. [MacRobart, dress](/setts/s7/db8w33k15g17t3g17t3~x2/) — ΔT 1.16
 1. [Business Air](/setts/s8/b4ly2b16db15g16w3g3w4~x2/) — ΔT 1.19
 1. [Ainslie, Lake](/setts/s7/db6w10g10r2ly3r1db3~x2/) — ΔT 1.19
-1. [Clunie (Name)](/setts/s6/ly6k2o11k7db24w6~x2/) — ΔT 1.20
+1. [Clunie (Name)](/setts/s6/w6db24k7o11k2ly6~x2/) — ΔT 1.20
 1. [Kuznetsov (2014)](/setts/s7/db49ly12r12ly12dg32w8db3/) — ΔT 1.22
-1. [MacNeil of Barra (Clan)](/setts/s6/ly3k2g12k12b14w3~x4/) — ΔT 1.27
+1. [MacNeil of Barra (Clan)](/setts/s6/w3b14k12g12k2ly3~x4/) — ΔT 1.27
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g10k1db13k3w9ly3~x2/"><circle cx="106.8" cy="181.0" r="4" fill="#3465a4"><title>Inverary Clan Tartan Tartan Number: 772. Earliest known date: pre 2003 From a miniature of Elizabeth Innes at (sic) Edingight from Adam See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/y10k1db13k3lb9lo3~x2/"><circle cx="117.4" cy="184.7" r="4" fill="#3465a4"><title>Inverary</title></circle></a><a href="/setts/s7/db8w33k15dg17t3dg17t3~x2/"><circle cx="114.9" cy="174.9" r="4" fill="#3465a4"><title>MacRobart Dress (Personal)</title></circle></a><a href="/setts/s9/k4lb2db5lb7db9g14o4g1o4~x2/"><circle cx="100.3" cy="172.4" r="4" fill="#3465a4"><title>Antigonish Centennial</title></circle></a><a href="/setts/s7/db8w33k15g17t3g17t3~x2/"><circle cx="105.4" cy="172.9" r="4" fill="#3465a4"><title>MacRobart, dress</title></circle></a><a href="/setts/s8/b4ly2b16db15g16w3g3w4~x2/"><circle cx="95.4" cy="181.6" r="4" fill="#3465a4"><title>Business Air</title></circle></a><a href="/setts/s7/db6w10g10r2ly3r1db3~x2/"><circle cx="72.9" cy="171.1" r="4" fill="#3465a4"><title>Ainslie, Lake</title></circle></a><a href="/setts/s6/ly6k2o11k7db24w6~x2/"><circle cx="154.7" cy="176.4" r="4" fill="#3465a4"><title>Clunie (Name)</title></circle></a><a href="/setts/s7/db49ly12r12ly12dg32w8db3/"><circle cx="157.0" cy="152.3" r="4" fill="#3465a4"><title>Kuznetsov (2014)</title></circle></a><a href="/setts/s6/ly3k2g12k12b14w3~x4/"><circle cx="86.3" cy="215.4" r="4" fill="#3465a4"><title>MacNeil of Barra (Clan)</title></circle></a><circle cx="103.3" cy="179.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g10k1db13k3w9ly3~x2/"><circle cx="106.9" cy="181.0" r="4" fill="#3465a4"><title>Inverary Clan Tartan Tartan Number: 772. Earliest known date: pre 2003 From a miniature of Elizabeth Innes at (sic) Edingight from Adam See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/y10k1db13k3lb9lo3~x2/"><circle cx="117.5" cy="184.7" r="4" fill="#3465a4"><title>Inverary</title></circle></a><a href="/setts/s7/db8w33k15dg17t3dg17t3~x2/"><circle cx="114.9" cy="174.8" r="4" fill="#3465a4"><title>MacRobart Dress (Personal)</title></circle></a><a href="/setts/s9/k4lb2db5lb7db9g14o4g1o4~x2/"><circle cx="100.4" cy="172.5" r="4" fill="#3465a4"><title>Antigonish Centennial</title></circle></a><a href="/setts/s7/db8w33k15g17t3g17t3~x2/"><circle cx="105.4" cy="172.8" r="4" fill="#3465a4"><title>MacRobart, dress</title></circle></a><a href="/setts/s8/b4ly2b16db15g16w3g3w4~x2/"><circle cx="95.4" cy="181.6" r="4" fill="#3465a4"><title>Business Air</title></circle></a><a href="/setts/s7/db6w10g10r2ly3r1db3~x2/"><circle cx="72.8" cy="171.0" r="4" fill="#3465a4"><title>Ainslie, Lake</title></circle></a><a href="/setts/s6/w6db24k7o11k2ly6~x2/"><circle cx="154.7" cy="176.3" r="4" fill="#3465a4"><title>Clunie (Name)</title></circle></a><a href="/setts/s7/db49ly12r12ly12dg32w8db3/"><circle cx="157.0" cy="152.3" r="4" fill="#3465a4"><title>Kuznetsov (2014)</title></circle></a><a href="/setts/s6/w3b14k12g12k2ly3~x4/"><circle cx="86.5" cy="215.4" r="4" fill="#3465a4"><title>MacNeil of Barra (Clan)</title></circle></a><circle cx="103.3" cy="179.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/dg10k1db13k3w9ly3~x2/

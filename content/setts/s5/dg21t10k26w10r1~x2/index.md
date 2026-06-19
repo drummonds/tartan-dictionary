@@ -2,7 +2,7 @@
 title: "Charles-Carberry (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GBKWR](/stripes/gbkwr/) · **Stripes:** [DG T K W R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG T K W R</span></span>
+**Bands:** [RWKBG](/stripes/rwkbg/) · **Stripes:** [R W K T DG](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="seq">R W K T DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
@@ -40,10 +40,10 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Charles-Carberry (Personal)](/setts/s5/dg21db10k26ly10r1~x2/) — ΔT 0.82
 1. [Ferguson, Jerrfey S (Personal)](/setts/s6/g27db12k12r9k1ly2~x2/) — ΔT 1.14
-1. [MacWilliam](/setts/s6/o2g12k10r1db16r2~x2/) — ΔT 1.17
+1. [MacWilliam](/setts/s6/r2db16r1k10g12o2~x2/) — ΔT 1.17
 1. [Ferguson, Jeffrey S (Personal)](/setts/s6/dg27db12k12r9k1ly2~x2/) — ΔT 1.20
-1. [Big Sur MacLaren (Personal)](/setts/s7/lg31k18dg13r3dg13k1ly3~x2/) — ΔT 1.29
-1. [Smith, Sir William (?)](/setts/s6/ly3k1g20k20db18t3~x2/) — ΔT 1.32
+1. [Big Sur MacLaren (Personal)](/setts/s7/lg31k18dg13r3dg13k1ly3~x2/) — ΔT 1.30
+1. [Smith, Sir William (?)](/setts/s6/t3db18k20g20k1ly3~x2/) — ΔT 1.32
 1. [Ferguson - 1830 of Atholl (Clan)](/setts/s7/db18k10g6r4g6k1w2~x2/) — ΔT 1.39
 1. [Gunn 2011, Robert (Personal)](/setts/s4/t20k20g20r1~x2/) — ΔT 1.40
 1. [Colquhoun](/setts/s7/db4k2db16w1k8g24r4~x2/) — ΔT 1.41
@@ -51,8 +51,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/dg21db10k26ly10r1~x2/"><circle cx="198.4" cy="192.8" r="4" fill="#3465a4"><title>Charles-Carberry (Personal)</title></circle></a><a href="/setts/s6/g27db12k12r9k1ly2~x2/"><circle cx="229.0" cy="165.4" r="4" fill="#3465a4"><title>Ferguson, Jerrfey S (Personal)</title></circle></a><a href="/setts/s6/o2g12k10r1db16r2~x2/"><circle cx="170.3" cy="179.4" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/setts/s6/dg27db12k12r9k1ly2~x2/"><circle cx="231.8" cy="164.6" r="4" fill="#3465a4"><title>Ferguson, Jeffrey S (Personal)</title></circle></a><a href="/setts/s7/lg31k18dg13r3dg13k1ly3~x2/"><circle cx="198.4" cy="139.6" r="4" fill="#3465a4"><title>Big Sur MacLaren (Personal)</title></circle></a><a href="/setts/s6/ly3k1g20k20db18t3~x2/"><circle cx="179.7" cy="184.0" r="4" fill="#3465a4"><title>Smith, Sir William (?)</title></circle></a><a href="/setts/s7/db18k10g6r4g6k1w2~x2/"><circle cx="189.5" cy="175.6" r="4" fill="#3465a4"><title>Ferguson - 1830 of Atholl (Clan)</title></circle></a><a href="/setts/s4/t20k20g20r1~x2/"><circle cx="175.3" cy="227.7" r="4" fill="#3465a4"><title>Gunn 2011, Robert (Personal)</title></circle></a><a href="/setts/s7/db4k2db16w1k8g24r4~x2/"><circle cx="212.9" cy="148.7" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/setts/s6/k14w3g42k36db40t10/"><circle cx="132.6" cy="198.7" r="4" fill="#3465a4"><title>New York, Firemen's Pipe Band</title></circle></a><circle cx="180.3" cy="179.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/dg21db10k26ly10r1~x2/"><circle cx="198.6" cy="192.8" r="4" fill="#3465a4"><title>Charles-Carberry (Personal)</title></circle></a><a href="/setts/s6/g27db12k12r9k1ly2~x2/"><circle cx="229.0" cy="165.4" r="4" fill="#3465a4"><title>Ferguson, Jerrfey S (Personal)</title></circle></a><a href="/setts/s6/r2db16r1k10g12o2~x2/"><circle cx="170.5" cy="179.4" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/setts/s6/dg27db12k12r9k1ly2~x2/"><circle cx="231.8" cy="164.6" r="4" fill="#3465a4"><title>Ferguson, Jeffrey S (Personal)</title></circle></a><a href="/setts/s7/lg31k18dg13r3dg13k1ly3~x2/"><circle cx="198.4" cy="139.6" r="4" fill="#3465a4"><title>Big Sur MacLaren (Personal)</title></circle></a><a href="/setts/s6/t3db18k20g20k1ly3~x2/"><circle cx="179.9" cy="184.1" r="4" fill="#3465a4"><title>Smith, Sir William (?)</title></circle></a><a href="/setts/s7/db18k10g6r4g6k1w2~x2/"><circle cx="189.6" cy="175.7" r="4" fill="#3465a4"><title>Ferguson - 1830 of Atholl (Clan)</title></circle></a><a href="/setts/s4/t20k20g20r1~x2/"><circle cx="175.4" cy="227.6" r="4" fill="#3465a4"><title>Gunn 2011, Robert (Personal)</title></circle></a><a href="/setts/s7/db4k2db16w1k8g24r4~x2/"><circle cx="212.9" cy="148.6" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/setts/s6/k14w3g42k36db40t10/"><circle cx="132.8" cy="198.6" r="4" fill="#3465a4"><title>New York, Firemen's Pipe Band</title></circle></a><circle cx="180.4" cy="179.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/dg21t10k26w10r1~x2/

@@ -8,7 +8,7 @@ WBWBGWGW
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/lb1t1lb1t7y7lb1y1lb1~x6/tartan.png)
+![Woven sample](/setts/s8/lb1y1lb1y7t7lb1t1lb1~x6/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ WBWBGWGW
 
 
 
-### LB T LB T Y LB Y LB <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB T LB T Y LB Y LB</span></span>
+### LB Y LB Y T LB T LB <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB Y LB Y T LB T LB</span></span>
 
 | Tartans |
 |---------------|
-| [Auld Lang Syne (Fashion)](/setts/s8/lb1t1lb1t7y7lb1y1lb1~x6/)|
-|![Auld Lang Syne (Fashion) example sett](/setts/s8/lb1t1lb1t7y7lb1y1lb1~x6/sett.png)|
+| [Auld Lang Syne (Fashion)](/setts/s8/lb1y1lb1y7t7lb1t1lb1~x6/)|
+|![Auld Lang Syne (Fashion) example sett](/setts/s8/lb1y1lb1y7t7lb1t1lb1~x6/sett.png)|
 

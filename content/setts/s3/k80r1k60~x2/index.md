@@ -31,7 +31,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-K/120 DR2 K/160
+K/160 DR2 K/120
 ![Sett](sett.png)
 
 ## Palette
@@ -44,7 +44,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/120 DR2 K/160 tartan")
+![Tartan detail](tartan.png "K/160 DR2 K/120 tartan")
 
 ## Nearest tartans
 
@@ -63,8 +63,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s2/k20n1~x6/"><circle cx="626.0" cy="366.0" r="4" fill="#3465a4"><title>Black Shadow (Fashion)</title></circle></a><a href="/setts/s3/dg20r1dg4~x3/"><circle cx="626.0" cy="327.0" r="4" fill="#3465a4"><title>Castle Fraser Check</title></circle></a><a href="/setts/s2/db12k1~x10/"><circle cx="626.0" cy="366.0" r="4" fill="#3465a4"><title>Staines</title></circle></a><a href="/setts/s4/k50r1dt3dp1~x4/"><circle cx="626.0" cy="217.5" r="4" fill="#3465a4"><title>Alich (Personal)</title></circle></a><a href="/setts/s4/k50r1db3dp1~x4/"><circle cx="626.0" cy="213.8" r="4" fill="#3465a4"><title>Alich (Personal)</title></circle></a><a href="/setts/s7/db3r1db35r1db16t1db2~x4/"><circle cx="626.0" cy="221.4" r="4" fill="#3465a4"><title>Lochaber Old</title></circle></a><a href="/setts/s6/k99r5k4r3k2y1~x2/"><circle cx="626.0" cy="194.0" r="4" fill="#3465a4"><title>Allt Dubh (Black Burn)</title></circle></a><a href="/setts/s6/dg60r2dg8r1dg5k2/"><circle cx="626.0" cy="200.6" r="4" fill="#3465a4"><title>St. David's (District)</title></circle></a><a href="/setts/s4/o19w1o19m1~x2/"><circle cx="626.0" cy="276.3" r="4" fill="#3465a4"><title>Dunbar of Pitgaveny</title></circle></a><a href="/setts/s3/do27n3do17~x4/"><circle cx="626.0" cy="366.0" r="4" fill="#3465a4"><title>Outlander #4</title></circle></a><circle cx="626.0" cy="363.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s2/k20n1~x6/"><circle cx="626.0" cy="366.0" r="4" fill="#3465a4"><title>Black Shadow (Fashion)</title></circle></a><a href="/setts/s3/dg20r1dg4~x3/"><circle cx="626.0" cy="326.5" r="4" fill="#3465a4"><title>Castle Fraser Check</title></circle></a><a href="/setts/s2/db12k1~x10/"><circle cx="626.0" cy="366.0" r="4" fill="#3465a4"><title>Staines</title></circle></a><a href="/setts/s4/k50r1dt3dp1~x4/"><circle cx="626.0" cy="217.2" r="4" fill="#3465a4"><title>Alich (Personal)</title></circle></a><a href="/setts/s4/k50r1db3dp1~x4/"><circle cx="626.0" cy="213.5" r="4" fill="#3465a4"><title>Alich (Personal)</title></circle></a><a href="/setts/s7/db3r1db35r1db16t1db2~x4/"><circle cx="626.0" cy="221.0" r="4" fill="#3465a4"><title>Lochaber Old</title></circle></a><a href="/setts/s6/k99r5k4r3k2y1~x2/"><circle cx="626.0" cy="193.7" r="4" fill="#3465a4"><title>Allt Dubh (Black Burn)</title></circle></a><a href="/setts/s6/dg60r2dg8r1dg5k2/"><circle cx="626.0" cy="200.1" r="4" fill="#3465a4"><title>St. David's (District)</title></circle></a><a href="/setts/s4/o19w1o19m1~x2/"><circle cx="626.0" cy="275.8" r="4" fill="#3465a4"><title>Dunbar of Pitgaveny</title></circle></a><a href="/setts/s3/do27n3do17~x4/"><circle cx="626.0" cy="366.0" r="4" fill="#3465a4"><title>Outlander #4</title></circle></a><circle cx="626.0" cy="363.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/k80r1k60~x2/

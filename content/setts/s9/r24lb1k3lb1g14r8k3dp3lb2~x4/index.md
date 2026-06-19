@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2073
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Leach, 1997
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -44,20 +50,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Chisholm VS](/setts/s10/r6lr1r24db6dg2k1dg2k1dg12r1~x2/) — ΔT 0.63
+1. [Chisholm VS](/setts/s10/r6lr1r24db6dg2k1dg2k1dg12r1/) — ΔT 0.63
 1. [MacLeay (Clan)](/setts/s7/r27g4k4g4k4db6lo1~x4/) — ΔT 1.00
 1. [MacDonald of Glenaladale](/setts/s11/db3t1r30db32r3w1r3g23r31db3w1/) — ΔT 1.01
 1. [Carrick (Clan)](/setts/s9/r28db12r3g20dp1g2dp1g2r7~x2/) — ΔT 1.04
 1. [Carrick](/setts/s9/r28db12r3g20m1g2m1g2r7~x2/) — ΔT 1.05
-1. [Chisholm VS](/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1~x2/) — ΔT 1.06
+1. [Chisholm VS](/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1/) — ΔT 1.05
 1. [Chisholm](/setts/s10/r6w1r24db6g2k1g2k1g12r1~x2/) — ΔT 1.06
 1. [MacEdward](/setts/s10/r6ly1r24g6db2k1db2k1db12r1~x2/) — ΔT 1.07
 1. [Seton](/setts/s10/dg6lr1dg12r4db4r2k4r32dg1r2~x2/) — ΔT 1.09
-1. [Hunter of Bute (Clan ?)](/setts/s9/r8dg8k1dg3k1dg1k10r20lb3~x2/) — ΔT 1.12
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r6lr1r24db6dg2k1dg2k1dg12r1~x2/"><circle cx="350.3" cy="115.8" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/setts/s7/r27g4k4g4k4db6lo1~x4/"><circle cx="326.2" cy="120.6" r="4" fill="#3465a4"><title>MacLeay (Clan)</title></circle></a><a href="/setts/s11/db3t1r30db32r3w1r3g23r31db3w1/"><circle cx="327.3" cy="106.3" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/setts/s9/r28db12r3g20dp1g2dp1g2r7~x2/"><circle cx="336.1" cy="135.9" r="4" fill="#3465a4"><title>Carrick (Clan)</title></circle></a><a href="/setts/s9/r28db12r3g20m1g2m1g2r7~x2/"><circle cx="337.9" cy="136.3" r="4" fill="#3465a4"><title>Carrick</title></circle></a><a href="/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1~x2/"><circle cx="331.9" cy="102.8" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/setts/s10/r6w1r24db6g2k1g2k1g12r1~x2/"><circle cx="336.0" cy="104.5" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s10/r6ly1r24g6db2k1db2k1db12r1~x2/"><circle cx="344.1" cy="106.6" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/setts/s10/dg6lr1dg12r4db4r2k4r32dg1r2~x2/"><circle cx="387.8" cy="101.9" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s9/r8dg8k1dg3k1dg1k10r20lb3~x2/"><circle cx="311.7" cy="160.4" r="4" fill="#3465a4"><title>Hunter of Bute (Clan ?)</title></circle></a><circle cx="330.9" cy="129.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r6lr1r24db6dg2k1dg2k1dg12r1~x2/"><circle cx="350.0" cy="115.8" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/setts/s10/r6lr1r24db6dg2k1dg2k1dg12r1/"><circle cx="350.0" cy="115.8" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/setts/s7/r27g4k4g4k4db6lo1~x4/"><circle cx="325.9" cy="120.6" r="4" fill="#3465a4"><title>MacLeay (Clan)</title></circle></a><a href="/setts/s11/db3t1r30db32r3w1r3g23r31db3w1/"><circle cx="326.9" cy="106.3" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/setts/s9/r28db12r3g20dp1g2dp1g2r7~x2/"><circle cx="335.8" cy="135.8" r="4" fill="#3465a4"><title>Carrick (Clan)</title></circle></a><a href="/setts/s9/r28db12r3g20m1g2m1g2r7~x2/"><circle cx="337.6" cy="136.2" r="4" fill="#3465a4"><title>Carrick</title></circle></a><a href="/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1/"><circle cx="331.5" cy="102.7" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/setts/s10/r6w1r24db6g2k1g2k1g12r1~x2/"><circle cx="335.6" cy="104.4" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s10/r6ly1r24g6db2k1db2k1db12r1~x2/"><circle cx="343.7" cy="106.6" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/setts/s10/dg6lr1dg12r4db4r2k4r32dg1r2~x2/"><circle cx="387.5" cy="101.9" r="4" fill="#3465a4"><title>Seton</title></circle></a><circle cx="330.7" cy="129.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r24lb1k3lb1g14r8k3dp3lb2~x4/

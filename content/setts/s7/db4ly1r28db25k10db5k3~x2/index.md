@@ -2,12 +2,18 @@
 title: "McKnight (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BYRBKBK](/stripes/byrbkbk/) · **Stripes:** [DB LY R DB K DB K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">DB LY R DB K DB K</span></span>
+**Bands:** [KBKBRYB](/stripes/kbkbryb/) · **Stripes:** [K DB K DB R LY DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB R LY DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2892
+
+## Also known as
+
+This cloth is also recorded under:
+
+- McKnight Dress
 
 ## Attestations
 
@@ -47,7 +53,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [McKnight #2 (Personal)](/setts/s7/t4ly1r28db24k5t5k3~x4/) — ΔT 0.81
-1. [Abernethy (Colerain, USA)](/setts/s7/lo1db14r28y14r1dg14lo1~x2/) — ΔT 0.95
+1. [Abernethy (Colerain, USA)](/setts/s7/lo1dg14r1y14r28db14lo1~x2/) — ΔT 0.95
 1. [Royal Scottish Assurance](/setts/s9/db26dg11r8k2r2w2r4w1r15~x2/) — ΔT 0.98
 1. [Royal Scottish Assurance (Corporate)](/setts/s9/db26g11r8k2r2w2r4w1r15~x2/) — ΔT 1.04
 1. [Manson](/setts/s9/dg1r24dg8k8dg8r1k4db16w1~x2/) — ΔT 1.09
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/t4ly1r28db24k5t5k3~x4/"><circle cx="249.5" cy="128.6" r="4" fill="#3465a4"><title>McKnight #2 (Personal)</title></circle></a><a href="/setts/s7/lo1db14r28y14r1dg14lo1~x2/"><circle cx="221.5" cy="133.6" r="4" fill="#3465a4"><title>Abernethy (Colerain, USA)</title></circle></a><a href="/setts/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="252.5" cy="125.7" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><a href="/setts/s9/db26g11r8k2r2w2r4w1r15~x2/"><circle cx="243.2" cy="119.7" r="4" fill="#3465a4"><title>Royal Scottish Assurance (Corporate)</title></circle></a><a href="/setts/s9/dg1r24dg8k8dg8r1k4db16w1~x2/"><circle cx="203.2" cy="135.8" r="4" fill="#3465a4"><title>Manson</title></circle></a><a href="/setts/s6/dt3dg1r24dt16db28w3~x2/"><circle cx="243.4" cy="158.3" r="4" fill="#3465a4"><title>Diaspora</title></circle></a><a href="/setts/s6/g3k24ly1r18db18w1~x2/"><circle cx="196.9" cy="140.5" r="4" fill="#3465a4"><title>Hegarty, Philip David (Personal)</title></circle></a><a href="/setts/s9/db1r20g6k6g6r1k6db20w1~x2/"><circle cx="179.0" cy="139.0" r="4" fill="#3465a4"><title>Bush Pilot</title></circle></a><a href="/setts/s6/dg3k24lo1r18db18w1~x2/"><circle cx="212.2" cy="148.1" r="4" fill="#3465a4"><title>Hegarty, Philip David (Personal)</title></circle></a><a href="/setts/s7/r64k30g30b18w4b2w3/"><circle cx="230.2" cy="119.6" r="4" fill="#3465a4"><title>Clyde (Personal)</title></circle></a><circle cx="225.6" cy="135.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/t4ly1r28db24k5t5k3~x4/"><circle cx="249.4" cy="128.7" r="4" fill="#3465a4"><title>McKnight #2 (Personal)</title></circle></a><a href="/setts/s7/lo1dg14r1y14r28db14lo1~x2/"><circle cx="221.4" cy="133.6" r="4" fill="#3465a4"><title>Abernethy (Colerain, USA)</title></circle></a><a href="/setts/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="252.3" cy="125.7" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><a href="/setts/s9/db26g11r8k2r2w2r4w1r15~x2/"><circle cx="243.0" cy="119.7" r="4" fill="#3465a4"><title>Royal Scottish Assurance (Corporate)</title></circle></a><a href="/setts/s9/dg1r24dg8k8dg8r1k4db16w1~x2/"><circle cx="203.1" cy="135.9" r="4" fill="#3465a4"><title>Manson</title></circle></a><a href="/setts/s6/dt3dg1r24dt16db28w3~x2/"><circle cx="243.4" cy="158.4" r="4" fill="#3465a4"><title>Diaspora</title></circle></a><a href="/setts/s6/g3k24ly1r18db18w1~x2/"><circle cx="196.9" cy="140.5" r="4" fill="#3465a4"><title>Hegarty, Philip David (Personal)</title></circle></a><a href="/setts/s9/db1r20g6k6g6r1k6db20w1~x2/"><circle cx="179.0" cy="139.1" r="4" fill="#3465a4"><title>Bush Pilot</title></circle></a><a href="/setts/s6/dg3k24lo1r18db18w1~x2/"><circle cx="212.3" cy="148.3" r="4" fill="#3465a4"><title>Hegarty, Philip David (Personal)</title></circle></a><a href="/setts/s7/r64k30g30b18w4b2w3/"><circle cx="230.0" cy="119.5" r="4" fill="#3465a4"><title>Clyde (Personal)</title></circle></a><circle cx="225.6" cy="135.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/db4ly1r28db25k10db5k3~x2/

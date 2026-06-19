@@ -22,6 +22,6 @@ KBKYBWGKWKWKWRWKWKWKGWBYKBKR
 
 | Tartans |
 |---------------|
-| [Webb (Personal)](/setts/s28/r4k2db10k2ly3db6w2g16k3w2k3w2k3w2r6w2k3w2k3w2k3g16w2db6ly3k2db10k2~x2/)|
-|![Webb (Personal) example sett](/setts/s28/r4k2db10k2ly3db6w2g16k3w2k3w2k3w2r6w2k3w2k3w2k3g16w2db6ly3k2db10k2~x2/sett.png)|
+| [Webb (Personal)](/setts/s28/r6w2k3w2k3w2k3g16w2db6ly3k2db10k2r4~x2/)|
+|![Webb (Personal) example sett](/setts/s28/r6w2k3w2k3w2k3g16w2db6ly3k2db10k2r4~x2/sett.png)|
 

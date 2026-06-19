@@ -2,7 +2,7 @@
 title: "Schwarzen Keiler, Die"
 date: 2023-03-18
 ---
-**Bands:** [GKRWKGKRWKGY](/stripes/gkrwkgkrwkgy/) · **Stripes:** [DG K R W K DG K R W K DG LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DG K R W K DG K R W K DG LY</span></span>
+**Bands:** [YGKWRKGKWRKG](/stripes/ygkwrkgkwrkg/) · **Stripes:** [LY DG K W R K DG K W R K DG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">LY DG K W R K DG K W R K DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
@@ -41,21 +41,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Alamudi (Corporate)](/setts/s12/k13w3r3k34dg21k13dg8k5dg3k2dg1db1/) — ΔT 1.07
+1. [Alamudi (Corporate)](/setts/s12/k13w3r3k34dg21k13dg8k5dg3k2dg1db1~x2/) — ΔT 1.07
 1. [Glen and Son, William (Corporate)](/setts/s11/r6k3do4k10do5o3k2do31w1do2w2~x2/) — ΔT 1.24
 1. [Moran Family Ubique](/setts/s10/dg68k2dg2k2dg2lo8r8k8lo2db7~x2/) — ΔT 1.29
 1. [Ataç, H.M. & I.C. (Personal)](/setts/s8/db9g5w1g15k2g1k44r1~x2/) — ΔT 1.35
-1. [The Trew 40th](/setts/s15/r4k3k11dt3db3dt30k1w4k1dt3k3dt3k3dt12r2~x2/) — ΔT 1.38
+1. [The Trew 40th](/setts/s15/r4k3k11dt3db3dt30k1w4k1dt3k3dt3k3dt12r2~x2/) — ΔT 1.37
 1. [Hebridean Heather](/setts/s9/n4dt2n7dt30n8dt7r5dt1w2~x2/) — ΔT 1.43
 1. [North Sea Oil (Fashion)](/setts/s17/k6o1n19k2do1ly1do4k28n2k4n2k1o2k1n2k1o2~x2/) — ΔT 1.45
 1. [Entier](/setts/s12/k2g4k6lr2k31ly2k1ly2k16g20ly1lr2~x2/) — ΔT 1.46
-1. [Marsa Scout Group](/setts/s11/g4k1ly2k1g8k44r2db8k1k1r4~x2/) — ΔT 1.48
-1. [William Glen and Son](/setts/s11/r6k3n4k10n5t2k2n31w1n2w2~x2/) — ΔT 1.54
+1. [Marsa Scout Group](/setts/s11/r4k1k1db8r2k44g8k1ly2k1g4~x2/) — ΔT 1.47
+1. [Hall, from Springbrook and Newtown (Personal)](/setts/s8/w3m11db4m6dg48o2dg3o2~x2/) — ΔT 1.54
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k13w3r3k34dg21k13dg8k5dg3k2dg1db1/"><circle cx="411.1" cy="137.7" r="4" fill="#3465a4"><title>Alamudi (Corporate)</title></circle></a><a href="/setts/s11/r6k3do4k10do5o3k2do31w1do2w2~x2/"><circle cx="402.6" cy="124.2" r="4" fill="#3465a4"><title>Glen and Son, William (Corporate)</title></circle></a><a href="/setts/s10/dg68k2dg2k2dg2lo8r8k8lo2db7~x2/"><circle cx="442.6" cy="104.1" r="4" fill="#3465a4"><title>Moran Family Ubique</title></circle></a><a href="/setts/s8/db9g5w1g15k2g1k44r1~x2/"><circle cx="402.5" cy="120.2" r="4" fill="#3465a4"><title>Ataç, H.M. &amp; I.C. (Personal)</title></circle></a><a href="/setts/s15/r4k3k11dt3db3dt30k1w4k1dt3k3dt3k3dt12r2~x2/"><circle cx="358.3" cy="104.4" r="4" fill="#3465a4"><title>The Trew 40th</title></circle></a><a href="/setts/s9/n4dt2n7dt30n8dt7r5dt1w2~x2/"><circle cx="368.9" cy="142.2" r="4" fill="#3465a4"><title>Hebridean Heather</title></circle></a><a href="/setts/s17/k6o1n19k2do1ly1do4k28n2k4n2k1o2k1n2k1o2~x2/"><circle cx="360.0" cy="93.8" r="4" fill="#3465a4"><title>North Sea Oil (Fashion)</title></circle></a><a href="/setts/s12/k2g4k6lr2k31ly2k1ly2k16g20ly1lr2~x2/"><circle cx="407.0" cy="132.3" r="4" fill="#3465a4"><title>Entier</title></circle></a><a href="/setts/s11/g4k1ly2k1g8k44r2db8k1k1r4~x2/"><circle cx="421.2" cy="84.3" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/setts/s11/r6k3n4k10n5t2k2n31w1n2w2~x2/"><circle cx="378.5" cy="106.9" r="4" fill="#3465a4"><title>William Glen and Son</title></circle></a><circle cx="395.9" cy="123.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k13w3r3k34dg21k13dg8k5dg3k2dg1db1~x2/"><circle cx="411.0" cy="137.7" r="4" fill="#3465a4"><title>Alamudi (Corporate)</title></circle></a><a href="/setts/s11/r6k3do4k10do5o3k2do31w1do2w2~x2/"><circle cx="402.4" cy="124.1" r="4" fill="#3465a4"><title>Glen and Son, William (Corporate)</title></circle></a><a href="/setts/s10/dg68k2dg2k2dg2lo8r8k8lo2db7~x2/"><circle cx="442.4" cy="104.0" r="4" fill="#3465a4"><title>Moran Family Ubique</title></circle></a><a href="/setts/s8/db9g5w1g15k2g1k44r1~x2/"><circle cx="402.4" cy="120.1" r="4" fill="#3465a4"><title>Ataç, H.M. &amp; I.C. (Personal)</title></circle></a><a href="/setts/s15/r4k3k11dt3db3dt30k1w4k1dt3k3dt3k3dt12r2~x2/"><circle cx="358.3" cy="104.5" r="4" fill="#3465a4"><title>The Trew 40th</title></circle></a><a href="/setts/s9/n4dt2n7dt30n8dt7r5dt1w2~x2/"><circle cx="368.8" cy="142.2" r="4" fill="#3465a4"><title>Hebridean Heather</title></circle></a><a href="/setts/s17/k6o1n19k2do1ly1do4k28n2k4n2k1o2k1n2k1o2~x2/"><circle cx="359.9" cy="93.9" r="4" fill="#3465a4"><title>North Sea Oil (Fashion)</title></circle></a><a href="/setts/s12/k2g4k6lr2k31ly2k1ly2k16g20ly1lr2~x2/"><circle cx="406.8" cy="132.1" r="4" fill="#3465a4"><title>Entier</title></circle></a><a href="/setts/s11/r4k1k1db8r2k44g8k1ly2k1g4~x2/"><circle cx="421.0" cy="84.2" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/setts/s8/w3m11db4m6dg48o2dg3o2~x2/"><circle cx="427.3" cy="137.9" r="4" fill="#3465a4"><title>Hall, from Springbrook and Newtown (Personal)</title></circle></a><circle cx="395.8" cy="123.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/dg6k6r1w1k6dg32k6r1w1k6dg6ly2~x4/

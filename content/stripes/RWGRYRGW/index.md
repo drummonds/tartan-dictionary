@@ -8,7 +8,7 @@ RWGRYRGW
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/o57w5g20o5lo10o5g20w5~x2/tartan.png)
+![Woven sample](/setts/s8/o57w5g20o5lo10~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RWGRYRGW
 
 | Tartans |
 |---------------|
-| [Johore](/setts/s8/o57w5g20o5lo10o5g20w5~x2/)|
-|![Johore example sett](/setts/s8/o57w5g20o5lo10o5g20w5~x2/sett.png)|
+| [Johore](/setts/s8/o57w5g20o5lo10~x2/)|
+|![Johore example sett](/setts/s8/o57w5g20o5lo10~x2/sett.png)|
 

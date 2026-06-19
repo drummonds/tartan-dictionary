@@ -21,14 +21,14 @@ BBRKGR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### T DB R K DG R <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">T DB R K DG R</span></span>
+### R DG K R DB T <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">R DG K R DB T</span></span>
 
 | Tartans |
 |---------------|
 | [Wilson's No.221](/setts/s6/r1dg14k14r2db14t1~x2/)|
 |![Wilson's No.221 example sett](/setts/s6/r1dg14k14r2db14t1~x2/sett.png)|
 
-### T DB R K G R <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">T DB R K G R</span></span>
+### R G K R DB T <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">R G K R DB T</span></span>
 
 | Tartans |
 |---------------|

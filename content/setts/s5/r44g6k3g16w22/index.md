@@ -17,7 +17,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-LN/22 G16 K3 G6 R/44
+R/44 G6 K3 G16 LN/22
 ![Sett](sett.png)
 
 ## Palette
@@ -32,7 +32,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/22 G16 K3 G6 R/44 tartan")
+![Tartan detail](tartan.png "R/44 G6 K3 G16 LN/22 tartan")
 
 ## Nearest tartans
 
@@ -51,8 +51,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db6lo25o16k2db3~x2/"><circle cx="266.8" cy="189.2" r="4" fill="#3465a4"><title>Prince of Orange</title></circle></a><a href="/setts/s6/r6lb3r37k16lb16g4~x2/"><circle cx="267.2" cy="172.2" r="4" fill="#3465a4"><title>Nesbit, Rose</title></circle></a><a href="/setts/s7/k2r4w1r10g12r2w2~x4/"><circle cx="265.1" cy="177.3" r="4" fill="#3465a4"><title>Starr (1978) (Name)</title></circle></a><a href="/setts/s5/db6lo25dy16k2db3~x2/"><circle cx="277.6" cy="200.4" r="4" fill="#3465a4"><title>Prince of Orange #2</title></circle></a><a href="/setts/s6/w6g15db18r30g2r4~x2/"><circle cx="242.1" cy="184.8" r="4" fill="#3465a4"><title>Ruthven (V.S.)</title></circle></a><a href="/setts/s5/k3r28k10w28t3~x2/"><circle cx="183.8" cy="186.1" r="4" fill="#3465a4"><title>Wallace Dress, Red (Dance)</title></circle></a><a href="/setts/s6/r24n4k4g4w13k2~x4/"><circle cx="202.4" cy="151.5" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/setts/s7/t12lo75k22w12k22w16t8/"><circle cx="198.9" cy="172.2" r="4" fill="#3465a4"><title>Orange Fanaticos (Corporate)</title></circle></a><a href="/setts/s5/o3w3k3lo10r1~x6/"><circle cx="212.9" cy="186.3" r="4" fill="#3465a4"><title>Burberry Counterfeit</title></circle></a><a href="/setts/s4/r80k52w7o12/"><circle cx="289.8" cy="205.9" r="4" fill="#3465a4"><title>Oklahoma State University (Corporate</title></circle></a><circle cx="253.8" cy="179.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db6lo25o16k2db3~x2/"><circle cx="266.5" cy="189.1" r="4" fill="#3465a4"><title>Prince of Orange</title></circle></a><a href="/setts/s6/r6lb3r37k16lb16g4~x2/"><circle cx="266.8" cy="172.0" r="4" fill="#3465a4"><title>Nesbit, Rose</title></circle></a><a href="/setts/s7/k2r4w1r10g12r2w2~x4/"><circle cx="264.8" cy="177.1" r="4" fill="#3465a4"><title>Starr (1978) (Name)</title></circle></a><a href="/setts/s5/db6lo25dy16k2db3~x2/"><circle cx="277.3" cy="200.3" r="4" fill="#3465a4"><title>Prince of Orange #2</title></circle></a><a href="/setts/s6/w6g15db18r30g2r4~x2/"><circle cx="241.9" cy="184.8" r="4" fill="#3465a4"><title>Ruthven (V.S.)</title></circle></a><a href="/setts/s5/k3r28k10w28t3~x2/"><circle cx="183.6" cy="185.9" r="4" fill="#3465a4"><title>Wallace Dress, Red (Dance)</title></circle></a><a href="/setts/s6/r24n4k4g4w13k2~x4/"><circle cx="202.2" cy="151.4" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/setts/s7/t12lo75k22w12k22w16t8/"><circle cx="198.6" cy="172.1" r="4" fill="#3465a4"><title>Orange Fanaticos (Corporate)</title></circle></a><a href="/setts/s5/o3w3k3lo10r1~x6/"><circle cx="212.7" cy="186.2" r="4" fill="#3465a4"><title>Burberry Counterfeit</title></circle></a><a href="/setts/s4/r80k52w7o12/"><circle cx="289.6" cy="205.7" r="4" fill="#3465a4"><title>Oklahoma State University (Corporate</title></circle></a><circle cx="253.5" cy="178.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/r44g6k3g16w22/

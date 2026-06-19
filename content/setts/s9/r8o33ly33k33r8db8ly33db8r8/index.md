@@ -2,7 +2,7 @@
 title: "Jardine, of Castlemilk"
 date: 2023-03-18
 ---
-**Bands:** [RBYBRKYRR](/stripes/rbybrkyrr/) · **Stripes:** [R DB LY DB R K LY O R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB LY DB R K LY O R</span></span>
+**Bands:** [RRYKRBYBR](/stripes/rrykrbybr/) · **Stripes:** [R O LY K R DB LY DB R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R O LY K R DB LY DB R</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-R/8 B8 Y33 B8 R8 K33 Y33 LT33 R/8
+R/8 LT33 Y33 K33 R8 B8 Y33 B8 R/8
 ![Sett](sett.png)
 
 ## Palette
@@ -923,8 +926,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r8dy33ly33k33r8db8ly33db8r8/"><circle cx="78.5" cy="195.6" r="4" fill="#3465a4"><title>Jardine of Castlemilk</title></circle></a><a href="/setts/s9/g13ly16w4ly4r4ly4k20ly8r8~x2/"><circle cx="87.4" cy="189.2" r="4" fill="#3465a4"><title>Cawte of Middlebanknock (Personal)</title></circle></a><a href="/setts/s6/r2ly1r5k4g5w1~x4/"><circle cx="113.6" cy="221.7" r="4" fill="#3465a4"><title>Aboyne II (Fashion)</title></circle></a><a href="/setts/s8/g9ly2g9w5r9t2r9t2~x2/"><circle cx="115.0" cy="218.3" r="4" fill="#3465a4"><title>Blackie</title></circle></a><a href="/setts/s9/g6r4g5r13k13w5k13r13ly6~x2/"><circle cx="68.9" cy="230.6" r="4" fill="#3465a4"><title>Akins Red Dress</title></circle></a><a href="/setts/s13/w8r2w2r6w13r2k13dg13r6dg2r2dg4ly3~x2/"><circle cx="61.8" cy="153.1" r="4" fill="#3465a4"><title>Carnegie Dress</title></circle></a><a href="/setts/s7/k16ly16r16g3db7w7k7~x2/"><circle cx="25.5" cy="198.2" r="4" fill="#3465a4"><title>Eusa</title></circle></a><a href="/setts/s13/w8r2w2r6w13r2k13g13r6g2r2g4ly3~x2/"><circle cx="54.9" cy="149.7" r="4" fill="#3465a4"><title>Carnegie Dress #1 (Fashion)</title></circle></a><a href="/setts/s8/lb23k4lb4k4lb4k22o23lo5~x2/"><circle cx="131.1" cy="191.9" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/setts/s13/w9r2w2r6w14r2k14g14r6g2r2g8ly3~x2/"><circle cx="63.6" cy="154.2" r="4" fill="#3465a4"><title>Valley of the Green #2</title></circle></a><circle cx="71.6" cy="192.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r8dy33ly33k33r8db8ly33db8r8/"><circle cx="78.4" cy="195.5" r="4" fill="#3465a4"><title>Jardine of Castlemilk</title></circle></a><a href="/setts/s9/g13ly16w4ly4r4ly4k20ly8r8~x2/"><circle cx="87.2" cy="189.2" r="4" fill="#3465a4"><title>Cawte of Middlebanknock (Personal)</title></circle></a><a href="/setts/s6/r2ly1r5k4g5w1~x4/"><circle cx="113.6" cy="221.6" r="4" fill="#3465a4"><title>Aboyne II (Fashion)</title></circle></a><a href="/setts/s8/g9ly2g9w5r9t2r9t2~x2/"><circle cx="114.9" cy="218.2" r="4" fill="#3465a4"><title>Blackie</title></circle></a><a href="/setts/s9/g6r4g5r13k13w5k13r13ly6~x2/"><circle cx="68.9" cy="230.5" r="4" fill="#3465a4"><title>Akins Red Dress</title></circle></a><a href="/setts/s13/w8r2w2r6w13r2k13dg13r6dg2r2dg4ly3~x2/"><circle cx="61.7" cy="153.1" r="4" fill="#3465a4"><title>Carnegie Dress</title></circle></a><a href="/setts/s7/k16ly16r16g3db7w7k7~x2/"><circle cx="25.6" cy="198.3" r="4" fill="#3465a4"><title>Eusa</title></circle></a><a href="/setts/s13/w8r2w2r6w13r2k13g13r6g2r2g4ly3~x2/"><circle cx="54.7" cy="149.7" r="4" fill="#3465a4"><title>Carnegie Dress #1 (Fashion)</title></circle></a><a href="/setts/s8/lb23k4lb4k4lb4k22o23lo5~x2/"><circle cx="131.0" cy="191.8" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/setts/s13/w9r2w2r6w14r2k14g14r6g2r2g8ly3~x2/"><circle cx="63.5" cy="154.3" r="4" fill="#3465a4"><title>Valley of the Green #2</title></circle></a><circle cx="71.5" cy="192.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r8o33ly33k33r8db8ly33db8r8/

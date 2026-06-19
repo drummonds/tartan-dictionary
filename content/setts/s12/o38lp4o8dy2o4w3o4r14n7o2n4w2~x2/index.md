@@ -10,7 +10,7 @@ This was sourced from house-of-tartan.  It is a [12 band tartan](/bands/bands12/
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1280
 
 ## Thread count
-LN/4 N8 Na4 N14 DR28 Na8 LN6 Na8 T4 Na16 LP8 Na/76
+Na/76 LP8 Na16 T4 Na8 LN6 Na8 DR28 N14 Na4 N8 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -33,17 +33,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Portree, Check](/setts/s12/y38db4y8o2y4w3y4m14n7y2n4w2~x2/) — ΔT 0.58
 1. [Diana, hunting Plaid](/setts/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/) — ΔT 1.05
 1. [Dabney Grey (Personal)](/setts/s11/r2lr2r1lr24o1n3k3lr3o12lr4r1~x2/) — ΔT 1.23
-1. [Unidentified #25](/setts/s12/b4dy2b2w2dy9lo27r4lo27dy9w2b2dy2~x3/) — ΔT 1.42
+1. [Unidentified #25](/setts/s12/r4lo27dy9w2b2dy2b4~x3/) — ΔT 1.42
 1. [Toyokawa Check](/setts/s11/n36dr10lo2dr5g2dr5lo10n5lo2n10w2~x2/) — ΔT 1.43
 1. [Sarna](/setts/s13/g8ly2o4p4g3p4o42g4r3g4o4p5r3/) — ΔT 1.43
 1. [Edinburgh Fire (Corporate)](/setts/s7/ly2dy4r4n21w1n1r1~x4/) — ΔT 1.45
-1. [Canuck Place](/setts/s9/lo1r2lg3o24lg26db3lg15db2w1~x2/) — ΔT 1.46
+1. [Canuck Place](/setts/s9/w1db2lg15db3lg26o24lg3r2lo1~x2/) — ΔT 1.46
 1. [Middleton, City of](/setts/s9/o16w1o1k1o8lo4r2w2r2~x4/) — ΔT 1.47
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/o38db4o8lo2o4w3o4r14n7o2n4w2~x2/"><circle cx="363.4" cy="114.8" r="4" fill="#3465a4"><title>Portree Check</title></circle></a><a href="/setts/s12/y38db4y8o2y4w3y4m14n7y2n4w2~x2/"><circle cx="382.5" cy="126.8" r="4" fill="#3465a4"><title>Portree, Check</title></circle></a><a href="/setts/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/"><circle cx="400.2" cy="102.6" r="4" fill="#3465a4"><title>Diana, hunting Plaid</title></circle></a><a href="/setts/s11/r2lr2r1lr24o1n3k3lr3o12lr4r1~x2/"><circle cx="394.7" cy="130.0" r="4" fill="#3465a4"><title>Dabney Grey (Personal)</title></circle></a><a href="/setts/s12/b4dy2b2w2dy9lo27r4lo27dy9w2b2dy2~x3/"><circle cx="358.8" cy="147.9" r="4" fill="#3465a4"><title>Unidentified #25</title></circle></a><a href="/setts/s11/n36dr10lo2dr5g2dr5lo10n5lo2n10w2~x2/"><circle cx="384.8" cy="157.8" r="4" fill="#3465a4"><title>Toyokawa Check</title></circle></a><a href="/setts/s13/g8ly2o4p4g3p4o42g4r3g4o4p5r3/"><circle cx="380.2" cy="121.8" r="4" fill="#3465a4"><title>Sarna</title></circle></a><a href="/setts/s7/ly2dy4r4n21w1n1r1~x4/"><circle cx="409.0" cy="130.6" r="4" fill="#3465a4"><title>Edinburgh Fire (Corporate)</title></circle></a><a href="/setts/s9/lo1r2lg3o24lg26db3lg15db2w1~x2/"><circle cx="384.4" cy="137.7" r="4" fill="#3465a4"><title>Canuck Place</title></circle></a><a href="/setts/s9/o16w1o1k1o8lo4r2w2r2~x4/"><circle cx="434.8" cy="162.4" r="4" fill="#3465a4"><title>Middleton, City of</title></circle></a><circle cx="370.2" cy="117.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/o38db4o8lo2o4w3o4r14n7o2n4w2~x2/"><circle cx="363.0" cy="114.9" r="4" fill="#3465a4"><title>Portree Check</title></circle></a><a href="/setts/s12/y38db4y8o2y4w3y4m14n7y2n4w2~x2/"><circle cx="382.1" cy="126.9" r="4" fill="#3465a4"><title>Portree, Check</title></circle></a><a href="/setts/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/"><circle cx="399.7" cy="102.7" r="4" fill="#3465a4"><title>Diana, hunting Plaid</title></circle></a><a href="/setts/s11/r2lr2r1lr24o1n3k3lr3o12lr4r1~x2/"><circle cx="394.2" cy="130.0" r="4" fill="#3465a4"><title>Dabney Grey (Personal)</title></circle></a><a href="/setts/s12/r4lo27dy9w2b2dy2b4~x3/"><circle cx="358.3" cy="147.9" r="4" fill="#3465a4"><title>Unidentified #25</title></circle></a><a href="/setts/s11/n36dr10lo2dr5g2dr5lo10n5lo2n10w2~x2/"><circle cx="384.5" cy="157.9" r="4" fill="#3465a4"><title>Toyokawa Check</title></circle></a><a href="/setts/s13/g8ly2o4p4g3p4o42g4r3g4o4p5r3/"><circle cx="379.8" cy="121.9" r="4" fill="#3465a4"><title>Sarna</title></circle></a><a href="/setts/s7/ly2dy4r4n21w1n1r1~x4/"><circle cx="408.6" cy="130.6" r="4" fill="#3465a4"><title>Edinburgh Fire (Corporate)</title></circle></a><a href="/setts/s9/w1db2lg15db3lg26o24lg3r2lo1~x2/"><circle cx="384.0" cy="137.7" r="4" fill="#3465a4"><title>Canuck Place</title></circle></a><a href="/setts/s9/o16w1o1k1o8lo4r2w2r2~x4/"><circle cx="434.3" cy="162.4" r="4" fill="#3465a4"><title>Middleton, City of</title></circle></a><circle cx="369.8" cy="117.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/o38lp4o8dy2o4w3o4r14n7o2n4w2~x2/

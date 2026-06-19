@@ -2,12 +2,18 @@
 title: "Chinese Scottish (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBGRGRY](/stripes/bwbwbgrgry/) · **Stripes:** [DB W DB W DB G R G R LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB W DB W DB G R G R LY</span></span>
+**Bands:** [YRGRGBWBWB](/stripes/yrgrgbwbwb/) · **Stripes:** [LY R G R G DB W DB W DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">LY R G R G DB W DB W DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6807/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Chinese
 
 ## Attestations
 
@@ -37,19 +43,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Russian Scottish (District)](/setts/s9/w2db2w1db40r3ly1r10g10r1~x2/) — ΔT 0.71
 1. [Russian Scottish](/setts/s9/w3b2w2b40r3ly1r10g10r1~x2/) — ΔT 1.02
-1. [ESPRAS (Corporate)](/setts/s13/lo2m10w1m3w1m3w1m3db2r1db36w1r2~x2/) — ΔT 1.19
+1. [ESPRAS (Corporate)](/setts/s13/r2w1db36r1db2m3w1m3w1m3w1m10lo2~x2/) — ΔT 1.19
 1. [St. Andrew's Soc. of Singapore (Corp](/setts/s14/w2db40lb1db2r4db1g1db1r8w1r2w1r2w2~x2/) — ΔT 1.22
 1. [Suffolk County Police (Corporate)](/setts/s11/db74r6k12ly3k3w3r16db8k3r4w3~x2/) — ΔT 1.22
 1. [Union Memorial Tartan](/setts/s10/t12t4r4t4ly2db56r18lb1db4db3~x2/) — ΔT 1.29
 1. [McBrayer Blue (Personal)](/setts/s8/db57k1r12db1g12r14db1r2~x2/) — ΔT 1.34
 1. [Nance (2002)](/setts/s11/dp52y14o2g3dp2g3y6lb6g2lb6dp2~x2/) — ΔT 1.38
 1. [Wcwm 9275-1510-5](/setts/s10/dp60lo2dp10k9lb2k2b2k2y28lo3~x2/) — ΔT 1.45
-1. [St. Andrew Quebec City (Corporate)](/setts/s8/ly2db40g10lo1g5r5w1r2~x2/) — ΔT 1.46
+1. [St. Andrew Quebec City (Corporate)](/setts/s8/r2w1r5g5lo1g10db40ly2~x2/) — ΔT 1.46
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w2db2w1db40r3ly1r10g10r1~x2/"><circle cx="387.0" cy="89.2" r="4" fill="#3465a4"><title>Russian Scottish (District)</title></circle></a><a href="/setts/s9/w3b2w2b40r3ly1r10g10r1~x2/"><circle cx="364.3" cy="85.8" r="4" fill="#3465a4"><title>Russian Scottish</title></circle></a><a href="/setts/s13/lo2m10w1m3w1m3w1m3db2r1db36w1r2~x2/"><circle cx="385.8" cy="64.1" r="4" fill="#3465a4"><title>ESPRAS (Corporate)</title></circle></a><a href="/setts/s14/w2db40lb1db2r4db1g1db1r8w1r2w1r2w2~x2/"><circle cx="420.8" cy="44.6" r="4" fill="#3465a4"><title>St. Andrew's Soc. of Singapore (Corp</title></circle></a><a href="/setts/s11/db74r6k12ly3k3w3r16db8k3r4w3~x2/"><circle cx="371.7" cy="92.6" r="4" fill="#3465a4"><title>Suffolk County Police (Corporate)</title></circle></a><a href="/setts/s10/t12t4r4t4ly2db56r18lb1db4db3~x2/"><circle cx="383.2" cy="83.9" r="4" fill="#3465a4"><title>Union Memorial Tartan</title></circle></a><a href="/setts/s8/db57k1r12db1g12r14db1r2~x2/"><circle cx="433.5" cy="115.3" r="4" fill="#3465a4"><title>McBrayer Blue (Personal)</title></circle></a><a href="/setts/s11/dp52y14o2g3dp2g3y6lb6g2lb6dp2~x2/"><circle cx="359.8" cy="90.1" r="4" fill="#3465a4"><title>Nance (2002)</title></circle></a><a href="/setts/s10/dp60lo2dp10k9lb2k2b2k2y28lo3~x2/"><circle cx="354.0" cy="77.1" r="4" fill="#3465a4"><title>Wcwm 9275-1510-5</title></circle></a><a href="/setts/s8/ly2db40g10lo1g5r5w1r2~x2/"><circle cx="381.5" cy="89.1" r="4" fill="#3465a4"><title>St. Andrew Quebec City (Corporate)</title></circle></a><circle cx="400.5" cy="69.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w2db2w1db40r3ly1r10g10r1~x2/"><circle cx="386.7" cy="89.1" r="4" fill="#3465a4"><title>Russian Scottish (District)</title></circle></a><a href="/setts/s9/w3b2w2b40r3ly1r10g10r1~x2/"><circle cx="364.1" cy="85.7" r="4" fill="#3465a4"><title>Russian Scottish</title></circle></a><a href="/setts/s13/r2w1db36r1db2m3w1m3w1m3w1m10lo2~x2/"><circle cx="385.5" cy="64.1" r="4" fill="#3465a4"><title>ESPRAS (Corporate)</title></circle></a><a href="/setts/s14/w2db40lb1db2r4db1g1db1r8w1r2w1r2w2~x2/"><circle cx="420.5" cy="44.4" r="4" fill="#3465a4"><title>St. Andrew's Soc. of Singapore (Corp</title></circle></a><a href="/setts/s11/db74r6k12ly3k3w3r16db8k3r4w3~x2/"><circle cx="371.5" cy="92.5" r="4" fill="#3465a4"><title>Suffolk County Police (Corporate)</title></circle></a><a href="/setts/s10/t12t4r4t4ly2db56r18lb1db4db3~x2/"><circle cx="383.1" cy="83.8" r="4" fill="#3465a4"><title>Union Memorial Tartan</title></circle></a><a href="/setts/s8/db57k1r12db1g12r14db1r2~x2/"><circle cx="433.3" cy="115.1" r="4" fill="#3465a4"><title>McBrayer Blue (Personal)</title></circle></a><a href="/setts/s11/dp52y14o2g3dp2g3y6lb6g2lb6dp2~x2/"><circle cx="359.5" cy="90.0" r="4" fill="#3465a4"><title>Nance (2002)</title></circle></a><a href="/setts/s10/dp60lo2dp10k9lb2k2b2k2y28lo3~x2/"><circle cx="353.7" cy="77.1" r="4" fill="#3465a4"><title>Wcwm 9275-1510-5</title></circle></a><a href="/setts/s8/r2w1r5g5lo1g10db40ly2~x2/"><circle cx="381.3" cy="89.0" r="4" fill="#3465a4"><title>St. Andrew Quebec City (Corporate)</title></circle></a><circle cx="400.2" cy="69.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db58w2db1w1db6g3r3g6r24ly3~x2/

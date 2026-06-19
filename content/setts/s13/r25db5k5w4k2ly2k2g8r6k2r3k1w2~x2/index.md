@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7033
 
 ## Thread count
-LN/4 K2 LR6 K4 R12 G16 K4 Y4 K4 LN8 K10 DB10 LR/50
+LR/50 DB10 K10 LN8 K4 Y4 K4 G16 R12 K4 LR6 K2 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -45,7 +45,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Elmore (Personal)](/setts/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3ly5w5k4~x2/) — ΔT 0.83
-1. [MacLean of Duart](/setts/s12/y9t5k8ly2k4w4k4dg31r50t4r4k3~x2/) — ΔT 1.02
+1. [MacLean of Duart](/setts/s12/y9t5k8ly2k4w4k4dg31r50t4r4k3~x2/) — ΔT 1.03
 1. [MacLean (rare)](/setts/s12/do9t5k8ly2k4w4k4dg28r44t4r5k3~x2/) — ΔT 1.10
 1. [Puccini (Fashion)](/setts/s16/r6lb1r1k15r1lb2k1lo5lb25r5k1r5k1lb5k1r5~x2/) — ΔT 1.12
 1. [MacLean of Duart 6](/setts/s12/y9t5k8ly2k4w4k4g31r50t4r4k3~x2/) — ΔT 1.15
@@ -57,8 +57,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3ly5w5k4~x2/"><circle cx="185.3" cy="28.7" r="4" fill="#3465a4"><title>Elmore (Personal)</title></circle></a><a href="/setts/s12/y9t5k8ly2k4w4k4dg31r50t4r4k3~x2/"><circle cx="200.9" cy="53.4" r="4" fill="#3465a4"><title>MacLean of Duart</title></circle></a><a href="/setts/s12/do9t5k8ly2k4w4k4dg28r44t4r5k3~x2/"><circle cx="183.2" cy="63.8" r="4" fill="#3465a4"><title>MacLean (rare)</title></circle></a><a href="/setts/s16/r6lb1r1k15r1lb2k1lo5lb25r5k1r5k1lb5k1r5~x2/"><circle cx="173.7" cy="41.6" r="4" fill="#3465a4"><title>Puccini (Fashion)</title></circle></a><a href="/setts/s12/y9t5k8ly2k4w4k4g31r50t4r4k3~x2/"><circle cx="185.1" cy="49.1" r="4" fill="#3465a4"><title>MacLean of Duart 6</title></circle></a><a href="/setts/s11/t8k4ly1k2w3k2dg12r24t2r3k2~x2/"><circle cx="206.3" cy="79.9" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/setts/s14/r42r2k15r2dg22ly4w2dp2w2ly4t7w2dp6w6~x2/"><circle cx="112.8" cy="27.4" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/setts/s14/r42r2k15r2g22ly4w2dp2w2ly4t7w2dp6w6~x2/"><circle cx="110.2" cy="26.5" r="4" fill="#3465a4"><title>Dundee (1819) (District)</title></circle></a><a href="/setts/s12/do9t5k8ly2k4w4k4g28r44t4r5k3~x2/"><circle cx="166.7" cy="59.1" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s17/lb24lg2lb4p2lg2lb4p4lg5g5ly3r7dp2r2dp3r1dp23lb4~x2/"><circle cx="137.6" cy="38.8" r="4" fill="#3465a4"><title>Scotland's Grace</title></circle></a><circle cx="162.4" cy="46.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3ly5w5k4~x2/"><circle cx="185.0" cy="28.8" r="4" fill="#3465a4"><title>Elmore (Personal)</title></circle></a><a href="/setts/s12/y9t5k8ly2k4w4k4dg31r50t4r4k3~x2/"><circle cx="200.7" cy="53.5" r="4" fill="#3465a4"><title>MacLean of Duart</title></circle></a><a href="/setts/s12/do9t5k8ly2k4w4k4dg28r44t4r5k3~x2/"><circle cx="183.0" cy="64.0" r="4" fill="#3465a4"><title>MacLean (rare)</title></circle></a><a href="/setts/s16/r6lb1r1k15r1lb2k1lo5lb25r5k1r5k1lb5k1r5~x2/"><circle cx="173.3" cy="41.6" r="4" fill="#3465a4"><title>Puccini (Fashion)</title></circle></a><a href="/setts/s12/y9t5k8ly2k4w4k4g31r50t4r4k3~x2/"><circle cx="184.9" cy="49.2" r="4" fill="#3465a4"><title>MacLean of Duart 6</title></circle></a><a href="/setts/s11/t8k4ly1k2w3k2dg12r24t2r3k2~x2/"><circle cx="206.0" cy="80.0" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/setts/s14/r42r2k15r2dg22ly4w2dp2w2ly4t7w2dp6w6~x2/"><circle cx="112.5" cy="27.7" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/setts/s14/r42r2k15r2g22ly4w2dp2w2ly4t7w2dp6w6~x2/"><circle cx="110.0" cy="26.7" r="4" fill="#3465a4"><title>Dundee (1819) (District)</title></circle></a><a href="/setts/s12/do9t5k8ly2k4w4k4g28r44t4r5k3~x2/"><circle cx="166.6" cy="59.2" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s17/lb24lg2lb4p2lg2lb4p4lg5g5ly3r7dp2r2dp3r1dp23lb4~x2/"><circle cx="137.4" cy="39.0" r="4" fill="#3465a4"><title>Scotland's Grace</title></circle></a><circle cx="162.1" cy="46.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r25db5k5w4k2ly2k2g8r6k2r3k1w2~x2/

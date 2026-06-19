@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=222
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Baron of Greencastle Dress #2
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -45,7 +51,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Westmeath County Crest (Fashion)](/setts/s16/r4k1db8k1lo3k2db4lo6db4w3k2db20k4r21k1lo3~x2/) — ΔT 0.66
-1. [Kormylo (Personal)](/setts/s12/ly2r9db3dg12r2db40r2dg20db2r18db2w2~x2/) — ΔT 0.81
+1. [Kormylo (Personal)](/setts/s12/w2db2r18db2dg20r2db40r2dg12db3r9ly2~x2/) — ΔT 0.81
 1. [Brooks Brothers (Corporate)](/setts/s11/o48k10db12k2o3k2db12k10o10k2ly3~x2/) — ΔT 0.87
 1. [Strathdon](/setts/s15/w3lo8dp2lo8dp11dp2lo4o4dp27dp1dp2dp2dp2dp13dp2~x2/) — ΔT 0.87
 1. [Porsche Bank Austria](/setts/s11/db49k2g2k2g2k10r38db5r4k4lr10~x2/) — ΔT 0.89
@@ -57,8 +63,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/r4k1db8k1lo3k2db4lo6db4w3k2db20k4r21k1lo3~x2/"><circle cx="224.1" cy="106.0" r="4" fill="#3465a4"><title>Westmeath County Crest (Fashion)</title></circle></a><a href="/setts/s12/ly2r9db3dg12r2db40r2dg20db2r18db2w2~x2/"><circle cx="249.4" cy="120.1" r="4" fill="#3465a4"><title>Kormylo (Personal)</title></circle></a><a href="/setts/s11/o48k10db12k2o3k2db12k10o10k2ly3~x2/"><circle cx="259.5" cy="112.3" r="4" fill="#3465a4"><title>Brooks Brothers (Corporate)</title></circle></a><a href="/setts/s15/w3lo8dp2lo8dp11dp2lo4o4dp27dp1dp2dp2dp2dp13dp2~x2/"><circle cx="245.1" cy="98.9" r="4" fill="#3465a4"><title>Strathdon</title></circle></a><a href="/setts/s11/db49k2g2k2g2k10r38db5r4k4lr10~x2/"><circle cx="256.9" cy="95.0" r="4" fill="#3465a4"><title>Porsche Bank Austria</title></circle></a><a href="/setts/s15/r22k3lo1k1w3k3db1k3db8k19lo4k2lo1k7lo3~x2/"><circle cx="247.3" cy="99.1" r="4" fill="#3465a4"><title>Ruxton</title></circle></a><a href="/setts/s14/k5r1w2r1k26r3lo1dt10w1r3w1dt10w1r3~x2/"><circle cx="271.5" cy="90.6" r="4" fill="#3465a4"><title>El Dorado Hills Firefighters Pipes and Drums</title></circle></a><a href="/setts/s10/k5k5k2r47k18w2k5dg9k7w3~x2/"><circle cx="278.7" cy="115.3" r="4" fill="#3465a4"><title>Rikaco Holiday</title></circle></a><a href="/setts/s14/k5r1w2r1k26r3lo1n10w1r3w1n10w1r3~x2/"><circle cx="255.0" cy="81.2" r="4" fill="#3465a4"><title>El Dorado Hills P &amp; D (Corporate)</title></circle></a><a href="/setts/s12/r4k4r28dp4g4k10g4dp4g4dp8k1w3~x2/"><circle cx="247.3" cy="112.8" r="4" fill="#3465a4"><title>Kelly of Sleat (Name)</title></circle></a><circle cx="231.4" cy="98.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/r4k1db8k1lo3k2db4lo6db4w3k2db20k4r21k1lo3~x2/"><circle cx="224.0" cy="106.1" r="4" fill="#3465a4"><title>Westmeath County Crest (Fashion)</title></circle></a><a href="/setts/s12/w2db2r18db2dg20r2db40r2dg12db3r9ly2~x2/"><circle cx="249.3" cy="120.2" r="4" fill="#3465a4"><title>Kormylo (Personal)</title></circle></a><a href="/setts/s11/o48k10db12k2o3k2db12k10o10k2ly3~x2/"><circle cx="259.4" cy="112.4" r="4" fill="#3465a4"><title>Brooks Brothers (Corporate)</title></circle></a><a href="/setts/s15/w3lo8dp2lo8dp11dp2lo4o4dp27dp1dp2dp2dp2dp13dp2~x2/"><circle cx="244.9" cy="99.0" r="4" fill="#3465a4"><title>Strathdon</title></circle></a><a href="/setts/s11/db49k2g2k2g2k10r38db5r4k4lr10~x2/"><circle cx="256.8" cy="95.1" r="4" fill="#3465a4"><title>Porsche Bank Austria</title></circle></a><a href="/setts/s15/r22k3lo1k1w3k3db1k3db8k19lo4k2lo1k7lo3~x2/"><circle cx="247.2" cy="99.1" r="4" fill="#3465a4"><title>Ruxton</title></circle></a><a href="/setts/s14/k5r1w2r1k26r3lo1dt10w1r3w1dt10w1r3~x2/"><circle cx="271.4" cy="90.6" r="4" fill="#3465a4"><title>El Dorado Hills Firefighters Pipes and Drums</title></circle></a><a href="/setts/s10/k5k5k2r47k18w2k5dg9k7w3~x2/"><circle cx="278.6" cy="115.4" r="4" fill="#3465a4"><title>Rikaco Holiday</title></circle></a><a href="/setts/s14/k5r1w2r1k26r3lo1n10w1r3w1n10w1r3~x2/"><circle cx="254.8" cy="81.2" r="4" fill="#3465a4"><title>El Dorado Hills P &amp; D (Corporate)</title></circle></a><a href="/setts/s12/r4k4r28dp4g4k10g4dp4g4dp8k1w3~x2/"><circle cx="247.2" cy="112.9" r="4" fill="#3465a4"><title>Kelly of Sleat (Name)</title></circle></a><circle cx="231.3" cy="98.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r4k2r24ly2k12db3k2db2k2db12w1db1w3~x2/

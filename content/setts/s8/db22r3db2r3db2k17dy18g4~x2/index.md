@@ -2,7 +2,7 @@
 title: "Scotch House 2000 Antique"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBKGG](/stripes/brbrbkgg/) · **Stripes:** [DB R DB R DB K DY G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB R DB R DB K DY G</span></span>
+**Bands:** [GGKBRBRB](/stripes/ggkbrbrb/) · **Stripes:** [G DY K DB R DB R DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G DY K DB R DB R DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -50,18 +50,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Bootneck 350](/setts/s8/k6r4k19dg4db25r5dg3ly2~x2/) — ΔT 0.88
 1. [Dunbartonshire](/setts/s9/g11k2g1r4db1r4db13t2db1~x4/) — ΔT 0.91
 1. [Land's End (Unnamed Maroon)](/setts/s9/k23y2m3db7m3y2dg15m21y5~x2/) — ΔT 0.92
-1. [Antique 2000](/setts/s8/dt10r1dt1r1dt1k6y9b2~x2/) — ΔT 0.93
+1. [Antique 2000](/setts/s8/dt10r1dt1r1dt1k6y9b2~x2/) — ΔT 0.94
 1. [Damm, Alexander (Personal)](/setts/s9/db11k1db1k1db1k7dg8r1t7~x4/) — ΔT 0.95
 1. [Land's End Maroon](/setts/s9/dt23lo2r3db7r3lo2g15r21lo5~x2/) — ΔT 0.99
-1. [Scotch House 2000 Original](/setts/s8/db22r3db2r3db2k17g18lo4~x2/) — ΔT 1.00
-1. [Brady 60th, Keith James (Personal)](/setts/s10/lo1db9k1n1k1n1k3n7o1n1~x4/) — ΔT 1.08
+1. [Scotch House 2000 Original](/setts/s8/db22r3db2r3db2k17g18lo4~x2/) — ΔT 0.99
+1. [Brady 60th, Keith James (Personal)](/setts/s10/n1o1n7k3n1k1n1k1db9lo1~x4/) — ΔT 1.08
 1. [Skene](/setts/s7/db24k4r3k4dg24k4r4~x2/) — ΔT 1.08
 1. [Holland & Sherry (Corporate)](/setts/s9/dt20b3dt4r3dt3k10g21k4r20~x2/) — ΔT 1.11
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k6r4k19dg4db25r5dg3ly2~x2/"><circle cx="220.6" cy="187.6" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/setts/s9/g11k2g1r4db1r4db13t2db1~x4/"><circle cx="228.4" cy="177.5" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/setts/s9/k23y2m3db7m3y2dg15m21y5~x2/"><circle cx="171.1" cy="179.2" r="4" fill="#3465a4"><title>Land's End (Unnamed Maroon)</title></circle></a><a href="/setts/s8/dt10r1dt1r1dt1k6y9b2~x2/"><circle cx="204.1" cy="189.3" r="4" fill="#3465a4"><title>Antique 2000</title></circle></a><a href="/setts/s9/db11k1db1k1db1k7dg8r1t7~x4/"><circle cx="197.1" cy="199.9" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/setts/s9/dt23lo2r3db7r3lo2g15r21lo5~x2/"><circle cx="186.0" cy="183.3" r="4" fill="#3465a4"><title>Land's End Maroon</title></circle></a><a href="/setts/s8/db22r3db2r3db2k17g18lo4~x2/"><circle cx="188.2" cy="189.2" r="4" fill="#3465a4"><title>Scotch House 2000 Original</title></circle></a><a href="/setts/s10/lo1db9k1n1k1n1k3n7o1n1~x4/"><circle cx="222.6" cy="180.0" r="4" fill="#3465a4"><title>Brady 60th, Keith James (Personal)</title></circle></a><a href="/setts/s7/db24k4r3k4dg24k4r4~x2/"><circle cx="200.8" cy="207.7" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/setts/s9/dt20b3dt4r3dt3k10g21k4r20~x2/"><circle cx="157.1" cy="217.6" r="4" fill="#3465a4"><title>Holland &amp; Sherry (Corporate)</title></circle></a><circle cx="213.1" cy="197.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k6r4k19dg4db25r5dg3ly2~x2/"><circle cx="220.7" cy="187.8" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/setts/s9/g11k2g1r4db1r4db13t2db1~x4/"><circle cx="228.4" cy="177.6" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/setts/s9/k23y2m3db7m3y2dg15m21y5~x2/"><circle cx="171.3" cy="179.4" r="4" fill="#3465a4"><title>Land's End (Unnamed Maroon)</title></circle></a><a href="/setts/s8/dt10r1dt1r1dt1k6y9b2~x2/"><circle cx="204.1" cy="189.4" r="4" fill="#3465a4"><title>Antique 2000</title></circle></a><a href="/setts/s9/db11k1db1k1db1k7dg8r1t7~x4/"><circle cx="197.2" cy="200.1" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/setts/s9/dt23lo2r3db7r3lo2g15r21lo5~x2/"><circle cx="186.0" cy="183.4" r="4" fill="#3465a4"><title>Land's End Maroon</title></circle></a><a href="/setts/s8/db22r3db2r3db2k17g18lo4~x2/"><circle cx="188.4" cy="189.3" r="4" fill="#3465a4"><title>Scotch House 2000 Original</title></circle></a><a href="/setts/s10/n1o1n7k3n1k1n1k1db9lo1~x4/"><circle cx="222.6" cy="180.1" r="4" fill="#3465a4"><title>Brady 60th, Keith James (Personal)</title></circle></a><a href="/setts/s7/db24k4r3k4dg24k4r4~x2/"><circle cx="200.9" cy="207.8" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/setts/s9/dt20b3dt4r3dt3k10g21k4r20~x2/"><circle cx="157.2" cy="217.8" r="4" fill="#3465a4"><title>Holland &amp; Sherry (Corporate)</title></circle></a><circle cx="213.2" cy="197.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db22r3db2r3db2k17dy18g4~x2/

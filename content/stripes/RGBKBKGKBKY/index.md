@@ -22,6 +22,6 @@ RGBKBKGKBKY
 
 | Tartans |
 |---------------|
-| [Nairn (Edinburgh Woollen Mill)](/setts/s11/lo2k10b2k10g10k5b2k5db10g10r2~x2/)|
-|![Nairn (Edinburgh Woollen Mill) example sett](/setts/s11/lo2k10b2k10g10k5b2k5db10g10r2~x2/sett.png)|
+| [Nairn (Edinburgh Woollen Mill)](/setts/s11/r2g10db10k5b2k5g10k10b2k10lo2~x2/)|
+|![Nairn (Edinburgh Woollen Mill) example sett](/setts/s11/r2g10db10k5b2k5g10k10b2k10lo2~x2/sett.png)|
 

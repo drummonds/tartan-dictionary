@@ -2,12 +2,20 @@
 title: "Fife, Duke Of"
 date: 2023-03-18
 ---
-**Bands:** [GKGKRK](/stripes/gkgkrk/) · **Stripes:** [DG K DG K R K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">DG K DG K R K</span></span>
+**Bands:** [KRKGKG](/stripes/krkgkg/) · **Stripes:** [K R K DG K DG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K R K DG K DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1182
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Fife Duke of..
+- Fife, Duke Of
+- Fife, Duke of..
 
 ## Attestations
 
@@ -52,14 +60,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Royal and Ancient, The](/setts/s6/g49db16o3db2o2db6~x2/) — ΔT 1.60
 1. [Duchess of Fife #2](/setts/s6/g70k26g12k14db3k16~x2/) — ΔT 1.61
 1. [St Andrews Old Course Hotel Corporate Tartan Tartan Number: 2332. Earliest known date: 1994 St Andrews Old Course Hotel, Golf Resort, and SPA See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/g50db20k3db2dy2db5~x2/) — ΔT 1.70
-1. [Skene or Tribe of Mar](/setts/s5/ly1k2dg16k2r1~x2/) — ΔT 1.81
+1. [Skene or Tribe of Mar](/setts/s5/r1k2dg16k2ly1~x2/) — ΔT 1.81
 1. [Glen Trool (Fashion)](/setts/s5/dg42o10dg3r10o3~x2/) — ΔT 1.83
 1. [McCall, F.W. (Personal)](/setts/s9/dg6dy2m1dg15m3dy1dg15g6m1~x2/) — ΔT 1.90
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/g44db9r2db9g2~x2/"><circle cx="513.2" cy="221.4" r="4" fill="#3465a4"><title>Tyrconnell (Personal)</title></circle></a><a href="/setts/s6/g49db16dy3db2dy2db6~x2/"><circle cx="485.4" cy="209.7" r="4" fill="#3465a4"><title>Royal and Ancient, The</title></circle></a><a href="/setts/s8/g16dg1y4dg41y1dg6g2dg2~x2/"><circle cx="513.0" cy="158.1" r="4" fill="#3465a4"><title>Semper</title></circle></a><a href="/setts/s8/g16dg1lg4dg41lg1dg6g2dg2~x2/"><circle cx="503.9" cy="153.3" r="4" fill="#3465a4"><title>Semper</title></circle></a><a href="/setts/s6/g49db16o3db2o2db6~x2/"><circle cx="471.0" cy="201.8" r="4" fill="#3465a4"><title>Royal and Ancient, The</title></circle></a><a href="/setts/s6/g70k26g12k14db3k16~x2/"><circle cx="420.1" cy="221.8" r="4" fill="#3465a4"><title>Duchess of Fife #2</title></circle></a><a href="/setts/s6/g50db20k3db2dy2db5~x2/"><circle cx="447.5" cy="189.1" r="4" fill="#3465a4"><title>St Andrews Old Course Hotel Corporate Tartan Tartan Number: 2332. Earliest known date: 1994 St Andrews Old Course Hotel, Golf Resort, and SPA See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/ly1k2dg16k2r1~x2/"><circle cx="489.7" cy="201.5" r="4" fill="#3465a4"><title>Skene or Tribe of Mar</title></circle></a><a href="/setts/s5/dg42o10dg3r10o3~x2/"><circle cx="467.5" cy="240.7" r="4" fill="#3465a4"><title>Glen Trool (Fashion)</title></circle></a><a href="/setts/s9/dg6dy2m1dg15m3dy1dg15g6m1~x2/"><circle cx="476.4" cy="217.8" r="4" fill="#3465a4"><title>McCall, F.W. (Personal)</title></circle></a><circle cx="530.6" cy="209.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/g44db9r2db9g2~x2/"><circle cx="512.9" cy="221.1" r="4" fill="#3465a4"><title>Tyrconnell (Personal)</title></circle></a><a href="/setts/s6/g49db16dy3db2dy2db6~x2/"><circle cx="485.2" cy="209.5" r="4" fill="#3465a4"><title>Royal and Ancient, The</title></circle></a><a href="/setts/s8/g16dg1y4dg41y1dg6g2dg2~x2/"><circle cx="512.8" cy="157.9" r="4" fill="#3465a4"><title>Semper</title></circle></a><a href="/setts/s8/g16dg1lg4dg41lg1dg6g2dg2~x2/"><circle cx="503.7" cy="153.1" r="4" fill="#3465a4"><title>Semper</title></circle></a><a href="/setts/s6/g49db16o3db2o2db6~x2/"><circle cx="470.7" cy="201.6" r="4" fill="#3465a4"><title>Royal and Ancient, The</title></circle></a><a href="/setts/s6/g70k26g12k14db3k16~x2/"><circle cx="420.0" cy="221.6" r="4" fill="#3465a4"><title>Duchess of Fife #2</title></circle></a><a href="/setts/s6/g50db20k3db2dy2db5~x2/"><circle cx="447.4" cy="189.0" r="4" fill="#3465a4"><title>St Andrews Old Course Hotel Corporate Tartan Tartan Number: 2332. Earliest known date: 1994 St Andrews Old Course Hotel, Golf Resort, and SPA See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/r1k2dg16k2ly1~x2/"><circle cx="489.5" cy="201.3" r="4" fill="#3465a4"><title>Skene or Tribe of Mar</title></circle></a><a href="/setts/s5/dg42o10dg3r10o3~x2/"><circle cx="467.3" cy="240.5" r="4" fill="#3465a4"><title>Glen Trool (Fashion)</title></circle></a><a href="/setts/s9/dg6dy2m1dg15m3dy1dg15g6m1~x2/"><circle cx="476.3" cy="217.6" r="4" fill="#3465a4"><title>McCall, F.W. (Personal)</title></circle></a><circle cx="530.4" cy="208.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/dg32k6dg4k8r1k2~x4/

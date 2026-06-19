@@ -8,5 +8,5 @@ A family of [Clan Smith](/clan/smith/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s11/lo2k1g7k6n7db2n7k6g7k1r2~x4/"><img src="/setts/s11/lo2k1g7k6n7db2n7k6g7k1r2~x4/sett.png" alt="Smith of Pennilands (Clan)" width="240"><br>Smith of Pennilands (Clan)</a>
+<a class="tartan" href="/setts/s11/r2k1g7k6n7db2n7k6g7k1lo2~x4/"><img src="/setts/s11/r2k1g7k6n7db2n7k6g7k1lo2~x4/sett.png" alt="Smith of Pennilands (Clan)" width="240"><br>Smith of Pennilands (Clan)</a>
 

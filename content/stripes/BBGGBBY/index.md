@@ -21,14 +21,14 @@ BBGGBBY
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB DB DG DG DB DB LY <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB DB DG DG DB DB LY</span></span>
+### LY DB DB DG DG DB DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB DB DG DG DB DB</span></span>
 
 | Tartans |
 |---------------|
 | [Unidentified Waistcoat](/setts/s7/db4db4dg16dg16db4db4ly1~x4/)|
 |![Unidentified Waistcoat example sett](/setts/s7/db4db4dg16dg16db4db4ly1~x4/sett.png)|
 
-### DB DB DG G DB DB LY <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB DB DG G DB DB LY</span></span>
+### LY DB DB G DG DB DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB DB G DG DB DB</span></span>
 
 | Tartans |
 |---------------|

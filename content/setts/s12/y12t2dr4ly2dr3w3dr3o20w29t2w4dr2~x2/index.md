@@ -2,7 +2,7 @@
 title: "MacLean of Duart 7"
 date: 2023-03-18
 ---
-**Bands:** [BWBWRBWBYBBG](/stripes/bwbwrbwbybbg/) · **Stripes:** [DR W T W O DR W DR LY DR T Y](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DR W T W O DR W DR LY DR T Y</span></span>
+**Bands:** [GBBYBWBRWBWB](/stripes/gbbybwbrwbwb/) · **Stripes:** [Y T DR LY DR W DR O W T W DR](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="seq">Y T DR LY DR W DR O W T W DR</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DR/4 LN8 B4 LN58 LT40 DR6 LN6 DR6 Y4 DR8 B4 N/24
+N/24 B4 DR8 Y4 DR6 LN6 DR6 LT40 LN58 B4 LN8 DR/4
 ![Sett](sett.png)
 
 ## Palette
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/y12t2dy4ly2dy3w3dy3o20w29t2w4dy2~x2/"><circle cx="169.5" cy="87.6" r="4" fill="#3465a4"><title>MacLean of Duart (Reproduction Colours)</title></circle></a><a href="/setts/s12/y10lb2dr4ly2dr3w3dr3o18w30n2w4dr2~x2/"><circle cx="163.8" cy="66.6" r="4" fill="#3465a4"><title>MacLean of Duart, dress</title></circle></a><a href="/setts/s12/r5w2b2w2ly5w2lb2w2k7b14lb30w4~x2/"><circle cx="159.9" cy="80.3" r="4" fill="#3465a4"><title>St. Andrews Management School</title></circle></a><a href="/setts/s13/lp2w1lp12t6k3w1g1w1g4w2k1w1r1~x4/"><circle cx="131.7" cy="95.0" r="4" fill="#3465a4"><title>Diana Pink (Commemorative)</title></circle></a><a href="/setts/s12/y10lb2dy4ly2dy3w3dy3o18w30n2w4dy2~x2/"><circle cx="166.3" cy="67.9" r="4" fill="#3465a4"><title>MacLean of Duart Dress #4</title></circle></a><a href="/setts/s14/t14lr2lo2lr2t25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="167.9" cy="91.4" r="4" fill="#3465a4"><title>Letang Family (Neuilly sur Seine, France) (Personal)</title></circle></a><a href="/setts/s16/g10w4r4r4g2r4r4w4g10w4t4w2t4w23k2r2~x2/"><circle cx="134.9" cy="97.4" r="4" fill="#3465a4"><title>MacBean Dress</title></circle></a><a href="/setts/s16/g10w4r4m4g2m4r4w4g10w4t4w2t4w23k2r2~x2/"><circle cx="132.0" cy="97.0" r="4" fill="#3465a4"><title>MacBean dress</title></circle></a><a href="/setts/s10/lb38dt18lb4ly3g10lo3g4lb3lo17r4~x2/"><circle cx="177.1" cy="122.3" r="4" fill="#3465a4"><title>State Seal of Delaware (Fashion)</title></circle></a><a href="/setts/s12/t12db2k4ly2k3m3k3m19w31db2w4k2~x2/"><circle cx="153.7" cy="75.1" r="4" fill="#3465a4"><title>MacLean of Duart Dress #5</title></circle></a><circle cx="167.2" cy="86.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/y12t2dy4ly2dy3w3dy3o20w29t2w4dy2~x2/"><circle cx="169.2" cy="87.6" r="4" fill="#3465a4"><title>MacLean of Duart (Reproduction Colours)</title></circle></a><a href="/setts/s12/y10lb2dr4ly2dr3w3dr3o18w30n2w4dr2~x2/"><circle cx="163.4" cy="66.7" r="4" fill="#3465a4"><title>MacLean of Duart, dress</title></circle></a><a href="/setts/s12/r5w2b2w2ly5w2lb2w2k7b14lb30w4~x2/"><circle cx="159.5" cy="80.3" r="4" fill="#3465a4"><title>St. Andrews Management School</title></circle></a><a href="/setts/s13/lp2w1lp12t6k3w1g1w1g4w2k1w1r1~x4/"><circle cx="131.4" cy="95.0" r="4" fill="#3465a4"><title>Diana Pink (Commemorative)</title></circle></a><a href="/setts/s12/y10lb2dy4ly2dy3w3dy3o18w30n2w4dy2~x2/"><circle cx="165.9" cy="68.0" r="4" fill="#3465a4"><title>MacLean of Duart Dress #4</title></circle></a><a href="/setts/s14/t14lr2lo2lr2t25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="167.6" cy="91.5" r="4" fill="#3465a4"><title>Letang Family (Neuilly sur Seine, France) (Personal)</title></circle></a><a href="/setts/s16/g10w4r4r4g2r4r4w4g10w4t4w2t4w23k2r2~x2/"><circle cx="134.5" cy="97.5" r="4" fill="#3465a4"><title>MacBean Dress</title></circle></a><a href="/setts/s16/g10w4r4m4g2m4r4w4g10w4t4w2t4w23k2r2~x2/"><circle cx="131.7" cy="97.1" r="4" fill="#3465a4"><title>MacBean dress</title></circle></a><a href="/setts/s10/lb38dt18lb4ly3g10lo3g4lb3lo17r4~x2/"><circle cx="176.8" cy="122.3" r="4" fill="#3465a4"><title>State Seal of Delaware (Fashion)</title></circle></a><a href="/setts/s12/t12db2k4ly2k3m3k3m19w31db2w4k2~x2/"><circle cx="153.4" cy="75.2" r="4" fill="#3465a4"><title>MacLean of Duart Dress #5</title></circle></a><circle cx="166.8" cy="86.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/y12t2dr4ly2dr3w3dr3o20w29t2w4dr2~x2/

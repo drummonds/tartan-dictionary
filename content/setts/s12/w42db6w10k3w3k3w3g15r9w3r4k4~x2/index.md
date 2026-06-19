@@ -17,7 +17,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-K/8 R8 W6 R18 G30 W6 K6 W6 K6 W20 DB12 W/84
+W/84 DB12 W20 K6 W6 K6 W6 G30 R18 W6 R8 K/8
 ![Sett](sett.png)
 
 ## Palette
@@ -43,13 +43,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Stuart/Stewart Dress](/setts/s12/w39db3k6ly3k3w3k3dg8r5k3r3w3~x2/) — ΔT 1.22
 1. [Stewart Dress (Clan)](/setts/s12/w39db3k6ly3k3w3k3g8r5k3r3w3~x2/) — ΔT 1.24
 1. [Strathyre Dress (Dance)](/setts/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/) — ΔT 1.24
-1. [Aelfleda Arisaid (Personal)](/setts/s13/ly4db5ly4db5w8g2w24r2w8db5ly4db5ly4~x2/) — ΔT 1.25
+1. [Aelfleda Arisaid (Personal)](/setts/s13/ly4db5ly4db5w8r2w24g2w8db5ly4db5ly4~x2/) — ΔT 1.25
 1. [Rikaco Eve](/setts/s10/g4y4g2w36y14w2lt4g7m5w3~x2/) — ΔT 1.26
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/"><circle cx="247.5" cy="90.3" r="4" fill="#3465a4"><title>Braveheart Warrior (Dress)</title></circle></a><a href="/setts/s11/w36g6r2g3w2g3dy6p4g2p2w2~x2/"><circle cx="295.1" cy="73.3" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/setts/s11/w38k10do2k3w2k3y8o3k2o3w2~x2/"><circle cx="267.5" cy="73.8" r="4" fill="#3465a4"><title>Glenmore Green</title></circle></a><a href="/setts/s9/w20lo2n5w4db2n2db2n2dg1~x2/"><circle cx="296.6" cy="89.1" r="4" fill="#3465a4"><title>Boucherville Dress</title></circle></a><a href="/setts/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="261.1" cy="80.2" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/setts/s12/w39db3k6ly3k3w3k3dg8r5k3r3w3~x2/"><circle cx="228.7" cy="69.4" r="4" fill="#3465a4"><title>Stuart/Stewart Dress</title></circle></a><a href="/setts/s12/w39db3k6ly3k3w3k3g8r5k3r3w3~x2/"><circle cx="224.8" cy="66.1" r="4" fill="#3465a4"><title>Stewart Dress (Clan)</title></circle></a><a href="/setts/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/"><circle cx="296.3" cy="62.7" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/setts/s13/ly4db5ly4db5w8g2w24r2w8db5ly4db5ly4~x2/"><circle cx="189.9" cy="114.0" r="4" fill="#3465a4"><title>Aelfleda Arisaid (Personal)</title></circle></a><a href="/setts/s10/g4y4g2w36y14w2lt4g7m5w3~x2/"><circle cx="241.3" cy="96.6" r="4" fill="#3465a4"><title>Rikaco Eve</title></circle></a><circle cx="252.9" cy="89.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/"><circle cx="247.0" cy="90.1" r="4" fill="#3465a4"><title>Braveheart Warrior (Dress)</title></circle></a><a href="/setts/s11/w36g6r2g3w2g3dy6p4g2p2w2~x2/"><circle cx="294.5" cy="73.1" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/setts/s11/w38k10do2k3w2k3y8o3k2o3w2~x2/"><circle cx="267.0" cy="73.7" r="4" fill="#3465a4"><title>Glenmore Green</title></circle></a><a href="/setts/s9/w20lo2n5w4db2n2db2n2dg1~x2/"><circle cx="296.0" cy="88.8" r="4" fill="#3465a4"><title>Boucherville Dress</title></circle></a><a href="/setts/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="260.6" cy="80.1" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/setts/s12/w39db3k6ly3k3w3k3dg8r5k3r3w3~x2/"><circle cx="228.2" cy="69.3" r="4" fill="#3465a4"><title>Stuart/Stewart Dress</title></circle></a><a href="/setts/s12/w39db3k6ly3k3w3k3g8r5k3r3w3~x2/"><circle cx="224.3" cy="66.0" r="4" fill="#3465a4"><title>Stewart Dress (Clan)</title></circle></a><a href="/setts/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/"><circle cx="295.7" cy="62.5" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/setts/s13/ly4db5ly4db5w8r2w24g2w8db5ly4db5ly4~x2/"><circle cx="189.4" cy="113.9" r="4" fill="#3465a4"><title>Aelfleda Arisaid (Personal)</title></circle></a><a href="/setts/s10/g4y4g2w36y14w2lt4g7m5w3~x2/"><circle cx="240.8" cy="96.5" r="4" fill="#3465a4"><title>Rikaco Eve</title></circle></a><circle cx="252.4" cy="88.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/w42db6w10k3w3k3w3g15r9w3r4k4~x2/

@@ -10,7 +10,7 @@ This was sourced from house-of-tartan.  It is a [4 band tartan](/bands/bands4/).
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5500
 
 ## Thread count
-B/16 W6 Y20 N/44
+N/44 Y20 W6 B/16
 ![Sett](sett.png)
 
 ## Palette
@@ -27,7 +27,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/16 W6 Y20 N/44 tartan")
+![Tartan detail](tartan.png "N/44 Y20 W6 B/16 tartan")
 
 ## Nearest tartans
 
@@ -46,8 +46,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/ly40b8k20g11~x2/"><circle cx="168.0" cy="239.8" r="4" fill="#3465a4"><title>Brun, Pierre Emmanuel (Personal)</title></circle></a><a href="/setts/s5/k3w3k3ly10r1~x6/"><circle cx="223.8" cy="195.0" r="4" fill="#3465a4"><title>Burberry (Genuine)</title></circle></a><a href="/setts/s4/o22ly10w3db8~x2/"><circle cx="219.8" cy="235.8" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/setts/s5/y26k10r10ly10y3~x2/"><circle cx="200.1" cy="215.5" r="4" fill="#3465a4"><title>Ikelman No 2</title></circle></a><a href="/setts/s5/k6w6k6lo21r2~x4/"><circle cx="245.0" cy="197.9" r="4" fill="#3465a4"><title>Burberry Check Corporate Tartan Tartan Number: 1239. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/g22w14r7ly2~x2/"><circle cx="215.1" cy="213.3" r="4" fill="#3465a4"><title>Loch Lomond #3</title></circle></a><a href="/setts/s4/db3dg6ly1r3~x10/"><circle cx="170.9" cy="256.8" r="4" fill="#3465a4"><title>Delroeux, John Michael (Personal)</title></circle></a><a href="/setts/s4/r4k25ly25w4~x2/"><circle cx="185.8" cy="224.6" r="4" fill="#3465a4"><title>Bonhill Primary School</title></circle></a><a href="/setts/s4/db3w25k25r3~x2/"><circle cx="212.1" cy="211.6" r="4" fill="#3465a4"><title>Gleneckley</title></circle></a><a href="/setts/s5/db10w3db12ly14r4~x2/"><circle cx="187.1" cy="255.3" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><circle cx="201.1" cy="227.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/ly40b8k20g11~x2/"><circle cx="167.9" cy="239.5" r="4" fill="#3465a4"><title>Brun, Pierre Emmanuel (Personal)</title></circle></a><a href="/setts/s5/k3w3k3ly10r1~x6/"><circle cx="223.6" cy="194.8" r="4" fill="#3465a4"><title>Burberry (Genuine)</title></circle></a><a href="/setts/s4/o22ly10w3db8~x2/"><circle cx="219.6" cy="235.6" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/setts/s5/y26k10r10ly10y3~x2/"><circle cx="200.0" cy="215.3" r="4" fill="#3465a4"><title>Ikelman No 2</title></circle></a><a href="/setts/s5/k6w6k6lo21r2~x4/"><circle cx="244.9" cy="197.7" r="4" fill="#3465a4"><title>Burberry Check Corporate Tartan Tartan Number: 1239. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/g22w14r7ly2~x2/"><circle cx="214.9" cy="213.1" r="4" fill="#3465a4"><title>Loch Lomond #3</title></circle></a><a href="/setts/s4/db3dg6ly1r3~x10/"><circle cx="171.0" cy="256.6" r="4" fill="#3465a4"><title>Delroeux, John Michael (Personal)</title></circle></a><a href="/setts/s4/r4k25ly25w4~x2/"><circle cx="185.7" cy="224.3" r="4" fill="#3465a4"><title>Bonhill Primary School</title></circle></a><a href="/setts/s4/db3w25k25r3~x2/"><circle cx="212.0" cy="211.3" r="4" fill="#3465a4"><title>Gleneckley</title></circle></a><a href="/setts/s5/db10w3db12ly14r4~x2/"><circle cx="187.0" cy="255.1" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><circle cx="201.0" cy="227.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/o22ly10w3k8~x2/

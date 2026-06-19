@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10055
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Austin College Page
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -40,7 +46,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Brice](/setts/s10/k9r18w2k2w4k2w2r12k9r6~x2/) — ΔT 1.02
-1. [Morrison, Ancient](/setts/s10/g6w3g12r12k4r6k4r24g4r6/) — ΔT 1.24
+1. [Morrison, Ancient](/setts/s10/r6g4r24k4r6k4r12g12w3g6/) — ΔT 1.24
 1. [Oregon State University (Corporate)](/setts/s11/k6lo8k13w1lo11k1lo11w4k2lo1k2~x2/) — ΔT 1.24
 1. [Al-Maktoum](/setts/s6/w11r32g12r5g12r5~x2/) — ΔT 1.31
 1. [Russell, Ralph T. (Personal)](/setts/s7/w2k1w2r10k4r2w1~x8/) — ΔT 1.32
@@ -48,12 +54,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Hebridean, South Uist](/setts/s10/g8r1k1r8g1r8k1r1k8r1~x6/) — ΔT 1.42
 1. [Oregon State University](/setts/s11/k6o8k13w1o11k1o11w4k2o1k2~x2/) — ΔT 1.48
 1. [Brice (Artefact)](/setts/s6/r6k9r12w2k2w4~x2/) — ΔT 1.48
-1. [MacKinnon #10](/setts/s11/w2r4dg8r16t2r3dg16r4t2r4w2~x2/) — ΔT 1.50
+1. [MacKinnon #10](/setts/s11/w2r4dg8r16t2r3dg16r4t2r4w2~x2/) — ΔT 1.49
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k9r18w2k2w4k2w2r12k9r6~x2/"><circle cx="280.8" cy="184.6" r="4" fill="#3465a4"><title>Brice</title></circle></a><a href="/setts/s10/g6w3g12r12k4r6k4r24g4r6/"><circle cx="288.3" cy="185.2" r="4" fill="#3465a4"><title>Morrison, Ancient</title></circle></a><a href="/setts/s11/k6lo8k13w1lo11k1lo11w4k2lo1k2~x2/"><circle cx="276.4" cy="169.5" r="4" fill="#3465a4"><title>Oregon State University (Corporate)</title></circle></a><a href="/setts/s6/w11r32g12r5g12r5~x2/"><circle cx="276.3" cy="228.2" r="4" fill="#3465a4"><title>Al-Maktoum</title></circle></a><a href="/setts/s7/w2k1w2r10k4r2w1~x8/"><circle cx="294.7" cy="177.8" r="4" fill="#3465a4"><title>Russell, Ralph T. (Personal)</title></circle></a><a href="/setts/s9/dg9lb4dg15r17k5r7k5r32dg5/"><circle cx="281.7" cy="188.9" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/setts/s10/g8r1k1r8g1r8k1r1k8r1~x6/"><circle cx="254.6" cy="187.9" r="4" fill="#3465a4"><title>Hebridean, South Uist</title></circle></a><a href="/setts/s11/k6o8k13w1o11k1o11w4k2o1k2~x2/"><circle cx="270.0" cy="168.5" r="4" fill="#3465a4"><title>Oregon State University</title></circle></a><a href="/setts/s6/r6k9r12w2k2w4~x2/"><circle cx="234.2" cy="230.0" r="4" fill="#3465a4"><title>Brice (Artefact)</title></circle></a><a href="/setts/s11/w2r4dg8r16t2r3dg16r4t2r4w2~x2/"><circle cx="260.3" cy="173.6" r="4" fill="#3465a4"><title>MacKinnon #10</title></circle></a><circle cx="258.6" cy="190.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k9r18w2k2w4k2w2r12k9r6~x2/"><circle cx="280.5" cy="184.4" r="4" fill="#3465a4"><title>Brice</title></circle></a><a href="/setts/s10/r6g4r24k4r6k4r12g12w3g6/"><circle cx="288.0" cy="185.1" r="4" fill="#3465a4"><title>Morrison, Ancient</title></circle></a><a href="/setts/s11/k6lo8k13w1lo11k1lo11w4k2lo1k2~x2/"><circle cx="276.1" cy="169.2" r="4" fill="#3465a4"><title>Oregon State University (Corporate)</title></circle></a><a href="/setts/s6/w11r32g12r5g12r5~x2/"><circle cx="275.9" cy="228.0" r="4" fill="#3465a4"><title>Al-Maktoum</title></circle></a><a href="/setts/s7/w2k1w2r10k4r2w1~x8/"><circle cx="294.3" cy="177.6" r="4" fill="#3465a4"><title>Russell, Ralph T. (Personal)</title></circle></a><a href="/setts/s9/dg9lb4dg15r17k5r7k5r32dg5/"><circle cx="281.5" cy="188.7" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/setts/s10/g8r1k1r8g1r8k1r1k8r1~x6/"><circle cx="254.4" cy="187.7" r="4" fill="#3465a4"><title>Hebridean, South Uist</title></circle></a><a href="/setts/s11/k6o8k13w1o11k1o11w4k2o1k2~x2/"><circle cx="269.7" cy="168.2" r="4" fill="#3465a4"><title>Oregon State University</title></circle></a><a href="/setts/s6/r6k9r12w2k2w4~x2/"><circle cx="234.0" cy="229.8" r="4" fill="#3465a4"><title>Brice (Artefact)</title></circle></a><a href="/setts/s11/w2r4dg8r16t2r3dg16r4t2r4w2~x2/"><circle cx="259.9" cy="173.5" r="4" fill="#3465a4"><title>MacKinnon #10</title></circle></a><circle cx="258.2" cy="190.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r3ly2r2ly3r3ly7r3k7r14ly2~x2/

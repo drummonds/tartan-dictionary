@@ -2,7 +2,7 @@
 title: "Miyuki, House Check Grey, 1003A"
 date: 2023-03-18
 ---
-**Bands:** [BWBWGRWGWRGWBWGRWB](/stripes/bwbwgrwgwrgwbwgrwb/) · **Stripes:** [N LB N LB Y R LB Y LB R Y LB N LB Y R LB N](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="seq">N LB N LB Y R LB Y LB R Y LB N LB Y R LB N</span></span>
+**Bands:** [BWRGWBWGRWGWRGWBWB](/stripes/bwrgwbwgrwgwrgwbwb/) · **Stripes:** [N LB R Y LB N LB Y R LB Y LB R Y LB N LB N](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="seq">N LB R Y LB N LB Y R LB Y LB R Y LB N LB N</span></span>
 
 
 This was sourced from weddslist.  It is a [18 band tartan](/bands/bands18/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-Na/6 N6 Na6 N40 Nb6 R3 N8 Nb10 N8 R3 Nb6 N10 Na28 N10 Nb6 R3 N14 Na/12
+Na/12 N14 R3 Nb6 N10 Na28 N10 Nb6 R3 N8 Nb10 N8 R3 Nb6 N40 Na6 N6 Na/6
 ![Sett](sett.png)
 
 ## Palette
@@ -907,16 +910,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Scotch House (Corporate)](/setts/s18/lb16db2lb2db2lb3db6y2y22y4y22y2db6lb3db2lb2db2lb16r3~x2/) — ΔT 1.20
 1. [Miyuki #3 (Fashion)](/setts/s18/n12lb14k3r6lb10n28lb10r6k3lb8r10lb8k3r6lb40n6lb6n6/) — ΔT 1.21
 1. [Balmoral Royal Tartan Tartan Number: 1302. Earliest known date: 1860 The Balmoral tartan is not produced as an article of commerce. D.W.Stewart wrote in his book, 'Old and Rare Scottish Tartans' (1893), "Her Majesty the Queen has not only granted permission for its publication here, but has also graciously afforded information concerning its inception in the early years of the reign, when the sett was designed by the Prince Consort." The grey threads are flecked to give an impression of granite. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/o2r1o8lp2k2o1lp1o1lp4o2k1o1r1~x2/) — ΔT 1.31
-1. [Glen Affric, Fragment](/setts/s13/g2lr1r14g2lr5g2lr7g2lr7g2lr10g2k2~x2/) — ΔT 1.40
-1. [Glenaffric Fragment](/setts/s13/dg2lr1r14dg2lr5dg2lr7dg2lr7dg2lr10dg2k2~x2/) — ΔT 1.41
+1. [Glen Affric, Fragment](/setts/s13/k2g2lr10g2lr7g2lr7g2lr5g2r14lr1g2~x2/) — ΔT 1.40
+1. [Glenaffric Fragment](/setts/s13/k2dg2lr10dg2lr7dg2lr7dg2lr5dg2r14lr1dg2~x2/) — ΔT 1.41
 1. [Qatar Airways](/setts/s12/m3o2m6o21lr2o4lr3o3lr4o2lr13w2~x2/) — ΔT 1.51
 1. [Balmoral (Jack Allen)](/setts/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2/) — ΔT 1.53
 1. [Balmoral](/setts/s13/lr4r2lr11y2k2lr1y1lr1y4lr2k1lr1r1~x2/) — ΔT 1.59
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/n12lb14r3o6lb10n28lb10o6r3lb8o10lb8r3o6lb40n6lb6n6/"><circle cx="291.4" cy="154.1" r="4" fill="#3465a4"><title>Miyuki #3</title></circle></a><a href="/setts/s15/t12k8t12w1lo2w1lo8w1lo2w1lo8w1lo2w1lo8/"><circle cx="234.4" cy="158.7" r="4" fill="#3465a4"><title>Bush (Artefact)</title></circle></a><a href="/setts/s18/lb16db2lb2db2lb3db6y2y22y4y22y2db6lb3db2lb2db2lb16r3~x2/"><circle cx="242.7" cy="137.5" r="4" fill="#3465a4"><title>Scotch House (Corporate)</title></circle></a><a href="/setts/s18/n12lb14k3r6lb10n28lb10r6k3lb8r10lb8k3r6lb40n6lb6n6/"><circle cx="248.2" cy="129.1" r="4" fill="#3465a4"><title>Miyuki #3 (Fashion)</title></circle></a><a href="/setts/s13/o2r1o8lp2k2o1lp1o1lp4o2k1o1r1~x2/"><circle cx="288.6" cy="177.9" r="4" fill="#3465a4"><title>Balmoral Royal Tartan Tartan Number: 1302. Earliest known date: 1860 The Balmoral tartan is not produced as an article of commerce. D.W.Stewart wrote in his book, 'Old and Rare Scottish Tartans' (1893), &quot;Her Majesty the Queen has not only granted permission for its publication here, but has also graciously afforded information concerning its inception in the early years of the reign, when the sett was designed by the Prince Consort.&quot; The grey threads are flecked to give an impression of granite. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/g2lr1r14g2lr5g2lr7g2lr7g2lr10g2k2~x2/"><circle cx="259.9" cy="148.6" r="4" fill="#3465a4"><title>Glen Affric, Fragment</title></circle></a><a href="/setts/s13/dg2lr1r14dg2lr5dg2lr7dg2lr7dg2lr10dg2k2~x2/"><circle cx="261.7" cy="147.3" r="4" fill="#3465a4"><title>Glenaffric Fragment</title></circle></a><a href="/setts/s12/m3o2m6o21lr2o4lr3o3lr4o2lr13w2~x2/"><circle cx="307.8" cy="176.9" r="4" fill="#3465a4"><title>Qatar Airways</title></circle></a><a href="/setts/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2/"><circle cx="274.2" cy="134.7" r="4" fill="#3465a4"><title>Balmoral (Jack Allen)</title></circle></a><a href="/setts/s13/lr4r2lr11y2k2lr1y1lr1y4lr2k1lr1r1~x2/"><circle cx="310.2" cy="145.5" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><circle cx="275.8" cy="146.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/n12lb14r3o6lb10n28lb10o6r3lb8o10lb8r3o6lb40n6lb6n6/"><circle cx="290.9" cy="154.1" r="4" fill="#3465a4"><title>Miyuki #3</title></circle></a><a href="/setts/s15/t12k8t12w1lo2w1lo8w1lo2w1lo8w1lo2w1lo8/"><circle cx="234.1" cy="158.7" r="4" fill="#3465a4"><title>Bush (Artefact)</title></circle></a><a href="/setts/s18/lb16db2lb2db2lb3db6y2y22y4y22y2db6lb3db2lb2db2lb16r3~x2/"><circle cx="242.4" cy="137.4" r="4" fill="#3465a4"><title>Scotch House (Corporate)</title></circle></a><a href="/setts/s18/n12lb14k3r6lb10n28lb10r6k3lb8r10lb8k3r6lb40n6lb6n6/"><circle cx="247.8" cy="129.0" r="4" fill="#3465a4"><title>Miyuki #3 (Fashion)</title></circle></a><a href="/setts/s13/o2r1o8lp2k2o1lp1o1lp4o2k1o1r1~x2/"><circle cx="288.3" cy="177.8" r="4" fill="#3465a4"><title>Balmoral Royal Tartan Tartan Number: 1302. Earliest known date: 1860 The Balmoral tartan is not produced as an article of commerce. D.W.Stewart wrote in his book, 'Old and Rare Scottish Tartans' (1893), &quot;Her Majesty the Queen has not only granted permission for its publication here, but has also graciously afforded information concerning its inception in the early years of the reign, when the sett was designed by the Prince Consort.&quot; The grey threads are flecked to give an impression of granite. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/k2g2lr10g2lr7g2lr7g2lr5g2r14lr1g2~x2/"><circle cx="259.5" cy="148.5" r="4" fill="#3465a4"><title>Glen Affric, Fragment</title></circle></a><a href="/setts/s13/k2dg2lr10dg2lr7dg2lr7dg2lr5dg2r14lr1dg2~x2/"><circle cx="261.3" cy="147.2" r="4" fill="#3465a4"><title>Glenaffric Fragment</title></circle></a><a href="/setts/s12/m3o2m6o21lr2o4lr3o3lr4o2lr13w2~x2/"><circle cx="307.4" cy="176.9" r="4" fill="#3465a4"><title>Qatar Airways</title></circle></a><a href="/setts/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2/"><circle cx="273.8" cy="134.5" r="4" fill="#3465a4"><title>Balmoral (Jack Allen)</title></circle></a><a href="/setts/s13/lr4r2lr11y2k2lr1y1lr1y4lr2k1lr1r1~x2/"><circle cx="309.8" cy="145.3" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><circle cx="275.3" cy="146.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s18/n12lb14r3y6lb10n28lb10y6r3lb8y10lb8r3y6lb40n6lb6n6/

@@ -2,12 +2,18 @@
 title: "Taylor, dress"
 date: 2023-03-18
 ---
-**Bands:** [GKGRGWGWGY](/stripes/gkgrgwgwgy/) · **Stripes:** [G K G R G W Y W G LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G K G R G W Y W G LY</span></span>
+**Bands:** [YGWGWGRGKG](/stripes/ygwgwgrgkg/) · **Stripes:** [LY G W Y W G R G K G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G W Y W G R G K G</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Taylor, dress
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,15 +919,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Drummond of Perth Dress (Dance)](/setts/s9/dg41lo3g7n3w24dg10g7n7w3~x2/) — ΔT 1.48
 1. [Fredericton #2](/setts/s12/ly2g16t2w2t2w2t6g7r2w1t1dp1~x6/) — ΔT 1.53
 1. [Taylor Dress #2](/setts/s9/dg9k2r4dg14w3lp3w23dg5ly3~x2/) — ΔT 1.59
-1. [Canadian Caledonian, hunting](/setts/s11/db3k1g13ly1r1w1r6g3r1g3w1~x2/) — ΔT 1.61
+1. [Canadian Caledonian, hunting](/setts/s11/db3k1g13ly1r1w1r6g3r1g3w1~x2/) — ΔT 1.62
 1. [Malone, Keagan Allen (Personal)](/setts/s14/lr2g3lr2g12lo5g12w1dg16lo3w3g3dg2o2w1~x2/) — ΔT 1.63
 1. [Boucherville (Tartan de..)](/setts/s9/g20ly2y5w4g2y2g2y2b6~x2/) — ΔT 1.64
 1. [Fredericton](/setts/s12/ly2g16t2w2t2w2t6g7r2w1t1p1~x2/) — ΔT 1.65
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g9k2g15r4g14w3o3w23g5ly3~x2/"><circle cx="210.0" cy="139.8" r="4" fill="#3465a4"><title>Taylor Dress</title></circle></a><a href="/setts/s9/g9k2r4g14w3lp3w23g5ly3~x2/"><circle cx="163.7" cy="130.7" r="4" fill="#3465a4"><title>Taylor, dress</title></circle></a><a href="/setts/s12/g8ly2db3ly2g16ly10g3w6g1ly3g1w6~x2/"><circle cx="191.5" cy="132.8" r="4" fill="#3465a4"><title>Green Bay, Wisconsin (District)</title></circle></a><a href="/setts/s9/dg41lo3g7n3w24dg10g7n7w3~x2/"><circle cx="212.8" cy="137.0" r="4" fill="#3465a4"><title>Drummond of Perth Dress (Dance)</title></circle></a><a href="/setts/s12/ly2g16t2w2t2w2t6g7r2w1t1dp1~x6/"><circle cx="240.2" cy="109.7" r="4" fill="#3465a4"><title>Fredericton #2</title></circle></a><a href="/setts/s9/dg9k2r4dg14w3lp3w23dg5ly3~x2/"><circle cx="159.6" cy="128.3" r="4" fill="#3465a4"><title>Taylor Dress #2</title></circle></a><a href="/setts/s11/db3k1g13ly1r1w1r6g3r1g3w1~x2/"><circle cx="260.0" cy="119.5" r="4" fill="#3465a4"><title>Canadian Caledonian, hunting</title></circle></a><a href="/setts/s14/lr2g3lr2g12lo5g12w1dg16lo3w3g3dg2o2w1~x2/"><circle cx="182.0" cy="109.3" r="4" fill="#3465a4"><title>Malone, Keagan Allen (Personal)</title></circle></a><a href="/setts/s9/g20ly2y5w4g2y2g2y2b6~x2/"><circle cx="247.5" cy="157.2" r="4" fill="#3465a4"><title>Boucherville (Tartan de..)</title></circle></a><a href="/setts/s12/ly2g16t2w2t2w2t6g7r2w1t1p1~x2/"><circle cx="252.9" cy="116.8" r="4" fill="#3465a4"><title>Fredericton</title></circle></a><circle cx="210.2" cy="140.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g9k2g15r4g14w3o3w23g5ly3~x2/"><circle cx="209.7" cy="139.7" r="4" fill="#3465a4"><title>Taylor Dress</title></circle></a><a href="/setts/s9/g9k2r4g14w3lp3w23g5ly3~x2/"><circle cx="163.4" cy="130.6" r="4" fill="#3465a4"><title>Taylor, dress</title></circle></a><a href="/setts/s12/g8ly2db3ly2g16ly10g3w6g1ly3g1w6~x2/"><circle cx="191.2" cy="132.7" r="4" fill="#3465a4"><title>Green Bay, Wisconsin (District)</title></circle></a><a href="/setts/s9/dg41lo3g7n3w24dg10g7n7w3~x2/"><circle cx="212.6" cy="136.9" r="4" fill="#3465a4"><title>Drummond of Perth Dress (Dance)</title></circle></a><a href="/setts/s12/ly2g16t2w2t2w2t6g7r2w1t1dp1~x6/"><circle cx="240.0" cy="109.7" r="4" fill="#3465a4"><title>Fredericton #2</title></circle></a><a href="/setts/s9/dg9k2r4dg14w3lp3w23dg5ly3~x2/"><circle cx="159.4" cy="128.2" r="4" fill="#3465a4"><title>Taylor Dress #2</title></circle></a><a href="/setts/s11/db3k1g13ly1r1w1r6g3r1g3w1~x2/"><circle cx="259.7" cy="119.4" r="4" fill="#3465a4"><title>Canadian Caledonian, hunting</title></circle></a><a href="/setts/s14/lr2g3lr2g12lo5g12w1dg16lo3w3g3dg2o2w1~x2/"><circle cx="181.7" cy="109.3" r="4" fill="#3465a4"><title>Malone, Keagan Allen (Personal)</title></circle></a><a href="/setts/s9/g20ly2y5w4g2y2g2y2b6~x2/"><circle cx="247.2" cy="157.1" r="4" fill="#3465a4"><title>Boucherville (Tartan de..)</title></circle></a><a href="/setts/s12/ly2g16t2w2t2w2t6g7r2w1t1p1~x2/"><circle cx="252.6" cy="116.8" r="4" fill="#3465a4"><title>Fredericton</title></circle></a><circle cx="209.9" cy="140.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/g9k2g15r4g14w3y3w23g5ly3~x2/

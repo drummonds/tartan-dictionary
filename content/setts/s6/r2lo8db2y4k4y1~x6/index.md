@@ -2,7 +2,7 @@
 title: "Thompson (J.C.'s Fancy) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GKGBYR](/stripes/gkgbyr/) · **Stripes:** [Y K Y DB LO R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="seq">Y K Y DB LO R</span></span>
+**Bands:** [RYBGKG](/stripes/rybgkg/) · **Stripes:** [R LO DB Y K Y](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R LO DB Y K Y</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 286
 
 ## Thread count
-LG/6 K24 LG24 DB12 LT48 R/12
+R/12 LT48 DB12 LG24 K24 LG/6
 ![Sett](sett.png)
 
 ## Palette
@@ -41,7 +41,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LG/6 K24 LG24 DB12 LT48 R/12 tartan")
+![Tartan detail](tartan.png "R/12 LT48 DB12 LG24 K24 LG/6 tartan")
 
 ## Nearest tartans
 
@@ -50,7 +50,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Utah Centennial](/setts/s8/w6r8g24r8db6r8db8w3~x2/) — ΔT 0.93
 1. [Thompson's Fancy Personal Tartan Tartan Number: 286. Earliest known date: pre 2003 Designed for his own use. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r2dy8db2t4k4t1~x6/) — ΔT 1.00
 1. [Canine All Dogs (Fashion)](/setts/s6/r10db6g24db24r6ly3/) — ΔT 1.04
-1. [Cercle de Fermières Varennes](/setts/s6/b30r3w10dg14r3o30~x2/) — ΔT 1.05
+1. [Cercle de Fermières Varennes](/setts/s6/o30r3dg14w10r3b30~x2/) — ΔT 1.05
 1. [Jardine #2](/setts/s5/dy9o9y9r1t1~x4/) — ΔT 1.05
 1. [Strathblane (Fashion)](/setts/s5/dy12k4w2o6r3~x2/) — ΔT 1.05
 1. [Sikh](/setts/s8/o56k12o7k12o7g50db50ly10/) — ΔT 1.07
@@ -60,8 +60,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w6r8g24r8db6r8db8w3~x2/"><circle cx="107.8" cy="189.5" r="4" fill="#3465a4"><title>Utah Centennial</title></circle></a><a href="/setts/s6/r2dy8db2t4k4t1~x6/"><circle cx="163.2" cy="225.2" r="4" fill="#3465a4"><title>Thompson's Fancy Personal Tartan Tartan Number: 286. Earliest known date: pre 2003 Designed for his own use. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r10db6g24db24r6ly3/"><circle cx="142.1" cy="214.0" r="4" fill="#3465a4"><title>Canine All Dogs (Fashion)</title></circle></a><a href="/setts/s6/b30r3w10dg14r3o30~x2/"><circle cx="147.1" cy="194.2" r="4" fill="#3465a4"><title>Cercle de Fermières Varennes</title></circle></a><a href="/setts/s5/dy9o9y9r1t1~x4/"><circle cx="162.8" cy="221.3" r="4" fill="#3465a4"><title>Jardine #2</title></circle></a><a href="/setts/s5/dy12k4w2o6r3~x2/"><circle cx="173.6" cy="229.7" r="4" fill="#3465a4"><title>Strathblane (Fashion)</title></circle></a><a href="/setts/s8/o56k12o7k12o7g50db50ly10/"><circle cx="142.6" cy="188.5" r="4" fill="#3465a4"><title>Sikh</title></circle></a><a href="/setts/s5/o12k4w2y6r3~x2/"><circle cx="158.1" cy="221.5" r="4" fill="#3465a4"><title>Strathblane</title></circle></a><a href="/setts/s8/o6w2k4dy12k4w2o6r3~x2/"><circle cx="87.6" cy="205.9" r="4" fill="#3465a4"><title>Strathblane</title></circle></a><a href="/setts/s6/r2o8db2t4k4t1~x6/"><circle cx="135.3" cy="210.8" r="4" fill="#3465a4"><title>Thom(p)son's, Fancy</title></circle></a><circle cx="144.0" cy="211.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w6r8g24r8db6r8db8w3~x2/"><circle cx="107.8" cy="189.5" r="4" fill="#3465a4"><title>Utah Centennial</title></circle></a><a href="/setts/s6/r2dy8db2t4k4t1~x6/"><circle cx="163.3" cy="225.3" r="4" fill="#3465a4"><title>Thompson's Fancy Personal Tartan Tartan Number: 286. Earliest known date: pre 2003 Designed for his own use. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r10db6g24db24r6ly3/"><circle cx="142.2" cy="214.1" r="4" fill="#3465a4"><title>Canine All Dogs (Fashion)</title></circle></a><a href="/setts/s6/o30r3dg14w10r3b30~x2/"><circle cx="147.0" cy="194.3" r="4" fill="#3465a4"><title>Cercle de Fermières Varennes</title></circle></a><a href="/setts/s5/dy9o9y9r1t1~x4/"><circle cx="162.8" cy="221.4" r="4" fill="#3465a4"><title>Jardine #2</title></circle></a><a href="/setts/s5/dy12k4w2o6r3~x2/"><circle cx="173.6" cy="229.7" r="4" fill="#3465a4"><title>Strathblane (Fashion)</title></circle></a><a href="/setts/s8/o56k12o7k12o7g50db50ly10/"><circle cx="142.6" cy="188.6" r="4" fill="#3465a4"><title>Sikh</title></circle></a><a href="/setts/s5/o12k4w2y6r3~x2/"><circle cx="158.1" cy="221.4" r="4" fill="#3465a4"><title>Strathblane</title></circle></a><a href="/setts/s8/o6w2k4dy12k4w2o6r3~x2/"><circle cx="87.6" cy="206.0" r="4" fill="#3465a4"><title>Strathblane</title></circle></a><a href="/setts/s6/r2o8db2t4k4t1~x6/"><circle cx="135.4" cy="210.8" r="4" fill="#3465a4"><title>Thom(p)son's, Fancy</title></circle></a><circle cx="144.0" cy="211.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r2lo8db2y4k4y1~x6/

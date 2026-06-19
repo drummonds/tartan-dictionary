@@ -18,10 +18,10 @@ BBGBWBWBGBR
 
 
 
-### B DO G DO LB DO LB DO G DO R <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="seq">B DO G DO LB DO LB DO G DO R</span></span>
+### R DO G DO LB DO LB DO G DO B <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R DO G DO LB DO LB DO G DO B</span></span>
 
 | Tartans |
 |---------------|
-| [Fraser Hunting Dress](/setts/s11/b4do15g11do3lb11do3lb11do3g11do15r4~x2/)|
-|![Fraser Hunting Dress example sett](/setts/s11/b4do15g11do3lb11do3lb11do3g11do15r4~x2/sett.png)|
+| [Fraser Hunting Dress](/setts/s11/r4do15g11do3lb11do3lb11do3g11do15b4~x2/)|
+|![Fraser Hunting Dress example sett](/setts/s11/r4do15g11do3lb11do3lb11do3g11do15b4~x2/sett.png)|
 

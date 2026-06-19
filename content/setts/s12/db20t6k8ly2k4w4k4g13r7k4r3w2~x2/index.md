@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Stuart/Stewart Black #3
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,20 +915,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Stuart/Stewart Black #3](/setts/s12/db20t6k8ly2k4w4k4dg13r7k4r3w2~x2/) — ΔT 0.74
-1. [Cascade Summers, (The Resort at the Mountain)](/setts/s12/db3g14r3dg6db3k10w2k10db3r11t14k3~x2/) — ΔT 0.82
-1. [Culloden 1746 Artefact Tartan Tartan Number: 7422. Earliest known date: 1746 Count from the original Culloden coat discovered and later examined by Peter MacDonald on display at the Kelvingrove Museum, Glasgow. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/r5lb1dt10w2k10y10k1ly3k1y10k10w2dt10lb1~x4/) — ΔT 0.92
+1. [Cascade Summers, (The Resort at the Mountain)](/setts/s12/k3t14r11db3k10w2k10db3dg6r3g14db3~x2/) — ΔT 0.82
+1. [Culloden 1746 Artefact Tartan Tartan Number: 7422. Earliest known date: 1746 Count from the original Culloden coat discovered and later examined by Peter MacDonald on display at the Kelvingrove Museum, Glasgow. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/r5lb1dt10w2k10y10k1ly3~x4/) — ΔT 0.92
 1. [Gordon, Red](/setts/s15/g18w2db16w2t6k16w2r8w2db9r9k6r9g6t6~x2/) — ΔT 0.93
 1. [Rust](/setts/s12/r3k2p12w2p12k12g12ly2g12k2r1b2~x2/) — ΔT 0.99
 1. [Beatty](/setts/s14/k6b3db28lo8k10lo2k2lb2k4g16r12k2r6lb2~x2/) — ΔT 1.03
 1. [Scotland's International - Home (Fas](/setts/s10/dt24k24k2w6k2ly2k16lb5r6w2~x2/) — ΔT 1.05
 1. [Bowling (Clan)](/setts/s13/w2db14lo3k6g2k2w2k2g8dy6k2dy3w2~x4/) — ΔT 1.09
-1. [Armagh County Crest (Fashion)](/setts/s9/w3db4dg8k5db20g3ly13g4w2~x2/) — ΔT 1.13
-1. [Nashotah House](/setts/s13/lo2g1r5g7w2g15lb8k14w2k10dp6k2r2~x2/) — ΔT 1.14
+1. [Armagh County Crest (Fashion)](/setts/s9/w3db4dg8k5db20g3ly13g4w2~x2/) — ΔT 1.14
+1. [Nashotah House](/setts/s13/r2k2dp6k10w2k14lb8g15w2g7r5g1lo2~x2/) — ΔT 1.14
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db20t6k8ly2k4w4k4dg13r7k4r3w2~x2/"><circle cx="38.0" cy="128.4" r="4" fill="#3465a4"><title>Stuart/Stewart Black #3</title></circle></a><a href="/setts/s12/db3g14r3dg6db3k10w2k10db3r11t14k3~x2/"><circle cx="14.0" cy="146.3" r="4" fill="#3465a4"><title>Cascade Summers, (The Resort at the Mountain)</title></circle></a><a href="/setts/s14/r5lb1dt10w2k10y10k1ly3k1y10k10w2dt10lb1~x4/"><circle cx="56.4" cy="129.0" r="4" fill="#3465a4"><title>Culloden 1746 Artefact Tartan Tartan Number: 7422. Earliest known date: 1746 Count from the original Culloden coat discovered and later examined by Peter MacDonald on display at the Kelvingrove Museum, Glasgow. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/g18w2db16w2t6k16w2r8w2db9r9k6r9g6t6~x2/"><circle cx="14.0" cy="127.6" r="4" fill="#3465a4"><title>Gordon, Red</title></circle></a><a href="/setts/s12/r3k2p12w2p12k12g12ly2g12k2r1b2~x2/"><circle cx="80.7" cy="114.2" r="4" fill="#3465a4"><title>Rust</title></circle></a><a href="/setts/s14/k6b3db28lo8k10lo2k2lb2k4g16r12k2r6lb2~x2/"><circle cx="53.8" cy="94.1" r="4" fill="#3465a4"><title>Beatty</title></circle></a><a href="/setts/s10/dt24k24k2w6k2ly2k16lb5r6w2~x2/"><circle cx="65.2" cy="116.7" r="4" fill="#3465a4"><title>Scotland's International - Home (Fas</title></circle></a><a href="/setts/s13/w2db14lo3k6g2k2w2k2g8dy6k2dy3w2~x4/"><circle cx="32.0" cy="146.7" r="4" fill="#3465a4"><title>Bowling (Clan)</title></circle></a><a href="/setts/s9/w3db4dg8k5db20g3ly13g4w2~x2/"><circle cx="50.2" cy="130.9" r="4" fill="#3465a4"><title>Armagh County Crest (Fashion)</title></circle></a><a href="/setts/s13/lo2g1r5g7w2g15lb8k14w2k10dp6k2r2~x2/"><circle cx="85.9" cy="109.8" r="4" fill="#3465a4"><title>Nashotah House</title></circle></a><circle cx="19.9" cy="121.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db20t6k8ly2k4w4k4dg13r7k4r3w2~x2/"><circle cx="38.1" cy="128.6" r="4" fill="#3465a4"><title>Stuart/Stewart Black #3</title></circle></a><a href="/setts/s12/k3t14r11db3k10w2k10db3dg6r3g14db3~x2/"><circle cx="14.0" cy="146.5" r="4" fill="#3465a4"><title>Cascade Summers, (The Resort at the Mountain)</title></circle></a><a href="/setts/s14/r5lb1dt10w2k10y10k1ly3~x4/"><circle cx="56.5" cy="129.2" r="4" fill="#3465a4"><title>Culloden 1746 Artefact Tartan Tartan Number: 7422. Earliest known date: 1746 Count from the original Culloden coat discovered and later examined by Peter MacDonald on display at the Kelvingrove Museum, Glasgow. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/g18w2db16w2t6k16w2r8w2db9r9k6r9g6t6~x2/"><circle cx="14.0" cy="127.8" r="4" fill="#3465a4"><title>Gordon, Red</title></circle></a><a href="/setts/s12/r3k2p12w2p12k12g12ly2g12k2r1b2~x2/"><circle cx="80.8" cy="114.3" r="4" fill="#3465a4"><title>Rust</title></circle></a><a href="/setts/s14/k6b3db28lo8k10lo2k2lb2k4g16r12k2r6lb2~x2/"><circle cx="54.0" cy="94.3" r="4" fill="#3465a4"><title>Beatty</title></circle></a><a href="/setts/s10/dt24k24k2w6k2ly2k16lb5r6w2~x2/"><circle cx="65.3" cy="116.9" r="4" fill="#3465a4"><title>Scotland's International - Home (Fas</title></circle></a><a href="/setts/s13/w2db14lo3k6g2k2w2k2g8dy6k2dy3w2~x4/"><circle cx="32.2" cy="146.9" r="4" fill="#3465a4"><title>Bowling (Clan)</title></circle></a><a href="/setts/s9/w3db4dg8k5db20g3ly13g4w2~x2/"><circle cx="50.3" cy="131.0" r="4" fill="#3465a4"><title>Armagh County Crest (Fashion)</title></circle></a><a href="/setts/s13/r2k2dp6k10w2k14lb8g15w2g7r5g1lo2~x2/"><circle cx="85.9" cy="109.9" r="4" fill="#3465a4"><title>Nashotah House</title></circle></a><circle cx="20.1" cy="121.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/db20t6k8ly2k4w4k4g13r7k4r3w2~x2/

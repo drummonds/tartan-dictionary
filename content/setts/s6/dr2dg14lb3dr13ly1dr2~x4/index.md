@@ -2,7 +2,7 @@
 title: "Swedish Para Whisky Club (Corporate"
 date: 2023-03-18
 ---
-**Bands:** [BGWBYB](/stripes/bgwbyb/) · **Stripes:** [DR DG LB DR LY DR](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="seq">DR DG LB DR LY DR</span></span>
+**Bands:** [BYBWGB](/stripes/bybwgb/) · **Stripes:** [DR LY DR LB DG DR](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="seq">DR LY DR LB DG DR</span></span>
 
 
 This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
@@ -35,17 +35,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Balfour #2](/setts/s6/db18ly2dy6ly2dy19r3~x2/) — ΔT 0.84
 1. [Balfour (Clan)](/setts/s6/db18ly2dy6ly2dy19r3~x4/) — ΔT 0.84
 1. [Fraser Green](/setts/s6/lb2dr12g6dr1n6dr1~x4/) — ΔT 0.91
-1. [Fraser VS](/setts/s6/lr1r12dg6r1db6r1~x2/) — ΔT 0.93
+1. [Fraser VS](/setts/s6/r1db6r1dg6r12lr1~x2/) — ΔT 0.93
 1. [Kelley Oliphint](/setts/s5/k3w2n27k31p3~x2/) — ΔT 1.02
 1. [MacQuarrie LO](/setts/s7/r6dg16r4db12r16b1r2~x2/) — ΔT 1.05
-1. [MacQuarrie LO](/setts/s7/r6dg16r4db12r16b1r2/) — ΔT 1.05
 1. [Fibonacci7](/setts/s7/db13dg8r5db3dg2r1ly1~x4/) — ΔT 1.07
 1. [Daks, Blue Loden](/setts/s8/o5t13dr4r4dr27t3dr4o5/) — ΔT 1.08
+1. [Kelley Oliphint (Commemorative)](/setts/s5/k3w2n27k31lr3~x2/) — ΔT 1.10
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dg7w1dg18db6r18dg2~x2/"><circle cx="317.7" cy="197.2" r="4" fill="#3465a4"><title>Finlaggan</title></circle></a><a href="/setts/s6/db18ly2dy6ly2dy19r3~x2/"><circle cx="297.6" cy="218.5" r="4" fill="#3465a4"><title>Balfour #2</title></circle></a><a href="/setts/s6/db18ly2dy6ly2dy19r3~x4/"><circle cx="297.6" cy="218.5" r="4" fill="#3465a4"><title>Balfour (Clan)</title></circle></a><a href="/setts/s6/lb2dr12g6dr1n6dr1~x4/"><circle cx="288.5" cy="212.2" r="4" fill="#3465a4"><title>Fraser Green</title></circle></a><a href="/setts/s6/lr1r12dg6r1db6r1~x2/"><circle cx="299.0" cy="197.0" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><a href="/setts/s5/k3w2n27k31p3~x2/"><circle cx="341.1" cy="206.9" r="4" fill="#3465a4"><title>Kelley Oliphint</title></circle></a><a href="/setts/s7/r6dg16r4db12r16b1r2~x2/"><circle cx="289.8" cy="200.6" r="4" fill="#3465a4"><title>MacQuarrie LO</title></circle></a><a href="/setts/s7/r6dg16r4db12r16b1r2/"><circle cx="289.8" cy="200.6" r="4" fill="#3465a4"><title>MacQuarrie LO</title></circle></a><a href="/setts/s7/db13dg8r5db3dg2r1ly1~x4/"><circle cx="283.8" cy="207.2" r="4" fill="#3465a4"><title>Fibonacci7</title></circle></a><a href="/setts/s8/o5t13dr4r4dr27t3dr4o5/"><circle cx="307.8" cy="202.3" r="4" fill="#3465a4"><title>Daks, Blue Loden</title></circle></a><circle cx="312.8" cy="199.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dg7w1dg18db6r18dg2~x2/"><circle cx="317.6" cy="197.1" r="4" fill="#3465a4"><title>Finlaggan</title></circle></a><a href="/setts/s6/db18ly2dy6ly2dy19r3~x2/"><circle cx="297.5" cy="218.4" r="4" fill="#3465a4"><title>Balfour #2</title></circle></a><a href="/setts/s6/db18ly2dy6ly2dy19r3~x4/"><circle cx="297.5" cy="218.4" r="4" fill="#3465a4"><title>Balfour (Clan)</title></circle></a><a href="/setts/s6/lb2dr12g6dr1n6dr1~x4/"><circle cx="288.5" cy="212.1" r="4" fill="#3465a4"><title>Fraser Green</title></circle></a><a href="/setts/s6/r1db6r1dg6r12lr1~x2/"><circle cx="298.9" cy="196.9" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><a href="/setts/s5/k3w2n27k31p3~x2/"><circle cx="341.1" cy="206.8" r="4" fill="#3465a4"><title>Kelley Oliphint</title></circle></a><a href="/setts/s7/r6dg16r4db12r16b1r2~x2/"><circle cx="289.7" cy="200.6" r="4" fill="#3465a4"><title>MacQuarrie LO</title></circle></a><a href="/setts/s7/db13dg8r5db3dg2r1ly1~x4/"><circle cx="283.8" cy="207.2" r="4" fill="#3465a4"><title>Fibonacci7</title></circle></a><a href="/setts/s8/o5t13dr4r4dr27t3dr4o5/"><circle cx="307.6" cy="202.2" r="4" fill="#3465a4"><title>Daks, Blue Loden</title></circle></a><a href="/setts/s5/k3w2n27k31lr3~x2/"><circle cx="328.9" cy="199.6" r="4" fill="#3465a4"><title>Kelley Oliphint (Commemorative)</title></circle></a><circle cx="312.8" cy="199.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/dr2dg14lb3dr13ly1dr2~x4/

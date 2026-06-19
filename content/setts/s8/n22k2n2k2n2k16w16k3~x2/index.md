@@ -2,7 +2,7 @@
 title: "Laksaa (Manx)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKWK](/stripes/bkbkbkwk/) · **Stripes:** [N K N K N K W K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">N K N K N K W K</span></span>
+**Bands:** [KWKBKBKB](/stripes/kwkbkbkb/) · **Stripes:** [K W K N K N K N](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">K W K N K N K N</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1233
 
 ## Thread count
-K/6 LN32 K32 N4 K4 N4 K4 N/44
+N/44 K4 N4 K4 N4 K32 LN32 K/6
 ![Sett](sett.png)
 
 ## Palette
@@ -39,7 +39,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/6 LN32 K32 N4 K4 N4 K4 N/44 tartan")
+![Tartan detail](tartan.png "N/44 K4 N4 K4 N4 K32 LN32 K/6 tartan")
 
 ## Nearest tartans
 
@@ -58,8 +58,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/y21k2y2k2y2k15w17k3~x2/"><circle cx="195.2" cy="178.3" r="4" fill="#3465a4"><title>Laksaa</title></circle></a><a href="/setts/s9/g24k3g2k3g4k4m20k3m6~x2/"><circle cx="249.2" cy="174.7" r="4" fill="#3465a4"><title>Alma College</title></circle></a><a href="/setts/s8/n12dt2n2dt2n2dt10w12dt3~x2/"><circle cx="172.9" cy="217.4" r="4" fill="#3465a4"><title>Grey Watch Dress (Fashion)</title></circle></a><a href="/setts/s11/k4w2k2w2k2w4k2w2k4db12w1~x4/"><circle cx="188.8" cy="174.4" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/setts/s11/t2w2t15k15w2k15w2t3w2t7w2~x2/"><circle cx="214.9" cy="187.7" r="4" fill="#3465a4"><title>Clark (Clan)</title></circle></a><a href="/setts/s7/db12w4db1w4r8w2r1~x4/"><circle cx="212.4" cy="187.3" r="4" fill="#3465a4"><title>Sunderland</title></circle></a><a href="/setts/s10/ly1k4db2k10w1db2w10db1w4ly1~x4/"><circle cx="173.6" cy="154.9" r="4" fill="#3465a4"><title>Chieftain</title></circle></a><a href="/setts/s9/k2n2w4n6w27n15k42n2w2/"><circle cx="255.6" cy="136.7" r="4" fill="#3465a4"><title>Swansea City AFC</title></circle></a><a href="/setts/s8/db4dy3db21dy2w14o22dy3o4~x2/"><circle cx="159.5" cy="166.9" r="4" fill="#3465a4"><title>Bannock Bane M.407</title></circle></a><a href="/setts/s9/dg33db4dg4db4dg4db12w33db3w6~x2/"><circle cx="213.4" cy="172.9" r="4" fill="#3465a4"><title>Lindsay Dress</title></circle></a><circle cx="215.9" cy="182.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/y21k2y2k2y2k15w17k3~x2/"><circle cx="195.1" cy="178.1" r="4" fill="#3465a4"><title>Laksaa</title></circle></a><a href="/setts/s9/g24k3g2k3g4k4m20k3m6~x2/"><circle cx="249.1" cy="174.6" r="4" fill="#3465a4"><title>Alma College</title></circle></a><a href="/setts/s8/n12dt2n2dt2n2dt10w12dt3~x2/"><circle cx="172.9" cy="217.2" r="4" fill="#3465a4"><title>Grey Watch Dress (Fashion)</title></circle></a><a href="/setts/s11/k4w2k2w2k2w4k2w2k4db12w1~x4/"><circle cx="188.8" cy="174.3" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/setts/s11/t2w2t15k15w2k15w2t3w2t7w2~x2/"><circle cx="214.8" cy="187.5" r="4" fill="#3465a4"><title>Clark (Clan)</title></circle></a><a href="/setts/s7/db12w4db1w4r8w2r1~x4/"><circle cx="212.3" cy="187.2" r="4" fill="#3465a4"><title>Sunderland</title></circle></a><a href="/setts/s10/ly1k4db2k10w1db2w10db1w4ly1~x4/"><circle cx="173.5" cy="154.8" r="4" fill="#3465a4"><title>Chieftain</title></circle></a><a href="/setts/s9/k2n2w4n6w27n15k42n2w2/"><circle cx="255.4" cy="136.5" r="4" fill="#3465a4"><title>Swansea City AFC</title></circle></a><a href="/setts/s8/db4dy3db21dy2w14o22dy3o4~x2/"><circle cx="159.4" cy="166.8" r="4" fill="#3465a4"><title>Bannock Bane M.407</title></circle></a><a href="/setts/s9/dg33db4dg4db4dg4db12w33db3w6~x2/"><circle cx="213.2" cy="172.7" r="4" fill="#3465a4"><title>Lindsay Dress</title></circle></a><circle cx="215.8" cy="182.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/n22k2n2k2n2k16w16k3~x2/

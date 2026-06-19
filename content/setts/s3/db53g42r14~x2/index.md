@@ -2,7 +2,7 @@
 title: "Agnew"
 date: 2023-03-18
 ---
-**Bands:** [BGR](/stripes/bgr/) · **Stripes:** [DB G R](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB G R</span></span>
+**Bands:** [RGB](/stripes/rgb/) · **Stripes:** [R G DB](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">R G DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
@@ -62,13 +62,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Wilson's, No 209](/setts/s3/p5g4t2~x2/) — ΔT 1.45
 1. [Wilson's No.084](/setts/s3/dg6dp5r1~x4/) — ΔT 1.51
 1. [Wilson's No 62, (Ferguson)](/setts/s3/db13r2g13~x2/) — ΔT 1.53
-1. [Coleman, Sarah-Louise (Personal)](/setts/s4/g2o1dp3o1~x10/) — ΔT 1.54
+1. [Coleman, Sarah-Louise (Personal)](/setts/s4/dp3o1g2~x10/) — ΔT 1.54
 1. [Wilson's No 84, Ferguson](/setts/s3/db5g6r1~x4/) — ΔT 1.57
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/db53g42r14/"><circle cx="247.9" cy="346.4" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/setts/s3/g6dp5t1~x4/"><circle cx="289.8" cy="319.3" r="4" fill="#3465a4"><title>Wilson's No.055</title></circle></a><a href="/setts/s3/db6g5r1~x4/"><circle cx="293.4" cy="323.9" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/setts/s4/k5g14db12g4~x4/"><circle cx="265.1" cy="346.0" r="4" fill="#3465a4"><title>MacCurdie (Clan?)</title></circle></a><a href="/setts/s3/g6p5t1~x4/"><circle cx="273.8" cy="304.7" r="4" fill="#3465a4"><title>Wilson's, No 55</title></circle></a><a href="/setts/s3/p5g4t2~x2/"><circle cx="185.6" cy="361.5" r="4" fill="#3465a4"><title>Wilson's, No 209</title></circle></a><a href="/setts/s3/dg6dp5r1~x4/"><circle cx="309.2" cy="323.3" r="4" fill="#3465a4"><title>Wilson's No.084</title></circle></a><a href="/setts/s3/db13r2g13~x2/"><circle cx="288.6" cy="320.4" r="4" fill="#3465a4"><title>Wilson's No 62, (Ferguson)</title></circle></a><a href="/setts/s4/g2o1dp3o1~x10/"><circle cx="195.5" cy="324.7" r="4" fill="#3465a4"><title>Coleman, Sarah-Louise (Personal)</title></circle></a><a href="/setts/s3/db5g6r1~x4/"><circle cx="291.6" cy="323.8" r="4" fill="#3465a4"><title>Wilson's No 84, Ferguson</title></circle></a><circle cx="252.0" cy="348.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/db53g42r14/"><circle cx="248.0" cy="346.2" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/setts/s3/g6dp5t1~x4/"><circle cx="289.9" cy="319.0" r="4" fill="#3465a4"><title>Wilson's No.055</title></circle></a><a href="/setts/s3/db6g5r1~x4/"><circle cx="293.4" cy="323.6" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/setts/s4/k5g14db12g4~x4/"><circle cx="265.3" cy="345.9" r="4" fill="#3465a4"><title>MacCurdie (Clan?)</title></circle></a><a href="/setts/s3/g6p5t1~x4/"><circle cx="273.8" cy="304.5" r="4" fill="#3465a4"><title>Wilson's, No 55</title></circle></a><a href="/setts/s3/p5g4t2~x2/"><circle cx="185.7" cy="361.2" r="4" fill="#3465a4"><title>Wilson's, No 209</title></circle></a><a href="/setts/s3/dg6dp5r1~x4/"><circle cx="309.3" cy="323.2" r="4" fill="#3465a4"><title>Wilson's No.084</title></circle></a><a href="/setts/s3/db13r2g13~x2/"><circle cx="288.7" cy="320.2" r="4" fill="#3465a4"><title>Wilson's No 62, (Ferguson)</title></circle></a><a href="/setts/s4/dp3o1g2~x10/"><circle cx="195.5" cy="324.5" r="4" fill="#3465a4"><title>Coleman, Sarah-Louise (Personal)</title></circle></a><a href="/setts/s3/db5g6r1~x4/"><circle cx="291.6" cy="323.6" r="4" fill="#3465a4"><title>Wilson's No 84, Ferguson</title></circle></a><circle cx="252.2" cy="348.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/db53g42r14~x2/

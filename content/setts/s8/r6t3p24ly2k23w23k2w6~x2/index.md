@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/12 K4 LN46 K46 Y4 P48 B6 R/12
+R/12 B6 P48 Y4 K46 LN46 K4 LN/12
 ![Sett](sett.png)
 
 ## Palette
@@ -902,13 +905,13 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/12 K4 LN46 K46 Y4 P48 B6 R/12 tartan")
+![Tartan detail](tartan.png "R/12 B6 P48 Y4 K46 LN46 K4 LN/12 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Culloden Dress](/setts/s8/r6t3dp24ly2k23w23k2w6~x2/) — ΔT 0.62
+1. [Culloden Dress](/setts/s8/r6t3dp24ly2k23w23k2w6~x2/) — ΔT 0.63
 1. [Humming Bird (Fashion)](/setts/s8/r6t3m20ly2k20w20k2w5~x2/) — ΔT 0.79
 1. [Hatcher (Texas) (Personal)](/setts/s7/lp33r7dt9b7lg12r3k29~x2/) — ΔT 1.06
 1. [Culloden, Grey](/setts/s8/r6db3p24w2k23y23k2y6~x2/) — ΔT 1.07
@@ -917,12 +920,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Pengelly, The Cornish](/setts/s7/w5k26ly4lb24dp8k3r4~x2/) — ΔT 1.19
 1. [Iowa Dress (District)](/setts/s8/r4ly3w12k16g5db20k4w2~x2/) — ΔT 1.20
 1. [Casey (Personal)](/setts/s7/r5t2p16k13ly13k2w3~x2/) — ΔT 1.21
-1. [Christian Dress (Personal)](/setts/s7/ly3dp2w27k19db27w2r3~x2/) — ΔT 1.23
+1. [Christian Dress (Personal)](/setts/s7/r3w2db27k19w27dp2ly3~x2/) — ΔT 1.23
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r6t3dp24ly2k23w23k2w6~x2/"><circle cx="97.6" cy="122.3" r="4" fill="#3465a4"><title>Culloden Dress</title></circle></a><a href="/setts/s8/r6t3m20ly2k20w20k2w5~x2/"><circle cx="91.1" cy="133.2" r="4" fill="#3465a4"><title>Humming Bird (Fashion)</title></circle></a><a href="/setts/s7/lp33r7dt9b7lg12r3k29~x2/"><circle cx="58.4" cy="127.8" r="4" fill="#3465a4"><title>Hatcher (Texas) (Personal)</title></circle></a><a href="/setts/s8/r6db3p24w2k23y23k2y6~x2/"><circle cx="119.8" cy="140.9" r="4" fill="#3465a4"><title>Culloden, Grey</title></circle></a><a href="/setts/s9/r17k5w4k6ly5db31k5g6w3~x2/"><circle cx="122.6" cy="131.9" r="4" fill="#3465a4"><title>Dean/Dundas (Personal)</title></circle></a><a href="/setts/s8/r4o2b15ly2k14w14k2w4~x2/"><circle cx="62.0" cy="148.2" r="4" fill="#3465a4"><title>Culloden, Stirling</title></circle></a><a href="/setts/s7/w5k26ly4lb24dp8k3r4~x2/"><circle cx="118.7" cy="146.7" r="4" fill="#3465a4"><title>Pengelly, The Cornish</title></circle></a><a href="/setts/s8/r4ly3w12k16g5db20k4w2~x2/"><circle cx="68.6" cy="148.8" r="4" fill="#3465a4"><title>Iowa Dress (District)</title></circle></a><a href="/setts/s7/r5t2p16k13ly13k2w3~x2/"><circle cx="62.7" cy="159.1" r="4" fill="#3465a4"><title>Casey (Personal)</title></circle></a><a href="/setts/s7/ly3dp2w27k19db27w2r3~x2/"><circle cx="119.6" cy="124.2" r="4" fill="#3465a4"><title>Christian Dress (Personal)</title></circle></a><circle cx="98.3" cy="125.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r6t3dp24ly2k23w23k2w6~x2/"><circle cx="97.5" cy="122.4" r="4" fill="#3465a4"><title>Culloden Dress</title></circle></a><a href="/setts/s8/r6t3m20ly2k20w20k2w5~x2/"><circle cx="91.0" cy="133.3" r="4" fill="#3465a4"><title>Humming Bird (Fashion)</title></circle></a><a href="/setts/s7/lp33r7dt9b7lg12r3k29~x2/"><circle cx="58.5" cy="127.9" r="4" fill="#3465a4"><title>Hatcher (Texas) (Personal)</title></circle></a><a href="/setts/s8/r6db3p24w2k23y23k2y6~x2/"><circle cx="119.9" cy="141.0" r="4" fill="#3465a4"><title>Culloden, Grey</title></circle></a><a href="/setts/s9/r17k5w4k6ly5db31k5g6w3~x2/"><circle cx="122.5" cy="132.0" r="4" fill="#3465a4"><title>Dean/Dundas (Personal)</title></circle></a><a href="/setts/s8/r4o2b15ly2k14w14k2w4~x2/"><circle cx="62.0" cy="148.2" r="4" fill="#3465a4"><title>Culloden, Stirling</title></circle></a><a href="/setts/s7/w5k26ly4lb24dp8k3r4~x2/"><circle cx="118.6" cy="146.7" r="4" fill="#3465a4"><title>Pengelly, The Cornish</title></circle></a><a href="/setts/s8/r4ly3w12k16g5db20k4w2~x2/"><circle cx="68.7" cy="148.9" r="4" fill="#3465a4"><title>Iowa Dress (District)</title></circle></a><a href="/setts/s7/r5t2p16k13ly13k2w3~x2/"><circle cx="62.7" cy="159.1" r="4" fill="#3465a4"><title>Casey (Personal)</title></circle></a><a href="/setts/s7/r3w2db27k19w27dp2ly3~x2/"><circle cx="119.5" cy="124.1" r="4" fill="#3465a4"><title>Christian Dress (Personal)</title></circle></a><circle cx="98.3" cy="125.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r6t3p24ly2k23w23k2w6~x2/

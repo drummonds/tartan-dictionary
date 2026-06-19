@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11068
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Gonzaga University’s True Blue and White
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -30,7 +36,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-R/2 DB40 G4 DB4 W6 DB4 W/12
+W/12 DB4 W6 DB4 G4 DB40 R/2
 ![Sett](sett.png)
 
 ## Palette
@@ -45,7 +51,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "R/2 DB40 G4 DB4 W6 DB4 W/12 tartan")
+![Tartan detail](tartan.png "W/12 DB4 W6 DB4 G4 DB40 R/2 tartan")
 
 ## Nearest tartans
 
@@ -64,8 +70,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db28ly3w1ly3db4w2r1w5~x4/"><circle cx="413.2" cy="112.8" r="4" fill="#3465a4"><title>Baker Dress Family Tartan Tartan Number: 2180. Earliest known date: 1999 STS notes 'Sample in trade specimens file.' See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db28lo3w1lo3db4w2dp1w5~x4/"><circle cx="413.8" cy="115.7" r="4" fill="#3465a4"><title>Baker (Name)</title></circle></a><a href="/setts/s8/db28o3w1o3db4w2dp1w5~x4/"><circle cx="415.0" cy="115.9" r="4" fill="#3465a4"><title>Baker</title></circle></a><a href="/setts/s9/db96ly11db8ly11db16ly6w4ly16w8/"><circle cx="425.8" cy="130.0" r="4" fill="#3465a4"><title>University of North Carolina at Greensboro, The</title></circle></a><a href="/setts/s10/db42k6db3k3db3w5db17w7lo10k3~x2/"><circle cx="352.9" cy="148.5" r="4" fill="#3465a4"><title>California Riverside, University of (Corporate)</title></circle></a><a href="/setts/s8/db28dr3w1dr3db4w2dp1w5~x4/"><circle cx="428.5" cy="122.5" r="4" fill="#3465a4"><title>Baker Family Tartan Tartan Number: 613. Earliest known date: pre 2003 STS notes 'Sample in trade specimens file.' See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db28o3w1o3db4w2p1w5~x4/"><circle cx="436.0" cy="125.3" r="4" fill="#3465a4"><title>Baker</title></circle></a><a href="/setts/s8/t4db1t4db24w6db4w1db2~x4/"><circle cx="417.0" cy="151.1" r="4" fill="#3465a4"><title>Antigonish</title></circle></a><a href="/setts/s8/lo3db4w10dg2w2dg5db34ly3~x2/"><circle cx="304.2" cy="117.6" r="4" fill="#3465a4"><title>Royal Troon Golf Club, The</title></circle></a><a href="/setts/s6/w8k16w2db2w1k1~x4/"><circle cx="325.9" cy="175.9" r="4" fill="#3465a4"><title>Ikelman No 1</title></circle></a><circle cx="377.2" cy="139.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db28ly3w1ly3db4w2r1w5~x4/"><circle cx="412.8" cy="112.5" r="4" fill="#3465a4"><title>Baker Dress Family Tartan Tartan Number: 2180. Earliest known date: 1999 STS notes 'Sample in trade specimens file.' See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db28lo3w1lo3db4w2dp1w5~x4/"><circle cx="413.6" cy="115.4" r="4" fill="#3465a4"><title>Baker (Name)</title></circle></a><a href="/setts/s8/db28o3w1o3db4w2dp1w5~x4/"><circle cx="414.7" cy="115.6" r="4" fill="#3465a4"><title>Baker</title></circle></a><a href="/setts/s9/db96ly11db8ly11db16ly6w4ly16w8/"><circle cx="425.5" cy="129.7" r="4" fill="#3465a4"><title>University of North Carolina at Greensboro, The</title></circle></a><a href="/setts/s10/db42k6db3k3db3w5db17w7lo10k3~x2/"><circle cx="352.7" cy="148.3" r="4" fill="#3465a4"><title>California Riverside, University of (Corporate)</title></circle></a><a href="/setts/s8/db28dr3w1dr3db4w2dp1w5~x4/"><circle cx="428.3" cy="122.3" r="4" fill="#3465a4"><title>Baker Family Tartan Tartan Number: 613. Earliest known date: pre 2003 STS notes 'Sample in trade specimens file.' See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db28o3w1o3db4w2p1w5~x4/"><circle cx="435.7" cy="125.1" r="4" fill="#3465a4"><title>Baker</title></circle></a><a href="/setts/s8/t4db1t4db24w6db4w1db2~x4/"><circle cx="416.7" cy="150.8" r="4" fill="#3465a4"><title>Antigonish</title></circle></a><a href="/setts/s8/lo3db4w10dg2w2dg5db34ly3~x2/"><circle cx="304.0" cy="117.4" r="4" fill="#3465a4"><title>Royal Troon Golf Club, The</title></circle></a><a href="/setts/s6/w8k16w2db2w1k1~x4/"><circle cx="325.8" cy="175.5" r="4" fill="#3465a4"><title>Ikelman No 1</title></circle></a><circle cx="377.0" cy="138.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/w6db2w3db2g2db20r1~x2/

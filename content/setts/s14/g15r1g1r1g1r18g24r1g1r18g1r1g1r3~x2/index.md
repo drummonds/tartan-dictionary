@@ -2,12 +2,19 @@
 title: "Robertson - 1746 (Artefact)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGRGRGRGRGR](/stripes/grgrgrgrgrgrgr/) · **Stripes:** [G R G R G R G R G R G R G R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">G R G R G R G R G R G R G R</span></span>
+**Bands:** [RGRGRGRGRGRGRG](/stripes/rgrgrgrgrgrgrg/) · **Stripes:** [R G R G R G R G R G R G R G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G R G R G R G R G R G</span></span>
 
 
 This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/893/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Robertson #2
+- Robertson 2
 
 ## Attestations
 
@@ -318,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -895,7 +905,7 @@ External register numbers recorded for this tartan.
 
 Other setts woven to the same stripe pattern.
 
-- [Kyle (Green)](/setts/s14/g18r2g3r10g6r5g6r54g6r5g6r10g3r2~x2/)
+- [Kyle (Green)](/setts/s14/r54g6r5g6r10g3r2g18~x2/)
 
 
 ## Thread count
@@ -915,20 +925,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Robertson #2](/setts/s14/dg15r1dg1r1dg1r18dg24r1dg1r18dg1r1dg1r3~x2/) — ΔT 0.74
-1. [Donachie Clan Tartan Tartan Number: 6138. Earliest known date: 2004 A new tartan, a simplified sett based on the #893 Robertson tartan once presented by the Jacobite Prince to a Robertson during the '45.'' (The Setts of the Scottish Tartans, D.C. Stewart, 1950.) The Donachie of Brockloch Society have adopted this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/g20r2g2r2g2r25g40r2g2r24g2r2g40r25g2r2g2r2~x2/) — ΔT 1.01
+1. [Donachie Clan Tartan Tartan Number: 6138. Earliest known date: 2004 A new tartan, a simplified sett based on the #893 Robertson tartan once presented by the Jacobite Prince to a Robertson during the '45.'' (The Setts of the Scottish Tartans, D.C. Stewart, 1950.) The Donachie of Brockloch Society have adopted this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/r24g2r2g40r25g2r2g2r2g20~x2/) — ΔT 1.01
 1. [Hebrides Outer](/setts/s17/g9r2g3r20g2r1g2r2g20r2g3r2g2r22g3ly1r3~x2/) — ΔT 1.09
 1. [Donachie](/setts/s10/r24g2r2g40r25g2r2g2r2g20~x2/) — ΔT 1.10
-1. [Drummond](/setts/s12/g4r1g1r28g8k1g1k1g18r1g1r4~x2/) — ΔT 1.23
+1. [Drummond](/setts/s12/r4g1r1g18k1g1k1g8r28g1r1g4~x2/) — ΔT 1.23
 1. [MacAlister of Glenbarr](/setts/s14/g20r3g6r6g6r8dp2r2g20r2dp2r46dp3r8~x2/) — ΔT 1.24
-1. [Drummond VS](/setts/s12/dg4r1dg1r28dg8k1dg1k1dg18r1dg1r4/) — ΔT 1.28
-1. [MacDonell of Glengarry](/setts/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/) — ΔT 1.31
+1. [MacDonell of Glengarry](/setts/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/) — ΔT 1.30
 1. [Drummond #3](/setts/s12/dg4r1dg1r28dg8k1dg1k1dg18r1dg1r4~x2/) — ΔT 1.32
 1. [Livingstone](/setts/s10/g14r4g2r2g2r4g19r30g2r9~x2/) — ΔT 1.32
+1. [Unidentified #62](/setts/s10/r32lo1g8lo1g8lo1~x2/) — ΔT 1.55
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/dg15r1dg1r1dg1r18dg24r1dg1r18dg1r1dg1r3~x2/"><circle cx="415.6" cy="143.0" r="4" fill="#3465a4"><title>Robertson #2</title></circle></a><a href="/setts/s18/g20r2g2r2g2r25g40r2g2r24g2r2g40r25g2r2g2r2~x2/"><circle cx="428.6" cy="152.4" r="4" fill="#3465a4"><title>Donachie Clan Tartan Tartan Number: 6138. Earliest known date: 2004 A new tartan, a simplified sett based on the #893 Robertson tartan once presented by the Jacobite Prince to a Robertson during the '45.'' (The Setts of the Scottish Tartans, D.C. Stewart, 1950.) The Donachie of Brockloch Society have adopted this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/g9r2g3r20g2r1g2r2g20r2g3r2g2r22g3ly1r3~x2/"><circle cx="403.7" cy="130.9" r="4" fill="#3465a4"><title>Hebrides Outer</title></circle></a><a href="/setts/s10/r24g2r2g40r25g2r2g2r2g20~x2/"><circle cx="424.9" cy="183.8" r="4" fill="#3465a4"><title>Donachie</title></circle></a><a href="/setts/s12/g4r1g1r28g8k1g1k1g18r1g1r4~x2/"><circle cx="390.8" cy="121.5" r="4" fill="#3465a4"><title>Drummond</title></circle></a><a href="/setts/s14/g20r3g6r6g6r8dp2r2g20r2dp2r46dp3r8~x2/"><circle cx="409.4" cy="136.6" r="4" fill="#3465a4"><title>MacAlister of Glenbarr</title></circle></a><a href="/setts/s12/dg4r1dg1r28dg8k1dg1k1dg18r1dg1r4/"><circle cx="397.9" cy="124.2" r="4" fill="#3465a4"><title>Drummond VS</title></circle></a><a href="/setts/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/"><circle cx="363.7" cy="147.4" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s12/dg4r1dg1r28dg8k1dg1k1dg18r1dg1r4~x2/"><circle cx="396.6" cy="120.5" r="4" fill="#3465a4"><title>Drummond #3</title></circle></a><a href="/setts/s10/g14r4g2r2g2r4g19r30g2r9~x2/"><circle cx="415.5" cy="194.9" r="4" fill="#3465a4"><title>Livingstone</title></circle></a><circle cx="428.0" cy="151.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/dg15r1dg1r1dg1r18dg24r1dg1r18dg1r1dg1r3~x2/"><circle cx="415.1" cy="142.8" r="4" fill="#3465a4"><title>Robertson #2</title></circle></a><a href="/setts/s18/r24g2r2g40r25g2r2g2r2g20~x2/"><circle cx="428.1" cy="152.2" r="4" fill="#3465a4"><title>Donachie Clan Tartan Tartan Number: 6138. Earliest known date: 2004 A new tartan, a simplified sett based on the #893 Robertson tartan once presented by the Jacobite Prince to a Robertson during the '45.'' (The Setts of the Scottish Tartans, D.C. Stewart, 1950.) The Donachie of Brockloch Society have adopted this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/g9r2g3r20g2r1g2r2g20r2g3r2g2r22g3ly1r3~x2/"><circle cx="403.1" cy="130.7" r="4" fill="#3465a4"><title>Hebrides Outer</title></circle></a><a href="/setts/s10/r24g2r2g40r25g2r2g2r2g20~x2/"><circle cx="424.4" cy="183.6" r="4" fill="#3465a4"><title>Donachie</title></circle></a><a href="/setts/s12/r4g1r1g18k1g1k1g8r28g1r1g4~x2/"><circle cx="390.3" cy="121.3" r="4" fill="#3465a4"><title>Drummond</title></circle></a><a href="/setts/s14/g20r3g6r6g6r8dp2r2g20r2dp2r46dp3r8~x2/"><circle cx="408.9" cy="136.5" r="4" fill="#3465a4"><title>MacAlister of Glenbarr</title></circle></a><a href="/setts/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/"><circle cx="363.3" cy="147.3" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s12/dg4r1dg1r28dg8k1dg1k1dg18r1dg1r4~x2/"><circle cx="396.1" cy="120.3" r="4" fill="#3465a4"><title>Drummond #3</title></circle></a><a href="/setts/s10/g14r4g2r2g2r4g19r30g2r9~x2/"><circle cx="415.0" cy="194.7" r="4" fill="#3465a4"><title>Livingstone</title></circle></a><a href="/setts/s10/r32lo1g8lo1g8lo1~x2/"><circle cx="399.3" cy="150.2" r="4" fill="#3465a4"><title>Unidentified #62</title></circle></a><circle cx="427.5" cy="151.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/g15r1g1r1g1r18g24r1g1r18g1r1g1r3~x2/

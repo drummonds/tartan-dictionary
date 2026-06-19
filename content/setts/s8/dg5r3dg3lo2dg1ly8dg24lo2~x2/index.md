@@ -2,7 +2,7 @@
 title: "St. Christopher (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GRGYGYGY](/stripes/grgygygy/) · **Stripes:** [DG R DG LO DG LY DG LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DG R DG LO DG LY DG LO</span></span>
+**Bands:** [YGYGYGRG](/stripes/ygygygrg/) · **Stripes:** [LO DG LY DG LO DG R DG](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">LO DG LY DG LO DG R DG</span></span>
 
 
 This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/
 Original link http://www.tartansauthority.com/tartan-ferret/display/6778/
 
 ## Thread count
-DY/4 G48 LG16 G2 DY4 G6 R6 G/10
+G/10 R6 G6 DY4 G2 LG16 G48 DY/4
 ![Sett](sett.png)
 
 ## Palette
@@ -25,7 +25,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DY/4 G48 LG16 G2 DY4 G6 R6 G/10 tartan")
+![Tartan detail](tartan.png "G/10 R6 G6 DY4 G2 LG16 G48 DY/4 tartan")
 
 ## Nearest tartans
 
@@ -44,8 +44,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g5o9g4w5g30r2g4r2~x2/"><circle cx="434.4" cy="182.2" r="4" fill="#3465a4"><title>Welsh Assembly (Fashion)</title></circle></a><a href="/setts/s14/dg24ly8dg1lo2dg3r3dg5r3dg3lo2dg1ly8dg24lo2~x2/"><circle cx="428.5" cy="134.4" r="4" fill="#3465a4"><title>St. Christopher</title></circle></a><a href="/setts/s7/r2dg24k2dg12lo6k1r2~x2/"><circle cx="473.0" cy="171.9" r="4" fill="#3465a4"><title>Inman (2016)</title></circle></a><a href="/setts/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="414.8" cy="167.9" r="4" fill="#3465a4"><title>Island Weavers (Corporate)</title></circle></a><a href="/setts/s8/g5y9g4w5g30r2g4r2~x2/"><circle cx="442.5" cy="187.0" r="4" fill="#3465a4"><title>Welsh Assembly</title></circle></a><a href="/setts/s8/g78db13ly6r3ly5g6db9ly6~x2/"><circle cx="425.1" cy="133.1" r="4" fill="#3465a4"><title>Walterstrm (2014))</title></circle></a><a href="/setts/s8/g18r6g75b6g13dy35g12b6/"><circle cx="419.7" cy="200.2" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/setts/s7/g55p7r24g12db4ly3db4~x2/"><circle cx="359.0" cy="154.9" r="4" fill="#3465a4"><title>Crieff, and Strathearn</title></circle></a><a href="/setts/s9/r4g3dp3g44dp16g10w2g2dp2~x2/"><circle cx="450.2" cy="148.0" r="4" fill="#3465a4"><title>Glenfeshie (Personal)</title></circle></a><a href="/setts/s10/g4r16g4r2g3r2g32w1g1w2~x2/"><circle cx="463.7" cy="133.7" r="4" fill="#3465a4"><title>Rothesay #2</title></circle></a><circle cx="442.8" cy="158.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g5o9g4w5g30r2g4r2~x2/"><circle cx="434.0" cy="181.9" r="4" fill="#3465a4"><title>Welsh Assembly (Fashion)</title></circle></a><a href="/setts/s14/dg24ly8dg1lo2dg3r3dg5r3dg3lo2dg1ly8dg24lo2~x2/"><circle cx="428.1" cy="134.2" r="4" fill="#3465a4"><title>St. Christopher</title></circle></a><a href="/setts/s7/r2dg24k2dg12lo6k1r2~x2/"><circle cx="472.7" cy="171.7" r="4" fill="#3465a4"><title>Inman (2016)</title></circle></a><a href="/setts/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="414.5" cy="167.7" r="4" fill="#3465a4"><title>Island Weavers (Corporate)</title></circle></a><a href="/setts/s8/g5y9g4w5g30r2g4r2~x2/"><circle cx="442.1" cy="186.8" r="4" fill="#3465a4"><title>Welsh Assembly</title></circle></a><a href="/setts/s8/g78db13ly6r3ly5g6db9ly6~x2/"><circle cx="424.7" cy="132.9" r="4" fill="#3465a4"><title>Walterstrm (2014))</title></circle></a><a href="/setts/s8/g18r6g75b6g13dy35g12b6/"><circle cx="419.4" cy="199.9" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/setts/s7/g55p7r24g12db4ly3db4~x2/"><circle cx="358.7" cy="154.8" r="4" fill="#3465a4"><title>Crieff, and Strathearn</title></circle></a><a href="/setts/s9/r4g3dp3g44dp16g10w2g2dp2~x2/"><circle cx="449.9" cy="147.7" r="4" fill="#3465a4"><title>Glenfeshie (Personal)</title></circle></a><a href="/setts/s10/g4r16g4r2g3r2g32w1g1w2~x2/"><circle cx="463.2" cy="133.5" r="4" fill="#3465a4"><title>Rothesay #2</title></circle></a><circle cx="442.4" cy="158.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/dg5r3dg3lo2dg1ly8dg24lo2~x2/

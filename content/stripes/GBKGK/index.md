@@ -21,14 +21,14 @@ GBKGK
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DG DB K DG K <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="seq">DG DB K DG K</span></span>
+### K DG K DB DG <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">K DG K DB DG</span></span>
 
 | Tartans |
 |---------------|
 | [Unidentified #29](/setts/s5/k5dg14k16db12dg4~x2/)|
 |![Unidentified #29 example sett](/setts/s5/k5dg14k16db12dg4~x2/sett.png)|
 
-### G DB K G K <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">G DB K G K</span></span>
+### K G K DB G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G K DB G</span></span>
 
 | Tartans |
 |---------------|

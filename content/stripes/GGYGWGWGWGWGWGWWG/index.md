@@ -22,6 +22,6 @@ GGYGWGWGWGWGWGWWG
 
 | Tartans |
 |---------------|
-| [Prickly Thistle (Corporate)](/setts/s17/g3lb15lp12y1lp1y1lp1y1lp1y1lp1y1lp1y3ly3y15g3~x2/)|
-|![Prickly Thistle (Corporate) example sett](/setts/s17/g3lb15lp12y1lp1y1lp1y1lp1y1lp1y1lp1y3ly3y15g3~x2/sett.png)|
+| [Prickly Thistle (Corporate)](/setts/s17/g3y15ly3y3lp1y1lp1y1lp1y1lp1y1lp1y1lp12lb15g3~x2/)|
+|![Prickly Thistle (Corporate) example sett](/setts/s17/g3y15ly3y3lp1y1lp1y1lp1y1lp1y1lp1y1lp12lb15g3~x2/sett.png)|
 

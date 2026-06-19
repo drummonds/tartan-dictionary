@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 3106
 
 ## Thread count
-R/8 DB2 DBa22 LN4 DBa22 LN4 DBa22 R8 DB16 R/120
+R/120 DB16 R8 DBa22 LN4 DBa22 LN4 DBa22 DB2 R/8
 ![Sett](sett.png)
 
 ## Palette
@@ -36,19 +36,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Leslie](/setts/s8/r4k6ly1k6r4db16r32k1~x2/) — ΔT 1.27
 1. [Trevison](/setts/s12/r47k1r6w3dt2w3r6k13g2w2r2k13~x2/) — ΔT 1.27
-1. [Leslie Dress](/setts/s8/r4k6ly1k6r4db16r32db1/) — ΔT 1.28
+1. [Leslie Dress](/setts/s8/r4k6ly1k6r4db16r32db1~x2/) — ΔT 1.28
 1. [Glennie (Personal)](/setts/s11/r48k1lb1k6ly4r2ly4k8r2k1lb2~x2/) — ΔT 1.35
-1. [MacGillivray](/setts/s13/r4lb1db1r32lb2r2db12r2dg16r4lb1r4db2~x2/) — ΔT 1.39
+1. [MacGillivray](/setts/s13/r4lb1db1r32lb2r2db12r2dg16r4lb1r4db2/) — ΔT 1.39
 1. [MacGillivray](/setts/s13/r6t1db1r57t2r2db23r4g30r6t1r6db2~x2/) — ΔT 1.48
 1. [Braemar, Castle](/setts/s10/r52k5ly5k8o5dr5k2r6k1ly2~x2/) — ΔT 1.49
-1. [Ostermeier (2015)](/setts/s8/r11w1r32k8db6k1db16k1~x2/) — ΔT 1.49
-1. [Marjoribanks (Clan)](/setts/s8/lo3r2w1r40k37w3k3w3~x2/) — ΔT 1.53
+1. [Ostermeier (2015)](/setts/s8/r11w1r32k8db6k1db16k1~x2/) — ΔT 1.50
+1. [Marjoribanks (Clan)](/setts/s8/w3k3w3k37r40w1r2lo3~x2/) — ΔT 1.53
 1. [Robberstad](/setts/s9/r60b15r4dt10w2dt10w2dt10r4~x2/) — ΔT 1.56
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r4k6ly1k6r4db16r32k1~x2/"><circle cx="360.5" cy="119.5" r="4" fill="#3465a4"><title>Leslie</title></circle></a><a href="/setts/s12/r47k1r6w3dt2w3r6k13g2w2r2k13~x2/"><circle cx="394.0" cy="50.2" r="4" fill="#3465a4"><title>Trevison</title></circle></a><a href="/setts/s8/r4k6ly1k6r4db16r32db1/"><circle cx="353.2" cy="117.5" r="4" fill="#3465a4"><title>Leslie Dress</title></circle></a><a href="/setts/s11/r48k1lb1k6ly4r2ly4k8r2k1lb2~x2/"><circle cx="446.7" cy="52.4" r="4" fill="#3465a4"><title>Glennie (Personal)</title></circle></a><a href="/setts/s13/r4lb1db1r32lb2r2db12r2dg16r4lb1r4db2~x2/"><circle cx="365.1" cy="87.6" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/setts/s13/r6t1db1r57t2r2db23r4g30r6t1r6db2~x2/"><circle cx="391.7" cy="70.1" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/setts/s10/r52k5ly5k8o5dr5k2r6k1ly2~x2/"><circle cx="411.9" cy="49.0" r="4" fill="#3465a4"><title>Braemar, Castle</title></circle></a><a href="/setts/s8/r11w1r32k8db6k1db16k1~x2/"><circle cx="353.1" cy="114.0" r="4" fill="#3465a4"><title>Ostermeier (2015)</title></circle></a><a href="/setts/s8/lo3r2w1r40k37w3k3w3~x2/"><circle cx="328.8" cy="93.6" r="4" fill="#3465a4"><title>Marjoribanks (Clan)</title></circle></a><a href="/setts/s9/r60b15r4dt10w2dt10w2dt10r4~x2/"><circle cx="387.4" cy="111.0" r="4" fill="#3465a4"><title>Robberstad</title></circle></a><circle cx="400.8" cy="69.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r4k6ly1k6r4db16r32k1~x2/"><circle cx="360.2" cy="119.4" r="4" fill="#3465a4"><title>Leslie</title></circle></a><a href="/setts/s12/r47k1r6w3dt2w3r6k13g2w2r2k13~x2/"><circle cx="393.5" cy="50.1" r="4" fill="#3465a4"><title>Trevison</title></circle></a><a href="/setts/s8/r4k6ly1k6r4db16r32db1~x2/"><circle cx="353.0" cy="117.3" r="4" fill="#3465a4"><title>Leslie Dress</title></circle></a><a href="/setts/s11/r48k1lb1k6ly4r2ly4k8r2k1lb2~x2/"><circle cx="446.2" cy="52.2" r="4" fill="#3465a4"><title>Glennie (Personal)</title></circle></a><a href="/setts/s13/r4lb1db1r32lb2r2db12r2dg16r4lb1r4db2/"><circle cx="364.7" cy="87.5" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/setts/s13/r6t1db1r57t2r2db23r4g30r6t1r6db2~x2/"><circle cx="391.3" cy="70.0" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/setts/s10/r52k5ly5k8o5dr5k2r6k1ly2~x2/"><circle cx="411.4" cy="48.8" r="4" fill="#3465a4"><title>Braemar, Castle</title></circle></a><a href="/setts/s8/r11w1r32k8db6k1db16k1~x2/"><circle cx="352.7" cy="113.8" r="4" fill="#3465a4"><title>Ostermeier (2015)</title></circle></a><a href="/setts/s8/w3k3w3k37r40w1r2lo3~x2/"><circle cx="328.5" cy="93.4" r="4" fill="#3465a4"><title>Marjoribanks (Clan)</title></circle></a><a href="/setts/s9/r60b15r4dt10w2dt10w2dt10r4~x2/"><circle cx="387.0" cy="110.8" r="4" fill="#3465a4"><title>Robberstad</title></circle></a><circle cx="400.4" cy="69.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r60db8r4k11w2k11w2k11db1r4~x2/

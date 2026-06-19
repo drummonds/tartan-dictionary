@@ -2,7 +2,7 @@
 title: "Cape Breton"
 date: 2023-03-18
 ---
-**Bands:** [YKGKGKY](/stripes/ykgkgky/) · **Stripes:** [LY K G K Y K LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY K G K Y K LY</span></span>
+**Bands:** [YKGKGKY](/stripes/ykgkgky/) · **Stripes:** [LY K Y K G K LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY K Y K G K LY</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -908,19 +911,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Cape Breton District Tartan Tartan Number: 1883. Earliest known date: 1957 In 1907, Mrs Lillian Crewe Walsh of Glace Bay, Cape Breton, wrote a poem in praise of Cape Breton. This poem was given by Mrs Walsh to Mrs Grant in 1957 and the tartan designed to accord with the poem. Grey for our Cape Breton Steel, Green for our lofty See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/ly5k5g17k6o24k6ly3~x2/) — ΔT 0.79
 1. [MacKay, Dress (Corporate)](/setts/s6/k4g14k14g2w14b3~x2/) — ΔT 0.93
-1. [MacKay Dress](/setts/s6/b4w23g2k23g23k4~x2/) — ΔT 0.98
-1. [Dalveen (1981)](/setts/s8/dy3g2dy10g1w11k10g2k3~x6/) — ΔT 0.98
+1. [MacKay Dress](/setts/s6/k4g23k23g2w23b4~x2/) — ΔT 0.98
+1. [Dalveen (1981)](/setts/s8/k3g2k10w11g1dy10g2dy3~x6/) — ΔT 0.98
 1. [Cape Breton (yellow stripes)](/setts/s7/ly6k6y30k8lb18k6ly3~x2/) — ΔT 1.06
 1. [Hackett (Personal)](/setts/s7/k20w4r4g20w5g2g2~x2/) — ΔT 1.09
 1. [Lawson, William 2002](/setts/s7/k4w19k11dg15k3dg16ly3~x2/) — ΔT 1.11
 1. [Antrim](/setts/s10/g5k2g17ly2k5ly2r5k17g2ly4~x2/) — ΔT 1.12
 1. [National Trust](/setts/s8/dg2dr8dg8o3dr1w12dg2dr1~x2/) — ΔT 1.14
-1. [Unidentified #46](/setts/s9/w16dg2k5r2k10dg11ly2dg11k2~x2/) — ΔT 1.15
+1. [Unidentified #46](/setts/s9/w16dg2k5r2k10dg11ly2dg11k2~x2/) — ΔT 1.14
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly5k5g17k6o24k6ly3~x2/"><circle cx="152.5" cy="207.8" r="4" fill="#3465a4"><title>Cape Breton District Tartan Tartan Number: 1883. Earliest known date: 1957 In 1907, Mrs Lillian Crewe Walsh of Glace Bay, Cape Breton, wrote a poem in praise of Cape Breton. This poem was given by Mrs Walsh to Mrs Grant in 1957 and the tartan designed to accord with the poem. Grey for our Cape Breton Steel, Green for our lofty See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/k4g14k14g2w14b3~x2/"><circle cx="120.4" cy="222.6" r="4" fill="#3465a4"><title>MacKay, Dress (Corporate)</title></circle></a><a href="/setts/s6/b4w23g2k23g23k4~x2/"><circle cx="144.5" cy="194.9" r="4" fill="#3465a4"><title>MacKay Dress</title></circle></a><a href="/setts/s8/dy3g2dy10g1w11k10g2k3~x6/"><circle cx="126.3" cy="181.6" r="4" fill="#3465a4"><title>Dalveen (1981)</title></circle></a><a href="/setts/s7/ly6k6y30k8lb18k6ly3~x2/"><circle cx="148.2" cy="179.6" r="4" fill="#3465a4"><title>Cape Breton (yellow stripes)</title></circle></a><a href="/setts/s7/k20w4r4g20w5g2g2~x2/"><circle cx="153.4" cy="166.1" r="4" fill="#3465a4"><title>Hackett (Personal)</title></circle></a><a href="/setts/s7/k4w19k11dg15k3dg16ly3~x2/"><circle cx="148.5" cy="224.3" r="4" fill="#3465a4"><title>Lawson, William 2002</title></circle></a><a href="/setts/s10/g5k2g17ly2k5ly2r5k17g2ly4~x2/"><circle cx="170.0" cy="177.5" r="4" fill="#3465a4"><title>Antrim</title></circle></a><a href="/setts/s8/dg2dr8dg8o3dr1w12dg2dr1~x2/"><circle cx="144.1" cy="169.0" r="4" fill="#3465a4"><title>National Trust</title></circle></a><a href="/setts/s9/w16dg2k5r2k10dg11ly2dg11k2~x2/"><circle cx="124.7" cy="176.3" r="4" fill="#3465a4"><title>Unidentified #46</title></circle></a><circle cx="132.8" cy="200.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly5k5g17k6o24k6ly3~x2/"><circle cx="152.5" cy="207.8" r="4" fill="#3465a4"><title>Cape Breton District Tartan Tartan Number: 1883. Earliest known date: 1957 In 1907, Mrs Lillian Crewe Walsh of Glace Bay, Cape Breton, wrote a poem in praise of Cape Breton. This poem was given by Mrs Walsh to Mrs Grant in 1957 and the tartan designed to accord with the poem. Grey for our Cape Breton Steel, Green for our lofty See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/k4g14k14g2w14b3~x2/"><circle cx="120.4" cy="222.5" r="4" fill="#3465a4"><title>MacKay, Dress (Corporate)</title></circle></a><a href="/setts/s6/k4g23k23g2w23b4~x2/"><circle cx="144.5" cy="194.8" r="4" fill="#3465a4"><title>MacKay Dress</title></circle></a><a href="/setts/s8/k3g2k10w11g1dy10g2dy3~x6/"><circle cx="126.2" cy="181.6" r="4" fill="#3465a4"><title>Dalveen (1981)</title></circle></a><a href="/setts/s7/ly6k6y30k8lb18k6ly3~x2/"><circle cx="148.1" cy="179.5" r="4" fill="#3465a4"><title>Cape Breton (yellow stripes)</title></circle></a><a href="/setts/s7/k20w4r4g20w5g2g2~x2/"><circle cx="153.4" cy="166.0" r="4" fill="#3465a4"><title>Hackett (Personal)</title></circle></a><a href="/setts/s7/k4w19k11dg15k3dg16ly3~x2/"><circle cx="148.6" cy="224.2" r="4" fill="#3465a4"><title>Lawson, William 2002</title></circle></a><a href="/setts/s10/g5k2g17ly2k5ly2r5k17g2ly4~x2/"><circle cx="170.0" cy="177.4" r="4" fill="#3465a4"><title>Antrim</title></circle></a><a href="/setts/s8/dg2dr8dg8o3dr1w12dg2dr1~x2/"><circle cx="144.0" cy="168.9" r="4" fill="#3465a4"><title>National Trust</title></circle></a><a href="/setts/s9/w16dg2k5r2k10dg11ly2dg11k2~x2/"><circle cx="124.7" cy="176.2" r="4" fill="#3465a4"><title>Unidentified #46</title></circle></a><circle cx="132.8" cy="200.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/ly5k5g17k6y24k6ly3~x2/

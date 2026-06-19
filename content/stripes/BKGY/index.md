@@ -21,7 +21,7 @@ BKGY
 Grouped by stripe pattern — the 3 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### T K G LO <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">T K G LO</span></span>
+### LO G K T <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">LO G K T</span></span>
 
 | Tartans |
 |---------------|
@@ -30,14 +30,14 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 | [Wilson's, No 196](/setts/s4/lo9g9k10t2~x2/)|
 |![Wilson's, No 196 example sett](/setts/s4/lo9g9k10t2~x2/sett.png)|
 
-### B K G LY <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">B K G LY</span></span>
+### LY G K B <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LY G K B</span></span>
 
 | Tartans |
 |---------------|
 | [Sinclair of Ulbster (Portrait)](/setts/s4/b12k4g6ly1~x8/)|
 |![Sinclair of Ulbster (Portrait) example sett](/setts/s4/b12k4g6ly1~x8/sett.png)|
 
-### DB K G LY <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB K G LY</span></span>
+### LY G K DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LY G K DB</span></span>
 
 | Tartans |
 |---------------|

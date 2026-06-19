@@ -18,10 +18,10 @@ WRKRKRKBGBGBGY
 
 
 
-### W M K M K M K DB DG DB DG DB DG LO <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">W M K M K M K DB DG DB DG DB DG LO</span></span>
+### LO DG DB DG DB DG DB K M K M K M W <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO DG DB DG DB DG DB K M K M K M W</span></span>
 
 | Tartans |
 |---------------|
-| [Gotts (Personal)](/setts/s14/lo2dg19db2dg2db3dg2db8k8m2k3m2k2m19w2~x2/)|
-|![Gotts (Personal) example sett](/setts/s14/lo2dg19db2dg2db3dg2db8k8m2k3m2k2m19w2~x2/sett.png)|
+| [Gotts (Personal)](/setts/s14/w2m19k2m2k3m2k8db8dg2db3dg2db2dg19lo2~x2/)|
+|![Gotts (Personal) example sett](/setts/s14/w2m19k2m2k3m2k8db8dg2db3dg2db2dg19lo2~x2/sett.png)|
 

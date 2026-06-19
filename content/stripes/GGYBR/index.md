@@ -20,7 +20,7 @@ GGYBR
 
 
 
-### DG G LY T O <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DG G LY T O</span></span>
+### O T LY G DG <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="seq">O T LY G DG</span></span>
 
 | Tartans |
 |---------------|

@@ -21,7 +21,7 @@ RGRGRYR
 Grouped by stripe pattern — the 3 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### R G R G R LY R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G R G R LY R</span></span>
+### R LY R G R G R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LY R G R G R</span></span>
 
 | Tartans |
 |---------------|
@@ -30,14 +30,14 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 | [Cameron, Ancient](/setts/s7/r58ly3r6g16r12g16r6/)|
 |![Cameron, Ancient example sett](/setts/s7/r58ly3r6g16r12g16r6/sett.png)|
 
-### O DG O DG O LR R <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="seq">O DG O DG O LR R</span></span>
+### R LR O DG O DG O <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R LR O DG O DG O</span></span>
 
 | Tartans |
 |---------------|
 | [Wasko (Personal)](/setts/s7/r8lr2o30dg12o3dg12o3~x2/)|
 |![Wasko (Personal) example sett](/setts/s7/r8lr2o30dg12o3dg12o3~x2/sett.png)|
 
-### R DG R DG R LY R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG R DG R LY R</span></span>
+### R LY R DG R DG R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LY R DG R DG R</span></span>
 
 | Tartans |
 |---------------|

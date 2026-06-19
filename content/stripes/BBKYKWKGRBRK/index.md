@@ -19,7 +19,7 @@ BBKYKWKGRBRK
 Grouped by stripe pattern — the 3 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB T K LY K W K G R T R K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">DB T K LY K W K G R T R K</span></span>
+### K R T R G K W K LY K T DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">K R T R G K W K LY K T DB</span></span>
 
 | Tartans |
 |---------------|
@@ -28,14 +28,14 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 | [MacLean of Duart 5](/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x2/)|
 |![MacLean of Duart 5 example sett](/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x2/sett.png)|
 
-### DO T K LY K W K DG R T R K <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">DO T K LY K W K DG R T R K</span></span>
+### K R T R DG K W K LY K T DO <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#412714"></span><span class="seq">K R T R DG K W K LY K T DO</span></span>
 
 | Tartans |
 |---------------|
 | [MacLean (rare)](/setts/s12/do9t5k8ly2k4w4k4dg28r44t4r5k3~x2/)|
 |![MacLean (rare) example sett](/setts/s12/do9t5k8ly2k4w4k4dg28r44t4r5k3~x2/sett.png)|
 
-### DO T K LY K W K G R T R K <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">DO T K LY K W K G R T R K</span></span>
+### K R T R G K W K LY K T DO <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#412714"></span><span class="seq">K R T R G K W K LY K T DO</span></span>
 
 | Tartans |
 |---------------|

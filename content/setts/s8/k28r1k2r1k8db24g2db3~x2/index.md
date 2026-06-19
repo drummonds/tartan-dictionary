@@ -2,12 +2,19 @@
 title: "Home, or Hume"
 date: 2023-03-18
 ---
-**Bands:** [BGBKRKRK](/stripes/bgbkrkrk/) · **Stripes:** [DB G DB K R K R K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">DB G DB K R K R K</span></span>
+**Bands:** [KRKRKBGB](/stripes/krkrkbgb/) · **Stripes:** [K R K R K DB G DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">K R K R K DB G DB</span></span>
 
 
 This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Home or Hume
+- Home, or Hume
 
 ## Attestations
 
@@ -318,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +902,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/6 G4 B48 K16 R2 K4 R2 K/56
+K/56 R2 K4 R2 K16 B48 G4 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -907,7 +917,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/6 G4 B48 K16 R2 K4 R2 K/56 tartan")
+![Tartan detail](tartan.png "K/56 R2 K4 R2 K16 B48 G4 B/6 tartan")
 
 ## Nearest tartans
 
@@ -921,13 +931,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Dunlop](/setts/s8/k3r1k30w1db28r1db1w3~x2/) — ΔT 1.49
 1. [Pride of Nova Scotia (Corporate)](/setts/s7/k3lo2k36dt16k5dt2w3~x2/) — ΔT 1.49
 1. [Stewart of Bute Hunting Clan/Family Tartan Tartan Number: 5175. Earliest known date: 01/01/2002 No details known. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/k22g11k2g4k2g6k16k40k2lb6~x2/) — ΔT 1.56
-1. [Home](/setts/s8/k28r1k2r1k8db24dg2db3/) — ΔT 1.57
 1. [Niagara Region](/setts/s12/w4k2w2k28dt4k2dt2r1k13r1dg13r2~x2/) — ΔT 1.58
+1. [Arbroath Smokie Corporate Tartan Tartan Number: 6596. Earliest known date: 01/01/2005 Designed by Heather Yellowly of the Strathmore Woollen Co, of Forfar for Campbell Scott of Arbroath Fisheries. The tartan celebrates the European protective geographical status being awarded to the Arbroath Smokie - one of only a few food products to have been awarded this status. Colours: red represents the sandstone of Arbroath Abbey where the Declaration of Independence was signed in 1320; blue and white represent the sea; the red glow of the smokie barrel and the golden yellow of the delicacy itself. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/lo1k45dt23w1dt6r2lo1r2lo1~x2/) — ΔT 1.58
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k8ly1k1db28k12g2k1t2~x2/"><circle cx="320.5" cy="125.7" r="4" fill="#3465a4"><title>Hope-Weir / Weir</title></circle></a><a href="/setts/s6/k4w2k28db30k1db3~x2/"><circle cx="364.5" cy="179.0" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/setts/s9/k3r1k32db28r1db2r1db2r3~x2/"><circle cx="365.7" cy="139.4" r="4" fill="#3465a4"><title>Angus</title></circle></a><a href="/setts/s12/db4w1db30k15p4db2k2db2k10db4p2db2~x2/"><circle cx="365.1" cy="126.3" r="4" fill="#3465a4"><title>Scotland's Own</title></circle></a><a href="/setts/s7/r4k9dg9k40r2k2w2~x2/"><circle cx="358.5" cy="146.9" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen' (Personal)</title></circle></a><a href="/setts/s8/k3r1k30w1db28r1db1w3~x2/"><circle cx="359.5" cy="139.2" r="4" fill="#3465a4"><title>Dunlop</title></circle></a><a href="/setts/s7/k3lo2k36dt16k5dt2w3~x2/"><circle cx="414.1" cy="177.5" r="4" fill="#3465a4"><title>Pride of Nova Scotia (Corporate)</title></circle></a><a href="/setts/s10/k22g11k2g4k2g6k16k40k2lb6~x2/"><circle cx="323.6" cy="163.6" r="4" fill="#3465a4"><title>Stewart of Bute Hunting Clan/Family Tartan Tartan Number: 5175. Earliest known date: 01/01/2002 No details known. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/k28r1k2r1k8db24dg2db3/"><circle cx="410.4" cy="179.3" r="4" fill="#3465a4"><title>Home</title></circle></a><a href="/setts/s12/w4k2w2k28dt4k2dt2r1k13r1dg13r2~x2/"><circle cx="339.7" cy="110.8" r="4" fill="#3465a4"><title>Niagara Region</title></circle></a><circle cx="368.4" cy="152.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k8ly1k1db28k12g2k1t2~x2/"><circle cx="320.6" cy="125.7" r="4" fill="#3465a4"><title>Hope-Weir / Weir</title></circle></a><a href="/setts/s6/k4w2k28db30k1db3~x2/"><circle cx="364.6" cy="178.8" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/setts/s9/k3r1k32db28r1db2r1db2r3~x2/"><circle cx="365.7" cy="139.3" r="4" fill="#3465a4"><title>Angus</title></circle></a><a href="/setts/s12/db4w1db30k15p4db2k2db2k10db4p2db2~x2/"><circle cx="365.1" cy="126.2" r="4" fill="#3465a4"><title>Scotland's Own</title></circle></a><a href="/setts/s7/r4k9dg9k40r2k2w2~x2/"><circle cx="358.5" cy="146.8" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen' (Personal)</title></circle></a><a href="/setts/s8/k3r1k30w1db28r1db1w3~x2/"><circle cx="359.5" cy="139.2" r="4" fill="#3465a4"><title>Dunlop</title></circle></a><a href="/setts/s7/k3lo2k36dt16k5dt2w3~x2/"><circle cx="414.2" cy="177.3" r="4" fill="#3465a4"><title>Pride of Nova Scotia (Corporate)</title></circle></a><a href="/setts/s10/k22g11k2g4k2g6k16k40k2lb6~x2/"><circle cx="323.7" cy="163.5" r="4" fill="#3465a4"><title>Stewart of Bute Hunting Clan/Family Tartan Tartan Number: 5175. Earliest known date: 01/01/2002 No details known. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/w4k2w2k28dt4k2dt2r1k13r1dg13r2~x2/"><circle cx="339.7" cy="110.7" r="4" fill="#3465a4"><title>Niagara Region</title></circle></a><a href="/setts/s9/lo1k45dt23w1dt6r2lo1r2lo1~x2/"><circle cx="382.1" cy="99.6" r="4" fill="#3465a4"><title>Arbroath Smokie Corporate Tartan Tartan Number: 6596. Earliest known date: 01/01/2005 Designed by Heather Yellowly of the Strathmore Woollen Co, of Forfar for Campbell Scott of Arbroath Fisheries. The tartan celebrates the European protective geographical status being awarded to the Arbroath Smokie - one of only a few food products to have been awarded this status. Colours: red represents the sandstone of Arbroath Abbey where the Declaration of Independence was signed in 1320; blue and white represent the sea; the red glow of the smokie barrel and the golden yellow of the delicacy itself. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="368.5" cy="152.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k28r1k2r1k8db24g2db3~x2/

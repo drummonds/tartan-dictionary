@@ -2,12 +2,18 @@
 title: "Unidentified #11"
 date: 2023-03-18
 ---
-**Bands:** [BKBKRYRKWKWKWKY](/stripes/bkbkryrkwkwkwky/) · **Stripes:** [DB K DB K R LY R K W K W K W K LY](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB K DB K R LY R K W K W K W K LY</span></span>
+**Bands:** [YKWKWKWKRYRKBKB](/stripes/ykwkwkwkryrkbkb/) · **Stripes:** [LY K W K W K W K R LY R K DB K DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K W K W K W K R LY R K DB K DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4212
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified #11
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,14 +926,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Kinloch Anderson Dress](/setts/s12/r8w30y5w8y5k12w6k12db28r4db8r8/) — ΔT 0.94
 1. [Alaskan Scottish](/setts/s17/w4t1dg9t9r9t1ly4t1r9t9dg1t1dg1t1dg4t1w4~x2/) — ΔT 0.99
 1. [Edinburgh Military Tattoo (Dance)](/setts/s14/k4r6db3r16t18w4k4w4k4w4k4w4db18r4~x2/) — ΔT 0.99
-1. [Carnegie #2](/setts/s14/db10r2db2r4db12r2k14w13r4w2r2w4r1ly3~x2/) — ΔT 0.99
+1. [Carnegie #2](/setts/s14/db10r2db2r4db12r2k14w13r4w2r2w4r1ly3~x2/) — ΔT 1.00
 1. [MacInnes Hunting Dress Clan Tartan Tartan Number: 1614. Earliest known date: pre 2003 Could also be Dress Red MacPherson See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/w8db3w10dy8ly2k4db3k2db3k2r3w1k2r2~x2/) — ΔT 1.04
-1. [Cameron of Erracht Dress](/setts/s11/ly2k2r2db10r1k9w9r2w2r1w2~x2/) — ΔT 1.04
+1. [Cameron of Erracht Dress](/setts/s11/w2r1w2r2w9k9r1db10r2k2ly2~x2/) — ΔT 1.04
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/w4db1g9db9r9db1ly4db1r9db9g1db1g1db1g4db1w4~x2/"><circle cx="105.1" cy="130.9" r="4" fill="#3465a4"><title>Alaskan Scottish</title></circle></a><a href="/setts/s11/r16k6r14dg22k16db16w10r6w45k4r4/"><circle cx="99.4" cy="135.6" r="4" fill="#3465a4"><title>MacDuff Dress #4</title></circle></a><a href="/setts/s11/r16k6r14g22k16db16w10r6w45k4r4/"><circle cx="93.2" cy="136.0" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/setts/s13/w8r2w2r6w13r2k13dg13r6dg2r2dg4ly3~x2/"><circle cx="61.8" cy="153.1" r="4" fill="#3465a4"><title>Carnegie Dress</title></circle></a><a href="/setts/s12/r8w30y5w8y5k12w6k12db28r4db8r8/"><circle cx="66.5" cy="151.4" r="4" fill="#3465a4"><title>Kinloch Anderson Dress</title></circle></a><a href="/setts/s17/w4t1dg9t9r9t1ly4t1r9t9dg1t1dg1t1dg4t1w4~x2/"><circle cx="107.9" cy="130.7" r="4" fill="#3465a4"><title>Alaskan Scottish</title></circle></a><a href="/setts/s14/k4r6db3r16t18w4k4w4k4w4k4w4db18r4~x2/"><circle cx="43.8" cy="150.8" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo (Dance)</title></circle></a><a href="/setts/s14/db10r2db2r4db12r2k14w13r4w2r2w4r1ly3~x2/"><circle cx="106.5" cy="117.2" r="4" fill="#3465a4"><title>Carnegie #2</title></circle></a><a href="/setts/s14/w8db3w10dy8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="64.7" cy="123.4" r="4" fill="#3465a4"><title>MacInnes Hunting Dress Clan Tartan Tartan Number: 1614. Earliest known date: pre 2003 Could also be Dress Red MacPherson See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/ly2k2r2db10r1k9w9r2w2r1w2~x2/"><circle cx="88.1" cy="130.2" r="4" fill="#3465a4"><title>Cameron of Erracht Dress</title></circle></a><circle cx="61.9" cy="134.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/w4db1g9db9r9db1ly4db1r9db9g1db1g1db1g4db1w4~x2/"><circle cx="105.0" cy="130.9" r="4" fill="#3465a4"><title>Alaskan Scottish</title></circle></a><a href="/setts/s11/r16k6r14dg22k16db16w10r6w45k4r4/"><circle cx="99.3" cy="135.6" r="4" fill="#3465a4"><title>MacDuff Dress #4</title></circle></a><a href="/setts/s11/r16k6r14g22k16db16w10r6w45k4r4/"><circle cx="93.1" cy="136.0" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/setts/s13/w8r2w2r6w13r2k13dg13r6dg2r2dg4ly3~x2/"><circle cx="61.7" cy="153.1" r="4" fill="#3465a4"><title>Carnegie Dress</title></circle></a><a href="/setts/s12/r8w30y5w8y5k12w6k12db28r4db8r8/"><circle cx="66.5" cy="151.4" r="4" fill="#3465a4"><title>Kinloch Anderson Dress</title></circle></a><a href="/setts/s17/w4t1dg9t9r9t1ly4t1r9t9dg1t1dg1t1dg4t1w4~x2/"><circle cx="107.7" cy="130.8" r="4" fill="#3465a4"><title>Alaskan Scottish</title></circle></a><a href="/setts/s14/k4r6db3r16t18w4k4w4k4w4k4w4db18r4~x2/"><circle cx="43.8" cy="150.9" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo (Dance)</title></circle></a><a href="/setts/s14/db10r2db2r4db12r2k14w13r4w2r2w4r1ly3~x2/"><circle cx="106.4" cy="117.2" r="4" fill="#3465a4"><title>Carnegie #2</title></circle></a><a href="/setts/s14/w8db3w10dy8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="64.6" cy="123.4" r="4" fill="#3465a4"><title>MacInnes Hunting Dress Clan Tartan Tartan Number: 1614. Earliest known date: pre 2003 Could also be Dress Red MacPherson See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w2r1w2r2w9k9r1db10r2k2ly2~x2/"><circle cx="88.0" cy="130.2" r="4" fill="#3465a4"><title>Cameron of Erracht Dress</title></circle></a><circle cx="61.8" cy="134.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/db2k1db6k1r5ly3r5k2w3k2w9k1w2k1ly2~x2/

@@ -21,14 +21,14 @@ RBBBRBBR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### O DB DB DB O DB DB O <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O DB DB DB O DB DB O</span></span>
+### O DB DB O DB DB DB O <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O DB DB O DB DB DB O</span></span>
 
 | Tartans |
 |---------------|
 | [Daks, Muted blue](/setts/s8/o5db12db4o4db22db3db4o5/)|
 |![Daks, Muted blue example sett](/setts/s8/o5db12db4o4db22db3db4o5/sett.png)|
 
-### O DR T DR R DR T O <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O DR T DR R DR T O</span></span>
+### O T DR R DR T DR O <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O T DR R DR T DR O</span></span>
 
 | Tartans |
 |---------------|

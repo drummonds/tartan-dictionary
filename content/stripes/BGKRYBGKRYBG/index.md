@@ -18,10 +18,10 @@ BGKRYBGKRYBG
 
 
 
-### B G K R LY B G K R LY B G <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="seq">B G K R LY B G K R LY B G</span></span>
+### G B LY R K G B LY R K G B <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="seq">G B LY R K G B LY R K G B</span></span>
 
 | Tartans |
 |---------------|
-| [Chieftain's](/setts/s12/b8g8k1r1ly1b2g2k1r1ly1b8g8~x4/)|
-|![Chieftain's example sett](/setts/s12/b8g8k1r1ly1b2g2k1r1ly1b8g8~x4/sett.png)|
+| [Chieftain's](/setts/s12/g8b8ly1r1k1g2b2ly1r1k1g8b8~x4/)|
+|![Chieftain's example sett](/setts/s12/g8b8ly1r1k1g2b2ly1r1k1g8b8~x4/sett.png)|
 

@@ -2,7 +2,7 @@
 title: "Styrian"
 date: 2023-03-18
 ---
-**Bands:** [RGBGBGRR](/stripes/rgbgbgrr/) · **Stripes:** [O DG N G N DG O R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">O DG N G N DG O R</span></span>
+**Bands:** [RRGBGBGR](/stripes/rrgbgbgr/) · **Stripes:** [R O DG N G N DG O](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R O DG N G N DG O</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5839
 
 ## Thread count
-DRa/8 Nb32 DG58 Na38 G16 Na38 DG58 Nb/32
+Nb/32 DG58 Na38 G16 Na38 DG58 Nb32 DRa/8
 ![Sett](sett.png)
 
 ## Palette
@@ -40,7 +40,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DRa/8 Nb32 DG58 Na38 G16 Na38 DG58 Nb/32 tartan")
+![Tartan detail](tartan.png "Nb/32 DG58 Na38 G16 Na38 DG58 Nb32 DRa/8 tartan")
 
 ## Nearest tartans
 
@@ -48,9 +48,9 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacDuff Hunting Clan Tartan Tartan Number: 1654. Earliest known date: 1906 STS records (sic) 'Sett may be quite wrong. (S.S. May 86)' See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/dy8r1dy8g8k8db8dy8r2~x2/) — ΔT 1.11
 1. [Tennant Family Tartan Tartan Number: 1653. Earliest known date: 1930 MacGregor-Hastie made few notes about his sample collection. In December 1967, Captain Tennant wrote to the Scottish Tartans Society, saying, ".. and I have no objection to other Tennants wearing it (Tennant tartan) but their problem will be to get hold of it ... I don't know of any other Tennant tartan and that is why I think my father designed this one." The head of the Tennant family is Lord Glenconner, descended from John Tennant of Blairston, Ayr. (1635). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r1dy7db7k7g7dy7r1~x4/) — ΔT 1.14
-1. [Tennant (Yules)](/setts/s7/r1db7g7db7g7dy7r1~x8/) — ΔT 1.15
+1. [Tennant (Yules)](/setts/s7/r1dy7g7db7g7db7r1~x8/) — ΔT 1.15
 1. [Styrian (Fashion)](/setts/s5/g8n19dg29o16r4~x2/) — ΔT 1.17
-1. [Tennant (Clan)](/setts/s7/r1dy7b7k7g7dy7r1~x4/) — ΔT 1.18
+1. [Tennant (Clan)](/setts/s7/r1dy7g7k7b7dy7r1~x4/) — ΔT 1.18
 1. [Dorward/Dogwood](/setts/s7/dy7r3dy9g15db19dy14r4~x2/) — ΔT 1.29
 1. [Dorward](/setts/s7/o7r3o9g15db19o14r4~x2/) — ΔT 1.29
 1. [MacKay - 1800 (Reay Coat) (Artefact)](/setts/s7/dy9g9ly2g9dy9b9dy3~x2/) — ΔT 1.39
@@ -59,8 +59,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dy8r1dy8g8k8db8dy8r2~x2/"><circle cx="215.7" cy="263.7" r="4" fill="#3465a4"><title>MacDuff Hunting Clan Tartan Tartan Number: 1654. Earliest known date: 1906 STS records (sic) 'Sett may be quite wrong. (S.S. May 86)' See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r1dy7db7k7g7dy7r1~x4/"><circle cx="167.4" cy="261.0" r="4" fill="#3465a4"><title>Tennant Family Tartan Tartan Number: 1653. Earliest known date: 1930 MacGregor-Hastie made few notes about his sample collection. In December 1967, Captain Tennant wrote to the Scottish Tartans Society, saying, &quot;.. and I have no objection to other Tennants wearing it (Tennant tartan) but their problem will be to get hold of it ... I don't know of any other Tennant tartan and that is why I think my father designed this one.&quot; The head of the Tennant family is Lord Glenconner, descended from John Tennant of Blairston, Ayr. (1635). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r1db7g7db7g7dy7r1~x8/"><circle cx="208.2" cy="280.4" r="4" fill="#3465a4"><title>Tennant (Yules)</title></circle></a><a href="/setts/s5/g8n19dg29o16r4~x2/"><circle cx="194.6" cy="273.1" r="4" fill="#3465a4"><title>Styrian (Fashion)</title></circle></a><a href="/setts/s7/r1dy7b7k7g7dy7r1~x4/"><circle cx="151.4" cy="253.2" r="4" fill="#3465a4"><title>Tennant (Clan)</title></circle></a><a href="/setts/s7/dy7r3dy9g15db19dy14r4~x2/"><circle cx="229.6" cy="279.7" r="4" fill="#3465a4"><title>Dorward/Dogwood</title></circle></a><a href="/setts/s7/o7r3o9g15db19o14r4~x2/"><circle cx="230.3" cy="278.1" r="4" fill="#3465a4"><title>Dorward</title></circle></a><a href="/setts/s7/dy9g9ly2g9dy9b9dy3~x2/"><circle cx="211.1" cy="313.2" r="4" fill="#3465a4"><title>MacKay - 1800 (Reay Coat) (Artefact)</title></circle></a><a href="/setts/s8/do10r2do10g17k12db9do9r2~x2/"><circle cx="191.4" cy="248.7" r="4" fill="#3465a4"><title>MacDuff Hunting</title></circle></a><a href="/setts/s6/db11g15k2n5db3n11~x2/"><circle cx="185.8" cy="261.6" r="4" fill="#3465a4"><title>Saorsa (Corporate)</title></circle></a><circle cx="195.0" cy="266.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dy8r1dy8g8k8db8dy8r2~x2/"><circle cx="215.8" cy="263.8" r="4" fill="#3465a4"><title>MacDuff Hunting Clan Tartan Tartan Number: 1654. Earliest known date: 1906 STS records (sic) 'Sett may be quite wrong. (S.S. May 86)' See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r1dy7db7k7g7dy7r1~x4/"><circle cx="167.6" cy="261.1" r="4" fill="#3465a4"><title>Tennant Family Tartan Tartan Number: 1653. Earliest known date: 1930 MacGregor-Hastie made few notes about his sample collection. In December 1967, Captain Tennant wrote to the Scottish Tartans Society, saying, &quot;.. and I have no objection to other Tennants wearing it (Tennant tartan) but their problem will be to get hold of it ... I don't know of any other Tennant tartan and that is why I think my father designed this one.&quot; The head of the Tennant family is Lord Glenconner, descended from John Tennant of Blairston, Ayr. (1635). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r1dy7g7db7g7db7r1~x8/"><circle cx="208.3" cy="280.5" r="4" fill="#3465a4"><title>Tennant (Yules)</title></circle></a><a href="/setts/s5/g8n19dg29o16r4~x2/"><circle cx="194.8" cy="273.2" r="4" fill="#3465a4"><title>Styrian (Fashion)</title></circle></a><a href="/setts/s7/r1dy7g7k7b7dy7r1~x4/"><circle cx="151.6" cy="253.3" r="4" fill="#3465a4"><title>Tennant (Clan)</title></circle></a><a href="/setts/s7/dy7r3dy9g15db19dy14r4~x2/"><circle cx="229.6" cy="279.8" r="4" fill="#3465a4"><title>Dorward/Dogwood</title></circle></a><a href="/setts/s7/o7r3o9g15db19o14r4~x2/"><circle cx="230.3" cy="278.2" r="4" fill="#3465a4"><title>Dorward</title></circle></a><a href="/setts/s7/dy9g9ly2g9dy9b9dy3~x2/"><circle cx="211.1" cy="313.2" r="4" fill="#3465a4"><title>MacKay - 1800 (Reay Coat) (Artefact)</title></circle></a><a href="/setts/s8/do10r2do10g17k12db9do9r2~x2/"><circle cx="191.5" cy="248.8" r="4" fill="#3465a4"><title>MacDuff Hunting</title></circle></a><a href="/setts/s6/db11g15k2n5db3n11~x2/"><circle cx="186.0" cy="261.8" r="4" fill="#3465a4"><title>Saorsa (Corporate)</title></circle></a><circle cx="195.1" cy="266.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/o16dg29n19g8n19dg29o16r4~x2/

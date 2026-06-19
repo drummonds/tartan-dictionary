@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3166
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Norwell )
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -47,7 +53,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Kilmorie](/setts/s11/k3r30g10k3ly2k3w2k6r2db12w2~x2/) — ΔT 0.30
 1. [Brown of Castledean (Artefact)](/setts/s14/db12r30db2lb2k8lb2k4ly2k4dg15r8k2r4lb2~x2/) — ΔT 0.58
-1. [Gordon of Abergeldie](/setts/s10/r63w4k4dp18ly4dg50ly4dp18k4w4~x2/) — ΔT 0.74
+1. [Gordon of Abergeldie](/setts/s10/r63w4k4dp18ly4dg50~x2/) — ΔT 0.74
 1. [MacLean of Duart #4](/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/) — ΔT 0.78
 1. [Maclean of Duart (Wilsons) (Clan)](/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/) — ΔT 0.79
 1. [MacLean Variation](/setts/s11/dp45k12ly4k4w6k4dg50r57dp4r10k4~x2/) — ΔT 0.81
@@ -58,8 +64,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k3r30g10k3ly2k3w2k6r2db12w2~x2/"><circle cx="190.2" cy="96.2" r="4" fill="#3465a4"><title>Kilmorie</title></circle></a><a href="/setts/s14/db12r30db2lb2k8lb2k4ly2k4dg15r8k2r4lb2~x2/"><circle cx="190.7" cy="96.4" r="4" fill="#3465a4"><title>Brown of Castledean (Artefact)</title></circle></a><a href="/setts/s10/r63w4k4dp18ly4dg50ly4dp18k4w4~x2/"><circle cx="183.5" cy="100.3" r="4" fill="#3465a4"><title>Gordon of Abergeldie</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/"><circle cx="161.2" cy="101.1" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/"><circle cx="178.8" cy="101.3" r="4" fill="#3465a4"><title>Maclean of Duart (Wilsons) (Clan)</title></circle></a><a href="/setts/s11/dp45k12ly4k4w6k4dg50r57dp4r10k4~x2/"><circle cx="153.2" cy="104.4" r="4" fill="#3465a4"><title>MacLean Variation</title></circle></a><a href="/setts/s11/p45k12ly4k4w6k4g50r57p4r10k4~x2/"><circle cx="142.2" cy="98.5" r="4" fill="#3465a4"><title>MacLean, Variation</title></circle></a><a href="/setts/s15/db6k3r4k2r27k12db10k3ly2k3dg12r10w2r3k3~x2/"><circle cx="178.8" cy="103.5" r="4" fill="#3465a4"><title>Unidentified #16</title></circle></a><a href="/setts/s11/t8k4ly1k2w3k2dg12r24t2r3k2~x2/"><circle cx="206.3" cy="79.9" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/setts/s10/db4ly3db17g6w2dr6w2r24dr3r4~x2/"><circle cx="176.6" cy="126.2" r="4" fill="#3465a4"><title>Asman Family</title></circle></a><circle cx="189.8" cy="101.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k3r30g10k3ly2k3w2k6r2db12w2~x2/"><circle cx="190.0" cy="96.3" r="4" fill="#3465a4"><title>Kilmorie</title></circle></a><a href="/setts/s14/db12r30db2lb2k8lb2k4ly2k4dg15r8k2r4lb2~x2/"><circle cx="190.6" cy="96.6" r="4" fill="#3465a4"><title>Brown of Castledean (Artefact)</title></circle></a><a href="/setts/s10/r63w4k4dp18ly4dg50~x2/"><circle cx="183.3" cy="100.4" r="4" fill="#3465a4"><title>Gordon of Abergeldie</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/"><circle cx="161.0" cy="101.2" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/"><circle cx="178.6" cy="101.4" r="4" fill="#3465a4"><title>Maclean of Duart (Wilsons) (Clan)</title></circle></a><a href="/setts/s11/dp45k12ly4k4w6k4dg50r57dp4r10k4~x2/"><circle cx="153.1" cy="104.6" r="4" fill="#3465a4"><title>MacLean Variation</title></circle></a><a href="/setts/s11/p45k12ly4k4w6k4g50r57p4r10k4~x2/"><circle cx="142.1" cy="98.6" r="4" fill="#3465a4"><title>MacLean, Variation</title></circle></a><a href="/setts/s15/db6k3r4k2r27k12db10k3ly2k3dg12r10w2r3k3~x2/"><circle cx="178.7" cy="103.6" r="4" fill="#3465a4"><title>Unidentified #16</title></circle></a><a href="/setts/s11/t8k4ly1k2w3k2dg12r24t2r3k2~x2/"><circle cx="206.0" cy="80.0" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/setts/s10/db4ly3db17g6w2dr6w2r24dr3r4~x2/"><circle cx="176.5" cy="126.3" r="4" fill="#3465a4"><title>Asman Family</title></circle></a><circle cx="189.6" cy="101.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/r4k4r32g4w3g4k13g3db18r2ly3~x2/

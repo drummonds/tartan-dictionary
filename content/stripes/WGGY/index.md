@@ -20,7 +20,7 @@ WGGY
 
 
 
-### LB Y DY LY <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LB Y DY LY</span></span>
+### LY DY Y LB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LY DY Y LB</span></span>
 
 | Tartans |
 |---------------|

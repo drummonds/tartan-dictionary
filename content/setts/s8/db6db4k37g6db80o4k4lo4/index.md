@@ -2,12 +2,18 @@
 title: "Law Enforcement Officers' Memorial"
 date: 2023-03-18
 ---
-**Bands:** [BBKGBRKY](/stripes/bbkgbrky/) · **Stripes:** [DB DB K G DB O K LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DB DB K G DB O K LO</span></span>
+**Bands:** [YKRBGKBB](/stripes/ykrbgkbb/) · **Stripes:** [LO K O DB G K DB DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">LO K O DB G K DB DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5506
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Law Enforcement Officers' Mem. (Cor
 
 ## Attestations
 
@@ -48,20 +54,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Bavidge (Personal)](/setts/s12/db92k14db18b5db5b5db5dg32dp16k5dp7ly8/) — ΔT 1.12
-1. [Pagus Wasia District Tartan Tartan Number: 10962. Earliest known date: 2012 Pagus (shire) Wasia (wetland) is a rural district in Belgium. The tartan was created by the founding members of the new Pagus Wasia Pipes & Drums, based on the colours of the District Coat of Arms. The district is associated with the Belgian surname, Waas. Registration was authorised by Marc Van de Vijver, Mayor of the city of Beveren. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/ly1db2ly1db3n19dt3n1db2r1~x4/) — ΔT 1.18
+1. [Pagus Wasia District Tartan Tartan Number: 10962. Earliest known date: 2012 Pagus (shire) Wasia (wetland) is a rural district in Belgium. The tartan was created by the founding members of the new Pagus Wasia Pipes & Drums, based on the colours of the District Coat of Arms. The district is associated with the Belgian surname, Waas. Registration was authorised by Marc Van de Vijver, Mayor of the city of Beveren. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/r1db2n1dt3n19db3ly1db2ly1~x4/) — ΔT 1.18
 1. [Dama Weekend (Fashion)](/setts/s11/db42n2db2n4y4lo2y6k9y2k2r2~x2/) — ΔT 1.25
-1. [Scottish Heather](/setts/s9/db1p1g3dp6db2k32db2dp12w1~x2/) — ΔT 1.28
 1. [Stewmann (Personal)](/setts/s9/dg24t4dg3db11dp8db37k3db2r4~x2/) — ΔT 1.28
+1. [Scottish Heather](/setts/s9/db1p1g3dp6db2k32db2dp12w1~x2/) — ΔT 1.28
 1. [Hope-Weir/Weir](/setts/s8/k8ly1k1db28k12dg2k1t2~x2/) — ΔT 1.33
-1. [Wcwm 9275-1395](/setts/s7/db6dp3db56k24g6r6g6/) — ΔT 1.34
+1. [Wcwm 9275-1395](/setts/s7/db6dp3db56k24g6r6g6/) — ΔT 1.33
 1. [Plymouth Armada (Commemorative)](/setts/s12/db40r2db7db5dr2db3w2db10o6db2o4w2~x2/) — ΔT 1.35
 1. [Vonarb, Alfred (Personal)](/setts/s7/t6dt3n10db2dt2dt45lr2~x2/) — ΔT 1.37
 1. [Incorporation of Weavers (Glasgow)](/setts/s9/db3o3db36db7k3db6g5k1ly3~x2/) — ΔT 1.37
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db92k14db18b5db5b5db5dg32dp16k5dp7ly8/"><circle cx="336.3" cy="127.3" r="4" fill="#3465a4"><title>Bavidge (Personal)</title></circle></a><a href="/setts/s9/ly1db2ly1db3n19dt3n1db2r1~x4/"><circle cx="398.1" cy="145.7" r="4" fill="#3465a4"><title>Pagus Wasia District Tartan Tartan Number: 10962. Earliest known date: 2012 Pagus (shire) Wasia (wetland) is a rural district in Belgium. The tartan was created by the founding members of the new Pagus Wasia Pipes &amp; Drums, based on the colours of the District Coat of Arms. The district is associated with the Belgian surname, Waas. Registration was authorised by Marc Van de Vijver, Mayor of the city of Beveren. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/db42n2db2n4y4lo2y6k9y2k2r2~x2/"><circle cx="367.3" cy="117.7" r="4" fill="#3465a4"><title>Dama Weekend (Fashion)</title></circle></a><a href="/setts/s9/db1p1g3dp6db2k32db2dp12w1~x2/"><circle cx="366.7" cy="121.2" r="4" fill="#3465a4"><title>Scottish Heather</title></circle></a><a href="/setts/s9/dg24t4dg3db11dp8db37k3db2r4~x2/"><circle cx="325.8" cy="165.2" r="4" fill="#3465a4"><title>Stewmann (Personal)</title></circle></a><a href="/setts/s8/k8ly1k1db28k12dg2k1t2~x2/"><circle cx="370.8" cy="149.7" r="4" fill="#3465a4"><title>Hope-Weir/Weir</title></circle></a><a href="/setts/s7/db6dp3db56k24g6r6g6/"><circle cx="358.4" cy="170.9" r="4" fill="#3465a4"><title>Wcwm 9275-1395</title></circle></a><a href="/setts/s12/db40r2db7db5dr2db3w2db10o6db2o4w2~x2/"><circle cx="346.9" cy="113.7" r="4" fill="#3465a4"><title>Plymouth Armada (Commemorative)</title></circle></a><a href="/setts/s7/t6dt3n10db2dt2dt45lr2~x2/"><circle cx="434.9" cy="154.1" r="4" fill="#3465a4"><title>Vonarb, Alfred (Personal)</title></circle></a><a href="/setts/s9/db3o3db36db7k3db6g5k1ly3~x2/"><circle cx="364.7" cy="110.3" r="4" fill="#3465a4"><title>Incorporation of Weavers (Glasgow)</title></circle></a><circle cx="381.8" cy="144.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db92k14db18b5db5b5db5dg32dp16k5dp7ly8/"><circle cx="336.3" cy="127.4" r="4" fill="#3465a4"><title>Bavidge (Personal)</title></circle></a><a href="/setts/s9/r1db2n1dt3n19db3ly1db2ly1~x4/"><circle cx="398.0" cy="145.7" r="4" fill="#3465a4"><title>Pagus Wasia District Tartan Tartan Number: 10962. Earliest known date: 2012 Pagus (shire) Wasia (wetland) is a rural district in Belgium. The tartan was created by the founding members of the new Pagus Wasia Pipes &amp; Drums, based on the colours of the District Coat of Arms. The district is associated with the Belgian surname, Waas. Registration was authorised by Marc Van de Vijver, Mayor of the city of Beveren. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/db42n2db2n4y4lo2y6k9y2k2r2~x2/"><circle cx="367.2" cy="117.8" r="4" fill="#3465a4"><title>Dama Weekend (Fashion)</title></circle></a><a href="/setts/s9/dg24t4dg3db11dp8db37k3db2r4~x2/"><circle cx="325.8" cy="165.3" r="4" fill="#3465a4"><title>Stewmann (Personal)</title></circle></a><a href="/setts/s9/db1p1g3dp6db2k32db2dp12w1~x2/"><circle cx="366.8" cy="121.3" r="4" fill="#3465a4"><title>Scottish Heather</title></circle></a><a href="/setts/s8/k8ly1k1db28k12dg2k1t2~x2/"><circle cx="370.7" cy="149.7" r="4" fill="#3465a4"><title>Hope-Weir/Weir</title></circle></a><a href="/setts/s7/db6dp3db56k24g6r6g6/"><circle cx="358.5" cy="170.9" r="4" fill="#3465a4"><title>Wcwm 9275-1395</title></circle></a><a href="/setts/s12/db40r2db7db5dr2db3w2db10o6db2o4w2~x2/"><circle cx="346.8" cy="113.8" r="4" fill="#3465a4"><title>Plymouth Armada (Commemorative)</title></circle></a><a href="/setts/s7/t6dt3n10db2dt2dt45lr2~x2/"><circle cx="434.8" cy="154.2" r="4" fill="#3465a4"><title>Vonarb, Alfred (Personal)</title></circle></a><a href="/setts/s9/db3o3db36db7k3db6g5k1ly3~x2/"><circle cx="364.7" cy="110.3" r="4" fill="#3465a4"><title>Incorporation of Weavers (Glasgow)</title></circle></a><circle cx="381.8" cy="144.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db6db4k37g6db80o4k4lo4/

@@ -22,6 +22,6 @@ RYWKGBKWKBGKWY
 
 | Tartans |
 |---------------|
-| [Iowa Dress](/setts/s14/r4ly3w12k16g5db20k4w2k4db20g5k16w12ly3~x2/)|
-|![Iowa Dress example sett](/setts/s14/r4ly3w12k16g5db20k4w2k4db20g5k16w12ly3~x2/sett.png)|
+| [Iowa Dress](/setts/s14/r4ly3w12k16g5db20k4w2~x2/)|
+|![Iowa Dress example sett](/setts/s14/r4ly3w12k16g5db20k4w2~x2/sett.png)|
 

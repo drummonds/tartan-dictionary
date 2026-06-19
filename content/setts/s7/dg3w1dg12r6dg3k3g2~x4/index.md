@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -908,11 +911,11 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Holestone (Corporate)](/setts/s8/k4lo8k26o6g15o6k26w2~x2/) — ΔT 0.74
-1. [MacKintosh Hunting](/setts/s7/ly2dg12db6r3dg12r4db1~x2/) — ΔT 1.00
+1. [MacKintosh Hunting](/setts/s7/ly2dg12db6r3dg12r4db1/) — ΔT 1.00
 1. [Duchess of York](/setts/s9/db1o9g5o1k5o1g5o9w1~x2/) — ΔT 1.04
 1. [Merwe](/setts/s6/g15ly2k30g32r3w2~x2/) — ΔT 1.14
-1. [Asheville Firefighters, The](/setts/s6/k17g48ly4r10db12g4/) — ΔT 1.15
 1. [Aggreko Shepherd (Personal)](/setts/s7/lo10w4dg30k22dg27n4lb2~x2/) — ΔT 1.15
+1. [Asheville Firefighters, The](/setts/s6/k17g48ly4r10db12g4/) — ΔT 1.15
 1. [St Johns County's Sheriff's Office](/setts/s5/r17db7lo8dg58k6~x2/) — ΔT 1.17
 1. [Lossiemouth/Hersbruck](/setts/s6/g26db3g12k10dp15w2~x2/) — ΔT 1.20
 1. [Asheville Firefighters, The](/setts/s6/k17dg48ly4r10lb12dg4/) — ΔT 1.22
@@ -920,8 +923,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k4lo8k26o6g15o6k26w2~x2/"><circle cx="287.6" cy="181.0" r="4" fill="#3465a4"><title>Holestone (Corporate)</title></circle></a><a href="/setts/s7/ly2dg12db6r3dg12r4db1~x2/"><circle cx="302.4" cy="209.7" r="4" fill="#3465a4"><title>MacKintosh Hunting</title></circle></a><a href="/setts/s9/db1o9g5o1k5o1g5o9w1~x2/"><circle cx="248.8" cy="189.2" r="4" fill="#3465a4"><title>Duchess of York</title></circle></a><a href="/setts/s6/g15ly2k30g32r3w2~x2/"><circle cx="313.2" cy="184.6" r="4" fill="#3465a4"><title>Merwe</title></circle></a><a href="/setts/s6/k17g48ly4r10db12g4/"><circle cx="278.8" cy="189.7" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/setts/s7/lo10w4dg30k22dg27n4lb2~x2/"><circle cx="264.1" cy="170.6" r="4" fill="#3465a4"><title>Aggreko Shepherd (Personal)</title></circle></a><a href="/setts/s5/r17db7lo8dg58k6~x2/"><circle cx="317.4" cy="197.6" r="4" fill="#3465a4"><title>St Johns County's Sheriff's Office</title></circle></a><a href="/setts/s6/g26db3g12k10dp15w2~x2/"><circle cx="275.6" cy="207.5" r="4" fill="#3465a4"><title>Lossiemouth/Hersbruck</title></circle></a><a href="/setts/s6/k17dg48ly4r10lb12dg4/"><circle cx="262.1" cy="178.1" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/setts/s8/dg50r5dg8w10dg8db8dg8lo21~x2/"><circle cx="294.5" cy="165.1" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><circle cx="295.0" cy="190.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k4lo8k26o6g15o6k26w2~x2/"><circle cx="287.6" cy="180.9" r="4" fill="#3465a4"><title>Holestone (Corporate)</title></circle></a><a href="/setts/s7/ly2dg12db6r3dg12r4db1/"><circle cx="302.3" cy="209.5" r="4" fill="#3465a4"><title>MacKintosh Hunting</title></circle></a><a href="/setts/s9/db1o9g5o1k5o1g5o9w1~x2/"><circle cx="248.7" cy="189.1" r="4" fill="#3465a4"><title>Duchess of York</title></circle></a><a href="/setts/s6/g15ly2k30g32r3w2~x2/"><circle cx="313.2" cy="184.5" r="4" fill="#3465a4"><title>Merwe</title></circle></a><a href="/setts/s7/lo10w4dg30k22dg27n4lb2~x2/"><circle cx="264.1" cy="170.5" r="4" fill="#3465a4"><title>Aggreko Shepherd (Personal)</title></circle></a><a href="/setts/s6/k17g48ly4r10db12g4/"><circle cx="278.8" cy="189.6" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/setts/s5/r17db7lo8dg58k6~x2/"><circle cx="317.4" cy="197.5" r="4" fill="#3465a4"><title>St Johns County's Sheriff's Office</title></circle></a><a href="/setts/s6/g26db3g12k10dp15w2~x2/"><circle cx="275.6" cy="207.4" r="4" fill="#3465a4"><title>Lossiemouth/Hersbruck</title></circle></a><a href="/setts/s6/k17dg48ly4r10lb12dg4/"><circle cx="262.0" cy="178.0" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/setts/s8/dg50r5dg8w10dg8db8dg8lo21~x2/"><circle cx="294.4" cy="164.9" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><circle cx="295.0" cy="190.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/dg3w1dg12r6dg3k3g2~x4/

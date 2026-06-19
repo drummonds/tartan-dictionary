@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/175/
 
 ## Thread count
-B/4 G64 K4 B8 K4 DY16 K4 B8 K4 DR64 N/8
+N/8 DR64 K4 B8 K4 DY16 K4 B8 K4 G64 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -32,18 +32,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Baxter of Balgavies](/setts/s11/w2r16k1t2k1ly4k1t2k1g16t1~x2/) — ΔT 0.62
 1. [Baxter](/setts/s13/b2g16k1b2k1lo4k1lo4k1b2k1r16w2~x4/) — ΔT 0.67
 1. [Buchanan D](/setts/s13/b2dg16k1b2k1ly4k1ly4k1b2k1r16lr2~x2/) — ΔT 0.70
-1. [Buchanan D](/setts/s13/b2dg16k1b2k1ly4k1ly4k1b2k1r16lr2/) — ΔT 0.70
 1. [Buchanan](/setts/s13/w2r16k1t2k1ly4k1ly4k1t2k1g16t1~x4/) — ΔT 0.83
 1. [O'Keefe (Name)](/setts/s12/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/) — ΔT 0.86
 1. [Buchanan #2](/setts/s13/t3dg31k2t4k2ly8k2ly8k2t4k2r31w3~x2/) — ΔT 0.86
 1. [Buchanan (Logan)](/setts/s13/t2dg16k1t2k1ly4k1ly4k1t2k1r16w2~x4/) — ΔT 0.93
 1. [Bicknell, The Hamish (Personal)](/setts/s11/w3k1r25k2dy2g25dy2ly2dy10k1r2~x2/) — ΔT 0.93
-1. [Buchanan 8](/setts/s13/t3g31k2t4k2ly8k2ly8k2t4k2r31w3~x2/) — ΔT 0.94
+1. [Buchanan 8](/setts/s13/t3g31k2t4k2ly8k2ly8k2t4k2r31w3~x2/) — ΔT 0.95
+1. [Olympic](/setts/s13/db2g6db27r2k2w2db2r24g23db2r2k2ly2~x2/) — ΔT 0.99
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w2r16k1t2k1ly4k1t2k1g16t1~x2/"><circle cx="154.2" cy="84.5" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><a href="/setts/s13/b2g16k1b2k1lo4k1lo4k1b2k1r16w2~x4/"><circle cx="135.2" cy="88.0" r="4" fill="#3465a4"><title>Baxter</title></circle></a><a href="/setts/s13/b2dg16k1b2k1ly4k1ly4k1b2k1r16lr2~x2/"><circle cx="135.5" cy="87.7" r="4" fill="#3465a4"><title>Buchanan D</title></circle></a><a href="/setts/s13/b2dg16k1b2k1ly4k1ly4k1b2k1r16lr2/"><circle cx="135.5" cy="87.7" r="4" fill="#3465a4"><title>Buchanan D</title></circle></a><a href="/setts/s13/w2r16k1t2k1ly4k1ly4k1t2k1g16t1~x4/"><circle cx="137.7" cy="78.9" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/setts/s12/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/"><circle cx="192.1" cy="86.9" r="4" fill="#3465a4"><title>O'Keefe (Name)</title></circle></a><a href="/setts/s13/t3dg31k2t4k2ly8k2ly8k2t4k2r31w3~x2/"><circle cx="130.8" cy="78.8" r="4" fill="#3465a4"><title>Buchanan #2</title></circle></a><a href="/setts/s13/t2dg16k1t2k1ly4k1ly4k1t2k1r16w2~x4/"><circle cx="126.0" cy="76.8" r="4" fill="#3465a4"><title>Buchanan (Logan)</title></circle></a><a href="/setts/s11/w3k1r25k2dy2g25dy2ly2dy10k1r2~x2/"><circle cx="208.4" cy="81.9" r="4" fill="#3465a4"><title>Bicknell, The Hamish (Personal)</title></circle></a><a href="/setts/s13/t3g31k2t4k2ly8k2ly8k2t4k2r31w3~x2/"><circle cx="121.3" cy="76.3" r="4" fill="#3465a4"><title>Buchanan 8</title></circle></a><circle cx="165.4" cy="94.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w2r16k1t2k1ly4k1t2k1g16t1~x2/"><circle cx="153.9" cy="84.6" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><a href="/setts/s13/b2g16k1b2k1lo4k1lo4k1b2k1r16w2~x4/"><circle cx="135.0" cy="88.1" r="4" fill="#3465a4"><title>Baxter</title></circle></a><a href="/setts/s13/b2dg16k1b2k1ly4k1ly4k1b2k1r16lr2~x2/"><circle cx="135.4" cy="87.9" r="4" fill="#3465a4"><title>Buchanan D</title></circle></a><a href="/setts/s13/w2r16k1t2k1ly4k1ly4k1t2k1g16t1~x4/"><circle cx="137.4" cy="79.0" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/setts/s12/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/"><circle cx="191.9" cy="87.0" r="4" fill="#3465a4"><title>O'Keefe (Name)</title></circle></a><a href="/setts/s13/t3dg31k2t4k2ly8k2ly8k2t4k2r31w3~x2/"><circle cx="130.5" cy="79.0" r="4" fill="#3465a4"><title>Buchanan #2</title></circle></a><a href="/setts/s13/t2dg16k1t2k1ly4k1ly4k1t2k1r16w2~x4/"><circle cx="125.8" cy="76.9" r="4" fill="#3465a4"><title>Buchanan (Logan)</title></circle></a><a href="/setts/s11/w3k1r25k2dy2g25dy2ly2dy10k1r2~x2/"><circle cx="208.2" cy="82.1" r="4" fill="#3465a4"><title>Bicknell, The Hamish (Personal)</title></circle></a><a href="/setts/s13/t3g31k2t4k2ly8k2ly8k2t4k2r31w3~x2/"><circle cx="121.1" cy="76.4" r="4" fill="#3465a4"><title>Buchanan 8</title></circle></a><a href="/setts/s13/db2g6db27r2k2w2db2r24g23db2r2k2ly2~x2/"><circle cx="166.7" cy="100.7" r="4" fill="#3465a4"><title>Olympic</title></circle></a><circle cx="165.2" cy="94.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/lb2r16k1t2k1lo4k1t2k1g16t1~x4/

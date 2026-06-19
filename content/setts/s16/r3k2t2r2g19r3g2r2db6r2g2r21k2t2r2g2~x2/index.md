@@ -2,7 +2,7 @@
 title: "Stewart of Appin 3"
 date: 2023-03-18
 ---
-**Bands:** [GRBKRGRBRGRGRBKR](/stripes/grbkrgrbrgrgrbkr/) · **Stripes:** [G R T K R G R DB R G R G R T K R](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">G R T K R G R DB R G R G R T K R</span></span>
+**Bands:** [RKBRGRGRBRGRKBRG](/stripes/rkbrgrgrbrgrkbrg/) · **Stripes:** [R K T R G R G R DB R G R K T R G](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K T R G R G R DB R G R K T R G</span></span>
 
 
 This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/4 R4 Ba4 K4 R42 G4 R4 B12 R4 G4 R6 G38 R4 Ba4 K4 R/6
+R/6 K4 Ba4 R4 G38 R6 G4 R4 B12 R4 G4 R42 K4 Ba4 R4 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -904,7 +907,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Stuart/Stewart of Appin #3](/setts/s16/r3k2t2r2dg19r3dg2r2db6r2dg2r21k2t2r2dg2~x2/) — ΔT 0.66
-1. [MacKinnon 3](/setts/s14/w3r5g3p3r14g36r3p8g3r36g14r3r5w3~x2/) — ΔT 0.79
+1. [MacKinnon 3](/setts/s14/w3r5r3g14r36g3p8r3g36r14p3g3r5w3~x2/) — ΔT 0.79
 1. [MacKinnon 2](/setts/s14/r1r2g1k1r5g11r1k2g1r11g4r1r2w1~x2/) — ΔT 0.82
 1. [MacDougall 10](/setts/s15/r6m3w3r4g33m3w3r4w3m3db9r33m3w4r4~x2/) — ΔT 0.88
 1. [MacKinnon #11](/setts/s14/w3r5dg3dp3r14dg36r3dp8dg3r36dg14r3r5w3~x2/) — ΔT 0.89
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/r3k2t2r2dg19r3dg2r2db6r2dg2r21k2t2r2dg2~x2/"><circle cx="257.0" cy="114.6" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #3</title></circle></a><a href="/setts/s14/w3r5g3p3r14g36r3p8g3r36g14r3r5w3~x2/"><circle cx="258.6" cy="123.6" r="4" fill="#3465a4"><title>MacKinnon 3</title></circle></a><a href="/setts/s14/r1r2g1k1r5g11r1k2g1r11g4r1r2w1~x2/"><circle cx="249.5" cy="124.5" r="4" fill="#3465a4"><title>MacKinnon 2</title></circle></a><a href="/setts/s15/r6m3w3r4g33m3w3r4w3m3db9r33m3w4r4~x2/"><circle cx="214.5" cy="107.2" r="4" fill="#3465a4"><title>MacDougall 10</title></circle></a><a href="/setts/s14/w3r5dg3dp3r14dg36r3dp8dg3r36dg14r3r5w3~x2/"><circle cx="253.9" cy="119.0" r="4" fill="#3465a4"><title>MacKinnon #11</title></circle></a><a href="/setts/s14/r1r2dg1k1r5dg11r1k2dg1r11dg4r1r2w1~x2/"><circle cx="262.6" cy="127.2" r="4" fill="#3465a4"><title>MacKinnon #9</title></circle></a><a href="/setts/s14/w3k2g18r2db9r18g2r2g2r2db2r3g18k2~x2/"><circle cx="224.5" cy="141.7" r="4" fill="#3465a4"><title>MacGuire (Name)</title></circle></a><a href="/setts/s14/w3k2dg18r2db8r18dg2r2dg2r2db2r18dg18k2~x2/"><circle cx="225.8" cy="146.8" r="4" fill="#3465a4"><title>MacGuire (Personal)</title></circle></a><a href="/setts/s12/r3r4g3p3r11g30r3p7g3r2r4w2~x2/"><circle cx="266.3" cy="120.7" r="4" fill="#3465a4"><title>MacKinnon 1</title></circle></a><a href="/setts/s12/r3r4dg3dp3r11dg30r3dp7dg3r2r4w2~x2/"><circle cx="266.1" cy="120.3" r="4" fill="#3465a4"><title>MacKinnon #7</title></circle></a><circle cx="246.9" cy="112.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/r3k2t2r2dg19r3dg2r2db6r2dg2r21k2t2r2dg2~x2/"><circle cx="256.7" cy="114.6" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #3</title></circle></a><a href="/setts/s14/w3r5r3g14r36g3p8r3g36r14p3g3r5w3~x2/"><circle cx="258.2" cy="123.6" r="4" fill="#3465a4"><title>MacKinnon 3</title></circle></a><a href="/setts/s14/r1r2g1k1r5g11r1k2g1r11g4r1r2w1~x2/"><circle cx="249.2" cy="124.5" r="4" fill="#3465a4"><title>MacKinnon 2</title></circle></a><a href="/setts/s15/r6m3w3r4g33m3w3r4w3m3db9r33m3w4r4~x2/"><circle cx="214.2" cy="107.3" r="4" fill="#3465a4"><title>MacDougall 10</title></circle></a><a href="/setts/s14/w3r5dg3dp3r14dg36r3dp8dg3r36dg14r3r5w3~x2/"><circle cx="253.6" cy="119.0" r="4" fill="#3465a4"><title>MacKinnon #11</title></circle></a><a href="/setts/s14/r1r2dg1k1r5dg11r1k2dg1r11dg4r1r2w1~x2/"><circle cx="262.3" cy="127.2" r="4" fill="#3465a4"><title>MacKinnon #9</title></circle></a><a href="/setts/s14/w3k2g18r2db9r18g2r2g2r2db2r3g18k2~x2/"><circle cx="224.3" cy="141.7" r="4" fill="#3465a4"><title>MacGuire (Name)</title></circle></a><a href="/setts/s14/w3k2dg18r2db8r18dg2r2dg2r2db2r18dg18k2~x2/"><circle cx="225.6" cy="146.9" r="4" fill="#3465a4"><title>MacGuire (Personal)</title></circle></a><a href="/setts/s12/r3r4g3p3r11g30r3p7g3r2r4w2~x2/"><circle cx="266.0" cy="120.7" r="4" fill="#3465a4"><title>MacKinnon 1</title></circle></a><a href="/setts/s12/r3r4dg3dp3r11dg30r3dp7dg3r2r4w2~x2/"><circle cx="265.9" cy="120.3" r="4" fill="#3465a4"><title>MacKinnon #7</title></circle></a><circle cx="246.6" cy="112.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/r3k2t2r2g19r3g2r2db6r2g2r21k2t2r2g2~x2/

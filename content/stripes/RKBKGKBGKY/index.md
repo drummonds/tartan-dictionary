@@ -22,6 +22,6 @@ RKBKGKBGKY
 
 | Tartans |
 |---------------|
-| [Sullivan (Estimated threadcount)](/setts/s10/ly3k1g12db8k1g2k1t10k1r3~x2/)|
-|![Sullivan (Estimated threadcount) example sett](/setts/s10/ly3k1g12db8k1g2k1t10k1r3~x2/sett.png)|
+| [Sullivan (Estimated threadcount)](/setts/s10/r3k1t10k1g2k1db8g12k1ly3~x2/)|
+|![Sullivan (Estimated threadcount) example sett](/setts/s10/r3k1t10k1g2k1db8g12k1ly3~x2/sett.png)|
 

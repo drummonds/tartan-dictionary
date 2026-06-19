@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g53dg5ly5dg9k5w5dg2g7dg1ly2~x2/"><circle cx="416.1" cy="91.8" r="4" fill="#3465a4"><title>Irish National</title></circle></a><a href="/setts/s9/y32w1k3w1g14y7k3dp3w1~x2/"><circle cx="382.6" cy="121.1" r="4" fill="#3465a4"><title>Leach Htg #2 (Name)</title></circle></a><a href="/setts/s8/g10lo3w2k2g8k22g43lo4~x2/"><circle cx="383.4" cy="151.3" r="4" fill="#3465a4"><title>Celtic Pride</title></circle></a><a href="/setts/s8/g2k1db6k11g26k1g1lo2~x2/"><circle cx="380.8" cy="157.5" r="4" fill="#3465a4"><title>Mackie (2016)</title></circle></a><a href="/setts/s11/k3w1g29y8r2y2r2y2r8g7k2~x2/"><circle cx="312.9" cy="105.2" r="4" fill="#3465a4"><title>Gray, hunting</title></circle></a><a href="/setts/s7/k3g2k3g18r2db2lo1~x4/"><circle cx="379.6" cy="155.0" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/setts/s8/r5w4db6db2g43db2db4r3~x2/"><circle cx="367.7" cy="122.0" r="4" fill="#3465a4"><title>Mullikin (2013)</title></circle></a><a href="/setts/s10/db6g24k1w2k1g24g24w3k1w3~x2/"><circle cx="295.8" cy="132.6" r="4" fill="#3465a4"><title>Montgomery, Stuart (Personal)</title></circle></a><a href="/setts/s11/g9lo1g2r3g28k16t1g8t1db8r1~x2/"><circle cx="348.0" cy="121.1" r="4" fill="#3465a4"><title>New York Caledonian Club Day</title></circle></a><a href="/setts/s13/g24k1g2ly2dg2w1dg12w1dg2w2dg2w1dg12~x2/"><circle cx="301.5" cy="117.9" r="4" fill="#3465a4"><title>Currie of Balilone Family Tartan Tartan Number: 778. Earliest known date: 1822 Granted by charter in 1822 to Currie of Balilone, by MacDonald, Lord of the Isles. The sett is based on the Lord of the Isles and the design is attributed to the Chief. The tartan is available to all members of the Clan Currie Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="368.2" cy="124.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g53dg5ly5dg9k5w5dg2g7dg1ly2~x2/"><circle cx="415.8" cy="91.7" r="4" fill="#3465a4"><title>Irish National</title></circle></a><a href="/setts/s9/y32w1k3w1g14y7k3dp3w1~x2/"><circle cx="382.2" cy="121.1" r="4" fill="#3465a4"><title>Leach Htg #2 (Name)</title></circle></a><a href="/setts/s8/g10lo3w2k2g8k22g43lo4~x2/"><circle cx="383.2" cy="151.2" r="4" fill="#3465a4"><title>Celtic Pride</title></circle></a><a href="/setts/s8/g2k1db6k11g26k1g1lo2~x2/"><circle cx="380.7" cy="157.4" r="4" fill="#3465a4"><title>Mackie (2016)</title></circle></a><a href="/setts/s11/k3w1g29y8r2y2r2y2r8g7k2~x2/"><circle cx="312.6" cy="105.1" r="4" fill="#3465a4"><title>Gray, hunting</title></circle></a><a href="/setts/s7/k3g2k3g18r2db2lo1~x4/"><circle cx="379.4" cy="154.9" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/setts/s8/r5w4db6db2g43db2db4r3~x2/"><circle cx="367.4" cy="121.8" r="4" fill="#3465a4"><title>Mullikin (2013)</title></circle></a><a href="/setts/s10/db6g24k1w2k1g24g24w3k1w3~x2/"><circle cx="295.6" cy="132.6" r="4" fill="#3465a4"><title>Montgomery, Stuart (Personal)</title></circle></a><a href="/setts/s11/g9lo1g2r3g28k16t1g8t1db8r1~x2/"><circle cx="347.9" cy="121.1" r="4" fill="#3465a4"><title>New York Caledonian Club Day</title></circle></a><a href="/setts/s13/g24k1g2ly2dg2w1dg12w1dg2w2dg2w1dg12~x2/"><circle cx="301.3" cy="118.0" r="4" fill="#3465a4"><title>Currie of Balilone Family Tartan Tartan Number: 778. Earliest known date: 1822 Granted by charter in 1822 to Currie of Balilone, by MacDonald, Lord of the Isles. The sett is based on the Lord of the Isles and the design is attributed to the Chief. The tartan is available to all members of the Clan Currie Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="368.0" cy="124.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dg32w1k3w1g14dg7k3m3w1~x2/

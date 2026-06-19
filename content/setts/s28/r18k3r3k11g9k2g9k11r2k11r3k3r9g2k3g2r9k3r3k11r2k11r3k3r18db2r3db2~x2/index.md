@@ -2,12 +2,18 @@
 title: "MacInroy"
 date: 2023-03-18
 ---
-**Bands:** [BRBRKRKRKRKRGKGRKRKRKGKGKRKR](/stripes/brbrkrkrkrkrgkgrkrkrkgkgkrkr/) · **Stripes:** [DB R DB R K R K R K R K R G K G R K R K R K G K G K R K R](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R DB R K R K R K R K R G K G R K R K R K G K G K R K R</span></span>
+**Bands:** [RKRKGKGKRKRKRGKGRKRKRKRKRBRB](/stripes/rkrkgkgkrkrkrgkgrkrkrkrkrbrb/) · **Stripes:** [R K R K G K G K R K R K R G K G R K R K R K R K R DB R DB](/stripes/stripes28/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R K R K G K G K R K R K R G K G R K R K R K R K R DB R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [28 band tartan](/bands/bands28/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacInroy #2
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/4 R6 B4 R36 K6 R6 K22 R4 K22 R6 K6 R18 G4 K6 G4 R18 K6 R6 K22 R4 K22 G18 K4 G18 K22 R6 K6 R/36
+R/36 K6 R6 K22 G18 K4 G18 K22 R4 K22 R6 K6 R18 G4 K6 G4 R18 K6 R6 K22 R4 K22 R6 K6 R36 B4 R6 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -906,17 +915,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Murray of Tullibardine 5](/setts/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4g4r14g27r9db6r6k3/) — ΔT 1.47
 1. [Innes, of Cowie](/setts/s31/db1k6r1k1r1k1r6w1r2g3r2k1g5k1r2w1r2k1g5k1r2g3r2w1r6k1r1k1r1k6g1~x2/) — ΔT 1.52
 1. [Stevens #6](/setts/s19/k3r3k14lo2ly2k3r13k3lo2ly2k4lo6k3ly2lo2k14r3k3ly3~x2/) — ΔT 1.53
-1. [Ross](/setts/s27/dg8r1dg8r8db1r1db2r1db1r8db1r1db2r1db1r8db8r1db8r8dg1r2dg1r8dg8r1dg8~x2/) — ΔT 1.62
+1. [Ross](/setts/s27/dg8r1dg8r8dg1r2dg1r8db8r1db8r8db1r1db2r1db1r8db1r1db2r1db1r8dg8r1dg8~x2/) — ΔT 1.62
 1. [Murray of Tullibardine #4](/setts/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4dg4r14dg27r9db6r6k3/) — ΔT 1.62
 1. [Comyn / Cumming, Buchan](/setts/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/) — ΔT 1.62
 1. [MacRae of Conchra](/setts/s20/dg20r3dg20r20db3r3db6r3db3r20db3r3db6r3db3r20w3r4db20r4/) — ΔT 1.64
 1. [J & B Whisky (Original)](/setts/s18/k14r3k7y26w6y26k16r3k16r3k16y26w6y26k7r3k14r4/) — ΔT 1.74
-1. [Order of the Holy Sepulchre of Jerusalem](/setts/s20/ly1w1r7k8r1k8w1y2w1k7r1k7w1r7w1k7r1k7r7w1~x4/) — ΔT 1.75
+1. [Order of the Holy Sepulchre of Jerusalem](/setts/s20/w1r7k7r1k7w1r7w1k7r1k7w1y2w1k8r1k8r7w1ly1~x4/) — ΔT 1.75
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s28/r18k3r3k11dg9k2dg9k11r2k11r3k3r9dg2k3dg2r9k3r3k11r2k11r3k3r18db2r3db2~x2/"><circle cx="208.1" cy="142.8" r="4" fill="#3465a4"><title>MacInroy #2</title></circle></a><a href="/setts/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4g4r14g27r9db6r6k3/"><circle cx="229.7" cy="117.8" r="4" fill="#3465a4"><title>Murray of Tullibardine 5</title></circle></a><a href="/setts/s31/db1k6r1k1r1k1r6w1r2g3r2k1g5k1r2w1r2k1g5k1r2g3r2w1r6k1r1k1r1k6g1~x2/"><circle cx="116.8" cy="125.9" r="4" fill="#3465a4"><title>Innes, of Cowie</title></circle></a><a href="/setts/s19/k3r3k14lo2ly2k3r13k3lo2ly2k4lo6k3ly2lo2k14r3k3ly3~x2/"><circle cx="227.8" cy="153.4" r="4" fill="#3465a4"><title>Stevens #6</title></circle></a><a href="/setts/s27/dg8r1dg8r8db1r1db2r1db1r8db1r1db2r1db1r8db8r1db8r8dg1r2dg1r8dg8r1dg8~x2/"><circle cx="232.4" cy="162.8" r="4" fill="#3465a4"><title>Ross</title></circle></a><a href="/setts/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4dg4r14dg27r9db6r6k3/"><circle cx="236.9" cy="116.5" r="4" fill="#3465a4"><title>Murray of Tullibardine #4</title></circle></a><a href="/setts/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/"><circle cx="143.2" cy="151.5" r="4" fill="#3465a4"><title>Comyn / Cumming, Buchan</title></circle></a><a href="/setts/s20/dg20r3dg20r20db3r3db6r3db3r20db3r3db6r3db3r20w3r4db20r4/"><circle cx="219.7" cy="152.8" r="4" fill="#3465a4"><title>MacRae of Conchra</title></circle></a><a href="/setts/s18/k14r3k7y26w6y26k16r3k16r3k16y26w6y26k7r3k14r4/"><circle cx="194.9" cy="173.2" r="4" fill="#3465a4"><title>J &amp; B Whisky (Original)</title></circle></a><a href="/setts/s20/ly1w1r7k8r1k8w1y2w1k7r1k7w1r7w1k7r1k7r7w1~x4/"><circle cx="233.6" cy="143.1" r="4" fill="#3465a4"><title>Order of the Holy Sepulchre of Jerusalem</title></circle></a><circle cx="188.8" cy="139.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s28/r18k3r3k11dg9k2dg9k11r2k11r3k3r9dg2k3dg2r9k3r3k11r2k11r3k3r18db2r3db2~x2/"><circle cx="207.9" cy="142.8" r="4" fill="#3465a4"><title>MacInroy #2</title></circle></a><a href="/setts/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4g4r14g27r9db6r6k3/"><circle cx="229.6" cy="117.8" r="4" fill="#3465a4"><title>Murray of Tullibardine 5</title></circle></a><a href="/setts/s31/db1k6r1k1r1k1r6w1r2g3r2k1g5k1r2w1r2k1g5k1r2g3r2w1r6k1r1k1r1k6g1~x2/"><circle cx="116.7" cy="126.0" r="4" fill="#3465a4"><title>Innes, of Cowie</title></circle></a><a href="/setts/s19/k3r3k14lo2ly2k3r13k3lo2ly2k4lo6k3ly2lo2k14r3k3ly3~x2/"><circle cx="227.6" cy="153.3" r="4" fill="#3465a4"><title>Stevens #6</title></circle></a><a href="/setts/s27/dg8r1dg8r8dg1r2dg1r8db8r1db8r8db1r1db2r1db1r8db1r1db2r1db1r8dg8r1dg8~x2/"><circle cx="232.2" cy="162.7" r="4" fill="#3465a4"><title>Ross</title></circle></a><a href="/setts/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4dg4r14dg27r9db6r6k3/"><circle cx="236.7" cy="116.5" r="4" fill="#3465a4"><title>Murray of Tullibardine #4</title></circle></a><a href="/setts/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/"><circle cx="143.2" cy="151.5" r="4" fill="#3465a4"><title>Comyn / Cumming, Buchan</title></circle></a><a href="/setts/s20/dg20r3dg20r20db3r3db6r3db3r20db3r3db6r3db3r20w3r4db20r4/"><circle cx="219.5" cy="152.8" r="4" fill="#3465a4"><title>MacRae of Conchra</title></circle></a><a href="/setts/s18/k14r3k7y26w6y26k16r3k16r3k16y26w6y26k7r3k14r4/"><circle cx="195.0" cy="173.1" r="4" fill="#3465a4"><title>J &amp; B Whisky (Original)</title></circle></a><a href="/setts/s20/w1r7k7r1k7w1r7w1k7r1k7w1y2w1k8r1k8r7w1ly1~x4/"><circle cx="233.6" cy="143.0" r="4" fill="#3465a4"><title>Order of the Holy Sepulchre of Jerusalem</title></circle></a><circle cx="188.7" cy="139.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s28/r18k3r3k11g9k2g9k11r2k11r3k3r9g2k3g2r9k3r3k11r2k11r3k3r18db2r3db2~x2/

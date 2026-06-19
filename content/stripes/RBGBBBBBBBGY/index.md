@@ -22,6 +22,6 @@ RBGBBBBBBBGY
 
 | Tartans |
 |---------------|
-| [Los Angeles Police Bagpipe Band](/setts/s12/ly2g6db6dt4db4dt28db4dt4db6g15dt6r2~x2/)|
-|![Los Angeles Police Bagpipe Band example sett](/setts/s12/ly2g6db6dt4db4dt28db4dt4db6g15dt6r2~x2/sett.png)|
+| [Los Angeles Police Bagpipe Band](/setts/s12/r2dt6g15db6dt4db4dt28db4dt4db6g6ly2~x2/)|
+|![Los Angeles Police Bagpipe Band example sett](/setts/s12/r2dt6g15db6dt4db4dt28db4dt4db6g6ly2~x2/sett.png)|
 

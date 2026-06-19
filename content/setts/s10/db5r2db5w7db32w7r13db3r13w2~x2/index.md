@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=65
 
+## Also known as
+
+This cloth is also recorded under:
+
+- 31, with Eagle
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -915,14 +924,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Lindsay Dress #2](/setts/s9/w29db2w2db2w2db14m31db2m3~x2/) — ΔT 1.36
 1. [Good Morning America (Corporate)](/setts/s11/db2w2r2w2r2db2r2db12ly1db2w2~x4/) — ΔT 1.38
 1. [Ainslie](/setts/s9/db12k3db2r2db2r12w2k1w2~x4/) — ΔT 1.38
-1. [South Australian Pipes & Drums](/setts/s10/db60ly6db11r25db11ly6db11r25db11ly6~x2/) — ΔT 1.42
+1. [South Australian Pipes & Drums](/setts/s10/db60ly6db11r25db11ly6~x2/) — ΔT 1.42
 1. [Mercer, James (Personal)](/setts/s9/db24w3db4ly6db4w3db15r52db6/) — ΔT 1.43
 1. [Yudo (Corporate)](/setts/s9/k2r9w2db2w4db2w2db20w2~x4/) — ΔT 1.43
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db2r21db1lb4db7lb2db2lb2r2~x4/"><circle cx="339.8" cy="134.9" r="4" fill="#3465a4"><title>American</title></circle></a><a href="/setts/s12/w4db14r1db1w1db1r1db14r14db1r1w1~x2/"><circle cx="358.4" cy="150.2" r="4" fill="#3465a4"><title>Frame</title></circle></a><a href="/setts/s13/db4r4db44w6db5o4db3o8db3o16db4r24w4/"><circle cx="251.3" cy="123.4" r="4" fill="#3465a4"><title>Largs (1981) (District)</title></circle></a><a href="/setts/s10/k14w2k3w2dr10w32dr10k10w2k3~x2/"><circle cx="229.0" cy="147.6" r="4" fill="#3465a4"><title>Fraser, Arisaid</title></circle></a><a href="/setts/s9/w29db2w2db2w2db14m31db2m3~x2/"><circle cx="237.3" cy="137.7" r="4" fill="#3465a4"><title>Lindsay Dress #2</title></circle></a><a href="/setts/s11/db2w2r2w2r2db2r2db12ly1db2w2~x4/"><circle cx="286.5" cy="142.1" r="4" fill="#3465a4"><title>Good Morning America (Corporate)</title></circle></a><a href="/setts/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="222.2" cy="153.3" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/setts/s10/db60ly6db11r25db11ly6db11r25db11ly6~x2/"><circle cx="343.8" cy="190.3" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums</title></circle></a><a href="/setts/s9/db24w3db4ly6db4w3db15r52db6/"><circle cx="296.9" cy="132.4" r="4" fill="#3465a4"><title>Mercer, James (Personal)</title></circle></a><a href="/setts/s9/k2r9w2db2w4db2w2db20w2~x4/"><circle cx="259.5" cy="147.2" r="4" fill="#3465a4"><title>Yudo (Corporate)</title></circle></a><circle cx="290.3" cy="157.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db2r21db1lb4db7lb2db2lb2r2~x4/"><circle cx="339.5" cy="134.7" r="4" fill="#3465a4"><title>American</title></circle></a><a href="/setts/s12/w4db14r1db1w1db1r1db14r14db1r1w1~x2/"><circle cx="358.1" cy="150.0" r="4" fill="#3465a4"><title>Frame</title></circle></a><a href="/setts/s13/db4r4db44w6db5o4db3o8db3o16db4r24w4/"><circle cx="251.1" cy="123.4" r="4" fill="#3465a4"><title>Largs (1981) (District)</title></circle></a><a href="/setts/s10/k14w2k3w2dr10w32dr10k10w2k3~x2/"><circle cx="228.8" cy="147.4" r="4" fill="#3465a4"><title>Fraser, Arisaid</title></circle></a><a href="/setts/s9/w29db2w2db2w2db14m31db2m3~x2/"><circle cx="237.0" cy="137.5" r="4" fill="#3465a4"><title>Lindsay Dress #2</title></circle></a><a href="/setts/s11/db2w2r2w2r2db2r2db12ly1db2w2~x4/"><circle cx="286.3" cy="141.9" r="4" fill="#3465a4"><title>Good Morning America (Corporate)</title></circle></a><a href="/setts/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="222.0" cy="153.2" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/setts/s10/db60ly6db11r25db11ly6~x2/"><circle cx="343.5" cy="190.1" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums</title></circle></a><a href="/setts/s9/db24w3db4ly6db4w3db15r52db6/"><circle cx="296.7" cy="132.2" r="4" fill="#3465a4"><title>Mercer, James (Personal)</title></circle></a><a href="/setts/s9/k2r9w2db2w4db2w2db20w2~x4/"><circle cx="259.3" cy="147.0" r="4" fill="#3465a4"><title>Yudo (Corporate)</title></circle></a><circle cx="290.1" cy="157.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db5r2db5w7db32w7r13db3r13w2~x2/

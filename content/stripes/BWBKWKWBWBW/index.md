@@ -30,8 +30,8 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Clergy (Grey)](/setts/s11/lb1n3lb1n2lb1k6lb1k6n6lb1n1~x2/)|
-|![Clergy (Grey) example sett](/setts/s11/lb1n3lb1n2lb1k6lb1k6n6lb1n1~x2/sett.png)|
+| [Clergy (Grey)](/setts/s11/n1lb1n6k6lb1k6lb1n2lb1n3lb1~x2/)|
+|![Clergy (Grey) example sett](/setts/s11/n1lb1n6k6lb1k6lb1n2lb1n3lb1~x2/sett.png)|
 
 ### T W T K W K W T W T W <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">T W T K W K W T W T W</span></span>
 

@@ -22,6 +22,6 @@ WKWWKWWBWKWRW
 
 | Tartans |
 |---------------|
-| [Euphoria](/setts/s13/lb1k1w8lb1k1lb8w1b8w1k1lb8r1w1~x6/)|
-|![Euphoria example sett](/setts/s13/lb1k1w8lb1k1lb8w1b8w1k1lb8r1w1~x6/sett.png)|
+| [Euphoria](/setts/s13/w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1~x6/)|
+|![Euphoria example sett](/setts/s13/w1r1lb8k1w1b8w1lb8k1lb1w8k1lb1~x6/sett.png)|
 

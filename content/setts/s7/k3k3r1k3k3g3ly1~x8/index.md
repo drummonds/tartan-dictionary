@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,17 +914,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Denholm](/setts/s8/g8k7db8r2db8k7g8k2~x2/) — ΔT 1.34
 1. [MacKean dress](/setts/s9/r1k2dg4k1dg1k2db3k1w1~x6/) — ΔT 1.36
 1. [Campbell of Breadalbane (Clan)](/setts/s7/k9g9ly2g9k9db9k3~x2/) — ΔT 1.42
-1. [Davidson Double](/setts/s8/db3r2db8k8dg8k3lb2dg3/) — ΔT 1.44
-1. [Graham of Montrose](/setts/s7/k4dg4lb1dg4k4db4k1/) — ΔT 1.45
+1. [Davidson Double](/setts/s8/dg3lb2k3dg8k8db8r2db3/) — ΔT 1.44
+1. [Graham of Montrose](/setts/s7/k4dg4lb1dg4k4db4k1~x2/) — ΔT 1.45
 1. [Wilson's, No 120](/setts/s7/k12g12w2g12k12p12r3~x2/) — ΔT 1.47
-1. [Valley Forge Pipe Band](/setts/s12/lr2k2lr4k2lr2k5dg5lr2dg5k5db5r2~x2/) — ΔT 1.47
+1. [Valley Forge Pipe Band](/setts/s12/r2db5k5dg5lr2dg5k5lr2k2lr4k2lr2~x2/) — ΔT 1.47
 1. [Unnamed, No 30](/setts/s9/k1db3k3g3r1g3k3g1r1~x2/) — ΔT 1.47
 1. [Arrol](/setts/s9/r2db4k4g4lb1g4k4g4lb1~x4/) — ΔT 1.49
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k3db3r1db3k3g3lo1~x8/"><circle cx="50.6" cy="284.3" r="4" fill="#3465a4"><title>Melrose of Alabama</title></circle></a><a href="/setts/s8/g8k7db8r2db8k7g8k2~x2/"><circle cx="86.7" cy="284.3" r="4" fill="#3465a4"><title>Denholm</title></circle></a><a href="/setts/s9/r1k2dg4k1dg1k2db3k1w1~x6/"><circle cx="88.9" cy="233.8" r="4" fill="#3465a4"><title>MacKean dress</title></circle></a><a href="/setts/s7/k9g9ly2g9k9db9k3~x2/"><circle cx="128.7" cy="281.8" r="4" fill="#3465a4"><title>Campbell of Breadalbane (Clan)</title></circle></a><a href="/setts/s8/db3r2db8k8dg8k3lb2dg3/"><circle cx="65.8" cy="244.9" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/setts/s7/k4dg4lb1dg4k4db4k1/"><circle cx="133.9" cy="292.1" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/setts/s7/k12g12w2g12k12p12r3~x2/"><circle cx="92.5" cy="235.6" r="4" fill="#3465a4"><title>Wilson's, No 120</title></circle></a><a href="/setts/s12/lr2k2lr4k2lr2k5dg5lr2dg5k5db5r2~x2/"><circle cx="14.0" cy="246.8" r="4" fill="#3465a4"><title>Valley Forge Pipe Band</title></circle></a><a href="/setts/s9/k1db3k3g3r1g3k3g1r1~x2/"><circle cx="82.6" cy="269.3" r="4" fill="#3465a4"><title>Unnamed, No 30</title></circle></a><a href="/setts/s9/r2db4k4g4lb1g4k4g4lb1~x4/"><circle cx="76.5" cy="250.4" r="4" fill="#3465a4"><title>Arrol</title></circle></a><circle cx="43.6" cy="279.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k3db3r1db3k3g3lo1~x8/"><circle cx="51.1" cy="284.3" r="4" fill="#3465a4"><title>Melrose of Alabama</title></circle></a><a href="/setts/s8/g8k7db8r2db8k7g8k2~x2/"><circle cx="87.1" cy="284.2" r="4" fill="#3465a4"><title>Denholm</title></circle></a><a href="/setts/s9/r1k2dg4k1dg1k2db3k1w1~x6/"><circle cx="89.3" cy="233.9" r="4" fill="#3465a4"><title>MacKean dress</title></circle></a><a href="/setts/s7/k9g9ly2g9k9db9k3~x2/"><circle cx="129.0" cy="281.7" r="4" fill="#3465a4"><title>Campbell of Breadalbane (Clan)</title></circle></a><a href="/setts/s8/dg3lb2k3dg8k8db8r2db3/"><circle cx="66.2" cy="244.9" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/setts/s7/k4dg4lb1dg4k4db4k1~x2/"><circle cx="134.4" cy="292.0" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/setts/s7/k12g12w2g12k12p12r3~x2/"><circle cx="92.8" cy="235.6" r="4" fill="#3465a4"><title>Wilson's, No 120</title></circle></a><a href="/setts/s12/r2db5k5dg5lr2dg5k5lr2k2lr4k2lr2~x2/"><circle cx="14.0" cy="246.9" r="4" fill="#3465a4"><title>Valley Forge Pipe Band</title></circle></a><a href="/setts/s9/k1db3k3g3r1g3k3g1r1~x2/"><circle cx="82.9" cy="269.2" r="4" fill="#3465a4"><title>Unnamed, No 30</title></circle></a><a href="/setts/s9/r2db4k4g4lb1g4k4g4lb1~x4/"><circle cx="76.8" cy="250.3" r="4" fill="#3465a4"><title>Arrol</title></circle></a><circle cx="44.1" cy="279.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k3k3r1k3k3g3ly1~x8/

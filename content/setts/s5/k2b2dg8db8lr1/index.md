@@ -13,14 +13,22 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2625](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2625)
-- Scottish Register of Tartans: [3555](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3555)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 1429
 - Scottish Tartans Authority (ITI): 218
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1429
 - Scottish Tartans World Register: 218
-- Scottish Tartans World Register: 864
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Variants
 
@@ -61,14 +69,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Midlothian](/setts/s6/db31b4db5k19g20lo4~x2/) — ΔT 0.77
 1. [Mitchell (Clan)](/setts/s6/k2g17k16r2db17lr2~x2/) — ΔT 0.84
 1. [Lyle and Scott](/setts/s6/dg5db2dg9db19dr9ly2~x2/) — ΔT 0.84
-1. [Davidson of Tulloch](/setts/s5/lr1dg6k3db6r1~x2/) — ΔT 0.89
+1. [Davidson of Tulloch](/setts/s5/r1db6k3dg6lr1~x2/) — ΔT 0.89
 1. [Corey in Balachuirn](/setts/s5/b32do16dg3o4k28~x2/) — ΔT 0.94
 1. [Highlander Highland Laddie](/setts/s5/k7r3g30db28lb3~x2/) — ΔT 0.98
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k2b2dg8db8lr1~x2/"><circle cx="182.2" cy="237.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/setts/s5/k4b2dg8db8lr1~x2/"><circle cx="146.6" cy="244.9" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><a href="/setts/s5/k4b2dg8db8lr1/"><circle cx="146.6" cy="244.9" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><a href="/setts/s5/k7lt3dg18db18w2~x2/"><circle cx="164.9" cy="225.1" r="4" fill="#3465a4"><title>Bhatti</title></circle></a><a href="/setts/s6/db31b4db5k19g20lo4~x2/"><circle cx="190.8" cy="226.6" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/setts/s6/k2g17k16r2db17lr2~x2/"><circle cx="162.9" cy="221.3" r="4" fill="#3465a4"><title>Mitchell (Clan)</title></circle></a><a href="/setts/s6/dg5db2dg9db19dr9ly2~x2/"><circle cx="202.7" cy="221.6" r="4" fill="#3465a4"><title>Lyle and Scott</title></circle></a><a href="/setts/s5/lr1dg6k3db6r1~x2/"><circle cx="139.9" cy="249.2" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/setts/s5/b32do16dg3o4k28~x2/"><circle cx="199.2" cy="229.4" r="4" fill="#3465a4"><title>Corey in Balachuirn</title></circle></a><a href="/setts/s5/k7r3g30db28lb3~x2/"><circle cx="222.2" cy="213.8" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><circle cx="182.2" cy="237.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k2b2dg8db8lr1~x2/"><circle cx="182.5" cy="237.3" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/setts/s5/k4b2dg8db8lr1~x2/"><circle cx="147.0" cy="245.0" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><a href="/setts/s5/k4b2dg8db8lr1/"><circle cx="147.0" cy="245.0" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><a href="/setts/s5/k7lt3dg18db18w2~x2/"><circle cx="165.2" cy="225.1" r="4" fill="#3465a4"><title>Bhatti</title></circle></a><a href="/setts/s6/db31b4db5k19g20lo4~x2/"><circle cx="191.1" cy="226.6" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/setts/s6/k2g17k16r2db17lr2~x2/"><circle cx="163.2" cy="221.4" r="4" fill="#3465a4"><title>Mitchell (Clan)</title></circle></a><a href="/setts/s6/dg5db2dg9db19dr9ly2~x2/"><circle cx="202.9" cy="221.7" r="4" fill="#3465a4"><title>Lyle and Scott</title></circle></a><a href="/setts/s5/r1db6k3dg6lr1~x2/"><circle cx="140.2" cy="249.2" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/setts/s5/b32do16dg3o4k28~x2/"><circle cx="199.4" cy="229.4" r="4" fill="#3465a4"><title>Corey in Balachuirn</title></circle></a><a href="/setts/s5/k7r3g30db28lb3~x2/"><circle cx="222.4" cy="213.7" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><circle cx="182.5" cy="237.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/k2b2dg8db8lr1/

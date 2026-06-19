@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2332
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacDiarmid, dress
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -62,8 +68,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w38r12w37g32k3w4k3g32r4/"><circle cx="224.9" cy="162.2" r="4" fill="#3465a4"><title>MacDiarmid, dress</title></circle></a><a href="/setts/s7/w5r3w26g20w3g8ly3~x2/"><circle cx="246.2" cy="183.2" r="4" fill="#3465a4"><title>MacPherson Dress Green (Dance)</title></circle></a><a href="/setts/s9/k4w1k1w9g1w1g1w1o4~x4/"><circle cx="215.0" cy="147.0" r="4" fill="#3465a4"><title>Puffin (Personal)</title></circle></a><a href="/setts/s7/g3r2g27dg3w30dg2w3~x2/"><circle cx="267.8" cy="145.2" r="4" fill="#3465a4"><title>Uist, Green (Dance)</title></circle></a><a href="/setts/s8/w2g4k7w2k1w11db2w2~x4/"><circle cx="225.2" cy="163.1" r="4" fill="#3465a4"><title>Forbes - 1880 (Clans Originaux)</title></circle></a><a href="/setts/s7/g6lo2g32k8w6lo20g5~x2/"><circle cx="294.2" cy="174.3" r="4" fill="#3465a4"><title>Pollock (Name)</title></circle></a><a href="/setts/s10/ly14db5g25db5w2g11db7w5g6ly5~x2/"><circle cx="215.3" cy="178.5" r="4" fill="#3465a4"><title>Kerry County Crest (Fashion)</title></circle></a><a href="/setts/s6/db8ly1dg5ly12r1dg2~x6/"><circle cx="188.4" cy="175.2" r="4" fill="#3465a4"><title>McCabe (2016)</title></circle></a><a href="/setts/s7/b6k3b37ly41w3ly6w3~x2/"><circle cx="288.4" cy="161.4" r="4" fill="#3465a4"><title>Tilburg Hunting (District)</title></circle></a><a href="/setts/s7/w5r3w26g21w3g8ly3~x2/"><circle cx="263.3" cy="189.8" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance) #2</title></circle></a><circle cx="226.6" cy="162.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w38r12w37g32k3w4k3g32r4/"><circle cx="224.6" cy="162.0" r="4" fill="#3465a4"><title>MacDiarmid, dress</title></circle></a><a href="/setts/s7/w5r3w26g20w3g8ly3~x2/"><circle cx="245.8" cy="183.0" r="4" fill="#3465a4"><title>MacPherson Dress Green (Dance)</title></circle></a><a href="/setts/s9/k4w1k1w9g1w1g1w1o4~x4/"><circle cx="214.6" cy="146.8" r="4" fill="#3465a4"><title>Puffin (Personal)</title></circle></a><a href="/setts/s7/g3r2g27dg3w30dg2w3~x2/"><circle cx="267.4" cy="145.0" r="4" fill="#3465a4"><title>Uist, Green (Dance)</title></circle></a><a href="/setts/s8/w2g4k7w2k1w11db2w2~x4/"><circle cx="225.0" cy="162.8" r="4" fill="#3465a4"><title>Forbes - 1880 (Clans Originaux)</title></circle></a><a href="/setts/s7/g6lo2g32k8w6lo20g5~x2/"><circle cx="293.9" cy="174.1" r="4" fill="#3465a4"><title>Pollock (Name)</title></circle></a><a href="/setts/s10/ly14db5g25db5w2g11db7w5g6ly5~x2/"><circle cx="215.1" cy="178.4" r="4" fill="#3465a4"><title>Kerry County Crest (Fashion)</title></circle></a><a href="/setts/s6/db8ly1dg5ly12r1dg2~x6/"><circle cx="188.2" cy="175.0" r="4" fill="#3465a4"><title>McCabe (2016)</title></circle></a><a href="/setts/s7/b6k3b37ly41w3ly6w3~x2/"><circle cx="288.1" cy="161.3" r="4" fill="#3465a4"><title>Tilburg Hunting (District)</title></circle></a><a href="/setts/s7/w5r3w26g21w3g8ly3~x2/"><circle cx="262.9" cy="189.6" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance) #2</title></circle></a><circle cx="226.3" cy="162.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/w38r12w37g32k3w4k3g32r4~x2/

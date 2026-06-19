@@ -2,12 +2,18 @@
 title: "Austin / Wilson's No 173"
 date: 2023-03-18
 ---
-**Bands:** [BKBGY](/stripes/bkbgy/) · **Stripes:** [P K P G LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">P K P G LY</span></span>
+**Bands:** [YGBKB](/stripes/ygbkb/) · **Stripes:** [LY G P K P](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">LY G P K P</span></span>
 
 
 This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Austin / Wilson's No 173
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,16 +920,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Boxer Beauty](/setts/s7/k13dy28lo13dy28k18w18k13~x2/) — ΔT 1.26
 1. [Wilson's No.113](/setts/s6/g3dp3w1dp3g3r1~x4/) — ΔT 1.34
 1. [Wilson's, No 214](/setts/s5/g4r3t1k1t3~x4/) — ΔT 1.37
-1. [Clark](/setts/s5/b3k1dg1k1r3~x8/) — ΔT 1.38
-1. [Clark](/setts/s5/b3k1dg1k1r3~x4/) — ΔT 1.38
+1. [Clark](/setts/s5/r3k1dg1k1b3~x8/) — ΔT 1.38
+1. [Clark](/setts/s5/r3k1dg1k1b3~x4/) — ΔT 1.38
 1. [Wilson's, No 113](/setts/s4/r1g3p3w1~x4/) — ΔT 1.39
 1. [Wilson's, No 220](/setts/s4/p8k11g9w2~x2/) — ΔT 1.42
 1. [Ramsay (Orange)](/setts/s7/k4lo9k13g6lo3g9w4~x2/) — ΔT 1.43
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/p3k3p3g6r2~x2/"><circle cx="85.1" cy="293.5" r="4" fill="#3465a4"><title>Austin / Wilson's No 137</title></circle></a><a href="/setts/s5/dp3k3dp3dg6ly2~x2/"><circle cx="93.3" cy="304.1" r="4" fill="#3465a4"><title>Austin (Wilson's No 173)</title></circle></a><a href="/setts/s7/k13dy28lo13dy28k18w18k13~x2/"><circle cx="83.6" cy="297.6" r="4" fill="#3465a4"><title>Boxer Beauty</title></circle></a><a href="/setts/s6/g3dp3w1dp3g3r1~x4/"><circle cx="148.7" cy="296.8" r="4" fill="#3465a4"><title>Wilson's No.113</title></circle></a><a href="/setts/s5/g4r3t1k1t3~x4/"><circle cx="108.8" cy="276.1" r="4" fill="#3465a4"><title>Wilson's, No 214</title></circle></a><a href="/setts/s5/b3k1dg1k1r3~x8/"><circle cx="100.4" cy="277.5" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/setts/s5/b3k1dg1k1r3~x4/"><circle cx="100.4" cy="277.5" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/setts/s4/r1g3p3w1~x4/"><circle cx="119.6" cy="284.9" r="4" fill="#3465a4"><title>Wilson's, No 113</title></circle></a><a href="/setts/s4/p8k11g9w2~x2/"><circle cx="109.5" cy="276.1" r="4" fill="#3465a4"><title>Wilson's, No 220</title></circle></a><a href="/setts/s7/k4lo9k13g6lo3g9w4~x2/"><circle cx="95.0" cy="254.8" r="4" fill="#3465a4"><title>Ramsay (Orange)</title></circle></a><circle cx="71.2" cy="288.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/p3k3p3g6r2~x2/"><circle cx="85.3" cy="293.4" r="4" fill="#3465a4"><title>Austin / Wilson's No 137</title></circle></a><a href="/setts/s5/dp3k3dp3dg6ly2~x2/"><circle cx="93.6" cy="304.0" r="4" fill="#3465a4"><title>Austin (Wilson's No 173)</title></circle></a><a href="/setts/s7/k13dy28lo13dy28k18w18k13~x2/"><circle cx="83.8" cy="297.5" r="4" fill="#3465a4"><title>Boxer Beauty</title></circle></a><a href="/setts/s6/g3dp3w1dp3g3r1~x4/"><circle cx="148.9" cy="296.7" r="4" fill="#3465a4"><title>Wilson's No.113</title></circle></a><a href="/setts/s5/g4r3t1k1t3~x4/"><circle cx="108.9" cy="276.0" r="4" fill="#3465a4"><title>Wilson's, No 214</title></circle></a><a href="/setts/s5/r3k1dg1k1b3~x8/"><circle cx="100.6" cy="277.4" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/setts/s5/r3k1dg1k1b3~x4/"><circle cx="100.6" cy="277.4" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/setts/s4/r1g3p3w1~x4/"><circle cx="119.7" cy="284.7" r="4" fill="#3465a4"><title>Wilson's, No 113</title></circle></a><a href="/setts/s4/p8k11g9w2~x2/"><circle cx="109.8" cy="275.9" r="4" fill="#3465a4"><title>Wilson's, No 220</title></circle></a><a href="/setts/s7/k4lo9k13g6lo3g9w4~x2/"><circle cx="95.1" cy="254.7" r="4" fill="#3465a4"><title>Ramsay (Orange)</title></circle></a><circle cx="71.4" cy="288.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/p3k3p3g6ly2~x2/

@@ -2,12 +2,18 @@
 title: "Rikaco Morning Dew 1 (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BWBBBWBWBR](/stripes/bwbbbwbwbr/) · **Stripes:** [DB W DB T DB W DB W DB R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB W DB T DB W DB W DB R</span></span>
+**Bands:** [RBWBWBBBWB](/stripes/rbwbwbbbwb/) · **Stripes:** [R DB W DB W DB T DB W DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB W DB W DB T DB W DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3932/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Rikaco Morning Dew 1
 
 ## Attestations
 
@@ -55,8 +61,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w3lg15db6db2db1db2db1db21ly2~x2/"><circle cx="247.4" cy="126.2" r="4" fill="#3465a4"><title>Blue Knights, The</title></circle></a><a href="/setts/s8/b20r1w3db1w2db8g3w1~x4/"><circle cx="264.8" cy="123.3" r="4" fill="#3465a4"><title>Kruenaegel and Schropp (Name)</title></circle></a><a href="/setts/s9/t14lb1t3lo2t3lb1t4db24r3~x4/"><circle cx="274.0" cy="122.7" r="4" fill="#3465a4"><title>Musselburgh</title></circle></a><a href="/setts/s8/w8db4ly2db36t48db2t4r5~x2/"><circle cx="284.1" cy="120.5" r="4" fill="#3465a4"><title>MacRaes of America</title></circle></a><a href="/setts/s9/b24k8g8r2g4k1w2k1g4~x2/"><circle cx="245.1" cy="127.1" r="4" fill="#3465a4"><title>Ferguson (Tarlogie)</title></circle></a><a href="/setts/s10/b30db3b3db3b3db10k10g20k2w4~x2/"><circle cx="173.7" cy="142.1" r="4" fill="#3465a4"><title>St Kentigern College</title></circle></a><a href="/setts/s9/db44lo3k20r3db8lg34db3db2lg15~x2/"><circle cx="231.1" cy="138.5" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band</title></circle></a><a href="/setts/s11/db3w1db1w1db2w3db15t2db2t22r2~x2/"><circle cx="293.3" cy="124.8" r="4" fill="#3465a4"><title>Commonwealth Games 1986 (Corp)</title></circle></a><a href="/setts/s10/g4lg2db14lg2db2lg2db2lg14k1w2~x2/"><circle cx="235.5" cy="146.5" r="4" fill="#3465a4"><title>Blalack</title></circle></a><a href="/setts/s11/k3t6k4r6t18db53t18k8t6k3lo2~x2/"><circle cx="237.3" cy="105.6" r="4" fill="#3465a4"><title>Australia 2000</title></circle></a><circle cx="233.9" cy="107.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w3lg15db6db2db1db2db1db21ly2~x2/"><circle cx="247.3" cy="126.2" r="4" fill="#3465a4"><title>Blue Knights, The</title></circle></a><a href="/setts/s8/b20r1w3db1w2db8g3w1~x4/"><circle cx="264.7" cy="123.2" r="4" fill="#3465a4"><title>Kruenaegel and Schropp (Name)</title></circle></a><a href="/setts/s9/t14lb1t3lo2t3lb1t4db24r3~x4/"><circle cx="273.9" cy="122.6" r="4" fill="#3465a4"><title>Musselburgh</title></circle></a><a href="/setts/s8/w8db4ly2db36t48db2t4r5~x2/"><circle cx="284.0" cy="120.4" r="4" fill="#3465a4"><title>MacRaes of America</title></circle></a><a href="/setts/s9/b24k8g8r2g4k1w2k1g4~x2/"><circle cx="245.1" cy="127.0" r="4" fill="#3465a4"><title>Ferguson (Tarlogie)</title></circle></a><a href="/setts/s10/b30db3b3db3b3db10k10g20k2w4~x2/"><circle cx="173.8" cy="142.1" r="4" fill="#3465a4"><title>St Kentigern College</title></circle></a><a href="/setts/s9/db44lo3k20r3db8lg34db3db2lg15~x2/"><circle cx="231.2" cy="138.4" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band</title></circle></a><a href="/setts/s11/db3w1db1w1db2w3db15t2db2t22r2~x2/"><circle cx="293.1" cy="124.7" r="4" fill="#3465a4"><title>Commonwealth Games 1986 (Corp)</title></circle></a><a href="/setts/s10/g4lg2db14lg2db2lg2db2lg14k1w2~x2/"><circle cx="235.4" cy="146.4" r="4" fill="#3465a4"><title>Blalack</title></circle></a><a href="/setts/s11/k3t6k4r6t18db53t18k8t6k3lo2~x2/"><circle cx="237.3" cy="105.6" r="4" fill="#3465a4"><title>Australia 2000</title></circle></a><circle cx="233.8" cy="107.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db4w2db1t24db10w1db2w5db3r2~x2/

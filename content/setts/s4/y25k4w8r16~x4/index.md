@@ -2,7 +2,7 @@
 title: "Buckeye"
 date: 2023-03-18
 ---
-**Bands:** [GKWR](/stripes/gkwr/) · **Stripes:** [Y K W R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">Y K W R</span></span>
+**Bands:** [RWKG](/stripes/rwkg/) · **Stripes:** [R W K Y](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R W K Y</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
@@ -47,7 +47,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Buckeye](/setts/s4/o25k4w8r16~x4/) — ΔT 0.33
 1. [Snowbird (Corporate)](/setts/s5/r8lg15b12r29w4~x2/) — ΔT 1.19
 1. [Ikelman No 2](/setts/s5/y26k10r10ly10y3~x2/) — ΔT 1.33
-1. [Manx Mannin Plaid](/setts/s4/ly1dy5r5w1~x4/) — ΔT 1.37
+1. [Manx Mannin Plaid](/setts/s4/w1r5dy5ly1~x4/) — ΔT 1.37
 1. [Doohan (New South Wales), Andrew](/setts/s5/t2lo1r4t4w2~x10/) — ΔT 1.41
 1. [Winnipeg Embroiders' Guild (Corp.)](/setts/s6/r12dt2ly2lb2dt4lb3~x2/) — ΔT 1.44
 1. [Abbink, Ingmar (Personal)](/setts/s5/r39t22k11ly22g5~x2/) — ΔT 1.46
@@ -57,8 +57,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/o25k4w8r16~x4/"><circle cx="205.5" cy="241.1" r="4" fill="#3465a4"><title>Buckeye</title></circle></a><a href="/setts/s5/r8lg15b12r29w4~x2/"><circle cx="268.8" cy="235.2" r="4" fill="#3465a4"><title>Snowbird (Corporate)</title></circle></a><a href="/setts/s5/y26k10r10ly10y3~x2/"><circle cx="200.1" cy="215.5" r="4" fill="#3465a4"><title>Ikelman No 2</title></circle></a><a href="/setts/s4/ly1dy5r5w1~x4/"><circle cx="210.6" cy="247.0" r="4" fill="#3465a4"><title>Manx Mannin Plaid</title></circle></a><a href="/setts/s5/t2lo1r4t4w2~x10/"><circle cx="176.2" cy="272.7" r="4" fill="#3465a4"><title>Doohan (New South Wales), Andrew</title></circle></a><a href="/setts/s6/r12dt2ly2lb2dt4lb3~x2/"><circle cx="222.0" cy="201.8" r="4" fill="#3465a4"><title>Winnipeg Embroiders' Guild (Corp.)</title></circle></a><a href="/setts/s5/r39t22k11ly22g5~x2/"><circle cx="130.9" cy="203.5" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/setts/s6/w4r7lo5b13r18g3~x2/"><circle cx="197.2" cy="215.0" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/setts/s4/o22ly10w3db8~x2/"><circle cx="219.8" cy="235.8" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/setts/s6/b6o6w1o6b6ly1~x8/"><circle cx="232.8" cy="247.4" r="4" fill="#3465a4"><title>Unidentified Lindley</title></circle></a><circle cx="209.5" cy="243.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/o25k4w8r16~x4/"><circle cx="205.3" cy="240.9" r="4" fill="#3465a4"><title>Buckeye</title></circle></a><a href="/setts/s5/r8lg15b12r29w4~x2/"><circle cx="268.6" cy="235.0" r="4" fill="#3465a4"><title>Snowbird (Corporate)</title></circle></a><a href="/setts/s5/y26k10r10ly10y3~x2/"><circle cx="200.0" cy="215.3" r="4" fill="#3465a4"><title>Ikelman No 2</title></circle></a><a href="/setts/s4/w1r5dy5ly1~x4/"><circle cx="210.4" cy="246.9" r="4" fill="#3465a4"><title>Manx Mannin Plaid</title></circle></a><a href="/setts/s5/t2lo1r4t4w2~x10/"><circle cx="176.0" cy="272.6" r="4" fill="#3465a4"><title>Doohan (New South Wales), Andrew</title></circle></a><a href="/setts/s6/r12dt2ly2lb2dt4lb3~x2/"><circle cx="221.6" cy="201.7" r="4" fill="#3465a4"><title>Winnipeg Embroiders' Guild (Corp.)</title></circle></a><a href="/setts/s5/r39t22k11ly22g5~x2/"><circle cx="130.8" cy="203.4" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/setts/s6/w4r7lo5b13r18g3~x2/"><circle cx="197.1" cy="214.9" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/setts/s4/o22ly10w3db8~x2/"><circle cx="219.6" cy="235.6" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/setts/s6/b6o6w1o6b6ly1~x8/"><circle cx="232.6" cy="247.2" r="4" fill="#3465a4"><title>Unidentified Lindley</title></circle></a><circle cx="209.3" cy="243.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/y25k4w8r16~x4/

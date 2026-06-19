@@ -2,7 +2,7 @@
 title: "St. Francis Xavier University"
 date: 2023-03-18
 ---
-**Bands:** [BKBYWYK](/stripes/bkbywyk/) · **Stripes:** [T K DB LO LB LO K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="seq">T K DB LO LB LO K</span></span>
+**Bands:** [KYWYBKB](/stripes/kywybkb/) · **Stripes:** [K LO LB LO DB K T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K LO LB LO DB K T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2789
 
 ## Thread count
-B/4 K12 DB36 DY4 N36 DY4 K/12
+K/12 DY4 N36 DY4 DB36 K12 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -44,7 +44,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/4 K12 DB36 DY4 N36 DY4 K/12 tartan")
+![Tartan detail](tartan.png "K/12 DY4 N36 DY4 DB36 K12 B/4 tartan")
 
 ## Nearest tartans
 
@@ -54,8 +54,8 @@ The nearest existing variants by ΔTartan distance.
 1. [Strathclyde](/setts/s7/k2b16w2k16w15k2w2~x2/) — ΔT 1.02
 1. [Sibbald Blue (2014)](/setts/s9/dg4db22dt6w10db3w6dp4dt3w4~x2/) — ΔT 1.04
 1. [Ailsa, Craig](/setts/s8/r5w2db20ly2k16w18k2w5~x2/) — ΔT 1.06
-1. [Hanna of Stirlingshire (Clan)](/setts/s10/lo1db9k1lr4k1lr2k2lr2k1r1~x4/) — ΔT 1.08
-1. [Loch Ness (Fashion)](/setts/s7/lb2k17lg11t21r2t2r2~x2/) — ΔT 1.13
+1. [Hanna of Stirlingshire (Clan)](/setts/s10/r1k1lr2k2lr2k1lr4k1db9lo1~x4/) — ΔT 1.08
+1. [Loch Ness (Fashion)](/setts/s7/r2t2r2t21lg11k17lb2~x2/) — ΔT 1.13
 1. [Naysmith, William A (Personal)](/setts/s10/lb4r2db14k4lb4k3lb3k2r2lb2~x2/) — ΔT 1.13
 1. [Highfield Dress (Name)](/setts/s11/db10k2g2r2g2k2w2k2w4k1w2~x4/) — ΔT 1.15
 1. [Sibbald Blue (2014)](/setts/s9/dg4db22db6w10db3w6dp4db3w4~x2/) — ΔT 1.19
@@ -63,8 +63,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/b15k2w2k2w2k16lr22ly2~x4/"><circle cx="134.8" cy="147.3" r="4" fill="#3465a4"><title>Sneddon, Jonathan Taylor (Personal)</title></circle></a><a href="/setts/s7/k2b16w2k16w15k2w2~x2/"><circle cx="129.0" cy="188.0" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/setts/s9/dg4db22dt6w10db3w6dp4dt3w4~x2/"><circle cx="123.4" cy="165.0" r="4" fill="#3465a4"><title>Sibbald Blue (2014)</title></circle></a><a href="/setts/s8/r5w2db20ly2k16w18k2w5~x2/"><circle cx="116.9" cy="154.1" r="4" fill="#3465a4"><title>Ailsa, Craig</title></circle></a><a href="/setts/s10/lo1db9k1lr4k1lr2k2lr2k1r1~x4/"><circle cx="148.3" cy="149.0" r="4" fill="#3465a4"><title>Hanna of Stirlingshire (Clan)</title></circle></a><a href="/setts/s7/lb2k17lg11t21r2t2r2~x2/"><circle cx="169.5" cy="170.4" r="4" fill="#3465a4"><title>Loch Ness (Fashion)</title></circle></a><a href="/setts/s10/lb4r2db14k4lb4k3lb3k2r2lb2~x2/"><circle cx="108.9" cy="166.4" r="4" fill="#3465a4"><title>Naysmith, William A (Personal)</title></circle></a><a href="/setts/s11/db10k2g2r2g2k2w2k2w4k1w2~x4/"><circle cx="93.6" cy="148.1" r="4" fill="#3465a4"><title>Highfield Dress (Name)</title></circle></a><a href="/setts/s9/dg4db22db6w10db3w6dp4db3w4~x2/"><circle cx="125.9" cy="163.6" r="4" fill="#3465a4"><title>Sibbald Blue (2014)</title></circle></a><a href="/setts/s6/db2b9m1db9dg9w2~x4/"><circle cx="126.6" cy="207.6" r="4" fill="#3465a4"><title>American Express</title></circle></a><circle cx="110.8" cy="168.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/b15k2w2k2w2k16lr22ly2~x4/"><circle cx="134.8" cy="147.2" r="4" fill="#3465a4"><title>Sneddon, Jonathan Taylor (Personal)</title></circle></a><a href="/setts/s7/k2b16w2k16w15k2w2~x2/"><circle cx="129.1" cy="187.9" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/setts/s9/dg4db22dt6w10db3w6dp4dt3w4~x2/"><circle cx="123.4" cy="164.9" r="4" fill="#3465a4"><title>Sibbald Blue (2014)</title></circle></a><a href="/setts/s8/r5w2db20ly2k16w18k2w5~x2/"><circle cx="116.9" cy="154.0" r="4" fill="#3465a4"><title>Ailsa, Craig</title></circle></a><a href="/setts/s10/r1k1lr2k2lr2k1lr4k1db9lo1~x4/"><circle cx="148.3" cy="149.0" r="4" fill="#3465a4"><title>Hanna of Stirlingshire (Clan)</title></circle></a><a href="/setts/s7/r2t2r2t21lg11k17lb2~x2/"><circle cx="169.5" cy="170.4" r="4" fill="#3465a4"><title>Loch Ness (Fashion)</title></circle></a><a href="/setts/s10/lb4r2db14k4lb4k3lb3k2r2lb2~x2/"><circle cx="109.0" cy="166.4" r="4" fill="#3465a4"><title>Naysmith, William A (Personal)</title></circle></a><a href="/setts/s11/db10k2g2r2g2k2w2k2w4k1w2~x4/"><circle cx="93.7" cy="148.1" r="4" fill="#3465a4"><title>Highfield Dress (Name)</title></circle></a><a href="/setts/s9/dg4db22db6w10db3w6dp4db3w4~x2/"><circle cx="125.9" cy="163.5" r="4" fill="#3465a4"><title>Sibbald Blue (2014)</title></circle></a><a href="/setts/s6/db2b9m1db9dg9w2~x4/"><circle cx="126.8" cy="207.5" r="4" fill="#3465a4"><title>American Express</title></circle></a><circle cx="110.9" cy="168.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k3lo1lb9lo1db9k3t1~x4/

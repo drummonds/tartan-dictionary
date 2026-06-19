@@ -23,7 +23,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10643](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10643)
 
 ## Thread count
-LN/4 DB48 K36 N4 K4 N20 B4 N12 O/4
+O/4 N12 B4 N20 K4 N4 K36 DB48 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -43,11 +43,11 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Leung (Personal)](/setts/s9/m4k7m2db25k19w2g13k2ly3~x2/) — ΔT 0.82
-1. [St. Andrews Golf Club (Corporate)](/setts/s9/lo1g3lb1g5k1g1k9db12w1~x4/) — ΔT 0.98
-1. [Tantallon #2](/setts/s10/ly3k22r7k2dg10k2r7k2db22w3~x2/) — ΔT 1.00
-1. [MacNeil](/setts/s7/lb1r2db16k14dg15k3ly1~x2/) — ΔT 1.04
+1. [St. Andrews Golf Club (Corporate)](/setts/s9/w1db12k9g1k1g5lb1g3lo1~x4/) — ΔT 0.98
+1. [Tantallon #2](/setts/s10/w3db22k2r7k2dg10k2r7k22ly3~x2/) — ΔT 1.00
+1. [MacNeil](/setts/s7/ly1k3dg15k14db16r2lb1~x2/) — ΔT 1.04
 1. [Tindal](/setts/s11/r3k2g18k18db3k3db3k3db18ly2w3~x2/) — ΔT 1.04
-1. [Loch Awe](/setts/s9/lb3k2r3g20k24db20r3k2ly3~x2/) — ΔT 1.04
+1. [Loch Awe](/setts/s9/ly3k2r3db20k24g20r3k2lb3~x2/) — ΔT 1.04
 1. [Royal College of Surgeons of Edinburgh](/setts/s9/t4dt16k2dt2k2dt2k13n20w4~x2/) — ΔT 1.06
 1. [Yates](/setts/s8/k37r4db30n7k10w5n10y7~x2/) — ΔT 1.10
 1. [National Wedding](/setts/s9/dg22lo2dg4dp3dg4k20db20k1lb3~x2/) — ΔT 1.11
@@ -55,8 +55,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/m4k7m2db25k19w2g13k2ly3~x2/"><circle cx="152.2" cy="147.7" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/setts/s9/lo1g3lb1g5k1g1k9db12w1~x4/"><circle cx="164.3" cy="149.6" r="4" fill="#3465a4"><title>St. Andrews Golf Club (Corporate)</title></circle></a><a href="/setts/s10/ly3k22r7k2dg10k2r7k2db22w3~x2/"><circle cx="125.3" cy="140.3" r="4" fill="#3465a4"><title>Tantallon #2</title></circle></a><a href="/setts/s7/lb1r2db16k14dg15k3ly1~x2/"><circle cx="150.4" cy="160.2" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/setts/s11/r3k2g18k18db3k3db3k3db18ly2w3~x2/"><circle cx="140.8" cy="153.7" r="4" fill="#3465a4"><title>Tindal</title></circle></a><a href="/setts/s9/lb3k2r3g20k24db20r3k2ly3~x2/"><circle cx="145.1" cy="144.2" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/setts/s9/t4dt16k2dt2k2dt2k13n20w4~x2/"><circle cx="133.6" cy="170.8" r="4" fill="#3465a4"><title>Royal College of Surgeons of Edinburgh</title></circle></a><a href="/setts/s8/k37r4db30n7k10w5n10y7~x2/"><circle cx="174.4" cy="178.6" r="4" fill="#3465a4"><title>Yates</title></circle></a><a href="/setts/s9/dg22lo2dg4dp3dg4k20db20k1lb3~x2/"><circle cx="189.8" cy="139.0" r="4" fill="#3465a4"><title>National Wedding</title></circle></a><a href="/setts/s7/lr1r2db16k14dg15k3ly1~x2/"><circle cx="168.2" cy="169.3" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><circle cx="157.8" cy="147.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/m4k7m2db25k19w2g13k2ly3~x2/"><circle cx="152.4" cy="147.8" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/setts/s9/w1db12k9g1k1g5lb1g3lo1~x4/"><circle cx="164.5" cy="149.8" r="4" fill="#3465a4"><title>St. Andrews Golf Club (Corporate)</title></circle></a><a href="/setts/s10/w3db22k2r7k2dg10k2r7k22ly3~x2/"><circle cx="125.4" cy="140.4" r="4" fill="#3465a4"><title>Tantallon #2</title></circle></a><a href="/setts/s7/ly1k3dg15k14db16r2lb1~x2/"><circle cx="150.7" cy="160.3" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/setts/s11/r3k2g18k18db3k3db3k3db18ly2w3~x2/"><circle cx="141.0" cy="153.9" r="4" fill="#3465a4"><title>Tindal</title></circle></a><a href="/setts/s9/ly3k2r3db20k24g20r3k2lb3~x2/"><circle cx="145.2" cy="144.4" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/setts/s9/t4dt16k2dt2k2dt2k13n20w4~x2/"><circle cx="133.8" cy="170.9" r="4" fill="#3465a4"><title>Royal College of Surgeons of Edinburgh</title></circle></a><a href="/setts/s8/k37r4db30n7k10w5n10y7~x2/"><circle cx="174.6" cy="178.7" r="4" fill="#3465a4"><title>Yates</title></circle></a><a href="/setts/s9/dg22lo2dg4dp3dg4k20db20k1lb3~x2/"><circle cx="190.0" cy="139.1" r="4" fill="#3465a4"><title>National Wedding</title></circle></a><a href="/setts/s7/lr1r2db16k14dg15k3ly1~x2/"><circle cx="168.6" cy="169.4" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><circle cx="158.0" cy="147.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r1dg3t1dg5k1dg1k9db12w1~x4/

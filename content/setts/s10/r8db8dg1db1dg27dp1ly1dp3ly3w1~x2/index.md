@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10764
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Holyoke St. Patrick's
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -24,7 +30,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10764](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10764)
 
 ## Thread count
-LN/2 Y6 P6 Y2 P2 G54 DB2 G2 DB16 R/16
+R/16 DB16 G2 DB2 G54 P2 Y2 P6 Y6 LN/2
 ![Sett](sett.png)
 
 ## Palette
@@ -56,8 +62,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w4k1db16k1dg32r6k6o6dg4o2dg1~x2/"><circle cx="250.9" cy="91.3" r="4" fill="#3465a4"><title>Zambia</title></circle></a><a href="/setts/s9/ly3g6dg32r4ly2r2dp7dg2w2~x2/"><circle cx="286.8" cy="112.0" r="4" fill="#3465a4"><title>Pienaar (Personal)</title></circle></a><a href="/setts/s9/w2db4r16k12g36ly1db6k2w2~x2/"><circle cx="236.8" cy="88.8" r="4" fill="#3465a4"><title>National Millennium</title></circle></a><a href="/setts/s12/r10db4r3db6w3db4w3db40dg73k4db2ly6/"><circle cx="283.5" cy="64.8" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><a href="/setts/s11/db8t1k6ly1k2w2k2g12o28w1o4~x2/"><circle cx="219.8" cy="66.8" r="4" fill="#3465a4"><title>MacLean of Kingairloch</title></circle></a><a href="/setts/s15/dy29g17k1w3k1ly2k10t8dy4t8k10ly2k1w3dy29~x2/"><circle cx="240.3" cy="88.0" r="4" fill="#3465a4"><title>Massie/Massey</title></circle></a><a href="/setts/s11/ly2dg4dt1r3dt3dg3g1r32dt14w3ly2~x2/"><circle cx="310.2" cy="73.2" r="4" fill="#3465a4"><title>Banause-Zunft zu Olte</title></circle></a><a href="/setts/s14/g20lr1lb2lr1lb2db4r1db1r1db1r1db1r2w2~x4/"><circle cx="253.0" cy="66.0" r="4" fill="#3465a4"><title>Mighty Men (Corporate)</title></circle></a><a href="/setts/s15/r3lb3k3lb3r3db8k1ly2k1db8k2g30k1g10k2~x2/"><circle cx="258.7" cy="74.2" r="4" fill="#3465a4"><title>Coigach</title></circle></a><a href="/setts/s13/dt8k3y1k1y39k3r3y2dt11k8y2k3w2~x2/"><circle cx="331.1" cy="76.7" r="4" fill="#3465a4"><title>Afghanistan Memorial</title></circle></a><circle cx="287.8" cy="86.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w4k1db16k1dg32r6k6o6dg4o2dg1~x2/"><circle cx="250.8" cy="91.3" r="4" fill="#3465a4"><title>Zambia</title></circle></a><a href="/setts/s9/ly3g6dg32r4ly2r2dp7dg2w2~x2/"><circle cx="286.7" cy="112.0" r="4" fill="#3465a4"><title>Pienaar (Personal)</title></circle></a><a href="/setts/s9/w2db4r16k12g36ly1db6k2w2~x2/"><circle cx="236.7" cy="88.9" r="4" fill="#3465a4"><title>National Millennium</title></circle></a><a href="/setts/s12/r10db4r3db6w3db4w3db40dg73k4db2ly6/"><circle cx="283.4" cy="64.8" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><a href="/setts/s11/db8t1k6ly1k2w2k2g12o28w1o4~x2/"><circle cx="219.7" cy="66.8" r="4" fill="#3465a4"><title>MacLean of Kingairloch</title></circle></a><a href="/setts/s15/dy29g17k1w3k1ly2k10t8dy4t8k10ly2k1w3dy29~x2/"><circle cx="240.2" cy="88.0" r="4" fill="#3465a4"><title>Massie/Massey</title></circle></a><a href="/setts/s11/ly2dg4dt1r3dt3dg3g1r32dt14w3ly2~x2/"><circle cx="309.9" cy="73.2" r="4" fill="#3465a4"><title>Banause-Zunft zu Olte</title></circle></a><a href="/setts/s14/g20lr1lb2lr1lb2db4r1db1r1db1r1db1r2w2~x4/"><circle cx="252.8" cy="66.0" r="4" fill="#3465a4"><title>Mighty Men (Corporate)</title></circle></a><a href="/setts/s15/r3lb3k3lb3r3db8k1ly2k1db8k2g30k1g10k2~x2/"><circle cx="258.5" cy="74.3" r="4" fill="#3465a4"><title>Coigach</title></circle></a><a href="/setts/s13/dt8k3y1k1y39k3r3y2dt11k8y2k3w2~x2/"><circle cx="330.8" cy="76.7" r="4" fill="#3465a4"><title>Afghanistan Memorial</title></circle></a><circle cx="287.6" cy="86.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r8db8dg1db1dg27dp1ly1dp3ly3w1~x2/

@@ -41,19 +41,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Jacobite #2](/setts/s6/ly70k30w3dg30k3ly10/) — ΔT 1.15
 1. [Jacobite](/setts/s6/ly70k30w3g30k3ly10/) — ΔT 1.20
-1. [Brandon, Manitoba](/setts/s6/y83k35w3g35k3ly10/) — ΔT 1.20
-1. [Fraser, Yellow](/setts/s7/ly2db14ly2g14ly27w2r2~x2/) — ΔT 1.42
-1. [Fraser Yellow](/setts/s7/ly2db14ly2dg14ly27w2r2~x2/) — ΔT 1.42
+1. [Brandon, Manitoba](/setts/s6/y83k35w3g35k3ly10/) — ΔT 1.21
+1. [Fraser, Yellow](/setts/s7/r2w2ly27g14ly2db14ly2~x2/) — ΔT 1.42
+1. [Fraser Yellow](/setts/s7/r2w2ly27dg14ly2db14ly2~x2/) — ΔT 1.42
 1. [Red Rum Commemorative Tartan Tartan Number: 1217. Earliest known date: 1982 Red Remony See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/k2ly30g4w2g14r13ly2~x2/) — ΔT 1.54
-1. [Manitoba](/setts/s8/ly6r21g2dg6g41t2g2t6/) — ΔT 1.60
+1. [Manitoba](/setts/s8/t6g2t2g41dg6g2r21ly6/) — ΔT 1.60
 1. [Fiander, Julian (Personal)](/setts/s9/r6g2w21ly2k8ly2g32w1k3~x2/) — ΔT 1.62
 1. [Dogwood](/setts/s8/dg4do10dg10o6do1w26dg2do1~x4/) — ΔT 1.63
 1. [Brandon (Manitoba)](/setts/s6/o84k35w3g35k3ly10/) — ΔT 1.63
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/ly70k30w3dg30k3ly10/"><circle cx="288.5" cy="145.9" r="4" fill="#3465a4"><title>Jacobite #2</title></circle></a><a href="/setts/s6/ly70k30w3g30k3ly10/"><circle cx="280.2" cy="142.6" r="4" fill="#3465a4"><title>Jacobite</title></circle></a><a href="/setts/s6/y83k35w3g35k3ly10/"><circle cx="250.1" cy="133.6" r="4" fill="#3465a4"><title>Brandon, Manitoba</title></circle></a><a href="/setts/s7/ly2db14ly2g14ly27w2r2~x2/"><circle cx="229.2" cy="143.6" r="4" fill="#3465a4"><title>Fraser, Yellow</title></circle></a><a href="/setts/s7/ly2db14ly2dg14ly27w2r2~x2/"><circle cx="224.4" cy="142.2" r="4" fill="#3465a4"><title>Fraser Yellow</title></circle></a><a href="/setts/s7/k2ly30g4w2g14r13ly2~x2/"><circle cx="195.2" cy="122.1" r="4" fill="#3465a4"><title>Red Rum Commemorative Tartan Tartan Number: 1217. Earliest known date: 1982 Red Remony See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/ly6r21g2dg6g41t2g2t6/"><circle cx="289.5" cy="127.4" r="4" fill="#3465a4"><title>Manitoba</title></circle></a><a href="/setts/s9/r6g2w21ly2k8ly2g32w1k3~x2/"><circle cx="217.5" cy="86.7" r="4" fill="#3465a4"><title>Fiander, Julian (Personal)</title></circle></a><a href="/setts/s8/dg4do10dg10o6do1w26dg2do1~x4/"><circle cx="218.0" cy="118.3" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/setts/s6/o84k35w3g35k3ly10/"><circle cx="261.0" cy="131.7" r="4" fill="#3465a4"><title>Brandon (Manitoba)</title></circle></a><circle cx="242.9" cy="121.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/ly70k30w3dg30k3ly10/"><circle cx="288.1" cy="145.6" r="4" fill="#3465a4"><title>Jacobite #2</title></circle></a><a href="/setts/s6/ly70k30w3g30k3ly10/"><circle cx="279.9" cy="142.3" r="4" fill="#3465a4"><title>Jacobite</title></circle></a><a href="/setts/s6/y83k35w3g35k3ly10/"><circle cx="249.9" cy="133.5" r="4" fill="#3465a4"><title>Brandon, Manitoba</title></circle></a><a href="/setts/s7/r2w2ly27g14ly2db14ly2~x2/"><circle cx="228.8" cy="143.4" r="4" fill="#3465a4"><title>Fraser, Yellow</title></circle></a><a href="/setts/s7/r2w2ly27dg14ly2db14ly2~x2/"><circle cx="224.1" cy="142.1" r="4" fill="#3465a4"><title>Fraser Yellow</title></circle></a><a href="/setts/s7/k2ly30g4w2g14r13ly2~x2/"><circle cx="194.8" cy="122.0" r="4" fill="#3465a4"><title>Red Rum Commemorative Tartan Tartan Number: 1217. Earliest known date: 1982 Red Remony See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/t6g2t2g41dg6g2r21ly6/"><circle cx="289.2" cy="127.4" r="4" fill="#3465a4"><title>Manitoba</title></circle></a><a href="/setts/s9/r6g2w21ly2k8ly2g32w1k3~x2/"><circle cx="217.2" cy="86.6" r="4" fill="#3465a4"><title>Fiander, Julian (Personal)</title></circle></a><a href="/setts/s8/dg4do10dg10o6do1w26dg2do1~x4/"><circle cx="217.7" cy="118.1" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/setts/s6/o84k35w3g35k3ly10/"><circle cx="260.8" cy="131.6" r="4" fill="#3465a4"><title>Brandon (Manitoba)</title></circle></a><circle cx="242.6" cy="121.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/ly83k35w3g35k3ly10/

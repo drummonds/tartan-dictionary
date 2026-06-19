@@ -2,12 +2,19 @@
 title: "Dundee Dress"
 date: 2023-03-18
 ---
-**Bands:** [GBBWYWKWYWRKRR](/stripes/gbbwywkwywrkrr/) · **Stripes:** [G DB T W LY W K W LY W R K R R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">G DB T W LY W K W LY W R K R R</span></span>
+**Bands:** [RRKRWYWKWYWBBG](/stripes/rrkrwywkwywbbg/) · **Stripes:** [R R K R W LY W K W LY W T DB G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R R K R W LY W K W LY W T DB G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1034
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Dundee Dress #1
+- Dundee, dress
 
 ## Attestations
 
@@ -319,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -893,7 +903,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/20 DB20 B4 LN24 Y8 LN4 K4 LN4 Y8 LN38 LR4 K32 LR4 R/72
+R/72 LR4 K32 LR4 LN38 Y8 LN4 K4 LN4 Y8 LN24 B4 DB20 G/20
 ![Sett](sett.png)
 
 ## Palette
@@ -927,8 +937,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r36m2k16m2w19ly4w2k2w2ly4w12t2db10g10~x2/"><circle cx="60.9" cy="39.3" r="4" fill="#3465a4"><title>Dundee Dress District Tartan Tartan Number: 691. Earliest known date: 1986 Original index card confused. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r42r2k15r2g22ly4w2dp2w2ly4t7w2dp6w6~x2/"><circle cx="110.2" cy="26.5" r="4" fill="#3465a4"><title>Dundee (1819) (District)</title></circle></a><a href="/setts/s14/r42r2k15r2g22ly4w2p2w2ly4t7w2p6w6~x2/"><circle cx="103.9" cy="24.9" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/setts/s14/r42r2k15r2dg22ly4w2dp2w2ly4t7w2dp6w6~x2/"><circle cx="112.8" cy="27.4" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/setts/s14/r30r2k6r2dg17ly7w2k2w2ly4t7w2k6w6~x2/"><circle cx="83.5" cy="62.5" r="4" fill="#3465a4"><title>Dundee #2</title></circle></a><a href="/setts/s14/r30r2k6r2g17ly7w2k2w2ly4t7w2k6w6~x2/"><circle cx="73.5" cy="60.2" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/setts/s13/r3w34k2o4k2lo7k2lo7k2o4k2do34t3~x2/"><circle cx="110.6" cy="47.1" r="4" fill="#3465a4"><title>Buchanan Dress (Fashion)</title></circle></a><a href="/setts/s15/ly10dy1g2ly2w2r1k2ly2g2dy1ly10r7w3r13db5~x2/"><circle cx="90.5" cy="62.5" r="4" fill="#3465a4"><title>Contrecoeur Corporate Tartan Tartan Number: 2294. Earliest known date: 1992 Small township in southern Quebec. Tartan designed by French Canadian Madeleine Asselin. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r42m2k15m2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6~x2/"><circle cx="122.7" cy="34.5" r="4" fill="#3465a4"><title>Dundee #3</title></circle></a><a href="/setts/s11/ly3dp5g2dp2g2w1g4lr12r2t2k2~x4/"><circle cx="60.9" cy="93.1" r="4" fill="#3465a4"><title>Oregon, State of</title></circle></a><circle cx="60.5" cy="39.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r36m2k16m2w19ly4w2k2w2ly4w12t2db10g10~x2/"><circle cx="60.7" cy="39.5" r="4" fill="#3465a4"><title>Dundee Dress District Tartan Tartan Number: 691. Earliest known date: 1986 Original index card confused. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r42r2k15r2g22ly4w2dp2w2ly4t7w2dp6w6~x2/"><circle cx="110.0" cy="26.7" r="4" fill="#3465a4"><title>Dundee (1819) (District)</title></circle></a><a href="/setts/s14/r42r2k15r2g22ly4w2p2w2ly4t7w2p6w6~x2/"><circle cx="103.7" cy="25.2" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/setts/s14/r42r2k15r2dg22ly4w2dp2w2ly4t7w2dp6w6~x2/"><circle cx="112.5" cy="27.7" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/setts/s14/r30r2k6r2dg17ly7w2k2w2ly4t7w2k6w6~x2/"><circle cx="83.3" cy="62.7" r="4" fill="#3465a4"><title>Dundee #2</title></circle></a><a href="/setts/s14/r30r2k6r2g17ly7w2k2w2ly4t7w2k6w6~x2/"><circle cx="73.3" cy="60.4" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/setts/s13/r3w34k2o4k2lo7k2lo7k2o4k2do34t3~x2/"><circle cx="110.3" cy="47.3" r="4" fill="#3465a4"><title>Buchanan Dress (Fashion)</title></circle></a><a href="/setts/s15/ly10dy1g2ly2w2r1k2ly2g2dy1ly10r7w3r13db5~x2/"><circle cx="90.2" cy="62.6" r="4" fill="#3465a4"><title>Contrecoeur Corporate Tartan Tartan Number: 2294. Earliest known date: 1992 Small township in southern Quebec. Tartan designed by French Canadian Madeleine Asselin. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r42m2k15m2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6~x2/"><circle cx="122.6" cy="34.8" r="4" fill="#3465a4"><title>Dundee #3</title></circle></a><a href="/setts/s11/ly3dp5g2dp2g2w1g4lr12r2t2k2~x4/"><circle cx="60.8" cy="93.4" r="4" fill="#3465a4"><title>Oregon, State of</title></circle></a><circle cx="60.3" cy="39.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/r36r2k16r2w19ly4w2k2w2ly4w12t2db10g10~x2/

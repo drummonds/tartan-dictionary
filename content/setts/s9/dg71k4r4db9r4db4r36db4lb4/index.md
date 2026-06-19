@@ -13,13 +13,23 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Thread count
 G/71 K4 R4 DB9 R4 DB4 R36 DB4 N/4
@@ -53,8 +63,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg71k4r4db9r4db4r36db4lr4~x2/"><circle cx="320.3" cy="132.4" r="4" fill="#3465a4"><title>Rattay</title></circle></a><a href="/setts/s9/dg71k4r4db9r4db4r36db4lr4/"><circle cx="320.3" cy="132.4" r="4" fill="#3465a4"><title>Rattay</title></circle></a><a href="/setts/s9/g71k4r4dp9r4dp4r36dp4w4/"><circle cx="307.4" cy="118.2" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/setts/s10/dg18k1ly3k1lr1dg1r2k2r2lr2~x4/"><circle cx="317.6" cy="114.6" r="4" fill="#3465a4"><title>Anthony Plaid Stewart</title></circle></a><a href="/setts/s8/b9w2dg30o6r2o2r2o6~x2/"><circle cx="277.4" cy="144.9" r="4" fill="#3465a4"><title>Ware/Warr (Name)</title></circle></a><a href="/setts/s9/g71k4r4db9r4db4r36db4w4/"><circle cx="298.2" cy="118.4" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/setts/s9/ly3g6dg32r4ly2r2dp7dg2w2~x2/"><circle cx="286.8" cy="112.0" r="4" fill="#3465a4"><title>Pienaar (Personal)</title></circle></a><a href="/setts/s11/k4w1r4k2g2r3k2g20r2k2r2~x2/"><circle cx="306.8" cy="132.1" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #2</title></circle></a><a href="/setts/s8/k3r1k18w1lo18g1lo1w2~x4/"><circle cx="266.7" cy="119.0" r="4" fill="#3465a4"><title>Dunlop Hunting</title></circle></a><a href="/setts/s8/lo8k50o15dg6o6db3o6lo2~x2/"><circle cx="297.4" cy="121.4" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><circle cx="299.8" cy="120.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg71k4r4db9r4db4r36db4lr4~x2/"><circle cx="320.2" cy="132.4" r="4" fill="#3465a4"><title>Rattay</title></circle></a><a href="/setts/s9/dg71k4r4db9r4db4r36db4lr4/"><circle cx="320.2" cy="132.4" r="4" fill="#3465a4"><title>Rattay</title></circle></a><a href="/setts/s9/g71k4r4dp9r4dp4r36dp4w4/"><circle cx="307.1" cy="118.2" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/setts/s10/dg18k1ly3k1lr1dg1r2k2r2lr2~x4/"><circle cx="317.4" cy="114.6" r="4" fill="#3465a4"><title>Anthony Plaid Stewart</title></circle></a><a href="/setts/s8/b9w2dg30o6r2o2r2o6~x2/"><circle cx="277.2" cy="144.8" r="4" fill="#3465a4"><title>Ware/Warr (Name)</title></circle></a><a href="/setts/s9/g71k4r4db9r4db4r36db4w4/"><circle cx="297.9" cy="118.3" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/setts/s9/ly3g6dg32r4ly2r2dp7dg2w2~x2/"><circle cx="286.7" cy="112.0" r="4" fill="#3465a4"><title>Pienaar (Personal)</title></circle></a><a href="/setts/s11/k4w1r4k2g2r3k2g20r2k2r2~x2/"><circle cx="306.5" cy="132.0" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #2</title></circle></a><a href="/setts/s8/k3r1k18w1lo18g1lo1w2~x4/"><circle cx="266.5" cy="118.8" r="4" fill="#3465a4"><title>Dunlop Hunting</title></circle></a><a href="/setts/s8/lo8k50o15dg6o6db3o6lo2~x2/"><circle cx="297.3" cy="121.3" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><circle cx="299.6" cy="120.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dg71k4r4db9r4db4r36db4lb4/

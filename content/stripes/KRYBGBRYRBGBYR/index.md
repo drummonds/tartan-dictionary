@@ -22,6 +22,6 @@ KRYBGBRYRBGBYR
 
 | Tartans |
 |---------------|
-| [Snodgrass](/setts/s14/k3r1ly1t11g13t5r1ly1r1t5g13t11ly1r1~x4/)|
-|![Snodgrass example sett](/setts/s14/k3r1ly1t11g13t5r1ly1r1t5g13t11ly1r1~x4/sett.png)|
+| [Snodgrass](/setts/s14/k3r1ly1t11g13t5r1ly1~x4/)|
+|![Snodgrass example sett](/setts/s14/k3r1ly1t11g13t5r1ly1~x4/sett.png)|
 

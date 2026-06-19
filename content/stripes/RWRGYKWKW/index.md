@@ -22,6 +22,6 @@ RWRGYKWKW
 
 | Tartans |
 |---------------|
-| [Cumming LO](/setts/s9/lb4k2lb4k10ly1dg10r4lb1r4/)|
-|![Cumming LO example sett](/setts/s9/lb4k2lb4k10ly1dg10r4lb1r4/sett.png)|
+| [Cumming LO](/setts/s9/r4lb1r4dg10ly1k10lb4k2lb4/)|
+|![Cumming LO example sett](/setts/s9/r4lb1r4dg10ly1k10lb4k2lb4/sett.png)|
 

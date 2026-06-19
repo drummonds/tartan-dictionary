@@ -60,7 +60,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-DR/6 DG34 K/22
+K/22 DG34 DR/6
 ![Sett](sett.png)
 
 ## Palette
@@ -74,7 +74,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/6 DG34 K/22 tartan")
+![Tartan detail](tartan.png "K/22 DG34 DR/6 tartan")
 
 ## Nearest tartans
 
@@ -93,8 +93,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/k11dg17r3/"><circle cx="283.3" cy="315.1" r="4" fill="#3465a4"><title>Kincaid</title></circle></a><a href="/setts/s4/k3g15k20ly3~x2/"><circle cx="311.8" cy="278.9" r="4" fill="#3465a4"><title>Scotch Tape 2 (Corporate)</title></circle></a><a href="/setts/s3/k5g6t1~x4/"><circle cx="284.5" cy="325.5" r="4" fill="#3465a4"><title>Wilson's No.050</title></circle></a><a href="/setts/s4/k1dg8k8ly1/"><circle cx="302.4" cy="272.8" r="4" fill="#3465a4"><title>Wallace Hunting</title></circle></a><a href="/setts/s3/g5k6t1~x4/"><circle cx="238.4" cy="306.0" r="4" fill="#3465a4"><title>Wilson's, No 50</title></circle></a><a href="/setts/s3/k11g16r2~x4/"><circle cx="339.0" cy="313.9" r="4" fill="#3465a4"><title>Kincaid of Kincaid (Clan)</title></circle></a><a href="/setts/s3/g9k18r2~x4/"><circle cx="343.2" cy="277.9" r="4" fill="#3465a4"><title>Cowie, Justine (Personal)</title></circle></a><a href="/setts/s3/k4g6r1~x10/"><circle cx="258.0" cy="299.3" r="4" fill="#3465a4"><title>Kincaid, of Kincaid</title></circle></a><a href="/setts/s3/g6dp5t1~x4/"><circle cx="289.8" cy="319.3" r="4" fill="#3465a4"><title>Wilson's No.055</title></circle></a><a href="/setts/s3/k5g4ly1~x2/"><circle cx="217.8" cy="309.7" r="4" fill="#3465a4"><title>Wilson's, No 2/53 or Mull</title></circle></a><circle cx="294.8" cy="320.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/k11dg17r3/"><circle cx="283.5" cy="314.9" r="4" fill="#3465a4"><title>Kincaid</title></circle></a><a href="/setts/s4/k3g15k20ly3~x2/"><circle cx="311.9" cy="278.6" r="4" fill="#3465a4"><title>Scotch Tape 2 (Corporate)</title></circle></a><a href="/setts/s3/k5g6t1~x4/"><circle cx="284.7" cy="325.3" r="4" fill="#3465a4"><title>Wilson's No.050</title></circle></a><a href="/setts/s4/k1dg8k8ly1/"><circle cx="302.7" cy="272.6" r="4" fill="#3465a4"><title>Wallace Hunting</title></circle></a><a href="/setts/s3/g5k6t1~x4/"><circle cx="238.7" cy="305.7" r="4" fill="#3465a4"><title>Wilson's, No 50</title></circle></a><a href="/setts/s3/k11g16r2~x4/"><circle cx="339.1" cy="313.7" r="4" fill="#3465a4"><title>Kincaid of Kincaid (Clan)</title></circle></a><a href="/setts/s3/g9k18r2~x4/"><circle cx="343.3" cy="277.5" r="4" fill="#3465a4"><title>Cowie, Justine (Personal)</title></circle></a><a href="/setts/s3/k4g6r1~x10/"><circle cx="258.1" cy="299.0" r="4" fill="#3465a4"><title>Kincaid, of Kincaid</title></circle></a><a href="/setts/s3/g6dp5t1~x4/"><circle cx="289.9" cy="319.0" r="4" fill="#3465a4"><title>Wilson's No.055</title></circle></a><a href="/setts/s3/k5g4ly1~x2/"><circle cx="218.0" cy="309.3" r="4" fill="#3465a4"><title>Wilson's, No 2/53 or Mull</title></circle></a><circle cx="295.0" cy="320.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/k11dg17r3~x2/

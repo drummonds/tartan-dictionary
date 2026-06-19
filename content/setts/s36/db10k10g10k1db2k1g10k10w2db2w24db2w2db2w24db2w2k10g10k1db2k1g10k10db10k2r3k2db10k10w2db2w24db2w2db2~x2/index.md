@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [36 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=519
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Campbell of Cawdor, dress
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -319,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -918,14 +927,14 @@ The nearest existing variants by ΔTartan distance.
 1. [House of Timber Wolf (Personal)](/setts/s29/w23dt2w2dt2w2dt22g12dt2g12dt10w3dt1o2dt10y8g4y8dt10o2dt1g5y23dt22w2g2w2dt2y2w2~x2/) — ΔT 1.08
 1. [Graham Dress](/setts/s21/w4db4w60db5w5k30db27k5db30k27dg4t5dg66t5dg4k30w5db5w57db4w4/) — ΔT 1.31
 1. [Graham, dress](/setts/s21/w4db4w60db5w5k30db27k5db30k27g4t5g66t5g4k30w5db5w57db4w4/) — ΔT 1.36
-1. [Sutherland Dress (Dance)](/setts/s22/w6g2w28k13b6k4b4k4b16r2b2r4b2r2b16k4b4k4b6k13w28g2~x2/) — ΔT 1.46
+1. [Sutherland Dress (Dance)](/setts/s22/w6g2w28k13b6k4b4k4b16r2b2r4~x2/) — ΔT 1.46
 1. [Sutherland, Dress Royal (Dance)](/setts/s20/w24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12w24g2~x4/) — ΔT 1.48
-1. [Hawick Dress](/setts/s32/db2k4lo2k3w2k2g12r2w12w12db12k2w2k3lo2k4db4k4lo2k3w2k2g16r2w24r2g16k2w2k3lo2k2~x2/) — ΔT 1.51
+1. [Hawick Dress](/setts/s32/k2lo2k3w2k2g16r2w24r2g16k2w2k3lo2k4db4k4lo2k3w2k2db12w12w12r2g12k2w2k3lo2k4db2~x2/) — ΔT 1.51
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s31/w23k2w2k2w2k2w10k12g12k2g12k10w3k1r2k10lt8g4lt8k10r2k1g5lt23k22w2g2w2k2lt2w2~x2/"><circle cx="125.2" cy="57.3" r="4" fill="#3465a4"><title>Pentecostal Assemblies of Canada</title></circle></a><a href="/setts/s36/db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4db4w50k27g3db25g6db26g3k25g28r6g25k26w5db5w52db4r4/"><circle cx="92.3" cy="75.4" r="4" fill="#3465a4"><title>Lauder Dress (Can)</title></circle></a><a href="/setts/s33/db18r7db2r2db7r2db2r7db18r2k18w8db7w40db2r8db2w40db7w8r2k18g18r7g2r2g6r2g2r7g18k18r2~x2/"><circle cx="92.4" cy="53.5" r="4" fill="#3465a4"><title>MacDonald, dress</title></circle></a><a href="/setts/s33/db18r7db2r2db7r2db2r7db18r2k18w8db7w40db2r8db2w40db7w8r2k18dg18r7dg2r2dg6r2dg2r7dg18k18r2~x2/"><circle cx="99.9" cy="55.0" r="4" fill="#3465a4"><title>MacDonald Dress #2</title></circle></a><a href="/setts/s29/w23dt2w2dt2w2dt22g12dt2g12dt10w3dt1o2dt10y8g4y8dt10o2dt1g5y23dt22w2g2w2dt2y2w2~x2/"><circle cx="165.3" cy="66.5" r="4" fill="#3465a4"><title>House of Timber Wolf (Personal)</title></circle></a><a href="/setts/s21/w4db4w60db5w5k30db27k5db30k27dg4t5dg66t5dg4k30w5db5w57db4w4/"><circle cx="125.9" cy="83.3" r="4" fill="#3465a4"><title>Graham Dress</title></circle></a><a href="/setts/s21/w4db4w60db5w5k30db27k5db30k27g4t5g66t5g4k30w5db5w57db4w4/"><circle cx="117.6" cy="80.7" r="4" fill="#3465a4"><title>Graham, dress</title></circle></a><a href="/setts/s22/w6g2w28k13b6k4b4k4b16r2b2r4b2r2b16k4b4k4b6k13w28g2~x2/"><circle cx="124.9" cy="88.2" r="4" fill="#3465a4"><title>Sutherland Dress (Dance)</title></circle></a><a href="/setts/s20/w24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12w24g2~x4/"><circle cx="171.3" cy="60.7" r="4" fill="#3465a4"><title>Sutherland, Dress Royal (Dance)</title></circle></a><a href="/setts/s32/db2k4lo2k3w2k2g12r2w12w12db12k2w2k3lo2k4db4k4lo2k3w2k2g16r2w24r2g16k2w2k3lo2k2~x2/"><circle cx="70.6" cy="57.3" r="4" fill="#3465a4"><title>Hawick Dress</title></circle></a><circle cx="120.3" cy="47.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s31/w23k2w2k2w2k2w10k12g12k2g12k10w3k1r2k10lt8g4lt8k10r2k1g5lt23k22w2g2w2k2lt2w2~x2/"><circle cx="125.0" cy="57.3" r="4" fill="#3465a4"><title>Pentecostal Assemblies of Canada</title></circle></a><a href="/setts/s36/db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4db4w50k27g3db25g6db26g3k25g28r6g25k26w5db5w52db4r4/"><circle cx="92.2" cy="75.5" r="4" fill="#3465a4"><title>Lauder Dress (Can)</title></circle></a><a href="/setts/s33/db18r7db2r2db7r2db2r7db18r2k18w8db7w40db2r8db2w40db7w8r2k18g18r7g2r2g6r2g2r7g18k18r2~x2/"><circle cx="92.2" cy="53.6" r="4" fill="#3465a4"><title>MacDonald, dress</title></circle></a><a href="/setts/s33/db18r7db2r2db7r2db2r7db18r2k18w8db7w40db2r8db2w40db7w8r2k18dg18r7dg2r2dg6r2dg2r7dg18k18r2~x2/"><circle cx="99.6" cy="55.1" r="4" fill="#3465a4"><title>MacDonald Dress #2</title></circle></a><a href="/setts/s29/w23dt2w2dt2w2dt22g12dt2g12dt10w3dt1o2dt10y8g4y8dt10o2dt1g5y23dt22w2g2w2dt2y2w2~x2/"><circle cx="165.1" cy="66.6" r="4" fill="#3465a4"><title>House of Timber Wolf (Personal)</title></circle></a><a href="/setts/s21/w4db4w60db5w5k30db27k5db30k27dg4t5dg66t5dg4k30w5db5w57db4w4/"><circle cx="125.8" cy="83.3" r="4" fill="#3465a4"><title>Graham Dress</title></circle></a><a href="/setts/s21/w4db4w60db5w5k30db27k5db30k27g4t5g66t5g4k30w5db5w57db4w4/"><circle cx="117.4" cy="80.7" r="4" fill="#3465a4"><title>Graham, dress</title></circle></a><a href="/setts/s22/w6g2w28k13b6k4b4k4b16r2b2r4~x2/"><circle cx="124.7" cy="88.2" r="4" fill="#3465a4"><title>Sutherland Dress (Dance)</title></circle></a><a href="/setts/s20/w24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12w24g2~x4/"><circle cx="171.0" cy="60.7" r="4" fill="#3465a4"><title>Sutherland, Dress Royal (Dance)</title></circle></a><a href="/setts/s32/k2lo2k3w2k2g16r2w24r2g16k2w2k3lo2k4db4k4lo2k3w2k2db12w12w12r2g12k2w2k3lo2k4db2~x2/"><circle cx="70.4" cy="57.4" r="4" fill="#3465a4"><title>Hawick Dress</title></circle></a><circle cx="120.1" cy="47.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s36/db10k10g10k1db2k1g10k10w2db2w24db2w2db2w24db2w2k10g10k1db2k1g10k10db10k2r3k2db10k10w2db2w24db2w2db2~x2/

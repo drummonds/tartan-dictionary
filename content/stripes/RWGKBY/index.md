@@ -8,7 +8,7 @@ RWGKBY
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/ly3db40k35g5w2r3~x2/tartan.png)
+![Woven sample](/setts/s6/r3w2g5k35db40ly3~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RWGKBY
 
 | Tartans |
 |---------------|
-| [Italian National](/setts/s6/ly3db40k35g5w2r3~x2/)|
-|![Italian National example sett](/setts/s6/ly3db40k35g5w2r3~x2/sett.png)|
+| [Italian National](/setts/s6/r3w2g5k35db40ly3~x2/)|
+|![Italian National example sett](/setts/s6/r3w2g5k35db40ly3~x2/sett.png)|
 

@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=452
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Burrell, Paul
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -57,8 +63,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r60db12t1db2w1db12r5k1r2o2~x2/"><circle cx="519.5" cy="74.6" r="4" fill="#3465a4"><title>Kervgant Dress (Personal))</title></circle></a><a href="/setts/s16/db3r3db14r60ly3r4k2r6k2r4ly3r60db14r3db3w1~x2/"><circle cx="569.3" cy="72.9" r="4" fill="#3465a4"><title>Stenhousemuir Football Club</title></circle></a><a href="/setts/s18/r66b1n1r6dg30r6n1b1r3n16r3b1n1r54dg3o1r6dg6~x2/"><circle cx="517.4" cy="60.3" r="4" fill="#3465a4"><title>Ramada</title></circle></a><a href="/setts/s18/r66b1n1r6g30r6n1b1r3n16r3b1n1r54g3o1r6g6~x2/"><circle cx="527.2" cy="65.3" r="4" fill="#3465a4"><title>Ramada (Corporate)</title></circle></a><a href="/setts/s9/r6k2r4ly3r60db14r3db3w1~x2/"><circle cx="580.6" cy="92.1" r="4" fill="#3465a4"><title>Stenhousemuir Football Club (Sports)</title></circle></a><a href="/setts/s9/m6k2m4ly3m60db14m3db3w1~x2/"><circle cx="586.7" cy="99.8" r="4" fill="#3465a4"><title>Stenhousemuir F.C.</title></circle></a><a href="/setts/s8/dr90k1k2t10k5r2k2t2~x2/"><circle cx="626.0" cy="104.8" r="4" fill="#3465a4"><title>Lock in Northumberland</title></circle></a><a href="/setts/s11/y80lg1y2lo8y2lg1y2r15k1r3lb2~x2/"><circle cx="567.6" cy="68.7" r="4" fill="#3465a4"><title>Drovers' Tryst (Corporate)</title></circle></a><a href="/setts/s8/r48db3ly1dg14r8db3b4lr1~x2/"><circle cx="472.4" cy="80.7" r="4" fill="#3465a4"><title>Prince Charles Cloak</title></circle></a><a href="/setts/s8/r48db3ly1dg14r8db3b4lr1/"><circle cx="472.4" cy="80.7" r="4" fill="#3465a4"><title>Prince Charles Cloak</title></circle></a><circle cx="567.5" cy="63.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r60db12t1db2w1db12r5k1r2o2~x2/"><circle cx="519.0" cy="74.6" r="4" fill="#3465a4"><title>Kervgant Dress (Personal))</title></circle></a><a href="/setts/s16/db3r3db14r60ly3r4k2r6k2r4ly3r60db14r3db3w1~x2/"><circle cx="568.7" cy="72.8" r="4" fill="#3465a4"><title>Stenhousemuir Football Club</title></circle></a><a href="/setts/s18/r66b1n1r6dg30r6n1b1r3n16r3b1n1r54dg3o1r6dg6~x2/"><circle cx="516.8" cy="60.2" r="4" fill="#3465a4"><title>Ramada</title></circle></a><a href="/setts/s18/r66b1n1r6g30r6n1b1r3n16r3b1n1r54g3o1r6g6~x2/"><circle cx="526.5" cy="65.3" r="4" fill="#3465a4"><title>Ramada (Corporate)</title></circle></a><a href="/setts/s9/r6k2r4ly3r60db14r3db3w1~x2/"><circle cx="580.1" cy="91.9" r="4" fill="#3465a4"><title>Stenhousemuir Football Club (Sports)</title></circle></a><a href="/setts/s9/m6k2m4ly3m60db14m3db3w1~x2/"><circle cx="586.2" cy="99.7" r="4" fill="#3465a4"><title>Stenhousemuir F.C.</title></circle></a><a href="/setts/s8/dr90k1k2t10k5r2k2t2~x2/"><circle cx="626.0" cy="104.7" r="4" fill="#3465a4"><title>Lock in Northumberland</title></circle></a><a href="/setts/s11/y80lg1y2lo8y2lg1y2r15k1r3lb2~x2/"><circle cx="566.9" cy="68.7" r="4" fill="#3465a4"><title>Drovers' Tryst (Corporate)</title></circle></a><a href="/setts/s8/r48db3ly1dg14r8db3b4lr1~x2/"><circle cx="471.9" cy="80.6" r="4" fill="#3465a4"><title>Prince Charles Cloak</title></circle></a><a href="/setts/s8/r48db3ly1dg14r8db3b4lr1/"><circle cx="471.9" cy="80.6" r="4" fill="#3465a4"><title>Prince Charles Cloak</title></circle></a><circle cx="567.0" cy="63.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/r29o1r2o1r60lo2r2db10g2g1g2db10r2lo2~x2/

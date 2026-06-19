@@ -18,10 +18,10 @@ BKBKBGBGBKBKBK
 
 
 
-### B K B K B G B G B K B K B K <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="seq">B K B K B G B G B K B K B K</span></span>
+### K B K B K B G B G B K B K B <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K B K B K B G B G B K B K B</span></span>
 
 | Tartans |
 |---------------|
-| [Kelvingrove](/setts/s14/k16b1k1b1k1b9g18b1g18b9k1b1k1b1~x4/)|
-|![Kelvingrove example sett](/setts/s14/k16b1k1b1k1b9g18b1g18b9k1b1k1b1~x4/sett.png)|
+| [Kelvingrove](/setts/s14/k16b1k1b1k1b9g18b1~x4/)|
+|![Kelvingrove example sett](/setts/s14/k16b1k1b1k1b9g18b1~x4/sett.png)|
 

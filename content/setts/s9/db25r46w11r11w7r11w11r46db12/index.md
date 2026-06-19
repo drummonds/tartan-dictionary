@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/
 Original link http://www.tartansauthority.com/tartan-ferret/display/11101/
 
 ## Thread count
-DB/12 LR46 W11 LR11 W7 LR11 W11 LR46 DB/25
+DB/25 LR46 W11 LR11 W7 LR11 W11 LR46 DB/12
 ![Sett](sett.png)
 
 ## Palette
@@ -28,7 +28,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Milne Dress Family Tartan Tartan Number: 634. Earliest known date: pre 2003 Milnes are usually regarded as being a Sept of the Gordons or of the Ogilvys. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/w18db4w18r30w18db4w9dp4/) — ΔT 1.30
 1. [Milne, dress](/setts/s8/w18db4w18r30w18db4w9p4/) — ΔT 1.31
-1. [Buchanan VS](/setts/s6/lb2r4lb2r4lb9k1/) — ΔT 1.44
+1. [Buchanan VS](/setts/s6/lb2r4lb2r4lb9k1~x2/) — ΔT 1.44
 1. [Clayton Dress (Dance)](/setts/s8/r14w35k4w35r14w8r14w8~x2/) — ΔT 1.77
 1. [Milne, Dress (Dance)](/setts/s8/w12t2w12r17w12t2w5dp2~x4/) — ΔT 1.78
 1. [Clayton Dress (Dance)](/setts/s6/w8r14w8r14w35k4~x2/) — ΔT 1.79
@@ -39,8 +39,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w18db4w18r30w18db4w9dp4/"><circle cx="270.1" cy="189.2" r="4" fill="#3465a4"><title>Milne Dress Family Tartan Tartan Number: 634. Earliest known date: pre 2003 Milnes are usually regarded as being a Sept of the Gordons or of the Ogilvys. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/w18db4w18r30w18db4w9p4/"><circle cx="271.2" cy="190.1" r="4" fill="#3465a4"><title>Milne, dress</title></circle></a><a href="/setts/s6/lb2r4lb2r4lb9k1/"><circle cx="322.4" cy="205.9" r="4" fill="#3465a4"><title>Buchanan VS</title></circle></a><a href="/setts/s8/r14w35k4w35r14w8r14w8~x2/"><circle cx="318.1" cy="192.4" r="4" fill="#3465a4"><title>Clayton Dress (Dance)</title></circle></a><a href="/setts/s8/w12t2w12r17w12t2w5dp2~x4/"><circle cx="297.6" cy="179.3" r="4" fill="#3465a4"><title>Milne, Dress (Dance)</title></circle></a><a href="/setts/s6/w8r14w8r14w35k4~x2/"><circle cx="303.9" cy="198.6" r="4" fill="#3465a4"><title>Clayton Dress (Dance)</title></circle></a><a href="/setts/s9/t25r46w11r11w7r11w11r46t12/"><circle cx="364.1" cy="227.0" r="4" fill="#3465a4"><title>Twilfit</title></circle></a><a href="/setts/s8/w13r3w2k5w2r3w13db8~x2/"><circle cx="246.9" cy="190.8" r="4" fill="#3465a4"><title>Boswell Dress Personal Tartan Tartan Number: 6359. Earliest known date: 2004 A tartan for William Boswell of Balmuto in Fife. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dy8lr29dy8lo3dy8lr8lo3~x2/"><circle cx="312.7" cy="200.3" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/setts/s7/w5p3w26r20w3r8ly3~x2/"><circle cx="265.7" cy="168.8" r="4" fill="#3465a4"><title>MacPherson, Red</title></circle></a><circle cx="319.1" cy="205.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w18db4w18r30w18db4w9dp4/"><circle cx="269.7" cy="188.9" r="4" fill="#3465a4"><title>Milne Dress Family Tartan Tartan Number: 634. Earliest known date: pre 2003 Milnes are usually regarded as being a Sept of the Gordons or of the Ogilvys. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/w18db4w18r30w18db4w9p4/"><circle cx="270.7" cy="189.9" r="4" fill="#3465a4"><title>Milne, dress</title></circle></a><a href="/setts/s6/lb2r4lb2r4lb9k1~x2/"><circle cx="321.8" cy="205.5" r="4" fill="#3465a4"><title>Buchanan VS</title></circle></a><a href="/setts/s8/r14w35k4w35r14w8r14w8~x2/"><circle cx="317.5" cy="191.9" r="4" fill="#3465a4"><title>Clayton Dress (Dance)</title></circle></a><a href="/setts/s8/w12t2w12r17w12t2w5dp2~x4/"><circle cx="297.0" cy="179.0" r="4" fill="#3465a4"><title>Milne, Dress (Dance)</title></circle></a><a href="/setts/s6/w8r14w8r14w35k4~x2/"><circle cx="303.4" cy="198.2" r="4" fill="#3465a4"><title>Clayton Dress (Dance)</title></circle></a><a href="/setts/s9/t25r46w11r11w7r11w11r46t12/"><circle cx="363.6" cy="226.8" r="4" fill="#3465a4"><title>Twilfit</title></circle></a><a href="/setts/s8/w13r3w2k5w2r3w13db8~x2/"><circle cx="246.5" cy="190.5" r="4" fill="#3465a4"><title>Boswell Dress Personal Tartan Tartan Number: 6359. Earliest known date: 2004 A tartan for William Boswell of Balmuto in Fife. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dy8lr29dy8lo3dy8lr8lo3~x2/"><circle cx="312.3" cy="200.1" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/setts/s7/w5p3w26r20w3r8ly3~x2/"><circle cx="265.2" cy="168.6" r="4" fill="#3465a4"><title>MacPherson, Red</title></circle></a><circle cx="318.6" cy="204.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/db25r46w11r11w7r11w11r46db12/

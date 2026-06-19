@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,21 +919,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Glen Lyon](/setts/s3/k6g5r2~x2/) — ΔT 0.48
+1. [Glen Lyon](/setts/s3/k6g5r2~x2/) — ΔT 0.47
 1. [Glen Lyon, or Mull (No.53)](/setts/s3/k5g3t2~x2/) — ΔT 1.16
-1. [Wilson's No.200](/setts/s3/g4k7r4~x2/) — ΔT 1.61
+1. [Wilson's No.200](/setts/s3/r4k7g4~x2/) — ΔT 1.61
 1. [Zwijnenberg, Frans (Personal)](/setts/s3/k23g8lo8~x4/) — ΔT 1.75
 1. [Wilson's, No 2/53 or Mull](/setts/s3/k5g4ly1~x2/) — ΔT 1.75
-1. [Daks - Black House Check, C.6700.06](/setts/s5/ly3k6o4k7o3~x2/) — ΔT 1.76
+1. [Daks - Black House Check, C.6700.06](/setts/s5/o3k7o4k6ly3~x2/) — ΔT 1.76
 1. [Wilson's No.202](/setts/s3/g7k4r4~x2/) — ΔT 1.79
 1. [Mull](/setts/s3/k5g4t2~x2/) — ΔT 1.79
 1. [Zwijnenberg, Frans (Personal)](/setts/s3/k23g8ly8~x4/) — ΔT 1.83
-1. [Daks, Black (Fashion)](/setts/s5/ly3k6dy4k6r3~x2/) — ΔT 1.93
+1. [Daks, Black (Fashion)](/setts/s5/r3k6dy4k6ly3~x2/) — ΔT 1.93
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/k6g5r2~x2/"><circle cx="168.3" cy="341.9" r="4" fill="#3465a4"><title>Glen Lyon</title></circle></a><a href="/setts/s3/k5g3t2~x2/"><circle cx="164.6" cy="354.7" r="4" fill="#3465a4"><title>Glen Lyon, or Mull (No.53)</title></circle></a><a href="/setts/s3/g4k7r4~x2/"><circle cx="158.9" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.200</title></circle></a><a href="/setts/s3/k23g8lo8~x4/"><circle cx="241.4" cy="323.7" r="4" fill="#3465a4"><title>Zwijnenberg, Frans (Personal)</title></circle></a><a href="/setts/s3/k5g4ly1~x2/"><circle cx="217.8" cy="309.7" r="4" fill="#3465a4"><title>Wilson's, No 2/53 or Mull</title></circle></a><a href="/setts/s5/ly3k6o4k7o3~x2/"><circle cx="152.7" cy="311.0" r="4" fill="#3465a4"><title>Daks - Black House Check, C.6700.06</title></circle></a><a href="/setts/s3/g7k4r4~x2/"><circle cx="159.8" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.202</title></circle></a><a href="/setts/s3/k5g4t2~x2/"><circle cx="177.9" cy="366.0" r="4" fill="#3465a4"><title>Mull</title></circle></a><a href="/setts/s3/k23g8ly8~x4/"><circle cx="241.2" cy="319.3" r="4" fill="#3465a4"><title>Zwijnenberg, Frans (Personal)</title></circle></a><a href="/setts/s5/ly3k6dy4k6r3~x2/"><circle cx="146.8" cy="327.2" r="4" fill="#3465a4"><title>Daks, Black (Fashion)</title></circle></a><circle cx="147.7" cy="354.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/k6g5r2~x2/"><circle cx="168.7" cy="341.6" r="4" fill="#3465a4"><title>Glen Lyon</title></circle></a><a href="/setts/s3/k5g3t2~x2/"><circle cx="165.0" cy="354.5" r="4" fill="#3465a4"><title>Glen Lyon, or Mull (No.53)</title></circle></a><a href="/setts/s3/r4k7g4~x2/"><circle cx="159.1" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.200</title></circle></a><a href="/setts/s3/k23g8lo8~x4/"><circle cx="241.6" cy="323.3" r="4" fill="#3465a4"><title>Zwijnenberg, Frans (Personal)</title></circle></a><a href="/setts/s3/k5g4ly1~x2/"><circle cx="218.0" cy="309.3" r="4" fill="#3465a4"><title>Wilson's, No 2/53 or Mull</title></circle></a><a href="/setts/s5/o3k7o4k6ly3~x2/"><circle cx="153.0" cy="310.8" r="4" fill="#3465a4"><title>Daks - Black House Check, C.6700.06</title></circle></a><a href="/setts/s3/g7k4r4~x2/"><circle cx="160.0" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.202</title></circle></a><a href="/setts/s3/k5g4t2~x2/"><circle cx="178.2" cy="366.0" r="4" fill="#3465a4"><title>Mull</title></circle></a><a href="/setts/s3/k23g8ly8~x4/"><circle cx="241.4" cy="319.0" r="4" fill="#3465a4"><title>Zwijnenberg, Frans (Personal)</title></circle></a><a href="/setts/s5/r3k6dy4k6ly3~x2/"><circle cx="147.0" cy="327.0" r="4" fill="#3465a4"><title>Daks, Black (Fashion)</title></circle></a><circle cx="148.0" cy="354.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/k5g4r2~x2/

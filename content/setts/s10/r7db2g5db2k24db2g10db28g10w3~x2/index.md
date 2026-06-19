@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/6 G20 B56 G20 B4 K48 B4 G10 B4 R/14
+R/14 B4 G10 B4 K48 B4 G20 B56 G20 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/"><circle cx="158.1" cy="134.3" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s12/k4r1k12w1r4w1dg4w1m4dg12k1w2~x2/"><circle cx="148.0" cy="138.5" r="4" fill="#3465a4"><title>Glenfalloch</title></circle></a><a href="/setts/s11/db24k4db4k4db4k24g24r5g6k2ly2~x2/"><circle cx="144.1" cy="150.7" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/setts/s11/db11k2db2k2db2k11g11r2g3k1ly3~x2/"><circle cx="119.8" cy="156.2" r="4" fill="#3465a4"><title>Grant, hunting</title></circle></a><a href="/setts/s11/db22k4db4k4db4k22g22r6g6k2ly3~x2/"><circle cx="127.5" cy="157.0" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1~x2/"><circle cx="141.2" cy="143.3" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s10/r7db2g5db18g10db2k24db2g10ly3~x2/"><circle cx="118.6" cy="160.2" r="4" fill="#3465a4"><title>Offally</title></circle></a><a href="/setts/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/"><circle cx="126.9" cy="157.5" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s10/k26n2k2n2k2n10w10n6dt10lo5~x2/"><circle cx="158.2" cy="141.8" r="4" fill="#3465a4"><title>Collister (Personal)</title></circle></a><a href="/setts/s8/w4k1g18k17db13r1db3r1~x2/"><circle cx="143.2" cy="144.3" r="4" fill="#3465a4"><title>Whitson</title></circle></a><circle cx="149.2" cy="141.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/"><circle cx="158.2" cy="134.3" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s12/k4r1k12w1r4w1dg4w1m4dg12k1w2~x2/"><circle cx="148.0" cy="138.6" r="4" fill="#3465a4"><title>Glenfalloch</title></circle></a><a href="/setts/s11/db24k4db4k4db4k24g24r5g6k2ly2~x2/"><circle cx="144.2" cy="150.7" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/setts/s11/db11k2db2k2db2k11g11r2g3k1ly3~x2/"><circle cx="119.9" cy="156.3" r="4" fill="#3465a4"><title>Grant, hunting</title></circle></a><a href="/setts/s11/db22k4db4k4db4k22g22r6g6k2ly3~x2/"><circle cx="127.7" cy="157.0" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1~x2/"><circle cx="141.2" cy="143.3" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s10/r7db2g5db18g10db2k24db2g10ly3~x2/"><circle cx="118.8" cy="160.3" r="4" fill="#3465a4"><title>Offally</title></circle></a><a href="/setts/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/"><circle cx="127.0" cy="157.5" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s10/k26n2k2n2k2n10w10n6dt10lo5~x2/"><circle cx="158.2" cy="141.8" r="4" fill="#3465a4"><title>Collister (Personal)</title></circle></a><a href="/setts/s8/w4k1g18k17db13r1db3r1~x2/"><circle cx="143.4" cy="144.3" r="4" fill="#3465a4"><title>Whitson</title></circle></a><circle cx="149.3" cy="141.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r7db2g5db2k24db2g10db28g10w3~x2/

@@ -2,7 +2,7 @@
 title: "Maud, Mary"
 date: 2023-03-18
 ---
-**Bands:** [BKBYBWBR](/stripes/bkbybwbr/) · **Stripes:** [B K B LY B W B R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="seq">B K B LY B W B R</span></span>
+**Bands:** [RBWBYBKB](/stripes/rbwbybkb/) · **Stripes:** [R B W B LY B K B](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R B W B LY B K B</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -50,18 +50,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Jouy (Personal)](/setts/s13/b5lb5b5lb5b15lb1o2lb1b21ly2b5k2ly4~x2/) — ΔT 1.19
 1. [Carlisle Family (Name)](/setts/s7/b33lo6r3lo6k3lo15b32~x4/) — ΔT 1.33
 1. [Edinburgh Festival](/setts/s8/b46dp3lr3dp3lr4dp12w3k3~x2/) — ΔT 1.59
-1. [Wheadon (Name)](/setts/s6/db40g7ly3g7db15r5~x2/) — ΔT 1.63
-1. [Fujisankei Serene (Corporate)](/setts/s9/lb1n6db4n1db16lb1db4lb6o1~x4/) — ΔT 1.73
+1. [Wheadon (Name)](/setts/s6/db40g7ly3g7db15r5~x2/) — ΔT 1.64
+1. [Fujisankei Serene (Corporate)](/setts/s9/o1lb6db4lb1db16n1db4n6lb1~x4/) — ΔT 1.73
 1. [Mortell (Personal)](/setts/s10/db20b2w5r2db10b5db20b2w5r5~x2/) — ΔT 1.74
-1. [Starr](/setts/s7/lb1b20w3db3b4lb4w1~x4/) — ΔT 1.76
-1. [Tokyo Bluebells (Corporate)](/setts/s8/b18r1b1r1b1k7b13w2~x4/) — ΔT 1.77
+1. [Starr](/setts/s7/w1lb4b4db3w3b20lb1~x4/) — ΔT 1.76
+1. [Tokyo Bluebells (Corporate)](/setts/s8/b18r1b1r1b1k7b13w2~x4/) — ΔT 1.76
 1. [Akashi](/setts/s12/w8b8w4b64db6lb6b4lb6db10b30lo2w5/) — ΔT 1.80
 1. [Baker](/setts/s8/db28o3w1o3db4w2p1w5~x4/) — ΔT 1.81
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/b5lb5b5lb5b15lb1o2lb1b21ly2b5k2ly4~x2/"><circle cx="373.0" cy="119.1" r="4" fill="#3465a4"><title>Jouy (Personal)</title></circle></a><a href="/setts/s7/b33lo6r3lo6k3lo15b32~x4/"><circle cx="361.0" cy="194.7" r="4" fill="#3465a4"><title>Carlisle Family (Name)</title></circle></a><a href="/setts/s8/b46dp3lr3dp3lr4dp12w3k3~x2/"><circle cx="339.9" cy="129.0" r="4" fill="#3465a4"><title>Edinburgh Festival</title></circle></a><a href="/setts/s6/db40g7ly3g7db15r5~x2/"><circle cx="428.2" cy="202.0" r="4" fill="#3465a4"><title>Wheadon (Name)</title></circle></a><a href="/setts/s9/lb1n6db4n1db16lb1db4lb6o1~x4/"><circle cx="344.9" cy="168.4" r="4" fill="#3465a4"><title>Fujisankei Serene (Corporate)</title></circle></a><a href="/setts/s10/db20b2w5r2db10b5db20b2w5r5~x2/"><circle cx="337.8" cy="186.8" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/setts/s7/lb1b20w3db3b4lb4w1~x4/"><circle cx="404.1" cy="162.6" r="4" fill="#3465a4"><title>Starr</title></circle></a><a href="/setts/s8/b18r1b1r1b1k7b13w2~x4/"><circle cx="461.6" cy="171.1" r="4" fill="#3465a4"><title>Tokyo Bluebells (Corporate)</title></circle></a><a href="/setts/s12/w8b8w4b64db6lb6b4lb6db10b30lo2w5/"><circle cx="404.4" cy="92.7" r="4" fill="#3465a4"><title>Akashi</title></circle></a><a href="/setts/s8/db28o3w1o3db4w2p1w5~x4/"><circle cx="436.0" cy="125.3" r="4" fill="#3465a4"><title>Baker</title></circle></a><circle cx="387.5" cy="148.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/b5lb5b5lb5b15lb1o2lb1b21ly2b5k2ly4~x2/"><circle cx="372.7" cy="118.9" r="4" fill="#3465a4"><title>Jouy (Personal)</title></circle></a><a href="/setts/s7/b33lo6r3lo6k3lo15b32~x4/"><circle cx="360.8" cy="194.4" r="4" fill="#3465a4"><title>Carlisle Family (Name)</title></circle></a><a href="/setts/s8/b46dp3lr3dp3lr4dp12w3k3~x2/"><circle cx="339.7" cy="128.9" r="4" fill="#3465a4"><title>Edinburgh Festival</title></circle></a><a href="/setts/s6/db40g7ly3g7db15r5~x2/"><circle cx="428.1" cy="201.7" r="4" fill="#3465a4"><title>Wheadon (Name)</title></circle></a><a href="/setts/s9/o1lb6db4lb1db16n1db4n6lb1~x4/"><circle cx="344.8" cy="168.2" r="4" fill="#3465a4"><title>Fujisankei Serene (Corporate)</title></circle></a><a href="/setts/s10/db20b2w5r2db10b5db20b2w5r5~x2/"><circle cx="337.7" cy="186.6" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/setts/s7/w1lb4b4db3w3b20lb1~x4/"><circle cx="403.8" cy="162.4" r="4" fill="#3465a4"><title>Starr</title></circle></a><a href="/setts/s8/b18r1b1r1b1k7b13w2~x4/"><circle cx="461.4" cy="170.7" r="4" fill="#3465a4"><title>Tokyo Bluebells (Corporate)</title></circle></a><a href="/setts/s12/w8b8w4b64db6lb6b4lb6db10b30lo2w5/"><circle cx="404.1" cy="92.4" r="4" fill="#3465a4"><title>Akashi</title></circle></a><a href="/setts/s8/db28o3w1o3db4w2p1w5~x4/"><circle cx="435.7" cy="125.1" r="4" fill="#3465a4"><title>Baker</title></circle></a><circle cx="387.2" cy="148.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/b130k9b21ly8b21w8b35r70/

@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Hislop hunting
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 K4 DB16 G16 K16 Y2 K16 R/4
+R/4 K16 Y2 K16 G16 DB16 K4 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -909,17 +918,17 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/4 K4 DB16 G16 K16 Y2 K16 R/4 tartan")
+![Tartan detail](tartan.png "R/4 K16 Y2 K16 G16 DB16 K4 LN/4 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Brodie hunting](/setts/s7/r2db8g8k8ly1k8r2~x2/) — ΔT 1.06
+1. [Brodie hunting](/setts/s7/r2k8ly1k8g8db8r2~x2/) — ΔT 1.06
 1. [Unidentified 13](/setts/s10/k14t2db6g7r2k14db6t2db2t4~x2/) — ΔT 1.25
 1. [Vosko](/setts/s9/db25k12ly4k9r6k9ly4k12g25~x2/) — ΔT 1.27
 1. [BlackRock (Asymmetrical)](/setts/s7/w8r4k8k20k6k3k5~x2/) — ΔT 1.28
-1. [Brodie Hunting](/setts/s7/r2db8dg8k8ly1dg8r2/) — ΔT 1.30
+1. [Brodie Hunting](/setts/s7/r2dg8ly1k8dg8db8r2/) — ΔT 1.30
 1. [Veere](/setts/s11/lb7k11lt3db9g19lo3k22db9lt3k3db6~x2/) — ΔT 1.32
 1. [MacCallum, of Berwick](/setts/s9/db10r7db31k25g23k8db7k8ly5~x2/) — ΔT 1.35
 1. [Cornish Htg (District)](/setts/s7/w5k26ly2dg24db8k4r3~x2/) — ΔT 1.35
@@ -928,8 +937,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r2db8g8k8ly1k8r2~x2/"><circle cx="138.2" cy="213.8" r="4" fill="#3465a4"><title>Brodie hunting</title></circle></a><a href="/setts/s10/k14t2db6g7r2k14db6t2db2t4~x2/"><circle cx="166.7" cy="193.8" r="4" fill="#3465a4"><title>Unidentified 13</title></circle></a><a href="/setts/s9/db25k12ly4k9r6k9ly4k12g25~x2/"><circle cx="105.4" cy="203.8" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/setts/s7/w8r4k8k20k6k3k5~x2/"><circle cx="132.0" cy="209.7" r="4" fill="#3465a4"><title>BlackRock (Asymmetrical)</title></circle></a><a href="/setts/s7/r2db8dg8k8ly1dg8r2/"><circle cx="153.8" cy="224.2" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/setts/s11/lb7k11lt3db9g19lo3k22db9lt3k3db6~x2/"><circle cx="82.6" cy="166.5" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/setts/s9/db10r7db31k25g23k8db7k8ly5~x2/"><circle cx="119.9" cy="206.3" r="4" fill="#3465a4"><title>MacCallum, of Berwick</title></circle></a><a href="/setts/s7/w5k26ly2dg24db8k4r3~x2/"><circle cx="165.7" cy="155.6" r="4" fill="#3465a4"><title>Cornish Htg (District)</title></circle></a><a href="/setts/s11/k16db2t2db4g16ly2k15db6t2k3t4~x2/"><circle cx="170.4" cy="172.8" r="4" fill="#3465a4"><title>Wilson's, No 30</title></circle></a><a href="/setts/s10/db18k10g9k2r2k2g9k10db9w2~x2/"><circle cx="129.9" cy="189.3" r="4" fill="#3465a4"><title>Robertson, hunting</title></circle></a><circle cx="131.5" cy="190.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r2k8ly1k8g8db8r2~x2/"><circle cx="138.4" cy="213.8" r="4" fill="#3465a4"><title>Brodie hunting</title></circle></a><a href="/setts/s10/k14t2db6g7r2k14db6t2db2t4~x2/"><circle cx="166.9" cy="193.8" r="4" fill="#3465a4"><title>Unidentified 13</title></circle></a><a href="/setts/s9/db25k12ly4k9r6k9ly4k12g25~x2/"><circle cx="105.6" cy="203.8" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/setts/s7/w8r4k8k20k6k3k5~x2/"><circle cx="132.2" cy="209.7" r="4" fill="#3465a4"><title>BlackRock (Asymmetrical)</title></circle></a><a href="/setts/s7/r2dg8ly1k8dg8db8r2/"><circle cx="154.1" cy="224.2" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/setts/s11/lb7k11lt3db9g19lo3k22db9lt3k3db6~x2/"><circle cx="82.9" cy="166.5" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/setts/s9/db10r7db31k25g23k8db7k8ly5~x2/"><circle cx="120.2" cy="206.3" r="4" fill="#3465a4"><title>MacCallum, of Berwick</title></circle></a><a href="/setts/s7/w5k26ly2dg24db8k4r3~x2/"><circle cx="165.9" cy="155.6" r="4" fill="#3465a4"><title>Cornish Htg (District)</title></circle></a><a href="/setts/s11/k16db2t2db4g16ly2k15db6t2k3t4~x2/"><circle cx="170.6" cy="172.8" r="4" fill="#3465a4"><title>Wilson's, No 30</title></circle></a><a href="/setts/s10/db18k10g9k2r2k2g9k10db9w2~x2/"><circle cx="130.2" cy="189.3" r="4" fill="#3465a4"><title>Robertson, hunting</title></circle></a><circle cx="131.8" cy="190.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r2k8ly1k8g8db8k2w2~x2/

@@ -2,7 +2,7 @@
 title: "Borthwick"
 date: 2023-03-18
 ---
-**Bands:** [GKRKGKGKR](/stripes/gkrkgkgkr/) · **Stripes:** [DG K R K Y K Y K R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG K R K Y K Y K R</span></span>
+**Bands:** [RKGKGKRKG](/stripes/rkgkgkrkg/) · **Stripes:** [R K Y K Y K R K DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">R K Y K Y K R K DG</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -13,13 +13,23 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Variants
 
@@ -59,8 +69,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g17k1r16k2y14k19y14k2r6~x2/"><circle cx="142.1" cy="171.3" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s9/dg12k1r10k2y10k14y10k2r4~x2/"><circle cx="133.8" cy="187.2" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/setts/s9/dg17k1dr16k2y14k19y14k2dr6~x2/"><circle cx="154.6" cy="181.7" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s9/dg17k1dr16k2y14k19y14k2dr6/"><circle cx="154.6" cy="181.7" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s9/dg12k1dr10k2y10k14y10k2dr4~x2/"><circle cx="138.8" cy="195.4" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/setts/s9/g17k1r16k2o14k19o14k2r6~x2/"><circle cx="170.7" cy="184.1" r="4" fill="#3465a4"><title>Borthwick (Clan)</title></circle></a><a href="/setts/s7/w2k1dg16k12r12k1w2~x2/"><circle cx="191.6" cy="167.4" r="4" fill="#3465a4"><title>Prince Edward Island #2</title></circle></a><a href="/setts/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/"><circle cx="158.5" cy="154.2" r="4" fill="#3465a4"><title>Bonner, (Bonnar)</title></circle></a><a href="/setts/s11/k4r6g8r16k6db10k2db10k2g8ly1~x2/"><circle cx="123.9" cy="162.3" r="4" fill="#3465a4"><title>MacBrine (Name)</title></circle></a><a href="/setts/s7/k9lr4k1lr4dg15r4k1~x4/"><circle cx="215.3" cy="185.3" r="4" fill="#3465a4"><title>Logan - 1797 (Dark)</title></circle></a><circle cx="148.8" cy="172.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g17k1r16k2y14k19y14k2r6~x2/"><circle cx="142.2" cy="171.2" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s9/dg12k1r10k2y10k14y10k2r4~x2/"><circle cx="133.9" cy="187.2" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/setts/s9/dg17k1dr16k2y14k19y14k2dr6~x2/"><circle cx="154.8" cy="181.7" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s9/dg17k1dr16k2y14k19y14k2dr6/"><circle cx="154.8" cy="181.7" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s9/dg12k1dr10k2y10k14y10k2dr4~x2/"><circle cx="139.0" cy="195.4" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/setts/s9/g17k1r16k2o14k19o14k2r6~x2/"><circle cx="170.7" cy="184.2" r="4" fill="#3465a4"><title>Borthwick (Clan)</title></circle></a><a href="/setts/s7/w2k1dg16k12r12k1w2~x2/"><circle cx="191.5" cy="167.4" r="4" fill="#3465a4"><title>Prince Edward Island #2</title></circle></a><a href="/setts/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/"><circle cx="158.5" cy="154.2" r="4" fill="#3465a4"><title>Bonner, (Bonnar)</title></circle></a><a href="/setts/s11/k4r6g8r16k6db10k2db10k2g8ly1~x2/"><circle cx="123.9" cy="162.4" r="4" fill="#3465a4"><title>MacBrine (Name)</title></circle></a><a href="/setts/s7/k9lr4k1lr4dg15r4k1~x4/"><circle cx="215.3" cy="185.3" r="4" fill="#3465a4"><title>Logan - 1797 (Dark)</title></circle></a><circle cx="148.9" cy="172.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dg17k1r16k2y14k19y14k2r6/

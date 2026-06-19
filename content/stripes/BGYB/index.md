@@ -20,7 +20,7 @@ BGYB
 
 
 
-### T DY LO T <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="seq">T DY LO T</span></span>
+### T LO DY T <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="seq">T LO DY T</span></span>
 
 | Tartans |
 |---------------|

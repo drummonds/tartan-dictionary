@@ -2,7 +2,7 @@
 title: "Tennessee Volunteer"
 date: 2023-03-18
 ---
-**Bands:** [WYWKYKWY](/stripes/wywkykwy/) · **Stripes:** [W LO W K LO K LB LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">W LO W K LO K LB LO</span></span>
+**Bands:** [YWKYKWYW](/stripes/ywkykwyw/) · **Stripes:** [LO LB K LO K W LO W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO LB K LO K W LO W</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6356
 
 ## Thread count
-O/20 LB10 K10 O90 K10 W24 O24 W/24
+W/24 O24 W24 K10 O90 K10 LB10 O/20
 ![Sett](sett.png)
 
 ## Palette
@@ -39,7 +39,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "O/20 LB10 K10 O90 K10 W24 O24 W/24 tartan")
+![Tartan detail](tartan.png "W/24 O24 W24 K10 O90 K10 LB10 O/20 tartan")
 
 ## Nearest tartans
 
@@ -51,15 +51,15 @@ The nearest existing variants by ΔTartan distance.
 1. [MacPherson Dress Red (Dance)](/setts/s7/w5dp3w26r20w3r8ly3~x2/) — ΔT 1.62
 1. [Gary (Personal)](/setts/s12/dp2r1lo4w2lo12w8lo12w2lo2lo2w1lo2~x4/) — ΔT 1.63
 1. [Glassary #3](/setts/s8/db4ly1r12ly2r2ly12r1ly4~x4/) — ΔT 1.71
-1. [O'Neill Pipe Band 1999/ Oliver dress](/setts/s9/w2g1w2r6w10g6w2r1w2~x4/) — ΔT 1.72
+1. [O'Neill Pipe Band 1999/ Oliver dress](/setts/s9/w2r1w2g6w10r6w2g1w2~x4/) — ΔT 1.72
 1. [Burns Battalion (Fashion)](/setts/s10/dy22b2dy3ly4dy3b2dy12b4w19dy3~x2/) — ΔT 1.72
-1. [Fraser Yellow #2](/setts/s6/ly1db3ly1dg3ly8w1~x4/) — ΔT 1.73
+1. [Fraser Yellow #2](/setts/s6/w1ly8dg3ly1db3ly1~x4/) — ΔT 1.73
 1. [MacPherson Dress Burgundy (Dance)](/setts/s7/w4k2w25r21w3r8ly3~x2/) — ΔT 1.74
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/dy8lr29dy8lo3dy8lr8lo3~x2/"><circle cx="312.7" cy="200.3" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/setts/s9/ly5db9r3db5ly2db4ly26t3r4~x2/"><circle cx="270.5" cy="139.6" r="4" fill="#3465a4"><title>Bracken</title></circle></a><a href="/setts/s7/w5p3w26r20w3r8ly3~x2/"><circle cx="265.7" cy="168.8" r="4" fill="#3465a4"><title>MacPherson, Red</title></circle></a><a href="/setts/s7/w5dp3w26r20w3r8ly3~x2/"><circle cx="267.2" cy="169.0" r="4" fill="#3465a4"><title>MacPherson Dress Red (Dance)</title></circle></a><a href="/setts/s12/dp2r1lo4w2lo12w8lo12w2lo2lo2w1lo2~x4/"><circle cx="344.2" cy="131.8" r="4" fill="#3465a4"><title>Gary (Personal)</title></circle></a><a href="/setts/s8/db4ly1r12ly2r2ly12r1ly4~x4/"><circle cx="298.6" cy="171.7" r="4" fill="#3465a4"><title>Glassary #3</title></circle></a><a href="/setts/s9/w2g1w2r6w10g6w2r1w2~x4/"><circle cx="287.7" cy="184.3" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1999/ Oliver dress</title></circle></a><a href="/setts/s10/dy22b2dy3ly4dy3b2dy12b4w19dy3~x2/"><circle cx="282.5" cy="154.5" r="4" fill="#3465a4"><title>Burns Battalion (Fashion)</title></circle></a><a href="/setts/s6/ly1db3ly1dg3ly8w1~x4/"><circle cx="272.7" cy="191.9" r="4" fill="#3465a4"><title>Fraser Yellow #2</title></circle></a><a href="/setts/s7/w4k2w25r21w3r8ly3~x2/"><circle cx="265.4" cy="152.9" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy (Dance)</title></circle></a><circle cx="321.7" cy="165.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/dy8lr29dy8lo3dy8lr8lo3~x2/"><circle cx="312.3" cy="200.1" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/setts/s9/ly5db9r3db5ly2db4ly26t3r4~x2/"><circle cx="270.0" cy="139.4" r="4" fill="#3465a4"><title>Bracken</title></circle></a><a href="/setts/s7/w5p3w26r20w3r8ly3~x2/"><circle cx="265.2" cy="168.6" r="4" fill="#3465a4"><title>MacPherson, Red</title></circle></a><a href="/setts/s7/w5dp3w26r20w3r8ly3~x2/"><circle cx="266.7" cy="168.8" r="4" fill="#3465a4"><title>MacPherson Dress Red (Dance)</title></circle></a><a href="/setts/s12/dp2r1lo4w2lo12w8lo12w2lo2lo2w1lo2~x4/"><circle cx="343.5" cy="131.7" r="4" fill="#3465a4"><title>Gary (Personal)</title></circle></a><a href="/setts/s8/db4ly1r12ly2r2ly12r1ly4~x4/"><circle cx="298.1" cy="171.5" r="4" fill="#3465a4"><title>Glassary #3</title></circle></a><a href="/setts/s9/w2r1w2g6w10r6w2g1w2~x4/"><circle cx="287.2" cy="184.1" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1999/ Oliver dress</title></circle></a><a href="/setts/s10/dy22b2dy3ly4dy3b2dy12b4w19dy3~x2/"><circle cx="282.1" cy="154.3" r="4" fill="#3465a4"><title>Burns Battalion (Fashion)</title></circle></a><a href="/setts/s6/w1ly8dg3ly1db3ly1~x4/"><circle cx="272.3" cy="191.6" r="4" fill="#3465a4"><title>Fraser Yellow #2</title></circle></a><a href="/setts/s7/w4k2w25r21w3r8ly3~x2/"><circle cx="264.9" cy="152.7" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy (Dance)</title></circle></a><circle cx="321.1" cy="165.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/w12lo12w12k5lo45k5lb5lo10~x2/

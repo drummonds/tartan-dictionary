@@ -8,5 +8,5 @@ A family of [Clan Sunderland](/clan/sunderland/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s7/o1k21o5k3o5k9r1~x4/"><img src="/setts/s7/o1k21o5k3o5k9r1~x4/sett.png" alt="Sunderland of Scotland" width="240"><br>Sunderland of Scotland</a>
+<a class="tartan" href="/setts/s7/r1k9o5k3o5k21o1~x4/"><img src="/setts/s7/r1k9o5k3o5k21o1~x4/sett.png" alt="Sunderland of Scotland" width="240"><br>Sunderland of Scotland</a>
 

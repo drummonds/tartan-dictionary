@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands1
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5729/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Kennedy
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-R/6 G6 Y4 G10 R4 G6 R4 G64 DB18 K6 DB10 K6 DB18 G78 Y/8
+Y/8 G78 DB18 K6 DB10 K6 DB18 G64 R4 G6 R4 G10 Y4 G6 R/6
 ![Sett](sett.png)
 
 ## Palette
@@ -923,8 +932,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r4g40db12lo2db12g30k2g4k2g4lo2g3k3~x2/"><circle cx="406.2" cy="135.8" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/setts/s15/ly8dg77db18k7db9k6db18dg64r4dg5r4dg9ly4dg5r6/"><circle cx="402.2" cy="129.9" r="4" fill="#3465a4"><title>Kennedy #2</title></circle></a><a href="/setts/s18/g14lb1db2r1g1r1db2lb1g4lb1db2r1g1r1db2lb1g14lo1~x4/"><circle cx="363.9" cy="111.3" r="4" fill="#3465a4"><title>Seattle</title></circle></a><a href="/setts/s17/ly8g84b21k10b10k10b10k10b21g62r3g6r3g10ly3g5r6/"><circle cx="353.8" cy="105.9" r="4" fill="#3465a4"><title>King Edward VII (Royal)</title></circle></a><a href="/setts/s13/k3g3ly2g4k2g3k2g24db10ly2db10g30r3~x2/"><circle cx="347.0" cy="136.3" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/setts/s10/g4lb1db2r1g1r1db2lb1g14lo1~x4/"><circle cx="383.4" cy="139.4" r="4" fill="#3465a4"><title>Seattle (District)</title></circle></a><a href="/setts/s13/g16k8g1k1lb1g1lb1lo1g1k1o1g4k1~x4/"><circle cx="344.5" cy="114.6" r="4" fill="#3465a4"><title>Savoy</title></circle></a><a href="/setts/s20/db10dg25ly2dg2ly3dg2ly2dg25db10w3db10dg25ly2dg2ly3dg2ly2dg25db10k3~x2/"><circle cx="336.6" cy="136.1" r="4" fill="#3465a4"><title>College of William &amp; Mary Schools Tartan Tartan Number: 6522. Earliest known date: 2004 Designed by Carol Worthley of South Hiram, Maine for the Alma Mater of Stephen H Snell of Alexandria, Virginia - the College of William &amp; Mary in VA. Stephen Snell has donated the tartan to the Earl Gregg Swem Library in that College to be sold as a fundraiser. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/g24g2b2k3lo1k1lr1k1g4r2k1r2lr1~x4/"><circle cx="403.4" cy="88.5" r="4" fill="#3465a4"><title>Princess Mary #2</title></circle></a><a href="/setts/s10/dg40r5k2w2k2ly3k2dg10r3k3~x2/"><circle cx="438.8" cy="127.7" r="4" fill="#3465a4"><title>Palmer, Arnold</title></circle></a><circle cx="391.9" cy="122.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r4g40db12lo2db12g30k2g4k2g4lo2g3k3~x2/"><circle cx="405.9" cy="135.7" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/setts/s15/ly8dg77db18k7db9k6db18dg64r4dg5r4dg9ly4dg5r6/"><circle cx="402.0" cy="129.9" r="4" fill="#3465a4"><title>Kennedy #2</title></circle></a><a href="/setts/s18/g14lb1db2r1g1r1db2lb1g4lb1db2r1g1r1db2lb1g14lo1~x4/"><circle cx="363.6" cy="111.2" r="4" fill="#3465a4"><title>Seattle</title></circle></a><a href="/setts/s17/ly8g84b21k10b10k10b10k10b21g62r3g6r3g10ly3g5r6/"><circle cx="353.5" cy="105.9" r="4" fill="#3465a4"><title>King Edward VII (Royal)</title></circle></a><a href="/setts/s13/k3g3ly2g4k2g3k2g24db10ly2db10g30r3~x2/"><circle cx="346.8" cy="136.1" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/setts/s10/g4lb1db2r1g1r1db2lb1g14lo1~x4/"><circle cx="383.1" cy="139.3" r="4" fill="#3465a4"><title>Seattle (District)</title></circle></a><a href="/setts/s13/g16k8g1k1lb1g1lb1lo1g1k1o1g4k1~x4/"><circle cx="344.3" cy="114.5" r="4" fill="#3465a4"><title>Savoy</title></circle></a><a href="/setts/s20/db10dg25ly2dg2ly3dg2ly2dg25db10w3db10dg25ly2dg2ly3dg2ly2dg25db10k3~x2/"><circle cx="336.3" cy="136.0" r="4" fill="#3465a4"><title>College of William &amp; Mary Schools Tartan Tartan Number: 6522. Earliest known date: 2004 Designed by Carol Worthley of South Hiram, Maine for the Alma Mater of Stephen H Snell of Alexandria, Virginia - the College of William &amp; Mary in VA. Stephen Snell has donated the tartan to the Earl Gregg Swem Library in that College to be sold as a fundraiser. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/g24g2b2k3lo1k1lr1k1g4r2k1r2lr1~x4/"><circle cx="403.1" cy="88.4" r="4" fill="#3465a4"><title>Princess Mary #2</title></circle></a><a href="/setts/s10/dg40r5k2w2k2ly3k2dg10r3k3~x2/"><circle cx="438.4" cy="127.6" r="4" fill="#3465a4"><title>Palmer, Arnold</title></circle></a><circle cx="391.6" cy="122.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/ly4g39db9k3db5k3db9g32r2g3r2g5ly2g3r3~x2/

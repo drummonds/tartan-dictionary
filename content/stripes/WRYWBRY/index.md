@@ -8,7 +8,7 @@ WRYWBRY
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/ly2r4b4lb35lg5r12w2~x2/tartan.png)
+![Woven sample](/setts/s7/w2r12lg5lb35b4r4ly2~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ WRYWBRY
 
 
 
-### W R LG LB B R LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W R LG LB B R LY</span></span>
+### LY R B LB LG R W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY R B LB LG R W</span></span>
 
 | Tartans |
 |---------------|
-| [Nicolson of the Isles (Personal)](/setts/s7/ly2r4b4lb35lg5r12w2~x2/)|
-|![Nicolson of the Isles (Personal) example sett](/setts/s7/ly2r4b4lb35lg5r12w2~x2/sett.png)|
+| [Nicolson of the Isles (Personal)](/setts/s7/w2r12lg5lb35b4r4ly2~x2/)|
+|![Nicolson of the Isles (Personal) example sett](/setts/s7/w2r12lg5lb35b4r4ly2~x2/sett.png)|
 

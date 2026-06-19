@@ -13,7 +13,6 @@ A family of [Clan MacLeod](/clan/macleod/).
 ## Other tartans
 
 <ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s5/k8ly1k8ly12r1/"><img src="/setts/s5/k8ly1k8ly12r1/sett.png" alt="MacLeod of Lewis" width="140"><br>MacLeod of Lewis</a></li>
 <li><a class="tartan" href="/setts/s5/k8ly1k8ly12r1~x4/"><img src="/setts/s5/k8ly1k8ly12r1~x4/sett.png" alt="MacLeod of Lewis (Vestiarium Scoticum)" width="140"><br>MacLeod of Lewis (Vestiarium Scoticum)</a></li>
 </ul>
 

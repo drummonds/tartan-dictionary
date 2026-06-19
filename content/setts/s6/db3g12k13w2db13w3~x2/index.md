@@ -32,7 +32,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-DBa/6 G24 K26 W4 DBa26 W/6
+W/6 DBa26 W4 K26 G24 DBa/6
 ![Sett](sett.png)
 
 ## Palette
@@ -51,7 +51,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DBa/6 G24 K26 W4 DBa26 W/6 tartan")
+![Tartan detail](tartan.png "W/6 DBa26 W4 K26 G24 DBa/6 tartan")
 
 ## Nearest tartans
 
@@ -70,8 +70,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k1db8r6g8k1~x4/"><circle cx="142.4" cy="232.4" r="4" fill="#3465a4"><title>Edinburgh Tattoo 50th (Commemorative</title></circle></a><a href="/setts/s6/w4db4dg22k20db20w3/"><circle cx="149.9" cy="239.6" r="4" fill="#3465a4"><title>Unidentified No 26</title></circle></a><a href="/setts/s6/w4db4g22k20db20w3/"><circle cx="118.0" cy="224.4" r="4" fill="#3465a4"><title>Unnamed, No 26</title></circle></a><a href="/setts/s6/db2k2db12k8g11r2~x2/"><circle cx="152.2" cy="240.1" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s6/db2k2db12k11g12w2~x2/"><circle cx="129.5" cy="236.0" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><a href="/setts/s6/k4w2g13k13t12k2~x2/"><circle cx="166.5" cy="238.1" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/setts/s5/k4lb2dg8db8lb1/"><circle cx="135.6" cy="243.1" r="4" fill="#3465a4"><title>Douglas Green</title></circle></a><a href="/setts/s7/db6k1db6k8r1g8r2~x2/"><circle cx="147.0" cy="227.7" r="4" fill="#3465a4"><title>Fletcher of Dunans</title></circle></a><a href="/setts/s6/t3g6k6t4r1t1~x2/"><circle cx="128.4" cy="243.9" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/setts/s6/t3g12k14t11r3t3~x2/"><circle cx="115.5" cy="248.2" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><circle cx="126.1" cy="236.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k1db8r6g8k1~x4/"><circle cx="142.5" cy="232.3" r="4" fill="#3465a4"><title>Edinburgh Tattoo 50th (Commemorative</title></circle></a><a href="/setts/s6/w4db4dg22k20db20w3/"><circle cx="150.1" cy="239.6" r="4" fill="#3465a4"><title>Unidentified No 26</title></circle></a><a href="/setts/s6/w4db4g22k20db20w3/"><circle cx="118.2" cy="224.4" r="4" fill="#3465a4"><title>Unnamed, No 26</title></circle></a><a href="/setts/s6/db2k2db12k8g11r2~x2/"><circle cx="152.4" cy="240.0" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s6/db2k2db12k11g12w2~x2/"><circle cx="129.7" cy="236.0" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><a href="/setts/s6/k4w2g13k13t12k2~x2/"><circle cx="166.6" cy="238.0" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/setts/s5/k4lb2dg8db8lb1/"><circle cx="135.9" cy="243.1" r="4" fill="#3465a4"><title>Douglas Green</title></circle></a><a href="/setts/s7/db6k1db6k8r1g8r2~x2/"><circle cx="147.3" cy="227.6" r="4" fill="#3465a4"><title>Fletcher of Dunans</title></circle></a><a href="/setts/s6/t3g6k6t4r1t1~x2/"><circle cx="128.6" cy="243.8" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/setts/s6/t3g12k14t11r3t3~x2/"><circle cx="115.7" cy="248.1" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><circle cx="126.3" cy="236.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db3g12k13w2db13w3~x2/

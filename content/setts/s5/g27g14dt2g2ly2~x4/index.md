@@ -2,12 +2,18 @@
 title: "Irving of Bonshaw"
 date: 2023-03-18
 ---
-**Bands:** [GGBGY](/stripes/ggbgy/) · **Stripes:** [G G DT G LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G G DT G LY</span></span>
+**Bands:** [YGBGG](/stripes/ygbgg/) · **Stripes:** [LY G DT G G](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G DT G G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1859
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Irving of Bonshaw Clan/Family
 
 ## Attestations
 
@@ -49,10 +55,10 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Castle Bay (Fashion)](/setts/s5/g40w2y5g5y15~x2/) — ΔT 1.37
 1. [Gordon Cumming (Artefact)](/setts/s6/ly10g30g25g30k2g3~x2/) — ΔT 1.45
-1. [Exabyte](/setts/s5/lb3g47db4n34r3~x2/) — ΔT 1.51
+1. [Exabyte](/setts/s5/r3n34db4g47lb3~x2/) — ΔT 1.51
 1. [Irvine of Drum (Clan)](/setts/s5/g49t21k3t3w3~x2/) — ΔT 1.54
-1. [Galloway Green (yellow line)](/setts/s6/ly3g2g32g32g2r3~x2/) — ΔT 1.72
-1. [Dunbar Hunting](/setts/s6/g4k2g28k8dg21g3~x2/) — ΔT 1.72
+1. [Galloway Green (yellow line)](/setts/s6/r3g2g32g32g2ly3~x2/) — ΔT 1.72
+1. [Dunbar Hunting](/setts/s6/g4k2g28k8dg21g3~x2/) — ΔT 1.73
 1. [Glen Boig](/setts/s5/g37o9g3dr9o3~x2/) — ΔT 1.73
 1. [O'Brien (Scotch Corner)](/setts/s9/y36g19y4g31b2r3b2r3g12~x2/) — ΔT 1.74
 1. [Campbell Simpson (Dalgliesh)](/setts/s6/g22k3g3g16g6k4~x2/) — ΔT 1.76
@@ -60,8 +66,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/g40w2y5g5y15~x2/"><circle cx="463.9" cy="238.2" r="4" fill="#3465a4"><title>Castle Bay (Fashion)</title></circle></a><a href="/setts/s6/ly10g30g25g30k2g3~x2/"><circle cx="418.6" cy="261.7" r="4" fill="#3465a4"><title>Gordon Cumming (Artefact)</title></circle></a><a href="/setts/s5/lb3g47db4n34r3~x2/"><circle cx="380.7" cy="225.9" r="4" fill="#3465a4"><title>Exabyte</title></circle></a><a href="/setts/s5/g49t21k3t3w3~x2/"><circle cx="452.3" cy="226.9" r="4" fill="#3465a4"><title>Irvine of Drum (Clan)</title></circle></a><a href="/setts/s6/ly3g2g32g32g2r3~x2/"><circle cx="375.5" cy="224.1" r="4" fill="#3465a4"><title>Galloway Green (yellow line)</title></circle></a><a href="/setts/s6/g4k2g28k8dg21g3~x2/"><circle cx="402.1" cy="270.8" r="4" fill="#3465a4"><title>Dunbar Hunting</title></circle></a><a href="/setts/s5/g37o9g3dr9o3~x2/"><circle cx="492.9" cy="271.5" r="4" fill="#3465a4"><title>Glen Boig</title></circle></a><a href="/setts/s9/y36g19y4g31b2r3b2r3g12~x2/"><circle cx="411.0" cy="213.0" r="4" fill="#3465a4"><title>O'Brien (Scotch Corner)</title></circle></a><a href="/setts/s6/g22k3g3g16g6k4~x2/"><circle cx="374.0" cy="285.6" r="4" fill="#3465a4"><title>Campbell Simpson (Dalgliesh)</title></circle></a><a href="/setts/s6/g32t6g12t28r2db1~x2/"><circle cx="456.3" cy="226.0" r="4" fill="#3465a4"><title>Palm Beach Gardens Police</title></circle></a><circle cx="424.9" cy="250.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/g40w2y5g5y15~x2/"><circle cx="463.6" cy="238.2" r="4" fill="#3465a4"><title>Castle Bay (Fashion)</title></circle></a><a href="/setts/s6/ly10g30g25g30k2g3~x2/"><circle cx="418.4" cy="261.6" r="4" fill="#3465a4"><title>Gordon Cumming (Artefact)</title></circle></a><a href="/setts/s5/r3n34db4g47lb3~x2/"><circle cx="380.6" cy="226.0" r="4" fill="#3465a4"><title>Exabyte</title></circle></a><a href="/setts/s5/g49t21k3t3w3~x2/"><circle cx="452.0" cy="226.8" r="4" fill="#3465a4"><title>Irvine of Drum (Clan)</title></circle></a><a href="/setts/s6/r3g2g32g32g2ly3~x2/"><circle cx="375.3" cy="224.1" r="4" fill="#3465a4"><title>Galloway Green (yellow line)</title></circle></a><a href="/setts/s6/g4k2g28k8dg21g3~x2/"><circle cx="402.0" cy="270.8" r="4" fill="#3465a4"><title>Dunbar Hunting</title></circle></a><a href="/setts/s5/g37o9g3dr9o3~x2/"><circle cx="492.7" cy="271.4" r="4" fill="#3465a4"><title>Glen Boig</title></circle></a><a href="/setts/s9/y36g19y4g31b2r3b2r3g12~x2/"><circle cx="410.7" cy="213.0" r="4" fill="#3465a4"><title>O'Brien (Scotch Corner)</title></circle></a><a href="/setts/s6/g22k3g3g16g6k4~x2/"><circle cx="373.9" cy="285.5" r="4" fill="#3465a4"><title>Campbell Simpson (Dalgliesh)</title></circle></a><a href="/setts/s6/g32t6g12t28r2db1~x2/"><circle cx="456.0" cy="226.0" r="4" fill="#3465a4"><title>Palm Beach Gardens Police</title></circle></a><circle cx="424.7" cy="250.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/g27g14dt2g2ly2~x4/

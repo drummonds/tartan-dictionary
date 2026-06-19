@@ -8,7 +8,7 @@ BWGBKBGW
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/dp19w2g12t3k4t3g12w2~x2/tartan.png)
+![Woven sample](/setts/s8/dp19w2g12t3k4~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ BWGBKBGW
 
 | Tartans |
 |---------------|
-| [Wilson's No.111](/setts/s8/dp19w2g12t3k4t3g12w2~x2/)|
-|![Wilson's No.111 example sett](/setts/s8/dp19w2g12t3k4t3g12w2~x2/sett.png)|
+| [Wilson's No.111](/setts/s8/dp19w2g12t3k4~x2/)|
+|![Wilson's No.111 example sett](/setts/s8/dp19w2g12t3k4~x2/sett.png)|
 

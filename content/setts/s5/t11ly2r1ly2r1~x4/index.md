@@ -2,7 +2,7 @@
 title: "Carlisle, Ancient"
 date: 2023-03-18
 ---
-**Bands:** [BYRYR](/stripes/byryr/) · **Stripes:** [T LY R LY R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">T LY R LY R</span></span>
+**Bands:** [RYRYB](/stripes/ryryb/) · **Stripes:** [R LY R LY T](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="seq">R LY R LY T</span></span>
 
 
 This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -914,12 +917,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Ingenico](/setts/s6/lg50r4lg12ly23r4g4~x2/) — ΔT 1.61
 1. [Carlisle Ancient](/setts/s5/b11lo2r1lo2r1~x4/) — ΔT 1.65
 1. [Kinding (Personal)](/setts/s7/k10t30g3t3g3t3r6~x2/) — ΔT 1.67
-1. [Erskine, Grey](/setts/s6/lb6n2lb25n25lb2n6~x2/) — ΔT 1.68
+1. [Erskine, Grey](/setts/s6/n6lb2n25lb25n2lb6~x2/) — ΔT 1.68
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/ly5n1ly1n12r1~x8/"><circle cx="434.0" cy="219.1" r="4" fill="#3465a4"><title>Ceredigion (Personal)</title></circle></a><a href="/setts/s6/lo72dt16w9dt4w5dt16~x2/"><circle cx="382.4" cy="178.8" r="4" fill="#3465a4"><title>Machair</title></circle></a><a href="/setts/s5/lo38w9lo3do9w3~x2/"><circle cx="409.7" cy="200.3" r="4" fill="#3465a4"><title>Loch Tummel Trade Tartan Tartan Number: 1751. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/n62w11k4lg17~x2/"><circle cx="404.2" cy="211.0" r="4" fill="#3465a4"><title>Thunderlord (Corporate)</title></circle></a><a href="/setts/s7/t11ly5k1ly2r1ly2t11~x12/"><circle cx="367.4" cy="191.4" r="4" fill="#3465a4"><title>Carlisle</title></circle></a><a href="/setts/s6/t50dr4t12dr23ly4dr4~x2/"><circle cx="400.7" cy="207.1" r="4" fill="#3465a4"><title>Sligo</title></circle></a><a href="/setts/s6/lg50r4lg12ly23r4g4~x2/"><circle cx="388.5" cy="197.7" r="4" fill="#3465a4"><title>Ingenico</title></circle></a><a href="/setts/s5/b11lo2r1lo2r1~x4/"><circle cx="396.8" cy="209.6" r="4" fill="#3465a4"><title>Carlisle Ancient</title></circle></a><a href="/setts/s7/k10t30g3t3g3t3r6~x2/"><circle cx="340.2" cy="185.6" r="4" fill="#3465a4"><title>Kinding (Personal)</title></circle></a><a href="/setts/s6/lb6n2lb25n25lb2n6~x2/"><circle cx="357.1" cy="221.7" r="4" fill="#3465a4"><title>Erskine, Grey</title></circle></a><circle cx="408.6" cy="208.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/ly5n1ly1n12r1~x8/"><circle cx="433.6" cy="218.8" r="4" fill="#3465a4"><title>Ceredigion (Personal)</title></circle></a><a href="/setts/s6/lo72dt16w9dt4w5dt16~x2/"><circle cx="382.0" cy="178.5" r="4" fill="#3465a4"><title>Machair</title></circle></a><a href="/setts/s5/lo38w9lo3do9w3~x2/"><circle cx="409.2" cy="200.0" r="4" fill="#3465a4"><title>Loch Tummel Trade Tartan Tartan Number: 1751. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/n62w11k4lg17~x2/"><circle cx="403.9" cy="210.8" r="4" fill="#3465a4"><title>Thunderlord (Corporate)</title></circle></a><a href="/setts/s7/t11ly5k1ly2r1ly2t11~x12/"><circle cx="367.0" cy="191.1" r="4" fill="#3465a4"><title>Carlisle</title></circle></a><a href="/setts/s6/t50dr4t12dr23ly4dr4~x2/"><circle cx="400.5" cy="206.8" r="4" fill="#3465a4"><title>Sligo</title></circle></a><a href="/setts/s6/lg50r4lg12ly23r4g4~x2/"><circle cx="388.1" cy="197.5" r="4" fill="#3465a4"><title>Ingenico</title></circle></a><a href="/setts/s5/b11lo2r1lo2r1~x4/"><circle cx="396.5" cy="209.3" r="4" fill="#3465a4"><title>Carlisle Ancient</title></circle></a><a href="/setts/s7/k10t30g3t3g3t3r6~x2/"><circle cx="340.0" cy="185.4" r="4" fill="#3465a4"><title>Kinding (Personal)</title></circle></a><a href="/setts/s6/n6lb2n25lb25n2lb6~x2/"><circle cx="356.8" cy="221.4" r="4" fill="#3465a4"><title>Erskine, Grey</title></circle></a><circle cx="408.1" cy="208.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/t11ly2r1ly2r1~x4/

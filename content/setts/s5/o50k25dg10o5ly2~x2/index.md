@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10289](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10289)
 
 ## Thread count
-LG/4 N10 G20 K50 R/100
+R/100 K50 G20 N10 LG/4
 ![Sett](sett.png)
 
 ## Palette
@@ -32,7 +32,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LG/4 N10 G20 K50 R/100 tartan")
+![Tartan detail](tartan.png "R/100 K50 G20 N10 LG/4 tartan")
 
 ## Nearest tartans
 
@@ -51,8 +51,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r25db7r3g13t1k2~x4/"><circle cx="328.7" cy="142.7" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/setts/s6/r40b8r6g24t1k4~x2/"><circle cx="364.7" cy="130.6" r="4" fill="#3465a4"><title>MacPhail (Blue Bands)</title></circle></a><a href="/setts/s5/r50k25g10o5ly2~x2/"><circle cx="322.5" cy="146.4" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/setts/s5/dr18o9y9r1t1~x4/"><circle cx="287.3" cy="192.0" r="4" fill="#3465a4"><title>Jardine</title></circle></a><a href="/setts/s7/r96db16dg34g48r18k6r9/"><circle cx="293.9" cy="159.5" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s6/r25k7r3g13y1k2~x4/"><circle cx="351.9" cy="158.3" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/setts/s6/r100k15g48db5r7db16~x2/"><circle cx="356.6" cy="163.5" r="4" fill="#3465a4"><title>Plummer (Personal)</title></circle></a><a href="/setts/s7/r27g4k4g4k4db6lo1~x4/"><circle cx="326.2" cy="120.6" r="4" fill="#3465a4"><title>MacLeay (Clan)</title></circle></a><a href="/setts/s9/r24lb1k3lb1g14r8k3dp3lb2~x4/"><circle cx="330.9" cy="129.6" r="4" fill="#3465a4"><title>Leach (1995)</title></circle></a><a href="/setts/s6/k2r16dg6r3dg8lr1~x2/"><circle cx="343.3" cy="197.7" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><circle cx="342.1" cy="164.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r25db7r3g13t1k2~x4/"><circle cx="328.4" cy="142.6" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/setts/s6/r40b8r6g24t1k4~x2/"><circle cx="364.3" cy="130.5" r="4" fill="#3465a4"><title>MacPhail (Blue Bands)</title></circle></a><a href="/setts/s5/r50k25g10o5ly2~x2/"><circle cx="322.3" cy="146.3" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/setts/s5/dr18o9y9r1t1~x4/"><circle cx="287.2" cy="192.1" r="4" fill="#3465a4"><title>Jardine</title></circle></a><a href="/setts/s7/r96db16dg34g48r18k6r9/"><circle cx="293.7" cy="159.4" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s6/r25k7r3g13y1k2~x4/"><circle cx="351.6" cy="158.2" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/setts/s6/r100k15g48db5r7db16~x2/"><circle cx="356.2" cy="163.3" r="4" fill="#3465a4"><title>Plummer (Personal)</title></circle></a><a href="/setts/s7/r27g4k4g4k4db6lo1~x4/"><circle cx="325.9" cy="120.6" r="4" fill="#3465a4"><title>MacLeay (Clan)</title></circle></a><a href="/setts/s9/r24lb1k3lb1g14r8k3dp3lb2~x4/"><circle cx="330.7" cy="129.6" r="4" fill="#3465a4"><title>Leach (1995)</title></circle></a><a href="/setts/s6/k2r16dg6r3dg8lr1~x2/"><circle cx="343.1" cy="197.6" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><circle cx="341.9" cy="164.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/o50k25dg10o5ly2~x2/

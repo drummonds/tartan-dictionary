@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -918,20 +921,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Hepburn (Clan)](/setts/s12/r21db4k5ly2k2ly2k2r7g4r2db3ly2~x4/) — ΔT 0.61
-1. [MacPherson](/setts/s15/r12lb2r12dg8ly1k6lb4k1lb1k1lb4r12lb1k1r1/) — ΔT 0.83
+1. [MacPherson](/setts/s15/r12lb2r12dg8ly1k6lb4k1lb1k1lb4r12lb1k1r1~x2/) — ΔT 0.83
 1. [First Special Service Force](/setts/s13/r8k14r6ly6r34k10r6w6r6k64r44db9r6/) — ΔT 0.98
 1. [First Special Service Force](/setts/s13/r8k14r6ly6r34k10r6w6r6k64r44b9r6/) — ΔT 0.98
 1. [Castle Stewart (District)](/setts/s9/lo7k3db4k3r21k2r4k2w4~x2/) — ΔT 1.00
 1. [Moir (Loch Insh) (Personal)](/setts/s15/r31lg3r2lg2r3lg2r2lg3r15k15lg2k15lg3k3w2~x2/) — ΔT 1.01
 1. [McLinden, Thomas (Personal)](/setts/s11/r3db1r1db2r12b1r1k4w1dg6r1~x4/) — ΔT 1.03
 1. [Carlow County Crest (Fashion)](/setts/s10/w15g8k12g14r64k12r16k10ly8k14/) — ΔT 1.07
-1. [Hello Kitty Red](/setts/s10/ly2r3dy3r21b3r2dy6k6dy4w2~x2/) — ΔT 1.09
+1. [Hello Kitty Red](/setts/s10/w2dy4k6dy6r2b3r21dy3r3ly2~x2/) — ΔT 1.09
 1. [Royal & Ancient/Golfing Stewart](/setts/s10/ly4r2k9r25k3r2k3r4db15w3~x2/) — ΔT 1.09
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r21db4k5ly2k2ly2k2r7g4r2db3ly2~x4/"><circle cx="245.3" cy="115.9" r="4" fill="#3465a4"><title>Hepburn (Clan)</title></circle></a><a href="/setts/s15/r12lb2r12dg8ly1k6lb4k1lb1k1lb4r12lb1k1r1/"><circle cx="243.5" cy="109.4" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/setts/s13/r8k14r6ly6r34k10r6w6r6k64r44db9r6/"><circle cx="267.9" cy="126.9" r="4" fill="#3465a4"><title>First Special Service Force</title></circle></a><a href="/setts/s13/r8k14r6ly6r34k10r6w6r6k64r44b9r6/"><circle cx="251.6" cy="113.0" r="4" fill="#3465a4"><title>First Special Service Force</title></circle></a><a href="/setts/s9/lo7k3db4k3r21k2r4k2w4~x2/"><circle cx="238.6" cy="145.9" r="4" fill="#3465a4"><title>Castle Stewart (District)</title></circle></a><a href="/setts/s15/r31lg3r2lg2r3lg2r2lg3r15k15lg2k15lg3k3w2~x2/"><circle cx="237.2" cy="79.6" r="4" fill="#3465a4"><title>Moir (Loch Insh) (Personal)</title></circle></a><a href="/setts/s11/r3db1r1db2r12b1r1k4w1dg6r1~x4/"><circle cx="249.3" cy="107.6" r="4" fill="#3465a4"><title>McLinden, Thomas (Personal)</title></circle></a><a href="/setts/s10/w15g8k12g14r64k12r16k10ly8k14/"><circle cx="190.1" cy="150.0" r="4" fill="#3465a4"><title>Carlow County Crest (Fashion)</title></circle></a><a href="/setts/s10/ly2r3dy3r21b3r2dy6k6dy4w2~x2/"><circle cx="216.5" cy="119.5" r="4" fill="#3465a4"><title>Hello Kitty Red</title></circle></a><a href="/setts/s10/ly4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="223.0" cy="128.2" r="4" fill="#3465a4"><title>Royal &amp; Ancient/Golfing Stewart</title></circle></a><circle cx="243.6" cy="118.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r21db4k5ly2k2ly2k2r7g4r2db3ly2~x4/"><circle cx="245.0" cy="115.9" r="4" fill="#3465a4"><title>Hepburn (Clan)</title></circle></a><a href="/setts/s15/r12lb2r12dg8ly1k6lb4k1lb1k1lb4r12lb1k1r1~x2/"><circle cx="243.2" cy="109.3" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/setts/s13/r8k14r6ly6r34k10r6w6r6k64r44db9r6/"><circle cx="267.6" cy="126.8" r="4" fill="#3465a4"><title>First Special Service Force</title></circle></a><a href="/setts/s13/r8k14r6ly6r34k10r6w6r6k64r44b9r6/"><circle cx="251.3" cy="112.9" r="4" fill="#3465a4"><title>First Special Service Force</title></circle></a><a href="/setts/s9/lo7k3db4k3r21k2r4k2w4~x2/"><circle cx="238.4" cy="145.9" r="4" fill="#3465a4"><title>Castle Stewart (District)</title></circle></a><a href="/setts/s15/r31lg3r2lg2r3lg2r2lg3r15k15lg2k15lg3k3w2~x2/"><circle cx="236.8" cy="79.5" r="4" fill="#3465a4"><title>Moir (Loch Insh) (Personal)</title></circle></a><a href="/setts/s11/r3db1r1db2r12b1r1k4w1dg6r1~x4/"><circle cx="249.0" cy="107.5" r="4" fill="#3465a4"><title>McLinden, Thomas (Personal)</title></circle></a><a href="/setts/s10/w15g8k12g14r64k12r16k10ly8k14/"><circle cx="189.9" cy="150.0" r="4" fill="#3465a4"><title>Carlow County Crest (Fashion)</title></circle></a><a href="/setts/s10/w2dy4k6dy6r2b3r21dy3r3ly2~x2/"><circle cx="216.3" cy="119.5" r="4" fill="#3465a4"><title>Hello Kitty Red</title></circle></a><a href="/setts/s10/ly4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="222.8" cy="128.2" r="4" fill="#3465a4"><title>Royal &amp; Ancient/Golfing Stewart</title></circle></a><circle cx="243.3" cy="118.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r21db4k5ly2k2ly2k2r7g4r2db3ly2~x2/

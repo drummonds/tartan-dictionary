@@ -24,6 +24,6 @@ YKGKBKBKBKGKY
 |---------------|
 | [Campbell of Loudon](/setts/s13/lr2k1dg12k12db12k1db2k1db12k12dg12k1ly2~x2/)|
 |![Campbell of Loudon example sett](/setts/s13/lr2k1dg12k12db12k1db2k1db12k12dg12k1ly2~x2/sett.png)|
-| [Campbell of Loudon](/setts/s13/lr4k1dg12k12db12k1db4k1db12k12dg12k1ly4/)|
-|![Campbell of Loudon example sett](/setts/s13/lr4k1dg12k12db12k1db4k1db12k12dg12k1ly4/sett.png)|
+| [Campbell of Loudon](/setts/s13/lr4k1dg12k12db12k1db4k1db12k12dg12k1ly4~x2/)|
+|![Campbell of Loudon example sett](/setts/s13/lr4k1dg12k12db12k1db4k1db12k12dg12k1ly4~x2/sett.png)|
 

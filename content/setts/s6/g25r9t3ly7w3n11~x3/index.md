@@ -2,7 +2,7 @@
 title: "Montessori School of Denver (School)"
 date: 2023-03-18
 ---
-**Bands:** [BWYBRG](/stripes/bwybrg/) · **Stripes:** [N W LY T R G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">N W LY T R G</span></span>
+**Bands:** [GRBYWB](/stripes/grbywb/) · **Stripes:** [G R T LY W N](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="seq">G R T LY W N</span></span>
 
 
 This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/
 Original link http://www.tartansauthority.com/tartan-ferret/display/10085/
 
 ## Thread count
-B/33 LN9 Y21 Ba9 R27 G/75
+G/75 R27 Ba9 Y21 LN9 B/33
 ![Sett](sett.png)
 
 ## Palette
@@ -27,13 +27,13 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/33 LN9 Y21 Ba9 R27 G/75 tartan")
+![Tartan detail](tartan.png "G/75 R27 Ba9 Y21 LN9 B/33 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Deeside](/setts/s7/ly1g5g1y7p2y1w1~x4/) — ΔT 0.76
+1. [Deeside](/setts/s7/w1y1p2y7g1g5ly1~x4/) — ΔT 0.76
 1. [Royal Pharmaceutical, Society](/setts/s9/o3lb2g19lb6g2lb6o14m4w2~x2/) — ΔT 1.12
 1. [State Seal of Kansas (Fashion)](/setts/s9/lo5g23b21lo30k10lo4g4lo16lb3~x2/) — ΔT 1.18
 1. [Atikokan (District)](/setts/s7/lo6t16lb3y3o3g3w2~x4/) — ΔT 1.51
@@ -46,8 +46,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly1g5g1y7p2y1w1~x4/"><circle cx="190.2" cy="187.9" r="4" fill="#3465a4"><title>Deeside</title></circle></a><a href="/setts/s9/o3lb2g19lb6g2lb6o14m4w2~x2/"><circle cx="155.2" cy="164.3" r="4" fill="#3465a4"><title>Royal Pharmaceutical, Society</title></circle></a><a href="/setts/s9/lo5g23b21lo30k10lo4g4lo16lb3~x2/"><circle cx="174.7" cy="179.9" r="4" fill="#3465a4"><title>State Seal of Kansas (Fashion)</title></circle></a><a href="/setts/s7/lo6t16lb3y3o3g3w2~x4/"><circle cx="168.2" cy="167.4" r="4" fill="#3465a4"><title>Atikokan (District)</title></circle></a><a href="/setts/s8/g9lb2g9k2dy14ly4lb2r2~x4/"><circle cx="156.5" cy="189.1" r="4" fill="#3465a4"><title>McShane (Personal)</title></circle></a><a href="/setts/s7/o17y5db2w12db2ly4g7~x2/"><circle cx="105.2" cy="173.7" r="4" fill="#3465a4"><title>Ontario, Northern</title></circle></a><a href="/setts/s6/b30ly3dy11ly3g33r6~x2/"><circle cx="217.0" cy="208.9" r="4" fill="#3465a4"><title>Balfour Hunting</title></circle></a><a href="/setts/s7/r4g3o8w3o4g18ly3~x2/"><circle cx="225.2" cy="214.5" r="4" fill="#3465a4"><title>Newfoundland</title></circle></a><a href="/setts/s9/db4k1g18dy2g11dy11lg18k1r4~x2/"><circle cx="199.5" cy="146.1" r="4" fill="#3465a4"><title>Morgan in Maryland (USA) (Name)</title></circle></a><a href="/setts/s6/g2lo1g12lb6g12r1~x4/"><circle cx="246.5" cy="214.4" r="4" fill="#3465a4"><title>City of Vancouver (Commemorative)</title></circle></a><circle cx="182.9" cy="200.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w1y1p2y7g1g5ly1~x4/"><circle cx="190.1" cy="188.0" r="4" fill="#3465a4"><title>Deeside</title></circle></a><a href="/setts/s9/o3lb2g19lb6g2lb6o14m4w2~x2/"><circle cx="155.0" cy="164.4" r="4" fill="#3465a4"><title>Royal Pharmaceutical, Society</title></circle></a><a href="/setts/s9/lo5g23b21lo30k10lo4g4lo16lb3~x2/"><circle cx="174.6" cy="180.0" r="4" fill="#3465a4"><title>State Seal of Kansas (Fashion)</title></circle></a><a href="/setts/s7/lo6t16lb3y3o3g3w2~x4/"><circle cx="168.0" cy="167.5" r="4" fill="#3465a4"><title>Atikokan (District)</title></circle></a><a href="/setts/s8/g9lb2g9k2dy14ly4lb2r2~x4/"><circle cx="156.5" cy="189.2" r="4" fill="#3465a4"><title>McShane (Personal)</title></circle></a><a href="/setts/s7/o17y5db2w12db2ly4g7~x2/"><circle cx="105.1" cy="173.8" r="4" fill="#3465a4"><title>Ontario, Northern</title></circle></a><a href="/setts/s6/b30ly3dy11ly3g33r6~x2/"><circle cx="216.9" cy="209.0" r="4" fill="#3465a4"><title>Balfour Hunting</title></circle></a><a href="/setts/s7/r4g3o8w3o4g18ly3~x2/"><circle cx="225.0" cy="214.5" r="4" fill="#3465a4"><title>Newfoundland</title></circle></a><a href="/setts/s9/db4k1g18dy2g11dy11lg18k1r4~x2/"><circle cx="199.3" cy="146.2" r="4" fill="#3465a4"><title>Morgan in Maryland (USA) (Name)</title></circle></a><a href="/setts/s6/g2lo1g12lb6g12r1~x4/"><circle cx="246.3" cy="214.5" r="4" fill="#3465a4"><title>City of Vancouver (Commemorative)</title></circle></a><circle cx="182.8" cy="200.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/g25r9t3ly7w3n11~x3/

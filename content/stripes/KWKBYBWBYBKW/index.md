@@ -22,6 +22,6 @@ KWKBYBWBYBKW
 
 | Tartans |
 |---------------|
-| [St. Johnstone Football Club](/setts/s12/k6lb3k8db7lo2db7lb1db7lo2db7k8lb3~x4/)|
-|![St. Johnstone Football Club example sett](/setts/s12/k6lb3k8db7lo2db7lb1db7lo2db7k8lb3~x4/sett.png)|
+| [St. Johnstone Football Club](/setts/s12/k6lb3k8db7lo2db7lb1~x4/)|
+|![St. Johnstone Football Club example sett](/setts/s12/k6lb3k8db7lo2db7lb1~x4/sett.png)|
 

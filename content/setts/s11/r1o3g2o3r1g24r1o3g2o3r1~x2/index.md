@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -914,8 +917,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/lo78g10r2g1r2g6lo2g3lo2g43~x2/"><circle cx="503.5" cy="141.9" r="4" fill="#3465a4"><title>Montreal</title></circle></a><a href="/setts/s12/g74o6g3o24k1g9o12db2g2db2g2db2~x2/"><circle cx="541.1" cy="129.3" r="4" fill="#3465a4"><title>Ridgeback (Corporate)</title></circle></a><a href="/setts/s10/g32o2g2o2g2o12g22w1g1w3~x2/"><circle cx="568.3" cy="181.8" r="4" fill="#3465a4"><title>Unidentified Plaid 11</title></circle></a><a href="/setts/s11/r1dy3dg2dy3r1dg24r1dy3dg2dy3r1~x2/"><circle cx="545.5" cy="198.5" r="4" fill="#3465a4"><title>Unnamed Green (Teddy Bear)</title></circle></a><a href="/setts/s10/g6w1g12o4r4o2r4o32g1o2~x2/"><circle cx="464.8" cy="157.6" r="4" fill="#3465a4"><title>Seton, hunting</title></circle></a><a href="/setts/s9/y36g19y4g31b2r3b2r3g12~x2/"><circle cx="411.0" cy="213.0" r="4" fill="#3465a4"><title>O'Brien (Scotch Corner)</title></circle></a><a href="/setts/s8/g18r6g75db6g13o35g12db6/"><circle cx="472.9" cy="228.7" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/setts/s14/g68r4g6db4g34db4g6r4g68db4g16r4g19db4~x2/"><circle cx="395.0" cy="162.9" r="4" fill="#3465a4"><title>ASDA Wal-Mart</title></circle></a><a href="/setts/s10/dg32dy2dg2dy2dg2dy12dg22w1dg1w3~x2/"><circle cx="582.2" cy="194.0" r="4" fill="#3465a4"><title>Unidentified Plaid #2</title></circle></a><a href="/setts/s10/g6w1g12dy4r4dy2r4dy32g1dy2~x2/"><circle cx="473.5" cy="165.8" r="4" fill="#3465a4"><title>Seton Hunting Family Tartan Tartan Number: 938. Earliest known date: pre 1930 Based on Vestiarium Scoticum - D.C.S. James Cant was a noted authority on tartans around 1930. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="508.9" cy="174.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/lo78g10r2g1r2g6lo2g3lo2g43~x2/"><circle cx="503.0" cy="141.8" r="4" fill="#3465a4"><title>Montreal</title></circle></a><a href="/setts/s12/g74o6g3o24k1g9o12db2g2db2g2db2~x2/"><circle cx="540.6" cy="129.3" r="4" fill="#3465a4"><title>Ridgeback (Corporate)</title></circle></a><a href="/setts/s10/g32o2g2o2g2o12g22w1g1w3~x2/"><circle cx="567.7" cy="181.5" r="4" fill="#3465a4"><title>Unidentified Plaid 11</title></circle></a><a href="/setts/s11/r1dy3dg2dy3r1dg24r1dy3dg2dy3r1~x2/"><circle cx="545.1" cy="198.6" r="4" fill="#3465a4"><title>Unnamed Green (Teddy Bear)</title></circle></a><a href="/setts/s10/g6w1g12o4r4o2r4o32g1o2~x2/"><circle cx="464.4" cy="157.6" r="4" fill="#3465a4"><title>Seton, hunting</title></circle></a><a href="/setts/s9/y36g19y4g31b2r3b2r3g12~x2/"><circle cx="410.7" cy="213.0" r="4" fill="#3465a4"><title>O'Brien (Scotch Corner)</title></circle></a><a href="/setts/s8/g18r6g75db6g13o35g12db6/"><circle cx="472.6" cy="228.6" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/setts/s14/g68r4g6db4g34db4g6r4g68db4g16r4g19db4~x2/"><circle cx="394.7" cy="162.8" r="4" fill="#3465a4"><title>ASDA Wal-Mart</title></circle></a><a href="/setts/s10/dg32dy2dg2dy2dg2dy12dg22w1dg1w3~x2/"><circle cx="581.8" cy="193.8" r="4" fill="#3465a4"><title>Unidentified Plaid #2</title></circle></a><a href="/setts/s10/g6w1g12dy4r4dy2r4dy32g1dy2~x2/"><circle cx="473.1" cy="165.9" r="4" fill="#3465a4"><title>Seton Hunting Family Tartan Tartan Number: 938. Earliest known date: pre 1930 Based on Vestiarium Scoticum - D.C.S. James Cant was a noted authority on tartans around 1930. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="508.4" cy="174.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/r1o3g2o3r1g24r1o3g2o3r1~x2/

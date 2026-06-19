@@ -8,7 +8,7 @@ RBRYBY
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/lo13dt13lo2o5dt13r13~x2/tartan.png)
+![Woven sample](/setts/s6/r13dt13o5lo2dt13lo13~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RBRYBY
 
 | Tartans |
 |---------------|
-| [Torana](/setts/s6/lo13dt13lo2o5dt13r13~x2/)|
-|![Torana example sett](/setts/s6/lo13dt13lo2o5dt13r13~x2/sett.png)|
+| [Torana](/setts/s6/r13dt13o5lo2dt13lo13~x2/)|
+|![Torana example sett](/setts/s6/r13dt13o5lo2dt13lo13~x2/sett.png)|
 

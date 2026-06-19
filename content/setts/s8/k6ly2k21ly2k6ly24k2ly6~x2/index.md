@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2585
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacLachlan
+- MacLachlan 4
+
 ## Attestations
 
 This cloth appears in 4 source records; the oldest owns this page.
@@ -333,6 +340,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -437,6 +445,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -703,6 +712,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -956,7 +966,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [MacLachlan VS](/setts/s8/k6ly2k21ly2k6ly24k2ly6/) — ΔT 0.90
-1. [Justus Black & Gold (Angus) (Persona](/setts/s9/k3lo1k8lo9k1lo1k1lo1k2~x4/) — ΔT 1.06
+1. [Justus Black & Gold (Angus) (Persona](/setts/s9/k3lo1k8lo9k1lo1k1lo1k2~x4/) — ΔT 1.07
 1. [Unnamed C21st - Fashion](/setts/s6/k4ly32k16r3k16ly4~x2/) — ΔT 1.32
 1. [MacLeod #3](/setts/s6/k6ly1k6ly9r1ly2~x2/) — ΔT 1.44
 1. [Baillieville](/setts/s7/ly1k4ly1k4ly11m1ly1~x4/) — ΔT 1.45
@@ -964,12 +974,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Big Spruce Brewing](/setts/s6/dg11ly1dg1ly6k1ly1~x8/) — ΔT 1.53
 1. [MacLeod of Lewis (Vestiarium Scoticum)](/setts/s5/k8ly1k8ly12r1~x4/) — ΔT 1.56
 1. [Baileville (Personal)](/setts/s7/ly1k4ly1k4ly11r1ly1~x4/) — ΔT 1.62
-1. [Justus Black & Gold (Angus) (Personal)](/setts/s16/k3lo1k8lo9k1lo1k1lo1k2lo1k1lo1k1lo9k8lo1~x4/) — ΔT 1.63
+1. [Justus Black & Gold (Angus) (Personal)](/setts/s16/k3lo1k8lo9k1lo1k1lo1k2~x4/) — ΔT 1.63
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k6ly2k21ly2k6ly24k2ly6/"><circle cx="312.6" cy="199.4" r="4" fill="#3465a4"><title>MacLachlan VS</title></circle></a><a href="/setts/s9/k3lo1k8lo9k1lo1k1lo1k2~x4/"><circle cx="346.6" cy="207.2" r="4" fill="#3465a4"><title>Justus Black &amp; Gold (Angus) (Persona</title></circle></a><a href="/setts/s6/k4ly32k16r3k16ly4~x2/"><circle cx="267.9" cy="198.5" r="4" fill="#3465a4"><title>Unnamed C21st - Fashion</title></circle></a><a href="/setts/s6/k6ly1k6ly9r1ly2~x2/"><circle cx="256.4" cy="217.0" r="4" fill="#3465a4"><title>MacLeod #3</title></circle></a><a href="/setts/s7/ly1k4ly1k4ly11m1ly1~x4/"><circle cx="331.3" cy="173.7" r="4" fill="#3465a4"><title>Baillieville</title></circle></a><a href="/setts/s9/k1ly12r1ly2k4r1k4ly2k1~x4/"><circle cx="313.5" cy="156.7" r="4" fill="#3465a4"><title>MacLeod (Snuffbox)</title></circle></a><a href="/setts/s6/dg11ly1dg1ly6k1ly1~x8/"><circle cx="330.4" cy="192.3" r="4" fill="#3465a4"><title>Big Spruce Brewing</title></circle></a><a href="/setts/s5/k8ly1k8ly12r1~x4/"><circle cx="297.1" cy="220.1" r="4" fill="#3465a4"><title>MacLeod of Lewis (Vestiarium Scoticum)</title></circle></a><a href="/setts/s7/ly1k4ly1k4ly11r1ly1~x4/"><circle cx="336.1" cy="174.2" r="4" fill="#3465a4"><title>Baileville (Personal)</title></circle></a><a href="/setts/s16/k3lo1k8lo9k1lo1k1lo1k2lo1k1lo1k1lo9k8lo1~x4/"><circle cx="319.7" cy="178.7" r="4" fill="#3465a4"><title>Justus Black &amp; Gold (Angus) (Personal)</title></circle></a><circle cx="323.0" cy="196.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k6ly2k21ly2k6ly24k2ly6/"><circle cx="312.4" cy="199.0" r="4" fill="#3465a4"><title>MacLachlan VS</title></circle></a><a href="/setts/s9/k3lo1k8lo9k1lo1k1lo1k2~x4/"><circle cx="346.4" cy="206.8" r="4" fill="#3465a4"><title>Justus Black &amp; Gold (Angus) (Persona</title></circle></a><a href="/setts/s6/k4ly32k16r3k16ly4~x2/"><circle cx="267.6" cy="198.2" r="4" fill="#3465a4"><title>Unnamed C21st - Fashion</title></circle></a><a href="/setts/s6/k6ly1k6ly9r1ly2~x2/"><circle cx="256.2" cy="216.7" r="4" fill="#3465a4"><title>MacLeod #3</title></circle></a><a href="/setts/s7/ly1k4ly1k4ly11m1ly1~x4/"><circle cx="330.9" cy="173.4" r="4" fill="#3465a4"><title>Baillieville</title></circle></a><a href="/setts/s9/k1ly12r1ly2k4r1k4ly2k1~x4/"><circle cx="313.0" cy="156.4" r="4" fill="#3465a4"><title>MacLeod (Snuffbox)</title></circle></a><a href="/setts/s6/dg11ly1dg1ly6k1ly1~x8/"><circle cx="330.1" cy="192.0" r="4" fill="#3465a4"><title>Big Spruce Brewing</title></circle></a><a href="/setts/s5/k8ly1k8ly12r1~x4/"><circle cx="297.0" cy="219.8" r="4" fill="#3465a4"><title>MacLeod of Lewis (Vestiarium Scoticum)</title></circle></a><a href="/setts/s7/ly1k4ly1k4ly11r1ly1~x4/"><circle cx="335.7" cy="173.9" r="4" fill="#3465a4"><title>Baileville (Personal)</title></circle></a><a href="/setts/s16/k3lo1k8lo9k1lo1k1lo1k2~x4/"><circle cx="319.5" cy="178.4" r="4" fill="#3465a4"><title>Justus Black &amp; Gold (Angus) (Personal)</title></circle></a><circle cx="322.7" cy="195.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k6ly2k21ly2k6ly24k2ly6~x2/

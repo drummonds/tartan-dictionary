@@ -8,7 +8,7 @@ BWKRK
 
 It is a 5 band tartan.
 
-![Woven sample](/setts/s5/db6w20k18r33k6~x2/tartan.png)
+![Woven sample](/setts/s5/k6r33k18w20db6~x2/tartan.png)
 
 
 
@@ -21,14 +21,14 @@ BWKRK
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB W K R K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">DB W K R K</span></span>
+### K R K W DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">K R K W DB</span></span>
 
 | Tartans |
 |---------------|
-| [Brodie Dress](/setts/s5/db6w20k18r33k6~x2/)|
-|![Brodie Dress example sett](/setts/s5/db6w20k18r33k6~x2/sett.png)|
+| [Brodie Dress](/setts/s5/k6r33k18w20db6~x2/)|
+|![Brodie Dress example sett](/setts/s5/k6r33k18w20db6~x2/sett.png)|
 
-### T W K R K <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">T W K R K</span></span>
+### K R K W T <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="seq">K R K W T</span></span>
 
 | Tartans |
 |---------------|

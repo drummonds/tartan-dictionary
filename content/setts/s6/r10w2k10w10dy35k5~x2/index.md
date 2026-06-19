@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1219
 
 ## Thread count
-K/10 T70 LN20 K20 LN4 R/20
+R/20 LN4 K20 LN20 T70 K/10
 ![Sett](sett.png)
 
 ## Palette
@@ -39,7 +39,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/10 T70 LN20 K20 LN4 R/20 tartan")
+![Tartan detail](tartan.png "R/20 LN4 K20 LN20 T70 K/10 tartan")
 
 ## Nearest tartans
 
@@ -52,14 +52,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Distripress Annual Congress 2012](/setts/s8/r12k2w8k4n16r2k31n2/) — ΔT 0.96
 1. [Blair Atholl (Fashion)](/setts/s8/do2lr2k6do3k2o14k1o1~x4/) — ΔT 0.97
 1. [Unidentified 12](/setts/s6/k6r2g17r16k1t2~x2/) — ΔT 0.99
-1. [Island of Innis, The](/setts/s8/k15dg1k3r9dg1r3lo11k1~x4/) — ΔT 1.00
+1. [Island of Innis, The](/setts/s8/k15dg1k3r9dg1r3lo11k1~x4/) — ΔT 1.01
 1. [MacDuff](/setts/s7/r4k2r24k6db6g16r3~x2/) — ΔT 1.03
 1. [Unidentified #15](/setts/s6/k6r2dg17r16k1t2~x2/) — ΔT 1.04
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r10w2k10w10o35k5~x2/"><circle cx="241.2" cy="161.0" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/setts/s6/r4k2lb10k10y28k3~x2/"><circle cx="261.4" cy="177.0" r="4" fill="#3465a4"><title>Thomson Camel (Jedburgh Mill)</title></circle></a><a href="/setts/s8/do2w2k6do3k2o14k1o1~x4/"><circle cx="256.7" cy="154.7" r="4" fill="#3465a4"><title>Braemar or Blair Atholl</title></circle></a><a href="/setts/s7/r2w8k14dy25w2k2w2~x2/"><circle cx="234.3" cy="163.0" r="4" fill="#3465a4"><title>Merric Dark Camel.. Trade Tartan Tartan Number: 1688. Earliest known date: 1985 School colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r12k2w8k4n16r2k31n2/"><circle cx="237.9" cy="150.2" r="4" fill="#3465a4"><title>Distripress Annual Congress 2012</title></circle></a><a href="/setts/s8/do2lr2k6do3k2o14k1o1~x4/"><circle cx="268.2" cy="161.2" r="4" fill="#3465a4"><title>Blair Atholl (Fashion)</title></circle></a><a href="/setts/s6/k6r2g17r16k1t2~x2/"><circle cx="235.5" cy="170.6" r="4" fill="#3465a4"><title>Unidentified 12</title></circle></a><a href="/setts/s8/k15dg1k3r9dg1r3lo11k1~x4/"><circle cx="233.7" cy="162.9" r="4" fill="#3465a4"><title>Island of Innis, The</title></circle></a><a href="/setts/s7/r4k2r24k6db6g16r3~x2/"><circle cx="261.4" cy="178.4" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s6/k6r2dg17r16k1t2~x2/"><circle cx="258.9" cy="178.4" r="4" fill="#3465a4"><title>Unidentified #15</title></circle></a><circle cx="253.3" cy="169.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r10w2k10w10o35k5~x2/"><circle cx="241.0" cy="160.8" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/setts/s6/r4k2lb10k10y28k3~x2/"><circle cx="261.2" cy="176.9" r="4" fill="#3465a4"><title>Thomson Camel (Jedburgh Mill)</title></circle></a><a href="/setts/s8/do2w2k6do3k2o14k1o1~x4/"><circle cx="256.5" cy="154.6" r="4" fill="#3465a4"><title>Braemar or Blair Atholl</title></circle></a><a href="/setts/s7/r2w8k14dy25w2k2w2~x2/"><circle cx="234.2" cy="162.9" r="4" fill="#3465a4"><title>Merric Dark Camel.. Trade Tartan Tartan Number: 1688. Earliest known date: 1985 School colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r12k2w8k4n16r2k31n2/"><circle cx="237.8" cy="150.1" r="4" fill="#3465a4"><title>Distripress Annual Congress 2012</title></circle></a><a href="/setts/s8/do2lr2k6do3k2o14k1o1~x4/"><circle cx="268.1" cy="161.1" r="4" fill="#3465a4"><title>Blair Atholl (Fashion)</title></circle></a><a href="/setts/s6/k6r2g17r16k1t2~x2/"><circle cx="235.4" cy="170.5" r="4" fill="#3465a4"><title>Unidentified 12</title></circle></a><a href="/setts/s8/k15dg1k3r9dg1r3lo11k1~x4/"><circle cx="233.6" cy="162.8" r="4" fill="#3465a4"><title>Island of Innis, The</title></circle></a><a href="/setts/s7/r4k2r24k6db6g16r3~x2/"><circle cx="261.2" cy="178.3" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s6/k6r2dg17r16k1t2~x2/"><circle cx="258.7" cy="178.4" r="4" fill="#3465a4"><title>Unidentified #15</title></circle></a><circle cx="253.1" cy="169.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r10w2k10w10dy35k5~x2/

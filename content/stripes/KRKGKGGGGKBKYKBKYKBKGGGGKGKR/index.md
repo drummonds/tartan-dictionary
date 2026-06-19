@@ -22,6 +22,6 @@ KRKGKGGGGKBKYKBKYKBKGGGGKGKR
 
 | Tartans |
 |---------------|
-| [Wells (Personal)](/setts/s28/k4r3k3g9k10g10dg3g6dg4k4db14k4ly3k4db8k4ly3k4db14k4dg4g6dg3g10k10g9k3r3~x2/)|
-|![Wells (Personal) example sett](/setts/s28/k4r3k3g9k10g10dg3g6dg4k4db14k4ly3k4db8k4ly3k4db14k4dg4g6dg3g10k10g9k3r3~x2/sett.png)|
+| [Wells (Personal)](/setts/s28/db8k4ly3k4db14k4dg4g6dg3g10k10g9k3r3k4~x2/)|
+|![Wells (Personal) example sett](/setts/s28/db8k4ly3k4db14k4dg4g6dg3g10k10g9k3r3k4~x2/sett.png)|
 

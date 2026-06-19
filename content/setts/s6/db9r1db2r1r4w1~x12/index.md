@@ -32,20 +32,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Wicks (Personal)](/setts/s5/ly3dg8o20dp30ly2~x2/) — ΔT 1.16
-1. [MacArthur-Fox Blue (Personal)](/setts/s6/lb2dr16b3dr3b13r2~x4/) — ΔT 1.18
+1. [MacArthur-Fox Blue (Personal)](/setts/s6/r2b13dr3b3dr16lb2~x4/) — ΔT 1.18
 1. [Galloway Red](/setts/s6/g3r2db22r22db2w3~x2/) — ΔT 1.19
-1. [Robinson Dress (Pendleton) #1](/setts/s6/g1db16r7k1r7k1~x4/) — ΔT 1.23
+1. [Robinson Dress (Pendleton) #1](/setts/s6/k1r7k1r7db16g1~x4/) — ΔT 1.23
 1. [Masai Shuka 17 (Artefact)](/setts/s6/k4b32r30b2w5k2~x2/) — ΔT 1.24
 1. [Heritage of Wales (Fashion)](/setts/s7/r10db4r6db30k10db5w2~x2/) — ΔT 1.32
 1. [Gingles (Personal)](/setts/s5/k60w8lo15dp74k14/) — ΔT 1.33
-1. [Robinson, dress](/setts/s6/g1db16r7k1r7k1~x2/) — ΔT 1.34
+1. [Robinson, dress](/setts/s6/k1r7k1r7db16g1~x2/) — ΔT 1.34
 1. [Matthews (Personal)](/setts/s6/db3r24db3r3db25w3~x2/) — ΔT 1.40
 1. [Haut (Personal)](/setts/s6/dp46p15k12m8g8dp8~x2/) — ΔT 1.40
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/ly3dg8o20dp30ly2~x2/"><circle cx="280.7" cy="194.6" r="4" fill="#3465a4"><title>Wicks (Personal)</title></circle></a><a href="/setts/s6/lb2dr16b3dr3b13r2~x4/"><circle cx="279.2" cy="216.6" r="4" fill="#3465a4"><title>MacArthur-Fox Blue (Personal)</title></circle></a><a href="/setts/s6/g3r2db22r22db2w3~x2/"><circle cx="277.5" cy="178.8" r="4" fill="#3465a4"><title>Galloway Red</title></circle></a><a href="/setts/s6/g1db16r7k1r7k1~x4/"><circle cx="329.2" cy="182.2" r="4" fill="#3465a4"><title>Robinson Dress (Pendleton) #1</title></circle></a><a href="/setts/s6/k4b32r30b2w5k2~x2/"><circle cx="285.1" cy="162.4" r="4" fill="#3465a4"><title>Masai Shuka 17 (Artefact)</title></circle></a><a href="/setts/s7/r10db4r6db30k10db5w2~x2/"><circle cx="340.2" cy="187.3" r="4" fill="#3465a4"><title>Heritage of Wales (Fashion)</title></circle></a><a href="/setts/s5/k60w8lo15dp74k14/"><circle cx="248.0" cy="217.6" r="4" fill="#3465a4"><title>Gingles (Personal)</title></circle></a><a href="/setts/s6/g1db16r7k1r7k1~x2/"><circle cx="325.0" cy="181.4" r="4" fill="#3465a4"><title>Robinson, dress</title></circle></a><a href="/setts/s6/db3r24db3r3db25w3~x2/"><circle cx="332.2" cy="211.3" r="4" fill="#3465a4"><title>Matthews (Personal)</title></circle></a><a href="/setts/s6/dp46p15k12m8g8dp8~x2/"><circle cx="258.3" cy="215.3" r="4" fill="#3465a4"><title>Haut (Personal)</title></circle></a><circle cx="285.7" cy="201.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/ly3dg8o20dp30ly2~x2/"><circle cx="280.6" cy="194.5" r="4" fill="#3465a4"><title>Wicks (Personal)</title></circle></a><a href="/setts/s6/r2b13dr3b3dr16lb2~x4/"><circle cx="279.1" cy="216.5" r="4" fill="#3465a4"><title>MacArthur-Fox Blue (Personal)</title></circle></a><a href="/setts/s6/g3r2db22r22db2w3~x2/"><circle cx="277.4" cy="178.6" r="4" fill="#3465a4"><title>Galloway Red</title></circle></a><a href="/setts/s6/k1r7k1r7db16g1~x4/"><circle cx="329.1" cy="182.1" r="4" fill="#3465a4"><title>Robinson Dress (Pendleton) #1</title></circle></a><a href="/setts/s6/k4b32r30b2w5k2~x2/"><circle cx="284.9" cy="162.3" r="4" fill="#3465a4"><title>Masai Shuka 17 (Artefact)</title></circle></a><a href="/setts/s7/r10db4r6db30k10db5w2~x2/"><circle cx="340.1" cy="187.2" r="4" fill="#3465a4"><title>Heritage of Wales (Fashion)</title></circle></a><a href="/setts/s5/k60w8lo15dp74k14/"><circle cx="248.1" cy="217.5" r="4" fill="#3465a4"><title>Gingles (Personal)</title></circle></a><a href="/setts/s6/k1r7k1r7db16g1~x2/"><circle cx="324.9" cy="181.2" r="4" fill="#3465a4"><title>Robinson, dress</title></circle></a><a href="/setts/s6/db3r24db3r3db25w3~x2/"><circle cx="332.0" cy="211.1" r="4" fill="#3465a4"><title>Matthews (Personal)</title></circle></a><a href="/setts/s6/dp46p15k12m8g8dp8~x2/"><circle cx="258.4" cy="215.2" r="4" fill="#3465a4"><title>Haut (Personal)</title></circle></a><circle cx="285.6" cy="201.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db9r1db2r1r4w1~x12/

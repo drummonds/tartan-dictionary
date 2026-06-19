@@ -22,6 +22,6 @@ BBBWBBWBBWBB
 
 | Tartans |
 |---------------|
-| [St. Andrews Dress, Earl of](/setts/s12/db7p2db2w4db19t19w28t19db19w4db2p2~x2/)|
-|![St. Andrews Dress, Earl of example sett](/setts/s12/db7p2db2w4db19t19w28t19db19w4db2p2~x2/sett.png)|
+| [St. Andrews Dress, Earl of](/setts/s12/w28t19db19w4db2p2db7~x2/)|
+|![St. Andrews Dress, Earl of example sett](/setts/s12/w28t19db19w4db2p2db7~x2/sett.png)|
 

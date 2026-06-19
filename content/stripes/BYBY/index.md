@@ -20,7 +20,7 @@ BYBY
 
 
 
-### DB LR DB LR <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">DB LR DB LR</span></span>
+### LR DB LR DB <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="seq">LR DB LR DB</span></span>
 
 | Tartans |
 |---------------|

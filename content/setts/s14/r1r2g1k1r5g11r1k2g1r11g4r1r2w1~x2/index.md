@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacKinnon #9
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/2 Ra4 R2 G8 Ra22 G2 K4 Ra2 G22 Ra10 K2 G2 Ra4 R/2
+R/2 Ra4 G2 K2 Ra10 G22 Ra2 K4 G2 Ra22 G8 R2 Ra4 LN/2
 ![Sett](sett.png)
 
 ## Palette
@@ -904,20 +913,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Hay](/setts/s14/r6dg4ly2dg17r2dg2r2dg8r26dg6r4k2r4w6~x2/) — ΔT 0.63
-1. [MacKinnon 3](/setts/s14/w3r5g3p3r14g36r3p8g3r36g14r3r5w3~x2/) — ΔT 0.69
+1. [MacKinnon 3](/setts/s14/w3r5r3g14r36g3p8r3g36r14p3g3r5w3~x2/) — ΔT 0.69
 1. [MacKinnon #9](/setts/s14/r1r2dg1k1r5dg11r1k2dg1r11dg4r1r2w1~x2/) — ΔT 0.78
 1. [Stewart of Appin 3](/setts/s16/r3k2t2r2g19r3g2r2db6r2g2r21k2t2r2g2~x2/) — ΔT 0.82
-1. [MacKinnon #11](/setts/s14/w3r5dg3dp3r14dg36r3dp8dg3r36dg14r3r5w3~x2/) — ΔT 0.95
+1. [MacKinnon #11](/setts/s14/w3r5dg3dp3r14dg36r3dp8dg3r36dg14r3r5w3~x2/) — ΔT 0.94
 1. [MacKinnon 5](/setts/s14/p2r3g2db2r6g16r2db4g2r16g8p2r4w2~x2/) — ΔT 1.06
 1. [MacGuire (Personal)](/setts/s14/w3k2dg18r2db8r18dg2r2dg2r2db2r18dg18k2~x2/) — ΔT 1.07
 1. [Ainslie](/setts/s15/r6k2r2k4r2k2r6g18r2ly1r2k1r10w1r2~x4/) — ΔT 1.09
-1. [Seton](/setts/s18/r2g1r10k2r1dp2r2g6w1g3w1g6r2dp2r1k2r10g1~x8/) — ΔT 1.12
+1. [Seton](/setts/s18/g3w1g6r2dp2r1k2r10g1r2~x8/) — ΔT 1.12
 1. [MacDonald of Staffa 4](/setts/s14/r2r4g2db2r6g14r2db2g2r12g7r2r5w1~x2/) — ΔT 1.15
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r6dg4ly2dg17r2dg2r2dg8r26dg6r4k2r4w6~x2/"><circle cx="273.2" cy="127.1" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/setts/s14/w3r5g3p3r14g36r3p8g3r36g14r3r5w3~x2/"><circle cx="258.6" cy="123.6" r="4" fill="#3465a4"><title>MacKinnon 3</title></circle></a><a href="/setts/s14/r1r2dg1k1r5dg11r1k2dg1r11dg4r1r2w1~x2/"><circle cx="262.6" cy="127.2" r="4" fill="#3465a4"><title>MacKinnon #9</title></circle></a><a href="/setts/s16/r3k2t2r2g19r3g2r2db6r2g2r21k2t2r2g2~x2/"><circle cx="246.9" cy="112.9" r="4" fill="#3465a4"><title>Stewart of Appin 3</title></circle></a><a href="/setts/s14/w3r5dg3dp3r14dg36r3dp8dg3r36dg14r3r5w3~x2/"><circle cx="253.9" cy="119.0" r="4" fill="#3465a4"><title>MacKinnon #11</title></circle></a><a href="/setts/s14/p2r3g2db2r6g16r2db4g2r16g8p2r4w2~x2/"><circle cx="218.3" cy="153.0" r="4" fill="#3465a4"><title>MacKinnon 5</title></circle></a><a href="/setts/s14/w3k2dg18r2db8r18dg2r2dg2r2db2r18dg18k2~x2/"><circle cx="225.8" cy="146.8" r="4" fill="#3465a4"><title>MacGuire (Personal)</title></circle></a><a href="/setts/s15/r6k2r2k4r2k2r6g18r2ly1r2k1r10w1r2~x4/"><circle cx="269.9" cy="97.8" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/setts/s18/r2g1r10k2r1dp2r2g6w1g3w1g6r2dp2r1k2r10g1~x8/"><circle cx="244.0" cy="127.9" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s14/r2r4g2db2r6g14r2db2g2r12g7r2r5w1~x2/"><circle cx="257.4" cy="144.2" r="4" fill="#3465a4"><title>MacDonald of Staffa 4</title></circle></a><circle cx="249.5" cy="124.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r6dg4ly2dg17r2dg2r2dg8r26dg6r4k2r4w6~x2/"><circle cx="272.8" cy="127.1" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/setts/s14/w3r5r3g14r36g3p8r3g36r14p3g3r5w3~x2/"><circle cx="258.2" cy="123.6" r="4" fill="#3465a4"><title>MacKinnon 3</title></circle></a><a href="/setts/s14/r1r2dg1k1r5dg11r1k2dg1r11dg4r1r2w1~x2/"><circle cx="262.3" cy="127.2" r="4" fill="#3465a4"><title>MacKinnon #9</title></circle></a><a href="/setts/s16/r3k2t2r2g19r3g2r2db6r2g2r21k2t2r2g2~x2/"><circle cx="246.6" cy="112.9" r="4" fill="#3465a4"><title>Stewart of Appin 3</title></circle></a><a href="/setts/s14/w3r5dg3dp3r14dg36r3dp8dg3r36dg14r3r5w3~x2/"><circle cx="253.6" cy="119.0" r="4" fill="#3465a4"><title>MacKinnon #11</title></circle></a><a href="/setts/s14/p2r3g2db2r6g16r2db4g2r16g8p2r4w2~x2/"><circle cx="218.0" cy="153.0" r="4" fill="#3465a4"><title>MacKinnon 5</title></circle></a><a href="/setts/s14/w3k2dg18r2db8r18dg2r2dg2r2db2r18dg18k2~x2/"><circle cx="225.6" cy="146.9" r="4" fill="#3465a4"><title>MacGuire (Personal)</title></circle></a><a href="/setts/s15/r6k2r2k4r2k2r6g18r2ly1r2k1r10w1r2~x4/"><circle cx="269.6" cy="97.8" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/setts/s18/g3w1g6r2dp2r1k2r10g1r2~x8/"><circle cx="243.6" cy="128.0" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s14/r2r4g2db2r6g14r2db2g2r12g7r2r5w1~x2/"><circle cx="257.1" cy="144.2" r="4" fill="#3465a4"><title>MacDonald of Staffa 4</title></circle></a><circle cx="249.2" cy="124.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/r1r2g1k1r5g11r1k2g1r11g4r1r2w1~x2/

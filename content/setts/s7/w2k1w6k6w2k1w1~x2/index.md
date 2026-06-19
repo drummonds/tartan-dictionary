@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -899,7 +902,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-LN/2 K2 LN4 K12 LN12 K2 LN/4
+LN/4 K2 LN12 K12 LN4 K2 LN/2
 ![Sett](sett.png)
 
 ## Palette
@@ -912,7 +915,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/2 K2 LN4 K12 LN12 K2 LN/4 tartan")
+![Tartan detail](tartan.png "LN/4 K2 LN12 K12 LN4 K2 LN/2 tartan")
 
 ## Nearest tartans
 
@@ -926,13 +929,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Cairn (Marton Mills)](/setts/s5/k2w1k8w8k1~x8/) — ΔT 1.17
 1. [MacLean (Black and White)](/setts/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/) — ΔT 1.22
 1. [Scott, Sir Walter](/setts/s11/w6k6w2k1w1k1w2k6w6k1w2~x2/) — ΔT 1.24
-1. [Barbie's Moss Plaid (Blue & White)](/setts/s6/dt3w3dt20w20dt20w3~x2/) — ΔT 1.29
+1. [Barbie's Moss Plaid (Blue & White)](/setts/s6/w20dt20w3dt3~x2/) — ΔT 1.29
 1. [Valley Forge (Artefact)](/setts/s6/lb5k4lb32k32lb5k4~x2/) — ΔT 1.34
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w6k6w2k1w1k1w2k6w6k1w2~x4/"><circle cx="273.4" cy="215.0" r="4" fill="#3465a4"><title>Scott - 1850 B &amp; W (Clan)</title></circle></a><a href="/setts/s6/k2w1k9w9k1w2~x6/"><circle cx="294.8" cy="213.9" r="4" fill="#3465a4"><title>Erskine (Black and White)</title></circle></a><a href="/setts/s6/dt3w16dt4w3dt12w2~x3/"><circle cx="294.5" cy="226.7" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><a href="/setts/s6/k2w1k9w9k1w2~x3/"><circle cx="299.5" cy="217.8" r="4" fill="#3465a4"><title>Erskine BW MINI Design Tartan Tartan Number: 12466. Earliest known date: Generated for display purposes. Reduced copy of the original 1246 Erskine BW. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/w14k2w14k19w2~x2/"><circle cx="313.4" cy="234.2" r="4" fill="#3465a4"><title>MacLeod Black &amp; White</title></circle></a><a href="/setts/s5/k2w1k8w8k1~x8/"><circle cx="312.7" cy="237.7" r="4" fill="#3465a4"><title>Cairn (Marton Mills)</title></circle></a><a href="/setts/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/"><circle cx="305.2" cy="200.4" r="4" fill="#3465a4"><title>MacLean (Black and White)</title></circle></a><a href="/setts/s11/w6k6w2k1w1k1w2k6w6k1w2~x2/"><circle cx="276.0" cy="221.5" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/setts/s6/dt3w3dt20w20dt20w3~x2/"><circle cx="325.4" cy="246.3" r="4" fill="#3465a4"><title>Barbie's Moss Plaid (Blue &amp; White)</title></circle></a><a href="/setts/s6/lb5k4lb32k32lb5k4~x2/"><circle cx="304.7" cy="219.5" r="4" fill="#3465a4"><title>Valley Forge (Artefact)</title></circle></a><circle cx="300.1" cy="231.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w6k6w2k1w1k1w2k6w6k1w2~x4/"><circle cx="273.1" cy="214.6" r="4" fill="#3465a4"><title>Scott - 1850 B &amp; W (Clan)</title></circle></a><a href="/setts/s6/k2w1k9w9k1w2~x6/"><circle cx="294.5" cy="213.5" r="4" fill="#3465a4"><title>Erskine (Black and White)</title></circle></a><a href="/setts/s6/dt3w16dt4w3dt12w2~x3/"><circle cx="294.2" cy="226.2" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><a href="/setts/s6/k2w1k9w9k1w2~x3/"><circle cx="299.2" cy="217.4" r="4" fill="#3465a4"><title>Erskine BW MINI Design Tartan Tartan Number: 12466. Earliest known date: Generated for display purposes. Reduced copy of the original 1246 Erskine BW. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/w14k2w14k19w2~x2/"><circle cx="313.1" cy="233.7" r="4" fill="#3465a4"><title>MacLeod Black &amp; White</title></circle></a><a href="/setts/s5/k2w1k8w8k1~x8/"><circle cx="312.6" cy="237.3" r="4" fill="#3465a4"><title>Cairn (Marton Mills)</title></circle></a><a href="/setts/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/"><circle cx="304.9" cy="200.0" r="4" fill="#3465a4"><title>MacLean (Black and White)</title></circle></a><a href="/setts/s11/w6k6w2k1w1k1w2k6w6k1w2~x2/"><circle cx="275.8" cy="221.1" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/setts/s6/w20dt20w3dt3~x2/"><circle cx="325.2" cy="245.8" r="4" fill="#3465a4"><title>Barbie's Moss Plaid (Blue &amp; White)</title></circle></a><a href="/setts/s6/lb5k4lb32k32lb5k4~x2/"><circle cx="304.6" cy="219.1" r="4" fill="#3465a4"><title>Valley Forge (Artefact)</title></circle></a><circle cx="299.8" cy="231.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/w2k1w6k6w2k1w1~x2/

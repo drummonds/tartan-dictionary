@@ -2,12 +2,18 @@
 title: "Federal Bureaux of Investigation"
 date: 2023-03-18
 ---
-**Bands:** [BBWBRB](/stripes/bbwbrb/) · **Stripes:** [T DB W DB R DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">T DB W DB R DB</span></span>
+**Bands:** [BRBWBB](/stripes/brbwbb/) · **Stripes:** [DB R DB W DB T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">DB R DB W DB T</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Federal Bureaux of Investigation
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/14 R4 B4 LN6 B38 Ba/120
+Ba/120 B38 LN6 B4 R4 B/14
 ![Sett](sett.png)
 
 ## Palette
@@ -907,7 +916,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/14 R4 B4 LN6 B38 Ba/120 tartan")
+![Tartan detail](tartan.png "Ba/120 B38 LN6 B4 R4 B/14 tartan")
 
 ## Nearest tartans
 
@@ -926,8 +935,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k2w1o8r1t28r2~x2/"><circle cx="454.4" cy="152.1" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/setts/s8/b36db6b5r3k2r3b5db18~x2/"><circle cx="417.9" cy="197.7" r="4" fill="#3465a4"><title>Leonard (Name)</title></circle></a><a href="/setts/s5/b50db15w3db4w2~x2/"><circle cx="496.4" cy="207.9" r="4" fill="#3465a4"><title>Scottish Tourist Board (1990) (Corp)</title></circle></a><a href="/setts/s6/db48dg14r3dg2r3dg2~x2/"><circle cx="521.0" cy="205.3" r="4" fill="#3465a4"><title>Wilson #2</title></circle></a><a href="/setts/s8/do4t48do21t14lo3t6do1ly3~x2/"><circle cx="504.6" cy="156.9" r="4" fill="#3465a4"><title>Munster Ancestry</title></circle></a><a href="/setts/s6/db64dg20r4dg3r4dg3/"><circle cx="507.0" cy="211.0" r="4" fill="#3465a4"><title>Wilson</title></circle></a><a href="/setts/s8/n4db48n21db14dy3db6n1ly3~x2/"><circle cx="532.7" cy="168.8" r="4" fill="#3465a4"><title>Munster Ancestry (Fashion)</title></circle></a><a href="/setts/s4/t20p3db7ly1~x4/"><circle cx="430.2" cy="221.5" r="4" fill="#3465a4"><title>Peacock</title></circle></a><a href="/setts/s10/g25b10w1b5w1b10g25r1g3r2~x2/"><circle cx="440.2" cy="176.0" r="4" fill="#3465a4"><title>Strathdee (Personal)</title></circle></a><a href="/setts/s5/t37b9t3db9w3~x2/"><circle cx="418.0" cy="224.2" r="4" fill="#3465a4"><title>Loch Lomond Trade Tartan Tartan Number: 628. Earliest known date: pre 1984 Sent to the Scottish Tartans Society in Comrie by Lumsden of Toronto. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="500.4" cy="181.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k2w1o8r1t28r2~x2/"><circle cx="454.0" cy="151.9" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/setts/s8/b36db6b5r3k2r3b5db18~x2/"><circle cx="417.7" cy="197.7" r="4" fill="#3465a4"><title>Leonard (Name)</title></circle></a><a href="/setts/s5/b50db15w3db4w2~x2/"><circle cx="496.2" cy="207.6" r="4" fill="#3465a4"><title>Scottish Tourist Board (1990) (Corp)</title></circle></a><a href="/setts/s6/db48dg14r3dg2r3dg2~x2/"><circle cx="520.7" cy="205.2" r="4" fill="#3465a4"><title>Wilson #2</title></circle></a><a href="/setts/s8/do4t48do21t14lo3t6do1ly3~x2/"><circle cx="504.3" cy="156.7" r="4" fill="#3465a4"><title>Munster Ancestry</title></circle></a><a href="/setts/s6/db64dg20r4dg3r4dg3/"><circle cx="506.8" cy="210.8" r="4" fill="#3465a4"><title>Wilson</title></circle></a><a href="/setts/s8/n4db48n21db14dy3db6n1ly3~x2/"><circle cx="532.5" cy="168.7" r="4" fill="#3465a4"><title>Munster Ancestry (Fashion)</title></circle></a><a href="/setts/s4/t20p3db7ly1~x4/"><circle cx="430.0" cy="221.3" r="4" fill="#3465a4"><title>Peacock</title></circle></a><a href="/setts/s10/g25b10w1b5w1b10g25r1g3r2~x2/"><circle cx="439.9" cy="175.9" r="4" fill="#3465a4"><title>Strathdee (Personal)</title></circle></a><a href="/setts/s5/t37b9t3db9w3~x2/"><circle cx="417.7" cy="224.0" r="4" fill="#3465a4"><title>Loch Lomond Trade Tartan Tartan Number: 628. Earliest known date: pre 1984 Sent to the Scottish Tartans Society in Comrie by Lumsden of Toronto. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="500.1" cy="181.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/t60db19w3db2r2db7~x2/

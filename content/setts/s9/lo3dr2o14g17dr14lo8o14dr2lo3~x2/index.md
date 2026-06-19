@@ -2,7 +2,7 @@
 title: "Monaghan"
 date: 2023-03-18
 ---
-**Bands:** [YBRGBYRBY](/stripes/ybrgbyrby/) · **Stripes:** [LO DR O G DR LO O DR LO](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LO DR O G DR LO O DR LO</span></span>
+**Bands:** [YBRYBGRBY](/stripes/ybrybgrby/) · **Stripes:** [LO DR O LO DR G O DR LO](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LO DR O LO DR G O DR LO</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -908,15 +911,15 @@ The nearest existing variants by ΔTartan distance.
 1. [MacAart Family Tartan Tartan Number: 1477. Earliest known date: pre 2003 Restricted See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/dy9k2dy2r2g6k1ly1k1g6r3~x2/) — ΔT 1.18
 1. [Alister Grant 'Mohr', the Laird's Champion](/setts/s7/y30k4ly10k4o5ly5o15~x2/) — ΔT 1.19
 1. [Scott Htg (Clan)](/setts/s8/r3dy16g10r3g3lb2g3r3~x2/) — ΔT 1.22
-1. [Glenmorangie (Corporate)](/setts/s11/lo6m2lo2m4lo13k12y13m4y2m2y6~x2/) — ΔT 1.27
+1. [Glenmorangie (Corporate)](/setts/s11/y6m2y2m4y13k12lo13m4lo2m2lo6~x2/) — ΔT 1.27
 1. [Londonderry, County](/setts/s7/o6k2dg12lo8o5k2dg3~x4/) — ΔT 1.27
 1. [Glenmorangie #2](/setts/s11/dy6m2dy2m4dy13dy12o13m4o2m2o6~x2/) — ΔT 1.27
 1. [Unidentified #57](/setts/s8/dg20r8lr2r8dg5ly8dg2ly8~x2/) — ΔT 1.33
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/o6k2g12lo8o5k2g3~x4/"><circle cx="185.0" cy="248.3" r="4" fill="#3465a4"><title>Londonderry, County (District)</title></circle></a><a href="/setts/s9/lo3do2o14lo8do14dg16o13do2lo3~x2/"><circle cx="202.0" cy="231.2" r="4" fill="#3465a4"><title>Monaghan, County (District)</title></circle></a><a href="/setts/s9/lo3dy2o14dg17dy14lo8o14dy2lo3~x2/"><circle cx="187.0" cy="221.2" r="4" fill="#3465a4"><title>Monaghan Irish County Tartan Tartan Number: 2267. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/dy9k2dy2r2g6k1ly1k1g6r3~x2/"><circle cx="190.5" cy="198.6" r="4" fill="#3465a4"><title>MacAart Family Tartan Tartan Number: 1477. Earliest known date: pre 2003 Restricted See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/y30k4ly10k4o5ly5o15~x2/"><circle cx="214.2" cy="210.2" r="4" fill="#3465a4"><title>Alister Grant 'Mohr', the Laird's Champion</title></circle></a><a href="/setts/s8/r3dy16g10r3g3lb2g3r3~x2/"><circle cx="248.1" cy="226.6" r="4" fill="#3465a4"><title>Scott Htg (Clan)</title></circle></a><a href="/setts/s11/lo6m2lo2m4lo13k12y13m4y2m2y6~x2/"><circle cx="143.1" cy="202.6" r="4" fill="#3465a4"><title>Glenmorangie (Corporate)</title></circle></a><a href="/setts/s7/o6k2dg12lo8o5k2dg3~x4/"><circle cx="170.4" cy="240.6" r="4" fill="#3465a4"><title>Londonderry, County</title></circle></a><a href="/setts/s11/dy6m2dy2m4dy13dy12o13m4o2m2o6~x2/"><circle cx="182.0" cy="225.0" r="4" fill="#3465a4"><title>Glenmorangie #2</title></circle></a><a href="/setts/s8/dg20r8lr2r8dg5ly8dg2ly8~x2/"><circle cx="224.1" cy="210.3" r="4" fill="#3465a4"><title>Unidentified #57</title></circle></a><circle cx="185.7" cy="220.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/o6k2g12lo8o5k2g3~x4/"><circle cx="184.9" cy="248.3" r="4" fill="#3465a4"><title>Londonderry, County (District)</title></circle></a><a href="/setts/s9/lo3do2o14lo8do14dg16o13do2lo3~x2/"><circle cx="201.9" cy="231.3" r="4" fill="#3465a4"><title>Monaghan, County (District)</title></circle></a><a href="/setts/s9/lo3dy2o14dg17dy14lo8o14dy2lo3~x2/"><circle cx="187.0" cy="221.3" r="4" fill="#3465a4"><title>Monaghan Irish County Tartan Tartan Number: 2267. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/dy9k2dy2r2g6k1ly1k1g6r3~x2/"><circle cx="190.5" cy="198.7" r="4" fill="#3465a4"><title>MacAart Family Tartan Tartan Number: 1477. Earliest known date: pre 2003 Restricted See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/y30k4ly10k4o5ly5o15~x2/"><circle cx="214.0" cy="210.1" r="4" fill="#3465a4"><title>Alister Grant 'Mohr', the Laird's Champion</title></circle></a><a href="/setts/s8/r3dy16g10r3g3lb2g3r3~x2/"><circle cx="247.9" cy="226.7" r="4" fill="#3465a4"><title>Scott Htg (Clan)</title></circle></a><a href="/setts/s11/y6m2y2m4y13k12lo13m4lo2m2lo6~x2/"><circle cx="143.0" cy="202.6" r="4" fill="#3465a4"><title>Glenmorangie (Corporate)</title></circle></a><a href="/setts/s7/o6k2dg12lo8o5k2dg3~x4/"><circle cx="170.3" cy="240.6" r="4" fill="#3465a4"><title>Londonderry, County</title></circle></a><a href="/setts/s11/dy6m2dy2m4dy13dy12o13m4o2m2o6~x2/"><circle cx="181.9" cy="225.1" r="4" fill="#3465a4"><title>Glenmorangie #2</title></circle></a><a href="/setts/s8/dg20r8lr2r8dg5ly8dg2ly8~x2/"><circle cx="223.9" cy="210.3" r="4" fill="#3465a4"><title>Unidentified #57</title></circle></a><circle cx="185.6" cy="220.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/lo3dr2o14g17dr14lo8o14dr2lo3~x2/

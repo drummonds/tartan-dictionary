@@ -2,12 +2,19 @@
 title: "MacLoughlin of Ardmarnoch (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGKRKGKG](/stripes/gkgkgkrkgkg/) · **Stripes:** [DG K DG K DG K R K DG K DG](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">DG K DG K DG K R K DG K DG</span></span>
+**Bands:** [GKGKRKGKGKG](/stripes/gkgkrkgkgkg/) · **Stripes:** [DG K DG K R K DG K DG K DG](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">DG K DG K R K DG K DG K DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2650
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacLoughlin of Ardmarnoch
+- MacLoughlin, Ardmarnoch
 
 ## Attestations
 
@@ -320,6 +327,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +428,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +688,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,7 +921,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Menez Du](/setts/s9/db5k9g7k3g7k3g7k25g3~x2/) — ΔT 0.91
-1. [Pike (Personal)](/setts/s11/g10k3g3k20dp3k5g3k20g3k3g10~x2/) — ΔT 1.18
+1. [Pike (Personal)](/setts/s11/g10k3g3k20dp3k5g3k20g3k3g10~x2/) — ΔT 1.17
 1. [MacAlpine](/setts/s14/k8ly1k4dg1k4w1k4dg1k1dg6k1dg6k1dg1~x4/) — ΔT 1.43
 1. [Guildry of Stirling](/setts/s10/g18k3g3k3g3k21g2k21g21k4~x2/) — ΔT 1.48
 1. [Nightstalker (Corporate)](/setts/s8/k1g1k8n1k1n2k1n1~x8/) — ΔT 1.51
@@ -923,8 +933,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db5k9g7k3g7k3g7k25g3~x2/"><circle cx="365.0" cy="251.3" r="4" fill="#3465a4"><title>Menez Du</title></circle></a><a href="/setts/s11/g10k3g3k20dp3k5g3k20g3k3g10~x2/"><circle cx="339.0" cy="226.5" r="4" fill="#3465a4"><title>Pike (Personal)</title></circle></a><a href="/setts/s14/k8ly1k4dg1k4w1k4dg1k1dg6k1dg6k1dg1~x4/"><circle cx="321.7" cy="211.7" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s10/g18k3g3k3g3k21g2k21g21k4~x2/"><circle cx="349.4" cy="231.8" r="4" fill="#3465a4"><title>Guildry of Stirling</title></circle></a><a href="/setts/s8/k1g1k8n1k1n2k1n1~x8/"><circle cx="459.8" cy="238.0" r="4" fill="#3465a4"><title>Nightstalker (Corporate)</title></circle></a><a href="/setts/s9/k15g2k2g4r2g2r2g2k2~x2/"><circle cx="347.4" cy="216.5" r="4" fill="#3465a4"><title>Gaelic Society of Moscow (Corporate)</title></circle></a><a href="/setts/s14/dg11db1k1dg2k12ly1k12dg2k2dg11k2dg2k12ly1~x4/"><circle cx="368.7" cy="201.1" r="4" fill="#3465a4"><title>Hopetoun Rejected design</title></circle></a><a href="/setts/s14/r2dg2lr2dg8r2dg2r2dg6r1dg1r1dg1r1lr1~x2/"><circle cx="369.6" cy="215.4" r="4" fill="#3465a4"><title>Unidentified #51</title></circle></a><a href="/setts/s16/k3dg10ly2dg10k9dg2k9dg10r2dg10k3dg2k5dg2k5dg2~x2/"><circle cx="297.5" cy="249.5" r="4" fill="#3465a4"><title>Stuart/Stewart Hunting #4</title></circle></a><a href="/setts/s6/dg2k12dg1k12dg12r2~x2/"><circle cx="403.3" cy="269.1" r="4" fill="#3465a4"><title>Gunn (Logan)</title></circle></a><circle cx="381.5" cy="255.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db5k9g7k3g7k3g7k25g3~x2/"><circle cx="365.1" cy="251.1" r="4" fill="#3465a4"><title>Menez Du</title></circle></a><a href="/setts/s11/g10k3g3k20dp3k5g3k20g3k3g10~x2/"><circle cx="339.1" cy="226.4" r="4" fill="#3465a4"><title>Pike (Personal)</title></circle></a><a href="/setts/s14/k8ly1k4dg1k4w1k4dg1k1dg6k1dg6k1dg1~x4/"><circle cx="321.7" cy="211.6" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s10/g18k3g3k3g3k21g2k21g21k4~x2/"><circle cx="349.4" cy="231.6" r="4" fill="#3465a4"><title>Guildry of Stirling</title></circle></a><a href="/setts/s8/k1g1k8n1k1n2k1n1~x8/"><circle cx="459.8" cy="237.8" r="4" fill="#3465a4"><title>Nightstalker (Corporate)</title></circle></a><a href="/setts/s9/k15g2k2g4r2g2r2g2k2~x2/"><circle cx="347.3" cy="216.3" r="4" fill="#3465a4"><title>Gaelic Society of Moscow (Corporate)</title></circle></a><a href="/setts/s14/dg11db1k1dg2k12ly1k12dg2k2dg11k2dg2k12ly1~x4/"><circle cx="368.7" cy="201.1" r="4" fill="#3465a4"><title>Hopetoun Rejected design</title></circle></a><a href="/setts/s14/r2dg2lr2dg8r2dg2r2dg6r1dg1r1dg1r1lr1~x2/"><circle cx="369.3" cy="215.2" r="4" fill="#3465a4"><title>Unidentified #51</title></circle></a><a href="/setts/s16/k3dg10ly2dg10k9dg2k9dg10r2dg10k3dg2k5dg2k5dg2~x2/"><circle cx="297.5" cy="249.5" r="4" fill="#3465a4"><title>Stuart/Stewart Hunting #4</title></circle></a><a href="/setts/s6/dg2k12dg1k12dg12r2~x2/"><circle cx="403.3" cy="269.0" r="4" fill="#3465a4"><title>Gunn (Logan)</title></circle></a><circle cx="381.5" cy="255.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/dg5k2dg2k2dg2k12r2k12dg6k2dg2~x2/

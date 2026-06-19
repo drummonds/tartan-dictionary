@@ -20,7 +20,7 @@ BWBYB
 
 
 
-### DB W DB LY DB <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">DB W DB LY DB</span></span>
+### DB LY DB W DB <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">DB LY DB W DB</span></span>
 
 | Tartans |
 |---------------|

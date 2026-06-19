@@ -2,7 +2,7 @@
 title: "Jack, John (Fife) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GBKBGY](/stripes/gbkbgy/) · **Stripes:** [Y DR K DO Y LO](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">Y DR K DO Y LO</span></span>
+**Bands:** [YGBKBG](/stripes/ygbkbg/) · **Stripes:** [LO Y DO K DR Y](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LO Y DO K DR Y</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -50,16 +50,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Llewellen of Wales](/setts/s9/dr74k4dr7k4dr9k40w2k4o2/) — ΔT 1.79
 1. [McBrayer Htg (Personal)](/setts/s8/o50k1r14lb1dg14r14lb1r2~x4/) — ΔT 1.87
 1. [MacWilliam Htg](/setts/s7/dg2dy32dy12k10r1db16r2~x2/) — ΔT 1.97
-1. [MacByrd (Personal)](/setts/s8/y50k1r12lb1y12r14lb1r2~x4/) — ΔT 2.04
 1. [Jack (Personal)](/setts/s6/g4r52k20dy9g2lo1~x2/) — ΔT 2.04
+1. [MacByrd (Personal)](/setts/s8/y50k1r12lb1y12r14lb1r2~x4/) — ΔT 2.04
 1. [Bell, John](/setts/s10/dr7m4dr4m25p1dy32p4dy2w2dy5~x2/) — ΔT 2.10
 1. [Ata?, H.M. & I.C. (Personal)](/setts/s8/k9dg5w1dg15k2dg1k44r1~x2/) — ΔT 2.12
 1. [Potts (Personal)](/setts/s6/k1y3db3do28db36y1~x2/) — ΔT 2.13
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/o80dr8o4k4y4k45do8/"><circle cx="444.9" cy="189.5" r="4" fill="#3465a4"><title>Isaia</title></circle></a><a href="/setts/s10/dy36k3o6k3do10o5do3lo4k1dy2~x2/"><circle cx="413.3" cy="146.6" r="4" fill="#3465a4"><title>Mead (Tennessee) Hunting (Personal)</title></circle></a><a href="/setts/s9/dr74k4dr7k4dr9k40w2k4o2/"><circle cx="534.5" cy="167.5" r="4" fill="#3465a4"><title>Llewellen of Wales</title></circle></a><a href="/setts/s8/o50k1r14lb1dg14r14lb1r2~x4/"><circle cx="460.7" cy="146.1" r="4" fill="#3465a4"><title>McBrayer Htg (Personal)</title></circle></a><a href="/setts/s7/dg2dy32dy12k10r1db16r2~x2/"><circle cx="412.8" cy="178.6" r="4" fill="#3465a4"><title>MacWilliam Htg</title></circle></a><a href="/setts/s8/y50k1r12lb1y12r14lb1r2~x4/"><circle cx="451.3" cy="134.0" r="4" fill="#3465a4"><title>MacByrd (Personal)</title></circle></a><a href="/setts/s6/g4r52k20dy9g2lo1~x2/"><circle cx="447.3" cy="136.1" r="4" fill="#3465a4"><title>Jack (Personal)</title></circle></a><a href="/setts/s10/dr7m4dr4m25p1dy32p4dy2w2dy5~x2/"><circle cx="364.3" cy="146.2" r="4" fill="#3465a4"><title>Bell, John</title></circle></a><a href="/setts/s8/k9dg5w1dg15k2dg1k44r1~x2/"><circle cx="488.7" cy="169.6" r="4" fill="#3465a4"><title>Ata?, H.M. &amp; I.C. (Personal)</title></circle></a><a href="/setts/s6/k1y3db3do28db36y1~x2/"><circle cx="472.8" cy="197.3" r="4" fill="#3465a4"><title>Potts (Personal)</title></circle></a><circle cx="491.5" cy="169.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/o80dr8o4k4y4k45do8/"><circle cx="444.7" cy="189.7" r="4" fill="#3465a4"><title>Isaia</title></circle></a><a href="/setts/s10/dy36k3o6k3do10o5do3lo4k1dy2~x2/"><circle cx="413.0" cy="146.8" r="4" fill="#3465a4"><title>Mead (Tennessee) Hunting (Personal)</title></circle></a><a href="/setts/s9/dr74k4dr7k4dr9k40w2k4o2/"><circle cx="534.3" cy="167.6" r="4" fill="#3465a4"><title>Llewellen of Wales</title></circle></a><a href="/setts/s8/o50k1r14lb1dg14r14lb1r2~x4/"><circle cx="460.3" cy="146.3" r="4" fill="#3465a4"><title>McBrayer Htg (Personal)</title></circle></a><a href="/setts/s7/dg2dy32dy12k10r1db16r2~x2/"><circle cx="412.7" cy="178.6" r="4" fill="#3465a4"><title>MacWilliam Htg</title></circle></a><a href="/setts/s6/g4r52k20dy9g2lo1~x2/"><circle cx="447.1" cy="136.1" r="4" fill="#3465a4"><title>Jack (Personal)</title></circle></a><a href="/setts/s8/y50k1r12lb1y12r14lb1r2~x4/"><circle cx="450.8" cy="134.1" r="4" fill="#3465a4"><title>MacByrd (Personal)</title></circle></a><a href="/setts/s10/dr7m4dr4m25p1dy32p4dy2w2dy5~x2/"><circle cx="364.1" cy="146.4" r="4" fill="#3465a4"><title>Bell, John</title></circle></a><a href="/setts/s8/k9dg5w1dg15k2dg1k44r1~x2/"><circle cx="488.6" cy="169.8" r="4" fill="#3465a4"><title>Ata?, H.M. &amp; I.C. (Personal)</title></circle></a><a href="/setts/s6/k1y3db3do28db36y1~x2/"><circle cx="472.7" cy="197.4" r="4" fill="#3465a4"><title>Potts (Personal)</title></circle></a><circle cx="491.3" cy="169.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/y4dr52k20do9y2lo1~x2/

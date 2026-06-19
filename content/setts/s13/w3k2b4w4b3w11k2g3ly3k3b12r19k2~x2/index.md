@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/11145/
 
 ## Thread count
-K/4 R38 B24 K6 Y6 G6 K4 W22 B6 W8 B8 K4 W/6
+W/6 K4 B8 W8 B6 W22 K4 G6 Y6 K6 B24 R38 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -35,15 +35,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Dundee (2003)](/setts/s14/lo35r3k21r3g21lo6w3k3w3lo6lb15w3k6w6~x2/) — ΔT 1.04
 1. [Lashbrooke of Barrowfield (Personal)](/setts/s12/db3o2b12db14r2db4dy6o4w24r2w2db3~x2/) — ΔT 1.04
 1. [MacInnes Ancient Hunting](/setts/s14/w8db3w10o8ly2k4db3k2db3k2r3w1k2r2~x2/) — ΔT 1.05
-1. [Harrods](/setts/s14/o2w2k2w12o1w1o1w1o4dr5o2dr9o3r2~x2/) — ΔT 1.06
+1. [Harrods](/setts/s14/r2o3dr9o2dr5o4w1o1w1o1w12k2w2o2~x2/) — ΔT 1.06
 1. [MacInnes Ancient Htg (Clan?)](/setts/s14/w8db3w10lo8ly2k4db3k2db3k2r3w1k2r2~x2/) — ΔT 1.07
 1. [Albert (Silk)](/setts/s14/r2lb11w4lb5db6ly1k1w1k1g8r8k1r4w1~x2/) — ΔT 1.10
 1. [Harrods (Corporate)](/setts/s14/dy2w2k2w12dy1w1dy1w1lo4do5lo2do9dy3r2~x2/) — ΔT 1.11
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k3r19b12k3lo3g3k2w11b3w4b4k2w3~x2/"><circle cx="59.6" cy="110.7" r="4" fill="#3465a4"><title>Badminton World Federation</title></circle></a><a href="/setts/s14/r5w23db5w5k7ly3k3w2k3dg16r8dg3r6w3~x2/"><circle cx="88.0" cy="102.5" r="4" fill="#3465a4"><title>Victoria Highland Dress</title></circle></a><a href="/setts/s13/r4w16t5k5ly2k2w2k2g5r5k2r2w2~x2/"><circle cx="75.3" cy="110.9" r="4" fill="#3465a4"><title>Victoria (Wilsons)</title></circle></a><a href="/setts/s14/lo35r3k21r3g21lo6w3k3w3lo6lb15w3k6w6~x2/"><circle cx="96.8" cy="94.2" r="4" fill="#3465a4"><title>Dundee (2003)</title></circle></a><a href="/setts/s12/db3o2b12db14r2db4dy6o4w24r2w2db3~x2/"><circle cx="93.6" cy="101.8" r="4" fill="#3465a4"><title>Lashbrooke of Barrowfield (Personal)</title></circle></a><a href="/setts/s14/w8db3w10o8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="66.0" cy="120.8" r="4" fill="#3465a4"><title>MacInnes Ancient Hunting</title></circle></a><a href="/setts/s14/o2w2k2w12o1w1o1w1o4dr5o2dr9o3r2~x2/"><circle cx="99.9" cy="97.2" r="4" fill="#3465a4"><title>Harrods</title></circle></a><a href="/setts/s14/w8db3w10lo8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="64.4" cy="122.0" r="4" fill="#3465a4"><title>MacInnes Ancient Htg (Clan?)</title></circle></a><a href="/setts/s14/r2lb11w4lb5db6ly1k1w1k1g8r8k1r4w1~x2/"><circle cx="41.5" cy="93.3" r="4" fill="#3465a4"><title>Albert (Silk)</title></circle></a><a href="/setts/s14/dy2w2k2w12dy1w1dy1w1lo4do5lo2do9dy3r2~x2/"><circle cx="101.1" cy="98.6" r="4" fill="#3465a4"><title>Harrods (Corporate)</title></circle></a><circle cx="55.6" cy="107.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k3r19b12k3lo3g3k2w11b3w4b4k2w3~x2/"><circle cx="59.5" cy="110.8" r="4" fill="#3465a4"><title>Badminton World Federation</title></circle></a><a href="/setts/s14/r5w23db5w5k7ly3k3w2k3dg16r8dg3r6w3~x2/"><circle cx="87.8" cy="102.6" r="4" fill="#3465a4"><title>Victoria Highland Dress</title></circle></a><a href="/setts/s13/r4w16t5k5ly2k2w2k2g5r5k2r2w2~x2/"><circle cx="75.0" cy="111.0" r="4" fill="#3465a4"><title>Victoria (Wilsons)</title></circle></a><a href="/setts/s14/lo35r3k21r3g21lo6w3k3w3lo6lb15w3k6w6~x2/"><circle cx="96.5" cy="94.3" r="4" fill="#3465a4"><title>Dundee (2003)</title></circle></a><a href="/setts/s12/db3o2b12db14r2db4dy6o4w24r2w2db3~x2/"><circle cx="93.4" cy="101.9" r="4" fill="#3465a4"><title>Lashbrooke of Barrowfield (Personal)</title></circle></a><a href="/setts/s14/w8db3w10o8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="65.8" cy="120.9" r="4" fill="#3465a4"><title>MacInnes Ancient Hunting</title></circle></a><a href="/setts/s14/r2o3dr9o2dr5o4w1o1w1o1w12k2w2o2~x2/"><circle cx="99.7" cy="97.3" r="4" fill="#3465a4"><title>Harrods</title></circle></a><a href="/setts/s14/w8db3w10lo8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="64.3" cy="122.1" r="4" fill="#3465a4"><title>MacInnes Ancient Htg (Clan?)</title></circle></a><a href="/setts/s14/r2lb11w4lb5db6ly1k1w1k1g8r8k1r4w1~x2/"><circle cx="41.3" cy="93.5" r="4" fill="#3465a4"><title>Albert (Silk)</title></circle></a><a href="/setts/s14/dy2w2k2w12dy1w1dy1w1lo4do5lo2do9dy3r2~x2/"><circle cx="100.9" cy="98.7" r="4" fill="#3465a4"><title>Harrods (Corporate)</title></circle></a><circle cx="55.4" cy="107.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/w3k2b4w4b3w11k2g3ly3k3b12r19k2~x2/

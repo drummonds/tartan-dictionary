@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/
 Original link http://www.tartansauthority.com/tartan-ferret/display/5364/
 
 ## Thread count
-LP/4 DB20 K16 P20 R4 P/8
+P/8 R4 P20 K16 DB20 LP/4
 ![Sett](sett.png)
 
 ## Palette
@@ -26,27 +26,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LP/4 DB20 K16 P20 R4 P/8 tartan")
+![Tartan detail](tartan.png "P/8 R4 P20 K16 DB20 LP/4 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Benreay Medical Centre (Corporate)](/setts/s6/dp4r1b5dp4k6lb1~x4/) — ΔT 1.11
-1. [Kintore](/setts/s10/dp2r1dp5k4db5lb1db5k4dp5r1~x4/) — ΔT 1.15
+1. [Kintore](/setts/s10/dp2r1dp5k4db5lb1~x4/) — ΔT 1.15
 1. [Heritage of Scotland](/setts/s7/db6w3db21k16dp6k3dp6~x2/) — ΔT 1.65
 1. [Blue](/setts/s7/r2db11r3db11t12db10w2~x2/) — ΔT 1.78
 1. [Scottish N. A. Business Council (Co](/setts/s10/r2db6dt6db2r2db4dt6r2db2w1~x4/) — ΔT 1.82
-1. [Hamilton (Personal)](/setts/s10/db3dg3db18r14db5r14db5r14db21dg3~x2/) — ΔT 1.85
+1. [Hamilton (Personal)](/setts/s10/dg3db21r14db5r14db5r14db18dg3db3~x2/) — ΔT 1.85
 1. [Brodie Countryfare (Corporate)](/setts/s7/db3k13db13db13w2db13w3~x2/) — ΔT 1.85
 1. [St. Andrew Society](/setts/s7/db16k16db16w3db16k2t3~x2/) — ΔT 1.87
 1. [Open Championship (1998)](/setts/s6/lb2db20n2dt15r9lb2~x2/) — ΔT 1.90
-1. [Lanark (Fashion #1)](/setts/s6/lb1dr5g3dr1db3r1~x4/) — ΔT 1.92
+1. [Lanark (Fashion #1)](/setts/s6/r1db3dr1g3dr5lb1~x4/) — ΔT 1.92
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dp4r1b5dp4k6lb1~x4/"><circle cx="142.4" cy="240.8" r="4" fill="#3465a4"><title>Benreay Medical Centre (Corporate)</title></circle></a><a href="/setts/s10/dp2r1dp5k4db5lb1db5k4dp5r1~x4/"><circle cx="152.3" cy="248.1" r="4" fill="#3465a4"><title>Kintore</title></circle></a><a href="/setts/s7/db6w3db21k16dp6k3dp6~x2/"><circle cx="226.1" cy="236.4" r="4" fill="#3465a4"><title>Heritage of Scotland</title></circle></a><a href="/setts/s7/r2db11r3db11t12db10w2~x2/"><circle cx="162.9" cy="237.8" r="4" fill="#3465a4"><title>Blue</title></circle></a><a href="/setts/s10/r2db6dt6db2r2db4dt6r2db2w1~x4/"><circle cx="199.2" cy="246.8" r="4" fill="#3465a4"><title>Scottish N. A. Business Council (Co</title></circle></a><a href="/setts/s10/db3dg3db18r14db5r14db5r14db21dg3~x2/"><circle cx="229.7" cy="235.8" r="4" fill="#3465a4"><title>Hamilton (Personal)</title></circle></a><a href="/setts/s7/db3k13db13db13w2db13w3~x2/"><circle cx="194.8" cy="259.1" r="4" fill="#3465a4"><title>Brodie Countryfare (Corporate)</title></circle></a><a href="/setts/s7/db16k16db16w3db16k2t3~x2/"><circle cx="215.2" cy="244.7" r="4" fill="#3465a4"><title>St. Andrew Society</title></circle></a><a href="/setts/s6/lb2db20n2dt15r9lb2~x2/"><circle cx="205.1" cy="203.6" r="4" fill="#3465a4"><title>Open Championship (1998)</title></circle></a><a href="/setts/s6/lb1dr5g3dr1db3r1~x4/"><circle cx="180.9" cy="246.1" r="4" fill="#3465a4"><title>Lanark (Fashion #1)</title></circle></a><circle cx="164.9" cy="256.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dp4r1b5dp4k6lb1~x4/"><circle cx="142.6" cy="240.9" r="4" fill="#3465a4"><title>Benreay Medical Centre (Corporate)</title></circle></a><a href="/setts/s10/dp2r1dp5k4db5lb1~x4/"><circle cx="152.5" cy="248.3" r="4" fill="#3465a4"><title>Kintore</title></circle></a><a href="/setts/s7/db6w3db21k16dp6k3dp6~x2/"><circle cx="226.2" cy="236.4" r="4" fill="#3465a4"><title>Heritage of Scotland</title></circle></a><a href="/setts/s7/r2db11r3db11t12db10w2~x2/"><circle cx="163.1" cy="237.8" r="4" fill="#3465a4"><title>Blue</title></circle></a><a href="/setts/s10/r2db6dt6db2r2db4dt6r2db2w1~x4/"><circle cx="199.3" cy="246.8" r="4" fill="#3465a4"><title>Scottish N. A. Business Council (Co</title></circle></a><a href="/setts/s10/dg3db21r14db5r14db5r14db18dg3db3~x2/"><circle cx="229.9" cy="235.8" r="4" fill="#3465a4"><title>Hamilton (Personal)</title></circle></a><a href="/setts/s7/db3k13db13db13w2db13w3~x2/"><circle cx="195.1" cy="259.1" r="4" fill="#3465a4"><title>Brodie Countryfare (Corporate)</title></circle></a><a href="/setts/s7/db16k16db16w3db16k2t3~x2/"><circle cx="215.5" cy="244.8" r="4" fill="#3465a4"><title>St. Andrew Society</title></circle></a><a href="/setts/s6/lb2db20n2dt15r9lb2~x2/"><circle cx="205.3" cy="203.6" r="4" fill="#3465a4"><title>Open Championship (1998)</title></circle></a><a href="/setts/s6/r1db3dr1g3dr5lb1~x4/"><circle cx="181.0" cy="246.1" r="4" fill="#3465a4"><title>Lanark (Fashion #1)</title></circle></a><circle cx="165.1" cy="256.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/dp2r1dp5k4db5lb1~x4/

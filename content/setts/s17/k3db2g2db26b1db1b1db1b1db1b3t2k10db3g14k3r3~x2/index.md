@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db7k1r3k1db24k1w3k3y3k3y3g19k2w4~x2/"><circle cx="191.1" cy="86.2" r="4" fill="#3465a4"><title>Strathclyde, University of (Corporat</title></circle></a><a href="/setts/s20/db22g2g2g2g2g2db6k3g14db1g4db1g2g2g2g2g1db1k1r2~x2/"><circle cx="217.0" cy="78.2" r="4" fill="#3465a4"><title>Peter Pan</title></circle></a><a href="/setts/s15/k94db20dg34w3dg4w3dg3ly5dg5k5db7w5db5r5db12/"><circle cx="268.5" cy="62.4" r="4" fill="#3465a4"><title>Australian Federal Police</title></circle></a><a href="/setts/s17/db28ly6k2ly1k2ly6w6dg2w1dg2w6db28n4k5dg8k5n4~x2/"><circle cx="204.1" cy="62.4" r="4" fill="#3465a4"><title>Bog Myrtle Corner</title></circle></a><a href="/setts/s16/r3dt14k12t24k1w3k1t24k12dt2k2dt2k2dt8ly1r3~x2/"><circle cx="199.5" cy="89.4" r="4" fill="#3465a4"><title>Royal Scottish Country Dance Society</title></circle></a><a href="/setts/s14/ly3dt2k1dt24k2dt2k2dt2k2dg8m2dg8k1w2~x2/"><circle cx="262.0" cy="94.0" r="4" fill="#3465a4"><title>Alexander-Johnstone (Personal)</title></circle></a><a href="/setts/s13/db64r3k3lb2db3r28dg26db3r3k3ly2db3dg16~x2/"><circle cx="272.9" cy="81.5" r="4" fill="#3465a4"><title>Wcwm 1571</title></circle></a><a href="/setts/s15/w3db3r1db3r1db15r1db2g15o1g2k20o1k2o2~x2/"><circle cx="144.1" cy="84.7" r="4" fill="#3465a4"><title>Joseph Linn Family (Monohon 2012) (Personal)</title></circle></a><a href="/setts/s13/o28k4db6k2lo4k2db6k28db4db2k1k1lb2/"><circle cx="244.1" cy="91.5" r="4" fill="#3465a4"><title>McFly School</title></circle></a><a href="/setts/s13/g4ly2g24r2k12db3k2db2k2db12w1db1w3~x2/"><circle cx="193.7" cy="92.1" r="4" fill="#3465a4"><title>Baron of Greencastle (Personal)</title></circle></a><circle cx="215.6" cy="66.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db7k1r3k1db24k1w3k3y3k3y3g19k2w4~x2/"><circle cx="191.1" cy="86.3" r="4" fill="#3465a4"><title>Strathclyde, University of (Corporat</title></circle></a><a href="/setts/s20/db22g2g2g2g2g2db6k3g14db1g4db1g2g2g2g2g1db1k1r2~x2/"><circle cx="216.9" cy="78.4" r="4" fill="#3465a4"><title>Peter Pan</title></circle></a><a href="/setts/s15/k94db20dg34w3dg4w3dg3ly5dg5k5db7w5db5r5db12/"><circle cx="268.4" cy="62.5" r="4" fill="#3465a4"><title>Australian Federal Police</title></circle></a><a href="/setts/s17/db28ly6k2ly1k2ly6w6dg2w1dg2w6db28n4k5dg8k5n4~x2/"><circle cx="204.0" cy="62.4" r="4" fill="#3465a4"><title>Bog Myrtle Corner</title></circle></a><a href="/setts/s16/r3dt14k12t24k1w3k1t24k12dt2k2dt2k2dt8ly1r3~x2/"><circle cx="199.5" cy="89.5" r="4" fill="#3465a4"><title>Royal Scottish Country Dance Society</title></circle></a><a href="/setts/s14/ly3dt2k1dt24k2dt2k2dt2k2dg8m2dg8k1w2~x2/"><circle cx="262.0" cy="94.1" r="4" fill="#3465a4"><title>Alexander-Johnstone (Personal)</title></circle></a><a href="/setts/s13/db64r3k3lb2db3r28dg26db3r3k3ly2db3dg16~x2/"><circle cx="272.9" cy="81.6" r="4" fill="#3465a4"><title>Wcwm 1571</title></circle></a><a href="/setts/s15/w3db3r1db3r1db15r1db2g15o1g2k20o1k2o2~x2/"><circle cx="144.2" cy="84.8" r="4" fill="#3465a4"><title>Joseph Linn Family (Monohon 2012) (Personal)</title></circle></a><a href="/setts/s13/o28k4db6k2lo4k2db6k28db4db2k1k1lb2/"><circle cx="244.1" cy="91.5" r="4" fill="#3465a4"><title>McFly School</title></circle></a><a href="/setts/s13/g4ly2g24r2k12db3k2db2k2db12w1db1w3~x2/"><circle cx="193.7" cy="92.2" r="4" fill="#3465a4"><title>Baron of Greencastle (Personal)</title></circle></a><circle cx="215.5" cy="66.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s17/k3db2g2db26b1db1b1db1b1db1b3t2k10db3g14k3r3~x2/

@@ -2,12 +2,18 @@
 title: "Neumann - GPS German Pipe Smokers"
 date: 2023-03-18
 ---
-**Bands:** [BRYBYGYBYKYRB](/stripes/brybygybykyrb/) · **Stripes:** [DO R LO DO LO DG LO DP LO K LO R DO](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="seq">DO R LO DO LO DG LO DP LO K LO R DO</span></span>
+**Bands:** [BRYKYBYGYBYRB](/stripes/brykybygybyrb/) · **Stripes:** [DO R LO K LO DP LO DG LO DO LO R DO](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="seq">DO R LO K LO DP LO DG LO DO LO R DO</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10606
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Neumann, Marcus
 
 ## Attestations
 
@@ -23,7 +29,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10606](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10606)
 
 ## Thread count
-K/2 R2 Y2 K4 Y2 Ka64 Y2 N32 Y2 T4 Y2 R6 K/4
+K/4 R6 Y2 T4 Y2 N32 Y2 Ka64 Y2 K4 Y2 R2 K/2
 ![Sett](sett.png)
 
 ## Palette
@@ -54,8 +60,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dg55y20w2y3k2y3w2y3db18k2y4ly2y3~x2/"><circle cx="307.0" cy="94.2" r="4" fill="#3465a4"><title>Knox (Personal)</title></circle></a><a href="/setts/s11/do9lb2r1lb2do3k9dg3do1n35k3n2~x2/"><circle cx="337.0" cy="88.6" r="4" fill="#3465a4"><title>Donohoe Grey, Peter (Commemorative)</title></circle></a><a href="/setts/s11/dy9db2r1db2dy3k9g3dy1n35k3n2~x2/"><circle cx="342.4" cy="91.1" r="4" fill="#3465a4"><title>Donohoe Grey, Peter</title></circle></a><a href="/setts/s15/r4dg3k11do3db3do30k1w4k1dg3k3dg3k3do12r2~x2/"><circle cx="311.5" cy="96.3" r="4" fill="#3465a4"><title>Trew 40th (Personal)</title></circle></a><a href="/setts/s13/dt8dy3y1dy1y39dy3o3y2dt11dy8y2dy3w2~x2/"><circle cx="381.3" cy="107.5" r="4" fill="#3465a4"><title>Afghanistan Memorial</title></circle></a><a href="/setts/s11/k90n8k10n3k4g4k3r16k14ly6k28/"><circle cx="326.2" cy="102.3" r="4" fill="#3465a4"><title>Father's Pride, The</title></circle></a><a href="/setts/s10/k45r4k4do4lo16do76dt8lo6dt2w4/"><circle cx="299.7" cy="90.8" r="4" fill="#3465a4"><title>Highland Gathering (Fashion?)</title></circle></a><a href="/setts/s12/k39b3dy8lo2dy2r2dy2dg8r5dy2r3r2~x2/"><circle cx="289.8" cy="95.1" r="4" fill="#3465a4"><title>GRM (Fashion)</title></circle></a><a href="/setts/s20/dg40k2r3k2dg3k3r3k3r3k3r5ly1r5k3dg3k2r3k2dg3k3~x2/"><circle cx="383.5" cy="84.2" r="4" fill="#3465a4"><title>Austrian Bowhunters Hunting</title></circle></a><a href="/setts/s15/k16lo1k4lb2k4r1dg41lo2r36k1dg3k1r3k1dg4~x2/"><circle cx="323.8" cy="89.5" r="4" fill="#3465a4"><title>Belk Heritage (Fashion)</title></circle></a><circle cx="340.1" cy="83.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dg55y20w2y3k2y3w2y3db18k2y4ly2y3~x2/"><circle cx="306.9" cy="94.4" r="4" fill="#3465a4"><title>Knox (Personal)</title></circle></a><a href="/setts/s11/do9lb2r1lb2do3k9dg3do1n35k3n2~x2/"><circle cx="336.9" cy="88.7" r="4" fill="#3465a4"><title>Donohoe Grey, Peter (Commemorative)</title></circle></a><a href="/setts/s11/dy9db2r1db2dy3k9g3dy1n35k3n2~x2/"><circle cx="342.2" cy="91.2" r="4" fill="#3465a4"><title>Donohoe Grey, Peter</title></circle></a><a href="/setts/s15/r4dg3k11do3db3do30k1w4k1dg3k3dg3k3do12r2~x2/"><circle cx="311.4" cy="96.4" r="4" fill="#3465a4"><title>Trew 40th (Personal)</title></circle></a><a href="/setts/s13/dt8dy3y1dy1y39dy3o3y2dt11dy8y2dy3w2~x2/"><circle cx="381.0" cy="107.6" r="4" fill="#3465a4"><title>Afghanistan Memorial</title></circle></a><a href="/setts/s11/k90n8k10n3k4g4k3r16k14ly6k28/"><circle cx="326.2" cy="102.5" r="4" fill="#3465a4"><title>Father's Pride, The</title></circle></a><a href="/setts/s10/k45r4k4do4lo16do76dt8lo6dt2w4/"><circle cx="299.6" cy="90.9" r="4" fill="#3465a4"><title>Highland Gathering (Fashion?)</title></circle></a><a href="/setts/s12/k39b3dy8lo2dy2r2dy2dg8r5dy2r3r2~x2/"><circle cx="289.8" cy="95.4" r="4" fill="#3465a4"><title>GRM (Fashion)</title></circle></a><a href="/setts/s20/dg40k2r3k2dg3k3r3k3r3k3r5ly1r5k3dg3k2r3k2dg3k3~x2/"><circle cx="383.3" cy="84.4" r="4" fill="#3465a4"><title>Austrian Bowhunters Hunting</title></circle></a><a href="/setts/s15/k16lo1k4lb2k4r1dg41lo2r36k1dg3k1r3k1dg4~x2/"><circle cx="323.7" cy="89.6" r="4" fill="#3465a4"><title>Belk Heritage (Fashion)</title></circle></a><circle cx="339.9" cy="83.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/do2r3lo1k2lo1dp16lo1dg32lo1do2lo1r1do1~x2/

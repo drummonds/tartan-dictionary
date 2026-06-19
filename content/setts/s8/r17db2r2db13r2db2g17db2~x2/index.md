@@ -2,12 +2,18 @@
 title: "Remony (Red)"
 date: 2023-03-18
 ---
-**Bands:** [BGBRBRBR](/stripes/bgbrbrbr/) · **Stripes:** [DB G DB R DB R DB R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB G DB R DB R DB R</span></span>
+**Bands:** [RBRBRBGB](/stripes/rbrbrbgb/) · **Stripes:** [R DB R DB R DB G DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB R DB G DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3497
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Remony
 
 ## Attestations
 
@@ -320,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -894,7 +903,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DB/4 G34 DB4 DR4 DB26 DR4 DB4 DR/34
+DR/34 DB4 DR4 DB26 DR4 DB4 G34 DB/4
 ![Sett](sett.png)
 
 ## Palette
@@ -908,7 +917,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/4 G34 DB4 DR4 DB26 DR4 DB4 DR/34 tartan")
+![Tartan detail](tartan.png "DR/34 DB4 DR4 DB26 DR4 DB4 G34 DB/4 tartan")
 
 ## Nearest tartans
 
@@ -917,18 +926,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Robertson of Struan](/setts/s7/r6db2r2db21dg20r4dg4~x2/) — ΔT 0.97
 1. [McGlynn](/setts/s10/g18db3g3db3g2db8m23db2m4g2~x2/) — ΔT 1.02
 1. [Robertson of Struan 1816](/setts/s7/r3db1r1db11g10r2db2~x4/) — ΔT 1.07
-1. [Logan #5](/setts/s6/db9r3db1g9r3db1~x2/) — ΔT 1.08
+1. [Logan #5](/setts/s6/db9r3db1g9r3db1~x2/) — ΔT 1.09
 1. [Skene](/setts/s7/db9r3db1r3dg9r3db1~x2/) — ΔT 1.10
 1. [Unidentified #61](/setts/s8/db3db1g5db3r9db1r1db2~x4/) — ΔT 1.12
 1. [Logan](/setts/s7/db8r3db1r3dg14r3db1~x4/) — ΔT 1.16
 1. [Logan, or Skene](/setts/s7/db9r3db1r3g9r3db1~x2/) — ΔT 1.21
 1. [Fraser of Stratherrick](/setts/s12/db20r2db2r2g19r18g2r18g19db19r2db2~x2/) — ΔT 1.23
-1. [Sandberg](/setts/s7/r3k12g4db12r1k2r1~x4/) — ΔT 1.26
+1. [Sandberg](/setts/s7/r3k12g4db12r1k2r1~x4/) — ΔT 1.27
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r6db2r2db21dg20r4dg4~x2/"><circle cx="284.7" cy="228.8" r="4" fill="#3465a4"><title>Robertson of Struan</title></circle></a><a href="/setts/s10/g18db3g3db3g2db8m23db2m4g2~x2/"><circle cx="288.3" cy="197.8" r="4" fill="#3465a4"><title>McGlynn</title></circle></a><a href="/setts/s7/r3db1r1db11g10r2db2~x4/"><circle cx="295.6" cy="219.3" r="4" fill="#3465a4"><title>Robertson of Struan 1816</title></circle></a><a href="/setts/s6/db9r3db1g9r3db1~x2/"><circle cx="260.8" cy="242.7" r="4" fill="#3465a4"><title>Logan #5</title></circle></a><a href="/setts/s7/db9r3db1r3dg9r3db1~x2/"><circle cx="219.0" cy="228.5" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/setts/s8/db3db1g5db3r9db1r1db2~x4/"><circle cx="217.9" cy="207.9" r="4" fill="#3465a4"><title>Unidentified #61</title></circle></a><a href="/setts/s7/db8r3db1r3dg14r3db1~x4/"><circle cx="289.1" cy="209.7" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/setts/s7/db9r3db1r3g9r3db1~x2/"><circle cx="235.9" cy="233.0" r="4" fill="#3465a4"><title>Logan, or Skene</title></circle></a><a href="/setts/s12/db20r2db2r2g19r18g2r18g19db19r2db2~x2/"><circle cx="219.4" cy="200.9" r="4" fill="#3465a4"><title>Fraser of Stratherrick</title></circle></a><a href="/setts/s7/r3k12g4db12r1k2r1~x4/"><circle cx="243.6" cy="206.3" r="4" fill="#3465a4"><title>Sandberg</title></circle></a><circle cx="248.3" cy="222.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r6db2r2db21dg20r4dg4~x2/"><circle cx="284.7" cy="228.7" r="4" fill="#3465a4"><title>Robertson of Struan</title></circle></a><a href="/setts/s10/g18db3g3db3g2db8m23db2m4g2~x2/"><circle cx="288.2" cy="197.8" r="4" fill="#3465a4"><title>McGlynn</title></circle></a><a href="/setts/s7/r3db1r1db11g10r2db2~x4/"><circle cx="295.5" cy="219.2" r="4" fill="#3465a4"><title>Robertson of Struan 1816</title></circle></a><a href="/setts/s6/db9r3db1g9r3db1~x2/"><circle cx="260.7" cy="242.6" r="4" fill="#3465a4"><title>Logan #5</title></circle></a><a href="/setts/s7/db9r3db1r3dg9r3db1~x2/"><circle cx="219.0" cy="228.4" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/setts/s8/db3db1g5db3r9db1r1db2~x4/"><circle cx="217.9" cy="207.9" r="4" fill="#3465a4"><title>Unidentified #61</title></circle></a><a href="/setts/s7/db8r3db1r3dg14r3db1~x4/"><circle cx="289.0" cy="209.7" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/setts/s7/db9r3db1r3g9r3db1~x2/"><circle cx="235.8" cy="232.9" r="4" fill="#3465a4"><title>Logan, or Skene</title></circle></a><a href="/setts/s12/db20r2db2r2g19r18g2r18g19db19r2db2~x2/"><circle cx="219.3" cy="200.9" r="4" fill="#3465a4"><title>Fraser of Stratherrick</title></circle></a><a href="/setts/s7/r3k12g4db12r1k2r1~x4/"><circle cx="243.7" cy="206.3" r="4" fill="#3465a4"><title>Sandberg</title></circle></a><circle cx="248.3" cy="222.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r17db2r2db13r2db2g17db2~x2/

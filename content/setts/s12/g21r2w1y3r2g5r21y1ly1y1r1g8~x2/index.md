@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/16 DR2 LG2 Y2 LG2 DR42 G10 DR4 LG6 LN2 DR4 G/42
+G/42 DR4 LN2 LG6 DR4 G10 DR42 LG2 Y2 LG2 DR2 G/16
 ![Sett](sett.png)
 
 ## Palette
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g71k4r4db9r4db4r36db4w4/"><circle cx="298.2" cy="118.4" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/setts/s14/g11r6db6o2g3o2db6r6g36ly2o2ly2db5r5~x2/"><circle cx="299.1" cy="119.7" r="4" fill="#3465a4"><title>Westmeath</title></circle></a><a href="/setts/s9/g15ly3g27r2g2r33b2w1b4~x2/"><circle cx="334.2" cy="114.4" r="4" fill="#3465a4"><title>Longmore (Name)</title></circle></a><a href="/setts/s14/g2r2w1r2k1r24g12ly2g3ly2g12r2g3ly2~x2/"><circle cx="292.3" cy="91.2" r="4" fill="#3465a4"><title>Leask</title></circle></a><a href="/setts/s16/t4ly1g1r30g18g3g1k3g1g3g18r30g1ly1t4g2~x2/"><circle cx="309.8" cy="77.8" r="4" fill="#3465a4"><title>Connemarra Irish District Tartan Tartan Number: 3897. Earliest known date: pre 1997 The Connemara tartan has been created to represent the wild yet picturesque area situated in the north west of County Galway. Strictly speaking this should be a fashion tartan but it has been placed in the same class as the House of Edgar irish tartans. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/r3r4g3p3r11g30r3p7g3r2r4w2~x2/"><circle cx="266.3" cy="120.7" r="4" fill="#3465a4"><title>MacKinnon 1</title></circle></a><a href="/setts/s11/y40dt10o2dt2w2dt3r8y6dt2y4w2~x2/"><circle cx="388.2" cy="122.7" r="4" fill="#3465a4"><title>Cavalier, Green</title></circle></a><a href="/setts/s9/g71k4r4dp9r4dp4r36dp4w4/"><circle cx="307.4" cy="118.2" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/setts/s13/g44r4g2r2g2r4g12k12r2db10r4db4ly3~x2/"><circle cx="332.3" cy="113.6" r="4" fill="#3465a4"><title>Cochrane of Dundonald</title></circle></a><a href="/setts/s11/g28r2g28r7lb2r7lb2r7k5dp4lb2~x2/"><circle cx="336.3" cy="153.7" r="4" fill="#3465a4"><title>Hynde (Sir John)</title></circle></a><circle cx="327.1" cy="117.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g71k4r4db9r4db4r36db4w4/"><circle cx="297.9" cy="118.3" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/setts/s14/g11r6db6o2g3o2db6r6g36ly2o2ly2db5r5~x2/"><circle cx="298.8" cy="119.7" r="4" fill="#3465a4"><title>Westmeath</title></circle></a><a href="/setts/s9/g15ly3g27r2g2r33b2w1b4~x2/"><circle cx="333.9" cy="114.4" r="4" fill="#3465a4"><title>Longmore (Name)</title></circle></a><a href="/setts/s14/g2r2w1r2k1r24g12ly2g3ly2g12r2g3ly2~x2/"><circle cx="291.8" cy="91.2" r="4" fill="#3465a4"><title>Leask</title></circle></a><a href="/setts/s16/t4ly1g1r30g18g3g1k3g1g3g18r30g1ly1t4g2~x2/"><circle cx="309.4" cy="77.7" r="4" fill="#3465a4"><title>Connemarra Irish District Tartan Tartan Number: 3897. Earliest known date: pre 1997 The Connemara tartan has been created to represent the wild yet picturesque area situated in the north west of County Galway. Strictly speaking this should be a fashion tartan but it has been placed in the same class as the House of Edgar irish tartans. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/r3r4g3p3r11g30r3p7g3r2r4w2~x2/"><circle cx="266.0" cy="120.7" r="4" fill="#3465a4"><title>MacKinnon 1</title></circle></a><a href="/setts/s11/y40dt10o2dt2w2dt3r8y6dt2y4w2~x2/"><circle cx="387.8" cy="122.6" r="4" fill="#3465a4"><title>Cavalier, Green</title></circle></a><a href="/setts/s9/g71k4r4dp9r4dp4r36dp4w4/"><circle cx="307.1" cy="118.2" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/setts/s13/g44r4g2r2g2r4g12k12r2db10r4db4ly3~x2/"><circle cx="332.1" cy="113.6" r="4" fill="#3465a4"><title>Cochrane of Dundonald</title></circle></a><a href="/setts/s11/g28r2g28r7lb2r7lb2r7k5dp4lb2~x2/"><circle cx="336.1" cy="153.6" r="4" fill="#3465a4"><title>Hynde (Sir John)</title></circle></a><circle cx="326.8" cy="117.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/g21r2w1y3r2g5r21y1ly1y1r1g8~x2/

@@ -2,7 +2,7 @@
 title: "Brigid Mhairi"
 date: 2023-03-18
 ---
-**Bands:** [BGBBBBBR](/stripes/bgbbbbbr/) · **Stripes:** [DB DG N DP DB DP DP O](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DB DG N DP DB DP DP O</span></span>
+**Bands:** [RBBBBBGB](/stripes/rbbbbbgb/) · **Stripes:** [O DP DP DB DP N DG DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">O DP DP DB DP N DG DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10401](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10401)
 
 ## Thread count
-B/4 N8 G22 DP38 B2 DP38 P8 T/4
+T/4 P8 DP38 B2 DP38 G22 N8 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -33,7 +33,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/4 N8 G22 DP38 B2 DP38 P8 T/4 tartan")
+![Tartan detail](tartan.png "T/4 P8 DP38 B2 DP38 G22 N8 B/4 tartan")
 
 ## Nearest tartans
 
@@ -48,12 +48,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Bouncing Blackie (Personal)](/setts/s7/dp5db8dt13g21db34dt55o3/) — ΔT 2.17
 1. [Riley's Theme](/setts/s6/t20dt4y5n14ly1t2~x2/) — ΔT 2.19
 1. [Michie (Name)](/setts/s20/n9dp10dg4dp3dg2dp7dg4dp20k2dp20dg4dp7dg2dp3dg4dp10n9r1n2lo1~x2/) — ΔT 2.19
-1. [MacInnes Homecoming](/setts/s12/o3k19do2k2do2k2do18k3db3k3do23r3~x2/) — ΔT 2.20
+1. [MacInnes Homecoming](/setts/s12/r3do23k3db3k3do18k2do2k2do2k19o3~x2/) — ΔT 2.20
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db3dg8dt12dr3dp20dg3dt20db3dt20lb2~x2/"><circle cx="354.8" cy="240.1" r="4" fill="#3465a4"><title>Strathisla District Tartan Tartan Number: 4101. Earliest known date: 2002 Designed by David Cowley and Arther MacKie of the Strathmore Woollen Company to reflect the colours of the Angus glen. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r2b4y18n2y2n41w2~x2/"><circle cx="460.3" cy="181.1" r="4" fill="#3465a4"><title>Haddrell (2013)</title></circle></a><a href="/setts/s5/dt62o4dy10dy3dg21~x2/"><circle cx="471.9" cy="233.1" r="4" fill="#3465a4"><title>McGovern (2016)</title></circle></a><a href="/setts/s11/dt19k4dt4db1dt1db1dt1dg5dp3k1dp4~x6/"><circle cx="418.7" cy="191.7" r="4" fill="#3465a4"><title>Spirit of Scotland</title></circle></a><a href="/setts/s7/o80dr8o4k4y4k45do8/"><circle cx="444.9" cy="189.5" r="4" fill="#3465a4"><title>Isaia</title></circle></a><a href="/setts/s8/k2db6k1db7dg13k11db42r2~x2/"><circle cx="461.5" cy="178.7" r="4" fill="#3465a4"><title>Scottish Heritage</title></circle></a><a href="/setts/s7/dp5db8dt13g21db34dt55o3/"><circle cx="344.5" cy="218.3" r="4" fill="#3465a4"><title>Bouncing Blackie (Personal)</title></circle></a><a href="/setts/s6/t20dt4y5n14ly1t2~x2/"><circle cx="345.3" cy="208.1" r="4" fill="#3465a4"><title>Riley's Theme</title></circle></a><a href="/setts/s20/n9dp10dg4dp3dg2dp7dg4dp20k2dp20dg4dp7dg2dp3dg4dp10n9r1n2lo1~x2/"><circle cx="434.5" cy="165.5" r="4" fill="#3465a4"><title>Michie (Name)</title></circle></a><a href="/setts/s12/o3k19do2k2do2k2do18k3db3k3do23r3~x2/"><circle cx="386.0" cy="201.2" r="4" fill="#3465a4"><title>MacInnes Homecoming</title></circle></a><circle cx="427.2" cy="203.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db3dg8dt12dr3dp20dg3dt20db3dt20lb2~x2/"><circle cx="354.9" cy="240.4" r="4" fill="#3465a4"><title>Strathisla District Tartan Tartan Number: 4101. Earliest known date: 2002 Designed by David Cowley and Arther MacKie of the Strathmore Woollen Company to reflect the colours of the Angus glen. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r2b4y18n2y2n41w2~x2/"><circle cx="459.9" cy="181.1" r="4" fill="#3465a4"><title>Haddrell (2013)</title></circle></a><a href="/setts/s5/dt62o4dy10dy3dg21~x2/"><circle cx="471.9" cy="233.2" r="4" fill="#3465a4"><title>McGovern (2016)</title></circle></a><a href="/setts/s11/dt19k4dt4db1dt1db1dt1dg5dp3k1dp4~x6/"><circle cx="418.7" cy="191.9" r="4" fill="#3465a4"><title>Spirit of Scotland</title></circle></a><a href="/setts/s7/o80dr8o4k4y4k45do8/"><circle cx="444.7" cy="189.7" r="4" fill="#3465a4"><title>Isaia</title></circle></a><a href="/setts/s8/k2db6k1db7dg13k11db42r2~x2/"><circle cx="461.5" cy="178.8" r="4" fill="#3465a4"><title>Scottish Heritage</title></circle></a><a href="/setts/s7/dp5db8dt13g21db34dt55o3/"><circle cx="344.6" cy="218.4" r="4" fill="#3465a4"><title>Bouncing Blackie (Personal)</title></circle></a><a href="/setts/s6/t20dt4y5n14ly1t2~x2/"><circle cx="345.2" cy="208.2" r="4" fill="#3465a4"><title>Riley's Theme</title></circle></a><a href="/setts/s20/n9dp10dg4dp3dg2dp7dg4dp20k2dp20dg4dp7dg2dp3dg4dp10n9r1n2lo1~x2/"><circle cx="434.4" cy="165.7" r="4" fill="#3465a4"><title>Michie (Name)</title></circle></a><a href="/setts/s12/r3do23k3db3k3do18k2do2k2do2k19o3~x2/"><circle cx="386.0" cy="201.4" r="4" fill="#3465a4"><title>MacInnes Homecoming</title></circle></a><circle cx="427.1" cy="203.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db2dg4n11dp19db1dp19dp4o2~x2/

@@ -8,7 +8,7 @@ KRKRWRK
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/k4o4w35o1k36o4k2/tartan.png)
+![Woven sample](/setts/s7/k4o4w35o1k36o4k2~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ KRKRWRK
 
 | Tartans |
 |---------------|
-| [Gleneagles](/setts/s7/k4o4w35o1k36o4k2/)|
-|![Gleneagles example sett](/setts/s7/k4o4w35o1k36o4k2/sett.png)|
+| [Gleneagles](/setts/s7/k4o4w35o1k36o4k2~x2/)|
+|![Gleneagles example sett](/setts/s7/k4o4w35o1k36o4k2~x2/sett.png)|
 

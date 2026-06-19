@@ -2,7 +2,7 @@
 title: "Scottish Ballet"
 date: 2023-03-18
 ---
-**Bands:** [GRWRGY](/stripes/grwrgy/) · **Stripes:** [Y M LP M Y LO](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">Y M LP M Y LO</span></span>
+**Bands:** [YGRWRG](/stripes/ygrwrg/) · **Stripes:** [LO Y M LP M Y](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LO Y M LP M Y</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10896](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10896)
 
 ## Thread count
-LG/4 LP10 LPa22 LP30 LG44 Y/10
+Y/10 LG44 LP30 LPa22 LP10 LG/4
 ![Sett](sett.png)
 
 ## Palette
@@ -31,7 +31,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LG/4 LP10 LPa22 LP30 LG44 Y/10 tartan")
+![Tartan detail](tartan.png "Y/10 LG44 LP30 LPa22 LP10 LG/4 tartan")
 
 ## Nearest tartans
 
@@ -50,8 +50,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w3y36lp6b6lp6b12lp32w3/"><circle cx="341.5" cy="227.2" r="4" fill="#3465a4"><title>Tenmaya</title></circle></a><a href="/setts/s8/lr2m24lo14lr25lo14lr25ly20lr2~x2/"><circle cx="267.7" cy="244.7" r="4" fill="#3465a4"><title>Froach's Grian</title></circle></a><a href="/setts/s4/lr24o9n23ly3~x2/"><circle cx="281.5" cy="292.1" r="4" fill="#3465a4"><title>Porcelanosa</title></circle></a><a href="/setts/s8/o24n3o3n3o3n20lr22n4~x2/"><circle cx="346.7" cy="282.4" r="4" fill="#3465a4"><title>Turnberry (MacArthur)</title></circle></a><a href="/setts/s10/o5n3o22r3n6n17r2n4r2n4~x2/"><circle cx="338.4" cy="236.4" r="4" fill="#3465a4"><title>Clyde</title></circle></a><a href="/setts/s9/o7n6lb1lo6n1lo6n6lb1o6~x8/"><circle cx="264.2" cy="298.4" r="4" fill="#3465a4"><title>Outlander #2</title></circle></a><a href="/setts/s9/y7n6lt1lo6n1lo6n6lt1y6~x8/"><circle cx="264.7" cy="299.6" r="4" fill="#3465a4"><title>Outlander #2</title></circle></a><a href="/setts/s5/dy4lg11dy14o30r4~x2/"><circle cx="317.6" cy="270.1" r="4" fill="#3465a4"><title>Trinity Bicycles</title></circle></a><a href="/setts/s5/g35y25m15t2t21~x2/"><circle cx="263.2" cy="271.5" r="4" fill="#3465a4"><title>Dunans Rising</title></circle></a><a href="/setts/s9/r3o23y8g6y8t6y10t12y3~x2/"><circle cx="256.8" cy="261.0" r="4" fill="#3465a4"><title>Lawrence's Seven Pillars of Khaki</title></circle></a><circle cx="309.8" cy="266.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w3y36lp6b6lp6b12lp32w3/"><circle cx="341.2" cy="227.4" r="4" fill="#3465a4"><title>Tenmaya</title></circle></a><a href="/setts/s8/lr2m24lo14lr25lo14lr25ly20lr2~x2/"><circle cx="267.3" cy="244.8" r="4" fill="#3465a4"><title>Froach's Grian</title></circle></a><a href="/setts/s4/lr24o9n23ly3~x2/"><circle cx="281.4" cy="292.2" r="4" fill="#3465a4"><title>Porcelanosa</title></circle></a><a href="/setts/s8/o24n3o3n3o3n20lr22n4~x2/"><circle cx="346.4" cy="282.7" r="4" fill="#3465a4"><title>Turnberry (MacArthur)</title></circle></a><a href="/setts/s10/o5n3o22r3n6n17r2n4r2n4~x2/"><circle cx="338.2" cy="236.7" r="4" fill="#3465a4"><title>Clyde</title></circle></a><a href="/setts/s9/o7n6lb1lo6n1lo6n6lb1o6~x8/"><circle cx="264.1" cy="298.7" r="4" fill="#3465a4"><title>Outlander #2</title></circle></a><a href="/setts/s9/y7n6lt1lo6n1lo6n6lt1y6~x8/"><circle cx="264.6" cy="299.9" r="4" fill="#3465a4"><title>Outlander #2</title></circle></a><a href="/setts/s5/dy4lg11dy14o30r4~x2/"><circle cx="317.4" cy="270.2" r="4" fill="#3465a4"><title>Trinity Bicycles</title></circle></a><a href="/setts/s5/g35y25m15t2t21~x2/"><circle cx="263.2" cy="271.6" r="4" fill="#3465a4"><title>Dunans Rising</title></circle></a><a href="/setts/s9/r3o23y8g6y8t6y10t12y3~x2/"><circle cx="256.6" cy="261.3" r="4" fill="#3465a4"><title>Lawrence's Seven Pillars of Khaki</title></circle></a><circle cx="309.6" cy="266.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/lo5y22m15lp11m5y2~x2/

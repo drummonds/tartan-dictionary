@@ -25,8 +25,8 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Bannockbane](/setts/s8/b2db2b15w10b1db15b2db2~x2/)|
-|![Bannockbane example sett](/setts/s8/b2db2b15w10b1db15b2db2~x2/sett.png)|
+| [Bannockbane](/setts/s8/db2b2db15b1w10b15db2b2~x2/)|
+|![Bannockbane example sett](/setts/s8/db2b2db15b1w10b15db2b2~x2/sett.png)|
 
 ### DB T DB T W T DB T <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">DB T DB T W T DB T</span></span>
 

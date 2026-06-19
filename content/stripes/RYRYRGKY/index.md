@@ -8,7 +8,7 @@ RYRYRGKY
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/ly2k8g24r2lo3r2lo24r2~x2/tartan.png)
+![Woven sample](/setts/s8/r2lo24r2lo3r2g24k8ly2~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RYRYRGKY
 
 | Tartans |
 |---------------|
-| [Botherston (Name)](/setts/s8/ly2k8g24r2lo3r2lo24r2~x2/)|
-|![Botherston (Name) example sett](/setts/s8/ly2k8g24r2lo3r2lo24r2~x2/sett.png)|
+| [Botherston (Name)](/setts/s8/r2lo24r2lo3r2g24k8ly2~x2/)|
+|![Botherston (Name) example sett](/setts/s8/r2lo24r2lo3r2g24k8ly2~x2/sett.png)|
 

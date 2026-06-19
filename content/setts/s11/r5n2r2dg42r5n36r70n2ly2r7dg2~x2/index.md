@@ -2,7 +2,7 @@
 title: "MacPherson Of Cluny"
 date: 2023-03-18
 ---
-**Bands:** [GRYBRBRGRBR](/stripes/grybrbrgrbr/) · **Stripes:** [DG R LY N R N R DG R N R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG R LY N R N R DG R N R</span></span>
+**Bands:** [RBRGRBRBYRG](/stripes/rbrgrbrbyrg/) · **Stripes:** [R N R DG R N R N LY R DG](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R N R DG R N R N LY R DG</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -60,7 +60,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-DG/4 DR14 LG4 N4 DR140 N72 DR10 DG84 DR4 N4 DR/10
+DR/10 N4 DR4 DG84 DR10 N72 DR140 N4 LG4 DR14 DG/4
 ![Sett](sett.png)
 
 ## Palette
@@ -79,6 +79,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacPherson Of Cluny](/setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2/) — ΔT 0.00
 1. [Chisholm D](/setts/s10/r6lr1r24n6dg2n1dg2n1dg12r1~x2/) — ΔT 0.96
+1. [Chisholm D](/setts/s10/r6lr1r24n6dg2n1dg2n1dg12r1/) — ΔT 0.96
 1. [Drummond of Megginch - 1997 Kilt](/setts/s15/o7dt2o3dg32o2dg2o2dt10o2lb2o31dt2o2dt1o6~x2/) — ΔT 1.22
 1. [Waverly, Check](/setts/s12/dr44o5o8o2o2o2o2o14o9o2o4o2~x2/) — ΔT 1.24
 1. [MacDougall #5](/setts/s12/r7r2db2r2dg32r6db12r41dg2r5r2dg5~x2/) — ΔT 1.31
@@ -86,12 +87,11 @@ The nearest existing variants by ΔTartan distance.
 1. [Laporte](/setts/s10/y8r6k4r64o1k28r6y40r6k4~x2/) — ΔT 1.35
 1. [Pride of Scotland, Silver (Fashion)](/setts/s12/n9o2n2r2o18r2n2n1n1n19r33n2~x2/) — ΔT 1.43
 1. [Bell of Ardbel (Personal)](/setts/s10/do7r4do4r25dp1y32dp4y2w2y5~x2/) — ΔT 1.44
-1. [Bell, John](/setts/s10/dr7m4dr4m25p1dy32p4dy2w2dy5~x2/) — ΔT 1.46
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2/"><circle cx="421.6" cy="135.5" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/setts/s10/r6lr1r24n6dg2n1dg2n1dg12r1~x2/"><circle cx="419.3" cy="153.6" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/setts/s15/o7dt2o3dg32o2dg2o2dt10o2lb2o31dt2o2dt1o6~x2/"><circle cx="434.1" cy="138.3" r="4" fill="#3465a4"><title>Drummond of Megginch - 1997 Kilt</title></circle></a><a href="/setts/s12/dr44o5o8o2o2o2o2o14o9o2o4o2~x2/"><circle cx="369.3" cy="152.1" r="4" fill="#3465a4"><title>Waverly, Check</title></circle></a><a href="/setts/s12/r7r2db2r2dg32r6db12r41dg2r5r2dg5~x2/"><circle cx="386.3" cy="152.8" r="4" fill="#3465a4"><title>MacDougall #5</title></circle></a><a href="/setts/s10/o7r4o4r25dp1y32dp4y2w2y5~x2/"><circle cx="360.6" cy="142.3" r="4" fill="#3465a4"><title>Bell of Ardbel (Name)</title></circle></a><a href="/setts/s10/y8r6k4r64o1k28r6y40r6k4~x2/"><circle cx="395.0" cy="129.9" r="4" fill="#3465a4"><title>Laporte</title></circle></a><a href="/setts/s12/n9o2n2r2o18r2n2n1n1n19r33n2~x2/"><circle cx="367.8" cy="139.8" r="4" fill="#3465a4"><title>Pride of Scotland, Silver (Fashion)</title></circle></a><a href="/setts/s10/do7r4do4r25dp1y32dp4y2w2y5~x2/"><circle cx="339.1" cy="130.1" r="4" fill="#3465a4"><title>Bell of Ardbel (Personal)</title></circle></a><a href="/setts/s10/dr7m4dr4m25p1dy32p4dy2w2dy5~x2/"><circle cx="364.3" cy="146.2" r="4" fill="#3465a4"><title>Bell, John</title></circle></a><circle cx="421.6" cy="135.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2/"><circle cx="421.2" cy="135.6" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/setts/s10/r6lr1r24n6dg2n1dg2n1dg12r1~x2/"><circle cx="418.9" cy="153.6" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/setts/s10/r6lr1r24n6dg2n1dg2n1dg12r1/"><circle cx="418.9" cy="153.6" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/setts/s15/o7dt2o3dg32o2dg2o2dt10o2lb2o31dt2o2dt1o6~x2/"><circle cx="433.7" cy="138.5" r="4" fill="#3465a4"><title>Drummond of Megginch - 1997 Kilt</title></circle></a><a href="/setts/s12/dr44o5o8o2o2o2o2o14o9o2o4o2~x2/"><circle cx="369.1" cy="152.3" r="4" fill="#3465a4"><title>Waverly, Check</title></circle></a><a href="/setts/s12/r7r2db2r2dg32r6db12r41dg2r5r2dg5~x2/"><circle cx="386.0" cy="152.9" r="4" fill="#3465a4"><title>MacDougall #5</title></circle></a><a href="/setts/s10/o7r4o4r25dp1y32dp4y2w2y5~x2/"><circle cx="360.3" cy="142.5" r="4" fill="#3465a4"><title>Bell of Ardbel (Name)</title></circle></a><a href="/setts/s10/y8r6k4r64o1k28r6y40r6k4~x2/"><circle cx="394.7" cy="129.9" r="4" fill="#3465a4"><title>Laporte</title></circle></a><a href="/setts/s12/n9o2n2r2o18r2n2n1n1n19r33n2~x2/"><circle cx="367.3" cy="139.9" r="4" fill="#3465a4"><title>Pride of Scotland, Silver (Fashion)</title></circle></a><a href="/setts/s10/do7r4do4r25dp1y32dp4y2w2y5~x2/"><circle cx="338.9" cy="130.3" r="4" fill="#3465a4"><title>Bell of Ardbel (Personal)</title></circle></a><circle cx="421.2" cy="135.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2~x2/

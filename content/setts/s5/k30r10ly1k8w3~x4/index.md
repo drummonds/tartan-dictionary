@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5831
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Union Fire Club Pipes & Drums (Corp.
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -49,17 +55,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Perry Dress (Personal)](/setts/s5/k65r27w2k4ly5~x2/) — ΔT 1.18
 1. [Harvie](/setts/s5/k4r11k32ly1k4~x2/) — ΔT 1.29
 1. [Dobelman (Personal)](/setts/s4/r1k20lb5r1~x4/) — ΔT 1.43
-1. [Rogues, The (Corporate)](/setts/s4/ly3k50t12r3~x2/) — ΔT 1.44
-1. [Rogues (United States), The](/setts/s4/ly3k50n12r3~x2/) — ΔT 1.46
+1. [Rogues, The (Corporate)](/setts/s4/r3t12k50ly3~x2/) — ΔT 1.44
+1. [Rogues (United States), The](/setts/s4/r3n12k50ly3~x2/) — ΔT 1.46
 1. [Perry Ancient (Personal)](/setts/s5/k75y26y3k4ly6~x2/) — ΔT 1.47
 1. [Perry (Calgary), Alex (Personal)](/setts/s4/k62dt24lo5w3~x2/) — ΔT 1.58
 1. [Bunnahabhain](/setts/s9/lo8k7r3k7r3k38w2k3lo6~x2/) — ΔT 1.62
-1. [Sunderland of Scotland (Fashion)](/setts/s7/o1k21o5k3o5k9r1~x4/) — ΔT 1.64
+1. [Sunderland of Scotland (Fashion)](/setts/s7/r1k9o5k3o5k21o1~x4/) — ΔT 1.64
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k75r26w2k4ly5~x2/"><circle cx="473.8" cy="145.4" r="4" fill="#3465a4"><title>Perry / Pirrie (Personal)</title></circle></a><a href="/setts/s5/k65r27w2k4ly5~x2/"><circle cx="457.4" cy="164.5" r="4" fill="#3465a4"><title>Perry Dress (Personal)</title></circle></a><a href="/setts/s5/k4r11k32ly1k4~x2/"><circle cx="539.8" cy="185.5" r="4" fill="#3465a4"><title>Harvie</title></circle></a><a href="/setts/s4/r1k20lb5r1~x4/"><circle cx="479.6" cy="198.8" r="4" fill="#3465a4"><title>Dobelman (Personal)</title></circle></a><a href="/setts/s4/ly3k50t12r3~x2/"><circle cx="456.2" cy="196.4" r="4" fill="#3465a4"><title>Rogues, The (Corporate)</title></circle></a><a href="/setts/s4/ly3k50n12r3~x2/"><circle cx="466.0" cy="200.6" r="4" fill="#3465a4"><title>Rogues (United States), The</title></circle></a><a href="/setts/s5/k75y26y3k4ly6~x2/"><circle cx="463.0" cy="182.7" r="4" fill="#3465a4"><title>Perry Ancient (Personal)</title></circle></a><a href="/setts/s4/k62dt24lo5w3~x2/"><circle cx="421.6" cy="203.7" r="4" fill="#3465a4"><title>Perry (Calgary), Alex (Personal)</title></circle></a><a href="/setts/s9/lo8k7r3k7r3k38w2k3lo6~x2/"><circle cx="430.6" cy="144.7" r="4" fill="#3465a4"><title>Bunnahabhain</title></circle></a><a href="/setts/s7/o1k21o5k3o5k9r1~x4/"><circle cx="480.2" cy="194.5" r="4" fill="#3465a4"><title>Sunderland of Scotland (Fashion)</title></circle></a><circle cx="459.8" cy="167.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k75r26w2k4ly5~x2/"><circle cx="473.6" cy="145.1" r="4" fill="#3465a4"><title>Perry / Pirrie (Personal)</title></circle></a><a href="/setts/s5/k65r27w2k4ly5~x2/"><circle cx="457.3" cy="164.2" r="4" fill="#3465a4"><title>Perry Dress (Personal)</title></circle></a><a href="/setts/s5/k4r11k32ly1k4~x2/"><circle cx="539.6" cy="185.1" r="4" fill="#3465a4"><title>Harvie</title></circle></a><a href="/setts/s4/r1k20lb5r1~x4/"><circle cx="479.4" cy="198.4" r="4" fill="#3465a4"><title>Dobelman (Personal)</title></circle></a><a href="/setts/s4/r3t12k50ly3~x2/"><circle cx="456.2" cy="196.1" r="4" fill="#3465a4"><title>Rogues, The (Corporate)</title></circle></a><a href="/setts/s4/r3n12k50ly3~x2/"><circle cx="465.9" cy="200.3" r="4" fill="#3465a4"><title>Rogues (United States), The</title></circle></a><a href="/setts/s5/k75y26y3k4ly6~x2/"><circle cx="462.9" cy="182.4" r="4" fill="#3465a4"><title>Perry Ancient (Personal)</title></circle></a><a href="/setts/s4/k62dt24lo5w3~x2/"><circle cx="421.6" cy="203.4" r="4" fill="#3465a4"><title>Perry (Calgary), Alex (Personal)</title></circle></a><a href="/setts/s9/lo8k7r3k7r3k38w2k3lo6~x2/"><circle cx="430.4" cy="144.4" r="4" fill="#3465a4"><title>Bunnahabhain</title></circle></a><a href="/setts/s7/r1k9o5k3o5k21o1~x4/"><circle cx="480.1" cy="194.2" r="4" fill="#3465a4"><title>Sunderland of Scotland (Fashion)</title></circle></a><circle cx="459.7" cy="166.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/k30r10ly1k8w3~x4/

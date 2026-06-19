@@ -2,12 +2,18 @@
 title: "Burberry Grey (Original)"
 date: 2023-03-18
 ---
-**Bands:** [BGKWK](/stripes/bgkwk/) · **Stripes:** [DB Y K W K](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">DB Y K W K</span></span>
+**Bands:** [KWKGB](/stripes/kwkgb/) · **Stripes:** [K W K Y DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="seq">K W K Y DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=442
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Burberry, Grey
 
 ## Attestations
 
@@ -24,7 +30,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7268
 
 ## Thread count
-DB/4 N80 K20 LN28 K/20
+K/20 LN28 K20 N80 DB/4
 ![Sett](sett.png)
 
 ## Palette
@@ -39,7 +45,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/4 N80 K20 LN28 K/20 tartan")
+![Tartan detail](tartan.png "K/20 LN28 K20 N80 DB/4 tartan")
 
 ## Nearest tartans
 
@@ -58,8 +64,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/dp2k1dp16g17w2~x4/"><circle cx="288.5" cy="176.3" r="4" fill="#3465a4"><title>Kansai Highland Games</title></circle></a><a href="/setts/s5/dp2k1dp16g16w2~x4/"><circle cx="293.2" cy="180.4" r="4" fill="#3465a4"><title>Kansai Highland Games Corporate Tartan Tartan Number: 2708. Earliest known date: 1999 Designed for the first Highland Games in Japan, started by Maud Robertson and heavy weight husband, Masonori Nomiyam. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/lb3k3lb3k3o15r1~x4/"><circle cx="291.7" cy="171.0" r="4" fill="#3465a4"><title>Tiree Grey</title></circle></a><a href="/setts/s7/r12ly3w14dt10ly2dt24r2~x2/"><circle cx="230.2" cy="180.7" r="4" fill="#3465a4"><title>Yusra (Malay) (Personal)</title></circle></a><a href="/setts/s7/k3t10ly5t29k10r6k2~x2/"><circle cx="317.5" cy="176.3" r="4" fill="#3465a4"><title>Perkins 2015</title></circle></a><a href="/setts/s6/k4ly18n44k3ly10k4/"><circle cx="306.2" cy="177.8" r="4" fill="#3465a4"><title>Stutterheim</title></circle></a><a href="/setts/s6/r4o41k5w14k18r4~x2/"><circle cx="224.4" cy="181.9" r="4" fill="#3465a4"><title>Downside (Corporate)</title></circle></a><a href="/setts/s5/k3w3k3y10r1~x6/"><circle cx="232.2" cy="210.7" r="4" fill="#3465a4"><title>Burberry Hunting</title></circle></a><a href="/setts/s5/k23ly3k23w36r4~x2/"><circle cx="248.0" cy="199.2" r="4" fill="#3465a4"><title>Macleod, Winnifred Mary, Dress</title></circle></a><a href="/setts/s6/ly8k2dt20t4w1k2~x4/"><circle cx="267.1" cy="141.2" r="4" fill="#3465a4"><title>Solberg-Bell</title></circle></a><circle cx="280.8" cy="176.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/dp2k1dp16g17w2~x4/"><circle cx="288.3" cy="176.1" r="4" fill="#3465a4"><title>Kansai Highland Games</title></circle></a><a href="/setts/s5/dp2k1dp16g16w2~x4/"><circle cx="293.0" cy="180.2" r="4" fill="#3465a4"><title>Kansai Highland Games Corporate Tartan Tartan Number: 2708. Earliest known date: 1999 Designed for the first Highland Games in Japan, started by Maud Robertson and heavy weight husband, Masonori Nomiyam. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/lb3k3lb3k3o15r1~x4/"><circle cx="291.5" cy="170.8" r="4" fill="#3465a4"><title>Tiree Grey</title></circle></a><a href="/setts/s7/r12ly3w14dt10ly2dt24r2~x2/"><circle cx="230.1" cy="180.5" r="4" fill="#3465a4"><title>Yusra (Malay) (Personal)</title></circle></a><a href="/setts/s7/k3t10ly5t29k10r6k2~x2/"><circle cx="317.3" cy="176.0" r="4" fill="#3465a4"><title>Perkins 2015</title></circle></a><a href="/setts/s6/k4ly18n44k3ly10k4/"><circle cx="305.9" cy="177.5" r="4" fill="#3465a4"><title>Stutterheim</title></circle></a><a href="/setts/s6/r4o41k5w14k18r4~x2/"><circle cx="224.3" cy="181.7" r="4" fill="#3465a4"><title>Downside (Corporate)</title></circle></a><a href="/setts/s5/k3w3k3y10r1~x6/"><circle cx="232.2" cy="210.5" r="4" fill="#3465a4"><title>Burberry Hunting</title></circle></a><a href="/setts/s5/k23ly3k23w36r4~x2/"><circle cx="247.9" cy="198.9" r="4" fill="#3465a4"><title>Macleod, Winnifred Mary, Dress</title></circle></a><a href="/setts/s6/ly8k2dt20t4w1k2~x4/"><circle cx="267.0" cy="141.0" r="4" fill="#3465a4"><title>Solberg-Bell</title></circle></a><circle cx="280.6" cy="176.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/k5w7k5y20db1~x4/

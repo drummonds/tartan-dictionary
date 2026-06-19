@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [2 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4761
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Wilson's, No 234
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -907,7 +916,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-K/6 R/16
+R/16 K/6
 ![Sett](sett.png)
 
 ## Palette
@@ -920,7 +929,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/6 R/16 tartan")
+![Tartan detail](tartan.png "R/16 K/6 tartan")
 
 ## Nearest tartans
 
@@ -939,8 +948,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s2/r3g1~x14/"><circle cx="470.8" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 134</title></circle></a><a href="/setts/s2/r3dg1~x14/"><circle cx="486.1" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.134</title></circle></a><a href="/setts/s2/r3t1~x14/"><circle cx="487.6" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.138</title></circle></a><a href="/setts/s5/r11k4r4lo4r11~x4/"><circle cx="429.9" cy="321.8" r="4" fill="#3465a4"><title>Ikelman #4 (Personal)</title></circle></a><a href="/setts/s3/r30k10ly3~x4/"><circle cx="434.8" cy="240.6" r="4" fill="#3465a4"><title>Masai Shuka 20 (Artefact)</title></circle></a><a href="/setts/s3/r8w1k1~x20/"><circle cx="523.8" cy="246.4" r="4" fill="#3465a4"><title>International Karate Fed. (Corporat)</title></circle></a><a href="/setts/s5/r30dg12k5lb8r30/"><circle cx="365.0" cy="234.7" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s4/k5r26k26r5~x4/"><circle cx="328.8" cy="289.1" r="4" fill="#3465a4"><title>Ettrick (District)</title></circle></a><a href="/setts/s2/k4r1~x36/"><circle cx="505.9" cy="366.0" r="4" fill="#3465a4"><title>St Kilda</title></circle></a><a href="/setts/s3/r4g2t1~x4/"><circle cx="308.8" cy="316.5" r="4" fill="#3465a4"><title>Wilson's, No 188</title></circle></a><circle cx="417.9" cy="364.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s2/r3g1~x14/"><circle cx="470.5" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 134</title></circle></a><a href="/setts/s2/r3dg1~x14/"><circle cx="485.7" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.134</title></circle></a><a href="/setts/s2/r3t1~x14/"><circle cx="487.2" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.138</title></circle></a><a href="/setts/s5/r11k4r4lo4r11~x4/"><circle cx="429.7" cy="321.4" r="4" fill="#3465a4"><title>Ikelman #4 (Personal)</title></circle></a><a href="/setts/s3/r30k10ly3~x4/"><circle cx="434.4" cy="240.2" r="4" fill="#3465a4"><title>Masai Shuka 20 (Artefact)</title></circle></a><a href="/setts/s3/r8w1k1~x20/"><circle cx="523.4" cy="246.0" r="4" fill="#3465a4"><title>International Karate Fed. (Corporat)</title></circle></a><a href="/setts/s5/r30dg12k5lb8r30/"><circle cx="364.7" cy="234.4" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s4/k5r26k26r5~x4/"><circle cx="328.7" cy="288.8" r="4" fill="#3465a4"><title>Ettrick (District)</title></circle></a><a href="/setts/s2/k4r1~x36/"><circle cx="506.0" cy="365.5" r="4" fill="#3465a4"><title>St Kilda</title></circle></a><a href="/setts/s3/r4g2t1~x4/"><circle cx="308.6" cy="316.3" r="4" fill="#3465a4"><title>Wilson's, No 188</title></circle></a><circle cx="417.7" cy="363.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s2/r8k3~x2/

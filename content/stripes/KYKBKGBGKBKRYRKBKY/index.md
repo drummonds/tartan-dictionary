@@ -24,6 +24,4 @@ KYKBKGBGKBKRYRKBKY
 |---------------|
 | [Buchanan (a)](/setts/s18/ly6k1db4k1r8lr1r8k1db4k1dg6db4dg6k1db4k1ly6k1~x2/)|
 |![Buchanan (a) example sett](/setts/s18/ly6k1db4k1r8lr1r8k1db4k1dg6db4dg6k1db4k1ly6k1~x2/sett.png)|
-| [Buchanan](/setts/s18/ly6k1db4k1r8lr1r8k1db4k1dg6db4dg6k1db4k1ly6k1/)|
-|![Buchanan example sett](/setts/s18/ly6k1db4k1r8lr1r8k1db4k1dg6db4dg6k1db4k1ly6k1/sett.png)|
 

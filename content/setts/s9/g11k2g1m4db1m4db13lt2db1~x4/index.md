@@ -2,7 +2,7 @@
 title: "Dunbartonshire"
 date: 2023-03-18
 ---
-**Bands:** [BWBRBRGKG](/stripes/bwbrbrgkg/) · **Stripes:** [DB LT DB M DB M G K G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB LT DB M DB M G K G</span></span>
+**Bands:** [GKGRBRBWB](/stripes/gkgrbrbwb/) · **Stripes:** [G K G M DB M DB LT DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="seq">G K G M DB M DB LT DB</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/4 LB8 B52 DR16 B4 DR16 G4 K8 G/44
+G/44 K8 G4 DR16 B4 DR16 B52 LB8 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -903,9 +906,9 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Jones Htg (Name)](/setts/s10/dp4t2dp2t8k3dp8g3dp4g24g2~x2/) — ΔT 0.78
+1. [Jones Htg (Name)](/setts/s10/dp4t2dp2t8k3dp8g3dp4g24g2~x2/) — ΔT 0.77
 1. [Glenfalloch](/setts/s12/dt4r1dt12w1r4w1dg4w1r4dg12dt1w2~x2/) — ΔT 0.78
-1. [McWilliams Wedding (Personal)](/setts/s9/g2n1k1n14ly2n1k12g10r2~x2/) — ΔT 0.78
+1. [McWilliams Wedding (Personal)](/setts/s9/r2g10k12n1ly2n14k1n1g2~x2/) — ΔT 0.78
 1. [Law Society of Scotland](/setts/s10/t5r3t30k6w4k6g24r4g6r3/) — ΔT 0.78
 1. [MacMillan Hunting](/setts/s9/db10ly3db30ly5k8dg16r4dg16r2~x2/) — ΔT 0.80
 1. [Heckenberg Htg (Personal)](/setts/s7/db3g13t1r3t1db10ly1~x2/) — ΔT 0.81
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dp4t2dp2t8k3dp8g3dp4g24g2~x2/"><circle cx="238.5" cy="159.7" r="4" fill="#3465a4"><title>Jones Htg (Name)</title></circle></a><a href="/setts/s12/dt4r1dt12w1r4w1dg4w1r4dg12dt1w2~x2/"><circle cx="172.5" cy="150.2" r="4" fill="#3465a4"><title>Glenfalloch</title></circle></a><a href="/setts/s9/g2n1k1n14ly2n1k12g10r2~x2/"><circle cx="191.3" cy="159.9" r="4" fill="#3465a4"><title>McWilliams Wedding (Personal)</title></circle></a><a href="/setts/s10/t5r3t30k6w4k6g24r4g6r3/"><circle cx="183.5" cy="164.6" r="4" fill="#3465a4"><title>Law Society of Scotland</title></circle></a><a href="/setts/s9/db10ly3db30ly5k8dg16r4dg16r2~x2/"><circle cx="218.7" cy="177.4" r="4" fill="#3465a4"><title>MacMillan Hunting</title></circle></a><a href="/setts/s7/db3g13t1r3t1db10ly1~x2/"><circle cx="236.5" cy="178.7" r="4" fill="#3465a4"><title>Heckenberg Htg (Personal)</title></circle></a><a href="/setts/s10/db24k2db2r2db2k20g16ly2g2ly3~x2/"><circle cx="193.8" cy="154.1" r="4" fill="#3465a4"><title>Watson (Name)</title></circle></a><a href="/setts/s9/lt3dt20k3dt2k5dt2k3y15r2~x2/"><circle cx="221.4" cy="177.9" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra, The</title></circle></a><a href="/setts/s9/g14k2g4r2g4k14dp15k1w3~x2/"><circle cx="183.7" cy="165.5" r="4" fill="#3465a4"><title>MacRae Hunting #2</title></circle></a><a href="/setts/s7/b5dy28lb5k20lo5b47lo4~x2/"><circle cx="219.1" cy="176.9" r="4" fill="#3465a4"><title>State Seal of Washington (Fashion)</title></circle></a><circle cx="195.6" cy="161.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dp4t2dp2t8k3dp8g3dp4g24g2~x2/"><circle cx="238.4" cy="159.7" r="4" fill="#3465a4"><title>Jones Htg (Name)</title></circle></a><a href="/setts/s12/dt4r1dt12w1r4w1dg4w1r4dg12dt1w2~x2/"><circle cx="172.5" cy="150.3" r="4" fill="#3465a4"><title>Glenfalloch</title></circle></a><a href="/setts/s9/r2g10k12n1ly2n14k1n1g2~x2/"><circle cx="191.3" cy="160.0" r="4" fill="#3465a4"><title>McWilliams Wedding (Personal)</title></circle></a><a href="/setts/s10/t5r3t30k6w4k6g24r4g6r3/"><circle cx="183.4" cy="164.7" r="4" fill="#3465a4"><title>Law Society of Scotland</title></circle></a><a href="/setts/s9/db10ly3db30ly5k8dg16r4dg16r2~x2/"><circle cx="218.7" cy="177.4" r="4" fill="#3465a4"><title>MacMillan Hunting</title></circle></a><a href="/setts/s7/db3g13t1r3t1db10ly1~x2/"><circle cx="236.5" cy="178.7" r="4" fill="#3465a4"><title>Heckenberg Htg (Personal)</title></circle></a><a href="/setts/s10/db24k2db2r2db2k20g16ly2g2ly3~x2/"><circle cx="193.9" cy="154.2" r="4" fill="#3465a4"><title>Watson (Name)</title></circle></a><a href="/setts/s9/lt3dt20k3dt2k5dt2k3y15r2~x2/"><circle cx="221.5" cy="177.9" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra, The</title></circle></a><a href="/setts/s9/g14k2g4r2g4k14dp15k1w3~x2/"><circle cx="183.8" cy="165.5" r="4" fill="#3465a4"><title>MacRae Hunting #2</title></circle></a><a href="/setts/s7/b5dy28lb5k20lo5b47lo4~x2/"><circle cx="219.0" cy="176.9" r="4" fill="#3465a4"><title>State Seal of Washington (Fashion)</title></circle></a><circle cx="195.6" cy="161.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/g11k2g1m4db1m4db13lt2db1~x4/

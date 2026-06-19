@@ -2,12 +2,19 @@
 title: "Colquhoun"
 date: 2023-03-18
 ---
-**Bands:** [BKBKYGR](/stripes/bkbkygr/) · **Stripes:** [DB K DB K LR DG R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K DB K LR DG R</span></span>
+**Bands:** [RGYKBKB](/stripes/rgykbkb/) · **Stripes:** [R DG LR K DB K DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R DG LR K DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+
+## Attestations
+
+This cloth appears in 2 source records; the oldest owns this page.
+
+- undated — Colquhoun (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+- undated — Colquhoun (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Register references
 
@@ -52,15 +59,8 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 977
 - Scottish Tartans World Register: 978
 
-## Variants
-
-Other setts woven to the same stripe pattern.
-
-- [Colquhoun](/setts/s7/r2dg8lr1k8db8k1db1/)
-
-
 ## Thread count
-DB/2 K2 DB16 K16 N2 DG16 DR/4
+DR/4 DG16 N2 K16 DB16 K2 DB/2
 ![Sett](sett.png)
 
 ## Palette
@@ -76,27 +76,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/2 K2 DB16 K16 N2 DG16 DR/4 tartan")
+![Tartan detail](tartan.png "DR/4 DG16 N2 K16 DB16 K2 DB/2 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Colquhoun](/setts/s7/r2dg8lr1k8db8k1db1/) — ΔT 0.00
-1. [Campbell of Cawdor](/setts/s7/b2k1dg8k8db8k1r2~x2/) — ΔT 0.32
-1. [Campbell of Cawdor](/setts/s7/b2k1dg8k8db8k1r2/) — ΔT 0.32
+1. [Campbell of Cawdor](/setts/s7/r2k1db8k8dg8k1b2~x2/) — ΔT 0.32
 1. [Leslie Hunting](/setts/s6/r2db8k8lr1dg8k1~x2/) — ΔT 0.48
 1. [Leslie Hunting](/setts/s6/r2db8k8lr1dg8k1/) — ΔT 0.48
 1. [MacLeod](/setts/s7/r3k2dg15k10db20k2ly2~x2/) — ΔT 0.67
 1. [MacLeod](/setts/s7/r3k2dg15k10db20k2ly2/) — ΔT 0.67
 1. [Herd](/setts/s6/dp4dg25k24w3db24w4~x2/) — ΔT 0.70
-1. [Leslie Hunting](/setts/s6/r2db8k8lb1dg8k1~x2/) — ΔT 0.72
+1. [Leslie Hunting](/setts/s6/r2db8k8lb1dg8k1/) — ΔT 0.71
 1. [Royal College of Physicians of Edinburgh](/setts/s6/db28r4k14r4dg33ly4~x2/) — ΔT 0.76
+1. [Mitchell](/setts/s6/k2dg12k12r1db12lr2~x2/) — ΔT 0.79
+1. [Mitchell](/setts/s6/k2dg12k12r1db12lr2/) — ΔT 0.79
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r2dg8lr1k8db8k1db1/"><circle cx="142.3" cy="212.6" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/setts/s7/b2k1dg8k8db8k1r2~x2/"><circle cx="143.5" cy="219.0" r="4" fill="#3465a4"><title>Campbell of Cawdor</title></circle></a><a href="/setts/s7/b2k1dg8k8db8k1r2/"><circle cx="143.5" cy="219.0" r="4" fill="#3465a4"><title>Campbell of Cawdor</title></circle></a><a href="/setts/s6/r2db8k8lr1dg8k1~x2/"><circle cx="138.8" cy="226.4" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/setts/s6/r2db8k8lr1dg8k1/"><circle cx="138.8" cy="226.4" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/setts/s7/r3k2dg15k10db20k2ly2~x2/"><circle cx="182.0" cy="200.5" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/setts/s7/r3k2dg15k10db20k2ly2/"><circle cx="182.0" cy="200.5" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/setts/s6/dp4dg25k24w3db24w4~x2/"><circle cx="115.4" cy="217.2" r="4" fill="#3465a4"><title>Herd</title></circle></a><a href="/setts/s6/r2db8k8lb1dg8k1~x2/"><circle cx="124.6" cy="219.0" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/setts/s6/db28r4k14r4dg33ly4~x2/"><circle cx="168.9" cy="213.2" r="4" fill="#3465a4"><title>Royal College of Physicians of Edinburgh</title></circle></a><circle cx="142.3" cy="212.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r2k1db8k8dg8k1b2~x2/"><circle cx="143.9" cy="219.1" r="4" fill="#3465a4"><title>Campbell of Cawdor</title></circle></a><a href="/setts/s6/r2db8k8lr1dg8k1~x2/"><circle cx="139.2" cy="226.5" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/setts/s6/r2db8k8lr1dg8k1/"><circle cx="139.2" cy="226.5" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/setts/s7/r3k2dg15k10db20k2ly2~x2/"><circle cx="182.3" cy="200.6" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/setts/s7/r3k2dg15k10db20k2ly2/"><circle cx="182.3" cy="200.6" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/setts/s6/dp4dg25k24w3db24w4~x2/"><circle cx="115.8" cy="217.3" r="4" fill="#3465a4"><title>Herd</title></circle></a><a href="/setts/s6/r2db8k8lb1dg8k1/"><circle cx="124.9" cy="219.0" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/setts/s6/db28r4k14r4dg33ly4~x2/"><circle cx="169.2" cy="213.2" r="4" fill="#3465a4"><title>Royal College of Physicians of Edinburgh</title></circle></a><a href="/setts/s6/k2dg12k12r1db12lr2~x2/"><circle cx="170.4" cy="211.3" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><a href="/setts/s6/k2dg12k12r1db12lr2/"><circle cx="170.4" cy="211.3" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><circle cx="142.7" cy="212.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r2dg8lr1k8db8k1db1~x2/

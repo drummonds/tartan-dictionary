@@ -18,10 +18,10 @@ BKRGKBRKY
 
 
 
-### T K R G K DB R K LY <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">T K R G K DB R K LY</span></span>
+### LY K R DB K G R K T <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY K R DB K G R K T</span></span>
 
 | Tartans |
 |---------------|
-| [Loch Awe](/setts/s9/ly3k2r3db20k24g20r3k2t3~x2/)|
-|![Loch Awe example sett](/setts/s9/ly3k2r3db20k24g20r3k2t3~x2/sett.png)|
+| [Loch Awe](/setts/s9/t3k2r3g20k24db20r3k2ly3~x2/)|
+|![Loch Awe example sett](/setts/s9/t3k2r3g20k24db20r3k2ly3~x2/sett.png)|
 

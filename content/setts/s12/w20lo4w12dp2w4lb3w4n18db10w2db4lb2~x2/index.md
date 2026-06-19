@@ -2,7 +2,7 @@
 title: "Portree, Blue (Dance)"
 date: 2023-03-18
 ---
-**Bands:** [WBWBBWWWBWYW](/stripes/wbwbbwwwbwyw/) · **Stripes:** [LB DB W DB N W LB W DP W LO W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LB DB W DB N W LB W DP W LO W</span></span>
+**Bands:** [WYWBWWWBBWBW](/stripes/wywbwwwbbwbw/) · **Stripes:** [W LO W DP W LB W N DB W DB LB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">W LO W DP W LB W N DB W DB LB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/5488/
 
 ## Thread count
-LB/4 DB8 LY4 DB20 B36 LY8 LB6 LY8 P4 LY24 DY8 LY/40
+LY/40 DY8 LY24 P4 LY8 LB6 LY8 B36 DB20 LY4 DB8 LB/4
 ![Sett](sett.png)
 
 ## Palette
@@ -31,10 +31,10 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacKessog Wedding (Fashion)](/setts/s11/n1w8y2lo2db6w1db6lo2y2w8r1~x4/) — ΔT 1.03
 1. [Portree Blue (Dance)](/setts/s12/w20lo4w12dp2w4lb3w4n18n10w2n4lb2~x2/) — ΔT 1.11
-1. [Beckett Beaumont](/setts/s16/w54dt7w19k5w8y8w8y16k8dy8w21r11y7dt11y8w7~x2/) — ΔT 1.16
+1. [Beckett Beaumont](/setts/s16/w54dt7w19k5w8y8w8y16k8dy8w21r11y7dt11y8w7~x2/) — ΔT 1.17
 1. [Letang Family (Neuilly sur Seine, France) (Personal)](/setts/s14/t14lr2lo2lr2t25k6w17r3w3r3w3r3w3r3~x2/) — ΔT 1.22
 1. [Stuart/Stewart Dress #2](/setts/s15/w16db3w8k3w3k6ly2k2w2k2dg7r4k2r2w2~x2/) — ΔT 1.23
-1. [Aelfleda Arisaid (Personal)](/setts/s13/ly4db5ly4db5w8g2w24r2w8db5ly4db5ly4~x2/) — ΔT 1.26
+1. [Aelfleda Arisaid (Personal)](/setts/s13/ly4db5ly4db5w8r2w24g2w8db5ly4db5ly4~x2/) — ΔT 1.26
 1. [Letang (Personal)](/setts/s14/b14lb2ly2lb2b25k6w17r3w3r3w3r3w3r3~x2/) — ΔT 1.26
 1. [Tom Morris (Official)](/setts/s13/lr38p5lr6p5lr4k20lr38y12w3n30w3n2w7/) — ΔT 1.28
 1. [Gayre Arisaidh](/setts/s16/db20dg5k5w22db5w22k2ly2k2r6dg4w4dg3r4k2ly2~x2/) — ΔT 1.29
@@ -42,8 +42,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/n1w8y2lo2db6w1db6lo2y2w8r1~x4/"><circle cx="126.8" cy="139.9" r="4" fill="#3465a4"><title>MacKessog Wedding (Fashion)</title></circle></a><a href="/setts/s12/w20lo4w12dp2w4lb3w4n18n10w2n4lb2~x2/"><circle cx="201.1" cy="135.1" r="4" fill="#3465a4"><title>Portree Blue (Dance)</title></circle></a><a href="/setts/s16/w54dt7w19k5w8y8w8y16k8dy8w21r11y7dt11y8w7~x2/"><circle cx="200.5" cy="101.3" r="4" fill="#3465a4"><title>Beckett Beaumont</title></circle></a><a href="/setts/s14/t14lr2lo2lr2t25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="167.9" cy="91.4" r="4" fill="#3465a4"><title>Letang Family (Neuilly sur Seine, France) (Personal)</title></circle></a><a href="/setts/s15/w16db3w8k3w3k6ly2k2w2k2dg7r4k2r2w2~x2/"><circle cx="134.3" cy="113.6" r="4" fill="#3465a4"><title>Stuart/Stewart Dress #2</title></circle></a><a href="/setts/s13/ly4db5ly4db5w8g2w24r2w8db5ly4db5ly4~x2/"><circle cx="189.9" cy="114.0" r="4" fill="#3465a4"><title>Aelfleda Arisaid (Personal)</title></circle></a><a href="/setts/s14/b14lb2ly2lb2b25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="166.2" cy="96.9" r="4" fill="#3465a4"><title>Letang (Personal)</title></circle></a><a href="/setts/s13/lr38p5lr6p5lr4k20lr38y12w3n30w3n2w7/"><circle cx="198.2" cy="89.3" r="4" fill="#3465a4"><title>Tom Morris (Official)</title></circle></a><a href="/setts/s16/db20dg5k5w22db5w22k2ly2k2r6dg4w4dg3r4k2ly2~x2/"><circle cx="131.2" cy="89.2" r="4" fill="#3465a4"><title>Gayre Arisaidh</title></circle></a><a href="/setts/s10/w4k2w30g3p3g3p7db14g3r3~x2/"><circle cx="182.8" cy="90.1" r="4" fill="#3465a4"><title>Edinburgh, dress</title></circle></a><circle cx="155.1" cy="116.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/n1w8y2lo2db6w1db6lo2y2w8r1~x4/"><circle cx="126.6" cy="139.9" r="4" fill="#3465a4"><title>MacKessog Wedding (Fashion)</title></circle></a><a href="/setts/s12/w20lo4w12dp2w4lb3w4n18n10w2n4lb2~x2/"><circle cx="200.7" cy="135.0" r="4" fill="#3465a4"><title>Portree Blue (Dance)</title></circle></a><a href="/setts/s16/w54dt7w19k5w8y8w8y16k8dy8w21r11y7dt11y8w7~x2/"><circle cx="200.1" cy="101.2" r="4" fill="#3465a4"><title>Beckett Beaumont</title></circle></a><a href="/setts/s14/t14lr2lo2lr2t25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="167.6" cy="91.5" r="4" fill="#3465a4"><title>Letang Family (Neuilly sur Seine, France) (Personal)</title></circle></a><a href="/setts/s15/w16db3w8k3w3k6ly2k2w2k2dg7r4k2r2w2~x2/"><circle cx="134.1" cy="113.6" r="4" fill="#3465a4"><title>Stuart/Stewart Dress #2</title></circle></a><a href="/setts/s13/ly4db5ly4db5w8r2w24g2w8db5ly4db5ly4~x2/"><circle cx="189.4" cy="113.9" r="4" fill="#3465a4"><title>Aelfleda Arisaid (Personal)</title></circle></a><a href="/setts/s14/b14lb2ly2lb2b25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="166.0" cy="96.9" r="4" fill="#3465a4"><title>Letang (Personal)</title></circle></a><a href="/setts/s13/lr38p5lr6p5lr4k20lr38y12w3n30w3n2w7/"><circle cx="197.9" cy="89.3" r="4" fill="#3465a4"><title>Tom Morris (Official)</title></circle></a><a href="/setts/s16/db20dg5k5w22db5w22k2ly2k2r6dg4w4dg3r4k2ly2~x2/"><circle cx="131.0" cy="89.2" r="4" fill="#3465a4"><title>Gayre Arisaidh</title></circle></a><a href="/setts/s10/w4k2w30g3p3g3p7db14g3r3~x2/"><circle cx="182.5" cy="90.0" r="4" fill="#3465a4"><title>Edinburgh, dress</title></circle></a><circle cx="154.7" cy="115.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/w20lo4w12dp2w4lb3w4n18db10w2db4lb2~x2/

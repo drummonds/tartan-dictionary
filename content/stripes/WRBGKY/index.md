@@ -8,7 +8,7 @@ WRBGKY
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/ly5k2g4t18r25w5~x2/tartan.png)
+![Woven sample](/setts/s6/w5r25t18g4k2ly5~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ WRBGKY
 
 
 
-### W R T G K LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W R T G K LY</span></span>
+### LY K G T R W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K G T R W</span></span>
 
 | Tartans |
 |---------------|
-| [Christie (London) (Personal)](/setts/s6/ly5k2g4t18r25w5~x2/)|
-|![Christie (London) (Personal) example sett](/setts/s6/ly5k2g4t18r25w5~x2/sett.png)|
+| [Christie (London) (Personal)](/setts/s6/w5r25t18g4k2ly5~x2/)|
+|![Christie (London) (Personal) example sett](/setts/s6/w5r25t18g4k2ly5~x2/sett.png)|
 

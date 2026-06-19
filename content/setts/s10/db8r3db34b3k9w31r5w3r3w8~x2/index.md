@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -915,16 +918,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Stewart of Appin Htg Dress](/setts/s10/db8r3db36t3k10w34r4w3r3w8~x2/) — ΔT 0.44
 1. [Sutherland, Dress](/setts/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/) — ΔT 0.73
 1. [Culloden Dress Ancient](/setts/s8/r6db2dp21w3dg19w26dg3w5~x2/) — ΔT 0.87
-1. [Thom(p)son](/setts/s10/ly1db9k1w4k1w2k2w2k1r1~x4/) — ΔT 0.87
+1. [Thom(p)son](/setts/s10/r1k1w2k2w2k1w4k1db9ly1~x4/) — ΔT 0.87
 1. [MacKellar Royal Blue Dress Tartan Tartan Number: 8181. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/db23w2db3t4db3w2db5k11p2w23k3~x2/) — ΔT 0.89
 1. [Walker, Dress (Personal)](/setts/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/) — ΔT 0.95
 1. [Davidson (Wedding) (Personal)](/setts/s7/r2db14k6g1w12g1w2~x4/) — ΔT 0.95
-1. [Thompson Variant](/setts/s10/lo1db9k1lb4k1lb2k2lb2k1r1~x4/) — ΔT 0.97
+1. [Thompson Variant](/setts/s10/r1k1lb2k2lb2k1lb4k1db9lo1~x4/) — ΔT 0.97
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db8r3db34t3k9w31r5w3r3w8~x2/"><circle cx="168.2" cy="126.1" r="4" fill="#3465a4"><title>Stewart of Appin Dress Clan Tartan Tartan Number: 481. Earliest known date: pre 2003 The Stewarts of Appin fueded relentlessly with the Campbells, and they were supported in these pursuits and other military activities by some of the Clan MacColl, whose tartan is very similar. The Stewarts of Ardshiel, a branch of the Appin Clan, have a certified tartan of their own dating back to the 1820's, which has elements of the Appin design. Stewarts of Appin are descended from Dugald, the son of Sir John Stewart of Lorne who was murdered in 1463. Dugald established the Appin branch of the family by dividing his lands between his five sons. The tartan is worn by the Stonehaven pipe bands. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/db8r3db34b3k9w31r5w3r3w8/"><circle cx="169.5" cy="126.6" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin Dress</title></circle></a><a href="/setts/s10/db8r3db36t3k10w34r4w3r3w8~x2/"><circle cx="169.3" cy="119.5" r="4" fill="#3465a4"><title>Stewart of Appin Htg Dress</title></circle></a><a href="/setts/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/"><circle cx="150.7" cy="117.3" r="4" fill="#3465a4"><title>Sutherland, Dress</title></circle></a><a href="/setts/s8/r6db2dp21w3dg19w26dg3w5~x2/"><circle cx="152.7" cy="141.6" r="4" fill="#3465a4"><title>Culloden Dress Ancient</title></circle></a><a href="/setts/s10/ly1db9k1w4k1w2k2w2k1r1~x4/"><circle cx="132.9" cy="138.8" r="4" fill="#3465a4"><title>Thom(p)son</title></circle></a><a href="/setts/s11/db23w2db3t4db3w2db5k11p2w23k3~x2/"><circle cx="173.3" cy="126.9" r="4" fill="#3465a4"><title>MacKellar Royal Blue Dress Tartan Tartan Number: 8181. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/"><circle cx="148.1" cy="106.8" r="4" fill="#3465a4"><title>Walker, Dress (Personal)</title></circle></a><a href="/setts/s7/r2db14k6g1w12g1w2~x4/"><circle cx="149.5" cy="138.8" r="4" fill="#3465a4"><title>Davidson (Wedding) (Personal)</title></circle></a><a href="/setts/s10/lo1db9k1lb4k1lb2k2lb2k1r1~x4/"><circle cx="149.3" cy="146.9" r="4" fill="#3465a4"><title>Thompson Variant</title></circle></a><circle cx="166.1" cy="125.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db8r3db34t3k9w31r5w3r3w8~x2/"><circle cx="168.0" cy="126.1" r="4" fill="#3465a4"><title>Stewart of Appin Dress Clan Tartan Tartan Number: 481. Earliest known date: pre 2003 The Stewarts of Appin fueded relentlessly with the Campbells, and they were supported in these pursuits and other military activities by some of the Clan MacColl, whose tartan is very similar. The Stewarts of Ardshiel, a branch of the Appin Clan, have a certified tartan of their own dating back to the 1820's, which has elements of the Appin design. Stewarts of Appin are descended from Dugald, the son of Sir John Stewart of Lorne who was murdered in 1463. Dugald established the Appin branch of the family by dividing his lands between his five sons. The tartan is worn by the Stonehaven pipe bands. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/db8r3db34b3k9w31r5w3r3w8/"><circle cx="169.3" cy="126.5" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin Dress</title></circle></a><a href="/setts/s10/db8r3db36t3k10w34r4w3r3w8~x2/"><circle cx="169.1" cy="119.5" r="4" fill="#3465a4"><title>Stewart of Appin Htg Dress</title></circle></a><a href="/setts/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/"><circle cx="150.6" cy="117.3" r="4" fill="#3465a4"><title>Sutherland, Dress</title></circle></a><a href="/setts/s8/r6db2dp21w3dg19w26dg3w5~x2/"><circle cx="152.5" cy="141.5" r="4" fill="#3465a4"><title>Culloden Dress Ancient</title></circle></a><a href="/setts/s10/r1k1w2k2w2k1w4k1db9ly1~x4/"><circle cx="132.8" cy="138.8" r="4" fill="#3465a4"><title>Thom(p)son</title></circle></a><a href="/setts/s11/db23w2db3t4db3w2db5k11p2w23k3~x2/"><circle cx="173.2" cy="126.9" r="4" fill="#3465a4"><title>MacKellar Royal Blue Dress Tartan Tartan Number: 8181. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/"><circle cx="147.9" cy="106.8" r="4" fill="#3465a4"><title>Walker, Dress (Personal)</title></circle></a><a href="/setts/s7/r2db14k6g1w12g1w2~x4/"><circle cx="149.4" cy="138.7" r="4" fill="#3465a4"><title>Davidson (Wedding) (Personal)</title></circle></a><a href="/setts/s10/r1k1lb2k2lb2k1lb4k1db9lo1~x4/"><circle cx="149.3" cy="146.8" r="4" fill="#3465a4"><title>Thompson Variant</title></circle></a><circle cx="165.9" cy="125.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db8r3db34b3k9w31r5w3r3w8~x2/

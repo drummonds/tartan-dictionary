@@ -2,7 +2,7 @@
 title: "Tartan Army"
 date: 2023-03-18
 ---
-**Bands:** [BK](/stripes/bk/) · **Stripes:** [DB K](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K</span></span>
+**Bands:** [KB](/stripes/kb/) · **Stripes:** [K DB](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [2 band tartan](/bands/bands2/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -888,7 +891,7 @@ External register numbers recorded for this tartan.
 
 Other setts woven to the same stripe pattern.
 
-- [Buffalo Plaid](/setts/s2/db1k1~x100/)
+- [Buffalo Plaid](/setts/s2/k1db1~x100/)
 - [Staines](/setts/s2/db12k1~x10/)
 
 
@@ -913,11 +916,11 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Auchincloss (Personal)](/setts/s4/k34db13k7db14~x2/) — ΔT 2.85
-1. [Charles Rennie Mackintosh](/setts/s6/b5dt5b5dt9dt5dt5~x2/) — ΔT 3.11
-1. [Macintosh, Charles Rennie (Commem)](/setts/s6/db5k5db5k9n5k5~x2/) — ΔT 3.22
+1. [Charles Rennie Mackintosh](/setts/s6/dt5dt5dt9b5dt5b5~x2/) — ΔT 3.11
+1. [Macintosh, Charles Rennie (Commem)](/setts/s6/k5n5k9db5k5db5~x2/) — ΔT 3.22
 1. [Omega Delta Sigma, National Veterans](/setts/s4/k15db40k9o10~x2/) — ΔT 3.46
 1. [Ferguson](/setts/s3/db6dg5r1~x4/) — ΔT 3.49
-1. [St. Combs Fisher Plaid](/setts/s2/b1db1~x14/) — ΔT 3.51
+1. [St. Combs Fisher Plaid](/setts/s2/db1b1~x14/) — ΔT 3.51
 1. [Agnew](/setts/s3/db53g42r14~x2/) — ΔT 3.54
 1. [Omega Delta Sigma, National Veterans Fraternity](/setts/s4/k15dt40k9o10~x2/) — ΔT 3.54
 1. [Highland Grey](/setts/s6/db4g4db1g4db4g1~x4/) — ΔT 3.64
@@ -925,8 +928,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/k34db13k7db14~x2/"><circle cx="440.6" cy="366.0" r="4" fill="#3465a4"><title>Auchincloss (Personal)</title></circle></a><a href="/setts/s6/b5dt5b5dt9dt5dt5~x2/"><circle cx="243.5" cy="366.0" r="4" fill="#3465a4"><title>Charles Rennie Mackintosh</title></circle></a><a href="/setts/s6/db5k5db5k9n5k5~x2/"><circle cx="254.0" cy="366.0" r="4" fill="#3465a4"><title>Macintosh, Charles Rennie (Commem)</title></circle></a><a href="/setts/s4/k15db40k9o10~x2/"><circle cx="310.9" cy="312.2" r="4" fill="#3465a4"><title>Omega Delta Sigma, National Veterans</title></circle></a><a href="/setts/s3/db6dg5r1~x4/"><circle cx="331.0" cy="344.3" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/setts/s2/b1db1~x14/"><circle cx="210.5" cy="366.0" r="4" fill="#3465a4"><title>St. Combs Fisher Plaid</title></circle></a><a href="/setts/s3/db53g42r14~x2/"><circle cx="252.0" cy="348.3" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/setts/s4/k15dt40k9o10~x2/"><circle cx="319.0" cy="320.9" r="4" fill="#3465a4"><title>Omega Delta Sigma, National Veterans Fraternity</title></circle></a><a href="/setts/s6/db4g4db1g4db4g1~x4/"><circle cx="318.8" cy="350.3" r="4" fill="#3465a4"><title>Highland Grey</title></circle></a><a href="/setts/s4/k30dp5k10dp9~x4/"><circle cx="530.7" cy="340.1" r="4" fill="#3465a4"><title>Leonard Hunting (Name)</title></circle></a><circle cx="396.9" cy="366.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/k34db13k7db14~x2/"><circle cx="440.8" cy="366.0" r="4" fill="#3465a4"><title>Auchincloss (Personal)</title></circle></a><a href="/setts/s6/dt5dt5dt9b5dt5b5~x2/"><circle cx="243.8" cy="366.0" r="4" fill="#3465a4"><title>Charles Rennie Mackintosh</title></circle></a><a href="/setts/s6/k5n5k9db5k5db5~x2/"><circle cx="254.3" cy="366.0" r="4" fill="#3465a4"><title>Macintosh, Charles Rennie (Commem)</title></circle></a><a href="/setts/s4/k15db40k9o10~x2/"><circle cx="311.0" cy="312.0" r="4" fill="#3465a4"><title>Omega Delta Sigma, National Veterans</title></circle></a><a href="/setts/s3/db6dg5r1~x4/"><circle cx="331.1" cy="344.2" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/setts/s2/db1b1~x14/"><circle cx="210.9" cy="366.0" r="4" fill="#3465a4"><title>St. Combs Fisher Plaid</title></circle></a><a href="/setts/s3/db53g42r14~x2/"><circle cx="252.2" cy="348.1" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/setts/s4/k15dt40k9o10~x2/"><circle cx="319.1" cy="320.7" r="4" fill="#3465a4"><title>Omega Delta Sigma, National Veterans Fraternity</title></circle></a><a href="/setts/s6/db4g4db1g4db4g1~x4/"><circle cx="318.9" cy="350.1" r="4" fill="#3465a4"><title>Highland Grey</title></circle></a><a href="/setts/s4/k30dp5k10dp9~x4/"><circle cx="530.7" cy="339.8" r="4" fill="#3465a4"><title>Leonard Hunting (Name)</title></circle></a><circle cx="397.2" cy="366.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s2/db2k1~x4/

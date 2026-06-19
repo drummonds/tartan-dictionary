@@ -21,21 +21,21 @@ BGWR
 Grouped by stripe pattern — the 3 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### N G W R <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">N G W R</span></span>
-
-| Tartans |
-|---------------|
-| [Farooq (Personal)](/setts/s4/n8g20w4r1~x5/)|
-|![Farooq (Personal) example sett](/setts/s4/n8g20w4r1~x5/sett.png)|
-
-### N Y W O <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="seq">N Y W O</span></span>
+### O W Y N <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="seq">O W Y N</span></span>
 
 | Tartans |
 |---------------|
 | [Farooq in Livingston (Personal)](/setts/s4/n8y8w4o1~x5/)|
 |![Farooq in Livingston (Personal) example sett](/setts/s4/n8y8w4o1~x5/sett.png)|
 
-### P G W R <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">P G W R</span></span>
+### R W G N <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="seq">R W G N</span></span>
+
+| Tartans |
+|---------------|
+| [Farooq (Personal)](/setts/s4/n8g20w4r1~x5/)|
+|![Farooq (Personal) example sett](/setts/s4/n8g20w4r1~x5/sett.png)|
+
+### R W G P <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">R W G P</span></span>
 
 | Tartans |
 |---------------|

@@ -2,7 +2,7 @@
 title: "Strathspey"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKGK](/stripes/kbkbkgk/) · **Stripes:** [K DB K DB K G K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB K DB K G K</span></span>
+**Bands:** [KGKBKBK](/stripes/kgkbkbk/) · **Stripes:** [K G K DB K DB K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K G K DB K DB K</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/4 B4 K4 B20 K20 G20 K/4
+K/4 G20 K20 B20 K4 B4 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -906,27 +909,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/4 B4 K4 B20 K20 G20 K/4 tartan")
+![Tartan detail](tartan.png "K/4 G20 K20 B20 K4 B4 K/4 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Campbell, the 42nd](/setts/s6/db6k6db18k18g22k5/) — ΔT 0.88
-1. [MacKay](/setts/s6/g3db14g2k14g14k3~x2/) — ΔT 0.95
-1. [Keith McCormick (Personal)](/setts/s8/g1k6g3k1g3k4db5k1~x4/) — ΔT 1.08
+1. [MacKay](/setts/s6/k3g14k14g2db14g3~x2/) — ΔT 0.95
+1. [Keith McCormick (Personal)](/setts/s8/k1db5k4g3k1g3k6g1~x4/) — ΔT 1.08
 1. [Forbes Ancient](/setts/s7/db1k6db6k6g6k1w1~x2/) — ΔT 1.11
-1. [Wilson's, No 166](/setts/s6/t3g12k14t11k3t3~x2/) — ΔT 1.11
+1. [Wilson's, No 166](/setts/s6/t3g12k14t11k3t3~x2/) — ΔT 1.12
 1. [Clergy 2](/setts/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/) — ΔT 1.16
 1. [Forbes](/setts/s7/db1k1db6k6g6k1w1~x2/) — ΔT 1.17
-1. [Scottish Airports](/setts/s6/dp4dt18k17dt3g18dt4~x2/) — ΔT 1.17
+1. [Scottish Airports](/setts/s6/dt4g18dt3k17dt18dp4~x2/) — ΔT 1.17
 1. [Black Water](/setts/s11/db1g6k2db1k3g1k2db2g1db6g1~x4/) — ΔT 1.21
 1. [Murray](/setts/s6/db2k2db12k8g11r2~x2/) — ΔT 1.23
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db6k6db18k18g22k5/"><circle cx="154.3" cy="285.4" r="4" fill="#3465a4"><title>Campbell, the 42nd</title></circle></a><a href="/setts/s6/g3db14g2k14g14k3~x2/"><circle cx="179.4" cy="254.8" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/setts/s8/g1k6g3k1g3k4db5k1~x4/"><circle cx="226.1" cy="264.0" r="4" fill="#3465a4"><title>Keith McCormick (Personal)</title></circle></a><a href="/setts/s7/db1k6db6k6g6k1w1~x2/"><circle cx="184.1" cy="241.0" r="4" fill="#3465a4"><title>Forbes Ancient</title></circle></a><a href="/setts/s6/t3g12k14t11k3t3~x2/"><circle cx="145.2" cy="267.7" r="4" fill="#3465a4"><title>Wilson's, No 166</title></circle></a><a href="/setts/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/"><circle cx="207.2" cy="227.7" r="4" fill="#3465a4"><title>Clergy 2</title></circle></a><a href="/setts/s7/db1k1db6k6g6k1w1~x2/"><circle cx="142.6" cy="223.1" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s6/dp4dt18k17dt3g18dt4~x2/"><circle cx="162.0" cy="252.7" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/setts/s11/db1g6k2db1k3g1k2db2g1db6g1~x4/"><circle cx="176.5" cy="227.6" r="4" fill="#3465a4"><title>Black Water</title></circle></a><a href="/setts/s6/db2k2db12k8g11r2~x2/"><circle cx="152.2" cy="240.1" r="4" fill="#3465a4"><title>Murray</title></circle></a><circle cx="188.7" cy="257.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db6k6db18k18g22k5/"><circle cx="154.6" cy="285.3" r="4" fill="#3465a4"><title>Campbell, the 42nd</title></circle></a><a href="/setts/s6/k3g14k14g2db14g3~x2/"><circle cx="179.6" cy="254.7" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/setts/s8/k1db5k4g3k1g3k6g1~x4/"><circle cx="226.3" cy="263.8" r="4" fill="#3465a4"><title>Keith McCormick (Personal)</title></circle></a><a href="/setts/s7/db1k6db6k6g6k1w1~x2/"><circle cx="184.4" cy="240.8" r="4" fill="#3465a4"><title>Forbes Ancient</title></circle></a><a href="/setts/s6/t3g12k14t11k3t3~x2/"><circle cx="145.4" cy="267.6" r="4" fill="#3465a4"><title>Wilson's, No 166</title></circle></a><a href="/setts/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/"><circle cx="207.4" cy="227.6" r="4" fill="#3465a4"><title>Clergy 2</title></circle></a><a href="/setts/s7/db1k1db6k6g6k1w1~x2/"><circle cx="142.8" cy="223.0" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s6/dt4g18dt3k17dt18dp4~x2/"><circle cx="162.3" cy="252.7" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/setts/s11/db1g6k2db1k3g1k2db2g1db6g1~x4/"><circle cx="176.7" cy="227.5" r="4" fill="#3465a4"><title>Black Water</title></circle></a><a href="/setts/s6/db2k2db12k8g11r2~x2/"><circle cx="152.4" cy="240.0" r="4" fill="#3465a4"><title>Murray</title></circle></a><circle cx="189.0" cy="257.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k1g5k5db5k1db1k1~x4/

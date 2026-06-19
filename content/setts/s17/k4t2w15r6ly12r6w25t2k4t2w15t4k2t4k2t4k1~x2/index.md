@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/3934/
 
 ## Thread count
-K/2 B8 K4 B8 K4 B8 LN30 B4 K8 B4 LN50 R12 Y24 R12 LN30 B4 K/8
+K/8 B4 LN30 R12 Y24 R12 LN50 B4 K8 B4 LN30 B8 K4 B8 K4 B8 K/2
 ![Sett](sett.png)
 
 ## Palette
@@ -30,19 +30,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Nike Golf Light (Corporate)](/setts/s17/r5w20o1w2o1w2o2w2o5n2o2n2o2n3o2n10w3~x2/) — ΔT 1.22
 1. [Henderson Dress #1](/setts/s16/k6g4k1w16t1w4t6w1t6w4t1w16k1g4k6ly1~x2/) — ΔT 1.23
-1. [Beck (Personal)](/setts/s17/k2w2t15r6ly12r6t25w2k4w2t15w4k2w4k2w4k1~x2/) — ΔT 1.25
 1. [Grant of Acharrow](/setts/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/) — ΔT 1.25
+1. [Beck (Personal)](/setts/s17/k2w2t15r6ly12r6t25w2k4w2t15w4k2w4k2w4k1~x2/) — ΔT 1.25
 1. [Barra, Fuschia (Dance)](/setts/s14/p6w6r3w30p20lt6dp1w8dp1lt4w2lt7dp1w6~x2/) — ΔT 1.30
 1. [Ben Vorlich](/setts/s11/w68lr3w3lr8w3lr3o24dt16o3dt20lr3~x2/) — ΔT 1.34
-1. [Scotland the Brave Dress (Dance)](/setts/s18/w3k1w20dp1db6g6m3g1m1g2m1g1m3g6db6dp1w20k1~x4/) — ΔT 1.35
+1. [Scotland the Brave Dress (Dance)](/setts/s18/w3k1w20dp1db6g6m3g1m1g2~x4/) — ΔT 1.35
 1. [Spirit of South Korea](/setts/s13/w8k4w2k4w24n2w1r2w1n12r12w8k2~x2/) — ΔT 1.36
 1. [Tom Morris (Official)](/setts/s13/lr38p5lr6p5lr4k20lr38y12w3n30w3n2w7/) — ΔT 1.37
 1. [Salaberry-de-Valleyfield Cer. (Dis )](/setts/s15/w16lo1k2lo1w16g2k1g2r22w4db3w4db3w4db3~x2/) — ΔT 1.38
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/r5w20o1w2o1w2o2w2o5n2o2n2o2n3o2n10w3~x2/"><circle cx="225.6" cy="88.8" r="4" fill="#3465a4"><title>Nike Golf Light (Corporate)</title></circle></a><a href="/setts/s16/k6g4k1w16t1w4t6w1t6w4t1w16k1g4k6ly1~x2/"><circle cx="200.1" cy="94.4" r="4" fill="#3465a4"><title>Henderson Dress #1</title></circle></a><a href="/setts/s17/k2w2t15r6ly12r6t25w2k4w2t15w4k2w4k2w4k1~x2/"><circle cx="231.0" cy="88.0" r="4" fill="#3465a4"><title>Beck (Personal)</title></circle></a><a href="/setts/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="261.1" cy="80.2" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/setts/s14/p6w6r3w30p20lt6dp1w8dp1lt4w2lt7dp1w6~x2/"><circle cx="268.8" cy="70.7" r="4" fill="#3465a4"><title>Barra, Fuschia (Dance)</title></circle></a><a href="/setts/s11/w68lr3w3lr8w3lr3o24dt16o3dt20lr3~x2/"><circle cx="234.0" cy="77.8" r="4" fill="#3465a4"><title>Ben Vorlich</title></circle></a><a href="/setts/s18/w3k1w20dp1db6g6m3g1m1g2m1g1m3g6db6dp1w20k1~x4/"><circle cx="207.2" cy="47.0" r="4" fill="#3465a4"><title>Scotland the Brave Dress (Dance)</title></circle></a><a href="/setts/s13/w8k4w2k4w24n2w1r2w1n12r12w8k2~x2/"><circle cx="254.5" cy="92.4" r="4" fill="#3465a4"><title>Spirit of South Korea</title></circle></a><a href="/setts/s13/lr38p5lr6p5lr4k20lr38y12w3n30w3n2w7/"><circle cx="198.2" cy="89.3" r="4" fill="#3465a4"><title>Tom Morris (Official)</title></circle></a><a href="/setts/s15/w16lo1k2lo1w16g2k1g2r22w4db3w4db3w4db3~x2/"><circle cx="231.6" cy="55.1" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield Cer. (Dis )</title></circle></a><circle cx="213.0" cy="74.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/r5w20o1w2o1w2o2w2o5n2o2n2o2n3o2n10w3~x2/"><circle cx="225.1" cy="88.7" r="4" fill="#3465a4"><title>Nike Golf Light (Corporate)</title></circle></a><a href="/setts/s16/k6g4k1w16t1w4t6w1t6w4t1w16k1g4k6ly1~x2/"><circle cx="199.7" cy="94.3" r="4" fill="#3465a4"><title>Henderson Dress #1</title></circle></a><a href="/setts/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="260.6" cy="80.1" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/setts/s17/k2w2t15r6ly12r6t25w2k4w2t15w4k2w4k2w4k1~x2/"><circle cx="230.6" cy="88.0" r="4" fill="#3465a4"><title>Beck (Personal)</title></circle></a><a href="/setts/s14/p6w6r3w30p20lt6dp1w8dp1lt4w2lt7dp1w6~x2/"><circle cx="268.2" cy="70.6" r="4" fill="#3465a4"><title>Barra, Fuschia (Dance)</title></circle></a><a href="/setts/s11/w68lr3w3lr8w3lr3o24dt16o3dt20lr3~x2/"><circle cx="233.6" cy="77.7" r="4" fill="#3465a4"><title>Ben Vorlich</title></circle></a><a href="/setts/s18/w3k1w20dp1db6g6m3g1m1g2~x4/"><circle cx="206.8" cy="47.0" r="4" fill="#3465a4"><title>Scotland the Brave Dress (Dance)</title></circle></a><a href="/setts/s13/w8k4w2k4w24n2w1r2w1n12r12w8k2~x2/"><circle cx="254.0" cy="92.2" r="4" fill="#3465a4"><title>Spirit of South Korea</title></circle></a><a href="/setts/s13/lr38p5lr6p5lr4k20lr38y12w3n30w3n2w7/"><circle cx="197.9" cy="89.3" r="4" fill="#3465a4"><title>Tom Morris (Official)</title></circle></a><a href="/setts/s15/w16lo1k2lo1w16g2k1g2r22w4db3w4db3w4db3~x2/"><circle cx="231.1" cy="55.1" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield Cer. (Dis )</title></circle></a><circle cx="212.5" cy="74.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s17/k4t2w15r6ly12r6w25t2k4t2w15t4k2t4k2t4k1~x2/

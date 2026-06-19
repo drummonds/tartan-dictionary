@@ -8,7 +8,7 @@ RGKGKY
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/ly1k4dg4k8dg16r1~x2/tartan.png)
+![Woven sample](/setts/s6/r1dg16k8dg4k4ly1~x2/tartan.png)
 
 
 
@@ -25,12 +25,12 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Forbes #6](/setts/s6/ly1k4dg4k8dg16r1~x2/)|
-|![Forbes #6 example sett](/setts/s6/ly1k4dg4k8dg16r1~x2/sett.png)|
-| [Forbes VS](/setts/s6/ly1k4dg3k8dg16r1/)|
-|![Forbes VS example sett](/setts/s6/ly1k4dg3k8dg16r1/sett.png)|
-| [Forbes VS](/setts/s6/ly1k4dg3k8dg16r1~x2/)|
-|![Forbes VS example sett](/setts/s6/ly1k4dg3k8dg16r1~x2/sett.png)|
+| [Forbes #6](/setts/s6/r1dg16k8dg4k4ly1~x2/)|
+|![Forbes #6 example sett](/setts/s6/r1dg16k8dg4k4ly1~x2/sett.png)|
+| [Forbes VS](/setts/s6/r1dg16k8dg3k4ly1/)|
+|![Forbes VS example sett](/setts/s6/r1dg16k8dg3k4ly1/sett.png)|
+| [Forbes VS](/setts/s6/r1dg16k8dg3k4ly1~x2/)|
+|![Forbes VS example sett](/setts/s6/r1dg16k8dg3k4ly1~x2/sett.png)|
 
 ### R G K G K LY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R G K G K LY</span></span>
 
@@ -38,8 +38,8 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 |---------------|
 | [MacArthur (Variant)](/setts/s6/r3g30k12g6k16ly2~x2/)|
 |![MacArthur (Variant) example sett](/setts/s6/r3g30k12g6k16ly2~x2/sett.png)|
-| [Forbes](/setts/s6/ly1k4g4k8g16r1~x2/)|
-|![Forbes example sett](/setts/s6/ly1k4g4k8g16r1~x2/sett.png)|
+| [Forbes](/setts/s6/r1g16k8g4k4ly1~x2/)|
+|![Forbes example sett](/setts/s6/r1g16k8g4k4ly1~x2/sett.png)|
 
 ### R G K G K LO <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">R G K G K LO</span></span>
 

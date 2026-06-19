@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4029
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Stewart Victoria Royal
+- Stuart/Stewart Victoria
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -17,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1676
 
 ## Thread count
-LN/2 R4 K2 R8 G16 K2 LN2 K2 Y2 K12 LN6 B6 LN48 R/4
+R/4 LN48 B6 LN6 K12 Y2 K2 LN2 K2 G16 R8 K2 R4 LN/2
 ![Sett](sett.png)
 
 ## Palette
@@ -42,15 +49,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Stewart Dress MINI Tartan Tartan Number: 11790. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/w15db2k3ly1k1w1k1g3r4k1r1w1~x2/) — ΔT 0.80
 1. [Stuart/Stewart Dress Royal](/setts/s12/w31db4k6ly2k2w2k2dg7r4k2r2w2~x2/) — ΔT 0.82
 1. [Stewart dress](/setts/s12/w31db4k6ly2k2w2k2g7r4k2r2w2~x2/) — ΔT 0.90
-1. [Allandale Red Dress Tartan Tartan Number: 8457. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/g3r2g1r9o2k3r5g17w40k1w2k3~x2/) — ΔT 0.94
+1. [Allandale Red Dress Tartan Tartan Number: 8457. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/k3w2k1w40g17r5k3o2r9g1r2g3~x2/) — ΔT 0.94
 1. [Glenmore Pink](/setts/s11/w60dt24o3dt5w3dt5o16o8k3o6w4/) — ΔT 1.08
 1. [Salaberry-de-Valleyfield Cer. (Dis )](/setts/s15/w16lo1k2lo1w16g2k1g2r22w4db3w4db3w4db3~x2/) — ΔT 1.10
 1. [Stuart/Stewart Dress](/setts/s12/w39db3k6ly3k3w3k3dg8r5k3r3w3~x2/) — ΔT 1.12
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r2w24b3w3k6lo1k1w1k1g8r4k1r2w1~x4/"><circle cx="217.6" cy="44.5" r="4" fill="#3465a4"><title>Stewart Victoria (Royal)</title></circle></a><a href="/setts/s14/r2w24t3w3k6ly1k1w1k1g8r4k1r2w1~x2/"><circle cx="212.7" cy="41.1" r="4" fill="#3465a4"><title>Stewart Victoria</title></circle></a><a href="/setts/s15/w20r4w4r7w132k26db26ly6db6w9g83r30k5r7w4/"><circle cx="204.8" cy="30.2" r="4" fill="#3465a4"><title>Stewart dress</title></circle></a><a href="/setts/s12/w15db2k3ly1k1w1k1g3r4k1r1w1~x2/"><circle cx="200.6" cy="68.1" r="4" fill="#3465a4"><title>Stewart Dress MINI Tartan Tartan Number: 11790. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/w31db4k6ly2k2w2k2dg7r4k2r2w2~x2/"><circle cx="222.1" cy="64.1" r="4" fill="#3465a4"><title>Stuart/Stewart Dress Royal</title></circle></a><a href="/setts/s12/w31db4k6ly2k2w2k2g7r4k2r2w2~x2/"><circle cx="216.1" cy="63.2" r="4" fill="#3465a4"><title>Stewart dress</title></circle></a><a href="/setts/s12/g3r2g1r9o2k3r5g17w40k1w2k3~x2/"><circle cx="241.5" cy="30.4" r="4" fill="#3465a4"><title>Allandale Red Dress Tartan Tartan Number: 8457. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w60dt24o3dt5w3dt5o16o8k3o6w4/"><circle cx="229.9" cy="79.8" r="4" fill="#3465a4"><title>Glenmore Pink</title></circle></a><a href="/setts/s15/w16lo1k2lo1w16g2k1g2r22w4db3w4db3w4db3~x2/"><circle cx="231.6" cy="55.1" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield Cer. (Dis )</title></circle></a><a href="/setts/s12/w39db3k6ly3k3w3k3dg8r5k3r3w3~x2/"><circle cx="228.7" cy="69.4" r="4" fill="#3465a4"><title>Stuart/Stewart Dress</title></circle></a><circle cx="219.2" cy="42.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r2w24b3w3k6lo1k1w1k1g8r4k1r2w1~x4/"><circle cx="217.1" cy="44.5" r="4" fill="#3465a4"><title>Stewart Victoria (Royal)</title></circle></a><a href="/setts/s14/r2w24t3w3k6ly1k1w1k1g8r4k1r2w1~x2/"><circle cx="212.3" cy="41.1" r="4" fill="#3465a4"><title>Stewart Victoria</title></circle></a><a href="/setts/s15/w20r4w4r7w132k26db26ly6db6w9g83r30k5r7w4/"><circle cx="204.4" cy="30.2" r="4" fill="#3465a4"><title>Stewart dress</title></circle></a><a href="/setts/s12/w15db2k3ly1k1w1k1g3r4k1r1w1~x2/"><circle cx="200.2" cy="68.0" r="4" fill="#3465a4"><title>Stewart Dress MINI Tartan Tartan Number: 11790. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/w31db4k6ly2k2w2k2dg7r4k2r2w2~x2/"><circle cx="221.7" cy="64.0" r="4" fill="#3465a4"><title>Stuart/Stewart Dress Royal</title></circle></a><a href="/setts/s12/w31db4k6ly2k2w2k2g7r4k2r2w2~x2/"><circle cx="215.7" cy="63.1" r="4" fill="#3465a4"><title>Stewart dress</title></circle></a><a href="/setts/s12/k3w2k1w40g17r5k3o2r9g1r2g3~x2/"><circle cx="241.1" cy="30.4" r="4" fill="#3465a4"><title>Allandale Red Dress Tartan Tartan Number: 8457. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w60dt24o3dt5w3dt5o16o8k3o6w4/"><circle cx="229.5" cy="79.6" r="4" fill="#3465a4"><title>Glenmore Pink</title></circle></a><a href="/setts/s15/w16lo1k2lo1w16g2k1g2r22w4db3w4db3w4db3~x2/"><circle cx="231.1" cy="55.1" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield Cer. (Dis )</title></circle></a><a href="/setts/s12/w39db3k6ly3k3w3k3dg8r5k3r3w3~x2/"><circle cx="228.2" cy="69.3" r="4" fill="#3465a4"><title>Stuart/Stewart Dress</title></circle></a><circle cx="218.8" cy="42.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/r2w24t3w3k6ly1k1w1k1dg8r4k1r2w1~x2/

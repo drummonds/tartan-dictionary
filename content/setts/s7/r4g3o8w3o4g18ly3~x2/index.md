@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -909,19 +912,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Newfoundland District Tartan Tartan Number: 1543. Earliest known date: 1972 The colours of the Newfoundland tartan are related to the 'Ode to Newfoundland', the second anthem of the province. Gold for the sun, green for the pine clad hill, white for the snow, brown for the minerals under the earth and red to denote her British origins. In 1972, the Minute of Provincial Affairs of the Province petitioned the Lord Lyon to record the tartan in the Writs section of the Lyon Court Books. This was done on the 3rd of September, 1973. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r4g3dy8w3dy4g18ly3~x2/) — ΔT 0.66
 1. [Wilson's, No 179](/setts/s5/g6ly1r1t2r2~x4/) — ΔT 1.23
-1. [Ellan Vannin](/setts/s6/b2g13lb2dp4g8g2~x4/) — ΔT 1.39
+1. [Ellan Vannin](/setts/s6/g2g8dp4lb2g13b2~x4/) — ΔT 1.39
 1. [Newfoundland](/setts/s7/r6g4do14w4do7g30lo4~x2/) — ΔT 1.41
 1. [Red Dirt Girl](/setts/s9/dy21r2g18r2g18r2dg8w6dy10~x2/) — ΔT 1.42
 1. [McShane (Personal)](/setts/s8/g9lb2g9k2dy14ly4lb2r2~x4/) — ΔT 1.44
-1. [Deeside](/setts/s7/ly1g5g1y7p2y1w1~x4/) — ΔT 1.46
-1. [Manitoba](/setts/s8/ly2r6g1r2g12t1g1t2~x2/) — ΔT 1.49
+1. [Deeside](/setts/s7/w1y1p2y7g1g5ly1~x4/) — ΔT 1.46
+1. [Manitoba](/setts/s8/t2g1t1g12r2g1r6ly2~x2/) — ΔT 1.49
 1. [New Mexico (Fashion)](/setts/s7/g10dp42r5g42g42ly5g6/) — ΔT 1.50
 1. [O'Brien](/setts/s12/r13g6ly2g3ly2g6t3g2t3g12r3g6~x2/) — ΔT 1.50
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r4g3dy8w3dy4g18ly3~x2/"><circle cx="220.2" cy="213.6" r="4" fill="#3465a4"><title>Newfoundland District Tartan Tartan Number: 1543. Earliest known date: 1972 The colours of the Newfoundland tartan are related to the 'Ode to Newfoundland', the second anthem of the province. Gold for the sun, green for the pine clad hill, white for the snow, brown for the minerals under the earth and red to denote her British origins. In 1972, the Minute of Provincial Affairs of the Province petitioned the Lord Lyon to record the tartan in the Writs section of the Lyon Court Books. This was done on the 3rd of September, 1973. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/g6ly1r1t2r2~x4/"><circle cx="245.4" cy="243.2" r="4" fill="#3465a4"><title>Wilson's, No 179</title></circle></a><a href="/setts/s6/b2g13lb2dp4g8g2~x4/"><circle cx="234.2" cy="239.3" r="4" fill="#3465a4"><title>Ellan Vannin</title></circle></a><a href="/setts/s7/r6g4do14w4do7g30lo4~x2/"><circle cx="233.1" cy="197.0" r="4" fill="#3465a4"><title>Newfoundland</title></circle></a><a href="/setts/s9/dy21r2g18r2g18r2dg8w6dy10~x2/"><circle cx="200.7" cy="195.3" r="4" fill="#3465a4"><title>Red Dirt Girl</title></circle></a><a href="/setts/s8/g9lb2g9k2dy14ly4lb2r2~x4/"><circle cx="156.5" cy="189.1" r="4" fill="#3465a4"><title>McShane (Personal)</title></circle></a><a href="/setts/s7/ly1g5g1y7p2y1w1~x4/"><circle cx="190.2" cy="187.9" r="4" fill="#3465a4"><title>Deeside</title></circle></a><a href="/setts/s8/ly2r6g1r2g12t1g1t2~x2/"><circle cx="269.2" cy="161.7" r="4" fill="#3465a4"><title>Manitoba</title></circle></a><a href="/setts/s7/g10dp42r5g42g42ly5g6/"><circle cx="171.8" cy="197.9" r="4" fill="#3465a4"><title>New Mexico (Fashion)</title></circle></a><a href="/setts/s12/r13g6ly2g3ly2g6t3g2t3g12r3g6~x2/"><circle cx="252.4" cy="198.3" r="4" fill="#3465a4"><title>O'Brien</title></circle></a><circle cx="225.2" cy="214.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r4g3dy8w3dy4g18ly3~x2/"><circle cx="220.1" cy="213.6" r="4" fill="#3465a4"><title>Newfoundland District Tartan Tartan Number: 1543. Earliest known date: 1972 The colours of the Newfoundland tartan are related to the 'Ode to Newfoundland', the second anthem of the province. Gold for the sun, green for the pine clad hill, white for the snow, brown for the minerals under the earth and red to denote her British origins. In 1972, the Minute of Provincial Affairs of the Province petitioned the Lord Lyon to record the tartan in the Writs section of the Lyon Court Books. This was done on the 3rd of September, 1973. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/g6ly1r1t2r2~x4/"><circle cx="245.2" cy="243.1" r="4" fill="#3465a4"><title>Wilson's, No 179</title></circle></a><a href="/setts/s6/g2g8dp4lb2g13b2~x4/"><circle cx="234.2" cy="239.3" r="4" fill="#3465a4"><title>Ellan Vannin</title></circle></a><a href="/setts/s7/r6g4do14w4do7g30lo4~x2/"><circle cx="233.0" cy="196.9" r="4" fill="#3465a4"><title>Newfoundland</title></circle></a><a href="/setts/s9/dy21r2g18r2g18r2dg8w6dy10~x2/"><circle cx="200.6" cy="195.3" r="4" fill="#3465a4"><title>Red Dirt Girl</title></circle></a><a href="/setts/s8/g9lb2g9k2dy14ly4lb2r2~x4/"><circle cx="156.5" cy="189.2" r="4" fill="#3465a4"><title>McShane (Personal)</title></circle></a><a href="/setts/s7/w1y1p2y7g1g5ly1~x4/"><circle cx="190.1" cy="188.0" r="4" fill="#3465a4"><title>Deeside</title></circle></a><a href="/setts/s8/t2g1t1g12r2g1r6ly2~x2/"><circle cx="268.9" cy="161.7" r="4" fill="#3465a4"><title>Manitoba</title></circle></a><a href="/setts/s7/g10dp42r5g42g42ly5g6/"><circle cx="171.8" cy="197.9" r="4" fill="#3465a4"><title>New Mexico (Fashion)</title></circle></a><a href="/setts/s12/r13g6ly2g3ly2g6t3g2t3g12r3g6~x2/"><circle cx="252.1" cy="198.2" r="4" fill="#3465a4"><title>O'Brien</title></circle></a><circle cx="225.0" cy="214.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r4g3o8w3o4g18ly3~x2/

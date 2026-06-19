@@ -2,12 +2,18 @@
 title: "MacDougal 4"
 date: 2023-03-18
 ---
-**Bands:** [BGBBRGRGRGR](/stripes/bgbbrgrgrgr/) · **Stripes:** [P G DB P R G R G R G R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">P G DB P R G R G R G R</span></span>
+**Bands:** [RGRGRGRBBGB](/stripes/rgrgrgrbbgb/) · **Stripes:** [R G R G R G R P DB G P](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">R G R G R G R P DB G P</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacDougal 4
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -905,18 +914,18 @@ The nearest existing variants by ΔTartan distance.
 1. [MacDougall](/setts/s11/dp4dg8db6dp8r6dg2r2dg2r24dg1r3~x2/) — ΔT 0.69
 1. [MacDougall VS](/setts/s11/dp4dg8db6dp8r6dg2r2dg2r24dg1r3/) — ΔT 0.76
 1. [Cameron of Locheil](/setts/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/) — ΔT 0.95
-1. [Chisholm D](/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1~x2/) — ΔT 0.96
+1. [Chisholm D](/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1/) — ΔT 0.96
 1. [Cameron of Locheil](/setts/s13/db4r1db1r18db10r1dg1r6dg10r6w1r4db1~x2/) — ΔT 1.00
 1. [Unidentified 20](/setts/s9/db2r49db51r9w2r9g51r49db2~x2/) — ΔT 1.05
 1. [MacDougall VS](/setts/s11/n4dg8db6n8r6dg2r2dg2r24dg1r3~x2/) — ΔT 1.05
+1. [MacDougall VS](/setts/s11/n4dg8db6n8r6dg2r2dg2r24dg1r3/) — ΔT 1.05
 1. [MacDonell of Keppoch](/setts/s10/dg2r2db1r24t1db6r3dg12r4db1~x2/) — ΔT 1.07
-1. [MacPherson Of Cluny](/setts/s11/r3dp1r1dg21r3dp18r35dp1ly1r4dg1~x2/) — ΔT 1.07
-1. [Carrick](/setts/s9/r28db12r3g20m1g2m1g2r7~x2/) — ΔT 1.08
+1. [MacPherson Of Cluny](/setts/s11/r3dp1r1dg21r3dp18r35dp1ly1r4dg1/) — ΔT 1.07
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dp4dg8db6dp8r6dg2r2dg2r24dg1r3~x2/"><circle cx="328.9" cy="128.7" r="4" fill="#3465a4"><title>MacDougall</title></circle></a><a href="/setts/s11/dp4dg8db6dp8r6dg2r2dg2r24dg1r3/"><circle cx="326.8" cy="132.2" r="4" fill="#3465a4"><title>MacDougall VS</title></circle></a><a href="/setts/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/"><circle cx="344.5" cy="140.8" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1~x2/"><circle cx="373.5" cy="125.6" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/setts/s13/db4r1db1r18db10r1dg1r6dg10r6w1r4db1~x2/"><circle cx="337.9" cy="133.8" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s9/db2r49db51r9w2r9g51r49db2~x2/"><circle cx="330.1" cy="151.9" r="4" fill="#3465a4"><title>Unidentified 20</title></circle></a><a href="/setts/s11/n4dg8db6n8r6dg2r2dg2r24dg1r3~x2/"><circle cx="363.5" cy="155.3" r="4" fill="#3465a4"><title>MacDougall VS</title></circle></a><a href="/setts/s10/dg2r2db1r24t1db6r3dg12r4db1~x2/"><circle cx="400.9" cy="130.6" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s11/r3dp1r1dg21r3dp18r35dp1ly1r4dg1~x2/"><circle cx="369.1" cy="103.5" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/setts/s9/r28db12r3g20m1g2m1g2r7~x2/"><circle cx="337.9" cy="136.3" r="4" fill="#3465a4"><title>Carrick</title></circle></a><circle cx="343.2" cy="137.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dp4dg8db6dp8r6dg2r2dg2r24dg1r3~x2/"><circle cx="328.5" cy="128.7" r="4" fill="#3465a4"><title>MacDougall</title></circle></a><a href="/setts/s11/dp4dg8db6dp8r6dg2r2dg2r24dg1r3/"><circle cx="326.5" cy="132.2" r="4" fill="#3465a4"><title>MacDougall VS</title></circle></a><a href="/setts/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/"><circle cx="344.2" cy="140.8" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1/"><circle cx="373.1" cy="125.5" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/setts/s13/db4r1db1r18db10r1dg1r6dg10r6w1r4db1~x2/"><circle cx="337.4" cy="133.8" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s9/db2r49db51r9w2r9g51r49db2~x2/"><circle cx="329.8" cy="151.8" r="4" fill="#3465a4"><title>Unidentified 20</title></circle></a><a href="/setts/s11/n4dg8db6n8r6dg2r2dg2r24dg1r3~x2/"><circle cx="363.2" cy="155.3" r="4" fill="#3465a4"><title>MacDougall VS</title></circle></a><a href="/setts/s11/n4dg8db6n8r6dg2r2dg2r24dg1r3/"><circle cx="363.2" cy="155.3" r="4" fill="#3465a4"><title>MacDougall VS</title></circle></a><a href="/setts/s10/dg2r2db1r24t1db6r3dg12r4db1~x2/"><circle cx="400.5" cy="130.5" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s11/r3dp1r1dg21r3dp18r35dp1ly1r4dg1/"><circle cx="368.7" cy="103.5" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><circle cx="342.9" cy="137.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/p4g8db6p8r6g2r2g2r24g1r3~x2/

@@ -2,7 +2,7 @@
 title: "Lindley-Highfield (Name)"
 date: 2023-03-18
 ---
-**Bands:** [BRGGWBG](/stripes/brggwbg/) · **Stripes:** [DP R DG G W DP DG](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="seq">DP R DG G W DP DG</span></span>
+**Bands:** [GBWGGRB](/stripes/gbwggrb/) · **Stripes:** [DG DP W G DG R DP](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DG DP W G DG R DP</span></span>
 
 
 This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
@@ -33,20 +33,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Wilson's, No 183](/setts/s6/k2t1p6g6r1g1~x4/) — ΔT 0.66
-1. [Wilson's No.111](/setts/s8/dp19w2g12t3k4t3g12w2~x2/) — ΔT 0.85
+1. [Wilson's No.111](/setts/s8/dp19w2g12t3k4~x2/) — ΔT 0.85
 1. [Kervegant, Suzanne (Personal)](/setts/s8/g6db11lb8k4lb8k27lb4r4~x2/) — ΔT 0.86
 1. [Soutar (Name)](/setts/s9/k20w3t20k3r3dg20r10w3k20~x2/) — ΔT 0.98
 1. [Jewell of Kernow (Personal)](/setts/s6/w6k29o29dp7k3r3~x2/) — ΔT 0.99
 1. [Wellington, No 122](/setts/s5/k4t3p11g14ly2~x2/) — ΔT 1.03
 1. [Wellington, No 229](/setts/s5/k4t3p11g14w2~x2/) — ΔT 1.06
 1. [MacTavish Dress](/setts/s6/r4t28k6lb12k12lo3~x2/) — ΔT 1.07
-1. [Inglis (Name)](/setts/s6/lo4db12r3db10g24lr4~x2/) — ΔT 1.08
+1. [Inglis (Name)](/setts/s6/lr4g24db10r3db12lo4~x2/) — ΔT 1.08
 1. [Stovell (2015)](/setts/s6/db15r6dg8k2w2k2~x6/) — ΔT 1.09
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k2t1p6g6r1g1~x4/"><circle cx="161.4" cy="205.5" r="4" fill="#3465a4"><title>Wilson's, No 183</title></circle></a><a href="/setts/s8/dp19w2g12t3k4t3g12w2~x2/"><circle cx="183.3" cy="183.4" r="4" fill="#3465a4"><title>Wilson's No.111</title></circle></a><a href="/setts/s8/g6db11lb8k4lb8k27lb4r4~x2/"><circle cx="145.2" cy="184.6" r="4" fill="#3465a4"><title>Kervegant, Suzanne (Personal)</title></circle></a><a href="/setts/s9/k20w3t20k3r3dg20r10w3k20~x2/"><circle cx="134.9" cy="195.5" r="4" fill="#3465a4"><title>Soutar (Name)</title></circle></a><a href="/setts/s6/w6k29o29dp7k3r3~x2/"><circle cx="188.8" cy="177.4" r="4" fill="#3465a4"><title>Jewell of Kernow (Personal)</title></circle></a><a href="/setts/s5/k4t3p11g14ly2~x2/"><circle cx="147.8" cy="213.6" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><a href="/setts/s5/k4t3p11g14w2~x2/"><circle cx="145.8" cy="212.9" r="4" fill="#3465a4"><title>Wellington, No 229</title></circle></a><a href="/setts/s6/r4t28k6lb12k12lo3~x2/"><circle cx="168.4" cy="187.3" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/setts/s6/lo4db12r3db10g24lr4~x2/"><circle cx="183.3" cy="208.9" r="4" fill="#3465a4"><title>Inglis (Name)</title></circle></a><a href="/setts/s6/db15r6dg8k2w2k2~x6/"><circle cx="182.1" cy="210.5" r="4" fill="#3465a4"><title>Stovell (2015)</title></circle></a><circle cx="185.5" cy="194.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k2t1p6g6r1g1~x4/"><circle cx="161.5" cy="205.4" r="4" fill="#3465a4"><title>Wilson's, No 183</title></circle></a><a href="/setts/s8/dp19w2g12t3k4~x2/"><circle cx="183.3" cy="183.4" r="4" fill="#3465a4"><title>Wilson's No.111</title></circle></a><a href="/setts/s8/g6db11lb8k4lb8k27lb4r4~x2/"><circle cx="145.3" cy="184.6" r="4" fill="#3465a4"><title>Kervegant, Suzanne (Personal)</title></circle></a><a href="/setts/s9/k20w3t20k3r3dg20r10w3k20~x2/"><circle cx="135.0" cy="195.5" r="4" fill="#3465a4"><title>Soutar (Name)</title></circle></a><a href="/setts/s6/w6k29o29dp7k3r3~x2/"><circle cx="188.8" cy="177.3" r="4" fill="#3465a4"><title>Jewell of Kernow (Personal)</title></circle></a><a href="/setts/s5/k4t3p11g14ly2~x2/"><circle cx="147.9" cy="213.5" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><a href="/setts/s5/k4t3p11g14w2~x2/"><circle cx="145.9" cy="212.8" r="4" fill="#3465a4"><title>Wellington, No 229</title></circle></a><a href="/setts/s6/r4t28k6lb12k12lo3~x2/"><circle cx="168.3" cy="187.2" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/setts/s6/lr4g24db10r3db12lo4~x2/"><circle cx="183.4" cy="208.8" r="4" fill="#3465a4"><title>Inglis (Name)</title></circle></a><a href="/setts/s6/db15r6dg8k2w2k2~x6/"><circle cx="182.2" cy="210.6" r="4" fill="#3465a4"><title>Stovell (2015)</title></circle></a><circle cx="185.5" cy="194.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/dg7dp3w1g2dg1r2dp1~x8/

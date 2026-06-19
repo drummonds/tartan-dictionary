@@ -18,7 +18,7 @@ BBWBWYBWBY
 
 
 
-### DT DR W DT W LO DT W DT LO <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DT DR W DT W LO DT W DT LO</span></span>
+### LO DT W DT LO W DT W DR DT <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#023535"></span><span class="seq">LO DT W DT LO W DT W DR DT</span></span>
 
 | Tartans |
 |---------------|

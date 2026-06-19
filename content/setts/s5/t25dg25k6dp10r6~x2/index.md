@@ -2,7 +2,7 @@
 title: "Breon (Jersey Shore, Pennsylvania) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BGKBR](/stripes/bgkbr/) · **Stripes:** [T DG K DP R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="seq">T DG K DP R</span></span>
+**Bands:** [RBKGB](/stripes/rbkgb/) · **Stripes:** [R DP K DG T](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="seq">R DP K DG T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
@@ -45,14 +45,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Breon (Personal)](/setts/s5/b25g25k6dt10r6~x2/) — ΔT 1.38
 1. [Birse](/setts/s6/k4g16k14lo3n16r4~x2/) — ΔT 1.40
 1. [Bristol Gramar School Check (School)](/setts/s6/r4n3n12db8n2r4/) — ΔT 1.42
-1. [Lennie](/setts/s6/dg2dp8k9y2dg10k2~x2/) — ΔT 1.43
+1. [Lennie](/setts/s6/k2dg10y2k9dp8dg2~x2/) — ΔT 1.43
 1. [Styrian (Fashion)](/setts/s5/g8n19dg29o16r4~x2/) — ΔT 1.44
 1. [Clark Clerk(e)](/setts/s5/db3k1dg1k1m3~x16/) — ΔT 1.46
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r4g11k11g2n11y3~x4/"><circle cx="132.8" cy="263.4" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/setts/s7/r5db8k5db24k24y24y5~x2/"><circle cx="154.1" cy="254.7" r="4" fill="#3465a4"><title>Heritage (Corporate)</title></circle></a><a href="/setts/s6/db11g15k2n5db3n11~x2/"><circle cx="185.8" cy="261.6" r="4" fill="#3465a4"><title>Saorsa (Corporate)</title></circle></a><a href="/setts/s6/dp2dg6k2db6k1r2~x4/"><circle cx="165.1" cy="263.6" r="4" fill="#3465a4"><title>MacCaughan or MacEachain (Personal)</title></circle></a><a href="/setts/s5/b25g25k6dt10r6~x2/"><circle cx="137.0" cy="275.4" r="4" fill="#3465a4"><title>Breon (Personal)</title></circle></a><a href="/setts/s6/k4g16k14lo3n16r4~x2/"><circle cx="127.0" cy="254.4" r="4" fill="#3465a4"><title>Birse</title></circle></a><a href="/setts/s6/r4n3n12db8n2r4/"><circle cx="197.4" cy="265.4" r="4" fill="#3465a4"><title>Bristol Gramar School Check (School)</title></circle></a><a href="/setts/s6/dg2dp8k9y2dg10k2~x2/"><circle cx="200.6" cy="280.9" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/setts/s5/g8n19dg29o16r4~x2/"><circle cx="194.6" cy="273.1" r="4" fill="#3465a4"><title>Styrian (Fashion)</title></circle></a><a href="/setts/s5/db3k1dg1k1m3~x16/"><circle cx="182.3" cy="325.6" r="4" fill="#3465a4"><title>Clark Clerk(e)</title></circle></a><circle cx="163.6" cy="281.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r4g11k11g2n11y3~x4/"><circle cx="132.9" cy="263.6" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/setts/s7/r5db8k5db24k24y24y5~x2/"><circle cx="154.4" cy="254.9" r="4" fill="#3465a4"><title>Heritage (Corporate)</title></circle></a><a href="/setts/s6/db11g15k2n5db3n11~x2/"><circle cx="186.0" cy="261.8" r="4" fill="#3465a4"><title>Saorsa (Corporate)</title></circle></a><a href="/setts/s6/dp2dg6k2db6k1r2~x4/"><circle cx="165.4" cy="263.8" r="4" fill="#3465a4"><title>MacCaughan or MacEachain (Personal)</title></circle></a><a href="/setts/s5/b25g25k6dt10r6~x2/"><circle cx="137.2" cy="275.4" r="4" fill="#3465a4"><title>Breon (Personal)</title></circle></a><a href="/setts/s6/k4g16k14lo3n16r4~x2/"><circle cx="127.2" cy="254.5" r="4" fill="#3465a4"><title>Birse</title></circle></a><a href="/setts/s6/r4n3n12db8n2r4/"><circle cx="197.5" cy="265.4" r="4" fill="#3465a4"><title>Bristol Gramar School Check (School)</title></circle></a><a href="/setts/s6/k2dg10y2k9dp8dg2~x2/"><circle cx="200.9" cy="281.0" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/setts/s5/g8n19dg29o16r4~x2/"><circle cx="194.8" cy="273.2" r="4" fill="#3465a4"><title>Styrian (Fashion)</title></circle></a><a href="/setts/s5/db3k1dg1k1m3~x16/"><circle cx="182.6" cy="325.7" r="4" fill="#3465a4"><title>Clark Clerk(e)</title></circle></a><circle cx="163.8" cy="281.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/t25dg25k6dp10r6~x2/

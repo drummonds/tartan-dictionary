@@ -2,12 +2,18 @@
 title: "Wilson, Janet"
 date: 2023-03-18
 ---
-**Bands:** [BWBGBGBGRGRGRGRGRGBRWR](/stripes/bwbgbgbgrgrgrgrgrgbrwr/) · **Stripes:** [DB W T G T G T G R G R G R G R G R G T R W R](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB W T G T G T G R G R G R G R G R G T R W R</span></span>
+**Bands:** [RWRBGRGRGRGRGRGBGBGBWB](/stripes/rwrbgrgrgrgrgrgbgbgbwb/) · **Stripes:** [R W R T G R G R G R G R G R G T G T G T W DB](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R W R T G R G R G R G R G R G T G T G T W DB</span></span>
 
 
 This was sourced from weddslist.  It is a [22 band tartan](/bands/bands22/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Wilson, Janet
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,18 +915,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Wilson (Janet) #2](/setts/s22/db30w2t3dg3t3dg3t3dg16r3dg3r3dg3r3dg3r3dg25r15dg4t4r8w2r15~x2/) — ΔT 0.72
 1. [Wilson, Janet (1780 Original)](/setts/s22/dp30w2t3dg3t3dg3t3dg16r3dg3r3dg3r3dg3r3dg25r15dg4t4r8w2r15~x2/) — ΔT 1.03
 1. [Craig Family Tartan Tartan Number: 1574. Earliest known date: 1957 MacGregor Hastie wrote, "This tartan was designed by me to meet a long felt want. Many people have asked if there was a Craig family tartan, and as the name is not connected with any Highland clan, yet the the family name is numerous, it seemed a good idea to design one. The design is based on the general colour of craigs and rocks." The Craig tartan is now in general production. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s19/r1k3g2k2o2k1o3k1o2r3k1g16k1o18ly1g1o2k2r1~x2/) — ΔT 1.13
-1. [MacDougall 7](/setts/s20/w1p2r1g22r3g1r3db9p2r1p2g8r8g8r1db1r22p2r2w1~x2/) — ΔT 1.18
-1. [Wilson's No.128](/setts/s20/t4r3ly2r9t3g24t3r9k3r3w2r3k3r9t3g24t3r9ly2r3~x2/) — ΔT 1.19
-1. [MacDougall Clan Tartan Tartan Number: 1776. Earliest known date: 1977 Matched to a sample by B Urquhart in 2004, from Lochcarron reiver cloth. The purple colour was lightened considerably to a pale mauve, giving an almost equal prominence to the white. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s20/w2lp2r2g22r3g1r3db9lp2r2lp2g8r8g8r2db2r22lp2r2w2~x2/) — ΔT 1.21
+1. [MacDougall 7](/setts/s20/w1r2p2r22db1r1g8r8g8p2r1p2db9r3g1r3g22r1p2w1~x2/) — ΔT 1.18
+1. [Wilson's No.128](/setts/s20/t4r3ly2r9t3g24t3r9k3r3w2~x2/) — ΔT 1.19
+1. [MacDougall Clan Tartan Tartan Number: 1776. Earliest known date: 1977 Matched to a sample by B Urquhart in 2004, from Lochcarron reiver cloth. The purple colour was lightened considerably to a pale mauve, giving an almost equal prominence to the white. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s20/w2r2lp2r22db2r2g8r8g8lp2r2lp2db9r3g1r3g22r2lp2w2~x2/) — ΔT 1.21
 1. [Rankin Grey (Personal)](/setts/s21/n14o1n1o1n1o9k6r1n5w1n5r1k6o9r1n5r2n2r1n2w1~x2/) — ΔT 1.22
 1. [Wilson (Clan)](/setts/s22/db45w4db6g6db6g6db6g37r6g6r6g6r6g6r6g39r27g6db6r12w4r30/) — ΔT 1.24
-1. [Craig](/setts/s19/r1k2g2k2o2k1o2k1o2r2k1g14k1o17ly1g1o2k2r1~x4/) — ΔT 1.28
-1. [O'Keefe](/setts/s22/k8r2k3ly2k2w3k2lo12y22r2y2k1y2r2y22lo12k2w3k2ly2k3r2~x2/) — ΔT 1.30
+1. [Craig](/setts/s19/r1k2o2g1ly1o17k1g14k1r2o2k1o2k1o2k2g2k2r1~x4/) — ΔT 1.28
+1. [O'Keefe](/setts/s22/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/) — ΔT 1.30
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s22/db30w2t3dg3t3dg3t3dg16r3dg3r3dg3r3dg3r3dg25r15dg4t4r8w2r15~x2/"><circle cx="197.8" cy="105.1" r="4" fill="#3465a4"><title>Wilson (Janet) #2</title></circle></a><a href="/setts/s22/dp30w2t3dg3t3dg3t3dg16r3dg3r3dg3r3dg3r3dg25r15dg4t4r8w2r15~x2/"><circle cx="202.5" cy="103.5" r="4" fill="#3465a4"><title>Wilson, Janet (1780 Original)</title></circle></a><a href="/setts/s19/r1k3g2k2o2k1o3k1o2r3k1g16k1o18ly1g1o2k2r1~x2/"><circle cx="241.7" cy="90.0" r="4" fill="#3465a4"><title>Craig Family Tartan Tartan Number: 1574. Earliest known date: 1957 MacGregor Hastie wrote, &quot;This tartan was designed by me to meet a long felt want. Many people have asked if there was a Craig family tartan, and as the name is not connected with any Highland clan, yet the the family name is numerous, it seemed a good idea to design one. The design is based on the general colour of craigs and rocks.&quot; The Craig tartan is now in general production. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s20/w1p2r1g22r3g1r3db9p2r1p2g8r8g8r1db1r22p2r2w1~x2/"><circle cx="252.7" cy="83.6" r="4" fill="#3465a4"><title>MacDougall 7</title></circle></a><a href="/setts/s20/t4r3ly2r9t3g24t3r9k3r3w2r3k3r9t3g24t3r9ly2r3~x2/"><circle cx="184.5" cy="102.9" r="4" fill="#3465a4"><title>Wilson's No.128</title></circle></a><a href="/setts/s20/w2lp2r2g22r3g1r3db9lp2r2lp2g8r8g8r2db2r22lp2r2w2~x2/"><circle cx="236.3" cy="83.8" r="4" fill="#3465a4"><title>MacDougall Clan Tartan Tartan Number: 1776. Earliest known date: 1977 Matched to a sample by B Urquhart in 2004, from Lochcarron reiver cloth. The purple colour was lightened considerably to a pale mauve, giving an almost equal prominence to the white. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s21/n14o1n1o1n1o9k6r1n5w1n5r1k6o9r1n5r2n2r1n2w1~x2/"><circle cx="237.5" cy="125.6" r="4" fill="#3465a4"><title>Rankin Grey (Personal)</title></circle></a><a href="/setts/s22/db45w4db6g6db6g6db6g37r6g6r6g6r6g6r6g39r27g6db6r12w4r30/"><circle cx="210.9" cy="135.2" r="4" fill="#3465a4"><title>Wilson (Clan)</title></circle></a><a href="/setts/s19/r1k2g2k2o2k1o2k1o2r2k1g14k1o17ly1g1o2k2r1~x4/"><circle cx="255.1" cy="96.3" r="4" fill="#3465a4"><title>Craig</title></circle></a><a href="/setts/s22/k8r2k3ly2k2w3k2lo12y22r2y2k1y2r2y22lo12k2w3k2ly2k3r2~x2/"><circle cx="200.4" cy="63.0" r="4" fill="#3465a4"><title>O'Keefe</title></circle></a><circle cx="197.4" cy="106.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s22/db30w2t3dg3t3dg3t3dg16r3dg3r3dg3r3dg3r3dg25r15dg4t4r8w2r15~x2/"><circle cx="197.6" cy="105.2" r="4" fill="#3465a4"><title>Wilson (Janet) #2</title></circle></a><a href="/setts/s22/dp30w2t3dg3t3dg3t3dg16r3dg3r3dg3r3dg3r3dg25r15dg4t4r8w2r15~x2/"><circle cx="202.2" cy="103.6" r="4" fill="#3465a4"><title>Wilson, Janet (1780 Original)</title></circle></a><a href="/setts/s19/r1k3g2k2o2k1o3k1o2r3k1g16k1o18ly1g1o2k2r1~x2/"><circle cx="241.4" cy="90.0" r="4" fill="#3465a4"><title>Craig Family Tartan Tartan Number: 1574. Earliest known date: 1957 MacGregor Hastie wrote, &quot;This tartan was designed by me to meet a long felt want. Many people have asked if there was a Craig family tartan, and as the name is not connected with any Highland clan, yet the the family name is numerous, it seemed a good idea to design one. The design is based on the general colour of craigs and rocks.&quot; The Craig tartan is now in general production. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s20/w1r2p2r22db1r1g8r8g8p2r1p2db9r3g1r3g22r1p2w1~x2/"><circle cx="252.4" cy="83.7" r="4" fill="#3465a4"><title>MacDougall 7</title></circle></a><a href="/setts/s20/t4r3ly2r9t3g24t3r9k3r3w2~x2/"><circle cx="184.2" cy="103.1" r="4" fill="#3465a4"><title>Wilson's No.128</title></circle></a><a href="/setts/s20/w2r2lp2r22db2r2g8r8g8lp2r2lp2db9r3g1r3g22r2lp2w2~x2/"><circle cx="236.0" cy="83.8" r="4" fill="#3465a4"><title>MacDougall Clan Tartan Tartan Number: 1776. Earliest known date: 1977 Matched to a sample by B Urquhart in 2004, from Lochcarron reiver cloth. The purple colour was lightened considerably to a pale mauve, giving an almost equal prominence to the white. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s21/n14o1n1o1n1o9k6r1n5w1n5r1k6o9r1n5r2n2r1n2w1~x2/"><circle cx="237.2" cy="125.7" r="4" fill="#3465a4"><title>Rankin Grey (Personal)</title></circle></a><a href="/setts/s22/db45w4db6g6db6g6db6g37r6g6r6g6r6g6r6g39r27g6db6r12w4r30/"><circle cx="210.7" cy="135.2" r="4" fill="#3465a4"><title>Wilson (Clan)</title></circle></a><a href="/setts/s19/r1k2o2g1ly1o17k1g14k1r2o2k1o2k1o2k2g2k2r1~x4/"><circle cx="254.8" cy="96.4" r="4" fill="#3465a4"><title>Craig</title></circle></a><a href="/setts/s22/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/"><circle cx="200.0" cy="63.1" r="4" fill="#3465a4"><title>O'Keefe</title></circle></a><circle cx="197.2" cy="106.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s22/db30w2t3g3t3g3t3g16r3g3r3g3r3g3r3g25r15g4t4r8w2r15~x2/

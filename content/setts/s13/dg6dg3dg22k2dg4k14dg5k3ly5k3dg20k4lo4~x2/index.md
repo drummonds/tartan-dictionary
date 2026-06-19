@@ -2,12 +2,18 @@
 title: "Celtic Football Club (2005)"
 date: 2023-03-18
 ---
-**Bands:** [GGGKGKGKYKGKY](/stripes/gggkgkgkykgky/) · **Stripes:** [DG DG DG K DG K DG K LY K DG K LO](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DG DG DG K DG K DG K LY K DG K LO</span></span>
+**Bands:** [YKGKYKGKGKGGG](/stripes/ykgkykgkgkggg/) · **Stripes:** [LO K DG K LY K DG K DG K DG DG DG](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="seq">LO K DG K LY K DG K DG K DG DG DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=603
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Celtic 2005 Sports
 
 ## Attestations
 
@@ -46,17 +52,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Barbecue Presbyterian Church](/setts/s13/dg17r2dg2r5dg29r2db31k2g29r5g2r2g17~x2/) — ΔT 0.91
 1. [Choinka Family (Personal)](/setts/s11/dy4k2lo3k2dy7k9g20k2t3k2g4~x2/) — ΔT 1.07
 1. [Wcwm 1873-5](/setts/s9/k1db8r1dy3r1dy8k4dg14r1~x4/) — ΔT 1.15
-1. [McHeadley Society](/setts/s13/ly2g12k2dg10k13db3g12dg2g2dg2g2dg18r2~x2/) — ΔT 1.21
+1. [McHeadley Society](/setts/s13/r2dg18g2dg2g2dg2g12db3k13dg10k2g12ly2~x2/) — ΔT 1.21
 1. [78th Regiment (Highlanders) (Mil.)](/setts/s15/dt30k5dt5k5dt5k31dg31k3w7k3dg31k31dt31k3r7/) — ΔT 1.21
 1. [Cumbernauld](/setts/s15/dt17k3dt3k3dt3k17g17k2w2k2g17k17dt17k2r3~x2/) — ΔT 1.23
-1. [Fitzsimmons](/setts/s10/ly3y2k4o6k4y15k4dg18k2y3~x2/) — ΔT 1.24
-1. [Celtic 2005 Sports Tartan Tartan Number: 6496. Earliest known date: 2005 January Designed by Claire Donaldson of The House of Edgar for Celtic Football Club updating the club's tartan for 2005. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s24/dg6dg3dg22k2dg4k14dg5k3ly5k3dg20k4lo4k4dg20k3ly5k3dg5k14dg4k2dg22dg3~x2/) — ΔT 1.26
+1. [Fitzsimmons](/setts/s10/y3k2dg18k4y15k4o6k4y2ly3~x2/) — ΔT 1.24
+1. [Celtic 2005 Sports Tartan Tartan Number: 6496. Earliest known date: 2005 January Designed by Claire Donaldson of The House of Edgar for Celtic Football Club updating the club's tartan for 2005. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s24/dg6dg3dg22k2dg4k14dg5k3ly5k3dg20k4lo4~x2/) — ΔT 1.26
 1. [Anderson (Coulson Bonner #1)](/setts/s14/k3r7k4dy7r3dy7k4dg3k3dg19k2dg2k2r3~x2/) — ΔT 1.28
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dg17r2dg2r5dg29r2db31ly2g29r5g2r2g17~x2/"><circle cx="208.1" cy="159.6" r="4" fill="#3465a4"><title>Barbecue Presbyterian Church (Corp)</title></circle></a><a href="/setts/s13/dg17r2dg2r5dg29r2db31k2g29r5g2r2g17~x2/"><circle cx="213.4" cy="162.9" r="4" fill="#3465a4"><title>Barbecue Presbyterian Church</title></circle></a><a href="/setts/s11/dy4k2lo3k2dy7k9g20k2t3k2g4~x2/"><circle cx="212.1" cy="177.4" r="4" fill="#3465a4"><title>Choinka Family (Personal)</title></circle></a><a href="/setts/s9/k1db8r1dy3r1dy8k4dg14r1~x4/"><circle cx="197.2" cy="183.9" r="4" fill="#3465a4"><title>Wcwm 1873-5</title></circle></a><a href="/setts/s13/ly2g12k2dg10k13db3g12dg2g2dg2g2dg18r2~x2/"><circle cx="203.6" cy="187.5" r="4" fill="#3465a4"><title>McHeadley Society</title></circle></a><a href="/setts/s15/dt30k5dt5k5dt5k31dg31k3w7k3dg31k31dt31k3r7/"><circle cx="182.5" cy="176.6" r="4" fill="#3465a4"><title>78th Regiment (Highlanders) (Mil.)</title></circle></a><a href="/setts/s15/dt17k3dt3k3dt3k17g17k2w2k2g17k17dt17k2r3~x2/"><circle cx="195.0" cy="192.3" r="4" fill="#3465a4"><title>Cumbernauld</title></circle></a><a href="/setts/s10/ly3y2k4o6k4y15k4dg18k2y3~x2/"><circle cx="163.5" cy="186.6" r="4" fill="#3465a4"><title>Fitzsimmons</title></circle></a><a href="/setts/s24/dg6dg3dg22k2dg4k14dg5k3ly5k3dg20k4lo4k4dg20k3ly5k3dg5k14dg4k2dg22dg3~x2/"><circle cx="177.5" cy="160.9" r="4" fill="#3465a4"><title>Celtic 2005 Sports Tartan Tartan Number: 6496. Earliest known date: 2005 January Designed by Claire Donaldson of The House of Edgar for Celtic Football Club updating the club's tartan for 2005. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/k3r7k4dy7r3dy7k4dg3k3dg19k2dg2k2r3~x2/"><circle cx="190.1" cy="186.4" r="4" fill="#3465a4"><title>Anderson (Coulson Bonner #1)</title></circle></a><circle cx="187.2" cy="184.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dg17r2dg2r5dg29r2db31ly2g29r5g2r2g17~x2/"><circle cx="208.1" cy="159.7" r="4" fill="#3465a4"><title>Barbecue Presbyterian Church (Corp)</title></circle></a><a href="/setts/s13/dg17r2dg2r5dg29r2db31k2g29r5g2r2g17~x2/"><circle cx="213.4" cy="163.1" r="4" fill="#3465a4"><title>Barbecue Presbyterian Church</title></circle></a><a href="/setts/s11/dy4k2lo3k2dy7k9g20k2t3k2g4~x2/"><circle cx="212.1" cy="177.5" r="4" fill="#3465a4"><title>Choinka Family (Personal)</title></circle></a><a href="/setts/s9/k1db8r1dy3r1dy8k4dg14r1~x4/"><circle cx="197.4" cy="184.1" r="4" fill="#3465a4"><title>Wcwm 1873-5</title></circle></a><a href="/setts/s13/r2dg18g2dg2g2dg2g12db3k13dg10k2g12ly2~x2/"><circle cx="203.7" cy="187.7" r="4" fill="#3465a4"><title>McHeadley Society</title></circle></a><a href="/setts/s15/dt30k5dt5k5dt5k31dg31k3w7k3dg31k31dt31k3r7/"><circle cx="182.5" cy="176.8" r="4" fill="#3465a4"><title>78th Regiment (Highlanders) (Mil.)</title></circle></a><a href="/setts/s15/dt17k3dt3k3dt3k17g17k2w2k2g17k17dt17k2r3~x2/"><circle cx="195.2" cy="192.5" r="4" fill="#3465a4"><title>Cumbernauld</title></circle></a><a href="/setts/s10/y3k2dg18k4y15k4o6k4y2ly3~x2/"><circle cx="163.5" cy="186.7" r="4" fill="#3465a4"><title>Fitzsimmons</title></circle></a><a href="/setts/s24/dg6dg3dg22k2dg4k14dg5k3ly5k3dg20k4lo4~x2/"><circle cx="177.6" cy="161.1" r="4" fill="#3465a4"><title>Celtic 2005 Sports Tartan Tartan Number: 6496. Earliest known date: 2005 January Designed by Claire Donaldson of The House of Edgar for Celtic Football Club updating the club's tartan for 2005. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/k3r7k4dy7r3dy7k4dg3k3dg19k2dg2k2r3~x2/"><circle cx="190.1" cy="186.6" r="4" fill="#3465a4"><title>Anderson (Coulson Bonner #1)</title></circle></a><circle cx="187.2" cy="184.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/dg6dg3dg22k2dg4k14dg5k3ly5k3dg20k4lo4~x2/

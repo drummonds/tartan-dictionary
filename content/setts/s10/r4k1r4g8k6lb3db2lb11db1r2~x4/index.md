@@ -2,12 +2,18 @@
 title: "MacDuff Dress #2"
 date: 2023-03-18
 ---
-**Bands:** [RBWBWKGRKR](/stripes/rbwbwkgrkr/) · **Stripes:** [R DB LB DB LB K G R K R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB LB DB LB K G R K R</span></span>
+**Bands:** [RKRGKWBWBR](/stripes/rkrgkwbwbr/) · **Stripes:** [R K R G K LB DB LB DB R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R G K LB DB LB DB R</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2420
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacDuff Dress #2
 
 ## Attestations
 
@@ -25,7 +31,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1441
 
 ## Thread count
-DR/8 DB4 N44 DB8 N12 K24 G32 DR16 K4 DR/16
+DR/16 K4 DR16 G32 K24 N12 DB8 N44 DB4 DR/8
 ![Sett](sett.png)
 
 ## Palette
@@ -56,8 +62,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r5db1r5g13db8t5r5w1db3~x2/"><circle cx="120.0" cy="162.7" r="4" fill="#3465a4"><title>Unidentified #27</title></circle></a><a href="/setts/s12/k6g5k6do6w1do10k6w3r1w12r1w3~x4/"><circle cx="92.4" cy="150.9" r="4" fill="#3465a4"><title>Forbes - 1970 (WCWM #1)</title></circle></a><a href="/setts/s11/r16k6r14g22k16db16w10r6w45k4r4/"><circle cx="93.2" cy="136.0" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/setts/s8/dg2do8dg8r3do1w12dg2y1~x2/"><circle cx="123.1" cy="151.9" r="4" fill="#3465a4"><title>National Trust Corporate Tartan Tartan Number: 2117. Earliest known date: pre 1991 Sent in by Tweedmill for information. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r16k6r14dg22k16db16w10r6w45k4r4/"><circle cx="99.4" cy="135.6" r="4" fill="#3465a4"><title>MacDuff Dress #4</title></circle></a><a href="/setts/s9/lr18k3lr4w3lr4k19n20k2m4~x2/"><circle cx="141.8" cy="163.1" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/setts/s10/r4dg7ly3dg12k16t5r20t5k4t2~x2/"><circle cx="114.5" cy="167.9" r="4" fill="#3465a4"><title>Unidentified #9</title></circle></a><a href="/setts/s12/r16t10k14w2k4w3k4g26r11k4r4w2~x2/"><circle cx="124.5" cy="139.3" r="4" fill="#3465a4"><title>Stewart - Pr Ch Ed (Error?)</title></circle></a><a href="/setts/s10/r5k1r5g9k7w3db3w15db1r2~x2/"><circle cx="112.2" cy="127.1" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/setts/s12/w2k1dg8r2dg8k6db10r4k2r2k1w2~x2/"><circle cx="113.2" cy="164.8" r="4" fill="#3465a4"><title>Hargis (Name)</title></circle></a><circle cx="103.9" cy="157.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r5db1r5g13db8t5r5w1db3~x2/"><circle cx="119.9" cy="162.7" r="4" fill="#3465a4"><title>Unidentified #27</title></circle></a><a href="/setts/s12/k6g5k6do6w1do10k6w3r1w12r1w3~x4/"><circle cx="92.4" cy="150.9" r="4" fill="#3465a4"><title>Forbes - 1970 (WCWM #1)</title></circle></a><a href="/setts/s11/r16k6r14g22k16db16w10r6w45k4r4/"><circle cx="93.1" cy="136.0" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/setts/s8/dg2do8dg8r3do1w12dg2y1~x2/"><circle cx="123.0" cy="151.9" r="4" fill="#3465a4"><title>National Trust Corporate Tartan Tartan Number: 2117. Earliest known date: pre 1991 Sent in by Tweedmill for information. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r16k6r14dg22k16db16w10r6w45k4r4/"><circle cx="99.3" cy="135.6" r="4" fill="#3465a4"><title>MacDuff Dress #4</title></circle></a><a href="/setts/s9/lr18k3lr4w3lr4k19n20k2m4~x2/"><circle cx="141.8" cy="163.1" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/setts/s10/r4dg7ly3dg12k16t5r20t5k4t2~x2/"><circle cx="114.5" cy="168.0" r="4" fill="#3465a4"><title>Unidentified #9</title></circle></a><a href="/setts/s12/r16t10k14w2k4w3k4g26r11k4r4w2~x2/"><circle cx="124.4" cy="139.4" r="4" fill="#3465a4"><title>Stewart - Pr Ch Ed (Error?)</title></circle></a><a href="/setts/s10/r5k1r5g9k7w3db3w15db1r2~x2/"><circle cx="112.0" cy="127.1" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/setts/s12/w2k1dg8r2dg8k6db10r4k2r2k1w2~x2/"><circle cx="113.3" cy="164.9" r="4" fill="#3465a4"><title>Hargis (Name)</title></circle></a><circle cx="103.8" cy="157.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r4k1r4g8k6lb3db2lb11db1r2~x4/

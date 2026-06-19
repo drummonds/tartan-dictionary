@@ -8,7 +8,7 @@ BBGRY
 
 It is a 5 band tartan.
 
-![Woven sample](/setts/s5/lo9o31dg12do2n9~x2/tartan.png)
+![Woven sample](/setts/s5/n9do2dg12o31lo9~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ BBGRY
 
 
 
-### N DO DG O LO <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">N DO DG O LO</span></span>
+### LO O DG DO N <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="seq">LO O DG DO N</span></span>
 
 | Tartans |
 |---------------|
-| [Buncle (Duns)](/setts/s5/lo9o31dg12do2n9~x2/)|
-|![Buncle (Duns) example sett](/setts/s5/lo9o31dg12do2n9~x2/sett.png)|
+| [Buncle (Duns)](/setts/s5/n9do2dg12o31lo9~x2/)|
+|![Buncle (Duns) example sett](/setts/s5/n9do2dg12o31lo9~x2/sett.png)|
 

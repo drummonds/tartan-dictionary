@@ -2,7 +2,7 @@
 title: "Gillies Dress Blue"
 date: 2023-03-18
 ---
-**Bands:** [BWBWKBRBKY](/stripes/bwbwkbrbky/) · **Stripes:** [B W B W K B R B K LO](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">B W B W K B R B K LO</span></span>
+**Bands:** [YKBRBKWBWB](/stripes/ykbrbkwbwb/) · **Stripes:** [LO K B R B K W B W B](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LO K B R B K W B W B</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
@@ -18,7 +18,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 637
 
 ## Thread count
-B/4 W8 B4 W44 K32 B24 R12 B24 K3 DY/12
+DY/12 K3 B24 R12 B24 K32 W44 B4 W8 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -42,15 +42,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Arran - 1989 (Fashion)](/setts/s8/t12k1t1k1t1db8w9o2~x4/) — ΔT 1.10
 1. [Davidson (Wedding) (Personal)](/setts/s7/r2db14k6g1w12g1w2~x4/) — ΔT 1.11
 1. [Earl of St. Andrews Dress](/setts/s7/w20db14dt14w4db2b2dt7~x2/) — ΔT 1.16
-1. [St. Andrews Dress, Earl of](/setts/s12/db7p2db2w4db19t19w28t19db19w4db2p2~x2/) — ΔT 1.16
+1. [St. Andrews Dress, Earl of](/setts/s12/w28t19db19w4db2p2db7~x2/) — ΔT 1.16
 1. [Culloden Dress Ancient](/setts/s8/r6db2dp21w3dg19w26dg3w5~x2/) — ΔT 1.16
 1. [Ferguson Dress](/setts/s7/t17k12w9m2w9g1w2~x4/) — ΔT 1.18
 1. [Dinarzh: Fortress of the Bear](/setts/s13/w4ly10b20k1w12ly1b4w2k4ly5k10w5b2~x2/) — ΔT 1.19
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w17k2n6t6w1n1dp10k2dp3~x4/"><circle cx="152.4" cy="122.8" r="4" fill="#3465a4"><title>Hebridean Arisaid Blue (Dance) Fashion Tartan Tartan Number: 6558. Earliest known date: 01/01/2005 Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/t34db24w18r3w18g2w3~x2/"><circle cx="159.2" cy="149.8" r="4" fill="#3465a4"><title>Ferguson, dress</title></circle></a><a href="/setts/s9/m1k1w13b13db7k7w13k1m1~x4/"><circle cx="155.1" cy="135.3" r="4" fill="#3465a4"><title>Bradey Blue Dress</title></circle></a><a href="/setts/s8/t12k1t1k1t1db8w9o2~x4/"><circle cx="156.2" cy="142.5" r="4" fill="#3465a4"><title>Arran - 1989 (Fashion)</title></circle></a><a href="/setts/s7/r2db14k6g1w12g1w2~x4/"><circle cx="149.5" cy="138.8" r="4" fill="#3465a4"><title>Davidson (Wedding) (Personal)</title></circle></a><a href="/setts/s7/w20db14dt14w4db2b2dt7~x2/"><circle cx="129.2" cy="171.8" r="4" fill="#3465a4"><title>Earl of St. Andrews Dress</title></circle></a><a href="/setts/s12/db7p2db2w4db19t19w28t19db19w4db2p2~x2/"><circle cx="148.5" cy="136.6" r="4" fill="#3465a4"><title>St. Andrews Dress, Earl of</title></circle></a><a href="/setts/s8/r6db2dp21w3dg19w26dg3w5~x2/"><circle cx="152.7" cy="141.6" r="4" fill="#3465a4"><title>Culloden Dress Ancient</title></circle></a><a href="/setts/s7/t17k12w9m2w9g1w2~x4/"><circle cx="156.1" cy="150.7" r="4" fill="#3465a4"><title>Ferguson Dress</title></circle></a><a href="/setts/s13/w4ly10b20k1w12ly1b4w2k4ly5k10w5b2~x2/"><circle cx="125.0" cy="114.8" r="4" fill="#3465a4"><title>Dinarzh: Fortress of the Bear</title></circle></a><circle cx="106.9" cy="132.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w17k2n6t6w1n1dp10k2dp3~x4/"><circle cx="152.3" cy="122.8" r="4" fill="#3465a4"><title>Hebridean Arisaid Blue (Dance) Fashion Tartan Tartan Number: 6558. Earliest known date: 01/01/2005 Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/t34db24w18r3w18g2w3~x2/"><circle cx="159.1" cy="149.7" r="4" fill="#3465a4"><title>Ferguson, dress</title></circle></a><a href="/setts/s9/m1k1w13b13db7k7w13k1m1~x4/"><circle cx="154.9" cy="135.2" r="4" fill="#3465a4"><title>Bradey Blue Dress</title></circle></a><a href="/setts/s8/t12k1t1k1t1db8w9o2~x4/"><circle cx="156.1" cy="142.4" r="4" fill="#3465a4"><title>Arran - 1989 (Fashion)</title></circle></a><a href="/setts/s7/r2db14k6g1w12g1w2~x4/"><circle cx="149.4" cy="138.7" r="4" fill="#3465a4"><title>Davidson (Wedding) (Personal)</title></circle></a><a href="/setts/s7/w20db14dt14w4db2b2dt7~x2/"><circle cx="129.1" cy="171.7" r="4" fill="#3465a4"><title>Earl of St. Andrews Dress</title></circle></a><a href="/setts/s12/w28t19db19w4db2p2db7~x2/"><circle cx="148.4" cy="136.6" r="4" fill="#3465a4"><title>St. Andrews Dress, Earl of</title></circle></a><a href="/setts/s8/r6db2dp21w3dg19w26dg3w5~x2/"><circle cx="152.5" cy="141.5" r="4" fill="#3465a4"><title>Culloden Dress Ancient</title></circle></a><a href="/setts/s7/t17k12w9m2w9g1w2~x4/"><circle cx="155.9" cy="150.6" r="4" fill="#3465a4"><title>Ferguson Dress</title></circle></a><a href="/setts/s13/w4ly10b20k1w12ly1b4w2k4ly5k10w5b2~x2/"><circle cx="124.8" cy="114.7" r="4" fill="#3465a4"><title>Dinarzh: Fortress of the Bear</title></circle></a><circle cx="106.8" cy="132.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/lo12k3b24r12b24k32w44b4w8b4/

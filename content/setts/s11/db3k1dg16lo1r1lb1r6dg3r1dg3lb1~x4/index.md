@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=542
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Canadian Caledonian Hunting
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -57,8 +63,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dg49k8lo20lo3dg23r6k5t3dg10lo10~x2/"><circle cx="313.7" cy="147.1" r="4" fill="#3465a4"><title>State Seal of Maine (Fashion)</title></circle></a><a href="/setts/s9/ly3g6dg32r4ly2r2dp7dg2w2~x2/"><circle cx="286.8" cy="112.0" r="4" fill="#3465a4"><title>Pienaar (Personal)</title></circle></a><a href="/setts/s11/g9o1g2r3g28k16lb1g8lb1db8r1~x2/"><circle cx="345.8" cy="114.6" r="4" fill="#3465a4"><title>New York Caledonian Club Day</title></circle></a><a href="/setts/s12/dg44db3k8ly2k2w2k2dg9r5k2r2w2~x2/"><circle cx="366.8" cy="88.4" r="4" fill="#3465a4"><title>Princess Mary</title></circle></a><a href="/setts/s13/g44r4g2r2g2r4g12k12r2db10r4db4ly3~x2/"><circle cx="332.3" cy="113.6" r="4" fill="#3465a4"><title>Cochrane of Dundonald</title></circle></a><a href="/setts/s11/g28r2g28r7lb2r7lb2r7k5dp4lb2~x2/"><circle cx="336.3" cy="153.7" r="4" fill="#3465a4"><title>Hynde (Sir John)</title></circle></a><a href="/setts/s12/g30lo4k6lo2k2g4k2db5y4k2y3g2~x2/"><circle cx="288.9" cy="121.7" r="4" fill="#3465a4"><title>Bottle Green (Fashion)</title></circle></a><a href="/setts/s12/dg28b1dg4r1k1lr1k1g4r4k2r4lr2~x2/"><circle cx="359.2" cy="85.1" r="4" fill="#3465a4"><title>Carroll O'Reed</title></circle></a><a href="/setts/s10/dg18k1ly3k1lr1dg1r2k2r2lr2~x4/"><circle cx="317.6" cy="114.6" r="4" fill="#3465a4"><title>Anthony Plaid Stewart</title></circle></a><a href="/setts/s11/g9lo1g2r3g28k16t1g8t1db8r1~x2/"><circle cx="348.0" cy="121.1" r="4" fill="#3465a4"><title>New York Caledonian Club Day</title></circle></a><circle cx="319.2" cy="121.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dg49k8lo20lo3dg23r6k5t3dg10lo10~x2/"><circle cx="313.6" cy="147.1" r="4" fill="#3465a4"><title>State Seal of Maine (Fashion)</title></circle></a><a href="/setts/s9/ly3g6dg32r4ly2r2dp7dg2w2~x2/"><circle cx="286.7" cy="112.0" r="4" fill="#3465a4"><title>Pienaar (Personal)</title></circle></a><a href="/setts/s11/g9o1g2r3g28k16lb1g8lb1db8r1~x2/"><circle cx="345.6" cy="114.5" r="4" fill="#3465a4"><title>New York Caledonian Club Day</title></circle></a><a href="/setts/s12/dg44db3k8ly2k2w2k2dg9r5k2r2w2~x2/"><circle cx="366.6" cy="88.4" r="4" fill="#3465a4"><title>Princess Mary</title></circle></a><a href="/setts/s13/g44r4g2r2g2r4g12k12r2db10r4db4ly3~x2/"><circle cx="332.1" cy="113.6" r="4" fill="#3465a4"><title>Cochrane of Dundonald</title></circle></a><a href="/setts/s11/g28r2g28r7lb2r7lb2r7k5dp4lb2~x2/"><circle cx="336.1" cy="153.6" r="4" fill="#3465a4"><title>Hynde (Sir John)</title></circle></a><a href="/setts/s12/g30lo4k6lo2k2g4k2db5y4k2y3g2~x2/"><circle cx="288.7" cy="121.8" r="4" fill="#3465a4"><title>Bottle Green (Fashion)</title></circle></a><a href="/setts/s12/dg28b1dg4r1k1lr1k1g4r4k2r4lr2~x2/"><circle cx="358.9" cy="85.1" r="4" fill="#3465a4"><title>Carroll O'Reed</title></circle></a><a href="/setts/s10/dg18k1ly3k1lr1dg1r2k2r2lr2~x4/"><circle cx="317.4" cy="114.6" r="4" fill="#3465a4"><title>Anthony Plaid Stewart</title></circle></a><a href="/setts/s11/g9lo1g2r3g28k16t1g8t1db8r1~x2/"><circle cx="347.9" cy="121.1" r="4" fill="#3465a4"><title>New York Caledonian Club Day</title></circle></a><circle cx="319.0" cy="121.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db3k1dg16lo1r1lb1r6dg3r1dg3lb1~x4/

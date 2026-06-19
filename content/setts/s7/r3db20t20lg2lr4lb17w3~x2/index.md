@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/
 Original link http://www.tartansauthority.com/tartan-ferret/display/10261/
 
 ## Thread count
-LN/6 N34 Na8 G4 B40 DB40 R/6
+R/6 DB40 B40 G4 Na8 N34 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -28,7 +28,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/6 N34 Na8 G4 B40 DB40 R/6 tartan")
+![Tartan detail](tartan.png "R/6 DB40 B40 G4 Na8 N34 LN/6 tartan")
 
 ## Nearest tartans
 
@@ -47,8 +47,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r3dt20dt20g2lr4lr17w3~x2/"><circle cx="77.0" cy="151.0" r="4" fill="#3465a4"><title>Silversea</title></circle></a><a href="/setts/s6/dp2w12b11t12k1g2~x4/"><circle cx="115.1" cy="174.1" r="4" fill="#3465a4"><title>Isle of Barra (District)</title></circle></a><a href="/setts/s7/p2g6r1y1db3b10w1~x2/"><circle cx="138.3" cy="141.5" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/setts/s8/db1lb12p6w1ly3db14b18w1~x2/"><circle cx="125.4" cy="130.3" r="4" fill="#3465a4"><title>Ancient Gathering</title></circle></a><a href="/setts/s8/db1t9w3ly3db9ly1g1r1~x4/"><circle cx="109.4" cy="143.5" r="4" fill="#3465a4"><title>Curd (2013)</title></circle></a><a href="/setts/s11/b4r4b12w12k4g4db8r1w1db1ly1~x2/"><circle cx="44.0" cy="102.9" r="4" fill="#3465a4"><title>Arisaig NS Canada</title></circle></a><a href="/setts/s8/lb12lg12db7w1do5o5lo2ly2~x2/"><circle cx="17.2" cy="121.9" r="4" fill="#3465a4"><title>Isle of Jura</title></circle></a><a href="/setts/s8/dt2g2dt11o2w8t12ly2t2~x2/"><circle cx="82.5" cy="170.0" r="4" fill="#3465a4"><title>Elora (District)</title></circle></a><a href="/setts/s11/t4r4t12w12k4g4dt8r1w1dt1ly1~x2/"><circle cx="59.3" cy="110.2" r="4" fill="#3465a4"><title>Arisaig (District)</title></circle></a><a href="/setts/s7/dp2g6r1ly1db3t10w1~x2/"><circle cx="145.8" cy="150.9" r="4" fill="#3465a4"><title>Manx National District Tartan Tartan Number: 185. Earliest known date: pre 2003 These are the specifications supplied by the designer. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="72.4" cy="146.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r3dt20dt20g2lr4lr17w3~x2/"><circle cx="77.1" cy="151.1" r="4" fill="#3465a4"><title>Silversea</title></circle></a><a href="/setts/s6/dp2w12b11t12k1g2~x4/"><circle cx="115.1" cy="174.1" r="4" fill="#3465a4"><title>Isle of Barra (District)</title></circle></a><a href="/setts/s7/p2g6r1y1db3b10w1~x2/"><circle cx="138.3" cy="141.6" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/setts/s8/db1lb12p6w1ly3db14b18w1~x2/"><circle cx="125.4" cy="130.4" r="4" fill="#3465a4"><title>Ancient Gathering</title></circle></a><a href="/setts/s8/db1t9w3ly3db9ly1g1r1~x4/"><circle cx="109.3" cy="143.5" r="4" fill="#3465a4"><title>Curd (2013)</title></circle></a><a href="/setts/s11/b4r4b12w12k4g4db8r1w1db1ly1~x2/"><circle cx="44.0" cy="103.1" r="4" fill="#3465a4"><title>Arisaig NS Canada</title></circle></a><a href="/setts/s8/lb12lg12db7w1do5o5lo2ly2~x2/"><circle cx="17.2" cy="122.1" r="4" fill="#3465a4"><title>Isle of Jura</title></circle></a><a href="/setts/s8/dt2g2dt11o2w8t12ly2t2~x2/"><circle cx="82.4" cy="170.1" r="4" fill="#3465a4"><title>Elora (District)</title></circle></a><a href="/setts/s11/t4r4t12w12k4g4dt8r1w1dt1ly1~x2/"><circle cx="59.2" cy="110.4" r="4" fill="#3465a4"><title>Arisaig (District)</title></circle></a><a href="/setts/s7/dp2g6r1ly1db3t10w1~x2/"><circle cx="145.9" cy="151.0" r="4" fill="#3465a4"><title>Manx National District Tartan Tartan Number: 185. Earliest known date: pre 2003 These are the specifications supplied by the designer. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="72.4" cy="146.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r3db20t20lg2lr4lb17w3~x2/

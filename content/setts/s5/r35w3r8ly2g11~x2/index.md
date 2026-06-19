@@ -2,7 +2,7 @@
 title: "Highlands at Wyomissing, The"
 date: 2023-03-18
 ---
-**Bands:** [GYRWR](/stripes/gyrwr/) · **Stripes:** [G LY R W R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">G LY R W R</span></span>
+**Bands:** [RWRYG](/stripes/rwryg/) · **Stripes:** [R W R LY G](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W R LY G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
@@ -37,7 +37,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Highlands of Wyomissing (Corporate)](/setts/s8/r35lb3r8ly2dg11ly2r8lb3~x2/) — ΔT 1.11
+1. [Highlands of Wyomissing (Corporate)](/setts/s8/r35lb3r8ly2dg11~x2/) — ΔT 1.11
 1. [McPeek (Fictitious clan)](/setts/s4/r63k8k8ly5~x2/) — ΔT 1.25
 1. [Sinclair](/setts/s6/r30g12k5w2t6r30/) — ΔT 1.40
 1. [Glen Shiel (Fashion)](/setts/s5/r13lb3r1dg3lb1~x6/) — ΔT 1.40
@@ -50,8 +50,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r35lb3r8ly2dg11ly2r8lb3~x2/"><circle cx="448.7" cy="151.3" r="4" fill="#3465a4"><title>Highlands of Wyomissing (Corporate)</title></circle></a><a href="/setts/s4/r63k8k8ly5~x2/"><circle cx="476.1" cy="186.0" r="4" fill="#3465a4"><title>McPeek (Fictitious clan)</title></circle></a><a href="/setts/s6/r30g12k5w2t6r30/"><circle cx="401.2" cy="169.4" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s5/r13lb3r1dg3lb1~x6/"><circle cx="418.7" cy="192.7" r="4" fill="#3465a4"><title>Glen Shiel (Fashion)</title></circle></a><a href="/setts/s6/r5db10r5dg5r25ly1~x4/"><circle cx="454.3" cy="166.1" r="4" fill="#3465a4"><title>AON</title></circle></a><a href="/setts/s6/r30dg12k5lr2b6r30~x2/"><circle cx="420.1" cy="182.7" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s6/r30dg12k5lr2b6r30/"><circle cx="420.1" cy="182.7" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s6/r35dg16r5dg5w2k3~x2/"><circle cx="388.0" cy="160.7" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s6/r65g16r4dp4r4w5~x2/"><circle cx="504.0" cy="149.4" r="4" fill="#3465a4"><title>Howard, Vincent (Personal)</title></circle></a><a href="/setts/s4/r32dg8lb4ly1/"><circle cx="491.2" cy="155.7" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><circle cx="469.1" cy="180.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r35lb3r8ly2dg11~x2/"><circle cx="448.2" cy="151.1" r="4" fill="#3465a4"><title>Highlands of Wyomissing (Corporate)</title></circle></a><a href="/setts/s4/r63k8k8ly5~x2/"><circle cx="475.8" cy="185.7" r="4" fill="#3465a4"><title>McPeek (Fictitious clan)</title></circle></a><a href="/setts/s6/r30g12k5w2t6r30/"><circle cx="400.8" cy="169.2" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s5/r13lb3r1dg3lb1~x6/"><circle cx="418.3" cy="192.4" r="4" fill="#3465a4"><title>Glen Shiel (Fashion)</title></circle></a><a href="/setts/s6/r5db10r5dg5r25ly1~x4/"><circle cx="453.9" cy="165.9" r="4" fill="#3465a4"><title>AON</title></circle></a><a href="/setts/s6/r30dg12k5lr2b6r30~x2/"><circle cx="419.7" cy="182.6" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s6/r30dg12k5lr2b6r30/"><circle cx="419.7" cy="182.6" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s6/r35dg16r5dg5w2k3~x2/"><circle cx="387.6" cy="160.5" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s6/r65g16r4dp4r4w5~x2/"><circle cx="503.4" cy="149.2" r="4" fill="#3465a4"><title>Howard, Vincent (Personal)</title></circle></a><a href="/setts/s4/r32dg8lb4ly1/"><circle cx="490.6" cy="155.4" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><circle cx="468.7" cy="180.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/r35w3r8ly2g11~x2/

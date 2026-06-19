@@ -2,7 +2,7 @@
 title: "Aggreko Shepherd (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [WBGKGWY](/stripes/wbgkgwy/) · **Stripes:** [LB N DG K DG W LO](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LB N DG K DG W LO</span></span>
+**Bands:** [YWGKGBW](/stripes/ywgkgbw/) · **Stripes:** [LO W DG K DG N LB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LO W DG K DG N LB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/
 Original link http://www.tartansauthority.com/tartan-ferret/display/7941/
 
 ## Thread count
-LB/4 N8 DG54 K44 DG60 W8 O/20
+O/20 W8 DG60 K44 DG54 N8 LB/4
 ![Sett](sett.png)
 
 ## Palette
@@ -27,7 +27,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LB/4 N8 DG54 K44 DG60 W8 O/20 tartan")
+![Tartan detail](tartan.png "O/20 W8 DG60 K44 DG54 N8 LB/4 tartan")
 
 ## Nearest tartans
 
@@ -46,8 +46,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg4r1dg12k1ly4k1dg3b5w2~x2/"><circle cx="238.4" cy="150.1" r="4" fill="#3465a4"><title>Lees-McRae College</title></circle></a><a href="/setts/s7/dg3w1dg12r6dg3k3g2~x4/"><circle cx="295.0" cy="190.6" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/setts/s8/k4lo8k26o6g15o6k26w2~x2/"><circle cx="287.6" cy="181.0" r="4" fill="#3465a4"><title>Holestone (Corporate)</title></circle></a><a href="/setts/s6/g26db3g12k10dp15w2~x2/"><circle cx="275.6" cy="207.5" r="4" fill="#3465a4"><title>Lossiemouth/Hersbruck</title></circle></a><a href="/setts/s6/k17dg48ly4r10lb12dg4/"><circle cx="262.1" cy="178.1" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/setts/s10/dg49k8lo20lo3dg23r6k5t3dg10lo10~x2/"><circle cx="313.7" cy="147.1" r="4" fill="#3465a4"><title>State Seal of Maine (Fashion)</title></circle></a><a href="/setts/s6/db25k84w5g32ly5dp8~x2/"><circle cx="265.6" cy="155.3" r="4" fill="#3465a4"><title>Woodward, R Glenn</title></circle></a><a href="/setts/s7/dg2k1dg12r4dg3db9lb2~x4/"><circle cx="248.4" cy="194.8" r="4" fill="#3465a4"><title>Lee (Personal)</title></circle></a><a href="/setts/s7/ly3dg24k11dg3k10dg3w2~x2/"><circle cx="255.1" cy="187.0" r="4" fill="#3465a4"><title>Cornish Brewery, Green</title></circle></a><a href="/setts/s6/k17g48ly4r10db12g4/"><circle cx="278.8" cy="189.7" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><circle cx="264.1" cy="170.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg4r1dg12k1ly4k1dg3b5w2~x2/"><circle cx="238.4" cy="150.0" r="4" fill="#3465a4"><title>Lees-McRae College</title></circle></a><a href="/setts/s7/dg3w1dg12r6dg3k3g2~x4/"><circle cx="295.0" cy="190.5" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/setts/s8/k4lo8k26o6g15o6k26w2~x2/"><circle cx="287.6" cy="180.9" r="4" fill="#3465a4"><title>Holestone (Corporate)</title></circle></a><a href="/setts/s6/g26db3g12k10dp15w2~x2/"><circle cx="275.6" cy="207.4" r="4" fill="#3465a4"><title>Lossiemouth/Hersbruck</title></circle></a><a href="/setts/s6/k17dg48ly4r10lb12dg4/"><circle cx="262.0" cy="178.0" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/setts/s10/dg49k8lo20lo3dg23r6k5t3dg10lo10~x2/"><circle cx="313.6" cy="147.1" r="4" fill="#3465a4"><title>State Seal of Maine (Fashion)</title></circle></a><a href="/setts/s6/db25k84w5g32ly5dp8~x2/"><circle cx="265.7" cy="155.3" r="4" fill="#3465a4"><title>Woodward, R Glenn</title></circle></a><a href="/setts/s7/dg2k1dg12r4dg3db9lb2~x4/"><circle cx="248.5" cy="194.8" r="4" fill="#3465a4"><title>Lee (Personal)</title></circle></a><a href="/setts/s7/ly3dg24k11dg3k10dg3w2~x2/"><circle cx="255.2" cy="186.9" r="4" fill="#3465a4"><title>Cornish Brewery, Green</title></circle></a><a href="/setts/s6/k17g48ly4r10db12g4/"><circle cx="278.8" cy="189.6" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><circle cx="264.1" cy="170.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/lo10w4dg30k22dg27n4lb2~x2/

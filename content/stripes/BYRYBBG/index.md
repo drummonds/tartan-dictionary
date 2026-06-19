@@ -20,7 +20,7 @@ BYRYBBG
 
 
 
-### DB LY R LY DB B DG <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="seq">DB LY R LY DB B DG</span></span>
+### DG B DB LY R LY DB <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">DG B DB LY R LY DB</span></span>
 
 | Tartans |
 |---------------|

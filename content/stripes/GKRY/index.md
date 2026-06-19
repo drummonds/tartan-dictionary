@@ -20,7 +20,7 @@ GKRY
 
 
 
-### G K R LR <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">G K R LR</span></span>
+### LR R K G <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LR R K G</span></span>
 
 | Tartans |
 |---------------|

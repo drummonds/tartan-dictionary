@@ -20,7 +20,7 @@ WWKWKYW
 
 
 
-### LB W K W K LO LB <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB W K W K LO LB</span></span>
+### LB LO K W K W LB <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LB LO K W K W LB</span></span>
 
 | Tartans |
 |---------------|

@@ -13,14 +13,22 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2625](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2625)
-- Scottish Register of Tartans: [3555](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3555)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 1429
 - Scottish Tartans Authority (ITI): 218
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1429
 - Scottish Tartans World Register: 218
-- Scottish Tartans World Register: 864
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Variants
 
@@ -56,18 +64,18 @@ The nearest existing variants by ΔTartan distance.
 1. [MacLeod](/setts/s7/r3k2dg15k10db20k2ly2~x2/) — ΔT 0.00
 1. [Scotch House 2000, original](/setts/s8/db22r3db2r3db2k17dg18o4~x2/) — ΔT 0.46
 1. [Colquhoun](/setts/s7/r2dg8lr1k8db8k1db1~x2/) — ΔT 0.67
-1. [Colquhoun](/setts/s7/r2dg8lr1k8db8k1db1/) — ΔT 0.67
 1. [Mitchell](/setts/s6/k2dg12k12r1db12lr2~x2/) — ΔT 0.69
 1. [Mitchell](/setts/s6/k2dg12k12r1db12lr2/) — ΔT 0.69
 1. [Royal College of Physicians of Edinburgh](/setts/s6/db28r4k14r4dg33ly4~x2/) — ΔT 0.69
-1. [Campbell of Cawdor](/setts/s7/b2k1dg8k8db8k1r2~x2/) — ΔT 0.69
-1. [Campbell of Cawdor](/setts/s7/b2k1dg8k8db8k1r2/) — ΔT 0.69
+1. [Campbell of Cawdor](/setts/s7/r2k1db8k8dg8k1b2~x2/) — ΔT 0.69
 1. [Mitchell](/setts/s6/k2dg12k12r1db12lb2/) — ΔT 0.87
+1. [Leslie Hunting](/setts/s6/r2db8k8lr1dg8k1~x2/) — ΔT 0.90
+1. [Leslie Hunting](/setts/s6/r2db8k8lr1dg8k1/) — ΔT 0.90
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r3k2dg15k10db20k2ly2~x2/"><circle cx="182.0" cy="200.5" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/setts/s8/db22r3db2r3db2k17dg18o4~x2/"><circle cx="178.6" cy="189.7" r="4" fill="#3465a4"><title>Scotch House 2000, original</title></circle></a><a href="/setts/s7/r2dg8lr1k8db8k1db1~x2/"><circle cx="142.3" cy="212.6" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/setts/s7/r2dg8lr1k8db8k1db1/"><circle cx="142.3" cy="212.6" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/setts/s6/k2dg12k12r1db12lr2~x2/"><circle cx="170.1" cy="211.3" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><a href="/setts/s6/k2dg12k12r1db12lr2/"><circle cx="170.1" cy="211.3" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><a href="/setts/s6/db28r4k14r4dg33ly4~x2/"><circle cx="168.9" cy="213.2" r="4" fill="#3465a4"><title>Royal College of Physicians of Edinburgh</title></circle></a><a href="/setts/s7/b2k1dg8k8db8k1r2~x2/"><circle cx="143.5" cy="219.0" r="4" fill="#3465a4"><title>Campbell of Cawdor</title></circle></a><a href="/setts/s7/b2k1dg8k8db8k1r2/"><circle cx="143.5" cy="219.0" r="4" fill="#3465a4"><title>Campbell of Cawdor</title></circle></a><a href="/setts/s6/k2dg12k12r1db12lb2/"><circle cx="158.3" cy="205.5" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><circle cx="182.0" cy="200.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r3k2dg15k10db20k2ly2~x2/"><circle cx="182.3" cy="200.6" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/setts/s8/db22r3db2r3db2k17dg18o4~x2/"><circle cx="178.9" cy="189.8" r="4" fill="#3465a4"><title>Scotch House 2000, original</title></circle></a><a href="/setts/s7/r2dg8lr1k8db8k1db1~x2/"><circle cx="142.7" cy="212.7" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/setts/s6/k2dg12k12r1db12lr2~x2/"><circle cx="170.4" cy="211.3" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><a href="/setts/s6/k2dg12k12r1db12lr2/"><circle cx="170.4" cy="211.3" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><a href="/setts/s6/db28r4k14r4dg33ly4~x2/"><circle cx="169.2" cy="213.2" r="4" fill="#3465a4"><title>Royal College of Physicians of Edinburgh</title></circle></a><a href="/setts/s7/r2k1db8k8dg8k1b2~x2/"><circle cx="143.9" cy="219.1" r="4" fill="#3465a4"><title>Campbell of Cawdor</title></circle></a><a href="/setts/s6/k2dg12k12r1db12lb2/"><circle cx="158.7" cy="205.5" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><a href="/setts/s6/r2db8k8lr1dg8k1~x2/"><circle cx="139.2" cy="226.5" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/setts/s6/r2db8k8lr1dg8k1/"><circle cx="139.2" cy="226.5" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><circle cx="182.3" cy="200.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r3k2dg15k10db20k2ly2/

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -907,7 +910,7 @@ The nearest existing variants by ΔTartan distance.
 1. [MacByrd (Personal)](/setts/s8/y50k1r12lb1y12r14lb1r2~x4/) — ΔT 1.59
 1. [Diana, hunting Plaid](/setts/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/) — ΔT 1.60
 1. [Ellis Island](/setts/s13/o68k1dg6b4dg1b12w1dg6ly1dg24ly1dg2ly3~x2/) — ΔT 1.65
-1. [Confederate Memorial](/setts/s10/t12y4r4y4ly2y48r16w1db4w3~x2/) — ΔT 1.66
+1. [Confederate Memorial](/setts/s10/t12y4r4y4ly2y48r16w1db4w3~x2/) — ΔT 1.67
 1. [Tyrone](/setts/s12/m50o6dr7g2dr2w2dr2o16m8dr2m9g3~x2/) — ΔT 1.70
 1. [Tyrone, County](/setts/s12/r50y6do7dg2do2lb2do2y14r8dg2r9dg3~x2/) — ΔT 1.72
 1. [MacByrd (Personal)](/setts/s8/o50k1r12lb1y12r14lb1r2~x4/) — ΔT 1.74
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/y50k1r12lb1y12r14lb1r2~x4/"><circle cx="451.3" cy="134.0" r="4" fill="#3465a4"><title>MacByrd (Personal)</title></circle></a><a href="/setts/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/"><circle cx="400.2" cy="102.6" r="4" fill="#3465a4"><title>Diana, hunting Plaid</title></circle></a><a href="/setts/s13/o68k1dg6b4dg1b12w1dg6ly1dg24ly1dg2ly3~x2/"><circle cx="412.5" cy="71.6" r="4" fill="#3465a4"><title>Ellis Island</title></circle></a><a href="/setts/s10/t12y4r4y4ly2y48r16w1db4w3~x2/"><circle cx="401.8" cy="90.7" r="4" fill="#3465a4"><title>Confederate Memorial</title></circle></a><a href="/setts/s12/m50o6dr7g2dr2w2dr2o16m8dr2m9g3~x2/"><circle cx="456.1" cy="131.4" r="4" fill="#3465a4"><title>Tyrone</title></circle></a><a href="/setts/s12/r50y6do7dg2do2lb2do2y14r8dg2r9dg3~x2/"><circle cx="469.3" cy="131.2" r="4" fill="#3465a4"><title>Tyrone, County</title></circle></a><a href="/setts/s8/o50k1r12lb1y12r14lb1r2~x4/"><circle cx="426.3" cy="114.2" r="4" fill="#3465a4"><title>MacByrd (Personal)</title></circle></a><a href="/setts/s7/o80o8o4dy4lr4dy45n8/"><circle cx="442.6" cy="184.3" r="4" fill="#3465a4"><title>Isaia (Fashion)</title></circle></a><a href="/setts/s12/y38db4y8o2y4w3y4m14n7y2n4w2~x2/"><circle cx="382.5" cy="126.8" r="4" fill="#3465a4"><title>Portree, Check</title></circle></a><a href="/setts/s12/do9k8y15dy50k3r2k2dg1k2do1k1dy9~x2/"><circle cx="426.3" cy="94.6" r="4" fill="#3465a4"><title>Tomatin Distillery</title></circle></a><circle cx="460.4" cy="117.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/y50k1r12lb1y12r14lb1r2~x4/"><circle cx="450.8" cy="134.1" r="4" fill="#3465a4"><title>MacByrd (Personal)</title></circle></a><a href="/setts/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/"><circle cx="399.7" cy="102.7" r="4" fill="#3465a4"><title>Diana, hunting Plaid</title></circle></a><a href="/setts/s13/o68k1dg6b4dg1b12w1dg6ly1dg24ly1dg2ly3~x2/"><circle cx="412.1" cy="71.8" r="4" fill="#3465a4"><title>Ellis Island</title></circle></a><a href="/setts/s10/t12y4r4y4ly2y48r16w1db4w3~x2/"><circle cx="401.3" cy="90.8" r="4" fill="#3465a4"><title>Confederate Memorial</title></circle></a><a href="/setts/s12/m50o6dr7g2dr2w2dr2o16m8dr2m9g3~x2/"><circle cx="455.7" cy="131.5" r="4" fill="#3465a4"><title>Tyrone</title></circle></a><a href="/setts/s12/r50y6do7dg2do2lb2do2y14r8dg2r9dg3~x2/"><circle cx="468.9" cy="131.3" r="4" fill="#3465a4"><title>Tyrone, County</title></circle></a><a href="/setts/s8/o50k1r12lb1y12r14lb1r2~x4/"><circle cx="425.8" cy="114.2" r="4" fill="#3465a4"><title>MacByrd (Personal)</title></circle></a><a href="/setts/s7/o80o8o4dy4lr4dy45n8/"><circle cx="442.2" cy="184.4" r="4" fill="#3465a4"><title>Isaia (Fashion)</title></circle></a><a href="/setts/s12/y38db4y8o2y4w3y4m14n7y2n4w2~x2/"><circle cx="382.1" cy="126.9" r="4" fill="#3465a4"><title>Portree, Check</title></circle></a><a href="/setts/s12/do9k8y15dy50k3r2k2dg1k2do1k1dy9~x2/"><circle cx="426.0" cy="94.8" r="4" fill="#3465a4"><title>Tomatin Distillery</title></circle></a><circle cx="460.0" cy="117.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/o65dr9r11o5t2lo2y5o2lo13~x2/

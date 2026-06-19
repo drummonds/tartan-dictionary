@@ -20,7 +20,7 @@ GWGWBR
 
 
 
-### DG W DG W DT O <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DG W DG W DT O</span></span>
+### O DT W DG W DG <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">O DT W DG W DG</span></span>
 
 | Tartans |
 |---------------|

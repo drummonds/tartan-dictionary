@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4994
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Howells
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -42,10 +48,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Jubilee (Artefact)](/setts/s17/g3lb24g8lb12g44lo6g44lb48g6lb48g44r6g44lb12g8lb24g3/) — ΔT 1.28
+1. [Jubilee (Artefact)](/setts/s17/g3lb24g8lb12g44r6g44lb48g6lb48g44lo6g44lb12g8lb24g3/) — ΔT 1.28
 1. [McGirr, David (Letterkenny)](/setts/s12/dg13r1dg13t6r1w6dg13r1dg13w6r1t6~x2/) — ΔT 1.35
 1. [Platt](/setts/s15/g8db3ly1g6r1g7db7ly1db6r1g3db12g3ly1r1~x2/) — ΔT 1.35
-1. [Dublin Irish County Tartan Tartan Number: 2250. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/lg3o3lg3o16lg3o3lg3dp5lg18r2lg8r3~x2/) — ΔT 1.47
+1. [Dublin Irish County Tartan Tartan Number: 2250. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/r3lg8r2lg18dp5lg3o3lg3o16lg3o3lg3~x2/) — ΔT 1.47
 1. [Bute Heather, Grey (Fashion)](/setts/s11/lr13lr2n38k13n8k8n17k2n17k4o11/) — ΔT 1.51
 1. [Otago Peninsula](/setts/s12/dg4k4m4k2dg12k2dg12k2m4dg4w1r4~x2/) — ΔT 1.55
 1. [Sonsub](/setts/s10/n30k5n19k5n2lr20ly2lr20k5ly4~x2/) — ΔT 1.56
@@ -55,8 +61,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/g3lb24g8lb12g44lo6g44lb48g6lb48g44r6g44lb12g8lb24g3/"><circle cx="295.1" cy="156.4" r="4" fill="#3465a4"><title>Jubilee (Artefact)</title></circle></a><a href="/setts/s12/dg13r1dg13t6r1w6dg13r1dg13w6r1t6~x2/"><circle cx="318.0" cy="179.0" r="4" fill="#3465a4"><title>McGirr, David (Letterkenny)</title></circle></a><a href="/setts/s15/g8db3ly1g6r1g7db7ly1db6r1g3db12g3ly1r1~x2/"><circle cx="261.3" cy="182.6" r="4" fill="#3465a4"><title>Platt</title></circle></a><a href="/setts/s12/lg3o3lg3o16lg3o3lg3dp5lg18r2lg8r3~x2/"><circle cx="300.4" cy="189.3" r="4" fill="#3465a4"><title>Dublin Irish County Tartan Tartan Number: 2250. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/lr13lr2n38k13n8k8n17k2n17k4o11/"><circle cx="333.5" cy="167.0" r="4" fill="#3465a4"><title>Bute Heather, Grey (Fashion)</title></circle></a><a href="/setts/s12/dg4k4m4k2dg12k2dg12k2m4dg4w1r4~x2/"><circle cx="281.4" cy="180.6" r="4" fill="#3465a4"><title>Otago Peninsula</title></circle></a><a href="/setts/s10/n30k5n19k5n2lr20ly2lr20k5ly4~x2/"><circle cx="256.4" cy="173.5" r="4" fill="#3465a4"><title>Sonsub</title></circle></a><a href="/setts/s11/lo2n10k2r5k2n19k2n19g17k2lo2~x2/"><circle cx="286.3" cy="171.4" r="4" fill="#3465a4"><title>Montreat</title></circle></a><a href="/setts/s14/dg4t6dg3t2dg3t2dg3k5dg3k5dg20r3dg4r3~x2/"><circle cx="332.5" cy="192.0" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><a href="/setts/s9/lo24do2lo3dy6lo3do2dg15lo20do4~x2/"><circle cx="365.4" cy="189.3" r="4" fill="#3465a4"><title>Land's End Camel</title></circle></a><circle cx="314.1" cy="169.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/g3lb24g8lb12g44r6g44lb48g6lb48g44lo6g44lb12g8lb24g3/"><circle cx="294.8" cy="156.2" r="4" fill="#3465a4"><title>Jubilee (Artefact)</title></circle></a><a href="/setts/s12/dg13r1dg13t6r1w6dg13r1dg13w6r1t6~x2/"><circle cx="317.8" cy="178.8" r="4" fill="#3465a4"><title>McGirr, David (Letterkenny)</title></circle></a><a href="/setts/s15/g8db3ly1g6r1g7db7ly1db6r1g3db12g3ly1r1~x2/"><circle cx="261.2" cy="182.5" r="4" fill="#3465a4"><title>Platt</title></circle></a><a href="/setts/s12/r3lg8r2lg18dp5lg3o3lg3o16lg3o3lg3~x2/"><circle cx="300.1" cy="189.2" r="4" fill="#3465a4"><title>Dublin Irish County Tartan Tartan Number: 2250. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/lr13lr2n38k13n8k8n17k2n17k4o11/"><circle cx="333.4" cy="167.0" r="4" fill="#3465a4"><title>Bute Heather, Grey (Fashion)</title></circle></a><a href="/setts/s12/dg4k4m4k2dg12k2dg12k2m4dg4w1r4~x2/"><circle cx="281.3" cy="180.6" r="4" fill="#3465a4"><title>Otago Peninsula</title></circle></a><a href="/setts/s10/n30k5n19k5n2lr20ly2lr20k5ly4~x2/"><circle cx="256.2" cy="173.4" r="4" fill="#3465a4"><title>Sonsub</title></circle></a><a href="/setts/s11/lo2n10k2r5k2n19k2n19g17k2lo2~x2/"><circle cx="286.2" cy="171.3" r="4" fill="#3465a4"><title>Montreat</title></circle></a><a href="/setts/s14/dg4t6dg3t2dg3t2dg3k5dg3k5dg20r3dg4r3~x2/"><circle cx="332.3" cy="191.9" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><a href="/setts/s9/lo24do2lo3dy6lo3do2dg15lo20do4~x2/"><circle cx="365.1" cy="189.1" r="4" fill="#3465a4"><title>Land's End Camel</title></circle></a><circle cx="313.8" cy="169.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/o8r1dg3o5r1o5dg3o4dg12o14ly1o14dg12ly2r3~x2/

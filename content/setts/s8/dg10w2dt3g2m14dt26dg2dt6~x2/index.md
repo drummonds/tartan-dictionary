@@ -2,7 +2,7 @@
 title: "Spirit of Fife (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BGBRGBWG](/stripes/bgbrgbwg/) · **Stripes:** [DT DG DT M G DT W DG](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">DT DG DT M G DT W DG</span></span>
+**Bands:** [GWBGRBGB](/stripes/gwbgrbgb/) · **Stripes:** [DG W DT G M DT DG DT](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="seq">DG W DT G M DT DG DT</span></span>
 
 
 This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/
 Original link http://www.tartansauthority.com/tartan-ferret/display/6526/
 
 ## Thread count
-DB/12 Ga4 DB52 P28 G4 DN6 W4 Ga/20
+Ga/20 W4 DN6 G4 P28 DB52 Ga4 DB/12
 ![Sett](sett.png)
 
 ## Palette
@@ -27,7 +27,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/12 Ga4 DB52 P28 G4 DN6 W4 Ga/20 tartan")
+![Tartan detail](tartan.png "Ga/20 W4 DN6 G4 P28 DB52 Ga4 DB/12 tartan")
 
 ## Nearest tartans
 
@@ -35,7 +35,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Wrigglesworth Family Canada (Personal)](/setts/s7/db30n10y10db5r3ly3g3~x2/) — ΔT 0.77
 1. [State Seal of Iowa (Fashion)](/setts/s8/dt5b43dt18lb4b6r5dy25lo5~x2/) — ΔT 0.82
-1. [Suzugamine (Corporate)](/setts/s9/db4dy5g19dp5dy5k5dy5db36ly3~x2/) — ΔT 0.91
+1. [Suzugamine (Corporate)](/setts/s9/db4dy5g19dp5dy5k5dy5db36ly3~x2/) — ΔT 0.92
 1. [Margach, William (Personal)](/setts/s6/m4k3b18r3dt34w3~x2/) — ΔT 0.99
 1. [Blue Ridge Highlands Heritage](/setts/s8/t27db9lb3g6db33lb3dr3ly2~x2/) — ΔT 0.99
 1. [Kansai St Andrews Society](/setts/s10/db30w2r3w2db14lr3dg14db18r2db3~x2/) — ΔT 1.09
@@ -46,8 +46,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db30n10y10db5r3ly3g3~x2/"><circle cx="275.6" cy="181.2" r="4" fill="#3465a4"><title>Wrigglesworth Family Canada (Personal)</title></circle></a><a href="/setts/s8/dt5b43dt18lb4b6r5dy25lo5~x2/"><circle cx="219.7" cy="176.0" r="4" fill="#3465a4"><title>State Seal of Iowa (Fashion)</title></circle></a><a href="/setts/s9/db4dy5g19dp5dy5k5dy5db36ly3~x2/"><circle cx="224.3" cy="156.0" r="4" fill="#3465a4"><title>Suzugamine (Corporate)</title></circle></a><a href="/setts/s6/m4k3b18r3dt34w3~x2/"><circle cx="276.1" cy="175.6" r="4" fill="#3465a4"><title>Margach, William (Personal)</title></circle></a><a href="/setts/s8/t27db9lb3g6db33lb3dr3ly2~x2/"><circle cx="263.7" cy="146.0" r="4" fill="#3465a4"><title>Blue Ridge Highlands Heritage</title></circle></a><a href="/setts/s10/db30w2r3w2db14lr3dg14db18r2db3~x2/"><circle cx="282.6" cy="148.6" r="4" fill="#3465a4"><title>Kansai St Andrews Society</title></circle></a><a href="/setts/s10/n9r1g9db19w2db19g9r1n9r1~x2/"><circle cx="258.1" cy="161.2" r="4" fill="#3465a4"><title>Wilton (Toronto) (Personal)</title></circle></a><a href="/setts/s9/db60lo3db5lo5db9do20lo4g32lb4~x2/"><circle cx="286.0" cy="131.7" r="4" fill="#3465a4"><title>State Seal of Ohio (Fashion)</title></circle></a><a href="/setts/s8/dy2db4ly3dg28db28w2db4n2~x2/"><circle cx="300.7" cy="160.8" r="4" fill="#3465a4"><title>Laurentian University</title></circle></a><a href="/setts/s6/m4k3t18r3dp34w3~x2/"><circle cx="294.4" cy="175.5" r="4" fill="#3465a4"><title>Margach, William (Dumbarton)</title></circle></a><circle cx="252.4" cy="167.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db30n10y10db5r3ly3g3~x2/"><circle cx="275.5" cy="181.3" r="4" fill="#3465a4"><title>Wrigglesworth Family Canada (Personal)</title></circle></a><a href="/setts/s8/dt5b43dt18lb4b6r5dy25lo5~x2/"><circle cx="219.6" cy="176.1" r="4" fill="#3465a4"><title>State Seal of Iowa (Fashion)</title></circle></a><a href="/setts/s9/db4dy5g19dp5dy5k5dy5db36ly3~x2/"><circle cx="224.3" cy="156.1" r="4" fill="#3465a4"><title>Suzugamine (Corporate)</title></circle></a><a href="/setts/s6/m4k3b18r3dt34w3~x2/"><circle cx="276.1" cy="175.6" r="4" fill="#3465a4"><title>Margach, William (Personal)</title></circle></a><a href="/setts/s8/t27db9lb3g6db33lb3dr3ly2~x2/"><circle cx="263.6" cy="146.0" r="4" fill="#3465a4"><title>Blue Ridge Highlands Heritage</title></circle></a><a href="/setts/s10/db30w2r3w2db14lr3dg14db18r2db3~x2/"><circle cx="282.6" cy="148.6" r="4" fill="#3465a4"><title>Kansai St Andrews Society</title></circle></a><a href="/setts/s10/n9r1g9db19w2db19g9r1n9r1~x2/"><circle cx="258.1" cy="161.3" r="4" fill="#3465a4"><title>Wilton (Toronto) (Personal)</title></circle></a><a href="/setts/s9/db60lo3db5lo5db9do20lo4g32lb4~x2/"><circle cx="286.0" cy="131.7" r="4" fill="#3465a4"><title>State Seal of Ohio (Fashion)</title></circle></a><a href="/setts/s8/dy2db4ly3dg28db28w2db4n2~x2/"><circle cx="300.7" cy="160.9" r="4" fill="#3465a4"><title>Laurentian University</title></circle></a><a href="/setts/s6/m4k3t18r3dp34w3~x2/"><circle cx="294.3" cy="175.6" r="4" fill="#3465a4"><title>Margach, William (Dumbarton)</title></circle></a><circle cx="252.4" cy="167.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/dg10w2dt3g2m14dt26dg2dt6~x2/

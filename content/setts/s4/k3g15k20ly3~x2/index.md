@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7783/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Scotch Tape #2
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -61,12 +67,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Innes, Georgina (Portrait)](/setts/s6/g7k1g7t1k6t1~x4/) — ΔT 1.23
 1. [Wallace Hunting](/setts/s4/k1dg8k8ly1/) — ΔT 1.26
 1. [Kincaid](/setts/s3/k11dg17r3~x2/) — ΔT 1.30
-1. [Confederate Infantry](/setts/s6/db2dg12o3dg8o14dg2~x2/) — ΔT 1.31
+1. [Confederate Infantry](/setts/s6/dg2o14dg8o3dg12db2~x2/) — ΔT 1.31
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k9g3k3g12ly2~x4/"><circle cx="282.4" cy="278.7" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/setts/s4/g10k2dp5g1~x8/"><circle cx="355.7" cy="264.1" r="4" fill="#3465a4"><title>Bumbee #1 (Fashion)</title></circle></a><a href="/setts/s4/k30lb7g36k5~x2/"><circle cx="264.5" cy="277.1" r="4" fill="#3465a4"><title>Innes Hunting</title></circle></a><a href="/setts/s3/g9k18r2~x4/"><circle cx="343.2" cy="277.9" r="4" fill="#3465a4"><title>Cowie, Justine (Personal)</title></circle></a><a href="/setts/s3/k11dg17r3/"><circle cx="283.3" cy="315.1" r="4" fill="#3465a4"><title>Kincaid</title></circle></a><a href="/setts/s4/k1g8k8ly1~x4/"><circle cx="280.6" cy="262.1" r="4" fill="#3465a4"><title>Wallace Htg (Clan)</title></circle></a><a href="/setts/s6/g7k1g7t1k6t1~x4/"><circle cx="310.8" cy="256.0" r="4" fill="#3465a4"><title>Innes, Georgina (Portrait)</title></circle></a><a href="/setts/s4/k1dg8k8ly1/"><circle cx="302.4" cy="272.8" r="4" fill="#3465a4"><title>Wallace Hunting</title></circle></a><a href="/setts/s3/k11dg17r3~x2/"><circle cx="294.8" cy="320.5" r="4" fill="#3465a4"><title>Kincaid</title></circle></a><a href="/setts/s6/db2dg12o3dg8o14dg2~x2/"><circle cx="313.8" cy="262.2" r="4" fill="#3465a4"><title>Confederate Infantry</title></circle></a><circle cx="311.8" cy="278.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k9g3k3g12ly2~x4/"><circle cx="282.5" cy="278.4" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/setts/s4/g10k2dp5g1~x8/"><circle cx="355.8" cy="263.8" r="4" fill="#3465a4"><title>Bumbee #1 (Fashion)</title></circle></a><a href="/setts/s4/k30lb7g36k5~x2/"><circle cx="264.6" cy="276.9" r="4" fill="#3465a4"><title>Innes Hunting</title></circle></a><a href="/setts/s3/g9k18r2~x4/"><circle cx="343.3" cy="277.5" r="4" fill="#3465a4"><title>Cowie, Justine (Personal)</title></circle></a><a href="/setts/s3/k11dg17r3/"><circle cx="283.5" cy="314.9" r="4" fill="#3465a4"><title>Kincaid</title></circle></a><a href="/setts/s4/k1g8k8ly1~x4/"><circle cx="280.8" cy="261.8" r="4" fill="#3465a4"><title>Wallace Htg (Clan)</title></circle></a><a href="/setts/s6/g7k1g7t1k6t1~x4/"><circle cx="310.9" cy="255.7" r="4" fill="#3465a4"><title>Innes, Georgina (Portrait)</title></circle></a><a href="/setts/s4/k1dg8k8ly1/"><circle cx="302.7" cy="272.6" r="4" fill="#3465a4"><title>Wallace Hunting</title></circle></a><a href="/setts/s3/k11dg17r3~x2/"><circle cx="295.0" cy="320.3" r="4" fill="#3465a4"><title>Kincaid</title></circle></a><a href="/setts/s6/dg2o14dg8o3dg12db2~x2/"><circle cx="313.8" cy="262.0" r="4" fill="#3465a4"><title>Confederate Infantry</title></circle></a><circle cx="311.9" cy="278.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/k3g15k20ly3~x2/

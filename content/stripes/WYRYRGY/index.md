@@ -20,7 +20,7 @@ WYRYRGY
 
 
 
-### LB LO M LO O G LG <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#82D67A"></span><span class="seq">LB LO M LO O G LG</span></span>
+### LG G O LO M LO LB <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LG G O LO M LO LB</span></span>
 
 | Tartans |
 |---------------|

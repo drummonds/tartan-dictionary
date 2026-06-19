@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-Ba/8 DR4 Ba20 DR20 LT34 Y8 LT34 DR20 LN10 K10 LN36 B6 LN/12
+LN/12 B6 LN36 K10 LN10 DR20 LT34 Y8 LT34 DR20 Ba20 DR4 Ba/8
 ![Sett](sett.png)
 
 ## Palette
@@ -918,8 +921,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/w6db3w18k5w5dy10o17ly4o17dy10t10dy2t4~x2/"><circle cx="30.8" cy="126.3" r="4" fill="#3465a4"><title>Gordon dress #5</title></circle></a><a href="/setts/s15/k6dg10w10k2w23db10w2k6ly2k8dg10r12dg4r8w4/"><circle cx="56.9" cy="120.6" r="4" fill="#3465a4"><title>Stuart/Stewart variant</title></circle></a><a href="/setts/s14/r2lb11w4lb5db6ly1k1w1k1g8r8k1r4w1~x2/"><circle cx="41.5" cy="93.3" r="4" fill="#3465a4"><title>Albert (Silk)</title></circle></a><a href="/setts/s14/w8db3w10o8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="66.0" cy="120.8" r="4" fill="#3465a4"><title>MacInnes Ancient Hunting</title></circle></a><a href="/setts/s14/w8db3w10dy8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="64.7" cy="123.4" r="4" fill="#3465a4"><title>MacInnes Hunting Dress Clan Tartan Tartan Number: 1614. Earliest known date: pre 2003 Could also be Dress Red MacPherson See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/k6o7dy36k17o17ly34db6ly6db6ly34o17k17r39w4r6/"><circle cx="33.6" cy="106.4" r="4" fill="#3465a4"><title>Ruairidh (Personal)</title></circle></a><a href="/setts/s14/w8db3w10lo8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="64.4" cy="122.0" r="4" fill="#3465a4"><title>MacInnes Ancient Htg (Clan?)</title></circle></a><a href="/setts/s15/k6g10w10k2w23db10w2k6ly2k8g10r12g4r8w4/"><circle cx="49.1" cy="119.3" r="4" fill="#3465a4"><title>Stewart, Variant</title></circle></a><a href="/setts/s13/k2w1lo6r6w1k2lb2do3lb2k1lb2g3lb2~x2/"><circle cx="14.0" cy="132.4" r="4" fill="#3465a4"><title>Hovington (2014)</title></circle></a><a href="/setts/s13/r6k2r12dg10k3w2k3ly2k8w4db6w12r4/"><circle cx="26.0" cy="151.6" r="4" fill="#3465a4"><title>Victoria (Patons)</title></circle></a><circle cx="29.7" cy="125.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/w6db3w18k5w5dy10o17ly4o17dy10t10dy2t4~x2/"><circle cx="30.7" cy="126.5" r="4" fill="#3465a4"><title>Gordon dress #5</title></circle></a><a href="/setts/s15/k6dg10w10k2w23db10w2k6ly2k8dg10r12dg4r8w4/"><circle cx="56.8" cy="120.7" r="4" fill="#3465a4"><title>Stuart/Stewart variant</title></circle></a><a href="/setts/s14/r2lb11w4lb5db6ly1k1w1k1g8r8k1r4w1~x2/"><circle cx="41.3" cy="93.5" r="4" fill="#3465a4"><title>Albert (Silk)</title></circle></a><a href="/setts/s14/w8db3w10o8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="65.8" cy="120.9" r="4" fill="#3465a4"><title>MacInnes Ancient Hunting</title></circle></a><a href="/setts/s14/w8db3w10dy8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="64.6" cy="123.4" r="4" fill="#3465a4"><title>MacInnes Hunting Dress Clan Tartan Tartan Number: 1614. Earliest known date: pre 2003 Could also be Dress Red MacPherson See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/k6o7dy36k17o17ly34db6ly6db6ly34o17k17r39w4r6/"><circle cx="33.4" cy="106.6" r="4" fill="#3465a4"><title>Ruairidh (Personal)</title></circle></a><a href="/setts/s14/w8db3w10lo8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="64.3" cy="122.1" r="4" fill="#3465a4"><title>MacInnes Ancient Htg (Clan?)</title></circle></a><a href="/setts/s15/k6g10w10k2w23db10w2k6ly2k8g10r12g4r8w4/"><circle cx="49.1" cy="119.4" r="4" fill="#3465a4"><title>Stewart, Variant</title></circle></a><a href="/setts/s13/k2w1lo6r6w1k2lb2do3lb2k1lb2g3lb2~x2/"><circle cx="14.0" cy="132.6" r="4" fill="#3465a4"><title>Hovington (2014)</title></circle></a><a href="/setts/s13/r6k2r12dg10k3w2k3ly2k8w4db6w12r4/"><circle cx="25.9" cy="151.7" r="4" fill="#3465a4"><title>Victoria (Patons)</title></circle></a><circle cx="29.7" cy="125.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/w6db3w18k5w5dr10o17ly4o17dr10t10dr2t4~x2/

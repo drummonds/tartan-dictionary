@@ -22,6 +22,6 @@ GWGKWKWGWGW
 
 | Tartans |
 |---------------|
-| [Clergy 6](/setts/s11/w1y3w1y1w1k6w1k6y6w1y1~x2/)|
-|![Clergy 6 example sett](/setts/s11/w1y3w1y1w1k6w1k6y6w1y1~x2/sett.png)|
+| [Clergy 6](/setts/s11/y1w1y6k6w1k6w1y1w1y3w1~x2/)|
+|![Clergy 6 example sett](/setts/s11/y1w1y6k6w1k6w1y1w1y3w1~x2/sett.png)|
 

@@ -2,7 +2,7 @@
 title: "Buccleuch"
 date: 2023-03-18
 ---
-**Bands:** [RGRBRKR](/stripes/rgrbrkr/) · **Stripes:** [R G R DB R K R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G R DB R K R</span></span>
+**Bands:** [RKRBRGR](/stripes/rkrbrgr/) · **Stripes:** [R K R DB R G R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R DB R G R</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-R/14 G51 R5 B41 R5 K9 R/107
+R/107 K9 R5 B41 R5 G51 R/14
 ![Sett](sett.png)
 
 ## Palette
@@ -907,27 +910,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "R/14 G51 R5 B41 R5 K9 R/107 tartan")
+![Tartan detail](tartan.png "R/107 K9 R5 B41 R5 G51 R/14 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Plummer (Personal)](/setts/s6/r100k15g48db5r7db16~x2/) — ΔT 0.40
+1. [Plummer (Personal)](/setts/s6/r100k15g48db5r7db16~x2/) — ΔT 0.41
 1. [MacPhail](/setts/s6/r25k7r3g13y1k2~x4/) — ΔT 0.60
 1. [Fraser (1745)](/setts/s6/r2db12r2g12r24w1~x2/) — ΔT 0.71
 1. [Buccleuch](/setts/s7/r107k9r5dp41r5g51r14/) — ΔT 0.83
 1. [Spens](/setts/s8/r56w2db6w2g32r11db6w5/) — ΔT 0.87
-1. [McInally (Name)](/setts/s7/lo3g2r28k6r4g16r3~x2/) — ΔT 0.89
-1. [Menzies](/setts/s8/r12g9w1t3r24t3w1g9~x8/) — ΔT 0.90
+1. [McInally (Name)](/setts/s7/r3g16r4k6r28g2lo3~x2/) — ΔT 0.89
+1. [Menzies](/setts/s8/r24t3w1g9r12~x8/) — ΔT 0.90
 1. [Cruikshank (Name)](/setts/s9/r4g15db8g4r48g4db8g4ly3~x2/) — ΔT 0.91
 1. [Carrick (Clan)](/setts/s9/r28db12r3g20dp1g2dp1g2r7~x2/) — ΔT 0.93
 1. [Chisholm](/setts/s10/r6w1r24db6g2db1g2db1g12r1~x2/) — ΔT 0.93
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r100k15g48db5r7db16~x2/"><circle cx="356.6" cy="163.5" r="4" fill="#3465a4"><title>Plummer (Personal)</title></circle></a><a href="/setts/s6/r25k7r3g13y1k2~x4/"><circle cx="351.9" cy="158.3" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/setts/s6/r2db12r2g12r24w1~x2/"><circle cx="333.7" cy="163.4" r="4" fill="#3465a4"><title>Fraser (1745)</title></circle></a><a href="/setts/s7/r107k9r5dp41r5g51r14/"><circle cx="364.3" cy="153.1" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/setts/s8/r56w2db6w2g32r11db6w5/"><circle cx="360.8" cy="124.0" r="4" fill="#3465a4"><title>Spens</title></circle></a><a href="/setts/s7/lo3g2r28k6r4g16r3~x2/"><circle cx="345.8" cy="171.5" r="4" fill="#3465a4"><title>McInally (Name)</title></circle></a><a href="/setts/s8/r12g9w1t3r24t3w1g9~x8/"><circle cx="374.5" cy="155.0" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s9/r4g15db8g4r48g4db8g4ly3~x2/"><circle cx="334.6" cy="140.9" r="4" fill="#3465a4"><title>Cruikshank (Name)</title></circle></a><a href="/setts/s9/r28db12r3g20dp1g2dp1g2r7~x2/"><circle cx="336.1" cy="135.9" r="4" fill="#3465a4"><title>Carrick (Clan)</title></circle></a><a href="/setts/s10/r6w1r24db6g2db1g2db1g12r1~x2/"><circle cx="365.1" cy="123.1" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><circle cx="352.5" cy="153.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r100k15g48db5r7db16~x2/"><circle cx="356.2" cy="163.3" r="4" fill="#3465a4"><title>Plummer (Personal)</title></circle></a><a href="/setts/s6/r25k7r3g13y1k2~x4/"><circle cx="351.6" cy="158.2" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/setts/s6/r2db12r2g12r24w1~x2/"><circle cx="333.4" cy="163.2" r="4" fill="#3465a4"><title>Fraser (1745)</title></circle></a><a href="/setts/s7/r107k9r5dp41r5g51r14/"><circle cx="363.9" cy="153.0" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/setts/s8/r56w2db6w2g32r11db6w5/"><circle cx="360.3" cy="123.9" r="4" fill="#3465a4"><title>Spens</title></circle></a><a href="/setts/s7/r3g16r4k6r28g2lo3~x2/"><circle cx="345.5" cy="171.4" r="4" fill="#3465a4"><title>McInally (Name)</title></circle></a><a href="/setts/s8/r24t3w1g9r12~x8/"><circle cx="374.1" cy="154.9" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s9/r4g15db8g4r48g4db8g4ly3~x2/"><circle cx="334.2" cy="140.8" r="4" fill="#3465a4"><title>Cruikshank (Name)</title></circle></a><a href="/setts/s9/r28db12r3g20dp1g2dp1g2r7~x2/"><circle cx="335.8" cy="135.8" r="4" fill="#3465a4"><title>Carrick (Clan)</title></circle></a><a href="/setts/s10/r6w1r24db6g2db1g2db1g12r1~x2/"><circle cx="364.7" cy="123.0" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><circle cx="352.2" cy="153.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r107k9r5db41r5g51r14/

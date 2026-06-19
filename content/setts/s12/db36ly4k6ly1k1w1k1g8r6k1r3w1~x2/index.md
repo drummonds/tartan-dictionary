@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db36ly4k5w1k1w1k2g8r6k1r3w1~x4/"><circle cx="287.2" cy="52.8" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/setts/s14/db72r11k12ly2r2w3r2k2r10g18r10k3r3w2~x2/"><circle cx="266.9" cy="43.9" r="4" fill="#3465a4"><title>Unidentified, specimen</title></circle></a><a href="/setts/s12/db40ly4k3w2k3w2k3g10r6k2r4w2~x2/"><circle cx="229.7" cy="71.5" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/setts/s12/r2k34w2k2o27g1o2k3o2ly1o2r2~x2/"><circle cx="291.0" cy="54.9" r="4" fill="#3465a4"><title>Hudson's Bay Company</title></circle></a><a href="/setts/s12/t57db4k8ly4k4t4k4g8r6k4r4t2/"><circle cx="301.9" cy="59.0" r="4" fill="#3465a4"><title>Royal Stewart, (Variant)</title></circle></a><a href="/setts/s10/w2lo4db1lo1db40o6g18r2g2w1~x2/"><circle cx="302.1" cy="64.5" r="4" fill="#3465a4"><title>O'Mahony, The (Commemorative)</title></circle></a><a href="/setts/s12/ly6w2n4lb1db6lb1db40lb1db6lb1n4w4~x2/"><circle cx="285.4" cy="48.0" r="4" fill="#3465a4"><title>Moskyok-Collins (Portland) (Personal</title></circle></a><a href="/setts/s12/db40ly4k3w2k3w2k3dg10r6k2r4w2~x2/"><circle cx="243.5" cy="77.4" r="4" fill="#3465a4"><title>MacBeth #2</title></circle></a><a href="/setts/s17/w2k32o5n3o2n3o2n3o1n6ly3k2ly1w3ly2k2w1~x2/"><circle cx="249.3" cy="36.1" r="4" fill="#3465a4"><title>Cornish Pascoe (Name)</title></circle></a><a href="/setts/s14/db72r11k12ly2r2w3r2k2r10dg18r10k3r3w2~x2/"><circle cx="280.3" cy="48.8" r="4" fill="#3465a4"><title>Unidentified Specimen</title></circle></a><circle cx="279.4" cy="49.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db36ly4k5w1k1w1k2g8r6k1r3w1~x4/"><circle cx="287.0" cy="52.8" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/setts/s14/db72r11k12ly2r2w3r2k2r10g18r10k3r3w2~x2/"><circle cx="266.7" cy="44.0" r="4" fill="#3465a4"><title>Unidentified, specimen</title></circle></a><a href="/setts/s12/db40ly4k3w2k3w2k3g10r6k2r4w2~x2/"><circle cx="229.6" cy="71.6" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/setts/s12/r2k34w2k2o27g1o2k3o2ly1o2r2~x2/"><circle cx="290.9" cy="54.9" r="4" fill="#3465a4"><title>Hudson's Bay Company</title></circle></a><a href="/setts/s12/t57db4k8ly4k4t4k4g8r6k4r4t2/"><circle cx="301.7" cy="59.0" r="4" fill="#3465a4"><title>Royal Stewart, (Variant)</title></circle></a><a href="/setts/s10/w2lo4db1lo1db40o6g18r2g2w1~x2/"><circle cx="301.9" cy="64.4" r="4" fill="#3465a4"><title>O'Mahony, The (Commemorative)</title></circle></a><a href="/setts/s12/ly6w2n4lb1db6lb1db40lb1db6lb1n4w4~x2/"><circle cx="285.3" cy="48.0" r="4" fill="#3465a4"><title>Moskyok-Collins (Portland) (Personal</title></circle></a><a href="/setts/s12/db40ly4k3w2k3w2k3dg10r6k2r4w2~x2/"><circle cx="243.3" cy="77.5" r="4" fill="#3465a4"><title>MacBeth #2</title></circle></a><a href="/setts/s17/w2k32o5n3o2n3o2n3o1n6ly3k2ly1w3ly2k2w1~x2/"><circle cx="249.1" cy="36.1" r="4" fill="#3465a4"><title>Cornish Pascoe (Name)</title></circle></a><a href="/setts/s14/db72r11k12ly2r2w3r2k2r10dg18r10k3r3w2~x2/"><circle cx="280.0" cy="48.9" r="4" fill="#3465a4"><title>Unidentified Specimen</title></circle></a><circle cx="279.3" cy="49.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/db36ly4k6ly1k1w1k1g8r6k1r3w1~x2/

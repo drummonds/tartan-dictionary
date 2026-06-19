@@ -8,7 +8,7 @@ RBYBY
 
 It is a 5 band tartan.
 
-![Woven sample](/setts/s5/lo1db9lo2db9r1~x4/tartan.png)
+![Woven sample](/setts/s5/r1db9lo2db9lo1~x4/tartan.png)
 
 
 
@@ -25,15 +25,15 @@ Grouped by stripe pattern — the 4 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Brooks Brothers Tattersall Blue](/setts/s5/lo1db9lo2db9r1~x4/)|
-|![Brooks Brothers Tattersall Blue example sett](/setts/s5/lo1db9lo2db9r1~x4/sett.png)|
+| [Brooks Brothers Tattersall Blue](/setts/s5/r1db9lo2db9lo1~x4/)|
+|![Brooks Brothers Tattersall Blue example sett](/setts/s5/r1db9lo2db9lo1~x4/sett.png)|
 
 ### R DB LY N LY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DB LY N LY</span></span>
 
 | Tartans |
 |---------------|
-| [Inspiration](/setts/s5/ly5n21ly11db12r5~x2/)|
-|![Inspiration example sett](/setts/s5/ly5n21ly11db12r5~x2/sett.png)|
+| [Inspiration](/setts/s5/r5db12ly11n21ly5~x2/)|
+|![Inspiration example sett](/setts/s5/r5db12ly11n21ly5~x2/sett.png)|
 
 ### R N LY N LY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R N LY N LY</span></span>
 
@@ -46,6 +46,6 @@ Grouped by stripe pattern — the 4 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Inspiration](/setts/s5/lo5dt21ly11t12r5~x2/)|
-|![Inspiration example sett](/setts/s5/lo5dt21ly11t12r5~x2/sett.png)|
+| [Inspiration](/setts/s5/r5t12ly11dt21lo5~x2/)|
+|![Inspiration example sett](/setts/s5/r5t12ly11dt21lo5~x2/sett.png)|
 

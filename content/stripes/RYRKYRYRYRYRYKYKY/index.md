@@ -22,6 +22,6 @@ RYRKYRYRYRYRYKYKY
 
 | Tartans |
 |---------------|
-| [Internationale, The](/setts/s17/ly4k1ly2k6lr16r2lr1r2lr4r2lr1r2lr8k1r24lr2r4~x2/)|
-|![Internationale, The example sett](/setts/s17/ly4k1ly2k6lr16r2lr1r2lr4r2lr1r2lr8k1r24lr2r4~x2/sett.png)|
+| [Internationale, The](/setts/s17/r4lr2r24k1lr8r2lr1r2lr4r2lr1r2lr16k6ly2k1ly4~x2/)|
+|![Internationale, The example sett](/setts/s17/r4lr2r24k1lr8r2lr1r2lr4r2lr1r2lr16k6ly2k1ly4~x2/sett.png)|
 

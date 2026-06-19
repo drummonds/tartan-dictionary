@@ -6,5 +6,4 @@ date: 2023-03-18
 
 - [Lloyd of Astargus](/families/lloyd-of-astargus/)
 - [Lloyd of Dolobran](/families/lloyd-of-dolobran/)
-- [Lloyd of Wales](/families/lloyd-of-wales/)
 

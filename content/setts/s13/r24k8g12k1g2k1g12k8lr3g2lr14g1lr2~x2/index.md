@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7154
 
 ## Thread count
-LR/4 Ga2 LR28 Ga4 LR6 K16 G24 K2 Ga4 K2 G24 K16 R/48
+R/48 K16 G24 K2 Ga4 K2 G24 K16 LR6 Ga4 LR28 Ga2 LR/4
 ![Sett](sett.png)
 
 ## Palette
@@ -48,9 +48,9 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Palmer, Edward](/setts/s13/r4dg20k16ly2k3w3k2w18r6k2r4k1w2~x2/) — ΔT 1.12
-1. [Buchanan D](/setts/s13/lb2dg16k1lb2k1ly4k1ly4k1lb2k1r16lb2/) — ΔT 1.20
+1. [Buchanan D](/setts/s13/lb2dg16k1lb2k1ly4k1ly4k1lb2k1r16lb2~x2/) — ΔT 1.20
 1. [Johnson, J.M.](/setts/s13/r4dg20k16lo2k3w3k2lo18r6k2r4k1w2~x4/) — ΔT 1.23
-1. [Forrester / Foster](/setts/s9/ly4g6ly1g15r23db15w1db6w4~x2/) — ΔT 1.23
+1. [Forrester / Foster](/setts/s9/w4db6w1db15r23g15ly1g6ly4~x2/) — ΔT 1.23
 1. [Stewart - Pr Ch Ed (Error?)](/setts/s12/r16t10k14w2k4w3k4g26r11k4r4w2~x2/) — ΔT 1.31
 1. [Border Union Cattle Show](/setts/s10/dr20k4g14k1o2k1g14k10w22o7~x2/) — ΔT 1.35
 1. [Buchanan (Logan)](/setts/s13/t2dg16k1t2k1ly4k1ly4k1t2k1r16w2~x4/) — ΔT 1.37
@@ -60,8 +60,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r4dg20k16ly2k3w3k2w18r6k2r4k1w2~x2/"><circle cx="112.4" cy="94.1" r="4" fill="#3465a4"><title>Palmer, Edward</title></circle></a><a href="/setts/s13/lb2dg16k1lb2k1ly4k1ly4k1lb2k1r16lb2/"><circle cx="127.5" cy="83.0" r="4" fill="#3465a4"><title>Buchanan D</title></circle></a><a href="/setts/s13/r4dg20k16lo2k3w3k2lo18r6k2r4k1w2~x4/"><circle cx="123.3" cy="104.4" r="4" fill="#3465a4"><title>Johnson, J.M.</title></circle></a><a href="/setts/s9/ly4g6ly1g15r23db15w1db6w4~x2/"><circle cx="161.7" cy="132.0" r="4" fill="#3465a4"><title>Forrester / Foster</title></circle></a><a href="/setts/s12/r16t10k14w2k4w3k4g26r11k4r4w2~x2/"><circle cx="124.5" cy="139.3" r="4" fill="#3465a4"><title>Stewart - Pr Ch Ed (Error?)</title></circle></a><a href="/setts/s10/dr20k4g14k1o2k1g14k10w22o7~x2/"><circle cx="102.7" cy="126.9" r="4" fill="#3465a4"><title>Border Union Cattle Show</title></circle></a><a href="/setts/s13/t2dg16k1t2k1ly4k1ly4k1t2k1r16w2~x4/"><circle cx="126.0" cy="76.8" r="4" fill="#3465a4"><title>Buchanan (Logan)</title></circle></a><a href="/setts/s13/t4dg25k2t4k2ly8k3ly8k2t4k2r25w4~x2/"><circle cx="87.4" cy="95.3" r="4" fill="#3465a4"><title>Buchanan #4</title></circle></a><a href="/setts/s12/dg6ly5w1dg2w1dg5w1dg2w1r15dp2w1~x2/"><circle cx="178.8" cy="108.6" r="4" fill="#3465a4"><title>Dunblane</title></circle></a><a href="/setts/s12/dg6ly5w1dg2w1dg5w1dg2w1r15dp2w1~x4/"><circle cx="178.8" cy="108.6" r="4" fill="#3465a4"><title>Dunblane (District)</title></circle></a><circle cx="124.2" cy="96.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r4dg20k16ly2k3w3k2w18r6k2r4k1w2~x2/"><circle cx="112.3" cy="94.1" r="4" fill="#3465a4"><title>Palmer, Edward</title></circle></a><a href="/setts/s13/lb2dg16k1lb2k1ly4k1ly4k1lb2k1r16lb2~x2/"><circle cx="127.2" cy="83.0" r="4" fill="#3465a4"><title>Buchanan D</title></circle></a><a href="/setts/s13/r4dg20k16lo2k3w3k2lo18r6k2r4k1w2~x4/"><circle cx="123.3" cy="104.5" r="4" fill="#3465a4"><title>Johnson, J.M.</title></circle></a><a href="/setts/s9/w4db6w1db15r23g15ly1g6ly4~x2/"><circle cx="161.5" cy="132.1" r="4" fill="#3465a4"><title>Forrester / Foster</title></circle></a><a href="/setts/s12/r16t10k14w2k4w3k4g26r11k4r4w2~x2/"><circle cx="124.4" cy="139.4" r="4" fill="#3465a4"><title>Stewart - Pr Ch Ed (Error?)</title></circle></a><a href="/setts/s10/dr20k4g14k1o2k1g14k10w22o7~x2/"><circle cx="102.7" cy="127.0" r="4" fill="#3465a4"><title>Border Union Cattle Show</title></circle></a><a href="/setts/s13/t2dg16k1t2k1ly4k1ly4k1t2k1r16w2~x4/"><circle cx="125.8" cy="76.9" r="4" fill="#3465a4"><title>Buchanan (Logan)</title></circle></a><a href="/setts/s13/t4dg25k2t4k2ly8k3ly8k2t4k2r25w4~x2/"><circle cx="87.2" cy="95.4" r="4" fill="#3465a4"><title>Buchanan #4</title></circle></a><a href="/setts/s12/dg6ly5w1dg2w1dg5w1dg2w1r15dp2w1~x2/"><circle cx="178.5" cy="108.6" r="4" fill="#3465a4"><title>Dunblane</title></circle></a><a href="/setts/s12/dg6ly5w1dg2w1dg5w1dg2w1r15dp2w1~x4/"><circle cx="178.5" cy="108.6" r="4" fill="#3465a4"><title>Dunblane (District)</title></circle></a><circle cx="124.0" cy="96.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r24k8g12k1g2k1g12k8lr3g2lr14g1lr2~x2/

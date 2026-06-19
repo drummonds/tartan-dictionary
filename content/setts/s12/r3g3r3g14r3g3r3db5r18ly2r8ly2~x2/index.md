@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,7 +920,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Burns 1930](/setts/s12/r2g2r2g8r2g2r2db2r11ly1r4ly1~x4/) — ΔT 0.56
-1. [Bruce (Vestiarium)](/setts/s11/ly1r8g2r2g6r1g6r2g2r8w1~x4/) — ΔT 0.70
+1. [Bruce (Vestiarium)](/setts/s11/w1r8g2r2g6r1g6r2g2r8ly1~x4/) — ΔT 0.70
 1. [London, Caledonian](/setts/s13/r9db2r21t2r2db8r2g2r2g17r2db2r8~x2/) — ΔT 0.84
 1. [MacKinnon 9](/setts/s14/w2r4g2db2r6g4r2db5g2r20g7w2r4w2~x2/) — ΔT 0.85
 1. [MacKinnon 7](/setts/s11/w2r4g8r16t2r3g16r4t2r4w2~x2/) — ΔT 0.94
@@ -925,12 +928,12 @@ The nearest existing variants by ΔTartan distance.
 1. [MacKinnon #10](/setts/s11/w2r4dg8r16t2r3dg16r4t2r4w2~x2/) — ΔT 0.97
 1. [Morrison](/setts/s9/g5w2g8r9k3r4k3r17g3~x2/) — ΔT 1.00
 1. [Peacock, Grahame (Name)](/setts/s11/r10g2r20g16db3g16r3db8r20g2r10~x2/) — ΔT 1.02
-1. [Kirk](/setts/s12/r4lo3r34k7r4g21r4g21r4k7r34lo3~x2/) — ΔT 1.03
+1. [Kirk](/setts/s12/r4g21r4k7r34lo3r4~x2/) — ΔT 1.03
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r2g2r2g8r2g2r2db2r11ly1r4ly1~x4/"><circle cx="342.8" cy="166.7" r="4" fill="#3465a4"><title>Burns 1930</title></circle></a><a href="/setts/s11/ly1r8g2r2g6r1g6r2g2r8w1~x4/"><circle cx="305.2" cy="195.5" r="4" fill="#3465a4"><title>Bruce (Vestiarium)</title></circle></a><a href="/setts/s13/r9db2r21t2r2db8r2g2r2g17r2db2r8~x2/"><circle cx="340.3" cy="161.9" r="4" fill="#3465a4"><title>London, Caledonian</title></circle></a><a href="/setts/s14/w2r4g2db2r6g4r2db5g2r20g7w2r4w2~x2/"><circle cx="295.4" cy="146.6" r="4" fill="#3465a4"><title>MacKinnon 9</title></circle></a><a href="/setts/s11/w2r4g8r16t2r3g16r4t2r4w2~x2/"><circle cx="265.5" cy="179.5" r="4" fill="#3465a4"><title>MacKinnon 7</title></circle></a><a href="/setts/s13/r5b3r24g7db6r3g3r3g11r6db3r3b3~x2/"><circle cx="298.8" cy="177.2" r="4" fill="#3465a4"><title>Dabney Red (Personal)</title></circle></a><a href="/setts/s11/w2r4dg8r16t2r3dg16r4t2r4w2~x2/"><circle cx="260.3" cy="173.6" r="4" fill="#3465a4"><title>MacKinnon #10</title></circle></a><a href="/setts/s9/g5w2g8r9k3r4k3r17g3~x2/"><circle cx="286.4" cy="195.1" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/setts/s11/r10g2r20g16db3g16r3db8r20g2r10~x2/"><circle cx="316.5" cy="198.4" r="4" fill="#3465a4"><title>Peacock, Grahame (Name)</title></circle></a><a href="/setts/s12/r4lo3r34k7r4g21r4g21r4k7r34lo3~x2/"><circle cx="345.8" cy="175.0" r="4" fill="#3465a4"><title>Kirk</title></circle></a><circle cx="311.3" cy="173.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r2g2r2g8r2g2r2db2r11ly1r4ly1~x4/"><circle cx="342.4" cy="166.6" r="4" fill="#3465a4"><title>Burns 1930</title></circle></a><a href="/setts/s11/w1r8g2r2g6r1g6r2g2r8ly1~x4/"><circle cx="304.8" cy="195.4" r="4" fill="#3465a4"><title>Bruce (Vestiarium)</title></circle></a><a href="/setts/s13/r9db2r21t2r2db8r2g2r2g17r2db2r8~x2/"><circle cx="339.9" cy="161.9" r="4" fill="#3465a4"><title>London, Caledonian</title></circle></a><a href="/setts/s14/w2r4g2db2r6g4r2db5g2r20g7w2r4w2~x2/"><circle cx="295.0" cy="146.5" r="4" fill="#3465a4"><title>MacKinnon 9</title></circle></a><a href="/setts/s11/w2r4g8r16t2r3g16r4t2r4w2~x2/"><circle cx="265.2" cy="179.4" r="4" fill="#3465a4"><title>MacKinnon 7</title></circle></a><a href="/setts/s13/r5b3r24g7db6r3g3r3g11r6db3r3b3~x2/"><circle cx="298.5" cy="177.2" r="4" fill="#3465a4"><title>Dabney Red (Personal)</title></circle></a><a href="/setts/s11/w2r4dg8r16t2r3dg16r4t2r4w2~x2/"><circle cx="259.9" cy="173.5" r="4" fill="#3465a4"><title>MacKinnon #10</title></circle></a><a href="/setts/s9/g5w2g8r9k3r4k3r17g3~x2/"><circle cx="286.1" cy="194.9" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/setts/s11/r10g2r20g16db3g16r3db8r20g2r10~x2/"><circle cx="316.2" cy="198.3" r="4" fill="#3465a4"><title>Peacock, Grahame (Name)</title></circle></a><a href="/setts/s12/r4g21r4k7r34lo3r4~x2/"><circle cx="345.5" cy="175.0" r="4" fill="#3465a4"><title>Kirk</title></circle></a><circle cx="310.9" cy="173.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r3g3r3g14r3g3r3db5r18ly2r8ly2~x2/

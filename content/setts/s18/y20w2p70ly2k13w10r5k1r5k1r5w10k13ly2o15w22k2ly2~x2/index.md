@@ -2,7 +2,7 @@
 title: "Unidentified 33"
 date: 2023-03-18
 ---
-**Bands:** [GWBYKWRKRKRWKYRWKY](/stripes/gwbykwrkrkrwkyrwky/) · **Stripes:** [Y W P LY K W R K R K R W K LY O W K LY](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">Y W P LY K W R K R K R W K LY O W K LY</span></span>
+**Bands:** [YKWRYKWRKRKRWKYBWG](/stripes/ykwrykwrkrkrwkybwg/) · **Stripes:** [LY K W O LY K W R K R K R W K LY P W Y](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LY K W O LY K W R K R K R W K LY P W Y</span></span>
 
 
 This was sourced from weddslist.  It is a [18 band tartan](/bands/bands18/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -908,18 +911,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Lockwood Family Tartan Tartan Number: 1308. Earliest known date: pre 2003 Specimen from W.H. Johnston of Lockwood, U.S.A. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/o20w2dp70ly2k13w10r5k1r5k1r5w10k13ly2dy15w22k2ly2~x2/) — ΔT 0.33
 1. [Unidentified #39](/setts/s18/y20w2dp70ly2k13w10r5k1r5k1r5w10k13ly2dy15w22k2ly2~x2/) — ΔT 0.55
 1. [Unnamed C19th](/setts/s18/n20lb2dp70ly2k13lb10r5k2r5k2r5lb10k13ly2do25lb18k2ly2~x2/) — ΔT 1.27
-1. [Holyrood (Chair)](/setts/s24/r34w1db10dg10w1ly1dg2t2w1db2t10r6w1r6t10db2w1t2dg2ly1w1dg10db10w1~x2/) — ΔT 1.63
+1. [Holyrood (Chair)](/setts/s24/r34w1db10dg10w1ly1dg2t2w1db2t10r6w1~x2/) — ΔT 1.63
 1. [Scotland's Grace](/setts/s17/lb24lg2lb4p2lg2lb4p4lg5g5ly3r7dp2r2dp3r1dp23lb4~x2/) — ΔT 1.67
 1. [Cooper Dress (Dalgliesh #1)](/setts/s18/r23db2lp3db21k1db1g9lp3db2lp3k10db3w2db3w26r2lp4db2~x2/) — ΔT 1.72
-1. [Cooper Dress (Dalgleish #2) (Dance)](/setts/s18/db2r4dy2w28db3w2db3k10r3db2r3g9db1k1db21r4db2dy2~x2/) — ΔT 1.75
+1. [Cooper Dress (Dalgleish #2) (Dance)](/setts/s18/dy2db2r4db21k1db1g9r3db2r3k10db3w2db3w28dy2r4db2~x2/) — ΔT 1.75
 1. [Fitzgerald Dress](/setts/s25/w2k1r3db3r3r3r19r3r3db3r3db29ly3g29r3db3r3r3r19r3r3db3r3k1w2~x4/) — ΔT 1.78
 1. [Salaberry-de-Valleyfield (District)](/setts/s14/db20w3db4w3db4w3r22g2k1g2lo16w1k2w1~x2/) — ΔT 1.83
 1. [Dundee Pink Variation](/setts/s14/m42r2k15r2dg22lo4lb2dp2lb2lo4lb7lb2dp6lb6~x2/) — ΔT 1.83
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/o20w2dp70ly2k13w10r5k1r5k1r5w10k13ly2dy15w22k2ly2~x2/"><circle cx="159.4" cy="14.0" r="4" fill="#3465a4"><title>Lockwood Family Tartan Tartan Number: 1308. Earliest known date: pre 2003 Specimen from W.H. Johnston of Lockwood, U.S.A. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/y20w2dp70ly2k13w10r5k1r5k1r5w10k13ly2dy15w22k2ly2~x2/"><circle cx="154.6" cy="14.0" r="4" fill="#3465a4"><title>Unidentified #39</title></circle></a><a href="/setts/s18/n20lb2dp70ly2k13lb10r5k2r5k2r5lb10k13ly2do25lb18k2ly2~x2/"><circle cx="136.7" cy="20.4" r="4" fill="#3465a4"><title>Unnamed C19th</title></circle></a><a href="/setts/s24/r34w1db10dg10w1ly1dg2t2w1db2t10r6w1r6t10db2w1t2dg2ly1w1dg10db10w1~x2/"><circle cx="178.2" cy="28.2" r="4" fill="#3465a4"><title>Holyrood (Chair)</title></circle></a><a href="/setts/s17/lb24lg2lb4p2lg2lb4p4lg5g5ly3r7dp2r2dp3r1dp23lb4~x2/"><circle cx="137.6" cy="38.8" r="4" fill="#3465a4"><title>Scotland's Grace</title></circle></a><a href="/setts/s18/r23db2lp3db21k1db1g9lp3db2lp3k10db3w2db3w26r2lp4db2~x2/"><circle cx="100.6" cy="41.6" r="4" fill="#3465a4"><title>Cooper Dress (Dalgliesh #1)</title></circle></a><a href="/setts/s18/db2r4dy2w28db3w2db3k10r3db2r3g9db1k1db21r4db2dy2~x2/"><circle cx="131.0" cy="37.3" r="4" fill="#3465a4"><title>Cooper Dress (Dalgleish #2) (Dance)</title></circle></a><a href="/setts/s25/w2k1r3db3r3r3r19r3r3db3r3db29ly3g29r3db3r3r3r19r3r3db3r3k1w2~x4/"><circle cx="185.7" cy="19.3" r="4" fill="#3465a4"><title>Fitzgerald Dress</title></circle></a><a href="/setts/s14/db20w3db4w3db4w3r22g2k1g2lo16w1k2w1~x2/"><circle cx="139.5" cy="63.9" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield (District)</title></circle></a><a href="/setts/s14/m42r2k15r2dg22lo4lb2dp2lb2lo4lb7lb2dp6lb6~x2/"><circle cx="119.5" cy="35.2" r="4" fill="#3465a4"><title>Dundee Pink Variation</title></circle></a><circle cx="152.2" cy="14.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/o20w2dp70ly2k13w10r5k1r5k1r5w10k13ly2dy15w22k2ly2~x2/"><circle cx="159.2" cy="14.0" r="4" fill="#3465a4"><title>Lockwood Family Tartan Tartan Number: 1308. Earliest known date: pre 2003 Specimen from W.H. Johnston of Lockwood, U.S.A. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/y20w2dp70ly2k13w10r5k1r5k1r5w10k13ly2dy15w22k2ly2~x2/"><circle cx="154.4" cy="14.0" r="4" fill="#3465a4"><title>Unidentified #39</title></circle></a><a href="/setts/s18/n20lb2dp70ly2k13lb10r5k2r5k2r5lb10k13ly2do25lb18k2ly2~x2/"><circle cx="136.6" cy="20.6" r="4" fill="#3465a4"><title>Unnamed C19th</title></circle></a><a href="/setts/s24/r34w1db10dg10w1ly1dg2t2w1db2t10r6w1~x2/"><circle cx="178.0" cy="28.3" r="4" fill="#3465a4"><title>Holyrood (Chair)</title></circle></a><a href="/setts/s17/lb24lg2lb4p2lg2lb4p4lg5g5ly3r7dp2r2dp3r1dp23lb4~x2/"><circle cx="137.4" cy="39.0" r="4" fill="#3465a4"><title>Scotland's Grace</title></circle></a><a href="/setts/s18/r23db2lp3db21k1db1g9lp3db2lp3k10db3w2db3w26r2lp4db2~x2/"><circle cx="100.4" cy="41.8" r="4" fill="#3465a4"><title>Cooper Dress (Dalgliesh #1)</title></circle></a><a href="/setts/s18/dy2db2r4db21k1db1g9r3db2r3k10db3w2db3w28dy2r4db2~x2/"><circle cx="130.7" cy="37.4" r="4" fill="#3465a4"><title>Cooper Dress (Dalgleish #2) (Dance)</title></circle></a><a href="/setts/s25/w2k1r3db3r3r3r19r3r3db3r3db29ly3g29r3db3r3r3r19r3r3db3r3k1w2~x4/"><circle cx="185.4" cy="19.5" r="4" fill="#3465a4"><title>Fitzgerald Dress</title></circle></a><a href="/setts/s14/db20w3db4w3db4w3r22g2k1g2lo16w1k2w1~x2/"><circle cx="139.3" cy="64.0" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield (District)</title></circle></a><a href="/setts/s14/m42r2k15r2dg22lo4lb2dp2lb2lo4lb7lb2dp6lb6~x2/"><circle cx="119.4" cy="35.5" r="4" fill="#3465a4"><title>Dundee Pink Variation</title></circle></a><circle cx="151.9" cy="14.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s18/y20w2p70ly2k13w10r5k1r5k1r5w10k13ly2o15w22k2ly2~x2/

@@ -2,7 +2,7 @@
 title: "Waverly, Check"
 date: 2023-03-18
 ---
-**Bands:** [BRRRRRRRRRRR](/stripes/brrrrrrrrrrr/) · **Stripes:** [DR O O O O O O O O O O O](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DR O O O O O O O O O O O</span></span>
+**Bands:** [RRRRRRRRRRRB](/stripes/rrrrrrrrrrrb/) · **Stripes:** [O O O O O O O O O O O DR](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="seq">O O O O O O O O O O O DR</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -915,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/o4do31o2r2o2r2o2do2do2do4do11o4/"><circle cx="396.0" cy="163.7" r="4" fill="#3465a4"><title>Beanpole Brown Trial</title></circle></a><a href="/setts/s16/r31db2r3db2r3g12r3db2r3db2r31dy4g19dy36g19dy4~x2/"><circle cx="325.3" cy="166.1" r="4" fill="#3465a4"><title>O'Brian #1 (Fashion)</title></circle></a><a href="/setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2~x2/"><circle cx="421.6" cy="135.5" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2/"><circle cx="421.6" cy="135.5" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/setts/s10/dt5n5dt2r47dt18o2dt5dy9n7o3~x2/"><circle cx="353.5" cy="153.9" r="4" fill="#3465a4"><title>Rikaco Red</title></circle></a><a href="/setts/s12/do44lo5dr8lo2dr2lo2dr2lo14dy9dr2dy4lo2~x2/"><circle cx="332.9" cy="135.1" r="4" fill="#3465a4"><title>Waverly Check Corporate Tartan Tartan Number: 1747. Earliest known date: 1984 Edinburgh Woollen Mills house tartan for staff uniforms. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/o7r4o4r25dp1y32dp4y2w2y5~x2/"><circle cx="360.6" cy="142.3" r="4" fill="#3465a4"><title>Bell of Ardbel (Name)</title></circle></a><a href="/setts/s10/dr7m4dr4m25p1dy32p4dy2w2dy5~x2/"><circle cx="364.3" cy="146.2" r="4" fill="#3465a4"><title>Bell, John</title></circle></a><a href="/setts/s15/o7dt2o3dg32o2dg2o2dt10o2lb2o31dt2o2dt1o6~x2/"><circle cx="434.1" cy="138.3" r="4" fill="#3465a4"><title>Drummond of Megginch - 1997 Kilt</title></circle></a><a href="/setts/s12/r7r2db2r2dg32r6db12r41dg2r5r2dg5~x2/"><circle cx="386.3" cy="152.8" r="4" fill="#3465a4"><title>MacDougall #5</title></circle></a><circle cx="369.3" cy="152.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/o4do31o2r2o2r2o2do2do2do4do11o4/"><circle cx="395.8" cy="163.8" r="4" fill="#3465a4"><title>Beanpole Brown Trial</title></circle></a><a href="/setts/s16/r31db2r3db2r3g12r3db2r3db2r31dy4g19dy36g19dy4~x2/"><circle cx="325.0" cy="166.3" r="4" fill="#3465a4"><title>O'Brian #1 (Fashion)</title></circle></a><a href="/setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2~x2/"><circle cx="421.2" cy="135.6" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2/"><circle cx="421.2" cy="135.6" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/setts/s10/dt5n5dt2r47dt18o2dt5dy9n7o3~x2/"><circle cx="353.3" cy="154.1" r="4" fill="#3465a4"><title>Rikaco Red</title></circle></a><a href="/setts/s12/do44lo5dr8lo2dr2lo2dr2lo14dy9dr2dy4lo2~x2/"><circle cx="332.7" cy="135.2" r="4" fill="#3465a4"><title>Waverly Check Corporate Tartan Tartan Number: 1747. Earliest known date: 1984 Edinburgh Woollen Mills house tartan for staff uniforms. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/o7r4o4r25dp1y32dp4y2w2y5~x2/"><circle cx="360.3" cy="142.5" r="4" fill="#3465a4"><title>Bell of Ardbel (Name)</title></circle></a><a href="/setts/s10/dr7m4dr4m25p1dy32p4dy2w2dy5~x2/"><circle cx="364.1" cy="146.4" r="4" fill="#3465a4"><title>Bell, John</title></circle></a><a href="/setts/s15/o7dt2o3dg32o2dg2o2dt10o2lb2o31dt2o2dt1o6~x2/"><circle cx="433.7" cy="138.5" r="4" fill="#3465a4"><title>Drummond of Megginch - 1997 Kilt</title></circle></a><a href="/setts/s12/r7r2db2r2dg32r6db12r41dg2r5r2dg5~x2/"><circle cx="386.0" cy="152.9" r="4" fill="#3465a4"><title>MacDougall #5</title></circle></a><circle cx="369.1" cy="152.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/dr44o5o8o2o2o2o2o14o9o2o4o2~x2/

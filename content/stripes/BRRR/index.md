@@ -8,7 +8,7 @@ BRRR
 
 It is a 4 band tartan.
 
-![Woven sample](/setts/s4/o30r1o15db4/tartan.png)
+![Woven sample](/setts/s4/o30r1o15db4~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ BRRR
 
 
 
-### DB O R O <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DB O R O</span></span>
+### O R O DB <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="seq">O R O DB</span></span>
 
 | Tartans |
 |---------------|
-| [Kincardine Tweed](/setts/s4/o30r1o15db4/)|
-|![Kincardine Tweed example sett](/setts/s4/o30r1o15db4/sett.png)|
+| [Kincardine Tweed](/setts/s4/o30r1o15db4~x2/)|
+|![Kincardine Tweed example sett](/setts/s4/o30r1o15db4~x2/sett.png)|
 

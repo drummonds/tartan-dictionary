@@ -8,7 +8,7 @@ RWBYGRBW
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/r36lb1db3ly1dg16r8db3lb5~x2/tartan.png)
+![Woven sample](/setts/s8/r36lb1db3ly1dg16r8db3lb5/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RWBYGRBW
 
 | Tartans |
 |---------------|
-| [Drummond of Perth](/setts/s8/r36lb1db3ly1dg16r8db3lb5~x2/)|
-|![Drummond of Perth example sett](/setts/s8/r36lb1db3ly1dg16r8db3lb5~x2/sett.png)|
+| [Drummond of Perth](/setts/s8/r36lb1db3ly1dg16r8db3lb5/)|
+|![Drummond of Perth example sett](/setts/s8/r36lb1db3ly1dg16r8db3lb5/sett.png)|
 

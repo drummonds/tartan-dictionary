@@ -2,12 +2,18 @@
 title: "Unnamed 5"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGKGKGKBKR](/stripes/bkbkgkgkgkbkr/) · **Stripes:** [DB K DB K G K G K G K DB K R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K DB K G K G K G K DB K R</span></span>
+**Bands:** [RKBKGKGKGKBKB](/stripes/rkbkgkgkgkbkb/) · **Stripes:** [R K DB K G K G K G K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K DB K G K G K G K DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified #10
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/2 K2 B2 K10 G2 K10 G12 K8 G12 K10 B10 K2 R/3
+R/3 K2 B10 K10 G12 K8 G12 K10 G2 K10 B2 K2 B/2
 ![Sett](sett.png)
 
 ## Palette
@@ -904,19 +913,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Royal Na Connaught](/setts/s16/g5k12g6k8g13lb2g12lb2g13k8db2k2db2k2db14g3~x2/) — ΔT 1.06
 1. [Sackett (Name)](/setts/s10/k8dg8k1dg8lr1k8o8k1o8k8~x4/) — ΔT 1.10
-1. [MacAlpine](/setts/s14/k4lb1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1/) — ΔT 1.11
-1. [MacAlpine D](/setts/s14/k4lb1k4dg1k1dg6k1dg6db1dg1db4ly1k4dg1/) — ΔT 1.20
+1. [MacAlpine](/setts/s14/k4lb1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1~x2/) — ΔT 1.11
+1. [MacAlpine D](/setts/s14/k4lb1k4dg1k1dg6k1dg6db1dg1db4ly1k4dg1~x2/) — ΔT 1.20
 1. [MacAlpine (a)](/setts/s14/k4lr1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1~x2/) — ΔT 1.25
-1. [MacAlpine](/setts/s14/k4lr1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1/) — ΔT 1.25
-1. [Crihfield Family (Personal)](/setts/s13/lb4k2g6o3g10k10g4k10g10o3g6k2o4~x2/) — ΔT 1.25
-1. [Davidson](/setts/s11/r1db6g1db1g6k1g6k1g1k6r1~x4/) — ΔT 1.25
+1. [Davidson](/setts/s11/r1k6g1k1g6k1g6db1g1db6r1~x4/) — ΔT 1.25
+1. [Crihfield Family (Personal)](/setts/s13/o4k2g6o3g10k10g4k10g10o3g6k2lb4~x2/) — ΔT 1.25
 1. [Episcopal Clergy (Corporate)](/setts/s11/k1r1g7k8lb1k8r1g2r1g4r1~x4/) — ΔT 1.25
 1. [Wilson's, No 157](/setts/s11/k16db2t2db4g16t2k15db6t2k3t4~x2/) — ΔT 1.26
+1. [Wilson's, No 108](/setts/s8/k7g7k1g7k7t1p7k1~x4/) — ΔT 1.28
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/g5k12g6k8g13lb2g12lb2g13k8db2k2db2k2db14g3~x2/"><circle cx="182.1" cy="195.1" r="4" fill="#3465a4"><title>Royal Na Connaught</title></circle></a><a href="/setts/s10/k8dg8k1dg8lr1k8o8k1o8k8~x4/"><circle cx="172.4" cy="227.5" r="4" fill="#3465a4"><title>Sackett (Name)</title></circle></a><a href="/setts/s14/k4lb1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1/"><circle cx="241.9" cy="211.8" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s14/k4lb1k4dg1k1dg6k1dg6db1dg1db4ly1k4dg1/"><circle cx="150.6" cy="194.0" r="4" fill="#3465a4"><title>MacAlpine D</title></circle></a><a href="/setts/s14/k4lr1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1~x2/"><circle cx="256.7" cy="218.5" r="4" fill="#3465a4"><title>MacAlpine (a)</title></circle></a><a href="/setts/s14/k4lr1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1/"><circle cx="256.7" cy="218.5" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s13/lb4k2g6o3g10k10g4k10g10o3g6k2o4~x2/"><circle cx="158.5" cy="228.7" r="4" fill="#3465a4"><title>Crihfield Family (Personal)</title></circle></a><a href="/setts/s11/r1db6g1db1g6k1g6k1g1k6r1~x4/"><circle cx="175.3" cy="201.9" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/setts/s11/k1r1g7k8lb1k8r1g2r1g4r1~x4/"><circle cx="232.8" cy="191.1" r="4" fill="#3465a4"><title>Episcopal Clergy (Corporate)</title></circle></a><a href="/setts/s11/k16db2t2db4g16t2k15db6t2k3t4~x2/"><circle cx="192.4" cy="190.4" r="4" fill="#3465a4"><title>Wilson's, No 157</title></circle></a><circle cx="184.4" cy="218.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/g5k12g6k8g13lb2g12lb2g13k8db2k2db2k2db14g3~x2/"><circle cx="182.2" cy="194.9" r="4" fill="#3465a4"><title>Royal Na Connaught</title></circle></a><a href="/setts/s10/k8dg8k1dg8lr1k8o8k1o8k8~x4/"><circle cx="172.6" cy="227.4" r="4" fill="#3465a4"><title>Sackett (Name)</title></circle></a><a href="/setts/s14/k4lb1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1~x2/"><circle cx="242.0" cy="211.7" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s14/k4lb1k4dg1k1dg6k1dg6db1dg1db4ly1k4dg1~x2/"><circle cx="150.8" cy="194.0" r="4" fill="#3465a4"><title>MacAlpine D</title></circle></a><a href="/setts/s14/k4lr1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1~x2/"><circle cx="256.8" cy="218.4" r="4" fill="#3465a4"><title>MacAlpine (a)</title></circle></a><a href="/setts/s11/r1k6g1k1g6k1g6db1g1db6r1~x4/"><circle cx="175.5" cy="201.8" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/setts/s13/o4k2g6o3g10k10g4k10g10o3g6k2lb4~x2/"><circle cx="158.7" cy="228.5" r="4" fill="#3465a4"><title>Crihfield Family (Personal)</title></circle></a><a href="/setts/s11/k1r1g7k8lb1k8r1g2r1g4r1~x4/"><circle cx="232.9" cy="191.0" r="4" fill="#3465a4"><title>Episcopal Clergy (Corporate)</title></circle></a><a href="/setts/s11/k16db2t2db4g16t2k15db6t2k3t4~x2/"><circle cx="192.6" cy="190.4" r="4" fill="#3465a4"><title>Wilson's, No 157</title></circle></a><a href="/setts/s8/k7g7k1g7k7t1p7k1~x4/"><circle cx="163.8" cy="228.5" r="4" fill="#3465a4"><title>Wilson's, No 108</title></circle></a><circle cx="184.6" cy="217.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r3k2db10k10g12k8g12k10g2k10db2k2db2/

@@ -2,7 +2,7 @@
 title: "MacOrrell"
 date: 2023-03-18
 ---
-**Bands:** [BYBGWGWGY](/stripes/bybgwgwgy/) · **Stripes:** [DB LY DB G W G W G LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB LY DB G W G W G LY</span></span>
+**Bands:** [YGWGWGBYB](/stripes/ygwgwgbyb/) · **Stripes:** [LY G W G W G DB LY DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">LY G W G W G DB LY DB</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,21 +919,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [New Mexico](/setts/s8/ly1r2ly4db22g10db2g16r1~x2/) — ΔT 0.68
+1. [New Mexico](/setts/s8/r1g16db2g10db22ly4r2ly1~x2/) — ΔT 0.68
 1. [MacAuliffe (Name)](/setts/s8/g37w2g6db23ly6db2ly3db2~x2/) — ΔT 0.73
 1. [MacOrrell](/setts/s9/db10ly4db36g28w3g3w3g8ly6/) — ΔT 0.87
 1. [Rowan](/setts/s9/db1k1db8ly1g12ly1db8k1db1~x2/) — ΔT 0.98
 1. [Tennessee State (US State)](/setts/s10/r2db12w1db1g1r1g7db1g12w1~x4/) — ΔT 0.99
 1. [Cork](/setts/s9/g28r12g4db20ly2db3ly2db3g7~x2/) — ΔT 1.03
 1. [Singh](/setts/s8/db3r3db36g17ly2g21w2r3~x2/) — ΔT 1.05
-1. [New Mexico, State of (Fashion)](/setts/s8/ly1r1ly2db11g5db1g8r1~x4/) — ΔT 1.06
+1. [New Mexico, State of (Fashion)](/setts/s8/r1g8db1g5db11ly2r1ly1~x4/) — ΔT 1.06
 1. [Maine State](/setts/s11/g2r2t23db2t2db6t2db2g33r2t2~x2/) — ΔT 1.08
-1. [Leatherneck U.S.Marine Corps Corporate Tartan Tartan Number: 975. Earliest known date: 1986 Designed by Madam Leask and the Scottish Tartans Society Accredited in 1981. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g28r2g2r2g8db24ly3r2~x2/) — ΔT 1.10
+1. [Leatherneck U.S.Marine Corps Corporate Tartan Tartan Number: 975. Earliest known date: 1986 Designed by Madam Leask and the Scottish Tartans Society Accredited in 1981. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g28r2g2r2g8db24ly3r2~x2/) — ΔT 1.11
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/ly1r2ly4db22g10db2g16r1~x2/"><circle cx="289.9" cy="164.2" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/setts/s8/g37w2g6db23ly6db2ly3db2~x2/"><circle cx="317.8" cy="157.1" r="4" fill="#3465a4"><title>MacAuliffe (Name)</title></circle></a><a href="/setts/s9/db10ly4db36g28w3g3w3g8ly6/"><circle cx="243.1" cy="170.6" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><a href="/setts/s9/db1k1db8ly1g12ly1db8k1db1~x2/"><circle cx="297.4" cy="177.3" r="4" fill="#3465a4"><title>Rowan</title></circle></a><a href="/setts/s10/r2db12w1db1g1r1g7db1g12w1~x4/"><circle cx="301.4" cy="172.9" r="4" fill="#3465a4"><title>Tennessee State (US State)</title></circle></a><a href="/setts/s9/g28r12g4db20ly2db3ly2db3g7~x2/"><circle cx="274.6" cy="177.9" r="4" fill="#3465a4"><title>Cork</title></circle></a><a href="/setts/s8/db3r3db36g17ly2g21w2r3~x2/"><circle cx="281.6" cy="156.6" r="4" fill="#3465a4"><title>Singh</title></circle></a><a href="/setts/s8/ly1r1ly2db11g5db1g8r1~x4/"><circle cx="225.7" cy="178.5" r="4" fill="#3465a4"><title>New Mexico, State of (Fashion)</title></circle></a><a href="/setts/s11/g2r2t23db2t2db6t2db2g33r2t2~x2/"><circle cx="289.4" cy="141.8" r="4" fill="#3465a4"><title>Maine State</title></circle></a><a href="/setts/s8/g28r2g2r2g8db24ly3r2~x2/"><circle cx="330.6" cy="180.6" r="4" fill="#3465a4"><title>Leatherneck U.S.Marine Corps Corporate Tartan Tartan Number: 975. Earliest known date: 1986 Designed by Madam Leask and the Scottish Tartans Society Accredited in 1981. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="282.6" cy="161.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r1g16db2g10db22ly4r2ly1~x2/"><circle cx="289.7" cy="164.1" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/setts/s8/g37w2g6db23ly6db2ly3db2~x2/"><circle cx="317.6" cy="156.9" r="4" fill="#3465a4"><title>MacAuliffe (Name)</title></circle></a><a href="/setts/s9/db10ly4db36g28w3g3w3g8ly6/"><circle cx="243.0" cy="170.5" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><a href="/setts/s9/db1k1db8ly1g12ly1db8k1db1~x2/"><circle cx="297.3" cy="177.1" r="4" fill="#3465a4"><title>Rowan</title></circle></a><a href="/setts/s10/r2db12w1db1g1r1g7db1g12w1~x4/"><circle cx="301.2" cy="172.8" r="4" fill="#3465a4"><title>Tennessee State (US State)</title></circle></a><a href="/setts/s9/g28r12g4db20ly2db3ly2db3g7~x2/"><circle cx="274.5" cy="177.8" r="4" fill="#3465a4"><title>Cork</title></circle></a><a href="/setts/s8/db3r3db36g17ly2g21w2r3~x2/"><circle cx="281.5" cy="156.5" r="4" fill="#3465a4"><title>Singh</title></circle></a><a href="/setts/s8/r1g8db1g5db11ly2r1ly1~x4/"><circle cx="225.5" cy="178.3" r="4" fill="#3465a4"><title>New Mexico, State of (Fashion)</title></circle></a><a href="/setts/s11/g2r2t23db2t2db6t2db2g33r2t2~x2/"><circle cx="289.2" cy="141.8" r="4" fill="#3465a4"><title>Maine State</title></circle></a><a href="/setts/s8/g28r2g2r2g8db24ly3r2~x2/"><circle cx="330.5" cy="180.5" r="4" fill="#3465a4"><title>Leatherneck U.S.Marine Corps Corporate Tartan Tartan Number: 975. Earliest known date: 1986 Designed by Madam Leask and the Scottish Tartans Society Accredited in 1981. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="282.4" cy="160.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/db5ly2db17g14w1g1w1g4ly2~x2/

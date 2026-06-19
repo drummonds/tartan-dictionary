@@ -32,6 +32,6 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [MacGill](/setts/s13/r41dg13k8lb2ly2r1ly2lb2db6k2r3ly2lb5~x2/)|
-|![MacGill example sett](/setts/s13/r41dg13k8lb2ly2r1ly2lb2db6k2r3ly2lb5~x2/sett.png)|
+| [MacGill](/setts/s13/r41dg13k8lb2ly2r1ly2lb2db6k2r3ly2lb5/)|
+|![MacGill example sett](/setts/s13/r41dg13k8lb2ly2r1ly2lb2db6k2r3ly2lb5/sett.png)|
 

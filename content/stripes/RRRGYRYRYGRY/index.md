@@ -22,6 +22,6 @@ RRRGYRYRYGRY
 
 | Tartans |
 |---------------|
-| [Pierce](/setts/s12/lo6o9dg24lo9o3lo3o3lo9dg14o24r4o6~x2/)|
-|![Pierce example sett](/setts/s12/lo6o9dg24lo9o3lo3o3lo9dg14o24r4o6~x2/sett.png)|
+| [Pierce](/setts/s12/o6r4o24dg14lo9o3lo3o3lo9dg24o9lo6~x2/)|
+|![Pierce example sett](/setts/s12/o6r4o24dg14lo9o3lo3o3lo9dg24o9lo6~x2/sett.png)|
 

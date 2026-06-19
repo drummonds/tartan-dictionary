@@ -8,7 +8,7 @@ RGRGRRR
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/o10r5o62dg40o5g44r10/tartan.png)
+![Woven sample](/setts/s7/r10g44o5dg40o62r5o10/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ RGRGRRR
 
 
 
-### R G O DG O R O <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R G O DG O R O</span></span>
+### O R O DG O G R <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">O R O DG O G R</span></span>
 
 | Tartans |
 |---------------|
-| [Ballintrae](/setts/s7/o10r5o62dg40o5g44r10/)|
-|![Ballintrae example sett](/setts/s7/o10r5o62dg40o5g44r10/sett.png)|
+| [Ballintrae](/setts/s7/r10g44o5dg40o62r5o10/)|
+|![Ballintrae example sett](/setts/s7/r10g44o5dg40o62r5o10/sett.png)|
 

@@ -8,7 +8,7 @@ GBBKRKRR
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/g4dt7db33k9o2k9o10r4~x2/tartan.png)
+![Woven sample](/setts/s8/r4o10k9o2k9db33dt7g4~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ GBBKRKRR
 
 
 
-### G DT DB K O K O R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">G DT DB K O K O R</span></span>
+### R O K O K DB DT G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R O K O K DB DT G</span></span>
 
 | Tartans |
 |---------------|
-| [Anne Arundel County](/setts/s8/g4dt7db33k9o2k9o10r4~x2/)|
-|![Anne Arundel County example sett](/setts/s8/g4dt7db33k9o2k9o10r4~x2/sett.png)|
+| [Anne Arundel County](/setts/s8/r4o10k9o2k9db33dt7g4~x2/)|
+|![Anne Arundel County example sett](/setts/s8/r4o10k9o2k9db33dt7g4~x2/sett.png)|
 

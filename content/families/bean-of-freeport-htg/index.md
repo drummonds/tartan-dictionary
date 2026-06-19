@@ -8,5 +8,5 @@ A family of [Clan Bean](/clan/bean/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s7/db6g41dt20r15g41r15dt6/"><img src="/setts/s7/db6g41dt20r15g41r15dt6/sett.png" alt="Bean of Freeport Htg (Corporate)" width="240"><br>Bean of Freeport Htg (Corporate)</a>
+<a class="tartan" href="/setts/s7/dt6r15g41r15dt20g41db6/"><img src="/setts/s7/dt6r15g41r15dt20g41db6/sett.png" alt="Bean of Freeport Htg (Corporate)" width="240"><br>Bean of Freeport Htg (Corporate)</a>
 

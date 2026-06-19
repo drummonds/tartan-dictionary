@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2131
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Livingstone
+- Livingstone Wedding Dress
+
 ## Attestations
 
 This cloth appears in 4 source records; the oldest owns this page.
@@ -320,6 +327,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +428,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +688,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -913,7 +923,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacMillan Old Clan Tartan Tartan Number: 2025. Earliest known date: 1847 The term 'ancient' normally describes a change in colour that can be applied to any tartan. In the case of MacMillan the 'ancient' form involves a more radical change, justifying the traditional use of the adjective in the name of the tartan. James Logan, co-author of 'The Clans of the Scottish Highlands' (1847), states that this version is identical with Buchanan. The thread count was deduced by J. Cant from the illustration by R.R. MacIan in the same work. In 1951 Lieut. General Sir Gordon MacMillan, then G.O.C. Scottish Command, was recognised as chief of the clan by the Lord Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/g2k1g18k1g2k1m12g4ly6k1ly6k1~x2/) — ΔT 1.17
 1. [Vaughan (Welsh Series)](/setts/s11/w2k35g30k3lo30k2lo4k2lo30k3w2/) — ΔT 1.24
-1. [Scott, dress](/setts/s11/g4r2k1w30r10g14r4g5w2g5r4~x2/) — ΔT 1.27
+1. [Scott, dress](/setts/s11/r4g5w2g5r4g14r10w30k1r2g4~x2/) — ΔT 1.27
 1. [Dogwood](/setts/s8/dg4do10dg10o6do1w26dg2do1~x4/) — ΔT 1.27
 1. [MacMillan, Ancient](/setts/s12/g2k1g18k1g2k1r12g4ly6k1ly6k1~x2/) — ΔT 1.28
 1. [Prince Edward Island, Dress](/setts/s9/g22r2g4r2g4r18w24r1lo3~x2/) — ΔT 1.30
@@ -924,8 +934,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/g2k1g18k1g2k1m12g4ly6k1ly6k1~x2/"><circle cx="252.0" cy="128.5" r="4" fill="#3465a4"><title>MacMillan Old Clan Tartan Tartan Number: 2025. Earliest known date: 1847 The term 'ancient' normally describes a change in colour that can be applied to any tartan. In the case of MacMillan the 'ancient' form involves a more radical change, justifying the traditional use of the adjective in the name of the tartan. James Logan, co-author of 'The Clans of the Scottish Highlands' (1847), states that this version is identical with Buchanan. The thread count was deduced by J. Cant from the illustration by R.R. MacIan in the same work. In 1951 Lieut. General Sir Gordon MacMillan, then G.O.C. Scottish Command, was recognised as chief of the clan by the Lord Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w2k35g30k3lo30k2lo4k2lo30k3w2/"><circle cx="235.9" cy="128.6" r="4" fill="#3465a4"><title>Vaughan (Welsh Series)</title></circle></a><a href="/setts/s11/g4r2k1w30r10g14r4g5w2g5r4~x2/"><circle cx="235.8" cy="101.2" r="4" fill="#3465a4"><title>Scott, dress</title></circle></a><a href="/setts/s8/dg4do10dg10o6do1w26dg2do1~x4/"><circle cx="218.0" cy="118.3" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/setts/s12/g2k1g18k1g2k1r12g4ly6k1ly6k1~x2/"><circle cx="238.9" cy="123.3" r="4" fill="#3465a4"><title>MacMillan, Ancient</title></circle></a><a href="/setts/s9/g22r2g4r2g4r18w24r1lo3~x2/"><circle cx="214.6" cy="127.0" r="4" fill="#3465a4"><title>Prince Edward Island, Dress</title></circle></a><a href="/setts/s7/g3lo16w4k6g28lo1g3~x4/"><circle cx="337.8" cy="145.2" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/setts/s13/g2w10g3lo4g3lo4g24w2g4w4g1lo4g1~x2/"><circle cx="323.7" cy="118.7" r="4" fill="#3465a4"><title>McGill (Personal)</title></circle></a><a href="/setts/s8/g3r12g12o5r1w25g2r1~x2/"><circle cx="223.3" cy="125.1" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/setts/s14/w3k1g15k6g5k3g8k2g5ly3w2ly4k1w3~x2/"><circle cx="236.6" cy="148.6" r="4" fill="#3465a4"><title>Avalon - Calvert House</title></circle></a><circle cx="272.8" cy="123.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/g2k1g18k1g2k1m12g4ly6k1ly6k1~x2/"><circle cx="251.8" cy="128.4" r="4" fill="#3465a4"><title>MacMillan Old Clan Tartan Tartan Number: 2025. Earliest known date: 1847 The term 'ancient' normally describes a change in colour that can be applied to any tartan. In the case of MacMillan the 'ancient' form involves a more radical change, justifying the traditional use of the adjective in the name of the tartan. James Logan, co-author of 'The Clans of the Scottish Highlands' (1847), states that this version is identical with Buchanan. The thread count was deduced by J. Cant from the illustration by R.R. MacIan in the same work. In 1951 Lieut. General Sir Gordon MacMillan, then G.O.C. Scottish Command, was recognised as chief of the clan by the Lord Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w2k35g30k3lo30k2lo4k2lo30k3w2/"><circle cx="235.6" cy="128.5" r="4" fill="#3465a4"><title>Vaughan (Welsh Series)</title></circle></a><a href="/setts/s11/r4g5w2g5r4g14r10w30k1r2g4~x2/"><circle cx="235.4" cy="101.1" r="4" fill="#3465a4"><title>Scott, dress</title></circle></a><a href="/setts/s8/dg4do10dg10o6do1w26dg2do1~x4/"><circle cx="217.7" cy="118.1" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/setts/s12/g2k1g18k1g2k1r12g4ly6k1ly6k1~x2/"><circle cx="238.6" cy="123.2" r="4" fill="#3465a4"><title>MacMillan, Ancient</title></circle></a><a href="/setts/s9/g22r2g4r2g4r18w24r1lo3~x2/"><circle cx="214.3" cy="126.9" r="4" fill="#3465a4"><title>Prince Edward Island, Dress</title></circle></a><a href="/setts/s7/g3lo16w4k6g28lo1g3~x4/"><circle cx="337.5" cy="145.0" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/setts/s13/g2w10g3lo4g3lo4g24w2g4w4g1lo4g1~x2/"><circle cx="323.2" cy="118.5" r="4" fill="#3465a4"><title>McGill (Personal)</title></circle></a><a href="/setts/s8/g3r12g12o5r1w25g2r1~x2/"><circle cx="222.9" cy="124.9" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/setts/s14/w3k1g15k6g5k3g8k2g5ly3w2ly4k1w3~x2/"><circle cx="236.4" cy="148.4" r="4" fill="#3465a4"><title>Avalon - Calvert House</title></circle></a><circle cx="272.4" cy="123.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/g26r5k1r2k1r5g16r5w16g2w8~x2/

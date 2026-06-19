@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -907,18 +910,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Craigmoor](/setts/s9/k2r8db2k2r2k6dy2dg6ly1~x2/) — ΔT 0.95
 1. [Craigmoor Tartan Tartan Number: 1147. Earliest known date: pre 2003 MacGregor Hastie wrote, "This tartan was designed by me to meet a long felt want. Many people have asked if there was a Craig family tartan, and as the name is not connected with any Highland clan, yet the the family name is numerous, it seemed a good idea to design one. The design is based on the general colour of craigs and rocks." The Craig tartan is now in general production. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/k2r8db2k2r2k6dy2g6ly1~x2/) — ΔT 0.99
 1. [Scotch House 2000, dress](/setts/s7/dg22w3k2ly3k19r18g4~x2/) — ΔT 0.99
-1. [Wilson's, No 83](/setts/s8/k14ly3g18r15w2r3w2p14~x2/) — ΔT 1.07
 1. [McMuldroch (2014)](/setts/s10/g19k18r18w2ly2dp2ly2w2r8dp3~x2/) — ΔT 1.07
+1. [Wilson's, No 83](/setts/s8/k14ly3g18r15w2r3w2p14~x2/) — ΔT 1.08
 1. [Comyn, Cumming](/setts/s9/r4w1r4g10ly1k10t4k2t4~x4/) — ΔT 1.09
 1. [Unidentified 25](/setts/s10/r4g7ly3g12k16t5r20t5k4t2~x2/) — ΔT 1.13
-1. [Cumming LO](/setts/s9/b4k2b4k10y1dg10r4lr1r4~x2/) — ΔT 1.20
-1. [Cumming LO](/setts/s9/b4k2b4k10y1dg10r4lr1r4/) — ΔT 1.20
+1. [Cumming LO](/setts/s9/r4lr1r4dg10y1k10b4k2b4~x2/) — ΔT 1.20
 1. [Royal Stewart](/setts/s12/r20t14k17ly2k3w3k3g24r14k4r4w2~x2/) — ΔT 1.21
+1. [Scotch House 2000 Dress](/setts/s7/g22w3k2ly3k19r18db4~x2/) — ΔT 1.22
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k2r8db2k2r2k6dy2dg6ly1~x2/"><circle cx="103.7" cy="174.0" r="4" fill="#3465a4"><title>Craigmoor</title></circle></a><a href="/setts/s9/k2r8db2k2r2k6dy2g6ly1~x2/"><circle cx="105.5" cy="176.0" r="4" fill="#3465a4"><title>Craigmoor Tartan Tartan Number: 1147. Earliest known date: pre 2003 MacGregor Hastie wrote, &quot;This tartan was designed by me to meet a long felt want. Many people have asked if there was a Craig family tartan, and as the name is not connected with any Highland clan, yet the the family name is numerous, it seemed a good idea to design one. The design is based on the general colour of craigs and rocks.&quot; The Craig tartan is now in general production. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dg22w3k2ly3k19r18g4~x2/"><circle cx="100.9" cy="155.0" r="4" fill="#3465a4"><title>Scotch House 2000, dress</title></circle></a><a href="/setts/s8/k14ly3g18r15w2r3w2p14~x2/"><circle cx="48.5" cy="154.0" r="4" fill="#3465a4"><title>Wilson's, No 83</title></circle></a><a href="/setts/s10/g19k18r18w2ly2dp2ly2w2r8dp3~x2/"><circle cx="106.5" cy="129.4" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s9/r4w1r4g10ly1k10t4k2t4~x4/"><circle cx="64.8" cy="154.5" r="4" fill="#3465a4"><title>Comyn, Cumming</title></circle></a><a href="/setts/s10/r4g7ly3g12k16t5r20t5k4t2~x2/"><circle cx="94.4" cy="161.1" r="4" fill="#3465a4"><title>Unidentified 25</title></circle></a><a href="/setts/s9/b4k2b4k10y1dg10r4lr1r4~x2/"><circle cx="84.5" cy="166.0" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/setts/s9/b4k2b4k10y1dg10r4lr1r4/"><circle cx="84.5" cy="166.0" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3g24r14k4r4w2~x2/"><circle cx="100.5" cy="119.9" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><circle cx="79.5" cy="165.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k2r8db2k2r2k6dy2dg6ly1~x2/"><circle cx="103.8" cy="174.1" r="4" fill="#3465a4"><title>Craigmoor</title></circle></a><a href="/setts/s9/k2r8db2k2r2k6dy2g6ly1~x2/"><circle cx="105.5" cy="176.2" r="4" fill="#3465a4"><title>Craigmoor Tartan Tartan Number: 1147. Earliest known date: pre 2003 MacGregor Hastie wrote, &quot;This tartan was designed by me to meet a long felt want. Many people have asked if there was a Craig family tartan, and as the name is not connected with any Highland clan, yet the the family name is numerous, it seemed a good idea to design one. The design is based on the general colour of craigs and rocks.&quot; The Craig tartan is now in general production. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dg22w3k2ly3k19r18g4~x2/"><circle cx="101.0" cy="155.1" r="4" fill="#3465a4"><title>Scotch House 2000, dress</title></circle></a><a href="/setts/s10/g19k18r18w2ly2dp2ly2w2r8dp3~x2/"><circle cx="106.5" cy="129.5" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s8/k14ly3g18r15w2r3w2p14~x2/"><circle cx="48.5" cy="154.1" r="4" fill="#3465a4"><title>Wilson's, No 83</title></circle></a><a href="/setts/s9/r4w1r4g10ly1k10t4k2t4~x4/"><circle cx="65.0" cy="154.5" r="4" fill="#3465a4"><title>Comyn, Cumming</title></circle></a><a href="/setts/s10/r4g7ly3g12k16t5r20t5k4t2~x2/"><circle cx="94.4" cy="161.1" r="4" fill="#3465a4"><title>Unidentified 25</title></circle></a><a href="/setts/s9/r4lr1r4dg10y1k10b4k2b4~x2/"><circle cx="84.7" cy="166.1" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3g24r14k4r4w2~x2/"><circle cx="100.5" cy="120.0" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/setts/s7/g22w3k2ly3k19r18db4~x2/"><circle cx="112.8" cy="158.2" r="4" fill="#3465a4"><title>Scotch House 2000 Dress</title></circle></a><circle cx="79.6" cy="165.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/k2r8db2k2r2k6o2g6ly1~x2/

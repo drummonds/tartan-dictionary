@@ -2,7 +2,7 @@
 title: "O'Connor, Old"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGWGWGKKKKKKG](/stripes/gkgkgwgwgkkkkkkg/) · **Stripes:** [G K G K G W G W G K K K K K K G](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K G K G W G W G K K K K K K G</span></span>
+**Bands:** [GKKKKKKGWGWGKGKG](/stripes/gkkkkkkgwgwgkgkg/) · **Stripes:** [G K K K K K K G W G W G K G K G](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K K K K K K G W G W G K G K G</span></span>
 
 
 This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/3 DB28 K4 DB4 K4 DB4 K16 G26 LN4 G24 LN4 G26 K16 G12 K24 G/5
+G/5 K24 G12 K16 G26 LN4 G24 LN4 G26 K16 DB4 K4 DB4 K4 DB28 G/3
 ![Sett](sett.png)
 
 ## Palette
@@ -903,8 +906,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Royal Na Connaught](/setts/s16/g5k12g6k8g13lb2g12lb2g13k8db2k2db2k2db14g3~x2/) — ΔT 0.82
-1. [Norwich No.115](/setts/s14/k6lt1g6k1g6lt1k6db10k6lt1g6k1g6lt1~x2/) — ΔT 0.87
-1. [Davidson](/setts/s11/r1db6g1db1g6k1g6k1g1k6r1~x4/) — ΔT 1.18
+1. [Norwich No.115](/setts/s14/db10k6lt1g6k1g6lt1k6~x2/) — ΔT 0.87
+1. [Davidson](/setts/s11/r1k6g1k1g6k1g6db1g1db6r1~x4/) — ΔT 1.18
 1. [Smeaton](/setts/s10/dt12w2dt7g15k2g4k2g15dt2k7~x2/) — ΔT 1.25
 1. [Stephenson, hunting](/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/) — ΔT 1.29
 1. [Unnamed 5](/setts/s13/r3k2db10k10g12k8g12k10g2k10db2k2db2/) — ΔT 1.32
@@ -915,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/g5k12g6k8g13lb2g12lb2g13k8db2k2db2k2db14g3~x2/"><circle cx="182.1" cy="195.1" r="4" fill="#3465a4"><title>Royal Na Connaught</title></circle></a><a href="/setts/s14/k6lt1g6k1g6lt1k6db10k6lt1g6k1g6lt1~x2/"><circle cx="159.3" cy="187.0" r="4" fill="#3465a4"><title>Norwich No.115</title></circle></a><a href="/setts/s11/r1db6g1db1g6k1g6k1g1k6r1~x4/"><circle cx="175.3" cy="201.9" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/setts/s10/dt12w2dt7g15k2g4k2g15dt2k7~x2/"><circle cx="212.8" cy="210.6" r="4" fill="#3465a4"><title>Smeaton</title></circle></a><a href="/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="149.4" cy="183.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s13/r3k2db10k10g12k8g12k10g2k10db2k2db2/"><circle cx="184.4" cy="218.0" r="4" fill="#3465a4"><title>Unnamed 5</title></circle></a><a href="/setts/s14/k4ly1k4g1k4w1k4g1k1g6k1g6k1g1~x4/"><circle cx="225.4" cy="203.4" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s12/g22k4g4k21ly2k4ly2k21g4k2db2g22~x2/"><circle cx="249.5" cy="172.0" r="4" fill="#3465a4"><title>Hopetoun</title></circle></a><a href="/setts/s14/dt4g1dt1g6k1g6dt1g1dt4w1k4g1k4ly2~x4/"><circle cx="111.4" cy="184.8" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x2/"><circle cx="150.6" cy="183.4" r="4" fill="#3465a4"><title>Forbes</title></circle></a><circle cx="184.3" cy="179.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/g5k12g6k8g13lb2g12lb2g13k8db2k2db2k2db14g3~x2/"><circle cx="182.2" cy="194.9" r="4" fill="#3465a4"><title>Royal Na Connaught</title></circle></a><a href="/setts/s14/db10k6lt1g6k1g6lt1k6~x2/"><circle cx="159.5" cy="186.9" r="4" fill="#3465a4"><title>Norwich No.115</title></circle></a><a href="/setts/s11/r1k6g1k1g6k1g6db1g1db6r1~x4/"><circle cx="175.5" cy="201.8" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/setts/s10/dt12w2dt7g15k2g4k2g15dt2k7~x2/"><circle cx="212.8" cy="210.5" r="4" fill="#3465a4"><title>Smeaton</title></circle></a><a href="/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="149.6" cy="183.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s13/r3k2db10k10g12k8g12k10g2k10db2k2db2/"><circle cx="184.6" cy="217.9" r="4" fill="#3465a4"><title>Unnamed 5</title></circle></a><a href="/setts/s14/k4ly1k4g1k4w1k4g1k1g6k1g6k1g1~x4/"><circle cx="225.5" cy="203.2" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s12/g22k4g4k21ly2k4ly2k21g4k2db2g22~x2/"><circle cx="249.6" cy="171.8" r="4" fill="#3465a4"><title>Hopetoun</title></circle></a><a href="/setts/s14/dt4g1dt1g6k1g6dt1g1dt4w1k4g1k4ly2~x4/"><circle cx="111.6" cy="184.8" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x2/"><circle cx="150.8" cy="183.3" r="4" fill="#3465a4"><title>Forbes</title></circle></a><circle cx="184.4" cy="179.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/g5k24g12k16g26w4g24w4g26k16k4k4k4k4k28g3/

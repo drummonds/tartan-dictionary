@@ -2,7 +2,7 @@
 title: "Stakis Hotels (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BBR](/stripes/bbr/) · **Stripes:** [T DB R](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">T DB R</span></span>
+**Bands:** [RBB](/stripes/rbb/) · **Stripes:** [R DB T](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">R DB T</span></span>
 
 
 This was sourced from tartans-authority.  It is a [3 band tartan](/bands/bands3/).
@@ -39,12 +39,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Fong Wedding (Personal)](/setts/s4/r21db43db86w10/) — ΔT 1.82
 1. [Swan, Brian E](/setts/s6/k6db17k6db17k27w3~x2/) — ΔT 1.83
 1. [Brazell (Personal)](/setts/s5/db7ly1db7t11r2~x6/) — ΔT 1.86
-1. [Scottish Nuclear (Corporate)](/setts/s4/lb1k4db9r1~x4/) — ΔT 1.93
+1. [Scottish Nuclear (Corporate)](/setts/s4/r1db9k4lb1~x4/) — ΔT 1.93
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db24t13db4t4w2~x2/"><circle cx="365.8" cy="234.8" r="4" fill="#3465a4"><title>Gallaecia (Unofficial) (District)</title></circle></a><a href="/setts/s4/w4t28db49ly3~x2/"><circle cx="346.0" cy="211.0" r="4" fill="#3465a4"><title>McKerrell of Hillhouse</title></circle></a><a href="/setts/s4/g20r7db40w2~x2/"><circle cx="346.2" cy="211.7" r="4" fill="#3465a4"><title>McNiff, Kevin (Personal)</title></circle></a><a href="/setts/s5/lr3k3lr3k10r1~x6/"><circle cx="351.6" cy="236.6" r="4" fill="#3465a4"><title>Burberry Blue</title></circle></a><a href="/setts/s4/r4db32k15w2~x2/"><circle cx="346.3" cy="209.1" r="4" fill="#3465a4"><title>Scottish Nuclear</title></circle></a><a href="/setts/s4/r5db26k12w2~x4/"><circle cx="330.2" cy="226.6" r="4" fill="#3465a4"><title>Mirror (Corporate)</title></circle></a><a href="/setts/s4/r21db43db86w10/"><circle cx="259.4" cy="236.9" r="4" fill="#3465a4"><title>Fong Wedding (Personal)</title></circle></a><a href="/setts/s6/k6db17k6db17k27w3~x2/"><circle cx="291.4" cy="258.3" r="4" fill="#3465a4"><title>Swan, Brian E</title></circle></a><a href="/setts/s5/db7ly1db7t11r2~x6/"><circle cx="265.5" cy="235.9" r="4" fill="#3465a4"><title>Brazell (Personal)</title></circle></a><a href="/setts/s4/lb1k4db9r1~x4/"><circle cx="346.7" cy="243.7" r="4" fill="#3465a4"><title>Scottish Nuclear (Corporate)</title></circle></a><circle cx="346.8" cy="263.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db24t13db4t4w2~x2/"><circle cx="365.8" cy="234.5" r="4" fill="#3465a4"><title>Gallaecia (Unofficial) (District)</title></circle></a><a href="/setts/s4/w4t28db49ly3~x2/"><circle cx="346.0" cy="210.7" r="4" fill="#3465a4"><title>McKerrell of Hillhouse</title></circle></a><a href="/setts/s4/g20r7db40w2~x2/"><circle cx="346.3" cy="211.5" r="4" fill="#3465a4"><title>McNiff, Kevin (Personal)</title></circle></a><a href="/setts/s5/lr3k3lr3k10r1~x6/"><circle cx="351.7" cy="236.2" r="4" fill="#3465a4"><title>Burberry Blue</title></circle></a><a href="/setts/s4/r4db32k15w2~x2/"><circle cx="346.4" cy="208.8" r="4" fill="#3465a4"><title>Scottish Nuclear</title></circle></a><a href="/setts/s4/r5db26k12w2~x4/"><circle cx="330.3" cy="226.4" r="4" fill="#3465a4"><title>Mirror (Corporate)</title></circle></a><a href="/setts/s4/r21db43db86w10/"><circle cx="259.5" cy="236.7" r="4" fill="#3465a4"><title>Fong Wedding (Personal)</title></circle></a><a href="/setts/s6/k6db17k6db17k27w3~x2/"><circle cx="291.7" cy="258.1" r="4" fill="#3465a4"><title>Swan, Brian E</title></circle></a><a href="/setts/s5/db7ly1db7t11r2~x6/"><circle cx="265.5" cy="235.7" r="4" fill="#3465a4"><title>Brazell (Personal)</title></circle></a><a href="/setts/s4/r1db9k4lb1~x4/"><circle cx="346.7" cy="243.5" r="4" fill="#3465a4"><title>Scottish Nuclear (Corporate)</title></circle></a><circle cx="347.0" cy="263.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/t9db14r1~x4/

@@ -50,8 +50,8 @@ Grouped by stripe pattern — the 5 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [MacGregor](/setts/s6/r36dg18r4dg6k1lb2~x2/)|
-|![MacGregor example sett](/setts/s6/r36dg18r4dg6k1lb2~x2/sett.png)|
+| [MacGregor](/setts/s6/r36dg18r4dg6k1lb2/)|
+|![MacGregor example sett](/setts/s6/r36dg18r4dg6k1lb2/sett.png)|
 
 ### R DG R DG K W <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DG R DG K W</span></span>
 

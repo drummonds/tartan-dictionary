@@ -20,7 +20,7 @@ RBYKGR
 
 
 
-### R B LR K DG R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">R B LR K DG R</span></span>
+### R DG K LR B R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG K LR B R</span></span>
 
 | Tartans |
 |---------------|
@@ -30,4 +30,6 @@ RBYKGR
 |![Sinclair Dress example sett](/setts/s6/r28dg16k4lr1b6r28~x2/sett.png)|
 | [Sinclair](/setts/s6/r30dg12k5lr2b6r30/)|
 |![Sinclair example sett](/setts/s6/r30dg12k5lr2b6r30/sett.png)|
+| [Sinclair Dress](/setts/s6/r28dg16k4lr1b6r28/)|
+|![Sinclair Dress example sett](/setts/s6/r28dg16k4lr1b6r28/sett.png)|
 

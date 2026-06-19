@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4003
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Stewart, Fawn
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -923,8 +932,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/lo24k5r2k2w2n8w3k2w2lo2~x2/"><circle cx="242.3" cy="123.0" r="4" fill="#3465a4"><title>Stewart Fawn Trade Tartan Tartan Number: 1738. Earliest known date: 1985 A very attractive sett based on the Royal Stewart tartan but using the colours of the Burberry Check. See Thompson Camel tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/o53ly6k10w3k3ly4k10r8k3r6w3/"><circle cx="247.6" cy="92.3" r="4" fill="#3465a4"><title>Stevens #5</title></circle></a><a href="/setts/s9/g4ly9g3db4g3w3r32g4ly3~x2/"><circle cx="250.4" cy="124.7" r="4" fill="#3465a4"><title>Antrim County Crest (Fashion)</title></circle></a><a href="/setts/s12/o22w2o2w2o4k5o5k5y5m2y13w2~x2/"><circle cx="213.0" cy="135.8" r="4" fill="#3465a4"><title>Glen Nevis</title></circle></a><a href="/setts/s12/r3r4g3p3r11g30r3p7g3r2r4w2~x2/"><circle cx="266.3" cy="120.7" r="4" fill="#3465a4"><title>MacKinnon 1</title></circle></a><a href="/setts/s11/dy27w2dy3lo4dy3w2dy5k13n2w26n3~x2/"><circle cx="189.2" cy="113.8" r="4" fill="#3465a4"><title>MacKellar Dress, Maroon (Dance)</title></circle></a><a href="/setts/s15/r6m3w3r4g33m3w3r4w3m3db9r33m3w4r4~x2/"><circle cx="214.5" cy="107.2" r="4" fill="#3465a4"><title>MacDougall 10</title></circle></a><a href="/setts/s12/n4r20k2r2k2r3k6o26w3o2w2o4~x2/"><circle cx="225.1" cy="120.0" r="4" fill="#3465a4"><title>Eidart 1990 (Fashion)</title></circle></a><a href="/setts/s12/r3r4dg3dp3r11dg30r3dp7dg3r2r4w2~x2/"><circle cx="266.1" cy="120.3" r="4" fill="#3465a4"><title>MacKinnon #7</title></circle></a><a href="/setts/s8/r1o1dg6o15dy2o1dy6w1~x4/"><circle cx="284.8" cy="143.4" r="4" fill="#3465a4"><title>Connacht #2</title></circle></a><circle cx="242.6" cy="117.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/lo24k5r2k2w2n8w3k2w2lo2~x2/"><circle cx="242.0" cy="122.9" r="4" fill="#3465a4"><title>Stewart Fawn Trade Tartan Tartan Number: 1738. Earliest known date: 1985 A very attractive sett based on the Royal Stewart tartan but using the colours of the Burberry Check. See Thompson Camel tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/o53ly6k10w3k3ly4k10r8k3r6w3/"><circle cx="247.2" cy="92.2" r="4" fill="#3465a4"><title>Stevens #5</title></circle></a><a href="/setts/s9/g4ly9g3db4g3w3r32g4ly3~x2/"><circle cx="250.0" cy="124.6" r="4" fill="#3465a4"><title>Antrim County Crest (Fashion)</title></circle></a><a href="/setts/s12/o22w2o2w2o4k5o5k5y5m2y13w2~x2/"><circle cx="212.7" cy="135.8" r="4" fill="#3465a4"><title>Glen Nevis</title></circle></a><a href="/setts/s12/r3r4g3p3r11g30r3p7g3r2r4w2~x2/"><circle cx="266.0" cy="120.7" r="4" fill="#3465a4"><title>MacKinnon 1</title></circle></a><a href="/setts/s11/dy27w2dy3lo4dy3w2dy5k13n2w26n3~x2/"><circle cx="188.9" cy="113.8" r="4" fill="#3465a4"><title>MacKellar Dress, Maroon (Dance)</title></circle></a><a href="/setts/s15/r6m3w3r4g33m3w3r4w3m3db9r33m3w4r4~x2/"><circle cx="214.2" cy="107.3" r="4" fill="#3465a4"><title>MacDougall 10</title></circle></a><a href="/setts/s12/n4r20k2r2k2r3k6o26w3o2w2o4~x2/"><circle cx="224.8" cy="120.0" r="4" fill="#3465a4"><title>Eidart 1990 (Fashion)</title></circle></a><a href="/setts/s12/r3r4dg3dp3r11dg30r3dp7dg3r2r4w2~x2/"><circle cx="265.9" cy="120.3" r="4" fill="#3465a4"><title>MacKinnon #7</title></circle></a><a href="/setts/s8/r1o1dg6o15dy2o1dy6w1~x4/"><circle cx="284.5" cy="143.4" r="4" fill="#3465a4"><title>Connacht #2</title></circle></a><circle cx="242.3" cy="117.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/o24k5r2k2w2n8w3k2w2o2~x2/

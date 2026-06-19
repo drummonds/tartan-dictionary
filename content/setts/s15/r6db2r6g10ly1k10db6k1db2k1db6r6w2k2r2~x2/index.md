@@ -2,12 +2,18 @@
 title: "MacPherson 10"
 date: 2023-03-18
 ---
-**Bands:** [RBRGYKBKBKBRWKR](/stripes/rbrgykbkbkbrwkr/) · **Stripes:** [R DB R G LY K DB K DB K DB R W K R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB R G LY K DB K DB K DB R W K R</span></span>
+**Bands:** [RKWRBKBKBKYGRBR](/stripes/rkwrbkbkbkygrbr/) · **Stripes:** [R K W R DB K DB K DB K LY G R DB R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K W R DB K DB K DB K LY G R DB R</span></span>
 
 
 This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacPherson #7
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -918,14 +927,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Christie](/setts/s13/r6db2k2db4k4ly2k1w2k1dg9r6w2r6~x4/) — ΔT 0.90
 1. [Dunkeld](/setts/s15/o4o3w24o4o4k12m16k2w4k2m16k12dr16k2o4/) — ΔT 0.92
 1. [Buchanan (a)](/setts/s18/ly6k1db4k1r8lr1r8k1db4k1dg6db4dg6k1db4k1ly6k1~x2/) — ΔT 0.94
-1. [Buchanan](/setts/s18/ly6k1db4k1r8lr1r8k1db4k1dg6db4dg6k1db4k1ly6k1/) — ΔT 0.94
 1. [Quadra](/setts/s20/g4k3r1k3r2k2r4k1r4g3k2lo2k2r2k6db6lb14k3lb3r3~x2/) — ΔT 0.95
 1. [Royal Stewart](/setts/s12/r20t14k17ly2k3w3k3g24r14k4r4w2~x2/) — ΔT 0.98
+1. [Kinloch Anderson, dress](/setts/s12/r4o14w2o4w2k6o3k6db14r2db4r4~x2/) — ΔT 0.98
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r6db1r6g8ly1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="91.2" cy="136.9" r="4" fill="#3465a4"><title>MacPherson 9</title></circle></a><a href="/setts/s13/db23r6db6k10ly3k2w2k2g11r12k2r10w2~x2/"><circle cx="96.5" cy="121.6" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><a href="/setts/s15/r6db2r6dg10ly1k10db6k1db2k1db6r6w2k2r2~x2/"><circle cx="92.9" cy="138.0" r="4" fill="#3465a4"><title>MacPherson #7</title></circle></a><a href="/setts/s14/r13w2r13k3r13dg21n3k18n9k2n2k2n15w2~x2/"><circle cx="54.9" cy="133.4" r="4" fill="#3465a4"><title>Taiwan Scottish</title></circle></a><a href="/setts/s13/r6db2k2db4k4ly2k1w2k1dg9r6w2r6~x4/"><circle cx="79.3" cy="139.5" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/setts/s15/o4o3w24o4o4k12m16k2w4k2m16k12dr16k2o4/"><circle cx="45.5" cy="108.1" r="4" fill="#3465a4"><title>Dunkeld</title></circle></a><a href="/setts/s18/ly6k1db4k1r8lr1r8k1db4k1dg6db4dg6k1db4k1ly6k1~x2/"><circle cx="29.4" cy="137.3" r="4" fill="#3465a4"><title>Buchanan (a)</title></circle></a><a href="/setts/s18/ly6k1db4k1r8lr1r8k1db4k1dg6db4dg6k1db4k1ly6k1/"><circle cx="29.4" cy="137.3" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/setts/s20/g4k3r1k3r2k2r4k1r4g3k2lo2k2r2k6db6lb14k3lb3r3~x2/"><circle cx="79.8" cy="102.8" r="4" fill="#3465a4"><title>Quadra</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3g24r14k4r4w2~x2/"><circle cx="100.5" cy="119.9" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><circle cx="75.6" cy="132.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r6db1r6g8ly1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="91.2" cy="137.0" r="4" fill="#3465a4"><title>MacPherson 9</title></circle></a><a href="/setts/s13/db23r6db6k10ly3k2w2k2g11r12k2r10w2~x2/"><circle cx="96.5" cy="121.7" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><a href="/setts/s15/r6db2r6dg10ly1k10db6k1db2k1db6r6w2k2r2~x2/"><circle cx="92.9" cy="138.2" r="4" fill="#3465a4"><title>MacPherson #7</title></circle></a><a href="/setts/s14/r13w2r13k3r13dg21n3k18n9k2n2k2n15w2~x2/"><circle cx="55.0" cy="133.6" r="4" fill="#3465a4"><title>Taiwan Scottish</title></circle></a><a href="/setts/s13/r6db2k2db4k4ly2k1w2k1dg9r6w2r6~x4/"><circle cx="79.3" cy="139.6" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/setts/s15/o4o3w24o4o4k12m16k2w4k2m16k12dr16k2o4/"><circle cx="45.5" cy="108.2" r="4" fill="#3465a4"><title>Dunkeld</title></circle></a><a href="/setts/s18/ly6k1db4k1r8lr1r8k1db4k1dg6db4dg6k1db4k1ly6k1~x2/"><circle cx="29.5" cy="137.4" r="4" fill="#3465a4"><title>Buchanan (a)</title></circle></a><a href="/setts/s20/g4k3r1k3r2k2r4k1r4g3k2lo2k2r2k6db6lb14k3lb3r3~x2/"><circle cx="79.8" cy="103.0" r="4" fill="#3465a4"><title>Quadra</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3g24r14k4r4w2~x2/"><circle cx="100.5" cy="120.0" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/setts/s12/r4o14w2o4w2k6o3k6db14r2db4r4~x2/"><circle cx="45.5" cy="153.8" r="4" fill="#3465a4"><title>Kinloch Anderson, dress</title></circle></a><circle cx="75.6" cy="132.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/r6db2r6g10ly1k10db6k1db2k1db6r6w2k2r2~x2/

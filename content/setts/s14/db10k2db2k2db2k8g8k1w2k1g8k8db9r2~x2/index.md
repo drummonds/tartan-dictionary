@@ -2,7 +2,7 @@
 title: "MacKenzie"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKGKWKGKBR](/stripes/bkbkbkgkwkgkbr/) · **Stripes:** [DB K DB K DB K G K W K G K DB R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K DB K DB K G K W K G K DB R</span></span>
+**Bands:** [RBKGKWKGKBKBKB](/stripes/rbkgkwkgkbkbkb/) · **Stripes:** [R DB K G K W K G K DB K DB K DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB K G K W K G K DB K DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -913,18 +916,18 @@ The nearest existing variants by ΔTartan distance.
 1. [MacLeod of Skye](/setts/s14/db10k1db1k1db1k6g6k1ly2k1g6k6db6r3~x2/) — ΔT 0.36
 1. [MacLeod of Gesto](/setts/s13/db9k1db1k1db1k7g8ly2g8k7db8k1r2~x2/) — ΔT 0.44
 1. [Glengoyne, Distillery](/setts/s15/db11k3db3k3db3k9dg9k1y3k1dg9k9db9k1w3~x2/) — ΔT 0.45
-1. [Spar (UK) Ltd](/setts/s12/db2k1db10k9g9r1g2w1g9k9db10k2~x4/) — ΔT 0.46
+1. [Spar (UK) Ltd](/setts/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/) — ΔT 0.46
 1. [MacClellan](/setts/s14/db18k5g3r3g6k2ly2k2g6r3g3k10db5k10/) — ΔT 0.49
 1. [Baillie](/setts/s15/db28k4db4k4db4k28g26k3ly5k3g26k28db26k3r5/) — ΔT 0.58
-1. [MacEwen / MacEwan](/setts/s13/ly2k1g12k12db12k1db2k1db12k12g12k1r2~x2/) — ΔT 0.59
+1. [MacEwen / MacEwan](/setts/s13/r2k1g12k12db12k1db2k1db12k12g12k1ly2~x2/) — ΔT 0.59
 1. [MacRae, hunting](/setts/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/) — ΔT 0.60
 1. [Dyce](/setts/s14/db9k1db1k1db1k8g8ly1k1ly1g8k8db8w1~x2/) — ΔT 0.63
-1. [Stephenson, hunting](/setts/s15/g5k3db25k25g25k3w3k6w3k3g25k25db25k3r5~x2/) — ΔT 0.65
+1. [Stephenson, hunting](/setts/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5~x2/) — ΔT 0.65
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db10k1db1k1db1k6g6k1ly2k1g6k6db6r3~x2/"><circle cx="121.2" cy="159.3" r="4" fill="#3465a4"><title>MacLeod of Skye</title></circle></a><a href="/setts/s13/db9k1db1k1db1k7g8ly2g8k7db8k1r2~x2/"><circle cx="115.6" cy="168.6" r="4" fill="#3465a4"><title>MacLeod of Gesto</title></circle></a><a href="/setts/s15/db11k3db3k3db3k9dg9k1y3k1dg9k9db9k1w3~x2/"><circle cx="124.4" cy="168.0" r="4" fill="#3465a4"><title>Glengoyne, Distillery</title></circle></a><a href="/setts/s12/db2k1db10k9g9r1g2w1g9k9db10k2~x4/"><circle cx="127.0" cy="175.7" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/setts/s14/db18k5g3r3g6k2ly2k2g6r3g3k10db5k10/"><circle cx="124.0" cy="164.3" r="4" fill="#3465a4"><title>MacClellan</title></circle></a><a href="/setts/s15/db28k4db4k4db4k28g26k3ly5k3g26k28db26k3r5/"><circle cx="138.9" cy="155.6" r="4" fill="#3465a4"><title>Baillie</title></circle></a><a href="/setts/s13/ly2k1g12k12db12k1db2k1db12k12g12k1r2~x2/"><circle cx="137.9" cy="154.8" r="4" fill="#3465a4"><title>MacEwen / MacEwan</title></circle></a><a href="/setts/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/"><circle cx="103.4" cy="161.2" r="4" fill="#3465a4"><title>MacRae, hunting</title></circle></a><a href="/setts/s14/db9k1db1k1db1k8g8ly1k1ly1g8k8db8w1~x2/"><circle cx="121.7" cy="157.0" r="4" fill="#3465a4"><title>Dyce</title></circle></a><a href="/setts/s15/g5k3db25k25g25k3w3k6w3k3g25k25db25k3r5~x2/"><circle cx="127.2" cy="158.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><circle cx="123.5" cy="166.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db10k1db1k1db1k6g6k1ly2k1g6k6db6r3~x2/"><circle cx="121.4" cy="159.4" r="4" fill="#3465a4"><title>MacLeod of Skye</title></circle></a><a href="/setts/s13/db9k1db1k1db1k7g8ly2g8k7db8k1r2~x2/"><circle cx="115.7" cy="168.6" r="4" fill="#3465a4"><title>MacLeod of Gesto</title></circle></a><a href="/setts/s15/db11k3db3k3db3k9dg9k1y3k1dg9k9db9k1w3~x2/"><circle cx="124.7" cy="168.0" r="4" fill="#3465a4"><title>Glengoyne, Distillery</title></circle></a><a href="/setts/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/"><circle cx="127.2" cy="175.7" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/setts/s14/db18k5g3r3g6k2ly2k2g6r3g3k10db5k10/"><circle cx="124.2" cy="164.3" r="4" fill="#3465a4"><title>MacClellan</title></circle></a><a href="/setts/s15/db28k4db4k4db4k28g26k3ly5k3g26k28db26k3r5/"><circle cx="139.0" cy="155.7" r="4" fill="#3465a4"><title>Baillie</title></circle></a><a href="/setts/s13/r2k1g12k12db12k1db2k1db12k12g12k1ly2~x2/"><circle cx="138.1" cy="154.8" r="4" fill="#3465a4"><title>MacEwen / MacEwan</title></circle></a><a href="/setts/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/"><circle cx="103.6" cy="161.2" r="4" fill="#3465a4"><title>MacRae, hunting</title></circle></a><a href="/setts/s14/db9k1db1k1db1k8g8ly1k1ly1g8k8db8w1~x2/"><circle cx="121.8" cy="157.1" r="4" fill="#3465a4"><title>Dyce</title></circle></a><a href="/setts/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5~x2/"><circle cx="127.4" cy="158.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><circle cx="123.7" cy="166.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/db10k2db2k2db2k8g8k1w2k1g8k8db9r2~x2/

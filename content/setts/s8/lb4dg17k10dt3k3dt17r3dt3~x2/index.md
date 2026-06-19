@@ -18,7 +18,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2054
 
 ## Thread count
-DB/6 DR6 DB34 K6 DB6 K20 DG34 N/8
+N/8 DG34 K20 DB6 K6 DB34 DR6 DB/6
 ![Sett](sett.png)
 
 ## Palette
@@ -34,7 +34,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/6 DR6 DB34 K6 DB6 K20 DG34 N/8 tartan")
+![Tartan detail](tartan.png "N/8 DG34 K20 DB6 K6 DB34 DR6 DB/6 tartan")
 
 ## Nearest tartans
 
@@ -53,8 +53,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/ly4dg17k10dt3k3dt17r3dt3~x2/"><circle cx="197.2" cy="244.8" r="4" fill="#3465a4"><title>Royal Highland Society (Corporate)</title></circle></a><a href="/setts/s7/r5db8k5db24k24y24y5~x2/"><circle cx="154.1" cy="254.7" r="4" fill="#3465a4"><title>Heritage (Corporate)</title></circle></a><a href="/setts/s9/dt20b3dt4r3dt3k10g21k4r20~x2/"><circle cx="157.1" cy="217.6" r="4" fill="#3465a4"><title>Holland &amp; Sherry (Corporate)</title></circle></a><a href="/setts/s8/g11t3g5r3g5k22db22k5~x2/"><circle cx="172.3" cy="216.7" r="4" fill="#3465a4"><title>Wood (Personal)</title></circle></a><a href="/setts/s7/db24k4r3k4dg24k4r4~x2/"><circle cx="200.8" cy="207.7" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/setts/s7/db2dy3db16k18g18k2r2~x2/"><circle cx="186.4" cy="214.3" r="4" fill="#3465a4"><title>McEwan '1856', The</title></circle></a><a href="/setts/s6/db2k2db12k8dg11r2~x2/"><circle cx="217.2" cy="272.3" r="4" fill="#3465a4"><title>Murray #3</title></circle></a><a href="/setts/s12/dt3r2dt13k9do3k2do14k2do3k9dt15lb3~x2/"><circle cx="222.7" cy="224.7" r="4" fill="#3465a4"><title>McWilliams Dress (2014)</title></circle></a><a href="/setts/s12/db4lo3db24k18dg24t3dg4lo3dg24k18db24t3~x2/"><circle cx="201.2" cy="225.9" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes, The</title></circle></a><a href="/setts/s6/r4k15t4dt15dg24y4~x2/"><circle cx="157.3" cy="244.6" r="4" fill="#3465a4"><title>Haughfoot (Commemorative)</title></circle></a><circle cx="188.5" cy="240.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/ly4dg17k10dt3k3dt17r3dt3~x2/"><circle cx="197.4" cy="245.0" r="4" fill="#3465a4"><title>Royal Highland Society (Corporate)</title></circle></a><a href="/setts/s7/r5db8k5db24k24y24y5~x2/"><circle cx="154.4" cy="254.9" r="4" fill="#3465a4"><title>Heritage (Corporate)</title></circle></a><a href="/setts/s9/dt20b3dt4r3dt3k10g21k4r20~x2/"><circle cx="157.2" cy="217.8" r="4" fill="#3465a4"><title>Holland &amp; Sherry (Corporate)</title></circle></a><a href="/setts/s8/g11t3g5r3g5k22db22k5~x2/"><circle cx="172.4" cy="216.8" r="4" fill="#3465a4"><title>Wood (Personal)</title></circle></a><a href="/setts/s7/db24k4r3k4dg24k4r4~x2/"><circle cx="200.9" cy="207.8" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/setts/s7/db2dy3db16k18g18k2r2~x2/"><circle cx="186.6" cy="214.4" r="4" fill="#3465a4"><title>McEwan '1856', The</title></circle></a><a href="/setts/s6/db2k2db12k8dg11r2~x2/"><circle cx="217.4" cy="272.4" r="4" fill="#3465a4"><title>Murray #3</title></circle></a><a href="/setts/s12/dt3r2dt13k9do3k2do14k2do3k9dt15lb3~x2/"><circle cx="222.8" cy="224.9" r="4" fill="#3465a4"><title>McWilliams Dress (2014)</title></circle></a><a href="/setts/s12/db4lo3db24k18dg24t3dg4lo3dg24k18db24t3~x2/"><circle cx="201.4" cy="226.1" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes, The</title></circle></a><a href="/setts/s6/r4k15t4dt15dg24y4~x2/"><circle cx="157.6" cy="244.8" r="4" fill="#3465a4"><title>Haughfoot (Commemorative)</title></circle></a><circle cx="188.7" cy="240.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/lb4dg17k10dt3k3dt17r3dt3~x2/

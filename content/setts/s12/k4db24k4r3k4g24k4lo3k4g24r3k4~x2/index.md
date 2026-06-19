@@ -2,7 +2,7 @@
 title: "Skene"
 date: 2023-03-18
 ---
-**Bands:** [KBKRKGKYKGRK](/stripes/kbkrkgkykgrk/) · **Stripes:** [K DB K R K G K LO K G R K](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB K R K G K LO K G R K</span></span>
+**Bands:** [KRGKYKGKRKBK](/stripes/krgkykgkrkbk/) · **Stripes:** [K R G K LO K G K R K DB K](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K R G K LO K G K R K DB K</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,14 +913,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Cochrane, -1974](/setts/s13/g22r4g2r2g2r4g12k12r2db10r4db4ly3~x2/) — ΔT 1.02
 1. [Louise](/setts/s11/g2k1db9k7g1k1g1k1g9r1g1~x4/) — ΔT 1.08
 1. [Corstorphine Trial A](/setts/s10/k6ly2g18w3g13k3ly4k3db18w3~x2/) — ΔT 1.11
-1. [Reid, Green](/setts/s13/w1r2g10r2g2db8g2k8g2r2g10r2w1~x4/) — ΔT 1.11
+1. [Reid, Green](/setts/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x4/) — ΔT 1.11
 1. [Hebrides](/setts/s9/k15ly2k2lb2k2dg10o6k3lb2~x2/) — ΔT 1.12
 1. [Connolly Hunting (Name)](/setts/s10/k6r2k2r2k6db7g20ly2g3r2~x2/) — ΔT 1.14
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g8w1g1r1g4k4db8k1db1k1~x2/"><circle cx="168.3" cy="172.3" r="4" fill="#3465a4"><title>Allon/Allan</title></circle></a><a href="/setts/s10/db4dg8k8db4ly3dg21k3lb4k3lb4~x2/"><circle cx="163.2" cy="179.9" r="4" fill="#3465a4"><title>Wellecomme, Bernard (Personal)</title></circle></a><a href="/setts/s14/dg5g3dg16k2dg4k12g4dg2lb5dg2g16dg2k2ly3~x2/"><circle cx="140.4" cy="164.3" r="4" fill="#3465a4"><title>Celtic Football Club (1996)</title></circle></a><a href="/setts/s9/r4db11k3db3k3db4k15g36w3~x2/"><circle cx="193.9" cy="145.1" r="4" fill="#3465a4"><title>Semple</title></circle></a><a href="/setts/s13/g22r4g2r2g2r4g12k12r2db10r4db4ly3~x2/"><circle cx="177.9" cy="144.7" r="4" fill="#3465a4"><title>Cochrane, -1974</title></circle></a><a href="/setts/s11/g2k1db9k7g1k1g1k1g9r1g1~x4/"><circle cx="194.9" cy="172.9" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/setts/s10/k6ly2g18w3g13k3ly4k3db18w3~x2/"><circle cx="147.9" cy="168.5" r="4" fill="#3465a4"><title>Corstorphine Trial A</title></circle></a><a href="/setts/s13/w1r2g10r2g2db8g2k8g2r2g10r2w1~x4/"><circle cx="208.9" cy="162.8" r="4" fill="#3465a4"><title>Reid, Green</title></circle></a><a href="/setts/s9/k15ly2k2lb2k2dg10o6k3lb2~x2/"><circle cx="203.2" cy="180.0" r="4" fill="#3465a4"><title>Hebrides</title></circle></a><a href="/setts/s10/k6r2k2r2k6db7g20ly2g3r2~x2/"><circle cx="207.7" cy="165.5" r="4" fill="#3465a4"><title>Connolly Hunting (Name)</title></circle></a><circle cx="178.3" cy="157.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g8w1g1r1g4k4db8k1db1k1~x2/"><circle cx="168.3" cy="172.3" r="4" fill="#3465a4"><title>Allon/Allan</title></circle></a><a href="/setts/s10/db4dg8k8db4ly3dg21k3lb4k3lb4~x2/"><circle cx="163.2" cy="179.9" r="4" fill="#3465a4"><title>Wellecomme, Bernard (Personal)</title></circle></a><a href="/setts/s14/dg5g3dg16k2dg4k12g4dg2lb5dg2g16dg2k2ly3~x2/"><circle cx="140.5" cy="164.3" r="4" fill="#3465a4"><title>Celtic Football Club (1996)</title></circle></a><a href="/setts/s9/r4db11k3db3k3db4k15g36w3~x2/"><circle cx="194.0" cy="145.0" r="4" fill="#3465a4"><title>Semple</title></circle></a><a href="/setts/s13/g22r4g2r2g2r4g12k12r2db10r4db4ly3~x2/"><circle cx="177.8" cy="144.7" r="4" fill="#3465a4"><title>Cochrane, -1974</title></circle></a><a href="/setts/s11/g2k1db9k7g1k1g1k1g9r1g1~x4/"><circle cx="194.9" cy="172.8" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/setts/s10/k6ly2g18w3g13k3ly4k3db18w3~x2/"><circle cx="147.9" cy="168.4" r="4" fill="#3465a4"><title>Corstorphine Trial A</title></circle></a><a href="/setts/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x4/"><circle cx="208.8" cy="162.8" r="4" fill="#3465a4"><title>Reid, Green</title></circle></a><a href="/setts/s9/k15ly2k2lb2k2dg10o6k3lb2~x2/"><circle cx="203.3" cy="179.9" r="4" fill="#3465a4"><title>Hebrides</title></circle></a><a href="/setts/s10/k6r2k2r2k6db7g20ly2g3r2~x2/"><circle cx="207.7" cy="165.5" r="4" fill="#3465a4"><title>Connolly Hunting (Name)</title></circle></a><circle cx="178.3" cy="157.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/

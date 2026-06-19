@@ -21,7 +21,7 @@ BKBKBK
 Grouped by stripe pattern — the 8 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### N K N K N K <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="seq">N K N K N K</span></span>
+### K N K N K N <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">K N K N K N</span></span>
 
 | Tartans |
 |---------------|
@@ -36,7 +36,7 @@ Grouped by stripe pattern — the 8 human-palette shadings of this band pattern,
 | [Grey Spirit Fashion Tartan Tartan Number: 6594. Earliest known date: 01/03/2005 A fashion tartan from ACS Clothing of Glasgow for use in their kilt hire business. Woven by Lochcarron. The grey is actually a grey/black marl (mixture) which can't be shown graphically. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/n6k16n6k16n45k4~x2/)|
 |![Grey Spirit Fashion Tartan Tartan Number: 6594. Earliest known date: 01/03/2005 A fashion tartan from ACS Clothing of Glasgow for use in their kilt hire business. Woven by Lochcarron. The grey is actually a grey/black marl (mixture) which can't be shown graphically. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/n6k16n6k16n45k4~x2/sett.png)|
 
-### DB K DB K DB K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K DB K DB K</span></span>
+### K DB K DB K DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB K DB</span></span>
 
 | Tartans |
 |---------------|
@@ -45,42 +45,42 @@ Grouped by stripe pattern — the 8 human-palette shadings of this band pattern,
 | [Atlin (Fashion)](/setts/s6/k14db14k14db40k3db2~x2/)|
 |![Atlin (Fashion) example sett](/setts/s6/k14db14k14db40k3db2~x2/sett.png)|
 
-### B K DB K DB K <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">B K DB K DB K</span></span>
+### K DB K B K DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K B K DB</span></span>
+
+| Tartans |
+|---------------|
+| [Scottish Express International](/setts/s6/k6db50k29b6k29db6/)|
+|![Scottish Express International example sett](/setts/s6/k6db50k29b6k29db6/sett.png)|
+
+### K DB K DB K B <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K DB K DB K B</span></span>
 
 | Tartans |
 |---------------|
 | [Slanj, The](/setts/s6/b5k22db4k4db26k4~x2/)|
 |![Slanj, The example sett](/setts/s6/b5k22db4k4db26k4~x2/sett.png)|
 
-### DB K B K DB K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K B K DB K</span></span>
-
-| Tartans |
-|---------------|
-| [Scottish Express International](/setts/s6/db6k29b6k29db50k6/)|
-|![Scottish Express International example sett](/setts/s6/db6k29b6k29db50k6/sett.png)|
-
-### DB K DB K N K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K DB K N K</span></span>
-
-| Tartans |
-|---------------|
-| [Macintosh, Charles Rennie (Commem)](/setts/s6/db5k5db5k9n5k5~x2/)|
-|![Macintosh, Charles Rennie (Commem) example sett](/setts/s6/db5k5db5k9n5k5~x2/sett.png)|
-
-### DP K DP K DP K <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="seq">DP K DP K DP K</span></span>
+### K DP K DP K DP <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K DP K DP K DP</span></span>
 
 | Tartans |
 |---------------|
 | [Leonard Hunting](/setts/s6/k10dp5k30dp5k10dp9~x4/)|
 |![Leonard Hunting example sett](/setts/s6/k10dp5k30dp5k10dp9~x4/sett.png)|
 
-### DT K DT K DT K <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="seq">DT K DT K DT K</span></span>
+### K DT K DT K DT <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">K DT K DT K DT</span></span>
 
 | Tartans |
 |---------------|
 | [Ben Dubh (The Black Mount)](/setts/s6/dt4k2dt16k2dt16k1~x4/)|
 |![Ben Dubh (The Black Mount) example sett](/setts/s6/dt4k2dt16k2dt16k1~x4/sett.png)|
 
-### T K N K N K <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="seq">T K N K N K</span></span>
+### K N K DB K DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K N K DB K DB</span></span>
+
+| Tartans |
+|---------------|
+| [Macintosh, Charles Rennie (Commem)](/setts/s6/k5n5k9db5k5db5~x2/)|
+|![Macintosh, Charles Rennie (Commem) example sett](/setts/s6/k5n5k9db5k5db5~x2/sett.png)|
+
+### K N K N K T <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K N K N K T</span></span>
 
 | Tartans |
 |---------------|

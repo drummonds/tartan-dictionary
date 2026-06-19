@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Baillie of Polkemett
+- Baillie of Polkemett, Red
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/4 R40 K24 B24 LN/6
+LN/6 B24 K24 R40 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -901,7 +911,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/4 R40 K24 B24 LN/6 tartan")
+![Tartan detail](tartan.png "LN/6 B24 K24 R40 G/4 tartan")
 
 ## Nearest tartans
 
@@ -911,7 +921,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Aberdeen University](/setts/s5/ly2r15k7db8ly2~x4/) — ΔT 1.14
 1. [Graham of Menteith, (Red)](/setts/s6/r26t3r4k16db16k4~x2/) — ΔT 1.16
 1. [Wcwm 759-2](/setts/s6/lb5r34k22r4o24r4~x2/) — ΔT 1.18
-1. [McGill University (Corporate)](/setts/s5/lo3dg8db12r24w3~x2/) — ΔT 1.22
+1. [McGill University (Corporate)](/setts/s5/w3r24db12dg8lo3~x2/) — ΔT 1.22
 1. [MacTavish](/setts/s6/b2r12db2b6k6b1~x2/) — ΔT 1.26
 1. [MacTavish](/setts/s6/b2r12db2b6k6b1/) — ΔT 1.26
 1. [Dutch](/setts/s6/k4o19k19o2dp22w4~x2/) — ΔT 1.28
@@ -920,8 +930,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/w3b12k12r20g2~x2/"><circle cx="170.6" cy="198.3" r="4" fill="#3465a4"><title>Baillie of Polkemmet Red</title></circle></a><a href="/setts/s5/ly2r15k7db8ly2~x4/"><circle cx="185.9" cy="213.7" r="4" fill="#3465a4"><title>Aberdeen University</title></circle></a><a href="/setts/s6/r26t3r4k16db16k4~x2/"><circle cx="205.8" cy="207.5" r="4" fill="#3465a4"><title>Graham of Menteith, (Red)</title></circle></a><a href="/setts/s6/lb5r34k22r4o24r4~x2/"><circle cx="206.5" cy="202.7" r="4" fill="#3465a4"><title>Wcwm 759-2</title></circle></a><a href="/setts/s5/lo3dg8db12r24w3~x2/"><circle cx="210.1" cy="195.0" r="4" fill="#3465a4"><title>McGill University (Corporate)</title></circle></a><a href="/setts/s6/b2r12db2b6k6b1~x2/"><circle cx="210.4" cy="195.6" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/setts/s6/b2r12db2b6k6b1/"><circle cx="210.4" cy="195.6" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/setts/s6/k4o19k19o2dp22w4~x2/"><circle cx="152.6" cy="197.2" r="4" fill="#3465a4"><title>Dutch</title></circle></a><a href="/setts/s5/k15db2r15b6b1~x2/"><circle cx="198.6" cy="180.9" r="4" fill="#3465a4"><title>O2 (Corporate)</title></circle></a><a href="/setts/s5/k3r11k26dy11r3~x2/"><circle cx="215.1" cy="208.4" r="4" fill="#3465a4"><title>Novotel, The</title></circle></a><circle cx="160.6" cy="194.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/w3b12k12r20g2~x2/"><circle cx="170.6" cy="198.3" r="4" fill="#3465a4"><title>Baillie of Polkemmet Red</title></circle></a><a href="/setts/s5/ly2r15k7db8ly2~x4/"><circle cx="185.9" cy="213.6" r="4" fill="#3465a4"><title>Aberdeen University</title></circle></a><a href="/setts/s6/r26t3r4k16db16k4~x2/"><circle cx="205.9" cy="207.4" r="4" fill="#3465a4"><title>Graham of Menteith, (Red)</title></circle></a><a href="/setts/s6/lb5r34k22r4o24r4~x2/"><circle cx="206.4" cy="202.6" r="4" fill="#3465a4"><title>Wcwm 759-2</title></circle></a><a href="/setts/s5/w3r24db12dg8lo3~x2/"><circle cx="210.0" cy="194.9" r="4" fill="#3465a4"><title>McGill University (Corporate)</title></circle></a><a href="/setts/s6/b2r12db2b6k6b1~x2/"><circle cx="210.5" cy="195.6" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/setts/s6/b2r12db2b6k6b1/"><circle cx="210.5" cy="195.6" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/setts/s6/k4o19k19o2dp22w4~x2/"><circle cx="152.7" cy="197.2" r="4" fill="#3465a4"><title>Dutch</title></circle></a><a href="/setts/s5/k15db2r15b6b1~x2/"><circle cx="198.7" cy="180.8" r="4" fill="#3465a4"><title>O2 (Corporate)</title></circle></a><a href="/setts/s5/k3r11k26dy11r3~x2/"><circle cx="215.3" cy="208.4" r="4" fill="#3465a4"><title>Novotel, The</title></circle></a><circle cx="160.6" cy="194.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/w3db12k12r20g2~x2/

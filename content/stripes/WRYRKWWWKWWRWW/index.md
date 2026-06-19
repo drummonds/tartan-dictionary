@@ -22,6 +22,6 @@ WRYRKWWWKWWRWW
 
 | Tartans |
 |---------------|
-| [Praetorian](/setts/s14/w1lb1r8w1lb1k8lb1w8lb1k1r8ly1r1w1~x6/)|
-|![Praetorian example sett](/setts/s14/w1lb1r8w1lb1k8lb1w8lb1k1r8ly1r1w1~x6/sett.png)|
+| [Praetorian](/setts/s14/w1r1ly1r8k1lb1w8lb1k8lb1w1r8lb1w1~x6/)|
+|![Praetorian example sett](/setts/s14/w1r1ly1r8k1lb1w8lb1k8lb1w1r8lb1w1~x6/sett.png)|
 

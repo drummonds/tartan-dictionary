@@ -2,7 +2,7 @@
 title: "Dunedin (NZ)"
 date: 2023-03-18
 ---
-**Bands:** [GWGKRKYY](/stripes/gwgkrkyy/) · **Stripes:** [G W G K R K LG LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G W G K R K LG LY</span></span>
+**Bands:** [YYKRKGWG](/stripes/yykrkgwg/) · **Stripes:** [LY LG K R K G W G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY LG K R K G W G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2114
 
 ## Thread count
-B/8 W8 B32 K8 R8 K8 LG32 Y/8
+Y/8 LG32 K8 R8 K8 B32 W8 B/8
 ![Sett](sett.png)
 
 ## Palette
@@ -42,7 +42,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/8 W8 B32 K8 R8 K8 LG32 Y/8 tartan")
+![Tartan detail](tartan.png "Y/8 LG32 K8 R8 K8 B32 W8 B/8 tartan")
 
 ## Nearest tartans
 
@@ -54,15 +54,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Mitsukoshi Sendai](/setts/s10/o4k1w1k1w1k1o4n2dg6r1~x6/) — ΔT 1.38
 1. [Vermont Dress](/setts/s8/g1w1g6db5w6r1g1lo1~x4/) — ΔT 1.41
 1. [Equorian Olympic](/setts/s8/db2y1o1dg6w3o3o1y1/) — ΔT 1.41
-1. [Labrador Club of Scotland (Corporate](/setts/s8/o21ly4dy5ly4o5k21g21lo5~x2/) — ΔT 1.41
+1. [Labrador Club of Scotland (Corporate](/setts/s8/o21ly4dy5ly4o5k21g21lo5~x2/) — ΔT 1.42
 1. [MacLellan Dress (Personal)](/setts/s11/k4ly2lg13k8r2w13r2w13k2g12ly4~x2/) — ΔT 1.42
-1. [Vasseur Mignon (Personal)](/setts/s11/ly2lb11g5n11g11lb5g5ly2r2ly2r2~x2/) — ΔT 1.43
+1. [Vasseur Mignon (Personal)](/setts/s11/r2ly2r2ly2g5lb5g11n11g5lb11ly2~x2/) — ΔT 1.43
 1. [Ontario Northern Canadian District Tartan Tartan Number: 956. Earliest known date: 1967 The six colours represent the nickel bearing rocks (grey), the snow (white), the sky and the lakes (blue), gold, the forests and fields (green), and the Indian Nation (red brown). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/dy17o5db2w12db2ly4g7~x2/) — ΔT 1.45
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g10db6t6g10w8ly3t2ly3db2r2/"><circle cx="64.9" cy="193.9" r="4" fill="#3465a4"><title>Northern College</title></circle></a><a href="/setts/s10/g5db3t3g5w4ly2t1ly2db1r1~x6/"><circle cx="52.1" cy="194.1" r="4" fill="#3465a4"><title>Northern College (Ontario)</title></circle></a><a href="/setts/s9/dg2o13dg12w3lb10w3lb12g13r2~x2/"><circle cx="54.6" cy="186.0" r="4" fill="#3465a4"><title>Mounth The.. Corporate Tartan Tartan Number: 120. Earliest known date: 1988 Designed for Kincardine &amp; Deeside branch of the National Trust for Scotland. Blue is a muted sky blue. Green is a dark pine green. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/o4k1w1k1w1k1o4n2dg6r1~x6/"><circle cx="79.2" cy="165.3" r="4" fill="#3465a4"><title>Mitsukoshi Sendai</title></circle></a><a href="/setts/s8/g1w1g6db5w6r1g1lo1~x4/"><circle cx="111.1" cy="180.0" r="4" fill="#3465a4"><title>Vermont Dress</title></circle></a><a href="/setts/s8/db2y1o1dg6w3o3o1y1/"><circle cx="96.1" cy="194.6" r="4" fill="#3465a4"><title>Equorian Olympic</title></circle></a><a href="/setts/s8/o21ly4dy5ly4o5k21g21lo5~x2/"><circle cx="70.6" cy="192.1" r="4" fill="#3465a4"><title>Labrador Club of Scotland (Corporate</title></circle></a><a href="/setts/s11/k4ly2lg13k8r2w13r2w13k2g12ly4~x2/"><circle cx="44.7" cy="151.4" r="4" fill="#3465a4"><title>MacLellan Dress (Personal)</title></circle></a><a href="/setts/s11/ly2lb11g5n11g11lb5g5ly2r2ly2r2~x2/"><circle cx="115.2" cy="195.7" r="4" fill="#3465a4"><title>Vasseur Mignon (Personal)</title></circle></a><a href="/setts/s7/dy17o5db2w12db2ly4g7~x2/"><circle cx="87.8" cy="166.3" r="4" fill="#3465a4"><title>Ontario Northern Canadian District Tartan Tartan Number: 956. Earliest known date: 1967 The six colours represent the nickel bearing rocks (grey), the snow (white), the sky and the lakes (blue), gold, the forests and fields (green), and the Indian Nation (red brown). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="68.6" cy="195.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g10db6t6g10w8ly3t2ly3db2r2/"><circle cx="64.9" cy="194.0" r="4" fill="#3465a4"><title>Northern College</title></circle></a><a href="/setts/s10/g5db3t3g5w4ly2t1ly2db1r1~x6/"><circle cx="52.0" cy="194.1" r="4" fill="#3465a4"><title>Northern College (Ontario)</title></circle></a><a href="/setts/s9/dg2o13dg12w3lb10w3lb12g13r2~x2/"><circle cx="54.6" cy="186.1" r="4" fill="#3465a4"><title>Mounth The.. Corporate Tartan Tartan Number: 120. Earliest known date: 1988 Designed for Kincardine &amp; Deeside branch of the National Trust for Scotland. Blue is a muted sky blue. Green is a dark pine green. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/o4k1w1k1w1k1o4n2dg6r1~x6/"><circle cx="79.2" cy="165.4" r="4" fill="#3465a4"><title>Mitsukoshi Sendai</title></circle></a><a href="/setts/s8/g1w1g6db5w6r1g1lo1~x4/"><circle cx="111.0" cy="180.0" r="4" fill="#3465a4"><title>Vermont Dress</title></circle></a><a href="/setts/s8/db2y1o1dg6w3o3o1y1/"><circle cx="96.1" cy="194.6" r="4" fill="#3465a4"><title>Equorian Olympic</title></circle></a><a href="/setts/s8/o21ly4dy5ly4o5k21g21lo5~x2/"><circle cx="70.7" cy="192.2" r="4" fill="#3465a4"><title>Labrador Club of Scotland (Corporate</title></circle></a><a href="/setts/s11/k4ly2lg13k8r2w13r2w13k2g12ly4~x2/"><circle cx="44.6" cy="151.5" r="4" fill="#3465a4"><title>MacLellan Dress (Personal)</title></circle></a><a href="/setts/s11/r2ly2r2ly2g5lb5g11n11g5lb11ly2~x2/"><circle cx="115.1" cy="195.8" r="4" fill="#3465a4"><title>Vasseur Mignon (Personal)</title></circle></a><a href="/setts/s7/dy17o5db2w12db2ly4g7~x2/"><circle cx="87.7" cy="166.4" r="4" fill="#3465a4"><title>Ontario Northern Canadian District Tartan Tartan Number: 956. Earliest known date: 1967 The six colours represent the nickel bearing rocks (grey), the snow (white), the sky and the lakes (blue), gold, the forests and fields (green), and the Indian Nation (red brown). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="68.6" cy="195.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/g1w1g4k1r1k1lg4ly1~x8/

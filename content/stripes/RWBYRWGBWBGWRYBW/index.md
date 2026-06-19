@@ -22,6 +22,6 @@ RWBYRWGBWBGWRYBW
 
 | Tartans |
 |---------------|
-| [Norwich No.014](/setts/s16/r22lt3db5ly2r2w2dg11db4w3db4dg11w2r2ly2db5lt3~x2/)|
-|![Norwich No.014 example sett](/setts/s16/r22lt3db5ly2r2w2dg11db4w3db4dg11w2r2ly2db5lt3~x2/sett.png)|
+| [Norwich No.014](/setts/s16/r22lt3db5ly2r2w2dg11db4w3~x2/)|
+|![Norwich No.014 example sett](/setts/s16/r22lt3db5ly2r2w2dg11db4w3~x2/sett.png)|
 

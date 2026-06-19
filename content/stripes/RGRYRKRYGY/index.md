@@ -22,6 +22,6 @@ RGRYRKRYGY
 
 | Tartans |
 |---------------|
-| [Stirling & Bannockburn (District)](/setts/s10/ly3g2lg18r3k13r4lg3r4g18r3~x2/)|
-|![Stirling & Bannockburn (District) example sett](/setts/s10/ly3g2lg18r3k13r4lg3r4g18r3~x2/sett.png)|
+| [Stirling & Bannockburn (District)](/setts/s10/r3g18r4lg3r4k13r3lg18g2ly3~x2/)|
+|![Stirling & Bannockburn (District) example sett](/setts/s10/r3g18r4lg3r4k13r3lg18g2ly3~x2/sett.png)|
 

@@ -2,7 +2,7 @@
 title: "Skene"
 date: 2023-03-18
 ---
-**Bands:** [BRBRGRB](/stripes/brbrgrb/) · **Stripes:** [DB R DB R DG R DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DB R DG R DB</span></span>
+**Bands:** [BRGRBRB](/stripes/brgrbrb/) · **Stripes:** [DB R DG R DB R DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DG R DB R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -94,19 +94,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Logan - 1810 (Cockburn Collection)](/setts/s7/k14r6k2r6dg25r6k2~x2/) — ΔT 0.95
 1. [Unidentified #61](/setts/s8/db3db1g5db3r9db1r1db2~x4/) — ΔT 1.06
-1. [MacKay, Plaid](/setts/s6/g14p82g9k80g80k14/) — ΔT 1.09
+1. [MacKay, Plaid](/setts/s6/k14g80k80g9p82g14/) — ΔT 1.09
 1. [Remony (Red)](/setts/s8/r17db2r2db13r2db2g17db2~x2/) — ΔT 1.10
 1. [Skene D](/setts/s7/db9r6dg2r6dg18r6dg2/) — ΔT 1.16
 1. [Utah (US State)](/setts/s8/w2r3dg9r3db2r3db3w1~x6/) — ΔT 1.17
 1. [Edinburgh International Conference Centre](/setts/s6/o4db19o3k20o24db3~x2/) — ΔT 1.18
 1. [Logan #5](/setts/s6/db9r3db1g9r3db1~x2/) — ΔT 1.20
-1. [Gordon of Esslemont](/setts/s7/ly6dg3ly3dg22k23dp23k4~x2/) — ΔT 1.27
+1. [Gordon of Esslemont](/setts/s7/ly6dg3ly3dg22k23dp23k4~x2/) — ΔT 1.26
 1. [Logan (Dark)](/setts/s7/k15r4k1r4dg15r4k1~x4/) — ΔT 1.27
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k14r6k2r6dg25r6k2~x2/"><circle cx="250.4" cy="206.5" r="4" fill="#3465a4"><title>Logan - 1810 (Cockburn Collection)</title></circle></a><a href="/setts/s8/db3db1g5db3r9db1r1db2~x4/"><circle cx="217.9" cy="207.9" r="4" fill="#3465a4"><title>Unidentified #61</title></circle></a><a href="/setts/s6/g14p82g9k80g80k14/"><circle cx="190.0" cy="230.4" r="4" fill="#3465a4"><title>MacKay, Plaid</title></circle></a><a href="/setts/s8/r17db2r2db13r2db2g17db2~x2/"><circle cx="248.3" cy="222.1" r="4" fill="#3465a4"><title>Remony (Red)</title></circle></a><a href="/setts/s7/db9r6dg2r6dg18r6dg2/"><circle cx="256.1" cy="233.4" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/setts/s8/w2r3dg9r3db2r3db3w1~x6/"><circle cx="158.7" cy="206.4" r="4" fill="#3465a4"><title>Utah (US State)</title></circle></a><a href="/setts/s6/o4db19o3k20o24db3~x2/"><circle cx="153.2" cy="222.9" r="4" fill="#3465a4"><title>Edinburgh International Conference Centre</title></circle></a><a href="/setts/s6/db9r3db1g9r3db1~x2/"><circle cx="260.8" cy="242.7" r="4" fill="#3465a4"><title>Logan #5</title></circle></a><a href="/setts/s7/ly6dg3ly3dg22k23dp23k4~x2/"><circle cx="148.6" cy="217.0" r="4" fill="#3465a4"><title>Gordon of Esslemont</title></circle></a><a href="/setts/s7/k15r4k1r4dg15r4k1~x4/"><circle cx="268.7" cy="207.1" r="4" fill="#3465a4"><title>Logan (Dark)</title></circle></a><circle cx="219.0" cy="228.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k14r6k2r6dg25r6k2~x2/"><circle cx="250.3" cy="206.4" r="4" fill="#3465a4"><title>Logan - 1810 (Cockburn Collection)</title></circle></a><a href="/setts/s8/db3db1g5db3r9db1r1db2~x4/"><circle cx="217.9" cy="207.9" r="4" fill="#3465a4"><title>Unidentified #61</title></circle></a><a href="/setts/s6/k14g80k80g9p82g14/"><circle cx="190.2" cy="230.3" r="4" fill="#3465a4"><title>MacKay, Plaid</title></circle></a><a href="/setts/s8/r17db2r2db13r2db2g17db2~x2/"><circle cx="248.3" cy="222.1" r="4" fill="#3465a4"><title>Remony (Red)</title></circle></a><a href="/setts/s7/db9r6dg2r6dg18r6dg2/"><circle cx="256.1" cy="233.3" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/setts/s8/w2r3dg9r3db2r3db3w1~x6/"><circle cx="158.7" cy="206.3" r="4" fill="#3465a4"><title>Utah (US State)</title></circle></a><a href="/setts/s6/o4db19o3k20o24db3~x2/"><circle cx="153.4" cy="222.8" r="4" fill="#3465a4"><title>Edinburgh International Conference Centre</title></circle></a><a href="/setts/s6/db9r3db1g9r3db1~x2/"><circle cx="260.7" cy="242.6" r="4" fill="#3465a4"><title>Logan #5</title></circle></a><a href="/setts/s7/ly6dg3ly3dg22k23dp23k4~x2/"><circle cx="148.7" cy="217.0" r="4" fill="#3465a4"><title>Gordon of Esslemont</title></circle></a><a href="/setts/s7/k15r4k1r4dg15r4k1~x4/"><circle cx="268.6" cy="207.0" r="4" fill="#3465a4"><title>Logan (Dark)</title></circle></a><circle cx="219.0" cy="228.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/db9r3db1r3dg9r3db1~x2/

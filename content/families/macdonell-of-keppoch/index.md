@@ -13,8 +13,9 @@ A family of [Clan MacDonell](/clan/macdonell/).
 ## Other tartans
 
 <ul class="tartan-grid">
+<li><a class="tartan" href="/setts/s10/dg2r2db1r24b1db6r3dg12r4db1/"><img src="/setts/s10/dg2r2db1r24b1db6r3dg12r4db1/sett.png" alt="MacDonell of Keppoch" width="140"><br>MacDonell of Keppoch</a></li>
 <li><a class="tartan" href="/setts/s10/dg2r2db1r24b1db6r3dg12r4db1~x2/"><img src="/setts/s10/dg2r2db1r24b1db6r3dg12r4db1~x2/sett.png" alt="MacDonell of Keppoch" width="140"><br>MacDonell of Keppoch</a></li>
-<li><a class="tartan" href="/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/"><img src="/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/sett.png" alt="MacDonell of Keppoch" width="140"><br>MacDonell of Keppoch</a></li>
+<li><a class="tartan" href="/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1/"><img src="/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1/sett.png" alt="MacDonell of Keppoch" width="140"><br>MacDonell of Keppoch</a></li>
 <li><a class="tartan" href="/setts/s10/dg2r2db1r24t1db6r3dg12r4db1~x2/"><img src="/setts/s10/dg2r2db1r24t1db6r3dg12r4db1~x2/sett.png" alt="MacDonell of Keppoch" width="140"><br>MacDonell of Keppoch</a></li>
 <li><a class="tartan" href="/setts/s10/g2r2db1r24t1db6r3g12r4db1~x2/"><img src="/setts/s10/g2r2db1r24t1db6r3g12r4db1~x2/sett.png" alt="MacDonell of Keppoch" width="140"><br>MacDonell of Keppoch</a></li>
 <li><a class="tartan" href="/setts/s11/r6db1r1g28r4db8w1r32g1r4g2~x2/"><img src="/setts/s11/r6db1r1g28r4db8w1r32g1r4g2~x2/sett.png" alt="MacDonell of Keppoch" width="140"><br>MacDonell of Keppoch</a></li>

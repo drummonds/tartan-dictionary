@@ -8,7 +8,7 @@ RKGKBW
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/lb1db6k6g6k1r1~x4/tartan.png)
+![Woven sample](/setts/s6/r1k1g6k6db6lb1~x4/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RKGKBW
 
 | Tartans |
 |---------------|
-| [Gaines Center for the Humanities](/setts/s6/lb1db6k6g6k1r1~x4/)|
-|![Gaines Center for the Humanities example sett](/setts/s6/lb1db6k6g6k1r1~x4/sett.png)|
+| [Gaines Center for the Humanities](/setts/s6/r1k1g6k6db6lb1~x4/)|
+|![Gaines Center for the Humanities example sett](/setts/s6/r1k1g6k6db6lb1~x4/sett.png)|
 

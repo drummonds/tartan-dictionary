@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,19 +909,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Lorne - Marquis of (Personal)](/setts/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3t3~x2/) — ΔT 0.92
 1. [Cockburn - 1830 (Clan)](/setts/s16/g10k1g1k1g1k1db4k1w1k1db1ly1k1g4k1r1~x4/) — ΔT 0.99
-1. [Lorne, Marquis of](/setts/s18/db3k3g2k14g2k2g20r2g2w2g2ly2g20k2g2k14g2k3~x2/) — ΔT 1.12
+1. [Lorne, Marquis of](/setts/s18/k3g2k14g2k2g20ly2g2w2g2r2g20k2g2k14g2k3db3~x2/) — ΔT 1.12
 1. [Myron Family Tartan Tartan Number: 1105. Earliest known date: pre 2003 Designed for the town celebrations of 1958-59 by G. Lawson of the Musselburgh Co-operative Society. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s17/k3g3r2g3ly2g2ly2g11db3k3db3k3db3k3db3g20r3~x2/) — ΔT 1.14
 1. [Campbell, Marquis of Lorne](/setts/s18/k6g4k22g3k3g32r3g3w3g3ly3g32k3g3k22g4k6p6/) — ΔT 1.18
-1. [Duncan of Sketraw](/setts/s17/b2k1g14k1w2k1b5r1b5k1ly2k1g14k2g2k6r2~x2/) — ΔT 1.21
-1. [Campbell, Marquis of Lorne](/setts/s18/dp6k6g4k22g3k3g32ly3g3w3g3r3g32k3g3k22g4k6/) — ΔT 1.23
+1. [Duncan of Sketraw](/setts/s17/r2k6g2k2g14k1ly2k1b5r1b5k1w2k1g14k1b2~x2/) — ΔT 1.21
+1. [Campbell, Marquis of Lorne](/setts/s18/k6g4k22g3k3g32r3g3w3g3ly3g32k3g3k22g4k6dp6/) — ΔT 1.23
 1. [Wilson's No.033 #2](/setts/s16/g17t3r3t3k19w2g17r4g17w2k19t3r3t3g17db8~x2/) — ΔT 1.29
 1. [Stewart (King George VI)](/setts/s14/r2g11g2b2k3lo1k1lr1k1g4r2k1r2lr1~x4/) — ΔT 1.32
 1. [Steel (Personal)](/setts/s11/dt6g48k4ly4k4w4g20r10k4r6w5/) — ΔT 1.36
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3t3~x2/"><circle cx="234.6" cy="107.3" r="4" fill="#3465a4"><title>Lorne - Marquis of (Personal)</title></circle></a><a href="/setts/s16/g10k1g1k1g1k1db4k1w1k1db1ly1k1g4k1r1~x4/"><circle cx="223.2" cy="120.6" r="4" fill="#3465a4"><title>Cockburn - 1830 (Clan)</title></circle></a><a href="/setts/s18/db3k3g2k14g2k2g20r2g2w2g2ly2g20k2g2k14g2k3~x2/"><circle cx="213.3" cy="105.6" r="4" fill="#3465a4"><title>Lorne, Marquis of</title></circle></a><a href="/setts/s17/k3g3r2g3ly2g2ly2g11db3k3db3k3db3k3db3g20r3~x2/"><circle cx="235.8" cy="132.3" r="4" fill="#3465a4"><title>Myron Family Tartan Tartan Number: 1105. Earliest known date: pre 2003 Designed for the town celebrations of 1958-59 by G. Lawson of the Musselburgh Co-operative Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/k6g4k22g3k3g32r3g3w3g3ly3g32k3g3k22g4k6p6/"><circle cx="221.4" cy="110.4" r="4" fill="#3465a4"><title>Campbell, Marquis of Lorne</title></circle></a><a href="/setts/s17/b2k1g14k1w2k1b5r1b5k1ly2k1g14k2g2k6r2~x2/"><circle cx="210.4" cy="109.9" r="4" fill="#3465a4"><title>Duncan of Sketraw</title></circle></a><a href="/setts/s18/dp6k6g4k22g3k3g32ly3g3w3g3r3g32k3g3k22g4k6/"><circle cx="257.0" cy="125.0" r="4" fill="#3465a4"><title>Campbell, Marquis of Lorne</title></circle></a><a href="/setts/s16/g17t3r3t3k19w2g17r4g17w2k19t3r3t3g17db8~x2/"><circle cx="180.2" cy="149.2" r="4" fill="#3465a4"><title>Wilson's No.033 #2</title></circle></a><a href="/setts/s14/r2g11g2b2k3lo1k1lr1k1g4r2k1r2lr1~x4/"><circle cx="216.9" cy="132.1" r="4" fill="#3465a4"><title>Stewart (King George VI)</title></circle></a><a href="/setts/s11/dt6g48k4ly4k4w4g20r10k4r6w5/"><circle cx="270.3" cy="118.5" r="4" fill="#3465a4"><title>Steel (Personal)</title></circle></a><circle cx="204.4" cy="117.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3t3~x2/"><circle cx="234.4" cy="107.2" r="4" fill="#3465a4"><title>Lorne - Marquis of (Personal)</title></circle></a><a href="/setts/s16/g10k1g1k1g1k1db4k1w1k1db1ly1k1g4k1r1~x4/"><circle cx="223.1" cy="120.6" r="4" fill="#3465a4"><title>Cockburn - 1830 (Clan)</title></circle></a><a href="/setts/s18/k3g2k14g2k2g20ly2g2w2g2r2g20k2g2k14g2k3db3~x2/"><circle cx="213.2" cy="105.5" r="4" fill="#3465a4"><title>Lorne, Marquis of</title></circle></a><a href="/setts/s17/k3g3r2g3ly2g2ly2g11db3k3db3k3db3k3db3g20r3~x2/"><circle cx="235.7" cy="132.4" r="4" fill="#3465a4"><title>Myron Family Tartan Tartan Number: 1105. Earliest known date: pre 2003 Designed for the town celebrations of 1958-59 by G. Lawson of the Musselburgh Co-operative Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/k6g4k22g3k3g32r3g3w3g3ly3g32k3g3k22g4k6p6/"><circle cx="221.4" cy="110.3" r="4" fill="#3465a4"><title>Campbell, Marquis of Lorne</title></circle></a><a href="/setts/s17/r2k6g2k2g14k1ly2k1b5r1b5k1w2k1g14k1b2~x2/"><circle cx="210.3" cy="109.9" r="4" fill="#3465a4"><title>Duncan of Sketraw</title></circle></a><a href="/setts/s18/k6g4k22g3k3g32r3g3w3g3ly3g32k3g3k22g4k6dp6/"><circle cx="256.9" cy="125.0" r="4" fill="#3465a4"><title>Campbell, Marquis of Lorne</title></circle></a><a href="/setts/s16/g17t3r3t3k19w2g17r4g17w2k19t3r3t3g17db8~x2/"><circle cx="180.2" cy="149.3" r="4" fill="#3465a4"><title>Wilson's No.033 #2</title></circle></a><a href="/setts/s14/r2g11g2b2k3lo1k1lr1k1g4r2k1r2lr1~x4/"><circle cx="216.8" cy="132.2" r="4" fill="#3465a4"><title>Stewart (King George VI)</title></circle></a><a href="/setts/s11/dt6g48k4ly4k4w4g20r10k4r6w5/"><circle cx="270.1" cy="118.5" r="4" fill="#3465a4"><title>Steel (Personal)</title></circle></a><circle cx="204.3" cy="117.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s17/k3g3m2g3ly2g2ly2g11db3k3db3k3db3k3db3g20r3~x2/

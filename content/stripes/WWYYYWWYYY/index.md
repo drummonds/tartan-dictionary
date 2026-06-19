@@ -18,7 +18,7 @@ WWYYYWWYYY
 
 
 
-### W LB LY LR LG W LB LY LR LG <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#82D67A"></span><span class="seq">W LB LY LR LG W LB LY LR LG</span></span>
+### LG LR LY LB W LG LR LY LB W <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LG LR LY LB W LG LR LY LB W</span></span>
 
 | Tartans |
 |---------------|

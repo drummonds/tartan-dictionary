@@ -2,7 +2,7 @@
 title: "Newlands"
 date: 2023-03-18
 ---
-**Bands:** [BKBRKGRGRG](/stripes/bkbrkgrgrg/) · **Stripes:** [DB K DB R K G R G R G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB K DB R K G R G R G</span></span>
+**Bands:** [GRGRGKRBKB](/stripes/grgrgkrbkb/) · **Stripes:** [G R G R G K R DB K DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G R G K R DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,7 +913,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Argyll, Campbell](/setts/s10/k3db17k20g18w4g18k20db18k2db2~x2/) — ΔT 0.61
-1. [Unnamed, No 115](/setts/s8/db10k6t1g6k1g6t1k6~x2/) — ΔT 0.79
+1. [Unnamed, No 115](/setts/s8/db10k6t1g6k1~x2/) — ΔT 0.79
 1. [Forbes](/setts/s9/db8k2db2k2db2k8g7k1w1~x2/) — ΔT 0.81
 1. [Stephenson, hunting](/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/) — ΔT 0.84
 1. [Murray of Atholl](/setts/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/) — ΔT 0.88
@@ -922,8 +925,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k3db17k20g18w4g18k20db18k2db2~x2/"><circle cx="145.3" cy="206.4" r="4" fill="#3465a4"><title>Argyll, Campbell</title></circle></a><a href="/setts/s8/db10k6t1g6k1g6t1k6~x2/"><circle cx="146.2" cy="214.8" r="4" fill="#3465a4"><title>Unnamed, No 115</title></circle></a><a href="/setts/s9/db8k2db2k2db2k8g7k1w1~x2/"><circle cx="171.3" cy="206.6" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="149.4" cy="183.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/"><circle cx="146.7" cy="177.6" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/setts/s12/db5k1db1k1db1k4g5ly1g5k4db6k1~x4/"><circle cx="132.5" cy="213.6" r="4" fill="#3465a4"><title>Gordon 5</title></circle></a><a href="/setts/s7/db6k1db6k8r1g8r2~x2/"><circle cx="147.0" cy="227.7" r="4" fill="#3465a4"><title>Fletcher of Dunans</title></circle></a><a href="/setts/s8/k7g7k1g7k7t1p7k1~x4/"><circle cx="163.6" cy="228.6" r="4" fill="#3465a4"><title>Wilson's, No 108</title></circle></a><a href="/setts/s7/db6k1db6k8r1g8k2~x2/"><circle cx="158.0" cy="232.2" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/setts/s8/db3k2db8k8g8p1g1p3~x2/"><circle cx="129.4" cy="216.8" r="4" fill="#3465a4"><title>Baird</title></circle></a><circle cx="149.7" cy="201.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k3db17k20g18w4g18k20db18k2db2~x2/"><circle cx="145.6" cy="206.3" r="4" fill="#3465a4"><title>Argyll, Campbell</title></circle></a><a href="/setts/s8/db10k6t1g6k1~x2/"><circle cx="146.4" cy="214.8" r="4" fill="#3465a4"><title>Unnamed, No 115</title></circle></a><a href="/setts/s9/db8k2db2k2db2k8g7k1w1~x2/"><circle cx="171.5" cy="206.5" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="149.6" cy="183.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/"><circle cx="146.8" cy="177.6" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/setts/s12/db5k1db1k1db1k4g5ly1g5k4db6k1~x4/"><circle cx="132.7" cy="213.6" r="4" fill="#3465a4"><title>Gordon 5</title></circle></a><a href="/setts/s7/db6k1db6k8r1g8r2~x2/"><circle cx="147.3" cy="227.6" r="4" fill="#3465a4"><title>Fletcher of Dunans</title></circle></a><a href="/setts/s8/k7g7k1g7k7t1p7k1~x4/"><circle cx="163.8" cy="228.5" r="4" fill="#3465a4"><title>Wilson's, No 108</title></circle></a><a href="/setts/s7/db6k1db6k8r1g8k2~x2/"><circle cx="158.3" cy="232.2" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/setts/s8/db3k2db8k8g8p1g1p3~x2/"><circle cx="129.6" cy="216.8" r="4" fill="#3465a4"><title>Baird</title></circle></a><circle cx="149.9" cy="201.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db9k9db9r2k18g12r2g4r2g4~x2/

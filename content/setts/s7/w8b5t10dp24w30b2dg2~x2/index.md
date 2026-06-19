@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7580
 
 ## Thread count
-DG/4 Ba4 W60 N48 B20 Ba10 W/16
+W/16 Ba10 B20 N48 W60 Ba4 DG/4
 ![Sett](sett.png)
 
 ## Palette
@@ -40,7 +40,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DG/4 Ba4 W60 N48 B20 Ba10 W/16 tartan")
+![Tartan detail](tartan.png "W/16 Ba10 B20 N48 W60 Ba4 DG/4 tartan")
 
 ## Nearest tartans
 
@@ -53,14 +53,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Manx Dress](/setts/s6/g4w28dp8ly2db17g4~x2/) — ΔT 0.92
 1. [MacDuff Dress #5](/setts/s7/w39db9k10dg11r7k3r7~x2/) — ΔT 0.92
 1. [Manx Laxey, dress green](/setts/s6/db2w14p4ly1g8db2~x2/) — ΔT 1.00
-1. [MacKintosh Dress (Dance)](/setts/s6/g3r9dg18dp8w33r3~x2/) — ΔT 1.06
+1. [MacKintosh Dress (Dance)](/setts/s6/r3w33dp8dg18r9g3~x2/) — ΔT 1.06
 1. [Manx Laxey Dress Green](/setts/s5/w14dp4ly1g8db2~x2/) — ΔT 1.09
 1. [MacTavish of Dunardry Dress](/setts/s7/n8w28o3g3n8k9n4~x2/) — ΔT 1.10
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w8g5t10dp24w30g2lp2~x2/"><circle cx="199.1" cy="137.4" r="4" fill="#3465a4"><title>Shiel, Purple (Dance)</title></circle></a><a href="/setts/s7/w8g5dp10t24w30g2lp2~x2/"><circle cx="209.0" cy="144.5" r="4" fill="#3465a4"><title>Shiel, Purple V2 (Dance)</title></circle></a><a href="/setts/s8/db4w1db2w18g3w1r9ly4~x4/"><circle cx="213.1" cy="114.7" r="4" fill="#3465a4"><title>Manitoba Dress (1958) (District)</title></circle></a><a href="/setts/s6/g4w28p8ly2db17g4~x2/"><circle cx="184.9" cy="151.7" r="4" fill="#3465a4"><title>Manx, dress</title></circle></a><a href="/setts/s6/g4w28dp8ly2db17g4~x2/"><circle cx="181.7" cy="150.6" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/setts/s7/w39db9k10dg11r7k3r7~x2/"><circle cx="171.6" cy="138.9" r="4" fill="#3465a4"><title>MacDuff Dress #5</title></circle></a><a href="/setts/s6/db2w14p4ly1g8db2~x2/"><circle cx="187.7" cy="152.4" r="4" fill="#3465a4"><title>Manx Laxey, dress green</title></circle></a><a href="/setts/s6/g3r9dg18dp8w33r3~x2/"><circle cx="176.5" cy="158.1" r="4" fill="#3465a4"><title>MacKintosh Dress (Dance)</title></circle></a><a href="/setts/s5/w14dp4ly1g8db2~x2/"><circle cx="204.6" cy="164.3" r="4" fill="#3465a4"><title>Manx Laxey Dress Green</title></circle></a><a href="/setts/s7/n8w28o3g3n8k9n4~x2/"><circle cx="164.0" cy="152.2" r="4" fill="#3465a4"><title>MacTavish of Dunardry Dress</title></circle></a><circle cx="208.8" cy="140.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w8g5t10dp24w30g2lp2~x2/"><circle cx="198.8" cy="137.3" r="4" fill="#3465a4"><title>Shiel, Purple (Dance)</title></circle></a><a href="/setts/s7/w8g5dp10t24w30g2lp2~x2/"><circle cx="208.7" cy="144.4" r="4" fill="#3465a4"><title>Shiel, Purple V2 (Dance)</title></circle></a><a href="/setts/s8/db4w1db2w18g3w1r9ly4~x4/"><circle cx="212.7" cy="114.6" r="4" fill="#3465a4"><title>Manitoba Dress (1958) (District)</title></circle></a><a href="/setts/s6/g4w28p8ly2db17g4~x2/"><circle cx="184.6" cy="151.6" r="4" fill="#3465a4"><title>Manx, dress</title></circle></a><a href="/setts/s6/g4w28dp8ly2db17g4~x2/"><circle cx="181.6" cy="150.5" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/setts/s7/w39db9k10dg11r7k3r7~x2/"><circle cx="171.3" cy="138.8" r="4" fill="#3465a4"><title>MacDuff Dress #5</title></circle></a><a href="/setts/s6/db2w14p4ly1g8db2~x2/"><circle cx="187.5" cy="152.3" r="4" fill="#3465a4"><title>Manx Laxey, dress green</title></circle></a><a href="/setts/s6/r3w33dp8dg18r9g3~x2/"><circle cx="176.2" cy="158.0" r="4" fill="#3465a4"><title>MacKintosh Dress (Dance)</title></circle></a><a href="/setts/s5/w14dp4ly1g8db2~x2/"><circle cx="204.4" cy="164.1" r="4" fill="#3465a4"><title>Manx Laxey Dress Green</title></circle></a><a href="/setts/s7/n8w28o3g3n8k9n4~x2/"><circle cx="163.8" cy="152.1" r="4" fill="#3465a4"><title>MacTavish of Dunardry Dress</title></circle></a><circle cx="208.5" cy="140.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/w8b5t10dp24w30b2dg2~x2/

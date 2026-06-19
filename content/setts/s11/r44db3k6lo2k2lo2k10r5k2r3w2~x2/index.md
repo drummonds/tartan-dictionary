@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2336
 
 ## Thread count
-LN/4 R6 K4 R10 K20 LT4 K4 LT4 K12 DB6 R/88
+R/88 DB6 K12 LT4 K4 LT4 K20 R10 K4 R6 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -48,16 +48,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Stewart/Stuart of Rothesay (Sobieski)](/setts/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/) — ΔT 0.76
 1. [Hilton Plaid](/setts/s11/r44db3k6o2k2o2k10r5k2r3w2~x2/) — ΔT 0.85
 1. [Stewart of Rothesay](/setts/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/) — ΔT 1.05
-1. [Galway](/setts/s10/o4r2k4r40k3r3k4r3g13r4~x2/) — ΔT 1.12
+1. [Galway](/setts/s10/r4g13r3k4r3k3r40k4r2o4~x2/) — ΔT 1.12
 1. [1745 Trading (Corporate)](/setts/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/) — ΔT 1.13
 1. [Mair (Personal)](/setts/s12/r23g3ly1g3r2db18r2w1g3r2db2r23~x2/) — ΔT 1.15
-1. [Inverness](/setts/s14/r36db3w1db6g1k1g1r9g1k1g1db6w1db3~x4/) — ΔT 1.18
+1. [Inverness](/setts/s14/r36db3w1db6g1k1g1r9~x4/) — ΔT 1.18
 1. [Melrose (District)](/setts/s13/r64k2r2k6g2k2g2o2g6r5g2k6ly2~x2/) — ΔT 1.22
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r44t3k6k2k2k2k10r5k2r3w2~x2/"><circle cx="399.5" cy="78.6" r="4" fill="#3465a4"><title>Hilton Champion Corporate Golf Tartan Tartan Number: 2336. Earliest known date: c.1970 Originally called Hilton Champion, this tartan was designed by Kinloch Anderson for the officials and winning jacket for the Hilton-sponsored Heritage Classic golf tournament. The name was changed to Heritage Plaid in September 2000 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/r40k3r2db12r2g2r2g2ly3~x2/"><circle cx="432.4" cy="98.6" r="4" fill="#3465a4"><title>Oliver, dress</title></circle></a><a href="/setts/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/"><circle cx="380.0" cy="87.8" r="4" fill="#3465a4"><title>Stewart/Stuart of Rothesay (Sobieski)</title></circle></a><a href="/setts/s11/r44db3k6o2k2o2k10r5k2r3w2~x2/"><circle cx="389.8" cy="75.6" r="4" fill="#3465a4"><title>Hilton Plaid</title></circle></a><a href="/setts/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/"><circle cx="369.3" cy="84.3" r="4" fill="#3465a4"><title>Stewart of Rothesay</title></circle></a><a href="/setts/s10/o4r2k4r40k3r3k4r3g13r4~x2/"><circle cx="411.5" cy="114.2" r="4" fill="#3465a4"><title>Galway</title></circle></a><a href="/setts/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/"><circle cx="341.7" cy="94.9" r="4" fill="#3465a4"><title>1745 Trading (Corporate)</title></circle></a><a href="/setts/s12/r23g3ly1g3r2db18r2w1g3r2db2r23~x2/"><circle cx="390.6" cy="102.4" r="4" fill="#3465a4"><title>Mair (Personal)</title></circle></a><a href="/setts/s14/r36db3w1db6g1k1g1r9g1k1g1db6w1db3~x4/"><circle cx="427.3" cy="51.5" r="4" fill="#3465a4"><title>Inverness</title></circle></a><a href="/setts/s13/r64k2r2k6g2k2g2o2g6r5g2k6ly2~x2/"><circle cx="474.2" cy="51.4" r="4" fill="#3465a4"><title>Melrose (District)</title></circle></a><circle cx="408.2" cy="81.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r44t3k6k2k2k2k10r5k2r3w2~x2/"><circle cx="399.1" cy="78.5" r="4" fill="#3465a4"><title>Hilton Champion Corporate Golf Tartan Tartan Number: 2336. Earliest known date: c.1970 Originally called Hilton Champion, this tartan was designed by Kinloch Anderson for the officials and winning jacket for the Hilton-sponsored Heritage Classic golf tournament. The name was changed to Heritage Plaid in September 2000 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/r40k3r2db12r2g2r2g2ly3~x2/"><circle cx="431.9" cy="98.5" r="4" fill="#3465a4"><title>Oliver, dress</title></circle></a><a href="/setts/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/"><circle cx="379.6" cy="87.7" r="4" fill="#3465a4"><title>Stewart/Stuart of Rothesay (Sobieski)</title></circle></a><a href="/setts/s11/r44db3k6o2k2o2k10r5k2r3w2~x2/"><circle cx="389.4" cy="75.4" r="4" fill="#3465a4"><title>Hilton Plaid</title></circle></a><a href="/setts/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/"><circle cx="368.8" cy="84.2" r="4" fill="#3465a4"><title>Stewart of Rothesay</title></circle></a><a href="/setts/s10/r4g13r3k4r3k3r40k4r2o4~x2/"><circle cx="411.0" cy="114.1" r="4" fill="#3465a4"><title>Galway</title></circle></a><a href="/setts/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/"><circle cx="341.3" cy="94.8" r="4" fill="#3465a4"><title>1745 Trading (Corporate)</title></circle></a><a href="/setts/s12/r23g3ly1g3r2db18r2w1g3r2db2r23~x2/"><circle cx="390.1" cy="102.3" r="4" fill="#3465a4"><title>Mair (Personal)</title></circle></a><a href="/setts/s14/r36db3w1db6g1k1g1r9~x4/"><circle cx="426.8" cy="51.5" r="4" fill="#3465a4"><title>Inverness</title></circle></a><a href="/setts/s13/r64k2r2k6g2k2g2o2g6r5g2k6ly2~x2/"><circle cx="473.5" cy="51.2" r="4" fill="#3465a4"><title>Melrose (District)</title></circle></a><circle cx="407.7" cy="81.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/r44db3k6lo2k2lo2k10r5k2r3w2~x2/

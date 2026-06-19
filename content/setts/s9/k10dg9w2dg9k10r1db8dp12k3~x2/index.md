@@ -2,12 +2,18 @@
 title: "Hunter Graham"
 date: 2023-03-18
 ---
-**Bands:** [KBBRKGWGK](/stripes/kbbrkgwgk/) · **Stripes:** [K DP DB R K DG W DG K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="seq">K DP DB R K DG W DG K</span></span>
+**Bands:** [KGWGKRBBK](/stripes/kgwgkrbbk/) · **Stripes:** [K DG W DG K R DB DP K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="seq">K DG W DG K R DB DP K</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10018
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Hunter Graham Commemorative
 
 ## Attestations
 
@@ -44,21 +50,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Gow Hunting](/setts/s11/ly3k1dg12k12db12db3db12k12dg12k1r3~x2/) — ΔT 0.94
-1. [Gow Hunting (Clan)](/setts/s11/ly3k1g12k12db12db3db12k12g12k1r3~x2/) — ΔT 1.16
+1. [Gow Hunting](/setts/s11/r3k1dg12k12db12db3db12k12dg12k1ly3~x2/) — ΔT 0.94
+1. [Gow Hunting (Clan)](/setts/s11/r3k1g12k12db12db3db12k12g12k1ly3~x2/) — ΔT 1.16
 1. [Redgate (Connecticut) #2](/setts/s13/dg1k4dg6dr3dg6k10w1k10n9dr3n9k5n1~x2/) — ΔT 1.18
-1. [Erskine Veterans (Corporate)](/setts/s10/ly2db14k14dg14r2dg14k14db14t1w2~x2/) — ΔT 1.26
+1. [Erskine Veterans (Corporate)](/setts/s10/w2t1db14k14dg14r2dg14k14db14ly2~x2/) — ΔT 1.26
 1. [Free (Universal)](/setts/s13/db8k4dt15k16g16k4g6k4g16k16w2dt6m6/) — ΔT 1.28
 1. [Meeson Hunting](/setts/s6/k26n10dt19r6ly2db9~x2/) — ΔT 1.30
-1. [Adam Smith (Corporate)](/setts/s11/b2k1dt8k7g8ly2g8k7dt8k1r2~x4/) — ΔT 1.31
-1. [Erskine Veterans](/setts/s10/ly2db14k14dg14r2dg14k14db14b1w2~x2/) — ΔT 1.38
-1. [Smith of Pennilands (Clan)](/setts/s11/lo2k1g7k6n7db2n7k6g7k1r2~x4/) — ΔT 1.39
+1. [Adam Smith (Corporate)](/setts/s11/r2k1dt8k7g8ly2g8k7dt8k1b2~x4/) — ΔT 1.31
+1. [Erskine Veterans](/setts/s10/w2b1db14k14dg14r2dg14k14db14ly2~x2/) — ΔT 1.38
+1. [Smith of Pennilands (Clan)](/setts/s11/r2k1g7k6n7db2n7k6g7k1lo2~x4/) — ΔT 1.39
 1. [MacDuff Hunting](/setts/s8/do10r2do10g17k12db9do9r2~x2/) — ΔT 1.40
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/ly3k1dg12k12db12db3db12k12dg12k1r3~x2/"><circle cx="134.9" cy="185.5" r="4" fill="#3465a4"><title>Gow Hunting</title></circle></a><a href="/setts/s11/ly3k1g12k12db12db3db12k12g12k1r3~x2/"><circle cx="122.2" cy="178.2" r="4" fill="#3465a4"><title>Gow Hunting (Clan)</title></circle></a><a href="/setts/s13/dg1k4dg6dr3dg6k10w1k10n9dr3n9k5n1~x2/"><circle cx="111.6" cy="190.3" r="4" fill="#3465a4"><title>Redgate (Connecticut) #2</title></circle></a><a href="/setts/s10/ly2db14k14dg14r2dg14k14db14t1w2~x2/"><circle cx="126.8" cy="166.8" r="4" fill="#3465a4"><title>Erskine Veterans (Corporate)</title></circle></a><a href="/setts/s13/db8k4dt15k16g16k4g6k4g16k16w2dt6m6/"><circle cx="124.2" cy="197.6" r="4" fill="#3465a4"><title>Free (Universal)</title></circle></a><a href="/setts/s6/k26n10dt19r6ly2db9~x2/"><circle cx="180.9" cy="214.2" r="4" fill="#3465a4"><title>Meeson Hunting</title></circle></a><a href="/setts/s11/b2k1dt8k7g8ly2g8k7dt8k1r2~x4/"><circle cx="102.1" cy="199.9" r="4" fill="#3465a4"><title>Adam Smith (Corporate)</title></circle></a><a href="/setts/s10/ly2db14k14dg14r2dg14k14db14b1w2~x2/"><circle cx="148.4" cy="182.0" r="4" fill="#3465a4"><title>Erskine Veterans</title></circle></a><a href="/setts/s11/lo2k1g7k6n7db2n7k6g7k1r2~x4/"><circle cx="93.3" cy="206.5" r="4" fill="#3465a4"><title>Smith of Pennilands (Clan)</title></circle></a><a href="/setts/s8/do10r2do10g17k12db9do9r2~x2/"><circle cx="191.4" cy="248.7" r="4" fill="#3465a4"><title>MacDuff Hunting</title></circle></a><circle cx="145.0" cy="209.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r3k1dg12k12db12db3db12k12dg12k1ly3~x2/"><circle cx="135.1" cy="185.7" r="4" fill="#3465a4"><title>Gow Hunting</title></circle></a><a href="/setts/s11/r3k1g12k12db12db3db12k12g12k1ly3~x2/"><circle cx="122.4" cy="178.4" r="4" fill="#3465a4"><title>Gow Hunting (Clan)</title></circle></a><a href="/setts/s13/dg1k4dg6dr3dg6k10w1k10n9dr3n9k5n1~x2/"><circle cx="111.8" cy="190.6" r="4" fill="#3465a4"><title>Redgate (Connecticut) #2</title></circle></a><a href="/setts/s10/w2t1db14k14dg14r2dg14k14db14ly2~x2/"><circle cx="127.0" cy="167.0" r="4" fill="#3465a4"><title>Erskine Veterans (Corporate)</title></circle></a><a href="/setts/s13/db8k4dt15k16g16k4g6k4g16k16w2dt6m6/"><circle cx="124.4" cy="197.8" r="4" fill="#3465a4"><title>Free (Universal)</title></circle></a><a href="/setts/s6/k26n10dt19r6ly2db9~x2/"><circle cx="181.2" cy="214.4" r="4" fill="#3465a4"><title>Meeson Hunting</title></circle></a><a href="/setts/s11/r2k1dt8k7g8ly2g8k7dt8k1b2~x4/"><circle cx="102.4" cy="200.1" r="4" fill="#3465a4"><title>Adam Smith (Corporate)</title></circle></a><a href="/setts/s10/w2b1db14k14dg14r2dg14k14db14ly2~x2/"><circle cx="148.6" cy="182.3" r="4" fill="#3465a4"><title>Erskine Veterans</title></circle></a><a href="/setts/s11/r2k1g7k6n7db2n7k6g7k1lo2~x4/"><circle cx="93.5" cy="206.7" r="4" fill="#3465a4"><title>Smith of Pennilands (Clan)</title></circle></a><a href="/setts/s8/do10r2do10g17k12db9do9r2~x2/"><circle cx="191.5" cy="248.8" r="4" fill="#3465a4"><title>MacDuff Hunting</title></circle></a><circle cx="145.2" cy="209.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/k10dg9w2dg9k10r1db8dp12k3~x2/

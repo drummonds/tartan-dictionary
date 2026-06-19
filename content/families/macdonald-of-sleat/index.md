@@ -8,13 +8,15 @@ A family of [Clan MacDonald](/clan/macdonald/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s4/r36dg2r5dg16~x2/"><img src="/setts/s4/r36dg2r5dg16~x2/sett.png" alt="MacDonald of Sleat - 1810 (Clan)" width="240"><br>MacDonald of Sleat - 1810 (Clan)</a>
+<a class="tartan" href="/setts/s5/dg16r5dg2r18k2~x2/"><img src="/setts/s5/dg16r5dg2r18k2~x2/sett.png" alt="MacDonald Lord of the Isles #2" width="240"><br>MacDonald Lord of the Isles #2</a>
 
 ## Other tartans
 
 <ul class="tartan-grid">
+<li><a class="tartan" href="/setts/s5/g16r5g2r18k2~x2/"><img src="/setts/s5/g16r5g2r18k2~x2/sett.png" alt="MacCullough" width="140"><br>MacCullough</a></li>
 <li><a class="tartan" href="/setts/s4/r36g2r5g16~x2/"><img src="/setts/s4/r36g2r5g16~x2/sett.png" alt="MacDonald of Sleat" width="140"><br>MacDonald of Sleat</a></li>
 <li><a class="tartan" href="/setts/s5/dg16r5dg2r18k2/"><img src="/setts/s5/dg16r5dg2r18k2/sett.png" alt="MacDonald of Sleat" width="140"><br>MacDonald of Sleat</a></li>
 <li><a class="tartan" href="/setts/s5/dg7r3dg1r9k1~x2/"><img src="/setts/s5/dg7r3dg1r9k1~x2/sett.png" alt="MacDonald of Sleat" width="140"><br>MacDonald of Sleat</a></li>
+<li><a class="tartan" href="/setts/s4/r36dg2r5dg16~x2/"><img src="/setts/s4/r36dg2r5dg16~x2/sett.png" alt="MacDonald of Sleat - 1810 (Clan)" width="140"><br>MacDonald of Sleat - 1810 (Clan)</a></li>
 </ul>
 

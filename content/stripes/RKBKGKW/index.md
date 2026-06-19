@@ -8,7 +8,7 @@ RKBKGKW
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/lb2k1dg8k8db8k1r2/tartan.png)
+![Woven sample](/setts/s7/r2k1db8k8dg8k1lb2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RKBKGKW
 
 | Tartans |
 |---------------|
-| [Campbell Cawdor](/setts/s7/lb2k1dg8k8db8k1r2/)|
-|![Campbell Cawdor example sett](/setts/s7/lb2k1dg8k8db8k1r2/sett.png)|
+| [Campbell Cawdor](/setts/s7/r2k1db8k8dg8k1lb2/)|
+|![Campbell Cawdor example sett](/setts/s7/r2k1db8k8dg8k1lb2/sett.png)|
 

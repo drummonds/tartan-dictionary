@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -920,8 +923,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/m21r3m3r3m3db19g22t3~x2/"><circle cx="180.2" cy="194.2" r="4" fill="#3465a4"><title>Akins (Clan)</title></circle></a><a href="/setts/s10/r6g3r24t7r4t7k18g4k7g3/"><circle cx="164.4" cy="187.2" r="4" fill="#3465a4"><title>Law Society of Scotland (Corporate)</title></circle></a><a href="/setts/s8/r9g3b19k3g19r13k3lo3~x2/"><circle cx="151.6" cy="221.2" r="4" fill="#3465a4"><title>Orkney (District?)</title></circle></a><a href="/setts/s12/r4dy14lo2dy4lo2k6dy3k6db14r2db4r4~x2/"><circle cx="138.4" cy="192.8" r="4" fill="#3465a4"><title>Kinloch Anderson</title></circle></a><a href="/setts/s6/r2dy8db2t4k4t1~x6/"><circle cx="163.2" cy="225.2" r="4" fill="#3465a4"><title>Thompson's Fancy Personal Tartan Tartan Number: 286. Earliest known date: pre 2003 Designed for his own use. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/m4k16o5n8o2dp2o2dp2n8k3~x2/"><circle cx="159.5" cy="186.6" r="4" fill="#3465a4"><title>Ryukoku University Heian JHS (Corp)</title></circle></a><a href="/setts/s8/m21r3m3r3m3db19g22b3~x2/"><circle cx="158.8" cy="190.2" r="4" fill="#3465a4"><title>Akins</title></circle></a><a href="/setts/s12/r4y14o2y4o2k6y3k6db12r2db4r4~x2/"><circle cx="131.9" cy="199.9" r="4" fill="#3465a4"><title>Kinloch Anderson #2 (Corporate)</title></circle></a><a href="/setts/s10/db5k15o5n9o2db2o2db2n9k3~x2/"><circle cx="149.4" cy="203.2" r="4" fill="#3465a4"><title>Ryukoku University Heian SHS (Corp)</title></circle></a><a href="/setts/s8/r33dg17db50dg17r11dg17r9k7/"><circle cx="171.9" cy="225.9" r="4" fill="#3465a4"><title>Carnegie #3</title></circle></a><circle cx="141.3" cy="217.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/m21r3m3r3m3db19g22t3~x2/"><circle cx="180.2" cy="194.3" r="4" fill="#3465a4"><title>Akins (Clan)</title></circle></a><a href="/setts/s10/r6g3r24t7r4t7k18g4k7g3/"><circle cx="164.5" cy="187.3" r="4" fill="#3465a4"><title>Law Society of Scotland (Corporate)</title></circle></a><a href="/setts/s8/r9g3b19k3g19r13k3lo3~x2/"><circle cx="151.6" cy="221.4" r="4" fill="#3465a4"><title>Orkney (District?)</title></circle></a><a href="/setts/s12/r4dy14lo2dy4lo2k6dy3k6db14r2db4r4~x2/"><circle cx="138.5" cy="193.0" r="4" fill="#3465a4"><title>Kinloch Anderson</title></circle></a><a href="/setts/s6/r2dy8db2t4k4t1~x6/"><circle cx="163.3" cy="225.3" r="4" fill="#3465a4"><title>Thompson's Fancy Personal Tartan Tartan Number: 286. Earliest known date: pre 2003 Designed for his own use. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/m4k16o5n8o2dp2o2dp2n8k3~x2/"><circle cx="159.5" cy="186.7" r="4" fill="#3465a4"><title>Ryukoku University Heian JHS (Corp)</title></circle></a><a href="/setts/s8/m21r3m3r3m3db19g22b3~x2/"><circle cx="158.8" cy="190.3" r="4" fill="#3465a4"><title>Akins</title></circle></a><a href="/setts/s12/r4y14o2y4o2k6y3k6db12r2db4r4~x2/"><circle cx="132.0" cy="200.1" r="4" fill="#3465a4"><title>Kinloch Anderson #2 (Corporate)</title></circle></a><a href="/setts/s10/db5k15o5n9o2db2o2db2n9k3~x2/"><circle cx="149.5" cy="203.4" r="4" fill="#3465a4"><title>Ryukoku University Heian SHS (Corp)</title></circle></a><a href="/setts/s8/r33dg17db50dg17r11dg17r9k7/"><circle cx="171.9" cy="226.0" r="4" fill="#3465a4"><title>Carnegie #3</title></circle></a><circle cx="141.4" cy="217.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/m6y2db12k2y12m9k2lo2~x2/

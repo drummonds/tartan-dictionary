@@ -2,7 +2,7 @@
 title: "Wingtip"
 date: 2023-03-18
 ---
-**Bands:** [BWKWYRYB](/stripes/bwkwyryb/) · **Stripes:** [DB LB K W LG R LO DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="seq">DB LB K W LG R LO DB</span></span>
+**Bands:** [BYRYWKWB](/stripes/byrywkwb/) · **Stripes:** [DB LO R LG W K LB DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="seq">DB LO R LG W K LB DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -39,21 +39,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Quinn](/setts/s9/ly1n8k4g1g4g1k4n8r1~x6/) — ΔT 1.18
+1. [Quinn](/setts/s9/r1n8k4g1g4g1k4n8ly1~x6/) — ΔT 1.18
 1. [Robitaille, Jean-Francois (Personal)](/setts/s12/db21w2lo3w2lo2w2k12w2g6db15r2ly4~x2/) — ΔT 1.24
 1. [Queen Mary, RMS](/setts/s12/db24ly4y4p4db24r4w3k18w9r4k3w2~x2/) — ΔT 1.26
-1. [Anne Arundel County](/setts/s8/g4k7db33k9dy2k9y10r4~x2/) — ΔT 1.33
+1. [Anne Arundel County](/setts/s8/r4y10k9dy2k9db33k7g4~x2/) — ΔT 1.33
 1. [Stinson, Ancient](/setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/) — ΔT 1.34
 1. [Queen Mary RMS](/setts/s12/db24ly4o4dp4db24r4w3k18w9r4k3w2~x2/) — ΔT 1.37
 1. [Hatfield & Mize (Personal)](/setts/s6/dg10w2k10ly10db35r6~x2/) — ΔT 1.37
 1. [Ferster, James Carney](/setts/s6/t12dp35lr4w3k11k5~x2/) — ΔT 1.37
 1. [Sons of Scotland (Corporate)](/setts/s11/db2w2db21lo3db4r3db3m4g18b4w2~x2/) — ΔT 1.38
-1. [Royal Air Force Lossiemouth](/setts/s10/lb4t24r3t24g4db10k27dg3k7ly4~x2/) — ΔT 1.44
+1. [Royal Air Force Lossiemouth](/setts/s10/ly4k7dg3k27db10g4t24r3t24lb4~x2/) — ΔT 1.44
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/ly1n8k4g1g4g1k4n8r1~x6/"><circle cx="180.4" cy="173.8" r="4" fill="#3465a4"><title>Quinn</title></circle></a><a href="/setts/s12/db21w2lo3w2lo2w2k12w2g6db15r2ly4~x2/"><circle cx="155.0" cy="106.6" r="4" fill="#3465a4"><title>Robitaille, Jean-Francois (Personal)</title></circle></a><a href="/setts/s12/db24ly4y4p4db24r4w3k18w9r4k3w2~x2/"><circle cx="141.3" cy="103.1" r="4" fill="#3465a4"><title>Queen Mary, RMS</title></circle></a><a href="/setts/s8/g4k7db33k9dy2k9y10r4~x2/"><circle cx="162.3" cy="127.7" r="4" fill="#3465a4"><title>Anne Arundel County</title></circle></a><a href="/setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/"><circle cx="171.6" cy="141.0" r="4" fill="#3465a4"><title>Stinson, Ancient</title></circle></a><a href="/setts/s12/db24ly4o4dp4db24r4w3k18w9r4k3w2~x2/"><circle cx="151.2" cy="106.8" r="4" fill="#3465a4"><title>Queen Mary RMS</title></circle></a><a href="/setts/s6/dg10w2k10ly10db35r6~x2/"><circle cx="202.1" cy="148.9" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/setts/s6/t12dp35lr4w3k11k5~x2/"><circle cx="222.8" cy="167.1" r="4" fill="#3465a4"><title>Ferster, James Carney</title></circle></a><a href="/setts/s11/db2w2db21lo3db4r3db3m4g18b4w2~x2/"><circle cx="153.6" cy="114.6" r="4" fill="#3465a4"><title>Sons of Scotland (Corporate)</title></circle></a><a href="/setts/s10/lb4t24r3t24g4db10k27dg3k7ly4~x2/"><circle cx="101.9" cy="118.6" r="4" fill="#3465a4"><title>Royal Air Force Lossiemouth</title></circle></a><circle cx="178.1" cy="144.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r1n8k4g1g4g1k4n8ly1~x6/"><circle cx="180.5" cy="173.7" r="4" fill="#3465a4"><title>Quinn</title></circle></a><a href="/setts/s12/db21w2lo3w2lo2w2k12w2g6db15r2ly4~x2/"><circle cx="155.1" cy="106.7" r="4" fill="#3465a4"><title>Robitaille, Jean-Francois (Personal)</title></circle></a><a href="/setts/s12/db24ly4y4p4db24r4w3k18w9r4k3w2~x2/"><circle cx="141.3" cy="103.2" r="4" fill="#3465a4"><title>Queen Mary, RMS</title></circle></a><a href="/setts/s8/r4y10k9dy2k9db33k7g4~x2/"><circle cx="162.5" cy="127.8" r="4" fill="#3465a4"><title>Anne Arundel County</title></circle></a><a href="/setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/"><circle cx="171.7" cy="141.0" r="4" fill="#3465a4"><title>Stinson, Ancient</title></circle></a><a href="/setts/s12/db24ly4o4dp4db24r4w3k18w9r4k3w2~x2/"><circle cx="151.2" cy="106.9" r="4" fill="#3465a4"><title>Queen Mary RMS</title></circle></a><a href="/setts/s6/dg10w2k10ly10db35r6~x2/"><circle cx="202.2" cy="148.9" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/setts/s6/t12dp35lr4w3k11k5~x2/"><circle cx="222.8" cy="167.1" r="4" fill="#3465a4"><title>Ferster, James Carney</title></circle></a><a href="/setts/s11/db2w2db21lo3db4r3db3m4g18b4w2~x2/"><circle cx="153.7" cy="114.6" r="4" fill="#3465a4"><title>Sons of Scotland (Corporate)</title></circle></a><a href="/setts/s10/ly4k7dg3k27db10g4t24r3t24lb4~x2/"><circle cx="102.0" cy="118.7" r="4" fill="#3465a4"><title>Royal Air Force Lossiemouth</title></circle></a><circle cx="178.2" cy="144.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db11lb1k3w1lg4r5lo1db5~x4/

@@ -2,7 +2,7 @@
 title: "Mull Millenium Tartan"
 date: 2023-03-18
 ---
-**Bands:** [GWBRBKYG](/stripes/gwbrbkyg/) · **Stripes:** [G W DT R N K LY G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G W DT R N K LY G</span></span>
+**Bands:** [GYKBRBWG](/stripes/gykbrbwg/) · **Stripes:** [G LY K N R DT W G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G LY K N R DT W G</span></span>
 
 
 This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/12 LN2 DB18 R12 N18 K28 Y3 G/91
+G/91 Y3 K28 N18 R12 DB18 LN2 G/12
 ![Sett](sett.png)
 
 ## Palette
@@ -903,7 +906,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/12 LN2 DB18 R12 N18 K28 Y3 G/91 tartan")
+![Tartan detail](tartan.png "G/91 Y3 K28 N18 R12 DB18 LN2 G/12 tartan")
 
 ## Nearest tartans
 
@@ -922,8 +925,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g90r1k10w6k4g6r10db62ly8/"><circle cx="284.3" cy="72.3" r="4" fill="#3465a4"><title>Stirling, University of</title></circle></a><a href="/setts/s8/g92ly3k28n18r12db18w2g12/"><circle cx="321.6" cy="94.2" r="4" fill="#3465a4"><title>Mull Millennium</title></circle></a><a href="/setts/s13/k20g40db4k20g20r8k20g20ly1lo1ly1lo1w4/"><circle cx="262.7" cy="86.2" r="4" fill="#3465a4"><title>Mississippi</title></circle></a><a href="/setts/s13/k20g40db4k20g20r8k20g20ly1lo1ly1lo1w4~x2/"><circle cx="262.7" cy="86.2" r="4" fill="#3465a4"><title>Mississippi (Fashion)</title></circle></a><a href="/setts/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/"><circle cx="289.5" cy="75.6" r="4" fill="#3465a4"><title>Reilly fae the Mearns (Personal)</title></circle></a><a href="/setts/s9/b2lb1b2k16g20k14r2w2ly2~x2/"><circle cx="207.4" cy="100.0" r="4" fill="#3465a4"><title>Brooke</title></circle></a><a href="/setts/s7/w3r4db13g37b3k3ly2~x2/"><circle cx="270.4" cy="108.2" r="4" fill="#3465a4"><title>Washington</title></circle></a><a href="/setts/s9/p4g24dg6lg4dg4lg4dg44lo1w4/"><circle cx="332.1" cy="91.2" r="4" fill="#3465a4"><title>Macmillan Cancer Support</title></circle></a><a href="/setts/s9/w2k4db16lo12g36k1k6lo2w2~x2/"><circle cx="219.4" cy="86.0" r="4" fill="#3465a4"><title>National Millennium (Commemorative)</title></circle></a><a href="/setts/s9/g28r4k3y2k1dg2r3db20ly2~x2/"><circle cx="216.1" cy="83.6" r="4" fill="#3465a4"><title>Stirling, University</title></circle></a><circle cx="279.6" cy="76.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g90r1k10w6k4g6r10db62ly8/"><circle cx="284.1" cy="72.3" r="4" fill="#3465a4"><title>Stirling, University of</title></circle></a><a href="/setts/s8/g92ly3k28n18r12db18w2g12/"><circle cx="321.4" cy="94.2" r="4" fill="#3465a4"><title>Mull Millennium</title></circle></a><a href="/setts/s13/k20g40db4k20g20r8k20g20ly1lo1ly1lo1w4/"><circle cx="262.6" cy="86.2" r="4" fill="#3465a4"><title>Mississippi</title></circle></a><a href="/setts/s13/k20g40db4k20g20r8k20g20ly1lo1ly1lo1w4~x2/"><circle cx="262.6" cy="86.2" r="4" fill="#3465a4"><title>Mississippi (Fashion)</title></circle></a><a href="/setts/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/"><circle cx="289.3" cy="75.6" r="4" fill="#3465a4"><title>Reilly fae the Mearns (Personal)</title></circle></a><a href="/setts/s9/b2lb1b2k16g20k14r2w2ly2~x2/"><circle cx="207.4" cy="100.0" r="4" fill="#3465a4"><title>Brooke</title></circle></a><a href="/setts/s7/w3r4db13g37b3k3ly2~x2/"><circle cx="270.2" cy="108.2" r="4" fill="#3465a4"><title>Washington</title></circle></a><a href="/setts/s9/p4g24dg6lg4dg4lg4dg44lo1w4/"><circle cx="331.9" cy="91.2" r="4" fill="#3465a4"><title>Macmillan Cancer Support</title></circle></a><a href="/setts/s9/w2k4db16lo12g36k1k6lo2w2~x2/"><circle cx="219.3" cy="86.0" r="4" fill="#3465a4"><title>National Millennium (Commemorative)</title></circle></a><a href="/setts/s9/g28r4k3y2k1dg2r3db20ly2~x2/"><circle cx="216.0" cy="83.7" r="4" fill="#3465a4"><title>Stirling, University</title></circle></a><circle cx="279.5" cy="76.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/g91ly3k28n18r12dt18w2g12/

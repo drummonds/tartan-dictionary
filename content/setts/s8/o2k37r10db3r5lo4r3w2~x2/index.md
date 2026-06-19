@@ -40,20 +40,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Westin Kierland](/setts/s8/o2k37r10db3r5ly4r3w2~x2/) — ΔT 0.26
-1. [Westin Kierland (Corporate)](/setts/s8/lb2r3ly4r5db3r10k38lo2~x2/) — ΔT 0.56
+1. [Westin Kierland (Corporate)](/setts/s8/lo2k38r10db3r5ly4r3lb2~x2/) — ΔT 0.56
 1. [Legion of Frontiersmen](/setts/s8/dr62ly7g7r3w3db13w3r5~x2/) — ΔT 0.83
 1. [Legion of Frontiersmen](/setts/s8/do62ly7g7r3w3db13w3r5~x2/) — ΔT 0.87
 1. [Norwegian Night](/setts/s11/db6w3r14k3lo2k2w2k38w2k2lo2~x2/) — ΔT 1.25
 1. [Hyland Evening (Personal)](/setts/s8/dp3lo2r19r4dp6k36dp2lo3~x2/) — ΔT 1.30
-1. [MacNiven](/setts/s9/g18g2db5r45db3db18db3r5w2/) — ΔT 1.30
+1. [MacNiven](/setts/s9/g18g2db5r45db3db18db3r5w2/) — ΔT 1.31
 1. [Iberia Dress, Black (Fashion)](/setts/s7/k60w2r10dg6w4r15ly10~x2/) — ΔT 1.33
 1. [Sreijsener (Name)](/setts/s8/r8m12k6m33k72o6k8w6/) — ΔT 1.36
 1. [MacNiven](/setts/s9/g18g2db5r45lb3db18lb3r8lb2~x2/) — ΔT 1.40
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/o2k37r10db3r5ly4r3w2~x2/"><circle cx="297.5" cy="100.3" r="4" fill="#3465a4"><title>Westin Kierland</title></circle></a><a href="/setts/s8/lb2r3ly4r5db3r10k38lo2~x2/"><circle cx="313.4" cy="108.6" r="4" fill="#3465a4"><title>Westin Kierland (Corporate)</title></circle></a><a href="/setts/s8/dr62ly7g7r3w3db13w3r5~x2/"><circle cx="327.1" cy="92.1" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/setts/s8/do62ly7g7r3w3db13w3r5~x2/"><circle cx="316.2" cy="91.2" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/setts/s11/db6w3r14k3lo2k2w2k38w2k2lo2~x2/"><circle cx="317.7" cy="90.8" r="4" fill="#3465a4"><title>Norwegian Night</title></circle></a><a href="/setts/s8/dp3lo2r19r4dp6k36dp2lo3~x2/"><circle cx="254.6" cy="113.0" r="4" fill="#3465a4"><title>Hyland Evening (Personal)</title></circle></a><a href="/setts/s9/g18g2db5r45db3db18db3r5w2/"><circle cx="257.5" cy="94.2" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><a href="/setts/s7/k60w2r10dg6w4r15ly10~x2/"><circle cx="316.7" cy="109.4" r="4" fill="#3465a4"><title>Iberia Dress, Black (Fashion)</title></circle></a><a href="/setts/s8/r8m12k6m33k72o6k8w6/"><circle cx="319.6" cy="153.7" r="4" fill="#3465a4"><title>Sreijsener (Name)</title></circle></a><a href="/setts/s9/g18g2db5r45lb3db18lb3r8lb2~x2/"><circle cx="281.2" cy="109.8" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><circle cx="300.4" cy="102.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/o2k37r10db3r5ly4r3w2~x2/"><circle cx="297.4" cy="100.3" r="4" fill="#3465a4"><title>Westin Kierland</title></circle></a><a href="/setts/s8/lo2k38r10db3r5ly4r3lb2~x2/"><circle cx="313.3" cy="108.5" r="4" fill="#3465a4"><title>Westin Kierland (Corporate)</title></circle></a><a href="/setts/s8/dr62ly7g7r3w3db13w3r5~x2/"><circle cx="326.8" cy="92.1" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/setts/s8/do62ly7g7r3w3db13w3r5~x2/"><circle cx="316.0" cy="91.1" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/setts/s11/db6w3r14k3lo2k2w2k38w2k2lo2~x2/"><circle cx="317.5" cy="90.7" r="4" fill="#3465a4"><title>Norwegian Night</title></circle></a><a href="/setts/s8/dp3lo2r19r4dp6k36dp2lo3~x2/"><circle cx="254.5" cy="113.0" r="4" fill="#3465a4"><title>Hyland Evening (Personal)</title></circle></a><a href="/setts/s9/g18g2db5r45db3db18db3r5w2/"><circle cx="257.3" cy="94.2" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><a href="/setts/s7/k60w2r10dg6w4r15ly10~x2/"><circle cx="316.5" cy="109.3" r="4" fill="#3465a4"><title>Iberia Dress, Black (Fashion)</title></circle></a><a href="/setts/s8/r8m12k6m33k72o6k8w6/"><circle cx="319.5" cy="153.6" r="4" fill="#3465a4"><title>Sreijsener (Name)</title></circle></a><a href="/setts/s9/g18g2db5r45lb3db18lb3r8lb2~x2/"><circle cx="281.0" cy="109.9" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><circle cx="300.3" cy="102.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/o2k37r10db3r5lo4r3w2~x2/

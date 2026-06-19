@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Cameron, Hose
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -908,19 +917,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Cameron Hose](/setts/s7/k1r8dg1r1w8r1k1~x6/) — ΔT 0.48
 1. [Lennox Dress #2](/setts/s7/r2r1r10r2w10db1w2~x4/) — ΔT 0.99
-1. [MacPherson Dress Burgundy (Dance)](/setts/s7/w4k2w25r21w3r8ly3~x2/) — ΔT 1.06
+1. [MacPherson Dress Burgundy (Dance)](/setts/s7/w4k2w25r21w3r8ly3~x2/) — ΔT 1.07
 1. [Orange Fanaticos](/setts/s7/lb12lo75k22w12k22w16lb8/) — ΔT 1.13
 1. [Nesbit, Rose](/setts/s6/r6lb3r37k16lb16g4~x2/) — ΔT 1.20
 1. [Unidentified #41](/setts/s9/w6o1r4w1db4o1r8w1r2~x2/) — ΔT 1.23
-1. [Torridon, Burgundy (Dance)](/setts/s7/lg3r2n2r30w30lg2w3~x2/) — ΔT 1.23
+1. [Torridon, Burgundy (Dance)](/setts/s7/w3lg2w30r30n2r2lg3~x2/) — ΔT 1.23
 1. [Torridon, Cherry (Dance)](/setts/s7/r3r2db2r30w30db2w3~x2/) — ΔT 1.25
 1. [MacPherson, Red](/setts/s7/w5p3w26r20w3r8ly3~x2/) — ΔT 1.28
 1. [Lennox, dress](/setts/s7/r8p2r24p5w25o2w8~x2/) — ΔT 1.32
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k1r8dg1r1w8r1k1~x6/"><circle cx="245.0" cy="156.6" r="4" fill="#3465a4"><title>Cameron Hose</title></circle></a><a href="/setts/s7/r2r1r10r2w10db1w2~x4/"><circle cx="237.7" cy="158.2" r="4" fill="#3465a4"><title>Lennox Dress #2</title></circle></a><a href="/setts/s7/w4k2w25r21w3r8ly3~x2/"><circle cx="265.4" cy="152.9" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy (Dance)</title></circle></a><a href="/setts/s7/lb12lo75k22w12k22w16lb8/"><circle cx="189.3" cy="160.9" r="4" fill="#3465a4"><title>Orange Fanaticos</title></circle></a><a href="/setts/s6/r6lb3r37k16lb16g4~x2/"><circle cx="267.2" cy="172.2" r="4" fill="#3465a4"><title>Nesbit, Rose</title></circle></a><a href="/setts/s9/w6o1r4w1db4o1r8w1r2~x2/"><circle cx="221.4" cy="168.1" r="4" fill="#3465a4"><title>Unidentified #41</title></circle></a><a href="/setts/s7/lg3r2n2r30w30lg2w3~x2/"><circle cx="276.7" cy="128.7" r="4" fill="#3465a4"><title>Torridon, Burgundy (Dance)</title></circle></a><a href="/setts/s7/r3r2db2r30w30db2w3~x2/"><circle cx="285.2" cy="126.5" r="4" fill="#3465a4"><title>Torridon, Cherry (Dance)</title></circle></a><a href="/setts/s7/w5p3w26r20w3r8ly3~x2/"><circle cx="265.7" cy="168.8" r="4" fill="#3465a4"><title>MacPherson, Red</title></circle></a><a href="/setts/s7/r8p2r24p5w25o2w8~x2/"><circle cx="250.3" cy="158.6" r="4" fill="#3465a4"><title>Lennox, dress</title></circle></a><circle cx="236.9" cy="156.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k1r8dg1r1w8r1k1~x6/"><circle cx="244.6" cy="156.4" r="4" fill="#3465a4"><title>Cameron Hose</title></circle></a><a href="/setts/s7/r2r1r10r2w10db1w2~x4/"><circle cx="237.2" cy="158.1" r="4" fill="#3465a4"><title>Lennox Dress #2</title></circle></a><a href="/setts/s7/w4k2w25r21w3r8ly3~x2/"><circle cx="264.9" cy="152.7" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy (Dance)</title></circle></a><a href="/setts/s7/lb12lo75k22w12k22w16lb8/"><circle cx="188.9" cy="160.8" r="4" fill="#3465a4"><title>Orange Fanaticos</title></circle></a><a href="/setts/s6/r6lb3r37k16lb16g4~x2/"><circle cx="266.8" cy="172.0" r="4" fill="#3465a4"><title>Nesbit, Rose</title></circle></a><a href="/setts/s9/w6o1r4w1db4o1r8w1r2~x2/"><circle cx="221.0" cy="167.9" r="4" fill="#3465a4"><title>Unidentified #41</title></circle></a><a href="/setts/s7/w3lg2w30r30n2r2lg3~x2/"><circle cx="276.3" cy="128.5" r="4" fill="#3465a4"><title>Torridon, Burgundy (Dance)</title></circle></a><a href="/setts/s7/r3r2db2r30w30db2w3~x2/"><circle cx="284.7" cy="126.3" r="4" fill="#3465a4"><title>Torridon, Cherry (Dance)</title></circle></a><a href="/setts/s7/w5p3w26r20w3r8ly3~x2/"><circle cx="265.2" cy="168.6" r="4" fill="#3465a4"><title>MacPherson, Red</title></circle></a><a href="/setts/s7/r8p2r24p5w25o2w8~x2/"><circle cx="249.8" cy="158.4" r="4" fill="#3465a4"><title>Lennox, dress</title></circle></a><circle cx="236.5" cy="156.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k1r8g1r1w8r1k1~x6/

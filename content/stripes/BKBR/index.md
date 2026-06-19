@@ -20,7 +20,7 @@ BKBR
 
 
 
-### DB K DT R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K DT R</span></span>
+### R DT K DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R DT K DB</span></span>
 
 | Tartans |
 |---------------|

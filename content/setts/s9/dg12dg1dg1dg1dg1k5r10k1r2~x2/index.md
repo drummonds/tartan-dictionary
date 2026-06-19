@@ -2,12 +2,18 @@
 title: "Lindsay #2"
 date: 2023-03-18
 ---
-**Bands:** [GGGGGKRKR](/stripes/gggggkrkr/) · **Stripes:** [DG DG DG DG DG K R K R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG DG DG DG DG K R K R</span></span>
+**Bands:** [RKRKGGGGG](/stripes/rkrkggggg/) · **Stripes:** [R K R K DG DG DG DG DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="seq">R K R K DG DG DG DG DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2116
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Lindsay #2
 
 ## Register references
 
@@ -41,14 +47,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Logan - 1819 (with yellow)](/setts/s7/dp8r3ly1r3dg14r3ly1~x4/) — ΔT 0.81
 1. [Unidentified Specimen #2](/setts/s10/w1dg1r1dg14r1db6r11dg1r1w1~x4/) — ΔT 0.91
 1. [Leach (1999)](/setts/s12/k6r3k3r24t4g10r2g4r2g24r6t2~x2/) — ΔT 0.92
-1. [Army Cadet Force (Military)](/setts/s11/k9r1g1k3g20r5k3r20k5r3ly2~x2/) — ΔT 0.99
+1. [Army Cadet Force (Military)](/setts/s11/k9r1g1k3g20r5k3r20k5r3ly2~x2/) — ΔT 1.00
 1. [City of Armadale](/setts/s10/k21g2k2g2k3g15r29g2r2g4~x2/) — ΔT 1.00
-1. [Hampson (Name)](/setts/s12/g2r5k2r17k2r2k2g17k2g2ly2k2~x2/) — ΔT 1.01
+1. [Hampson (Name)](/setts/s12/k2ly2g2k2g17k2r2k2r17k2r5g2~x2/) — ΔT 1.01
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r3dr14g8r2g2w2g2r1~x2/"><circle cx="246.2" cy="171.1" r="4" fill="#3465a4"><title>Scott Hunting Clan Tartan Tartan Number: 1546. Earliest known date: 1906 Also known as Green Scott, this tartan is generally available today. The Chief of the Scotts is His Grace the 9th Duke of Buccleuch and 10th of Queensberry who lives in Selkirk in the borders region of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/g12k1g1k1g1r5r10k1r2~x2/"><circle cx="235.4" cy="158.3" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s8/k3r8k3r8lo19r7dt36r3~x2/"><circle cx="229.7" cy="173.0" r="4" fill="#3465a4"><title>Private SA Club</title></circle></a><a href="/setts/s9/dg12k1dg1k1dg1r5r10k1r2~x2/"><circle cx="259.4" cy="167.1" r="4" fill="#3465a4"><title>Lindsay #3</title></circle></a><a href="/setts/s7/dp8r3ly1r3dg14r3ly1~x4/"><circle cx="248.8" cy="180.3" r="4" fill="#3465a4"><title>Logan - 1819 (with yellow)</title></circle></a><a href="/setts/s10/w1dg1r1dg14r1db6r11dg1r1w1~x4/"><circle cx="260.2" cy="141.9" r="4" fill="#3465a4"><title>Unidentified Specimen #2</title></circle></a><a href="/setts/s12/k6r3k3r24t4g10r2g4r2g24r6t2~x2/"><circle cx="256.4" cy="158.7" r="4" fill="#3465a4"><title>Leach (1999)</title></circle></a><a href="/setts/s11/k9r1g1k3g20r5k3r20k5r3ly2~x2/"><circle cx="246.4" cy="137.1" r="4" fill="#3465a4"><title>Army Cadet Force (Military)</title></circle></a><a href="/setts/s10/k21g2k2g2k3g15r29g2r2g4~x2/"><circle cx="261.9" cy="164.6" r="4" fill="#3465a4"><title>City of Armadale</title></circle></a><a href="/setts/s12/g2r5k2r17k2r2k2g17k2g2ly2k2~x2/"><circle cx="238.4" cy="155.4" r="4" fill="#3465a4"><title>Hampson (Name)</title></circle></a><circle cx="247.7" cy="167.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r3dr14g8r2g2w2g2r1~x2/"><circle cx="246.1" cy="171.1" r="4" fill="#3465a4"><title>Scott Hunting Clan Tartan Tartan Number: 1546. Earliest known date: 1906 Also known as Green Scott, this tartan is generally available today. The Chief of the Scotts is His Grace the 9th Duke of Buccleuch and 10th of Queensberry who lives in Selkirk in the borders region of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/g12k1g1k1g1r5r10k1r2~x2/"><circle cx="235.2" cy="158.2" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s8/k3r8k3r8lo19r7dt36r3~x2/"><circle cx="229.6" cy="173.0" r="4" fill="#3465a4"><title>Private SA Club</title></circle></a><a href="/setts/s9/dg12k1dg1k1dg1r5r10k1r2~x2/"><circle cx="259.2" cy="167.1" r="4" fill="#3465a4"><title>Lindsay #3</title></circle></a><a href="/setts/s7/dp8r3ly1r3dg14r3ly1~x4/"><circle cx="248.6" cy="180.2" r="4" fill="#3465a4"><title>Logan - 1819 (with yellow)</title></circle></a><a href="/setts/s10/w1dg1r1dg14r1db6r11dg1r1w1~x4/"><circle cx="260.0" cy="141.9" r="4" fill="#3465a4"><title>Unidentified Specimen #2</title></circle></a><a href="/setts/s12/k6r3k3r24t4g10r2g4r2g24r6t2~x2/"><circle cx="256.2" cy="158.7" r="4" fill="#3465a4"><title>Leach (1999)</title></circle></a><a href="/setts/s11/k9r1g1k3g20r5k3r20k5r3ly2~x2/"><circle cx="246.2" cy="137.1" r="4" fill="#3465a4"><title>Army Cadet Force (Military)</title></circle></a><a href="/setts/s10/k21g2k2g2k3g15r29g2r2g4~x2/"><circle cx="261.7" cy="164.5" r="4" fill="#3465a4"><title>City of Armadale</title></circle></a><a href="/setts/s12/k2ly2g2k2g17k2r2k2r17k2r5g2~x2/"><circle cx="238.1" cy="155.3" r="4" fill="#3465a4"><title>Hampson (Name)</title></circle></a><circle cx="247.5" cy="167.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dg12dg1dg1dg1dg1k5r10k1r2~x2/

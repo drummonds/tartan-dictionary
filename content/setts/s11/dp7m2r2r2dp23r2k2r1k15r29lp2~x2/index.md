@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7102
 
 ## Thread count
-LP/4 R58 K30 Ra2 K4 Ra4 P46 Ra4 R4 Pa4 P/14
+P/14 Pa4 R4 Ra4 P46 Ra4 K4 Ra2 K30 R58 LP/4
 ![Sett](sett.png)
 
 ## Palette
@@ -44,7 +44,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Faulkner (Personal)](/setts/s11/g10o1k3dp22o1dp8k2r26lo1r6k3~x2/) — ΔT 1.56
-1. [Tache, Sir Etienne Paschal](/setts/s8/lo2dt3db3dt20r16r24r1lr2~x2/) — ΔT 1.63
+1. [Tache, Sir Etienne Paschal](/setts/s8/lr2r1r24r16dt20db3dt3lo2~x2/) — ΔT 1.63
 1. [Telfer](/setts/s9/g9lo2g6r35db6lb1r20db5lb2~x2/) — ΔT 1.64
 1. [Skye Highland Outfitters (Corporate)](/setts/s12/r25lo5db6lb2db2lb2db2g10dp10db1dp3lb2~x2/) — ΔT 1.65
 1. [Cadden-Phillips (Personal)](/setts/s11/r40dg2r2dp2r2g2r2dr5dg20ly2dp20~x2/) — ΔT 1.73
@@ -56,8 +56,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g10o1k3dp22o1dp8k2r26lo1r6k3~x2/"><circle cx="275.4" cy="118.4" r="4" fill="#3465a4"><title>Faulkner (Personal)</title></circle></a><a href="/setts/s8/lo2dt3db3dt20r16r24r1lr2~x2/"><circle cx="219.0" cy="122.1" r="4" fill="#3465a4"><title>Tache, Sir Etienne Paschal</title></circle></a><a href="/setts/s9/g9lo2g6r35db6lb1r20db5lb2~x2/"><circle cx="251.1" cy="92.0" r="4" fill="#3465a4"><title>Telfer</title></circle></a><a href="/setts/s12/r25lo5db6lb2db2lb2db2g10dp10db1dp3lb2~x2/"><circle cx="187.4" cy="89.3" r="4" fill="#3465a4"><title>Skye Highland Outfitters (Corporate)</title></circle></a><a href="/setts/s11/r40dg2r2dp2r2g2r2dr5dg20ly2dp20~x2/"><circle cx="292.7" cy="106.7" r="4" fill="#3465a4"><title>Cadden-Phillips (Personal)</title></circle></a><a href="/setts/s10/g2k16r5k1o8k1r5k1dp16ly2~x4/"><circle cx="159.8" cy="119.0" r="4" fill="#3465a4"><title>Tribal #2</title></circle></a><a href="/setts/s9/g9ly2g6r35db6lb1r20db5lb2~x2/"><circle cx="251.0" cy="93.1" r="4" fill="#3465a4"><title>Telfer (Name)</title></circle></a><a href="/setts/s15/lr3lo8r2lo8db11r2lo4r4r27db1r2db2r2db13r2~x2/"><circle cx="258.1" cy="100.8" r="4" fill="#3465a4"><title>Strathdon (District?)</title></circle></a><a href="/setts/s12/r6k7r45r14k10r4k3r6k20r23lb5r6/"><circle cx="183.3" cy="119.7" r="4" fill="#3465a4"><title>Sweetheart (Fashion)</title></circle></a><a href="/setts/s12/r4k4r28dp4g4k10g4dp4g4dp8k1w3~x2/"><circle cx="247.3" cy="112.8" r="4" fill="#3465a4"><title>Kelly of Sleat (Name)</title></circle></a><circle cx="241.3" cy="83.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g10o1k3dp22o1dp8k2r26lo1r6k3~x2/"><circle cx="275.3" cy="118.6" r="4" fill="#3465a4"><title>Faulkner (Personal)</title></circle></a><a href="/setts/s8/lr2r1r24r16dt20db3dt3lo2~x2/"><circle cx="218.9" cy="122.2" r="4" fill="#3465a4"><title>Tache, Sir Etienne Paschal</title></circle></a><a href="/setts/s9/g9lo2g6r35db6lb1r20db5lb2~x2/"><circle cx="250.8" cy="92.1" r="4" fill="#3465a4"><title>Telfer</title></circle></a><a href="/setts/s12/r25lo5db6lb2db2lb2db2g10dp10db1dp3lb2~x2/"><circle cx="187.3" cy="89.5" r="4" fill="#3465a4"><title>Skye Highland Outfitters (Corporate)</title></circle></a><a href="/setts/s11/r40dg2r2dp2r2g2r2dr5dg20ly2dp20~x2/"><circle cx="292.5" cy="106.9" r="4" fill="#3465a4"><title>Cadden-Phillips (Personal)</title></circle></a><a href="/setts/s10/g2k16r5k1o8k1r5k1dp16ly2~x4/"><circle cx="159.7" cy="119.2" r="4" fill="#3465a4"><title>Tribal #2</title></circle></a><a href="/setts/s9/g9ly2g6r35db6lb1r20db5lb2~x2/"><circle cx="250.7" cy="93.2" r="4" fill="#3465a4"><title>Telfer (Name)</title></circle></a><a href="/setts/s15/lr3lo8r2lo8db11r2lo4r4r27db1r2db2r2db13r2~x2/"><circle cx="257.8" cy="100.9" r="4" fill="#3465a4"><title>Strathdon (District?)</title></circle></a><a href="/setts/s12/r6k7r45r14k10r4k3r6k20r23lb5r6/"><circle cx="183.2" cy="119.9" r="4" fill="#3465a4"><title>Sweetheart (Fashion)</title></circle></a><a href="/setts/s12/r4k4r28dp4g4k10g4dp4g4dp8k1w3~x2/"><circle cx="247.2" cy="112.9" r="4" fill="#3465a4"><title>Kelly of Sleat (Name)</title></circle></a><circle cx="241.1" cy="84.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/dp7m2r2r2dp23r2k2r1k15r29lp2~x2/

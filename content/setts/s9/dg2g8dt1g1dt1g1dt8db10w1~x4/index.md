@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,14 +913,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Boroughmuir](/setts/s7/db6b47db22g47dp4g4lb4/) — ΔT 1.15
 1. [Dunbartonshire](/setts/s9/g11k2g1r4db1r4db13t2db1~x4/) — ΔT 1.16
 1. [State Seal of North Dakota (Fashion)](/setts/s11/g37dp5g5dp12b10db5b5db40dy4db4lo4~x2/) — ΔT 1.19
-1. [Brady 60th, Keith James (Personal)](/setts/s10/lo1db9k1n1k1n1k3n7o1n1~x4/) — ΔT 1.23
+1. [Brady 60th, Keith James (Personal)](/setts/s10/n1o1n7k3n1k1n1k1db9lo1~x4/) — ΔT 1.23
 1. [Skene](/setts/s7/db24k4r3k4dg24k4r4~x2/) — ΔT 1.24
 1. [Westbrook (2013)](/setts/s9/dg15y3dr2y3dg8b12db20r2db4~x2/) — ΔT 1.24
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db11k1db1k1db1k7dg8r1t7~x4/"><circle cx="197.1" cy="199.9" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/setts/s9/db11k1db1k1db1k7dg8r1lg6~x4/"><circle cx="181.0" cy="190.8" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/setts/s9/k2db3k2db18k11db2k11g25p2~x2/"><circle cx="247.4" cy="212.3" r="4" fill="#3465a4"><title>Aitchison Family (Kinghorn) (Personal)</title></circle></a><a href="/setts/s8/db17lb2db2r2db2do12dg16lo3~x4/"><circle cx="193.4" cy="198.3" r="4" fill="#3465a4"><title>Blairmore House (Corporate)</title></circle></a><a href="/setts/s7/db6b47db22g47dp4g4lb4/"><circle cx="243.1" cy="206.8" r="4" fill="#3465a4"><title>Boroughmuir</title></circle></a><a href="/setts/s9/g11k2g1r4db1r4db13t2db1~x4/"><circle cx="228.4" cy="177.5" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/setts/s11/g37dp5g5dp12b10db5b5db40dy4db4lo4~x2/"><circle cx="194.7" cy="161.8" r="4" fill="#3465a4"><title>State Seal of North Dakota (Fashion)</title></circle></a><a href="/setts/s10/lo1db9k1n1k1n1k3n7o1n1~x4/"><circle cx="222.6" cy="180.0" r="4" fill="#3465a4"><title>Brady 60th, Keith James (Personal)</title></circle></a><a href="/setts/s7/db24k4r3k4dg24k4r4~x2/"><circle cx="200.8" cy="207.7" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/setts/s9/dg15y3dr2y3dg8b12db20r2db4~x2/"><circle cx="175.7" cy="195.5" r="4" fill="#3465a4"><title>Westbrook (2013)</title></circle></a><circle cx="195.8" cy="198.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db11k1db1k1db1k7dg8r1t7~x4/"><circle cx="197.2" cy="200.1" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/setts/s9/db11k1db1k1db1k7dg8r1lg6~x4/"><circle cx="181.2" cy="191.0" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/setts/s9/k2db3k2db18k11db2k11g25p2~x2/"><circle cx="247.5" cy="212.4" r="4" fill="#3465a4"><title>Aitchison Family (Kinghorn) (Personal)</title></circle></a><a href="/setts/s8/db17lb2db2r2db2do12dg16lo3~x4/"><circle cx="193.6" cy="198.5" r="4" fill="#3465a4"><title>Blairmore House (Corporate)</title></circle></a><a href="/setts/s7/db6b47db22g47dp4g4lb4/"><circle cx="243.1" cy="206.9" r="4" fill="#3465a4"><title>Boroughmuir</title></circle></a><a href="/setts/s9/g11k2g1r4db1r4db13t2db1~x4/"><circle cx="228.4" cy="177.6" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/setts/s11/g37dp5g5dp12b10db5b5db40dy4db4lo4~x2/"><circle cx="194.7" cy="162.0" r="4" fill="#3465a4"><title>State Seal of North Dakota (Fashion)</title></circle></a><a href="/setts/s10/n1o1n7k3n1k1n1k1db9lo1~x4/"><circle cx="222.6" cy="180.1" r="4" fill="#3465a4"><title>Brady 60th, Keith James (Personal)</title></circle></a><a href="/setts/s7/db24k4r3k4dg24k4r4~x2/"><circle cx="200.9" cy="207.8" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/setts/s9/dg15y3dr2y3dg8b12db20r2db4~x2/"><circle cx="175.9" cy="195.7" r="4" fill="#3465a4"><title>Westbrook (2013)</title></circle></a><circle cx="195.9" cy="198.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dg2g8dt1g1dt1g1dt8db10w1~x4/

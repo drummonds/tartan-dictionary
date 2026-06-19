@@ -21,14 +21,14 @@ BRWRBY
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### B O W O B LY <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">B O W O B LY</span></span>
+### LY B O W O B <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LY B O W O B</span></span>
 
 | Tartans |
 |---------------|
 | [Unidentified Lindley](/setts/s6/b6o6w1o6b6ly1~x8/)|
 |![Unidentified Lindley example sett](/setts/s6/b6o6w1o6b6ly1~x8/sett.png)|
 
-### T O W O T LY <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">T O W O T LY</span></span>
+### LY T O W O T <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY T O W O T</span></span>
 
 | Tartans |
 |---------------|

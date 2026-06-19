@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -907,16 +910,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Aitken](/setts/s8/lo5db2k2db12k16r20k2r4~x2/) — ΔT 0.93
 1. [MacLachlan 1](/setts/s15/r12k2r2k2r2k10db10k1g3k1db12k10r12k2r2~x2/) — ΔT 0.94
 1. [Red Watch (Fashion) #3](/setts/s13/o26k2o3k2o3k16y18y4y18k16o18k2o3~x2/) — ΔT 0.99
-1. [Wilson's No.158](/setts/s10/g19w2g4k13dp12k3dp12k13g4w2~x2/) — ΔT 1.01
+1. [Wilson's No.158](/setts/s10/g19w2g4k13dp12k3~x2/) — ΔT 1.01
 1. [Unidentified #58](/setts/s9/r4k12lb1dg6r3k1r3lb1r3~x4/) — ΔT 1.01
-1. [Wilson's No.160](/setts/s10/g19ly2g4k13dp12k3dp12k13g4ly2~x2/) — ΔT 1.03
+1. [Wilson's No.160](/setts/s10/g19ly2g4k13dp12k3~x2/) — ΔT 1.03
 1. [MacLachlan](/setts/s13/r16k2r2k2r2k16db16dg3db16k16r16k2r2/) — ΔT 1.04
 1. [MacLachlan #2](/setts/s13/r16k2r2k2r2k16db16dg3db16k16r16k2r2~x2/) — ΔT 1.05
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/"><circle cx="158.5" cy="154.2" r="4" fill="#3465a4"><title>Bonner, (Bonnar)</title></circle></a><a href="/setts/s15/dt43k4dt4k4dt4k26r32k4w10k4r32k26dt32k4r10/"><circle cx="181.2" cy="162.7" r="4" fill="#3465a4"><title>Frankfurt &amp; Disttrict P &amp; D (Corpora</title></circle></a><a href="/setts/s8/lo5db2k2db12k16r20k2r4~x2/"><circle cx="188.2" cy="189.3" r="4" fill="#3465a4"><title>Aitken</title></circle></a><a href="/setts/s15/r12k2r2k2r2k10db10k1g3k1db12k10r12k2r2~x2/"><circle cx="176.1" cy="154.6" r="4" fill="#3465a4"><title>MacLachlan 1</title></circle></a><a href="/setts/s13/o26k2o3k2o3k16y18y4y18k16o18k2o3~x2/"><circle cx="206.2" cy="163.3" r="4" fill="#3465a4"><title>Red Watch (Fashion) #3</title></circle></a><a href="/setts/s10/g19w2g4k13dp12k3dp12k13g4w2~x2/"><circle cx="163.3" cy="204.5" r="4" fill="#3465a4"><title>Wilson's No.158</title></circle></a><a href="/setts/s9/r4k12lb1dg6r3k1r3lb1r3~x4/"><circle cx="202.4" cy="176.8" r="4" fill="#3465a4"><title>Unidentified #58</title></circle></a><a href="/setts/s10/g19ly2g4k13dp12k3dp12k13g4ly2~x2/"><circle cx="167.1" cy="206.2" r="4" fill="#3465a4"><title>Wilson's No.160</title></circle></a><a href="/setts/s13/r16k2r2k2r2k16db16dg3db16k16r16k2r2/"><circle cx="158.5" cy="179.7" r="4" fill="#3465a4"><title>MacLachlan</title></circle></a><a href="/setts/s13/r16k2r2k2r2k16db16dg3db16k16r16k2r2~x2/"><circle cx="175.3" cy="180.6" r="4" fill="#3465a4"><title>MacLachlan #2</title></circle></a><circle cx="185.0" cy="180.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/"><circle cx="158.5" cy="154.2" r="4" fill="#3465a4"><title>Bonner, (Bonnar)</title></circle></a><a href="/setts/s15/dt43k4dt4k4dt4k26r32k4w10k4r32k26dt32k4r10/"><circle cx="181.1" cy="162.8" r="4" fill="#3465a4"><title>Frankfurt &amp; Disttrict P &amp; D (Corpora</title></circle></a><a href="/setts/s8/lo5db2k2db12k16r20k2r4~x2/"><circle cx="188.4" cy="189.3" r="4" fill="#3465a4"><title>Aitken</title></circle></a><a href="/setts/s15/r12k2r2k2r2k10db10k1g3k1db12k10r12k2r2~x2/"><circle cx="176.1" cy="154.6" r="4" fill="#3465a4"><title>MacLachlan 1</title></circle></a><a href="/setts/s13/o26k2o3k2o3k16y18y4y18k16o18k2o3~x2/"><circle cx="206.1" cy="163.3" r="4" fill="#3465a4"><title>Red Watch (Fashion) #3</title></circle></a><a href="/setts/s10/g19w2g4k13dp12k3~x2/"><circle cx="163.4" cy="204.5" r="4" fill="#3465a4"><title>Wilson's No.158</title></circle></a><a href="/setts/s9/r4k12lb1dg6r3k1r3lb1r3~x4/"><circle cx="202.4" cy="176.8" r="4" fill="#3465a4"><title>Unidentified #58</title></circle></a><a href="/setts/s10/g19ly2g4k13dp12k3~x2/"><circle cx="167.2" cy="206.2" r="4" fill="#3465a4"><title>Wilson's No.160</title></circle></a><a href="/setts/s13/r16k2r2k2r2k16db16dg3db16k16r16k2r2/"><circle cx="158.7" cy="179.7" r="4" fill="#3465a4"><title>MacLachlan</title></circle></a><a href="/setts/s13/r16k2r2k2r2k16db16dg3db16k16r16k2r2~x2/"><circle cx="175.3" cy="180.7" r="4" fill="#3465a4"><title>MacLachlan #2</title></circle></a><circle cx="185.1" cy="180.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/

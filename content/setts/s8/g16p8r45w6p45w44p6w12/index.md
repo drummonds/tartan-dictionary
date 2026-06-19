@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -908,19 +911,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Tartan Tangerine](/setts/s7/o1w1dp4w1o4k1w1~x8/) — ΔT 1.17
 1. [Thousand Islands Int. Council (Corp)](/setts/s8/r22w2db11ly4db11r6db2w10~x2/) — ΔT 1.20
-1. [Culloden Red Dress (Dance)](/setts/s14/w12dp6w44dp45w6r45dp8g16dp8r45w6dp45w44dp6/) — ΔT 1.25
+1. [Culloden Red Dress (Dance)](/setts/s14/g16dp8r45w6dp45w44dp6w12/) — ΔT 1.25
 1. [Heriot](/setts/s8/o20db2o2db2lo3db12w18db3~x2/) — ΔT 1.34
 1. [Oliver, dress](/setts/s9/w5g3r3g3r3db20r16w21k3~x2/) — ΔT 1.43
 1. [Wallace Dress, Red (Dance)](/setts/s5/k3r28k10w28t3~x2/) — ΔT 1.46
 1. [Think Pink (ICF)](/setts/s5/k4db2lr13m13lb2~x4/) — ΔT 1.52
-1. [Common Ground Dress (Fashion)](/setts/s5/lo3db27w16r27w3~x2/) — ΔT 1.53
+1. [Common Ground Dress (Fashion)](/setts/s5/w3r27w16db27lo3~x2/) — ΔT 1.53
 1. [Glasgow Dress (Dance)](/setts/s7/o16r3lb15r18w15o3lb3~x2/) — ΔT 1.53
 1. [Lord Laird](/setts/s9/k4w26k10lo8k3lo8k10r26w4~x2/) — ΔT 1.54
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/o1w1dp4w1o4k1w1~x8/"><circle cx="141.0" cy="209.4" r="4" fill="#3465a4"><title>Tartan Tangerine</title></circle></a><a href="/setts/s8/r22w2db11ly4db11r6db2w10~x2/"><circle cx="133.9" cy="159.1" r="4" fill="#3465a4"><title>Thousand Islands Int. Council (Corp)</title></circle></a><a href="/setts/s14/w12dp6w44dp45w6r45dp8g16dp8r45w6dp45w44dp6/"><circle cx="132.3" cy="150.4" r="4" fill="#3465a4"><title>Culloden Red Dress (Dance)</title></circle></a><a href="/setts/s8/o20db2o2db2lo3db12w18db3~x2/"><circle cx="168.8" cy="161.5" r="4" fill="#3465a4"><title>Heriot</title></circle></a><a href="/setts/s9/w5g3r3g3r3db20r16w21k3~x2/"><circle cx="110.8" cy="154.6" r="4" fill="#3465a4"><title>Oliver, dress</title></circle></a><a href="/setts/s5/k3r28k10w28t3~x2/"><circle cx="183.8" cy="186.1" r="4" fill="#3465a4"><title>Wallace Dress, Red (Dance)</title></circle></a><a href="/setts/s5/k4db2lr13m13lb2~x4/"><circle cx="167.4" cy="202.0" r="4" fill="#3465a4"><title>Think Pink (ICF)</title></circle></a><a href="/setts/s5/lo3db27w16r27w3~x2/"><circle cx="165.3" cy="208.3" r="4" fill="#3465a4"><title>Common Ground Dress (Fashion)</title></circle></a><a href="/setts/s7/o16r3lb15r18w15o3lb3~x2/"><circle cx="94.3" cy="211.4" r="4" fill="#3465a4"><title>Glasgow Dress (Dance)</title></circle></a><a href="/setts/s9/k4w26k10lo8k3lo8k10r26w4~x2/"><circle cx="107.5" cy="166.1" r="4" fill="#3465a4"><title>Lord Laird</title></circle></a><circle cx="142.3" cy="179.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/o1w1dp4w1o4k1w1~x8/"><circle cx="140.8" cy="209.3" r="4" fill="#3465a4"><title>Tartan Tangerine</title></circle></a><a href="/setts/s8/r22w2db11ly4db11r6db2w10~x2/"><circle cx="133.7" cy="159.1" r="4" fill="#3465a4"><title>Thousand Islands Int. Council (Corp)</title></circle></a><a href="/setts/s14/g16dp8r45w6dp45w44dp6w12/"><circle cx="132.0" cy="150.3" r="4" fill="#3465a4"><title>Culloden Red Dress (Dance)</title></circle></a><a href="/setts/s8/o20db2o2db2lo3db12w18db3~x2/"><circle cx="168.6" cy="161.4" r="4" fill="#3465a4"><title>Heriot</title></circle></a><a href="/setts/s9/w5g3r3g3r3db20r16w21k3~x2/"><circle cx="110.6" cy="154.6" r="4" fill="#3465a4"><title>Oliver, dress</title></circle></a><a href="/setts/s5/k3r28k10w28t3~x2/"><circle cx="183.6" cy="185.9" r="4" fill="#3465a4"><title>Wallace Dress, Red (Dance)</title></circle></a><a href="/setts/s5/k4db2lr13m13lb2~x4/"><circle cx="167.3" cy="202.0" r="4" fill="#3465a4"><title>Think Pink (ICF)</title></circle></a><a href="/setts/s5/w3r27w16db27lo3~x2/"><circle cx="165.3" cy="208.2" r="4" fill="#3465a4"><title>Common Ground Dress (Fashion)</title></circle></a><a href="/setts/s7/o16r3lb15r18w15o3lb3~x2/"><circle cx="94.1" cy="211.3" r="4" fill="#3465a4"><title>Glasgow Dress (Dance)</title></circle></a><a href="/setts/s9/k4w26k10lo8k3lo8k10r26w4~x2/"><circle cx="107.2" cy="166.1" r="4" fill="#3465a4"><title>Lord Laird</title></circle></a><circle cx="142.0" cy="179.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/g16p8r45w6p45w44p6w12/

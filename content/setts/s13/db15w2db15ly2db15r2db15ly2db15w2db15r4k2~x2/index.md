@@ -2,12 +2,18 @@
 title: "Royal National Lifeboat Inst. (Corp)"
 date: 2023-03-18
 ---
-**Bands:** [BWBYBRBYBWBRK](/stripes/bwbybrbybwbrk/) · **Stripes:** [DB W DB LY DB R DB LY DB W DB R K](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">DB W DB LY DB R DB LY DB W DB R K</span></span>
+**Bands:** [KRBWBYBRBYBWB](/stripes/krbwbybrbybwb/) · **Stripes:** [K R DB W DB LY DB R DB LY DB W DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">K R DB W DB LY DB R DB LY DB W DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3114/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Royal National Lifeboat Inst.
 
 ## Attestations
 
@@ -43,20 +49,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Columba of Iona (School)](/setts/s8/db14m3db14dy6db14w4db14ly3~x2/) — ΔT 2.19
-1. [Clackson (Personal)](/setts/s13/db29r2db10lo5db4w5db4lo5db4w5db10r2db29~x2/) — ΔT 2.27
+1. [Clackson (Personal)](/setts/s13/db29r2db10w5db4lo5db4w5db4lo5db10r2db29~x2/) — ΔT 2.27
 1. [Centrica Energy (Corporate)](/setts/s9/w12db79lo6db53lb4db22lp10db24g8/) — ΔT 2.38
-1. [Clackson (Personal)](/setts/s13/db24r2db8ly5db4w5db4ly5db4w5db8r2db24~x2/) — ΔT 2.41
+1. [Clackson (Personal)](/setts/s13/db24r2db8w5db4ly5db4w5db4ly5db8r2db24~x2/) — ΔT 2.41
 1. [Sultan of Qaboo's Air Force](/setts/s6/db24t6db10t6db32ly3~x2/) — ΔT 2.49
 1. [Centrica Energy](/setts/s9/w12db79lo6db53lg4db22lp10db24lg8/) — ΔT 2.50
-1. [Warren Wilson College](/setts/s14/g20lr6db20ly3db48r6db4r6db4r6db48ly3db20lr6~x2/) — ΔT 2.58
-1. [Jethart](/setts/s16/lb5b3g3b16k2b16r3b16k22b16r3b16k2b16g3b3~x2/) — ΔT 2.63
+1. [Warren Wilson College](/setts/s14/g20lr6db20ly3db48r6db4r6~x2/) — ΔT 2.58
+1. [Jethart](/setts/s16/k22b16r3b16k2b16g3b3lb5~x2/) — ΔT 2.63
 1. [De Grussa](/setts/s6/db24w4db24ly4r5k4~x2/) — ΔT 2.65
 1. [Stephen F Austin State University](/setts/s8/dp15w2k3dp30k4o3dp15w6~x2/) — ΔT 2.70
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db14m3db14dy6db14w4db14ly3~x2/"><circle cx="376.3" cy="251.1" r="4" fill="#3465a4"><title>Columba of Iona (School)</title></circle></a><a href="/setts/s13/db29r2db10lo5db4w5db4lo5db4w5db10r2db29~x2/"><circle cx="443.8" cy="158.9" r="4" fill="#3465a4"><title>Clackson (Personal)</title></circle></a><a href="/setts/s9/w12db79lo6db53lb4db22lp10db24g8/"><circle cx="466.9" cy="139.9" r="4" fill="#3465a4"><title>Centrica Energy (Corporate)</title></circle></a><a href="/setts/s13/db24r2db8ly5db4w5db4ly5db4w5db8r2db24~x2/"><circle cx="412.5" cy="162.9" r="4" fill="#3465a4"><title>Clackson (Personal)</title></circle></a><a href="/setts/s6/db24t6db10t6db32ly3~x2/"><circle cx="511.2" cy="252.6" r="4" fill="#3465a4"><title>Sultan of Qaboo's Air Force</title></circle></a><a href="/setts/s9/w12db79lo6db53lg4db22lp10db24lg8/"><circle cx="448.7" cy="138.8" r="4" fill="#3465a4"><title>Centrica Energy</title></circle></a><a href="/setts/s14/g20lr6db20ly3db48r6db4r6db4r6db48ly3db20lr6~x2/"><circle cx="405.1" cy="143.3" r="4" fill="#3465a4"><title>Warren Wilson College</title></circle></a><a href="/setts/s16/lb5b3g3b16k2b16r3b16k22b16r3b16k2b16g3b3~x2/"><circle cx="356.4" cy="171.0" r="4" fill="#3465a4"><title>Jethart</title></circle></a><a href="/setts/s6/db24w4db24ly4r5k4~x2/"><circle cx="360.0" cy="213.7" r="4" fill="#3465a4"><title>De Grussa</title></circle></a><a href="/setts/s8/dp15w2k3dp30k4o3dp15w6~x2/"><circle cx="452.0" cy="172.5" r="4" fill="#3465a4"><title>Stephen F Austin State University</title></circle></a><circle cx="464.2" cy="197.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db14m3db14dy6db14w4db14ly3~x2/"><circle cx="376.3" cy="250.8" r="4" fill="#3465a4"><title>Columba of Iona (School)</title></circle></a><a href="/setts/s13/db29r2db10w5db4lo5db4w5db4lo5db10r2db29~x2/"><circle cx="443.7" cy="158.5" r="4" fill="#3465a4"><title>Clackson (Personal)</title></circle></a><a href="/setts/s9/w12db79lo6db53lb4db22lp10db24g8/"><circle cx="466.8" cy="139.6" r="4" fill="#3465a4"><title>Centrica Energy (Corporate)</title></circle></a><a href="/setts/s13/db24r2db8w5db4ly5db4w5db4ly5db8r2db24~x2/"><circle cx="412.3" cy="162.5" r="4" fill="#3465a4"><title>Clackson (Personal)</title></circle></a><a href="/setts/s6/db24t6db10t6db32ly3~x2/"><circle cx="511.2" cy="252.1" r="4" fill="#3465a4"><title>Sultan of Qaboo's Air Force</title></circle></a><a href="/setts/s9/w12db79lo6db53lg4db22lp10db24lg8/"><circle cx="448.6" cy="138.5" r="4" fill="#3465a4"><title>Centrica Energy</title></circle></a><a href="/setts/s14/g20lr6db20ly3db48r6db4r6~x2/"><circle cx="405.0" cy="143.1" r="4" fill="#3465a4"><title>Warren Wilson College</title></circle></a><a href="/setts/s16/k22b16r3b16k2b16g3b3lb5~x2/"><circle cx="356.3" cy="170.8" r="4" fill="#3465a4"><title>Jethart</title></circle></a><a href="/setts/s6/db24w4db24ly4r5k4~x2/"><circle cx="360.0" cy="213.4" r="4" fill="#3465a4"><title>De Grussa</title></circle></a><a href="/setts/s8/dp15w2k3dp30k4o3dp15w6~x2/"><circle cx="451.8" cy="172.1" r="4" fill="#3465a4"><title>Stephen F Austin State University</title></circle></a><circle cx="464.2" cy="197.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db15w2db15ly2db15r2db15ly2db15w2db15r4k2~x2/

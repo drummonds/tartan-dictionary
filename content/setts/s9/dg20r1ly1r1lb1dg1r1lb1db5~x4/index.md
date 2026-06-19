@@ -2,7 +2,7 @@
 title: "Scotts Valley"
 date: 2023-03-18
 ---
-**Bands:** [BWRGWRYRG](/stripes/bwrgwryrg/) · **Stripes:** [DB LB R DG LB R LY R DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">DB LB R DG LB R LY R DG</span></span>
+**Bands:** [GRYRWGRWB](/stripes/gryrwgrwb/) · **Stripes:** [DG R LY R LB DG R LB DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="seq">DG R LY R LB DG R LB DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5350
 
 ## Thread count
-DB/20 N4 DR4 G4 N4 DR4 DY4 DR4 G/80
+G/80 DR4 DY4 DR4 N4 G4 DR4 N4 DB/20
 ![Sett](sett.png)
 
 ## Palette
@@ -55,8 +55,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db17r3g55db3g4db3g4ly3w5~x2/"><circle cx="386.2" cy="128.0" r="4" fill="#3465a4"><title>Bundanoon (District)</title></circle></a><a href="/setts/s8/r5w4db6db2g43db2db4r3~x2/"><circle cx="367.7" cy="122.0" r="4" fill="#3465a4"><title>Mullikin (2013)</title></circle></a><a href="/setts/s10/dg67k2dg2k2dg2ly8r8k8ly2t7~x2/"><circle cx="416.3" cy="92.3" r="4" fill="#3465a4"><title>Moran (French) (Name)</title></circle></a><a href="/setts/s9/db17r3dg55db3dg4db3dg4ly3w5~x2/"><circle cx="392.4" cy="131.6" r="4" fill="#3465a4"><title>Bundanoon</title></circle></a><a href="/setts/s8/dg78dt13ly6r3ly5dg6dt9ly6~x2/"><circle cx="427.6" cy="136.8" r="4" fill="#3465a4"><title>Walterström (2014)</title></circle></a><a href="/setts/s12/dg44db3k8ly2k2w2k2dg9r5k2r2w2~x2/"><circle cx="366.8" cy="88.4" r="4" fill="#3465a4"><title>Princess Mary</title></circle></a><a href="/setts/s10/g4lb1db2r1g1r1db2lb1g14lo1~x4/"><circle cx="383.4" cy="139.4" r="4" fill="#3465a4"><title>Seattle (District)</title></circle></a><a href="/setts/s12/g70db3k9w4k4dp4k3db12g9k4g4ly4~x2/"><circle cx="369.6" cy="89.9" r="4" fill="#3465a4"><title>Canmore Highland Games (Corporate)</title></circle></a><a href="/setts/s9/dg115k15r8k4b8k4ly8k4g8~x2/"><circle cx="421.4" cy="101.4" r="4" fill="#3465a4"><title>Granvert</title></circle></a><a href="/setts/s10/dg40r5k2w2k2ly3k2dg10r3k3~x2/"><circle cx="438.8" cy="127.7" r="4" fill="#3465a4"><title>Palmer, Arnold</title></circle></a><circle cx="403.3" cy="123.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db17r3g55db3g4db3g4ly3w5~x2/"><circle cx="386.0" cy="127.9" r="4" fill="#3465a4"><title>Bundanoon (District)</title></circle></a><a href="/setts/s8/r5w4db6db2g43db2db4r3~x2/"><circle cx="367.4" cy="121.8" r="4" fill="#3465a4"><title>Mullikin (2013)</title></circle></a><a href="/setts/s10/dg67k2dg2k2dg2ly8r8k8ly2t7~x2/"><circle cx="416.0" cy="92.2" r="4" fill="#3465a4"><title>Moran (French) (Name)</title></circle></a><a href="/setts/s9/db17r3dg55db3dg4db3dg4ly3w5~x2/"><circle cx="392.2" cy="131.4" r="4" fill="#3465a4"><title>Bundanoon</title></circle></a><a href="/setts/s8/dg78dt13ly6r3ly5dg6dt9ly6~x2/"><circle cx="427.4" cy="136.6" r="4" fill="#3465a4"><title>Walterström (2014)</title></circle></a><a href="/setts/s12/dg44db3k8ly2k2w2k2dg9r5k2r2w2~x2/"><circle cx="366.6" cy="88.4" r="4" fill="#3465a4"><title>Princess Mary</title></circle></a><a href="/setts/s10/g4lb1db2r1g1r1db2lb1g14lo1~x4/"><circle cx="383.1" cy="139.3" r="4" fill="#3465a4"><title>Seattle (District)</title></circle></a><a href="/setts/s12/g70db3k9w4k4dp4k3db12g9k4g4ly4~x2/"><circle cx="369.3" cy="89.9" r="4" fill="#3465a4"><title>Canmore Highland Games (Corporate)</title></circle></a><a href="/setts/s9/dg115k15r8k4b8k4ly8k4g8~x2/"><circle cx="421.2" cy="101.4" r="4" fill="#3465a4"><title>Granvert</title></circle></a><a href="/setts/s10/dg40r5k2w2k2ly3k2dg10r3k3~x2/"><circle cx="438.4" cy="127.6" r="4" fill="#3465a4"><title>Palmer, Arnold</title></circle></a><circle cx="403.1" cy="122.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dg20r1ly1r1lb1dg1r1lb1db5~x4/

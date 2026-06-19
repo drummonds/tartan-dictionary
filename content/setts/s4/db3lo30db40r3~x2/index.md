@@ -2,7 +2,7 @@
 title: "Sanix Large Muted"
 date: 2023-03-18
 ---
-**Bands:** [BYBR](/stripes/bybr/) · **Stripes:** [DB LO DB R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB LO DB R</span></span>
+**Bands:** [RBYB](/stripes/rbyb/) · **Stripes:** [R DB LO DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB LO DB</span></span>
 
 
 This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -888,11 +891,11 @@ External register numbers recorded for this tartan.
 
 Other setts woven to the same stripe pattern.
 
-- [Mother's Pride](/setts/s4/db10lo1db10r10~x4/)
+- [Mother's Pride](/setts/s4/r10db10lo1~x4/)
 
 
 ## Thread count
-B/6 O60 B80 R/6
+R/6 B80 O60 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -906,7 +909,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/6 O60 B80 R/6 tartan")
+![Tartan detail](tartan.png "R/6 B80 O60 B/6 tartan")
 
 ## Nearest tartans
 
@@ -918,15 +921,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Flynn](/setts/s6/o58k22o8k17r5k14~x2/) — ΔT 1.45
 1. [Latin](/setts/s6/db3lo9db3lo9db20r3~x2/) — ΔT 1.49
 1. [Coronation](/setts/s7/db11w1r12db6r1db6w1~x2/) — ΔT 1.55
-1. [Hamilton, (Red)](/setts/s5/db6r1db6r9w1~x2/) — ΔT 1.57
+1. [Hamilton, (Red)](/setts/s5/db6r1db6r9w1~x2/) — ΔT 1.56
 1. [Thunderlord (Celtic Group, USA)](/setts/s4/dt62w11k4t17~x2/) — ΔT 1.57
 1. [Wcwm 1166-2](/setts/s6/do44lr3do4lb3do4lr44~x2/) — ΔT 1.58
 1. [Auburn University (Alabama)](/setts/s6/db3lo3db24lo30db3lo2~x2/) — ΔT 1.58
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/dp10g12ly1~x2/"><circle cx="343.9" cy="275.2" r="4" fill="#3465a4"><title>Wilson's No.081</title></circle></a><a href="/setts/s6/db2r7db2r7db22ly2~x2/"><circle cx="394.7" cy="207.0" r="4" fill="#3465a4"><title>MacQueen variant</title></circle></a><a href="/setts/s6/t50dr4t12dr23ly4dr4~x2/"><circle cx="400.7" cy="207.1" r="4" fill="#3465a4"><title>Sligo</title></circle></a><a href="/setts/s6/o58k22o8k17r5k14~x2/"><circle cx="321.5" cy="215.0" r="4" fill="#3465a4"><title>Flynn</title></circle></a><a href="/setts/s6/db3lo9db3lo9db20r3~x2/"><circle cx="305.9" cy="239.9" r="4" fill="#3465a4"><title>Latin</title></circle></a><a href="/setts/s7/db11w1r12db6r1db6w1~x2/"><circle cx="378.6" cy="218.3" r="4" fill="#3465a4"><title>Coronation</title></circle></a><a href="/setts/s5/db6r1db6r9w1~x2/"><circle cx="332.7" cy="250.9" r="4" fill="#3465a4"><title>Hamilton, (Red)</title></circle></a><a href="/setts/s4/dt62w11k4t17~x2/"><circle cx="388.3" cy="206.0" r="4" fill="#3465a4"><title>Thunderlord (Celtic Group, USA)</title></circle></a><a href="/setts/s6/do44lr3do4lb3do4lr44~x2/"><circle cx="346.7" cy="179.0" r="4" fill="#3465a4"><title>Wcwm 1166-2</title></circle></a><a href="/setts/s6/db3lo3db24lo30db3lo2~x2/"><circle cx="385.4" cy="197.8" r="4" fill="#3465a4"><title>Auburn University (Alabama)</title></circle></a><circle cx="371.9" cy="229.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/dp10g12ly1~x2/"><circle cx="343.8" cy="274.9" r="4" fill="#3465a4"><title>Wilson's No.081</title></circle></a><a href="/setts/s6/db2r7db2r7db22ly2~x2/"><circle cx="394.4" cy="206.7" r="4" fill="#3465a4"><title>MacQueen variant</title></circle></a><a href="/setts/s6/t50dr4t12dr23ly4dr4~x2/"><circle cx="400.5" cy="206.8" r="4" fill="#3465a4"><title>Sligo</title></circle></a><a href="/setts/s6/o58k22o8k17r5k14~x2/"><circle cx="321.4" cy="214.7" r="4" fill="#3465a4"><title>Flynn</title></circle></a><a href="/setts/s6/db3lo9db3lo9db20r3~x2/"><circle cx="305.7" cy="239.7" r="4" fill="#3465a4"><title>Latin</title></circle></a><a href="/setts/s7/db11w1r12db6r1db6w1~x2/"><circle cx="378.4" cy="218.1" r="4" fill="#3465a4"><title>Coronation</title></circle></a><a href="/setts/s5/db6r1db6r9w1~x2/"><circle cx="332.6" cy="250.7" r="4" fill="#3465a4"><title>Hamilton, (Red)</title></circle></a><a href="/setts/s4/dt62w11k4t17~x2/"><circle cx="388.1" cy="205.7" r="4" fill="#3465a4"><title>Thunderlord (Celtic Group, USA)</title></circle></a><a href="/setts/s6/do44lr3do4lb3do4lr44~x2/"><circle cx="346.4" cy="178.7" r="4" fill="#3465a4"><title>Wcwm 1166-2</title></circle></a><a href="/setts/s6/db3lo3db24lo30db3lo2~x2/"><circle cx="385.0" cy="197.5" r="4" fill="#3465a4"><title>Auburn University (Alabama)</title></circle></a><circle cx="371.7" cy="229.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/db3lo30db40r3~x2/

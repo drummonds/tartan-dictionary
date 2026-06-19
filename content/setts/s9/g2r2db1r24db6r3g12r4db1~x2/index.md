@@ -2,12 +2,18 @@
 title: "MacDonald 1"
 date: 2023-03-18
 ---
-**Bands:** [BRGRBRBRG](/stripes/brgrbrbrg/) · **Stripes:** [DB R G R DB R DB R G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB R G R DB R DB R G</span></span>
+**Bands:** [GRBRBRGRB](/stripes/grbrbrgrb/) · **Stripes:** [G R DB R DB R G R DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G R DB R DB R G R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacDonald #7
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/2 R8 G24 R6 B12 R48 B2 R4 G/4
+G/4 R4 B2 R48 B12 R6 G24 R8 B/2
 ![Sett](sett.png)
 
 ## Palette
@@ -906,16 +915,16 @@ The nearest existing variants by ΔTartan distance.
 1. [MacDonell of Keppoch](/setts/s10/g2r2db1r24t1db6r3g12r4db1~x2/) — ΔT 0.91
 1. [MacKintosh 1](/setts/s6/r22db5r2g11r3db1~x2/) — ΔT 0.96
 1. [Chisholm, The](/setts/s10/r12w2r37db6g3db3r4db3g21r4~x2/) — ΔT 0.99
-1. [Thomas of Wales](/setts/s8/g2r27db2g19db1g2db1r2~x2/) — ΔT 0.99
+1. [Thomas of Wales](/setts/s8/r2db1g2db1g19db2r27g2~x2/) — ΔT 0.99
 1. [MacDonell of Keppoch](/setts/s10/dg2r2db1r24t1db6r3dg12r4db1~x2/) — ΔT 1.01
 1. [Chisholm, The (MacGregor-Hastie)](/setts/s10/r12w2r37b6g3b3r4b3g21r4~x2/) — ΔT 1.02
 1. [MacKintosh 3](/setts/s6/r68db18r9g34r9db3~x2/) — ΔT 1.03
-1. [Robertson 6](/setts/s6/g1r18db4r1g10r1~x4/) — ΔT 1.04
+1. [Robertson 6](/setts/s6/r1g10r1db4r18g1~x4/) — ΔT 1.04
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg2r2db1r24db6r3dg12r4db1~x2/"><circle cx="415.0" cy="147.4" r="4" fill="#3465a4"><title>MacDonald #7</title></circle></a><a href="/setts/s7/r3g16r4k6r28g1r3~x2/"><circle cx="437.3" cy="163.5" r="4" fill="#3465a4"><title>Maxwell</title></circle></a><a href="/setts/s10/g2r2db1r24t1db6r3g12r4db1~x2/"><circle cx="396.1" cy="130.3" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s6/r22db5r2g11r3db1~x2/"><circle cx="425.4" cy="185.4" r="4" fill="#3465a4"><title>MacKintosh 1</title></circle></a><a href="/setts/s10/r12w2r37db6g3db3r4db3g21r4~x2/"><circle cx="381.5" cy="141.8" r="4" fill="#3465a4"><title>Chisholm, The</title></circle></a><a href="/setts/s8/g2r27db2g19db1g2db1r2~x2/"><circle cx="405.3" cy="147.0" r="4" fill="#3465a4"><title>Thomas of Wales</title></circle></a><a href="/setts/s10/dg2r2db1r24t1db6r3dg12r4db1~x2/"><circle cx="400.9" cy="130.6" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s10/r12w2r37b6g3b3r4b3g21r4~x2/"><circle cx="379.8" cy="140.4" r="4" fill="#3465a4"><title>Chisholm, The (MacGregor-Hastie)</title></circle></a><a href="/setts/s6/r68db18r9g34r9db3~x2/"><circle cx="419.5" cy="188.0" r="4" fill="#3465a4"><title>MacKintosh 3</title></circle></a><a href="/setts/s6/g1r18db4r1g10r1~x4/"><circle cx="398.1" cy="186.5" r="4" fill="#3465a4"><title>Robertson 6</title></circle></a><circle cx="420.9" cy="154.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg2r2db1r24db6r3dg12r4db1~x2/"><circle cx="414.5" cy="147.2" r="4" fill="#3465a4"><title>MacDonald #7</title></circle></a><a href="/setts/s7/r3g16r4k6r28g1r3~x2/"><circle cx="436.9" cy="163.2" r="4" fill="#3465a4"><title>Maxwell</title></circle></a><a href="/setts/s10/g2r2db1r24t1db6r3g12r4db1~x2/"><circle cx="395.6" cy="130.2" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s6/r22db5r2g11r3db1~x2/"><circle cx="425.0" cy="185.2" r="4" fill="#3465a4"><title>MacKintosh 1</title></circle></a><a href="/setts/s10/r12w2r37db6g3db3r4db3g21r4~x2/"><circle cx="381.0" cy="141.7" r="4" fill="#3465a4"><title>Chisholm, The</title></circle></a><a href="/setts/s8/r2db1g2db1g19db2r27g2~x2/"><circle cx="404.9" cy="146.8" r="4" fill="#3465a4"><title>Thomas of Wales</title></circle></a><a href="/setts/s10/dg2r2db1r24t1db6r3dg12r4db1~x2/"><circle cx="400.5" cy="130.5" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s10/r12w2r37b6g3b3r4b3g21r4~x2/"><circle cx="379.4" cy="140.2" r="4" fill="#3465a4"><title>Chisholm, The (MacGregor-Hastie)</title></circle></a><a href="/setts/s6/r68db18r9g34r9db3~x2/"><circle cx="419.1" cy="187.8" r="4" fill="#3465a4"><title>MacKintosh 3</title></circle></a><a href="/setts/s6/r1g10r1db4r18g1~x4/"><circle cx="397.7" cy="186.3" r="4" fill="#3465a4"><title>Robertson 6</title></circle></a><circle cx="420.4" cy="154.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/g2r2db1r24db6r3g12r4db1~x2/

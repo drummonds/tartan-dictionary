@@ -22,6 +22,6 @@ BWBRBKGKGKGKBKRKBKGKGKGKBRBW
 
 | Tartans |
 |---------------|
-| [Scotland's National](/setts/s28/dt12w2dt2r2dt2k10g12k2g4k2g12k10dt12k2r3k2dt12k10g12k2g4k2g12k10dt2r2dt2w2~x2/)|
-|![Scotland's National example sett](/setts/s28/dt12w2dt2r2dt2k10g12k2g4k2g12k10dt12k2r3k2dt12k10g12k2g4k2g12k10dt2r2dt2w2~x2/sett.png)|
+| [Scotland's National](/setts/s28/dt12w2dt2r2dt2k10g12k2g4k2g12k10dt12k2r3~x2/)|
+|![Scotland's National example sett](/setts/s28/dt12w2dt2r2dt2k10g12k2g4k2g12k10dt12k2r3~x2/sett.png)|
 

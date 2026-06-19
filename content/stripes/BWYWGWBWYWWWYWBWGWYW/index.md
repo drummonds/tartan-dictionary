@@ -22,6 +22,6 @@ BWYWGWBWYWWWYWBWGWYW
 
 | Tartans |
 |---------------|
-| [Unidentified Scarlett #4](/setts/s20/dp3w2lo8w10g8w10dp4w40lo8w2lb3w2lo8w40dp4w10g8w10lo8w2~x2/)|
-|![Unidentified Scarlett #4 example sett](/setts/s20/dp3w2lo8w10g8w10dp4w40lo8w2lb3w2lo8w40dp4w10g8w10lo8w2~x2/sett.png)|
+| [Unidentified Scarlett #4](/setts/s20/dp3w2lo8w10g8w10dp4w40lo8w2lb3~x2/)|
+|![Unidentified Scarlett #4 example sett](/setts/s20/dp3w2lo8w10g8w10dp4w40lo8w2lb3~x2/sett.png)|
 

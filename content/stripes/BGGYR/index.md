@@ -21,14 +21,14 @@ BGGYR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DO G DG LO O <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DO G DG LO O</span></span>
+### O LO DG G DO <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="seq">O LO DG G DO</span></span>
 
 | Tartans |
 |---------------|
 | [Nolan Family, John J (Personal)](/setts/s5/do8g19dg42lo3o1~x2/)|
 |![Nolan Family, John J (Personal) example sett](/setts/s5/do8g19dg42lo3o1~x2/sett.png)|
 
-### DR G DG LO R <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="seq">DR G DG LO R</span></span>
+### R LO DG G DR <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="seq">R LO DG G DR</span></span>
 
 | Tartans |
 |---------------|

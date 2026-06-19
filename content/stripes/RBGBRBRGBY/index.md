@@ -22,6 +22,6 @@ RBGBRBRGBY
 
 | Tartans |
 |---------------|
-| [Clare, County](/setts/s10/ly3dp2dg14r14dp2r14dp2dg14dp14r3~x2/)|
-|![Clare, County example sett](/setts/s10/ly3dp2dg14r14dp2r14dp2dg14dp14r3~x2/sett.png)|
+| [Clare, County](/setts/s10/r3dp14dg14dp2r14dp2r14dg14dp2ly3~x2/)|
+|![Clare, County example sett](/setts/s10/r3dp14dg14dp2r14dp2r14dg14dp2ly3~x2/sett.png)|
 

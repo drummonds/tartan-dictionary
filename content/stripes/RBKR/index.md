@@ -20,7 +20,7 @@ RBKR
 
 
 
-### R N K R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R N K R</span></span>
+### R K N R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K N R</span></span>
 
 | Tartans |
 |---------------|

@@ -2,7 +2,7 @@
 title: "Lockhart"
 date: 2023-03-18
 ---
-**Bands:** [GKBRBKGKG](/stripes/gkbrbkgkg/) · **Stripes:** [G K B R B K G K G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K B R B K G K G</span></span>
+**Bands:** [GKGKBRBKG](/stripes/gkgkbrbkg/) · **Stripes:** [G K G K B R B K G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K G K B R B K G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2258
 
 ## Thread count
-G/26 K4 B32 R4 B32 K12 G68 K4 G/26
+G/26 K4 G68 K12 B32 R4 B32 K4 G/26
 ![Sett](sett.png)
 
 ## Palette
@@ -49,14 +49,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Shanahan (Corporate)](/setts/s9/k2r2k4lo3g24k2g16b17r2~x2/) — ΔT 1.51
 1. [St. Andrews New Golf Club](/setts/s9/dp4dt18r2dt2r2dt9g20dt3g4~x2/) — ΔT 1.58
 1. [Roxburgh](/setts/s8/db16w1db1w1db8dg16r1db2~x2/) — ΔT 1.60
-1. [Burt #1 (Name)](/setts/s9/m2lg13b8lg3b33lo3b8lo13r2~x2/) — ΔT 1.63
+1. [Burt #1 (Name)](/setts/s9/r2lo13b8lo3b33lg3b8lg13m2~x2/) — ΔT 1.63
 1. [Devlin, Craig (Personal)](/setts/s6/g8w3n6db11n30db5~x2/) — ΔT 1.63
 1. [Wcwm 1530](/setts/s8/dg36db3dg3db3dg6n34r4n4~x2/) — ΔT 1.64
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/b46r2b3r2b14g38k3g4~x2/"><circle cx="410.8" cy="183.2" r="4" fill="#3465a4"><title>Greenlaw, American (Name)</title></circle></a><a href="/setts/s12/lo2t2lo1t18y2t10y10t2y18ly1y2ly2~x2/"><circle cx="343.0" cy="175.8" r="4" fill="#3465a4"><title>Yarmouth NS (District)</title></circle></a><a href="/setts/s10/g25b10w1b5w1b10g25r1g3r2~x2/"><circle cx="440.2" cy="176.0" r="4" fill="#3465a4"><title>Strathdee (Personal)</title></circle></a><a href="/setts/s7/t33r8db12g12t8db2t8~x2/"><circle cx="347.2" cy="210.6" r="4" fill="#3465a4"><title>Bermuda Plaid (1947) (District)</title></circle></a><a href="/setts/s9/k2r2k4lo3g24k2g16b17r2~x2/"><circle cx="320.8" cy="191.7" r="4" fill="#3465a4"><title>Shanahan (Corporate)</title></circle></a><a href="/setts/s9/dp4dt18r2dt2r2dt9g20dt3g4~x2/"><circle cx="341.2" cy="233.2" r="4" fill="#3465a4"><title>St. Andrews New Golf Club</title></circle></a><a href="/setts/s8/db16w1db1w1db8dg16r1db2~x2/"><circle cx="399.1" cy="197.6" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><a href="/setts/s9/m2lg13b8lg3b33lo3b8lo13r2~x2/"><circle cx="371.7" cy="183.7" r="4" fill="#3465a4"><title>Burt #1 (Name)</title></circle></a><a href="/setts/s6/g8w3n6db11n30db5~x2/"><circle cx="357.7" cy="242.2" r="4" fill="#3465a4"><title>Devlin, Craig (Personal)</title></circle></a><a href="/setts/s8/dg36db3dg3db3dg6n34r4n4~x2/"><circle cx="361.4" cy="218.0" r="4" fill="#3465a4"><title>Wcwm 1530</title></circle></a><circle cx="374.1" cy="213.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/b46r2b3r2b14g38k3g4~x2/"><circle cx="410.6" cy="183.1" r="4" fill="#3465a4"><title>Greenlaw, American (Name)</title></circle></a><a href="/setts/s12/lo2t2lo1t18y2t10y10t2y18ly1y2ly2~x2/"><circle cx="342.7" cy="175.8" r="4" fill="#3465a4"><title>Yarmouth NS (District)</title></circle></a><a href="/setts/s10/g25b10w1b5w1b10g25r1g3r2~x2/"><circle cx="439.9" cy="175.9" r="4" fill="#3465a4"><title>Strathdee (Personal)</title></circle></a><a href="/setts/s7/t33r8db12g12t8db2t8~x2/"><circle cx="347.0" cy="210.5" r="4" fill="#3465a4"><title>Bermuda Plaid (1947) (District)</title></circle></a><a href="/setts/s9/k2r2k4lo3g24k2g16b17r2~x2/"><circle cx="320.7" cy="191.8" r="4" fill="#3465a4"><title>Shanahan (Corporate)</title></circle></a><a href="/setts/s9/dp4dt18r2dt2r2dt9g20dt3g4~x2/"><circle cx="341.2" cy="233.2" r="4" fill="#3465a4"><title>St. Andrews New Golf Club</title></circle></a><a href="/setts/s8/db16w1db1w1db8dg16r1db2~x2/"><circle cx="399.0" cy="197.5" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><a href="/setts/s9/r2lo13b8lo3b33lg3b8lg13m2~x2/"><circle cx="371.4" cy="183.7" r="4" fill="#3465a4"><title>Burt #1 (Name)</title></circle></a><a href="/setts/s6/g8w3n6db11n30db5~x2/"><circle cx="357.6" cy="242.2" r="4" fill="#3465a4"><title>Devlin, Craig (Personal)</title></circle></a><a href="/setts/s8/dg36db3dg3db3dg6n34r4n4~x2/"><circle cx="361.3" cy="218.1" r="4" fill="#3465a4"><title>Wcwm 1530</title></circle></a><circle cx="373.9" cy="213.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/g13k2g34k6b16r2b16k2g13~x2/

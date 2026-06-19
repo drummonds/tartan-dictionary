@@ -2,12 +2,18 @@
 title: "Livingston Football Club"
 date: 2023-03-18
 ---
-**Bands:** [WKYKYKYKRKY](/stripes/wkykykykrky/) · **Stripes:** [W K LY K LY K LY K M K LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W K LY K LY K LY K M K LY</span></span>
+**Bands:** [YKRKYKYKYKW](/stripes/ykrkykykykw/) · **Stripes:** [LY K M K LY K LY K LY K W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K M K LY K LY K LY K W</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2132
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Livingston F. C.
 
 ## Attestations
 
@@ -24,7 +30,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6581
 
 ## Thread count
-LN/4 K10 Y4 K64 Y30 K8 LG4 K6 P4 K8 Y/22
+Y/22 K8 P4 K6 LG4 K8 Y30 K64 Y4 K10 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -56,8 +62,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dp2r1k4ly2k12ly8k12ly2k4ly1w2~x2/"><circle cx="298.3" cy="147.5" r="4" fill="#3465a4"><title>Gary Personal Tartan Tartan Number: 564. Earliest known date: 1985 Restricted See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/lo4k3w3k44lo4k22lb22w3k3lo4/"><circle cx="336.1" cy="137.7" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/setts/s13/o19k2r1do3w1do1w1do1k6o3do1o3w1~x4/"><circle cx="307.4" cy="84.7" r="4" fill="#3465a4"><title>Leando (Coldingham) Hunting (Personal)</title></circle></a><a href="/setts/s9/k4lo24k13lo2k4lo3k1lo3t2~x2/"><circle cx="335.8" cy="130.7" r="4" fill="#3465a4"><title>Cardiff City Football Club (Corp)</title></circle></a><a href="/setts/s8/dg50r5dg8w10dg8db8dg8lo21~x2/"><circle cx="294.5" cy="165.1" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><a href="/setts/s11/w5k4db2k5ly2r2ly2k30g3w7k4~x2/"><circle cx="312.3" cy="98.8" r="4" fill="#3465a4"><title>Braddock Family (Northumberland) (Personal)</title></circle></a><a href="/setts/s8/k62w10ly10k4w18k4lo3w4/"><circle cx="339.9" cy="123.7" r="4" fill="#3465a4"><title>Colbert Check (Fashion)</title></circle></a><a href="/setts/s8/k3r1k18w1lo18g1lo1w2~x4/"><circle cx="266.7" cy="119.0" r="4" fill="#3465a4"><title>Dunlop Hunting</title></circle></a><a href="/setts/s10/r6k3w3k3w3k34r6g5r6k5~x2/"><circle cx="325.7" cy="150.3" r="4" fill="#3465a4"><title>Woodberry Forest School (Corporate)</title></circle></a><a href="/setts/s11/dp2r1k4lo2k12lo8k12lo2k4lo1w2~x4/"><circle cx="311.8" cy="151.8" r="4" fill="#3465a4"><title>Gary (Personal)</title></circle></a><circle cx="304.5" cy="116.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dp2r1k4ly2k12ly8k12ly2k4ly1w2~x2/"><circle cx="298.1" cy="147.3" r="4" fill="#3465a4"><title>Gary Personal Tartan Tartan Number: 564. Earliest known date: 1985 Restricted See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/lo4k3w3k44lo4k22lb22w3k3lo4/"><circle cx="335.9" cy="137.5" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/setts/s13/o19k2r1do3w1do1w1do1k6o3do1o3w1~x4/"><circle cx="307.1" cy="84.6" r="4" fill="#3465a4"><title>Leando (Coldingham) Hunting (Personal)</title></circle></a><a href="/setts/s9/k4lo24k13lo2k4lo3k1lo3t2~x2/"><circle cx="335.5" cy="130.5" r="4" fill="#3465a4"><title>Cardiff City Football Club (Corp)</title></circle></a><a href="/setts/s8/dg50r5dg8w10dg8db8dg8lo21~x2/"><circle cx="294.4" cy="164.9" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><a href="/setts/s11/w5k4db2k5ly2r2ly2k30g3w7k4~x2/"><circle cx="312.1" cy="98.6" r="4" fill="#3465a4"><title>Braddock Family (Northumberland) (Personal)</title></circle></a><a href="/setts/s8/k62w10ly10k4w18k4lo3w4/"><circle cx="339.6" cy="123.5" r="4" fill="#3465a4"><title>Colbert Check (Fashion)</title></circle></a><a href="/setts/s8/k3r1k18w1lo18g1lo1w2~x4/"><circle cx="266.5" cy="118.8" r="4" fill="#3465a4"><title>Dunlop Hunting</title></circle></a><a href="/setts/s10/r6k3w3k3w3k34r6g5r6k5~x2/"><circle cx="325.5" cy="150.1" r="4" fill="#3465a4"><title>Woodberry Forest School (Corporate)</title></circle></a><a href="/setts/s11/dp2r1k4lo2k12lo8k12lo2k4lo1w2~x4/"><circle cx="311.6" cy="151.6" r="4" fill="#3465a4"><title>Gary (Personal)</title></circle></a><circle cx="304.3" cy="116.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/ly11k4m2k3ly2k4ly15k32ly2k5w2~x2/

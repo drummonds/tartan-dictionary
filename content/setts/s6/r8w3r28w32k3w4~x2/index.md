@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7587/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Ailsa, Pink
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -57,16 +63,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Walsh, Michael Edward (Personal)](/setts/s6/o56w30o8r10o3r20/) — ΔT 1.62
 1. [MacPherson Dress Red (Dance)](/setts/s7/w5dp3w26r20w3r8ly3~x2/) — ΔT 1.71
 1. [Buchele Check (Fashion?)](/setts/s6/r4ly1r3ly1ly8ly2~x4/) — ΔT 1.73
-1. [Buchanan VS](/setts/s6/lb2r4lb2r4lb9k1/) — ΔT 1.75
+1. [Buchanan VS](/setts/s6/lb2r4lb2r4lb9k1~x2/) — ΔT 1.75
 1. [MacPherson, Red](/setts/s7/w5p3w26r20w3r8ly3~x2/) — ΔT 1.75
 1. [Ailsa, Red V2 (Dance)](/setts/s6/r8r3r28w32r3w4~x2/) — ΔT 1.76
 1. [Lister (Misty Mountain)](/setts/s7/dy8lr29dy8lo3dy8lr8lo3~x2/) — ΔT 1.80
-1. [Lewis, Magenta (Dance)](/setts/s4/lg4w35m31w4~x2/) — ΔT 1.86
+1. [Lewis, Magenta (Dance)](/setts/s4/w4m31w35lg4~x2/) — ΔT 1.86
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/lr56w30lr8r10lr3r20/"><circle cx="321.4" cy="182.3" r="4" fill="#3465a4"><title>Walsh, Michael Edward (Personal)</title></circle></a><a href="/setts/s7/w4r2w25r21w3r8ly3~x2/"><circle cx="289.9" cy="154.5" r="4" fill="#3465a4"><title>MacPherson Dress Red</title></circle></a><a href="/setts/s6/o56w30o8r10o3r20/"><circle cx="319.3" cy="183.1" r="4" fill="#3465a4"><title>Walsh, Michael Edward (Personal)</title></circle></a><a href="/setts/s7/w5dp3w26r20w3r8ly3~x2/"><circle cx="267.2" cy="169.0" r="4" fill="#3465a4"><title>MacPherson Dress Red (Dance)</title></circle></a><a href="/setts/s6/r4ly1r3ly1ly8ly2~x4/"><circle cx="260.9" cy="216.3" r="4" fill="#3465a4"><title>Buchele Check (Fashion?)</title></circle></a><a href="/setts/s6/lb2r4lb2r4lb9k1/"><circle cx="322.4" cy="205.9" r="4" fill="#3465a4"><title>Buchanan VS</title></circle></a><a href="/setts/s7/w5p3w26r20w3r8ly3~x2/"><circle cx="265.7" cy="168.8" r="4" fill="#3465a4"><title>MacPherson, Red</title></circle></a><a href="/setts/s6/r8r3r28w32r3w4~x2/"><circle cx="293.5" cy="179.3" r="4" fill="#3465a4"><title>Ailsa, Red V2 (Dance)</title></circle></a><a href="/setts/s7/dy8lr29dy8lo3dy8lr8lo3~x2/"><circle cx="312.7" cy="200.3" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/setts/s4/lg4w35m31w4~x2/"><circle cx="307.4" cy="218.0" r="4" fill="#3465a4"><title>Lewis, Magenta (Dance)</title></circle></a><circle cx="341.4" cy="197.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/lr56w30lr8r10lr3r20/"><circle cx="320.9" cy="182.0" r="4" fill="#3465a4"><title>Walsh, Michael Edward (Personal)</title></circle></a><a href="/setts/s7/w4r2w25r21w3r8ly3~x2/"><circle cx="289.3" cy="154.3" r="4" fill="#3465a4"><title>MacPherson Dress Red</title></circle></a><a href="/setts/s6/o56w30o8r10o3r20/"><circle cx="318.8" cy="182.9" r="4" fill="#3465a4"><title>Walsh, Michael Edward (Personal)</title></circle></a><a href="/setts/s7/w5dp3w26r20w3r8ly3~x2/"><circle cx="266.7" cy="168.8" r="4" fill="#3465a4"><title>MacPherson Dress Red (Dance)</title></circle></a><a href="/setts/s6/r4ly1r3ly1ly8ly2~x4/"><circle cx="260.5" cy="216.1" r="4" fill="#3465a4"><title>Buchele Check (Fashion?)</title></circle></a><a href="/setts/s6/lb2r4lb2r4lb9k1~x2/"><circle cx="321.8" cy="205.5" r="4" fill="#3465a4"><title>Buchanan VS</title></circle></a><a href="/setts/s7/w5p3w26r20w3r8ly3~x2/"><circle cx="265.2" cy="168.6" r="4" fill="#3465a4"><title>MacPherson, Red</title></circle></a><a href="/setts/s6/r8r3r28w32r3w4~x2/"><circle cx="293.0" cy="179.1" r="4" fill="#3465a4"><title>Ailsa, Red V2 (Dance)</title></circle></a><a href="/setts/s7/dy8lr29dy8lo3dy8lr8lo3~x2/"><circle cx="312.3" cy="200.1" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/setts/s4/w4m31w35lg4~x2/"><circle cx="307.0" cy="217.6" r="4" fill="#3465a4"><title>Lewis, Magenta (Dance)</title></circle></a><circle cx="340.8" cy="197.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r8w3r28w32k3w4~x2/

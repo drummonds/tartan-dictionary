@@ -2,7 +2,7 @@
 title: "Cumming, and Glenorchy"
 date: 2023-03-18
 ---
-**Bands:** [BBRBRGRBBRGBRGRBBRGRBR](/stripes/bbrbrgrbbrgbrgrbbrgrbr/) · **Stripes:** [T DB R DB R G R T DB R G DB R G R DB T R G R DB R](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">T DB R DB R G R T DB R G DB R G R DB T R G R DB R</span></span>
+**Bands:** [RBRGRBBRGRBGRBBRGRBRBB](/stripes/rbrgrbbrgrbgrbbrgrbrbb/) · **Stripes:** [R DB R G R T DB R G R DB G R DB T R G R DB R DB T](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">R DB R G R T DB R G R DB G R DB T R G R DB R DB T</span></span>
 
 
 This was sourced from weddslist.  It is a [22 band tartan](/bands/bands22/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-Ba/2 B6 R6 B40 R6 G24 R16 Ba2 B24 R6 G66 B6 R6 G44 R6 B24 Ba2 R16 G24 R6 B40 R/6
+R/6 B40 R6 G24 R16 Ba2 B24 R6 G44 R6 B6 G66 R6 B24 Ba2 R16 G24 R6 B40 R6 B6 Ba/2
 ![Sett](sett.png)
 
 ## Palette
@@ -908,15 +911,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Cumming and Glenorchy](/setts/s22/r3db20r3dg12r8t1db12r3dg22r3db3dg33r3db12t1r8dg12r3db20r3db3t1~x2/) — ΔT 0.92
 1. [Cumming](/setts/s22/g10r3db12t1r10g12r3db20r3db3t1r3db20r3g12r12t1db12r3g20r3db3~x2/) — ΔT 1.07
 1. [MacIntyre of Littleport](/setts/s21/r3db21r3dg7r7db8r3dg21r3db3r3dg21r3db8r6dg7r3db21r3db3t1~x2/) — ΔT 1.37
-1. [Norwich No.023](/setts/s26/g2r2t1db16r2g6r2t1db6r2g16r2t1db2t1r2g16r2db6t1r2g6r2db16t1r2~x2/) — ΔT 1.46
+1. [Norwich No.023](/setts/s26/db2t1r2g16r2db6t1r2g6r2db16t1r2g2~x2/) — ΔT 1.46
 1. [Cumming](/setts/s22/dg10r3db12t1r10dg12r3db20r3db3t1r3db20r3dg12r12t1db12r3dg20r3db3~x2/) — ΔT 1.47
-1. [Unidentified Lindley #2](/setts/s18/ly4dg2ly1dg29db14r3db2r2db2r18db2r2db2r3db14dg29ly1dg2~x2/) — ΔT 1.52
+1. [Unidentified Lindley #2](/setts/s18/r18db2r2db2r3db14dg29ly1dg2ly4~x2/) — ΔT 1.52
 1. [Glen Orchy](/setts/s14/db2t1r2g16r2db6t1r2g6r2db16t1r2g2~x2/) — ΔT 1.54
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s22/g34r3db12t1r8g12r3db20r3db3t1r3db20r3g12r8t1db12r3g22r3db3~x2/"><circle cx="279.2" cy="113.3" r="4" fill="#3465a4"><title>Cumming, of Glenorchy</title></circle></a><a href="/setts/s21/r3db21r3g7r7db8r3g21r3db3r3g21r3db8r6g7r3db21r3db3t1~x2/"><circle cx="249.9" cy="135.2" r="4" fill="#3465a4"><title>MacIntyre, or Perthshire</title></circle></a><a href="/setts/s22/dg34r3db12t1r8dg12r3db20r3db3t1r3db20r3dg12r8t1db12r3dg22r3db3~x2/"><circle cx="294.6" cy="120.8" r="4" fill="#3465a4"><title>Cumming of Glenorchy</title></circle></a><a href="/setts/s22/r3db20r3dg12r8t1db12r3dg22r3db3dg33r3db12t1r8dg12r3db20r3db3t1~x2/"><circle cx="291.4" cy="122.4" r="4" fill="#3465a4"><title>Cumming and Glenorchy</title></circle></a><a href="/setts/s22/g10r3db12t1r10g12r3db20r3db3t1r3db20r3g12r12t1db12r3g20r3db3~x2/"><circle cx="239.9" cy="140.5" r="4" fill="#3465a4"><title>Cumming</title></circle></a><a href="/setts/s21/r3db21r3dg7r7db8r3dg21r3db3r3dg21r3db8r6dg7r3db21r3db3t1~x2/"><circle cx="258.9" cy="138.0" r="4" fill="#3465a4"><title>MacIntyre of Littleport</title></circle></a><a href="/setts/s26/g2r2t1db16r2g6r2t1db6r2g16r2t1db2t1r2g16r2db6t1r2g6r2db16t1r2~x2/"><circle cx="244.6" cy="124.0" r="4" fill="#3465a4"><title>Norwich No.023</title></circle></a><a href="/setts/s22/dg10r3db12t1r10dg12r3db20r3db3t1r3db20r3dg12r12t1db12r3dg20r3db3~x2/"><circle cx="247.6" cy="143.5" r="4" fill="#3465a4"><title>Cumming</title></circle></a><a href="/setts/s18/ly4dg2ly1dg29db14r3db2r2db2r18db2r2db2r3db14dg29ly1dg2~x2/"><circle cx="303.2" cy="107.1" r="4" fill="#3465a4"><title>Unidentified Lindley #2</title></circle></a><a href="/setts/s14/db2t1r2g16r2db6t1r2g6r2db16t1r2g2~x2/"><circle cx="259.8" cy="149.4" r="4" fill="#3465a4"><title>Glen Orchy</title></circle></a><circle cx="276.1" cy="115.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s22/g34r3db12t1r8g12r3db20r3db3t1r3db20r3g12r8t1db12r3g22r3db3~x2/"><circle cx="278.9" cy="113.3" r="4" fill="#3465a4"><title>Cumming, of Glenorchy</title></circle></a><a href="/setts/s21/r3db21r3g7r7db8r3g21r3db3r3g21r3db8r6g7r3db21r3db3t1~x2/"><circle cx="249.7" cy="135.2" r="4" fill="#3465a4"><title>MacIntyre, or Perthshire</title></circle></a><a href="/setts/s22/dg34r3db12t1r8dg12r3db20r3db3t1r3db20r3dg12r8t1db12r3dg22r3db3~x2/"><circle cx="294.5" cy="120.8" r="4" fill="#3465a4"><title>Cumming of Glenorchy</title></circle></a><a href="/setts/s22/r3db20r3dg12r8t1db12r3dg22r3db3dg33r3db12t1r8dg12r3db20r3db3t1~x2/"><circle cx="291.2" cy="122.4" r="4" fill="#3465a4"><title>Cumming and Glenorchy</title></circle></a><a href="/setts/s22/g10r3db12t1r10g12r3db20r3db3t1r3db20r3g12r12t1db12r3g20r3db3~x2/"><circle cx="239.7" cy="140.6" r="4" fill="#3465a4"><title>Cumming</title></circle></a><a href="/setts/s21/r3db21r3dg7r7db8r3dg21r3db3r3dg21r3db8r6dg7r3db21r3db3t1~x2/"><circle cx="258.7" cy="138.1" r="4" fill="#3465a4"><title>MacIntyre of Littleport</title></circle></a><a href="/setts/s26/db2t1r2g16r2db6t1r2g6r2db16t1r2g2~x2/"><circle cx="244.4" cy="124.1" r="4" fill="#3465a4"><title>Norwich No.023</title></circle></a><a href="/setts/s22/dg10r3db12t1r10dg12r3db20r3db3t1r3db20r3dg12r12t1db12r3dg20r3db3~x2/"><circle cx="247.5" cy="143.6" r="4" fill="#3465a4"><title>Cumming</title></circle></a><a href="/setts/s18/r18db2r2db2r3db14dg29ly1dg2ly4~x2/"><circle cx="303.0" cy="107.2" r="4" fill="#3465a4"><title>Unidentified Lindley #2</title></circle></a><a href="/setts/s14/db2t1r2g16r2db6t1r2g6r2db16t1r2g2~x2/"><circle cx="259.6" cy="149.5" r="4" fill="#3465a4"><title>Glen Orchy</title></circle></a><circle cx="275.9" cy="115.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s22/r3db20r3g12r8t1db12r3g22r3db3g33r3db12t1r8g12r3db20r3db3t1~x2/

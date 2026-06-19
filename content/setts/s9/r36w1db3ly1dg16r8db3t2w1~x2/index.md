@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=910
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Perthshire or Drummond of Perth
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -18,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2060
 
 ## Thread count
-LN/2 B4 DB6 R16 G32 Y2 DB6 LN2 R/72
+R/72 LN2 DB6 Y2 G32 R16 DB6 B4 LN/2
 ![Sett](sett.png)
 
 ## Palette
@@ -42,16 +48,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Drummond of Perth](/setts/s9/r36w1db3ly1g16r8db3t2w1~x2/) — ΔT 0.40
 1. [Stewart of Fingask - 1745 (Clan?)](/setts/s8/r72g3ly2g26r14db6t6w2/) — ΔT 0.60
 1. [Stuart/Stewart of Fingask](/setts/s8/r72dg3ly2dg26r14db6t6w2/) — ΔT 0.67
-1. [Drummond of Perth](/setts/s9/r36lr1db3ly1dg16r8db3b2lr1~x2/) — ΔT 0.77
-1. [Drummond of Perth](/setts/s9/r36lr1db3ly1dg16r8db3b2lr1/) — ΔT 0.77
+1. [Drummond of Perth](/setts/s9/r36lr1db3ly1dg16r8db3b2lr1~x2/) — ΔT 0.78
+1. [Drummond of Perth](/setts/s9/r36lr1db3ly1dg16r8db3b2lr1/) — ΔT 0.78
 1. [Drummond of Fingask](/setts/s8/r48db3lo2g14r8db3t4w3~x2/) — ΔT 0.84
 1. [McPrato](/setts/s12/r52db12o9ly2o2g2o2g11r7o2r3db2~x2/) — ΔT 1.08
-1. [Prince Charles Cloak](/setts/s8/r48db3ly1dg14r8db3lb4lr1~x2/) — ΔT 1.09
+1. [Prince Charles Cloak](/setts/s8/r48db3ly1dg14r8db3lb4lr1/) — ΔT 1.09
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r36w1db3ly1g16r8db3b2w1~x2/"><circle cx="394.5" cy="74.5" r="4" fill="#3465a4"><title>Drummond of Perth (Clan)</title></circle></a><a href="/setts/s9/r38ly1db3w1g13r6db3t3w1~x2/"><circle cx="412.5" cy="69.9" r="4" fill="#3465a4"><title>Drummond, Ancient</title></circle></a><a href="/setts/s9/r36w1db3ly1g16r8db3t2w1~x2/"><circle cx="395.0" cy="75.7" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s8/r72g3ly2g26r14db6t6w2/"><circle cx="432.4" cy="84.6" r="4" fill="#3465a4"><title>Stewart of Fingask - 1745 (Clan?)</title></circle></a><a href="/setts/s8/r72dg3ly2dg26r14db6t6w2/"><circle cx="424.6" cy="77.7" r="4" fill="#3465a4"><title>Stuart/Stewart of Fingask</title></circle></a><a href="/setts/s9/r36lr1db3ly1dg16r8db3b2lr1~x2/"><circle cx="404.6" cy="85.2" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s9/r36lr1db3ly1dg16r8db3b2lr1/"><circle cx="404.6" cy="85.2" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s8/r48db3lo2g14r8db3t4w3~x2/"><circle cx="402.9" cy="91.6" r="4" fill="#3465a4"><title>Drummond of Fingask</title></circle></a><a href="/setts/s12/r52db12o9ly2o2g2o2g11r7o2r3db2~x2/"><circle cx="361.8" cy="69.7" r="4" fill="#3465a4"><title>McPrato</title></circle></a><a href="/setts/s8/r48db3ly1dg14r8db3lb4lr1~x2/"><circle cx="444.9" cy="60.9" r="4" fill="#3465a4"><title>Prince Charles Cloak</title></circle></a><circle cx="398.8" cy="75.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r36w1db3ly1g16r8db3b2w1~x2/"><circle cx="394.0" cy="74.4" r="4" fill="#3465a4"><title>Drummond of Perth (Clan)</title></circle></a><a href="/setts/s9/r38ly1db3w1g13r6db3t3w1~x2/"><circle cx="412.0" cy="69.8" r="4" fill="#3465a4"><title>Drummond, Ancient</title></circle></a><a href="/setts/s9/r36w1db3ly1g16r8db3t2w1~x2/"><circle cx="394.5" cy="75.7" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s8/r72g3ly2g26r14db6t6w2/"><circle cx="431.8" cy="84.5" r="4" fill="#3465a4"><title>Stewart of Fingask - 1745 (Clan?)</title></circle></a><a href="/setts/s8/r72dg3ly2dg26r14db6t6w2/"><circle cx="424.0" cy="77.6" r="4" fill="#3465a4"><title>Stuart/Stewart of Fingask</title></circle></a><a href="/setts/s9/r36lr1db3ly1dg16r8db3b2lr1~x2/"><circle cx="404.3" cy="85.2" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s9/r36lr1db3ly1dg16r8db3b2lr1/"><circle cx="404.3" cy="85.2" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s8/r48db3lo2g14r8db3t4w3~x2/"><circle cx="402.4" cy="91.5" r="4" fill="#3465a4"><title>Drummond of Fingask</title></circle></a><a href="/setts/s12/r52db12o9ly2o2g2o2g11r7o2r3db2~x2/"><circle cx="361.3" cy="69.7" r="4" fill="#3465a4"><title>McPrato</title></circle></a><a href="/setts/s8/r48db3ly1dg14r8db3lb4lr1/"><circle cx="444.4" cy="60.8" r="4" fill="#3465a4"><title>Prince Charles Cloak</title></circle></a><circle cx="398.3" cy="75.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r36w1db3ly1dg16r8db3t2w1~x2/

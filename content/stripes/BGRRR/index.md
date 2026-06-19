@@ -21,14 +21,14 @@ BGRRR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### B G O R M <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="seq">B G O R M</span></span>
+### M R O G B <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="seq">M R O G B</span></span>
 
 | Tartans |
 |---------------|
 | [Highland Princess, The](/setts/s5/b15g15o11r17m15~x2/)|
 |![Highland Princess, The example sett](/setts/s5/b15g15o11r17m15~x2/sett.png)|
 
-### DB G O R O <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DB G O R O</span></span>
+### O R O G DB <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">O R O G DB</span></span>
 
 | Tartans |
 |---------------|

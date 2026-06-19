@@ -2,7 +2,7 @@
 title: "Connecticut State Police PB (Cor.)"
 date: 2023-03-18
 ---
-**Bands:** [BBBBYB](/stripes/bbbbyb/) · **Stripes:** [N DB N DB LO DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="seq">N DB N DB LO DB</span></span>
+**Bands:** [BYBBBB](/stripes/bybbbb/) · **Stripes:** [DB LO DB N DB N](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="seq">DB LO DB N DB N</span></span>
 
 
 This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/
 Original link http://www.tartansauthority.com/tartan-ferret/display/4143/
 
 ## Thread count
-DB/8 DY16 DBa34 N4 DBa4 N/84
+N/84 DBa4 N4 DBa34 DY16 DB/8
 ![Sett](sett.png)
 
 ## Palette
@@ -25,7 +25,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/8 DY16 DBa34 N4 DBa4 N/84 tartan")
+![Tartan detail](tartan.png "N/84 DBa4 N4 DBa34 DY16 DB/8 tartan")
 
 ## Nearest tartans
 
@@ -44,8 +44,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g23db3k8db4g4db56ly8/"><circle cx="371.3" cy="175.0" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/setts/s7/db2ly1db18g7r7db1g1~x2/"><circle cx="350.6" cy="173.1" r="4" fill="#3465a4"><title>Unnamed C20th - USA</title></circle></a><a href="/setts/s8/db22ly2db1ly2db10y2g11y6~x2/"><circle cx="349.5" cy="173.2" r="4" fill="#3465a4"><title>Katsushika (Corporate)</title></circle></a><a href="/setts/s8/w4y15db8k4db28k2db4w2/"><circle cx="352.2" cy="186.7" r="4" fill="#3465a4"><title>Kelvinside Academy (School)</title></circle></a><a href="/setts/s6/t28dt15r2dt2w1dt6~x2/"><circle cx="382.0" cy="178.6" r="4" fill="#3465a4"><title>Corries</title></circle></a><a href="/setts/s8/db22ly2db1ly2db10r2g11r6~x2/"><circle cx="347.1" cy="166.3" r="4" fill="#3465a4"><title>Katsushika Scottish Country Dancers</title></circle></a><a href="/setts/s7/k8m26k22dt110w4k5w4/"><circle cx="427.6" cy="159.8" r="4" fill="#3465a4"><title>Edinburgh, The University of</title></circle></a><a href="/setts/s9/o8ly4o35db2t8db2o4db21o4~x2/"><circle cx="358.0" cy="165.7" r="4" fill="#3465a4"><title>Bedford Academy (Corporate)</title></circle></a><a href="/setts/s6/r2t21r2db6ly1r1~x4/"><circle cx="414.6" cy="165.2" r="4" fill="#3465a4"><title>Lauder Primary School (Corporate)</title></circle></a><a href="/setts/s7/o37lo2r6lo2o8db49o3~x2/"><circle cx="346.7" cy="161.8" r="4" fill="#3465a4"><title>U.S. Merchant Marine Academy (Corpo</title></circle></a><circle cx="381.5" cy="179.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g23db3k8db4g4db56ly8/"><circle cx="371.2" cy="174.9" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/setts/s7/db2ly1db18g7r7db1g1~x2/"><circle cx="350.5" cy="172.9" r="4" fill="#3465a4"><title>Unnamed C20th - USA</title></circle></a><a href="/setts/s8/db22ly2db1ly2db10y2g11y6~x2/"><circle cx="349.4" cy="173.1" r="4" fill="#3465a4"><title>Katsushika (Corporate)</title></circle></a><a href="/setts/s8/w4y15db8k4db28k2db4w2/"><circle cx="352.1" cy="186.6" r="4" fill="#3465a4"><title>Kelvinside Academy (School)</title></circle></a><a href="/setts/s6/t28dt15r2dt2w1dt6~x2/"><circle cx="381.9" cy="178.5" r="4" fill="#3465a4"><title>Corries</title></circle></a><a href="/setts/s8/db22ly2db1ly2db10r2g11r6~x2/"><circle cx="346.9" cy="166.2" r="4" fill="#3465a4"><title>Katsushika Scottish Country Dancers</title></circle></a><a href="/setts/s7/k8m26k22dt110w4k5w4/"><circle cx="427.5" cy="159.7" r="4" fill="#3465a4"><title>Edinburgh, The University of</title></circle></a><a href="/setts/s9/o8ly4o35db2t8db2o4db21o4~x2/"><circle cx="357.7" cy="165.6" r="4" fill="#3465a4"><title>Bedford Academy (Corporate)</title></circle></a><a href="/setts/s6/r2t21r2db6ly1r1~x4/"><circle cx="414.3" cy="165.0" r="4" fill="#3465a4"><title>Lauder Primary School (Corporate)</title></circle></a><a href="/setts/s7/o37lo2r6lo2o8db49o3~x2/"><circle cx="346.5" cy="161.7" r="4" fill="#3465a4"><title>U.S. Merchant Marine Academy (Corpo</title></circle></a><circle cx="381.3" cy="179.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/n42db2n2db17lo8db4~x2/

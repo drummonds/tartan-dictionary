@@ -22,6 +22,6 @@ RBKGKGBGW
 
 | Tartans |
 |---------------|
-| [Scottish Ambulance Service (Corporat](/setts/s9/lb3dg2t2dg32k2g2k12t16r3~x2/)|
-|![Scottish Ambulance Service (Corporat example sett](/setts/s9/lb3dg2t2dg32k2g2k12t16r3~x2/sett.png)|
+| [Scottish Ambulance Service (Corporat](/setts/s9/r3t16k12g2k2dg32t2dg2lb3~x2/)|
+|![Scottish Ambulance Service (Corporat example sett](/setts/s9/r3t16k12g2k2dg32t2dg2lb3~x2/sett.png)|
 

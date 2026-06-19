@@ -21,7 +21,7 @@ BBKGKB
 Grouped by stripe pattern — the 3 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### T DB K DG K T <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">T DB K DG K T</span></span>
+### T K DG K DB T <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">T K DG K DB T</span></span>
 
 | Tartans |
 |---------------|
@@ -30,7 +30,7 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 | [Unidentified No 59](/setts/s6/t1db11k11dg11k2t1~x2/)|
 |![Unidentified No 59 example sett](/setts/s6/t1db11k11dg11k2t1~x2/sett.png)|
 
-### T DB K G K T <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">T DB K G K T</span></span>
+### T K G K DB T <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">T K G K DB T</span></span>
 
 | Tartans |
 |---------------|
@@ -39,7 +39,7 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 | [Unnamed, No 59](/setts/s6/t1db11k11g11k2t1~x2/)|
 |![Unnamed, No 59 example sett](/setts/s6/t1db11k11g11k2t1~x2/sett.png)|
 
-### T DP K DG K DP <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">T DP K DG K DP</span></span>
+### DP K DG K DP T <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="seq">DP K DG K DP T</span></span>
 
 | Tartans |
 |---------------|

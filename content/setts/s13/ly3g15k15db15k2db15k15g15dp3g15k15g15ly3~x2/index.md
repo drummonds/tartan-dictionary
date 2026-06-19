@@ -2,7 +2,7 @@
 title: "MacBride"
 date: 2023-03-18
 ---
-**Bands:** [YGKBKBKGBGKGY](/stripes/ygkbkbkgbgkgy/) · **Stripes:** [LY G K DB K DB K G DP G K G LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY G K DB K DB K G DP G K G LY</span></span>
+**Bands:** [YGKGBGKBKBKGY](/stripes/ygkgbgkbkbkgy/) · **Stripes:** [LY G K G DP G K DB K DB K G LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY G K G DP G K DB K DB K G LY</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-Y/6 G30 K30 B30 K4 B30 K30 G30 P6 G30 K30 G30 Y/6
+Y/6 G30 K30 G30 P6 G30 K30 B30 K4 B30 K30 G30 Y/6
 ![Sett](sett.png)
 
 ## Palette
@@ -912,12 +915,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Mandela Commemorative](/setts/s12/g8ly2k6g11r2dt12k12r2k6ly2k4r3~x2/) — ΔT 1.23
 1. [Scottish Women's Rural Institutes](/setts/s12/db6t2db20k15g20ly2g6t2g20k15db20ly4~x2/) — ΔT 1.26
 1. [Mandela, Commemorative](/setts/s13/g8ly2g2k6g11r2k12k12r2k6ly2k4r3~x2/) — ΔT 1.27
-1. [Hunter](/setts/s10/g8k1g8k8r1db8w1db8r1k8~x2/) — ΔT 1.30
+1. [Hunter](/setts/s10/k8r1db8w1db8r1k8g8k1g8~x2/) — ΔT 1.30
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r5db15k15g15w2g15k15g15w2~x2/"><circle cx="132.1" cy="214.7" r="4" fill="#3465a4"><title>Arrol</title></circle></a><a href="/setts/s12/t8k8g8k1g8k8g8k1g8k8t8w2~x2/"><circle cx="132.7" cy="226.1" r="4" fill="#3465a4"><title>Norwich No.031</title></circle></a><a href="/setts/s18/db9g3db9k4g10r4g10k6g2k7g2k7g2k6g10ly4g10k8~x2/"><circle cx="93.3" cy="208.3" r="4" fill="#3465a4"><title>Stewart hunting, Plaid</title></circle></a><a href="/setts/s14/dt4g1dt1g6k1g6dt1g1dt4w1k4g1k4ly2~x4/"><circle cx="111.4" cy="184.8" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s11/p3dg6k9g11w1g11w1g11k9dg6p3~x4/"><circle cx="155.3" cy="188.8" r="4" fill="#3465a4"><title>Hibernian F.C.</title></circle></a><a href="/setts/s10/g18ly2k14t5k4t5k14ly2g18r5~x2/"><circle cx="146.6" cy="184.4" r="4" fill="#3465a4"><title>Norwich No.079</title></circle></a><a href="/setts/s12/g8ly2k6g11r2dt12k12r2k6ly2k4r3~x2/"><circle cx="111.2" cy="193.5" r="4" fill="#3465a4"><title>Mandela Commemorative</title></circle></a><a href="/setts/s12/db6t2db20k15g20ly2g6t2g20k15db20ly4~x2/"><circle cx="118.4" cy="176.4" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes</title></circle></a><a href="/setts/s13/g8ly2g2k6g11r2k12k12r2k6ly2k4r3~x2/"><circle cx="93.7" cy="183.0" r="4" fill="#3465a4"><title>Mandela, Commemorative</title></circle></a><a href="/setts/s10/g8k1g8k8r1db8w1db8r1k8~x2/"><circle cx="104.9" cy="195.4" r="4" fill="#3465a4"><title>Hunter</title></circle></a><circle cx="108.1" cy="203.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r5db15k15g15w2g15k15g15w2~x2/"><circle cx="132.3" cy="214.6" r="4" fill="#3465a4"><title>Arrol</title></circle></a><a href="/setts/s12/t8k8g8k1g8k8g8k1g8k8t8w2~x2/"><circle cx="132.9" cy="226.0" r="4" fill="#3465a4"><title>Norwich No.031</title></circle></a><a href="/setts/s18/db9g3db9k4g10r4g10k6g2k7g2k7g2k6g10ly4g10k8~x2/"><circle cx="93.5" cy="208.3" r="4" fill="#3465a4"><title>Stewart hunting, Plaid</title></circle></a><a href="/setts/s14/dt4g1dt1g6k1g6dt1g1dt4w1k4g1k4ly2~x4/"><circle cx="111.6" cy="184.8" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s11/p3dg6k9g11w1g11w1g11k9dg6p3~x4/"><circle cx="155.5" cy="188.7" r="4" fill="#3465a4"><title>Hibernian F.C.</title></circle></a><a href="/setts/s10/g18ly2k14t5k4t5k14ly2g18r5~x2/"><circle cx="146.8" cy="184.3" r="4" fill="#3465a4"><title>Norwich No.079</title></circle></a><a href="/setts/s12/g8ly2k6g11r2dt12k12r2k6ly2k4r3~x2/"><circle cx="111.3" cy="193.6" r="4" fill="#3465a4"><title>Mandela Commemorative</title></circle></a><a href="/setts/s12/db6t2db20k15g20ly2g6t2g20k15db20ly4~x2/"><circle cx="118.6" cy="176.4" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes</title></circle></a><a href="/setts/s13/g8ly2g2k6g11r2k12k12r2k6ly2k4r3~x2/"><circle cx="93.9" cy="183.0" r="4" fill="#3465a4"><title>Mandela, Commemorative</title></circle></a><a href="/setts/s10/k8r1db8w1db8r1k8g8k1g8~x2/"><circle cx="105.1" cy="195.4" r="4" fill="#3465a4"><title>Hunter</title></circle></a><circle cx="108.3" cy="203.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/ly3g15k15db15k2db15k15g15dp3g15k15g15ly3~x2/

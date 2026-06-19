@@ -20,7 +20,7 @@ BYBBYBYB
 
 
 
-### DR LO DR DR LO DR LO DR <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="seq">DR LO DR DR LO DR LO DR</span></span>
+### DR LO DR LO DR DR LO DR <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="seq">DR LO DR LO DR DR LO DR</span></span>
 
 | Tartans |
 |---------------|

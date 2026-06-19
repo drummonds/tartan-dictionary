@@ -2,12 +2,18 @@
 title: "MacMillan, hunting"
 date: 2023-03-18
 ---
-**Bands:** [BYBYKGRGR](/stripes/bybykgrgr/) · **Stripes:** [DB LY DB LY K G R G R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB LY DB LY K G R G R</span></span>
+**Bands:** [RGRGKYBYB](/stripes/rgrgkybyb/) · **Stripes:** [R G R G K LY DB LY DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">R G R G K LY DB LY DB</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacMillan, hunting
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,19 +921,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Snodgrass](/setts/s8/k3r1ly1db11g13db5r1ly1~x2/) — ΔT 0.80
 1. [Ayrshire](/setts/s8/db2r1db10w1y4g8g1g2~x4/) — ΔT 0.91
-1. [Wilson's No.111](/setts/s8/dp19w2g12t3k4t3g12w2~x2/) — ΔT 0.92
+1. [Wilson's No.111](/setts/s8/dp19w2g12t3k4~x2/) — ΔT 0.92
 1. [Gillies](/setts/s8/db32k12db12g6r6g18k2ly3~x2/) — ΔT 0.92
 1. [Corstorphine Trial A](/setts/s10/k6ly2g18w3g13k3ly4k3db18w3~x2/) — ΔT 0.93
 1. [City of Guelph](/setts/s8/g28k4g5dr4g5k19db19y2~x2/) — ΔT 0.94
 1. [MacMillan, hunting](/setts/s10/db3ly1db12k4ly2k4g8r2g8r1~x2/) — ΔT 0.94
 1. [Dunfermline Bank of Scotland (Corp)](/setts/s8/dg24k5dg6r6dg6k20b20w2~x2/) — ΔT 0.97
 1. [MacThomas](/setts/s7/db3r2db22k11g24lp2g3~x2/) — ΔT 0.98
-1. [Tait #1](/setts/s8/ly5k2g28k19g4db19k2r5~x2/) — ΔT 1.02
+1. [Tait #1](/setts/s8/r5k2db19g4k19g28k2ly5~x2/) — ΔT 1.02
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k3r1ly1db11g13db5r1ly1~x2/"><circle cx="222.1" cy="161.2" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/setts/s8/db2r1db10w1y4g8g1g2~x4/"><circle cx="177.6" cy="169.9" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/setts/s8/dp19w2g12t3k4t3g12w2~x2/"><circle cx="183.3" cy="183.4" r="4" fill="#3465a4"><title>Wilson's No.111</title></circle></a><a href="/setts/s8/db32k12db12g6r6g18k2ly3~x2/"><circle cx="222.0" cy="168.0" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/setts/s10/k6ly2g18w3g13k3ly4k3db18w3~x2/"><circle cx="147.9" cy="168.5" r="4" fill="#3465a4"><title>Corstorphine Trial A</title></circle></a><a href="/setts/s8/g28k4g5dr4g5k19db19y2~x2/"><circle cx="209.4" cy="179.4" r="4" fill="#3465a4"><title>City of Guelph</title></circle></a><a href="/setts/s10/db3ly1db12k4ly2k4g8r2g8r1~x2/"><circle cx="131.5" cy="165.4" r="4" fill="#3465a4"><title>MacMillan, hunting</title></circle></a><a href="/setts/s8/dg24k5dg6r6dg6k20b20w2~x2/"><circle cx="182.0" cy="193.6" r="4" fill="#3465a4"><title>Dunfermline Bank of Scotland (Corp)</title></circle></a><a href="/setts/s7/db3r2db22k11g24lp2g3~x2/"><circle cx="195.2" cy="176.2" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/setts/s8/ly5k2g28k19g4db19k2r5~x2/"><circle cx="184.4" cy="172.0" r="4" fill="#3465a4"><title>Tait #1</title></circle></a><circle cx="188.9" cy="161.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k3r1ly1db11g13db5r1ly1~x2/"><circle cx="222.0" cy="161.1" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/setts/s8/db2r1db10w1y4g8g1g2~x4/"><circle cx="177.6" cy="169.8" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/setts/s8/dp19w2g12t3k4~x2/"><circle cx="183.3" cy="183.4" r="4" fill="#3465a4"><title>Wilson's No.111</title></circle></a><a href="/setts/s8/db32k12db12g6r6g18k2ly3~x2/"><circle cx="222.0" cy="167.9" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/setts/s10/k6ly2g18w3g13k3ly4k3db18w3~x2/"><circle cx="147.9" cy="168.4" r="4" fill="#3465a4"><title>Corstorphine Trial A</title></circle></a><a href="/setts/s8/g28k4g5dr4g5k19db19y2~x2/"><circle cx="209.4" cy="179.4" r="4" fill="#3465a4"><title>City of Guelph</title></circle></a><a href="/setts/s10/db3ly1db12k4ly2k4g8r2g8r1~x2/"><circle cx="131.6" cy="165.4" r="4" fill="#3465a4"><title>MacMillan, hunting</title></circle></a><a href="/setts/s8/dg24k5dg6r6dg6k20b20w2~x2/"><circle cx="182.1" cy="193.7" r="4" fill="#3465a4"><title>Dunfermline Bank of Scotland (Corp)</title></circle></a><a href="/setts/s7/db3r2db22k11g24lp2g3~x2/"><circle cx="195.3" cy="176.2" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/setts/s8/r5k2db19g4k19g28k2ly5~x2/"><circle cx="184.4" cy="172.1" r="4" fill="#3465a4"><title>Tait #1</title></circle></a><circle cx="188.9" cy="161.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/db10ly3db30ly5k8g16r4g16r2~x2/

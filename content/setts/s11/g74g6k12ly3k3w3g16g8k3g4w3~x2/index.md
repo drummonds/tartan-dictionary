@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -904,19 +907,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Delta Lambda Phi](/setts/s12/ly5k1ly6g20w1g3w1g3w1g30k1ly2~x2/) — ΔT 1.19
 1. [Crane of Clunie](/setts/s8/g165k12g6k18r4k10g4y4/) — ΔT 1.63
-1. [Mar, (Tribe of..)](/setts/s5/ly2k3g45k4r2/) — ΔT 1.90
+1. [Mar, (Tribe of..)](/setts/s5/r2k4g45k3ly2/) — ΔT 1.90
 1. [Marshall University](/setts/s8/g25w1dg2w1g6k2w2dg3~x2/) — ΔT 1.91
-1. [Unidentified 23](/setts/s11/ly2k1g36k1r2k1r2k1g36k1t2~x2/) — ΔT 1.99
+1. [Unidentified 23](/setts/s11/t2k1g36k1r2k1r2k1g36k1ly2~x2/) — ΔT 1.99
 1. [Portosalvo](/setts/s11/g5w1g32db1g8db9g2w2r3db3w1~x2/) — ΔT 2.15
 1. [Delta Lambda Phi (Corporate)](/setts/s12/lo5k1lo6g20w1g3w1g3w1g30k1lo2~x2/) — ΔT 2.16
 1. [Oxford University dress](/setts/s10/ly4g44dg5w2dg2g2dg2r2g3ly3~x2/) — ΔT 2.21
-1. [Loch Laggan](/setts/s6/r19g6r7g101k7g7/) — ΔT 2.39
+1. [Loch Laggan](/setts/s6/r19g6r7g101k7g7/) — ΔT 2.38
 1. [Loch Laggan (District)](/setts/s6/r4g2r1g20k1g1~x4/) — ΔT 2.39
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/ly5k1ly6g20w1g3w1g3w1g30k1ly2~x2/"><circle cx="476.4" cy="111.4" r="4" fill="#3465a4"><title>Delta Lambda Phi</title></circle></a><a href="/setts/s8/g165k12g6k18r4k10g4y4/"><circle cx="536.4" cy="108.3" r="4" fill="#3465a4"><title>Crane of Clunie</title></circle></a><a href="/setts/s5/ly2k3g45k4r2/"><circle cx="525.6" cy="163.0" r="4" fill="#3465a4"><title>Mar, (Tribe of..)</title></circle></a><a href="/setts/s8/g25w1dg2w1g6k2w2dg3~x2/"><circle cx="472.6" cy="144.4" r="4" fill="#3465a4"><title>Marshall University</title></circle></a><a href="/setts/s11/ly2k1g36k1r2k1r2k1g36k1t2~x2/"><circle cx="580.0" cy="102.6" r="4" fill="#3465a4"><title>Unidentified 23</title></circle></a><a href="/setts/s11/g5w1g32db1g8db9g2w2r3db3w1~x2/"><circle cx="443.3" cy="116.1" r="4" fill="#3465a4"><title>Portosalvo</title></circle></a><a href="/setts/s12/lo5k1lo6g20w1g3w1g3w1g30k1lo2~x2/"><circle cx="515.1" cy="131.9" r="4" fill="#3465a4"><title>Delta Lambda Phi (Corporate)</title></circle></a><a href="/setts/s10/ly4g44dg5w2dg2g2dg2r2g3ly3~x2/"><circle cx="442.6" cy="106.2" r="4" fill="#3465a4"><title>Oxford University dress</title></circle></a><a href="/setts/s6/r19g6r7g101k7g7/"><circle cx="529.0" cy="189.7" r="4" fill="#3465a4"><title>Loch Laggan</title></circle></a><a href="/setts/s6/r4g2r1g20k1g1~x4/"><circle cx="555.8" cy="183.6" r="4" fill="#3465a4"><title>Loch Laggan (District)</title></circle></a><circle cx="495.0" cy="111.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/ly5k1ly6g20w1g3w1g3w1g30k1ly2~x2/"><circle cx="475.9" cy="111.1" r="4" fill="#3465a4"><title>Delta Lambda Phi</title></circle></a><a href="/setts/s8/g165k12g6k18r4k10g4y4/"><circle cx="536.0" cy="107.9" r="4" fill="#3465a4"><title>Crane of Clunie</title></circle></a><a href="/setts/s5/r2k4g45k3ly2/"><circle cx="525.2" cy="162.5" r="4" fill="#3465a4"><title>Mar, (Tribe of..)</title></circle></a><a href="/setts/s8/g25w1dg2w1g6k2w2dg3~x2/"><circle cx="472.2" cy="144.1" r="4" fill="#3465a4"><title>Marshall University</title></circle></a><a href="/setts/s11/t2k1g36k1r2k1r2k1g36k1ly2~x2/"><circle cx="579.5" cy="102.3" r="4" fill="#3465a4"><title>Unidentified 23</title></circle></a><a href="/setts/s11/g5w1g32db1g8db9g2w2r3db3w1~x2/"><circle cx="442.9" cy="115.8" r="4" fill="#3465a4"><title>Portosalvo</title></circle></a><a href="/setts/s12/lo5k1lo6g20w1g3w1g3w1g30k1lo2~x2/"><circle cx="514.6" cy="131.6" r="4" fill="#3465a4"><title>Delta Lambda Phi (Corporate)</title></circle></a><a href="/setts/s10/ly4g44dg5w2dg2g2dg2r2g3ly3~x2/"><circle cx="442.1" cy="106.0" r="4" fill="#3465a4"><title>Oxford University dress</title></circle></a><a href="/setts/s6/r19g6r7g101k7g7/"><circle cx="528.6" cy="189.3" r="4" fill="#3465a4"><title>Loch Laggan</title></circle></a><a href="/setts/s6/r4g2r1g20k1g1~x4/"><circle cx="555.3" cy="183.2" r="4" fill="#3465a4"><title>Loch Laggan (District)</title></circle></a><circle cx="494.5" cy="110.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/g74g6k12ly3k3w3g16g8k3g4w3~x2/

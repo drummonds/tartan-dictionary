@@ -2,7 +2,7 @@
 title: "Bowie"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBWRWGRGYG](/stripes/brbrbwrwgrgyg/) · **Stripes:** [DB R DB R DB W O W G R G LY G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB R DB R DB W O W G R G LY G</span></span>
+**Bands:** [GYGRGWRWBRBRB](/stripes/gygrgwrwbrbrb/) · **Stripes:** [G LY G R G W O W DB R DB R DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G LY G R G W O W DB R DB R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/16 R4 B6 R8 B26 LN4 T26 LN4 G26 R8 G8 Y4 G/16
+G/16 Y4 G8 R8 G26 LN4 T26 LN4 B26 R8 B6 R4 B/16
 ![Sett](sett.png)
 
 ## Palette
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/ly3g15m2db8t2m8g8m2dg15m2dg2t2~x2/"><circle cx="94.0" cy="156.0" r="4" fill="#3465a4"><title>Gordonstoun Corporate Tartan Tartan Number: 190. Earliest known date: 1966 The specimen in the cloth archive of the Scottish Tartans Society was supplied by Bullard in 1969. The original sindex card says it was supplied by Gordon Stewart in 1966. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/dp4dp4dp2dp14dg6g3dg6g2g4g2g15o3~x2/"><circle cx="97.5" cy="164.4" r="4" fill="#3465a4"><title>Kinloch Anderson Heather (Corporate)</title></circle></a><a href="/setts/s13/db8r2db3r4db13w2dr13w2g13r4g4ly2g8~x2/"><circle cx="82.9" cy="168.8" r="4" fill="#3465a4"><title>Bowie (Dalgety) Family Tartan Tartan Number: 434. Earliest known date: 1970-80 The name Bowie or Buie is associated with Argyllshire and the islands of Jura, Uist and Bute. The design comes from J. Dalgety, a weaving manufacturer who specializes in tartan. The date of the tartan is assumed. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/t3g1t1g5r2do4t3g2w1t1ly1g1do2r2ly1~x4/"><circle cx="44.5" cy="180.0" r="4" fill="#3465a4"><title>Highlands of Haliburton (District)</title></circle></a><a href="/setts/s12/ly3g15r2db8t2r8g8r2dg15r2dg2t2~x2/"><circle cx="108.1" cy="165.4" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/setts/s15/t3g1t1g5r2dr4t3g2w1t1ly1g1dr2r2ly1~x4/"><circle cx="37.9" cy="176.8" r="4" fill="#3465a4"><title>Haliburton, Highlands of...</title></circle></a><a href="/setts/s17/r3g2k7t3k3t3g14t3k3t3k3t3g10dp6r2w2t3~x2/"><circle cx="90.1" cy="155.9" r="4" fill="#3465a4"><title>Lee Cox (Personal)</title></circle></a><a href="/setts/s14/dt2lg2dt3lg8dg4dt4dg3dt8r12dg7r3dg2k1w1~x2/"><circle cx="101.5" cy="145.3" r="4" fill="#3465a4"><title>Jones-MacGregor</title></circle></a><a href="/setts/s11/b30r6dy16lp6g10lp14g24ly4dy10lp3dy28/"><circle cx="129.0" cy="175.3" r="4" fill="#3465a4"><title>Greyfriars (District)</title></circle></a><a href="/setts/s11/k4o10k4g8k12r5g16t16r5t6w2~x2/"><circle cx="54.1" cy="186.4" r="4" fill="#3465a4"><title>Manderson Family Tartan Tartan Number: 2230. Earliest known date: 1993 A Family Tartan designed for Mr N. Manderson of Edinburgh. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="89.1" cy="171.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/ly3g15m2db8t2m8g8m2dg15m2dg2t2~x2/"><circle cx="94.0" cy="156.1" r="4" fill="#3465a4"><title>Gordonstoun Corporate Tartan Tartan Number: 190. Earliest known date: 1966 The specimen in the cloth archive of the Scottish Tartans Society was supplied by Bullard in 1969. The original sindex card says it was supplied by Gordon Stewart in 1966. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/dp4dp4dp2dp14dg6g3dg6g2g4g2g15o3~x2/"><circle cx="97.6" cy="164.5" r="4" fill="#3465a4"><title>Kinloch Anderson Heather (Corporate)</title></circle></a><a href="/setts/s13/db8r2db3r4db13w2dr13w2g13r4g4ly2g8~x2/"><circle cx="83.0" cy="168.9" r="4" fill="#3465a4"><title>Bowie (Dalgety) Family Tartan Tartan Number: 434. Earliest known date: 1970-80 The name Bowie or Buie is associated with Argyllshire and the islands of Jura, Uist and Bute. The design comes from J. Dalgety, a weaving manufacturer who specializes in tartan. The date of the tartan is assumed. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/t3g1t1g5r2do4t3g2w1t1ly1g1do2r2ly1~x4/"><circle cx="44.5" cy="180.2" r="4" fill="#3465a4"><title>Highlands of Haliburton (District)</title></circle></a><a href="/setts/s12/ly3g15r2db8t2r8g8r2dg15r2dg2t2~x2/"><circle cx="108.1" cy="165.6" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/setts/s15/t3g1t1g5r2dr4t3g2w1t1ly1g1dr2r2ly1~x4/"><circle cx="37.9" cy="177.0" r="4" fill="#3465a4"><title>Haliburton, Highlands of...</title></circle></a><a href="/setts/s17/r3g2k7t3k3t3g14t3k3t3k3t3g10dp6r2w2t3~x2/"><circle cx="90.1" cy="156.0" r="4" fill="#3465a4"><title>Lee Cox (Personal)</title></circle></a><a href="/setts/s14/dt2lg2dt3lg8dg4dt4dg3dt8r12dg7r3dg2k1w1~x2/"><circle cx="101.5" cy="145.5" r="4" fill="#3465a4"><title>Jones-MacGregor</title></circle></a><a href="/setts/s11/b30r6dy16lp6g10lp14g24ly4dy10lp3dy28/"><circle cx="129.0" cy="175.4" r="4" fill="#3465a4"><title>Greyfriars (District)</title></circle></a><a href="/setts/s11/k4o10k4g8k12r5g16t16r5t6w2~x2/"><circle cx="54.2" cy="186.6" r="4" fill="#3465a4"><title>Manderson Family Tartan Tartan Number: 2230. Earliest known date: 1993 A Family Tartan designed for Mr N. Manderson of Edinburgh. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="89.1" cy="171.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db8r2db3r4db13w2o13w2g13r4g4ly2g8~x2/

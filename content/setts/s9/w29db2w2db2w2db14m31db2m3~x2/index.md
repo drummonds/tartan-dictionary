@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2120
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Lindsay Dress #2
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -24,7 +30,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1421
 
 ## Thread count
-DR/6 DB4 DR62 DB28 LN4 DB4 LN4 DB4 LN/58
+LN/58 DB4 LN4 DB4 LN4 DB28 DR62 DB4 DR/6
 ![Sett](sett.png)
 
 ## Palette
@@ -53,8 +59,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dr3w29db2w2db2w2db14dr31db2w2~x2/"><circle cx="232.2" cy="127.8" r="4" fill="#3465a4"><title>Siddle</title></circle></a><a href="/setts/s9/w29n2w2n2w2n14dr31n2dr3~x2/"><circle cx="232.6" cy="134.0" r="4" fill="#3465a4"><title>Lindsay (Dance)</title></circle></a><a href="/setts/s10/r3w29db2w2db2w2db14r31db2w2~x2/"><circle cx="235.0" cy="124.1" r="4" fill="#3465a4"><title>Siddle (Name)</title></circle></a><a href="/setts/s10/k14w2k3w2dr10w32dr10k10w2k3~x2/"><circle cx="229.0" cy="147.6" r="4" fill="#3465a4"><title>Fraser, Arisaid</title></circle></a><a href="/setts/s10/dp17lg1dp2k2dp2lg1dp3k8w17lg2~x4/"><circle cx="219.0" cy="123.9" r="4" fill="#3465a4"><title>Kyle, Grape (Dance)</title></circle></a><a href="/setts/s7/db12w4db1w4r8w2r1~x4/"><circle cx="212.4" cy="187.3" r="4" fill="#3465a4"><title>Sunderland</title></circle></a><a href="/setts/s10/dt14w2dt3w2dr10w32dr10dt10w2dt3~x2/"><circle cx="226.7" cy="142.7" r="4" fill="#3465a4"><title>Fraser Arisaid #2</title></circle></a><a href="/setts/s12/y4k2r7k15r3k3r3k7w28r7w6r2/"><circle cx="177.8" cy="126.8" r="4" fill="#3465a4"><title>Walker, dress</title></circle></a><a href="/setts/s10/db5r2db5w7db32w7r13db3r13w2~x2/"><circle cx="290.3" cy="157.6" r="4" fill="#3465a4"><title>America (Eagle version)</title></circle></a><a href="/setts/s8/ly35db3r4db3r8db30w3db4~x2/"><circle cx="227.6" cy="145.5" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><circle cx="237.3" cy="137.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dr3w29db2w2db2w2db14dr31db2w2~x2/"><circle cx="231.9" cy="127.6" r="4" fill="#3465a4"><title>Siddle</title></circle></a><a href="/setts/s9/w29n2w2n2w2n14dr31n2dr3~x2/"><circle cx="232.3" cy="133.8" r="4" fill="#3465a4"><title>Lindsay (Dance)</title></circle></a><a href="/setts/s10/r3w29db2w2db2w2db14r31db2w2~x2/"><circle cx="234.6" cy="124.0" r="4" fill="#3465a4"><title>Siddle (Name)</title></circle></a><a href="/setts/s10/k14w2k3w2dr10w32dr10k10w2k3~x2/"><circle cx="228.8" cy="147.4" r="4" fill="#3465a4"><title>Fraser, Arisaid</title></circle></a><a href="/setts/s10/dp17lg1dp2k2dp2lg1dp3k8w17lg2~x4/"><circle cx="218.8" cy="123.7" r="4" fill="#3465a4"><title>Kyle, Grape (Dance)</title></circle></a><a href="/setts/s7/db12w4db1w4r8w2r1~x4/"><circle cx="212.3" cy="187.2" r="4" fill="#3465a4"><title>Sunderland</title></circle></a><a href="/setts/s10/dt14w2dt3w2dr10w32dr10dt10w2dt3~x2/"><circle cx="226.4" cy="142.4" r="4" fill="#3465a4"><title>Fraser Arisaid #2</title></circle></a><a href="/setts/s12/y4k2r7k15r3k3r3k7w28r7w6r2/"><circle cx="177.6" cy="126.7" r="4" fill="#3465a4"><title>Walker, dress</title></circle></a><a href="/setts/s10/db5r2db5w7db32w7r13db3r13w2~x2/"><circle cx="290.1" cy="157.4" r="4" fill="#3465a4"><title>America (Eagle version)</title></circle></a><a href="/setts/s8/ly35db3r4db3r8db30w3db4~x2/"><circle cx="227.4" cy="145.3" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><circle cx="237.0" cy="137.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/w29db2w2db2w2db14m31db2m3~x2/

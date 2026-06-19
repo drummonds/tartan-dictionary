@@ -2,12 +2,18 @@
 title: "Baron of Greencastle Htg (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BYGYKBKBKBRBR](/stripes/bygykbkbkbrbr/) · **Stripes:** [DB LY G LY K DB K DB K DB R DB R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB LY G LY K DB K DB K DB R DB R</span></span>
+**Bands:** [RBRBKBKBKYGYB](/stripes/rbrbkbkbkygyb/) · **Stripes:** [R DB R DB K DB K DB K LY G LY DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB K DB K DB K LY G LY DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6668/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Baron of Greencastle Hunting
 
 ## Attestations
 
@@ -51,13 +57,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Craigclowan School](/setts/s14/db24k2k2db2k12g16k1r3k1g16k12db12k1w3~x2/) — ΔT 0.84
 1. [Robertson Htg - 1816 (Clan)](/setts/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/) — ΔT 0.85
 1. [Robertson Hunting](/setts/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/) — ΔT 0.85
-1. [Sinclair-Brown (Personal)](/setts/s14/db64k11r2k4r2k4g32lo4g32k4r2k4r2k11~x2/) — ΔT 0.86
+1. [Sinclair-Brown (Personal)](/setts/s14/db64k11r2k4r2k4g32lo4~x2/) — ΔT 0.86
 1. [Sutherland (Clan)](/setts/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2/) — ΔT 0.88
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db20k2g3k2db20r3k20r2k20r3g30ly3g1ly2~x2/"><circle cx="206.7" cy="115.5" r="4" fill="#3465a4"><title>Glynn of Glynnstewart (Personal)</title></circle></a><a href="/setts/s16/t2k1dg15w2dg15k1t2k1r2k20t2k2t2k2t25k1~x2/"><circle cx="225.8" cy="100.4" r="4" fill="#3465a4"><title>Rankin, John (Personal)</title></circle></a><a href="/setts/s11/g3db1g1db12k2db2k2db3k12g24w3~x2/"><circle cx="211.4" cy="124.4" r="4" fill="#3465a4"><title>Selby</title></circle></a><a href="/setts/s11/db8t3db40r3k44t3r3g40r2k4r7~x2/"><circle cx="201.8" cy="131.3" r="4" fill="#3465a4"><title>Lochaber Cameron</title></circle></a><a href="/setts/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/"><circle cx="197.7" cy="104.6" r="4" fill="#3465a4"><title>Cochrane Hunting</title></circle></a><a href="/setts/s14/db24k2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="205.9" cy="132.6" r="4" fill="#3465a4"><title>Craigclowan School</title></circle></a><a href="/setts/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="212.3" cy="127.6" r="4" fill="#3465a4"><title>Robertson Htg - 1816 (Clan)</title></circle></a><a href="/setts/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="217.0" cy="127.6" r="4" fill="#3465a4"><title>Robertson Hunting</title></circle></a><a href="/setts/s14/db64k11r2k4r2k4g32lo4g32k4r2k4r2k11~x2/"><circle cx="258.8" cy="103.8" r="4" fill="#3465a4"><title>Sinclair-Brown (Personal)</title></circle></a><a href="/setts/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2/"><circle cx="241.6" cy="123.1" r="4" fill="#3465a4"><title>Sutherland (Clan)</title></circle></a><circle cx="207.0" cy="116.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db20k2g3k2db20r3k20r2k20r3g30ly3g1ly2~x2/"><circle cx="206.7" cy="115.6" r="4" fill="#3465a4"><title>Glynn of Glynnstewart (Personal)</title></circle></a><a href="/setts/s16/t2k1dg15w2dg15k1t2k1r2k20t2k2t2k2t25k1~x2/"><circle cx="225.7" cy="100.5" r="4" fill="#3465a4"><title>Rankin, John (Personal)</title></circle></a><a href="/setts/s11/g3db1g1db12k2db2k2db3k12g24w3~x2/"><circle cx="211.4" cy="124.5" r="4" fill="#3465a4"><title>Selby</title></circle></a><a href="/setts/s11/db8t3db40r3k44t3r3g40r2k4r7~x2/"><circle cx="201.9" cy="131.4" r="4" fill="#3465a4"><title>Lochaber Cameron</title></circle></a><a href="/setts/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/"><circle cx="197.7" cy="104.7" r="4" fill="#3465a4"><title>Cochrane Hunting</title></circle></a><a href="/setts/s14/db24k2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="206.0" cy="132.7" r="4" fill="#3465a4"><title>Craigclowan School</title></circle></a><a href="/setts/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="212.3" cy="127.7" r="4" fill="#3465a4"><title>Robertson Htg - 1816 (Clan)</title></circle></a><a href="/setts/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="217.1" cy="127.7" r="4" fill="#3465a4"><title>Robertson Hunting</title></circle></a><a href="/setts/s14/db64k11r2k4r2k4g32lo4~x2/"><circle cx="258.8" cy="103.9" r="4" fill="#3465a4"><title>Sinclair-Brown (Personal)</title></circle></a><a href="/setts/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2/"><circle cx="241.6" cy="123.1" r="4" fill="#3465a4"><title>Sutherland (Clan)</title></circle></a><circle cx="207.0" cy="116.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db4ly2g24ly2k12db3k2db2k2db14r1db1r3~x2/

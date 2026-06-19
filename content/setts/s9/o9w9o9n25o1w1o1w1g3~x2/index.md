@@ -2,7 +2,7 @@
 title: "Ailsa, Grey (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [GWRWRBRWR](/stripes/gwrwrbrwr/) · **Stripes:** [G W O W O N O W O](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="seq">G W O W O N O W O</span></span>
+**Bands:** [RWRBRWRWG](/stripes/rwrbrwrwg/) · **Stripes:** [O W O N O W O W G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O W O N O W O W G</span></span>
 
 
 This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3025
 
 ## Thread count
-G/6 LN2 Na2 LN2 Na2 N50 Na18 LN18 Na/18
+Na/18 LN18 Na18 N50 Na2 LN2 Na2 LN2 G/6
 ![Sett](sett.png)
 
 ## Palette
@@ -47,15 +47,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Spens/Spence (Clan)](/setts/s9/r26t1t10t1g32r11t8w3t1~x2/) — ΔT 1.33
 1. [Rutlin (Personal)](/setts/s9/y6db2y1w17y1db2y16lo27dg2~x2/) — ΔT 1.38
 1. [Browne (Personal)](/setts/s8/n20db2n2db2n2o47db24w2/) — ΔT 1.43
-1. [Spens/Spence](/setts/s14/r56w2t6w2g32r11t6w5t6r11g32w2t6w2~x2/) — ΔT 1.57
+1. [Spens/Spence](/setts/s14/r56w2t6w2g32r11t6w5~x2/) — ΔT 1.57
 1. [Sonsub](/setts/s10/n30k5n19k5n2lr20ly2lr20k5ly4~x2/) — ΔT 1.57
 1. [Connaught (Lochcarron)](/setts/s10/g36t2m2t2m2t2m30dg1m1dg4~x2/) — ΔT 1.61
 1. [Highlands Country Club (Corporate)](/setts/s7/g5lb15lb11lb2lb1lb1g4~x4/) — ΔT 1.61
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/n3m2n30m1w18o14m2o3~x2/"><circle cx="291.9" cy="136.1" r="4" fill="#3465a4"><title>Bannockbane Variant</title></circle></a><a href="/setts/s10/m4g10m2g2m24g2m2g16m2g1~x2/"><circle cx="295.8" cy="135.1" r="4" fill="#3465a4"><title>Hilton Hotel Hong Kong (Corporate)</title></circle></a><a href="/setts/s8/w2do30lo10w1lo10do1y10do1~x4/"><circle cx="337.9" cy="147.2" r="4" fill="#3465a4"><title>Evergreen</title></circle></a><a href="/setts/s9/r26t1t10t1g32r11t8w3t1~x2/"><circle cx="275.3" cy="131.6" r="4" fill="#3465a4"><title>Spens/Spence (Clan)</title></circle></a><a href="/setts/s9/y6db2y1w17y1db2y16lo27dg2~x2/"><circle cx="252.7" cy="127.9" r="4" fill="#3465a4"><title>Rutlin (Personal)</title></circle></a><a href="/setts/s8/n20db2n2db2n2o47db24w2/"><circle cx="345.6" cy="165.3" r="4" fill="#3465a4"><title>Browne (Personal)</title></circle></a><a href="/setts/s14/r56w2t6w2g32r11t6w5t6r11g32w2t6w2~x2/"><circle cx="292.8" cy="111.2" r="4" fill="#3465a4"><title>Spens/Spence</title></circle></a><a href="/setts/s10/n30k5n19k5n2lr20ly2lr20k5ly4~x2/"><circle cx="256.4" cy="173.5" r="4" fill="#3465a4"><title>Sonsub</title></circle></a><a href="/setts/s10/g36t2m2t2m2t2m30dg1m1dg4~x2/"><circle cx="349.9" cy="108.8" r="4" fill="#3465a4"><title>Connaught (Lochcarron)</title></circle></a><a href="/setts/s7/g5lb15lb11lb2lb1lb1g4~x4/"><circle cx="241.6" cy="191.3" r="4" fill="#3465a4"><title>Highlands Country Club (Corporate)</title></circle></a><circle cx="298.1" cy="148.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/n3m2n30m1w18o14m2o3~x2/"><circle cx="291.5" cy="136.1" r="4" fill="#3465a4"><title>Bannockbane Variant</title></circle></a><a href="/setts/s10/m4g10m2g2m24g2m2g16m2g1~x2/"><circle cx="295.6" cy="135.2" r="4" fill="#3465a4"><title>Hilton Hotel Hong Kong (Corporate)</title></circle></a><a href="/setts/s8/w2do30lo10w1lo10do1y10do1~x4/"><circle cx="337.6" cy="147.1" r="4" fill="#3465a4"><title>Evergreen</title></circle></a><a href="/setts/s9/r26t1t10t1g32r11t8w3t1~x2/"><circle cx="275.1" cy="131.7" r="4" fill="#3465a4"><title>Spens/Spence (Clan)</title></circle></a><a href="/setts/s9/y6db2y1w17y1db2y16lo27dg2~x2/"><circle cx="252.3" cy="128.0" r="4" fill="#3465a4"><title>Rutlin (Personal)</title></circle></a><a href="/setts/s8/n20db2n2db2n2o47db24w2/"><circle cx="345.3" cy="165.3" r="4" fill="#3465a4"><title>Browne (Personal)</title></circle></a><a href="/setts/s14/r56w2t6w2g32r11t6w5~x2/"><circle cx="292.5" cy="111.2" r="4" fill="#3465a4"><title>Spens/Spence</title></circle></a><a href="/setts/s10/n30k5n19k5n2lr20ly2lr20k5ly4~x2/"><circle cx="256.2" cy="173.4" r="4" fill="#3465a4"><title>Sonsub</title></circle></a><a href="/setts/s10/g36t2m2t2m2t2m30dg1m1dg4~x2/"><circle cx="349.5" cy="108.7" r="4" fill="#3465a4"><title>Connaught (Lochcarron)</title></circle></a><a href="/setts/s7/g5lb15lb11lb2lb1lb1g4~x4/"><circle cx="241.3" cy="191.3" r="4" fill="#3465a4"><title>Highlands Country Club (Corporate)</title></circle></a><circle cx="297.7" cy="148.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/o9w9o9n25o1w1o1w1g3~x2/

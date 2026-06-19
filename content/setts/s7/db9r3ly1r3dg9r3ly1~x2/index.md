@@ -2,12 +2,18 @@
 title: "Logan #2"
 date: 2023-03-18
 ---
-**Bands:** [BRYRGRY](/stripes/bryrgry/) · **Stripes:** [DB R LY R DG R LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB R LY R DG R LY</span></span>
+**Bands:** [YRGRYRB](/stripes/yrgryrb/) · **Stripes:** [LY R DG R LY R DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY R DG R LY R DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2182
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Logan #2
 
 ## Register references
 
@@ -43,16 +49,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Carnegie #3](/setts/s8/r33dg17db50dg17r11dg17r9k7/) — ΔT 0.80
 1. [Thompson/Thomson/MacTavish special grey](/setts/s6/r3y27k6lo13k14r3~x2/) — ΔT 0.97
 1. [Lamont](/setts/s8/p11o2p2o2p2o11g14w2~x2/) — ΔT 0.97
-1. [Utah (US State)](/setts/s8/w2r3dg9r3db2r3db3w1~x6/) — ΔT 1.00
+1. [Utah (US State)](/setts/s8/w2r3dg9r3db2r3db3w1~x6/) — ΔT 1.01
 1. [Little's (Corporate)](/setts/s6/db1o8w1db4r8w1~x6/) — ΔT 1.03
-1. [United Distillers](/setts/s6/ly2o14k14o1dr14o2~x2/) — ΔT 1.07
+1. [United Distillers](/setts/s6/o2dr14o1k14o14ly2~x2/) — ΔT 1.07
 1. [Eyre (Personal)](/setts/s6/r3db12r4g18r6k2~x2/) — ΔT 1.08
 1. [Scottish Ballet](/setts/s6/ly5g22dp15dp11dp5g2~x2/) — ΔT 1.10
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db9r3ly1r3g9r3ly1~x2/"><circle cx="167.0" cy="207.0" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/setts/s8/r33g17db50g17r11g17r9k7/"><circle cx="158.2" cy="221.0" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/setts/s8/r33dg17db50dg17r11dg17r9k7/"><circle cx="171.9" cy="225.9" r="4" fill="#3465a4"><title>Carnegie #3</title></circle></a><a href="/setts/s6/r3y27k6lo13k14r3~x2/"><circle cx="192.5" cy="206.7" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish special grey</title></circle></a><a href="/setts/s8/p11o2p2o2p2o11g14w2~x2/"><circle cx="187.3" cy="211.2" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s8/w2r3dg9r3db2r3db3w1~x6/"><circle cx="158.7" cy="206.4" r="4" fill="#3465a4"><title>Utah (US State)</title></circle></a><a href="/setts/s6/db1o8w1db4r8w1~x6/"><circle cx="184.0" cy="208.6" r="4" fill="#3465a4"><title>Little's (Corporate)</title></circle></a><a href="/setts/s6/ly2o14k14o1dr14o2~x2/"><circle cx="204.6" cy="193.3" r="4" fill="#3465a4"><title>United Distillers</title></circle></a><a href="/setts/s6/r3db12r4g18r6k2~x2/"><circle cx="215.7" cy="223.8" r="4" fill="#3465a4"><title>Eyre (Personal)</title></circle></a><a href="/setts/s6/ly5g22dp15dp11dp5g2~x2/"><circle cx="194.9" cy="212.9" r="4" fill="#3465a4"><title>Scottish Ballet</title></circle></a><circle cx="168.3" cy="206.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db9r3ly1r3g9r3ly1~x2/"><circle cx="166.9" cy="207.0" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/setts/s8/r33g17db50g17r11g17r9k7/"><circle cx="158.1" cy="221.0" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/setts/s8/r33dg17db50dg17r11dg17r9k7/"><circle cx="171.9" cy="226.0" r="4" fill="#3465a4"><title>Carnegie #3</title></circle></a><a href="/setts/s6/r3y27k6lo13k14r3~x2/"><circle cx="192.4" cy="206.6" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish special grey</title></circle></a><a href="/setts/s8/p11o2p2o2p2o11g14w2~x2/"><circle cx="187.2" cy="211.2" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s8/w2r3dg9r3db2r3db3w1~x6/"><circle cx="158.7" cy="206.3" r="4" fill="#3465a4"><title>Utah (US State)</title></circle></a><a href="/setts/s6/db1o8w1db4r8w1~x6/"><circle cx="183.9" cy="208.6" r="4" fill="#3465a4"><title>Little's (Corporate)</title></circle></a><a href="/setts/s6/o2dr14o1k14o14ly2~x2/"><circle cx="204.5" cy="193.2" r="4" fill="#3465a4"><title>United Distillers</title></circle></a><a href="/setts/s6/r3db12r4g18r6k2~x2/"><circle cx="215.7" cy="223.8" r="4" fill="#3465a4"><title>Eyre (Personal)</title></circle></a><a href="/setts/s6/ly5g22dp15dp11dp5g2~x2/"><circle cx="194.9" cy="212.8" r="4" fill="#3465a4"><title>Scottish Ballet</title></circle></a><circle cx="168.2" cy="206.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/db9r3ly1r3dg9r3ly1~x2/

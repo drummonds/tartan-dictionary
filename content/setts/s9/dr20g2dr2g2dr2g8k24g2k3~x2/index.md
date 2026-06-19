@@ -2,12 +2,18 @@
 title: "Carlow, County"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBGKGK](/stripes/bgbgbgkgk/) · **Stripes:** [DR G DR G DR G K G K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">DR G DR G DR G K G K</span></span>
+**Bands:** [KGKGBGBGB](/stripes/kgkgbgbgb/) · **Stripes:** [K G K G DR G DR G DR](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="seq">K G K G DR G DR G DR</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=564
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Carlow, County
 
 ## Attestations
 
@@ -55,8 +61,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg20db2dg2db2dg2db8dr24db2dr3~x2/"><circle cx="351.2" cy="230.3" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/dg20db2dg2db2dg2db8dr24db2dr3/"><circle cx="351.2" cy="230.3" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/dg20db2dg2db2dg2db8r24db2r3~x2/"><circle cx="324.6" cy="211.1" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/dg24dt3dg3dt3dg3dt9m24dg3m4~x2/"><circle cx="336.5" cy="247.9" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/dg12k11dg1k1dg1db10dg1k1dg1~x4/"><circle cx="319.8" cy="227.1" r="4" fill="#3465a4"><title>Herron from Ulster (Personal)</title></circle></a><a href="/setts/s9/dg24db3dg3db3dg3db9m24dg3m4~x2/"><circle cx="342.1" cy="251.1" r="4" fill="#3465a4"><title>Lindsay (Chisholm Red)</title></circle></a><a href="/setts/s9/k12g1k1g1k1r5k10g1k2~x4/"><circle cx="291.3" cy="206.0" r="4" fill="#3465a4"><title>Lindsay (Crimson version) (Clan?)</title></circle></a><a href="/setts/s10/k2r26n26k2n3k2n3k14r2k2~x2/"><circle cx="316.3" cy="195.3" r="4" fill="#3465a4"><title>Wcwm 1527</title></circle></a><a href="/setts/s9/dg20db2dg2db2dg2db8o24db2o3/"><circle cx="305.3" cy="204.2" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/dg28r12dg4k20lo2k3lo2k3dg7~x2/"><circle cx="319.1" cy="203.0" r="4" fill="#3465a4"><title>Cork, County (District)</title></circle></a><circle cx="340.6" cy="224.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg20db2dg2db2dg2db8dr24db2dr3~x2/"><circle cx="351.1" cy="230.4" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/dg20db2dg2db2dg2db8dr24db2dr3/"><circle cx="351.1" cy="230.4" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/dg20db2dg2db2dg2db8r24db2r3~x2/"><circle cx="324.6" cy="211.1" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/dg24dt3dg3dt3dg3dt9m24dg3m4~x2/"><circle cx="336.5" cy="248.0" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/dg12k11dg1k1dg1db10dg1k1dg1~x4/"><circle cx="319.8" cy="227.2" r="4" fill="#3465a4"><title>Herron from Ulster (Personal)</title></circle></a><a href="/setts/s9/dg24db3dg3db3dg3db9m24dg3m4~x2/"><circle cx="342.1" cy="251.2" r="4" fill="#3465a4"><title>Lindsay (Chisholm Red)</title></circle></a><a href="/setts/s9/k12g1k1g1k1r5k10g1k2~x4/"><circle cx="291.4" cy="206.2" r="4" fill="#3465a4"><title>Lindsay (Crimson version) (Clan?)</title></circle></a><a href="/setts/s10/k2r26n26k2n3k2n3k14r2k2~x2/"><circle cx="316.2" cy="195.4" r="4" fill="#3465a4"><title>Wcwm 1527</title></circle></a><a href="/setts/s9/dg20db2dg2db2dg2db8o24db2o3/"><circle cx="305.2" cy="204.2" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/dg28r12dg4k20lo2k3lo2k3dg7~x2/"><circle cx="319.1" cy="203.0" r="4" fill="#3465a4"><title>Cork, County (District)</title></circle></a><circle cx="340.6" cy="224.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dr20g2dr2g2dr2g8k24g2k3~x2/

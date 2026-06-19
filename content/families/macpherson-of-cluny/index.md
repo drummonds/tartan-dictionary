@@ -1,10 +1,10 @@
 ---
-title: "MacPherson of Cluny"
+title: "MacPherson Of Cluny"
 date: 2023-03-18
 ---
 A family of [Clan MacPherson](/clan/macpherson/).
 
-**Trove of Scotland:** [search “Cluny”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Cluny&viewmode=grid)
+**Trove of Scotland:** [search “MacPherson Of Cluny”](https://www.trove.scot/search?page_type=Designations+Decisions&q=MacPherson+Of+Cluny&viewmode=grid)
 
 ## Tartan
 
@@ -13,7 +13,7 @@ A family of [Clan MacPherson](/clan/macpherson/).
 ## Other tartans
 
 <ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s11/r3dp1r1dg21r3dp18r35dp1ly1r4dg1~x2/"><img src="/setts/s11/r3dp1r1dg21r3dp18r35dp1ly1r4dg1~x2/sett.png" alt="MacPherson Of Cluny" width="140"><br>MacPherson Of Cluny</a></li>
+<li><a class="tartan" href="/setts/s11/r3dp1r1dg21r3dp18r35dp1ly1r4dg1/"><img src="/setts/s11/r3dp1r1dg21r3dp18r35dp1ly1r4dg1/sett.png" alt="MacPherson Of Cluny" width="140"><br>MacPherson Of Cluny</a></li>
 <li><a class="tartan" href="/setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2/"><img src="/setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2/sett.png" alt="MacPherson Of Cluny" width="140"><br>MacPherson Of Cluny</a></li>
 <li><a class="tartan" href="/setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2~x2/"><img src="/setts/s11/r5n2r2dg42r5n36r70n2ly2r7dg2~x2/sett.png" alt="MacPherson Of Cluny" width="140"><br>MacPherson Of Cluny</a></li>
 <li><a class="tartan" href="/setts/s11/r5ly2r2g42r5ly36r70ly2ly2r7g2/"><img src="/setts/s11/r5ly2r2g42r5ly36r70ly2ly2r7g2/sett.png" alt="MacPherson of Cluny" width="140"><br>MacPherson of Cluny</a></li>

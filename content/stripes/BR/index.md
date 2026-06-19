@@ -21,7 +21,7 @@ BR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R</span></span>
+### R DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB</span></span>
 
 | Tartans |
 |---------------|
@@ -32,7 +32,7 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 | [Cairnbulg & Inverllocjy Fisher Plaid](/setts/s2/db1r1~x14/)|
 |![Cairnbulg & Inverllocjy Fisher Plaid example sett](/setts/s2/db1r1~x14/sett.png)|
 
-### T R <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">T R</span></span>
+### R T <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">R T</span></span>
 
 | Tartans |
 |---------------|

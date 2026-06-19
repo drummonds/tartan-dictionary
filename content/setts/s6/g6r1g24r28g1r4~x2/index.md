@@ -2,7 +2,7 @@
 title: "Erskine (Vestiarium Scoticum)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGR](/stripes/grgrgr/) · **Stripes:** [G R G R G R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">G R G R G R</span></span>
+**Bands:** [RGRGRG](/stripes/rgrgrg/) · **Stripes:** [R G R G R G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G R G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -320,6 +320,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +421,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +681,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -898,7 +901,7 @@ External register numbers recorded for this tartan.
 Other setts woven to the same stripe pattern.
 
 - [MacQuarrie #5](/setts/s6/r16g1r1g1r4g12~x4/)
-- [Unidentified, NW Highlands](/setts/s6/g2r2g15r16g2r2~x2/)
+- [Unidentified, NW Highlands](/setts/s6/r2g2r16g15r2g2~x2/)
 
 
 ## Thread count
@@ -923,19 +926,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Erskine](/setts/s6/dg6r1dg24r28dg1r4~x2/) — ΔT 0.65
 1. [MacQuarrie #5](/setts/s6/r16g1r1g1r4g12~x4/) — ΔT 1.24
-1. [MacQuarrie](/setts/s6/r16dg1r1dg1r4dg12~x2/) — ΔT 1.34
-1. [Unidentified Cant #09](/setts/s8/r44db2g26r3db2r3g26db2/) — ΔT 1.36
-1. [Robertson 6](/setts/s6/g1r18db4r1g10r1~x4/) — ΔT 1.39
-1. [Spice Apple](/setts/s7/g4lo1r22g12lo4g4r4~x4/) — ΔT 1.42
+1. [MacQuarrie](/setts/s6/r16dg1r1dg1r4dg12/) — ΔT 1.34
+1. [MacQuarrie 7](/setts/s6/r16dg1r1dg1r4dg12~x2/) — ΔT 1.35
+1. [Unidentified Cant #09](/setts/s8/r44db2g26r3db2/) — ΔT 1.36
+1. [Robertson 6](/setts/s6/r1g10r1db4r18g1~x4/) — ΔT 1.39
+1. [Spice Apple](/setts/s7/r4g4lo4g12r22lo1g4~x4/) — ΔT 1.42
 1. [MacKintosh 1](/setts/s6/r22db5r2g11r3db1~x2/) — ΔT 1.42
 1. [Yellow Pencil (Corporate)](/setts/s8/dy48lo9dy6lo9dy12lo4dy2lo16~x2/) — ΔT 1.44
 1. [MacKintosh 3](/setts/s6/r68db18r9g34r9db3~x2/) — ΔT 1.44
-1. [Thomas of Wales](/setts/s8/g2r27db2g19db1g2db1r2~x2/) — ΔT 1.46
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dg6r1dg24r28dg1r4~x2/"><circle cx="434.6" cy="195.4" r="4" fill="#3465a4"><title>Erskine</title></circle></a><a href="/setts/s6/r16g1r1g1r4g12~x4/"><circle cx="457.1" cy="215.3" r="4" fill="#3465a4"><title>MacQuarrie #5</title></circle></a><a href="/setts/s6/r16dg1r1dg1r4dg12~x2/"><circle cx="452.3" cy="213.1" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><a href="/setts/s8/r44db2g26r3db2r3g26db2/"><circle cx="376.9" cy="170.4" r="4" fill="#3465a4"><title>Unidentified Cant #09</title></circle></a><a href="/setts/s6/g1r18db4r1g10r1~x4/"><circle cx="398.1" cy="186.5" r="4" fill="#3465a4"><title>Robertson 6</title></circle></a><a href="/setts/s7/g4lo1r22g12lo4g4r4~x4/"><circle cx="369.1" cy="184.4" r="4" fill="#3465a4"><title>Spice Apple</title></circle></a><a href="/setts/s6/r22db5r2g11r3db1~x2/"><circle cx="425.4" cy="185.4" r="4" fill="#3465a4"><title>MacKintosh 1</title></circle></a><a href="/setts/s8/dy48lo9dy6lo9dy12lo4dy2lo16~x2/"><circle cx="477.0" cy="189.2" r="4" fill="#3465a4"><title>Yellow Pencil (Corporate)</title></circle></a><a href="/setts/s6/r68db18r9g34r9db3~x2/"><circle cx="419.5" cy="188.0" r="4" fill="#3465a4"><title>MacKintosh 3</title></circle></a><a href="/setts/s8/g2r27db2g19db1g2db1r2~x2/"><circle cx="405.3" cy="147.0" r="4" fill="#3465a4"><title>Thomas of Wales</title></circle></a><circle cx="445.0" cy="199.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dg6r1dg24r28dg1r4~x2/"><circle cx="434.3" cy="195.1" r="4" fill="#3465a4"><title>Erskine</title></circle></a><a href="/setts/s6/r16g1r1g1r4g12~x4/"><circle cx="456.7" cy="215.1" r="4" fill="#3465a4"><title>MacQuarrie #5</title></circle></a><a href="/setts/s6/r16dg1r1dg1r4dg12/"><circle cx="451.9" cy="212.8" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><a href="/setts/s6/r16dg1r1dg1r4dg12~x2/"><circle cx="455.0" cy="215.4" r="4" fill="#3465a4"><title>MacQuarrie 7</title></circle></a><a href="/setts/s8/r44db2g26r3db2/"><circle cx="376.6" cy="170.3" r="4" fill="#3465a4"><title>Unidentified Cant #09</title></circle></a><a href="/setts/s6/r1g10r1db4r18g1~x4/"><circle cx="397.7" cy="186.3" r="4" fill="#3465a4"><title>Robertson 6</title></circle></a><a href="/setts/s7/r4g4lo4g12r22lo1g4~x4/"><circle cx="368.7" cy="184.3" r="4" fill="#3465a4"><title>Spice Apple</title></circle></a><a href="/setts/s6/r22db5r2g11r3db1~x2/"><circle cx="425.0" cy="185.2" r="4" fill="#3465a4"><title>MacKintosh 1</title></circle></a><a href="/setts/s8/dy48lo9dy6lo9dy12lo4dy2lo16~x2/"><circle cx="476.5" cy="188.9" r="4" fill="#3465a4"><title>Yellow Pencil (Corporate)</title></circle></a><a href="/setts/s6/r68db18r9g34r9db3~x2/"><circle cx="419.1" cy="187.8" r="4" fill="#3465a4"><title>MacKintosh 3</title></circle></a><circle cx="444.6" cy="199.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/g6r1g24r28g1r4~x2/

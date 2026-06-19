@@ -8,7 +8,7 @@ WKWBRW
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/lb2r12db2lb6k6lb1~x2/tartan.png)
+![Woven sample](/setts/s6/lb2r12db2lb6k6lb1/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ WKWBRW
 
 | Tartans |
 |---------------|
-| [MacTavish](/setts/s6/lb2r12db2lb6k6lb1~x2/)|
-|![MacTavish example sett](/setts/s6/lb2r12db2lb6k6lb1~x2/sett.png)|
+| [MacTavish](/setts/s6/lb2r12db2lb6k6lb1/)|
+|![MacTavish example sett](/setts/s6/lb2r12db2lb6k6lb1/sett.png)|
 

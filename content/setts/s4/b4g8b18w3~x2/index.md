@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3707/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Blue Meadow Check
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -44,12 +50,12 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Gyle](/setts/s4/r2dg1t8dg1~x20/) — ΔT 1.55
+1. [Gyle](/setts/s4/t8dg1r2~x20/) — ΔT 1.55
 1. [Gyle (Corporate)](/setts/s3/t8dg1r2~x20/) — ΔT 1.69
 1. [Unnamed No 78](/setts/s4/db2g7db7w1~x2/) — ΔT 1.81
 1. [Genesee Community College](/setts/s4/b18w4b3lo12~x2/) — ΔT 1.83
 1. [Lucard, Stphane (Personal))](/setts/s6/w11t20ly3t8ly3t10~x2/) — ΔT 1.83
-1. [Hamilton, hunting](/setts/s5/db11g2db15g18w2~x2/) — ΔT 1.87
+1. [Hamilton, hunting](/setts/s5/db11g2db15g18w2~x2/) — ΔT 1.88
 1. [Norris (1957)](/setts/s6/g6b1g7w1b7r1~x4/) — ΔT 1.89
 1. [Lucard, Stéphane (Personal)](/setts/s4/w11t20lo3t8~x2/) — ΔT 2.06
 1. [Rea](/setts/s6/t12ly2t1k5t4k2~x4/) — ΔT 2.11
@@ -57,8 +63,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/r2dg1t8dg1~x20/"><circle cx="406.2" cy="255.5" r="4" fill="#3465a4"><title>Gyle</title></circle></a><a href="/setts/s3/t8dg1r2~x20/"><circle cx="453.3" cy="281.0" r="4" fill="#3465a4"><title>Gyle (Corporate)</title></circle></a><a href="/setts/s4/db2g7db7w1~x2/"><circle cx="304.2" cy="287.6" r="4" fill="#3465a4"><title>Unnamed No 78</title></circle></a><a href="/setts/s4/b18w4b3lo12~x2/"><circle cx="289.1" cy="267.8" r="4" fill="#3465a4"><title>Genesee Community College</title></circle></a><a href="/setts/s6/w11t20ly3t8ly3t10~x2/"><circle cx="365.3" cy="257.7" r="4" fill="#3465a4"><title>Lucard, Stphane (Personal))</title></circle></a><a href="/setts/s5/db11g2db15g18w2~x2/"><circle cx="328.6" cy="270.4" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><a href="/setts/s6/g6b1g7w1b7r1~x4/"><circle cx="312.3" cy="249.7" r="4" fill="#3465a4"><title>Norris (1957)</title></circle></a><a href="/setts/s4/w11t20lo3t8~x2/"><circle cx="364.5" cy="277.1" r="4" fill="#3465a4"><title>Lucard, Stéphane (Personal)</title></circle></a><a href="/setts/s6/t12ly2t1k5t4k2~x4/"><circle cx="364.2" cy="218.6" r="4" fill="#3465a4"><title>Rea</title></circle></a><a href="/setts/s7/b3k1g4k1b4g9k2~x4/"><circle cx="298.4" cy="245.6" r="4" fill="#3465a4"><title>Outdoorsmen (Fashion)</title></circle></a><circle cx="366.4" cy="285.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/t8dg1r2~x20/"><circle cx="406.1" cy="255.2" r="4" fill="#3465a4"><title>Gyle</title></circle></a><a href="/setts/s3/t8dg1r2~x20/"><circle cx="453.2" cy="280.6" r="4" fill="#3465a4"><title>Gyle (Corporate)</title></circle></a><a href="/setts/s4/db2g7db7w1~x2/"><circle cx="304.3" cy="287.4" r="4" fill="#3465a4"><title>Unnamed No 78</title></circle></a><a href="/setts/s4/b18w4b3lo12~x2/"><circle cx="288.8" cy="267.5" r="4" fill="#3465a4"><title>Genesee Community College</title></circle></a><a href="/setts/s6/w11t20ly3t8ly3t10~x2/"><circle cx="364.9" cy="257.3" r="4" fill="#3465a4"><title>Lucard, Stphane (Personal))</title></circle></a><a href="/setts/s5/db11g2db15g18w2~x2/"><circle cx="328.6" cy="270.2" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><a href="/setts/s6/g6b1g7w1b7r1~x4/"><circle cx="312.2" cy="249.6" r="4" fill="#3465a4"><title>Norris (1957)</title></circle></a><a href="/setts/s4/w11t20lo3t8~x2/"><circle cx="364.1" cy="276.7" r="4" fill="#3465a4"><title>Lucard, Stéphane (Personal)</title></circle></a><a href="/setts/s6/t12ly2t1k5t4k2~x4/"><circle cx="364.1" cy="218.3" r="4" fill="#3465a4"><title>Rea</title></circle></a><a href="/setts/s7/b3k1g4k1b4g9k2~x4/"><circle cx="298.3" cy="245.4" r="4" fill="#3465a4"><title>Outdoorsmen (Fashion)</title></circle></a><circle cx="366.3" cy="285.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/b4g8b18w3~x2/

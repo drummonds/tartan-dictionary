@@ -2,12 +2,18 @@
 title: "Alberta, Quebec, Nova Scotia."
 date: 2023-03-18
 ---
-**Bands:** [BGKBWKGKGKGKGKBWGKBKBK](/stripes/bgkbwkgkgkgkgkbwgkbkbk/) · **Stripes:** [DB DG K DB W K DG K DG K DG K DG K DB W DG K DB K DB K](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">DB DG K DB W K DG K DG K DG K DG K DB W DG K DB K DB K</span></span>
+**Bands:** [KBKBKGWBKGKGKGKGKWBKGB](/stripes/kbkbkgwbkgkgkgkgkwbkgb/) · **Stripes:** [K DB K DB K DG W DB K DG K DG K DG K DG K W DB K DG DB](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K DB K DG W DB K DG K DG K DG K DG K W DB K DG DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [22 band tartan](/bands/bands22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=42
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Alberta, Quebec, Nova Scotia.
 
 ## Register references
 
@@ -35,10 +41,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Alberta, Quebec Nova Scotia](/setts/s22/db4g10k2db2w14k2g2k2g2k2g2k2g2k2db25w8g4k4db3k1db3k1~x2/) — ΔT 0.57
-1. [Beaufort](/setts/s18/b3w8o2w2o2w2o8k2o2k2o2k8w2b24o2k2o1k3~x2/) — ΔT 1.06
-1. [Scottish Knights Templar St. Andrews](/setts/s22/db2r1k2lb3k4lb4k4lb5k6db20r1lb4r1db20k6lb5k4lb4k4lb3k2r1~x2/) — ΔT 1.16
+1. [Beaufort](/setts/s18/k3o1k2o2b24w2k8o2k2o2k2o8w2o2w2o2w8b3~x2/) — ΔT 1.06
+1. [Scottish Knights Templar St. Andrews](/setts/s22/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/) — ΔT 1.16
 1. [Scottish Islamic (Corporate)](/setts/s18/g2lo2g2lo2g2lo2g18k1g2k5db2k1db19w2db2w2db2w2~x2/) — ΔT 1.16
-1. [Fair Trade](/setts/s15/k8b2k2b24k8w2k1w2k4w2k1w2k8g16k4~x2/) — ΔT 1.21
+1. [Fair Trade](/setts/s15/k8b2k2b24k8w2k1w2k4w2k1w2k8g16k4~x2/) — ΔT 1.20
 1. [Couper of Gogar](/setts/s18/db2lp4r2g24db4g2db4k10lp4db2lp4g8db1k1db22lp4db2r2~x2/) — ΔT 1.28
 1. [Couper of Gogar (Clan)](/setts/s18/r2lp4db2g24db4g2db4k10lp4db2lp4g8db1k2db22lp4db2r2~x2/) — ΔT 1.29
 1. [Nigeria](/setts/s14/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4~x2/) — ΔT 1.29
@@ -47,8 +53,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s22/db4g10k2db2w14k2g2k2g2k2g2k2g2k2db25w8g4k4db3k1db3k1~x2/"><circle cx="177.5" cy="80.4" r="4" fill="#3465a4"><title>Alberta, Quebec Nova Scotia</title></circle></a><a href="/setts/s18/b3w8o2w2o2w2o8k2o2k2o2k8w2b24o2k2o1k3~x2/"><circle cx="177.5" cy="83.8" r="4" fill="#3465a4"><title>Beaufort</title></circle></a><a href="/setts/s22/db2r1k2lb3k4lb4k4lb5k6db20r1lb4r1db20k6lb5k4lb4k4lb3k2r1~x2/"><circle cx="203.3" cy="104.6" r="4" fill="#3465a4"><title>Scottish Knights Templar St. Andrews</title></circle></a><a href="/setts/s18/g2lo2g2lo2g2lo2g18k1g2k5db2k1db19w2db2w2db2w2~x2/"><circle cx="186.6" cy="88.0" r="4" fill="#3465a4"><title>Scottish Islamic (Corporate)</title></circle></a><a href="/setts/s15/k8b2k2b24k8w2k1w2k4w2k1w2k8g16k4~x2/"><circle cx="203.4" cy="108.3" r="4" fill="#3465a4"><title>Fair Trade</title></circle></a><a href="/setts/s18/db2lp4r2g24db4g2db4k10lp4db2lp4g8db1k1db22lp4db2r2~x2/"><circle cx="198.5" cy="97.1" r="4" fill="#3465a4"><title>Couper of Gogar</title></circle></a><a href="/setts/s18/r2lp4db2g24db4g2db4k10lp4db2lp4g8db1k2db22lp4db2r2~x2/"><circle cx="195.0" cy="98.1" r="4" fill="#3465a4"><title>Couper of Gogar (Clan)</title></circle></a><a href="/setts/s14/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4~x2/"><circle cx="190.2" cy="114.2" r="4" fill="#3465a4"><title>Nigeria</title></circle></a><a href="/setts/s18/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2~x2/"><circle cx="182.5" cy="87.7" r="4" fill="#3465a4"><title>Scottish Islamic</title></circle></a><a href="/setts/s21/w4db4w60db5w5k30db27k5db30k27dg4t5dg66t5dg4k30w5db5w57db4w4/"><circle cx="125.9" cy="83.3" r="4" fill="#3465a4"><title>Graham Dress</title></circle></a><circle cx="190.8" cy="86.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s22/db4g10k2db2w14k2g2k2g2k2g2k2g2k2db25w8g4k4db3k1db3k1~x2/"><circle cx="177.3" cy="80.4" r="4" fill="#3465a4"><title>Alberta, Quebec Nova Scotia</title></circle></a><a href="/setts/s18/k3o1k2o2b24w2k8o2k2o2k2o8w2o2w2o2w8b3~x2/"><circle cx="177.2" cy="83.8" r="4" fill="#3465a4"><title>Beaufort</title></circle></a><a href="/setts/s22/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/"><circle cx="203.2" cy="104.6" r="4" fill="#3465a4"><title>Scottish Knights Templar St. Andrews</title></circle></a><a href="/setts/s18/g2lo2g2lo2g2lo2g18k1g2k5db2k1db19w2db2w2db2w2~x2/"><circle cx="186.5" cy="88.0" r="4" fill="#3465a4"><title>Scottish Islamic (Corporate)</title></circle></a><a href="/setts/s15/k8b2k2b24k8w2k1w2k4w2k1w2k8g16k4~x2/"><circle cx="203.3" cy="108.2" r="4" fill="#3465a4"><title>Fair Trade</title></circle></a><a href="/setts/s18/db2lp4r2g24db4g2db4k10lp4db2lp4g8db1k1db22lp4db2r2~x2/"><circle cx="198.5" cy="97.2" r="4" fill="#3465a4"><title>Couper of Gogar</title></circle></a><a href="/setts/s18/r2lp4db2g24db4g2db4k10lp4db2lp4g8db1k2db22lp4db2r2~x2/"><circle cx="194.9" cy="98.2" r="4" fill="#3465a4"><title>Couper of Gogar (Clan)</title></circle></a><a href="/setts/s14/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4~x2/"><circle cx="190.0" cy="114.2" r="4" fill="#3465a4"><title>Nigeria</title></circle></a><a href="/setts/s18/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2~x2/"><circle cx="182.5" cy="87.8" r="4" fill="#3465a4"><title>Scottish Islamic</title></circle></a><a href="/setts/s21/w4db4w60db5w5k30db27k5db30k27dg4t5dg66t5dg4k30w5db5w57db4w4/"><circle cx="125.8" cy="83.3" r="4" fill="#3465a4"><title>Graham Dress</title></circle></a><circle cx="190.6" cy="86.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s22/db4dg10k2db2w14k2dg2k2dg2k2dg2k2dg2k2db25w8dg4k4db3k1db3k1~x2/

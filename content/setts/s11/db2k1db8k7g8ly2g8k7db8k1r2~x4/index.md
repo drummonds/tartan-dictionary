@@ -2,12 +2,18 @@
 title: "Scottish Economics Society 'Adam Smith'"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGYGKBKR](/stripes/bkbkgygkbkr/) · **Stripes:** [DB K DB K G LY G K DB K R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K DB K G LY G K DB K R</span></span>
+**Bands:** [RKBKGYGKBKB](/stripes/rkbkgygkbkb/) · **Stripes:** [R K DB K G LY G K DB K DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K DB K G LY G K DB K DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10290
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Adam Smith
 
 ## Register references
 
@@ -16,7 +22,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10290](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10290)
 
 ## Thread count
-B/8 K4 DB32 K28 G32 Y8 G32 K28 DB32 K4 R/8
+R/8 K4 DB32 K28 G32 Y8 G32 K28 DB32 K4 B/8
 ![Sett](sett.png)
 
 ## Palette
@@ -36,7 +42,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Smithers](/setts/s11/p3db13y2db4w2db8k13g10k2g8p3~x2/) — ΔT 0.82
-1. [Smith](/setts/s11/ly3k1g12k12db12t3db12k12g12k1r3~x2/) — ΔT 0.92
+1. [Smith](/setts/s11/r3k1g12k12db12t3db12k12g12k1ly3~x2/) — ΔT 0.92
 1. [Farquharson Dress (Fashion)](/setts/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1r2~x2/) — ΔT 1.08
 1. [Gemmell](/setts/s14/t8k1t1k1t1k5g6k1g6k6db3w1r1w1~x4/) — ΔT 1.09
 1. [Veere (District)](/setts/s11/db6k2n2db8k18lo2g20db8n3k10lb6~x2/) — ΔT 1.09
@@ -48,8 +54,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/p3db13y2db4w2db8k13g10k2g8p3~x2/"><circle cx="84.5" cy="179.8" r="4" fill="#3465a4"><title>Smithers</title></circle></a><a href="/setts/s11/ly3k1g12k12db12t3db12k12g12k1r3~x2/"><circle cx="83.2" cy="159.9" r="4" fill="#3465a4"><title>Smith</title></circle></a><a href="/setts/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1r2~x2/"><circle cx="86.1" cy="155.3" r="4" fill="#3465a4"><title>Farquharson Dress (Fashion)</title></circle></a><a href="/setts/s14/t8k1t1k1t1k5g6k1g6k6db3w1r1w1~x4/"><circle cx="88.8" cy="149.1" r="4" fill="#3465a4"><title>Gemmell</title></circle></a><a href="/setts/s11/db6k2n2db8k18lo2g20db8n3k10lb6~x2/"><circle cx="97.3" cy="156.4" r="4" fill="#3465a4"><title>Veere (District)</title></circle></a><a href="/setts/s10/k6dg14t2r3t2k16ly2b16dg16r3~x2/"><circle cx="113.3" cy="169.4" r="4" fill="#3465a4"><title>Unidentified #37</title></circle></a><a href="/setts/s11/lb7k11lt3db9g19lo3k22db9lt3k3db6~x2/"><circle cx="82.6" cy="166.5" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/setts/s9/g2dp2g10k6r2k6t10k1lb2~x2/"><circle cx="76.5" cy="158.1" r="4" fill="#3465a4"><title>Birch (Personal) (Estimated threadcount)</title></circle></a><a href="/setts/s13/b8k4db15k16g16k4g6k4g16k16w2db6m6/"><circle cx="108.3" cy="190.8" r="4" fill="#3465a4"><title>Free (Wishaw)</title></circle></a><a href="/setts/s13/dp3k3dp10k11g14db3g14k11w3lr3db15lr2w2~x2/"><circle cx="65.8" cy="168.3" r="4" fill="#3465a4"><title>North of Scotland Tartan Army</title></circle></a><circle cx="62.0" cy="180.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/p3db13y2db4w2db8k13g10k2g8p3~x2/"><circle cx="84.7" cy="179.8" r="4" fill="#3465a4"><title>Smithers</title></circle></a><a href="/setts/s11/r3k1g12k12db12t3db12k12g12k1ly3~x2/"><circle cx="83.4" cy="160.0" r="4" fill="#3465a4"><title>Smith</title></circle></a><a href="/setts/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1r2~x2/"><circle cx="86.3" cy="155.4" r="4" fill="#3465a4"><title>Farquharson Dress (Fashion)</title></circle></a><a href="/setts/s14/t8k1t1k1t1k5g6k1g6k6db3w1r1w1~x4/"><circle cx="88.9" cy="149.2" r="4" fill="#3465a4"><title>Gemmell</title></circle></a><a href="/setts/s11/db6k2n2db8k18lo2g20db8n3k10lb6~x2/"><circle cx="97.5" cy="156.5" r="4" fill="#3465a4"><title>Veere (District)</title></circle></a><a href="/setts/s10/k6dg14t2r3t2k16ly2b16dg16r3~x2/"><circle cx="113.4" cy="169.5" r="4" fill="#3465a4"><title>Unidentified #37</title></circle></a><a href="/setts/s11/lb7k11lt3db9g19lo3k22db9lt3k3db6~x2/"><circle cx="82.9" cy="166.5" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/setts/s9/g2dp2g10k6r2k6t10k1lb2~x2/"><circle cx="76.7" cy="158.2" r="4" fill="#3465a4"><title>Birch (Personal) (Estimated threadcount)</title></circle></a><a href="/setts/s13/b8k4db15k16g16k4g6k4g16k16w2db6m6/"><circle cx="108.6" cy="190.9" r="4" fill="#3465a4"><title>Free (Wishaw)</title></circle></a><a href="/setts/s13/dp3k3dp10k11g14db3g14k11w3lr3db15lr2w2~x2/"><circle cx="65.9" cy="168.5" r="4" fill="#3465a4"><title>North of Scotland Tartan Army</title></circle></a><circle cx="62.3" cy="180.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db2k1db8k7g8ly2g8k7db8k1r2~x4/

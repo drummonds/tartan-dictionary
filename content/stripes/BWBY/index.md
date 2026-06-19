@@ -20,7 +20,7 @@ BWBY
 
 
 
-### B W B LO <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">B W B LO</span></span>
+### LO B W B <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LO B W B</span></span>
 
 | Tartans |
 |---------------|

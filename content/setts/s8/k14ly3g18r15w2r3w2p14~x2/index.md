@@ -2,7 +2,7 @@
 title: "Wilson's, No 83"
 date: 2023-03-18
 ---
-**Bands:** [BWRWRGYK](/stripes/bwrwrgyk/) · **Stripes:** [P W R W R G LY K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="seq">P W R W R G LY K</span></span>
+**Bands:** [KYGRWRWB](/stripes/kygrwrwb/) · **Stripes:** [K LY G R W R W P](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">K LY G R W R W P</span></span>
 
 
 This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,9 +913,9 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Black Hills](/setts/s9/db3w2g14r14k2db7k9ly2k2~x2/) — ΔT 0.96
 1. [Culloden, Gold](/setts/s8/r5t2dp14w2k13y13k2ly3~x2/) — ΔT 1.06
-1. [Craigmoor](/setts/s9/k2r8db2k2r2k6o2g6ly1~x2/) — ΔT 1.07
+1. [Craigmoor](/setts/s9/k2r8db2k2r2k6o2g6ly1~x2/) — ΔT 1.08
 1. [Nicolson of Taransay (Personal)](/setts/s7/w6g10r22db16g2k4k5~x2/) — ΔT 1.09
-1. [Leitrim Irish County Tartan Tartan Number: 2271. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/lg3k18lg4dy3lg4o13lg3lr18k2lr3~x2/) — ΔT 1.13
+1. [Leitrim Irish County Tartan Tartan Number: 2271. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/lr3k2lr18lg3o13lg4dy3lg4k18lg3~x2/) — ΔT 1.13
 1. [Culloden](/setts/s8/r5t2dp14w2k13lo13k2ly3~x2/) — ΔT 1.15
 1. [Scotch House 2000 Dress](/setts/s7/g22w3k2ly3k19r18db4~x2/) — ΔT 1.18
 1. [Comyn/Cumming](/setts/s9/r4w1r4dg10ly1k10t4k2t4~x4/) — ΔT 1.18
@@ -921,8 +924,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db3w2g14r14k2db7k9ly2k2~x2/"><circle cx="59.5" cy="162.6" r="4" fill="#3465a4"><title>Black Hills</title></circle></a><a href="/setts/s8/r5t2dp14w2k13y13k2ly3~x2/"><circle cx="35.4" cy="144.3" r="4" fill="#3465a4"><title>Culloden, Gold</title></circle></a><a href="/setts/s9/k2r8db2k2r2k6o2g6ly1~x2/"><circle cx="79.5" cy="165.4" r="4" fill="#3465a4"><title>Craigmoor</title></circle></a><a href="/setts/s7/w6g10r22db16g2k4k5~x2/"><circle cx="104.8" cy="160.1" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><a href="/setts/s10/lg3k18lg4dy3lg4o13lg3lr18k2lr3~x2/"><circle cx="58.5" cy="133.1" r="4" fill="#3465a4"><title>Leitrim Irish County Tartan Tartan Number: 2271. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r5t2dp14w2k13lo13k2ly3~x2/"><circle cx="43.5" cy="144.3" r="4" fill="#3465a4"><title>Culloden</title></circle></a><a href="/setts/s7/g22w3k2ly3k19r18db4~x2/"><circle cx="112.7" cy="158.1" r="4" fill="#3465a4"><title>Scotch House 2000 Dress</title></circle></a><a href="/setts/s9/r4w1r4dg10ly1k10t4k2t4~x4/"><circle cx="86.1" cy="162.5" r="4" fill="#3465a4"><title>Comyn/Cumming</title></circle></a><a href="/setts/s9/r4w1r4g10ly1k10t4k2t4~x4/"><circle cx="64.8" cy="154.5" r="4" fill="#3465a4"><title>Comyn, Cumming</title></circle></a><a href="/setts/s9/k2r8db2k2r2k6dy2dg6ly1~x2/"><circle cx="103.7" cy="174.0" r="4" fill="#3465a4"><title>Craigmoor</title></circle></a><circle cx="48.5" cy="154.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db3w2g14r14k2db7k9ly2k2~x2/"><circle cx="59.6" cy="162.7" r="4" fill="#3465a4"><title>Black Hills</title></circle></a><a href="/setts/s8/r5t2dp14w2k13y13k2ly3~x2/"><circle cx="35.5" cy="144.5" r="4" fill="#3465a4"><title>Culloden, Gold</title></circle></a><a href="/setts/s9/k2r8db2k2r2k6o2g6ly1~x2/"><circle cx="79.6" cy="165.5" r="4" fill="#3465a4"><title>Craigmoor</title></circle></a><a href="/setts/s7/w6g10r22db16g2k4k5~x2/"><circle cx="104.8" cy="160.2" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><a href="/setts/s10/lr3k2lr18lg3o13lg4dy3lg4k18lg3~x2/"><circle cx="58.5" cy="133.2" r="4" fill="#3465a4"><title>Leitrim Irish County Tartan Tartan Number: 2271. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r5t2dp14w2k13lo13k2ly3~x2/"><circle cx="43.5" cy="144.5" r="4" fill="#3465a4"><title>Culloden</title></circle></a><a href="/setts/s7/g22w3k2ly3k19r18db4~x2/"><circle cx="112.8" cy="158.2" r="4" fill="#3465a4"><title>Scotch House 2000 Dress</title></circle></a><a href="/setts/s9/r4w1r4dg10ly1k10t4k2t4~x4/"><circle cx="86.2" cy="162.6" r="4" fill="#3465a4"><title>Comyn/Cumming</title></circle></a><a href="/setts/s9/r4w1r4g10ly1k10t4k2t4~x4/"><circle cx="65.0" cy="154.5" r="4" fill="#3465a4"><title>Comyn, Cumming</title></circle></a><a href="/setts/s9/k2r8db2k2r2k6dy2dg6ly1~x2/"><circle cx="103.8" cy="174.1" r="4" fill="#3465a4"><title>Craigmoor</title></circle></a><circle cx="48.5" cy="154.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k14ly3g18r15w2r3w2p14~x2/

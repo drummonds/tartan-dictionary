@@ -18,10 +18,10 @@ BGKGKGKGKRWK
 
 
 
-### DB DG K DG K DG K DG K R W K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">DB DG K DG K DG K DG K R W K</span></span>
+### K W R K DG K DG K DG K DG DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">K W R K DG K DG K DG K DG DB</span></span>
 
 | Tartans |
 |---------------|
-| [Alamudi (Corporate)](/setts/s12/k13w3r3k34dg21k13dg8k5dg3k2dg1db1/)|
-|![Alamudi (Corporate) example sett](/setts/s12/k13w3r3k34dg21k13dg8k5dg3k2dg1db1/sett.png)|
+| [Alamudi (Corporate)](/setts/s12/k13w3r3k34dg21k13dg8k5dg3k2dg1db1~x2/)|
+|![Alamudi (Corporate) example sett](/setts/s12/k13w3r3k34dg21k13dg8k5dg3k2dg1db1~x2/sett.png)|
 

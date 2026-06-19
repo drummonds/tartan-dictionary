@@ -8,7 +8,7 @@ BGK
 
 It is a 3 band tartan.
 
-![Woven sample](/setts/s3/db8dg7k8~x2/tartan.png)
+![Woven sample](/setts/s3/k8dg7db8~x2/tartan.png)
 
 
 
@@ -21,7 +21,7 @@ BGK
 Grouped by stripe pattern — the 4 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### T G K <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">T G K</span></span>
+### K G T <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">K G T</span></span>
 
 | Tartans |
 |---------------|
@@ -34,21 +34,21 @@ Grouped by stripe pattern — the 4 human-palette shadings of this band pattern,
 | [Glen Lyon, or Mull (No.53)](/setts/s3/k5g3t2~x2/)|
 |![Glen Lyon, or Mull (No.53) example sett](/setts/s3/k5g3t2~x2/sett.png)|
 
-### DB DG K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="seq">DB DG K</span></span>
+### K DG DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">K DG DB</span></span>
 
 | Tartans |
 |---------------|
-| [Glenlyon](/setts/s3/db8dg7k8~x2/)|
-|![Glenlyon example sett](/setts/s3/db8dg7k8~x2/sett.png)|
+| [Glenlyon](/setts/s3/k8dg7db8~x2/)|
+|![Glenlyon example sett](/setts/s3/k8dg7db8~x2/sett.png)|
 
-### DB G K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">DB G K</span></span>
+### K G DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">K G DB</span></span>
 
 | Tartans |
 |---------------|
-| [Glen Lyon](/setts/s3/db8g7k8~x2/)|
-|![Glen Lyon example sett](/setts/s3/db8g7k8~x2/sett.png)|
+| [Glen Lyon](/setts/s3/k8g7db8~x2/)|
+|![Glen Lyon example sett](/setts/s3/k8g7db8~x2/sett.png)|
 
-### DP G K <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">DP G K</span></span>
+### K G DP <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K G DP</span></span>
 
 | Tartans |
 |---------------|

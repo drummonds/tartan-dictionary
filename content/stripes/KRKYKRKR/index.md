@@ -8,7 +8,7 @@ KRKYKRKR
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/r26k18r7k4ly4k4r7k18~x2/tartan.png)
+![Woven sample](/setts/s8/r26k18r7k4ly4~x2/tartan.png)
 
 
 
@@ -32,6 +32,6 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Haig & Haig Whisky](/setts/s8/r26k18r7k4ly4k4r7k18~x2/)|
-|![Haig & Haig Whisky example sett](/setts/s8/r26k18r7k4ly4k4r7k18~x2/sett.png)|
+| [Haig & Haig Whisky](/setts/s8/r26k18r7k4ly4~x2/)|
+|![Haig & Haig Whisky example sett](/setts/s8/r26k18r7k4ly4~x2/sett.png)|
 

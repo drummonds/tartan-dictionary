@@ -18,10 +18,10 @@ WKGYKYKYKY
 
 
 
-### W K G LG K LG K LG K LG <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="seq">W K G LG K LG K LG K LG</span></span>
+### LG K LG K LG K LG G K W <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LG K LG K LG K LG G K W</span></span>
 
 | Tartans |
 |---------------|
-| [Scruffy Wallace](/setts/s10/lg6k60lg6k6lg6k6lg16g24k3w6/)|
-|![Scruffy Wallace example sett](/setts/s10/lg6k60lg6k6lg6k6lg16g24k3w6/sett.png)|
+| [Scruffy Wallace](/setts/s10/w6k3g24lg16k6lg6k6lg6k60lg6/)|
+|![Scruffy Wallace example sett](/setts/s10/w6k3g24lg16k6lg6k6lg6k60lg6/sett.png)|
 

@@ -48,19 +48,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [BABC](/setts/s8/r3dt4w2dt33db32dt2r4w3/) — ΔT 1.54
 1. [B.A.B.C. (Corporate)](/setts/s8/r3dt4w2dt33db32dt2r4w3~x2/) — ΔT 1.54
-1. [Pride of Fife](/setts/s10/db2lg2dp6db37r5dp2lg2dp16w2db2~x2/) — ΔT 1.59
+1. [Pride of Fife](/setts/s10/db2w2dp16lg2dp2r5db37dp6lg2db2~x2/) — ΔT 1.59
 1. [British American School (Corporate)](/setts/s7/db2b2r1b16w1db20r2~x2/) — ΔT 1.64
-1. [Cheadle (Personal)](/setts/s6/dp10ly3dp8db42g5o5~x2/) — ΔT 1.66
+1. [Cheadle (Personal)](/setts/s6/dp10ly3dp8db42g5o5~x2/) — ΔT 1.65
 1. [First](/setts/s8/dp1m4dp1m1dp12k6dt16w1~x2/) — ΔT 1.66
 1. [Wcwm 1475-2](/setts/s9/r2db34k2lb2k2n30db3n6r2~x2/) — ΔT 1.70
 1. [POF (Fashion)](/setts/s9/b27db8b14db8b14db26r84db6r12/) — ΔT 1.71
 1. [Heddle](/setts/s13/n8db24k2db2n8db2k2db4ly2db4k2n12w3~x2/) — ΔT 1.71
-1. [Clydebank (Fashion)](/setts/s12/g2n3g1n15p3n9p9n2p16r1p3r2~x2/) — ΔT 1.75
+1. [Clydebank (Fashion)](/setts/s12/r2p3r1p16n2p9n9p3n15g1n3g2~x2/) — ΔT 1.75
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r3dt4w2dt33db32dt2r4w3/"><circle cx="325.8" cy="177.7" r="4" fill="#3465a4"><title>BABC</title></circle></a><a href="/setts/s8/r3dt4w2dt33db32dt2r4w3~x2/"><circle cx="325.8" cy="177.7" r="4" fill="#3465a4"><title>B.A.B.C. (Corporate)</title></circle></a><a href="/setts/s10/db2lg2dp6db37r5dp2lg2dp16w2db2~x2/"><circle cx="373.3" cy="150.1" r="4" fill="#3465a4"><title>Pride of Fife</title></circle></a><a href="/setts/s7/db2b2r1b16w1db20r2~x2/"><circle cx="395.1" cy="196.5" r="4" fill="#3465a4"><title>British American School (Corporate)</title></circle></a><a href="/setts/s6/dp10ly3dp8db42g5o5~x2/"><circle cx="356.7" cy="185.9" r="4" fill="#3465a4"><title>Cheadle (Personal)</title></circle></a><a href="/setts/s8/dp1m4dp1m1dp12k6dt16w1~x2/"><circle cx="254.7" cy="171.5" r="4" fill="#3465a4"><title>First</title></circle></a><a href="/setts/s9/r2db34k2lb2k2n30db3n6r2~x2/"><circle cx="317.9" cy="151.1" r="4" fill="#3465a4"><title>Wcwm 1475-2</title></circle></a><a href="/setts/s9/b27db8b14db8b14db26r84db6r12/"><circle cx="339.6" cy="197.5" r="4" fill="#3465a4"><title>POF (Fashion)</title></circle></a><a href="/setts/s13/n8db24k2db2n8db2k2db4ly2db4k2n12w3~x2/"><circle cx="285.9" cy="161.2" r="4" fill="#3465a4"><title>Heddle</title></circle></a><a href="/setts/s12/g2n3g1n15p3n9p9n2p16r1p3r2~x2/"><circle cx="355.1" cy="196.6" r="4" fill="#3465a4"><title>Clydebank (Fashion)</title></circle></a><circle cx="346.2" cy="182.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r3dt4w2dt33db32dt2r4w3/"><circle cx="325.8" cy="177.6" r="4" fill="#3465a4"><title>BABC</title></circle></a><a href="/setts/s8/r3dt4w2dt33db32dt2r4w3~x2/"><circle cx="325.8" cy="177.6" r="4" fill="#3465a4"><title>B.A.B.C. (Corporate)</title></circle></a><a href="/setts/s10/db2w2dp16lg2dp2r5db37dp6lg2db2~x2/"><circle cx="373.2" cy="150.2" r="4" fill="#3465a4"><title>Pride of Fife</title></circle></a><a href="/setts/s7/db2b2r1b16w1db20r2~x2/"><circle cx="395.0" cy="196.5" r="4" fill="#3465a4"><title>British American School (Corporate)</title></circle></a><a href="/setts/s6/dp10ly3dp8db42g5o5~x2/"><circle cx="356.7" cy="185.8" r="4" fill="#3465a4"><title>Cheadle (Personal)</title></circle></a><a href="/setts/s8/dp1m4dp1m1dp12k6dt16w1~x2/"><circle cx="254.7" cy="171.7" r="4" fill="#3465a4"><title>First</title></circle></a><a href="/setts/s9/r2db34k2lb2k2n30db3n6r2~x2/"><circle cx="317.9" cy="151.2" r="4" fill="#3465a4"><title>Wcwm 1475-2</title></circle></a><a href="/setts/s9/b27db8b14db8b14db26r84db6r12/"><circle cx="339.4" cy="197.4" r="4" fill="#3465a4"><title>POF (Fashion)</title></circle></a><a href="/setts/s13/n8db24k2db2n8db2k2db4ly2db4k2n12w3~x2/"><circle cx="285.9" cy="161.3" r="4" fill="#3465a4"><title>Heddle</title></circle></a><a href="/setts/s12/r2p3r1p16n2p9n9p3n15g1n3g2~x2/"><circle cx="355.0" cy="196.6" r="4" fill="#3465a4"><title>Clydebank (Fashion)</title></circle></a><circle cx="346.1" cy="182.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db4g5dp3g5db46dp42w4dp4/

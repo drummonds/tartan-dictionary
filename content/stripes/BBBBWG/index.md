@@ -21,14 +21,14 @@ BBBBWG
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB DT DB DT W DG <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">DB DT DB DT W DG</span></span>
+### DG W DT DB DT DB <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="seq">DG W DT DB DT DB</span></span>
 
 | Tartans |
 |---------------|
 | [Craig Devlin (Dundee) (Personal)](/setts/s6/dg8w3dt6db11dt30db5~x2/)|
 |![Craig Devlin (Dundee) (Personal) example sett](/setts/s6/dg8w3dt6db11dt30db5~x2/sett.png)|
 
-### DB N DB N W G <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB N DB N W G</span></span>
+### G W N DB N DB <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="seq">G W N DB N DB</span></span>
 
 | Tartans |
 |---------------|

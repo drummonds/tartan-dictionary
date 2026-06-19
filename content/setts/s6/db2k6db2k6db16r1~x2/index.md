@@ -2,12 +2,19 @@
 title: "MacKay V"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBR](/stripes/bkbkbr/) · **Stripes:** [DB K DB K DB R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K DB K DB R</span></span>
+**Bands:** [RBKBKB](/stripes/rbkbkb/) · **Stripes:** [R DB K DB K DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB K DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacKay V
+- MacKay VS
 
 ## Attestations
 
@@ -335,6 +342,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -439,6 +447,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -707,6 +716,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -967,15 +977,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Argentina](/setts/s7/db5w3db33k3db3k36db3~x2/) — ΔT 1.61
 1. [Jon's Theme (Fashion)](/setts/s6/k1lo2k3db12k18w1~x2/) — ΔT 1.65
 1. [St. Georges, Edgbaston](/setts/s7/r4k21w2k20db21k2db2~x2/) — ΔT 1.65
-1. [Lyndon Prep (School)](/setts/s6/db4lb1db18k18ly1k4~x4/) — ΔT 1.78
+1. [Lyndon Prep (School)](/setts/s6/k4ly1k18db18lb1db4~x4/) — ΔT 1.78
 1. [Gagetown (School)](/setts/s6/db2k11db5k1db5k1~x6/) — ΔT 1.83
 1. [Largan (?)](/setts/s6/db8k39db8k39db87r6/) — ΔT 1.83
-1. [Oban](/setts/s8/b6k10b1k1b1k10db10k6~x4/) — ΔT 1.83
+1. [Oban](/setts/s8/k6db10k10b1k1b1k10b6~x4/) — ΔT 1.83
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k14db14k14db40k3db2~x2/"><circle cx="500.8" cy="273.3" r="4" fill="#3465a4"><title>Atlin (Fashion)</title></circle></a><a href="/setts/s5/k30db6k6db41lt2~x2/"><circle cx="436.1" cy="253.5" r="4" fill="#3465a4"><title>Williams (New York) (Personal)</title></circle></a><a href="/setts/s8/k20db2k6db2k4db27w2db8~x2/"><circle cx="389.9" cy="222.1" r="4" fill="#3465a4"><title>Pride of Kinross</title></circle></a><a href="/setts/s7/db5w3db33k3db3k36db3~x2/"><circle cx="379.2" cy="224.2" r="4" fill="#3465a4"><title>Argentina</title></circle></a><a href="/setts/s6/k1lo2k3db12k18w1~x2/"><circle cx="374.1" cy="194.2" r="4" fill="#3465a4"><title>Jon's Theme (Fashion)</title></circle></a><a href="/setts/s7/r4k21w2k20db21k2db2~x2/"><circle cx="347.7" cy="222.3" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/setts/s6/db4lb1db18k18ly1k4~x4/"><circle cx="368.1" cy="219.4" r="4" fill="#3465a4"><title>Lyndon Prep (School)</title></circle></a><a href="/setts/s6/db2k11db5k1db5k1~x6/"><circle cx="413.4" cy="280.3" r="4" fill="#3465a4"><title>Gagetown (School)</title></circle></a><a href="/setts/s6/db8k39db8k39db87r6/"><circle cx="429.9" cy="254.9" r="4" fill="#3465a4"><title>Largan (?)</title></circle></a><a href="/setts/s8/b6k10b1k1b1k10db10k6~x4/"><circle cx="367.6" cy="263.8" r="4" fill="#3465a4"><title>Oban</title></circle></a><circle cx="427.4" cy="244.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k14db14k14db40k3db2~x2/"><circle cx="501.0" cy="273.1" r="4" fill="#3465a4"><title>Atlin (Fashion)</title></circle></a><a href="/setts/s5/k30db6k6db41lt2~x2/"><circle cx="436.3" cy="253.4" r="4" fill="#3465a4"><title>Williams (New York) (Personal)</title></circle></a><a href="/setts/s8/k20db2k6db2k4db27w2db8~x2/"><circle cx="389.9" cy="221.9" r="4" fill="#3465a4"><title>Pride of Kinross</title></circle></a><a href="/setts/s7/db5w3db33k3db3k36db3~x2/"><circle cx="379.4" cy="224.0" r="4" fill="#3465a4"><title>Argentina</title></circle></a><a href="/setts/s6/k1lo2k3db12k18w1~x2/"><circle cx="374.2" cy="194.0" r="4" fill="#3465a4"><title>Jon's Theme (Fashion)</title></circle></a><a href="/setts/s7/r4k21w2k20db21k2db2~x2/"><circle cx="347.8" cy="222.1" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/setts/s6/k4ly1k18db18lb1db4~x4/"><circle cx="368.2" cy="219.3" r="4" fill="#3465a4"><title>Lyndon Prep (School)</title></circle></a><a href="/setts/s6/db2k11db5k1db5k1~x6/"><circle cx="413.5" cy="280.1" r="4" fill="#3465a4"><title>Gagetown (School)</title></circle></a><a href="/setts/s6/db8k39db8k39db87r6/"><circle cx="429.9" cy="254.8" r="4" fill="#3465a4"><title>Largan (?)</title></circle></a><a href="/setts/s8/k6db10k10b1k1b1k10b6~x4/"><circle cx="367.7" cy="263.7" r="4" fill="#3465a4"><title>Oban</title></circle></a><circle cx="427.6" cy="244.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db2k6db2k6db16r1~x2/

@@ -8,7 +8,7 @@ WKRKY
 
 It is a 5 band tartan.
 
-![Woven sample](/setts/s5/ly3k1o24k35w3~x2/tartan.png)
+![Woven sample](/setts/s5/w3k35o24k1ly3~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ WKRKY
 
 
 
-### W K O K LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W K O K LY</span></span>
+### LY K O K W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K O K W</span></span>
 
 | Tartans |
 |---------------|
-| [George Heriots](/setts/s5/ly3k1o24k35w3~x2/)|
-|![George Heriots example sett](/setts/s5/ly3k1o24k35w3~x2/sett.png)|
+| [George Heriots](/setts/s5/w3k35o24k1ly3~x2/)|
+|![George Heriots example sett](/setts/s5/w3k35o24k1ly3~x2/sett.png)|
 

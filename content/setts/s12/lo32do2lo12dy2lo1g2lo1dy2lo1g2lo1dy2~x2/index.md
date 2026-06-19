@@ -2,12 +2,18 @@
 title: "Houston #2 (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GYGYGYGYGYBY](/stripes/gygygygygyby/) · **Stripes:** [DY LO G LO DY LO G LO DY LO DO LO](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DY LO G LO DY LO G LO DY LO DO LO</span></span>
+**Bands:** [YBYGYGYGYGYG](/stripes/ybygygygygyg/) · **Stripes:** [LO DO LO DY LO G LO DY LO G LO DY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">LO DO LO DY LO G LO DY LO G LO DY</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1774
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Houston #2
 
 ## Attestations
 
@@ -46,7 +52,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Houston (Personal)](/setts/s22/g2lo1dy2lo1g2lo1dy2lo32do2lo12dy2lo2dy2lo12do2lo32dy2lo1g2lo1dy2lo1~x2/) — ΔT 1.26
+1. [Houston (Personal)](/setts/s22/g2lo1dy2lo1g2lo1dy2lo32do2lo12dy2lo2~x2/) — ΔT 1.26
 1. [Houston Family Tartan Tartan Number: 2290. Earliest known date: 1994 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/g2ly1lo2ly1g2ly1lo2ly32dy2ly12lo2ly2~x2/) — ΔT 1.50
 1. [Connacht (1993)](/setts/s10/o64dg6o2dg3o2dg6o64dy2o2dy6~x2/) — ΔT 1.67
 1. [KIltwalk, The (Corporate)](/setts/s9/dy2lb2lo4dy5lo5dy46lo7dy1w2~x2/) — ΔT 2.15
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s22/g2lo1dy2lo1g2lo1dy2lo32do2lo12dy2lo2dy2lo12do2lo32dy2lo1g2lo1dy2lo1~x2/"><circle cx="604.1" cy="93.0" r="4" fill="#3465a4"><title>Houston (Personal)</title></circle></a><a href="/setts/s12/g2ly1lo2ly1g2ly1lo2ly32dy2ly12lo2ly2~x2/"><circle cx="585.9" cy="102.7" r="4" fill="#3465a4"><title>Houston Family Tartan Tartan Number: 2290. Earliest known date: 1994 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/o64dg6o2dg3o2dg6o64dy2o2dy6~x2/"><circle cx="626.0" cy="138.1" r="4" fill="#3465a4"><title>Connacht (1993)</title></circle></a><a href="/setts/s9/dy2lb2lo4dy5lo5dy46lo7dy1w2~x2/"><circle cx="551.8" cy="114.0" r="4" fill="#3465a4"><title>KIltwalk, The (Corporate)</title></circle></a><a href="/setts/s6/y40r8y4w2y4ly5~x2/"><circle cx="566.4" cy="187.8" r="4" fill="#3465a4"><title>Reid (1939)</title></circle></a><a href="/setts/s7/w2o44dt8o2dt2o3r1~x2/"><circle cx="626.0" cy="136.3" r="4" fill="#3465a4"><title>Reece, Mathew</title></circle></a><a href="/setts/s11/o5g1o32r1o8r9o2g2g3r3g1~x2/"><circle cx="539.7" cy="141.6" r="4" fill="#3465a4"><title>Portosalvo (Corporate)</title></circle></a><a href="/setts/s11/y40n3y8r2y2w2y10n6do2n2w2~x2/"><circle cx="539.3" cy="141.0" r="4" fill="#3465a4"><title>Spencer</title></circle></a><a href="/setts/s7/w2lo44db8lo2db2lo3r1~x2/"><circle cx="590.3" cy="119.0" r="4" fill="#3465a4"><title>Reece (Name)</title></circle></a><a href="/setts/s14/db3ly3g3ly62r9ly9r9ly9r9ly9r9ly62w3ly3/"><circle cx="494.5" cy="89.9" r="4" fill="#3465a4"><title>Catalan</title></circle></a><circle cx="604.9" cy="115.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s22/g2lo1dy2lo1g2lo1dy2lo32do2lo12dy2lo2~x2/"><circle cx="603.3" cy="92.7" r="4" fill="#3465a4"><title>Houston (Personal)</title></circle></a><a href="/setts/s12/g2ly1lo2ly1g2ly1lo2ly32dy2ly12lo2ly2~x2/"><circle cx="584.9" cy="102.4" r="4" fill="#3465a4"><title>Houston Family Tartan Tartan Number: 2290. Earliest known date: 1994 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/o64dg6o2dg3o2dg6o64dy2o2dy6~x2/"><circle cx="626.0" cy="137.7" r="4" fill="#3465a4"><title>Connacht (1993)</title></circle></a><a href="/setts/s9/dy2lb2lo4dy5lo5dy46lo7dy1w2~x2/"><circle cx="551.2" cy="113.8" r="4" fill="#3465a4"><title>KIltwalk, The (Corporate)</title></circle></a><a href="/setts/s6/y40r8y4w2y4ly5~x2/"><circle cx="565.8" cy="187.6" r="4" fill="#3465a4"><title>Reid (1939)</title></circle></a><a href="/setts/s7/w2o44dt8o2dt2o3r1~x2/"><circle cx="626.0" cy="136.1" r="4" fill="#3465a4"><title>Reece, Mathew</title></circle></a><a href="/setts/s11/o5g1o32r1o8r9o2g2g3r3g1~x2/"><circle cx="539.1" cy="141.6" r="4" fill="#3465a4"><title>Portosalvo (Corporate)</title></circle></a><a href="/setts/s11/y40n3y8r2y2w2y10n6do2n2w2~x2/"><circle cx="538.7" cy="140.8" r="4" fill="#3465a4"><title>Spencer</title></circle></a><a href="/setts/s7/w2lo44db8lo2db2lo3r1~x2/"><circle cx="589.6" cy="118.6" r="4" fill="#3465a4"><title>Reece (Name)</title></circle></a><a href="/setts/s14/db3ly3g3ly62r9ly9r9ly9r9ly9r9ly62w3ly3/"><circle cx="493.6" cy="89.6" r="4" fill="#3465a4"><title>Catalan</title></circle></a><circle cx="604.1" cy="114.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/lo32do2lo12dy2lo1g2lo1dy2lo1g2lo1dy2~x2/

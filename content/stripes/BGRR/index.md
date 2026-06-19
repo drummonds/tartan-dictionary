@@ -20,7 +20,7 @@ BGRR
 
 
 
-### DR Y M O <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DR Y M O</span></span>
+### O M Y DR <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="seq">O M Y DR</span></span>
 
 | Tartans |
 |---------------|

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -915,13 +918,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Ferguson Unidentified](/setts/s7/dp72k40dg23r4dg23k2w4~x2/) — ΔT 1.23
 1. [Harrower, John Anthony (Personal)](/setts/s8/dg8db5k1db17r10db2r10o2~x2/) — ΔT 1.25
 1. [Nibley (Personal)](/setts/s6/w3dg18db22r19dg1r2~x2/) — ΔT 1.29
-1. [Ross Dempster (Personal)](/setts/s7/b4db29dg10r10r18dg2db4~x2/) — ΔT 1.32
+1. [Ross Dempster (Personal)](/setts/s7/db4dg2r18r10dg10db29b4~x2/) — ΔT 1.32
 1. [Royal Scottish Assurance](/setts/s9/db26dg11r8k2r2w2r4w1r15~x2/) — ΔT 1.34
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/t4ly1r28db24k5t5k3~x4/"><circle cx="249.5" cy="128.6" r="4" fill="#3465a4"><title>McKnight #2 (Personal)</title></circle></a><a href="/setts/s5/lb3db28k12r22dg1~x2/"><circle cx="264.4" cy="179.8" r="4" fill="#3465a4"><title>Diaspora (Fashion)</title></circle></a><a href="/setts/s6/db3dg1r22k12db28lb3~x2/"><circle cx="281.9" cy="165.6" r="4" fill="#3465a4"><title>Diaspora</title></circle></a><a href="/setts/s7/db4ly1r28db25k10db5k3~x2/"><circle cx="225.6" cy="135.4" r="4" fill="#3465a4"><title>McKnight (Personal)</title></circle></a><a href="/setts/s6/dg3k24lo1r18db18w1~x2/"><circle cx="212.2" cy="148.1" r="4" fill="#3465a4"><title>Hegarty, Philip David (Personal)</title></circle></a><a href="/setts/s7/dp72k40dg23r4dg23k2w4~x2/"><circle cx="281.4" cy="144.3" r="4" fill="#3465a4"><title>Ferguson Unidentified</title></circle></a><a href="/setts/s8/dg8db5k1db17r10db2r10o2~x2/"><circle cx="247.9" cy="174.9" r="4" fill="#3465a4"><title>Harrower, John Anthony (Personal)</title></circle></a><a href="/setts/s6/w3dg18db22r19dg1r2~x2/"><circle cx="224.7" cy="179.7" r="4" fill="#3465a4"><title>Nibley (Personal)</title></circle></a><a href="/setts/s7/b4db29dg10r10r18dg2db4~x2/"><circle cx="224.9" cy="183.7" r="4" fill="#3465a4"><title>Ross Dempster (Personal)</title></circle></a><a href="/setts/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="252.5" cy="125.7" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><circle cx="243.4" cy="158.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/t4ly1r28db24k5t5k3~x4/"><circle cx="249.4" cy="128.7" r="4" fill="#3465a4"><title>McKnight #2 (Personal)</title></circle></a><a href="/setts/s5/lb3db28k12r22dg1~x2/"><circle cx="264.5" cy="179.8" r="4" fill="#3465a4"><title>Diaspora (Fashion)</title></circle></a><a href="/setts/s6/db3dg1r22k12db28lb3~x2/"><circle cx="282.0" cy="165.6" r="4" fill="#3465a4"><title>Diaspora</title></circle></a><a href="/setts/s7/db4ly1r28db25k10db5k3~x2/"><circle cx="225.6" cy="135.4" r="4" fill="#3465a4"><title>McKnight (Personal)</title></circle></a><a href="/setts/s6/dg3k24lo1r18db18w1~x2/"><circle cx="212.3" cy="148.3" r="4" fill="#3465a4"><title>Hegarty, Philip David (Personal)</title></circle></a><a href="/setts/s7/dp72k40dg23r4dg23k2w4~x2/"><circle cx="281.4" cy="144.3" r="4" fill="#3465a4"><title>Ferguson Unidentified</title></circle></a><a href="/setts/s8/dg8db5k1db17r10db2r10o2~x2/"><circle cx="247.8" cy="174.9" r="4" fill="#3465a4"><title>Harrower, John Anthony (Personal)</title></circle></a><a href="/setts/s6/w3dg18db22r19dg1r2~x2/"><circle cx="224.6" cy="179.7" r="4" fill="#3465a4"><title>Nibley (Personal)</title></circle></a><a href="/setts/s7/db4dg2r18r10dg10db29b4~x2/"><circle cx="224.9" cy="183.7" r="4" fill="#3465a4"><title>Ross Dempster (Personal)</title></circle></a><a href="/setts/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="252.3" cy="125.7" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><circle cx="243.4" cy="158.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/dt3dg1r24dt16db28w3~x2/

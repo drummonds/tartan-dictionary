@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=901
 
+## Also known as
+
+This cloth is also recorded under:
+
+- de Nardi Htg
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -60,8 +66,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g20lr6db20ly3db48r6db4r6~x2/"><circle cx="351.1" cy="165.3" r="4" fill="#3465a4"><title>Warren Wilson College (Corporate)</title></circle></a><a href="/setts/s10/db15g7ly3g7db40g7ly3g7db15r5~x2/"><circle cx="374.7" cy="186.1" r="4" fill="#3465a4"><title>Wheadon</title></circle></a><a href="/setts/s9/r3b22r3b3k14b14t3b3w2~x2/"><circle cx="287.7" cy="162.8" r="4" fill="#3465a4"><title>Fitzgerald (Family)</title></circle></a><a href="/setts/s10/db10k1g2k2t3k2g2k1db10w1~x8/"><circle cx="285.8" cy="172.0" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/setts/s10/db34lo6g6r2w2r2g10lo8db23w2~x2/"><circle cx="324.4" cy="143.2" r="4" fill="#3465a4"><title>International Pairs (Corporate)</title></circle></a><a href="/setts/s9/r3db21r3db3k13db13t3db3w2~x2/"><circle cx="306.4" cy="174.4" r="4" fill="#3465a4"><title>Fitzgerald, Blue</title></circle></a><a href="/setts/s6/r1db12k5o3db5w1~x4/"><circle cx="317.1" cy="193.7" r="4" fill="#3465a4"><title>Massachusetts</title></circle></a><a href="/setts/s8/dt1r1dt10t1dt1t5dt1w1~x6/"><circle cx="372.5" cy="193.9" r="4" fill="#3465a4"><title>A2 (Personal)</title></circle></a><a href="/setts/s5/k2db36g12w3r2~x2/"><circle cx="388.1" cy="168.8" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/setts/s8/db6r3g26db26w4db26r5g5~x2/"><circle cx="303.6" cy="215.2" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><circle cx="343.2" cy="175.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g20lr6db20ly3db48r6db4r6~x2/"><circle cx="351.1" cy="165.1" r="4" fill="#3465a4"><title>Warren Wilson College (Corporate)</title></circle></a><a href="/setts/s10/db15g7ly3g7db40g7ly3g7db15r5~x2/"><circle cx="374.6" cy="186.0" r="4" fill="#3465a4"><title>Wheadon</title></circle></a><a href="/setts/s9/r3b22r3b3k14b14t3b3w2~x2/"><circle cx="287.7" cy="162.6" r="4" fill="#3465a4"><title>Fitzgerald (Family)</title></circle></a><a href="/setts/s10/db10k1g2k2t3k2g2k1db10w1~x8/"><circle cx="285.8" cy="171.9" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/setts/s10/db34lo6g6r2w2r2g10lo8db23w2~x2/"><circle cx="324.3" cy="143.1" r="4" fill="#3465a4"><title>International Pairs (Corporate)</title></circle></a><a href="/setts/s9/r3db21r3db3k13db13t3db3w2~x2/"><circle cx="306.4" cy="174.3" r="4" fill="#3465a4"><title>Fitzgerald, Blue</title></circle></a><a href="/setts/s6/r1db12k5o3db5w1~x4/"><circle cx="317.1" cy="193.6" r="4" fill="#3465a4"><title>Massachusetts</title></circle></a><a href="/setts/s8/dt1r1dt10t1dt1t5dt1w1~x6/"><circle cx="372.4" cy="193.7" r="4" fill="#3465a4"><title>A2 (Personal)</title></circle></a><a href="/setts/s5/k2db36g12w3r2~x2/"><circle cx="388.0" cy="168.6" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/setts/s8/db6r3g26db26w4db26r5g5~x2/"><circle cx="303.6" cy="215.0" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><circle cx="343.2" cy="175.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db30r3db3ly3db3g30db36w5~x2/

@@ -319,6 +319,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +420,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +680,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -924,8 +927,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k3dg17k9r2db17r2db2r17dg2w2~x2/"><circle cx="133.4" cy="171.7" r="4" fill="#3465a4"><title>MacInroy (Rattray)</title></circle></a><a href="/setts/s11/r8k3o3dt28k20o28lb3o3lb3o3lb6/"><circle cx="135.7" cy="144.8" r="4" fill="#3465a4"><title>Logan #6</title></circle></a><a href="/setts/s8/r21r3r3r3r3db19g22lt3~x2/"><circle cx="145.6" cy="181.3" r="4" fill="#3465a4"><title>Akins Clan (Personal)</title></circle></a><a href="/setts/s9/dg1r11dg3k4dg4r1k2db11w1~x2/"><circle cx="154.0" cy="164.6" r="4" fill="#3465a4"><title>Manson (Name)</title></circle></a><a href="/setts/s9/dp8k1g2k1dy2k6g8k1w2~x4/"><circle cx="128.8" cy="183.8" r="4" fill="#3465a4"><title>Coffield-Limesand (Personal)</title></circle></a><a href="/setts/s10/r4g6ly3g12k14db5r20db5k4db2~x2/"><circle cx="124.8" cy="172.2" r="4" fill="#3465a4"><title>Etienne-Carter, Sir George</title></circle></a><a href="/setts/s8/m21r3m3r3m3db19g22b3~x2/"><circle cx="158.8" cy="190.2" r="4" fill="#3465a4"><title>Akins</title></circle></a><a href="/setts/s11/r6db6r3db3r3db28k21g28r21k2ly4/"><circle cx="143.5" cy="147.6" r="4" fill="#3465a4"><title>MacLagan of Glenquiech</title></circle></a><a href="/setts/s10/r4dg7ly3dg12k16t5r20t5k4t2~x2/"><circle cx="114.5" cy="167.9" r="4" fill="#3465a4"><title>Unidentified #9</title></circle></a><a href="/setts/s9/o18k3o4lb3o4k18n20k2m4~x2/"><circle cx="161.2" cy="174.2" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><circle cx="123.8" cy="165.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k3dg17k9r2db17r2db2r17dg2w2~x2/"><circle cx="133.5" cy="171.8" r="4" fill="#3465a4"><title>MacInroy (Rattray)</title></circle></a><a href="/setts/s11/r8k3o3dt28k20o28lb3o3lb3o3lb6/"><circle cx="135.7" cy="144.9" r="4" fill="#3465a4"><title>Logan #6</title></circle></a><a href="/setts/s8/r21r3r3r3r3db19g22lt3~x2/"><circle cx="145.6" cy="181.3" r="4" fill="#3465a4"><title>Akins Clan (Personal)</title></circle></a><a href="/setts/s9/dg1r11dg3k4dg4r1k2db11w1~x2/"><circle cx="154.0" cy="164.7" r="4" fill="#3465a4"><title>Manson (Name)</title></circle></a><a href="/setts/s9/dp8k1g2k1dy2k6g8k1w2~x4/"><circle cx="128.9" cy="183.9" r="4" fill="#3465a4"><title>Coffield-Limesand (Personal)</title></circle></a><a href="/setts/s10/r4g6ly3g12k14db5r20db5k4db2~x2/"><circle cx="124.8" cy="172.3" r="4" fill="#3465a4"><title>Etienne-Carter, Sir George</title></circle></a><a href="/setts/s8/m21r3m3r3m3db19g22b3~x2/"><circle cx="158.8" cy="190.3" r="4" fill="#3465a4"><title>Akins</title></circle></a><a href="/setts/s11/r6db6r3db3r3db28k21g28r21k2ly4/"><circle cx="143.5" cy="147.8" r="4" fill="#3465a4"><title>MacLagan of Glenquiech</title></circle></a><a href="/setts/s10/r4dg7ly3dg12k16t5r20t5k4t2~x2/"><circle cx="114.5" cy="168.0" r="4" fill="#3465a4"><title>Unidentified #9</title></circle></a><a href="/setts/s9/o18k3o4lb3o4k18n20k2m4~x2/"><circle cx="161.2" cy="174.3" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><circle cx="123.8" cy="165.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/k1g8k4r1db8r1db1r8g1w1~x4/

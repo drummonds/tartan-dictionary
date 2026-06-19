@@ -20,7 +20,7 @@ WYBWBRYY
 
 
 
-### LB LG DB W DO O LO LY <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LB LG DB W DO O LO LY</span></span>
+### LY LO O DO W DB LG LB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LY LO O DO W DB LG LB</span></span>
 
 | Tartans |
 |---------------|

@@ -2,7 +2,7 @@
 title: "Muskoka (District)"
 date: 2023-03-18
 ---
-**Bands:** [WGBGRYRY](/stripes/wgbgryry/) · **Stripes:** [W G T G R LY R LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W G T G R LY R LY</span></span>
+**Bands:** [YRYRGBGW](/stripes/yryrgbgw/) · **Stripes:** [LY R LY R G T G W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY R LY R G T G W</span></span>
 
 
 This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
@@ -56,11 +56,11 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Glasgow High (School)](/setts/s8/dy6ly3n42w4dg18ly2n12r3~x2/) — ΔT 0.92
-1. [Canuck Place](/setts/s9/lo1r2lg3o24lg26db3lg15db2w1~x2/) — ΔT 0.99
+1. [Canuck Place](/setts/s9/w1db2lg15db3lg26o24lg3r2lo1~x2/) — ΔT 0.99
 1. [Sheffield, City of (District)](/setts/s8/g62o3g3o31k4g5t5r3~x2/) — ΔT 1.26
 1. [Chisholm hunting](/setts/s10/o6w1o24db6g2db1g2db1g12r1~x2/) — ΔT 1.47
 1. [Nickel Lodge, Centennial](/setts/s9/y18ly1y2ly1y2db6w4o1g6~x2/) — ΔT 1.52
-1. [Burt #1 (Name)](/setts/s9/m2lg13b8lg3b33lo3b8lo13r2~x2/) — ΔT 1.60
+1. [Burt #1 (Name)](/setts/s9/r2lo13b8lo3b33lg3b8lg13m2~x2/) — ΔT 1.60
 1. [Inchforth (Personal)](/setts/s9/o4dg2o7n30o8n7g5dg1w2~x2/) — ΔT 1.60
 1. [Sarasota - Dunfermline (Commemorat)](/setts/s10/r2g6ly2g3b4g14b36k2b3w2~x2/) — ΔT 1.60
 1. [Bressuire (District)](/setts/s7/r1g4lo1g3r4n15w1~x4/) — ΔT 1.62
@@ -68,8 +68,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dy6ly3n42w4dg18ly2n12r3~x2/"><circle cx="367.4" cy="150.6" r="4" fill="#3465a4"><title>Glasgow High (School)</title></circle></a><a href="/setts/s9/lo1r2lg3o24lg26db3lg15db2w1~x2/"><circle cx="384.4" cy="137.7" r="4" fill="#3465a4"><title>Canuck Place</title></circle></a><a href="/setts/s8/g62o3g3o31k4g5t5r3~x2/"><circle cx="364.8" cy="142.1" r="4" fill="#3465a4"><title>Sheffield, City of (District)</title></circle></a><a href="/setts/s10/o6w1o24db6g2db1g2db1g12r1~x2/"><circle cx="383.0" cy="151.9" r="4" fill="#3465a4"><title>Chisholm hunting</title></circle></a><a href="/setts/s9/y18ly1y2ly1y2db6w4o1g6~x2/"><circle cx="287.2" cy="130.0" r="4" fill="#3465a4"><title>Nickel Lodge, Centennial</title></circle></a><a href="/setts/s9/m2lg13b8lg3b33lo3b8lo13r2~x2/"><circle cx="371.7" cy="183.7" r="4" fill="#3465a4"><title>Burt #1 (Name)</title></circle></a><a href="/setts/s9/o4dg2o7n30o8n7g5dg1w2~x2/"><circle cx="409.2" cy="160.6" r="4" fill="#3465a4"><title>Inchforth (Personal)</title></circle></a><a href="/setts/s10/r2g6ly2g3b4g14b36k2b3w2~x2/"><circle cx="383.9" cy="146.2" r="4" fill="#3465a4"><title>Sarasota - Dunfermline (Commemorat)</title></circle></a><a href="/setts/s7/r1g4lo1g3r4n15w1~x4/"><circle cx="332.9" cy="183.3" r="4" fill="#3465a4"><title>Bressuire (District)</title></circle></a><a href="/setts/s10/n33w2r3w2db14r3g15n20r2n3~x2/"><circle cx="332.3" cy="155.6" r="4" fill="#3465a4"><title>Kansai St Andrews Society (Corp)</title></circle></a><circle cx="361.9" cy="152.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dy6ly3n42w4dg18ly2n12r3~x2/"><circle cx="367.1" cy="150.6" r="4" fill="#3465a4"><title>Glasgow High (School)</title></circle></a><a href="/setts/s9/w1db2lg15db3lg26o24lg3r2lo1~x2/"><circle cx="384.0" cy="137.7" r="4" fill="#3465a4"><title>Canuck Place</title></circle></a><a href="/setts/s8/g62o3g3o31k4g5t5r3~x2/"><circle cx="364.5" cy="142.2" r="4" fill="#3465a4"><title>Sheffield, City of (District)</title></circle></a><a href="/setts/s10/o6w1o24db6g2db1g2db1g12r1~x2/"><circle cx="382.7" cy="152.0" r="4" fill="#3465a4"><title>Chisholm hunting</title></circle></a><a href="/setts/s9/y18ly1y2ly1y2db6w4o1g6~x2/"><circle cx="286.9" cy="130.1" r="4" fill="#3465a4"><title>Nickel Lodge, Centennial</title></circle></a><a href="/setts/s9/r2lo13b8lo3b33lg3b8lg13m2~x2/"><circle cx="371.4" cy="183.7" r="4" fill="#3465a4"><title>Burt #1 (Name)</title></circle></a><a href="/setts/s9/o4dg2o7n30o8n7g5dg1w2~x2/"><circle cx="408.9" cy="160.7" r="4" fill="#3465a4"><title>Inchforth (Personal)</title></circle></a><a href="/setts/s10/r2g6ly2g3b4g14b36k2b3w2~x2/"><circle cx="383.7" cy="146.3" r="4" fill="#3465a4"><title>Sarasota - Dunfermline (Commemorat)</title></circle></a><a href="/setts/s7/r1g4lo1g3r4n15w1~x4/"><circle cx="332.7" cy="183.3" r="4" fill="#3465a4"><title>Bressuire (District)</title></circle></a><a href="/setts/s10/n33w2r3w2db14r3g15n20r2n3~x2/"><circle cx="332.1" cy="155.7" r="4" fill="#3465a4"><title>Kansai St Andrews Society (Corp)</title></circle></a><circle cx="361.6" cy="152.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/w2g5t10g20r1ly2r2ly1~x2/

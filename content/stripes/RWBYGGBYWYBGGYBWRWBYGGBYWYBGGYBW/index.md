@@ -22,6 +22,6 @@ RWBYGGBYWYBGGYBWRWBYGGBYWYBGGYBW
 
 | Tartans |
 |---------------|
-| [Spens Fragment](/setts/s32/r17w2db7lo2g33g12db7lo3w2lo3db7g12g33lo2db7w2r50w2db7lo2g33g12db7lo3w2lo3db7g12g33lo2db7w2~x2/)|
-|![Spens Fragment example sett](/setts/s32/r17w2db7lo2g33g12db7lo3w2lo3db7g12g33lo2db7w2r50w2db7lo2g33g12db7lo3w2lo3db7g12g33lo2db7w2~x2/sett.png)|
+| [Spens Fragment](/setts/s32/r50w2db7lo2g33g12db7lo3w2lo3db7g12g33lo2db7w2r17~x2/)|
+|![Spens Fragment example sett](/setts/s32/r50w2db7lo2g33g12db7lo3w2lo3db7g12g33lo2db7w2r17~x2/sett.png)|
 

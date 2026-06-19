@@ -22,6 +22,6 @@ RYRBGBBBWBBBGBRY
 
 | Tartans |
 |---------------|
-| [Heirloom Red Alba](/setts/s16/r4ly2r34db10y4db4t4db23w3db23t4db4y4db10r34ly2~x2/)|
-|![Heirloom Red Alba example sett](/setts/s16/r4ly2r34db10y4db4t4db23w3db23t4db4y4db10r34ly2~x2/sett.png)|
+| [Heirloom Red Alba](/setts/s16/r4ly2r34db10y4db4t4db23w3~x2/)|
+|![Heirloom Red Alba example sett](/setts/s16/r4ly2r34db10y4db4t4db23w3~x2/sett.png)|
 

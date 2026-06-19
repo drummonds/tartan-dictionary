@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-K/6 LN42 R32 B40 R6 G6 R6 G6 LN/10
+LN/10 G6 R6 G6 R6 B40 R32 LN42 K/6
 ![Sett](sett.png)
 
 ## Palette
@@ -912,19 +915,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Brunnbauer (2015)](/setts/s8/w4t32w12k5r9lo8r4w4~x2/) — ΔT 0.86
 1. [Oliver Dress (Dance)](/setts/s9/k1w7r6db7r1g1r1g1w1~x4/) — ΔT 0.89
-1. [Stirling & Bannockburn Dress (Dist)](/setts/s10/ly5w3lb28r5k21r5lb3r5w28r5~x2/) — ΔT 0.91
+1. [Stirling & Bannockburn Dress (Dist)](/setts/s10/r5w28r5lb3r5k21r5lb28w3ly5~x2/) — ΔT 0.91
 1. [Ailsa Craig](/setts/s8/r5w2o20ly2k16w18k2w5~x2/) — ΔT 0.96
-1. [Stirling, Bannockburn dress](/setts/s10/ly5w3t28r5k21r5t3r5w28r5~x2/) — ΔT 0.96
+1. [Stirling, Bannockburn dress](/setts/s10/r5w28r5t3r5k21r5t28w3ly5~x2/) — ΔT 0.96
 1. [Ailsa Craig (District)](/setts/s8/r5w2t20ly2k16w18k2w5~x2/) — ΔT 1.05
 1. [Fraser Red Dress](/setts/s7/r4db18r4dg19w25r10w4~x2/) — ΔT 1.07
-1. [Cameron of Erracht Dress](/setts/s11/ly2k2r2db10r1k9w9r2w2r1w2~x2/) — ΔT 1.10
+1. [Cameron of Erracht Dress](/setts/s11/w2r1w2r2w9k9r1db10r2k2ly2~x2/) — ΔT 1.10
 1. [Thousand Islands Int. Council (Corp)](/setts/s8/r22w2db11ly4db11r6db2w10~x2/) — ΔT 1.14
 1. [Unidentified (Fashion)](/setts/s12/w5t2w2t3w17k6n2k2n2k2n14r3~x2/) — ΔT 1.15
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w4t32w12k5r9lo8r4w4~x2/"><circle cx="152.3" cy="155.6" r="4" fill="#3465a4"><title>Brunnbauer (2015)</title></circle></a><a href="/setts/s9/k1w7r6db7r1g1r1g1w1~x4/"><circle cx="95.6" cy="150.3" r="4" fill="#3465a4"><title>Oliver Dress (Dance)</title></circle></a><a href="/setts/s10/ly5w3lb28r5k21r5lb3r5w28r5~x2/"><circle cx="86.0" cy="132.5" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn Dress (Dist)</title></circle></a><a href="/setts/s8/r5w2o20ly2k16w18k2w5~x2/"><circle cx="118.1" cy="147.0" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/setts/s10/ly5w3t28r5k21r5t3r5w28r5~x2/"><circle cx="82.2" cy="134.9" r="4" fill="#3465a4"><title>Stirling, Bannockburn dress</title></circle></a><a href="/setts/s8/r5w2t20ly2k16w18k2w5~x2/"><circle cx="116.6" cy="147.9" r="4" fill="#3465a4"><title>Ailsa Craig (District)</title></circle></a><a href="/setts/s7/r4db18r4dg19w25r10w4~x2/"><circle cx="86.1" cy="191.1" r="4" fill="#3465a4"><title>Fraser Red Dress</title></circle></a><a href="/setts/s11/ly2k2r2db10r1k9w9r2w2r1w2~x2/"><circle cx="88.1" cy="130.2" r="4" fill="#3465a4"><title>Cameron of Erracht Dress</title></circle></a><a href="/setts/s8/r22w2db11ly4db11r6db2w10~x2/"><circle cx="133.9" cy="159.1" r="4" fill="#3465a4"><title>Thousand Islands Int. Council (Corp)</title></circle></a><a href="/setts/s12/w5t2w2t3w17k6n2k2n2k2n14r3~x2/"><circle cx="139.8" cy="132.4" r="4" fill="#3465a4"><title>Unidentified (Fashion)</title></circle></a><circle cx="110.8" cy="154.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w4t32w12k5r9lo8r4w4~x2/"><circle cx="152.0" cy="155.6" r="4" fill="#3465a4"><title>Brunnbauer (2015)</title></circle></a><a href="/setts/s9/k1w7r6db7r1g1r1g1w1~x4/"><circle cx="95.5" cy="150.3" r="4" fill="#3465a4"><title>Oliver Dress (Dance)</title></circle></a><a href="/setts/s10/r5w28r5lb3r5k21r5lb28w3ly5~x2/"><circle cx="85.8" cy="132.5" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn Dress (Dist)</title></circle></a><a href="/setts/s8/r5w2o20ly2k16w18k2w5~x2/"><circle cx="117.9" cy="146.9" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/setts/s10/r5w28r5t3r5k21r5t28w3ly5~x2/"><circle cx="82.1" cy="134.9" r="4" fill="#3465a4"><title>Stirling, Bannockburn dress</title></circle></a><a href="/setts/s8/r5w2t20ly2k16w18k2w5~x2/"><circle cx="116.4" cy="147.8" r="4" fill="#3465a4"><title>Ailsa Craig (District)</title></circle></a><a href="/setts/s7/r4db18r4dg19w25r10w4~x2/"><circle cx="86.0" cy="191.0" r="4" fill="#3465a4"><title>Fraser Red Dress</title></circle></a><a href="/setts/s11/w2r1w2r2w9k9r1db10r2k2ly2~x2/"><circle cx="88.0" cy="130.2" r="4" fill="#3465a4"><title>Cameron of Erracht Dress</title></circle></a><a href="/setts/s8/r22w2db11ly4db11r6db2w10~x2/"><circle cx="133.7" cy="159.1" r="4" fill="#3465a4"><title>Thousand Islands Int. Council (Corp)</title></circle></a><a href="/setts/s12/w5t2w2t3w17k6n2k2n2k2n14r3~x2/"><circle cx="139.6" cy="132.4" r="4" fill="#3465a4"><title>Unidentified (Fashion)</title></circle></a><circle cx="110.6" cy="154.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/w5g3r3g3r3db20r16w21k3~x2/

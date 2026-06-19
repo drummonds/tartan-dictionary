@@ -23,13 +23,13 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Quinn (Personal)](/setts/s9/ly1b8k4g1dg4g1k4b8r1~x6/)|
-|![Quinn (Personal) example sett](/setts/s9/ly1b8k4g1dg4g1k4b8r1~x6/sett.png)|
+| [Quinn (Personal)](/setts/s9/r1b8k4g1dg4g1k4b8ly1~x6/)|
+|![Quinn (Personal) example sett](/setts/s9/r1b8k4g1dg4g1k4b8ly1~x6/sett.png)|
 
 ### R N K G G G K N LY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R N K G G G K N LY</span></span>
 
 | Tartans |
 |---------------|
-| [Quinn](/setts/s9/ly1n8k4g1g4g1k4n8r1~x6/)|
-|![Quinn example sett](/setts/s9/ly1n8k4g1g4g1k4n8r1~x6/sett.png)|
+| [Quinn](/setts/s9/r1n8k4g1g4g1k4n8ly1~x6/)|
+|![Quinn example sett](/setts/s9/r1n8k4g1g4g1k4n8ly1~x6/sett.png)|
 

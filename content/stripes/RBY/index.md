@@ -8,7 +8,7 @@ RBY
 
 It is a 3 band tartan.
 
-![Woven sample](/setts/s3/ly1db1r1~x40/tartan.png)
+![Woven sample](/setts/s3/r1db1ly1~x40/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RBY
 
 | Tartans |
 |---------------|
-| [Mothers Pride](/setts/s3/ly1db1r1~x40/)|
-|![Mothers Pride example sett](/setts/s3/ly1db1r1~x40/sett.png)|
+| [Mothers Pride](/setts/s3/r1db1ly1~x40/)|
+|![Mothers Pride example sett](/setts/s3/r1db1ly1~x40/sett.png)|
 

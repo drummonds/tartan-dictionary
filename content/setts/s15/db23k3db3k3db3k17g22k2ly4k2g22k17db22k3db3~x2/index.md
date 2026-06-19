@@ -2,7 +2,7 @@
 title: "Gordon 2"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKGKYKGKBKB](/stripes/bkbkbkgkykgkbkb/) · **Stripes:** [DB K DB K DB K G K LY K G K DB K DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DB K G K LY K G K DB K DB</span></span>
+**Bands:** [BKBKGKYKGKBKBKB](/stripes/bkbkgkykgkbkbkb/) · **Stripes:** [DB K DB K G K LY K G K DB K DB K DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K G K LY K G K DB K DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -909,14 +912,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Forbes](/setts/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x2/) — ΔT 0.71
 1. [Murray of Atholl](/setts/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/) — ΔT 0.78
 1. [Arbuthnott](/setts/s17/db18k4db4k4db4k19g7w2g8db8g8w2g7k19db19k4db4~x2/) — ΔT 0.89
-1. [Norwich No.115](/setts/s14/k6lt1g6k1g6lt1k6db10k6lt1g6k1g6lt1~x2/) — ΔT 0.92
-1. [Louise](/setts/s11/db1k1db9k6g1k1g1k1g6r1k1~x2/) — ΔT 0.94
+1. [Norwich No.115](/setts/s14/db10k6lt1g6k1g6lt1k6~x2/) — ΔT 0.92
+1. [Louise](/setts/s11/k1r1g6k1g1k1g1k6db9k1db1~x2/) — ΔT 0.94
 1. [MacKinlay](/setts/s15/db6k2db2k2db2k6g8k1r2k1g8k6db8k2db2~x2/) — ΔT 0.95
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/"><circle cx="166.2" cy="172.9" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="149.4" cy="183.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s13/db8k1db1k1db1k8ly1g14ly1k8db8k1db1~x2/"><circle cx="181.8" cy="151.2" r="4" fill="#3465a4"><title>Campbell of Breadalbane</title></circle></a><a href="/setts/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/"><circle cx="155.8" cy="181.3" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x2/"><circle cx="150.6" cy="183.4" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/"><circle cx="146.7" cy="177.6" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/setts/s17/db18k4db4k4db4k19g7w2g8db8g8w2g7k19db19k4db4~x2/"><circle cx="165.6" cy="178.7" r="4" fill="#3465a4"><title>Arbuthnott</title></circle></a><a href="/setts/s14/k6lt1g6k1g6lt1k6db10k6lt1g6k1g6lt1~x2/"><circle cx="159.3" cy="187.0" r="4" fill="#3465a4"><title>Norwich No.115</title></circle></a><a href="/setts/s11/db1k1db9k6g1k1g1k1g6r1k1~x2/"><circle cx="173.4" cy="173.9" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/setts/s15/db6k2db2k2db2k6g8k1r2k1g8k6db8k2db2~x2/"><circle cx="133.6" cy="194.8" r="4" fill="#3465a4"><title>MacKinlay</title></circle></a><circle cx="166.9" cy="163.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/"><circle cx="166.3" cy="172.9" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="149.6" cy="183.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s13/db8k1db1k1db1k8ly1g14ly1k8db8k1db1~x2/"><circle cx="181.9" cy="151.2" r="4" fill="#3465a4"><title>Campbell of Breadalbane</title></circle></a><a href="/setts/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/"><circle cx="156.0" cy="181.3" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x2/"><circle cx="150.8" cy="183.3" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/"><circle cx="146.8" cy="177.6" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/setts/s17/db18k4db4k4db4k19g7w2g8db8g8w2g7k19db19k4db4~x2/"><circle cx="165.8" cy="178.6" r="4" fill="#3465a4"><title>Arbuthnott</title></circle></a><a href="/setts/s14/db10k6lt1g6k1g6lt1k6~x2/"><circle cx="159.5" cy="186.9" r="4" fill="#3465a4"><title>Norwich No.115</title></circle></a><a href="/setts/s11/k1r1g6k1g1k1g1k6db9k1db1~x2/"><circle cx="173.5" cy="173.8" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/setts/s15/db6k2db2k2db2k6g8k1r2k1g8k6db8k2db2~x2/"><circle cx="133.8" cy="194.8" r="4" fill="#3465a4"><title>MacKinlay</title></circle></a><circle cx="167.0" cy="163.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/db23k3db3k3db3k17g22k2ly4k2g22k17db22k3db3~x2/

@@ -2,12 +2,18 @@
 title: "MacPherson of Pitmain"
 date: 2023-03-18
 ---
-**Bands:** [BRGRBRKRB](/stripes/brgrbrkrb/) · **Stripes:** [DB R Y R DB R K R DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R Y R DB R K R DB</span></span>
+**Bands:** [BRKRBRGRB](/stripes/brkrbrgrb/) · **Stripes:** [DB R K R DB R Y R DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R K R DB R Y R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacPherson of Pitmain
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,19 +920,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacPherson Hunting](/setts/s9/db1r1k8r1db1r1y8r1db1~x2/) — ΔT 0.33
 1. [MacPherson Hunting](/setts/s9/db1r1k8r1db1r1n8r1db1~x2/) — ΔT 0.51
-1. [MacPherson Hunting Clan Tartan Tartan Number: 547. Earliest known date: 1850 This version also appears in Grants 'Tartans of the Clans of Scotland' (1886). D.W.Stewart said (in 1893) "it was the earliest known to have been worn by the clan, and is reputed to have been worn in two forms; as a clan tartan with a white ground and as a hunting tartan with a grey ground". It appeared first in Smiths work of 1850, 'Authenticated Tartans of the Clans and Families of Scotland'. Originally recorded in the Urquhart Register as MacPherson of Pitmain. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/db1r1k8r1db1r1o8r1db1~x4/) — ΔT 0.91
+1. [MacPherson Hunting Clan Tartan Tartan Number: 547. Earliest known date: 1850 This version also appears in Grants 'Tartans of the Clans of Scotland' (1886). D.W.Stewart said (in 1893) "it was the earliest known to have been worn by the clan, and is reputed to have been worn in two forms; as a clan tartan with a white ground and as a hunting tartan with a grey ground". It appeared first in Smiths work of 1850, 'Authenticated Tartans of the Clans and Families of Scotland'. Originally recorded in the Urquhart Register as MacPherson of Pitmain. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/db1r1k8r1db1r1o8r1db1~x4/) — ΔT 0.92
 1. [MacPherson Htg](/setts/s9/b1r1k8r1b1r1o8r1b1~x4/) — ΔT 1.01
 1. [MacPherson of Pitmain](/setts/s9/db1r1k8r1db1r1w8r1db1~x4/) — ΔT 1.18
-1. [Forbes](/setts/s9/db28k3db6k3db6k20o28k3w6~x2/) — ΔT 1.25
+1. [Forbes](/setts/s9/db28k3db6k3db6k20o28k3w6~x2/) — ΔT 1.24
 1. [North Berwick Pipe Band (Dancing)](/setts/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/) — ΔT 1.27
 1. [Aitken](/setts/s8/lo5db2k2db12k16r20k2r4~x2/) — ΔT 1.30
 1. [Matthew Gloag](/setts/s10/g3r20k2db3k13db3k2g20r3db2~x2/) — ΔT 1.31
-1. [Gipsy](/setts/s9/k1r1db5r1w1r1k5r1k1~x2/) — ΔT 1.31
+1. [Gipsy](/setts/s9/k1r1k5r1w1r1db5r1k1~x2/) — ΔT 1.31
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db1r1k8r1db1r1y8r1db1~x2/"><circle cx="170.2" cy="167.9" r="4" fill="#3465a4"><title>MacPherson Hunting</title></circle></a><a href="/setts/s9/db1r1k8r1db1r1n8r1db1~x2/"><circle cx="176.8" cy="171.3" r="4" fill="#3465a4"><title>MacPherson Hunting</title></circle></a><a href="/setts/s9/db1r1k8r1db1r1o8r1db1~x4/"><circle cx="187.0" cy="170.4" r="4" fill="#3465a4"><title>MacPherson Hunting Clan Tartan Tartan Number: 547. Earliest known date: 1850 This version also appears in Grants 'Tartans of the Clans of Scotland' (1886). D.W.Stewart said (in 1893) &quot;it was the earliest known to have been worn by the clan, and is reputed to have been worn in two forms; as a clan tartan with a white ground and as a hunting tartan with a grey ground&quot;. It appeared first in Smiths work of 1850, 'Authenticated Tartans of the Clans and Families of Scotland'. Originally recorded in the Urquhart Register as MacPherson of Pitmain. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/b1r1k8r1b1r1o8r1b1~x4/"><circle cx="185.3" cy="170.1" r="4" fill="#3465a4"><title>MacPherson Htg</title></circle></a><a href="/setts/s9/db1r1k8r1db1r1w8r1db1~x4/"><circle cx="151.8" cy="152.0" r="4" fill="#3465a4"><title>MacPherson of Pitmain</title></circle></a><a href="/setts/s9/db28k3db6k3db6k20o28k3w6~x2/"><circle cx="179.7" cy="185.3" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/"><circle cx="185.0" cy="180.9" r="4" fill="#3465a4"><title>North Berwick Pipe Band (Dancing)</title></circle></a><a href="/setts/s8/lo5db2k2db12k16r20k2r4~x2/"><circle cx="188.2" cy="189.3" r="4" fill="#3465a4"><title>Aitken</title></circle></a><a href="/setts/s10/g3r20k2db3k13db3k2g20r3db2~x2/"><circle cx="157.2" cy="161.0" r="4" fill="#3465a4"><title>Matthew Gloag</title></circle></a><a href="/setts/s9/k1r1db5r1w1r1k5r1k1~x2/"><circle cx="164.4" cy="201.3" r="4" fill="#3465a4"><title>Gipsy</title></circle></a><circle cx="168.7" cy="164.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db1r1k8r1db1r1y8r1db1~x2/"><circle cx="170.3" cy="167.9" r="4" fill="#3465a4"><title>MacPherson Hunting</title></circle></a><a href="/setts/s9/db1r1k8r1db1r1n8r1db1~x2/"><circle cx="176.9" cy="171.3" r="4" fill="#3465a4"><title>MacPherson Hunting</title></circle></a><a href="/setts/s9/db1r1k8r1db1r1o8r1db1~x4/"><circle cx="187.0" cy="170.4" r="4" fill="#3465a4"><title>MacPherson Hunting Clan Tartan Tartan Number: 547. Earliest known date: 1850 This version also appears in Grants 'Tartans of the Clans of Scotland' (1886). D.W.Stewart said (in 1893) &quot;it was the earliest known to have been worn by the clan, and is reputed to have been worn in two forms; as a clan tartan with a white ground and as a hunting tartan with a grey ground&quot;. It appeared first in Smiths work of 1850, 'Authenticated Tartans of the Clans and Families of Scotland'. Originally recorded in the Urquhart Register as MacPherson of Pitmain. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/b1r1k8r1b1r1o8r1b1~x4/"><circle cx="185.2" cy="170.1" r="4" fill="#3465a4"><title>MacPherson Htg</title></circle></a><a href="/setts/s9/db1r1k8r1db1r1w8r1db1~x4/"><circle cx="151.7" cy="151.9" r="4" fill="#3465a4"><title>MacPherson of Pitmain</title></circle></a><a href="/setts/s9/db28k3db6k3db6k20o28k3w6~x2/"><circle cx="179.8" cy="185.3" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/"><circle cx="185.1" cy="180.8" r="4" fill="#3465a4"><title>North Berwick Pipe Band (Dancing)</title></circle></a><a href="/setts/s8/lo5db2k2db12k16r20k2r4~x2/"><circle cx="188.4" cy="189.3" r="4" fill="#3465a4"><title>Aitken</title></circle></a><a href="/setts/s10/g3r20k2db3k13db3k2g20r3db2~x2/"><circle cx="157.2" cy="161.0" r="4" fill="#3465a4"><title>Matthew Gloag</title></circle></a><a href="/setts/s9/k1r1k5r1w1r1db5r1k1~x2/"><circle cx="164.5" cy="201.2" r="4" fill="#3465a4"><title>Gipsy</title></circle></a><circle cx="168.8" cy="164.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/db1r1k8r1db1r1y8r1db1~x4/

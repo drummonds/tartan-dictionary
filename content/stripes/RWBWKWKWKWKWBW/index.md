@@ -22,6 +22,6 @@ RWBWKWKWKWKWBW
 
 | Tartans |
 |---------------|
-| [Scott, Sir Walter #2](/setts/s14/r2w2db3w4k4w4k4w4k4w4k4w4db3w2~x2/)|
-|![Scott, Sir Walter #2 example sett](/setts/s14/r2w2db3w4k4w4k4w4k4w4k4w4db3w2~x2/sett.png)|
+| [Scott, Sir Walter #2](/setts/s14/w4k4w4k4w4db3w2r2~x2/)|
+|![Scott, Sir Walter #2 example sett](/setts/s14/w4k4w4k4w4db3w2r2~x2/sett.png)|
 

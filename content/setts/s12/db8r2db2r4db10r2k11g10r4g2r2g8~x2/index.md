@@ -2,12 +2,18 @@
 title: "MacDonald 2"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBRKGRGRG](/stripes/brbrbrkgrgrg/) · **Stripes:** [DB R DB R DB R K G R G R G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB R DB R DB R K G R G R G</span></span>
+**Bands:** [GRGRGKRBRBRB](/stripes/grgrgkrbrbrb/) · **Stripes:** [G R G R G K R DB R DB R DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G R G R G K R DB R DB R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacDonald #6
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -898,7 +907,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/16 R4 B4 R8 B20 R4 K22 G20 R8 G4 R4 G/16
+G/16 R4 G4 R8 G20 K22 R4 B20 R8 B4 R4 B/16
 ![Sett](sett.png)
 
 ## Palette
@@ -928,8 +937,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db7r3db9r2k10g9r3g2r2g7~x2/"><circle cx="95.5" cy="230.6" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/setts/s14/g4k1g1k1g1k5db5r2db2r2db5g5k1g1~x2/"><circle cx="102.1" cy="210.9" r="4" fill="#3465a4"><title>MacLachlan, Hunting</title></circle></a><a href="/setts/s12/db11r2db2r4db15r2k15g15r4g2r2g11~x2/"><circle cx="129.2" cy="190.6" r="4" fill="#3465a4"><title>MacDonald 7</title></circle></a><a href="/setts/s16/g6ly1r2ly1r2ly1db6ly1db6ly1r2ly1r2ly1g6r1~x8/"><circle cx="107.5" cy="177.8" r="4" fill="#3465a4"><title>Stevenson (Personal)</title></circle></a><a href="/setts/s13/db3r1db1r2db6r1k6g6r2g1r1g2ly1~x2/"><circle cx="79.7" cy="173.2" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/setts/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/"><circle cx="128.7" cy="195.8" r="4" fill="#3465a4"><title>Unidentified Sample #2</title></circle></a><a href="/setts/s12/db10p2db3r4db14r2k14g14r4g3p2g10~x2/"><circle cx="100.8" cy="184.2" r="4" fill="#3465a4"><title>Denovan, The Lairdship of..</title></circle></a><a href="/setts/s12/m4g14o2g4o2k6g3k6db14m2db4m4~x2/"><circle cx="92.3" cy="180.1" r="4" fill="#3465a4"><title>Kinloch Anderson, hunting</title></circle></a><a href="/setts/s9/g12k2r12k3y12k16y12k3r6~x2/"><circle cx="100.0" cy="214.0" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s10/g12k14t11r3t3r3t11k14g12t3~x2/"><circle cx="107.9" cy="246.7" r="4" fill="#3465a4"><title>Wellington (Wilson) #2</title></circle></a><circle cx="95.7" cy="211.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db7r3db9r2k10g9r3g2r2g7~x2/"><circle cx="95.6" cy="230.6" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/setts/s14/g4k1g1k1g1k5db5r2db2r2db5g5k1g1~x2/"><circle cx="102.2" cy="210.9" r="4" fill="#3465a4"><title>MacLachlan, Hunting</title></circle></a><a href="/setts/s12/db11r2db2r4db15r2k15g15r4g2r2g11~x2/"><circle cx="129.2" cy="190.6" r="4" fill="#3465a4"><title>MacDonald 7</title></circle></a><a href="/setts/s16/g6ly1r2ly1r2ly1db6ly1db6ly1r2ly1r2ly1g6r1~x8/"><circle cx="107.4" cy="177.9" r="4" fill="#3465a4"><title>Stevenson (Personal)</title></circle></a><a href="/setts/s13/db3r1db1r2db6r1k6g6r2g1r1g2ly1~x2/"><circle cx="79.8" cy="173.3" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/setts/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/"><circle cx="128.8" cy="195.8" r="4" fill="#3465a4"><title>Unidentified Sample #2</title></circle></a><a href="/setts/s12/db10p2db3r4db14r2k14g14r4g3p2g10~x2/"><circle cx="100.9" cy="184.3" r="4" fill="#3465a4"><title>Denovan, The Lairdship of..</title></circle></a><a href="/setts/s12/m4g14o2g4o2k6g3k6db14m2db4m4~x2/"><circle cx="92.4" cy="180.2" r="4" fill="#3465a4"><title>Kinloch Anderson, hunting</title></circle></a><a href="/setts/s9/g12k2r12k3y12k16y12k3r6~x2/"><circle cx="100.2" cy="213.9" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s10/g12k14t11r3t3r3t11k14g12t3~x2/"><circle cx="108.0" cy="246.7" r="4" fill="#3465a4"><title>Wellington (Wilson) #2</title></circle></a><circle cx="95.8" cy="211.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/db8r2db2r4db10r2k11g10r4g2r2g8~x2/

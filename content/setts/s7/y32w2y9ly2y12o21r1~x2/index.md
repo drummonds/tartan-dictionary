@@ -2,12 +2,18 @@
 title: "Weathered Cyclist"
 date: 2023-03-18
 ---
-**Bands:** [GWGYGRR](/stripes/gwgygrr/) · **Stripes:** [Y W Y LY Y O R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">Y W Y LY Y O R</span></span>
+**Bands:** [RRGYGWG](/stripes/rrgygwg/) · **Stripes:** [R O Y LY Y W Y](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R O Y LY Y W Y</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10732
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Weathered Cyclist Commemorative
 
 ## Attestations
 
@@ -23,7 +29,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10732](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10732)
 
 ## Thread count
-DR/2 LT42 G24 Y4 G18 W4 G/64
+G/64 W4 G18 Y4 G24 LT42 DR/2
 ![Sett](sett.png)
 
 ## Palette
@@ -39,7 +45,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/2 LT42 G24 Y4 G18 W4 G/64 tartan")
+![Tartan detail](tartan.png "G/64 W4 G18 Y4 G24 LT42 DR/2 tartan")
 
 ## Nearest tartans
 
@@ -58,8 +64,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/y23o4dy6g6y4lb1y4~x4/"><circle cx="506.9" cy="221.4" r="4" fill="#3465a4"><title>Tricor (Corporate)</title></circle></a><a href="/setts/s4/y9y52dy15ly4~x2/"><circle cx="538.1" cy="304.0" r="4" fill="#3465a4"><title>McGuigan, Julia (St Monans, Fife) (Personal)</title></circle></a><a href="/setts/s6/y52ly2n24r3lo26n4~x2/"><circle cx="424.5" cy="230.1" r="4" fill="#3465a4"><title>Outlander #1</title></circle></a><a href="/setts/s6/o52ly2n24r3lo26n4~x2/"><circle cx="409.5" cy="220.9" r="4" fill="#3465a4"><title>Outlander #1</title></circle></a><a href="/setts/s7/o32w2o9ly2o12lo21r1~x2/"><circle cx="610.1" cy="249.2" r="4" fill="#3465a4"><title>Weathered Cyclist (Corporate)</title></circle></a><a href="/setts/s4/y50dy25ly2dp6~x2/"><circle cx="506.0" cy="261.8" r="4" fill="#3465a4"><title>Highland Greenford (Personal)</title></circle></a><a href="/setts/s8/n8o74lb8n42o11dp2o16n4/"><circle cx="525.0" cy="194.5" r="4" fill="#3465a4"><title>Orkney Slate (Fashion)</title></circle></a><a href="/setts/s11/o55y6y3lb3y3lb3y10y5y5lr2y3~x2/"><circle cx="480.9" cy="154.4" r="4" fill="#3465a4"><title>Long Way Down, The (Corporate)</title></circle></a><a href="/setts/s4/w4o28t48ly3~x2/"><circle cx="502.0" cy="294.1" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Dress (Clan)</title></circle></a><a href="/setts/s4/y22dp1y22r4~x4/"><circle cx="469.1" cy="293.2" r="4" fill="#3465a4"><title>McWilliams (2014)</title></circle></a><circle cx="561.4" cy="225.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/y23o4dy6g6y4lb1y4~x4/"><circle cx="506.5" cy="221.6" r="4" fill="#3465a4"><title>Tricor (Corporate)</title></circle></a><a href="/setts/s4/y9y52dy15ly4~x2/"><circle cx="537.8" cy="304.1" r="4" fill="#3465a4"><title>McGuigan, Julia (St Monans, Fife) (Personal)</title></circle></a><a href="/setts/s6/y52ly2n24r3lo26n4~x2/"><circle cx="424.2" cy="230.4" r="4" fill="#3465a4"><title>Outlander #1</title></circle></a><a href="/setts/s6/o52ly2n24r3lo26n4~x2/"><circle cx="409.2" cy="221.1" r="4" fill="#3465a4"><title>Outlander #1</title></circle></a><a href="/setts/s7/o32w2o9ly2o12lo21r1~x2/"><circle cx="609.5" cy="249.5" r="4" fill="#3465a4"><title>Weathered Cyclist (Corporate)</title></circle></a><a href="/setts/s4/y50dy25ly2dp6~x2/"><circle cx="505.7" cy="261.9" r="4" fill="#3465a4"><title>Highland Greenford (Personal)</title></circle></a><a href="/setts/s8/n8o74lb8n42o11dp2o16n4/"><circle cx="524.6" cy="194.5" r="4" fill="#3465a4"><title>Orkney Slate (Fashion)</title></circle></a><a href="/setts/s11/o55y6y3lb3y3lb3y10y5y5lr2y3~x2/"><circle cx="480.4" cy="154.8" r="4" fill="#3465a4"><title>Long Way Down, The (Corporate)</title></circle></a><a href="/setts/s4/w4o28t48ly3~x2/"><circle cx="501.6" cy="294.2" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Dress (Clan)</title></circle></a><a href="/setts/s4/y22dp1y22r4~x4/"><circle cx="468.9" cy="293.4" r="4" fill="#3465a4"><title>McWilliams (2014)</title></circle></a><circle cx="560.9" cy="225.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/y32w2y9ly2y12o21r1~x2/

@@ -1,8 +1,8 @@
 ---
-title: "Dege of Saville Row"
+title: "Dege, of Saville Row"
 date: 2023-03-18
 ---
-A family of [Clan Dege](/clan/dege/).
+A family of [Clan Dege,](/clan/dege/).
 
 **Trove of Scotland:** [search “Saville Row”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Saville+Row&viewmode=grid)
 

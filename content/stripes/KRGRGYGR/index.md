@@ -28,6 +28,4 @@ KRGRGYGR
 |![Comyn example sett](/setts/s8/k1r9dg2r2dg4lr1dg4r1~x2/sett.png)|
 | [Cumming SM](/setts/s8/r3dg9lr1dg9r3dg6r18k2~x2/)|
 |![Cumming SM example sett](/setts/s8/r3dg9lr1dg9r3dg6r18k2~x2/sett.png)|
-| [Comyn](/setts/s8/k1r9dg2r2dg4lr1dg4r1/)|
-|![Comyn example sett](/setts/s8/k1r9dg2r2dg4lr1dg4r1/sett.png)|
 

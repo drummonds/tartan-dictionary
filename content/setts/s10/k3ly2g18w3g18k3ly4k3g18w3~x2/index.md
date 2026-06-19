@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Forrester / Foster, hunting
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -930,8 +939,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k3ly2g18w3g13k3ly4k3g18w3~x2/"><circle cx="165.3" cy="168.1" r="4" fill="#3465a4"><title>Forrester/Foster Hunting</title></circle></a><a href="/setts/s11/g1k1g9k7ly1g5g4w2g1w1g1~x4/"><circle cx="187.2" cy="163.8" r="4" fill="#3465a4"><title>Parkhead</title></circle></a><a href="/setts/s9/g16ly2g4ly2g5k14g28ly2g7~x2/"><circle cx="207.4" cy="171.6" r="4" fill="#3465a4"><title>Marie Curie Fields of Hope</title></circle></a><a href="/setts/s7/ly17w7ly6g43k5o6k13~x2/"><circle cx="142.3" cy="163.1" r="4" fill="#3465a4"><title>Keeling Dress</title></circle></a><a href="/setts/s7/g18k2lr2k2t3k2ly6~x4/"><circle cx="209.8" cy="159.7" r="4" fill="#3465a4"><title>Alberta</title></circle></a><a href="/setts/s7/m5dg27o2g25ly7dg3m3~x2/"><circle cx="202.8" cy="165.0" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/setts/s11/k1g3w3g15k1g3g2k1g1lg1w1~x2/"><circle cx="281.3" cy="123.1" r="4" fill="#3465a4"><title>University of North Texas</title></circle></a><a href="/setts/s9/g40k8g4k8g4m14g64t9g3/"><circle cx="231.5" cy="134.4" r="4" fill="#3465a4"><title>West Lothian/Linlithgowshire</title></circle></a><a href="/setts/s12/g8ly2db3ly2g16ly10g3w6g1ly3g1w6~x2/"><circle cx="191.5" cy="132.8" r="4" fill="#3465a4"><title>Green Bay, Wisconsin (District)</title></circle></a><a href="/setts/s15/y8g2k2w2g8y2g8w2k2g3g2w2g1y2k2~x2/"><circle cx="139.2" cy="164.7" r="4" fill="#3465a4"><title>Gayre Dress</title></circle></a><circle cx="179.4" cy="164.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k3ly2g18w3g13k3ly4k3g18w3~x2/"><circle cx="165.2" cy="168.0" r="4" fill="#3465a4"><title>Forrester/Foster Hunting</title></circle></a><a href="/setts/s11/g1k1g9k7ly1g5g4w2g1w1g1~x4/"><circle cx="187.1" cy="163.7" r="4" fill="#3465a4"><title>Parkhead</title></circle></a><a href="/setts/s9/g16ly2g4ly2g5k14g28ly2g7~x2/"><circle cx="207.3" cy="171.4" r="4" fill="#3465a4"><title>Marie Curie Fields of Hope</title></circle></a><a href="/setts/s7/ly17w7ly6g43k5o6k13~x2/"><circle cx="142.1" cy="163.0" r="4" fill="#3465a4"><title>Keeling Dress</title></circle></a><a href="/setts/s7/g18k2lr2k2t3k2ly6~x4/"><circle cx="209.6" cy="159.6" r="4" fill="#3465a4"><title>Alberta</title></circle></a><a href="/setts/s7/m5dg27o2g25ly7dg3m3~x2/"><circle cx="202.7" cy="165.0" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/setts/s11/k1g3w3g15k1g3g2k1g1lg1w1~x2/"><circle cx="281.0" cy="123.0" r="4" fill="#3465a4"><title>University of North Texas</title></circle></a><a href="/setts/s9/g40k8g4k8g4m14g64t9g3/"><circle cx="231.3" cy="134.4" r="4" fill="#3465a4"><title>West Lothian/Linlithgowshire</title></circle></a><a href="/setts/s12/g8ly2db3ly2g16ly10g3w6g1ly3g1w6~x2/"><circle cx="191.2" cy="132.7" r="4" fill="#3465a4"><title>Green Bay, Wisconsin (District)</title></circle></a><a href="/setts/s15/y8g2k2w2g8y2g8w2k2g3g2w2g1y2k2~x2/"><circle cx="139.1" cy="164.7" r="4" fill="#3465a4"><title>Gayre Dress</title></circle></a><circle cx="179.2" cy="164.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/k3ly2g18w3g18k3ly4k3g18w3~x2/

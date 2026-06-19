@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,14 +914,14 @@ The nearest existing variants by ΔTartan distance.
 1. [MacKusick (Name)](/setts/s13/db8k2db3k12dp3lb1dp3k16g3lb2r1lb2g8~x2/) — ΔT 1.27
 1. [Stinson, Ancient](/setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/) — ΔT 1.27
 1. [Veere](/setts/s11/lb7k11lt3db9g19lo3k22db9lt3k3db6~x2/) — ΔT 1.35
-1. [Asman, Dress (Name)](/setts/s11/db4ly3db22o6w2r6w2k6k20r3k4~x2/) — ΔT 1.38
+1. [Asman, Dress (Name)](/setts/s11/k4r3k20k6w2r6w2o6db22ly3db4~x2/) — ΔT 1.38
 1. [Scottish Hockey Union (Sports)](/setts/s11/db50k10db6k10db6dg5lp5dg5p8dg23w5~x2/) — ΔT 1.41
 1. [MacKusick Family Tartan of North America](/setts/s13/db8k2db3k12p3w1p3k16g3w2r1w2g8~x2/) — ΔT 1.42
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db20b6k8ly2k4w4k4db13r7k4r4w2~x2/"><circle cx="129.6" cy="145.6" r="4" fill="#3465a4"><title>Stuart/Stewart Black</title></circle></a><a href="/setts/s11/k3g2k12dt4db19r3db19dt4k12g2ly3~x2/"><circle cx="180.5" cy="159.8" r="4" fill="#3465a4"><title>Loch Lomond Millennium</title></circle></a><a href="/setts/s12/db53g10k20ly5k5w5k7r18db10k6db6w6/"><circle cx="173.6" cy="124.4" r="4" fill="#3465a4"><title>Broager (Name)</title></circle></a><a href="/setts/s13/db8k2db3k12dp3w1dp3k16g3w2r1w2g8~x2/"><circle cx="166.7" cy="118.8" r="4" fill="#3465a4"><title>MacKusick</title></circle></a><a href="/setts/s13/db8k2db3k12dp3lb1dp3k16g3lb2r1lb2g8~x2/"><circle cx="172.5" cy="122.2" r="4" fill="#3465a4"><title>MacKusick (Name)</title></circle></a><a href="/setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/"><circle cx="171.6" cy="141.0" r="4" fill="#3465a4"><title>Stinson, Ancient</title></circle></a><a href="/setts/s11/lb7k11lt3db9g19lo3k22db9lt3k3db6~x2/"><circle cx="82.6" cy="166.5" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/setts/s11/db4ly3db22o6w2r6w2k6k20r3k4~x2/"><circle cx="146.2" cy="132.6" r="4" fill="#3465a4"><title>Asman, Dress (Name)</title></circle></a><a href="/setts/s11/db50k10db6k10db6dg5lp5dg5p8dg23w5~x2/"><circle cx="192.3" cy="140.3" r="4" fill="#3465a4"><title>Scottish Hockey Union (Sports)</title></circle></a><a href="/setts/s13/db8k2db3k12p3w1p3k16g3w2r1w2g8~x2/"><circle cx="169.1" cy="116.8" r="4" fill="#3465a4"><title>MacKusick Family Tartan of North America</title></circle></a><circle cx="138.7" cy="152.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db20b6k8ly2k4w4k4db13r7k4r4w2~x2/"><circle cx="129.7" cy="145.7" r="4" fill="#3465a4"><title>Stuart/Stewart Black</title></circle></a><a href="/setts/s11/k3g2k12dt4db19r3db19dt4k12g2ly3~x2/"><circle cx="180.7" cy="159.9" r="4" fill="#3465a4"><title>Loch Lomond Millennium</title></circle></a><a href="/setts/s12/db53g10k20ly5k5w5k7r18db10k6db6w6/"><circle cx="173.7" cy="124.5" r="4" fill="#3465a4"><title>Broager (Name)</title></circle></a><a href="/setts/s13/db8k2db3k12dp3w1dp3k16g3w2r1w2g8~x2/"><circle cx="166.9" cy="118.9" r="4" fill="#3465a4"><title>MacKusick</title></circle></a><a href="/setts/s13/db8k2db3k12dp3lb1dp3k16g3lb2r1lb2g8~x2/"><circle cx="172.7" cy="122.2" r="4" fill="#3465a4"><title>MacKusick (Name)</title></circle></a><a href="/setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/"><circle cx="171.7" cy="141.0" r="4" fill="#3465a4"><title>Stinson, Ancient</title></circle></a><a href="/setts/s11/lb7k11lt3db9g19lo3k22db9lt3k3db6~x2/"><circle cx="82.9" cy="166.5" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/setts/s11/k4r3k20k6w2r6w2o6db22ly3db4~x2/"><circle cx="146.3" cy="132.7" r="4" fill="#3465a4"><title>Asman, Dress (Name)</title></circle></a><a href="/setts/s11/db50k10db6k10db6dg5lp5dg5p8dg23w5~x2/"><circle cx="192.4" cy="140.4" r="4" fill="#3465a4"><title>Scottish Hockey Union (Sports)</title></circle></a><a href="/setts/s13/db8k2db3k12p3w1p3k16g3w2r1w2g8~x2/"><circle cx="169.3" cy="116.8" r="4" fill="#3465a4"><title>MacKusick Family Tartan of North America</title></circle></a><circle cx="139.0" cy="152.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db20b6k8ly2k4w4k4db13r7k4w2~x2/

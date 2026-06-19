@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,7 +915,7 @@ The nearest existing variants by ΔTartan distance.
 1. [California Highway Patrol (Corporate](/setts/s8/k3y3dy28lo3dy3lo28db3ly2~x2/) — ΔT 0.95
 1. [Snelgrove Htg (Name)](/setts/s7/k3r12dy8lo2g36dy10t2~x2/) — ΔT 0.99
 1. [Allman-Jones (Personal)](/setts/s7/r3w2o7n25k8o15dg2~x2/) — ΔT 1.15
-1. [Pubcrawlers, The](/setts/s7/ly3o16dt5o22dg2o4w3~x2/) — ΔT 1.16
+1. [Pubcrawlers, The](/setts/s7/w3o4dg2o22dt5o16ly3~x2/) — ΔT 1.16
 1. [Allman-Jones (Personal)](/setts/s7/r3w2y7n25k8y15dg2~x2/) — ΔT 1.17
 1. [Barbour Dress](/setts/s7/o4do2o21db11w2o20r3~x2/) — ΔT 1.19
 1. [COG USA, THE](/setts/s6/lo9dg18t9r1w1db1~x4/) — ΔT 1.19
@@ -921,8 +924,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/lb5o49lb3dg24r5lo4dy30lb4~x2/"><circle cx="197.2" cy="135.6" r="4" fill="#3465a4"><title>State Seal of New Mexico (Fashion)</title></circle></a><a href="/setts/s8/k3y3dy28lo3dy3lo28db3ly2~x2/"><circle cx="277.5" cy="145.8" r="4" fill="#3465a4"><title>California Highway Patrol (Corporate</title></circle></a><a href="/setts/s7/k3r12dy8lo2g36dy10t2~x2/"><circle cx="287.6" cy="153.7" r="4" fill="#3465a4"><title>Snelgrove Htg (Name)</title></circle></a><a href="/setts/s7/r3w2o7n25k8o15dg2~x2/"><circle cx="206.3" cy="168.0" r="4" fill="#3465a4"><title>Allman-Jones (Personal)</title></circle></a><a href="/setts/s7/ly3o16dt5o22dg2o4w3~x2/"><circle cx="238.2" cy="164.4" r="4" fill="#3465a4"><title>Pubcrawlers, The</title></circle></a><a href="/setts/s7/r3w2y7n25k8y15dg2~x2/"><circle cx="214.2" cy="174.0" r="4" fill="#3465a4"><title>Allman-Jones (Personal)</title></circle></a><a href="/setts/s7/o4do2o21db11w2o20r3~x2/"><circle cx="190.0" cy="167.3" r="4" fill="#3465a4"><title>Barbour Dress</title></circle></a><a href="/setts/s6/lo9dg18t9r1w1db1~x4/"><circle cx="231.7" cy="147.6" r="4" fill="#3465a4"><title>COG USA, THE</title></circle></a><a href="/setts/s9/db4dg41lo4g4lo4g9o18lo4w4~x2/"><circle cx="209.9" cy="146.9" r="4" fill="#3465a4"><title>Gallagher Irish Fashion Tartan Tartan Number: 4053. Earliest known date: 2001 February See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/dt8y4r30g30lo3g4~x2/"><circle cx="256.2" cy="199.9" r="4" fill="#3465a4"><title>Hutcheson (Name)</title></circle></a><circle cx="244.6" cy="155.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/lb5o49lb3dg24r5lo4dy30lb4~x2/"><circle cx="197.1" cy="135.7" r="4" fill="#3465a4"><title>State Seal of New Mexico (Fashion)</title></circle></a><a href="/setts/s8/k3y3dy28lo3dy3lo28db3ly2~x2/"><circle cx="277.3" cy="146.0" r="4" fill="#3465a4"><title>California Highway Patrol (Corporate</title></circle></a><a href="/setts/s7/k3r12dy8lo2g36dy10t2~x2/"><circle cx="287.5" cy="153.8" r="4" fill="#3465a4"><title>Snelgrove Htg (Name)</title></circle></a><a href="/setts/s7/r3w2o7n25k8o15dg2~x2/"><circle cx="206.2" cy="168.1" r="4" fill="#3465a4"><title>Allman-Jones (Personal)</title></circle></a><a href="/setts/s7/w3o4dg2o22dt5o16ly3~x2/"><circle cx="238.0" cy="164.5" r="4" fill="#3465a4"><title>Pubcrawlers, The</title></circle></a><a href="/setts/s7/r3w2y7n25k8y15dg2~x2/"><circle cx="214.2" cy="174.1" r="4" fill="#3465a4"><title>Allman-Jones (Personal)</title></circle></a><a href="/setts/s7/o4do2o21db11w2o20r3~x2/"><circle cx="189.8" cy="167.4" r="4" fill="#3465a4"><title>Barbour Dress</title></circle></a><a href="/setts/s6/lo9dg18t9r1w1db1~x4/"><circle cx="231.6" cy="147.6" r="4" fill="#3465a4"><title>COG USA, THE</title></circle></a><a href="/setts/s9/db4dg41lo4g4lo4g9o18lo4w4~x2/"><circle cx="209.7" cy="147.0" r="4" fill="#3465a4"><title>Gallagher Irish Fashion Tartan Tartan Number: 4053. Earliest known date: 2001 February See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/dt8y4r30g30lo3g4~x2/"><circle cx="256.0" cy="199.9" r="4" fill="#3465a4"><title>Hutcheson (Name)</title></circle></a><circle cx="244.4" cy="155.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k2o30g4w2g14m13ly2~x2/

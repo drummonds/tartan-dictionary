@@ -8,7 +8,7 @@ RBBGW
 
 It is a 5 band tartan.
 
-![Woven sample](/setts/s5/lb3g47db4n34r3~x2/tartan.png)
+![Woven sample](/setts/s5/r3n34db4g47lb3~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RBBGW
 
 | Tartans |
 |---------------|
-| [Exabyte](/setts/s5/lb3g47db4n34r3~x2/)|
-|![Exabyte example sett](/setts/s5/lb3g47db4n34r3~x2/sett.png)|
+| [Exabyte](/setts/s5/r3n34db4g47lb3~x2/)|
+|![Exabyte example sett](/setts/s5/r3n34db4g47lb3~x2/sett.png)|
 

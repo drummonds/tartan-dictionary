@@ -2,7 +2,7 @@
 title: "Loch Fyne"
 date: 2023-03-18
 ---
-**Bands:** [BBYGGR](/stripes/bbyggr/) · **Stripes:** [T DT LO G DY R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="seq">T DT LO G DY R</span></span>
+**Bands:** [RGGYBB](/stripes/rggybb/) · **Stripes:** [R DY G LO DT T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="seq">R DY G LO DT T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6817
 
 ## Thread count
-B/4 DN20 LT20 G20 T12 R/4
+R/4 T12 G20 LT20 DN20 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -41,14 +41,14 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/4 DN20 LT20 G20 T12 R/4 tartan")
+![Tartan detail](tartan.png "R/4 T12 G20 LT20 DN20 B/4 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Devon, Original](/setts/s7/y5g4w1g4o4dg4ly1~x4/) — ΔT 1.10
-1. [Alabama (Fashion)](/setts/s7/lo3n12r12g16k9lb8r3~x2/) — ΔT 1.23
+1. [Alabama (Fashion)](/setts/s7/r3lb8k9g16r12n12lo3~x2/) — ΔT 1.23
 1. [Devon Original District Tartan Tartan Number: 1284. Earliest known date: 1984 The Devon Original and Devon Companion owe their origin to the success of the Cornish St Piran sett, which was woven by Coldharbour Mill in the early 1980's. The accreditation certificate was presented to the Mayor of Barnstaple in 1991. In a poem describing the tartan, Miss M. Miles says, "So, in the mind, Devon's beauty is retrieved By contemplating Devon's tartan's weave." See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/lr5g4w1g4o4dg4ly1~x4/) — ΔT 1.24
 1. [Rothesay](/setts/s7/g4n12lo2k10y10lo3y2~x2/) — ΔT 1.29
 1. [Mekos, The](/setts/s6/dy19g23ly3db15r11w5~x2/) — ΔT 1.29
@@ -60,8 +60,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/y5g4w1g4o4dg4ly1~x4/"><circle cx="69.2" cy="242.7" r="4" fill="#3465a4"><title>Devon, Original</title></circle></a><a href="/setts/s7/lo3n12r12g16k9lb8r3~x2/"><circle cx="25.7" cy="217.4" r="4" fill="#3465a4"><title>Alabama (Fashion)</title></circle></a><a href="/setts/s7/lr5g4w1g4o4dg4ly1~x4/"><circle cx="71.2" cy="234.5" r="4" fill="#3465a4"><title>Devon Original District Tartan Tartan Number: 1284. Earliest known date: 1984 The Devon Original and Devon Companion owe their origin to the success of the Cornish St Piran sett, which was woven by Coldharbour Mill in the early 1980's. The accreditation certificate was presented to the Mayor of Barnstaple in 1991. In a poem describing the tartan, Miss M. Miles says, &quot;So, in the mind, Devon's beauty is retrieved By contemplating Devon's tartan's weave.&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/g4n12lo2k10y10lo3y2~x2/"><circle cx="104.7" cy="228.6" r="4" fill="#3465a4"><title>Rothesay</title></circle></a><a href="/setts/s6/dy19g23ly3db15r11w5~x2/"><circle cx="70.5" cy="205.8" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/setts/s9/g8y8t7r5o2k2o2k2o2~x2/"><circle cx="14.0" cy="210.3" r="4" fill="#3465a4"><title>Somerset</title></circle></a><a href="/setts/s9/g8o8t7r5dy2k2dy2k2dy2~x2/"><circle cx="28.9" cy="222.5" r="4" fill="#3465a4"><title>Somerset District Tartan Tartan Number: 831. Earliest known date: 1984 Blue is the river at Chatworthy, brown is the withies at Rhines, black is the peat on Sedgemoor. Grey shows the colour of Glastonbury Abbey and Wells Cathedral and pink represents the Cheddar Pinks which grow in the Cheddar Gorge, favourite of Victorian visitors. Green portrays the Quantock hills and the wilderness of Exmoor. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r4g11k11g2n11ly3~x4/"><circle cx="98.3" cy="243.0" r="4" fill="#3465a4"><title>Casely (Name)</title></circle></a><a href="/setts/s7/dy5lo20r3dg13dy13dp3lt3~x2/"><circle cx="134.7" cy="206.0" r="4" fill="#3465a4"><title>Christmas Hill Game Farm</title></circle></a><a href="/setts/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/"><circle cx="109.2" cy="204.7" r="4" fill="#3465a4"><title>Corcoran of Sherbrooke (Personal)</title></circle></a><circle cx="48.1" cy="236.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/y5g4w1g4o4dg4ly1~x4/"><circle cx="69.3" cy="242.8" r="4" fill="#3465a4"><title>Devon, Original</title></circle></a><a href="/setts/s7/r3lb8k9g16r12n12lo3~x2/"><circle cx="25.7" cy="217.5" r="4" fill="#3465a4"><title>Alabama (Fashion)</title></circle></a><a href="/setts/s7/lr5g4w1g4o4dg4ly1~x4/"><circle cx="71.2" cy="234.6" r="4" fill="#3465a4"><title>Devon Original District Tartan Tartan Number: 1284. Earliest known date: 1984 The Devon Original and Devon Companion owe their origin to the success of the Cornish St Piran sett, which was woven by Coldharbour Mill in the early 1980's. The accreditation certificate was presented to the Mayor of Barnstaple in 1991. In a poem describing the tartan, Miss M. Miles says, &quot;So, in the mind, Devon's beauty is retrieved By contemplating Devon's tartan's weave.&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/g4n12lo2k10y10lo3y2~x2/"><circle cx="104.8" cy="228.7" r="4" fill="#3465a4"><title>Rothesay</title></circle></a><a href="/setts/s6/dy19g23ly3db15r11w5~x2/"><circle cx="70.6" cy="205.9" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/setts/s9/g8y8t7r5o2k2o2k2o2~x2/"><circle cx="14.0" cy="210.5" r="4" fill="#3465a4"><title>Somerset</title></circle></a><a href="/setts/s9/g8o8t7r5dy2k2dy2k2dy2~x2/"><circle cx="29.0" cy="222.8" r="4" fill="#3465a4"><title>Somerset District Tartan Tartan Number: 831. Earliest known date: 1984 Blue is the river at Chatworthy, brown is the withies at Rhines, black is the peat on Sedgemoor. Grey shows the colour of Glastonbury Abbey and Wells Cathedral and pink represents the Cheddar Pinks which grow in the Cheddar Gorge, favourite of Victorian visitors. Green portrays the Quantock hills and the wilderness of Exmoor. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r4g11k11g2n11ly3~x4/"><circle cx="98.5" cy="243.1" r="4" fill="#3465a4"><title>Casely (Name)</title></circle></a><a href="/setts/s7/dy5lo20r3dg13dy13dp3lt3~x2/"><circle cx="134.7" cy="206.2" r="4" fill="#3465a4"><title>Christmas Hill Game Farm</title></circle></a><a href="/setts/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/"><circle cx="109.2" cy="204.9" r="4" fill="#3465a4"><title>Corcoran of Sherbrooke (Personal)</title></circle></a><circle cx="48.2" cy="236.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r1dy3g5lo5dt5t1~x4/

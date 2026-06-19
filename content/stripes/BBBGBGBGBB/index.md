@@ -19,14 +19,14 @@ BBBGBGBGBB
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB DP DB DG DB DG DB DG DP DB <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="seq">DB DP DB DG DB DG DB DG DP DB</span></span>
+### DB DP DG DB DG DB DG DB DP DB <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="seq">DB DP DG DB DG DB DG DB DP DB</span></span>
 
 | Tartans |
 |---------------|
 | [Wcwm 1527-2](/setts/s10/db2dp26dg26db2dg3db2dg3db14dp2db2~x2/)|
 |![Wcwm 1527-2 example sett](/setts/s10/db2dp26dg26db2dg3db2dg3db14dp2db2~x2/sett.png)|
 
-### DR DO DT G DT Y DT G DT DO <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#412714"></span><span class="seq">DR DO DT G DT Y DT G DT DO</span></span>
+### DO DT G DT Y DT G DT DO DR <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#55120C"></span><span class="seq">DO DT G DT Y DT G DT DO DR</span></span>
 
 | Tartans |
 |---------------|

@@ -8,7 +8,7 @@ RBBWBBY
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/ly2db36t36w3t36db36r2~x2/tartan.png)
+![Woven sample](/setts/s7/r2db36t36w3t36db36ly2~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RBBWBBY
 
 | Tartans |
 |---------------|
-| [MacKerrell](/setts/s7/ly2db36t36w3t36db36r2~x2/)|
-|![MacKerrell example sett](/setts/s7/ly2db36t36w3t36db36r2~x2/sett.png)|
+| [MacKerrell](/setts/s7/r2db36t36w3t36db36ly2~x2/)|
+|![MacKerrell example sett](/setts/s7/r2db36t36w3t36db36ly2~x2/sett.png)|
 

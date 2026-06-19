@@ -1,10 +1,10 @@
 ---
-title: "MacDonell of Glengarry"
+title: "MacDonell of Glengarry,"
 date: 2023-03-18
 ---
 A family of [Clan MacDonell](/clan/macdonell/).
 
-**Trove of Scotland:** [search “Glengarry”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Glengarry&viewmode=grid)
+**Trove of Scotland:** [search “Glengarry,”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Glengarry%2C&viewmode=grid)
 
 ## Tartan
 

@@ -2,7 +2,7 @@
 title: "Morris of Balgonie"
 date: 2023-03-18
 ---
-**Bands:** [WBRKGY](/stripes/wbrkgy/) · **Stripes:** [W DP R K G LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W DP R K G LY</span></span>
+**Bands:** [YGKRBW](/stripes/ygkrbw/) · **Stripes:** [LY G K R DP W](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY G K R DP W</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,18 +914,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Scotch House 2000, dress](/setts/s7/dg22w3k2ly3k19r18g4~x2/) — ΔT 0.94
 1. [Cowan, of Inveresk](/setts/s8/r4g16w2k15db15k2db2ly2~x2/) — ΔT 1.06
 1. [Cowan of Inveresk (Personal)](/setts/s8/r4dg16w2k15db15k2db2ly2~x2/) — ΔT 1.06
-1. [MacNeil 7](/setts/s7/ly1k3g15k14db16r2w1~x2/) — ΔT 1.07
+1. [MacNeil 7](/setts/s7/w1r2db16k14g15k3ly1~x2/) — ΔT 1.07
 1. [James](/setts/s7/r5k12ly2dg25ly2db12t5~x2/) — ΔT 1.12
 1. [MacWilliam](/setts/s6/r10db24r4k30g36db5/) — ΔT 1.14
-1. [Cumming LO](/setts/s9/b4k2b4k10y1dg10r4lr1r4~x2/) — ΔT 1.14
-1. [Cumming LO](/setts/s9/b4k2b4k10y1dg10r4lr1r4/) — ΔT 1.14
+1. [Cumming LO](/setts/s9/r4lr1r4dg10y1k10b4k2b4~x2/) — ΔT 1.14
 1. [Forsyth](/setts/s6/k2g11ly1k8db9r2~x4/) — ΔT 1.16
 1. [Leslie, hunting](/setts/s6/r2db8k8w1g8k1~x2/) — ΔT 1.19
+1. [Wilson's, No 221](/setts/s6/r1g14k14r2db14t1~x2/) — ΔT 1.20
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/dg22w3k2ly3k19r18g4~x2/"><circle cx="100.9" cy="155.0" r="4" fill="#3465a4"><title>Scotch House 2000, dress</title></circle></a><a href="/setts/s8/r4g16w2k15db15k2db2ly2~x2/"><circle cx="79.2" cy="162.7" r="4" fill="#3465a4"><title>Cowan, of Inveresk</title></circle></a><a href="/setts/s8/r4dg16w2k15db15k2db2ly2~x2/"><circle cx="88.0" cy="167.3" r="4" fill="#3465a4"><title>Cowan of Inveresk (Personal)</title></circle></a><a href="/setts/s7/ly1k3g15k14db16r2w1~x2/"><circle cx="134.8" cy="148.0" r="4" fill="#3465a4"><title>MacNeil 7</title></circle></a><a href="/setts/s7/r5k12ly2dg25ly2db12t5~x2/"><circle cx="143.1" cy="165.1" r="4" fill="#3465a4"><title>James</title></circle></a><a href="/setts/s6/r10db24r4k30g36db5/"><circle cx="109.3" cy="206.2" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/setts/s9/b4k2b4k10y1dg10r4lr1r4~x2/"><circle cx="84.5" cy="166.0" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/setts/s9/b4k2b4k10y1dg10r4lr1r4/"><circle cx="84.5" cy="166.0" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/setts/s6/k2g11ly1k8db9r2~x4/"><circle cx="127.1" cy="197.0" r="4" fill="#3465a4"><title>Forsyth</title></circle></a><a href="/setts/s6/r2db8k8w1g8k1~x2/"><circle cx="107.4" cy="206.5" r="4" fill="#3465a4"><title>Leslie, hunting</title></circle></a><circle cx="101.0" cy="172.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/dg22w3k2ly3k19r18g4~x2/"><circle cx="101.0" cy="155.1" r="4" fill="#3465a4"><title>Scotch House 2000, dress</title></circle></a><a href="/setts/s8/r4g16w2k15db15k2db2ly2~x2/"><circle cx="79.4" cy="162.8" r="4" fill="#3465a4"><title>Cowan, of Inveresk</title></circle></a><a href="/setts/s8/r4dg16w2k15db15k2db2ly2~x2/"><circle cx="88.3" cy="167.4" r="4" fill="#3465a4"><title>Cowan of Inveresk (Personal)</title></circle></a><a href="/setts/s7/w1r2db16k14g15k3ly1~x2/"><circle cx="135.0" cy="148.1" r="4" fill="#3465a4"><title>MacNeil 7</title></circle></a><a href="/setts/s7/r5k12ly2dg25ly2db12t5~x2/"><circle cx="143.4" cy="165.2" r="4" fill="#3465a4"><title>James</title></circle></a><a href="/setts/s6/r10db24r4k30g36db5/"><circle cx="109.5" cy="206.2" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/setts/s9/r4lr1r4dg10y1k10b4k2b4~x2/"><circle cx="84.7" cy="166.1" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/setts/s6/k2g11ly1k8db9r2~x4/"><circle cx="127.4" cy="197.0" r="4" fill="#3465a4"><title>Forsyth</title></circle></a><a href="/setts/s6/r2db8k8w1g8k1~x2/"><circle cx="107.6" cy="206.5" r="4" fill="#3465a4"><title>Leslie, hunting</title></circle></a><a href="/setts/s6/r1g14k14r2db14t1~x2/"><circle cx="141.9" cy="181.7" r="4" fill="#3465a4"><title>Wilson's, No 221</title></circle></a><circle cx="101.3" cy="172.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/w3dp22r3k22g22ly2~x2/

@@ -22,6 +22,6 @@ RKYRWKYKY
 
 | Tartans |
 |---------------|
-| [MacAlister of Skye (Clan?)](/setts/s9/lo4k1lo1k30lb1r26lo1k5r4~x2/)|
-|![MacAlister of Skye (Clan?) example sett](/setts/s9/lo4k1lo1k30lb1r26lo1k5r4~x2/sett.png)|
+| [MacAlister of Skye (Clan?)](/setts/s9/r4k5lo1r26lb1k30lo1k1lo4~x2/)|
+|![MacAlister of Skye (Clan?) example sett](/setts/s9/r4k5lo1r26lb1k30lo1k1lo4~x2/sett.png)|
 

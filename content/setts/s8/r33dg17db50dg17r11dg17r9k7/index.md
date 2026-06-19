@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=568
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Carnegie #3
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -17,7 +23,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1153
 
 ## Thread count
-K/7 R9 G17 R11 G17 B50 G17 R/33
+R/33 G17 B50 G17 R11 G17 R9 K/7
 ![Sett](sett.png)
 
 ## Palette
@@ -32,7 +38,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/7 R9 G17 R11 G17 B50 G17 R/33 tartan")
+![Tartan detail](tartan.png "R/33 G17 B50 G17 R11 G17 R9 K/7 tartan")
 
 ## Nearest tartans
 
@@ -51,8 +57,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r33g17db50g17r11g17r9k7/"><circle cx="158.2" cy="221.0" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/setts/s7/db9r3ly1r3dg9r3ly1~x2/"><circle cx="168.3" cy="206.1" r="4" fill="#3465a4"><title>Logan #2</title></circle></a><a href="/setts/s9/dg12k2r12k3o12k16o12k3r6~x2/"><circle cx="128.0" cy="225.1" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s9/g12k2m12k3o12k16o12k3m6~x2/"><circle cx="124.2" cy="222.5" r="4" fill="#3465a4"><title>Borthwick Family Tartan Tartan Number: 816. Earliest known date: pre 2003 Borthwick is an ancient Scottish family of Celtic origin. William de Borthwick built Borthwick Castle in Midlothian in the 14th century. The present chief of the border family is Major John Henry Stuart Borthwick of Crookston, Midlothian. He was recognised by Lord Lyon as the 23rd Lord Borthwick in 1986. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r2g4db8r9g9k2r2~x4/"><circle cx="160.1" cy="252.5" r="4" fill="#3465a4"><title>Stewart (Artefact)</title></circle></a><a href="/setts/s7/r18db12w2db12dg8r3dg10~x2/"><circle cx="195.0" cy="246.0" r="4" fill="#3465a4"><title>Brough (Name)</title></circle></a><a href="/setts/s8/p11o2p2o2p2o11g14w2~x2/"><circle cx="187.3" cy="211.2" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s8/w2r3dg9r3db2r3db3w1~x6/"><circle cx="158.7" cy="206.4" r="4" fill="#3465a4"><title>Utah (US State)</title></circle></a><a href="/setts/s12/db16r2db2r2g14r13w2r13g14db14r2db2~x2/"><circle cx="178.7" cy="192.2" r="4" fill="#3465a4"><title>Fraser of Lovat</title></circle></a><a href="/setts/s6/t1r6db1t3k3t1~x8/"><circle cx="192.7" cy="234.6" r="4" fill="#3465a4"><title>MacTavish #2</title></circle></a><circle cx="171.9" cy="225.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r33g17db50g17r11g17r9k7/"><circle cx="158.1" cy="221.0" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/setts/s7/db9r3ly1r3dg9r3ly1~x2/"><circle cx="168.2" cy="206.1" r="4" fill="#3465a4"><title>Logan #2</title></circle></a><a href="/setts/s9/dg12k2r12k3o12k16o12k3r6~x2/"><circle cx="128.0" cy="225.1" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s9/g12k2m12k3o12k16o12k3m6~x2/"><circle cx="124.3" cy="222.6" r="4" fill="#3465a4"><title>Borthwick Family Tartan Tartan Number: 816. Earliest known date: pre 2003 Borthwick is an ancient Scottish family of Celtic origin. William de Borthwick built Borthwick Castle in Midlothian in the 14th century. The present chief of the border family is Major John Henry Stuart Borthwick of Crookston, Midlothian. He was recognised by Lord Lyon as the 23rd Lord Borthwick in 1986. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r2g4db8r9g9k2r2~x4/"><circle cx="160.1" cy="252.5" r="4" fill="#3465a4"><title>Stewart (Artefact)</title></circle></a><a href="/setts/s7/r18db12w2db12dg8r3dg10~x2/"><circle cx="195.1" cy="246.0" r="4" fill="#3465a4"><title>Brough (Name)</title></circle></a><a href="/setts/s8/p11o2p2o2p2o11g14w2~x2/"><circle cx="187.2" cy="211.2" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s8/w2r3dg9r3db2r3db3w1~x6/"><circle cx="158.7" cy="206.3" r="4" fill="#3465a4"><title>Utah (US State)</title></circle></a><a href="/setts/s12/db16r2db2r2g14r13w2r13g14db14r2db2~x2/"><circle cx="178.6" cy="192.2" r="4" fill="#3465a4"><title>Fraser of Lovat</title></circle></a><a href="/setts/s6/t1r6db1t3k3t1~x8/"><circle cx="192.7" cy="234.6" r="4" fill="#3465a4"><title>MacTavish #2</title></circle></a><circle cx="171.9" cy="226.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r33dg17db50dg17r11dg17r9k7/

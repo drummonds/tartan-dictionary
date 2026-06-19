@@ -2,12 +2,19 @@
 title: "Campbell of Breadalbane"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKYGYKBKB](/stripes/bkbkbkygykbkb/) · **Stripes:** [DB K DB K DB K LY G LY K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DB K LY G LY K DB K DB</span></span>
+**Bands:** [BKBKYGYKBKBKB](/stripes/bkbkygykbkbkb/) · **Stripes:** [DB K DB K LY G LY K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K LY G LY K DB K DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Breadalbane Fencibles
+- Campbell of Breadalbane
 
 ## Register references
 
@@ -311,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -914,17 +924,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Gordon 3](/setts/s10/db56k6db6k6db6k44g44ly4g5ly8/) — ΔT 0.64
 1. [Rangers F.C.](/setts/s11/r3g16k12db34k12g2k2g2k2g7r3~x2/) — ΔT 0.66
 1. [Hope-Vere / Weir](/setts/s14/g19k1g4k1g3k10db20ly1k7ly1db20k10ly3g1~x2/) — ΔT 0.72
-1. [Louise](/setts/s11/db1k1db9k6g1k1g1k1g6r1k1~x2/) — ΔT 0.77
+1. [Louise](/setts/s11/k1r1g6k1g1k1g1k6db9k1db1~x2/) — ΔT 0.77
 1. [MacDonald 5](/setts/s12/db16r2db2r5db29r2k31g29r5g2r2g16~x2/) — ΔT 0.81
 1. [Safeway](/setts/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/) — ΔT 0.85
 1. [MacDonald 3](/setts/s12/db12r2db2r5db26r2k29g27r5g2r2g12~x2/) — ΔT 0.85
-1. [MacDonald 4](/setts/s12/db17r2db2r6db32r2k34g32r6g2r2g17~x2/) — ΔT 0.85
+1. [MacDonald 4](/setts/s12/db17r2db2r6db32r2k34g32r6g2r2g17~x2/) — ΔT 0.86
 1. [MacNeil of Colonsay](/setts/s13/g16k5g4k8g44k40g4db52r10db4r4db10w6/) — ΔT 0.94
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db23k3db3k3db3k17g22k2ly4k2g22k17db22k3db3~x2/"><circle cx="166.9" cy="163.4" r="4" fill="#3465a4"><title>Gordon 2</title></circle></a><a href="/setts/s10/db56k6db6k6db6k44g44ly4g5ly8/"><circle cx="185.5" cy="156.4" r="4" fill="#3465a4"><title>Gordon 3</title></circle></a><a href="/setts/s11/r3g16k12db34k12g2k2g2k2g7r3~x2/"><circle cx="187.7" cy="141.5" r="4" fill="#3465a4"><title>Rangers F.C.</title></circle></a><a href="/setts/s14/g19k1g4k1g3k10db20ly1k7ly1db20k10ly3g1~x2/"><circle cx="203.8" cy="136.4" r="4" fill="#3465a4"><title>Hope-Vere / Weir</title></circle></a><a href="/setts/s11/db1k1db9k6g1k1g1k1g6r1k1~x2/"><circle cx="173.4" cy="173.9" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/setts/s12/db16r2db2r5db29r2k31g29r5g2r2g16~x2/"><circle cx="172.3" cy="151.8" r="4" fill="#3465a4"><title>MacDonald 5</title></circle></a><a href="/setts/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/"><circle cx="166.2" cy="172.9" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/setts/s12/db12r2db2r5db26r2k29g27r5g2r2g12~x2/"><circle cx="164.7" cy="152.1" r="4" fill="#3465a4"><title>MacDonald 3</title></circle></a><a href="/setts/s12/db17r2db2r6db32r2k34g32r6g2r2g17~x2/"><circle cx="174.9" cy="147.8" r="4" fill="#3465a4"><title>MacDonald 4</title></circle></a><a href="/setts/s13/g16k5g4k8g44k40g4db52r10db4r4db10w6/"><circle cx="141.1" cy="136.0" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><circle cx="181.8" cy="151.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db23k3db3k3db3k17g22k2ly4k2g22k17db22k3db3~x2/"><circle cx="167.0" cy="163.4" r="4" fill="#3465a4"><title>Gordon 2</title></circle></a><a href="/setts/s10/db56k6db6k6db6k44g44ly4g5ly8/"><circle cx="185.6" cy="156.3" r="4" fill="#3465a4"><title>Gordon 3</title></circle></a><a href="/setts/s11/r3g16k12db34k12g2k2g2k2g7r3~x2/"><circle cx="187.7" cy="141.5" r="4" fill="#3465a4"><title>Rangers F.C.</title></circle></a><a href="/setts/s14/g19k1g4k1g3k10db20ly1k7ly1db20k10ly3g1~x2/"><circle cx="203.8" cy="136.4" r="4" fill="#3465a4"><title>Hope-Vere / Weir</title></circle></a><a href="/setts/s11/k1r1g6k1g1k1g1k6db9k1db1~x2/"><circle cx="173.5" cy="173.8" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/setts/s12/db16r2db2r5db29r2k31g29r5g2r2g16~x2/"><circle cx="172.4" cy="151.8" r="4" fill="#3465a4"><title>MacDonald 5</title></circle></a><a href="/setts/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/"><circle cx="166.3" cy="172.9" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/setts/s12/db12r2db2r5db26r2k29g27r5g2r2g12~x2/"><circle cx="164.8" cy="152.1" r="4" fill="#3465a4"><title>MacDonald 3</title></circle></a><a href="/setts/s12/db17r2db2r6db32r2k34g32r6g2r2g17~x2/"><circle cx="174.9" cy="147.8" r="4" fill="#3465a4"><title>MacDonald 4</title></circle></a><a href="/setts/s13/g16k5g4k8g44k40g4db52r10db4r4db10w6/"><circle cx="141.3" cy="136.1" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><circle cx="181.9" cy="151.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db8k1db1k1db1k8ly1g14ly1k8db8k1db1~x2/

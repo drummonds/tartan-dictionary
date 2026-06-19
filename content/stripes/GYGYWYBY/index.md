@@ -8,7 +8,7 @@ GYGYWYBY
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/lo10b4lo54lb32lo2y54lo5y10/tartan.png)
+![Woven sample](/setts/s8/y10lo5y54lo2lb32lo54b4lo10/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ GYGYWYBY
 
 
 
-### Y LO Y LO LB LO B LO <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">Y LO Y LO LB LO B LO</span></span>
+### LO B LO LB LO Y LO Y <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LO B LO LB LO Y LO Y</span></span>
 
 | Tartans |
 |---------------|
-| [Cladish](/setts/s8/lo10b4lo54lb32lo2y54lo5y10/)|
-|![Cladish example sett](/setts/s8/lo10b4lo54lb32lo2y54lo5y10/sett.png)|
+| [Cladish](/setts/s8/y10lo5y54lo2lb32lo54b4lo10/)|
+|![Cladish example sett](/setts/s8/y10lo5y54lo2lb32lo54b4lo10/sett.png)|
 

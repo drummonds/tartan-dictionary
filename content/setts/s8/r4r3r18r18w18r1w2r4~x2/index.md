@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7575/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Gigha, Cherry
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -50,17 +56,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Ferguson's Promise (Commemorative)](/setts/s7/r38k12r15r4r15k2w4~x2/) — ΔT 1.38
 1. [St. Andrews (Queens University) (Cor](/setts/s8/dy11db1dy11w10db1r11db1r11~x2/) — ΔT 1.40
 1. [Glenfinnan](/setts/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/) — ΔT 1.49
-1. [Afternoon Tea / Apple Tea](/setts/s6/ly15r98do72m25do8w15/) — ΔT 1.53
+1. [Afternoon Tea / Apple Tea](/setts/s6/w15do8m25do72r98ly15/) — ΔT 1.53
 1. [Nisbett Rose Dress Family Tartan Tartan Number: 946. Earliest known date: 1981 This is the sett that appears in the Vestiarium Scoticum as Mackintosh. There is no connection between the names, historically, to explain the position and it is interesting to note the similarity with the Dunbar tartan which also originates in the Vestiarium. The Nisbets came from the old barony of Nisbet in the parish of Edrom, Berwickshire, as early as 1160. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/w16k16r40w3r6w3r40k16w16g4/) — ΔT 1.53
-1. [Glassary #2](/setts/s8/db4ly1r12ly2r2ly12r1db4~x4/) — ΔT 1.56
+1. [Glassary #2](/setts/s8/db4r1ly12r2ly2r12ly1db4~x4/) — ΔT 1.56
 1. [Bannockbane](/setts/s8/dr2lo2dr15lo1w10o15lo2o2~x2/) — ΔT 1.56
 1. [Ballater](/setts/s9/r12w2o3w2r3k5r2o18w2~x2/) — ΔT 1.57
 1. [Bannockbane](/setts/s8/dr2r2dr15r1w10o15r2o2~x2/) — ΔT 1.61
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k11r11w11r11r30k3w3~x2/"><circle cx="163.5" cy="176.8" r="4" fill="#3465a4"><title>Swallow (Personal)</title></circle></a><a href="/setts/s7/r38k12r15r4r15k2w4~x2/"><circle cx="235.5" cy="139.0" r="4" fill="#3465a4"><title>Ferguson's Promise (Commemorative)</title></circle></a><a href="/setts/s8/dy11db1dy11w10db1r11db1r11~x2/"><circle cx="200.8" cy="190.2" r="4" fill="#3465a4"><title>St. Andrews (Queens University) (Cor</title></circle></a><a href="/setts/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/"><circle cx="264.3" cy="151.3" r="4" fill="#3465a4"><title>Glenfinnan</title></circle></a><a href="/setts/s6/ly15r98do72m25do8w15/"><circle cx="221.4" cy="162.3" r="4" fill="#3465a4"><title>Afternoon Tea / Apple Tea</title></circle></a><a href="/setts/s10/w16k16r40w3r6w3r40k16w16g4/"><circle cx="114.1" cy="128.6" r="4" fill="#3465a4"><title>Nisbett Rose Dress Family Tartan Tartan Number: 946. Earliest known date: 1981 This is the sett that appears in the Vestiarium Scoticum as Mackintosh. There is no connection between the names, historically, to explain the position and it is interesting to note the similarity with the Dunbar tartan which also originates in the Vestiarium. The Nisbets came from the old barony of Nisbet in the parish of Edrom, Berwickshire, as early as 1160. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db4ly1r12ly2r2ly12r1db4~x4/"><circle cx="236.2" cy="170.0" r="4" fill="#3465a4"><title>Glassary #2</title></circle></a><a href="/setts/s8/dr2lo2dr15lo1w10o15lo2o2~x2/"><circle cx="186.4" cy="149.6" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/setts/s9/r12w2o3w2r3k5r2o18w2~x2/"><circle cx="223.4" cy="162.4" r="4" fill="#3465a4"><title>Ballater</title></circle></a><a href="/setts/s8/dr2r2dr15r1w10o15r2o2~x2/"><circle cx="191.6" cy="153.5" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><circle cx="207.4" cy="143.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k11r11w11r11r30k3w3~x2/"><circle cx="163.3" cy="176.7" r="4" fill="#3465a4"><title>Swallow (Personal)</title></circle></a><a href="/setts/s7/r38k12r15r4r15k2w4~x2/"><circle cx="235.3" cy="139.0" r="4" fill="#3465a4"><title>Ferguson's Promise (Commemorative)</title></circle></a><a href="/setts/s8/dy11db1dy11w10db1r11db1r11~x2/"><circle cx="200.6" cy="190.2" r="4" fill="#3465a4"><title>St. Andrews (Queens University) (Cor</title></circle></a><a href="/setts/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/"><circle cx="264.0" cy="151.2" r="4" fill="#3465a4"><title>Glenfinnan</title></circle></a><a href="/setts/s6/w15do8m25do72r98ly15/"><circle cx="221.2" cy="162.3" r="4" fill="#3465a4"><title>Afternoon Tea / Apple Tea</title></circle></a><a href="/setts/s10/w16k16r40w3r6w3r40k16w16g4/"><circle cx="113.8" cy="128.7" r="4" fill="#3465a4"><title>Nisbett Rose Dress Family Tartan Tartan Number: 946. Earliest known date: 1981 This is the sett that appears in the Vestiarium Scoticum as Mackintosh. There is no connection between the names, historically, to explain the position and it is interesting to note the similarity with the Dunbar tartan which also originates in the Vestiarium. The Nisbets came from the old barony of Nisbet in the parish of Edrom, Berwickshire, as early as 1160. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db4r1ly12r2ly2r12ly1db4~x4/"><circle cx="235.8" cy="169.8" r="4" fill="#3465a4"><title>Glassary #2</title></circle></a><a href="/setts/s8/dr2lo2dr15lo1w10o15lo2o2~x2/"><circle cx="186.2" cy="149.5" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/setts/s9/r12w2o3w2r3k5r2o18w2~x2/"><circle cx="223.1" cy="162.4" r="4" fill="#3465a4"><title>Ballater</title></circle></a><a href="/setts/s8/dr2r2dr15r1w10o15r2o2~x2/"><circle cx="191.4" cy="153.4" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><circle cx="207.0" cy="143.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r4r3r18r18w18r1w2r4~x2/

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-K/4 G26 K4 R8 K4 G46 K64 B10 K10 B52 LN2 K/8
+K/8 LN2 B52 K10 B10 K64 G46 K4 R8 K4 G26 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -913,7 +916,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Lochaber](/setts/s10/g4t2db33r2k35g33k1r2k1g4~x2/) — ΔT 0.81
+1. [Lochaber](/setts/s10/g4t2db33r2k35g33k1r2k1g4~x2/) — ΔT 0.80
 1. [Robertson, hunting](/setts/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/) — ΔT 0.86
 1. [Young, Melvina (Artefact)](/setts/s12/k4w1db26k5db5k32g23k2r4k2g13k1~x2/) — ΔT 0.89
 1. [Urquhart, White Line](/setts/s12/db4w2db24k3db3k3db8k24g48k3g3r2/) — ΔT 0.94
@@ -922,12 +925,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Black Gold](/setts/s9/dy3k3dy3k18n28w1g22k2dy2~x2/) — ΔT 1.06
 1. [Campbell, Red](/setts/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/) — ΔT 1.09
 1. [John.W.Mackay, Restricted](/setts/s9/k4g34ly1k18g3db18r3g3r3~x2/) — ΔT 1.10
-1. [Sutherland](/setts/s12/dg6lb2dg24k12db3k2db2k2db12r1db1r3/) — ΔT 1.15
+1. [Sutherland](/setts/s12/dg6lb2dg24k12db3k2db2k2db12r1db1r3/) — ΔT 1.14
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g4t2db33r2k35g33k1r2k1g4~x2/"><circle cx="213.5" cy="102.5" r="4" fill="#3465a4"><title>Lochaber</title></circle></a><a href="/setts/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="192.7" cy="128.7" r="4" fill="#3465a4"><title>Robertson, hunting</title></circle></a><a href="/setts/s12/k4w1db26k5db5k32g23k2r4k2g13k1~x2/"><circle cx="222.4" cy="109.3" r="4" fill="#3465a4"><title>Young, Melvina (Artefact)</title></circle></a><a href="/setts/s12/db4w2db24k3db3k3db8k24g48k3g3r2/"><circle cx="220.8" cy="104.9" r="4" fill="#3465a4"><title>Urquhart, White Line</title></circle></a><a href="/setts/s14/db88k15g9r12g20k3ly8k3g20r12g9k15db24k36~x2/"><circle cx="206.2" cy="100.6" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/setts/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/"><circle cx="198.1" cy="91.2" r="4" fill="#3465a4"><title>MacDonald of Clanranald 3</title></circle></a><a href="/setts/s9/dy3k3dy3k18n28w1g22k2dy2~x2/"><circle cx="190.1" cy="122.9" r="4" fill="#3465a4"><title>Black Gold</title></circle></a><a href="/setts/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="157.4" cy="135.6" r="4" fill="#3465a4"><title>Campbell, Red</title></circle></a><a href="/setts/s9/k4g34ly1k18g3db18r3g3r3~x2/"><circle cx="245.6" cy="113.4" r="4" fill="#3465a4"><title>John.W.Mackay, Restricted</title></circle></a><a href="/setts/s12/dg6lb2dg24k12db3k2db2k2db12r1db1r3/"><circle cx="232.7" cy="123.6" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><circle cx="204.5" cy="103.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g4t2db33r2k35g33k1r2k1g4~x2/"><circle cx="213.5" cy="102.5" r="4" fill="#3465a4"><title>Lochaber</title></circle></a><a href="/setts/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="192.8" cy="128.7" r="4" fill="#3465a4"><title>Robertson, hunting</title></circle></a><a href="/setts/s12/k4w1db26k5db5k32g23k2r4k2g13k1~x2/"><circle cx="222.4" cy="109.3" r="4" fill="#3465a4"><title>Young, Melvina (Artefact)</title></circle></a><a href="/setts/s12/db4w2db24k3db3k3db8k24g48k3g3r2/"><circle cx="220.8" cy="104.9" r="4" fill="#3465a4"><title>Urquhart, White Line</title></circle></a><a href="/setts/s14/db88k15g9r12g20k3ly8k3g20r12g9k15db24k36~x2/"><circle cx="206.2" cy="100.7" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/setts/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/"><circle cx="198.1" cy="91.3" r="4" fill="#3465a4"><title>MacDonald of Clanranald 3</title></circle></a><a href="/setts/s9/dy3k3dy3k18n28w1g22k2dy2~x2/"><circle cx="190.2" cy="122.9" r="4" fill="#3465a4"><title>Black Gold</title></circle></a><a href="/setts/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="157.5" cy="135.7" r="4" fill="#3465a4"><title>Campbell, Red</title></circle></a><a href="/setts/s9/k4g34ly1k18g3db18r3g3r3~x2/"><circle cx="245.6" cy="113.3" r="4" fill="#3465a4"><title>John.W.Mackay, Restricted</title></circle></a><a href="/setts/s12/dg6lb2dg24k12db3k2db2k2db12r1db1r3/"><circle cx="232.8" cy="123.7" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><circle cx="204.6" cy="103.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/k4w1db26k5db5k32g23k2r4k2g13k2~x2/

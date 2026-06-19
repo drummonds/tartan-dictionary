@@ -2,12 +2,18 @@
 title: "Bonner, (Bonnar)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKRKRGRKR](/stripes/bkbkbkrkrgrkr/) · **Stripes:** [DB K DB K DB K R K R G R K R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K DB K DB K R K R G R K R</span></span>
+**Bands:** [RKRGRKRKBKBKB](/stripes/rkrgrkrkbkbkb/) · **Stripes:** [R K R G R K R K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K R G R K R K DB K DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Bonner,
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -899,7 +908,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/24 K4 B4 K4 B4 K24 R6 K4 R10 G20 R6 K2 R/26
+R/26 K2 R6 G20 R10 K4 R6 K24 B4 K4 B4 K4 B/24
 ![Sett](sett.png)
 
 ## Palette
@@ -922,15 +931,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Frankfurt & Disttrict P & D (Corpora](/setts/s15/dt43k4dt4k4dt4k26r32k4w10k4r32k26dt32k4r10/) — ΔT 0.97
 1. [Young Presidents Organisation](/setts/s12/r22db5k10g12k2g12k10db3k2db3k2db16~x2/) — ΔT 1.03
 1. [MacLachlan #3](/setts/s15/r12k2r2k2r2k10db10k1dg3k1db12k10r12k2r2~x2/) — ΔT 1.08
-1. [Norwich No.005](/setts/s14/k10ly2dg11r11w1r1w1k9w1r1w1r11dg11ly2~x4/) — ΔT 1.13
+1. [Norwich No.005](/setts/s14/k10ly2dg11r11w1r1w1k9~x4/) — ΔT 1.13
 1. [Duchess of Kent](/setts/s12/r3t19k4r3k3r7k3r5k3r5k2w2~x2/) — ΔT 1.15
 1. [Borthwick D](/setts/s9/dg12k1r10k2y10k14y10k2r4~x2/) — ΔT 1.20
 1. [Unidentified #58](/setts/s9/r4k12lb1dg6r3k1r3lb1r3~x4/) — ΔT 1.23
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r12k2r2k2r2k10db10k1g3k1db12k10r12k2r2~x2/"><circle cx="176.1" cy="154.6" r="4" fill="#3465a4"><title>MacLachlan 1</title></circle></a><a href="/setts/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/"><circle cx="185.0" cy="180.9" r="4" fill="#3465a4"><title>North Berwick Pipe Band (Dancing)</title></circle></a><a href="/setts/s13/o26k2o3k2o3k16y18y4y18k16o18k2o3~x2/"><circle cx="206.2" cy="163.3" r="4" fill="#3465a4"><title>Red Watch (Fashion) #3</title></circle></a><a href="/setts/s15/dt43k4dt4k4dt4k26r32k4w10k4r32k26dt32k4r10/"><circle cx="181.2" cy="162.7" r="4" fill="#3465a4"><title>Frankfurt &amp; Disttrict P &amp; D (Corpora</title></circle></a><a href="/setts/s12/r22db5k10g12k2g12k10db3k2db3k2db16~x2/"><circle cx="117.4" cy="177.1" r="4" fill="#3465a4"><title>Young Presidents Organisation</title></circle></a><a href="/setts/s15/r12k2r2k2r2k10db10k1dg3k1db12k10r12k2r2~x2/"><circle cx="192.8" cy="158.4" r="4" fill="#3465a4"><title>MacLachlan #3</title></circle></a><a href="/setts/s14/k10ly2dg11r11w1r1w1k9w1r1w1r11dg11ly2~x4/"><circle cx="121.7" cy="130.6" r="4" fill="#3465a4"><title>Norwich No.005</title></circle></a><a href="/setts/s12/r3t19k4r3k3r7k3r5k3r5k2w2~x2/"><circle cx="178.6" cy="154.2" r="4" fill="#3465a4"><title>Duchess of Kent</title></circle></a><a href="/setts/s9/dg12k1r10k2y10k14y10k2r4~x2/"><circle cx="133.8" cy="187.2" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/setts/s9/r4k12lb1dg6r3k1r3lb1r3~x4/"><circle cx="202.4" cy="176.8" r="4" fill="#3465a4"><title>Unidentified #58</title></circle></a><circle cx="158.5" cy="154.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r12k2r2k2r2k10db10k1g3k1db12k10r12k2r2~x2/"><circle cx="176.1" cy="154.6" r="4" fill="#3465a4"><title>MacLachlan 1</title></circle></a><a href="/setts/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/"><circle cx="185.1" cy="180.8" r="4" fill="#3465a4"><title>North Berwick Pipe Band (Dancing)</title></circle></a><a href="/setts/s13/o26k2o3k2o3k16y18y4y18k16o18k2o3~x2/"><circle cx="206.1" cy="163.3" r="4" fill="#3465a4"><title>Red Watch (Fashion) #3</title></circle></a><a href="/setts/s15/dt43k4dt4k4dt4k26r32k4w10k4r32k26dt32k4r10/"><circle cx="181.1" cy="162.8" r="4" fill="#3465a4"><title>Frankfurt &amp; Disttrict P &amp; D (Corpora</title></circle></a><a href="/setts/s12/r22db5k10g12k2g12k10db3k2db3k2db16~x2/"><circle cx="117.5" cy="177.2" r="4" fill="#3465a4"><title>Young Presidents Organisation</title></circle></a><a href="/setts/s15/r12k2r2k2r2k10db10k1dg3k1db12k10r12k2r2~x2/"><circle cx="192.8" cy="158.4" r="4" fill="#3465a4"><title>MacLachlan #3</title></circle></a><a href="/setts/s14/k10ly2dg11r11w1r1w1k9~x4/"><circle cx="121.7" cy="130.6" r="4" fill="#3465a4"><title>Norwich No.005</title></circle></a><a href="/setts/s12/r3t19k4r3k3r7k3r5k3r5k2w2~x2/"><circle cx="178.5" cy="154.1" r="4" fill="#3465a4"><title>Duchess of Kent</title></circle></a><a href="/setts/s9/dg12k1r10k2y10k14y10k2r4~x2/"><circle cx="133.9" cy="187.2" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/setts/s9/r4k12lb1dg6r3k1r3lb1r3~x4/"><circle cx="202.4" cy="176.8" r="4" fill="#3465a4"><title>Unidentified #58</title></circle></a><circle cx="158.5" cy="154.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/

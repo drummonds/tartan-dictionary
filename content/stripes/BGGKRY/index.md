@@ -20,7 +20,7 @@ BGGKRY
 
 
 
-### DB DG DG K R LY <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB DG DG K R LY</span></span>
+### LY R K DG DG DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">LY R K DG DG DB</span></span>
 
 | Tartans |
 |---------------|

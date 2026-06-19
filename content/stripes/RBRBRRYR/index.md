@@ -20,7 +20,7 @@ RBRBRRYR
 
 
 
-### R DB R DB R M LR M <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#CA047B"></span><span class="seq">R DB R DB R M LR M</span></span>
+### M LR M R DB R DB R <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">M LR M R DB R DB R</span></span>
 
 | Tartans |
 |---------------|

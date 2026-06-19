@@ -22,6 +22,6 @@ YGBBBBBWY
 
 | Tartans |
 |---------------|
-| [Scotland’s Golf Coast](/setts/s9/lg2w1db16dp2db2dp3db8dg20lo2~x2/)|
-|![Scotland’s Golf Coast example sett](/setts/s9/lg2w1db16dp2db2dp3db8dg20lo2~x2/sett.png)|
+| [Scotland’s Golf Coast](/setts/s9/lo2dg20db8dp3db2dp2db16w1lg2~x2/)|
+|![Scotland’s Golf Coast example sett](/setts/s9/lo2dg20db8dp3db2dp2db16w1lg2~x2/sett.png)|
 

@@ -22,6 +22,6 @@ RKWKRKBKRKY
 
 | Tartans |
 |---------------|
-| [Andreou Family (Personal)](/setts/s11/ly1k2r1k2db8k2r1k2w8k2r1~x4/)|
-|![Andreou Family (Personal) example sett](/setts/s11/ly1k2r1k2db8k2r1k2w8k2r1~x4/sett.png)|
+| [Andreou Family (Personal)](/setts/s11/r1k2w8k2r1k2db8k2r1k2ly1~x4/)|
+|![Andreou Family (Personal) example sett](/setts/s11/r1k2w8k2r1k2db8k2r1k2ly1~x4/sett.png)|
 

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -926,8 +929,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/lo49db16k2w3db2w2db3lo2~x2/"><circle cx="414.5" cy="102.9" r="4" fill="#3465a4"><title>Irn Bru Corporate Tartan Tartan Number: 2395. Earliest known date: Sep 1998 Irn Bru (Iron Brew) was first produced in 1901 by A.G. Barr and has been Scotland's favourite fizzy drink ever since. The colours are based on the brand label. Irn Bru was famously advertised on TV as 'being made in Scotland . . . from GIRDERS!&quot; which was the subject of a complaint to the Advertising Standards Authority because it was 'untrue' !!! See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/o49db16k2w3db2w2db3o2~x2/"><circle cx="420.2" cy="99.1" r="4" fill="#3465a4"><title>Irn Bru (Corporate)</title></circle></a><a href="/setts/s8/lo5r6k5r6lo36db3lo2k1~x2/"><circle cx="438.6" cy="103.7" r="4" fill="#3465a4"><title>Lermontov Bicentenary</title></circle></a><a href="/setts/s8/lo5r6k5r6lo36b3lo2k1~x2/"><circle cx="448.8" cy="109.1" r="4" fill="#3465a4"><title>Lermontov Bicentenary</title></circle></a><a href="/setts/s6/r40w2db2w2r1ly20~x2/"><circle cx="409.9" cy="104.4" r="4" fill="#3465a4"><title>National Defense</title></circle></a><a href="/setts/s8/w57k1r12w1g12r14w1r2~x2/"><circle cx="392.7" cy="74.2" r="4" fill="#3465a4"><title>McBrayer Dress</title></circle></a><a href="/setts/s8/w75o1r18g9o1r27w2r5~x2/"><circle cx="380.0" cy="76.1" r="4" fill="#3465a4"><title>Unidentified, Ross-shire</title></circle></a><a href="/setts/s8/w75dy1r18dg9dy1r27w2r5~x2/"><circle cx="381.4" cy="74.5" r="4" fill="#3465a4"><title>Unidentified Ross-shire</title></circle></a><a href="/setts/s8/r49b16k2w3b2w2b3r2~x2/"><circle cx="403.3" cy="90.5" r="4" fill="#3465a4"><title>Irn Bru</title></circle></a><a href="/setts/s6/t5k1w11k1r42k1~x2/"><circle cx="465.2" cy="91.2" r="4" fill="#3465a4"><title>Davet (2014)</title></circle></a><circle cx="428.9" cy="86.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/lo49db16k2w3db2w2db3lo2~x2/"><circle cx="413.9" cy="102.6" r="4" fill="#3465a4"><title>Irn Bru Corporate Tartan Tartan Number: 2395. Earliest known date: Sep 1998 Irn Bru (Iron Brew) was first produced in 1901 by A.G. Barr and has been Scotland's favourite fizzy drink ever since. The colours are based on the brand label. Irn Bru was famously advertised on TV as 'being made in Scotland . . . from GIRDERS!&quot; which was the subject of a complaint to the Advertising Standards Authority because it was 'untrue' !!! See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/o49db16k2w3db2w2db3o2~x2/"><circle cx="419.6" cy="98.9" r="4" fill="#3465a4"><title>Irn Bru (Corporate)</title></circle></a><a href="/setts/s8/lo5r6k5r6lo36db3lo2k1~x2/"><circle cx="437.9" cy="103.4" r="4" fill="#3465a4"><title>Lermontov Bicentenary</title></circle></a><a href="/setts/s8/lo5r6k5r6lo36b3lo2k1~x2/"><circle cx="448.2" cy="108.8" r="4" fill="#3465a4"><title>Lermontov Bicentenary</title></circle></a><a href="/setts/s6/r40w2db2w2r1ly20~x2/"><circle cx="409.3" cy="104.2" r="4" fill="#3465a4"><title>National Defense</title></circle></a><a href="/setts/s8/w57k1r12w1g12r14w1r2~x2/"><circle cx="391.9" cy="74.0" r="4" fill="#3465a4"><title>McBrayer Dress</title></circle></a><a href="/setts/s8/w75o1r18g9o1r27w2r5~x2/"><circle cx="379.3" cy="75.9" r="4" fill="#3465a4"><title>Unidentified, Ross-shire</title></circle></a><a href="/setts/s8/w75dy1r18dg9dy1r27w2r5~x2/"><circle cx="380.7" cy="74.3" r="4" fill="#3465a4"><title>Unidentified Ross-shire</title></circle></a><a href="/setts/s8/r49b16k2w3b2w2b3r2~x2/"><circle cx="402.7" cy="90.2" r="4" fill="#3465a4"><title>Irn Bru</title></circle></a><a href="/setts/s6/t5k1w11k1r42k1~x2/"><circle cx="464.5" cy="90.9" r="4" fill="#3465a4"><title>Davet (2014)</title></circle></a><circle cx="428.3" cy="86.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/lo98db32k3w6db4w4db6lo4/

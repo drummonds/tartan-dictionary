@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [11477](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11477)
 
 ## Thread count
-K/4 W4 K4 W4 K72 R16 Y4 R4 B4 R/64
+R/64 B4 R4 Y4 R16 K72 W4 K4 W4 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -38,7 +38,7 @@ The nearest existing variants by ΔTartan distance.
 1. [State Seal of Alabama (Fashion)](/setts/s9/r60lo4k22g5k25t8k4r4k4~x2/) — ΔT 0.81
 1. [First Special Services Forces (Mil)](/setts/s13/r4k9r3ly3r18k4r2w2r2k36r24db4r3~x2/) — ΔT 0.83
 1. [Smeaton 1985 (Name)](/setts/s10/k6r4lb3r44k32r3k3lo3k2r3~x2/) — ΔT 1.15
-1. [Chisholm VS](/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1~x2/) — ΔT 1.16
+1. [Chisholm VS](/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1/) — ΔT 1.16
 1. [Haileybury Pipe Band (Corporate)](/setts/s10/ly4k30o30k2o2ly2k2o5w5g2~x2/) — ΔT 1.18
 1. [Rikaco Holiday (Fashion)](/setts/s10/k5db5k2r47k18w2k5dg9db7w3~x2/) — ΔT 1.19
 1. [Good Conduct (USA)](/setts/s10/db5r12k38r4w2r2w2r2w2r4~x2/) — ΔT 1.27
@@ -47,8 +47,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><circle cx="295.9" cy="98.4" r="4" fill="#3465a4"><title>MacKeever (Personal)</title></circle></a><a href="/setts/s9/r60lo4k22g5k25t8k4r4k4~x2/"><circle cx="279.7" cy="128.2" r="4" fill="#3465a4"><title>State Seal of Alabama (Fashion)</title></circle></a><a href="/setts/s13/r4k9r3ly3r18k4r2w2r2k36r24db4r3~x2/"><circle cx="295.9" cy="104.0" r="4" fill="#3465a4"><title>First Special Services Forces (Mil)</title></circle></a><a href="/setts/s10/k6r4lb3r44k32r3k3lo3k2r3~x2/"><circle cx="359.8" cy="112.7" r="4" fill="#3465a4"><title>Smeaton 1985 (Name)</title></circle></a><a href="/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1~x2/"><circle cx="331.9" cy="102.8" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/setts/s10/ly4k30o30k2o2ly2k2o5w5g2~x2/"><circle cx="258.7" cy="121.4" r="4" fill="#3465a4"><title>Haileybury Pipe Band (Corporate)</title></circle></a><a href="/setts/s10/k5db5k2r47k18w2k5dg9db7w3~x2/"><circle cx="264.3" cy="99.5" r="4" fill="#3465a4"><title>Rikaco Holiday (Fashion)</title></circle></a><a href="/setts/s10/db5r12k38r4w2r2w2r2w2r4~x2/"><circle cx="304.9" cy="103.6" r="4" fill="#3465a4"><title>Good Conduct (USA)</title></circle></a><a href="/setts/s17/g2r20k2r2g3r2k18r3w1g3r20k2r2k18r2g2ly1~x2/"><circle cx="291.6" cy="89.1" r="4" fill="#3465a4"><title>Unidentified Scarlett #8</title></circle></a><a href="/setts/s13/r8k14r6ly6r34k10r6w6r6k64r44db9r6/"><circle cx="267.9" cy="126.9" r="4" fill="#3465a4"><title>First Special Service Force</title></circle></a><circle cx="294.3" cy="98.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><circle cx="295.7" cy="98.3" r="4" fill="#3465a4"><title>MacKeever (Personal)</title></circle></a><a href="/setts/s9/r60lo4k22g5k25t8k4r4k4~x2/"><circle cx="279.5" cy="128.1" r="4" fill="#3465a4"><title>State Seal of Alabama (Fashion)</title></circle></a><a href="/setts/s13/r4k9r3ly3r18k4r2w2r2k36r24db4r3~x2/"><circle cx="295.6" cy="103.9" r="4" fill="#3465a4"><title>First Special Services Forces (Mil)</title></circle></a><a href="/setts/s10/k6r4lb3r44k32r3k3lo3k2r3~x2/"><circle cx="359.5" cy="112.6" r="4" fill="#3465a4"><title>Smeaton 1985 (Name)</title></circle></a><a href="/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1/"><circle cx="331.5" cy="102.7" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/setts/s10/ly4k30o30k2o2ly2k2o5w5g2~x2/"><circle cx="258.6" cy="121.4" r="4" fill="#3465a4"><title>Haileybury Pipe Band (Corporate)</title></circle></a><a href="/setts/s10/k5db5k2r47k18w2k5dg9db7w3~x2/"><circle cx="264.1" cy="99.6" r="4" fill="#3465a4"><title>Rikaco Holiday (Fashion)</title></circle></a><a href="/setts/s10/db5r12k38r4w2r2w2r2w2r4~x2/"><circle cx="304.6" cy="103.5" r="4" fill="#3465a4"><title>Good Conduct (USA)</title></circle></a><a href="/setts/s17/g2r20k2r2g3r2k18r3w1g3r20k2r2k18r2g2ly1~x2/"><circle cx="291.3" cy="89.1" r="4" fill="#3465a4"><title>Unidentified Scarlett #8</title></circle></a><a href="/setts/s13/r8k14r6ly6r34k10r6w6r6k64r44db9r6/"><circle cx="267.6" cy="126.8" r="4" fill="#3465a4"><title>First Special Service Force</title></circle></a><circle cx="294.0" cy="98.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r16t1r1ly1r4k18w1k1w1k1~x4/

@@ -21,14 +21,14 @@ BWBRRR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB W DB M R M <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="seq">DB W DB M R M</span></span>
+### M R M DB W DB <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">M R M DB W DB</span></span>
 
 | Tartans |
 |---------------|
 | [Steffen, Markus (Personal)](/setts/s6/db35w4db10m3r3m3~x4/)|
 |![Steffen, Markus (Personal) example sett](/setts/s6/db35w4db10m3r3m3~x4/sett.png)|
 
-### DB W DB R R R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB W DB R R R</span></span>
+### R R R DB W DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R R R DB W DB</span></span>
 
 | Tartans |
 |---------------|

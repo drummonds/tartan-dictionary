@@ -22,6 +22,6 @@ RKWKBGBKBYBYBY
 
 | Tartans |
 |---------------|
-| [Wupper Pipes & Drums (Corporate)](/setts/s14/ly2db2ly1db2ly1db3k6db18g1db18k4w1k4r2~x2/)|
-|![Wupper Pipes & Drums (Corporate) example sett](/setts/s14/ly2db2ly1db2ly1db3k6db18g1db18k4w1k4r2~x2/sett.png)|
+| [Wupper Pipes & Drums (Corporate)](/setts/s14/r2k4w1k4db18g1db18k6db3ly1db2ly1db2ly2~x2/)|
+|![Wupper Pipes & Drums (Corporate) example sett](/setts/s14/r2k4w1k4db18g1db18k6db3ly1db2ly1db2ly2~x2/sett.png)|
 

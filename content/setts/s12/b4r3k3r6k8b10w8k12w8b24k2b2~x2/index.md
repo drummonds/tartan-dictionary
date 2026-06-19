@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2983
 
 ## Thread count
-B/4 K4 B48 W16 K24 W16 B20 K16 R12 K6 R6 B/8
+B/8 R6 K6 R12 K16 B20 W16 K24 W16 B48 K4 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -46,17 +46,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Hydro-Electric](/setts/s10/db11k4w5k1r3k1w5k4db11r1~x4/) — ΔT 0.97
 1. [Hogmany Plaid (Fashion)](/setts/s13/r2w7dt3w3dt3w3dt3w1dt12db14r1db1r2~x2/) — ΔT 1.03
 1. [McRae, Dress](/setts/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/) — ΔT 1.04
-1. [Breifne](/setts/s12/lb3lr4lb12dg2lb3dg2lb3dg2lb12k4dg18lr3~x2/) — ΔT 1.06
-1. [Keela](/setts/s12/dt7w3dt2w6dt16t26r4t26dt16w6dt2w3~x2/) — ΔT 1.10
-1. [Bannockbane Blue #1](/setts/s8/b4lo2b13w8lo1k13lo2k4~x2/) — ΔT 1.10
-1. [Ferguson Dress Blue (Dance)](/setts/s12/w3k2w18r3w18k23t35k23w18r3w18k2~x2/) — ΔT 1.12
-1. [Sinclair Dress (Dance)](/setts/s12/db4r2db31k10g4w21g2w21g4k10db31r2~x2/) — ΔT 1.13
-1. [Kile (No red line) (Personal)](/setts/s14/db20w3db3w3db3w3k5ly10k5w3db3w3db3w3~x2/) — ΔT 1.14
+1. [Breifne](/setts/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2/) — ΔT 1.06
+1. [Keela](/setts/s12/dt7w3dt2w6dt16t26r4~x2/) — ΔT 1.10
+1. [Bannockbane Blue #1](/setts/s8/k4lo2k13lo1w8b13lo2b4~x2/) — ΔT 1.10
+1. [Ferguson Dress Blue (Dance)](/setts/s12/t35k23w18r3w18k2w3~x2/) — ΔT 1.12
+1. [Sinclair Dress (Dance)](/setts/s12/db4r2db31k10g4w21g2~x2/) — ΔT 1.13
+1. [Kile (No red line) (Personal)](/setts/s14/db20w3db3w3db3w3k5ly10~x2/) — ΔT 1.14
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/b27w2b14k14lg4k4lg4k4lg27/"><circle cx="184.7" cy="159.5" r="4" fill="#3465a4"><title>(1) Abercrombie</title></circle></a><a href="/setts/s10/db11k4w5k1r3k1w5k4db11r1~x4/"><circle cx="194.0" cy="170.7" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/setts/s13/r2w7dt3w3dt3w3dt3w1dt12db14r1db1r2~x2/"><circle cx="177.9" cy="141.6" r="4" fill="#3465a4"><title>Hogmany Plaid (Fashion)</title></circle></a><a href="/setts/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/"><circle cx="190.3" cy="134.6" r="4" fill="#3465a4"><title>McRae, Dress</title></circle></a><a href="/setts/s12/lb3lr4lb12dg2lb3dg2lb3dg2lb12k4dg18lr3~x2/"><circle cx="220.2" cy="167.2" r="4" fill="#3465a4"><title>Breifne</title></circle></a><a href="/setts/s12/dt7w3dt2w6dt16t26r4t26dt16w6dt2w3~x2/"><circle cx="219.1" cy="160.1" r="4" fill="#3465a4"><title>Keela</title></circle></a><a href="/setts/s8/b4lo2b13w8lo1k13lo2k4~x2/"><circle cx="149.3" cy="172.3" r="4" fill="#3465a4"><title>Bannockbane Blue #1</title></circle></a><a href="/setts/s12/w3k2w18r3w18k23t35k23w18r3w18k2~x2/"><circle cx="181.3" cy="137.0" r="4" fill="#3465a4"><title>Ferguson Dress Blue (Dance)</title></circle></a><a href="/setts/s12/db4r2db31k10g4w21g2w21g4k10db31r2~x2/"><circle cx="193.6" cy="125.7" r="4" fill="#3465a4"><title>Sinclair Dress (Dance)</title></circle></a><a href="/setts/s14/db20w3db3w3db3w3k5ly10k5w3db3w3db3w3~x2/"><circle cx="158.3" cy="155.3" r="4" fill="#3465a4"><title>Kile (No red line) (Personal)</title></circle></a><circle cx="176.6" cy="159.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/b27w2b14k14lg4k4lg4k4lg27/"><circle cx="184.6" cy="159.4" r="4" fill="#3465a4"><title>(1) Abercrombie</title></circle></a><a href="/setts/s10/db11k4w5k1r3k1w5k4db11r1~x4/"><circle cx="194.0" cy="170.6" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/setts/s13/r2w7dt3w3dt3w3dt3w1dt12db14r1db1r2~x2/"><circle cx="177.9" cy="141.5" r="4" fill="#3465a4"><title>Hogmany Plaid (Fashion)</title></circle></a><a href="/setts/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/"><circle cx="190.1" cy="134.4" r="4" fill="#3465a4"><title>McRae, Dress</title></circle></a><a href="/setts/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2/"><circle cx="220.0" cy="167.0" r="4" fill="#3465a4"><title>Breifne</title></circle></a><a href="/setts/s12/dt7w3dt2w6dt16t26r4~x2/"><circle cx="218.9" cy="160.0" r="4" fill="#3465a4"><title>Keela</title></circle></a><a href="/setts/s8/k4lo2k13lo1w8b13lo2b4~x2/"><circle cx="149.3" cy="172.1" r="4" fill="#3465a4"><title>Bannockbane Blue #1</title></circle></a><a href="/setts/s12/t35k23w18r3w18k2w3~x2/"><circle cx="181.1" cy="136.8" r="4" fill="#3465a4"><title>Ferguson Dress Blue (Dance)</title></circle></a><a href="/setts/s12/db4r2db31k10g4w21g2~x2/"><circle cx="193.5" cy="125.6" r="4" fill="#3465a4"><title>Sinclair Dress (Dance)</title></circle></a><a href="/setts/s14/db20w3db3w3db3w3k5ly10~x2/"><circle cx="158.2" cy="155.2" r="4" fill="#3465a4"><title>Kile (No red line) (Personal)</title></circle></a><circle cx="176.5" cy="159.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/b4r3k3r6k8b10w8k12w8b24k2b2~x2/

@@ -22,6 +22,6 @@ GKRRWBWBWBWBWBWBWBWG
 
 | Tartans |
 |---------------|
-| [Gallacher, (Name)](/setts/s20/g7w1b7w2b6w3b5w4b4w5b3w6b2w7b1w8r31r31k10g4/)|
-|![Gallacher, (Name) example sett](/setts/s20/g7w1b7w2b6w3b5w4b4w5b3w6b2w7b1w8r31r31k10g4/sett.png)|
+| [Gallacher, (Name)](/setts/s20/g7w1b7w2b6w3b5w4b4w5b3w6b2w7b1w8r31r31k10g4~x2/)|
+|![Gallacher, (Name) example sett](/setts/s20/g7w1b7w2b6w3b5w4b4w5b3w6b2w7b1w8r31r31k10g4~x2/sett.png)|
 

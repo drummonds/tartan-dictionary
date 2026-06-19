@@ -22,6 +22,6 @@ GBGBBRBRBKW
 
 | Tartans |
 |---------------|
-| [Liddell (Newfane, New York)](/setts/s11/w2k1b22r1b3r1b8db22y2db3y2~x2/)|
-|![Liddell (Newfane, New York) example sett](/setts/s11/w2k1b22r1b3r1b8db22y2db3y2~x2/sett.png)|
+| [Liddell (Newfane, New York)](/setts/s11/y2db3y2db22b8r1b3r1b22k1w2~x2/)|
+|![Liddell (Newfane, New York) example sett](/setts/s11/y2db3y2db22b8r1b3r1b22k1w2~x2/sett.png)|
 

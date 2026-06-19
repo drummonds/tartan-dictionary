@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10591
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Kruenaegel-Schropp
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -52,14 +58,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Blue Knights, The](/setts/s9/w3lg15db6db2db1db2db1db21ly2~x2/) — ΔT 1.11
 1. [Holyrood Golden Jubilee II (Commemo)](/setts/s10/dt48t12lo3w3lo3r11dt5r2lo7w2~x2/) — ΔT 1.14
 1. [Blalack](/setts/s10/g4lg2db14lg2db2lg2db2lg14k1w2~x2/) — ΔT 1.18
-1. [German MacLeod](/setts/s8/lb2k1g13k6b27k2r2ly2~x2/) — ΔT 1.21
+1. [German MacLeod](/setts/s8/ly2r2k2b27k6g13k1lb2~x2/) — ΔT 1.21
 1. [Sandelin (Personal)](/setts/s8/w10db2w1db35g10lo3g10r4~x2/) — ΔT 1.24
 1. [Gorman Blue (Personal)](/setts/s8/w4n1ly2n22dt20w2dt4w2~x2/) — ΔT 1.25
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/b20r1w3db1w2db8g3w1~x4/"><circle cx="264.8" cy="123.3" r="4" fill="#3465a4"><title>Kruenaegel and Schropp (Name)</title></circle></a><a href="/setts/s8/w8db4ly2db36t48db2t4r5~x2/"><circle cx="284.1" cy="120.5" r="4" fill="#3465a4"><title>MacRaes of America</title></circle></a><a href="/setts/s9/b24k8g8r2g4k1w2k1g4~x2/"><circle cx="245.1" cy="127.1" r="4" fill="#3465a4"><title>Ferguson (Tarlogie)</title></circle></a><a href="/setts/s8/ly4db24t5g2db3k5t33r2~x2/"><circle cx="251.3" cy="128.4" r="4" fill="#3465a4"><title>Los Angeles</title></circle></a><a href="/setts/s9/w3lg15db6db2db1db2db1db21ly2~x2/"><circle cx="247.4" cy="126.2" r="4" fill="#3465a4"><title>Blue Knights, The</title></circle></a><a href="/setts/s10/dt48t12lo3w3lo3r11dt5r2lo7w2~x2/"><circle cx="313.0" cy="108.1" r="4" fill="#3465a4"><title>Holyrood Golden Jubilee II (Commemo)</title></circle></a><a href="/setts/s10/g4lg2db14lg2db2lg2db2lg14k1w2~x2/"><circle cx="235.5" cy="146.5" r="4" fill="#3465a4"><title>Blalack</title></circle></a><a href="/setts/s8/lb2k1g13k6b27k2r2ly2~x2/"><circle cx="263.7" cy="112.4" r="4" fill="#3465a4"><title>German MacLeod</title></circle></a><a href="/setts/s8/w10db2w1db35g10lo3g10r4~x2/"><circle cx="273.9" cy="112.6" r="4" fill="#3465a4"><title>Sandelin (Personal)</title></circle></a><a href="/setts/s8/w4n1ly2n22dt20w2dt4w2~x2/"><circle cx="278.3" cy="155.1" r="4" fill="#3465a4"><title>Gorman Blue (Personal)</title></circle></a><circle cx="282.5" cy="132.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/b20r1w3db1w2db8g3w1~x4/"><circle cx="264.7" cy="123.2" r="4" fill="#3465a4"><title>Kruenaegel and Schropp (Name)</title></circle></a><a href="/setts/s8/w8db4ly2db36t48db2t4r5~x2/"><circle cx="284.0" cy="120.4" r="4" fill="#3465a4"><title>MacRaes of America</title></circle></a><a href="/setts/s9/b24k8g8r2g4k1w2k1g4~x2/"><circle cx="245.1" cy="127.0" r="4" fill="#3465a4"><title>Ferguson (Tarlogie)</title></circle></a><a href="/setts/s8/ly4db24t5g2db3k5t33r2~x2/"><circle cx="251.2" cy="128.4" r="4" fill="#3465a4"><title>Los Angeles</title></circle></a><a href="/setts/s9/w3lg15db6db2db1db2db1db21ly2~x2/"><circle cx="247.3" cy="126.2" r="4" fill="#3465a4"><title>Blue Knights, The</title></circle></a><a href="/setts/s10/dt48t12lo3w3lo3r11dt5r2lo7w2~x2/"><circle cx="312.8" cy="108.0" r="4" fill="#3465a4"><title>Holyrood Golden Jubilee II (Commemo)</title></circle></a><a href="/setts/s10/g4lg2db14lg2db2lg2db2lg14k1w2~x2/"><circle cx="235.4" cy="146.4" r="4" fill="#3465a4"><title>Blalack</title></circle></a><a href="/setts/s8/ly2r2k2b27k6g13k1lb2~x2/"><circle cx="263.6" cy="112.4" r="4" fill="#3465a4"><title>German MacLeod</title></circle></a><a href="/setts/s8/w10db2w1db35g10lo3g10r4~x2/"><circle cx="273.8" cy="112.5" r="4" fill="#3465a4"><title>Sandelin (Personal)</title></circle></a><a href="/setts/s8/w4n1ly2n22dt20w2dt4w2~x2/"><circle cx="278.2" cy="155.1" r="4" fill="#3465a4"><title>Gorman Blue (Personal)</title></circle></a><circle cx="282.4" cy="132.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/b20m1w3dt1w2dt8g3w1~x4/

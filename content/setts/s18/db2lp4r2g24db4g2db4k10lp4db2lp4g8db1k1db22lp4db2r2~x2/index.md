@@ -2,12 +2,19 @@
 title: "Couper of Gogar"
 date: 2023-03-18
 ---
-**Bands:** [BWRGBGBKWBWGBKBWBR](/stripes/bwrgbgbkwbwgbkbwbr/) · **Stripes:** [DB LP R G DB G DB K LP DB LP G DB K DB LP DB R](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB LP R G DB G DB K LP DB LP G DB K DB LP DB R</span></span>
+**Bands:** [RBWBKBGWBWKBGBGRWB](/stripes/rbwbkbgwbwkbgbgrwb/) · **Stripes:** [R DB LP DB K DB G LP DB LP K DB G DB G R LP DB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB LP DB K DB G LP DB LP K DB G DB G R LP DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [18 band tartan](/bands/bands18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=778
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Couper / Cooper
+- Couper of Gogar
 
 ## Attestations
 
@@ -319,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -915,17 +925,17 @@ The nearest existing variants by ΔTartan distance.
 1. [O'Kelly Family (Personal)](/setts/s19/dg28r12db1w2r1dg4db20lo2db3lo2db3dg7db3w1lo2w1db20dg4r12~x2/) — ΔT 0.81
 1. [St Andrew](/setts/s14/w4db20k1g2k1g2k4g1w2g1k4g16dp8g1~x2/) — ΔT 0.83
 1. [Cochrane Hunting](/setts/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/) — ΔT 0.84
-1. [Hope Vere Family Tartan Tartan Number: 759. Earliest known date: c.1815 Hopetoun House, South Queensferry, home of the Marquesses of Linlithgow, was built by Robert Adam. The Highland Society of London collected specimens of tartan sealed with the signature of the Clan Chief or Head of the family, from 1815 onwards. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/g19k1g3k1g3k9db20k1ly1k7ly1k1db21k12g2g1~x2/) — ΔT 0.88
+1. [Hope Vere Family Tartan Tartan Number: 759. Earliest known date: c.1815 Hopetoun House, South Queensferry, home of the Marquesses of Linlithgow, was built by Robert Adam. The Highland Society of London collected specimens of tartan sealed with the signature of the Clan Chief or Head of the family, from 1815 onwards. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/g19k1g3k1g3k9db20k1ly1k7ly1k1db21k12g2g1~x2/) — ΔT 0.89
 1. [Scottish Islamic (Corporate)](/setts/s18/g2lo2g2lo2g2lo2g18k1g2k5db2k1db19w2db2w2db2w2~x2/) — ΔT 0.92
 1. [Rankin, John (Personal)](/setts/s16/t2k1dg15w2dg15k1t2k1r2k20t2k2t2k2t25k1~x2/) — ΔT 0.99
 1. [Robertson Htg - 1816 (Clan)](/setts/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/) — ΔT 1.01
 1. [Robertson Hunting](/setts/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/) — ΔT 1.03
-1. [Cooper/Couper](/setts/s18/m2db2m4db30k1db1dg12m3db2m3k14db3dg1db3dg32db2m3r2~x2/) — ΔT 1.03
+1. [Cooper/Couper](/setts/s18/r2m3db2dg32db3dg1db3k14m3db2m3dg12db1k1db30m4db2m2~x2/) — ΔT 1.03
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/r2lp4db2g24db4g2db4k10lp4db2lp4g8db1k2db22lp4db2r2~x2/"><circle cx="195.0" cy="98.1" r="4" fill="#3465a4"><title>Couper of Gogar (Clan)</title></circle></a><a href="/setts/s19/dg28r12db1w2r1dg4db20lo2db3lo2db3dg7db3w1lo2w1db20dg4r12~x2/"><circle cx="224.1" cy="92.5" r="4" fill="#3465a4"><title>O'Kelly Family (Personal)</title></circle></a><a href="/setts/s14/w4db20k1g2k1g2k4g1w2g1k4g16dp8g1~x2/"><circle cx="169.7" cy="104.2" r="4" fill="#3465a4"><title>St Andrew</title></circle></a><a href="/setts/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/"><circle cx="197.7" cy="104.6" r="4" fill="#3465a4"><title>Cochrane Hunting</title></circle></a><a href="/setts/s16/g19k1g3k1g3k9db20k1ly1k7ly1k1db21k12g2g1~x2/"><circle cx="213.2" cy="113.2" r="4" fill="#3465a4"><title>Hope Vere Family Tartan Tartan Number: 759. Earliest known date: c.1815 Hopetoun House, South Queensferry, home of the Marquesses of Linlithgow, was built by Robert Adam. The Highland Society of London collected specimens of tartan sealed with the signature of the Clan Chief or Head of the family, from 1815 onwards. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/g2lo2g2lo2g2lo2g18k1g2k5db2k1db19w2db2w2db2w2~x2/"><circle cx="186.6" cy="88.0" r="4" fill="#3465a4"><title>Scottish Islamic (Corporate)</title></circle></a><a href="/setts/s16/t2k1dg15w2dg15k1t2k1r2k20t2k2t2k2t25k1~x2/"><circle cx="225.8" cy="100.4" r="4" fill="#3465a4"><title>Rankin, John (Personal)</title></circle></a><a href="/setts/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="212.3" cy="127.6" r="4" fill="#3465a4"><title>Robertson Htg - 1816 (Clan)</title></circle></a><a href="/setts/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="217.0" cy="127.6" r="4" fill="#3465a4"><title>Robertson Hunting</title></circle></a><a href="/setts/s18/m2db2m4db30k1db1dg12m3db2m3k14db3dg1db3dg32db2m3r2~x2/"><circle cx="253.3" cy="85.2" r="4" fill="#3465a4"><title>Cooper/Couper</title></circle></a><circle cx="198.5" cy="97.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/r2lp4db2g24db4g2db4k10lp4db2lp4g8db1k2db22lp4db2r2~x2/"><circle cx="194.9" cy="98.2" r="4" fill="#3465a4"><title>Couper of Gogar (Clan)</title></circle></a><a href="/setts/s19/dg28r12db1w2r1dg4db20lo2db3lo2db3dg7db3w1lo2w1db20dg4r12~x2/"><circle cx="224.1" cy="92.6" r="4" fill="#3465a4"><title>O'Kelly Family (Personal)</title></circle></a><a href="/setts/s14/w4db20k1g2k1g2k4g1w2g1k4g16dp8g1~x2/"><circle cx="169.6" cy="104.3" r="4" fill="#3465a4"><title>St Andrew</title></circle></a><a href="/setts/s15/g46r6g6r2g8r2g6r2g6dr36r2db47r6db24ly6/"><circle cx="197.7" cy="104.7" r="4" fill="#3465a4"><title>Cochrane Hunting</title></circle></a><a href="/setts/s16/g19k1g3k1g3k9db20k1ly1k7ly1k1db21k12g2g1~x2/"><circle cx="213.2" cy="113.3" r="4" fill="#3465a4"><title>Hope Vere Family Tartan Tartan Number: 759. Earliest known date: c.1815 Hopetoun House, South Queensferry, home of the Marquesses of Linlithgow, was built by Robert Adam. The Highland Society of London collected specimens of tartan sealed with the signature of the Clan Chief or Head of the family, from 1815 onwards. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/g2lo2g2lo2g2lo2g18k1g2k5db2k1db19w2db2w2db2w2~x2/"><circle cx="186.5" cy="88.0" r="4" fill="#3465a4"><title>Scottish Islamic (Corporate)</title></circle></a><a href="/setts/s16/t2k1dg15w2dg15k1t2k1r2k20t2k2t2k2t25k1~x2/"><circle cx="225.7" cy="100.5" r="4" fill="#3465a4"><title>Rankin, John (Personal)</title></circle></a><a href="/setts/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="212.3" cy="127.7" r="4" fill="#3465a4"><title>Robertson Htg - 1816 (Clan)</title></circle></a><a href="/setts/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="217.1" cy="127.7" r="4" fill="#3465a4"><title>Robertson Hunting</title></circle></a><a href="/setts/s18/r2m3db2dg32db3dg1db3k14m3db2m3dg12db1k1db30m4db2m2~x2/"><circle cx="253.2" cy="85.3" r="4" fill="#3465a4"><title>Cooper/Couper</title></circle></a><circle cx="198.5" cy="97.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s18/db2lp4r2g24db4g2db4k10lp4db2lp4g8db1k1db22lp4db2r2~x2/

@@ -9,6 +9,14 @@ This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2651
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacLulich
+- Stewart Blue
+- Stewart/Stuart Blue
+
 ## Attestations
 
 This cloth appears in 6 source records; the oldest owns this page.
@@ -322,6 +330,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -422,6 +431,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -681,6 +691,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,7 +928,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacBeth/Stewart Brydone 1862](/setts/s12/db33r8k12ly2k4w4k4dg12db8k4db4w2~x2/) — ΔT 0.24
 1. [Czech National (District)](/setts/s11/db4ly2db24k2db5r3k14g14w3r3db3~x2/) — ΔT 0.60
-1. [MacKusick Family Tartan of North America](/setts/s13/db8k2db3k12dp3w1dp3k16dg3w2r1w2dg8~x2/) — ΔT 0.72
+1. [MacKusick Family Tartan of North America](/setts/s13/dg8w2r1w2dg3k16dp3w1dp3k12db3k2db8~x2/) — ΔT 0.72
 1. [Héritage Séquane](/setts/s12/db5r2ly7r2db42dg28k5db10k15dg5w3r3/) — ΔT 0.78
 1. [Sacramento City Fire Department (P&D](/setts/s13/ly2db2w1db15k5g11k1r3k1g11k5db17w1~x2/) — ΔT 0.80
 1. [Heritage Sequane](/setts/s12/db5r2lo7r2db42g28k5db10k15g5w3r3/) — ΔT 0.82
@@ -928,8 +939,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db33r8k12ly2k4w4k4dg12db8k4db4w2~x2/"><circle cx="207.8" cy="120.3" r="4" fill="#3465a4"><title>MacBeth/Stewart Brydone 1862</title></circle></a><a href="/setts/s11/db4ly2db24k2db5r3k14g14w3r3db3~x2/"><circle cx="199.3" cy="140.4" r="4" fill="#3465a4"><title>Czech National (District)</title></circle></a><a href="/setts/s13/db8k2db3k12dp3w1dp3k16dg3w2r1w2dg8~x2/"><circle cx="197.4" cy="129.6" r="4" fill="#3465a4"><title>MacKusick Family Tartan of North America</title></circle></a><a href="/setts/s12/db5r2ly7r2db42dg28k5db10k15dg5w3r3/"><circle cx="230.2" cy="113.1" r="4" fill="#3465a4"><title>Héritage Séquane</title></circle></a><a href="/setts/s13/ly2db2w1db15k5g11k1r3k1g11k5db17w1~x2/"><circle cx="210.0" cy="127.1" r="4" fill="#3465a4"><title>Sacramento City Fire Department (P&amp;D</title></circle></a><a href="/setts/s12/db5r2lo7r2db42g28k5db10k15g5w3r3/"><circle cx="224.0" cy="110.9" r="4" fill="#3465a4"><title>Heritage Sequane</title></circle></a><a href="/setts/s12/n9m3n32n12k5n2k4n2k17p4k2lb2~x2/"><circle cx="204.2" cy="115.8" r="4" fill="#3465a4"><title>Scottish Spirit</title></circle></a><a href="/setts/s12/db53g10k20ly5k5w5k7r18db10k6db6w6/"><circle cx="173.6" cy="124.4" r="4" fill="#3465a4"><title>Broager (Name)</title></circle></a><a href="/setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/"><circle cx="171.6" cy="141.0" r="4" fill="#3465a4"><title>Stinson, Ancient</title></circle></a><a href="/setts/s10/w2r5k2lo3k4db28r4dg14k4w2~x2/"><circle cx="180.8" cy="120.1" r="4" fill="#3465a4"><title>Loch Lomond &amp; the Trossachs (Fashion</title></circle></a><circle cx="205.6" cy="119.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db33r8k12ly2k4w4k4dg12db8k4db4w2~x2/"><circle cx="207.8" cy="120.4" r="4" fill="#3465a4"><title>MacBeth/Stewart Brydone 1862</title></circle></a><a href="/setts/s11/db4ly2db24k2db5r3k14g14w3r3db3~x2/"><circle cx="199.3" cy="140.4" r="4" fill="#3465a4"><title>Czech National (District)</title></circle></a><a href="/setts/s13/dg8w2r1w2dg3k16dp3w1dp3k12db3k2db8~x2/"><circle cx="197.5" cy="129.7" r="4" fill="#3465a4"><title>MacKusick Family Tartan of North America</title></circle></a><a href="/setts/s12/db5r2ly7r2db42dg28k5db10k15dg5w3r3/"><circle cx="230.2" cy="113.2" r="4" fill="#3465a4"><title>Héritage Séquane</title></circle></a><a href="/setts/s13/ly2db2w1db15k5g11k1r3k1g11k5db17w1~x2/"><circle cx="210.0" cy="127.2" r="4" fill="#3465a4"><title>Sacramento City Fire Department (P&amp;D</title></circle></a><a href="/setts/s12/db5r2lo7r2db42g28k5db10k15g5w3r3/"><circle cx="224.0" cy="111.0" r="4" fill="#3465a4"><title>Heritage Sequane</title></circle></a><a href="/setts/s12/n9m3n32n12k5n2k4n2k17p4k2lb2~x2/"><circle cx="204.2" cy="115.9" r="4" fill="#3465a4"><title>Scottish Spirit</title></circle></a><a href="/setts/s12/db53g10k20ly5k5w5k7r18db10k6db6w6/"><circle cx="173.7" cy="124.5" r="4" fill="#3465a4"><title>Broager (Name)</title></circle></a><a href="/setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/"><circle cx="171.7" cy="141.0" r="4" fill="#3465a4"><title>Stinson, Ancient</title></circle></a><a href="/setts/s10/w2r5k2lo3k4db28r4dg14k4w2~x2/"><circle cx="180.8" cy="120.2" r="4" fill="#3465a4"><title>Loch Lomond &amp; the Trossachs (Fashion</title></circle></a><circle cx="205.6" cy="119.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/db33r8k12ly2k4w4k4g12db8k4db4w2~x2/

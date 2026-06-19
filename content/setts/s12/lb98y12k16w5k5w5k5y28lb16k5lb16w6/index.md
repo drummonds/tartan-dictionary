@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/6 N16 K5 N16 Na28 K5 LN5 K5 LN5 K16 Na12 N/98
+N/98 Na12 K16 LN5 K5 LN5 K5 Na28 N16 K5 N16 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -915,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/lb98n12k16w5k5w5k5n28lb16k5lb16w6/"><circle cx="331.4" cy="101.5" r="4" fill="#3465a4"><title>Glen Moy Tartan Tartan Number: 1293. Earliest known date: pre 1986 A colour variation of the Royal Stewart woven by Edgars, Pitlochry around 1986, named after the place in Angus described as follows: Its mainly Sheep farming in Glen Moy. Off the beaten track, its a very quiet area of the Angus glens close to Cortachy castle and great for walking if you like it to yourself! See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/lb26k7y1k1lb1k1y5dp3k1dp2lb1~x4/"><circle cx="328.7" cy="83.2" r="4" fill="#3465a4"><title>Grotto Dove</title></circle></a><a href="/setts/s10/dg7r3k3w54dg24r5dg5w5dg5r5~x2/"><circle cx="279.8" cy="108.9" r="4" fill="#3465a4"><title>Scott Dress #2</title></circle></a><a href="/setts/s10/r2w28db4w2k6w2r4k1r2w1~x2/"><circle cx="363.0" cy="78.3" r="4" fill="#3465a4"><title>Rothesay, Dress (VS)</title></circle></a><a href="/setts/s11/lb50db6lo2db3lb2db3y8dy8db2dy8lb2~x2/"><circle cx="318.7" cy="74.3" r="4" fill="#3465a4"><title>Renfrew #2</title></circle></a><a href="/setts/s11/w102db20w4db4w4db4dg20r18db3r10w4/"><circle cx="340.9" cy="63.1" r="4" fill="#3465a4"><title>Grotto Dove (Dance)</title></circle></a><a href="/setts/s10/w49dg11r2dg3w2dy10m9dg2m6w2~x2/"><circle cx="280.9" cy="72.9" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><a href="/setts/s15/k4t2w15r6w25t2k4t2w15t4k2t4k2t4k2~x2/"><circle cx="273.1" cy="118.3" r="4" fill="#3465a4"><title>Beck Dress (Personal)</title></circle></a><a href="/setts/s11/w38k10do2k3w2k3y8o3k2o3w2~x2/"><circle cx="267.5" cy="73.8" r="4" fill="#3465a4"><title>Glenmore Green</title></circle></a><a href="/setts/s9/lr18k1ly3k1lr2r2k2r2lr2~x4/"><circle cx="383.9" cy="115.9" r="4" fill="#3465a4"><title>Anthony Plaid Ecru</title></circle></a><circle cx="319.9" cy="96.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/lb98n12k16w5k5w5k5n28lb16k5lb16w6/"><circle cx="330.9" cy="101.3" r="4" fill="#3465a4"><title>Glen Moy Tartan Tartan Number: 1293. Earliest known date: pre 1986 A colour variation of the Royal Stewart woven by Edgars, Pitlochry around 1986, named after the place in Angus described as follows: Its mainly Sheep farming in Glen Moy. Off the beaten track, its a very quiet area of the Angus glens close to Cortachy castle and great for walking if you like it to yourself! See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/lb26k7y1k1lb1k1y5dp3k1dp2lb1~x4/"><circle cx="328.3" cy="83.0" r="4" fill="#3465a4"><title>Grotto Dove</title></circle></a><a href="/setts/s10/dg7r3k3w54dg24r5dg5w5dg5r5~x2/"><circle cx="279.4" cy="108.7" r="4" fill="#3465a4"><title>Scott Dress #2</title></circle></a><a href="/setts/s10/r2w28db4w2k6w2r4k1r2w1~x2/"><circle cx="362.4" cy="78.1" r="4" fill="#3465a4"><title>Rothesay, Dress (VS)</title></circle></a><a href="/setts/s11/lb50db6lo2db3lb2db3y8dy8db2dy8lb2~x2/"><circle cx="318.3" cy="74.1" r="4" fill="#3465a4"><title>Renfrew #2</title></circle></a><a href="/setts/s11/w102db20w4db4w4db4dg20r18db3r10w4/"><circle cx="340.3" cy="62.9" r="4" fill="#3465a4"><title>Grotto Dove (Dance)</title></circle></a><a href="/setts/s10/w49dg11r2dg3w2dy10m9dg2m6w2~x2/"><circle cx="280.5" cy="72.7" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><a href="/setts/s15/k4t2w15r6w25t2k4t2w15t4k2t4k2t4k2~x2/"><circle cx="272.6" cy="118.1" r="4" fill="#3465a4"><title>Beck Dress (Personal)</title></circle></a><a href="/setts/s11/w38k10do2k3w2k3y8o3k2o3w2~x2/"><circle cx="267.0" cy="73.7" r="4" fill="#3465a4"><title>Glenmore Green</title></circle></a><a href="/setts/s9/lr18k1ly3k1lr2r2k2r2lr2~x4/"><circle cx="383.3" cy="115.6" r="4" fill="#3465a4"><title>Anthony Plaid Ecru</title></circle></a><circle cx="319.4" cy="96.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/lb98y12k16w5k5w5k5y28lb16k5lb16w6/

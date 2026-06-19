@@ -20,7 +20,7 @@ GRYBWY
 
 
 
-### G R LY DB W LG <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="seq">G R LY DB W LG</span></span>
+### LG W DB LY R G <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LG W DB LY R G</span></span>
 
 | Tartans |
 |---------------|

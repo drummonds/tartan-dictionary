@@ -2,7 +2,7 @@
 title: "Unidentified, chair covering"
 date: 2023-03-18
 ---
-**Bands:** [GRGGGRGBGBR](/stripes/grgggrgbgbr/) · **Stripes:** [G R G DY Y R DY DO DY DP R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="seq">G R G DY Y R DY DO DY DP R</span></span>
+**Bands:** [RBGBGRGGGRG](/stripes/rbgbgrgggrg/) · **Stripes:** [R DP DY DO DY R Y DY G R G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DP DY DO DY R Y DY G R G</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -905,20 +908,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Unidentified Chair Covering](/setts/s11/r15dp3dy2do2dy3r3lo3dy3g3r4g2~x2/) — ΔT 0.51
-1. [Flowers of the Forest, The](/setts/s9/o2r4r2db5lg3y13r20do2r2~x2/) — ΔT 1.06
+1. [Flowers of the Forest, The](/setts/s9/r2do2r20y13lg3db5r2r4o2~x2/) — ΔT 1.06
 1. [Loch Lomond (1999)](/setts/s9/r28ly3r3db3r4dp8g10dp15dp4~x2/) — ΔT 1.08
 1. [Loch Lomond](/setts/s9/r28ly3r3dt3r4dp8dg10p15dp4~x2/) — ΔT 1.17
-1. [East Kilbride #2](/setts/s9/lo2r10do8n5k1n5k1r14w2~x4/) — ΔT 1.26
+1. [East Kilbride #2](/setts/s9/w2r14k1n5k1n5do8r10lo2~x4/) — ΔT 1.26
 1. [Rathmore](/setts/s12/r10lb1r2n1r1n1lo1n4lb2r1lb2lo1~x8/) — ΔT 1.41
-1. [Battle of Bannockburn, The](/setts/s8/lo1r2b3t2g6r9do1r1~x4/) — ΔT 1.41
+1. [Battle of Bannockburn, The](/setts/s8/r1do1r9g6t2b3r2lo1~x4/) — ΔT 1.41
 1. [Powys (District)](/setts/s12/dg24r7dg7r7dg7r22r7r4b4r4r40b14/) — ΔT 1.57
-1. [MacKinnon](/setts/s14/lr2r4n2dg8r16dg2db4r2dg16r6db2dg2r3n2~x2/) — ΔT 1.59
-1. [MacKinnon](/setts/s14/lr2r4n2dg8r16dg2db4r2dg16r6db2dg2r3n2/) — ΔT 1.59
+1. [MacKinnon](/setts/s14/n2r3dg2db2r6dg16r2db4dg2r16dg8n2r4lr2~x2/) — ΔT 1.59
+1. [MacKinnon](/setts/s14/n2r3dg2db2r6dg16r2db4dg2r16dg8n2r4lr2/) — ΔT 1.59
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r15dp3dy2do2dy3r3lo3dy3g3r4g2~x2/"><circle cx="259.0" cy="170.8" r="4" fill="#3465a4"><title>Unidentified Chair Covering</title></circle></a><a href="/setts/s9/o2r4r2db5lg3y13r20do2r2~x2/"><circle cx="291.4" cy="153.7" r="4" fill="#3465a4"><title>Flowers of the Forest, The</title></circle></a><a href="/setts/s9/r28ly3r3db3r4dp8g10dp15dp4~x2/"><circle cx="227.8" cy="168.5" r="4" fill="#3465a4"><title>Loch Lomond (1999)</title></circle></a><a href="/setts/s9/r28ly3r3dt3r4dp8dg10p15dp4~x2/"><circle cx="227.9" cy="170.1" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><a href="/setts/s9/lo2r10do8n5k1n5k1r14w2~x4/"><circle cx="279.6" cy="173.3" r="4" fill="#3465a4"><title>East Kilbride #2</title></circle></a><a href="/setts/s12/r10lb1r2n1r1n1lo1n4lb2r1lb2lo1~x8/"><circle cx="231.1" cy="122.4" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><a href="/setts/s8/lo1r2b3t2g6r9do1r1~x4/"><circle cx="223.1" cy="165.8" r="4" fill="#3465a4"><title>Battle of Bannockburn, The</title></circle></a><a href="/setts/s12/dg24r7dg7r7dg7r22r7r4b4r4r40b14/"><circle cx="235.2" cy="171.1" r="4" fill="#3465a4"><title>Powys (District)</title></circle></a><a href="/setts/s14/lr2r4n2dg8r16dg2db4r2dg16r6db2dg2r3n2~x2/"><circle cx="241.5" cy="169.2" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/setts/s14/lr2r4n2dg8r16dg2db4r2dg16r6db2dg2r3n2/"><circle cx="241.5" cy="169.2" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><circle cx="250.5" cy="168.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r15dp3dy2do2dy3r3lo3dy3g3r4g2~x2/"><circle cx="258.8" cy="171.0" r="4" fill="#3465a4"><title>Unidentified Chair Covering</title></circle></a><a href="/setts/s9/r2do2r20y13lg3db5r2r4o2~x2/"><circle cx="291.1" cy="153.8" r="4" fill="#3465a4"><title>Flowers of the Forest, The</title></circle></a><a href="/setts/s9/r28ly3r3db3r4dp8g10dp15dp4~x2/"><circle cx="227.7" cy="168.7" r="4" fill="#3465a4"><title>Loch Lomond (1999)</title></circle></a><a href="/setts/s9/r28ly3r3dt3r4dp8dg10p15dp4~x2/"><circle cx="227.9" cy="170.3" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><a href="/setts/s9/w2r14k1n5k1n5do8r10lo2~x4/"><circle cx="279.4" cy="173.5" r="4" fill="#3465a4"><title>East Kilbride #2</title></circle></a><a href="/setts/s12/r10lb1r2n1r1n1lo1n4lb2r1lb2lo1~x8/"><circle cx="230.8" cy="122.5" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><a href="/setts/s8/r1do1r9g6t2b3r2lo1~x4/"><circle cx="222.9" cy="165.9" r="4" fill="#3465a4"><title>Battle of Bannockburn, The</title></circle></a><a href="/setts/s12/dg24r7dg7r7dg7r22r7r4b4r4r40b14/"><circle cx="235.0" cy="171.3" r="4" fill="#3465a4"><title>Powys (District)</title></circle></a><a href="/setts/s14/n2r3dg2db2r6dg16r2db4dg2r16dg8n2r4lr2~x2/"><circle cx="241.3" cy="169.2" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/setts/s14/n2r3dg2db2r6dg16r2db4dg2r16dg8n2r4lr2/"><circle cx="241.3" cy="169.2" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><circle cx="250.4" cy="168.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/r15dp3dy2do2dy3r3y3dy3g3r4g2~x2/

@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Lindsay, dress Red
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -914,8 +923,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg26r3dg3r3dg3r11w27r3w5~x2/"><circle cx="204.7" cy="169.8" r="4" fill="#3465a4"><title>Lindsay Dress Red</title></circle></a><a href="/setts/s8/lo24dy3lo3dy3lo3dy20w22dy4~x2/"><circle cx="212.1" cy="201.4" r="4" fill="#3465a4"><title>Baillie Dress</title></circle></a><a href="/setts/s11/g6w4g3w4g2w7g2w2g5r15w2~x2/"><circle cx="163.3" cy="182.7" r="4" fill="#3465a4"><title>Prince George (Royal)</title></circle></a><a href="/setts/s8/lo22do2lo2do2lo2do15w17do3~x2/"><circle cx="222.9" cy="175.2" r="4" fill="#3465a4"><title>Turnberry Manx Snaefell Family Tartan Tartan Number: 1749. Earliest known date: 1981 A coincidence. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/y22dy2y2dy2y2dy14w16dy3~x2/"><circle cx="248.0" cy="189.8" r="4" fill="#3465a4"><title>Snaefell (District)</title></circle></a><a href="/setts/s14/w16dy14y2dy2y2dy2y22dy2y2dy2y2dy14w16dy3~x2/"><circle cx="214.7" cy="158.0" r="4" fill="#3465a4"><title>Snaefell</title></circle></a><a href="/setts/s9/g33n4g4n4g4n12w33n3w6~x2/"><circle cx="224.1" cy="176.5" r="4" fill="#3465a4"><title>Lindsay Dress, Green (Dance)</title></circle></a><a href="/setts/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/"><circle cx="236.1" cy="179.8" r="4" fill="#3465a4"><title>Kildonan Brown (Fashion)</title></circle></a><a href="/setts/s9/r20k2r2k2r2k8g24db2g3~x2/"><circle cx="224.1" cy="148.9" r="4" fill="#3465a4"><title>Mostyn</title></circle></a><a href="/setts/s6/g4lb31g7r14g11r3~x2/"><circle cx="240.5" cy="210.4" r="4" fill="#3465a4"><title>Gleneagles USA (Dalgleish)</title></circle></a><circle cx="210.4" cy="174.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg26r3dg3r3dg3r11w27r3w5~x2/"><circle cx="204.3" cy="169.6" r="4" fill="#3465a4"><title>Lindsay Dress Red</title></circle></a><a href="/setts/s8/lo24dy3lo3dy3lo3dy20w22dy4~x2/"><circle cx="211.8" cy="201.3" r="4" fill="#3465a4"><title>Baillie Dress</title></circle></a><a href="/setts/s11/g6w4g3w4g2w7g2w2g5r15w2~x2/"><circle cx="162.8" cy="182.6" r="4" fill="#3465a4"><title>Prince George (Royal)</title></circle></a><a href="/setts/s8/lo22do2lo2do2lo2do15w17do3~x2/"><circle cx="222.6" cy="175.0" r="4" fill="#3465a4"><title>Turnberry Manx Snaefell Family Tartan Tartan Number: 1749. Earliest known date: 1981 A coincidence. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/y22dy2y2dy2y2dy14w16dy3~x2/"><circle cx="247.7" cy="189.7" r="4" fill="#3465a4"><title>Snaefell (District)</title></circle></a><a href="/setts/s14/w16dy14y2dy2y2dy2y22dy2y2dy2y2dy14w16dy3~x2/"><circle cx="214.4" cy="157.9" r="4" fill="#3465a4"><title>Snaefell</title></circle></a><a href="/setts/s9/g33n4g4n4g4n12w33n3w6~x2/"><circle cx="223.8" cy="176.3" r="4" fill="#3465a4"><title>Lindsay Dress, Green (Dance)</title></circle></a><a href="/setts/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/"><circle cx="235.8" cy="179.7" r="4" fill="#3465a4"><title>Kildonan Brown (Fashion)</title></circle></a><a href="/setts/s9/r20k2r2k2r2k8g24db2g3~x2/"><circle cx="223.8" cy="148.8" r="4" fill="#3465a4"><title>Mostyn</title></circle></a><a href="/setts/s6/g4lb31g7r14g11r3~x2/"><circle cx="240.2" cy="210.2" r="4" fill="#3465a4"><title>Gleneagles USA (Dalgleish)</title></circle></a><circle cx="210.0" cy="174.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/g26r3g3r3g3r11w27r3w5~x2/

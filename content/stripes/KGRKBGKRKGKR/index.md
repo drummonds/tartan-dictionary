@@ -22,6 +22,6 @@ KGRKBGKRKGKR
 
 | Tartans |
 |---------------|
-| [Grant, Piper to the Laird of](/setts/s12/o24k2y8k2o8k1y24db6k2o14y18k4/)|
-|![Grant, Piper to the Laird of example sett](/setts/s12/o24k2y8k2o8k1y24db6k2o14y18k4/sett.png)|
+| [Grant, Piper to the Laird of](/setts/s12/o24k2y8k2o8k1y24db6k2o14y18k4~x2/)|
+|![Grant, Piper to the Laird of example sett](/setts/s12/o24k2y8k2o8k1y24db6k2o14y18k4~x2/sett.png)|
 

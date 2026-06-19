@@ -21,14 +21,14 @@ BKR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DT K R <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DT K R</span></span>
+### R K DT <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">R K DT</span></span>
 
 | Tartans |
 |---------------|
 | [Allen, Nicholas (Personal)](/setts/s3/dt1k2r1~x42/)|
 |![Allen, Nicholas (Personal) example sett](/setts/s3/dt1k2r1~x42/sett.png)|
 
-### T K R <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">T K R</span></span>
+### R K T <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">R K T</span></span>
 
 | Tartans |
 |---------------|

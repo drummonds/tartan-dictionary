@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands1
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1607/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Barbecue, Plaid
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -319,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -893,7 +902,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-R/2 K2 R2 K2 R2 K28 W16 R4 K4 Y/4
+Y/4 K4 R4 W16 K28 R2 K2 R2 K2 R/2
 ![Sett](sett.png)
 
 ## Palette
@@ -910,21 +919,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Meg Merrilees, New (1831)](/setts/s9/t5r5k58r5t5r5w25r5t4/) — ΔT 1.09
+1. [Meg Merrilees, New (1831)](/setts/s9/t5r5k58r5t5r5w25r5t4/) — ΔT 1.10
 1. [Cunard o' the Clyde](/setts/s8/r10k3w1k15ly1w3k3ly1~x4/) — ΔT 1.10
 1. [Woodberry Forest School (Corporate)](/setts/s10/r6k3w3k3w3k34r6g5r6k5~x2/) — ΔT 1.12
-1. [Gordon, dress 1](/setts/s9/ly4k4g12k37w4k4w16k2w4~x2/) — ΔT 1.19
+1. [Gordon, dress 1](/setts/s9/w4k2w16k4w4k37g12k4ly4~x2/) — ΔT 1.19
 1. [Phantom](/setts/s7/w3o10k38w11o6k2w3~x2/) — ΔT 1.23
 1. [Wcwm 972-2](/setts/s13/lb7k1k1o2k18lb2k1k2k1lb6k1k1lb1~x4/) — ΔT 1.23
 1. [Braemar, or Blair Atholl](/setts/s10/o1w2k5o3k1o5k1o11k1o1~x4/) — ΔT 1.25
-1. [Gordon Dress (MacGregor-Hastie)](/setts/s9/ly4k4dg12k37w4k4w16k2w4~x2/) — ΔT 1.25
+1. [Gordon Dress (MacGregor-Hastie)](/setts/s9/w4k2w16k4w4k37dg12k4ly4~x2/) — ΔT 1.25
 1. [Freger](/setts/s13/w1ly2k8dp6k15ly1k1w1k15dp5w8ly1w1~x2/) — ΔT 1.28
 1. [Good Conduct (USA)](/setts/s10/db5r12k38r4w2r2w2r2w2r4~x2/) — ΔT 1.29
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/t5r5k58r5t5r5w25r5t4/"><circle cx="248.5" cy="122.8" r="4" fill="#3465a4"><title>Meg Merrilees, New (1831)</title></circle></a><a href="/setts/s8/r10k3w1k15ly1w3k3ly1~x4/"><circle cx="303.5" cy="152.2" r="4" fill="#3465a4"><title>Cunard o' the Clyde</title></circle></a><a href="/setts/s10/r6k3w3k3w3k34r6g5r6k5~x2/"><circle cx="325.7" cy="150.3" r="4" fill="#3465a4"><title>Woodberry Forest School (Corporate)</title></circle></a><a href="/setts/s9/ly4k4g12k37w4k4w16k2w4~x2/"><circle cx="271.0" cy="137.9" r="4" fill="#3465a4"><title>Gordon, dress 1</title></circle></a><a href="/setts/s7/w3o10k38w11o6k2w3~x2/"><circle cx="286.9" cy="140.4" r="4" fill="#3465a4"><title>Phantom</title></circle></a><a href="/setts/s13/lb7k1k1o2k18lb2k1k2k1lb6k1k1lb1~x4/"><circle cx="275.1" cy="107.6" r="4" fill="#3465a4"><title>Wcwm 972-2</title></circle></a><a href="/setts/s10/o1w2k5o3k1o5k1o11k1o1~x4/"><circle cx="270.5" cy="159.6" r="4" fill="#3465a4"><title>Braemar, or Blair Atholl</title></circle></a><a href="/setts/s9/ly4k4dg12k37w4k4w16k2w4~x2/"><circle cx="276.4" cy="136.2" r="4" fill="#3465a4"><title>Gordon Dress (MacGregor-Hastie)</title></circle></a><a href="/setts/s13/w1ly2k8dp6k15ly1k1w1k15dp5w8ly1w1~x2/"><circle cx="297.1" cy="137.6" r="4" fill="#3465a4"><title>Freger</title></circle></a><a href="/setts/s10/db5r12k38r4w2r2w2r2w2r4~x2/"><circle cx="304.9" cy="103.6" r="4" fill="#3465a4"><title>Good Conduct (USA)</title></circle></a><circle cx="271.4" cy="127.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/t5r5k58r5t5r5w25r5t4/"><circle cx="248.3" cy="122.7" r="4" fill="#3465a4"><title>Meg Merrilees, New (1831)</title></circle></a><a href="/setts/s8/r10k3w1k15ly1w3k3ly1~x4/"><circle cx="303.3" cy="152.0" r="4" fill="#3465a4"><title>Cunard o' the Clyde</title></circle></a><a href="/setts/s10/r6k3w3k3w3k34r6g5r6k5~x2/"><circle cx="325.5" cy="150.1" r="4" fill="#3465a4"><title>Woodberry Forest School (Corporate)</title></circle></a><a href="/setts/s9/w4k2w16k4w4k37g12k4ly4~x2/"><circle cx="271.0" cy="137.7" r="4" fill="#3465a4"><title>Gordon, dress 1</title></circle></a><a href="/setts/s7/w3o10k38w11o6k2w3~x2/"><circle cx="286.7" cy="140.2" r="4" fill="#3465a4"><title>Phantom</title></circle></a><a href="/setts/s13/lb7k1k1o2k18lb2k1k2k1lb6k1k1lb1~x4/"><circle cx="275.0" cy="107.5" r="4" fill="#3465a4"><title>Wcwm 972-2</title></circle></a><a href="/setts/s10/o1w2k5o3k1o5k1o11k1o1~x4/"><circle cx="270.3" cy="159.4" r="4" fill="#3465a4"><title>Braemar, or Blair Atholl</title></circle></a><a href="/setts/s9/w4k2w16k4w4k37dg12k4ly4~x2/"><circle cx="276.2" cy="136.0" r="4" fill="#3465a4"><title>Gordon Dress (MacGregor-Hastie)</title></circle></a><a href="/setts/s13/w1ly2k8dp6k15ly1k1w1k15dp5w8ly1w1~x2/"><circle cx="296.9" cy="137.4" r="4" fill="#3465a4"><title>Freger</title></circle></a><a href="/setts/s10/db5r12k38r4w2r2w2r2w2r4~x2/"><circle cx="304.6" cy="103.5" r="4" fill="#3465a4"><title>Good Conduct (USA)</title></circle></a><circle cx="271.3" cy="127.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/ly2k2r2w8k14r1k1r1k1r1~x2/

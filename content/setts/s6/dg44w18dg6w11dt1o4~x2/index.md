@@ -2,12 +2,18 @@
 title: "Westfalia (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GWGWBR](/stripes/gwgwbr/) · **Stripes:** [DG W DG W DT O](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DG W DG W DT O</span></span>
+**Bands:** [RBWGWG](/stripes/rbwgwg/) · **Stripes:** [O DT W DG W DG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">O DT W DG W DG</span></span>
 
 
 This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7523/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Westfalia German
 
 ## Attestations
 
@@ -48,9 +54,9 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Westfalia Dress (Corporate)](/setts/s6/w44dg18w6dg11dt1o4~x2/) — ΔT 1.27
 1. [Longniddry Green Error (Dance)](/setts/s8/g42ly1w2ly1g5dg12w32g4~x2/) — ΔT 1.29
-1. [MacGregor, Green](/setts/s6/w47g20w6g8k1r3~x2/) — ΔT 1.34
-1. [Skye, Green (Dance)](/setts/s6/ly4g21w36n1w2n4~x2/) — ΔT 1.43
-1. [MacGregor Dress Green (Dance)](/setts/s6/w52dg22w6dg8k1r3~x2/) — ΔT 1.46
+1. [MacGregor, Green](/setts/s6/w47g20w6g8k1r3~x2/) — ΔT 1.35
+1. [Skye, Green (Dance)](/setts/s6/n4w2n1w36g21ly4~x2/) — ΔT 1.43
+1. [MacGregor Dress Green (Dance)](/setts/s6/w52dg22w6dg8k1r3~x2/) — ΔT 1.47
 1. [McGuinness, Tam (Personal)](/setts/s5/lo2db4g60p30w1~x2/) — ΔT 1.57
 1. [MacGregor - 1975 (Dance, Green)](/setts/s6/w52g22w6g8k1r3~x2/) — ΔT 1.57
 1. [Madras 2 (Fashion)](/setts/s7/g30k2w3k1w4t6w2~x4/) — ΔT 1.61
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/w44dg18w6dg11dt1o4~x2/"><circle cx="359.9" cy="115.9" r="4" fill="#3465a4"><title>Westfalia Dress (Corporate)</title></circle></a><a href="/setts/s8/g42ly1w2ly1g5dg12w32g4~x2/"><circle cx="304.2" cy="103.9" r="4" fill="#3465a4"><title>Longniddry Green Error (Dance)</title></circle></a><a href="/setts/s6/w47g20w6g8k1r3~x2/"><circle cx="397.1" cy="116.5" r="4" fill="#3465a4"><title>MacGregor, Green</title></circle></a><a href="/setts/s6/ly4g21w36n1w2n4~x2/"><circle cx="337.4" cy="121.3" r="4" fill="#3465a4"><title>Skye, Green (Dance)</title></circle></a><a href="/setts/s6/w52dg22w6dg8k1r3~x2/"><circle cx="385.5" cy="101.0" r="4" fill="#3465a4"><title>MacGregor Dress Green (Dance)</title></circle></a><a href="/setts/s5/lo2db4g60p30w1~x2/"><circle cx="383.7" cy="113.6" r="4" fill="#3465a4"><title>McGuinness, Tam (Personal)</title></circle></a><a href="/setts/s6/w52g22w6g8k1r3~x2/"><circle cx="389.3" cy="102.6" r="4" fill="#3465a4"><title>MacGregor - 1975 (Dance, Green)</title></circle></a><a href="/setts/s7/g30k2w3k1w4t6w2~x4/"><circle cx="381.8" cy="130.7" r="4" fill="#3465a4"><title>Madras 2 (Fashion)</title></circle></a><a href="/setts/s7/g3lo16w4k6g28lo1g3~x4/"><circle cx="337.8" cy="145.2" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/setts/s7/ly6dg36w5b4w30b1w2~x2/"><circle cx="270.1" cy="114.7" r="4" fill="#3465a4"><title>Pearce Scotch Plaid 4 (Fashion)</title></circle></a><circle cx="363.1" cy="127.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/w44dg18w6dg11dt1o4~x2/"><circle cx="359.3" cy="115.6" r="4" fill="#3465a4"><title>Westfalia Dress (Corporate)</title></circle></a><a href="/setts/s8/g42ly1w2ly1g5dg12w32g4~x2/"><circle cx="303.8" cy="103.7" r="4" fill="#3465a4"><title>Longniddry Green Error (Dance)</title></circle></a><a href="/setts/s6/w47g20w6g8k1r3~x2/"><circle cx="396.5" cy="116.2" r="4" fill="#3465a4"><title>MacGregor, Green</title></circle></a><a href="/setts/s6/n4w2n1w36g21ly4~x2/"><circle cx="336.9" cy="121.0" r="4" fill="#3465a4"><title>Skye, Green (Dance)</title></circle></a><a href="/setts/s6/w52dg22w6dg8k1r3~x2/"><circle cx="384.9" cy="100.6" r="4" fill="#3465a4"><title>MacGregor Dress Green (Dance)</title></circle></a><a href="/setts/s5/lo2db4g60p30w1~x2/"><circle cx="383.4" cy="113.4" r="4" fill="#3465a4"><title>McGuinness, Tam (Personal)</title></circle></a><a href="/setts/s6/w52g22w6g8k1r3~x2/"><circle cx="388.7" cy="102.3" r="4" fill="#3465a4"><title>MacGregor - 1975 (Dance, Green)</title></circle></a><a href="/setts/s7/g30k2w3k1w4t6w2~x4/"><circle cx="381.5" cy="130.4" r="4" fill="#3465a4"><title>Madras 2 (Fashion)</title></circle></a><a href="/setts/s7/g3lo16w4k6g28lo1g3~x4/"><circle cx="337.5" cy="145.0" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/setts/s7/ly6dg36w5b4w30b1w2~x2/"><circle cx="269.8" cy="114.5" r="4" fill="#3465a4"><title>Pearce Scotch Plaid 4 (Fashion)</title></circle></a><circle cx="362.7" cy="127.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/dg44w18dg6w11dt1o4~x2/

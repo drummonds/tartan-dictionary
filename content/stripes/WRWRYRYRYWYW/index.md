@@ -22,6 +22,6 @@ WRWRYRYRYWYW
 
 | Tartans |
 |---------------|
-| [Bob the Builder (Corporate?)](/setts/s12/w1ly3w1ly28r1ly3r3ly1r28w1r3w1~x2/)|
-|![Bob the Builder (Corporate?) example sett](/setts/s12/w1ly3w1ly28r1ly3r3ly1r28w1r3w1~x2/sett.png)|
+| [Bob the Builder (Corporate?)](/setts/s12/w1r3w1r28ly1r3ly3r1ly28w1ly3w1~x2/)|
+|![Bob the Builder (Corporate?) example sett](/setts/s12/w1r3w1r28ly1r3ly3r1ly28w1ly3w1~x2/sett.png)|
 

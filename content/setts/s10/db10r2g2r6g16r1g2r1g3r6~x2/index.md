@@ -2,7 +2,7 @@
 title: "Nithsdale"
 date: 2023-03-18
 ---
-**Bands:** [BRGRGRGRGR](/stripes/brgrgrgrgr/) · **Stripes:** [DB R G R G R G R G R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R G R G R G R G R</span></span>
+**Bands:** [RGRGRGRGRB](/stripes/rgrgrgrgrb/) · **Stripes:** [R G R G R G R G R DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R G R G R G R G R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -918,7 +921,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Nithsdale (3 colours) (District)](/setts/s10/db10r2g2r6g16r1g2r1g3r6~x4/) — ΔT 0.60
 1. [Skene](/setts/s7/db6r3g1r3g12r3g1~x2/) — ΔT 0.89
 1. [Logan](/setts/s7/db8r3db1r3g14r3db1~x4/) — ΔT 0.97
-1. [Skene #2](/setts/s12/db6r3g1r3g12r3g1r3g12r3g1r3~x4/) — ΔT 0.99
+1. [Skene #2](/setts/s12/db6r3g1r3g12r3g1~x4/) — ΔT 0.99
 1. [Stewart of Urrard](/setts/s14/g6r2g2r18db9r3g3r3db9r3g24r2g2r4~x2/) — ΔT 1.04
 1. [Skene - 1831 (Clan)](/setts/s7/db6r3g1r3g12r3g1~x4/) — ΔT 1.05
 1. [Unidentified Plaid 6](/setts/s10/r4t3r32db30r4g32r3g32r3g3~x2/) — ΔT 1.06
@@ -928,8 +931,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db10r2g2r6g16r1g2r1g3r6~x4/"><circle cx="302.7" cy="184.8" r="4" fill="#3465a4"><title>Nithsdale (3 colours) (District)</title></circle></a><a href="/setts/s7/db6r3g1r3g12r3g1~x2/"><circle cx="298.0" cy="216.7" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/setts/s7/db8r3db1r3g14r3db1~x4/"><circle cx="280.1" cy="206.5" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/setts/s12/db6r3g1r3g12r3g1r3g12r3g1r3~x4/"><circle cx="325.3" cy="195.1" r="4" fill="#3465a4"><title>Skene #2</title></circle></a><a href="/setts/s14/g6r2g2r18db9r3g3r3db9r3g24r2g2r4~x2/"><circle cx="269.6" cy="172.6" r="4" fill="#3465a4"><title>Stewart of Urrard</title></circle></a><a href="/setts/s7/db6r3g1r3g12r3g1~x4/"><circle cx="299.0" cy="216.8" r="4" fill="#3465a4"><title>Skene - 1831 (Clan)</title></circle></a><a href="/setts/s10/r4t3r32db30r4g32r3g32r3g3~x2/"><circle cx="261.5" cy="183.0" r="4" fill="#3465a4"><title>Unidentified Plaid 6</title></circle></a><a href="/setts/s12/r6g28r6dp2r6dp19r6dp2r6g28r6dp2~x2/"><circle cx="305.4" cy="179.4" r="4" fill="#3465a4"><title>Wilson's No.119</title></circle></a><a href="/setts/s11/db1r2g12r10db12r2g12r10g12r2db1~x4/"><circle cx="278.0" cy="210.8" r="4" fill="#3465a4"><title>Glasgow (Error)</title></circle></a><a href="/setts/s12/db24r7g7r39db4r2db2r5g42r7db6r7~x2/"><circle cx="307.7" cy="152.8" r="4" fill="#3465a4"><title>Drummond</title></circle></a><circle cx="302.0" cy="184.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db10r2g2r6g16r1g2r1g3r6~x4/"><circle cx="302.5" cy="184.7" r="4" fill="#3465a4"><title>Nithsdale (3 colours) (District)</title></circle></a><a href="/setts/s7/db6r3g1r3g12r3g1~x2/"><circle cx="297.8" cy="216.5" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/setts/s7/db8r3db1r3g14r3db1~x4/"><circle cx="280.0" cy="206.4" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/setts/s12/db6r3g1r3g12r3g1~x4/"><circle cx="325.1" cy="195.0" r="4" fill="#3465a4"><title>Skene #2</title></circle></a><a href="/setts/s14/g6r2g2r18db9r3g3r3db9r3g24r2g2r4~x2/"><circle cx="269.3" cy="172.5" r="4" fill="#3465a4"><title>Stewart of Urrard</title></circle></a><a href="/setts/s7/db6r3g1r3g12r3g1~x4/"><circle cx="298.8" cy="216.7" r="4" fill="#3465a4"><title>Skene - 1831 (Clan)</title></circle></a><a href="/setts/s10/r4t3r32db30r4g32r3g32r3g3~x2/"><circle cx="261.3" cy="183.0" r="4" fill="#3465a4"><title>Unidentified Plaid 6</title></circle></a><a href="/setts/s12/r6g28r6dp2r6dp19r6dp2r6g28r6dp2~x2/"><circle cx="305.2" cy="179.3" r="4" fill="#3465a4"><title>Wilson's No.119</title></circle></a><a href="/setts/s11/db1r2g12r10db12r2g12r10g12r2db1~x4/"><circle cx="277.9" cy="210.7" r="4" fill="#3465a4"><title>Glasgow (Error)</title></circle></a><a href="/setts/s12/db24r7g7r39db4r2db2r5g42r7db6r7~x2/"><circle cx="307.4" cy="152.7" r="4" fill="#3465a4"><title>Drummond</title></circle></a><circle cx="301.7" cy="184.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db10r2g2r6g16r1g2r1g3r6~x2/

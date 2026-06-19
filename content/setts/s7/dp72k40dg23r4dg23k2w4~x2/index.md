@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1170
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Ferguson, Unidentified
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -17,7 +23,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 338
 
 ## Thread count
-LN/8 K4 G46 R8 G46 K80 P/144
+P/144 K80 G46 R8 G46 K4 LN/8
 ![Sett](sett.png)
 
 ## Palette
@@ -33,7 +39,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/8 K4 G46 R8 G46 K80 P/144 tartan")
+![Tartan detail](tartan.png "P/144 K80 G46 R8 G46 K4 LN/8 tartan")
 
 ## Nearest tartans
 
@@ -52,8 +58,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db3dg1r22k12db28lb3~x2/"><circle cx="281.9" cy="165.6" r="4" fill="#3465a4"><title>Diaspora</title></circle></a><a href="/setts/s5/lb3db28k12r22dg1~x2/"><circle cx="264.4" cy="179.8" r="4" fill="#3465a4"><title>Diaspora (Fashion)</title></circle></a><a href="/setts/s6/o3r18k2dg18k24r1~x2/"><circle cx="247.0" cy="179.6" r="4" fill="#3465a4"><title>205 (Scottish) Field Hospital (Mil.)</title></circle></a><a href="/setts/s6/dt3dg1r24dt16db28w3~x2/"><circle cx="243.4" cy="158.3" r="4" fill="#3465a4"><title>Diaspora</title></circle></a><a href="/setts/s7/k8r4k36db48r6g3lo2~x2/"><circle cx="320.7" cy="163.3" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/setts/s8/m13dg16dg4dp4dg4dp34lo1dp1~x2/"><circle cx="342.7" cy="143.2" r="4" fill="#3465a4"><title>Heather Mead (Personal)</title></circle></a><a href="/setts/s7/db24k8g8dp2g8k1w2~x2/"><circle cx="254.9" cy="159.1" r="4" fill="#3465a4"><title>Alexander</title></circle></a><a href="/setts/s6/lo4b8dp4k53db54w2/"><circle cx="295.2" cy="149.2" r="4" fill="#3465a4"><title>Pipers' Trail (Corporate)</title></circle></a><a href="/setts/s6/r6db32k18g28k1lb2~x2/"><circle cx="234.2" cy="167.2" r="4" fill="#3465a4"><title>Naysmith (Name)</title></circle></a><a href="/setts/s6/db37o18k37r2k2r2~x2/"><circle cx="272.8" cy="195.7" r="4" fill="#3465a4"><title>Hakkarain Personal Finnish Tartan Tartan Number: 6110. Earliest known date: 2003 A personal tartan designed by Jari Hakkarainen of Porvoo in Finland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="281.4" cy="144.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db3dg1r22k12db28lb3~x2/"><circle cx="282.0" cy="165.6" r="4" fill="#3465a4"><title>Diaspora</title></circle></a><a href="/setts/s5/lb3db28k12r22dg1~x2/"><circle cx="264.5" cy="179.8" r="4" fill="#3465a4"><title>Diaspora (Fashion)</title></circle></a><a href="/setts/s6/o3r18k2dg18k24r1~x2/"><circle cx="247.2" cy="179.6" r="4" fill="#3465a4"><title>205 (Scottish) Field Hospital (Mil.)</title></circle></a><a href="/setts/s6/dt3dg1r24dt16db28w3~x2/"><circle cx="243.4" cy="158.4" r="4" fill="#3465a4"><title>Diaspora</title></circle></a><a href="/setts/s7/k8r4k36db48r6g3lo2~x2/"><circle cx="320.8" cy="163.4" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/setts/s8/m13dg16dg4dp4dg4dp34lo1dp1~x2/"><circle cx="342.6" cy="143.2" r="4" fill="#3465a4"><title>Heather Mead (Personal)</title></circle></a><a href="/setts/s7/db24k8g8dp2g8k1w2~x2/"><circle cx="255.0" cy="159.1" r="4" fill="#3465a4"><title>Alexander</title></circle></a><a href="/setts/s6/lo4b8dp4k53db54w2/"><circle cx="295.3" cy="149.3" r="4" fill="#3465a4"><title>Pipers' Trail (Corporate)</title></circle></a><a href="/setts/s6/r6db32k18g28k1lb2~x2/"><circle cx="234.3" cy="167.2" r="4" fill="#3465a4"><title>Naysmith (Name)</title></circle></a><a href="/setts/s6/db37o18k37r2k2r2~x2/"><circle cx="272.9" cy="195.7" r="4" fill="#3465a4"><title>Hakkarain Personal Finnish Tartan Tartan Number: 6110. Earliest known date: 2003 A personal tartan designed by Jari Hakkarainen of Porvoo in Finland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="281.4" cy="144.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/dp72k40dg23r4dg23k2w4~x2/

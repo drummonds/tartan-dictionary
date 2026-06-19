@@ -22,6 +22,6 @@ GRGRGBYGGBW
 
 | Tartans |
 |---------------|
-| [Porcupine](/setts/s11/w1t1y1g1ly7dr8y1o1y3r1y1~x2/)|
-|![Porcupine example sett](/setts/s11/w1t1y1g1ly7dr8y1o1y3r1y1~x2/sett.png)|
+| [Porcupine](/setts/s11/y1r1y3o1y1dr8ly7g1y1t1w1~x2/)|
+|![Porcupine example sett](/setts/s11/y1r1y3o1y1dr8ly7g1y1t1w1~x2/sett.png)|
 

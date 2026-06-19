@@ -2,7 +2,7 @@
 title: "Hunter (USA)"
 date: 2023-03-18
 ---
-**Bands:** [GRGRBRWGBGY](/stripes/grgrbrwgbgy/) · **Stripes:** [DG R DG R DB R W DG DB DG LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DG R DG R DB R W DG DB DG LY</span></span>
+**Bands:** [YGBGWRBRGRG](/stripes/ygbgwrbrgrg/) · **Stripes:** [LY DG DB DG W R DB R DG R DG](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">LY DG DB DG W R DB R DG R DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
@@ -43,20 +43,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [MacKinnon](/setts/s14/dp2r3dg2db2r6dg16r2db4dg2r16dg8dp2r4lb2/) — ΔT 1.02
-1. [MacQuarrie SM](/setts/s12/lb1r1db1r6dg6r1dg6r1db3r6lb1r1~x2/) — ΔT 1.04
+1. [MacQuarrie SM](/setts/s12/r1lb1r6db3r1dg6r1dg6r6db1r1lb1~x2/) — ΔT 1.04
 1. [Nicolson](/setts/s13/db2r11g2r11g21r2k9t2db11r11g2r11db2~x2/) — ΔT 1.06
 1. [MacKinnon #5](/setts/s14/k4r3dg2db2r6dg15r2db4dg2r15dg7k2r4w2~x2/) — ΔT 1.06
 1. [Highland Spring (1985)](/setts/s12/r16k2r9g12lo2g10b3k2b3k2b3r10~x2/) — ΔT 1.06
-1. [Matheson N](/setts/s13/r2dg2r12db10lb3dg10r2dg2r2dg10r12dg2r2/) — ΔT 1.08
+1. [Matheson N](/setts/s13/r2dg2r12dg10r2dg2r2dg10lb3db10r12dg2r2/) — ΔT 1.08
 1. [MacKinnon #3](/setts/s14/dp3r4dg3db3r7dg17r3db5dg4r21dg7dp3r6w3~x2/) — ΔT 1.13
 1. [Seton (Clan)](/setts/s10/g3w1g6r2dp2r1k2r10g1r2~x8/) — ΔT 1.15
 1. [MacKinnon #8](/setts/s14/dp2r3dg2db2r6dg16r2db4dg2r16dg8dp2r4w2~x2/) — ΔT 1.16
-1. [Bruce County](/setts/s12/lo1r8g2r2g6r1g6r2g2r7db1w1~x4/) — ΔT 1.16
+1. [Bruce County](/setts/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/) — ΔT 1.17
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/dp2r3dg2db2r6dg16r2db4dg2r16dg8dp2r4lb2/"><circle cx="214.8" cy="152.6" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/setts/s12/lb1r1db1r6dg6r1dg6r1db3r6lb1r1~x2/"><circle cx="218.6" cy="188.9" r="4" fill="#3465a4"><title>MacQuarrie SM</title></circle></a><a href="/setts/s13/db2r11g2r11g21r2k9t2db11r11g2r11db2~x2/"><circle cx="201.2" cy="153.1" r="4" fill="#3465a4"><title>Nicolson</title></circle></a><a href="/setts/s14/k4r3dg2db2r6dg15r2db4dg2r15dg7k2r4w2~x2/"><circle cx="192.8" cy="155.8" r="4" fill="#3465a4"><title>MacKinnon #5</title></circle></a><a href="/setts/s12/r16k2r9g12lo2g10b3k2b3k2b3r10~x2/"><circle cx="194.5" cy="163.3" r="4" fill="#3465a4"><title>Highland Spring (1985)</title></circle></a><a href="/setts/s13/r2dg2r12db10lb3dg10r2dg2r2dg10r12dg2r2/"><circle cx="207.3" cy="190.5" r="4" fill="#3465a4"><title>Matheson N</title></circle></a><a href="/setts/s14/dp3r4dg3db3r7dg17r3db5dg4r21dg7dp3r6w3~x2/"><circle cx="207.1" cy="158.7" r="4" fill="#3465a4"><title>MacKinnon #3</title></circle></a><a href="/setts/s10/g3w1g6r2dp2r1k2r10g1r2~x8/"><circle cx="253.2" cy="156.1" r="4" fill="#3465a4"><title>Seton (Clan)</title></circle></a><a href="/setts/s14/dp2r3dg2db2r6dg16r2db4dg2r16dg8dp2r4w2~x2/"><circle cx="215.8" cy="149.5" r="4" fill="#3465a4"><title>MacKinnon #8</title></circle></a><a href="/setts/s12/lo1r8g2r2g6r1g6r2g2r7db1w1~x4/"><circle cx="264.7" cy="172.6" r="4" fill="#3465a4"><title>Bruce County</title></circle></a><circle cx="229.3" cy="181.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/dp2r3dg2db2r6dg16r2db4dg2r16dg8dp2r4lb2/"><circle cx="214.6" cy="152.7" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/setts/s12/r1lb1r6db3r1dg6r1dg6r6db1r1lb1~x2/"><circle cx="218.5" cy="188.8" r="4" fill="#3465a4"><title>MacQuarrie SM</title></circle></a><a href="/setts/s13/db2r11g2r11g21r2k9t2db11r11g2r11db2~x2/"><circle cx="201.0" cy="153.1" r="4" fill="#3465a4"><title>Nicolson</title></circle></a><a href="/setts/s14/k4r3dg2db2r6dg15r2db4dg2r15dg7k2r4w2~x2/"><circle cx="192.6" cy="155.8" r="4" fill="#3465a4"><title>MacKinnon #5</title></circle></a><a href="/setts/s12/r16k2r9g12lo2g10b3k2b3k2b3r10~x2/"><circle cx="194.3" cy="163.3" r="4" fill="#3465a4"><title>Highland Spring (1985)</title></circle></a><a href="/setts/s13/r2dg2r12dg10r2dg2r2dg10lb3db10r12dg2r2/"><circle cx="207.2" cy="190.5" r="4" fill="#3465a4"><title>Matheson N</title></circle></a><a href="/setts/s14/dp3r4dg3db3r7dg17r3db5dg4r21dg7dp3r6w3~x2/"><circle cx="206.9" cy="158.7" r="4" fill="#3465a4"><title>MacKinnon #3</title></circle></a><a href="/setts/s10/g3w1g6r2dp2r1k2r10g1r2~x8/"><circle cx="253.0" cy="156.0" r="4" fill="#3465a4"><title>Seton (Clan)</title></circle></a><a href="/setts/s14/dp2r3dg2db2r6dg16r2db4dg2r16dg8dp2r4w2~x2/"><circle cx="215.6" cy="149.5" r="4" fill="#3465a4"><title>MacKinnon #8</title></circle></a><a href="/setts/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/"><circle cx="264.4" cy="172.5" r="4" fill="#3465a4"><title>Bruce County</title></circle></a><circle cx="229.2" cy="181.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/dg6r2dg14r14db2r14w2dg14db2dg4ly3~x2/

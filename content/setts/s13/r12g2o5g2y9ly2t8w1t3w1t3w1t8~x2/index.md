@@ -2,7 +2,7 @@
 title: "Saint Joseph de Sorel"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBWBYGGRGR](/stripes/bwbwbwbyggrgr/) · **Stripes:** [T W T W T W T LY Y G O G R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">T W T W T W T LY Y G O G R</span></span>
+**Bands:** [RGRGGYBWBWBWB](/stripes/rgrggybwbwbwb/) · **Stripes:** [R G O G Y LY T W T W T W T](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="seq">R G O G Y LY T W T W T W T</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/16 LN2 B6 LN2 B6 LN2 B16 Y4 N18 G4 LT10 G4 R/24
+R/24 G4 LT10 G4 N18 Y4 B16 LN2 B6 LN2 B6 LN2 B/16
 ![Sett](sett.png)
 
 ## Palette
@@ -911,15 +914,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Saint Joseph de Sorel](/setts/s16/t8w1t3w1t3w1t8ly2o9g2lo5g2r12t8t3t3~x2/) — ΔT 1.40
 1. [Jewel Look JTB (Corporate)](/setts/s15/g4o2r4w3r4o4r6m21o4g2o2g20o4g2ly4/) — ΔT 1.43
 1. [Scotland Forever Antique (Fashion)](/setts/s11/o6k3n19k6n4k3o12lr4o12w2o5~x2/) — ΔT 1.49
-1. [Isle of Man (District)](/setts/s13/r2t22lo4w3g7ly2g4w2g9m6ly2m4w2~x2/) — ΔT 1.52
-1. [Australian Heavy Horse](/setts/s10/n4lr2n2w2do16n5k2n18n2n4~x2/) — ΔT 1.54
+1. [Isle of Man (District)](/setts/s13/r2t22lo4w3g7ly2g4w2g9m6ly2m4w2~x2/) — ΔT 1.51
+1. [Australian Heavy Horse](/setts/s10/n4n2n18k2n5do16w2n2lr2n4~x2/) — ΔT 1.54
 1. [Asman Hunting](/setts/s11/db4ly3db17r7w2o7w2db7g17o3g4~x2/) — ΔT 1.55
 1. [Commonwealth Games 1998 (Corporate)](/setts/s11/g10m2g2m4g16dp16m2t18lo2t8m3~x2/) — ΔT 1.56
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/o5db2r14dr9g8t3r3t3r3t3g19w3~x2/"><circle cx="131.0" cy="141.1" r="4" fill="#3465a4"><title>Meath</title></circle></a><a href="/setts/s13/t8r12g2lo5g2lb9ly3t8w1t3w1t3w1~x4/"><circle cx="110.3" cy="118.4" r="4" fill="#3465a4"><title>Saint Joseph de Sorel #2</title></circle></a><a href="/setts/s11/t22r3t2w3do14y20ly2y20do14t11lr6~x2/"><circle cx="131.4" cy="161.9" r="4" fill="#3465a4"><title>Wisconsin</title></circle></a><a href="/setts/s16/t8w1t3w1t3w1t8ly2o9g2lo5g2r12t8t3t3~x2/"><circle cx="217.4" cy="139.7" r="4" fill="#3465a4"><title>Saint Joseph de Sorel</title></circle></a><a href="/setts/s15/g4o2r4w3r4o4r6m21o4g2o2g20o4g2ly4/"><circle cx="174.6" cy="140.1" r="4" fill="#3465a4"><title>Jewel Look JTB (Corporate)</title></circle></a><a href="/setts/s11/o6k3n19k6n4k3o12lr4o12w2o5~x2/"><circle cx="120.8" cy="173.4" r="4" fill="#3465a4"><title>Scotland Forever Antique (Fashion)</title></circle></a><a href="/setts/s13/r2t22lo4w3g7ly2g4w2g9m6ly2m4w2~x2/"><circle cx="108.2" cy="114.3" r="4" fill="#3465a4"><title>Isle of Man (District)</title></circle></a><a href="/setts/s10/n4lr2n2w2do16n5k2n18n2n4~x2/"><circle cx="205.0" cy="143.2" r="4" fill="#3465a4"><title>Australian Heavy Horse</title></circle></a><a href="/setts/s11/db4ly3db17r7w2o7w2db7g17o3g4~x2/"><circle cx="154.8" cy="173.6" r="4" fill="#3465a4"><title>Asman Hunting</title></circle></a><a href="/setts/s11/g10m2g2m4g16dp16m2t18lo2t8m3~x2/"><circle cx="142.3" cy="164.2" r="4" fill="#3465a4"><title>Commonwealth Games 1998 (Corporate)</title></circle></a><circle cx="150.6" cy="134.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/o5db2r14dr9g8t3r3t3r3t3g19w3~x2/"><circle cx="130.9" cy="141.4" r="4" fill="#3465a4"><title>Meath</title></circle></a><a href="/setts/s13/t8r12g2lo5g2lb9ly3t8w1t3w1t3w1~x4/"><circle cx="110.1" cy="118.6" r="4" fill="#3465a4"><title>Saint Joseph de Sorel #2</title></circle></a><a href="/setts/s11/t22r3t2w3do14y20ly2y20do14t11lr6~x2/"><circle cx="131.4" cy="162.2" r="4" fill="#3465a4"><title>Wisconsin</title></circle></a><a href="/setts/s16/t8w1t3w1t3w1t8ly2o9g2lo5g2r12t8t3t3~x2/"><circle cx="217.1" cy="139.9" r="4" fill="#3465a4"><title>Saint Joseph de Sorel</title></circle></a><a href="/setts/s15/g4o2r4w3r4o4r6m21o4g2o2g20o4g2ly4/"><circle cx="174.4" cy="140.4" r="4" fill="#3465a4"><title>Jewel Look JTB (Corporate)</title></circle></a><a href="/setts/s11/o6k3n19k6n4k3o12lr4o12w2o5~x2/"><circle cx="120.8" cy="173.6" r="4" fill="#3465a4"><title>Scotland Forever Antique (Fashion)</title></circle></a><a href="/setts/s13/r2t22lo4w3g7ly2g4w2g9m6ly2m4w2~x2/"><circle cx="108.1" cy="114.5" r="4" fill="#3465a4"><title>Isle of Man (District)</title></circle></a><a href="/setts/s10/n4n2n18k2n5do16w2n2lr2n4~x2/"><circle cx="204.9" cy="143.3" r="4" fill="#3465a4"><title>Australian Heavy Horse</title></circle></a><a href="/setts/s11/db4ly3db17r7w2o7w2db7g17o3g4~x2/"><circle cx="154.8" cy="173.8" r="4" fill="#3465a4"><title>Asman Hunting</title></circle></a><a href="/setts/s11/g10m2g2m4g16dp16m2t18lo2t8m3~x2/"><circle cx="142.2" cy="164.3" r="4" fill="#3465a4"><title>Commonwealth Games 1998 (Corporate)</title></circle></a><circle cx="150.4" cy="134.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r12g2o5g2y9ly2t8w1t3w1t3w1t8~x2/

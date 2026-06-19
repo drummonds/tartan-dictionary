@@ -2,7 +2,7 @@
 title: "New Zealand (2000)"
 date: 2023-03-18
 ---
-**Bands:** [GKWKWK](/stripes/gkwkwk/) · **Stripes:** [G K LB K LB K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="seq">G K LB K LB K</span></span>
+**Bands:** [KWKWKG](/stripes/kwkwkg/) · **Stripes:** [K LB K LB K G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K LB K LB K G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4215
 
 ## Thread count
-G/8 K52 N36 K20 N8 K/84
+K/84 N8 K20 N36 K52 G/8
 ![Sett](sett.png)
 
 ## Palette
@@ -38,7 +38,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/8 K52 N36 K20 N8 K/84 tartan")
+![Tartan detail](tartan.png "K/84 N8 K20 N36 K52 G/8 tartan")
 
 ## Nearest tartans
 
@@ -47,7 +47,7 @@ The nearest existing variants by ΔTartan distance.
 1. [New Zealand District Tartan Tartan Number: 3250. Earliest known date: 2000 Designed as a District sett by Timely Marketing Promotions, Christchurch, New Zealand See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/k21w2k5w9k13g2~x4/) — ΔT 1.23
 1. [Believe - Colette](/setts/s7/n3k31w6k8n3k12w2~x2/) — ΔT 1.47
 1. [Believe - Colette](/setts/s7/n3k31w6k7n3k12w2~x2/) — ΔT 1.51
-1. [St. Eloi](/setts/s6/r3lo2k10w1k10lo2~x6/) — ΔT 1.63
+1. [St. Eloi](/setts/s6/r3lo2k10w1~x6/) — ΔT 1.63
 1. [Black 1990 (Name)](/setts/s6/k17r6k2w6k17lo2~x2/) — ΔT 1.65
 1. [Jensen, Sven (Personal)](/setts/s9/g12k8w6k22w3k8w3k40g6/) — ΔT 1.67
 1. [Lords, of Skye](/setts/s4/k46o7k8w20~x2/) — ΔT 1.68
@@ -57,8 +57,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k21w2k5w9k13g2~x4/"><circle cx="415.8" cy="227.7" r="4" fill="#3465a4"><title>New Zealand District Tartan Tartan Number: 3250. Earliest known date: 2000 Designed as a District sett by Timely Marketing Promotions, Christchurch, New Zealand See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/n3k31w6k8n3k12w2~x2/"><circle cx="475.7" cy="194.7" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/setts/s7/n3k31w6k7n3k12w2~x2/"><circle cx="472.5" cy="192.2" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/setts/s6/r3lo2k10w1k10lo2~x6/"><circle cx="376.6" cy="216.0" r="4" fill="#3465a4"><title>St. Eloi</title></circle></a><a href="/setts/s6/k17r6k2w6k17lo2~x2/"><circle cx="372.1" cy="222.8" r="4" fill="#3465a4"><title>Black 1990 (Name)</title></circle></a><a href="/setts/s9/g12k8w6k22w3k8w3k40g6/"><circle cx="416.8" cy="197.8" r="4" fill="#3465a4"><title>Jensen, Sven (Personal)</title></circle></a><a href="/setts/s4/k46o7k8w20~x2/"><circle cx="337.4" cy="256.5" r="4" fill="#3465a4"><title>Lords, of Skye</title></circle></a><a href="/setts/s7/k14r2k4lb3k12r8k1~x2/"><circle cx="399.1" cy="210.9" r="4" fill="#3465a4"><title>Punky Princess (Fashion)</title></circle></a><a href="/setts/s6/k17r6k2lb6k17lo2~x2/"><circle cx="381.5" cy="227.7" r="4" fill="#3465a4"><title>Black (symmetrical)</title></circle></a><a href="/setts/s6/k8ly1k1r1k4db1~x12/"><circle cx="472.3" cy="225.7" r="4" fill="#3465a4"><title>Justus</title></circle></a><circle cx="415.8" cy="234.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k21w2k5w9k13g2~x4/"><circle cx="415.8" cy="227.2" r="4" fill="#3465a4"><title>New Zealand District Tartan Tartan Number: 3250. Earliest known date: 2000 Designed as a District sett by Timely Marketing Promotions, Christchurch, New Zealand See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/n3k31w6k8n3k12w2~x2/"><circle cx="475.5" cy="194.2" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/setts/s7/n3k31w6k7n3k12w2~x2/"><circle cx="472.3" cy="191.8" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/setts/s6/r3lo2k10w1~x6/"><circle cx="376.7" cy="215.7" r="4" fill="#3465a4"><title>St. Eloi</title></circle></a><a href="/setts/s6/k17r6k2w6k17lo2~x2/"><circle cx="372.1" cy="222.4" r="4" fill="#3465a4"><title>Black 1990 (Name)</title></circle></a><a href="/setts/s9/g12k8w6k22w3k8w3k40g6/"><circle cx="416.7" cy="197.5" r="4" fill="#3465a4"><title>Jensen, Sven (Personal)</title></circle></a><a href="/setts/s4/k46o7k8w20~x2/"><circle cx="337.5" cy="256.1" r="4" fill="#3465a4"><title>Lords, of Skye</title></circle></a><a href="/setts/s7/k14r2k4lb3k12r8k1~x2/"><circle cx="399.0" cy="210.5" r="4" fill="#3465a4"><title>Punky Princess (Fashion)</title></circle></a><a href="/setts/s6/k17r6k2lb6k17lo2~x2/"><circle cx="381.5" cy="227.4" r="4" fill="#3465a4"><title>Black (symmetrical)</title></circle></a><a href="/setts/s6/k8ly1k1r1k4db1~x12/"><circle cx="472.4" cy="225.3" r="4" fill="#3465a4"><title>Justus</title></circle></a><circle cx="415.9" cy="233.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k21lb2k5lb9k13g2~x4/

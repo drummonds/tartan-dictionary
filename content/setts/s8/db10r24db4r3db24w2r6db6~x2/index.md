@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1108
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Embrace, The
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -50,15 +56,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Heritage of Wales (Fashion)](/setts/s7/r10db4r6db30k10db5w2~x2/) — ΔT 1.30
 1. [Orlando Fire Department (Corporate)](/setts/s9/db12ly1r16db1r1db14r3db14ly1~x4/) — ΔT 1.36
 1. [Ikelman #4 (Personal)](/setts/s7/r10db15g2db2w1db1w1~x4/) — ΔT 1.43
-1. [South Australian Pipes & Drums](/setts/s10/db60ly6db11r25db11ly6db11r25db11ly6~x2/) — ΔT 1.43
+1. [South Australian Pipes & Drums](/setts/s10/db60ly6db11r25db11ly6~x2/) — ΔT 1.43
 1. [Nithsdale (Dalgliesh)](/setts/s10/db16r3g3r10db24r3db3r3db3r10~x2/) — ΔT 1.47
 1. [Coronation](/setts/s7/db11w1r12db6r1db6w1~x2/) — ΔT 1.48
 1. [Stone of Destiny](/setts/s9/db4ly2db17k2r4k2db3k11db3~x2/) — ΔT 1.49
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db12lb1r3lb1r3lb1db6~x4/"><circle cx="406.7" cy="208.6" r="4" fill="#3465a4"><title>BC Corps of Commissionaires, The</title></circle></a><a href="/setts/s7/db11w1r12db6r1db6w1~x4/"><circle cx="361.7" cy="209.2" r="4" fill="#3465a4"><title>Coronation (1936) #2</title></circle></a><a href="/setts/s7/db12w1r3w1r3w1db6~x4/"><circle cx="395.8" cy="206.5" r="4" fill="#3465a4"><title>BC Corps of Commissionaires</title></circle></a><a href="/setts/s7/r10db4r6db30k10db5w2~x2/"><circle cx="340.2" cy="187.3" r="4" fill="#3465a4"><title>Heritage of Wales (Fashion)</title></circle></a><a href="/setts/s9/db12ly1r16db1r1db14r3db14ly1~x4/"><circle cx="420.4" cy="191.1" r="4" fill="#3465a4"><title>Orlando Fire Department (Corporate)</title></circle></a><a href="/setts/s7/r10db15g2db2w1db1w1~x4/"><circle cx="340.3" cy="170.0" r="4" fill="#3465a4"><title>Ikelman #4 (Personal)</title></circle></a><a href="/setts/s10/db60ly6db11r25db11ly6db11r25db11ly6~x2/"><circle cx="343.8" cy="190.3" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums</title></circle></a><a href="/setts/s10/db16r3g3r10db24r3db3r3db3r10~x2/"><circle cx="383.3" cy="231.5" r="4" fill="#3465a4"><title>Nithsdale (Dalgliesh)</title></circle></a><a href="/setts/s7/db11w1r12db6r1db6w1~x2/"><circle cx="378.6" cy="218.3" r="4" fill="#3465a4"><title>Coronation</title></circle></a><a href="/setts/s9/db4ly2db17k2r4k2db3k11db3~x2/"><circle cx="308.1" cy="207.1" r="4" fill="#3465a4"><title>Stone of Destiny</title></circle></a><circle cx="352.9" cy="212.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db12lb1r3lb1r3lb1db6~x4/"><circle cx="406.5" cy="208.3" r="4" fill="#3465a4"><title>BC Corps of Commissionaires, The</title></circle></a><a href="/setts/s7/db11w1r12db6r1db6w1~x4/"><circle cx="361.5" cy="208.9" r="4" fill="#3465a4"><title>Coronation (1936) #2</title></circle></a><a href="/setts/s7/db12w1r3w1r3w1db6~x4/"><circle cx="395.7" cy="206.2" r="4" fill="#3465a4"><title>BC Corps of Commissionaires</title></circle></a><a href="/setts/s7/r10db4r6db30k10db5w2~x2/"><circle cx="340.1" cy="187.2" r="4" fill="#3465a4"><title>Heritage of Wales (Fashion)</title></circle></a><a href="/setts/s9/db12ly1r16db1r1db14r3db14ly1~x4/"><circle cx="420.2" cy="190.8" r="4" fill="#3465a4"><title>Orlando Fire Department (Corporate)</title></circle></a><a href="/setts/s7/r10db15g2db2w1db1w1~x4/"><circle cx="340.3" cy="169.8" r="4" fill="#3465a4"><title>Ikelman #4 (Personal)</title></circle></a><a href="/setts/s10/db60ly6db11r25db11ly6~x2/"><circle cx="343.5" cy="190.1" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums</title></circle></a><a href="/setts/s10/db16r3g3r10db24r3db3r3db3r10~x2/"><circle cx="383.2" cy="231.4" r="4" fill="#3465a4"><title>Nithsdale (Dalgliesh)</title></circle></a><a href="/setts/s7/db11w1r12db6r1db6w1~x2/"><circle cx="378.4" cy="218.1" r="4" fill="#3465a4"><title>Coronation</title></circle></a><a href="/setts/s9/db4ly2db17k2r4k2db3k11db3~x2/"><circle cx="308.1" cy="207.0" r="4" fill="#3465a4"><title>Stone of Destiny</title></circle></a><circle cx="352.9" cy="211.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db10r24db4r3db24w2r6db6~x2/

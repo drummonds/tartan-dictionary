@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -905,11 +908,11 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Southern Illinois University - Carbondale](/setts/s9/k5dr40k4w2k4dr10w4dr5w1~x2/) — ΔT 1.07
+1. [Southern Illinois University - Carbondale](/setts/s9/k5dr40k4w2k4dr10w4dr5w1~x2/) — ΔT 1.08
 1. [Salt Lake County (District)](/setts/s7/k4r40k1r3k1w3k4~x2/) — ΔT 1.15
 1. [Southern Illinois University (Corp.)](/setts/s9/k5r40k4w2k4r10w4r5w1~x2/) — ΔT 1.17
 1. [Miyuki, Check Red, 1002A](/setts/s10/r40w1r1k8r1w1r6w1r1k8~x2/) — ΔT 1.54
-1. [Lyon College (Corporate)](/setts/s6/r40b8r1w2r1b8~x4/) — ΔT 1.60
+1. [Lyon College (Corporate)](/setts/s6/r40b8r1w2~x4/) — ΔT 1.60
 1. [Inverness, Augustus](/setts/s7/m18g1k5g1k1g1m9~x2/) — ΔT 1.69
 1. [Old Spice (Corporate)](/setts/s10/r104dg3r5dg3r18dg8w9r9w9r3/) — ΔT 1.71
 1. [Royal Army PTC Assoc. (Military)](/setts/s8/k59r3k6r3k8r15k2ly3~x2/) — ΔT 1.74
@@ -918,8 +921,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k5dr40k4w2k4dr10w4dr5w1~x2/"><circle cx="514.0" cy="120.5" r="4" fill="#3465a4"><title>Southern Illinois University - Carbondale</title></circle></a><a href="/setts/s7/k4r40k1r3k1w3k4~x2/"><circle cx="595.4" cy="132.5" r="4" fill="#3465a4"><title>Salt Lake County (District)</title></circle></a><a href="/setts/s9/k5r40k4w2k4r10w4r5w1~x2/"><circle cx="526.1" cy="119.5" r="4" fill="#3465a4"><title>Southern Illinois University (Corp.)</title></circle></a><a href="/setts/s10/r40w1r1k8r1w1r6w1r1k8~x2/"><circle cx="522.4" cy="90.5" r="4" fill="#3465a4"><title>Miyuki, Check Red, 1002A</title></circle></a><a href="/setts/s6/r40b8r1w2r1b8~x4/"><circle cx="529.6" cy="145.0" r="4" fill="#3465a4"><title>Lyon College (Corporate)</title></circle></a><a href="/setts/s7/m18g1k5g1k1g1m9~x2/"><circle cx="508.8" cy="180.5" r="4" fill="#3465a4"><title>Inverness, Augustus</title></circle></a><a href="/setts/s10/r104dg3r5dg3r18dg8w9r9w9r3/"><circle cx="591.7" cy="102.9" r="4" fill="#3465a4"><title>Old Spice (Corporate)</title></circle></a><a href="/setts/s8/k59r3k6r3k8r15k2ly3~x2/"><circle cx="540.2" cy="149.5" r="4" fill="#3465a4"><title>Royal Army PTC Assoc. (Military)</title></circle></a><a href="/setts/s8/r64k8w3k8w3b4w3r18~x2/"><circle cx="484.8" cy="126.6" r="4" fill="#3465a4"><title>Inverness - 2000 (Fashion)</title></circle></a><a href="/setts/s9/r80w2r5k10r6lr4r10k2lr6/"><circle cx="603.8" cy="97.8" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><circle cx="563.4" cy="120.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k5dr40k4w2k4dr10w4dr5w1~x2/"><circle cx="513.6" cy="120.2" r="4" fill="#3465a4"><title>Southern Illinois University - Carbondale</title></circle></a><a href="/setts/s7/k4r40k1r3k1w3k4~x2/"><circle cx="594.9" cy="132.2" r="4" fill="#3465a4"><title>Salt Lake County (District)</title></circle></a><a href="/setts/s9/k5r40k4w2k4r10w4r5w1~x2/"><circle cx="525.6" cy="119.2" r="4" fill="#3465a4"><title>Southern Illinois University (Corp.)</title></circle></a><a href="/setts/s10/r40w1r1k8r1w1r6w1r1k8~x2/"><circle cx="521.8" cy="90.2" r="4" fill="#3465a4"><title>Miyuki, Check Red, 1002A</title></circle></a><a href="/setts/s6/r40b8r1w2~x4/"><circle cx="529.2" cy="144.7" r="4" fill="#3465a4"><title>Lyon College (Corporate)</title></circle></a><a href="/setts/s7/m18g1k5g1k1g1m9~x2/"><circle cx="508.5" cy="180.1" r="4" fill="#3465a4"><title>Inverness, Augustus</title></circle></a><a href="/setts/s10/r104dg3r5dg3r18dg8w9r9w9r3/"><circle cx="591.0" cy="102.5" r="4" fill="#3465a4"><title>Old Spice (Corporate)</title></circle></a><a href="/setts/s8/k59r3k6r3k8r15k2ly3~x2/"><circle cx="539.9" cy="149.2" r="4" fill="#3465a4"><title>Royal Army PTC Assoc. (Military)</title></circle></a><a href="/setts/s8/r64k8w3k8w3b4w3r18~x2/"><circle cx="484.4" cy="126.4" r="4" fill="#3465a4"><title>Inverness - 2000 (Fashion)</title></circle></a><a href="/setts/s9/r80w2r5k10r6lr4r10k2lr6/"><circle cx="603.2" cy="97.5" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><circle cx="563.0" cy="120.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k4m40k1m3k1w3k4~x2/

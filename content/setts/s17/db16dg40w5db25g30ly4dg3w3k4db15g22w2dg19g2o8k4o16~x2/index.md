@@ -2,7 +2,7 @@
 title: "Les Cercles de Fermieres du Quebec"
 date: 2023-03-18
 ---
-**Bands:** [BGWBGYGWKBGWGGRKR](/stripes/bgwbgygwkbgwggrkr/) · **Stripes:** [DB DG W DB G LY DG W K DB G W DG G O K O](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DB DG W DB G LY DG W K DB G W DG G O K O</span></span>
+**Bands:** [RKRGGWGBKWGYGBWGB](/stripes/rkrggwgbkwgygbwgb/) · **Stripes:** [O K O G DG W G DB K W DG LY G DB W DG DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">O K O G DG W G DB K W DG LY G DB W DG DB</span></span>
 
 
 This was sourced from weddslist.  It is a [17 band tartan](/bands/bands17/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,20 +909,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Le Cercle des Femmes (Corporate)](/setts/s17/k12g16lb2do12g2y10k4y8o27k30lb6o27g20lo4k2lb4k4~x2/) — ΔT 0.91
-1. [Les Cercles de Fermieres du Quebec](/setts/s17/db16dg40w5db25g30ly4dg3w3k4db15g22w2dg19g2dy8k4dy16~x2/) — ΔT 0.99
-1. [Leinster](/setts/s14/g3g15g2g2k10ly2db12k1g2k1db12k10g18r3~x2/) — ΔT 1.24
+1. [Les Cercles de Fermieres du Quebec](/setts/s17/dy16k4dy8g2dg19w2g22db15k4w3dg3ly4g30db25w5dg40db16~x2/) — ΔT 0.99
+1. [Leinster](/setts/s14/r3g18k10db12k1g2k1db12ly2k10g2g2g15g3~x2/) — ΔT 1.24
 1. [Gordon 1](/setts/s16/db14w1g8w1dg16t6w1db14w1g14t6g6r8dg6r8dg1~x2/) — ΔT 1.25
-1. [Scout Mapping Service](/setts/s12/db24r8g8r2g8k1ly2k1g8r2g8r8~x2/) — ΔT 1.25
+1. [Scout Mapping Service](/setts/s12/db24r8g8r2g8k1ly2~x2/) — ΔT 1.25
 1. [Buchanan, hunting](/setts/s18/g24k2t6k2m12w1m12k2t6k2o12k2o12k2t6k2g12t6~x2/) — ΔT 1.25
-1. [Nashotah House (Commemorative)](/setts/s13/lo2g1r5g7w2g15db8k14w2k7m5k1r2~x2/) — ΔT 1.36
+1. [Nashotah House (Commemorative)](/setts/s13/r2k1m5k7w2k14db8g15w2g7r5g1lo2~x2/) — ΔT 1.36
 1. [Pearl of the Orient](/setts/s13/dp4dt20db4dt6g6w2ly4g4r2g18db4r1w4~x2/) — ΔT 1.37
 1. [Bruntsfield Links Golfing Soc. (Corp](/setts/s11/r6g22dg8g4dg12g2dg18db8t12db35ly4/) — ΔT 1.42
 1. [Cumming](/setts/s17/t8k4t8k20lo1g20r8w1r8w1r8g20lo1k20t8k4t4~x2/) — ΔT 1.45
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/k12g16lb2do12g2y10k4y8o27k30lb6o27g20lo4k2lb4k4~x2/"><circle cx="73.9" cy="103.4" r="4" fill="#3465a4"><title>Le Cercle des Femmes (Corporate)</title></circle></a><a href="/setts/s17/db16dg40w5db25g30ly4dg3w3k4db15g22w2dg19g2dy8k4dy16~x2/"><circle cx="117.1" cy="113.4" r="4" fill="#3465a4"><title>Les Cercles de Fermieres du Quebec</title></circle></a><a href="/setts/s14/g3g15g2g2k10ly2db12k1g2k1db12k10g18r3~x2/"><circle cx="118.9" cy="135.5" r="4" fill="#3465a4"><title>Leinster</title></circle></a><a href="/setts/s16/db14w1g8w1dg16t6w1db14w1g14t6g6r8dg6r8dg1~x2/"><circle cx="81.2" cy="133.0" r="4" fill="#3465a4"><title>Gordon 1</title></circle></a><a href="/setts/s12/db24r8g8r2g8k1ly2k1g8r2g8r8~x2/"><circle cx="119.4" cy="98.3" r="4" fill="#3465a4"><title>Scout Mapping Service</title></circle></a><a href="/setts/s18/g24k2t6k2m12w1m12k2t6k2o12k2o12k2t6k2g12t6~x2/"><circle cx="114.6" cy="97.2" r="4" fill="#3465a4"><title>Buchanan, hunting</title></circle></a><a href="/setts/s13/lo2g1r5g7w2g15db8k14w2k7m5k1r2~x2/"><circle cx="90.9" cy="111.2" r="4" fill="#3465a4"><title>Nashotah House (Commemorative)</title></circle></a><a href="/setts/s13/dp4dt20db4dt6g6w2ly4g4r2g18db4r1w4~x2/"><circle cx="113.2" cy="90.7" r="4" fill="#3465a4"><title>Pearl of the Orient</title></circle></a><a href="/setts/s11/r6g22dg8g4dg12g2dg18db8t12db35ly4/"><circle cx="131.5" cy="145.5" r="4" fill="#3465a4"><title>Bruntsfield Links Golfing Soc. (Corp</title></circle></a><a href="/setts/s17/t8k4t8k20lo1g20r8w1r8w1r8g20lo1k20t8k4t4~x2/"><circle cx="129.8" cy="108.5" r="4" fill="#3465a4"><title>Cumming</title></circle></a><circle cx="93.3" cy="99.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/k12g16lb2do12g2y10k4y8o27k30lb6o27g20lo4k2lb4k4~x2/"><circle cx="73.9" cy="103.6" r="4" fill="#3465a4"><title>Le Cercle des Femmes (Corporate)</title></circle></a><a href="/setts/s17/dy16k4dy8g2dg19w2g22db15k4w3dg3ly4g30db25w5dg40db16~x2/"><circle cx="117.2" cy="113.7" r="4" fill="#3465a4"><title>Les Cercles de Fermieres du Quebec</title></circle></a><a href="/setts/s14/r3g18k10db12k1g2k1db12ly2k10g2g2g15g3~x2/"><circle cx="119.0" cy="135.8" r="4" fill="#3465a4"><title>Leinster</title></circle></a><a href="/setts/s16/db14w1g8w1dg16t6w1db14w1g14t6g6r8dg6r8dg1~x2/"><circle cx="81.2" cy="133.3" r="4" fill="#3465a4"><title>Gordon 1</title></circle></a><a href="/setts/s12/db24r8g8r2g8k1ly2~x2/"><circle cx="119.4" cy="98.6" r="4" fill="#3465a4"><title>Scout Mapping Service</title></circle></a><a href="/setts/s18/g24k2t6k2m12w1m12k2t6k2o12k2o12k2t6k2g12t6~x2/"><circle cx="114.6" cy="97.5" r="4" fill="#3465a4"><title>Buchanan, hunting</title></circle></a><a href="/setts/s13/r2k1m5k7w2k14db8g15w2g7r5g1lo2~x2/"><circle cx="91.0" cy="111.4" r="4" fill="#3465a4"><title>Nashotah House (Commemorative)</title></circle></a><a href="/setts/s13/dp4dt20db4dt6g6w2ly4g4r2g18db4r1w4~x2/"><circle cx="113.2" cy="90.9" r="4" fill="#3465a4"><title>Pearl of the Orient</title></circle></a><a href="/setts/s11/r6g22dg8g4dg12g2dg18db8t12db35ly4/"><circle cx="131.6" cy="145.7" r="4" fill="#3465a4"><title>Bruntsfield Links Golfing Soc. (Corp</title></circle></a><a href="/setts/s17/t8k4t8k20lo1g20r8w1r8w1r8g20lo1k20t8k4t4~x2/"><circle cx="129.8" cy="108.7" r="4" fill="#3465a4"><title>Cumming</title></circle></a><circle cx="93.4" cy="100.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s17/db16dg40w5db25g30ly4dg3w3k4db15g22w2dg19g2o8k4o16~x2/

@@ -27,6 +27,8 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 |---------------|
 | [MacPherson Dress](/setts/s7/lr3r1lr30k20lr3k9ly1~x2/)|
 |![MacPherson Dress example sett](/setts/s7/lr3r1lr30k20lr3k9ly1~x2/sett.png)|
+| [MacPherson Dress](/setts/s7/lr3r1lr30k20lr3k9ly1/)|
+|![MacPherson Dress example sett](/setts/s7/lr3r1lr30k20lr3k9ly1/sett.png)|
 
 ### LY K LY K LY M LY <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY K LY K LY M LY</span></span>
 

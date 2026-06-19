@@ -21,28 +21,28 @@ BKBKBKR
 Grouped by stripe pattern — the 4 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB K DB K DB K R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K DB K DB K R</span></span>
+### R K DB K DB K DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K DB K DB K DB</span></span>
 
 | Tartans |
 |---------------|
 | [Royal Scotsman Train](/setts/s7/db5k2db14k14db2k2r2~x2/)|
 |![Royal Scotsman Train example sett](/setts/s7/db5k2db14k14db2k2r2~x2/sett.png)|
 
-### DB K T K DB K R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K T K DB K R</span></span>
+### R K DB K T K DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K DB K T K DB</span></span>
 
 | Tartans |
 |---------------|
 | [MacCorquodale](/setts/s7/r7k4db28k24t24k4db4~x2/)|
 |![MacCorquodale example sett](/setts/s7/r7k4db28k24t24k4db4~x2/sett.png)|
 
-### N K N K N K R <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">N K N K N K R</span></span>
+### R K N K N K N <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">R K N K N K N</span></span>
 
 | Tartans |
 |---------------|
 | [Holden Black (Corporate)](/setts/s7/n13k3n3k3n3k35r3~x2/)|
 |![Holden Black (Corporate) example sett](/setts/s7/n13k3n3k3n3k35r3~x2/sett.png)|
 
-### T K T K T K R <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">T K T K T K R</span></span>
+### R K T K T K T <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">R K T K T K T</span></span>
 
 | Tartans |
 |---------------|

@@ -8,7 +8,7 @@ RGGGGY
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/ly3g2g32g32g2r3~x2/tartan.png)
+![Woven sample](/setts/s6/r3g2g32g32g2ly3~x2/tartan.png)
 
 
 
@@ -25,13 +25,13 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Galloway](/setts/s6/ly3g1dg32g32dg1r3~x2/)|
-|![Galloway example sett](/setts/s6/ly3g1dg32g32dg1r3~x2/sett.png)|
+| [Galloway](/setts/s6/r3dg1g32dg32g1ly3~x2/)|
+|![Galloway example sett](/setts/s6/r3dg1g32dg32g1ly3~x2/sett.png)|
 
 ### R G G G G LY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R G G G G LY</span></span>
 
 | Tartans |
 |---------------|
-| [Galloway Green (yellow line)](/setts/s6/ly3g2g32g32g2r3~x2/)|
-|![Galloway Green (yellow line) example sett](/setts/s6/ly3g2g32g32g2r3~x2/sett.png)|
+| [Galloway Green (yellow line)](/setts/s6/r3g2g32g32g2ly3~x2/)|
+|![Galloway Green (yellow line) example sett](/setts/s6/r3g2g32g32g2ly3~x2/sett.png)|
 

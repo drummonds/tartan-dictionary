@@ -2,12 +2,18 @@
 title: "Boswell Dress (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BWRWK](/stripes/bwrwk/) · **Stripes:** [B W R W K](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">B W R W K</span></span>
+**Bands:** [KWRWB](/stripes/kwrwb/) · **Stripes:** [K W R W B](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K W R W B</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=318
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Boswell Dress Check
 
 ## Attestations
 
@@ -46,21 +52,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [MacRae of Conchra #3](/setts/s4/ly7db36w36r7~x2/) — ΔT 0.95
+1. [MacRae of Conchra #3](/setts/s4/r7w36db36ly7~x2/) — ΔT 0.95
 1. [City of London](/setts/s4/k5n24w24k5~x2/) — ΔT 1.30
-1. [North Vancouver Island](/setts/s8/ly2db6w2db9w9db2w6r2~x4/) — ΔT 1.33
+1. [North Vancouver Island](/setts/s8/r2w6db2w9db9w2db6ly2~x4/) — ΔT 1.33
 1. [City of London (Corporate)](/setts/s4/k5n24w24r5~x2/) — ΔT 1.34
-1. [North Vancouver, Island](/setts/s8/ly2db6w2db9w9db2w6r2~x2/) — ΔT 1.44
-1. [MacRae of Conchra](/setts/s4/ly1dt8w8r1~x4/) — ΔT 1.45
+1. [North Vancouver, Island](/setts/s8/r2w6db2w9db9w2db6ly2~x2/) — ΔT 1.44
+1. [MacRae of Conchra](/setts/s4/r1w8dt8ly1~x4/) — ΔT 1.45
 1. [Kellogg College University of Oxford](/setts/s4/r21db61ly8w21~x2/) — ΔT 1.49
-1. [Henderson Dress (Dance)](/setts/s9/lo1k3w2k1w5b1w3b3w1~x4/) — ΔT 1.52
+1. [Henderson Dress (Dance)](/setts/s9/w1b3w3b1w5k1w2k3lo1~x4/) — ΔT 1.52
 1. [Louisburg](/setts/s4/o22ly10w3db8~x2/) — ΔT 1.58
 1. [MacRae Dress Purple](/setts/s4/k1w8db8r1~x8/) — ΔT 1.59
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/ly7db36w36r7~x2/"><circle cx="161.8" cy="232.8" r="4" fill="#3465a4"><title>MacRae of Conchra #3</title></circle></a><a href="/setts/s4/k5n24w24k5~x2/"><circle cx="147.1" cy="236.7" r="4" fill="#3465a4"><title>City of London</title></circle></a><a href="/setts/s8/ly2db6w2db9w9db2w6r2~x4/"><circle cx="157.1" cy="213.7" r="4" fill="#3465a4"><title>North Vancouver Island</title></circle></a><a href="/setts/s4/k5n24w24r5~x2/"><circle cx="156.0" cy="236.2" r="4" fill="#3465a4"><title>City of London (Corporate)</title></circle></a><a href="/setts/s8/ly2db6w2db9w9db2w6r2~x2/"><circle cx="170.0" cy="221.4" r="4" fill="#3465a4"><title>North Vancouver, Island</title></circle></a><a href="/setts/s4/ly1dt8w8r1~x4/"><circle cx="208.3" cy="212.7" r="4" fill="#3465a4"><title>MacRae of Conchra</title></circle></a><a href="/setts/s4/r21db61ly8w21~x2/"><circle cx="242.4" cy="222.6" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/setts/s9/lo1k3w2k1w5b1w3b3w1~x4/"><circle cx="174.5" cy="205.2" r="4" fill="#3465a4"><title>Henderson Dress (Dance)</title></circle></a><a href="/setts/s4/o22ly10w3db8~x2/"><circle cx="219.8" cy="235.8" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/setts/s4/k1w8db8r1~x8/"><circle cx="212.9" cy="211.9" r="4" fill="#3465a4"><title>MacRae Dress Purple</title></circle></a><circle cx="165.5" cy="213.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/r7w36db36ly7~x2/"><circle cx="161.7" cy="232.6" r="4" fill="#3465a4"><title>MacRae of Conchra #3</title></circle></a><a href="/setts/s4/k5n24w24k5~x2/"><circle cx="147.0" cy="236.5" r="4" fill="#3465a4"><title>City of London</title></circle></a><a href="/setts/s8/r2w6db2w9db9w2db6ly2~x4/"><circle cx="156.9" cy="213.4" r="4" fill="#3465a4"><title>North Vancouver Island</title></circle></a><a href="/setts/s4/k5n24w24r5~x2/"><circle cx="155.8" cy="236.0" r="4" fill="#3465a4"><title>City of London (Corporate)</title></circle></a><a href="/setts/s8/r2w6db2w9db9w2db6ly2~x2/"><circle cx="169.8" cy="221.2" r="4" fill="#3465a4"><title>North Vancouver, Island</title></circle></a><a href="/setts/s4/r1w8dt8ly1~x4/"><circle cx="208.1" cy="212.4" r="4" fill="#3465a4"><title>MacRae of Conchra</title></circle></a><a href="/setts/s4/r21db61ly8w21~x2/"><circle cx="242.3" cy="222.4" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/setts/s9/w1b3w3b1w5k1w2k3lo1~x4/"><circle cx="174.3" cy="204.9" r="4" fill="#3465a4"><title>Henderson Dress (Dance)</title></circle></a><a href="/setts/s4/o22ly10w3db8~x2/"><circle cx="219.6" cy="235.6" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/setts/s4/k1w8db8r1~x8/"><circle cx="212.8" cy="211.7" r="4" fill="#3465a4"><title>MacRae Dress Purple</title></circle></a><circle cx="165.3" cy="213.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/b8w13r3w2k5~x2/

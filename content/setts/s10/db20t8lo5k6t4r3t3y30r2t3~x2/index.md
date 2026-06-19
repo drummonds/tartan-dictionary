@@ -2,12 +2,18 @@
 title: "Thousand Islands"
 date: 2023-03-18
 ---
-**Bands:** [BBYKBRBGRB](/stripes/bbykbrbgrb/) · **Stripes:** [DB T LO K T R T Y R T](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">DB T LO K T R T Y R T</span></span>
+**Bands:** [BRGBRBKYBB](/stripes/brgbrbkybb/) · **Stripes:** [T R Y T R T K LO T DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">T R Y T R T K LO T DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5563
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Thousand Islands )
 
 ## Attestations
 
@@ -25,7 +31,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7526
 
 ## Thread count
-B/6 R4 N60 B6 R6 B8 K12 O10 B16 DB/40
+DB/40 B16 O10 K12 B8 R6 B6 N60 R4 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -44,21 +50,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Hek Family (Sunningdale, Berwick on Tweed)](/setts/s9/lt1w2g12k2lt2k2n15lt2ly1~x2/) — ΔT 0.88
+1. [Hek Family (Sunningdale, Berwick on Tweed)](/setts/s9/ly1lt2n15k2lt2k2g12w2lt1~x2/) — ΔT 0.88
 1. [Brighton & Hove](/setts/s11/db16t8lo1t1w1t1t6g3t1g3w1~x4/) — ΔT 0.98
 1. [Buffalo (Fashion)](/setts/s12/db6o3k4ly3k3o3k3g14t28o3t3k2~x2/) — ΔT 0.99
 1. [McMeeken (Name)](/setts/s10/r7g20ly2g4k5b4k2b20k3w1~x2/) — ΔT 1.05
 1. [Connecticut](/setts/s10/db20y2w1y5dg8ly1dg2r1dg8y16~x4/) — ΔT 1.06
 1. [Edinburgh District](/setts/s9/w3b25m3r3m3r5g10m3k2~x2/) — ΔT 1.10
-1. [Glen Lyon (Fashion)](/setts/s7/lo3n14k5w1o11db1o3~x4/) — ΔT 1.12
-1. [Ayrton (amended)](/setts/s11/ly4k2db25k2dg4k2t10k2dg25k2r4~x2/) — ΔT 1.14
+1. [Glen Lyon (Fashion)](/setts/s7/o3db1o11w1k5n14lo3~x4/) — ΔT 1.12
+1. [Ayrton (amended)](/setts/s11/r4k2dg25k2t10k2dg4k2db25k2ly4~x2/) — ΔT 1.14
 1. [State Seal of Nebraska (Fashion)](/setts/s10/lo7g11db4t31db4g11dy4db14lb3db4~x2/) — ΔT 1.14
 1. [O'Reilly (Estimated threadcount)](/setts/s9/r4b3lr2k2lr12k2db10t25w2~x2/) — ΔT 1.15
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lt1w2g12k2lt2k2n15lt2ly1~x2/"><circle cx="182.5" cy="123.8" r="4" fill="#3465a4"><title>Hek Family (Sunningdale, Berwick on Tweed)</title></circle></a><a href="/setts/s11/db16t8lo1t1w1t1t6g3t1g3w1~x4/"><circle cx="175.6" cy="116.7" r="4" fill="#3465a4"><title>Brighton &amp; Hove</title></circle></a><a href="/setts/s12/db6o3k4ly3k3o3k3g14t28o3t3k2~x2/"><circle cx="184.1" cy="121.3" r="4" fill="#3465a4"><title>Buffalo (Fashion)</title></circle></a><a href="/setts/s10/r7g20ly2g4k5b4k2b20k3w1~x2/"><circle cx="190.4" cy="133.8" r="4" fill="#3465a4"><title>McMeeken (Name)</title></circle></a><a href="/setts/s10/db20y2w1y5dg8ly1dg2r1dg8y16~x4/"><circle cx="217.9" cy="139.6" r="4" fill="#3465a4"><title>Connecticut</title></circle></a><a href="/setts/s9/w3b25m3r3m3r5g10m3k2~x2/"><circle cx="192.7" cy="129.5" r="4" fill="#3465a4"><title>Edinburgh District</title></circle></a><a href="/setts/s7/lo3n14k5w1o11db1o3~x4/"><circle cx="181.6" cy="163.9" r="4" fill="#3465a4"><title>Glen Lyon (Fashion)</title></circle></a><a href="/setts/s11/ly4k2db25k2dg4k2t10k2dg25k2r4~x2/"><circle cx="172.8" cy="137.9" r="4" fill="#3465a4"><title>Ayrton (amended)</title></circle></a><a href="/setts/s10/lo7g11db4t31db4g11dy4db14lb3db4~x2/"><circle cx="137.9" cy="164.9" r="4" fill="#3465a4"><title>State Seal of Nebraska (Fashion)</title></circle></a><a href="/setts/s9/r4b3lr2k2lr12k2db10t25w2~x2/"><circle cx="161.6" cy="122.4" r="4" fill="#3465a4"><title>O'Reilly (Estimated threadcount)</title></circle></a><circle cx="172.2" cy="133.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/ly1lt2n15k2lt2k2g12w2lt1~x2/"><circle cx="182.4" cy="123.9" r="4" fill="#3465a4"><title>Hek Family (Sunningdale, Berwick on Tweed)</title></circle></a><a href="/setts/s11/db16t8lo1t1w1t1t6g3t1g3w1~x4/"><circle cx="175.6" cy="116.9" r="4" fill="#3465a4"><title>Brighton &amp; Hove</title></circle></a><a href="/setts/s12/db6o3k4ly3k3o3k3g14t28o3t3k2~x2/"><circle cx="184.0" cy="121.4" r="4" fill="#3465a4"><title>Buffalo (Fashion)</title></circle></a><a href="/setts/s10/r7g20ly2g4k5b4k2b20k3w1~x2/"><circle cx="190.4" cy="134.0" r="4" fill="#3465a4"><title>McMeeken (Name)</title></circle></a><a href="/setts/s10/db20y2w1y5dg8ly1dg2r1dg8y16~x4/"><circle cx="217.9" cy="139.8" r="4" fill="#3465a4"><title>Connecticut</title></circle></a><a href="/setts/s9/w3b25m3r3m3r5g10m3k2~x2/"><circle cx="192.6" cy="129.6" r="4" fill="#3465a4"><title>Edinburgh District</title></circle></a><a href="/setts/s7/o3db1o11w1k5n14lo3~x4/"><circle cx="181.5" cy="164.0" r="4" fill="#3465a4"><title>Glen Lyon (Fashion)</title></circle></a><a href="/setts/s11/r4k2dg25k2t10k2dg4k2db25k2ly4~x2/"><circle cx="172.8" cy="138.1" r="4" fill="#3465a4"><title>Ayrton (amended)</title></circle></a><a href="/setts/s10/lo7g11db4t31db4g11dy4db14lb3db4~x2/"><circle cx="137.9" cy="165.0" r="4" fill="#3465a4"><title>State Seal of Nebraska (Fashion)</title></circle></a><a href="/setts/s9/r4b3lr2k2lr12k2db10t25w2~x2/"><circle cx="161.5" cy="122.5" r="4" fill="#3465a4"><title>O'Reilly (Estimated threadcount)</title></circle></a><circle cx="172.1" cy="134.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db20t8lo5k6t4r3t3y30r2t3~x2/

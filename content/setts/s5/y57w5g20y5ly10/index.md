@@ -2,7 +2,7 @@
 title: "Jahore"
 date: 2023-03-18
 ---
-**Bands:** [GWGGY](/stripes/gwggy/) · **Stripes:** [Y W G Y LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">Y W G Y LY</span></span>
+**Bands:** [YGGWG](/stripes/yggwg/) · **Stripes:** [LY Y G W Y](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LY Y G W Y</span></span>
 
 
 This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,15 +915,15 @@ The nearest existing variants by ΔTartan distance.
 1. [McGuigan, Julia (Personal)](/setts/s4/lb9y52dy15ly4~x2/) — ΔT 1.27
 1. [Farooq (Personal)](/setts/s4/n8g20w4r1~x5/) — ΔT 1.38
 1. [Clare (Prince George) (Personal)](/setts/s5/dp5lo5dy13g41r3~x2/) — ΔT 1.45
-1. [Johore](/setts/s8/o57w5g20o5lo10o5g20w5~x2/) — ΔT 1.53
+1. [Johore](/setts/s8/o57w5g20o5lo10~x2/) — ΔT 1.53
 1. [Ballantyne Personal Tartan Tartan Number: 7563. Earliest known date: 2007 Andrew Ballantyne said, l finally decided to purchase a tartan of my own design. The first kilt was made for my father and he was very pleased with it. The fabric was designed online at House of Tartan and woven by Edgars, Perth. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/o60dg13o9o8ly4~x2/) — ΔT 1.60
 1. [Ceredigion (Personal)](/setts/s5/ly5n1ly1n12r1~x8/) — ΔT 1.70
 1. [Lister (Name)](/setts/s7/dy8o29dy8ly3dy8o8ly3~x2/) — ΔT 1.73
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/o57w5g20o5ly10/"><circle cx="403.2" cy="218.7" r="4" fill="#3465a4"><title>Jahore District Tartan Tartan Number: 1309. Earliest known date: c.1890 [50% actual count] Reputed to have been presented to the Sultan of Jahore by Queen Victoria during his visit to Balmoral around 1890. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/o57w5g20o5lo10~x2/"><circle cx="421.9" cy="228.9" r="4" fill="#3465a4"><title>Johore (District)</title></circle></a><a href="/setts/s6/lg50r4lg12ly23r4g4~x2/"><circle cx="388.5" cy="197.7" r="4" fill="#3465a4"><title>Ingenico</title></circle></a><a href="/setts/s4/lb9y52dy15ly4~x2/"><circle cx="422.6" cy="235.6" r="4" fill="#3465a4"><title>McGuigan, Julia (Personal)</title></circle></a><a href="/setts/s4/n8g20w4r1~x5/"><circle cx="415.7" cy="231.5" r="4" fill="#3465a4"><title>Farooq (Personal)</title></circle></a><a href="/setts/s5/dp5lo5dy13g41r3~x2/"><circle cx="365.7" cy="190.8" r="4" fill="#3465a4"><title>Clare (Prince George) (Personal)</title></circle></a><a href="/setts/s8/o57w5g20o5lo10o5g20w5~x2/"><circle cx="329.7" cy="195.5" r="4" fill="#3465a4"><title>Johore</title></circle></a><a href="/setts/s5/o60dg13o9o8ly4~x2/"><circle cx="507.1" cy="212.8" r="4" fill="#3465a4"><title>Ballantyne Personal Tartan Tartan Number: 7563. Earliest known date: 2007 Andrew Ballantyne said, l finally decided to purchase a tartan of my own design. The first kilt was made for my father and he was very pleased with it. The fabric was designed online at House of Tartan and woven by Edgars, Perth. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/ly5n1ly1n12r1~x8/"><circle cx="434.0" cy="219.1" r="4" fill="#3465a4"><title>Ceredigion (Personal)</title></circle></a><a href="/setts/s7/dy8o29dy8ly3dy8o8ly3~x2/"><circle cx="362.4" cy="233.8" r="4" fill="#3465a4"><title>Lister (Name)</title></circle></a><circle cx="410.4" cy="223.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/o57w5g20o5ly10/"><circle cx="402.8" cy="218.6" r="4" fill="#3465a4"><title>Jahore District Tartan Tartan Number: 1309. Earliest known date: c.1890 [50% actual count] Reputed to have been presented to the Sultan of Jahore by Queen Victoria during his visit to Balmoral around 1890. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/o57w5g20o5lo10~x2/"><circle cx="421.5" cy="228.8" r="4" fill="#3465a4"><title>Johore (District)</title></circle></a><a href="/setts/s6/lg50r4lg12ly23r4g4~x2/"><circle cx="388.1" cy="197.5" r="4" fill="#3465a4"><title>Ingenico</title></circle></a><a href="/setts/s4/lb9y52dy15ly4~x2/"><circle cx="422.3" cy="235.4" r="4" fill="#3465a4"><title>McGuigan, Julia (Personal)</title></circle></a><a href="/setts/s4/n8g20w4r1~x5/"><circle cx="415.3" cy="231.4" r="4" fill="#3465a4"><title>Farooq (Personal)</title></circle></a><a href="/setts/s5/dp5lo5dy13g41r3~x2/"><circle cx="365.4" cy="190.7" r="4" fill="#3465a4"><title>Clare (Prince George) (Personal)</title></circle></a><a href="/setts/s8/o57w5g20o5lo10~x2/"><circle cx="329.3" cy="195.4" r="4" fill="#3465a4"><title>Johore</title></circle></a><a href="/setts/s5/o60dg13o9o8ly4~x2/"><circle cx="506.7" cy="212.5" r="4" fill="#3465a4"><title>Ballantyne Personal Tartan Tartan Number: 7563. Earliest known date: 2007 Andrew Ballantyne said, l finally decided to purchase a tartan of my own design. The first kilt was made for my father and he was very pleased with it. The fabric was designed online at House of Tartan and woven by Edgars, Perth. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/ly5n1ly1n12r1~x8/"><circle cx="433.6" cy="218.8" r="4" fill="#3465a4"><title>Ceredigion (Personal)</title></circle></a><a href="/setts/s7/dy8o29dy8ly3dy8o8ly3~x2/"><circle cx="362.0" cy="233.6" r="4" fill="#3465a4"><title>Lister (Name)</title></circle></a><circle cx="410.0" cy="223.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/y57w5g20y5ly10/

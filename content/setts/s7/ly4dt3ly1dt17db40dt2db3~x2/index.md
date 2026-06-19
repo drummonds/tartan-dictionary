@@ -2,7 +2,7 @@
 title: "Danzas"
 date: 2023-03-18
 ---
-**Bands:** [BBBBYBY](/stripes/bbbbyby/) · **Stripes:** [DB DT DB DT LY DT LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB DT DB DT LY DT LY</span></span>
+**Bands:** [YBYBBBB](/stripes/ybybbbb/) · **Stripes:** [LY DT LY DT DB DT DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DT LY DT DB DT DB</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/6 DB4 B80 DB34 Y2 DB6 Y/8
+Y/8 DB6 Y2 DB34 B80 DB4 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -899,7 +902,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/6 DB4 B80 DB34 Y2 DB6 Y/8 tartan")
+![Tartan detail](tartan.png "Y/8 DB6 Y2 DB34 B80 DB4 B/6 tartan")
 
 ## Nearest tartans
 
@@ -918,8 +921,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly4b3ly1b17db40b2db3~x2/"><circle cx="470.1" cy="167.0" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/setts/s6/db55db18w3db2r2db6~x2/"><circle cx="468.8" cy="179.2" r="4" fill="#3465a4"><title>S.C.O.T.S.</title></circle></a><a href="/setts/s7/k4w1t2w1k16db36t4~x2/"><circle cx="395.5" cy="147.5" r="4" fill="#3465a4"><title>NHS Grampian</title></circle></a><a href="/setts/s6/db48dg14r3dg2r3dg2~x2/"><circle cx="521.0" cy="205.3" r="4" fill="#3465a4"><title>Wilson #2</title></circle></a><a href="/setts/s7/k8m26k22dt110w4k5w4/"><circle cx="427.6" cy="159.8" r="4" fill="#3465a4"><title>Edinburgh, The University of</title></circle></a><a href="/setts/s6/db48g14r3g2r3g2~x2/"><circle cx="490.5" cy="188.5" r="4" fill="#3465a4"><title>Wilson</title></circle></a><a href="/setts/s7/db80k5g12k2ly2g2k10~x2/"><circle cx="535.9" cy="149.2" r="4" fill="#3465a4"><title>Affara (Personal)</title></circle></a><a href="/setts/s6/db64dg20r4dg3r4dg3/"><circle cx="507.0" cy="211.0" r="4" fill="#3465a4"><title>Wilson</title></circle></a><a href="/setts/s7/db62k22w3k2w2k3r1~x2/"><circle cx="477.0" cy="126.8" r="4" fill="#3465a4"><title>Tyneside Blue, North Tyneside Pipe Band</title></circle></a><a href="/setts/s6/db64g20r4g3r4g3/"><circle cx="475.0" cy="193.4" r="4" fill="#3465a4"><title>Wilson</title></circle></a><circle cx="476.6" cy="171.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly4b3ly1b17db40b2db3~x2/"><circle cx="469.9" cy="166.8" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/setts/s6/db55db18w3db2r2db6~x2/"><circle cx="468.7" cy="179.1" r="4" fill="#3465a4"><title>S.C.O.T.S.</title></circle></a><a href="/setts/s7/k4w1t2w1k16db36t4~x2/"><circle cx="395.5" cy="147.4" r="4" fill="#3465a4"><title>NHS Grampian</title></circle></a><a href="/setts/s6/db48dg14r3dg2r3dg2~x2/"><circle cx="520.7" cy="205.2" r="4" fill="#3465a4"><title>Wilson #2</title></circle></a><a href="/setts/s7/k8m26k22dt110w4k5w4/"><circle cx="427.5" cy="159.7" r="4" fill="#3465a4"><title>Edinburgh, The University of</title></circle></a><a href="/setts/s6/db48g14r3g2r3g2~x2/"><circle cx="490.3" cy="188.3" r="4" fill="#3465a4"><title>Wilson</title></circle></a><a href="/setts/s7/db80k5g12k2ly2g2k10~x2/"><circle cx="535.8" cy="149.1" r="4" fill="#3465a4"><title>Affara (Personal)</title></circle></a><a href="/setts/s6/db64dg20r4dg3r4dg3/"><circle cx="506.8" cy="210.8" r="4" fill="#3465a4"><title>Wilson</title></circle></a><a href="/setts/s7/db62k22w3k2w2k3r1~x2/"><circle cx="476.9" cy="126.6" r="4" fill="#3465a4"><title>Tyneside Blue, North Tyneside Pipe Band</title></circle></a><a href="/setts/s6/db64g20r4g3r4g3/"><circle cx="474.8" cy="193.1" r="4" fill="#3465a4"><title>Wilson</title></circle></a><circle cx="476.4" cy="171.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/ly4dt3ly1dt17db40dt2db3~x2/

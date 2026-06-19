@@ -2,7 +2,7 @@
 title: "MacDougall 3"
 date: 2023-03-18
 ---
-**Bands:** [RRRRGRRRRRKRRRR](/stripes/rrrrgrrrrrkrrrr/) · **Stripes:** [R R R R G R R R R R K R R R R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R R R G R R R R R K R R R R</span></span>
+**Bands:** [RRRRKRRRRRGRRRR](/stripes/rrrrkrrrrrgrrrr/) · **Stripes:** [R R R R K R R R R R G R R R R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">R R R R K R R R R R G R R R R</span></span>
 
 
 This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-Ra/10 DR10 R6 Ra8 G60 DR8 R6 Ra10 R6 DR8 K18 Ra62 DR10 R10 Ra/14
+Ra/14 R10 DR10 Ra62 K18 DR8 R6 Ra10 R6 DR8 G60 Ra8 R6 DR10 Ra/10
 ![Sett](sett.png)
 
 ## Palette
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r7r5r5r31k9r4r3r5r3r4dg30r4r3r5r5~x2/"><circle cx="232.1" cy="133.9" r="4" fill="#3465a4"><title>MacDougall (Kinloch Anderson)</title></circle></a><a href="/setts/s15/r6m3w3r4dg33m3w3r4w3m3db9r33m3w4r4~x2/"><circle cx="212.3" cy="103.2" r="4" fill="#3465a4"><title>MacDougall #11</title></circle></a><a href="/setts/s18/k2r6ly2r2ly2r19db2g2db2r2r4k2r11g2r2g2r6ly2~x2/"><circle cx="195.8" cy="108.5" r="4" fill="#3465a4"><title>Harmon (Personal)</title></circle></a><a href="/setts/s15/r6m3w3r4g33m3w3r4w3m3db9r33m3w4r4~x2/"><circle cx="214.5" cy="107.2" r="4" fill="#3465a4"><title>MacDougall 10</title></circle></a><a href="/setts/s14/r1r2dg1k1r5dg11r1k2dg1r11dg4r1r2w1~x2/"><circle cx="262.6" cy="127.2" r="4" fill="#3465a4"><title>MacKinnon #9</title></circle></a><a href="/setts/s23/g4r2r2r24w2r3w3r3g10r10b2r4b2r10g10r3w3r2w2r24r2r2g4~x2/"><circle cx="239.7" cy="101.3" r="4" fill="#3465a4"><title>Trost</title></circle></a><a href="/setts/s16/r3k2t2r2dg19r3dg2r2db6r2dg2r21k2t2r2dg2~x2/"><circle cx="257.0" cy="114.6" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #3</title></circle></a><a href="/setts/s14/w3k2dg18r2db8r18dg2r2dg2r2db2r18dg18k2~x2/"><circle cx="225.8" cy="146.8" r="4" fill="#3465a4"><title>MacGuire (Personal)</title></circle></a><a href="/setts/s14/w3r5dg3dp3r14dg36r3dp8dg3r36dg14r3r5w3~x2/"><circle cx="253.9" cy="119.0" r="4" fill="#3465a4"><title>MacKinnon #11</title></circle></a><a href="/setts/s11/lb3k1r12k1r1k2r1k6r12k1lo1~x4/"><circle cx="198.7" cy="131.2" r="4" fill="#3465a4"><title>McCandlish, Red (Name)</title></circle></a><circle cx="209.4" cy="125.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r7r5r5r31k9r4r3r5r3r4dg30r4r3r5r5~x2/"><circle cx="231.8" cy="134.0" r="4" fill="#3465a4"><title>MacDougall (Kinloch Anderson)</title></circle></a><a href="/setts/s15/r6m3w3r4dg33m3w3r4w3m3db9r33m3w4r4~x2/"><circle cx="211.9" cy="103.2" r="4" fill="#3465a4"><title>MacDougall #11</title></circle></a><a href="/setts/s18/k2r6ly2r2ly2r19db2g2db2r2r4k2r11g2r2g2r6ly2~x2/"><circle cx="195.5" cy="108.7" r="4" fill="#3465a4"><title>Harmon (Personal)</title></circle></a><a href="/setts/s15/r6m3w3r4g33m3w3r4w3m3db9r33m3w4r4~x2/"><circle cx="214.2" cy="107.3" r="4" fill="#3465a4"><title>MacDougall 10</title></circle></a><a href="/setts/s14/r1r2dg1k1r5dg11r1k2dg1r11dg4r1r2w1~x2/"><circle cx="262.3" cy="127.2" r="4" fill="#3465a4"><title>MacKinnon #9</title></circle></a><a href="/setts/s23/g4r2r2r24w2r3w3r3g10r10b2r4b2r10g10r3w3r2w2r24r2r2g4~x2/"><circle cx="239.3" cy="101.4" r="4" fill="#3465a4"><title>Trost</title></circle></a><a href="/setts/s16/r3k2t2r2dg19r3dg2r2db6r2dg2r21k2t2r2dg2~x2/"><circle cx="256.7" cy="114.6" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #3</title></circle></a><a href="/setts/s14/w3k2dg18r2db8r18dg2r2dg2r2db2r18dg18k2~x2/"><circle cx="225.6" cy="146.9" r="4" fill="#3465a4"><title>MacGuire (Personal)</title></circle></a><a href="/setts/s14/w3r5dg3dp3r14dg36r3dp8dg3r36dg14r3r5w3~x2/"><circle cx="253.6" cy="119.0" r="4" fill="#3465a4"><title>MacKinnon #11</title></circle></a><a href="/setts/s11/lb3k1r12k1r1k2r1k6r12k1lo1~x4/"><circle cx="198.5" cy="131.3" r="4" fill="#3465a4"><title>McCandlish, Red (Name)</title></circle></a><circle cx="209.1" cy="126.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/r7r5r5r31k9r4r3r5r3r4g30r4r3r5r5~x2/

@@ -22,6 +22,6 @@ GGWBRWRGRWRBWG
 
 | Tartans |
 |---------------|
-| [Southwell (Personal)](/setts/s14/g10g2w14db14r2w1r2g39r2w1r2db14w14g2~x2/)|
-|![Southwell (Personal) example sett](/setts/s14/g10g2w14db14r2w1r2g39r2w1r2db14w14g2~x2/sett.png)|
+| [Southwell (Personal)](/setts/s14/g39r2w1r2db14w14g2g10~x2/)|
+|![Southwell (Personal) example sett](/setts/s14/g39r2w1r2db14w14g2g10~x2/sett.png)|
 

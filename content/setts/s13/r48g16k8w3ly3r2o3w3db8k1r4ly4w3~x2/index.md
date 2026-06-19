@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/6 Y8 R8 K2 B16 LN6 LT6 R4 Y6 LN6 K16 G32 R/96
+R/96 G32 K16 LN6 Y6 R4 LT6 LN6 B16 K2 R8 Y8 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -905,7 +908,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [MacGill](/setts/s13/r41dg13k8lb2ly2r1ly2lb2db6k2r3ly2lb5~x2/) — ΔT 1.00
+1. [MacGill](/setts/s13/r41dg13k8lb2ly2r1ly2lb2db6k2r3ly2lb5/) — ΔT 1.00
 1. [MacRae, of Ardentoul](/setts/s18/r11t3db18ly1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/) — ΔT 1.15
 1. [Caledonian Society, Ancient](/setts/s8/r40g16ly2k8t4w1db5w2~x2/) — ΔT 1.19
 1. [Chattan, Clan](/setts/s16/r120k4w2g32w4k7r7k2r7k7w4t32k8r8k12w4/) — ΔT 1.21
@@ -918,8 +921,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r41dg13k8lb2ly2r1ly2lb2db6k2r3ly2lb5~x2/"><circle cx="263.2" cy="24.7" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/setts/s18/r11t3db18ly1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/"><circle cx="287.8" cy="14.0" r="4" fill="#3465a4"><title>MacRae, of Ardentoul</title></circle></a><a href="/setts/s8/r40g16ly2k8t4w1db5w2~x2/"><circle cx="264.2" cy="52.8" r="4" fill="#3465a4"><title>Caledonian Society, Ancient</title></circle></a><a href="/setts/s16/r120k4w2g32w4k7r7k2r7k7w4t32k8r8k12w4/"><circle cx="313.1" cy="14.0" r="4" fill="#3465a4"><title>Chattan, Clan</title></circle></a><a href="/setts/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3ly5w5k4~x2/"><circle cx="185.3" cy="28.7" r="4" fill="#3465a4"><title>Elmore (Personal)</title></circle></a><a href="/setts/s8/r40g16ly2k8y4w1db5w2~x2/"><circle cx="275.9" cy="56.5" r="4" fill="#3465a4"><title>Ancient Caledonian Society</title></circle></a><a href="/setts/s12/db3r2db2r35lo2db3k2db5k4g13k1w3~x2/"><circle cx="280.6" cy="50.3" r="4" fill="#3465a4"><title>Celtic Nations (Fashion)</title></circle></a><a href="/setts/s12/db3r2db2r35ly2db3k2db5k4g13k1w3~x2/"><circle cx="256.4" cy="33.9" r="4" fill="#3465a4"><title>Celtic Nations</title></circle></a><a href="/setts/s13/r28g10k7w2ly2r1ly2w2db5k2r2ly2w3~x4/"><circle cx="220.1" cy="49.5" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/setts/s16/r122k4w2g32w4ly7r7k2r7ly7w4t32k8r8ly12w4/"><circle cx="325.4" cy="14.0" r="4" fill="#3465a4"><title>Chattan (Clan)</title></circle></a><circle cx="261.4" cy="14.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r41dg13k8lb2ly2r1ly2lb2db6k2r3ly2lb5/"><circle cx="262.8" cy="24.7" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/setts/s18/r11t3db18ly1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/"><circle cx="287.5" cy="14.0" r="4" fill="#3465a4"><title>MacRae, of Ardentoul</title></circle></a><a href="/setts/s8/r40g16ly2k8t4w1db5w2~x2/"><circle cx="263.9" cy="52.8" r="4" fill="#3465a4"><title>Caledonian Society, Ancient</title></circle></a><a href="/setts/s16/r120k4w2g32w4k7r7k2r7k7w4t32k8r8k12w4/"><circle cx="312.6" cy="14.0" r="4" fill="#3465a4"><title>Chattan, Clan</title></circle></a><a href="/setts/s15/r29k1lo3dg6w6r3k1r3w2dg3db5k3ly5w5k4~x2/"><circle cx="185.0" cy="28.8" r="4" fill="#3465a4"><title>Elmore (Personal)</title></circle></a><a href="/setts/s8/r40g16ly2k8y4w1db5w2~x2/"><circle cx="275.6" cy="56.6" r="4" fill="#3465a4"><title>Ancient Caledonian Society</title></circle></a><a href="/setts/s12/db3r2db2r35lo2db3k2db5k4g13k1w3~x2/"><circle cx="280.3" cy="50.3" r="4" fill="#3465a4"><title>Celtic Nations (Fashion)</title></circle></a><a href="/setts/s12/db3r2db2r35ly2db3k2db5k4g13k1w3~x2/"><circle cx="256.0" cy="33.9" r="4" fill="#3465a4"><title>Celtic Nations</title></circle></a><a href="/setts/s13/r28g10k7w2ly2r1ly2w2db5k2r2ly2w3~x4/"><circle cx="219.8" cy="49.6" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/setts/s16/r122k4w2g32w4ly7r7k2r7ly7w4t32k8r8ly12w4/"><circle cx="324.9" cy="14.0" r="4" fill="#3465a4"><title>Chattan (Clan)</title></circle></a><circle cx="260.9" cy="14.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r48g16k8w3ly3r2o3w3db8k1r4ly4w3~x2/

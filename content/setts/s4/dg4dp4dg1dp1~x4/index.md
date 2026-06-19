@@ -2,7 +2,7 @@
 title: "Wilson's No.116"
 date: 2023-03-18
 ---
-**Bands:** [BGBG](/stripes/bgbg/) · **Stripes:** [DP DG DP DG](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="seq">DP DG DP DG</span></span>
+**Bands:** [GBGB](/stripes/gbgb/) · **Stripes:** [DG DP DG DP](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DG DP DG DP</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
@@ -55,13 +55,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Royal Scotsman Train](/setts/s7/db5k2db14k14db2k2r2~x2/) — ΔT 2.45
 1. [Unidentified #29](/setts/s5/k5dg14k16db12dg4~x2/) — ΔT 2.46
 1. [Unidentified no. 54](/setts/s6/db2dg6db6dp5db1dp2~x2/) — ΔT 2.46
-1. [Wcwm 9275-1333-1](/setts/s4/dp20k20dp3k20~x2/) — ΔT 2.48
+1. [Wcwm 9275-1333-1](/setts/s4/k20dp3k20dp20~x2/) — ΔT 2.48
 1. [Feniston (Personal)](/setts/s5/dr30db10dr3db30m3~x2/) — ΔT 2.51
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/k34db13k7db14~x2/"><circle cx="440.6" cy="366.0" r="4" fill="#3465a4"><title>Auchincloss (Personal)</title></circle></a><a href="/setts/s4/dg1db3dg3r1~x4/"><circle cx="333.9" cy="366.0" r="4" fill="#3465a4"><title>Barwell</title></circle></a><a href="/setts/s5/db16dy2db16dy19r4~x3/"><circle cx="399.4" cy="306.2" r="4" fill="#3465a4"><title>Unidentified #24</title></circle></a><a href="/setts/s5/db16o2db16o19r4~x3/"><circle cx="408.3" cy="307.1" r="4" fill="#3465a4"><title>Unidentified 17</title></circle></a><a href="/setts/s5/n16r2n10r14t5~x2/"><circle cx="397.9" cy="317.9" r="4" fill="#3465a4"><title>Mowbray (Personal)</title></circle></a><a href="/setts/s7/db5k2db14k14db2k2r2~x2/"><circle cx="431.0" cy="309.6" r="4" fill="#3465a4"><title>Royal Scotsman Train</title></circle></a><a href="/setts/s5/k5dg14k16db12dg4~x2/"><circle cx="264.2" cy="364.2" r="4" fill="#3465a4"><title>Unidentified #29</title></circle></a><a href="/setts/s6/db2dg6db6dp5db1dp2~x2/"><circle cx="289.4" cy="332.7" r="4" fill="#3465a4"><title>Unidentified no. 54</title></circle></a><a href="/setts/s4/dp20k20dp3k20~x2/"><circle cx="531.4" cy="366.0" r="4" fill="#3465a4"><title>Wcwm 9275-1333-1</title></circle></a><a href="/setts/s5/dr30db10dr3db30m3~x2/"><circle cx="425.1" cy="284.7" r="4" fill="#3465a4"><title>Feniston (Personal)</title></circle></a><circle cx="418.0" cy="366.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/k34db13k7db14~x2/"><circle cx="440.8" cy="366.0" r="4" fill="#3465a4"><title>Auchincloss (Personal)</title></circle></a><a href="/setts/s4/dg1db3dg3r1~x4/"><circle cx="334.1" cy="366.0" r="4" fill="#3465a4"><title>Barwell</title></circle></a><a href="/setts/s5/db16dy2db16dy19r4~x3/"><circle cx="399.4" cy="306.1" r="4" fill="#3465a4"><title>Unidentified #24</title></circle></a><a href="/setts/s5/db16o2db16o19r4~x3/"><circle cx="408.2" cy="307.1" r="4" fill="#3465a4"><title>Unidentified 17</title></circle></a><a href="/setts/s5/n16r2n10r14t5~x2/"><circle cx="397.8" cy="317.9" r="4" fill="#3465a4"><title>Mowbray (Personal)</title></circle></a><a href="/setts/s7/db5k2db14k14db2k2r2~x2/"><circle cx="431.1" cy="309.7" r="4" fill="#3465a4"><title>Royal Scotsman Train</title></circle></a><a href="/setts/s5/k5dg14k16db12dg4~x2/"><circle cx="264.5" cy="364.3" r="4" fill="#3465a4"><title>Unidentified #29</title></circle></a><a href="/setts/s6/db2dg6db6dp5db1dp2~x2/"><circle cx="289.7" cy="332.8" r="4" fill="#3465a4"><title>Unidentified no. 54</title></circle></a><a href="/setts/s4/k20dp3k20dp20~x2/"><circle cx="531.5" cy="366.0" r="4" fill="#3465a4"><title>Wcwm 9275-1333-1</title></circle></a><a href="/setts/s5/dr30db10dr3db30m3~x2/"><circle cx="425.0" cy="284.6" r="4" fill="#3465a4"><title>Feniston (Personal)</title></circle></a><circle cx="418.1" cy="366.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/dg4dp4dg1dp1~x4/

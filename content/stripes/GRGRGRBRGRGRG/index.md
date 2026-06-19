@@ -25,8 +25,8 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 |---------------|
 | [MacQuarrie #3](/setts/s13/dg2r3dg2r52dg2r2db28r2dg42r2dg2r3dg2~x2/)|
 |![MacQuarrie #3 example sett](/setts/s13/dg2r3dg2r52dg2r2db28r2dg42r2dg2r3dg2~x2/sett.png)|
-| [MacQuarrie 1815](/setts/s13/dg1r2dg1r26dg1r1db14r1dg21r1dg1r2dg1~x2/)|
-|![MacQuarrie 1815 example sett](/setts/s13/dg1r2dg1r26dg1r1db14r1dg21r1dg1r2dg1~x2/sett.png)|
+| [MacQuarrie 1815](/setts/s13/dg1r2dg1r26dg1r1db14r1dg21r1dg1r2dg1/)|
+|![MacQuarrie 1815 example sett](/setts/s13/dg1r2dg1r26dg1r1db14r1dg21r1dg1r2dg1/sett.png)|
 | [MacQuarrie 1815](/setts/s13/dg2r3dg2r52dg2r2db28r2dg42r2dg2r3dg2/)|
 |![MacQuarrie 1815 example sett](/setts/s13/dg2r3dg2r52dg2r2db28r2dg42r2dg2r3dg2/sett.png)|
 

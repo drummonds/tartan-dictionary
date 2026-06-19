@@ -18,7 +18,7 @@ BBGGGYGGGB
 
 
 
-### T DR DY DG DY LY DY DG DY DR <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#55120C"></span><span class="seq">T DR DY DG DY LY DY DG DY DR</span></span>
+### DR DY DG DY LY DY DG DY DR T <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#00879F"></span><span class="seq">DR DY DG DY LY DY DG DY DR T</span></span>
 
 | Tartans |
 |---------------|

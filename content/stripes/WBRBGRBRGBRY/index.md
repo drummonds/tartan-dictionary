@@ -18,10 +18,10 @@ WBRBGRBRGBRY
 
 
 
-### W DB R DB DG R DB R DG DB R LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W DB R DB DG R DB R DG DB R LY</span></span>
+### LY R DB DG R DB R DG DB R DB W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY R DB DG R DB R DG DB R DB W</span></span>
 
 | Tartans |
 |---------------|
-| [Kormylo (Personal)](/setts/s12/ly2r9db3dg12r2db40r2dg20db2r18db2w2~x2/)|
-|![Kormylo (Personal) example sett](/setts/s12/ly2r9db3dg12r2db40r2dg20db2r18db2w2~x2/sett.png)|
+| [Kormylo (Personal)](/setts/s12/w2db2r18db2dg20r2db40r2dg12db3r9ly2~x2/)|
+|![Kormylo (Personal) example sett](/setts/s12/w2db2r18db2dg20r2db40r2dg12db3r9ly2~x2/sett.png)|
 

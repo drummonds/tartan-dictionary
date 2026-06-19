@@ -2,12 +2,18 @@
 title: "S.C.O.T.S."
 date: 2023-03-18
 ---
-**Bands:** [BBWBRB](/stripes/bbwbrb/) · **Stripes:** [DB DB W DB R DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB DB W DB R DB</span></span>
+**Bands:** [BRBWBB](/stripes/brbwbb/) · **Stripes:** [DB R DB W DB DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DB W DB DB</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- S.C.O.T.S. U.S.A.
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -925,7 +934,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Affara (Personal)](/setts/s7/db80k5g12k2ly2g2k10~x2/) — ΔT 1.24
 1. [Marist School, The](/setts/s8/dt29b2dt1b1dt1b1db8ly1~x4/) — ΔT 1.30
 1. [Marist School, The](/setts/s8/db29db2db1db1db1db1t8lo1~x4/) — ΔT 1.30
-1. [Danzas](/setts/s7/ly4b3ly1b17db40b2db3~x2/) — ΔT 1.33
+1. [Danzas](/setts/s7/ly4b3ly1b17db40b2db3~x2/) — ΔT 1.34
 1. [Danzas](/setts/s7/ly4dt3ly1dt17db40dt2db3~x2/) — ΔT 1.34
 1. [Royal Agricultural Winter Fair](/setts/s8/db32lb1db1lo2db1r1db4dg16~x4/) — ΔT 1.41
 1. [S.C.O.T.S](/setts/s6/b136db45w7db4r4db16/) — ΔT 1.41
@@ -934,8 +943,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db128r8t41n4t4n4/"><circle cx="481.1" cy="159.1" r="4" fill="#3465a4"><title>French Freemasons' Pride (Fashion)</title></circle></a><a href="/setts/s7/db80k5g12k2ly2g2k10~x2/"><circle cx="535.9" cy="149.2" r="4" fill="#3465a4"><title>Affara (Personal)</title></circle></a><a href="/setts/s8/dt29b2dt1b1dt1b1db8ly1~x4/"><circle cx="530.5" cy="161.5" r="4" fill="#3465a4"><title>Marist School, The</title></circle></a><a href="/setts/s8/db29db2db1db1db1db1t8lo1~x4/"><circle cx="502.6" cy="144.3" r="4" fill="#3465a4"><title>Marist School, The</title></circle></a><a href="/setts/s7/ly4b3ly1b17db40b2db3~x2/"><circle cx="470.1" cy="167.0" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/setts/s7/ly4dt3ly1dt17db40dt2db3~x2/"><circle cx="476.6" cy="171.3" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/setts/s8/db32lb1db1lo2db1r1db4dg16~x4/"><circle cx="449.9" cy="140.1" r="4" fill="#3465a4"><title>Royal Agricultural Winter Fair</title></circle></a><a href="/setts/s6/b136db45w7db4r4db16/"><circle cx="452.6" cy="157.1" r="4" fill="#3465a4"><title>S.C.O.T.S</title></circle></a><a href="/setts/s6/db80k28dp9k3m5k12~x2/"><circle cx="453.2" cy="200.6" r="4" fill="#3465a4"><title>Earl Blue Marl</title></circle></a><a href="/setts/s8/db142dt12db24w7db5w5db5r10/"><circle cx="472.6" cy="133.1" r="4" fill="#3465a4"><title>Glen Innes (District)</title></circle></a><circle cx="468.8" cy="179.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db128r8t41n4t4n4/"><circle cx="481.0" cy="158.9" r="4" fill="#3465a4"><title>French Freemasons' Pride (Fashion)</title></circle></a><a href="/setts/s7/db80k5g12k2ly2g2k10~x2/"><circle cx="535.8" cy="149.1" r="4" fill="#3465a4"><title>Affara (Personal)</title></circle></a><a href="/setts/s8/dt29b2dt1b1dt1b1db8ly1~x4/"><circle cx="530.4" cy="161.3" r="4" fill="#3465a4"><title>Marist School, The</title></circle></a><a href="/setts/s8/db29db2db1db1db1db1t8lo1~x4/"><circle cx="502.5" cy="144.1" r="4" fill="#3465a4"><title>Marist School, The</title></circle></a><a href="/setts/s7/ly4b3ly1b17db40b2db3~x2/"><circle cx="469.9" cy="166.8" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/setts/s7/ly4dt3ly1dt17db40dt2db3~x2/"><circle cx="476.4" cy="171.1" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/setts/s8/db32lb1db1lo2db1r1db4dg16~x4/"><circle cx="449.9" cy="140.0" r="4" fill="#3465a4"><title>Royal Agricultural Winter Fair</title></circle></a><a href="/setts/s6/b136db45w7db4r4db16/"><circle cx="452.4" cy="156.9" r="4" fill="#3465a4"><title>S.C.O.T.S</title></circle></a><a href="/setts/s6/db80k28dp9k3m5k12~x2/"><circle cx="453.2" cy="200.6" r="4" fill="#3465a4"><title>Earl Blue Marl</title></circle></a><a href="/setts/s8/db142dt12db24w7db5w5db5r10/"><circle cx="472.5" cy="133.1" r="4" fill="#3465a4"><title>Glen Innes (District)</title></circle></a><circle cx="468.7" cy="179.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db55db18w3db2r2db6~x2/

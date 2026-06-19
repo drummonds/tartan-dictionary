@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -928,8 +931,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k4w2k2w2k2w4k2w2k4db12w1~x4/"><circle cx="188.8" cy="174.4" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/setts/s11/k2lb2k2lb2k2lb4k2lb2k4db12lb1~x2/"><circle cx="176.0" cy="174.1" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/setts/s13/db11k1db1k1db1k8w8k1w8k8db8k1db1~x4/"><circle cx="183.3" cy="170.9" r="4" fill="#3465a4"><title>Blue Watch (Fashion)</title></circle></a><a href="/setts/s11/k4lr2k2lr2k2lr4k2lr2k4db12lr1~x2/"><circle cx="193.9" cy="185.3" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/setts/s11/db12lr4db4lr4db4lr10db4lr3db8r24lr2~x2/"><circle cx="216.8" cy="179.6" r="4" fill="#3465a4"><title>Wcwm 9285 4906-2</title></circle></a><a href="/setts/s8/y21k2y2k2y2k15w17k3~x2/"><circle cx="195.2" cy="178.3" r="4" fill="#3465a4"><title>Laksaa</title></circle></a><a href="/setts/s10/w4r2db20k6w5k4w3k2r2db2~x2/"><circle cx="190.3" cy="153.4" r="4" fill="#3465a4"><title>Scottish Knights Templar, of M.T.S.</title></circle></a><a href="/setts/s8/db2w2db8dr8w10db2w1db1~x2/"><circle cx="186.8" cy="189.8" r="4" fill="#3465a4"><title>Laval (Tartan de..), dress</title></circle></a><a href="/setts/s9/g24k3g2k3g4k4m20k3m6~x2/"><circle cx="249.2" cy="174.7" r="4" fill="#3465a4"><title>Alma College</title></circle></a><a href="/setts/s11/t2w2t15k15w2k15w2t3w2t7w2~x2/"><circle cx="214.9" cy="187.7" r="4" fill="#3465a4"><title>Clark (Clan)</title></circle></a><circle cx="182.4" cy="173.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k4w2k2w2k2w4k2w2k4db12w1~x4/"><circle cx="188.8" cy="174.3" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/setts/s11/k2lb2k2lb2k2lb4k2lb2k4db12lb1~x2/"><circle cx="176.1" cy="173.9" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/setts/s13/db11k1db1k1db1k8w8k1w8k8db8k1db1~x4/"><circle cx="183.3" cy="170.7" r="4" fill="#3465a4"><title>Blue Watch (Fashion)</title></circle></a><a href="/setts/s11/k4lr2k2lr2k2lr4k2lr2k4db12lr1~x2/"><circle cx="194.1" cy="185.2" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/setts/s11/db12lr4db4lr4db4lr10db4lr3db8r24lr2~x2/"><circle cx="216.7" cy="179.4" r="4" fill="#3465a4"><title>Wcwm 9285 4906-2</title></circle></a><a href="/setts/s8/y21k2y2k2y2k15w17k3~x2/"><circle cx="195.1" cy="178.1" r="4" fill="#3465a4"><title>Laksaa</title></circle></a><a href="/setts/s10/w4r2db20k6w5k4w3k2r2db2~x2/"><circle cx="190.3" cy="153.3" r="4" fill="#3465a4"><title>Scottish Knights Templar, of M.T.S.</title></circle></a><a href="/setts/s8/db2w2db8dr8w10db2w1db1~x2/"><circle cx="186.8" cy="189.6" r="4" fill="#3465a4"><title>Laval (Tartan de..), dress</title></circle></a><a href="/setts/s9/g24k3g2k3g4k4m20k3m6~x2/"><circle cx="249.1" cy="174.6" r="4" fill="#3465a4"><title>Alma College</title></circle></a><a href="/setts/s11/t2w2t15k15w2k15w2t3w2t7w2~x2/"><circle cx="214.8" cy="187.5" r="4" fill="#3465a4"><title>Clark (Clan)</title></circle></a><circle cx="182.5" cy="173.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k4w2k2w2k2w4k2w2k4db12w1~x2/

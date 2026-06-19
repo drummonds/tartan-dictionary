@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Perthshire, or Drummond
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 DB6 P10 R18 G42 Y4 P10 LN4 R/82
+R/82 LN4 P10 Y4 G42 R18 P10 DB6 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -917,8 +926,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r41w2dp5ly2g21r9dp5db3w2~x2/"><circle cx="316.5" cy="97.2" r="4" fill="#3465a4"><title>Perthshire or Drummond District Tartan Tartan Number: 1670. Earliest known date: c.1819 Perthshire is known as the gateway to the Highlands. The Perthshire tartan is similar to a the Drummond sett, the tartan of a Drummond clan who had extensive lands in the district. The first record of this tartan is in the early nineteenth century account book of Wilson's of Bannockburn where it is referred to as the 'Perthshire Rock and Wheel' being an early type of soft tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/t4k2db3r33g9w3r5db10r6g2k2~x2/"><circle cx="288.1" cy="96.9" r="4" fill="#3465a4"><title>MacArthur-Fox Dress (Personal)</title></circle></a><a href="/setts/s11/lb4k2db3r33dg9ly3r5db10r6dg2k2~x2/"><circle cx="289.1" cy="94.6" r="4" fill="#3465a4"><title>MacArthur-Fox Dress</title></circle></a><a href="/setts/s8/k3r34g10r5b2k8dy2w3~x2/"><circle cx="308.0" cy="104.9" r="4" fill="#3465a4"><title>Lambert Greer (Personal)</title></circle></a><a href="/setts/s8/r22db3ly1g12r6db3t3w1~x2/"><circle cx="308.3" cy="115.7" r="4" fill="#3465a4"><title>Drummond, (Fingask)</title></circle></a><a href="/setts/s9/r19ly1k2t1dg7r2k1t1w1~x4/"><circle cx="340.0" cy="82.4" r="4" fill="#3465a4"><title>Drummond Ancient</title></circle></a><a href="/setts/s11/r48t8k10ly2k3w2g25r10k3r3w2~x2/"><circle cx="281.9" cy="76.1" r="4" fill="#3465a4"><title>Followers' Plaid</title></circle></a><a href="/setts/s8/k3r34dg10r5t2k8o2w3~x2/"><circle cx="327.0" cy="117.0" r="4" fill="#3465a4"><title>Lambert (Front Royal) Greer</title></circle></a><a href="/setts/s9/r30w1dp4ly1dg14r6dp4lt2w1~x4/"><circle cx="326.6" cy="74.5" r="4" fill="#3465a4"><title>Perth - 1819 (District)</title></circle></a><a href="/setts/s9/r19ly1k2t1g7r2k1t1w1~x4/"><circle cx="329.2" cy="81.5" r="4" fill="#3465a4"><title>Drummond, Ancient</title></circle></a><circle cx="309.5" cy="94.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r41w2dp5ly2g21r9dp5db3w2~x2/"><circle cx="316.1" cy="97.2" r="4" fill="#3465a4"><title>Perthshire or Drummond District Tartan Tartan Number: 1670. Earliest known date: c.1819 Perthshire is known as the gateway to the Highlands. The Perthshire tartan is similar to a the Drummond sett, the tartan of a Drummond clan who had extensive lands in the district. The first record of this tartan is in the early nineteenth century account book of Wilson's of Bannockburn where it is referred to as the 'Perthshire Rock and Wheel' being an early type of soft tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/t4k2db3r33g9w3r5db10r6g2k2~x2/"><circle cx="287.7" cy="96.9" r="4" fill="#3465a4"><title>MacArthur-Fox Dress (Personal)</title></circle></a><a href="/setts/s11/lb4k2db3r33dg9ly3r5db10r6dg2k2~x2/"><circle cx="288.7" cy="94.6" r="4" fill="#3465a4"><title>MacArthur-Fox Dress</title></circle></a><a href="/setts/s8/k3r34g10r5b2k8dy2w3~x2/"><circle cx="307.6" cy="104.9" r="4" fill="#3465a4"><title>Lambert Greer (Personal)</title></circle></a><a href="/setts/s8/r22db3ly1g12r6db3t3w1~x2/"><circle cx="308.0" cy="115.7" r="4" fill="#3465a4"><title>Drummond, (Fingask)</title></circle></a><a href="/setts/s9/r19ly1k2t1dg7r2k1t1w1~x4/"><circle cx="339.5" cy="82.3" r="4" fill="#3465a4"><title>Drummond Ancient</title></circle></a><a href="/setts/s11/r48t8k10ly2k3w2g25r10k3r3w2~x2/"><circle cx="281.6" cy="76.1" r="4" fill="#3465a4"><title>Followers' Plaid</title></circle></a><a href="/setts/s8/k3r34dg10r5t2k8o2w3~x2/"><circle cx="326.7" cy="117.0" r="4" fill="#3465a4"><title>Lambert (Front Royal) Greer</title></circle></a><a href="/setts/s9/r30w1dp4ly1dg14r6dp4lt2w1~x4/"><circle cx="326.2" cy="74.5" r="4" fill="#3465a4"><title>Perth - 1819 (District)</title></circle></a><a href="/setts/s9/r19ly1k2t1g7r2k1t1w1~x4/"><circle cx="328.8" cy="81.5" r="4" fill="#3465a4"><title>Drummond, Ancient</title></circle></a><circle cx="309.1" cy="94.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r41w2p5ly2g21r9p5db3w2~x2/

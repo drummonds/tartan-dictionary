@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=90
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Angus dress
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -319,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -923,8 +932,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g3r12g15r2w1db30w1g2r2~x2/"><circle cx="261.2" cy="112.1" r="4" fill="#3465a4"><title>Christmas Morning</title></circle></a><a href="/setts/s13/n36m8n2m8n1k2n4k2n4k18w2k1w4~x2/"><circle cx="304.0" cy="80.7" r="4" fill="#3465a4"><title>Diamond Jubilee</title></circle></a><a href="/setts/s9/k6db49g10k2g10k2lo26k2g2~x2/"><circle cx="254.3" cy="122.6" r="4" fill="#3465a4"><title>Madras 3 (Fashion)</title></circle></a><a href="/setts/s12/lr12r3lr3db4lr16o3lr3o3lr3o16db52lr4/"><circle cx="254.0" cy="114.9" r="4" fill="#3465a4"><title>Carsaig</title></circle></a><a href="/setts/s13/lb7k1k1o2k18lb2k1k2k1lb6k1k1lb1~x4/"><circle cx="275.1" cy="107.6" r="4" fill="#3465a4"><title>Wcwm 972-2</title></circle></a><a href="/setts/s15/k30lr33k1o1k1lr8k1o2k1lr3k1o3w2k1o7~x2/"><circle cx="302.8" cy="72.8" r="4" fill="#3465a4"><title>Black Onyx</title></circle></a><a href="/setts/s10/w4r1db20k6w5k4w3k2r1db2~x2/"><circle cx="232.9" cy="126.5" r="4" fill="#3465a4"><title>Scottish Knights Templar, of M.T.S. St Andrew</title></circle></a><a href="/setts/s10/t6k74t6k6t6k6t20lg30k3w6/"><circle cx="306.0" cy="119.6" r="4" fill="#3465a4"><title>Scruffy Wallace</title></circle></a><a href="/setts/s15/k30o33k1lo1k1o8k1lo2k1o3k1lo3w2k1lo7~x2/"><circle cx="309.9" cy="77.8" r="4" fill="#3465a4"><title>Black Onyx (Fashion)</title></circle></a><a href="/setts/s15/t8k1o1k1t22o1k14o1w2o1w6k3o1w3o1~x2/"><circle cx="247.4" cy="95.3" r="4" fill="#3465a4"><title>Anderson Blue</title></circle></a><circle cx="272.2" cy="82.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g3r12g15r2w1db30w1g2r2~x2/"><circle cx="261.0" cy="112.0" r="4" fill="#3465a4"><title>Christmas Morning</title></circle></a><a href="/setts/s13/n36m8n2m8n1k2n4k2n4k18w2k1w4~x2/"><circle cx="303.8" cy="80.6" r="4" fill="#3465a4"><title>Diamond Jubilee</title></circle></a><a href="/setts/s9/k6db49g10k2g10k2lo26k2g2~x2/"><circle cx="254.1" cy="122.5" r="4" fill="#3465a4"><title>Madras 3 (Fashion)</title></circle></a><a href="/setts/s12/lr12r3lr3db4lr16o3lr3o3lr3o16db52lr4/"><circle cx="253.8" cy="114.8" r="4" fill="#3465a4"><title>Carsaig</title></circle></a><a href="/setts/s13/lb7k1k1o2k18lb2k1k2k1lb6k1k1lb1~x4/"><circle cx="275.0" cy="107.5" r="4" fill="#3465a4"><title>Wcwm 972-2</title></circle></a><a href="/setts/s15/k30lr33k1o1k1lr8k1o2k1lr3k1o3w2k1o7~x2/"><circle cx="302.4" cy="72.7" r="4" fill="#3465a4"><title>Black Onyx</title></circle></a><a href="/setts/s10/w4r1db20k6w5k4w3k2r1db2~x2/"><circle cx="232.9" cy="126.4" r="4" fill="#3465a4"><title>Scottish Knights Templar, of M.T.S. St Andrew</title></circle></a><a href="/setts/s10/t6k74t6k6t6k6t20lg30k3w6/"><circle cx="305.9" cy="119.4" r="4" fill="#3465a4"><title>Scruffy Wallace</title></circle></a><a href="/setts/s15/k30o33k1lo1k1o8k1lo2k1o3k1lo3w2k1lo7~x2/"><circle cx="309.6" cy="77.7" r="4" fill="#3465a4"><title>Black Onyx (Fashion)</title></circle></a><a href="/setts/s15/t8k1o1k1t22o1k14o1w2o1w6k3o1w3o1~x2/"><circle cx="247.1" cy="95.2" r="4" fill="#3465a4"><title>Anderson Blue</title></circle></a><circle cx="272.0" cy="82.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k3r1k32db6w20db2r1db2r1db2r3~x2/

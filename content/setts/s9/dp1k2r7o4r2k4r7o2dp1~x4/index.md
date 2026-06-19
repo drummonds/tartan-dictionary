@@ -44,19 +44,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Cameron of Lochiel](/setts/s9/r6g3r6db1w1db1r2db8r4~x2/) — ΔT 1.03
 1. [Cameron of Locheil](/setts/s9/r6dg3r6db1lr1db1r2db8r4~x2/) — ΔT 1.14
+1. [Cameron of Locheil](/setts/s9/r6dg3r6db1lr1db1r2db8r4/) — ΔT 1.14
 1. [Baronage](/setts/s9/dg3r9t1dg9r1dg1r8db9r1~x4/) — ΔT 1.16
 1. [Alexander - 1985 (Name)](/setts/s9/r12g2r4g4k15t4r4t2r12~x2/) — ΔT 1.16
-1. [Wilson's No.199](/setts/s12/dp11r3dg15r3dp11y2dp11r3dg15r3dp11y2~x2/) — ΔT 1.24
-1. [MacQuarrie SM](/setts/s12/b1r1db1r6dg6r1dg6r1db3r6b1r1~x2/) — ΔT 1.29
+1. [Wilson's No.199](/setts/s12/dp11r3dg15r3dp11y2~x2/) — ΔT 1.24
+1. [MacQuarrie SM](/setts/s12/r1b1r6db3r1dg6r1dg6r6db1r1b1~x2/) — ΔT 1.29
+1. [MacQuarrie SM](/setts/s12/r1b1r6db3r1dg6r1dg6r6db1r1b1/) — ΔT 1.29
 1. [Convention of the Baronage (Corp)](/setts/s9/g3r9t1g9r1g1r9db9r1~x4/) — ΔT 1.30
 1. [Lumsden Boghead](/setts/s9/dg1r5dg4r1dg1r1dt4r5dt1~x14/) — ΔT 1.30
-1. [Morrison LC](/setts/s9/dg9lr4dg15r17k5r7k5r32dg5~x2/) — ΔT 1.30
-1. [Morrison LC](/setts/s9/dg9lr4dg15r17k5r7k5r32dg5/) — ΔT 1.30
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r6g3r6db1w1db1r2db8r4~x2/"><circle cx="301.0" cy="209.3" r="4" fill="#3465a4"><title>Cameron of Lochiel</title></circle></a><a href="/setts/s9/r6dg3r6db1lr1db1r2db8r4~x2/"><circle cx="289.1" cy="210.2" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s9/dg3r9t1dg9r1dg1r8db9r1~x4/"><circle cx="247.1" cy="199.6" r="4" fill="#3465a4"><title>Baronage</title></circle></a><a href="/setts/s9/r12g2r4g4k15t4r4t2r12~x2/"><circle cx="259.3" cy="200.3" r="4" fill="#3465a4"><title>Alexander - 1985 (Name)</title></circle></a><a href="/setts/s12/dp11r3dg15r3dp11y2dp11r3dg15r3dp11y2~x2/"><circle cx="252.6" cy="217.4" r="4" fill="#3465a4"><title>Wilson's No.199</title></circle></a><a href="/setts/s12/b1r1db1r6dg6r1dg6r1db3r6b1r1~x2/"><circle cx="249.3" cy="208.8" r="4" fill="#3465a4"><title>MacQuarrie SM</title></circle></a><a href="/setts/s9/g3r9t1g9r1g1r9db9r1~x4/"><circle cx="252.1" cy="197.2" r="4" fill="#3465a4"><title>Convention of the Baronage (Corp)</title></circle></a><a href="/setts/s9/dg1r5dg4r1dg1r1dt4r5dt1~x14/"><circle cx="280.1" cy="246.3" r="4" fill="#3465a4"><title>Lumsden Boghead</title></circle></a><a href="/setts/s9/dg9lr4dg15r17k5r7k5r32dg5~x2/"><circle cx="298.7" cy="201.2" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/setts/s9/dg9lr4dg15r17k5r7k5r32dg5/"><circle cx="298.7" cy="201.2" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><circle cx="274.7" cy="225.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r6g3r6db1w1db1r2db8r4~x2/"><circle cx="300.7" cy="209.2" r="4" fill="#3465a4"><title>Cameron of Lochiel</title></circle></a><a href="/setts/s9/r6dg3r6db1lr1db1r2db8r4~x2/"><circle cx="289.0" cy="210.1" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s9/r6dg3r6db1lr1db1r2db8r4/"><circle cx="289.0" cy="210.1" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s9/dg3r9t1dg9r1dg1r8db9r1~x4/"><circle cx="247.0" cy="199.6" r="4" fill="#3465a4"><title>Baronage</title></circle></a><a href="/setts/s9/r12g2r4g4k15t4r4t2r12~x2/"><circle cx="259.1" cy="200.2" r="4" fill="#3465a4"><title>Alexander - 1985 (Name)</title></circle></a><a href="/setts/s12/dp11r3dg15r3dp11y2~x2/"><circle cx="252.5" cy="217.3" r="4" fill="#3465a4"><title>Wilson's No.199</title></circle></a><a href="/setts/s12/r1b1r6db3r1dg6r1dg6r6db1r1b1~x2/"><circle cx="249.2" cy="208.8" r="4" fill="#3465a4"><title>MacQuarrie SM</title></circle></a><a href="/setts/s12/r1b1r6db3r1dg6r1dg6r6db1r1b1/"><circle cx="249.2" cy="208.8" r="4" fill="#3465a4"><title>MacQuarrie SM</title></circle></a><a href="/setts/s9/g3r9t1g9r1g1r9db9r1~x4/"><circle cx="251.9" cy="197.2" r="4" fill="#3465a4"><title>Convention of the Baronage (Corp)</title></circle></a><a href="/setts/s9/dg1r5dg4r1dg1r1dt4r5dt1~x14/"><circle cx="279.9" cy="246.2" r="4" fill="#3465a4"><title>Lumsden Boghead</title></circle></a><circle cx="274.5" cy="225.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dp1k2r7o4r2k4r7o2dp1~x4/

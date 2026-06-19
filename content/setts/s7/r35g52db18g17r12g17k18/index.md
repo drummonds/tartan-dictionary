@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -899,7 +902,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-K/18 G17 R12 G17 DB18 G52 R/35
+R/35 G52 DB18 G17 R12 G17 K/18
 ![Sett](sett.png)
 
 ## Palette
@@ -914,7 +917,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/18 G17 R12 G17 DB18 G52 R/35 tartan")
+![Tartan detail](tartan.png "R/35 G52 DB18 G17 R12 G17 K/18 tartan")
 
 ## Nearest tartans
 
@@ -928,13 +931,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Ramsay (Orange)](/setts/s7/k4lo9k13g6lo3g9w4~x2/) — ΔT 1.42
 1. [Lawson, William 2002](/setts/s7/k4w19k11dg15k3dg16ly3~x2/) — ΔT 1.43
 1. [Wilson's, No 193](/setts/s5/g6k1r1t2r2~x4/) — ΔT 1.44
-1. [Moore Caledonian (Personal)](/setts/s6/ly1g6ly1g6k6r1~x6/) — ΔT 1.45
-1. [Walker, James](/setts/s6/g2r4k6t1g7k2~x4/) — ΔT 1.50
+1. [Moore Caledonian (Personal)](/setts/s6/r1k6g6ly1g6ly1~x6/) — ΔT 1.45
+1. [Walker, James](/setts/s6/k2g7t1k6r4g2~x4/) — ΔT 1.50
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg10db4dg4db5dg6ly10r6dg18ly4/"><circle cx="213.1" cy="239.6" r="4" fill="#3465a4"><title>Arkansas (Unofficial)</title></circle></a><a href="/setts/s7/r20g29db10g16r6g10k19~x2/"><circle cx="197.2" cy="275.5" r="4" fill="#3465a4"><title>MacDonagh</title></circle></a><a href="/setts/s8/dg14o5dg14w5k2o5k2w9~x4/"><circle cx="189.3" cy="212.0" r="4" fill="#3465a4"><title>Unnamed (Hip Flask)</title></circle></a><a href="/setts/s7/g24k4g24k24t7r24t7~x2/"><circle cx="137.0" cy="241.8" r="4" fill="#3465a4"><title>Unidentified, Pinafore</title></circle></a><a href="/setts/s6/k5lo5w1lo5k5r1~x10/"><circle cx="187.3" cy="254.1" r="4" fill="#3465a4"><title>Canyon County Idaho Sheriff</title></circle></a><a href="/setts/s7/k4lo9k13g6lo3g9w4~x2/"><circle cx="95.0" cy="254.8" r="4" fill="#3465a4"><title>Ramsay (Orange)</title></circle></a><a href="/setts/s7/k4w19k11dg15k3dg16ly3~x2/"><circle cx="148.5" cy="224.3" r="4" fill="#3465a4"><title>Lawson, William 2002</title></circle></a><a href="/setts/s5/g6k1r1t2r2~x4/"><circle cx="225.2" cy="236.7" r="4" fill="#3465a4"><title>Wilson's, No 193</title></circle></a><a href="/setts/s6/ly1g6ly1g6k6r1~x6/"><circle cx="262.6" cy="243.4" r="4" fill="#3465a4"><title>Moore Caledonian (Personal)</title></circle></a><a href="/setts/s6/g2r4k6t1g7k2~x4/"><circle cx="157.8" cy="236.7" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><circle cx="182.0" cy="254.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg10db4dg4db5dg6ly10r6dg18ly4/"><circle cx="213.0" cy="239.5" r="4" fill="#3465a4"><title>Arkansas (Unofficial)</title></circle></a><a href="/setts/s7/r20g29db10g16r6g10k19~x2/"><circle cx="197.2" cy="275.4" r="4" fill="#3465a4"><title>MacDonagh</title></circle></a><a href="/setts/s8/dg14o5dg14w5k2o5k2w9~x4/"><circle cx="189.2" cy="211.9" r="4" fill="#3465a4"><title>Unnamed (Hip Flask)</title></circle></a><a href="/setts/s7/g24k4g24k24t7r24t7~x2/"><circle cx="137.1" cy="241.7" r="4" fill="#3465a4"><title>Unidentified, Pinafore</title></circle></a><a href="/setts/s6/k5lo5w1lo5k5r1~x10/"><circle cx="187.3" cy="253.9" r="4" fill="#3465a4"><title>Canyon County Idaho Sheriff</title></circle></a><a href="/setts/s7/k4lo9k13g6lo3g9w4~x2/"><circle cx="95.1" cy="254.7" r="4" fill="#3465a4"><title>Ramsay (Orange)</title></circle></a><a href="/setts/s7/k4w19k11dg15k3dg16ly3~x2/"><circle cx="148.6" cy="224.2" r="4" fill="#3465a4"><title>Lawson, William 2002</title></circle></a><a href="/setts/s5/g6k1r1t2r2~x4/"><circle cx="225.1" cy="236.6" r="4" fill="#3465a4"><title>Wilson's, No 193</title></circle></a><a href="/setts/s6/r1k6g6ly1g6ly1~x6/"><circle cx="262.6" cy="243.2" r="4" fill="#3465a4"><title>Moore Caledonian (Personal)</title></circle></a><a href="/setts/s6/k2g7t1k6r4g2~x4/"><circle cx="158.0" cy="236.6" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><circle cx="182.0" cy="253.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r35g52db18g17r12g17k18/

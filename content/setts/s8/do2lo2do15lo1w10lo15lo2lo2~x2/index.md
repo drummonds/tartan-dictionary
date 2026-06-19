@@ -2,12 +2,18 @@
 title: "Bannockbane Orange Stripes"
 date: 2023-03-18
 ---
-**Bands:** [BYBYWYYY](/stripes/bybywyyy/) · **Stripes:** [DO LO DO LO W LO LO LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DO LO DO LO W LO LO LO</span></span>
+**Bands:** [YYYWYBYB](/stripes/yyywybyb/) · **Stripes:** [LO LO LO W LO DO LO DO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="seq">LO LO LO W LO DO LO DO</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=204
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Bannockbane
 
 ## Attestations
 
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dr2lo2dr15lo1w10o15lo2o2~x2/"><circle cx="186.4" cy="149.6" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/setts/s8/do4r3do21r2w14o22r3o4~x2/"><circle cx="185.7" cy="171.3" r="4" fill="#3465a4"><title>Bannock Bane M.405</title></circle></a><a href="/setts/s8/dr2r2dr15r1w10o15r2o2~x2/"><circle cx="191.6" cy="153.5" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/setts/s9/g12w1r1w4r1w1r8ly2r1~x4/"><circle cx="204.1" cy="140.2" r="4" fill="#3465a4"><title>Karibu</title></circle></a><a href="/setts/s8/do2r2do15r1w10dy15r2dy2~x2/"><circle cx="194.2" cy="157.1" r="4" fill="#3465a4"><title>Bannockbane Brown #1</title></circle></a><a href="/setts/s7/dp9r4dp1r4g15r4dp1~x2/"><circle cx="210.8" cy="173.0" r="4" fill="#3465a4"><title>Logan Light</title></circle></a><a href="/setts/s7/p9r4p1r4g15r4p1~x2/"><circle cx="219.0" cy="173.6" r="4" fill="#3465a4"><title>Logan, Light</title></circle></a><a href="/setts/s7/r5w36p14r9g28r8p2~x2/"><circle cx="170.3" cy="154.9" r="4" fill="#3465a4"><title>MacKintosh, Arisaid</title></circle></a><a href="/setts/s7/r5w36dp14r9g28r8dp2~x2/"><circle cx="167.1" cy="156.6" r="4" fill="#3465a4"><title>MacKintosh (Artefact)</title></circle></a><a href="/setts/s8/r15db2r1db2r3db7g13g3~x2/"><circle cx="229.6" cy="169.3" r="4" fill="#3465a4"><title>Cranston Dress</title></circle></a><circle cx="185.9" cy="151.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dr2lo2dr15lo1w10o15lo2o2~x2/"><circle cx="186.2" cy="149.5" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/setts/s8/do4r3do21r2w14o22r3o4~x2/"><circle cx="185.4" cy="171.2" r="4" fill="#3465a4"><title>Bannock Bane M.405</title></circle></a><a href="/setts/s8/dr2r2dr15r1w10o15r2o2~x2/"><circle cx="191.4" cy="153.4" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/setts/s9/g12w1r1w4r1w1r8ly2r1~x4/"><circle cx="203.8" cy="140.1" r="4" fill="#3465a4"><title>Karibu</title></circle></a><a href="/setts/s8/do2r2do15r1w10dy15r2dy2~x2/"><circle cx="194.0" cy="157.1" r="4" fill="#3465a4"><title>Bannockbane Brown #1</title></circle></a><a href="/setts/s7/dp9r4dp1r4g15r4dp1~x2/"><circle cx="210.7" cy="172.9" r="4" fill="#3465a4"><title>Logan Light</title></circle></a><a href="/setts/s7/p9r4p1r4g15r4p1~x2/"><circle cx="218.8" cy="173.5" r="4" fill="#3465a4"><title>Logan, Light</title></circle></a><a href="/setts/s7/r5w36p14r9g28r8p2~x2/"><circle cx="170.0" cy="154.8" r="4" fill="#3465a4"><title>MacKintosh, Arisaid</title></circle></a><a href="/setts/s7/r5w36dp14r9g28r8dp2~x2/"><circle cx="166.9" cy="156.6" r="4" fill="#3465a4"><title>MacKintosh (Artefact)</title></circle></a><a href="/setts/s8/r15db2r1db2r3db7g13g3~x2/"><circle cx="229.4" cy="169.2" r="4" fill="#3465a4"><title>Cranston Dress</title></circle></a><circle cx="185.6" cy="151.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/do2lo2do15lo1w10lo15lo2lo2~x2/

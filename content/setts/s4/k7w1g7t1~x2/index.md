@@ -2,12 +2,18 @@
 title: "Wilson's No.079"
 date: 2023-03-18
 ---
-**Bands:** [BGWK](/stripes/bgwk/) · **Stripes:** [T G W K](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">T G W K</span></span>
+**Bands:** [KWGB](/stripes/kwgb/) · **Stripes:** [K W G T](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">K W G T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4667
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Wilson's, No 79
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/2 G14 W2 K/14
+K/14 W2 G14 B/2
 ![Sett](sett.png)
 
 ## Palette
@@ -909,7 +918,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/2 G14 W2 K/14 tartan")
+![Tartan detail](tartan.png "K/14 W2 G14 B/2 tartan")
 
 ## Nearest tartans
 
@@ -917,10 +926,10 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Innes Hunting](/setts/s4/k30lb7g36k5~x2/) — ΔT 1.00
 1. [Wilson's, No 140](/setts/s4/k7ly1g7t1~x2/) — ΔT 1.00
-1. [Wilson's No.197](/setts/s4/g6ly1k6ly1~x4/) — ΔT 1.05
+1. [Wilson's No.197](/setts/s4/k6ly1g6~x4/) — ΔT 1.05
 1. [Salt Spring Island](/setts/s4/r1dg6db6w1~x4/) — ΔT 1.09
 1. [Michaluk (Personal)](/setts/s6/k3b4g20k20g3lo3~x4/) — ΔT 1.20
-1. [Unnamed 3](/setts/s6/g2b4k6t1g9k2~x2/) — ΔT 1.21
+1. [Unnamed 3](/setts/s6/k2g9t1k6b4g2~x2/) — ΔT 1.21
 1. [MacKay](/setts/s6/g1db5g1k5g6ly1~x2/) — ΔT 1.21
 1. [Raeside](/setts/s5/k6g4g44k41w4~x2/) — ΔT 1.26
 1. [Graham of Menteith](/setts/s6/g18t2g4k14db12k3~x2/) — ΔT 1.27
@@ -928,8 +937,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/k30lb7g36k5~x2/"><circle cx="264.5" cy="277.1" r="4" fill="#3465a4"><title>Innes Hunting</title></circle></a><a href="/setts/s4/k7ly1g7t1~x2/"><circle cx="201.8" cy="244.7" r="4" fill="#3465a4"><title>Wilson's, No 140</title></circle></a><a href="/setts/s4/g6ly1k6ly1~x4/"><circle cx="224.4" cy="272.1" r="4" fill="#3465a4"><title>Wilson's No.197</title></circle></a><a href="/setts/s4/r1dg6db6w1~x4/"><circle cx="199.7" cy="254.6" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/setts/s6/k3b4g20k20g3lo3~x4/"><circle cx="234.0" cy="227.3" r="4" fill="#3465a4"><title>Michaluk (Personal)</title></circle></a><a href="/setts/s6/g2b4k6t1g9k2~x2/"><circle cx="189.8" cy="222.1" r="4" fill="#3465a4"><title>Unnamed 3</title></circle></a><a href="/setts/s6/g1db5g1k5g6ly1~x2/"><circle cx="156.9" cy="237.8" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/setts/s5/k6g4g44k41w4~x2/"><circle cx="289.6" cy="221.0" r="4" fill="#3465a4"><title>Raeside</title></circle></a><a href="/setts/s6/g18t2g4k14db12k3~x2/"><circle cx="177.6" cy="228.1" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/setts/s5/k8b5g44k40r6/"><circle cx="237.6" cy="222.9" r="4" fill="#3465a4"><title>Douglas, Black</title></circle></a><circle cx="221.9" cy="251.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/k30lb7g36k5~x2/"><circle cx="264.6" cy="276.9" r="4" fill="#3465a4"><title>Innes Hunting</title></circle></a><a href="/setts/s4/k7ly1g7t1~x2/"><circle cx="202.0" cy="244.5" r="4" fill="#3465a4"><title>Wilson's, No 140</title></circle></a><a href="/setts/s4/k6ly1g6~x4/"><circle cx="224.5" cy="271.9" r="4" fill="#3465a4"><title>Wilson's No.197</title></circle></a><a href="/setts/s4/r1dg6db6w1~x4/"><circle cx="199.8" cy="254.4" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/setts/s6/k3b4g20k20g3lo3~x4/"><circle cx="234.0" cy="227.2" r="4" fill="#3465a4"><title>Michaluk (Personal)</title></circle></a><a href="/setts/s6/k2g9t1k6b4g2~x2/"><circle cx="190.0" cy="221.9" r="4" fill="#3465a4"><title>Unnamed 3</title></circle></a><a href="/setts/s6/g1db5g1k5g6ly1~x2/"><circle cx="157.1" cy="237.7" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/setts/s5/k6g4g44k41w4~x2/"><circle cx="289.7" cy="220.9" r="4" fill="#3465a4"><title>Raeside</title></circle></a><a href="/setts/s6/g18t2g4k14db12k3~x2/"><circle cx="177.8" cy="228.0" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/setts/s5/k8b5g44k40r6/"><circle cx="237.8" cy="222.7" r="4" fill="#3465a4"><title>Douglas, Black</title></circle></a><circle cx="222.0" cy="251.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/k7w1g7t1~x2/

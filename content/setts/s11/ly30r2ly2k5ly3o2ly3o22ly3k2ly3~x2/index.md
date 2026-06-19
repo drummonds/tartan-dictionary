@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-Y/6 K4 Y6 LT44 Y6 LT4 Y6 K10 Y4 R4 Y/60
+Y/60 R4 Y4 K10 Y6 LT4 Y6 LT44 Y6 K4 Y/6
 ![Sett](sett.png)
 
 ## Palette
@@ -915,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/ly30r2ly2k5ly3dy2ly3dy22ly3k2ly3~x2/"><circle cx="318.5" cy="114.6" r="4" fill="#3465a4"><title>Dunbarton Trade Tartan Tartan Number: 1886. Earliest known date: pre 2003 Dunbarton, Quebec. Different warp and weft See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r4ly34do20ly4do8ly6r2ly5do2ly3r4/"><circle cx="309.2" cy="116.5" r="4" fill="#3465a4"><title>Morgan of Wales</title></circle></a><a href="/setts/s11/ly30r2ly2k5ly3y2ly3y22ly3k2ly3~x2/"><circle cx="333.0" cy="120.5" r="4" fill="#3465a4"><title>Dunbarton (Quebec)</title></circle></a><a href="/setts/s10/ly28k2ly28k2ly2k2lo29k2r2k2~x2/"><circle cx="337.8" cy="131.6" r="4" fill="#3465a4"><title>Ulster Irish District Tartan Tartan Number: 1196. Earliest known date: c.1590-1650 The Dungiven costume was discovered in 1956 by Mr William Dixon, a farmer at 'The Hill', Flanders Townland, Dungiven, County Derry, Northern Ireland. The tartan cloth was probably green but had been stained brown and tan by the peat. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/ly5db9r3db5ly2db4ly26t3r4~x2/"><circle cx="270.5" cy="139.6" r="4" fill="#3465a4"><title>Bracken</title></circle></a><a href="/setts/s9/k1ly12r1ly2k4r1k4ly2k1~x4/"><circle cx="313.5" cy="156.7" r="4" fill="#3465a4"><title>MacLeod (Snuffbox)</title></circle></a><a href="/setts/s9/ly20db27r6db15ly8db11ly78db10r12/"><circle cx="275.4" cy="140.1" r="4" fill="#3465a4"><title>Bracken</title></circle></a><a href="/setts/s8/ly5k9ly2k7o10r4o35k4~x2/"><circle cx="331.4" cy="141.7" r="4" fill="#3465a4"><title>Wilbers #2 (Personal)</title></circle></a><a href="/setts/s10/b4k12db3b4db3k3ly36db3b2ly3~x2/"><circle cx="270.8" cy="102.8" r="4" fill="#3465a4"><title>Hughes (USA) (Name)</title></circle></a><a href="/setts/s12/w3ly3r2ly13k3ly4k22ly4k3ly16p2w3~x2/"><circle cx="216.2" cy="117.9" r="4" fill="#3465a4"><title>Loch Sween</title></circle></a><circle cx="314.4" cy="110.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/ly30r2ly2k5ly3dy2ly3dy22ly3k2ly3~x2/"><circle cx="317.9" cy="114.4" r="4" fill="#3465a4"><title>Dunbarton Trade Tartan Tartan Number: 1886. Earliest known date: pre 2003 Dunbarton, Quebec. Different warp and weft See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r4ly34do20ly4do8ly6r2ly5do2ly3r4/"><circle cx="308.7" cy="116.3" r="4" fill="#3465a4"><title>Morgan of Wales</title></circle></a><a href="/setts/s11/ly30r2ly2k5ly3y2ly3y22ly3k2ly3~x2/"><circle cx="332.4" cy="120.3" r="4" fill="#3465a4"><title>Dunbarton (Quebec)</title></circle></a><a href="/setts/s10/ly28k2ly28k2ly2k2lo29k2r2k2~x2/"><circle cx="337.2" cy="131.4" r="4" fill="#3465a4"><title>Ulster Irish District Tartan Tartan Number: 1196. Earliest known date: c.1590-1650 The Dungiven costume was discovered in 1956 by Mr William Dixon, a farmer at 'The Hill', Flanders Townland, Dungiven, County Derry, Northern Ireland. The tartan cloth was probably green but had been stained brown and tan by the peat. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/ly5db9r3db5ly2db4ly26t3r4~x2/"><circle cx="270.0" cy="139.4" r="4" fill="#3465a4"><title>Bracken</title></circle></a><a href="/setts/s9/k1ly12r1ly2k4r1k4ly2k1~x4/"><circle cx="313.0" cy="156.4" r="4" fill="#3465a4"><title>MacLeod (Snuffbox)</title></circle></a><a href="/setts/s9/ly20db27r6db15ly8db11ly78db10r12/"><circle cx="275.0" cy="139.8" r="4" fill="#3465a4"><title>Bracken</title></circle></a><a href="/setts/s8/ly5k9ly2k7o10r4o35k4~x2/"><circle cx="331.0" cy="141.5" r="4" fill="#3465a4"><title>Wilbers #2 (Personal)</title></circle></a><a href="/setts/s10/b4k12db3b4db3k3ly36db3b2ly3~x2/"><circle cx="270.4" cy="102.6" r="4" fill="#3465a4"><title>Hughes (USA) (Name)</title></circle></a><a href="/setts/s12/w3ly3r2ly13k3ly4k22ly4k3ly16p2w3~x2/"><circle cx="215.8" cy="117.8" r="4" fill="#3465a4"><title>Loch Sween</title></circle></a><circle cx="313.8" cy="110.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/ly30r2ly2k5ly3o2ly3o22ly3k2ly3~x2/

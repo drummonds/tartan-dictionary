@@ -18,10 +18,10 @@ GKYKGKYKGRGKYKGKYK
 
 
 
-### G K LY K G K LY K G R G K LY K G K LY K <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="seq">G K LY K G K LY K G R G K LY K G K LY K</span></span>
+### K LY K G K LY K G R G K LY K G K LY K G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K LY K G K LY K G R G K LY K G K LY K G</span></span>
 
 | Tartans |
 |---------------|
-| [Harbor Club](/setts/s18/g14k5ly2k3g7k3ly2k5g14r47g14k5ly2k3g7k3ly2k5~x2/)|
-|![Harbor Club example sett](/setts/s18/g14k5ly2k3g7k3ly2k5g14r47g14k5ly2k3g7k3ly2k5~x2/sett.png)|
+| [Harbor Club](/setts/s18/r47g14k5ly2k3g7k3ly2k5g14~x2/)|
+|![Harbor Club example sett](/setts/s18/r47g14k5ly2k3g7k3ly2k5g14~x2/sett.png)|
 

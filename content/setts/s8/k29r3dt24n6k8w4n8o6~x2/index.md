@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7091/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Yates Personal
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -42,7 +48,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Yates](/setts/s8/k37r4db30n7k10w5n10y7~x2/) — ΔT 0.60
 1. [McComb](/setts/s7/db3r2db18k6dg18ly2g3~x2/) — ΔT 0.73
-1. [James (Personal)](/setts/s7/lr2db6ly1dg12ly1k6r2~x4/) — ΔT 0.85
+1. [James (Personal)](/setts/s7/r2k6ly1dg12ly1db6lr2~x4/) — ΔT 0.85
 1. [Souza Nery (Personal)](/setts/s7/ly4g22r3k17r3db37w3~x2/) — ΔT 0.92
 1. [Royal Burgh of Peebles (District)](/setts/s7/r3g3db4g17k13dt26w3~x2/) — ΔT 0.92
 1. [State Seal of Arizona (Fashion)](/setts/s10/g4do21lo10do5lo4r4db10g6db30lb4~x2/) — ΔT 0.93
@@ -53,8 +59,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k37r4db30n7k10w5n10y7~x2/"><circle cx="174.4" cy="178.6" r="4" fill="#3465a4"><title>Yates</title></circle></a><a href="/setts/s7/db3r2db18k6dg18ly2g3~x2/"><circle cx="177.1" cy="181.7" r="4" fill="#3465a4"><title>McComb</title></circle></a><a href="/setts/s7/lr2db6ly1dg12ly1k6r2~x4/"><circle cx="163.4" cy="169.7" r="4" fill="#3465a4"><title>James (Personal)</title></circle></a><a href="/setts/s7/ly4g22r3k17r3db37w3~x2/"><circle cx="176.2" cy="155.4" r="4" fill="#3465a4"><title>Souza Nery (Personal)</title></circle></a><a href="/setts/s7/r3g3db4g17k13dt26w3~x2/"><circle cx="155.4" cy="190.2" r="4" fill="#3465a4"><title>Royal Burgh of Peebles (District)</title></circle></a><a href="/setts/s10/g4do21lo10do5lo4r4db10g6db30lb4~x2/"><circle cx="159.6" cy="172.0" r="4" fill="#3465a4"><title>State Seal of Arizona (Fashion)</title></circle></a><a href="/setts/s8/dg5g2b2db15r2t2dg5r2~x4/"><circle cx="189.8" cy="188.0" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><a href="/setts/s7/r3g9y15db10k2db18w3~x2/"><circle cx="186.3" cy="200.9" r="4" fill="#3465a4"><title>Coulthard (Personal)</title></circle></a><a href="/setts/s9/m4k7m2db25k19w2g13k2ly3~x2/"><circle cx="152.2" cy="147.7" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/setts/s8/r2k8ly1k8g13db13lo1r2~x2/"><circle cx="147.8" cy="169.0" r="4" fill="#3465a4"><title>Sey (Name)</title></circle></a><circle cx="174.5" cy="178.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k37r4db30n7k10w5n10y7~x2/"><circle cx="174.6" cy="178.7" r="4" fill="#3465a4"><title>Yates</title></circle></a><a href="/setts/s7/db3r2db18k6dg18ly2g3~x2/"><circle cx="177.3" cy="181.7" r="4" fill="#3465a4"><title>McComb</title></circle></a><a href="/setts/s7/r2k6ly1dg12ly1db6lr2~x4/"><circle cx="163.5" cy="169.8" r="4" fill="#3465a4"><title>James (Personal)</title></circle></a><a href="/setts/s7/ly4g22r3k17r3db37w3~x2/"><circle cx="176.3" cy="155.4" r="4" fill="#3465a4"><title>Souza Nery (Personal)</title></circle></a><a href="/setts/s7/r3g3db4g17k13dt26w3~x2/"><circle cx="155.6" cy="190.3" r="4" fill="#3465a4"><title>Royal Burgh of Peebles (District)</title></circle></a><a href="/setts/s10/g4do21lo10do5lo4r4db10g6db30lb4~x2/"><circle cx="159.6" cy="172.1" r="4" fill="#3465a4"><title>State Seal of Arizona (Fashion)</title></circle></a><a href="/setts/s8/dg5g2b2db15r2t2dg5r2~x4/"><circle cx="190.0" cy="188.1" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><a href="/setts/s7/r3g9y15db10k2db18w3~x2/"><circle cx="186.4" cy="201.0" r="4" fill="#3465a4"><title>Coulthard (Personal)</title></circle></a><a href="/setts/s9/m4k7m2db25k19w2g13k2ly3~x2/"><circle cx="152.4" cy="147.8" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/setts/s8/r2k8ly1k8g13db13lo1r2~x2/"><circle cx="148.0" cy="169.1" r="4" fill="#3465a4"><title>Sey (Name)</title></circle></a><circle cx="174.7" cy="178.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k29r3dt24n6k8w4n8o6~x2/

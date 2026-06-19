@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Wilson's, No 128
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,8 +926,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2/"><circle cx="172.3" cy="116.0" r="4" fill="#3465a4"><title>North West Territories</title></circle></a><a href="/setts/s12/do11g3do4ly3do3ly4do3ly13lo34g3lo4r3~x2/"><circle cx="185.6" cy="107.0" r="4" fill="#3465a4"><title>Harmony 1 Trade Tartan Tartan Number: 1658. Earliest known date: pre 2003 LB may be Turquoise See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w2r16k1t2k1ly4k1t2k1g16t1~x2/"><circle cx="154.2" cy="84.5" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><a href="/setts/s12/dy11dg3dy4ly3dy3ly4dy3lo13o34dg3o4dr3~x2/"><circle cx="193.3" cy="110.1" r="4" fill="#3465a4"><title>Harmony 1</title></circle></a><a href="/setts/s11/lb2r16k1t2k1lo4k1t2k1g16t1~x4/"><circle cx="165.4" cy="94.3" r="4" fill="#3465a4"><title>Baxter (Clan)</title></circle></a><a href="/setts/s9/db3t1k1r12r1g9r1t1db3~x4/"><circle cx="196.9" cy="131.0" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/setts/s10/ly4g2ly2g2ly2g24k2r16w9db3~x2/"><circle cx="162.1" cy="111.4" r="4" fill="#3465a4"><title>North West Territories</title></circle></a><a href="/setts/s9/t3y1k1r12r1g9r1y1t3~x2/"><circle cx="184.0" cy="132.1" r="4" fill="#3465a4"><title>Murray of Abercairney</title></circle></a><a href="/setts/s12/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/"><circle cx="192.1" cy="86.9" r="4" fill="#3465a4"><title>O'Keefe (Name)</title></circle></a><a href="/setts/s9/t4dy27lr8k4lr8k4lr8r11ly3~x2/"><circle cx="119.6" cy="150.4" r="4" fill="#3465a4"><title>Brittany Hunting French Fancy Tartan Tartan Number: 5977. Earliest known date: 2003 For Richard and Anne-Marie Duclos of Le Coudray-Montceaux, France. Based on the Breton National at 3902. The term Randonnée (Walking) is used in the sense of the Scottish category, Hunting. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="166.7" cy="118.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2/"><circle cx="172.0" cy="116.1" r="4" fill="#3465a4"><title>North West Territories</title></circle></a><a href="/setts/s12/do11g3do4ly3do3ly4do3ly13lo34g3lo4r3~x2/"><circle cx="185.3" cy="107.1" r="4" fill="#3465a4"><title>Harmony 1 Trade Tartan Tartan Number: 1658. Earliest known date: pre 2003 LB may be Turquoise See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w2r16k1t2k1ly4k1t2k1g16t1~x2/"><circle cx="153.9" cy="84.6" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><a href="/setts/s12/dy11dg3dy4ly3dy3ly4dy3lo13o34dg3o4dr3~x2/"><circle cx="192.9" cy="110.2" r="4" fill="#3465a4"><title>Harmony 1</title></circle></a><a href="/setts/s11/lb2r16k1t2k1lo4k1t2k1g16t1~x4/"><circle cx="165.2" cy="94.4" r="4" fill="#3465a4"><title>Baxter (Clan)</title></circle></a><a href="/setts/s9/db3t1k1r12r1g9r1t1db3~x4/"><circle cx="196.7" cy="131.1" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/setts/s10/ly4g2ly2g2ly2g24k2r16w9db3~x2/"><circle cx="161.9" cy="111.5" r="4" fill="#3465a4"><title>North West Territories</title></circle></a><a href="/setts/s9/t3y1k1r12r1g9r1y1t3~x2/"><circle cx="183.8" cy="132.2" r="4" fill="#3465a4"><title>Murray of Abercairney</title></circle></a><a href="/setts/s12/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/"><circle cx="191.9" cy="87.0" r="4" fill="#3465a4"><title>O'Keefe (Name)</title></circle></a><a href="/setts/s9/t4dy27lr8k4lr8k4lr8r11ly3~x2/"><circle cx="119.5" cy="150.5" r="4" fill="#3465a4"><title>Brittany Hunting French Fancy Tartan Tartan Number: 5977. Earliest known date: 2003 For Richard and Anne-Marie Duclos of Le Coudray-Montceaux, France. Based on the Breton National at 3902. The term Randonnée (Walking) is used in the sense of the Scottish category, Hunting. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="166.4" cy="118.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/t4r3ly2r9t3g24t3r9k3r3w2~x2/

@@ -18,7 +18,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/2 K12 B12 DB4 R24 B/4
+B/4 R24 DB4 B12 K12 B/2
 ![Sett](sett.png)
 
 ## Palette
@@ -33,7 +33,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/2 K12 B12 DB4 R24 B/4 tartan")
+![Tartan detail](tartan.png "B/4 R24 DB4 B12 K12 B/2 tartan")
 
 ## Nearest tartans
 
@@ -45,15 +45,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Henkel (Corporate)](/setts/s6/k3y28k3r22k8w3~x2/) — ΔT 0.76
 1. [Graham of Menteith (Red)](/setts/s6/r36lb3r5k21db24k3~x2/) — ΔT 0.87
 1. [Thompson/Thomson/MacTavish #2](/setts/s6/t2r12k2t6k6t1~x2/) — ΔT 0.95
-1. [United Distillers](/setts/s6/ly2o14k14o1dr14o2~x2/) — ΔT 0.99
+1. [United Distillers](/setts/s6/o2dr14o1k14o14ly2~x2/) — ΔT 0.99
 1. [MacBean/MacElvain](/setts/s7/k2r12db6r3dg12r4db1~x2/) — ΔT 1.03
 1. [Geddes](/setts/s7/dp1r5g15r3dp9r10w1~x4/) — ΔT 1.03
 1. [Thomson, Red (Name)](/setts/s6/t4r28k6t12k12t3~x2/) — ΔT 1.04
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/t2r12db2t6k6t1~x4/"><circle cx="216.8" cy="192.2" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish</title></circle></a><a href="/setts/s6/w6g15db18r30g2r4~x2/"><circle cx="242.1" cy="184.8" r="4" fill="#3465a4"><title>Ruthven (V.S.)</title></circle></a><a href="/setts/s8/db8r8dg17w3r35db10dg15w3~x2/"><circle cx="228.2" cy="185.1" r="4" fill="#3465a4"><title>James of Glencarr (Personal)</title></circle></a><a href="/setts/s6/k3y28k3r22k8w3~x2/"><circle cx="223.1" cy="189.6" r="4" fill="#3465a4"><title>Henkel (Corporate)</title></circle></a><a href="/setts/s6/r36lb3r5k21db24k3~x2/"><circle cx="249.3" cy="194.7" r="4" fill="#3465a4"><title>Graham of Menteith (Red)</title></circle></a><a href="/setts/s6/t2r12k2t6k6t1~x2/"><circle cx="240.2" cy="206.3" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish #2</title></circle></a><a href="/setts/s6/ly2o14k14o1dr14o2~x2/"><circle cx="204.6" cy="193.3" r="4" fill="#3465a4"><title>United Distillers</title></circle></a><a href="/setts/s7/k2r12db6r3dg12r4db1~x2/"><circle cx="260.2" cy="198.2" r="4" fill="#3465a4"><title>MacBean/MacElvain</title></circle></a><a href="/setts/s7/dp1r5g15r3dp9r10w1~x4/"><circle cx="243.7" cy="187.3" r="4" fill="#3465a4"><title>Geddes</title></circle></a><a href="/setts/s6/t4r28k6t12k12t3~x2/"><circle cx="243.4" cy="217.3" r="4" fill="#3465a4"><title>Thomson, Red (Name)</title></circle></a><circle cx="220.8" cy="194.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/t2r12db2t6k6t1~x4/"><circle cx="216.7" cy="192.1" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish</title></circle></a><a href="/setts/s6/w6g15db18r30g2r4~x2/"><circle cx="241.9" cy="184.8" r="4" fill="#3465a4"><title>Ruthven (V.S.)</title></circle></a><a href="/setts/s8/db8r8dg17w3r35db10dg15w3~x2/"><circle cx="228.1" cy="185.1" r="4" fill="#3465a4"><title>James of Glencarr (Personal)</title></circle></a><a href="/setts/s6/k3y28k3r22k8w3~x2/"><circle cx="222.9" cy="189.5" r="4" fill="#3465a4"><title>Henkel (Corporate)</title></circle></a><a href="/setts/s6/r36lb3r5k21db24k3~x2/"><circle cx="249.2" cy="194.7" r="4" fill="#3465a4"><title>Graham of Menteith (Red)</title></circle></a><a href="/setts/s6/t2r12k2t6k6t1~x2/"><circle cx="240.0" cy="206.2" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish #2</title></circle></a><a href="/setts/s6/o2dr14o1k14o14ly2~x2/"><circle cx="204.5" cy="193.2" r="4" fill="#3465a4"><title>United Distillers</title></circle></a><a href="/setts/s7/k2r12db6r3dg12r4db1~x2/"><circle cx="260.0" cy="198.1" r="4" fill="#3465a4"><title>MacBean/MacElvain</title></circle></a><a href="/setts/s7/dp1r5g15r3dp9r10w1~x4/"><circle cx="243.5" cy="187.3" r="4" fill="#3465a4"><title>Geddes</title></circle></a><a href="/setts/s6/t4r28k6t12k12t3~x2/"><circle cx="243.3" cy="217.1" r="4" fill="#3465a4"><title>Thomson, Red (Name)</title></circle></a><circle cx="220.7" cy="194.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/t2r12db2t6k6t1~x2/

@@ -1,5 +1,5 @@
 ---
-title: "MacDougall of MacDougall"
+title: "MacDougall, of MacDougall"
 date: 2023-03-18
 ---
 A family of [Clan MacDougall of Lorn](/clan/macdougall/).

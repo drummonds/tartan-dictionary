@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4332
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Unnamed No 78
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -50,8 +56,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db11dg2db15dg18w2~x2/"><circle cx="365.8" cy="291.6" r="4" fill="#3465a4"><title>Hamilton Hunting</title></circle></a><a href="/setts/s3/g17r2db15~x2/"><circle cx="326.8" cy="313.4" r="4" fill="#3465a4"><title>Ferguson - 1930 (Old)</title></circle></a><a href="/setts/s4/k15dt40k9o10~x2/"><circle cx="319.0" cy="320.9" r="4" fill="#3465a4"><title>Omega Delta Sigma, National Veterans Fraternity</title></circle></a><a href="/setts/s4/db2g7db7w1~x2/"><circle cx="304.2" cy="287.6" r="4" fill="#3465a4"><title>Unnamed No 78</title></circle></a><a href="/setts/s5/db11g2db15g18w2~x2/"><circle cx="328.6" cy="270.4" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><a href="/setts/s3/db6dg5r1~x4/"><circle cx="331.0" cy="344.3" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/setts/s3/db6g5r1~x4/"><circle cx="293.4" cy="323.9" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/setts/s4/dg14r3db9t2~x2/"><circle cx="292.1" cy="284.6" r="4" fill="#3465a4"><title>Unidentified #4</title></circle></a><a href="/setts/s3/db13r2g13~x2/"><circle cx="288.6" cy="320.4" r="4" fill="#3465a4"><title>Wilson's No 62, (Ferguson)</title></circle></a><a href="/setts/s5/t9dt3t1dt12ly1~x4/"><circle cx="398.2" cy="252.1" r="4" fill="#3465a4"><title>North Sea Commission</title></circle></a><circle cx="333.0" cy="304.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db11dg2db15dg18w2~x2/"><circle cx="365.9" cy="291.4" r="4" fill="#3465a4"><title>Hamilton Hunting</title></circle></a><a href="/setts/s3/g17r2db15~x2/"><circle cx="326.9" cy="313.2" r="4" fill="#3465a4"><title>Ferguson - 1930 (Old)</title></circle></a><a href="/setts/s4/k15dt40k9o10~x2/"><circle cx="319.1" cy="320.7" r="4" fill="#3465a4"><title>Omega Delta Sigma, National Veterans Fraternity</title></circle></a><a href="/setts/s4/db2g7db7w1~x2/"><circle cx="304.3" cy="287.4" r="4" fill="#3465a4"><title>Unnamed No 78</title></circle></a><a href="/setts/s5/db11g2db15g18w2~x2/"><circle cx="328.6" cy="270.2" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><a href="/setts/s3/db6dg5r1~x4/"><circle cx="331.1" cy="344.2" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/setts/s3/db6g5r1~x4/"><circle cx="293.4" cy="323.6" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/setts/s4/dg14r3db9t2~x2/"><circle cx="292.1" cy="284.5" r="4" fill="#3465a4"><title>Unidentified #4</title></circle></a><a href="/setts/s3/db13r2g13~x2/"><circle cx="288.7" cy="320.2" r="4" fill="#3465a4"><title>Wilson's No 62, (Ferguson)</title></circle></a><a href="/setts/s5/t9dt3t1dt12ly1~x4/"><circle cx="398.0" cy="251.9" r="4" fill="#3465a4"><title>North Sea Commission</title></circle></a><circle cx="333.1" cy="303.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/db2dg7db7w1~x2/

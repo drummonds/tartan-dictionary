@@ -25,7 +25,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-G/4 P4 G20 K12 DR4 K12 B20 K2 N/4
+N/4 K2 B20 K12 DR4 K12 G20 P4 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -51,17 +51,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Comyn, Cumming](/setts/s9/r4w1r4g10ly1k10t4k2t4~x4/) — ΔT 0.74
 1. [Unnamed 4](/setts/s10/k6g14t2r3t2k16ly2b16g16r3~x2/) — ΔT 0.75
 1. [National](/setts/s9/w2db3r6k8g12ly1db4k2w2~x2/) — ΔT 0.75
-1. [Smith](/setts/s11/ly3k1g12k12db12t3db12k12g12k1r3~x2/) — ΔT 0.79
+1. [Smith](/setts/s11/r3k1g12k12db12t3db12k12g12k1ly3~x2/) — ΔT 0.79
 1. [Firth of Tay](/setts/s10/db2lb2db1lb9k5dg3r2dg5k1ly2~x4/) — ΔT 0.83
 1. [National (1934), The](/setts/s9/w2db3r6k8g12lo1db4k2w2~x2/) — ΔT 0.83
 1. [McCuaig (2010) (Name)](/setts/s9/k10ly3k2b20k10g15k2r3w3~x2/) — ΔT 0.90
 1. [Farquharson Dress](/setts/s13/w6k1w1k1w1k8g8lo2g8k8db8k1r2~x2/) — ΔT 0.91
-1. [Council of Scottish Clans & Ass. (Co](/setts/s7/ly2r2g15k14db16r2w2~x2/) — ΔT 0.93
+1. [Council of Scottish Clans & Ass. (Co](/setts/s7/w2r2db16k14g15r2ly2~x2/) — ΔT 0.93
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r4g16w2k15db15k2db2ly2~x2/"><circle cx="79.2" cy="162.7" r="4" fill="#3465a4"><title>Cowan, of Inveresk</title></circle></a><a href="/setts/s9/r4w1r4g10ly1k10t4k2t4~x4/"><circle cx="64.8" cy="154.5" r="4" fill="#3465a4"><title>Comyn, Cumming</title></circle></a><a href="/setts/s10/k6g14t2r3t2k16ly2b16g16r3~x2/"><circle cx="92.0" cy="157.3" r="4" fill="#3465a4"><title>Unnamed 4</title></circle></a><a href="/setts/s9/w2db3r6k8g12ly1db4k2w2~x2/"><circle cx="65.4" cy="142.7" r="4" fill="#3465a4"><title>National</title></circle></a><a href="/setts/s11/ly3k1g12k12db12t3db12k12g12k1r3~x2/"><circle cx="83.2" cy="159.9" r="4" fill="#3465a4"><title>Smith</title></circle></a><a href="/setts/s10/db2lb2db1lb9k5dg3r2dg5k1ly2~x4/"><circle cx="64.1" cy="148.3" r="4" fill="#3465a4"><title>Firth of Tay</title></circle></a><a href="/setts/s9/w2db3r6k8g12lo1db4k2w2~x2/"><circle cx="74.8" cy="145.7" r="4" fill="#3465a4"><title>National (1934), The</title></circle></a><a href="/setts/s9/k10ly3k2b20k10g15k2r3w3~x2/"><circle cx="115.3" cy="159.4" r="4" fill="#3465a4"><title>McCuaig (2010) (Name)</title></circle></a><a href="/setts/s13/w6k1w1k1w1k8g8lo2g8k8db8k1r2~x2/"><circle cx="70.3" cy="146.2" r="4" fill="#3465a4"><title>Farquharson Dress</title></circle></a><a href="/setts/s7/ly2r2g15k14db16r2w2~x2/"><circle cx="84.6" cy="167.3" r="4" fill="#3465a4"><title>Council of Scottish Clans &amp; Ass. (Co</title></circle></a><circle cx="76.5" cy="158.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r4g16w2k15db15k2db2ly2~x2/"><circle cx="79.4" cy="162.8" r="4" fill="#3465a4"><title>Cowan, of Inveresk</title></circle></a><a href="/setts/s9/r4w1r4g10ly1k10t4k2t4~x4/"><circle cx="65.0" cy="154.5" r="4" fill="#3465a4"><title>Comyn, Cumming</title></circle></a><a href="/setts/s10/k6g14t2r3t2k16ly2b16g16r3~x2/"><circle cx="92.1" cy="157.3" r="4" fill="#3465a4"><title>Unnamed 4</title></circle></a><a href="/setts/s9/w2db3r6k8g12ly1db4k2w2~x2/"><circle cx="65.6" cy="142.8" r="4" fill="#3465a4"><title>National</title></circle></a><a href="/setts/s11/r3k1g12k12db12t3db12k12g12k1ly3~x2/"><circle cx="83.4" cy="160.0" r="4" fill="#3465a4"><title>Smith</title></circle></a><a href="/setts/s10/db2lb2db1lb9k5dg3r2dg5k1ly2~x4/"><circle cx="64.2" cy="148.4" r="4" fill="#3465a4"><title>Firth of Tay</title></circle></a><a href="/setts/s9/w2db3r6k8g12lo1db4k2w2~x2/"><circle cx="74.9" cy="145.8" r="4" fill="#3465a4"><title>National (1934), The</title></circle></a><a href="/setts/s9/k10ly3k2b20k10g15k2r3w3~x2/"><circle cx="115.4" cy="159.5" r="4" fill="#3465a4"><title>McCuaig (2010) (Name)</title></circle></a><a href="/setts/s13/w6k1w1k1w1k8g8lo2g8k8db8k1r2~x2/"><circle cx="70.4" cy="146.3" r="4" fill="#3465a4"><title>Farquharson Dress</title></circle></a><a href="/setts/s7/w2r2db16k14g15r2ly2~x2/"><circle cx="84.7" cy="167.4" r="4" fill="#3465a4"><title>Council of Scottish Clans &amp; Ass. (Co</title></circle></a><circle cx="76.7" cy="158.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/g2dp2g10k6r2k6t10k1lb2~x2/

@@ -2,7 +2,7 @@
 title: "Auld Reekie"
 date: 2023-03-18
 ---
-**Bands:** [BRBRGR](/stripes/brbrgr/) · **Stripes:** [DB R DB R DG R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R DB R DG R</span></span>
+**Bands:** [RGRBRB](/stripes/rgrbrb/) · **Stripes:** [R DG R DB R DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DG R DB R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -913,13 +916,13 @@ The nearest existing variants by ΔTartan distance.
 1. [MacKintosh Plaid](/setts/s6/r16db6r2dg6r2db1~x2/) — ΔT 1.13
 1. [Auld Lang Syne (red) Tartan Tartan Number: 2402. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r4g14r5k6r24g2r4~x2/) — ΔT 1.15
 1. [Lougheed](/setts/s8/lb3r3k4lb2r18k1r2k2~x4/) — ΔT 1.16
-1. [MacKintosh D](/setts/s6/r22db5r2dg11r3db1~x2/) — ΔT 1.16
+1. [MacKintosh D](/setts/s6/r22db5r2dg11r3db1/) — ΔT 1.16
 1. [MacQuarrie 5](/setts/s7/r4g5r2k6r18k2r4~x2/) — ΔT 1.22
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r13lb3r1dg3lb1~x6/"><circle cx="418.7" cy="192.7" r="4" fill="#3465a4"><title>Glen Shiel (Fashion)</title></circle></a><a href="/setts/s6/db4r3db3r22g8r2~x2/"><circle cx="417.7" cy="207.4" r="4" fill="#3465a4"><title>Auld Reekie</title></circle></a><a href="/setts/s5/r4k8r12k1ly1~x2/"><circle cx="385.1" cy="213.2" r="4" fill="#3465a4"><title>MacKeane</title></circle></a><a href="/setts/s5/r41k19r7k9w3~x2/"><circle cx="383.0" cy="202.1" r="4" fill="#3465a4"><title>MacGregor, Black (Personal)</title></circle></a><a href="/setts/s5/r36k18r4k7w2~x2/"><circle cx="399.9" cy="189.7" r="4" fill="#3465a4"><title>Hopkins (Name)</title></circle></a><a href="/setts/s6/r16db6r2dg6r2db1~x2/"><circle cx="403.2" cy="200.1" r="4" fill="#3465a4"><title>MacKintosh Plaid</title></circle></a><a href="/setts/s7/r4g14r5k6r24g2r4~x2/"><circle cx="395.1" cy="206.0" r="4" fill="#3465a4"><title>Auld Lang Syne (red) Tartan Tartan Number: 2402. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/lb3r3k4lb2r18k1r2k2~x4/"><circle cx="423.8" cy="155.9" r="4" fill="#3465a4"><title>Lougheed</title></circle></a><a href="/setts/s6/r22db5r2dg11r3db1~x2/"><circle cx="409.0" cy="177.7" r="4" fill="#3465a4"><title>MacKintosh D</title></circle></a><a href="/setts/s7/r4g5r2k6r18k2r4~x2/"><circle cx="390.4" cy="201.1" r="4" fill="#3465a4"><title>MacQuarrie 5</title></circle></a><circle cx="400.4" cy="202.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r13lb3r1dg3lb1~x6/"><circle cx="418.3" cy="192.4" r="4" fill="#3465a4"><title>Glen Shiel (Fashion)</title></circle></a><a href="/setts/s6/db4r3db3r22g8r2~x2/"><circle cx="417.3" cy="207.2" r="4" fill="#3465a4"><title>Auld Reekie</title></circle></a><a href="/setts/s5/r4k8r12k1ly1~x2/"><circle cx="384.8" cy="212.9" r="4" fill="#3465a4"><title>MacKeane</title></circle></a><a href="/setts/s5/r41k19r7k9w3~x2/"><circle cx="382.7" cy="201.8" r="4" fill="#3465a4"><title>MacGregor, Black (Personal)</title></circle></a><a href="/setts/s5/r36k18r4k7w2~x2/"><circle cx="399.6" cy="189.5" r="4" fill="#3465a4"><title>Hopkins (Name)</title></circle></a><a href="/setts/s6/r16db6r2dg6r2db1~x2/"><circle cx="402.9" cy="199.9" r="4" fill="#3465a4"><title>MacKintosh Plaid</title></circle></a><a href="/setts/s7/r4g14r5k6r24g2r4~x2/"><circle cx="394.7" cy="205.8" r="4" fill="#3465a4"><title>Auld Lang Syne (red) Tartan Tartan Number: 2402. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/lb3r3k4lb2r18k1r2k2~x4/"><circle cx="423.4" cy="155.6" r="4" fill="#3465a4"><title>Lougheed</title></circle></a><a href="/setts/s6/r22db5r2dg11r3db1/"><circle cx="408.7" cy="177.4" r="4" fill="#3465a4"><title>MacKintosh D</title></circle></a><a href="/setts/s7/r4g5r2k6r18k2r4~x2/"><circle cx="390.1" cy="200.8" r="4" fill="#3465a4"><title>MacQuarrie 5</title></circle></a><circle cx="400.1" cy="201.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db4r3db3r22dg8r2~x2/

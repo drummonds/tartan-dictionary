@@ -20,7 +20,7 @@ BYKBKRKR
 
 
 
-### DO LR K DO K O K O <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DO LR K DO K O K O</span></span>
+### O K O K DO K LR DO <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#412714"></span><span class="seq">O K O K DO K LR DO</span></span>
 
 | Tartans |
 |---------------|

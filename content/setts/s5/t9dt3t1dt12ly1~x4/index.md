@@ -2,7 +2,7 @@
 title: "North Sea Commission"
 date: 2023-03-18
 ---
-**Bands:** [BBBBY](/stripes/bbbby/) · **Stripes:** [T DT T DT LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">T DT T DT LY</span></span>
+**Bands:** [YBBBB](/stripes/ybbbb/) · **Stripes:** [LY DT T DT T](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY DT T DT T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
@@ -44,21 +44,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Hector James](/setts/s5/o2g11db27g5r2~x2/) — ΔT 1.18
+1. [Hector James](/setts/s5/r2g5db27g11o2~x2/) — ΔT 1.18
 1. [Hamilton Hunting](/setts/s5/db11dg2db15dg18w2~x2/) — ΔT 1.26
-1. [Barclay](/setts/s4/g1db16g16r1~x2/) — ΔT 1.27
-1. [Barclay Htg (Clan)](/setts/s4/g1db16g16r1~x4/) — ΔT 1.27
+1. [Barclay](/setts/s4/r1g16db16g1~x2/) — ΔT 1.27
+1. [Barclay Htg (Clan)](/setts/s4/r1g16db16g1~x4/) — ΔT 1.27
 1. [Cameron Hunting](/setts/s6/do15r5do30b32do4lo3~x2/) — ΔT 1.33
 1. [City of Kincardine](/setts/s6/g4db36lg6g16db16g3~x2/) — ΔT 1.34
-1. [Gallaecia - Galicia National](/setts/s5/db24n13db4n4w2~x2/) — ΔT 1.39
 1. [Thorburn (Lochcarron)](/setts/s6/dt3t14dt3o16dt34r3~x2/) — ΔT 1.39
-1. [Perthshire (New) District Tartan Tartan Number: 2188. Earliest known date: 1992 The New Perthshire District tartan has established itself through use and wont since 1992. It provides a useful alternative to the Drummond pattern which was always closely associated with Perthshire. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/db26r6g16db8g3r2~x2/) — ΔT 1.43
-1. [Gyle](/setts/s4/r2dg1t8dg1~x20/) — ΔT 1.46
+1. [Gallaecia - Galicia National](/setts/s5/db24n13db4n4w2~x2/) — ΔT 1.39
+1. [Perthshire (New) District Tartan Tartan Number: 2188. Earliest known date: 1992 The New Perthshire District tartan has established itself through use and wont since 1992. It provides a useful alternative to the Drummond pattern which was always closely associated with Perthshire. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/db26r6g16db8g3r2~x2/) — ΔT 1.44
+1. [Gyle](/setts/s4/t8dg1r2~x20/) — ΔT 1.46
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/o2g11db27g5r2~x2/"><circle cx="379.2" cy="224.0" r="4" fill="#3465a4"><title>Hector James</title></circle></a><a href="/setts/s5/db11dg2db15dg18w2~x2/"><circle cx="365.8" cy="291.6" r="4" fill="#3465a4"><title>Hamilton Hunting</title></circle></a><a href="/setts/s4/g1db16g16r1~x2/"><circle cx="385.6" cy="256.3" r="4" fill="#3465a4"><title>Barclay</title></circle></a><a href="/setts/s4/g1db16g16r1~x4/"><circle cx="385.6" cy="256.3" r="4" fill="#3465a4"><title>Barclay Htg (Clan)</title></circle></a><a href="/setts/s6/do15r5do30b32do4lo3~x2/"><circle cx="349.1" cy="234.4" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/setts/s6/g4db36lg6g16db16g3~x2/"><circle cx="410.7" cy="249.7" r="4" fill="#3465a4"><title>City of Kincardine</title></circle></a><a href="/setts/s5/db24n13db4n4w2~x2/"><circle cx="397.4" cy="254.2" r="4" fill="#3465a4"><title>Gallaecia - Galicia National</title></circle></a><a href="/setts/s6/dt3t14dt3o16dt34r3~x2/"><circle cx="333.0" cy="225.4" r="4" fill="#3465a4"><title>Thorburn (Lochcarron)</title></circle></a><a href="/setts/s6/db26r6g16db8g3r2~x2/"><circle cx="353.1" cy="236.8" r="4" fill="#3465a4"><title>Perthshire (New) District Tartan Tartan Number: 2188. Earliest known date: 1992 The New Perthshire District tartan has established itself through use and wont since 1992. It provides a useful alternative to the Drummond pattern which was always closely associated with Perthshire. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/r2dg1t8dg1~x20/"><circle cx="406.2" cy="255.5" r="4" fill="#3465a4"><title>Gyle</title></circle></a><circle cx="398.2" cy="252.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r2g5db27g11o2~x2/"><circle cx="379.1" cy="223.9" r="4" fill="#3465a4"><title>Hector James</title></circle></a><a href="/setts/s5/db11dg2db15dg18w2~x2/"><circle cx="365.9" cy="291.4" r="4" fill="#3465a4"><title>Hamilton Hunting</title></circle></a><a href="/setts/s4/r1g16db16g1~x2/"><circle cx="385.6" cy="256.1" r="4" fill="#3465a4"><title>Barclay</title></circle></a><a href="/setts/s4/r1g16db16g1~x4/"><circle cx="385.6" cy="256.1" r="4" fill="#3465a4"><title>Barclay Htg (Clan)</title></circle></a><a href="/setts/s6/do15r5do30b32do4lo3~x2/"><circle cx="349.0" cy="234.3" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/setts/s6/g4db36lg6g16db16g3~x2/"><circle cx="410.7" cy="249.5" r="4" fill="#3465a4"><title>City of Kincardine</title></circle></a><a href="/setts/s6/dt3t14dt3o16dt34r3~x2/"><circle cx="333.0" cy="225.4" r="4" fill="#3465a4"><title>Thorburn (Lochcarron)</title></circle></a><a href="/setts/s5/db24n13db4n4w2~x2/"><circle cx="397.4" cy="254.0" r="4" fill="#3465a4"><title>Gallaecia - Galicia National</title></circle></a><a href="/setts/s6/db26r6g16db8g3r2~x2/"><circle cx="353.1" cy="236.6" r="4" fill="#3465a4"><title>Perthshire (New) District Tartan Tartan Number: 2188. Earliest known date: 1992 The New Perthshire District tartan has established itself through use and wont since 1992. It provides a useful alternative to the Drummond pattern which was always closely associated with Perthshire. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/t8dg1r2~x20/"><circle cx="406.1" cy="255.2" r="4" fill="#3465a4"><title>Gyle</title></circle></a><circle cx="398.0" cy="251.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/t9dt3t1dt12ly1~x4/

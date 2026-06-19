@@ -8,5 +8,5 @@ A family of [Clan Payne](/clan/payne/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s10/w2k2dp8k10dp8k64w2k8ly1k1/"><img src="/setts/s10/w2k2dp8k10dp8k64w2k8ly1k1/sett.png" alt="Payne of Wallins Creek (Personal)" width="240"><br>Payne of Wallins Creek (Personal)</a>
+<a class="tartan" href="/setts/s10/w2k2dp8k10dp8k64w2k8ly1k1~x2/"><img src="/setts/s10/w2k2dp8k10dp8k64w2k8ly1k1~x2/sett.png" alt="Payne of Wallins Creek (Personal)" width="240"><br>Payne of Wallins Creek (Personal)</a>
 

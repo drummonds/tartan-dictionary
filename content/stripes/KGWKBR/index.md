@@ -34,6 +34,6 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Leslie Hunting](/setts/s6/r2db8k8lb1dg8k1~x2/)|
-|![Leslie Hunting example sett](/setts/s6/r2db8k8lb1dg8k1~x2/sett.png)|
+| [Leslie Hunting](/setts/s6/r2db8k8lb1dg8k1/)|
+|![Leslie Hunting example sett](/setts/s6/r2db8k8lb1dg8k1/sett.png)|
 

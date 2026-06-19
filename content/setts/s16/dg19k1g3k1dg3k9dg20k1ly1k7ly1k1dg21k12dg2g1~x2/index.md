@@ -2,7 +2,7 @@
 title: "Hope Vere / Weir"
 date: 2023-03-18
 ---
-**Bands:** [GGKGKYKYKGKGKGKG](/stripes/ggkgkykykgkgkgkg/) · **Stripes:** [G DG K DG K LY K LY K DG K DG K G K DG](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">G DG K DG K LY K LY K DG K DG K G K DG</span></span>
+**Bands:** [GKGKGKGKYKYKGKGG](/stripes/gkgkgkgkykykgkgg/) · **Stripes:** [DG K G K DG K DG K LY K LY K DG K DG G](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DG K G K DG K DG K LY K LY K DG K DG G</span></span>
 
 
 This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -915,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k2g4k6lr2k31ly2k1ly2k16g20ly1lr2~x2/"><circle cx="407.0" cy="132.3" r="4" fill="#3465a4"><title>Entier</title></circle></a><a href="/setts/s11/dg42k10lr2k2r2k2dg10r6k2r3dg2~x2/"><circle cx="416.3" cy="138.2" r="4" fill="#3465a4"><title>Dryfe</title></circle></a><a href="/setts/s14/k8w3k8g4k4g32k4g32k4g4k8w3k8t4~x2/"><circle cx="315.6" cy="170.8" r="4" fill="#3465a4"><title>Hartmann (Personal)</title></circle></a><a href="/setts/s14/g11db1k1g2k12ly1k12g2k2g11k2g2k12ly1~x4/"><circle cx="294.1" cy="167.3" r="4" fill="#3465a4"><title>Hopetoun, Rejected design</title></circle></a><a href="/setts/s17/db2dg2ly1dg3r1dg2r1dg13db4k3db3k3db3k3db4dg23r2~x2/"><circle cx="335.5" cy="114.6" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/setts/s16/g18k6g1k1db1k6db1k2db1k6db1k1g1k6g21ly1~x2/"><circle cx="369.7" cy="139.9" r="4" fill="#3465a4"><title>Grand Lodge of Scotland</title></circle></a><a href="/setts/s12/r4k2g7k15g3k3g3k7g28k7g6k2/"><circle cx="274.1" cy="164.1" r="4" fill="#3465a4"><title>Walker, hunting</title></circle></a><a href="/setts/s11/g17t2g2t2k21t2k3g30k2t2k4~x2/"><circle cx="288.3" cy="147.5" r="4" fill="#3465a4"><title>Fort William</title></circle></a><a href="/setts/s14/dg2w4dg2w1dg1w1dg3k2dg2k2dg12r1dg2r1~x2/"><circle cx="332.8" cy="150.7" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><a href="/setts/s10/k3dg32k2dg4ly4dg2ly4dg4k6w3~x2/"><circle cx="377.9" cy="145.6" r="4" fill="#3465a4"><title>University of Alberta (Corporate)</title></circle></a><circle cx="366.0" cy="136.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k2g4k6lr2k31ly2k1ly2k16g20ly1lr2~x2/"><circle cx="406.8" cy="132.1" r="4" fill="#3465a4"><title>Entier</title></circle></a><a href="/setts/s11/dg42k10lr2k2r2k2dg10r6k2r3dg2~x2/"><circle cx="416.1" cy="138.0" r="4" fill="#3465a4"><title>Dryfe</title></circle></a><a href="/setts/s14/k8w3k8g4k4g32k4g32k4g4k8w3k8t4~x2/"><circle cx="315.5" cy="170.7" r="4" fill="#3465a4"><title>Hartmann (Personal)</title></circle></a><a href="/setts/s14/g11db1k1g2k12ly1k12g2k2g11k2g2k12ly1~x4/"><circle cx="294.2" cy="167.1" r="4" fill="#3465a4"><title>Hopetoun, Rejected design</title></circle></a><a href="/setts/s17/db2dg2ly1dg3r1dg2r1dg13db4k3db3k3db3k3db4dg23r2~x2/"><circle cx="335.4" cy="114.6" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/setts/s16/g18k6g1k1db1k6db1k2db1k6db1k1g1k6g21ly1~x2/"><circle cx="369.5" cy="139.9" r="4" fill="#3465a4"><title>Grand Lodge of Scotland</title></circle></a><a href="/setts/s12/r4k2g7k15g3k3g3k7g28k7g6k2/"><circle cx="274.1" cy="164.0" r="4" fill="#3465a4"><title>Walker, hunting</title></circle></a><a href="/setts/s11/g17t2g2t2k21t2k3g30k2t2k4~x2/"><circle cx="288.2" cy="147.3" r="4" fill="#3465a4"><title>Fort William</title></circle></a><a href="/setts/s14/dg2w4dg2w1dg1w1dg3k2dg2k2dg12r1dg2r1~x2/"><circle cx="332.5" cy="150.4" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><a href="/setts/s10/k3dg32k2dg4ly4dg2ly4dg4k6w3~x2/"><circle cx="377.7" cy="145.4" r="4" fill="#3465a4"><title>University of Alberta (Corporate)</title></circle></a><circle cx="365.9" cy="136.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/dg19k1g3k1dg3k9dg20k1ly1k7ly1k1dg21k12dg2g1~x2/

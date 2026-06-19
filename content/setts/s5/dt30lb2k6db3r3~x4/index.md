@@ -2,7 +2,7 @@
 title: "Edinburgh Crystal"
 date: 2023-03-18
 ---
-**Bands:** [BWKBR](/stripes/bwkbr/) · **Stripes:** [DT LB K DB R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DT LB K DB R</span></span>
+**Bands:** [RBKWB](/stripes/rbkwb/) · **Stripes:** [R DB K LB DT](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="seq">R DB K LB DT</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
@@ -42,7 +42,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Edinburgh Crystal (Corporate)](/setts/s5/dt30w2k6db3r3~x4/) — ΔT 0.49
 1. [Barrance, Paul and Kelly (Personal)](/setts/s7/dp3dt42k2dg17dt9dp3w2~x2/) — ΔT 1.26
-1. [Silver Thistle (Fashion)](/setts/s7/g4db3k6db20k46o2k4~x2/) — ΔT 1.42
+1. [Silver Thistle (Fashion)](/setts/s7/k4o2k46db20k6db3g4~x2/) — ΔT 1.42
 1. [Meaux (Personal)](/setts/s4/dt62r24lo5dg3~x2/) — ΔT 1.47
 1. [Open Championship, The](/setts/s5/dg1db2db5db11ly1~x4/) — ΔT 1.48
 1. [Osborne, Luke Alexander (Personal)](/setts/s4/db31k8dp4w2~x4/) — ΔT 1.52
@@ -53,8 +53,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/dt30w2k6db3r3~x4/"><circle cx="430.1" cy="193.0" r="4" fill="#3465a4"><title>Edinburgh Crystal (Corporate)</title></circle></a><a href="/setts/s7/dp3dt42k2dg17dt9dp3w2~x2/"><circle cx="450.7" cy="186.0" r="4" fill="#3465a4"><title>Barrance, Paul and Kelly (Personal)</title></circle></a><a href="/setts/s7/g4db3k6db20k46o2k4~x2/"><circle cx="474.9" cy="187.4" r="4" fill="#3465a4"><title>Silver Thistle (Fashion)</title></circle></a><a href="/setts/s4/dt62r24lo5dg3~x2/"><circle cx="471.7" cy="226.2" r="4" fill="#3465a4"><title>Meaux (Personal)</title></circle></a><a href="/setts/s5/dg1db2db5db11ly1~x4/"><circle cx="424.3" cy="248.9" r="4" fill="#3465a4"><title>Open Championship, The</title></circle></a><a href="/setts/s4/db31k8dp4w2~x4/"><circle cx="473.7" cy="245.4" r="4" fill="#3465a4"><title>Osborne, Luke Alexander (Personal)</title></circle></a><a href="/setts/s4/k62o24lo5dg3~x2/"><circle cx="450.0" cy="215.5" r="4" fill="#3465a4"><title>Meaux, Luc G (Personal)</title></circle></a><a href="/setts/s6/db47dg14dp5do2r3dg7~x2/"><circle cx="442.4" cy="192.0" r="4" fill="#3465a4"><title>Round Table (1997)</title></circle></a><a href="/setts/s6/k8r2k13lo2dg48b6~x2/"><circle cx="408.4" cy="175.3" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/setts/s7/k4r1k4r1dg14n1dg1~x4/"><circle cx="393.3" cy="207.3" r="4" fill="#3465a4"><title>Pinehurst Resort</title></circle></a><circle cx="444.2" cy="200.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/dt30w2k6db3r3~x4/"><circle cx="430.0" cy="192.9" r="4" fill="#3465a4"><title>Edinburgh Crystal (Corporate)</title></circle></a><a href="/setts/s7/dp3dt42k2dg17dt9dp3w2~x2/"><circle cx="450.6" cy="186.0" r="4" fill="#3465a4"><title>Barrance, Paul and Kelly (Personal)</title></circle></a><a href="/setts/s7/k4o2k46db20k6db3g4~x2/"><circle cx="474.9" cy="187.4" r="4" fill="#3465a4"><title>Silver Thistle (Fashion)</title></circle></a><a href="/setts/s4/dt62r24lo5dg3~x2/"><circle cx="471.6" cy="226.0" r="4" fill="#3465a4"><title>Meaux (Personal)</title></circle></a><a href="/setts/s5/dg1db2db5db11ly1~x4/"><circle cx="424.4" cy="248.8" r="4" fill="#3465a4"><title>Open Championship, The</title></circle></a><a href="/setts/s4/db31k8dp4w2~x4/"><circle cx="473.7" cy="245.3" r="4" fill="#3465a4"><title>Osborne, Luke Alexander (Personal)</title></circle></a><a href="/setts/s4/k62o24lo5dg3~x2/"><circle cx="450.0" cy="215.3" r="4" fill="#3465a4"><title>Meaux, Luc G (Personal)</title></circle></a><a href="/setts/s6/db47dg14dp5do2r3dg7~x2/"><circle cx="442.3" cy="192.0" r="4" fill="#3465a4"><title>Round Table (1997)</title></circle></a><a href="/setts/s6/k8r2k13lo2dg48b6~x2/"><circle cx="408.3" cy="175.3" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/setts/s7/k4r1k4r1dg14n1dg1~x4/"><circle cx="393.3" cy="207.2" r="4" fill="#3465a4"><title>Pinehurst Resort</title></circle></a><circle cx="444.1" cy="200.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/dt30lb2k6db3r3~x4/

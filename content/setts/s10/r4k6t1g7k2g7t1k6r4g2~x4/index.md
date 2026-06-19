@@ -2,7 +2,7 @@
 title: "Walker James"
 date: 2023-03-18
 ---
-**Bands:** [GRKBGKGBKR](/stripes/grkbgkgbkr/) · **Stripes:** [G R K T G K G T K R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">G R K T G K G T K R</span></span>
+**Bands:** [RKBGKGBKRG](/stripes/rkbgkgbkrg/) · **Stripes:** [R K T G K G T K R G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K T G K G T K R G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
@@ -18,7 +18,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 999
 
 ## Thread count
-G/8 R16 K24 B4 G28 K8 G28 B4 K24 R/16
+R/16 K24 B4 G28 K8 G28 B4 K24 R16 G/8
 ![Sett](sett.png)
 
 ## Palette
@@ -41,15 +41,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Wilson's No.064 #2](/setts/s12/dp12k13g12lb2g12k13g12lb2g12k13dp12k2~x2/) — ΔT 1.14
 1. [Londonderry, County](/setts/s7/o6k2dg12lo8o5k2dg3~x4/) — ΔT 1.19
 1. [Martin](/setts/s9/lo4g10k3g3k3g3k9dr11k3~x4/) — ΔT 1.22
-1. [Wilson's No.194](/setts/s10/dp3w1k3g5r1k3r1g5k3w1~x2/) — ΔT 1.23
+1. [Wilson's No.194](/setts/s10/k3r1g5k3w1dp3~x2/) — ΔT 1.23
 1. [MacLaggan](/setts/s7/k13g12w2g12k13dp12k2~x2/) — ΔT 1.24
 1. [Stewart/Stuart C18th - Cf 1314 & 4454](/setts/s12/g4db9r9g9k2r2k2g9r9db8g4r2~x4/) — ΔT 1.26
 1. [Grant of Monymusk](/setts/s13/r12g16r3g16r3g16r4db16r5k9r12g3r12~x2/) — ΔT 1.27
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r3k6r3k6dg6k1w1k1dg6r1~x2/"><circle cx="180.3" cy="223.9" r="4" fill="#3465a4"><title>MacDiarmid #3</title></circle></a><a href="/setts/s12/dp12k13dg12ly2dg12k13dg12ly2dg12k13dp12k2~x2/"><circle cx="168.9" cy="247.6" r="4" fill="#3465a4"><title>Wilson's No.064</title></circle></a><a href="/setts/s10/dg12k14y11r3y3r3y11k14dg12y3~x2/"><circle cx="113.6" cy="248.2" r="4" fill="#3465a4"><title>Wilson's No.112 (Light Blue)</title></circle></a><a href="/setts/s12/dp12k13g12lb2g12k13g12lb2g12k13dp12k2~x2/"><circle cx="168.5" cy="252.3" r="4" fill="#3465a4"><title>Wilson's No.064 #2</title></circle></a><a href="/setts/s7/o6k2dg12lo8o5k2dg3~x4/"><circle cx="170.4" cy="240.6" r="4" fill="#3465a4"><title>Londonderry, County</title></circle></a><a href="/setts/s9/lo4g10k3g3k3g3k9dr11k3~x4/"><circle cx="143.5" cy="263.4" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/setts/s10/dp3w1k3g5r1k3r1g5k3w1~x2/"><circle cx="108.9" cy="220.5" r="4" fill="#3465a4"><title>Wilson's No.194</title></circle></a><a href="/setts/s7/k13g12w2g12k13dp12k2~x2/"><circle cx="185.3" cy="266.3" r="4" fill="#3465a4"><title>MacLaggan</title></circle></a><a href="/setts/s12/g4db9r9g9k2r2k2g9r9db8g4r2~x4/"><circle cx="145.0" cy="238.7" r="4" fill="#3465a4"><title>Stewart/Stuart C18th - Cf 1314 &amp; 4454</title></circle></a><a href="/setts/s13/r12g16r3g16r3g16r4db16r5k9r12g3r12~x2/"><circle cx="153.2" cy="220.4" r="4" fill="#3465a4"><title>Grant of Monymusk</title></circle></a><circle cx="171.3" cy="231.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r3k6r3k6dg6k1w1k1dg6r1~x2/"><circle cx="180.4" cy="223.9" r="4" fill="#3465a4"><title>MacDiarmid #3</title></circle></a><a href="/setts/s12/dp12k13dg12ly2dg12k13dg12ly2dg12k13dp12k2~x2/"><circle cx="169.1" cy="247.6" r="4" fill="#3465a4"><title>Wilson's No.064</title></circle></a><a href="/setts/s10/dg12k14y11r3y3r3y11k14dg12y3~x2/"><circle cx="113.7" cy="248.3" r="4" fill="#3465a4"><title>Wilson's No.112 (Light Blue)</title></circle></a><a href="/setts/s12/dp12k13g12lb2g12k13g12lb2g12k13dp12k2~x2/"><circle cx="168.7" cy="252.4" r="4" fill="#3465a4"><title>Wilson's No.064 #2</title></circle></a><a href="/setts/s7/o6k2dg12lo8o5k2dg3~x4/"><circle cx="170.3" cy="240.6" r="4" fill="#3465a4"><title>Londonderry, County</title></circle></a><a href="/setts/s9/lo4g10k3g3k3g3k9dr11k3~x4/"><circle cx="143.7" cy="263.4" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/setts/s10/k3r1g5k3w1dp3~x2/"><circle cx="109.1" cy="220.6" r="4" fill="#3465a4"><title>Wilson's No.194</title></circle></a><a href="/setts/s7/k13g12w2g12k13dp12k2~x2/"><circle cx="185.5" cy="266.3" r="4" fill="#3465a4"><title>MacLaggan</title></circle></a><a href="/setts/s12/g4db9r9g9k2r2k2g9r9db8g4r2~x4/"><circle cx="145.0" cy="238.7" r="4" fill="#3465a4"><title>Stewart/Stuart C18th - Cf 1314 &amp; 4454</title></circle></a><a href="/setts/s13/r12g16r3g16r3g16r4db16r5k9r12g3r12~x2/"><circle cx="153.1" cy="220.4" r="4" fill="#3465a4"><title>Grant of Monymusk</title></circle></a><circle cx="171.3" cy="231.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r4k6t1g7k2g7t1k6r4g2~x4/

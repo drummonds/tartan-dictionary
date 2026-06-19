@@ -2,7 +2,7 @@
 title: "Grant of Ballindalloch"
 date: 2023-03-18
 ---
-**Bands:** [RKRGRGRKRBRKRKR](/stripes/rkrgrgrkrbrkrkr/) · **Stripes:** [R K R G R G R K R B R K R K R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R G R G R K R B R K R K R</span></span>
+**Bands:** [RKRKRBRKRGRGRKR](/stripes/rkrkrbrkrgrgrkr/) · **Stripes:** [R K R K R B R K R G R G R K R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K R B R K R G R G R K R</span></span>
 
 
 This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-R/10 DB6 R6 DB10 R24 B10 R6 DB20 R6 G6 R6 G32 R6 DB10 R/10
+R/10 DB10 R6 G32 R6 G6 R6 DB20 R6 B10 R24 DB10 R6 DB6 R/10
 ![Sett](sett.png)
 
 ## Palette
@@ -902,9 +905,9 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Matheson N](/setts/s13/r2dg2r12db10lb3dg10r2dg2r2dg10r12dg2r2/) — ΔT 0.83
-1. [Sydney (Nova Scotia)](/setts/s14/o6k2w1k2o3r6o1r6o1r6o3k2w1k2~x4/) — ΔT 1.02
-1. [MacQuarrie SM](/setts/s12/lb1r1db1r6dg6r1dg6r1db3r6lb1r1~x2/) — ΔT 1.05
+1. [Matheson N](/setts/s13/r2dg2r12dg10r2dg2r2dg10lb3db10r12dg2r2/) — ΔT 0.83
+1. [Sydney (Nova Scotia)](/setts/s14/r6o1r6o3k2w1k2o6~x4/) — ΔT 1.02
+1. [MacQuarrie SM](/setts/s12/r1lb1r6db3r1dg6r1dg6r6db1r1lb1~x2/) — ΔT 1.05
 1. [MacRae (Sample)](/setts/s12/dg21r5dg21r21dg5r4dg5r21w4r5db21r4/) — ΔT 1.12
 1. [Reid of Straloch (Personal)](/setts/s17/r1g1r6db2r1g1w1g6r2db6w1db1r1g2r6g1r1~x6/) — ΔT 1.16
 1. [Grant of Ballindalloch Clan Tartan Tartan Number: 2149. Earliest known date: 1993 Grant of Ballindalloch tartan was designed during the refurbishment of Ballindalloch Castle. It is based on the Grant tartan recorded by Logan in 1831. The first samples produced by Johnstons of Elgin were woven in 'Antique' colours. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/r5dt5r3g16r3g3r3dt10r3t5r12dt5r3dt3r5~x2/) — ΔT 1.24
@@ -915,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r2dg2r12db10lb3dg10r2dg2r2dg10r12dg2r2/"><circle cx="207.3" cy="190.5" r="4" fill="#3465a4"><title>Matheson N</title></circle></a><a href="/setts/s14/o6k2w1k2o3r6o1r6o1r6o3k2w1k2~x4/"><circle cx="158.2" cy="179.7" r="4" fill="#3465a4"><title>Sydney (Nova Scotia)</title></circle></a><a href="/setts/s12/lb1r1db1r6dg6r1dg6r1db3r6lb1r1~x2/"><circle cx="218.6" cy="188.9" r="4" fill="#3465a4"><title>MacQuarrie SM</title></circle></a><a href="/setts/s12/dg21r5dg21r21dg5r4dg5r21w4r5db21r4/"><circle cx="202.9" cy="206.9" r="4" fill="#3465a4"><title>MacRae (Sample)</title></circle></a><a href="/setts/s17/r1g1r6db2r1g1w1g6r2db6w1db1r1g2r6g1r1~x6/"><circle cx="203.9" cy="170.1" r="4" fill="#3465a4"><title>Reid of Straloch (Personal)</title></circle></a><a href="/setts/s15/r5dt5r3g16r3g3r3dt10r3t5r12dt5r3dt3r5~x2/"><circle cx="193.9" cy="207.8" r="4" fill="#3465a4"><title>Grant of Ballindalloch Clan Tartan Tartan Number: 2149. Earliest known date: 1993 Grant of Ballindalloch tartan was designed during the refurbishment of Ballindalloch Castle. It is based on the Grant tartan recorded by Logan in 1831. The first samples produced by Johnstons of Elgin were woven in 'Antique' colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/lb2r12k4r2k2r2k6g5lb2~x2/"><circle cx="197.0" cy="211.5" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><a href="/setts/s12/r9dg4r6db4dg2k2dg2r5db3ly2k2ly2~x2/"><circle cx="144.5" cy="211.1" r="4" fill="#3465a4"><title>Westgaard Htg (Personal)</title></circle></a><a href="/setts/s13/k2db3o5k1o2k1o5r3k2r3db6k1db1~x4/"><circle cx="121.7" cy="206.5" r="4" fill="#3465a4"><title>Franklin (District)</title></circle></a><a href="/setts/s13/k28r4k4r4k4r27dg26r4dg26r27k28r4k4/"><circle cx="188.1" cy="199.9" r="4" fill="#3465a4"><title>42nd Regiment (Musicians) (Mil.)</title></circle></a><circle cx="162.6" cy="192.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r2dg2r12dg10r2dg2r2dg10lb3db10r12dg2r2/"><circle cx="207.2" cy="190.5" r="4" fill="#3465a4"><title>Matheson N</title></circle></a><a href="/setts/s14/r6o1r6o3k2w1k2o6~x4/"><circle cx="158.0" cy="179.6" r="4" fill="#3465a4"><title>Sydney (Nova Scotia)</title></circle></a><a href="/setts/s12/r1lb1r6db3r1dg6r1dg6r6db1r1lb1~x2/"><circle cx="218.5" cy="188.8" r="4" fill="#3465a4"><title>MacQuarrie SM</title></circle></a><a href="/setts/s12/dg21r5dg21r21dg5r4dg5r21w4r5db21r4/"><circle cx="202.7" cy="206.8" r="4" fill="#3465a4"><title>MacRae (Sample)</title></circle></a><a href="/setts/s17/r1g1r6db2r1g1w1g6r2db6w1db1r1g2r6g1r1~x6/"><circle cx="203.7" cy="170.1" r="4" fill="#3465a4"><title>Reid of Straloch (Personal)</title></circle></a><a href="/setts/s15/r5dt5r3g16r3g3r3dt10r3t5r12dt5r3dt3r5~x2/"><circle cx="193.8" cy="207.8" r="4" fill="#3465a4"><title>Grant of Ballindalloch Clan Tartan Tartan Number: 2149. Earliest known date: 1993 Grant of Ballindalloch tartan was designed during the refurbishment of Ballindalloch Castle. It is based on the Grant tartan recorded by Logan in 1831. The first samples produced by Johnstons of Elgin were woven in 'Antique' colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/lb2r12k4r2k2r2k6g5lb2~x2/"><circle cx="197.0" cy="211.5" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><a href="/setts/s12/r9dg4r6db4dg2k2dg2r5db3ly2k2ly2~x2/"><circle cx="144.5" cy="211.2" r="4" fill="#3465a4"><title>Westgaard Htg (Personal)</title></circle></a><a href="/setts/s13/k2db3o5k1o2k1o5r3k2r3db6k1db1~x4/"><circle cx="121.7" cy="206.6" r="4" fill="#3465a4"><title>Franklin (District)</title></circle></a><a href="/setts/s13/k28r4k4r4k4r27dg26r4dg26r27k28r4k4/"><circle cx="188.1" cy="199.8" r="4" fill="#3465a4"><title>42nd Regiment (Musicians) (Mil.)</title></circle></a><circle cx="162.5" cy="192.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/r5k5r3g16r3g3r3k10r3b5r12k5r3k3r5~x2/

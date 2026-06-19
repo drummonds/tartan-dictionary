@@ -27,8 +27,8 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 |---------------|
 | [Erskine (Black and White)](/setts/s6/k2w1k9w9k1w2~x6/)|
 |![Erskine (Black and White) example sett](/setts/s6/k2w1k9w9k1w2~x6/sett.png)|
-| [Wallace Dress](/setts/s6/k7w6k1w6k1w6~x4/)|
-|![Wallace Dress example sett](/setts/s6/k7w6k1w6k1w6~x4/sett.png)|
+| [Wallace Dress](/setts/s6/k7w6k1w6~x4/)|
+|![Wallace Dress example sett](/setts/s6/k7w6k1w6~x4/sett.png)|
 | [Erskine BW MINI Design Tartan Tartan Number: 12466. Earliest known date: Generated for display purposes. Reduced copy of the original 1246 Erskine BW. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/k2w1k9w9k1w2~x3/)|
 |![Erskine BW MINI Design Tartan Tartan Number: 12466. Earliest known date: Generated for display purposes. Reduced copy of the original 1246 Erskine BW. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/k2w1k9w9k1w2~x3/sett.png)|
 

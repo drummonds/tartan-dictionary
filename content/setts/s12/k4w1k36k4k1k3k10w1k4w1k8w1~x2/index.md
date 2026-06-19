@@ -10,7 +10,7 @@ This was sourced from house-of-tartan.  It is a [12 band tartan](/bands/bands12/
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10999
 
 ## Thread count
-LN/2 K16 LN2 RB8 LN2 K20 RB6 K2 RB8 SCR72 LN2 R/8
+R/8 LN2 SCR72 RB8 K2 RB6 K20 LN2 RB8 LN2 K16 LN/2
 ![Sett](sett.png)
 
 ## Palette
@@ -32,14 +32,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Newlands, Charlie (Personal)](/setts/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/) — ΔT 3.65
 1. [Longmuir (2014)](/setts/s6/k43dg8k8dt21dg10w2~x2/) — ΔT 3.71
 1. [Cornish Countryside](/setts/s6/do19lo3w1k18dg30r2~x2/) — ΔT 3.71
-1. [Finnie (Personal)](/setts/s8/db4y4db37k20y1dp5y1k4~x2/) — ΔT 3.72
+1. [Finnie (Personal)](/setts/s8/k4y1dp5y1k20db37y4db4~x2/) — ΔT 3.72
 1. [Psychological Operations Regiment](/setts/s17/dt5lb2dt12k21dg12k4dg4k4r4k4dg4k4dg12k21dt12lb2dt4~x2/) — ΔT 3.78
 1. [Dunn #2](/setts/s11/db6k2dp14k5dp14k3dt4k6dt24w2dp6~x2/) — ΔT 3.80
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k38k4k2dp6dp11dp3dp2dg2k11k1w2~x2/"><circle cx="460.7" cy="145.1" r="4" fill="#3465a4"><title>Highland Thistle</title></circle></a><a href="/setts/s10/dt4dp2dt22k2dt1db2dt1k2db24w2~x2/"><circle cx="397.9" cy="182.4" r="4" fill="#3465a4"><title>Spirit of Wales (Fashion)</title></circle></a><a href="/setts/s10/k80r1dt25w1dt3r2dt3w1dt25lt1~x2/"><circle cx="469.0" cy="117.7" r="4" fill="#3465a4"><title>Pompili, Antonio and Alessandro (Personal)</title></circle></a><a href="/setts/s8/k9dg5w1dg15k2dg1k44r1~x2/"><circle cx="488.7" cy="169.6" r="4" fill="#3465a4"><title>Ata?, H.M. &amp; I.C. (Personal)</title></circle></a><a href="/setts/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/"><circle cx="308.5" cy="183.8" r="4" fill="#3465a4"><title>Newlands, Charlie (Personal)</title></circle></a><a href="/setts/s6/k43dg8k8dt21dg10w2~x2/"><circle cx="422.4" cy="251.7" r="4" fill="#3465a4"><title>Longmuir (2014)</title></circle></a><a href="/setts/s6/do19lo3w1k18dg30r2~x2/"><circle cx="306.4" cy="191.9" r="4" fill="#3465a4"><title>Cornish Countryside</title></circle></a><a href="/setts/s8/db4y4db37k20y1dp5y1k4~x2/"><circle cx="466.5" cy="197.4" r="4" fill="#3465a4"><title>Finnie (Personal)</title></circle></a><a href="/setts/s17/dt5lb2dt12k21dg12k4dg4k4r4k4dg4k4dg12k21dt12lb2dt4~x2/"><circle cx="301.7" cy="234.2" r="4" fill="#3465a4"><title>Psychological Operations Regiment</title></circle></a><a href="/setts/s11/db6k2dp14k5dp14k3dt4k6dt24w2dp6~x2/"><circle cx="290.2" cy="231.2" r="4" fill="#3465a4"><title>Dunn #2</title></circle></a><circle cx="377.0" cy="150.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k38k4k2dp6dp11dp3dp2dg2k11k1w2~x2/"><circle cx="460.7" cy="145.3" r="4" fill="#3465a4"><title>Highland Thistle</title></circle></a><a href="/setts/s10/dt4dp2dt22k2dt1db2dt1k2db24w2~x2/"><circle cx="397.9" cy="182.7" r="4" fill="#3465a4"><title>Spirit of Wales (Fashion)</title></circle></a><a href="/setts/s10/k80r1dt25w1dt3r2dt3w1dt25lt1~x2/"><circle cx="469.0" cy="117.9" r="4" fill="#3465a4"><title>Pompili, Antonio and Alessandro (Personal)</title></circle></a><a href="/setts/s8/k9dg5w1dg15k2dg1k44r1~x2/"><circle cx="488.6" cy="169.8" r="4" fill="#3465a4"><title>Ata?, H.M. &amp; I.C. (Personal)</title></circle></a><a href="/setts/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/"><circle cx="308.6" cy="184.2" r="4" fill="#3465a4"><title>Newlands, Charlie (Personal)</title></circle></a><a href="/setts/s6/k43dg8k8dt21dg10w2~x2/"><circle cx="422.5" cy="251.8" r="4" fill="#3465a4"><title>Longmuir (2014)</title></circle></a><a href="/setts/s6/do19lo3w1k18dg30r2~x2/"><circle cx="306.5" cy="192.1" r="4" fill="#3465a4"><title>Cornish Countryside</title></circle></a><a href="/setts/s8/k4y1dp5y1k20db37y4db4~x2/"><circle cx="466.4" cy="197.5" r="4" fill="#3465a4"><title>Finnie (Personal)</title></circle></a><a href="/setts/s17/dt5lb2dt12k21dg12k4dg4k4r4k4dg4k4dg12k21dt12lb2dt4~x2/"><circle cx="301.8" cy="234.5" r="4" fill="#3465a4"><title>Psychological Operations Regiment</title></circle></a><a href="/setts/s11/db6k2dp14k5dp14k3dt4k6dt24w2dp6~x2/"><circle cx="290.3" cy="231.5" r="4" fill="#3465a4"><title>Dunn #2</title></circle></a><circle cx="377.2" cy="150.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/k4w1k36k4k1k3k10w1k4w1k8w1~x2/

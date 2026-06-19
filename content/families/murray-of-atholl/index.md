@@ -1,10 +1,10 @@
 ---
-title: "Murray of Atholl"
+title: "Murray of Atholl,"
 date: 2023-03-18
 ---
 A family of [Clan Murray](/clan/murray/).
 
-**Trove of Scotland:** [search “Atholl”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Atholl&viewmode=grid)
+**Trove of Scotland:** [search “Atholl,”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Atholl%2C&viewmode=grid)
 
 ## Tartan
 

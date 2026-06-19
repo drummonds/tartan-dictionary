@@ -2,7 +2,7 @@
 title: "Daks, Blue Loden"
 date: 2023-03-18
 ---
-**Bands:** [RBBBRBBR](/stripes/rbbbrbbr/) · **Stripes:** [O DR T DR R DR T O](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O DR T DR R DR T O</span></span>
+**Bands:** [RBBRBBBR](/stripes/rbbrbbbr/) · **Stripes:** [O T DR R DR T DR O](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O T DR R DR T DR O</span></span>
 
 
 This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,15 +915,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Fraser Green](/setts/s6/lb2dr12g6dr1n6dr1~x4/) — ΔT 1.05
 1. [Montrose (Macnaughton variation)](/setts/s9/db1k1r12g12k6db5r12k1db1~x4/) — ΔT 1.06
 1. [Swedish Para Whisky Club (Corporate](/setts/s6/dr2dg14lb3dr13ly1dr2~x4/) — ΔT 1.08
-1. [Fraser VS](/setts/s6/lr1r12dg6r1db6r1~x2/) — ΔT 1.08
+1. [Fraser VS](/setts/s6/r1db6r1dg6r12lr1~x2/) — ΔT 1.08
 1. [Gates](/setts/s9/db24r3db4r6g8r3g8r30k3~x2/) — ΔT 1.10
 1. [Invertere, (Daks)](/setts/s8/r5dg12o4db4o22dg3o4r5/) — ΔT 1.10
 1. [Unidentified Plaid #15](/setts/s10/r4t3r32db30r4dg32r3dg32r3dg3~x2/) — ΔT 1.11
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/lo3t7do2m2do14t2do2lo3~x2/"><circle cx="267.2" cy="206.4" r="4" fill="#3465a4"><title>Daks (Blue Loden)</title></circle></a><a href="/setts/s6/db18ly2dy6ly2dy19r3~x2/"><circle cx="297.6" cy="218.5" r="4" fill="#3465a4"><title>Balfour #2</title></circle></a><a href="/setts/s6/db18ly2dy6ly2dy19r3~x4/"><circle cx="297.6" cy="218.5" r="4" fill="#3465a4"><title>Balfour (Clan)</title></circle></a><a href="/setts/s6/lb2dr12g6dr1n6dr1~x4/"><circle cx="288.5" cy="212.2" r="4" fill="#3465a4"><title>Fraser Green</title></circle></a><a href="/setts/s9/db1k1r12g12k6db5r12k1db1~x4/"><circle cx="272.8" cy="198.4" r="4" fill="#3465a4"><title>Montrose (Macnaughton variation)</title></circle></a><a href="/setts/s6/dr2dg14lb3dr13ly1dr2~x4/"><circle cx="312.8" cy="199.1" r="4" fill="#3465a4"><title>Swedish Para Whisky Club (Corporate</title></circle></a><a href="/setts/s6/lr1r12dg6r1db6r1~x2/"><circle cx="299.0" cy="197.0" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><a href="/setts/s9/db24r3db4r6g8r3g8r30k3~x2/"><circle cx="270.6" cy="179.3" r="4" fill="#3465a4"><title>Gates</title></circle></a><a href="/setts/s8/r5dg12o4db4o22dg3o4r5/"><circle cx="285.6" cy="224.6" r="4" fill="#3465a4"><title>Invertere, (Daks)</title></circle></a><a href="/setts/s10/r4t3r32db30r4dg32r3dg32r3dg3~x2/"><circle cx="266.3" cy="183.7" r="4" fill="#3465a4"><title>Unidentified Plaid #15</title></circle></a><circle cx="307.8" cy="202.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/lo3t7do2m2do14t2do2lo3~x2/"><circle cx="267.1" cy="206.3" r="4" fill="#3465a4"><title>Daks (Blue Loden)</title></circle></a><a href="/setts/s6/db18ly2dy6ly2dy19r3~x2/"><circle cx="297.5" cy="218.4" r="4" fill="#3465a4"><title>Balfour #2</title></circle></a><a href="/setts/s6/db18ly2dy6ly2dy19r3~x4/"><circle cx="297.5" cy="218.4" r="4" fill="#3465a4"><title>Balfour (Clan)</title></circle></a><a href="/setts/s6/lb2dr12g6dr1n6dr1~x4/"><circle cx="288.5" cy="212.1" r="4" fill="#3465a4"><title>Fraser Green</title></circle></a><a href="/setts/s9/db1k1r12g12k6db5r12k1db1~x4/"><circle cx="272.7" cy="198.4" r="4" fill="#3465a4"><title>Montrose (Macnaughton variation)</title></circle></a><a href="/setts/s6/dr2dg14lb3dr13ly1dr2~x4/"><circle cx="312.8" cy="199.0" r="4" fill="#3465a4"><title>Swedish Para Whisky Club (Corporate</title></circle></a><a href="/setts/s6/r1db6r1dg6r12lr1~x2/"><circle cx="298.9" cy="196.9" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><a href="/setts/s9/db24r3db4r6g8r3g8r30k3~x2/"><circle cx="270.4" cy="179.2" r="4" fill="#3465a4"><title>Gates</title></circle></a><a href="/setts/s8/r5dg12o4db4o22dg3o4r5/"><circle cx="285.5" cy="224.6" r="4" fill="#3465a4"><title>Invertere, (Daks)</title></circle></a><a href="/setts/s10/r4t3r32db30r4dg32r3dg32r3dg3~x2/"><circle cx="266.1" cy="183.6" r="4" fill="#3465a4"><title>Unidentified Plaid #15</title></circle></a><circle cx="307.6" cy="202.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/o5t13dr4r4dr27t3dr4o5/

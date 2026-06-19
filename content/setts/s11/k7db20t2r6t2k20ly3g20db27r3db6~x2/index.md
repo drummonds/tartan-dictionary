@@ -2,12 +2,18 @@
 title: "Stinson, Ancient"
 date: 2023-03-18
 ---
-**Bands:** [BRBGYKBRBBK](/stripes/brbgykbrbbk/) · **Stripes:** [DB R DB G LY K T R T DB K](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">DB R DB G LY K T R T DB K</span></span>
+**Bands:** [KBBRBKYGBRB](/stripes/kbbrbkygbrb/) · **Stripes:** [K DB T R T K LY G DB R DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB T R T K LY G DB R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Stinson, Ancient
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/12 R6 B54 G40 Y6 K40 Ba4 R12 Ba4 B40 K/14
+K/14 B40 Ba4 R12 Ba4 K40 Y6 G40 B54 R6 B/12
 ![Sett](sett.png)
 
 ## Palette
@@ -911,7 +920,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [MacKusick Family Tartan of North America](/setts/s13/db8k2db3k12dp3w1dp3k16dg3w2r1w2dg8~x2/) — ΔT 0.78
+1. [MacKusick Family Tartan of North America](/setts/s13/dg8w2r1w2dg3k16dp3w1dp3k12db3k2db8~x2/) — ΔT 0.78
 1. [Czech National (District)](/setts/s11/db4ly2db24k2db5r3k14g14w3r3db3~x2/) — ΔT 0.90
 1. [Stephenson (Name)](/setts/s11/k6g20b2r5b2k20lo3db20g26r3db5~x2/) — ΔT 0.90
 1. [MacLulich](/setts/s12/db33r8k12ly2k4w4k4g12db8k4db4w2~x2/) — ΔT 0.99
@@ -924,8 +933,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db8k2db3k12dp3w1dp3k16dg3w2r1w2dg8~x2/"><circle cx="197.4" cy="129.6" r="4" fill="#3465a4"><title>MacKusick Family Tartan of North America</title></circle></a><a href="/setts/s11/db4ly2db24k2db5r3k14g14w3r3db3~x2/"><circle cx="199.3" cy="140.4" r="4" fill="#3465a4"><title>Czech National (District)</title></circle></a><a href="/setts/s11/k6g20b2r5b2k20lo3db20g26r3db5~x2/"><circle cx="166.9" cy="147.8" r="4" fill="#3465a4"><title>Stephenson (Name)</title></circle></a><a href="/setts/s12/db33r8k12ly2k4w4k4g12db8k4db4w2~x2/"><circle cx="205.6" cy="119.1" r="4" fill="#3465a4"><title>MacLulich</title></circle></a><a href="/setts/s12/db33r8k12ly2k4w4k4dg12db8k4db4w2~x2/"><circle cx="207.8" cy="120.3" r="4" fill="#3465a4"><title>MacBeth/Stewart Brydone 1862</title></circle></a><a href="/setts/s11/db50k10db6k10db6dg5lp5dg5p8dg23w5~x2/"><circle cx="192.3" cy="140.3" r="4" fill="#3465a4"><title>Scottish Hockey Union (Sports)</title></circle></a><a href="/setts/s10/db6r4db24lb3k6g18lo4g2lo2g4~x2/"><circle cx="154.3" cy="138.3" r="4" fill="#3465a4"><title>Greene</title></circle></a><a href="/setts/s10/t13k14g6k14t14w1r1ly1g1t3~x2/"><circle cx="203.5" cy="147.1" r="4" fill="#3465a4"><title>Scotshill</title></circle></a><a href="/setts/s9/m4k7m2db25k19w2g13k2ly3~x2/"><circle cx="152.2" cy="147.7" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/setts/s11/k3g2k12dt4db19r3db19dt4k12g2ly3~x2/"><circle cx="180.5" cy="159.8" r="4" fill="#3465a4"><title>Loch Lomond Millennium</title></circle></a><circle cx="171.6" cy="141.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dg8w2r1w2dg3k16dp3w1dp3k12db3k2db8~x2/"><circle cx="197.5" cy="129.7" r="4" fill="#3465a4"><title>MacKusick Family Tartan of North America</title></circle></a><a href="/setts/s11/db4ly2db24k2db5r3k14g14w3r3db3~x2/"><circle cx="199.3" cy="140.4" r="4" fill="#3465a4"><title>Czech National (District)</title></circle></a><a href="/setts/s11/k6g20b2r5b2k20lo3db20g26r3db5~x2/"><circle cx="167.0" cy="147.9" r="4" fill="#3465a4"><title>Stephenson (Name)</title></circle></a><a href="/setts/s12/db33r8k12ly2k4w4k4g12db8k4db4w2~x2/"><circle cx="205.6" cy="119.2" r="4" fill="#3465a4"><title>MacLulich</title></circle></a><a href="/setts/s12/db33r8k12ly2k4w4k4dg12db8k4db4w2~x2/"><circle cx="207.8" cy="120.4" r="4" fill="#3465a4"><title>MacBeth/Stewart Brydone 1862</title></circle></a><a href="/setts/s11/db50k10db6k10db6dg5lp5dg5p8dg23w5~x2/"><circle cx="192.4" cy="140.4" r="4" fill="#3465a4"><title>Scottish Hockey Union (Sports)</title></circle></a><a href="/setts/s10/db6r4db24lb3k6g18lo4g2lo2g4~x2/"><circle cx="154.4" cy="138.3" r="4" fill="#3465a4"><title>Greene</title></circle></a><a href="/setts/s10/t13k14g6k14t14w1r1ly1g1t3~x2/"><circle cx="203.5" cy="147.1" r="4" fill="#3465a4"><title>Scotshill</title></circle></a><a href="/setts/s9/m4k7m2db25k19w2g13k2ly3~x2/"><circle cx="152.4" cy="147.8" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/setts/s11/k3g2k12dt4db19r3db19dt4k12g2ly3~x2/"><circle cx="180.7" cy="159.9" r="4" fill="#3465a4"><title>Loch Lomond Millennium</title></circle></a><circle cx="171.7" cy="141.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/

@@ -2,12 +2,20 @@
 title: "Murray of Atholl #3"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKGRGKBKR](/stripes/bkbkbkgrgkbkr/) · **Stripes:** [DB K DB K DB K G R G K DB K R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K DB K DB K G R G K DB K R</span></span>
+**Bands:** [RKBKGRGKBKBKB](/stripes/rkbkgrgkbkbkb/) · **Stripes:** [R K DB K G R G K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K DB K G R G K DB K DB K DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3063
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Atholl
+- Murray of Atholl #3
+- Transvaal Scottish Regiment (Militar
 
 ## Attestations
 
@@ -323,6 +331,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -423,6 +432,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -682,6 +692,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,9 +928,9 @@ The nearest existing variants by ΔTartan distance.
 1. [Ferguson](/setts/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/) — ΔT 0.57
 1. [Murray of Atholl #2](/setts/s12/db25k2db2k2db2k21dg23r5dg23k20db19r5~x2/) — ΔT 0.68
 1. [Safeway](/setts/s15/db19k3db3k3db3k20g19k2r5k2g19k20db19k3db3~x2/) — ΔT 0.71
-1. [Swallow Hotels](/setts/s16/db4k4db21k10r2k10g21k4g21k10r2k10db21k4db4k4~x2/) — ΔT 0.76
+1. [Swallow Hotels](/setts/s16/k4g21k10r2k10db21k4db4k4~x2/) — ΔT 0.76
 1. [Stephenson Hunting](/setts/s13/db9k9dg9k1w1k2w1k1dg9k9db9k1dg2~x4/) — ΔT 0.77
-1. [Stuart/Stewart Ancient](/setts/s15/db17dg4k4dg4db17r6k12r4k12r6dg17k4db2k4dg17/) — ΔT 0.82
+1. [Stuart/Stewart Ancient](/setts/s15/dg17k4db2k4dg17r6k12r4k12r6db17dg4k4dg4db17/) — ΔT 0.82
 1. [Campbell of Breadalbane #2](/setts/s13/db26k4db4k4db4k27ly5dg47ly5k27db25k4db4~x2/) — ΔT 0.83
 1. [Graham](/setts/s11/k2db12k12g1t2g16t2g1k12db12k1~x4/) — ΔT 0.88
 1. [Westgate (Corporate)](/setts/s13/db23k3db3k3db3k17g22ly4g22k17db22k3db3~x2/) — ΔT 0.89
@@ -927,8 +938,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/"><circle cx="208.0" cy="212.4" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/setts/s12/db25k2db2k2db2k21dg23r5dg23k20db19r5~x2/"><circle cx="208.9" cy="207.9" r="4" fill="#3465a4"><title>Murray of Atholl #2</title></circle></a><a href="/setts/s15/db19k3db3k3db3k20g19k2r5k2g19k20db19k3db3~x2/"><circle cx="215.5" cy="196.6" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/setts/s16/db4k4db21k10r2k10g21k4g21k10r2k10db21k4db4k4~x2/"><circle cx="197.5" cy="191.9" r="4" fill="#3465a4"><title>Swallow Hotels</title></circle></a><a href="/setts/s13/db9k9dg9k1w1k2w1k1dg9k9db9k1dg2~x4/"><circle cx="208.5" cy="212.6" r="4" fill="#3465a4"><title>Stephenson Hunting</title></circle></a><a href="/setts/s15/db17dg4k4dg4db17r6k12r4k12r6dg17k4db2k4dg17/"><circle cx="159.1" cy="212.3" r="4" fill="#3465a4"><title>Stuart/Stewart Ancient</title></circle></a><a href="/setts/s13/db26k4db4k4db4k27ly5dg47ly5k27db25k4db4~x2/"><circle cx="214.8" cy="183.4" r="4" fill="#3465a4"><title>Campbell of Breadalbane #2</title></circle></a><a href="/setts/s11/k2db12k12g1t2g16t2g1k12db12k1~x4/"><circle cx="234.9" cy="191.2" r="4" fill="#3465a4"><title>Graham</title></circle></a><a href="/setts/s13/db23k3db3k3db3k17g22ly4g22k17db22k3db3~x2/"><circle cx="193.5" cy="211.3" r="4" fill="#3465a4"><title>Westgate (Corporate)</title></circle></a><a href="/setts/s10/g27k21db12k4db40k4db12k21g27w4~x2/"><circle cx="197.2" cy="224.6" r="4" fill="#3465a4"><title>Granger/Grainger (Personal)</title></circle></a><circle cx="189.9" cy="199.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/"><circle cx="208.1" cy="212.5" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/setts/s12/db25k2db2k2db2k21dg23r5dg23k20db19r5~x2/"><circle cx="209.0" cy="208.1" r="4" fill="#3465a4"><title>Murray of Atholl #2</title></circle></a><a href="/setts/s15/db19k3db3k3db3k20g19k2r5k2g19k20db19k3db3~x2/"><circle cx="215.6" cy="196.7" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/setts/s16/k4g21k10r2k10db21k4db4k4~x2/"><circle cx="197.6" cy="192.0" r="4" fill="#3465a4"><title>Swallow Hotels</title></circle></a><a href="/setts/s13/db9k9dg9k1w1k2w1k1dg9k9db9k1dg2~x4/"><circle cx="208.6" cy="212.7" r="4" fill="#3465a4"><title>Stephenson Hunting</title></circle></a><a href="/setts/s15/dg17k4db2k4dg17r6k12r4k12r6db17dg4k4dg4db17/"><circle cx="159.2" cy="212.4" r="4" fill="#3465a4"><title>Stuart/Stewart Ancient</title></circle></a><a href="/setts/s13/db26k4db4k4db4k27ly5dg47ly5k27db25k4db4~x2/"><circle cx="214.9" cy="183.5" r="4" fill="#3465a4"><title>Campbell of Breadalbane #2</title></circle></a><a href="/setts/s11/k2db12k12g1t2g16t2g1k12db12k1~x4/"><circle cx="235.0" cy="191.2" r="4" fill="#3465a4"><title>Graham</title></circle></a><a href="/setts/s13/db23k3db3k3db3k17g22ly4g22k17db22k3db3~x2/"><circle cx="193.7" cy="211.3" r="4" fill="#3465a4"><title>Westgate (Corporate)</title></circle></a><a href="/setts/s10/g27k21db12k4db40k4db12k21g27w4~x2/"><circle cx="197.4" cy="224.6" r="4" fill="#3465a4"><title>Granger/Grainger (Personal)</title></circle></a><circle cx="190.0" cy="199.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/

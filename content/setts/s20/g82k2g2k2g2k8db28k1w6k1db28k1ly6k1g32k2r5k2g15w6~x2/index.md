@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [20 band tartan](/bands/bands20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified #30
+- Unnamed No 38 Artifact
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -924,8 +934,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/g36k1g1k1g1k1db12k1w1k1db12k1ly1k1g12k2r2~x2/"><circle cx="331.2" cy="49.7" r="4" fill="#3465a4"><title>Cockburn</title></circle></a><a href="/setts/s25/r6k1g34k2ly4k5db5k1w5k1db34k5g2k2g2k2g86k2g2k2g2k5db34k1w5~x2/"><circle cx="292.2" cy="14.0" r="4" fill="#3465a4"><title>Cockburn, Old pattern</title></circle></a><a href="/setts/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/"><circle cx="289.5" cy="75.6" r="4" fill="#3465a4"><title>Reilly fae the Mearns (Personal)</title></circle></a><a href="/setts/s24/g34k1r4w1r4k1g4k1ly2k1g7k1r3k1g3k1r3k1g3w1db5w1ly4w2~x2/"><circle cx="295.1" cy="18.6" r="4" fill="#3465a4"><title>MacMaster</title></circle></a><a href="/setts/s17/k2g2ly1g3r1g2r1g12db4k3db3k3db3k3db4g24r2~x2/"><circle cx="292.4" cy="80.2" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/setts/s25/r6k1g34k2ly4k5db5k1w5k1db34k5g2k2g2k2g86k2g2k2g2k5db34k1w5/"><circle cx="312.7" cy="19.2" r="4" fill="#3465a4"><title>Cockburn (Old Pattern)</title></circle></a><a href="/setts/s20/k40g8r1g57ly5g9w5g57r1g8k40dp7k4g4k2w4k2g4k4dp7~x2/"><circle cx="293.9" cy="37.8" r="4" fill="#3465a4"><title>Unidentified, Phyllis Gordon</title></circle></a><a href="/setts/s12/dg3g2dg40g2dg4g8w1g4dg2lo4ly4w2~x2/"><circle cx="378.3" cy="66.8" r="4" fill="#3465a4"><title>Springbok (Fashion)</title></circle></a><a href="/setts/s17/ly8g84db21k10db10k10db10k10db21g62r3g6r3g10ly3g5r6~x2/"><circle cx="321.7" cy="89.4" r="4" fill="#3465a4"><title>King Edward VII</title></circle></a><a href="/setts/s14/g40do1dp4do1dp4k4dr1k1dr1k1dr1k1dr2w4~x2/"><circle cx="369.0" cy="43.2" r="4" fill="#3465a4"><title>Mighty Men</title></circle></a><circle cx="321.2" cy="29.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/g36k1g1k1g1k1db12k1w1k1db12k1ly1k1g12k2r2~x2/"><circle cx="330.9" cy="49.7" r="4" fill="#3465a4"><title>Cockburn</title></circle></a><a href="/setts/s25/r6k1g34k2ly4k5db5k1w5k1db34k5g2k2g2k2g86k2g2k2g2k5db34k1w5~x2/"><circle cx="291.9" cy="14.0" r="4" fill="#3465a4"><title>Cockburn, Old pattern</title></circle></a><a href="/setts/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/"><circle cx="289.3" cy="75.6" r="4" fill="#3465a4"><title>Reilly fae the Mearns (Personal)</title></circle></a><a href="/setts/s24/g34k1r4w1r4k1g4k1ly2k1g7k1r3k1g3k1r3k1g3w1db5w1ly4w2~x2/"><circle cx="294.6" cy="18.6" r="4" fill="#3465a4"><title>MacMaster</title></circle></a><a href="/setts/s17/k2g2ly1g3r1g2r1g12db4k3db3k3db3k3db4g24r2~x2/"><circle cx="292.2" cy="80.2" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/setts/s25/r6k1g34k2ly4k5db5k1w5k1db34k5g2k2g2k2g86k2g2k2g2k5db34k1w5/"><circle cx="312.5" cy="19.3" r="4" fill="#3465a4"><title>Cockburn (Old Pattern)</title></circle></a><a href="/setts/s20/k40g8r1g57ly5g9w5g57r1g8k40dp7k4g4k2w4k2g4k4dp7~x2/"><circle cx="293.8" cy="37.8" r="4" fill="#3465a4"><title>Unidentified, Phyllis Gordon</title></circle></a><a href="/setts/s12/dg3g2dg40g2dg4g8w1g4dg2lo4ly4w2~x2/"><circle cx="378.0" cy="66.7" r="4" fill="#3465a4"><title>Springbok (Fashion)</title></circle></a><a href="/setts/s17/ly8g84db21k10db10k10db10k10db21g62r3g6r3g10ly3g5r6~x2/"><circle cx="321.4" cy="89.3" r="4" fill="#3465a4"><title>King Edward VII</title></circle></a><a href="/setts/s14/g40do1dp4do1dp4k4dr1k1dr1k1dr1k1dr2w4~x2/"><circle cx="368.7" cy="43.1" r="4" fill="#3465a4"><title>Mighty Men</title></circle></a><circle cx="320.9" cy="28.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s20/g82k2g2k2g2k8db28k1w6k1db28k1ly6k1g32k2r5k2g15w6~x2/

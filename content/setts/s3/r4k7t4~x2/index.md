@@ -2,12 +2,18 @@
 title: "Wilson's No.198"
 date: 2023-03-18
 ---
-**Bands:** [BKR](/stripes/bkr/) · **Stripes:** [T K R](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">T K R</span></span>
+**Bands:** [RKB](/stripes/rkb/) · **Stripes:** [R K T](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">R K T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4730
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Wilson's, No 198
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/8 K14 R/8
+R/8 K14 B/8
 ![Sett](sett.png)
 
 ## Palette
@@ -908,27 +917,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/8 K14 R/8 tartan")
+![Tartan detail](tartan.png "R/8 K14 B/8 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Kazakhstan Relic (Artefact)](/setts/s3/lo5db5k3~x4/) — ΔT 1.02
-1. [Wilson's No.200](/setts/s3/g4k7r4~x2/) — ΔT 1.28
+1. [Wilson's No.200](/setts/s3/r4k7g4~x2/) — ΔT 1.28
 1. [Wilson's No.061](/setts/s3/r4dg7t4~x2/) — ΔT 1.28
 1. [Allen, Nicholas (Personal)](/setts/s3/dt1k2r1~x42/) — ΔT 1.35
-1. [Kazakhstan Relic](/setts/s4/db5k3db5lo5~x4/) — ΔT 1.43
+1. [Kazakhstan Relic](/setts/s4/lo5db5k3~x4/) — ΔT 1.43
 1. [Wilson's, No 209](/setts/s3/p5g4t2~x2/) — ΔT 1.58
 1. [Wilson's No.094](/setts/s4/g4k5g4r2~x2/) — ΔT 1.78
 1. [Wilson's No.202](/setts/s3/g7k4r4~x2/) — ΔT 1.79
-1. [Daks, Black (Fashion)](/setts/s5/ly3k6dy4k6r3~x2/) — ΔT 1.81
+1. [Daks, Black (Fashion)](/setts/s5/r3k6dy4k6ly3~x2/) — ΔT 1.81
 1. [Kucher, Gregory (Personal)](/setts/s4/n2r1k1lr1~x10/) — ΔT 1.90
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/lo5db5k3~x4/"><circle cx="94.0" cy="366.0" r="4" fill="#3465a4"><title>Kazakhstan Relic (Artefact)</title></circle></a><a href="/setts/s3/g4k7r4~x2/"><circle cx="158.9" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.200</title></circle></a><a href="/setts/s3/r4dg7t4~x2/"><circle cx="161.7" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.061</title></circle></a><a href="/setts/s3/dt1k2r1~x42/"><circle cx="207.4" cy="366.0" r="4" fill="#3465a4"><title>Allen, Nicholas (Personal)</title></circle></a><a href="/setts/s4/db5k3db5lo5~x4/"><circle cx="171.4" cy="366.0" r="4" fill="#3465a4"><title>Kazakhstan Relic</title></circle></a><a href="/setts/s3/p5g4t2~x2/"><circle cx="185.6" cy="361.5" r="4" fill="#3465a4"><title>Wilson's, No 209</title></circle></a><a href="/setts/s4/g4k5g4r2~x2/"><circle cx="200.0" cy="359.5" r="4" fill="#3465a4"><title>Wilson's No.094</title></circle></a><a href="/setts/s3/g7k4r4~x2/"><circle cx="159.8" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.202</title></circle></a><a href="/setts/s5/ly3k6dy4k6r3~x2/"><circle cx="146.8" cy="327.2" r="4" fill="#3465a4"><title>Daks, Black (Fashion)</title></circle></a><a href="/setts/s4/n2r1k1lr1~x10/"><circle cx="104.6" cy="338.9" r="4" fill="#3465a4"><title>Kucher, Gregory (Personal)</title></circle></a><circle cx="142.0" cy="366.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/lo5db5k3~x4/"><circle cx="94.3" cy="366.0" r="4" fill="#3465a4"><title>Kazakhstan Relic (Artefact)</title></circle></a><a href="/setts/s3/r4k7g4~x2/"><circle cx="159.1" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.200</title></circle></a><a href="/setts/s3/r4dg7t4~x2/"><circle cx="161.9" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.061</title></circle></a><a href="/setts/s3/dt1k2r1~x42/"><circle cx="207.6" cy="366.0" r="4" fill="#3465a4"><title>Allen, Nicholas (Personal)</title></circle></a><a href="/setts/s4/lo5db5k3~x4/"><circle cx="171.7" cy="366.0" r="4" fill="#3465a4"><title>Kazakhstan Relic</title></circle></a><a href="/setts/s3/p5g4t2~x2/"><circle cx="185.7" cy="361.2" r="4" fill="#3465a4"><title>Wilson's, No 209</title></circle></a><a href="/setts/s4/g4k5g4r2~x2/"><circle cx="200.2" cy="359.2" r="4" fill="#3465a4"><title>Wilson's No.094</title></circle></a><a href="/setts/s3/g7k4r4~x2/"><circle cx="160.0" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.202</title></circle></a><a href="/setts/s5/r3k6dy4k6ly3~x2/"><circle cx="147.0" cy="327.0" r="4" fill="#3465a4"><title>Daks, Black (Fashion)</title></circle></a><a href="/setts/s4/n2r1k1lr1~x10/"><circle cx="104.8" cy="338.8" r="4" fill="#3465a4"><title>Kucher, Gregory (Personal)</title></circle></a><circle cx="142.3" cy="366.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/r4k7t4~x2/

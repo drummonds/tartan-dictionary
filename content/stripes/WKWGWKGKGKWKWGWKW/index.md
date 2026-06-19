@@ -23,8 +23,8 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Clergy](/setts/s17/lb1k5lb1y4lb1k26lb1k10y5k2y5k10lb1y4lb1k5lb1~x2/)|
-|![Clergy example sett](/setts/s17/lb1k5lb1y4lb1k26lb1k10y5k2y5k10lb1y4lb1k5lb1~x2/sett.png)|
+| [Clergy](/setts/s17/lb1k5lb1y4lb1k26lb1k10y5k2y5k10lb1y4lb1k5lb1/)|
+|![Clergy example sett](/setts/s17/lb1k5lb1y4lb1k26lb1k10y5k2y5k10lb1y4lb1k5lb1/sett.png)|
 
 ### W K W Y W K Y K Y K W K W Y W K W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K W Y W K Y K Y K W K W Y W K W</span></span>
 

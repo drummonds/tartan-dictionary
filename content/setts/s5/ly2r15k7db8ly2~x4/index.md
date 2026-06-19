@@ -2,7 +2,7 @@
 title: "Aberdeen University"
 date: 2023-03-18
 ---
-**Bands:** [YBKRY](/stripes/ybkry/) · **Stripes:** [LY DB K R LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY DB K R LY</span></span>
+**Bands:** [YRKBY](/stripes/yrkby/) · **Stripes:** [LY R K DB LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY R K DB LY</span></span>
 
 
 This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -899,7 +902,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-Y/8 B32 K28 R60 Y/8
+Y/8 R60 K28 B32 Y/8
 ![Sett](sett.png)
 
 ## Palette
@@ -914,7 +917,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "Y/8 B32 K28 R60 Y/8 tartan")
+![Tartan detail](tartan.png "Y/8 R60 K28 B32 Y/8 tartan")
 
 ## Nearest tartans
 
@@ -923,18 +926,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Wcwm 759-2](/setts/s6/lb5r34k22r4o24r4~x2/) — ΔT 0.65
 1. [Aberdeen University (1992)](/setts/s5/ly4r27k12db15ly4~x2/) — ΔT 0.68
 1. [SAL Cubiska Stenen](/setts/s5/r15g3w2k10w5~x2/) — ΔT 0.76
-1. [Graham of Menteith, (Red)](/setts/s6/r26t3r4k16db16k4~x2/) — ΔT 0.97
+1. [Graham of Menteith, (Red)](/setts/s6/r26t3r4k16db16k4~x2/) — ΔT 0.98
 1. [Bonhill Primary School](/setts/s4/r4k25o25w4~x2/) — ΔT 1.06
-1. [Connel (Clan)](/setts/s4/ly1k8r8w1~x4/) — ΔT 1.10
+1. [Connel (Clan)](/setts/s4/w1r8k8ly1~x4/) — ΔT 1.10
 1. [Baillie of Polkemett](/setts/s5/w3db12k12r20g2~x2/) — ΔT 1.14
 1. [Wcwm 759-3](/setts/s6/lb5o34k24o4r24o4~x2/) — ΔT 1.14
-1. [MacTavish](/setts/s6/lb2r12db2lb6k6lb1~x2/) — ΔT 1.18
-1. [McGill University (Corporate)](/setts/s5/lo3dg8db12r24w3~x2/) — ΔT 1.20
+1. [MacTavish](/setts/s6/lb2r12db2lb6k6lb1/) — ΔT 1.18
+1. [McGill University (Corporate)](/setts/s5/w3r24db12dg8lo3~x2/) — ΔT 1.20
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/lb5r34k22r4o24r4~x2/"><circle cx="206.5" cy="202.7" r="4" fill="#3465a4"><title>Wcwm 759-2</title></circle></a><a href="/setts/s5/ly4r27k12db15ly4~x2/"><circle cx="188.1" cy="222.3" r="4" fill="#3465a4"><title>Aberdeen University (1992)</title></circle></a><a href="/setts/s5/r15g3w2k10w5~x2/"><circle cx="166.2" cy="205.9" r="4" fill="#3465a4"><title>SAL Cubiska Stenen</title></circle></a><a href="/setts/s6/r26t3r4k16db16k4~x2/"><circle cx="205.8" cy="207.5" r="4" fill="#3465a4"><title>Graham of Menteith, (Red)</title></circle></a><a href="/setts/s4/r4k25o25w4~x2/"><circle cx="214.7" cy="235.1" r="4" fill="#3465a4"><title>Bonhill Primary School</title></circle></a><a href="/setts/s4/ly1k8r8w1~x4/"><circle cx="239.8" cy="217.8" r="4" fill="#3465a4"><title>Connel (Clan)</title></circle></a><a href="/setts/s5/w3db12k12r20g2~x2/"><circle cx="160.6" cy="194.9" r="4" fill="#3465a4"><title>Baillie of Polkemett</title></circle></a><a href="/setts/s6/lb5o34k24o4r24o4~x2/"><circle cx="191.0" cy="202.1" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/setts/s6/lb2r12db2lb6k6lb1~x2/"><circle cx="186.2" cy="173.4" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/setts/s5/lo3dg8db12r24w3~x2/"><circle cx="210.1" cy="195.0" r="4" fill="#3465a4"><title>McGill University (Corporate)</title></circle></a><circle cx="185.9" cy="213.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/lb5r34k22r4o24r4~x2/"><circle cx="206.4" cy="202.6" r="4" fill="#3465a4"><title>Wcwm 759-2</title></circle></a><a href="/setts/s5/ly4r27k12db15ly4~x2/"><circle cx="188.0" cy="222.2" r="4" fill="#3465a4"><title>Aberdeen University (1992)</title></circle></a><a href="/setts/s5/r15g3w2k10w5~x2/"><circle cx="166.1" cy="205.8" r="4" fill="#3465a4"><title>SAL Cubiska Stenen</title></circle></a><a href="/setts/s6/r26t3r4k16db16k4~x2/"><circle cx="205.9" cy="207.4" r="4" fill="#3465a4"><title>Graham of Menteith, (Red)</title></circle></a><a href="/setts/s4/r4k25o25w4~x2/"><circle cx="214.6" cy="234.9" r="4" fill="#3465a4"><title>Bonhill Primary School</title></circle></a><a href="/setts/s4/w1r8k8ly1~x4/"><circle cx="239.7" cy="217.6" r="4" fill="#3465a4"><title>Connel (Clan)</title></circle></a><a href="/setts/s5/w3db12k12r20g2~x2/"><circle cx="160.6" cy="194.9" r="4" fill="#3465a4"><title>Baillie of Polkemett</title></circle></a><a href="/setts/s6/lb5o34k24o4r24o4~x2/"><circle cx="190.9" cy="202.0" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/setts/s6/lb2r12db2lb6k6lb1/"><circle cx="186.0" cy="173.3" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/setts/s5/w3r24db12dg8lo3~x2/"><circle cx="210.0" cy="194.9" r="4" fill="#3465a4"><title>McGill University (Corporate)</title></circle></a><circle cx="185.9" cy="213.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/ly2r15k7db8ly2~x4/

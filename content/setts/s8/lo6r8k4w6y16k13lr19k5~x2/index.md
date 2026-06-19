@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7405/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Kilkenny County, Crest Range
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -48,21 +54,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Isle of Arran (Personal)](/setts/s9/lr1db3g3lr1dr3r1dr3lo4r1~x4/) — ΔT 0.73
-1. [Alabama (Fashion)](/setts/s7/lo3n12r12g16k9lb8r3~x2/) — ΔT 0.88
+1. [Isle of Arran (Personal)](/setts/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4/) — ΔT 0.73
+1. [Alabama (Fashion)](/setts/s7/r3lb8k9g16r12n12lo3~x2/) — ΔT 0.88
 1. [Tipperary County Crest (Fashion)](/setts/s9/r10lr36k24r30lo8k16w18db16lo9/) — ΔT 0.89
 1. [Belwade](/setts/s11/db4g4db4w1db1w1m4lo4w1g4m4~x4/) — ΔT 0.95
 1. [Somerset #2](/setts/s8/dg14lb14db12lr8dy3k3dy3k5~x2/) — ΔT 1.01
 1. [Eusa](/setts/s7/k16ly16r16g3db7w7k7~x2/) — ΔT 1.02
-1. [Devon Rural Skills Trust](/setts/s8/w5y4b1y4r4b1dg4ly1~x2/) — ΔT 1.04
+1. [Devon Rural Skills Trust](/setts/s8/w5y4b1y4r4b1dg4ly1~x2/) — ΔT 1.05
 1. [Bhutan](/setts/s9/m3lb2db6lb2dr8lo2g6lo2m2~x2/) — ΔT 1.05
 1. [Mekos, The](/setts/s6/dy19g23ly3db15r11w5~x2/) — ΔT 1.09
 1. [Caledonian Labrador Retrievers](/setts/s8/m21lg4do5lg4m5k21g21lo5~x2/) — ΔT 1.11
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lr1db3g3lr1dr3r1dr3lo4r1~x4/"><circle cx="16.3" cy="210.5" r="4" fill="#3465a4"><title>Isle of Arran (Personal)</title></circle></a><a href="/setts/s7/lo3n12r12g16k9lb8r3~x2/"><circle cx="25.7" cy="217.4" r="4" fill="#3465a4"><title>Alabama (Fashion)</title></circle></a><a href="/setts/s9/r10lr36k24r30lo8k16w18db16lo9/"><circle cx="14.0" cy="200.6" r="4" fill="#3465a4"><title>Tipperary County Crest (Fashion)</title></circle></a><a href="/setts/s11/db4g4db4w1db1w1m4lo4w1g4m4~x4/"><circle cx="14.0" cy="205.2" r="4" fill="#3465a4"><title>Belwade</title></circle></a><a href="/setts/s8/dg14lb14db12lr8dy3k3dy3k5~x2/"><circle cx="14.0" cy="201.4" r="4" fill="#3465a4"><title>Somerset #2</title></circle></a><a href="/setts/s7/k16ly16r16g3db7w7k7~x2/"><circle cx="25.5" cy="198.2" r="4" fill="#3465a4"><title>Eusa</title></circle></a><a href="/setts/s8/w5y4b1y4r4b1dg4ly1~x2/"><circle cx="44.9" cy="202.8" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/setts/s9/m3lb2db6lb2dr8lo2g6lo2m2~x2/"><circle cx="14.0" cy="198.9" r="4" fill="#3465a4"><title>Bhutan</title></circle></a><a href="/setts/s6/dy19g23ly3db15r11w5~x2/"><circle cx="70.5" cy="205.8" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/setts/s8/m21lg4do5lg4m5k21g21lo5~x2/"><circle cx="64.5" cy="188.7" r="4" fill="#3465a4"><title>Caledonian Labrador Retrievers</title></circle></a><circle cx="20.8" cy="203.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r1lo4dr3r1dr3lr1g3db3lr1~x4/"><circle cx="16.4" cy="210.6" r="4" fill="#3465a4"><title>Isle of Arran (Personal)</title></circle></a><a href="/setts/s7/r3lb8k9g16r12n12lo3~x2/"><circle cx="25.7" cy="217.5" r="4" fill="#3465a4"><title>Alabama (Fashion)</title></circle></a><a href="/setts/s9/r10lr36k24r30lo8k16w18db16lo9/"><circle cx="14.0" cy="200.8" r="4" fill="#3465a4"><title>Tipperary County Crest (Fashion)</title></circle></a><a href="/setts/s11/db4g4db4w1db1w1m4lo4w1g4m4~x4/"><circle cx="14.0" cy="205.4" r="4" fill="#3465a4"><title>Belwade</title></circle></a><a href="/setts/s8/dg14lb14db12lr8dy3k3dy3k5~x2/"><circle cx="14.0" cy="201.5" r="4" fill="#3465a4"><title>Somerset #2</title></circle></a><a href="/setts/s7/k16ly16r16g3db7w7k7~x2/"><circle cx="25.6" cy="198.3" r="4" fill="#3465a4"><title>Eusa</title></circle></a><a href="/setts/s8/w5y4b1y4r4b1dg4ly1~x2/"><circle cx="44.9" cy="202.9" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/setts/s9/m3lb2db6lb2dr8lo2g6lo2m2~x2/"><circle cx="14.0" cy="199.0" r="4" fill="#3465a4"><title>Bhutan</title></circle></a><a href="/setts/s6/dy19g23ly3db15r11w5~x2/"><circle cx="70.6" cy="205.9" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/setts/s8/m21lg4do5lg4m5k21g21lo5~x2/"><circle cx="64.6" cy="188.8" r="4" fill="#3465a4"><title>Caledonian Labrador Retrievers</title></circle></a><circle cx="20.9" cy="203.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/lo6r8k4w6y16k13lr19k5~x2/

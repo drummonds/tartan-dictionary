@@ -2,7 +2,7 @@
 title: "Clemens and August (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BWBRBRBY](/stripes/bwbrbrby/) · **Stripes:** [DB W DB R DB R DB LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB W DB R DB R DB LY</span></span>
+**Bands:** [YBRBRBWB](/stripes/ybrbrbwb/) · **Stripes:** [LY DB R DB R DB W DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB R DB R DB W DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7827
 
 ## Thread count
-DB/8 LN6 DB60 R16 DB6 R8 DB6 Y/70
+Y/70 DB6 R8 DB6 R16 DB60 LN6 DB/8
 ![Sett](sett.png)
 
 ## Palette
@@ -32,7 +32,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/8 LN6 DB60 R16 DB6 R8 DB6 Y/70 tartan")
+![Tartan detail](tartan.png "Y/70 DB6 R8 DB6 R16 DB60 LN6 DB/8 tartan")
 
 ## Nearest tartans
 
@@ -44,15 +44,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Auld Lang Syne, Grey (Fashion)](/setts/s12/k4w2k9k3r3w3r3w23k10w2k6w2~x2/) — ΔT 0.99
 1. [St. Piran Dress](/setts/s8/r4w19dg2w8dg2w8k38w4~x2/) — ΔT 1.03
 1. [Meg Merrilees, New (1831)](/setts/s9/t5r5k58r5t5r5w25r5t4/) — ΔT 1.04
-1. [Kyle, Grape (Dance)](/setts/s10/dp17lg1dp2k2dp2lg1dp3k8w17lg2~x4/) — ΔT 1.04
+1. [Kyle, Grape (Dance)](/setts/s10/dp17lg1dp2k2dp2lg1dp3k8w17lg2~x4/) — ΔT 1.05
 1. [Downside (Corporate)](/setts/s6/r4o41k5w14k18r4~x2/) — ΔT 1.07
 1. [MacRae, Dress](/setts/s11/r2k9t4w2k22w2t4w22t2w8r2~x2/) — ΔT 1.07
 1. [Clemens and August (Personal)](/setts/s8/w32db3r4db3r8db32w3db4~x2/) — ΔT 1.08
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r2w8k14o25w2k2w2~x2/"><circle cx="221.7" cy="156.5" r="4" fill="#3465a4"><title>Merric, Dark Camel..</title></circle></a><a href="/setts/s9/r1t1k11t1r1t1w11t1r1~x2/"><circle cx="188.4" cy="130.0" r="4" fill="#3465a4"><title>MacPherson #4</title></circle></a><a href="/setts/s9/r4w4k4w4k4w4k2o23w2~x2/"><circle cx="217.7" cy="144.4" r="4" fill="#3465a4"><title>Virtuoso (Corporate)</title></circle></a><a href="/setts/s12/k4w2k9k3r3w3r3w23k10w2k6w2~x2/"><circle cx="212.1" cy="137.2" r="4" fill="#3465a4"><title>Auld Lang Syne, Grey (Fashion)</title></circle></a><a href="/setts/s8/r4w19dg2w8dg2w8k38w4~x2/"><circle cx="258.0" cy="131.9" r="4" fill="#3465a4"><title>St. Piran Dress</title></circle></a><a href="/setts/s9/t5r5k58r5t5r5w25r5t4/"><circle cx="248.5" cy="122.8" r="4" fill="#3465a4"><title>Meg Merrilees, New (1831)</title></circle></a><a href="/setts/s10/dp17lg1dp2k2dp2lg1dp3k8w17lg2~x4/"><circle cx="219.0" cy="123.9" r="4" fill="#3465a4"><title>Kyle, Grape (Dance)</title></circle></a><a href="/setts/s6/r4o41k5w14k18r4~x2/"><circle cx="224.4" cy="181.9" r="4" fill="#3465a4"><title>Downside (Corporate)</title></circle></a><a href="/setts/s11/r2k9t4w2k22w2t4w22t2w8r2~x2/"><circle cx="192.2" cy="136.2" r="4" fill="#3465a4"><title>MacRae, Dress</title></circle></a><a href="/setts/s8/w32db3r4db3r8db32w3db4~x2/"><circle cx="229.0" cy="148.3" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><circle cx="227.6" cy="145.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r2w8k14o25w2k2w2~x2/"><circle cx="221.6" cy="156.4" r="4" fill="#3465a4"><title>Merric, Dark Camel..</title></circle></a><a href="/setts/s9/r1t1k11t1r1t1w11t1r1~x2/"><circle cx="188.1" cy="129.9" r="4" fill="#3465a4"><title>MacPherson #4</title></circle></a><a href="/setts/s9/r4w4k4w4k4w4k2o23w2~x2/"><circle cx="217.5" cy="144.3" r="4" fill="#3465a4"><title>Virtuoso (Corporate)</title></circle></a><a href="/setts/s12/k4w2k9k3r3w3r3w23k10w2k6w2~x2/"><circle cx="211.9" cy="137.1" r="4" fill="#3465a4"><title>Auld Lang Syne, Grey (Fashion)</title></circle></a><a href="/setts/s8/r4w19dg2w8dg2w8k38w4~x2/"><circle cx="257.8" cy="131.7" r="4" fill="#3465a4"><title>St. Piran Dress</title></circle></a><a href="/setts/s9/t5r5k58r5t5r5w25r5t4/"><circle cx="248.3" cy="122.7" r="4" fill="#3465a4"><title>Meg Merrilees, New (1831)</title></circle></a><a href="/setts/s10/dp17lg1dp2k2dp2lg1dp3k8w17lg2~x4/"><circle cx="218.8" cy="123.7" r="4" fill="#3465a4"><title>Kyle, Grape (Dance)</title></circle></a><a href="/setts/s6/r4o41k5w14k18r4~x2/"><circle cx="224.3" cy="181.7" r="4" fill="#3465a4"><title>Downside (Corporate)</title></circle></a><a href="/setts/s11/r2k9t4w2k22w2t4w22t2w8r2~x2/"><circle cx="192.0" cy="136.0" r="4" fill="#3465a4"><title>MacRae, Dress</title></circle></a><a href="/setts/s8/w32db3r4db3r8db32w3db4~x2/"><circle cx="228.8" cy="148.1" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><circle cx="227.4" cy="145.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/ly35db3r4db3r8db30w3db4~x2/

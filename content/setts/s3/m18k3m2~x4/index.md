@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DR/8 K12 DR/72
+DR/72 K12 DR/8
 ![Sett](sett.png)
 
 ## Palette
@@ -898,7 +901,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/8 K12 DR/72 tartan")
+![Tartan detail](tartan.png "DR/72 K12 DR/8 tartan")
 
 ## Nearest tartans
 
@@ -908,7 +911,7 @@ The nearest existing variants by ΔTartan distance.
 1. [International Karate Fed. (Corporat)](/setts/s3/r8w1k1~x20/) — ΔT 2.15
 1. [Martin, Robert N (Personal)](/setts/s5/r27w3r6w2dg3~x4/) — ΔT 2.36
 1. [Buie](/setts/s3/r18k3r2~x4/) — ΔT 2.40
-1. [Highland Spring (1988)](/setts/s6/dp3g1dp9r3dp9g1~x4/) — ΔT 2.43
+1. [Highland Spring (1988)](/setts/s6/dp3g1dp9r3~x4/) — ΔT 2.43
 1. [Highland Spring (1988) (Corporate)](/setts/s4/dp3g1dp9r3~x4/) — ΔT 2.44
 1. [Brooks Brothers Tattersall Red](/setts/s5/db1r9db2r9lo1~x4/) — ΔT 2.71
 1. [Masai Shuka 21 (Artefact)](/setts/s4/r40db2r6db15~x2/) — ΔT 2.71
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s2/r9lr1~x20/"><circle cx="626.0" cy="314.5" r="4" fill="#3465a4"><title>Roddy &quot;Rowdy&quot; Piper (Personal)</title></circle></a><a href="/setts/s3/r8w1k1~x20/"><circle cx="523.8" cy="246.4" r="4" fill="#3465a4"><title>International Karate Fed. (Corporat)</title></circle></a><a href="/setts/s5/r27w3r6w2dg3~x4/"><circle cx="549.9" cy="196.0" r="4" fill="#3465a4"><title>Martin, Robert N (Personal)</title></circle></a><a href="/setts/s3/r18k3r2~x4/"><circle cx="608.8" cy="252.2" r="4" fill="#3465a4"><title>Buie</title></circle></a><a href="/setts/s6/dp3g1dp9r3dp9g1~x4/"><circle cx="552.0" cy="265.4" r="4" fill="#3465a4"><title>Highland Spring (1988)</title></circle></a><a href="/setts/s4/dp3g1dp9r3~x4/"><circle cx="502.4" cy="275.6" r="4" fill="#3465a4"><title>Highland Spring (1988) (Corporate)</title></circle></a><a href="/setts/s5/db1r9db2r9lo1~x4/"><circle cx="607.2" cy="274.0" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Red</title></circle></a><a href="/setts/s4/r40db2r6db15~x2/"><circle cx="548.2" cy="225.8" r="4" fill="#3465a4"><title>Masai Shuka 21 (Artefact)</title></circle></a><a href="/setts/s7/o5k2o28k10o26k4o4~x2/"><circle cx="602.7" cy="251.1" r="4" fill="#3465a4"><title>Dunbar, John Telfer (Personal)</title></circle></a><a href="/setts/s8/r32k2r4k2r2k8r30lb3~x2/"><circle cx="565.1" cy="175.4" r="4" fill="#3465a4"><title>University of Chicago (Corporate)</title></circle></a><circle cx="626.0" cy="281.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s2/r9lr1~x20/"><circle cx="626.0" cy="313.9" r="4" fill="#3465a4"><title>Roddy &quot;Rowdy&quot; Piper (Personal)</title></circle></a><a href="/setts/s3/r8w1k1~x20/"><circle cx="523.4" cy="246.0" r="4" fill="#3465a4"><title>International Karate Fed. (Corporat)</title></circle></a><a href="/setts/s5/r27w3r6w2dg3~x4/"><circle cx="549.4" cy="195.6" r="4" fill="#3465a4"><title>Martin, Robert N (Personal)</title></circle></a><a href="/setts/s3/r18k3r2~x4/"><circle cx="608.3" cy="251.6" r="4" fill="#3465a4"><title>Buie</title></circle></a><a href="/setts/s6/dp3g1dp9r3~x4/"><circle cx="551.8" cy="265.0" r="4" fill="#3465a4"><title>Highland Spring (1988)</title></circle></a><a href="/setts/s4/dp3g1dp9r3~x4/"><circle cx="502.2" cy="275.3" r="4" fill="#3465a4"><title>Highland Spring (1988) (Corporate)</title></circle></a><a href="/setts/s5/db1r9db2r9lo1~x4/"><circle cx="606.7" cy="273.8" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Red</title></circle></a><a href="/setts/s4/r40db2r6db15~x2/"><circle cx="547.7" cy="225.4" r="4" fill="#3465a4"><title>Masai Shuka 21 (Artefact)</title></circle></a><a href="/setts/s7/o5k2o28k10o26k4o4~x2/"><circle cx="602.2" cy="250.8" r="4" fill="#3465a4"><title>Dunbar, John Telfer (Personal)</title></circle></a><a href="/setts/s8/r32k2r4k2r2k8r30lb3~x2/"><circle cx="564.6" cy="175.0" r="4" fill="#3465a4"><title>University of Chicago (Corporate)</title></circle></a><circle cx="626.0" cy="280.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/m18k3m2~x4/

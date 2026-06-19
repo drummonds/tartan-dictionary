@@ -2,7 +2,7 @@
 title: "MacLaren"
 date: 2023-03-18
 ---
-**Bands:** [WBKGWYWY](/stripes/wbkgwywy/) · **Stripes:** [W DB K G W LO W LY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W DB K G W LO W LY</span></span>
+**Bands:** [YWYWGKBW](/stripes/ywywgkbw/) · **Stripes:** [LY W LO W G K DB W](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY W LO W G K DB W</span></span>
 
 
 This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,18 +914,18 @@ The nearest existing variants by ΔTartan distance.
 1. [MacLaren Dress (Dance)](/setts/s8/w16db4k12dg4w6lo4w11ly7~x2/) — ΔT 0.31
 1. [MacLaren (D.C Dalgliesh version)](/setts/s8/w16db4k12dg4w6r4w11ly7~x2/) — ΔT 0.33
 1. [MacLaren Albino (Dance)](/setts/s8/lb8db2k6dg2lb3o2lb6ly4~x4/) — ΔT 0.71
-1. [Desang](/setts/s8/db4w2k3lb8dg2lb8w2dr4~x2/) — ΔT 0.88
+1. [Desang](/setts/s8/dr4w2lb8dg2lb8k3w2db4~x2/) — ΔT 0.88
 1. [Desang (Corporate)](/setts/s8/db4w2k3lb8g2lb8w2r4~x4/) — ΔT 1.03
 1. [MacDuff Dress](/setts/s8/w4k1w4dg6k4w5r1t2~x2/) — ΔT 1.26
 1. [MacDuff, dress](/setts/s8/w4k1w4g6k4w5r1t2~x2/) — ΔT 1.27
 1. [Game Fair (Corporate)](/setts/s7/dg3b12dg12w12dg2w12dg3~x2/) — ΔT 1.66
-1. [Spirit of 1994](/setts/s9/db13w4g15w4r13w4g15ly4k13~x2/) — ΔT 1.92
+1. [Spirit of 1994](/setts/s9/k13ly4g15w4r13w4g15w4db13~x2/) — ΔT 1.92
 1. [Mitsukoshi (Corporate)](/setts/s8/lb12k3lb3k3lb13t6k17r3~x2/) — ΔT 1.94
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w16db4k12dg4w6lo4w11ly7~x2/"><circle cx="102.3" cy="196.0" r="4" fill="#3465a4"><title>MacLaren Dress (Dance)</title></circle></a><a href="/setts/s8/w16db4k12dg4w6r4w11ly7~x2/"><circle cx="102.7" cy="195.3" r="4" fill="#3465a4"><title>MacLaren (D.C Dalgliesh version)</title></circle></a><a href="/setts/s8/lb8db2k6dg2lb3o2lb6ly4~x4/"><circle cx="101.1" cy="200.7" r="4" fill="#3465a4"><title>MacLaren Albino (Dance)</title></circle></a><a href="/setts/s8/db4w2k3lb8dg2lb8w2dr4~x2/"><circle cx="92.6" cy="190.5" r="4" fill="#3465a4"><title>Desang</title></circle></a><a href="/setts/s8/db4w2k3lb8g2lb8w2r4~x4/"><circle cx="97.6" cy="190.8" r="4" fill="#3465a4"><title>Desang (Corporate)</title></circle></a><a href="/setts/s8/w4k1w4dg6k4w5r1t2~x2/"><circle cx="120.4" cy="205.0" r="4" fill="#3465a4"><title>MacDuff Dress</title></circle></a><a href="/setts/s8/w4k1w4g6k4w5r1t2~x2/"><circle cx="113.6" cy="203.2" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/setts/s7/dg3b12dg12w12dg2w12dg3~x2/"><circle cx="87.0" cy="193.6" r="4" fill="#3465a4"><title>Game Fair (Corporate)</title></circle></a><a href="/setts/s9/db13w4g15w4r13w4g15ly4k13~x2/"><circle cx="14.0" cy="200.0" r="4" fill="#3465a4"><title>Spirit of 1994</title></circle></a><a href="/setts/s8/lb12k3lb3k3lb13t6k17r3~x2/"><circle cx="131.5" cy="190.0" r="4" fill="#3465a4"><title>Mitsukoshi (Corporate)</title></circle></a><circle cx="95.8" cy="193.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w16db4k12dg4w6lo4w11ly7~x2/"><circle cx="102.1" cy="195.9" r="4" fill="#3465a4"><title>MacLaren Dress (Dance)</title></circle></a><a href="/setts/s8/w16db4k12dg4w6r4w11ly7~x2/"><circle cx="102.6" cy="195.2" r="4" fill="#3465a4"><title>MacLaren (D.C Dalgliesh version)</title></circle></a><a href="/setts/s8/lb8db2k6dg2lb3o2lb6ly4~x4/"><circle cx="101.0" cy="200.6" r="4" fill="#3465a4"><title>MacLaren Albino (Dance)</title></circle></a><a href="/setts/s8/dr4w2lb8dg2lb8k3w2db4~x2/"><circle cx="92.5" cy="190.5" r="4" fill="#3465a4"><title>Desang</title></circle></a><a href="/setts/s8/db4w2k3lb8g2lb8w2r4~x4/"><circle cx="97.4" cy="190.7" r="4" fill="#3465a4"><title>Desang (Corporate)</title></circle></a><a href="/setts/s8/w4k1w4dg6k4w5r1t2~x2/"><circle cx="120.3" cy="204.9" r="4" fill="#3465a4"><title>MacDuff Dress</title></circle></a><a href="/setts/s8/w4k1w4g6k4w5r1t2~x2/"><circle cx="113.5" cy="203.0" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/setts/s7/dg3b12dg12w12dg2w12dg3~x2/"><circle cx="87.0" cy="193.6" r="4" fill="#3465a4"><title>Game Fair (Corporate)</title></circle></a><a href="/setts/s9/k13ly4g15w4r13w4g15w4db13~x2/"><circle cx="14.0" cy="200.0" r="4" fill="#3465a4"><title>Spirit of 1994</title></circle></a><a href="/setts/s8/lb12k3lb3k3lb13t6k17r3~x2/"><circle cx="131.5" cy="189.9" r="4" fill="#3465a4"><title>Mitsukoshi (Corporate)</title></circle></a><circle cx="95.6" cy="193.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/w16db4k12g4w6lo4w11ly7~x2/

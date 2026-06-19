@@ -20,7 +20,7 @@ BBKBRKRK
 
 
 
-### T DO K DO O K O K <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="seq">T DO K DO O K O K</span></span>
+### K O K O DO K DO T <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#00879F"></span><span class="seq">K O K O DO K DO T</span></span>
 
 | Tartans |
 |---------------|

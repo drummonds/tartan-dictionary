@@ -1,0 +1,47 @@
+---
+title: "Louisville Fire & Rescue P&D"
+date: 2023-03-18
+---
+**Bands:** [YBRBRBRBW](/stripes/ybrbrbrbw/) · **Stripes:** [LO DB R DB R DB R DB W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO DB R DB R DB R DB W</span></span>
+
+
+This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/8965/
+
+## Thread count
+DY/4 DB32 R12 DB8 R4 DB8 R12 DB32 LN/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DY | <code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> `#BC8C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.16 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Maud, Mary](/setts/s8/db65k9db21ly8db21w8db35r35/) — ΔT 1.16
+1. [International Festival of Authors](/setts/s6/dp30m5dp5t4dp4g12~x2/) — ΔT 1.32
+1. [Newton Primary School](/setts/s9/db26r3db3w2db3r3db6r6ly2~x4/) — ΔT 1.33
+1. [Mortell (Personal)](/setts/s10/db20b2w5r2db10b5db20b2w5r5~x2/) — ΔT 1.35
+1. [South Australian Pipes & Drums (Corp](/setts/s6/db60ly6db11r25~x2/) — ΔT 1.39
+1. [International Festival of Authors (C](/setts/s6/dp30m5dp5b4dp4g12~x2/) — ΔT 1.39
+1. [BC Corps of Commissionaires, The](/setts/s7/db12lb1r3lb1r3lb1db6~x4/) — ΔT 1.39
+1. [Parker (USA)](/setts/s14/db4r6db16w4db4w4db4w4db16lo2db16r6w3db4~x2/) — ΔT 1.42
+1. [Eidart](/setts/s12/db28r15db27r2db27r3db26n20w3n2w2n4~x2/) — ΔT 1.45
+1. [Orlando Fire Department (Corporate)](/setts/s9/db12ly1r16db1r1db14r3db14ly1~x4/) — ΔT 1.46
+
+## Neighbour map
+
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db65k9db21ly8db21w8db35r35/"><circle cx="350.1" cy="203.8" r="4" fill="#3465a4"><title>Maud, Mary</title></circle></a><a href="/setts/s6/dp30m5dp5t4dp4g12~x2/"><circle cx="349.1" cy="210.4" r="4" fill="#3465a4"><title>International Festival of Authors</title></circle></a><a href="/setts/s9/db26r3db3w2db3r3db6r6ly2~x4/"><circle cx="427.1" cy="161.3" r="4" fill="#3465a4"><title>Newton Primary School</title></circle></a><a href="/setts/s10/db20b2w5r2db10b5db20b2w5r5~x2/"><circle cx="337.7" cy="186.6" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/setts/s6/db60ly6db11r25~x2/"><circle cx="410.4" cy="214.8" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><a href="/setts/s6/dp30m5dp5b4dp4g12~x2/"><circle cx="364.8" cy="209.6" r="4" fill="#3465a4"><title>International Festival of Authors (C</title></circle></a><a href="/setts/s7/db12lb1r3lb1r3lb1db6~x4/"><circle cx="406.5" cy="208.3" r="4" fill="#3465a4"><title>BC Corps of Commissionaires, The</title></circle></a><a href="/setts/s14/db4r6db16w4db4w4db4w4db16lo2db16r6w3db4~x2/"><circle cx="329.8" cy="183.4" r="4" fill="#3465a4"><title>Parker (USA)</title></circle></a><a href="/setts/s12/db28r15db27r2db27r3db26n20w3n2w2n4~x2/"><circle cx="400.1" cy="188.8" r="4" fill="#3465a4"><title>Eidart</title></circle></a><a href="/setts/s9/db12ly1r16db1r1db14r3db14ly1~x4/"><circle cx="420.2" cy="190.8" r="4" fill="#3465a4"><title>Orlando Fire Department (Corporate)</title></circle></a><circle cx="382.3" cy="207.3" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s9/w1db8r3db2r1db2r3db8lo1~x4/

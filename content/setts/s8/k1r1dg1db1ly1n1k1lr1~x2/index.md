@@ -13,14 +13,22 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2625](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2625)
-- Scottish Register of Tartans: [3555](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3555)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 1429
 - Scottish Tartans Authority (ITI): 218
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1429
 - Scottish Tartans World Register: 218
-- Scottish Tartans World Register: 864
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Thread count
 K/2 DR2 DG2 DB2 LG2 N2 D2 Na/2
@@ -50,8 +58,8 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Krifa-Jean (Personal)](/setts/s7/dg4r5ly4db4dy2k4r4~x10/) — ΔT 2.98
 1. [Krifa-Jean (Personal)](/setts/s7/dg4r5db4ly4do2o4r4~x5/) — ΔT 3.26
-1. [Antonelli (Oklahoma), John (Personal)](/setts/s6/db1g1db1r1lt1k1~x25/) — ΔT 3.49
-1. [Antonello (Personal)](/setts/s6/db1g1db1r1t1k1~x24/) — ΔT 3.53
+1. [Antonelli (Oklahoma), John (Personal)](/setts/s6/k1lt1r1db1g1db1~x25/) — ΔT 3.49
+1. [Antonello (Personal)](/setts/s6/k1t1r1db1g1db1~x24/) — ΔT 3.53
 1. [Reid (Mill City) (Name)](/setts/s8/db11db11db11g11g11dg11w3r5~x2/) — ΔT 3.84
 1. [Williams, Edmund (Personal)](/setts/s6/dp15dp15g15dg15k8w5~x2/) — ΔT 3.94
 1. [Welly (Personal)](/setts/s18/n1m1n1g1n1w1m1g1w1m1g1m1m1n1n1m1g1w1~x10/) — ΔT 4.00
@@ -61,8 +69,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/dg4r5ly4db4dy2k4r4~x10/"><circle cx="14.0" cy="255.5" r="4" fill="#3465a4"><title>Krifa-Jean (Personal)</title></circle></a><a href="/setts/s7/dg4r5db4ly4do2o4r4~x5/"><circle cx="14.0" cy="259.9" r="4" fill="#3465a4"><title>Krifa-Jean (Personal)</title></circle></a><a href="/setts/s6/db1g1db1r1lt1k1~x25/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Antonelli (Oklahoma), John (Personal)</title></circle></a><a href="/setts/s6/db1g1db1r1t1k1~x24/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Antonello (Personal)</title></circle></a><a href="/setts/s8/db11db11db11g11g11dg11w3r5~x2/"><circle cx="14.0" cy="231.5" r="4" fill="#3465a4"><title>Reid (Mill City) (Name)</title></circle></a><a href="/setts/s6/dp15dp15g15dg15k8w5~x2/"><circle cx="14.0" cy="265.6" r="4" fill="#3465a4"><title>Williams, Edmund (Personal)</title></circle></a><a href="/setts/s18/n1m1n1g1n1w1m1g1w1m1g1m1m1n1n1m1g1w1~x10/"><circle cx="14.0" cy="322.6" r="4" fill="#3465a4"><title>Welly (Personal)</title></circle></a><a href="/setts/s8/db11db11db11lg11g11g11w3r5~x2/"><circle cx="14.0" cy="216.9" r="4" fill="#3465a4"><title>Reid (Mill City)</title></circle></a><a href="/setts/s9/lp2w1y1g1g1dg1y1g1dg1~x20/"><circle cx="14.0" cy="274.3" r="4" fill="#3465a4"><title>Stirling Millennium</title></circle></a><a href="/setts/s6/lb3lb2db3r3k3ly1~x8/"><circle cx="14.0" cy="254.4" r="4" fill="#3465a4"><title>Becker (Name)</title></circle></a><circle cx="14.0" cy="326.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/dg4r5ly4db4dy2k4r4~x10/"><circle cx="14.0" cy="255.7" r="4" fill="#3465a4"><title>Krifa-Jean (Personal)</title></circle></a><a href="/setts/s7/dg4r5db4ly4do2o4r4~x5/"><circle cx="14.0" cy="260.2" r="4" fill="#3465a4"><title>Krifa-Jean (Personal)</title></circle></a><a href="/setts/s6/k1lt1r1db1g1db1~x25/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Antonelli (Oklahoma), John (Personal)</title></circle></a><a href="/setts/s6/k1t1r1db1g1db1~x24/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Antonello (Personal)</title></circle></a><a href="/setts/s8/db11db11db11g11g11dg11w3r5~x2/"><circle cx="14.0" cy="231.8" r="4" fill="#3465a4"><title>Reid (Mill City) (Name)</title></circle></a><a href="/setts/s6/dp15dp15g15dg15k8w5~x2/"><circle cx="14.0" cy="265.8" r="4" fill="#3465a4"><title>Williams, Edmund (Personal)</title></circle></a><a href="/setts/s18/n1m1n1g1n1w1m1g1w1m1g1m1m1n1n1m1g1w1~x10/"><circle cx="14.0" cy="322.8" r="4" fill="#3465a4"><title>Welly (Personal)</title></circle></a><a href="/setts/s8/db11db11db11lg11g11g11w3r5~x2/"><circle cx="14.0" cy="217.2" r="4" fill="#3465a4"><title>Reid (Mill City)</title></circle></a><a href="/setts/s9/lp2w1y1g1g1dg1y1g1dg1~x20/"><circle cx="14.0" cy="274.5" r="4" fill="#3465a4"><title>Stirling Millennium</title></circle></a><a href="/setts/s6/lb3lb2db3r3k3ly1~x8/"><circle cx="14.0" cy="254.5" r="4" fill="#3465a4"><title>Becker (Name)</title></circle></a><circle cx="14.0" cy="326.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k1r1dg1db1ly1n1k1lr1~x2/

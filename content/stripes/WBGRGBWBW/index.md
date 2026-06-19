@@ -22,6 +22,6 @@ WBGRGBWBW
 
 | Tartans |
 |---------------|
-| [Seaford House](/setts/s9/lb3db3lb12db26g26r3g26db28w3/)|
-|![Seaford House example sett](/setts/s9/lb3db3lb12db26g26r3g26db28w3/sett.png)|
+| [Seaford House](/setts/s9/w3db28g26r3g26db26lb12db3lb3/)|
+|![Seaford House example sett](/setts/s9/w3db28g26r3g26db26lb12db3lb3/sett.png)|
 

@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands1
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1095/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Ikelman No. 5
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -319,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,21 +925,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Haig & Haig Whisky](/setts/s8/r26k18r7k4ly4k4r7k18~x2/) — ΔT 1.00
+1. [Haig & Haig Whisky](/setts/s8/r26k18r7k4ly4~x2/) — ΔT 1.00
 1. [bodog.com Corporate Tartan Tartan Number: 6889. Earliest known date: 2006 Corporate brand name and colours, red, black and silver grey used to support brand identification. Company owner and executive is Scottish. First tartan to be name after a web site and first ever tartan for Costa Rica. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k25r25k10lb3k10r25k25r3~x2/) — ΔT 1.19
-1. [MacIver (Clan)](/setts/s9/ly2r12k3r3k16r3k3r12w2~x2/) — ΔT 1.22
+1. [MacIver (Clan)](/setts/s9/w2r12k3r3k16r3k3r12ly2~x2/) — ΔT 1.22
 1. [MacKinnon Black (Personal)](/setts/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/) — ΔT 1.23
 1. [Brice](/setts/s10/k9r18w2k2w4k2w2r12k9r6~x2/) — ΔT 1.25
 1. [MacKeane (Clan?)](/setts/s7/r4k8r4k8r12k1ly1~x2/) — ΔT 1.27
 1. [Border Reiver, The](/setts/s11/r5k5r2k1r1k1r2k5r5k1r2~x4/) — ΔT 1.27
 1. [Cameron of Locheil #3](/setts/s9/r24db8r23k4w4k4r10k32r8/) — ΔT 1.31
-1. [Hebrides South Uist #3](/setts/s18/g8r1k1r8g1r8k1r1k8r1k8r1k1r8g1r8k1r1~x6/) — ΔT 1.32
+1. [Hebrides South Uist #3](/setts/s18/g8r1k1r8g1r8k1r1k8r1~x6/) — ΔT 1.32
 1. [MacNicol](/setts/s12/r6dg1r6k4r1b1r1dg8r6k1r6dg1~x2/) — ΔT 1.32
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r26k18r7k4ly4k4r7k18~x2/"><circle cx="284.1" cy="227.6" r="4" fill="#3465a4"><title>Haig &amp; Haig Whisky</title></circle></a><a href="/setts/s8/k25r25k10lb3k10r25k25r3~x2/"><circle cx="314.6" cy="236.3" r="4" fill="#3465a4"><title>bodog.com Corporate Tartan Tartan Number: 6889. Earliest known date: 2006 Corporate brand name and colours, red, black and silver grey used to support brand identification. Company owner and executive is Scottish. First tartan to be name after a web site and first ever tartan for Costa Rica. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/ly2r12k3r3k16r3k3r12w2~x2/"><circle cx="283.1" cy="182.3" r="4" fill="#3465a4"><title>MacIver (Clan)</title></circle></a><a href="/setts/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/"><circle cx="258.7" cy="174.1" r="4" fill="#3465a4"><title>MacKinnon Black (Personal)</title></circle></a><a href="/setts/s10/k9r18w2k2w4k2w2r12k9r6~x2/"><circle cx="280.8" cy="184.6" r="4" fill="#3465a4"><title>Brice</title></circle></a><a href="/setts/s7/r4k8r4k8r12k1ly1~x2/"><circle cx="328.0" cy="214.1" r="4" fill="#3465a4"><title>MacKeane (Clan?)</title></circle></a><a href="/setts/s11/r5k5r2k1r1k1r2k5r5k1r2~x4/"><circle cx="329.9" cy="248.8" r="4" fill="#3465a4"><title>Border Reiver, The</title></circle></a><a href="/setts/s9/r24db8r23k4w4k4r10k32r8/"><circle cx="281.2" cy="186.2" r="4" fill="#3465a4"><title>Cameron of Locheil #3</title></circle></a><a href="/setts/s18/g8r1k1r8g1r8k1r1k8r1k8r1k1r8g1r8k1r1~x6/"><circle cx="303.9" cy="171.0" r="4" fill="#3465a4"><title>Hebrides South Uist #3</title></circle></a><a href="/setts/s12/r6dg1r6k4r1b1r1dg8r6k1r6dg1~x2/"><circle cx="325.1" cy="193.6" r="4" fill="#3465a4"><title>MacNicol</title></circle></a><circle cx="309.7" cy="201.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r26k18r7k4ly4~x2/"><circle cx="283.9" cy="227.4" r="4" fill="#3465a4"><title>Haig &amp; Haig Whisky</title></circle></a><a href="/setts/s8/k25r25k10lb3k10r25k25r3~x2/"><circle cx="314.5" cy="236.1" r="4" fill="#3465a4"><title>bodog.com Corporate Tartan Tartan Number: 6889. Earliest known date: 2006 Corporate brand name and colours, red, black and silver grey used to support brand identification. Company owner and executive is Scottish. First tartan to be name after a web site and first ever tartan for Costa Rica. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/w2r12k3r3k16r3k3r12ly2~x2/"><circle cx="282.9" cy="182.1" r="4" fill="#3465a4"><title>MacIver (Clan)</title></circle></a><a href="/setts/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/"><circle cx="258.6" cy="174.0" r="4" fill="#3465a4"><title>MacKinnon Black (Personal)</title></circle></a><a href="/setts/s10/k9r18w2k2w4k2w2r12k9r6~x2/"><circle cx="280.5" cy="184.4" r="4" fill="#3465a4"><title>Brice</title></circle></a><a href="/setts/s7/r4k8r4k8r12k1ly1~x2/"><circle cx="327.8" cy="213.9" r="4" fill="#3465a4"><title>MacKeane (Clan?)</title></circle></a><a href="/setts/s11/r5k5r2k1r1k1r2k5r5k1r2~x4/"><circle cx="329.7" cy="248.6" r="4" fill="#3465a4"><title>Border Reiver, The</title></circle></a><a href="/setts/s9/r24db8r23k4w4k4r10k32r8/"><circle cx="281.0" cy="186.0" r="4" fill="#3465a4"><title>Cameron of Locheil #3</title></circle></a><a href="/setts/s18/g8r1k1r8g1r8k1r1k8r1~x6/"><circle cx="303.6" cy="170.8" r="4" fill="#3465a4"><title>Hebrides South Uist #3</title></circle></a><a href="/setts/s12/r6dg1r6k4r1b1r1dg8r6k1r6dg1~x2/"><circle cx="324.8" cy="193.5" r="4" fill="#3465a4"><title>MacNicol</title></circle></a><circle cx="309.4" cy="201.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r16k2r2k2r13k12r2k12r13k13r2ly2~x2/

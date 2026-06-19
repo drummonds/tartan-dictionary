@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5937
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Galway County, Crest Range
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -17,7 +23,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 3085
 
 ## Thread count
-LN/8 K6 DR50 K10 DB30 K6 DB30 B10 N/20
+N/20 B10 DB30 K6 DB30 K10 DR50 K6 LN/8
 ![Sett](sett.png)
 
 ## Palette
@@ -49,8 +55,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g3dg12dp6g3dp15lo2dp2~x2/"><circle cx="175.3" cy="201.2" r="4" fill="#3465a4"><title>Myres Castle (Corporate)</title></circle></a><a href="/setts/s9/o10t5db15k3db15k5r25k3w4~x2/"><circle cx="124.4" cy="172.8" r="4" fill="#3465a4"><title>Galway County Crest (Fashion)</title></circle></a><a href="/setts/s11/r6db24r3db12r7db12k3dg8ly3dg8k3/"><circle cx="85.8" cy="175.7" r="4" fill="#3465a4"><title>South Australia #2</title></circle></a><a href="/setts/s10/g4do21lo10do5lo4r4db10g6db30lb4~x2/"><circle cx="159.6" cy="172.0" r="4" fill="#3465a4"><title>State Seal of Arizona (Fashion)</title></circle></a><a href="/setts/s12/do8y8do4y28k12dt6k12r4dt8r4dt29lr6/"><circle cx="110.2" cy="174.1" r="4" fill="#3465a4"><title>Kinloch Anderson Castle Grey</title></circle></a><a href="/setts/s10/db2r2db2w1db8k8dg8r2dg2ly2~x2/"><circle cx="104.4" cy="175.8" r="4" fill="#3465a4"><title>Logan Rogers</title></circle></a><a href="/setts/s10/r6g3r24t7r4t7k18g4k7g3/"><circle cx="164.4" cy="187.2" r="4" fill="#3465a4"><title>Law Society of Scotland (Corporate)</title></circle></a><a href="/setts/s9/k23y2m3db7m3y2dg15m21y5~x2/"><circle cx="171.1" cy="179.2" r="4" fill="#3465a4"><title>Land's End (Unnamed Maroon)</title></circle></a><a href="/setts/s10/m4k16o5n8o2dp2o2dp2n8k3~x2/"><circle cx="159.5" cy="186.6" r="4" fill="#3465a4"><title>Ryukoku University Heian JHS (Corp)</title></circle></a><a href="/setts/s10/k4dy6lo3dy10dt14m6k18m6dt4m2~x2/"><circle cx="143.5" cy="209.8" r="4" fill="#3465a4"><title>Tupper, Sir Charles</title></circle></a><circle cx="142.2" cy="184.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g3dg12dp6g3dp15lo2dp2~x2/"><circle cx="175.4" cy="201.3" r="4" fill="#3465a4"><title>Myres Castle (Corporate)</title></circle></a><a href="/setts/s9/o10t5db15k3db15k5r25k3w4~x2/"><circle cx="124.5" cy="172.9" r="4" fill="#3465a4"><title>Galway County Crest (Fashion)</title></circle></a><a href="/setts/s11/r6db24r3db12r7db12k3dg8ly3dg8k3/"><circle cx="86.0" cy="175.9" r="4" fill="#3465a4"><title>South Australia #2</title></circle></a><a href="/setts/s10/g4do21lo10do5lo4r4db10g6db30lb4~x2/"><circle cx="159.6" cy="172.1" r="4" fill="#3465a4"><title>State Seal of Arizona (Fashion)</title></circle></a><a href="/setts/s12/do8y8do4y28k12dt6k12r4dt8r4dt29lr6/"><circle cx="110.3" cy="174.3" r="4" fill="#3465a4"><title>Kinloch Anderson Castle Grey</title></circle></a><a href="/setts/s10/db2r2db2w1db8k8dg8r2dg2ly2~x2/"><circle cx="104.6" cy="176.0" r="4" fill="#3465a4"><title>Logan Rogers</title></circle></a><a href="/setts/s10/r6g3r24t7r4t7k18g4k7g3/"><circle cx="164.5" cy="187.3" r="4" fill="#3465a4"><title>Law Society of Scotland (Corporate)</title></circle></a><a href="/setts/s9/k23y2m3db7m3y2dg15m21y5~x2/"><circle cx="171.3" cy="179.4" r="4" fill="#3465a4"><title>Land's End (Unnamed Maroon)</title></circle></a><a href="/setts/s10/m4k16o5n8o2dp2o2dp2n8k3~x2/"><circle cx="159.5" cy="186.7" r="4" fill="#3465a4"><title>Ryukoku University Heian JHS (Corp)</title></circle></a><a href="/setts/s10/k4dy6lo3dy10dt14m6k18m6dt4m2~x2/"><circle cx="143.7" cy="210.0" r="4" fill="#3465a4"><title>Tupper, Sir Charles</title></circle></a><circle cx="142.3" cy="184.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/n10db5db15k3db15k5r25k3w4~x2/

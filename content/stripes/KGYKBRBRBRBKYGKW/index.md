@@ -22,6 +22,6 @@ KGYKBRBRBRBKYGKW
 
 | Tartans |
 |---------------|
-| [Whitson](/setts/s16/lb4k1y19lo1k19n13r2n4r2n4r2n13k19lo1y19k1~x4/)|
-|![Whitson example sett](/setts/s16/lb4k1y19lo1k19n13r2n4r2n4r2n13k19lo1y19k1~x4/sett.png)|
+| [Whitson](/setts/s16/lb4k1y19lo1k19n13r2n4r2~x4/)|
+|![Whitson example sett](/setts/s16/lb4k1y19lo1k19n13r2n4r2~x4/sett.png)|
 

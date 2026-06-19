@@ -78,20 +78,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Scott](/setts/s10/dg4r3k1r28dg14r4dg4lr3dg4r4~x2/) — ΔT 0.37
-1. [Scott](/setts/s10/dg4r3k1r28dg14r4dg4lr3dg4r4/) — ΔT 0.37
 1. [MacPhie](/setts/s9/lr1r12dg2r1dg16r1dg2r12ly1~x2/) — ΔT 0.76
-1. [Cumming VS](/setts/s10/r4dg8lb1dg8r4dg4r2dg4r24k2/) — ΔT 0.90
+1. [Cumming VS](/setts/s10/r4dg8lb1dg8r4dg4r2dg4r24k2~x2/) — ΔT 0.90
 1. [MacDonell of Keppoch](/setts/s10/dg2r2db1r24b1db6r3dg12r4db1~x2/) — ΔT 0.94
+1. [MacDonell of Keppoch](/setts/s10/dg2r2db1r24b1db6r3dg12r4db1/) — ΔT 0.94
 1. [Livingston](/setts/s10/dg12r4k1r2k1r4dg16r20dg2r8~x2/) — ΔT 1.00
 1. [MacDonell of Keppoch](/setts/s10/g2r2db1r24t1db6r3g12r4db1~x2/) — ΔT 1.04
-1. [Scott](/setts/s10/dg4r3k1r28dg14r4dg4lb3dg4r4/) — ΔT 1.05
+1. [Scott](/setts/s10/dg4r3k1r28dg14r4dg4lb3dg4r4~x2/) — ΔT 1.05
 1. [Cumming/Comyn](/setts/s10/r4dg8w1dg8r4dg4r2dg4r24k2~x2/) — ΔT 1.09
 1. [MacDonell of Keppoch](/setts/s10/dg2r2db1r24t1db6r3dg12r4db1~x2/) — ΔT 1.10
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dg4r3k1r28dg14r4dg4lr3dg4r4~x2/"><circle cx="408.9" cy="141.3" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s10/dg4r3k1r28dg14r4dg4lr3dg4r4/"><circle cx="408.9" cy="141.3" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s9/lr1r12dg2r1dg16r1dg2r12ly1~x2/"><circle cx="387.9" cy="172.5" r="4" fill="#3465a4"><title>MacPhie</title></circle></a><a href="/setts/s10/r4dg8lb1dg8r4dg4r2dg4r24k2/"><circle cx="372.6" cy="137.6" r="4" fill="#3465a4"><title>Cumming VS</title></circle></a><a href="/setts/s10/dg2r2db1r24b1db6r3dg12r4db1~x2/"><circle cx="398.5" cy="136.2" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s10/dg12r4k1r2k1r4dg16r20dg2r8~x2/"><circle cx="403.0" cy="187.7" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/setts/s10/g2r2db1r24t1db6r3g12r4db1~x2/"><circle cx="396.1" cy="130.3" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s10/dg4r3k1r28dg14r4dg4lb3dg4r4/"><circle cx="384.0" cy="124.9" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s10/r4dg8w1dg8r4dg4r2dg4r24k2~x2/"><circle cx="372.0" cy="134.0" r="4" fill="#3465a4"><title>Cumming/Comyn</title></circle></a><a href="/setts/s10/dg2r2db1r24t1db6r3dg12r4db1~x2/"><circle cx="400.9" cy="130.6" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><circle cx="395.7" cy="152.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dg4r3k1r28dg14r4dg4lr3dg4r4~x2/"><circle cx="408.5" cy="141.2" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s9/lr1r12dg2r1dg16r1dg2r12ly1~x2/"><circle cx="387.5" cy="172.4" r="4" fill="#3465a4"><title>MacPhie</title></circle></a><a href="/setts/s10/r4dg8lb1dg8r4dg4r2dg4r24k2~x2/"><circle cx="372.2" cy="137.5" r="4" fill="#3465a4"><title>Cumming VS</title></circle></a><a href="/setts/s10/dg2r2db1r24b1db6r3dg12r4db1~x2/"><circle cx="398.2" cy="136.1" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s10/dg2r2db1r24b1db6r3dg12r4db1/"><circle cx="398.2" cy="136.1" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s10/dg12r4k1r2k1r4dg16r20dg2r8~x2/"><circle cx="402.7" cy="187.6" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/setts/s10/g2r2db1r24t1db6r3g12r4db1~x2/"><circle cx="395.6" cy="130.2" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s10/dg4r3k1r28dg14r4dg4lb3dg4r4~x2/"><circle cx="383.6" cy="124.8" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s10/r4dg8w1dg8r4dg4r2dg4r24k2~x2/"><circle cx="371.6" cy="133.8" r="4" fill="#3465a4"><title>Cumming/Comyn</title></circle></a><a href="/setts/s10/dg2r2db1r24t1db6r3dg12r4db1~x2/"><circle cx="400.5" cy="130.5" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><circle cx="395.4" cy="152.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r4dg8lr1dg8r4dg4r2dg4r24k2~x2/

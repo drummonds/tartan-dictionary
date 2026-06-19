@@ -2,12 +2,18 @@
 title: "Harmony 13"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBG](/stripes/bgbgbg/) · **Stripes:** [T Y T Y T Y](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">T Y T Y T Y</span></span>
+**Bands:** [GBGBGB](/stripes/gbgbgb/) · **Stripes:** [Y T Y T Y T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#00879F"></span><span class="seq">Y T Y T Y T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1615
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Harmony, No 13
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -915,7 +924,7 @@ The nearest existing variants by ΔTartan distance.
 1. [McKerrell of Hillhouse Dress](/setts/s6/t48o28w4o28t48ly3~x2/) — ΔT 2.38
 1. [Bute Heather, Ancient Wth'd (Fashion](/setts/s11/lo5n2y8n1y8n4y4n6y18lr1lo5~x2/) — ΔT 2.92
 1. [Wicklow Irish County Tartan Tartan Number: 2265. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/dy2n4y12n3dy6t2n24dy2n2y2~x2/) — ΔT 3.02
-1. [Harmony 11 #2](/setts/s6/dg6dy2dg29dy29dg2dy6~x2/) — ΔT 3.24
+1. [Harmony 11 #2](/setts/s6/dy6dg2dy29dg29dy2dg6~x2/) — ΔT 3.24
 1. [Hebridean Cairn Fashion Tartan Tartan Number: 6822. Earliest known date: 2005 For a new House of Edgar Collection in wedding gray. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/n2y3n3y3n10y2n18y1~x4/) — ΔT 3.41
 1. [Loch Garth](/setts/s4/o12o6o2ly1~x4/) — ΔT 3.46
 1. [London Regiment (Military)](/setts/s6/y34n27r3n27y34w3~x2/) — ΔT 3.67
@@ -924,8 +933,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/o6y2o29y29o2y6~x2/"><circle cx="626.0" cy="359.7" r="4" fill="#3465a4"><title>Harmony, 12</title></circle></a><a href="/setts/s6/t48o28w4o28t48ly3~x2/"><circle cx="550.9" cy="328.9" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Dress</title></circle></a><a href="/setts/s11/lo5n2y8n1y8n4y4n6y18lr1lo5~x2/"><circle cx="560.0" cy="292.4" r="4" fill="#3465a4"><title>Bute Heather, Ancient Wth'd (Fashion</title></circle></a><a href="/setts/s10/dy2n4y12n3dy6t2n24dy2n2y2~x2/"><circle cx="551.9" cy="298.9" r="4" fill="#3465a4"><title>Wicklow Irish County Tartan Tartan Number: 2265. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/dg6dy2dg29dy29dg2dy6~x2/"><circle cx="622.0" cy="366.0" r="4" fill="#3465a4"><title>Harmony 11 #2</title></circle></a><a href="/setts/s8/n2y3n3y3n10y2n18y1~x4/"><circle cx="626.0" cy="322.5" r="4" fill="#3465a4"><title>Hebridean Cairn Fashion Tartan Tartan Number: 6822. Earliest known date: 2005 For a new House of Edgar Collection in wedding gray. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/o12o6o2ly1~x4/"><circle cx="620.2" cy="354.7" r="4" fill="#3465a4"><title>Loch Garth</title></circle></a><a href="/setts/s6/y34n27r3n27y34w3~x2/"><circle cx="468.4" cy="328.1" r="4" fill="#3465a4"><title>London Regiment (Military)</title></circle></a><a href="/setts/s4/y14n7lo6n2~x8/"><circle cx="437.1" cy="366.0" r="4" fill="#3465a4"><title>Outlander #3</title></circle></a><a href="/setts/s5/do11n1do4n8r1~x8/"><circle cx="545.2" cy="340.0" r="4" fill="#3465a4"><title>Cairns, David (Personal)</title></circle></a><circle cx="626.0" cy="366.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/o6y2o29y29o2y6~x2/"><circle cx="626.0" cy="360.1" r="4" fill="#3465a4"><title>Harmony, 12</title></circle></a><a href="/setts/s6/t48o28w4o28t48ly3~x2/"><circle cx="550.5" cy="329.2" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Dress</title></circle></a><a href="/setts/s11/lo5n2y8n1y8n4y4n6y18lr1lo5~x2/"><circle cx="559.6" cy="292.7" r="4" fill="#3465a4"><title>Bute Heather, Ancient Wth'd (Fashion</title></circle></a><a href="/setts/s10/dy2n4y12n3dy6t2n24dy2n2y2~x2/"><circle cx="551.6" cy="299.3" r="4" fill="#3465a4"><title>Wicklow Irish County Tartan Tartan Number: 2265. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/dy6dg2dy29dg29dy2dg6~x2/"><circle cx="621.8" cy="366.0" r="4" fill="#3465a4"><title>Harmony 11 #2</title></circle></a><a href="/setts/s8/n2y3n3y3n10y2n18y1~x4/"><circle cx="626.0" cy="322.6" r="4" fill="#3465a4"><title>Hebridean Cairn Fashion Tartan Tartan Number: 6822. Earliest known date: 2005 For a new House of Edgar Collection in wedding gray. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/o12o6o2ly1~x4/"><circle cx="619.8" cy="354.9" r="4" fill="#3465a4"><title>Loch Garth</title></circle></a><a href="/setts/s6/y34n27r3n27y34w3~x2/"><circle cx="468.2" cy="328.3" r="4" fill="#3465a4"><title>London Regiment (Military)</title></circle></a><a href="/setts/s4/y14n7lo6n2~x8/"><circle cx="436.9" cy="366.0" r="4" fill="#3465a4"><title>Outlander #3</title></circle></a><a href="/setts/s5/do11n1do4n8r1~x8/"><circle cx="545.1" cy="340.1" r="4" fill="#3465a4"><title>Cairns, David (Personal)</title></circle></a><circle cx="626.0" cy="366.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/t10y1t1y10t18y5~x2/

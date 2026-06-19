@@ -2,7 +2,7 @@
 title: "Bannockbane, Modern Silver"
 date: 2023-03-18
 ---
-**Bands:** [BRBRWGRG](/stripes/brbrwgrg/) · **Stripes:** [DB O DB O W Y O Y](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DB O DB O W Y O Y</span></span>
+**Bands:** [GRGWRBRB](/stripes/grgwrbrb/) · **Stripes:** [Y O Y W O DB O DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="seq">Y O Y W O DB O DB</span></span>
 
 
 This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/6 T4 B36 T2 LN20 N36 T4 N/6
+N/6 T4 N36 LN20 T2 B36 T4 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -900,7 +903,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/6 T4 B36 T2 LN20 N36 T4 N/6 tartan")
+![Tartan detail](tartan.png "N/6 T4 N36 LN20 T2 B36 T4 B/6 tartan")
 
 ## Nearest tartans
 
@@ -911,7 +914,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Scotland 2000 Commemorative Tartan Tartan Number: 2514. Earliest known date: 1999 Strathmore Woollen Mills Millenium tartan designed by Arthur Mackie of Strathmore Woollen Co., Forfar See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/w4t30g6r2g6r28ly2r3~x2/) — ΔT 1.21
 1. [Gorman Blue (Personal)](/setts/s8/w4n1ly2n22dt20w2dt4w2~x2/) — ΔT 1.25
 1. [MacPherson Hunting](/setts/s9/b11r1k8r1b1r1o8r1b1~x4/) — ΔT 1.29
-1. [Sean F Forrester (Personal)](/setts/s9/ly3do4ly1do15p24lr15w1lr4w3~x4/) — ΔT 1.31
+1. [Sean F Forrester (Personal)](/setts/s9/w3lr4w1lr15p24do15ly1do4ly3~x4/) — ΔT 1.31
 1. [Scottish Highlander, dress](/setts/s8/lp26w2lp3db15y26m2y3db4~x2/) — ΔT 1.32
 1. [Confederate (Military)](/setts/s7/r12b18k1r4k1g6k2~x2/) — ΔT 1.37
 1. [Sonsub](/setts/s10/n30k5n19k5n2lr20ly2lr20k5ly4~x2/) — ΔT 1.37
@@ -919,8 +922,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db3dr2db18dr1w10o18dr2o3~x2/"><circle cx="202.1" cy="152.4" r="4" fill="#3465a4"><title>Bannockbane Silver</title></circle></a><a href="/setts/s7/dt7w3dt2w6dt16t26r4~x2/"><circle cx="213.6" cy="182.0" r="4" fill="#3465a4"><title>Keela (Corporate)</title></circle></a><a href="/setts/s8/w4t30g6r2g6r28ly2r3~x2/"><circle cx="238.7" cy="147.7" r="4" fill="#3465a4"><title>Scotland 2000 Commemorative Tartan Tartan Number: 2514. Earliest known date: 1999 Strathmore Woollen Mills Millenium tartan designed by Arthur Mackie of Strathmore Woollen Co., Forfar See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/w4n1ly2n22dt20w2dt4w2~x2/"><circle cx="278.3" cy="155.1" r="4" fill="#3465a4"><title>Gorman Blue (Personal)</title></circle></a><a href="/setts/s9/b11r1k8r1b1r1o8r1b1~x4/"><circle cx="214.2" cy="174.3" r="4" fill="#3465a4"><title>MacPherson Hunting</title></circle></a><a href="/setts/s9/ly3do4ly1do15p24lr15w1lr4w3~x4/"><circle cx="183.1" cy="119.7" r="4" fill="#3465a4"><title>Sean F Forrester (Personal)</title></circle></a><a href="/setts/s8/lp26w2lp3db15y26m2y3db4~x2/"><circle cx="178.6" cy="146.6" r="4" fill="#3465a4"><title>Scottish Highlander, dress</title></circle></a><a href="/setts/s7/r12b18k1r4k1g6k2~x2/"><circle cx="238.2" cy="162.7" r="4" fill="#3465a4"><title>Confederate (Military)</title></circle></a><a href="/setts/s10/n30k5n19k5n2lr20ly2lr20k5ly4~x2/"><circle cx="256.4" cy="173.5" r="4" fill="#3465a4"><title>Sonsub</title></circle></a><a href="/setts/s8/w9b3ly3b24db24ly2db2ly2~x2/"><circle cx="211.1" cy="168.7" r="4" fill="#3465a4"><title>Halesowen (District)</title></circle></a><circle cx="224.2" cy="163.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db3dr2db18dr1w10o18dr2o3~x2/"><circle cx="202.0" cy="152.3" r="4" fill="#3465a4"><title>Bannockbane Silver</title></circle></a><a href="/setts/s7/dt7w3dt2w6dt16t26r4~x2/"><circle cx="213.5" cy="181.9" r="4" fill="#3465a4"><title>Keela (Corporate)</title></circle></a><a href="/setts/s8/w4t30g6r2g6r28ly2r3~x2/"><circle cx="238.5" cy="147.7" r="4" fill="#3465a4"><title>Scotland 2000 Commemorative Tartan Tartan Number: 2514. Earliest known date: 1999 Strathmore Woollen Mills Millenium tartan designed by Arthur Mackie of Strathmore Woollen Co., Forfar See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/w4n1ly2n22dt20w2dt4w2~x2/"><circle cx="278.2" cy="155.1" r="4" fill="#3465a4"><title>Gorman Blue (Personal)</title></circle></a><a href="/setts/s9/b11r1k8r1b1r1o8r1b1~x4/"><circle cx="214.1" cy="174.3" r="4" fill="#3465a4"><title>MacPherson Hunting</title></circle></a><a href="/setts/s9/w3lr4w1lr15p24do15ly1do4ly3~x4/"><circle cx="183.0" cy="119.8" r="4" fill="#3465a4"><title>Sean F Forrester (Personal)</title></circle></a><a href="/setts/s8/lp26w2lp3db15y26m2y3db4~x2/"><circle cx="178.5" cy="146.6" r="4" fill="#3465a4"><title>Scottish Highlander, dress</title></circle></a><a href="/setts/s7/r12b18k1r4k1g6k2~x2/"><circle cx="238.1" cy="162.6" r="4" fill="#3465a4"><title>Confederate (Military)</title></circle></a><a href="/setts/s10/n30k5n19k5n2lr20ly2lr20k5ly4~x2/"><circle cx="256.2" cy="173.4" r="4" fill="#3465a4"><title>Sonsub</title></circle></a><a href="/setts/s8/w9b3ly3b24db24ly2db2ly2~x2/"><circle cx="211.1" cy="168.6" r="4" fill="#3465a4"><title>Halesowen (District)</title></circle></a><circle cx="224.1" cy="163.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db3o2db18o1w10y18o2y3~x2/

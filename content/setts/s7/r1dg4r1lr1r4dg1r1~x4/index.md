@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4615
 
 ## Thread count
-DR/4 G4 DR16 N4 DR4 G16 DR/4
+DR/4 G16 DR4 N4 DR16 G4 DR/4
 ![Sett](sett.png)
 
 ## Palette
@@ -31,7 +31,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/4 G4 DR16 N4 DR4 G16 DR/4 tartan")
+![Tartan detail](tartan.png "DR/4 G16 DR4 N4 DR16 G4 DR/4 tartan")
 
 ## Nearest tartans
 
@@ -50,8 +50,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg1r5dg4r1dg1r1dt4r5dt1~x14/"><circle cx="280.1" cy="246.3" r="4" fill="#3465a4"><title>Lumsden Boghead</title></circle></a><a href="/setts/s9/dt1r5dt4r1g1r1g4r5g1~x12/"><circle cx="273.0" cy="243.6" r="4" fill="#3465a4"><title>Lumsden of Kintore (Clan?)</title></circle></a><a href="/setts/s7/dg4r2dg13lb2r13dg2r4~x2/"><circle cx="327.4" cy="250.3" r="4" fill="#3465a4"><title>Crossnor School</title></circle></a><a href="/setts/s9/db1r5db4r1g1r1g4r5g1~x20/"><circle cx="274.5" cy="244.4" r="4" fill="#3465a4"><title>Lumsden 1797</title></circle></a><a href="/setts/s11/lr1r4dg1r1dg3r1dg3r1dg1r4ly1~x2/"><circle cx="263.6" cy="239.9" r="4" fill="#3465a4"><title>Bruce</title></circle></a><a href="/setts/s7/db6r3g2r3g12r3g2~x2/"><circle cx="284.1" cy="253.4" r="4" fill="#3465a4"><title>Skene Clan Tartan Tartan Number: 516. Earliest known date: 1886 Smith No 53 has ROSE in place of RED. Grant's version is similar to the sample named Skene in the 1830 pattern book of Wilson's of Bannockburn. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dg1r8dg8r1dg8r8lb1~x2/"><circle cx="303.9" cy="240.4" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/setts/s5/dg16r5dg2r18k2/"><circle cx="363.3" cy="249.7" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/setts/s7/r2k4r2k4r6k1lo1~x4/"><circle cx="309.7" cy="272.7" r="4" fill="#3465a4"><title>MacIan</title></circle></a><a href="/setts/s7/ly1r3dg7r3dg7r3ly1~x4/"><circle cx="301.3" cy="244.2" r="4" fill="#3465a4"><title>Unidentified #42</title></circle></a><circle cx="316.4" cy="274.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg1r5dg4r1dg1r1dt4r5dt1~x14/"><circle cx="279.9" cy="246.2" r="4" fill="#3465a4"><title>Lumsden Boghead</title></circle></a><a href="/setts/s9/dt1r5dt4r1g1r1g4r5g1~x12/"><circle cx="272.8" cy="243.5" r="4" fill="#3465a4"><title>Lumsden of Kintore (Clan?)</title></circle></a><a href="/setts/s7/dg4r2dg13lb2r13dg2r4~x2/"><circle cx="327.1" cy="250.2" r="4" fill="#3465a4"><title>Crossnor School</title></circle></a><a href="/setts/s9/db1r5db4r1g1r1g4r5g1~x20/"><circle cx="274.3" cy="244.2" r="4" fill="#3465a4"><title>Lumsden 1797</title></circle></a><a href="/setts/s11/lr1r4dg1r1dg3r1dg3r1dg1r4ly1~x2/"><circle cx="263.4" cy="239.9" r="4" fill="#3465a4"><title>Bruce</title></circle></a><a href="/setts/s7/db6r3g2r3g12r3g2~x2/"><circle cx="284.0" cy="253.3" r="4" fill="#3465a4"><title>Skene Clan Tartan Tartan Number: 516. Earliest known date: 1886 Smith No 53 has ROSE in place of RED. Grant's version is similar to the sample named Skene in the 1830 pattern book of Wilson's of Bannockburn. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dg1r8dg8r1dg8r8lb1~x2/"><circle cx="303.7" cy="240.3" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/setts/s5/dg16r5dg2r18k2/"><circle cx="363.1" cy="249.6" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/setts/s7/r2k4r2k4r6k1lo1~x4/"><circle cx="309.6" cy="272.6" r="4" fill="#3465a4"><title>MacIan</title></circle></a><a href="/setts/s7/ly1r3dg7r3dg7r3ly1~x4/"><circle cx="301.1" cy="244.0" r="4" fill="#3465a4"><title>Unidentified #42</title></circle></a><circle cx="316.3" cy="274.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r1dg4r1lr1r4dg1r1~x4/

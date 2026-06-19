@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4296
 
 ## Thread count
-B/6 LT4 B4 LY4 B44 LY4 K16 LT4 K4 LT4 K4 LT16 LY4 LT4 LY4 LT4 LY16 B/6
+B/6 LY16 LT4 LY4 LT4 LY4 LT16 K4 LT4 K4 LT4 K16 LY4 B44 LY4 B4 LT4 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -34,21 +34,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Sutherland Dress (Dance)](/setts/s22/w6g2w28k13b6k4b4k4b16r2b2r4b2r2b16k4b4k4b6k13w28g2~x2/) — ΔT 1.20
+1. [Sutherland Dress (Dance)](/setts/s22/w6g2w28k13b6k4b4k4b16r2b2r4~x2/) — ΔT 1.20
 1. [Chartered Institute of Bankers](/setts/s20/k34y5k5y8k5y56lb5y5lb36ly5lb36y5lb5y56k5y8k5y5k34ly5/) — ΔT 1.21
 1. [Skye Dress, Blue, Earl of (Dance)](/setts/s16/db4b2n4b2db4w3db3b2w4b2db4r14w22db2w5r4~x2/) — ΔT 1.28
 1. [Mearns Castle High School](/setts/s13/lb15db2lb2db2lb2db13r13db2w2db2lb2db2w2~x4/) — ΔT 1.28
 1. [Florida](/setts/s18/w8db1db20db2db1db2db4db2db1db2db4w2r4w1r2w20db1r4~x2/) — ΔT 1.29
-1. [Beaufort](/setts/s18/b3w8o2w2o2w2o8k2o2k2o2k8w2b24o2k2o1k3~x2/) — ΔT 1.29
+1. [Beaufort](/setts/s18/k3o1k2o2b24w2k8o2k2o2k2o8w2o2w2o2w8b3~x2/) — ΔT 1.29
 1. [Praetorian, Blue (Fashion)](/setts/s14/w1k1ly1n8k1lr1w8lr1k8lr1w1n8lr1w1~x6/) — ΔT 1.29
-1. [Hogmany Plaid](/setts/s24/r2db1r1db14dt12w1dt3w3dt3w3dt3w7r2w7dt3w3dt3w3dt3w1dt12db14r1db1~x2/) — ΔT 1.31
+1. [Hogmany Plaid](/setts/s24/r2w7dt3w3dt3w3dt3w1dt12db14r1db1r2~x2/) — ΔT 1.31
 1. [Hogmany Plaid (Fashion)](/setts/s13/r2w7dt3w3dt3w3dt3w1dt12db14r1db1r2~x2/) — ΔT 1.31
 1. [Angus Dress (Convergence 98)](/setts/s17/r2b1r1b1r1b14k14r1k3r1k14w14r1w1r1w1r2~x4/) — ΔT 1.31
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s22/w6g2w28k13b6k4b4k4b16r2b2r4b2r2b16k4b4k4b6k13w28g2~x2/"><circle cx="124.9" cy="88.2" r="4" fill="#3465a4"><title>Sutherland Dress (Dance)</title></circle></a><a href="/setts/s20/k34y5k5y8k5y56lb5y5lb36ly5lb36y5lb5y56k5y8k5y5k34ly5/"><circle cx="205.6" cy="121.9" r="4" fill="#3465a4"><title>Chartered Institute of Bankers</title></circle></a><a href="/setts/s16/db4b2n4b2db4w3db3b2w4b2db4r14w22db2w5r4~x2/"><circle cx="147.3" cy="105.0" r="4" fill="#3465a4"><title>Skye Dress, Blue, Earl of (Dance)</title></circle></a><a href="/setts/s13/lb15db2lb2db2lb2db13r13db2w2db2lb2db2w2~x4/"><circle cx="158.6" cy="147.7" r="4" fill="#3465a4"><title>Mearns Castle High School</title></circle></a><a href="/setts/s18/w8db1db20db2db1db2db4db2db1db2db4w2r4w1r2w20db1r4~x2/"><circle cx="203.8" cy="83.3" r="4" fill="#3465a4"><title>Florida</title></circle></a><a href="/setts/s18/b3w8o2w2o2w2o8k2o2k2o2k8w2b24o2k2o1k3~x2/"><circle cx="177.5" cy="83.8" r="4" fill="#3465a4"><title>Beaufort</title></circle></a><a href="/setts/s14/w1k1ly1n8k1lr1w8lr1k8lr1w1n8lr1w1~x6/"><circle cx="131.9" cy="128.8" r="4" fill="#3465a4"><title>Praetorian, Blue (Fashion)</title></circle></a><a href="/setts/s24/r2db1r1db14dt12w1dt3w3dt3w3dt3w7r2w7dt3w3dt3w3dt3w1dt12db14r1db1~x2/"><circle cx="174.3" cy="118.9" r="4" fill="#3465a4"><title>Hogmany Plaid</title></circle></a><a href="/setts/s13/r2w7dt3w3dt3w3dt3w1dt12db14r1db1r2~x2/"><circle cx="177.9" cy="141.6" r="4" fill="#3465a4"><title>Hogmany Plaid (Fashion)</title></circle></a><a href="/setts/s17/r2b1r1b1r1b14k14r1k3r1k14w14r1w1r1w1r2~x4/"><circle cx="191.4" cy="100.9" r="4" fill="#3465a4"><title>Angus Dress (Convergence 98)</title></circle></a><circle cx="153.9" cy="112.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s22/w6g2w28k13b6k4b4k4b16r2b2r4~x2/"><circle cx="124.7" cy="88.2" r="4" fill="#3465a4"><title>Sutherland Dress (Dance)</title></circle></a><a href="/setts/s20/k34y5k5y8k5y56lb5y5lb36ly5lb36y5lb5y56k5y8k5y5k34ly5/"><circle cx="205.4" cy="121.8" r="4" fill="#3465a4"><title>Chartered Institute of Bankers</title></circle></a><a href="/setts/s16/db4b2n4b2db4w3db3b2w4b2db4r14w22db2w5r4~x2/"><circle cx="147.1" cy="105.0" r="4" fill="#3465a4"><title>Skye Dress, Blue, Earl of (Dance)</title></circle></a><a href="/setts/s13/lb15db2lb2db2lb2db13r13db2w2db2lb2db2w2~x4/"><circle cx="158.4" cy="147.6" r="4" fill="#3465a4"><title>Mearns Castle High School</title></circle></a><a href="/setts/s18/w8db1db20db2db1db2db4db2db1db2db4w2r4w1r2w20db1r4~x2/"><circle cx="203.5" cy="83.2" r="4" fill="#3465a4"><title>Florida</title></circle></a><a href="/setts/s18/k3o1k2o2b24w2k8o2k2o2k2o8w2o2w2o2w8b3~x2/"><circle cx="177.2" cy="83.8" r="4" fill="#3465a4"><title>Beaufort</title></circle></a><a href="/setts/s14/w1k1ly1n8k1lr1w8lr1k8lr1w1n8lr1w1~x6/"><circle cx="131.8" cy="128.8" r="4" fill="#3465a4"><title>Praetorian, Blue (Fashion)</title></circle></a><a href="/setts/s24/r2w7dt3w3dt3w3dt3w1dt12db14r1db1r2~x2/"><circle cx="174.2" cy="118.9" r="4" fill="#3465a4"><title>Hogmany Plaid</title></circle></a><a href="/setts/s13/r2w7dt3w3dt3w3dt3w1dt12db14r1db1r2~x2/"><circle cx="177.9" cy="141.5" r="4" fill="#3465a4"><title>Hogmany Plaid (Fashion)</title></circle></a><a href="/setts/s17/r2b1r1b1r1b14k14r1k3r1k14w14r1w1r1w1r2~x4/"><circle cx="191.2" cy="100.8" r="4" fill="#3465a4"><title>Angus Dress (Convergence 98)</title></circle></a><circle cx="153.7" cy="112.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s18/b3w8o2w2o2w2o8k2o2k2o2k8w2b22w2b2o2b3~x2/

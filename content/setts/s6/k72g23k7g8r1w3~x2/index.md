@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2462
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacGregor, Black
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -58,8 +64,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k75g26lr2g4lo5~x2/"><circle cx="466.5" cy="166.9" r="4" fill="#3465a4"><title>Perry Hunting (Green) (Personal)</title></circle></a><a href="/setts/s6/y5ly1k5dg46k5r3~x2/"><circle cx="482.9" cy="129.2" r="4" fill="#3465a4"><title>Touch</title></circle></a><a href="/setts/s8/k50b2k13w1k13b5g15r2~x2/"><circle cx="515.2" cy="133.3" r="4" fill="#3465a4"><title>Center (Name)</title></circle></a><a href="/setts/s8/db8r1k6r1lo8r1k45lo1~x2/"><circle cx="500.0" cy="118.6" r="4" fill="#3465a4"><title>degli Uberti, Baron of Cartsburn (Personal)</title></circle></a><a href="/setts/s7/g12k1r1k12m9k45g9~x2/"><circle cx="415.6" cy="139.7" r="4" fill="#3465a4"><title>O'Boyle (Name)</title></circle></a><a href="/setts/s6/o4n6k4o8k49o2/"><circle cx="489.8" cy="164.7" r="4" fill="#3465a4"><title>Harley Davidson (Corporate)</title></circle></a><a href="/setts/s6/k83g4r4g10k1w3~x2/"><circle cx="589.4" cy="132.0" r="4" fill="#3465a4"><title>Perratt (Personal)</title></circle></a><a href="/setts/s6/n4ly1k4dg32k4r2~x2/"><circle cx="442.5" cy="143.2" r="4" fill="#3465a4"><title>Tough (Personal)</title></circle></a><a href="/setts/s7/dr5k3dr9dg56t4dg2w3/"><circle cx="479.2" cy="138.6" r="4" fill="#3465a4"><title>MTV</title></circle></a><a href="/setts/s8/b10lb2k2b1k6lb1k45lo2~x2/"><circle cx="539.8" cy="118.4" r="4" fill="#3465a4"><title>Marine Harvest Scotland (Corporate)</title></circle></a><circle cx="500.5" cy="149.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k75g26lr2g4lo5~x2/"><circle cx="466.4" cy="166.7" r="4" fill="#3465a4"><title>Perry Hunting (Green) (Personal)</title></circle></a><a href="/setts/s6/y5ly1k5dg46k5r3~x2/"><circle cx="482.8" cy="129.0" r="4" fill="#3465a4"><title>Touch</title></circle></a><a href="/setts/s8/k50b2k13w1k13b5g15r2~x2/"><circle cx="515.1" cy="133.1" r="4" fill="#3465a4"><title>Center (Name)</title></circle></a><a href="/setts/s8/db8r1k6r1lo8r1k45lo1~x2/"><circle cx="499.8" cy="118.3" r="4" fill="#3465a4"><title>degli Uberti, Baron of Cartsburn (Personal)</title></circle></a><a href="/setts/s7/g12k1r1k12m9k45g9~x2/"><circle cx="415.5" cy="139.4" r="4" fill="#3465a4"><title>O'Boyle (Name)</title></circle></a><a href="/setts/s6/o4n6k4o8k49o2/"><circle cx="489.6" cy="164.4" r="4" fill="#3465a4"><title>Harley Davidson (Corporate)</title></circle></a><a href="/setts/s6/k83g4r4g10k1w3~x2/"><circle cx="589.2" cy="131.6" r="4" fill="#3465a4"><title>Perratt (Personal)</title></circle></a><a href="/setts/s6/n4ly1k4dg32k4r2~x2/"><circle cx="442.3" cy="143.0" r="4" fill="#3465a4"><title>Tough (Personal)</title></circle></a><a href="/setts/s7/dr5k3dr9dg56t4dg2w3/"><circle cx="479.0" cy="138.5" r="4" fill="#3465a4"><title>MTV</title></circle></a><a href="/setts/s8/b10lb2k2b1k6lb1k45lo2~x2/"><circle cx="539.6" cy="118.1" r="4" fill="#3465a4"><title>Marine Harvest Scotland (Corporate)</title></circle></a><circle cx="500.4" cy="149.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k72g23k7g8r1w3~x2/

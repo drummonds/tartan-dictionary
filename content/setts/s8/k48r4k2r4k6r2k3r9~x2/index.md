@@ -9,6 +9,14 @@ This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2929
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Menzies Black & Red
+- Menzies Hunting
+- Menzies, Black & Red
+
 ## Attestations
 
 This cloth appears in 4 source records; the oldest owns this page.
@@ -320,6 +328,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +429,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +689,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -928,14 +939,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Brand Ambassador (Corporate)](/setts/s9/r2k8w2k8r2k21r10k42r1~x2/) — ΔT 1.68
 1. [Harvie](/setts/s5/k4r11k32ly1k4~x2/) — ΔT 1.70
 1. [Inverness, Augustus](/setts/s7/m18g1k5g1k1g1m9~x2/) — ΔT 1.74
-1. [Knights Templar Dress (Corporate)](/setts/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/) — ΔT 1.75
+1. [Knights Templar Dress (Corporate)](/setts/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/) — ΔT 1.74
 1. [Royal Army Physical Training Corps Association (Scotland)](/setts/s8/k94r3k6r3k8r15k2ly3~x2/) — ΔT 1.78
 1. [Brand Ambassador](/setts/s9/r4k16w4k16r4k42r20k83r2/) — ΔT 1.81
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k59r3k6r3k8r15k2ly3~x2/"><circle cx="540.2" cy="149.5" r="4" fill="#3465a4"><title>Royal Army PTC Assoc. (Military)</title></circle></a><a href="/setts/s10/r7k3r3k22r3k3r3k37ly2k4~x2/"><circle cx="542.9" cy="172.7" r="4" fill="#3465a4"><title>Maier (Personal)</title></circle></a><a href="/setts/s8/k2w1k2r6k6r3k28w2~x2/"><circle cx="522.1" cy="156.5" r="4" fill="#3465a4"><title>Brockton</title></circle></a><a href="/setts/s11/k40n3k5n2k2n2k2n6k4w2k4~x2/"><circle cx="563.7" cy="159.0" r="4" fill="#3465a4"><title>Stewart Mourning (Clan)</title></circle></a><a href="/setts/s9/r2k8w2k8r2k21r10k42r1~x2/"><circle cx="596.5" cy="157.2" r="4" fill="#3465a4"><title>Brand Ambassador (Corporate)</title></circle></a><a href="/setts/s5/k4r11k32ly1k4~x2/"><circle cx="539.8" cy="185.5" r="4" fill="#3465a4"><title>Harvie</title></circle></a><a href="/setts/s7/m18g1k5g1k1g1m9~x2/"><circle cx="508.8" cy="180.5" r="4" fill="#3465a4"><title>Inverness, Augustus</title></circle></a><a href="/setts/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="487.8" cy="124.8" r="4" fill="#3465a4"><title>Knights Templar Dress (Corporate)</title></circle></a><a href="/setts/s8/k94r3k6r3k8r15k2ly3~x2/"><circle cx="608.6" cy="119.9" r="4" fill="#3465a4"><title>Royal Army Physical Training Corps Association (Scotland)</title></circle></a><a href="/setts/s9/r4k16w4k16r4k42r20k83r2/"><circle cx="574.5" cy="146.6" r="4" fill="#3465a4"><title>Brand Ambassador</title></circle></a><circle cx="567.3" cy="175.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k59r3k6r3k8r15k2ly3~x2/"><circle cx="539.9" cy="149.2" r="4" fill="#3465a4"><title>Royal Army PTC Assoc. (Military)</title></circle></a><a href="/setts/s10/r7k3r3k22r3k3r3k37ly2k4~x2/"><circle cx="542.7" cy="172.3" r="4" fill="#3465a4"><title>Maier (Personal)</title></circle></a><a href="/setts/s8/k2w1k2r6k6r3k28w2~x2/"><circle cx="521.9" cy="156.1" r="4" fill="#3465a4"><title>Brockton</title></circle></a><a href="/setts/s11/k40n3k5n2k2n2k2n6k4w2k4~x2/"><circle cx="563.4" cy="158.7" r="4" fill="#3465a4"><title>Stewart Mourning (Clan)</title></circle></a><a href="/setts/s9/r2k8w2k8r2k21r10k42r1~x2/"><circle cx="596.2" cy="156.8" r="4" fill="#3465a4"><title>Brand Ambassador (Corporate)</title></circle></a><a href="/setts/s5/k4r11k32ly1k4~x2/"><circle cx="539.6" cy="185.1" r="4" fill="#3465a4"><title>Harvie</title></circle></a><a href="/setts/s7/m18g1k5g1k1g1m9~x2/"><circle cx="508.5" cy="180.1" r="4" fill="#3465a4"><title>Inverness, Augustus</title></circle></a><a href="/setts/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="487.5" cy="124.5" r="4" fill="#3465a4"><title>Knights Templar Dress (Corporate)</title></circle></a><a href="/setts/s8/k94r3k6r3k8r15k2ly3~x2/"><circle cx="608.3" cy="119.4" r="4" fill="#3465a4"><title>Royal Army Physical Training Corps Association (Scotland)</title></circle></a><a href="/setts/s9/r4k16w4k16r4k42r20k83r2/"><circle cx="574.3" cy="146.1" r="4" fill="#3465a4"><title>Brand Ambassador</title></circle></a><circle cx="567.0" cy="175.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k48r4k2r4k6r2k3r9~x2/

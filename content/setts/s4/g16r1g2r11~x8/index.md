@@ -2,7 +2,7 @@
 title: "Middleton"
 date: 2023-03-18
 ---
-**Bands:** [GRGR](/stripes/grgr/) · **Stripes:** [G R G R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">G R G R</span></span>
+**Bands:** [RGRG](/stripes/rgrg/) · **Stripes:** [R G R G](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
@@ -320,6 +320,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +421,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +681,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -897,11 +900,11 @@ External register numbers recorded for this tartan.
 
 Other setts woven to the same stripe pattern.
 
-- [Applecross](/setts/s4/g18r2g7r18~x2/)
-- [Applecross (District)](/setts/s4/g18r2g7r18~x4/)
+- [Applecross](/setts/s4/r18g7r2g18~x2/)
+- [Applecross (District)](/setts/s4/r18g7r2g18~x4/)
 - [Duke of Windsor (Royal)](/setts/s4/g75r2g4r40~x2/)
 - [MacDonald of Sleat](/setts/s4/r36g2r5g16~x2/)
-- [MacGregor of Glenstrae](/setts/s4/r17g9r2g9~x2/)
+- [MacGregor of Glenstrae](/setts/s4/r17g9r2~x2/)
 
 
 ## Thread count
@@ -925,20 +928,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [MacGregor of Glen Strae](/setts/s5/g8r2g9r16g1~x2/) — ΔT 1.12
-1. [Applecross](/setts/s4/g18r2g7r18~x2/) — ΔT 1.29
-1. [Applecross (District)](/setts/s4/g18r2g7r18~x4/) — ΔT 1.29
+1. [Applecross](/setts/s4/r18g7r2g18~x2/) — ΔT 1.29
+1. [Applecross (District)](/setts/s4/r18g7r2g18~x4/) — ΔT 1.29
 1. [Loch Garth Tartan Tartan Number: 1750. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/dy12lo6dy2ly1~x4/) — ΔT 1.43
 1. [Duke of Windsor (Royal)](/setts/s4/g75r2g4r40~x2/) — ΔT 1.50
-1. [MacGregor of Glenstrae](/setts/s5/dg8r2dg9r16dg1~x2/) — ΔT 1.59
+1. [MacGregor of Glenstrae](/setts/s5/dg8r2dg9r16dg1~x2/) — ΔT 1.58
 1. [Loch Garth](/setts/s4/do12y6do2lo1~x4/) — ΔT 1.64
 1. [MacQuarrie #5](/setts/s6/r16g1r1g1r4g12~x4/) — ΔT 1.67
-1. [Unidentified, NW Highlands](/setts/s6/g2r2g15r16g2r2~x2/) — ΔT 1.69
-1. [MacGregor of Glenstrae](/setts/s4/r17g9r2g9~x2/) — ΔT 1.69
+1. [Unidentified, NW Highlands](/setts/s6/r2g2r16g15r2g2~x2/) — ΔT 1.69
+1. [MacGregor of Glenstrae](/setts/s4/r17g9r2~x2/) — ΔT 1.69
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/g8r2g9r16g1~x2/"><circle cx="387.1" cy="244.8" r="4" fill="#3465a4"><title>MacGregor of Glen Strae</title></circle></a><a href="/setts/s4/g18r2g7r18~x2/"><circle cx="383.1" cy="292.6" r="4" fill="#3465a4"><title>Applecross</title></circle></a><a href="/setts/s4/g18r2g7r18~x4/"><circle cx="383.1" cy="292.6" r="4" fill="#3465a4"><title>Applecross (District)</title></circle></a><a href="/setts/s4/dy12lo6dy2ly1~x4/"><circle cx="464.5" cy="263.3" r="4" fill="#3465a4"><title>Loch Garth Tartan Tartan Number: 1750. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/g75r2g4r40~x2/"><circle cx="514.5" cy="218.3" r="4" fill="#3465a4"><title>Duke of Windsor (Royal)</title></circle></a><a href="/setts/s5/dg8r2dg9r16dg1~x2/"><circle cx="381.8" cy="238.4" r="4" fill="#3465a4"><title>MacGregor of Glenstrae</title></circle></a><a href="/setts/s4/do12y6do2lo1~x4/"><circle cx="449.5" cy="255.8" r="4" fill="#3465a4"><title>Loch Garth</title></circle></a><a href="/setts/s6/r16g1r1g1r4g12~x4/"><circle cx="457.1" cy="215.3" r="4" fill="#3465a4"><title>MacQuarrie #5</title></circle></a><a href="/setts/s6/g2r2g15r16g2r2~x2/"><circle cx="380.8" cy="242.3" r="4" fill="#3465a4"><title>Unidentified, NW Highlands</title></circle></a><a href="/setts/s4/r17g9r2g9~x2/"><circle cx="355.4" cy="293.8" r="4" fill="#3465a4"><title>MacGregor of Glenstrae</title></circle></a><circle cx="443.4" cy="255.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/g8r2g9r16g1~x2/"><circle cx="386.8" cy="244.5" r="4" fill="#3465a4"><title>MacGregor of Glen Strae</title></circle></a><a href="/setts/s4/r18g7r2g18~x2/"><circle cx="382.8" cy="292.3" r="4" fill="#3465a4"><title>Applecross</title></circle></a><a href="/setts/s4/r18g7r2g18~x4/"><circle cx="382.8" cy="292.3" r="4" fill="#3465a4"><title>Applecross (District)</title></circle></a><a href="/setts/s4/dy12lo6dy2ly1~x4/"><circle cx="464.2" cy="263.0" r="4" fill="#3465a4"><title>Loch Garth Tartan Tartan Number: 1750. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/g75r2g4r40~x2/"><circle cx="514.1" cy="217.9" r="4" fill="#3465a4"><title>Duke of Windsor (Royal)</title></circle></a><a href="/setts/s5/dg8r2dg9r16dg1~x2/"><circle cx="381.5" cy="238.1" r="4" fill="#3465a4"><title>MacGregor of Glenstrae</title></circle></a><a href="/setts/s4/do12y6do2lo1~x4/"><circle cx="449.3" cy="255.6" r="4" fill="#3465a4"><title>Loch Garth</title></circle></a><a href="/setts/s6/r16g1r1g1r4g12~x4/"><circle cx="456.7" cy="215.1" r="4" fill="#3465a4"><title>MacQuarrie #5</title></circle></a><a href="/setts/s6/r2g2r16g15r2g2~x2/"><circle cx="380.4" cy="242.1" r="4" fill="#3465a4"><title>Unidentified, NW Highlands</title></circle></a><a href="/setts/s4/r17g9r2~x2/"><circle cx="355.2" cy="293.5" r="4" fill="#3465a4"><title>MacGregor of Glenstrae</title></circle></a><circle cx="443.1" cy="254.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/g16r1g2r11~x8/

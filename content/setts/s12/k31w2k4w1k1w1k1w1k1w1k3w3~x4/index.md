@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,12 +919,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Bargain Booze](/setts/s7/k75lb6k5lb18k2lb2k3~x2/) — ΔT 2.04
 1. [Menzies](/setts/s8/k32w4k2w4k4w2k1w6~x2/) — ΔT 2.05
 1. [Royal Army Physical Training Corps Association (Scotland)](/setts/s8/k94r3k6r3k8r15k2ly3~x2/) — ΔT 2.11
-1. [Scott (Black and White)](/setts/s22/k31w2k4w1k1w1k1w1k1w1k3w3k3w1k1w1k1w1k1w1k4w2~x4/) — ΔT 2.16
+1. [Scott (Black and White)](/setts/s22/k31w2k4w1k1w1k1w1k1w1k3w3~x4/) — ΔT 2.16
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k80w1k6w2k5w3k4w4k3w5k2w6k1~x2/"><circle cx="614.8" cy="94.7" r="4" fill="#3465a4"><title>Heolnezva ha Materi (Fashion)</title></circle></a><a href="/setts/s11/k36w4k6w1k1w1k1w8k4w1k6~x2/"><circle cx="537.5" cy="125.5" r="4" fill="#3465a4"><title>Royal Stewart B &amp; W (Universal?)</title></circle></a><a href="/setts/s8/k198lb9k17t13lb9k4lb13k4/"><circle cx="611.1" cy="116.5" r="4" fill="#3465a4"><title>London Fog Black (Fashion)</title></circle></a><a href="/setts/s8/k20w1k1w3k1r1k1w1~x4/"><circle cx="526.6" cy="142.4" r="4" fill="#3465a4"><title>Volkswagen Black Trim (Fashion)</title></circle></a><a href="/setts/s17/k20w1lp2k4w1lp3k4w1lp4k4w1lp5k3w1k54w1lp6~x2/"><circle cx="534.7" cy="71.5" r="4" fill="#3465a4"><title>Purdy Black (Illinois)</title></circle></a><a href="/setts/s8/g8lo3k60g3k3g3k3g4~x2/"><circle cx="515.9" cy="161.1" r="4" fill="#3465a4"><title>Aberdeen-Angus Cattle Society (Corp)</title></circle></a><a href="/setts/s7/k75lb6k5lb18k2lb2k3~x2/"><circle cx="548.6" cy="148.5" r="4" fill="#3465a4"><title>Bargain Booze</title></circle></a><a href="/setts/s8/k32w4k2w4k4w2k1w6~x2/"><circle cx="479.6" cy="150.0" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s8/k94r3k6r3k8r15k2ly3~x2/"><circle cx="608.6" cy="119.9" r="4" fill="#3465a4"><title>Royal Army Physical Training Corps Association (Scotland)</title></circle></a><a href="/setts/s22/k31w2k4w1k1w1k1w1k1w1k3w3k3w1k1w1k1w1k1w1k4w2~x4/"><circle cx="528.0" cy="82.0" r="4" fill="#3465a4"><title>Scott (Black and White)</title></circle></a><circle cx="581.2" cy="125.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k80w1k6w2k5w3k4w4k3w5k2w6k1~x2/"><circle cx="614.4" cy="94.2" r="4" fill="#3465a4"><title>Heolnezva ha Materi (Fashion)</title></circle></a><a href="/setts/s11/k36w4k6w1k1w1k1w8k4w1k6~x2/"><circle cx="537.2" cy="125.0" r="4" fill="#3465a4"><title>Royal Stewart B &amp; W (Universal?)</title></circle></a><a href="/setts/s8/k198lb9k17t13lb9k4lb13k4/"><circle cx="610.8" cy="116.0" r="4" fill="#3465a4"><title>London Fog Black (Fashion)</title></circle></a><a href="/setts/s8/k20w1k1w3k1r1k1w1~x4/"><circle cx="526.3" cy="141.9" r="4" fill="#3465a4"><title>Volkswagen Black Trim (Fashion)</title></circle></a><a href="/setts/s17/k20w1lp2k4w1lp3k4w1lp4k4w1lp5k3w1k54w1lp6~x2/"><circle cx="534.4" cy="71.1" r="4" fill="#3465a4"><title>Purdy Black (Illinois)</title></circle></a><a href="/setts/s8/g8lo3k60g3k3g3k3g4~x2/"><circle cx="515.9" cy="160.7" r="4" fill="#3465a4"><title>Aberdeen-Angus Cattle Society (Corp)</title></circle></a><a href="/setts/s7/k75lb6k5lb18k2lb2k3~x2/"><circle cx="548.3" cy="148.0" r="4" fill="#3465a4"><title>Bargain Booze</title></circle></a><a href="/setts/s8/k32w4k2w4k4w2k1w6~x2/"><circle cx="479.5" cy="149.5" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s8/k94r3k6r3k8r15k2ly3~x2/"><circle cx="608.3" cy="119.4" r="4" fill="#3465a4"><title>Royal Army Physical Training Corps Association (Scotland)</title></circle></a><a href="/setts/s22/k31w2k4w1k1w1k1w1k1w1k3w3~x4/"><circle cx="527.6" cy="81.6" r="4" fill="#3465a4"><title>Scott (Black and White)</title></circle></a><circle cx="581.0" cy="124.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/k31w2k4w1k1w1k1w1k1w1k3w3~x4/

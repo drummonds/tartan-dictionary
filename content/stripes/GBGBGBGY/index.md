@@ -21,14 +21,14 @@ GBGBGBGY
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DG DO DG DB DG N DG LY <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DG DO DG DB DG N DG LY</span></span>
+### LY DG N DG DB DG DO DG <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="seq">LY DG N DG DB DG DO DG</span></span>
 
 | Tartans |
 |---------------|
 | [Scottish Pup](/setts/s8/dg8do2dg13db4dg12n22dg5ly3~x2/)|
 |![Scottish Pup example sett](/setts/s8/dg8do2dg13db4dg12n22dg5ly3~x2/sett.png)|
 
-### G DB G DB G DB G LY <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G DB G DB G DB G LY</span></span>
+### LY G DB G DB G DB G <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G DB G DB G DB G</span></span>
 
 | Tartans |
 |---------------|

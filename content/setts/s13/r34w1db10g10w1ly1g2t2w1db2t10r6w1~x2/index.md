@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/2 R12 Ba20 B4 LN2 Ba4 G4 Y2 LN2 G20 B20 LN2 R/68
+R/68 LN2 B20 G20 LN2 Y2 G4 Ba4 LN2 B4 Ba20 R12 LN/2
 ![Sett](sett.png)
 
 ## Palette
@@ -906,7 +909,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Mehrtens variant (Personal)](/setts/s14/w4dt4r18o4r1o36k1o4k6r2k6r6ly4r2~x2/) — ΔT 0.74
 1. [Celtic Nations (Fashion)](/setts/s12/db3r2db2r35lo2db3k2db5k4g13k1w3~x2/) — ΔT 0.82
-1. [Scobie (Blackford)](/setts/s12/m1r2lt1r1lt1r20m14g26r6p1r1p1~x2/) — ΔT 0.93
+1. [Scobie (Blackford)](/setts/s12/p1r1p1r6g26m14r20lt1r1lt1r2m1~x2/) — ΔT 0.93
 1. [Mehrtens variant (Personal)](/setts/s14/w4dt4r18o4r1o36k1o4k6r2k6r6k4r2~x2/) — ΔT 0.94
 1. [Mehrtens (Personal)](/setts/s16/w4dt4r18o4r1o36k1o4k6r2k6r6k2r6ly4r2~x2/) — ΔT 0.95
 1. [King (Austria) (Personal)](/setts/s9/w2r2db14g16ly2k2g2r35g1~x2/) — ΔT 0.99
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/w4dt4r18o4r1o36k1o4k6r2k6r6ly4r2~x2/"><circle cx="250.2" cy="51.6" r="4" fill="#3465a4"><title>Mehrtens variant (Personal)</title></circle></a><a href="/setts/s12/db3r2db2r35lo2db3k2db5k4g13k1w3~x2/"><circle cx="280.6" cy="50.3" r="4" fill="#3465a4"><title>Celtic Nations (Fashion)</title></circle></a><a href="/setts/s12/m1r2lt1r1lt1r20m14g26r6p1r1p1~x2/"><circle cx="246.3" cy="70.2" r="4" fill="#3465a4"><title>Scobie (Blackford)</title></circle></a><a href="/setts/s14/w4dt4r18o4r1o36k1o4k6r2k6r6k4r2~x2/"><circle cx="245.3" cy="51.0" r="4" fill="#3465a4"><title>Mehrtens variant (Personal)</title></circle></a><a href="/setts/s16/w4dt4r18o4r1o36k1o4k6r2k6r6k2r6ly4r2~x2/"><circle cx="235.2" cy="45.3" r="4" fill="#3465a4"><title>Mehrtens (Personal)</title></circle></a><a href="/setts/s9/w2r2db14g16ly2k2g2r35g1~x2/"><circle cx="289.8" cy="76.7" r="4" fill="#3465a4"><title>King (Austria) (Personal)</title></circle></a><a href="/setts/s17/t4dp8w2g32w2r8r4dp2r4r8w2dp16r65w2dp8t4w2~x2/"><circle cx="270.1" cy="36.3" r="4" fill="#3465a4"><title>Birral/Burrell</title></circle></a><a href="/setts/s17/r65w2dp8t4w2t4dp8w2g32w2r8r4dp2r4r8w2dp16~x2/"><circle cx="270.1" cy="36.3" r="4" fill="#3465a4"><title>Birral (Clan)</title></circle></a><a href="/setts/s17/r65w2p8t4w2t4p8w2g32w2r8r4p2r4r8w2p16~x2/"><circle cx="279.9" cy="39.3" r="4" fill="#3465a4"><title>Birral, Burrell</title></circle></a><a href="/setts/s11/ly2dg4dt1r3dt3dg3g1r32dt14w3ly2~x2/"><circle cx="310.2" cy="73.2" r="4" fill="#3465a4"><title>Banause-Zunft zu Olte</title></circle></a><circle cx="286.8" cy="56.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/w4dt4r18o4r1o36k1o4k6r2k6r6ly4r2~x2/"><circle cx="249.8" cy="51.6" r="4" fill="#3465a4"><title>Mehrtens variant (Personal)</title></circle></a><a href="/setts/s12/db3r2db2r35lo2db3k2db5k4g13k1w3~x2/"><circle cx="280.3" cy="50.3" r="4" fill="#3465a4"><title>Celtic Nations (Fashion)</title></circle></a><a href="/setts/s12/p1r1p1r6g26m14r20lt1r1lt1r2m1~x2/"><circle cx="245.9" cy="70.3" r="4" fill="#3465a4"><title>Scobie (Blackford)</title></circle></a><a href="/setts/s14/w4dt4r18o4r1o36k1o4k6r2k6r6k4r2~x2/"><circle cx="245.0" cy="51.0" r="4" fill="#3465a4"><title>Mehrtens variant (Personal)</title></circle></a><a href="/setts/s16/w4dt4r18o4r1o36k1o4k6r2k6r6k2r6ly4r2~x2/"><circle cx="234.9" cy="45.4" r="4" fill="#3465a4"><title>Mehrtens (Personal)</title></circle></a><a href="/setts/s9/w2r2db14g16ly2k2g2r35g1~x2/"><circle cx="289.5" cy="76.8" r="4" fill="#3465a4"><title>King (Austria) (Personal)</title></circle></a><a href="/setts/s17/t4dp8w2g32w2r8r4dp2r4r8w2dp16r65w2dp8t4w2~x2/"><circle cx="269.7" cy="36.5" r="4" fill="#3465a4"><title>Birral/Burrell</title></circle></a><a href="/setts/s17/r65w2dp8t4w2t4dp8w2g32w2r8r4dp2r4r8w2dp16~x2/"><circle cx="269.7" cy="36.5" r="4" fill="#3465a4"><title>Birral (Clan)</title></circle></a><a href="/setts/s17/r65w2p8t4w2t4p8w2g32w2r8r4p2r4r8w2p16~x2/"><circle cx="279.4" cy="39.5" r="4" fill="#3465a4"><title>Birral, Burrell</title></circle></a><a href="/setts/s11/ly2dg4dt1r3dt3dg3g1r32dt14w3ly2~x2/"><circle cx="309.9" cy="73.2" r="4" fill="#3465a4"><title>Banause-Zunft zu Olte</title></circle></a><circle cx="286.4" cy="56.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r34w1db10g10w1ly1g2t2w1db2t10r6w1~x2/

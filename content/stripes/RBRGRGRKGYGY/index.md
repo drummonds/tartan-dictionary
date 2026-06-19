@@ -22,6 +22,6 @@ RBRGRGRKGYGY
 
 | Tartans |
 |---------------|
-| [Ogg of Tarragann Hunting (Personal)](/setts/s12/lo2g2lo1g10k6r1dy14r1dy14r1t6r2~x2/)|
-|![Ogg of Tarragann Hunting (Personal) example sett](/setts/s12/lo2g2lo1g10k6r1dy14r1dy14r1t6r2~x2/sett.png)|
+| [Ogg of Tarragann Hunting (Personal)](/setts/s12/r2t6r1dy14r1dy14r1k6g10lo1g2lo2~x2/)|
+|![Ogg of Tarragann Hunting (Personal) example sett](/setts/s12/r2t6r1dy14r1dy14r1k6g10lo1g2lo2~x2/sett.png)|
 

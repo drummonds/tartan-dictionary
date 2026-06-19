@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Longniddry, Green
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,8 +926,8 @@ The nearest existing variants by ΔTartan distance.
 1. [Uist, Green (Dance)](/setts/s7/g3r2g27dg3w30dg2w3~x2/) — ΔT 1.20
 1. [Longniddry Green Error (Dance)](/setts/s8/g42ly1w2ly1g5dg12w32g4~x2/) — ΔT 1.30
 1. [McGill (Personal)](/setts/s13/g2w10g3lo4g3lo4g24w2g4w4g1lo4g1~x2/) — ΔT 1.36
-1. [Cunningham Dress Green (Dance) Fashion Tartan Tartan Number: 6532. Earliest known date: 01/01/1988 A dancers' tartan now woven by D C Dalgliesh of Selkirk /Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/ly2g1k1g20w20g1w2~x4/) — ΔT 1.42
-1. [Monroig, Eric (Personal)](/setts/s12/ly2g16ly1b6r1ly1r1b6ly1g16b2r2~x2/) — ΔT 1.44
+1. [Cunningham Dress Green (Dance) Fashion Tartan Tartan Number: 6532. Earliest known date: 01/01/1988 A dancers' tartan now woven by D C Dalgliesh of Selkirk /Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/w2g1w20g20k1g1ly2~x4/) — ΔT 1.43
+1. [Monroig, Eric (Personal)](/setts/s12/r2b2g16ly1b6r1ly1r1b6ly1g16ly2~x2/) — ΔT 1.44
 1. [Limerick County Crest (Fashion)](/setts/s6/w12k3g50w3k13lo6~x2/) — ΔT 1.50
 1. [Drummond of Perth Dress (Dance)](/setts/s9/dg41lo3g7n3w24dg10g7n7w3~x2/) — ΔT 1.52
 1. [Cunningham Dress Green (Dance)](/setts/s7/w5g2w34g34k2g2ly4~x2/) — ΔT 1.54
@@ -926,8 +935,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g42g2w2g2g5dt12w32g4~x2/"><circle cx="266.8" cy="129.4" r="4" fill="#3465a4"><title>Longniddry Green (Dance)</title></circle></a><a href="/setts/s7/g3r2g27dg3w30dg2w3~x2/"><circle cx="267.8" cy="145.2" r="4" fill="#3465a4"><title>Uist, Green (Dance)</title></circle></a><a href="/setts/s8/g42ly1w2ly1g5dg12w32g4~x2/"><circle cx="304.2" cy="103.9" r="4" fill="#3465a4"><title>Longniddry Green Error (Dance)</title></circle></a><a href="/setts/s13/g2w10g3lo4g3lo4g24w2g4w4g1lo4g1~x2/"><circle cx="323.7" cy="118.7" r="4" fill="#3465a4"><title>McGill (Personal)</title></circle></a><a href="/setts/s7/ly2g1k1g20w20g1w2~x4/"><circle cx="311.9" cy="141.9" r="4" fill="#3465a4"><title>Cunningham Dress Green (Dance) Fashion Tartan Tartan Number: 6532. Earliest known date: 01/01/1988 A dancers' tartan now woven by D C Dalgliesh of Selkirk /Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/ly2g16ly1b6r1ly1r1b6ly1g16b2r2~x2/"><circle cx="324.7" cy="144.1" r="4" fill="#3465a4"><title>Monroig, Eric (Personal)</title></circle></a><a href="/setts/s6/w12k3g50w3k13lo6~x2/"><circle cx="309.9" cy="166.4" r="4" fill="#3465a4"><title>Limerick County Crest (Fashion)</title></circle></a><a href="/setts/s9/dg41lo3g7n3w24dg10g7n7w3~x2/"><circle cx="212.8" cy="137.0" r="4" fill="#3465a4"><title>Drummond of Perth Dress (Dance)</title></circle></a><a href="/setts/s7/w5g2w34g34k2g2ly4~x2/"><circle cx="282.8" cy="140.9" r="4" fill="#3465a4"><title>Cunningham Dress Green (Dance)</title></circle></a><a href="/setts/s11/k1g3w3g15k1g3g2k1g1lg1w1~x2/"><circle cx="281.3" cy="123.1" r="4" fill="#3465a4"><title>University of North Texas</title></circle></a><circle cx="281.3" cy="139.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g42g2w2g2g5dt12w32g4~x2/"><circle cx="266.5" cy="129.2" r="4" fill="#3465a4"><title>Longniddry Green (Dance)</title></circle></a><a href="/setts/s7/g3r2g27dg3w30dg2w3~x2/"><circle cx="267.4" cy="145.0" r="4" fill="#3465a4"><title>Uist, Green (Dance)</title></circle></a><a href="/setts/s8/g42ly1w2ly1g5dg12w32g4~x2/"><circle cx="303.8" cy="103.7" r="4" fill="#3465a4"><title>Longniddry Green Error (Dance)</title></circle></a><a href="/setts/s13/g2w10g3lo4g3lo4g24w2g4w4g1lo4g1~x2/"><circle cx="323.2" cy="118.5" r="4" fill="#3465a4"><title>McGill (Personal)</title></circle></a><a href="/setts/s7/w2g1w20g20k1g1ly2~x4/"><circle cx="311.4" cy="141.6" r="4" fill="#3465a4"><title>Cunningham Dress Green (Dance) Fashion Tartan Tartan Number: 6532. Earliest known date: 01/01/1988 A dancers' tartan now woven by D C Dalgliesh of Selkirk /Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/r2b2g16ly1b6r1ly1r1b6ly1g16ly2~x2/"><circle cx="324.3" cy="143.9" r="4" fill="#3465a4"><title>Monroig, Eric (Personal)</title></circle></a><a href="/setts/s6/w12k3g50w3k13lo6~x2/"><circle cx="309.7" cy="166.2" r="4" fill="#3465a4"><title>Limerick County Crest (Fashion)</title></circle></a><a href="/setts/s9/dg41lo3g7n3w24dg10g7n7w3~x2/"><circle cx="212.6" cy="136.9" r="4" fill="#3465a4"><title>Drummond of Perth Dress (Dance)</title></circle></a><a href="/setts/s7/w5g2w34g34k2g2ly4~x2/"><circle cx="282.3" cy="140.6" r="4" fill="#3465a4"><title>Cunningham Dress Green (Dance)</title></circle></a><a href="/setts/s11/k1g3w3g15k1g3g2k1g1lg1w1~x2/"><circle cx="281.0" cy="123.0" r="4" fill="#3465a4"><title>University of North Texas</title></circle></a><circle cx="280.9" cy="138.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/g42g2w2g2g5dg12w32g4~x2/

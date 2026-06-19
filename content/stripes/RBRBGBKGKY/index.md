@@ -22,6 +22,6 @@ RBRBGBKGKY
 
 | Tartans |
 |---------------|
-| [Royal Air Force Lossiemouth](/setts/s10/lo3k5g2k20dt8g3t18r2t18o3~x2/)|
-|![Royal Air Force Lossiemouth example sett](/setts/s10/lo3k5g2k20dt8g3t18r2t18o3~x2/sett.png)|
+| [Royal Air Force Lossiemouth](/setts/s10/o3t18r2t18g3dt8k20g2k5lo3~x2/)|
+|![Royal Air Force Lossiemouth example sett](/setts/s10/o3t18r2t18g3dt8k20g2k5lo3~x2/sett.png)|
 

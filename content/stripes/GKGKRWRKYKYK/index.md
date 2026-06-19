@@ -19,17 +19,17 @@ GKGKRWRKYKYK
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DG K DG K R W R K LY K LY K <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="seq">DG K DG K R W R K LY K LY K</span></span>
+### K LY K LY K R W R K DG K DG <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K LY K LY K R W R K DG K DG</span></span>
 
 | Tartans |
 |---------------|
-| [Buchanan #7](/setts/s12/dg18k10dg18k9r17w2r17k9ly17k2ly17k18~x2/)|
-|![Buchanan #7 example sett](/setts/s12/dg18k10dg18k9r17w2r17k9ly17k2ly17k18~x2/sett.png)|
+| [Buchanan #7](/setts/s12/k18ly17k2ly17k9r17w2r17k9dg18k10dg18~x2/)|
+|![Buchanan #7 example sett](/setts/s12/k18ly17k2ly17k9r17w2r17k9dg18k10dg18~x2/sett.png)|
 
-### G K G K R W R K LY K LY K <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="seq">G K G K R W R K LY K LY K</span></span>
+### K LY K LY K R W R K G K G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K LY K LY K R W R K G K G</span></span>
 
 | Tartans |
 |---------------|
-| [Buchanan 6](/setts/s12/g18k10g18k9r17w2r17k9ly17k2ly17k18~x2/)|
-|![Buchanan 6 example sett](/setts/s12/g18k10g18k9r17w2r17k9ly17k2ly17k18~x2/sett.png)|
+| [Buchanan 6](/setts/s12/k18ly17k2ly17k9r17w2r17k9g18k10g18~x2/)|
+|![Buchanan 6 example sett](/setts/s12/k18ly17k2ly17k9r17w2r17k9g18k10g18~x2/sett.png)|
 

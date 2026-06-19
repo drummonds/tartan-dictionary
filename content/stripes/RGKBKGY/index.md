@@ -8,7 +8,7 @@ RGKBKGY
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/ly5g20k13db42k13g20m5~x2/tartan.png)
+![Woven sample](/setts/s7/m5g20k13db42k13g20ly5~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RGKBKGY
 
 | Tartans |
 |---------------|
-| [Newmill](/setts/s7/ly5g20k13db42k13g20m5~x2/)|
-|![Newmill example sett](/setts/s7/ly5g20k13db42k13g20m5~x2/sett.png)|
+| [Newmill](/setts/s7/m5g20k13db42k13g20ly5~x2/)|
+|![Newmill example sett](/setts/s7/m5g20k13db42k13g20ly5~x2/sett.png)|
 

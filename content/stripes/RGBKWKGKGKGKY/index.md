@@ -22,6 +22,6 @@ RGBKWKGKGKGKY
 
 | Tartans |
 |---------------|
-| [MacInnes](/setts/s13/ly2k12dg2k2dg2k2dg16k3lb3k3db12dg6r2/)|
-|![MacInnes example sett](/setts/s13/ly2k12dg2k2dg2k2dg16k3lb3k3db12dg6r2/sett.png)|
+| [MacInnes](/setts/s13/r2dg6db12k3lb3k3dg16k2dg2k2dg2k12ly2/)|
+|![MacInnes example sett](/setts/s13/r2dg6db12k3lb3k3dg16k2dg2k2dg2k12ly2/sett.png)|
 

@@ -18,10 +18,10 @@ BBKBKBKBKBGBKBK
 
 
 
-### B DB K DB K DB K B K N Y N K DB K <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">B DB K DB K DB K B K N Y N K DB K</span></span>
+### K DB K N Y N K B K DB K DB K DB B <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K DB K N Y N K B K DB K DB K DB B</span></span>
 
 | Tartans |
 |---------------|
-| [Shadow Halls](/setts/s15/b1db4k11db1k1db1k1b1k11n4y1n8k7db8k1~x4/)|
-|![Shadow Halls example sett](/setts/s15/b1db4k11db1k1db1k1b1k11n4y1n8k7db8k1~x4/sett.png)|
+| [Shadow Halls](/setts/s15/k1db8k7n8y1n4k11b1k1db1k1db1k11db4b1~x4/)|
+|![Shadow Halls example sett](/setts/s15/k1db8k7n8y1n4k11b1k1db1k1db1k11db4b1~x4/sett.png)|
 

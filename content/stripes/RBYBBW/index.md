@@ -8,7 +8,7 @@ RBYBBW
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/lb4b38n19lo6do27r4~x2/tartan.png)
+![Woven sample](/setts/s6/r4do27lo6n19b38lb4~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RBYBBW
 
 | Tartans |
 |---------------|
-| [State Seal of Michigan (Fashion)](/setts/s6/lb4b38n19lo6do27r4~x2/)|
-|![State Seal of Michigan (Fashion) example sett](/setts/s6/lb4b38n19lo6do27r4~x2/sett.png)|
+| [State Seal of Michigan (Fashion)](/setts/s6/r4do27lo6n19b38lb4~x2/)|
+|![State Seal of Michigan (Fashion) example sett](/setts/s6/r4do27lo6n19b38lb4~x2/sett.png)|
 

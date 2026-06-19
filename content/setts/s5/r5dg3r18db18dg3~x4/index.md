@@ -2,7 +2,7 @@
 title: "Wotherspoon"
 date: 2023-03-18
 ---
-**Bands:** [GBRGR](/stripes/gbrgr/) · **Stripes:** [DG DB R DG R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG DB R DG R</span></span>
+**Bands:** [RGRBG](/stripes/rgrbg/) · **Stripes:** [R DG R DB DG](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG R DB DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 741
 
 ## Thread count
-DG/12 DB72 R72 DG12 R/20
+R/20 DG12 R72 DB72 DG/12
 ![Sett](sett.png)
 
 ## Palette
@@ -39,7 +39,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DG/12 DB72 R72 DG12 R/20 tartan")
+![Tartan detail](tartan.png "R/20 DG12 R72 DB72 DG/12 tartan")
 
 ## Nearest tartans
 
@@ -54,12 +54,12 @@ The nearest existing variants by ΔTartan distance.
 1. [MacNab (Macgregor - Hastie)](/setts/s6/dg3dp3dg19dp18r19dp3~x2/) — ΔT 1.27
 1. [MacFadyan (MacGregor Hastie)](/setts/s7/db3r25db17r5g22r9db3~x2/) — ΔT 1.29
 1. [Hamilton, (Red)](/setts/s5/db6r1db6r9w1~x2/) — ΔT 1.31
-1. [Bodog.com](/setts/s5/lb3k10r25k25r3~x2/) — ΔT 1.34
+1. [Bodog.com](/setts/s5/r3k25r25k10lb3~x2/) — ΔT 1.34
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db6r39db10r10db21ly5~x2/"><circle cx="349.1" cy="247.5" r="4" fill="#3465a4"><title>Rajput</title></circle></a><a href="/setts/s5/r12g8r54db45g6/"><circle cx="341.6" cy="240.8" r="4" fill="#3465a4"><title>Wotherspoon</title></circle></a><a href="/setts/s5/db8r2db8r15w2~x4/"><circle cx="295.6" cy="245.3" r="4" fill="#3465a4"><title>Hamilton (Clan)</title></circle></a><a href="/setts/s6/r12db2r12db17w2r2~x2/"><circle cx="348.1" cy="235.2" r="4" fill="#3465a4"><title>British European</title></circle></a><a href="/setts/s6/r12db2r12db17w2r2~x4/"><circle cx="348.1" cy="235.2" r="4" fill="#3465a4"><title>British European (Corporate)</title></circle></a><a href="/setts/s6/db4r30k6db13k13db3~x2/"><circle cx="256.0" cy="216.3" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish (Bonner)</title></circle></a><a href="/setts/s6/dg3dp3dg19dp18r19dp3~x2/"><circle cx="226.3" cy="251.0" r="4" fill="#3465a4"><title>MacNab (Macgregor - Hastie)</title></circle></a><a href="/setts/s7/db3r25db17r5g22r9db3~x2/"><circle cx="266.2" cy="233.4" r="4" fill="#3465a4"><title>MacFadyan (MacGregor Hastie)</title></circle></a><a href="/setts/s5/db6r1db6r9w1~x2/"><circle cx="332.7" cy="250.9" r="4" fill="#3465a4"><title>Hamilton, (Red)</title></circle></a><a href="/setts/s5/lb3k10r25k25r3~x2/"><circle cx="317.6" cy="237.5" r="4" fill="#3465a4"><title>Bodog.com</title></circle></a><circle cx="290.5" cy="255.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db6r39db10r10db21ly5~x2/"><circle cx="349.0" cy="247.3" r="4" fill="#3465a4"><title>Rajput</title></circle></a><a href="/setts/s5/r12g8r54db45g6/"><circle cx="341.4" cy="240.6" r="4" fill="#3465a4"><title>Wotherspoon</title></circle></a><a href="/setts/s5/db8r2db8r15w2~x4/"><circle cx="295.5" cy="245.1" r="4" fill="#3465a4"><title>Hamilton (Clan)</title></circle></a><a href="/setts/s6/r12db2r12db17w2r2~x2/"><circle cx="347.9" cy="235.0" r="4" fill="#3465a4"><title>British European</title></circle></a><a href="/setts/s6/r12db2r12db17w2r2~x4/"><circle cx="347.9" cy="235.0" r="4" fill="#3465a4"><title>British European (Corporate)</title></circle></a><a href="/setts/s6/db4r30k6db13k13db3~x2/"><circle cx="255.9" cy="216.2" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish (Bonner)</title></circle></a><a href="/setts/s6/dg3dp3dg19dp18r19dp3~x2/"><circle cx="226.3" cy="251.0" r="4" fill="#3465a4"><title>MacNab (Macgregor - Hastie)</title></circle></a><a href="/setts/s7/db3r25db17r5g22r9db3~x2/"><circle cx="266.1" cy="233.3" r="4" fill="#3465a4"><title>MacFadyan (MacGregor Hastie)</title></circle></a><a href="/setts/s5/db6r1db6r9w1~x2/"><circle cx="332.6" cy="250.7" r="4" fill="#3465a4"><title>Hamilton, (Red)</title></circle></a><a href="/setts/s5/r3k25r25k10lb3~x2/"><circle cx="317.5" cy="237.3" r="4" fill="#3465a4"><title>Bodog.com</title></circle></a><circle cx="290.4" cy="255.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/r5dg3r18db18dg3~x4/

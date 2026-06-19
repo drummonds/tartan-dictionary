@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2495
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Mack Original
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -56,8 +62,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/b11k3b3k3b4k15g36w3g36k15b4k3b3k3b11r4~x2/"><circle cx="226.4" cy="140.9" r="4" fill="#3465a4"><title>Semple</title></circle></a><a href="/setts/s10/b29db8g21r3g8b11w3db3w3g8~x2/"><circle cx="195.3" cy="183.3" r="4" fill="#3465a4"><title>Morneau, Richard (Personal)</title></circle></a><a href="/setts/s15/dp2k2g6t4k2db5k4g20k4t5k2t4g6k2dp2~x2/"><circle cx="205.0" cy="163.8" r="4" fill="#3465a4"><title>Letham Hunting (Name)</title></circle></a><a href="/setts/s14/r8b30k4b4k4b4k56g55ly8g55k56b46k4r8/"><circle cx="176.6" cy="147.9" r="4" fill="#3465a4"><title>Farquharson (Clan)</title></circle></a><a href="/setts/s16/b22k3b3k3b3k15g19k1lb3k1g19r2k15b19k3b3~x2/"><circle cx="202.4" cy="131.0" r="4" fill="#3465a4"><title>Sempill (Clan)</title></circle></a><a href="/setts/s13/g8r1g2r2g12w1k12r1t12r2t2r1t8~x4/"><circle cx="147.1" cy="145.0" r="4" fill="#3465a4"><title>Boston Pipe Band, Greater (Corp)</title></circle></a><a href="/setts/s14/g6r4g4r3g4ly2b14k4g4k28g18k2g3k2~x2/"><circle cx="184.9" cy="128.2" r="4" fill="#3465a4"><title>Cypress Presbyterian Church</title></circle></a><a href="/setts/s13/dg8r1dg2r2dg12w1k12r1t12r2t2r1t8~x4/"><circle cx="155.7" cy="149.8" r="4" fill="#3465a4"><title>Boston Pipe Band, Greater</title></circle></a><a href="/setts/s13/g27r2g3w3db3ly2db14w2db3ly3db3w2db14~x2/"><circle cx="231.1" cy="127.2" r="4" fill="#3465a4"><title>Holiday Inn Crown Plaza</title></circle></a><a href="/setts/s10/t24k2r2t2db12g28r4g5t3g3~x2/"><circle cx="243.9" cy="160.0" r="4" fill="#3465a4"><title>Downie (Name)</title></circle></a><circle cx="207.9" cy="149.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/b11k3b3k3b4k15g36w3g36k15b4k3b3k3b11r4~x2/"><circle cx="226.3" cy="141.0" r="4" fill="#3465a4"><title>Semple</title></circle></a><a href="/setts/s10/b29db8g21r3g8b11w3db3w3g8~x2/"><circle cx="195.2" cy="183.4" r="4" fill="#3465a4"><title>Morneau, Richard (Personal)</title></circle></a><a href="/setts/s15/dp2k2g6t4k2db5k4g20k4t5k2t4g6k2dp2~x2/"><circle cx="205.0" cy="163.8" r="4" fill="#3465a4"><title>Letham Hunting (Name)</title></circle></a><a href="/setts/s14/r8b30k4b4k4b4k56g55ly8g55k56b46k4r8/"><circle cx="176.6" cy="148.0" r="4" fill="#3465a4"><title>Farquharson (Clan)</title></circle></a><a href="/setts/s16/b22k3b3k3b3k15g19k1lb3k1g19r2k15b19k3b3~x2/"><circle cx="202.4" cy="131.0" r="4" fill="#3465a4"><title>Sempill (Clan)</title></circle></a><a href="/setts/s13/g8r1g2r2g12w1k12r1t12r2t2r1t8~x4/"><circle cx="147.0" cy="145.1" r="4" fill="#3465a4"><title>Boston Pipe Band, Greater (Corp)</title></circle></a><a href="/setts/s14/g6r4g4r3g4ly2b14k4g4k28g18k2g3k2~x2/"><circle cx="184.9" cy="128.2" r="4" fill="#3465a4"><title>Cypress Presbyterian Church</title></circle></a><a href="/setts/s13/dg8r1dg2r2dg12w1k12r1t12r2t2r1t8~x4/"><circle cx="155.7" cy="149.9" r="4" fill="#3465a4"><title>Boston Pipe Band, Greater</title></circle></a><a href="/setts/s13/g27r2g3w3db3ly2db14w2db3ly3db3w2db14~x2/"><circle cx="231.0" cy="127.2" r="4" fill="#3465a4"><title>Holiday Inn Crown Plaza</title></circle></a><a href="/setts/s10/t24k2r2t2db12g28r4g5t3g3~x2/"><circle cx="243.8" cy="160.1" r="4" fill="#3465a4"><title>Downie (Name)</title></circle></a><circle cx="207.8" cy="149.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/g2r2g21k8t8k2t28k2t8k8g21w2g2~x2/

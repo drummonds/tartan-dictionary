@@ -2,7 +2,7 @@
 title: "Campbell, hunting"
 date: 2023-03-18
 ---
-**Bands:** [BKWKYGRKRR](/stripes/bkwkygrkrr/) · **Stripes:** [DB K W K LY Y O K O R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K W K LY Y O K O R</span></span>
+**Bands:** [RRKRGYKWKB](/stripes/rrkrgykwkb/) · **Stripes:** [R O K O Y LY K W K DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R O K O Y LY K W K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/8 K2 LN4 K6 Y2 N24 T2 K24 T24 R/8
+R/8 T24 K24 T2 N24 Y2 K6 LN4 K2 B/8
 ![Sett](sett.png)
 
 ## Palette
@@ -907,19 +910,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Rust](/setts/s12/r3k2p12w2p12k12g12ly2g12k2r1b2~x2/) — ΔT 0.80
 1. [Maryland](/setts/s8/dt8t1db1t1m12ly6k12w2~x4/) — ΔT 0.94
-1. [Campbell Hunting](/setts/s10/b4k1w2k3ly1o12dy1k12dy12r4~x2/) — ΔT 0.96
-1. [Cree](/setts/s13/ly3dr22db2k7ly3k2w3k2g7r5k3r3w3~x2/) — ΔT 1.05
+1. [Campbell Hunting](/setts/s10/r4dy12k12dy1o12ly1k3w2k1b4~x2/) — ΔT 0.97
+1. [Cree](/setts/s13/w3r3k3r5g7k2w3k2ly3k7db2dr22ly3~x2/) — ΔT 1.05
 1. [McMuldroch (2014)](/setts/s10/g19k18r18w2ly2dp2ly2w2r8dp3~x2/) — ΔT 1.11
 1. [Teall of Teallach](/setts/s9/k2t6k1db7dg13w1k11r14ly2~x2/) — ΔT 1.11
-1. [Cree Clan Tartan Tartan Number: 1856. Earliest known date: 1981 A branch of the Stewart clan from Galloway and the South West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/ly3do22db2k7ly3k2w3k2g7r5k3r3w3~x2/) — ΔT 1.12
+1. [Cree Clan Tartan Tartan Number: 1856. Earliest known date: 1981 A branch of the Stewart clan from Galloway and the South West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/w3r3k3r5g7k2w3k2ly3k7db2do22ly3~x2/) — ΔT 1.12
 1. [Crozier/Crosser](/setts/s11/w4db5r3db22ly4k3dg17r7k2r7ly2~x2/) — ΔT 1.13
 1. [Rust Personal Tartan Tartan Number: 555. Earliest known date: Oman 1983 Amended sett from T.S.D See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/r3k2dp12w2dp12k12g12ly2g12k2r1t2~x2/) — ΔT 1.14
 1. [Prince Albert](/setts/s13/db23r6db6k10ly3k2w2k2g11r12k2r10w2~x2/) — ΔT 1.15
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r3k2p12w2p12k12g12ly2g12k2r1b2~x2/"><circle cx="80.7" cy="114.2" r="4" fill="#3465a4"><title>Rust</title></circle></a><a href="/setts/s8/dt8t1db1t1m12ly6k12w2~x4/"><circle cx="68.6" cy="125.2" r="4" fill="#3465a4"><title>Maryland</title></circle></a><a href="/setts/s10/b4k1w2k3ly1o12dy1k12dy12r4~x2/"><circle cx="89.2" cy="122.0" r="4" fill="#3465a4"><title>Campbell Hunting</title></circle></a><a href="/setts/s13/ly3dr22db2k7ly3k2w3k2g7r5k3r3w3~x2/"><circle cx="74.7" cy="90.1" r="4" fill="#3465a4"><title>Cree</title></circle></a><a href="/setts/s10/g19k18r18w2ly2dp2ly2w2r8dp3~x2/"><circle cx="106.5" cy="129.4" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s9/k2t6k1db7dg13w1k11r14ly2~x2/"><circle cx="62.1" cy="128.5" r="4" fill="#3465a4"><title>Teall of Teallach</title></circle></a><a href="/setts/s13/ly3do22db2k7ly3k2w3k2g7r5k3r3w3~x2/"><circle cx="86.1" cy="94.7" r="4" fill="#3465a4"><title>Cree Clan Tartan Tartan Number: 1856. Earliest known date: 1981 A branch of the Stewart clan from Galloway and the South West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w4db5r3db22ly4k3dg17r7k2r7ly2~x2/"><circle cx="106.6" cy="128.9" r="4" fill="#3465a4"><title>Crozier/Crosser</title></circle></a><a href="/setts/s12/r3k2dp12w2dp12k12g12ly2g12k2r1t2~x2/"><circle cx="104.7" cy="125.8" r="4" fill="#3465a4"><title>Rust Personal Tartan Tartan Number: 555. Earliest known date: Oman 1983 Amended sett from T.S.D See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/db23r6db6k10ly3k2w2k2g11r12k2r10w2~x2/"><circle cx="96.5" cy="121.6" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><circle cx="76.8" cy="115.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r3k2p12w2p12k12g12ly2g12k2r1b2~x2/"><circle cx="80.8" cy="114.3" r="4" fill="#3465a4"><title>Rust</title></circle></a><a href="/setts/s8/dt8t1db1t1m12ly6k12w2~x4/"><circle cx="68.6" cy="125.4" r="4" fill="#3465a4"><title>Maryland</title></circle></a><a href="/setts/s10/r4dy12k12dy1o12ly1k3w2k1b4~x2/"><circle cx="89.3" cy="122.2" r="4" fill="#3465a4"><title>Campbell Hunting</title></circle></a><a href="/setts/s13/w3r3k3r5g7k2w3k2ly3k7db2dr22ly3~x2/"><circle cx="74.7" cy="90.2" r="4" fill="#3465a4"><title>Cree</title></circle></a><a href="/setts/s10/g19k18r18w2ly2dp2ly2w2r8dp3~x2/"><circle cx="106.5" cy="129.5" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s9/k2t6k1db7dg13w1k11r14ly2~x2/"><circle cx="62.2" cy="128.7" r="4" fill="#3465a4"><title>Teall of Teallach</title></circle></a><a href="/setts/s13/w3r3k3r5g7k2w3k2ly3k7db2do22ly3~x2/"><circle cx="86.1" cy="94.9" r="4" fill="#3465a4"><title>Cree Clan Tartan Tartan Number: 1856. Earliest known date: 1981 A branch of the Stewart clan from Galloway and the South West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w4db5r3db22ly4k3dg17r7k2r7ly2~x2/"><circle cx="106.7" cy="129.0" r="4" fill="#3465a4"><title>Crozier/Crosser</title></circle></a><a href="/setts/s12/r3k2dp12w2dp12k12g12ly2g12k2r1t2~x2/"><circle cx="104.8" cy="126.0" r="4" fill="#3465a4"><title>Rust Personal Tartan Tartan Number: 555. Earliest known date: Oman 1983 Amended sett from T.S.D See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/db23r6db6k10ly3k2w2k2g11r12k2r10w2~x2/"><circle cx="96.5" cy="121.7" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><circle cx="76.9" cy="115.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db4k1w2k3ly1y12o1k12o12r4~x2/

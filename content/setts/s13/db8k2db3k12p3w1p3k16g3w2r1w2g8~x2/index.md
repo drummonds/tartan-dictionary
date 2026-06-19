@@ -2,7 +2,7 @@
 title: "MacKusick Family Tartan of North America"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBWBKGWRWG](/stripes/bkbkbwbkgwrwg/) · **Stripes:** [DB K DB K P W P K G W R W G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB K DB K P W P K G W R W G</span></span>
+**Bands:** [GWRWGKBWBKBKB](/stripes/gwrwgkbwbkbkb/) · **Stripes:** [G W R W G K P W P K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G W R W G K P W P K DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/16 K4 B6 K24 P6 LN2 P6 K32 G6 LN4 R2 LN4 G/16
+G/16 LN4 R2 LN4 G6 K32 P6 LN2 P6 K24 B6 K4 B/16
 ![Sett](sett.png)
 
 ## Palette
@@ -911,14 +914,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Stinson, Ancient](/setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/) — ΔT 1.05
 1. [Cornish Hunting](/setts/s12/k26ly2dg24db8k4r3k4db8dg24ly2k26w5~x2/) — ΔT 1.10
 1. [Scottish Spirit](/setts/s12/n9m3n32n12k5n2k4n2k17p4k2lb2~x2/) — ΔT 1.20
-1. [MacKusick Family Tartan of North America](/setts/s13/db8k2db3k12dp3w1dp3k16dg3w2r1w2dg8~x2/) — ΔT 1.21
+1. [MacKusick Family Tartan of North America](/setts/s13/dg8w2r1w2dg3k16dp3w1dp3k12db3k2db8~x2/) — ΔT 1.21
 1. [Bird Family (Wales) (Personal)](/setts/s10/lo4k28lo2dp7w3k9g2w4g2k2~x2/) — ΔT 1.33
 1. [Princess Diana](/setts/s12/k14r2k2r2k2g18r2g18lb1db12t1r8~x2/) — ΔT 1.34
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db8k2db3k12dp3w1dp3k16g3w2r1w2g8~x2/"><circle cx="166.7" cy="118.8" r="4" fill="#3465a4"><title>MacKusick</title></circle></a><a href="/setts/s13/db8k2db3k12dp3lb1dp3k16g3lb2r1lb2g8~x2/"><circle cx="172.5" cy="122.2" r="4" fill="#3465a4"><title>MacKusick (Name)</title></circle></a><a href="/setts/s12/k8k2o18k3k8k18dp4w3k12r1k2k2~x2/"><circle cx="181.5" cy="121.3" r="4" fill="#3465a4"><title>McMillen Memorial, Hugh E. (Personal)</title></circle></a><a href="/setts/s13/db3k3db15k15ly3k3g15w3k15db4r6k3ly1~x2/"><circle cx="123.9" cy="112.5" r="4" fill="#3465a4"><title>Allison</title></circle></a><a href="/setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/"><circle cx="171.6" cy="141.0" r="4" fill="#3465a4"><title>Stinson, Ancient</title></circle></a><a href="/setts/s12/k26ly2dg24db8k4r3k4db8dg24ly2k26w5~x2/"><circle cx="178.2" cy="144.7" r="4" fill="#3465a4"><title>Cornish Hunting</title></circle></a><a href="/setts/s12/n9m3n32n12k5n2k4n2k17p4k2lb2~x2/"><circle cx="204.2" cy="115.8" r="4" fill="#3465a4"><title>Scottish Spirit</title></circle></a><a href="/setts/s13/db8k2db3k12dp3w1dp3k16dg3w2r1w2dg8~x2/"><circle cx="197.4" cy="129.6" r="4" fill="#3465a4"><title>MacKusick Family Tartan of North America</title></circle></a><a href="/setts/s10/lo4k28lo2dp7w3k9g2w4g2k2~x2/"><circle cx="190.2" cy="107.9" r="4" fill="#3465a4"><title>Bird Family (Wales) (Personal)</title></circle></a><a href="/setts/s12/k14r2k2r2k2g18r2g18lb1db12t1r8~x2/"><circle cx="176.1" cy="117.6" r="4" fill="#3465a4"><title>Princess Diana</title></circle></a><circle cx="169.1" cy="116.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db8k2db3k12dp3w1dp3k16g3w2r1w2g8~x2/"><circle cx="166.9" cy="118.9" r="4" fill="#3465a4"><title>MacKusick</title></circle></a><a href="/setts/s13/db8k2db3k12dp3lb1dp3k16g3lb2r1lb2g8~x2/"><circle cx="172.7" cy="122.2" r="4" fill="#3465a4"><title>MacKusick (Name)</title></circle></a><a href="/setts/s12/k8k2o18k3k8k18dp4w3k12r1k2k2~x2/"><circle cx="181.7" cy="121.4" r="4" fill="#3465a4"><title>McMillen Memorial, Hugh E. (Personal)</title></circle></a><a href="/setts/s13/db3k3db15k15ly3k3g15w3k15db4r6k3ly1~x2/"><circle cx="124.0" cy="112.6" r="4" fill="#3465a4"><title>Allison</title></circle></a><a href="/setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/"><circle cx="171.7" cy="141.0" r="4" fill="#3465a4"><title>Stinson, Ancient</title></circle></a><a href="/setts/s12/k26ly2dg24db8k4r3k4db8dg24ly2k26w5~x2/"><circle cx="178.4" cy="144.8" r="4" fill="#3465a4"><title>Cornish Hunting</title></circle></a><a href="/setts/s12/n9m3n32n12k5n2k4n2k17p4k2lb2~x2/"><circle cx="204.2" cy="115.9" r="4" fill="#3465a4"><title>Scottish Spirit</title></circle></a><a href="/setts/s13/dg8w2r1w2dg3k16dp3w1dp3k12db3k2db8~x2/"><circle cx="197.5" cy="129.7" r="4" fill="#3465a4"><title>MacKusick Family Tartan of North America</title></circle></a><a href="/setts/s10/lo4k28lo2dp7w3k9g2w4g2k2~x2/"><circle cx="190.2" cy="107.9" r="4" fill="#3465a4"><title>Bird Family (Wales) (Personal)</title></circle></a><a href="/setts/s12/k14r2k2r2k2g18r2g18lb1db12t1r8~x2/"><circle cx="176.2" cy="117.6" r="4" fill="#3465a4"><title>Princess Diana</title></circle></a><circle cx="169.3" cy="116.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db8k2db3k12p3w1p3k16g3w2r1w2g8~x2/

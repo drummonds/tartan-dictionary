@@ -2,12 +2,18 @@
 title: "Robertson, dress hunting"
 date: 2023-03-18
 ---
-**Bands:** [WGRWBRBRGRBWRGW](/stripes/wgrwbrbrgrbwrgw/) · **Stripes:** [W G R W DB R DB R G R DB W R G W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W G R W DB R DB R G R DB W R G W</span></span>
+**Bands:** [WGRWBRGRBRBWRGW](/stripes/wgrwbrgrbrbwrgw/) · **Stripes:** [W G R W DB R G R DB R DB W R G W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W G R W DB R G R DB R DB W R G W</span></span>
 
 
 This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Robertson, dress hunting
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/8 G6 R20 LN40 B8 R8 B52 R8 G52 R8 B8 LN40 R20 G6 LN/8
+LN/8 G6 R20 LN40 B8 R8 G52 R8 B52 R8 B8 LN40 R20 G6 LN/8
 ![Sett](sett.png)
 
 ## Palette
@@ -909,7 +918,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Robertson dress Hunting](/setts/s15/w3dg2r8w14b3r3b20r3dg20r3b3w14r8dg2w3~x2/) — ΔT 0.46
+1. [Robertson dress Hunting](/setts/s15/w3dg2r8w14b3r3dg20r3b20r3b3w14r8dg2w3~x2/) — ΔT 0.46
 1. [Wombles Corporate Tartan Tartan Number: 1783. Earliest known date: pre 2003 Wombles International, of Jacob's Well Mews, London, patented this design which is a variant of the Jacobite tartan. Wombles are television puppet characters. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/w5db2w1g8w1db2m2w1m2db2w1lo8w1db2w5~x2/) — ΔT 0.92
 1. [Alaskan Scottish](/setts/s17/w4t1dg9t9r9t1ly4t1r9t9dg1t1dg1t1dg4t1w4~x2/) — ΔT 1.01
 1. [Wombles](/setts/s15/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x2/) — ΔT 1.02
@@ -922,8 +931,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/w3dg2r8w14b3r3b20r3dg20r3b3w14r8dg2w3~x2/"><circle cx="107.8" cy="136.6" r="4" fill="#3465a4"><title>Robertson dress Hunting</title></circle></a><a href="/setts/s15/w5db2w1g8w1db2m2w1m2db2w1lo8w1db2w5~x2/"><circle cx="91.1" cy="135.7" r="4" fill="#3465a4"><title>Wombles Corporate Tartan Tartan Number: 1783. Earliest known date: pre 2003 Wombles International, of Jacob's Well Mews, London, patented this design which is a variant of the Jacobite tartan. Wombles are television puppet characters. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/w4t1dg9t9r9t1ly4t1r9t9dg1t1dg1t1dg4t1w4~x2/"><circle cx="107.9" cy="130.7" r="4" fill="#3465a4"><title>Alaskan Scottish</title></circle></a><a href="/setts/s15/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x2/"><circle cx="92.7" cy="135.2" r="4" fill="#3465a4"><title>Wombles</title></circle></a><a href="/setts/s15/w5db2w1g8w1db2m2w1m2db2w1lo8w1db2w5~x4/"><circle cx="80.7" cy="129.2" r="4" fill="#3465a4"><title>Wombles 5 (Corporate)</title></circle></a><a href="/setts/s12/db3dy14g2dy2g2dy3g6w18db3dy2db2dy2~x2/"><circle cx="160.5" cy="143.9" r="4" fill="#3465a4"><title>Raibert Check</title></circle></a><a href="/setts/s12/w2g2r3g2r3g2r3g2r2g3lb13r1~x4/"><circle cx="183.3" cy="141.6" r="4" fill="#3465a4"><title>Princess Marina (Fashion)</title></circle></a><a href="/setts/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/"><circle cx="183.5" cy="154.3" r="4" fill="#3465a4"><title>Raibert, Check</title></circle></a><a href="/setts/s18/w28r5lb3r5k21r5lb28w3ly5w3lb28r5k21r5lb3r5w28r5~x2/"><circle cx="80.6" cy="110.6" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn Dress</title></circle></a><a href="/setts/s18/do18lo3do3lo3do3lo16w16y3w16lo16do17lo3do3lo3do17lo16w16y3~x2/"><circle cx="126.9" cy="175.9" r="4" fill="#3465a4"><title>Lamont Heather (Corporate)</title></circle></a><circle cx="118.5" cy="147.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/w3dg2r8w14b3r3dg20r3b20r3b3w14r8dg2w3~x2/"><circle cx="107.5" cy="136.6" r="4" fill="#3465a4"><title>Robertson dress Hunting</title></circle></a><a href="/setts/s15/w5db2w1g8w1db2m2w1m2db2w1lo8w1db2w5~x2/"><circle cx="90.9" cy="135.8" r="4" fill="#3465a4"><title>Wombles Corporate Tartan Tartan Number: 1783. Earliest known date: pre 2003 Wombles International, of Jacob's Well Mews, London, patented this design which is a variant of the Jacobite tartan. Wombles are television puppet characters. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/w4t1dg9t9r9t1ly4t1r9t9dg1t1dg1t1dg4t1w4~x2/"><circle cx="107.7" cy="130.8" r="4" fill="#3465a4"><title>Alaskan Scottish</title></circle></a><a href="/setts/s15/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x2/"><circle cx="92.5" cy="135.2" r="4" fill="#3465a4"><title>Wombles</title></circle></a><a href="/setts/s15/w5db2w1g8w1db2m2w1m2db2w1lo8w1db2w5~x4/"><circle cx="80.5" cy="129.2" r="4" fill="#3465a4"><title>Wombles 5 (Corporate)</title></circle></a><a href="/setts/s12/db3dy14g2dy2g2dy3g6w18db3dy2db2dy2~x2/"><circle cx="160.2" cy="143.8" r="4" fill="#3465a4"><title>Raibert Check</title></circle></a><a href="/setts/s12/w2g2r3g2r3g2r3g2r2g3lb13r1~x4/"><circle cx="183.0" cy="141.6" r="4" fill="#3465a4"><title>Princess Marina (Fashion)</title></circle></a><a href="/setts/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/"><circle cx="183.2" cy="154.3" r="4" fill="#3465a4"><title>Raibert, Check</title></circle></a><a href="/setts/s18/w28r5lb3r5k21r5lb28w3ly5w3lb28r5k21r5lb3r5w28r5~x2/"><circle cx="80.4" cy="110.6" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn Dress</title></circle></a><a href="/setts/s18/do18lo3do3lo3do3lo16w16y3w16lo16do17lo3do3lo3do17lo16w16y3~x2/"><circle cx="126.6" cy="175.9" r="4" fill="#3465a4"><title>Lamont Heather (Corporate)</title></circle></a><circle cx="118.3" cy="147.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/w4g3r10w20db4r4db26r4g26r4db4w20r10g3w4~x2/

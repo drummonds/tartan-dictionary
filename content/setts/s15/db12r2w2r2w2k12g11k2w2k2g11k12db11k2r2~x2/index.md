@@ -2,12 +2,19 @@
 title: "MacLeods Highlanders"
 date: 2023-03-18
 ---
-**Bands:** [BRWRWKGKWKGKBKR](/stripes/brwrwkgkwkgkbkr/) · **Stripes:** [DB R W R W K G K W K G K DB K R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R W R W K G K W K G K DB K R</span></span>
+**Bands:** [RKBKGKWKGKWRWRB](/stripes/rkbkgkwkgkwrwrb/) · **Stripes:** [R K DB K G K W K G K W R W R DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R K DB K G K W K G K W R W R DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2648
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacLeod's Highlanders Regimental
+- MacLeods Highlanders
 
 ## Attestations
 
@@ -320,6 +327,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +428,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +688,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,17 +926,17 @@ The nearest existing variants by ΔTartan distance.
 1. [MacKenzie Morgan](/setts/s15/db12k2db2k2db2k12g12r2w2r2g12k12db12r3db2~x2/) — ΔT 0.58
 1. [Gemmell Clan Tartan Tartan Number: 3213. Earliest known date: 2001 Design copyright is owned by Thomas Kempsill Gemmell and Davina Creighton Gemmell. Designed in traditional tartan colours. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/) — ΔT 0.60
 1. [Morgan Mackenzie (Personal?)](/setts/s15/b12k2b2k2b2k12dg12w2r2w2dg12k12b12r3b2~x2/) — ΔT 0.60
-1. [Arndt (Personal)](/setts/s14/w5db5r5db25k16g18k4g5k4g18k16db25k5w5/) — ΔT 0.60
+1. [Arndt (Personal)](/setts/s14/w5k5db25k16g18k4g5k4g18k16db25r5db5w5/) — ΔT 0.60
 1. [MacDonald of Clanranald #3](/setts/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6~x2/) — ΔT 0.71
-1. [MacDonald of Clanranald D](/setts/s13/db6r2db2r3db12r2k10lb2dg12r3dg2r2dg6/) — ΔT 0.73
+1. [MacDonald of Clanranald D](/setts/s13/dg6r2dg2r3dg12lb2k10r2db12r3db2r2db6/) — ΔT 0.74
 1. [Denovan, The Lairdship of..](/setts/s12/db10p2db3r4db14r2k14g14r4g3p2g10~x2/) — ΔT 0.74
 1. [MacRae Hunting (Wilsons)](/setts/s15/g26k4g6m4g6k26db26k3w7k3db26k26g26k3m7~x2/) — ΔT 0.77
 1. [Farquharson](/setts/s14/r2k1db8k8g8ly2g8k8db1k1db1k1db4r1~x4/) — ΔT 0.78
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db6k1db1k1db1k6g6k1w2k1g6k6db6k1r2~x2/"><circle cx="131.5" cy="190.5" r="4" fill="#3465a4"><title>MacKenzie MINI Clan Miniature Tartan Tartan Number: 2677. Earliest known date: 1778 Generated for Dupion Silk Stock list for display purpose. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12g12r2w2r2g12k12db12r3db2~x2/"><circle cx="125.9" cy="186.7" r="4" fill="#3465a4"><title>MacKenzie Morgan</title></circle></a><a href="/setts/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/"><circle cx="134.6" cy="189.6" r="4" fill="#3465a4"><title>Gemmell Clan Tartan Tartan Number: 3213. Earliest known date: 2001 Design copyright is owned by Thomas Kempsill Gemmell and Davina Creighton Gemmell. Designed in traditional tartan colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/b12k2b2k2b2k12dg12w2r2w2dg12k12b12r3b2~x2/"><circle cx="105.2" cy="177.0" r="4" fill="#3465a4"><title>Morgan Mackenzie (Personal?)</title></circle></a><a href="/setts/s14/w5db5r5db25k16g18k4g5k4g18k16db25k5w5/"><circle cx="117.0" cy="192.9" r="4" fill="#3465a4"><title>Arndt (Personal)</title></circle></a><a href="/setts/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6~x2/"><circle cx="101.1" cy="183.7" r="4" fill="#3465a4"><title>MacDonald of Clanranald #3</title></circle></a><a href="/setts/s13/db6r2db2r3db12r2k10lb2dg12r3dg2r2dg6/"><circle cx="92.7" cy="183.5" r="4" fill="#3465a4"><title>MacDonald of Clanranald D</title></circle></a><a href="/setts/s12/db10p2db3r4db14r2k14g14r4g3p2g10~x2/"><circle cx="100.8" cy="184.2" r="4" fill="#3465a4"><title>Denovan, The Lairdship of..</title></circle></a><a href="/setts/s15/g26k4g6m4g6k26db26k3w7k3db26k26g26k3m7~x2/"><circle cx="134.1" cy="174.4" r="4" fill="#3465a4"><title>MacRae Hunting (Wilsons)</title></circle></a><a href="/setts/s14/r2k1db8k8g8ly2g8k8db1k1db1k1db4r1~x4/"><circle cx="148.2" cy="178.4" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><circle cx="109.3" cy="177.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db6k1db1k1db1k6g6k1w2k1g6k6db6k1r2~x2/"><circle cx="131.7" cy="190.6" r="4" fill="#3465a4"><title>MacKenzie MINI Clan Miniature Tartan Tartan Number: 2677. Earliest known date: 1778 Generated for Dupion Silk Stock list for display purpose. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12g12r2w2r2g12k12db12r3db2~x2/"><circle cx="126.0" cy="186.8" r="4" fill="#3465a4"><title>MacKenzie Morgan</title></circle></a><a href="/setts/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/"><circle cx="134.8" cy="189.7" r="4" fill="#3465a4"><title>Gemmell Clan Tartan Tartan Number: 3213. Earliest known date: 2001 Design copyright is owned by Thomas Kempsill Gemmell and Davina Creighton Gemmell. Designed in traditional tartan colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/b12k2b2k2b2k12dg12w2r2w2dg12k12b12r3b2~x2/"><circle cx="105.3" cy="177.1" r="4" fill="#3465a4"><title>Morgan Mackenzie (Personal?)</title></circle></a><a href="/setts/s14/w5k5db25k16g18k4g5k4g18k16db25r5db5w5/"><circle cx="117.1" cy="192.9" r="4" fill="#3465a4"><title>Arndt (Personal)</title></circle></a><a href="/setts/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6~x2/"><circle cx="101.2" cy="183.8" r="4" fill="#3465a4"><title>MacDonald of Clanranald #3</title></circle></a><a href="/setts/s13/dg6r2dg2r3dg12lb2k10r2db12r3db2r2db6/"><circle cx="92.9" cy="183.6" r="4" fill="#3465a4"><title>MacDonald of Clanranald D</title></circle></a><a href="/setts/s12/db10p2db3r4db14r2k14g14r4g3p2g10~x2/"><circle cx="100.9" cy="184.3" r="4" fill="#3465a4"><title>Denovan, The Lairdship of..</title></circle></a><a href="/setts/s15/g26k4g6m4g6k26db26k3w7k3db26k26g26k3m7~x2/"><circle cx="134.2" cy="174.5" r="4" fill="#3465a4"><title>MacRae Hunting (Wilsons)</title></circle></a><a href="/setts/s14/r2k1db8k8g8ly2g8k8db1k1db1k1db4r1~x4/"><circle cx="148.3" cy="178.5" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><circle cx="109.5" cy="177.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/db12r2w2r2w2k12g11k2w2k2g11k12db11k2r2~x2/

@@ -1,0 +1,61 @@
+---
+title: "Killen"
+date: 2023-03-18
+---
+**Bands:** [KGBKRBRKBKGKGKGKGKGKBKWKGKWKBKGKGKGKGKGKBKRBRKBGKG](/stripes/kgbkrbrkbkgkgkgkgkgkbkwkgkwkbkgkgkgkgkgkbkrbrkbgkg/) · **Stripes:** [K G DT K R DT R K DT K G K G K G K G K G K DT K W K G K W K DT K G K G K G K G K G K DT K R DT R K DT G K G](/stripes/stripes50/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G DT K R DT R K DT K G K G K G K G K G K DT K W K G K W K DT K G K G K G K G K G K DT K R DT R K DT G K G</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [50 band tartan](/bands/bands50/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1971
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Killen Personal
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1971](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1971)
+- Scottish Tartans Authority (ITI): 6575
+
+## Thread count
+G/10 K2 G16 DB16 K2 DR4 DB2 DR4 K2 DB16 K16 G2 K2 G2 K2 G16 K2 G2 K2 G2 K16 DB16 K2 LN4 K2 G16 K2 LN4 K2 DB16 K16 G2 K2 G2 K2 G16 K2 G2 K2 G2 K16 DB16 K2 DR4 DB2 DR4 K2 DB16 G16 K/2
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DB | <code style="background-color:#003C64;"><span style="color:#003C64;filter:grayscale(1) invert(1) contrast(100);">#003C64</span></code> `#003C64` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.08 |
+| DR | <code style="background-color:#800000;"><span style="color:#800000;filter:grayscale(1) invert(1) contrast(100);">#800000</span></code> `#800000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.17 |
+| G | <code style="background-color:#006C40;"><span style="color:#006C40;filter:grayscale(1) invert(1) contrast(100);">#006C40</span></code> `#006C40` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.06 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Killen (Name)](/setts/s26/g8k1w2k1dt8k8g1k1g1k1g8k1g1k1g1k8dt8k1r2dt1r2k1dt8g8k1g5~x2/) — ΔT 1.39
+1. [Gordon #4](/setts/s32/db15k3db3k3db3k15dg15r1dg1r4dg1r1dg15k15db15k3db4k3db15k15dg15ly1dg1ly4dg1ly1dg15k15db3k3db3k3~x2/) — ΔT 1.41
+1. [Campbell](/setts/s29/db4k1db1k1db1k8g8k1w2k1g8k8db8k1db1k1db8k8g8k1ly2k1g8k8db1k1db1k1db4~x8/) — ΔT 1.52
+1. [MacEwen (Clans Originaux)](/setts/s28/k1g6k6db1k1db1k1db7k1db1k1db1k6g6k1r1k1g6k6db6k1db1k1db6k6g6k1ly1~x4/) — ΔT 1.55
+1. [Campbell of Argyll Clan Tartan Tartan Number: 1961. Earliest known date: 1810-15 This sett appears in the Cockburn Collection, (1815). Logan (1831). Vestiarium Scoticum (1842). Smibert (1850). Smith (1850). Grant (1886). The Setts No: 19 (1950). W & A K Johnston (1906). Like many of the earliest clan setts, the Campbell of Argyll, owes its origin to the post rebellion output of Wilson's of Bannockburn, whose monopoly on military supply dictated design. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s28/k8g8k1ly2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1~x2/) — ΔT 1.57
+1. [Gordon of Esselmont](/setts/s32/k2db14k14g14ly2g2ly4g2ly2g14k14db2k2db2k2db15k2db2k2db2k14g14ly2g2ly4g2ly2g14k14db14k2db2~x2/) — ΔT 1.64
+1. [Allen Personal Tartan Tartan Number: 2482. Earliest known date: 1997 Designed for Christopher Allen Holler of Winter Park Florida and for use by anyone of the name Allen or any of its variations. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s40/r2g12k4db11r2db11k4db2k9db2k9db2k4db11ly2db11k4g12r2g2r2g12k4db11ly2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/) — ΔT 1.66
+1. [Summers Family Tartan Tartan Number: 2179. Earliest known date: 19th C A fragment of this tartan was found in an old bible belonging to the Summers family which may have arrived in the US when the family emigrated in the early 18th C. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s32/dg10r5dg42db16g5db5g5db5g36db5g5db5g5db16dg42r5dg10ly5dg42db16g5db5g5db5g36db5g5db5g5db16dg42ly5/) — ΔT 1.67
+1. [Duchess of Albany](/setts/s27/r2db24k16g3k2g2k2g12k2g2k2g3db8g2db8g3k2g2k2g12k2g2k2g3k16db22lo2~x2/) — ΔT 1.67
+1. [Gordon Clan](/setts/s28/db23k3db3k3db3k17g22k2ly4k2g22k17db22k3db3~x2/) — ΔT 1.70
+
+## Neighbour map
+
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s26/g8k1w2k1dt8k8g1k1g1k1g8k1g1k1g1k8dt8k1r2dt1r2k1dt8g8k1g5~x2/"><circle cx="176.7" cy="161.7" r="4" fill="#3465a4"><title>Killen (Name)</title></circle></a><a href="/setts/s32/db15k3db3k3db3k15dg15r1dg1r4dg1r1dg15k15db15k3db4k3db15k15dg15ly1dg1ly4dg1ly1dg15k15db3k3db3k3~x2/"><circle cx="194.7" cy="131.1" r="4" fill="#3465a4"><title>Gordon #4</title></circle></a><a href="/setts/s29/db4k1db1k1db1k8g8k1w2k1g8k8db8k1db1k1db8k8g8k1ly2k1g8k8db1k1db1k1db4~x8/"><circle cx="166.3" cy="150.4" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/setts/s28/k1g6k6db1k1db1k1db7k1db1k1db1k6g6k1r1k1g6k6db6k1db1k1db6k6g6k1ly1~x4/"><circle cx="182.8" cy="168.6" r="4" fill="#3465a4"><title>MacEwen (Clans Originaux)</title></circle></a><a href="/setts/s28/k8g8k1ly2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1~x2/"><circle cx="167.8" cy="151.0" r="4" fill="#3465a4"><title>Campbell of Argyll Clan Tartan Tartan Number: 1961. Earliest known date: 1810-15 This sett appears in the Cockburn Collection, (1815). Logan (1831). Vestiarium Scoticum (1842). Smibert (1850). Smith (1850). Grant (1886). The Setts No: 19 (1950). W &amp; A K Johnston (1906). Like many of the earliest clan setts, the Campbell of Argyll, owes its origin to the post rebellion output of Wilson's of Bannockburn, whose monopoly on military supply dictated design. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s32/k2db14k14g14ly2g2ly4g2ly2g14k14db2k2db2k2db15k2db2k2db2k14g14ly2g2ly4g2ly2g14k14db14k2db2~x2/"><circle cx="145.5" cy="154.5" r="4" fill="#3465a4"><title>Gordon of Esselmont</title></circle></a><a href="/setts/s40/r2g12k4db11r2db11k4db2k9db2k9db2k4db11ly2db11k4g12r2g2r2g12k4db11ly2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/"><circle cx="153.4" cy="165.3" r="4" fill="#3465a4"><title>Allen Personal Tartan Tartan Number: 2482. Earliest known date: 1997 Designed for Christopher Allen Holler of Winter Park Florida and for use by anyone of the name Allen or any of its variations. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s32/dg10r5dg42db16g5db5g5db5g36db5g5db5g5db16dg42r5dg10ly5dg42db16g5db5g5db5g36db5g5db5g5db16dg42ly5/"><circle cx="236.0" cy="157.9" r="4" fill="#3465a4"><title>Summers Family Tartan Tartan Number: 2179. Earliest known date: 19th C A fragment of this tartan was found in an old bible belonging to the Summers family which may have arrived in the US when the family emigrated in the early 18th C. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s27/r2db24k16g3k2g2k2g12k2g2k2g3db8g2db8g3k2g2k2g12k2g2k2g3k16db22lo2~x2/"><circle cx="217.6" cy="132.6" r="4" fill="#3465a4"><title>Duchess of Albany</title></circle></a><a href="/setts/s28/db23k3db3k3db3k17g22k2ly4k2g22k17db22k3db3~x2/"><circle cx="188.7" cy="156.0" r="4" fill="#3465a4"><title>Gordon Clan</title></circle></a><circle cx="146.8" cy="131.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s50/g8k1w2k1dt8k8g1k1g1k1g8k1g1k1g1k8dt8k1r2dt1r2k1dt8g8k1g5~x2/

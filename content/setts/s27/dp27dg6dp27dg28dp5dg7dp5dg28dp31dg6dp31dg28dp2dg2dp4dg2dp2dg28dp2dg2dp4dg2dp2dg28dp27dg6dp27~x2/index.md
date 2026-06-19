@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [27 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2757
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacRae, Rae
+- MacRae/Rae
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -32,7 +39,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-P/54 G12 P54 G56 P4 G4 P8 G4 P4 G56 P4 G4 P8 G4 P4 G56 P62 G12 P62 G56 P10 G14 P10 G56 P54 G12 P/54
+P/54 G12 P54 G56 P10 G14 P10 G56 P62 G12 P62 G56 P4 G4 P8 G4 P4 G56 P4 G4 P8 G4 P4 G56 P54 G12 P/54
 ![Sett](sett.png)
 
 ## Palette
@@ -52,16 +59,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Rae (Wilsons) (Clan)](/setts/s27/dp27dg12dp54dg56dp10dg14dp10dg56dp62dg12dp62dg56dp4dg4dp8dg4dp4dg56dp4dg4dp8dg4dp4dg56dp54dg12dp27/) — ΔT 1.45
 1. [MacRae, (Rae)](/setts/s27/p14g3p14g14p3g3p3g14p16g3p16g14p1g1p2g1p1g14p1g1p2g1p1g14p14g3p14~x2/) — ΔT 1.86
 1. [MacRae, Rae](/setts/s27/p27g6p27g28p5g7p5g28p31g6p31g28p2g2p4g2p2g28p2g2p4g2p2g28p27g6p27~x2/) — ΔT 1.89
-1. [Fleming Commemorative Tartan Tartan Number: 2531. Earliest known date: 1997 Kilt was created for Scotland Flanders 2002 as a cultural exchange product. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s28/db16k3db3k3db3k16db17k2ly4k2db17k16db17k2w4k2db17k16db17k2ly4k2db17k16db3k3db3k3~x2/) — ΔT 2.20
-1. [Orlando Police Department](/setts/s16/db12ly1t16db1t1db14t3db14ly1db14t3db14t1db1t16ly1~x4/) — ΔT 2.20
-1. [James of Wales](/setts/s28/k4lo2r7db11lo1db11r7db4r3db6k1db6r3k1db11k1r3db6k1db6r3db4r7db11lo1db11r7lo2~x2/) — ΔT 2.24
+1. [Fleming Commemorative Tartan Tartan Number: 2531. Earliest known date: 1997 Kilt was created for Scotland Flanders 2002 as a cultural exchange product. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s28/db16k3db3k3db3k16db17k2ly4k2db17k16db17k2w4~x2/) — ΔT 2.20
+1. [Orlando Police Department](/setts/s16/db12ly1t16db1t1db14t3db14ly1~x4/) — ΔT 2.20
+1. [James of Wales](/setts/s28/db11k1r3db6k1db6r3db4r7db11lo1db11r7lo2k4/) — ΔT 2.24
 1. [MacRae, (MacCrae)](/setts/s31/p25g6p25g26p5g7p5g26w3g7p29g6p29g7w3g26p2g2p4g2p2g26p2g2p4g2p2g26p25g6p25~x2/) — ΔT 2.26
 1. [MacKay, Marled](/setts/s36/k4n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k12n4k12n4/) — ΔT 2.27
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s27/dp14dg3dp14dg14dp3dg3dp3dg14dp16dg3dp16dg14dp1dg1dp2dg1dp1dg14dp1dg1dp2dg1dp1dg14dp14dg3dp14~x2/"><circle cx="396.7" cy="186.5" r="4" fill="#3465a4"><title>MacRae (Rae)</title></circle></a><a href="/setts/s31/dp25dg6dp25dg26dp5dg7dp5dg26w3dg7dp29dg6dp29dg7w3dg26dp2dg2dp4dg2dp2dg26dp2dg2dp4dg2dp2dg26dp25dg6dp25~x2/"><circle cx="340.7" cy="160.4" r="4" fill="#3465a4"><title>MacRae (MacCrae)</title></circle></a><a href="/setts/s27/dp27dg12dp54dg56dp10dg14dp10dg56dp62dg12dp62dg56dp4dg4dp8dg4dp4dg56dp4dg4dp8dg4dp4dg56dp54dg12dp27/"><circle cx="390.3" cy="189.1" r="4" fill="#3465a4"><title>Rae (Wilsons) (Clan)</title></circle></a><a href="/setts/s27/p14g3p14g14p3g3p3g14p16g3p16g14p1g1p2g1p1g14p1g1p2g1p1g14p14g3p14~x2/"><circle cx="357.1" cy="158.5" r="4" fill="#3465a4"><title>MacRae, (Rae)</title></circle></a><a href="/setts/s27/p27g6p27g28p5g7p5g28p31g6p31g28p2g2p4g2p2g28p2g2p4g2p2g28p27g6p27~x2/"><circle cx="351.0" cy="159.9" r="4" fill="#3465a4"><title>MacRae, Rae</title></circle></a><a href="/setts/s28/db16k3db3k3db3k16db17k2ly4k2db17k16db17k2w4k2db17k16db17k2ly4k2db17k16db3k3db3k3~x2/"><circle cx="307.6" cy="178.2" r="4" fill="#3465a4"><title>Fleming Commemorative Tartan Tartan Number: 2531. Earliest known date: 1997 Kilt was created for Scotland Flanders 2002 as a cultural exchange product. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/db12ly1t16db1t1db14t3db14ly1db14t3db14t1db1t16ly1~x4/"><circle cx="408.7" cy="192.2" r="4" fill="#3465a4"><title>Orlando Police Department</title></circle></a><a href="/setts/s28/k4lo2r7db11lo1db11r7db4r3db6k1db6r3k1db11k1r3db6k1db6r3db4r7db11lo1db11r7lo2~x2/"><circle cx="354.2" cy="187.9" r="4" fill="#3465a4"><title>James of Wales</title></circle></a><a href="/setts/s31/p25g6p25g26p5g7p5g26w3g7p29g6p29g7w3g26p2g2p4g2p2g26p2g2p4g2p2g26p25g6p25~x2/"><circle cx="309.7" cy="137.3" r="4" fill="#3465a4"><title>MacRae, (MacCrae)</title></circle></a><a href="/setts/s36/k4n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k12n4k12n4/"><circle cx="457.3" cy="159.3" r="4" fill="#3465a4"><title>MacKay, Marled</title></circle></a><circle cx="390.7" cy="187.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s27/dp14dg3dp14dg14dp3dg3dp3dg14dp16dg3dp16dg14dp1dg1dp2dg1dp1dg14dp1dg1dp2dg1dp1dg14dp14dg3dp14~x2/"><circle cx="396.5" cy="186.4" r="4" fill="#3465a4"><title>MacRae (Rae)</title></circle></a><a href="/setts/s31/dp25dg6dp25dg26dp5dg7dp5dg26w3dg7dp29dg6dp29dg7w3dg26dp2dg2dp4dg2dp2dg26dp2dg2dp4dg2dp2dg26dp25dg6dp25~x2/"><circle cx="340.5" cy="160.3" r="4" fill="#3465a4"><title>MacRae (MacCrae)</title></circle></a><a href="/setts/s27/dp27dg12dp54dg56dp10dg14dp10dg56dp62dg12dp62dg56dp4dg4dp8dg4dp4dg56dp4dg4dp8dg4dp4dg56dp54dg12dp27/"><circle cx="390.1" cy="189.0" r="4" fill="#3465a4"><title>Rae (Wilsons) (Clan)</title></circle></a><a href="/setts/s27/p14g3p14g14p3g3p3g14p16g3p16g14p1g1p2g1p1g14p1g1p2g1p1g14p14g3p14~x2/"><circle cx="356.8" cy="158.3" r="4" fill="#3465a4"><title>MacRae, (Rae)</title></circle></a><a href="/setts/s27/p27g6p27g28p5g7p5g28p31g6p31g28p2g2p4g2p2g28p2g2p4g2p2g28p27g6p27~x2/"><circle cx="350.7" cy="159.7" r="4" fill="#3465a4"><title>MacRae, Rae</title></circle></a><a href="/setts/s28/db16k3db3k3db3k16db17k2ly4k2db17k16db17k2w4~x2/"><circle cx="307.6" cy="178.2" r="4" fill="#3465a4"><title>Fleming Commemorative Tartan Tartan Number: 2531. Earliest known date: 1997 Kilt was created for Scotland Flanders 2002 as a cultural exchange product. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/db12ly1t16db1t1db14t3db14ly1~x4/"><circle cx="408.6" cy="192.1" r="4" fill="#3465a4"><title>Orlando Police Department</title></circle></a><a href="/setts/s28/db11k1r3db6k1db6r3db4r7db11lo1db11r7lo2k4/"><circle cx="354.1" cy="188.0" r="4" fill="#3465a4"><title>James of Wales</title></circle></a><a href="/setts/s31/p25g6p25g26p5g7p5g26w3g7p29g6p29g7w3g26p2g2p4g2p2g26p2g2p4g2p2g26p25g6p25~x2/"><circle cx="309.4" cy="137.2" r="4" fill="#3465a4"><title>MacRae, (MacCrae)</title></circle></a><a href="/setts/s36/k4n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k12n4k12n4/"><circle cx="457.1" cy="159.2" r="4" fill="#3465a4"><title>MacKay, Marled</title></circle></a><circle cx="390.6" cy="187.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s27/dp27dg6dp27dg28dp5dg7dp5dg28dp31dg6dp31dg28dp2dg2dp4dg2dp2dg28dp2dg2dp4dg2dp2dg28dp27dg6dp27~x2/

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/8 K2 G24 B2 R20 B2 G48 B2 R/96
+R/96 B2 G48 B2 R20 B2 G24 K2 LN/8
 ![Sett](sett.png)
 
 ## Palette
@@ -905,19 +908,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Seton](/setts/s10/g6w1g12r4db4r2k4r32g1r2~x2/) — ΔT 0.92
 1. [Strang (Personal)](/setts/s8/r36g18r4g6k1lb2k1g2~x2/) — ΔT 1.17
-1. [Drummond of Perth](/setts/s8/r36lb1db3ly1dg16r8db3lb5~x2/) — ΔT 1.25
+1. [Drummond of Perth](/setts/s8/r36lb1db3ly1dg16r8db3lb5/) — ΔT 1.25
 1. [Drummond of Perth](/setts/s9/r36w1db3ly1g16r8db3t2w1~x2/) — ΔT 1.25
 1. [MacDonell of Keppoch](/setts/s11/r6db1r1g28r4db8w1r32g1r4g2~x2/) — ΔT 1.26
 1. [Union Memorial Tartan (Military)](/setts/s10/ly12ly4lb4ly4db2r56lb18db1r4r3~x2/) — ΔT 1.27
 1. [Chisholm](/setts/s10/r6w1r24db6g2k1g2k1g12r1~x2/) — ΔT 1.28
-1. [Scott - 1842 (Clan)](/setts/s10/g4r3k1r28g14r4g4w3g4r4~x2/) — ΔT 1.29
-1. [Hay](/setts/s14/lb6r2k1r2dg4r48dg12r2dg2r2dg36ly2dg4r6/) — ΔT 1.31
+1. [Scott - 1842 (Clan)](/setts/s10/r4g4w3g4r4g14r28k1r3g4~x2/) — ΔT 1.29
+1. [Hay](/setts/s14/r6dg4ly2dg36r2dg2r2dg12r48dg4r2k1r2lb6/) — ΔT 1.31
 1. [MacDonald of Glencoe #3](/setts/s13/g8r1r6g3r40y2k12r6g30r3k2r1r6~x2/) — ΔT 1.31
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g6w1g12r4db4r2k4r32g1r2~x2/"><circle cx="369.0" cy="88.8" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s8/r36g18r4g6k1lb2k1g2~x2/"><circle cx="423.4" cy="123.4" r="4" fill="#3465a4"><title>Strang (Personal)</title></circle></a><a href="/setts/s8/r36lb1db3ly1dg16r8db3lb5~x2/"><circle cx="373.5" cy="93.7" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s9/r36w1db3ly1g16r8db3t2w1~x2/"><circle cx="395.0" cy="75.7" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s11/r6db1r1g28r4db8w1r32g1r4g2~x2/"><circle cx="378.9" cy="109.7" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s10/ly12ly4lb4ly4db2r56lb18db1r4r3~x2/"><circle cx="378.7" cy="53.0" r="4" fill="#3465a4"><title>Union Memorial Tartan (Military)</title></circle></a><a href="/setts/s10/r6w1r24db6g2k1g2k1g12r1~x2/"><circle cx="336.0" cy="104.5" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s10/g4r3k1r28g14r4g4w3g4r4~x2/"><circle cx="382.2" cy="123.5" r="4" fill="#3465a4"><title>Scott - 1842 (Clan)</title></circle></a><a href="/setts/s14/lb6r2k1r2dg4r48dg12r2dg2r2dg36ly2dg4r6/"><circle cx="356.2" cy="57.5" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/setts/s13/g8r1r6g3r40y2k12r6g30r3k2r1r6~x2/"><circle cx="330.7" cy="77.7" r="4" fill="#3465a4"><title>MacDonald of Glencoe #3</title></circle></a><circle cx="394.6" cy="84.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g6w1g12r4db4r2k4r32g1r2~x2/"><circle cx="368.6" cy="88.7" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s8/r36g18r4g6k1lb2k1g2~x2/"><circle cx="423.0" cy="123.2" r="4" fill="#3465a4"><title>Strang (Personal)</title></circle></a><a href="/setts/s8/r36lb1db3ly1dg16r8db3lb5/"><circle cx="373.1" cy="93.6" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s9/r36w1db3ly1g16r8db3t2w1~x2/"><circle cx="394.5" cy="75.7" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s11/r6db1r1g28r4db8w1r32g1r4g2~x2/"><circle cx="378.5" cy="109.6" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s10/ly12ly4lb4ly4db2r56lb18db1r4r3~x2/"><circle cx="378.1" cy="52.9" r="4" fill="#3465a4"><title>Union Memorial Tartan (Military)</title></circle></a><a href="/setts/s10/r6w1r24db6g2k1g2k1g12r1~x2/"><circle cx="335.6" cy="104.4" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s10/r4g4w3g4r4g14r28k1r3g4~x2/"><circle cx="381.8" cy="123.4" r="4" fill="#3465a4"><title>Scott - 1842 (Clan)</title></circle></a><a href="/setts/s14/r6dg4ly2dg36r2dg2r2dg12r48dg4r2k1r2lb6/"><circle cx="355.7" cy="57.4" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/setts/s13/g8r1r6g3r40y2k12r6g30r3k2r1r6~x2/"><circle cx="330.3" cy="77.7" r="4" fill="#3465a4"><title>MacDonald of Glencoe #3</title></circle></a><circle cx="394.1" cy="84.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r48db1g24db1r10db1g12k1w4~x2/

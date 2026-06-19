@@ -2,7 +2,7 @@
 title: "Leighton"
 date: 2023-03-18
 ---
-**Bands:** [BYBGBRBR](/stripes/bybgbrbr/) · **Stripes:** [DR LY DR DG DR O DR R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="seq">DR LY DR DG DR O DR R</span></span>
+**Bands:** [RBRBGBYB](/stripes/rbrbgbyb/) · **Stripes:** [R DR O DR DG DR LY DR](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="seq">R DR O DR DG DR LY DR</span></span>
 
 
 This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,18 +913,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Duchess of York](/setts/s9/db1dy9dg5dy1k5dy1dg5dy9w1~x2/) — ΔT 1.82
 1. [MacKinnon Hunting](/setts/s7/dg1dr8dg8r1dg8dr8lr1~x4/) — ΔT 1.92
 1. [MacKinnon Hunting](/setts/s7/dg1dr8dg8r1dg8dr8lr1~x2/) — ΔT 1.92
-1. [Amazing Union (Personal)](/setts/s9/o2do15dg12do2dt12do2dg12do15r2~x4/) — ΔT 2.01
-1. [Amazing Union (Personal)](/setts/s9/o2dy15dg12dy2dt12dy2dg12dy15r2~x4/) — ΔT 2.04
+1. [Amazing Union (Personal)](/setts/s9/r2do15dg12do2dt12do2dg12do15o2~x4/) — ΔT 2.01
+1. [Amazing Union (Personal)](/setts/s9/r2dy15dg12dy2dt12dy2dg12dy15o2~x4/) — ΔT 2.04
 1. [Leighton (Personal)](/setts/s8/dr20lo4dr20g35do20dy16dr28r8/) — ΔT 2.12
 1. [Leighton (Personal)](/setts/s8/dr5lo1dr5g9do5dy4dr7r2~x4/) — ΔT 2.13
 1. [Wasko (Personal)](/setts/s7/r8lr2o30dg12o3dg12o3~x2/) — ΔT 2.14
-1. [de Vere-Austin (Clan)](/setts/s11/dg14k8dg21k2lo5k2dg21k11db18k2r5~x2/) — ΔT 2.16
+1. [de Vere-Austin (Clan)](/setts/s11/dg14k8dg21k2lo5k2dg21k11db18k2r5~x2/) — ΔT 2.15
 1. [Bute Heather, Hunting (Fashion)](/setts/s11/n12y3n36k12n8k8n16k2n18k4n10/) — ΔT 2.16
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db1dy9dg5dy1k5dy1dg5dy9w1~x2/"><circle cx="327.8" cy="239.0" r="4" fill="#3465a4"><title>Duchess of York</title></circle></a><a href="/setts/s7/dg1dr8dg8r1dg8dr8lr1~x4/"><circle cx="361.8" cy="281.8" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/setts/s7/dg1dr8dg8r1dg8dr8lr1~x2/"><circle cx="361.8" cy="281.8" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/setts/s9/o2do15dg12do2dt12do2dg12do15r2~x4/"><circle cx="321.6" cy="276.4" r="4" fill="#3465a4"><title>Amazing Union (Personal)</title></circle></a><a href="/setts/s9/o2dy15dg12dy2dt12dy2dg12dy15r2~x4/"><circle cx="270.9" cy="242.3" r="4" fill="#3465a4"><title>Amazing Union (Personal)</title></circle></a><a href="/setts/s8/dr20lo4dr20g35do20dy16dr28r8/"><circle cx="221.9" cy="242.6" r="4" fill="#3465a4"><title>Leighton (Personal)</title></circle></a><a href="/setts/s8/dr5lo1dr5g9do5dy4dr7r2~x4/"><circle cx="221.9" cy="240.3" r="4" fill="#3465a4"><title>Leighton (Personal)</title></circle></a><a href="/setts/s7/r8lr2o30dg12o3dg12o3~x2/"><circle cx="385.9" cy="226.1" r="4" fill="#3465a4"><title>Wasko (Personal)</title></circle></a><a href="/setts/s11/dg14k8dg21k2lo5k2dg21k11db18k2r5~x2/"><circle cx="302.8" cy="233.1" r="4" fill="#3465a4"><title>de Vere-Austin (Clan)</title></circle></a><a href="/setts/s11/n12y3n36k12n8k8n16k2n18k4n10/"><circle cx="421.4" cy="227.4" r="4" fill="#3465a4"><title>Bute Heather, Hunting (Fashion)</title></circle></a><circle cx="364.5" cy="266.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db1dy9dg5dy1k5dy1dg5dy9w1~x2/"><circle cx="327.8" cy="239.1" r="4" fill="#3465a4"><title>Duchess of York</title></circle></a><a href="/setts/s7/dg1dr8dg8r1dg8dr8lr1~x4/"><circle cx="361.8" cy="281.9" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/setts/s7/dg1dr8dg8r1dg8dr8lr1~x2/"><circle cx="361.8" cy="281.9" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/setts/s9/r2do15dg12do2dt12do2dg12do15o2~x4/"><circle cx="321.7" cy="276.7" r="4" fill="#3465a4"><title>Amazing Union (Personal)</title></circle></a><a href="/setts/s9/r2dy15dg12dy2dt12dy2dg12dy15o2~x4/"><circle cx="270.9" cy="242.5" r="4" fill="#3465a4"><title>Amazing Union (Personal)</title></circle></a><a href="/setts/s8/dr20lo4dr20g35do20dy16dr28r8/"><circle cx="222.0" cy="242.9" r="4" fill="#3465a4"><title>Leighton (Personal)</title></circle></a><a href="/setts/s8/dr5lo1dr5g9do5dy4dr7r2~x4/"><circle cx="222.0" cy="240.5" r="4" fill="#3465a4"><title>Leighton (Personal)</title></circle></a><a href="/setts/s7/r8lr2o30dg12o3dg12o3~x2/"><circle cx="385.7" cy="226.2" r="4" fill="#3465a4"><title>Wasko (Personal)</title></circle></a><a href="/setts/s11/dg14k8dg21k2lo5k2dg21k11db18k2r5~x2/"><circle cx="302.9" cy="233.2" r="4" fill="#3465a4"><title>de Vere-Austin (Clan)</title></circle></a><a href="/setts/s11/n12y3n36k12n8k8n16k2n18k4n10/"><circle cx="421.3" cy="227.4" r="4" fill="#3465a4"><title>Bute Heather, Hunting (Fashion)</title></circle></a><circle cx="364.6" cy="267.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/dr20ly3dr20dg36dr20o16dr28r8/

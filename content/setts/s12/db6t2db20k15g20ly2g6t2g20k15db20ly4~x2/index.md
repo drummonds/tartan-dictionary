@@ -2,7 +2,7 @@
 title: "Scottish Women's Rural Institutes"
 date: 2023-03-18
 ---
-**Bands:** [BBBKGYGBGKBY](/stripes/bbbkgygbgkby/) · **Stripes:** [DB T DB K G LY G T G K DB LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB T DB K G LY G T G K DB LY</span></span>
+**Bands:** [YBKGBGYGKBBB](/stripes/ybkgbgygkbbb/) · **Stripes:** [LY DB K G T G LY G K DB T DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB K G T G LY G K DB T DB</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -903,12 +906,12 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Spar (UK) Ltd](/setts/s12/db2k1db10k9g9r1g2w1g9k9db10k2~x4/) — ΔT 0.60
+1. [Spar (UK) Ltd](/setts/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/) — ΔT 0.60
 1. [MacLeod of Gesto](/setts/s13/db9k1db1k1db1k7g8ly2g8k7db8k1r2~x2/) — ΔT 0.65
 1. [Forsyth](/setts/s10/k23t25r4t25k23ly2g25k4g25ly4/) — ΔT 0.75
 1. [MacMillan, hunting](/setts/s10/db3ly1db12k4ly2k4g8r2g8r1~x2/) — ΔT 0.76
 1. [Biskup](/setts/s10/db12r4db18r2k19g18r4g3ly2g8~x2/) — ΔT 0.76
-1. [Hunter](/setts/s10/g8k1g8k8r1db8w1db8r1k8~x2/) — ΔT 0.79
+1. [Hunter](/setts/s10/k8r1db8w1db8r1k8g8k1g8~x2/) — ΔT 0.79
 1. [MacKenzie](/setts/s14/db10k2db2k2db2k8g8k1w2k1g8k8db9r2~x2/) — ΔT 0.84
 1. [MacRae, hunting](/setts/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/) — ΔT 0.85
 1. [Logan Rogers Hunting](/setts/s13/db11k1db1w1db1k8g8ly1g8k8db8w1db1~x2/) — ΔT 0.86
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db2k1db10k9g9r1g2w1g9k9db10k2~x4/"><circle cx="127.0" cy="175.7" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/setts/s13/db9k1db1k1db1k7g8ly2g8k7db8k1r2~x2/"><circle cx="115.6" cy="168.6" r="4" fill="#3465a4"><title>MacLeod of Gesto</title></circle></a><a href="/setts/s10/k23t25r4t25k23ly2g25k4g25ly4/"><circle cx="102.5" cy="174.8" r="4" fill="#3465a4"><title>Forsyth</title></circle></a><a href="/setts/s10/db3ly1db12k4ly2k4g8r2g8r1~x2/"><circle cx="131.5" cy="165.4" r="4" fill="#3465a4"><title>MacMillan, hunting</title></circle></a><a href="/setts/s10/db12r4db18r2k19g18r4g3ly2g8~x2/"><circle cx="116.5" cy="176.9" r="4" fill="#3465a4"><title>Biskup</title></circle></a><a href="/setts/s10/g8k1g8k8r1db8w1db8r1k8~x2/"><circle cx="104.9" cy="195.4" r="4" fill="#3465a4"><title>Hunter</title></circle></a><a href="/setts/s14/db10k2db2k2db2k8g8k1w2k1g8k8db9r2~x2/"><circle cx="123.5" cy="166.4" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/setts/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/"><circle cx="103.4" cy="161.2" r="4" fill="#3465a4"><title>MacRae, hunting</title></circle></a><a href="/setts/s13/db11k1db1w1db1k8g8ly1g8k8db8w1db1~x2/"><circle cx="159.7" cy="160.3" r="4" fill="#3465a4"><title>Logan Rogers Hunting</title></circle></a><a href="/setts/s10/db18k10g9k2r2k2g9k10db9w2~x2/"><circle cx="129.9" cy="189.3" r="4" fill="#3465a4"><title>Robertson, hunting</title></circle></a><circle cx="118.4" cy="176.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/"><circle cx="127.2" cy="175.7" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/setts/s13/db9k1db1k1db1k7g8ly2g8k7db8k1r2~x2/"><circle cx="115.7" cy="168.6" r="4" fill="#3465a4"><title>MacLeod of Gesto</title></circle></a><a href="/setts/s10/k23t25r4t25k23ly2g25k4g25ly4/"><circle cx="102.7" cy="174.8" r="4" fill="#3465a4"><title>Forsyth</title></circle></a><a href="/setts/s10/db3ly1db12k4ly2k4g8r2g8r1~x2/"><circle cx="131.6" cy="165.4" r="4" fill="#3465a4"><title>MacMillan, hunting</title></circle></a><a href="/setts/s10/db12r4db18r2k19g18r4g3ly2g8~x2/"><circle cx="116.6" cy="176.9" r="4" fill="#3465a4"><title>Biskup</title></circle></a><a href="/setts/s10/k8r1db8w1db8r1k8g8k1g8~x2/"><circle cx="105.1" cy="195.4" r="4" fill="#3465a4"><title>Hunter</title></circle></a><a href="/setts/s14/db10k2db2k2db2k8g8k1w2k1g8k8db9r2~x2/"><circle cx="123.7" cy="166.5" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/setts/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/"><circle cx="103.6" cy="161.2" r="4" fill="#3465a4"><title>MacRae, hunting</title></circle></a><a href="/setts/s13/db11k1db1w1db1k8g8ly1g8k8db8w1db1~x2/"><circle cx="159.8" cy="160.4" r="4" fill="#3465a4"><title>Logan Rogers Hunting</title></circle></a><a href="/setts/s10/db18k10g9k2r2k2g9k10db9w2~x2/"><circle cx="130.2" cy="189.3" r="4" fill="#3465a4"><title>Robertson, hunting</title></circle></a><circle cx="118.6" cy="176.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/db6t2db20k15g20ly2g6t2g20k15db20ly4~x2/

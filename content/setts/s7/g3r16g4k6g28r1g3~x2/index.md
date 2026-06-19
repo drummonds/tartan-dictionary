@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Maxwell, hunting
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -900,7 +909,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-G/6 R2 G56 K12 G8 R32 G/6
+G/6 R32 G8 K12 G56 R2 G/6
 ![Sett](sett.png)
 
 ## Palette
@@ -914,7 +923,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/6 R2 G56 K12 G8 R32 G/6 tartan")
+![Tartan detail](tartan.png "G/6 R32 G8 K12 G56 R2 G/6 tartan")
 
 ## Nearest tartans
 
@@ -933,8 +942,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g3r16w4k6g28r1g3~x2/"><circle cx="322.6" cy="141.7" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/setts/s10/g4r16g4r2g3r2g32w1g1w2~x2/"><circle cx="463.7" cy="133.7" r="4" fill="#3465a4"><title>Rothesay #2</title></circle></a><a href="/setts/s6/g68r24g8lo18g3lo18~x2/"><circle cx="368.2" cy="192.6" r="4" fill="#3465a4"><title>MacMillan/Isetan</title></circle></a><a href="/setts/s6/r8g12w5k11g42k3~x2/"><circle cx="374.0" cy="192.2" r="4" fill="#3465a4"><title>Sir Billi (Corporate)</title></circle></a><a href="/setts/s6/g36r18g4r6k1w2~x2/"><circle cx="422.4" cy="152.3" r="4" fill="#3465a4"><title>Princess Margaret Rose Tartan Tartan Number: 986. Earliest known date: 1930 Colours reversed from MacGregor See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/dg11lo1dg1lo6k1lo1~x4/"><circle cx="351.9" cy="201.3" r="4" fill="#3465a4"><title>Big Spruce Brewing</title></circle></a><a href="/setts/s8/dg5r3dg3lo2dg1ly8dg24lo2~x2/"><circle cx="442.8" cy="158.7" r="4" fill="#3465a4"><title>St. Christopher (Corporate)</title></circle></a><a href="/setts/s10/dg4r16dg4r2dg3r2dg32w2dg2w3~x2/"><circle cx="414.3" cy="158.1" r="4" fill="#3465a4"><title>Rothesay Hunting Family Tartan Tartan Number: 984. Earliest known date: 1906 One of the 'Dress' and 'Hunting' versions of clan tartans introduced for the first time in 1906 by H. Whyte's and others, 'The Tartans of the Clans and Septs of Scotland' published by W &amp; A. K. Johnston, Edinburgh. The book contains over 200 tartans and is the fore-runner of Johnston's annual pocket editions. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/dg3r6dg2r1dg2r1dg16w1dg2w3~x4/"><circle cx="417.6" cy="166.8" r="4" fill="#3465a4"><title>Prince of Wales (Fashion)</title></circle></a><a href="/setts/s6/dg11ly1dg1ly6k1ly1~x8/"><circle cx="330.4" cy="192.3" r="4" fill="#3465a4"><title>Big Spruce Brewing</title></circle></a><circle cx="398.2" cy="166.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g3r16w4k6g28r1g3~x2/"><circle cx="322.3" cy="141.5" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/setts/s10/g4r16g4r2g3r2g32w1g1w2~x2/"><circle cx="463.2" cy="133.5" r="4" fill="#3465a4"><title>Rothesay #2</title></circle></a><a href="/setts/s6/g68r24g8lo18g3lo18~x2/"><circle cx="367.9" cy="192.4" r="4" fill="#3465a4"><title>MacMillan/Isetan</title></circle></a><a href="/setts/s6/r8g12w5k11g42k3~x2/"><circle cx="373.7" cy="191.9" r="4" fill="#3465a4"><title>Sir Billi (Corporate)</title></circle></a><a href="/setts/s6/g36r18g4r6k1w2~x2/"><circle cx="422.0" cy="152.1" r="4" fill="#3465a4"><title>Princess Margaret Rose Tartan Tartan Number: 986. Earliest known date: 1930 Colours reversed from MacGregor See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/dg11lo1dg1lo6k1lo1~x4/"><circle cx="351.6" cy="201.1" r="4" fill="#3465a4"><title>Big Spruce Brewing</title></circle></a><a href="/setts/s8/dg5r3dg3lo2dg1ly8dg24lo2~x2/"><circle cx="442.4" cy="158.4" r="4" fill="#3465a4"><title>St. Christopher (Corporate)</title></circle></a><a href="/setts/s10/dg4r16dg4r2dg3r2dg32w2dg2w3~x2/"><circle cx="414.0" cy="157.8" r="4" fill="#3465a4"><title>Rothesay Hunting Family Tartan Tartan Number: 984. Earliest known date: 1906 One of the 'Dress' and 'Hunting' versions of clan tartans introduced for the first time in 1906 by H. Whyte's and others, 'The Tartans of the Clans and Septs of Scotland' published by W &amp; A. K. Johnston, Edinburgh. The book contains over 200 tartans and is the fore-runner of Johnston's annual pocket editions. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/dg3r6dg2r1dg2r1dg16w1dg2w3~x4/"><circle cx="417.2" cy="166.5" r="4" fill="#3465a4"><title>Prince of Wales (Fashion)</title></circle></a><a href="/setts/s6/dg11ly1dg1ly6k1ly1~x8/"><circle cx="330.1" cy="192.0" r="4" fill="#3465a4"><title>Big Spruce Brewing</title></circle></a><circle cx="397.9" cy="166.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/g3r16g4k6g28r1g3~x2/

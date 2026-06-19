@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -909,9 +912,9 @@ The nearest existing variants by ΔTartan distance.
 1. [Childers](/setts/s6/k88g17k8g28k8r6~x2/) — ΔT 1.29
 1. [O'Boyle (Name)](/setts/s7/g12k1r1k12m9k45g9~x2/) — ΔT 1.63
 1. [Childers (Gurkha Rifles) (Military)](/setts/s6/k88dg17k8y28k8r6/) — ΔT 1.66
-1. [Wcwm 9275 5471-2](/setts/s6/ly4k1k38dg28k2r4~x2/) — ΔT 1.67
+1. [Wcwm 9275 5471-2](/setts/s6/r4k2dg28k38k1ly4~x2/) — ΔT 1.67
 1. [Perry Hunting (Green) (Personal)](/setts/s5/k75g26lr2g4lo5~x2/) — ΔT 1.71
-1. [Forbes VS](/setts/s6/ly1k4dg3k8dg16r1/) — ΔT 1.84
+1. [Forbes VS](/setts/s6/r1dg16k8dg3k4ly1/) — ΔT 1.84
 1. [Perry Ancient (Personal)](/setts/s5/k75y26y3k4ly6~x2/) — ΔT 1.87
 1. [Perry (Calgary), Alex (Personal)](/setts/s4/k62dt24lo5w3~x2/) — ΔT 1.89
 1. [Wesley Owen 2010 (Personal)](/setts/s4/k61g10g20w4~x2/) — ΔT 1.95
@@ -919,8 +922,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k88g17k8g28k8r6~x2/"><circle cx="376.3" cy="186.1" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/setts/s7/g12k1r1k12m9k45g9~x2/"><circle cx="415.6" cy="139.7" r="4" fill="#3465a4"><title>O'Boyle (Name)</title></circle></a><a href="/setts/s6/k88dg17k8y28k8r6/"><circle cx="398.2" cy="194.0" r="4" fill="#3465a4"><title>Childers (Gurkha Rifles) (Military)</title></circle></a><a href="/setts/s6/ly4k1k38dg28k2r4~x2/"><circle cx="358.1" cy="156.0" r="4" fill="#3465a4"><title>Wcwm 9275 5471-2</title></circle></a><a href="/setts/s5/k75g26lr2g4lo5~x2/"><circle cx="466.5" cy="166.9" r="4" fill="#3465a4"><title>Perry Hunting (Green) (Personal)</title></circle></a><a href="/setts/s6/ly1k4dg3k8dg16r1/"><circle cx="340.5" cy="198.6" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/setts/s5/k75y26y3k4ly6~x2/"><circle cx="463.0" cy="182.7" r="4" fill="#3465a4"><title>Perry Ancient (Personal)</title></circle></a><a href="/setts/s4/k62dt24lo5w3~x2/"><circle cx="421.6" cy="203.7" r="4" fill="#3465a4"><title>Perry (Calgary), Alex (Personal)</title></circle></a><a href="/setts/s4/k61g10g20w4~x2/"><circle cx="361.0" cy="211.5" r="4" fill="#3465a4"><title>Wesley Owen 2010 (Personal)</title></circle></a><a href="/setts/s6/k44g8k4g13k4w3~x2/"><circle cx="413.5" cy="193.1" r="4" fill="#3465a4"><title>Childers (Personal)</title></circle></a><circle cx="415.8" cy="161.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k88g17k8g28k8r6~x2/"><circle cx="376.4" cy="185.8" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/setts/s7/g12k1r1k12m9k45g9~x2/"><circle cx="415.5" cy="139.4" r="4" fill="#3465a4"><title>O'Boyle (Name)</title></circle></a><a href="/setts/s6/k88dg17k8y28k8r6/"><circle cx="398.3" cy="193.7" r="4" fill="#3465a4"><title>Childers (Gurkha Rifles) (Military)</title></circle></a><a href="/setts/s6/r4k2dg28k38k1ly4~x2/"><circle cx="358.2" cy="155.8" r="4" fill="#3465a4"><title>Wcwm 9275 5471-2</title></circle></a><a href="/setts/s5/k75g26lr2g4lo5~x2/"><circle cx="466.4" cy="166.7" r="4" fill="#3465a4"><title>Perry Hunting (Green) (Personal)</title></circle></a><a href="/setts/s6/r1dg16k8dg3k4ly1/"><circle cx="340.5" cy="198.4" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/setts/s5/k75y26y3k4ly6~x2/"><circle cx="462.9" cy="182.4" r="4" fill="#3465a4"><title>Perry Ancient (Personal)</title></circle></a><a href="/setts/s4/k62dt24lo5w3~x2/"><circle cx="421.6" cy="203.4" r="4" fill="#3465a4"><title>Perry (Calgary), Alex (Personal)</title></circle></a><a href="/setts/s4/k61g10g20w4~x2/"><circle cx="361.0" cy="211.2" r="4" fill="#3465a4"><title>Wesley Owen 2010 (Personal)</title></circle></a><a href="/setts/s6/k44g8k4g13k4w3~x2/"><circle cx="413.5" cy="192.8" r="4" fill="#3465a4"><title>Childers (Personal)</title></circle></a><circle cx="415.9" cy="161.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/k65g27w2k4ly5~x2/

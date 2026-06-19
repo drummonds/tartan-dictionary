@@ -20,7 +20,7 @@ BBWBRY
 
 
 
-### DB DT W DP R LY <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB DT W DP R LY</span></span>
+### LY R DP W DT DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="seq">LY R DP W DT DB</span></span>
 
 | Tartans |
 |---------------|

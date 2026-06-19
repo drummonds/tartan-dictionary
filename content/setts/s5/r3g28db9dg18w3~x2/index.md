@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/6 DG36 DB18 G56 R/6
+R/6 G56 DB18 DG36 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -908,27 +911,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/6 DG36 DB18 G56 R/6 tartan")
+![Tartan detail](tartan.png "R/6 G56 DB18 DG36 LN/6 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Cultoquhey Hotel](/setts/s5/ly3g32k11db22r3~x2/) — ΔT 0.94
+1. [Cultoquhey Hotel](/setts/s5/r3db22k11g32ly3~x2/) — ΔT 0.94
 1. [Wcwm 1716](/setts/s6/g6ly3g26dg10dt30lb3~x2/) — ΔT 0.96
 1. [New Mexico](/setts/s7/g10db42r5dg42g42ly5g10/) — ΔT 0.97
 1. [Gorman, George (Personal)](/setts/s6/g9g1p2g1db4r1~x12/) — ΔT 0.97
-1. [MacSween Hunting (Lochs, Isle of Lew](/setts/s7/g3r3g31dg18g4k22ly3/) — ΔT 1.02
+1. [MacSween Hunting (Lochs, Isle of Lew](/setts/s7/g3r3g31dg18g4k22ly3/) — ΔT 1.03
 1. [Wellington (Lochcarron)](/setts/s5/k9lr6n22g28ly2~x2/) — ΔT 1.05
 1. [MPS Emerald Society](/setts/s6/ly4dg30g15db5b10ly4~x2/) — ΔT 1.10
-1. [Ellan Vannin](/setts/s6/b2g13lb2dp4g8g2~x4/) — ΔT 1.11
+1. [Ellan Vannin](/setts/s6/g2g8dp4lb2g13b2~x4/) — ΔT 1.11
 1. [Reidy Wedding](/setts/s7/g31dg7lo3dg14g8db18dp5~x2/) — ΔT 1.13
 1. [Balfour Hunting](/setts/s6/b30ly3dy11ly3g33r6~x2/) — ΔT 1.17
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/ly3g32k11db22r3~x2/"><circle cx="226.4" cy="217.8" r="4" fill="#3465a4"><title>Cultoquhey Hotel</title></circle></a><a href="/setts/s6/g6ly3g26dg10dt30lb3~x2/"><circle cx="216.3" cy="211.9" r="4" fill="#3465a4"><title>Wcwm 1716</title></circle></a><a href="/setts/s7/g10db42r5dg42g42ly5g10/"><circle cx="187.8" cy="218.0" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/setts/s6/g9g1p2g1db4r1~x12/"><circle cx="247.1" cy="202.8" r="4" fill="#3465a4"><title>Gorman, George (Personal)</title></circle></a><a href="/setts/s7/g3r3g31dg18g4k22ly3/"><circle cx="240.0" cy="207.7" r="4" fill="#3465a4"><title>MacSween Hunting (Lochs, Isle of Lew</title></circle></a><a href="/setts/s5/k9lr6n22g28ly2~x2/"><circle cx="230.5" cy="221.1" r="4" fill="#3465a4"><title>Wellington (Lochcarron)</title></circle></a><a href="/setts/s6/ly4dg30g15db5b10ly4~x2/"><circle cx="178.4" cy="213.8" r="4" fill="#3465a4"><title>MPS Emerald Society</title></circle></a><a href="/setts/s6/b2g13lb2dp4g8g2~x4/"><circle cx="234.2" cy="239.3" r="4" fill="#3465a4"><title>Ellan Vannin</title></circle></a><a href="/setts/s7/g31dg7lo3dg14g8db18dp5~x2/"><circle cx="245.6" cy="231.0" r="4" fill="#3465a4"><title>Reidy Wedding</title></circle></a><a href="/setts/s6/b30ly3dy11ly3g33r6~x2/"><circle cx="217.0" cy="208.9" r="4" fill="#3465a4"><title>Balfour Hunting</title></circle></a><circle cx="234.7" cy="231.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r3db22k11g32ly3~x2/"><circle cx="226.5" cy="217.8" r="4" fill="#3465a4"><title>Cultoquhey Hotel</title></circle></a><a href="/setts/s6/g6ly3g26dg10dt30lb3~x2/"><circle cx="216.4" cy="211.9" r="4" fill="#3465a4"><title>Wcwm 1716</title></circle></a><a href="/setts/s7/g10db42r5dg42g42ly5g10/"><circle cx="187.9" cy="218.1" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/setts/s6/g9g1p2g1db4r1~x12/"><circle cx="247.1" cy="202.7" r="4" fill="#3465a4"><title>Gorman, George (Personal)</title></circle></a><a href="/setts/s7/g3r3g31dg18g4k22ly3/"><circle cx="240.1" cy="207.8" r="4" fill="#3465a4"><title>MacSween Hunting (Lochs, Isle of Lew</title></circle></a><a href="/setts/s5/k9lr6n22g28ly2~x2/"><circle cx="230.5" cy="221.1" r="4" fill="#3465a4"><title>Wellington (Lochcarron)</title></circle></a><a href="/setts/s6/ly4dg30g15db5b10ly4~x2/"><circle cx="178.5" cy="213.8" r="4" fill="#3465a4"><title>MPS Emerald Society</title></circle></a><a href="/setts/s6/g2g8dp4lb2g13b2~x4/"><circle cx="234.2" cy="239.3" r="4" fill="#3465a4"><title>Ellan Vannin</title></circle></a><a href="/setts/s7/g31dg7lo3dg14g8db18dp5~x2/"><circle cx="245.7" cy="231.1" r="4" fill="#3465a4"><title>Reidy Wedding</title></circle></a><a href="/setts/s6/b30ly3dy11ly3g33r6~x2/"><circle cx="216.9" cy="209.0" r="4" fill="#3465a4"><title>Balfour Hunting</title></circle></a><circle cx="234.8" cy="231.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/r3g28db9dg18w3~x2/

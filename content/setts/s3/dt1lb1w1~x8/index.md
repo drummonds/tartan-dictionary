@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1386
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Glen Moriston Estate Check
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -45,20 +51,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Aquascutum](/setts/s3/db1w1r1~x22/) — ΔT 1.78
-1. [Hogg](/setts/s4/k1w1do1w1~x8/) — ΔT 1.95
-1. [Algarve](/setts/s4/db1w1r1dg1~x20/) — ΔT 2.10
+1. [Hogg](/setts/s4/k1w1do1~x8/) — ΔT 1.95
+1. [Algarve](/setts/s4/dg1r1w1db1~x20/) — ΔT 2.10
 1. [Usa](/setts/s3/db1lr1r1~x4/) — ΔT 2.18
 1. [Dacre Estate Check](/setts/s3/k1w1r1~x14/) — ΔT 2.25
-1. [Mothers Pride](/setts/s3/ly1db1r1~x40/) — ΔT 2.37
+1. [Mothers Pride](/setts/s3/r1db1ly1~x40/) — ΔT 2.37
 1. [Coigach Tweed](/setts/s3/k1lb1o1~x6/) — ΔT 2.43
-1. [Haig Check (Estate Check)](/setts/s8/b1w1k1w1k1w1k1w1~x12/) — ΔT 2.54
+1. [Haig Check (Estate Check)](/setts/s8/k1w1k1w1b1~x12/) — ΔT 2.54
 1. [Sillitoe](/setts/s2/db1w1~x20/) — ΔT 2.60
-1. [Shepherd or Falkirk](/setts/s4/k1w1k1w1~x6/) — ΔT 2.62
+1. [Shepherd or Falkirk](/setts/s4/k1w1~x6/) — ΔT 2.62
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/db1w1r1~x22/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Aquascutum</title></circle></a><a href="/setts/s4/k1w1do1w1~x8/"><circle cx="35.3" cy="366.0" r="4" fill="#3465a4"><title>Hogg</title></circle></a><a href="/setts/s4/db1w1r1dg1~x20/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Algarve</title></circle></a><a href="/setts/s3/db1lr1r1~x4/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Usa</title></circle></a><a href="/setts/s3/k1w1r1~x14/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Dacre Estate Check</title></circle></a><a href="/setts/s3/ly1db1r1~x40/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Mothers Pride</title></circle></a><a href="/setts/s3/k1lb1o1~x6/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Coigach Tweed</title></circle></a><a href="/setts/s8/b1w1k1w1k1w1k1w1~x12/"><circle cx="23.4" cy="366.0" r="4" fill="#3465a4"><title>Haig Check (Estate Check)</title></circle></a><a href="/setts/s2/db1w1~x20/"><circle cx="109.3" cy="366.0" r="4" fill="#3465a4"><title>Sillitoe</title></circle></a><a href="/setts/s4/k1w1k1w1~x6/"><circle cx="95.6" cy="366.0" r="4" fill="#3465a4"><title>Shepherd or Falkirk</title></circle></a><circle cx="14.0" cy="366.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/db1w1r1~x22/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Aquascutum</title></circle></a><a href="/setts/s4/k1w1do1~x8/"><circle cx="35.5" cy="366.0" r="4" fill="#3465a4"><title>Hogg</title></circle></a><a href="/setts/s4/dg1r1w1db1~x20/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Algarve</title></circle></a><a href="/setts/s3/db1lr1r1~x4/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Usa</title></circle></a><a href="/setts/s3/k1w1r1~x14/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Dacre Estate Check</title></circle></a><a href="/setts/s3/r1db1ly1~x40/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Mothers Pride</title></circle></a><a href="/setts/s3/k1lb1o1~x6/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Coigach Tweed</title></circle></a><a href="/setts/s8/k1w1k1w1b1~x12/"><circle cx="23.5" cy="366.0" r="4" fill="#3465a4"><title>Haig Check (Estate Check)</title></circle></a><a href="/setts/s2/db1w1~x20/"><circle cx="109.5" cy="366.0" r="4" fill="#3465a4"><title>Sillitoe</title></circle></a><a href="/setts/s4/k1w1~x6/"><circle cx="95.8" cy="366.0" r="4" fill="#3465a4"><title>Shepherd or Falkirk</title></circle></a><circle cx="14.0" cy="366.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/dt1lb1w1~x8/

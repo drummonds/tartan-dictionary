@@ -2,7 +2,7 @@
 title: "O'Neill (Australia)"
 date: 2023-03-18
 ---
-**Bands:** [GRGWGR](/stripes/grgwgr/) · **Stripes:** [G O G W G O](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="seq">G O G W G O</span></span>
+**Bands:** [RGWGRG](/stripes/rgwgrg/) · **Stripes:** [O G W G O G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O G W G O G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -18,7 +18,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2464
 
 ## Thread count
-G/18 T40 G80 LN10 G80 T/40
+T/40 G80 LN10 G80 T40 G/18
 ![Sett](sett.png)
 
 ## Palette
@@ -32,7 +32,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/18 T40 G80 LN10 G80 T/40 tartan")
+![Tartan detail](tartan.png "T/40 G80 LN10 G80 T40 G/18 tartan")
 
 ## Nearest tartans
 
@@ -42,17 +42,17 @@ The nearest existing variants by ΔTartan distance.
 1. [O'Neill, Red (Corporate?)](/setts/s4/g9o20g46lg5~x2/) — ΔT 1.18
 1. [O'Neill (Australia) (Name)](/setts/s4/g9o20g40w5~x2/) — ΔT 1.24
 1. [Scott Autumn (Fashion)](/setts/s7/dg16ly3dg14r16dg2r2dg3~x2/) — ΔT 1.53
-1. [Confederate Artillery (Military)](/setts/s6/g2o14g8o3g12r2~x2/) — ΔT 1.62
+1. [Confederate Artillery (Military)](/setts/s6/r2g12o3g8o14g2~x2/) — ΔT 1.62
 1. [Ledford Family Tartan Tartan Number: 835. Earliest known date: 1987 A quantity of this cloth was woven in 1998 for a Ledford family in the USA. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s3/g9o4ly1~x4/) — ΔT 1.71
 1. [Highland Spring (Green)](/setts/s4/g7r3g23m7~x2/) — ΔT 1.72
-1. [Ledford](/setts/s3/dg9y4lo1~x8/) — ΔT 1.72
+1. [Ledford](/setts/s3/dg9y4lo1~x8/) — ΔT 1.73
 1. [O'Neill](/setts/s4/g9lo20g40w5~x2/) — ΔT 1.76
 1. [North Dakota State University (Corp.](/setts/s6/lo11g5lo10g4g26lo4~x2/) — ΔT 1.79
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g46o20g9o20g46lg5~x2/"><circle cx="455.7" cy="286.3" r="4" fill="#3465a4"><title>O'Neill, Red</title></circle></a><a href="/setts/s4/g9o20g46lg5~x2/"><circle cx="463.9" cy="288.8" r="4" fill="#3465a4"><title>O'Neill, Red (Corporate?)</title></circle></a><a href="/setts/s4/g9o20g40w5~x2/"><circle cx="413.4" cy="287.2" r="4" fill="#3465a4"><title>O'Neill (Australia) (Name)</title></circle></a><a href="/setts/s7/dg16ly3dg14r16dg2r2dg3~x2/"><circle cx="406.6" cy="262.5" r="4" fill="#3465a4"><title>Scott Autumn (Fashion)</title></circle></a><a href="/setts/s6/g2o14g8o3g12r2~x2/"><circle cx="385.3" cy="298.2" r="4" fill="#3465a4"><title>Confederate Artillery (Military)</title></circle></a><a href="/setts/s3/g9o4ly1~x4/"><circle cx="416.0" cy="303.8" r="4" fill="#3465a4"><title>Ledford Family Tartan Tartan Number: 835. Earliest known date: 1987 A quantity of this cloth was woven in 1998 for a Ledford family in the USA. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/g7r3g23m7~x2/"><circle cx="474.5" cy="288.9" r="4" fill="#3465a4"><title>Highland Spring (Green)</title></circle></a><a href="/setts/s3/dg9y4lo1~x8/"><circle cx="421.6" cy="306.7" r="4" fill="#3465a4"><title>Ledford</title></circle></a><a href="/setts/s4/g9lo20g40w5~x2/"><circle cx="405.8" cy="281.5" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/setts/s6/lo11g5lo10g4g26lo4~x2/"><circle cx="346.0" cy="279.7" r="4" fill="#3465a4"><title>North Dakota State University (Corp.</title></circle></a><circle cx="422.1" cy="295.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g46o20g9o20g46lg5~x2/"><circle cx="455.5" cy="286.0" r="4" fill="#3465a4"><title>O'Neill, Red</title></circle></a><a href="/setts/s4/g9o20g46lg5~x2/"><circle cx="463.7" cy="288.5" r="4" fill="#3465a4"><title>O'Neill, Red (Corporate?)</title></circle></a><a href="/setts/s4/g9o20g40w5~x2/"><circle cx="413.2" cy="286.9" r="4" fill="#3465a4"><title>O'Neill (Australia) (Name)</title></circle></a><a href="/setts/s7/dg16ly3dg14r16dg2r2dg3~x2/"><circle cx="406.4" cy="262.3" r="4" fill="#3465a4"><title>Scott Autumn (Fashion)</title></circle></a><a href="/setts/s6/r2g12o3g8o14g2~x2/"><circle cx="385.1" cy="298.1" r="4" fill="#3465a4"><title>Confederate Artillery (Military)</title></circle></a><a href="/setts/s3/g9o4ly1~x4/"><circle cx="415.8" cy="303.5" r="4" fill="#3465a4"><title>Ledford Family Tartan Tartan Number: 835. Earliest known date: 1987 A quantity of this cloth was woven in 1998 for a Ledford family in the USA. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/g7r3g23m7~x2/"><circle cx="474.2" cy="288.5" r="4" fill="#3465a4"><title>Highland Spring (Green)</title></circle></a><a href="/setts/s3/dg9y4lo1~x8/"><circle cx="421.5" cy="306.5" r="4" fill="#3465a4"><title>Ledford</title></circle></a><a href="/setts/s4/g9lo20g40w5~x2/"><circle cx="405.5" cy="281.2" r="4" fill="#3465a4"><title>O'Neill</title></circle></a><a href="/setts/s6/lo11g5lo10g4g26lo4~x2/"><circle cx="345.8" cy="279.6" r="4" fill="#3465a4"><title>North Dakota State University (Corp.</title></circle></a><circle cx="421.9" cy="295.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/o20g40w5g40o20g9~x2/

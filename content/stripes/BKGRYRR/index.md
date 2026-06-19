@@ -20,7 +20,7 @@ BKGRYRR
 
 
 
-### B K G M LO R M <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="seq">B K G M LO R M</span></span>
+### M R LO M G K B <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">M R LO M G K B</span></span>
 
 | Tartans |
 |---------------|

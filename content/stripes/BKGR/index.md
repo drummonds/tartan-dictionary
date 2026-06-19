@@ -21,7 +21,7 @@ BKGR
 Grouped by stripe pattern — the 9 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### T K G R <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">T K G R</span></span>
+### R G K T <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">R G K T</span></span>
 
 | Tartans |
 |---------------|
@@ -34,7 +34,7 @@ Grouped by stripe pattern — the 9 human-palette shadings of this band pattern,
 | [Unnamed, No 28](/setts/s4/r6g5k5t1~x2/)|
 |![Unnamed, No 28 example sett](/setts/s4/r6g5k5t1~x2/sett.png)|
 
-### DB K G R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K G R</span></span>
+### R G K DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R G K DB</span></span>
 
 | Tartans |
 |---------------|
@@ -43,7 +43,7 @@ Grouped by stripe pattern — the 9 human-palette shadings of this band pattern,
 | [Unidentified, pattern](/setts/s4/db4k5g4r1~x4/)|
 |![Unidentified, pattern example sett](/setts/s4/db4k5g4r1~x4/sett.png)|
 
-### P K G R <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">P K G R</span></span>
+### R G K P <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">R G K P</span></span>
 
 | Tartans |
 |---------------|
@@ -52,45 +52,45 @@ Grouped by stripe pattern — the 9 human-palette shadings of this band pattern,
 | [Wilson's, No 159](/setts/s4/p8k11g9r2~x2/)|
 |![Wilson's, No 159 example sett](/setts/s4/p8k11g9r2~x2/sett.png)|
 
-### B K G R <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">B K G R</span></span>
-
-| Tartans |
-|---------------|
-| [Gunn (2011) Personal Tartan Tartan Number: 10459. Earliest known date: 17th July 2011 This is a variation on the original Gunn tartan, created in memory of the designer's grandfather, William Jesse Gunn and intended principally for the designer and his immediate family. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/b20k20g20r1~x2/)|
-|![Gunn (2011) Personal Tartan Tartan Number: 10459. Earliest known date: 17th July 2011 This is a variation on the original Gunn tartan, created in memory of the designer's grandfather, William Jesse Gunn and intended principally for the designer and his immediate family. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s4/b20k20g20r1~x2/sett.png)|
-
-### DB K DG R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K DG R</span></span>
+### R DG K DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R DG K DB</span></span>
 
 | Tartans |
 |---------------|
 | [Unidentified pattern #3](/setts/s4/db4k5dg4r1~x4/)|
 |![Unidentified pattern #3 example sett](/setts/s4/db4k5dg4r1~x4/sett.png)|
 
-### DP K DG R <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">DP K DG R</span></span>
+### R DG K DP <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DG K DP</span></span>
 
 | Tartans |
 |---------------|
 | [Unidentified No 60](/setts/s4/dp6k5dg5r1~x2/)|
 |![Unidentified No 60 example sett](/setts/s4/dp6k5dg5r1~x2/sett.png)|
 
-### DP K DY R <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="seq">DP K DY R</span></span>
+### R DG K T <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">R DG K T</span></span>
+
+| Tartans |
+|---------------|
+| [Unidentified No 28](/setts/s4/r6dg5k5t1~x2/)|
+|![Unidentified No 28 example sett](/setts/s4/r6dg5k5t1~x2/sett.png)|
+
+### R DY K DP <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R DY K DP</span></span>
 
 | Tartans |
 |---------------|
 | [Bowater (Estate Check)](/setts/s4/dp1k1dy1r1~x4/)|
 |![Bowater (Estate Check) example sett](/setts/s4/dp1k1dy1r1~x4/sett.png)|
 
-### DP K G R <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">DP K G R</span></span>
+### R G K B <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R G K B</span></span>
+
+| Tartans |
+|---------------|
+| [Gunn (2011) Personal Tartan Tartan Number: 10459. Earliest known date: 17th July 2011 This is a variation on the original Gunn tartan, created in memory of the designer's grandfather, William Jesse Gunn and intended principally for the designer and his immediate family. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/b20k20g20r1~x2/)|
+|![Gunn (2011) Personal Tartan Tartan Number: 10459. Earliest known date: 17th July 2011 This is a variation on the original Gunn tartan, created in memory of the designer's grandfather, William Jesse Gunn and intended principally for the designer and his immediate family. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s4/b20k20g20r1~x2/sett.png)|
+
+### R G K DP <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R G K DP</span></span>
 
 | Tartans |
 |---------------|
 | [Norwich Collection No. 60](/setts/s4/dp8k11g9r2~x2/)|
 |![Norwich Collection No. 60 example sett](/setts/s4/dp8k11g9r2~x2/sett.png)|
-
-### T K DG R <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">T K DG R</span></span>
-
-| Tartans |
-|---------------|
-| [Unidentified No 28](/setts/s4/r6dg5k5t1~x2/)|
-|![Unidentified No 28 example sett](/setts/s4/r6dg5k5t1~x2/sett.png)|
 

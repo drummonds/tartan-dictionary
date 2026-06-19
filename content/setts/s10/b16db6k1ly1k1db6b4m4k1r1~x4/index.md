@@ -2,7 +2,7 @@
 title: "Kirk in the Hills"
 date: 2023-03-18
 ---
-**Bands:** [BBKYKBBRKR](/stripes/bbkykbbrkr/) · **Stripes:** [B DB K LY K DB B M K R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">B DB K LY K DB B M K R</span></span>
+**Bands:** [RKRBBKYKBB](/stripes/rkrbbkykbb/) · **Stripes:** [R K M B DB K LY K DB B](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R K M B DB K LY K DB B</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,15 +913,15 @@ The nearest existing variants by ΔTartan distance.
 1. [GYL family (Personal)](/setts/s10/db28r3w3r3w3r3db28k12b38w8/) — ΔT 1.10
 1. [Blue Ridge Highlands Heritage](/setts/s8/t27db9lb3g6db33lb3dr3ly2~x2/) — ΔT 1.11
 1. [Yukon (asymmetric)](/setts/s10/dp4db20ly1db2ly1db4ly4dg4w4r4~x2/) — ΔT 1.17
-1. [MacCormick Festive](/setts/s9/ly3db24r3db8k1t16k1db3w3~x2/) — ΔT 1.17
+1. [MacCormick Festive](/setts/s9/w3db3k1t16k1db8r3db24ly3~x2/) — ΔT 1.17
 1. [Yukon District Tartan Tartan Number: 1907. Earliest known date: 1984 Lord Lyon records a symetrical version. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/dp4db20ly1db2ly1db4ly4g4w4r4~x2/) — ΔT 1.18
 1. [Harmony](/setts/s12/db11t3db4lb3db3lb4db3db13b34n3b4db3~x2/) — ΔT 1.20
 1. [Hek (Name)](/setts/s9/db1w2t12k2db2k2dp15db2ly1~x2/) — ΔT 1.20
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dp12r1g4r2dp10t20db3t9w1~x2/"><circle cx="251.2" cy="139.8" r="4" fill="#3465a4"><title>Japan-Scotland Society (Corporate)</title></circle></a><a href="/setts/s8/t12db6t50db39p12dp6p6w4/"><circle cx="217.4" cy="153.0" r="4" fill="#3465a4"><title>Pride of the Nation (Fashion)</title></circle></a><a href="/setts/s9/t4lo2t34db10lr4db4dp4db23w3~x2/"><circle cx="238.0" cy="130.3" r="4" fill="#3465a4"><title>Heirloom Blue Alba (Fashion)</title></circle></a><a href="/setts/s10/db28r3w3r3w3r3db28k12b38w8/"><circle cx="183.7" cy="138.3" r="4" fill="#3465a4"><title>GYL family (Personal)</title></circle></a><a href="/setts/s8/t27db9lb3g6db33lb3dr3ly2~x2/"><circle cx="263.7" cy="146.0" r="4" fill="#3465a4"><title>Blue Ridge Highlands Heritage</title></circle></a><a href="/setts/s10/dp4db20ly1db2ly1db4ly4dg4w4r4~x2/"><circle cx="248.9" cy="104.8" r="4" fill="#3465a4"><title>Yukon (asymmetric)</title></circle></a><a href="/setts/s9/ly3db24r3db8k1t16k1db3w3~x2/"><circle cx="297.8" cy="114.6" r="4" fill="#3465a4"><title>MacCormick Festive</title></circle></a><a href="/setts/s10/dp4db20ly1db2ly1db4ly4g4w4r4~x2/"><circle cx="245.7" cy="101.9" r="4" fill="#3465a4"><title>Yukon District Tartan Tartan Number: 1907. Earliest known date: 1984 Lord Lyon records a symetrical version. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/db11t3db4lb3db3lb4db3db13b34n3b4db3~x2/"><circle cx="187.0" cy="119.8" r="4" fill="#3465a4"><title>Harmony</title></circle></a><a href="/setts/s9/db1w2t12k2db2k2dp15db2ly1~x2/"><circle cx="186.8" cy="117.5" r="4" fill="#3465a4"><title>Hek (Name)</title></circle></a><circle cx="241.4" cy="121.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dp12r1g4r2dp10t20db3t9w1~x2/"><circle cx="251.2" cy="139.8" r="4" fill="#3465a4"><title>Japan-Scotland Society (Corporate)</title></circle></a><a href="/setts/s8/t12db6t50db39p12dp6p6w4/"><circle cx="217.4" cy="153.1" r="4" fill="#3465a4"><title>Pride of the Nation (Fashion)</title></circle></a><a href="/setts/s9/t4lo2t34db10lr4db4dp4db23w3~x2/"><circle cx="238.0" cy="130.4" r="4" fill="#3465a4"><title>Heirloom Blue Alba (Fashion)</title></circle></a><a href="/setts/s10/db28r3w3r3w3r3db28k12b38w8/"><circle cx="183.7" cy="138.4" r="4" fill="#3465a4"><title>GYL family (Personal)</title></circle></a><a href="/setts/s8/t27db9lb3g6db33lb3dr3ly2~x2/"><circle cx="263.6" cy="146.0" r="4" fill="#3465a4"><title>Blue Ridge Highlands Heritage</title></circle></a><a href="/setts/s10/dp4db20ly1db2ly1db4ly4dg4w4r4~x2/"><circle cx="248.8" cy="104.7" r="4" fill="#3465a4"><title>Yukon (asymmetric)</title></circle></a><a href="/setts/s9/w3db3k1t16k1db8r3db24ly3~x2/"><circle cx="297.7" cy="114.6" r="4" fill="#3465a4"><title>MacCormick Festive</title></circle></a><a href="/setts/s10/dp4db20ly1db2ly1db4ly4g4w4r4~x2/"><circle cx="245.5" cy="101.9" r="4" fill="#3465a4"><title>Yukon District Tartan Tartan Number: 1907. Earliest known date: 1984 Lord Lyon records a symetrical version. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/db11t3db4lb3db3lb4db3db13b34n3b4db3~x2/"><circle cx="186.9" cy="119.9" r="4" fill="#3465a4"><title>Harmony</title></circle></a><a href="/setts/s9/db1w2t12k2db2k2dp15db2ly1~x2/"><circle cx="186.7" cy="117.6" r="4" fill="#3465a4"><title>Hek (Name)</title></circle></a><circle cx="241.2" cy="121.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/b16db6k1ly1k1db6b4m4k1r1~x4/

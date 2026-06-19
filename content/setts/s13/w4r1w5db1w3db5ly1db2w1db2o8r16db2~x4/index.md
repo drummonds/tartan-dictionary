@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7294
 
 ## Thread count
-DB/8 R64 N32 DBa8 LN4 DBa8 Y4 DBa20 LN12 DB4 LN20 R4 LN/16
+LN/16 R4 LN20 DB4 LN12 DBa20 Y4 DBa8 LN4 DBa8 N32 R64 DB/8
 ![Sett](sett.png)
 
 ## Palette
@@ -45,19 +45,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacCulloch Dress (Name)](/setts/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/) — ΔT 0.69
 1. [Cairn (Fashion)](/setts/s14/o3w20r1db1r1db3r4db2r4db2r4db1y8ly1~x4/) — ΔT 1.01
-1. [MacCulloch Dress Clan/Family Tartan Tartan Number: 3346. Earliest known date: 2000 Designed by Peter MacDonald for a Mr McCullogh in the USA. For use by all of the name MacCullogh/MacCulloch and variants. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s20/dy5k3g2r20db10w2g1dy1w20k4dy3k4w20dy1g1w2db10r20g2k3~x2/) — ΔT 1.02
+1. [MacCulloch Dress Clan/Family Tartan Tartan Number: 3346. Earliest known date: 2000 Designed by Peter MacDonald for a Mr McCullogh in the USA. For use by all of the name MacCullogh/MacCulloch and variants. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s20/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/) — ΔT 1.02
 1. [Salaberry-de-Valleyfield (District)](/setts/s14/db20w3db4w3db4w3r22g2k1g2lo16w1k2w1~x2/) — ΔT 1.03
-1. [Harrods](/setts/s14/o2w2k2w12o1w1o1w1o4dr5o2dr9o3r2~x2/) — ΔT 1.05
+1. [Harrods](/setts/s14/r2o3dr9o2dr5o4w1o1w1o1w12k2w2o2~x2/) — ΔT 1.05
 1. [Dalrymple of Castleton](/setts/s14/lo2r15lo3dr2lo3k14lo2t6w2t6lo2r7t10w1~x2/) — ΔT 1.09
-1. [Hebridean Arisaid Red (Dance)](/setts/s16/r6k4r23lr2w2g12db12k4w37k4db12g12w2lr2r23k4~x2/) — ΔT 1.10
+1. [Hebridean Arisaid Red (Dance)](/setts/s16/w37k4db12g12w2lr2r23k4r6~x2/) — ΔT 1.10
 1. [MacLean of Duart Dress #5](/setts/s12/t12db2k4ly2k3m3k3m19w31db2w4k2~x2/) — ΔT 1.11
 1. [Mazarian](/setts/s13/ly6w4k3t14w3r34k34w4t3ly8w3g4k2~x2/) — ΔT 1.13
 1. [Wells, Greg Dress (Personal)](/setts/s15/r6do1lo2do1dp15w2do7lo1do7w2lo15do1ly2do1r6~x2/) — ΔT 1.14
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/"><circle cx="117.2" cy="79.7" r="4" fill="#3465a4"><title>MacCulloch Dress (Name)</title></circle></a><a href="/setts/s14/o3w20r1db1r1db3r4db2r4db2r4db1y8ly1~x4/"><circle cx="147.1" cy="61.6" r="4" fill="#3465a4"><title>Cairn (Fashion)</title></circle></a><a href="/setts/s20/dy5k3g2r20db10w2g1dy1w20k4dy3k4w20dy1g1w2db10r20g2k3~x2/"><circle cx="115.2" cy="53.7" r="4" fill="#3465a4"><title>MacCulloch Dress Clan/Family Tartan Tartan Number: 3346. Earliest known date: 2000 Designed by Peter MacDonald for a Mr McCullogh in the USA. For use by all of the name MacCullogh/MacCulloch and variants. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/db20w3db4w3db4w3r22g2k1g2lo16w1k2w1~x2/"><circle cx="139.5" cy="63.9" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield (District)</title></circle></a><a href="/setts/s14/o2w2k2w12o1w1o1w1o4dr5o2dr9o3r2~x2/"><circle cx="99.9" cy="97.2" r="4" fill="#3465a4"><title>Harrods</title></circle></a><a href="/setts/s14/lo2r15lo3dr2lo3k14lo2t6w2t6lo2r7t10w1~x2/"><circle cx="95.3" cy="107.6" r="4" fill="#3465a4"><title>Dalrymple of Castleton</title></circle></a><a href="/setts/s16/r6k4r23lr2w2g12db12k4w37k4db12g12w2lr2r23k4~x2/"><circle cx="105.8" cy="80.7" r="4" fill="#3465a4"><title>Hebridean Arisaid Red (Dance)</title></circle></a><a href="/setts/s12/t12db2k4ly2k3m3k3m19w31db2w4k2~x2/"><circle cx="153.7" cy="75.1" r="4" fill="#3465a4"><title>MacLean of Duart Dress #5</title></circle></a><a href="/setts/s13/ly6w4k3t14w3r34k34w4t3ly8w3g4k2~x2/"><circle cx="114.8" cy="75.0" r="4" fill="#3465a4"><title>Mazarian</title></circle></a><a href="/setts/s15/r6do1lo2do1dp15w2do7lo1do7w2lo15do1ly2do1r6~x2/"><circle cx="99.5" cy="83.4" r="4" fill="#3465a4"><title>Wells, Greg Dress (Personal)</title></circle></a><circle cx="123.1" cy="83.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/"><circle cx="117.0" cy="79.8" r="4" fill="#3465a4"><title>MacCulloch Dress (Name)</title></circle></a><a href="/setts/s14/o3w20r1db1r1db3r4db2r4db2r4db1y8ly1~x4/"><circle cx="146.8" cy="61.7" r="4" fill="#3465a4"><title>Cairn (Fashion)</title></circle></a><a href="/setts/s20/dy5k3g2r20db10w2g1dy1w20k4dy3~x2/"><circle cx="114.9" cy="53.8" r="4" fill="#3465a4"><title>MacCulloch Dress Clan/Family Tartan Tartan Number: 3346. Earliest known date: 2000 Designed by Peter MacDonald for a Mr McCullogh in the USA. For use by all of the name MacCullogh/MacCulloch and variants. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/db20w3db4w3db4w3r22g2k1g2lo16w1k2w1~x2/"><circle cx="139.3" cy="64.0" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield (District)</title></circle></a><a href="/setts/s14/r2o3dr9o2dr5o4w1o1w1o1w12k2w2o2~x2/"><circle cx="99.7" cy="97.3" r="4" fill="#3465a4"><title>Harrods</title></circle></a><a href="/setts/s14/lo2r15lo3dr2lo3k14lo2t6w2t6lo2r7t10w1~x2/"><circle cx="95.2" cy="107.7" r="4" fill="#3465a4"><title>Dalrymple of Castleton</title></circle></a><a href="/setts/s16/w37k4db12g12w2lr2r23k4r6~x2/"><circle cx="105.7" cy="80.9" r="4" fill="#3465a4"><title>Hebridean Arisaid Red (Dance)</title></circle></a><a href="/setts/s12/t12db2k4ly2k3m3k3m19w31db2w4k2~x2/"><circle cx="153.4" cy="75.2" r="4" fill="#3465a4"><title>MacLean of Duart Dress #5</title></circle></a><a href="/setts/s13/ly6w4k3t14w3r34k34w4t3ly8w3g4k2~x2/"><circle cx="114.6" cy="75.1" r="4" fill="#3465a4"><title>Mazarian</title></circle></a><a href="/setts/s15/r6do1lo2do1dp15w2do7lo1do7w2lo15do1ly2do1r6~x2/"><circle cx="99.2" cy="83.5" r="4" fill="#3465a4"><title>Wells, Greg Dress (Personal)</title></circle></a><circle cx="122.8" cy="83.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/w4r1w5db1w3db5ly1db2w1db2o8r16db2~x4/

@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands1
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/942/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Prince George Royal
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -319,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -915,15 +924,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Baillie Dress](/setts/s8/lo24dy3lo3dy3lo3dy20w22dy4~x2/) — ΔT 1.45
 1. [J & B Whisky (Original) (Corporate)](/setts/s10/ly9r3ly12y16w5y16ly6r3ly7r2~x2/) — ΔT 1.66
 1. [Snaefell](/setts/s14/w16dy14y2dy2y2dy2y22dy2y2dy2y2dy14w16dy3~x2/) — ΔT 1.67
-1. [Turnberry Manx Snaefell Family Tartan Tartan Number: 1749. Earliest known date: 1981 A coincidence. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/lo22do2lo2do2lo2do15w17do3~x2/) — ΔT 1.73
+1. [Turnberry Manx Snaefell Family Tartan Tartan Number: 1749. Earliest known date: 1981 A coincidence. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/lo22do2lo2do2lo2do15w17do3~x2/) — ΔT 1.74
 1. [MacDiarmid, dress](/setts/s9/w38r12w37g32k3w4k3g32r4/) — ΔT 1.85
 1. [MacDiarmid Dress](/setts/s9/w38r12w37g32k3w4k3g32r4~x2/) — ΔT 1.85
 1. [Kinloch Anderson Check Fashion Tartan Tartan Number: 3003. Earliest known date: 2002 Designed by Douglas Kinloch Anderson for his Japanese & Korean markets. The use of the word 'Check' indicates that they regard it as a 'fashion tartan'. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/k18lo2k2lo3k2lo2k18lo12ly18dy3ly18lo9~x2/) — ΔT 1.89
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g26r3g3r3g3r11w27r3w5~x2/"><circle cx="210.4" cy="174.4" r="4" fill="#3465a4"><title>Lindsay, dress Red</title></circle></a><a href="/setts/s11/dg6w4dg3w4dg2w7dg2w2dg5r15w2~x2/"><circle cx="156.9" cy="179.8" r="4" fill="#3465a4"><title>Prince George</title></circle></a><a href="/setts/s9/dg26r3dg3r3dg3r11w27r3w5~x2/"><circle cx="204.7" cy="169.8" r="4" fill="#3465a4"><title>Lindsay Dress Red</title></circle></a><a href="/setts/s8/lo24dy3lo3dy3lo3dy20w22dy4~x2/"><circle cx="212.1" cy="201.4" r="4" fill="#3465a4"><title>Baillie Dress</title></circle></a><a href="/setts/s10/ly9r3ly12y16w5y16ly6r3ly7r2~x2/"><circle cx="186.8" cy="192.8" r="4" fill="#3465a4"><title>J &amp; B Whisky (Original) (Corporate)</title></circle></a><a href="/setts/s14/w16dy14y2dy2y2dy2y22dy2y2dy2y2dy14w16dy3~x2/"><circle cx="214.7" cy="158.0" r="4" fill="#3465a4"><title>Snaefell</title></circle></a><a href="/setts/s8/lo22do2lo2do2lo2do15w17do3~x2/"><circle cx="222.9" cy="175.2" r="4" fill="#3465a4"><title>Turnberry Manx Snaefell Family Tartan Tartan Number: 1749. Earliest known date: 1981 A coincidence. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/w38r12w37g32k3w4k3g32r4/"><circle cx="224.9" cy="162.2" r="4" fill="#3465a4"><title>MacDiarmid, dress</title></circle></a><a href="/setts/s9/w38r12w37g32k3w4k3g32r4~x2/"><circle cx="226.6" cy="162.4" r="4" fill="#3465a4"><title>MacDiarmid Dress</title></circle></a><a href="/setts/s12/k18lo2k2lo3k2lo2k18lo12ly18dy3ly18lo9~x2/"><circle cx="149.2" cy="159.6" r="4" fill="#3465a4"><title>Kinloch Anderson Check Fashion Tartan Tartan Number: 3003. Earliest known date: 2002 Designed by Douglas Kinloch Anderson for his Japanese &amp; Korean markets. The use of the word 'Check' indicates that they regard it as a 'fashion tartan'. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="163.3" cy="182.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g26r3g3r3g3r11w27r3w5~x2/"><circle cx="210.0" cy="174.2" r="4" fill="#3465a4"><title>Lindsay, dress Red</title></circle></a><a href="/setts/s11/dg6w4dg3w4dg2w7dg2w2dg5r15w2~x2/"><circle cx="156.6" cy="179.7" r="4" fill="#3465a4"><title>Prince George</title></circle></a><a href="/setts/s9/dg26r3dg3r3dg3r11w27r3w5~x2/"><circle cx="204.3" cy="169.6" r="4" fill="#3465a4"><title>Lindsay Dress Red</title></circle></a><a href="/setts/s8/lo24dy3lo3dy3lo3dy20w22dy4~x2/"><circle cx="211.8" cy="201.3" r="4" fill="#3465a4"><title>Baillie Dress</title></circle></a><a href="/setts/s10/ly9r3ly12y16w5y16ly6r3ly7r2~x2/"><circle cx="186.4" cy="192.7" r="4" fill="#3465a4"><title>J &amp; B Whisky (Original) (Corporate)</title></circle></a><a href="/setts/s14/w16dy14y2dy2y2dy2y22dy2y2dy2y2dy14w16dy3~x2/"><circle cx="214.4" cy="157.9" r="4" fill="#3465a4"><title>Snaefell</title></circle></a><a href="/setts/s8/lo22do2lo2do2lo2do15w17do3~x2/"><circle cx="222.6" cy="175.0" r="4" fill="#3465a4"><title>Turnberry Manx Snaefell Family Tartan Tartan Number: 1749. Earliest known date: 1981 A coincidence. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/w38r12w37g32k3w4k3g32r4/"><circle cx="224.6" cy="162.0" r="4" fill="#3465a4"><title>MacDiarmid, dress</title></circle></a><a href="/setts/s9/w38r12w37g32k3w4k3g32r4~x2/"><circle cx="226.3" cy="162.2" r="4" fill="#3465a4"><title>MacDiarmid Dress</title></circle></a><a href="/setts/s12/k18lo2k2lo3k2lo2k18lo12ly18dy3ly18lo9~x2/"><circle cx="148.9" cy="159.5" r="4" fill="#3465a4"><title>Kinloch Anderson Check Fashion Tartan Tartan Number: 3003. Earliest known date: 2002 Designed by Douglas Kinloch Anderson for his Japanese &amp; Korean markets. The use of the word 'Check' indicates that they regard it as a 'fashion tartan'. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="162.8" cy="182.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/g6w4g3w4g2w7g2w2g5r15w2~x2/

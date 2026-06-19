@@ -23,7 +23,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10663](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10663)
 
 ## Thread count
-Ka/6 LT56 K20 LT10 R4 Ka16 B4 LN6 B4 Ka16 R4 LT10 K20 LT/68
+LT/68 K20 LT10 R4 Ka16 B4 LN6 B4 Ka16 R4 LT10 K20 LT56 Ka/6
 ![Sett](sett.png)
 
 ## Palette
@@ -44,7 +44,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Lambert Hunting (Personal)](/setts/s14/lo34g10lo5r2k8b2w3b2k8r2lo5g10lo28k3~x2/) — ΔT 0.79
 1. [Recycled Lamb, The](/setts/s14/g15r1g8r3dp1r1w1r3dp1r3dp12r1g7ly1~x2/) — ΔT 1.06
-1. [Recycled Lamb, The](/setts/s14/g15r1g8m3dp1m3w1m3dp1m3dp12r1g7ly1~x2/) — ΔT 1.17
+1. [Recycled Lamb, The](/setts/s14/g15r1g8m3dp1m3w1m3dp1m3dp12r1g7ly1~x2/) — ΔT 1.18
 1. [Bro-Naoned](/setts/s10/g5dt2k2dt29r2dt2r15ly2dt4w2~x2/) — ΔT 1.24
 1. [New Jersey](/setts/s14/o4r2o24db2o1db2o4db2o1db2o8k1db16w4~x2/) — ΔT 1.27
 1. [Freiburg](/setts/s14/db5w5y36ly3y3r3y3ly3y9dg8w3db3w3dg3~x2/) — ΔT 1.34
@@ -55,8 +55,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/lo34g10lo5r2k8b2w3b2k8r2lo5g10lo28k3~x2/"><circle cx="291.4" cy="103.3" r="4" fill="#3465a4"><title>Lambert Hunting (Personal)</title></circle></a><a href="/setts/s14/g15r1g8r3dp1r1w1r3dp1r3dp12r1g7ly1~x2/"><circle cx="251.7" cy="113.1" r="4" fill="#3465a4"><title>Recycled Lamb, The</title></circle></a><a href="/setts/s14/g15r1g8m3dp1m3w1m3dp1m3dp12r1g7ly1~x2/"><circle cx="248.5" cy="120.7" r="4" fill="#3465a4"><title>Recycled Lamb, The</title></circle></a><a href="/setts/s10/g5dt2k2dt29r2dt2r15ly2dt4w2~x2/"><circle cx="319.4" cy="120.6" r="4" fill="#3465a4"><title>Bro-Naoned</title></circle></a><a href="/setts/s14/o4r2o24db2o1db2o4db2o1db2o8k1db16w4~x2/"><circle cx="350.8" cy="96.3" r="4" fill="#3465a4"><title>New Jersey</title></circle></a><a href="/setts/s14/db5w5y36ly3y3r3y3ly3y9dg8w3db3w3dg3~x2/"><circle cx="272.9" cy="102.5" r="4" fill="#3465a4"><title>Freiburg</title></circle></a><a href="/setts/s11/o40dt10y2dt2w2dt3r8o6dt2o4w2~x2/"><circle cx="371.2" cy="103.9" r="4" fill="#3465a4"><title>Cavalier, Red</title></circle></a><a href="/setts/s11/k3y3ly2y30k2y3m12y6m6k3y3~x2/"><circle cx="353.0" cy="136.7" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><a href="/setts/s11/o40dt10y2dt2w2dt3y8o6dt2o4w2~x2/"><circle cx="373.3" cy="108.4" r="4" fill="#3465a4"><title>Cavalier, Brown</title></circle></a><a href="/setts/s9/n28r2n3w2n17y8lb16lo3lb3~x2/"><circle cx="301.2" cy="145.9" r="4" fill="#3465a4"><title>Guszcza, The (Personal)</title></circle></a><circle cx="300.2" cy="104.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/lo34g10lo5r2k8b2w3b2k8r2lo5g10lo28k3~x2/"><circle cx="291.1" cy="103.2" r="4" fill="#3465a4"><title>Lambert Hunting (Personal)</title></circle></a><a href="/setts/s14/g15r1g8r3dp1r1w1r3dp1r3dp12r1g7ly1~x2/"><circle cx="251.6" cy="113.2" r="4" fill="#3465a4"><title>Recycled Lamb, The</title></circle></a><a href="/setts/s14/g15r1g8m3dp1m3w1m3dp1m3dp12r1g7ly1~x2/"><circle cx="248.3" cy="120.8" r="4" fill="#3465a4"><title>Recycled Lamb, The</title></circle></a><a href="/setts/s10/g5dt2k2dt29r2dt2r15ly2dt4w2~x2/"><circle cx="319.1" cy="120.6" r="4" fill="#3465a4"><title>Bro-Naoned</title></circle></a><a href="/setts/s14/o4r2o24db2o1db2o4db2o1db2o8k1db16w4~x2/"><circle cx="350.4" cy="96.2" r="4" fill="#3465a4"><title>New Jersey</title></circle></a><a href="/setts/s14/db5w5y36ly3y3r3y3ly3y9dg8w3db3w3dg3~x2/"><circle cx="272.5" cy="102.5" r="4" fill="#3465a4"><title>Freiburg</title></circle></a><a href="/setts/s11/o40dt10y2dt2w2dt3r8o6dt2o4w2~x2/"><circle cx="370.8" cy="103.8" r="4" fill="#3465a4"><title>Cavalier, Red</title></circle></a><a href="/setts/s11/k3y3ly2y30k2y3m12y6m6k3y3~x2/"><circle cx="352.6" cy="136.6" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><a href="/setts/s11/o40dt10y2dt2w2dt3y8o6dt2o4w2~x2/"><circle cx="372.9" cy="108.3" r="4" fill="#3465a4"><title>Cavalier, Brown</title></circle></a><a href="/setts/s9/n28r2n3w2n17y8lb16lo3lb3~x2/"><circle cx="300.9" cy="145.9" r="4" fill="#3465a4"><title>Guszcza, The (Personal)</title></circle></a><circle cx="299.9" cy="104.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/o34dg10o5r2k8t2w3t2k8r2o5dg10o28k3~x2/

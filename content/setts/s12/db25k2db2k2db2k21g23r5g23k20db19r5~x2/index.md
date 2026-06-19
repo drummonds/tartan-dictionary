@@ -2,12 +2,18 @@
 title: "Murray of Atholl"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKGRGKBR](/stripes/bkbkbkgrgkbr/) · **Stripes:** [DB K DB K DB K G R G K DB R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K DB K DB K G R G K DB R</span></span>
+**Bands:** [RBKGRGKBKBKB](/stripes/rbkgrgkbkbkb/) · **Stripes:** [R DB K G R G K DB K DB K DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB K G R G K DB K DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Murray of Atholl #2
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,12 +920,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Newlands](/setts/s10/db9k9db9r2k18g12r2g4r2g4~x2/) — ΔT 0.88
 1. [Argyll, Campbell](/setts/s10/k3db17k20g18w4g18k20db18k2db2~x2/) — ΔT 0.91
 1. [MacDonald 4](/setts/s12/db17r2db2r6db32r2k34g32r6g2r2g17~x2/) — ΔT 0.93
-1. [MacDonald](/setts/s12/db8r1db2r3db12r1k12dg12r3dg2r1dg8~x2/) — ΔT 0.93
+1. [MacDonald](/setts/s12/dg8r1dg2r3dg12k12r1db12r3db2r1db8~x2/) — ΔT 0.93
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db8r1db2r3db12r1k12g12r3g2r1g8~x2/"><circle cx="154.6" cy="172.1" r="4" fill="#3465a4"><title>MacDonald 8</title></circle></a><a href="/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="149.4" cy="183.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s15/db23k3db3k3db3k17g22k2ly4k2g22k17db22k3db3~x2/"><circle cx="166.9" cy="163.4" r="4" fill="#3465a4"><title>Gordon 2</title></circle></a><a href="/setts/s12/db16r2db2r5db29r2k31g29r5g2r2g16~x2/"><circle cx="172.3" cy="151.8" r="4" fill="#3465a4"><title>MacDonald 5</title></circle></a><a href="/setts/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/"><circle cx="166.2" cy="172.9" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/setts/s12/db12r2db2r5db26r2k29g27r5g2r2g12~x2/"><circle cx="164.7" cy="152.1" r="4" fill="#3465a4"><title>MacDonald 3</title></circle></a><a href="/setts/s10/db9k9db9r2k18g12r2g4r2g4~x2/"><circle cx="149.7" cy="201.9" r="4" fill="#3465a4"><title>Newlands</title></circle></a><a href="/setts/s10/k3db17k20g18w4g18k20db18k2db2~x2/"><circle cx="145.3" cy="206.4" r="4" fill="#3465a4"><title>Argyll, Campbell</title></circle></a><a href="/setts/s12/db17r2db2r6db32r2k34g32r6g2r2g17~x2/"><circle cx="174.9" cy="147.8" r="4" fill="#3465a4"><title>MacDonald 4</title></circle></a><a href="/setts/s12/db8r1db2r3db12r1k12dg12r3dg2r1dg8~x2/"><circle cx="170.2" cy="184.3" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><circle cx="146.7" cy="177.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db8r1db2r3db12r1k12g12r3g2r1g8~x2/"><circle cx="154.7" cy="172.1" r="4" fill="#3465a4"><title>MacDonald 8</title></circle></a><a href="/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="149.6" cy="183.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s15/db23k3db3k3db3k17g22k2ly4k2g22k17db22k3db3~x2/"><circle cx="167.0" cy="163.4" r="4" fill="#3465a4"><title>Gordon 2</title></circle></a><a href="/setts/s12/db16r2db2r5db29r2k31g29r5g2r2g16~x2/"><circle cx="172.4" cy="151.8" r="4" fill="#3465a4"><title>MacDonald 5</title></circle></a><a href="/setts/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/"><circle cx="166.3" cy="172.9" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/setts/s12/db12r2db2r5db26r2k29g27r5g2r2g12~x2/"><circle cx="164.8" cy="152.1" r="4" fill="#3465a4"><title>MacDonald 3</title></circle></a><a href="/setts/s10/db9k9db9r2k18g12r2g4r2g4~x2/"><circle cx="149.9" cy="201.9" r="4" fill="#3465a4"><title>Newlands</title></circle></a><a href="/setts/s10/k3db17k20g18w4g18k20db18k2db2~x2/"><circle cx="145.6" cy="206.3" r="4" fill="#3465a4"><title>Argyll, Campbell</title></circle></a><a href="/setts/s12/db17r2db2r6db32r2k34g32r6g2r2g17~x2/"><circle cx="174.9" cy="147.8" r="4" fill="#3465a4"><title>MacDonald 4</title></circle></a><a href="/setts/s12/dg8r1dg2r3dg12k12r1db12r3db2r1db8~x2/"><circle cx="170.4" cy="184.3" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><circle cx="146.8" cy="177.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/

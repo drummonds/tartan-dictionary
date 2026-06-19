@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,13 +919,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Chesters, Eric (Personal)](/setts/s7/k12g8ly1dg13lb1db31k8~x2/) — ΔT 1.48
 1. [Fergusson](/setts/s7/db24k8dg8r2dg8k1lb2/) — ΔT 1.48
 1. [Colqhoun VS](/setts/s7/db4k2db16lr1k8dg24r4~x2/) — ΔT 1.49
-1. [Colqhoun VS](/setts/s7/db4k2db16lr1k8dg24r4/) — ΔT 1.49
 1. [Singh, Gopal (Personal)](/setts/s6/k10r4dg34db34k1lo3~x2/) — ΔT 1.53
+1. [Heirloom Dark Alba (Fashion)](/setts/s9/k4lo2k34db10lr4db4dp4db23w3~x2/) — ΔT 1.55
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db24k8dg8r2dg8k1lr2~x2/"><circle cx="267.9" cy="169.3" r="4" fill="#3465a4"><title>Fergusson</title></circle></a><a href="/setts/s7/db24k8dg8r2dg8k1lr2/"><circle cx="267.9" cy="169.3" r="4" fill="#3465a4"><title>Fergusson</title></circle></a><a href="/setts/s7/db24k8dg8r2dg8k1ly2~x2/"><circle cx="267.3" cy="169.2" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/setts/s7/k10dp4db25w1dg13db13r3~x2/"><circle cx="295.9" cy="168.2" r="4" fill="#3465a4"><title>Faber (2015)</title></circle></a><a href="/setts/s9/dg22lo2dg4dp3dg4k20db20k1lb3~x2/"><circle cx="189.8" cy="139.0" r="4" fill="#3465a4"><title>National Wedding</title></circle></a><a href="/setts/s7/k12g8ly1dg13lb1db31k8~x2/"><circle cx="253.7" cy="164.3" r="4" fill="#3465a4"><title>Chesters, Eric (Personal)</title></circle></a><a href="/setts/s7/db24k8dg8r2dg8k1lb2/"><circle cx="254.0" cy="162.3" r="4" fill="#3465a4"><title>Fergusson</title></circle></a><a href="/setts/s7/db4k2db16lr1k8dg24r4~x2/"><circle cx="248.5" cy="171.1" r="4" fill="#3465a4"><title>Colqhoun VS</title></circle></a><a href="/setts/s7/db4k2db16lr1k8dg24r4/"><circle cx="248.5" cy="171.1" r="4" fill="#3465a4"><title>Colqhoun VS</title></circle></a><a href="/setts/s6/k10r4dg34db34k1lo3~x2/"><circle cx="281.8" cy="168.7" r="4" fill="#3465a4"><title>Singh, Gopal (Personal)</title></circle></a><circle cx="263.4" cy="161.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db24k8dg8r2dg8k1lr2~x2/"><circle cx="268.1" cy="169.3" r="4" fill="#3465a4"><title>Fergusson</title></circle></a><a href="/setts/s7/db24k8dg8r2dg8k1lr2/"><circle cx="268.1" cy="169.3" r="4" fill="#3465a4"><title>Fergusson</title></circle></a><a href="/setts/s7/db24k8dg8r2dg8k1ly2~x2/"><circle cx="267.5" cy="169.2" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/setts/s7/k10dp4db25w1dg13db13r3~x2/"><circle cx="296.0" cy="168.3" r="4" fill="#3465a4"><title>Faber (2015)</title></circle></a><a href="/setts/s9/dg22lo2dg4dp3dg4k20db20k1lb3~x2/"><circle cx="190.0" cy="139.1" r="4" fill="#3465a4"><title>National Wedding</title></circle></a><a href="/setts/s7/k12g8ly1dg13lb1db31k8~x2/"><circle cx="253.9" cy="164.5" r="4" fill="#3465a4"><title>Chesters, Eric (Personal)</title></circle></a><a href="/setts/s7/db24k8dg8r2dg8k1lb2/"><circle cx="254.2" cy="162.3" r="4" fill="#3465a4"><title>Fergusson</title></circle></a><a href="/setts/s7/db4k2db16lr1k8dg24r4~x2/"><circle cx="248.6" cy="171.1" r="4" fill="#3465a4"><title>Colqhoun VS</title></circle></a><a href="/setts/s6/k10r4dg34db34k1lo3~x2/"><circle cx="282.0" cy="168.7" r="4" fill="#3465a4"><title>Singh, Gopal (Personal)</title></circle></a><a href="/setts/s9/k4lo2k34db10lr4db4dp4db23w3~x2/"><circle cx="258.0" cy="145.9" r="4" fill="#3465a4"><title>Heirloom Dark Alba (Fashion)</title></circle></a><circle cx="263.7" cy="162.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/p3k16r3dg17k16k26ly1p3~x2/

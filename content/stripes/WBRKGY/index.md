@@ -8,7 +8,7 @@ WBRKGY
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/lo2g20k10r3dp20w2~x2/tartan.png)
+![Woven sample](/setts/s6/w2dp20r3k10g20lo2~x2/tartan.png)
 
 
 
@@ -21,21 +21,21 @@ WBRKGY
 Grouped by stripe pattern — the 3 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### W DB R K G LO <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">W DB R K G LO</span></span>
+### LO G K R DB W <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO G K R DB W</span></span>
 
 | Tartans |
 |---------------|
-| [Morris of Eddergoll (Personal)](/setts/s6/lo2g20k10r3db20w2~x2/)|
-|![Morris of Eddergoll (Personal) example sett](/setts/s6/lo2g20k10r3db20w2~x2/sett.png)|
+| [Morris of Eddergoll (Personal)](/setts/s6/w2db20r3k10g20lo2~x2/)|
+|![Morris of Eddergoll (Personal) example sett](/setts/s6/w2db20r3k10g20lo2~x2/sett.png)|
 
-### W DP R K G LO <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">W DP R K G LO</span></span>
+### LO G K R DP W <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO G K R DP W</span></span>
 
 | Tartans |
 |---------------|
-| [Morris of Balgonie (Personal)](/setts/s6/lo2g20k10r3dp20w2~x2/)|
-|![Morris of Balgonie (Personal) example sett](/setts/s6/lo2g20k10r3dp20w2~x2/sett.png)|
+| [Morris of Balgonie (Personal)](/setts/s6/w2dp20r3k10g20lo2~x2/)|
+|![Morris of Balgonie (Personal) example sett](/setts/s6/w2dp20r3k10g20lo2~x2/sett.png)|
 
-### W DP R K G LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W DP R K G LY</span></span>
+### LY G K R DP W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY G K R DP W</span></span>
 
 | Tartans |
 |---------------|

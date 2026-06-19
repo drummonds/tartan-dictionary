@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/4 LG8 K72 LG2 LN70 LG8 K/8
+K/8 LG8 LN70 LG2 K72 LG8 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -899,27 +902,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/4 LG8 K72 LG2 LN70 LG8 K/8 tartan")
+![Tartan detail](tartan.png "K/8 LG8 LN70 LG2 K72 LG8 K/4 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Gleneagles](/setts/s7/k4o4w35o1k36o4k2/) — ΔT 0.35
+1. [Gleneagles](/setts/s7/k4o4w35o1k36o4k2~x2/) — ΔT 0.35
 1. [Gleneagles Gold (Dalgleish)](/setts/s7/k4lo4lb32lo1k32lo4k2~x4/) — ΔT 0.67
 1. [MacPherson Dress](/setts/s7/lr3r1lr30k20lr3k9ly1~x2/) — ΔT 1.19
+1. [MacPherson Dress](/setts/s7/lr3r1lr30k20lr3k9ly1/) — ΔT 1.19
 1. [Richecourt, Baron of (Personal)](/setts/s7/w4k30r1k1r3w12ly3~x2/) — ΔT 1.24
 1. [MacPherson Dress](/setts/s7/lb3r1lb30k20lb3k9ly1/) — ΔT 1.25
 1. [Myles, Lee (Name)](/setts/s10/r2lb3r1lb9k4lb13k33lb1k4r1~x2/) — ΔT 1.28
 1. [Gretna Football Club (Corporate)](/setts/s7/w36k8w36k95w4k4r6/) — ΔT 1.28
 1. [Swansea City AFC](/setts/s9/k2n2w4n6w27n15k42n2w2/) — ΔT 1.37
 1. [Lebrun](/setts/s10/w40k11o8w2o8k6w2k16w1k16~x2/) — ΔT 1.46
-1. [Highland Park High School (Texas)](/setts/s9/db19w1db6w1db2w2lo2w1lo18~x4/) — ΔT 1.49
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k4o4w35o1k36o4k2/"><circle cx="312.9" cy="125.2" r="4" fill="#3465a4"><title>Gleneagles</title></circle></a><a href="/setts/s7/k4lo4lb32lo1k32lo4k2~x4/"><circle cx="314.1" cy="135.5" r="4" fill="#3465a4"><title>Gleneagles Gold (Dalgleish)</title></circle></a><a href="/setts/s7/lr3r1lr30k20lr3k9ly1~x2/"><circle cx="329.5" cy="131.8" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s7/w4k30r1k1r3w12ly3~x2/"><circle cx="330.1" cy="112.8" r="4" fill="#3465a4"><title>Richecourt, Baron of (Personal)</title></circle></a><a href="/setts/s7/lb3r1lb30k20lb3k9ly1/"><circle cx="322.9" cy="125.5" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s10/r2lb3r1lb9k4lb13k33lb1k4r1~x2/"><circle cx="374.1" cy="116.3" r="4" fill="#3465a4"><title>Myles, Lee (Name)</title></circle></a><a href="/setts/s7/w36k8w36k95w4k4r6/"><circle cx="346.7" cy="144.3" r="4" fill="#3465a4"><title>Gretna Football Club (Corporate)</title></circle></a><a href="/setts/s9/k2n2w4n6w27n15k42n2w2/"><circle cx="255.6" cy="136.7" r="4" fill="#3465a4"><title>Swansea City AFC</title></circle></a><a href="/setts/s10/w40k11o8w2o8k6w2k16w1k16~x2/"><circle cx="275.9" cy="114.9" r="4" fill="#3465a4"><title>Lebrun</title></circle></a><a href="/setts/s9/db19w1db6w1db2w2lo2w1lo18~x4/"><circle cx="316.1" cy="140.0" r="4" fill="#3465a4"><title>Highland Park High School (Texas)</title></circle></a><circle cx="315.3" cy="128.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k4o4w35o1k36o4k2~x2/"><circle cx="312.7" cy="124.9" r="4" fill="#3465a4"><title>Gleneagles</title></circle></a><a href="/setts/s7/k4lo4lb32lo1k32lo4k2~x4/"><circle cx="313.8" cy="135.2" r="4" fill="#3465a4"><title>Gleneagles Gold (Dalgleish)</title></circle></a><a href="/setts/s7/lr3r1lr30k20lr3k9ly1~x2/"><circle cx="329.3" cy="131.5" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s7/lr3r1lr30k20lr3k9ly1/"><circle cx="329.3" cy="131.5" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s7/w4k30r1k1r3w12ly3~x2/"><circle cx="329.8" cy="112.6" r="4" fill="#3465a4"><title>Richecourt, Baron of (Personal)</title></circle></a><a href="/setts/s7/lb3r1lb30k20lb3k9ly1/"><circle cx="322.7" cy="125.3" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s10/r2lb3r1lb9k4lb13k33lb1k4r1~x2/"><circle cx="373.8" cy="116.0" r="4" fill="#3465a4"><title>Myles, Lee (Name)</title></circle></a><a href="/setts/s7/w36k8w36k95w4k4r6/"><circle cx="346.4" cy="144.0" r="4" fill="#3465a4"><title>Gretna Football Club (Corporate)</title></circle></a><a href="/setts/s9/k2n2w4n6w27n15k42n2w2/"><circle cx="255.4" cy="136.5" r="4" fill="#3465a4"><title>Swansea City AFC</title></circle></a><a href="/setts/s10/w40k11o8w2o8k6w2k16w1k16~x2/"><circle cx="275.6" cy="114.7" r="4" fill="#3465a4"><title>Lebrun</title></circle></a><circle cx="315.1" cy="128.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k4y4w35y1k36y4k2~x2/

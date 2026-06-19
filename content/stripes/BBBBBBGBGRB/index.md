@@ -18,7 +18,7 @@ BBBBBBGBGRB
 
 
 
-### DB B DT DB DT DB DG DB DG M DP <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DB B DT DB DT DB DG DB DG M DP</span></span>
+### DP M DG DB DG DB DT DB DT B DB <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="seq">DP M DG DB DG DB DT DB DT B DB</span></span>
 
 | Tartans |
 |---------------|

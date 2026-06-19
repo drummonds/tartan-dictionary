@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2911
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Carolyn, Melieres
+- Melieres, Carolyn
+
 ## Attestations
 
 This cloth appears in 4 source records; the oldest owns this page.
@@ -320,6 +327,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +428,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +688,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -894,7 +904,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/4 R12 G16 R6 G6 R32 LN16 Y4 LN4 Y/8
+Y/8 LN4 Y4 LN16 R32 G6 R6 G16 R12 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -914,19 +924,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Highland Spring (1985)](/setts/s12/r16k2r9g12lo2g10b3k2b3k2b3r10~x2/) — ΔT 1.06
 1. [Satchidananda (Personal)](/setts/s9/dy18ly4t10w2r20ly5r2w2dy6~x2/) — ΔT 1.23
-1. [Thirkill (Dalgliesh)](/setts/s7/ly6k8g7r6k2r18w6~x4/) — ΔT 1.25
+1. [Thirkill (Dalgliesh)](/setts/s7/w6r18k2r6g7k8ly6~x4/) — ΔT 1.25
 1. [Unidentified from Winnipeg](/setts/s8/w24r8dy2r8dy2r8dy15dg2~x2/) — ΔT 1.28
-1. [Sidney, (Nova Scotia)](/setts/s8/lo16y2lo11y6k4w2k4y16~x2/) — ΔT 1.29
+1. [Sidney, (Nova Scotia)](/setts/s8/y16k4w2k4y6lo11y2lo16~x2/) — ΔT 1.29
 1. [Ogilvie (D.C. Stewart)](/setts/s14/y4r1y4ly1k1r6w1r4w1r6k1ly1y4w1~x8/) — ΔT 1.30
 1. [Carlow County Crest (Fashion)](/setts/s10/w15g8k12g14r64k12r16k10ly8k14/) — ΔT 1.33
 1. [Mangles, Peter and Annette Family/Personal Tartan Tartan Number: 10844. Earliest known date: 02/05/2013 The colours were chosen to represent the organisation and the location where Peter and Annette first met in Liverpool. In addition the red is representative of the city of Aberdeen (Scotland) and the black and grey is representative of the granite used extensively throughout Aberdeen See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r20k5g5r5w5lr3g3~x4/) — ΔT 1.37
 1. [Ballater Trade or 'Fancy' Tartan Tartan Number: 1708. Earliest known date: Modern Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/r12w2lo3w2r3k5r2lo18w2~x2/) — ΔT 1.37
-1. [Ogilvy D](/setts/s14/lb4r1lb4ly1k1r6lb1r4lb1r6k1ly1lb4lr1/) — ΔT 1.38
+1. [Ogilvy D](/setts/s14/lb4r1lb4ly1k1r6lb1r4lb1r6k1ly1lb4lr1~x2/) — ΔT 1.38
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r16k2r9g12lo2g10b3k2b3k2b3r10~x2/"><circle cx="194.5" cy="163.3" r="4" fill="#3465a4"><title>Highland Spring (1985)</title></circle></a><a href="/setts/s9/dy18ly4t10w2r20ly5r2w2dy6~x2/"><circle cx="152.6" cy="153.9" r="4" fill="#3465a4"><title>Satchidananda (Personal)</title></circle></a><a href="/setts/s7/ly6k8g7r6k2r18w6~x4/"><circle cx="149.7" cy="180.2" r="4" fill="#3465a4"><title>Thirkill (Dalgliesh)</title></circle></a><a href="/setts/s8/w24r8dy2r8dy2r8dy15dg2~x2/"><circle cx="153.9" cy="141.8" r="4" fill="#3465a4"><title>Unidentified from Winnipeg</title></circle></a><a href="/setts/s8/lo16y2lo11y6k4w2k4y16~x2/"><circle cx="199.8" cy="187.4" r="4" fill="#3465a4"><title>Sidney, (Nova Scotia)</title></circle></a><a href="/setts/s14/y4r1y4ly1k1r6w1r4w1r6k1ly1y4w1~x8/"><circle cx="197.6" cy="167.6" r="4" fill="#3465a4"><title>Ogilvie (D.C. Stewart)</title></circle></a><a href="/setts/s10/w15g8k12g14r64k12r16k10ly8k14/"><circle cx="190.1" cy="150.0" r="4" fill="#3465a4"><title>Carlow County Crest (Fashion)</title></circle></a><a href="/setts/s7/r20k5g5r5w5lr3g3~x4/"><circle cx="228.1" cy="171.5" r="4" fill="#3465a4"><title>Mangles, Peter and Annette Family/Personal Tartan Tartan Number: 10844. Earliest known date: 02/05/2013 The colours were chosen to represent the organisation and the location where Peter and Annette first met in Liverpool. In addition the red is representative of the city of Aberdeen (Scotland) and the black and grey is representative of the granite used extensively throughout Aberdeen See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/r12w2lo3w2r3k5r2lo18w2~x2/"><circle cx="230.4" cy="165.0" r="4" fill="#3465a4"><title>Ballater Trade or 'Fancy' Tartan Tartan Number: 1708. Earliest known date: Modern Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/lb4r1lb4ly1k1r6lb1r4lb1r6k1ly1lb4lr1/"><circle cx="181.6" cy="150.1" r="4" fill="#3465a4"><title>Ogilvy D</title></circle></a><circle cx="174.5" cy="156.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r16k2r9g12lo2g10b3k2b3k2b3r10~x2/"><circle cx="194.3" cy="163.3" r="4" fill="#3465a4"><title>Highland Spring (1985)</title></circle></a><a href="/setts/s9/dy18ly4t10w2r20ly5r2w2dy6~x2/"><circle cx="152.3" cy="154.0" r="4" fill="#3465a4"><title>Satchidananda (Personal)</title></circle></a><a href="/setts/s7/w6r18k2r6g7k8ly6~x4/"><circle cx="149.6" cy="180.2" r="4" fill="#3465a4"><title>Thirkill (Dalgliesh)</title></circle></a><a href="/setts/s8/w24r8dy2r8dy2r8dy15dg2~x2/"><circle cx="153.5" cy="141.8" r="4" fill="#3465a4"><title>Unidentified from Winnipeg</title></circle></a><a href="/setts/s8/y16k4w2k4y6lo11y2lo16~x2/"><circle cx="199.5" cy="187.3" r="4" fill="#3465a4"><title>Sidney, (Nova Scotia)</title></circle></a><a href="/setts/s14/y4r1y4ly1k1r6w1r4w1r6k1ly1y4w1~x8/"><circle cx="197.3" cy="167.6" r="4" fill="#3465a4"><title>Ogilvie (D.C. Stewart)</title></circle></a><a href="/setts/s10/w15g8k12g14r64k12r16k10ly8k14/"><circle cx="189.9" cy="150.0" r="4" fill="#3465a4"><title>Carlow County Crest (Fashion)</title></circle></a><a href="/setts/s7/r20k5g5r5w5lr3g3~x4/"><circle cx="227.8" cy="171.4" r="4" fill="#3465a4"><title>Mangles, Peter and Annette Family/Personal Tartan Tartan Number: 10844. Earliest known date: 02/05/2013 The colours were chosen to represent the organisation and the location where Peter and Annette first met in Liverpool. In addition the red is representative of the city of Aberdeen (Scotland) and the black and grey is representative of the granite used extensively throughout Aberdeen See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/r12w2lo3w2r3k5r2lo18w2~x2/"><circle cx="230.0" cy="165.0" r="4" fill="#3465a4"><title>Ballater Trade or 'Fancy' Tartan Tartan Number: 1708. Earliest known date: Modern Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/lb4r1lb4ly1k1r6lb1r4lb1r6k1ly1lb4lr1~x2/"><circle cx="181.2" cy="150.0" r="4" fill="#3465a4"><title>Ogilvy D</title></circle></a><circle cx="174.1" cy="156.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/ly4w2ly2w8r16g3r3g8r6k2~x2/

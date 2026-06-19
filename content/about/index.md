@@ -14,7 +14,10 @@ Grant" it had long been confused with turned into a way of thinking about *all* 
 
 The aim is to support the Scottish Celtic tartan tradition: to help people understand tartans,
 trace family and clan traditions, feel welcome whatever brings them here, and — as a public good
-— find the weavers and makers who can make their own.
+— find the weavers and makers who can make their own.  There is doubt about this but seeing the 
+historical record from China 3.000 years ago, contemporary with Austria, to Roman Britain on the
+front line at Vindolanda, the weaving in the Isles to the current day.  I am convinced that wearing
+of tartan with modern twists is a long standing tradition.
 
 This is my attempt to make sense of it all. It is an early, alpha site: things will change, and
 some of it (colour conversions, dating, attributions) is still uncertain — openly so.

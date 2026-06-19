@@ -20,7 +20,7 @@ BRR
 
 
 
-### B R R <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">B R R</span></span>
+### R R B <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R R B</span></span>
 
 | Tartans |
 |---------------|

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/6 K6 B18 K12 DG6 K6 DG24 K12 R/6
+R/6 K12 DG24 K6 DG6 K12 B18 K6 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -903,21 +906,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Davidson Double](/setts/s8/db3r2db8k8dg8k3lb2dg3/) — ΔT 0.85
+1. [Davidson Double](/setts/s8/dg3lb2k3dg8k8db8r2db3/) — ΔT 0.85
 1. [Maitland](/setts/s9/dg3db9dg3k4dg8ly2db2ly2r2/) — ΔT 0.91
 1. [MacCallum, of Berwick](/setts/s9/db10r7db31k25g23k8db7k8ly5~x2/) — ΔT 0.92
 1. [Vosko](/setts/s9/db8k4lo2k3r2k3lo2k4g8~x4/) — ΔT 0.93
 1. [Hinnigan (Personal)](/setts/s8/o8g4db16g4k14o14db4b3~x2/) — ΔT 0.96
 1. [Vosko](/setts/s9/db25k12ly4k9r6k9ly4k12g25~x2/) — ΔT 0.97
-1. [Davidson Double](/setts/s8/db3r2db8k8dg8k3lr2k3~x2/) — ΔT 0.97
-1. [Davidson Double](/setts/s8/db3r2db8k8dg8k3lr2k3/) — ΔT 0.97
+1. [Davidson Double](/setts/s8/k3lr2k3dg8k8db8r2db3~x2/) — ΔT 0.97
+1. [Davidson Double](/setts/s8/k3lr2k3dg8k8db8r2db3/) — ΔT 0.97
 1. [Maitland](/setts/s9/dg3db8dg3k4dg9ly2db2ly2r2~x2/) — ΔT 1.00
 1. [Maitland](/setts/s9/dg3db8dg3k4dg9ly2db2ly2r2/) — ΔT 1.00
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db3r2db8k8dg8k3lb2dg3/"><circle cx="65.8" cy="244.9" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/setts/s9/dg3db9dg3k4dg8ly2db2ly2r2/"><circle cx="109.1" cy="221.6" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/setts/s9/db10r7db31k25g23k8db7k8ly5~x2/"><circle cx="119.9" cy="206.3" r="4" fill="#3465a4"><title>MacCallum, of Berwick</title></circle></a><a href="/setts/s9/db8k4lo2k3r2k3lo2k4g8~x4/"><circle cx="104.4" cy="241.3" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/setts/s8/o8g4db16g4k14o14db4b3~x2/"><circle cx="84.2" cy="224.1" r="4" fill="#3465a4"><title>Hinnigan (Personal)</title></circle></a><a href="/setts/s9/db25k12ly4k9r6k9ly4k12g25~x2/"><circle cx="105.4" cy="203.8" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/setts/s8/db3r2db8k8dg8k3lr2k3~x2/"><circle cx="111.0" cy="253.0" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/setts/s8/db3r2db8k8dg8k3lr2k3/"><circle cx="111.0" cy="253.0" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/setts/s9/dg3db8dg3k4dg9ly2db2ly2r2~x2/"><circle cx="134.3" cy="228.7" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/setts/s9/dg3db8dg3k4dg9ly2db2ly2r2/"><circle cx="134.3" cy="228.7" r="4" fill="#3465a4"><title>Maitland</title></circle></a><circle cx="88.9" cy="233.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dg3lb2k3dg8k8db8r2db3/"><circle cx="66.2" cy="244.9" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/setts/s9/dg3db9dg3k4dg8ly2db2ly2r2/"><circle cx="109.3" cy="221.6" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/setts/s9/db10r7db31k25g23k8db7k8ly5~x2/"><circle cx="120.2" cy="206.3" r="4" fill="#3465a4"><title>MacCallum, of Berwick</title></circle></a><a href="/setts/s9/db8k4lo2k3r2k3lo2k4g8~x4/"><circle cx="104.6" cy="241.3" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/setts/s8/o8g4db16g4k14o14db4b3~x2/"><circle cx="84.5" cy="224.1" r="4" fill="#3465a4"><title>Hinnigan (Personal)</title></circle></a><a href="/setts/s9/db25k12ly4k9r6k9ly4k12g25~x2/"><circle cx="105.6" cy="203.8" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/setts/s8/k3lr2k3dg8k8db8r2db3~x2/"><circle cx="111.5" cy="253.1" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/setts/s8/k3lr2k3dg8k8db8r2db3/"><circle cx="111.5" cy="253.1" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/setts/s9/dg3db8dg3k4dg9ly2db2ly2r2~x2/"><circle cx="134.6" cy="228.7" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/setts/s9/dg3db8dg3k4dg9ly2db2ly2r2/"><circle cx="134.6" cy="228.7" r="4" fill="#3465a4"><title>Maitland</title></circle></a><circle cx="89.3" cy="233.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r1k2dg4k1dg1k2db3k1w1~x6/

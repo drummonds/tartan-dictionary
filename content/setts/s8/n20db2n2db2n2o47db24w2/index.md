@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=396
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Browne, Thomas
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -24,7 +30,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6983
 
 ## Thread count
-LN/2 DB24 N47 Na2 DB2 Na2 DB2 Na/20
+Na/20 DB2 Na2 DB2 Na2 N47 DB24 LN/2
 ![Sett](sett.png)
 
 ## Palette
@@ -39,7 +45,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/2 DB24 N47 Na2 DB2 Na2 DB2 Na/20 tartan")
+![Tartan detail](tartan.png "Na/20 DB2 Na2 DB2 Na2 N47 DB24 LN/2 tartan")
 
 ## Nearest tartans
 
@@ -58,8 +64,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dt4lr1dt1lr3dt24o9k1o9k3~x2/"><circle cx="364.6" cy="161.4" r="4" fill="#3465a4"><title>Historic Scotland (pre 1998) (Corp)</title></circle></a><a href="/setts/s7/o37lo2r6lo2o8db49o3~x2/"><circle cx="346.7" cy="161.8" r="4" fill="#3465a4"><title>U.S. Merchant Marine Academy (Corpo</title></circle></a><a href="/setts/s9/t14w1t3ly2t3w1t4db24r3~x2/"><circle cx="311.8" cy="140.4" r="4" fill="#3465a4"><title>Musselburgh</title></circle></a><a href="/setts/s6/r4y2db4y35t27r3~x2/"><circle cx="342.1" cy="186.8" r="4" fill="#3465a4"><title>Royal Deeside (District)</title></circle></a><a href="/setts/s9/o9w9o9n25o1w1o1w1g3~x2/"><circle cx="298.1" cy="148.6" r="4" fill="#3465a4"><title>Ailsa, Grey (Fashion)</title></circle></a><a href="/setts/s10/m4g10m2g2m24g2m2g16m2g1~x2/"><circle cx="295.8" cy="135.1" r="4" fill="#3465a4"><title>Hilton Hotel Hong Kong (Corporate)</title></circle></a><a href="/setts/s9/n44o8n8o22lb4o4lb11o2lb2~x2/"><circle cx="379.8" cy="181.4" r="4" fill="#3465a4"><title>Titanium (Fashion)</title></circle></a><a href="/setts/s8/r3g1k1g12b12k1b1k1~x4/"><circle cx="282.5" cy="192.5" r="4" fill="#3465a4"><title>Peter of Lee (Personal)</title></circle></a><a href="/setts/s7/dp6y2dp1g25db16k2db4~x2/"><circle cx="311.0" cy="171.5" r="4" fill="#3465a4"><title>Lawrie</title></circle></a><a href="/setts/s9/r6db2r1db16r3db16dg28w2dg4~x2/"><circle cx="316.6" cy="164.4" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><circle cx="345.6" cy="165.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dt4lr1dt1lr3dt24o9k1o9k3~x2/"><circle cx="364.3" cy="161.4" r="4" fill="#3465a4"><title>Historic Scotland (pre 1998) (Corp)</title></circle></a><a href="/setts/s7/o37lo2r6lo2o8db49o3~x2/"><circle cx="346.5" cy="161.7" r="4" fill="#3465a4"><title>U.S. Merchant Marine Academy (Corpo</title></circle></a><a href="/setts/s9/t14w1t3ly2t3w1t4db24r3~x2/"><circle cx="311.6" cy="140.5" r="4" fill="#3465a4"><title>Musselburgh</title></circle></a><a href="/setts/s6/r4y2db4y35t27r3~x2/"><circle cx="341.8" cy="186.8" r="4" fill="#3465a4"><title>Royal Deeside (District)</title></circle></a><a href="/setts/s9/o9w9o9n25o1w1o1w1g3~x2/"><circle cx="297.7" cy="148.6" r="4" fill="#3465a4"><title>Ailsa, Grey (Fashion)</title></circle></a><a href="/setts/s10/m4g10m2g2m24g2m2g16m2g1~x2/"><circle cx="295.6" cy="135.2" r="4" fill="#3465a4"><title>Hilton Hotel Hong Kong (Corporate)</title></circle></a><a href="/setts/s9/n44o8n8o22lb4o4lb11o2lb2~x2/"><circle cx="379.5" cy="181.5" r="4" fill="#3465a4"><title>Titanium (Fashion)</title></circle></a><a href="/setts/s8/r3g1k1g12b12k1b1k1~x4/"><circle cx="282.3" cy="192.5" r="4" fill="#3465a4"><title>Peter of Lee (Personal)</title></circle></a><a href="/setts/s7/dp6y2dp1g25db16k2db4~x2/"><circle cx="311.0" cy="171.6" r="4" fill="#3465a4"><title>Lawrie</title></circle></a><a href="/setts/s9/r6db2r1db16r3db16dg28w2dg4~x2/"><circle cx="316.5" cy="164.4" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><circle cx="345.3" cy="165.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/n20db2n2db2n2o47db24w2/

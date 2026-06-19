@@ -2,12 +2,18 @@
 title: "Ochterlonie"
 date: 2023-03-18
 ---
-**Bands:** [BYBYBY](/stripes/bybyby/) · **Stripes:** [DB LR DB LR DB LO](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DB LR DB LR DB LO</span></span>
+**Bands:** [YBYBYB](/stripes/ybybyb/) · **Stripes:** [LO DB LR DB LR DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="seq">LO DB LR DB LR DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4825
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Ochterlonie
 
 ## Attestations
 
@@ -58,8 +64,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db40w8db25w14db8ly4~x2/"><circle cx="397.8" cy="222.8" r="4" fill="#3465a4"><title>Auchterlonie (Personal)</title></circle></a><a href="/setts/s7/db36lo5db8lb3db8lb10db3~x2/"><circle cx="454.3" cy="202.1" r="4" fill="#3465a4"><title>Scottish Qualifications Auth. (Corp)</title></circle></a><a href="/setts/s5/lr3k3lr3k10r1~x6/"><circle cx="351.6" cy="236.6" r="4" fill="#3465a4"><title>Burberry Blue</title></circle></a><a href="/setts/s7/db8r2db18r1db2w10db4~x2/"><circle cx="409.5" cy="183.9" r="4" fill="#3465a4"><title>Nike ACG Lunarstorm (Fashion)</title></circle></a><a href="/setts/s6/dt30w7dt18w11dt6ly3~x2/"><circle cx="384.1" cy="228.7" r="4" fill="#3465a4"><title>Ochterlonie</title></circle></a><a href="/setts/s5/db13lb3db1r3lb1~x6/"><circle cx="395.5" cy="201.2" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/setts/s6/db9k9db9k9db42w5~x2/"><circle cx="448.5" cy="250.0" r="4" fill="#3465a4"><title>Dollar Academy (1930s) (Corporate)</title></circle></a><a href="/setts/s6/db3t3db16t16db16w3~x2/"><circle cx="323.6" cy="272.0" r="4" fill="#3465a4"><title>Murray Taylor</title></circle></a><a href="/setts/s5/db26lp11db3lp4k2~x4/"><circle cx="378.5" cy="206.4" r="4" fill="#3465a4"><title>Debbie Munro Memorial (Corporate)</title></circle></a><a href="/setts/s5/db37w9db3r9w3~x2/"><circle cx="369.0" cy="201.9" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><circle cx="388.0" cy="239.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db40w8db25w14db8ly4~x2/"><circle cx="397.7" cy="222.3" r="4" fill="#3465a4"><title>Auchterlonie (Personal)</title></circle></a><a href="/setts/s7/db36lo5db8lb3db8lb10db3~x2/"><circle cx="454.1" cy="201.7" r="4" fill="#3465a4"><title>Scottish Qualifications Auth. (Corp)</title></circle></a><a href="/setts/s5/lr3k3lr3k10r1~x6/"><circle cx="351.7" cy="236.2" r="4" fill="#3465a4"><title>Burberry Blue</title></circle></a><a href="/setts/s7/db8r2db18r1db2w10db4~x2/"><circle cx="409.3" cy="183.5" r="4" fill="#3465a4"><title>Nike ACG Lunarstorm (Fashion)</title></circle></a><a href="/setts/s6/dt30w7dt18w11dt6ly3~x2/"><circle cx="384.0" cy="228.3" r="4" fill="#3465a4"><title>Ochterlonie</title></circle></a><a href="/setts/s5/db13lb3db1r3lb1~x6/"><circle cx="395.4" cy="200.9" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/setts/s6/db9k9db9k9db42w5~x2/"><circle cx="448.5" cy="249.6" r="4" fill="#3465a4"><title>Dollar Academy (1930s) (Corporate)</title></circle></a><a href="/setts/s6/db3t3db16t16db16w3~x2/"><circle cx="323.6" cy="271.7" r="4" fill="#3465a4"><title>Murray Taylor</title></circle></a><a href="/setts/s5/db26lp11db3lp4k2~x4/"><circle cx="378.3" cy="206.0" r="4" fill="#3465a4"><title>Debbie Munro Memorial (Corporate)</title></circle></a><a href="/setts/s5/db37w9db3r9w3~x2/"><circle cx="369.0" cy="201.6" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><circle cx="388.0" cy="238.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db35lr8db21lr13db6lo4~x2/

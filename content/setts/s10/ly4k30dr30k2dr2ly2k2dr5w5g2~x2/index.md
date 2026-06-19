@@ -2,12 +2,18 @@
 title: "Haileybury"
 date: 2023-03-18
 ---
-**Bands:** [GWBKYBKBKY](/stripes/gwbkybkbky/) · **Stripes:** [G W DR K LY DR K DR K LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G W DR K LY DR K DR K LY</span></span>
+**Bands:** [YKBKBYKBWG](/stripes/ykbkbykbwg/) · **Stripes:** [LY K DR K DR LY K DR W G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY K DR K DR LY K DR W G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10134
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Haileybury Pipe Band
 
 ## Register references
 
@@ -16,7 +22,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10134](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10134)
 
 ## Thread count
-G/4 LN10 DR10 K4 Y4 DR4 K4 DR60 K60 Y/8
+Y/8 K60 DR60 K4 DR4 Y4 K4 DR10 LN10 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -48,8 +54,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly4k30o30k2o2ly2k2o5w5g2~x2/"><circle cx="258.7" cy="121.4" r="4" fill="#3465a4"><title>Haileybury Pipe Band (Corporate)</title></circle></a><a href="/setts/s10/k5k5k2r47k18w2k5dg9k7w3~x2/"><circle cx="278.7" cy="115.3" r="4" fill="#3465a4"><title>Rikaco Holiday</title></circle></a><a href="/setts/s11/o48k10db12k2o3k2db12k10o10k2ly3~x2/"><circle cx="259.5" cy="112.3" r="4" fill="#3465a4"><title>Brooks Brothers (Corporate)</title></circle></a><a href="/setts/s15/r22k3lo1k1w3k3db1k3db8k19lo4k2lo1k7lo3~x2/"><circle cx="247.3" cy="99.1" r="4" fill="#3465a4"><title>Ruxton</title></circle></a><a href="/setts/s10/k4dt16k3dt3k32lo7k3r10k2w4~x2/"><circle cx="264.7" cy="140.4" r="4" fill="#3465a4"><title>Model T Ford (Corporate)</title></circle></a><a href="/setts/s8/k4r2lb2r28db27r2k2lo2~x2/"><circle cx="294.4" cy="144.3" r="4" fill="#3465a4"><title>Toronto Fire Services (Corporate)</title></circle></a><a href="/setts/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><circle cx="295.9" cy="98.4" r="4" fill="#3465a4"><title>MacKeever (Personal)</title></circle></a><a href="/setts/s12/ly2w1r2k20r9k20ly7n20k5ly1k1r1~x2/"><circle cx="258.1" cy="117.5" r="4" fill="#3465a4"><title>Cates Dress</title></circle></a><a href="/setts/s9/r60lo4k22g5k25t8k4r4k4~x2/"><circle cx="279.7" cy="128.2" r="4" fill="#3465a4"><title>State Seal of Alabama (Fashion)</title></circle></a><a href="/setts/s11/r9k3r9k2b4k4dp4k3dp2k32y6~x2/"><circle cx="314.8" cy="133.5" r="4" fill="#3465a4"><title>Brotherhood of Dirk (Corporate)</title></circle></a><circle cx="257.4" cy="123.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly4k30o30k2o2ly2k2o5w5g2~x2/"><circle cx="258.6" cy="121.4" r="4" fill="#3465a4"><title>Haileybury Pipe Band (Corporate)</title></circle></a><a href="/setts/s10/k5k5k2r47k18w2k5dg9k7w3~x2/"><circle cx="278.6" cy="115.4" r="4" fill="#3465a4"><title>Rikaco Holiday</title></circle></a><a href="/setts/s11/o48k10db12k2o3k2db12k10o10k2ly3~x2/"><circle cx="259.4" cy="112.4" r="4" fill="#3465a4"><title>Brooks Brothers (Corporate)</title></circle></a><a href="/setts/s15/r22k3lo1k1w3k3db1k3db8k19lo4k2lo1k7lo3~x2/"><circle cx="247.2" cy="99.1" r="4" fill="#3465a4"><title>Ruxton</title></circle></a><a href="/setts/s10/k4dt16k3dt3k32lo7k3r10k2w4~x2/"><circle cx="264.7" cy="140.3" r="4" fill="#3465a4"><title>Model T Ford (Corporate)</title></circle></a><a href="/setts/s8/k4r2lb2r28db27r2k2lo2~x2/"><circle cx="294.4" cy="144.3" r="4" fill="#3465a4"><title>Toronto Fire Services (Corporate)</title></circle></a><a href="/setts/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><circle cx="295.7" cy="98.3" r="4" fill="#3465a4"><title>MacKeever (Personal)</title></circle></a><a href="/setts/s12/ly2w1r2k20r9k20ly7n20k5ly1k1r1~x2/"><circle cx="258.0" cy="117.5" r="4" fill="#3465a4"><title>Cates Dress</title></circle></a><a href="/setts/s9/r60lo4k22g5k25t8k4r4k4~x2/"><circle cx="279.5" cy="128.1" r="4" fill="#3465a4"><title>State Seal of Alabama (Fashion)</title></circle></a><a href="/setts/s11/r9k3r9k2b4k4dp4k3dp2k32y6~x2/"><circle cx="314.7" cy="133.5" r="4" fill="#3465a4"><title>Brotherhood of Dirk (Corporate)</title></circle></a><circle cx="257.4" cy="123.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/ly4k30dr30k2dr2ly2k2dr5w5g2~x2/

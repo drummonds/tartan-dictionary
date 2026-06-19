@@ -2,12 +2,18 @@
 title: "Gordon of Abergeldie, (Red..)"
 date: 2023-03-18
 ---
-**Bands:** [GYBKWR](/stripes/gybkwr/) · **Stripes:** [G LY DP K W R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">G LY DP K W R</span></span>
+**Bands:** [RWKBYG](/stripes/rwkbyg/) · **Stripes:** [R W K DP LY G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W K DP LY G</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Gordon of Abergeldie,
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/36 Y2 P12 K2 LN2 R/40
+R/40 LN2 K2 P12 Y2 G/36
 ![Sett](sett.png)
 
 ## Palette
@@ -902,7 +911,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/36 Y2 P12 K2 LN2 R/40 tartan")
+![Tartan detail](tartan.png "R/40 LN2 K2 P12 Y2 G/36 tartan")
 
 ## Nearest tartans
 
@@ -910,19 +919,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Gordon of Abergeldie (Red..) Portrait Tartan Tartan Number: 955. Earliest known date: 1723 This sett was reconstructed from a scarf in a painting of Rachael Gordon, hanging in Abergeldie Castle, painted by Alexander in 1723. The count and colour desciption was taken by the Lord Lyon in 1953. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r20w1k1m6ly1g18~x2/) — ΔT 0.40
 1. [Gordon of Abergeldie (Portrait)](/setts/s6/r63w4k4dp18ly4dg50~x2/) — ΔT 0.91
-1. [Round Table Sweden](/setts/s8/ly3dt6r30w2dt6g4lo15r3~x2/) — ΔT 1.04
+1. [Round Table Sweden](/setts/s8/r3lo15g4dt6w2r30dt6ly3~x2/) — ΔT 1.04
 1. [Hewitt (Name)](/setts/s7/r30db12k3g12ly2g3w2~x2/) — ΔT 1.05
 1. [Scottish American Soc. of Michigan](/setts/s6/r48b16lo5g17w8dy3~x2/) — ΔT 1.07
-1. [Eglinton, Duke of (Artefact)](/setts/s5/g15ly1db4w1r15~x4/) — ΔT 1.18
+1. [Eglinton, Duke of (Artefact)](/setts/s5/r15w1db4ly1g15~x4/) — ΔT 1.18
 1. [Hewitt](/setts/s7/r30db12k6dg12ly2dg3w2~x2/) — ΔT 1.21
-1. [Round Table Sweden](/setts/s8/ly3t6r30w2t6g4lo15r3~x2/) — ΔT 1.26
+1. [Round Table Sweden](/setts/s8/r3lo15g4t6w2r30t6ly3~x2/) — ΔT 1.26
 1. [Drummond, (Fingask)](/setts/s8/r22db3ly1g12r6db3t3w1~x2/) — ΔT 1.34
 1. [Tache, Sir Etienne Paschal #2](/setts/s8/w3dy1r29dy16dg23db3dg3lo2~x2/) — ΔT 1.35
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r20w1k1m6ly1g18~x2/"><circle cx="254.5" cy="132.9" r="4" fill="#3465a4"><title>Gordon of Abergeldie (Red..) Portrait Tartan Tartan Number: 955. Earliest known date: 1723 This sett was reconstructed from a scarf in a painting of Rachael Gordon, hanging in Abergeldie Castle, painted by Alexander in 1723. The count and colour desciption was taken by the Lord Lyon in 1953. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r63w4k4dp18ly4dg50~x2/"><circle cx="242.7" cy="140.9" r="4" fill="#3465a4"><title>Gordon of Abergeldie (Portrait)</title></circle></a><a href="/setts/s8/ly3dt6r30w2dt6g4lo15r3~x2/"><circle cx="230.5" cy="120.1" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/setts/s7/r30db12k3g12ly2g3w2~x2/"><circle cx="231.2" cy="129.5" r="4" fill="#3465a4"><title>Hewitt (Name)</title></circle></a><a href="/setts/s6/r48b16lo5g17w8dy3~x2/"><circle cx="243.9" cy="140.3" r="4" fill="#3465a4"><title>Scottish American Soc. of Michigan</title></circle></a><a href="/setts/s5/g15ly1db4w1r15~x4/"><circle cx="250.5" cy="177.3" r="4" fill="#3465a4"><title>Eglinton, Duke of (Artefact)</title></circle></a><a href="/setts/s7/r30db12k6dg12ly2dg3w2~x2/"><circle cx="208.0" cy="131.1" r="4" fill="#3465a4"><title>Hewitt</title></circle></a><a href="/setts/s8/ly3t6r30w2t6g4lo15r3~x2/"><circle cx="217.2" cy="115.1" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/setts/s8/r22db3ly1g12r6db3t3w1~x2/"><circle cx="308.3" cy="115.7" r="4" fill="#3465a4"><title>Drummond, (Fingask)</title></circle></a><a href="/setts/s8/w3dy1r29dy16dg23db3dg3lo2~x2/"><circle cx="226.8" cy="114.3" r="4" fill="#3465a4"><title>Tache, Sir Etienne Paschal #2</title></circle></a><circle cx="244.4" cy="128.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r20w1k1m6ly1g18~x2/"><circle cx="254.3" cy="132.9" r="4" fill="#3465a4"><title>Gordon of Abergeldie (Red..) Portrait Tartan Tartan Number: 955. Earliest known date: 1723 This sett was reconstructed from a scarf in a painting of Rachael Gordon, hanging in Abergeldie Castle, painted by Alexander in 1723. The count and colour desciption was taken by the Lord Lyon in 1953. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r63w4k4dp18ly4dg50~x2/"><circle cx="242.5" cy="141.0" r="4" fill="#3465a4"><title>Gordon of Abergeldie (Portrait)</title></circle></a><a href="/setts/s8/r3lo15g4dt6w2r30dt6ly3~x2/"><circle cx="230.2" cy="120.1" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/setts/s7/r30db12k3g12ly2g3w2~x2/"><circle cx="231.0" cy="129.6" r="4" fill="#3465a4"><title>Hewitt (Name)</title></circle></a><a href="/setts/s6/r48b16lo5g17w8dy3~x2/"><circle cx="243.6" cy="140.3" r="4" fill="#3465a4"><title>Scottish American Soc. of Michigan</title></circle></a><a href="/setts/s5/r15w1db4ly1g15~x4/"><circle cx="250.4" cy="177.2" r="4" fill="#3465a4"><title>Eglinton, Duke of (Artefact)</title></circle></a><a href="/setts/s7/r30db12k6dg12ly2dg3w2~x2/"><circle cx="207.8" cy="131.2" r="4" fill="#3465a4"><title>Hewitt</title></circle></a><a href="/setts/s8/r3lo15g4t6w2r30t6ly3~x2/"><circle cx="216.9" cy="115.1" r="4" fill="#3465a4"><title>Round Table Sweden</title></circle></a><a href="/setts/s8/r22db3ly1g12r6db3t3w1~x2/"><circle cx="308.0" cy="115.7" r="4" fill="#3465a4"><title>Drummond, (Fingask)</title></circle></a><a href="/setts/s8/w3dy1r29dy16dg23db3dg3lo2~x2/"><circle cx="226.6" cy="114.4" r="4" fill="#3465a4"><title>Tache, Sir Etienne Paschal #2</title></circle></a><circle cx="244.2" cy="128.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r20w1k1dp6ly1g18~x2/

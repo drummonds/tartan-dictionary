@@ -2,12 +2,18 @@
 title: "Robertson 5"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRBRBRGRBRGRGRBRBRGRBRGRGR](/stripes/rgrgrbrbrgrbrgrgrbrbrgrbrgrgr/) · **Stripes:** [R G R G R DB R DB R G R DB R G R G R DB R DB R G R DB R G R G R](/stripes/stripes29/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G R G R DB R DB R G R DB R G R G R DB R DB R G R DB R G R G R</span></span>
+**Bands:** [RGRGRBRGRBRBRGRGRBRGRBRBRGRGR](/stripes/rgrgrbrgrbrbrgrgrbrgrbrbrgrgr/) · **Stripes:** [R G R G R DB R G R DB R DB R G R G R DB R G R DB R DB R G R G R](/stripes/stripes29/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G R G R DB R G R DB R DB R G R G R DB R G R DB R DB R G R G R</span></span>
 
 
 This was sourced from weddslist.  It is a [29 band tartan](/bands/bands29/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Robertson #4
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-R/56 G4 R10 G4 R56 B6 R6 B48 R6 G48 R6 B6 R56 G4 R10 G4 R56 B6 R6 B48 R6 G48 R6 B6 R56 G4 R10 G4 R/56
+R/56 G4 R10 G4 R56 B6 R6 G48 R6 B48 R6 B6 R56 G4 R10 G4 R56 B6 R6 G48 R6 B48 R6 B6 R56 G4 R10 G4 R/56
 ![Sett](sett.png)
 
 ## Palette
@@ -902,20 +911,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Robertson 4](/setts/s28/r28g2r5g2r28g2r5g2r28db3r3g24r3db24r3db3r28g2r5g2r28db3r3g24r3db24r3db3~x2/) — ΔT 0.47
-1. [Robertson #4](/setts/s29/r28dg2r5dg2r28db3r3db24r3dg24r3db3r28dg2r5dg2r28db3r3db24r3dg24r3db3r28dg2r5dg2r28~x2/) — ΔT 0.59
+1. [Robertson #4](/setts/s29/r28dg2r5dg2r28db3r3dg24r3db24r3db3r28dg2r5dg2r28db3r3dg24r3db24r3db3r28dg2r5dg2r28~x2/) — ΔT 0.59
 1. [MacDonald of Staffa 1](/setts/s31/r16g1r1g1r1g1r1g1r6g1db1g6db1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/) — ΔT 1.15
 1. [Campbell of Loudoun, Plaid](/setts/s25/db3r1db1r3db9r3db1r1db3r1db1r18db14r3db1r1db1r3g4r14g10r10db5r4db1~x2/) — ΔT 1.20
 1. [MacDonald of Staffa #3](/setts/s31/r16dg1r1dg1r1dg1r1dg1r6dg1db1dg6db1r1dg1r4dg1r1db4r4w1r4dg4w1dg4r1dg1r6dg1r8w1~x2/) — ΔT 1.23
 1. [Na Fir Dileas (Corporate)](/setts/s32/r17g12r6db33r4g4r33g4r4g4r33g4r4db33r39g15r7db39r4g4r39g4r4g4r39g4r4db39r7g15r39db14/) — ΔT 1.33
 1. [Robertson](/setts/s31/r1g17r2db2r17g2r2g2r17db2r2g17r2db17r2g2r17g2r2g2r17g2r2g17r2g17r2db2r17g2r1~x4/) — ΔT 1.42
-1. [Hebrides, Outer](/setts/s32/g9r2g3r20g2r1g2r2g20r2g3r2g2r22g3ly1r3ly1g3r22g2r2g3r2g20r2g2r1g2r20g3r2~x2/) — ΔT 1.46
+1. [Hebrides, Outer](/setts/s32/g9r2g3r20g2r1g2r2g20r2g3r2g2r22g3ly1r3~x2/) — ΔT 1.46
 1. [Ross 1](/setts/s36/r32db3r3db8r3db3r23g20r6g20r6g20r22g5r10g5r22db24r5db24r23db3r3db8r3db3r32db3r3db8r3db3r23g20r6g20/) — ΔT 1.46
 1. [Murray of Polmaise](/setts/s35/g3r3t9r12t1r1g1r1t1g1t6r1t1r1t1r1t1r1t6r1t1r1g1r1t1r12t9r3g3r7t3r3g1r4t3~x4/) — ΔT 1.47
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s28/r28g2r5g2r28g2r5g2r28db3r3g24r3db24r3db3r28g2r5g2r28db3r3g24r3db24r3db3~x2/"><circle cx="363.3" cy="133.4" r="4" fill="#3465a4"><title>Robertson 4</title></circle></a><a href="/setts/s29/r28dg2r5dg2r28db3r3db24r3dg24r3db3r28dg2r5dg2r28db3r3db24r3dg24r3db3r28dg2r5dg2r28~x2/"><circle cx="378.7" cy="126.8" r="4" fill="#3465a4"><title>Robertson #4</title></circle></a><a href="/setts/s31/r16g1r1g1r1g1r1g1r6g1db1g6db1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/"><circle cx="373.0" cy="98.3" r="4" fill="#3465a4"><title>MacDonald of Staffa 1</title></circle></a><a href="/setts/s25/db3r1db1r3db9r3db1r1db3r1db1r18db14r3db1r1db1r3g4r14g10r10db5r4db1~x2/"><circle cx="352.6" cy="132.0" r="4" fill="#3465a4"><title>Campbell of Loudoun, Plaid</title></circle></a><a href="/setts/s31/r16dg1r1dg1r1dg1r1dg1r6dg1db1dg6db1r1dg1r4dg1r1db4r4w1r4dg4w1dg4r1dg1r6dg1r8w1~x2/"><circle cx="368.2" cy="91.7" r="4" fill="#3465a4"><title>MacDonald of Staffa #3</title></circle></a><a href="/setts/s32/r17g12r6db33r4g4r33g4r4g4r33g4r4db33r39g15r7db39r4g4r39g4r4g4r39g4r4db39r7g15r39db14/"><circle cx="310.7" cy="147.8" r="4" fill="#3465a4"><title>Na Fir Dileas (Corporate)</title></circle></a><a href="/setts/s31/r1g17r2db2r17g2r2g2r17db2r2g17r2db17r2g2r17g2r2g2r17g2r2g17r2g17r2db2r17g2r1~x4/"><circle cx="325.7" cy="124.0" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/setts/s32/g9r2g3r20g2r1g2r2g20r2g3r2g2r22g3ly1r3ly1g3r22g2r2g3r2g20r2g2r1g2r20g3r2~x2/"><circle cx="407.7" cy="104.2" r="4" fill="#3465a4"><title>Hebrides, Outer</title></circle></a><a href="/setts/s36/r32db3r3db8r3db3r23g20r6g20r6g20r22g5r10g5r22db24r5db24r23db3r3db8r3db3r32db3r3db8r3db3r23g20r6g20/"><circle cx="290.9" cy="150.5" r="4" fill="#3465a4"><title>Ross 1</title></circle></a><a href="/setts/s35/g3r3t9r12t1r1g1r1t1g1t6r1t1r1t1r1t1r1t6r1t1r1g1r1t1r12t9r3g3r7t3r3g1r4t3~x4/"><circle cx="325.3" cy="132.3" r="4" fill="#3465a4"><title>Murray of Polmaise</title></circle></a><circle cx="386.9" cy="135.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s28/r28g2r5g2r28g2r5g2r28db3r3g24r3db24r3db3r28g2r5g2r28db3r3g24r3db24r3db3~x2/"><circle cx="362.8" cy="133.3" r="4" fill="#3465a4"><title>Robertson 4</title></circle></a><a href="/setts/s29/r28dg2r5dg2r28db3r3dg24r3db24r3db3r28dg2r5dg2r28db3r3dg24r3db24r3db3r28dg2r5dg2r28~x2/"><circle cx="378.2" cy="126.7" r="4" fill="#3465a4"><title>Robertson #4</title></circle></a><a href="/setts/s31/r16g1r1g1r1g1r1g1r6g1db1g6db1r1g1r4g1r1db4r4w1r4g4w1g4r1g1r6g1r8w1~x2/"><circle cx="372.4" cy="98.3" r="4" fill="#3465a4"><title>MacDonald of Staffa 1</title></circle></a><a href="/setts/s25/db3r1db1r3db9r3db1r1db3r1db1r18db14r3db1r1db1r3g4r14g10r10db5r4db1~x2/"><circle cx="352.2" cy="131.9" r="4" fill="#3465a4"><title>Campbell of Loudoun, Plaid</title></circle></a><a href="/setts/s31/r16dg1r1dg1r1dg1r1dg1r6dg1db1dg6db1r1dg1r4dg1r1db4r4w1r4dg4w1dg4r1dg1r6dg1r8w1~x2/"><circle cx="367.7" cy="91.6" r="4" fill="#3465a4"><title>MacDonald of Staffa #3</title></circle></a><a href="/setts/s32/r17g12r6db33r4g4r33g4r4g4r33g4r4db33r39g15r7db39r4g4r39g4r4g4r39g4r4db39r7g15r39db14/"><circle cx="310.3" cy="147.7" r="4" fill="#3465a4"><title>Na Fir Dileas (Corporate)</title></circle></a><a href="/setts/s31/r1g17r2db2r17g2r2g2r17db2r2g17r2db17r2g2r17g2r2g2r17g2r2g17r2g17r2db2r17g2r1~x4/"><circle cx="325.2" cy="123.9" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/setts/s32/g9r2g3r20g2r1g2r2g20r2g3r2g2r22g3ly1r3~x2/"><circle cx="407.1" cy="104.1" r="4" fill="#3465a4"><title>Hebrides, Outer</title></circle></a><a href="/setts/s36/r32db3r3db8r3db3r23g20r6g20r6g20r22g5r10g5r22db24r5db24r23db3r3db8r3db3r32db3r3db8r3db3r23g20r6g20/"><circle cx="290.5" cy="150.5" r="4" fill="#3465a4"><title>Ross 1</title></circle></a><a href="/setts/s35/g3r3t9r12t1r1g1r1t1g1t6r1t1r1t1r1t1r1t6r1t1r1g1r1t1r12t9r3g3r7t3r3g1r4t3~x4/"><circle cx="324.8" cy="132.3" r="4" fill="#3465a4"><title>Murray of Polmaise</title></circle></a><circle cx="386.3" cy="134.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s29/r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28~x2/

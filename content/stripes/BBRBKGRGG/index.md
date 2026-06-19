@@ -18,10 +18,10 @@ BBRBKGRGG
 
 
 
-### DB DB R DB K DG R DG DG <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="seq">DB DB R DB K DG R DG DG</span></span>
+### DG DG R DG K DB R DB DB <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">DG DG R DG K DB R DB DB</span></span>
 
 | Tartans |
 |---------------|
-| [MacThomas](/setts/s9/db1db1r2db21k11dg21r2dg1dg1~x2/)|
-|![MacThomas example sett](/setts/s9/db1db1r2db21k11dg21r2dg1dg1~x2/sett.png)|
+| [MacThomas](/setts/s9/dg1dg1r2dg21k11db21r2db1db1~x2/)|
+|![MacThomas example sett](/setts/s9/dg1dg1r2dg21k11db21r2db1db1~x2/sett.png)|
 

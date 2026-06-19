@@ -319,6 +319,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +420,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +680,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -900,7 +903,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-R/8 K4 R20 K20 R8 K4 R4 K4 R8 K20 R/20
+R/20 K20 R8 K4 R4 K4 R8 K20 R20 K4 R/8
 ![Sett](sett.png)
 
 ## Palette
@@ -919,7 +922,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacLeod #2](/setts/s8/k12r3k2r16k8r12k2r3~x2/) — ΔT 1.12
 1. [German National (US) (Fashion)](/setts/s12/r16k2r2k2r13k12r2k12r13k13r2ly2~x2/) — ΔT 1.27
-1. [Haig & Haig Whisky](/setts/s8/r26k18r7k4ly4k4r7k18~x2/) — ΔT 1.48
+1. [Haig & Haig Whisky](/setts/s8/r26k18r7k4ly4~x2/) — ΔT 1.48
 1. [bodog.com Corporate Tartan Tartan Number: 6889. Earliest known date: 2006 Corporate brand name and colours, red, black and silver grey used to support brand identification. Company owner and executive is Scottish. First tartan to be name after a web site and first ever tartan for Costa Rica. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k25r25k10lb3k10r25k25r3~x2/) — ΔT 1.54
 1. [Munro (Culloden)](/setts/s14/db6r8db1r2ly5r5db5r5ly1r2db1r2db1r6~x2/) — ΔT 1.71
 1. [Unidentified Early 18th Centuary #2](/setts/s12/r9dg2r3dg2r9dg3r3db3r3dg3r3db3~x2/) — ΔT 1.76
@@ -930,8 +933,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k12r3k2r16k8r12k2r3~x2/"><circle cx="360.3" cy="231.4" r="4" fill="#3465a4"><title>MacLeod #2</title></circle></a><a href="/setts/s12/r16k2r2k2r13k12r2k12r13k13r2ly2~x2/"><circle cx="309.7" cy="201.5" r="4" fill="#3465a4"><title>German National (US) (Fashion)</title></circle></a><a href="/setts/s8/r26k18r7k4ly4k4r7k18~x2/"><circle cx="284.1" cy="227.6" r="4" fill="#3465a4"><title>Haig &amp; Haig Whisky</title></circle></a><a href="/setts/s8/k25r25k10lb3k10r25k25r3~x2/"><circle cx="314.6" cy="236.3" r="4" fill="#3465a4"><title>bodog.com Corporate Tartan Tartan Number: 6889. Earliest known date: 2006 Corporate brand name and colours, red, black and silver grey used to support brand identification. Company owner and executive is Scottish. First tartan to be name after a web site and first ever tartan for Costa Rica. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/db6r8db1r2ly5r5db5r5ly1r2db1r2db1r6~x2/"><circle cx="308.7" cy="196.6" r="4" fill="#3465a4"><title>Munro (Culloden)</title></circle></a><a href="/setts/s12/r9dg2r3dg2r9dg3r3db3r3dg3r3db3~x2/"><circle cx="341.3" cy="238.8" r="4" fill="#3465a4"><title>Unidentified Early 18th Centuary #2</title></circle></a><a href="/setts/s9/r5dg10r5dg10r20dg2r20dp10r5~x2/"><circle cx="369.8" cy="224.2" r="4" fill="#3465a4"><title>Murray, Lord George (Plaid)</title></circle></a><a href="/setts/s7/r4k8r4k8r12k1ly1~x2/"><circle cx="328.0" cy="214.1" r="4" fill="#3465a4"><title>MacKeane (Clan?)</title></circle></a><a href="/setts/s6/k31r4k47r47k4r31~x2/"><circle cx="338.7" cy="240.0" r="4" fill="#3465a4"><title>Erskine (Paton)</title></circle></a><a href="/setts/s8/r15db8r2db8r2db8r15w2~x4/"><circle cx="333.1" cy="229.6" r="4" fill="#3465a4"><title>Hamilton</title></circle></a><circle cx="329.9" cy="248.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k12r3k2r16k8r12k2r3~x2/"><circle cx="360.0" cy="231.1" r="4" fill="#3465a4"><title>MacLeod #2</title></circle></a><a href="/setts/s12/r16k2r2k2r13k12r2k12r13k13r2ly2~x2/"><circle cx="309.4" cy="201.3" r="4" fill="#3465a4"><title>German National (US) (Fashion)</title></circle></a><a href="/setts/s8/r26k18r7k4ly4~x2/"><circle cx="283.9" cy="227.4" r="4" fill="#3465a4"><title>Haig &amp; Haig Whisky</title></circle></a><a href="/setts/s8/k25r25k10lb3k10r25k25r3~x2/"><circle cx="314.5" cy="236.1" r="4" fill="#3465a4"><title>bodog.com Corporate Tartan Tartan Number: 6889. Earliest known date: 2006 Corporate brand name and colours, red, black and silver grey used to support brand identification. Company owner and executive is Scottish. First tartan to be name after a web site and first ever tartan for Costa Rica. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/db6r8db1r2ly5r5db5r5ly1r2db1r2db1r6~x2/"><circle cx="308.4" cy="196.4" r="4" fill="#3465a4"><title>Munro (Culloden)</title></circle></a><a href="/setts/s12/r9dg2r3dg2r9dg3r3db3r3dg3r3db3~x2/"><circle cx="340.9" cy="238.5" r="4" fill="#3465a4"><title>Unidentified Early 18th Centuary #2</title></circle></a><a href="/setts/s9/r5dg10r5dg10r20dg2r20dp10r5~x2/"><circle cx="369.4" cy="224.0" r="4" fill="#3465a4"><title>Murray, Lord George (Plaid)</title></circle></a><a href="/setts/s7/r4k8r4k8r12k1ly1~x2/"><circle cx="327.8" cy="213.9" r="4" fill="#3465a4"><title>MacKeane (Clan?)</title></circle></a><a href="/setts/s6/k31r4k47r47k4r31~x2/"><circle cx="338.6" cy="239.7" r="4" fill="#3465a4"><title>Erskine (Paton)</title></circle></a><a href="/setts/s8/r15db8r2db8r2db8r15w2~x4/"><circle cx="332.9" cy="229.4" r="4" fill="#3465a4"><title>Hamilton</title></circle></a><circle cx="329.7" cy="248.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/r5k5r2k1r1k1r2k5r5k1r2~x4/

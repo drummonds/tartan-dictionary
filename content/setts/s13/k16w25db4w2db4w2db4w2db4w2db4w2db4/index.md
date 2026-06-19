@@ -2,7 +2,7 @@
 title: "Hanna"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBWBWBWBWK](/stripes/bwbwbwbwbwbwk/) · **Stripes:** [DB W DB W DB W DB W DB W DB W K](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">DB W DB W DB W DB W DB W DB W K</span></span>
+**Bands:** [KWBWBWBWBWBWB](/stripes/kwbwbwbwbwbwb/) · **Stripes:** [K W DB W DB W DB W DB W DB W DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">K W DB W DB W DB W DB W DB W DB</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -893,7 +896,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/4 LN2 B4 LN2 B4 LN2 B4 LN2 B4 LN2 B4 LN25 K/16
+K/16 LN25 B4 LN2 B4 LN2 B4 LN2 B4 LN2 B4 LN2 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -922,8 +925,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k16w25db4w2db4w2db4w2db4w2db4w2db4~x2/"><circle cx="230.2" cy="133.7" r="4" fill="#3465a4"><title>Hanna (Bible)</title></circle></a><a href="/setts/s13/k8w13db2w1db2w1db2w1db2w1db2w1db2~x2/"><circle cx="243.2" cy="134.2" r="4" fill="#3465a4"><title>Hanna Personal Tartan Tartan Number: 619. Earliest known date: 1987 Found in a the Hanna family bible of a civil war veteran by Charles Milton Hanna, Freeport, PA, USA, who sent information to the Scottish Tartan Society in 1987. The STS records the blue square as blue 4 and white 2, which gives a tweed like pattern to that section. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/k24o8lb3k3lb3k3lb40k3lb3k3lb3o8k24o8~x2/"><circle cx="241.3" cy="139.4" r="4" fill="#3465a4"><title>O'Sullivan-Beare</title></circle></a><a href="/setts/s11/w30o5k6o2k2w2k13o5k2o2w2~x2/"><circle cx="258.0" cy="127.9" r="4" fill="#3465a4"><title>Stewart Grey Dress Tartan Tartan Number: 17911. Earliest known date: Estimated Threadcount. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/k14w2k3w2dr10w32dr10k10w2k3~x2/"><circle cx="229.0" cy="147.6" r="4" fill="#3465a4"><title>Fraser, Arisaid</title></circle></a><a href="/setts/s10/dt14w2dt3w2dr10w32dr10dt10w2dt3~x2/"><circle cx="226.7" cy="142.7" r="4" fill="#3465a4"><title>Fraser Arisaid #2</title></circle></a><a href="/setts/s10/k3r1k1w20k10r2k2w2k2r2~x4/"><circle cx="285.5" cy="119.1" r="4" fill="#3465a4"><title>Buckleigh Dress (Fashion)</title></circle></a><a href="/setts/s12/w4k1w2k3w23db5k3db1k1db1k19w2~x2/"><circle cx="289.7" cy="110.9" r="4" fill="#3465a4"><title>Menzies Black Dress</title></circle></a><a href="/setts/s11/r2k9t4w2k22w2t4w22t2w8r2~x2/"><circle cx="192.2" cy="136.2" r="4" fill="#3465a4"><title>MacRae, Dress</title></circle></a><a href="/setts/s10/k9w4k2w4k2w30k9w4db14ly2~x2/"><circle cx="243.3" cy="131.1" r="4" fill="#3465a4"><title>Hannay</title></circle></a><circle cx="233.1" cy="136.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k16w25db4w2db4w2db4w2db4w2db4w2db4~x2/"><circle cx="229.9" cy="133.5" r="4" fill="#3465a4"><title>Hanna (Bible)</title></circle></a><a href="/setts/s13/k8w13db2w1db2w1db2w1db2w1db2w1db2~x2/"><circle cx="242.9" cy="134.0" r="4" fill="#3465a4"><title>Hanna Personal Tartan Tartan Number: 619. Earliest known date: 1987 Found in a the Hanna family bible of a civil war veteran by Charles Milton Hanna, Freeport, PA, USA, who sent information to the Scottish Tartan Society in 1987. The STS records the blue square as blue 4 and white 2, which gives a tweed like pattern to that section. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/k24o8lb3k3lb3k3lb40k3lb3k3lb3o8k24o8~x2/"><circle cx="241.1" cy="139.2" r="4" fill="#3465a4"><title>O'Sullivan-Beare</title></circle></a><a href="/setts/s11/w30o5k6o2k2w2k13o5k2o2w2~x2/"><circle cx="257.7" cy="127.6" r="4" fill="#3465a4"><title>Stewart Grey Dress Tartan Tartan Number: 17911. Earliest known date: Estimated Threadcount. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/k14w2k3w2dr10w32dr10k10w2k3~x2/"><circle cx="228.8" cy="147.4" r="4" fill="#3465a4"><title>Fraser, Arisaid</title></circle></a><a href="/setts/s10/dt14w2dt3w2dr10w32dr10dt10w2dt3~x2/"><circle cx="226.4" cy="142.4" r="4" fill="#3465a4"><title>Fraser Arisaid #2</title></circle></a><a href="/setts/s10/k3r1k1w20k10r2k2w2k2r2~x4/"><circle cx="285.2" cy="118.8" r="4" fill="#3465a4"><title>Buckleigh Dress (Fashion)</title></circle></a><a href="/setts/s12/w4k1w2k3w23db5k3db1k1db1k19w2~x2/"><circle cx="289.4" cy="110.7" r="4" fill="#3465a4"><title>Menzies Black Dress</title></circle></a><a href="/setts/s11/r2k9t4w2k22w2t4w22t2w8r2~x2/"><circle cx="192.0" cy="136.0" r="4" fill="#3465a4"><title>MacRae, Dress</title></circle></a><a href="/setts/s10/k9w4k2w4k2w30k9w4db14ly2~x2/"><circle cx="243.1" cy="130.9" r="4" fill="#3465a4"><title>Hannay</title></circle></a><circle cx="232.8" cy="136.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/k16w25db4w2db4w2db4w2db4w2db4w2db4/

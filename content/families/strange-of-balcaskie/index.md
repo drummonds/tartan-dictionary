@@ -8,7 +8,7 @@ A family of [Clan Strange](/clan/strange/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s12/g32dy7g7dy16db32ly3dy8ly3db32dy16g7dy7~x2/"><img src="/setts/s12/g32dy7g7dy16db32ly3dy8ly3db32dy16g7dy7~x2/sett.png" alt="Strange of Balcaskie (Personal)" width="240"><br>Strange of Balcaskie (Personal)</a>
+<a class="tartan" href="/setts/s12/g32dy7g7dy16db32ly3dy8~x2/"><img src="/setts/s12/g32dy7g7dy16db32ly3dy8~x2/sett.png" alt="Strange of Balcaskie (Personal)" width="240"><br>Strange of Balcaskie (Personal)</a>
 
 ## Other tartans
 

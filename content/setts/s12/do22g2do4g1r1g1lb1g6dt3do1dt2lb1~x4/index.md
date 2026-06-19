@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4678
 
 ## Thread count
-N/4 DB8 DR4 DB12 G24 N4 G4 DRa4 G4 T16 Ga8 T/88
+T/88 Ga8 T16 G4 DRa4 G4 N4 G24 DB12 DR4 DB8 N/4
 ![Sett](sett.png)
 
 ## Palette
@@ -43,15 +43,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Tomatin Distillery](/setts/s12/do9k8y15dy50k3r2k2dg1k2do1k1dy9~x2/) — ΔT 1.66
 1. [Diana, hunting Plaid](/setts/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/) — ΔT 1.67
 1. [Kennedy](/setts/s17/k2dg2ly1dg3r1dg2r1dg12db4k3db3k3db3k3db4dg24r2~x2/) — ΔT 1.74
-1. [Neumann - GPS German Pipe Smokers](/setts/s13/do2r3lo1k2lo1dp16lo1dg32lo1do2lo1r1do1~x2/) — ΔT 1.79
+1. [Neumann - GPS German Pipe Smokers](/setts/s13/do2r3lo1k2lo1dp16lo1dg32lo1do2lo1r1do1~x2/) — ΔT 1.78
 1. [CAL FIRE Local 2881](/setts/s10/db56dg11r2dg7k2dg7r2dg7db3lo4~x2/) — ΔT 1.79
 1. [Scottish Parliament (Official)](/setts/s12/y45y3dt7dr2dt7y3y4w2do36w2y11dt4/) — ΔT 1.85
 1. [Knox (Personal)](/setts/s13/dg55y20w2y3k2y3w2y3db18k2y4ly2y3~x2/) — ΔT 1.92
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dy46t3dy7g2r2g2w2g11t6db2t3r2~x2/"><circle cx="393.3" cy="104.3" r="4" fill="#3465a4"><title>Diana Hunting Plaid Tartan Tartan Number: 1318. Earliest known date: 1981 Based on MacNab. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/do68k4do18dt20k3lb3k10lr8lo4/"><circle cx="403.5" cy="143.0" r="4" fill="#3465a4"><title>Carbon</title></circle></a><a href="/setts/s10/dt49lo3dy13dt12r4dt5k7y26dt4r2~x2/"><circle cx="359.0" cy="149.6" r="4" fill="#3465a4"><title>State Seal of Arkansas (Fashion)</title></circle></a><a href="/setts/s12/do9k8y15dy50k3r2k2dg1k2do1k1dy9~x2/"><circle cx="426.3" cy="94.6" r="4" fill="#3465a4"><title>Tomatin Distillery</title></circle></a><a href="/setts/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/"><circle cx="400.2" cy="102.6" r="4" fill="#3465a4"><title>Diana, hunting Plaid</title></circle></a><a href="/setts/s17/k2dg2ly1dg3r1dg2r1dg12db4k3db3k3db3k3db4dg24r2~x2/"><circle cx="366.6" cy="117.8" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/setts/s13/do2r3lo1k2lo1dp16lo1dg32lo1do2lo1r1do1~x2/"><circle cx="340.1" cy="83.4" r="4" fill="#3465a4"><title>Neumann - GPS German Pipe Smokers</title></circle></a><a href="/setts/s10/db56dg11r2dg7k2dg7r2dg7db3lo4~x2/"><circle cx="405.5" cy="132.9" r="4" fill="#3465a4"><title>CAL FIRE Local 2881</title></circle></a><a href="/setts/s12/y45y3dt7dr2dt7y3y4w2do36w2y11dt4/"><circle cx="330.6" cy="139.6" r="4" fill="#3465a4"><title>Scottish Parliament (Official)</title></circle></a><a href="/setts/s13/dg55y20w2y3k2y3w2y3db18k2y4ly2y3~x2/"><circle cx="307.0" cy="94.2" r="4" fill="#3465a4"><title>Knox (Personal)</title></circle></a><circle cx="373.3" cy="111.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dy46t3dy7g2r2g2w2g11t6db2t3r2~x2/"><circle cx="393.0" cy="104.4" r="4" fill="#3465a4"><title>Diana Hunting Plaid Tartan Tartan Number: 1318. Earliest known date: 1981 Based on MacNab. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/do68k4do18dt20k3lb3k10lr8lo4/"><circle cx="403.3" cy="143.1" r="4" fill="#3465a4"><title>Carbon</title></circle></a><a href="/setts/s10/dt49lo3dy13dt12r4dt5k7y26dt4r2~x2/"><circle cx="359.0" cy="149.8" r="4" fill="#3465a4"><title>State Seal of Arkansas (Fashion)</title></circle></a><a href="/setts/s12/do9k8y15dy50k3r2k2dg1k2do1k1dy9~x2/"><circle cx="426.0" cy="94.8" r="4" fill="#3465a4"><title>Tomatin Distillery</title></circle></a><a href="/setts/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/"><circle cx="399.7" cy="102.7" r="4" fill="#3465a4"><title>Diana, hunting Plaid</title></circle></a><a href="/setts/s17/k2dg2ly1dg3r1dg2r1dg12db4k3db3k3db3k3db4dg24r2~x2/"><circle cx="366.4" cy="118.0" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/setts/s13/do2r3lo1k2lo1dp16lo1dg32lo1do2lo1r1do1~x2/"><circle cx="339.9" cy="83.6" r="4" fill="#3465a4"><title>Neumann - GPS German Pipe Smokers</title></circle></a><a href="/setts/s10/db56dg11r2dg7k2dg7r2dg7db3lo4~x2/"><circle cx="405.5" cy="133.0" r="4" fill="#3465a4"><title>CAL FIRE Local 2881</title></circle></a><a href="/setts/s12/y45y3dt7dr2dt7y3y4w2do36w2y11dt4/"><circle cx="330.5" cy="139.8" r="4" fill="#3465a4"><title>Scottish Parliament (Official)</title></circle></a><a href="/setts/s13/dg55y20w2y3k2y3w2y3db18k2y4ly2y3~x2/"><circle cx="306.9" cy="94.4" r="4" fill="#3465a4"><title>Knox (Personal)</title></circle></a><circle cx="373.1" cy="111.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/do22g2do4g1r1g1lb1g6dt3do1dt2lb1~x4/

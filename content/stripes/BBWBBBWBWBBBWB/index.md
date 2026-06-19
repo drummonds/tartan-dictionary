@@ -22,6 +22,6 @@ BBWBBBWBWBBBWB
 
 | Tartans |
 |---------------|
-| [Harmony Eildon](/setts/s14/db41t2w2t2db5t12w31db4w31t12db5t2w2t2~x2/)|
-|![Harmony Eildon example sett](/setts/s14/db41t2w2t2db5t12w31db4w31t12db5t2w2t2~x2/sett.png)|
+| [Harmony Eildon](/setts/s14/db41t2w2t2db5t12w31db4~x2/)|
+|![Harmony Eildon example sett](/setts/s14/db41t2w2t2db5t12w31db4~x2/sett.png)|
 

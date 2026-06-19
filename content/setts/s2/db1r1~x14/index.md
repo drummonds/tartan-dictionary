@@ -2,12 +2,19 @@
 title: "Cairnbulg & Inverllocjy Fisher Plaid"
 date: 2023-03-18
 ---
-**Bands:** [BR](/stripes/br/) · **Stripes:** [DB R](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R</span></span>
+**Bands:** [RB](/stripes/rb/) · **Stripes:** [R DB](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [2 band tartan](/bands/bands2/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8969/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Cairnbulg & Inverllocjy Fisher Plaid
+- Rob Roy, Blue & Red
 
 ## Variants
 
@@ -18,7 +25,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-DB/14 DR/14
+DR/14 DB/14
 ![Sett](sett.png)
 
 ## Palette
@@ -31,16 +38,16 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/14 DR/14 tartan")
+![Tartan detail](tartan.png "DR/14 DB/14 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Rob Roy, Blue & Red (Fashion)](/setts/s2/db1r1~x100/) — ΔT 0.00
-1. [Wilson's No.116 (light)](/setts/s2/y9dp8~x2/) — ΔT 1.64
+1. [Wilson's No.116 (light)](/setts/s2/y9dp8~x2/) — ΔT 1.63
 1. [Masai Shuka 02 (Artefact)](/setts/s2/db1r1~x20/) — ΔT 1.96
-1. [Moncreiffe](/setts/s2/dg1r1~x2/) — ΔT 2.19
+1. [Moncreiffe](/setts/s2/dg1r1/) — ΔT 2.19
 1. [Moncreiffe D](/setts/s3/r1dg1r1~x2/) — ΔT 2.72
 1. [Moncreiffe D](/setts/s3/r1dg1r1/) — ΔT 2.72
 1. [Wilson's No.099](/setts/s2/dg14r13~x2/) — ΔT 2.81
@@ -50,8 +57,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s2/db1r1~x100/"><circle cx="236.2" cy="366.0" r="4" fill="#3465a4"><title>Rob Roy, Blue &amp; Red (Fashion)</title></circle></a><a href="/setts/s2/y9dp8~x2/"><circle cx="233.8" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.116 (light)</title></circle></a><a href="/setts/s2/db1r1~x20/"><circle cx="187.1" cy="366.0" r="4" fill="#3465a4"><title>Masai Shuka 02 (Artefact)</title></circle></a><a href="/setts/s2/dg1r1~x2/"><circle cx="215.8" cy="366.0" r="4" fill="#3465a4"><title>Moncreiffe</title></circle></a><a href="/setts/s3/r1dg1r1~x2/"><circle cx="293.1" cy="366.0" r="4" fill="#3465a4"><title>Moncreiffe D</title></circle></a><a href="/setts/s3/r1dg1r1/"><circle cx="293.1" cy="366.0" r="4" fill="#3465a4"><title>Moncreiffe D</title></circle></a><a href="/setts/s2/dg14r13~x2/"><circle cx="220.3" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.099</title></circle></a><a href="/setts/s2/k1r1~x172/"><circle cx="170.4" cy="366.0" r="4" fill="#3465a4"><title>Rob Roy Macgregor</title></circle></a><a href="/setts/s2/k1r1~x100/"><circle cx="170.4" cy="366.0" r="4" fill="#3465a4"><title>MacGregor - 1816 (Red &amp; Black)</title></circle></a><a href="/setts/s2/k1r1~x20/"><circle cx="170.4" cy="366.0" r="4" fill="#3465a4"><title>Masai Shuka 03 (Artefact)</title></circle></a><circle cx="236.2" cy="366.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s2/db1r1~x100/"><circle cx="236.5" cy="366.0" r="4" fill="#3465a4"><title>Rob Roy, Blue &amp; Red (Fashion)</title></circle></a><a href="/setts/s2/y9dp8~x2/"><circle cx="234.1" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.116 (light)</title></circle></a><a href="/setts/s2/db1r1~x20/"><circle cx="187.4" cy="366.0" r="4" fill="#3465a4"><title>Masai Shuka 02 (Artefact)</title></circle></a><a href="/setts/s2/dg1r1/"><circle cx="216.1" cy="366.0" r="4" fill="#3465a4"><title>Moncreiffe</title></circle></a><a href="/setts/s3/r1dg1r1~x2/"><circle cx="293.2" cy="366.0" r="4" fill="#3465a4"><title>Moncreiffe D</title></circle></a><a href="/setts/s3/r1dg1r1/"><circle cx="293.2" cy="366.0" r="4" fill="#3465a4"><title>Moncreiffe D</title></circle></a><a href="/setts/s2/dg14r13~x2/"><circle cx="220.5" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.099</title></circle></a><a href="/setts/s2/k1r1~x172/"><circle cx="170.7" cy="366.0" r="4" fill="#3465a4"><title>Rob Roy Macgregor</title></circle></a><a href="/setts/s2/k1r1~x100/"><circle cx="170.7" cy="366.0" r="4" fill="#3465a4"><title>MacGregor - 1816 (Red &amp; Black)</title></circle></a><a href="/setts/s2/k1r1~x20/"><circle cx="170.7" cy="366.0" r="4" fill="#3465a4"><title>Masai Shuka 03 (Artefact)</title></circle></a><circle cx="236.5" cy="366.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s2/db1r1~x14/

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k3r9k5dr9o3dr9k5g24k2o3~x2/"><circle cx="132.1" cy="158.7" r="4" fill="#3465a4"><title>Cavan</title></circle></a><a href="/setts/s10/o10k24o5k13o24k5dg52k5db18w8/"><circle cx="124.6" cy="166.4" r="4" fill="#3465a4"><title>Leitrim County, Crest Range</title></circle></a><a href="/setts/s12/r8w2r22k8dg6k6dg6k6dg8lg3dg3lg3~x2/"><circle cx="138.9" cy="158.8" r="4" fill="#3465a4"><title>Wcwm 1712</title></circle></a><a href="/setts/s11/dr6ly4dr3db2dr5db2dr3db2g15r3db2~x2/"><circle cx="141.2" cy="174.8" r="4" fill="#3465a4"><title>Limerick</title></circle></a><a href="/setts/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/"><circle cx="171.8" cy="155.1" r="4" fill="#3465a4"><title>Dorcas Check</title></circle></a><a href="/setts/s14/g21k2r8k6r8k2db21k2db2k12ly3k12g2k2~x2/"><circle cx="129.4" cy="143.3" r="4" fill="#3465a4"><title>Deas</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12w1g12r3g2r1g8~x2/"><circle cx="132.7" cy="147.2" r="4" fill="#3465a4"><title>MacDonald of Clanranald 2</title></circle></a><a href="/setts/s14/r2db4k1db1k1db1k8g8ly2g8k8db8k1r2~x2/"><circle cx="106.3" cy="164.5" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/setts/s16/dg7k2dg7ly1k2ly1k10ly3r10ly3k10ly1dg11k2dg3k2~x2/"><circle cx="165.9" cy="162.5" r="4" fill="#3465a4"><title>Blackburn Appalachian Hunting</title></circle></a><a href="/setts/s13/dg22r4dg2r2dg2r4dg12k12r2db10r4db4ly3/"><circle cx="187.3" cy="151.3" r="4" fill="#3465a4"><title>Cochrane LC</title></circle></a><circle cx="118.4" cy="149.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k3r9k5dr9o3dr9k5g24k2o3~x2/"><circle cx="132.2" cy="158.8" r="4" fill="#3465a4"><title>Cavan</title></circle></a><a href="/setts/s10/o10k24o5k13o24k5dg52k5db18w8/"><circle cx="124.7" cy="166.5" r="4" fill="#3465a4"><title>Leitrim County, Crest Range</title></circle></a><a href="/setts/s12/r8w2r22k8dg6k6dg6k6dg8lg3dg3lg3~x2/"><circle cx="138.9" cy="158.8" r="4" fill="#3465a4"><title>Wcwm 1712</title></circle></a><a href="/setts/s11/dr6ly4dr3db2dr5db2dr3db2g15r3db2~x2/"><circle cx="141.2" cy="174.8" r="4" fill="#3465a4"><title>Limerick</title></circle></a><a href="/setts/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/"><circle cx="171.7" cy="155.1" r="4" fill="#3465a4"><title>Dorcas Check</title></circle></a><a href="/setts/s14/g21k2r8k6r8k2db21k2db2k12ly3k12g2k2~x2/"><circle cx="129.5" cy="143.3" r="4" fill="#3465a4"><title>Deas</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12w1g12r3g2r1g8~x2/"><circle cx="132.8" cy="147.3" r="4" fill="#3465a4"><title>MacDonald of Clanranald 2</title></circle></a><a href="/setts/s14/r2db4k1db1k1db1k8g8ly2g8k8db8k1r2~x2/"><circle cx="106.4" cy="164.5" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/setts/s16/dg7k2dg7ly1k2ly1k10ly3r10ly3k10ly1dg11k2dg3k2~x2/"><circle cx="165.9" cy="162.5" r="4" fill="#3465a4"><title>Blackburn Appalachian Hunting</title></circle></a><a href="/setts/s13/dg22r4dg2r2dg2r4dg12k12r2db10r4db4ly3/"><circle cx="187.3" cy="151.4" r="4" fill="#3465a4"><title>Cochrane LC</title></circle></a><circle cx="118.5" cy="149.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/k3r7k4o7r3o7k4g3k3g19k2g2k2r3~x2/

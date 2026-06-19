@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-R/8 Ba8 B16 Y2 G24 R12 B4 R12 LN2 R/12
+R/12 LN2 R12 B4 R12 G24 Y2 B16 Ba8 R/8
 ![Sett](sett.png)
 
 ## Palette
@@ -917,15 +920,15 @@ The nearest existing variants by ΔTartan distance.
 1. [MacGuire Irish Family Tartan Tartan Number: 2427. Earliest known date: 1985 MacGuire is an Irish Family tartan See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/w10db3g30r4t12r30t6r6t6r6t6r30g30dt4/) — ΔT 1.13
 1. [Indiana "Cardinal"](/setts/s8/db8ly1dg12r10o2r6o2r4~x4/) — ΔT 1.15
 1. [Caledonia](/setts/s14/r21t9k2t2k2t9k18ly3g21r13k3r13w2r13~x2/) — ΔT 1.17
+1. [Battle of Bannockburn, The](/setts/s8/r1do1r9g6t2b3r2lo1~x4/) — ΔT 1.23
 1. [Unidentified Plaid 16](/setts/s13/ly18r18dg30r12db55r42dg6r18dg6r42g44r12dg12/) — ΔT 1.23
-1. [Battle of Bannockburn, The](/setts/s8/lo1r2b3t2g6r9do1r1~x4/) — ΔT 1.23
-1. [Sturrock (Blue/Black)](/setts/s12/r16lo3r16g22k16b16r52b16k16g22r16lo3~x2/) — ΔT 1.24
+1. [Sturrock (Blue/Black)](/setts/s12/r52b16k16g22r16lo3r16~x2/) — ΔT 1.24
 1. [Unidentified (Woven sample)](/setts/s11/g18r4g4r6g28dp28r4lt3ly4lt13r6/) — ΔT 1.26
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r6w1r6db2r6dg12ly1db8t4r4~x2/"><circle cx="173.7" cy="157.8" r="4" fill="#3465a4"><title>Unidentified No 57</title></circle></a><a href="/setts/s8/dp2r11t9dp11ly2g13r21w2~x2/"><circle cx="170.9" cy="159.5" r="4" fill="#3465a4"><title>Wilson's, No 2</title></circle></a><a href="/setts/s8/dp2o9g8o4ly1o4db10w2~x4/"><circle cx="141.4" cy="162.2" r="4" fill="#3465a4"><title>De Maynard (Personal)</title></circle></a><a href="/setts/s14/w10db3g30r4t12r30t6r6t6r6t6r30g30dt4/"><circle cx="175.0" cy="136.2" r="4" fill="#3465a4"><title>MacGuire Irish Family Tartan Tartan Number: 2427. Earliest known date: 1985 MacGuire is an Irish Family tartan See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db8ly1dg12r10o2r6o2r4~x4/"><circle cx="212.4" cy="181.7" r="4" fill="#3465a4"><title>Indiana &quot;Cardinal&quot;</title></circle></a><a href="/setts/s14/r21t9k2t2k2t9k18ly3g21r13k3r13w2r13~x2/"><circle cx="166.0" cy="133.1" r="4" fill="#3465a4"><title>Caledonia</title></circle></a><a href="/setts/s13/ly18r18dg30r12db55r42dg6r18dg6r42g44r12dg12/"><circle cx="177.9" cy="172.2" r="4" fill="#3465a4"><title>Unidentified Plaid 16</title></circle></a><a href="/setts/s8/lo1r2b3t2g6r9do1r1~x4/"><circle cx="223.1" cy="165.8" r="4" fill="#3465a4"><title>Battle of Bannockburn, The</title></circle></a><a href="/setts/s12/r16lo3r16g22k16b16r52b16k16g22r16lo3~x2/"><circle cx="214.0" cy="153.0" r="4" fill="#3465a4"><title>Sturrock (Blue/Black)</title></circle></a><a href="/setts/s11/g18r4g4r6g28dp28r4lt3ly4lt13r6/"><circle cx="159.4" cy="146.1" r="4" fill="#3465a4"><title>Unidentified (Woven sample)</title></circle></a><circle cx="177.5" cy="162.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r6w1r6db2r6dg12ly1db8t4r4~x2/"><circle cx="173.5" cy="157.8" r="4" fill="#3465a4"><title>Unidentified No 57</title></circle></a><a href="/setts/s8/dp2r11t9dp11ly2g13r21w2~x2/"><circle cx="170.8" cy="159.6" r="4" fill="#3465a4"><title>Wilson's, No 2</title></circle></a><a href="/setts/s8/dp2o9g8o4ly1o4db10w2~x4/"><circle cx="141.3" cy="162.2" r="4" fill="#3465a4"><title>De Maynard (Personal)</title></circle></a><a href="/setts/s14/w10db3g30r4t12r30t6r6t6r6t6r30g30dt4/"><circle cx="174.8" cy="136.3" r="4" fill="#3465a4"><title>MacGuire Irish Family Tartan Tartan Number: 2427. Earliest known date: 1985 MacGuire is an Irish Family tartan See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db8ly1dg12r10o2r6o2r4~x4/"><circle cx="212.2" cy="181.7" r="4" fill="#3465a4"><title>Indiana &quot;Cardinal&quot;</title></circle></a><a href="/setts/s14/r21t9k2t2k2t9k18ly3g21r13k3r13w2r13~x2/"><circle cx="165.8" cy="133.1" r="4" fill="#3465a4"><title>Caledonia</title></circle></a><a href="/setts/s8/r1do1r9g6t2b3r2lo1~x4/"><circle cx="222.9" cy="165.9" r="4" fill="#3465a4"><title>Battle of Bannockburn, The</title></circle></a><a href="/setts/s13/ly18r18dg30r12db55r42dg6r18dg6r42g44r12dg12/"><circle cx="177.7" cy="172.2" r="4" fill="#3465a4"><title>Unidentified Plaid 16</title></circle></a><a href="/setts/s12/r52b16k16g22r16lo3r16~x2/"><circle cx="213.8" cy="153.1" r="4" fill="#3465a4"><title>Sturrock (Blue/Black)</title></circle></a><a href="/setts/s11/g18r4g4r6g28dp28r4lt3ly4lt13r6/"><circle cx="159.3" cy="146.2" r="4" fill="#3465a4"><title>Unidentified (Woven sample)</title></circle></a><circle cx="177.3" cy="162.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r6w1r6db2r6g12ly1db8t4r4~x2/

@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [11179](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11179)
 
 ## Thread count
-R/4 DB2 W2 DB56 DG52 K4 DB2 Y/6
+Y/6 DB2 K4 DG52 DB56 W2 DB2 R/4
 ![Sett](sett.png)
 
 ## Palette
@@ -33,7 +33,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "R/4 DB2 W2 DB56 DG52 K4 DB2 Y/6 tartan")
+![Tartan detail](tartan.png "Y/6 DB2 K4 DG52 DB56 W2 DB2 R/4 tartan")
 
 ## Nearest tartans
 
@@ -52,8 +52,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k2g30k3db4k2db18t1k3r2~x2/"><circle cx="291.0" cy="120.2" r="4" fill="#3465a4"><title>Lusk (Personal)</title></circle></a><a href="/setts/s10/db3db3db1g26db10n1db3dp5db4lo2~x2/"><circle cx="276.2" cy="123.9" r="4" fill="#3465a4"><title>Rikaco Heirloom (Fashion)</title></circle></a><a href="/setts/s8/db3t3g30db25dp4r3ly2dp1~x2/"><circle cx="268.8" cy="117.2" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/setts/s8/db31ly4g68w4db31r2k6r2~x2/"><circle cx="295.2" cy="114.8" r="4" fill="#3465a4"><title>Inkster (Name)</title></circle></a><a href="/setts/s10/k3n3k1dg26k10y1k3dp5n4y2~x2/"><circle cx="286.7" cy="133.5" r="4" fill="#3465a4"><title>Rikaco Heirloom</title></circle></a><a href="/setts/s8/dp23w1o3w1dp12lo9dg40dp3~x2/"><circle cx="294.3" cy="124.2" r="4" fill="#3465a4"><title>Pictou County</title></circle></a><a href="/setts/s10/dg3w2dg39k3t3k3dg3k20g10r2~x2/"><circle cx="317.2" cy="141.7" r="4" fill="#3465a4"><title>Zorra Caledonian Society (Corporate</title></circle></a><a href="/setts/s10/db4w1k2db25k12b1k2g16k2r1~x2/"><circle cx="275.1" cy="129.6" r="4" fill="#3465a4"><title>Sidey Family Tartan (Name)</title></circle></a><a href="/setts/s8/ly3db1k2g26db28w1db1r2~x2/"><circle cx="293.6" cy="106.9" r="4" fill="#3465a4"><title>Johnston, Diana Hunting (Personal)</title></circle></a><a href="/setts/s10/ly3dg5k2dg5w1dg17dt4r1dt22w2~x2/"><circle cx="259.3" cy="128.6" r="4" fill="#3465a4"><title>McAvoy (Personal)</title></circle></a><circle cx="319.1" cy="125.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k2g30k3db4k2db18t1k3r2~x2/"><circle cx="291.0" cy="120.4" r="4" fill="#3465a4"><title>Lusk (Personal)</title></circle></a><a href="/setts/s10/db3db3db1g26db10n1db3dp5db4lo2~x2/"><circle cx="276.2" cy="124.0" r="4" fill="#3465a4"><title>Rikaco Heirloom (Fashion)</title></circle></a><a href="/setts/s8/db3t3g30db25dp4r3ly2dp1~x2/"><circle cx="268.8" cy="117.2" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/setts/s8/db31ly4g68w4db31r2k6r2~x2/"><circle cx="295.2" cy="114.8" r="4" fill="#3465a4"><title>Inkster (Name)</title></circle></a><a href="/setts/s10/k3n3k1dg26k10y1k3dp5n4y2~x2/"><circle cx="286.8" cy="133.7" r="4" fill="#3465a4"><title>Rikaco Heirloom</title></circle></a><a href="/setts/s8/dp23w1o3w1dp12lo9dg40dp3~x2/"><circle cx="294.3" cy="124.3" r="4" fill="#3465a4"><title>Pictou County</title></circle></a><a href="/setts/s10/dg3w2dg39k3t3k3dg3k20g10r2~x2/"><circle cx="317.2" cy="141.9" r="4" fill="#3465a4"><title>Zorra Caledonian Society (Corporate</title></circle></a><a href="/setts/s10/db4w1k2db25k12b1k2g16k2r1~x2/"><circle cx="275.2" cy="129.7" r="4" fill="#3465a4"><title>Sidey Family Tartan (Name)</title></circle></a><a href="/setts/s8/ly3db1k2g26db28w1db1r2~x2/"><circle cx="293.5" cy="106.9" r="4" fill="#3465a4"><title>Johnston, Diana Hunting (Personal)</title></circle></a><a href="/setts/s10/ly3dg5k2dg5w1dg17dt4r1dt22w2~x2/"><circle cx="259.2" cy="128.6" r="4" fill="#3465a4"><title>McAvoy (Personal)</title></circle></a><circle cx="319.1" cy="125.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/ly3dt1k2dg26dt28w1dt1r2~x2/

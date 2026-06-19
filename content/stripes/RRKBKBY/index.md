@@ -8,7 +8,7 @@ RRKBKBY
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/ly1db6k1db1k5o5r1~x8/tartan.png)
+![Woven sample](/setts/s7/r1o5k5db1k1db6ly1~x8/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RRKBKBY
 
 | Tartans |
 |---------------|
-| [Lopez-Gasparotto](/setts/s7/ly1db6k1db1k5o5r1~x8/)|
-|![Lopez-Gasparotto example sett](/setts/s7/ly1db6k1db1k5o5r1~x8/sett.png)|
+| [Lopez-Gasparotto](/setts/s7/r1o5k5db1k1db6ly1~x8/)|
+|![Lopez-Gasparotto example sett](/setts/s7/r1o5k5db1k1db6ly1~x8/sett.png)|
 

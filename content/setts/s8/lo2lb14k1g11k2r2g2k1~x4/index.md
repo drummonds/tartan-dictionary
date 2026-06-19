@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/
 Original link http://www.tartansauthority.com/tartan-ferret/display/2669/
 
 ## Thread count
-K/4 LG8 LR8 K8 G44 K4 LB56 O/8
+O/8 LB56 K4 G44 K8 LR8 LG8 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -27,7 +27,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/4 LG8 LR8 K8 G44 K4 LB56 O/8 tartan")
+![Tartan detail](tartan.png "O/8 LB56 K4 G44 K8 LR8 LG8 K/4 tartan")
 
 ## Nearest tartans
 
@@ -46,8 +46,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/b16w3b2ly4g24r2g4r5g4r2lb8~x2/"><circle cx="163.8" cy="126.4" r="4" fill="#3465a4"><title>Currie of Arran (Clan/family)</title></circle></a><a href="/setts/s8/lo2t14k1g11k2w2g2k1~x4/"><circle cx="181.8" cy="136.7" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/setts/s10/lb38dt18lb4ly3g10lo3g4lb3lo17r4~x2/"><circle cx="177.1" cy="122.3" r="4" fill="#3465a4"><title>State Seal of Delaware (Fashion)</title></circle></a><a href="/setts/s9/g9k2r4g14w3lp3w23g5ly3~x2/"><circle cx="163.7" cy="130.7" r="4" fill="#3465a4"><title>Taylor, dress</title></circle></a><a href="/setts/s7/t16r1g16w1dy1w8m3~x2/"><circle cx="171.2" cy="137.6" r="4" fill="#3465a4"><title>Chambers, Christopher J (Personal)</title></circle></a><a href="/setts/s11/g3t3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="167.1" cy="101.4" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><a href="/setts/s9/g3w29g3db3g3db6g13ly3r2~x2/"><circle cx="211.2" cy="120.7" r="4" fill="#3465a4"><title>Nova Scotia, dress</title></circle></a><a href="/setts/s11/w4t5lo3t22ly4k3g16lo7k2lo7ly2~x2/"><circle cx="123.2" cy="136.4" r="4" fill="#3465a4"><title>Cossar (Personal)</title></circle></a><a href="/setts/s7/t13r1g13w1k1w7k3~x2/"><circle cx="139.2" cy="156.2" r="4" fill="#3465a4"><title>Chambers, Christopher J (Personal)</title></circle></a><a href="/setts/s7/k2lb25k2b8k2g28ly2~x2/"><circle cx="218.1" cy="154.0" r="4" fill="#3465a4"><title>Presley of Lonmay</title></circle></a><circle cx="164.0" cy="123.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/b16w3b2ly4g24r2g4r5g4r2lb8~x2/"><circle cx="163.7" cy="126.4" r="4" fill="#3465a4"><title>Currie of Arran (Clan/family)</title></circle></a><a href="/setts/s8/lo2t14k1g11k2w2g2k1~x4/"><circle cx="181.7" cy="136.8" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/setts/s10/lb38dt18lb4ly3g10lo3g4lb3lo17r4~x2/"><circle cx="176.8" cy="122.3" r="4" fill="#3465a4"><title>State Seal of Delaware (Fashion)</title></circle></a><a href="/setts/s9/g9k2r4g14w3lp3w23g5ly3~x2/"><circle cx="163.4" cy="130.6" r="4" fill="#3465a4"><title>Taylor, dress</title></circle></a><a href="/setts/s7/t16r1g16w1dy1w8m3~x2/"><circle cx="171.0" cy="137.6" r="4" fill="#3465a4"><title>Chambers, Christopher J (Personal)</title></circle></a><a href="/setts/s11/g3t3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="166.9" cy="101.4" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><a href="/setts/s9/g3w29g3db3g3db6g13ly3r2~x2/"><circle cx="210.8" cy="120.6" r="4" fill="#3465a4"><title>Nova Scotia, dress</title></circle></a><a href="/setts/s11/w4t5lo3t22ly4k3g16lo7k2lo7ly2~x2/"><circle cx="123.0" cy="136.5" r="4" fill="#3465a4"><title>Cossar (Personal)</title></circle></a><a href="/setts/s7/t13r1g13w1k1w7k3~x2/"><circle cx="139.0" cy="156.1" r="4" fill="#3465a4"><title>Chambers, Christopher J (Personal)</title></circle></a><a href="/setts/s7/k2lb25k2b8k2g28ly2~x2/"><circle cx="217.9" cy="154.0" r="4" fill="#3465a4"><title>Presley of Lonmay</title></circle></a><circle cx="163.8" cy="123.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/lo2lb14k1g11k2r2g2k1~x4/

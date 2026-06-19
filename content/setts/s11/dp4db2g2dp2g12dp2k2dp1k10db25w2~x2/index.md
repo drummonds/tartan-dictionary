@@ -10,7 +10,7 @@ This was sourced from house-of-tartan.  It is a [11 band tartan](/bands/bands11/
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6747
 
 ## Thread count
-LN/4 DB50 K20 N2 K4 N4 B24 N4 B4 DB4 N/8
+N/8 DB4 B4 N4 B24 N4 K4 N2 K20 DB50 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -31,7 +31,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Daniel (Welsh Name)](/setts/s12/k5db26k2db4k2db26k3lr36k3dt30k3t2/) — ΔT 0.95
 1. [West Lothian](/setts/s9/g40k8g4k8g4r14db64t9db3/) — ΔT 1.02
 1. [Spirit of Morningside (Fashion)](/setts/s10/dp4db5dp3db50k15g3k5g32w2g3/) — ΔT 1.10
-1. [MacMichael](/setts/s11/g1db1g8lb1k2db16k2lb1r8db1r1~x4/) — ΔT 1.10
+1. [MacMichael](/setts/s11/r1db1r8lb1k2db16k2lb1g8db1g1~x4/) — ΔT 1.10
 1. [Ferguson (Tarlogie)](/setts/s9/b24k8g8r2g4k1w2k1g4~x2/) — ΔT 1.13
 1. [Help for Heroes (Corporate)](/setts/s16/r6t25dt10db1dt5db2dt4db3dt3db3dt2db4dt1db16lb6db3~x2/) — ΔT 1.17
 1. [Gillies](/setts/s14/db88k15g9r12g20k3ly8k6g20r12g9k15db24k36/) — ΔT 1.19
@@ -41,8 +41,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k5db26k2db4k2db26k3lr36k3dt30k3t2/"><circle cx="196.8" cy="132.0" r="4" fill="#3465a4"><title>Daniel (Welsh Name)</title></circle></a><a href="/setts/s9/g40k8g4k8g4r14db64t9db3/"><circle cx="261.2" cy="145.8" r="4" fill="#3465a4"><title>West Lothian</title></circle></a><a href="/setts/s10/dp4db5dp3db50k15g3k5g32w2g3/"><circle cx="293.4" cy="135.3" r="4" fill="#3465a4"><title>Spirit of Morningside (Fashion)</title></circle></a><a href="/setts/s11/g1db1g8lb1k2db16k2lb1r8db1r1~x4/"><circle cx="232.9" cy="132.9" r="4" fill="#3465a4"><title>MacMichael</title></circle></a><a href="/setts/s9/b24k8g8r2g4k1w2k1g4~x2/"><circle cx="245.1" cy="127.1" r="4" fill="#3465a4"><title>Ferguson (Tarlogie)</title></circle></a><a href="/setts/s16/r6t25dt10db1dt5db2dt4db3dt3db3dt2db4dt1db16lb6db3~x2/"><circle cx="190.9" cy="111.9" r="4" fill="#3465a4"><title>Help for Heroes (Corporate)</title></circle></a><a href="/setts/s14/db88k15g9r12g20k3ly8k6g20r12g9k15db24k36/"><circle cx="236.2" cy="117.1" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/setts/s10/g1b28k11r5w1r5k11ly1k2g1~x2/"><circle cx="247.3" cy="98.9" r="4" fill="#3465a4"><title>Scragg, Moran (Personal)</title></circle></a><a href="/setts/s10/ly6db3k3db36k10lr18db6k2g4k3~x2/"><circle cx="248.5" cy="130.4" r="4" fill="#3465a4"><title>Dinwiddie Hunting (Name)</title></circle></a><a href="/setts/s11/r3db16k12b34k12db2k2db2k2db7r3~x2/"><circle cx="234.1" cy="162.9" r="4" fill="#3465a4"><title>Rangers 1989 (Sports)</title></circle></a><circle cx="243.3" cy="120.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k5db26k2db4k2db26k3lr36k3dt30k3t2/"><circle cx="196.9" cy="132.1" r="4" fill="#3465a4"><title>Daniel (Welsh Name)</title></circle></a><a href="/setts/s9/g40k8g4k8g4r14db64t9db3/"><circle cx="261.3" cy="145.9" r="4" fill="#3465a4"><title>West Lothian</title></circle></a><a href="/setts/s10/dp4db5dp3db50k15g3k5g32w2g3/"><circle cx="293.4" cy="135.4" r="4" fill="#3465a4"><title>Spirit of Morningside (Fashion)</title></circle></a><a href="/setts/s11/r1db1r8lb1k2db16k2lb1g8db1g1~x4/"><circle cx="232.9" cy="132.9" r="4" fill="#3465a4"><title>MacMichael</title></circle></a><a href="/setts/s9/b24k8g8r2g4k1w2k1g4~x2/"><circle cx="245.1" cy="127.0" r="4" fill="#3465a4"><title>Ferguson (Tarlogie)</title></circle></a><a href="/setts/s16/r6t25dt10db1dt5db2dt4db3dt3db3dt2db4dt1db16lb6db3~x2/"><circle cx="190.9" cy="112.1" r="4" fill="#3465a4"><title>Help for Heroes (Corporate)</title></circle></a><a href="/setts/s14/db88k15g9r12g20k3ly8k6g20r12g9k15db24k36/"><circle cx="236.2" cy="117.2" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/setts/s10/g1b28k11r5w1r5k11ly1k2g1~x2/"><circle cx="247.3" cy="99.0" r="4" fill="#3465a4"><title>Scragg, Moran (Personal)</title></circle></a><a href="/setts/s10/ly6db3k3db36k10lr18db6k2g4k3~x2/"><circle cx="248.5" cy="130.3" r="4" fill="#3465a4"><title>Dinwiddie Hunting (Name)</title></circle></a><a href="/setts/s11/r3db16k12b34k12db2k2db2k2db7r3~x2/"><circle cx="234.2" cy="163.0" r="4" fill="#3465a4"><title>Rangers 1989 (Sports)</title></circle></a><circle cx="243.2" cy="120.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/dp4db2g2dp2g12dp2k2dp1k10db25w2~x2/

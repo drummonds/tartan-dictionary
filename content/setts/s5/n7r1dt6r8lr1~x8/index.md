@@ -2,7 +2,7 @@
 title: "Callum (Buchan) (Name)"
 date: 2023-03-18
 ---
-**Bands:** [BRBRY](/stripes/brbry/) · **Stripes:** [N R DT R LR](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">N R DT R LR</span></span>
+**Bands:** [YRBRB](/stripes/yrbrb/) · **Stripes:** [LR R DT R N](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#636363"></span><span class="seq">LR R DT R N</span></span>
 
 
 This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
@@ -37,15 +37,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Moray of Abercairney](/setts/s5/r8r1g4r1db4~x2/) — ΔT 1.50
 1. [Unamed, Riding cloak 1745](/setts/s5/r1o8r2db8t1~x2/) — ΔT 1.55
 1. [Roscommon](/setts/s10/r5o3r19dr6o5dr6n12n5n12n3~x2/) — ΔT 1.55
-1. [Unamed Riding cloak 1745](/setts/s5/r1dy8r2db8t1~x2/) — ΔT 1.56
+1. [Unamed Riding cloak 1745](/setts/s5/r1dy8r2db8t1~x2/) — ΔT 1.55
 1. [Lady Boys of Bangkok (Corporate)](/setts/s6/lo23r22m52r8w6lo18/) — ΔT 1.57
 1. [Harmony, 6](/setts/s5/dp2g10o15dp10g2~x4/) — ΔT 1.58
 1. [MacNab #2](/setts/s6/g1m1g7m4r7m1~x4/) — ΔT 1.58
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k1r9n8y8w1~x2/"><circle cx="201.0" cy="236.5" r="4" fill="#3465a4"><title>Pople (Name)</title></circle></a><a href="/setts/s6/r4n3n12db8n2r4/"><circle cx="197.4" cy="265.4" r="4" fill="#3465a4"><title>Bristol Gramar School Check (School)</title></circle></a><a href="/setts/s5/dr2y10o15dr10y2~x4/"><circle cx="257.1" cy="276.8" r="4" fill="#3465a4"><title>Harmony 8</title></circle></a><a href="/setts/s5/r8r1g4r1db4~x2/"><circle cx="242.4" cy="235.1" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/setts/s5/r1o8r2db8t1~x2/"><circle cx="299.6" cy="263.5" r="4" fill="#3465a4"><title>Unamed, Riding cloak 1745</title></circle></a><a href="/setts/s10/r5o3r19dr6o5dr6n12n5n12n3~x2/"><circle cx="232.4" cy="235.7" r="4" fill="#3465a4"><title>Roscommon</title></circle></a><a href="/setts/s5/r1dy8r2db8t1~x2/"><circle cx="274.0" cy="252.9" r="4" fill="#3465a4"><title>Unamed Riding cloak 1745</title></circle></a><a href="/setts/s6/lo23r22m52r8w6lo18/"><circle cx="229.0" cy="219.2" r="4" fill="#3465a4"><title>Lady Boys of Bangkok (Corporate)</title></circle></a><a href="/setts/s5/dp2g10o15dp10g2~x4/"><circle cx="253.9" cy="277.7" r="4" fill="#3465a4"><title>Harmony, 6</title></circle></a><a href="/setts/s6/g1m1g7m4r7m1~x4/"><circle cx="261.7" cy="251.4" r="4" fill="#3465a4"><title>MacNab #2</title></circle></a><circle cx="258.6" cy="262.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k1r9n8y8w1~x2/"><circle cx="201.0" cy="236.6" r="4" fill="#3465a4"><title>Pople (Name)</title></circle></a><a href="/setts/s6/r4n3n12db8n2r4/"><circle cx="197.5" cy="265.4" r="4" fill="#3465a4"><title>Bristol Gramar School Check (School)</title></circle></a><a href="/setts/s5/dr2y10o15dr10y2~x4/"><circle cx="257.0" cy="276.7" r="4" fill="#3465a4"><title>Harmony 8</title></circle></a><a href="/setts/s5/r8r1g4r1db4~x2/"><circle cx="242.3" cy="235.1" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/setts/s5/r1o8r2db8t1~x2/"><circle cx="299.5" cy="263.6" r="4" fill="#3465a4"><title>Unamed, Riding cloak 1745</title></circle></a><a href="/setts/s10/r5o3r19dr6o5dr6n12n5n12n3~x2/"><circle cx="232.2" cy="235.8" r="4" fill="#3465a4"><title>Roscommon</title></circle></a><a href="/setts/s5/r1dy8r2db8t1~x2/"><circle cx="274.0" cy="253.0" r="4" fill="#3465a4"><title>Unamed Riding cloak 1745</title></circle></a><a href="/setts/s6/lo23r22m52r8w6lo18/"><circle cx="228.7" cy="219.4" r="4" fill="#3465a4"><title>Lady Boys of Bangkok (Corporate)</title></circle></a><a href="/setts/s5/dp2g10o15dp10g2~x4/"><circle cx="253.8" cy="277.7" r="4" fill="#3465a4"><title>Harmony, 6</title></circle></a><a href="/setts/s6/g1m1g7m4r7m1~x4/"><circle cx="261.6" cy="251.4" r="4" fill="#3465a4"><title>MacNab #2</title></circle></a><circle cx="258.5" cy="263.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/n7r1dt6r8lr1~x8/

@@ -2,7 +2,7 @@
 title: "Conquergood (Name)"
 date: 2023-03-18
 ---
-**Bands:** [BKWRBWBK](/stripes/bkwrbwbk/) · **Stripes:** [T K W O T W T K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="seq">T K W O T W T K</span></span>
+**Bands:** [KBWBRWKB](/stripes/kbwbrwkb/) · **Stripes:** [K T W T O W K T](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K T W T O W K T</span></span>
 
 
 This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/
 Original link http://www.tartansauthority.com/tartan-ferret/display/2095/
 
 ## Thread count
-B/4 K2 LN4 N10 B10 LN22 B4 K/8
+K/8 B4 LN22 B10 N10 LN4 K2 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -25,7 +25,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/4 K2 LN4 N10 B10 LN22 B4 K/8 tartan")
+![Tartan detail](tartan.png "K/8 B4 LN22 B10 N10 LN4 K2 B/4 tartan")
 
 ## Nearest tartans
 
@@ -44,8 +44,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/ly8db4t23w3db22w25db3w6~x2/"><circle cx="130.8" cy="178.9" r="4" fill="#3465a4"><title>Culloden, Blue Dress (Dance)</title></circle></a><a href="/setts/s7/r2ly1b8r1lg7ly1r2~x6/"><circle cx="150.9" cy="182.6" r="4" fill="#3465a4"><title>Cercle de Fermières de Saint-Élie d'Orford</title></circle></a><a href="/setts/s7/k2lb16w2dt16w15k2w2~x2/"><circle cx="139.5" cy="183.6" r="4" fill="#3465a4"><title>Strathclyde District Tartan Tartan Number: 1072. Earliest known date: 1975 The navy blue and white are said to represent the 'Scottish Sporting Colours'. This sett is also produced with light blue in place of white. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/g4w28db14ly2t17g4~x2/"><circle cx="162.6" cy="164.0" r="4" fill="#3465a4"><title>Allanton Dress (Fashion)</title></circle></a><a href="/setts/s8/do4ly2do13ly1w13t13ly2t4~x2/"><circle cx="142.4" cy="168.0" r="4" fill="#3465a4"><title>Bannockbane Tan</title></circle></a><a href="/setts/s8/dt2t2w11t5o5w2dt1t2~x2/"><circle cx="208.3" cy="185.1" r="4" fill="#3465a4"><title>Conquergood Family Tartan Tartan Number: 2095. Earliest known date: 1982 Designed to represent Canadian landscape in winter and sandy beaches in summer. Robert Conquergood, born in 1818 in Ormston, in the Parish of Roxburgh, Scotland, emigrated to Ontario, Canada with his father, also Robert, who was born in 1781. The Conquergood family in Canada approved this tartan at their 1990 biennial family reunion held at Kelowna, British Columbia. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/b15w13dy6b2dy2r2dy2b2dy6w13b15r3~x4/"><circle cx="170.8" cy="178.3" r="4" fill="#3465a4"><title>Thompson (Pendleton)</title></circle></a><a href="/setts/s7/t8w28lo3g3t8k9t4~x2/"><circle cx="177.2" cy="161.4" r="4" fill="#3465a4"><title>MacTavish of Dunardry (Clan)</title></circle></a><a href="/setts/s7/w28t19db19w4db2lp2db7~x2/"><circle cx="174.3" cy="158.1" r="4" fill="#3465a4"><title>St Andrews, Earl of, dress</title></circle></a><a href="/setts/s6/w5db32g12db2w30k4~x2/"><circle cx="198.1" cy="162.0" r="4" fill="#3465a4"><title>Bonnie Royal</title></circle></a><circle cx="159.9" cy="178.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/ly8db4t23w3db22w25db3w6~x2/"><circle cx="130.6" cy="178.8" r="4" fill="#3465a4"><title>Culloden, Blue Dress (Dance)</title></circle></a><a href="/setts/s7/r2ly1b8r1lg7ly1r2~x6/"><circle cx="150.7" cy="182.5" r="4" fill="#3465a4"><title>Cercle de Fermières de Saint-Élie d'Orford</title></circle></a><a href="/setts/s7/k2lb16w2dt16w15k2w2~x2/"><circle cx="139.4" cy="183.5" r="4" fill="#3465a4"><title>Strathclyde District Tartan Tartan Number: 1072. Earliest known date: 1975 The navy blue and white are said to represent the 'Scottish Sporting Colours'. This sett is also produced with light blue in place of white. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/g4w28db14ly2t17g4~x2/"><circle cx="162.5" cy="163.9" r="4" fill="#3465a4"><title>Allanton Dress (Fashion)</title></circle></a><a href="/setts/s8/do4ly2do13ly1w13t13ly2t4~x2/"><circle cx="142.3" cy="167.9" r="4" fill="#3465a4"><title>Bannockbane Tan</title></circle></a><a href="/setts/s8/dt2t2w11t5o5w2dt1t2~x2/"><circle cx="208.0" cy="185.0" r="4" fill="#3465a4"><title>Conquergood Family Tartan Tartan Number: 2095. Earliest known date: 1982 Designed to represent Canadian landscape in winter and sandy beaches in summer. Robert Conquergood, born in 1818 in Ormston, in the Parish of Roxburgh, Scotland, emigrated to Ontario, Canada with his father, also Robert, who was born in 1781. The Conquergood family in Canada approved this tartan at their 1990 biennial family reunion held at Kelowna, British Columbia. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/b15w13dy6b2dy2r2dy2b2dy6w13b15r3~x4/"><circle cx="170.6" cy="178.2" r="4" fill="#3465a4"><title>Thompson (Pendleton)</title></circle></a><a href="/setts/s7/t8w28lo3g3t8k9t4~x2/"><circle cx="177.0" cy="161.3" r="4" fill="#3465a4"><title>MacTavish of Dunardry (Clan)</title></circle></a><a href="/setts/s7/w28t19db19w4db2lp2db7~x2/"><circle cx="174.1" cy="158.0" r="4" fill="#3465a4"><title>St Andrews, Earl of, dress</title></circle></a><a href="/setts/s6/w5db32g12db2w30k4~x2/"><circle cx="197.9" cy="161.8" r="4" fill="#3465a4"><title>Bonnie Royal</title></circle></a><circle cx="159.7" cy="178.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k4t2w11t5o5w2k1t2~x2/

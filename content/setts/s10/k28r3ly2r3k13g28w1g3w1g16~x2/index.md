@@ -2,7 +2,7 @@
 title: "Bomb Disposal"
 date: 2023-03-18
 ---
-**Bands:** [GWGWGKRYRK](/stripes/gwgwgkryrk/) · **Stripes:** [G W G W G K R LY R K](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">G W G W G K R LY R K</span></span>
+**Bands:** [KRYRKGWGWG](/stripes/kryrkgwgwg/) · **Stripes:** [K R LY R K G W G W G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K R LY R K G W G W G</span></span>
 
 
 This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/11225/
 
 ## Thread count
-G/32 LN2 G6 LN2 G56 K26 DR6 Y4 DR6 K/56
+K/56 DR6 Y4 DR6 K26 G56 LN2 G6 LN2 G/32
 ![Sett](sett.png)
 
 ## Palette
@@ -28,21 +28,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Sarafilovic (Corporate)](/setts/s9/ly4g44k2g2k2g3k18db15r4~x2/) — ΔT 1.02
-1. [Highlands of Durham #2](/setts/s10/k37g27w2k4r6k4w2g27k37ly2~x2/) — ΔT 1.07
+1. [Sarafilovic (Corporate)](/setts/s9/r4db15k18g3k2g2k2g44ly4~x2/) — ΔT 1.02
+1. [Highlands of Durham #2](/setts/s10/k37g27w2k4r6k4w2g27k37ly2~x2/) — ΔT 1.08
 1. [MacDonald of The Isles](/setts/s9/w4g30k1g1k1g3k12db10r3~x2/) — ΔT 1.11
 1. [Bomb Disposal](/setts/s10/k28r3lo2r3k13dg28k1dg3k1dg16~x2/) — ΔT 1.11
-1. [Vipont (Yellow line)](/setts/s7/ly3k36g14p2k2g14r3~x2/) — ΔT 1.11
+1. [Vipont (Yellow line)](/setts/s7/r3g14k2p2g14k36ly3~x2/) — ΔT 1.11
 1. [Danareth](/setts/s10/k7g6ly3k12r19k12g62k62g12r7/) — ΔT 1.19
 1. [Mackay, John W. (Personal)](/setts/s9/k4g35lo1k18g3db18r3g3r3~x2/) — ΔT 1.26
 1. [MacDonnald of ye Ylis](/setts/s9/lr4dg30k1dg1k1dg3k12db10r3~x2/) — ΔT 1.27
+1. [MacDonnald of ye Ylis](/setts/s9/lr4dg30k1dg1k1dg3k12db10r3/) — ΔT 1.27
 1. [Moran Family Tartan Tartan Number: 675. Earliest known date: 1986 The designers requested that the threadcount be Restricted. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/g55k17r9k11ly2db4~x2/) — ΔT 1.27
-1. [Hutchens (Kansas) (Personal)](/setts/s9/db10k12g3k1g1k1g30lo4w4~x2/) — ΔT 1.28
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/ly4g44k2g2k2g3k18db15r4~x2/"><circle cx="302.7" cy="135.3" r="4" fill="#3465a4"><title>Sarafilovic (Corporate)</title></circle></a><a href="/setts/s10/k37g27w2k4r6k4w2g27k37ly2~x2/"><circle cx="312.6" cy="153.8" r="4" fill="#3465a4"><title>Highlands of Durham #2</title></circle></a><a href="/setts/s9/w4g30k1g1k1g3k12db10r3~x2/"><circle cx="293.2" cy="116.5" r="4" fill="#3465a4"><title>MacDonald of The Isles</title></circle></a><a href="/setts/s10/k28r3lo2r3k13dg28k1dg3k1dg16~x2/"><circle cx="334.9" cy="153.4" r="4" fill="#3465a4"><title>Bomb Disposal</title></circle></a><a href="/setts/s7/ly3k36g14p2k2g14r3~x2/"><circle cx="303.9" cy="161.0" r="4" fill="#3465a4"><title>Vipont (Yellow line)</title></circle></a><a href="/setts/s10/k7g6ly3k12r19k12g62k62g12r7/"><circle cx="278.0" cy="150.8" r="4" fill="#3465a4"><title>Danareth</title></circle></a><a href="/setts/s9/k4g35lo1k18g3db18r3g3r3~x2/"><circle cx="294.5" cy="134.0" r="4" fill="#3465a4"><title>Mackay, John W. (Personal)</title></circle></a><a href="/setts/s9/lr4dg30k1dg1k1dg3k12db10r3~x2/"><circle cx="304.7" cy="125.6" r="4" fill="#3465a4"><title>MacDonnald of ye Ylis</title></circle></a><a href="/setts/s6/g55k17r9k11ly2db4~x2/"><circle cx="345.5" cy="155.9" r="4" fill="#3465a4"><title>Moran Family Tartan Tartan Number: 675. Earliest known date: 1986 The designers requested that the threadcount be Restricted. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db10k12g3k1g1k1g30lo4w4~x2/"><circle cx="278.3" cy="116.3" r="4" fill="#3465a4"><title>Hutchens (Kansas) (Personal)</title></circle></a><circle cx="303.7" cy="136.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r4db15k18g3k2g2k2g44ly4~x2/"><circle cx="302.6" cy="135.3" r="4" fill="#3465a4"><title>Sarafilovic (Corporate)</title></circle></a><a href="/setts/s10/k37g27w2k4r6k4w2g27k37ly2~x2/"><circle cx="312.6" cy="153.7" r="4" fill="#3465a4"><title>Highlands of Durham #2</title></circle></a><a href="/setts/s9/w4g30k1g1k1g3k12db10r3~x2/"><circle cx="293.1" cy="116.5" r="4" fill="#3465a4"><title>MacDonald of The Isles</title></circle></a><a href="/setts/s10/k28r3lo2r3k13dg28k1dg3k1dg16~x2/"><circle cx="334.9" cy="153.4" r="4" fill="#3465a4"><title>Bomb Disposal</title></circle></a><a href="/setts/s7/r3g14k2p2g14k36ly3~x2/"><circle cx="303.9" cy="160.9" r="4" fill="#3465a4"><title>Vipont (Yellow line)</title></circle></a><a href="/setts/s10/k7g6ly3k12r19k12g62k62g12r7/"><circle cx="277.9" cy="150.7" r="4" fill="#3465a4"><title>Danareth</title></circle></a><a href="/setts/s9/k4g35lo1k18g3db18r3g3r3~x2/"><circle cx="294.5" cy="134.1" r="4" fill="#3465a4"><title>Mackay, John W. (Personal)</title></circle></a><a href="/setts/s9/lr4dg30k1dg1k1dg3k12db10r3~x2/"><circle cx="304.7" cy="125.6" r="4" fill="#3465a4"><title>MacDonnald of ye Ylis</title></circle></a><a href="/setts/s9/lr4dg30k1dg1k1dg3k12db10r3/"><circle cx="304.7" cy="125.6" r="4" fill="#3465a4"><title>MacDonnald of ye Ylis</title></circle></a><a href="/setts/s6/g55k17r9k11ly2db4~x2/"><circle cx="345.4" cy="155.8" r="4" fill="#3465a4"><title>Moran Family Tartan Tartan Number: 675. Earliest known date: 1986 The designers requested that the threadcount be Restricted. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="303.6" cy="136.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/k28r3ly2r3k13g28w1g3w1g16~x2/

@@ -2,7 +2,7 @@
 title: "Black Watch (variation)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGK](/stripes/bkbkgk/) · **Stripes:** [DB K DB K G K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K DB K G K</span></span>
+**Bands:** [KGKBKB](/stripes/kgkbkb/) · **Stripes:** [K G K DB K DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K G K DB K DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -896,12 +899,12 @@ External register numbers recorded for this tartan.
 Other setts woven to the same stripe pattern.
 
 - [Campbell, the 42nd](/setts/s6/db6k6db18k18g22k5/)
-- [Sutherland, 42nd](/setts/s6/db1k1db3k3g3k1~x4/)
+- [Sutherland, 42nd](/setts/s6/k1g3k3db3k1db1~x4/)
 - [Wartley Htg (Fashion)](/setts/s6/db4k2db16k10g18k3~x2/)
 
 
 ## Thread count
-DB/6 K66 DB42 K36 G46 K/10
+K/10 G46 K36 DB42 K66 DB/6
 ![Sett](sett.png)
 
 ## Palette
@@ -915,7 +918,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/6 K66 DB42 K36 G46 K/10 tartan")
+![Tartan detail](tartan.png "K/10 G46 K36 DB42 K66 DB/6 tartan")
 
 ## Nearest tartans
 
@@ -924,18 +927,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Gunn (Logan)](/setts/s6/dg2k12dg1k12dg12r2~x2/) — ΔT 1.28
 1. [Perthshire, New /Tourist Board](/setts/s6/db37r10dg22db11dg3r3~x2/) — ΔT 1.30
 1. [Klappert, Denmark (Personal)](/setts/s9/dt16k13dt7dy3r2dy3dt7k13dt16~x2/) — ΔT 1.49
-1. [Marchmont (Personal)](/setts/s7/g1db12k12g1k12db12k1~x4/) — ΔT 1.57
+1. [Marchmont (Personal)](/setts/s7/k1db12k12g1k12db12g1~x4/) — ΔT 1.57
 1. [Perthshire Tourist Board](/setts/s6/k26r6dg16k8dg3r2~x2/) — ΔT 1.58
 1. [Green Highland, The (Fashion)](/setts/s6/db2dg15do3db7dg7db2~x4/) — ΔT 1.58
 1. [Murray](/setts/s6/t3k16dg16k16db3t3~x2/) — ΔT 1.59
-1. [Bean of Freeport (Personal)](/setts/s7/db6dg41dt20r15dg41r15dt6/) — ΔT 1.60
+1. [Bean of Freeport (Personal)](/setts/s7/dt6r15dg41r15dt20dg41db6/) — ΔT 1.60
 1. [Innes (Miniature)](/setts/s4/k6t1dg7k1~x2/) — ΔT 1.61
 1. [MacKay (Blue) #2](/setts/s5/k15db4k15db28r2~x2/) — ΔT 1.63
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dg2k12dg1k12dg12r2~x2/"><circle cx="403.3" cy="269.1" r="4" fill="#3465a4"><title>Gunn (Logan)</title></circle></a><a href="/setts/s6/db37r10dg22db11dg3r3~x2/"><circle cx="387.7" cy="265.7" r="4" fill="#3465a4"><title>Perthshire, New /Tourist Board</title></circle></a><a href="/setts/s9/dt16k13dt7dy3r2dy3dt7k13dt16~x2/"><circle cx="342.3" cy="267.5" r="4" fill="#3465a4"><title>Klappert, Denmark (Personal)</title></circle></a><a href="/setts/s7/g1db12k12g1k12db12k1~x4/"><circle cx="366.8" cy="264.6" r="4" fill="#3465a4"><title>Marchmont (Personal)</title></circle></a><a href="/setts/s6/k26r6dg16k8dg3r2~x2/"><circle cx="405.2" cy="261.6" r="4" fill="#3465a4"><title>Perthshire Tourist Board</title></circle></a><a href="/setts/s6/db2dg15do3db7dg7db2~x4/"><circle cx="389.1" cy="290.4" r="4" fill="#3465a4"><title>Green Highland, The (Fashion)</title></circle></a><a href="/setts/s6/t3k16dg16k16db3t3~x2/"><circle cx="300.7" cy="281.4" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s7/db6dg41dt20r15dg41r15dt6/"><circle cx="311.2" cy="262.4" r="4" fill="#3465a4"><title>Bean of Freeport (Personal)</title></circle></a><a href="/setts/s4/k6t1dg7k1~x2/"><circle cx="336.3" cy="308.1" r="4" fill="#3465a4"><title>Innes (Miniature)</title></circle></a><a href="/setts/s5/k15db4k15db28r2~x2/"><circle cx="378.2" cy="270.2" r="4" fill="#3465a4"><title>MacKay (Blue) #2</title></circle></a><circle cx="346.3" cy="289.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dg2k12dg1k12dg12r2~x2/"><circle cx="403.3" cy="269.0" r="4" fill="#3465a4"><title>Gunn (Logan)</title></circle></a><a href="/setts/s6/db37r10dg22db11dg3r3~x2/"><circle cx="387.9" cy="265.7" r="4" fill="#3465a4"><title>Perthshire, New /Tourist Board</title></circle></a><a href="/setts/s9/dt16k13dt7dy3r2dy3dt7k13dt16~x2/"><circle cx="342.4" cy="267.5" r="4" fill="#3465a4"><title>Klappert, Denmark (Personal)</title></circle></a><a href="/setts/s7/k1db12k12g1k12db12g1~x4/"><circle cx="366.9" cy="264.5" r="4" fill="#3465a4"><title>Marchmont (Personal)</title></circle></a><a href="/setts/s6/k26r6dg16k8dg3r2~x2/"><circle cx="405.2" cy="261.5" r="4" fill="#3465a4"><title>Perthshire Tourist Board</title></circle></a><a href="/setts/s6/db2dg15do3db7dg7db2~x4/"><circle cx="389.2" cy="290.3" r="4" fill="#3465a4"><title>Green Highland, The (Fashion)</title></circle></a><a href="/setts/s6/t3k16dg16k16db3t3~x2/"><circle cx="300.9" cy="281.4" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s7/dt6r15dg41r15dt20dg41db6/"><circle cx="311.2" cy="262.4" r="4" fill="#3465a4"><title>Bean of Freeport (Personal)</title></circle></a><a href="/setts/s4/k6t1dg7k1~x2/"><circle cx="336.5" cy="308.0" r="4" fill="#3465a4"><title>Innes (Miniature)</title></circle></a><a href="/setts/s5/k15db4k15db28r2~x2/"><circle cx="378.4" cy="270.1" r="4" fill="#3465a4"><title>MacKay (Blue) #2</title></circle></a><circle cx="346.4" cy="289.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k5g23k18db21k33db3~x2/

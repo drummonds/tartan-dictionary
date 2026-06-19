@@ -8,7 +8,7 @@ RKBGKGKY
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/ly5k2g28k19g4db19k2r5~x2/tartan.png)
+![Woven sample](/setts/s8/r5k2db19g4k19g28k2ly5~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RKBGKGKY
 
 | Tartans |
 |---------------|
-| [Tait #1](/setts/s8/ly5k2g28k19g4db19k2r5~x2/)|
-|![Tait #1 example sett](/setts/s8/ly5k2g28k19g4db19k2r5~x2/sett.png)|
+| [Tait #1](/setts/s8/r5k2db19g4k19g28k2ly5~x2/)|
+|![Tait #1 example sett](/setts/s8/r5k2db19g4k19g28k2ly5~x2/sett.png)|
 

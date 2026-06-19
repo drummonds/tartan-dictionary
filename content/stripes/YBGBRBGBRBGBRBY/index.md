@@ -18,10 +18,10 @@ YBGBRBGBRBGBRBY
 
 
 
-### LY DB G DB O DB G DB O DB G DB O DB LY <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY DB G DB O DB G DB O DB G DB O DB LY</span></span>
+### LY DB O DB G DB O DB G DB O DB G DB LY <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LY DB O DB G DB O DB G DB O DB G DB LY</span></span>
 
 | Tartans |
 |---------------|
-| [Kerry](/setts/s15/ly2db3g3db4o16db3g3db4o3db3g16db4o3db3ly2~x2/)|
-|![Kerry example sett](/setts/s15/ly2db3g3db4o16db3g3db4o3db3g16db4o3db3ly2~x2/sett.png)|
+| [Kerry](/setts/s15/ly2db3o3db4g16db3o3db4g3db3o16db4g3db3ly2~x2/)|
+|![Kerry example sett](/setts/s15/ly2db3o3db4g16db3o3db4g3db3o16db4g3db3ly2~x2/sett.png)|
 

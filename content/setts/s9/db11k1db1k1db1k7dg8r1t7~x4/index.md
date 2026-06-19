@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [11258](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11258)
 
 ## Thread count
-B/28 R4 G32 K28 DB4 K4 DB4 K4 DB/44
+DB/44 K4 DB4 K4 DB4 K28 G32 R4 B/28
 ![Sett](sett.png)
 
 ## Palette
@@ -41,14 +41,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Brethwe Powys](/setts/s11/dg24db7dg7db7k22db7k4dy4k4db40m14/) — ΔT 1.11
 1. [Brown Ellis (Personal)](/setts/s12/k4db11k1db2k1db11k2db14k2dg14k1r2~x2/) — ΔT 1.15
 1. [Blairmore House (Corporate)](/setts/s8/db17lb2db2r2db2do12dg16lo3~x4/) — ΔT 1.15
-1. [Brady 60th, Keith James (Personal)](/setts/s10/lo1db9k1n1k1n1k3n7o1n1~x4/) — ΔT 1.15
+1. [Brady 60th, Keith James (Personal)](/setts/s10/n1o1n7k3n1k1n1k1db9lo1~x4/) — ΔT 1.15
 1. [St. Andrew's Soc. of Philadelphia (C](/setts/s12/db3r1db12dg2db2db4db2dg2db2dg9db1lo2~x4/) — ΔT 1.18
 1. [Leung (Personal)](/setts/s9/dp4db7dp2db25k19w2dg23k2lo3~x2/) — ΔT 1.22
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db11k1db1k1db1k7dg8r1lg6~x4/"><circle cx="181.0" cy="190.8" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/setts/s9/dg2g8dt1g1dt1g1dt8db10w1~x4/"><circle cx="195.8" cy="198.3" r="4" fill="#3465a4"><title>Cowal Gathering</title></circle></a><a href="/setts/s8/db22r3db2r3db2k17dy18g4~x2/"><circle cx="213.1" cy="197.5" r="4" fill="#3465a4"><title>Scotch House 2000 Antique</title></circle></a><a href="/setts/s9/g11k2g1r4db1r4db13t2db1~x4/"><circle cx="228.4" cy="177.5" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/setts/s11/dg24db7dg7db7k22db7k4dy4k4db40m14/"><circle cx="249.1" cy="208.4" r="4" fill="#3465a4"><title>Brethwe Powys</title></circle></a><a href="/setts/s12/k4db11k1db2k1db11k2db14k2dg14k1r2~x2/"><circle cx="236.7" cy="189.4" r="4" fill="#3465a4"><title>Brown Ellis (Personal)</title></circle></a><a href="/setts/s8/db17lb2db2r2db2do12dg16lo3~x4/"><circle cx="193.4" cy="198.3" r="4" fill="#3465a4"><title>Blairmore House (Corporate)</title></circle></a><a href="/setts/s10/lo1db9k1n1k1n1k3n7o1n1~x4/"><circle cx="222.6" cy="180.0" r="4" fill="#3465a4"><title>Brady 60th, Keith James (Personal)</title></circle></a><a href="/setts/s12/db3r1db12dg2db2db4db2dg2db2dg9db1lo2~x4/"><circle cx="255.9" cy="186.4" r="4" fill="#3465a4"><title>St. Andrew's Soc. of Philadelphia (C</title></circle></a><a href="/setts/s9/dp4db7dp2db25k19w2dg23k2lo3~x2/"><circle cx="195.5" cy="176.3" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><circle cx="197.1" cy="199.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db11k1db1k1db1k7dg8r1lg6~x4/"><circle cx="181.2" cy="191.0" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/setts/s9/dg2g8dt1g1dt1g1dt8db10w1~x4/"><circle cx="195.9" cy="198.5" r="4" fill="#3465a4"><title>Cowal Gathering</title></circle></a><a href="/setts/s8/db22r3db2r3db2k17dy18g4~x2/"><circle cx="213.2" cy="197.6" r="4" fill="#3465a4"><title>Scotch House 2000 Antique</title></circle></a><a href="/setts/s9/g11k2g1r4db1r4db13t2db1~x4/"><circle cx="228.4" cy="177.6" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/setts/s11/dg24db7dg7db7k22db7k4dy4k4db40m14/"><circle cx="249.2" cy="208.6" r="4" fill="#3465a4"><title>Brethwe Powys</title></circle></a><a href="/setts/s12/k4db11k1db2k1db11k2db14k2dg14k1r2~x2/"><circle cx="236.8" cy="189.6" r="4" fill="#3465a4"><title>Brown Ellis (Personal)</title></circle></a><a href="/setts/s8/db17lb2db2r2db2do12dg16lo3~x4/"><circle cx="193.6" cy="198.5" r="4" fill="#3465a4"><title>Blairmore House (Corporate)</title></circle></a><a href="/setts/s10/n1o1n7k3n1k1n1k1db9lo1~x4/"><circle cx="222.6" cy="180.1" r="4" fill="#3465a4"><title>Brady 60th, Keith James (Personal)</title></circle></a><a href="/setts/s12/db3r1db12dg2db2db4db2dg2db2dg9db1lo2~x4/"><circle cx="256.0" cy="186.6" r="4" fill="#3465a4"><title>St. Andrew's Soc. of Philadelphia (C</title></circle></a><a href="/setts/s9/dp4db7dp2db25k19w2dg23k2lo3~x2/"><circle cx="195.7" cy="176.5" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><circle cx="197.2" cy="200.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/db11k1db1k1db1k7dg8r1t7~x4/

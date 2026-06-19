@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="157.4" cy="135.6" r="4" fill="#3465a4"><title>Campbell, Red</title></circle></a><a href="/setts/s12/k4w1db26k5db5k32g23k2r4k2g13k1~x2/"><circle cx="222.4" cy="109.3" r="4" fill="#3465a4"><title>Young, Melvina (Artefact)</title></circle></a><a href="/setts/s12/k4w1db26k5db5k32g23k2r4k2g13k2~x2/"><circle cx="204.5" cy="103.7" r="4" fill="#3465a4"><title>Naomia Melvina Young Wedding Dress</title></circle></a><a href="/setts/s9/dy3k3dy3k18n28w1g22k2dy2~x2/"><circle cx="190.1" cy="122.9" r="4" fill="#3465a4"><title>Black Gold</title></circle></a><a href="/setts/s11/t3g3k4g14k4g3k14db18r1db4r2~x2/"><circle cx="148.1" cy="144.9" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/setts/s9/db24ly2k8g16k1g3k1g3r4~x2/"><circle cx="210.4" cy="126.6" r="4" fill="#3465a4"><title>Ogilvie 1</title></circle></a><a href="/setts/s14/db88k15g9r12g20k3ly8k3g20r12g9k15db24k36~x2/"><circle cx="206.2" cy="100.6" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/setts/s11/t4g4r1db18t4k2g16r1db6t4k2~x2/"><circle cx="183.9" cy="139.7" r="4" fill="#3465a4"><title>Coopers &amp; Lybrand</title></circle></a><a href="/setts/s11/db9k9db9r2k18w1g12r2g4r2g4~x2/"><circle cx="155.8" cy="150.0" r="4" fill="#3465a4"><title>Newman</title></circle></a><a href="/setts/s17/db22k3db3k3db3k15r2g19k1t3k1g19r2k15db19k3db3~x2/"><circle cx="178.3" cy="115.5" r="4" fill="#3465a4"><title>Sempill</title></circle></a><circle cx="192.7" cy="128.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="157.5" cy="135.7" r="4" fill="#3465a4"><title>Campbell, Red</title></circle></a><a href="/setts/s12/k4w1db26k5db5k32g23k2r4k2g13k1~x2/"><circle cx="222.4" cy="109.3" r="4" fill="#3465a4"><title>Young, Melvina (Artefact)</title></circle></a><a href="/setts/s12/k4w1db26k5db5k32g23k2r4k2g13k2~x2/"><circle cx="204.6" cy="103.7" r="4" fill="#3465a4"><title>Naomia Melvina Young Wedding Dress</title></circle></a><a href="/setts/s9/dy3k3dy3k18n28w1g22k2dy2~x2/"><circle cx="190.2" cy="122.9" r="4" fill="#3465a4"><title>Black Gold</title></circle></a><a href="/setts/s11/t3g3k4g14k4g3k14db18r1db4r2~x2/"><circle cx="148.3" cy="145.0" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/setts/s9/db24ly2k8g16k1g3k1g3r4~x2/"><circle cx="210.4" cy="126.6" r="4" fill="#3465a4"><title>Ogilvie 1</title></circle></a><a href="/setts/s14/db88k15g9r12g20k3ly8k3g20r12g9k15db24k36~x2/"><circle cx="206.2" cy="100.7" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/setts/s11/t4g4r1db18t4k2g16r1db6t4k2~x2/"><circle cx="184.0" cy="139.7" r="4" fill="#3465a4"><title>Coopers &amp; Lybrand</title></circle></a><a href="/setts/s11/db9k9db9r2k18w1g12r2g4r2g4~x2/"><circle cx="156.0" cy="150.0" r="4" fill="#3465a4"><title>Newman</title></circle></a><a href="/setts/s17/db22k3db3k3db3k15r2g19k1t3k1g19r2k15db19k3db3~x2/"><circle cx="178.4" cy="115.5" r="4" fill="#3465a4"><title>Sempill</title></circle></a><circle cx="192.8" cy="128.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/

@@ -8,7 +8,7 @@ RGRBWRWR
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/m4g3m18dp18w18r1w2r4~x2/tartan.png)
+![Woven sample](/setts/s8/r4w2r1w18dp18m18g3m4~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RGRBWRWR
 
 | Tartans |
 |---------------|
-| [Gigha, Lilac (Dance)](/setts/s8/m4g3m18dp18w18r1w2r4~x2/)|
-|![Gigha, Lilac (Dance) example sett](/setts/s8/m4g3m18dp18w18r1w2r4~x2/sett.png)|
+| [Gigha, Lilac (Dance)](/setts/s8/r4w2r1w18dp18m18g3m4~x2/)|
+|![Gigha, Lilac (Dance) example sett](/setts/s8/r4w2r1w18dp18m18g3m4~x2/sett.png)|
 

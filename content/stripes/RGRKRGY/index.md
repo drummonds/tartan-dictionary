@@ -8,7 +8,7 @@ RGRKRGY
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/lo3g2r28k6r4g16r3~x2/tartan.png)
+![Woven sample](/setts/s7/r3g16r4k6r28g2lo3~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RGRKRGY
 
 | Tartans |
 |---------------|
-| [McInally (Name)](/setts/s7/lo3g2r28k6r4g16r3~x2/)|
-|![McInally (Name) example sett](/setts/s7/lo3g2r28k6r4g16r3~x2/sett.png)|
+| [McInally (Name)](/setts/s7/r3g16r4k6r28g2lo3~x2/)|
+|![McInally (Name) example sett](/setts/s7/r3g16r4k6r28g2lo3~x2/sett.png)|
 

@@ -2,12 +2,18 @@
 title: "Wilson's No.210"
 date: 2023-03-18
 ---
-**Bands:** [BG](/stripes/bg/) · **Stripes:** [T G](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">T G</span></span>
+**Bands:** [GB](/stripes/gb/) · **Stripes:** [G T](/stripes/stripes2/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">G T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [2 band tartan](/bands/bands2/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4741
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Wilson's, No 210
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/12 G/14
+G/14 B/12
 ![Sett](sett.png)
 
 ## Palette
@@ -906,27 +915,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/12 G/14 tartan")
+![Tartan detail](tartan.png "G/14 B/12 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [MacKillen Hunting](/setts/s2/g1k1~x168/) — ΔT 2.28
+1. [MacKillen Hunting](/setts/s2/k1g1~x168/) — ΔT 2.29
 1. [Wilson's, No 219](/setts/s2/dg1g1~x18/) — ΔT 2.36
 1. [Robin Hood Fancy Tartan Tartan Number: 785. Earliest known date: 1819 In 1815, members of the Highland Society of London resolved to request of each of the Highland chiefs, a sample of their clan tartan. The swatches were to be signed and sealed in the chief's own hand. This sett is one of those delivered to the Society between 1815 and 1822. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s2/g9k8~x2/) — ΔT 2.43
 1. [Wilson's No.219](/setts/s2/dg7y6~x2/) — ΔT 2.65
-1. [St. Combs Fisher Plaid](/setts/s2/b1db1~x14/) — ΔT 2.96
+1. [St. Combs Fisher Plaid](/setts/s2/db1b1~x14/) — ΔT 2.96
 1. [Wilson's No.116 (light)](/setts/s2/y9dp8~x2/) — ΔT 3.02
 1. [Wilson's, No 116](/setts/s2/g1p1~x16/) — ΔT 3.28
 1. [Wilson's No.052](/setts/s3/g7k4t4~x2/) — ΔT 3.34
 1. [Wilson's No.045](/setts/s4/g2k1g2t1~x8/) — ΔT 3.34
-1. [Glenlyon](/setts/s3/db8dg7k8~x2/) — ΔT 3.37
+1. [Glenlyon](/setts/s3/k8dg7db8~x2/) — ΔT 3.37
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s2/g1k1~x168/"><circle cx="223.6" cy="366.0" r="4" fill="#3465a4"><title>MacKillen Hunting</title></circle></a><a href="/setts/s2/dg1g1~x18/"><circle cx="201.5" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 219</title></circle></a><a href="/setts/s2/g9k8~x2/"><circle cx="215.1" cy="366.0" r="4" fill="#3465a4"><title>Robin Hood Fancy Tartan Tartan Number: 785. Earliest known date: 1819 In 1815, members of the Highland Society of London resolved to request of each of the Highland chiefs, a sample of their clan tartan. The swatches were to be signed and sealed in the chief's own hand. This sett is one of those delivered to the Society between 1815 and 1822. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s2/dg7y6~x2/"><circle cx="309.3" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.219</title></circle></a><a href="/setts/s2/b1db1~x14/"><circle cx="210.5" cy="366.0" r="4" fill="#3465a4"><title>St. Combs Fisher Plaid</title></circle></a><a href="/setts/s2/y9dp8~x2/"><circle cx="233.8" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.116 (light)</title></circle></a><a href="/setts/s2/g1p1~x16/"><circle cx="160.4" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 116</title></circle></a><a href="/setts/s3/g7k4t4~x2/"><circle cx="153.3" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.052</title></circle></a><a href="/setts/s4/g2k1g2t1~x8/"><circle cx="301.6" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.045</title></circle></a><a href="/setts/s3/db8dg7k8~x2/"><circle cx="109.7" cy="366.0" r="4" fill="#3465a4"><title>Glenlyon</title></circle></a><circle cx="245.6" cy="366.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s2/k1g1~x168/"><circle cx="224.1" cy="366.0" r="4" fill="#3465a4"><title>MacKillen Hunting</title></circle></a><a href="/setts/s2/dg1g1~x18/"><circle cx="201.9" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 219</title></circle></a><a href="/setts/s2/g9k8~x2/"><circle cx="215.5" cy="366.0" r="4" fill="#3465a4"><title>Robin Hood Fancy Tartan Tartan Number: 785. Earliest known date: 1819 In 1815, members of the Highland Society of London resolved to request of each of the Highland chiefs, a sample of their clan tartan. The swatches were to be signed and sealed in the chief's own hand. This sett is one of those delivered to the Society between 1815 and 1822. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s2/dg7y6~x2/"><circle cx="309.7" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.219</title></circle></a><a href="/setts/s2/db1b1~x14/"><circle cx="210.9" cy="366.0" r="4" fill="#3465a4"><title>St. Combs Fisher Plaid</title></circle></a><a href="/setts/s2/y9dp8~x2/"><circle cx="234.1" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.116 (light)</title></circle></a><a href="/setts/s2/g1p1~x16/"><circle cx="160.7" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 116</title></circle></a><a href="/setts/s3/g7k4t4~x2/"><circle cx="153.6" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.052</title></circle></a><a href="/setts/s4/g2k1g2t1~x8/"><circle cx="301.7" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.045</title></circle></a><a href="/setts/s3/k8dg7db8~x2/"><circle cx="110.2" cy="366.0" r="4" fill="#3465a4"><title>Glenlyon</title></circle></a><circle cx="245.9" cy="366.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s2/g7t6~x2/

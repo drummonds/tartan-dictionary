@@ -20,7 +20,7 @@ BBBBYBBY
 
 
 
-### DO T DO T LO T DO LY <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DO T DO T LO T DO LY</span></span>
+### LY DO T LO T DO T DO <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#412714"></span><span class="seq">LY DO T LO T DO T DO</span></span>
 
 | Tartans |
 |---------------|

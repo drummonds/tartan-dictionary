@@ -8,7 +8,7 @@ A family of [Clan Hunter](/clan/hunter/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s16/r12g6k6g2k1g1k6r24w2r24k6g1k1g2k6g6~x2/"><img src="/setts/s16/r12g6k6g2k1g1k6r24w2r24k6g1k1g2k6g6~x2/sett.png" alt="Hunter of Bute (Personal)" width="240"><br>Hunter of Bute (Personal)</a>
+<a class="tartan" href="/setts/s16/r12g6k6g2k1g1k6r24w2~x2/"><img src="/setts/s16/r12g6k6g2k1g1k6r24w2~x2/sett.png" alt="Hunter of Bute (Personal)" width="240"><br>Hunter of Bute (Personal)</a>
 
 ## Other tartans
 

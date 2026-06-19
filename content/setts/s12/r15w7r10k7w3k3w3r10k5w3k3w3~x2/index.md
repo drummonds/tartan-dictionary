@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/6 K6 LN6 DB10 R20 LN6 K6 LN6 DB14 R20 LN14 R/30
+R/30 LN14 R20 DB14 LN6 K6 LN6 R20 DB10 LN6 K6 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -903,10 +906,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Westgaard of Kileughterco (Personal)](/setts/s12/r15w7r10db7w3k3w3r8db5w3k3w3~x2/) — ΔT 0.61
-1. [Sydney (Nova Scotia)](/setts/s14/o6k2w1k2o3r6o1r6o1r6o3k2w1k2~x4/) — ΔT 0.81
+1. [Sydney (Nova Scotia)](/setts/s14/r6o1r6o3k2w1k2o6~x4/) — ΔT 0.81
 1. [Westgaard Ladies' (Personal)](/setts/s12/r9lb4r6b4lb2k2lb2r5b3lb2k2lb2~x2/) — ΔT 0.92
 1. [Westgaard Captain (Personal)](/setts/s12/r9lb4r6db4ly2k2lb2r5db3ly2k2lb2~x2/) — ΔT 1.28
-1. [Dogrobes](/setts/s9/lb3r2lb9dt15w2dt15r9w2r3~x2/) — ΔT 1.41
+1. [Dogrobes](/setts/s9/r3w2r9dt15w2dt15lb9r2lb3~x2/) — ΔT 1.41
 1. [Central Washington University Wildcat](/setts/s11/w4r8k7w3r4k5w2k4r6k2r2~x2/) — ΔT 1.42
 1. [Glover, Thomas Blake](/setts/s12/db5dr10lo4dr10lo4dr10db5lb4db3lb10db1lo1~x2/) — ΔT 1.46
 1. [Grant of Ballindalloch](/setts/s15/r5k5r3g16r3g3r3k10r3b5r12k5r3k3r5~x2/) — ΔT 1.50
@@ -915,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r15w7r10db7w3k3w3r8db5w3k3w3~x2/"><circle cx="152.5" cy="186.6" r="4" fill="#3465a4"><title>Westgaard of Kileughterco (Personal)</title></circle></a><a href="/setts/s14/o6k2w1k2o3r6o1r6o1r6o3k2w1k2~x4/"><circle cx="158.2" cy="179.7" r="4" fill="#3465a4"><title>Sydney (Nova Scotia)</title></circle></a><a href="/setts/s12/r9lb4r6b4lb2k2lb2r5b3lb2k2lb2~x2/"><circle cx="145.9" cy="205.0" r="4" fill="#3465a4"><title>Westgaard Ladies' (Personal)</title></circle></a><a href="/setts/s12/r9lb4r6db4ly2k2lb2r5db3ly2k2lb2~x2/"><circle cx="120.4" cy="192.4" r="4" fill="#3465a4"><title>Westgaard Captain (Personal)</title></circle></a><a href="/setts/s9/lb3r2lb9dt15w2dt15r9w2r3~x2/"><circle cx="205.3" cy="183.3" r="4" fill="#3465a4"><title>Dogrobes</title></circle></a><a href="/setts/s11/w4r8k7w3r4k5w2k4r6k2r2~x2/"><circle cx="140.5" cy="233.2" r="4" fill="#3465a4"><title>Central Washington University Wildcat</title></circle></a><a href="/setts/s12/db5dr10lo4dr10lo4dr10db5lb4db3lb10db1lo1~x2/"><circle cx="170.5" cy="179.6" r="4" fill="#3465a4"><title>Glover, Thomas Blake</title></circle></a><a href="/setts/s15/r5k5r3g16r3g3r3k10r3b5r12k5r3k3r5~x2/"><circle cx="162.6" cy="192.8" r="4" fill="#3465a4"><title>Grant of Ballindalloch</title></circle></a><a href="/setts/s10/k4w4k4w4k4r8k2r8k8lo1~x4/"><circle cx="179.2" cy="209.9" r="4" fill="#3465a4"><title>Little of Morton Rigg</title></circle></a><a href="/setts/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/"><circle cx="126.1" cy="195.9" r="4" fill="#3465a4"><title>Edinburgh, City of</title></circle></a><circle cx="161.3" cy="189.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r15w7r10db7w3k3w3r8db5w3k3w3~x2/"><circle cx="152.3" cy="186.5" r="4" fill="#3465a4"><title>Westgaard of Kileughterco (Personal)</title></circle></a><a href="/setts/s14/r6o1r6o3k2w1k2o6~x4/"><circle cx="158.0" cy="179.6" r="4" fill="#3465a4"><title>Sydney (Nova Scotia)</title></circle></a><a href="/setts/s12/r9lb4r6b4lb2k2lb2r5b3lb2k2lb2~x2/"><circle cx="145.7" cy="204.9" r="4" fill="#3465a4"><title>Westgaard Ladies' (Personal)</title></circle></a><a href="/setts/s12/r9lb4r6db4ly2k2lb2r5db3ly2k2lb2~x2/"><circle cx="120.4" cy="192.3" r="4" fill="#3465a4"><title>Westgaard Captain (Personal)</title></circle></a><a href="/setts/s9/r3w2r9dt15w2dt15lb9r2lb3~x2/"><circle cx="205.2" cy="183.1" r="4" fill="#3465a4"><title>Dogrobes</title></circle></a><a href="/setts/s11/w4r8k7w3r4k5w2k4r6k2r2~x2/"><circle cx="140.3" cy="233.1" r="4" fill="#3465a4"><title>Central Washington University Wildcat</title></circle></a><a href="/setts/s12/db5dr10lo4dr10lo4dr10db5lb4db3lb10db1lo1~x2/"><circle cx="170.4" cy="179.6" r="4" fill="#3465a4"><title>Glover, Thomas Blake</title></circle></a><a href="/setts/s15/r5k5r3g16r3g3r3k10r3b5r12k5r3k3r5~x2/"><circle cx="162.5" cy="192.7" r="4" fill="#3465a4"><title>Grant of Ballindalloch</title></circle></a><a href="/setts/s10/k4w4k4w4k4r8k2r8k8lo1~x4/"><circle cx="179.2" cy="209.7" r="4" fill="#3465a4"><title>Little of Morton Rigg</title></circle></a><a href="/setts/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/"><circle cx="126.0" cy="195.8" r="4" fill="#3465a4"><title>Edinburgh, City of</title></circle></a><circle cx="161.1" cy="189.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r15w7r10k7w3k3w3r10k5w3k3w3~x2/

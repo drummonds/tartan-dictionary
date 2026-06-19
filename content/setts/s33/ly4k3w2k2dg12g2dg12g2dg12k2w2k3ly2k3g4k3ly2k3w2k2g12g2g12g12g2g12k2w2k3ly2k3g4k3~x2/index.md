@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DB/6 G8 DB6 Y4 DB6 LN4 DB4 G24 G4 G24 Ga24 G4 Ga24 DB4 LN4 DB6 Y4 DB6 G8 DB6 Y4 DB6 LN4 DB4 DG24 G4 DG24 G4 DG24 DB4 LN4 DB6 Y/8
+Y/8 DB6 LN4 DB4 DG24 G4 DG24 G4 DG24 DB4 LN4 DB6 Y4 DB6 G8 DB6 Y4 DB6 LN4 DB4 Ga24 G4 Ga24 G24 G4 G24 DB4 LN4 DB6 Y4 DB6 G8 DB/6
 ![Sett](sett.png)
 
 ## Palette
@@ -906,19 +909,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Gordonstoun](/setts/s25/r8g8r2k14r2k2t2r2k14r2g8r8t2db8r2g14ly2g2ly3g2ly2g14r2db8t2~x2/) — ΔT 1.82
 1. [Glendinning (Personal)](/setts/s16/g5r1g10k5k1k1k2k2k10ly5lb2k2lb1k2ly3k1~x2/) — ΔT 1.90
-1. [Webb (Personal)](/setts/s28/r4k2db10k2ly3db6w2g16k3w2k3w2k3w2r6w2k3w2k3w2k3g16w2db6ly3k2db10k2~x2/) — ΔT 1.96
+1. [Webb (Personal)](/setts/s28/r6w2k3w2k3w2k3g16w2db6ly3k2db10k2r4~x2/) — ΔT 1.96
 1. [Unidentified "Old tartan"](/setts/s35/db6g6k3g3k3g3k3g15r9g6db3k9db3g6r9g15k3g3k3g3k3g6o9db3o3db3o3db3o6db10o3db3o3db3o3~x2/) — ΔT 2.02
-1. [Campbell](/setts/s26/db11k3db11k11g15k2w3k2g15k11w5k5w19k2w5k2w19k5w5k11g15k2ly3k2g15k11~x2/) — ΔT 2.05
+1. [Campbell](/setts/s26/k11g15k2ly3k2g15k11w5k5w19k2w5k2w19k5w5k11g15k2w3k2g15k11db11k3db11~x2/) — ΔT 2.05
 1. [Gordonstoun](/setts/s21/r4g4r1k7r1k1t1r1k7r1g4r4t1db4r1g7ly1g7r1db4t1~x4/) — ΔT 2.10
 1. [Campbell of Loch Neil, dress](/setts/s28/k20g14k2ly4k2g14k10w6db6w18db3w4db3w18db6w6k10g14k2w4k2g14k12db12k2db6k2db12/) — ΔT 2.11
-1. [Scott (Green)](/setts/s26/g8k3w3k6ly4db12g6k8g12r3g3w3g3k8g3w3g3r3g12k8g6db12ly4k6w3k3~x2/) — ΔT 2.12
+1. [Scott (Green)](/setts/s26/k8g3w3g3r3g12k8g6db12ly4k6w3k3g8~x2/) — ΔT 2.12
 1. [Hawick Corporate District Tartan Tartan Number: 2220. Earliest known date: 1996 Designed by Andrew Elliot of Andrew Elliot Ltd, Forest Mill, Galashiels, Scotland. Appears to be a variation on Cockburn. Launched at a civic reception in Hawick as the offocial district tartan in February (14th) 1996. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s33/dg24r2dg12dt2w2dt3ly2dt3lb4dt3ly2dt3w2dt2g12r2g12lb12r2lb12dt2w2dt3ly2dt3lb4dt3ly2dt3w2dt2dg12r2~x2/) — ΔT 2.12
 1. [Campbell, dress](/setts/s24/k12g12ly3g12k9w5b6w19b2w6b2w19b6w5k9g12w3g12k12db10k2db2k2db10~x2/) — ΔT 2.14
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s25/r8g8r2k14r2k2t2r2k14r2g8r8t2db8r2g14ly2g2ly3g2ly2g14r2db8t2~x2/"><circle cx="64.6" cy="117.2" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/setts/s16/g5r1g10k5k1k1k2k2k10ly5lb2k2lb1k2ly3k1~x2/"><circle cx="55.9" cy="120.3" r="4" fill="#3465a4"><title>Glendinning (Personal)</title></circle></a><a href="/setts/s28/r4k2db10k2ly3db6w2g16k3w2k3w2k3w2r6w2k3w2k3w2k3g16w2db6ly3k2db10k2~x2/"><circle cx="33.1" cy="102.8" r="4" fill="#3465a4"><title>Webb (Personal)</title></circle></a><a href="/setts/s35/db6g6k3g3k3g3k3g15r9g6db3k9db3g6r9g15k3g3k3g3k3g6o9db3o3db3o3db3o6db10o3db3o3db3o3~x2/"><circle cx="68.9" cy="159.4" r="4" fill="#3465a4"><title>Unidentified &quot;Old tartan&quot;</title></circle></a><a href="/setts/s26/db11k3db11k11g15k2w3k2g15k11w5k5w19k2w5k2w19k5w5k11g15k2ly3k2g15k11~x2/"><circle cx="62.7" cy="127.6" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/setts/s21/r4g4r1k7r1k1t1r1k7r1g4r4t1db4r1g7ly1g7r1db4t1~x4/"><circle cx="71.5" cy="135.8" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/setts/s28/k20g14k2ly4k2g14k10w6db6w18db3w4db3w18db6w6k10g14k2w4k2g14k12db12k2db6k2db12/"><circle cx="38.4" cy="123.4" r="4" fill="#3465a4"><title>Campbell of Loch Neil, dress</title></circle></a><a href="/setts/s26/g8k3w3k6ly4db12g6k8g12r3g3w3g3k8g3w3g3r3g12k8g6db12ly4k6w3k3~x2/"><circle cx="35.2" cy="167.0" r="4" fill="#3465a4"><title>Scott (Green)</title></circle></a><a href="/setts/s33/dg24r2dg12dt2w2dt3ly2dt3lb4dt3ly2dt3w2dt2g12r2g12lb12r2lb12dt2w2dt3ly2dt3lb4dt3ly2dt3w2dt2dg12r2~x2/"><circle cx="48.3" cy="58.8" r="4" fill="#3465a4"><title>Hawick Corporate District Tartan Tartan Number: 2220. Earliest known date: 1996 Designed by Andrew Elliot of Andrew Elliot Ltd, Forest Mill, Galashiels, Scotland. Appears to be a variation on Cockburn. Launched at a civic reception in Hawick as the offocial district tartan in February (14th) 1996. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s24/k12g12ly3g12k9w5b6w19b2w6b2w19b6w5k9g12w3g12k12db10k2db2k2db10~x2/"><circle cx="14.0" cy="117.4" r="4" fill="#3465a4"><title>Campbell, dress</title></circle></a><circle cx="14.0" cy="116.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s25/r8g8r2k14r2k2t2r2k14r2g8r8t2db8r2g14ly2g2ly3g2ly2g14r2db8t2~x2/"><circle cx="64.6" cy="117.3" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/setts/s16/g5r1g10k5k1k1k2k2k10ly5lb2k2lb1k2ly3k1~x2/"><circle cx="55.9" cy="120.5" r="4" fill="#3465a4"><title>Glendinning (Personal)</title></circle></a><a href="/setts/s28/r6w2k3w2k3w2k3g16w2db6ly3k2db10k2r4~x2/"><circle cx="33.1" cy="103.0" r="4" fill="#3465a4"><title>Webb (Personal)</title></circle></a><a href="/setts/s35/db6g6k3g3k3g3k3g15r9g6db3k9db3g6r9g15k3g3k3g3k3g6o9db3o3db3o3db3o6db10o3db3o3db3o3~x2/"><circle cx="68.9" cy="159.5" r="4" fill="#3465a4"><title>Unidentified &quot;Old tartan&quot;</title></circle></a><a href="/setts/s26/k11g15k2ly3k2g15k11w5k5w19k2w5k2w19k5w5k11g15k2w3k2g15k11db11k3db11~x2/"><circle cx="62.7" cy="127.7" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/setts/s21/r4g4r1k7r1k1t1r1k7r1g4r4t1db4r1g7ly1g7r1db4t1~x4/"><circle cx="71.6" cy="136.0" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/setts/s28/k20g14k2ly4k2g14k10w6db6w18db3w4db3w18db6w6k10g14k2w4k2g14k12db12k2db6k2db12/"><circle cx="38.4" cy="123.4" r="4" fill="#3465a4"><title>Campbell of Loch Neil, dress</title></circle></a><a href="/setts/s26/k8g3w3g3r3g12k8g6db12ly4k6w3k3g8~x2/"><circle cx="35.3" cy="167.1" r="4" fill="#3465a4"><title>Scott (Green)</title></circle></a><a href="/setts/s33/dg24r2dg12dt2w2dt3ly2dt3lb4dt3ly2dt3w2dt2g12r2g12lb12r2lb12dt2w2dt3ly2dt3lb4dt3ly2dt3w2dt2dg12r2~x2/"><circle cx="48.2" cy="59.0" r="4" fill="#3465a4"><title>Hawick Corporate District Tartan Tartan Number: 2220. Earliest known date: 1996 Designed by Andrew Elliot of Andrew Elliot Ltd, Forest Mill, Galashiels, Scotland. Appears to be a variation on Cockburn. Launched at a civic reception in Hawick as the offocial district tartan in February (14th) 1996. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s24/k12g12ly3g12k9w5b6w19b2w6b2w19b6w5k9g12w3g12k12db10k2db2k2db10~x2/"><circle cx="14.0" cy="117.5" r="4" fill="#3465a4"><title>Campbell, dress</title></circle></a><circle cx="14.0" cy="116.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s33/ly4k3w2k2dg12g2dg12g2dg12k2w2k3ly2k3g4k3ly2k3w2k2g12g2g12g12g2g12k2w2k3ly2k3g4k3~x2/

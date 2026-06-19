@@ -8,12 +8,12 @@ A family of [Clan MacDonald](/clan/macdonald/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s13/db6r2db2r3db12r2k11lr2dg11r3dg2r2dg6/"><img src="/setts/s13/db6r2db2r3db12r2k11lr2dg11r3dg2r2dg6/sett.png" alt="MacDonald of Clanranald D" width="240"><br>MacDonald of Clanranald D</a>
+<a class="tartan" href="/setts/s13/dg6r2dg2r3dg11lr2k11r2db12r3db2r2db6/"><img src="/setts/s13/dg6r2dg2r3dg11lr2k11r2db12r3db2r2db6/sett.png" alt="MacDonald of Clanranald D" width="240"><br>MacDonald of Clanranald D</a>
 
 ## Other tartans
 
 <ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s13/db6r2db2r3db12r2k10lb2dg12r3dg2r2dg6/"><img src="/setts/s13/db6r2db2r3db12r2k10lb2dg12r3dg2r2dg6/sett.png" alt="MacDonald of Clanranald D" width="140"><br>MacDonald of Clanranald D</a></li>
-<li><a class="tartan" href="/setts/s13/db6r2db2r3db12r2k11lr2dg11r3dg2r2dg6~x2/"><img src="/setts/s13/db6r2db2r3db12r2k11lr2dg11r3dg2r2dg6~x2/sett.png" alt="MacDonald of Clanranald D" width="140"><br>MacDonald of Clanranald D</a></li>
+<li><a class="tartan" href="/setts/s13/dg6r2dg2r3dg11lr2k11r2db12r3db2r2db6~x2/"><img src="/setts/s13/dg6r2dg2r3dg11lr2k11r2db12r3db2r2db6~x2/sett.png" alt="MacDonald of Clanranald D" width="140"><br>MacDonald of Clanranald D</a></li>
+<li><a class="tartan" href="/setts/s13/dg6r2dg2r3dg12lb2k10r2db12r3db2r2db6/"><img src="/setts/s13/dg6r2dg2r3dg12lb2k10r2db12r3db2r2db6/sett.png" alt="MacDonald of Clanranald D" width="140"><br>MacDonald of Clanranald D</a></li>
 </ul>
 

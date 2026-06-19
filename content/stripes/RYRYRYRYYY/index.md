@@ -22,6 +22,6 @@ RYRYRYRYYY
 
 | Tartans |
 |---------------|
-| [Golden Heather, The](/setts/s10/ly2lo24lo6r3lo3r3ly2o2ly20r2~x2/)|
-|![Golden Heather, The example sett](/setts/s10/ly2lo24lo6r3lo3r3ly2o2ly20r2~x2/sett.png)|
+| [Golden Heather, The](/setts/s10/r2ly20o2ly2r3lo3r3lo6lo24ly2~x2/)|
+|![Golden Heather, The example sett](/setts/s10/r2ly20o2ly2r3lo3r3lo6lo24ly2~x2/sett.png)|
 

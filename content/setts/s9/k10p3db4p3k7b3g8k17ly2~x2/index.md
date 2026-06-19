@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db4dg2w2dg4db10r2db12ly3~x2/"><circle cx="197.0" cy="194.4" r="4" fill="#3465a4"><title>United Services, Planning Association</title></circle></a><a href="/setts/s12/lb6db20lg5db5lg5db20r14db4k18db30ly4db4/"><circle cx="258.0" cy="177.7" r="4" fill="#3465a4"><title>Edinburgh Bus Tours</title></circle></a><a href="/setts/s12/w6dt20b5dt5b5dt20r14dt4k18dt30lo4dt4/"><circle cx="254.9" cy="178.8" r="4" fill="#3465a4"><title>Edinburgh Bus Tours</title></circle></a><a href="/setts/s9/k25r14k8y14b5k12o6k8b2~x2/"><circle cx="229.6" cy="178.5" r="4" fill="#3465a4"><title>Johnstons of Elgin Bicentennial (Com</title></circle></a><a href="/setts/s6/o3k15r2k15n15p3~x2/"><circle cx="251.9" cy="221.1" r="4" fill="#3465a4"><title>H.M.S. DUNCAN</title></circle></a><a href="/setts/s10/r2w2dg8g2dg2db20t8g2db15w2~x2/"><circle cx="239.7" cy="152.6" r="4" fill="#3465a4"><title>Tupper, John Charles (Personal)</title></circle></a><a href="/setts/s13/db9r1db1w1db2k10db8g2db8k10db10ly1lt2~x4/"><circle cx="232.9" cy="145.3" r="4" fill="#3465a4"><title>Ontario Provincial Police</title></circle></a><a href="/setts/s9/r3db21r3db3k13db13t3db3w2~x2/"><circle cx="306.4" cy="174.4" r="4" fill="#3465a4"><title>Fitzgerald, Blue</title></circle></a><a href="/setts/s7/db36r4db6g18db15k18w4~x2/"><circle cx="263.9" cy="213.7" r="4" fill="#3465a4"><title>Grainger (Name)</title></circle></a><a href="/setts/s11/k3g2k12dt4db19r3db19dt4k12g2ly3~x2/"><circle cx="180.5" cy="159.8" r="4" fill="#3465a4"><title>Loch Lomond Millennium</title></circle></a><circle cx="235.0" cy="185.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db4dg2w2dg4db10r2db12ly3~x2/"><circle cx="197.2" cy="194.4" r="4" fill="#3465a4"><title>United Services, Planning Association</title></circle></a><a href="/setts/s12/lb6db20lg5db5lg5db20r14db4k18db30ly4db4/"><circle cx="258.1" cy="177.6" r="4" fill="#3465a4"><title>Edinburgh Bus Tours</title></circle></a><a href="/setts/s12/w6dt20b5dt5b5dt20r14dt4k18dt30lo4dt4/"><circle cx="255.0" cy="178.8" r="4" fill="#3465a4"><title>Edinburgh Bus Tours</title></circle></a><a href="/setts/s9/k25r14k8y14b5k12o6k8b2~x2/"><circle cx="229.7" cy="178.5" r="4" fill="#3465a4"><title>Johnstons of Elgin Bicentennial (Com</title></circle></a><a href="/setts/s6/o3k15r2k15n15p3~x2/"><circle cx="252.0" cy="221.0" r="4" fill="#3465a4"><title>H.M.S. DUNCAN</title></circle></a><a href="/setts/s10/r2w2dg8g2dg2db20t8g2db15w2~x2/"><circle cx="239.8" cy="152.6" r="4" fill="#3465a4"><title>Tupper, John Charles (Personal)</title></circle></a><a href="/setts/s13/db9r1db1w1db2k10db8g2db8k10db10ly1lt2~x4/"><circle cx="233.1" cy="145.3" r="4" fill="#3465a4"><title>Ontario Provincial Police</title></circle></a><a href="/setts/s9/r3db21r3db3k13db13t3db3w2~x2/"><circle cx="306.4" cy="174.3" r="4" fill="#3465a4"><title>Fitzgerald, Blue</title></circle></a><a href="/setts/s7/db36r4db6g18db15k18w4~x2/"><circle cx="264.0" cy="213.6" r="4" fill="#3465a4"><title>Grainger (Name)</title></circle></a><a href="/setts/s11/k3g2k12dt4db19r3db19dt4k12g2ly3~x2/"><circle cx="180.7" cy="159.9" r="4" fill="#3465a4"><title>Loch Lomond Millennium</title></circle></a><circle cx="235.2" cy="185.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/k10p3db4p3k7b3g8k17ly2~x2/

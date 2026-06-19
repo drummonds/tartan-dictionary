@@ -8,7 +8,7 @@ RKBBGY
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/ly10g40dp17t10k17r10~x2/tartan.png)
+![Woven sample](/setts/s6/r10k17t10dp17g40ly10~x2/tartan.png)
 
 
 
@@ -32,6 +32,6 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Gallowater, Original](/setts/s6/ly10g40dp17t10k17r10~x2/)|
-|![Gallowater, Original example sett](/setts/s6/ly10g40dp17t10k17r10~x2/sett.png)|
+| [Gallowater, Original](/setts/s6/r10k17t10dp17g40ly10~x2/)|
+|![Gallowater, Original example sett](/setts/s6/r10k17t10dp17g40ly10~x2/sett.png)|
 

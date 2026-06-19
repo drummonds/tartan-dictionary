@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2724
 
 ## Thread count
-DB/8 K8 DB72 K52 LN8 DB40 K28 R16 DB8 R8 DB/16
+DB/16 R8 DB8 R16 K28 DB40 LN8 K52 DB72 K8 DB/8
 ![Sett](sett.png)
 
 ## Palette
@@ -46,7 +46,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Murdoch Clebration (Personal)](/setts/s8/k21db8r4db2r2db23k4w2~x2/) — ΔT 0.93
 1. [Fleming/Frisken/Flanders](/setts/s15/db16k3db3k3db3k16db17k2ly4k2db17k16db17k2w4~x2/) — ΔT 0.97
 1. [Shalom (Fashion)](/setts/s11/k15lb3k3w4k3lb3k15db4k4db30k4~x2/) — ΔT 1.03
-1. [MacIver of Strome (Personal)](/setts/s13/ly2db3r2db19k7db6k22db6k7db19r2db3w2~x2/) — ΔT 1.04
+1. [MacIver of Strome (Personal)](/setts/s13/w2db3r2db19k7db6k22db6k7db19r2db3ly2~x2/) — ΔT 1.04
 1. [Scottish Jewish Community](/setts/s11/k14t3k3w4k3t3k14db4k4db30k4~x2/) — ΔT 1.05
 1. [Pride of Norway](/setts/s13/k7db2k6db18r3db18k4k2db2k2w2k4k4~x2/) — ΔT 1.09
 1. [Law of Atholl (Personal)](/setts/s11/db10r3db3r6db26g12r6g2r3g6lo2~x2/) — ΔT 1.13
@@ -55,8 +55,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db4ly2db17k2r4k2db3k11db3~x2/"><circle cx="308.1" cy="207.1" r="4" fill="#3465a4"><title>Stone of Destiny</title></circle></a><a href="/setts/s8/k21db8r4db2r2db23k4w2~x2/"><circle cx="308.9" cy="198.5" r="4" fill="#3465a4"><title>Murdoch Clebration (Personal)</title></circle></a><a href="/setts/s15/db16k3db3k3db3k16db17k2ly4k2db17k16db17k2w4~x2/"><circle cx="316.4" cy="200.7" r="4" fill="#3465a4"><title>Fleming/Frisken/Flanders</title></circle></a><a href="/setts/s11/k15lb3k3w4k3lb3k15db4k4db30k4~x2/"><circle cx="280.1" cy="180.2" r="4" fill="#3465a4"><title>Shalom (Fashion)</title></circle></a><a href="/setts/s13/ly2db3r2db19k7db6k22db6k7db19r2db3w2~x2/"><circle cx="314.0" cy="176.1" r="4" fill="#3465a4"><title>MacIver of Strome (Personal)</title></circle></a><a href="/setts/s11/k14t3k3w4k3t3k14db4k4db30k4~x2/"><circle cx="284.1" cy="185.8" r="4" fill="#3465a4"><title>Scottish Jewish Community</title></circle></a><a href="/setts/s13/k7db2k6db18r3db18k4k2db2k2w2k4k4~x2/"><circle cx="274.5" cy="175.1" r="4" fill="#3465a4"><title>Pride of Norway</title></circle></a><a href="/setts/s11/db10r3db3r6db26g12r6g2r3g6lo2~x2/"><circle cx="279.3" cy="179.7" r="4" fill="#3465a4"><title>Law of Atholl (Personal)</title></circle></a><a href="/setts/s11/k1t1db6k6lp1k6t1db2t1db3t1~x2/"><circle cx="230.3" cy="222.5" r="4" fill="#3465a4"><title>Clergy &quot;Two Spirit&quot; (Personal)</title></circle></a><a href="/setts/s7/k15r8ly2db25k5db13k5~x2/"><circle cx="299.7" cy="225.1" r="4" fill="#3465a4"><title>Gifford (Personal)</title></circle></a><circle cx="305.3" cy="203.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db4ly2db17k2r4k2db3k11db3~x2/"><circle cx="308.1" cy="207.0" r="4" fill="#3465a4"><title>Stone of Destiny</title></circle></a><a href="/setts/s8/k21db8r4db2r2db23k4w2~x2/"><circle cx="308.9" cy="198.5" r="4" fill="#3465a4"><title>Murdoch Clebration (Personal)</title></circle></a><a href="/setts/s15/db16k3db3k3db3k16db17k2ly4k2db17k16db17k2w4~x2/"><circle cx="316.4" cy="200.6" r="4" fill="#3465a4"><title>Fleming/Frisken/Flanders</title></circle></a><a href="/setts/s11/k15lb3k3w4k3lb3k15db4k4db30k4~x2/"><circle cx="280.1" cy="180.1" r="4" fill="#3465a4"><title>Shalom (Fashion)</title></circle></a><a href="/setts/s13/w2db3r2db19k7db6k22db6k7db19r2db3ly2~x2/"><circle cx="314.1" cy="176.1" r="4" fill="#3465a4"><title>MacIver of Strome (Personal)</title></circle></a><a href="/setts/s11/k14t3k3w4k3t3k14db4k4db30k4~x2/"><circle cx="284.2" cy="185.8" r="4" fill="#3465a4"><title>Scottish Jewish Community</title></circle></a><a href="/setts/s13/k7db2k6db18r3db18k4k2db2k2w2k4k4~x2/"><circle cx="274.6" cy="175.1" r="4" fill="#3465a4"><title>Pride of Norway</title></circle></a><a href="/setts/s11/db10r3db3r6db26g12r6g2r3g6lo2~x2/"><circle cx="279.3" cy="179.7" r="4" fill="#3465a4"><title>Law of Atholl (Personal)</title></circle></a><a href="/setts/s11/k1t1db6k6lp1k6t1db2t1db3t1~x2/"><circle cx="230.4" cy="222.5" r="4" fill="#3465a4"><title>Clergy &quot;Two Spirit&quot; (Personal)</title></circle></a><a href="/setts/s7/k15r8ly2db25k5db13k5~x2/"><circle cx="299.8" cy="225.0" r="4" fill="#3465a4"><title>Gifford (Personal)</title></circle></a><circle cx="305.4" cy="203.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/

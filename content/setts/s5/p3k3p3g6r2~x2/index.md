@@ -2,12 +2,18 @@
 title: "Austin / Wilson's No 137"
 date: 2023-03-18
 ---
-**Bands:** [BKBGR](/stripes/bkbgr/) · **Stripes:** [P K P G R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">P K P G R</span></span>
+**Bands:** [RGBKB](/stripes/rgbkb/) · **Stripes:** [R G P K P](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">R G P K P</span></span>
 
 
 This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Austin / Wilson's No 137
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -908,8 +917,8 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Austin / Wilson's No 173](/setts/s5/p3k3p3g6ly2~x2/) — ΔT 0.67
 1. [Austin (Wilson's No 173)](/setts/s5/dp3k3dp3dg6ly2~x2/) — ΔT 0.91
-1. [Clark](/setts/s5/b3k1dg1k1r3~x8/) — ΔT 0.93
-1. [Clark](/setts/s5/b3k1dg1k1r3~x4/) — ΔT 0.93
+1. [Clark](/setts/s5/r3k1dg1k1b3~x8/) — ΔT 0.93
+1. [Clark](/setts/s5/r3k1dg1k1b3~x4/) — ΔT 0.93
 1. [Wilson's No.220](/setts/s4/dp5k5g5w1~x4/) — ΔT 1.21
 1. [Burnicle (2015)](/setts/s6/r2k1db2k1g2k1~x28/) — ΔT 1.22
 1. [Wilson's No.113](/setts/s6/g3dp3w1dp3g3r1~x4/) — ΔT 1.25
@@ -919,8 +928,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/p3k3p3g6ly2~x2/"><circle cx="71.2" cy="288.7" r="4" fill="#3465a4"><title>Austin / Wilson's No 173</title></circle></a><a href="/setts/s5/dp3k3dp3dg6ly2~x2/"><circle cx="93.3" cy="304.1" r="4" fill="#3465a4"><title>Austin (Wilson's No 173)</title></circle></a><a href="/setts/s5/b3k1dg1k1r3~x8/"><circle cx="100.4" cy="277.5" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/setts/s5/b3k1dg1k1r3~x4/"><circle cx="100.4" cy="277.5" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/setts/s4/dp5k5g5w1~x4/"><circle cx="112.3" cy="291.3" r="4" fill="#3465a4"><title>Wilson's No.220</title></circle></a><a href="/setts/s6/r2k1db2k1g2k1~x28/"><circle cx="59.2" cy="322.7" r="4" fill="#3465a4"><title>Burnicle (2015)</title></circle></a><a href="/setts/s6/g3dp3w1dp3g3r1~x4/"><circle cx="148.7" cy="296.8" r="4" fill="#3465a4"><title>Wilson's No.113</title></circle></a><a href="/setts/s5/dt6k6dt6r14ly3~x2/"><circle cx="160.8" cy="268.4" r="4" fill="#3465a4"><title>Chivas Regal</title></circle></a><a href="/setts/s4/p6k5g5r1~x2/"><circle cx="121.5" cy="273.5" r="4" fill="#3465a4"><title>Unnamed, No 60</title></circle></a><a href="/setts/s4/r9g9k10t2~x2/"><circle cx="124.4" cy="290.9" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><circle cx="85.1" cy="293.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/p3k3p3g6ly2~x2/"><circle cx="71.4" cy="288.6" r="4" fill="#3465a4"><title>Austin / Wilson's No 173</title></circle></a><a href="/setts/s5/dp3k3dp3dg6ly2~x2/"><circle cx="93.6" cy="304.0" r="4" fill="#3465a4"><title>Austin (Wilson's No 173)</title></circle></a><a href="/setts/s5/r3k1dg1k1b3~x8/"><circle cx="100.6" cy="277.4" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/setts/s5/r3k1dg1k1b3~x4/"><circle cx="100.6" cy="277.4" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/setts/s4/dp5k5g5w1~x4/"><circle cx="112.5" cy="291.2" r="4" fill="#3465a4"><title>Wilson's No.220</title></circle></a><a href="/setts/s6/r2k1db2k1g2k1~x28/"><circle cx="59.5" cy="322.7" r="4" fill="#3465a4"><title>Burnicle (2015)</title></circle></a><a href="/setts/s6/g3dp3w1dp3g3r1~x4/"><circle cx="148.9" cy="296.7" r="4" fill="#3465a4"><title>Wilson's No.113</title></circle></a><a href="/setts/s5/dt6k6dt6r14ly3~x2/"><circle cx="160.9" cy="268.3" r="4" fill="#3465a4"><title>Chivas Regal</title></circle></a><a href="/setts/s4/p6k5g5r1~x2/"><circle cx="121.7" cy="273.4" r="4" fill="#3465a4"><title>Unnamed, No 60</title></circle></a><a href="/setts/s4/r9g9k10t2~x2/"><circle cx="124.6" cy="290.8" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><circle cx="85.3" cy="293.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/p3k3p3g6r2~x2/

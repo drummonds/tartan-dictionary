@@ -2,7 +2,7 @@
 title: "Glenlivet Check (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BGYGBGRG](/stripes/bgygbgrg/) · **Stripes:** [B DG LO DG B DG R DG](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">B DG LO DG B DG R DG</span></span>
+**Bands:** [GRGBGYGB](/stripes/grgbgygb/) · **Stripes:** [DG R DG B DG LO DG B](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DG R DG B DG LO DG B</span></span>
 
 
 This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/
 Original link http://www.tartansauthority.com/tartan-ferret/display/193/
 
 ## Thread count
-B/6 DG12 LT35 DG13 B6 DG75 DR6 DG/18
+DG/18 DR6 DG75 B6 DG13 LT35 DG12 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -25,7 +25,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/6 DG12 LT35 DG13 B6 DG75 DR6 DG/18 tartan")
+![Tartan detail](tartan.png "DG/18 DR6 DG75 B6 DG13 LT35 DG12 B/6 tartan")
 
 ## Nearest tartans
 
@@ -44,8 +44,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg6do2m1dg15m3do1dg15g6m1~x2/"><circle cx="453.4" cy="206.0" r="4" fill="#3465a4"><title>McCall, F W (Personal)</title></circle></a><a href="/setts/s7/r3g22db16g14r2g6lo2~x2/"><circle cx="365.9" cy="226.8" r="4" fill="#3465a4"><title>Scottish Scouts (1957) (Corporate)</title></circle></a><a href="/setts/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="414.8" cy="167.9" r="4" fill="#3465a4"><title>Island Weavers (Corporate)</title></circle></a><a href="/setts/s10/r4p12dg2p2dg24dg2dg2dg16dg2w1~x2/"><circle cx="476.8" cy="164.2" r="4" fill="#3465a4"><title>Kinfauns Castle</title></circle></a><a href="/setts/s9/r4g3dp3g44dp16g10w2g2dp2~x2/"><circle cx="450.2" cy="148.0" r="4" fill="#3465a4"><title>Glenfeshie (Personal)</title></circle></a><a href="/setts/s8/k2w2dt8k4dg33r2dg16w2~x2/"><circle cx="431.1" cy="170.8" r="4" fill="#3465a4"><title>Sarros, Terrence (USA) (Personal)</title></circle></a><a href="/setts/s10/r4g4k2g31k10ly3g5k11g6k3~x2/"><circle cx="349.9" cy="176.2" r="4" fill="#3465a4"><title>MacArthur-Fox Green</title></circle></a><a href="/setts/s8/dt6r3g26dt26w2dt27r5g5~x2/"><circle cx="365.5" cy="216.2" r="4" fill="#3465a4"><title>MacHardy (Clan)</title></circle></a><a href="/setts/s8/g99db20w8db30ly8db10ly8g46/"><circle cx="357.2" cy="188.5" r="4" fill="#3465a4"><title>Duke of York Hunting</title></circle></a><a href="/setts/s9/dg6dy2m1dg15m3dy1dg15g6m1~x2/"><circle cx="476.4" cy="217.8" r="4" fill="#3465a4"><title>McCall, F.W. (Personal)</title></circle></a><circle cx="424.4" cy="201.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg6do2m1dg15m3do1dg15g6m1~x2/"><circle cx="453.2" cy="205.8" r="4" fill="#3465a4"><title>McCall, F W (Personal)</title></circle></a><a href="/setts/s7/r3g22db16g14r2g6lo2~x2/"><circle cx="365.8" cy="226.6" r="4" fill="#3465a4"><title>Scottish Scouts (1957) (Corporate)</title></circle></a><a href="/setts/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="414.5" cy="167.7" r="4" fill="#3465a4"><title>Island Weavers (Corporate)</title></circle></a><a href="/setts/s10/r4p12dg2p2dg24dg2dg2dg16dg2w1~x2/"><circle cx="476.6" cy="164.0" r="4" fill="#3465a4"><title>Kinfauns Castle</title></circle></a><a href="/setts/s9/r4g3dp3g44dp16g10w2g2dp2~x2/"><circle cx="449.9" cy="147.7" r="4" fill="#3465a4"><title>Glenfeshie (Personal)</title></circle></a><a href="/setts/s8/k2w2dt8k4dg33r2dg16w2~x2/"><circle cx="431.0" cy="170.7" r="4" fill="#3465a4"><title>Sarros, Terrence (USA) (Personal)</title></circle></a><a href="/setts/s10/r4g4k2g31k10ly3g5k11g6k3~x2/"><circle cx="349.8" cy="176.0" r="4" fill="#3465a4"><title>MacArthur-Fox Green</title></circle></a><a href="/setts/s8/dt6r3g26dt26w2dt27r5g5~x2/"><circle cx="365.5" cy="216.1" r="4" fill="#3465a4"><title>MacHardy (Clan)</title></circle></a><a href="/setts/s8/g99db20w8db30ly8db10ly8g46/"><circle cx="357.0" cy="188.3" r="4" fill="#3465a4"><title>Duke of York Hunting</title></circle></a><a href="/setts/s9/dg6dy2m1dg15m3dy1dg15g6m1~x2/"><circle cx="476.3" cy="217.6" r="4" fill="#3465a4"><title>McCall, F.W. (Personal)</title></circle></a><circle cx="424.2" cy="201.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/dg18r6dg75b6dg13lo35dg12b6/

@@ -25,7 +25,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-DR/8 G40 K8 G6 K/16
+K/16 G6 K8 G40 DR/8
 ![Sett](sett.png)
 
 ## Palette
@@ -39,7 +39,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/8 G40 K8 G6 K/16 tartan")
+![Tartan detail](tartan.png "K/16 G6 K8 G40 DR/8 tartan")
 
 ## Nearest tartans
 
@@ -49,7 +49,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Confederate Cavalry (Military)](/setts/s6/dg2y14dg8y3dg12lo2~x2/) — ΔT 1.06
 1. [Lauder (Family)](/setts/s6/g3db8g3k4g15r2~x2/) — ΔT 1.15
 1. [MacArthur (Highland Society)](/setts/s6/g18ly2g18k4g2k15~x2/) — ΔT 1.16
-1. [Confederate Infantry](/setts/s6/db2dg12o3dg8o14dg2~x2/) — ΔT 1.24
+1. [Confederate Infantry](/setts/s6/dg2o14dg8o3dg12db2~x2/) — ΔT 1.24
 1. [Confederate Artillery](/setts/s6/dg2o14dg8o3dg12r2~x2/) — ΔT 1.25
 1. [Wcwm 1045](/setts/s6/dg2n8dg2k3dg12r2~x2/) — ΔT 1.30
 1. [MacArthur](/setts/s5/k9g3k3g12ly2~x4/) — ΔT 1.31
@@ -58,8 +58,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/g22dt5r4dt5r3~x2/"><circle cx="342.1" cy="256.7" r="4" fill="#3465a4"><title>Romsdal</title></circle></a><a href="/setts/s6/dg2y14dg8y3dg12lo2~x2/"><circle cx="337.1" cy="274.0" r="4" fill="#3465a4"><title>Confederate Cavalry (Military)</title></circle></a><a href="/setts/s6/g3db8g3k4g15r2~x2/"><circle cx="329.1" cy="253.5" r="4" fill="#3465a4"><title>Lauder (Family)</title></circle></a><a href="/setts/s6/g18ly2g18k4g2k15~x2/"><circle cx="386.5" cy="265.3" r="4" fill="#3465a4"><title>MacArthur (Highland Society)</title></circle></a><a href="/setts/s6/db2dg12o3dg8o14dg2~x2/"><circle cx="313.8" cy="262.2" r="4" fill="#3465a4"><title>Confederate Infantry</title></circle></a><a href="/setts/s6/dg2o14dg8o3dg12r2~x2/"><circle cx="320.4" cy="263.1" r="4" fill="#3465a4"><title>Confederate Artillery</title></circle></a><a href="/setts/s6/dg2n8dg2k3dg12r2~x2/"><circle cx="294.3" cy="259.5" r="4" fill="#3465a4"><title>Wcwm 1045</title></circle></a><a href="/setts/s5/k9g3k3g12ly2~x4/"><circle cx="282.4" cy="278.7" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/setts/s7/lo1dg11k6dg3lo1dg1lo1~x4/"><circle cx="397.0" cy="226.2" r="4" fill="#3465a4"><title>Angle, Green (Fashion)</title></circle></a><a href="/setts/s4/g14k3r3lr2~x2/"><circle cx="347.6" cy="250.7" r="4" fill="#3465a4"><title>Bacon, Green (Fashion)</title></circle></a><circle cx="356.0" cy="278.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/g22dt5r4dt5r3~x2/"><circle cx="342.0" cy="256.5" r="4" fill="#3465a4"><title>Romsdal</title></circle></a><a href="/setts/s6/dg2y14dg8y3dg12lo2~x2/"><circle cx="337.0" cy="273.8" r="4" fill="#3465a4"><title>Confederate Cavalry (Military)</title></circle></a><a href="/setts/s6/g3db8g3k4g15r2~x2/"><circle cx="329.0" cy="253.4" r="4" fill="#3465a4"><title>Lauder (Family)</title></circle></a><a href="/setts/s6/g18ly2g18k4g2k15~x2/"><circle cx="386.4" cy="265.0" r="4" fill="#3465a4"><title>MacArthur (Highland Society)</title></circle></a><a href="/setts/s6/dg2o14dg8o3dg12db2~x2/"><circle cx="313.8" cy="262.0" r="4" fill="#3465a4"><title>Confederate Infantry</title></circle></a><a href="/setts/s6/dg2o14dg8o3dg12r2~x2/"><circle cx="320.3" cy="262.9" r="4" fill="#3465a4"><title>Confederate Artillery</title></circle></a><a href="/setts/s6/dg2n8dg2k3dg12r2~x2/"><circle cx="294.4" cy="259.4" r="4" fill="#3465a4"><title>Wcwm 1045</title></circle></a><a href="/setts/s5/k9g3k3g12ly2~x4/"><circle cx="282.5" cy="278.4" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/setts/s7/lo1dg11k6dg3lo1dg1lo1~x4/"><circle cx="396.8" cy="226.0" r="4" fill="#3465a4"><title>Angle, Green (Fashion)</title></circle></a><a href="/setts/s4/g14k3r3lr2~x2/"><circle cx="347.5" cy="250.5" r="4" fill="#3465a4"><title>Bacon, Green (Fashion)</title></circle></a><circle cx="355.9" cy="277.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/k8g3k4g20r4~x2/

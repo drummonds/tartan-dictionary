@@ -22,6 +22,6 @@ RWWWBKYKWKGRKRWRKRGKWKYKBWWW
 
 | Tartans |
 |---------------|
-| [Hay-Stewart](/setts/s28/r4w3w18w4b4k6ly2k2w2k2dg8r4k2r4w2r4k2r4dg8k2w2k2ly2k6b4w4w18w3~x2/)|
-|![Hay-Stewart example sett](/setts/s28/r4w3w18w4b4k6ly2k2w2k2dg8r4k2r4w2r4k2r4dg8k2w2k2ly2k6b4w4w18w3~x2/sett.png)|
+| [Hay-Stewart](/setts/s28/r4w3w18w4b4k6ly2k2w2k2dg8r4k2r4w2~x2/)|
+|![Hay-Stewart example sett](/setts/s28/r4w3w18w4b4k6ly2k2w2k2dg8r4k2r4w2~x2/sett.png)|
 

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -907,7 +910,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Ireland's National](/setts/s15/g5g22g13k5w4k7g5k2lo7k2g2g6g1k2w2~x2/) — ΔT 1.29
 1. [Glendinning (Personal)](/setts/s16/g5r1g10k5k1k1k2k2k10ly5lb2k2lb1k2ly3k1~x2/) — ΔT 1.36
 1. [Buglass](/setts/s13/lo3g1lo1g14o2g2o2g4o11dg25ly2dg3w2~x2/) — ΔT 1.37
-1. [U.S. Ancient Order of Hibernians (Co](/setts/s13/lo3db3lo15db2k2db2k20g20db3g3w2g2r3~x2/) — ΔT 1.49
+1. [U.S. Ancient Order of Hibernians (Co](/setts/s13/r3g2w2g3db3g20k20db2k2db2lo15db3lo3~x2/) — ΔT 1.49
 1. [Murtaugh Hunting Tartan Tartan Number: 5818. Earliest known date: 2003 After original Murtaugh by Don Smith, Heraldic Graphics See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s21/r4k4n4ly2n2w2n2ly2n2w2k4g3k2g24w2k2n3k3w2r4k2~x2/) — ΔT 1.49
 1. [Bowling](/setts/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2/) — ΔT 1.51
 1. [O'Farrell](/setts/s13/w2o14ly3k6w2k2w2k2g8y6k2y3w1~x2/) — ΔT 1.51
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/g5g22g13k5w4k7g5k2lo7k2g2g6g1k2w2~x2/"><circle cx="146.7" cy="115.7" r="4" fill="#3465a4"><title>Ireland's National</title></circle></a><a href="/setts/s16/g5r1g10k5k1k1k2k2k10ly5lb2k2lb1k2ly3k1~x2/"><circle cx="55.9" cy="120.3" r="4" fill="#3465a4"><title>Glendinning (Personal)</title></circle></a><a href="/setts/s13/lo3g1lo1g14o2g2o2g4o11dg25ly2dg3w2~x2/"><circle cx="196.6" cy="87.3" r="4" fill="#3465a4"><title>Buglass</title></circle></a><a href="/setts/s13/lo3db3lo15db2k2db2k20g20db3g3w2g2r3~x2/"><circle cx="114.2" cy="122.2" r="4" fill="#3465a4"><title>U.S. Ancient Order of Hibernians (Co</title></circle></a><a href="/setts/s21/r4k4n4ly2n2w2n2ly2n2w2k4g3k2g24w2k2n3k3w2r4k2~x2/"><circle cx="121.7" cy="83.3" r="4" fill="#3465a4"><title>Murtaugh Hunting Tartan Tartan Number: 5818. Earliest known date: 2003 After original Murtaugh by Don Smith, Heraldic Graphics See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2/"><circle cx="51.1" cy="115.1" r="4" fill="#3465a4"><title>Bowling</title></circle></a><a href="/setts/s13/w2o14ly3k6w2k2w2k2g8y6k2y3w1~x2/"><circle cx="50.6" cy="109.3" r="4" fill="#3465a4"><title>O'Farrell</title></circle></a><a href="/setts/s21/r4k4o4ly2o2w2o2ly2o2w2k4g3k2g24w2k2o3k3w2r4k2~x2/"><circle cx="114.8" cy="76.5" r="4" fill="#3465a4"><title>Murtaugh Hunting</title></circle></a><a href="/setts/s10/r4w6k10db5k3lo16k3g33k1w4~x2/"><circle cx="176.2" cy="86.9" r="4" fill="#3465a4"><title>Fermanagh County Crest (Fashion)</title></circle></a><a href="/setts/s13/b4k1db28k16g10r2g10r4g10r2g10k1ly4~x2/"><circle cx="163.0" cy="96.7" r="4" fill="#3465a4"><title>California</title></circle></a><circle cx="104.3" cy="90.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/g5g22g13k5w4k7g5k2lo7k2g2g6g1k2w2~x2/"><circle cx="146.5" cy="115.8" r="4" fill="#3465a4"><title>Ireland's National</title></circle></a><a href="/setts/s16/g5r1g10k5k1k1k2k2k10ly5lb2k2lb1k2ly3k1~x2/"><circle cx="55.9" cy="120.5" r="4" fill="#3465a4"><title>Glendinning (Personal)</title></circle></a><a href="/setts/s13/lo3g1lo1g14o2g2o2g4o11dg25ly2dg3w2~x2/"><circle cx="196.4" cy="87.4" r="4" fill="#3465a4"><title>Buglass</title></circle></a><a href="/setts/s13/r3g2w2g3db3g20k20db2k2db2lo15db3lo3~x2/"><circle cx="114.2" cy="122.4" r="4" fill="#3465a4"><title>U.S. Ancient Order of Hibernians (Co</title></circle></a><a href="/setts/s21/r4k4n4ly2n2w2n2ly2n2w2k4g3k2g24w2k2n3k3w2r4k2~x2/"><circle cx="121.6" cy="83.5" r="4" fill="#3465a4"><title>Murtaugh Hunting Tartan Tartan Number: 5818. Earliest known date: 2003 After original Murtaugh by Don Smith, Heraldic Graphics See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2/"><circle cx="51.2" cy="115.3" r="4" fill="#3465a4"><title>Bowling</title></circle></a><a href="/setts/s13/w2o14ly3k6w2k2w2k2g8y6k2y3w1~x2/"><circle cx="50.6" cy="109.4" r="4" fill="#3465a4"><title>O'Farrell</title></circle></a><a href="/setts/s21/r4k4o4ly2o2w2o2ly2o2w2k4g3k2g24w2k2o3k3w2r4k2~x2/"><circle cx="114.6" cy="76.6" r="4" fill="#3465a4"><title>Murtaugh Hunting</title></circle></a><a href="/setts/s10/r4w6k10db5k3lo16k3g33k1w4~x2/"><circle cx="176.0" cy="86.9" r="4" fill="#3465a4"><title>Fermanagh County Crest (Fashion)</title></circle></a><a href="/setts/s13/b4k1db28k16g10r2g10r4g10r2g10k1ly4~x2/"><circle cx="163.0" cy="96.8" r="4" fill="#3465a4"><title>California</title></circle></a><circle cx="104.2" cy="90.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/k2dg4w2dg19k2y10k1ly2k1y10k2g19w2g4k2~x2/

@@ -2,7 +2,7 @@
 title: "Jewel Look JTB (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GRRWRRRRRGRGRGY](/stripes/grrwrrrrrgrgrgy/) · **Stripes:** [G O R W R O R M O G O G O G LY](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G O R W R O R M O G O G O G LY</span></span>
+**Bands:** [YGRGRGRRRRRWRRG](/stripes/ygrgrgrrrrrwrrg/) · **Stripes:** [LY G O G O G O M R O R W R O G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G O G O G O M R O R W R O G</span></span>
 
 
 This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands15/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [15 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/5730/
 
 ## Thread count
-G/4 N2 R4 LN3 R4 N4 R6 LP21 N4 G2 N2 G20 N4 G2 Y/4
+Y/4 G2 N4 G20 N2 G2 N4 LP21 R6 N4 R4 LN3 R4 N2 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -30,20 +30,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Victoria, County of (District)](/setts/s21/o36lb3g3lb3r20o3t24g32lo3r3o3t6o6r3lo3lb3g6lb3lo3t3r6/) — ΔT 1.25
-1. [Jewel Look JTB](/setts/s28/ly4g2o4g20o2g2o4m21r6o4r4w3r4o2g4o2r4w3r4o4r6m21o4g2o2g20o4g2/) — ΔT 1.29
+1. [Jewel Look JTB](/setts/s28/g4o2r4w3r4o4r6m21o4g2o2g20o4g2ly4/) — ΔT 1.29
 1. [Saint Joseph de Sorel](/setts/s13/r12g2o5g2y9ly2t8w1t3w1t3w1t8~x2/) — ΔT 1.43
 1. [Wcwm 1528](/setts/s19/dg3r2o2r2n20db3n3r8dg2r2dg2r2dg8o2dg2o2dg2o8ly3~x2/) — ΔT 1.44
-1. [Gordonstoun #2](/setts/s22/g2r2g20r2y11r11lb2t11r2y19ly5y19r2t11lb2r11y11r2g20r2g2lb2~x2/) — ΔT 1.53
+1. [Gordonstoun #2](/setts/s22/ly5y19r2t11lb2r11y11r2g20r2g2lb2~x2/) — ΔT 1.53
 1. [Glenlea](/setts/s19/dt8n3lb3n3o28lb4o8n12dt3n3dt3n3dt8dy3dt3dy3dt3dy12g4/) — ΔT 1.57
 1. [Golden Glow (Fashion)](/setts/s17/ly3k2o9k1n8k1o2k1n8k1t2k1n16k1t12k4n2~x2/) — ΔT 1.61
-1. [O'Monaghan (Personal)](/setts/s18/lo7t4w2lo25w2t4lo7t4w2y25w2t4lo7t4w2lo25w2t4~x2/) — ΔT 1.62
+1. [O'Monaghan (Personal)](/setts/s18/y25w2t4lo7t4w2lo25w2t4lo7~x2/) — ΔT 1.62
 1. [Lyon, Jeffrey M (Hunting) (Personal)](/setts/s10/t27dt2t2dt16g5r5lo2dt2dy14dt2~x2/) — ΔT 1.64
 1. [Unidentified (Woven sample)](/setts/s18/r2t2dy3t14do1t1y7dy3t2dy3do7t3y2t3y16r2dy3t2~x2/) — ΔT 1.65
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s21/o36lb3g3lb3r20o3t24g32lo3r3o3t6o6r3lo3lb3g6lb3lo3t3r6/"><circle cx="142.6" cy="105.6" r="4" fill="#3465a4"><title>Victoria, County of (District)</title></circle></a><a href="/setts/s28/ly4g2o4g20o2g2o4m21r6o4r4w3r4o2g4o2r4w3r4o4r6m21o4g2o2g20o4g2/"><circle cx="167.9" cy="116.6" r="4" fill="#3465a4"><title>Jewel Look JTB</title></circle></a><a href="/setts/s13/r12g2o5g2y9ly2t8w1t3w1t3w1t8~x2/"><circle cx="150.6" cy="134.6" r="4" fill="#3465a4"><title>Saint Joseph de Sorel</title></circle></a><a href="/setts/s19/dg3r2o2r2n20db3n3r8dg2r2dg2r2dg8o2dg2o2dg2o8ly3~x2/"><circle cx="151.3" cy="132.7" r="4" fill="#3465a4"><title>Wcwm 1528</title></circle></a><a href="/setts/s22/g2r2g20r2y11r11lb2t11r2y19ly5y19r2t11lb2r11y11r2g20r2g2lb2~x2/"><circle cx="175.9" cy="152.6" r="4" fill="#3465a4"><title>Gordonstoun #2</title></circle></a><a href="/setts/s19/dt8n3lb3n3o28lb4o8n12dt3n3dt3n3dt8dy3dt3dy3dt3dy12g4/"><circle cx="128.4" cy="137.7" r="4" fill="#3465a4"><title>Glenlea</title></circle></a><a href="/setts/s17/ly3k2o9k1n8k1o2k1n8k1t2k1n16k1t12k4n2~x2/"><circle cx="164.3" cy="114.7" r="4" fill="#3465a4"><title>Golden Glow (Fashion)</title></circle></a><a href="/setts/s18/lo7t4w2lo25w2t4lo7t4w2y25w2t4lo7t4w2lo25w2t4~x2/"><circle cx="214.9" cy="133.7" r="4" fill="#3465a4"><title>O'Monaghan (Personal)</title></circle></a><a href="/setts/s10/t27dt2t2dt16g5r5lo2dt2dy14dt2~x2/"><circle cx="219.4" cy="157.2" r="4" fill="#3465a4"><title>Lyon, Jeffrey M (Hunting) (Personal)</title></circle></a><a href="/setts/s18/r2t2dy3t14do1t1y7dy3t2dy3do7t3y2t3y16r2dy3t2~x2/"><circle cx="229.3" cy="149.2" r="4" fill="#3465a4"><title>Unidentified (Woven sample)</title></circle></a><circle cx="174.6" cy="140.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s21/o36lb3g3lb3r20o3t24g32lo3r3o3t6o6r3lo3lb3g6lb3lo3t3r6/"><circle cx="142.4" cy="105.9" r="4" fill="#3465a4"><title>Victoria, County of (District)</title></circle></a><a href="/setts/s28/g4o2r4w3r4o4r6m21o4g2o2g20o4g2ly4/"><circle cx="167.6" cy="117.0" r="4" fill="#3465a4"><title>Jewel Look JTB</title></circle></a><a href="/setts/s13/r12g2o5g2y9ly2t8w1t3w1t3w1t8~x2/"><circle cx="150.4" cy="134.8" r="4" fill="#3465a4"><title>Saint Joseph de Sorel</title></circle></a><a href="/setts/s19/dg3r2o2r2n20db3n3r8dg2r2dg2r2dg8o2dg2o2dg2o8ly3~x2/"><circle cx="151.2" cy="133.0" r="4" fill="#3465a4"><title>Wcwm 1528</title></circle></a><a href="/setts/s22/ly5y19r2t11lb2r11y11r2g20r2g2lb2~x2/"><circle cx="175.7" cy="152.9" r="4" fill="#3465a4"><title>Gordonstoun #2</title></circle></a><a href="/setts/s19/dt8n3lb3n3o28lb4o8n12dt3n3dt3n3dt8dy3dt3dy3dt3dy12g4/"><circle cx="128.3" cy="138.0" r="4" fill="#3465a4"><title>Glenlea</title></circle></a><a href="/setts/s17/ly3k2o9k1n8k1o2k1n8k1t2k1n16k1t12k4n2~x2/"><circle cx="164.2" cy="114.9" r="4" fill="#3465a4"><title>Golden Glow (Fashion)</title></circle></a><a href="/setts/s18/y25w2t4lo7t4w2lo25w2t4lo7~x2/"><circle cx="214.5" cy="134.0" r="4" fill="#3465a4"><title>O'Monaghan (Personal)</title></circle></a><a href="/setts/s10/t27dt2t2dt16g5r5lo2dt2dy14dt2~x2/"><circle cx="219.3" cy="157.4" r="4" fill="#3465a4"><title>Lyon, Jeffrey M (Hunting) (Personal)</title></circle></a><a href="/setts/s18/r2t2dy3t14do1t1y7dy3t2dy3do7t3y2t3y16r2dy3t2~x2/"><circle cx="229.1" cy="149.4" r="4" fill="#3465a4"><title>Unidentified (Woven sample)</title></circle></a><circle cx="174.4" cy="140.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/g4o2r4w3r4o4r6m21o4g2o2g20o4g2ly4/

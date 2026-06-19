@@ -21,14 +21,14 @@ BBKBK
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### P DB K DB K <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">P DB K DB K</span></span>
+### K DB K DB P <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">K DB K DB P</span></span>
 
 | Tartans |
 |---------------|
 | [Fenston/Morris (Personal)](/setts/s5/k33db8k4db35p3~x2/)|
 |![Fenston/Morris (Personal) example sett](/setts/s5/k33db8k4db35p3~x2/sett.png)|
 
-### T DT K DT K <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="seq">T DT K DT K</span></span>
+### K DT K DT T <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="seq">K DT K DT T</span></span>
 
 | Tartans |
 |---------------|

@@ -2,12 +2,22 @@
 title: "Murray"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKGRGKBKB](/stripes/bkbkbkgrgkbkb/) · **Stripes:** [DB K DB K DB K DG R DG K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DB K DG R DG K DB K DB</span></span>
+**Bands:** [BKBKGRGKBKBKB](/stripes/bkbkgrgkbkbkb/) · **Stripes:** [DB K DB K DG R DG K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DG R DG K DB K DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Murray #2
+- NSW Scottish Rifles
+- New South Wales Scottish Rifle Regimental
+- New South Wales Scottish Rifles
+- New South Wales, Scottish Rifles
 
 ## Attestations
 
@@ -20,18 +30,26 @@ This cloth appears in 2 source records; the oldest owns this page.
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2625](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2625)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
-- Scottish Register of Tartans: [3555](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3555)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 1429
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1429
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
-- Scottish Tartans World Register: 864
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Variants
 
@@ -68,12 +86,12 @@ The nearest existing variants by ΔTartan distance.
 1. [92nd Regiment (Gordon) (Mil.)](/setts/s13/db16k3db3k3db3k16dg19lo3dg19k16db15k3db3~x2/) — ΔT 0.72
 1. [Forbes](/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2~x2/) — ΔT 0.76
 1. [Forbes](/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2/) — ΔT 0.76
-1. [Urquhart L](/setts/s13/dg8k1dg1k1dg1k8db8r1db8k8dg8k1dg1/) — ΔT 0.77
+1. [Urquhart L](/setts/s13/dg8k1dg1k1dg1k8db8r1db8k8dg8k1dg1~x2/) — ΔT 0.77
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db6k1db1k1db1k6dg6r2dg6k6db6k1db2~x2/"><circle cx="172.1" cy="237.3" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s13/db12k2db2k2db2k12dg12ly2dg12k12db11k2db2~x2/"><circle cx="175.1" cy="230.1" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/setts/s13/db12k2db2k2db2k12dg12ly2dg12k12db11k2db2/"><circle cx="164.2" cy="224.7" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/setts/s13/dg10k2dg2k2dg2k7db8p2db8k7dg8k2dg2~x2/"><circle cx="179.9" cy="252.0" r="4" fill="#3465a4"><title>Lochinvar Marine Harvest</title></circle></a><a href="/setts/s13/db3k1db1k1db1k4dg4lr1dg4k4db4k1db1~x2/"><circle cx="146.1" cy="254.2" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s13/db3k1db1k1db1k4dg4lr1dg4k4db4k1db1/"><circle cx="146.1" cy="254.2" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s13/db16k3db3k3db3k16dg19lo3dg19k16db15k3db3~x2/"><circle cx="149.4" cy="216.7" r="4" fill="#3465a4"><title>92nd Regiment (Gordon) (Mil.)</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2~x2/"><circle cx="190.9" cy="208.8" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2/"><circle cx="190.9" cy="208.8" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/dg8k1dg1k1dg1k8db8r1db8k8dg8k1dg1/"><circle cx="183.4" cy="209.6" r="4" fill="#3465a4"><title>Urquhart L</title></circle></a><circle cx="163.1" cy="232.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db6k1db1k1db1k6dg6r2dg6k6db6k1db2~x2/"><circle cx="172.4" cy="237.3" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s13/db12k2db2k2db2k12dg12ly2dg12k12db11k2db2~x2/"><circle cx="175.5" cy="230.2" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/setts/s13/db12k2db2k2db2k12dg12ly2dg12k12db11k2db2/"><circle cx="164.5" cy="224.7" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/setts/s13/dg10k2dg2k2dg2k7db8p2db8k7dg8k2dg2~x2/"><circle cx="180.2" cy="252.0" r="4" fill="#3465a4"><title>Lochinvar Marine Harvest</title></circle></a><a href="/setts/s13/db3k1db1k1db1k4dg4lr1dg4k4db4k1db1~x2/"><circle cx="146.5" cy="254.3" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s13/db3k1db1k1db1k4dg4lr1dg4k4db4k1db1/"><circle cx="146.5" cy="254.3" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s13/db16k3db3k3db3k16dg19lo3dg19k16db15k3db3~x2/"><circle cx="149.7" cy="216.7" r="4" fill="#3465a4"><title>92nd Regiment (Gordon) (Mil.)</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2~x2/"><circle cx="191.2" cy="208.9" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2/"><circle cx="191.2" cy="208.9" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/dg8k1dg1k1dg1k8db8r1db8k8dg8k1dg1~x2/"><circle cx="183.7" cy="209.6" r="4" fill="#3465a4"><title>Urquhart L</title></circle></a><circle cx="163.5" cy="232.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db6k1db1k1db1k6dg6r2dg6k6db6k1db2/

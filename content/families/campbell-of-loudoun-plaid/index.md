@@ -1,10 +1,10 @@
 ---
-title: "Campbell of Loudoun Plaid"
+title: "Campbell of Loudoun, Plaid"
 date: 2023-03-18
 ---
 A family of [Clan Campbell](/clan/campbell/).
 
-**Trove of Scotland:** [search “Loudoun Plaid”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Loudoun+Plaid&viewmode=grid)
+**Trove of Scotland:** [search “Loudoun, Plaid”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Loudoun%2C+Plaid&viewmode=grid)
 
 ## Tartan
 

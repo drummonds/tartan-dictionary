@@ -20,7 +20,7 @@ YBRBRBY
 
 
 
-### LO DT R DT R DT LR <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">LO DT R DT R DT LR</span></span>
+### LR DT R DT R DT LO <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LR DT R DT R DT LO</span></span>
 
 | Tartans |
 |---------------|

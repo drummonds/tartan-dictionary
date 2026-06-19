@@ -23,13 +23,13 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Robieson QAHS](/setts/s13/k1b1k8ly1k1ly8b1r8k1r1k8b1k1~x6/)|
-|![Robieson QAHS example sett](/setts/s13/k1b1k8ly1k1ly8b1r8k1r1k8b1k1~x6/sett.png)|
+| [Robieson QAHS](/setts/s13/k1b1k8r1k1r8b1ly8k1ly1k8b1k1~x6/)|
+|![Robieson QAHS example sett](/setts/s13/k1b1k8r1k1r8b1ly8k1ly1k8b1k1~x6/sett.png)|
 
 ### K DB K R K R DB LY K LY K DB K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB K R K R DB LY K LY K DB K</span></span>
 
 | Tartans |
 |---------------|
-| [Robieson QAHS (Fashion)](/setts/s13/k1db1k8ly1k1ly8db1r8k1r1k8db1k1~x6/)|
-|![Robieson QAHS (Fashion) example sett](/setts/s13/k1db1k8ly1k1ly8db1r8k1r1k8db1k1~x6/sett.png)|
+| [Robieson QAHS (Fashion)](/setts/s13/k1db1k8r1k1r8db1ly8k1ly1k8db1k1~x6/)|
+|![Robieson QAHS (Fashion) example sett](/setts/s13/k1db1k8r1k1r8db1ly8k1ly1k8db1k1~x6/sett.png)|
 

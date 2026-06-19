@@ -2,7 +2,7 @@
 title: "Kreutz, Arthur (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GBYRRRGBYRRR](/stripes/gbyrrrgbyrrr/) · **Stripes:** [DG T LO R R R DG T LO R R R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG T LO R R R DG T LO R R R</span></span>
+**Bands:** [RRRYBGRRRYBG](/stripes/rrrybgrrrybg/) · **Stripes:** [R R R LO T DG R R R LO T DG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="seq">R R R LO T DG R R R LO T DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10977](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10977)
 
 ## Thread count
-G/2 B2 O6 DR18 DRa16 R16 G2 B2 O6 DR16 DRa16 R/16
+R/16 DRa16 DR16 O6 B2 G2 R16 DRa16 DR18 O6 B2 G/2
 ![Sett](sett.png)
 
 ## Palette
@@ -38,18 +38,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Kinloch Anderson Rowanberry](/setts/s14/ly7r30r4r8dr4r12r6r12m28dr4m8dr8m8dr4/) — ΔT 1.34
 1. [Kreutz, Arthur (Personal)](/setts/s11/r8r8m8ly3db1g1r8m8ly3db1g1~x2/) — ΔT 2.07
 1. [Unidentified, Sett](/setts/s9/lr2o1r10o12o10lr6r10o1lr2~x2/) — ΔT 2.54
-1. [Grelloch](/setts/s10/r2k1r12r12t1m2t1r12r12k1~x4/) — ΔT 2.68
+1. [Grelloch](/setts/s10/r2k1r12r12t1m2~x4/) — ΔT 2.68
 1. [Powys (District)](/setts/s12/dg24r7dg7r7dg7r22r7r4b4r4r40b14/) — ΔT 2.69
 1. [Allen - 2012 (Personal)](/setts/s14/do16r2do3r4do2n12dy18lb2dy18n12do12lo2r2lo2~x2/) — ΔT 2.69
 1. [Rose VS](/setts/s9/dg4r32n9dr6n2dr3n2dr12lr3~x2/) — ΔT 2.72
 1. [Rose VS](/setts/s9/dg4r32n9dr6n2dr3n2dr12lr3/) — ΔT 2.72
-1. [Caledonian Maple (Fashion)](/setts/s7/r11dg1r3y7dg7dy5o3~x4/) — ΔT 2.74
+1. [Caledonian Maple (Fashion)](/setts/s7/r11dg1r3y7dg7dy5o3~x4/) — ΔT 2.73
 1. [Tune Hotels](/setts/s9/r3r18r6r15r4r3r4r7w2~x2/) — ΔT 2.76
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/ly7r30r4r8dr4r12r6r12m28dr4m8dr8m8dr4/"><circle cx="227.4" cy="196.4" r="4" fill="#3465a4"><title>Kinloch Anderson Rowanberry</title></circle></a><a href="/setts/s11/r8r8m8ly3db1g1r8m8ly3db1g1~x2/"><circle cx="152.2" cy="170.5" r="4" fill="#3465a4"><title>Kreutz, Arthur (Personal)</title></circle></a><a href="/setts/s9/lr2o1r10o12o10lr6r10o1lr2~x2/"><circle cx="261.1" cy="219.8" r="4" fill="#3465a4"><title>Unidentified, Sett</title></circle></a><a href="/setts/s10/r2k1r12r12t1m2t1r12r12k1~x4/"><circle cx="394.9" cy="206.2" r="4" fill="#3465a4"><title>Grelloch</title></circle></a><a href="/setts/s12/dg24r7dg7r7dg7r22r7r4b4r4r40b14/"><circle cx="235.2" cy="171.1" r="4" fill="#3465a4"><title>Powys (District)</title></circle></a><a href="/setts/s14/do16r2do3r4do2n12dy18lb2dy18n12do12lo2r2lo2~x2/"><circle cx="216.5" cy="194.3" r="4" fill="#3465a4"><title>Allen - 2012 (Personal)</title></circle></a><a href="/setts/s9/dg4r32n9dr6n2dr3n2dr12lr3~x2/"><circle cx="330.6" cy="170.8" r="4" fill="#3465a4"><title>Rose VS</title></circle></a><a href="/setts/s9/dg4r32n9dr6n2dr3n2dr12lr3/"><circle cx="330.6" cy="170.8" r="4" fill="#3465a4"><title>Rose VS</title></circle></a><a href="/setts/s7/r11dg1r3y7dg7dy5o3~x4/"><circle cx="241.5" cy="250.3" r="4" fill="#3465a4"><title>Caledonian Maple (Fashion)</title></circle></a><a href="/setts/s9/r3r18r6r15r4r3r4r7w2~x2/"><circle cx="349.2" cy="222.1" r="4" fill="#3465a4"><title>Tune Hotels</title></circle></a><circle cx="194.8" cy="194.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/ly7r30r4r8dr4r12r6r12m28dr4m8dr8m8dr4/"><circle cx="227.2" cy="196.7" r="4" fill="#3465a4"><title>Kinloch Anderson Rowanberry</title></circle></a><a href="/setts/s11/r8r8m8ly3db1g1r8m8ly3db1g1~x2/"><circle cx="151.9" cy="170.8" r="4" fill="#3465a4"><title>Kreutz, Arthur (Personal)</title></circle></a><a href="/setts/s9/lr2o1r10o12o10lr6r10o1lr2~x2/"><circle cx="260.7" cy="220.0" r="4" fill="#3465a4"><title>Unidentified, Sett</title></circle></a><a href="/setts/s10/r2k1r12r12t1m2~x4/"><circle cx="394.5" cy="206.5" r="4" fill="#3465a4"><title>Grelloch</title></circle></a><a href="/setts/s12/dg24r7dg7r7dg7r22r7r4b4r4r40b14/"><circle cx="235.0" cy="171.3" r="4" fill="#3465a4"><title>Powys (District)</title></circle></a><a href="/setts/s14/do16r2do3r4do2n12dy18lb2dy18n12do12lo2r2lo2~x2/"><circle cx="216.5" cy="194.7" r="4" fill="#3465a4"><title>Allen - 2012 (Personal)</title></circle></a><a href="/setts/s9/dg4r32n9dr6n2dr3n2dr12lr3~x2/"><circle cx="330.3" cy="171.1" r="4" fill="#3465a4"><title>Rose VS</title></circle></a><a href="/setts/s9/dg4r32n9dr6n2dr3n2dr12lr3/"><circle cx="330.3" cy="171.1" r="4" fill="#3465a4"><title>Rose VS</title></circle></a><a href="/setts/s7/r11dg1r3y7dg7dy5o3~x4/"><circle cx="241.5" cy="250.5" r="4" fill="#3465a4"><title>Caledonian Maple (Fashion)</title></circle></a><a href="/setts/s9/r3r18r6r15r4r3r4r7w2~x2/"><circle cx="348.7" cy="222.2" r="4" fill="#3465a4"><title>Tune Hotels</title></circle></a><circle cx="194.6" cy="195.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r8r8r8lo3t1dg1r8r8r9lo3t1dg1~x2/

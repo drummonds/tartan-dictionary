@@ -2,7 +2,7 @@
 title: "Leighton (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BYBGBGBR](/stripes/bybgbgbr/) · **Stripes:** [DR LO DR G DO DY DR R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="seq">DR LO DR G DO DY DR R</span></span>
+**Bands:** [RBGBGBYB](/stripes/rbgbgbyb/) · **Stripes:** [R DR DY DO G DR LO DR](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="seq">R DR DY DO G DR LO DR</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -25,7 +25,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-DRa/8 DRb28 T16 DR20 G35 DRb20 DY4 DRb/20
+DRb/20 DY4 DRb20 G35 DR20 T16 DRb28 DRa/8
 ![Sett](sett.png)
 
 ## Palette
@@ -42,7 +42,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DRa/8 DRb28 T16 DR20 G35 DRb20 DY4 DRb/20 tartan")
+![Tartan detail](tartan.png "DRb/20 DY4 DRb20 G35 DR20 T16 DRb28 DRa/8 tartan")
 
 ## Nearest tartans
 
@@ -54,15 +54,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Caledonian Maple (Fashion)](/setts/s7/r11dg1r3y7dg7dy5o3~x4/) — ΔT 1.59
 1. [MacDuff Hunting Clan Tartan Tartan Number: 1654. Earliest known date: 1906 STS records (sic) 'Sett may be quite wrong. (S.S. May 86)' See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/dy8r1dy8g8k8db8dy8r2~x2/) — ΔT 1.61
 1. [Heather MacRae](/setts/s7/dg2dr12db11lo6dy6dr12dg2~x2/) — ΔT 1.62
-1. [Amazing Union (Personal)](/setts/s9/o2dy15dg12dy2dt12dy2dg12dy15r2~x4/) — ΔT 1.68
+1. [Amazing Union (Personal)](/setts/s9/r2dy15dg12dy2dt12dy2dg12dy15o2~x4/) — ΔT 1.68
 1. [United Distillers Corporate Tartan Tartan Number: 2098. Earliest known date: 1989 An expression of evocative Scottish colours to reflect the corporate image of quality and style. (weft) lb4 b24 lb2 dg24 g24 r4 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/dr12dy1dg12dy12ly2dy12dg12dy1dr12t2~x2/) — ΔT 1.72
-1. [Huntly #3](/setts/s10/dy2lr1dy5k4do5o1do5k4dy5lr1~x4/) — ΔT 1.75
+1. [Huntly #3](/setts/s10/dy2lr1dy5k4do5o1~x4/) — ΔT 1.75
 1. [MacDuff Hunting](/setts/s8/do10r2do10g17k12db9do9r2~x2/) — ΔT 1.81
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dr5lo1dr5g9do5dy4dr7r2~x4/"><circle cx="221.9" cy="240.3" r="4" fill="#3465a4"><title>Leighton (Personal)</title></circle></a><a href="/setts/s8/dy13ly3dy13dg23dy16dy13dy23r5~x2/"><circle cx="228.7" cy="259.0" r="4" fill="#3465a4"><title>Unidentified #40</title></circle></a><a href="/setts/s8/o13ly3o13g23dy16dr13o23r5~x2/"><circle cx="184.7" cy="232.1" r="4" fill="#3465a4"><title>Unidentified 2</title></circle></a><a href="/setts/s7/r11dg1r3y7dg7dy5o3~x4/"><circle cx="241.5" cy="250.3" r="4" fill="#3465a4"><title>Caledonian Maple (Fashion)</title></circle></a><a href="/setts/s8/dy8r1dy8g8k8db8dy8r2~x2/"><circle cx="215.7" cy="263.7" r="4" fill="#3465a4"><title>MacDuff Hunting Clan Tartan Tartan Number: 1654. Earliest known date: 1906 STS records (sic) 'Sett may be quite wrong. (S.S. May 86)' See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dg2dr12db11lo6dy6dr12dg2~x2/"><circle cx="228.1" cy="257.5" r="4" fill="#3465a4"><title>Heather MacRae</title></circle></a><a href="/setts/s9/o2dy15dg12dy2dt12dy2dg12dy15r2~x4/"><circle cx="270.9" cy="242.3" r="4" fill="#3465a4"><title>Amazing Union (Personal)</title></circle></a><a href="/setts/s10/dr12dy1dg12dy12ly2dy12dg12dy1dr12t2~x2/"><circle cx="234.0" cy="226.1" r="4" fill="#3465a4"><title>United Distillers Corporate Tartan Tartan Number: 2098. Earliest known date: 1989 An expression of evocative Scottish colours to reflect the corporate image of quality and style. (weft) lb4 b24 lb2 dg24 g24 r4 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/dy2lr1dy5k4do5o1do5k4dy5lr1~x4/"><circle cx="167.0" cy="260.1" r="4" fill="#3465a4"><title>Huntly #3</title></circle></a><a href="/setts/s8/do10r2do10g17k12db9do9r2~x2/"><circle cx="191.4" cy="248.7" r="4" fill="#3465a4"><title>MacDuff Hunting</title></circle></a><circle cx="221.9" cy="242.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dr5lo1dr5g9do5dy4dr7r2~x4/"><circle cx="222.0" cy="240.5" r="4" fill="#3465a4"><title>Leighton (Personal)</title></circle></a><a href="/setts/s8/dy13ly3dy13dg23dy16dy13dy23r5~x2/"><circle cx="228.7" cy="259.3" r="4" fill="#3465a4"><title>Unidentified #40</title></circle></a><a href="/setts/s8/o13ly3o13g23dy16dr13o23r5~x2/"><circle cx="184.7" cy="232.3" r="4" fill="#3465a4"><title>Unidentified 2</title></circle></a><a href="/setts/s7/r11dg1r3y7dg7dy5o3~x4/"><circle cx="241.5" cy="250.5" r="4" fill="#3465a4"><title>Caledonian Maple (Fashion)</title></circle></a><a href="/setts/s8/dy8r1dy8g8k8db8dy8r2~x2/"><circle cx="215.8" cy="263.8" r="4" fill="#3465a4"><title>MacDuff Hunting Clan Tartan Tartan Number: 1654. Earliest known date: 1906 STS records (sic) 'Sett may be quite wrong. (S.S. May 86)' See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dg2dr12db11lo6dy6dr12dg2~x2/"><circle cx="228.1" cy="257.6" r="4" fill="#3465a4"><title>Heather MacRae</title></circle></a><a href="/setts/s9/r2dy15dg12dy2dt12dy2dg12dy15o2~x4/"><circle cx="270.9" cy="242.5" r="4" fill="#3465a4"><title>Amazing Union (Personal)</title></circle></a><a href="/setts/s10/dr12dy1dg12dy12ly2dy12dg12dy1dr12t2~x2/"><circle cx="234.0" cy="226.3" r="4" fill="#3465a4"><title>United Distillers Corporate Tartan Tartan Number: 2098. Earliest known date: 1989 An expression of evocative Scottish colours to reflect the corporate image of quality and style. (weft) lb4 b24 lb2 dg24 g24 r4 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/dy2lr1dy5k4do5o1~x4/"><circle cx="167.1" cy="260.3" r="4" fill="#3465a4"><title>Huntly #3</title></circle></a><a href="/setts/s8/do10r2do10g17k12db9do9r2~x2/"><circle cx="191.5" cy="248.8" r="4" fill="#3465a4"><title>MacDuff Hunting</title></circle></a><circle cx="222.0" cy="242.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/dr20lo4dr20g35do20dy16dr28r8/

@@ -2,7 +2,7 @@
 title: "Forth"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGBGBGKY](/stripes/bkbkgbgbgky/) · **Stripes:** [DB K DB K G T G T G K LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB K DB K G T G T G K LY</span></span>
+**Bands:** [YKGBGBGKBKB](/stripes/ykgbgbgkbkb/) · **Stripes:** [LY K G T G T G K DB K DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K G T G T G K DB K DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
@@ -319,6 +319,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +420,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +680,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -920,12 +923,12 @@ The nearest existing variants by ΔTartan distance.
 1. [U.S.I. Limited](/setts/s11/k20n2t2n4dg20w2k16n7t2k3t5~x2/) — ΔT 0.88
 1. [Bannatyne](/setts/s12/dt8r8dt42k4dt4k4dt4k20g4k10g25w8/) — ΔT 0.88
 1. [Herriot (Personal)](/setts/s16/m2db1m1db12k1db1k1db1k5g1k1g1k1g5k2ly1~x4/) — ΔT 0.96
-1. [MacMichael](/setts/s11/g1db1g8lb1k2db16k2lb1r8db1r1~x4/) — ΔT 0.98
+1. [MacMichael](/setts/s11/r1db1r8lb1k2db16k2lb1g8db1g1~x4/) — ΔT 0.98
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db6k2db24k10g2m2g2m2g10k2lb3~x2/"><circle cx="240.0" cy="158.9" r="4" fill="#3465a4"><title>Scottish Rugby Union (Sports)</title></circle></a><a href="/setts/s11/db4y32db4y4db32m6db32dg4db3dg32w4/"><circle cx="234.4" cy="170.3" r="4" fill="#3465a4"><title>American Society of Travel Agents, The (2001)</title></circle></a><a href="/setts/s9/lb3db20k3db2k5db2k3y15r2~x2/"><circle cx="226.6" cy="176.8" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra</title></circle></a><a href="/setts/s9/lt3dt20k3dt2k5dt2k3y15r2~x2/"><circle cx="221.4" cy="177.9" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra, The</title></circle></a><a href="/setts/s10/db24k2db2r2db2k20g16ly2g2ly3~x2/"><circle cx="193.8" cy="154.1" r="4" fill="#3465a4"><title>Watson (Name)</title></circle></a><a href="/setts/s11/lb7db10k7db7t7db45k21g21t4k4lb7~x2/"><circle cx="187.5" cy="160.3" r="4" fill="#3465a4"><title>Utah State University</title></circle></a><a href="/setts/s11/k20n2t2n4dg20w2k16n7t2k3t5~x2/"><circle cx="209.8" cy="173.7" r="4" fill="#3465a4"><title>U.S.I. Limited</title></circle></a><a href="/setts/s12/dt8r8dt42k4dt4k4dt4k20g4k10g25w8/"><circle cx="191.4" cy="166.6" r="4" fill="#3465a4"><title>Bannatyne</title></circle></a><a href="/setts/s16/m2db1m1db12k1db1k1db1k5g1k1g1k1g5k2ly1~x4/"><circle cx="217.6" cy="135.8" r="4" fill="#3465a4"><title>Herriot (Personal)</title></circle></a><a href="/setts/s11/g1db1g8lb1k2db16k2lb1r8db1r1~x4/"><circle cx="232.9" cy="132.9" r="4" fill="#3465a4"><title>MacMichael</title></circle></a><circle cx="225.2" cy="156.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db6k2db24k10g2m2g2m2g10k2lb3~x2/"><circle cx="240.1" cy="158.9" r="4" fill="#3465a4"><title>Scottish Rugby Union (Sports)</title></circle></a><a href="/setts/s11/db4y32db4y4db32m6db32dg4db3dg32w4/"><circle cx="234.4" cy="170.3" r="4" fill="#3465a4"><title>American Society of Travel Agents, The (2001)</title></circle></a><a href="/setts/s9/lb3db20k3db2k5db2k3y15r2~x2/"><circle cx="226.6" cy="176.9" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra</title></circle></a><a href="/setts/s9/lt3dt20k3dt2k5dt2k3y15r2~x2/"><circle cx="221.5" cy="177.9" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra, The</title></circle></a><a href="/setts/s10/db24k2db2r2db2k20g16ly2g2ly3~x2/"><circle cx="193.9" cy="154.2" r="4" fill="#3465a4"><title>Watson (Name)</title></circle></a><a href="/setts/s11/lb7db10k7db7t7db45k21g21t4k4lb7~x2/"><circle cx="187.6" cy="160.3" r="4" fill="#3465a4"><title>Utah State University</title></circle></a><a href="/setts/s11/k20n2t2n4dg20w2k16n7t2k3t5~x2/"><circle cx="210.0" cy="173.7" r="4" fill="#3465a4"><title>U.S.I. Limited</title></circle></a><a href="/setts/s12/dt8r8dt42k4dt4k4dt4k20g4k10g25w8/"><circle cx="191.5" cy="166.6" r="4" fill="#3465a4"><title>Bannatyne</title></circle></a><a href="/setts/s16/m2db1m1db12k1db1k1db1k5g1k1g1k1g5k2ly1~x4/"><circle cx="217.6" cy="135.9" r="4" fill="#3465a4"><title>Herriot (Personal)</title></circle></a><a href="/setts/s11/r1db1r8lb1k2db16k2lb1g8db1g1~x4/"><circle cx="232.9" cy="132.9" r="4" fill="#3465a4"><title>MacMichael</title></circle></a><circle cx="225.3" cy="156.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db4k3db23k9g2t2g2t2g8k2ly3~x2/

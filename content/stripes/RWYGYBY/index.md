@@ -8,7 +8,7 @@ RWYGYBY
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/ly2db14ly2dg14ly27w2r2~x2/tartan.png)
+![Woven sample](/setts/s7/r2w2ly27dg14ly2db14ly2~x2/tartan.png)
 
 
 
@@ -25,13 +25,13 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Fraser Yellow](/setts/s7/ly2db14ly2dg14ly27w2r2~x2/)|
-|![Fraser Yellow example sett](/setts/s7/ly2db14ly2dg14ly27w2r2~x2/sett.png)|
+| [Fraser Yellow](/setts/s7/r2w2ly27dg14ly2db14ly2~x2/)|
+|![Fraser Yellow example sett](/setts/s7/r2w2ly27dg14ly2db14ly2~x2/sett.png)|
 
 ### R W LY G LY DB LY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R W LY G LY DB LY</span></span>
 
 | Tartans |
 |---------------|
-| [Fraser, Yellow](/setts/s7/ly2db14ly2g14ly27w2r2~x2/)|
-|![Fraser, Yellow example sett](/setts/s7/ly2db14ly2g14ly27w2r2~x2/sett.png)|
+| [Fraser, Yellow](/setts/s7/r2w2ly27g14ly2db14ly2~x2/)|
+|![Fraser, Yellow example sett](/setts/s7/r2w2ly27g14ly2db14ly2~x2/sett.png)|
 

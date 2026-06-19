@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4807
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Oliver Dress Pink
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -50,7 +56,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Cornish, National Day](/setts/s5/k5w2ly36b47r3~x2/) — ΔT 1.05
 1. [Kinloch of Loch Awe (Personal)](/setts/s5/w18o29t2dp3k1~x2/) — ΔT 1.13
-1. [Cornish National Day](/setts/s8/k5w2ly36t47r3t47ly36w2~x2/) — ΔT 1.14
+1. [Cornish National Day](/setts/s8/k5w2ly36t47r3~x2/) — ΔT 1.14
 1. [Scotstown](/setts/s5/lr2dg17w6b5r1~x4/) — ΔT 1.42
 1. [Manx Laxey Dress Green](/setts/s5/w14dp4ly1g8db2~x2/) — ΔT 1.44
 1. [Exabyte](/setts/s5/m3lb35db4g47w3~x2/) — ΔT 1.46
@@ -61,8 +67,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k5w2ly36b47r3~x2/"><circle cx="288.7" cy="134.4" r="4" fill="#3465a4"><title>Cornish, National Day</title></circle></a><a href="/setts/s5/w18o29t2dp3k1~x2/"><circle cx="324.7" cy="131.6" r="4" fill="#3465a4"><title>Kinloch of Loch Awe (Personal)</title></circle></a><a href="/setts/s8/k5w2ly36t47r3t47ly36w2~x2/"><circle cx="296.8" cy="139.2" r="4" fill="#3465a4"><title>Cornish National Day</title></circle></a><a href="/setts/s5/lr2dg17w6b5r1~x4/"><circle cx="256.9" cy="165.0" r="4" fill="#3465a4"><title>Scotstown</title></circle></a><a href="/setts/s5/w14dp4ly1g8db2~x2/"><circle cx="204.6" cy="164.3" r="4" fill="#3465a4"><title>Manx Laxey Dress Green</title></circle></a><a href="/setts/s5/m3lb35db4g47w3~x2/"><circle cx="291.1" cy="172.3" r="4" fill="#3465a4"><title>Exabyte</title></circle></a><a href="/setts/s7/b6k3b37ly41w3ly6w3~x2/"><circle cx="288.4" cy="161.4" r="4" fill="#3465a4"><title>Tilburg Hunting (District)</title></circle></a><a href="/setts/s6/t53k2w53k2r4ly7~x2/"><circle cx="261.7" cy="110.4" r="4" fill="#3465a4"><title>Galicia</title></circle></a><a href="/setts/s6/w15ly2dt5lr3t40dt10/"><circle cx="295.2" cy="152.9" r="4" fill="#3465a4"><title>Herriot (New Zealand) (Name)</title></circle></a><a href="/setts/s7/w8g5dp10t24w30g2lp2~x2/"><circle cx="209.0" cy="144.5" r="4" fill="#3465a4"><title>Shiel, Purple V2 (Dance)</title></circle></a><circle cx="290.4" cy="144.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k5w2ly36b47r3~x2/"><circle cx="288.3" cy="134.2" r="4" fill="#3465a4"><title>Cornish, National Day</title></circle></a><a href="/setts/s5/w18o29t2dp3k1~x2/"><circle cx="324.3" cy="131.4" r="4" fill="#3465a4"><title>Kinloch of Loch Awe (Personal)</title></circle></a><a href="/setts/s8/k5w2ly36t47r3~x2/"><circle cx="296.5" cy="139.0" r="4" fill="#3465a4"><title>Cornish National Day</title></circle></a><a href="/setts/s5/lr2dg17w6b5r1~x4/"><circle cx="256.8" cy="164.8" r="4" fill="#3465a4"><title>Scotstown</title></circle></a><a href="/setts/s5/w14dp4ly1g8db2~x2/"><circle cx="204.4" cy="164.1" r="4" fill="#3465a4"><title>Manx Laxey Dress Green</title></circle></a><a href="/setts/s5/m3lb35db4g47w3~x2/"><circle cx="290.8" cy="172.2" r="4" fill="#3465a4"><title>Exabyte</title></circle></a><a href="/setts/s7/b6k3b37ly41w3ly6w3~x2/"><circle cx="288.1" cy="161.3" r="4" fill="#3465a4"><title>Tilburg Hunting (District)</title></circle></a><a href="/setts/s6/t53k2w53k2r4ly7~x2/"><circle cx="261.2" cy="110.3" r="4" fill="#3465a4"><title>Galicia</title></circle></a><a href="/setts/s6/w15ly2dt5lr3t40dt10/"><circle cx="295.0" cy="152.8" r="4" fill="#3465a4"><title>Herriot (New Zealand) (Name)</title></circle></a><a href="/setts/s7/w8g5dp10t24w30g2lp2~x2/"><circle cx="208.7" cy="144.4" r="4" fill="#3465a4"><title>Shiel, Purple V2 (Dance)</title></circle></a><circle cx="290.0" cy="144.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/k5w2ly36t47r3~x2/

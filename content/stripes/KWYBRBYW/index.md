@@ -8,7 +8,7 @@ KWYBRBYW
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/k5w2ly36t47r3t47ly36w2~x2/tartan.png)
+![Woven sample](/setts/s8/k5w2ly36t47r3~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ KWYBRBYW
 
 | Tartans |
 |---------------|
-| [Cornish National Day](/setts/s8/k5w2ly36t47r3t47ly36w2~x2/)|
-|![Cornish National Day example sett](/setts/s8/k5w2ly36t47r3t47ly36w2~x2/sett.png)|
+| [Cornish National Day](/setts/s8/k5w2ly36t47r3~x2/)|
+|![Cornish National Day example sett](/setts/s8/k5w2ly36t47r3~x2/sett.png)|
 

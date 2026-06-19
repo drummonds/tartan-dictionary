@@ -2,7 +2,7 @@
 title: "Scottish Funereal Association"
 date: 2023-03-18
 ---
-**Bands:** [KBKBKBGK](/stripes/kbkbkbgk/) · **Stripes:** [K DB K DB K DB DG K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="seq">K DB K DB K DB DG K</span></span>
+**Bands:** [KGBKBKBK](/stripes/kgbkbkbk/) · **Stripes:** [K DG DB K DB K DB K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">K DG DB K DB K DB K</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -46,20 +46,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [The Caledonian Hotel](/setts/s8/k24k3k3k3k3k18dg20r4~x2/) — ΔT 1.82
-1. [Silver Thistle (Fashion)](/setts/s7/g4db3k6db20k46o2k4~x2/) — ΔT 2.08
+1. [Silver Thistle (Fashion)](/setts/s7/k4o2k46db20k6db3g4~x2/) — ΔT 2.08
 1. [Witches' Blood, The](/setts/s10/k22n17k2n4k2n2k37n4k2r3~x2/) — ΔT 2.12
 1. [Langhein, Alex (Personal)](/setts/s8/k40dg15k10r2k10lo2k10lo2~x2/) — ΔT 2.14
 1. [CI (Corporate)](/setts/s9/k100dp8o4k4o4dp8k25db10o4/) — ΔT 2.15
 1. [Laird (Name)](/setts/s9/k53g5k5dp13db5dp5db5dp5k5~x2/) — ΔT 2.16
-1. [Silver Thistle](/setts/s12/g4db3k6db20k46o2k4o2k46db20k6db3~x2/) — ΔT 2.22
+1. [Silver Thistle](/setts/s12/k4o2k46db20k6db3g4~x2/) — ΔT 2.22
 1. [Trotter (Personal)](/setts/s9/dt23k2dt2k2dt2k28r2k4n2~x2/) — ΔT 2.22
 1. [Moon (New Maldon, Surrey)](/setts/s12/db6dg3db24k2db4k16db5dg2db23dg2k2ly2~x2/) — ΔT 2.27
-1. [Home](/setts/s8/k28r1k2r1k8db24dg2db3/) — ΔT 2.27
+1. [Nightstalker (Corporate)](/setts/s8/k1g1k8n1k1n2k1n1~x8/) — ΔT 2.28
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k24k3k3k3k3k18dg20r4~x2/"><circle cx="464.2" cy="274.3" r="4" fill="#3465a4"><title>The Caledonian Hotel</title></circle></a><a href="/setts/s7/g4db3k6db20k46o2k4~x2/"><circle cx="474.9" cy="187.4" r="4" fill="#3465a4"><title>Silver Thistle (Fashion)</title></circle></a><a href="/setts/s10/k22n17k2n4k2n2k37n4k2r3~x2/"><circle cx="514.8" cy="206.6" r="4" fill="#3465a4"><title>Witches' Blood, The</title></circle></a><a href="/setts/s8/k40dg15k10r2k10lo2k10lo2~x2/"><circle cx="544.6" cy="213.1" r="4" fill="#3465a4"><title>Langhein, Alex (Personal)</title></circle></a><a href="/setts/s9/k100dp8o4k4o4dp8k25db10o4/"><circle cx="587.6" cy="173.1" r="4" fill="#3465a4"><title>CI (Corporate)</title></circle></a><a href="/setts/s9/k53g5k5dp13db5dp5db5dp5k5~x2/"><circle cx="415.9" cy="193.7" r="4" fill="#3465a4"><title>Laird (Name)</title></circle></a><a href="/setts/s12/g4db3k6db20k46o2k4o2k46db20k6db3~x2/"><circle cx="474.7" cy="172.4" r="4" fill="#3465a4"><title>Silver Thistle</title></circle></a><a href="/setts/s9/dt23k2dt2k2dt2k28r2k4n2~x2/"><circle cx="404.6" cy="198.9" r="4" fill="#3465a4"><title>Trotter (Personal)</title></circle></a><a href="/setts/s12/db6dg3db24k2db4k16db5dg2db23dg2k2ly2~x2/"><circle cx="449.2" cy="214.8" r="4" fill="#3465a4"><title>Moon (New Maldon, Surrey)</title></circle></a><a href="/setts/s8/k28r1k2r1k8db24dg2db3/"><circle cx="410.4" cy="179.3" r="4" fill="#3465a4"><title>Home</title></circle></a><circle cx="494.5" cy="228.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k24k3k3k3k3k18dg20r4~x2/"><circle cx="464.3" cy="274.1" r="4" fill="#3465a4"><title>The Caledonian Hotel</title></circle></a><a href="/setts/s7/k4o2k46db20k6db3g4~x2/"><circle cx="474.9" cy="187.4" r="4" fill="#3465a4"><title>Silver Thistle (Fashion)</title></circle></a><a href="/setts/s10/k22n17k2n4k2n2k37n4k2r3~x2/"><circle cx="514.7" cy="206.5" r="4" fill="#3465a4"><title>Witches' Blood, The</title></circle></a><a href="/setts/s8/k40dg15k10r2k10lo2k10lo2~x2/"><circle cx="544.5" cy="212.9" r="4" fill="#3465a4"><title>Langhein, Alex (Personal)</title></circle></a><a href="/setts/s9/k100dp8o4k4o4dp8k25db10o4/"><circle cx="587.5" cy="172.9" r="4" fill="#3465a4"><title>CI (Corporate)</title></circle></a><a href="/setts/s9/k53g5k5dp13db5dp5db5dp5k5~x2/"><circle cx="415.9" cy="193.7" r="4" fill="#3465a4"><title>Laird (Name)</title></circle></a><a href="/setts/s12/k4o2k46db20k6db3g4~x2/"><circle cx="474.7" cy="172.4" r="4" fill="#3465a4"><title>Silver Thistle</title></circle></a><a href="/setts/s9/dt23k2dt2k2dt2k28r2k4n2~x2/"><circle cx="404.6" cy="198.9" r="4" fill="#3465a4"><title>Trotter (Personal)</title></circle></a><a href="/setts/s12/db6dg3db24k2db4k16db5dg2db23dg2k2ly2~x2/"><circle cx="449.3" cy="214.8" r="4" fill="#3465a4"><title>Moon (New Maldon, Surrey)</title></circle></a><a href="/setts/s8/k1g1k8n1k1n2k1n1~x8/"><circle cx="459.8" cy="237.8" r="4" fill="#3465a4"><title>Nightstalker (Corporate)</title></circle></a><circle cx="494.6" cy="228.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k12db1k2db1k1db4dg1k1~x4/

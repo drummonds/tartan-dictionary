@@ -23,22 +23,22 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [MacInnes](/setts/s13/ly2k12dg2k2dg2k2dg16k3b3k3db12dg6r2~x2/)|
-|![MacInnes example sett](/setts/s13/ly2k12dg2k2dg2k2dg16k3b3k3db12dg6r2~x2/sett.png)|
-| [MacInnes](/setts/s13/ly2k12dg2k2dg2k2dg16k3b3k3db12dg6r2/)|
-|![MacInnes example sett](/setts/s13/ly2k12dg2k2dg2k2dg16k3b3k3db12dg6r2/sett.png)|
+| [MacInnes](/setts/s13/r2dg6db12k3b3k3dg16k2dg2k2dg2k12ly2~x2/)|
+|![MacInnes example sett](/setts/s13/r2dg6db12k3b3k3dg16k2dg2k2dg2k12ly2~x2/sett.png)|
+| [MacInnes](/setts/s13/r2dg6db12k3b3k3dg16k2dg2k2dg2k12ly2/)|
+|![MacInnes example sett](/setts/s13/r2dg6db12k3b3k3dg16k2dg2k2dg2k12ly2/sett.png)|
 
 ### R DG DB K T K DG K DG K DG K LY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DG DB K T K DG K DG K DG K LY</span></span>
 
 | Tartans |
 |---------------|
-| [MacInnes](/setts/s13/ly2k12dg2k2dg2k2dg16k3t3k3db12dg6r2~x2/)|
-|![MacInnes example sett](/setts/s13/ly2k12dg2k2dg2k2dg16k3t3k3db12dg6r2~x2/sett.png)|
+| [MacInnes](/setts/s13/r2dg6db12k3t3k3dg16k2dg2k2dg2k12ly2~x2/)|
+|![MacInnes example sett](/setts/s13/r2dg6db12k3t3k3dg16k2dg2k2dg2k12ly2~x2/sett.png)|
 
 ### R G DB K T K G K G K G K LY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R G DB K T K G K G K G K LY</span></span>
 
 | Tartans |
 |---------------|
-| [MacInnes](/setts/s13/ly2k12g2k2g2k2g16k3t3k3db12g6r2~x2/)|
-|![MacInnes example sett](/setts/s13/ly2k12g2k2g2k2g16k3t3k3db12g6r2~x2/sett.png)|
+| [MacInnes](/setts/s13/r2g6db12k3t3k3g16k2g2k2g2k12ly2~x2/)|
+|![MacInnes example sett](/setts/s13/r2g6db12k3t3k3g16k2g2k2g2k12ly2~x2/sett.png)|
 

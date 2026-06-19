@@ -2,7 +2,7 @@
 title: "Donegal"
 date: 2023-03-18
 ---
-**Bands:** [GGBGBBBRBR](/stripes/ggbgbbbrbr/) · **Stripes:** [Y G DB G DB DR DB R DB R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">Y G DB G DB DR DB R DB R</span></span>
+**Bands:** [RBRBBBGBGG](/stripes/rbrbbbgbgg/) · **Stripes:** [R DB R DB DR DB G DB G Y](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R DB R DB DR DB G DB G Y</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,18 +909,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Donegal Irish County Tartan Tartan Number: 2247. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/lo3g17n3g3n3k5n18r2n8r2~x2/) — ΔT 0.56
 1. [Donegal, County](/setts/s10/lo3dg17b3dg3b3do5b18r2b8r2~x2/) — ΔT 0.61
 1. [Tennessee](/setts/s10/r2db10w1m1dg1r1dg6m1dg10w1~x2/) — ΔT 0.66
-1. [Sverker](/setts/s10/lt2dt8n16dy3dt20dy3dt3dy3n4w2~x2/) — ΔT 0.72
+1. [Sverker](/setts/s10/w2n4dy3dt3dy3dt20dy3n16dt8lt2~x2/) — ΔT 0.72
 1. [American Society of Travel Agents, The](/setts/s11/db2y18db2y2db20r3db18g2db2g18w2/) — ΔT 0.74
 1. [Harkness Hunting](/setts/s10/dg21db4w4db32dg12ly4dg8r4dg6db12/) — ΔT 0.74
-1. [California Burns (Personal)](/setts/s12/dr3g3dt3g14dt3g3dt3t5dt18ly2dt8ly2~x2/) — ΔT 0.75
-1. [Manroth (Personal)](/setts/s9/dg15db20k2r4k2db20dg15k2ly2~x2/) — ΔT 0.91
+1. [California Burns (Personal)](/setts/s12/dr3g3dt3g14dt3g3dt3t5dt18ly2dt8ly2~x2/) — ΔT 0.74
 1. [Stewart of Appin Hunting Clan Tartan Tartan Number: 430. Earliest known date: 1930-50 There is extensive correspondence about the use of the terms 'ancient' and 'hunting' in relation to this sett in the Stewart files at the Scottish Tartan Society. The use of brown makes this sett proportionately similar to the count recorded by James Scarlett as early nineteenth century. He says that the brown was probably black originally. (No. 417, The Highland Textile, 1990) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/g11r4g4r7g41dy11t4db41r4db8/) — ΔT 0.91
+1. [Manroth (Personal)](/setts/s9/dg15db20k2r4k2db20dg15k2ly2~x2/) — ΔT 0.91
 1. [Gloucester County Pipe Band (Corp)](/setts/s7/g54dt14ly7r14k7dt14r6~x2/) — ΔT 0.95
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/lo3g17n3g3n3k5n18r2n8r2~x2/"><circle cx="249.1" cy="184.4" r="4" fill="#3465a4"><title>Donegal Irish County Tartan Tartan Number: 2247. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/lo3dg17b3dg3b3do5b18r2b8r2~x2/"><circle cx="266.4" cy="196.2" r="4" fill="#3465a4"><title>Donegal, County</title></circle></a><a href="/setts/s10/r2db10w1m1dg1r1dg6m1dg10w1~x2/"><circle cx="262.3" cy="170.6" r="4" fill="#3465a4"><title>Tennessee</title></circle></a><a href="/setts/s10/lt2dt8n16dy3dt20dy3dt3dy3n4w2~x2/"><circle cx="255.6" cy="183.7" r="4" fill="#3465a4"><title>Sverker</title></circle></a><a href="/setts/s11/db2y18db2y2db20r3db18g2db2g18w2/"><circle cx="263.9" cy="178.8" r="4" fill="#3465a4"><title>American Society of Travel Agents, The</title></circle></a><a href="/setts/s10/dg21db4w4db32dg12ly4dg8r4dg6db12/"><circle cx="240.6" cy="203.2" r="4" fill="#3465a4"><title>Harkness Hunting</title></circle></a><a href="/setts/s12/dr3g3dt3g14dt3g3dt3t5dt18ly2dt8ly2~x2/"><circle cx="265.7" cy="191.1" r="4" fill="#3465a4"><title>California Burns (Personal)</title></circle></a><a href="/setts/s9/dg15db20k2r4k2db20dg15k2ly2~x2/"><circle cx="270.5" cy="202.6" r="4" fill="#3465a4"><title>Manroth (Personal)</title></circle></a><a href="/setts/s10/g11r4g4r7g41dy11t4db41r4db8/"><circle cx="238.6" cy="178.3" r="4" fill="#3465a4"><title>Stewart of Appin Hunting Clan Tartan Tartan Number: 430. Earliest known date: 1930-50 There is extensive correspondence about the use of the terms 'ancient' and 'hunting' in relation to this sett in the Stewart files at the Scottish Tartan Society. The use of brown makes this sett proportionately similar to the count recorded by James Scarlett as early nineteenth century. He says that the brown was probably black originally. (No. 417, The Highland Textile, 1990) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/g54dt14ly7r14k7dt14r6~x2/"><circle cx="240.0" cy="201.0" r="4" fill="#3465a4"><title>Gloucester County Pipe Band (Corp)</title></circle></a><circle cx="259.1" cy="190.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/lo3g17n3g3n3k5n18r2n8r2~x2/"><circle cx="249.0" cy="184.4" r="4" fill="#3465a4"><title>Donegal Irish County Tartan Tartan Number: 2247. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/lo3dg17b3dg3b3do5b18r2b8r2~x2/"><circle cx="266.3" cy="196.2" r="4" fill="#3465a4"><title>Donegal, County</title></circle></a><a href="/setts/s10/r2db10w1m1dg1r1dg6m1dg10w1~x2/"><circle cx="262.2" cy="170.6" r="4" fill="#3465a4"><title>Tennessee</title></circle></a><a href="/setts/s10/w2n4dy3dt3dy3dt20dy3n16dt8lt2~x2/"><circle cx="255.6" cy="183.7" r="4" fill="#3465a4"><title>Sverker</title></circle></a><a href="/setts/s11/db2y18db2y2db20r3db18g2db2g18w2/"><circle cx="263.8" cy="178.8" r="4" fill="#3465a4"><title>American Society of Travel Agents, The</title></circle></a><a href="/setts/s10/dg21db4w4db32dg12ly4dg8r4dg6db12/"><circle cx="240.6" cy="203.2" r="4" fill="#3465a4"><title>Harkness Hunting</title></circle></a><a href="/setts/s12/dr3g3dt3g14dt3g3dt3t5dt18ly2dt8ly2~x2/"><circle cx="265.7" cy="191.1" r="4" fill="#3465a4"><title>California Burns (Personal)</title></circle></a><a href="/setts/s10/g11r4g4r7g41dy11t4db41r4db8/"><circle cx="238.5" cy="178.4" r="4" fill="#3465a4"><title>Stewart of Appin Hunting Clan Tartan Tartan Number: 430. Earliest known date: 1930-50 There is extensive correspondence about the use of the terms 'ancient' and 'hunting' in relation to this sett in the Stewart files at the Scottish Tartan Society. The use of brown makes this sett proportionately similar to the count recorded by James Scarlett as early nineteenth century. He says that the brown was probably black originally. (No. 417, The Highland Textile, 1990) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/dg15db20k2r4k2db20dg15k2ly2~x2/"><circle cx="270.6" cy="202.7" r="4" fill="#3465a4"><title>Manroth (Personal)</title></circle></a><a href="/setts/s7/g54dt14ly7r14k7dt14r6~x2/"><circle cx="240.0" cy="201.0" r="4" fill="#3465a4"><title>Gloucester County Pipe Band (Corp)</title></circle></a><circle cx="259.1" cy="190.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/y3g17db3g3db3dr5db18r2db8r2~x2/

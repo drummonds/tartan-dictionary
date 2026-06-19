@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Prince Charles Edward
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 R12 Y8 G48 Y16 K8 Y16 G12 R/48
+R/48 G12 Y16 K8 Y16 G48 Y8 R12 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -908,16 +917,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Dunblane](/setts/s12/g6ly5w1g2w1g5w1g2w1r15db2w1~x2/) — ΔT 1.22
 1. [Craik, of Assington](/setts/s8/db4r11db1g8r2g4k1ly2~x4/) — ΔT 1.22
 1. [Eire (District?)](/setts/s9/g6lr2g10k3r1k3lo10lr2lo6~x4/) — ΔT 1.25
-1. [MacLachlan, dress](/setts/s7/r34w3dg4g23w24k3dg4~x2/) — ΔT 1.29
+1. [MacLachlan, dress](/setts/s7/r34w3dg4g23w24k3dg4~x2/) — ΔT 1.30
 1. [Satchidananda (Personal)](/setts/s9/dy18ly4t10w2r20ly5r2w2dy6~x2/) — ΔT 1.30
 1. [Unidentified from Winnipeg](/setts/s8/w24r8dy2r8dy2r8dy15dg2~x2/) — ΔT 1.31
 1. [MacLachlan Dress](/setts/s7/r36w3lo4g24w24k3lo6~x2/) — ΔT 1.31
-1. [Unnamed C18th - Prince Charles Edward #4](/setts/s16/r12g3ly4k2ly4g12ly2r3w1r3ly2g12ly4k2ly4g3~x4/) — ΔT 1.35
+1. [Unnamed C18th - Prince Charles Edward #4](/setts/s16/r12g3ly4k2ly4g12ly2r3w1~x4/) — ΔT 1.35
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r14ly2r6k1ly14k1g10ly1g10~x2/"><circle cx="179.6" cy="161.7" r="4" fill="#3465a4"><title>Grant, Champion</title></circle></a><a href="/setts/s7/ly4o21w2dt11ly21r2ly4~x2/"><circle cx="149.0" cy="144.5" r="4" fill="#3465a4"><title>Barbour - Muted</title></circle></a><a href="/setts/s12/g6ly5w1g2w1g5w1g2w1r15db2w1~x2/"><circle cx="180.1" cy="110.9" r="4" fill="#3465a4"><title>Dunblane</title></circle></a><a href="/setts/s8/db4r11db1g8r2g4k1ly2~x4/"><circle cx="188.7" cy="170.1" r="4" fill="#3465a4"><title>Craik, of Assington</title></circle></a><a href="/setts/s9/g6lr2g10k3r1k3lo10lr2lo6~x4/"><circle cx="135.8" cy="175.7" r="4" fill="#3465a4"><title>Eire (District?)</title></circle></a><a href="/setts/s7/r34w3dg4g23w24k3dg4~x2/"><circle cx="149.1" cy="150.9" r="4" fill="#3465a4"><title>MacLachlan, dress</title></circle></a><a href="/setts/s9/dy18ly4t10w2r20ly5r2w2dy6~x2/"><circle cx="152.6" cy="153.9" r="4" fill="#3465a4"><title>Satchidananda (Personal)</title></circle></a><a href="/setts/s8/w24r8dy2r8dy2r8dy15dg2~x2/"><circle cx="153.9" cy="141.8" r="4" fill="#3465a4"><title>Unidentified from Winnipeg</title></circle></a><a href="/setts/s7/r36w3lo4g24w24k3lo6~x2/"><circle cx="140.5" cy="146.5" r="4" fill="#3465a4"><title>MacLachlan Dress</title></circle></a><a href="/setts/s16/r12g3ly4k2ly4g12ly2r3w1r3ly2g12ly4k2ly4g3~x4/"><circle cx="165.4" cy="132.2" r="4" fill="#3465a4"><title>Unnamed C18th - Prince Charles Edward #4</title></circle></a><circle cx="154.2" cy="148.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r14ly2r6k1ly14k1g10ly1g10~x2/"><circle cx="179.2" cy="161.7" r="4" fill="#3465a4"><title>Grant, Champion</title></circle></a><a href="/setts/s7/ly4o21w2dt11ly21r2ly4~x2/"><circle cx="148.7" cy="144.6" r="4" fill="#3465a4"><title>Barbour - Muted</title></circle></a><a href="/setts/s12/g6ly5w1g2w1g5w1g2w1r15db2w1~x2/"><circle cx="179.8" cy="111.0" r="4" fill="#3465a4"><title>Dunblane</title></circle></a><a href="/setts/s8/db4r11db1g8r2g4k1ly2~x4/"><circle cx="188.5" cy="170.1" r="4" fill="#3465a4"><title>Craik, of Assington</title></circle></a><a href="/setts/s9/g6lr2g10k3r1k3lo10lr2lo6~x4/"><circle cx="135.7" cy="175.7" r="4" fill="#3465a4"><title>Eire (District?)</title></circle></a><a href="/setts/s7/r34w3dg4g23w24k3dg4~x2/"><circle cx="148.8" cy="150.9" r="4" fill="#3465a4"><title>MacLachlan, dress</title></circle></a><a href="/setts/s9/dy18ly4t10w2r20ly5r2w2dy6~x2/"><circle cx="152.3" cy="154.0" r="4" fill="#3465a4"><title>Satchidananda (Personal)</title></circle></a><a href="/setts/s8/w24r8dy2r8dy2r8dy15dg2~x2/"><circle cx="153.5" cy="141.8" r="4" fill="#3465a4"><title>Unidentified from Winnipeg</title></circle></a><a href="/setts/s7/r36w3lo4g24w24k3lo6~x2/"><circle cx="140.3" cy="146.4" r="4" fill="#3465a4"><title>MacLachlan Dress</title></circle></a><a href="/setts/s16/r12g3ly4k2ly4g12ly2r3w1~x4/"><circle cx="165.1" cy="132.2" r="4" fill="#3465a4"><title>Unnamed C18th - Prince Charles Edward #4</title></circle></a><circle cx="153.9" cy="148.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r12g3ly4k2ly4g12ly2r3w1~x4/

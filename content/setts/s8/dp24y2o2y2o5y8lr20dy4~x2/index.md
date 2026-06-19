@@ -2,12 +2,18 @@
 title: "Glen Shee"
 date: 2023-03-18
 ---
-**Bands:** [BGRGRGYG](/stripes/bgrgrgyg/) · **Stripes:** [DP Y O Y O Y LR DY](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">DP Y O Y O Y LR DY</span></span>
+**Bands:** [GYGRGRGB](/stripes/gygrgrgb/) · **Stripes:** [DY LR Y O Y O Y DP](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DY LR Y O Y O Y DP</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1397
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Glen Shee #2
 
 ## Attestations
 
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dp12n3r13dp4r10w2lb18n22r4~x2/"><circle cx="135.6" cy="172.2" r="4" fill="#3465a4"><title>Wild Rose (Commemorative)</title></circle></a><a href="/setts/s11/dy2r11db1r1db1r1db4db6dy1db1ly1~x4/"><circle cx="231.1" cy="138.7" r="4" fill="#3465a4"><title>NHK Asaichi</title></circle></a><a href="/setts/s10/n5dp40n5lr5n32lr5n5lr40dp7w5/"><circle cx="201.9" cy="181.3" r="4" fill="#3465a4"><title>Intelligent Finance</title></circle></a><a href="/setts/s10/db5t2db11g2db2g6r17lo9db1r1~x2/"><circle cx="183.7" cy="144.0" r="4" fill="#3465a4"><title>Clarks No. 1 (Fashion)</title></circle></a><a href="/setts/s6/r15r98dp72t25dp8w15/"><circle cx="237.3" cy="178.3" r="4" fill="#3465a4"><title>Afternoon Tea / Assam</title></circle></a><a href="/setts/s8/m21r3m3r3m3db19g22t3~x2/"><circle cx="180.2" cy="194.2" r="4" fill="#3465a4"><title>Akins (Clan)</title></circle></a><a href="/setts/s6/db30ly3dy11ly3o33r6~x2/"><circle cx="199.1" cy="187.5" r="4" fill="#3465a4"><title>Balfour Family Tartan Tartan Number: 683. Earliest known date: 1984 Presented by William Balfour. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/dp2t9dp3r7r19ly2~x2/"><circle cx="245.7" cy="194.1" r="4" fill="#3465a4"><title>Stevens #3</title></circle></a><a href="/setts/s12/y4w2y2w3y20db6r3db2r2db2r17db3~x2/"><circle cx="239.1" cy="159.6" r="4" fill="#3465a4"><title>Eidart, Scotch House</title></circle></a><a href="/setts/s8/p26w2p3db15o26r2o3db4~x2/"><circle cx="213.6" cy="163.0" r="4" fill="#3465a4"><title>Scottish Highlander Dress (Fashion)</title></circle></a><circle cx="203.8" cy="161.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dp12n3r13dp4r10w2lb18n22r4~x2/"><circle cx="135.5" cy="172.3" r="4" fill="#3465a4"><title>Wild Rose (Commemorative)</title></circle></a><a href="/setts/s11/dy2r11db1r1db1r1db4db6dy1db1ly1~x4/"><circle cx="230.9" cy="138.8" r="4" fill="#3465a4"><title>NHK Asaichi</title></circle></a><a href="/setts/s10/n5dp40n5lr5n32lr5n5lr40dp7w5/"><circle cx="201.7" cy="181.4" r="4" fill="#3465a4"><title>Intelligent Finance</title></circle></a><a href="/setts/s10/db5t2db11g2db2g6r17lo9db1r1~x2/"><circle cx="183.6" cy="144.1" r="4" fill="#3465a4"><title>Clarks No. 1 (Fashion)</title></circle></a><a href="/setts/s6/r15r98dp72t25dp8w15/"><circle cx="237.2" cy="178.4" r="4" fill="#3465a4"><title>Afternoon Tea / Assam</title></circle></a><a href="/setts/s8/m21r3m3r3m3db19g22t3~x2/"><circle cx="180.2" cy="194.3" r="4" fill="#3465a4"><title>Akins (Clan)</title></circle></a><a href="/setts/s6/db30ly3dy11ly3o33r6~x2/"><circle cx="199.1" cy="187.5" r="4" fill="#3465a4"><title>Balfour Family Tartan Tartan Number: 683. Earliest known date: 1984 Presented by William Balfour. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/dp2t9dp3r7r19ly2~x2/"><circle cx="245.6" cy="194.2" r="4" fill="#3465a4"><title>Stevens #3</title></circle></a><a href="/setts/s12/y4w2y2w3y20db6r3db2r2db2r17db3~x2/"><circle cx="238.8" cy="159.6" r="4" fill="#3465a4"><title>Eidart, Scotch House</title></circle></a><a href="/setts/s8/p26w2p3db15o26r2o3db4~x2/"><circle cx="213.5" cy="163.1" r="4" fill="#3465a4"><title>Scottish Highlander Dress (Fashion)</title></circle></a><circle cx="203.6" cy="161.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/dp24y2o2y2o5y8lr20dy4~x2/

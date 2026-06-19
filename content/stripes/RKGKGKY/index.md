@@ -8,7 +8,7 @@ RKGKGKY
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/lo2k1y15k7g15k1r2~x2/tartan.png)
+![Woven sample](/setts/s7/r2k1g15k7y15k1lo2~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RKGKGKY
 
 | Tartans |
 |---------------|
-| [Unidentified 20th Centuary](/setts/s7/lo2k1y15k7g15k1r2~x2/)|
-|![Unidentified 20th Centuary example sett](/setts/s7/lo2k1y15k7g15k1r2~x2/sett.png)|
+| [Unidentified 20th Centuary](/setts/s7/r2k1g15k7y15k1lo2~x2/)|
+|![Unidentified 20th Centuary example sett](/setts/s7/r2k1g15k7y15k1lo2~x2/sett.png)|
 

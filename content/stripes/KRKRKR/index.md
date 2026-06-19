@@ -33,8 +33,8 @@ Grouped by stripe pattern — the 4 human-palette shadings of this band pattern,
 |![Erskine (Paton) example sett](/setts/s6/k31r4k47r47k4r31~x2/sett.png)|
 | [Aragon (Erskine)](/setts/s6/k6r1k24r28k1r4~x2/)|
 |![Aragon (Erskine) example sett](/setts/s6/k6r1k24r28k1r4~x2/sett.png)|
-| [Ewing](/setts/s6/k23r3k1r12k1r3~x4/)|
-|![Ewing example sett](/setts/s6/k23r3k1r12k1r3~x4/sett.png)|
+| [Ewing](/setts/s6/k23r3k1r12~x4/)|
+|![Ewing example sett](/setts/s6/k23r3k1r12~x4/sett.png)|
 | [Cameron, Black & Red (dress)](/setts/s6/k1r4k1r4k13r1~x4/)|
 |![Cameron, Black & Red (dress) example sett](/setts/s6/k1r4k1r4k13r1~x4/sett.png)|
 | [The Mary Erskine](/setts/s6/k3r1k16r16k1r3~x4/)|

@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10993
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Côté-Haché
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -51,16 +57,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Loch Lomond Millenium](/setts/s11/k3dg2k12db4b19r3b19db4k12dg2lo3~x2/) — ΔT 1.06
 1. [Coulthard (Personal)](/setts/s7/r3g9y15db10k2db18w3~x2/) — ΔT 1.06
 1. [Wrigglesworth Family Canada (Personal)](/setts/s7/db30n10y10db5r3ly3g3~x2/) — ΔT 1.07
-1. [Quinn (Personal)](/setts/s9/ly1b8k4g1dg4g1k4b8r1~x6/) — ΔT 1.08
+1. [Quinn (Personal)](/setts/s9/r1b8k4g1dg4g1k4b8ly1~x6/) — ΔT 1.08
 1. [Scottish Italian](/setts/s8/b11db5g4w3r3k16db28b2~x2/) — ΔT 1.12
 1. [Grainger (Name)](/setts/s7/db36r4db6g18db15k18w4~x2/) — ΔT 1.13
 1. [Ferster, James Carney (Personal)](/setts/s6/b12dt35lb4w3k11r5~x2/) — ΔT 1.14
-1. [Lambert, Patrice (Personal)](/setts/s8/ly1db2ly1db12k1g6dp3w1~x4/) — ΔT 1.14
+1. [Lambert, Patrice (Personal)](/setts/s8/w1dp3g6k1db12ly1db2ly1~x4/) — ΔT 1.14
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r2w2dg8g2dg2db20t8g2db15w2~x2/"><circle cx="239.7" cy="152.6" r="4" fill="#3465a4"><title>Tupper, John Charles (Personal)</title></circle></a><a href="/setts/s6/t12dp35lr4w3k11k5~x2/"><circle cx="222.8" cy="167.1" r="4" fill="#3465a4"><title>Ferster, James Carney</title></circle></a><a href="/setts/s11/k3dg2k12db4b19r3b19db4k12dg2lo3~x2/"><circle cx="192.3" cy="165.8" r="4" fill="#3465a4"><title>Loch Lomond Millenium</title></circle></a><a href="/setts/s7/r3g9y15db10k2db18w3~x2/"><circle cx="186.3" cy="200.9" r="4" fill="#3465a4"><title>Coulthard (Personal)</title></circle></a><a href="/setts/s7/db30n10y10db5r3ly3g3~x2/"><circle cx="275.6" cy="181.2" r="4" fill="#3465a4"><title>Wrigglesworth Family Canada (Personal)</title></circle></a><a href="/setts/s9/ly1b8k4g1dg4g1k4b8r1~x6/"><circle cx="200.0" cy="190.6" r="4" fill="#3465a4"><title>Quinn (Personal)</title></circle></a><a href="/setts/s8/b11db5g4w3r3k16db28b2~x2/"><circle cx="208.2" cy="156.0" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/setts/s7/db36r4db6g18db15k18w4~x2/"><circle cx="263.9" cy="213.7" r="4" fill="#3465a4"><title>Grainger (Name)</title></circle></a><a href="/setts/s6/b12dt35lb4w3k11r5~x2/"><circle cx="220.3" cy="172.6" r="4" fill="#3465a4"><title>Ferster, James Carney (Personal)</title></circle></a><a href="/setts/s8/ly1db2ly1db12k1g6dp3w1~x4/"><circle cx="235.4" cy="144.8" r="4" fill="#3465a4"><title>Lambert, Patrice (Personal)</title></circle></a><circle cx="235.2" cy="182.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r2w2dg8g2dg2db20t8g2db15w2~x2/"><circle cx="239.8" cy="152.6" r="4" fill="#3465a4"><title>Tupper, John Charles (Personal)</title></circle></a><a href="/setts/s6/t12dp35lr4w3k11k5~x2/"><circle cx="222.8" cy="167.1" r="4" fill="#3465a4"><title>Ferster, James Carney</title></circle></a><a href="/setts/s11/k3dg2k12db4b19r3b19db4k12dg2lo3~x2/"><circle cx="192.4" cy="165.8" r="4" fill="#3465a4"><title>Loch Lomond Millenium</title></circle></a><a href="/setts/s7/r3g9y15db10k2db18w3~x2/"><circle cx="186.4" cy="201.0" r="4" fill="#3465a4"><title>Coulthard (Personal)</title></circle></a><a href="/setts/s7/db30n10y10db5r3ly3g3~x2/"><circle cx="275.5" cy="181.3" r="4" fill="#3465a4"><title>Wrigglesworth Family Canada (Personal)</title></circle></a><a href="/setts/s9/r1b8k4g1dg4g1k4b8ly1~x6/"><circle cx="200.1" cy="190.7" r="4" fill="#3465a4"><title>Quinn (Personal)</title></circle></a><a href="/setts/s8/b11db5g4w3r3k16db28b2~x2/"><circle cx="208.4" cy="156.1" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/setts/s7/db36r4db6g18db15k18w4~x2/"><circle cx="264.0" cy="213.6" r="4" fill="#3465a4"><title>Grainger (Name)</title></circle></a><a href="/setts/s6/b12dt35lb4w3k11r5~x2/"><circle cx="220.4" cy="172.6" r="4" fill="#3465a4"><title>Ferster, James Carney (Personal)</title></circle></a><a href="/setts/s8/w1dp3g6k1db12ly1db2ly1~x4/"><circle cx="235.4" cy="144.8" r="4" fill="#3465a4"><title>Lambert, Patrice (Personal)</title></circle></a><circle cx="235.3" cy="182.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db3dg10db5ly1db10k1r4w1~x4/

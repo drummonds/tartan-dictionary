@@ -20,7 +20,7 @@ WBYWY
 
 
 
-### W DO LO W LO <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">W DO LO W LO</span></span>
+### LO W LO DO W <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO W LO DO W</span></span>
 
 | Tartans |
 |---------------|

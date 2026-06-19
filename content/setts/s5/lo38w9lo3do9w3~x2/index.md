@@ -2,7 +2,7 @@
 title: "Loch Tummel Trade Tartan Tartan Number: 1751. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [WBYWY](/stripes/wbywy/) · **Stripes:** [W DO LO W LO](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">W DO LO W LO</span></span>
+**Bands:** [YWYBW](/stripes/ywybw/) · **Stripes:** [LO W LO DO W](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO W LO DO W</span></span>
 
 
 This was sourced from house-of-tartan.  It is a [5 band tartan](/bands/bands5/).
@@ -10,7 +10,7 @@ This was sourced from house-of-tartan.  It is a [5 band tartan](/bands/bands5/).
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1751
 
 ## Thread count
-LN/6 DR18 LT6 LN18 LT/76
+LT/76 LN18 LT6 DR18 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -24,7 +24,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/6 DR18 LT6 LN18 LT/76 tartan")
+![Tartan detail](tartan.png "LT/76 LN18 LT6 DR18 LN/6 tartan")
 
 ## Nearest tartans
 
@@ -43,8 +43,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/o38w9o3dr9w3~x2/"><circle cx="408.5" cy="198.3" r="4" fill="#3465a4"><title>Loch Tummel</title></circle></a><a href="/setts/s5/ly5n1ly1n12r1~x8/"><circle cx="434.0" cy="219.1" r="4" fill="#3465a4"><title>Ceredigion (Personal)</title></circle></a><a href="/setts/s5/t11ly2r1ly2r1~x4/"><circle cx="408.6" cy="208.6" r="4" fill="#3465a4"><title>Carlisle, Ancient</title></circle></a><a href="/setts/s6/lo72dt16w9dt4w5dt16~x2/"><circle cx="382.4" cy="178.8" r="4" fill="#3465a4"><title>Machair</title></circle></a><a href="/setts/s7/dy8lr29dy8lo3dy8lr8lo3~x2/"><circle cx="312.7" cy="200.3" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/setts/s5/w15dy15w15dy80r6/"><circle cx="445.8" cy="198.0" r="4" fill="#3465a4"><title>Coca Cola (Corporate)</title></circle></a><a href="/setts/s8/o31w5o2w5o4w3o2w7~x2/"><circle cx="453.2" cy="177.5" r="4" fill="#3465a4"><title>Menzies, Brown &amp; White</title></circle></a><a href="/setts/s5/w7dy7w7dy40r3~x2/"><circle cx="455.9" cy="196.8" r="4" fill="#3465a4"><title>Coca Cola</title></circle></a><a href="/setts/s7/lg60r7w10dg16lg15w3lg15~x2/"><circle cx="430.1" cy="168.7" r="4" fill="#3465a4"><title>Deer Park (Loton) (Personal)</title></circle></a><a href="/setts/s8/ly5k9ly2k7lo35r4lo35k4~x2/"><circle cx="400.4" cy="150.5" r="4" fill="#3465a4"><title>Wilbers</title></circle></a><circle cx="409.7" cy="200.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/o38w9o3dr9w3~x2/"><circle cx="408.1" cy="198.0" r="4" fill="#3465a4"><title>Loch Tummel</title></circle></a><a href="/setts/s5/ly5n1ly1n12r1~x8/"><circle cx="433.6" cy="218.8" r="4" fill="#3465a4"><title>Ceredigion (Personal)</title></circle></a><a href="/setts/s5/t11ly2r1ly2r1~x4/"><circle cx="408.1" cy="208.3" r="4" fill="#3465a4"><title>Carlisle, Ancient</title></circle></a><a href="/setts/s6/lo72dt16w9dt4w5dt16~x2/"><circle cx="382.0" cy="178.5" r="4" fill="#3465a4"><title>Machair</title></circle></a><a href="/setts/s7/dy8lr29dy8lo3dy8lr8lo3~x2/"><circle cx="312.3" cy="200.1" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/setts/s5/w15dy15w15dy80r6/"><circle cx="445.4" cy="197.5" r="4" fill="#3465a4"><title>Coca Cola (Corporate)</title></circle></a><a href="/setts/s8/o31w5o2w5o4w3o2w7~x2/"><circle cx="452.7" cy="177.1" r="4" fill="#3465a4"><title>Menzies, Brown &amp; White</title></circle></a><a href="/setts/s5/w7dy7w7dy40r3~x2/"><circle cx="455.5" cy="196.4" r="4" fill="#3465a4"><title>Coca Cola</title></circle></a><a href="/setts/s7/lg60r7w10dg16lg15w3lg15~x2/"><circle cx="429.6" cy="168.4" r="4" fill="#3465a4"><title>Deer Park (Loton) (Personal)</title></circle></a><a href="/setts/s8/ly5k9ly2k7lo35r4lo35k4~x2/"><circle cx="399.9" cy="150.2" r="4" fill="#3465a4"><title>Wilbers</title></circle></a><circle cx="409.2" cy="200.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/lo38w9lo3do9w3~x2/

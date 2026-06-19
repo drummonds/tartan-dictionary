@@ -22,6 +22,6 @@ BWKYKGBKBGKYKW
 
 | Tartans |
 |---------------|
-| [Glasgow, University of Corporate Tartan Tartan Number: 2680. Earliest known date: 2002 The official livery and promotional university tartan (STS). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/db2w2k2lo2k7g4db22k2db22g4k7lo2k2w2~x2/)|
-|![Glasgow, University of Corporate Tartan Tartan Number: 2680. Earliest known date: 2002 The official livery and promotional university tartan (STS). See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s14/db2w2k2lo2k7g4db22k2db22g4k7lo2k2w2~x2/sett.png)|
+| [Glasgow, University of Corporate Tartan Tartan Number: 2680. Earliest known date: 2002 The official livery and promotional university tartan (STS). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/k2db22g4k7lo2k2w2db2~x2/)|
+|![Glasgow, University of Corporate Tartan Tartan Number: 2680. Earliest known date: 2002 The official livery and promotional university tartan (STS). See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s14/k2db22g4k7lo2k2w2db2~x2/sett.png)|
 

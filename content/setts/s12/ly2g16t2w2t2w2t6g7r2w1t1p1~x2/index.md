@@ -2,7 +2,7 @@
 title: "Fredericton"
 date: 2023-03-18
 ---
-**Bands:** [BBWRGBWBWBGY](/stripes/bbwrgbwbwbgy/) · **Stripes:** [P T W R G T W T W T G LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">P T W R G T W T W T G LY</span></span>
+**Bands:** [YGBWBWBGRWBB](/stripes/ygbwbwbgrwbb/) · **Stripes:** [LY G T W T W T G R W T P](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">LY G T W T W T G R W T P</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-P/2 B2 LN2 R4 G14 B12 LN4 B4 LN4 B4 G32 Y/4
+Y/4 G32 B4 LN4 B4 LN4 B12 G14 R4 LN2 B2 P/2
 ![Sett](sett.png)
 
 ## Palette
@@ -919,13 +922,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Stirling University (Corporate)](/setts/s8/g22r3w1g2r3t16k3ly2~x4/) — ΔT 1.37
 1. [Highland, Green (Corporate)](/setts/s10/dp4g13db5ly3t6ly3db5n6g28w2~x2/) — ΔT 1.40
 1. [Boucherville (Tartan de..) District Tartan Tartan Number: 2119. Earliest known date: 1990 From the notes accompanying the petition for accreditation. "Les symboles ont cette remarquable propriete de reunir en une expression imagee des notions diverses. Ils refletent l'histoire, les croyances, les idealogies et les aspirations de groupes humains habitant un territoire precis. Les tisserands, c'est nous tous....!" See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/g20ly2o5w4g2o2g2o2db6~x2/) — ΔT 1.40
-1. [Snodgrass](/setts/s14/k3r1ly1t11g13t5r1ly1r1t5g13t11ly1r1~x4/) — ΔT 1.40
+1. [Snodgrass](/setts/s14/k3r1ly1t11g13t5r1ly1~x4/) — ΔT 1.40
 1. [Canadian Caledonian, hunting](/setts/s11/db3k1g13ly1r1w1r6g3r1g3w1~x2/) — ΔT 1.41
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/ly2g16t2w2t2w2t6g7r2w1t1dp1~x6/"><circle cx="240.2" cy="109.7" r="4" fill="#3465a4"><title>Fredericton #2</title></circle></a><a href="/setts/s18/y36g12y4g72k4g13k36r4k4ly4k36g13k4g72y4g12y36w4/"><circle cx="248.8" cy="99.6" r="4" fill="#3465a4"><title>Rooney (Personal)</title></circle></a><a href="/setts/s14/lr2g3lr2g12lo5g12w1dg16lo3w3g3dg2o2w1~x2/"><circle cx="182.0" cy="109.3" r="4" fill="#3465a4"><title>Malone, Keagan Allen (Personal)</title></circle></a><a href="/setts/s11/db16w3db1ly4g24r1g3r4g3r1t8~x2/"><circle cx="217.7" cy="104.0" r="4" fill="#3465a4"><title>Currie</title></circle></a><a href="/setts/s9/g20ly2y5w4g2y2g2y2b6~x2/"><circle cx="247.5" cy="157.2" r="4" fill="#3465a4"><title>Boucherville (Tartan de..)</title></circle></a><a href="/setts/s8/g22r3w1g2r3t16k3ly2~x4/"><circle cx="250.7" cy="123.9" r="4" fill="#3465a4"><title>Stirling University (Corporate)</title></circle></a><a href="/setts/s10/dp4g13db5ly3t6ly3db5n6g28w2~x2/"><circle cx="233.1" cy="128.8" r="4" fill="#3465a4"><title>Highland, Green (Corporate)</title></circle></a><a href="/setts/s9/g20ly2o5w4g2o2g2o2db6~x2/"><circle cx="258.6" cy="163.9" r="4" fill="#3465a4"><title>Boucherville (Tartan de..) District Tartan Tartan Number: 2119. Earliest known date: 1990 From the notes accompanying the petition for accreditation. &quot;Les symboles ont cette remarquable propriete de reunir en une expression imagee des notions diverses. Ils refletent l'histoire, les croyances, les idealogies et les aspirations de groupes humains habitant un territoire precis. Les tisserands, c'est nous tous....!&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/k3r1ly1t11g13t5r1ly1r1t5g13t11ly1r1~x4/"><circle cx="245.3" cy="149.6" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/setts/s11/db3k1g13ly1r1w1r6g3r1g3w1~x2/"><circle cx="260.0" cy="119.5" r="4" fill="#3465a4"><title>Canadian Caledonian, hunting</title></circle></a><circle cx="252.9" cy="116.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/ly2g16t2w2t2w2t6g7r2w1t1dp1~x6/"><circle cx="240.0" cy="109.7" r="4" fill="#3465a4"><title>Fredericton #2</title></circle></a><a href="/setts/s18/y36g12y4g72k4g13k36r4k4ly4k36g13k4g72y4g12y36w4/"><circle cx="248.5" cy="99.6" r="4" fill="#3465a4"><title>Rooney (Personal)</title></circle></a><a href="/setts/s14/lr2g3lr2g12lo5g12w1dg16lo3w3g3dg2o2w1~x2/"><circle cx="181.7" cy="109.3" r="4" fill="#3465a4"><title>Malone, Keagan Allen (Personal)</title></circle></a><a href="/setts/s11/db16w3db1ly4g24r1g3r4g3r1t8~x2/"><circle cx="217.5" cy="104.0" r="4" fill="#3465a4"><title>Currie</title></circle></a><a href="/setts/s9/g20ly2y5w4g2y2g2y2b6~x2/"><circle cx="247.2" cy="157.1" r="4" fill="#3465a4"><title>Boucherville (Tartan de..)</title></circle></a><a href="/setts/s8/g22r3w1g2r3t16k3ly2~x4/"><circle cx="250.5" cy="124.0" r="4" fill="#3465a4"><title>Stirling University (Corporate)</title></circle></a><a href="/setts/s10/dp4g13db5ly3t6ly3db5n6g28w2~x2/"><circle cx="233.0" cy="128.8" r="4" fill="#3465a4"><title>Highland, Green (Corporate)</title></circle></a><a href="/setts/s9/g20ly2o5w4g2o2g2o2db6~x2/"><circle cx="258.4" cy="163.8" r="4" fill="#3465a4"><title>Boucherville (Tartan de..) District Tartan Tartan Number: 2119. Earliest known date: 1990 From the notes accompanying the petition for accreditation. &quot;Les symboles ont cette remarquable propriete de reunir en une expression imagee des notions diverses. Ils refletent l'histoire, les croyances, les idealogies et les aspirations de groupes humains habitant un territoire precis. Les tisserands, c'est nous tous....!&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/k3r1ly1t11g13t5r1ly1~x4/"><circle cx="245.1" cy="149.6" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/setts/s11/db3k1g13ly1r1w1r6g3r1g3w1~x2/"><circle cx="259.7" cy="119.4" r="4" fill="#3465a4"><title>Canadian Caledonian, hunting</title></circle></a><circle cx="252.6" cy="116.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/ly2g16t2w2t2w2t6g7r2w1t1p1~x2/

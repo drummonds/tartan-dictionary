@@ -8,7 +8,7 @@ BBKGKY
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/ly3k1g20k20db18t3~x2/tartan.png)
+![Woven sample](/setts/s6/t3db18k20g20k1ly3~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ BBKGKY
 
 
 
-### T DB K G K LY <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">T DB K G K LY</span></span>
+### LY K G K DB T <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY K G K DB T</span></span>
 
 | Tartans |
 |---------------|
-| [Smith, Sir William (?)](/setts/s6/ly3k1g20k20db18t3~x2/)|
-|![Smith, Sir William (?) example sett](/setts/s6/ly3k1g20k20db18t3~x2/sett.png)|
+| [Smith, Sir William (?)](/setts/s6/t3db18k20g20k1ly3~x2/)|
+|![Smith, Sir William (?) example sett](/setts/s6/t3db18k20g20k1ly3~x2/sett.png)|
 

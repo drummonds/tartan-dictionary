@@ -21,14 +21,14 @@ BBBBBY
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB T DB T DB LY <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB T DB T DB LY</span></span>
+### LY DB T DB T DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB T DB T DB</span></span>
 
 | Tartans |
 |---------------|
 | [Sultan of Qaboo's Air Force](/setts/s6/db24t6db10t6db32ly3~x2/)|
 |![Sultan of Qaboo's Air Force example sett](/setts/s6/db24t6db10t6db32ly3~x2/sett.png)|
 
-### DO DB DO DB DO LY <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DO DB DO DB DO LY</span></span>
+### LY DO DB DO DB DO <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="seq">LY DO DB DO DB DO</span></span>
 
 | Tartans |
 |---------------|

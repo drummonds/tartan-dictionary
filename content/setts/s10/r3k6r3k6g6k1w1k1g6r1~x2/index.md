@@ -2,12 +2,18 @@
 title: "MacDiarmid"
 date: 2023-03-18
 ---
-**Bands:** [RGKWKGKRKR](/stripes/rgkwkgkrkr/) · **Stripes:** [R G K W K G K R K R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G K W K G K R K R</span></span>
+**Bands:** [RKRKGKWKGR](/stripes/rkrkgkwkgr/) · **Stripes:** [R K R K G K W K G R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K G K W K G R</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacDiarmid #3
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-R/2 G12 K2 LN2 K2 G12 K12 R6 K12 R/6
+R/6 K12 R6 K12 G12 K2 LN2 K2 G12 R/2
 ![Sett](sett.png)
 
 ## Palette
@@ -904,7 +913,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Martin](/setts/s9/ly8g16k6g6k6g6k16r21k5/) — ΔT 0.91
 1. [Wilson's, No 108](/setts/s8/k7g7k1g7k7t1p7k1~x4/) — ΔT 1.06
-1. [Walker, James](/setts/s6/g2r4k6t1g7k2~x4/) — ΔT 1.14
+1. [Walker, James](/setts/s6/k2g7t1k6r4g2~x4/) — ΔT 1.14
 1. [Sackett (Name)](/setts/s10/k8dg8k1dg8lr1k8o8k1o8k8~x4/) — ΔT 1.22
 1. [MacDonald 6](/setts/s12/k6r1k1r4k7r1k7g6r5g1r1g5~x2/) — ΔT 1.23
 1. [MacDiarmid #3](/setts/s10/r3k6r3k6dg6k1w1k1dg6r1~x2/) — ΔT 1.24
@@ -915,8 +924,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/ly8g16k6g6k6g6k16r21k5/"><circle cx="97.6" cy="238.2" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/setts/s8/k7g7k1g7k7t1p7k1~x4/"><circle cx="163.6" cy="228.6" r="4" fill="#3465a4"><title>Wilson's, No 108</title></circle></a><a href="/setts/s6/g2r4k6t1g7k2~x4/"><circle cx="157.8" cy="236.7" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/setts/s10/k8dg8k1dg8lr1k8o8k1o8k8~x4/"><circle cx="172.4" cy="227.5" r="4" fill="#3465a4"><title>Sackett (Name)</title></circle></a><a href="/setts/s12/k6r1k1r4k7r1k7g6r5g1r1g5~x2/"><circle cx="200.1" cy="217.2" r="4" fill="#3465a4"><title>MacDonald 6</title></circle></a><a href="/setts/s10/r3k6r3k6dg6k1w1k1dg6r1~x2/"><circle cx="180.3" cy="223.9" r="4" fill="#3465a4"><title>MacDiarmid #3</title></circle></a><a href="/setts/s7/g6r2g13k6w2k16r3~x2/"><circle cx="203.1" cy="215.9" r="4" fill="#3465a4"><title>Sinclair, hunting</title></circle></a><a href="/setts/s7/g24k4g24k24t7r24t7~x2/"><circle cx="137.0" cy="241.8" r="4" fill="#3465a4"><title>Unidentified, Pinafore</title></circle></a><a href="/setts/s7/k6g6ly1g6k6p6k1~x4/"><circle cx="137.4" cy="250.6" r="4" fill="#3465a4"><title>Abercrombie, (Wilson's No 64)</title></circle></a><a href="/setts/s13/g8ly2g2k6g11r2k12k12r2k6ly2k4r3~x2/"><circle cx="93.7" cy="183.0" r="4" fill="#3465a4"><title>Mandela, Commemorative</title></circle></a><circle cx="148.6" cy="212.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/ly8g16k6g6k6g6k16r21k5/"><circle cx="97.8" cy="238.1" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/setts/s8/k7g7k1g7k7t1p7k1~x4/"><circle cx="163.8" cy="228.5" r="4" fill="#3465a4"><title>Wilson's, No 108</title></circle></a><a href="/setts/s6/k2g7t1k6r4g2~x4/"><circle cx="158.0" cy="236.6" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/setts/s10/k8dg8k1dg8lr1k8o8k1o8k8~x4/"><circle cx="172.6" cy="227.4" r="4" fill="#3465a4"><title>Sackett (Name)</title></circle></a><a href="/setts/s12/k6r1k1r4k7r1k7g6r5g1r1g5~x2/"><circle cx="200.1" cy="217.1" r="4" fill="#3465a4"><title>MacDonald 6</title></circle></a><a href="/setts/s10/r3k6r3k6dg6k1w1k1dg6r1~x2/"><circle cx="180.4" cy="223.9" r="4" fill="#3465a4"><title>MacDiarmid #3</title></circle></a><a href="/setts/s7/g6r2g13k6w2k16r3~x2/"><circle cx="203.3" cy="215.8" r="4" fill="#3465a4"><title>Sinclair, hunting</title></circle></a><a href="/setts/s7/g24k4g24k24t7r24t7~x2/"><circle cx="137.1" cy="241.7" r="4" fill="#3465a4"><title>Unidentified, Pinafore</title></circle></a><a href="/setts/s7/k6g6ly1g6k6p6k1~x4/"><circle cx="137.6" cy="250.4" r="4" fill="#3465a4"><title>Abercrombie, (Wilson's No 64)</title></circle></a><a href="/setts/s13/g8ly2g2k6g11r2k12k12r2k6ly2k4r3~x2/"><circle cx="93.9" cy="183.0" r="4" fill="#3465a4"><title>Mandela, Commemorative</title></circle></a><circle cx="148.7" cy="212.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r3k6r3k6g6k1w1k1g6r1~x2/

@@ -42,7 +42,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Amazing Union (Personal)](/setts/s9/o2dy15dg12dy2dt12dy2dg12dy15r2~x4/) — ΔT 1.14
+1. [Amazing Union (Personal)](/setts/s9/r2dy15dg12dy2dt12dy2dg12dy15o2~x4/) — ΔT 1.14
 1. [de Vere-Austin (Clan)](/setts/s11/dg14k8dg21k2lo5k2dg21k11db18k2r5~x2/) — ΔT 1.15
 1. [Duchess of York (Fashion)](/setts/s9/db2dy18dg10dy1k10dy2dg10dy18w2~x2/) — ΔT 1.24
 1. [MacConnell](/setts/s10/dt20dg6dt6lb2dg20r8dg6r4dg10lr3~x2/) — ΔT 1.40
@@ -50,13 +50,13 @@ The nearest existing variants by ΔTartan distance.
 1. [MacKinnon Hunting](/setts/s7/dg1dr8dg8r1dg8dr8lr1~x2/) — ΔT 1.45
 1. [Scottish Pup](/setts/s8/dg8do2dg13db4dg12n22dg5ly3~x2/) — ΔT 1.53
 1. [Glasgow Cathedral 2000](/setts/s10/dg22r3dt10b2dt10r21dg22r3ly2dt2~x2/) — ΔT 1.53
-1. [MacSween Hunting (Lochs, Isle of Lewis) (Personal)](/setts/s7/dg3r3dg31dg18dg4k22lo3/) — ΔT 1.55
-1. [Vass (Personal)](/setts/s8/db6w1y6dy12r2dy12y6w1~x4/) — ΔT 1.60
+1. [MacSween Hunting (Lochs, Isle of Lewis) (Personal)](/setts/s7/dg3r3dg31dg18dg4k22lo3/) — ΔT 1.54
+1. [Vass (Personal)](/setts/s8/db6w1y6dy12r2~x4/) — ΔT 1.60
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/o2dy15dg12dy2dt12dy2dg12dy15r2~x4/"><circle cx="270.9" cy="242.3" r="4" fill="#3465a4"><title>Amazing Union (Personal)</title></circle></a><a href="/setts/s11/dg14k8dg21k2lo5k2dg21k11db18k2r5~x2/"><circle cx="302.8" cy="233.1" r="4" fill="#3465a4"><title>de Vere-Austin (Clan)</title></circle></a><a href="/setts/s9/db2dy18dg10dy1k10dy2dg10dy18w2~x2/"><circle cx="334.1" cy="201.2" r="4" fill="#3465a4"><title>Duchess of York (Fashion)</title></circle></a><a href="/setts/s10/dt20dg6dt6lb2dg20r8dg6r4dg10lr3~x2/"><circle cx="278.9" cy="224.9" r="4" fill="#3465a4"><title>MacConnell</title></circle></a><a href="/setts/s7/dg1dr8dg8r1dg8dr8lr1~x4/"><circle cx="361.8" cy="281.8" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/setts/s7/dg1dr8dg8r1dg8dr8lr1~x2/"><circle cx="361.8" cy="281.8" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/setts/s8/dg8do2dg13db4dg12n22dg5ly3~x2/"><circle cx="358.2" cy="250.1" r="4" fill="#3465a4"><title>Scottish Pup</title></circle></a><a href="/setts/s10/dg22r3dt10b2dt10r21dg22r3ly2dt2~x2/"><circle cx="271.9" cy="201.2" r="4" fill="#3465a4"><title>Glasgow Cathedral 2000</title></circle></a><a href="/setts/s7/dg3r3dg31dg18dg4k22lo3/"><circle cx="277.4" cy="229.3" r="4" fill="#3465a4"><title>MacSween Hunting (Lochs, Isle of Lewis) (Personal)</title></circle></a><a href="/setts/s8/db6w1y6dy12r2dy12y6w1~x4/"><circle cx="293.3" cy="211.4" r="4" fill="#3465a4"><title>Vass (Personal)</title></circle></a><circle cx="327.8" cy="239.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r2dy15dg12dy2dt12dy2dg12dy15o2~x4/"><circle cx="270.9" cy="242.5" r="4" fill="#3465a4"><title>Amazing Union (Personal)</title></circle></a><a href="/setts/s11/dg14k8dg21k2lo5k2dg21k11db18k2r5~x2/"><circle cx="302.9" cy="233.2" r="4" fill="#3465a4"><title>de Vere-Austin (Clan)</title></circle></a><a href="/setts/s9/db2dy18dg10dy1k10dy2dg10dy18w2~x2/"><circle cx="334.0" cy="201.3" r="4" fill="#3465a4"><title>Duchess of York (Fashion)</title></circle></a><a href="/setts/s10/dt20dg6dt6lb2dg20r8dg6r4dg10lr3~x2/"><circle cx="279.0" cy="225.0" r="4" fill="#3465a4"><title>MacConnell</title></circle></a><a href="/setts/s7/dg1dr8dg8r1dg8dr8lr1~x4/"><circle cx="361.8" cy="281.9" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/setts/s7/dg1dr8dg8r1dg8dr8lr1~x2/"><circle cx="361.8" cy="281.9" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/setts/s8/dg8do2dg13db4dg12n22dg5ly3~x2/"><circle cx="358.1" cy="250.2" r="4" fill="#3465a4"><title>Scottish Pup</title></circle></a><a href="/setts/s10/dg22r3dt10b2dt10r21dg22r3ly2dt2~x2/"><circle cx="271.8" cy="201.3" r="4" fill="#3465a4"><title>Glasgow Cathedral 2000</title></circle></a><a href="/setts/s7/dg3r3dg31dg18dg4k22lo3/"><circle cx="277.4" cy="229.4" r="4" fill="#3465a4"><title>MacSween Hunting (Lochs, Isle of Lewis) (Personal)</title></circle></a><a href="/setts/s8/db6w1y6dy12r2~x4/"><circle cx="293.2" cy="211.4" r="4" fill="#3465a4"><title>Vass (Personal)</title></circle></a><circle cx="327.8" cy="239.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/db1dy9dg5dy1k5dy1dg5dy9w1~x2/

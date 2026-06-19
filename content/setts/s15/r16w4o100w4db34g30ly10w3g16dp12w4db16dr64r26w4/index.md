@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 R26 DR64 B16 LN4 DP12 G16 LN3 Y10 G30 B34 LN4 LT100 LN4 R/16
+R/16 LN4 LT100 LN4 B34 G30 Y10 LN3 G16 DP12 LN4 B16 DR64 R26 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -909,18 +912,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Culloden, Worn by Pr Charles](/setts/s15/b17g15ly5w2g8dp6w2db8dr32r18w2r8w2o50w2~x2/) — ΔT 1.00
 1. [Culloden Worn by Pr Charles](/setts/s15/b17dg15ly5w2dg8dp6w2db8dy32r18w2r8w2dy50w2~x2/) — ΔT 1.07
 1. [British Airways (Corporate)](/setts/s15/ly2y2dg20t2r2t2r10t2r2t2db20r2r1db2w1~x2/) — ΔT 1.34
-1. [Unnamed C18th - Prince Charles Edward](/setts/s28/r16w4dy100w4db34g30ly10w3g16dp12w4db16do64r26w4r26do64db16w4dp12g16w3ly10g30db34w4dy100w4/) — ΔT 1.36
+1. [Unnamed C18th - Prince Charles Edward](/setts/s28/r16w4dy100w4db34g30ly10w3g16dp12w4db16do64r26w4/) — ΔT 1.36
 1. [Stuart / Stewart, Plaid](/setts/s15/r6w2o40w2t14g14ly3w2g6p6ly2t6p30r12w2~x2/) — ΔT 1.40
-1. [Wirth, Iwan (Personal)](/setts/s25/do96lr40dg8o13r1do13w4r5lr10dg39o15w18r3lo1w22dg14o8r5w4do13lo1o8dg8o40dg14~x2/) — ΔT 1.42
-1. [Wirth, Iwan (Personal)](/setts/s25/do96o40dg8dy13r1do13w4r5o10dg39dy15w18r3ly1w22dg14dy8r5w4ly1do13dy8dg8dy40dg14~x2/) — ΔT 1.46
+1. [Wirth, Iwan (Personal)](/setts/s25/do96lr40dg8o13r1do13w4r5lr10dg39o15w18r3lo1w22dg14o8r5w4do13lo1o8dg8o40dg14/) — ΔT 1.42
+1. [Wirth, Iwan (Personal)](/setts/s25/do96o40dg8dy13r1do13w4r5o10dg39dy15w18r3ly1w22dg14dy8r5w4ly1do13dy8dg8dy40dg14/) — ΔT 1.46
 1. [Stuart/Stewart Plaid](/setts/s15/r6w2dy40w2t14dg14ly3w2dg6dp6ly2t6dp30r12w2~x2/) — ΔT 1.47
-1. [Rosalyn (Fashion)](/setts/s22/b16k2r4k2b1k16r16k2o4k2r16k16lo50k2o16k2g4k2o16k2y50k16/) — ΔT 1.50
+1. [Rosalyn (Fashion)](/setts/s22/k16y50k2o16k2g4k2o16k2lo50k16r16k2o4k2r16k16b1k2r4k2b16~x2/) — ΔT 1.50
 1. [Dundee #3](/setts/s14/r42m2k15m2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6~x2/) — ΔT 1.50
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/b17g15ly5w2g8dp6w2db8dr32r18w2r8w2o50w2~x2/"><circle cx="75.3" cy="32.2" r="4" fill="#3465a4"><title>Culloden, Worn by Pr Charles</title></circle></a><a href="/setts/s15/b17dg15ly5w2dg8dp6w2db8dy32r18w2r8w2dy50w2~x2/"><circle cx="67.7" cy="34.6" r="4" fill="#3465a4"><title>Culloden Worn by Pr Charles</title></circle></a><a href="/setts/s15/ly2y2dg20t2r2t2r10t2r2t2db20r2r1db2w1~x2/"><circle cx="126.8" cy="52.5" r="4" fill="#3465a4"><title>British Airways (Corporate)</title></circle></a><a href="/setts/s28/r16w4dy100w4db34g30ly10w3g16dp12w4db16do64r26w4r26do64db16w4dp12g16w3ly10g30db34w4dy100w4/"><circle cx="115.0" cy="22.5" r="4" fill="#3465a4"><title>Unnamed C18th - Prince Charles Edward</title></circle></a><a href="/setts/s15/r6w2o40w2t14g14ly3w2g6p6ly2t6p30r12w2~x2/"><circle cx="112.7" cy="70.1" r="4" fill="#3465a4"><title>Stuart / Stewart, Plaid</title></circle></a><a href="/setts/s25/do96lr40dg8o13r1do13w4r5lr10dg39o15w18r3lo1w22dg14o8r5w4do13lo1o8dg8o40dg14~x2/"><circle cx="121.2" cy="14.0" r="4" fill="#3465a4"><title>Wirth, Iwan (Personal)</title></circle></a><a href="/setts/s25/do96o40dg8dy13r1do13w4r5o10dg39dy15w18r3ly1w22dg14dy8r5w4ly1do13dy8dg8dy40dg14~x2/"><circle cx="121.0" cy="14.0" r="4" fill="#3465a4"><title>Wirth, Iwan (Personal)</title></circle></a><a href="/setts/s15/r6w2dy40w2t14dg14ly3w2dg6dp6ly2t6dp30r12w2~x2/"><circle cx="106.6" cy="70.3" r="4" fill="#3465a4"><title>Stuart/Stewart Plaid</title></circle></a><a href="/setts/s22/b16k2r4k2b1k16r16k2o4k2r16k16lo50k2o16k2g4k2o16k2y50k16/"><circle cx="124.5" cy="18.8" r="4" fill="#3465a4"><title>Rosalyn (Fashion)</title></circle></a><a href="/setts/s14/r42m2k15m2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6~x2/"><circle cx="122.7" cy="34.5" r="4" fill="#3465a4"><title>Dundee #3</title></circle></a><circle cx="114.7" cy="40.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/b17g15ly5w2g8dp6w2db8dr32r18w2r8w2o50w2~x2/"><circle cx="75.2" cy="32.6" r="4" fill="#3465a4"><title>Culloden, Worn by Pr Charles</title></circle></a><a href="/setts/s15/b17dg15ly5w2dg8dp6w2db8dy32r18w2r8w2dy50w2~x2/"><circle cx="67.7" cy="35.0" r="4" fill="#3465a4"><title>Culloden Worn by Pr Charles</title></circle></a><a href="/setts/s15/ly2y2dg20t2r2t2r10t2r2t2db20r2r1db2w1~x2/"><circle cx="126.7" cy="52.8" r="4" fill="#3465a4"><title>British Airways (Corporate)</title></circle></a><a href="/setts/s28/r16w4dy100w4db34g30ly10w3g16dp12w4db16do64r26w4/"><circle cx="114.9" cy="22.9" r="4" fill="#3465a4"><title>Unnamed C18th - Prince Charles Edward</title></circle></a><a href="/setts/s15/r6w2o40w2t14g14ly3w2g6p6ly2t6p30r12w2~x2/"><circle cx="112.5" cy="70.4" r="4" fill="#3465a4"><title>Stuart / Stewart, Plaid</title></circle></a><a href="/setts/s25/do96lr40dg8o13r1do13w4r5lr10dg39o15w18r3lo1w22dg14o8r5w4do13lo1o8dg8o40dg14/"><circle cx="121.0" cy="14.0" r="4" fill="#3465a4"><title>Wirth, Iwan (Personal)</title></circle></a><a href="/setts/s25/do96o40dg8dy13r1do13w4r5o10dg39dy15w18r3ly1w22dg14dy8r5w4ly1do13dy8dg8dy40dg14/"><circle cx="120.8" cy="14.0" r="4" fill="#3465a4"><title>Wirth, Iwan (Personal)</title></circle></a><a href="/setts/s15/r6w2dy40w2t14dg14ly3w2dg6dp6ly2t6dp30r12w2~x2/"><circle cx="106.5" cy="70.6" r="4" fill="#3465a4"><title>Stuart/Stewart Plaid</title></circle></a><a href="/setts/s22/k16y50k2o16k2g4k2o16k2lo50k16r16k2o4k2r16k16b1k2r4k2b16~x2/"><circle cx="124.3" cy="19.2" r="4" fill="#3465a4"><title>Rosalyn (Fashion)</title></circle></a><a href="/setts/s14/r42m2k15m2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6~x2/"><circle cx="122.6" cy="34.8" r="4" fill="#3465a4"><title>Dundee #3</title></circle></a><circle cx="114.6" cy="40.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/r16w4o100w4db34g30ly10w3g16dp12w4db16dr64r26w4/

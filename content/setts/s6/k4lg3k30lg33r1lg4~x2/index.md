@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/
 Original link http://www.tartansauthority.com/tartan-ferret/display/4092/
 
 ## Thread count
-Ba/8 R2 Ba66 K60 B6 K/8
+K/8 B6 K60 Ba66 R2 Ba/8
 ![Sett](sett.png)
 
 ## Palette
@@ -25,7 +25,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "Ba/8 R2 Ba66 K60 B6 K/8 tartan")
+![Tartan detail](tartan.png "K/8 B6 K60 Ba66 R2 Ba/8 tartan")
 
 ## Nearest tartans
 
@@ -38,14 +38,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Nynashamn Whisky Society (Corporate)](/setts/s6/ly21g26db62w2dg2w2/) — ΔT 1.27
 1. [Longniddry Blue (Dance)](/setts/s8/dt42lb2lb2lb2dt5dt12lb32dt4~x2/) — ΔT 1.27
 1. [MacRobart](/setts/s6/db72k21g16t3g17t3~x2/) — ΔT 1.32
-1. [George Heriots](/setts/s5/ly3k1o24k35w3~x2/) — ΔT 1.32
+1. [George Heriots](/setts/s5/w3k35o24k1ly3~x2/) — ΔT 1.32
 1. [Micron](/setts/s6/k30b40ly3b5w2b6~x2/) — ΔT 1.35
 1. [Unidentified Furnishing #2](/setts/s6/r4g40k21lo2k21g2~x2/) — ΔT 1.37
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/lg33r1lg4r1lg33k30ly3k4ly3k30~x2/"><circle cx="304.0" cy="128.7" r="4" fill="#3465a4"><title>Intergen</title></circle></a><a href="/setts/s5/r3k1b27k27w3~x2/"><circle cx="303.9" cy="174.1" r="4" fill="#3465a4"><title>Bro-Spirit of Northmen (Corporate)</title></circle></a><a href="/setts/s5/g30w8db32ly1db8~x2/"><circle cx="305.5" cy="180.5" r="4" fill="#3465a4"><title>Wimbledon</title></circle></a><a href="/setts/s7/k4w1lb2w1k16t36lb4~x2/"><circle cx="349.3" cy="123.2" r="4" fill="#3465a4"><title>NHS Grampian (Corporate)</title></circle></a><a href="/setts/s6/ly21g26db62w2dg2w2/"><circle cx="301.3" cy="128.3" r="4" fill="#3465a4"><title>Nynashamn Whisky Society (Corporate)</title></circle></a><a href="/setts/s8/dt42lb2lb2lb2dt5dt12lb32dt4~x2/"><circle cx="287.5" cy="139.5" r="4" fill="#3465a4"><title>Longniddry Blue (Dance)</title></circle></a><a href="/setts/s6/db72k21g16t3g17t3~x2/"><circle cx="327.8" cy="172.9" r="4" fill="#3465a4"><title>MacRobart</title></circle></a><a href="/setts/s5/ly3k1o24k35w3~x2/"><circle cx="343.3" cy="150.8" r="4" fill="#3465a4"><title>George Heriots</title></circle></a><a href="/setts/s6/k30b40ly3b5w2b6~x2/"><circle cx="355.6" cy="175.2" r="4" fill="#3465a4"><title>Micron</title></circle></a><a href="/setts/s6/r4g40k21lo2k21g2~x2/"><circle cx="298.7" cy="185.3" r="4" fill="#3465a4"><title>Unidentified Furnishing #2</title></circle></a><circle cx="323.5" cy="147.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/lg33r1lg4r1lg33k30ly3k4ly3k30~x2/"><circle cx="303.9" cy="128.5" r="4" fill="#3465a4"><title>Intergen</title></circle></a><a href="/setts/s5/r3k1b27k27w3~x2/"><circle cx="303.9" cy="173.9" r="4" fill="#3465a4"><title>Bro-Spirit of Northmen (Corporate)</title></circle></a><a href="/setts/s5/g30w8db32ly1db8~x2/"><circle cx="305.4" cy="180.3" r="4" fill="#3465a4"><title>Wimbledon</title></circle></a><a href="/setts/s7/k4w1lb2w1k16t36lb4~x2/"><circle cx="349.1" cy="123.0" r="4" fill="#3465a4"><title>NHS Grampian (Corporate)</title></circle></a><a href="/setts/s6/ly21g26db62w2dg2w2/"><circle cx="301.2" cy="128.1" r="4" fill="#3465a4"><title>Nynashamn Whisky Society (Corporate)</title></circle></a><a href="/setts/s8/dt42lb2lb2lb2dt5dt12lb32dt4~x2/"><circle cx="287.3" cy="139.3" r="4" fill="#3465a4"><title>Longniddry Blue (Dance)</title></circle></a><a href="/setts/s6/db72k21g16t3g17t3~x2/"><circle cx="327.8" cy="172.8" r="4" fill="#3465a4"><title>MacRobart</title></circle></a><a href="/setts/s5/w3k35o24k1ly3~x2/"><circle cx="343.2" cy="150.5" r="4" fill="#3465a4"><title>George Heriots</title></circle></a><a href="/setts/s6/k30b40ly3b5w2b6~x2/"><circle cx="355.6" cy="175.0" r="4" fill="#3465a4"><title>Micron</title></circle></a><a href="/setts/s6/r4g40k21lo2k21g2~x2/"><circle cx="298.8" cy="185.1" r="4" fill="#3465a4"><title>Unidentified Furnishing #2</title></circle></a><circle cx="323.4" cy="147.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k4lg3k30lg33r1lg4~x2/

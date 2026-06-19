@@ -13,13 +13,23 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Variants
 
@@ -55,7 +65,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Campbell, The White Stripe](/setts/s6/db2k2db12k11g12w2~x2/) — ΔT 0.88
 1. [Murray](/setts/s6/db2k2db12k8g11r2~x2/) — ΔT 0.89
 1. [Flower of Scotland](/setts/s6/db3g28db3k16db28r3/) — ΔT 0.93
-1. [Unnamed, No 59](/setts/s6/t1db11k11g11k2t1~x2/) — ΔT 0.94
+1. [Unnamed, No 59](/setts/s6/t1db11k11g11k2t1~x2/) — ΔT 0.95
 1. [Unnamed, No 26](/setts/s6/w4db4g22k20db20w3/) — ΔT 0.96
 1. [Herd/Hurd](/setts/s6/db3g12k13w2db13w3~x2/) — ΔT 0.96
 1. [Frobo Nairn](/setts/s5/r2db9k5g6db1~x4/) — ΔT 1.01
@@ -63,8 +73,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k4lb2dg8db8lb1/"><circle cx="135.6" cy="243.1" r="4" fill="#3465a4"><title>Douglas Green</title></circle></a><a href="/setts/s6/w1db9k9g9k2w1~x4/"><circle cx="146.3" cy="216.7" r="4" fill="#3465a4"><title>MacNeil 1</title></circle></a><a href="/setts/s6/db2k2db12k11g12w2~x2/"><circle cx="129.5" cy="236.0" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><a href="/setts/s6/db2k2db12k8g11r2~x2/"><circle cx="152.2" cy="240.1" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s6/db3g28db3k16db28r3/"><circle cx="207.0" cy="216.1" r="4" fill="#3465a4"><title>Flower of Scotland</title></circle></a><a href="/setts/s6/t1db11k11g11k2t1~x2/"><circle cx="167.4" cy="212.4" r="4" fill="#3465a4"><title>Unnamed, No 59</title></circle></a><a href="/setts/s6/w4db4g22k20db20w3/"><circle cx="118.0" cy="224.4" r="4" fill="#3465a4"><title>Unnamed, No 26</title></circle></a><a href="/setts/s6/db3g12k13w2db13w3~x2/"><circle cx="126.1" cy="236.4" r="4" fill="#3465a4"><title>Herd/Hurd</title></circle></a><a href="/setts/s5/r2db9k5g6db1~x4/"><circle cx="186.1" cy="247.6" r="4" fill="#3465a4"><title>Frobo Nairn</title></circle></a><a href="/setts/s5/k2g12k11db12w1~x2/"><circle cx="161.0" cy="227.3" r="4" fill="#3465a4"><title>MacKirdy</title></circle></a><circle cx="167.9" cy="233.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k4lb2dg8db8lb1/"><circle cx="135.9" cy="243.1" r="4" fill="#3465a4"><title>Douglas Green</title></circle></a><a href="/setts/s6/w1db9k9g9k2w1~x4/"><circle cx="146.6" cy="216.6" r="4" fill="#3465a4"><title>MacNeil 1</title></circle></a><a href="/setts/s6/db2k2db12k11g12w2~x2/"><circle cx="129.7" cy="236.0" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><a href="/setts/s6/db2k2db12k8g11r2~x2/"><circle cx="152.4" cy="240.0" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s6/db3g28db3k16db28r3/"><circle cx="207.2" cy="216.0" r="4" fill="#3465a4"><title>Flower of Scotland</title></circle></a><a href="/setts/s6/t1db11k11g11k2t1~x2/"><circle cx="167.6" cy="212.4" r="4" fill="#3465a4"><title>Unnamed, No 59</title></circle></a><a href="/setts/s6/w4db4g22k20db20w3/"><circle cx="118.2" cy="224.4" r="4" fill="#3465a4"><title>Unnamed, No 26</title></circle></a><a href="/setts/s6/db3g12k13w2db13w3~x2/"><circle cx="126.3" cy="236.3" r="4" fill="#3465a4"><title>Herd/Hurd</title></circle></a><a href="/setts/s5/r2db9k5g6db1~x4/"><circle cx="186.4" cy="247.5" r="4" fill="#3465a4"><title>Frobo Nairn</title></circle></a><a href="/setts/s5/k2g12k11db12w1~x2/"><circle cx="161.3" cy="227.2" r="4" fill="#3465a4"><title>MacKirdy</title></circle></a><circle cx="168.2" cy="233.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/k2lb2dg8db8lb1/

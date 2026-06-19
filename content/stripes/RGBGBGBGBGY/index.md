@@ -23,13 +23,13 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Bruce of Crionaich (Personal)](/setts/s11/ly1dg8db2dg2db6dg1db6dg2db2dg8r1~x4/)|
-|![Bruce of Crionaich (Personal) example sett](/setts/s11/ly1dg8db2dg2db6dg1db6dg2db2dg8r1~x4/sett.png)|
+| [Bruce of Crionaich (Personal)](/setts/s11/r1dg8db2dg2db6dg1db6dg2db2dg8ly1~x4/)|
+|![Bruce of Crionaich (Personal) example sett](/setts/s11/r1dg8db2dg2db6dg1db6dg2db2dg8ly1~x4/sett.png)|
 
 ### R G DB G DB G DB G DB G LY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R G DB G DB G DB G DB G LY</span></span>
 
 | Tartans |
 |---------------|
-| [Bruce of Crionaich (Personal)](/setts/s11/ly1g8db2g2db6g1db6g2db2g8r1~x4/)|
-|![Bruce of Crionaich (Personal) example sett](/setts/s11/ly1g8db2g2db6g1db6g2db2g8r1~x4/sett.png)|
+| [Bruce of Crionaich (Personal)](/setts/s11/r1g8db2g2db6g1db6g2db2g8ly1~x4/)|
+|![Bruce of Crionaich (Personal) example sett](/setts/s11/r1g8db2g2db6g1db6g2db2g8ly1~x4/sett.png)|
 

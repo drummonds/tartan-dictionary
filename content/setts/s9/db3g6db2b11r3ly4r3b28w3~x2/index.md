@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=167
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Bains of Caithness
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -45,7 +51,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [World Peace (Fashion)](/setts/s11/dp8g8w3g8dp8w3b40r3k3b40w3~x2/) — ΔT 0.61
 1. [Fife (Mann)](/setts/s12/b2w1b12lo3b7dy2lo1b2k1g4w1b2~x4/) — ΔT 1.03
-1. [Scotia](/setts/s9/ly4db8r3db14w18o4g28db58w4/) — ΔT 1.14
+1. [Scotia](/setts/s9/w4db58g28o4w18db14r3db8ly4/) — ΔT 1.14
 1. [Lambert Dress (Personal)](/setts/s14/b34g10b5r2k8dy2w3dy2k8r2b5g10b28k3~x2/) — ΔT 1.18
 1. [Yes Scotland (Fashion)](/setts/s8/o12g4dp4g4o31dt3db12w4~x2/) — ΔT 1.23
 1. [Yukon](/setts/s11/t20dp4r4w4g4ly4t4ly1t2ly1t20~x4/) — ΔT 1.27
@@ -56,8 +62,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dp8g8w3g8dp8w3b40r3k3b40w3~x2/"><circle cx="319.3" cy="128.6" r="4" fill="#3465a4"><title>World Peace (Fashion)</title></circle></a><a href="/setts/s12/b2w1b12lo3b7dy2lo1b2k1g4w1b2~x4/"><circle cx="326.7" cy="147.1" r="4" fill="#3465a4"><title>Fife (Mann)</title></circle></a><a href="/setts/s9/ly4db8r3db14w18o4g28db58w4/"><circle cx="274.2" cy="117.0" r="4" fill="#3465a4"><title>Scotia</title></circle></a><a href="/setts/s14/b34g10b5r2k8dy2w3dy2k8r2b5g10b28k3~x2/"><circle cx="293.5" cy="118.8" r="4" fill="#3465a4"><title>Lambert Dress (Personal)</title></circle></a><a href="/setts/s8/o12g4dp4g4o31dt3db12w4~x2/"><circle cx="266.3" cy="155.3" r="4" fill="#3465a4"><title>Yes Scotland (Fashion)</title></circle></a><a href="/setts/s11/t20dp4r4w4g4ly4t4ly1t2ly1t20~x4/"><circle cx="356.2" cy="116.6" r="4" fill="#3465a4"><title>Yukon</title></circle></a><a href="/setts/s8/ly4db24t5g2db3k5t33r2~x2/"><circle cx="251.3" cy="128.4" r="4" fill="#3465a4"><title>Los Angeles</title></circle></a><a href="/setts/s9/b49lb11lo7k16lb5b20lb10k6t5~x2/"><circle cx="213.8" cy="153.0" r="4" fill="#3465a4"><title>State Seal of Louisiana (Fashion)</title></circle></a><a href="/setts/s12/b20g3ly3b3r7g6b3k12b3k3b24w3~x2/"><circle cx="243.0" cy="153.1" r="4" fill="#3465a4"><title>Bhoyrub (Personal)</title></circle></a><a href="/setts/s11/dp8dg8w3dg8dp8w3lb40r3k3lb40w3~x2/"><circle cx="293.0" cy="105.9" r="4" fill="#3465a4"><title>World Peace</title></circle></a><circle cx="308.8" cy="137.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dp8g8w3g8dp8w3b40r3k3b40w3~x2/"><circle cx="319.1" cy="128.6" r="4" fill="#3465a4"><title>World Peace (Fashion)</title></circle></a><a href="/setts/s12/b2w1b12lo3b7dy2lo1b2k1g4w1b2~x4/"><circle cx="326.5" cy="147.0" r="4" fill="#3465a4"><title>Fife (Mann)</title></circle></a><a href="/setts/s9/w4db58g28o4w18db14r3db8ly4/"><circle cx="274.1" cy="116.9" r="4" fill="#3465a4"><title>Scotia</title></circle></a><a href="/setts/s14/b34g10b5r2k8dy2w3dy2k8r2b5g10b28k3~x2/"><circle cx="293.3" cy="118.8" r="4" fill="#3465a4"><title>Lambert Dress (Personal)</title></circle></a><a href="/setts/s8/o12g4dp4g4o31dt3db12w4~x2/"><circle cx="266.1" cy="155.2" r="4" fill="#3465a4"><title>Yes Scotland (Fashion)</title></circle></a><a href="/setts/s11/t20dp4r4w4g4ly4t4ly1t2ly1t20~x4/"><circle cx="355.8" cy="116.5" r="4" fill="#3465a4"><title>Yukon</title></circle></a><a href="/setts/s8/ly4db24t5g2db3k5t33r2~x2/"><circle cx="251.2" cy="128.4" r="4" fill="#3465a4"><title>Los Angeles</title></circle></a><a href="/setts/s9/b49lb11lo7k16lb5b20lb10k6t5~x2/"><circle cx="213.7" cy="153.0" r="4" fill="#3465a4"><title>State Seal of Louisiana (Fashion)</title></circle></a><a href="/setts/s12/b20g3ly3b3r7g6b3k12b3k3b24w3~x2/"><circle cx="242.9" cy="153.1" r="4" fill="#3465a4"><title>Bhoyrub (Personal)</title></circle></a><a href="/setts/s11/dp8dg8w3dg8dp8w3lb40r3k3lb40w3~x2/"><circle cx="292.6" cy="105.8" r="4" fill="#3465a4"><title>World Peace</title></circle></a><circle cx="308.6" cy="137.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/db3g6db2b11r3ly4r3b28w3~x2/

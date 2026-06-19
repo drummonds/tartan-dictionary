@@ -2,7 +2,7 @@
 title: "G P Bathija (Shikarpur, Sindh)"
 date: 2023-03-18
 ---
-**Bands:** [WRBRBGY](/stripes/wrbrbgy/) · **Stripes:** [W R DB O DB DG LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W R DB O DB DG LY</span></span>
+**Bands:** [YGBRBRW](/stripes/ygbrbrw/) · **Stripes:** [LY DG DB O DB R W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DG DB O DB R W</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10690](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10690)
 
 ## Thread count
-W/2 DR42 DB16 R16 DB8 DG36 Y/8
+Y/8 DG36 DB8 R16 DB16 DR42 W/2
 ![Sett](sett.png)
 
 ## Palette
@@ -33,7 +33,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "W/2 DR42 DB16 R16 DB8 DG36 Y/8 tartan")
+![Tartan detail](tartan.png "Y/8 DG36 DB8 R16 DB16 DR42 W/2 tartan")
 
 ## Nearest tartans
 
@@ -48,12 +48,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Kilgour (Symmetrical)](/setts/s8/db6k3g14k3r14k3db6ly1~x4/) — ΔT 1.22
 1. [Bathija (Name)](/setts/s7/ly4g18b4r8b8r21w1~x2/) — ΔT 1.22
 1. [Manson](/setts/s9/dg1r24dg8k8dg8r1k4db16w1~x2/) — ΔT 1.24
-1. [Gallowater New District Tartan Tartan Number: 1571. Earliest known date: 1819 The Gallowater district tartan, sometimes referred to as the 'Gala Water' was first mentioned in the records of Wilson's of Bannockburn in 1793. The design progressed until 1819 when this 'New' sett was recorded in the company's pattern book with a red band and a thin white stripe. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/ly5g21w1dp16t7k16r5~x2/) — ΔT 1.28
+1. [Gallowater New District Tartan Tartan Number: 1571. Earliest known date: 1819 The Gallowater district tartan, sometimes referred to as the 'Gala Water' was first mentioned in the records of Wilson's of Bannockburn in 1793. The design progressed until 1819 when this 'New' sett was recorded in the company's pattern book with a red band and a thin white stripe. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r5k16t7dp16w1g21ly5~x2/) — ΔT 1.28
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r15g6db36w2k6w2g30r32k6t4/"><circle cx="158.9" cy="122.5" r="4" fill="#3465a4"><title>Steiff</title></circle></a><a href="/setts/s6/g3k24ly1r18db18w1~x2/"><circle cx="196.9" cy="140.5" r="4" fill="#3465a4"><title>Hegarty, Philip David (Personal)</title></circle></a><a href="/setts/s6/dg3k24lo1r18db18w1~x2/"><circle cx="212.2" cy="148.1" r="4" fill="#3465a4"><title>Hegarty, Philip David (Personal)</title></circle></a><a href="/setts/s7/w6g10r22db16g2k4k5~x2/"><circle cx="104.8" cy="160.1" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><a href="/setts/s8/db6k3r14k3g14k3db6ly1~x4/"><circle cx="136.9" cy="174.0" r="4" fill="#3465a4"><title>Kilgour (Asymmetrical)</title></circle></a><a href="/setts/s8/db6ly1db6k3r14k3g14k3~x4/"><circle cx="136.9" cy="174.0" r="4" fill="#3465a4"><title>Kilgour (Cant)</title></circle></a><a href="/setts/s8/db6k3g14k3r14k3db6ly1~x4/"><circle cx="136.9" cy="174.0" r="4" fill="#3465a4"><title>Kilgour (Symmetrical)</title></circle></a><a href="/setts/s7/ly4g18b4r8b8r21w1~x2/"><circle cx="155.0" cy="142.1" r="4" fill="#3465a4"><title>Bathija (Name)</title></circle></a><a href="/setts/s9/dg1r24dg8k8dg8r1k4db16w1~x2/"><circle cx="203.2" cy="135.8" r="4" fill="#3465a4"><title>Manson</title></circle></a><a href="/setts/s7/ly5g21w1dp16t7k16r5~x2/"><circle cx="88.1" cy="134.9" r="4" fill="#3465a4"><title>Gallowater New District Tartan Tartan Number: 1571. Earliest known date: 1819 The Gallowater district tartan, sometimes referred to as the 'Gala Water' was first mentioned in the records of Wilson's of Bannockburn in 1793. The design progressed until 1819 when this 'New' sett was recorded in the company's pattern book with a red band and a thin white stripe. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="149.7" cy="145.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r15g6db36w2k6w2g30r32k6t4/"><circle cx="158.9" cy="122.6" r="4" fill="#3465a4"><title>Steiff</title></circle></a><a href="/setts/s6/g3k24ly1r18db18w1~x2/"><circle cx="196.9" cy="140.5" r="4" fill="#3465a4"><title>Hegarty, Philip David (Personal)</title></circle></a><a href="/setts/s6/dg3k24lo1r18db18w1~x2/"><circle cx="212.3" cy="148.3" r="4" fill="#3465a4"><title>Hegarty, Philip David (Personal)</title></circle></a><a href="/setts/s7/w6g10r22db16g2k4k5~x2/"><circle cx="104.8" cy="160.2" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><a href="/setts/s8/db6k3r14k3g14k3db6ly1~x4/"><circle cx="137.0" cy="174.1" r="4" fill="#3465a4"><title>Kilgour (Asymmetrical)</title></circle></a><a href="/setts/s8/db6ly1db6k3r14k3g14k3~x4/"><circle cx="137.0" cy="174.1" r="4" fill="#3465a4"><title>Kilgour (Cant)</title></circle></a><a href="/setts/s8/db6k3g14k3r14k3db6ly1~x4/"><circle cx="137.0" cy="174.1" r="4" fill="#3465a4"><title>Kilgour (Symmetrical)</title></circle></a><a href="/setts/s7/ly4g18b4r8b8r21w1~x2/"><circle cx="154.9" cy="142.2" r="4" fill="#3465a4"><title>Bathija (Name)</title></circle></a><a href="/setts/s9/dg1r24dg8k8dg8r1k4db16w1~x2/"><circle cx="203.1" cy="135.9" r="4" fill="#3465a4"><title>Manson</title></circle></a><a href="/setts/s7/r5k16t7dp16w1g21ly5~x2/"><circle cx="88.2" cy="135.1" r="4" fill="#3465a4"><title>Gallowater New District Tartan Tartan Number: 1571. Earliest known date: 1819 The Gallowater district tartan, sometimes referred to as the 'Gala Water' was first mentioned in the records of Wilson's of Bannockburn in 1793. The design progressed until 1819 when this 'New' sett was recorded in the company's pattern book with a red band and a thin white stripe. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="149.7" cy="145.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/ly4dg18db4o8db8r21w1~x2/

@@ -2,7 +2,7 @@
 title: "Berwick (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BGBKBKGKBBKBG](/stripes/bgbkbkgkbbkbg/) · **Stripes:** [DO G N K DR K G K N DO K DO G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DO G N K DR K G K N DO K DO G</span></span>
+**Bands:** [GBKBBKGKBKBGB](/stripes/gbkbbkgkbkbgb/) · **Stripes:** [G DO K DO N K G K DR K N G DO](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="seq">G DO K DO N K G K DR K N G DO</span></span>
 
 
 This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands13/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3686
 
 ## Thread count
-G/4 T6 K8 T12 N28 K6 G6 K6 DR4 K28 N4 G10 T/48
+T/48 G10 N4 K28 DR4 K6 G6 K6 N28 T12 K8 T6 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -46,8 +46,8 @@ The nearest existing variants by ΔTartan distance.
 1. [Telfer, Jamie of the Fair Dodhead](/setts/s11/b1db5dp6dg2dp1dg12r1dg2dp1r5lo1~x4/) — ΔT 1.15
 1. [Anderson (Coulson Bonner #1)](/setts/s14/k3r7k4dy7r3dy7k4dg3k3dg19k2dg2k2r3~x2/) — ΔT 1.20
 1. [Red Hackle (Military)](/setts/s13/dp11k1r1k1r1k7dg8k1dg8k7dp8k1r1~x4/) — ΔT 1.20
-1. [Grampian](/setts/s14/y24r2y3db14dt24r2dt3db3dt3r2dt24db14y3r2~x2/) — ΔT 1.27
-1. [Methven](/setts/s11/lo2dg24y2dg2y6r21dy2r2dy18dg3r2~x2/) — ΔT 1.30
+1. [Grampian](/setts/s14/y24r2y3db14dt24r2dt3db3~x2/) — ΔT 1.27
+1. [Methven](/setts/s11/r2dg3dy18r2dy2r21y6dg2y2dg24lo2~x2/) — ΔT 1.30
 1. [Greg Wells (Personal)](/setts/s13/dg12k1r2k1dg12y2k12ly1k12y2dt12k3dt12~x2/) — ΔT 1.32
 1. [Balmaha](/setts/s14/dy3ly3dy12ly1k1db12k1db12k1dg12k1dy12t3db2~x2/) — ΔT 1.35
 1. [Brown Ellis (Personal)](/setts/s12/k4db11k1db2k1db11k2db14k2dg14k1r2~x2/) — ΔT 1.36
@@ -55,8 +55,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/do6o4n22r4k22do22k2r5k2do6~x2/"><circle cx="236.1" cy="205.9" r="4" fill="#3465a4"><title>Lochaber (Ingles Buchan)</title></circle></a><a href="/setts/s11/b1db5dp6dg2dp1dg12r1dg2dp1r5lo1~x4/"><circle cx="248.0" cy="174.6" r="4" fill="#3465a4"><title>Telfer, Jamie of the Fair Dodhead</title></circle></a><a href="/setts/s14/k3r7k4dy7r3dy7k4dg3k3dg19k2dg2k2r3~x2/"><circle cx="190.1" cy="186.4" r="4" fill="#3465a4"><title>Anderson (Coulson Bonner #1)</title></circle></a><a href="/setts/s13/dp11k1r1k1r1k7dg8k1dg8k7dp8k1r1~x4/"><circle cx="218.4" cy="190.2" r="4" fill="#3465a4"><title>Red Hackle (Military)</title></circle></a><a href="/setts/s14/y24r2y3db14dt24r2dt3db3dt3r2dt24db14y3r2~x2/"><circle cx="301.6" cy="199.3" r="4" fill="#3465a4"><title>Grampian</title></circle></a><a href="/setts/s11/lo2dg24y2dg2y6r21dy2r2dy18dg3r2~x2/"><circle cx="251.6" cy="179.5" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/setts/s13/dg12k1r2k1dg12y2k12ly1k12y2dt12k3dt12~x2/"><circle cx="194.6" cy="181.7" r="4" fill="#3465a4"><title>Greg Wells (Personal)</title></circle></a><a href="/setts/s14/dy3ly3dy12ly1k1db12k1db12k1dg12k1dy12t3db2~x2/"><circle cx="192.2" cy="161.9" r="4" fill="#3465a4"><title>Balmaha</title></circle></a><a href="/setts/s12/k4db11k1db2k1db11k2db14k2dg14k1r2~x2/"><circle cx="236.7" cy="189.4" r="4" fill="#3465a4"><title>Brown Ellis (Personal)</title></circle></a><a href="/setts/s12/dt3r2dt13k9do3k2do14k2do3k9dt15lb3~x2/"><circle cx="222.7" cy="224.7" r="4" fill="#3465a4"><title>McWilliams Dress (2014)</title></circle></a><circle cx="252.4" cy="185.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/do6o4n22r4k22do22k2r5k2do6~x2/"><circle cx="236.1" cy="206.2" r="4" fill="#3465a4"><title>Lochaber (Ingles Buchan)</title></circle></a><a href="/setts/s11/b1db5dp6dg2dp1dg12r1dg2dp1r5lo1~x4/"><circle cx="248.0" cy="174.8" r="4" fill="#3465a4"><title>Telfer, Jamie of the Fair Dodhead</title></circle></a><a href="/setts/s14/k3r7k4dy7r3dy7k4dg3k3dg19k2dg2k2r3~x2/"><circle cx="190.1" cy="186.6" r="4" fill="#3465a4"><title>Anderson (Coulson Bonner #1)</title></circle></a><a href="/setts/s13/dp11k1r1k1r1k7dg8k1dg8k7dp8k1r1~x4/"><circle cx="218.5" cy="190.4" r="4" fill="#3465a4"><title>Red Hackle (Military)</title></circle></a><a href="/setts/s14/y24r2y3db14dt24r2dt3db3~x2/"><circle cx="301.6" cy="199.4" r="4" fill="#3465a4"><title>Grampian</title></circle></a><a href="/setts/s11/r2dg3dy18r2dy2r21y6dg2y2dg24lo2~x2/"><circle cx="251.5" cy="179.7" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/setts/s13/dg12k1r2k1dg12y2k12ly1k12y2dt12k3dt12~x2/"><circle cx="194.7" cy="182.0" r="4" fill="#3465a4"><title>Greg Wells (Personal)</title></circle></a><a href="/setts/s14/dy3ly3dy12ly1k1db12k1db12k1dg12k1dy12t3db2~x2/"><circle cx="192.2" cy="162.2" r="4" fill="#3465a4"><title>Balmaha</title></circle></a><a href="/setts/s12/k4db11k1db2k1db11k2db14k2dg14k1r2~x2/"><circle cx="236.8" cy="189.6" r="4" fill="#3465a4"><title>Brown Ellis (Personal)</title></circle></a><a href="/setts/s12/dt3r2dt13k9do3k2do14k2do3k9dt15lb3~x2/"><circle cx="222.8" cy="224.9" r="4" fill="#3465a4"><title>McWilliams Dress (2014)</title></circle></a><circle cx="252.4" cy="185.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/do24g5n2k14dr2k3g3k3n14do6k4do3g2~x2/

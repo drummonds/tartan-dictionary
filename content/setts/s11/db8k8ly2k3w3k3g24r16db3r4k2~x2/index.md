@@ -2,7 +2,7 @@
 title: "MacLean"
 date: 2023-03-18
 ---
-**Bands:** [BKYKWKGRBRK](/stripes/bkykwkgrbrk/) · **Stripes:** [DB K LY K W K G R DB R K](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K LY K W K G R DB R K</span></span>
+**Bands:** [KRBRGKWKYKB](/stripes/krbrgkwkykb/) · **Stripes:** [K R DB R G K W K LY K DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K R DB R G K W K LY K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -905,7 +908,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Royal Stewart](/setts/s12/r20t14k17ly2k3w3k3g24r14k4r4w2~x2/) — ΔT 0.75
-1. [Stirling, and Bannockburn](/setts/s10/ly3g2db18r3k13r4t3r4g18r3~x2/) — ΔT 0.85
+1. [Stirling, and Bannockburn](/setts/s10/r3g18r4t3r4k13r3db18g2ly3~x2/) — ΔT 0.85
 1. [MacLean](/setts/s11/db8k8ly2k3w3k3dg24r16db3r4k2~x2/) — ΔT 0.87
 1. [McMuldroch (2014)](/setts/s10/g19k18r18w2ly2dp2ly2w2r8dp3~x2/) — ΔT 0.91
 1. [George Brown](/setts/s9/ly3db29k15r4g25r8k4r3w2~x2/) — ΔT 0.91
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r20t14k17ly2k3w3k3g24r14k4r4w2~x2/"><circle cx="100.5" cy="119.9" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/setts/s10/ly3g2db18r3k13r4t3r4g18r3~x2/"><circle cx="71.2" cy="145.0" r="4" fill="#3465a4"><title>Stirling, and Bannockburn</title></circle></a><a href="/setts/s11/db8k8ly2k3w3k3dg24r16db3r4k2~x2/"><circle cx="120.7" cy="126.3" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s10/g19k18r18w2ly2dp2ly2w2r8dp3~x2/"><circle cx="106.5" cy="129.4" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s9/ly3db29k15r4g25r8k4r3w2~x2/"><circle cx="110.3" cy="128.9" r="4" fill="#3465a4"><title>George Brown</title></circle></a><a href="/setts/s15/r25t9k2t9k19ly3k3w5k3ly3g22r16g3r3g3~x2/"><circle cx="97.2" cy="103.0" r="4" fill="#3465a4"><title>Wilson's No 181, (Stewart)</title></circle></a><a href="/setts/s10/g19k18r18ly2w2dp2ly2w2r8dp3~x2/"><circle cx="119.3" cy="133.6" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s12/db25g5db2ly2k2r3g20r20db2w2k2r2~x2/"><circle cx="138.8" cy="106.1" r="4" fill="#3465a4"><title>Quebec, Plaid Du</title></circle></a><a href="/setts/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/"><circle cx="112.3" cy="127.8" r="4" fill="#3465a4"><title>Crosser, Crozier</title></circle></a><a href="/setts/s9/w2db3r6k8g12ly1db4k2w2~x2/"><circle cx="65.4" cy="142.7" r="4" fill="#3465a4"><title>National</title></circle></a><circle cx="99.4" cy="118.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r20t14k17ly2k3w3k3g24r14k4r4w2~x2/"><circle cx="100.5" cy="120.0" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/setts/s10/r3g18r4t3r4k13r3db18g2ly3~x2/"><circle cx="71.3" cy="145.1" r="4" fill="#3465a4"><title>Stirling, and Bannockburn</title></circle></a><a href="/setts/s11/db8k8ly2k3w3k3dg24r16db3r4k2~x2/"><circle cx="120.7" cy="126.5" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s10/g19k18r18w2ly2dp2ly2w2r8dp3~x2/"><circle cx="106.5" cy="129.5" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s9/ly3db29k15r4g25r8k4r3w2~x2/"><circle cx="110.4" cy="129.0" r="4" fill="#3465a4"><title>George Brown</title></circle></a><a href="/setts/s15/r25t9k2t9k19ly3k3w5k3ly3g22r16g3r3g3~x2/"><circle cx="97.1" cy="103.1" r="4" fill="#3465a4"><title>Wilson's No 181, (Stewart)</title></circle></a><a href="/setts/s10/g19k18r18ly2w2dp2ly2w2r8dp3~x2/"><circle cx="119.2" cy="133.7" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s12/db25g5db2ly2k2r3g20r20db2w2k2r2~x2/"><circle cx="138.8" cy="106.2" r="4" fill="#3465a4"><title>Quebec, Plaid Du</title></circle></a><a href="/setts/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/"><circle cx="112.3" cy="127.9" r="4" fill="#3465a4"><title>Crosser, Crozier</title></circle></a><a href="/setts/s9/w2db3r6k8g12ly1db4k2w2~x2/"><circle cx="65.6" cy="142.8" r="4" fill="#3465a4"><title>National</title></circle></a><circle cx="99.4" cy="118.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db8k8ly2k3w3k3g24r16db3r4k2~x2/

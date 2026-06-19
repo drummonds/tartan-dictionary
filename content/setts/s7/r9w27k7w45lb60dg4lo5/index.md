@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/
 Original link http://www.tartansauthority.com/tartan-ferret/display/10850/
 
 ## Thread count
-DY/5 DG4 LB60 W45 K7 W27 R/9
+R/9 W27 K7 W45 LB60 DG4 DY/5
 ![Sett](sett.png)
 
 ## Palette
@@ -27,7 +27,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DY/5 DG4 LB60 W45 K7 W27 R/9 tartan")
+![Tartan detail](tartan.png "R/9 W27 K7 W45 LB60 DG4 DY/5 tartan")
 
 ## Nearest tartans
 
@@ -40,14 +40,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Shiel, Purple V2 (Dance)](/setts/s7/w8g5dp10t24w30g2lp2~x2/) — ΔT 1.48
 1. [Manchester Blues Modern](/setts/s11/lb26w9k2w2lb2w2o11w8ly2o2r2~x2/) — ΔT 1.55
 1. [Manchester Blues Dress](/setts/s11/w26lb9k2lb2w2lb2lr11lb8ly2lr2r2~x2/) — ΔT 1.56
-1. [Musselburgh Dress (Dance)](/setts/s9/t14db1n3g1n3db1n4w24r1~x4/) — ΔT 1.56
+1. [Musselburgh Dress (Dance)](/setts/s9/t14db1n3g1n3db1n4w24r1~x4/) — ΔT 1.57
 1. [Galicia](/setts/s6/t53k2w53k2r4ly7~x2/) — ΔT 1.58
 1. [Reekie, Charlene (Personal)](/setts/s6/w43k5r3g5ly27dp5~x2/) — ΔT 1.60
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r9w25k7w45lt60g4ly5/"><circle cx="204.7" cy="125.0" r="4" fill="#3465a4"><title>Ch. Supt. Everett and Mrs Julene Summerfield Dress</title></circle></a><a href="/setts/s8/g4ly3r2ly22lb22w2lb3k2~x2/"><circle cx="194.0" cy="121.4" r="4" fill="#3465a4"><title>Aguilar Pardo, Luis Alejandro (Personal)</title></circle></a><a href="/setts/s7/w8ly3w22o22dr3r2w4~x2/"><circle cx="251.0" cy="150.0" r="4" fill="#3465a4"><title>Banff, White (Fashion)</title></circle></a><a href="/setts/s11/w26lb9k2lb2w2lb2o11lb8ly2o2r2~x2/"><circle cx="189.4" cy="105.6" r="4" fill="#3465a4"><title>Manchester Blues Dress (Comm)</title></circle></a><a href="/setts/s7/w8g5dp10t24w30g2lp2~x2/"><circle cx="209.0" cy="144.5" r="4" fill="#3465a4"><title>Shiel, Purple V2 (Dance)</title></circle></a><a href="/setts/s11/lb26w9k2w2lb2w2o11w8ly2o2r2~x2/"><circle cx="191.9" cy="108.5" r="4" fill="#3465a4"><title>Manchester Blues Modern</title></circle></a><a href="/setts/s11/w26lb9k2lb2w2lb2lr11lb8ly2lr2r2~x2/"><circle cx="189.3" cy="106.0" r="4" fill="#3465a4"><title>Manchester Blues Dress</title></circle></a><a href="/setts/s9/t14db1n3g1n3db1n4w24r1~x4/"><circle cx="226.8" cy="75.7" r="4" fill="#3465a4"><title>Musselburgh Dress (Dance)</title></circle></a><a href="/setts/s6/t53k2w53k2r4ly7~x2/"><circle cx="261.7" cy="110.4" r="4" fill="#3465a4"><title>Galicia</title></circle></a><a href="/setts/s6/w43k5r3g5ly27dp5~x2/"><circle cx="215.2" cy="119.1" r="4" fill="#3465a4"><title>Reekie, Charlene (Personal)</title></circle></a><circle cx="207.8" cy="125.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r9w25k7w45lt60g4ly5/"><circle cx="204.2" cy="125.0" r="4" fill="#3465a4"><title>Ch. Supt. Everett and Mrs Julene Summerfield Dress</title></circle></a><a href="/setts/s8/g4ly3r2ly22lb22w2lb3k2~x2/"><circle cx="193.6" cy="121.4" r="4" fill="#3465a4"><title>Aguilar Pardo, Luis Alejandro (Personal)</title></circle></a><a href="/setts/s7/w8ly3w22o22dr3r2w4~x2/"><circle cx="250.5" cy="149.8" r="4" fill="#3465a4"><title>Banff, White (Fashion)</title></circle></a><a href="/setts/s11/w26lb9k2lb2w2lb2o11lb8ly2o2r2~x2/"><circle cx="188.9" cy="105.6" r="4" fill="#3465a4"><title>Manchester Blues Dress (Comm)</title></circle></a><a href="/setts/s7/w8g5dp10t24w30g2lp2~x2/"><circle cx="208.7" cy="144.4" r="4" fill="#3465a4"><title>Shiel, Purple V2 (Dance)</title></circle></a><a href="/setts/s11/lb26w9k2w2lb2w2o11w8ly2o2r2~x2/"><circle cx="191.5" cy="108.6" r="4" fill="#3465a4"><title>Manchester Blues Modern</title></circle></a><a href="/setts/s11/w26lb9k2lb2w2lb2lr11lb8ly2lr2r2~x2/"><circle cx="188.8" cy="106.1" r="4" fill="#3465a4"><title>Manchester Blues Dress</title></circle></a><a href="/setts/s9/t14db1n3g1n3db1n4w24r1~x4/"><circle cx="226.4" cy="75.7" r="4" fill="#3465a4"><title>Musselburgh Dress (Dance)</title></circle></a><a href="/setts/s6/t53k2w53k2r4ly7~x2/"><circle cx="261.2" cy="110.3" r="4" fill="#3465a4"><title>Galicia</title></circle></a><a href="/setts/s6/w43k5r3g5ly27dp5~x2/"><circle cx="214.7" cy="119.0" r="4" fill="#3465a4"><title>Reekie, Charlene (Personal)</title></circle></a><circle cx="207.3" cy="125.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r9w27k7w45lb60dg4lo5/

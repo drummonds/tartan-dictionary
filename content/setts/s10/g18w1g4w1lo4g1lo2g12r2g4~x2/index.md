@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands1
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3473/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Michigan, State of
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -48,8 +54,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g18w1g4w1ly4dg1ly2dg12r2dg4~x2/"><circle cx="268.8" cy="148.2" r="4" fill="#3465a4"><title>Michigan, State of</title></circle></a><a href="/setts/s9/dg70ly6lr28g56lr5g11lr5g11r12/"><circle cx="222.2" cy="170.3" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/setts/s7/r2t1r1t11g16dg1w1~x2/"><circle cx="289.9" cy="156.7" r="4" fill="#3465a4"><title>Gift of Life Michigan (Corporate)</title></circle></a><a href="/setts/s10/dy4g26lb1g2lb2dy4lg26dy4g3ly3~x2/"><circle cx="228.6" cy="112.7" r="4" fill="#3465a4"><title>Carter (Savannah) (Personal)</title></circle></a><a href="/setts/s8/g14db1g1db1g3db6g12r2~x2/"><circle cx="281.3" cy="203.5" r="4" fill="#3465a4"><title>Cranstoun</title></circle></a><a href="/setts/s14/t5g5k4o31g3o3g62o3g3o31k4g5t5r3~x2/"><circle cx="274.5" cy="109.4" r="4" fill="#3465a4"><title>Sheffield, City of</title></circle></a><a href="/setts/s8/ly4g3r2g36b30k3b3k3~x2/"><circle cx="304.4" cy="159.4" r="4" fill="#3465a4"><title>Chartered Accountants of Scotland</title></circle></a><a href="/setts/s9/g20ly2o5w4g2o2g2o2b6~x2/"><circle cx="272.2" cy="170.6" r="4" fill="#3465a4"><title>Boucherville</title></circle></a><a href="/setts/s10/dt6w1lo24g6n3g1n3g1n12r1~x2/"><circle cx="265.3" cy="127.3" r="4" fill="#3465a4"><title>Chisholm Colonial</title></circle></a><a href="/setts/s10/t24k2r2t2db12g28r4g5t3g3~x2/"><circle cx="243.9" cy="160.0" r="4" fill="#3465a4"><title>Downie (Name)</title></circle></a><circle cx="281.1" cy="156.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g18w1g4w1ly4dg1ly2dg12r2dg4~x2/"><circle cx="268.6" cy="148.3" r="4" fill="#3465a4"><title>Michigan, State of</title></circle></a><a href="/setts/s9/dg70ly6lr28g56lr5g11lr5g11r12/"><circle cx="222.1" cy="170.4" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/setts/s7/r2t1r1t11g16dg1w1~x2/"><circle cx="289.6" cy="156.6" r="4" fill="#3465a4"><title>Gift of Life Michigan (Corporate)</title></circle></a><a href="/setts/s10/dy4g26lb1g2lb2dy4lg26dy4g3ly3~x2/"><circle cx="228.4" cy="112.8" r="4" fill="#3465a4"><title>Carter (Savannah) (Personal)</title></circle></a><a href="/setts/s8/g14db1g1db1g3db6g12r2~x2/"><circle cx="281.1" cy="203.5" r="4" fill="#3465a4"><title>Cranstoun</title></circle></a><a href="/setts/s14/t5g5k4o31g3o3g62o3g3o31k4g5t5r3~x2/"><circle cx="274.3" cy="109.6" r="4" fill="#3465a4"><title>Sheffield, City of</title></circle></a><a href="/setts/s8/ly4g3r2g36b30k3b3k3~x2/"><circle cx="304.2" cy="159.4" r="4" fill="#3465a4"><title>Chartered Accountants of Scotland</title></circle></a><a href="/setts/s9/g20ly2o5w4g2o2g2o2b6~x2/"><circle cx="271.9" cy="170.5" r="4" fill="#3465a4"><title>Boucherville</title></circle></a><a href="/setts/s10/dt6w1lo24g6n3g1n3g1n12r1~x2/"><circle cx="265.1" cy="127.5" r="4" fill="#3465a4"><title>Chisholm Colonial</title></circle></a><a href="/setts/s10/t24k2r2t2db12g28r4g5t3g3~x2/"><circle cx="243.8" cy="160.1" r="4" fill="#3465a4"><title>Downie (Name)</title></circle></a><circle cx="280.8" cy="156.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/g18w1g4w1lo4g1lo2g12r2g4~x2/

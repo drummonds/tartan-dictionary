@@ -8,7 +8,7 @@ RYRRY
 
 It is a 5 band tartan.
 
-![Woven sample](/setts/s5/ly2o10r15ly10o2~x4/tartan.png)
+![Woven sample](/setts/s5/o2ly10r15o10ly2~x4/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RYRRY
 
 | Tartans |
 |---------------|
-| [Harmony, 9](/setts/s5/ly2o10r15ly10o2~x4/)|
-|![Harmony, 9 example sett](/setts/s5/ly2o10r15ly10o2~x4/sett.png)|
+| [Harmony, 9](/setts/s5/o2ly10r15o10ly2~x4/)|
+|![Harmony, 9 example sett](/setts/s5/o2ly10r15o10ly2~x4/sett.png)|
 

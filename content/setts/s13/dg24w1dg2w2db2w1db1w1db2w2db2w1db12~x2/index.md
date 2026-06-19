@@ -2,12 +2,18 @@
 title: "MacDonald Lord of the Isles"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBWBWBWGWG](/stripes/bwbwbwbwbwgwg/) · **Stripes:** [DB W DB W DB W DB W DB W DG W DG](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">DB W DB W DB W DB W DB W DG W DG</span></span>
+**Bands:** [GWGWBWBWBWBWB](/stripes/gwgwbwbwbwbwb/) · **Stripes:** [DG W DG W DB W DB W DB W DB W DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">DG W DG W DB W DB W DB W DB W DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2348
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacDonald, Lord of the Isles
 
 ## Register references
 
@@ -17,7 +23,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 618
 
 ## Thread count
-B/24 LN2 B4 LN4 B4 LN2 B2 LN2 B4 LN4 G4 LN2 G/48
+G/48 LN2 G4 LN4 B4 LN2 B2 LN2 B4 LN4 B4 LN2 B/24
 ![Sett](sett.png)
 
 ## Palette
@@ -36,18 +42,18 @@ The nearest existing variants by ΔTartan distance.
 1. [MacDonald Lord of the Isles Portrait Tartan Tartan Number: 618. Earliest known date: pre 1893 From a painting in Armadale Castle, discovered by D. W. Stewart for his book, 'Old and Rare Scottish Tartans' published in 1893. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/g24w1g2w2db2w1db12w1db2w2db2w1db12~x2/) — ΔT 0.61
 1. [MacDonald, Lord of the Isles Hunting #2](/setts/s13/g24lb1g2lb2db2lb1db12lb1db2lb2db2lb1db12~x2/) — ΔT 0.95
 1. [MacDonald, Lord of the Isles](/setts/s13/g24w1g2w2db2w1db1w1db2w2db2w1db12~x2/) — ΔT 1.00
-1. [MacDonald Lord of the Isles Hunting](/setts/s13/dg24lb1dg2lb2db2lb1db12lb1db2lb2db2lb1db12~x2/) — ΔT 1.23
-1. [General Choi](/setts/s11/ly3k2ly2k2ly2k28t32ly2t3ly2t3~x2/) — ΔT 1.23
+1. [MacDonald Lord of the Isles Hunting](/setts/s13/dg24lb1dg2lb2db2lb1db12lb1db2lb2db2lb1db12/) — ΔT 1.23
+1. [General Choi](/setts/s11/t3ly2t3ly2t32k28ly2k2ly2k2ly3~x2/) — ΔT 1.23
 1. [Kelso (Fashion)](/setts/s12/lr12y3lr3dg4lr16y3lr3y3lr3y16dg52lr4/) — ΔT 1.25
 1. [Agincourt](/setts/s14/lo4k1lo3dt1lo1dt2k6lo4dt2k6lo7k6dt29lo2~x4/) — ΔT 1.29
-1. [McKirgan/Mackirgan](/setts/s11/g2db2w1r2w1db3g1db12g18w1r2~x2/) — ΔT 1.34
+1. [McKirgan/Mackirgan](/setts/s11/r2w1g18db12g1db3w1r2w1db2g2~x2/) — ΔT 1.34
 1. [MacDonald Lord of the Isles Hunting](/setts/s13/dg24lr1dg2lr2db2lr1db12lr1db2lr2db2lr1db12~x2/) — ΔT 1.36
-1. [MacAuliffe Name Tartan Tartan Number: 2839. Earliest known date: 2005 The MacAuliffes are Irish in origin, being a branch of the powerful MacCarthys. The MacAuliffe's are descended from Auliffe Alainn (Humphrey the Dandy) MacCarthy, the son of Donough MacCarthy, the son of Murcharch MacCarthy, the son of Teige MacCarthy, who was King of Desmond (south Munster) from 1118 to 1124. The tartan is available from House of Tartan, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/g37w2g6db23ly6db2ly3db2ly3db2ly6db23g6w2~x2/) — ΔT 1.44
+1. [MacDonald Lord of the Isles Hunting](/setts/s13/dg24lr1dg2lr2db2lr1db12lr1db2lr2db2lr1db12/) — ΔT 1.36
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g24w1g2w2db2w1db12w1db2w2db2w1db12~x2/"><circle cx="318.2" cy="132.2" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles Portrait Tartan Tartan Number: 618. Earliest known date: pre 1893 From a painting in Armadale Castle, discovered by D. W. Stewart for his book, 'Old and Rare Scottish Tartans' published in 1893. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/g24lb1g2lb2db2lb1db12lb1db2lb2db2lb1db12~x2/"><circle cx="316.6" cy="133.7" r="4" fill="#3465a4"><title>MacDonald, Lord of the Isles Hunting #2</title></circle></a><a href="/setts/s13/g24w1g2w2db2w1db1w1db2w2db2w1db12~x2/"><circle cx="328.4" cy="120.0" r="4" fill="#3465a4"><title>MacDonald, Lord of the Isles</title></circle></a><a href="/setts/s13/dg24lb1dg2lb2db2lb1db12lb1db2lb2db2lb1db12~x2/"><circle cx="313.1" cy="136.1" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles Hunting</title></circle></a><a href="/setts/s11/ly3k2ly2k2ly2k28t32ly2t3ly2t3~x2/"><circle cx="291.0" cy="136.7" r="4" fill="#3465a4"><title>General Choi</title></circle></a><a href="/setts/s12/lr12y3lr3dg4lr16y3lr3y3lr3y16dg52lr4/"><circle cx="289.6" cy="141.2" r="4" fill="#3465a4"><title>Kelso (Fashion)</title></circle></a><a href="/setts/s14/lo4k1lo3dt1lo1dt2k6lo4dt2k6lo7k6dt29lo2~x4/"><circle cx="302.5" cy="119.2" r="4" fill="#3465a4"><title>Agincourt</title></circle></a><a href="/setts/s11/g2db2w1r2w1db3g1db12g18w1r2~x2/"><circle cx="269.9" cy="132.6" r="4" fill="#3465a4"><title>McKirgan/Mackirgan</title></circle></a><a href="/setts/s13/dg24lr1dg2lr2db2lr1db12lr1db2lr2db2lr1db12~x2/"><circle cx="332.4" cy="145.6" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles Hunting</title></circle></a><a href="/setts/s14/g37w2g6db23ly6db2ly3db2ly3db2ly6db23g6w2~x2/"><circle cx="246.7" cy="127.0" r="4" fill="#3465a4"><title>MacAuliffe Name Tartan Tartan Number: 2839. Earliest known date: 2005 The MacAuliffes are Irish in origin, being a branch of the powerful MacCarthys. The MacAuliffe's are descended from Auliffe Alainn (Humphrey the Dandy) MacCarthy, the son of Donough MacCarthy, the son of Murcharch MacCarthy, the son of Teige MacCarthy, who was King of Desmond (south Munster) from 1118 to 1124. The tartan is available from House of Tartan, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="336.1" cy="124.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g24w1g2w2db2w1db12w1db2w2db2w1db12~x2/"><circle cx="318.0" cy="132.1" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles Portrait Tartan Tartan Number: 618. Earliest known date: pre 1893 From a painting in Armadale Castle, discovered by D. W. Stewart for his book, 'Old and Rare Scottish Tartans' published in 1893. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/g24lb1g2lb2db2lb1db12lb1db2lb2db2lb1db12~x2/"><circle cx="316.4" cy="133.5" r="4" fill="#3465a4"><title>MacDonald, Lord of the Isles Hunting #2</title></circle></a><a href="/setts/s13/g24w1g2w2db2w1db1w1db2w2db2w1db12~x2/"><circle cx="328.1" cy="119.9" r="4" fill="#3465a4"><title>MacDonald, Lord of the Isles</title></circle></a><a href="/setts/s13/dg24lb1dg2lb2db2lb1db12lb1db2lb2db2lb1db12/"><circle cx="313.0" cy="135.9" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles Hunting</title></circle></a><a href="/setts/s11/t3ly2t3ly2t32k28ly2k2ly2k2ly3~x2/"><circle cx="290.8" cy="136.5" r="4" fill="#3465a4"><title>General Choi</title></circle></a><a href="/setts/s12/lr12y3lr3dg4lr16y3lr3y3lr3y16dg52lr4/"><circle cx="289.4" cy="141.0" r="4" fill="#3465a4"><title>Kelso (Fashion)</title></circle></a><a href="/setts/s14/lo4k1lo3dt1lo1dt2k6lo4dt2k6lo7k6dt29lo2~x4/"><circle cx="302.3" cy="119.1" r="4" fill="#3465a4"><title>Agincourt</title></circle></a><a href="/setts/s11/r2w1g18db12g1db3w1r2w1db2g2~x2/"><circle cx="269.8" cy="132.5" r="4" fill="#3465a4"><title>McKirgan/Mackirgan</title></circle></a><a href="/setts/s13/dg24lr1dg2lr2db2lr1db12lr1db2lr2db2lr1db12~x2/"><circle cx="332.4" cy="145.5" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles Hunting</title></circle></a><a href="/setts/s13/dg24lr1dg2lr2db2lr1db12lr1db2lr2db2lr1db12/"><circle cx="332.4" cy="145.5" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles Hunting</title></circle></a><circle cx="335.8" cy="124.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/dg24w1dg2w2db2w1db1w1db2w2db2w1db12~x2/

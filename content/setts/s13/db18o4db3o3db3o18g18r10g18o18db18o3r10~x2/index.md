@@ -2,7 +2,7 @@
 title: "Murray of Atholl"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBRGRGRBRR](/stripes/brbrbrgrgrbrr/) · **Stripes:** [DB O DB O DB O G R G O DB O R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB O DB O DB O G R G O DB O R</span></span>
+**Bands:** [RRBRGRGRBRBRB](/stripes/rrbrgrgrbrbrb/) · **Stripes:** [R O DB O G R G O DB O DB O DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="seq">R O DB O G R G O DB O DB O DB</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,17 +909,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Niagara Falls](/setts/s12/db22g4db4g17o17g17db4g4db22ly8o8r8~x2/) — ΔT 1.22
 1. [Orkney](/setts/s14/k3r13g19k3b19g3r9g3b19k3g19r13k3lo3~x2/) — ΔT 1.25
 1. [Lamont Heather](/setts/s18/lo18do3lo3do3lo3do16y16w3y16do16lo17do3lo3do3lo17do16y16w3~x2/) — ΔT 1.29
-1. [MacDonald #6](/setts/s12/db8r2db2r4db10r2k11dg10r4dg2r2dg8~x2/) — ΔT 1.34
+1. [MacDonald #6](/setts/s12/dg8r2dg2r4dg10k11r2db10r4db2r2db8~x2/) — ΔT 1.34
 1. [Niagara Falls](/setts/s12/dt22g4dt4g17dy17g17dt4g4dt22ly8dy8r8~x2/) — ΔT 1.35
 1. [MacVicker (Name)](/setts/s13/dt12dy2ly2dy2dt2dy10g10dy3g12dy10dt11r2ly2~x2/) — ΔT 1.36
-1. [Bowie (Lochcarron)](/setts/s12/b10r2b3r4b13r2k13dg13r4dg3lo2dg10~x2/) — ΔT 1.38
+1. [Bowie (Lochcarron)](/setts/s12/dg10lo2dg3r4dg13k13r2b13r4b3r2b10~x2/) — ΔT 1.38
 1. [Buchanan, hunting](/setts/s11/db3o14g14o2db14o2db14o2g14o14r3~x2/) — ΔT 1.39
 1. [Niagra Falls Trade Tartan Tartan Number: 1915. Earliest known date: 1967 Designed to be used in the refurbishing of Johnstons of Elgin new mill shop and based on the colours of the mill shop house style. The lighter square is represented here as green from the 'Antique' colour range, a speciality of Johnstons of Elgin. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/db22g4db4g17dy17g17db4g4db22ly8dy8r8~x2/) — ΔT 1.40
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db18dy4db3dy3db3dy18g18r10g18dy18db18dy3r10~x2/"><circle cx="159.8" cy="235.2" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/setts/s12/db22g4db4g17o17g17db4g4db22ly8o8r8~x2/"><circle cx="142.1" cy="219.5" r="4" fill="#3465a4"><title>Niagara Falls</title></circle></a><a href="/setts/s14/k3r13g19k3b19g3r9g3b19k3g19r13k3lo3~x2/"><circle cx="152.5" cy="201.5" r="4" fill="#3465a4"><title>Orkney</title></circle></a><a href="/setts/s18/lo18do3lo3do3lo3do16y16w3y16do16lo17do3lo3do3lo17do16y16w3~x2/"><circle cx="192.0" cy="216.2" r="4" fill="#3465a4"><title>Lamont Heather</title></circle></a><a href="/setts/s12/db8r2db2r4db10r2k11dg10r4dg2r2dg8~x2/"><circle cx="129.5" cy="226.6" r="4" fill="#3465a4"><title>MacDonald #6</title></circle></a><a href="/setts/s12/dt22g4dt4g17dy17g17dt4g4dt22ly8dy8r8~x2/"><circle cx="140.3" cy="218.7" r="4" fill="#3465a4"><title>Niagara Falls</title></circle></a><a href="/setts/s13/dt12dy2ly2dy2dt2dy10g10dy3g12dy10dt11r2ly2~x2/"><circle cx="164.8" cy="218.0" r="4" fill="#3465a4"><title>MacVicker (Name)</title></circle></a><a href="/setts/s12/b10r2b3r4b13r2k13dg13r4dg3lo2dg10~x2/"><circle cx="123.9" cy="201.4" r="4" fill="#3465a4"><title>Bowie (Lochcarron)</title></circle></a><a href="/setts/s11/db3o14g14o2db14o2db14o2g14o14r3~x2/"><circle cx="214.8" cy="246.6" r="4" fill="#3465a4"><title>Buchanan, hunting</title></circle></a><a href="/setts/s12/db22g4db4g17dy17g17db4g4db22ly8dy8r8~x2/"><circle cx="140.8" cy="219.9" r="4" fill="#3465a4"><title>Niagra Falls Trade Tartan Tartan Number: 1915. Earliest known date: 1967 Designed to be used in the refurbishing of Johnstons of Elgin new mill shop and based on the colours of the mill shop house style. The lighter square is represented here as green from the 'Antique' colour range, a speciality of Johnstons of Elgin. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="144.1" cy="227.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db18dy4db3dy3db3dy18g18r10g18dy18db18dy3r10~x2/"><circle cx="159.8" cy="235.3" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/setts/s12/db22g4db4g17o17g17db4g4db22ly8o8r8~x2/"><circle cx="142.1" cy="219.6" r="4" fill="#3465a4"><title>Niagara Falls</title></circle></a><a href="/setts/s14/k3r13g19k3b19g3r9g3b19k3g19r13k3lo3~x2/"><circle cx="152.5" cy="201.7" r="4" fill="#3465a4"><title>Orkney</title></circle></a><a href="/setts/s18/lo18do3lo3do3lo3do16y16w3y16do16lo17do3lo3do3lo17do16y16w3~x2/"><circle cx="191.8" cy="216.3" r="4" fill="#3465a4"><title>Lamont Heather</title></circle></a><a href="/setts/s12/dg8r2dg2r4dg10k11r2db10r4db2r2db8~x2/"><circle cx="129.6" cy="226.6" r="4" fill="#3465a4"><title>MacDonald #6</title></circle></a><a href="/setts/s12/dt22g4dt4g17dy17g17dt4g4dt22ly8dy8r8~x2/"><circle cx="140.3" cy="218.8" r="4" fill="#3465a4"><title>Niagara Falls</title></circle></a><a href="/setts/s13/dt12dy2ly2dy2dt2dy10g10dy3g12dy10dt11r2ly2~x2/"><circle cx="164.8" cy="218.2" r="4" fill="#3465a4"><title>MacVicker (Name)</title></circle></a><a href="/setts/s12/dg10lo2dg3r4dg13k13r2b13r4b3r2b10~x2/"><circle cx="123.9" cy="201.5" r="4" fill="#3465a4"><title>Bowie (Lochcarron)</title></circle></a><a href="/setts/s11/db3o14g14o2db14o2db14o2g14o14r3~x2/"><circle cx="214.7" cy="246.7" r="4" fill="#3465a4"><title>Buchanan, hunting</title></circle></a><a href="/setts/s12/db22g4db4g17dy17g17db4g4db22ly8dy8r8~x2/"><circle cx="140.8" cy="220.0" r="4" fill="#3465a4"><title>Niagra Falls Trade Tartan Tartan Number: 1915. Earliest known date: 1967 Designed to be used in the refurbishing of Johnstons of Elgin new mill shop and based on the colours of the mill shop house style. The lighter square is represented here as green from the 'Antique' colour range, a speciality of Johnstons of Elgin. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="144.1" cy="227.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db18o4db3o3db3o18g18r10g18o18db18o3r10~x2/

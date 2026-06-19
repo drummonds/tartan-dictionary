@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2876
 
 ## Thread count
-LN/6 DB36 K4 DB20 Ga30 G18 R/6
+R/6 G18 Ga30 DB20 K4 DB36 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -42,16 +42,16 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/6 DB36 K4 DB20 Ga30 G18 R/6 tartan")
+![Tartan detail](tartan.png "R/6 G18 Ga30 DB20 K4 DB36 LN/6 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Yates (Personal)](/setts/s8/k29r3dt24n6k8w4n8o6~x2/) — ΔT 0.94
-1. [Renfrewshire District Tartan Tartan Number: 2560. Earliest known date: 1998 Designed for anyone residing in the County of Renfrewshire See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/ly4g10k7db20t7db2m4~x2/) — ΔT 0.97
+1. [Renfrewshire District Tartan Tartan Number: 2560. Earliest known date: 1998 Designed for anyone residing in the County of Renfrewshire See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/m4db2t7db20k7g10ly4~x2/) — ΔT 0.97
 1. [Patel (2013)](/setts/s9/dg3lo2m10dg10b20dg12r3b10w2~x2/) — ΔT 0.99
-1. [Quinn (Personal)](/setts/s9/ly1b8k4g1dg4g1k4b8r1~x6/) — ΔT 1.02
+1. [Quinn (Personal)](/setts/s9/r1b8k4g1dg4g1k4b8ly1~x6/) — ΔT 1.02
 1. [Ayrshire District Tartan Tartan Number: 436. Earliest known date: 1988 Dr Phil Smith, a Fellow of the Scottish Tartans Society, designed the Ayrshire district tartan at the suggestion of the Clan Boyd and Clan Cunningham Societies. In his book, 'District Tartans' (1992) co-authored with Dr G Teall, he says, the colours "..reflect the gold of the rising sun, the green of the land and brown of the coast, the blue of the sea and the red of the setting sun. The Ayrshire tartan is intended for those with connections in the districts of Kyle, Cunninghame and Inverclyde." See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/db2r1db10w1dy4g8ly1g2~x4/) — ΔT 1.06
 1. [Côté-Haché (Personal)](/setts/s8/db3dg10db5ly1db10k1r4w1~x4/) — ΔT 1.06
 1. [Renfrewshire](/setts/s7/dp4db2t8db25k8g13ly4~x2/) — ΔT 1.08
@@ -61,8 +61,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k29r3dt24n6k8w4n8o6~x2/"><circle cx="174.5" cy="178.5" r="4" fill="#3465a4"><title>Yates (Personal)</title></circle></a><a href="/setts/s7/ly4g10k7db20t7db2m4~x2/"><circle cx="139.1" cy="183.7" r="4" fill="#3465a4"><title>Renfrewshire District Tartan Tartan Number: 2560. Earliest known date: 1998 Designed for anyone residing in the County of Renfrewshire See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/dg3lo2m10dg10b20dg12r3b10w2~x2/"><circle cx="185.7" cy="189.6" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/setts/s9/ly1b8k4g1dg4g1k4b8r1~x6/"><circle cx="200.0" cy="190.6" r="4" fill="#3465a4"><title>Quinn (Personal)</title></circle></a><a href="/setts/s8/db2r1db10w1dy4g8ly1g2~x4/"><circle cx="191.1" cy="172.8" r="4" fill="#3465a4"><title>Ayrshire District Tartan Tartan Number: 436. Earliest known date: 1988 Dr Phil Smith, a Fellow of the Scottish Tartans Society, designed the Ayrshire district tartan at the suggestion of the Clan Boyd and Clan Cunningham Societies. In his book, 'District Tartans' (1992) co-authored with Dr G Teall, he says, the colours &quot;..reflect the gold of the rising sun, the green of the land and brown of the coast, the blue of the sea and the red of the setting sun. The Ayrshire tartan is intended for those with connections in the districts of Kyle, Cunninghame and Inverclyde.&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db3dg10db5ly1db10k1r4w1~x4/"><circle cx="235.2" cy="182.7" r="4" fill="#3465a4"><title>Côté-Haché (Personal)</title></circle></a><a href="/setts/s7/dp4db2t8db25k8g13ly4~x2/"><circle cx="168.1" cy="173.7" r="4" fill="#3465a4"><title>Renfrewshire</title></circle></a><a href="/setts/s7/db3r2db18k6g18ly2g3~x2/"><circle cx="184.9" cy="184.2" r="4" fill="#3465a4"><title>McComb (Personal)</title></circle></a><a href="/setts/s6/t15k10dt30o11w3lg5~x2/"><circle cx="154.5" cy="192.6" r="4" fill="#3465a4"><title>McHale, Barry</title></circle></a><a href="/setts/s8/k4db8k4db8r2g10k1w2~x2/"><circle cx="167.4" cy="207.4" r="4" fill="#3465a4"><title>MacKean Green (Personal)</title></circle></a><circle cx="186.3" cy="200.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k29r3dt24n6k8w4n8o6~x2/"><circle cx="174.7" cy="178.6" r="4" fill="#3465a4"><title>Yates (Personal)</title></circle></a><a href="/setts/s7/m4db2t7db20k7g10ly4~x2/"><circle cx="139.2" cy="183.8" r="4" fill="#3465a4"><title>Renfrewshire District Tartan Tartan Number: 2560. Earliest known date: 1998 Designed for anyone residing in the County of Renfrewshire See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/dg3lo2m10dg10b20dg12r3b10w2~x2/"><circle cx="185.8" cy="189.7" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/setts/s9/r1b8k4g1dg4g1k4b8ly1~x6/"><circle cx="200.1" cy="190.7" r="4" fill="#3465a4"><title>Quinn (Personal)</title></circle></a><a href="/setts/s8/db2r1db10w1dy4g8ly1g2~x4/"><circle cx="191.2" cy="172.9" r="4" fill="#3465a4"><title>Ayrshire District Tartan Tartan Number: 436. Earliest known date: 1988 Dr Phil Smith, a Fellow of the Scottish Tartans Society, designed the Ayrshire district tartan at the suggestion of the Clan Boyd and Clan Cunningham Societies. In his book, 'District Tartans' (1992) co-authored with Dr G Teall, he says, the colours &quot;..reflect the gold of the rising sun, the green of the land and brown of the coast, the blue of the sea and the red of the setting sun. The Ayrshire tartan is intended for those with connections in the districts of Kyle, Cunninghame and Inverclyde.&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db3dg10db5ly1db10k1r4w1~x4/"><circle cx="235.3" cy="182.7" r="4" fill="#3465a4"><title>Côté-Haché (Personal)</title></circle></a><a href="/setts/s7/dp4db2t8db25k8g13ly4~x2/"><circle cx="168.2" cy="173.8" r="4" fill="#3465a4"><title>Renfrewshire</title></circle></a><a href="/setts/s7/db3r2db18k6g18ly2g3~x2/"><circle cx="185.0" cy="184.3" r="4" fill="#3465a4"><title>McComb (Personal)</title></circle></a><a href="/setts/s6/t15k10dt30o11w3lg5~x2/"><circle cx="154.6" cy="192.7" r="4" fill="#3465a4"><title>McHale, Barry</title></circle></a><a href="/setts/s8/k4db8k4db8r2g10k1w2~x2/"><circle cx="167.5" cy="207.4" r="4" fill="#3465a4"><title>MacKean Green (Personal)</title></circle></a><circle cx="186.4" cy="201.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r3g9y15db10k2db18w3~x2/

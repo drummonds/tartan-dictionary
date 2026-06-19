@@ -20,7 +20,7 @@ GYGRY
 
 
 
-### G LO DG R LO <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">G LO DG R LO</span></span>
+### LO R DG LO G <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO R DG LO G</span></span>
 
 | Tartans |
 |---------------|

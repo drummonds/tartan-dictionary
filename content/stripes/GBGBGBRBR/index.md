@@ -19,7 +19,7 @@ GBGBGBRBR
 Grouped by stripe pattern — the 4 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DG DB DG DB DG DB M DB M <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="seq">DG DB DG DB DG DB M DB M</span></span>
+### M DB M DB DG DB DG DB DG <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">M DB M DB DG DB DG DB DG</span></span>
 
 | Tartans |
 |---------------|
@@ -28,7 +28,7 @@ Grouped by stripe pattern — the 4 human-palette shadings of this band pattern,
 | [Lindsay MINI Design Tartan Tartan Number: 7111. Earliest known date: Dupion Silk. Display Purposes Only. Reduced Copy of 704 Lindsay. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/dg20db2dg2db2dg2db8m24db2m3/)|
 |![Lindsay MINI Design Tartan Tartan Number: 7111. Earliest known date: Dupion Silk. Display Purposes Only. Reduced Copy of 704 Lindsay. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/dg20db2dg2db2dg2db8m24db2m3/sett.png)|
 
-### DG DB DG DB DG DB R DB R <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG DB DG DB DG DB R DB R</span></span>
+### R DB R DB DG DB DG DB DG <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">R DB R DB DG DB DG DB DG</span></span>
 
 | Tartans |
 |---------------|
@@ -37,14 +37,14 @@ Grouped by stripe pattern — the 4 human-palette shadings of this band pattern,
 | [Lindsay](/setts/s9/dg20db2dg2db2dg2db8r24db2r3~x2/)|
 |![Lindsay example sett](/setts/s9/dg20db2dg2db2dg2db8r24db2r3~x2/sett.png)|
 
-### DG DB DG DB DG DB O DB O <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DG DB DG DB DG DB O DB O</span></span>
+### O DB O DB DG DB DG DB DG <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">O DB O DB DG DB DG DB DG</span></span>
 
 | Tartans |
 |---------------|
 | [Lindsay](/setts/s9/dg20db2dg2db2dg2db8o24db2o3/)|
 |![Lindsay example sett](/setts/s9/dg20db2dg2db2dg2db8o24db2o3/sett.png)|
 
-### G DB G DB G DB R DB R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">G DB G DB G DB R DB R</span></span>
+### R DB R DB G DB G DB G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DB R DB G DB G DB G</span></span>
 
 | Tartans |
 |---------------|

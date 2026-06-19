@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DG/2 DR6 DG7 DR28 DB7 DR3 DB3 DR3 DB15 DR7 DB2 LG/4
+LG/4 DB2 DR7 DB15 DR3 DB3 DR3 DB7 DR28 DG7 DR6 DG/2
 ![Sett](sett.png)
 
 ## Palette
@@ -907,16 +910,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Stewart of Bute Hunting](/setts/s10/dr22g11k2g4k2g6k16dr40dr2lb6~x2/) — ΔT 1.06
 1. [Great Dane, The](/setts/s13/db6r30db6r30db6g6db6r6db15r2g10db15r2/) — ΔT 1.11
 1. [Gwyn Welsh Name Tartan Tartan Number: 5734. Earliest known date: 2002 The tartan for this Welsh surname and its spelling variation, Wynn, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/w2k35db30k3r30k2r4k2r30k3w2/) — ΔT 1.15
-1. [Robertson D](/setts/s13/r5dg2r30db3r3db30r3dg30r3db3r30dg2r5~x2/) — ΔT 1.15
-1. [Robertson D](/setts/s13/r5dg2r30db3r3db30r3dg30r3db3r30dg2r5/) — ΔT 1.15
+1. [Robertson D](/setts/s13/r5dg2r30db3r3dg30r3db30r3db3r30dg2r5~x2/) — ΔT 1.15
+1. [Robertson D](/setts/s13/r5dg2r30db3r3dg30r3db30r3db3r30dg2r5/) — ΔT 1.15
 1. [Gallmore (Fashion)](/setts/s9/o3k14r3k14t3r32k2r6k2~x2/) — ΔT 1.17
 1. [Walker Family Tartan Tartan Number: 2068. Earliest known date: 1991 R.W.Hawks submitted this tartan via Phil Smith in January 1991. Hawks advised Oct. 1993 that he is agreeable for any Walkers to use this tartan. Marroon Red. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/ly4dt2r7dt15r4dt3r4dt7r28dg7r6dg2/) — ΔT 1.18
 1. [Hebridean 5](/setts/s11/db25db2r25g10r4db25r2g2r25g2r2~x2/) — ΔT 1.21
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/o4k2r7k15r3k3r3k7r28dg7r6dg2~x2/"><circle cx="324.8" cy="164.5" r="4" fill="#3465a4"><title>Walker, Evening (Name)</title></circle></a><a href="/setts/s11/db4t2k2db12t4r6k6r28k2t2r3~x2/"><circle cx="289.6" cy="144.0" r="4" fill="#3465a4"><title>Hudson (Personal)</title></circle></a><a href="/setts/s10/dr22g11k2g4k2g6k16dr40dr2lb6~x2/"><circle cx="363.2" cy="160.4" r="4" fill="#3465a4"><title>Stewart of Bute Hunting</title></circle></a><a href="/setts/s13/db6r30db6r30db6g6db6r6db15r2g10db15r2/"><circle cx="293.5" cy="173.6" r="4" fill="#3465a4"><title>Great Dane, The</title></circle></a><a href="/setts/s11/w2k35db30k3r30k2r4k2r30k3w2/"><circle cx="297.9" cy="158.9" r="4" fill="#3465a4"><title>Gwyn Welsh Name Tartan Tartan Number: 5734. Earliest known date: 2002 The tartan for this Welsh surname and its spelling variation, Wynn, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/r5dg2r30db3r3db30r3dg30r3db3r30dg2r5~x2/"><circle cx="340.0" cy="163.5" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/setts/s13/r5dg2r30db3r3db30r3dg30r3db3r30dg2r5/"><circle cx="340.0" cy="163.5" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/setts/s9/o3k14r3k14t3r32k2r6k2~x2/"><circle cx="357.8" cy="168.3" r="4" fill="#3465a4"><title>Gallmore (Fashion)</title></circle></a><a href="/setts/s12/ly4dt2r7dt15r4dt3r4dt7r28dg7r6dg2/"><circle cx="351.2" cy="178.0" r="4" fill="#3465a4"><title>Walker Family Tartan Tartan Number: 2068. Earliest known date: 1991 R.W.Hawks submitted this tartan via Phil Smith in January 1991. Hawks advised Oct. 1993 that he is agreeable for any Walkers to use this tartan. Marroon Red. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/db25db2r25g10r4db25r2g2r25g2r2~x2/"><circle cx="264.2" cy="159.1" r="4" fill="#3465a4"><title>Hebridean 5</title></circle></a><circle cx="324.9" cy="163.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/o4k2r7k15r3k3r3k7r28dg7r6dg2~x2/"><circle cx="324.7" cy="164.4" r="4" fill="#3465a4"><title>Walker, Evening (Name)</title></circle></a><a href="/setts/s11/db4t2k2db12t4r6k6r28k2t2r3~x2/"><circle cx="289.5" cy="144.0" r="4" fill="#3465a4"><title>Hudson (Personal)</title></circle></a><a href="/setts/s10/dr22g11k2g4k2g6k16dr40dr2lb6~x2/"><circle cx="363.1" cy="160.3" r="4" fill="#3465a4"><title>Stewart of Bute Hunting</title></circle></a><a href="/setts/s13/db6r30db6r30db6g6db6r6db15r2g10db15r2/"><circle cx="293.4" cy="173.6" r="4" fill="#3465a4"><title>Great Dane, The</title></circle></a><a href="/setts/s11/w2k35db30k3r30k2r4k2r30k3w2/"><circle cx="297.8" cy="159.0" r="4" fill="#3465a4"><title>Gwyn Welsh Name Tartan Tartan Number: 5734. Earliest known date: 2002 The tartan for this Welsh surname and its spelling variation, Wynn, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/r5dg2r30db3r3dg30r3db30r3db3r30dg2r5~x2/"><circle cx="339.8" cy="163.4" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/setts/s13/r5dg2r30db3r3dg30r3db30r3db3r30dg2r5/"><circle cx="339.8" cy="163.4" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/setts/s9/o3k14r3k14t3r32k2r6k2~x2/"><circle cx="357.6" cy="168.3" r="4" fill="#3465a4"><title>Gallmore (Fashion)</title></circle></a><a href="/setts/s12/ly4dt2r7dt15r4dt3r4dt7r28dg7r6dg2/"><circle cx="351.0" cy="178.0" r="4" fill="#3465a4"><title>Walker Family Tartan Tartan Number: 2068. Earliest known date: 1991 R.W.Hawks submitted this tartan via Phil Smith in January 1991. Hawks advised Oct. 1993 that he is agreeable for any Walkers to use this tartan. Marroon Red. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/db25db2r25g10r4db25r2g2r25g2r2~x2/"><circle cx="264.1" cy="159.0" r="4" fill="#3465a4"><title>Hebridean 5</title></circle></a><circle cx="324.7" cy="163.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/y4k2r7k15r3k3r3k7r28dg7r6dg2/

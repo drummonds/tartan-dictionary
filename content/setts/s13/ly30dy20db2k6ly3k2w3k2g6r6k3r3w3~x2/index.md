@@ -2,7 +2,7 @@
 title: "Cree"
 date: 2023-03-18
 ---
-**Bands:** [WRKRGKWKYKBGY](/stripes/wrkrgkwkykbgy/) · **Stripes:** [W R K R G K W K LY K DB DY LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W R K R G K W K LY K DB DY LY</span></span>
+**Bands:** [YGBKYKWKGRKRW](/stripes/ygbkykwkgrkrw/) · **Stripes:** [LY DY DB K LY K W K G R K R W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DY DB K LY K W K G R K R W</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
@@ -21,11 +21,11 @@ External register numbers recorded for this tartan.
 
 Other setts woven to the same stripe pattern.
 
-- [Cree (Fashion)](/setts/s13/ly3dy20db2k6ly3k2w3k2g6r6k3r3w3~x2/)
+- [Cree (Fashion)](/setts/s13/w3r3k3r6g6k2w3k2ly3k6db2dy20ly3~x2/)
 
 
 ## Thread count
-W/6 R6 K6 R12 G12 K4 W6 K4 Y6 K12 DB4 T40 Y/60
+Y/60 T40 DB4 K12 Y6 K4 W6 K4 G12 R12 K6 R6 W/6
 ![Sett](sett.png)
 
 ## Palette
@@ -58,8 +58,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k2r16w1db2w1ly3w2ly3w1db2w1g16t2~x2/"><circle cx="108.2" cy="59.6" r="4" fill="#3465a4"><title>Gibbs, Gibson</title></circle></a><a href="/setts/s14/r30r2k6r2g17ly7w2k2w2ly4t7w2k6w6~x2/"><circle cx="73.5" cy="60.2" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/setts/s13/dg1r16w1db2w2ly4w2ly4w2db2w1dg16t1~x4/"><circle cx="123.7" cy="71.1" r="4" fill="#3465a4"><title>Gibbs/Gibson (Name)</title></circle></a><a href="/setts/s13/t3g31k2t4k2ly8k2ly8k2t4k2r31w3~x2/"><circle cx="121.3" cy="76.3" r="4" fill="#3465a4"><title>Buchanan 8</title></circle></a><a href="/setts/s13/r3w34k2o4k2ly7k2ly7k2o4k2dy34t3~x2/"><circle cx="113.7" cy="48.2" r="4" fill="#3465a4"><title>Buchanan Dress Clan Tartan Tartan Number: 608. Earliest known date: 1977 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r30r2k6r2dg17ly7w2k2w2ly4t7w2k6w6~x2/"><circle cx="83.5" cy="62.5" r="4" fill="#3465a4"><title>Dundee #2</title></circle></a><a href="/setts/s11/w2r16k1t2k1ly4k1t2k1g16t1~x2/"><circle cx="154.2" cy="84.5" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><a href="/setts/s13/r3w34k2y4k2ly7k2ly7k2y4k2dy34t3~x2/"><circle cx="111.3" cy="48.4" r="4" fill="#3465a4"><title>Buchanan Dress</title></circle></a><a href="/setts/s13/w2r16k1t2k1ly4k1ly4k1t2k1g16t1~x4/"><circle cx="137.7" cy="78.9" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/setts/s11/o40ly10w6lo10dy6lo4dy6lo4dy60k34t11/"><circle cx="133.9" cy="90.7" r="4" fill="#3465a4"><title>Angels' Share, The</title></circle></a><circle cx="111.9" cy="61.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k2r16w1db2w1ly3w2ly3w1db2w1g16t2~x2/"><circle cx="108.0" cy="59.8" r="4" fill="#3465a4"><title>Gibbs, Gibson</title></circle></a><a href="/setts/s14/r30r2k6r2g17ly7w2k2w2ly4t7w2k6w6~x2/"><circle cx="73.3" cy="60.4" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/setts/s13/dg1r16w1db2w2ly4w2ly4w2db2w1dg16t1~x4/"><circle cx="123.4" cy="71.2" r="4" fill="#3465a4"><title>Gibbs/Gibson (Name)</title></circle></a><a href="/setts/s13/t3g31k2t4k2ly8k2ly8k2t4k2r31w3~x2/"><circle cx="121.1" cy="76.4" r="4" fill="#3465a4"><title>Buchanan 8</title></circle></a><a href="/setts/s13/r3w34k2o4k2ly7k2ly7k2o4k2dy34t3~x2/"><circle cx="113.4" cy="48.3" r="4" fill="#3465a4"><title>Buchanan Dress Clan Tartan Tartan Number: 608. Earliest known date: 1977 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r30r2k6r2dg17ly7w2k2w2ly4t7w2k6w6~x2/"><circle cx="83.3" cy="62.7" r="4" fill="#3465a4"><title>Dundee #2</title></circle></a><a href="/setts/s11/w2r16k1t2k1ly4k1t2k1g16t1~x2/"><circle cx="153.9" cy="84.6" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><a href="/setts/s13/r3w34k2y4k2ly7k2ly7k2y4k2dy34t3~x2/"><circle cx="111.0" cy="48.5" r="4" fill="#3465a4"><title>Buchanan Dress</title></circle></a><a href="/setts/s13/w2r16k1t2k1ly4k1ly4k1t2k1g16t1~x4/"><circle cx="137.4" cy="79.0" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/setts/s11/o40ly10w6lo10dy6lo4dy6lo4dy60k34t11/"><circle cx="133.7" cy="90.9" r="4" fill="#3465a4"><title>Angels' Share, The</title></circle></a><circle cx="111.6" cy="61.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/ly30dy20db2k6ly3k2w3k2g6r6k3r3w3~x2/

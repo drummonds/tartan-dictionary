@@ -20,7 +20,7 @@ BRBBBY
 
 
 
-### DO R DO B DO LO <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DO R DO B DO LO</span></span>
+### LO DO B DO R DO <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="seq">LO DO B DO R DO</span></span>
 
 | Tartans |
 |---------------|

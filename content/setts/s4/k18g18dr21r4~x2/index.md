@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -919,8 +922,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/db4k5g4r1~x4/"><circle cx="108.5" cy="293.3" r="4" fill="#3465a4"><title>Unidentified, pattern</title></circle></a><a href="/setts/s4/r6g5k5t1~x2/"><circle cx="118.4" cy="268.7" r="4" fill="#3465a4"><title>Unnamed, No 28</title></circle></a><a href="/setts/s4/p8k11g9r2~x2/"><circle cx="119.0" cy="279.2" r="4" fill="#3465a4"><title>Wilson's, No 159</title></circle></a><a href="/setts/s4/r9g9k10t2~x2/"><circle cx="124.4" cy="290.9" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><a href="/setts/s4/p8k11g9w2~x2/"><circle cx="109.5" cy="276.1" r="4" fill="#3465a4"><title>Wilson's, No 220</title></circle></a><a href="/setts/s5/k2g8k7db8r2~x2/"><circle cx="98.3" cy="279.7" r="4" fill="#3465a4"><title>Denholme</title></circle></a><a href="/setts/s4/lo9g9k10t2~x2/"><circle cx="83.8" cy="274.1" r="4" fill="#3465a4"><title>Wilson's, No 196</title></circle></a><a href="/setts/s4/p6k5g5r1~x2/"><circle cx="121.5" cy="273.5" r="4" fill="#3465a4"><title>Unnamed, No 60</title></circle></a><a href="/setts/s5/k5g20k18db20r5~x2/"><circle cx="110.1" cy="284.5" r="4" fill="#3465a4"><title>Denholm (Fashion)</title></circle></a><a href="/setts/s4/r6dg5k5t1~x2/"><circle cx="144.4" cy="277.3" r="4" fill="#3465a4"><title>Unidentified No 28</title></circle></a><circle cx="121.0" cy="292.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/db4k5g4r1~x4/"><circle cx="108.8" cy="293.2" r="4" fill="#3465a4"><title>Unidentified, pattern</title></circle></a><a href="/setts/s4/r6g5k5t1~x2/"><circle cx="118.6" cy="268.6" r="4" fill="#3465a4"><title>Unnamed, No 28</title></circle></a><a href="/setts/s4/p8k11g9r2~x2/"><circle cx="119.3" cy="279.1" r="4" fill="#3465a4"><title>Wilson's, No 159</title></circle></a><a href="/setts/s4/r9g9k10t2~x2/"><circle cx="124.6" cy="290.8" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><a href="/setts/s4/p8k11g9w2~x2/"><circle cx="109.8" cy="275.9" r="4" fill="#3465a4"><title>Wilson's, No 220</title></circle></a><a href="/setts/s5/k2g8k7db8r2~x2/"><circle cx="98.7" cy="279.6" r="4" fill="#3465a4"><title>Denholme</title></circle></a><a href="/setts/s4/lo9g9k10t2~x2/"><circle cx="83.9" cy="274.0" r="4" fill="#3465a4"><title>Wilson's, No 196</title></circle></a><a href="/setts/s4/p6k5g5r1~x2/"><circle cx="121.7" cy="273.4" r="4" fill="#3465a4"><title>Unnamed, No 60</title></circle></a><a href="/setts/s5/k5g20k18db20r5~x2/"><circle cx="110.5" cy="284.5" r="4" fill="#3465a4"><title>Denholm (Fashion)</title></circle></a><a href="/setts/s4/r6dg5k5t1~x2/"><circle cx="144.5" cy="277.3" r="4" fill="#3465a4"><title>Unidentified No 28</title></circle></a><circle cx="121.3" cy="292.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/k18g18dr21r4~x2/

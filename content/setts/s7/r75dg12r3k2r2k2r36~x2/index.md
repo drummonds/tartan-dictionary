@@ -2,12 +2,19 @@
 title: "MacKintosh #5"
 date: 2023-03-18
 ---
-**Bands:** [RGRKRKR](/stripes/rgrkrkr/) · **Stripes:** [R DG R K R K R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG R K R K R</span></span>
+**Bands:** [RKRKRGR](/stripes/rkrkrgr/) · **Stripes:** [R K R K R DG R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K R DG R</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2563
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacKintosh #5
+- MacKintosh 4
 
 ## Register references
 
@@ -57,8 +64,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r75g12r3k2r2k2r36~x2/"><circle cx="626.0" cy="147.3" r="4" fill="#3465a4"><title>MacKintosh 4</title></circle></a><a href="/setts/s11/r52k2r5g3r5k5r5ly3r5k2r52~x2/"><circle cx="626.0" cy="120.3" r="4" fill="#3465a4"><title>Taplin (Name)</title></circle></a><a href="/setts/s11/r52k2r5dg3r5k5r5ly3r5k2r52~x2/"><circle cx="626.0" cy="113.3" r="4" fill="#3465a4"><title>Taplin</title></circle></a><a href="/setts/s5/r39dg6r2dg3w1~x2/"><circle cx="626.0" cy="146.2" r="4" fill="#3465a4"><title>MacGregor #2</title></circle></a><a href="/setts/s5/r39g6r2g3w1~x2/"><circle cx="626.0" cy="155.1" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s8/r65w2r3r4g11r3g3r11~x2/"><circle cx="621.6" cy="122.3" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken</title></circle></a><a href="/setts/s8/r42dp4ly1dp6g1dp1g1r12~x2/"><circle cx="624.1" cy="112.1" r="4" fill="#3465a4"><title>Earl of Inverness (Artefact)</title></circle></a><a href="/setts/s8/r65w2r3r4dg11r3dg3r11/"><circle cx="614.3" cy="120.2" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken</title></circle></a><a href="/setts/s8/r65w1r6k8g8r6k3r11~x2/"><circle cx="617.6" cy="101.6" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken #2</title></circle></a><a href="/setts/s8/r42db4ly1db6dg1db1dg1r12~x2/"><circle cx="608.3" cy="103.3" r="4" fill="#3465a4"><title>Inverness Earl of</title></circle></a><circle cx="626.0" cy="145.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r75g12r3k2r2k2r36~x2/"><circle cx="626.0" cy="146.8" r="4" fill="#3465a4"><title>MacKintosh 4</title></circle></a><a href="/setts/s11/r52k2r5g3r5k5r5ly3r5k2r52~x2/"><circle cx="626.0" cy="119.9" r="4" fill="#3465a4"><title>Taplin (Name)</title></circle></a><a href="/setts/s11/r52k2r5dg3r5k5r5ly3r5k2r52~x2/"><circle cx="626.0" cy="113.0" r="4" fill="#3465a4"><title>Taplin</title></circle></a><a href="/setts/s5/r39dg6r2dg3w1~x2/"><circle cx="626.0" cy="145.8" r="4" fill="#3465a4"><title>MacGregor #2</title></circle></a><a href="/setts/s5/r39g6r2g3w1~x2/"><circle cx="626.0" cy="154.7" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s8/r65w2r3r4g11r3g3r11~x2/"><circle cx="620.9" cy="122.0" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken</title></circle></a><a href="/setts/s8/r42dp4ly1dp6g1dp1g1r12~x2/"><circle cx="623.4" cy="111.9" r="4" fill="#3465a4"><title>Earl of Inverness (Artefact)</title></circle></a><a href="/setts/s8/r65w2r3r4dg11r3dg3r11/"><circle cx="613.6" cy="120.0" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken</title></circle></a><a href="/setts/s8/r65w1r6k8g8r6k3r11~x2/"><circle cx="616.9" cy="101.3" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken #2</title></circle></a><a href="/setts/s8/r42db4ly1db6dg1db1dg1r12~x2/"><circle cx="607.5" cy="103.0" r="4" fill="#3465a4"><title>Inverness Earl of</title></circle></a><circle cx="626.0" cy="144.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r75dg12r3k2r2k2r36~x2/

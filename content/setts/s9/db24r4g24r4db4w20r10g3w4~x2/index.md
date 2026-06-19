@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Robertson, dress
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,10 +920,10 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Robertson Dress (Dalgleish) #2](/setts/s8/db24r4g24r4w20r10g3w4~x2/) — ΔT 0.49
 1. [Bannockbane Tan](/setts/s8/do4ly2do13ly1w13t13ly2t4~x2/) — ΔT 1.01
-1. [Stevenson](/setts/s9/ly1db6ly1r2ly1r2ly1g6r1~x2/) — ΔT 1.06
+1. [Stevenson](/setts/s9/r1g6ly1r2ly1r2ly1db6ly1~x2/) — ΔT 1.06
 1. [National Trust](/setts/s8/g2do8g8lo3do1w12g2do1~x2/) — ΔT 1.11
 1. [Bannockbane Hunting (MacBean and Bishop)](/setts/s8/dg3o2dg14o1w10y14o2y3~x2/) — ΔT 1.11
-1. [Black Watch Dress, Brown/Grey (Fash)](/setts/s13/lb1n1lb6n1lb1dt3y4dt1y4dt3n3dt1n1~x4/) — ΔT 1.14
+1. [Black Watch Dress, Brown/Grey (Fash)](/setts/s13/n1dt1n3dt3y4dt1y4dt3lb1n1lb6n1lb1~x4/) — ΔT 1.14
 1. [National Trust](/setts/s8/dg2dr8dg8o3dr1w12dg2dr1~x2/) — ΔT 1.15
 1. [Gray, Sir John Hamilton (Commem)](/setts/s10/w4dt6r3dt10n14lo6w18lo6n4lo2~x2/) — ΔT 1.17
 1. [Holden Beige (Corporate)](/setts/s8/lb13k3lb3k3lb3k15lo18r3~x2/) — ΔT 1.18
@@ -922,8 +931,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db24r4g24r4w20r10g3w4~x2/"><circle cx="106.2" cy="188.8" r="4" fill="#3465a4"><title>Robertson Dress (Dalgleish) #2</title></circle></a><a href="/setts/s8/do4ly2do13ly1w13t13ly2t4~x2/"><circle cx="142.4" cy="168.0" r="4" fill="#3465a4"><title>Bannockbane Tan</title></circle></a><a href="/setts/s9/ly1db6ly1r2ly1r2ly1g6r1~x2/"><circle cx="117.7" cy="193.6" r="4" fill="#3465a4"><title>Stevenson</title></circle></a><a href="/setts/s8/g2do8g8lo3do1w12g2do1~x2/"><circle cx="145.2" cy="169.6" r="4" fill="#3465a4"><title>National Trust</title></circle></a><a href="/setts/s8/dg3o2dg14o1w10y14o2y3~x2/"><circle cx="167.9" cy="167.2" r="4" fill="#3465a4"><title>Bannockbane Hunting (MacBean and Bishop)</title></circle></a><a href="/setts/s13/lb1n1lb6n1lb1dt3y4dt1y4dt3n3dt1n1~x4/"><circle cx="81.3" cy="190.8" r="4" fill="#3465a4"><title>Black Watch Dress, Brown/Grey (Fash)</title></circle></a><a href="/setts/s8/dg2dr8dg8o3dr1w12dg2dr1~x2/"><circle cx="144.1" cy="169.0" r="4" fill="#3465a4"><title>National Trust</title></circle></a><a href="/setts/s10/w4dt6r3dt10n14lo6w18lo6n4lo2~x2/"><circle cx="65.9" cy="162.0" r="4" fill="#3465a4"><title>Gray, Sir John Hamilton (Commem)</title></circle></a><a href="/setts/s8/lb13k3lb3k3lb3k15lo18r3~x2/"><circle cx="129.0" cy="191.3" r="4" fill="#3465a4"><title>Holden Beige (Corporate)</title></circle></a><a href="/setts/s8/dr4ly2dr13ly1w8t13ly2t4~x2/"><circle cx="164.1" cy="170.8" r="4" fill="#3465a4"><title>Bannockbane, Dark Tan</title></circle></a><circle cx="110.6" cy="182.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db24r4g24r4w20r10g3w4~x2/"><circle cx="106.1" cy="188.7" r="4" fill="#3465a4"><title>Robertson Dress (Dalgleish) #2</title></circle></a><a href="/setts/s8/do4ly2do13ly1w13t13ly2t4~x2/"><circle cx="142.3" cy="167.9" r="4" fill="#3465a4"><title>Bannockbane Tan</title></circle></a><a href="/setts/s9/r1g6ly1r2ly1r2ly1db6ly1~x2/"><circle cx="117.6" cy="193.6" r="4" fill="#3465a4"><title>Stevenson</title></circle></a><a href="/setts/s8/g2do8g8lo3do1w12g2do1~x2/"><circle cx="145.1" cy="169.5" r="4" fill="#3465a4"><title>National Trust</title></circle></a><a href="/setts/s8/dg3o2dg14o1w10y14o2y3~x2/"><circle cx="167.8" cy="167.2" r="4" fill="#3465a4"><title>Bannockbane Hunting (MacBean and Bishop)</title></circle></a><a href="/setts/s13/n1dt1n3dt3y4dt1y4dt3lb1n1lb6n1lb1~x4/"><circle cx="81.2" cy="190.8" r="4" fill="#3465a4"><title>Black Watch Dress, Brown/Grey (Fash)</title></circle></a><a href="/setts/s8/dg2dr8dg8o3dr1w12dg2dr1~x2/"><circle cx="144.0" cy="168.9" r="4" fill="#3465a4"><title>National Trust</title></circle></a><a href="/setts/s10/w4dt6r3dt10n14lo6w18lo6n4lo2~x2/"><circle cx="65.8" cy="162.0" r="4" fill="#3465a4"><title>Gray, Sir John Hamilton (Commem)</title></circle></a><a href="/setts/s8/lb13k3lb3k3lb3k15lo18r3~x2/"><circle cx="128.9" cy="191.2" r="4" fill="#3465a4"><title>Holden Beige (Corporate)</title></circle></a><a href="/setts/s8/dr4ly2dr13ly1w8t13ly2t4~x2/"><circle cx="163.9" cy="170.8" r="4" fill="#3465a4"><title>Bannockbane, Dark Tan</title></circle></a><circle cx="110.5" cy="182.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/db24r4g24r4db4w20r10g3w4~x2/

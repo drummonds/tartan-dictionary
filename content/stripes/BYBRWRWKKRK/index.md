@@ -18,10 +18,10 @@ BYBRWRWKKRK
 
 
 
-### DB LY DB O W R W K K R K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">DB LY DB O W R W K K R K</span></span>
+### K R K K W R W O DB LY DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">K R K K W R W O DB LY DB</span></span>
 
 | Tartans |
 |---------------|
-| [Asman, Dress (Name)](/setts/s11/db4ly3db22o6w2r6w2k6k20r3k4~x2/)|
-|![Asman, Dress (Name) example sett](/setts/s11/db4ly3db22o6w2r6w2k6k20r3k4~x2/sett.png)|
+| [Asman, Dress (Name)](/setts/s11/k4r3k20k6w2r6w2o6db22ly3db4~x2/)|
+|![Asman, Dress (Name) example sett](/setts/s11/k4r3k20k6w2r6w2o6db22ly3db4~x2/sett.png)|
 

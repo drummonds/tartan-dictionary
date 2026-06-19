@@ -13,13 +13,23 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Thread count
 N/6 G30 DB36 R60 DB2 R/4
@@ -44,7 +54,6 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Ruthven](/setts/s6/lr3dg15db18r30dg1r2~x2/) — ΔT 0.72
-1. [Ruthven](/setts/s6/lr3dg15db18r30dg1r2/) — ΔT 0.72
 1. [Fraser](/setts/s6/r2db12r2dg12r24w1~x2/) — ΔT 0.85
 1. [Ruthven](/setts/s6/w3g15db18r30g1r2~x2/) — ΔT 1.12
 1. [Loch Ness](/setts/s6/r10w2k10w10dy35k5~x2/) — ΔT 1.17
@@ -53,11 +62,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Fraser (1745)](/setts/s6/r2db12r2g12r24w1~x2/) — ΔT 1.25
 1. [Southdown Tartan Tartan Number: 1194. Earliest known date: pre 2003 Designed for the Glasgow conference in 2002 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/k8r1k3w5k5w3k5dr23r3~x2/) — ΔT 1.28
 1. [MacQuarrie LO](/setts/s7/r6dg16r4db12r16lb1r2~x2/) — ΔT 1.29
+1. [Clyde Family (Hurleford) (Personal)](/setts/s7/r64k30g30db18w4db2w3/) — ΔT 1.30
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/lr3dg15db18r30dg1r2~x2/"><circle cx="301.1" cy="163.0" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><a href="/setts/s6/lr3dg15db18r30dg1r2/"><circle cx="301.1" cy="163.0" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><a href="/setts/s6/r2db12r2dg12r24w1~x2/"><circle cx="322.1" cy="161.6" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/setts/s6/w3g15db18r30g1r2~x2/"><circle cx="299.6" cy="156.5" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><a href="/setts/s6/r10w2k10w10dy35k5~x2/"><circle cx="253.3" cy="169.3" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/setts/s7/r64k30g30b18w4b2w3/"><circle cx="230.2" cy="119.6" r="4" fill="#3465a4"><title>Clyde (Personal)</title></circle></a><a href="/setts/s6/r10w2k10w10o35k5~x2/"><circle cx="241.2" cy="161.0" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/setts/s6/r2db12r2g12r24w1~x2/"><circle cx="333.7" cy="163.4" r="4" fill="#3465a4"><title>Fraser (1745)</title></circle></a><a href="/setts/s9/k8r1k3w5k5w3k5dr23r3~x2/"><circle cx="248.0" cy="141.8" r="4" fill="#3465a4"><title>Southdown Tartan Tartan Number: 1194. Earliest known date: pre 2003 Designed for the Glasgow conference in 2002 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r6dg16r4db12r16lb1r2~x2/"><circle cx="268.5" cy="186.2" r="4" fill="#3465a4"><title>MacQuarrie LO</title></circle></a><circle cx="283.2" cy="150.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/lr3dg15db18r30dg1r2~x2/"><circle cx="301.0" cy="162.9" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><a href="/setts/s6/r2db12r2dg12r24w1~x2/"><circle cx="322.0" cy="161.5" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/setts/s6/w3g15db18r30g1r2~x2/"><circle cx="299.4" cy="156.4" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><a href="/setts/s6/r10w2k10w10dy35k5~x2/"><circle cx="253.1" cy="169.2" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/setts/s7/r64k30g30b18w4b2w3/"><circle cx="230.0" cy="119.5" r="4" fill="#3465a4"><title>Clyde (Personal)</title></circle></a><a href="/setts/s6/r10w2k10w10o35k5~x2/"><circle cx="241.0" cy="160.8" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/setts/s6/r2db12r2g12r24w1~x2/"><circle cx="333.4" cy="163.2" r="4" fill="#3465a4"><title>Fraser (1745)</title></circle></a><a href="/setts/s9/k8r1k3w5k5w3k5dr23r3~x2/"><circle cx="247.9" cy="141.8" r="4" fill="#3465a4"><title>Southdown Tartan Tartan Number: 1194. Earliest known date: pre 2003 Designed for the Glasgow conference in 2002 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r6dg16r4db12r16lb1r2~x2/"><circle cx="268.3" cy="186.1" r="4" fill="#3465a4"><title>MacQuarrie LO</title></circle></a><a href="/setts/s7/r64k30g30db18w4db2w3/"><circle cx="230.8" cy="117.4" r="4" fill="#3465a4"><title>Clyde Family (Hurleford) (Personal)</title></circle></a><circle cx="283.1" cy="150.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/lb3dg15db18r30db1r2~x2/

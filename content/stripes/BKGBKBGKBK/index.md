@@ -18,10 +18,10 @@ BKGBKBGKBK
 
 
 
-### T K G DP K DP G K T K <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="seq">T K G DP K DP G K T K</span></span>
+### K T K G DP K DP G K T <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K T K G DP K DP G K T</span></span>
 
 | Tartans |
 |---------------|
-| [Wilson's No.167](/setts/s10/k20t2k6g16dp4k9dp4g16k6t2~x2/)|
-|![Wilson's No.167 example sett](/setts/s10/k20t2k6g16dp4k9dp4g16k6t2~x2/sett.png)|
+| [Wilson's No.167](/setts/s10/k20t2k6g16dp4k9~x2/)|
+|![Wilson's No.167 example sett](/setts/s10/k20t2k6g16dp4k9~x2/sett.png)|
 

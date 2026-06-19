@@ -2,7 +2,7 @@
 title: "Ontario"
 date: 2023-03-18
 ---
-**Bands:** [GRRGRGRGRRYGRRRRRRRRRY](/stripes/grrgrgrgrrygrrrrrrrrry/) · **Stripes:** [G O R G O G O G O R LY G O R O R O R O R O LY](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G O R G O G O G O R LY G O R O R O R O R O LY</span></span>
+**Bands:** [YRRRRRRRRRGYRRGRGRGRRG](/stripes/yrrrrrrrrrgyrrgrgrgrrg/) · **Stripes:** [LY O R O R O R O R O G LY R O G O G O G R O G](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY O R O R O R O R O G LY R O G O G O G R O G</span></span>
 
 
 This was sourced from weddslist.  It is a [22 band tartan](/bands/bands22/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/4 LT4 R20 G8 LT2 G6 LT2 G6 LT8 R8 Y16 G50 LT4 R4 LT4 R4 LT4 R4 LT4 R4 LT4 Y/28
+Y/28 LT4 R4 LT4 R4 LT4 R4 LT4 R4 LT4 G50 Y16 R8 LT8 G6 LT2 G6 LT2 G8 R20 LT4 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -904,19 +907,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Agincourt (Fashion)](/setts/s17/dt4lo1dt3lo1dt1lo1lo1lo6dt4lo2lo6dt7lo6lo1lo28dt1dt1~x4/) — ΔT 1.69
 1. [Alberta (CIDD 28106)](/setts/s36/ly50lo16ly8dy8lo1dy1lo1dy1lo1dy1lo1dy1lo1dy1lo1dy1lo20dy40ly12dy24dg8lo1dg1lo1dg1lo1dg1lo1dg1lo1dg1lo1dg1lo28dg6dy4/) — ΔT 1.76
-1. [MacDougall 7](/setts/s20/w1p2r1g22r3g1r3db9p2r1p2g8r8g8r1db1r22p2r2w1~x2/) — ΔT 1.81
-1. [Green Thistle](/setts/s17/w3dg15lr12ly1lr1ly1lr1ly1lr1ly1lr1ly1lr1ly3ly3ly15w3~x2/) — ΔT 1.83
+1. [MacDougall 7](/setts/s20/w1r2p2r22db1r1g8r8g8p2r1p2db9r3g1r3g22r1p2w1~x2/) — ΔT 1.81
+1. [Green Thistle](/setts/s17/w3dg15lr12ly1lr1ly1lr1ly1lr1ly1lr1ly1lr1ly3ly3ly15w3~x2/) — ΔT 1.84
 1. [Unidentified, coat](/setts/s14/g6r2g2r24t1db1r2db12r2db1t1r2g24r2~x2/) — ΔT 1.84
 1. [New Brunswick](/setts/s22/g14k2r2k2r2k2r2k2r2k2ly25g8r4k4ly3k1ly3k1ly4r10k2ly2~x2/) — ΔT 1.86
 1. [Wilson, Janet](/setts/s22/db30w2t3g3t3g3t3g16r3g3r3g3r3g3r3g25r15g4t4r8w2r15~x2/) — ΔT 1.87
 1. [Unidentified](/setts/s22/ly3g30r7g2r1g8r1g2r7g16k18t8r14g8r1g1r7g1r1g8r27ly3~x2/) — ΔT 1.88
 1. [el Corte](/setts/s15/ly6t5g4t5r2ly5g2ly14g10ly1r30ly10t14g5t2~x2/) — ΔT 1.89
-1. [Waverley Check](/setts/s22/y22w2k3w1k1w1k1w7o5k1o2w1o2k1o5w7k1w1k1w1k3w2~x4/) — ΔT 1.91
+1. [Waverley Check](/setts/s22/y22w2k3w1k1w1k1w7o5k1o2w1~x4/) — ΔT 1.91
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/dt4lo1dt3lo1dt1lo1lo1lo6dt4lo2lo6dt7lo6lo1lo28dt1dt1~x4/"><circle cx="323.9" cy="101.6" r="4" fill="#3465a4"><title>Agincourt (Fashion)</title></circle></a><a href="/setts/s36/ly50lo16ly8dy8lo1dy1lo1dy1lo1dy1lo1dy1lo1dy1lo1dy1lo20dy40ly12dy24dg8lo1dg1lo1dg1lo1dg1lo1dg1lo1dg1lo1dg1lo28dg6dy4/"><circle cx="263.6" cy="26.4" r="4" fill="#3465a4"><title>Alberta (CIDD 28106)</title></circle></a><a href="/setts/s20/w1p2r1g22r3g1r3db9p2r1p2g8r8g8r1db1r22p2r2w1~x2/"><circle cx="252.7" cy="83.6" r="4" fill="#3465a4"><title>MacDougall 7</title></circle></a><a href="/setts/s17/w3dg15lr12ly1lr1ly1lr1ly1lr1ly1lr1ly1lr1ly3ly3ly15w3~x2/"><circle cx="203.1" cy="108.8" r="4" fill="#3465a4"><title>Green Thistle</title></circle></a><a href="/setts/s14/g6r2g2r24t1db1r2db12r2db1t1r2g24r2~x2/"><circle cx="298.6" cy="111.5" r="4" fill="#3465a4"><title>Unidentified, coat</title></circle></a><a href="/setts/s22/g14k2r2k2r2k2r2k2r2k2ly25g8r4k4ly3k1ly3k1ly4r10k2ly2~x2/"><circle cx="182.3" cy="65.7" r="4" fill="#3465a4"><title>New Brunswick</title></circle></a><a href="/setts/s22/db30w2t3g3t3g3t3g16r3g3r3g3r3g3r3g25r15g4t4r8w2r15~x2/"><circle cx="197.4" cy="106.6" r="4" fill="#3465a4"><title>Wilson, Janet</title></circle></a><a href="/setts/s22/ly3g30r7g2r1g8r1g2r7g16k18t8r14g8r1g1r7g1r1g8r27ly3~x2/"><circle cx="254.7" cy="82.7" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/setts/s15/ly6t5g4t5r2ly5g2ly14g10ly1r30ly10t14g5t2~x2/"><circle cx="159.8" cy="96.6" r="4" fill="#3465a4"><title>el Corte</title></circle></a><a href="/setts/s22/y22w2k3w1k1w1k1w7o5k1o2w1o2k1o5w7k1w1k1w1k3w2~x4/"><circle cx="174.9" cy="61.2" r="4" fill="#3465a4"><title>Waverley Check</title></circle></a><circle cx="229.6" cy="90.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/dt4lo1dt3lo1dt1lo1lo1lo6dt4lo2lo6dt7lo6lo1lo28dt1dt1~x4/"><circle cx="323.3" cy="101.5" r="4" fill="#3465a4"><title>Agincourt (Fashion)</title></circle></a><a href="/setts/s36/ly50lo16ly8dy8lo1dy1lo1dy1lo1dy1lo1dy1lo1dy1lo1dy1lo20dy40ly12dy24dg8lo1dg1lo1dg1lo1dg1lo1dg1lo1dg1lo1dg1lo28dg6dy4/"><circle cx="263.0" cy="26.5" r="4" fill="#3465a4"><title>Alberta (CIDD 28106)</title></circle></a><a href="/setts/s20/w1r2p2r22db1r1g8r8g8p2r1p2db9r3g1r3g22r1p2w1~x2/"><circle cx="252.4" cy="83.7" r="4" fill="#3465a4"><title>MacDougall 7</title></circle></a><a href="/setts/s17/w3dg15lr12ly1lr1ly1lr1ly1lr1ly1lr1ly1lr1ly3ly3ly15w3~x2/"><circle cx="202.7" cy="109.0" r="4" fill="#3465a4"><title>Green Thistle</title></circle></a><a href="/setts/s14/g6r2g2r24t1db1r2db12r2db1t1r2g24r2~x2/"><circle cx="298.3" cy="111.5" r="4" fill="#3465a4"><title>Unidentified, coat</title></circle></a><a href="/setts/s22/g14k2r2k2r2k2r2k2r2k2ly25g8r4k4ly3k1ly3k1ly4r10k2ly2~x2/"><circle cx="181.9" cy="65.7" r="4" fill="#3465a4"><title>New Brunswick</title></circle></a><a href="/setts/s22/db30w2t3g3t3g3t3g16r3g3r3g3r3g3r3g25r15g4t4r8w2r15~x2/"><circle cx="197.2" cy="106.7" r="4" fill="#3465a4"><title>Wilson, Janet</title></circle></a><a href="/setts/s22/ly3g30r7g2r1g8r1g2r7g16k18t8r14g8r1g1r7g1r1g8r27ly3~x2/"><circle cx="254.4" cy="82.7" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/setts/s15/ly6t5g4t5r2ly5g2ly14g10ly1r30ly10t14g5t2~x2/"><circle cx="159.4" cy="96.8" r="4" fill="#3465a4"><title>el Corte</title></circle></a><a href="/setts/s22/y22w2k3w1k1w1k1w7o5k1o2w1~x4/"><circle cx="174.4" cy="61.2" r="4" fill="#3465a4"><title>Waverley Check</title></circle></a><circle cx="229.2" cy="91.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s22/ly14o2r2o2r2o2r2o2r2o2g25ly8r4o4g3o1g3o1g4r10o2g2~x2/

@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacPhail Red
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/8 B4 G52 R12 K28 R/100
+R/100 K28 R12 G52 B4 K/8
 ![Sett](sett.png)
 
 ## Palette
@@ -907,7 +916,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/8 B4 G52 R12 K28 R/100 tartan")
+![Tartan detail](tartan.png "R/100 K28 R12 G52 B4 K/8 tartan")
 
 ## Nearest tartans
 
@@ -922,12 +931,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Fraser](/setts/s6/r2db12r2dg12r24w1~x2/) — ΔT 1.15
 1. [Livingstone, MacLay MacLeay](/setts/s7/r28g4k4g4k4t6ly1~x2/) — ΔT 1.17
 1. [Buccleuch](/setts/s7/r107k9r5db41r5g51r14/) — ΔT 1.20
-1. [Denny, hunting](/setts/s6/db1r16g6k1g6k1~x2/) — ΔT 1.21
+1. [Denny, hunting](/setts/s6/k1g6k1g6r16db1~x2/) — ΔT 1.21
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r25k7r3g13y1k2~x4/"><circle cx="351.9" cy="158.3" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/setts/s6/r5w2r28k12g16r3~x2/"><circle cx="284.2" cy="177.8" r="4" fill="#3465a4"><title>MacKintosh 6</title></circle></a><a href="/setts/s6/r6g21k8r28k1r4~x2/"><circle cx="355.1" cy="171.6" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/setts/s6/k2r16dg6r3dg8lb1/"><circle cx="322.5" cy="183.8" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s6/r6dg21k8r28dg1r4~x2/"><circle cx="366.8" cy="175.5" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/setts/s10/g4r4k2r20t1k7r2g10r3k2~x2/"><circle cx="293.1" cy="133.6" r="4" fill="#3465a4"><title>MacKillop</title></circle></a><a href="/setts/s6/r2db12r2dg12r24w1~x2/"><circle cx="322.1" cy="161.6" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/setts/s7/r28g4k4g4k4t6ly1~x2/"><circle cx="310.3" cy="107.2" r="4" fill="#3465a4"><title>Livingstone, MacLay MacLeay</title></circle></a><a href="/setts/s7/r107k9r5db41r5g51r14/"><circle cx="352.5" cy="153.5" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/setts/s6/db1r16g6k1g6k1~x2/"><circle cx="324.0" cy="169.5" r="4" fill="#3465a4"><title>Denny, hunting</title></circle></a><circle cx="326.1" cy="148.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r25k7r3g13y1k2~x4/"><circle cx="351.6" cy="158.2" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/setts/s6/r5w2r28k12g16r3~x2/"><circle cx="284.0" cy="177.6" r="4" fill="#3465a4"><title>MacKintosh 6</title></circle></a><a href="/setts/s6/r6g21k8r28k1r4~x2/"><circle cx="354.8" cy="171.3" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/setts/s6/k2r16dg6r3dg8lb1/"><circle cx="322.2" cy="183.6" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s6/r6dg21k8r28dg1r4~x2/"><circle cx="366.5" cy="175.3" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/setts/s10/g4r4k2r20t1k7r2g10r3k2~x2/"><circle cx="292.9" cy="133.4" r="4" fill="#3465a4"><title>MacKillop</title></circle></a><a href="/setts/s6/r2db12r2dg12r24w1~x2/"><circle cx="322.0" cy="161.5" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/setts/s7/r28g4k4g4k4t6ly1~x2/"><circle cx="310.0" cy="107.1" r="4" fill="#3465a4"><title>Livingstone, MacLay MacLeay</title></circle></a><a href="/setts/s7/r107k9r5db41r5g51r14/"><circle cx="352.2" cy="153.4" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/setts/s6/k1g6k1g6r16db1~x2/"><circle cx="323.7" cy="169.3" r="4" fill="#3465a4"><title>Denny, hunting</title></circle></a><circle cx="325.8" cy="147.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r25k7r3g13t1k2~x4/

@@ -2,7 +2,7 @@
 title: "Hopetoun"
 date: 2023-03-18
 ---
-**Bands:** [GBKGKYKYKGKG](/stripes/gbkgkykykgkg/) · **Stripes:** [G DB K G K LY K LY K G K G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G DB K G K LY K LY K G K G</span></span>
+**Bands:** [GKGKYKYKGKBG](/stripes/gkgkykykgkbg/) · **Stripes:** [G K G K LY K LY K G K DB G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K G K LY K LY K G K DB G</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/44 B4 K4 G8 K42 Y4 K8 Y4 K42 G8 K8 G/44
+G/44 K8 G8 K42 Y4 K8 Y4 K42 G8 K4 B4 G/44
 ![Sett](sett.png)
 
 ## Palette
@@ -911,10 +914,10 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Sin-Cos](/setts/s10/k60g64g5g8g5g64k60ly8k8ly8/) — ΔT 0.66
 1. [Hopetoun, Rejected design](/setts/s14/g11db1k1g2k12ly1k12g2k2g11k2g2k12ly1~x4/) — ΔT 1.03
-1. [MacIver hunting](/setts/s9/ly3g27k5g5k32g5k5g27w3~x2/) — ΔT 1.17
+1. [MacIver hunting](/setts/s9/w3g27k5g5k32g5k5g27ly3~x2/) — ΔT 1.17
 1. [Walker, hunting](/setts/s12/r4k2g7k15g3k3g3k7g28k7g6k2/) — ΔT 1.18
 1. [Fort William](/setts/s11/g17t2g2t2k21t2k3g30k2t2k4~x2/) — ΔT 1.21
-1. [Hartmann](/setts/s8/b4k8w3k8g4k4g32k4~x2/) — ΔT 1.25
+1. [Hartmann](/setts/s8/k4g32k4g4k8w3k8b4~x2/) — ΔT 1.25
 1. [MacAlpine](/setts/s14/k4ly1k4g1k4w1k4g1k1g6k1g6k1g1~x4/) — ΔT 1.30
 1. [Episcopal Clergy (Corporate)](/setts/s11/k1r1g7k8lb1k8r1g2r1g4r1~x4/) — ΔT 1.31
 1. [O'Connor, Old](/setts/s16/g5k24g12k16g26w4g24w4g26k16k4k4k4k4k28g3/) — ΔT 1.38
@@ -922,8 +925,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k60g64g5g8g5g64k60ly8k8ly8/"><circle cx="238.7" cy="170.5" r="4" fill="#3465a4"><title>Sin-Cos</title></circle></a><a href="/setts/s14/g11db1k1g2k12ly1k12g2k2g11k2g2k12ly1~x4/"><circle cx="294.1" cy="167.3" r="4" fill="#3465a4"><title>Hopetoun, Rejected design</title></circle></a><a href="/setts/s9/ly3g27k5g5k32g5k5g27w3~x2/"><circle cx="286.7" cy="184.8" r="4" fill="#3465a4"><title>MacIver hunting</title></circle></a><a href="/setts/s12/r4k2g7k15g3k3g3k7g28k7g6k2/"><circle cx="274.1" cy="164.1" r="4" fill="#3465a4"><title>Walker, hunting</title></circle></a><a href="/setts/s11/g17t2g2t2k21t2k3g30k2t2k4~x2/"><circle cx="288.3" cy="147.5" r="4" fill="#3465a4"><title>Fort William</title></circle></a><a href="/setts/s8/b4k8w3k8g4k4g32k4~x2/"><circle cx="270.6" cy="175.5" r="4" fill="#3465a4"><title>Hartmann</title></circle></a><a href="/setts/s14/k4ly1k4g1k4w1k4g1k1g6k1g6k1g1~x4/"><circle cx="225.4" cy="203.4" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s11/k1r1g7k8lb1k8r1g2r1g4r1~x4/"><circle cx="232.8" cy="191.1" r="4" fill="#3465a4"><title>Episcopal Clergy (Corporate)</title></circle></a><a href="/setts/s16/g5k24g12k16g26w4g24w4g26k16k4k4k4k4k28g3/"><circle cx="184.3" cy="179.4" r="4" fill="#3465a4"><title>O'Connor, Old</title></circle></a><a href="/setts/s7/g8r3g30k8w3k36w8~x2/"><circle cx="223.1" cy="184.8" r="4" fill="#3465a4"><title>Cleghorn (Personal)</title></circle></a><circle cx="249.5" cy="172.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k60g64g5g8g5g64k60ly8k8ly8/"><circle cx="238.8" cy="170.3" r="4" fill="#3465a4"><title>Sin-Cos</title></circle></a><a href="/setts/s14/g11db1k1g2k12ly1k12g2k2g11k2g2k12ly1~x4/"><circle cx="294.2" cy="167.1" r="4" fill="#3465a4"><title>Hopetoun, Rejected design</title></circle></a><a href="/setts/s9/w3g27k5g5k32g5k5g27ly3~x2/"><circle cx="286.7" cy="184.6" r="4" fill="#3465a4"><title>MacIver hunting</title></circle></a><a href="/setts/s12/r4k2g7k15g3k3g3k7g28k7g6k2/"><circle cx="274.1" cy="164.0" r="4" fill="#3465a4"><title>Walker, hunting</title></circle></a><a href="/setts/s11/g17t2g2t2k21t2k3g30k2t2k4~x2/"><circle cx="288.2" cy="147.3" r="4" fill="#3465a4"><title>Fort William</title></circle></a><a href="/setts/s8/k4g32k4g4k8w3k8b4~x2/"><circle cx="270.6" cy="175.3" r="4" fill="#3465a4"><title>Hartmann</title></circle></a><a href="/setts/s14/k4ly1k4g1k4w1k4g1k1g6k1g6k1g1~x4/"><circle cx="225.5" cy="203.2" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s11/k1r1g7k8lb1k8r1g2r1g4r1~x4/"><circle cx="232.9" cy="191.0" r="4" fill="#3465a4"><title>Episcopal Clergy (Corporate)</title></circle></a><a href="/setts/s16/g5k24g12k16g26w4g24w4g26k16k4k4k4k4k28g3/"><circle cx="184.4" cy="179.3" r="4" fill="#3465a4"><title>O'Connor, Old</title></circle></a><a href="/setts/s7/g8r3g30k8w3k36w8~x2/"><circle cx="223.2" cy="184.7" r="4" fill="#3465a4"><title>Cleghorn (Personal)</title></circle></a><circle cx="249.6" cy="171.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/g22k4g4k21ly2k4ly2k21g4k2db2g22~x2/

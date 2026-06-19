@@ -2,12 +2,18 @@
 title: "Bermuda Plaid (1947) (District)"
 date: 2023-03-18
 ---
-**Bands:** [BBBGBRB](/stripes/bbbgbrb/) · **Stripes:** [T DB T G DB R T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">T DB T G DB R T</span></span>
+**Bands:** [BRBGBBB](/stripes/brbgbbb/) · **Stripes:** [T R DB G T DB T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">T R DB G T DB T</span></span>
 
 
 This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/696/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Bermuda, Plaid
 
 ## Attestations
 
@@ -320,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -894,7 +903,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/16 DB4 B16 G24 DB24 R16 B/66
+B/66 R16 DB24 G24 B16 DB4 B/16
 ![Sett](sett.png)
 
 ## Palette
@@ -909,7 +918,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/16 DB4 B16 G24 DB24 R16 B/66 tartan")
+![Tartan detail](tartan.png "B/66 R16 DB24 G24 B16 DB4 B/16 tartan")
 
 ## Nearest tartans
 
@@ -919,17 +928,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Bedford Academy (Corporate)](/setts/s9/o8ly4o35db2t8db2o4db21o4~x2/) — ΔT 1.28
 1. [MacHardy](/setts/s8/db3r3g18db16w2db26r3g3~x2/) — ΔT 1.31
 1. [Kildare, County (District)](/setts/s8/y8do2y13r4y12db22y5o3~x2/) — ΔT 1.32
-1. [Cameron Hunting](/setts/s6/do15r5do30b32do4lo3~x2/) — ΔT 1.37
 1. [Port Authority of NY & NJ](/setts/s6/t9db2t39dt33lo2dt5~x2/) — ΔT 1.37
+1. [Cameron Hunting](/setts/s6/do15r5do30b32do4lo3~x2/) — ΔT 1.37
 1. [Devlin, Craig (Personal)](/setts/s6/g8w3n6db11n30db5~x2/) — ΔT 1.43
 1. [Mortell (Personal)](/setts/s10/n20t2w5r2n10t5n20t2w5r5~x2/) — ΔT 1.45
-1. [Hector James](/setts/s5/o2g11db27g5r2~x2/) — ΔT 1.46
+1. [Hector James](/setts/s5/r2g5db27g11o2~x2/) — ΔT 1.46
 1. [Lockhart](/setts/s9/g13k2g34k6b16r2b16k2g13~x2/) — ΔT 1.46
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dt3t14dt3o16dt34r3~x2/"><circle cx="333.0" cy="225.4" r="4" fill="#3465a4"><title>Thorburn (Lochcarron)</title></circle></a><a href="/setts/s9/o8ly4o35db2t8db2o4db21o4~x2/"><circle cx="358.0" cy="165.7" r="4" fill="#3465a4"><title>Bedford Academy (Corporate)</title></circle></a><a href="/setts/s8/db3r3g18db16w2db26r3g3~x2/"><circle cx="360.6" cy="198.3" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/setts/s8/y8do2y13r4y12db22y5o3~x2/"><circle cx="302.9" cy="207.3" r="4" fill="#3465a4"><title>Kildare, County (District)</title></circle></a><a href="/setts/s6/do15r5do30b32do4lo3~x2/"><circle cx="349.1" cy="234.4" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/setts/s6/t9db2t39dt33lo2dt5~x2/"><circle cx="381.8" cy="202.8" r="4" fill="#3465a4"><title>Port Authority of NY &amp; NJ</title></circle></a><a href="/setts/s6/g8w3n6db11n30db5~x2/"><circle cx="357.7" cy="242.2" r="4" fill="#3465a4"><title>Devlin, Craig (Personal)</title></circle></a><a href="/setts/s10/n20t2w5r2n10t5n20t2w5r5~x2/"><circle cx="375.6" cy="203.2" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/setts/s5/o2g11db27g5r2~x2/"><circle cx="379.2" cy="224.0" r="4" fill="#3465a4"><title>Hector James</title></circle></a><a href="/setts/s9/g13k2g34k6b16r2b16k2g13~x2/"><circle cx="374.1" cy="213.4" r="4" fill="#3465a4"><title>Lockhart</title></circle></a><circle cx="347.2" cy="210.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dt3t14dt3o16dt34r3~x2/"><circle cx="333.0" cy="225.4" r="4" fill="#3465a4"><title>Thorburn (Lochcarron)</title></circle></a><a href="/setts/s9/o8ly4o35db2t8db2o4db21o4~x2/"><circle cx="357.7" cy="165.6" r="4" fill="#3465a4"><title>Bedford Academy (Corporate)</title></circle></a><a href="/setts/s8/db3r3g18db16w2db26r3g3~x2/"><circle cx="360.5" cy="198.1" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/setts/s8/y8do2y13r4y12db22y5o3~x2/"><circle cx="302.8" cy="207.2" r="4" fill="#3465a4"><title>Kildare, County (District)</title></circle></a><a href="/setts/s6/t9db2t39dt33lo2dt5~x2/"><circle cx="381.6" cy="202.7" r="4" fill="#3465a4"><title>Port Authority of NY &amp; NJ</title></circle></a><a href="/setts/s6/do15r5do30b32do4lo3~x2/"><circle cx="349.0" cy="234.3" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/setts/s6/g8w3n6db11n30db5~x2/"><circle cx="357.6" cy="242.2" r="4" fill="#3465a4"><title>Devlin, Craig (Personal)</title></circle></a><a href="/setts/s10/n20t2w5r2n10t5n20t2w5r5~x2/"><circle cx="375.2" cy="203.0" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/setts/s5/r2g5db27g11o2~x2/"><circle cx="379.1" cy="223.9" r="4" fill="#3465a4"><title>Hector James</title></circle></a><a href="/setts/s9/g13k2g34k6b16r2b16k2g13~x2/"><circle cx="373.9" cy="213.3" r="4" fill="#3465a4"><title>Lockhart</title></circle></a><circle cx="347.0" cy="210.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/t33r8db12g12t8db2t8~x2/

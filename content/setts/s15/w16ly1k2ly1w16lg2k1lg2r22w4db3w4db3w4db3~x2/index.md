@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10415](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10415)
 
 ## Thread count
-B/6 W8 B6 W8 B6 W8 R44 LG4 K2 LG4 W32 Y2 K4 Y2 W/32
+W/32 Y2 K4 Y2 W32 LG4 K2 LG4 R44 W8 B6 W8 B6 W8 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -38,9 +38,9 @@ The nearest existing variants by ΔTartan distance.
 1. [Salaberry-de-Valleyfield Cer. (Dis )](/setts/s15/w16lo1k2lo1w16g2k1g2r22w4db3w4db3w4db3~x2/) — ΔT 0.89
 1. [Confederate Rose](/setts/s14/dp24w4m10w4ly4w28o6w4o6w28m18w1db4w3~x2/) — ΔT 1.22
 1. [Barra, Fuschia (Dance)](/setts/s14/p6w6r3w30p20lt6dp1w8dp1lt4w2lt7dp1w6~x2/) — ΔT 1.30
-1. [McDougall, Miss Anne (Personal)](/setts/s19/t1r3r3w20db3w3dg12w18r3r1r3w18db12w3dg3w20r3r3t1~x2/) — ΔT 1.52
-1. [Seller Dress (Personal)](/setts/s12/w63k4lb9ly2lb4ly2lb4dy11r8lb2r4w5~x2/) — ΔT 1.53
-1. [Scotland the Brave Dress (Dance)](/setts/s18/w3k1w20dp1db6g6m3g1m1g2m1g1m3g6db6dp1w20k1~x4/) — ΔT 1.56
+1. [McDougall, Miss Anne (Personal)](/setts/s19/t1r3r3w20dg3w3db12w18r3r1r3w18dg12w3db3w20r3r3t1~x2/) — ΔT 1.52
+1. [Seller Dress (Personal)](/setts/s12/w63k4lb9ly2lb4ly2lb4dy11r8lb2r4w5~x2/) — ΔT 1.52
+1. [Scotland the Brave Dress (Dance)](/setts/s18/w3k1w20dp1db6g6m3g1m1g2~x4/) — ΔT 1.56
 1. [Beck Dress (Personal)](/setts/s17/k4t2w15r6ly12r6w25t2k4t2w15t4k2t4k2t4k1~x2/) — ΔT 1.58
 1. [MacLeod, Arisaid](/setts/s19/t1r3r3w20db3w3g12w18r3r1r3w18db12w3g3w20r3r3t1~x2/) — ΔT 1.60
 1. [Grant of Acharrow](/setts/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/) — ΔT 1.62
@@ -48,8 +48,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/w16lo1k2lo1w16g2k1g2r22w4db3w4db3w4db3~x2/"><circle cx="231.6" cy="55.1" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield Cer. (Dis )</title></circle></a><a href="/setts/s14/dp24w4m10w4ly4w28o6w4o6w28m18w1db4w3~x2/"><circle cx="207.8" cy="60.9" r="4" fill="#3465a4"><title>Confederate Rose</title></circle></a><a href="/setts/s14/p6w6r3w30p20lt6dp1w8dp1lt4w2lt7dp1w6~x2/"><circle cx="268.8" cy="70.7" r="4" fill="#3465a4"><title>Barra, Fuschia (Dance)</title></circle></a><a href="/setts/s19/t1r3r3w20db3w3dg12w18r3r1r3w18db12w3dg3w20r3r3t1~x2/"><circle cx="264.9" cy="66.3" r="4" fill="#3465a4"><title>McDougall, Miss Anne (Personal)</title></circle></a><a href="/setts/s12/w63k4lb9ly2lb4ly2lb4dy11r8lb2r4w5~x2/"><circle cx="299.2" cy="27.1" r="4" fill="#3465a4"><title>Seller Dress (Personal)</title></circle></a><a href="/setts/s18/w3k1w20dp1db6g6m3g1m1g2m1g1m3g6db6dp1w20k1~x4/"><circle cx="207.2" cy="47.0" r="4" fill="#3465a4"><title>Scotland the Brave Dress (Dance)</title></circle></a><a href="/setts/s17/k4t2w15r6ly12r6w25t2k4t2w15t4k2t4k2t4k1~x2/"><circle cx="213.0" cy="74.9" r="4" fill="#3465a4"><title>Beck Dress (Personal)</title></circle></a><a href="/setts/s19/t1r3r3w20db3w3g12w18r3r1r3w18db12w3g3w20r3r3t1~x2/"><circle cx="267.6" cy="68.1" r="4" fill="#3465a4"><title>MacLeod, Arisaid</title></circle></a><a href="/setts/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="261.1" cy="80.2" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/setts/s14/t18w4m6w4lo4w36n4w4n4w36m12w1db4w3~x2/"><circle cx="307.8" cy="43.2" r="4" fill="#3465a4"><title>Confederate Memorial Dress (Military</title></circle></a><circle cx="224.4" cy="46.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/w16lo1k2lo1w16g2k1g2r22w4db3w4db3w4db3~x2/"><circle cx="231.1" cy="55.1" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield Cer. (Dis )</title></circle></a><a href="/setts/s14/dp24w4m10w4ly4w28o6w4o6w28m18w1db4w3~x2/"><circle cx="207.3" cy="60.8" r="4" fill="#3465a4"><title>Confederate Rose</title></circle></a><a href="/setts/s14/p6w6r3w30p20lt6dp1w8dp1lt4w2lt7dp1w6~x2/"><circle cx="268.2" cy="70.6" r="4" fill="#3465a4"><title>Barra, Fuschia (Dance)</title></circle></a><a href="/setts/s19/t1r3r3w20dg3w3db12w18r3r1r3w18dg12w3db3w20r3r3t1~x2/"><circle cx="264.4" cy="66.2" r="4" fill="#3465a4"><title>McDougall, Miss Anne (Personal)</title></circle></a><a href="/setts/s12/w63k4lb9ly2lb4ly2lb4dy11r8lb2r4w5~x2/"><circle cx="298.5" cy="27.0" r="4" fill="#3465a4"><title>Seller Dress (Personal)</title></circle></a><a href="/setts/s18/w3k1w20dp1db6g6m3g1m1g2~x4/"><circle cx="206.8" cy="47.0" r="4" fill="#3465a4"><title>Scotland the Brave Dress (Dance)</title></circle></a><a href="/setts/s17/k4t2w15r6ly12r6w25t2k4t2w15t4k2t4k2t4k1~x2/"><circle cx="212.5" cy="74.8" r="4" fill="#3465a4"><title>Beck Dress (Personal)</title></circle></a><a href="/setts/s19/t1r3r3w20db3w3g12w18r3r1r3w18db12w3g3w20r3r3t1~x2/"><circle cx="267.0" cy="68.0" r="4" fill="#3465a4"><title>MacLeod, Arisaid</title></circle></a><a href="/setts/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="260.6" cy="80.1" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/setts/s14/t18w4m6w4lo4w36n4w4n4w36m12w1db4w3~x2/"><circle cx="307.1" cy="43.0" r="4" fill="#3465a4"><title>Confederate Memorial Dress (Military</title></circle></a><circle cx="223.8" cy="46.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/w16ly1k2ly1w16lg2k1lg2r22w4db3w4db3w4db3~x2/

@@ -2,7 +2,7 @@
 title: "Buchanan, hunting"
 date: 2023-03-18
 ---
-**Bands:** [BRGKGKGRYRGR](/stripes/brgkgkgryrgr/) · **Stripes:** [T O G K G K G O LY O G O](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="seq">T O G K G K G O LY O G O</span></span>
+**Bands:** [RGRYRGKGKGRB](/stripes/rgryrgkgkgrb/) · **Stripes:** [O G O LY O G K G K G O T](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="seq">O G O LY O G K G K G O T</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/2 LT12 G12 K12 G8 K12 G12 LT12 Y2 LT12 G12 LT/24
+LT/24 G12 LT12 Y2 LT12 G12 K12 G8 K12 G12 LT12 B/2
 ![Sett](sett.png)
 
 ## Palette
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/p3dg6k9g11w1g11w1g11k9dg6p3~x4/"><circle cx="155.3" cy="188.8" r="4" fill="#3465a4"><title>Hibernian F.C.</title></circle></a><a href="/setts/s9/r5db15k15g15w2g15k15g15w2~x2/"><circle cx="132.1" cy="214.7" r="4" fill="#3465a4"><title>Arrol</title></circle></a><a href="/setts/s13/ly3g15k15db15k2db15k15g15dp3g15k15g15ly3~x2/"><circle cx="108.1" cy="203.6" r="4" fill="#3465a4"><title>MacBride</title></circle></a><a href="/setts/s13/ly3g15k15db15k2db15k15g15m3g15k15g15ly3~x2/"><circle cx="144.6" cy="220.0" r="4" fill="#3465a4"><title>MacBride Family Tartan Tartan Number: 2153. Earliest known date: 1992 The family of MacBride, (from SaintBride or Brigid) are known to have been a sept of the MacDonalds. Head of the family, Mr Stuart C. MacBride, commissioned Mr Harry Lindley to create a MacBride tartan from the Ensigns Armorial recently granted by Lord Lyon. Mr MacBride is a member of the Weaver Incorporation of Aberdeen. Traditionally members of the family, as a courtesy, ask permission of the chief or head of the family before wearing his tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/lo30w4lo20g20k20lo3k6~x2/"><circle cx="199.3" cy="197.8" r="4" fill="#3465a4"><title>St Andrews Bay</title></circle></a><a href="/setts/s12/dp6k6g6w1g6k6g6w1g6k6dp6y1~x4/"><circle cx="133.3" cy="229.5" r="4" fill="#3465a4"><title>Wilson's No.233</title></circle></a><a href="/setts/s10/o14db5dg25db5w2dg11db7w5dg6o5~x2/"><circle cx="225.8" cy="184.4" r="4" fill="#3465a4"><title>Kerry County, Crest Range</title></circle></a><a href="/setts/s8/o8r1o8g8k8db8o8r2~x2/"><circle cx="155.8" cy="230.7" r="4" fill="#3465a4"><title>MacDuff, hunting</title></circle></a><a href="/setts/s10/r4k6t1g7k2g7t1k6r4g2~x4/"><circle cx="171.3" cy="231.5" r="4" fill="#3465a4"><title>Walker James</title></circle></a><a href="/setts/s11/db4dy24g17dy3w18dy3w18dy3g17dy24r4~x2/"><circle cx="148.5" cy="176.3" r="4" fill="#3465a4"><title>Fraser Hunting Dress Clan Tartan Tartan Number: 603. Earliest known date: pre 2003 In the Hunting Fraser, brown replaces the red of the Clan sett. The late Charles Ian Fraser of Reeling said, in his publication, &quot;Clan Fraser&quot;, that this sett was designed by the Sobieski Stuart brothers at the request of Lord Lovat for use by the Inverness and Nairn militia. A letter to Lord Lovat from the War Office, c.1855, authorised the use of the Fraser tartan for the corps. The tartan is worn by the Boghall &amp; Bathgate pipe bands. (Strathallan 1994) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="170.1" cy="193.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/p3dg6k9g11w1g11w1g11k9dg6p3~x4/"><circle cx="155.5" cy="188.7" r="4" fill="#3465a4"><title>Hibernian F.C.</title></circle></a><a href="/setts/s9/r5db15k15g15w2g15k15g15w2~x2/"><circle cx="132.3" cy="214.6" r="4" fill="#3465a4"><title>Arrol</title></circle></a><a href="/setts/s13/ly3g15k15db15k2db15k15g15dp3g15k15g15ly3~x2/"><circle cx="108.3" cy="203.6" r="4" fill="#3465a4"><title>MacBride</title></circle></a><a href="/setts/s13/ly3g15k15db15k2db15k15g15m3g15k15g15ly3~x2/"><circle cx="144.8" cy="220.0" r="4" fill="#3465a4"><title>MacBride Family Tartan Tartan Number: 2153. Earliest known date: 1992 The family of MacBride, (from SaintBride or Brigid) are known to have been a sept of the MacDonalds. Head of the family, Mr Stuart C. MacBride, commissioned Mr Harry Lindley to create a MacBride tartan from the Ensigns Armorial recently granted by Lord Lyon. Mr MacBride is a member of the Weaver Incorporation of Aberdeen. Traditionally members of the family, as a courtesy, ask permission of the chief or head of the family before wearing his tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/lo30w4lo20g20k20lo3k6~x2/"><circle cx="199.3" cy="197.7" r="4" fill="#3465a4"><title>St Andrews Bay</title></circle></a><a href="/setts/s12/dp6k6g6w1g6k6g6w1g6k6dp6y1~x4/"><circle cx="133.4" cy="229.5" r="4" fill="#3465a4"><title>Wilson's No.233</title></circle></a><a href="/setts/s10/o14db5dg25db5w2dg11db7w5dg6o5~x2/"><circle cx="225.7" cy="184.3" r="4" fill="#3465a4"><title>Kerry County, Crest Range</title></circle></a><a href="/setts/s8/o8r1o8g8k8db8o8r2~x2/"><circle cx="155.8" cy="230.7" r="4" fill="#3465a4"><title>MacDuff, hunting</title></circle></a><a href="/setts/s10/r4k6t1g7k2g7t1k6r4g2~x4/"><circle cx="171.3" cy="231.4" r="4" fill="#3465a4"><title>Walker James</title></circle></a><a href="/setts/s11/db4dy24g17dy3w18dy3w18dy3g17dy24r4~x2/"><circle cx="148.3" cy="176.3" r="4" fill="#3465a4"><title>Fraser Hunting Dress Clan Tartan Tartan Number: 603. Earliest known date: pre 2003 In the Hunting Fraser, brown replaces the red of the Clan sett. The late Charles Ian Fraser of Reeling said, in his publication, &quot;Clan Fraser&quot;, that this sett was designed by the Sobieski Stuart brothers at the request of Lord Lovat for use by the Inverness and Nairn militia. A letter to Lord Lovat from the War Office, c.1855, authorised the use of the Fraser tartan for the corps. The tartan is worn by the Boghall &amp; Bathgate pipe bands. (Strathallan 1994) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="170.1" cy="193.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/o12g6o6ly1o6g6k6g4k6g6o6t1~x2/

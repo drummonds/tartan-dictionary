@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/
 Original link http://www.tartansauthority.com/tartan-ferret/display/10196/
 
 ## Thread count
-G/8 DB24 LP10 DB22 LB4 DB53 O6 DB79 LN/12
+LN/12 DB79 O6 DB53 LB4 DB22 LP10 DB24 G/8
 ![Sett](sett.png)
 
 ## Palette
@@ -38,12 +38,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Talisker](/setts/s7/db16w4db1w2db24w1lo4~x2/) — ΔT 2.02
 1. [McCuaig (Glenelg and the Western Isles) Hunting](/setts/s9/k20db2k2db4dg4ly2k40r2w3~x2/) — ΔT 2.04
 1. [Laidlaw's Highland Drovers (Corp)](/setts/s7/db35k10db4w2db3r2ly2~x2/) — ΔT 2.07
-1. [Warren Wilson College](/setts/s14/g20lr6db20ly3db48r6db4r6db4r6db48ly3db20lr6~x2/) — ΔT 2.08
+1. [Warren Wilson College](/setts/s14/g20lr6db20ly3db48r6db4r6~x2/) — ΔT 2.08
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db62w4k2w7dp2dg3ly2db16~x2/"><circle cx="486.4" cy="90.9" r="4" fill="#3465a4"><title>Boat of Garten</title></circle></a><a href="/setts/s10/r2db8ly1db16w1g12db27w1db1w1~x2/"><circle cx="466.8" cy="133.9" r="4" fill="#3465a4"><title>World Youth Congress (Corporate)</title></circle></a><a href="/setts/s9/w12db79lo6db53lg4db22lp10db24lg8/"><circle cx="448.7" cy="138.8" r="4" fill="#3465a4"><title>Centrica Energy</title></circle></a><a href="/setts/s8/db73g16db10r8db10k4db10w2/"><circle cx="504.0" cy="132.4" r="4" fill="#3465a4"><title>Scotch Whisky, Heritage</title></circle></a><a href="/setts/s8/db61w4db2w7p2g3ly2db16~x2/"><circle cx="535.0" cy="111.7" r="4" fill="#3465a4"><title>Boat of Garten (District)</title></circle></a><a href="/setts/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="460.6" cy="168.8" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><a href="/setts/s7/db16w4db1w2db24w1lo4~x2/"><circle cx="482.6" cy="155.5" r="4" fill="#3465a4"><title>Talisker</title></circle></a><a href="/setts/s9/k20db2k2db4dg4ly2k40r2w3~x2/"><circle cx="475.3" cy="122.6" r="4" fill="#3465a4"><title>McCuaig (Glenelg and the Western Isles) Hunting</title></circle></a><a href="/setts/s7/db35k10db4w2db3r2ly2~x2/"><circle cx="453.1" cy="153.7" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers (Corp)</title></circle></a><a href="/setts/s14/g20lr6db20ly3db48r6db4r6db4r6db48ly3db20lr6~x2/"><circle cx="405.1" cy="143.3" r="4" fill="#3465a4"><title>Warren Wilson College</title></circle></a><circle cx="466.9" cy="139.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/db62w4k2w7dp2dg3ly2db16~x2/"><circle cx="486.2" cy="90.6" r="4" fill="#3465a4"><title>Boat of Garten</title></circle></a><a href="/setts/s10/r2db8ly1db16w1g12db27w1db1w1~x2/"><circle cx="466.6" cy="133.6" r="4" fill="#3465a4"><title>World Youth Congress (Corporate)</title></circle></a><a href="/setts/s9/w12db79lo6db53lg4db22lp10db24lg8/"><circle cx="448.6" cy="138.5" r="4" fill="#3465a4"><title>Centrica Energy</title></circle></a><a href="/setts/s8/db73g16db10r8db10k4db10w2/"><circle cx="504.0" cy="132.2" r="4" fill="#3465a4"><title>Scotch Whisky, Heritage</title></circle></a><a href="/setts/s8/db61w4db2w7p2g3ly2db16~x2/"><circle cx="534.7" cy="111.4" r="4" fill="#3465a4"><title>Boat of Garten (District)</title></circle></a><a href="/setts/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="460.5" cy="168.5" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><a href="/setts/s7/db16w4db1w2db24w1lo4~x2/"><circle cx="482.4" cy="155.1" r="4" fill="#3465a4"><title>Talisker</title></circle></a><a href="/setts/s9/k20db2k2db4dg4ly2k40r2w3~x2/"><circle cx="475.2" cy="122.4" r="4" fill="#3465a4"><title>McCuaig (Glenelg and the Western Isles) Hunting</title></circle></a><a href="/setts/s7/db35k10db4w2db3r2ly2~x2/"><circle cx="452.9" cy="153.5" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers (Corp)</title></circle></a><a href="/setts/s14/g20lr6db20ly3db48r6db4r6~x2/"><circle cx="405.0" cy="143.1" r="4" fill="#3465a4"><title>Warren Wilson College</title></circle></a><circle cx="466.8" cy="139.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/w12db79lo6db53lb4db22lp10db24g8/

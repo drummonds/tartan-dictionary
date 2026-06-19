@@ -2,7 +2,7 @@
 title: "Forbes Dress (Clans Originaux)"
 date: 2023-03-18
 ---
-**Bands:** [WBWKWKW](/stripes/wbwkwkw/) · **Stripes:** [W B W K W K W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W B W K W K W</span></span>
+**Bands:** [WKWKWBW](/stripes/wkwkwbw/) · **Stripes:** [W K W K W B W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K W K W B W</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
@@ -38,20 +38,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [MacPherson of Cluny (Black and White)](/setts/s7/w5r3w35k28w4k11w2~x2/) — ΔT 0.59
-1. [MacFie of Colonsay Dress (Fashion?)](/setts/s9/lo2k11w2k2w16k2w2k11w2~x4/) — ΔT 1.02
-1. [MacPherson Dress (1951)](/setts/s7/ly3k9w3k20w30p3w3~x2/) — ΔT 1.03
+1. [MacFie of Colonsay Dress (Fashion?)](/setts/s9/w2k11w2k2w16k2w2k11lo2~x4/) — ΔT 1.02
+1. [MacPherson Dress (1951)](/setts/s7/w3p3w30k20w3k9ly3~x2/) — ΔT 1.03
 1. [O'Sullivan-Beare (Family)](/setts/s8/lb40k3lb3k3lb3o8k24o8~x2/) — ΔT 1.03
-1. [MacPherson - 1842 (VS) Dress](/setts/s7/ly1k4w2k11w17m2w1~x4/) — ΔT 1.08
+1. [MacPherson - 1842 (VS) Dress](/setts/s7/w1m2w17k11w2k4ly1~x4/) — ΔT 1.08
 1. [Stutterheim](/setts/s6/k4ly18n44k3ly10k4/) — ΔT 1.10
-1. [MacPherson #10](/setts/s6/ly1k3w1k6w14r1~x4/) — ΔT 1.16
+1. [MacPherson #10](/setts/s6/r1w14k6w1k3ly1~x4/) — ΔT 1.16
 1. [Erskine (Black and White)](/setts/s6/k2w1k9w9k1w2~x6/) — ΔT 1.19
 1. [Highland Park High School (Texas)](/setts/s9/db19w1db6w1db2w2ly2w1ly18~x4/) — ΔT 1.19
 1. [Ailsa, Navy (Dance)](/setts/s6/db8w3db28w32k3w4~x2/) — ΔT 1.23
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w5r3w35k28w4k11w2~x2/"><circle cx="302.4" cy="157.8" r="4" fill="#3465a4"><title>MacPherson of Cluny (Black and White)</title></circle></a><a href="/setts/s9/lo2k11w2k2w16k2w2k11w2~x4/"><circle cx="263.9" cy="182.4" r="4" fill="#3465a4"><title>MacFie of Colonsay Dress (Fashion?)</title></circle></a><a href="/setts/s7/ly3k9w3k20w30p3w3~x2/"><circle cx="247.9" cy="163.8" r="4" fill="#3465a4"><title>MacPherson Dress (1951)</title></circle></a><a href="/setts/s8/lb40k3lb3k3lb3o8k24o8~x2/"><circle cx="274.1" cy="161.6" r="4" fill="#3465a4"><title>O'Sullivan-Beare (Family)</title></circle></a><a href="/setts/s7/ly1k4w2k11w17m2w1~x4/"><circle cx="282.2" cy="140.2" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/setts/s6/k4ly18n44k3ly10k4/"><circle cx="306.2" cy="177.8" r="4" fill="#3465a4"><title>Stutterheim</title></circle></a><a href="/setts/s6/ly1k3w1k6w14r1~x4/"><circle cx="301.7" cy="149.8" r="4" fill="#3465a4"><title>MacPherson #10</title></circle></a><a href="/setts/s6/k2w1k9w9k1w2~x6/"><circle cx="294.8" cy="213.9" r="4" fill="#3465a4"><title>Erskine (Black and White)</title></circle></a><a href="/setts/s9/db19w1db6w1db2w2ly2w1ly18~x4/"><circle cx="306.7" cy="136.4" r="4" fill="#3465a4"><title>Highland Park High School (Texas)</title></circle></a><a href="/setts/s6/db8w3db28w32k3w4~x2/"><circle cx="279.5" cy="190.2" r="4" fill="#3465a4"><title>Ailsa, Navy (Dance)</title></circle></a><circle cx="282.4" cy="170.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w5r3w35k28w4k11w2~x2/"><circle cx="302.1" cy="157.5" r="4" fill="#3465a4"><title>MacPherson of Cluny (Black and White)</title></circle></a><a href="/setts/s9/w2k11w2k2w16k2w2k11lo2~x4/"><circle cx="263.7" cy="182.0" r="4" fill="#3465a4"><title>MacFie of Colonsay Dress (Fashion?)</title></circle></a><a href="/setts/s7/w3p3w30k20w3k9ly3~x2/"><circle cx="247.6" cy="163.6" r="4" fill="#3465a4"><title>MacPherson Dress (1951)</title></circle></a><a href="/setts/s8/lb40k3lb3k3lb3o8k24o8~x2/"><circle cx="273.8" cy="161.4" r="4" fill="#3465a4"><title>O'Sullivan-Beare (Family)</title></circle></a><a href="/setts/s7/w1m2w17k11w2k4ly1~x4/"><circle cx="281.9" cy="139.9" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/setts/s6/k4ly18n44k3ly10k4/"><circle cx="305.9" cy="177.5" r="4" fill="#3465a4"><title>Stutterheim</title></circle></a><a href="/setts/s6/r1w14k6w1k3ly1~x4/"><circle cx="301.4" cy="149.5" r="4" fill="#3465a4"><title>MacPherson #10</title></circle></a><a href="/setts/s6/k2w1k9w9k1w2~x6/"><circle cx="294.5" cy="213.5" r="4" fill="#3465a4"><title>Erskine (Black and White)</title></circle></a><a href="/setts/s9/db19w1db6w1db2w2ly2w1ly18~x4/"><circle cx="306.4" cy="136.1" r="4" fill="#3465a4"><title>Highland Park High School (Texas)</title></circle></a><a href="/setts/s6/db8w3db28w32k3w4~x2/"><circle cx="279.3" cy="189.9" r="4" fill="#3465a4"><title>Ailsa, Navy (Dance)</title></circle></a><circle cx="282.1" cy="169.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/w6b3w20k2w3k25w3~x2/

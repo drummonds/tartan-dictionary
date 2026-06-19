@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=240
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Bedford Check Weavers
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -25,7 +31,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6007
 
 ## Thread count
-B/4 K8 Na12 B/6
+B/6 Na12 K8 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -40,7 +46,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/4 K8 Na12 B/6 tartan")
+![Tartan detail](tartan.png "B/6 Na12 K8 B/4 tartan")
 
 ## Nearest tartans
 
@@ -48,7 +54,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Falconer](/setts/s5/b3k4b4g9k2~x4/) — ΔT 1.32
 1. [Wilson's, No 209](/setts/s3/p5g4t2~x2/) — ΔT 1.32
-1. [Coleman, Sarah-Louise (Personal)](/setts/s4/g2o1dp3o1~x10/) — ΔT 1.41
+1. [Coleman, Sarah-Louise (Personal)](/setts/s4/dp3o1g2~x10/) — ΔT 1.41
 1. [Shepherd, Derek (Wandering)](/setts/s5/lb2k2g2lb1k1~x20/) — ΔT 1.54
 1. [Austin (Wilson's No 173)](/setts/s5/dp3k3dp3dg6ly2~x2/) — ΔT 1.65
 1. [Agnew](/setts/s3/db53g42r14~x2/) — ΔT 1.66
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/b3k4b4g9k2~x4/"><circle cx="180.4" cy="295.6" r="4" fill="#3465a4"><title>Falconer</title></circle></a><a href="/setts/s3/p5g4t2~x2/"><circle cx="185.6" cy="361.5" r="4" fill="#3465a4"><title>Wilson's, No 209</title></circle></a><a href="/setts/s4/g2o1dp3o1~x10/"><circle cx="195.5" cy="324.7" r="4" fill="#3465a4"><title>Coleman, Sarah-Louise (Personal)</title></circle></a><a href="/setts/s5/lb2k2g2lb1k1~x20/"><circle cx="81.2" cy="342.6" r="4" fill="#3465a4"><title>Shepherd, Derek (Wandering)</title></circle></a><a href="/setts/s5/dp3k3dp3dg6ly2~x2/"><circle cx="93.3" cy="304.1" r="4" fill="#3465a4"><title>Austin (Wilson's No 173)</title></circle></a><a href="/setts/s3/db53g42r14~x2/"><circle cx="252.0" cy="348.3" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/setts/s4/db18b18lo28n13~x2/"><circle cx="78.3" cy="347.0" r="4" fill="#3465a4"><title>Gold Country (District)</title></circle></a><a href="/setts/s3/db53g42r14/"><circle cx="247.9" cy="346.4" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/setts/s4/g3db3dp4w1~x4/"><circle cx="99.6" cy="296.4" r="4" fill="#3465a4"><title>Pride of the Glen</title></circle></a><a href="/setts/s4/n2r1k1lr1~x10/"><circle cx="104.6" cy="338.9" r="4" fill="#3465a4"><title>Kucher, Gregory (Personal)</title></circle></a><circle cx="149.3" cy="333.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/b3k4b4g9k2~x4/"><circle cx="180.6" cy="295.5" r="4" fill="#3465a4"><title>Falconer</title></circle></a><a href="/setts/s3/p5g4t2~x2/"><circle cx="185.7" cy="361.2" r="4" fill="#3465a4"><title>Wilson's, No 209</title></circle></a><a href="/setts/s4/dp3o1g2~x10/"><circle cx="195.5" cy="324.5" r="4" fill="#3465a4"><title>Coleman, Sarah-Louise (Personal)</title></circle></a><a href="/setts/s5/lb2k2g2lb1k1~x20/"><circle cx="81.5" cy="342.4" r="4" fill="#3465a4"><title>Shepherd, Derek (Wandering)</title></circle></a><a href="/setts/s5/dp3k3dp3dg6ly2~x2/"><circle cx="93.6" cy="304.0" r="4" fill="#3465a4"><title>Austin (Wilson's No 173)</title></circle></a><a href="/setts/s3/db53g42r14~x2/"><circle cx="252.2" cy="348.1" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/setts/s4/db18b18lo28n13~x2/"><circle cx="78.5" cy="346.9" r="4" fill="#3465a4"><title>Gold Country (District)</title></circle></a><a href="/setts/s3/db53g42r14/"><circle cx="248.0" cy="346.2" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/setts/s4/g3db3dp4w1~x4/"><circle cx="99.8" cy="296.3" r="4" fill="#3465a4"><title>Pride of the Glen</title></circle></a><a href="/setts/s4/n2r1k1lr1~x10/"><circle cx="104.8" cy="338.8" r="4" fill="#3465a4"><title>Kucher, Gregory (Personal)</title></circle></a><circle cx="149.4" cy="333.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/t3o6k4t2~x2/

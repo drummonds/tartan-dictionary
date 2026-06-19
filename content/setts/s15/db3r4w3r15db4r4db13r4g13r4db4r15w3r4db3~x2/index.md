@@ -2,7 +2,7 @@
 title: "Fitzgerald"
 date: 2023-03-18
 ---
-**Bands:** [BRWRBRBRGRBRWRB](/stripes/brwrbrbrgrbrwrb/) · **Stripes:** [DB R W R DB R DB R G R DB R W R DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R W R DB R DB R G R DB R W R DB</span></span>
+**Bands:** [BRWRBRGRBRBRWRB](/stripes/brwrbrgrbrbrwrb/) · **Stripes:** [DB R W R DB R G R DB R DB R W R DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R W R DB R G R DB R DB R W R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/6 R8 LN6 R30 B8 R8 B26 R8 G26 R8 B8 R30 LN6 R8 B/6
+B/6 R8 LN6 R30 B8 R8 G26 R8 B26 R8 B8 R30 LN6 R8 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -904,19 +907,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Grant of Ballindalloch (Personal)](/setts/s15/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5~x4/) — ΔT 0.70
 1. [MacQuarrie](/setts/s12/r1t1r6db3r1dg6r1dg6r6db1r1t1~x2/) — ΔT 0.94
-1. [Matheson (Logan 1831)](/setts/s13/r2dg2r12db10t3dg10r2dg2r2dg10r12dg2r2~x2/) — ΔT 0.96
+1. [Matheson (Logan 1831)](/setts/s13/r2dg2r12dg10r2dg2r2dg10t3db10r12dg2r2~x2/) — ΔT 0.96
 1. [MacRae (Sample)](/setts/s12/dg21r5dg21r21dg5r4dg5r21w4r5db21r4/) — ΔT 1.01
 1. [Reid of Straloch (Personal)](/setts/s17/r1g1r6db2r1g1w1g6r2db6w1db1r1g2r6g1r1~x6/) — ΔT 1.05
 1. [Ogilvy D](/setts/s14/b4r1b4ly1k1r6lr1r4lr1r6k1ly1b4lr1~x2/) — ΔT 1.14
-1. [MacQuarrie SM](/setts/s12/lb1r1db1r6dg6r1dg6r1db3r6lb1r1~x2/) — ΔT 1.16
+1. [MacQuarrie SM](/setts/s12/r1lb1r6db3r1dg6r1dg6r6db1r1lb1~x2/) — ΔT 1.16
 1. [Grant of Ballindalloch Clan Tartan Tartan Number: 2149. Earliest known date: 1993 Grant of Ballindalloch tartan was designed during the refurbishment of Ballindalloch Castle. It is based on the Grant tartan recorded by Logan in 1831. The first samples produced by Johnstons of Elgin were woven in 'Antique' colours. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/r5dt5r3g16r3g3r3dt10r3t5r12dt5r3dt3r5~x2/) — ΔT 1.20
-1. [Matheson N](/setts/s13/r2dg2r12db10lb3dg10r2dg2r2dg10r12dg2r2/) — ΔT 1.21
+1. [Matheson N](/setts/s13/r2dg2r12dg10r2dg2r2dg10lb3db10r12dg2r2/) — ΔT 1.21
 1. [Dabney Red (Personal)](/setts/s13/r5b3r24g7db6r3g3r3g11r6db3r3b3~x2/) — ΔT 1.25
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5~x4/"><circle cx="216.5" cy="200.4" r="4" fill="#3465a4"><title>Grant of Ballindalloch (Personal)</title></circle></a><a href="/setts/s12/r1t1r6db3r1dg6r1dg6r6db1r1t1~x2/"><circle cx="236.8" cy="195.8" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><a href="/setts/s13/r2dg2r12db10t3dg10r2dg2r2dg10r12dg2r2~x2/"><circle cx="224.4" cy="196.3" r="4" fill="#3465a4"><title>Matheson (Logan 1831)</title></circle></a><a href="/setts/s12/dg21r5dg21r21dg5r4dg5r21w4r5db21r4/"><circle cx="202.9" cy="206.9" r="4" fill="#3465a4"><title>MacRae (Sample)</title></circle></a><a href="/setts/s17/r1g1r6db2r1g1w1g6r2db6w1db1r1g2r6g1r1~x6/"><circle cx="203.9" cy="170.1" r="4" fill="#3465a4"><title>Reid of Straloch (Personal)</title></circle></a><a href="/setts/s14/b4r1b4ly1k1r6lr1r4lr1r6k1ly1b4lr1~x2/"><circle cx="194.2" cy="173.5" r="4" fill="#3465a4"><title>Ogilvy D</title></circle></a><a href="/setts/s12/lb1r1db1r6dg6r1dg6r1db3r6lb1r1~x2/"><circle cx="218.6" cy="188.9" r="4" fill="#3465a4"><title>MacQuarrie SM</title></circle></a><a href="/setts/s15/r5dt5r3g16r3g3r3dt10r3t5r12dt5r3dt3r5~x2/"><circle cx="193.9" cy="207.8" r="4" fill="#3465a4"><title>Grant of Ballindalloch Clan Tartan Tartan Number: 2149. Earliest known date: 1993 Grant of Ballindalloch tartan was designed during the refurbishment of Ballindalloch Castle. It is based on the Grant tartan recorded by Logan in 1831. The first samples produced by Johnstons of Elgin were woven in 'Antique' colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/r2dg2r12db10lb3dg10r2dg2r2dg10r12dg2r2/"><circle cx="207.3" cy="190.5" r="4" fill="#3465a4"><title>Matheson N</title></circle></a><a href="/setts/s13/r5b3r24g7db6r3g3r3g11r6db3r3b3~x2/"><circle cx="298.8" cy="177.2" r="4" fill="#3465a4"><title>Dabney Red (Personal)</title></circle></a><circle cx="231.0" cy="194.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5~x4/"><circle cx="216.3" cy="200.4" r="4" fill="#3465a4"><title>Grant of Ballindalloch (Personal)</title></circle></a><a href="/setts/s12/r1t1r6db3r1dg6r1dg6r6db1r1t1~x2/"><circle cx="236.6" cy="195.8" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><a href="/setts/s13/r2dg2r12dg10r2dg2r2dg10t3db10r12dg2r2~x2/"><circle cx="224.2" cy="196.3" r="4" fill="#3465a4"><title>Matheson (Logan 1831)</title></circle></a><a href="/setts/s12/dg21r5dg21r21dg5r4dg5r21w4r5db21r4/"><circle cx="202.7" cy="206.8" r="4" fill="#3465a4"><title>MacRae (Sample)</title></circle></a><a href="/setts/s17/r1g1r6db2r1g1w1g6r2db6w1db1r1g2r6g1r1~x6/"><circle cx="203.7" cy="170.1" r="4" fill="#3465a4"><title>Reid of Straloch (Personal)</title></circle></a><a href="/setts/s14/b4r1b4ly1k1r6lr1r4lr1r6k1ly1b4lr1~x2/"><circle cx="194.0" cy="173.5" r="4" fill="#3465a4"><title>Ogilvy D</title></circle></a><a href="/setts/s12/r1lb1r6db3r1dg6r1dg6r6db1r1lb1~x2/"><circle cx="218.5" cy="188.8" r="4" fill="#3465a4"><title>MacQuarrie SM</title></circle></a><a href="/setts/s15/r5dt5r3g16r3g3r3dt10r3t5r12dt5r3dt3r5~x2/"><circle cx="193.8" cy="207.8" r="4" fill="#3465a4"><title>Grant of Ballindalloch Clan Tartan Tartan Number: 2149. Earliest known date: 1993 Grant of Ballindalloch tartan was designed during the refurbishment of Ballindalloch Castle. It is based on the Grant tartan recorded by Logan in 1831. The first samples produced by Johnstons of Elgin were woven in 'Antique' colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/r2dg2r12dg10r2dg2r2dg10lb3db10r12dg2r2/"><circle cx="207.2" cy="190.5" r="4" fill="#3465a4"><title>Matheson N</title></circle></a><a href="/setts/s13/r5b3r24g7db6r3g3r3g11r6db3r3b3~x2/"><circle cx="298.5" cy="177.2" r="4" fill="#3465a4"><title>Dabney Red (Personal)</title></circle></a><circle cx="230.7" cy="194.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/db3r4w3r15db4r4db13r4g13r4db4r15w3r4db3~x2/

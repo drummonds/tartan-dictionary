@@ -23,8 +23,8 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Cumming VS](/setts/s10/r4dg8lb1dg8r4dg4r2dg4r24k2/)|
-|![Cumming VS example sett](/setts/s10/r4dg8lb1dg8r4dg4r2dg4r24k2/sett.png)|
+| [Cumming VS](/setts/s10/r4dg8lb1dg8r4dg4r2dg4r24k2~x2/)|
+|![Cumming VS example sett](/setts/s10/r4dg8lb1dg8r4dg4r2dg4r24k2~x2/sett.png)|
 
 ### K R DG R DG R DG W DG R <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R DG R DG R DG W DG R</span></span>
 

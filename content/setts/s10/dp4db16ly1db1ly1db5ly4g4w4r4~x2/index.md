@@ -2,12 +2,18 @@
 title: "Yukon #1906 District Tartan Tartan Number: 1906. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BBYBYBYGWR](/stripes/bbybybygwr/) · **Stripes:** [DP DB LY DB LY DB LY G W R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DP DB LY DB LY DB LY G W R</span></span>
+**Bands:** [RWGYBYBYBB](/stripes/rwgybybybb/) · **Stripes:** [R W G LY DB LY DB LY DB DP](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R W G LY DB LY DB LY DB DP</span></span>
 
 
 This was sourced from house-of-tartan.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1906
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Yukon #2147
 
 ## Attestations
 
@@ -24,7 +30,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-P/8 DB32 Y2 DB2 Y2 DB10 Y8 G8 LN8 R/8
+R/8 LN8 G8 Y8 DB10 Y2 DB2 Y2 DB32 P/8
 ![Sett](sett.png)
 
 ## Palette
@@ -43,10 +49,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Yukon](/setts/s10/p4db16ly1db1ly1db5ly4g4w4r4~x2/) — ΔT 0.49
+1. [Yukon](/setts/s10/r4w4g4ly4db5ly1db1ly1db16p4~x2/) — ΔT 0.49
 1. [Yukon District Tartan Tartan Number: 1907. Earliest known date: 1984 Lord Lyon records a symetrical version. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/dp4db20ly1db2ly1db4ly4g4w4r4~x2/) — ΔT 0.74
 1. [Yukon (asymmetric)](/setts/s10/dp4db20ly1db2ly1db4ly4dg4w4r4~x2/) — ΔT 0.79
-1. [Yukon](/setts/s10/p4db20ly1db2ly1db4ly4g4w4r4~x2/) — ΔT 0.82
+1. [Yukon](/setts/s10/r4w4g4ly4db4ly1db2ly1db20p4~x2/) — ΔT 0.82
 1. [Ohio District Tartan Tartan Number: 651. Earliest known date: 1984 Design is based on the colours of Ohio's flag and state seal. The widths of the stripes in each colour are based on the date Ohio was admitted to the Union. The tartan first went on display at the Ohio Scottish Games in June 1983. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/db16w6r8db3ly1g1t3db1g9~x2/) — ΔT 0.93
 1. [Hodgkinson](/setts/s8/t5ly5db12g1db1r1db1w2~x4/) — ΔT 0.96
 1. [Saltcoats (Fashion)](/setts/s12/dp5w1k1b14k1r12k1b14k1r5k1ly3~x2/) — ΔT 0.96
@@ -56,8 +62,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/p4db16ly1db1ly1db5ly4g4w4r4~x2/"><circle cx="202.4" cy="118.0" r="4" fill="#3465a4"><title>Yukon</title></circle></a><a href="/setts/s10/dp4db20ly1db2ly1db4ly4g4w4r4~x2/"><circle cx="245.7" cy="101.9" r="4" fill="#3465a4"><title>Yukon District Tartan Tartan Number: 1907. Earliest known date: 1984 Lord Lyon records a symetrical version. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/dp4db20ly1db2ly1db4ly4dg4w4r4~x2/"><circle cx="248.9" cy="104.8" r="4" fill="#3465a4"><title>Yukon (asymmetric)</title></circle></a><a href="/setts/s10/p4db20ly1db2ly1db4ly4g4w4r4~x2/"><circle cx="249.3" cy="103.3" r="4" fill="#3465a4"><title>Yukon</title></circle></a><a href="/setts/s9/db16w6r8db3ly1g1t3db1g9~x2/"><circle cx="161.0" cy="128.4" r="4" fill="#3465a4"><title>Ohio District Tartan Tartan Number: 651. Earliest known date: 1984 Design is based on the colours of Ohio's flag and state seal. The widths of the stripes in each colour are based on the date Ohio was admitted to the Union. The tartan first went on display at the Ohio Scottish Games in June 1983. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/t5ly5db12g1db1r1db1w2~x4/"><circle cx="203.3" cy="131.8" r="4" fill="#3465a4"><title>Hodgkinson</title></circle></a><a href="/setts/s12/dp5w1k1b14k1r12k1b14k1r5k1ly3~x2/"><circle cx="218.0" cy="113.5" r="4" fill="#3465a4"><title>Saltcoats (Fashion)</title></circle></a><a href="/setts/s11/db4ly3db22r6w2k6w2db6o20k3o4~x2/"><circle cx="157.0" cy="130.5" r="4" fill="#3465a4"><title>Asman Hunting (Name)</title></circle></a><a href="/setts/s9/db16w6r8db3lo1g1lg3db1g10~x4/"><circle cx="148.1" cy="125.5" r="4" fill="#3465a4"><title>Ogilvie of Inverquharity or Ohio</title></circle></a><a href="/setts/s10/w3m18k18ly1r2b2r2ly1m18b2~x2/"><circle cx="261.4" cy="102.3" r="4" fill="#3465a4"><title>Selkirk High (Corporate)</title></circle></a><circle cx="199.0" cy="116.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r4w4g4ly4db5ly1db1ly1db16p4~x2/"><circle cx="202.3" cy="118.0" r="4" fill="#3465a4"><title>Yukon</title></circle></a><a href="/setts/s10/dp4db20ly1db2ly1db4ly4g4w4r4~x2/"><circle cx="245.5" cy="101.9" r="4" fill="#3465a4"><title>Yukon District Tartan Tartan Number: 1907. Earliest known date: 1984 Lord Lyon records a symetrical version. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/dp4db20ly1db2ly1db4ly4dg4w4r4~x2/"><circle cx="248.8" cy="104.7" r="4" fill="#3465a4"><title>Yukon (asymmetric)</title></circle></a><a href="/setts/s10/r4w4g4ly4db4ly1db2ly1db20p4~x2/"><circle cx="249.1" cy="103.3" r="4" fill="#3465a4"><title>Yukon</title></circle></a><a href="/setts/s9/db16w6r8db3ly1g1t3db1g9~x2/"><circle cx="160.9" cy="128.5" r="4" fill="#3465a4"><title>Ohio District Tartan Tartan Number: 651. Earliest known date: 1984 Design is based on the colours of Ohio's flag and state seal. The widths of the stripes in each colour are based on the date Ohio was admitted to the Union. The tartan first went on display at the Ohio Scottish Games in June 1983. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/t5ly5db12g1db1r1db1w2~x4/"><circle cx="203.2" cy="131.8" r="4" fill="#3465a4"><title>Hodgkinson</title></circle></a><a href="/setts/s12/dp5w1k1b14k1r12k1b14k1r5k1ly3~x2/"><circle cx="217.8" cy="113.6" r="4" fill="#3465a4"><title>Saltcoats (Fashion)</title></circle></a><a href="/setts/s11/db4ly3db22r6w2k6w2db6o20k3o4~x2/"><circle cx="156.9" cy="130.6" r="4" fill="#3465a4"><title>Asman Hunting (Name)</title></circle></a><a href="/setts/s9/db16w6r8db3lo1g1lg3db1g10~x4/"><circle cx="148.1" cy="125.6" r="4" fill="#3465a4"><title>Ogilvie of Inverquharity or Ohio</title></circle></a><a href="/setts/s10/w3m18k18ly1r2b2r2ly1m18b2~x2/"><circle cx="261.2" cy="102.3" r="4" fill="#3465a4"><title>Selkirk High (Corporate)</title></circle></a><circle cx="198.9" cy="116.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/dp4db16ly1db1ly1db5ly4g4w4r4~x2/

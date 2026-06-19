@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Hebridean
+- Hebrides #12
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,19 +920,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacIver](/setts/s9/lr1r12k2r2k16r2k2r12ly1~x2/) — ΔT 1.12
 1. [Wemyss](/setts/s9/r4k12lr1k12r4k4r24dg1r4~x2/) — ΔT 1.16
-1. [Wemyss](/setts/s9/r4k12lr1k12r4k4r24dg1r4/) — ΔT 1.16
 1. [MacIver](/setts/s9/lr1r6k1r1k16r1k1r6ly1~x2/) — ΔT 1.17
 1. [Wemyss](/setts/s9/r4k12w1k12r4k4r24g1r4~x2/) — ΔT 1.24
-1. [Wemyss](/setts/s9/r4k12lb1k12r4k4r24dg1r4/) — ΔT 1.28
+1. [Wemyss](/setts/s9/r4k12lb1k12r4k4r24dg1r4~x2/) — ΔT 1.28
 1. [Johnnie Walker (1985)](/setts/s14/k15r2k1r2k1r4lo1k1r14k1r2k1r1k10~x4/) — ΔT 1.34
 1. [Cunningham D](/setts/s7/k3r1k30r28k1r1lb3~x2/) — ΔT 1.35
-1. [MacIvor](/setts/s9/lb1r12k2r2k16r2k2r12ly1/) — ΔT 1.35
+1. [MacIvor](/setts/s9/ly1r12k2r2k16r2k2r12lb1/) — ΔT 1.35
 1. [Cunningham D](/setts/s7/k3r1k30r28k1r1lr3~x2/) — ΔT 1.35
+1. [Einigkeit](/setts/s10/ly6k2ly2r10k4r4k4r2k35ly2~x2/) — ΔT 1.36
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lr1r12k2r2k16r2k2r12ly1~x2/"><circle cx="338.7" cy="151.2" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/setts/s9/r4k12lr1k12r4k4r24dg1r4~x2/"><circle cx="349.1" cy="143.5" r="4" fill="#3465a4"><title>Wemyss</title></circle></a><a href="/setts/s9/r4k12lr1k12r4k4r24dg1r4/"><circle cx="349.1" cy="143.5" r="4" fill="#3465a4"><title>Wemyss</title></circle></a><a href="/setts/s9/lr1r6k1r1k16r1k1r6ly1~x2/"><circle cx="331.1" cy="140.3" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/setts/s9/r4k12w1k12r4k4r24g1r4~x2/"><circle cx="341.7" cy="137.0" r="4" fill="#3465a4"><title>Wemyss</title></circle></a><a href="/setts/s9/r4k12lb1k12r4k4r24dg1r4/"><circle cx="341.1" cy="135.8" r="4" fill="#3465a4"><title>Wemyss</title></circle></a><a href="/setts/s14/k15r2k1r2k1r4lo1k1r14k1r2k1r1k10~x4/"><circle cx="370.1" cy="144.8" r="4" fill="#3465a4"><title>Johnnie Walker (1985)</title></circle></a><a href="/setts/s7/k3r1k30r28k1r1lb3~x2/"><circle cx="368.1" cy="135.4" r="4" fill="#3465a4"><title>Cunningham D</title></circle></a><a href="/setts/s9/lb1r12k2r2k16r2k2r12ly1/"><circle cx="331.0" cy="143.1" r="4" fill="#3465a4"><title>MacIvor</title></circle></a><a href="/setts/s7/k3r1k30r28k1r1lr3~x2/"><circle cx="375.6" cy="142.3" r="4" fill="#3465a4"><title>Cunningham D</title></circle></a><circle cx="348.1" cy="150.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lr1r12k2r2k16r2k2r12ly1~x2/"><circle cx="338.6" cy="151.0" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/setts/s9/r4k12lr1k12r4k4r24dg1r4~x2/"><circle cx="348.9" cy="143.3" r="4" fill="#3465a4"><title>Wemyss</title></circle></a><a href="/setts/s9/lr1r6k1r1k16r1k1r6ly1~x2/"><circle cx="331.0" cy="140.1" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/setts/s9/r4k12w1k12r4k4r24g1r4~x2/"><circle cx="341.5" cy="136.9" r="4" fill="#3465a4"><title>Wemyss</title></circle></a><a href="/setts/s9/r4k12lb1k12r4k4r24dg1r4~x2/"><circle cx="340.9" cy="135.6" r="4" fill="#3465a4"><title>Wemyss</title></circle></a><a href="/setts/s14/k15r2k1r2k1r4lo1k1r14k1r2k1r1k10~x4/"><circle cx="369.8" cy="144.6" r="4" fill="#3465a4"><title>Johnnie Walker (1985)</title></circle></a><a href="/setts/s7/k3r1k30r28k1r1lb3~x2/"><circle cx="367.9" cy="135.1" r="4" fill="#3465a4"><title>Cunningham D</title></circle></a><a href="/setts/s9/ly1r12k2r2k16r2k2r12lb1/"><circle cx="330.8" cy="142.9" r="4" fill="#3465a4"><title>MacIvor</title></circle></a><a href="/setts/s7/k3r1k30r28k1r1lr3~x2/"><circle cx="375.5" cy="142.1" r="4" fill="#3465a4"><title>Cunningham D</title></circle></a><a href="/setts/s10/ly6k2ly2r10k4r4k4r2k35ly2~x2/"><circle cx="376.5" cy="136.8" r="4" fill="#3465a4"><title>Einigkeit</title></circle></a><circle cx="348.0" cy="150.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/

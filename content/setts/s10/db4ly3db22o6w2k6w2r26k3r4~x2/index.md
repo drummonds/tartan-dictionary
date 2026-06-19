@@ -2,7 +2,7 @@
 title: "Asman Red (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BYBRWKWRKR](/stripes/bybrwkwrkr/) · **Stripes:** [DB LY DB O W K W R K R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB LY DB O W K W R K R</span></span>
+**Bands:** [RKRWKWRBYB](/stripes/rkrwkwrbyb/) · **Stripes:** [R K R W K W O DB LY DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">R K R W K W O DB LY DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
@@ -18,7 +18,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2552
 
 ## Thread count
-DBa/8 Y6 DBa44 Na12 W4 K12 W4 R52 K6 R/8
+R/8 K6 R52 W4 K12 W4 Na12 DBa44 Y6 DBa/8
 ![Sett](sett.png)
 
 ## Palette
@@ -47,16 +47,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Crieff Primary School](/setts/s10/k3g1r1db6n2db1n1db1r10w1~x4/) — ΔT 0.74
 1. [MacCreary (Personal)](/setts/s9/k4db12lb3db4g8lo2r24db4r4~x2/) — ΔT 0.77
 1. [Asman Family](/setts/s10/db4ly3db17g6w2dr6w2r24dr3r4~x2/) — ΔT 0.80
-1. [Tribal](/setts/s10/lg2k16r5k1r8k1r5k1dp16ly2~x4/) — ΔT 0.89
+1. [Tribal](/setts/s10/ly2dp16k1r5k1r8k1r5k16lg2~x4/) — ΔT 0.89
 1. [Norwell](/setts/s11/r4k4r32g4w3g4k13g3db18r2ly3~x2/) — ΔT 0.89
 1. [Kilmorie](/setts/s11/k3r30g10k3ly2k3w2k6r2db12w2~x2/) — ΔT 0.99
-1. [Gordon of Abergeldie](/setts/s10/r63w4k4dp18ly4dg50ly4dp18k4w4~x2/) — ΔT 0.99
-1. [Loch Etive](/setts/s8/ly3db3k2db18k26r21g2w3~x2/) — ΔT 1.00
+1. [Gordon of Abergeldie](/setts/s10/r63w4k4dp18ly4dg50~x2/) — ΔT 0.99
+1. [Loch Etive](/setts/s8/w3g2r21k26db18k2db3ly3~x2/) — ΔT 1.00
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db4ly3db22o6w2k6w2r6r20k3r4~x2/"><circle cx="153.6" cy="120.9" r="4" fill="#3465a4"><title>Asman Dress Family Tartan Tartan Number: 2552. Earliest known date: 1989 Designed for David I Asman by Dr. Philip D. Smith, 1989. David Asman was an English armiger and lived at one time in New jersey, USA. The tartan was first woven by Peter MacDonald in the weaving shed at the Scottish Tartan Society's Comrie museum in the 1989. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/dp45k12ly4k4w6k4dg50r57dp4r10k4~x2/"><circle cx="153.2" cy="104.4" r="4" fill="#3465a4"><title>MacLean Variation</title></circle></a><a href="/setts/s10/k3g1r1db6n2db1n1db1r10w1~x4/"><circle cx="179.5" cy="128.5" r="4" fill="#3465a4"><title>Crieff Primary School</title></circle></a><a href="/setts/s9/k4db12lb3db4g8lo2r24db4r4~x2/"><circle cx="182.8" cy="134.8" r="4" fill="#3465a4"><title>MacCreary (Personal)</title></circle></a><a href="/setts/s10/db4ly3db17g6w2dr6w2r24dr3r4~x2/"><circle cx="176.6" cy="126.2" r="4" fill="#3465a4"><title>Asman Family</title></circle></a><a href="/setts/s10/lg2k16r5k1r8k1r5k1dp16ly2~x4/"><circle cx="138.8" cy="108.3" r="4" fill="#3465a4"><title>Tribal</title></circle></a><a href="/setts/s11/r4k4r32g4w3g4k13g3db18r2ly3~x2/"><circle cx="189.8" cy="101.6" r="4" fill="#3465a4"><title>Norwell</title></circle></a><a href="/setts/s11/k3r30g10k3ly2k3w2k6r2db12w2~x2/"><circle cx="190.2" cy="96.2" r="4" fill="#3465a4"><title>Kilmorie</title></circle></a><a href="/setts/s10/r63w4k4dp18ly4dg50ly4dp18k4w4~x2/"><circle cx="183.5" cy="100.3" r="4" fill="#3465a4"><title>Gordon of Abergeldie</title></circle></a><a href="/setts/s8/ly3db3k2db18k26r21g2w3~x2/"><circle cx="153.5" cy="132.2" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><circle cx="169.3" cy="111.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db4ly3db22o6w2k6w2r6r20k3r4~x2/"><circle cx="153.4" cy="121.0" r="4" fill="#3465a4"><title>Asman Dress Family Tartan Tartan Number: 2552. Earliest known date: 1989 Designed for David I Asman by Dr. Philip D. Smith, 1989. David Asman was an English armiger and lived at one time in New jersey, USA. The tartan was first woven by Peter MacDonald in the weaving shed at the Scottish Tartan Society's Comrie museum in the 1989. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/dp45k12ly4k4w6k4dg50r57dp4r10k4~x2/"><circle cx="153.1" cy="104.6" r="4" fill="#3465a4"><title>MacLean Variation</title></circle></a><a href="/setts/s10/k3g1r1db6n2db1n1db1r10w1~x4/"><circle cx="179.4" cy="128.6" r="4" fill="#3465a4"><title>Crieff Primary School</title></circle></a><a href="/setts/s9/k4db12lb3db4g8lo2r24db4r4~x2/"><circle cx="182.7" cy="134.9" r="4" fill="#3465a4"><title>MacCreary (Personal)</title></circle></a><a href="/setts/s10/db4ly3db17g6w2dr6w2r24dr3r4~x2/"><circle cx="176.5" cy="126.3" r="4" fill="#3465a4"><title>Asman Family</title></circle></a><a href="/setts/s10/ly2dp16k1r5k1r8k1r5k16lg2~x4/"><circle cx="138.8" cy="108.4" r="4" fill="#3465a4"><title>Tribal</title></circle></a><a href="/setts/s11/r4k4r32g4w3g4k13g3db18r2ly3~x2/"><circle cx="189.6" cy="101.7" r="4" fill="#3465a4"><title>Norwell</title></circle></a><a href="/setts/s11/k3r30g10k3ly2k3w2k6r2db12w2~x2/"><circle cx="190.0" cy="96.3" r="4" fill="#3465a4"><title>Kilmorie</title></circle></a><a href="/setts/s10/r63w4k4dp18ly4dg50~x2/"><circle cx="183.3" cy="100.4" r="4" fill="#3465a4"><title>Gordon of Abergeldie</title></circle></a><a href="/setts/s8/w3g2r21k26db18k2db3ly3~x2/"><circle cx="153.5" cy="132.2" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><circle cx="169.1" cy="111.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db4ly3db22o6w2k6w2r26k3r4~x2/

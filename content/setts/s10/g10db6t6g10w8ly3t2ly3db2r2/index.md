@@ -2,7 +2,7 @@
 title: "Northern College"
 date: 2023-03-18
 ---
-**Bands:** [GBBGWYBYBR](/stripes/gbbgwybybr/) · **Stripes:** [G DB T G W LY T LY DB R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">G DB T G W LY T LY DB R</span></span>
+**Bands:** [RBYBYWGBBG](/stripes/rbybywgbbg/) · **Stripes:** [R DB LY T LY W G T DB G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DB LY T LY W G T DB G</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -921,18 +924,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Northern College (Ontario)](/setts/s10/g5db3t3g5w4ly2t1ly2db1r1~x6/) — ΔT 0.80
 1. [Dunedin (NZ)](/setts/s8/g1w1g4k1r1k1lg4ly1~x8/) — ΔT 0.92
 1. [Mounth The.. Corporate Tartan Tartan Number: 120. Earliest known date: 1988 Designed for Kincardine & Deeside branch of the National Trust for Scotland. Blue is a muted sky blue. Green is a dark pine green. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/dg2o13dg12w3lb10w3lb12g13r2~x2/) — ΔT 1.11
-1. [Vasseur Mignon (Personal)](/setts/s11/ly2lb11g5n11g11lb5g5ly2r2ly2r2~x2/) — ΔT 1.32
+1. [Vasseur Mignon (Personal)](/setts/s11/r2ly2r2ly2g5lb5g11n11g5lb11ly2~x2/) — ΔT 1.32
 1. [MacLellan Dress (Personal)](/setts/s11/k4ly2lg13k8r2w13r2w13k2g12ly4~x2/) — ΔT 1.35
 1. [Devon Rural Skills Trust](/setts/s8/w5y4t1y4r4t1dg4ly1~x6/) — ΔT 1.36
-1. [Ellis (Personal)](/setts/s9/ly2k1g5r4g2r2g4k1w2~x6/) — ΔT 1.37
-1. [Devon Rural Skills Trust](/setts/s8/w5y4b1y4r4b1dg4ly1~x2/) — ΔT 1.42
+1. [Ellis (Personal)](/setts/s9/w2k1g4r2g2r4g5k1ly2~x6/) — ΔT 1.37
+1. [Devon Rural Skills Trust](/setts/s8/w5y4b1y4r4b1dg4ly1~x2/) — ΔT 1.41
 1. [Gaelic College of St.Anns](/setts/s9/g8r1g4dy2w4t3w1t3w4~x8/) — ΔT 1.44
 1. [Gayre Dress (Clan)](/setts/s15/y14g4k4w4g12y4g12w4k4r6g4w4g3y4k4~x2/) — ΔT 1.46
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g5db3t3g5w4ly2t1ly2db1r1~x6/"><circle cx="52.1" cy="194.1" r="4" fill="#3465a4"><title>Northern College (Ontario)</title></circle></a><a href="/setts/s8/g1w1g4k1r1k1lg4ly1~x8/"><circle cx="68.6" cy="195.1" r="4" fill="#3465a4"><title>Dunedin (NZ)</title></circle></a><a href="/setts/s9/dg2o13dg12w3lb10w3lb12g13r2~x2/"><circle cx="54.6" cy="186.0" r="4" fill="#3465a4"><title>Mounth The.. Corporate Tartan Tartan Number: 120. Earliest known date: 1988 Designed for Kincardine &amp; Deeside branch of the National Trust for Scotland. Blue is a muted sky blue. Green is a dark pine green. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/ly2lb11g5n11g11lb5g5ly2r2ly2r2~x2/"><circle cx="115.2" cy="195.7" r="4" fill="#3465a4"><title>Vasseur Mignon (Personal)</title></circle></a><a href="/setts/s11/k4ly2lg13k8r2w13r2w13k2g12ly4~x2/"><circle cx="44.7" cy="151.4" r="4" fill="#3465a4"><title>MacLellan Dress (Personal)</title></circle></a><a href="/setts/s8/w5y4t1y4r4t1dg4ly1~x6/"><circle cx="36.8" cy="199.0" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/setts/s9/ly2k1g5r4g2r2g4k1w2~x6/"><circle cx="14.0" cy="197.5" r="4" fill="#3465a4"><title>Ellis (Personal)</title></circle></a><a href="/setts/s8/w5y4b1y4r4b1dg4ly1~x2/"><circle cx="44.9" cy="202.8" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/setts/s9/g8r1g4dy2w4t3w1t3w4~x8/"><circle cx="115.5" cy="188.0" r="4" fill="#3465a4"><title>Gaelic College of St.Anns</title></circle></a><a href="/setts/s15/y14g4k4w4g12y4g12w4k4r6g4w4g3y4k4~x2/"><circle cx="81.5" cy="190.9" r="4" fill="#3465a4"><title>Gayre Dress (Clan)</title></circle></a><circle cx="64.9" cy="193.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g5db3t3g5w4ly2t1ly2db1r1~x6/"><circle cx="52.0" cy="194.1" r="4" fill="#3465a4"><title>Northern College (Ontario)</title></circle></a><a href="/setts/s8/g1w1g4k1r1k1lg4ly1~x8/"><circle cx="68.6" cy="195.2" r="4" fill="#3465a4"><title>Dunedin (NZ)</title></circle></a><a href="/setts/s9/dg2o13dg12w3lb10w3lb12g13r2~x2/"><circle cx="54.6" cy="186.1" r="4" fill="#3465a4"><title>Mounth The.. Corporate Tartan Tartan Number: 120. Earliest known date: 1988 Designed for Kincardine &amp; Deeside branch of the National Trust for Scotland. Blue is a muted sky blue. Green is a dark pine green. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r2ly2r2ly2g5lb5g11n11g5lb11ly2~x2/"><circle cx="115.1" cy="195.8" r="4" fill="#3465a4"><title>Vasseur Mignon (Personal)</title></circle></a><a href="/setts/s11/k4ly2lg13k8r2w13r2w13k2g12ly4~x2/"><circle cx="44.6" cy="151.5" r="4" fill="#3465a4"><title>MacLellan Dress (Personal)</title></circle></a><a href="/setts/s8/w5y4t1y4r4t1dg4ly1~x6/"><circle cx="36.8" cy="199.0" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/setts/s9/w2k1g4r2g2r4g5k1ly2~x6/"><circle cx="14.0" cy="197.6" r="4" fill="#3465a4"><title>Ellis (Personal)</title></circle></a><a href="/setts/s8/w5y4b1y4r4b1dg4ly1~x2/"><circle cx="44.9" cy="202.9" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/setts/s9/g8r1g4dy2w4t3w1t3w4~x8/"><circle cx="115.3" cy="187.9" r="4" fill="#3465a4"><title>Gaelic College of St.Anns</title></circle></a><a href="/setts/s15/y14g4k4w4g12y4g12w4k4r6g4w4g3y4k4~x2/"><circle cx="81.5" cy="190.9" r="4" fill="#3465a4"><title>Gayre Dress (Clan)</title></circle></a><circle cx="64.9" cy="194.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/g10db6t6g10w8ly3t2ly3db2r2/

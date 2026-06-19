@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -920,16 +923,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Dunlop](/setts/s8/k3r1k30w1db28r1db1w3~x2/) — ΔT 1.40
 1. [Scotland's Own](/setts/s12/db4w1db30k15p4db2k2db2k10db4p2db2~x2/) — ΔT 1.52
 1. [MacDonald Lord of the Isles Hunting](/setts/s13/dg24lr1dg2lr2db2lr1db12lr1db2lr2db2lr1db12~x2/) — ΔT 1.85
-1. [Hope-Weir / Weir](/setts/s8/k8ly1k1db28k12g2k1t2~x2/) — ΔT 1.88
+1. [MacDonald Lord of the Isles Hunting](/setts/s13/dg24lr1dg2lr2db2lr1db12lr1db2lr2db2lr1db12/) — ΔT 1.85
+1. [Hope-Weir / Weir](/setts/s8/k8ly1k1db28k12g2k1t2~x2/) — ΔT 1.87
 1. [Breckon (Name)](/setts/s9/k3o1k14r14o1r1o1r1k2~x4/) — ΔT 1.88
 1. [Lynn (Personal)](/setts/s8/b18w1k3w1b9w1k45b4~x2/) — ΔT 1.89
 1. [Citymoves (2012) (Corporate)](/setts/s15/k12r1k2r2k2r3k2r4k2r2k2r1db36k16ly3~x2/) — ΔT 1.89
-1. [Finnie (Personal)](/setts/s8/db4w4db37k20w1dp5w1k4~x2/) — ΔT 1.90
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k4w2k28db30k1db3~x2/"><circle cx="364.5" cy="179.0" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/setts/s8/k28r1k2r1k8db24g2db3~x2/"><circle cx="368.4" cy="152.7" r="4" fill="#3465a4"><title>Home, or Hume</title></circle></a><a href="/setts/s8/k3r1k30w1db28r1db1w3~x2/"><circle cx="359.5" cy="139.2" r="4" fill="#3465a4"><title>Dunlop</title></circle></a><a href="/setts/s12/db4w1db30k15p4db2k2db2k10db4p2db2~x2/"><circle cx="365.1" cy="126.3" r="4" fill="#3465a4"><title>Scotland's Own</title></circle></a><a href="/setts/s13/dg24lr1dg2lr2db2lr1db12lr1db2lr2db2lr1db12~x2/"><circle cx="332.4" cy="145.6" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles Hunting</title></circle></a><a href="/setts/s8/k8ly1k1db28k12g2k1t2~x2/"><circle cx="320.5" cy="125.7" r="4" fill="#3465a4"><title>Hope-Weir / Weir</title></circle></a><a href="/setts/s9/k3o1k14r14o1r1o1r1k2~x4/"><circle cx="356.6" cy="179.0" r="4" fill="#3465a4"><title>Breckon (Name)</title></circle></a><a href="/setts/s8/b18w1k3w1b9w1k45b4~x2/"><circle cx="415.7" cy="129.9" r="4" fill="#3465a4"><title>Lynn (Personal)</title></circle></a><a href="/setts/s15/k12r1k2r2k2r3k2r4k2r2k2r1db36k16ly3~x2/"><circle cx="317.1" cy="99.4" r="4" fill="#3465a4"><title>Citymoves (2012) (Corporate)</title></circle></a><a href="/setts/s8/db4w4db37k20w1dp5w1k4~x2/"><circle cx="365.4" cy="135.7" r="4" fill="#3465a4"><title>Finnie (Personal)</title></circle></a><circle cx="365.7" cy="139.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k4w2k28db30k1db3~x2/"><circle cx="364.6" cy="178.8" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/setts/s8/k28r1k2r1k8db24g2db3~x2/"><circle cx="368.5" cy="152.6" r="4" fill="#3465a4"><title>Home, or Hume</title></circle></a><a href="/setts/s8/k3r1k30w1db28r1db1w3~x2/"><circle cx="359.5" cy="139.2" r="4" fill="#3465a4"><title>Dunlop</title></circle></a><a href="/setts/s12/db4w1db30k15p4db2k2db2k10db4p2db2~x2/"><circle cx="365.1" cy="126.2" r="4" fill="#3465a4"><title>Scotland's Own</title></circle></a><a href="/setts/s13/dg24lr1dg2lr2db2lr1db12lr1db2lr2db2lr1db12~x2/"><circle cx="332.4" cy="145.5" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles Hunting</title></circle></a><a href="/setts/s13/dg24lr1dg2lr2db2lr1db12lr1db2lr2db2lr1db12/"><circle cx="332.4" cy="145.5" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles Hunting</title></circle></a><a href="/setts/s8/k8ly1k1db28k12g2k1t2~x2/"><circle cx="320.6" cy="125.7" r="4" fill="#3465a4"><title>Hope-Weir / Weir</title></circle></a><a href="/setts/s9/k3o1k14r14o1r1o1r1k2~x4/"><circle cx="356.6" cy="178.9" r="4" fill="#3465a4"><title>Breckon (Name)</title></circle></a><a href="/setts/s8/b18w1k3w1b9w1k45b4~x2/"><circle cx="415.6" cy="129.7" r="4" fill="#3465a4"><title>Lynn (Personal)</title></circle></a><a href="/setts/s15/k12r1k2r2k2r3k2r4k2r2k2r1db36k16ly3~x2/"><circle cx="317.0" cy="99.5" r="4" fill="#3465a4"><title>Citymoves (2012) (Corporate)</title></circle></a><circle cx="365.7" cy="139.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/k3r1k32db28r1db2r1db2r3~x2/

@@ -22,6 +22,6 @@ KWRKWKRKRWKWRWGWRWKWRKRKWKRWKR
 
 | Tartans |
 |---------------|
-| [Sabrettes](/setts/s30/r15k5w2o7k4w8k2r26k5o2w2k7w2r5w2g2w2r5w2k7w2o2k5r26k2w8k4o7w2k5~x2/)|
-|![Sabrettes example sett](/setts/s30/r15k5w2o7k4w8k2r26k5o2w2k7w2r5w2g2w2r5w2k7w2o2k5r26k2w8k4o7w2k5~x2/sett.png)|
+| [Sabrettes](/setts/s30/r15k5w2o7k4w8k2r26k5o2w2k7w2r5w2g2~x2/)|
+|![Sabrettes example sett](/setts/s30/r15k5w2o7k4w8k2r26k5o2w2k7w2r5w2g2~x2/sett.png)|
 

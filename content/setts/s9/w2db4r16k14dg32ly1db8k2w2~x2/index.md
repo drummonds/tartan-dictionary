@@ -2,7 +2,7 @@
 title: "National Millennium"
 date: 2023-03-18
 ---
-**Bands:** [WBRKGYBKW](/stripes/wbrkgybkw/) · **Stripes:** [W DB R K DG LY DB K W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB R K DG LY DB K W</span></span>
+**Bands:** [WKBYGKRBW](/stripes/wkbygkrbw/) · **Stripes:** [W K DB LY DG K R DB W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W K DB LY DG K R DB W</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,7 +909,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Hard Rock Cafe (Corporate)](/setts/s10/r4do4r4do12k32lo15o1lo7lo1o1~x2/) — ΔT 1.00
 1. [Froben, Christian (Personal)](/setts/s8/k2w2k8lo8db24dg13k3m1~x2/) — ΔT 1.08
-1. [McGeachie (Personal)](/setts/s8/ly1k6g32k12r12b9k6w1~x2/) — ΔT 1.15
+1. [McGeachie (Personal)](/setts/s8/w1k6b9r12k12g32k6ly1~x2/) — ΔT 1.15
 1. [Froben, Christian (Personal)](/setts/s8/k2w2k8ly8db24g13k3r1~x2/) — ΔT 1.22
 1. [Vienna Highlander (Fashion)](/setts/s8/lo3k2o15k10dt23r2dt1w2~x2/) — ΔT 1.23
 1. [Fermanagh County, Crest Range](/setts/s10/r4w6k10db5k3o16k3dg33k1w4~x2/) — ΔT 1.25
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r4do4r4do12k32lo15o1lo7lo1o1~x2/"><circle cx="223.2" cy="94.5" r="4" fill="#3465a4"><title>Hard Rock Cafe (Corporate)</title></circle></a><a href="/setts/s8/k2w2k8lo8db24dg13k3m1~x2/"><circle cx="187.8" cy="130.4" r="4" fill="#3465a4"><title>Froben, Christian (Personal)</title></circle></a><a href="/setts/s8/ly1k6g32k12r12b9k6w1~x2/"><circle cx="212.2" cy="119.7" r="4" fill="#3465a4"><title>McGeachie (Personal)</title></circle></a><a href="/setts/s8/k2w2k8ly8db24g13k3r1~x2/"><circle cx="167.4" cy="118.3" r="4" fill="#3465a4"><title>Froben, Christian (Personal)</title></circle></a><a href="/setts/s8/lo3k2o15k10dt23r2dt1w2~x2/"><circle cx="201.9" cy="119.3" r="4" fill="#3465a4"><title>Vienna Highlander (Fashion)</title></circle></a><a href="/setts/s10/r4w6k10db5k3o16k3dg33k1w4~x2/"><circle cx="180.1" cy="87.5" r="4" fill="#3465a4"><title>Fermanagh County, Crest Range</title></circle></a><a href="/setts/s9/o29k23lo1g9lo2r4k14w2k4~x2/"><circle cx="233.1" cy="107.0" r="4" fill="#3465a4"><title>Letter Dress (2014)</title></circle></a><a href="/setts/s11/db2r2db2r2db20k24g12ly1k2g2t2~x2/"><circle cx="183.3" cy="94.9" r="4" fill="#3465a4"><title>Unidentified 26</title></circle></a><a href="/setts/s8/lg2dg9k16r2t30lg3dg6w1~x2/"><circle cx="206.6" cy="100.5" r="4" fill="#3465a4"><title>Climb, The</title></circle></a><a href="/setts/s11/r5dg30k6ly2k3b5k12r8k3r3lr3~x2/"><circle cx="160.1" cy="120.8" r="4" fill="#3465a4"><title>King George (Nash)</title></circle></a><circle cx="193.0" cy="97.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r4do4r4do12k32lo15o1lo7lo1o1~x2/"><circle cx="223.1" cy="94.6" r="4" fill="#3465a4"><title>Hard Rock Cafe (Corporate)</title></circle></a><a href="/setts/s8/k2w2k8lo8db24dg13k3m1~x2/"><circle cx="187.9" cy="130.5" r="4" fill="#3465a4"><title>Froben, Christian (Personal)</title></circle></a><a href="/setts/s8/w1k6b9r12k12g32k6ly1~x2/"><circle cx="212.2" cy="119.8" r="4" fill="#3465a4"><title>McGeachie (Personal)</title></circle></a><a href="/setts/s8/k2w2k8ly8db24g13k3r1~x2/"><circle cx="167.5" cy="118.4" r="4" fill="#3465a4"><title>Froben, Christian (Personal)</title></circle></a><a href="/setts/s8/lo3k2o15k10dt23r2dt1w2~x2/"><circle cx="201.9" cy="119.3" r="4" fill="#3465a4"><title>Vienna Highlander (Fashion)</title></circle></a><a href="/setts/s10/r4w6k10db5k3o16k3dg33k1w4~x2/"><circle cx="180.0" cy="87.6" r="4" fill="#3465a4"><title>Fermanagh County, Crest Range</title></circle></a><a href="/setts/s9/o29k23lo1g9lo2r4k14w2k4~x2/"><circle cx="233.0" cy="107.0" r="4" fill="#3465a4"><title>Letter Dress (2014)</title></circle></a><a href="/setts/s11/db2r2db2r2db20k24g12ly1k2g2t2~x2/"><circle cx="183.5" cy="95.0" r="4" fill="#3465a4"><title>Unidentified 26</title></circle></a><a href="/setts/s8/lg2dg9k16r2t30lg3dg6w1~x2/"><circle cx="206.7" cy="100.5" r="4" fill="#3465a4"><title>Climb, The</title></circle></a><a href="/setts/s11/r5dg30k6ly2k3b5k12r8k3r3lr3~x2/"><circle cx="160.2" cy="120.9" r="4" fill="#3465a4"><title>King George (Nash)</title></circle></a><circle cx="193.0" cy="97.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/w2db4r16k14dg32ly1db8k2w2~x2/

@@ -2,12 +2,18 @@
 title: "U.S. Merchant Marine Academy (Corpo"
 date: 2023-03-18
 ---
-**Bands:** [RBRYRYR](/stripes/rbryryr/) · **Stripes:** [O DB O LO R LO O](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O DB O LO R LO O</span></span>
+**Bands:** [RYRYRBR](/stripes/ryryrbr/) · **Stripes:** [O LO R LO O DB O](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O LO R LO O DB O</span></span>
 
 
 This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7749/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- U.S. Merchant Marine Academy (Corpo
 
 ## Attestations
 
@@ -24,7 +30,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7749
 
 ## Thread count
-N/6 DB98 N16 DY4 DR12 DY4 N/74
+N/74 DY4 DR12 DY4 N16 DB98 N/6
 ![Sett](sett.png)
 
 ## Palette
@@ -39,7 +45,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "N/6 DB98 N16 DY4 DR12 DY4 N/74 tartan")
+![Tartan detail](tartan.png "N/74 DY4 DR12 DY4 N16 DB98 N/6 tartan")
 
 ## Nearest tartans
 
@@ -58,8 +64,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dt4lr1dt1lr3dt24o9k1o9k3~x2/"><circle cx="364.6" cy="161.4" r="4" fill="#3465a4"><title>Historic Scotland (pre 1998) (Corp)</title></circle></a><a href="/setts/s6/n42db2n2db17lo8db4~x2/"><circle cx="381.5" cy="179.4" r="4" fill="#3465a4"><title>Connecticut State Police PB (Cor.)</title></circle></a><a href="/setts/s6/t28dt15r2dt2w1dt6~x2/"><circle cx="382.0" cy="178.6" r="4" fill="#3465a4"><title>Corries</title></circle></a><a href="/setts/s9/t14w1t3ly2t3w1t4db24r3~x2/"><circle cx="311.8" cy="140.4" r="4" fill="#3465a4"><title>Musselburgh</title></circle></a><a href="/setts/s7/db2ly1db18g7r7db1g1~x2/"><circle cx="350.6" cy="173.1" r="4" fill="#3465a4"><title>Unnamed C20th - USA</title></circle></a><a href="/setts/s8/n20db2n2db2n2o47db24w2/"><circle cx="345.6" cy="165.3" r="4" fill="#3465a4"><title>Browne (Personal)</title></circle></a><a href="/setts/s9/o37db4o7db4o9db40t2db4o2/"><circle cx="375.7" cy="170.0" r="4" fill="#3465a4"><title>Edwards</title></circle></a><a href="/setts/s9/o8ly4o35db2t8db2o4db21o4~x2/"><circle cx="358.0" cy="165.7" r="4" fill="#3465a4"><title>Bedford Academy (Corporate)</title></circle></a><a href="/setts/s9/r6db2r1db16r3db16dg28w2dg4~x2/"><circle cx="316.6" cy="164.4" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/setts/s6/dp6ly1dp20db6g19dp2~x4/"><circle cx="337.4" cy="195.4" r="4" fill="#3465a4"><title>Discover Islay (District)</title></circle></a><circle cx="346.7" cy="161.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dt4lr1dt1lr3dt24o9k1o9k3~x2/"><circle cx="364.3" cy="161.4" r="4" fill="#3465a4"><title>Historic Scotland (pre 1998) (Corp)</title></circle></a><a href="/setts/s6/n42db2n2db17lo8db4~x2/"><circle cx="381.3" cy="179.2" r="4" fill="#3465a4"><title>Connecticut State Police PB (Cor.)</title></circle></a><a href="/setts/s6/t28dt15r2dt2w1dt6~x2/"><circle cx="381.9" cy="178.5" r="4" fill="#3465a4"><title>Corries</title></circle></a><a href="/setts/s9/t14w1t3ly2t3w1t4db24r3~x2/"><circle cx="311.6" cy="140.5" r="4" fill="#3465a4"><title>Musselburgh</title></circle></a><a href="/setts/s7/db2ly1db18g7r7db1g1~x2/"><circle cx="350.5" cy="172.9" r="4" fill="#3465a4"><title>Unnamed C20th - USA</title></circle></a><a href="/setts/s8/n20db2n2db2n2o47db24w2/"><circle cx="345.3" cy="165.3" r="4" fill="#3465a4"><title>Browne (Personal)</title></circle></a><a href="/setts/s9/o37db4o7db4o9db40t2db4o2/"><circle cx="375.5" cy="169.8" r="4" fill="#3465a4"><title>Edwards</title></circle></a><a href="/setts/s9/o8ly4o35db2t8db2o4db21o4~x2/"><circle cx="357.7" cy="165.6" r="4" fill="#3465a4"><title>Bedford Academy (Corporate)</title></circle></a><a href="/setts/s9/r6db2r1db16r3db16dg28w2dg4~x2/"><circle cx="316.5" cy="164.4" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/setts/s6/dp6ly1dp20db6g19dp2~x4/"><circle cx="337.3" cy="195.3" r="4" fill="#3465a4"><title>Discover Islay (District)</title></circle></a><circle cx="346.5" cy="161.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/o37lo2r6lo2o8db49o3~x2/

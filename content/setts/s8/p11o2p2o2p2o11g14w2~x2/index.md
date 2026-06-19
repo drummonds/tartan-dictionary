@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 G28 LT22 P4 LT4 P4 LT4 P/22
+P/22 LT4 P4 LT4 P4 LT22 G28 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -900,7 +903,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/4 G28 LT22 P4 LT4 P4 LT4 P/22 tartan")
+![Tartan detail](tartan.png "P/22 LT4 P4 LT4 P4 LT22 G28 LN/4 tartan")
 
 ## Nearest tartans
 
@@ -909,18 +912,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Logan #2](/setts/s7/db9r3ly1r3dg9r3ly1~x2/) — ΔT 0.97
 1. [Carnegie #3](/setts/s8/r33dg17db50dg17r11dg17r9k7/) — ΔT 0.99
 1. [Logan](/setts/s7/db9r3ly1r3g9r3ly1~x2/) — ΔT 1.05
-1. [Beck-McSorley](/setts/s8/m1dg1m1dg7o7m1o1r1~x6/) — ΔT 1.09
+1. [Beck-McSorley](/setts/s8/r1o1m1o7dg7m1dg1m1~x6/) — ΔT 1.09
 1. [Cercle de Fermieres de St-Elie . . .](/setts/s7/r2ly1b8r1g7ly1r2~x6/) — ΔT 1.10
 1. [Roxburgh Red](/setts/s10/db3g26db3r3db20r3db3r26g5w3~x2/) — ΔT 1.12
 1. [Carnegie](/setts/s8/r33g17db50g17r11g17r9k7/) — ΔT 1.12
 1. [Unidentified, specimen](/setts/s10/db1g4db1r1db1ly1db5r6db1ly1~x2/) — ΔT 1.12
-1. [Wilson's No.193](/setts/s8/g6k1r1t2r2t2r1k1~x4/) — ΔT 1.16
+1. [Wilson's No.193](/setts/s8/g6k1r1t2r2~x4/) — ΔT 1.16
 1. [Auld Lang Syne (Philip King Tailoring)](/setts/s8/k1t1k1t7y7k1y1lb1~x6/) — ΔT 1.20
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db9r3ly1r3dg9r3ly1~x2/"><circle cx="168.3" cy="206.1" r="4" fill="#3465a4"><title>Logan #2</title></circle></a><a href="/setts/s8/r33dg17db50dg17r11dg17r9k7/"><circle cx="171.9" cy="225.9" r="4" fill="#3465a4"><title>Carnegie #3</title></circle></a><a href="/setts/s7/db9r3ly1r3g9r3ly1~x2/"><circle cx="167.0" cy="207.0" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/setts/s8/m1dg1m1dg7o7m1o1r1~x6/"><circle cx="235.8" cy="203.5" r="4" fill="#3465a4"><title>Beck-McSorley</title></circle></a><a href="/setts/s7/r2ly1b8r1g7ly1r2~x6/"><circle cx="185.5" cy="203.4" r="4" fill="#3465a4"><title>Cercle de Fermieres de St-Elie . . .</title></circle></a><a href="/setts/s10/db3g26db3r3db20r3db3r26g5w3~x2/"><circle cx="192.9" cy="173.8" r="4" fill="#3465a4"><title>Roxburgh Red</title></circle></a><a href="/setts/s8/r33g17db50g17r11g17r9k7/"><circle cx="158.2" cy="221.0" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/setts/s10/db1g4db1r1db1ly1db5r6db1ly1~x2/"><circle cx="188.9" cy="196.1" r="4" fill="#3465a4"><title>Unidentified, specimen</title></circle></a><a href="/setts/s8/g6k1r1t2r2t2r1k1~x4/"><circle cx="164.3" cy="218.3" r="4" fill="#3465a4"><title>Wilson's No.193</title></circle></a><a href="/setts/s8/k1t1k1t7y7k1y1lb1~x6/"><circle cx="234.6" cy="202.6" r="4" fill="#3465a4"><title>Auld Lang Syne (Philip King Tailoring)</title></circle></a><circle cx="187.3" cy="211.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db9r3ly1r3dg9r3ly1~x2/"><circle cx="168.2" cy="206.1" r="4" fill="#3465a4"><title>Logan #2</title></circle></a><a href="/setts/s8/r33dg17db50dg17r11dg17r9k7/"><circle cx="171.9" cy="226.0" r="4" fill="#3465a4"><title>Carnegie #3</title></circle></a><a href="/setts/s7/db9r3ly1r3g9r3ly1~x2/"><circle cx="166.9" cy="207.0" r="4" fill="#3465a4"><title>Logan</title></circle></a><a href="/setts/s8/r1o1m1o7dg7m1dg1m1~x6/"><circle cx="235.7" cy="203.5" r="4" fill="#3465a4"><title>Beck-McSorley</title></circle></a><a href="/setts/s7/r2ly1b8r1g7ly1r2~x6/"><circle cx="185.4" cy="203.4" r="4" fill="#3465a4"><title>Cercle de Fermieres de St-Elie . . .</title></circle></a><a href="/setts/s10/db3g26db3r3db20r3db3r26g5w3~x2/"><circle cx="192.7" cy="173.8" r="4" fill="#3465a4"><title>Roxburgh Red</title></circle></a><a href="/setts/s8/r33g17db50g17r11g17r9k7/"><circle cx="158.1" cy="221.0" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/setts/s10/db1g4db1r1db1ly1db5r6db1ly1~x2/"><circle cx="188.7" cy="196.1" r="4" fill="#3465a4"><title>Unidentified, specimen</title></circle></a><a href="/setts/s8/g6k1r1t2r2~x4/"><circle cx="164.3" cy="218.3" r="4" fill="#3465a4"><title>Wilson's No.193</title></circle></a><a href="/setts/s8/k1t1k1t7y7k1y1lb1~x6/"><circle cx="234.4" cy="202.6" r="4" fill="#3465a4"><title>Auld Lang Syne (Philip King Tailoring)</title></circle></a><circle cx="187.2" cy="211.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/p11o2p2o2p2o11g14w2~x2/

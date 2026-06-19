@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 G44 K16 B8 K4 B4 K4 B56 K4 B4 K4 B8 K16 G44 R/4
+R/4 G44 K16 B8 K4 B4 K4 B56 K4 B4 K4 B8 K16 G44 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -905,7 +908,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Cypress Presbyterian Church](/setts/s14/g6r4g4r3g4ly2b14k4g4k28g18k2g3k2~x2/) — ΔT 0.55
 1. [Unidentified, B'gowrie](/setts/s15/g30ly2g5ly2g4k15db29r2db29k15g5ly2g4ly2g17~x2/) — ΔT 0.59
-1. [O'Doherty (Glasgow) (Personal)](/setts/s13/ly2k2g2ly2g3ly1g10k18g3db2g3db10w2~x2/) — ΔT 0.82
+1. [O'Doherty (Glasgow) (Personal)](/setts/s13/w2db10g3db2g3k18g10ly1g3ly2g2k2ly2~x2/) — ΔT 0.82
 1. [Cochrane](/setts/s15/g16r2g2r1g3r1g2r2g12k12r1db16r2db8ly2~x2/) — ΔT 0.89
 1. [Rankin](/setts/s16/db36g10r2g10w2g10r2g10k14r2db12r3db2r2db4w2~x2/) — ΔT 0.90
 1. [Urquhart, White Line](/setts/s12/db4w2db24k3db3k3db8k24g48k3g3r2/) — ΔT 1.01
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/g6r4g4r3g4ly2b14k4g4k28g18k2g3k2~x2/"><circle cx="184.9" cy="128.2" r="4" fill="#3465a4"><title>Cypress Presbyterian Church</title></circle></a><a href="/setts/s15/g30ly2g5ly2g4k15db29r2db29k15g5ly2g4ly2g17~x2/"><circle cx="178.3" cy="130.9" r="4" fill="#3465a4"><title>Unidentified, B'gowrie</title></circle></a><a href="/setts/s13/ly2k2g2ly2g3ly1g10k18g3db2g3db10w2~x2/"><circle cx="158.6" cy="122.4" r="4" fill="#3465a4"><title>O'Doherty (Glasgow) (Personal)</title></circle></a><a href="/setts/s15/g16r2g2r1g3r1g2r2g12k12r1db16r2db8ly2~x2/"><circle cx="190.1" cy="123.7" r="4" fill="#3465a4"><title>Cochrane</title></circle></a><a href="/setts/s16/db36g10r2g10w2g10r2g10k14r2db12r3db2r2db4w2~x2/"><circle cx="214.8" cy="112.9" r="4" fill="#3465a4"><title>Rankin</title></circle></a><a href="/setts/s12/db4w2db24k3db3k3db8k24g48k3g3r2/"><circle cx="220.8" cy="104.9" r="4" fill="#3465a4"><title>Urquhart, White Line</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="144.3" cy="131.8" r="4" fill="#3465a4"><title>Robertson of Kindeace</title></circle></a><a href="/setts/s14/r8b30k4b4k4b4k56g55ly8g55k56b46k4r8/"><circle cx="176.6" cy="147.9" r="4" fill="#3465a4"><title>Farquharson (Clan)</title></circle></a><a href="/setts/s18/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2~x2/"><circle cx="182.5" cy="87.7" r="4" fill="#3465a4"><title>Scottish Islamic</title></circle></a><a href="/setts/s16/g19k1g3k1g3k9db20k1ly1k7ly1k1db21k12g2g1~x2/"><circle cx="213.2" cy="113.2" r="4" fill="#3465a4"><title>Hope Vere Family Tartan Tartan Number: 759. Earliest known date: c.1815 Hopetoun House, South Queensferry, home of the Marquesses of Linlithgow, was built by Robert Adam. The Highland Society of London collected specimens of tartan sealed with the signature of the Clan Chief or Head of the family, from 1815 onwards. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="190.3" cy="123.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/g6r4g4r3g4ly2b14k4g4k28g18k2g3k2~x2/"><circle cx="184.9" cy="128.2" r="4" fill="#3465a4"><title>Cypress Presbyterian Church</title></circle></a><a href="/setts/s15/g30ly2g5ly2g4k15db29r2db29k15g5ly2g4ly2g17~x2/"><circle cx="178.3" cy="130.9" r="4" fill="#3465a4"><title>Unidentified, B'gowrie</title></circle></a><a href="/setts/s13/w2db10g3db2g3k18g10ly1g3ly2g2k2ly2~x2/"><circle cx="158.6" cy="122.5" r="4" fill="#3465a4"><title>O'Doherty (Glasgow) (Personal)</title></circle></a><a href="/setts/s15/g16r2g2r1g3r1g2r2g12k12r1db16r2db8ly2~x2/"><circle cx="190.1" cy="123.7" r="4" fill="#3465a4"><title>Cochrane</title></circle></a><a href="/setts/s16/db36g10r2g10w2g10r2g10k14r2db12r3db2r2db4w2~x2/"><circle cx="214.7" cy="112.9" r="4" fill="#3465a4"><title>Rankin</title></circle></a><a href="/setts/s12/db4w2db24k3db3k3db8k24g48k3g3r2/"><circle cx="220.8" cy="104.9" r="4" fill="#3465a4"><title>Urquhart, White Line</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="144.5" cy="131.8" r="4" fill="#3465a4"><title>Robertson of Kindeace</title></circle></a><a href="/setts/s14/r8b30k4b4k4b4k56g55ly8g55k56b46k4r8/"><circle cx="176.6" cy="148.0" r="4" fill="#3465a4"><title>Farquharson (Clan)</title></circle></a><a href="/setts/s18/dg2ly2dg2ly2dg2ly2dg18k1dg2k5db2k1db19w2db2w2db2w2~x2/"><circle cx="182.5" cy="87.8" r="4" fill="#3465a4"><title>Scottish Islamic</title></circle></a><a href="/setts/s16/g19k1g3k1g3k9db20k1ly1k7ly1k1db21k12g2g1~x2/"><circle cx="213.2" cy="113.3" r="4" fill="#3465a4"><title>Hope Vere Family Tartan Tartan Number: 759. Earliest known date: c.1815 Hopetoun House, South Queensferry, home of the Marquesses of Linlithgow, was built by Robert Adam. The Highland Society of London collected specimens of tartan sealed with the signature of the Clan Chief or Head of the family, from 1815 onwards. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="190.3" cy="123.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/r1g11k4db2k1db1k1db14k1db1k1db2k4g11w1~x4/

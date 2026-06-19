@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-Ra/20 R6 Y12 Ra28 R15 Y/42
+Y/42 R15 Ra28 Y12 R6 Ra/20
 ![Sett](sett.png)
 
 ## Palette
@@ -906,27 +909,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "Ra/20 R6 Y12 Ra28 R15 Y/42 tartan")
+![Tartan detail](tartan.png "Y/42 R15 Ra28 Y12 R6 Ra/20 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Kozlosky (Personal)](/setts/s6/ly21r8r14ly6r3r10~x2/) — ΔT 0.42
-1. [Harmony, 9](/setts/s5/ly2o10r15ly10o2~x4/) — ΔT 1.12
-1. [Kozlosky (Personal)](/setts/s10/r10r3ly6r14r8ly21r8r14ly6r3~x2/) — ΔT 1.23
+1. [Harmony, 9](/setts/s5/o2ly10r15o10ly2~x4/) — ΔT 1.12
+1. [Kozlosky (Personal)](/setts/s10/ly21r8r14ly6r3r10~x2/) — ΔT 1.23
 1. [Harmony 9](/setts/s5/dy2ly10r15dy10ly2~x4/) — ΔT 1.35
 1. [Shire of Hornwood (USA)](/setts/s5/r18ly3r18ly30k4~x2/) — ΔT 1.89
 1. [Buchele Check (Fashion?)](/setts/s6/r4ly1r3ly1ly8ly2~x4/) — ΔT 1.90
-1. [Manx Mannin Plaid](/setts/s4/ly1dy5r5w1~x4/) — ΔT 2.05
-1. [Manx, Mannin Plaid](/setts/s4/ly1o5r5w1~x4/) — ΔT 2.05
+1. [Manx Mannin Plaid](/setts/s4/w1r5dy5ly1~x4/) — ΔT 2.05
+1. [Manx, Mannin Plaid](/setts/s4/w1r5o5ly1~x4/) — ΔT 2.05
 1. [Al-Maktoum](/setts/s6/w11r32g12r5g12r5~x2/) — ΔT 2.10
 1. [Glassary #3](/setts/s8/db4ly1r12ly2r2ly12r1ly4~x4/) — ΔT 2.13
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/ly21r8r14ly6r3r10~x2/"><circle cx="250.3" cy="246.0" r="4" fill="#3465a4"><title>Kozlosky (Personal)</title></circle></a><a href="/setts/s5/ly2o10r15ly10o2~x4/"><circle cx="233.9" cy="246.0" r="4" fill="#3465a4"><title>Harmony, 9</title></circle></a><a href="/setts/s10/r10r3ly6r14r8ly21r8r14ly6r3~x2/"><circle cx="231.9" cy="225.8" r="4" fill="#3465a4"><title>Kozlosky (Personal)</title></circle></a><a href="/setts/s5/dy2ly10r15dy10ly2~x4/"><circle cx="212.0" cy="235.3" r="4" fill="#3465a4"><title>Harmony 9</title></circle></a><a href="/setts/s5/r18ly3r18ly30k4~x2/"><circle cx="285.0" cy="204.2" r="4" fill="#3465a4"><title>Shire of Hornwood (USA)</title></circle></a><a href="/setts/s6/r4ly1r3ly1ly8ly2~x4/"><circle cx="260.9" cy="216.3" r="4" fill="#3465a4"><title>Buchele Check (Fashion?)</title></circle></a><a href="/setts/s4/ly1dy5r5w1~x4/"><circle cx="210.6" cy="247.0" r="4" fill="#3465a4"><title>Manx Mannin Plaid</title></circle></a><a href="/setts/s4/ly1o5r5w1~x4/"><circle cx="242.6" cy="263.2" r="4" fill="#3465a4"><title>Manx, Mannin Plaid</title></circle></a><a href="/setts/s6/w11r32g12r5g12r5~x2/"><circle cx="276.3" cy="228.2" r="4" fill="#3465a4"><title>Al-Maktoum</title></circle></a><a href="/setts/s8/db4ly1r12ly2r2ly12r1ly4~x4/"><circle cx="298.6" cy="171.7" r="4" fill="#3465a4"><title>Glassary #3</title></circle></a><circle cx="248.7" cy="242.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/ly21r8r14ly6r3r10~x2/"><circle cx="249.9" cy="245.8" r="4" fill="#3465a4"><title>Kozlosky (Personal)</title></circle></a><a href="/setts/s5/o2ly10r15o10ly2~x4/"><circle cx="233.6" cy="245.9" r="4" fill="#3465a4"><title>Harmony, 9</title></circle></a><a href="/setts/s10/ly21r8r14ly6r3r10~x2/"><circle cx="231.4" cy="225.7" r="4" fill="#3465a4"><title>Kozlosky (Personal)</title></circle></a><a href="/setts/s5/dy2ly10r15dy10ly2~x4/"><circle cx="211.7" cy="235.2" r="4" fill="#3465a4"><title>Harmony 9</title></circle></a><a href="/setts/s5/r18ly3r18ly30k4~x2/"><circle cx="284.4" cy="203.9" r="4" fill="#3465a4"><title>Shire of Hornwood (USA)</title></circle></a><a href="/setts/s6/r4ly1r3ly1ly8ly2~x4/"><circle cx="260.5" cy="216.1" r="4" fill="#3465a4"><title>Buchele Check (Fashion?)</title></circle></a><a href="/setts/s4/w1r5dy5ly1~x4/"><circle cx="210.4" cy="246.9" r="4" fill="#3465a4"><title>Manx Mannin Plaid</title></circle></a><a href="/setts/s4/w1r5o5ly1~x4/"><circle cx="242.4" cy="263.1" r="4" fill="#3465a4"><title>Manx, Mannin Plaid</title></circle></a><a href="/setts/s6/w11r32g12r5g12r5~x2/"><circle cx="275.9" cy="228.0" r="4" fill="#3465a4"><title>Al-Maktoum</title></circle></a><a href="/setts/s8/db4ly1r12ly2r2ly12r1ly4~x4/"><circle cx="298.1" cy="171.5" r="4" fill="#3465a4"><title>Glassary #3</title></circle></a><circle cx="248.3" cy="241.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/ly42r15r28ly12r6r20/

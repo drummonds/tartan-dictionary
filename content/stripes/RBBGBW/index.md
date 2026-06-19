@@ -8,7 +8,7 @@ RBBGBW
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/lb1dr5g3dr1db3r1~x4/tartan.png)
+![Woven sample](/setts/s6/r1db3dr1g3dr5lb1~x4/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RBBGBW
 
 | Tartans |
 |---------------|
-| [Lanark (Fashion #1)](/setts/s6/lb1dr5g3dr1db3r1~x4/)|
-|![Lanark (Fashion #1) example sett](/setts/s6/lb1dr5g3dr1db3r1~x4/sett.png)|
+| [Lanark (Fashion #1)](/setts/s6/r1db3dr1g3dr5lb1~x4/)|
+|![Lanark (Fashion #1) example sett](/setts/s6/r1db3dr1g3dr5lb1~x4/sett.png)|
 

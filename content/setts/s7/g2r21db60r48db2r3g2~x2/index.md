@@ -18,7 +18,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 837
 
 ## Thread count
-G/4 R6 DB4 R96 DB120 R42 G/4
+G/4 R42 DB120 R96 DB4 R6 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -32,7 +32,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/4 R6 DB4 R96 DB120 R42 G/4 tartan")
+![Tartan detail](tartan.png "G/4 R42 DB120 R96 DB4 R6 G/4 tartan")
 
 ## Nearest tartans
 
@@ -43,7 +43,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Mens Bigi](/setts/s8/lo4k17r1k4r2k4r33w3~x2/) — ΔT 1.34
 1. [Unidentified Plaid #12](/setts/s8/db3r64db3r3db62r3db3r3/) — ΔT 1.35
 1. [Robberstad](/setts/s9/r60b15r4dt10w2dt10w2dt10r4~x2/) — ΔT 1.43
-1. [Las Vegas Fire Fighters](/setts/s8/lb1r2k1r30k28lb2k3r1~x2/) — ΔT 1.43
+1. [Las Vegas Fire Fighters](/setts/s8/r1k3lb2k28r30k1r2lb1~x2/) — ΔT 1.43
 1. [Knights Templar - Grand Priory (Corp](/setts/s8/db1r2w1db30r30k1r2w1~x2/) — ΔT 1.46
 1. [Rosser (Welsh Name)](/setts/s6/r16k57r36k2r4r2/) — ΔT 1.48
 1. [Caledonian](/setts/s6/r60dp20r8dg45r8dp2~x2/) — ΔT 1.50
@@ -51,8 +51,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r40db15k2dp1db15k6~x2/"><circle cx="368.6" cy="144.1" r="4" fill="#3465a4"><title>Double Elvis Gallery (Corporate)</title></circle></a><a href="/setts/s7/r7dt1r26dt31w1dt1w2~x2/"><circle cx="411.0" cy="168.4" r="4" fill="#3465a4"><title>Greater Victoria Police PB (Corp)</title></circle></a><a href="/setts/s8/lo4k17r1k4r2k4r33w3~x2/"><circle cx="365.1" cy="122.7" r="4" fill="#3465a4"><title>Mens Bigi</title></circle></a><a href="/setts/s8/db3r64db3r3db62r3db3r3/"><circle cx="433.3" cy="160.3" r="4" fill="#3465a4"><title>Unidentified Plaid #12</title></circle></a><a href="/setts/s9/r60b15r4dt10w2dt10w2dt10r4~x2/"><circle cx="387.4" cy="111.0" r="4" fill="#3465a4"><title>Robberstad</title></circle></a><a href="/setts/s8/lb1r2k1r30k28lb2k3r1~x2/"><circle cx="382.9" cy="127.6" r="4" fill="#3465a4"><title>Las Vegas Fire Fighters</title></circle></a><a href="/setts/s8/db1r2w1db30r30k1r2w1~x2/"><circle cx="383.4" cy="118.6" r="4" fill="#3465a4"><title>Knights Templar - Grand Priory (Corp</title></circle></a><a href="/setts/s6/r16k57r36k2r4r2/"><circle cx="362.7" cy="166.5" r="4" fill="#3465a4"><title>Rosser (Welsh Name)</title></circle></a><a href="/setts/s6/r60dp20r8dg45r8dp2~x2/"><circle cx="370.6" cy="172.0" r="4" fill="#3465a4"><title>Caledonian</title></circle></a><a href="/setts/s6/k4w2k28r30k1r3~x2/"><circle cx="371.0" cy="150.9" r="4" fill="#3465a4"><title>Ramsay of Dalhousie</title></circle></a><circle cx="410.9" cy="155.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r40db15k2dp1db15k6~x2/"><circle cx="368.4" cy="144.0" r="4" fill="#3465a4"><title>Double Elvis Gallery (Corporate)</title></circle></a><a href="/setts/s7/r7dt1r26dt31w1dt1w2~x2/"><circle cx="410.8" cy="168.3" r="4" fill="#3465a4"><title>Greater Victoria Police PB (Corp)</title></circle></a><a href="/setts/s8/lo4k17r1k4r2k4r33w3~x2/"><circle cx="364.9" cy="122.5" r="4" fill="#3465a4"><title>Mens Bigi</title></circle></a><a href="/setts/s8/db3r64db3r3db62r3db3r3/"><circle cx="432.9" cy="160.1" r="4" fill="#3465a4"><title>Unidentified Plaid #12</title></circle></a><a href="/setts/s9/r60b15r4dt10w2dt10w2dt10r4~x2/"><circle cx="387.0" cy="110.8" r="4" fill="#3465a4"><title>Robberstad</title></circle></a><a href="/setts/s8/r1k3lb2k28r30k1r2lb1~x2/"><circle cx="382.6" cy="127.4" r="4" fill="#3465a4"><title>Las Vegas Fire Fighters</title></circle></a><a href="/setts/s8/db1r2w1db30r30k1r2w1~x2/"><circle cx="383.2" cy="118.5" r="4" fill="#3465a4"><title>Knights Templar - Grand Priory (Corp</title></circle></a><a href="/setts/s6/r16k57r36k2r4r2/"><circle cx="362.5" cy="166.3" r="4" fill="#3465a4"><title>Rosser (Welsh Name)</title></circle></a><a href="/setts/s6/r60dp20r8dg45r8dp2~x2/"><circle cx="370.3" cy="171.8" r="4" fill="#3465a4"><title>Caledonian</title></circle></a><a href="/setts/s6/k4w2k28r30k1r3~x2/"><circle cx="370.8" cy="150.7" r="4" fill="#3465a4"><title>Ramsay of Dalhousie</title></circle></a><circle cx="410.6" cy="154.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/g2r21db60r48db2r3g2~x2/

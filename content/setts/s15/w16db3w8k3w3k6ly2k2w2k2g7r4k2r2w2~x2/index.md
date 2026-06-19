@@ -2,12 +2,19 @@
 title: "Stewart dress"
 date: 2023-03-18
 ---
-**Bands:** [WBWKWKYKWKGRKRW](/stripes/wbwkwkykwkgrkrw/) · **Stripes:** [W DB W K W K LY K W K G R K R W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB W K W K LY K W K G R K R W</span></span>
+**Bands:** [WRKRGKWKYKWKWBW](/stripes/wrkrgkwkykwkwbw/) · **Stripes:** [W R K R G K W K LY K W K W DB W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R K R G K W K LY K W K W DB W</span></span>
 
 
 This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Stewart dress
+- Stuart/Stewart Dress #2
 
 ## Attestations
 
@@ -318,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,15 +927,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Kintyre](/setts/s11/dy1w4k1w9lo2w1k8w1lo2o6r1~x4/) — ΔT 1.07
 1. [Hay - Stewart (Fashion)](/setts/s14/w9r5w29db3k10ly2k3w3k3dg12r6k3r3w2~x2/) — ΔT 1.15
 1. [Gayre Arisaidh](/setts/s16/db20dg5k5w22db5w22k2ly2k2r6dg4w4dg3r4k2ly2~x2/) — ΔT 1.16
-1. [Haymarket Dress (Dance)](/setts/s16/r1w1dt1lo1w12k5y2dt8y2dt8y2k5w12lo1dt1w1~x4/) — ΔT 1.20
+1. [Haymarket Dress (Dance)](/setts/s16/y2dt8y2k5w12lo1dt1w1r1~x4/) — ΔT 1.20
 1. [Tiree](/setts/s11/lo1y6g2w1k8w1g2w9k1w4ly1~x4/) — ΔT 1.20
 1. [MacKessog Wedding (Fashion)](/setts/s11/n1w8y2lo2db6w1db6lo2y2w8r1~x4/) — ΔT 1.32
 1. [MacBean Dress](/setts/s16/g10w4r4r4g2r4r4w4g10w4t4w2t4w23k2r2~x2/) — ΔT 1.35
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/w16db3w8k3w3k6ly2k2w2k2dg7r4k2r2w2~x2/"><circle cx="134.3" cy="113.6" r="4" fill="#3465a4"><title>Stuart/Stewart Dress #2</title></circle></a><a href="/setts/s16/db20g5k5w22db5w22k2ly2k2r6g4w4g3r4k2ly2~x2/"><circle cx="126.2" cy="87.8" r="4" fill="#3465a4"><title>Gayre, Arisaidh</title></circle></a><a href="/setts/s12/k2w1db7k4r1w8r2w8k1g7w1ly2~x2/"><circle cx="79.7" cy="131.1" r="4" fill="#3465a4"><title>MacLellan, dress McLellan</title></circle></a><a href="/setts/s11/dy1w4k1w9lo2w1k8w1lo2o6r1~x4/"><circle cx="109.1" cy="118.0" r="4" fill="#3465a4"><title>Kintyre</title></circle></a><a href="/setts/s14/w9r5w29db3k10ly2k3w3k3dg12r6k3r3w2~x2/"><circle cx="150.7" cy="77.3" r="4" fill="#3465a4"><title>Hay - Stewart (Fashion)</title></circle></a><a href="/setts/s16/db20dg5k5w22db5w22k2ly2k2r6dg4w4dg3r4k2ly2~x2/"><circle cx="131.2" cy="89.2" r="4" fill="#3465a4"><title>Gayre Arisaidh</title></circle></a><a href="/setts/s16/r1w1dt1lo1w12k5y2dt8y2dt8y2k5w12lo1dt1w1~x4/"><circle cx="119.6" cy="90.5" r="4" fill="#3465a4"><title>Haymarket Dress (Dance)</title></circle></a><a href="/setts/s11/lo1y6g2w1k8w1g2w9k1w4ly1~x4/"><circle cx="106.7" cy="121.9" r="4" fill="#3465a4"><title>Tiree</title></circle></a><a href="/setts/s11/n1w8y2lo2db6w1db6lo2y2w8r1~x4/"><circle cx="126.8" cy="139.9" r="4" fill="#3465a4"><title>MacKessog Wedding (Fashion)</title></circle></a><a href="/setts/s16/g10w4r4r4g2r4r4w4g10w4t4w2t4w23k2r2~x2/"><circle cx="134.9" cy="97.4" r="4" fill="#3465a4"><title>MacBean Dress</title></circle></a><circle cx="128.5" cy="113.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/w16db3w8k3w3k6ly2k2w2k2dg7r4k2r2w2~x2/"><circle cx="134.1" cy="113.6" r="4" fill="#3465a4"><title>Stuart/Stewart Dress #2</title></circle></a><a href="/setts/s16/db20g5k5w22db5w22k2ly2k2r6g4w4g3r4k2ly2~x2/"><circle cx="125.9" cy="87.8" r="4" fill="#3465a4"><title>Gayre, Arisaidh</title></circle></a><a href="/setts/s12/k2w1db7k4r1w8r2w8k1g7w1ly2~x2/"><circle cx="79.6" cy="131.1" r="4" fill="#3465a4"><title>MacLellan, dress McLellan</title></circle></a><a href="/setts/s11/dy1w4k1w9lo2w1k8w1lo2o6r1~x4/"><circle cx="108.9" cy="118.0" r="4" fill="#3465a4"><title>Kintyre</title></circle></a><a href="/setts/s14/w9r5w29db3k10ly2k3w3k3dg12r6k3r3w2~x2/"><circle cx="150.4" cy="77.3" r="4" fill="#3465a4"><title>Hay - Stewart (Fashion)</title></circle></a><a href="/setts/s16/db20dg5k5w22db5w22k2ly2k2r6dg4w4dg3r4k2ly2~x2/"><circle cx="131.0" cy="89.2" r="4" fill="#3465a4"><title>Gayre Arisaidh</title></circle></a><a href="/setts/s16/y2dt8y2k5w12lo1dt1w1r1~x4/"><circle cx="119.4" cy="90.5" r="4" fill="#3465a4"><title>Haymarket Dress (Dance)</title></circle></a><a href="/setts/s11/lo1y6g2w1k8w1g2w9k1w4ly1~x4/"><circle cx="106.5" cy="121.9" r="4" fill="#3465a4"><title>Tiree</title></circle></a><a href="/setts/s11/n1w8y2lo2db6w1db6lo2y2w8r1~x4/"><circle cx="126.6" cy="139.9" r="4" fill="#3465a4"><title>MacKessog Wedding (Fashion)</title></circle></a><a href="/setts/s16/g10w4r4r4g2r4r4w4g10w4t4w2t4w23k2r2~x2/"><circle cx="134.5" cy="97.5" r="4" fill="#3465a4"><title>MacBean Dress</title></circle></a><circle cx="128.3" cy="113.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/w16db3w8k3w3k6ly2k2w2k2g7r4k2r2w2~x2/

@@ -2,12 +2,18 @@
 title: "Offally County Crest (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [YGKGWKGKWKY](/stripes/ygkgwkgkwky/) · **Stripes:** [LO G K G W K G K LP K LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LO G K G W K G K LP K LY</span></span>
+**Bands:** [YKWKGKWGKGY](/stripes/ykwkgkwgkgy/) · **Stripes:** [LY K LP K G K W G K G LO](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LY K LP K G K W G K G LO</span></span>
 
 
 This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7456/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Offaly County, Crest Range
 
 ## Attestations
 
@@ -25,7 +31,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 3097
 
 ## Thread count
-DY/10 G12 K9 G4 LN14 K8 G76 K6 LR4 K8 Y/24
+Y/24 K8 LR4 K6 G76 K8 LN14 G4 K9 G12 DY/10
 ![Sett](sett.png)
 
 ## Palette
@@ -57,8 +63,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k1g23k1ly3k1w8r1t5k1~x2/"><circle cx="242.3" cy="83.6" r="4" fill="#3465a4"><title>Nor Westers</title></circle></a><a href="/setts/s11/db3k1g13ly1r1w1r6g3r1g3w1~x2/"><circle cx="260.0" cy="119.5" r="4" fill="#3465a4"><title>Canadian Caledonian, hunting</title></circle></a><a href="/setts/s14/g2w5dg1k7w1dg2k6dg6g9o1g30ly2g3w2~x2/"><circle cx="281.0" cy="65.2" r="4" fill="#3465a4"><title>Reilly fae the Mearns</title></circle></a><a href="/setts/s11/dt6g48k4ly4k4w4g20r10k4r6w5/"><circle cx="270.3" cy="118.5" r="4" fill="#3465a4"><title>Steel (Personal)</title></circle></a><a href="/setts/s12/ly2g16t2w2t2w2t6g7r2w1t1dp1~x6/"><circle cx="240.2" cy="109.7" r="4" fill="#3465a4"><title>Fredericton #2</title></circle></a><a href="/setts/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/"><circle cx="263.4" cy="99.4" r="4" fill="#3465a4"><title>Moss</title></circle></a><a href="/setts/s8/g18r1lb2k1lb2r1o6k2~x4/"><circle cx="290.0" cy="129.3" r="4" fill="#3465a4"><title>Humphries (Name)</title></circle></a><a href="/setts/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/"><circle cx="289.5" cy="75.6" r="4" fill="#3465a4"><title>Reilly fae the Mearns (Personal)</title></circle></a><a href="/setts/s11/g32w2g2ly3g2w2g2k16t2db16w3~x2/"><circle cx="186.9" cy="99.6" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/setts/s9/k1g15dy1ly2dy1w6r1db3k1~x2/"><circle cx="186.9" cy="91.2" r="4" fill="#3465a4"><title>Nor Westers Tartan Tartan Number: 1069. Earliest known date: 1963 Named after the Nor Westers Mountain Range in Ontario. Designed by Miss Evelyn B Halliday in February 1963 to commemorate the naming of the range in that year See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="236.6" cy="95.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k1g23k1ly3k1w8r1t5k1~x2/"><circle cx="242.1" cy="83.6" r="4" fill="#3465a4"><title>Nor Westers</title></circle></a><a href="/setts/s11/db3k1g13ly1r1w1r6g3r1g3w1~x2/"><circle cx="259.7" cy="119.4" r="4" fill="#3465a4"><title>Canadian Caledonian, hunting</title></circle></a><a href="/setts/s14/g2w5dg1k7w1dg2k6dg6g9o1g30ly2g3w2~x2/"><circle cx="280.7" cy="65.1" r="4" fill="#3465a4"><title>Reilly fae the Mearns</title></circle></a><a href="/setts/s11/dt6g48k4ly4k4w4g20r10k4r6w5/"><circle cx="270.1" cy="118.5" r="4" fill="#3465a4"><title>Steel (Personal)</title></circle></a><a href="/setts/s12/ly2g16t2w2t2w2t6g7r2w1t1dp1~x6/"><circle cx="240.0" cy="109.7" r="4" fill="#3465a4"><title>Fredericton #2</title></circle></a><a href="/setts/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/"><circle cx="263.1" cy="99.3" r="4" fill="#3465a4"><title>Moss</title></circle></a><a href="/setts/s8/g18r1lb2k1lb2r1o6k2~x4/"><circle cx="289.8" cy="129.2" r="4" fill="#3465a4"><title>Humphries (Name)</title></circle></a><a href="/setts/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/"><circle cx="289.3" cy="75.6" r="4" fill="#3465a4"><title>Reilly fae the Mearns (Personal)</title></circle></a><a href="/setts/s11/g32w2g2ly3g2w2g2k16t2db16w3~x2/"><circle cx="186.8" cy="99.6" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/setts/s9/k1g15dy1ly2dy1w6r1db3k1~x2/"><circle cx="186.7" cy="91.2" r="4" fill="#3465a4"><title>Nor Westers Tartan Tartan Number: 1069. Earliest known date: 1963 Named after the Nor Westers Mountain Range in Ontario. Designed by Miss Evelyn B Halliday in February 1963 to commemorate the naming of the range in that year See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="236.4" cy="95.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/ly24k8lp4k6g76k8w14g4k9g12lo10/

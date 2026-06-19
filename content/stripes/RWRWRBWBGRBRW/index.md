@@ -22,6 +22,6 @@ RWRWRBWBGRBRW
 
 | Tartans |
 |---------------|
-| [Ritchie](/setts/s13/lb3r6b6r6g16db6lb3db6r14lb2r3lb2r3~x2/)|
-|![Ritchie example sett](/setts/s13/lb3r6b6r6g16db6lb3db6r14lb2r3lb2r3~x2/sett.png)|
+| [Ritchie](/setts/s13/r3lb2r3lb2r14db6lb3db6g16r6b6r6lb3~x2/)|
+|![Ritchie example sett](/setts/s13/r3lb2r3lb2r14db6lb3db6g16r6b6r6lb3~x2/sett.png)|
 

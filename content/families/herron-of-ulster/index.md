@@ -8,5 +8,5 @@ A family of [Clan Herron](/clan/herron/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s16/dg1k1dg1db10dg1k1dg1k11dg12k11dg1k1dg1db10dg1k1~x4/"><img src="/setts/s16/dg1k1dg1db10dg1k1dg1k11dg12k11dg1k1dg1db10dg1k1~x4/sett.png" alt="Herron of Ulster (Personal)" width="240"><br>Herron of Ulster (Personal)</a>
+<a class="tartan" href="/setts/s16/k1dg1db10dg1k1dg1k11dg12k11dg1k1dg1db10dg1k1dg1~x4/"><img src="/setts/s16/k1dg1db10dg1k1dg1k11dg12k11dg1k1dg1db10dg1k1dg1~x4/sett.png" alt="Herron of Ulster (Personal)" width="240"><br>Herron of Ulster (Personal)</a>
 

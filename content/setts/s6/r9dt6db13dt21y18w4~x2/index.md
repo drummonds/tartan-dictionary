@@ -41,9 +41,9 @@ The nearest existing variants by ΔTartan distance.
 1. [Blue](/setts/s6/n14r4n14t15db13w3~x2/) — ΔT 0.92
 1. [Forbo Nairn](/setts/s5/r2db12k7g8t2~x4/) — ΔT 1.03
 1. [Fox-Eves Wedding (Personal)](/setts/s6/r9b6dt13b21o18w4~x2/) — ΔT 1.03
-1. [Cooke (Personal)](/setts/s7/k6t2db12g8r5k2g3~x4/) — ΔT 1.07
-1. [Friebe (2014)](/setts/s5/g15dg18dt23w4r8~x2/) — ΔT 1.11
-1. [MacEachain (Clan)](/setts/s6/m2g6k2db6k1r2~x4/) — ΔT 1.11
+1. [Cooke (Personal)](/setts/s7/k6t2db12g8r5k2g3~x4/) — ΔT 1.08
+1. [Friebe (2014)](/setts/s5/g15dg18dt23w4r8~x2/) — ΔT 1.10
+1. [MacEachain (Clan)](/setts/s6/r2k1db6k2g6m2~x4/) — ΔT 1.11
 1. [Davidson of Tulloch #2](/setts/s5/r1db6k3dg6w1~x4/) — ΔT 1.16
 1. [Blue](/setts/s7/r2db11r3db11t12db10w2~x2/) — ΔT 1.20
 1. [Wellington No 229](/setts/s5/k4t3dp11dg14w2~x2/) — ΔT 1.22
@@ -51,8 +51,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/n14r4n14t15db13w3~x2/"><circle cx="147.9" cy="261.9" r="4" fill="#3465a4"><title>Blue</title></circle></a><a href="/setts/s5/r2db12k7g8t2~x4/"><circle cx="159.6" cy="256.9" r="4" fill="#3465a4"><title>Forbo Nairn</title></circle></a><a href="/setts/s6/r9b6dt13b21o18w4~x2/"><circle cx="131.6" cy="257.1" r="4" fill="#3465a4"><title>Fox-Eves Wedding (Personal)</title></circle></a><a href="/setts/s7/k6t2db12g8r5k2g3~x4/"><circle cx="114.0" cy="235.1" r="4" fill="#3465a4"><title>Cooke (Personal)</title></circle></a><a href="/setts/s5/g15dg18dt23w4r8~x2/"><circle cx="104.1" cy="261.0" r="4" fill="#3465a4"><title>Friebe (2014)</title></circle></a><a href="/setts/s6/m2g6k2db6k1r2~x4/"><circle cx="118.3" cy="240.5" r="4" fill="#3465a4"><title>MacEachain (Clan)</title></circle></a><a href="/setts/s5/r1db6k3dg6w1~x4/"><circle cx="146.5" cy="247.1" r="4" fill="#3465a4"><title>Davidson of Tulloch #2</title></circle></a><a href="/setts/s7/r2db11r3db11t12db10w2~x2/"><circle cx="162.9" cy="237.8" r="4" fill="#3465a4"><title>Blue</title></circle></a><a href="/setts/s5/k4t3dp11dg14w2~x2/"><circle cx="172.9" cy="231.0" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><a href="/setts/s6/r14w5dt20k10t10dt10~x2/"><circle cx="103.9" cy="267.0" r="4" fill="#3465a4"><title>Gandy of Myrton (Name)</title></circle></a><circle cx="122.8" cy="254.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/n14r4n14t15db13w3~x2/"><circle cx="148.1" cy="261.9" r="4" fill="#3465a4"><title>Blue</title></circle></a><a href="/setts/s5/r2db12k7g8t2~x4/"><circle cx="159.8" cy="256.9" r="4" fill="#3465a4"><title>Forbo Nairn</title></circle></a><a href="/setts/s6/r9b6dt13b21o18w4~x2/"><circle cx="131.7" cy="257.1" r="4" fill="#3465a4"><title>Fox-Eves Wedding (Personal)</title></circle></a><a href="/setts/s7/k6t2db12g8r5k2g3~x4/"><circle cx="114.2" cy="235.2" r="4" fill="#3465a4"><title>Cooke (Personal)</title></circle></a><a href="/setts/s5/g15dg18dt23w4r8~x2/"><circle cx="104.3" cy="261.1" r="4" fill="#3465a4"><title>Friebe (2014)</title></circle></a><a href="/setts/s6/r2k1db6k2g6m2~x4/"><circle cx="118.5" cy="240.6" r="4" fill="#3465a4"><title>MacEachain (Clan)</title></circle></a><a href="/setts/s5/r1db6k3dg6w1~x4/"><circle cx="146.7" cy="247.1" r="4" fill="#3465a4"><title>Davidson of Tulloch #2</title></circle></a><a href="/setts/s7/r2db11r3db11t12db10w2~x2/"><circle cx="163.1" cy="237.8" r="4" fill="#3465a4"><title>Blue</title></circle></a><a href="/setts/s5/k4t3dp11dg14w2~x2/"><circle cx="173.1" cy="231.0" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><a href="/setts/s6/r14w5dt20k10t10dt10~x2/"><circle cx="104.1" cy="267.0" r="4" fill="#3465a4"><title>Gandy of Myrton (Name)</title></circle></a><circle cx="123.0" cy="254.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r9dt6db13dt21y18w4~x2/

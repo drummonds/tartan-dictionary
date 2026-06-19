@@ -2,7 +2,7 @@
 title: "Dutch Football (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BWRY](/stripes/bwry/) · **Stripes:** [DT W R LO](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DT W R LO</span></span>
+**Bands:** [YRWB](/stripes/yrwb/) · **Stripes:** [LO R W DT](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="seq">LO R W DT</span></span>
 
 
 This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/
 Original link http://www.tartansauthority.com/tartan-ferret/display/8022/
 
 ## Thread count
-DB/11 LN11 R11 DY/264
+DY/264 R11 LN11 DB/11
 ![Sett](sett.png)
 
 ## Palette
@@ -25,18 +25,18 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/11 LN11 R11 DY/264 tartan")
+![Tartan detail](tartan.png "DY/264 R11 LN11 DB/11 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Rabbie's Dram (Fashion)](/setts/s4/lo60do3lo4r3~x2/) — ΔT 1.63
-1. [Kincardine Tweed](/setts/s4/o30r1o15db4/) — ΔT 2.23
+1. [Kincardine Tweed](/setts/s4/o30r1o15db4~x2/) — ΔT 2.23
 1. [Canadian Irish Regiment](/setts/s4/lo100dy26g3r2~x2/) — ΔT 2.43
 1. [Connacht (1993)](/setts/s10/o64dg6o2dg3o2dg6o64dy2o2dy6~x2/) — ΔT 2.50
 1. [Canadian Irish Regiment Regimental Tartan Tartan Number: 1544. Earliest known date: 1930 The Canadian Irish Regiment was formed in April 1914 and formally gazetted on October 15th, 1915, as the 110th (Irish) Regiment of Canada. In 1931 they became the only kilted Irish Regiment in the world. The Regiment served on active service during World War II and was also the first Irish Regiment to provide a Royal Guard. (P.E.MacDonald, 1982) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s4/lo100dy26dg3dr2~x2/) — ΔT 2.52
-1. [Reid (1939)](/setts/s6/y40r8y4w2y4ly5~x2/) — ΔT 2.65
+1. [Reid (1939)](/setts/s6/y40r8y4w2y4ly5~x2/) — ΔT 2.66
 1. [Manitoba District Tartan Tartan Number: 145. Earliest known date: 1962 A slight modification of the original sett. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/ly622r21g2dg6g41t2g2t6/) — ΔT 2.75
 1. [Dunbar of Pitgaveny (Clan)](/setts/s3/m1o19w1~x2/) — ΔT 2.82
 1. [Houston #2 (Personal)](/setts/s12/lo32do2lo12dy2lo1g2lo1dy2lo1g2lo1dy2~x2/) — ΔT 2.90
@@ -44,8 +44,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/lo60do3lo4r3~x2/"><circle cx="626.0" cy="227.4" r="4" fill="#3465a4"><title>Rabbie's Dram (Fashion)</title></circle></a><a href="/setts/s4/o30r1o15db4/"><circle cx="626.0" cy="223.7" r="4" fill="#3465a4"><title>Kincardine Tweed</title></circle></a><a href="/setts/s4/lo100dy26g3r2~x2/"><circle cx="603.9" cy="170.6" r="4" fill="#3465a4"><title>Canadian Irish Regiment</title></circle></a><a href="/setts/s10/o64dg6o2dg3o2dg6o64dy2o2dy6~x2/"><circle cx="626.0" cy="138.1" r="4" fill="#3465a4"><title>Connacht (1993)</title></circle></a><a href="/setts/s4/lo100dy26dg3dr2~x2/"><circle cx="590.8" cy="164.2" r="4" fill="#3465a4"><title>Canadian Irish Regiment Regimental Tartan Tartan Number: 1544. Earliest known date: 1930 The Canadian Irish Regiment was formed in April 1914 and formally gazetted on October 15th, 1915, as the 110th (Irish) Regiment of Canada. In 1931 they became the only kilted Irish Regiment in the world. The Regiment served on active service during World War II and was also the first Irish Regiment to provide a Royal Guard. (P.E.MacDonald, 1982) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/y40r8y4w2y4ly5~x2/"><circle cx="566.4" cy="187.8" r="4" fill="#3465a4"><title>Reid (1939)</title></circle></a><a href="/setts/s8/ly622r21g2dg6g41t2g2t6/"><circle cx="626.0" cy="82.5" r="4" fill="#3465a4"><title>Manitoba District Tartan Tartan Number: 145. Earliest known date: 1962 A slight modification of the original sett. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s3/m1o19w1~x2/"><circle cx="626.0" cy="247.5" r="4" fill="#3465a4"><title>Dunbar of Pitgaveny (Clan)</title></circle></a><a href="/setts/s12/lo32do2lo12dy2lo1g2lo1dy2lo1g2lo1dy2~x2/"><circle cx="604.9" cy="115.0" r="4" fill="#3465a4"><title>Houston #2 (Personal)</title></circle></a><a href="/setts/s3/r1y19w1~x2/"><circle cx="626.0" cy="258.6" r="4" fill="#3465a4"><title>Dunbar of Pitgaveny</title></circle></a><circle cx="626.0" cy="188.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/lo60do3lo4r3~x2/"><circle cx="626.0" cy="227.0" r="4" fill="#3465a4"><title>Rabbie's Dram (Fashion)</title></circle></a><a href="/setts/s4/o30r1o15db4~x2/"><circle cx="626.0" cy="223.2" r="4" fill="#3465a4"><title>Kincardine Tweed</title></circle></a><a href="/setts/s4/lo100dy26g3r2~x2/"><circle cx="603.2" cy="170.3" r="4" fill="#3465a4"><title>Canadian Irish Regiment</title></circle></a><a href="/setts/s10/o64dg6o2dg3o2dg6o64dy2o2dy6~x2/"><circle cx="626.0" cy="137.7" r="4" fill="#3465a4"><title>Connacht (1993)</title></circle></a><a href="/setts/s4/lo100dy26dg3dr2~x2/"><circle cx="590.2" cy="163.9" r="4" fill="#3465a4"><title>Canadian Irish Regiment Regimental Tartan Tartan Number: 1544. Earliest known date: 1930 The Canadian Irish Regiment was formed in April 1914 and formally gazetted on October 15th, 1915, as the 110th (Irish) Regiment of Canada. In 1931 they became the only kilted Irish Regiment in the world. The Regiment served on active service during World War II and was also the first Irish Regiment to provide a Royal Guard. (P.E.MacDonald, 1982) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/y40r8y4w2y4ly5~x2/"><circle cx="565.8" cy="187.6" r="4" fill="#3465a4"><title>Reid (1939)</title></circle></a><a href="/setts/s8/ly622r21g2dg6g41t2g2t6/"><circle cx="626.0" cy="82.2" r="4" fill="#3465a4"><title>Manitoba District Tartan Tartan Number: 145. Earliest known date: 1962 A slight modification of the original sett. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s3/m1o19w1~x2/"><circle cx="626.0" cy="247.0" r="4" fill="#3465a4"><title>Dunbar of Pitgaveny (Clan)</title></circle></a><a href="/setts/s12/lo32do2lo12dy2lo1g2lo1dy2lo1g2lo1dy2~x2/"><circle cx="604.1" cy="114.7" r="4" fill="#3465a4"><title>Houston #2 (Personal)</title></circle></a><a href="/setts/s3/r1y19w1~x2/"><circle cx="626.0" cy="258.2" r="4" fill="#3465a4"><title>Dunbar of Pitgaveny</title></circle></a><circle cx="626.0" cy="188.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/lo24r1w1dt1~x11/

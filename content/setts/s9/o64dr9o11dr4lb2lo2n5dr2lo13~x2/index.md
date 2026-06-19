@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=968
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Down, County District)
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -25,7 +31,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2266
 
 ## Thread count
-O/26 DR4 N10 O4 LP4 DR8 DO22 DR18 T/128
+T/128 DR18 DO22 DR8 LP4 O4 N10 DR4 O/26
 ![Sett](sett.png)
 
 ## Palette
@@ -57,8 +63,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r42db3r6lo2r2lb2r2g14r8r2r3lb2~x2/"><circle cx="389.9" cy="91.8" r="4" fill="#3465a4"><title>Wcwm 1286-9</title></circle></a><a href="/setts/s9/y3dg1g3dg16r32dg1ly1db4g2~x2/"><circle cx="337.5" cy="99.0" r="4" fill="#3465a4"><title>Connemara (District)</title></circle></a><a href="/setts/s9/r36lr1db3ly1dg16r8db3b2lr1~x2/"><circle cx="404.6" cy="85.2" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s9/r36lr1db3ly1dg16r8db3b2lr1/"><circle cx="404.6" cy="85.2" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s9/lo1r45dt23w1dt6r2lo1r2lo1~x2/"><circle cx="433.9" cy="100.2" r="4" fill="#3465a4"><title>Arbroath Smokie</title></circle></a><a href="/setts/s12/r52db12o9ly2o2g2o2g11r7o2r3db2~x2/"><circle cx="361.8" cy="69.7" r="4" fill="#3465a4"><title>McPrato</title></circle></a><a href="/setts/s8/r26n4r1p2dg1n4dg14w2~x2/"><circle cx="347.4" cy="139.9" r="4" fill="#3465a4"><title>Redpath, Robert A (Personal)</title></circle></a><a href="/setts/s12/dy21m2w1ly3m2dy5m21ly1ly1ly1m1dy8~x2/"><circle cx="354.3" cy="117.1" r="4" fill="#3465a4"><title>Glendronach Corporate Tartan Tartan Number: 2293. Earliest known date: 1989 A copyright design created for the Glendronach Company. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/r68k1g6t4g1t12w1g6lo1g24lo1g2lo3~x2/"><circle cx="379.3" cy="46.1" r="4" fill="#3465a4"><title>Ellis Island American District Tartan Tartan Number: 10364. Earliest known date: 06/02/10 The Ellis Island tartan has been designed by Matt Newsome, curator of the Scottish Tartans Museum in Franklin, NC, primarily for use by all Americans with ancestors who came to America through Ellis Island regardless of ethnic origin and to commemorate the 10th annual observance of National Tartan Day at the Ellis Island Immigration Museum. It was commissioned by the Clan Currie Society who hold the copyright. Proceeds from the sale of the tartan will benefit the Save Ellis Island Foundation and the Clan Currie Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/r68o5k9y3k3lb3k3dg20r9k3r5lb4/"><circle cx="381.5" cy="87.6" r="4" fill="#3465a4"><title>British Caledonian Airways #4</title></circle></a><circle cx="391.2" cy="96.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r42db3r6lo2r2lb2r2g14r8r2r3lb2~x2/"><circle cx="389.5" cy="91.9" r="4" fill="#3465a4"><title>Wcwm 1286-9</title></circle></a><a href="/setts/s9/y3dg1g3dg16r32dg1ly1db4g2~x2/"><circle cx="337.2" cy="99.1" r="4" fill="#3465a4"><title>Connemara (District)</title></circle></a><a href="/setts/s9/r36lr1db3ly1dg16r8db3b2lr1~x2/"><circle cx="404.3" cy="85.2" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s9/r36lr1db3ly1dg16r8db3b2lr1/"><circle cx="404.3" cy="85.2" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s9/lo1r45dt23w1dt6r2lo1r2lo1~x2/"><circle cx="433.5" cy="100.2" r="4" fill="#3465a4"><title>Arbroath Smokie</title></circle></a><a href="/setts/s12/r52db12o9ly2o2g2o2g11r7o2r3db2~x2/"><circle cx="361.3" cy="69.7" r="4" fill="#3465a4"><title>McPrato</title></circle></a><a href="/setts/s8/r26n4r1p2dg1n4dg14w2~x2/"><circle cx="347.2" cy="140.0" r="4" fill="#3465a4"><title>Redpath, Robert A (Personal)</title></circle></a><a href="/setts/s12/dy21m2w1ly3m2dy5m21ly1ly1ly1m1dy8~x2/"><circle cx="353.9" cy="117.1" r="4" fill="#3465a4"><title>Glendronach Corporate Tartan Tartan Number: 2293. Earliest known date: 1989 A copyright design created for the Glendronach Company. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/r68k1g6t4g1t12w1g6lo1g24lo1g2lo3~x2/"><circle cx="378.8" cy="46.2" r="4" fill="#3465a4"><title>Ellis Island American District Tartan Tartan Number: 10364. Earliest known date: 06/02/10 The Ellis Island tartan has been designed by Matt Newsome, curator of the Scottish Tartans Museum in Franklin, NC, primarily for use by all Americans with ancestors who came to America through Ellis Island regardless of ethnic origin and to commemorate the 10th annual observance of National Tartan Day at the Ellis Island Immigration Museum. It was commissioned by the Clan Currie Society who hold the copyright. Proceeds from the sale of the tartan will benefit the Save Ellis Island Foundation and the Clan Currie Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/r68o5k9y3k3lb3k3dg20r9k3r5lb4/"><circle cx="381.2" cy="87.7" r="4" fill="#3465a4"><title>British Caledonian Airways #4</title></circle></a><circle cx="390.8" cy="96.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/o64dr9o11dr4lb2lo2n5dr2lo13~x2/

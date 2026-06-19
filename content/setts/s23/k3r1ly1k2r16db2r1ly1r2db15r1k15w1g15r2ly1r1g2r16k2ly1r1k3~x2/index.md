@@ -2,7 +2,7 @@
 title: "Leith, (Hay)"
 date: 2023-03-18
 ---
-**Bands:** [KRYKRBRYRBRKWGRYRGRKYRK](/stripes/krykrbryrbrkwgryrgrkyrk/) · **Stripes:** [K R LY K R DB R LY R DB R K W G R LY R G R K LY R K](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R LY K R DB R LY R DB R K W G R LY R G R K LY R K</span></span>
+**Bands:** [KRYKRGRYRGWKRBRYRBRKYRK](/stripes/krykrgryrgwkrbryrbrkyrk/) · **Stripes:** [K R LY K R G R LY R G W K R DB R LY R DB R K LY R K](/stripes/stripes23/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">K R LY K R G R LY R G W K R DB R LY R DB R K LY R K</span></span>
 
 
 This was sourced from weddslist.  It is a [23 band tartan](/bands/bands23/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/6 R2 Y2 K4 R32 B4 R2 Y2 R4 B30 R2 K30 LN2 G30 R4 Y2 R2 G4 R32 K4 Y2 R2 K/6
+K/6 R2 Y2 K4 R32 G4 R2 Y2 R4 G30 LN2 K30 R2 B30 R4 Y2 R2 B4 R32 K4 Y2 R2 K/6
 ![Sett](sett.png)
 
 ## Palette
@@ -912,13 +915,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Hay or Leith](/setts/s22/db41r2k42w2dg41r3ly2r3dg3r31k3ly2r3k5r3ly2k3r31db3r3ly2r3~x2/) — ΔT 0.98
 1. [Hay or Leith Clan Tartan Tartan Number: 1215. Earliest known date: 1810-15 Also recorded by Logan and Wilson in the Wilson's pattern books. The Hay Leith connection is believed to have come about through a marriage between the two families. At Delgattie Castle, Turriff, there is a Clan Hay centre and Leith Hall, home of the Leith-Hays, is owned by the National Trust for Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s23/k3r1ly1k2r16dp2r1ly1r2dp15r1k15w1g15r2ly1r1g2r16k2ly1r1k3~x2/) — ΔT 1.06
 1. [Hay & Leith - 1800 (Clan)](/setts/s23/k10r3ly3k6r48dg6r2ly2r6dg40w2k38r2dp40r6ly2r2dp6r48k6ly2r3k10/) — ΔT 1.13
-1. [Wilson's No.073](/setts/s22/r32t10k16ly2k3w3k3g23r13k3r3w2r3k3r13g23k3w3k3ly2k16t10~x2/) — ΔT 1.19
+1. [Wilson's No.073](/setts/s22/r32t10k16ly2k3w3k3g23r13k3r3w2~x2/) — ΔT 1.19
 1. [Unidentified 30](/setts/s15/db6k3r4k2r27k12db10k3ly2k3g12r10w2r3k3~x2/) — ΔT 1.31
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s23/k3r1ly1k2r16dg2r1ly1r2dg15lb1k15r1dp15r2ly1r1dp2r16k2ly1r1k3/"><circle cx="159.2" cy="56.5" r="4" fill="#3465a4"><title>Hay and Leith</title></circle></a><a href="/setts/s22/db41r2k42w2g41r3ly2r3g3r31k3ly2r3k5r3ly2k3r31db3r3ly2r3~x2/"><circle cx="153.7" cy="44.7" r="4" fill="#3465a4"><title>Hay, or Leith</title></circle></a><a href="/setts/s23/k3r1ly1k2r16dg2r1ly1r2dg15lr1k15r1n15r2ly1r1n2r16k2ly1r1k3~x2/"><circle cx="173.0" cy="66.6" r="4" fill="#3465a4"><title>Hay and Leith</title></circle></a><a href="/setts/s23/k3r1ly1k2r16dg2r1ly1r2dg15lr1k15r1n15r2ly1r1n2r16k2ly1r1k3/"><circle cx="173.0" cy="66.6" r="4" fill="#3465a4"><title>Hay and Leith</title></circle></a><a href="/setts/s23/k3r1ly1k2r16g2r1ly1r2g15w1k15r1db15r2ly1r1p2r16k2ly1r1k3~x2/"><circle cx="136.2" cy="41.5" r="4" fill="#3465a4"><title>Hay, or Leith</title></circle></a><a href="/setts/s22/db41r2k42w2dg41r3ly2r3dg3r31k3ly2r3k5r3ly2k3r31db3r3ly2r3~x2/"><circle cx="172.3" cy="50.4" r="4" fill="#3465a4"><title>Hay or Leith</title></circle></a><a href="/setts/s23/k3r1ly1k2r16dp2r1ly1r2dp15r1k15w1g15r2ly1r1g2r16k2ly1r1k3~x2/"><circle cx="179.0" cy="62.1" r="4" fill="#3465a4"><title>Hay or Leith Clan Tartan Tartan Number: 1215. Earliest known date: 1810-15 Also recorded by Logan and Wilson in the Wilson's pattern books. The Hay Leith connection is believed to have come about through a marriage between the two families. At Delgattie Castle, Turriff, there is a Clan Hay centre and Leith Hall, home of the Leith-Hays, is owned by the National Trust for Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s23/k10r3ly3k6r48dg6r2ly2r6dg40w2k38r2dp40r6ly2r2dp6r48k6ly2r3k10/"><circle cx="205.6" cy="50.8" r="4" fill="#3465a4"><title>Hay &amp; Leith - 1800 (Clan)</title></circle></a><a href="/setts/s22/r32t10k16ly2k3w3k3g23r13k3r3w2r3k3r13g23k3w3k3ly2k16t10~x2/"><circle cx="120.6" cy="81.1" r="4" fill="#3465a4"><title>Wilson's No.073</title></circle></a><a href="/setts/s15/db6k3r4k2r27k12db10k3ly2k3g12r10w2r3k3~x2/"><circle cx="163.4" cy="100.4" r="4" fill="#3465a4"><title>Unidentified 30</title></circle></a><circle cx="154.8" cy="57.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s23/k3r1ly1k2r16dg2r1ly1r2dg15lb1k15r1dp15r2ly1r1dp2r16k2ly1r1k3/"><circle cx="159.0" cy="56.6" r="4" fill="#3465a4"><title>Hay and Leith</title></circle></a><a href="/setts/s22/db41r2k42w2g41r3ly2r3g3r31k3ly2r3k5r3ly2k3r31db3r3ly2r3~x2/"><circle cx="153.5" cy="44.8" r="4" fill="#3465a4"><title>Hay, or Leith</title></circle></a><a href="/setts/s23/k3r1ly1k2r16dg2r1ly1r2dg15lr1k15r1n15r2ly1r1n2r16k2ly1r1k3~x2/"><circle cx="172.9" cy="66.8" r="4" fill="#3465a4"><title>Hay and Leith</title></circle></a><a href="/setts/s23/k3r1ly1k2r16dg2r1ly1r2dg15lr1k15r1n15r2ly1r1n2r16k2ly1r1k3/"><circle cx="172.9" cy="66.8" r="4" fill="#3465a4"><title>Hay and Leith</title></circle></a><a href="/setts/s23/k3r1ly1k2r16g2r1ly1r2g15w1k15r1db15r2ly1r1p2r16k2ly1r1k3~x2/"><circle cx="136.1" cy="41.7" r="4" fill="#3465a4"><title>Hay, or Leith</title></circle></a><a href="/setts/s22/db41r2k42w2dg41r3ly2r3dg3r31k3ly2r3k5r3ly2k3r31db3r3ly2r3~x2/"><circle cx="172.1" cy="50.5" r="4" fill="#3465a4"><title>Hay or Leith</title></circle></a><a href="/setts/s23/k3r1ly1k2r16dp2r1ly1r2dp15r1k15w1g15r2ly1r1g2r16k2ly1r1k3~x2/"><circle cx="178.8" cy="62.3" r="4" fill="#3465a4"><title>Hay or Leith Clan Tartan Tartan Number: 1215. Earliest known date: 1810-15 Also recorded by Logan and Wilson in the Wilson's pattern books. The Hay Leith connection is believed to have come about through a marriage between the two families. At Delgattie Castle, Turriff, there is a Clan Hay centre and Leith Hall, home of the Leith-Hays, is owned by the National Trust for Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s23/k10r3ly3k6r48dg6r2ly2r6dg40w2k38r2dp40r6ly2r2dp6r48k6ly2r3k10/"><circle cx="205.4" cy="51.0" r="4" fill="#3465a4"><title>Hay &amp; Leith - 1800 (Clan)</title></circle></a><a href="/setts/s22/r32t10k16ly2k3w3k3g23r13k3r3w2~x2/"><circle cx="120.4" cy="81.3" r="4" fill="#3465a4"><title>Wilson's No.073</title></circle></a><a href="/setts/s15/db6k3r4k2r27k12db10k3ly2k3g12r10w2r3k3~x2/"><circle cx="163.3" cy="100.4" r="4" fill="#3465a4"><title>Unidentified 30</title></circle></a><circle cx="154.6" cy="57.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s23/k3r1ly1k2r16db2r1ly1r2db15r1k15w1g15r2ly1r1g2r16k2ly1r1k3~x2/

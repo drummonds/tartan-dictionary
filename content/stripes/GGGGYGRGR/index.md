@@ -18,10 +18,10 @@ GGGGYGRGR
 
 
 
-### G DY G DY LY G R G R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">G DY G DY LY G R G R</span></span>
+### R G R G LY DY G DY G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G LY DY G DY G</span></span>
 
 | Tartans |
 |---------------|
-| [Welsh Stanley–Gpa (Personal)](/setts/s9/g2dy3g2dy45ly3g4r2g2r2~x2/)|
-|![Welsh Stanley–Gpa (Personal) example sett](/setts/s9/g2dy3g2dy45ly3g4r2g2r2~x2/sett.png)|
+| [Welsh Stanley–Gpa (Personal)](/setts/s9/r2g2r2g4ly3dy45g2dy3g2~x2/)|
+|![Welsh Stanley–Gpa (Personal) example sett](/setts/s9/r2g2r2g4ly3dy45g2dy3g2~x2/sett.png)|
 

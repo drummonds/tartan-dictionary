@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,14 +915,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Blue Watch (Fashion)](/setts/s13/db11k1db1k1db1k8w8k1w8k8db8k1db1~x4/) — ΔT 1.16
 1. [Laval Dress, Tartan de](/setts/s8/db2lb2db7dr8lb10db2lb2db2~x2/) — ΔT 1.22
 1. [Wcwm 9285 4906-2](/setts/s11/db12lr4db4lr4db4lr10db4lr3db8r24lr2~x2/) — ΔT 1.23
-1. [Conquergood](/setts/s8/b2k1w2k5b5w11b2k2~x2/) — ΔT 1.23
+1. [Conquergood](/setts/s8/k2b2w11b5k5w2k1b2~x2/) — ΔT 1.23
 1. [Napier](/setts/s11/k4w2k2w2k2w4k2w2k4db12w1~x2/) — ΔT 1.28
 1. [Hydro-Electric](/setts/s10/db11k4w5k1r3k1w5k4db11r1~x4/) — ΔT 1.29
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db12w4db1w4r8w2r1~x4/"><circle cx="212.4" cy="187.3" r="4" fill="#3465a4"><title>Sunderland</title></circle></a><a href="/setts/s11/k4w2k2w2k2w4k2w2k4db12w1~x4/"><circle cx="188.8" cy="174.4" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/setts/s7/r3db15w13o6db2o2r2~x2/"><circle cx="151.8" cy="188.9" r="4" fill="#3465a4"><title>Thom(p)son, Navy</title></circle></a><a href="/setts/s10/k14w2k3w2dr10w32dr10k10w2k3~x2/"><circle cx="229.0" cy="147.6" r="4" fill="#3465a4"><title>Fraser, Arisaid</title></circle></a><a href="/setts/s13/db11k1db1k1db1k8w8k1w8k8db8k1db1~x4/"><circle cx="183.3" cy="170.9" r="4" fill="#3465a4"><title>Blue Watch (Fashion)</title></circle></a><a href="/setts/s8/db2lb2db7dr8lb10db2lb2db2~x2/"><circle cx="172.5" cy="227.1" r="4" fill="#3465a4"><title>Laval Dress, Tartan de</title></circle></a><a href="/setts/s11/db12lr4db4lr4db4lr10db4lr3db8r24lr2~x2/"><circle cx="216.8" cy="179.6" r="4" fill="#3465a4"><title>Wcwm 9285 4906-2</title></circle></a><a href="/setts/s8/b2k1w2k5b5w11b2k2~x2/"><circle cx="201.7" cy="182.9" r="4" fill="#3465a4"><title>Conquergood</title></circle></a><a href="/setts/s11/k4w2k2w2k2w4k2w2k4db12w1~x2/"><circle cx="182.4" cy="173.4" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/setts/s10/db11k4w5k1r3k1w5k4db11r1~x4/"><circle cx="194.0" cy="170.7" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><circle cx="186.8" cy="189.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db12w4db1w4r8w2r1~x4/"><circle cx="212.3" cy="187.2" r="4" fill="#3465a4"><title>Sunderland</title></circle></a><a href="/setts/s11/k4w2k2w2k2w4k2w2k4db12w1~x4/"><circle cx="188.8" cy="174.3" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/setts/s7/r3db15w13o6db2o2r2~x2/"><circle cx="151.7" cy="188.8" r="4" fill="#3465a4"><title>Thom(p)son, Navy</title></circle></a><a href="/setts/s10/k14w2k3w2dr10w32dr10k10w2k3~x2/"><circle cx="228.8" cy="147.4" r="4" fill="#3465a4"><title>Fraser, Arisaid</title></circle></a><a href="/setts/s13/db11k1db1k1db1k8w8k1w8k8db8k1db1~x4/"><circle cx="183.3" cy="170.7" r="4" fill="#3465a4"><title>Blue Watch (Fashion)</title></circle></a><a href="/setts/s8/db2lb2db7dr8lb10db2lb2db2~x2/"><circle cx="172.4" cy="227.0" r="4" fill="#3465a4"><title>Laval Dress, Tartan de</title></circle></a><a href="/setts/s11/db12lr4db4lr4db4lr10db4lr3db8r24lr2~x2/"><circle cx="216.7" cy="179.4" r="4" fill="#3465a4"><title>Wcwm 9285 4906-2</title></circle></a><a href="/setts/s8/k2b2w11b5k5w2k1b2~x2/"><circle cx="201.5" cy="182.7" r="4" fill="#3465a4"><title>Conquergood</title></circle></a><a href="/setts/s11/k4w2k2w2k2w4k2w2k4db12w1~x2/"><circle cx="182.5" cy="173.3" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/setts/s10/db11k4w5k1r3k1w5k4db11r1~x4/"><circle cx="194.0" cy="170.6" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><circle cx="186.8" cy="189.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db2w2db8dr8w10db2w1db1~x2/

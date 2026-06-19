@@ -18,10 +18,10 @@ BWBYBRBBYB
 
 
 
-### DB W DP LG DP R DB DP LG DB <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#082077"></span><span class="seq">DB W DP LG DP R DB DP LG DB</span></span>
+### DB LG DP DB R DP LG DP W DB <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">DB LG DP DB R DP LG DP W DB</span></span>
 
 | Tartans |
 |---------------|
-| [Pride of Fife](/setts/s10/db2lg2dp6db37r5dp2lg2dp16w2db2~x2/)|
-|![Pride of Fife example sett](/setts/s10/db2lg2dp6db37r5dp2lg2dp16w2db2~x2/sett.png)|
+| [Pride of Fife](/setts/s10/db2w2dp16lg2dp2r5db37dp6lg2db2~x2/)|
+|![Pride of Fife example sett](/setts/s10/db2w2dp16lg2dp2r5db37dp6lg2db2~x2/sett.png)|
 

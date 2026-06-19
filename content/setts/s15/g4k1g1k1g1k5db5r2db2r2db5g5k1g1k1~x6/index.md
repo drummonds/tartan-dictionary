@@ -2,12 +2,18 @@
 title: "MacLachlan Hunting"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGKBRBRBGKGK](/stripes/gkgkgkbrbrbgkgk/) · **Stripes:** [G K G K G K DB R DB R DB G K G K](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">G K G K G K DB R DB R DB G K G K</span></span>
+**Bands:** [KGKGBRBRBKGKGKG](/stripes/kgkgbrbrbkgkgkg/) · **Stripes:** [K G K G DB R DB R DB K G K G K G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G K G DB R DB R DB K G K G K G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2588
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacLachlan Hunting
 
 ## Attestations
 
@@ -46,17 +52,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Murray #2](/setts/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x4/) — ΔT 0.78
 1. [New South Wales Scottish Rifles](/setts/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x2/) — ΔT 0.78
 1. [Cheape of Torosay #2 (Personal)](/setts/s13/db6k1db1k1db1k6g6t2g6k6db6k1g2~x4/) — ΔT 0.81
-1. [MacDonald #6](/setts/s12/db8r2db2r4db10r2k11dg10r4dg2r2dg8~x2/) — ΔT 0.87
+1. [MacDonald #6](/setts/s12/dg8r2dg2r4dg10k11r2db10r4db2r2db8~x2/) — ΔT 0.87
 1. [Forbes](/setts/s13/db1k1db6k6g6k1w1k1g6k6db6k1db1~x8/) — ΔT 0.89
-1. [Stuart/Stewart Ancient](/setts/s15/db17dg4k4dg4db17r6k12r4k12r6dg17k4db2k4dg17/) — ΔT 0.91
+1. [Stuart/Stewart Ancient](/setts/s15/dg17k4db2k4dg17r6k12r4k12r6db17dg4k4dg4db17/) — ΔT 0.91
 1. [Cheape of Torosay (Clan)](/setts/s13/db6k1db1k1db1k6g6t2g6k6db6k1db2~x4/) — ΔT 0.92
 1. [Fletcher](/setts/s15/db11k3db3k3db3k11r3dg13k3dg13r3k11db11k3db3~x2/) — ΔT 0.94
-1. [MacDonald #2](/setts/s12/db11r2db2r4db15r2k15dg15r4dg2r2dg11~x2/) — ΔT 0.94
+1. [MacDonald #2](/setts/s12/dg11r2dg2r4dg15k15r2db15r4db2r2db11~x2/) — ΔT 0.94
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db8r2db2r3db12r2k12g12r3g2r2g8/"><circle cx="144.8" cy="215.1" r="4" fill="#3465a4"><title>MacDonald MINI Design Tartan Tartan Number: 4199. Earliest known date: Dupion Silk. Display Purposes Only. Reduced Copy of 419 MacDonald. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x4/"><circle cx="176.9" cy="233.0" r="4" fill="#3465a4"><title>Murray #2</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x2/"><circle cx="176.9" cy="233.0" r="4" fill="#3465a4"><title>New South Wales Scottish Rifles</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6g6t2g6k6db6k1g2~x4/"><circle cx="165.8" cy="234.2" r="4" fill="#3465a4"><title>Cheape of Torosay #2 (Personal)</title></circle></a><a href="/setts/s12/db8r2db2r4db10r2k11dg10r4dg2r2dg8~x2/"><circle cx="129.5" cy="226.6" r="4" fill="#3465a4"><title>MacDonald #6</title></circle></a><a href="/setts/s13/db1k1db6k6g6k1w1k1g6k6db6k1db1~x8/"><circle cx="182.1" cy="223.4" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s15/db17dg4k4dg4db17r6k12r4k12r6dg17k4db2k4dg17/"><circle cx="159.1" cy="212.3" r="4" fill="#3465a4"><title>Stuart/Stewart Ancient</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6g6t2g6k6db6k1db2~x4/"><circle cx="177.1" cy="235.4" r="4" fill="#3465a4"><title>Cheape of Torosay (Clan)</title></circle></a><a href="/setts/s15/db11k3db3k3db3k11r3dg13k3dg13r3k11db11k3db3~x2/"><circle cx="166.7" cy="246.3" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/setts/s12/db11r2db2r4db15r2k15dg15r4dg2r2dg11~x2/"><circle cx="170.1" cy="210.0" r="4" fill="#3465a4"><title>MacDonald #2</title></circle></a><circle cx="136.6" cy="223.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db8r2db2r3db12r2k12g12r3g2r2g8/"><circle cx="144.9" cy="215.2" r="4" fill="#3465a4"><title>MacDonald MINI Design Tartan Tartan Number: 4199. Earliest known date: Dupion Silk. Display Purposes Only. Reduced Copy of 419 MacDonald. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x4/"><circle cx="177.1" cy="233.1" r="4" fill="#3465a4"><title>Murray #2</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x2/"><circle cx="177.1" cy="233.1" r="4" fill="#3465a4"><title>New South Wales Scottish Rifles</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6g6t2g6k6db6k1g2~x4/"><circle cx="165.9" cy="234.3" r="4" fill="#3465a4"><title>Cheape of Torosay #2 (Personal)</title></circle></a><a href="/setts/s12/dg8r2dg2r4dg10k11r2db10r4db2r2db8~x2/"><circle cx="129.6" cy="226.6" r="4" fill="#3465a4"><title>MacDonald #6</title></circle></a><a href="/setts/s13/db1k1db6k6g6k1w1k1g6k6db6k1db1~x8/"><circle cx="182.3" cy="223.5" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s15/dg17k4db2k4dg17r6k12r4k12r6db17dg4k4dg4db17/"><circle cx="159.2" cy="212.4" r="4" fill="#3465a4"><title>Stuart/Stewart Ancient</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6g6t2g6k6db6k1db2~x4/"><circle cx="177.3" cy="235.4" r="4" fill="#3465a4"><title>Cheape of Torosay (Clan)</title></circle></a><a href="/setts/s15/db11k3db3k3db3k11r3dg13k3dg13r3k11db11k3db3~x2/"><circle cx="166.9" cy="246.5" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/setts/s12/dg11r2dg2r4dg15k15r2db15r4db2r2db11~x2/"><circle cx="170.2" cy="210.1" r="4" fill="#3465a4"><title>MacDonald #2</title></circle></a><circle cx="136.7" cy="223.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/g4k1g1k1g1k5db5r2db2r2db5g5k1g1k1~x6/

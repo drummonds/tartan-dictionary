@@ -56,8 +56,8 @@ Grouped by stripe pattern — the 5 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Stewart Royal](/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1~x2/)|
-|![Stewart Royal example sett](/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1~x2/sett.png)|
+| [Stewart Royal](/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1/)|
+|![Stewart Royal example sett](/setts/s12/r36db4k6ly1k1lb1k1dg8r4k1r2lb1/sett.png)|
 
 ### R T K LY K W K DG R K R W <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R T K LY K W K DG R K R W</span></span>
 

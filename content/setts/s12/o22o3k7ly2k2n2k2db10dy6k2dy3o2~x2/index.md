@@ -2,7 +2,7 @@
 title: "Daks - Chino Check - B.11155"
 date: 2023-03-18
 ---
-**Bands:** [RGKGBKBKYKRR](/stripes/rgkgbkbkykrr/) · **Stripes:** [O DY K DY DB K N K LY K O O](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O DY K DY DB K N K LY K O O</span></span>
+**Bands:** [RRKYKBKBGKGR](/stripes/rrkykbkbgkgr/) · **Stripes:** [O O K LY K N K DB DY K DY O](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O O K LY K N K DB DY K DY O</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -907,20 +910,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [MacLean](/setts/s12/db4b1k3ly1k1lr1k1dg8r12b1r2k1~x2/) — ΔT 0.84
-1. [Cree Clan Tartan Tartan Number: 1856. Earliest known date: 1981 A branch of the Stewart clan from Galloway and the South West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/ly3do22db2k7ly3k2w3k2g7r5k3r3w3~x2/) — ΔT 0.91
-1. [Campbell Hunting](/setts/s10/b4k1w2k3ly1o12dy1k12dy12r4~x2/) — ΔT 0.99
+1. [Cree Clan Tartan Tartan Number: 1856. Earliest known date: 1981 A branch of the Stewart clan from Galloway and the South West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/w3r3k3r5g7k2w3k2ly3k7db2do22ly3~x2/) — ΔT 0.91
+1. [Campbell Hunting](/setts/s10/r4dy12k12dy1o12ly1k3w2k1b4~x2/) — ΔT 0.99
 1. [MacLean of Duart 5](/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x2/) — ΔT 1.06
 1. [Ross Anderson (Fashion) #2](/setts/s14/dg4r2db3r1db3lo1k2lo1k2lb2k2o11r1k1~x4/) — ΔT 1.09
 1. [MacLean](/setts/s11/db8k8ly2k3w3k3dg24r16db3r4k2~x2/) — ΔT 1.12
 1. [MacLean of Duart #6](/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x4/) — ΔT 1.16
-1. [Nashotah House (Commemorative)](/setts/s13/lo2g1r5g7w2g15db8k14w2k7m5k1r2~x2/) — ΔT 1.16
+1. [Nashotah House (Commemorative)](/setts/s13/r2k1m5k7w2k14db8g15w2g7r5g1lo2~x2/) — ΔT 1.16
 1. [Rust (Personal)](/setts/s12/r3k2dp12w2dp12k12g12lo2g12k2r1db2~x2/) — ΔT 1.17
 1. [Rust Personal Tartan Tartan Number: 555. Earliest known date: Oman 1983 Amended sett from T.S.D See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/r3k2dp12w2dp12k12g12ly2g12k2r1t2~x2/) — ΔT 1.17
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db4b1k3ly1k1lr1k1dg8r12b1r2k1~x2/"><circle cx="139.7" cy="97.3" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s13/ly3do22db2k7ly3k2w3k2g7r5k3r3w3~x2/"><circle cx="86.1" cy="94.7" r="4" fill="#3465a4"><title>Cree Clan Tartan Tartan Number: 1856. Earliest known date: 1981 A branch of the Stewart clan from Galloway and the South West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/b4k1w2k3ly1o12dy1k12dy12r4~x2/"><circle cx="89.2" cy="122.0" r="4" fill="#3465a4"><title>Campbell Hunting</title></circle></a><a href="/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x2/"><circle cx="125.0" cy="86.0" r="4" fill="#3465a4"><title>MacLean of Duart 5</title></circle></a><a href="/setts/s14/dg4r2db3r1db3lo1k2lo1k2lb2k2o11r1k1~x4/"><circle cx="75.1" cy="106.0" r="4" fill="#3465a4"><title>Ross Anderson (Fashion) #2</title></circle></a><a href="/setts/s11/db8k8ly2k3w3k3dg24r16db3r4k2~x2/"><circle cx="120.7" cy="126.3" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x4/"><circle cx="142.7" cy="91.3" r="4" fill="#3465a4"><title>MacLean of Duart #6</title></circle></a><a href="/setts/s13/lo2g1r5g7w2g15db8k14w2k7m5k1r2~x2/"><circle cx="90.9" cy="111.2" r="4" fill="#3465a4"><title>Nashotah House (Commemorative)</title></circle></a><a href="/setts/s12/r3k2dp12w2dp12k12g12lo2g12k2r1db2~x2/"><circle cx="114.6" cy="135.8" r="4" fill="#3465a4"><title>Rust (Personal)</title></circle></a><a href="/setts/s12/r3k2dp12w2dp12k12g12ly2g12k2r1t2~x2/"><circle cx="104.7" cy="125.8" r="4" fill="#3465a4"><title>Rust Personal Tartan Tartan Number: 555. Earliest known date: Oman 1983 Amended sett from T.S.D See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="128.1" cy="108.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db4b1k3ly1k1lr1k1dg8r12b1r2k1~x2/"><circle cx="139.8" cy="97.5" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s13/w3r3k3r5g7k2w3k2ly3k7db2do22ly3~x2/"><circle cx="86.1" cy="94.9" r="4" fill="#3465a4"><title>Cree Clan Tartan Tartan Number: 1856. Earliest known date: 1981 A branch of the Stewart clan from Galloway and the South West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r4dy12k12dy1o12ly1k3w2k1b4~x2/"><circle cx="89.3" cy="122.2" r="4" fill="#3465a4"><title>Campbell Hunting</title></circle></a><a href="/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x2/"><circle cx="124.9" cy="86.1" r="4" fill="#3465a4"><title>MacLean of Duart 5</title></circle></a><a href="/setts/s14/dg4r2db3r1db3lo1k2lo1k2lb2k2o11r1k1~x4/"><circle cx="75.1" cy="106.2" r="4" fill="#3465a4"><title>Ross Anderson (Fashion) #2</title></circle></a><a href="/setts/s11/db8k8ly2k3w3k3dg24r16db3r4k2~x2/"><circle cx="120.7" cy="126.5" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x4/"><circle cx="142.6" cy="91.5" r="4" fill="#3465a4"><title>MacLean of Duart #6</title></circle></a><a href="/setts/s13/r2k1m5k7w2k14db8g15w2g7r5g1lo2~x2/"><circle cx="91.0" cy="111.4" r="4" fill="#3465a4"><title>Nashotah House (Commemorative)</title></circle></a><a href="/setts/s12/r3k2dp12w2dp12k12g12lo2g12k2r1db2~x2/"><circle cx="114.7" cy="136.0" r="4" fill="#3465a4"><title>Rust (Personal)</title></circle></a><a href="/setts/s12/r3k2dp12w2dp12k12g12ly2g12k2r1t2~x2/"><circle cx="104.8" cy="126.0" r="4" fill="#3465a4"><title>Rust Personal Tartan Tartan Number: 555. Earliest known date: Oman 1983 Amended sett from T.S.D See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="128.1" cy="108.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/o22o3k7ly2k2n2k2db10dy6k2dy3o2~x2/

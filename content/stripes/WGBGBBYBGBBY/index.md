@@ -18,10 +18,10 @@ WGBGBBYBGBBY
 
 
 
-### W G DB G DB DB LY DB G DB T LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W G DB G DB DB LY DB G DB T LY</span></span>
+### LY T DB G DB LY DB DB G DB G W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY T DB G DB LY DB DB G DB G W</span></span>
 
 | Tartans |
 |---------------|
-| [Holroyd, John (Personal](/setts/s12/ly3t21db12g3db3ly3db3db8g5db2g7w3~x2/)|
-|![Holroyd, John (Personal example sett](/setts/s12/ly3t21db12g3db3ly3db3db8g5db2g7w3~x2/sett.png)|
+| [Holroyd, John (Personal](/setts/s12/w3g7db2g5db8db3ly3db3g3db12t21ly3~x2/)|
+|![Holroyd, John (Personal example sett](/setts/s12/w3g7db2g5db8db3ly3db3g3db12t21ly3~x2/sett.png)|
 

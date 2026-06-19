@@ -2,7 +2,7 @@
 title: "MacAlpine"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGKGKWKGKYK](/stripes/gkgkgkgkwkgkyk/) · **Stripes:** [DG K DG K DG K DG K W K DG K LY K](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="seq">DG K DG K DG K DG K W K DG K LY K</span></span>
+**Bands:** [KYKGKWKGKGKGKG](/stripes/kykgkwkgkgkgkg/) · **Stripes:** [K LY K DG K W K DG K DG K DG K DG](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K LY K DG K W K DG K DG K DG K DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2024
 
 ## Thread count
-G/4 K4 G24 K4 G24 K4 G4 K16 LN4 K16 G4 K16 Y4 K/32
+K/32 Y4 K16 G4 K16 LN4 K16 G4 K4 G24 K4 G24 K4 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -38,17 +38,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Hopetoun Rejected design](/setts/s14/dg11db1k1dg2k12ly1k12dg2k2dg11k2dg2k12ly1~x4/) — ΔT 1.08
 1. [Ross Hunting](/setts/s14/dg4t6dg3t2dg3t2dg3k5dg3k5dg20r3dg4r3~x2/) — ΔT 1.25
 1. [Sawicki, Peter (Personal)](/setts/s13/k10g2k2db2g14lo1g14db2k10g4k2g2k2~x2/) — ΔT 1.32
-1. [Bruce of Crionaich (Personal)](/setts/s11/ly1dg8db2dg2db6dg1db6dg2db2dg8r1~x4/) — ΔT 1.33
+1. [Bruce of Crionaich (Personal)](/setts/s11/r1dg8db2dg2db6dg1db6dg2db2dg8ly1~x4/) — ΔT 1.33
 1. [Stuart/Stewart Hunting #4](/setts/s16/k3dg10ly2dg10k9dg2k9dg10r2dg10k3dg2k5dg2k5dg2~x2/) — ΔT 1.34
-1. [Davidson](/setts/s11/r1db6dg1db1dg8k1dg8k1dg1k6r1~x2/) — ΔT 1.38
-1. [Strath Hallidale (Sutherland)](/setts/s14/g13r2g19k15g5k15g5k15g5k15g19r2g13lb4~x2/) — ΔT 1.39
 1. [Menez Du](/setts/s9/db5k9g7k3g7k3g7k25g3~x2/) — ΔT 1.39
-1. [Wilson's No.167](/setts/s10/k20t2k6g16dp4k9dp4g16k6t2~x2/) — ΔT 1.39
+1. [Strath Hallidale (Sutherland)](/setts/s14/g13r2g19k15g5k15g5k15g5k15g19r2g13lb4~x2/) — ΔT 1.39
+1. [Wilson's No.167](/setts/s10/k20t2k6g16dp4k9~x2/) — ΔT 1.39
+1. [Guildry of Stirling](/setts/s10/g18k3g3k3g3k21g2k21g21k4~x2/) — ΔT 1.41
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g10k3g3k20dp3k5g3k20g3k3g10~x2/"><circle cx="339.0" cy="226.5" r="4" fill="#3465a4"><title>Pike (Personal)</title></circle></a><a href="/setts/s14/dg11db1k1dg2k12ly1k12dg2k2dg11k2dg2k12ly1~x4/"><circle cx="368.7" cy="201.1" r="4" fill="#3465a4"><title>Hopetoun Rejected design</title></circle></a><a href="/setts/s14/dg4t6dg3t2dg3t2dg3k5dg3k5dg20r3dg4r3~x2/"><circle cx="332.5" cy="192.0" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><a href="/setts/s13/k10g2k2db2g14lo1g14db2k10g4k2g2k2~x2/"><circle cx="343.0" cy="195.3" r="4" fill="#3465a4"><title>Sawicki, Peter (Personal)</title></circle></a><a href="/setts/s11/ly1dg8db2dg2db6dg1db6dg2db2dg8r1~x4/"><circle cx="314.8" cy="232.2" r="4" fill="#3465a4"><title>Bruce of Crionaich (Personal)</title></circle></a><a href="/setts/s16/k3dg10ly2dg10k9dg2k9dg10r2dg10k3dg2k5dg2k5dg2~x2/"><circle cx="297.5" cy="249.5" r="4" fill="#3465a4"><title>Stuart/Stewart Hunting #4</title></circle></a><a href="/setts/s11/r1db6dg1db1dg8k1dg8k1dg1k6r1~x2/"><circle cx="269.9" cy="210.1" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/setts/s14/g13r2g19k15g5k15g5k15g5k15g19r2g13lb4~x2/"><circle cx="276.7" cy="223.9" r="4" fill="#3465a4"><title>Strath Hallidale (Sutherland)</title></circle></a><a href="/setts/s9/db5k9g7k3g7k3g7k25g3~x2/"><circle cx="365.0" cy="251.3" r="4" fill="#3465a4"><title>Menez Du</title></circle></a><a href="/setts/s10/k20t2k6g16dp4k9dp4g16k6t2~x2/"><circle cx="267.8" cy="223.5" r="4" fill="#3465a4"><title>Wilson's No.167</title></circle></a><circle cx="321.7" cy="211.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g10k3g3k20dp3k5g3k20g3k3g10~x2/"><circle cx="339.1" cy="226.4" r="4" fill="#3465a4"><title>Pike (Personal)</title></circle></a><a href="/setts/s14/dg11db1k1dg2k12ly1k12dg2k2dg11k2dg2k12ly1~x4/"><circle cx="368.7" cy="201.1" r="4" fill="#3465a4"><title>Hopetoun Rejected design</title></circle></a><a href="/setts/s14/dg4t6dg3t2dg3t2dg3k5dg3k5dg20r3dg4r3~x2/"><circle cx="332.3" cy="191.9" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><a href="/setts/s13/k10g2k2db2g14lo1g14db2k10g4k2g2k2~x2/"><circle cx="343.0" cy="195.3" r="4" fill="#3465a4"><title>Sawicki, Peter (Personal)</title></circle></a><a href="/setts/s11/r1dg8db2dg2db6dg1db6dg2db2dg8ly1~x4/"><circle cx="314.9" cy="232.2" r="4" fill="#3465a4"><title>Bruce of Crionaich (Personal)</title></circle></a><a href="/setts/s16/k3dg10ly2dg10k9dg2k9dg10r2dg10k3dg2k5dg2k5dg2~x2/"><circle cx="297.5" cy="249.5" r="4" fill="#3465a4"><title>Stuart/Stewart Hunting #4</title></circle></a><a href="/setts/s9/db5k9g7k3g7k3g7k25g3~x2/"><circle cx="365.1" cy="251.1" r="4" fill="#3465a4"><title>Menez Du</title></circle></a><a href="/setts/s14/g13r2g19k15g5k15g5k15g5k15g19r2g13lb4~x2/"><circle cx="276.7" cy="223.8" r="4" fill="#3465a4"><title>Strath Hallidale (Sutherland)</title></circle></a><a href="/setts/s10/k20t2k6g16dp4k9~x2/"><circle cx="267.9" cy="223.4" r="4" fill="#3465a4"><title>Wilson's No.167</title></circle></a><a href="/setts/s10/g18k3g3k3g3k21g2k21g21k4~x2/"><circle cx="349.4" cy="231.6" r="4" fill="#3465a4"><title>Guildry of Stirling</title></circle></a><circle cx="321.7" cy="211.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/k8ly1k4dg1k4w1k4dg1k1dg6k1dg6k1dg1~x4/

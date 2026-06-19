@@ -2,7 +2,7 @@
 title: "Cates Hunting"
 date: 2023-03-18
 ---
-**Bands:** [GRGYGKYWR](/stripes/grgygkywr/) · **Stripes:** [DG R DG LY DG K LY W R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG R DG LY DG K LY W R</span></span>
+**Bands:** [RWYKGYGRG](/stripes/rwykgygrg/) · **Stripes:** [R W LY K DG LY DG R DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R W LY K DG LY DG R DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
@@ -39,10 +39,10 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Cates Hunting (Clan)](/setts/s9/dg23r7g25ly5dg17k5ly1w1r1~x2/) — ΔT 0.55
 1. [Dodd of Branford](/setts/s9/g4r2g20db8k8db4lb1lo2k1~x2/) — ΔT 1.00
-1. [Lawson, William](/setts/s8/lo3dg22dg13k15w3k16dg1r3~x2/) — ΔT 1.01
+1. [Lawson, William](/setts/s8/r3dg1k16w3k15dg13dg22lo3~x2/) — ΔT 1.01
 1. [PMMC](/setts/s7/r3k11dg29k28g19ly2b1~x2/) — ΔT 1.06
 1. [Crumlish (2015)](/setts/s9/k44ly2dg27ly2dg16w8dg16w2dg8~x2/) — ΔT 1.07
-1. [McGeachie (Personal)](/setts/s8/ly1k6g32k12r12b9k6w1~x2/) — ΔT 1.10
+1. [McGeachie (Personal)](/setts/s8/w1k6b9r12k12g32k6ly1~x2/) — ΔT 1.10
 1. [PMMC](/setts/s7/r3k11g29k28g19ly2db1~x2/) — ΔT 1.14
 1. [Tooth (Personal)](/setts/s8/y5lo1r2y25k14db19w2y4~x2/) — ΔT 1.20
 1. [McAvoy (Personal)](/setts/s10/ly3dg5k2dg5w1dg17dt4r1dt22w2~x2/) — ΔT 1.26
@@ -50,8 +50,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg23r7g25ly5dg17k5ly1w1r1~x2/"><circle cx="248.7" cy="134.3" r="4" fill="#3465a4"><title>Cates Hunting (Clan)</title></circle></a><a href="/setts/s9/g4r2g20db8k8db4lb1lo2k1~x2/"><circle cx="240.5" cy="136.2" r="4" fill="#3465a4"><title>Dodd of Branford</title></circle></a><a href="/setts/s8/lo3dg22dg13k15w3k16dg1r3~x2/"><circle cx="204.5" cy="162.0" r="4" fill="#3465a4"><title>Lawson, William</title></circle></a><a href="/setts/s7/r3k11dg29k28g19ly2b1~x2/"><circle cx="212.7" cy="141.8" r="4" fill="#3465a4"><title>PMMC</title></circle></a><a href="/setts/s9/k44ly2dg27ly2dg16w8dg16w2dg8~x2/"><circle cx="227.4" cy="152.4" r="4" fill="#3465a4"><title>Crumlish (2015)</title></circle></a><a href="/setts/s8/ly1k6g32k12r12b9k6w1~x2/"><circle cx="212.2" cy="119.7" r="4" fill="#3465a4"><title>McGeachie (Personal)</title></circle></a><a href="/setts/s7/r3k11g29k28g19ly2db1~x2/"><circle cx="212.4" cy="141.8" r="4" fill="#3465a4"><title>PMMC</title></circle></a><a href="/setts/s8/y5lo1r2y25k14db19w2y4~x2/"><circle cx="257.8" cy="137.4" r="4" fill="#3465a4"><title>Tooth (Personal)</title></circle></a><a href="/setts/s10/ly3dg5k2dg5w1dg17dt4r1dt22w2~x2/"><circle cx="259.3" cy="128.6" r="4" fill="#3465a4"><title>McAvoy (Personal)</title></circle></a><a href="/setts/s11/g20k1o1k1g20k10o2k2r2db20w1~x2/"><circle cx="267.6" cy="127.7" r="4" fill="#3465a4"><title>Storrie (Name)</title></circle></a><circle cx="247.1" cy="133.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg23r7g25ly5dg17k5ly1w1r1~x2/"><circle cx="248.6" cy="134.4" r="4" fill="#3465a4"><title>Cates Hunting (Clan)</title></circle></a><a href="/setts/s9/g4r2g20db8k8db4lb1lo2k1~x2/"><circle cx="240.5" cy="136.2" r="4" fill="#3465a4"><title>Dodd of Branford</title></circle></a><a href="/setts/s8/r3dg1k16w3k15dg13dg22lo3~x2/"><circle cx="204.7" cy="162.1" r="4" fill="#3465a4"><title>Lawson, William</title></circle></a><a href="/setts/s7/r3k11dg29k28g19ly2b1~x2/"><circle cx="212.8" cy="141.8" r="4" fill="#3465a4"><title>PMMC</title></circle></a><a href="/setts/s9/k44ly2dg27ly2dg16w8dg16w2dg8~x2/"><circle cx="227.4" cy="152.4" r="4" fill="#3465a4"><title>Crumlish (2015)</title></circle></a><a href="/setts/s8/w1k6b9r12k12g32k6ly1~x2/"><circle cx="212.2" cy="119.8" r="4" fill="#3465a4"><title>McGeachie (Personal)</title></circle></a><a href="/setts/s7/r3k11g29k28g19ly2db1~x2/"><circle cx="212.5" cy="141.8" r="4" fill="#3465a4"><title>PMMC</title></circle></a><a href="/setts/s8/y5lo1r2y25k14db19w2y4~x2/"><circle cx="257.8" cy="137.5" r="4" fill="#3465a4"><title>Tooth (Personal)</title></circle></a><a href="/setts/s10/ly3dg5k2dg5w1dg17dt4r1dt22w2~x2/"><circle cx="259.2" cy="128.6" r="4" fill="#3465a4"><title>McAvoy (Personal)</title></circle></a><a href="/setts/s11/g20k1o1k1g20k10o2k2r2db20w1~x2/"><circle cx="267.5" cy="127.8" r="4" fill="#3465a4"><title>Storrie (Name)</title></circle></a><circle cx="247.1" cy="133.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dg23r7dg25ly5dg17k5ly1w1r1~x2/

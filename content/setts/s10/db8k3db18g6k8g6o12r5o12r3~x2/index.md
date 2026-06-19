@@ -2,7 +2,7 @@
 title: "Longford"
 date: 2023-03-18
 ---
-**Bands:** [BKBGKGRRRR](/stripes/bkbgkgrrrr/) · **Stripes:** [DB K DB G K G O R O R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K DB G K G O R O R</span></span>
+**Bands:** [RRRRGKGBKB](/stripes/rrrrgkgbkb/) · **Stripes:** [R O R O G K G DB K DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R O R O G K G DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,18 +909,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Rainbow (Canada)](/setts/s12/db6g2g4db12r3lr2r8lr3g6lr3g6lr3~x2/) — ΔT 0.87
 1. [Swankie (Personal)](/setts/s12/r6k20y4dy10b21k4b21dy10y4k20r6b3~x2/) — ΔT 0.88
 1. [Unidentified pattern](/setts/s12/db2r4k7r8dg10k4ly2k8db4r4db14r2~x2/) — ΔT 0.95
-1. [Selkirk (Personal) Original](/setts/s8/dp11y2k10g10lo2g10k10y2~x2/) — ΔT 0.95
-1. [Casely Family Tartan Tartan Number: 2146. Earliest known date: 1992 The chiefly sett of a family tartan designed by Harry Lindley for the Scottish Tartans Society, to whom Mr Gordon Casely petitioned for the design in 1990. Formal accreditation was granted in 1993. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/g19r7g19k19g3db19lo5db19g3k19~x2/) — ΔT 0.96
+1. [Selkirk (Personal) Original](/setts/s8/dp11y2k10g10lo2~x2/) — ΔT 0.95
+1. [Casely Family Tartan Tartan Number: 2146. Earliest known date: 1992 The chiefly sett of a family tartan designed by Harry Lindley for the Scottish Tartans Society, to whom Mr Gordon Casely petitioned for the design in 1990. Formal accreditation was granted in 1993. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/k19g3db19lo5db19g3k19g19r7g19~x2/) — ΔT 0.96
 1. [Cooke (Personal)](/setts/s7/k6t2db12g8r5k2g3~x4/) — ΔT 1.01
 1. [MacDonald of Clanranald #3](/setts/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6~x2/) — ΔT 1.08
-1. [Bowie (Lochcarron)](/setts/s12/b10r2b3r4b13r2k13dg13r4dg3lo2dg10~x2/) — ΔT 1.10
-1. [Wilson's No.217](/setts/s8/dp11t2k10g10ly3g10k10t2~x2/) — ΔT 1.11
+1. [Bowie (Lochcarron)](/setts/s12/dg10lo2dg3r4dg13k13r2b13r4b3r2b10~x2/) — ΔT 1.10
+1. [Wilson's No.217](/setts/s8/dp11t2k10g10ly3~x2/) — ΔT 1.11
 1. [Denovan, The Lairdship of (Personal)](/setts/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/) — ΔT 1.11
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db6g2g4db12r3lr2r8lr3g6lr3g6lr3~x2/"><circle cx="69.0" cy="197.4" r="4" fill="#3465a4"><title>Rainbow (Canada)</title></circle></a><a href="/setts/s12/r6k20y4dy10b21k4b21dy10y4k20r6b3~x2/"><circle cx="126.7" cy="196.8" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/setts/s12/db2r4k7r8dg10k4ly2k8db4r4db14r2~x2/"><circle cx="91.6" cy="192.8" r="4" fill="#3465a4"><title>Unidentified pattern</title></circle></a><a href="/setts/s8/dp11y2k10g10lo2g10k10y2~x2/"><circle cx="118.8" cy="236.2" r="4" fill="#3465a4"><title>Selkirk (Personal) Original</title></circle></a><a href="/setts/s10/g19r7g19k19g3db19lo5db19g3k19~x2/"><circle cx="116.3" cy="231.1" r="4" fill="#3465a4"><title>Casely Family Tartan Tartan Number: 2146. Earliest known date: 1992 The chiefly sett of a family tartan designed by Harry Lindley for the Scottish Tartans Society, to whom Mr Gordon Casely petitioned for the design in 1990. Formal accreditation was granted in 1993. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/k6t2db12g8r5k2g3~x4/"><circle cx="114.0" cy="235.1" r="4" fill="#3465a4"><title>Cooke (Personal)</title></circle></a><a href="/setts/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6~x2/"><circle cx="101.1" cy="183.7" r="4" fill="#3465a4"><title>MacDonald of Clanranald #3</title></circle></a><a href="/setts/s12/b10r2b3r4b13r2k13dg13r4dg3lo2dg10~x2/"><circle cx="123.9" cy="201.4" r="4" fill="#3465a4"><title>Bowie (Lochcarron)</title></circle></a><a href="/setts/s8/dp11t2k10g10ly3g10k10t2~x2/"><circle cx="106.2" cy="240.8" r="4" fill="#3465a4"><title>Wilson's No.217</title></circle></a><a href="/setts/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/"><circle cx="134.3" cy="200.2" r="4" fill="#3465a4"><title>Denovan, The Lairdship of (Personal)</title></circle></a><circle cx="88.1" cy="218.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db6g2g4db12r3lr2r8lr3g6lr3g6lr3~x2/"><circle cx="69.1" cy="197.5" r="4" fill="#3465a4"><title>Rainbow (Canada)</title></circle></a><a href="/setts/s12/r6k20y4dy10b21k4b21dy10y4k20r6b3~x2/"><circle cx="126.8" cy="196.9" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/setts/s12/db2r4k7r8dg10k4ly2k8db4r4db14r2~x2/"><circle cx="91.7" cy="192.9" r="4" fill="#3465a4"><title>Unidentified pattern</title></circle></a><a href="/setts/s8/dp11y2k10g10lo2~x2/"><circle cx="119.0" cy="236.2" r="4" fill="#3465a4"><title>Selkirk (Personal) Original</title></circle></a><a href="/setts/s10/k19g3db19lo5db19g3k19g19r7g19~x2/"><circle cx="116.6" cy="231.2" r="4" fill="#3465a4"><title>Casely Family Tartan Tartan Number: 2146. Earliest known date: 1992 The chiefly sett of a family tartan designed by Harry Lindley for the Scottish Tartans Society, to whom Mr Gordon Casely petitioned for the design in 1990. Formal accreditation was granted in 1993. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/k6t2db12g8r5k2g3~x4/"><circle cx="114.2" cy="235.2" r="4" fill="#3465a4"><title>Cooke (Personal)</title></circle></a><a href="/setts/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6~x2/"><circle cx="101.2" cy="183.8" r="4" fill="#3465a4"><title>MacDonald of Clanranald #3</title></circle></a><a href="/setts/s12/dg10lo2dg3r4dg13k13r2b13r4b3r2b10~x2/"><circle cx="123.9" cy="201.5" r="4" fill="#3465a4"><title>Bowie (Lochcarron)</title></circle></a><a href="/setts/s8/dp11t2k10g10ly3~x2/"><circle cx="106.5" cy="240.9" r="4" fill="#3465a4"><title>Wilson's No.217</title></circle></a><a href="/setts/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/"><circle cx="134.5" cy="200.4" r="4" fill="#3465a4"><title>Denovan, The Lairdship of (Personal)</title></circle></a><circle cx="88.2" cy="218.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db8k3db18g6k8g6o12r5o12r3~x2/

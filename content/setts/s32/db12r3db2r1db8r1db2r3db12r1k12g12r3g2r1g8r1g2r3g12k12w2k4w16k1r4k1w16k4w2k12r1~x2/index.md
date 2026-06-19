@@ -2,12 +2,18 @@
 title: "MacDonald, dress"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBRBRBRKGRGRGRGRGKWKWKRKWKWKR](/stripes/brbrbrbrbrkgrgrgrgrgkwkwkrkwkwkr/) · **Stripes:** [DB R DB R DB R DB R DB R K G R G R G R G R G K W K W K R K W K W K R](/stripes/stripes32/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R DB R DB R DB R DB R K G R G R G R G R G K W K W K R K W K W K R</span></span>
+**Bands:** [RKWKWKRKWKWKGRGRGRGRGKRBRBRBRBRB](/stripes/rkwkwkrkwkwkgrgrgrgrgkrbrbrbrbrb/) · **Stripes:** [R K W K W K R K W K W K G R G R G R G R G K R DB R DB R DB R DB R DB](/stripes/stripes32/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R K W K W K R K W K W K G R G R G R G R G K R DB R DB R DB R DB R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [32 band tartan](/bands/bands32/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacDonald, dress
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,15 +925,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Gordon dress](/setts/s23/w2db1w12db2w2k8db8k2db2k2db8k8g8k1ly2k1g8k8w2db2w12db1w2~x2/) — ΔT 1.17
 1. [Anderson 4](/setts/s24/r6g10r2k2r4k2r2g10r4k9r2k9ly2k3ly2k4w6k6t27r2k2r2t10r6~x2/) — ΔT 1.19
 1. [MacDonald Dress #2](/setts/s33/db18r7db2r2db7r2db2r7db18r2k18w8db7w40db2r8db2w40db7w8r2k18dg18r7dg2r2dg6r2dg2r7dg18k18r2~x2/) — ΔT 1.24
-1. [Gordon Dress (Original)](/setts/s23/w2db1w12db2w2k8db8k2db2k2db8k8dg8k1ly2k1dg8k8w2db2w12db1w2~x2/) — ΔT 1.30
+1. [Gordon Dress (Original)](/setts/s23/w2db1w12db2w2k8dg8k1ly2k1dg8k8db8k2db2k2db8k8w2db2w12db1w2~x2/) — ΔT 1.30
 1. [Colquhoun, dress](/setts/s22/k15w3db3w18db2r2db2w19db3w3k15w2g13r2g14w2k15db10k2db2k2db10/) — ΔT 1.30
 1. [Campbell of Loch Neil, dress](/setts/s28/k20g14k2ly4k2g14k10w6db6w18db3w4db3w18db6w6k10g14k2w4k2g14k12db12k2db6k2db12/) — ΔT 1.31
 1. [Campbell of Loch Neil Dress](/setts/s28/k20dg14k2ly4k2dg14k10w6db6w18db3w4db3w18db6w6k10dg14k2w4k2dg14k12db12k2db6k2db12/) — ΔT 1.34
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s32/db12r3db2r1db8r1db2r3db12r1k12g12r3g2r1g8r1g2r3g12k12w2db4w16k1r4k1w16db4w2k12r1~x2/"><circle cx="66.0" cy="82.5" r="4" fill="#3465a4"><title>MacDonald Dress</title></circle></a><a href="/setts/s33/db18r7db2r2db7r2db2r7db18r2k18w8db7w40db2r8db2w40db7w8r2k18g18r7g2r2g6r2g2r7g18k18r2~x2/"><circle cx="92.4" cy="53.5" r="4" fill="#3465a4"><title>MacDonald, dress</title></circle></a><a href="/setts/s36/db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4db4w50k27g3db25g6db26g3k25g28r6g25k26w5db5w52db4r4/"><circle cx="92.3" cy="75.4" r="4" fill="#3465a4"><title>Lauder Dress (Can)</title></circle></a><a href="/setts/s23/w2db1w12db2w2k8db8k2db2k2db8k8g8k1ly2k1g8k8w2db2w12db1w2~x2/"><circle cx="71.9" cy="110.9" r="4" fill="#3465a4"><title>Gordon dress</title></circle></a><a href="/setts/s24/r6g10r2k2r4k2r2g10r4k9r2k9ly2k3ly2k4w6k6t27r2k2r2t10r6~x2/"><circle cx="65.6" cy="79.7" r="4" fill="#3465a4"><title>Anderson 4</title></circle></a><a href="/setts/s33/db18r7db2r2db7r2db2r7db18r2k18w8db7w40db2r8db2w40db7w8r2k18dg18r7dg2r2dg6r2dg2r7dg18k18r2~x2/"><circle cx="99.9" cy="55.0" r="4" fill="#3465a4"><title>MacDonald Dress #2</title></circle></a><a href="/setts/s23/w2db1w12db2w2k8db8k2db2k2db8k8dg8k1ly2k1dg8k8w2db2w12db1w2~x2/"><circle cx="80.1" cy="113.1" r="4" fill="#3465a4"><title>Gordon Dress (Original)</title></circle></a><a href="/setts/s22/k15w3db3w18db2r2db2w19db3w3k15w2g13r2g14w2k15db10k2db2k2db10/"><circle cx="68.3" cy="117.5" r="4" fill="#3465a4"><title>Colquhoun, dress</title></circle></a><a href="/setts/s28/k20g14k2ly4k2g14k10w6db6w18db3w4db3w18db6w6k10g14k2w4k2g14k12db12k2db6k2db12/"><circle cx="38.4" cy="123.4" r="4" fill="#3465a4"><title>Campbell of Loch Neil, dress</title></circle></a><a href="/setts/s28/k20dg14k2ly4k2dg14k10w6db6w18db3w4db3w18db6w6k10dg14k2w4k2dg14k12db12k2db6k2db12/"><circle cx="50.3" cy="127.5" r="4" fill="#3465a4"><title>Campbell of Loch Neil Dress</title></circle></a><circle cx="59.1" cy="78.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s32/db12r3db2r1db8r1db2r3db12r1k12g12r3g2r1g8r1g2r3g12k12w2db4w16k1r4k1w16db4w2k12r1~x2/"><circle cx="65.9" cy="82.7" r="4" fill="#3465a4"><title>MacDonald Dress</title></circle></a><a href="/setts/s33/db18r7db2r2db7r2db2r7db18r2k18w8db7w40db2r8db2w40db7w8r2k18g18r7g2r2g6r2g2r7g18k18r2~x2/"><circle cx="92.2" cy="53.6" r="4" fill="#3465a4"><title>MacDonald, dress</title></circle></a><a href="/setts/s36/db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4db4w50k27g3db25g6db26g3k25g28r6g25k26w5db5w52db4r4/"><circle cx="92.2" cy="75.5" r="4" fill="#3465a4"><title>Lauder Dress (Can)</title></circle></a><a href="/setts/s23/w2db1w12db2w2k8db8k2db2k2db8k8g8k1ly2k1g8k8w2db2w12db1w2~x2/"><circle cx="71.8" cy="111.0" r="4" fill="#3465a4"><title>Gordon dress</title></circle></a><a href="/setts/s24/r6g10r2k2r4k2r2g10r4k9r2k9ly2k3ly2k4w6k6t27r2k2r2t10r6~x2/"><circle cx="65.5" cy="79.9" r="4" fill="#3465a4"><title>Anderson 4</title></circle></a><a href="/setts/s33/db18r7db2r2db7r2db2r7db18r2k18w8db7w40db2r8db2w40db7w8r2k18dg18r7dg2r2dg6r2dg2r7dg18k18r2~x2/"><circle cx="99.6" cy="55.1" r="4" fill="#3465a4"><title>MacDonald Dress #2</title></circle></a><a href="/setts/s23/w2db1w12db2w2k8dg8k1ly2k1dg8k8db8k2db2k2db8k8w2db2w12db1w2~x2/"><circle cx="80.1" cy="113.2" r="4" fill="#3465a4"><title>Gordon Dress (Original)</title></circle></a><a href="/setts/s22/k15w3db3w18db2r2db2w19db3w3k15w2g13r2g14w2k15db10k2db2k2db10/"><circle cx="68.3" cy="117.5" r="4" fill="#3465a4"><title>Colquhoun, dress</title></circle></a><a href="/setts/s28/k20g14k2ly4k2g14k10w6db6w18db3w4db3w18db6w6k10g14k2w4k2g14k12db12k2db6k2db12/"><circle cx="38.4" cy="123.4" r="4" fill="#3465a4"><title>Campbell of Loch Neil, dress</title></circle></a><a href="/setts/s28/k20dg14k2ly4k2dg14k10w6db6w18db3w4db3w18db6w6k10dg14k2w4k2dg14k12db12k2db6k2db12/"><circle cx="50.3" cy="127.6" r="4" fill="#3465a4"><title>Campbell of Loch Neil Dress</title></circle></a><circle cx="59.1" cy="79.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s32/db12r3db2r1db8r1db2r3db12r1k12g12r3g2r1g8r1g2r3g12k12w2k4w16k1r4k1w16k4w2k12r1~x2/

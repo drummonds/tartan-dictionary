@@ -20,7 +20,7 @@ RGYBYGYR
 
 
 
-### M DG LO DB LO DG LO M <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#CA047B"></span><span class="seq">M DG LO DB LO DG LO M</span></span>
+### M LO DG LO DB LO DG M <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="seq">M LO DG LO DB LO DG M</span></span>
 
 | Tartans |
 |---------------|

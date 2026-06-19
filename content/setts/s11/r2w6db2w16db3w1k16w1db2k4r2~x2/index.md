@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Scott,
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -899,7 +908,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-R/4 K8 B4 LN2 K32 LN2 B6 LN32 B4 LN12 R/4
+R/4 LN12 B4 LN32 B6 LN2 K32 LN2 B4 K8 R/4
 ![Sett](sett.png)
 
 ## Palette
@@ -929,8 +938,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dp17lg1dp2k2dp2lg1dp3k8w17lg2~x4/"><circle cx="219.0" cy="123.9" r="4" fill="#3465a4"><title>Kyle, Grape (Dance)</title></circle></a><a href="/setts/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/"><circle cx="190.3" cy="134.6" r="4" fill="#3465a4"><title>McRae, Dress</title></circle></a><a href="/setts/s12/k4w2k9k3r3w3r3w23k10w2k6w2~x2/"><circle cx="212.1" cy="137.2" r="4" fill="#3465a4"><title>Auld Lang Syne, Grey (Fashion)</title></circle></a><a href="/setts/s12/y4k2r7k15r3k3r3k7w28r7w6r2/"><circle cx="177.8" cy="126.8" r="4" fill="#3465a4"><title>Walker, dress</title></circle></a><a href="/setts/s10/lb16k4o1k2lb1k6dg6k1dg6lb1~x4/"><circle cx="194.8" cy="140.0" r="4" fill="#3465a4"><title>Unidentified #49</title></circle></a><a href="/setts/s10/ly1k4db2k10w1db2w10db1w4ly1~x4/"><circle cx="173.6" cy="154.9" r="4" fill="#3465a4"><title>Chieftain</title></circle></a><a href="/setts/s9/t5r5k58r5t5r5w25r5t4/"><circle cx="248.5" cy="122.8" r="4" fill="#3465a4"><title>Meg Merrilees, New (1831)</title></circle></a><a href="/setts/s10/w4r1db20k6w5k4w3k2r1db2~x2/"><circle cx="232.9" cy="126.5" r="4" fill="#3465a4"><title>Scottish Knights Templar, of M.T.S. St Andrew</title></circle></a><a href="/setts/s11/r2k9t4w2k22w2t4w22t2w8r2~x2/"><circle cx="192.2" cy="136.2" r="4" fill="#3465a4"><title>MacRae, Dress</title></circle></a><a href="/setts/s8/ly35db3r4db3r8db30w3db4~x2/"><circle cx="227.6" cy="145.5" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><circle cx="208.6" cy="123.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dp17lg1dp2k2dp2lg1dp3k8w17lg2~x4/"><circle cx="218.8" cy="123.7" r="4" fill="#3465a4"><title>Kyle, Grape (Dance)</title></circle></a><a href="/setts/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/"><circle cx="190.1" cy="134.4" r="4" fill="#3465a4"><title>McRae, Dress</title></circle></a><a href="/setts/s12/k4w2k9k3r3w3r3w23k10w2k6w2~x2/"><circle cx="211.9" cy="137.1" r="4" fill="#3465a4"><title>Auld Lang Syne, Grey (Fashion)</title></circle></a><a href="/setts/s12/y4k2r7k15r3k3r3k7w28r7w6r2/"><circle cx="177.6" cy="126.7" r="4" fill="#3465a4"><title>Walker, dress</title></circle></a><a href="/setts/s10/lb16k4o1k2lb1k6dg6k1dg6lb1~x4/"><circle cx="194.7" cy="139.9" r="4" fill="#3465a4"><title>Unidentified #49</title></circle></a><a href="/setts/s10/ly1k4db2k10w1db2w10db1w4ly1~x4/"><circle cx="173.5" cy="154.8" r="4" fill="#3465a4"><title>Chieftain</title></circle></a><a href="/setts/s9/t5r5k58r5t5r5w25r5t4/"><circle cx="248.3" cy="122.7" r="4" fill="#3465a4"><title>Meg Merrilees, New (1831)</title></circle></a><a href="/setts/s10/w4r1db20k6w5k4w3k2r1db2~x2/"><circle cx="232.9" cy="126.4" r="4" fill="#3465a4"><title>Scottish Knights Templar, of M.T.S. St Andrew</title></circle></a><a href="/setts/s11/r2k9t4w2k22w2t4w22t2w8r2~x2/"><circle cx="192.0" cy="136.0" r="4" fill="#3465a4"><title>MacRae, Dress</title></circle></a><a href="/setts/s8/ly35db3r4db3r8db30w3db4~x2/"><circle cx="227.4" cy="145.3" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><circle cx="208.5" cy="123.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/

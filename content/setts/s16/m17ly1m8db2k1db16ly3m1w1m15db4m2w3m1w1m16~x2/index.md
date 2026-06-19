@@ -2,7 +2,7 @@
 title: "Ruxton, hunting"
 date: 2023-03-18
 ---
-**Bands:** [RWRWRBRWRYBKBRYR](/stripes/rwrwrbrwrybkbryr/) · **Stripes:** [M W M W M DB M W M LY DB K DB M LY M](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#CA047B"></span><span class="seq">M W M W M DB M W M LY DB K DB M LY M</span></span>
+**Bands:** [RYRBKBYRWRBRWRWR](/stripes/ryrbkbyrwrbrwrwr/) · **Stripes:** [M LY M DB K DB LY M W M DB M W M W M](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="seq">M LY M DB K DB LY M W M DB M W M W M</span></span>
 
 
 This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DR/32 LN2 DR2 LN6 DR4 B8 DR30 LN2 DR2 Y6 B32 K2 B4 DR16 Y2 DR/34
+DR/34 Y2 DR16 B4 K2 B32 Y6 DR2 LN2 DR30 B8 DR4 LN6 DR2 LN2 DR/32
 ![Sett](sett.png)
 
 ## Palette
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/r17ly1r8db2k1db16ly3r1w1r15db4r2w3r1w1r16~x2/"><circle cx="383.3" cy="117.1" r="4" fill="#3465a4"><title>Ruxton Hunting</title></circle></a><a href="/setts/s16/m16k1m8db2k1db16k3m1k1m15db4m2k3m1k1m16~x2/"><circle cx="386.0" cy="133.7" r="4" fill="#3465a4"><title>(5) Ruxton hunting</title></circle></a><a href="/setts/s11/r9db1r2db3r28k12lb1r6lb1db6r1~x2/"><circle cx="426.3" cy="117.1" r="4" fill="#3465a4"><title>New York Caledonian Club Dress</title></circle></a><a href="/setts/s12/r23g3ly1g3r2db18r2w1g3r2db2r23~x2/"><circle cx="390.6" cy="102.4" r="4" fill="#3465a4"><title>Mair (Personal)</title></circle></a><a href="/setts/s18/dg4t3dp3dr30g4t3dp3g4dr30g4dp3t3g4dr30dp3t3dg4ly2~x2/"><circle cx="385.5" cy="111.6" r="4" fill="#3465a4"><title>Islay Whisky Club</title></circle></a><a href="/setts/s24/p35g8p6g4p12g4p6g8p54k6p54g8p6g4p12g4p6g8p35t27r4t4r4t27/"><circle cx="350.0" cy="101.0" r="4" fill="#3465a4"><title>Michie</title></circle></a><a href="/setts/s18/db19r2g3r2db2r20g1ly1r1g2r2db18r2g2r22g3w1r3~x2/"><circle cx="327.2" cy="91.0" r="4" fill="#3465a4"><title>Hebridean, South Uist</title></circle></a><a href="/setts/s11/g4r34dt20r4dt8r6db2r5dt2r3g4/"><circle cx="366.5" cy="144.7" r="4" fill="#3465a4"><title>Hughes (Welsh Name)</title></circle></a><a href="/setts/s12/p10k1dg4k1p10r4p10k1r4k1p10lo4~x2/"><circle cx="323.9" cy="156.0" r="4" fill="#3465a4"><title>Child, The</title></circle></a><a href="/setts/s12/r2r2r14db2r2db5r2db2r2db12r1ly1~x4/"><circle cx="327.9" cy="147.4" r="4" fill="#3465a4"><title>Cutter (Name)</title></circle></a><circle cx="387.6" cy="123.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/r17ly1r8db2k1db16ly3r1w1r15db4r2w3r1w1r16~x2/"><circle cx="382.9" cy="117.1" r="4" fill="#3465a4"><title>Ruxton Hunting</title></circle></a><a href="/setts/s16/m16k1m8db2k1db16k3m1k1m15db4m2k3m1k1m16~x2/"><circle cx="385.8" cy="133.7" r="4" fill="#3465a4"><title>(5) Ruxton hunting</title></circle></a><a href="/setts/s11/r9db1r2db3r28k12lb1r6lb1db6r1~x2/"><circle cx="426.0" cy="117.0" r="4" fill="#3465a4"><title>New York Caledonian Club Dress</title></circle></a><a href="/setts/s12/r23g3ly1g3r2db18r2w1g3r2db2r23~x2/"><circle cx="390.1" cy="102.3" r="4" fill="#3465a4"><title>Mair (Personal)</title></circle></a><a href="/setts/s18/dg4t3dp3dr30g4t3dp3g4dr30g4dp3t3g4dr30dp3t3dg4ly2~x2/"><circle cx="385.2" cy="111.7" r="4" fill="#3465a4"><title>Islay Whisky Club</title></circle></a><a href="/setts/s24/p35g8p6g4p12g4p6g8p54k6p54g8p6g4p12g4p6g8p35t27r4t4r4t27/"><circle cx="349.7" cy="101.0" r="4" fill="#3465a4"><title>Michie</title></circle></a><a href="/setts/s18/db19r2g3r2db2r20g1ly1r1g2r2db18r2g2r22g3w1r3~x2/"><circle cx="326.8" cy="91.0" r="4" fill="#3465a4"><title>Hebridean, South Uist</title></circle></a><a href="/setts/s11/g4r34dt20r4dt8r6db2r5dt2r3g4/"><circle cx="366.1" cy="144.7" r="4" fill="#3465a4"><title>Hughes (Welsh Name)</title></circle></a><a href="/setts/s12/p10k1dg4k1p10r4p10k1r4k1p10lo4~x2/"><circle cx="323.6" cy="156.0" r="4" fill="#3465a4"><title>Child, The</title></circle></a><a href="/setts/s12/r2r2r14db2r2db5r2db2r2db12r1ly1~x4/"><circle cx="327.6" cy="147.3" r="4" fill="#3465a4"><title>Cutter (Name)</title></circle></a><circle cx="387.3" cy="123.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/m17ly1m8db2k1db16ly3m1w1m15db4m2w3m1w1m16~x2/

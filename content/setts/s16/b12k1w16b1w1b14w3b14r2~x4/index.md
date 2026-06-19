@@ -1,0 +1,59 @@
+---
+title: "Orlando Dress, City of"
+date: 2023-03-18
+---
+**Bands:** [KWBWBWBRBWBWBWKB](/stripes/kwbwbwbrbwbwbwkb/) · **Stripes:** [K W B W B W B R B W B W B W K B](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K W B W B W B R B W B W B W K B</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3264
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [3264](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3264)
+- Scottish Tartans Authority (ITI): 6053
+
+## Thread count
+B/48 YY4 Wa64 B4 Wa4 B56 Wa12 B56 R8 B56 Wa12 B56 Wa4 B4 Wa64 YY/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#1870A4;"><span style="color:#1870A4;filter:grayscale(1) invert(1) contrast(100);">#1870A4</span></code> `#1870A4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
+| DB | <code style="background-color:#1C0070;"><span style="color:#1C0070;filter:grayscale(1) invert(1) contrast(100);">#1C0070</span></code> `#1C0070` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
+| DBa | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| DR | <code style="background-color:#880000;"><span style="color:#880000;filter:grayscale(1) invert(1) contrast(100);">#880000</span></code> `#880000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
+| DY | <code style="background-color:#D09800;"><span style="color:#D09800;filter:grayscale(1) invert(1) contrast(100);">#D09800</span></code> `#D09800` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.12 |
+| G | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+| Wa | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `#FCFCFC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Orlando Dress, City of (District)](/setts/s9/b12ly1w16b1w1b14w3b14r2~x4/) — ΔT 1.21
+1. [Beck (Personal)](/setts/s15/k4w2t15r6t25w2k4w2t15w4k2w4k2w4k2~x2/) — ΔT 1.29
+1. [Beck Dress (Personal)](/setts/s15/k4t2w15r6w25t2k4t2w15t4k2t4k2t4k2~x2/) — ΔT 1.57
+1. [Alaska Highlanders P & D (Corporate)](/setts/s8/db9lb27db2ly4db2lb10db2w3~x2/) — ΔT 1.64
+1. [Alaska Highlanders Pipes & Drums Corporate Tartan Tartan Number: 8433. Earliest known date: pre 2001 Found on http://www.alaskahighlanders.com/alaska-flag-tartan: Captain Cook's own Alaska Highlanders was reformed in 1987 by the late great Pipe Major Iain MacPherson. We are a dedicated pipe band that is open to new discovery and experiences. We have played all over Alaska, Scotland twice and London in 2005. Our band has been represented at the Pipefest in 1995, 2000 and 2005. On August 23, 2005 (when his family and fellow Scots were finally allowed to hold a public funeral and memorial service 700 years to the day after his execution, we had the honor of escorting the spirit of the braveheart Sir William Wallace on his first mile home to Scotland. At the invitation of Clan Wallace Society convienor David Ross provided an Honour Guard with swords and led the funeral procession from the site of his execution thru the streets of London to the London Welsh Center where a Wake was held. The Highlanders wear the Alaska Flag Tartan and our uniforms reflect those worn by those pipers and drummers who sailed with Captain James Cook in 1778, when he discovered Alaska. (State of Alaska) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/db9lb27db2k4db2lb10db2w3~x2/) — ΔT 1.64
+1. [Galloway (Dance)](/setts/s10/r3b2w35b35r2g3~x2/) — ΔT 1.71
+1. [Avalon - Carroll House](/setts/s14/w3k1b15k6b5k3b8k2b5ly3w2ly4k1w3~x2/) — ΔT 1.82
+1. [Traynor](/setts/s10/ly2lb2db3lb30db4lb3db4lb3db18lb2~x2/) — ΔT 1.82
+1. [Carlisle (Family)](/setts/s12/b33lo6r3lo6k3lo15b32~x4/) — ΔT 1.83
+1. [International Police Association](/setts/s18/r2lb1r1lb10dt1lb1dt12lb1dt2ly2~x4/) — ΔT 1.87
+
+## Neighbour map
+
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/b12ly1w16b1w1b14w3b14r2~x4/"><circle cx="340.6" cy="160.1" r="4" fill="#3465a4"><title>Orlando Dress, City of (District)</title></circle></a><a href="/setts/s15/k4w2t15r6t25w2k4w2t15w4k2w4k2w4k2~x2/"><circle cx="286.9" cy="136.9" r="4" fill="#3465a4"><title>Beck (Personal)</title></circle></a><a href="/setts/s15/k4t2w15r6w25t2k4t2w15t4k2t4k2t4k2~x2/"><circle cx="272.6" cy="118.1" r="4" fill="#3465a4"><title>Beck Dress (Personal)</title></circle></a><a href="/setts/s8/db9lb27db2ly4db2lb10db2w3~x2/"><circle cx="333.6" cy="153.4" r="4" fill="#3465a4"><title>Alaska Highlanders P &amp; D (Corporate)</title></circle></a><a href="/setts/s8/db9lb27db2k4db2lb10db2w3~x2/"><circle cx="320.1" cy="150.0" r="4" fill="#3465a4"><title>Alaska Highlanders Pipes &amp; Drums Corporate Tartan Tartan Number: 8433. Earliest known date: pre 2001 Found on http://www.alaskahighlanders.com/alaska-flag-tartan: Captain Cook's own Alaska Highlanders was reformed in 1987 by the late great Pipe Major Iain MacPherson. We are a dedicated pipe band that is open to new discovery and experiences. We have played all over Alaska, Scotland twice and London in 2005. Our band has been represented at the Pipefest in 1995, 2000 and 2005. On August 23, 2005 (when his family and fellow Scots were finally allowed to hold a public funeral and memorial service 700 years to the day after his execution, we had the honor of escorting the spirit of the braveheart Sir William Wallace on his first mile home to Scotland. At the invitation of Clan Wallace Society convienor David Ross provided an Honour Guard with swords and led the funeral procession from the site of his execution thru the streets of London to the London Welsh Center where a Wake was held. The Highlanders wear the Alaska Flag Tartan and our uniforms reflect those worn by those pipers and drummers who sailed with Captain James Cook in 1778, when he discovered Alaska. (State of Alaska) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r3b2w35b35r2g3~x2/"><circle cx="271.2" cy="131.2" r="4" fill="#3465a4"><title>Galloway (Dance)</title></circle></a><a href="/setts/s14/w3k1b15k6b5k3b8k2b5ly3w2ly4k1w3~x2/"><circle cx="233.0" cy="148.3" r="4" fill="#3465a4"><title>Avalon - Carroll House</title></circle></a><a href="/setts/s10/ly2lb2db3lb30db4lb3db4lb3db18lb2~x2/"><circle cx="346.1" cy="149.6" r="4" fill="#3465a4"><title>Traynor</title></circle></a><a href="/setts/s12/b33lo6r3lo6k3lo15b32~x4/"><circle cx="259.1" cy="154.5" r="4" fill="#3465a4"><title>Carlisle (Family)</title></circle></a><a href="/setts/s18/r2lb1r1lb10dt1lb1dt12lb1dt2ly2~x4/"><circle cx="255.1" cy="122.0" r="4" fill="#3465a4"><title>International Police Association</title></circle></a><circle cx="312.4" cy="131.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s16/b12k1w16b1w1b14w3b14r2~x4/

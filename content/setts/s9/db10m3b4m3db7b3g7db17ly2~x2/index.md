@@ -2,7 +2,7 @@
 title: "Ayrshire Tourist Board"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBBGBY](/stripes/brbrbbgby/) · **Stripes:** [DB M B M DB B G DB LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB M B M DB B G DB LY</span></span>
+**Bands:** [YBGBBRBRB](/stripes/ybgbbrbrb/) · **Stripes:** [LY DB G B DB M B M DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB G B DB M B M DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
@@ -45,19 +45,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Jethart (District)](/setts/s9/k22b16r3b16k2b16g3b3lb5~x2/) — ΔT 0.63
 1. [Jethart](/setts/s9/k22db16r3db16k3db16g3db3b5~x2/) — ΔT 1.03
-1. [Baptist Union of Scotland](/setts/s6/lb4db23g16k4db23lo4/) — ΔT 1.13
+1. [Baptist Union of Scotland](/setts/s6/lo4db23k4g16db23lb4/) — ΔT 1.13
 1. [Isle of Harris](/setts/s10/db10k1g2k2t3k2g2k1db10w1~x8/) — ΔT 1.24
 1. [Woodcock (2014)](/setts/s7/db30dp9g6dp9r4db17w5~x2/) — ΔT 1.31
 1. [Grainger (Name)](/setts/s7/db36r4db6g18db15k18w4~x2/) — ΔT 1.32
 1. [Goodwin, Robert Richard (Personal)](/setts/s12/k5lb2b10lb2k5db15k2db15k5db10lb1ly2~x2/) — ΔT 1.40
 1. [Fitzgerald, Blue](/setts/s9/r3db21r3db3k13db13t3db3w2~x2/) — ΔT 1.41
 1. [Stone of Destiny](/setts/s9/db4ly2db17k2r4k2db3k11db3~x2/) — ΔT 1.43
-1. [Massachusetts (Unofficial)](/setts/s6/lb1db5lo3k5db12r1~x4/) — ΔT 1.43
+1. [Massachusetts (Unofficial)](/setts/s6/r1db12k5lo3db5lb1~x4/) — ΔT 1.43
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k22b16r3b16k2b16g3b3lb5~x2/"><circle cx="284.3" cy="187.0" r="4" fill="#3465a4"><title>Jethart (District)</title></circle></a><a href="/setts/s9/k22db16r3db16k3db16g3db3b5~x2/"><circle cx="297.0" cy="221.7" r="4" fill="#3465a4"><title>Jethart</title></circle></a><a href="/setts/s6/lb4db23g16k4db23lo4/"><circle cx="274.6" cy="235.0" r="4" fill="#3465a4"><title>Baptist Union of Scotland</title></circle></a><a href="/setts/s10/db10k1g2k2t3k2g2k1db10w1~x8/"><circle cx="285.8" cy="172.0" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/setts/s7/db30dp9g6dp9r4db17w5~x2/"><circle cx="282.2" cy="213.4" r="4" fill="#3465a4"><title>Woodcock (2014)</title></circle></a><a href="/setts/s7/db36r4db6g18db15k18w4~x2/"><circle cx="263.9" cy="213.7" r="4" fill="#3465a4"><title>Grainger (Name)</title></circle></a><a href="/setts/s12/k5lb2b10lb2k5db15k2db15k5db10lb1ly2~x2/"><circle cx="263.1" cy="168.0" r="4" fill="#3465a4"><title>Goodwin, Robert Richard (Personal)</title></circle></a><a href="/setts/s9/r3db21r3db3k13db13t3db3w2~x2/"><circle cx="306.4" cy="174.4" r="4" fill="#3465a4"><title>Fitzgerald, Blue</title></circle></a><a href="/setts/s9/db4ly2db17k2r4k2db3k11db3~x2/"><circle cx="308.1" cy="207.1" r="4" fill="#3465a4"><title>Stone of Destiny</title></circle></a><a href="/setts/s6/lb1db5lo3k5db12r1~x4/"><circle cx="324.4" cy="198.8" r="4" fill="#3465a4"><title>Massachusetts (Unofficial)</title></circle></a><circle cx="274.7" cy="203.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k22b16r3b16k2b16g3b3lb5~x2/"><circle cx="284.3" cy="186.9" r="4" fill="#3465a4"><title>Jethart (District)</title></circle></a><a href="/setts/s9/k22db16r3db16k3db16g3db3b5~x2/"><circle cx="297.2" cy="221.6" r="4" fill="#3465a4"><title>Jethart</title></circle></a><a href="/setts/s6/lo4db23k4g16db23lb4/"><circle cx="274.8" cy="234.8" r="4" fill="#3465a4"><title>Baptist Union of Scotland</title></circle></a><a href="/setts/s10/db10k1g2k2t3k2g2k1db10w1~x8/"><circle cx="285.8" cy="171.9" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/setts/s7/db30dp9g6dp9r4db17w5~x2/"><circle cx="282.2" cy="213.4" r="4" fill="#3465a4"><title>Woodcock (2014)</title></circle></a><a href="/setts/s7/db36r4db6g18db15k18w4~x2/"><circle cx="264.0" cy="213.6" r="4" fill="#3465a4"><title>Grainger (Name)</title></circle></a><a href="/setts/s12/k5lb2b10lb2k5db15k2db15k5db10lb1ly2~x2/"><circle cx="263.2" cy="168.0" r="4" fill="#3465a4"><title>Goodwin, Robert Richard (Personal)</title></circle></a><a href="/setts/s9/r3db21r3db3k13db13t3db3w2~x2/"><circle cx="306.4" cy="174.3" r="4" fill="#3465a4"><title>Fitzgerald, Blue</title></circle></a><a href="/setts/s9/db4ly2db17k2r4k2db3k11db3~x2/"><circle cx="308.1" cy="207.0" r="4" fill="#3465a4"><title>Stone of Destiny</title></circle></a><a href="/setts/s6/r1db12k5lo3db5lb1~x4/"><circle cx="324.5" cy="198.6" r="4" fill="#3465a4"><title>Massachusetts (Unofficial)</title></circle></a><circle cx="274.8" cy="203.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/db10m3b4m3db7b3g7db17ly2~x2/

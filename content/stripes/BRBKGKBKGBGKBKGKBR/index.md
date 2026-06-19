@@ -18,10 +18,10 @@ BRBKGKBKGBGKBKGKBR
 
 
 
-### B R DB K G K B K G B G K B K G K DB R <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">B R DB K G K B K G B G K B K G K DB R</span></span>
+### R DB K G K B K G B G K B K G K DB R B <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R DB K G K B K G B G K B K G K DB R B</span></span>
 
 | Tartans |
 |---------------|
-| [South Australia](/setts/s18/b13r2db18k2g7k2b7k2g19b13g19k2b7k2g7k2db18r2~x2/)|
-|![South Australia example sett](/setts/s18/b13r2db18k2g7k2b7k2g19b13g19k2b7k2g7k2db18r2~x2/sett.png)|
+| [South Australia](/setts/s18/b13g19k2b7k2g7k2db18r2b13~x2/)|
+|![South Australia example sett](/setts/s18/b13g19k2b7k2g7k2db18r2b13~x2/sett.png)|
 

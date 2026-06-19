@@ -2,7 +2,7 @@
 title: "Wombles"
 date: 2023-03-18
 ---
-**Bands:** [WBWGWBRWRBWYWBW](/stripes/wbwgwbrwrbwywbw/) · **Stripes:** [W DB W G W DB R W R DB W LO W DB W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB W G W DB R W R DB W LO W DB W</span></span>
+**Bands:** [WBWYWBRWRBWGWBW](/stripes/wbwywbrwrbwgwbw/) · **Stripes:** [W DB W LO W DB R W R DB W G W DB W](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB W LO W DB R W R DB W G W DB W</span></span>
 
 
 This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-LN/10 B4 LN2 G16 LN2 B4 DR4 LN2 DR4 B4 LN2 O16 LN2 B4 LN/10
+LN/10 B4 LN2 O16 LN2 B4 DR4 LN2 DR4 B4 LN2 G16 LN2 B4 LN/10
 ![Sett](sett.png)
 
 ## Palette
@@ -919,12 +922,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Anderson Dress](/setts/s17/r3w5r2w12ly1k2ly1w2ly1k2ly2k2r1dg4r2dg4r2~x2/) — ΔT 1.08
 1. [Wombles 1 (Corporate)](/setts/s15/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/) — ΔT 1.11
 1. [Carnegie Dress #1 (Fashion)](/setts/s13/w8r2w2r6w13r2k13g13r6g2r2g4ly3~x2/) — ΔT 1.13
-1. [Robertson dress Hunting](/setts/s15/w3dg2r8w14b3r3b20r3dg20r3b3w14r8dg2w3~x2/) — ΔT 1.14
+1. [Robertson dress Hunting](/setts/s15/w3dg2r8w14b3r3dg20r3b20r3b3w14r8dg2w3~x2/) — ΔT 1.14
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/w5db2w1g8w1db2m2w1m2db2w1lo8w1db2w5~x2/"><circle cx="91.1" cy="135.7" r="4" fill="#3465a4"><title>Wombles Corporate Tartan Tartan Number: 1783. Earliest known date: pre 2003 Wombles International, of Jacob's Well Mews, London, patented this design which is a variant of the Jacobite tartan. Wombles are television puppet characters. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/w5db2w1g8w1db2m2w1m2db2w1lo8w1db2w5~x4/"><circle cx="80.7" cy="129.2" r="4" fill="#3465a4"><title>Wombles 5 (Corporate)</title></circle></a><a href="/setts/s17/w4t1dg9t9r9t1ly4t1r9t9dg1t1dg1t1dg4t1w4~x2/"><circle cx="107.9" cy="130.7" r="4" fill="#3465a4"><title>Alaskan Scottish</title></circle></a><a href="/setts/s18/w28r5lb3r5k21r5lb28w3ly5w3lb28r5k21r5lb3r5w28r5~x2/"><circle cx="80.6" cy="110.6" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn Dress</title></circle></a><a href="/setts/s15/w4g3r10w20db4r4db26r4g26r4db4w20r10g3w4~x2/"><circle cx="118.5" cy="147.5" r="4" fill="#3465a4"><title>Robertson, dress hunting</title></circle></a><a href="/setts/s16/w11y4w4db2w4y4w11r26y4w3y4w2db14dg10w16dg6~x2/"><circle cx="124.6" cy="111.0" r="4" fill="#3465a4"><title>Stuart-Houghton Dress (Personal)</title></circle></a><a href="/setts/s17/r3w5r2w12ly1k2ly1w2ly1k2ly2k2r1dg4r2dg4r2~x2/"><circle cx="124.8" cy="102.1" r="4" fill="#3465a4"><title>Anderson Dress</title></circle></a><a href="/setts/s15/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/"><circle cx="69.2" cy="156.9" r="4" fill="#3465a4"><title>Wombles 1 (Corporate)</title></circle></a><a href="/setts/s13/w8r2w2r6w13r2k13g13r6g2r2g4ly3~x2/"><circle cx="54.9" cy="149.7" r="4" fill="#3465a4"><title>Carnegie Dress #1 (Fashion)</title></circle></a><a href="/setts/s15/w3dg2r8w14b3r3b20r3dg20r3b3w14r8dg2w3~x2/"><circle cx="107.8" cy="136.6" r="4" fill="#3465a4"><title>Robertson dress Hunting</title></circle></a><circle cx="92.7" cy="135.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/w5db2w1g8w1db2m2w1m2db2w1lo8w1db2w5~x2/"><circle cx="90.9" cy="135.8" r="4" fill="#3465a4"><title>Wombles Corporate Tartan Tartan Number: 1783. Earliest known date: pre 2003 Wombles International, of Jacob's Well Mews, London, patented this design which is a variant of the Jacobite tartan. Wombles are television puppet characters. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/w5db2w1g8w1db2m2w1m2db2w1lo8w1db2w5~x4/"><circle cx="80.5" cy="129.2" r="4" fill="#3465a4"><title>Wombles 5 (Corporate)</title></circle></a><a href="/setts/s17/w4t1dg9t9r9t1ly4t1r9t9dg1t1dg1t1dg4t1w4~x2/"><circle cx="107.7" cy="130.8" r="4" fill="#3465a4"><title>Alaskan Scottish</title></circle></a><a href="/setts/s18/w28r5lb3r5k21r5lb28w3ly5w3lb28r5k21r5lb3r5w28r5~x2/"><circle cx="80.4" cy="110.6" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn Dress</title></circle></a><a href="/setts/s15/w4g3r10w20db4r4db26r4g26r4db4w20r10g3w4~x2/"><circle cx="118.3" cy="147.5" r="4" fill="#3465a4"><title>Robertson, dress hunting</title></circle></a><a href="/setts/s16/w11y4w4db2w4y4w11r26y4w3y4w2db14dg10w16dg6~x2/"><circle cx="124.3" cy="111.0" r="4" fill="#3465a4"><title>Stuart-Houghton Dress (Personal)</title></circle></a><a href="/setts/s17/r3w5r2w12ly1k2ly1w2ly1k2ly2k2r1dg4r2dg4r2~x2/"><circle cx="124.5" cy="102.1" r="4" fill="#3465a4"><title>Anderson Dress</title></circle></a><a href="/setts/s15/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/"><circle cx="68.9" cy="156.9" r="4" fill="#3465a4"><title>Wombles 1 (Corporate)</title></circle></a><a href="/setts/s13/w8r2w2r6w13r2k13g13r6g2r2g4ly3~x2/"><circle cx="54.7" cy="149.7" r="4" fill="#3465a4"><title>Carnegie Dress #1 (Fashion)</title></circle></a><a href="/setts/s15/w3dg2r8w14b3r3dg20r3b20r3b3w14r8dg2w3~x2/"><circle cx="107.5" cy="136.6" r="4" fill="#3465a4"><title>Robertson dress Hunting</title></circle></a><circle cx="92.5" cy="135.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x2/

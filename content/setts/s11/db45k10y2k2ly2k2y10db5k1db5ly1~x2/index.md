@@ -2,7 +2,7 @@
 title: "Skye"
 date: 2023-03-18
 ---
-**Bands:** [BKGKYKGBKBY](/stripes/bkgkykgbkby/) · **Stripes:** [DB K Y K LY K Y DB K DB LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB K Y K LY K Y DB K DB LY</span></span>
+**Bands:** [YBKBGKYKGKB](/stripes/ybkbgkykgkb/) · **Stripes:** [LY DB K DB Y K LY K Y K DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB K DB Y K LY K Y K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -909,14 +912,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Racing Stewart](/setts/s10/db54lb3k5lb1k2lb1k2g8r8lb2~x2/) — ΔT 1.26
 1. [Fred Perry](/setts/s16/db36r4db3w3db36g6w1g2w1g10r1g10w1g2w1g6~x2/) — ΔT 1.26
 1. [Estonian National Tartan (District)](/setts/s10/k53b3k2w1k2b3k5b32ly1r3~x2/) — ΔT 1.31
-1. [Scottish Bluebell (Corporate)](/setts/s13/db80k34w4b8w4k8w4b8w4k34db80w1b8/) — ΔT 1.31
+1. [Scottish Bluebell (Corporate)](/setts/s13/db80k34w4b8w4k8w4b8w4k34db80w1b8~x2/) — ΔT 1.31
 1. [Brooks Brothers Signature](/setts/s9/db5ly1g7r1db45r5ly3db4ly3~x2/) — ΔT 1.35
 1. [Calum's Cabin](/setts/s9/db32ly4db12db2db4db2o16db67ly6/) — ΔT 1.36
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db45k10o2k2ly2k2o10db5k1db5ly1~x2/"><circle cx="454.4" cy="107.5" r="4" fill="#3465a4"><title>Skye District Tartan Tartan Number: 385. Earliest known date: 1984 See also 'Isle of Skye'. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/db62r1db2r1db4k14g4w2g6k4~x2/"><circle cx="451.6" cy="78.2" r="4" fill="#3465a4"><title>Parr</title></circle></a><a href="/setts/s10/db62r1db2r1db4k14g4k2g6k4~x2/"><circle cx="458.2" cy="82.2" r="4" fill="#3465a4"><title>Park</title></circle></a><a href="/setts/s10/w6db32o3db3o1db3o2db4db1ly2~x2/"><circle cx="414.8" cy="91.8" r="4" fill="#3465a4"><title>X Marks the Scot</title></circle></a><a href="/setts/s10/db54lb3k5lb1k2lb1k2g8r8lb2~x2/"><circle cx="416.1" cy="77.7" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/setts/s16/db36r4db3w3db36g6w1g2w1g10r1g10w1g2w1g6~x2/"><circle cx="388.6" cy="93.3" r="4" fill="#3465a4"><title>Fred Perry</title></circle></a><a href="/setts/s10/k53b3k2w1k2b3k5b32ly1r3~x2/"><circle cx="409.8" cy="86.2" r="4" fill="#3465a4"><title>Estonian National Tartan (District)</title></circle></a><a href="/setts/s13/db80k34w4b8w4k8w4b8w4k34db80w1b8/"><circle cx="391.8" cy="109.3" r="4" fill="#3465a4"><title>Scottish Bluebell (Corporate)</title></circle></a><a href="/setts/s9/db5ly1g7r1db45r5ly3db4ly3~x2/"><circle cx="482.1" cy="103.8" r="4" fill="#3465a4"><title>Brooks Brothers Signature</title></circle></a><a href="/setts/s9/db32ly4db12db2db4db2o16db67ly6/"><circle cx="467.9" cy="140.7" r="4" fill="#3465a4"><title>Calum's Cabin</title></circle></a><circle cx="430.0" cy="96.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db45k10o2k2ly2k2o10db5k1db5ly1~x2/"><circle cx="454.2" cy="107.3" r="4" fill="#3465a4"><title>Skye District Tartan Tartan Number: 385. Earliest known date: 1984 See also 'Isle of Skye'. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/db62r1db2r1db4k14g4w2g6k4~x2/"><circle cx="451.4" cy="78.0" r="4" fill="#3465a4"><title>Parr</title></circle></a><a href="/setts/s10/db62r1db2r1db4k14g4k2g6k4~x2/"><circle cx="458.0" cy="82.1" r="4" fill="#3465a4"><title>Park</title></circle></a><a href="/setts/s10/w6db32o3db3o1db3o2db4db1ly2~x2/"><circle cx="414.6" cy="91.6" r="4" fill="#3465a4"><title>X Marks the Scot</title></circle></a><a href="/setts/s10/db54lb3k5lb1k2lb1k2g8r8lb2~x2/"><circle cx="416.0" cy="77.7" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/setts/s16/db36r4db3w3db36g6w1g2w1g10r1g10w1g2w1g6~x2/"><circle cx="388.4" cy="93.1" r="4" fill="#3465a4"><title>Fred Perry</title></circle></a><a href="/setts/s10/k53b3k2w1k2b3k5b32ly1r3~x2/"><circle cx="409.6" cy="86.1" r="4" fill="#3465a4"><title>Estonian National Tartan (District)</title></circle></a><a href="/setts/s13/db80k34w4b8w4k8w4b8w4k34db80w1b8~x2/"><circle cx="391.7" cy="109.2" r="4" fill="#3465a4"><title>Scottish Bluebell (Corporate)</title></circle></a><a href="/setts/s9/db5ly1g7r1db45r5ly3db4ly3~x2/"><circle cx="481.9" cy="103.5" r="4" fill="#3465a4"><title>Brooks Brothers Signature</title></circle></a><a href="/setts/s9/db32ly4db12db2db4db2o16db67ly6/"><circle cx="467.7" cy="140.5" r="4" fill="#3465a4"><title>Calum's Cabin</title></circle></a><circle cx="429.8" cy="96.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db45k10y2k2ly2k2y10db5k1db5ly1~x2/

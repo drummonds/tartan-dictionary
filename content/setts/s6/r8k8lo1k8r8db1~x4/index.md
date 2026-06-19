@@ -2,7 +2,7 @@
 title: "Skinner"
 date: 2023-03-18
 ---
-**Bands:** [BRKYKR](/stripes/brkykr/) · **Stripes:** [DB R K LO K R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R K LO K R</span></span>
+**Bands:** [RKYKRB](/stripes/rkykrb/) · **Stripes:** [R K LO K R DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R K LO K R DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2341
 
 ## Thread count
-DBa/4 R32 K32 DY4 K32 R/32
+R/32 K32 DY4 K32 R32 DBa/4
 ![Sett](sett.png)
 
 ## Palette
@@ -41,7 +41,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DBa/4 R32 K32 DY4 K32 R/32 tartan")
+![Tartan detail](tartan.png "R/32 K32 DY4 K32 R32 DBa/4 tartan")
 
 ## Nearest tartans
 
@@ -53,15 +53,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Munro (Black and Red)](/setts/s5/k18r4k18r32w3~x2/) — ΔT 1.24
 1. [Skinner (Name)](/setts/s4/db1r8k8lo1~x4/) — ΔT 1.24
 1. [MacDonald of Ardnamurchan (Clan?)](/setts/s7/r4k8r4k8r12k1ly2~x4/) — ΔT 1.25
-1. [Haig & Haig Whisky](/setts/s8/r26k18r7k4ly4k4r7k18~x2/) — ΔT 1.28
-1. [Bodog.com](/setts/s5/lb3k10r25k25r3~x2/) — ΔT 1.31
+1. [Haig & Haig Whisky](/setts/s8/r26k18r7k4ly4~x2/) — ΔT 1.28
+1. [Bodog.com](/setts/s5/r3k25r25k10lb3~x2/) — ΔT 1.31
 1. [bodog.com Corporate Tartan Tartan Number: 6889. Earliest known date: 2006 Corporate brand name and colours, red, black and silver grey used to support brand identification. Company owner and executive is Scottish. First tartan to be name after a web site and first ever tartan for Costa Rica. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/k25r25k10lb3k10r25k25r3~x2/) — ΔT 1.33
 1. [MacKeane (Clan?)](/setts/s7/r4k8r4k8r12k1ly1~x2/) — ΔT 1.34
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r8k8ly1k8r8w1~x4/"><circle cx="246.2" cy="226.8" r="4" fill="#3465a4"><title>Connel</title></circle></a><a href="/setts/s7/r8db3k4dg6r4k1r4~x2/"><circle cx="219.5" cy="231.9" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s6/k3r15k11ly2k4r3~x2/"><circle cx="288.1" cy="227.9" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><a href="/setts/s5/k18r4k18r32w3~x2/"><circle cx="301.8" cy="227.4" r="4" fill="#3465a4"><title>Munro (Black and Red)</title></circle></a><a href="/setts/s4/db1r8k8lo1~x4/"><circle cx="258.7" cy="228.8" r="4" fill="#3465a4"><title>Skinner (Name)</title></circle></a><a href="/setts/s7/r4k8r4k8r12k1ly2~x4/"><circle cx="306.1" cy="215.6" r="4" fill="#3465a4"><title>MacDonald of Ardnamurchan (Clan?)</title></circle></a><a href="/setts/s8/r26k18r7k4ly4k4r7k18~x2/"><circle cx="284.1" cy="227.6" r="4" fill="#3465a4"><title>Haig &amp; Haig Whisky</title></circle></a><a href="/setts/s5/lb3k10r25k25r3~x2/"><circle cx="317.6" cy="237.5" r="4" fill="#3465a4"><title>Bodog.com</title></circle></a><a href="/setts/s8/k25r25k10lb3k10r25k25r3~x2/"><circle cx="314.6" cy="236.3" r="4" fill="#3465a4"><title>bodog.com Corporate Tartan Tartan Number: 6889. Earliest known date: 2006 Corporate brand name and colours, red, black and silver grey used to support brand identification. Company owner and executive is Scottish. First tartan to be name after a web site and first ever tartan for Costa Rica. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r4k8r4k8r12k1ly1~x2/"><circle cx="328.0" cy="214.1" r="4" fill="#3465a4"><title>MacKeane (Clan?)</title></circle></a><circle cx="258.9" cy="233.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r8k8ly1k8r8w1~x4/"><circle cx="246.1" cy="226.6" r="4" fill="#3465a4"><title>Connel</title></circle></a><a href="/setts/s7/r8db3k4dg6r4k1r4~x2/"><circle cx="219.4" cy="231.8" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s6/k3r15k11ly2k4r3~x2/"><circle cx="287.9" cy="227.7" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><a href="/setts/s5/k18r4k18r32w3~x2/"><circle cx="301.7" cy="227.1" r="4" fill="#3465a4"><title>Munro (Black and Red)</title></circle></a><a href="/setts/s4/db1r8k8lo1~x4/"><circle cx="258.6" cy="228.6" r="4" fill="#3465a4"><title>Skinner (Name)</title></circle></a><a href="/setts/s7/r4k8r4k8r12k1ly2~x4/"><circle cx="306.0" cy="215.4" r="4" fill="#3465a4"><title>MacDonald of Ardnamurchan (Clan?)</title></circle></a><a href="/setts/s8/r26k18r7k4ly4~x2/"><circle cx="283.9" cy="227.4" r="4" fill="#3465a4"><title>Haig &amp; Haig Whisky</title></circle></a><a href="/setts/s5/r3k25r25k10lb3~x2/"><circle cx="317.5" cy="237.3" r="4" fill="#3465a4"><title>Bodog.com</title></circle></a><a href="/setts/s8/k25r25k10lb3k10r25k25r3~x2/"><circle cx="314.5" cy="236.1" r="4" fill="#3465a4"><title>bodog.com Corporate Tartan Tartan Number: 6889. Earliest known date: 2006 Corporate brand name and colours, red, black and silver grey used to support brand identification. Company owner and executive is Scottish. First tartan to be name after a web site and first ever tartan for Costa Rica. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r4k8r4k8r12k1ly1~x2/"><circle cx="327.8" cy="213.9" r="4" fill="#3465a4"><title>MacKeane (Clan?)</title></circle></a><circle cx="258.9" cy="233.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r8k8lo1k8r8db1~x4/

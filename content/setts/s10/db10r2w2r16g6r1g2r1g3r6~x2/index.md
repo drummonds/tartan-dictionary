@@ -2,7 +2,7 @@
 title: "Harkness"
 date: 2023-03-18
 ---
-**Bands:** [BRWRGRGRGR](/stripes/brwrgrgrgr/) · **Stripes:** [DB R W R G R G R G R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R W R G R G R G R</span></span>
+**Bands:** [RGRGRGRWRB](/stripes/rgrgrgrwrb/) · **Stripes:** [R G R G R G R W R DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R G R G R G R W R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -909,7 +912,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Harkness Dress (Name)](/setts/s10/b10r2w2r16g6r1g2r1g3r6~x4/) — ΔT 0.27
+1. [Harkness Dress (Name)](/setts/s10/b10r2w2r16g6r1g2r1g3r6~x4/) — ΔT 0.28
 1. [Jenkins (Name)](/setts/s10/db2r30g8r3g8r6db4r3db12w2~x2/) — ΔT 0.61
 1. [MacKillop](/setts/s10/g3r2db2r13t1db4r2g7r2db2~x2/) — ΔT 0.62
 1. [Chisholm, The](/setts/s8/r12b2w1b2r3g8r3b1~x4/) — ΔT 0.76
@@ -922,8 +925,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/b10r2w2r16g6r1g2r1g3r6~x4/"><circle cx="302.4" cy="153.2" r="4" fill="#3465a4"><title>Harkness Dress (Name)</title></circle></a><a href="/setts/s10/db2r30g8r3g8r6db4r3db12w2~x2/"><circle cx="315.7" cy="150.1" r="4" fill="#3465a4"><title>Jenkins (Name)</title></circle></a><a href="/setts/s10/g3r2db2r13t1db4r2g7r2db2~x2/"><circle cx="292.5" cy="172.3" r="4" fill="#3465a4"><title>MacKillop</title></circle></a><a href="/setts/s8/r12b2w1b2r3g8r3b1~x4/"><circle cx="321.6" cy="176.3" r="4" fill="#3465a4"><title>Chisholm, The</title></circle></a><a href="/setts/s10/n28r26w2n5w2r26lg28r5w2r5~x2/"><circle cx="274.0" cy="167.7" r="4" fill="#3465a4"><title>Glenfinnan (Clan?)</title></circle></a><a href="/setts/s10/db28r26w2db5w2r26dg28r5w2r5~x2/"><circle cx="264.9" cy="158.1" r="4" fill="#3465a4"><title>Glenaladale Plaid</title></circle></a><a href="/setts/s8/r12db2w1db2r3g8r3db1~x2/"><circle cx="324.5" cy="178.3" r="4" fill="#3465a4"><title>Chisholm, The</title></circle></a><a href="/setts/s10/db28r26w2db5w2r26g28r5w2r5~x2/"><circle cx="265.0" cy="160.2" r="4" fill="#3465a4"><title>Glenaladale</title></circle></a><a href="/setts/s9/db2r49db51r9w2r9g51r49db2~x2/"><circle cx="330.1" cy="151.9" r="4" fill="#3465a4"><title>Unidentified 20</title></circle></a><a href="/setts/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/"><circle cx="344.5" cy="140.8" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><circle cx="306.9" cy="155.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/b10r2w2r16g6r1g2r1g3r6~x4/"><circle cx="302.0" cy="153.1" r="4" fill="#3465a4"><title>Harkness Dress (Name)</title></circle></a><a href="/setts/s10/db2r30g8r3g8r6db4r3db12w2~x2/"><circle cx="315.4" cy="150.0" r="4" fill="#3465a4"><title>Jenkins (Name)</title></circle></a><a href="/setts/s10/g3r2db2r13t1db4r2g7r2db2~x2/"><circle cx="292.2" cy="172.3" r="4" fill="#3465a4"><title>MacKillop</title></circle></a><a href="/setts/s8/r12b2w1b2r3g8r3b1~x4/"><circle cx="321.2" cy="176.2" r="4" fill="#3465a4"><title>Chisholm, The</title></circle></a><a href="/setts/s10/n28r26w2n5w2r26lg28r5w2r5~x2/"><circle cx="273.7" cy="167.7" r="4" fill="#3465a4"><title>Glenfinnan (Clan?)</title></circle></a><a href="/setts/s10/db28r26w2db5w2r26dg28r5w2r5~x2/"><circle cx="264.7" cy="158.0" r="4" fill="#3465a4"><title>Glenaladale Plaid</title></circle></a><a href="/setts/s8/r12db2w1db2r3g8r3db1~x2/"><circle cx="324.2" cy="178.1" r="4" fill="#3465a4"><title>Chisholm, The</title></circle></a><a href="/setts/s10/db28r26w2db5w2r26g28r5w2r5~x2/"><circle cx="264.8" cy="160.1" r="4" fill="#3465a4"><title>Glenaladale</title></circle></a><a href="/setts/s9/db2r49db51r9w2r9g51r49db2~x2/"><circle cx="329.8" cy="151.8" r="4" fill="#3465a4"><title>Unidentified 20</title></circle></a><a href="/setts/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/"><circle cx="344.2" cy="140.8" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><circle cx="306.5" cy="155.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db10r2w2r16g6r1g2r1g3r6~x2/

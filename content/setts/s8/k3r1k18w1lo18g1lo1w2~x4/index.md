@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1047
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Dunlop, Htg
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -60,8 +66,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k54lr6k6lr6o20lo40k6ly3/"><circle cx="229.3" cy="131.5" r="4" fill="#3465a4"><title>Clyde Valley HOG</title></circle></a><a href="/setts/s9/lr60k6lr8k2lr8w2r12k49lo4/"><circle cx="293.5" cy="97.6" r="4" fill="#3465a4"><title>Motherwell Football Club. Modern</title></circle></a><a href="/setts/s9/dg71k4r4db9r4db4r36db4lb4/"><circle cx="299.8" cy="120.3" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/setts/s11/dt31lr4n2r2n2lr6n2w4n2lr8dt2~x2/"><circle cx="265.3" cy="110.7" r="4" fill="#3465a4"><title>Rogue Attitude</title></circle></a><a href="/setts/s8/lo8k50o15dg6o6db3o6lo2~x2/"><circle cx="297.4" cy="121.4" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><a href="/setts/s10/k44lb3lo16lb2lo2lb2lo2y10k3y8~x2/"><circle cx="288.0" cy="112.7" r="4" fill="#3465a4"><title>Wcwm 1399</title></circle></a><a href="/setts/s10/y7y2k2y41k12g22y6k2r4k2~x2/"><circle cx="248.7" cy="115.3" r="4" fill="#3465a4"><title>Dinwiddie</title></circle></a><a href="/setts/s7/o6dp4o2w2o24k25lo4~x2/"><circle cx="242.5" cy="158.4" r="4" fill="#3465a4"><title>New York State Troopers (Corporate)</title></circle></a><a href="/setts/s8/do2w2k6do3k2o14k1o1~x4/"><circle cx="256.7" cy="154.7" r="4" fill="#3465a4"><title>Braemar or Blair Atholl</title></circle></a><a href="/setts/s9/p6r1p20g6p6g24k1g2w4~x2/"><circle cx="279.3" cy="125.7" r="4" fill="#3465a4"><title>MacNeill</title></circle></a><circle cx="266.7" cy="119.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k54lr6k6lr6o20lo40k6ly3/"><circle cx="229.2" cy="131.4" r="4" fill="#3465a4"><title>Clyde Valley HOG</title></circle></a><a href="/setts/s9/lr60k6lr8k2lr8w2r12k49lo4/"><circle cx="293.2" cy="97.4" r="4" fill="#3465a4"><title>Motherwell Football Club. Modern</title></circle></a><a href="/setts/s9/dg71k4r4db9r4db4r36db4lb4/"><circle cx="299.6" cy="120.3" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/setts/s11/dt31lr4n2r2n2lr6n2w4n2lr8dt2~x2/"><circle cx="265.1" cy="110.6" r="4" fill="#3465a4"><title>Rogue Attitude</title></circle></a><a href="/setts/s8/lo8k50o15dg6o6db3o6lo2~x2/"><circle cx="297.3" cy="121.3" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><a href="/setts/s10/k44lb3lo16lb2lo2lb2lo2y10k3y8~x2/"><circle cx="287.7" cy="112.6" r="4" fill="#3465a4"><title>Wcwm 1399</title></circle></a><a href="/setts/s10/y7y2k2y41k12g22y6k2r4k2~x2/"><circle cx="248.5" cy="115.2" r="4" fill="#3465a4"><title>Dinwiddie</title></circle></a><a href="/setts/s7/o6dp4o2w2o24k25lo4~x2/"><circle cx="242.4" cy="158.3" r="4" fill="#3465a4"><title>New York State Troopers (Corporate)</title></circle></a><a href="/setts/s8/do2w2k6do3k2o14k1o1~x4/"><circle cx="256.5" cy="154.6" r="4" fill="#3465a4"><title>Braemar or Blair Atholl</title></circle></a><a href="/setts/s9/p6r1p20g6p6g24k1g2w4~x2/"><circle cx="279.1" cy="125.6" r="4" fill="#3465a4"><title>MacNeill</title></circle></a><circle cx="266.5" cy="118.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k3r1k18w1lo18g1lo1w2~x4/

@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2890
 
 ## Thread count
-K/4 R8 LB4 R48 K12 R12 G16 R4 G16 LB4 B8 K4 W/8
+W/8 K4 B8 LB4 G16 R4 G16 R12 K12 R48 LB4 R8 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -46,8 +46,8 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Ogg of Tarragann](/setts/s12/k2t6w1r14k1r14w1k6dg10lo1dg2lo2~x2/) — ΔT 0.55
 1. [Ogg of Tarragann (Personal)](/setts/s12/k2t6w1r14k1r14w1k6g10lo1g2lo2~x2/) — ΔT 0.57
-1. [Hello Kitty Red](/setts/s10/ly2r3dy3r21b3r2dy6k6dy4w2~x2/) — ΔT 0.73
-1. [Robieson (Name)](/setts/s13/ly1k1r8db1r1g8r1db8r1g1r8k1w1~x6/) — ΔT 0.81
+1. [Hello Kitty Red](/setts/s10/w2dy4k6dy6r2b3r21dy3r3ly2~x2/) — ΔT 0.73
+1. [Robieson (Name)](/setts/s13/w1k1r8g1r1db8r1g8r1db1r8k1ly1~x6/) — ΔT 0.81
 1. [Harden (Name)](/setts/s13/k2r14t8k9ly1k2w2k2g10r15k4r12w2~x2/) — ΔT 0.86
 1. [Innes (D C Stewart)](/setts/s16/k2g12r2k2r2k2r16ly2r3db6r3k1g8k1r3w2~x2/) — ΔT 0.91
 1. [McLinden, Thomas (Personal)](/setts/s11/r3db1r1db2r12b1r1k4w1dg6r1~x4/) — ΔT 0.91
@@ -57,8 +57,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k2t6w1r14k1r14w1k6dg10lo1dg2lo2~x2/"><circle cx="202.2" cy="112.9" r="4" fill="#3465a4"><title>Ogg of Tarragann</title></circle></a><a href="/setts/s12/k2t6w1r14k1r14w1k6g10lo1g2lo2~x2/"><circle cx="203.6" cy="112.5" r="4" fill="#3465a4"><title>Ogg of Tarragann (Personal)</title></circle></a><a href="/setts/s10/ly2r3dy3r21b3r2dy6k6dy4w2~x2/"><circle cx="216.5" cy="119.5" r="4" fill="#3465a4"><title>Hello Kitty Red</title></circle></a><a href="/setts/s13/ly1k1r8db1r1g8r1db8r1g1r8k1w1~x6/"><circle cx="190.5" cy="126.1" r="4" fill="#3465a4"><title>Robieson (Name)</title></circle></a><a href="/setts/s13/k2r14t8k9ly1k2w2k2g10r15k4r12w2~x2/"><circle cx="198.4" cy="116.5" r="4" fill="#3465a4"><title>Harden (Name)</title></circle></a><a href="/setts/s16/k2g12r2k2r2k2r16ly2r3db6r3k1g8k1r3w2~x2/"><circle cx="190.7" cy="94.9" r="4" fill="#3465a4"><title>Innes (D C Stewart)</title></circle></a><a href="/setts/s11/r3db1r1db2r12b1r1k4w1dg6r1~x4/"><circle cx="249.3" cy="107.6" r="4" fill="#3465a4"><title>McLinden, Thomas (Personal)</title></circle></a><a href="/setts/s15/db6k3r4k2r27k12db10k3ly2k3dg12r10w2r3k3~x2/"><circle cx="178.8" cy="103.5" r="4" fill="#3465a4"><title>Unidentified #16</title></circle></a><a href="/setts/s14/r20w6r100db15k10db15k40ly5dg54r15k5r15k6w8/"><circle cx="225.8" cy="77.2" r="4" fill="#3465a4"><title>Unidentified Bedspread</title></circle></a><a href="/setts/s14/k20r6k4r6dg15w2y5w2dg15r30k4r5lb2r6~x2/"><circle cx="180.0" cy="106.8" r="4" fill="#3465a4"><title>Drummond - 1739 Lord John (Artefact)</title></circle></a><circle cx="200.9" cy="106.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k2t6w1r14k1r14w1k6dg10lo1dg2lo2~x2/"><circle cx="201.9" cy="113.0" r="4" fill="#3465a4"><title>Ogg of Tarragann</title></circle></a><a href="/setts/s12/k2t6w1r14k1r14w1k6g10lo1g2lo2~x2/"><circle cx="203.3" cy="112.6" r="4" fill="#3465a4"><title>Ogg of Tarragann (Personal)</title></circle></a><a href="/setts/s10/w2dy4k6dy6r2b3r21dy3r3ly2~x2/"><circle cx="216.3" cy="119.5" r="4" fill="#3465a4"><title>Hello Kitty Red</title></circle></a><a href="/setts/s13/w1k1r8g1r1db8r1g8r1db1r8k1ly1~x6/"><circle cx="190.3" cy="126.2" r="4" fill="#3465a4"><title>Robieson (Name)</title></circle></a><a href="/setts/s13/k2r14t8k9ly1k2w2k2g10r15k4r12w2~x2/"><circle cx="198.2" cy="116.5" r="4" fill="#3465a4"><title>Harden (Name)</title></circle></a><a href="/setts/s16/k2g12r2k2r2k2r16ly2r3db6r3k1g8k1r3w2~x2/"><circle cx="190.5" cy="95.0" r="4" fill="#3465a4"><title>Innes (D C Stewart)</title></circle></a><a href="/setts/s11/r3db1r1db2r12b1r1k4w1dg6r1~x4/"><circle cx="249.0" cy="107.5" r="4" fill="#3465a4"><title>McLinden, Thomas (Personal)</title></circle></a><a href="/setts/s15/db6k3r4k2r27k12db10k3ly2k3dg12r10w2r3k3~x2/"><circle cx="178.7" cy="103.6" r="4" fill="#3465a4"><title>Unidentified #16</title></circle></a><a href="/setts/s14/r20w6r100db15k10db15k40ly5dg54r15k5r15k6w8/"><circle cx="225.6" cy="77.3" r="4" fill="#3465a4"><title>Unidentified Bedspread</title></circle></a><a href="/setts/s14/k20r6k4r6dg15w2y5w2dg15r30k4r5lb2r6~x2/"><circle cx="179.9" cy="106.9" r="4" fill="#3465a4"><title>Drummond - 1739 Lord John (Artefact)</title></circle></a><circle cx="200.6" cy="106.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/w2k1b2lb1dg4r1dg4r3k3r12lb1r2k1~x4/

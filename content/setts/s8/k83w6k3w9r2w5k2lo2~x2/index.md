@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1071
 
 ## Thread count
-DO/4 K4 W10 R4 W18 K6 W12 K/166
+K/166 W12 K6 W18 R4 W10 K4 DO/4
 ![Sett](sett.png)
 
 ## Palette
@@ -32,7 +32,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DO/4 K4 W10 R4 W18 K6 W12 K/166 tartan")
+![Tartan detail](tartan.png "K/166 W12 K6 W18 R4 W10 K4 DO/4 tartan")
 
 ## Nearest tartans
 
@@ -51,8 +51,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k38lo1w7lo1k4lo2k3lo2~x2/"><circle cx="531.1" cy="120.6" r="4" fill="#3465a4"><title>Erck, Georges van (Personal),</title></circle></a><a href="/setts/s8/k31w1k2w2dt3k2t4w2~x4/"><circle cx="484.4" cy="117.3" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/setts/s8/k21r1k1ly1k1r1k3w3~x6/"><circle cx="528.9" cy="134.1" r="4" fill="#3465a4"><title>Black Country (District)</title></circle></a><a href="/setts/s8/k44r2w10r3k6r1w2k18~x2/"><circle cx="528.8" cy="132.3" r="4" fill="#3465a4"><title>Mull Rugby Club</title></circle></a><a href="/setts/s13/k61w1k1r2k1w1k16w1r4k2r6k1ly4~x2/"><circle cx="568.5" cy="66.8" r="4" fill="#3465a4"><title>Coeur D'Alene Firefighters Richard Gaines Memorial</title></circle></a><a href="/setts/s8/k198lb9k17t13lb9k4lb13k4/"><circle cx="611.1" cy="116.5" r="4" fill="#3465a4"><title>London Fog Black (Fashion)</title></circle></a><a href="/setts/s8/k20w1k1w3k1r1k1w1~x4/"><circle cx="526.6" cy="142.4" r="4" fill="#3465a4"><title>Volkswagen Black Trim (Fashion)</title></circle></a><a href="/setts/s10/k85r6k1w3k3w3k1r6k6lo1~x2/"><circle cx="606.6" cy="83.1" r="4" fill="#3465a4"><title>Ambassador</title></circle></a><a href="/setts/s8/b10lb2k2b1k6lb1k45lo2~x2/"><circle cx="539.8" cy="118.4" r="4" fill="#3465a4"><title>Marine Harvest Scotland (Corporate)</title></circle></a><a href="/setts/s6/k10lr2w5lr4k50b2~x2/"><circle cx="539.7" cy="152.9" r="4" fill="#3465a4"><title>London Fog Black</title></circle></a><circle cx="528.2" cy="91.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k38lo1w7lo1k4lo2k3lo2~x2/"><circle cx="530.8" cy="120.2" r="4" fill="#3465a4"><title>Erck, Georges van (Personal),</title></circle></a><a href="/setts/s8/k31w1k2w2dt3k2t4w2~x4/"><circle cx="484.1" cy="117.0" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/setts/s8/k21r1k1ly1k1r1k3w3~x6/"><circle cx="528.7" cy="133.7" r="4" fill="#3465a4"><title>Black Country (District)</title></circle></a><a href="/setts/s8/k44r2w10r3k6r1w2k18~x2/"><circle cx="528.5" cy="131.9" r="4" fill="#3465a4"><title>Mull Rugby Club</title></circle></a><a href="/setts/s13/k61w1k1r2k1w1k16w1r4k2r6k1ly4~x2/"><circle cx="568.2" cy="66.5" r="4" fill="#3465a4"><title>Coeur D'Alene Firefighters Richard Gaines Memorial</title></circle></a><a href="/setts/s8/k198lb9k17t13lb9k4lb13k4/"><circle cx="610.8" cy="116.0" r="4" fill="#3465a4"><title>London Fog Black (Fashion)</title></circle></a><a href="/setts/s8/k20w1k1w3k1r1k1w1~x4/"><circle cx="526.3" cy="141.9" r="4" fill="#3465a4"><title>Volkswagen Black Trim (Fashion)</title></circle></a><a href="/setts/s10/k85r6k1w3k3w3k1r6k6lo1~x2/"><circle cx="606.3" cy="82.8" r="4" fill="#3465a4"><title>Ambassador</title></circle></a><a href="/setts/s8/b10lb2k2b1k6lb1k45lo2~x2/"><circle cx="539.6" cy="118.1" r="4" fill="#3465a4"><title>Marine Harvest Scotland (Corporate)</title></circle></a><a href="/setts/s6/k10lr2w5lr4k50b2~x2/"><circle cx="539.5" cy="152.5" r="4" fill="#3465a4"><title>London Fog Black</title></circle></a><circle cx="527.8" cy="91.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k83w6k3w9r2w5k2lo2~x2/

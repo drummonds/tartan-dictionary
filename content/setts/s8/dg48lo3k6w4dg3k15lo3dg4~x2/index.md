@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=263
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Birmingham Irish Pipes & Drums
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -24,7 +30,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4232
 
 ## Thread count
-Ga/8 DY6 K30 Ga6 W8 K12 DY6 Ga/96
+Ga/96 DY6 K12 W8 Ga6 K30 DY6 Ga/8
 ![Sett](sett.png)
 
 ## Palette
@@ -46,7 +52,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "Ga/8 DY6 K30 Ga6 W8 K12 DY6 Ga/96 tartan")
+![Tartan detail](tartan.png "Ga/96 DY6 K12 W8 Ga6 K30 DY6 Ga/8 tartan")
 
 ## Nearest tartans
 
@@ -61,12 +67,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Fort William](/setts/s11/g17t2g2t2k21t2k3g30k2t2k4~x2/) — ΔT 1.37
 1. [Forde](/setts/s10/g30ly2k3r2k2r2k3ly2k2g4~x2/) — ΔT 1.38
 1. [Dryfe](/setts/s11/dg42k10lr2k2r2k2dg10r6k2r3dg2~x2/) — ΔT 1.43
-1. [Hartmann](/setts/s8/b4k8w3k8g4k4g32k4~x2/) — ΔT 1.43
+1. [Hartmann](/setts/s8/k4g32k4g4k8w3k8b4~x2/) — ΔT 1.43
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k3dg32k2dg4ly4dg2ly4dg4k6w3~x2/"><circle cx="377.9" cy="145.6" r="4" fill="#3465a4"><title>University of Alberta (Corporate)</title></circle></a><a href="/setts/s10/g16y1k2r1k1r1k2y1k1g1~x4/"><circle cx="363.6" cy="127.2" r="4" fill="#3465a4"><title>Forde</title></circle></a><a href="/setts/s8/dg60w3k12o5dg9o6k4w10/"><circle cx="360.7" cy="143.1" r="4" fill="#3465a4"><title>New York Jets</title></circle></a><a href="/setts/s11/y42k10y2k2k2k2y10k6k2k3y2~x2/"><circle cx="374.8" cy="114.4" r="4" fill="#3465a4"><title>Laggen Dress (Fashion)</title></circle></a><a href="/setts/s8/dg78dt13ly6r3ly5dg6dt9ly6~x2/"><circle cx="427.6" cy="136.8" r="4" fill="#3465a4"><title>Walterström (2014)</title></circle></a><a href="/setts/s10/g16ly1k2r1k1r1k2ly1k1g1~x4/"><circle cx="389.7" cy="137.0" r="4" fill="#3465a4"><title>Forde Irish Family Tartan Tartan Number: 829. Earliest known date: c1890 This pattern was recorded by Bill Johnston, Shippak, USA in 1978 along with other patterns extracted from the 'Clan Originaux' at Pendleton Mill. This and other Irish patterns appear to have originated in the former Waterford Mill in Ireland before they arrived at Pendleton in the late 19thC See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/g17t2g2t2k21t2k3g30k2t2k4~x2/"><circle cx="288.3" cy="147.5" r="4" fill="#3465a4"><title>Fort William</title></circle></a><a href="/setts/s10/g30ly2k3r2k2r2k3ly2k2g4~x2/"><circle cx="401.5" cy="142.5" r="4" fill="#3465a4"><title>Forde</title></circle></a><a href="/setts/s11/dg42k10lr2k2r2k2dg10r6k2r3dg2~x2/"><circle cx="416.3" cy="138.2" r="4" fill="#3465a4"><title>Dryfe</title></circle></a><a href="/setts/s8/b4k8w3k8g4k4g32k4~x2/"><circle cx="270.6" cy="175.5" r="4" fill="#3465a4"><title>Hartmann</title></circle></a><circle cx="367.8" cy="150.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k3dg32k2dg4ly4dg2ly4dg4k6w3~x2/"><circle cx="377.7" cy="145.4" r="4" fill="#3465a4"><title>University of Alberta (Corporate)</title></circle></a><a href="/setts/s10/g16y1k2r1k1r1k2y1k1g1~x4/"><circle cx="363.3" cy="127.0" r="4" fill="#3465a4"><title>Forde</title></circle></a><a href="/setts/s8/dg60w3k12o5dg9o6k4w10/"><circle cx="360.5" cy="142.9" r="4" fill="#3465a4"><title>New York Jets</title></circle></a><a href="/setts/s11/y42k10y2k2k2k2y10k6k2k3y2~x2/"><circle cx="374.5" cy="114.1" r="4" fill="#3465a4"><title>Laggen Dress (Fashion)</title></circle></a><a href="/setts/s8/dg78dt13ly6r3ly5dg6dt9ly6~x2/"><circle cx="427.4" cy="136.6" r="4" fill="#3465a4"><title>Walterström (2014)</title></circle></a><a href="/setts/s10/g16ly1k2r1k1r1k2ly1k1g1~x4/"><circle cx="389.4" cy="136.8" r="4" fill="#3465a4"><title>Forde Irish Family Tartan Tartan Number: 829. Earliest known date: c1890 This pattern was recorded by Bill Johnston, Shippak, USA in 1978 along with other patterns extracted from the 'Clan Originaux' at Pendleton Mill. This and other Irish patterns appear to have originated in the former Waterford Mill in Ireland before they arrived at Pendleton in the late 19thC See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/g17t2g2t2k21t2k3g30k2t2k4~x2/"><circle cx="288.2" cy="147.3" r="4" fill="#3465a4"><title>Fort William</title></circle></a><a href="/setts/s10/g30ly2k3r2k2r2k3ly2k2g4~x2/"><circle cx="401.2" cy="142.3" r="4" fill="#3465a4"><title>Forde</title></circle></a><a href="/setts/s11/dg42k10lr2k2r2k2dg10r6k2r3dg2~x2/"><circle cx="416.1" cy="138.0" r="4" fill="#3465a4"><title>Dryfe</title></circle></a><a href="/setts/s8/k4g32k4g4k8w3k8b4~x2/"><circle cx="270.6" cy="175.3" r="4" fill="#3465a4"><title>Hartmann</title></circle></a><circle cx="367.7" cy="150.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/dg48lo3k6w4dg3k15lo3dg4~x2/

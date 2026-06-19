@@ -8,7 +8,7 @@ RGBWKW
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/lb1k4lb4db2dy6r1~x6/tartan.png)
+![Woven sample](/setts/s6/r1dy6db2lb4k4lb1~x6/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RGBWKW
 
 | Tartans |
 |---------------|
-| [Thompson's Fancy (Fashion)](/setts/s6/lb1k4lb4db2dy6r1~x6/)|
-|![Thompson's Fancy (Fashion) example sett](/setts/s6/lb1k4lb4db2dy6r1~x6/sett.png)|
+| [Thompson's Fancy (Fashion)](/setts/s6/r1dy6db2lb4k4lb1~x6/)|
+|![Thompson's Fancy (Fashion) example sett](/setts/s6/r1dy6db2lb4k4lb1~x6/sett.png)|
 

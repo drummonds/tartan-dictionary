@@ -2,12 +2,18 @@
 title: "Unidentified, 18th C plain weave"
 date: 2023-03-18
 ---
-**Bands:** [BRBRGYGRBRGRBRGWRBRGRGYGRBRGRBRGWR](/stripes/brbrgygrbrgrbrgwrbrgrgygrbrgrbrgwr/) · **Stripes:** [DB R DB R G LY G R DB R G R DB R G W R DB R G R G LY G R DB R G R DB R G W R](/stripes/stripes34/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R DB R G LY G R DB R G R DB R G W R DB R G R G LY G R DB R G R DB R G W R</span></span>
+**Bands:** [RWGRBRGRBRGYGRGRBRWGRBRGRBRGYGRBRB](/stripes/rwgrbrgrbrgygrgrbrwgrbrgrbrgygrbrb/) · **Stripes:** [R W G R DB R G R DB R G LY G R G R DB R W G R DB R G R DB R G LY G R DB R DB](/stripes/stripes34/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R W G R DB R G R DB R G LY G R G R DB R W G R DB R G R DB R G LY G R DB R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [34 band tartan](/bands/bands34/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified, 18th C plain weave
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,18 +915,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Unidentified 18th Centuary plain weave](/setts/s34/db19r2db2r20dg2ly1dg2r2db18r2dg3r2db2r22dg3w1r3db17r2dg2r24dg2ly1dg2r2db19r3dg3r2db2r21dg3w1r3~x2/) — ΔT 0.49
 1. [Unidentified Scarlett #3](/setts/s34/r3k18r2g3r2k2r20g2ly1g2r2k18r2k2r20g3w1r3k18r2g3r2k2r20g2ly1g2r2k18r2g2r20g3w1~x2/) — ΔT 0.96
 1. [Bahrain, Royal](/setts/s18/k16r1k2r3k1r9k1r3k2r1k6dg3lb3dg5r28w3r3w3~x2/) — ΔT 1.39
-1. [MacDougall D](/setts/s27/r3dg5r1db1r15dp2r1lb1r1dp2r15db1r1dg5r5dg5dp2r1dp2db5r2dg1r2dg15r1db2lb1/) — ΔT 1.46
+1. [MacDougall D](/setts/s27/r3dg5r1db1r15dp2r1lb1r1dp2r15db1r1dg5r5dg5dp2r1dp2db5r2dg1r2dg15r1db2lb1~x2/) — ΔT 1.46
 1. [MacAlister (Logan 1831)](/setts/s41/r32g2dg12r4t4r4w2r4t4r4dg12r2w2r24t2r2dg44r2t2r64t2r2dg44r2t2r22w2r2db16r2w2r10dg12g2r8g2dg12r3w2r2db10~x2/) — ΔT 1.49
 1. [MacDonald of Boisdale](/setts/s21/r16lb1db7lb1r6lb1db34lb1r26g1g16g1r4g1g7g1r4lb1db7lb1r16~x2/) — ΔT 1.51
 1. [Murray of Tullibardine](/setts/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2dg2r8dg12r4db2r2k1/) — ΔT 1.57
 1. [MacKintosh #6](/setts/s41/db48r40k4r4dg48r54db46r54dg14r4k4r4k4r48k4r4k4r4dg14r52db46r54dg60r4dg4r48db4r12db4r4db4r48k4r4dg60r48db4r4db4r4k7/) — ΔT 1.57
 1. [MacKintosh 5](/setts/s42/db48r40k4r4g48r54db46r54dg14r4k4r4k4r48k4r4k4r4dg14r52db46r54dg60r4dg4r48db4r4r8db4r4db4r48k4r4dg60r48db4r4db4r4k7/) — ΔT 1.58
-1. [Stuart/Stewart of Ardshiel](/setts/s34/t4k2r2r12dg66r4k2t2r6k34r6t2k2r65k3r2r6dg14r6r2k3r65k2t2r6k34r6t2k2r4dg66r12r2k2/) — ΔT 1.59
+1. [Stuart/Stewart of Ardshiel](/setts/s34/dg14r6r2k3r65k2t2r6k34r6t2k2r4dg66r12r2k2t4/) — ΔT 1.59
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s34/db19r2db2r20dg2ly1dg2r2db18r2dg3r2db2r22dg3w1r3db17r2dg2r24dg2ly1dg2r2db19r3dg3r2db2r21dg3w1r3~x2/"><circle cx="284.3" cy="48.2" r="4" fill="#3465a4"><title>Unidentified 18th Centuary plain weave</title></circle></a><a href="/setts/s34/r3k18r2g3r2k2r20g2ly1g2r2k18r2k2r20g3w1r3k18r2g3r2k2r20g2ly1g2r2k18r2g2r20g3w1~x2/"><circle cx="275.5" cy="60.0" r="4" fill="#3465a4"><title>Unidentified Scarlett #3</title></circle></a><a href="/setts/s18/k16r1k2r3k1r9k1r3k2r1k6dg3lb3dg5r28w3r3w3~x2/"><circle cx="285.7" cy="65.1" r="4" fill="#3465a4"><title>Bahrain, Royal</title></circle></a><a href="/setts/s27/r3dg5r1db1r15dp2r1lb1r1dp2r15db1r1dg5r5dg5dp2r1dp2db5r2dg1r2dg15r1db2lb1/"><circle cx="259.5" cy="85.9" r="4" fill="#3465a4"><title>MacDougall D</title></circle></a><a href="/setts/s41/r32g2dg12r4t4r4w2r4t4r4dg12r2w2r24t2r2dg44r2t2r64t2r2dg44r2t2r22w2r2db16r2w2r10dg12g2r8g2dg12r3w2r2db10~x2/"><circle cx="276.3" cy="14.0" r="4" fill="#3465a4"><title>MacAlister (Logan 1831)</title></circle></a><a href="/setts/s21/r16lb1db7lb1r6lb1db34lb1r26g1g16g1r4g1g7g1r4lb1db7lb1r16~x2/"><circle cx="283.9" cy="61.2" r="4" fill="#3465a4"><title>MacDonald of Boisdale</title></circle></a><a href="/setts/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2dg2r8dg12r4db2r2k1/"><circle cx="339.9" cy="93.3" r="4" fill="#3465a4"><title>Murray of Tullibardine</title></circle></a><a href="/setts/s41/db48r40k4r4dg48r54db46r54dg14r4k4r4k4r48k4r4k4r4dg14r52db46r54dg60r4dg4r48db4r12db4r4db4r48k4r4dg60r48db4r4db4r4k7/"><circle cx="274.3" cy="73.8" r="4" fill="#3465a4"><title>MacKintosh #6</title></circle></a><a href="/setts/s42/db48r40k4r4g48r54db46r54dg14r4k4r4k4r48k4r4k4r4dg14r52db46r54dg60r4dg4r48db4r4r8db4r4db4r48k4r4dg60r48db4r4db4r4k7/"><circle cx="281.1" cy="78.1" r="4" fill="#3465a4"><title>MacKintosh 5</title></circle></a><a href="/setts/s34/t4k2r2r12dg66r4k2t2r6k34r6t2k2r65k3r2r6dg14r6r2k3r65k2t2r6k34r6t2k2r4dg66r12r2k2/"><circle cx="271.0" cy="28.0" r="4" fill="#3465a4"><title>Stuart/Stewart of Ardshiel</title></circle></a><circle cx="283.3" cy="52.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s34/db19r2db2r20dg2ly1dg2r2db18r2dg3r2db2r22dg3w1r3db17r2dg2r24dg2ly1dg2r2db19r3dg3r2db2r21dg3w1r3~x2/"><circle cx="283.9" cy="48.2" r="4" fill="#3465a4"><title>Unidentified 18th Centuary plain weave</title></circle></a><a href="/setts/s34/r3k18r2g3r2k2r20g2ly1g2r2k18r2k2r20g3w1r3k18r2g3r2k2r20g2ly1g2r2k18r2g2r20g3w1~x2/"><circle cx="275.2" cy="60.1" r="4" fill="#3465a4"><title>Unidentified Scarlett #3</title></circle></a><a href="/setts/s18/k16r1k2r3k1r9k1r3k2r1k6dg3lb3dg5r28w3r3w3~x2/"><circle cx="285.4" cy="65.1" r="4" fill="#3465a4"><title>Bahrain, Royal</title></circle></a><a href="/setts/s27/r3dg5r1db1r15dp2r1lb1r1dp2r15db1r1dg5r5dg5dp2r1dp2db5r2dg1r2dg15r1db2lb1~x2/"><circle cx="259.1" cy="86.0" r="4" fill="#3465a4"><title>MacDougall D</title></circle></a><a href="/setts/s41/r32g2dg12r4t4r4w2r4t4r4dg12r2w2r24t2r2dg44r2t2r64t2r2dg44r2t2r22w2r2db16r2w2r10dg12g2r8g2dg12r3w2r2db10~x2/"><circle cx="275.8" cy="14.0" r="4" fill="#3465a4"><title>MacAlister (Logan 1831)</title></circle></a><a href="/setts/s21/r16lb1db7lb1r6lb1db34lb1r26g1g16g1r4g1g7g1r4lb1db7lb1r16~x2/"><circle cx="283.5" cy="61.3" r="4" fill="#3465a4"><title>MacDonald of Boisdale</title></circle></a><a href="/setts/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2dg2r8dg12r4db2r2k1/"><circle cx="339.6" cy="93.2" r="4" fill="#3465a4"><title>Murray of Tullibardine</title></circle></a><a href="/setts/s41/db48r40k4r4dg48r54db46r54dg14r4k4r4k4r48k4r4k4r4dg14r52db46r54dg60r4dg4r48db4r12db4r4db4r48k4r4dg60r48db4r4db4r4k7/"><circle cx="273.9" cy="73.8" r="4" fill="#3465a4"><title>MacKintosh #6</title></circle></a><a href="/setts/s42/db48r40k4r4g48r54db46r54dg14r4k4r4k4r48k4r4k4r4dg14r52db46r54dg60r4dg4r48db4r4r8db4r4db4r48k4r4dg60r48db4r4db4r4k7/"><circle cx="280.7" cy="78.2" r="4" fill="#3465a4"><title>MacKintosh 5</title></circle></a><a href="/setts/s34/dg14r6r2k3r65k2t2r6k34r6t2k2r4dg66r12r2k2t4/"><circle cx="270.7" cy="28.1" r="4" fill="#3465a4"><title>Stuart/Stewart of Ardshiel</title></circle></a><circle cx="283.0" cy="52.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s34/db19r2db2r20g2ly1g2r2db18r2g3r2db2r22g3w1r3db17r2g2r24g2ly1g2r2db19r3g3r2db2r21g3w1r3~x2/

@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1234
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Forrester/Foster Hunting
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -63,8 +69,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k3ly2g18w3g18k3ly4k3g18w3~x2/"><circle cx="179.4" cy="164.9" r="4" fill="#3465a4"><title>Forrester / Foster, hunting</title></circle></a><a href="/setts/s11/g1k1g9k7ly1g5g4w2g1w1g1~x4/"><circle cx="187.2" cy="163.8" r="4" fill="#3465a4"><title>Parkhead</title></circle></a><a href="/setts/s7/m5dg27o2g25ly7dg3m3~x2/"><circle cx="202.8" cy="165.0" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/setts/s15/y8g2k2w2g8y2g8w2k2g3g2w2g1y2k2~x2/"><circle cx="139.2" cy="164.7" r="4" fill="#3465a4"><title>Gayre Dress</title></circle></a><a href="/setts/s9/dg70ly6o28g56o5g11o5g11lo12/"><circle cx="203.4" cy="161.4" r="4" fill="#3465a4"><title>Dalwhinnie Trade Tartan Tartan Number: 1018. Earliest known date: 1982 Reconstructed and woven by Don Rankin from illustration. Sample in STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/g16ly2g4ly2g5k14g28ly2g7~x2/"><circle cx="207.4" cy="171.6" r="4" fill="#3465a4"><title>Marie Curie Fields of Hope</title></circle></a><a href="/setts/s7/ly17w7ly6g43k5o6k13~x2/"><circle cx="142.3" cy="163.1" r="4" fill="#3465a4"><title>Keeling Dress</title></circle></a><a href="/setts/s7/g18k2lr2k2t3k2ly6~x4/"><circle cx="209.8" cy="159.7" r="4" fill="#3465a4"><title>Alberta</title></circle></a><a href="/setts/s9/dg70ly6y28g56y5g11y5g11lo12/"><circle cx="206.7" cy="164.2" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/setts/s15/dg12y2dg2y7ly4r2ly8r2ly4y7dg2y2dg16w2dg4~x2/"><circle cx="180.2" cy="160.3" r="4" fill="#3465a4"><title>Confessore</title></circle></a><circle cx="165.3" cy="168.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k3ly2g18w3g18k3ly4k3g18w3~x2/"><circle cx="179.2" cy="164.8" r="4" fill="#3465a4"><title>Forrester / Foster, hunting</title></circle></a><a href="/setts/s11/g1k1g9k7ly1g5g4w2g1w1g1~x4/"><circle cx="187.1" cy="163.7" r="4" fill="#3465a4"><title>Parkhead</title></circle></a><a href="/setts/s7/m5dg27o2g25ly7dg3m3~x2/"><circle cx="202.7" cy="165.0" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/setts/s15/y8g2k2w2g8y2g8w2k2g3g2w2g1y2k2~x2/"><circle cx="139.1" cy="164.7" r="4" fill="#3465a4"><title>Gayre Dress</title></circle></a><a href="/setts/s9/dg70ly6o28g56o5g11o5g11lo12/"><circle cx="203.3" cy="161.5" r="4" fill="#3465a4"><title>Dalwhinnie Trade Tartan Tartan Number: 1018. Earliest known date: 1982 Reconstructed and woven by Don Rankin from illustration. Sample in STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/g16ly2g4ly2g5k14g28ly2g7~x2/"><circle cx="207.3" cy="171.4" r="4" fill="#3465a4"><title>Marie Curie Fields of Hope</title></circle></a><a href="/setts/s7/ly17w7ly6g43k5o6k13~x2/"><circle cx="142.1" cy="163.0" r="4" fill="#3465a4"><title>Keeling Dress</title></circle></a><a href="/setts/s7/g18k2lr2k2t3k2ly6~x4/"><circle cx="209.6" cy="159.6" r="4" fill="#3465a4"><title>Alberta</title></circle></a><a href="/setts/s9/dg70ly6y28g56y5g11y5g11lo12/"><circle cx="206.6" cy="164.3" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/setts/s15/dg12y2dg2y7ly4r2ly8r2ly4y7dg2y2dg16w2dg4~x2/"><circle cx="180.1" cy="160.3" r="4" fill="#3465a4"><title>Confessore</title></circle></a><circle cx="165.2" cy="168.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/k3ly2g18w3g13k3ly4k3g18w3~x2/

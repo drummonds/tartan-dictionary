@@ -2,7 +2,7 @@
 title: "Carnet (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGK](/stripes/gkgkgk/) · **Stripes:** [DG K DG K DG K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="seq">DG K DG K DG K</span></span>
+**Bands:** [KGKGKG](/stripes/kgkgkg/) · **Stripes:** [K DG K DG K DG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K DG K DG K DG</span></span>
 
 
 This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/
 Original link http://www.tartansauthority.com/tartan-ferret/display/4464/
 
 ## Thread count
-G/8 K4 G44 K12 G12 K/24
+K/24 G12 K12 G44 K4 G/8
 ![Sett](sett.png)
 
 ## Palette
@@ -23,27 +23,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/8 K4 G44 K12 G12 K/24 tartan")
+![Tartan detail](tartan.png "K/24 G12 K12 G44 K4 G/8 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Graham](/setts/s4/dg12k4dg1k4~x2/) — ΔT 1.48
+1. [Graham](/setts/s4/dg12k4dg1~x2/) — ΔT 1.48
 1. [Glen Boig](/setts/s5/g37o9g3dr9o3~x2/) — ΔT 1.76
-1. [Erskine Hunting](/setts/s6/dg5g3dg24g24dg3g5~x2/) — ΔT 1.98
+1. [Erskine Hunting](/setts/s6/dg5g3dg24g24dg3g5~x2/) — ΔT 1.97
 1. [Dunbar Hunting](/setts/s6/g4k2g28k8dg21g3~x2/) — ΔT 2.07
 1. [MacSporran Rejected design](/setts/s6/dg30dg13dg7dg30dg2ly4~x2/) — ΔT 2.11
 1. [Guildry of Stirling](/setts/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2/) — ΔT 2.17
-1. [Glen Trool District Tartan Tartan Number: 914. Earliest known date: pre 1945 Glen Trool is in the Galloway Uplands in the Southwest of Scotland. The tartan began life as a trade sett - a colourful fashion fabric - and was given a name merely to identify it. It proved very popular and is now recognised as a District Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/dg37dy9dg3r9dy3~x2/) — ΔT 2.18
+1. [Glen Trool District Tartan Tartan Number: 914. Earliest known date: pre 1945 Glen Trool is in the Galloway Uplands in the Southwest of Scotland. The tartan began life as a trade sett - a colourful fashion fabric - and was given a name merely to identify it. It proved very popular and is now recognised as a District Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/dg37dy9dg3r9dy3~x2/) — ΔT 2.17
 1. [Crawford](/setts/s7/dr6lr2dr30dg12dr3dg12dr3~x2/) — ΔT 2.19
 1. [Crawford](/setts/s7/dr6lr2dr30dg12dr3dg12dr3/) — ΔT 2.19
-1. [Harmony, 11](/setts/s6/g6o2g29o29g2o6~x2/) — ΔT 2.21
+1. [Harmony, 11](/setts/s6/o6g2o29g29o2g6~x2/) — ΔT 2.21
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/dg12k4dg1k4~x2/"><circle cx="488.0" cy="320.1" r="4" fill="#3465a4"><title>Graham</title></circle></a><a href="/setts/s5/g37o9g3dr9o3~x2/"><circle cx="492.9" cy="271.5" r="4" fill="#3465a4"><title>Glen Boig</title></circle></a><a href="/setts/s6/dg5g3dg24g24dg3g5~x2/"><circle cx="477.4" cy="339.7" r="4" fill="#3465a4"><title>Erskine Hunting</title></circle></a><a href="/setts/s6/g4k2g28k8dg21g3~x2/"><circle cx="402.1" cy="270.8" r="4" fill="#3465a4"><title>Dunbar Hunting</title></circle></a><a href="/setts/s6/dg30dg13dg7dg30dg2ly4~x2/"><circle cx="396.2" cy="272.6" r="4" fill="#3465a4"><title>MacSporran Rejected design</title></circle></a><a href="/setts/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2/"><circle cx="401.9" cy="259.7" r="4" fill="#3465a4"><title>Guildry of Stirling</title></circle></a><a href="/setts/s5/dg37dy9dg3r9dy3~x2/"><circle cx="477.1" cy="258.5" r="4" fill="#3465a4"><title>Glen Trool District Tartan Tartan Number: 914. Earliest known date: pre 1945 Glen Trool is in the Galloway Uplands in the Southwest of Scotland. The tartan began life as a trade sett - a colourful fashion fabric - and was given a name merely to identify it. It proved very popular and is now recognised as a District Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dr6lr2dr30dg12dr3dg12dr3~x2/"><circle cx="492.7" cy="253.2" r="4" fill="#3465a4"><title>Crawford</title></circle></a><a href="/setts/s7/dr6lr2dr30dg12dr3dg12dr3/"><circle cx="492.7" cy="253.2" r="4" fill="#3465a4"><title>Crawford</title></circle></a><a href="/setts/s6/g6o2g29o29g2o6~x2/"><circle cx="481.2" cy="285.4" r="4" fill="#3465a4"><title>Harmony, 11</title></circle></a><circle cx="505.1" cy="321.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/dg12k4dg1~x2/"><circle cx="488.0" cy="319.9" r="4" fill="#3465a4"><title>Graham</title></circle></a><a href="/setts/s5/g37o9g3dr9o3~x2/"><circle cx="492.7" cy="271.4" r="4" fill="#3465a4"><title>Glen Boig</title></circle></a><a href="/setts/s6/dg5g3dg24g24dg3g5~x2/"><circle cx="477.3" cy="339.7" r="4" fill="#3465a4"><title>Erskine Hunting</title></circle></a><a href="/setts/s6/g4k2g28k8dg21g3~x2/"><circle cx="402.0" cy="270.8" r="4" fill="#3465a4"><title>Dunbar Hunting</title></circle></a><a href="/setts/s6/dg30dg13dg7dg30dg2ly4~x2/"><circle cx="396.2" cy="272.6" r="4" fill="#3465a4"><title>MacSporran Rejected design</title></circle></a><a href="/setts/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2/"><circle cx="401.9" cy="259.7" r="4" fill="#3465a4"><title>Guildry of Stirling</title></circle></a><a href="/setts/s5/dg37dy9dg3r9dy3~x2/"><circle cx="476.9" cy="258.4" r="4" fill="#3465a4"><title>Glen Trool District Tartan Tartan Number: 914. Earliest known date: pre 1945 Glen Trool is in the Galloway Uplands in the Southwest of Scotland. The tartan began life as a trade sett - a colourful fashion fabric - and was given a name merely to identify it. It proved very popular and is now recognised as a District Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dr6lr2dr30dg12dr3dg12dr3~x2/"><circle cx="492.5" cy="253.1" r="4" fill="#3465a4"><title>Crawford</title></circle></a><a href="/setts/s7/dr6lr2dr30dg12dr3dg12dr3/"><circle cx="492.5" cy="253.1" r="4" fill="#3465a4"><title>Crawford</title></circle></a><a href="/setts/s6/o6g2o29g29o2g6~x2/"><circle cx="480.9" cy="285.3" r="4" fill="#3465a4"><title>Harmony, 11</title></circle></a><circle cx="505.0" cy="321.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k6dg3k3dg11k1dg2~x4/

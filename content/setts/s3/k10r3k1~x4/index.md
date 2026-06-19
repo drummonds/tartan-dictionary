@@ -24,7 +24,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-K/4 DR12 K/40
+K/40 DR12 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -37,7 +37,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/4 DR12 K/40 tartan")
+![Tartan detail](tartan.png "K/40 DR12 K/4 tartan")
 
 ## Nearest tartans
 
@@ -45,7 +45,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Batson (Personal)](/setts/s3/k69r14ly5~x2/) — ΔT 2.16
 1. [St Kilda](/setts/s2/k4r1~x6/) — ΔT 2.20
-1. [St Kilda](/setts/s2/k4r1~x36/) — ΔT 2.33
+1. [St Kilda](/setts/s2/k4r1~x36/) — ΔT 2.34
 1. [Loevenstein Castle 2 (Artefact)](/setts/s4/k20db1k4db3~x4/) — ΔT 2.36
 1. [Unidentified 11](/setts/s7/k24g3r3k24r2k2r2/) — ΔT 2.45
 1. [Staines (2013)](/setts/s3/db1k12db1~x10/) — ΔT 2.48
@@ -56,8 +56,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/k69r14ly5~x2/"><circle cx="514.5" cy="245.5" r="4" fill="#3465a4"><title>Batson (Personal)</title></circle></a><a href="/setts/s2/k4r1~x6/"><circle cx="481.8" cy="361.5" r="4" fill="#3465a4"><title>St Kilda</title></circle></a><a href="/setts/s2/k4r1~x36/"><circle cx="505.9" cy="366.0" r="4" fill="#3465a4"><title>St Kilda</title></circle></a><a href="/setts/s4/k20db1k4db3~x4/"><circle cx="626.0" cy="279.4" r="4" fill="#3465a4"><title>Loevenstein Castle 2 (Artefact)</title></circle></a><a href="/setts/s7/k24g3r3k24r2k2r2/"><circle cx="548.8" cy="218.8" r="4" fill="#3465a4"><title>Unidentified 11</title></circle></a><a href="/setts/s3/db1k12db1~x10/"><circle cx="626.0" cy="300.1" r="4" fill="#3465a4"><title>Staines (2013)</title></circle></a><a href="/setts/s5/k2r4k7r1k1~x2/"><circle cx="387.3" cy="266.7" r="4" fill="#3465a4"><title>Romsdal, Tresfjord</title></circle></a><a href="/setts/s5/k55r18k4r18k38/"><circle cx="469.7" cy="260.3" r="4" fill="#3465a4"><title>Unidentified Kirtle</title></circle></a><a href="/setts/s6/k15n7k6n11k50n4~x2/"><circle cx="565.2" cy="266.2" r="4" fill="#3465a4"><title>Freedom of Scotland</title></circle></a><a href="/setts/s6/k4k12k3o7k26o3~x2/"><circle cx="552.8" cy="280.6" r="4" fill="#3465a4"><title>Crombie House Check</title></circle></a><circle cx="550.4" cy="308.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/k69r14ly5~x2/"><circle cx="514.4" cy="245.1" r="4" fill="#3465a4"><title>Batson (Personal)</title></circle></a><a href="/setts/s2/k4r1~x6/"><circle cx="482.0" cy="360.9" r="4" fill="#3465a4"><title>St Kilda</title></circle></a><a href="/setts/s2/k4r1~x36/"><circle cx="506.0" cy="365.5" r="4" fill="#3465a4"><title>St Kilda</title></circle></a><a href="/setts/s4/k20db1k4db3~x4/"><circle cx="626.0" cy="278.9" r="4" fill="#3465a4"><title>Loevenstein Castle 2 (Artefact)</title></circle></a><a href="/setts/s7/k24g3r3k24r2k2r2/"><circle cx="548.8" cy="218.4" r="4" fill="#3465a4"><title>Unidentified 11</title></circle></a><a href="/setts/s3/db1k12db1~x10/"><circle cx="626.0" cy="299.7" r="4" fill="#3465a4"><title>Staines (2013)</title></circle></a><a href="/setts/s5/k2r4k7r1k1~x2/"><circle cx="387.4" cy="266.4" r="4" fill="#3465a4"><title>Romsdal, Tresfjord</title></circle></a><a href="/setts/s5/k55r18k4r18k38/"><circle cx="469.6" cy="259.9" r="4" fill="#3465a4"><title>Unidentified Kirtle</title></circle></a><a href="/setts/s6/k15n7k6n11k50n4~x2/"><circle cx="565.0" cy="265.8" r="4" fill="#3465a4"><title>Freedom of Scotland</title></circle></a><a href="/setts/s6/k4k12k3o7k26o3~x2/"><circle cx="552.8" cy="280.2" r="4" fill="#3465a4"><title>Crombie House Check</title></circle></a><circle cx="550.6" cy="307.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/k10r3k1~x4/

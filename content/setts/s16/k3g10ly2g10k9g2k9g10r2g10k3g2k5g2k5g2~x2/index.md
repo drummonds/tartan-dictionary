@@ -2,12 +2,18 @@
 title: "Stewart hunting"
 date: 2023-03-18
 ---
-**Bands:** [GKGKGKGRGKGKGYGK](/stripes/gkgkgkgrgkgkgygk/) · **Stripes:** [G K G K G K G R G K G K G LY G K](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">G K G K G K G R G K G K G LY G K</span></span>
+**Bands:** [KGYGKGKGRGKGKGKG](/stripes/kgygkgkgrgkgkgkg/) · **Stripes:** [K G LY G K G K G R G K G K G K G](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G LY G K G K G R G K G K G K G</span></span>
 
 
 This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Stuart/Stewart Hunting #4
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/4 K10 G4 K10 G4 K6 G20 R4 G20 K18 G4 K18 G20 Y4 G20 K/6
+K/6 G20 Y4 G20 K18 G4 K18 G20 R4 G20 K6 G4 K10 G4 K10 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -902,9 +911,9 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [MacAlpine](/setts/s14/k4ly1k4g1k4w1k4g1k1g6k1g6k1g1~x4/) — ΔT 0.93
-1. [Crihfield Family (Personal)](/setts/s13/lb4k2g6o3g10k10g4k10g10o3g6k2o4~x2/) — ΔT 1.41
-1. [MacAlpine](/setts/s14/k4lb1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1/) — ΔT 1.53
+1. [MacAlpine](/setts/s14/k4ly1k4g1k4w1k4g1k1g6k1g6k1g1~x4/) — ΔT 0.94
+1. [Crihfield Family (Personal)](/setts/s13/o4k2g6o3g10k10g4k10g10o3g6k2lb4~x2/) — ΔT 1.41
+1. [MacAlpine](/setts/s14/k4lb1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1~x2/) — ΔT 1.53
 1. [Moncrieffe Athol](/setts/s13/g20k3g3k3g3k18g21r4g21k18g19k2r4~x2/) — ΔT 1.68
 1. [Stewart hunting](/setts/s22/db9g4db9k3db3k8g27r4g27k8g5k13g4k13g5k8g27ly4g27k8db3k3/) — ΔT 1.71
 1. [O'Connor, Old](/setts/s16/g5k24g12k16g26w4g24w4g26k16k4k4k4k4k28g3/) — ΔT 1.79
@@ -915,8 +924,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k4ly1k4g1k4w1k4g1k1g6k1g6k1g1~x4/"><circle cx="225.4" cy="203.4" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s13/lb4k2g6o3g10k10g4k10g10o3g6k2o4~x2/"><circle cx="158.5" cy="228.7" r="4" fill="#3465a4"><title>Crihfield Family (Personal)</title></circle></a><a href="/setts/s14/k4lb1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1/"><circle cx="241.9" cy="211.8" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s13/g20k3g3k3g3k18g21r4g21k18g19k2r4~x2/"><circle cx="316.3" cy="201.2" r="4" fill="#3465a4"><title>Moncrieffe Athol</title></circle></a><a href="/setts/s22/db9g4db9k3db3k8g27r4g27k8g5k13g4k13g5k8g27ly4g27k8db3k3/"><circle cx="224.9" cy="146.0" r="4" fill="#3465a4"><title>Stewart hunting</title></circle></a><a href="/setts/s16/g5k24g12k16g26w4g24w4g26k16k4k4k4k4k28g3/"><circle cx="184.3" cy="179.4" r="4" fill="#3465a4"><title>O'Connor, Old</title></circle></a><a href="/setts/s16/g5k12g6k8g13lb2g12lb2g13k8db2k2db2k2db14g3~x2/"><circle cx="182.1" cy="195.1" r="4" fill="#3465a4"><title>Royal Na Connaught</title></circle></a><a href="/setts/s12/g4k4g4k1g4k4g4k1g4k4g4ly1~x2/"><circle cx="252.3" cy="287.5" r="4" fill="#3465a4"><title>Norwich No.039 (Mackinlay)</title></circle></a><a href="/setts/s10/dt12w2dt7g15k2g4k2g15dt2k7~x2/"><circle cx="212.8" cy="210.6" r="4" fill="#3465a4"><title>Smeaton</title></circle></a><a href="/setts/s13/r3k2db10k10g12k8g12k10g2k10db2k2db2/"><circle cx="184.4" cy="218.0" r="4" fill="#3465a4"><title>Unnamed 5</title></circle></a><circle cx="222.0" cy="214.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k4ly1k4g1k4w1k4g1k1g6k1g6k1g1~x4/"><circle cx="225.5" cy="203.2" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s13/o4k2g6o3g10k10g4k10g10o3g6k2lb4~x2/"><circle cx="158.7" cy="228.5" r="4" fill="#3465a4"><title>Crihfield Family (Personal)</title></circle></a><a href="/setts/s14/k4lb1k4dg1k1dg6k1dg6k1dg1k4ly1k4dg1~x2/"><circle cx="242.0" cy="211.7" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s13/g20k3g3k3g3k18g21r4g21k18g19k2r4~x2/"><circle cx="316.2" cy="200.9" r="4" fill="#3465a4"><title>Moncrieffe Athol</title></circle></a><a href="/setts/s22/db9g4db9k3db3k8g27r4g27k8g5k13g4k13g5k8g27ly4g27k8db3k3/"><circle cx="224.8" cy="145.9" r="4" fill="#3465a4"><title>Stewart hunting</title></circle></a><a href="/setts/s16/g5k24g12k16g26w4g24w4g26k16k4k4k4k4k28g3/"><circle cx="184.4" cy="179.3" r="4" fill="#3465a4"><title>O'Connor, Old</title></circle></a><a href="/setts/s16/g5k12g6k8g13lb2g12lb2g13k8db2k2db2k2db14g3~x2/"><circle cx="182.2" cy="194.9" r="4" fill="#3465a4"><title>Royal Na Connaught</title></circle></a><a href="/setts/s12/g4k4g4k1g4k4g4k1g4k4g4ly1~x2/"><circle cx="252.4" cy="287.3" r="4" fill="#3465a4"><title>Norwich No.039 (Mackinlay)</title></circle></a><a href="/setts/s10/dt12w2dt7g15k2g4k2g15dt2k7~x2/"><circle cx="212.8" cy="210.5" r="4" fill="#3465a4"><title>Smeaton</title></circle></a><a href="/setts/s13/r3k2db10k10g12k8g12k10g2k10db2k2db2/"><circle cx="184.6" cy="217.9" r="4" fill="#3465a4"><title>Unnamed 5</title></circle></a><circle cx="222.1" cy="214.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/k3g10ly2g10k9g2k9g10r2g10k3g2k5g2k5g2~x2/

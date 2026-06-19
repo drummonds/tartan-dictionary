@@ -8,7 +8,7 @@ BKRKYKB
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/db1k4lo1k1r1k4db1~x12/tartan.png)
+![Woven sample](/setts/s7/db1k4r1k1lo1k4db1~x12/tartan.png)
 
 
 
@@ -25,13 +25,13 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Justus (Personal)](/setts/s7/db1k4lo1k1r1k4db1~x12/)|
-|![Justus (Personal) example sett](/setts/s7/db1k4lo1k1r1k4db1~x12/sett.png)|
+| [Justus (Personal)](/setts/s7/db1k4r1k1lo1k4db1~x12/)|
+|![Justus (Personal) example sett](/setts/s7/db1k4r1k1lo1k4db1~x12/sett.png)|
 
 ### DB K R K LY K DB <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K R K LY K DB</span></span>
 
 | Tartans |
 |---------------|
-| [Justus Family Tartan Tartan Number: 2100. Earliest known date: 1990 Submitted as the Justus family sett but awaits the approval of the proposed Justus Family Society of North America. Sample supplied in 9 tpi. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/db1k4ly1k1r1k4db1~x6/)|
-|![Justus Family Tartan Tartan Number: 2100. Earliest known date: 1990 Submitted as the Justus family sett but awaits the approval of the proposed Justus Family Society of North America. Sample supplied in 9 tpi. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/db1k4ly1k1r1k4db1~x6/sett.png)|
+| [Justus Family Tartan Tartan Number: 2100. Earliest known date: 1990 Submitted as the Justus family sett but awaits the approval of the proposed Justus Family Society of North America. Sample supplied in 9 tpi. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/db1k4r1k1ly1k4db1~x6/)|
+|![Justus Family Tartan Tartan Number: 2100. Earliest known date: 1990 Submitted as the Justus family sett but awaits the approval of the proposed Justus Family Society of North America. Sample supplied in 9 tpi. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/db1k4r1k1ly1k4db1~x6/sett.png)|
 

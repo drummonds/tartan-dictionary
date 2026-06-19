@@ -8,7 +8,7 @@ RBKWRY
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/lo2o20w2k13db61r2~x2/tartan.png)
+![Woven sample](/setts/s6/r2db61k13w2o20lo2~x2/tartan.png)
 
 
 
@@ -25,8 +25,8 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Lloyd of Astargus](/setts/s6/lo2o20w2k13db61r2~x2/)|
-|![Lloyd of Astargus example sett](/setts/s6/lo2o20w2k13db61r2~x2/sett.png)|
+| [Lloyd of Astargus](/setts/s6/r2db61k13w2o20lo2~x2/)|
+|![Lloyd of Astargus example sett](/setts/s6/r2db61k13w2o20lo2~x2/sett.png)|
 
 ### R DB K W O LY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DB K W O LY</span></span>
 

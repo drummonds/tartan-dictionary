@@ -8,7 +8,7 @@ KWKRKW
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/k13w2k4r28k4w2~x2/tartan.png)
+![Woven sample](/setts/s6/r28k4w2k13~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ KWKRKW
 
 | Tartans |
 |---------------|
-| [Dunbar Ancient](/setts/s6/k13w2k4r28k4w2~x2/)|
-|![Dunbar Ancient example sett](/setts/s6/k13w2k4r28k4w2~x2/sett.png)|
+| [Dunbar Ancient](/setts/s6/r28k4w2k13~x2/)|
+|![Dunbar Ancient example sett](/setts/s6/r28k4w2k13~x2/sett.png)|
 

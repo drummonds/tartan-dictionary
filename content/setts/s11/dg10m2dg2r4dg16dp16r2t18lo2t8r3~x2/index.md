@@ -2,12 +2,18 @@
 title: "Commonwealth Games 1998"
 date: 2023-03-18
 ---
-**Bands:** [GRGRGBRBYBR](/stripes/grgrgbrbybr/) · **Stripes:** [DG M DG R DG DP R T LO T R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG M DG R DG DP R T LO T R</span></span>
+**Bands:** [RBYBRBGRGRG](/stripes/rbybrbgrgrg/) · **Stripes:** [R T LO T R DP DG R DG M DG](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="seq">R T LO T R DP DG R DG M DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=722
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Malay 98 / Commonwealth Games
 
 ## Attestations
 
@@ -56,8 +62,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/o10t5db15k3db15k5r25k3w4~x2/"><circle cx="124.4" cy="172.8" r="4" fill="#3465a4"><title>Galway County Crest (Fashion)</title></circle></a><a href="/setts/s11/g10m2g2m4g16dp16m2t18lo2t8m3~x2/"><circle cx="142.3" cy="164.2" r="4" fill="#3465a4"><title>Commonwealth Games 1998 (Corporate)</title></circle></a><a href="/setts/s10/g4do21lo10do5lo4r4db10g6db30lb4~x2/"><circle cx="159.6" cy="172.0" r="4" fill="#3465a4"><title>State Seal of Arizona (Fashion)</title></circle></a><a href="/setts/s14/k20g18k2ly2k5w2k2g18k20dp18b4dp4b4dp18~x2/"><circle cx="132.7" cy="146.0" r="4" fill="#3465a4"><title>Shandon (Personal)</title></circle></a><a href="/setts/s10/dp22r3k22g22ly2g22k22r3dp22w3~x2/"><circle cx="113.1" cy="165.2" r="4" fill="#3465a4"><title>Unidentified Scarlett #7</title></circle></a><a href="/setts/s11/o9db4o2db4o2db15o9db4r18k9ly2~x2/"><circle cx="140.1" cy="173.7" r="4" fill="#3465a4"><title>Stephens</title></circle></a><a href="/setts/s13/db23r6db6k10ly3k2w2k2dg11r12k2r10w2~x2/"><circle cx="109.8" cy="125.4" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><a href="/setts/s14/db24g4dg2g8dg2g4db12g3r22ly3t8g3r22ly6~x2/"><circle cx="138.0" cy="121.9" r="4" fill="#3465a4"><title>Devon 2000</title></circle></a><a href="/setts/s10/k2o10k5dg8k12r20t16r4t5w2~x2/"><circle cx="74.4" cy="156.7" r="4" fill="#3465a4"><title>Manderson #2</title></circle></a><a href="/setts/s9/w2r3db6db8g12k1r4db2w2~x4/"><circle cx="93.5" cy="154.0" r="4" fill="#3465a4"><title>Scottish National - 1934 (Fashion)</title></circle></a><circle cx="126.3" cy="154.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/o10t5db15k3db15k5r25k3w4~x2/"><circle cx="124.5" cy="172.9" r="4" fill="#3465a4"><title>Galway County Crest (Fashion)</title></circle></a><a href="/setts/s11/g10m2g2m4g16dp16m2t18lo2t8m3~x2/"><circle cx="142.2" cy="164.3" r="4" fill="#3465a4"><title>Commonwealth Games 1998 (Corporate)</title></circle></a><a href="/setts/s10/g4do21lo10do5lo4r4db10g6db30lb4~x2/"><circle cx="159.6" cy="172.1" r="4" fill="#3465a4"><title>State Seal of Arizona (Fashion)</title></circle></a><a href="/setts/s14/k20g18k2ly2k5w2k2g18k20dp18b4dp4b4dp18~x2/"><circle cx="132.8" cy="146.1" r="4" fill="#3465a4"><title>Shandon (Personal)</title></circle></a><a href="/setts/s10/dp22r3k22g22ly2g22k22r3dp22w3~x2/"><circle cx="113.2" cy="165.3" r="4" fill="#3465a4"><title>Unidentified Scarlett #7</title></circle></a><a href="/setts/s11/o9db4o2db4o2db15o9db4r18k9ly2~x2/"><circle cx="140.1" cy="173.8" r="4" fill="#3465a4"><title>Stephens</title></circle></a><a href="/setts/s13/db23r6db6k10ly3k2w2k2dg11r12k2r10w2~x2/"><circle cx="109.7" cy="125.6" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><a href="/setts/s14/db24g4dg2g8dg2g4db12g3r22ly3t8g3r22ly6~x2/"><circle cx="137.8" cy="122.1" r="4" fill="#3465a4"><title>Devon 2000</title></circle></a><a href="/setts/s10/k2o10k5dg8k12r20t16r4t5w2~x2/"><circle cx="74.4" cy="156.8" r="4" fill="#3465a4"><title>Manderson #2</title></circle></a><a href="/setts/s9/w2r3db6db8g12k1r4db2w2~x4/"><circle cx="93.6" cy="154.1" r="4" fill="#3465a4"><title>Scottish National - 1934 (Fashion)</title></circle></a><circle cx="126.3" cy="155.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/dg10m2dg2r4dg16dp16r2t18lo2t8r3~x2/

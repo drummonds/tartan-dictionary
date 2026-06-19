@@ -2,12 +2,18 @@
 title: "MacGowan"
 date: 2023-03-18
 ---
-**Bands:** [RBRGR](/stripes/rbrgr/) · **Stripes:** [R DB R G R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB R G R</span></span>
+**Bands:** [RGRBR](/stripes/rgrbr/) · **Stripes:** [R G R DB R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G R DB R</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2448
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Gow
 
 ## Attestations
 
@@ -44,21 +50,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Gow](/setts/s5/r4db4r1dg4r4~x4/) — ΔT 0.39
-1. [Gow (Portrait)](/setts/s5/r3db3r1dg3r3~x12/) — ΔT 0.81
-1. [Gow](/setts/s5/r4db4r1dg4r4~x2/) — ΔT 0.87
+1. [Gow](/setts/s5/r4dg4r1db4r4~x4/) — ΔT 0.39
+1. [Gow (Portrait)](/setts/s5/r3dg3r1db3r3~x12/) — ΔT 0.81
+1. [Gow](/setts/s5/r4dg4r1db4r4/) — ΔT 0.84
+1. [Gow](/setts/s5/r4dg4r1db4r4~x2/) — ΔT 0.87
 1. [Menzies](/setts/s5/r5dg5lr1b2r5~x2/) — ΔT 1.35
-1. [Menzies](/setts/s5/r5dg5lr1b2r5/) — ΔT 1.35
 1. [Tulsa, City of](/setts/s6/dg14db8dg14r14k3r14~x2/) — ΔT 1.54
 1. [Fiddes (Corrected)](/setts/s7/g12r11dp12r3dp8g8dp8~x2/) — ΔT 1.57
 1. [MacDuff #3](/setts/s7/r10db6k8dg10r6dg3r6~x2/) — ΔT 1.62
-1. [Unidentified (Gow-like)](/setts/s5/r3g10r10k10r3~x4/) — ΔT 1.67
+1. [Unidentified (Gow-like)](/setts/s5/r3k10r10g10r3~x4/) — ΔT 1.67
 1. [Wilson's No.188](/setts/s4/g2r4g2t1~x4/) — ΔT 1.70
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r4db4r1dg4r4~x4/"><circle cx="245.5" cy="320.4" r="4" fill="#3465a4"><title>Gow</title></circle></a><a href="/setts/s5/r3db3r1dg3r3~x12/"><circle cx="240.9" cy="342.6" r="4" fill="#3465a4"><title>Gow (Portrait)</title></circle></a><a href="/setts/s5/r4db4r1dg4r4~x2/"><circle cx="220.8" cy="309.6" r="4" fill="#3465a4"><title>Gow</title></circle></a><a href="/setts/s5/r5dg5lr1b2r5~x2/"><circle cx="275.6" cy="283.9" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s5/r5dg5lr1b2r5/"><circle cx="275.6" cy="283.9" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s6/dg14db8dg14r14k3r14~x2/"><circle cx="182.4" cy="290.1" r="4" fill="#3465a4"><title>Tulsa, City of</title></circle></a><a href="/setts/s7/g12r11dp12r3dp8g8dp8~x2/"><circle cx="150.2" cy="281.0" r="4" fill="#3465a4"><title>Fiddes (Corrected)</title></circle></a><a href="/setts/s7/r10db6k8dg10r6dg3r6~x2/"><circle cx="136.2" cy="289.4" r="4" fill="#3465a4"><title>MacDuff #3</title></circle></a><a href="/setts/s5/r3g10r10k10r3~x4/"><circle cx="178.7" cy="297.1" r="4" fill="#3465a4"><title>Unidentified (Gow-like)</title></circle></a><a href="/setts/s4/g2r4g2t1~x4/"><circle cx="240.3" cy="313.9" r="4" fill="#3465a4"><title>Wilson's No.188</title></circle></a><circle cx="239.3" cy="316.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r4dg4r1db4r4~x4/"><circle cx="245.5" cy="320.3" r="4" fill="#3465a4"><title>Gow</title></circle></a><a href="/setts/s5/r3dg3r1db3r3~x12/"><circle cx="240.9" cy="342.4" r="4" fill="#3465a4"><title>Gow (Portrait)</title></circle></a><a href="/setts/s5/r4dg4r1db4r4/"><circle cx="239.2" cy="322.3" r="4" fill="#3465a4"><title>Gow</title></circle></a><a href="/setts/s5/r4dg4r1db4r4~x2/"><circle cx="220.8" cy="309.4" r="4" fill="#3465a4"><title>Gow</title></circle></a><a href="/setts/s5/r5dg5lr1b2r5~x2/"><circle cx="275.5" cy="283.8" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s6/dg14db8dg14r14k3r14~x2/"><circle cx="182.4" cy="290.0" r="4" fill="#3465a4"><title>Tulsa, City of</title></circle></a><a href="/setts/s7/g12r11dp12r3dp8g8dp8~x2/"><circle cx="150.2" cy="281.0" r="4" fill="#3465a4"><title>Fiddes (Corrected)</title></circle></a><a href="/setts/s7/r10db6k8dg10r6dg3r6~x2/"><circle cx="136.2" cy="289.3" r="4" fill="#3465a4"><title>MacDuff #3</title></circle></a><a href="/setts/s5/r3k10r10g10r3~x4/"><circle cx="178.8" cy="296.9" r="4" fill="#3465a4"><title>Unidentified (Gow-like)</title></circle></a><a href="/setts/s4/g2r4g2t1~x4/"><circle cx="240.3" cy="313.7" r="4" fill="#3465a4"><title>Wilson's No.188</title></circle></a><circle cx="239.2" cy="315.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/r4db4r1g4r4~x6/

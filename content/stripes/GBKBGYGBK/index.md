@@ -19,14 +19,14 @@ GBKBGYGBK
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DG DT K DT DG LY DG DT K <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="seq">DG DT K DT DG LY DG DT K</span></span>
+### K DT DG LY DG DT K DT DG <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="seq">K DT DG LY DG DT K DT DG</span></span>
 
 | Tartans |
 |---------------|
 | [Dewar, Robert Alexander](/setts/s9/dg15dt8k5dt8dg15ly3dg15dt8k5~x2/)|
 |![Dewar, Robert Alexander example sett](/setts/s9/dg15dt8k5dt8dg15ly3dg15dt8k5~x2/sett.png)|
 
-### G DT K DT G LY G DT K <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="seq">G DT K DT G LY G DT K</span></span>
+### K DT G LY G DT K DT G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K DT G LY G DT K DT G</span></span>
 
 | Tartans |
 |---------------|

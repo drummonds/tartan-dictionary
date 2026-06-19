@@ -21,14 +21,14 @@ GBGGG
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DY DO G DY G <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DY DO G DY G</span></span>
+### G DY G DO DY <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">G DY G DO DY</span></span>
 
 | Tartans |
 |---------------|
 | [Glen Boig](/setts/s5/g13dy3g1do3dy1~x6/)|
 |![Glen Boig example sett](/setts/s5/g13dy3g1do3dy1~x6/sett.png)|
 
-### DY DO Y DY Y <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DY DO Y DY Y</span></span>
+### Y DY Y DO DY <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">Y DY Y DO DY</span></span>
 
 | Tartans |
 |---------------|

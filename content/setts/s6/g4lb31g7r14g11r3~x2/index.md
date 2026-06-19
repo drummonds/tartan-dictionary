@@ -2,7 +2,7 @@
 title: "Gleneagles USA (Dalgleish)"
 date: 2023-03-18
 ---
-**Bands:** [GWGRGR](/stripes/gwgrgr/) · **Stripes:** [G LB G R G R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">G LB G R G R</span></span>
+**Bands:** [RGRGWG](/stripes/rgrgwg/) · **Stripes:** [R G R G LB G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G LB G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5032
 
 ## Thread count
-DR/6 G22 DR28 G14 N62 G/8
+G/8 N62 G14 DR28 G22 DR/6
 ![Sett](sett.png)
 
 ## Palette
@@ -38,7 +38,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/6 G22 DR28 G14 N62 G/8 tartan")
+![Tartan detail](tartan.png "G/8 N62 G14 DR28 G22 DR/6 tartan")
 
 ## Nearest tartans
 
@@ -53,12 +53,12 @@ The nearest existing variants by ΔTartan distance.
 1. [O'Neill Pipe Band 1970 (Corporate)](/setts/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/) — ΔT 1.26
 1. [Grey Watch, Dress](/setts/s8/y9do1y1do1y1do7w7do2~x4/) — ΔT 1.26
 1. [Thompson Camel Clan Tartan Tartan Number: 2421. Earliest known date: 1967 Designed by Scotty Thompson. It it a simple colour variation on the usual blue Thompson, but is often confused with the Burberry Check. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r2lo20k5w10k10w2~x2/) — ΔT 1.30
-1. [Un-named (D C Dalgliesh) #3](/setts/s6/g3lr24k15o3g25k3~x2/) — ΔT 1.33
+1. [Un-named (D C Dalgliesh) #3](/setts/s6/k3g25o3k15lr24g3~x2/) — ΔT 1.33
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/y22dy2y2dy2y2dy14w16dy3~x2/"><circle cx="248.0" cy="189.8" r="4" fill="#3465a4"><title>Snaefell (District)</title></circle></a><a href="/setts/s8/lo22do2lo2do2lo2do15w17do3~x2/"><circle cx="222.9" cy="175.2" r="4" fill="#3465a4"><title>Turnberry Manx Snaefell Family Tartan Tartan Number: 1749. Earliest known date: 1981 A coincidence. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/lo24dy3lo3dy3lo3dy20w22dy4~x2/"><circle cx="212.1" cy="201.4" r="4" fill="#3465a4"><title>Baillie Dress</title></circle></a><a href="/setts/s6/r4lo30k6w13k13w3~x2/"><circle cx="190.7" cy="187.0" r="4" fill="#3465a4"><title>Thomson Camel</title></circle></a><a href="/setts/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/"><circle cx="236.1" cy="179.8" r="4" fill="#3465a4"><title>Kildonan Brown (Fashion)</title></circle></a><a href="/setts/s6/r4ly30k6w13k13w3~x2/"><circle cx="186.1" cy="183.5" r="4" fill="#3465a4"><title>Thomson, Camel (Fashion)</title></circle></a><a href="/setts/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/"><circle cx="304.6" cy="191.6" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1970 (Corporate)</title></circle></a><a href="/setts/s8/y9do1y1do1y1do7w7do2~x4/"><circle cx="216.3" cy="201.8" r="4" fill="#3465a4"><title>Grey Watch, Dress</title></circle></a><a href="/setts/s6/r2lo20k5w10k10w2~x2/"><circle cx="176.6" cy="190.1" r="4" fill="#3465a4"><title>Thompson Camel Clan Tartan Tartan Number: 2421. Earliest known date: 1967 Designed by Scotty Thompson. It it a simple colour variation on the usual blue Thompson, but is often confused with the Burberry Check. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/g3lr24k15o3g25k3~x2/"><circle cx="180.2" cy="206.0" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #3</title></circle></a><circle cx="240.5" cy="210.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/y22dy2y2dy2y2dy14w16dy3~x2/"><circle cx="247.7" cy="189.7" r="4" fill="#3465a4"><title>Snaefell (District)</title></circle></a><a href="/setts/s8/lo22do2lo2do2lo2do15w17do3~x2/"><circle cx="222.6" cy="175.0" r="4" fill="#3465a4"><title>Turnberry Manx Snaefell Family Tartan Tartan Number: 1749. Earliest known date: 1981 A coincidence. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/lo24dy3lo3dy3lo3dy20w22dy4~x2/"><circle cx="211.8" cy="201.3" r="4" fill="#3465a4"><title>Baillie Dress</title></circle></a><a href="/setts/s6/r4lo30k6w13k13w3~x2/"><circle cx="190.6" cy="186.9" r="4" fill="#3465a4"><title>Thomson Camel</title></circle></a><a href="/setts/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/"><circle cx="235.8" cy="179.7" r="4" fill="#3465a4"><title>Kildonan Brown (Fashion)</title></circle></a><a href="/setts/s6/r4ly30k6w13k13w3~x2/"><circle cx="185.9" cy="183.4" r="4" fill="#3465a4"><title>Thomson, Camel (Fashion)</title></circle></a><a href="/setts/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/"><circle cx="304.2" cy="191.3" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1970 (Corporate)</title></circle></a><a href="/setts/s8/y9do1y1do1y1do7w7do2~x4/"><circle cx="216.1" cy="201.7" r="4" fill="#3465a4"><title>Grey Watch, Dress</title></circle></a><a href="/setts/s6/r2lo20k5w10k10w2~x2/"><circle cx="176.4" cy="189.9" r="4" fill="#3465a4"><title>Thompson Camel Clan Tartan Tartan Number: 2421. Earliest known date: 1967 Designed by Scotty Thompson. It it a simple colour variation on the usual blue Thompson, but is often confused with the Burberry Check. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/k3g25o3k15lr24g3~x2/"><circle cx="180.1" cy="205.9" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #3</title></circle></a><circle cx="240.2" cy="210.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/g4lb31g7r14g11r3~x2/

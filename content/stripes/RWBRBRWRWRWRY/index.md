@@ -22,6 +22,6 @@ RWBRBRWRWRWRY
 
 | Tartans |
 |---------------|
-| [ESPRAS (Corporate)](/setts/s13/lo2m10w1m3w1m3w1m3db2r1db36w1r2~x2/)|
-|![ESPRAS (Corporate) example sett](/setts/s13/lo2m10w1m3w1m3w1m3db2r1db36w1r2~x2/sett.png)|
+| [ESPRAS (Corporate)](/setts/s13/r2w1db36r1db2m3w1m3w1m3w1m10lo2~x2/)|
+|![ESPRAS (Corporate) example sett](/setts/s13/r2w1db36r1db2m3w1m3w1m3w1m10lo2~x2/sett.png)|
 

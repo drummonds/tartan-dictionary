@@ -2,7 +2,7 @@
 title: "Livingston"
 date: 2023-03-18
 ---
-**Bands:** [GKRKRGRGR](/stripes/gkrkrgrgr/) · **Stripes:** [G K R K R G R G R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">G K R K R G R G R</span></span>
+**Bands:** [RGRGRKRKG](/stripes/rgrgrkrkg/) · **Stripes:** [R G R G R K R K G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G R K R K G</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -907,15 +910,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Cumming #2](/setts/s8/r3g9w1g9r3g6r18k2~x2/) — ΔT 1.08
 1. [Livingston](/setts/s10/dg12r3k1r3k1r4dg16r20dg2r8~x2/) — ΔT 1.08
 1. [MacRea / MacRae](/setts/s11/dg22r4dg22r22dg2r3dg2r3dg2r3ly2~x2/) — ΔT 1.15
-1. [MacPhee, MacFie](/setts/s9/ly1r12g2r1g16r1g2r12w1~x2/) — ΔT 1.19
-1. [Cumming SM](/setts/s8/r3dg9lb1dg9r3dg6r18k2/) — ΔT 1.21
-1. [MacPhie/Macfie](/setts/s9/ly1r12g2r1g16r1g2r12w1~x4/) — ΔT 1.24
-1. [Unidentified Cant #09](/setts/s8/r44db2g26r3db2r3g26db2/) — ΔT 1.25
+1. [MacPhee, MacFie](/setts/s9/w1r12g2r1g16r1g2r12ly1~x2/) — ΔT 1.19
+1. [Cumming SM](/setts/s8/r3dg9lb1dg9r3dg6r18k2~x2/) — ΔT 1.21
+1. [MacPhie/Macfie](/setts/s9/w1r12g2r1g16r1g2r12ly1~x4/) — ΔT 1.24
+1. [Unidentified Cant #09](/setts/s8/r44db2g26r3db2/) — ΔT 1.25
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg20k2r3k2r6dg20r29dg3r10~x2/"><circle cx="345.1" cy="186.8" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/setts/s6/g5w2r27g27r5w2~x2/"><circle cx="335.6" cy="199.3" r="4" fill="#3465a4"><title>MacDonald of Glenaladale (symmetrical)</title></circle></a><a href="/setts/s10/g12r4k1r2k1r4g16r20g2r8~x2/"><circle cx="388.3" cy="176.4" r="4" fill="#3465a4"><title>Livingstone #2</title></circle></a><a href="/setts/s8/r3g9w1g9r3g6r18k2~x2/"><circle cx="313.7" cy="177.4" r="4" fill="#3465a4"><title>Cumming #2</title></circle></a><a href="/setts/s10/dg12r3k1r3k1r4dg16r20dg2r8~x2/"><circle cx="379.0" cy="172.4" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/setts/s11/dg22r4dg22r22dg2r3dg2r3dg2r3ly2~x2/"><circle cx="375.4" cy="179.3" r="4" fill="#3465a4"><title>MacRea / MacRae</title></circle></a><a href="/setts/s9/ly1r12g2r1g16r1g2r12w1~x2/"><circle cx="360.8" cy="155.8" r="4" fill="#3465a4"><title>MacPhee, MacFie</title></circle></a><a href="/setts/s8/r3dg9lb1dg9r3dg6r18k2/"><circle cx="308.8" cy="175.6" r="4" fill="#3465a4"><title>Cumming SM</title></circle></a><a href="/setts/s9/ly1r12g2r1g16r1g2r12w1~x4/"><circle cx="361.9" cy="155.2" r="4" fill="#3465a4"><title>MacPhie/Macfie</title></circle></a><a href="/setts/s8/r44db2g26r3db2r3g26db2/"><circle cx="376.9" cy="170.4" r="4" fill="#3465a4"><title>Unidentified Cant #09</title></circle></a><circle cx="336.1" cy="186.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg20k2r3k2r6dg20r29dg3r10~x2/"><circle cx="344.8" cy="186.6" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/setts/s6/g5w2r27g27r5w2~x2/"><circle cx="335.2" cy="199.1" r="4" fill="#3465a4"><title>MacDonald of Glenaladale (symmetrical)</title></circle></a><a href="/setts/s10/g12r4k1r2k1r4g16r20g2r8~x2/"><circle cx="387.9" cy="176.2" r="4" fill="#3465a4"><title>Livingstone #2</title></circle></a><a href="/setts/s8/r3g9w1g9r3g6r18k2~x2/"><circle cx="313.4" cy="177.3" r="4" fill="#3465a4"><title>Cumming #2</title></circle></a><a href="/setts/s10/dg12r3k1r3k1r4dg16r20dg2r8~x2/"><circle cx="378.6" cy="172.2" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/setts/s11/dg22r4dg22r22dg2r3dg2r3dg2r3ly2~x2/"><circle cx="375.0" cy="179.1" r="4" fill="#3465a4"><title>MacRea / MacRae</title></circle></a><a href="/setts/s9/w1r12g2r1g16r1g2r12ly1~x2/"><circle cx="360.4" cy="155.6" r="4" fill="#3465a4"><title>MacPhee, MacFie</title></circle></a><a href="/setts/s8/r3dg9lb1dg9r3dg6r18k2~x2/"><circle cx="308.5" cy="175.5" r="4" fill="#3465a4"><title>Cumming SM</title></circle></a><a href="/setts/s9/w1r12g2r1g16r1g2r12ly1~x4/"><circle cx="361.5" cy="155.1" r="4" fill="#3465a4"><title>MacPhie/Macfie</title></circle></a><a href="/setts/s8/r44db2g26r3db2/"><circle cx="376.6" cy="170.3" r="4" fill="#3465a4"><title>Unidentified Cant #09</title></circle></a><circle cx="335.7" cy="186.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/g20k2r3k2r6g20r29g3r10~x2/

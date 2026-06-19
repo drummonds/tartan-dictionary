@@ -2,7 +2,7 @@
 title: "Nova Scotia"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBGGRBGGGGGRBGG](/stripes/bgbgbggrbgggggrbgg/) · **Stripes:** [DB DG DB DG DB DG G O DB DG G DG G DG O DB DG G](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB DG DB DG DB DG G O DB DG G DG G DG O DB DG G</span></span>
+**Bands:** [GGBRGGGGGBRGGBGBGB](/stripes/ggbrgggggbrggbgbgb/) · **Stripes:** [G DG DB O DG G DG G DG DB O G DG DB DG DB DG DB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">G DG DB O DG G DG G DG DB O G DG DB DG DB DG DB</span></span>
 
 
 This was sourced from weddslist.  It is a [18 band tartan](/bands/bands18/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/8 DG2 B6 DG2 B6 DG8 G8 LT16 B50 DG4 G4 DG4 G4 DG4 LT28 B4 DG4 G/20
+G/20 DG4 B4 LT28 DG4 G4 DG4 G4 DG4 B50 LT16 G8 DG8 B6 DG2 B6 DG2 B/8
 ![Sett](sett.png)
 
 ## Palette
@@ -902,7 +905,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Glenorchy](/setts/s14/db2t1r2dg16r2db6t1r2dg6r2db16t1r2dg2~x2/) — ΔT 1.30
+1. [Glenorchy](/setts/s14/dg2r2t1db16r2dg6r2t1db6r2dg16r2t1db2~x2/) — ΔT 1.30
 1. [Lumsden Hunting](/setts/s17/dg34db2k2db2dg34r3db34r2db34r3k33db2dg2db2dg2db2k33~x2/) — ΔT 1.39
 1. [Hope-Vere/Weir (Modern)](/setts/s16/g19k1dg3k1g3k9db20k1ly1k7ly1k1db21k12g2dg1~x2/) — ΔT 1.43
 1. [Cumming and Glenorchy](/setts/s22/r3db20r3dg12r8t1db12r3dg22r3db3dg33r3db12t1r8dg12r3db20r3db3t1~x2/) — ΔT 1.46
@@ -911,12 +914,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Pennsylvania (District)](/setts/s19/dt30ly2dt2ly2dt5g5k15dt5g20r2k3r2g20dt5k15g5dt20ly2dt2~x2/) — ΔT 1.50
 1. [Stewart/Stuart](/setts/s17/g34k2db2k2g34r3k34r2k34r3db33k2g2k2g2k2db33/) — ΔT 1.51
 1. [Milne of Corstorphine #2 (Personal)](/setts/s14/dt22g1dt2g1dt4k16lo1g16r2g16lo1k16dt16g1~x2/) — ΔT 1.51
-1. [King (Personal)](/setts/s11/ly3n1k1y15n4k12n26y2k1y2r3~x2/) — ΔT 1.51
+1. [King (Personal)](/setts/s11/r3y2k1y2n26k12n4y15k1n1ly3~x2/) — ΔT 1.51
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db2t1r2dg16r2db6t1r2dg6r2db16t1r2dg2~x2/"><circle cx="276.5" cy="158.0" r="4" fill="#3465a4"><title>Glenorchy</title></circle></a><a href="/setts/s17/dg34db2k2db2dg34r3db34r2db34r3k33db2dg2db2dg2db2k33~x2/"><circle cx="266.2" cy="164.4" r="4" fill="#3465a4"><title>Lumsden Hunting</title></circle></a><a href="/setts/s16/g19k1dg3k1g3k9db20k1ly1k7ly1k1db21k12g2dg1~x2/"><circle cx="255.5" cy="136.4" r="4" fill="#3465a4"><title>Hope-Vere/Weir (Modern)</title></circle></a><a href="/setts/s22/r3db20r3dg12r8t1db12r3dg22r3db3dg33r3db12t1r8dg12r3db20r3db3t1~x2/"><circle cx="291.4" cy="122.4" r="4" fill="#3465a4"><title>Cumming and Glenorchy</title></circle></a><a href="/setts/s22/dg34r3db12t1r8dg12r3db20r3db3t1r3db20r3dg12r8t1db12r3dg22r3db3~x2/"><circle cx="294.6" cy="120.8" r="4" fill="#3465a4"><title>Cumming of Glenorchy</title></circle></a><a href="/setts/s22/k3g30k3dt36k3t26k2t8k2t26k4t26k2t4k2t26k3dt36k3g30k3w2/"><circle cx="227.7" cy="126.5" r="4" fill="#3465a4"><title>Ellis</title></circle></a><a href="/setts/s19/dt30ly2dt2ly2dt5g5k15dt5g20r2k3r2g20dt5k15g5dt20ly2dt2~x2/"><circle cx="252.3" cy="157.8" r="4" fill="#3465a4"><title>Pennsylvania (District)</title></circle></a><a href="/setts/s17/g34k2db2k2g34r3k34r2k34r3db33k2g2k2g2k2db33/"><circle cx="247.9" cy="155.9" r="4" fill="#3465a4"><title>Stewart/Stuart</title></circle></a><a href="/setts/s14/dt22g1dt2g1dt4k16lo1g16r2g16lo1k16dt16g1~x2/"><circle cx="253.6" cy="159.2" r="4" fill="#3465a4"><title>Milne of Corstorphine #2 (Personal)</title></circle></a><a href="/setts/s11/ly3n1k1y15n4k12n26y2k1y2r3~x2/"><circle cx="293.9" cy="134.7" r="4" fill="#3465a4"><title>King (Personal)</title></circle></a><circle cx="286.9" cy="141.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/dg2r2t1db16r2dg6r2t1db6r2dg16r2t1db2~x2/"><circle cx="276.3" cy="158.1" r="4" fill="#3465a4"><title>Glenorchy</title></circle></a><a href="/setts/s17/dg34db2k2db2dg34r3db34r2db34r3k33db2dg2db2dg2db2k33~x2/"><circle cx="266.2" cy="164.6" r="4" fill="#3465a4"><title>Lumsden Hunting</title></circle></a><a href="/setts/s16/g19k1dg3k1g3k9db20k1ly1k7ly1k1db21k12g2dg1~x2/"><circle cx="255.5" cy="136.6" r="4" fill="#3465a4"><title>Hope-Vere/Weir (Modern)</title></circle></a><a href="/setts/s22/r3db20r3dg12r8t1db12r3dg22r3db3dg33r3db12t1r8dg12r3db20r3db3t1~x2/"><circle cx="291.2" cy="122.4" r="4" fill="#3465a4"><title>Cumming and Glenorchy</title></circle></a><a href="/setts/s22/dg34r3db12t1r8dg12r3db20r3db3t1r3db20r3dg12r8t1db12r3dg22r3db3~x2/"><circle cx="294.5" cy="120.8" r="4" fill="#3465a4"><title>Cumming of Glenorchy</title></circle></a><a href="/setts/s22/k3g30k3dt36k3t26k2t8k2t26k4t26k2t4k2t26k3dt36k3g30k3w2/"><circle cx="227.5" cy="126.6" r="4" fill="#3465a4"><title>Ellis</title></circle></a><a href="/setts/s19/dt30ly2dt2ly2dt5g5k15dt5g20r2k3r2g20dt5k15g5dt20ly2dt2~x2/"><circle cx="252.3" cy="158.0" r="4" fill="#3465a4"><title>Pennsylvania (District)</title></circle></a><a href="/setts/s17/g34k2db2k2g34r3k34r2k34r3db33k2g2k2g2k2db33/"><circle cx="248.0" cy="156.1" r="4" fill="#3465a4"><title>Stewart/Stuart</title></circle></a><a href="/setts/s14/dt22g1dt2g1dt4k16lo1g16r2g16lo1k16dt16g1~x2/"><circle cx="253.6" cy="159.4" r="4" fill="#3465a4"><title>Milne of Corstorphine #2 (Personal)</title></circle></a><a href="/setts/s11/r3y2k1y2n26k12n4y15k1n1ly3~x2/"><circle cx="293.8" cy="134.8" r="4" fill="#3465a4"><title>King (Personal)</title></circle></a><circle cx="286.7" cy="141.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s18/g10dg2db2o14dg2g2dg2g2dg2db25o8g4dg4db3dg1db3dg1db4~x2/

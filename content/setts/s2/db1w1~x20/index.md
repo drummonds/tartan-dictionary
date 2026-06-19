@@ -48,17 +48,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Falkirk Tartan](/setts/s2/k1w1~x24/) — ΔT 2.22
 1. [Shepherd](/setts/s2/k1w1~x15/) — ΔT 2.31
 1. [Shepherd Check](/setts/s2/k1w1~x28/) — ΔT 2.31
-1. [Shepherd or Falkirk](/setts/s4/k1w1k1w1~x6/) — ΔT 2.38
+1. [Shepherd or Falkirk](/setts/s4/k1w1~x6/) — ΔT 2.38
 1. [Shepherd Brown & White (Fashion?)](/setts/s2/dy1lb1~x6/) — ΔT 2.54
 1. [Glen Moriston Estate Check](/setts/s3/dt1lb1w1~x8/) — ΔT 2.60
-1. [Wilson's, No 116](/setts/s2/g1p1~x16/) — ΔT 2.61
-1. [Hogg](/setts/s4/k1w1do1w1~x8/) — ΔT 2.77
+1. [Wilson's, No 116](/setts/s2/g1p1~x16/) — ΔT 2.62
+1. [Hogg](/setts/s4/k1w1do1~x8/) — ΔT 2.77
 1. [Wilson's No.172](/setts/s2/k9t8~x2/) — ΔT 2.83
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s2/k1w1~x6/"><circle cx="110.5" cy="366.0" r="4" fill="#3465a4"><title>Shepherd Check (Universal)</title></circle></a><a href="/setts/s2/k1w1~x24/"><circle cx="113.5" cy="366.0" r="4" fill="#3465a4"><title>Falkirk Tartan</title></circle></a><a href="/setts/s2/k1w1~x15/"><circle cx="109.3" cy="366.0" r="4" fill="#3465a4"><title>Shepherd</title></circle></a><a href="/setts/s2/k1w1~x28/"><circle cx="109.3" cy="366.0" r="4" fill="#3465a4"><title>Shepherd Check</title></circle></a><a href="/setts/s4/k1w1k1w1~x6/"><circle cx="95.6" cy="366.0" r="4" fill="#3465a4"><title>Shepherd or Falkirk</title></circle></a><a href="/setts/s2/dy1lb1~x6/"><circle cx="145.9" cy="366.0" r="4" fill="#3465a4"><title>Shepherd Brown &amp; White (Fashion?)</title></circle></a><a href="/setts/s3/dt1lb1w1~x8/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Glen Moriston Estate Check</title></circle></a><a href="/setts/s2/g1p1~x16/"><circle cx="160.4" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 116</title></circle></a><a href="/setts/s4/k1w1do1w1~x8/"><circle cx="35.3" cy="366.0" r="4" fill="#3465a4"><title>Hogg</title></circle></a><a href="/setts/s2/k9t8~x2/"><circle cx="171.5" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.172</title></circle></a><circle cx="109.3" cy="366.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s2/k1w1~x6/"><circle cx="110.8" cy="366.0" r="4" fill="#3465a4"><title>Shepherd Check (Universal)</title></circle></a><a href="/setts/s2/k1w1~x24/"><circle cx="113.8" cy="366.0" r="4" fill="#3465a4"><title>Falkirk Tartan</title></circle></a><a href="/setts/s2/k1w1~x15/"><circle cx="109.6" cy="366.0" r="4" fill="#3465a4"><title>Shepherd</title></circle></a><a href="/setts/s2/k1w1~x28/"><circle cx="109.6" cy="366.0" r="4" fill="#3465a4"><title>Shepherd Check</title></circle></a><a href="/setts/s4/k1w1~x6/"><circle cx="95.8" cy="366.0" r="4" fill="#3465a4"><title>Shepherd or Falkirk</title></circle></a><a href="/setts/s2/dy1lb1~x6/"><circle cx="146.1" cy="366.0" r="4" fill="#3465a4"><title>Shepherd Brown &amp; White (Fashion?)</title></circle></a><a href="/setts/s3/dt1lb1w1~x8/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Glen Moriston Estate Check</title></circle></a><a href="/setts/s2/g1p1~x16/"><circle cx="160.7" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 116</title></circle></a><a href="/setts/s4/k1w1do1~x8/"><circle cx="35.5" cy="366.0" r="4" fill="#3465a4"><title>Hogg</title></circle></a><a href="/setts/s2/k9t8~x2/"><circle cx="172.0" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.172</title></circle></a><circle cx="109.5" cy="366.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s2/db1w1~x20/

@@ -22,6 +22,6 @@ RRBRBRWRWRWKWR
 
 | Tartans |
 |---------------|
-| [Harrods](/setts/s14/o2w2k2w12o1w1o1w1o4dr5o2dr9o3r2~x2/)|
-|![Harrods example sett](/setts/s14/o2w2k2w12o1w1o1w1o4dr5o2dr9o3r2~x2/sett.png)|
+| [Harrods](/setts/s14/r2o3dr9o2dr5o4w1o1w1o1w12k2w2o2~x2/)|
+|![Harrods example sett](/setts/s14/r2o3dr9o2dr5o4w1o1w1o1w12k2w2o2~x2/sett.png)|
 

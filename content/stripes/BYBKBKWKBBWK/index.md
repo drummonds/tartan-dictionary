@@ -18,7 +18,7 @@ BYBKBKWKBBWK
 
 
 
-### B LG B K B K W K DB B W K <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">B LG B K B K W K DB B W K</span></span>
+### K W B DB K W K B K B LG B <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K W B DB K W K B K B LG B</span></span>
 
 | Tartans |
 |---------------|

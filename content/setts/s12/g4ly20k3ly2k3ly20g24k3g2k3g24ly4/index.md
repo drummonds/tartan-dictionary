@@ -2,12 +2,18 @@
 title: "Meredith of Wales"
 date: 2023-03-18
 ---
-**Bands:** [GYKYKYGKGKGY](/stripes/gykykygkgkgy/) · **Stripes:** [G LY K LY K LY G K G K G LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G LY K LY K LY G K G K G LY</span></span>
+**Bands:** [YGKGKGYKYKYG](/stripes/ygkgkgykykyg/) · **Stripes:** [LY G K G K G LY K LY K LY G](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G K G K G LY K LY K LY G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2936
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Meredith of Wales
 
 ## Attestations
 
@@ -24,7 +30,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6167
 
 ## Thread count
-G/4 Y20 K3 Y2 K3 Y20 G24 K3 G2 K3 G24 Y/4
+Y/4 G24 K3 G2 K3 G24 Y20 K3 Y2 K3 Y20 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -49,12 +55,12 @@ The nearest existing variants by ΔTartan distance.
 1. [MacCarthy (Fashion?)](/setts/s10/g2k1g14r2g2k10g2r4k1w2~x4/) — ΔT 1.53
 1. [MacMillan, Ancient](/setts/s12/g2k1g18k1g2k1r12g4ly6k1ly6k1~x2/) — ΔT 1.61
 1. [MacNeish](/setts/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2/) — ΔT 1.72
-1. [Monroig, Eric (Personal)](/setts/s12/ly2g16ly1b6r1ly1r1b6ly1g16b2r2~x2/) — ΔT 1.79
+1. [Monroig, Eric (Personal)](/setts/s12/r2b2g16ly1b6r1ly1r1b6ly1g16ly2~x2/) — ΔT 1.79
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/g4ly20ly3ly2ly3ly20g24ly3g2ly3g24ly4/"><circle cx="283.6" cy="173.8" r="4" fill="#3465a4"><title>Meredith (Welsh Name)</title></circle></a><a href="/setts/s9/ly24k2ly3k2ly3k8g24k2g5~x2/"><circle cx="225.9" cy="163.9" r="4" fill="#3465a4"><title>Jamaican National (District)</title></circle></a><a href="/setts/s9/ly24k2ly3k2ly3k8dg24k2dg5~x2/"><circle cx="219.6" cy="163.8" r="4" fill="#3465a4"><title>Jamaican National</title></circle></a><a href="/setts/s15/w2r18w2r5w2g13w2g13w2r5w2g13w2g13w2~x2/"><circle cx="276.6" cy="177.7" r="4" fill="#3465a4"><title>Major, Frazer</title></circle></a><a href="/setts/s12/dg4w2dg24ly8dg2ly4dg2ly16dg8w2dg1w4~x2/"><circle cx="304.5" cy="130.3" r="4" fill="#3465a4"><title>Australian Spirit</title></circle></a><a href="/setts/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/"><circle cx="347.3" cy="159.2" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/setts/s10/g2k1g14r2g2k10g2r4k1w2~x4/"><circle cx="247.8" cy="149.6" r="4" fill="#3465a4"><title>MacCarthy (Fashion?)</title></circle></a><a href="/setts/s12/g2k1g18k1g2k1r12g4ly6k1ly6k1~x2/"><circle cx="238.9" cy="123.3" r="4" fill="#3465a4"><title>MacMillan, Ancient</title></circle></a><a href="/setts/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2/"><circle cx="268.5" cy="163.0" r="4" fill="#3465a4"><title>MacNeish</title></circle></a><a href="/setts/s12/ly2g16ly1b6r1ly1r1b6ly1g16b2r2~x2/"><circle cx="324.7" cy="144.1" r="4" fill="#3465a4"><title>Monroig, Eric (Personal)</title></circle></a><circle cx="265.9" cy="168.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/g4ly20ly3ly2ly3ly20g24ly3g2ly3g24ly4/"><circle cx="283.2" cy="173.6" r="4" fill="#3465a4"><title>Meredith (Welsh Name)</title></circle></a><a href="/setts/s9/ly24k2ly3k2ly3k8g24k2g5~x2/"><circle cx="225.6" cy="163.7" r="4" fill="#3465a4"><title>Jamaican National (District)</title></circle></a><a href="/setts/s9/ly24k2ly3k2ly3k8dg24k2dg5~x2/"><circle cx="219.3" cy="163.6" r="4" fill="#3465a4"><title>Jamaican National</title></circle></a><a href="/setts/s15/w2r18w2r5w2g13w2g13w2r5w2g13w2g13w2~x2/"><circle cx="276.2" cy="177.5" r="4" fill="#3465a4"><title>Major, Frazer</title></circle></a><a href="/setts/s12/dg4w2dg24ly8dg2ly4dg2ly16dg8w2dg1w4~x2/"><circle cx="304.1" cy="130.0" r="4" fill="#3465a4"><title>Australian Spirit</title></circle></a><a href="/setts/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/"><circle cx="346.8" cy="158.9" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/setts/s10/g2k1g14r2g2k10g2r4k1w2~x4/"><circle cx="247.6" cy="149.5" r="4" fill="#3465a4"><title>MacCarthy (Fashion?)</title></circle></a><a href="/setts/s12/g2k1g18k1g2k1r12g4ly6k1ly6k1~x2/"><circle cx="238.6" cy="123.2" r="4" fill="#3465a4"><title>MacMillan, Ancient</title></circle></a><a href="/setts/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2/"><circle cx="268.1" cy="162.8" r="4" fill="#3465a4"><title>MacNeish</title></circle></a><a href="/setts/s12/r2b2g16ly1b6r1ly1r1b6ly1g16ly2~x2/"><circle cx="324.3" cy="143.9" r="4" fill="#3465a4"><title>Monroig, Eric (Personal)</title></circle></a><circle cx="265.5" cy="167.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/g4ly20k3ly2k3ly20g24k3g2k3g24ly4/

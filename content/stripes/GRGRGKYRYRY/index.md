@@ -18,10 +18,10 @@ GRGRGKYRYRY
 
 
 
-### Y M Y M Y K LO M LO M LO <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">Y M Y M Y K LO M LO M LO</span></span>
+### LO M LO M LO K Y M Y M Y <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LO M LO M LO K Y M Y M Y</span></span>
 
 | Tartans |
 |---------------|
-| [Glenmorangie (Corporate)](/setts/s11/lo6m2lo2m4lo13k12y13m4y2m2y6~x2/)|
-|![Glenmorangie (Corporate) example sett](/setts/s11/lo6m2lo2m4lo13k12y13m4y2m2y6~x2/sett.png)|
+| [Glenmorangie (Corporate)](/setts/s11/y6m2y2m4y13k12lo13m4lo2m2lo6~x2/)|
+|![Glenmorangie (Corporate) example sett](/setts/s11/y6m2y2m4y13k12lo13m4lo2m2lo6~x2/sett.png)|
 

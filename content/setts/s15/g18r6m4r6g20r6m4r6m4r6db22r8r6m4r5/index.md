@@ -2,12 +2,18 @@
 title: "MacDougall 6"
 date: 2023-03-18
 ---
-**Bands:** [GRRRGRRRRRBRRRR](/stripes/grrrgrrrrrbrrrr/) · **Stripes:** [G R M R G R M R M R DB R R M R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="seq">G R M R G R M R M R DB R R M R</span></span>
+**Bands:** [RRRRBRRRRRGRRRG](/stripes/rrrrbrrrrrgrrrg/) · **Stripes:** [R M R R DB R M R M R G R M R G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R M R R DB R M R M R G R M R G</span></span>
 
 
 This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified #35
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,12 +921,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Maple Leaf](/setts/s12/dg19r3dg3r15lo13r15dg3r3dg19ly6lo6dy6~x2/) — ΔT 1.36
 1. [Hallowfield Wood](/setts/s12/lo3r10dg4lo8do2lo8m11do16lo4dg4r10lo3~x2/) — ΔT 1.42
 1. [Blaylock Hunting (Name)](/setts/s12/dg4o2dg8do8y2o8y16k2do5o2y5lo2~x2/) — ΔT 1.45
-1. [Glenmorangie (Corporate)](/setts/s11/lo6m2lo2m4lo13k12y13m4y2m2y6~x2/) — ΔT 1.46
+1. [Glenmorangie (Corporate)](/setts/s11/y6m2y2m4y13k12lo13m4lo2m2lo6~x2/) — ΔT 1.46
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/dg18r6m4r6dg20r6m4r6m4r6db22r8r6m4r5/"><circle cx="123.3" cy="195.8" r="4" fill="#3465a4"><title>Unidentified #35</title></circle></a><a href="/setts/s10/r5ly3r19do6ly5do6dg12db5dg12db3~x2/"><circle cx="116.9" cy="208.0" r="4" fill="#3465a4"><title>Roscommon, County</title></circle></a><a href="/setts/s12/r4dy14lo2dy4lo2k6dy3k6db14r2db4r4~x2/"><circle cx="138.4" cy="192.8" r="4" fill="#3465a4"><title>Kinloch Anderson</title></circle></a><a href="/setts/s11/do10r4do4r4do20k20r3g20r4g4lo4~x2/"><circle cx="167.6" cy="205.4" r="4" fill="#3465a4"><title>Cameron of Erracht (WCWM)</title></circle></a><a href="/setts/s11/dy6m2dy2m4dy13dy12o13m4o2m2o6~x2/"><circle cx="182.0" cy="225.0" r="4" fill="#3465a4"><title>Glenmorangie #2</title></circle></a><a href="/setts/s10/dy3y2lo18k4r15k4dy6k4lo2y3~x2/"><circle cx="156.6" cy="174.5" r="4" fill="#3465a4"><title>Fitzsimmons Red (Name)</title></circle></a><a href="/setts/s12/dg19r3dg3r15lo13r15dg3r3dg19ly6lo6dy6~x2/"><circle cx="161.9" cy="200.8" r="4" fill="#3465a4"><title>Maple Leaf</title></circle></a><a href="/setts/s12/lo3r10dg4lo8do2lo8m11do16lo4dg4r10lo3~x2/"><circle cx="111.0" cy="185.1" r="4" fill="#3465a4"><title>Hallowfield Wood</title></circle></a><a href="/setts/s12/dg4o2dg8do8y2o8y16k2do5o2y5lo2~x2/"><circle cx="141.9" cy="178.1" r="4" fill="#3465a4"><title>Blaylock Hunting (Name)</title></circle></a><a href="/setts/s11/lo6m2lo2m4lo13k12y13m4y2m2y6~x2/"><circle cx="143.1" cy="202.6" r="4" fill="#3465a4"><title>Glenmorangie (Corporate)</title></circle></a><circle cx="114.1" cy="193.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/dg18r6m4r6dg20r6m4r6m4r6db22r8r6m4r5/"><circle cx="123.2" cy="196.0" r="4" fill="#3465a4"><title>Unidentified #35</title></circle></a><a href="/setts/s10/r5ly3r19do6ly5do6dg12db5dg12db3~x2/"><circle cx="116.9" cy="208.2" r="4" fill="#3465a4"><title>Roscommon, County</title></circle></a><a href="/setts/s12/r4dy14lo2dy4lo2k6dy3k6db14r2db4r4~x2/"><circle cx="138.5" cy="193.0" r="4" fill="#3465a4"><title>Kinloch Anderson</title></circle></a><a href="/setts/s11/do10r4do4r4do20k20r3g20r4g4lo4~x2/"><circle cx="167.7" cy="205.6" r="4" fill="#3465a4"><title>Cameron of Erracht (WCWM)</title></circle></a><a href="/setts/s11/dy6m2dy2m4dy13dy12o13m4o2m2o6~x2/"><circle cx="181.9" cy="225.1" r="4" fill="#3465a4"><title>Glenmorangie #2</title></circle></a><a href="/setts/s10/dy3y2lo18k4r15k4dy6k4lo2y3~x2/"><circle cx="156.5" cy="174.7" r="4" fill="#3465a4"><title>Fitzsimmons Red (Name)</title></circle></a><a href="/setts/s12/dg19r3dg3r15lo13r15dg3r3dg19ly6lo6dy6~x2/"><circle cx="161.9" cy="200.9" r="4" fill="#3465a4"><title>Maple Leaf</title></circle></a><a href="/setts/s12/lo3r10dg4lo8do2lo8m11do16lo4dg4r10lo3~x2/"><circle cx="110.8" cy="185.2" r="4" fill="#3465a4"><title>Hallowfield Wood</title></circle></a><a href="/setts/s12/dg4o2dg8do8y2o8y16k2do5o2y5lo2~x2/"><circle cx="141.9" cy="178.3" r="4" fill="#3465a4"><title>Blaylock Hunting (Name)</title></circle></a><a href="/setts/s11/y6m2y2m4y13k12lo13m4lo2m2lo6~x2/"><circle cx="143.0" cy="202.6" r="4" fill="#3465a4"><title>Glenmorangie (Corporate)</title></circle></a><circle cx="114.0" cy="193.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/g18r6m4r6g20r6m4r6m4r6db22r8r6m4r5/

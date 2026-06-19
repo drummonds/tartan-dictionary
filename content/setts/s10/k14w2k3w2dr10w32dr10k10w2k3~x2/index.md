@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DB/6 LN4 DB20 DR20 LN64 DR20 LN4 DB6 LN4 DB/28
+DB/28 LN4 DB6 LN4 DR20 LN64 DR20 DB20 LN4 DB/6
 ![Sett](sett.png)
 
 ## Palette
@@ -914,8 +917,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dt14w2dt3w2dr10w32dr10dt10w2dt3~x2/"><circle cx="226.7" cy="142.7" r="4" fill="#3465a4"><title>Fraser Arisaid #2</title></circle></a><a href="/setts/s13/k16w25db4w2db4w2db4w2db4w2db4w2db4/"><circle cx="233.1" cy="136.8" r="4" fill="#3465a4"><title>Hanna</title></circle></a><a href="/setts/s9/w29db2w2db2w2db14m31db2m3~x2/"><circle cx="237.3" cy="137.7" r="4" fill="#3465a4"><title>Lindsay Dress #2</title></circle></a><a href="/setts/s10/dr3w29db2w2db2w2db14dr31db2w2~x2/"><circle cx="232.2" cy="127.8" r="4" fill="#3465a4"><title>Siddle</title></circle></a><a href="/setts/s10/dp17lg1dp2k2dp2lg1dp3k8w17lg2~x4/"><circle cx="219.0" cy="123.9" r="4" fill="#3465a4"><title>Kyle, Grape (Dance)</title></circle></a><a href="/setts/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/"><circle cx="208.6" cy="123.7" r="4" fill="#3465a4"><title>Scott, (MacRae)</title></circle></a><a href="/setts/s13/k8w13db2w1db2w1db2w1db2w1db2w1db2~x2/"><circle cx="243.2" cy="134.2" r="4" fill="#3465a4"><title>Hanna Personal Tartan Tartan Number: 619. Earliest known date: 1987 Found in a the Hanna family bible of a civil war veteran by Charles Milton Hanna, Freeport, PA, USA, who sent information to the Scottish Tartan Society in 1987. The STS records the blue square as blue 4 and white 2, which gives a tweed like pattern to that section. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/r3dy1w12dy2db2dy2db14w2db2~x2/"><circle cx="225.4" cy="143.3" r="4" fill="#3465a4"><title>Lord Arran (Corporate)</title></circle></a><a href="/setts/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/"><circle cx="190.3" cy="134.6" r="4" fill="#3465a4"><title>McRae, Dress</title></circle></a><a href="/setts/s13/k16w25db4w2db4w2db4w2db4w2db4w2db4~x2/"><circle cx="230.2" cy="133.7" r="4" fill="#3465a4"><title>Hanna (Bible)</title></circle></a><circle cx="229.0" cy="147.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dt14w2dt3w2dr10w32dr10dt10w2dt3~x2/"><circle cx="226.4" cy="142.4" r="4" fill="#3465a4"><title>Fraser Arisaid #2</title></circle></a><a href="/setts/s13/k16w25db4w2db4w2db4w2db4w2db4w2db4/"><circle cx="232.8" cy="136.6" r="4" fill="#3465a4"><title>Hanna</title></circle></a><a href="/setts/s9/w29db2w2db2w2db14m31db2m3~x2/"><circle cx="237.0" cy="137.5" r="4" fill="#3465a4"><title>Lindsay Dress #2</title></circle></a><a href="/setts/s10/dr3w29db2w2db2w2db14dr31db2w2~x2/"><circle cx="231.9" cy="127.6" r="4" fill="#3465a4"><title>Siddle</title></circle></a><a href="/setts/s10/dp17lg1dp2k2dp2lg1dp3k8w17lg2~x4/"><circle cx="218.8" cy="123.7" r="4" fill="#3465a4"><title>Kyle, Grape (Dance)</title></circle></a><a href="/setts/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/"><circle cx="208.5" cy="123.5" r="4" fill="#3465a4"><title>Scott, (MacRae)</title></circle></a><a href="/setts/s13/k8w13db2w1db2w1db2w1db2w1db2w1db2~x2/"><circle cx="242.9" cy="134.0" r="4" fill="#3465a4"><title>Hanna Personal Tartan Tartan Number: 619. Earliest known date: 1987 Found in a the Hanna family bible of a civil war veteran by Charles Milton Hanna, Freeport, PA, USA, who sent information to the Scottish Tartan Society in 1987. The STS records the blue square as blue 4 and white 2, which gives a tweed like pattern to that section. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/r3dy1w12dy2db2dy2db14w2db2~x2/"><circle cx="225.2" cy="143.2" r="4" fill="#3465a4"><title>Lord Arran (Corporate)</title></circle></a><a href="/setts/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/"><circle cx="190.1" cy="134.4" r="4" fill="#3465a4"><title>McRae, Dress</title></circle></a><a href="/setts/s13/k16w25db4w2db4w2db4w2db4w2db4w2db4~x2/"><circle cx="229.9" cy="133.5" r="4" fill="#3465a4"><title>Hanna (Bible)</title></circle></a><circle cx="228.8" cy="147.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/k14w2k3w2dr10w32dr10k10w2k3~x2/

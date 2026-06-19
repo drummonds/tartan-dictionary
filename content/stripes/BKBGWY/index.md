@@ -20,7 +20,7 @@ BKBGWY
 
 
 
-### N K DT DY W LG <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="seq">N K DT DY W LG</span></span>
+### LG W DY DT K N <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#636363"></span><span class="seq">LG W DY DT K N</span></span>
 
 | Tartans |
 |---------------|

@@ -2,7 +2,7 @@
 title: "Prestoungrange/Dolphinstoun/Wills"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBGKGKGRGBG](/stripes/bkbkbgkgkgrgbg/) · **Stripes:** [DB K DB K DB G K G K G R G B G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB K DB K DB G K G K G R G B G</span></span>
+**Bands:** [GBGRGKGKGBKBKB](/stripes/gbgrgkgkgbkbkb/) · **Stripes:** [G B G R G K G K G DB K DB K DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G B G R G K G K G DB K DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-Ba/4 K2 Ba4 K4 Ba70 G6 K4 G4 K4 G30 R8 G6 B4 G/6
+G/6 B4 G6 R8 G30 K4 G4 K4 G6 Ba70 K4 Ba4 K2 Ba/4
 ![Sett](sett.png)
 
 ## Palette
@@ -910,14 +913,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Whitworth (Name)](/setts/s18/db60ly2db2ly2db5k15db5g20r2k3r2g20db5k15g5db20ly2g4~x2/) — ΔT 1.20
 1. [Johnston, Diana Dress (Personal)](/setts/s12/r10dt4r3dt6w3dt4w3dt40dg73k4dt2ly6/) — ΔT 1.21
 1. [O'Mahony, The](/setts/s18/g2r2g18o6db40lo1db1lo4w2lo4db1lo1db40o6g18r2g2w1~x2/) — ΔT 1.22
-1. [Bro-Kerne](/setts/s9/lo3dt30k1g6k1dt2k14dt1w3~x2/) — ΔT 1.26
+1. [Bro-Kerne](/setts/s9/w3dt1k14dt2k1g6k1dt30lo3~x2/) — ΔT 1.26
 1. [City of Abbotsford (District)](/setts/s13/dg50k3w4k1lo5r4k1w2k2b15k5dg4w2~x2/) — ΔT 1.27
 1. [Walker, Gauvin (Personal)](/setts/s12/lo1lg3k2g5dp4g1k14lg1k4g25lg2lo1~x2/) — ΔT 1.28
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db116k4g22r7db3r7k26db7g3db7g66db4r7r4/"><circle cx="305.1" cy="75.2" r="4" fill="#3465a4"><title>Cooper</title></circle></a><a href="/setts/s11/db60k15g10r2g10r2g10r2g10k1ly4~x2/"><circle cx="327.5" cy="93.5" r="4" fill="#3465a4"><title>Muir/Moore</title></circle></a><a href="/setts/s12/r10db4r3db6w3db4w3db40dg73k4db2ly6/"><circle cx="283.5" cy="64.8" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><a href="/setts/s14/g3t2g3r4g15k2g2k2g3db35k2db2k1db2~x2/"><circle cx="349.6" cy="96.5" r="4" fill="#3465a4"><title>Prestoungrange (Personal)</title></circle></a><a href="/setts/s18/db60ly2db2ly2db5k15db5g20r2k3r2g20db5k15g5db20ly2g4~x2/"><circle cx="313.4" cy="97.2" r="4" fill="#3465a4"><title>Whitworth (Name)</title></circle></a><a href="/setts/s12/r10dt4r3dt6w3dt4w3dt40dg73k4dt2ly6/"><circle cx="290.3" cy="73.5" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><a href="/setts/s18/g2r2g18o6db40lo1db1lo4w2lo4db1lo1db40o6g18r2g2w1~x2/"><circle cx="298.7" cy="45.9" r="4" fill="#3465a4"><title>O'Mahony, The</title></circle></a><a href="/setts/s9/lo3dt30k1g6k1dt2k14dt1w3~x2/"><circle cx="333.1" cy="116.5" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><a href="/setts/s13/dg50k3w4k1lo5r4k1w2k2b15k5dg4w2~x2/"><circle cx="321.5" cy="46.8" r="4" fill="#3465a4"><title>City of Abbotsford (District)</title></circle></a><a href="/setts/s12/lo1lg3k2g5dp4g1k14lg1k4g25lg2lo1~x2/"><circle cx="260.9" cy="97.3" r="4" fill="#3465a4"><title>Walker, Gauvin (Personal)</title></circle></a><circle cx="318.7" cy="80.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db116k4g22r7db3r7k26db7g3db7g66db4r7r4/"><circle cx="304.9" cy="75.2" r="4" fill="#3465a4"><title>Cooper</title></circle></a><a href="/setts/s11/db60k15g10r2g10r2g10r2g10k1ly4~x2/"><circle cx="327.4" cy="93.6" r="4" fill="#3465a4"><title>Muir/Moore</title></circle></a><a href="/setts/s12/r10db4r3db6w3db4w3db40dg73k4db2ly6/"><circle cx="283.4" cy="64.8" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><a href="/setts/s14/g3t2g3r4g15k2g2k2g3db35k2db2k1db2~x2/"><circle cx="349.5" cy="96.6" r="4" fill="#3465a4"><title>Prestoungrange (Personal)</title></circle></a><a href="/setts/s18/db60ly2db2ly2db5k15db5g20r2k3r2g20db5k15g5db20ly2g4~x2/"><circle cx="313.3" cy="97.3" r="4" fill="#3465a4"><title>Whitworth (Name)</title></circle></a><a href="/setts/s12/r10dt4r3dt6w3dt4w3dt40dg73k4dt2ly6/"><circle cx="290.1" cy="73.6" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><a href="/setts/s18/g2r2g18o6db40lo1db1lo4w2lo4db1lo1db40o6g18r2g2w1~x2/"><circle cx="298.4" cy="45.9" r="4" fill="#3465a4"><title>O'Mahony, The</title></circle></a><a href="/setts/s9/w3dt1k14dt2k1g6k1dt30lo3~x2/"><circle cx="332.9" cy="116.5" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><a href="/setts/s13/dg50k3w4k1lo5r4k1w2k2b15k5dg4w2~x2/"><circle cx="321.4" cy="46.8" r="4" fill="#3465a4"><title>City of Abbotsford (District)</title></circle></a><a href="/setts/s12/lo1lg3k2g5dp4g1k14lg1k4g25lg2lo1~x2/"><circle cx="260.8" cy="97.3" r="4" fill="#3465a4"><title>Walker, Gauvin (Personal)</title></circle></a><circle cx="318.5" cy="80.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/g3b2g3r4g15k2g2k2g3db35k2db2k1db2~x2/

@@ -8,7 +8,7 @@ BKGYGK
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/b12k4g6ly1g6k4~x8/tartan.png)
+![Woven sample](/setts/s6/b12k4g6ly1~x8/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ BKGYGK
 
 
 
-### B K G LY G K <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">B K G LY G K</span></span>
+### K G LY G K B <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K G LY G K B</span></span>
 
 | Tartans |
 |---------------|
-| [Sinclair of Ulbster](/setts/s6/b12k4g6ly1g6k4~x8/)|
-|![Sinclair of Ulbster example sett](/setts/s6/b12k4g6ly1g6k4~x8/sett.png)|
+| [Sinclair of Ulbster](/setts/s6/b12k4g6ly1~x8/)|
+|![Sinclair of Ulbster example sett](/setts/s6/b12k4g6ly1~x8/sett.png)|
 

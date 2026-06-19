@@ -2,7 +2,7 @@
 title: "Matthew Gloag"
 date: 2023-03-18
 ---
-**Bands:** [BRGKBKBKRG](/stripes/brgkbkbkrg/) · **Stripes:** [DB R G K DB K DB K R G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB R G K DB K DB K R G</span></span>
+**Bands:** [GRKBKBKGRB](/stripes/grkbkbkgrb/) · **Stripes:** [G R K DB K DB K G R DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G R K DB K DB K G R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/4 R6 G40 K4 B6 K26 B6 K4 R40 G/6
+G/6 R40 K4 B6 K26 B6 K4 G40 R6 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -904,9 +907,9 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Duns Pipe Band](/setts/s12/r24k3r3k3r3k15g3k3g20k2g2w3~x2/) — ΔT 1.11
 1. [Dickie](/setts/s8/g8r2g12k6g3db6r24k4~x2/) — ΔT 1.12
-1. [Prince Edward Island #2](/setts/s7/w2k1dg16k12r12k1w2~x2/) — ΔT 1.15
 1. [Lindsay](/setts/s9/g12dg1g1dg1g1k5r10k1r2~x2/) — ΔT 1.15
-1. [Stevenson Family Tartan Tartan Number: 1558. Earliest known date: 1980 Charles Stevenson of Glasgow emigrated to America in 1861. The Monitoring Committee of the Scottish Tartans Society operated until 1984 when the present system of accreditation was introduced for the 'Register of All Publicly Known Tartans'. The original count has been proportionately increased from the 1980 recording. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/ly1db8ly1r2ly1r2ly1g8r1~x4/) — ΔT 1.20
+1. [Prince Edward Island #2](/setts/s7/w2k1dg16k12r12k1w2~x2/) — ΔT 1.15
+1. [Stevenson Family Tartan Tartan Number: 1558. Earliest known date: 1980 Charles Stevenson of Glasgow emigrated to America in 1861. The Monitoring Committee of the Scottish Tartans Society operated until 1984 when the present system of accreditation was introduced for the 'Register of All Publicly Known Tartans'. The original count has been proportionately increased from the 1980 recording. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/r1g8ly1r2ly1r2ly1db8ly1~x4/) — ΔT 1.20
 1. [Prince Edward Island](/setts/s7/w2k1g16k12r12k1w2~x2/) — ΔT 1.21
 1. [Manson Family Tartan Tartan Number: 987. Earliest known date: 1983 The official recording of the sett shows the letter G for the dark green stripe. In heraldic terms this means 'Gules' - red. The designer, Hugh Kirkwood Rankine, clearly intended dark green and this is reproduced here. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g1r9g3k3g3r1k9w1~x2/) — ΔT 1.21
 1. [Longford County Crest (Fashion)](/setts/s8/k44lo9k3lo8lo16lo15lo6k7~x2/) — ΔT 1.21
@@ -915,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r24k3r3k3r3k15g3k3g20k2g2w3~x2/"><circle cx="179.0" cy="131.7" r="4" fill="#3465a4"><title>Duns Pipe Band</title></circle></a><a href="/setts/s8/g8r2g12k6g3db6r24k4~x2/"><circle cx="200.8" cy="180.4" r="4" fill="#3465a4"><title>Dickie</title></circle></a><a href="/setts/s7/w2k1dg16k12r12k1w2~x2/"><circle cx="191.6" cy="167.4" r="4" fill="#3465a4"><title>Prince Edward Island #2</title></circle></a><a href="/setts/s9/g12dg1g1dg1g1k5r10k1r2~x2/"><circle cx="219.4" cy="156.5" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/ly1db8ly1r2ly1r2ly1g8r1~x4/"><circle cx="158.1" cy="176.1" r="4" fill="#3465a4"><title>Stevenson Family Tartan Tartan Number: 1558. Earliest known date: 1980 Charles Stevenson of Glasgow emigrated to America in 1861. The Monitoring Committee of the Scottish Tartans Society operated until 1984 when the present system of accreditation was introduced for the 'Register of All Publicly Known Tartans'. The original count has been proportionately increased from the 1980 recording. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/w2k1g16k12r12k1w2~x2/"><circle cx="171.9" cy="161.7" r="4" fill="#3465a4"><title>Prince Edward Island</title></circle></a><a href="/setts/s8/g1r9g3k3g3r1k9w1~x2/"><circle cx="203.3" cy="192.3" r="4" fill="#3465a4"><title>Manson Family Tartan Tartan Number: 987. Earliest known date: 1983 The official recording of the sett shows the letter G for the dark green stripe. In heraldic terms this means 'Gules' - red. The designer, Hugh Kirkwood Rankine, clearly intended dark green and this is reproduced here. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/k44lo9k3lo8lo16lo15lo6k7~x2/"><circle cx="212.8" cy="165.9" r="4" fill="#3465a4"><title>Longford County Crest (Fashion)</title></circle></a><a href="/setts/s11/r8k3o3dt28k20o28lb3o3lb3o3lb6/"><circle cx="135.7" cy="144.8" r="4" fill="#3465a4"><title>Logan #6</title></circle></a><a href="/setts/s11/g10w1db10r1db1g1db1g1r10ly1r1~x4/"><circle cx="162.2" cy="132.6" r="4" fill="#3465a4"><title>Belfast Tattoo</title></circle></a><circle cx="157.2" cy="161.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r24k3r3k3r3k15g3k3g20k2g2w3~x2/"><circle cx="178.8" cy="131.7" r="4" fill="#3465a4"><title>Duns Pipe Band</title></circle></a><a href="/setts/s8/g8r2g12k6g3db6r24k4~x2/"><circle cx="200.7" cy="180.3" r="4" fill="#3465a4"><title>Dickie</title></circle></a><a href="/setts/s9/g12dg1g1dg1g1k5r10k1r2~x2/"><circle cx="219.3" cy="156.5" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s7/w2k1dg16k12r12k1w2~x2/"><circle cx="191.5" cy="167.4" r="4" fill="#3465a4"><title>Prince Edward Island #2</title></circle></a><a href="/setts/s9/r1g8ly1r2ly1r2ly1db8ly1~x4/"><circle cx="158.0" cy="176.1" r="4" fill="#3465a4"><title>Stevenson Family Tartan Tartan Number: 1558. Earliest known date: 1980 Charles Stevenson of Glasgow emigrated to America in 1861. The Monitoring Committee of the Scottish Tartans Society operated until 1984 when the present system of accreditation was introduced for the 'Register of All Publicly Known Tartans'. The original count has been proportionately increased from the 1980 recording. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/w2k1g16k12r12k1w2~x2/"><circle cx="171.8" cy="161.6" r="4" fill="#3465a4"><title>Prince Edward Island</title></circle></a><a href="/setts/s8/g1r9g3k3g3r1k9w1~x2/"><circle cx="203.3" cy="192.3" r="4" fill="#3465a4"><title>Manson Family Tartan Tartan Number: 987. Earliest known date: 1983 The official recording of the sett shows the letter G for the dark green stripe. In heraldic terms this means 'Gules' - red. The designer, Hugh Kirkwood Rankine, clearly intended dark green and this is reproduced here. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/k44lo9k3lo8lo16lo15lo6k7~x2/"><circle cx="212.7" cy="165.8" r="4" fill="#3465a4"><title>Longford County Crest (Fashion)</title></circle></a><a href="/setts/s11/r8k3o3dt28k20o28lb3o3lb3o3lb6/"><circle cx="135.7" cy="144.9" r="4" fill="#3465a4"><title>Logan #6</title></circle></a><a href="/setts/s11/g10w1db10r1db1g1db1g1r10ly1r1~x4/"><circle cx="162.1" cy="132.7" r="4" fill="#3465a4"><title>Belfast Tattoo</title></circle></a><circle cx="157.2" cy="161.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/g3r20k2db3k13db3k2g20r3db2~x2/

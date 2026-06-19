@@ -2,7 +2,7 @@
 title: "Crieff & Strathearn #1"
 date: 2023-03-18
 ---
-**Bands:** [BYBGRBG](/stripes/bybgrbg/) · **Stripes:** [DT LY DT G R DB G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DT LY DT G R DB G</span></span>
+**Bands:** [GBRGBYB](/stripes/gbrgbyb/) · **Stripes:** [G DB R G DT LY DT](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="seq">G DB R G DT LY DT</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 664
 
 ## Thread count
-DB/8 Y6 DB8 G24 DR48 DBa14 G/110
+G/110 DBa14 DR48 G24 DB8 Y6 DB/8
 ![Sett](sett.png)
 
 ## Palette
@@ -41,7 +41,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/8 Y6 DB8 G24 DR48 DBa14 G/110 tartan")
+![Tartan detail](tartan.png "G/110 DBa14 DR48 G24 DB8 Y6 DB/8 tartan")
 
 ## Nearest tartans
 
@@ -60,8 +60,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g45k4r2g4r2k4n21r5~x2/"><circle cx="369.5" cy="154.6" r="4" fill="#3465a4"><title>Shiach (Personal)</title></circle></a><a href="/setts/s7/g55dp7r24g12db4ly3db4~x2/"><circle cx="366.2" cy="158.2" r="4" fill="#3465a4"><title>Crieff and Strathearn District Tartan Tartan Number: 664. Earliest known date: 1988 A branch of the Stewart clan from Galloway and the South West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/t5k1g30db15r8g30r8db2~x2/"><circle cx="365.6" cy="161.4" r="4" fill="#3465a4"><title>Shaw of Tordarroch Green (Htg) (Clan</title></circle></a><a href="/setts/s7/g55p7r24g12db4ly3db4~x2/"><circle cx="359.0" cy="154.9" r="4" fill="#3465a4"><title>Crieff, and Strathearn</title></circle></a><a href="/setts/s9/g3n5k4n33g12k4w2n18ly3~x2/"><circle cx="401.2" cy="168.7" r="4" fill="#3465a4"><title>Smoke Showing (UFES)</title></circle></a><a href="/setts/s11/g28r2g28r7lb2r7lb2r7k5dp4lb2~x2/"><circle cx="336.3" cy="153.7" r="4" fill="#3465a4"><title>Hynde (Sir John)</title></circle></a><a href="/setts/s7/k3g2k3g18r2db2lo1~x4/"><circle cx="379.6" cy="155.0" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/setts/s7/lo10k2g5k2dg46lo2k2~x2/"><circle cx="453.6" cy="153.8" r="4" fill="#3465a4"><title>Green Rover (Personal)</title></circle></a><a href="/setts/s6/db6k17y4g51ly3g4~x2/"><circle cx="339.9" cy="159.5" r="4" fill="#3465a4"><title>U.S. Army (Military)</title></circle></a><a href="/setts/s7/dt16g4dt3g3lo2g24r2~x2/"><circle cx="384.0" cy="221.1" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><circle cx="387.0" cy="175.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g45k4r2g4r2k4n21r5~x2/"><circle cx="369.3" cy="154.6" r="4" fill="#3465a4"><title>Shiach (Personal)</title></circle></a><a href="/setts/s7/g55dp7r24g12db4ly3db4~x2/"><circle cx="365.9" cy="158.0" r="4" fill="#3465a4"><title>Crieff and Strathearn District Tartan Tartan Number: 664. Earliest known date: 1988 A branch of the Stewart clan from Galloway and the South West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/t5k1g30db15r8g30r8db2~x2/"><circle cx="365.4" cy="161.3" r="4" fill="#3465a4"><title>Shaw of Tordarroch Green (Htg) (Clan</title></circle></a><a href="/setts/s7/g55p7r24g12db4ly3db4~x2/"><circle cx="358.7" cy="154.8" r="4" fill="#3465a4"><title>Crieff, and Strathearn</title></circle></a><a href="/setts/s9/g3n5k4n33g12k4w2n18ly3~x2/"><circle cx="401.0" cy="168.6" r="4" fill="#3465a4"><title>Smoke Showing (UFES)</title></circle></a><a href="/setts/s11/g28r2g28r7lb2r7lb2r7k5dp4lb2~x2/"><circle cx="336.1" cy="153.6" r="4" fill="#3465a4"><title>Hynde (Sir John)</title></circle></a><a href="/setts/s7/k3g2k3g18r2db2lo1~x4/"><circle cx="379.4" cy="154.9" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/setts/s7/lo10k2g5k2dg46lo2k2~x2/"><circle cx="453.3" cy="153.7" r="4" fill="#3465a4"><title>Green Rover (Personal)</title></circle></a><a href="/setts/s6/db6k17y4g51ly3g4~x2/"><circle cx="339.8" cy="159.4" r="4" fill="#3465a4"><title>U.S. Army (Military)</title></circle></a><a href="/setts/s7/dt16g4dt3g3lo2g24r2~x2/"><circle cx="383.9" cy="221.1" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><circle cx="386.8" cy="175.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/g55db7r24g12dt4ly3dt4~x2/

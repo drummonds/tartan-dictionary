@@ -2,7 +2,7 @@
 title: "Celtic F.C."
 date: 2023-03-18
 ---
-**Bands:** [GGGKGKRGWGGGKY](/stripes/gggkgkrgwgggky/) · **Stripes:** [DG G DG K DG K O DG W DG G DG K LY](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DG G DG K DG K O DG W DG G DG K LY</span></span>
+**Bands:** [YKGGGWGRKGKGGG](/stripes/ykgggwgrkgkggg/) · **Stripes:** [LY K DG G DG W DG O K DG K DG G DG](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="seq">LY K DG G DG W DG O K DG K DG G DG</span></span>
 
 
 This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -904,8 +907,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Tara, Murphy](/setts/s12/k8r2k3ly2k2w3k2o10g26r2g3k2~x2/) — ΔT 1.03
-1. [MacInnes](/setts/s13/ly2k12g2k2g2k2g16k3t3k3db12g6r2~x2/) — ΔT 1.14
+1. [Tara, Murphy](/setts/s12/k8r2k3ly2k2w3k2o10g26r2g3k2~x2/) — ΔT 1.04
+1. [MacInnes](/setts/s13/r2g6db12k3t3k3g16k2g2k2g2k12ly2~x2/) — ΔT 1.14
 1. [Princess Diana](/setts/s12/k14r2k2r2k2g18r2g18lb1db12t1r8~x2/) — ΔT 1.15
 1. [Stephenson](/setts/s11/k6g20t2r5t2k20ly3db20g26r3db5~x2/) — ΔT 1.17
 1. [Kelsey, William (Personal)](/setts/s12/g12r2g2r5g16db3lr2k2lr3db6k20ly3~x2/) — ΔT 1.17
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k8r2k3ly2k2w3k2o10g26r2g3k2~x2/"><circle cx="174.5" cy="102.5" r="4" fill="#3465a4"><title>Tara, Murphy</title></circle></a><a href="/setts/s13/ly2k12g2k2g2k2g16k3t3k3db12g6r2~x2/"><circle cx="117.1" cy="144.9" r="4" fill="#3465a4"><title>MacInnes</title></circle></a><a href="/setts/s12/k14r2k2r2k2g18r2g18lb1db12t1r8~x2/"><circle cx="176.1" cy="117.6" r="4" fill="#3465a4"><title>Princess Diana</title></circle></a><a href="/setts/s11/k6g20t2r5t2k20ly3db20g26r3db5~x2/"><circle cx="140.2" cy="137.3" r="4" fill="#3465a4"><title>Stephenson</title></circle></a><a href="/setts/s12/g12r2g2r5g16db3lr2k2lr3db6k20ly3~x2/"><circle cx="113.4" cy="127.3" r="4" fill="#3465a4"><title>Kelsey, William (Personal)</title></circle></a><a href="/setts/s14/dg5g3dg16k2dg4k12g4dg2lb5dg2g16dg2k2ly3~x2/"><circle cx="140.4" cy="164.3" r="4" fill="#3465a4"><title>Celtic Football Club (1996)</title></circle></a><a href="/setts/s11/r3g24k4ly2k3db2k6r4k2r3w2~x2/"><circle cx="171.3" cy="106.9" r="4" fill="#3465a4"><title>King George VI</title></circle></a><a href="/setts/s12/k8r2k3ly2k2w3k2dy10g26r2g3k2~x2/"><circle cx="207.9" cy="118.6" r="4" fill="#3465a4"><title>Tara Murphy Irish Family Tartan Tartan Number: 1103. Earliest known date: 1880 This pattern was recorded by Bill Johnston, Shippak, USA in 1978 along with other patterns found at Pendleton Mill. This and other Irish patterns appear to have originated in the former Waterford Mill in Ireland before they arrived at Pendleton in the late 19C. This and the O'Keefe (1176) are colour variations of the MacLean of Duart See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/g30w3g4ly5g4w3g6k14t3k14db18w4~x2/"><circle cx="127.9" cy="139.1" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/setts/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/"><circle cx="178.3" cy="157.4" r="4" fill="#3465a4"><title>Skene</title></circle></a><circle cx="155.1" cy="121.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k8r2k3ly2k2w3k2o10g26r2g3k2~x2/"><circle cx="174.4" cy="102.5" r="4" fill="#3465a4"><title>Tara, Murphy</title></circle></a><a href="/setts/s13/r2g6db12k3t3k3g16k2g2k2g2k12ly2~x2/"><circle cx="117.2" cy="144.9" r="4" fill="#3465a4"><title>MacInnes</title></circle></a><a href="/setts/s12/k14r2k2r2k2g18r2g18lb1db12t1r8~x2/"><circle cx="176.2" cy="117.6" r="4" fill="#3465a4"><title>Princess Diana</title></circle></a><a href="/setts/s11/k6g20t2r5t2k20ly3db20g26r3db5~x2/"><circle cx="140.2" cy="137.3" r="4" fill="#3465a4"><title>Stephenson</title></circle></a><a href="/setts/s12/g12r2g2r5g16db3lr2k2lr3db6k20ly3~x2/"><circle cx="113.4" cy="127.4" r="4" fill="#3465a4"><title>Kelsey, William (Personal)</title></circle></a><a href="/setts/s14/dg5g3dg16k2dg4k12g4dg2lb5dg2g16dg2k2ly3~x2/"><circle cx="140.5" cy="164.3" r="4" fill="#3465a4"><title>Celtic Football Club (1996)</title></circle></a><a href="/setts/s11/r3g24k4ly2k3db2k6r4k2r3w2~x2/"><circle cx="171.2" cy="106.9" r="4" fill="#3465a4"><title>King George VI</title></circle></a><a href="/setts/s12/k8r2k3ly2k2w3k2dy10g26r2g3k2~x2/"><circle cx="207.8" cy="118.7" r="4" fill="#3465a4"><title>Tara Murphy Irish Family Tartan Tartan Number: 1103. Earliest known date: 1880 This pattern was recorded by Bill Johnston, Shippak, USA in 1978 along with other patterns found at Pendleton Mill. This and other Irish patterns appear to have originated in the former Waterford Mill in Ireland before they arrived at Pendleton in the late 19C. This and the O'Keefe (1176) are colour variations of the MacLean of Duart See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/g30w3g4ly5g4w3g6k14t3k14db18w4~x2/"><circle cx="127.9" cy="139.2" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/setts/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/"><circle cx="178.3" cy="157.4" r="4" fill="#3465a4"><title>Skene</title></circle></a><circle cx="155.2" cy="121.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/dg6g3dg24k2dg4k16o5dg2w4dg2g21dg2k2ly3~x2/

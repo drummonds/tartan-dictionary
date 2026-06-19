@@ -22,6 +22,6 @@ RWBYWKGBGBGKWYBW
 
 | Tartans |
 |---------------|
-| [Haymarket Dress (Dance)](/setts/s16/r1w1dt1lo1w12k5y2dt8y2dt8y2k5w12lo1dt1w1~x4/)|
-|![Haymarket Dress (Dance) example sett](/setts/s16/r1w1dt1lo1w12k5y2dt8y2dt8y2k5w12lo1dt1w1~x4/sett.png)|
+| [Haymarket Dress (Dance)](/setts/s16/y2dt8y2k5w12lo1dt1w1r1~x4/)|
+|![Haymarket Dress (Dance) example sett](/setts/s16/y2dt8y2k5w12lo1dt1w1r1~x4/sett.png)|
 

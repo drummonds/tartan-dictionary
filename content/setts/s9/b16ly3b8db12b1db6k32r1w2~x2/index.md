@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,7 +909,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Gemmell of Dumfries & Galloway (Personal)](/setts/s11/dg12r2db5w1k10b15r10k5dg4db40w4~x2/) — ΔT 0.87
 1. [Scragg, Moran (Personal)](/setts/s10/g1b28k11r5w1r5k11ly1k2g1~x2/) — ΔT 1.07
-1. [Timmins (2013)](/setts/s10/g4k2t14k12t32lo1k12dp14k2r4~x2/) — ΔT 1.15
+1. [Timmins (2013)](/setts/s10/r4k2dp14k12lo1t32k12t14k2g4~x2/) — ΔT 1.15
 1. [Bell Rock Lighthouse 200th Aniversar](/setts/s10/w5lb7db4lb2db25k13r1k2r4r3~x2/) — ΔT 1.18
 1. [Australia 2000](/setts/s11/k3t6k4r6t18db53t18k8t6k3lo2~x2/) — ΔT 1.18
 1. [Unidentified #23](/setts/s7/db35r2k16ly2b25w2b6~x2/) — ΔT 1.22
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dg12r2db5w1k10b15r10k5dg4db40w4~x2/"><circle cx="203.2" cy="84.1" r="4" fill="#3465a4"><title>Gemmell of Dumfries &amp; Galloway (Personal)</title></circle></a><a href="/setts/s10/g1b28k11r5w1r5k11ly1k2g1~x2/"><circle cx="247.3" cy="98.9" r="4" fill="#3465a4"><title>Scragg, Moran (Personal)</title></circle></a><a href="/setts/s10/g4k2t14k12t32lo1k12dp14k2r4~x2/"><circle cx="230.0" cy="103.8" r="4" fill="#3465a4"><title>Timmins (2013)</title></circle></a><a href="/setts/s10/w5lb7db4lb2db25k13r1k2r4r3~x2/"><circle cx="194.2" cy="96.5" r="4" fill="#3465a4"><title>Bell Rock Lighthouse 200th Aniversar</title></circle></a><a href="/setts/s11/k3t6k4r6t18db53t18k8t6k3lo2~x2/"><circle cx="237.3" cy="105.6" r="4" fill="#3465a4"><title>Australia 2000</title></circle></a><a href="/setts/s7/db35r2k16ly2b25w2b6~x2/"><circle cx="177.8" cy="138.7" r="4" fill="#3465a4"><title>Unidentified #23</title></circle></a><a href="/setts/s9/db44k3k20r3db8lg34db3db2lg15~x2/"><circle cx="230.6" cy="139.1" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band Military Tartan Tartan Number: 2437. Earliest known date: 01/01/1988 One of a series of US Military tartans woven exclusively by the Strathmore Woollen Company of Forfar and adopted by the Band of the Air Force Reserve, Georgia, USA in the early 1990s. Although this has no official US Military recognition, it has been widely accepted by US servicemen and their families with Air Force connections as a representative design. Originally called 'Lady Jane of St Cirus', the design was shown to members of the pipe band who liked it sufficiently to adopt it (with Strathmore's agreement). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db44lo3k20r3db8lg34db3db2lg15~x2/"><circle cx="231.1" cy="138.5" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band</title></circle></a><a href="/setts/s7/db35r2k16ly2t25w2t6~x2/"><circle cx="198.8" cy="146.6" r="4" fill="#3465a4"><title>US Forces (Thurso) Regimental Tartan Tartan Number: 549. Earliest known date: 1986 Originally listed as MacNeil, this sett was identified by Ken Dalgliesh, weaver in Selkirk, in 1999. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/db30dt4g5dt2r2dt2g5dt4w10dt5b8dt1~x2/"><circle cx="181.1" cy="86.9" r="4" fill="#3465a4"><title>Lyon (Personal)</title></circle></a><circle cx="202.2" cy="100.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dg12r2db5w1k10b15r10k5dg4db40w4~x2/"><circle cx="203.2" cy="84.2" r="4" fill="#3465a4"><title>Gemmell of Dumfries &amp; Galloway (Personal)</title></circle></a><a href="/setts/s10/g1b28k11r5w1r5k11ly1k2g1~x2/"><circle cx="247.3" cy="99.0" r="4" fill="#3465a4"><title>Scragg, Moran (Personal)</title></circle></a><a href="/setts/s10/r4k2dp14k12lo1t32k12t14k2g4~x2/"><circle cx="230.0" cy="103.8" r="4" fill="#3465a4"><title>Timmins (2013)</title></circle></a><a href="/setts/s10/w5lb7db4lb2db25k13r1k2r4r3~x2/"><circle cx="194.2" cy="96.6" r="4" fill="#3465a4"><title>Bell Rock Lighthouse 200th Aniversar</title></circle></a><a href="/setts/s11/k3t6k4r6t18db53t18k8t6k3lo2~x2/"><circle cx="237.3" cy="105.6" r="4" fill="#3465a4"><title>Australia 2000</title></circle></a><a href="/setts/s7/db35r2k16ly2b25w2b6~x2/"><circle cx="177.9" cy="138.7" r="4" fill="#3465a4"><title>Unidentified #23</title></circle></a><a href="/setts/s9/db44k3k20r3db8lg34db3db2lg15~x2/"><circle cx="230.7" cy="139.1" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band Military Tartan Tartan Number: 2437. Earliest known date: 01/01/1988 One of a series of US Military tartans woven exclusively by the Strathmore Woollen Company of Forfar and adopted by the Band of the Air Force Reserve, Georgia, USA in the early 1990s. Although this has no official US Military recognition, it has been widely accepted by US servicemen and their families with Air Force connections as a representative design. Originally called 'Lady Jane of St Cirus', the design was shown to members of the pipe band who liked it sufficiently to adopt it (with Strathmore's agreement). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db44lo3k20r3db8lg34db3db2lg15~x2/"><circle cx="231.2" cy="138.4" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band</title></circle></a><a href="/setts/s7/db35r2k16ly2t25w2t6~x2/"><circle cx="198.9" cy="146.7" r="4" fill="#3465a4"><title>US Forces (Thurso) Regimental Tartan Tartan Number: 549. Earliest known date: 1986 Originally listed as MacNeil, this sett was identified by Ken Dalgliesh, weaver in Selkirk, in 1999. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/db30dt4g5dt2r2dt2g5dt4w10dt5b8dt1~x2/"><circle cx="181.1" cy="87.0" r="4" fill="#3465a4"><title>Lyon (Personal)</title></circle></a><circle cx="202.3" cy="100.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/b16ly3b8db12b1db6k32r1w2~x2/

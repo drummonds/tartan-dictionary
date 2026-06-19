@@ -20,7 +20,7 @@ BBGBR
 
 
 
-### DB DB DG DB R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB DB DG DB R</span></span>
+### R DB DG DB DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB DG DB DB</span></span>
 
 | Tartans |
 |---------------|

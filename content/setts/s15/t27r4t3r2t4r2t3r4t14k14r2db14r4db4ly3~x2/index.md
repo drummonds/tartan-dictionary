@@ -2,12 +2,18 @@
 title: "Cochrane Azure"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBRBRBKRBRBY](/stripes/brbrbrbrbkrbrby/) · **Stripes:** [T R T R T R T R T K R DB R DB LY](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">T R T R T R T R T K R DB R DB LY</span></span>
+**Bands:** [YBRBRKBRBRBRBRB](/stripes/ybrbrkbrbrbrbrb/) · **Stripes:** [LY DB R DB R K T R T R T R T R T](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY DB R DB R K T R T R T R T R T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/bands15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=698
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Cochrane Azure
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,19 +921,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Tasmania (District)](/setts/s11/r5lp2db24lr2db2lr2db6lr8r6lr8ly4~x2/) — ΔT 0.90
 1. [Perry Golf](/setts/s16/n4ly4dt7ly4n3ly22db8n8db8n8db8n8db8n8ly34r4~x2/) — ΔT 0.99
-1. [Scottish Highlander Dress](/setts/s14/db4o3r2o26db15p3w2p26w2p3db15o26r2o3~x2/) — ΔT 0.99
+1. [Scottish Highlander Dress](/setts/s14/p26w2p3db15o26r2o3db4~x2/) — ΔT 0.99
 1. [Historic Scotland (1998) (Corporate)](/setts/s12/db8w8db4dp4db36dp4db4o26db2o26g2db5/) — ΔT 1.02
 1. [Callum, Scotch House](/setts/s12/o4w2o2w3o20db6t3db2t2db2t16r3~x2/) — ΔT 1.08
 1. [Un-named fashion (2013)](/setts/s19/k2w2k15dp5o5dp10lb2dp10o5dp5o30k2o4k2o30dp4o4k15w2~x2/) — ΔT 1.13
 1. [Keogh (Name)](/setts/s10/r4b18r4t3r4k12r3b24k2ly3~x2/) — ΔT 1.14
 1. [Anderson Blue (Westwood)](/setts/s18/r4b5r2b7r10k4lo2k2lo2k4lb4k4b18r1k2r1b4r3~x2/) — ΔT 1.15
 1. [Grampian Trade Tartan Tartan Number: 2151. Earliest known date: 1993 Designed as a district tartan to reflect the colours of the Grampian Mountains. MacNaughtons of Pitlochry introduced this sett with their new range of district tartans in 1993. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/dt15lb15g3r2g26r2g3lb15dt26r2dt3lb4dt3r2dt11~x2/) — ΔT 1.15
-1. [Thistle Dubh](/setts/s15/lp5n4lp3n6g3n2g3n2g2n10k15n20w3n3w5~x2/) — ΔT 1.15
+1. [Thistle Dubh](/setts/s15/w5n3w3n20k15n10g2n2g3n2g3n6lp3n4lp5~x2/) — ΔT 1.15
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r5lp2db24lr2db2lr2db6lr8r6lr8ly4~x2/"><circle cx="223.1" cy="146.5" r="4" fill="#3465a4"><title>Tasmania (District)</title></circle></a><a href="/setts/s16/n4ly4dt7ly4n3ly22db8n8db8n8db8n8db8n8ly34r4~x2/"><circle cx="194.5" cy="144.5" r="4" fill="#3465a4"><title>Perry Golf</title></circle></a><a href="/setts/s14/db4o3r2o26db15p3w2p26w2p3db15o26r2o3~x2/"><circle cx="226.7" cy="135.1" r="4" fill="#3465a4"><title>Scottish Highlander Dress</title></circle></a><a href="/setts/s12/db8w8db4dp4db36dp4db4o26db2o26g2db5/"><circle cx="256.0" cy="128.7" r="4" fill="#3465a4"><title>Historic Scotland (1998) (Corporate)</title></circle></a><a href="/setts/s12/o4w2o2w3o20db6t3db2t2db2t16r3~x2/"><circle cx="197.5" cy="147.8" r="4" fill="#3465a4"><title>Callum, Scotch House</title></circle></a><a href="/setts/s19/k2w2k15dp5o5dp10lb2dp10o5dp5o30k2o4k2o30dp4o4k15w2~x2/"><circle cx="240.6" cy="107.0" r="4" fill="#3465a4"><title>Un-named fashion (2013)</title></circle></a><a href="/setts/s10/r4b18r4t3r4k12r3b24k2ly3~x2/"><circle cx="259.2" cy="154.6" r="4" fill="#3465a4"><title>Keogh (Name)</title></circle></a><a href="/setts/s18/r4b5r2b7r10k4lo2k2lo2k4lb4k4b18r1k2r1b4r3~x2/"><circle cx="188.6" cy="112.1" r="4" fill="#3465a4"><title>Anderson Blue (Westwood)</title></circle></a><a href="/setts/s15/dt15lb15g3r2g26r2g3lb15dt26r2dt3lb4dt3r2dt11~x2/"><circle cx="227.1" cy="156.1" r="4" fill="#3465a4"><title>Grampian Trade Tartan Tartan Number: 2151. Earliest known date: 1993 Designed as a district tartan to reflect the colours of the Grampian Mountains. MacNaughtons of Pitlochry introduced this sett with their new range of district tartans in 1993. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/lp5n4lp3n6g3n2g3n2g2n10k15n20w3n3w5~x2/"><circle cx="230.0" cy="144.9" r="4" fill="#3465a4"><title>Thistle Dubh</title></circle></a><circle cx="230.4" cy="131.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r5lp2db24lr2db2lr2db6lr8r6lr8ly4~x2/"><circle cx="222.9" cy="146.5" r="4" fill="#3465a4"><title>Tasmania (District)</title></circle></a><a href="/setts/s16/n4ly4dt7ly4n3ly22db8n8db8n8db8n8db8n8ly34r4~x2/"><circle cx="194.4" cy="144.6" r="4" fill="#3465a4"><title>Perry Golf</title></circle></a><a href="/setts/s14/p26w2p3db15o26r2o3db4~x2/"><circle cx="226.5" cy="135.2" r="4" fill="#3465a4"><title>Scottish Highlander Dress</title></circle></a><a href="/setts/s12/db8w8db4dp4db36dp4db4o26db2o26g2db5/"><circle cx="255.8" cy="128.7" r="4" fill="#3465a4"><title>Historic Scotland (1998) (Corporate)</title></circle></a><a href="/setts/s12/o4w2o2w3o20db6t3db2t2db2t16r3~x2/"><circle cx="197.4" cy="147.9" r="4" fill="#3465a4"><title>Callum, Scotch House</title></circle></a><a href="/setts/s19/k2w2k15dp5o5dp10lb2dp10o5dp5o30k2o4k2o30dp4o4k15w2~x2/"><circle cx="240.4" cy="107.0" r="4" fill="#3465a4"><title>Un-named fashion (2013)</title></circle></a><a href="/setts/s10/r4b18r4t3r4k12r3b24k2ly3~x2/"><circle cx="259.1" cy="154.5" r="4" fill="#3465a4"><title>Keogh (Name)</title></circle></a><a href="/setts/s18/r4b5r2b7r10k4lo2k2lo2k4lb4k4b18r1k2r1b4r3~x2/"><circle cx="188.5" cy="112.1" r="4" fill="#3465a4"><title>Anderson Blue (Westwood)</title></circle></a><a href="/setts/s15/dt15lb15g3r2g26r2g3lb15dt26r2dt3lb4dt3r2dt11~x2/"><circle cx="226.9" cy="156.1" r="4" fill="#3465a4"><title>Grampian Trade Tartan Tartan Number: 2151. Earliest known date: 1993 Designed as a district tartan to reflect the colours of the Grampian Mountains. MacNaughtons of Pitlochry introduced this sett with their new range of district tartans in 1993. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/w5n3w3n20k15n10g2n2g3n2g3n6lp3n4lp5~x2/"><circle cx="229.9" cy="144.8" r="4" fill="#3465a4"><title>Thistle Dubh</title></circle></a><circle cx="230.3" cy="131.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/t27r4t3r2t4r2t3r4t14k14r2db14r4db4ly3~x2/

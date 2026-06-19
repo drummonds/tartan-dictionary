@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands1
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7547/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Scottish Highlands & Islands Film Company
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -24,7 +30,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7547
 
 ## Thread count
-LN/8 N16 DG16 G16 LR4 N8 DB8 N8 Na8 DB32 N/64
+N/64 DB32 Na8 N8 DB8 N8 LR4 G16 DG16 N16 LN/8
 ![Sett](sett.png)
 
 ## Palette
@@ -44,11 +50,11 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Australian Heavy Horse](/setts/s10/n4lr2n2w2do16n5k2n18n2n4~x2/) — ΔT 1.18
-1. [Loch Tay (District)](/setts/s11/lb3y3r2y16k2db24k2y16r2y3lo3~x2/) — ΔT 1.33
+1. [Australian Heavy Horse](/setts/s10/n4n2n18k2n5do16w2n2lr2n4~x2/) — ΔT 1.18
+1. [Loch Tay (District)](/setts/s11/lo3y3r2y16k2db24k2y16r2y3lb3~x2/) — ΔT 1.33
 1. [Highland, Blue (Corporate)](/setts/s10/dp4g13db5ly3t6ly3db5n6db28w2~x2/) — ΔT 1.34
 1. [Wilton (Toronto) (Personal)](/setts/s10/n9r1g9db19w2db19g9r1n9r1~x2/) — ΔT 1.37
-1. [Spirit of Fife](/setts/s14/dg10w2dt3g2m14dt26dg2dt6dg2dt26m14g2dt3w2~x2/) — ΔT 1.38
+1. [Spirit of Fife](/setts/s14/dg10w2dt3g2m14dt26dg2dt6~x2/) — ΔT 1.38
 1. [MacLeroy and Troine 1987](/setts/s10/k4t6w4t6do8t37lr12do46o6lo4/) — ΔT 1.40
 1. [Spirit of Fife (Corporate)](/setts/s8/dg10w2dt3g2m14dt26dg2dt6~x2/) — ΔT 1.41
 1. [State Seal of West Virginia (Fash)](/setts/s8/o49lo3b13dy8k23b10o14r4~x2/) — ΔT 1.46
@@ -57,8 +63,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/n4lr2n2w2do16n5k2n18n2n4~x2/"><circle cx="205.0" cy="143.2" r="4" fill="#3465a4"><title>Australian Heavy Horse</title></circle></a><a href="/setts/s11/lb3y3r2y16k2db24k2y16r2y3lo3~x2/"><circle cx="266.5" cy="146.3" r="4" fill="#3465a4"><title>Loch Tay (District)</title></circle></a><a href="/setts/s10/dp4g13db5ly3t6ly3db5n6db28w2~x2/"><circle cx="205.6" cy="122.3" r="4" fill="#3465a4"><title>Highland, Blue (Corporate)</title></circle></a><a href="/setts/s10/n9r1g9db19w2db19g9r1n9r1~x2/"><circle cx="258.1" cy="161.2" r="4" fill="#3465a4"><title>Wilton (Toronto) (Personal)</title></circle></a><a href="/setts/s14/dg10w2dt3g2m14dt26dg2dt6dg2dt26m14g2dt3w2~x2/"><circle cx="247.6" cy="134.5" r="4" fill="#3465a4"><title>Spirit of Fife</title></circle></a><a href="/setts/s10/k4t6w4t6do8t37lr12do46o6lo4/"><circle cx="183.8" cy="127.1" r="4" fill="#3465a4"><title>MacLeroy and Troine 1987</title></circle></a><a href="/setts/s8/dg10w2dt3g2m14dt26dg2dt6~x2/"><circle cx="252.4" cy="167.6" r="4" fill="#3465a4"><title>Spirit of Fife (Corporate)</title></circle></a><a href="/setts/s8/o49lo3b13dy8k23b10o14r4~x2/"><circle cx="243.9" cy="147.6" r="4" fill="#3465a4"><title>State Seal of West Virginia (Fash)</title></circle></a><a href="/setts/s12/n10r3n32y12k5y2k4y2k17o4k2lr2~x2/"><circle cx="259.7" cy="142.9" r="4" fill="#3465a4"><title>Scottish Spirit Fashion Tartan Tartan Number: 10970. Earliest known date: 2013 ACS Clothing. Designed by Lochcarron. Wanted 'Highland Spirit' but that was taken by Ian McLure of T J Matthews. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db60lo3db5lo5db9do20lo4g32lb4~x2/"><circle cx="286.0" cy="131.7" r="4" fill="#3465a4"><title>State Seal of Ohio (Fashion)</title></circle></a><circle cx="247.2" cy="127.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/n4n2n18k2n5do16w2n2lr2n4~x2/"><circle cx="204.9" cy="143.3" r="4" fill="#3465a4"><title>Australian Heavy Horse</title></circle></a><a href="/setts/s11/lo3y3r2y16k2db24k2y16r2y3lb3~x2/"><circle cx="266.4" cy="146.4" r="4" fill="#3465a4"><title>Loch Tay (District)</title></circle></a><a href="/setts/s10/dp4g13db5ly3t6ly3db5n6db28w2~x2/"><circle cx="205.6" cy="122.4" r="4" fill="#3465a4"><title>Highland, Blue (Corporate)</title></circle></a><a href="/setts/s10/n9r1g9db19w2db19g9r1n9r1~x2/"><circle cx="258.1" cy="161.3" r="4" fill="#3465a4"><title>Wilton (Toronto) (Personal)</title></circle></a><a href="/setts/s14/dg10w2dt3g2m14dt26dg2dt6~x2/"><circle cx="247.5" cy="134.5" r="4" fill="#3465a4"><title>Spirit of Fife</title></circle></a><a href="/setts/s10/k4t6w4t6do8t37lr12do46o6lo4/"><circle cx="183.8" cy="127.3" r="4" fill="#3465a4"><title>MacLeroy and Troine 1987</title></circle></a><a href="/setts/s8/dg10w2dt3g2m14dt26dg2dt6~x2/"><circle cx="252.4" cy="167.7" r="4" fill="#3465a4"><title>Spirit of Fife (Corporate)</title></circle></a><a href="/setts/s8/o49lo3b13dy8k23b10o14r4~x2/"><circle cx="243.7" cy="147.7" r="4" fill="#3465a4"><title>State Seal of West Virginia (Fash)</title></circle></a><a href="/setts/s12/n10r3n32y12k5y2k4y2k17o4k2lr2~x2/"><circle cx="259.7" cy="143.1" r="4" fill="#3465a4"><title>Scottish Spirit Fashion Tartan Tartan Number: 10970. Earliest known date: 2013 ACS Clothing. Designed by Lochcarron. Wanted 'Highland Spirit' but that was taken by Ian McLure of T J Matthews. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db60lo3db5lo5db9do20lo4g32lb4~x2/"><circle cx="286.0" cy="131.7" r="4" fill="#3465a4"><title>State Seal of Ohio (Fashion)</title></circle></a><circle cx="247.1" cy="127.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/n16db8o2n2db2n2r1y4dg4n4w2~x4/

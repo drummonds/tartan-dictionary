@@ -26,6 +26,4 @@ RGRBGY
 |---------------|
 | [Ruthven](/setts/s6/lr3dg15db18r30dg1r2~x2/)|
 |![Ruthven example sett](/setts/s6/lr3dg15db18r30dg1r2~x2/sett.png)|
-| [Ruthven](/setts/s6/lr3dg15db18r30dg1r2/)|
-|![Ruthven example sett](/setts/s6/lr3dg15db18r30dg1r2/sett.png)|
 

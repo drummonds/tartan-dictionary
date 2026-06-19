@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 185
 
 ## Thread count
-LN/12 B56 DB24 Y8 LT8 G36 LP/20
+LP/20 G36 LT8 Y8 DB24 B56 LN/12
 ![Sett](sett.png)
 
 ## Palette
@@ -43,7 +43,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/12 B56 DB24 Y8 LT8 G36 LP/20 tartan")
+![Tartan detail](tartan.png "LP/20 G36 LT8 Y8 DB24 B56 LN/12 tartan")
 
 ## Nearest tartans
 
@@ -53,7 +53,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Silversea](/setts/s7/r3dt20dt20g2lr4lr17w3~x2/) — ΔT 1.35
 1. [Saltcoats (Saskatchewan) (District?)](/setts/s11/db3ly3o15t8w7db6o15t6ly3dg6r3~x2/) — ΔT 1.37
 1. [Manx National District Tartan Tartan Number: 185. Earliest known date: pre 2003 These are the specifications supplied by the designer. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/dp2g6r1ly1db3t10w1~x2/) — ΔT 1.40
-1. [Kentucky, State of (District)](/setts/s7/ly3r3lb4w2db11g13k2~x2/) — ΔT 1.42
+1. [Kentucky, State of (District)](/setts/s7/ly3r3lb4w2db11g13k2~x2/) — ΔT 1.41
 1. [Mounth The.. Corporate Tartan Tartan Number: 120. Earliest known date: 1988 Designed for Kincardine & Deeside branch of the National Trust for Scotland. Blue is a muted sky blue. Green is a dark pine green. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/dg2o13dg12w3lb10w3lb12g13r2~x2/) — ΔT 1.42
 1. [Saltcoats (Saskatchewan)](/setts/s11/db3ly3y15b8w8db6y15b6ly3dg6r3~x2/) — ΔT 1.46
 1. [Wisconsin](/setts/s11/t22r3t2w3do14y20ly2y20do14t11lr6~x2/) — ΔT 1.47
@@ -62,8 +62,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/lr2y11r2y11k2db6b13k2b3ly2~x4/"><circle cx="120.0" cy="160.5" r="4" fill="#3465a4"><title>RAF Leuchars</title></circle></a><a href="/setts/s7/r3dt20dt20g2lr4lr17w3~x2/"><circle cx="77.0" cy="151.0" r="4" fill="#3465a4"><title>Silversea</title></circle></a><a href="/setts/s11/db3ly3o15t8w7db6o15t6ly3dg6r3~x2/"><circle cx="65.3" cy="173.7" r="4" fill="#3465a4"><title>Saltcoats (Saskatchewan) (District?)</title></circle></a><a href="/setts/s7/dp2g6r1ly1db3t10w1~x2/"><circle cx="145.8" cy="150.9" r="4" fill="#3465a4"><title>Manx National District Tartan Tartan Number: 185. Earliest known date: pre 2003 These are the specifications supplied by the designer. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/ly3r3lb4w2db11g13k2~x2/"><circle cx="63.3" cy="163.6" r="4" fill="#3465a4"><title>Kentucky, State of (District)</title></circle></a><a href="/setts/s9/dg2o13dg12w3lb10w3lb12g13r2~x2/"><circle cx="54.6" cy="186.0" r="4" fill="#3465a4"><title>Mounth The.. Corporate Tartan Tartan Number: 120. Earliest known date: 1988 Designed for Kincardine &amp; Deeside branch of the National Trust for Scotland. Blue is a muted sky blue. Green is a dark pine green. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/db3ly3y15b8w8db6y15b6ly3dg6r3~x2/"><circle cx="54.1" cy="170.6" r="4" fill="#3465a4"><title>Saltcoats (Saskatchewan)</title></circle></a><a href="/setts/s11/t22r3t2w3do14y20ly2y20do14t11lr6~x2/"><circle cx="131.4" cy="161.9" r="4" fill="#3465a4"><title>Wisconsin</title></circle></a><a href="/setts/s9/k9ly6db9lr2o3lr2dg17db17lb5~x2/"><circle cx="86.0" cy="161.7" r="4" fill="#3465a4"><title>Coats (New Zealand)</title></circle></a><a href="/setts/s8/g3dp7t11db3dy8w2db3t3~x2/"><circle cx="86.2" cy="211.0" r="4" fill="#3465a4"><title>Scotia Trade Tartan Tartan Number: 89. Earliest known date: 1968 Originally designed by James Allan of East Kilbride and woven by him in 1850. The sett was reconstructed by David Easton, Galashiels, as a National tartan for Scotland. It did not catch on and the tartan is rarely seen today. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="80.3" cy="183.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/lr2y11r2y11k2db6b13k2b3ly2~x4/"><circle cx="119.9" cy="160.6" r="4" fill="#3465a4"><title>RAF Leuchars</title></circle></a><a href="/setts/s7/r3dt20dt20g2lr4lr17w3~x2/"><circle cx="77.1" cy="151.1" r="4" fill="#3465a4"><title>Silversea</title></circle></a><a href="/setts/s11/db3ly3o15t8w7db6o15t6ly3dg6r3~x2/"><circle cx="65.3" cy="173.8" r="4" fill="#3465a4"><title>Saltcoats (Saskatchewan) (District?)</title></circle></a><a href="/setts/s7/dp2g6r1ly1db3t10w1~x2/"><circle cx="145.9" cy="151.0" r="4" fill="#3465a4"><title>Manx National District Tartan Tartan Number: 185. Earliest known date: pre 2003 These are the specifications supplied by the designer. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/ly3r3lb4w2db11g13k2~x2/"><circle cx="63.4" cy="163.7" r="4" fill="#3465a4"><title>Kentucky, State of (District)</title></circle></a><a href="/setts/s9/dg2o13dg12w3lb10w3lb12g13r2~x2/"><circle cx="54.6" cy="186.1" r="4" fill="#3465a4"><title>Mounth The.. Corporate Tartan Tartan Number: 120. Earliest known date: 1988 Designed for Kincardine &amp; Deeside branch of the National Trust for Scotland. Blue is a muted sky blue. Green is a dark pine green. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/db3ly3y15b8w8db6y15b6ly3dg6r3~x2/"><circle cx="54.1" cy="170.7" r="4" fill="#3465a4"><title>Saltcoats (Saskatchewan)</title></circle></a><a href="/setts/s11/t22r3t2w3do14y20ly2y20do14t11lr6~x2/"><circle cx="131.4" cy="162.2" r="4" fill="#3465a4"><title>Wisconsin</title></circle></a><a href="/setts/s9/k9ly6db9lr2o3lr2dg17db17lb5~x2/"><circle cx="86.1" cy="161.8" r="4" fill="#3465a4"><title>Coats (New Zealand)</title></circle></a><a href="/setts/s8/g3dp7t11db3dy8w2db3t3~x2/"><circle cx="86.3" cy="211.1" r="4" fill="#3465a4"><title>Scotia Trade Tartan Tartan Number: 89. Earliest known date: 1968 Originally designed by James Allan of East Kilbride and woven by him in 1850. The sett was reconstructed by David Easton, Galashiels, as a National tartan for Scotland. It did not catch on and the tartan is rarely seen today. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="80.3" cy="183.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/b5dg9o2ly2db6t14w3~x4/

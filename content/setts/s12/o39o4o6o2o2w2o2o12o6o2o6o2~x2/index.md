@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LT/4 T12 Ta4 T12 LTa24 Ta4 LN4 Ta4 LT4 Ta12 LTa8 T/78
+T/78 LTa8 Ta12 LT4 Ta4 LN4 Ta4 LTa24 T12 Ta4 T12 LT/4
 ![Sett](sett.png)
 
 ## Palette
@@ -909,15 +912,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Allen - Northumbrian Hunting (Personal)](/setts/s14/dy16o2dy3o4dy2n12dy18n2dy18n12dy12o2o2o2~x2/) — ΔT 2.60
 1. [Redwoods](/setts/s9/y4r18dy2r2dy5k2dy15r1y4~x2/) — ΔT 2.65
 1. [The Broons (Corporate)](/setts/s9/r3k1y8lo1dy7lo1y19dy25k1~x2/) — ΔT 2.70
-1. [Historic Scotland Corporate Tartan Tartan Number: 2122. Earliest known date: 1988 Custodians at Historic Scotland properties throughout Scotland, including Edinburgh Castle, wear this distinctive tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/dy2o1dy1o2dy21y9k1y7k2~x2/) — ΔT 2.74
-1. [Long Way Down, The (Corporate)](/setts/s11/o55y6y3lb3y3lb3y10y5y5lr2y3~x2/) — ΔT 2.84
-1. [Hyland Day (Personal)](/setts/s14/lo3do2dy29do6dy4r26dy2r3dy2r26dy4do6dy29do2~x2/) — ΔT 2.88
+1. [Historic Scotland Corporate Tartan Tartan Number: 2122. Earliest known date: 1988 Custodians at Historic Scotland properties throughout Scotland, including Edinburgh Castle, wear this distinctive tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/k2y7k1y9dy21o2dy1o1dy2~x2/) — ΔT 2.74
+1. [Long Way Down, The (Corporate)](/setts/s11/o55y6y3lb3y3lb3y10y5y5lr2y3~x2/) — ΔT 2.85
+1. [Hyland Day (Personal)](/setts/s14/r3dy2r26dy4do6dy29do2lo3~x2/) — ΔT 2.88
 1. [Tricor (Corporate)](/setts/s7/y23o4dy6g6y4lb1y4~x4/) — ΔT 2.92
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/y28k2y28k2y2k2dy29k2r2k2~x2/"><circle cx="481.2" cy="219.8" r="4" fill="#3465a4"><title>Ulster (Peat) (District</title></circle></a><a href="/setts/s11/dy50do6o3do3y3do3dt10dy8do3dy6y3~x2/"><circle cx="528.0" cy="193.2" r="4" fill="#3465a4"><title>Williams (Fashion)</title></circle></a><a href="/setts/s12/dr39dy4dr6lo2dr2w2dr2dy12dr6dr2dr6lo2~x2/"><circle cx="463.6" cy="166.7" r="4" fill="#3465a4"><title>Glen Clova #2 (Fashion)</title></circle></a><a href="/setts/s14/dy16o2dy3o4dy2n12dy18n2dy18n12dy12o2o2o2~x2/"><circle cx="508.0" cy="271.5" r="4" fill="#3465a4"><title>Allen - Northumbrian Hunting (Personal)</title></circle></a><a href="/setts/s9/y4r18dy2r2dy5k2dy15r1y4~x2/"><circle cx="412.3" cy="233.1" r="4" fill="#3465a4"><title>Redwoods</title></circle></a><a href="/setts/s9/r3k1y8lo1dy7lo1y19dy25k1~x2/"><circle cx="375.8" cy="185.1" r="4" fill="#3465a4"><title>The Broons (Corporate)</title></circle></a><a href="/setts/s9/dy2o1dy1o2dy21y9k1y7k2~x2/"><circle cx="457.6" cy="212.7" r="4" fill="#3465a4"><title>Historic Scotland Corporate Tartan Tartan Number: 2122. Earliest known date: 1988 Custodians at Historic Scotland properties throughout Scotland, including Edinburgh Castle, wear this distinctive tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/o55y6y3lb3y3lb3y10y5y5lr2y3~x2/"><circle cx="480.9" cy="154.4" r="4" fill="#3465a4"><title>Long Way Down, The (Corporate)</title></circle></a><a href="/setts/s14/lo3do2dy29do6dy4r26dy2r3dy2r26dy4do6dy29do2~x2/"><circle cx="349.2" cy="187.2" r="4" fill="#3465a4"><title>Hyland Day (Personal)</title></circle></a><a href="/setts/s7/y23o4dy6g6y4lb1y4~x4/"><circle cx="506.9" cy="221.4" r="4" fill="#3465a4"><title>Tricor (Corporate)</title></circle></a><circle cx="511.9" cy="192.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/y28k2y28k2y2k2dy29k2r2k2~x2/"><circle cx="480.9" cy="219.9" r="4" fill="#3465a4"><title>Ulster (Peat) (District</title></circle></a><a href="/setts/s11/dy50do6o3do3y3do3dt10dy8do3dy6y3~x2/"><circle cx="527.7" cy="193.4" r="4" fill="#3465a4"><title>Williams (Fashion)</title></circle></a><a href="/setts/s12/dr39dy4dr6lo2dr2w2dr2dy12dr6dr2dr6lo2~x2/"><circle cx="463.3" cy="166.9" r="4" fill="#3465a4"><title>Glen Clova #2 (Fashion)</title></circle></a><a href="/setts/s14/dy16o2dy3o4dy2n12dy18n2dy18n12dy12o2o2o2~x2/"><circle cx="507.8" cy="271.9" r="4" fill="#3465a4"><title>Allen - Northumbrian Hunting (Personal)</title></circle></a><a href="/setts/s9/y4r18dy2r2dy5k2dy15r1y4~x2/"><circle cx="412.1" cy="233.4" r="4" fill="#3465a4"><title>Redwoods</title></circle></a><a href="/setts/s9/r3k1y8lo1dy7lo1y19dy25k1~x2/"><circle cx="375.5" cy="185.5" r="4" fill="#3465a4"><title>The Broons (Corporate)</title></circle></a><a href="/setts/s9/k2y7k1y9dy21o2dy1o1dy2~x2/"><circle cx="457.3" cy="212.9" r="4" fill="#3465a4"><title>Historic Scotland Corporate Tartan Tartan Number: 2122. Earliest known date: 1988 Custodians at Historic Scotland properties throughout Scotland, including Edinburgh Castle, wear this distinctive tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/o55y6y3lb3y3lb3y10y5y5lr2y3~x2/"><circle cx="480.4" cy="154.8" r="4" fill="#3465a4"><title>Long Way Down, The (Corporate)</title></circle></a><a href="/setts/s14/r3dy2r26dy4do6dy29do2lo3~x2/"><circle cx="348.8" cy="187.6" r="4" fill="#3465a4"><title>Hyland Day (Personal)</title></circle></a><a href="/setts/s7/y23o4dy6g6y4lb1y4~x4/"><circle cx="506.5" cy="221.6" r="4" fill="#3465a4"><title>Tricor (Corporate)</title></circle></a><circle cx="511.5" cy="192.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/o39o4o6o2o2w2o2o12o6o2o6o2~x2/

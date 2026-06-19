@@ -20,7 +20,7 @@ GRYYRY
 
 
 
-### G R LY LG R LG <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="seq">G R LY LG R LG</span></span>
+### LG R LG LY R G <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LG R LG LY R G</span></span>
 
 | Tartans |
 |---------------|

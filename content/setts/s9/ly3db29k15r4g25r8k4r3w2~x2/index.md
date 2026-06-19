@@ -2,7 +2,7 @@
 title: "George Brown"
 date: 2023-03-18
 ---
-**Bands:** [WRKRGRKBY](/stripes/wrkrgrkby/) · **Stripes:** [W R K R G R K DB LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W R K R G R K DB LY</span></span>
+**Bands:** [YBKRGRKRW](/stripes/ybkrgrkrw/) · **Stripes:** [LY DB K R G R K R W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DB K R G R K R W</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 R6 K8 R16 G50 R8 K30 B58 Y/6
+Y/6 B58 K30 R8 G50 R16 K8 R6 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -914,18 +917,18 @@ The nearest existing variants by ΔTartan distance.
 1. [National (1934), The](/setts/s9/w2db3r6k8g12lo1db4k2w2~x2/) — ΔT 0.74
 1. [Whitson](/setts/s9/w4k1g19ly1k19db13r2db4r2~x2/) — ΔT 0.78
 1. [National](/setts/s9/w2db3r6k8g12ly1db4k2w2~x2/) — ΔT 0.87
-1. [Stirling, and Bannockburn](/setts/s10/ly3g2db18r3k13r4t3r4g18r3~x2/) — ΔT 0.87
-1. [Loch Awe](/setts/s9/lb3k2r3g20k24db20r3k2ly3~x2/) — ΔT 0.90
+1. [Stirling, and Bannockburn](/setts/s10/r3g18r4t3r4k13r3db18g2ly3~x2/) — ΔT 0.87
+1. [Loch Awe](/setts/s9/ly3k2r3db20k24g20r3k2lb3~x2/) — ΔT 0.90
 1. [MacLean](/setts/s11/db8k8ly2k3w3k3g24r16db3r4k2~x2/) — ΔT 0.91
 1. [Royal Scottish Pipe Band Association](/setts/s12/lb6k1t20r2g3r2k15r2g3r2k6k3~x2/) — ΔT 0.97
 1. [Minnesota (District)](/setts/s8/k6w3k2db30r9k4g20ly3~x2/) — ΔT 1.01
-1. [Quebec, Plaid Du](/setts/s12/db25g5db2ly2k2r3g20r20db2w2k2r2~x2/) — ΔT 1.03
 1. [Birch (Personal) (Estimated threadcount)](/setts/s9/g2dp2g10k6r2k6t10k1lb2~x2/) — ΔT 1.03
+1. [Quebec, Plaid Du](/setts/s12/db25g5db2ly2k2r3g20r20db2w2k2r2~x2/) — ΔT 1.03
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w2db3r6k8g12lo1db4k2w2~x2/"><circle cx="74.8" cy="145.7" r="4" fill="#3465a4"><title>National (1934), The</title></circle></a><a href="/setts/s9/w4k1g19ly1k19db13r2db4r2~x2/"><circle cx="120.5" cy="117.6" r="4" fill="#3465a4"><title>Whitson</title></circle></a><a href="/setts/s9/w2db3r6k8g12ly1db4k2w2~x2/"><circle cx="65.4" cy="142.7" r="4" fill="#3465a4"><title>National</title></circle></a><a href="/setts/s10/ly3g2db18r3k13r4t3r4g18r3~x2/"><circle cx="71.2" cy="145.0" r="4" fill="#3465a4"><title>Stirling, and Bannockburn</title></circle></a><a href="/setts/s9/lb3k2r3g20k24db20r3k2ly3~x2/"><circle cx="145.1" cy="144.2" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/setts/s11/db8k8ly2k3w3k3g24r16db3r4k2~x2/"><circle cx="99.4" cy="118.6" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s12/lb6k1t20r2g3r2k15r2g3r2k6k3~x2/"><circle cx="136.6" cy="96.5" r="4" fill="#3465a4"><title>Royal Scottish Pipe Band Association</title></circle></a><a href="/setts/s8/k6w3k2db30r9k4g20ly3~x2/"><circle cx="154.7" cy="132.9" r="4" fill="#3465a4"><title>Minnesota (District)</title></circle></a><a href="/setts/s12/db25g5db2ly2k2r3g20r20db2w2k2r2~x2/"><circle cx="138.8" cy="106.1" r="4" fill="#3465a4"><title>Quebec, Plaid Du</title></circle></a><a href="/setts/s9/g2dp2g10k6r2k6t10k1lb2~x2/"><circle cx="76.5" cy="158.1" r="4" fill="#3465a4"><title>Birch (Personal) (Estimated threadcount)</title></circle></a><circle cx="110.3" cy="128.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w2db3r6k8g12lo1db4k2w2~x2/"><circle cx="74.9" cy="145.8" r="4" fill="#3465a4"><title>National (1934), The</title></circle></a><a href="/setts/s9/w4k1g19ly1k19db13r2db4r2~x2/"><circle cx="120.6" cy="117.7" r="4" fill="#3465a4"><title>Whitson</title></circle></a><a href="/setts/s9/w2db3r6k8g12ly1db4k2w2~x2/"><circle cx="65.6" cy="142.8" r="4" fill="#3465a4"><title>National</title></circle></a><a href="/setts/s10/r3g18r4t3r4k13r3db18g2ly3~x2/"><circle cx="71.3" cy="145.1" r="4" fill="#3465a4"><title>Stirling, and Bannockburn</title></circle></a><a href="/setts/s9/ly3k2r3db20k24g20r3k2lb3~x2/"><circle cx="145.2" cy="144.4" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/setts/s11/db8k8ly2k3w3k3g24r16db3r4k2~x2/"><circle cx="99.4" cy="118.7" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s12/lb6k1t20r2g3r2k15r2g3r2k6k3~x2/"><circle cx="136.6" cy="96.6" r="4" fill="#3465a4"><title>Royal Scottish Pipe Band Association</title></circle></a><a href="/setts/s8/k6w3k2db30r9k4g20ly3~x2/"><circle cx="154.7" cy="132.9" r="4" fill="#3465a4"><title>Minnesota (District)</title></circle></a><a href="/setts/s9/g2dp2g10k6r2k6t10k1lb2~x2/"><circle cx="76.7" cy="158.2" r="4" fill="#3465a4"><title>Birch (Personal) (Estimated threadcount)</title></circle></a><a href="/setts/s12/db25g5db2ly2k2r3g20r20db2w2k2r2~x2/"><circle cx="138.8" cy="106.2" r="4" fill="#3465a4"><title>Quebec, Plaid Du</title></circle></a><circle cx="110.4" cy="129.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/ly3db29k15r4g25r8k4r3w2~x2/

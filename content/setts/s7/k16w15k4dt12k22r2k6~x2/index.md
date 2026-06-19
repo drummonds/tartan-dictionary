@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10854](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10854)
 
 ## Thread count
-K/12 R4 K44 DB24 K8 W30 K/32
+K/32 W30 K8 DB24 K44 R4 K/12
 ![Sett](sett.png)
 
 ## Palette
@@ -31,14 +31,14 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/12 R4 K44 DB24 K8 W30 K/32 tartan")
+![Tartan detail](tartan.png "K/32 W30 K8 DB24 K44 R4 K/12 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Sanley-Cantamessa](/setts/s7/k16w15k4db12k22r2k6~x2/) — ΔT 0.30
-1. [Callaway (Corporate)](/setts/s6/r1k10n2lb5k5r1~x4/) — ΔT 1.01
+1. [Callaway (Corporate)](/setts/s6/r1k10n2lb5k5r1~x4/) — ΔT 1.00
 1. [Callaway Corporate Tartan Tartan Number: 2313. Earliest known date: pre 1997 Designed by Arthur Bell (Scotch Tweeds) for a golf course and golf merchandising company in California. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/k10n2lb5k5r1k5lb5n2k10r1~x4/) — ΔT 1.02
 1. [Hasegawa (Akasaka) (Personal)](/setts/s8/dg3w5dg3db6dg5db1dg12r1~x2/) — ΔT 1.10
 1. [Frame (Edinburgh) (Personal)](/setts/s7/k16g15k4t12k22w2k6~x2/) — ΔT 1.30
@@ -50,8 +50,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k16w15k4db12k22r2k6~x2/"><circle cx="279.0" cy="211.6" r="4" fill="#3465a4"><title>Sanley-Cantamessa</title></circle></a><a href="/setts/s6/r1k10n2lb5k5r1~x4/"><circle cx="309.4" cy="209.1" r="4" fill="#3465a4"><title>Callaway (Corporate)</title></circle></a><a href="/setts/s10/k10n2lb5k5r1k5lb5n2k10r1~x4/"><circle cx="308.6" cy="199.5" r="4" fill="#3465a4"><title>Callaway Corporate Tartan Tartan Number: 2313. Earliest known date: pre 1997 Designed by Arthur Bell (Scotch Tweeds) for a golf course and golf merchandising company in California. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/dg3w5dg3db6dg5db1dg12r1~x2/"><circle cx="311.8" cy="201.1" r="4" fill="#3465a4"><title>Hasegawa (Akasaka) (Personal)</title></circle></a><a href="/setts/s7/k16g15k4t12k22w2k6~x2/"><circle cx="305.4" cy="232.8" r="4" fill="#3465a4"><title>Frame (Edinburgh) (Personal)</title></circle></a><a href="/setts/s9/dy7k7dy4k26w12k3w14m2k6/"><circle cx="232.9" cy="171.0" r="4" fill="#3465a4"><title>Aquascutum (Kinloch Anderson)</title></circle></a><a href="/setts/s7/k11w1k1w1k4o8r1~x8/"><circle cx="311.9" cy="182.8" r="4" fill="#3465a4"><title>Dunfermline Athletic (2008) (Corp)</title></circle></a><a href="/setts/s7/k36w3k10w3g28r6k18~x2/"><circle cx="329.2" cy="209.2" r="4" fill="#3465a4"><title>Wild Highlanders (Corporate)</title></circle></a><a href="/setts/s6/k2o6k2o6k12r1~x4/"><circle cx="328.1" cy="224.1" r="4" fill="#3465a4"><title>MacSween, Black (Personal)</title></circle></a><a href="/setts/s10/k17ly2k2ly2k9lb11k2lb11k20ly2~x2/"><circle cx="327.0" cy="192.8" r="4" fill="#3465a4"><title>Coppa Romana (Corporate)</title></circle></a><circle cx="277.6" cy="211.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k16w15k4db12k22r2k6~x2/"><circle cx="279.1" cy="211.3" r="4" fill="#3465a4"><title>Sanley-Cantamessa</title></circle></a><a href="/setts/s6/r1k10n2lb5k5r1~x4/"><circle cx="309.4" cy="208.8" r="4" fill="#3465a4"><title>Callaway (Corporate)</title></circle></a><a href="/setts/s10/k10n2lb5k5r1k5lb5n2k10r1~x4/"><circle cx="308.6" cy="199.3" r="4" fill="#3465a4"><title>Callaway Corporate Tartan Tartan Number: 2313. Earliest known date: pre 1997 Designed by Arthur Bell (Scotch Tweeds) for a golf course and golf merchandising company in California. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/dg3w5dg3db6dg5db1dg12r1~x2/"><circle cx="311.8" cy="200.8" r="4" fill="#3465a4"><title>Hasegawa (Akasaka) (Personal)</title></circle></a><a href="/setts/s7/k16g15k4t12k22w2k6~x2/"><circle cx="305.5" cy="232.6" r="4" fill="#3465a4"><title>Frame (Edinburgh) (Personal)</title></circle></a><a href="/setts/s9/dy7k7dy4k26w12k3w14m2k6/"><circle cx="232.9" cy="170.8" r="4" fill="#3465a4"><title>Aquascutum (Kinloch Anderson)</title></circle></a><a href="/setts/s7/k11w1k1w1k4o8r1~x8/"><circle cx="311.8" cy="182.6" r="4" fill="#3465a4"><title>Dunfermline Athletic (2008) (Corp)</title></circle></a><a href="/setts/s7/k36w3k10w3g28r6k18~x2/"><circle cx="329.2" cy="209.0" r="4" fill="#3465a4"><title>Wild Highlanders (Corporate)</title></circle></a><a href="/setts/s6/k2o6k2o6k12r1~x4/"><circle cx="328.1" cy="223.8" r="4" fill="#3465a4"><title>MacSween, Black (Personal)</title></circle></a><a href="/setts/s10/k17ly2k2ly2k9lb11k2lb11k20ly2~x2/"><circle cx="326.8" cy="192.5" r="4" fill="#3465a4"><title>Coppa Romana (Corporate)</title></circle></a><circle cx="277.7" cy="211.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k16w15k4dt12k22r2k6~x2/

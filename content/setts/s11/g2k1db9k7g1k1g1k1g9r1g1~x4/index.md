@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -902,8 +905,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Louise](/setts/s11/db1k1db9k6g1k1g1k1g6r1k1~x2/) — ΔT 0.89
-1. [Davidson](/setts/s11/r1db6g1db1g6k1g6k1g1k6r1~x4/) — ΔT 0.95
+1. [Louise](/setts/s11/k1r1g6k1g1k1g1k6db9k1db1~x2/) — ΔT 0.89
+1. [Davidson](/setts/s11/r1k6g1k1g6k1g6db1g1db6r1~x4/) — ΔT 0.95
 1. [Gordon 3](/setts/s10/db56k6db6k6db6k44g44ly4g5ly8/) — ΔT 0.98
 1. [Lamont](/setts/s8/db10k1db1k1db2k8g10w1~x2/) — ΔT 1.01
 1. [Antrim](/setts/s10/g5k2g17ly2k5ly2r5k17g2ly4~x2/) — ΔT 1.02
@@ -915,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db1k1db9k6g1k1g1k1g6r1k1~x2/"><circle cx="173.4" cy="173.9" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/setts/s11/r1db6g1db1g6k1g6k1g1k6r1~x4/"><circle cx="175.3" cy="201.9" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/setts/s10/db56k6db6k6db6k44g44ly4g5ly8/"><circle cx="185.5" cy="156.4" r="4" fill="#3465a4"><title>Gordon 3</title></circle></a><a href="/setts/s8/db10k1db1k1db2k8g10w1~x2/"><circle cx="184.5" cy="189.6" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s10/g5k2g17ly2k5ly2r5k17g2ly4~x2/"><circle cx="170.0" cy="177.5" r="4" fill="#3465a4"><title>Antrim</title></circle></a><a href="/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="149.4" cy="183.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/"><circle cx="178.3" cy="157.4" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/setts/s13/db8k1db1k1db1k8ly1g14ly1k8db8k1db1~x2/"><circle cx="181.8" cy="151.2" r="4" fill="#3465a4"><title>Campbell of Breadalbane</title></circle></a><a href="/setts/s10/g8w1g1r1g4k4db8k1db1k1~x2/"><circle cx="168.3" cy="172.3" r="4" fill="#3465a4"><title>Allon/Allan</title></circle></a><a href="/setts/s8/k1b1k1b7dg8k1dg1ly1~x4/"><circle cx="224.7" cy="195.7" r="4" fill="#3465a4"><title>Banff Centennial (Commemorative)</title></circle></a><circle cx="194.9" cy="172.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k1r1g6k1g1k1g1k6db9k1db1~x2/"><circle cx="173.5" cy="173.8" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/setts/s11/r1k6g1k1g6k1g6db1g1db6r1~x4/"><circle cx="175.5" cy="201.8" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/setts/s10/db56k6db6k6db6k44g44ly4g5ly8/"><circle cx="185.6" cy="156.3" r="4" fill="#3465a4"><title>Gordon 3</title></circle></a><a href="/setts/s8/db10k1db1k1db2k8g10w1~x2/"><circle cx="184.7" cy="189.5" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s10/g5k2g17ly2k5ly2r5k17g2ly4~x2/"><circle cx="170.0" cy="177.4" r="4" fill="#3465a4"><title>Antrim</title></circle></a><a href="/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="149.6" cy="183.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/"><circle cx="178.3" cy="157.4" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/setts/s13/db8k1db1k1db1k8ly1g14ly1k8db8k1db1~x2/"><circle cx="181.9" cy="151.2" r="4" fill="#3465a4"><title>Campbell of Breadalbane</title></circle></a><a href="/setts/s10/g8w1g1r1g4k4db8k1db1k1~x2/"><circle cx="168.3" cy="172.3" r="4" fill="#3465a4"><title>Allon/Allan</title></circle></a><a href="/setts/s8/k1b1k1b7dg8k1dg1ly1~x4/"><circle cx="224.8" cy="195.7" r="4" fill="#3465a4"><title>Banff Centennial (Commemorative)</title></circle></a><circle cx="194.9" cy="172.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/g2k1db9k7g1k1g1k1g9r1g1~x4/

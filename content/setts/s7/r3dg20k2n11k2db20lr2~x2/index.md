@@ -26,7 +26,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2198
 
 ## Thread count
-Na/4 DB40 K4 N22 K4 DG40 R/6
+R/6 DG40 K4 N22 K4 DB40 Na/4
 ![Sett](sett.png)
 
 ## Palette
@@ -43,27 +43,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "Na/4 DB40 K4 N22 K4 DG40 R/6 tartan")
+![Tartan detail](tartan.png "R/6 DG40 K4 N22 K4 DB40 Na/4 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Christian Hunting (Personal)](/setts/s7/ly3dp2g27k19db27g2r3~x2/) — ΔT 0.84
+1. [Christian Hunting (Personal)](/setts/s7/r3g2db27k19g27dp2ly3~x2/) — ΔT 0.85
 1. [McComb](/setts/s7/db3r2db18k6dg18ly2g3~x2/) — ΔT 0.92
 1. [Royal Burgh of Peebles (District)](/setts/s7/r3g3db4g17k13dt26w3~x2/) — ΔT 0.93
-1. [Sey (Name)](/setts/s8/r2k8ly1k8g13db13lo1r2~x2/) — ΔT 0.94
+1. [Sey (Name)](/setts/s8/r2k8ly1k8g13db13lo1r2~x2/) — ΔT 0.95
 1. [Yates (Personal)](/setts/s8/k29r3dt24n6k8w4n8o6~x2/) — ΔT 0.95
-1. [St. Andrews Golf Club (Corporate)](/setts/s9/lo1g3lb1g5k1g1k9db12w1~x4/) — ΔT 0.96
+1. [St. Andrews Golf Club (Corporate)](/setts/s9/w1db12k9g1k1g5lb1g3lo1~x4/) — ΔT 0.96
 1. [Remember the Somme 1916](/setts/s8/dg5g2b2db15r2t2dg5r2~x4/) — ΔT 0.99
-1. [MacNeil - 1840 (Chief's sett)](/setts/s7/ly2k6g33k33db33r3w2~x2/) — ΔT 0.99
+1. [MacNeil - 1840 (Chief's sett)](/setts/s7/w2r3db33k33g33k6ly2~x2/) — ΔT 0.99
 1. [Ancient Atlantic (Fashion)](/setts/s6/lb3db17do16dt2dg17lo2~x2/) — ΔT 1.05
 1. [Yates](/setts/s8/k37r4db30n7k10w5n10y7~x2/) — ΔT 1.06
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly3dp2g27k19db27g2r3~x2/"><circle cx="174.9" cy="166.7" r="4" fill="#3465a4"><title>Christian Hunting (Personal)</title></circle></a><a href="/setts/s7/db3r2db18k6dg18ly2g3~x2/"><circle cx="177.1" cy="181.7" r="4" fill="#3465a4"><title>McComb</title></circle></a><a href="/setts/s7/r3g3db4g17k13dt26w3~x2/"><circle cx="155.4" cy="190.2" r="4" fill="#3465a4"><title>Royal Burgh of Peebles (District)</title></circle></a><a href="/setts/s8/r2k8ly1k8g13db13lo1r2~x2/"><circle cx="147.8" cy="169.0" r="4" fill="#3465a4"><title>Sey (Name)</title></circle></a><a href="/setts/s8/k29r3dt24n6k8w4n8o6~x2/"><circle cx="174.5" cy="178.5" r="4" fill="#3465a4"><title>Yates (Personal)</title></circle></a><a href="/setts/s9/lo1g3lb1g5k1g1k9db12w1~x4/"><circle cx="164.3" cy="149.6" r="4" fill="#3465a4"><title>St. Andrews Golf Club (Corporate)</title></circle></a><a href="/setts/s8/dg5g2b2db15r2t2dg5r2~x4/"><circle cx="189.8" cy="188.0" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><a href="/setts/s7/ly2k6g33k33db33r3w2~x2/"><circle cx="182.3" cy="160.4" r="4" fill="#3465a4"><title>MacNeil - 1840 (Chief's sett)</title></circle></a><a href="/setts/s6/lb3db17do16dt2dg17lo2~x2/"><circle cx="143.0" cy="213.4" r="4" fill="#3465a4"><title>Ancient Atlantic (Fashion)</title></circle></a><a href="/setts/s8/k37r4db30n7k10w5n10y7~x2/"><circle cx="174.4" cy="178.6" r="4" fill="#3465a4"><title>Yates</title></circle></a><circle cx="155.0" cy="183.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r3g2db27k19g27dp2ly3~x2/"><circle cx="175.0" cy="166.8" r="4" fill="#3465a4"><title>Christian Hunting (Personal)</title></circle></a><a href="/setts/s7/db3r2db18k6dg18ly2g3~x2/"><circle cx="177.3" cy="181.7" r="4" fill="#3465a4"><title>McComb</title></circle></a><a href="/setts/s7/r3g3db4g17k13dt26w3~x2/"><circle cx="155.6" cy="190.3" r="4" fill="#3465a4"><title>Royal Burgh of Peebles (District)</title></circle></a><a href="/setts/s8/r2k8ly1k8g13db13lo1r2~x2/"><circle cx="148.0" cy="169.1" r="4" fill="#3465a4"><title>Sey (Name)</title></circle></a><a href="/setts/s8/k29r3dt24n6k8w4n8o6~x2/"><circle cx="174.7" cy="178.6" r="4" fill="#3465a4"><title>Yates (Personal)</title></circle></a><a href="/setts/s9/w1db12k9g1k1g5lb1g3lo1~x4/"><circle cx="164.5" cy="149.8" r="4" fill="#3465a4"><title>St. Andrews Golf Club (Corporate)</title></circle></a><a href="/setts/s8/dg5g2b2db15r2t2dg5r2~x4/"><circle cx="190.0" cy="188.1" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><a href="/setts/s7/w2r3db33k33g33k6ly2~x2/"><circle cx="182.4" cy="160.5" r="4" fill="#3465a4"><title>MacNeil - 1840 (Chief's sett)</title></circle></a><a href="/setts/s6/lb3db17do16dt2dg17lo2~x2/"><circle cx="143.3" cy="213.6" r="4" fill="#3465a4"><title>Ancient Atlantic (Fashion)</title></circle></a><a href="/setts/s8/k37r4db30n7k10w5n10y7~x2/"><circle cx="174.6" cy="178.7" r="4" fill="#3465a4"><title>Yates</title></circle></a><circle cx="155.2" cy="183.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r3dg20k2n11k2db20lr2~x2/

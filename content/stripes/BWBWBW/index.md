@@ -8,7 +8,7 @@ BWBWBW
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/dt3w3dt20w20dt20w3~x2/tartan.png)
+![Woven sample](/setts/s6/w20dt20w3dt3~x2/tartan.png)
 
 
 
@@ -45,8 +45,8 @@ Grouped by stripe pattern — the 6 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Barbie's Moss Plaid (Blue & White)](/setts/s6/dt3w3dt20w20dt20w3~x2/)|
-|![Barbie's Moss Plaid (Blue & White) example sett](/setts/s6/dt3w3dt20w20dt20w3~x2/sett.png)|
+| [Barbie's Moss Plaid (Blue & White)](/setts/s6/w20dt20w3dt3~x2/)|
+|![Barbie's Moss Plaid (Blue & White) example sett](/setts/s6/w20dt20w3dt3~x2/sett.png)|
 | [MacMugen](/setts/s6/dt3w16dt4w3dt12w2~x3/)|
 |![MacMugen example sett](/setts/s6/dt3w16dt4w3dt12w2~x3/sett.png)|
 
@@ -63,13 +63,13 @@ Grouped by stripe pattern — the 6 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Unidentified, Plaid Barbie's Moss](/setts/s6/b3w3b20w20b20w3~x2/)|
-|![Unidentified, Plaid Barbie's Moss example sett](/setts/s6/b3w3b20w20b20w3~x2/sett.png)|
+| [Unidentified, Plaid Barbie's Moss](/setts/s6/w20b20w3b3~x2/)|
+|![Unidentified, Plaid Barbie's Moss example sett](/setts/s6/w20b20w3b3~x2/sett.png)|
 
 ### N LB N LB N LB <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">N LB N LB N LB</span></span>
 
 | Tartans |
 |---------------|
-| [Erskine, Grey](/setts/s6/lb6n2lb25n25lb2n6~x2/)|
-|![Erskine, Grey example sett](/setts/s6/lb6n2lb25n25lb2n6~x2/sett.png)|
+| [Erskine, Grey](/setts/s6/n6lb2n25lb25n2lb6~x2/)|
+|![Erskine, Grey example sett](/setts/s6/n6lb2n25lb25n2lb6~x2/sett.png)|
 

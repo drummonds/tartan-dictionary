@@ -2,12 +2,18 @@
 title: "Young Presidents Organisation"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKGKGKBR](/stripes/bkbkbkgkgkbr/) · **Stripes:** [DB K DB K DB K G K G K DB R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K DB K DB K G K G K DB R</span></span>
+**Bands:** [RBKGKGKBKBKB](/stripes/rbkgkgkbkbkb/) · **Stripes:** [R DB K G K G K DB K DB K DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB K G K G K DB K DB K DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4797
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Young Presidents Org.
 
 ## Attestations
 
@@ -24,7 +30,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4133
 
 ## Thread count
-DBa/32 K4 DBa6 K4 DBa6 K20 G24 K4 G24 K20 DBa10 Ra/44
+Ra/44 DBa10 K20 G24 K4 G24 K20 DBa6 K4 DBa6 K4 DBa/32
 ![Sett](sett.png)
 
 ## Palette
@@ -51,16 +57,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Borthwick D](/setts/s9/dg12k1dr10k2y10k14y10k2dr4~x2/) — ΔT 0.98
 1. [Bonner, (Bonnar)](/setts/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/) — ΔT 1.03
 1. [Borthwick D](/setts/s9/dg12k1r10k2y10k14y10k2r4~x2/) — ΔT 1.10
-1. [Wilson's No.158](/setts/s10/g19w2g4k13dp12k3dp12k13g4w2~x2/) — ΔT 1.12
+1. [Wilson's No.158](/setts/s10/g19w2g4k13dp12k3~x2/) — ΔT 1.12
 1. [North Berwick Pipe Band (Dancing)](/setts/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/) — ΔT 1.14
-1. [Highfield](/setts/s20/db10k2g2r2g2k2r2k2r4k1g2k1r4k2r2k2g2r2g2k2~x4/) — ΔT 1.15
-1. [Wilson's No.160](/setts/s10/g19ly2g4k13dp12k3dp12k13g4ly2~x2/) — ΔT 1.16
-1. [MacDonald](/setts/s12/db8r1db2r3db12r1k12dg12r3dg2r1dg8~x2/) — ΔT 1.19
+1. [Highfield](/setts/s20/db10k2g2r2g2k2r2k2r4k1g2~x4/) — ΔT 1.15
+1. [Wilson's No.160](/setts/s10/g19ly2g4k13dp12k3~x2/) — ΔT 1.16
+1. [MacDonald](/setts/s12/dg8r1dg2r3dg12k12r1db12r3db2r1db8~x2/) — ΔT 1.19
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/"><circle cx="128.7" cy="195.8" r="4" fill="#3465a4"><title>Unidentified Sample #2</title></circle></a><a href="/setts/s11/db10k2g2r2g2k2r2k2r4k1g2~x4/"><circle cx="143.5" cy="183.1" r="4" fill="#3465a4"><title>Highfield (Name)</title></circle></a><a href="/setts/s9/dg12k1dr10k2y10k14y10k2dr4~x2/"><circle cx="138.8" cy="195.4" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/setts/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/"><circle cx="158.5" cy="154.2" r="4" fill="#3465a4"><title>Bonner, (Bonnar)</title></circle></a><a href="/setts/s9/dg12k1r10k2y10k14y10k2r4~x2/"><circle cx="133.8" cy="187.2" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/setts/s10/g19w2g4k13dp12k3dp12k13g4w2~x2/"><circle cx="163.3" cy="204.5" r="4" fill="#3465a4"><title>Wilson's No.158</title></circle></a><a href="/setts/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/"><circle cx="185.0" cy="180.9" r="4" fill="#3465a4"><title>North Berwick Pipe Band (Dancing)</title></circle></a><a href="/setts/s20/db10k2g2r2g2k2r2k2r4k1g2k1r4k2r2k2g2r2g2k2~x4/"><circle cx="123.2" cy="163.7" r="4" fill="#3465a4"><title>Highfield</title></circle></a><a href="/setts/s10/g19ly2g4k13dp12k3dp12k13g4ly2~x2/"><circle cx="167.1" cy="206.2" r="4" fill="#3465a4"><title>Wilson's No.160</title></circle></a><a href="/setts/s12/db8r1db2r3db12r1k12dg12r3dg2r1dg8~x2/"><circle cx="170.2" cy="184.3" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><circle cx="117.4" cy="177.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/"><circle cx="128.8" cy="195.8" r="4" fill="#3465a4"><title>Unidentified Sample #2</title></circle></a><a href="/setts/s11/db10k2g2r2g2k2r2k2r4k1g2~x4/"><circle cx="143.7" cy="183.1" r="4" fill="#3465a4"><title>Highfield (Name)</title></circle></a><a href="/setts/s9/dg12k1dr10k2y10k14y10k2dr4~x2/"><circle cx="139.0" cy="195.4" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/setts/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/"><circle cx="158.5" cy="154.2" r="4" fill="#3465a4"><title>Bonner, (Bonnar)</title></circle></a><a href="/setts/s9/dg12k1r10k2y10k14y10k2r4~x2/"><circle cx="133.9" cy="187.2" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/setts/s10/g19w2g4k13dp12k3~x2/"><circle cx="163.4" cy="204.5" r="4" fill="#3465a4"><title>Wilson's No.158</title></circle></a><a href="/setts/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/"><circle cx="185.1" cy="180.8" r="4" fill="#3465a4"><title>North Berwick Pipe Band (Dancing)</title></circle></a><a href="/setts/s20/db10k2g2r2g2k2r2k2r4k1g2~x4/"><circle cx="123.3" cy="163.8" r="4" fill="#3465a4"><title>Highfield</title></circle></a><a href="/setts/s10/g19ly2g4k13dp12k3~x2/"><circle cx="167.2" cy="206.2" r="4" fill="#3465a4"><title>Wilson's No.160</title></circle></a><a href="/setts/s12/dg8r1dg2r3dg12k12r1db12r3db2r1db8~x2/"><circle cx="170.4" cy="184.3" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><circle cx="117.5" cy="177.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r22db5k10g12k2g12k10db3k2db3k2db16~x2/

@@ -22,6 +22,6 @@ KRKRKRKRKRKRKRKRKR
 
 | Tartans |
 |---------------|
-| [Welsh Costume (Personal)](/setts/s18/k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1~x4/)|
-|![Welsh Costume (Personal) example sett](/setts/s18/k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1k1r1~x4/sett.png)|
+| [Welsh Costume (Personal)](/setts/s18/k1r1~x4/)|
+|![Welsh Costume (Personal) example sett](/setts/s18/k1r1~x4/sett.png)|
 

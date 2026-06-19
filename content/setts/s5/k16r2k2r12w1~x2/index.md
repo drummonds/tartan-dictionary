@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -925,15 +928,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Monmouth College](/setts/s6/k4r33k24w3k4r3~x2/) — ΔT 0.86
 1. [MacQueen](/setts/s6/k2r6k2r6k12ly1~x4/) — ΔT 0.86
 1. [Hopkins (Name)](/setts/s5/r36k18r4k7w2~x2/) — ΔT 0.94
-1. [Dunbar Ancient](/setts/s6/k13w2k4r28k4w2~x2/) — ΔT 0.97
+1. [Dunbar Ancient](/setts/s6/r28k4w2k13~x2/) — ΔT 0.97
 1. [Dunbar (District)](/setts/s4/r28k4w2k13~x2/) — ΔT 1.00
 1. [MacGregor, Black (Personal)](/setts/s5/r41k19r7k9w3~x2/) — ΔT 1.06
 1. [Cunningham #2](/setts/s7/k3r2k30r28k2r2w3~x2/) — ΔT 1.08
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r20k2r2k15w1~x2/"><circle cx="386.6" cy="184.1" r="4" fill="#3465a4"><title>Masai Shuka 15 (Artefact)</title></circle></a><a href="/setts/s6/k2r16k8ly1k8r2~x4/"><circle cx="341.4" cy="198.8" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><a href="/setts/s6/k8r1k8r11ly1r1~x4/"><circle cx="336.6" cy="214.9" r="4" fill="#3465a4"><title>Swanstrom (Personal)</title></circle></a><a href="/setts/s6/k4r33k24w3k4r3~x2/"><circle cx="335.6" cy="193.8" r="4" fill="#3465a4"><title>Monmouth College</title></circle></a><a href="/setts/s6/k2r6k2r6k12ly1~x4/"><circle cx="342.6" cy="216.9" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><a href="/setts/s5/r36k18r4k7w2~x2/"><circle cx="399.9" cy="189.7" r="4" fill="#3465a4"><title>Hopkins (Name)</title></circle></a><a href="/setts/s6/k13w2k4r28k4w2~x2/"><circle cx="334.7" cy="177.0" r="4" fill="#3465a4"><title>Dunbar Ancient</title></circle></a><a href="/setts/s4/r28k4w2k13~x2/"><circle cx="375.5" cy="210.1" r="4" fill="#3465a4"><title>Dunbar (District)</title></circle></a><a href="/setts/s5/r41k19r7k9w3~x2/"><circle cx="383.0" cy="202.1" r="4" fill="#3465a4"><title>MacGregor, Black (Personal)</title></circle></a><a href="/setts/s7/k3r2k30r28k2r2w3~x2/"><circle cx="351.2" cy="167.0" r="4" fill="#3465a4"><title>Cunningham #2</title></circle></a><circle cx="360.5" cy="195.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r20k2r2k15w1~x2/"><circle cx="386.4" cy="183.9" r="4" fill="#3465a4"><title>Masai Shuka 15 (Artefact)</title></circle></a><a href="/setts/s6/k2r16k8ly1k8r2~x4/"><circle cx="341.2" cy="198.6" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><a href="/setts/s6/k8r1k8r11ly1r1~x4/"><circle cx="336.5" cy="214.7" r="4" fill="#3465a4"><title>Swanstrom (Personal)</title></circle></a><a href="/setts/s6/k4r33k24w3k4r3~x2/"><circle cx="335.4" cy="193.5" r="4" fill="#3465a4"><title>Monmouth College</title></circle></a><a href="/setts/s6/k2r6k2r6k12ly1~x4/"><circle cx="342.4" cy="216.7" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><a href="/setts/s5/r36k18r4k7w2~x2/"><circle cx="399.6" cy="189.5" r="4" fill="#3465a4"><title>Hopkins (Name)</title></circle></a><a href="/setts/s6/r28k4w2k13~x2/"><circle cx="334.4" cy="176.8" r="4" fill="#3465a4"><title>Dunbar Ancient</title></circle></a><a href="/setts/s4/r28k4w2k13~x2/"><circle cx="375.2" cy="209.8" r="4" fill="#3465a4"><title>Dunbar (District)</title></circle></a><a href="/setts/s5/r41k19r7k9w3~x2/"><circle cx="382.7" cy="201.8" r="4" fill="#3465a4"><title>MacGregor, Black (Personal)</title></circle></a><a href="/setts/s7/k3r2k30r28k2r2w3~x2/"><circle cx="350.9" cy="166.8" r="4" fill="#3465a4"><title>Cunningham #2</title></circle></a><circle cx="360.3" cy="195.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/k16r2k2r12w1~x2/

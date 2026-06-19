@@ -2,12 +2,18 @@
 title: "Bank of Scotland (2000)"
 date: 2023-03-18
 ---
-**Bands:** [BBBRBBBBBY](/stripes/bbbrbbbbby/) · **Stripes:** [B DB DT R DT DT B DT B LO](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">B DB DT R DT DT B DT B LO</span></span>
+**Bands:** [YBBBBBRBBB](/stripes/ybbbbbrbbb/) · **Stripes:** [LO B DT B DT DT R DT DB B](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LO B DT B DT DT R DT DB B</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4945
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Bank of Scotland 2000
 
 ## Attestations
 
@@ -52,14 +58,14 @@ The nearest existing variants by ΔTartan distance.
 1. [State Seal of Tennessee (Fashion)](/setts/s10/db70lb6db5db16g10b27g4b4g1r4~x2/) — ΔT 1.92
 1. [RAAF #2](/setts/s9/db66w1dt10w1dt10w1dt12r2t24~x2/) — ΔT 2.00
 1. [Blue Pride](/setts/s11/b38k4b2g6p11db3p2r2b11k1w2~x2/) — ΔT 2.02
-1. [Bowcutt, David (Personal)](/setts/s14/db1k4db3dp2k15db2k3db50k2db2k6db2k1r1~x2/) — ΔT 2.05
+1. [Bowcutt, David (Personal)](/setts/s14/db1k4db3dp2k15db2k3db50k2db2k6db2k1r1~x2/) — ΔT 2.06
 1. [Canberra, City of](/setts/s10/n76t22k1ly3k1t3k1w2k1t10~x2/) — ΔT 2.13
 1. [Buckie](/setts/s9/o4k2dg2ly1dg8k20db50r2db2~x2/) — ΔT 2.16
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/g6db3w1db3g6r2db15b60lo2b30db15r2~x2/"><circle cx="464.3" cy="105.7" r="4" fill="#3465a4"><title>Roslin Roseline Da Vinci (Corporate)</title></circle></a><a href="/setts/s10/db84dp1db1k2db2k30dp7db2g3lo2~x2/"><circle cx="527.8" cy="113.6" r="4" fill="#3465a4"><title>Ulster Scots (Fashion)</title></circle></a><a href="/setts/s11/b38k4b2g6p11db3p2m2b11k1w2~x2/"><circle cx="372.1" cy="79.2" r="4" fill="#3465a4"><title>Blue Pride</title></circle></a><a href="/setts/s8/db142dt12db24w7db5w5db5r10/"><circle cx="472.6" cy="133.1" r="4" fill="#3465a4"><title>Glen Innes (District)</title></circle></a><a href="/setts/s10/db70lb6db5db16g10b27g4b4g1r4~x2/"><circle cx="426.0" cy="111.5" r="4" fill="#3465a4"><title>State Seal of Tennessee (Fashion)</title></circle></a><a href="/setts/s9/db66w1dt10w1dt10w1dt12r2t24~x2/"><circle cx="395.9" cy="126.4" r="4" fill="#3465a4"><title>RAAF #2</title></circle></a><a href="/setts/s11/b38k4b2g6p11db3p2r2b11k1w2~x2/"><circle cx="367.3" cy="76.8" r="4" fill="#3465a4"><title>Blue Pride</title></circle></a><a href="/setts/s14/db1k4db3dp2k15db2k3db50k2db2k6db2k1r1~x2/"><circle cx="521.7" cy="116.2" r="4" fill="#3465a4"><title>Bowcutt, David (Personal)</title></circle></a><a href="/setts/s10/n76t22k1ly3k1t3k1w2k1t10~x2/"><circle cx="483.8" cy="101.5" r="4" fill="#3465a4"><title>Canberra, City of</title></circle></a><a href="/setts/s9/o4k2dg2ly1dg8k20db50r2db2~x2/"><circle cx="400.4" cy="99.7" r="4" fill="#3465a4"><title>Buckie</title></circle></a><circle cx="479.1" cy="101.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/g6db3w1db3g6r2db15b60lo2b30db15r2~x2/"><circle cx="464.1" cy="105.8" r="4" fill="#3465a4"><title>Roslin Roseline Da Vinci (Corporate)</title></circle></a><a href="/setts/s10/db84dp1db1k2db2k30dp7db2g3lo2~x2/"><circle cx="527.6" cy="113.6" r="4" fill="#3465a4"><title>Ulster Scots (Fashion)</title></circle></a><a href="/setts/s11/b38k4b2g6p11db3p2m2b11k1w2~x2/"><circle cx="372.0" cy="79.3" r="4" fill="#3465a4"><title>Blue Pride</title></circle></a><a href="/setts/s8/db142dt12db24w7db5w5db5r10/"><circle cx="472.5" cy="133.1" r="4" fill="#3465a4"><title>Glen Innes (District)</title></circle></a><a href="/setts/s10/db70lb6db5db16g10b27g4b4g1r4~x2/"><circle cx="425.9" cy="111.5" r="4" fill="#3465a4"><title>State Seal of Tennessee (Fashion)</title></circle></a><a href="/setts/s9/db66w1dt10w1dt10w1dt12r2t24~x2/"><circle cx="395.8" cy="126.4" r="4" fill="#3465a4"><title>RAAF #2</title></circle></a><a href="/setts/s11/b38k4b2g6p11db3p2r2b11k1w2~x2/"><circle cx="367.2" cy="76.9" r="4" fill="#3465a4"><title>Blue Pride</title></circle></a><a href="/setts/s14/db1k4db3dp2k15db2k3db50k2db2k6db2k1r1~x2/"><circle cx="521.6" cy="116.3" r="4" fill="#3465a4"><title>Bowcutt, David (Personal)</title></circle></a><a href="/setts/s10/n76t22k1ly3k1t3k1w2k1t10~x2/"><circle cx="483.5" cy="101.5" r="4" fill="#3465a4"><title>Canberra, City of</title></circle></a><a href="/setts/s9/o4k2dg2ly1dg8k20db50r2db2~x2/"><circle cx="400.3" cy="99.8" r="4" fill="#3465a4"><title>Buckie</title></circle></a><circle cx="479.0" cy="101.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/b64db3dt4r5dt8dt12b3dt4b2lo1~x2/

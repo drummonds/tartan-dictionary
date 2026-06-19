@@ -2,7 +2,7 @@
 title: "MacKillop"
 date: 2023-03-18
 ---
-**Bands:** [GRKRBKRGRK](/stripes/grkrbkrgrk/) · **Stripes:** [G R K R T K R G R K](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">G R K R T K R G R K</span></span>
+**Bands:** [KRGRKBRKRG](/stripes/krgrkbrkrg/) · **Stripes:** [K R G R K T R K R G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K R G R K T R K R G</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -913,7 +916,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Grant, Kilt](/setts/s15/r5k1r2k2r16t2r2k9r2g2r2g13r2k2r4~x2/) — ΔT 0.90
 1. [MacLeod, and MacNicol](/setts/s12/r8g1r8g16r4k2t1k4r8g1r8k1~x2/) — ΔT 1.09
 1. [MacPhail](/setts/s6/r25k7r3g13t1k2~x4/) — ΔT 1.12
-1. [Hallingdal (District)](/setts/s12/g2ly1r2k12r2k2r2k2r13k2ly1r2~x2/) — ΔT 1.20
+1. [Hallingdal (District)](/setts/s12/r2ly1k2r13k2r2k2r2k12r2ly1g2~x2/) — ΔT 1.20
 1. [Scoepaig, fragment](/setts/s10/k10t1k1r10t1k1t1r10g6r2~x2/) — ΔT 1.23
 1. [MacDuff](/setts/s7/r4k2r24k6db6g16r3~x2/) — ΔT 1.24
 1. [Island of Innis, The](/setts/s8/k15dg1k3r9dg1r3lo11k1~x4/) — ΔT 1.25
@@ -922,8 +925,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dg4r2k2r20t1k7r2dg10r3k2~x2/"><circle cx="307.1" cy="135.5" r="4" fill="#3465a4"><title>MacKillop (Scottish Tartan Society)</title></circle></a><a href="/setts/s15/r5k1r2k2r16t2r2k9r2g2r2g13r2k2r4~x2/"><circle cx="276.4" cy="123.2" r="4" fill="#3465a4"><title>Grant, Kilt</title></circle></a><a href="/setts/s12/r8g1r8g16r4k2t1k4r8g1r8k1~x2/"><circle cx="317.0" cy="148.5" r="4" fill="#3465a4"><title>MacLeod, and MacNicol</title></circle></a><a href="/setts/s6/r25k7r3g13t1k2~x4/"><circle cx="326.1" cy="148.0" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/setts/s12/g2ly1r2k12r2k2r2k2r13k2ly1r2~x2/"><circle cx="296.0" cy="137.6" r="4" fill="#3465a4"><title>Hallingdal (District)</title></circle></a><a href="/setts/s10/k10t1k1r10t1k1t1r10g6r2~x2/"><circle cx="248.2" cy="161.0" r="4" fill="#3465a4"><title>Scoepaig, fragment</title></circle></a><a href="/setts/s7/r4k2r24k6db6g16r3~x2/"><circle cx="261.4" cy="178.4" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s8/k15dg1k3r9dg1r3lo11k1~x4/"><circle cx="233.7" cy="162.9" r="4" fill="#3465a4"><title>Island of Innis, The</title></circle></a><a href="/setts/s15/r5k1r2k2r16t2r2k9r2dg2r2dg13r2k2r4~x2/"><circle cx="296.5" cy="128.1" r="4" fill="#3465a4"><title>Unidentified No 3 #2</title></circle></a><a href="/setts/s10/dg5r4dg17lt5r32lt5dg17r4dg5w2~x2/"><circle cx="262.0" cy="148.7" r="4" fill="#3465a4"><title>Wilson's No.005</title></circle></a><circle cx="293.1" cy="133.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dg4r2k2r20t1k7r2dg10r3k2~x2/"><circle cx="306.8" cy="135.4" r="4" fill="#3465a4"><title>MacKillop (Scottish Tartan Society)</title></circle></a><a href="/setts/s15/r5k1r2k2r16t2r2k9r2g2r2g13r2k2r4~x2/"><circle cx="276.1" cy="123.1" r="4" fill="#3465a4"><title>Grant, Kilt</title></circle></a><a href="/setts/s12/r8g1r8g16r4k2t1k4r8g1r8k1~x2/"><circle cx="316.6" cy="148.3" r="4" fill="#3465a4"><title>MacLeod, and MacNicol</title></circle></a><a href="/setts/s6/r25k7r3g13t1k2~x4/"><circle cx="325.8" cy="147.8" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/setts/s12/r2ly1k2r13k2r2k2r2k12r2ly1g2~x2/"><circle cx="295.8" cy="137.5" r="4" fill="#3465a4"><title>Hallingdal (District)</title></circle></a><a href="/setts/s10/k10t1k1r10t1k1t1r10g6r2~x2/"><circle cx="248.1" cy="160.9" r="4" fill="#3465a4"><title>Scoepaig, fragment</title></circle></a><a href="/setts/s7/r4k2r24k6db6g16r3~x2/"><circle cx="261.2" cy="178.3" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s8/k15dg1k3r9dg1r3lo11k1~x4/"><circle cx="233.6" cy="162.8" r="4" fill="#3465a4"><title>Island of Innis, The</title></circle></a><a href="/setts/s15/r5k1r2k2r16t2r2k9r2dg2r2dg13r2k2r4~x2/"><circle cx="296.1" cy="128.0" r="4" fill="#3465a4"><title>Unidentified No 3 #2</title></circle></a><a href="/setts/s10/dg5r4dg17lt5r32lt5dg17r4dg5w2~x2/"><circle cx="261.7" cy="148.5" r="4" fill="#3465a4"><title>Wilson's No.005</title></circle></a><circle cx="292.9" cy="133.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/g4r4k2r20t1k7r2g10r3k2~x2/

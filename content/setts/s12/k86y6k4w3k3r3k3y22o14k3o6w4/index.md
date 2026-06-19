@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,18 +909,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Glen Ross (WCWM - 2)](/setts/s12/k48n4k6lr2k2r2k2n10o6k2o3r2~x2/) — ΔT 0.82
 1. [Calgary HOG](/setts/s9/lb4lr6k4r2r10k44lr1k1lb2~x2/) — ΔT 1.07
 1. [Braveheart - ( Warrior)](/setts/s12/k43b3k7dp3k2dp3k2g11r6k2r3w3~x2/) — ΔT 1.09
-1. [Down Irish County Tartan Tartan Number: 2266. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/k65dy9r11k5t2lo2lo5k2lo13~x2/) — ΔT 1.20
+1. [Down Irish County Tartan Tartan Number: 2266. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/k65dy9r11k5t2lo2lo5k2lo13~x2/) — ΔT 1.19
 1. [Stewart, Black ground](/setts/s12/k36db4k6ly1k1w1k1g8r4k1r2w1~x2/) — ΔT 1.20
 1. [Stewart Black](/setts/s13/k58db5w5k10ly3k3w3k3g14r11k3r4w3~x2/) — ΔT 1.20
 1. [Langtree Trade Tartan Tartan Number: 1131. Earliest known date: pre 2003 A Stewart colour variation marketed by Selfridge's, London and apparently designed and woven by Pendleton Woolen Mills of Oregon. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/k86o6k4w3k3r3k3o22lo14k3lo6w4/) — ΔT 1.20
 1. [Grey Spencer Plaid](/setts/s11/k40y8o2y2w2y2k9w5y2w5k2~x2/) — ΔT 1.22
-1. [Marsa Scout Group](/setts/s11/g4k1ly2k1g8k44r2k1db8k1r4~x2/) — ΔT 1.23
+1. [Marsa Scout Group](/setts/s11/r4k1db8k1r2k44g8k1ly2k1g4~x2/) — ΔT 1.23
 1. [Clan An Caigeann (Corporate)](/setts/s12/k44ly3k4ly3k4db4w2db4r2w2dg4ly2~x2/) — ΔT 1.32
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k48n4k6lr2k2r2k2n10o6k2o3r2~x2/"><circle cx="401.3" cy="94.6" r="4" fill="#3465a4"><title>Glen Ross (WCWM - 2)</title></circle></a><a href="/setts/s9/lb4lr6k4r2r10k44lr1k1lb2~x2/"><circle cx="398.7" cy="76.2" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/setts/s12/k43b3k7dp3k2dp3k2g11r6k2r3w3~x2/"><circle cx="334.0" cy="85.4" r="4" fill="#3465a4"><title>Braveheart - ( Warrior)</title></circle></a><a href="/setts/s9/k65dy9r11k5t2lo2lo5k2lo13~x2/"><circle cx="349.2" cy="78.8" r="4" fill="#3465a4"><title>Down Irish County Tartan Tartan Number: 2266. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/k36db4k6ly1k1w1k1g8r4k1r2w1~x2/"><circle cx="396.3" cy="62.3" r="4" fill="#3465a4"><title>Stewart, Black ground</title></circle></a><a href="/setts/s13/k58db5w5k10ly3k3w3k3g14r11k3r4w3~x2/"><circle cx="302.9" cy="78.1" r="4" fill="#3465a4"><title>Stewart Black</title></circle></a><a href="/setts/s12/k86o6k4w3k3r3k3o22lo14k3lo6w4/"><circle cx="375.7" cy="76.6" r="4" fill="#3465a4"><title>Langtree Trade Tartan Tartan Number: 1131. Earliest known date: pre 2003 A Stewart colour variation marketed by Selfridge's, London and apparently designed and woven by Pendleton Woolen Mills of Oregon. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/k40y8o2y2w2y2k9w5y2w5k2~x2/"><circle cx="365.9" cy="115.7" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><a href="/setts/s11/g4k1ly2k1g8k44r2k1db8k1r4~x2/"><circle cx="399.9" cy="73.7" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/setts/s12/k44ly3k4ly3k4db4w2db4r2w2dg4ly2~x2/"><circle cx="369.6" cy="74.1" r="4" fill="#3465a4"><title>Clan An Caigeann (Corporate)</title></circle></a><circle cx="366.7" cy="77.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k48n4k6lr2k2r2k2n10o6k2o3r2~x2/"><circle cx="401.2" cy="94.5" r="4" fill="#3465a4"><title>Glen Ross (WCWM - 2)</title></circle></a><a href="/setts/s9/lb4lr6k4r2r10k44lr1k1lb2~x2/"><circle cx="398.5" cy="76.0" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/setts/s12/k43b3k7dp3k2dp3k2g11r6k2r3w3~x2/"><circle cx="334.1" cy="85.4" r="4" fill="#3465a4"><title>Braveheart - ( Warrior)</title></circle></a><a href="/setts/s9/k65dy9r11k5t2lo2lo5k2lo13~x2/"><circle cx="349.2" cy="78.7" r="4" fill="#3465a4"><title>Down Irish County Tartan Tartan Number: 2266. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/k36db4k6ly1k1w1k1g8r4k1r2w1~x2/"><circle cx="396.2" cy="62.2" r="4" fill="#3465a4"><title>Stewart, Black ground</title></circle></a><a href="/setts/s13/k58db5w5k10ly3k3w3k3g14r11k3r4w3~x2/"><circle cx="302.8" cy="78.1" r="4" fill="#3465a4"><title>Stewart Black</title></circle></a><a href="/setts/s12/k86o6k4w3k3r3k3o22lo14k3lo6w4/"><circle cx="375.5" cy="76.5" r="4" fill="#3465a4"><title>Langtree Trade Tartan Tartan Number: 1131. Earliest known date: pre 2003 A Stewart colour variation marketed by Selfridge's, London and apparently designed and woven by Pendleton Woolen Mills of Oregon. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/k40y8o2y2w2y2k9w5y2w5k2~x2/"><circle cx="365.8" cy="115.5" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><a href="/setts/s11/r4k1db8k1r2k44g8k1ly2k1g4~x2/"><circle cx="399.7" cy="73.6" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/setts/s12/k44ly3k4ly3k4db4w2db4r2w2dg4ly2~x2/"><circle cx="369.4" cy="74.0" r="4" fill="#3465a4"><title>Clan An Caigeann (Corporate)</title></circle></a><circle cx="366.6" cy="77.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/k86y6k4w3k3r3k3y22o14k3o6w4/

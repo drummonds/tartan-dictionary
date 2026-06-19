@@ -2,12 +2,18 @@
 title: "Culloden Unidentified"
 date: 2023-03-18
 ---
-**Bands:** [BRGRGRBRBRBRBR](/stripes/brgrgrbrbrbrbr/) · **Stripes:** [DB R DG R DG R DB R DB R DB R DB R](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R DG R DG R DB R DB R DB R DB R</span></span>
+**Bands:** [RBRBRBRBRGRGRB](/stripes/rbrbrbrbrgrgrb/) · **Stripes:** [R DB R DB R DB R DB R DG R DG R DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB R DB R DB R DG R DG R DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=828
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Culloden, Unidentified
 
 ## Register references
 
@@ -17,7 +23,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 531
 
 ## Thread count
-B/6 R6 G100 R6 G2 R6 B6 R6 B90 R6 B6 R100 B6 R/6
+R/6 B6 R100 B6 R6 B90 R6 B6 R6 G2 R6 G100 R6 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -38,7 +44,7 @@ The nearest existing variants by ΔTartan distance.
 1. [MacQuarrie #3](/setts/s13/dg2r3dg2r52dg2r2db28r2dg42r2dg2r3dg2~x2/) — ΔT 1.25
 1. [Fraser of Altyre](/setts/s14/r9db4r89db4r4db80r9db9r4db4r4g80r4db4/) — ΔT 1.29
 1. [MacQuarrie 1815](/setts/s13/dg2r3dg2r52dg2r2db28r2dg42r2dg2r3dg2/) — ΔT 1.39
-1. [MacQuarrie 1815](/setts/s13/dg1r2dg1r26dg1r1db14r1dg21r1dg1r2dg1~x2/) — ΔT 1.48
+1. [MacQuarrie 1815](/setts/s13/dg1r2dg1r26dg1r1db14r1dg21r1dg1r2dg1/) — ΔT 1.48
 1. [MacQuarrie 3](/setts/s13/g2r3g2r52g2r2db28r2g42r2g2r3g2~x2/) — ΔT 1.52
 1. [Unidentified Coat](/setts/s14/dg6r2dg2r24t1db1r2db12r2db1t1r2dg24r2~x2/) — ΔT 1.53
 1. [MacColl Ancient](/setts/s17/r7r3r6db26r8r2r2db2r2dg1r2r8dg26r8dg2r2r2~x2/) — ΔT 1.63
@@ -46,8 +52,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db3r3g50r3g1r3db3r3db45r3db3r50db3r3~x2/"><circle cx="334.8" cy="95.0" r="4" fill="#3465a4"><title>Culloden, Unidentified</title></circle></a><a href="/setts/s14/r4db2r45db2r2db40r4db4r2db2r2g40r2db2~x2/"><circle cx="311.8" cy="123.0" r="4" fill="#3465a4"><title>Fraser of Altyre</title></circle></a><a href="/setts/s13/dg2r3dg2r52dg2r2db28r2dg42r2dg2r3dg2~x2/"><circle cx="342.4" cy="115.0" r="4" fill="#3465a4"><title>MacQuarrie #3</title></circle></a><a href="/setts/s14/r9db4r89db4r4db80r9db9r4db4r4g80r4db4/"><circle cx="310.8" cy="124.7" r="4" fill="#3465a4"><title>Fraser of Altyre</title></circle></a><a href="/setts/s13/dg2r3dg2r52dg2r2db28r2dg42r2dg2r3dg2/"><circle cx="350.0" cy="126.0" r="4" fill="#3465a4"><title>MacQuarrie 1815</title></circle></a><a href="/setts/s13/dg1r2dg1r26dg1r1db14r1dg21r1dg1r2dg1~x2/"><circle cx="332.1" cy="114.0" r="4" fill="#3465a4"><title>MacQuarrie 1815</title></circle></a><a href="/setts/s13/g2r3g2r52g2r2db28r2g42r2g2r3g2~x2/"><circle cx="342.9" cy="118.1" r="4" fill="#3465a4"><title>MacQuarrie 3</title></circle></a><a href="/setts/s14/dg6r2dg2r24t1db1r2db12r2db1t1r2dg24r2~x2/"><circle cx="298.4" cy="108.8" r="4" fill="#3465a4"><title>Unidentified Coat</title></circle></a><a href="/setts/s17/r7r3r6db26r8r2r2db2r2dg1r2r8dg26r8dg2r2r2~x2/"><circle cx="269.1" cy="106.9" r="4" fill="#3465a4"><title>MacColl Ancient</title></circle></a><a href="/setts/s12/k9o2k2n2o18n2k2r1k1k19n33r2~x2/"><circle cx="291.8" cy="119.1" r="4" fill="#3465a4"><title>Pride of Scotland Silver</title></circle></a><circle cx="335.2" cy="93.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db3r3g50r3g1r3db3r3db45r3db3r50db3r3~x2/"><circle cx="334.4" cy="95.0" r="4" fill="#3465a4"><title>Culloden, Unidentified</title></circle></a><a href="/setts/s14/r4db2r45db2r2db40r4db4r2db2r2g40r2db2~x2/"><circle cx="311.5" cy="123.0" r="4" fill="#3465a4"><title>Fraser of Altyre</title></circle></a><a href="/setts/s13/dg2r3dg2r52dg2r2db28r2dg42r2dg2r3dg2~x2/"><circle cx="342.0" cy="114.9" r="4" fill="#3465a4"><title>MacQuarrie #3</title></circle></a><a href="/setts/s14/r9db4r89db4r4db80r9db9r4db4r4g80r4db4/"><circle cx="310.4" cy="124.7" r="4" fill="#3465a4"><title>Fraser of Altyre</title></circle></a><a href="/setts/s13/dg2r3dg2r52dg2r2db28r2dg42r2dg2r3dg2/"><circle cx="349.7" cy="126.0" r="4" fill="#3465a4"><title>MacQuarrie 1815</title></circle></a><a href="/setts/s13/dg1r2dg1r26dg1r1db14r1dg21r1dg1r2dg1/"><circle cx="331.8" cy="113.9" r="4" fill="#3465a4"><title>MacQuarrie 1815</title></circle></a><a href="/setts/s13/g2r3g2r52g2r2db28r2g42r2g2r3g2~x2/"><circle cx="342.5" cy="118.0" r="4" fill="#3465a4"><title>MacQuarrie 3</title></circle></a><a href="/setts/s14/dg6r2dg2r24t1db1r2db12r2db1t1r2dg24r2~x2/"><circle cx="298.1" cy="108.8" r="4" fill="#3465a4"><title>Unidentified Coat</title></circle></a><a href="/setts/s17/r7r3r6db26r8r2r2db2r2dg1r2r8dg26r8dg2r2r2~x2/"><circle cx="268.8" cy="106.9" r="4" fill="#3465a4"><title>MacColl Ancient</title></circle></a><a href="/setts/s12/k9o2k2n2o18n2k2r1k1k19n33r2~x2/"><circle cx="291.6" cy="119.2" r="4" fill="#3465a4"><title>Pride of Scotland Silver</title></circle></a><circle cx="334.9" cy="93.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/db3r3dg50r3dg1r3db3r3db45r3db3r50db3r3~x2/

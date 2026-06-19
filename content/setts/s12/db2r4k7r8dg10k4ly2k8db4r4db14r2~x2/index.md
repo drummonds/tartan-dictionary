@@ -2,12 +2,18 @@
 title: "Unidentified pattern"
 date: 2023-03-18
 ---
-**Bands:** [BRKRGKYKBRBR](/stripes/brkrgkykbrbr/) · **Stripes:** [DB R K R DG K LY K DB R DB R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R K R DG K LY K DB R DB R</span></span>
+**Bands:** [RBRBKYKGRKRB](/stripes/rbrbkykgrkrb/) · **Stripes:** [R DB R DB K LY K DG R K R DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB K LY K DG R K R DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4337
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified, pattern
 
 ## Register references
 
@@ -17,7 +23,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 552
 
 ## Thread count
-B/4 R8 K14 R16 G20 K8 Y4 K16 B8 R8 B28 R/4
+R/4 B28 R8 B8 K16 Y4 K8 G20 R16 K14 R8 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -48,8 +54,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r20g3r3g13r6k10db14w3r3w3db14k12~x2/"><circle cx="81.8" cy="181.3" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/setts/s12/db2r4k7r8g10k4ly2k8db4r4db14r2~x2/"><circle cx="69.3" cy="184.7" r="4" fill="#3465a4"><title>Unidentified, pattern</title></circle></a><a href="/setts/s13/db3r1db1r2db6r1k6g6r2g1r1g2ly1~x6/"><circle cx="103.1" cy="183.6" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/setts/s10/db8k3db18g6k8g6o12r5o12r3~x2/"><circle cx="88.1" cy="218.8" r="4" fill="#3465a4"><title>Longford</title></circle></a><a href="/setts/s12/r4o14o2o4o2k6o3k6k14r2k4r4~x2/"><circle cx="97.6" cy="173.9" r="4" fill="#3465a4"><title>Kinloch Anderson Limited</title></circle></a><a href="/setts/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6~x2/"><circle cx="101.1" cy="183.7" r="4" fill="#3465a4"><title>MacDonald of Clanranald #3</title></circle></a><a href="/setts/s13/dt17r3dt4r5dt20r3k20dg20r5dg4r3k3ly11~x2/"><circle cx="116.7" cy="178.2" r="4" fill="#3465a4"><title>MacSporran Clan Tartan Tartan Number: 495. Earliest known date: 1978 Adopted by the Clan MacSporran Association in 1978 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r4g6ly3g12k14db5r20db5k4db2~x2/"><circle cx="124.8" cy="172.2" r="4" fill="#3465a4"><title>Etienne-Carter, Sir George</title></circle></a><a href="/setts/s12/r6k20y4dy10b21k4b21dy10y4k20r6b3~x2/"><circle cx="126.7" cy="196.8" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/setts/s12/r4dy14lo2dy4lo2k6dy3k6db14r2db4r4~x2/"><circle cx="138.4" cy="192.8" r="4" fill="#3465a4"><title>Kinloch Anderson</title></circle></a><circle cx="91.6" cy="192.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r20g3r3g13r6k10db14w3r3w3db14k12~x2/"><circle cx="81.9" cy="181.4" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/setts/s12/db2r4k7r8g10k4ly2k8db4r4db14r2~x2/"><circle cx="69.5" cy="184.8" r="4" fill="#3465a4"><title>Unidentified, pattern</title></circle></a><a href="/setts/s13/db3r1db1r2db6r1k6g6r2g1r1g2ly1~x6/"><circle cx="103.2" cy="183.7" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/setts/s10/db8k3db18g6k8g6o12r5o12r3~x2/"><circle cx="88.2" cy="218.9" r="4" fill="#3465a4"><title>Longford</title></circle></a><a href="/setts/s12/r4o14o2o4o2k6o3k6k14r2k4r4~x2/"><circle cx="97.7" cy="174.0" r="4" fill="#3465a4"><title>Kinloch Anderson Limited</title></circle></a><a href="/setts/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6~x2/"><circle cx="101.2" cy="183.8" r="4" fill="#3465a4"><title>MacDonald of Clanranald #3</title></circle></a><a href="/setts/s13/dt17r3dt4r5dt20r3k20dg20r5dg4r3k3ly11~x2/"><circle cx="116.8" cy="178.3" r="4" fill="#3465a4"><title>MacSporran Clan Tartan Tartan Number: 495. Earliest known date: 1978 Adopted by the Clan MacSporran Association in 1978 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r4g6ly3g12k14db5r20db5k4db2~x2/"><circle cx="124.8" cy="172.3" r="4" fill="#3465a4"><title>Etienne-Carter, Sir George</title></circle></a><a href="/setts/s12/r6k20y4dy10b21k4b21dy10y4k20r6b3~x2/"><circle cx="126.8" cy="196.9" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/setts/s12/r4dy14lo2dy4lo2k6dy3k6db14r2db4r4~x2/"><circle cx="138.5" cy="193.0" r="4" fill="#3465a4"><title>Kinloch Anderson</title></circle></a><circle cx="91.7" cy="192.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/db2r4k7r8dg10k4ly2k8db4r4db14r2~x2/

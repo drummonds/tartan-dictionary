@@ -2,7 +2,7 @@
 title: "East Lothian"
 date: 2023-03-18
 ---
-**Bands:** [BBBBKGY](/stripes/bbbbkgy/) · **Stripes:** [T DB P DB K G LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">T DB P DB K G LY</span></span>
+**Bands:** [YGKBBBB](/stripes/ygkbbbb/) · **Stripes:** [LY G K DB P DB T](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY G K DB P DB T</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -913,16 +916,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Bergen Scottish](/setts/s7/db5w3r12g37k12db21w2~x2/) — ΔT 0.95
 1. [Iroquois Falls Centenary](/setts/s8/g18lg6dy3w1dy3w1lt6db6~x2/) — ΔT 0.97
 1. [Hogg Dress (Name)](/setts/s9/t34r3t8db4t8k24g34k2w6/) — ΔT 0.98
-1. [Macneil of Barra - Chief (Personal)](/setts/s7/ly1k3g15k14b16r2w1~x2/) — ΔT 1.05
+1. [Macneil of Barra - Chief (Personal)](/setts/s7/w1r2b16k14g15k3ly1~x2/) — ΔT 1.05
 1. [Wishart, hunting](/setts/s7/k2db2g16db2ly1db13w2~x2/) — ΔT 1.05
 1. [Birch (Name)](/setts/s9/g3dp2g25k6r2k6t20k1lb2~x2/) — ΔT 1.06
-1. [Hogg Dress](/setts/s9/t34r3t8dt4t8k24g34k2w6/) — ΔT 1.07
+1. [Hogg Dress](/setts/s9/t34r3t8dt4t8k24g34k2w6/) — ΔT 1.08
 1. [Birch Family Tartan Tartan Number: 2157. Earliest known date: 1993 The Birch family tartan was designed and produced by Mr Robin Birch of Connell Reid kiltmaker, Blairgowrie. The new sett has been recorded by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/g3dp4g23k10r2k10t18k1w3~x2/) — ΔT 1.08
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g5ly1r2g25k14db19w4g2~x2/"><circle cx="194.3" cy="120.7" r="4" fill="#3465a4"><title>Tooth</title></circle></a><a href="/setts/s8/o2t14k1g11k2lr2g2k1~x4/"><circle cx="174.6" cy="135.3" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/setts/s7/db5w3r12g37k12db21w2~x2/"><circle cx="170.0" cy="146.1" r="4" fill="#3465a4"><title>Bergen Scottish</title></circle></a><a href="/setts/s8/g18lg6dy3w1dy3w1lt6db6~x2/"><circle cx="147.0" cy="129.0" r="4" fill="#3465a4"><title>Iroquois Falls Centenary</title></circle></a><a href="/setts/s9/t34r3t8db4t8k24g34k2w6/"><circle cx="181.6" cy="141.6" r="4" fill="#3465a4"><title>Hogg Dress (Name)</title></circle></a><a href="/setts/s7/ly1k3g15k14b16r2w1~x2/"><circle cx="152.2" cy="155.7" r="4" fill="#3465a4"><title>Macneil of Barra - Chief (Personal)</title></circle></a><a href="/setts/s7/k2db2g16db2ly1db13w2~x2/"><circle cx="194.3" cy="139.0" r="4" fill="#3465a4"><title>Wishart, hunting</title></circle></a><a href="/setts/s9/g3dp2g25k6r2k6t20k1lb2~x2/"><circle cx="193.6" cy="102.0" r="4" fill="#3465a4"><title>Birch (Name)</title></circle></a><a href="/setts/s9/t34r3t8dt4t8k24g34k2w6/"><circle cx="168.1" cy="136.3" r="4" fill="#3465a4"><title>Hogg Dress</title></circle></a><a href="/setts/s9/g3dp4g23k10r2k10t18k1w3~x2/"><circle cx="160.9" cy="128.4" r="4" fill="#3465a4"><title>Birch Family Tartan Tartan Number: 2157. Earliest known date: 1993 The Birch family tartan was designed and produced by Mr Robin Birch of Connell Reid kiltmaker, Blairgowrie. The new sett has been recorded by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="170.6" cy="144.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g5ly1r2g25k14db19w4g2~x2/"><circle cx="194.4" cy="120.7" r="4" fill="#3465a4"><title>Tooth</title></circle></a><a href="/setts/s8/o2t14k1g11k2lr2g2k1~x4/"><circle cx="174.6" cy="135.4" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/setts/s7/db5w3r12g37k12db21w2~x2/"><circle cx="170.0" cy="146.2" r="4" fill="#3465a4"><title>Bergen Scottish</title></circle></a><a href="/setts/s8/g18lg6dy3w1dy3w1lt6db6~x2/"><circle cx="146.9" cy="129.0" r="4" fill="#3465a4"><title>Iroquois Falls Centenary</title></circle></a><a href="/setts/s9/t34r3t8db4t8k24g34k2w6/"><circle cx="181.6" cy="141.7" r="4" fill="#3465a4"><title>Hogg Dress (Name)</title></circle></a><a href="/setts/s7/w1r2b16k14g15k3ly1~x2/"><circle cx="152.3" cy="155.8" r="4" fill="#3465a4"><title>Macneil of Barra - Chief (Personal)</title></circle></a><a href="/setts/s7/k2db2g16db2ly1db13w2~x2/"><circle cx="194.4" cy="139.0" r="4" fill="#3465a4"><title>Wishart, hunting</title></circle></a><a href="/setts/s9/g3dp2g25k6r2k6t20k1lb2~x2/"><circle cx="193.6" cy="102.0" r="4" fill="#3465a4"><title>Birch (Name)</title></circle></a><a href="/setts/s9/t34r3t8dt4t8k24g34k2w6/"><circle cx="168.1" cy="136.3" r="4" fill="#3465a4"><title>Hogg Dress</title></circle></a><a href="/setts/s9/g3dp4g23k10r2k10t18k1w3~x2/"><circle cx="160.9" cy="128.5" r="4" fill="#3465a4"><title>Birch Family Tartan Tartan Number: 2157. Earliest known date: 1993 The Birch family tartan was designed and produced by Mr Robin Birch of Connell Reid kiltmaker, Blairgowrie. The new sett has been recorded by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="170.7" cy="144.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/t6db17p4db2k11g33ly4~x2/

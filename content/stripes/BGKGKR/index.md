@@ -8,7 +8,7 @@ BGKGKR
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/b3g7k16g20k9r3~x2/tartan.png)
+![Woven sample](/setts/s6/r3k9g20k16g7b3~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ BGKGKR
 
 
 
-### B G K G K R <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">B G K G K R</span></span>
+### R K G K G B <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R K G K G B</span></span>
 
 | Tartans |
 |---------------|
-| [Holman (Personal)](/setts/s6/b3g7k16g20k9r3~x2/)|
-|![Holman (Personal) example sett](/setts/s6/b3g7k16g20k9r3~x2/sett.png)|
+| [Holman (Personal)](/setts/s6/r3k9g20k16g7b3~x2/)|
+|![Holman (Personal) example sett](/setts/s6/r3k9g20k16g7b3~x2/sett.png)|
 

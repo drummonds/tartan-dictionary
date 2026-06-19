@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2376
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacDonald, Flora
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -319,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,7 +919,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Kile (No red line) (Personal)](/setts/s14/db20w3db3w3db3w3k5ly10k5w3db3w3db3w3~x2/) — ΔT 0.86
+1. [Kile (No red line) (Personal)](/setts/s14/db20w3db3w3db3w3k5ly10~x2/) — ΔT 0.86
 1. [Black and White](/setts/s15/k19o6k3o15w3o12w9o3w20o3w20k19r4k5w3~x2/) — ΔT 0.86
 1. [Black and White Colourway](/setts/s15/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19~x2/) — ΔT 0.91
 1. [MacRae, Dress](/setts/s11/r2k9t4w2k22w2t4w22t2w8r2~x2/) — ΔT 0.96
@@ -923,8 +932,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db20w3db3w3db3w3k5ly10k5w3db3w3db3w3~x2/"><circle cx="158.3" cy="155.3" r="4" fill="#3465a4"><title>Kile (No red line) (Personal)</title></circle></a><a href="/setts/s15/k19o6k3o15w3o12w9o3w20o3w20k19r4k5w3~x2/"><circle cx="116.2" cy="163.2" r="4" fill="#3465a4"><title>Black and White</title></circle></a><a href="/setts/s15/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19~x2/"><circle cx="121.6" cy="165.1" r="4" fill="#3465a4"><title>Black and White Colourway</title></circle></a><a href="/setts/s11/r2k9t4w2k22w2t4w22t2w8r2~x2/"><circle cx="192.2" cy="136.2" r="4" fill="#3465a4"><title>MacRae, Dress</title></circle></a><a href="/setts/s19/r5db3r5g12db8w5db5w22db3r4db3w22db5w5db8g12r5db3r5~x2/"><circle cx="103.8" cy="146.5" r="4" fill="#3465a4"><title>Unidentified #56</title></circle></a><a href="/setts/s13/db25lg8db8lg8db8lg46w46lb8w46lg46db46lg8db8/"><circle cx="123.7" cy="178.9" r="4" fill="#3465a4"><title>Poulter SG 104 (Fashion)</title></circle></a><a href="/setts/s13/o25k8o8k8o8k46w46r8w46k46o46k8o8/"><circle cx="122.5" cy="178.9" r="4" fill="#3465a4"><title>Poulter SG 103 (Fashion)</title></circle></a><a href="/setts/s12/b15w13dy6b2dy2r2dy2b2dy6w13b15r3~x4/"><circle cx="170.8" cy="178.3" r="4" fill="#3465a4"><title>Thompson (Pendleton)</title></circle></a><a href="/setts/s12/w5t2w2t3w17k6n2k2n2k2n14r3~x2/"><circle cx="139.8" cy="132.4" r="4" fill="#3465a4"><title>Unidentified (Fashion)</title></circle></a><a href="/setts/s12/db3dy14g2dy2g2dy3g6w18db3dy2db2dy2~x2/"><circle cx="160.5" cy="143.9" r="4" fill="#3465a4"><title>Raibert Check</title></circle></a><circle cx="150.8" cy="152.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db20w3db3w3db3w3k5ly10~x2/"><circle cx="158.2" cy="155.2" r="4" fill="#3465a4"><title>Kile (No red line) (Personal)</title></circle></a><a href="/setts/s15/k19o6k3o15w3o12w9o3w20o3w20k19r4k5w3~x2/"><circle cx="116.0" cy="163.0" r="4" fill="#3465a4"><title>Black and White</title></circle></a><a href="/setts/s15/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19~x2/"><circle cx="121.4" cy="165.0" r="4" fill="#3465a4"><title>Black and White Colourway</title></circle></a><a href="/setts/s11/r2k9t4w2k22w2t4w22t2w8r2~x2/"><circle cx="192.0" cy="136.0" r="4" fill="#3465a4"><title>MacRae, Dress</title></circle></a><a href="/setts/s19/r5db3r5g12db8w5db5w22db3r4db3w22db5w5db8g12r5db3r5~x2/"><circle cx="103.6" cy="146.4" r="4" fill="#3465a4"><title>Unidentified #56</title></circle></a><a href="/setts/s13/db25lg8db8lg8db8lg46w46lb8w46lg46db46lg8db8/"><circle cx="123.5" cy="178.8" r="4" fill="#3465a4"><title>Poulter SG 104 (Fashion)</title></circle></a><a href="/setts/s13/o25k8o8k8o8k46w46r8w46k46o46k8o8/"><circle cx="122.4" cy="178.8" r="4" fill="#3465a4"><title>Poulter SG 103 (Fashion)</title></circle></a><a href="/setts/s12/b15w13dy6b2dy2r2dy2b2dy6w13b15r3~x4/"><circle cx="170.6" cy="178.2" r="4" fill="#3465a4"><title>Thompson (Pendleton)</title></circle></a><a href="/setts/s12/w5t2w2t3w17k6n2k2n2k2n14r3~x2/"><circle cx="139.6" cy="132.4" r="4" fill="#3465a4"><title>Unidentified (Fashion)</title></circle></a><a href="/setts/s12/db3dy14g2dy2g2dy3g6w18db3dy2db2dy2~x2/"><circle cx="160.2" cy="143.8" r="4" fill="#3465a4"><title>Raibert Check</title></circle></a><circle cx="150.6" cy="152.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r3dg8db5w3dg20w3db5w3db5w22db3w8r3~x2/

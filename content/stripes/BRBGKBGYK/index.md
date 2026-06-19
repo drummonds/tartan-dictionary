@@ -18,10 +18,10 @@ BRBGKBGYK
 
 
 
-### DB R DB G K DB G LY K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="seq">DB R DB G K DB G LY K</span></span>
+### K LY G DB K G DB R DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">K LY G DB K G DB R DB</span></span>
 
 | Tartans |
 |---------------|
-| [Maresh](/setts/s9/db3r3db22g6k17db6g22ly3k3~x2/)|
-|![Maresh example sett](/setts/s9/db3r3db22g6k17db6g22ly3k3~x2/sett.png)|
+| [Maresh](/setts/s9/k3ly3g22db6k17g6db22r3db3~x2/)|
+|![Maresh example sett](/setts/s9/k3ly3g22db6k17g6db22r3db3~x2/sett.png)|
 

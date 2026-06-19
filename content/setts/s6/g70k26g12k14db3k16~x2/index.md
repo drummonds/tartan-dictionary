@@ -2,12 +2,18 @@
 title: "Duchess of Fife #2"
 date: 2023-03-18
 ---
-**Bands:** [GKGKBK](/stripes/gkgkbk/) · **Stripes:** [G K G K DB K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">G K G K DB K</span></span>
+**Bands:** [KBKGKG](/stripes/kbkgkg/) · **Stripes:** [K DB K G K G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K DB K G K G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1003
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Duchess of Fife #2
 
 ## Attestations
 
@@ -53,7 +59,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Glenbarr](/setts/s8/g3k6r2k6g3k2g16k1~x4/) — ΔT 0.96
 1. [MacArthur-Fox 1993 (Personal)](/setts/s8/k22g5k2g5k11g33k2r4~x2/) — ΔT 1.15
-1. [Forbes #6](/setts/s6/ly1k4dg4k8dg16r1~x2/) — ΔT 1.18
+1. [Forbes #6](/setts/s6/r1dg16k8dg4k4ly1~x2/) — ΔT 1.18
 1. [MacKinross](/setts/s7/k6db1k6g4k10g20r2~x2/) — ΔT 1.39
 1. [American Monahan (Personal)](/setts/s11/k13g3k4g3k3g19lo1g19k3g2lo4~x2/) — ΔT 1.43
 1. [Wcwm 1255](/setts/s5/g3r1k14g14lo1~x4/) — ΔT 1.47
@@ -64,8 +70,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g3k6r2k6g3k2g16k1~x4/"><circle cx="376.9" cy="215.3" r="4" fill="#3465a4"><title>Glenbarr</title></circle></a><a href="/setts/s8/k22g5k2g5k11g33k2r4~x2/"><circle cx="362.8" cy="208.7" r="4" fill="#3465a4"><title>MacArthur-Fox 1993 (Personal)</title></circle></a><a href="/setts/s6/ly1k4dg4k8dg16r1~x2/"><circle cx="388.7" cy="222.0" r="4" fill="#3465a4"><title>Forbes #6</title></circle></a><a href="/setts/s7/k6db1k6g4k10g20r2~x2/"><circle cx="333.1" cy="203.9" r="4" fill="#3465a4"><title>MacKinross</title></circle></a><a href="/setts/s11/k13g3k4g3k3g19lo1g19k3g2lo4~x2/"><circle cx="401.7" cy="193.6" r="4" fill="#3465a4"><title>American Monahan (Personal)</title></circle></a><a href="/setts/s5/g3r1k14g14lo1~x4/"><circle cx="337.7" cy="223.4" r="4" fill="#3465a4"><title>Wcwm 1255</title></circle></a><a href="/setts/s6/r3g30k12g1k16lo2~x2/"><circle cx="348.3" cy="184.9" r="4" fill="#3465a4"><title>MacArthur-Fox Htg (Personal)</title></circle></a><a href="/setts/s7/lo1dg11k6dg3lo1dg1lo1~x4/"><circle cx="397.0" cy="226.2" r="4" fill="#3465a4"><title>Angle, Green (Fashion)</title></circle></a><a href="/setts/s6/g55k17r9k11ly2k4~x2/"><circle cx="370.1" cy="171.3" r="4" fill="#3465a4"><title>Moran (Name)</title></circle></a><a href="/setts/s7/g24r4g3k14g5r2g10~x2/"><circle cx="418.1" cy="239.7" r="4" fill="#3465a4"><title>Northcroft (Personal)</title></circle></a><circle cx="420.1" cy="221.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g3k6r2k6g3k2g16k1~x4/"><circle cx="376.8" cy="215.1" r="4" fill="#3465a4"><title>Glenbarr</title></circle></a><a href="/setts/s8/k22g5k2g5k11g33k2r4~x2/"><circle cx="362.7" cy="208.5" r="4" fill="#3465a4"><title>MacArthur-Fox 1993 (Personal)</title></circle></a><a href="/setts/s6/r1dg16k8dg4k4ly1~x2/"><circle cx="388.7" cy="221.9" r="4" fill="#3465a4"><title>Forbes #6</title></circle></a><a href="/setts/s7/k6db1k6g4k10g20r2~x2/"><circle cx="333.1" cy="203.8" r="4" fill="#3465a4"><title>MacKinross</title></circle></a><a href="/setts/s11/k13g3k4g3k3g19lo1g19k3g2lo4~x2/"><circle cx="401.5" cy="193.4" r="4" fill="#3465a4"><title>American Monahan (Personal)</title></circle></a><a href="/setts/s5/g3r1k14g14lo1~x4/"><circle cx="337.7" cy="223.3" r="4" fill="#3465a4"><title>Wcwm 1255</title></circle></a><a href="/setts/s6/r3g30k12g1k16lo2~x2/"><circle cx="348.3" cy="184.8" r="4" fill="#3465a4"><title>MacArthur-Fox Htg (Personal)</title></circle></a><a href="/setts/s7/lo1dg11k6dg3lo1dg1lo1~x4/"><circle cx="396.8" cy="226.0" r="4" fill="#3465a4"><title>Angle, Green (Fashion)</title></circle></a><a href="/setts/s6/g55k17r9k11ly2k4~x2/"><circle cx="369.9" cy="171.1" r="4" fill="#3465a4"><title>Moran (Name)</title></circle></a><a href="/setts/s7/g24r4g3k14g5r2g10~x2/"><circle cx="418.0" cy="239.4" r="4" fill="#3465a4"><title>Northcroft (Personal)</title></circle></a><circle cx="420.0" cy="221.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/g70k26g12k14db3k16~x2/

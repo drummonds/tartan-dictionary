@@ -30,6 +30,6 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Hueg Scottish Blue Thistle (Personal](/setts/s15/lb2r3k2r7g3dp5lb2dp2lo2dp4g4dp25k2g4r2~x2/)|
-|![Hueg Scottish Blue Thistle (Personal example sett](/setts/s15/lb2r3k2r7g3dp5lb2dp2lo2dp4g4dp25k2g4r2~x2/sett.png)|
+| [Hueg Scottish Blue Thistle (Personal](/setts/s15/r2g4k2dp25g4dp4lo2dp2lb2dp5g3r7k2r3lb2~x2/)|
+|![Hueg Scottish Blue Thistle (Personal example sett](/setts/s15/r2g4k2dp25g4dp4lo2dp2lb2dp5g3r7k2r3lb2~x2/sett.png)|
 

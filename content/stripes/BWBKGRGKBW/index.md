@@ -22,6 +22,6 @@ BWBKGRGKBW
 
 | Tartans |
 |---------------|
-| [Dalmeny - 2002 (Fashion)](/setts/s10/db11w2db11k4g8r1g8k4db11w2~x2/)|
-|![Dalmeny - 2002 (Fashion) example sett](/setts/s10/db11w2db11k4g8r1g8k4db11w2~x2/sett.png)|
+| [Dalmeny - 2002 (Fashion)](/setts/s10/db11w2db11k4g8r1~x2/)|
+|![Dalmeny - 2002 (Fashion) example sett](/setts/s10/db11w2db11k4g8r1~x2/sett.png)|
 

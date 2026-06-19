@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,14 +913,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Unnamed C18th - Pr Ch Ed Plaid?](/setts/s11/r10dg3ly3w1k2w1ly3dg12w2r3w1~x4/) — ΔT 1.23
 1. [Dunblane](/setts/s12/g6ly5w1g2w1g5w1g2w1r15db2w1~x2/) — ΔT 1.29
 1. [Aguilar Gorrondona Family (Personal)](/setts/s11/r30ly30db5w5g5k5g3db3k3w3ly3~x2/) — ΔT 1.31
-1. [Buchanan D](/setts/s13/lb2dg16k1lb2k1ly4k1ly4k1lb2k1r16lb2/) — ΔT 1.34
+1. [Buchanan D](/setts/s13/lb2dg16k1lb2k1ly4k1ly4k1lb2k1r16lb2~x2/) — ΔT 1.34
 1. [MacPherson 5](/setts/s15/db1ly3r3k2db8ly3r2k1r2ly3g8w1k1r12w1~x2/) — ΔT 1.35
 1. [MacDougall #11](/setts/s15/r6m3w3r4dg33m3w3r4w3m3db9r33m3w4r4~x2/) — ΔT 1.35
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/r11k1w1dg4w1ly1r1k1r1ly1w1dg4w1k1r1ly3~x2/"><circle cx="171.6" cy="94.0" r="4" fill="#3465a4"><title>Chattan (variation)</title></circle></a><a href="/setts/s12/dg6ly5w1dg2w1dg5w1dg2w1r15dp2w1~x2/"><circle cx="178.8" cy="108.6" r="4" fill="#3465a4"><title>Dunblane</title></circle></a><a href="/setts/s12/dg6ly5w1dg2w1dg5w1dg2w1r15dp2w1~x4/"><circle cx="178.8" cy="108.6" r="4" fill="#3465a4"><title>Dunblane (District)</title></circle></a><a href="/setts/s15/r6m3w3r4g33m3w3r4w3m3db9r33m3w4r4~x2/"><circle cx="214.5" cy="107.2" r="4" fill="#3465a4"><title>MacDougall 10</title></circle></a><a href="/setts/s11/r10dg3ly3w1k2w1ly3dg12w2r3w1~x4/"><circle cx="143.8" cy="124.5" r="4" fill="#3465a4"><title>Unnamed C18th - Pr Ch Ed Plaid?</title></circle></a><a href="/setts/s12/g6ly5w1g2w1g5w1g2w1r15db2w1~x2/"><circle cx="180.1" cy="110.9" r="4" fill="#3465a4"><title>Dunblane</title></circle></a><a href="/setts/s11/r30ly30db5w5g5k5g3db3k3w3ly3~x2/"><circle cx="119.4" cy="95.8" r="4" fill="#3465a4"><title>Aguilar Gorrondona Family (Personal)</title></circle></a><a href="/setts/s13/lb2dg16k1lb2k1ly4k1ly4k1lb2k1r16lb2/"><circle cx="127.5" cy="83.0" r="4" fill="#3465a4"><title>Buchanan D</title></circle></a><a href="/setts/s15/db1ly3r3k2db8ly3r2k1r2ly3g8w1k1r12w1~x2/"><circle cx="113.6" cy="97.8" r="4" fill="#3465a4"><title>MacPherson 5</title></circle></a><a href="/setts/s15/r6m3w3r4dg33m3w3r4w3m3db9r33m3w4r4~x2/"><circle cx="212.3" cy="103.2" r="4" fill="#3465a4"><title>MacDougall #11</title></circle></a><circle cx="163.9" cy="93.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/r11k1w1dg4w1ly1r1k1r1ly1w1dg4w1k1r1ly3~x2/"><circle cx="171.2" cy="94.0" r="4" fill="#3465a4"><title>Chattan (variation)</title></circle></a><a href="/setts/s12/dg6ly5w1dg2w1dg5w1dg2w1r15dp2w1~x2/"><circle cx="178.5" cy="108.6" r="4" fill="#3465a4"><title>Dunblane</title></circle></a><a href="/setts/s12/dg6ly5w1dg2w1dg5w1dg2w1r15dp2w1~x4/"><circle cx="178.5" cy="108.6" r="4" fill="#3465a4"><title>Dunblane (District)</title></circle></a><a href="/setts/s15/r6m3w3r4g33m3w3r4w3m3db9r33m3w4r4~x2/"><circle cx="214.2" cy="107.3" r="4" fill="#3465a4"><title>MacDougall 10</title></circle></a><a href="/setts/s11/r10dg3ly3w1k2w1ly3dg12w2r3w1~x4/"><circle cx="143.6" cy="124.5" r="4" fill="#3465a4"><title>Unnamed C18th - Pr Ch Ed Plaid?</title></circle></a><a href="/setts/s12/g6ly5w1g2w1g5w1g2w1r15db2w1~x2/"><circle cx="179.8" cy="111.0" r="4" fill="#3465a4"><title>Dunblane</title></circle></a><a href="/setts/s11/r30ly30db5w5g5k5g3db3k3w3ly3~x2/"><circle cx="119.1" cy="95.9" r="4" fill="#3465a4"><title>Aguilar Gorrondona Family (Personal)</title></circle></a><a href="/setts/s13/lb2dg16k1lb2k1ly4k1ly4k1lb2k1r16lb2~x2/"><circle cx="127.2" cy="83.0" r="4" fill="#3465a4"><title>Buchanan D</title></circle></a><a href="/setts/s15/db1ly3r3k2db8ly3r2k1r2ly3g8w1k1r12w1~x2/"><circle cx="113.4" cy="97.9" r="4" fill="#3465a4"><title>MacPherson 5</title></circle></a><a href="/setts/s15/r6m3w3r4dg33m3w3r4w3m3db9r33m3w4r4~x2/"><circle cx="211.9" cy="103.2" r="4" fill="#3465a4"><title>MacDougall #11</title></circle></a><circle cx="163.6" cy="93.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/r11k1w1g4w1ly1r1k1r1ly1w1g4w1k1r1ly3~x2/

@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7519
 
 ## Thread count
-K/4 N52 K28 N2 K4 N4 K28 N4 K4 N4 K/16
+K/16 N4 K4 N4 K28 N4 K4 N2 K28 N52 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -45,7 +45,7 @@ The nearest existing variants by ΔTartan distance.
 1. [City Building (Glasgow) LLP](/setts/s10/k3n6k8lr2k8n3k5n36k2n3~x2/) — ΔT 1.37
 1. [Korner-MacPherson (Personal)](/setts/s7/n5r3n35k28n4k11n2~x2/) — ΔT 1.55
 1. [Grey Spirit](/setts/s10/n45k17n6k17n6k17n6k17n45k4~x2/) — ΔT 1.68
-1. [Greater Victoria Police PB](/setts/s12/r7dt1r26dt31w1dt1w2dt1w1dt31r26dt1~x2/) — ΔT 1.71
+1. [Greater Victoria Police PB](/setts/s12/r7dt1r26dt31w1dt1w2~x2/) — ΔT 1.71
 1. [TACC (Corporate)](/setts/s7/n34k7n12k40n3k4t3~x2/) — ΔT 1.77
 1. [Melange](/setts/s9/k80n4k44n50k36n4y12k12y45/) — ΔT 1.80
 1. [Witches' Blood, The](/setts/s10/k22n17k2n4k2n2k37n4k2r3~x2/) — ΔT 1.80
@@ -53,8 +53,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/m2n3m1n9k4n13k33n1k4m1~x2/"><circle cx="445.7" cy="157.0" r="4" fill="#3465a4"><title>Myles, Lee</title></circle></a><a href="/setts/s6/k13n2k13n31k1n1~x4/"><circle cx="463.2" cy="213.7" r="4" fill="#3465a4"><title>Silver Mist (Corporate)</title></circle></a><a href="/setts/s10/k3n6k8lr2k8n3k5n36k2n3~x2/"><circle cx="453.1" cy="179.4" r="4" fill="#3465a4"><title>City Building (Glasgow) LLP</title></circle></a><a href="/setts/s7/n5r3n35k28n4k11n2~x2/"><circle cx="389.3" cy="212.0" r="4" fill="#3465a4"><title>Korner-MacPherson (Personal)</title></circle></a><a href="/setts/s10/n45k17n6k17n6k17n6k17n45k4~x2/"><circle cx="416.6" cy="247.0" r="4" fill="#3465a4"><title>Grey Spirit</title></circle></a><a href="/setts/s12/r7dt1r26dt31w1dt1w2dt1w1dt31r26dt1~x2/"><circle cx="423.4" cy="154.8" r="4" fill="#3465a4"><title>Greater Victoria Police PB</title></circle></a><a href="/setts/s7/n34k7n12k40n3k4t3~x2/"><circle cx="370.0" cy="223.6" r="4" fill="#3465a4"><title>TACC (Corporate)</title></circle></a><a href="/setts/s9/k80n4k44n50k36n4y12k12y45/"><circle cx="372.2" cy="209.7" r="4" fill="#3465a4"><title>Melange</title></circle></a><a href="/setts/s10/k22n17k2n4k2n2k37n4k2r3~x2/"><circle cx="514.8" cy="206.6" r="4" fill="#3465a4"><title>Witches' Blood, The</title></circle></a><a href="/setts/s10/do8k2do2k14do2k2ly1do19k27ly2~x2/"><circle cx="459.0" cy="202.1" r="4" fill="#3465a4"><title>Pride of Scotland, Muted (Fashion)</title></circle></a><circle cx="451.8" cy="192.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/m2n3m1n9k4n13k33n1k4m1~x2/"><circle cx="445.6" cy="156.9" r="4" fill="#3465a4"><title>Myles, Lee</title></circle></a><a href="/setts/s6/k13n2k13n31k1n1~x4/"><circle cx="463.1" cy="213.5" r="4" fill="#3465a4"><title>Silver Mist (Corporate)</title></circle></a><a href="/setts/s10/k3n6k8lr2k8n3k5n36k2n3~x2/"><circle cx="452.9" cy="179.3" r="4" fill="#3465a4"><title>City Building (Glasgow) LLP</title></circle></a><a href="/setts/s7/n5r3n35k28n4k11n2~x2/"><circle cx="389.2" cy="211.8" r="4" fill="#3465a4"><title>Korner-MacPherson (Personal)</title></circle></a><a href="/setts/s10/n45k17n6k17n6k17n6k17n45k4~x2/"><circle cx="416.5" cy="246.7" r="4" fill="#3465a4"><title>Grey Spirit</title></circle></a><a href="/setts/s12/r7dt1r26dt31w1dt1w2~x2/"><circle cx="423.1" cy="154.7" r="4" fill="#3465a4"><title>Greater Victoria Police PB</title></circle></a><a href="/setts/s7/n34k7n12k40n3k4t3~x2/"><circle cx="369.9" cy="223.4" r="4" fill="#3465a4"><title>TACC (Corporate)</title></circle></a><a href="/setts/s9/k80n4k44n50k36n4y12k12y45/"><circle cx="372.1" cy="209.5" r="4" fill="#3465a4"><title>Melange</title></circle></a><a href="/setts/s10/k22n17k2n4k2n2k37n4k2r3~x2/"><circle cx="514.7" cy="206.5" r="4" fill="#3465a4"><title>Witches' Blood, The</title></circle></a><a href="/setts/s10/do8k2do2k14do2k2ly1do19k27ly2~x2/"><circle cx="458.9" cy="202.1" r="4" fill="#3465a4"><title>Pride of Scotland, Muted (Fashion)</title></circle></a><circle cx="451.6" cy="192.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k8n2k2n2k14n2k2n1k14n26k2~x2/

@@ -8,7 +8,7 @@ GKR
 
 It is a 3 band tartan.
 
-![Woven sample](/setts/s3/g4k7r4~x2/tartan.png)
+![Woven sample](/setts/s3/r4k7g4~x2/tartan.png)
 
 
 
@@ -20,12 +20,12 @@ GKR
 
 
 
-### G K R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">G K R</span></span>
+### R K G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K G</span></span>
 
 | Tartans |
 |---------------|
-| [Wilson's No.200](/setts/s3/g4k7r4~x2/)|
-|![Wilson's No.200 example sett](/setts/s3/g4k7r4~x2/sett.png)|
+| [Wilson's No.200](/setts/s3/r4k7g4~x2/)|
+|![Wilson's No.200 example sett](/setts/s3/r4k7g4~x2/sett.png)|
 | [Wilson's No.202](/setts/s3/g7k4r4~x2/)|
 |![Wilson's No.202 example sett](/setts/s3/g7k4r4~x2/sett.png)|
 | [Cowie, Justine (Personal)](/setts/s3/g9k18r2~x4/)|

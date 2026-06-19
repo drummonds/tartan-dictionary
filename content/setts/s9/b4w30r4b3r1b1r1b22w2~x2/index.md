@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7597/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Canna, Saphire
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -42,19 +48,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Menzies Dress Blue & White](/setts/s12/w4t1w2t3w23db5t3db1t1db1t19w2~x2/) — ΔT 1.01
 1. [Longniddry, dress (Turquoise)](/setts/s8/t42k2w2k2t5n12w32t4~x2/) — ΔT 1.41
-1. [MacGregor Turquoise Dress Fashion Tartan Tartan Number: 8193. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/w52t22w6t8k1dp3k1t8w6t22~x2/) — ΔT 1.58
-1. [Galloway (Dance)](/setts/s10/g3r2b35w35b2r3b2w35b35r2~x2/) — ΔT 1.59
+1. [MacGregor Turquoise Dress Fashion Tartan Tartan Number: 8193. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/w52t22w6t8k1dp3~x2/) — ΔT 1.58
+1. [Galloway (Dance)](/setts/s10/r3b2w35b35r2g3~x2/) — ΔT 1.59
 1. [Spirit of Dunkeld](/setts/s12/lt38r1lt2r2lt2r6ly4r10db8lt11r3ly1~x2/) — ΔT 1.59
 1. [Dunn (Scotland) (Name)](/setts/s12/b45ly6b3ly6b3w3db5w3db5w20b2w3~x2/) — ΔT 1.59
 1. [Torridon, Royal Blue (Dance)](/setts/s7/dt3n2w2n30w30r2w3~x2/) — ΔT 1.62
 1. [Menzies Royal Blue Dress Tartan Tartan Number: 8192. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/w4db1w2db3w24t5db3t1db1t1db20w2~x2/) — ΔT 1.63
-1. [Galloway (Dance)](/setts/s6/g3r2b35w35b2r3~x2/) — ΔT 1.64
+1. [Galloway (Dance)](/setts/s6/r3b2w35b35r2g3~x2/) — ΔT 1.64
 1. [Harris, Lilac (Dance)](/setts/s10/w3db2w30db4m26w2m2dp4m2w3~x2/) — ΔT 1.64
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w4t1w2t3w23db5t3db1t1db1t19w2~x2/"><circle cx="322.3" cy="125.0" r="4" fill="#3465a4"><title>Menzies Dress Blue &amp; White</title></circle></a><a href="/setts/s8/t42k2w2k2t5n12w32t4~x2/"><circle cx="297.7" cy="138.0" r="4" fill="#3465a4"><title>Longniddry, dress (Turquoise)</title></circle></a><a href="/setts/s10/w52t22w6t8k1dp3k1t8w6t22~x2/"><circle cx="338.2" cy="91.1" r="4" fill="#3465a4"><title>MacGregor Turquoise Dress Fashion Tartan Tartan Number: 8193. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/g3r2b35w35b2r3b2w35b35r2~x2/"><circle cx="271.6" cy="131.4" r="4" fill="#3465a4"><title>Galloway (Dance)</title></circle></a><a href="/setts/s12/lt38r1lt2r2lt2r6ly4r10db8lt11r3ly1~x2/"><circle cx="364.2" cy="77.3" r="4" fill="#3465a4"><title>Spirit of Dunkeld</title></circle></a><a href="/setts/s12/b45ly6b3ly6b3w3db5w3db5w20b2w3~x2/"><circle cx="287.1" cy="104.6" r="4" fill="#3465a4"><title>Dunn (Scotland) (Name)</title></circle></a><a href="/setts/s7/dt3n2w2n30w30r2w3~x2/"><circle cx="285.5" cy="142.0" r="4" fill="#3465a4"><title>Torridon, Royal Blue (Dance)</title></circle></a><a href="/setts/s12/w4db1w2db3w24t5db3t1db1t1db20w2~x2/"><circle cx="288.2" cy="106.6" r="4" fill="#3465a4"><title>Menzies Royal Blue Dress Tartan Tartan Number: 8192. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/g3r2b35w35b2r3~x2/"><circle cx="272.0" cy="144.3" r="4" fill="#3465a4"><title>Galloway (Dance)</title></circle></a><a href="/setts/s10/w3db2w30db4m26w2m2dp4m2w3~x2/"><circle cx="280.9" cy="116.3" r="4" fill="#3465a4"><title>Harris, Lilac (Dance)</title></circle></a><circle cx="333.5" cy="118.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w4t1w2t3w23db5t3db1t1db1t19w2~x2/"><circle cx="321.8" cy="124.8" r="4" fill="#3465a4"><title>Menzies Dress Blue &amp; White</title></circle></a><a href="/setts/s8/t42k2w2k2t5n12w32t4~x2/"><circle cx="297.4" cy="137.8" r="4" fill="#3465a4"><title>Longniddry, dress (Turquoise)</title></circle></a><a href="/setts/s10/w52t22w6t8k1dp3~x2/"><circle cx="337.7" cy="90.9" r="4" fill="#3465a4"><title>MacGregor Turquoise Dress Fashion Tartan Tartan Number: 8193. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r3b2w35b35r2g3~x2/"><circle cx="271.2" cy="131.2" r="4" fill="#3465a4"><title>Galloway (Dance)</title></circle></a><a href="/setts/s12/lt38r1lt2r2lt2r6ly4r10db8lt11r3ly1~x2/"><circle cx="363.6" cy="77.0" r="4" fill="#3465a4"><title>Spirit of Dunkeld</title></circle></a><a href="/setts/s12/b45ly6b3ly6b3w3db5w3db5w20b2w3~x2/"><circle cx="286.7" cy="104.4" r="4" fill="#3465a4"><title>Dunn (Scotland) (Name)</title></circle></a><a href="/setts/s7/dt3n2w2n30w30r2w3~x2/"><circle cx="285.2" cy="141.8" r="4" fill="#3465a4"><title>Torridon, Royal Blue (Dance)</title></circle></a><a href="/setts/s12/w4db1w2db3w24t5db3t1db1t1db20w2~x2/"><circle cx="287.9" cy="106.4" r="4" fill="#3465a4"><title>Menzies Royal Blue Dress Tartan Tartan Number: 8192. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r3b2w35b35r2g3~x2/"><circle cx="271.6" cy="144.0" r="4" fill="#3465a4"><title>Galloway (Dance)</title></circle></a><a href="/setts/s10/w3db2w30db4m26w2m2dp4m2w3~x2/"><circle cx="280.4" cy="116.2" r="4" fill="#3465a4"><title>Harris, Lilac (Dance)</title></circle></a><circle cx="333.0" cy="118.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/b4w30r4b3r1b1r1b22w2~x2/

@@ -2,12 +2,19 @@
 title: "Muir/Moore"
 date: 2023-03-18
 ---
-**Bands:** [BKGRGRGRGKY](/stripes/bkgrgrgrgky/) · **Stripes:** [DB K G R G R G R G K LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB K G R G R G R G K LY</span></span>
+**Bands:** [YKGRGRGRGKB](/stripes/ykgrgrgrgkb/) · **Stripes:** [LY K G R G R G R G K DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K G R G R G R G K DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3039
+
+## Also known as
+
+This cloth is also recorded under:
+
+- More / Muir
+- Muir/Moore
 
 ## Attestations
 
@@ -320,6 +327,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +428,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +688,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -919,14 +929,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Prestoungrange/Dolphinstoun/Wills](/setts/s14/g3b2g3r4g15k2g2k2g3db35k2db2k1db2~x2/) — ΔT 1.11
 1. [Sinclair-Brown (Personal)](/setts/s8/db64k11r2k4r2k4g32lo4~x2/) — ΔT 1.13
 1. [Mulcahy](/setts/s11/db66k2db10k15g15r4g15r4g30ly2w4/) — ΔT 1.18
-1. [Bro-Kerne](/setts/s9/lo3dt30k1g6k1dt2k14dt1w3~x2/) — ΔT 1.19
+1. [Bro-Kerne](/setts/s9/w3dt1k14dt2k1g6k1dt30lo3~x2/) — ΔT 1.19
 1. [Victoria State (Australia)](/setts/s10/g24w2k4w2k8r2n51k2t8w1~x2/) — ΔT 1.20
 1. [Stirling, University of](/setts/s9/dg90r1k10w6k4dg6r10db62ly8/) — ΔT 1.22
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dp4g6dt4g28lb4g6dt6db46dt1lb4~x2/"><circle cx="293.7" cy="108.0" r="4" fill="#3465a4"><title>State Seal of Connecticut (Fashion)</title></circle></a><a href="/setts/s14/g3t2g3r4g15k2g2k2g3db35k2db2k1db2~x2/"><circle cx="349.6" cy="96.5" r="4" fill="#3465a4"><title>Prestoungrange (Personal)</title></circle></a><a href="/setts/s9/n47lo1k27o4dg5lo1o8b1k1~x2/"><circle cx="316.1" cy="81.5" r="4" fill="#3465a4"><title>Brighton Mac Dermott (Fashion)</title></circle></a><a href="/setts/s14/db116k4g22r7db3r7k26db7g3db7g66db4r7r4/"><circle cx="305.1" cy="75.2" r="4" fill="#3465a4"><title>Cooper</title></circle></a><a href="/setts/s14/g3b2g3r4g15k2g2k2g3db35k2db2k1db2~x2/"><circle cx="318.7" cy="80.8" r="4" fill="#3465a4"><title>Prestoungrange/Dolphinstoun/Wills</title></circle></a><a href="/setts/s8/db64k11r2k4r2k4g32lo4~x2/"><circle cx="347.9" cy="132.3" r="4" fill="#3465a4"><title>Sinclair-Brown (Personal)</title></circle></a><a href="/setts/s11/db66k2db10k15g15r4g15r4g30ly2w4/"><circle cx="274.2" cy="102.4" r="4" fill="#3465a4"><title>Mulcahy</title></circle></a><a href="/setts/s9/lo3dt30k1g6k1dt2k14dt1w3~x2/"><circle cx="333.1" cy="116.5" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><a href="/setts/s10/g24w2k4w2k8r2n51k2t8w1~x2/"><circle cx="313.3" cy="78.8" r="4" fill="#3465a4"><title>Victoria State (Australia)</title></circle></a><a href="/setts/s9/dg90r1k10w6k4dg6r10db62ly8/"><circle cx="314.7" cy="87.7" r="4" fill="#3465a4"><title>Stirling, University of</title></circle></a><circle cx="327.5" cy="93.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dp4g6dt4g28lb4g6dt6db46dt1lb4~x2/"><circle cx="293.6" cy="108.0" r="4" fill="#3465a4"><title>State Seal of Connecticut (Fashion)</title></circle></a><a href="/setts/s14/g3t2g3r4g15k2g2k2g3db35k2db2k1db2~x2/"><circle cx="349.5" cy="96.6" r="4" fill="#3465a4"><title>Prestoungrange (Personal)</title></circle></a><a href="/setts/s9/n47lo1k27o4dg5lo1o8b1k1~x2/"><circle cx="316.0" cy="81.5" r="4" fill="#3465a4"><title>Brighton Mac Dermott (Fashion)</title></circle></a><a href="/setts/s14/db116k4g22r7db3r7k26db7g3db7g66db4r7r4/"><circle cx="304.9" cy="75.2" r="4" fill="#3465a4"><title>Cooper</title></circle></a><a href="/setts/s14/g3b2g3r4g15k2g2k2g3db35k2db2k1db2~x2/"><circle cx="318.5" cy="80.8" r="4" fill="#3465a4"><title>Prestoungrange/Dolphinstoun/Wills</title></circle></a><a href="/setts/s8/db64k11r2k4r2k4g32lo4~x2/"><circle cx="347.9" cy="132.3" r="4" fill="#3465a4"><title>Sinclair-Brown (Personal)</title></circle></a><a href="/setts/s11/db66k2db10k15g15r4g15r4g30ly2w4/"><circle cx="274.1" cy="102.4" r="4" fill="#3465a4"><title>Mulcahy</title></circle></a><a href="/setts/s9/w3dt1k14dt2k1g6k1dt30lo3~x2/"><circle cx="332.9" cy="116.5" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><a href="/setts/s10/g24w2k4w2k8r2n51k2t8w1~x2/"><circle cx="313.1" cy="78.9" r="4" fill="#3465a4"><title>Victoria State (Australia)</title></circle></a><a href="/setts/s9/dg90r1k10w6k4dg6r10db62ly8/"><circle cx="314.5" cy="87.8" r="4" fill="#3465a4"><title>Stirling, University of</title></circle></a><circle cx="327.4" cy="93.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db60k15g10r2g10r2g10r2g10k1ly4~x2/

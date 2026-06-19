@@ -2,12 +2,18 @@
 title: "Unidentified, Tweed"
 date: 2023-03-18
 ---
-**Bands:** [BWBGBG](/stripes/bwbgbg/) · **Stripes:** [DB W DB G DB G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB W DB G DB G</span></span>
+**Bands:** [GBGBWB](/stripes/gbgbwb/) · **Stripes:** [G DB G DB W DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">G DB G DB W DB</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified, Tweed
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/8 LN2 B24 G24 B2 G/8
+G/8 B2 G24 B24 LN2 B/8
 ![Sett](sett.png)
 
 ## Palette
@@ -899,7 +908,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/8 LN2 B24 G24 B2 G/8 tartan")
+![Tartan detail](tartan.png "G/8 B2 G24 B24 LN2 B/8 tartan")
 
 ## Nearest tartans
 
@@ -914,12 +923,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Outdoorsmen (Fashion)](/setts/s7/b3k1g4k1b4g9k2~x4/) — ΔT 1.26
 1. [Rowan (Personal)](/setts/s5/g12lo1db8k1db1~x4/) — ΔT 1.31
 1. [Letham (S.Australia)](/setts/s8/g40k20t10k4t7g13k4t4~x2/) — ΔT 1.35
-1. [Barclay](/setts/s4/g1db16g16r1~x2/) — ΔT 1.36
+1. [Barclay](/setts/s4/r1g16db16g1~x2/) — ΔT 1.36
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db11g2db15g18w2~x2/"><circle cx="328.6" cy="270.4" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><a href="/setts/s6/b52g21b6g16k4g16~x2/"><circle cx="353.6" cy="248.0" r="4" fill="#3465a4"><title>Milligan</title></circle></a><a href="/setts/s6/db6g2db29g29db2g6~x2/"><circle cx="400.9" cy="250.8" r="4" fill="#3465a4"><title>Harmony, 12</title></circle></a><a href="/setts/s6/t7k7t7g20t2g2~x4/"><circle cx="296.6" cy="249.1" r="4" fill="#3465a4"><title>Falconer of Labhdal (Personal)</title></circle></a><a href="/setts/s5/db5g2db5g8w1~x8/"><circle cx="285.4" cy="283.0" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><a href="/setts/s7/db1g12db4lb1db4g4db1~x4/"><circle cx="369.6" cy="225.1" r="4" fill="#3465a4"><title>St. Dennis &amp; Cranley School</title></circle></a><a href="/setts/s7/b3k1g4k1b4g9k2~x4/"><circle cx="298.4" cy="245.6" r="4" fill="#3465a4"><title>Outdoorsmen (Fashion)</title></circle></a><a href="/setts/s5/g12lo1db8k1db1~x4/"><circle cx="340.2" cy="226.2" r="4" fill="#3465a4"><title>Rowan (Personal)</title></circle></a><a href="/setts/s8/g40k20t10k4t7g13k4t4~x2/"><circle cx="299.5" cy="226.9" r="4" fill="#3465a4"><title>Letham (S.Australia)</title></circle></a><a href="/setts/s4/g1db16g16r1~x2/"><circle cx="385.6" cy="256.3" r="4" fill="#3465a4"><title>Barclay</title></circle></a><circle cx="339.9" cy="243.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db11g2db15g18w2~x2/"><circle cx="328.6" cy="270.2" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><a href="/setts/s6/b52g21b6g16k4g16~x2/"><circle cx="353.5" cy="247.8" r="4" fill="#3465a4"><title>Milligan</title></circle></a><a href="/setts/s6/db6g2db29g29db2g6~x2/"><circle cx="400.8" cy="250.6" r="4" fill="#3465a4"><title>Harmony, 12</title></circle></a><a href="/setts/s6/t7k7t7g20t2g2~x4/"><circle cx="296.5" cy="248.9" r="4" fill="#3465a4"><title>Falconer of Labhdal (Personal)</title></circle></a><a href="/setts/s5/db5g2db5g8w1~x8/"><circle cx="285.4" cy="282.8" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><a href="/setts/s7/db1g12db4lb1db4g4db1~x4/"><circle cx="369.6" cy="224.8" r="4" fill="#3465a4"><title>St. Dennis &amp; Cranley School</title></circle></a><a href="/setts/s7/b3k1g4k1b4g9k2~x4/"><circle cx="298.3" cy="245.4" r="4" fill="#3465a4"><title>Outdoorsmen (Fashion)</title></circle></a><a href="/setts/s5/g12lo1db8k1db1~x4/"><circle cx="340.2" cy="226.0" r="4" fill="#3465a4"><title>Rowan (Personal)</title></circle></a><a href="/setts/s8/g40k20t10k4t7g13k4t4~x2/"><circle cx="299.5" cy="226.7" r="4" fill="#3465a4"><title>Letham (S.Australia)</title></circle></a><a href="/setts/s4/r1g16db16g1~x2/"><circle cx="385.6" cy="256.1" r="4" fill="#3465a4"><title>Barclay</title></circle></a><circle cx="339.8" cy="243.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db4w1db12g12db1g4~x2/

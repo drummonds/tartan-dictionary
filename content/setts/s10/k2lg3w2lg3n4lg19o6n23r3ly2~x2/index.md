@@ -30,21 +30,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Australian Heavy Horse](/setts/s10/n4lr2n2w2do16n5k2n18n2n4~x2/) — ΔT 1.26
+1. [Australian Heavy Horse](/setts/s10/n4n2n18k2n5do16w2n2lr2n4~x2/) — ΔT 1.26
 1. [O'Reilly (Estimated threadcount)](/setts/s9/r4b3lr2k2lr12k2db10t25w2~x2/) — ΔT 1.27
 1. [Hobkirk (School)](/setts/s10/b5w1m9b5r4b5g20ly1g1ly1~x4/) — ΔT 1.30
-1. [Washington DC (Fashion)](/setts/s8/lb5b32o5g6o5r16o39lo5~x2/) — ΔT 1.39
+1. [Washington DC (Fashion)](/setts/s8/lo5o39r16o5g6o5b32lb5~x2/) — ΔT 1.39
 1. [Atikokan (District)](/setts/s7/lo6t16lb3y3o3g3w2~x4/) — ΔT 1.41
 1. [State Seal of California (Fashion)](/setts/s10/lo29ly3b19lb3b3r3g17b3g4lb3~x2/) — ΔT 1.43
 1. [Causeway, The](/setts/s15/n38t8lg3n20t42k2g6k2t2m3t2w2lg10t2k6/) — ΔT 1.44
 1. [Lyon, Jeffrey M (Hunting) (Personal)](/setts/s10/t27dt2t2dt16g5r5lo2dt2dy14dt2~x2/) — ΔT 1.44
 1. [Wisconsin](/setts/s11/t22r3t2w3do14y20ly2y20do14t11lr6~x2/) — ΔT 1.45
-1. [State Seal of Mississippi (Fashion)](/setts/s9/y48o26lb5dy7lb10y3b7o10r3~x2/) — ΔT 1.50
+1. [State Seal of Mississippi (Fashion)](/setts/s9/y48o26lb5dy7lb10y3b7o10r3~x2/) — ΔT 1.49
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/n4lr2n2w2do16n5k2n18n2n4~x2/"><circle cx="205.0" cy="143.2" r="4" fill="#3465a4"><title>Australian Heavy Horse</title></circle></a><a href="/setts/s9/r4b3lr2k2lr12k2db10t25w2~x2/"><circle cx="161.6" cy="122.4" r="4" fill="#3465a4"><title>O'Reilly (Estimated threadcount)</title></circle></a><a href="/setts/s10/b5w1m9b5r4b5g20ly1g1ly1~x4/"><circle cx="240.8" cy="136.6" r="4" fill="#3465a4"><title>Hobkirk (School)</title></circle></a><a href="/setts/s8/lb5b32o5g6o5r16o39lo5~x2/"><circle cx="216.1" cy="187.4" r="4" fill="#3465a4"><title>Washington DC (Fashion)</title></circle></a><a href="/setts/s7/lo6t16lb3y3o3g3w2~x4/"><circle cx="168.2" cy="167.4" r="4" fill="#3465a4"><title>Atikokan (District)</title></circle></a><a href="/setts/s10/lo29ly3b19lb3b3r3g17b3g4lb3~x2/"><circle cx="160.1" cy="153.5" r="4" fill="#3465a4"><title>State Seal of California (Fashion)</title></circle></a><a href="/setts/s15/n38t8lg3n20t42k2g6k2t2m3t2w2lg10t2k6/"><circle cx="223.6" cy="87.3" r="4" fill="#3465a4"><title>Causeway, The</title></circle></a><a href="/setts/s10/t27dt2t2dt16g5r5lo2dt2dy14dt2~x2/"><circle cx="219.4" cy="157.2" r="4" fill="#3465a4"><title>Lyon, Jeffrey M (Hunting) (Personal)</title></circle></a><a href="/setts/s11/t22r3t2w3do14y20ly2y20do14t11lr6~x2/"><circle cx="131.4" cy="161.9" r="4" fill="#3465a4"><title>Wisconsin</title></circle></a><a href="/setts/s9/y48o26lb5dy7lb10y3b7o10r3~x2/"><circle cx="242.8" cy="139.9" r="4" fill="#3465a4"><title>State Seal of Mississippi (Fashion)</title></circle></a><circle cx="204.6" cy="134.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/n4n2n18k2n5do16w2n2lr2n4~x2/"><circle cx="204.9" cy="143.3" r="4" fill="#3465a4"><title>Australian Heavy Horse</title></circle></a><a href="/setts/s9/r4b3lr2k2lr12k2db10t25w2~x2/"><circle cx="161.5" cy="122.5" r="4" fill="#3465a4"><title>O'Reilly (Estimated threadcount)</title></circle></a><a href="/setts/s10/b5w1m9b5r4b5g20ly1g1ly1~x4/"><circle cx="240.6" cy="136.8" r="4" fill="#3465a4"><title>Hobkirk (School)</title></circle></a><a href="/setts/s8/lo5o39r16o5g6o5b32lb5~x2/"><circle cx="215.9" cy="187.6" r="4" fill="#3465a4"><title>Washington DC (Fashion)</title></circle></a><a href="/setts/s7/lo6t16lb3y3o3g3w2~x4/"><circle cx="168.0" cy="167.5" r="4" fill="#3465a4"><title>Atikokan (District)</title></circle></a><a href="/setts/s10/lo29ly3b19lb3b3r3g17b3g4lb3~x2/"><circle cx="159.9" cy="153.6" r="4" fill="#3465a4"><title>State Seal of California (Fashion)</title></circle></a><a href="/setts/s15/n38t8lg3n20t42k2g6k2t2m3t2w2lg10t2k6/"><circle cx="223.5" cy="87.5" r="4" fill="#3465a4"><title>Causeway, The</title></circle></a><a href="/setts/s10/t27dt2t2dt16g5r5lo2dt2dy14dt2~x2/"><circle cx="219.3" cy="157.4" r="4" fill="#3465a4"><title>Lyon, Jeffrey M (Hunting) (Personal)</title></circle></a><a href="/setts/s11/t22r3t2w3do14y20ly2y20do14t11lr6~x2/"><circle cx="131.4" cy="162.2" r="4" fill="#3465a4"><title>Wisconsin</title></circle></a><a href="/setts/s9/y48o26lb5dy7lb10y3b7o10r3~x2/"><circle cx="242.6" cy="140.2" r="4" fill="#3465a4"><title>State Seal of Mississippi (Fashion)</title></circle></a><circle cx="204.4" cy="134.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/k2lg3w2lg3n4lg19o6n23r3ly2~x2/

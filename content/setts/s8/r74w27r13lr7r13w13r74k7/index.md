@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7829/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Cornell #2
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -52,14 +58,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Martin, Robert N (Personal)](/setts/s5/r27w3r6w2dg3~x4/) — ΔT 1.67
 1. [Goodwillie (Fashion)](/setts/s8/r15dt5k2dt5r15p3r15w2~x2/) — ΔT 1.75
 1. [Instakilt, Pink (Fashion)](/setts/s7/m8w4m50k12m4k15m5~x2/) — ΔT 1.79
-1. [Highlands of Wyomissing (Corporate)](/setts/s8/r35lb3r8ly2dg11ly2r8lb3~x2/) — ΔT 1.82
+1. [Highlands of Wyomissing (Corporate)](/setts/s8/r35lb3r8ly2dg11~x2/) — ΔT 1.82
 1. [Inverness - 2000 (Fashion)](/setts/s8/r64k8w3k8w3b4w3r18~x2/) — ΔT 1.91
 1. [Sinclair](/setts/s6/r30g12k5w2t6r30/) — ΔT 1.95
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg2r28db6r5db2r2db2r11lb2/"><circle cx="492.5" cy="143.4" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s9/g4r32db9r6db2r3db2r12w3~x2/"><circle cx="464.0" cy="145.6" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s9/dg2r28db6r5db2r2db2r11lr2~x2/"><circle cx="508.4" cy="156.8" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s9/dg2r28db6r5db2r2db2r11lr2/"><circle cx="508.4" cy="156.8" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s5/r27w3r6w2dg3~x4/"><circle cx="549.9" cy="196.0" r="4" fill="#3465a4"><title>Martin, Robert N (Personal)</title></circle></a><a href="/setts/s8/r15dt5k2dt5r15p3r15w2~x2/"><circle cx="397.7" cy="193.7" r="4" fill="#3465a4"><title>Goodwillie (Fashion)</title></circle></a><a href="/setts/s7/m8w4m50k12m4k15m5~x2/"><circle cx="366.3" cy="153.9" r="4" fill="#3465a4"><title>Instakilt, Pink (Fashion)</title></circle></a><a href="/setts/s8/r35lb3r8ly2dg11ly2r8lb3~x2/"><circle cx="448.7" cy="151.3" r="4" fill="#3465a4"><title>Highlands of Wyomissing (Corporate)</title></circle></a><a href="/setts/s8/r64k8w3k8w3b4w3r18~x2/"><circle cx="484.8" cy="126.6" r="4" fill="#3465a4"><title>Inverness - 2000 (Fashion)</title></circle></a><a href="/setts/s6/r30g12k5w2t6r30/"><circle cx="401.2" cy="169.4" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><circle cx="451.5" cy="173.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg2r28db6r5db2r2db2r11lb2/"><circle cx="491.9" cy="143.1" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s9/g4r32db9r6db2r3db2r12w3~x2/"><circle cx="463.5" cy="145.3" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s9/dg2r28db6r5db2r2db2r11lr2~x2/"><circle cx="507.9" cy="156.5" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s9/dg2r28db6r5db2r2db2r11lr2/"><circle cx="507.9" cy="156.5" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s5/r27w3r6w2dg3~x4/"><circle cx="549.4" cy="195.6" r="4" fill="#3465a4"><title>Martin, Robert N (Personal)</title></circle></a><a href="/setts/s8/r15dt5k2dt5r15p3r15w2~x2/"><circle cx="397.3" cy="193.5" r="4" fill="#3465a4"><title>Goodwillie (Fashion)</title></circle></a><a href="/setts/s7/m8w4m50k12m4k15m5~x2/"><circle cx="365.9" cy="153.6" r="4" fill="#3465a4"><title>Instakilt, Pink (Fashion)</title></circle></a><a href="/setts/s8/r35lb3r8ly2dg11~x2/"><circle cx="448.2" cy="151.1" r="4" fill="#3465a4"><title>Highlands of Wyomissing (Corporate)</title></circle></a><a href="/setts/s8/r64k8w3k8w3b4w3r18~x2/"><circle cx="484.4" cy="126.4" r="4" fill="#3465a4"><title>Inverness - 2000 (Fashion)</title></circle></a><a href="/setts/s6/r30g12k5w2t6r30/"><circle cx="400.8" cy="169.2" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><circle cx="451.0" cy="173.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r74w27r13lr7r13w13r74k7/

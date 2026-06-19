@@ -18,7 +18,7 @@ GBGBBBGWR
 
 
 
-### DG DP DG DP T DP DG LP R <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG DP DG DP T DP DG LP R</span></span>
+### R LP DG DP T DP DG DP DG <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="seq">R LP DG DP T DP DG DP DG</span></span>
 
 | Tartans |
 |---------------|

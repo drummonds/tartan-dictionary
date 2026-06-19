@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/
 Original link http://www.tartansauthority.com/tartan-ferret/display/1460/
 
 ## Thread count
-LN/6 B6 K6 B54 LG54 R/6
+R/6 LG54 B54 K6 B6 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -26,7 +26,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/6 B6 K6 B54 LG54 R/6 tartan")
+![Tartan detail](tartan.png "R/6 LG54 B54 K6 B6 LN/6 tartan")
 
 ## Nearest tartans
 
@@ -45,8 +45,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/lg9lr9k1lr1w1lr1k1lr9lg9r1~x6/"><circle cx="315.6" cy="210.0" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/setts/s7/g2t15lr5g2t2g7w2~x4/"><circle cx="305.9" cy="243.2" r="4" fill="#3465a4"><title>Chambers Bay</title></circle></a><a href="/setts/s9/k3lr15t3lr4t3lr4t10y30w3~x2/"><circle cx="268.5" cy="201.6" r="4" fill="#3465a4"><title>Highland Road (Fashion)</title></circle></a><a href="/setts/s6/ly30g3t2lb2t30lo4~x2/"><circle cx="305.5" cy="176.9" r="4" fill="#3465a4"><title>South Aiken Presby Church (Corporate</title></circle></a><a href="/setts/s9/y25p3y8p13ly8lr2ly11y2p3~x2/"><circle cx="270.1" cy="190.4" r="4" fill="#3465a4"><title>Organic</title></circle></a><a href="/setts/s8/lr30w3lr3w3lr12n30o3n5~x2/"><circle cx="344.3" cy="207.8" r="4" fill="#3465a4"><title>Dama Classic (Fashion)</title></circle></a><a href="/setts/s6/w1dp1lb7o4lb1w1~x4/"><circle cx="318.9" cy="229.8" r="4" fill="#3465a4"><title>Lochnagar Trade Tartan Tartan Number: 1771. Earliest known date: pre 2003 Colours represents the Scottish hills, the water, and the heather. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/t3k3t21g49t21k3t3w3~x2/"><circle cx="367.8" cy="200.7" r="4" fill="#3465a4"><title>Irvine of Drum</title></circle></a><a href="/setts/s10/b5lg2b2lg9k3b9g3b3g25lr2~x2/"><circle cx="286.8" cy="189.4" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #2</title></circle></a><a href="/setts/s5/n10lr3o3r1g1~x10/"><circle cx="364.3" cy="239.2" r="4" fill="#3465a4"><title>Bagpipe Shop, The (Corporate)</title></circle></a><circle cx="299.8" cy="213.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/lg9lr9k1lr1w1lr1k1lr9lg9r1~x6/"><circle cx="315.3" cy="210.1" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/setts/s7/g2t15lr5g2t2g7w2~x4/"><circle cx="305.7" cy="243.2" r="4" fill="#3465a4"><title>Chambers Bay</title></circle></a><a href="/setts/s9/k3lr15t3lr4t3lr4t10y30w3~x2/"><circle cx="268.2" cy="201.8" r="4" fill="#3465a4"><title>Highland Road (Fashion)</title></circle></a><a href="/setts/s6/ly30g3t2lb2t30lo4~x2/"><circle cx="305.2" cy="176.8" r="4" fill="#3465a4"><title>South Aiken Presby Church (Corporate</title></circle></a><a href="/setts/s9/y25p3y8p13ly8lr2ly11y2p3~x2/"><circle cx="269.8" cy="190.4" r="4" fill="#3465a4"><title>Organic</title></circle></a><a href="/setts/s8/lr30w3lr3w3lr12n30o3n5~x2/"><circle cx="344.0" cy="207.7" r="4" fill="#3465a4"><title>Dama Classic (Fashion)</title></circle></a><a href="/setts/s6/w1dp1lb7o4lb1w1~x4/"><circle cx="318.5" cy="229.7" r="4" fill="#3465a4"><title>Lochnagar Trade Tartan Tartan Number: 1771. Earliest known date: pre 2003 Colours represents the Scottish hills, the water, and the heather. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/t3k3t21g49t21k3t3w3~x2/"><circle cx="367.5" cy="200.7" r="4" fill="#3465a4"><title>Irvine of Drum</title></circle></a><a href="/setts/s10/b5lg2b2lg9k3b9g3b3g25lr2~x2/"><circle cx="286.6" cy="189.6" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #2</title></circle></a><a href="/setts/s5/n10lr3o3r1g1~x10/"><circle cx="364.1" cy="239.3" r="4" fill="#3465a4"><title>Bagpipe Shop, The (Corporate)</title></circle></a><circle cx="299.5" cy="213.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r1lg9lr9k1lr1w1~x6/

@@ -21,7 +21,7 @@ BRG
 Grouped by stripe pattern — the 3 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB R G <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB R G</span></span>
+### G R DB <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G R DB</span></span>
 
 | Tartans |
 |---------------|
@@ -30,7 +30,7 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 | [Wilson's No 62, (Ferguson)](/setts/s3/db13r2g13~x2/)|
 |![Wilson's No 62, (Ferguson) example sett](/setts/s3/db13r2g13~x2/sett.png)|
 
-### T R G <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">T R G</span></span>
+### G R T <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">G R T</span></span>
 
 | Tartans |
 |---------------|
@@ -39,7 +39,7 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 | [Wilson's, No 212](/setts/s3/g9r2t2~x4/)|
 |![Wilson's, No 212 example sett](/setts/s3/g9r2t2~x4/sett.png)|
 
-### DB R DG <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">DB R DG</span></span>
+### DG R DB <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DG R DB</span></span>
 
 | Tartans |
 |---------------|

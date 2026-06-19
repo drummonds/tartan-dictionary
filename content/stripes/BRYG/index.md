@@ -20,7 +20,7 @@ BRYG
 
 
 
-### DT R LO DG <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="seq">DT R LO DG</span></span>
+### DG LO R DT <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="seq">DG LO R DT</span></span>
 
 | Tartans |
 |---------------|

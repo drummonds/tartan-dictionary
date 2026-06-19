@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -904,8 +907,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Fulton Family Tartan Tartan Number: 2205. Earliest known date: 1982 For anyone of the name Fulton. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/r4k2g17r6g6r6g15r20lo3~x2/) — ΔT 0.74
-1. [Bruce County](/setts/s12/ly1r8g2r2g6r1g6r2g2r7db1w1~x2/) — ΔT 0.99
-1. [Bruce County](/setts/s12/lo1r8g2r2g6r1g6r2g2r7db1w1~x4/) — ΔT 1.18
+1. [Bruce County](/setts/s12/w1db1r7g2r2g6r1g6r2g2r8ly1~x2/) — ΔT 0.99
+1. [Bruce County](/setts/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/) — ΔT 1.18
 1. [Hynde](/setts/s11/g14r1g14r7w1r7w1r7db5p3w1~x4/) — ΔT 1.20
 1. [Unidentified #57](/setts/s8/dg20r8lr2r8dg5ly8dg2ly8~x2/) — ΔT 1.22
 1. [Hynde Artifact Tartan Tartan Number: 976. Earliest known date: 1744 Trews belonging to Sir John Hynde. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/) — ΔT 1.26
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r4k2g17r6g6r6g15r20lo3~x2/"><circle cx="262.2" cy="193.2" r="4" fill="#3465a4"><title>Fulton Family Tartan Tartan Number: 2205. Earliest known date: 1982 For anyone of the name Fulton. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/ly1r8g2r2g6r1g6r2g2r7db1w1~x2/"><circle cx="264.1" cy="173.2" r="4" fill="#3465a4"><title>Bruce County</title></circle></a><a href="/setts/s12/lo1r8g2r2g6r1g6r2g2r7db1w1~x4/"><circle cx="264.7" cy="172.6" r="4" fill="#3465a4"><title>Bruce County</title></circle></a><a href="/setts/s11/g14r1g14r7w1r7w1r7db5p3w1~x4/"><circle cx="221.8" cy="146.9" r="4" fill="#3465a4"><title>Hynde</title></circle></a><a href="/setts/s8/dg20r8lr2r8dg5ly8dg2ly8~x2/"><circle cx="224.1" cy="210.3" r="4" fill="#3465a4"><title>Unidentified #57</title></circle></a><a href="/setts/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/"><circle cx="234.7" cy="151.9" r="4" fill="#3465a4"><title>Hynde Artifact Tartan Tartan Number: 976. Earliest known date: 1744 Trews belonging to Sir John Hynde. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db4r11db1g8r2g4k1ly2~x4/"><circle cx="188.7" cy="170.1" r="4" fill="#3465a4"><title>Craik, of Assington</title></circle></a><a href="/setts/s11/w2r4g8r16t2r3g16r4t2r4w2~x2/"><circle cx="265.5" cy="179.5" r="4" fill="#3465a4"><title>MacKinnon 7</title></circle></a><a href="/setts/s10/r5w2g3w2r10g10r2w1r2dg1~x4/"><circle cx="262.2" cy="177.8" r="4" fill="#3465a4"><title>Glenfinnan (Fashion)</title></circle></a><a href="/setts/s14/r2r4g2db2r6g14r2db2g2r12g7r2r5w1~x2/"><circle cx="257.4" cy="144.2" r="4" fill="#3465a4"><title>MacDonald of Staffa 4</title></circle></a><circle cx="242.4" cy="184.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r4k2g17r6g6r6g15r20lo3~x2/"><circle cx="262.0" cy="193.2" r="4" fill="#3465a4"><title>Fulton Family Tartan Tartan Number: 2205. Earliest known date: 1982 For anyone of the name Fulton. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/w1db1r7g2r2g6r1g6r2g2r8ly1~x2/"><circle cx="263.8" cy="173.1" r="4" fill="#3465a4"><title>Bruce County</title></circle></a><a href="/setts/s12/w1db1r7g2r2g6r1g6r2g2r8lo1~x4/"><circle cx="264.4" cy="172.5" r="4" fill="#3465a4"><title>Bruce County</title></circle></a><a href="/setts/s11/g14r1g14r7w1r7w1r7db5p3w1~x4/"><circle cx="221.6" cy="146.9" r="4" fill="#3465a4"><title>Hynde</title></circle></a><a href="/setts/s8/dg20r8lr2r8dg5ly8dg2ly8~x2/"><circle cx="223.9" cy="210.3" r="4" fill="#3465a4"><title>Unidentified #57</title></circle></a><a href="/setts/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/"><circle cx="234.5" cy="151.9" r="4" fill="#3465a4"><title>Hynde Artifact Tartan Tartan Number: 976. Earliest known date: 1744 Trews belonging to Sir John Hynde. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db4r11db1g8r2g4k1ly2~x4/"><circle cx="188.5" cy="170.1" r="4" fill="#3465a4"><title>Craik, of Assington</title></circle></a><a href="/setts/s11/w2r4g8r16t2r3g16r4t2r4w2~x2/"><circle cx="265.2" cy="179.4" r="4" fill="#3465a4"><title>MacKinnon 7</title></circle></a><a href="/setts/s10/r5w2g3w2r10g10r2w1r2dg1~x4/"><circle cx="261.9" cy="177.7" r="4" fill="#3465a4"><title>Glenfinnan (Fashion)</title></circle></a><a href="/setts/s14/r2r4g2db2r6g14r2db2g2r12g7r2r5w1~x2/"><circle cx="257.1" cy="144.2" r="4" fill="#3465a4"><title>MacDonald of Staffa 4</title></circle></a><circle cx="242.1" cy="184.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/m4k2g17r6g6r6g15r20ly3~x2/

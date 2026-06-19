@@ -2,12 +2,18 @@
 title: "Lochaber #3"
 date: 2023-03-18
 ---
-**Bands:** [BBBR](/stripes/bbbr/) · **Stripes:** [DB T DB R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB T DB R</span></span>
+**Bands:** [RBBB](/stripes/rbbb/) · **Stripes:** [R DB T DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB T DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2161
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Lochaber #3
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/2 Ba2 B16 R/2
+R/2 B16 Ba2 B/2
 ![Sett](sett.png)
 
 ## Palette
@@ -906,14 +915,14 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/2 Ba2 B16 R/2 tartan")
+![Tartan detail](tartan.png "R/2 B16 Ba2 B/2 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Hebridean, (Old..)](/setts/s7/db10r1db10r2db10r1g2~x2/) — ΔT 1.56
-1. [Brooks Brothers Tattersall Blue](/setts/s5/lo1db9lo2db9r1~x4/) — ΔT 1.74
+1. [Brooks Brothers Tattersall Blue](/setts/s5/r1db9lo2db9lo1~x4/) — ΔT 1.74
 1. [Lynch](/setts/s6/r19db6r7db101dg6db7~x2/) — ΔT 1.80
 1. [Elliot (Clan)](/setts/s4/db44dy12db9r3~x2/) — ΔT 1.86
 1. [GulfMark](/setts/s5/dt72b6dt12b17w6~x2/) — ΔT 1.87
@@ -925,8 +934,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db10r1db10r2db10r1g2~x2/"><circle cx="578.9" cy="267.4" r="4" fill="#3465a4"><title>Hebridean, (Old..)</title></circle></a><a href="/setts/s5/lo1db9lo2db9r1~x4/"><circle cx="544.0" cy="269.5" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Blue</title></circle></a><a href="/setts/s6/r19db6r7db101dg6db7~x2/"><circle cx="595.0" cy="211.5" r="4" fill="#3465a4"><title>Lynch</title></circle></a><a href="/setts/s4/db44dy12db9r3~x2/"><circle cx="612.1" cy="290.7" r="4" fill="#3465a4"><title>Elliot (Clan)</title></circle></a><a href="/setts/s5/dt72b6dt12b17w6~x2/"><circle cx="512.4" cy="237.1" r="4" fill="#3465a4"><title>GulfMark</title></circle></a><a href="/setts/s4/db32r3db4ly3~x2/"><circle cx="591.0" cy="239.9" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><a href="/setts/s6/r3db2r1db18g1db2~x4/"><circle cx="602.5" cy="205.3" r="4" fill="#3465a4"><title>Lynch</title></circle></a><a href="/setts/s4/db16dr4db3r1~x2/"><circle cx="603.0" cy="280.1" r="4" fill="#3465a4"><title>Elliott</title></circle></a><a href="/setts/s5/db72t6db12t17w6~x2/"><circle cx="496.8" cy="233.3" r="4" fill="#3465a4"><title>Gulfmark (Corporate)</title></circle></a><a href="/setts/s5/dt68b7dt16k16lo4~x2/"><circle cx="548.2" cy="240.7" r="4" fill="#3465a4"><title>Burnett's &amp; Struth (Corporate)</title></circle></a><circle cx="590.9" cy="279.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db10r1db10r2db10r1g2~x2/"><circle cx="578.6" cy="267.0" r="4" fill="#3465a4"><title>Hebridean, (Old..)</title></circle></a><a href="/setts/s5/r1db9lo2db9lo1~x4/"><circle cx="543.9" cy="269.1" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Blue</title></circle></a><a href="/setts/s6/r19db6r7db101dg6db7~x2/"><circle cx="594.7" cy="211.2" r="4" fill="#3465a4"><title>Lynch</title></circle></a><a href="/setts/s4/db44dy12db9r3~x2/"><circle cx="612.0" cy="290.5" r="4" fill="#3465a4"><title>Elliot (Clan)</title></circle></a><a href="/setts/s5/dt72b6dt12b17w6~x2/"><circle cx="512.1" cy="236.8" r="4" fill="#3465a4"><title>GulfMark</title></circle></a><a href="/setts/s4/db32r3db4ly3~x2/"><circle cx="590.7" cy="239.4" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><a href="/setts/s6/r3db2r1db18g1db2~x4/"><circle cx="602.2" cy="204.9" r="4" fill="#3465a4"><title>Lynch</title></circle></a><a href="/setts/s4/db16dr4db3r1~x2/"><circle cx="603.0" cy="279.8" r="4" fill="#3465a4"><title>Elliott</title></circle></a><a href="/setts/s5/db72t6db12t17w6~x2/"><circle cx="496.7" cy="232.9" r="4" fill="#3465a4"><title>Gulfmark (Corporate)</title></circle></a><a href="/setts/s5/dt68b7dt16k16lo4~x2/"><circle cx="548.1" cy="240.6" r="4" fill="#3465a4"><title>Burnett's &amp; Struth (Corporate)</title></circle></a><circle cx="590.7" cy="279.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/db1t1db8r1~x2/

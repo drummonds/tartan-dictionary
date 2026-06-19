@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Fitzgerald, hunting
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -918,15 +927,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Cusack](/setts/s9/db4k2db16k12w1g13r2g2lo4~x2/) — ΔT 1.11
 1. [Colorado (District)](/setts/s9/dg32lb3p3lb3dg2k20db17r3ly4~x2/) — ΔT 1.13
 1. [Sons of Scotland (Corporate)](/setts/s11/db2w2db21lo3db4r3db3m4g18b4w2~x2/) — ΔT 1.20
-1. [Anne Arundel County](/setts/s8/g4k7db33k9dy2k9y10r4~x2/) — ΔT 1.21
+1. [Anne Arundel County](/setts/s8/r4y10k9dy2k9db33k7g4~x2/) — ΔT 1.21
 1. [Stinson, Ancient](/setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/) — ΔT 1.23
 1. [Young](/setts/s8/k3db3g15db15dp5o3y2dp1~x2/) — ΔT 1.32
 1. [MacKusick](/setts/s13/db8k2db3k12dp3w1dp3k16g3w2r1w2g8~x2/) — ΔT 1.32
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db40lg3db11k7g22k7db3w3lr10k32ly13~x2/"><circle cx="90.5" cy="115.1" r="4" fill="#3465a4"><title>Aurora House Check</title></circle></a><a href="/setts/s13/db3k3db15k15ly3k3g15w3k15db4r6k3ly1~x2/"><circle cx="123.9" cy="112.5" r="4" fill="#3465a4"><title>Allison</title></circle></a><a href="/setts/s11/db6k2n2db8k18lo2g20db8n3k10lb6~x2/"><circle cx="97.3" cy="156.4" r="4" fill="#3465a4"><title>Veere (District)</title></circle></a><a href="/setts/s9/db4k2db16k12w1g13r2g2lo4~x2/"><circle cx="129.6" cy="140.1" r="4" fill="#3465a4"><title>Cusack</title></circle></a><a href="/setts/s9/dg32lb3p3lb3dg2k20db17r3ly4~x2/"><circle cx="135.2" cy="107.7" r="4" fill="#3465a4"><title>Colorado (District)</title></circle></a><a href="/setts/s11/db2w2db21lo3db4r3db3m4g18b4w2~x2/"><circle cx="153.6" cy="114.6" r="4" fill="#3465a4"><title>Sons of Scotland (Corporate)</title></circle></a><a href="/setts/s8/g4k7db33k9dy2k9y10r4~x2/"><circle cx="162.3" cy="127.7" r="4" fill="#3465a4"><title>Anne Arundel County</title></circle></a><a href="/setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/"><circle cx="171.6" cy="141.0" r="4" fill="#3465a4"><title>Stinson, Ancient</title></circle></a><a href="/setts/s8/k3db3g15db15dp5o3y2dp1~x2/"><circle cx="102.3" cy="127.1" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/setts/s13/db8k2db3k12dp3w1dp3k16g3w2r1w2g8~x2/"><circle cx="166.7" cy="118.8" r="4" fill="#3465a4"><title>MacKusick</title></circle></a><circle cx="106.8" cy="126.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db40lg3db11k7g22k7db3w3lr10k32ly13~x2/"><circle cx="90.6" cy="115.2" r="4" fill="#3465a4"><title>Aurora House Check</title></circle></a><a href="/setts/s13/db3k3db15k15ly3k3g15w3k15db4r6k3ly1~x2/"><circle cx="124.0" cy="112.6" r="4" fill="#3465a4"><title>Allison</title></circle></a><a href="/setts/s11/db6k2n2db8k18lo2g20db8n3k10lb6~x2/"><circle cx="97.5" cy="156.5" r="4" fill="#3465a4"><title>Veere (District)</title></circle></a><a href="/setts/s9/db4k2db16k12w1g13r2g2lo4~x2/"><circle cx="129.8" cy="140.1" r="4" fill="#3465a4"><title>Cusack</title></circle></a><a href="/setts/s9/dg32lb3p3lb3dg2k20db17r3ly4~x2/"><circle cx="135.3" cy="107.8" r="4" fill="#3465a4"><title>Colorado (District)</title></circle></a><a href="/setts/s11/db2w2db21lo3db4r3db3m4g18b4w2~x2/"><circle cx="153.7" cy="114.6" r="4" fill="#3465a4"><title>Sons of Scotland (Corporate)</title></circle></a><a href="/setts/s8/r4y10k9dy2k9db33k7g4~x2/"><circle cx="162.5" cy="127.8" r="4" fill="#3465a4"><title>Anne Arundel County</title></circle></a><a href="/setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/"><circle cx="171.7" cy="141.0" r="4" fill="#3465a4"><title>Stinson, Ancient</title></circle></a><a href="/setts/s8/k3db3g15db15dp5o3y2dp1~x2/"><circle cx="102.5" cy="127.3" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/setts/s13/db8k2db3k12dp3w1dp3k16g3w2r1w2g8~x2/"><circle cx="166.9" cy="118.9" r="4" fill="#3465a4"><title>MacKusick</title></circle></a><circle cx="107.0" cy="126.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/w2db3t3db13k13db4r2db4g12lp3r1~x2/

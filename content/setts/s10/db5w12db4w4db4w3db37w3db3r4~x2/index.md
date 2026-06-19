@@ -2,12 +2,19 @@
 title: "Unidentified #26"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBWBWBR](/stripes/bwbwbwbwbr/) · **Stripes:** [DB W DB W DB W DB W DB R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB W DB W DB W DB W DB R</span></span>
+**Bands:** [RBWBWBWBWB](/stripes/rbwbwbwbwb/) · **Stripes:** [R DB W DB W DB W DB W DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB W DB W DB W DB W DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4227
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified
+- Unidentified #26
 
 ## Attestations
 
@@ -319,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,8 +920,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [University of North Carolina at Greensboro, The](/setts/s9/db96ly11db8ly11db16ly6w4ly16w8/) — ΔT 1.22
-1. [Scottish Qualifications Authority](/setts/s12/db36lo5db8lb3db8lb10db3lb10db8lb3db8lo5~x2/) — ΔT 1.25
-1. [Traynor](/setts/s10/lb2db18lb3db4lb3db4lb30db3lb2ly2~x2/) — ΔT 1.30
+1. [Scottish Qualifications Authority](/setts/s12/db36lo5db8lb3db8lb10db3~x2/) — ΔT 1.25
+1. [Traynor](/setts/s10/ly2lb2db3lb30db4lb3db4lb3db18lb2~x2/) — ΔT 1.30
 1. [Antigonish](/setts/s8/t4db1t4db24w6db4w1db2~x4/) — ΔT 1.35
 1. [Majewski-White (Personal)](/setts/s14/dt5lb7dt4lb2dt2lb3dt4dp6dt3dp6dt34lb2dt4lb2~x2/) — ΔT 1.41
 1. [California Riverside, University of (Corporate)](/setts/s10/db42k6db3k3db3w5db17w7lo10k3~x2/) — ΔT 1.41
@@ -922,8 +932,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db96ly11db8ly11db16ly6w4ly16w8/"><circle cx="425.8" cy="130.0" r="4" fill="#3465a4"><title>University of North Carolina at Greensboro, The</title></circle></a><a href="/setts/s12/db36lo5db8lb3db8lb10db3lb10db8lb3db8lo5~x2/"><circle cx="365.1" cy="174.7" r="4" fill="#3465a4"><title>Scottish Qualifications Authority</title></circle></a><a href="/setts/s10/lb2db18lb3db4lb3db4lb30db3lb2ly2~x2/"><circle cx="346.4" cy="149.9" r="4" fill="#3465a4"><title>Traynor</title></circle></a><a href="/setts/s8/t4db1t4db24w6db4w1db2~x4/"><circle cx="417.0" cy="151.1" r="4" fill="#3465a4"><title>Antigonish</title></circle></a><a href="/setts/s14/dt5lb7dt4lb2dt2lb3dt4dp6dt3dp6dt34lb2dt4lb2~x2/"><circle cx="403.7" cy="142.2" r="4" fill="#3465a4"><title>Majewski-White (Personal)</title></circle></a><a href="/setts/s10/db42k6db3k3db3w5db17w7lo10k3~x2/"><circle cx="352.9" cy="148.5" r="4" fill="#3465a4"><title>California Riverside, University of (Corporate)</title></circle></a><a href="/setts/s10/db16w2db2w1db1w1db2w2db16w8~x4/"><circle cx="451.7" cy="175.4" r="4" fill="#3465a4"><title>Ikelman (Personal)</title></circle></a><a href="/setts/s7/w6db2w3db2g2db20r1~x2/"><circle cx="377.2" cy="139.0" r="4" fill="#3465a4"><title>Gonzaga University’s True Blue and White</title></circle></a><a href="/setts/s12/w24db12w1db2w2db2w1db12dt3db4dt3db20~x2/"><circle cx="344.0" cy="130.3" r="4" fill="#3465a4"><title>Costa, David (Personal)</title></circle></a><a href="/setts/s6/w8db16w2db2w1db1~x4/"><circle cx="398.8" cy="191.0" r="4" fill="#3465a4"><title>Ikelman #1 (Personal)</title></circle></a><circle cx="395.2" cy="157.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db96ly11db8ly11db16ly6w4ly16w8/"><circle cx="425.5" cy="129.7" r="4" fill="#3465a4"><title>University of North Carolina at Greensboro, The</title></circle></a><a href="/setts/s12/db36lo5db8lb3db8lb10db3~x2/"><circle cx="364.9" cy="174.4" r="4" fill="#3465a4"><title>Scottish Qualifications Authority</title></circle></a><a href="/setts/s10/ly2lb2db3lb30db4lb3db4lb3db18lb2~x2/"><circle cx="346.1" cy="149.6" r="4" fill="#3465a4"><title>Traynor</title></circle></a><a href="/setts/s8/t4db1t4db24w6db4w1db2~x4/"><circle cx="416.7" cy="150.8" r="4" fill="#3465a4"><title>Antigonish</title></circle></a><a href="/setts/s14/dt5lb7dt4lb2dt2lb3dt4dp6dt3dp6dt34lb2dt4lb2~x2/"><circle cx="403.5" cy="142.0" r="4" fill="#3465a4"><title>Majewski-White (Personal)</title></circle></a><a href="/setts/s10/db42k6db3k3db3w5db17w7lo10k3~x2/"><circle cx="352.7" cy="148.3" r="4" fill="#3465a4"><title>California Riverside, University of (Corporate)</title></circle></a><a href="/setts/s10/db16w2db2w1db1w1db2w2db16w8~x4/"><circle cx="451.4" cy="175.0" r="4" fill="#3465a4"><title>Ikelman (Personal)</title></circle></a><a href="/setts/s7/w6db2w3db2g2db20r1~x2/"><circle cx="377.0" cy="138.7" r="4" fill="#3465a4"><title>Gonzaga University’s True Blue and White</title></circle></a><a href="/setts/s12/w24db12w1db2w2db2w1db12dt3db4dt3db20~x2/"><circle cx="343.7" cy="130.0" r="4" fill="#3465a4"><title>Costa, David (Personal)</title></circle></a><a href="/setts/s6/w8db16w2db2w1db1~x4/"><circle cx="398.5" cy="190.5" r="4" fill="#3465a4"><title>Ikelman #1 (Personal)</title></circle></a><circle cx="394.8" cy="157.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db5w12db4w4db4w3db37w3db3r4~x2/

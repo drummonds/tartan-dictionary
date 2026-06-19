@@ -2,7 +2,7 @@
 title: "West Lothian/Linlithgowshire"
 date: 2023-03-18
 ---
-**Bands:** [GBGRGKGKG](/stripes/gbgrgkgkg/) · **Stripes:** [G T G M G K G K G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G T G M G K G K G</span></span>
+**Bands:** [GKGKGRGBG](/stripes/gkgkgrgbg/) · **Stripes:** [G K G K G M G T G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K G K G M G T G</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/3 B9 G64 DR14 Ga4 K8 Ga4 K8 Ga/40
+Ga/40 K8 Ga4 K8 Ga4 DR14 G64 B9 G/3
 ![Sett](sett.png)
 
 ## Palette
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg70ly6o28g56o5g11o5g11lo12/"><circle cx="203.4" cy="161.4" r="4" fill="#3465a4"><title>Dalwhinnie Trade Tartan Tartan Number: 1018. Earliest known date: 1982 Reconstructed and woven by Don Rankin from illustration. Sample in STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/db6g24k1w2k1g24g24w3k1w3~x2/"><circle cx="295.8" cy="132.6" r="4" fill="#3465a4"><title>Montgomery, Stuart (Personal)</title></circle></a><a href="/setts/s9/dg70ly6y28g56y5g11y5g11lo12/"><circle cx="206.7" cy="164.2" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/setts/s8/g4r3g24k1w7k1g24ly3~x2/"><circle cx="219.3" cy="120.7" r="4" fill="#3465a4"><title>Layton, Mervin</title></circle></a><a href="/setts/s8/w9dg2g2w3g18k2dg33lo2~x2/"><circle cx="270.5" cy="149.9" r="4" fill="#3465a4"><title>New World Irish (Fashion)</title></circle></a><a href="/setts/s7/m5dg27o2g25ly7dg3m3~x2/"><circle cx="202.8" cy="165.0" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/setts/s9/g16ly2g4ly2g5k14g28ly2g7~x2/"><circle cx="207.4" cy="171.6" r="4" fill="#3465a4"><title>Marie Curie Fields of Hope</title></circle></a><a href="/setts/s13/g24k1g2y2dg2w1dg12w1dg2w2dg2w1dg12~x2/"><circle cx="285.9" cy="110.2" r="4" fill="#3465a4"><title>Currie, of Balilone</title></circle></a><a href="/setts/s8/g18r1lb2k1lb2r1o6k2~x4/"><circle cx="290.0" cy="129.3" r="4" fill="#3465a4"><title>Humphries (Name)</title></circle></a><a href="/setts/s11/k1g3w3g15k1g3g2k1g1g1w1~x2/"><circle cx="283.3" cy="124.4" r="4" fill="#3465a4"><title>University of North Texas</title></circle></a><circle cx="231.5" cy="134.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg70ly6o28g56o5g11o5g11lo12/"><circle cx="203.3" cy="161.5" r="4" fill="#3465a4"><title>Dalwhinnie Trade Tartan Tartan Number: 1018. Earliest known date: 1982 Reconstructed and woven by Don Rankin from illustration. Sample in STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/db6g24k1w2k1g24g24w3k1w3~x2/"><circle cx="295.6" cy="132.6" r="4" fill="#3465a4"><title>Montgomery, Stuart (Personal)</title></circle></a><a href="/setts/s9/dg70ly6y28g56y5g11y5g11lo12/"><circle cx="206.6" cy="164.3" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/setts/s8/g4r3g24k1w7k1g24ly3~x2/"><circle cx="219.1" cy="120.7" r="4" fill="#3465a4"><title>Layton, Mervin</title></circle></a><a href="/setts/s8/w9dg2g2w3g18k2dg33lo2~x2/"><circle cx="270.3" cy="149.8" r="4" fill="#3465a4"><title>New World Irish (Fashion)</title></circle></a><a href="/setts/s7/m5dg27o2g25ly7dg3m3~x2/"><circle cx="202.7" cy="165.0" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/setts/s9/g16ly2g4ly2g5k14g28ly2g7~x2/"><circle cx="207.3" cy="171.4" r="4" fill="#3465a4"><title>Marie Curie Fields of Hope</title></circle></a><a href="/setts/s13/g24k1g2y2dg2w1dg12w1dg2w2dg2w1dg12~x2/"><circle cx="285.7" cy="110.2" r="4" fill="#3465a4"><title>Currie, of Balilone</title></circle></a><a href="/setts/s8/g18r1lb2k1lb2r1o6k2~x4/"><circle cx="289.8" cy="129.2" r="4" fill="#3465a4"><title>Humphries (Name)</title></circle></a><a href="/setts/s11/k1g3w3g15k1g3g2k1g1g1w1~x2/"><circle cx="283.1" cy="124.3" r="4" fill="#3465a4"><title>University of North Texas</title></circle></a><circle cx="231.3" cy="134.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/g40k8g4k8g4m14g64t9g3/

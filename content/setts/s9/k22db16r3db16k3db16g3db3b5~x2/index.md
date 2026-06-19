@@ -2,7 +2,7 @@
 title: "Jethart"
 date: 2023-03-18
 ---
-**Bands:** [BBGBKBRBK](/stripes/bbgbkbrbk/) · **Stripes:** [B DB G DB K DB R DB K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">B DB G DB K DB R DB K</span></span>
+**Bands:** [KBRBKBGBB](/stripes/kbrbkbgbb/) · **Stripes:** [K DB R DB K DB G DB B](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K DB R DB K DB G DB B</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/10 Ba6 G6 Ba32 DB6 Ba32 R6 Ba32 DB/44
+DB/44 Ba32 R6 Ba32 DB6 Ba32 G6 Ba6 B/10
 ![Sett](sett.png)
 
 ## Palette
@@ -908,7 +911,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Grainger (Name)](/setts/s7/db36r4db6g18db15k18w4~x2/) — ΔT 1.21
 1. [Lochranza](/setts/s9/db3n1db10g3r1k3db5n2lb1~x4/) — ΔT 1.23
 1. [Stone of Destiny](/setts/s9/db4ly2db17k2r4k2db3k11db3~x2/) — ΔT 1.27
-1. [MacIver of Strome (Personal)](/setts/s13/ly2db3r2db19k7db6k22db6k7db19r2db3w2~x2/) — ΔT 1.32
+1. [MacIver of Strome (Personal)](/setts/s13/w2db3r2db19k7db6k22db6k7db19r2db3ly2~x2/) — ΔT 1.32
 1. [Van Loo Tartan Tartan Number: 6717. Earliest known date: pre 2005 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/t5db30k25t5db30dp3t5~x2/) — ΔT 1.32
 1. [Pride of Norway (Fashion)](/setts/s13/k7db2k6db18r3db18k4db2db2db2w2db4k4~x2/) — ΔT 1.36
 1. [Jethart (District)](/setts/s9/k22b16r3b16k2b16g3b3lb5~x2/) — ΔT 1.39
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db10m3b4m3db7b3g7db17ly2~x2/"><circle cx="274.7" cy="203.8" r="4" fill="#3465a4"><title>Ayrshire Tourist Board</title></circle></a><a href="/setts/s12/db12b2dg10db16dg6db2dg2db2dg6m2db5w2~x2/"><circle cx="291.3" cy="210.5" r="4" fill="#3465a4"><title>Ayre Robinson (Personal)</title></circle></a><a href="/setts/s7/db36r4db6g18db15k18w4~x2/"><circle cx="263.9" cy="213.7" r="4" fill="#3465a4"><title>Grainger (Name)</title></circle></a><a href="/setts/s9/db3n1db10g3r1k3db5n2lb1~x4/"><circle cx="316.9" cy="190.7" r="4" fill="#3465a4"><title>Lochranza</title></circle></a><a href="/setts/s9/db4ly2db17k2r4k2db3k11db3~x2/"><circle cx="308.1" cy="207.1" r="4" fill="#3465a4"><title>Stone of Destiny</title></circle></a><a href="/setts/s13/ly2db3r2db19k7db6k22db6k7db19r2db3w2~x2/"><circle cx="314.0" cy="176.1" r="4" fill="#3465a4"><title>MacIver of Strome (Personal)</title></circle></a><a href="/setts/s7/t5db30k25t5db30dp3t5~x2/"><circle cx="349.1" cy="240.3" r="4" fill="#3465a4"><title>Van Loo Tartan Tartan Number: 6717. Earliest known date: pre 2005 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/k7db2k6db18r3db18k4db2db2db2w2db4k4~x2/"><circle cx="292.4" cy="184.3" r="4" fill="#3465a4"><title>Pride of Norway (Fashion)</title></circle></a><a href="/setts/s9/k22b16r3b16k2b16g3b3lb5~x2/"><circle cx="284.3" cy="187.0" r="4" fill="#3465a4"><title>Jethart (District)</title></circle></a><a href="/setts/s7/db30dp9g6dp9r4db17w5~x2/"><circle cx="282.2" cy="213.4" r="4" fill="#3465a4"><title>Woodcock (2014)</title></circle></a><circle cx="297.0" cy="221.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db10m3b4m3db7b3g7db17ly2~x2/"><circle cx="274.8" cy="203.7" r="4" fill="#3465a4"><title>Ayrshire Tourist Board</title></circle></a><a href="/setts/s12/db12b2dg10db16dg6db2dg2db2dg6m2db5w2~x2/"><circle cx="291.5" cy="210.5" r="4" fill="#3465a4"><title>Ayre Robinson (Personal)</title></circle></a><a href="/setts/s7/db36r4db6g18db15k18w4~x2/"><circle cx="264.0" cy="213.6" r="4" fill="#3465a4"><title>Grainger (Name)</title></circle></a><a href="/setts/s9/db3n1db10g3r1k3db5n2lb1~x4/"><circle cx="316.9" cy="190.7" r="4" fill="#3465a4"><title>Lochranza</title></circle></a><a href="/setts/s9/db4ly2db17k2r4k2db3k11db3~x2/"><circle cx="308.1" cy="207.0" r="4" fill="#3465a4"><title>Stone of Destiny</title></circle></a><a href="/setts/s13/w2db3r2db19k7db6k22db6k7db19r2db3ly2~x2/"><circle cx="314.1" cy="176.1" r="4" fill="#3465a4"><title>MacIver of Strome (Personal)</title></circle></a><a href="/setts/s7/t5db30k25t5db30dp3t5~x2/"><circle cx="349.2" cy="240.3" r="4" fill="#3465a4"><title>Van Loo Tartan Tartan Number: 6717. Earliest known date: pre 2005 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/k7db2k6db18r3db18k4db2db2db2w2db4k4~x2/"><circle cx="292.5" cy="184.3" r="4" fill="#3465a4"><title>Pride of Norway (Fashion)</title></circle></a><a href="/setts/s9/k22b16r3b16k2b16g3b3lb5~x2/"><circle cx="284.3" cy="186.9" r="4" fill="#3465a4"><title>Jethart (District)</title></circle></a><a href="/setts/s7/db30dp9g6dp9r4db17w5~x2/"><circle cx="282.2" cy="213.4" r="4" fill="#3465a4"><title>Woodcock (2014)</title></circle></a><circle cx="297.2" cy="221.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/k22db16r3db16k3db16g3db3b5~x2/

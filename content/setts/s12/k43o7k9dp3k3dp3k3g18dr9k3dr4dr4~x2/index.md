@@ -2,7 +2,7 @@
 title: "Braveheart -Warrior (hunting)"
 date: 2023-03-18
 ---
-**Bands:** [BBKBGKBKBKRK](/stripes/bbkbgkbkbkrk/) · **Stripes:** [DR DR K DR G K DP K DP K O K](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="seq">DR DR K DR G K DP K DP K O K</span></span>
+**Bands:** [KRKBKBKGBKBB](/stripes/krkbkbkgbkbb/) · **Stripes:** [K O K DP K DP K G DR K DR DR](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#55120C"></span><span class="seq">K O K DP K DP K G DR K DR DR</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DR/8 DRa8 K6 DRa18 G36 K6 DP6 K6 DP6 K18 LT14 K/86
+K/86 LT14 K18 DP6 K6 DP6 K6 G36 DRa18 K6 DRa8 DR/8
 ![Sett](sett.png)
 
 ## Palette
@@ -908,7 +911,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Braveheart - ( Warrior)](/setts/s12/k43b3k7dp3k2dp3k2g11r6k2r3w3~x2/) — ΔT 1.44
 1. [Stewart Black](/setts/s13/k58db5w5k10ly3k3w3k3g14r11k3r4w3~x2/) — ΔT 1.47
 1. [Braveheart Commemorative Tartan Tartan Number: 2185. Earliest known date: 1995 Braveheart tartan commemorates the making of the film by the same name, which tells the story of one of Scotland's greatest heros, William Wallace. Originally designed for Ronnie Watt. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/k30db3k4dp2k2dp2k2dg10r6k2r3w2~x2/) — ΔT 1.49
-1. [Fermanagh, County](/setts/s17/dg3k2dg2k2lo2k2lo2k13db4dg3db3dg3db3dg3db4k20dy3~x2/) — ΔT 1.57
+1. [Fermanagh, County](/setts/s17/dy3k20db4dg3db3dg3db3dg3db4k13lo2k2lo2k2dg2k2dg3~x2/) — ΔT 1.57
 1. [Derick Wardrope (Portobello) (Personal)](/setts/s9/dr3dg32k4dg4k11db3k7dr4w3/) — ΔT 1.58
 1. [Cornish Hunting](/setts/s12/k26ly2dg24db8k4r3k4db8dg24ly2k26w5~x2/) — ΔT 1.63
 1. [MacDonald, Sir John A](/setts/s11/r10k3dg2lb2k22db4k22r4dg4r14lb3~x2/) — ΔT 1.68
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dp4w2dp10k10dg3k3dg3k2dg24ly2dg2r4~x2/"><circle cx="205.3" cy="135.4" r="4" fill="#3465a4"><title>Kerby, from the Tennessee Cumberland Basin</title></circle></a><a href="/setts/s12/k43b3k7dp3k2dp3k2g11r6k2r3w3~x2/"><circle cx="334.0" cy="85.4" r="4" fill="#3465a4"><title>Braveheart - ( Warrior)</title></circle></a><a href="/setts/s13/k58db5w5k10ly3k3w3k3g14r11k3r4w3~x2/"><circle cx="302.9" cy="78.1" r="4" fill="#3465a4"><title>Stewart Black</title></circle></a><a href="/setts/s12/k30db3k4dp2k2dp2k2dg10r6k2r3w2~x2/"><circle cx="319.2" cy="116.5" r="4" fill="#3465a4"><title>Braveheart Commemorative Tartan Tartan Number: 2185. Earliest known date: 1995 Braveheart tartan commemorates the making of the film by the same name, which tells the story of one of Scotland's greatest heros, William Wallace. Originally designed for Ronnie Watt. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/dg3k2dg2k2lo2k2lo2k13db4dg3db3dg3db3dg3db4k20dy3~x2/"><circle cx="249.8" cy="151.2" r="4" fill="#3465a4"><title>Fermanagh, County</title></circle></a><a href="/setts/s9/dr3dg32k4dg4k11db3k7dr4w3/"><circle cx="257.4" cy="167.1" r="4" fill="#3465a4"><title>Derick Wardrope (Portobello) (Personal)</title></circle></a><a href="/setts/s12/k26ly2dg24db8k4r3k4db8dg24ly2k26w5~x2/"><circle cx="178.2" cy="144.7" r="4" fill="#3465a4"><title>Cornish Hunting</title></circle></a><a href="/setts/s11/r10k3dg2lb2k22db4k22r4dg4r14lb3~x2/"><circle cx="244.1" cy="158.9" r="4" fill="#3465a4"><title>MacDonald, Sir John A</title></circle></a><a href="/setts/s11/ly4k5b2k30k1k4k4k1k15r6w3~x2/"><circle cx="275.9" cy="93.4" r="4" fill="#3465a4"><title>Correctional Service Canada</title></circle></a><a href="/setts/s11/r10k3g2lb2k22db4k22r4g4r14lb3~x2/"><circle cx="240.7" cy="157.2" r="4" fill="#3465a4"><title>York Region Pipe Band</title></circle></a><circle cx="269.0" cy="122.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dp4w2dp10k10dg3k3dg3k2dg24ly2dg2r4~x2/"><circle cx="205.4" cy="135.5" r="4" fill="#3465a4"><title>Kerby, from the Tennessee Cumberland Basin</title></circle></a><a href="/setts/s12/k43b3k7dp3k2dp3k2g11r6k2r3w3~x2/"><circle cx="334.1" cy="85.4" r="4" fill="#3465a4"><title>Braveheart - ( Warrior)</title></circle></a><a href="/setts/s13/k58db5w5k10ly3k3w3k3g14r11k3r4w3~x2/"><circle cx="302.8" cy="78.1" r="4" fill="#3465a4"><title>Stewart Black</title></circle></a><a href="/setts/s12/k30db3k4dp2k2dp2k2dg10r6k2r3w2~x2/"><circle cx="319.2" cy="116.5" r="4" fill="#3465a4"><title>Braveheart Commemorative Tartan Tartan Number: 2185. Earliest known date: 1995 Braveheart tartan commemorates the making of the film by the same name, which tells the story of one of Scotland's greatest heros, William Wallace. Originally designed for Ronnie Watt. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/dy3k20db4dg3db3dg3db3dg3db4k13lo2k2lo2k2dg2k2dg3~x2/"><circle cx="249.9" cy="151.2" r="4" fill="#3465a4"><title>Fermanagh, County</title></circle></a><a href="/setts/s9/dr3dg32k4dg4k11db3k7dr4w3/"><circle cx="257.5" cy="167.1" r="4" fill="#3465a4"><title>Derick Wardrope (Portobello) (Personal)</title></circle></a><a href="/setts/s12/k26ly2dg24db8k4r3k4db8dg24ly2k26w5~x2/"><circle cx="178.4" cy="144.8" r="4" fill="#3465a4"><title>Cornish Hunting</title></circle></a><a href="/setts/s11/r10k3dg2lb2k22db4k22r4dg4r14lb3~x2/"><circle cx="244.2" cy="158.8" r="4" fill="#3465a4"><title>MacDonald, Sir John A</title></circle></a><a href="/setts/s11/ly4k5b2k30k1k4k4k1k15r6w3~x2/"><circle cx="275.9" cy="93.4" r="4" fill="#3465a4"><title>Correctional Service Canada</title></circle></a><a href="/setts/s11/r10k3g2lb2k22db4k22r4g4r14lb3~x2/"><circle cx="240.8" cy="157.1" r="4" fill="#3465a4"><title>York Region Pipe Band</title></circle></a><circle cx="269.1" cy="122.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/k43o7k9dp3k3dp3k3g18dr9k3dr4dr4~x2/

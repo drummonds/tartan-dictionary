@@ -2,7 +2,7 @@
 title: "Montreal"
 date: 2023-03-18
 ---
-**Bands:** [GYGYGRGRGY](/stripes/gygygrgrgy/) · **Stripes:** [G LO G LO G R G R G LO](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">G LO G LO G R G R G LO</span></span>
+**Bands:** [YGRGRGYGYG](/stripes/ygrgrgygyg/) · **Stripes:** [LO G R G R G LO G LO G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO G R G R G LO G LO G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6259
 
 ## Thread count
-G/86 LT4 G6 LT4 G12 R4 G2 R4 G20 LT/156
+LT/156 G20 R4 G2 R4 G12 LT4 G6 LT4 G/86
 ![Sett](sett.png)
 
 ## Palette
@@ -44,17 +44,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Ridgeback (Corporate)](/setts/s12/g74o6g3o24k1g9o12db2g2db2g2db2~x2/) — ΔT 1.53
 1. [Seton, hunting](/setts/s10/g6w1g12o4r4o2r4o32g1o2~x2/) — ΔT 1.72
 1. [Seton Hunting Family Tartan Tartan Number: 938. Earliest known date: pre 1930 Based on Vestiarium Scoticum - D.C.S. James Cant was a noted authority on tartans around 1930. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/g6w1g12dy4r4dy2r4dy32g1dy2~x2/) — ΔT 2.06
-1. [Orvis Sports Company (Corporate)](/setts/s10/y36dg4k1y2k1dg4k4dg60r4dg4/) — ΔT 2.15
-1. [Connacht](/setts/s10/lo64g4o1g4o1g4o64dr2o2dr8/) — ΔT 2.25
+1. [Orvis Sports Company (Corporate)](/setts/s10/y36dg4k1y2k1dg4k4dg60r4dg4~x2/) — ΔT 2.15
+1. [Connacht](/setts/s10/lo64g4o1g4o1g4o64dr2o2dr8~x2/) — ΔT 2.25
 1. [Prince David](/setts/s15/lo4g1o21g18o2g3o2g18o21lo2g1g3lo2g1g3~x2/) — ΔT 2.33
 1. [Smith Hunting (Name)](/setts/s10/lo60w1r15w1lo9r15w1y9w1r15~x2/) — ΔT 2.34
 1. [Kelly Dress](/setts/s12/y68dy4g9lr2g3w3g3dy12y6g3y3w3~x2/) — ΔT 2.38
-1. [Unidentified #62](/setts/s10/r32lo1g8lo1g8lo1g8lo1g8lo1~x2/) — ΔT 2.38
+1. [Unidentified #62](/setts/s10/r32lo1g8lo1g8lo1~x2/) — ΔT 2.38
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r1o3g2o3r1g24r1o3g2o3r1~x2/"><circle cx="508.9" cy="174.5" r="4" fill="#3465a4"><title>Unnamed Green (Teddy Bear)</title></circle></a><a href="/setts/s12/g74o6g3o24k1g9o12db2g2db2g2db2~x2/"><circle cx="541.1" cy="129.3" r="4" fill="#3465a4"><title>Ridgeback (Corporate)</title></circle></a><a href="/setts/s10/g6w1g12o4r4o2r4o32g1o2~x2/"><circle cx="464.8" cy="157.6" r="4" fill="#3465a4"><title>Seton, hunting</title></circle></a><a href="/setts/s10/g6w1g12dy4r4dy2r4dy32g1dy2~x2/"><circle cx="473.5" cy="165.8" r="4" fill="#3465a4"><title>Seton Hunting Family Tartan Tartan Number: 938. Earliest known date: pre 1930 Based on Vestiarium Scoticum - D.C.S. James Cant was a noted authority on tartans around 1930. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/y36dg4k1y2k1dg4k4dg60r4dg4/"><circle cx="471.5" cy="124.4" r="4" fill="#3465a4"><title>Orvis Sports Company (Corporate)</title></circle></a><a href="/setts/s10/lo64g4o1g4o1g4o64dr2o2dr8/"><circle cx="409.7" cy="111.0" r="4" fill="#3465a4"><title>Connacht</title></circle></a><a href="/setts/s15/lo4g1o21g18o2g3o2g18o21lo2g1g3lo2g1g3~x2/"><circle cx="364.7" cy="166.0" r="4" fill="#3465a4"><title>Prince David</title></circle></a><a href="/setts/s10/lo60w1r15w1lo9r15w1y9w1r15~x2/"><circle cx="462.5" cy="127.8" r="4" fill="#3465a4"><title>Smith Hunting (Name)</title></circle></a><a href="/setts/s12/y68dy4g9lr2g3w3g3dy12y6g3y3w3~x2/"><circle cx="462.2" cy="100.1" r="4" fill="#3465a4"><title>Kelly Dress</title></circle></a><a href="/setts/s10/r32lo1g8lo1g8lo1g8lo1g8lo1~x2/"><circle cx="399.7" cy="150.3" r="4" fill="#3465a4"><title>Unidentified #62</title></circle></a><circle cx="503.5" cy="141.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r1o3g2o3r1g24r1o3g2o3r1~x2/"><circle cx="508.4" cy="174.5" r="4" fill="#3465a4"><title>Unnamed Green (Teddy Bear)</title></circle></a><a href="/setts/s12/g74o6g3o24k1g9o12db2g2db2g2db2~x2/"><circle cx="540.6" cy="129.3" r="4" fill="#3465a4"><title>Ridgeback (Corporate)</title></circle></a><a href="/setts/s10/g6w1g12o4r4o2r4o32g1o2~x2/"><circle cx="464.4" cy="157.6" r="4" fill="#3465a4"><title>Seton, hunting</title></circle></a><a href="/setts/s10/g6w1g12dy4r4dy2r4dy32g1dy2~x2/"><circle cx="473.1" cy="165.9" r="4" fill="#3465a4"><title>Seton Hunting Family Tartan Tartan Number: 938. Earliest known date: pre 1930 Based on Vestiarium Scoticum - D.C.S. James Cant was a noted authority on tartans around 1930. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/y36dg4k1y2k1dg4k4dg60r4dg4~x2/"><circle cx="471.2" cy="124.3" r="4" fill="#3465a4"><title>Orvis Sports Company (Corporate)</title></circle></a><a href="/setts/s10/lo64g4o1g4o1g4o64dr2o2dr8~x2/"><circle cx="409.2" cy="111.1" r="4" fill="#3465a4"><title>Connacht</title></circle></a><a href="/setts/s15/lo4g1o21g18o2g3o2g18o21lo2g1g3lo2g1g3~x2/"><circle cx="364.3" cy="166.1" r="4" fill="#3465a4"><title>Prince David</title></circle></a><a href="/setts/s10/lo60w1r15w1lo9r15w1y9w1r15~x2/"><circle cx="461.8" cy="127.9" r="4" fill="#3465a4"><title>Smith Hunting (Name)</title></circle></a><a href="/setts/s12/y68dy4g9lr2g3w3g3dy12y6g3y3w3~x2/"><circle cx="461.7" cy="100.1" r="4" fill="#3465a4"><title>Kelly Dress</title></circle></a><a href="/setts/s10/r32lo1g8lo1g8lo1~x2/"><circle cx="399.3" cy="150.2" r="4" fill="#3465a4"><title>Unidentified #62</title></circle></a><circle cx="503.0" cy="141.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/lo78g10r2g1r2g6lo2g3lo2g43~x2/

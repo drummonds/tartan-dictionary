@@ -1,8 +1,8 @@
 ---
-title: "Lumsden of Clova"
+title: "Lumsden, of Clova"
 date: 2023-03-18
 ---
-A family of [Clan Lumsden](/clan/lumsden/).
+A family of [Clan Lumsden,](/clan/lumsden/).
 
 **Trove of Scotland:** [search “Clova”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Clova&viewmode=grid)
 

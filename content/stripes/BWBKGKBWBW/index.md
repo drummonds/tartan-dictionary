@@ -22,6 +22,6 @@ BWBKGKBWBW
 
 | Tartans |
 |---------------|
-| [MacGregor Dress Blue Fancy Tartan Tartan Number: 6540. Earliest known date: 1975 A dancers tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/w52db22w6db8k1g3k1db8w6db22~x2/)|
-|![MacGregor Dress Blue Fancy Tartan Tartan Number: 6540. Earliest known date: 1975 A dancers tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/w52db22w6db8k1g3k1db8w6db22~x2/sett.png)|
+| [MacGregor Dress Blue Fancy Tartan Tartan Number: 6540. Earliest known date: 1975 A dancers tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/w52db22w6db8k1g3~x2/)|
+|![MacGregor Dress Blue Fancy Tartan Tartan Number: 6540. Earliest known date: 1975 A dancers tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/w52db22w6db8k1g3~x2/sett.png)|
 

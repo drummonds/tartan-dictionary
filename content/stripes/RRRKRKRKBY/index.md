@@ -22,6 +22,6 @@ RRRKRKRKBY
 
 | Tartans |
 |---------------|
-| [Brady 60th (Personal)](/setts/s10/ly1db9k1o1k1o1k3o7r1o1~x4/)|
-|![Brady 60th (Personal) example sett](/setts/s10/ly1db9k1o1k1o1k3o7r1o1~x4/sett.png)|
+| [Brady 60th (Personal)](/setts/s10/o1r1o7k3o1k1o1k1db9ly1~x4/)|
+|![Brady 60th (Personal) example sett](/setts/s10/o1r1o7k3o1k1o1k1db9ly1~x4/sett.png)|
 

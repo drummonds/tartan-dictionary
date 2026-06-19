@@ -3,7 +3,7 @@ title: "Families & clans — C"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-116 clans and families beginning with C. [Back to the A–Z](/families/).
+123 clans and families beginning with C. [Back to the A–Z](/families/).
 
 ## Ca
 
@@ -11,11 +11,14 @@ background: /bg/clans.png
 - [Caie](/setts/s7/k1dg8w1k8w1db8r1~x4/)
 - [Cairns](/clan/cairns/) — clan
 - [Cairns of Finavon](/families/cairns-of-finavon/)
-- [Callaghan](/setts/s7/k5ly1k8dg8k41o1k5~x2/)
+- [Callaghan](/setts/s7/k5o1k41dg8k8ly1k5~x2/)
+- [Callaway](/setts/s9/r4b12db36w4db4b16w3db6b3~x2/)
+- [Callum](/setts/s5/n7r1dt6r8lr1~x8/)
 - [Cameron](/clan/cameron/) — clan
 - [Cameron of Erracht](/families/cameron-of-erracht/)
 - [Cameron of Locheil](/families/cameron-of-locheil/)
 - [Cameron of Lochiel](/families/cameron-of-lochiel/)
+- [Cameron of Lochiel -1820](/families/cameron-of-lochiel-1820/)
 - [Cameron of Lochiel Clan/Family](/families/cameron-of-lochiel-clan-family/)
 - [Campbell](/clan/campbell/) — clan
 - [Campbell of Argyll](/families/campbell-of-argyll/)
@@ -23,13 +26,13 @@ background: /bg/clans.png
 - [Campbell of Breadalbane](/families/campbell-of-breadalbane/)
 - [Campbell of Cawdor](/families/campbell-of-cawdor/)
 - [Campbell of Glenlyon](/families/campbell-of-glenlyon/)
-- [Campbell of Loch Awe](/families/campbell-of-loch-awe/)
 - [Campbell of Loch Neil](/families/campbell-of-loch-neil/)
+- [Campbell of Lochawe](/families/campbell-of-lochawe/)
 - [Campbell of Lochlane](/families/campbell-of-lochlane/)
 - [Campbell of Loudon](/families/campbell-of-loudon/)
 - [Campbell of Loudoun](/families/campbell-of-loudoun/)
-- [Campbell of Loudoun Plaid](/families/campbell-of-loudoun-plaid/)
-- [Carlisle Family](/setts/s7/b33lo6r3lo6k3lo15b32~x4/)
+- [Campbell of Loudoun, Plaid](/families/campbell-of-loudoun-plaid/)
+- [Carlisle](/setts/s12/b33lo6r3lo6k3lo15b32~x4/)
 - [Carnegie](/clan/carnegie/) — clan
 - [Carnegie of Skibo](/families/carnegie-of-skibo/)
 - [Carson](/clan/carson/) — clan
@@ -40,12 +43,12 @@ background: /bg/clans.png
 - [Casely of Mannerston](/families/casely-of-mannerston/)
 - [Casey](/clan/casey/) — clan
 - [Casey of West Virginia](/families/casey-of-west-virginia/)
-- [Caskie](/setts/s7/ly3k1g12r7t25k1w3~x2/)
+- [Caskie](/setts/s7/w3k1t25r7g12k1ly3~x2/)
 - [Castellari](/clan/castellari/) — clan
 - [Castellari of Lochaber Lairds (Pers](/families/castellari-of-lochaber-lairds-pers/)
 - [Cates Dress](/setts/s12/ly2w1r2k20r9k20ly7n20k5ly1k1r1~x2/)
 - [Cates Hunting](/setts/s9/dg23r7dg25ly5dg17k5ly1w1r1~x2/)
-- [Cathro](/setts/s5/dp9db6w1dg4dp2~x4/)
+- [Cathro](/setts/s5/p9b6w1g4p2~x8/)
 - [Cawte](/clan/cawte/) — clan
 - [Cawte of Middlebanknock](/families/cawte-of-middlebanknock/)
 
@@ -58,7 +61,7 @@ background: /bg/clans.png
 - [Ch. Supt. Everett and Mrs Julene Summerfield Dress](/setts/s7/r9w25k7w45lt60g4ly5/)
 - [Chafee](/clan/chafee/) — clan
 - [Chafee of Glenmary](/families/chafee-of-glenmary/)
-- [Chan](/setts/s8/ly2k1dt30k13dg13r2dg13r2~x2/)
+- [Chan](/setts/s8/r2dg13r2dg13k13dt30k1ly2~x2/)
 - [Chaudhri](/setts/s8/dp13r8lb5dg24lb5r10lb5r10~x2/)
 - [Chaudhri, Zafar Iqbal](/setts/s8/dp13n8w5dg24w5n10w5n10~x2/)
 - [Cheape](/clan/cheape/) — clan
@@ -68,7 +71,7 @@ background: /bg/clans.png
 - [Chindecella Ruadh](/setts/s8/dr9do4dr4do4dr24dy19do19dy4~x2/)
 - [Chisholm](/clan/chisholm/) — clan
 - [Chisholm of Strathglass](/families/chisholm-of-strathglass/)
-- [Choinka Family](/setts/s11/dg4k2n3k2dg20k9k7k2ly3k2k4~x2/)
+- [Choinka Family](/setts/s11/k4k2ly3k2k7k9dg20k2n3k2dg4~x2/)
 - [Christie](/setts/s5/b16r1k16w1r1~x4/)
 - [Christie Hunting](/setts/s6/dt60lr11o5n5k1o4~x2/)
 
@@ -87,8 +90,10 @@ background: /bg/clans.png
 - [Claus of the North Pole](/families/claus-of-the-north-pole/)
 - [Clauweart](/setts/s17/db4lo2db4n6w2k2n6w2k2n13o3k4o3k8db6w2r4~x2/)
 - [Cleland](/setts/s5/k2n36g12w3r2~x2/)
+- [Clergy](/setts/s17/w2k10w2o8w1k52w2k20o10k4o10k20w2o8w2k10w1~x2/)
 - [Clerke](/clan/clerke/) — clan
 - [Clerke of Ulva](/families/clerke-of-ulva/)
+- [Clunie](/setts/s6/w6db24k7o11k2ly6~x2/)
 
 ## Co
 
@@ -97,6 +102,7 @@ background: /bg/clans.png
 - [Cochrane of Dundonald](/families/cochrane-of-dundonald/)
 - [Cockburn](/clan/cockburn/) — clan
 - [Cockburn of Ormiston](/families/cockburn-of-ormiston/)
+- [Colquhoun](/setts/s13/db2k2db12k18w1g14r2g14w3k18db12k2db1~x4/)
 - [Columba](/clan/columba/) — clan
 - [Columba of Iona](/families/columba-of-iona/)
 - [Colvin](/setts/s8/db36lb4db4lb4db16dg64r9db6~x2/)
@@ -111,7 +117,7 @@ background: /bg/clans.png
 - [Cornish Pascoe, The](/setts/s17/w2k32lr5dt3lr2dt3lr2dt3lr1dt6ly3k2ly1k3ly2k2w1~x2/)
 - [Couper](/clan/couper/) — clan
 - [Couper of Gogar](/families/couper-of-gogar/)
-- [Coutts 75th](/setts/s40/b12k1b1k1b1k1b1k1lg4k1r4k1lg4b12k1b1k1b1k1b1k12g12k1g1k1g1k1g1k1lg4ly4lg4g12k1g1k1g1k1g1k12~x2/)
+- [Coutts 75th](/setts/s40/k12g1k1g1k1g1k1g12lb4ly4lb4k1g1k1g1k1g1db1g12k12db1k1db1k1db1k1db12lb4k1r4k1lb4k1db1k1db1k1db1k1db12~x2/)
 - [Coutts 80th](/setts/s44/db11k1db1k1db1k1db1k11dg11k1dg1k1dg1k1dg1k1w4ly4w4dg11k1dg1k1dg1k1dg1k11db11k1db1k1db1k1db1k1w4k1r4k1w22k1r4k1w4~x2/)
 - [Cowan](/clan/cowan/) — clan
 - [Cowan of Inveresk](/families/cowan-of-inveresk/)
@@ -123,8 +129,9 @@ background: /bg/clans.png
 - [Crane](/clan/crane/) — clan
 - [Crane of Clunie](/families/crane-of-clunie/)
 - [Crane of Cluny](/families/crane-of-cluny/)
+- [Crane of Cluny Htg](/families/crane-of-cluny-htg/)
 - [Craparo](/setts/s9/r3w6ly4k25w3n30o30w3k2~x2/)
-- [Cribb](/setts/s16/lr2dg4n2dg12dp10m1dp10lr2m2lr2m2lr2m2lr12n1w2~x2/)
+- [Cribb](/setts/s16/w2n1lr12m2lr2m2lr2m2lr2dp10m1dp10dg12n2dg4lr2~x2/)
 - [Crook](/setts/s9/k4m14b2y16m3k3m3b12y4~x2/)
 - [Crow](/setts/s8/g2db2g6db4g3db4g18ly2~x4/)
 - [Crumlish](/setts/s9/k44ly2dg27ly2dg16w8dg16w2dg8~x2/)

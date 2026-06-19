@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LT/4 LN8 R4 LN10 N18 LT4 N4 Ra4 N4 Ra12 B4 Ra/52
+Ra/52 B4 Ra12 N4 Ra4 N4 LT4 N18 LN10 R4 LN8 LT/4
 ![Sett](sett.png)
 
 ## Palette
@@ -905,20 +908,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Rathmore Family Tartan Tartan Number: 1518. Earliest known date: 1987 Sett recorded in 1822 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/r26t2r6o2r2o2lo2o9w5r2w4lo2~x2/) — ΔT 0.19
-1. [Virginia Military Institute, New Market](/setts/s9/ly6r30o2k3o30g3o2r25w6~x2/) — ΔT 1.02
-1. [Virginia Military Institute, New Market](/setts/s9/ly6r30y2k3y30g3y2r25w6~x2/) — ΔT 1.15
+1. [Virginia Military Institute, New Market](/setts/s9/w6r25o2g3o30k3o2r30ly6~x2/) — ΔT 1.02
+1. [Virginia Military Institute, New Market](/setts/s9/w6r25y2g3y30k3y2r30ly6~x2/) — ΔT 1.15
 1. [Rathmore](/setts/s12/r10lb1r2n1r1n1lo1n4lb2r1lb2lo1~x8/) — ΔT 1.21
 1. [Hello Kitty](/setts/s10/k2lr3r3lr21ly3lr2r6g6r4w2~x2/) — ΔT 1.26
 1. [Hello Kitty (Corporate)](/setts/s10/do2r3r3r21ly3r2r6g6r4lb2~x2/) — ΔT 1.27
 1. [MacArthur-Fox Dress](/setts/s11/lb4k2db3r33dg9ly3r5db10r6dg2k2~x2/) — ΔT 1.31
-1. [Flowers of the Forest, The](/setts/s9/o2r4r2db5lg3y13r20do2r2~x2/) — ΔT 1.34
+1. [Flowers of the Forest, The](/setts/s9/r2do2r20y13lg3db5r2r4o2~x2/) — ΔT 1.34
 1. [Manx Laxey, Red](/setts/s9/r24ly2y3o2w10r4y3o3w2~x2/) — ΔT 1.35
 1. [Perthshire or Drummond District Tartan Tartan Number: 1670. Earliest known date: c.1819 Perthshire is known as the gateway to the Highlands. The Perthshire tartan is similar to a the Drummond sett, the tartan of a Drummond clan who had extensive lands in the district. The first record of this tartan is in the early nineteenth century account book of Wilson's of Bannockburn where it is referred to as the 'Perthshire Rock and Wheel' being an early type of soft tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/r41w2dp5ly2g21r9dp5db3w2~x2/) — ΔT 1.41
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r26t2r6o2r2o2lo2o9w5r2w4lo2~x2/"><circle cx="287.8" cy="102.1" r="4" fill="#3465a4"><title>Rathmore Family Tartan Tartan Number: 1518. Earliest known date: 1987 Sett recorded in 1822 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/ly6r30o2k3o30g3o2r25w6~x2/"><circle cx="282.6" cy="125.2" r="4" fill="#3465a4"><title>Virginia Military Institute, New Market</title></circle></a><a href="/setts/s9/ly6r30y2k3y30g3y2r25w6~x2/"><circle cx="274.6" cy="122.7" r="4" fill="#3465a4"><title>Virginia Military Institute, New Market</title></circle></a><a href="/setts/s12/r10lb1r2n1r1n1lo1n4lb2r1lb2lo1~x8/"><circle cx="231.1" cy="122.4" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><a href="/setts/s10/k2lr3r3lr21ly3lr2r6g6r4w2~x2/"><circle cx="234.1" cy="112.9" r="4" fill="#3465a4"><title>Hello Kitty</title></circle></a><a href="/setts/s10/do2r3r3r21ly3r2r6g6r4lb2~x2/"><circle cx="273.3" cy="132.1" r="4" fill="#3465a4"><title>Hello Kitty (Corporate)</title></circle></a><a href="/setts/s11/lb4k2db3r33dg9ly3r5db10r6dg2k2~x2/"><circle cx="289.1" cy="94.6" r="4" fill="#3465a4"><title>MacArthur-Fox Dress</title></circle></a><a href="/setts/s9/o2r4r2db5lg3y13r20do2r2~x2/"><circle cx="291.4" cy="153.7" r="4" fill="#3465a4"><title>Flowers of the Forest, The</title></circle></a><a href="/setts/s9/r24ly2y3o2w10r4y3o3w2~x2/"><circle cx="282.3" cy="125.2" r="4" fill="#3465a4"><title>Manx Laxey, Red</title></circle></a><a href="/setts/s9/r41w2dp5ly2g21r9dp5db3w2~x2/"><circle cx="316.5" cy="97.2" r="4" fill="#3465a4"><title>Perthshire or Drummond District Tartan Tartan Number: 1670. Earliest known date: c.1819 Perthshire is known as the gateway to the Highlands. The Perthshire tartan is similar to a the Drummond sett, the tartan of a Drummond clan who had extensive lands in the district. The first record of this tartan is in the early nineteenth century account book of Wilson's of Bannockburn where it is referred to as the 'Perthshire Rock and Wheel' being an early type of soft tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="289.6" cy="103.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r26t2r6o2r2o2lo2o9w5r2w4lo2~x2/"><circle cx="287.3" cy="102.2" r="4" fill="#3465a4"><title>Rathmore Family Tartan Tartan Number: 1518. Earliest known date: 1987 Sett recorded in 1822 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/w6r25o2g3o30k3o2r30ly6~x2/"><circle cx="282.2" cy="125.3" r="4" fill="#3465a4"><title>Virginia Military Institute, New Market</title></circle></a><a href="/setts/s9/w6r25y2g3y30k3y2r30ly6~x2/"><circle cx="274.2" cy="122.8" r="4" fill="#3465a4"><title>Virginia Military Institute, New Market</title></circle></a><a href="/setts/s12/r10lb1r2n1r1n1lo1n4lb2r1lb2lo1~x8/"><circle cx="230.8" cy="122.5" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><a href="/setts/s10/k2lr3r3lr21ly3lr2r6g6r4w2~x2/"><circle cx="233.6" cy="113.0" r="4" fill="#3465a4"><title>Hello Kitty</title></circle></a><a href="/setts/s10/do2r3r3r21ly3r2r6g6r4lb2~x2/"><circle cx="272.8" cy="132.2" r="4" fill="#3465a4"><title>Hello Kitty (Corporate)</title></circle></a><a href="/setts/s11/lb4k2db3r33dg9ly3r5db10r6dg2k2~x2/"><circle cx="288.7" cy="94.6" r="4" fill="#3465a4"><title>MacArthur-Fox Dress</title></circle></a><a href="/setts/s9/r2do2r20y13lg3db5r2r4o2~x2/"><circle cx="291.1" cy="153.8" r="4" fill="#3465a4"><title>Flowers of the Forest, The</title></circle></a><a href="/setts/s9/r24ly2y3o2w10r4y3o3w2~x2/"><circle cx="281.8" cy="125.1" r="4" fill="#3465a4"><title>Manx Laxey, Red</title></circle></a><a href="/setts/s9/r41w2dp5ly2g21r9dp5db3w2~x2/"><circle cx="316.1" cy="97.2" r="4" fill="#3465a4"><title>Perthshire or Drummond District Tartan Tartan Number: 1670. Earliest known date: c.1819 Perthshire is known as the gateway to the Highlands. The Perthshire tartan is similar to a the Drummond sett, the tartan of a Drummond clan who had extensive lands in the district. The first record of this tartan is in the early nineteenth century account book of Wilson's of Bannockburn where it is referred to as the 'Perthshire Rock and Wheel' being an early type of soft tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="289.1" cy="103.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r26b2r6y2r2y2o2y9w5r2w4o2~x2/

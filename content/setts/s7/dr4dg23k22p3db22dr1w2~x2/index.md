@@ -48,20 +48,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [MacNeil](/setts/s7/lr1r2db16k14dg15k3ly1~x2/) — ΔT 0.78
-1. [MacNeil](/setts/s7/lr1r2db16k14dg15k3ly1/) — ΔT 0.78
 1. [National Wedding](/setts/s9/dg22lo2dg4dp3dg4k20db20k1lb3~x2/) — ΔT 0.97
-1. [MacNeil](/setts/s7/lb1r2db16k14dg15k3ly1~x2/) — ΔT 1.06
+1. [MacNeil](/setts/s7/ly1k3dg15k14db16r2lb1~x2/) — ΔT 1.06
 1. [Ayre (Personal)](/setts/s8/ly3y14k9r2k9db18k3w1~x2/) — ΔT 1.40
 1. [MacLeod](/setts/s7/r3k2dg15k10db21k1ly2/) — ΔT 1.42
-1. [MacNeil - 1840 (Chief's sett)](/setts/s7/ly2k6g33k33db33r3w2~x2/) — ΔT 1.46
+1. [MacNeil - 1840 (Chief's sett)](/setts/s7/w2r3db33k33g33k6ly2~x2/) — ΔT 1.46
 1. [St Andrews Golf Club](/setts/s9/r1dg3t1dg5k1dg1k9db12w1~x4/) — ΔT 1.46
 1. [Colqhoun VS](/setts/s7/db4k2db16lr1k8dg24r4~x2/) — ΔT 1.49
-1. [Colqhoun VS](/setts/s7/db4k2db16lr1k8dg24r4/) — ΔT 1.49
+1. [Black Gold (Corporate)](/setts/s9/dy3k3dy3k18n28lb1dg22k2dy2~x2/) — ΔT 1.50
+1. [Cameron of Erracht](/setts/s11/dg8r1dg1r3dg16k16r1db16r3db8ly2~x2/) — ΔT 1.52
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/lr1r2db16k14dg15k3ly1~x2/"><circle cx="168.2" cy="169.3" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/setts/s7/lr1r2db16k14dg15k3ly1/"><circle cx="168.2" cy="169.3" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/setts/s9/dg22lo2dg4dp3dg4k20db20k1lb3~x2/"><circle cx="189.8" cy="139.0" r="4" fill="#3465a4"><title>National Wedding</title></circle></a><a href="/setts/s7/lb1r2db16k14dg15k3ly1~x2/"><circle cx="150.4" cy="160.2" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/setts/s8/ly3y14k9r2k9db18k3w1~x2/"><circle cx="159.3" cy="153.4" r="4" fill="#3465a4"><title>Ayre (Personal)</title></circle></a><a href="/setts/s7/r3k2dg15k10db21k1ly2/"><circle cx="202.8" cy="161.7" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/setts/s7/ly2k6g33k33db33r3w2~x2/"><circle cx="182.3" cy="160.4" r="4" fill="#3465a4"><title>MacNeil - 1840 (Chief's sett)</title></circle></a><a href="/setts/s9/r1dg3t1dg5k1dg1k9db12w1~x4/"><circle cx="157.8" cy="147.2" r="4" fill="#3465a4"><title>St Andrews Golf Club</title></circle></a><a href="/setts/s7/db4k2db16lr1k8dg24r4~x2/"><circle cx="248.5" cy="171.1" r="4" fill="#3465a4"><title>Colqhoun VS</title></circle></a><a href="/setts/s7/db4k2db16lr1k8dg24r4/"><circle cx="248.5" cy="171.1" r="4" fill="#3465a4"><title>Colqhoun VS</title></circle></a><circle cx="165.2" cy="155.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/lr1r2db16k14dg15k3ly1~x2/"><circle cx="168.6" cy="169.4" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/setts/s9/dg22lo2dg4dp3dg4k20db20k1lb3~x2/"><circle cx="190.0" cy="139.1" r="4" fill="#3465a4"><title>National Wedding</title></circle></a><a href="/setts/s7/ly1k3dg15k14db16r2lb1~x2/"><circle cx="150.7" cy="160.3" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/setts/s8/ly3y14k9r2k9db18k3w1~x2/"><circle cx="159.5" cy="153.5" r="4" fill="#3465a4"><title>Ayre (Personal)</title></circle></a><a href="/setts/s7/r3k2dg15k10db21k1ly2/"><circle cx="203.0" cy="161.7" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/setts/s7/w2r3db33k33g33k6ly2~x2/"><circle cx="182.4" cy="160.5" r="4" fill="#3465a4"><title>MacNeil - 1840 (Chief's sett)</title></circle></a><a href="/setts/s9/r1dg3t1dg5k1dg1k9db12w1~x4/"><circle cx="158.0" cy="147.4" r="4" fill="#3465a4"><title>St Andrews Golf Club</title></circle></a><a href="/setts/s7/db4k2db16lr1k8dg24r4~x2/"><circle cx="248.6" cy="171.1" r="4" fill="#3465a4"><title>Colqhoun VS</title></circle></a><a href="/setts/s9/dy3k3dy3k18n28lb1dg22k2dy2~x2/"><circle cx="222.3" cy="140.2" r="4" fill="#3465a4"><title>Black Gold (Corporate)</title></circle></a><a href="/setts/s11/dg8r1dg1r3dg16k16r1db16r3db8ly2~x2/"><circle cx="173.1" cy="161.5" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><circle cx="165.5" cy="156.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/dr4dg23k22p3db22dr1w2~x2/

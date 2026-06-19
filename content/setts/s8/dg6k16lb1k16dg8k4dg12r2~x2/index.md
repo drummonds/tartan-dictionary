@@ -2,7 +2,7 @@
 title: "MacAulay Hunting"
 date: 2023-03-18
 ---
-**Bands:** [GKWKGKGR](/stripes/gkwkgkgr/) · **Stripes:** [DG K LB K DG K DG R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG K LB K DG K DG R</span></span>
+**Bands:** [RGKGKWKG](/stripes/rgkgkwkg/) · **Stripes:** [R DG K DG K LB K DG](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">R DG K DG K LB K DG</span></span>
 
 
 This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
@@ -13,13 +13,23 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Thread count
 G/12 K32 N2 K32 G16 K8 G24 R/4
@@ -46,18 +56,18 @@ The nearest existing variants by ΔTartan distance.
 1. [MacAulay Hunting](/setts/s8/dg6k16lr1k16dg8k4dg12r2~x2/) — ΔT 0.38
 1. [Strath Halladale (Sutherland)](/setts/s8/dg5k15dg5k15dg19r2dg10b4~x2/) — ΔT 1.12
 1. [Wilson's, No 167](/setts/s6/k20t2k6g16p4k9~x2/) — ΔT 1.25
-1. [Forbes VS](/setts/s6/ly1k4dg3k8dg16r1~x2/) — ΔT 1.29
+1. [Forbes VS](/setts/s6/r1dg16k8dg3k4ly1~x2/) — ΔT 1.30
 1. [MacAulay Hunting](/setts/s8/g6k16w1k16g8k4g12r2~x2/) — ΔT 1.33
-1. [Forbes VS](/setts/s6/ly1k4dg3k8dg16r1/) — ΔT 1.39
-1. [Gunn](/setts/s6/g2k12g1k12g12r2~x2/) — ΔT 1.43
+1. [Forbes VS](/setts/s6/r1dg16k8dg3k4ly1/) — ΔT 1.39
+1. [Gunn](/setts/s6/r2g12k12g1k12g2~x2/) — ΔT 1.43
 1. [Gunn VS](/setts/s6/dg1k8dg1k8dg15r1~x2/) — ΔT 1.45
 1. [MacArthur](/setts/s5/k32dg6k12dg30ly3~x2/) — ΔT 1.45
 1. [Gunn VS](/setts/s6/dg1k8dg1k8dg15r1~x4/) — ΔT 1.50
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dg6k16lr1k16dg8k4dg12r2~x2/"><circle cx="323.6" cy="218.8" r="4" fill="#3465a4"><title>MacAulay Hunting</title></circle></a><a href="/setts/s8/dg5k15dg5k15dg19r2dg10b4~x2/"><circle cx="281.3" cy="245.2" r="4" fill="#3465a4"><title>Strath Halladale (Sutherland)</title></circle></a><a href="/setts/s6/k20t2k6g16p4k9~x2/"><circle cx="299.0" cy="232.3" r="4" fill="#3465a4"><title>Wilson's, No 167</title></circle></a><a href="/setts/s6/ly1k4dg3k8dg16r1~x2/"><circle cx="353.2" cy="204.5" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/setts/s8/g6k16w1k16g8k4g12r2~x2/"><circle cx="326.7" cy="216.5" r="4" fill="#3465a4"><title>MacAulay Hunting</title></circle></a><a href="/setts/s6/ly1k4dg3k8dg16r1/"><circle cx="340.5" cy="198.6" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/setts/s6/g2k12g1k12g12r2~x2/"><circle cx="323.9" cy="233.6" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/setts/s6/dg1k8dg1k8dg15r1~x2/"><circle cx="343.7" cy="226.5" r="4" fill="#3465a4"><title>Gunn VS</title></circle></a><a href="/setts/s5/k32dg6k12dg30ly3~x2/"><circle cx="327.6" cy="262.1" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/setts/s6/dg1k8dg1k8dg15r1~x4/"><circle cx="353.5" cy="230.7" r="4" fill="#3465a4"><title>Gunn VS</title></circle></a><circle cx="313.2" cy="214.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dg6k16lr1k16dg8k4dg12r2~x2/"><circle cx="323.8" cy="218.6" r="4" fill="#3465a4"><title>MacAulay Hunting</title></circle></a><a href="/setts/s8/dg5k15dg5k15dg19r2dg10b4~x2/"><circle cx="281.5" cy="245.1" r="4" fill="#3465a4"><title>Strath Halladale (Sutherland)</title></circle></a><a href="/setts/s6/k20t2k6g16p4k9~x2/"><circle cx="299.2" cy="232.1" r="4" fill="#3465a4"><title>Wilson's, No 167</title></circle></a><a href="/setts/s6/r1dg16k8dg3k4ly1~x2/"><circle cx="353.3" cy="204.3" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/setts/s8/g6k16w1k16g8k4g12r2~x2/"><circle cx="326.7" cy="216.4" r="4" fill="#3465a4"><title>MacAulay Hunting</title></circle></a><a href="/setts/s6/r1dg16k8dg3k4ly1/"><circle cx="340.5" cy="198.4" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/setts/s6/r2g12k12g1k12g2~x2/"><circle cx="324.0" cy="233.3" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/setts/s6/dg1k8dg1k8dg15r1~x2/"><circle cx="343.8" cy="226.3" r="4" fill="#3465a4"><title>Gunn VS</title></circle></a><a href="/setts/s5/k32dg6k12dg30ly3~x2/"><circle cx="327.8" cy="261.9" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/setts/s6/dg1k8dg1k8dg15r1~x4/"><circle cx="353.6" cy="230.5" r="4" fill="#3465a4"><title>Gunn VS</title></circle></a><circle cx="313.4" cy="214.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/dg6k16lb1k16dg8k4dg12r2~x2/

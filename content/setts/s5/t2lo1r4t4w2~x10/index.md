@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10759
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Doohan , Andrew
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -47,7 +53,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Unidentified Lindley](/setts/s6/b6o6w1o6b6ly1~x8/) — ΔT 1.28
 1. [Buckeye](/setts/s4/o25k4w8r16~x4/) — ΔT 1.30
 1. [Buckeye](/setts/s4/y25k4w8r16~x4/) — ΔT 1.41
-1. [MacLeod, of Argentina](/setts/s5/db10w3db12ly14r4~x2/) — ΔT 1.55
+1. [MacLeod, of Argentina](/setts/s5/db10w3db12ly14r4~x2/) — ΔT 1.54
 1. [Wilson's, No 113](/setts/s4/r1g3p3w1~x4/) — ΔT 1.55
 1. [Haggis Hostels](/setts/s4/r10t5lb5dt4~x8/) — ΔT 1.57
 1. [Fiddes (Corrected)](/setts/s7/g12r11dp12r3dp8g8dp8~x2/) — ΔT 1.57
@@ -57,8 +63,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/b6o6w1o6b6ly1~x8/"><circle cx="232.8" cy="247.4" r="4" fill="#3465a4"><title>Unidentified Lindley</title></circle></a><a href="/setts/s4/o25k4w8r16~x4/"><circle cx="205.5" cy="241.1" r="4" fill="#3465a4"><title>Buckeye</title></circle></a><a href="/setts/s4/y25k4w8r16~x4/"><circle cx="209.5" cy="243.3" r="4" fill="#3465a4"><title>Buckeye</title></circle></a><a href="/setts/s5/db10w3db12ly14r4~x2/"><circle cx="187.1" cy="255.3" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><a href="/setts/s4/r1g3p3w1~x4/"><circle cx="119.6" cy="284.9" r="4" fill="#3465a4"><title>Wilson's, No 113</title></circle></a><a href="/setts/s4/r10t5lb5dt4~x8/"><circle cx="113.2" cy="304.6" r="4" fill="#3465a4"><title>Haggis Hostels</title></circle></a><a href="/setts/s7/g12r11dp12r3dp8g8dp8~x2/"><circle cx="150.2" cy="281.0" r="4" fill="#3465a4"><title>Fiddes (Corrected)</title></circle></a><a href="/setts/s5/r8lg15b12r29w4~x2/"><circle cx="268.8" cy="235.2" r="4" fill="#3465a4"><title>Snowbird (Corporate)</title></circle></a><a href="/setts/s5/b10w3b12ly14r4~x2/"><circle cx="201.5" cy="265.6" r="4" fill="#3465a4"><title>MacLeod of Argentina</title></circle></a><a href="/setts/s8/r29b12lg15r8lg15b12r29w4~x2/"><circle cx="250.5" cy="227.8" r="4" fill="#3465a4"><title>Snowbird</title></circle></a><circle cx="176.2" cy="272.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/b6o6w1o6b6ly1~x8/"><circle cx="232.6" cy="247.2" r="4" fill="#3465a4"><title>Unidentified Lindley</title></circle></a><a href="/setts/s4/o25k4w8r16~x4/"><circle cx="205.3" cy="240.9" r="4" fill="#3465a4"><title>Buckeye</title></circle></a><a href="/setts/s4/y25k4w8r16~x4/"><circle cx="209.3" cy="243.2" r="4" fill="#3465a4"><title>Buckeye</title></circle></a><a href="/setts/s5/db10w3db12ly14r4~x2/"><circle cx="187.0" cy="255.1" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><a href="/setts/s4/r1g3p3w1~x4/"><circle cx="119.7" cy="284.7" r="4" fill="#3465a4"><title>Wilson's, No 113</title></circle></a><a href="/setts/s4/r10t5lb5dt4~x8/"><circle cx="113.2" cy="304.5" r="4" fill="#3465a4"><title>Haggis Hostels</title></circle></a><a href="/setts/s7/g12r11dp12r3dp8g8dp8~x2/"><circle cx="150.2" cy="281.0" r="4" fill="#3465a4"><title>Fiddes (Corrected)</title></circle></a><a href="/setts/s5/r8lg15b12r29w4~x2/"><circle cx="268.6" cy="235.0" r="4" fill="#3465a4"><title>Snowbird (Corporate)</title></circle></a><a href="/setts/s5/b10w3b12ly14r4~x2/"><circle cx="201.4" cy="265.4" r="4" fill="#3465a4"><title>MacLeod of Argentina</title></circle></a><a href="/setts/s8/r29b12lg15r8lg15b12r29w4~x2/"><circle cx="250.2" cy="227.7" r="4" fill="#3465a4"><title>Snowbird</title></circle></a><circle cx="176.0" cy="272.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/t2lo1r4t4w2~x10/

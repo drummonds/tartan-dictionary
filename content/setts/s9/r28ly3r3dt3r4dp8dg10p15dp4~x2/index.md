@@ -2,7 +2,7 @@
 title: "Loch Lomond"
 date: 2023-03-18
 ---
-**Bands:** [BBGBRBRYR](/stripes/bbgbrbryr/) · **Stripes:** [DP P DG DP R DT R LY R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">DP P DG DP R DT R LY R</span></span>
+**Bands:** [RYRBRBGBB](/stripes/ryrbrbgbb/) · **Stripes:** [R LY R DT R DP DG P DP](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">R LY R DT R DP DG P DP</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DP/8 P30 DG20 DP16 DR8 DB6 DR6 Y6 DR/56
+DR/56 Y6 DR6 DB6 DR8 DP16 DG20 P30 DP/8
 ![Sett](sett.png)
 
 ## Palette
@@ -906,19 +909,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Loch Lomond (1999)](/setts/s9/r28ly3r3db3r4dp8g10dp15dp4~x2/) — ΔT 0.27
 1. [Unidentified, chair covering](/setts/s11/r15dp3dy2do2dy3r3y3dy3g3r4g2~x2/) — ΔT 1.17
-1. [East Kilbride #2](/setts/s9/lo2r10do8n5k1n5k1r14w2~x4/) — ΔT 1.43
+1. [East Kilbride #2](/setts/s9/w2r14k1n5k1n5do8r10lo2~x4/) — ΔT 1.43
 1. [Unidentified Chair Covering](/setts/s11/r15dp3dy2do2dy3r3lo3dy3g3r4g2~x2/) — ΔT 1.48
 1. [Hines Snr, Raymond Lee (Personal)](/setts/s11/k4dg2w2dp22k16r8k3r4k3ly4k3~x2/) — ΔT 1.59
 1. [Stevens #3](/setts/s6/dp2t9dp3r7r19ly2~x2/) — ΔT 1.60
 1. [Windy Meadows](/setts/s6/dy11t2o4ly1o2dt2~x4/) — ΔT 1.61
-1. [McMurchie (Personal)](/setts/s11/ly1r13db6dp7g2dp7g2dp7db6r13t1~x2/) — ΔT 1.68
-1. [Red Chapeau](/setts/s9/r9k1g1k1dp6k1dp6ly1k2~x6/) — ΔT 1.69
+1. [McMurchie (Personal)](/setts/s11/t1r13db6dp7g2dp7g2dp7db6r13ly1~x2/) — ΔT 1.68
+1. [Red Chapeau](/setts/s9/r9k1g1k1dp6k1dp6ly1k2~x6/) — ΔT 1.68
 1. [NHK Asaichi](/setts/s11/dy2r11db1r1db1r1db4db6dy1db1ly1~x4/) — ΔT 1.69
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r28ly3r3db3r4dp8g10dp15dp4~x2/"><circle cx="227.8" cy="168.5" r="4" fill="#3465a4"><title>Loch Lomond (1999)</title></circle></a><a href="/setts/s11/r15dp3dy2do2dy3r3y3dy3g3r4g2~x2/"><circle cx="250.5" cy="168.4" r="4" fill="#3465a4"><title>Unidentified, chair covering</title></circle></a><a href="/setts/s9/lo2r10do8n5k1n5k1r14w2~x4/"><circle cx="279.6" cy="173.3" r="4" fill="#3465a4"><title>East Kilbride #2</title></circle></a><a href="/setts/s11/r15dp3dy2do2dy3r3lo3dy3g3r4g2~x2/"><circle cx="259.0" cy="170.8" r="4" fill="#3465a4"><title>Unidentified Chair Covering</title></circle></a><a href="/setts/s11/k4dg2w2dp22k16r8k3r4k3ly4k3~x2/"><circle cx="194.2" cy="145.3" r="4" fill="#3465a4"><title>Hines Snr, Raymond Lee (Personal)</title></circle></a><a href="/setts/s6/dp2t9dp3r7r19ly2~x2/"><circle cx="245.7" cy="194.1" r="4" fill="#3465a4"><title>Stevens #3</title></circle></a><a href="/setts/s6/dy11t2o4ly1o2dt2~x4/"><circle cx="277.3" cy="189.2" r="4" fill="#3465a4"><title>Windy Meadows</title></circle></a><a href="/setts/s11/ly1r13db6dp7g2dp7g2dp7db6r13t1~x2/"><circle cx="186.7" cy="149.6" r="4" fill="#3465a4"><title>McMurchie (Personal)</title></circle></a><a href="/setts/s9/r9k1g1k1dp6k1dp6ly1k2~x6/"><circle cx="226.5" cy="164.2" r="4" fill="#3465a4"><title>Red Chapeau</title></circle></a><a href="/setts/s11/dy2r11db1r1db1r1db4db6dy1db1ly1~x4/"><circle cx="231.1" cy="138.7" r="4" fill="#3465a4"><title>NHK Asaichi</title></circle></a><circle cx="227.9" cy="170.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r28ly3r3db3r4dp8g10dp15dp4~x2/"><circle cx="227.7" cy="168.7" r="4" fill="#3465a4"><title>Loch Lomond (1999)</title></circle></a><a href="/setts/s11/r15dp3dy2do2dy3r3y3dy3g3r4g2~x2/"><circle cx="250.4" cy="168.6" r="4" fill="#3465a4"><title>Unidentified, chair covering</title></circle></a><a href="/setts/s9/w2r14k1n5k1n5do8r10lo2~x4/"><circle cx="279.4" cy="173.5" r="4" fill="#3465a4"><title>East Kilbride #2</title></circle></a><a href="/setts/s11/r15dp3dy2do2dy3r3lo3dy3g3r4g2~x2/"><circle cx="258.8" cy="171.0" r="4" fill="#3465a4"><title>Unidentified Chair Covering</title></circle></a><a href="/setts/s11/k4dg2w2dp22k16r8k3r4k3ly4k3~x2/"><circle cx="194.2" cy="145.4" r="4" fill="#3465a4"><title>Hines Snr, Raymond Lee (Personal)</title></circle></a><a href="/setts/s6/dp2t9dp3r7r19ly2~x2/"><circle cx="245.6" cy="194.2" r="4" fill="#3465a4"><title>Stevens #3</title></circle></a><a href="/setts/s6/dy11t2o4ly1o2dt2~x4/"><circle cx="277.2" cy="189.3" r="4" fill="#3465a4"><title>Windy Meadows</title></circle></a><a href="/setts/s11/t1r13db6dp7g2dp7g2dp7db6r13ly1~x2/"><circle cx="186.6" cy="149.7" r="4" fill="#3465a4"><title>McMurchie (Personal)</title></circle></a><a href="/setts/s9/r9k1g1k1dp6k1dp6ly1k2~x6/"><circle cx="226.4" cy="164.3" r="4" fill="#3465a4"><title>Red Chapeau</title></circle></a><a href="/setts/s11/dy2r11db1r1db1r1db4db6dy1db1ly1~x4/"><circle cx="230.9" cy="138.8" r="4" fill="#3465a4"><title>NHK Asaichi</title></circle></a><circle cx="227.9" cy="170.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r28ly3r3dt3r4dp8dg10p15dp4~x2/

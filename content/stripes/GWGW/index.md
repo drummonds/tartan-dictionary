@@ -8,7 +8,7 @@ GWGW
 
 It is a 4 band tartan.
 
-![Woven sample](/setts/s4/dy1lb1dy1lb1~x6/tartan.png)
+![Woven sample](/setts/s4/dy1lb1~x6/tartan.png)
 
 
 
@@ -32,6 +32,6 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Shepherd (Brown & White)](/setts/s4/dy1lb1dy1lb1~x6/)|
-|![Shepherd (Brown & White) example sett](/setts/s4/dy1lb1dy1lb1~x6/sett.png)|
+| [Shepherd (Brown & White)](/setts/s4/dy1lb1~x6/)|
+|![Shepherd (Brown & White) example sett](/setts/s4/dy1lb1~x6/sett.png)|
 

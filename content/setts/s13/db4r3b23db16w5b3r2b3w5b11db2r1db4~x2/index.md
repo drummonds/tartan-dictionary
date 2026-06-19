@@ -2,12 +2,18 @@
 title: "Illinois, St Andrews Society"
 date: 2023-03-18
 ---
-**Bands:** [BRBBWBRBWBBRB](/stripes/brbbwbrbwbbrb/) · **Stripes:** [DB R B DB W B R B W B DB R DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R B DB W B R B W B DB R DB</span></span>
+**Bands:** [BRBBWBRBWBBRB](/stripes/brbbwbrbwbbrb/) · **Stripes:** [DB R DB B W B R B W DB B R DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DB R DB B W B R B W DB B R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Illinois, St Andrews Society
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,13 +919,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Longniddry Eildon Blue Dress Fancy Tartan Tartan Number: 5486. Earliest known date: pre 1992 Dancers tartan See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/db42lb2lb2lb2db5dt12lb32db4~x2/) — ΔT 1.31
 1. [Yamaue](/setts/s13/w2r5b4g8b40r5w2r5b4g8b4r5w2~x2/) — ΔT 1.32
 1. [Harmony Eildon (Dance)](/setts/s8/db41t2w2t2db5t12w31db4~x2/) — ΔT 1.32
-1. [Scottish Knights Templar International](/setts/s16/db2r1k2lb3k4lb5k6db20r3db20k6lb5k4lb3k2r1~x2/) — ΔT 1.37
-1. [Sinclair Dress (Dance)](/setts/s12/db4r2db31k10g4w21g2w21g4k10db31r2~x2/) — ΔT 1.38
+1. [Scottish Knights Templar International](/setts/s16/r3db20k6lb5k4lb3k2r1db2~x2/) — ΔT 1.37
+1. [Sinclair Dress (Dance)](/setts/s12/db4r2db31k10g4w21g2~x2/) — ΔT 1.38
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db4r3t23db16w5t3r2t3w5t11db2r1db4~x2/"><circle cx="266.5" cy="131.6" r="4" fill="#3465a4"><title>Illinois St Andrews Society Corporate Tartan Tartan Number: 2051. Earliest known date: 1991 A philanthropic society founded by Scots around 1840. The tartan was designed to mark the 150th anniversary. The colours represent the State of Illinois Flag, the Chicago sports teams and the St Andrew's flag. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/db15lb11lb2lb1lb1g4lb1lb1lb2lb11db15g5~x4/"><circle cx="209.0" cy="145.6" r="4" fill="#3465a4"><title>Highlands Country Club</title></circle></a><a href="/setts/s13/r8w4db24db2db4db2db1db2db4db2db1db20w6~x2/"><circle cx="248.2" cy="119.3" r="4" fill="#3465a4"><title>Icelandic</title></circle></a><a href="/setts/s14/w4db1db12db1r8w8db8w2db1w2db24ly4db1r2~x2/"><circle cx="196.3" cy="85.0" r="4" fill="#3465a4"><title>Submariners</title></circle></a><a href="/setts/s13/w4k1db24k1dg12k1w12k1db12w4k1w1k2~x2/"><circle cx="249.0" cy="109.7" r="4" fill="#3465a4"><title>Lesotho</title></circle></a><a href="/setts/s8/db42lb2lb2lb2db5dt12lb32db4~x2/"><circle cx="289.5" cy="139.0" r="4" fill="#3465a4"><title>Longniddry Eildon Blue Dress Fancy Tartan Tartan Number: 5486. Earliest known date: pre 1992 Dancers tartan See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/w2r5b4g8b40r5w2r5b4g8b4r5w2~x2/"><circle cx="295.5" cy="109.4" r="4" fill="#3465a4"><title>Yamaue</title></circle></a><a href="/setts/s8/db41t2w2t2db5t12w31db4~x2/"><circle cx="279.5" cy="134.0" r="4" fill="#3465a4"><title>Harmony Eildon (Dance)</title></circle></a><a href="/setts/s16/db2r1k2lb3k4lb5k6db20r3db20k6lb5k4lb3k2r1~x2/"><circle cx="258.1" cy="124.3" r="4" fill="#3465a4"><title>Scottish Knights Templar International</title></circle></a><a href="/setts/s12/db4r2db31k10g4w21g2w21g4k10db31r2~x2/"><circle cx="193.6" cy="125.7" r="4" fill="#3465a4"><title>Sinclair Dress (Dance)</title></circle></a><circle cx="255.5" cy="121.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db4r3t23db16w5t3r2t3w5t11db2r1db4~x2/"><circle cx="266.3" cy="131.5" r="4" fill="#3465a4"><title>Illinois St Andrews Society Corporate Tartan Tartan Number: 2051. Earliest known date: 1991 A philanthropic society founded by Scots around 1840. The tartan was designed to mark the 150th anniversary. The colours represent the State of Illinois Flag, the Chicago sports teams and the St Andrew's flag. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/db15lb11lb2lb1lb1g4lb1lb1lb2lb11db15g5~x4/"><circle cx="208.9" cy="145.5" r="4" fill="#3465a4"><title>Highlands Country Club</title></circle></a><a href="/setts/s13/r8w4db24db2db4db2db1db2db4db2db1db20w6~x2/"><circle cx="248.2" cy="119.2" r="4" fill="#3465a4"><title>Icelandic</title></circle></a><a href="/setts/s14/w4db1db12db1r8w8db8w2db1w2db24ly4db1r2~x2/"><circle cx="196.2" cy="84.9" r="4" fill="#3465a4"><title>Submariners</title></circle></a><a href="/setts/s13/w4k1db24k1dg12k1w12k1db12w4k1w1k2~x2/"><circle cx="248.8" cy="109.6" r="4" fill="#3465a4"><title>Lesotho</title></circle></a><a href="/setts/s8/db42lb2lb2lb2db5dt12lb32db4~x2/"><circle cx="289.4" cy="138.9" r="4" fill="#3465a4"><title>Longniddry Eildon Blue Dress Fancy Tartan Tartan Number: 5486. Earliest known date: pre 1992 Dancers tartan See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/w2r5b4g8b40r5w2r5b4g8b4r5w2~x2/"><circle cx="295.3" cy="109.3" r="4" fill="#3465a4"><title>Yamaue</title></circle></a><a href="/setts/s8/db41t2w2t2db5t12w31db4~x2/"><circle cx="279.3" cy="133.8" r="4" fill="#3465a4"><title>Harmony Eildon (Dance)</title></circle></a><a href="/setts/s16/r3db20k6lb5k4lb3k2r1db2~x2/"><circle cx="258.1" cy="124.3" r="4" fill="#3465a4"><title>Scottish Knights Templar International</title></circle></a><a href="/setts/s12/db4r2db31k10g4w21g2~x2/"><circle cx="193.5" cy="125.6" r="4" fill="#3465a4"><title>Sinclair Dress (Dance)</title></circle></a><circle cx="255.3" cy="121.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db4r3b23db16w5b3r2b3w5b11db2r1db4~x2/

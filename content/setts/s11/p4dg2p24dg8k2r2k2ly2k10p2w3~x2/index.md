@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/6 P4 DB20 Y4 DB4 R4 DB4 DG16 P48 DG4 P/8
+P/8 DG4 P48 DG16 DB4 R4 DB4 Y4 DB20 P4 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -906,8 +909,8 @@ The nearest existing variants by ΔTartan distance.
 
 1. [McCartney (Day)](/setts/s11/dp4dg2dp24dg8dt2r2dt2ly2dt10dp2w3~x2/) — ΔT 0.99
 1. [Lieuwen (2013)](/setts/s11/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2~x10/) — ΔT 1.18
-1. [Wisconsin in Scotland (Corporate)](/setts/s15/ly1db11ly1r2o1r2r2w1r2r2o1r2ly1db11w1~x8/) — ΔT 1.20
-1. [Kilsyth](/setts/s10/g4ly3db35r13dp8w3dp8r13db35ly3~x2/) — ΔT 1.23
+1. [Wisconsin in Scotland (Corporate)](/setts/s15/w1db11ly1r2o1r2r2w1r2r2o1r2ly1db11ly1~x8/) — ΔT 1.20
+1. [Kilsyth](/setts/s10/g4ly3db35r13dp8w3~x2/) — ΔT 1.23
 1. [Broager (Name)](/setts/s12/db53g10k20ly5k5w5k7r18db10k6db6w6/) — ΔT 1.26
 1. [Regan](/setts/s10/dp1k1w1dp10ly1db2k1db2w1ly1~x8/) — ΔT 1.26
 1. [Lieuwen, Jeffrey Pascal (Personal)](/setts/s11/dp10db1dp2db1b1db1b2m2b1k1ly2~x10/) — ΔT 1.31
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dp4dg2dp24dg8dt2r2dt2ly2dt10dp2w3~x2/"><circle cx="246.9" cy="127.1" r="4" fill="#3465a4"><title>McCartney (Day)</title></circle></a><a href="/setts/s11/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2~x10/"><circle cx="214.9" cy="116.6" r="4" fill="#3465a4"><title>Lieuwen (2013)</title></circle></a><a href="/setts/s15/ly1db11ly1r2o1r2r2w1r2r2o1r2ly1db11w1~x8/"><circle cx="244.3" cy="105.3" r="4" fill="#3465a4"><title>Wisconsin in Scotland (Corporate)</title></circle></a><a href="/setts/s10/g4ly3db35r13dp8w3dp8r13db35ly3~x2/"><circle cx="265.0" cy="141.5" r="4" fill="#3465a4"><title>Kilsyth</title></circle></a><a href="/setts/s12/db53g10k20ly5k5w5k7r18db10k6db6w6/"><circle cx="173.6" cy="124.4" r="4" fill="#3465a4"><title>Broager (Name)</title></circle></a><a href="/setts/s10/dp1k1w1dp10ly1db2k1db2w1ly1~x8/"><circle cx="253.8" cy="127.2" r="4" fill="#3465a4"><title>Regan</title></circle></a><a href="/setts/s11/dp10db1dp2db1b1db1b2m2b1k1ly2~x10/"><circle cx="234.7" cy="128.5" r="4" fill="#3465a4"><title>Lieuwen, Jeffrey Pascal (Personal)</title></circle></a><a href="/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x2/"><circle cx="267.9" cy="82.1" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x4/"><circle cx="285.7" cy="95.1" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/setts/s10/db4w1k2db25k12db1k2r16k2lo1~x2/"><circle cx="226.6" cy="90.7" r="4" fill="#3465a4"><title>Sidey (Dundee) Dress (Personal)</title></circle></a><circle cx="225.1" cy="115.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/dp4dg2dp24dg8dt2r2dt2ly2dt10dp2w3~x2/"><circle cx="246.8" cy="127.2" r="4" fill="#3465a4"><title>McCartney (Day)</title></circle></a><a href="/setts/s11/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2~x10/"><circle cx="214.7" cy="116.6" r="4" fill="#3465a4"><title>Lieuwen (2013)</title></circle></a><a href="/setts/s15/w1db11ly1r2o1r2r2w1r2r2o1r2ly1db11ly1~x8/"><circle cx="244.1" cy="105.3" r="4" fill="#3465a4"><title>Wisconsin in Scotland (Corporate)</title></circle></a><a href="/setts/s10/g4ly3db35r13dp8w3~x2/"><circle cx="264.9" cy="141.5" r="4" fill="#3465a4"><title>Kilsyth</title></circle></a><a href="/setts/s12/db53g10k20ly5k5w5k7r18db10k6db6w6/"><circle cx="173.7" cy="124.5" r="4" fill="#3465a4"><title>Broager (Name)</title></circle></a><a href="/setts/s10/dp1k1w1dp10ly1db2k1db2w1ly1~x8/"><circle cx="253.7" cy="127.2" r="4" fill="#3465a4"><title>Regan</title></circle></a><a href="/setts/s11/dp10db1dp2db1b1db1b2m2b1k1ly2~x10/"><circle cx="234.5" cy="128.6" r="4" fill="#3465a4"><title>Lieuwen, Jeffrey Pascal (Personal)</title></circle></a><a href="/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x2/"><circle cx="267.7" cy="82.1" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x4/"><circle cx="285.5" cy="95.2" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/setts/s10/db4w1k2db25k12db1k2r16k2lo1~x2/"><circle cx="226.6" cy="90.7" r="4" fill="#3465a4"><title>Sidey (Dundee) Dress (Personal)</title></circle></a><circle cx="225.1" cy="115.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/p4dg2p24dg8k2r2k2ly2k10p2w3~x2/

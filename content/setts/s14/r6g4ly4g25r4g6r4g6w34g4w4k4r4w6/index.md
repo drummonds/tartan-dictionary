@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/6 R4 K4 LN4 G4 LN34 G6 R4 G6 R4 G25 Y4 G4 R/6
+R/6 G4 Y4 G25 R4 G6 R4 G6 LN34 G4 LN4 K4 R4 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -903,7 +906,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Hay, White Dress](/setts/s26/r3g2ly2g14r2g3r2g3w17g2w2k2r2w3r2k2w2g2w17g3r2g3r2g14ly2g2~x2/) — ΔT 1.34
+1. [Hay, White Dress](/setts/s26/r3g2ly2g14r2g3r2g3w17g2w2k2r2w3~x2/) — ΔT 1.34
 1. [Praetorian, Green (Fashion)](/setts/s14/w1k1ly1dg8k1lr1w8lr1k8lr1w1dg8lr1w1~x6/) — ΔT 1.40
 1. [MacKellar, dress](/setts/s11/o35w4o3ly7o3w4o7dr15y4w36y5~x2/) — ΔT 1.41
 1. [Praetorian Green](/setts/s14/w1dg1ly1g8k1lb1w8lb1k8lb1w1g8lb1w1~x6/) — ΔT 1.41
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s26/r3g2ly2g14r2g3r2g3w17g2w2k2r2w3r2k2w2g2w17g3r2g3r2g14ly2g2~x2/"><circle cx="153.0" cy="89.2" r="4" fill="#3465a4"><title>Hay, White Dress</title></circle></a><a href="/setts/s14/w1k1ly1dg8k1lr1w8lr1k8lr1w1dg8lr1w1~x6/"><circle cx="127.5" cy="130.8" r="4" fill="#3465a4"><title>Praetorian, Green (Fashion)</title></circle></a><a href="/setts/s11/o35w4o3ly7o3w4o7dr15y4w36y5~x2/"><circle cx="180.4" cy="120.2" r="4" fill="#3465a4"><title>MacKellar, dress</title></circle></a><a href="/setts/s14/w1dg1ly1g8k1lb1w8lb1k8lb1w1g8lb1w1~x6/"><circle cx="94.0" cy="109.2" r="4" fill="#3465a4"><title>Praetorian Green</title></circle></a><a href="/setts/s12/r4w4r2w29k10g3k10g4g4g3g3g3~x2/"><circle cx="152.8" cy="100.8" r="4" fill="#3465a4"><title>Ross Arisaid</title></circle></a><a href="/setts/s11/n2ly2n1ly2n1lb15n4r1ly2dg7ly1~x4/"><circle cx="182.6" cy="111.8" r="4" fill="#3465a4"><title>Hutt #1 (Personal)</title></circle></a><a href="/setts/s16/g10w4r4m4g2m4r4w4g10w4t4w2t4w23k2r2~x2/"><circle cx="132.0" cy="97.0" r="4" fill="#3465a4"><title>MacBean dress</title></circle></a><a href="/setts/s16/ly5g16db8g4db4g4lr38g4lr38g4db4g4db8g16ly5r3~x2/"><circle cx="202.9" cy="112.6" r="4" fill="#3465a4"><title>Nova Scotia Dress #2</title></circle></a><a href="/setts/s12/db3dy14g2dy2g2dy3g6w18db3dy2db2dy2~x2/"><circle cx="160.5" cy="143.9" r="4" fill="#3465a4"><title>Raibert Check</title></circle></a><a href="/setts/s17/r3w5r2w12ly1k2ly1w2ly1k2ly2k2r1g4r2g4r2~x2/"><circle cx="118.2" cy="101.1" r="4" fill="#3465a4"><title>Anderson, dress</title></circle></a><circle cx="155.5" cy="121.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s26/r3g2ly2g14r2g3r2g3w17g2w2k2r2w3~x2/"><circle cx="152.6" cy="89.1" r="4" fill="#3465a4"><title>Hay, White Dress</title></circle></a><a href="/setts/s14/w1k1ly1dg8k1lr1w8lr1k8lr1w1dg8lr1w1~x6/"><circle cx="127.4" cy="130.8" r="4" fill="#3465a4"><title>Praetorian, Green (Fashion)</title></circle></a><a href="/setts/s11/o35w4o3ly7o3w4o7dr15y4w36y5~x2/"><circle cx="180.0" cy="120.2" r="4" fill="#3465a4"><title>MacKellar, dress</title></circle></a><a href="/setts/s14/w1dg1ly1g8k1lb1w8lb1k8lb1w1g8lb1w1~x6/"><circle cx="93.8" cy="109.2" r="4" fill="#3465a4"><title>Praetorian Green</title></circle></a><a href="/setts/s12/r4w4r2w29k10g3k10g4g4g3g3g3~x2/"><circle cx="152.5" cy="100.7" r="4" fill="#3465a4"><title>Ross Arisaid</title></circle></a><a href="/setts/s11/n2ly2n1ly2n1lb15n4r1ly2dg7ly1~x4/"><circle cx="182.3" cy="111.8" r="4" fill="#3465a4"><title>Hutt #1 (Personal)</title></circle></a><a href="/setts/s16/g10w4r4m4g2m4r4w4g10w4t4w2t4w23k2r2~x2/"><circle cx="131.7" cy="97.1" r="4" fill="#3465a4"><title>MacBean dress</title></circle></a><a href="/setts/s16/ly5g16db8g4db4g4lr38g4lr38g4db4g4db8g16ly5r3~x2/"><circle cx="202.6" cy="112.6" r="4" fill="#3465a4"><title>Nova Scotia Dress #2</title></circle></a><a href="/setts/s12/db3dy14g2dy2g2dy3g6w18db3dy2db2dy2~x2/"><circle cx="160.2" cy="143.8" r="4" fill="#3465a4"><title>Raibert Check</title></circle></a><a href="/setts/s17/r3w5r2w12ly1k2ly1w2ly1k2ly2k2r1g4r2g4r2~x2/"><circle cx="117.9" cy="101.1" r="4" fill="#3465a4"><title>Anderson, dress</title></circle></a><circle cx="155.2" cy="121.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/r6g4ly4g25r4g6r4g6w34g4w4k4r4w6/

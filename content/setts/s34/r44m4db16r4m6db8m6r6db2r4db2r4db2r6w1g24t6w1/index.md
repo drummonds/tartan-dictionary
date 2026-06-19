@@ -1,0 +1,57 @@
+---
+title: "Unidentified Cant #13"
+date: 2023-03-18
+---
+**Bands:** [RRBRRBRRBRBRBRWGBWBGWRBRBRBRRBRRBR](/stripes/rrbrrbrrbrbrbrwgbwbgwrbrbrbrrbrrbr/) · **Stripes:** [R M DB R M DB M R DB R DB R DB R W G T W T G W R DB R DB R DB R M DB M R DB M](/stripes/stripes34/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="seq">R M DB R M DB M R DB R DB R DB R W G T W T G W R DB R DB R DB R M DB M R DB M</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [34 band tartan](/bands/bands34/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4906
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [4906](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4906)
+- Scottish Tartans Authority (ITI): 3958
+
+## Thread count
+R/44 LP4 DB16 R4 LP6 DB8 LP6 R6 DB2 R4 DB2 R4 DB2 R6 LN1 Ga24 B6 LN1 B6 Ga24 LN1 R6 DB2 R4 DB2 R4 DB2 R6 LP6 DB8 LP6 R4 DB16 LP/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2888C4;"><span style="color:#2888C4;filter:grayscale(1) invert(1) contrast(100);">#2888C4</span></code> `#2888C4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| G | <code style="background-color:#285800;"><span style="color:#285800;filter:grayscale(1) invert(1) contrast(100);">#285800</span></code> `#285800` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.03 |
+| Ga | <code style="background-color:#006818;"><span style="color:#006818;filter:grayscale(1) invert(1) contrast(100);">#006818</span></code> `#006818` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.02 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| LP | <code style="background-color:#9C68A4;"><span style="color:#9C68A4;filter:grayscale(1) invert(1) contrast(100);">#9C68A4</span></code> `#9C68A4` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.21 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Unnamed C18th - Hynde Cotton Plaid](/setts/s45/w2db1r3m7dg7r2db1r2dg7r41db40w2r4m4r1m1r1m4r4dg15r4m4r1m1r1m4r4w2k40r3dg36r5m5r1m5r5db38r40dg16w2r8m8r3m2r1/) — ΔT 1.23
+1. [MacDougall of MacDougall](/setts/s24/t2dp10r3r4dg72r7dg4r10db24dp6r5r4r5dp7dg24r24dg24r3db3r74dp7r5r6t2~x2/) — ΔT 1.30
+1. [Holyrood (Chair)](/setts/s24/r34w1db10dg10w1ly1dg2t2w1db2t10r6w1~x2/) — ΔT 1.31
+1. [Whitworth](/setts/s38/r5ly1r8w1db20w1t20w1g20ly1r5ly1r5ly1g20ly2r52w1ly5w1~x2/) — ΔT 1.40
+1. [Unidentified Cant #11](/setts/s48/m99g6m8g4m10dy34r2dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r2dy34t36dy6t18/) — ΔT 1.45
+1. [Unidentified #5](/setts/s25/dp96dg10dp8dg8dp10dy34r1dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r1dy34t36dy6t18~x2/) — ΔT 1.47
+1. [Hay](/setts/s23/k12r4ly4k8r66g8r1ly1r8g60w3k60r3dp60r8ly3r3dp8r66k8ly4r4k6~x2/) — ΔT 1.53
+1. [Hay & Leith #2](/setts/s42/k7r3ly2r60g7r2ly2r7g50w2k50r2dt50r7ly2r2dt7r60k7ly2r3k7/) — ΔT 1.54
+1. [MacDougall (Wilson)](/setts/s24/t1r4r2r2dg27r4dg2r4dp10r3r2r2r2r3dg10r10dg10r2dp2r26r3r2r3t1~x2/) — ΔT 1.61
+1. [Fitzgerald Dress](/setts/s25/w2k1r3db3r3r3r19r3r3db3r3db29ly3g29r3db3r3r3r19r3r3db3r3k1w2~x4/) — ΔT 1.63
+
+## Neighbour map
+
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s45/w2db1r3m7dg7r2db1r2dg7r41db40w2r4m4r1m1r1m4r4dg15r4m4r1m1r1m4r4w2k40r3dg36r5m5r1m5r5db38r40dg16w2r8m8r3m2r1/"><circle cx="192.5" cy="14.0" r="4" fill="#3465a4"><title>Unnamed C18th - Hynde Cotton Plaid</title></circle></a><a href="/setts/s24/t2dp10r3r4dg72r7dg4r10db24dp6r5r4r5dp7dg24r24dg24r3db3r74dp7r5r6t2~x2/"><circle cx="249.8" cy="36.5" r="4" fill="#3465a4"><title>MacDougall of MacDougall</title></circle></a><a href="/setts/s24/r34w1db10dg10w1ly1dg2t2w1db2t10r6w1~x2/"><circle cx="178.0" cy="28.3" r="4" fill="#3465a4"><title>Holyrood (Chair)</title></circle></a><a href="/setts/s38/r5ly1r8w1db20w1t20w1g20ly1r5ly1r5ly1g20ly2r52w1ly5w1~x2/"><circle cx="229.3" cy="14.0" r="4" fill="#3465a4"><title>Whitworth</title></circle></a><a href="/setts/s48/m99g6m8g4m10dy34r2dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r2dy34t36dy6t18/"><circle cx="245.3" cy="14.0" r="4" fill="#3465a4"><title>Unidentified Cant #11</title></circle></a><a href="/setts/s25/dp96dg10dp8dg8dp10dy34r1dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r1dy34t36dy6t18~x2/"><circle cx="244.6" cy="28.9" r="4" fill="#3465a4"><title>Unidentified #5</title></circle></a><a href="/setts/s23/k12r4ly4k8r66g8r1ly1r8g60w3k60r3dp60r8ly3r3dp8r66k8ly4r4k6~x2/"><circle cx="232.7" cy="19.7" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/setts/s42/k7r3ly2r60g7r2ly2r7g50w2k50r2dt50r7ly2r2dt7r60k7ly2r3k7/"><circle cx="219.3" cy="16.0" r="4" fill="#3465a4"><title>Hay &amp; Leith #2</title></circle></a><a href="/setts/s24/t1r4r2r2dg27r4dg2r4dp10r3r2r2r2r3dg10r10dg10r2dp2r26r3r2r3t1~x2/"><circle cx="230.2" cy="55.3" r="4" fill="#3465a4"><title>MacDougall (Wilson)</title></circle></a><a href="/setts/s25/w2k1r3db3r3r3r19r3r3db3r3db29ly3g29r3db3r3r3r19r3r3db3r3k1w2~x4/"><circle cx="185.4" cy="19.5" r="4" fill="#3465a4"><title>Fitzgerald Dress</title></circle></a><circle cx="207.6" cy="26.1" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s34/r44m4db16r4m6db8m6r6db2r4db2r4db2r6w1g24t6w1/

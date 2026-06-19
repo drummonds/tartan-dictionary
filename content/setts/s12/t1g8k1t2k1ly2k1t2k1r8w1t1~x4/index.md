@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,21 +914,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Robieson Playfield (School)](/setts/s13/ly1k1r8db1r1dg8k1db8ly1dg1ly8k1w1~x6/) — ΔT 0.54
+1. [Robieson Playfield (School)](/setts/s13/w1k1ly8dg1ly1db8k1dg8r1db1r8k1ly1~x6/) — ΔT 0.54
 1. [MacWhirter](/setts/s12/t1dg8k1t2k1ly2k1t2k1r8w1t1~x4/) — ΔT 0.65
 1. [Buchanan 1](/setts/s13/t2g12k1t2k1ly3k1ly3k1t2k1r12w2~x2/) — ΔT 0.83
 1. [Buchanan #3](/setts/s13/t2dg12k1t2k1ly3k1ly3k1t2k1r12w2~x2/) — ΔT 0.85
-1. [Buchanan #4](/setts/s13/t4dg25k2t4k2ly8k3ly8k2t4k2r25w4~x2/) — ΔT 0.89
+1. [Buchanan #4](/setts/s13/t4dg25k2t4k2ly8k3ly8k2t4k2r25w4~x2/) — ΔT 0.90
 1. [Buchanan 9](/setts/s13/t4g25k2t4k2ly8k3ly8k2t4k2r25w4~x2/) — ΔT 0.92
 1. [O'Farrell Irish Family Tartan Tartan Number: 1875. Earliest known date: c1880 This pattern was recorded by Bill Johnston, Shippak, USA in 1978 along with other patterns extracted from the 'Clan Originaux' at Pendleton Mill. This and other Irish patterns appear to have originated in the former Waterford Mill in Ireland before they arrived at Pendleton in the late 19thC See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/w2dy14ly3k6w2k2w2k2g8lo6k2lo3w2~x2/) — ΔT 0.93
-1. [Stirling and Bannockburn](/setts/s10/ly3g2lg18r3k13r4lb3r4g18r3~x2/) — ΔT 1.00
+1. [Stirling and Bannockburn](/setts/s10/r3g18r4lb3r4k13r3lg18g2ly3~x2/) — ΔT 1.00
 1. [MacLean](/setts/s11/db8k8ly2k3w3k3g24r16db3r4k2~x2/) — ΔT 1.03
 1. [Dykes, of Perthshire](/setts/s13/t3k3t21k12r12ly3k4w3dg20r8k3r6w3~x2/) — ΔT 1.12
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/ly1k1r8db1r1dg8k1db8ly1dg1ly8k1w1~x6/"><circle cx="58.0" cy="115.8" r="4" fill="#3465a4"><title>Robieson Playfield (School)</title></circle></a><a href="/setts/s12/t1dg8k1t2k1ly2k1t2k1r8w1t1~x4/"><circle cx="88.3" cy="126.3" r="4" fill="#3465a4"><title>MacWhirter</title></circle></a><a href="/setts/s13/t2g12k1t2k1ly3k1ly3k1t2k1r12w2~x2/"><circle cx="84.6" cy="92.3" r="4" fill="#3465a4"><title>Buchanan 1</title></circle></a><a href="/setts/s13/t2dg12k1t2k1ly3k1ly3k1t2k1r12w2~x2/"><circle cx="94.9" cy="95.5" r="4" fill="#3465a4"><title>Buchanan #3</title></circle></a><a href="/setts/s13/t4dg25k2t4k2ly8k3ly8k2t4k2r25w4~x2/"><circle cx="87.4" cy="95.3" r="4" fill="#3465a4"><title>Buchanan #4</title></circle></a><a href="/setts/s13/t4g25k2t4k2ly8k3ly8k2t4k2r25w4~x2/"><circle cx="77.4" cy="92.2" r="4" fill="#3465a4"><title>Buchanan 9</title></circle></a><a href="/setts/s13/w2dy14ly3k6w2k2w2k2g8lo6k2lo3w2~x2/"><circle cx="32.7" cy="140.3" r="4" fill="#3465a4"><title>O'Farrell Irish Family Tartan Tartan Number: 1875. Earliest known date: c1880 This pattern was recorded by Bill Johnston, Shippak, USA in 1978 along with other patterns extracted from the 'Clan Originaux' at Pendleton Mill. This and other Irish patterns appear to have originated in the former Waterford Mill in Ireland before they arrived at Pendleton in the late 19thC See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/ly3g2lg18r3k13r4lb3r4g18r3~x2/"><circle cx="75.4" cy="144.8" r="4" fill="#3465a4"><title>Stirling and Bannockburn</title></circle></a><a href="/setts/s11/db8k8ly2k3w3k3g24r16db3r4k2~x2/"><circle cx="99.4" cy="118.6" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s13/t3k3t21k12r12ly3k4w3dg20r8k3r6w3~x2/"><circle cx="42.4" cy="140.4" r="4" fill="#3465a4"><title>Dykes, of Perthshire</title></circle></a><circle cx="69.9" cy="119.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/w1k1ly8dg1ly1db8k1dg8r1db1r8k1ly1~x6/"><circle cx="57.8" cy="115.9" r="4" fill="#3465a4"><title>Robieson Playfield (School)</title></circle></a><a href="/setts/s12/t1dg8k1t2k1ly2k1t2k1r8w1t1~x4/"><circle cx="88.2" cy="126.5" r="4" fill="#3465a4"><title>MacWhirter</title></circle></a><a href="/setts/s13/t2g12k1t2k1ly3k1ly3k1t2k1r12w2~x2/"><circle cx="84.4" cy="92.4" r="4" fill="#3465a4"><title>Buchanan 1</title></circle></a><a href="/setts/s13/t2dg12k1t2k1ly3k1ly3k1t2k1r12w2~x2/"><circle cx="94.7" cy="95.6" r="4" fill="#3465a4"><title>Buchanan #3</title></circle></a><a href="/setts/s13/t4dg25k2t4k2ly8k3ly8k2t4k2r25w4~x2/"><circle cx="87.2" cy="95.4" r="4" fill="#3465a4"><title>Buchanan #4</title></circle></a><a href="/setts/s13/t4g25k2t4k2ly8k3ly8k2t4k2r25w4~x2/"><circle cx="77.3" cy="92.3" r="4" fill="#3465a4"><title>Buchanan 9</title></circle></a><a href="/setts/s13/w2dy14ly3k6w2k2w2k2g8lo6k2lo3w2~x2/"><circle cx="32.7" cy="140.4" r="4" fill="#3465a4"><title>O'Farrell Irish Family Tartan Tartan Number: 1875. Earliest known date: c1880 This pattern was recorded by Bill Johnston, Shippak, USA in 1978 along with other patterns extracted from the 'Clan Originaux' at Pendleton Mill. This and other Irish patterns appear to have originated in the former Waterford Mill in Ireland before they arrived at Pendleton in the late 19thC See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r3g18r4lb3r4k13r3lg18g2ly3~x2/"><circle cx="75.4" cy="145.0" r="4" fill="#3465a4"><title>Stirling and Bannockburn</title></circle></a><a href="/setts/s11/db8k8ly2k3w3k3g24r16db3r4k2~x2/"><circle cx="99.4" cy="118.7" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s13/t3k3t21k12r12ly3k4w3dg20r8k3r6w3~x2/"><circle cx="42.4" cy="140.6" r="4" fill="#3465a4"><title>Dykes, of Perthshire</title></circle></a><circle cx="69.8" cy="119.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/t1g8k1t2k1ly2k1t2k1r8w1t1~x4/

@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10206
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Bicknell, The Hamish
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -23,7 +29,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10206](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10206)
 
 ## Thread count
-R/4 K2 T20 Y4 T4 G50 T4 K4 R50 K2 W/6
+W/6 K2 R50 K4 T4 G50 T4 Y4 T20 K2 R/4
 ![Sett](sett.png)
 
 ## Palette
@@ -55,8 +61,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/"><circle cx="192.1" cy="86.9" r="4" fill="#3465a4"><title>O'Keefe (Name)</title></circle></a><a href="/setts/s11/w1t3db2r18r2g16r2r2r2t3w1~x2/"><circle cx="209.0" cy="102.7" r="4" fill="#3465a4"><title>Moray of Abercairny</title></circle></a><a href="/setts/s11/lb2r16k1t2k1lo4k1t2k1g16t1~x4/"><circle cx="165.4" cy="94.3" r="4" fill="#3465a4"><title>Baxter (Clan)</title></circle></a><a href="/setts/s10/r15lo30k1w6k1lo2dg16t4r6w1~x2/"><circle cx="209.1" cy="86.6" r="4" fill="#3465a4"><title>Westwood (Fashion?)</title></circle></a><a href="/setts/s9/k2w1dg25dy11r12w1lo12k1w2~x2/"><circle cx="170.3" cy="101.5" r="4" fill="#3465a4"><title>Leaf Peeper</title></circle></a><a href="/setts/s11/w2r16k1t2k1ly4k1t2k1g16t1~x2/"><circle cx="154.2" cy="84.5" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><a href="/setts/s9/w2dg27ly1lo7t5ly5r17ly6t1~x2/"><circle cx="172.9" cy="91.4" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/setts/s9/k2w1dg25dy11r12w1ly12k1w2~x2/"><circle cx="167.6" cy="96.3" r="4" fill="#3465a4"><title>Leaf Peeper</title></circle></a><a href="/setts/s13/w2r16k1t2k1ly4k1ly4k1t2k1g16t1~x4/"><circle cx="137.7" cy="78.9" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/setts/s11/o5k3w2r20db10g2w1r1g20k4o3~x2/"><circle cx="150.6" cy="103.6" r="4" fill="#3465a4"><title>MacCullough Family Tartan Tartan Number: 3214. Earliest known date: 2000 I would like to let you know that working with Peter MacDonald, he designed a tartan for me that was registered with the Scottish Tartan Authority on 5 December 2000 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="208.4" cy="81.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/"><circle cx="191.9" cy="87.0" r="4" fill="#3465a4"><title>O'Keefe (Name)</title></circle></a><a href="/setts/s11/w1t3db2r18r2g16r2r2r2t3w1~x2/"><circle cx="208.8" cy="102.8" r="4" fill="#3465a4"><title>Moray of Abercairny</title></circle></a><a href="/setts/s11/lb2r16k1t2k1lo4k1t2k1g16t1~x4/"><circle cx="165.2" cy="94.4" r="4" fill="#3465a4"><title>Baxter (Clan)</title></circle></a><a href="/setts/s10/r15lo30k1w6k1lo2dg16t4r6w1~x2/"><circle cx="208.8" cy="86.7" r="4" fill="#3465a4"><title>Westwood (Fashion?)</title></circle></a><a href="/setts/s9/k2w1dg25dy11r12w1lo12k1w2~x2/"><circle cx="170.1" cy="101.6" r="4" fill="#3465a4"><title>Leaf Peeper</title></circle></a><a href="/setts/s11/w2r16k1t2k1ly4k1t2k1g16t1~x2/"><circle cx="153.9" cy="84.6" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><a href="/setts/s9/w2dg27ly1lo7t5ly5r17ly6t1~x2/"><circle cx="172.6" cy="91.5" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/setts/s9/k2w1dg25dy11r12w1ly12k1w2~x2/"><circle cx="167.3" cy="96.4" r="4" fill="#3465a4"><title>Leaf Peeper</title></circle></a><a href="/setts/s13/w2r16k1t2k1ly4k1ly4k1t2k1g16t1~x4/"><circle cx="137.4" cy="79.0" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/setts/s11/o5k3w2r20db10g2w1r1g20k4o3~x2/"><circle cx="150.5" cy="103.8" r="4" fill="#3465a4"><title>MacCullough Family Tartan Tartan Number: 3214. Earliest known date: 2000 I would like to let you know that working with Peter MacDonald, he designed a tartan for me that was registered with the Scottish Tartan Authority on 5 December 2000 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="208.2" cy="82.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/w3k1r25k2dy2g25dy2ly2dy10k1r2~x2/

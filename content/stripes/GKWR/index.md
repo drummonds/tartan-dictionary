@@ -20,7 +20,7 @@ GKWR
 
 
 
-### Y K W R <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">Y K W R</span></span>
+### R W K Y <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">R W K Y</span></span>
 
 | Tartans |
 |---------------|

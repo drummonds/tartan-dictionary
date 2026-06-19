@@ -8,7 +8,7 @@ RBBKGY
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/ly2g11k11b12dt3r2~x2/tartan.png)
+![Woven sample](/setts/s6/r2dt3b12k11g11ly2~x2/tartan.png)
 
 
 
@@ -25,13 +25,13 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Huntly Gordon 2000 (Commem)](/setts/s6/ly2g11k11b12dt3r2~x2/)|
-|![Huntly Gordon 2000 (Commem) example sett](/setts/s6/ly2g11k11b12dt3r2~x2/sett.png)|
+| [Huntly Gordon 2000 (Commem)](/setts/s6/r2dt3b12k11g11ly2~x2/)|
+|![Huntly Gordon 2000 (Commem) example sett](/setts/s6/r2dt3b12k11g11ly2~x2/sett.png)|
 
 ### R DT N K DG LY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R DT N K DG LY</span></span>
 
 | Tartans |
 |---------------|
-| [Huntly Gordon](/setts/s6/ly2dg11k11n12dt3r2~x2/)|
-|![Huntly Gordon example sett](/setts/s6/ly2dg11k11n12dt3r2~x2/sett.png)|
+| [Huntly Gordon](/setts/s6/r2dt3n12k11dg11ly2~x2/)|
+|![Huntly Gordon example sett](/setts/s6/r2dt3n12k11dg11ly2~x2/sett.png)|
 

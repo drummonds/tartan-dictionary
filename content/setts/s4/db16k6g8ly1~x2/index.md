@@ -2,7 +2,7 @@
 title: "Sinclair, Sir John"
 date: 2023-03-18
 ---
-**Bands:** [BKGY](/stripes/bkgy/) · **Stripes:** [DB K G LY](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB K G LY</span></span>
+**Bands:** [YGKB](/stripes/ygkb/) · **Stripes:** [LY G K DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LY G K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -919,8 +922,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/k41lg16dg14w2~x2/"><circle cx="312.5" cy="213.9" r="4" fill="#3465a4"><title>Hamworthy Association</title></circle></a><a href="/setts/s5/g40k15b10k10ly3~x2/"><circle cx="280.0" cy="216.5" r="4" fill="#3465a4"><title>U.S. Border Patrol (Corporate)</title></circle></a><a href="/setts/s5/b32k10g15k2ly4~x2/"><circle cx="277.0" cy="208.6" r="4" fill="#3465a4"><title>Rothesay &amp; Caithness Fencibles (Mil)</title></circle></a><a href="/setts/s5/dg30w8dt32ly1dt8~x2/"><circle cx="322.6" cy="193.4" r="4" fill="#3465a4"><title>Boroughmuir</title></circle></a><a href="/setts/s5/dg35t40w11lo3dg7~x2/"><circle cx="225.5" cy="203.4" r="4" fill="#3465a4"><title>Fife Ethylene Plant</title></circle></a><a href="/setts/s6/r4g40k21lo2k21g2~x2/"><circle cx="298.7" cy="185.3" r="4" fill="#3465a4"><title>Unidentified Furnishing #2</title></circle></a><a href="/setts/s4/b12k4g6ly1~x8/"><circle cx="278.3" cy="248.0" r="4" fill="#3465a4"><title>Sinclair of Ulbster (Portrait)</title></circle></a><a href="/setts/s4/g20r7db40w2~x2/"><circle cx="346.2" cy="211.7" r="4" fill="#3465a4"><title>McNiff, Kevin (Personal)</title></circle></a><a href="/setts/s6/dg4db12r3db12dg32lb4/"><circle cx="301.3" cy="218.6" r="4" fill="#3465a4"><title>MacIntyre L</title></circle></a><a href="/setts/s5/g30w8db32ly1db8~x2/"><circle cx="305.5" cy="180.5" r="4" fill="#3465a4"><title>Wimbledon</title></circle></a><circle cx="265.7" cy="226.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/k41lg16dg14w2~x2/"><circle cx="312.6" cy="213.7" r="4" fill="#3465a4"><title>Hamworthy Association</title></circle></a><a href="/setts/s5/g40k15b10k10ly3~x2/"><circle cx="280.0" cy="216.3" r="4" fill="#3465a4"><title>U.S. Border Patrol (Corporate)</title></circle></a><a href="/setts/s5/b32k10g15k2ly4~x2/"><circle cx="277.0" cy="208.5" r="4" fill="#3465a4"><title>Rothesay &amp; Caithness Fencibles (Mil)</title></circle></a><a href="/setts/s5/dg30w8dt32ly1dt8~x2/"><circle cx="322.7" cy="193.2" r="4" fill="#3465a4"><title>Boroughmuir</title></circle></a><a href="/setts/s5/dg35t40w11lo3dg7~x2/"><circle cx="225.5" cy="203.2" r="4" fill="#3465a4"><title>Fife Ethylene Plant</title></circle></a><a href="/setts/s6/r4g40k21lo2k21g2~x2/"><circle cx="298.8" cy="185.1" r="4" fill="#3465a4"><title>Unidentified Furnishing #2</title></circle></a><a href="/setts/s4/b12k4g6ly1~x8/"><circle cx="278.3" cy="247.8" r="4" fill="#3465a4"><title>Sinclair of Ulbster (Portrait)</title></circle></a><a href="/setts/s4/g20r7db40w2~x2/"><circle cx="346.3" cy="211.5" r="4" fill="#3465a4"><title>McNiff, Kevin (Personal)</title></circle></a><a href="/setts/s6/dg4db12r3db12dg32lb4/"><circle cx="301.3" cy="218.4" r="4" fill="#3465a4"><title>MacIntyre L</title></circle></a><a href="/setts/s5/g30w8db32ly1db8~x2/"><circle cx="305.4" cy="180.3" r="4" fill="#3465a4"><title>Wimbledon</title></circle></a><circle cx="265.8" cy="226.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/db16k6g8ly1~x2/

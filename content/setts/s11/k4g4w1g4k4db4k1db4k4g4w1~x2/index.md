@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Graham of Montrose #3
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -915,8 +924,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k1db3k3g3r1g3k3g1r1~x2/"><circle cx="82.6" cy="269.3" r="4" fill="#3465a4"><title>Unnamed, No 30</title></circle></a><a href="/setts/s7/k4g4w1g4k4db4k1~x4/"><circle cx="109.0" cy="276.9" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/setts/s7/k4g4ly1g4k4db4k1~x2/"><circle cx="110.6" cy="277.4" r="4" fill="#3465a4"><title>MacKay, Coat</title></circle></a><a href="/setts/s7/k4g4k1g4k4db4ly1~x2/"><circle cx="110.6" cy="277.4" r="4" fill="#3465a4"><title>Unnamed, No 39</title></circle></a><a href="/setts/s9/r2db4k4g4lb1g4k4g4lb1~x4/"><circle cx="76.5" cy="250.4" r="4" fill="#3465a4"><title>Arrol</title></circle></a><a href="/setts/s10/lb8k4lb8k2lb3k8dg8r2dg8k4~x2/"><circle cx="67.9" cy="240.7" r="4" fill="#3465a4"><title>Ferguson Dress variation</title></circle></a><a href="/setts/s13/db3k1db1k1db1k4g4w1g4k4db4k1db1~x2/"><circle cx="105.7" cy="229.4" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s12/db9k9g9w2g9k9g9w2g9k9db9k3~x2/"><circle cx="123.2" cy="266.9" r="4" fill="#3465a4"><title>Graham of Montrose #2</title></circle></a><a href="/setts/s7/k12g12k2g12k12db12t3~x2/"><circle cx="130.3" cy="262.3" r="4" fill="#3465a4"><title>MacIntyre</title></circle></a><a href="/setts/s7/db4g6w1g6k6db6k2~x4/"><circle cx="119.6" cy="261.3" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><circle cx="76.9" cy="257.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k1db3k3g3r1g3k3g1r1~x2/"><circle cx="82.9" cy="269.2" r="4" fill="#3465a4"><title>Unnamed, No 30</title></circle></a><a href="/setts/s7/k4g4w1g4k4db4k1~x4/"><circle cx="109.3" cy="276.7" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/setts/s7/k4g4ly1g4k4db4k1~x2/"><circle cx="110.9" cy="277.3" r="4" fill="#3465a4"><title>MacKay, Coat</title></circle></a><a href="/setts/s7/k4g4k1g4k4db4ly1~x2/"><circle cx="110.9" cy="277.3" r="4" fill="#3465a4"><title>Unnamed, No 39</title></circle></a><a href="/setts/s9/r2db4k4g4lb1g4k4g4lb1~x4/"><circle cx="76.8" cy="250.3" r="4" fill="#3465a4"><title>Arrol</title></circle></a><a href="/setts/s10/lb8k4lb8k2lb3k8dg8r2dg8k4~x2/"><circle cx="68.1" cy="240.6" r="4" fill="#3465a4"><title>Ferguson Dress variation</title></circle></a><a href="/setts/s13/db3k1db1k1db1k4g4w1g4k4db4k1db1~x2/"><circle cx="105.9" cy="229.3" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s12/db9k9g9w2g9k9g9w2g9k9db9k3~x2/"><circle cx="123.4" cy="266.9" r="4" fill="#3465a4"><title>Graham of Montrose #2</title></circle></a><a href="/setts/s7/k12g12k2g12k12db12t3~x2/"><circle cx="130.6" cy="262.2" r="4" fill="#3465a4"><title>MacIntyre</title></circle></a><a href="/setts/s7/db4g6w1g6k6db6k2~x4/"><circle cx="119.9" cy="261.1" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><circle cx="77.2" cy="257.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k4g4w1g4k4db4k1db4k4g4w1~x2/

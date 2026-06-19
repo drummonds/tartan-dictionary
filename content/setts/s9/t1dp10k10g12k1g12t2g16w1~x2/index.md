@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10571
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Faskin Family
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -42,8 +48,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Henderson/MacKendrick](/setts/s9/ly1k6g4k1g16db1g4db6w1~x4/) — ΔT 0.89
-1. [MacKendrick](/setts/s9/ly1k6g4k1g16db1g4db6w1~x2/) — ΔT 0.89
+1. [Henderson/MacKendrick](/setts/s9/w1db6g4db1g16k1g4k6ly1~x4/) — ΔT 0.89
+1. [MacKendrick](/setts/s9/w1db6g4db1g16k1g4k6ly1~x2/) — ΔT 0.89
 1. [Otago Peninsula](/setts/s12/dg4k4m4k2dg12k2dg12k2m4dg4w1r4~x2/) — ΔT 1.02
 1. [Carrick Hunting District Tartan Tartan Number: 721. Earliest known date: 1930 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g13dp1g1dp1g3db5k4ly2~x2/) — ΔT 1.08
 1. [Taylor](/setts/s8/g8k2g13r4g12db22g5ly3~x2/) — ΔT 1.09
@@ -55,8 +61,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/ly1k6g4k1g16db1g4db6w1~x4/"><circle cx="327.2" cy="165.9" r="4" fill="#3465a4"><title>Henderson/MacKendrick</title></circle></a><a href="/setts/s9/ly1k6g4k1g16db1g4db6w1~x2/"><circle cx="327.2" cy="165.9" r="4" fill="#3465a4"><title>MacKendrick</title></circle></a><a href="/setts/s12/dg4k4m4k2dg12k2dg12k2m4dg4w1r4~x2/"><circle cx="281.4" cy="180.6" r="4" fill="#3465a4"><title>Otago Peninsula</title></circle></a><a href="/setts/s8/g13dp1g1dp1g3db5k4ly2~x2/"><circle cx="289.4" cy="173.2" r="4" fill="#3465a4"><title>Carrick Hunting District Tartan Tartan Number: 721. Earliest known date: 1930 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="266.2" cy="199.6" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/setts/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/"><circle cx="324.0" cy="160.9" r="4" fill="#3465a4"><title>Ronald, Clan (Clan)</title></circle></a><a href="/setts/s8/g10db1w1db1ly1db6g8r1~x8/"><circle cx="326.6" cy="186.5" r="4" fill="#3465a4"><title>Marshall Field</title></circle></a><a href="/setts/s11/ly13db2g38db13g8db8g17db2g17db4w11/"><circle cx="286.8" cy="152.2" r="4" fill="#3465a4"><title>Bute Heather, Glencallum (Fashion)</title></circle></a><a href="/setts/s11/k3db10dg25ly2dg2ly3dg2ly2dg25db10w3~x2/"><circle cx="323.9" cy="153.3" r="4" fill="#3465a4"><title>William &amp; Mary GALA (Corporate)</title></circle></a><a href="/setts/s6/g26db3g12k10dp15w2~x2/"><circle cx="275.6" cy="207.5" r="4" fill="#3465a4"><title>Lossiemouth/Hersbruck</title></circle></a><circle cx="318.1" cy="182.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w1db6g4db1g16k1g4k6ly1~x4/"><circle cx="327.1" cy="165.8" r="4" fill="#3465a4"><title>Henderson/MacKendrick</title></circle></a><a href="/setts/s9/w1db6g4db1g16k1g4k6ly1~x2/"><circle cx="327.1" cy="165.8" r="4" fill="#3465a4"><title>MacKendrick</title></circle></a><a href="/setts/s12/dg4k4m4k2dg12k2dg12k2m4dg4w1r4~x2/"><circle cx="281.3" cy="180.6" r="4" fill="#3465a4"><title>Otago Peninsula</title></circle></a><a href="/setts/s8/g13dp1g1dp1g3db5k4ly2~x2/"><circle cx="289.3" cy="173.1" r="4" fill="#3465a4"><title>Carrick Hunting District Tartan Tartan Number: 721. Earliest known date: 1930 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="266.1" cy="199.5" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/setts/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/"><circle cx="323.8" cy="160.8" r="4" fill="#3465a4"><title>Ronald, Clan (Clan)</title></circle></a><a href="/setts/s8/g10db1w1db1ly1db6g8r1~x8/"><circle cx="326.4" cy="186.3" r="4" fill="#3465a4"><title>Marshall Field</title></circle></a><a href="/setts/s11/ly13db2g38db13g8db8g17db2g17db4w11/"><circle cx="286.6" cy="152.0" r="4" fill="#3465a4"><title>Bute Heather, Glencallum (Fashion)</title></circle></a><a href="/setts/s11/k3db10dg25ly2dg2ly3dg2ly2dg25db10w3~x2/"><circle cx="323.8" cy="153.2" r="4" fill="#3465a4"><title>William &amp; Mary GALA (Corporate)</title></circle></a><a href="/setts/s6/g26db3g12k10dp15w2~x2/"><circle cx="275.6" cy="207.4" r="4" fill="#3465a4"><title>Lossiemouth/Hersbruck</title></circle></a><circle cx="318.0" cy="182.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/t1dp10k10g12k1g12t2g16w1~x2/

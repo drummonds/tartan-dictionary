@@ -19,17 +19,17 @@ WKBKBRBKGRGRGKY
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### W K DB K DB R DB K DG R DG R DG K LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W K DB K DB R DB K DG R DG R DG K LY</span></span>
+### LY K DG R DG R DG K DB R DB K DB K W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K DG R DG R DG K DB R DB K DB K W</span></span>
 
 | Tartans |
 |---------------|
-| [Unidentified Flora MacDonald](/setts/s15/ly6k1dg10r3dg3r3dg16k24db18r30db20k24db30k1w6~x2/)|
-|![Unidentified Flora MacDonald example sett](/setts/s15/ly6k1dg10r3dg3r3dg16k24db18r30db20k24db30k1w6~x2/sett.png)|
+| [Unidentified Flora MacDonald](/setts/s15/w6k1db30k24db20r30db18k24dg16r3dg3r3dg10k1ly6~x2/)|
+|![Unidentified Flora MacDonald example sett](/setts/s15/w6k1db30k24db20r30db18k24dg16r3dg3r3dg10k1ly6~x2/sett.png)|
 
-### W K DB K DB R DB K G R G R G K LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W K DB K DB R DB K G R G R G K LY</span></span>
+### LY K G R G R G K DB R DB K DB K W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K G R G R G K DB R DB K DB K W</span></span>
 
 | Tartans |
 |---------------|
-| [Unidentified, Flora MacDonald](/setts/s15/ly6k1g10r3g3r3g16k24db18r30db20k24db30k1w6~x2/)|
-|![Unidentified, Flora MacDonald example sett](/setts/s15/ly6k1g10r3g3r3g16k24db18r30db20k24db30k1w6~x2/sett.png)|
+| [Unidentified, Flora MacDonald](/setts/s15/w6k1db30k24db20r30db18k24g16r3g3r3g10k1ly6~x2/)|
+|![Unidentified, Flora MacDonald example sett](/setts/s15/w6k1db30k24db20r30db18k24g16r3g3r3g10k1ly6~x2/sett.png)|
 

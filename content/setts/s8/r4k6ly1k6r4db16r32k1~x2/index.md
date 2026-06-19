@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Leslie Dress
+
 ## Attestations
 
 This cloth appears in 4 source records; the oldest owns this page.
@@ -333,6 +339,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -437,6 +444,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -703,6 +711,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -936,7 +945,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-K/2 R64 B32 R8 K12 Y2 K12 R/8
+R/8 K12 Y2 K12 R8 B32 R64 K/2
 ![Sett](sett.png)
 
 ## Palette
@@ -951,13 +960,13 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/2 R64 B32 R8 K12 Y2 K12 R/8 tartan")
+![Tartan detail](tartan.png "R/8 K12 Y2 K12 R8 B32 R64 K/2 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Leslie Dress](/setts/s8/r4k6ly1k6r4db16r32db1/) — ΔT 0.43
+1. [Leslie Dress](/setts/s8/r4k6ly1k6r4db16r32db1~x2/) — ΔT 0.43
 1. [Mens Bigi](/setts/s8/lo4k17r1k4r2k4r33w3~x2/) — ΔT 0.77
 1. [Cunningham #3](/setts/s7/k3r1k30r28db1r1w3~x2/) — ΔT 0.95
 1. [Wemyss](/setts/s9/r4k12w1k12r4k4r24g1r4~x4/) — ΔT 1.07
@@ -965,13 +974,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Sutherland de Albergaria (Personal)](/setts/s8/w10k2w2k66ly6r48k5r8/) — ΔT 1.11
 1. [Ramsay (Red)](/setts/s6/k4w1k28r30dp1r3~x2/) — ΔT 1.13
 1. [Smeaton 1985 (Name)](/setts/s10/k6r4lb3r44k32r3k3lo3k2r3~x2/) — ΔT 1.17
-1. [MacDonell of Keppoch](/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/) — ΔT 1.19
+1. [MacDonell of Keppoch](/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1/) — ΔT 1.19
 1. [Fraser](/setts/s6/r2db12r2dg12r24w1~x2/) — ΔT 1.21
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r4k6ly1k6r4db16r32db1/"><circle cx="353.2" cy="117.5" r="4" fill="#3465a4"><title>Leslie Dress</title></circle></a><a href="/setts/s8/lo4k17r1k4r2k4r33w3~x2/"><circle cx="365.1" cy="122.7" r="4" fill="#3465a4"><title>Mens Bigi</title></circle></a><a href="/setts/s7/k3r1k30r28db1r1w3~x2/"><circle cx="350.3" cy="117.9" r="4" fill="#3465a4"><title>Cunningham #3</title></circle></a><a href="/setts/s9/r4k12w1k12r4k4r24g1r4~x4/"><circle cx="359.5" cy="141.1" r="4" fill="#3465a4"><title>Wemyss</title></circle></a><a href="/setts/s8/r11w1r32k8db6k1db16k1~x2/"><circle cx="353.1" cy="114.0" r="4" fill="#3465a4"><title>Ostermeier (2015)</title></circle></a><a href="/setts/s8/w10k2w2k66ly6r48k5r8/"><circle cx="321.5" cy="107.2" r="4" fill="#3465a4"><title>Sutherland de Albergaria (Personal)</title></circle></a><a href="/setts/s6/k4w1k28r30dp1r3~x2/"><circle cx="368.0" cy="140.8" r="4" fill="#3465a4"><title>Ramsay (Red)</title></circle></a><a href="/setts/s10/k6r4lb3r44k32r3k3lo3k2r3~x2/"><circle cx="359.8" cy="112.7" r="4" fill="#3465a4"><title>Smeaton 1985 (Name)</title></circle></a><a href="/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/"><circle cx="375.0" cy="119.9" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s6/r2db12r2dg12r24w1~x2/"><circle cx="322.1" cy="161.6" r="4" fill="#3465a4"><title>Fraser</title></circle></a><circle cx="360.5" cy="119.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r4k6ly1k6r4db16r32db1~x2/"><circle cx="353.0" cy="117.3" r="4" fill="#3465a4"><title>Leslie Dress</title></circle></a><a href="/setts/s8/lo4k17r1k4r2k4r33w3~x2/"><circle cx="364.9" cy="122.5" r="4" fill="#3465a4"><title>Mens Bigi</title></circle></a><a href="/setts/s7/k3r1k30r28db1r1w3~x2/"><circle cx="350.0" cy="117.7" r="4" fill="#3465a4"><title>Cunningham #3</title></circle></a><a href="/setts/s9/r4k12w1k12r4k4r24g1r4~x4/"><circle cx="359.2" cy="141.0" r="4" fill="#3465a4"><title>Wemyss</title></circle></a><a href="/setts/s8/r11w1r32k8db6k1db16k1~x2/"><circle cx="352.7" cy="113.8" r="4" fill="#3465a4"><title>Ostermeier (2015)</title></circle></a><a href="/setts/s8/w10k2w2k66ly6r48k5r8/"><circle cx="321.3" cy="107.1" r="4" fill="#3465a4"><title>Sutherland de Albergaria (Personal)</title></circle></a><a href="/setts/s6/k4w1k28r30dp1r3~x2/"><circle cx="367.7" cy="140.7" r="4" fill="#3465a4"><title>Ramsay (Red)</title></circle></a><a href="/setts/s10/k6r4lb3r44k32r3k3lo3k2r3~x2/"><circle cx="359.5" cy="112.6" r="4" fill="#3465a4"><title>Smeaton 1985 (Name)</title></circle></a><a href="/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1/"><circle cx="374.6" cy="119.7" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s6/r2db12r2dg12r24w1~x2/"><circle cx="322.0" cy="161.5" r="4" fill="#3465a4"><title>Fraser</title></circle></a><circle cx="360.2" cy="119.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r4k6ly1k6r4db16r32k1~x2/

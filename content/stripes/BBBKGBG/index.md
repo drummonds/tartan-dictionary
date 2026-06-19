@@ -8,7 +8,7 @@ BBBKGBG
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/db5dp3db32k16dg32dp3dg5/tartan.png)
+![Woven sample](/setts/s7/dg5dp3dg32k16db32dp3db5/tartan.png)
 
 
 
@@ -21,28 +21,28 @@ BBBKGBG
 Grouped by stripe pattern — the 3 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DB DP DB K DG N DG <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="seq">DB DP DB K DG N DG</span></span>
+### DG DR DG K DB DR DB <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="seq">DG DR DG K DB DR DB</span></span>
 
 | Tartans |
 |---------------|
-| [MacThomas LC](/setts/s7/db5dp3db32k16dg32n3dg5~x2/)|
-|![MacThomas LC example sett](/setts/s7/db5dp3db32k16dg32n3dg5~x2/sett.png)|
-| [MacThomas LC](/setts/s7/db5dp3db32k16dg32n3dg5/)|
-|![MacThomas LC example sett](/setts/s7/db5dp3db32k16dg32n3dg5/sett.png)|
+| [MacThomas](/setts/s7/dg3dr2dg21k11db21dr2db3~x2/)|
+|![MacThomas example sett](/setts/s7/dg3dr2dg21k11db21dr2db3~x2/sett.png)|
+| [MacThomas](/setts/s7/dg3dr2dg21k11db21dr2db3/)|
+|![MacThomas example sett](/setts/s7/dg3dr2dg21k11db21dr2db3/sett.png)|
 
-### DB DR DB K DG DR DG <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="seq">DB DR DB K DG DR DG</span></span>
-
-| Tartans |
-|---------------|
-| [MacThomas](/setts/s7/db3dr2db21k11dg21dr2dg3~x2/)|
-|![MacThomas example sett](/setts/s7/db3dr2db21k11dg21dr2dg3~x2/sett.png)|
-| [MacThomas](/setts/s7/db3dr2db21k11dg21dr2dg3/)|
-|![MacThomas example sett](/setts/s7/db3dr2db21k11dg21dr2dg3/sett.png)|
-
-### DB DP DB K DG DP DG <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="seq">DB DP DB K DG DP DG</span></span>
+### DG N DG K DB DP DB <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="seq">DG N DG K DB DP DB</span></span>
 
 | Tartans |
 |---------------|
-| [MacThomas LC](/setts/s7/db5dp3db32k16dg32dp3dg5/)|
-|![MacThomas LC example sett](/setts/s7/db5dp3db32k16dg32dp3dg5/sett.png)|
+| [MacThomas LC](/setts/s7/dg5n3dg32k16db32dp3db5~x2/)|
+|![MacThomas LC example sett](/setts/s7/dg5n3dg32k16db32dp3db5~x2/sett.png)|
+| [MacThomas LC](/setts/s7/dg5n3dg32k16db32dp3db5/)|
+|![MacThomas LC example sett](/setts/s7/dg5n3dg32k16db32dp3db5/sett.png)|
+
+### DG DP DG K DB DP DB <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="seq">DG DP DG K DB DP DB</span></span>
+
+| Tartans |
+|---------------|
+| [MacThomas LC](/setts/s7/dg5dp3dg32k16db32dp3db5/)|
+|![MacThomas LC example sett](/setts/s7/dg5dp3dg32k16db32dp3db5/sett.png)|
 

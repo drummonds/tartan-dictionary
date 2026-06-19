@@ -2,7 +2,7 @@
 title: "Michie, Andrew (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BGGWK](/stripes/bggwk/) · **Stripes:** [DP G G LB K](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="seq">DP G G LB K</span></span>
+**Bands:** [KWGGB](/stripes/kwggb/) · **Stripes:** [K LB G G DP](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K LB G G DP</span></span>
 
 
 This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/
 Original link http://www.tartansauthority.com/tartan-ferret/display/10379/
 
 ## Thread count
-K/2 LB10 G40 Ga10 P/124
+P/124 Ga10 G40 LB10 K/2
 ![Sett](sett.png)
 
 ## Palette
@@ -26,7 +26,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/2 LB10 G40 Ga10 P/124 tartan")
+![Tartan detail](tartan.png "P/124 Ga10 G40 LB10 K/2 tartan")
 
 ## Nearest tartans
 
@@ -45,8 +45,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db80r21k2ly4k2r16db10~x2/"><circle cx="476.1" cy="132.5" r="4" fill="#3465a4"><title>Salvation Army, dress</title></circle></a><a href="/setts/s5/dp62g5dg20lg5k1~x2/"><circle cx="488.0" cy="140.1" r="4" fill="#3465a4"><title>Michie Dress, Andrew</title></circle></a><a href="/setts/s6/db25r8db3r4k1w3~x2/"><circle cx="416.8" cy="158.0" r="4" fill="#3465a4"><title>Clan Gregor Tartan Tartan Number: 3089. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db74k2r15k2ly4k2r16db10~x2/"><circle cx="472.6" cy="122.5" r="4" fill="#3465a4"><title>Salvation Army Dress (Corporate)</title></circle></a><a href="/setts/s6/db80r8w1r8ly20db15~x2/"><circle cx="476.8" cy="125.7" r="4" fill="#3465a4"><title>Auchtermuchty Tartan Army</title></circle></a><a href="/setts/s8/db57k1r12db1g12r14db1r2~x2/"><circle cx="433.5" cy="115.3" r="4" fill="#3465a4"><title>McBrayer Blue (Personal)</title></circle></a><a href="/setts/s6/dp2g3lp21dp42w1g2~x2/"><circle cx="442.2" cy="122.0" r="4" fill="#3465a4"><title>SiMBA</title></circle></a><a href="/setts/s6/db80r7w1r7ly20db15~x2/"><circle cx="487.3" cy="125.4" r="4" fill="#3465a4"><title>Auchtermuchty Tartan Army (Corp)</title></circle></a><a href="/setts/s9/db5r16db4k3db4k3db43r15w1~x2/"><circle cx="420.0" cy="121.3" r="4" fill="#3465a4"><title>Falkirk Football Club (Corporate)</title></circle></a><a href="/setts/s8/g5ly2dp40w1db15w1db1w1~x2/"><circle cx="416.4" cy="94.8" r="4" fill="#3465a4"><title>Jackson (Personal)</title></circle></a><circle cx="453.1" cy="121.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db80r21k2ly4k2r16db10~x2/"><circle cx="475.8" cy="132.3" r="4" fill="#3465a4"><title>Salvation Army, dress</title></circle></a><a href="/setts/s5/dp62g5dg20lg5k1~x2/"><circle cx="487.7" cy="140.0" r="4" fill="#3465a4"><title>Michie Dress, Andrew</title></circle></a><a href="/setts/s6/db25r8db3r4k1w3~x2/"><circle cx="416.5" cy="157.8" r="4" fill="#3465a4"><title>Clan Gregor Tartan Tartan Number: 3089. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db74k2r15k2ly4k2r16db10~x2/"><circle cx="472.3" cy="122.3" r="4" fill="#3465a4"><title>Salvation Army Dress (Corporate)</title></circle></a><a href="/setts/s6/db80r8w1r8ly20db15~x2/"><circle cx="476.5" cy="125.3" r="4" fill="#3465a4"><title>Auchtermuchty Tartan Army</title></circle></a><a href="/setts/s8/db57k1r12db1g12r14db1r2~x2/"><circle cx="433.3" cy="115.1" r="4" fill="#3465a4"><title>McBrayer Blue (Personal)</title></circle></a><a href="/setts/s6/dp2g3lp21dp42w1g2~x2/"><circle cx="441.8" cy="121.8" r="4" fill="#3465a4"><title>SiMBA</title></circle></a><a href="/setts/s6/db80r7w1r7ly20db15~x2/"><circle cx="487.0" cy="125.0" r="4" fill="#3465a4"><title>Auchtermuchty Tartan Army (Corp)</title></circle></a><a href="/setts/s9/db5r16db4k3db4k3db43r15w1~x2/"><circle cx="419.8" cy="121.1" r="4" fill="#3465a4"><title>Falkirk Football Club (Corporate)</title></circle></a><a href="/setts/s8/g5ly2dp40w1db15w1db1w1~x2/"><circle cx="416.1" cy="94.8" r="4" fill="#3465a4"><title>Jackson (Personal)</title></circle></a><circle cx="452.8" cy="121.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/dp62g5g20lb5k1~x2/

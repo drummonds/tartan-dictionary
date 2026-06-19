@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5495
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Culloden
+- Culloden 1746
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -50,7 +57,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Teall of Teallach (Personal)](/setts/s9/k2t6k1db7g13w1k11r14ly2~x2/) — ΔT 0.73
 1. [Teall of Teallach](/setts/s9/k2t6k1db7dg13w1k11r14ly2~x2/) — ΔT 0.78
-1. [Campbell Hunting](/setts/s10/b4k1w2k3ly1o12dy1k12dy12r4~x2/) — ΔT 0.90
+1. [Campbell Hunting](/setts/s10/r4dy12k12dy1o12ly1k3w2k1b4~x2/) — ΔT 0.90
 1. [Iowa (District)](/setts/s8/r4ly3g12k16dy5db20k4w2~x2/) — ΔT 0.97
 1. [Comyn/Cumming](/setts/s9/r4w1r4dg10ly1k10t4k2t4~x4/) — ΔT 0.99
 1. [Maryland](/setts/s8/dt8t1db1t1m12ly6k12w2~x4/) — ΔT 1.02
@@ -61,8 +68,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k2t6k1db7g13w1k11r14ly2~x2/"><circle cx="61.2" cy="128.5" r="4" fill="#3465a4"><title>Teall of Teallach (Personal)</title></circle></a><a href="/setts/s9/k2t6k1db7dg13w1k11r14ly2~x2/"><circle cx="62.1" cy="128.5" r="4" fill="#3465a4"><title>Teall of Teallach</title></circle></a><a href="/setts/s10/b4k1w2k3ly1o12dy1k12dy12r4~x2/"><circle cx="89.2" cy="122.0" r="4" fill="#3465a4"><title>Campbell Hunting</title></circle></a><a href="/setts/s8/r4ly3g12k16dy5db20k4w2~x2/"><circle cx="81.7" cy="156.5" r="4" fill="#3465a4"><title>Iowa (District)</title></circle></a><a href="/setts/s9/r4w1r4dg10ly1k10t4k2t4~x4/"><circle cx="86.1" cy="162.5" r="4" fill="#3465a4"><title>Comyn/Cumming</title></circle></a><a href="/setts/s8/dt8t1db1t1m12ly6k12w2~x4/"><circle cx="68.6" cy="125.2" r="4" fill="#3465a4"><title>Maryland</title></circle></a><a href="/setts/s7/k7r22t9dp20lb2g28ly7~x2/"><circle cx="74.7" cy="147.7" r="4" fill="#3465a4"><title>Jefferson (Personal)</title></circle></a><a href="/setts/s9/w3db4dg8k5db20g3ly13g4w2~x2/"><circle cx="50.2" cy="130.9" r="4" fill="#3465a4"><title>Armagh County Crest (Fashion)</title></circle></a><a href="/setts/s9/w2db3r6k8g12lo1db4k2w2~x2/"><circle cx="74.8" cy="145.7" r="4" fill="#3465a4"><title>National (1934), The</title></circle></a><a href="/setts/s12/db20t6k8ly2k4w4k4dg13r7k4r3w2~x2/"><circle cx="38.0" cy="128.4" r="4" fill="#3465a4"><title>Stuart/Stewart Black #3</title></circle></a><circle cx="44.2" cy="147.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k2t6k1db7g13w1k11r14ly2~x2/"><circle cx="61.2" cy="128.7" r="4" fill="#3465a4"><title>Teall of Teallach (Personal)</title></circle></a><a href="/setts/s9/k2t6k1db7dg13w1k11r14ly2~x2/"><circle cx="62.2" cy="128.7" r="4" fill="#3465a4"><title>Teall of Teallach</title></circle></a><a href="/setts/s10/r4dy12k12dy1o12ly1k3w2k1b4~x2/"><circle cx="89.3" cy="122.2" r="4" fill="#3465a4"><title>Campbell Hunting</title></circle></a><a href="/setts/s8/r4ly3g12k16dy5db20k4w2~x2/"><circle cx="81.9" cy="156.7" r="4" fill="#3465a4"><title>Iowa (District)</title></circle></a><a href="/setts/s9/r4w1r4dg10ly1k10t4k2t4~x4/"><circle cx="86.2" cy="162.6" r="4" fill="#3465a4"><title>Comyn/Cumming</title></circle></a><a href="/setts/s8/dt8t1db1t1m12ly6k12w2~x4/"><circle cx="68.6" cy="125.4" r="4" fill="#3465a4"><title>Maryland</title></circle></a><a href="/setts/s7/k7r22t9dp20lb2g28ly7~x2/"><circle cx="74.8" cy="147.9" r="4" fill="#3465a4"><title>Jefferson (Personal)</title></circle></a><a href="/setts/s9/w3db4dg8k5db20g3ly13g4w2~x2/"><circle cx="50.3" cy="131.0" r="4" fill="#3465a4"><title>Armagh County Crest (Fashion)</title></circle></a><a href="/setts/s9/w2db3r6k8g12lo1db4k2w2~x2/"><circle cx="74.9" cy="145.8" r="4" fill="#3465a4"><title>National (1934), The</title></circle></a><a href="/setts/s12/db20t6k8ly2k4w4k4dg13r7k4r3w2~x2/"><circle cx="38.1" cy="128.6" r="4" fill="#3465a4"><title>Stuart/Stewart Black #3</title></circle></a><circle cx="44.4" cy="147.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r5lb1dt10w2k10y10k1ly3~x4/

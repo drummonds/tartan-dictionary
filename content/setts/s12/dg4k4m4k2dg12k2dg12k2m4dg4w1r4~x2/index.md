@@ -2,7 +2,7 @@
 title: "Otago Peninsula"
 date: 2023-03-18
 ---
-**Bands:** [GKRKGKGKRGWR](/stripes/gkrkgkgkrgwr/) · **Stripes:** [DG K M K DG K DG K M DG W R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG K M K DG K DG K M DG W R</span></span>
+**Bands:** [RWGRKGKGKRKG](/stripes/rwgrkgkgkrkg/) · **Stripes:** [R W DG M K DG K DG K M K DG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">R W DG M K DG K DG K M K DG</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/8 DB8 DR8 DB4 G24 DB4 G24 DB4 DR8 G8 LN2 R/8
+R/8 LN2 G8 DR8 DB4 G24 DB4 G24 DB4 DR8 DB8 G/8
 ![Sett](sett.png)
 
 ## Palette
@@ -906,18 +909,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Faskin Family (Aberdeenshire)](/setts/s9/t1dp10k10g12k1g12t2g16w1~x2/) — ΔT 1.02
 1. [Montreat](/setts/s11/lo2n10k2r5k2n19k2n19g17k2lo2~x2/) — ΔT 1.05
 1. [Taylor Family Tartan Tartan Number: 809. Earliest known date: 1955 Some similarity to the Cameron recorded in the Vestiarium Scoticum, which may be connected with the name of the designer, Lt Col Iain Cameron Taylor, or to the Clan Cameron warrior Taillear dubh na Tuaighe (Black Taylor of the Axe) who lived in the seventeenth century. The pink stripe is described as 'coral'. The tartan is recognised by the Cameron of Lochiel. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g8k2g13r4g12dp22g5ly3~x2/) — ΔT 1.14
-1. [Reid Family Tartan Tartan Number: 2066. Earliest known date: 1991 Designed for Mr. William Reid, President of DELCO Scottish games. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/w1r2g10r2g2db8g2k8g2r2g10r2w1~x2/) — ΔT 1.19
+1. [Reid Family Tartan Tartan Number: 2066. Earliest known date: 1991 Designed for Mr. William Reid, President of DELCO Scottish games. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x2/) — ΔT 1.19
 1. [Boyle, Cameron (Personal)](/setts/s13/g5db20g20db2g2db2g25r2g2r17k8g2w2~x2/) — ΔT 1.20
 1. [O'Connell, William (Name)](/setts/s10/db19g7db7t2g20k9g6k4g10w3~x2/) — ΔT 1.22
-1. [Reid, Green](/setts/s13/w1r2g10r2g2db8g2k8g2r2g10r2w1~x4/) — ΔT 1.23
+1. [Reid, Green](/setts/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x4/) — ΔT 1.23
 1. [Holestone](/setts/s14/lo8k26o6g15o6k26w2k26o6g15o6k26lo8k4~x2/) — ΔT 1.25
 1. [MacKean Hunting Family Tartan Tartan Number: 985. Earliest known date: 1987 1987 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/g2r4g2k16g4k16g4k2g2k2g4k4db8k1w2~x2/) — ΔT 1.27
 1. [Highlands of Durham](/setts/s10/dt37g27w2dt4r6dt4w2g27dt37ly2~x2/) — ΔT 1.28
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/t1dp10k10g12k1g12t2g16w1~x2/"><circle cx="318.1" cy="182.5" r="4" fill="#3465a4"><title>Faskin Family (Aberdeenshire)</title></circle></a><a href="/setts/s11/lo2n10k2r5k2n19k2n19g17k2lo2~x2/"><circle cx="286.3" cy="171.4" r="4" fill="#3465a4"><title>Montreat</title></circle></a><a href="/setts/s8/g8k2g13r4g12dp22g5ly3~x2/"><circle cx="274.8" cy="193.8" r="4" fill="#3465a4"><title>Taylor Family Tartan Tartan Number: 809. Earliest known date: 1955 Some similarity to the Cameron recorded in the Vestiarium Scoticum, which may be connected with the name of the designer, Lt Col Iain Cameron Taylor, or to the Clan Cameron warrior Taillear dubh na Tuaighe (Black Taylor of the Axe) who lived in the seventeenth century. The pink stripe is described as 'coral'. The tartan is recognised by the Cameron of Lochiel. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/w1r2g10r2g2db8g2k8g2r2g10r2w1~x2/"><circle cx="214.5" cy="165.1" r="4" fill="#3465a4"><title>Reid Family Tartan Tartan Number: 2066. Earliest known date: 1991 Designed for Mr. William Reid, President of DELCO Scottish games. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/g5db20g20db2g2db2g25r2g2r17k8g2w2~x2/"><circle cx="271.3" cy="160.6" r="4" fill="#3465a4"><title>Boyle, Cameron (Personal)</title></circle></a><a href="/setts/s10/db19g7db7t2g20k9g6k4g10w3~x2/"><circle cx="224.5" cy="205.6" r="4" fill="#3465a4"><title>O'Connell, William (Name)</title></circle></a><a href="/setts/s13/w1r2g10r2g2db8g2k8g2r2g10r2w1~x4/"><circle cx="208.9" cy="162.8" r="4" fill="#3465a4"><title>Reid, Green</title></circle></a><a href="/setts/s14/lo8k26o6g15o6k26w2k26o6g15o6k26lo8k4~x2/"><circle cx="272.6" cy="167.0" r="4" fill="#3465a4"><title>Holestone</title></circle></a><a href="/setts/s15/g2r4g2k16g4k16g4k2g2k2g4k4db8k1w2~x2/"><circle cx="292.2" cy="146.0" r="4" fill="#3465a4"><title>MacKean Hunting Family Tartan Tartan Number: 985. Earliest known date: 1987 1987 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/dt37g27w2dt4r6dt4w2g27dt37ly2~x2/"><circle cx="312.0" cy="148.9" r="4" fill="#3465a4"><title>Highlands of Durham</title></circle></a><circle cx="281.4" cy="180.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/t1dp10k10g12k1g12t2g16w1~x2/"><circle cx="318.0" cy="182.4" r="4" fill="#3465a4"><title>Faskin Family (Aberdeenshire)</title></circle></a><a href="/setts/s11/lo2n10k2r5k2n19k2n19g17k2lo2~x2/"><circle cx="286.2" cy="171.3" r="4" fill="#3465a4"><title>Montreat</title></circle></a><a href="/setts/s8/g8k2g13r4g12dp22g5ly3~x2/"><circle cx="274.7" cy="193.7" r="4" fill="#3465a4"><title>Taylor Family Tartan Tartan Number: 809. Earliest known date: 1955 Some similarity to the Cameron recorded in the Vestiarium Scoticum, which may be connected with the name of the designer, Lt Col Iain Cameron Taylor, or to the Clan Cameron warrior Taillear dubh na Tuaighe (Black Taylor of the Axe) who lived in the seventeenth century. The pink stripe is described as 'coral'. The tartan is recognised by the Cameron of Lochiel. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x2/"><circle cx="214.4" cy="165.1" r="4" fill="#3465a4"><title>Reid Family Tartan Tartan Number: 2066. Earliest known date: 1991 Designed for Mr. William Reid, President of DELCO Scottish games. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/g5db20g20db2g2db2g25r2g2r17k8g2w2~x2/"><circle cx="271.2" cy="160.6" r="4" fill="#3465a4"><title>Boyle, Cameron (Personal)</title></circle></a><a href="/setts/s10/db19g7db7t2g20k9g6k4g10w3~x2/"><circle cx="224.6" cy="205.5" r="4" fill="#3465a4"><title>O'Connell, William (Name)</title></circle></a><a href="/setts/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x4/"><circle cx="208.8" cy="162.8" r="4" fill="#3465a4"><title>Reid, Green</title></circle></a><a href="/setts/s14/lo8k26o6g15o6k26w2k26o6g15o6k26lo8k4~x2/"><circle cx="272.6" cy="166.9" r="4" fill="#3465a4"><title>Holestone</title></circle></a><a href="/setts/s15/g2r4g2k16g4k16g4k2g2k2g4k4db8k1w2~x2/"><circle cx="292.2" cy="146.0" r="4" fill="#3465a4"><title>MacKean Hunting Family Tartan Tartan Number: 985. Earliest known date: 1987 1987 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/dt37g27w2dt4r6dt4w2g27dt37ly2~x2/"><circle cx="311.9" cy="148.8" r="4" fill="#3465a4"><title>Highlands of Durham</title></circle></a><circle cx="281.3" cy="180.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/dg4k4m4k2dg12k2dg12k2m4dg4w1r4~x2/

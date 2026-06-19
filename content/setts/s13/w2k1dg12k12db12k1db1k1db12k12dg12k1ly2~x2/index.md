@@ -1,0 +1,56 @@
+---
+title: "Campbell of Loudoun"
+date: 2023-03-18
+---
+**Bands:** [YKGKBKBKBKGKW](/stripes/ykgkbkbkbkgkw/) · **Stripes:** [LY K DG K DB K DB K DB K DG K W](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K DG K DB K DB K DB K DG K W</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=524
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [524](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=524)
+- Scottish Tartans Authority (ITI): 4436
+- Scottish Tartans World Register: 3
+
+## Thread count
+Y/4 K2 G24 K24 B24 K2 B2 K2 B24 K24 G24 K2 LN/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#2C4084;"><span style="color:#2C4084;filter:grayscale(1) invert(1) contrast(100);">#2C4084</span></code> `#2C4084` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.01 |
+| G | <code style="background-color:#005020;"><span style="color:#005020;filter:grayscale(1) invert(1) contrast(100);">#005020</span></code> `#005020` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [The Red Hackle](/setts/s13/db23k2r2k2r2k16g17k2g17k15db17k2r2~x2/) — ΔT 0.55
+1. [78th Regiment (Highlanders) (Mil.)](/setts/s15/dt30k5dt5k5dt5k31dg31k3w7k3dg31k31dt31k3r7/) — ΔT 0.56
+1. [Campbell of Loudoun Clan Tartan Tartan Number: 3. Earliest known date: 1886 The rarest of the Campbell tartans, Loudoun is nevertheless, acknowledged by the MacCailein Mor, Chief of the Clan Campbell. It is similar to the Campbell of Argyll except for a different arrangement of black 'tramlines' on the blue stripe. The tartan may have its origin in the formation of 'Loudouns Highlanders' raised at the time of the '45 and disbanded in 1748 though a similar claim is made for another sett. The weavers, Wilson's of Bannockburn, produced many variations of the Black Watch, for the Highland regiments, by adding coloured stripes to the basic pattern. The sett was not published until 1886 when James Grant included it in 'The Tartans of the Clans of Scotland' published by W and A.K. Johnston, Edinburgh. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/w2k1g12k12db12k1db2k1db12k12g12k1ly2~x2/) — ΔT 0.57
+1. [Baillie (William Wilson)](/setts/s15/db28k4db4k4db4k28g27k3ly5k3g27k28db27k3r5~x2/) — ΔT 0.58
+1. [MacLaren (labelled)](/setts/s11/db22k4db4k4db4k22dg22r6dg6k2ly3~x2/) — ΔT 0.58
+1. [MacLeod of Gesto](/setts/s13/db9k1db1k1db1k7dg8ly2dg8k7db8k1r2~x2/) — ΔT 0.59
+1. [Loch Carron](/setts/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/) — ΔT 0.61
+1. [MacKenzie Clan Tartan Tartan Number: 267. Earliest known date: 1778 The MacKenzie is the regimental tartan of the Seaforth Highlanders, who were raised by MacKenzie, Earl of Seaforth, in 1778. The clan held lands in Ross-shire and around Muir of Ord, but in the 12th century, they were removed to Wester Ross, (Kintail). The chiefly line of Kintail died out (as prophecisied by the Brahan Seer) and the MacKenzies of Cromarty were recognised as Chiefs of the Clan. Wilson's 1819 pattern book records various widths and weights of cloth suitable for the different ranks in the regiment. The 'hard' tartan of the period was known to cut the legs of the private soldiers. There is a certified sample in the Highland Society of London collection signed by Mrs MacKenzie of Seaforth (1816). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/db12k2db2k2db2k12g12k1w3k1g12k12db12k1r3~x2/) — ΔT 0.62
+1. [Spar (UK) Ltd Corporate Tartan Tartan Number: 2353. Earliest known date: December 1996 Spar is a UK based grocery chain and this tartan was designed for their 1997 conference in Scotland. The tartan was launched at a dinner at Blair Castle in Perthshire on 6th May 1997. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/db20k2db4k2db20k17g18r2g4lb2g18k18~x2/) — ΔT 0.66
+1. [Dyce #2](/setts/s15/db16k2db2k2db2k12dg12ly2k2ly2dg12k16db16k1w3~x2/) — ΔT 0.67
+
+## Neighbour map
+
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db23k2r2k2r2k16g17k2g17k15db17k2r2~x2/"><circle cx="180.8" cy="178.2" r="4" fill="#3465a4"><title>The Red Hackle</title></circle></a><a href="/setts/s15/dt30k5dt5k5dt5k31dg31k3w7k3dg31k31dt31k3r7/"><circle cx="182.5" cy="176.8" r="4" fill="#3465a4"><title>78th Regiment (Highlanders) (Mil.)</title></circle></a><a href="/setts/s13/w2k1g12k12db12k1db2k1db12k12g12k1ly2~x2/"><circle cx="168.9" cy="169.1" r="4" fill="#3465a4"><title>Campbell of Loudoun Clan Tartan Tartan Number: 3. Earliest known date: 1886 The rarest of the Campbell tartans, Loudoun is nevertheless, acknowledged by the MacCailein Mor, Chief of the Clan Campbell. It is similar to the Campbell of Argyll except for a different arrangement of black 'tramlines' on the blue stripe. The tartan may have its origin in the formation of 'Loudouns Highlanders' raised at the time of the '45 and disbanded in 1748 though a similar claim is made for another sett. The weavers, Wilson's of Bannockburn, produced many variations of the Black Watch, for the Highland regiments, by adding coloured stripes to the basic pattern. The sett was not published until 1886 when James Grant included it in 'The Tartans of the Clans of Scotland' published by W and A.K. Johnston, Edinburgh. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/db28k4db4k4db4k28g27k3ly5k3g27k28db27k3r5~x2/"><circle cx="181.3" cy="175.5" r="4" fill="#3465a4"><title>Baillie (William Wilson)</title></circle></a><a href="/setts/s11/db22k4db4k4db4k22dg22r6dg6k2ly3~x2/"><circle cx="175.6" cy="179.8" r="4" fill="#3465a4"><title>MacLaren (labelled)</title></circle></a><a href="/setts/s13/db9k1db1k1db1k7dg8ly2dg8k7db8k1r2~x2/"><circle cx="166.1" cy="193.2" r="4" fill="#3465a4"><title>MacLeod of Gesto</title></circle></a><a href="/setts/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/"><circle cx="176.7" cy="162.6" r="4" fill="#3465a4"><title>Loch Carron</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12g12k1w3k1g12k12db12k1r3~x2/"><circle cx="167.7" cy="162.4" r="4" fill="#3465a4"><title>MacKenzie Clan Tartan Tartan Number: 267. Earliest known date: 1778 The MacKenzie is the regimental tartan of the Seaforth Highlanders, who were raised by MacKenzie, Earl of Seaforth, in 1778. The clan held lands in Ross-shire and around Muir of Ord, but in the 12th century, they were removed to Wester Ross, (Kintail). The chiefly line of Kintail died out (as prophecisied by the Brahan Seer) and the MacKenzies of Cromarty were recognised as Chiefs of the Clan. Wilson's 1819 pattern book records various widths and weights of cloth suitable for the different ranks in the regiment. The 'hard' tartan of the period was known to cut the legs of the private soldiers. There is a certified sample in the Highland Society of London collection signed by Mrs MacKenzie of Seaforth (1816). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/db20k2db4k2db20k17g18r2g4lb2g18k18~x2/"><circle cx="176.4" cy="195.7" r="4" fill="#3465a4"><title>Spar (UK) Ltd Corporate Tartan Tartan Number: 2353. Earliest known date: December 1996 Spar is a UK based grocery chain and this tartan was designed for their 1997 conference in Scotland. The tartan was launched at a dinner at Blair Castle in Perthshire on 6th May 1997. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/db16k2db2k2db2k12dg12ly2k2ly2dg12k16db16k1w3~x2/"><circle cx="187.2" cy="151.0" r="4" fill="#3465a4"><title>Dyce #2</title></circle></a><circle cx="186.7" cy="175.9" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s13/w2k1dg12k12db12k1db1k1db12k12dg12k1ly2~x2/

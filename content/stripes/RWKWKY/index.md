@@ -8,7 +8,7 @@ RWKWKY
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/ly1k3w1k6w14r1~x4/tartan.png)
+![Woven sample](/setts/s6/r1w14k6w1k3ly1~x4/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RWKWKY
 
 | Tartans |
 |---------------|
-| [MacPherson #10](/setts/s6/ly1k3w1k6w14r1~x4/)|
-|![MacPherson #10 example sett](/setts/s6/ly1k3w1k6w14r1~x4/sett.png)|
+| [MacPherson #10](/setts/s6/r1w14k6w1k3ly1~x4/)|
+|![MacPherson #10 example sett](/setts/s6/r1w14k6w1k3ly1~x4/sett.png)|
 

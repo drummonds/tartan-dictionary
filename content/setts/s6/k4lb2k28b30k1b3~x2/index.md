@@ -2,12 +2,18 @@
 title: "Ramsay Blue Hunting"
 date: 2023-03-18
 ---
-**Bands:** [BKBKWK](/stripes/bkbkwk/) · **Stripes:** [B K B K LB K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="seq">B K B K LB K</span></span>
+**Bands:** [KWKBKB](/stripes/kwkbkb/) · **Stripes:** [K LB K B K B](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K LB K B K B</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3454
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Ramsay, Blue Htg
 
 ## Attestations
 
@@ -25,7 +31,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 259
 
 ## Thread count
-B/6 K2 B60 K56 N4 K/8
+K/8 N4 K56 B60 K2 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -39,13 +45,13 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/6 K2 B60 K56 N4 K/8 tartan")
+![Tartan detail](tartan.png "K/8 N4 K56 B60 K2 B/6 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Oakleigh (Corporate)](/setts/s6/b4k1b20k20ly1k4~x4/) — ΔT 0.70
+1. [Oakleigh (Corporate)](/setts/s6/k4ly1k20b20k1b4~x4/) — ΔT 0.70
 1. [St Andrews, Earl of](/setts/s6/db52k28w5k3w2k10/) — ΔT 1.15
 1. [Bro-Spirit of Northmen (Corporate)](/setts/s5/r3k1b27k27w3~x2/) — ΔT 1.22
 1. [Sorbie (Name)](/setts/s6/r1b1k17b17k1w1~x4/) — ΔT 1.27
@@ -58,8 +64,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/b4k1b20k20ly1k4~x4/"><circle cx="353.1" cy="200.2" r="4" fill="#3465a4"><title>Oakleigh (Corporate)</title></circle></a><a href="/setts/s6/db52k28w5k3w2k10/"><circle cx="369.2" cy="188.8" r="4" fill="#3465a4"><title>St Andrews, Earl of</title></circle></a><a href="/setts/s5/r3k1b27k27w3~x2/"><circle cx="303.9" cy="174.1" r="4" fill="#3465a4"><title>Bro-Spirit of Northmen (Corporate)</title></circle></a><a href="/setts/s6/r1b1k17b17k1w1~x4/"><circle cx="316.0" cy="172.6" r="4" fill="#3465a4"><title>Sorbie (Name)</title></circle></a><a href="/setts/s8/db23w1db1w1db8g22r1db3~x4/"><circle cx="375.1" cy="158.0" r="4" fill="#3465a4"><title>Roxburgh, Green (District)</title></circle></a><a href="/setts/s6/k4lg3k30lg33r1lg4~x2/"><circle cx="323.5" cy="147.3" r="4" fill="#3465a4"><title>Intergen (Corporate)</title></circle></a><a href="/setts/s6/db72k21g16t3g17t3~x2/"><circle cx="327.8" cy="172.9" r="4" fill="#3465a4"><title>MacRobart</title></circle></a><a href="/setts/s6/k4w2k28db30k1db3~x2/"><circle cx="364.5" cy="179.0" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/setts/s8/b18w1k3w1b9w1k45b4~x2/"><circle cx="415.7" cy="129.9" r="4" fill="#3465a4"><title>Lynn (Personal)</title></circle></a><a href="/setts/s6/k30b40ly3b5w2b6~x2/"><circle cx="355.6" cy="175.2" r="4" fill="#3465a4"><title>Micron</title></circle></a><circle cx="366.3" cy="178.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k4ly1k20b20k1b4~x4/"><circle cx="353.1" cy="199.9" r="4" fill="#3465a4"><title>Oakleigh (Corporate)</title></circle></a><a href="/setts/s6/db52k28w5k3w2k10/"><circle cx="369.2" cy="188.6" r="4" fill="#3465a4"><title>St Andrews, Earl of</title></circle></a><a href="/setts/s5/r3k1b27k27w3~x2/"><circle cx="303.9" cy="173.9" r="4" fill="#3465a4"><title>Bro-Spirit of Northmen (Corporate)</title></circle></a><a href="/setts/s6/r1b1k17b17k1w1~x4/"><circle cx="316.0" cy="172.5" r="4" fill="#3465a4"><title>Sorbie (Name)</title></circle></a><a href="/setts/s8/db23w1db1w1db8g22r1db3~x4/"><circle cx="375.1" cy="157.8" r="4" fill="#3465a4"><title>Roxburgh, Green (District)</title></circle></a><a href="/setts/s6/k4lg3k30lg33r1lg4~x2/"><circle cx="323.4" cy="147.0" r="4" fill="#3465a4"><title>Intergen (Corporate)</title></circle></a><a href="/setts/s6/db72k21g16t3g17t3~x2/"><circle cx="327.8" cy="172.8" r="4" fill="#3465a4"><title>MacRobart</title></circle></a><a href="/setts/s6/k4w2k28db30k1db3~x2/"><circle cx="364.6" cy="178.8" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/setts/s8/b18w1k3w1b9w1k45b4~x2/"><circle cx="415.6" cy="129.7" r="4" fill="#3465a4"><title>Lynn (Personal)</title></circle></a><a href="/setts/s6/k30b40ly3b5w2b6~x2/"><circle cx="355.6" cy="175.0" r="4" fill="#3465a4"><title>Micron</title></circle></a><circle cx="366.3" cy="178.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k4lb2k28b30k1b3~x2/

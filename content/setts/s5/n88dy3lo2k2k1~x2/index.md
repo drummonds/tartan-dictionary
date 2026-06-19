@@ -2,7 +2,7 @@
 title: "Eternity Fashion Tartan Tartan Number: 10214. Earliest known date: 01/02/2010 This tartan was designed for day wear grey tweed jackets. It has been shown in the Dedicated to Wedding magazine (April 2010). Perfection leads to eternity is the goal for all eternal marriage. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BGYKK](/stripes/bgykk/) · **Stripes:** [N DY LO K K](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="seq">N DY LO K K</span></span>
+**Bands:** [KKYGB](/stripes/kkygb/) · **Stripes:** [K K LO DY N](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#636363"></span><span class="seq">K K LO DY N</span></span>
 
 
 This was sourced from house-of-tartan.  It is a [5 band tartan](/bands/bands5/).
@@ -10,7 +10,7 @@ This was sourced from house-of-tartan.  It is a [5 band tartan](/bands/bands5/).
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10214
 
 ## Thread count
-LN/2 K4 LT4 T6 N/176
+N/176 T6 LT4 K4 LN/2
 ![Sett](sett.png)
 
 ## Palette
@@ -26,7 +26,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/2 K4 LT4 T6 N/176 tartan")
+![Tartan detail](tartan.png "N/176 T6 LT4 K4 LN/2 tartan")
 
 ## Nearest tartans
 
@@ -38,15 +38,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Burnett of Leys Hunting Family Tartan Tartan Number: 1657. Earliest known date: 1988 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/dy96db8dy8w3dy8g3dy8r3~x2/) — ΔT 2.57
 1. [Alich (Personal)](/setts/s4/k50r1dt3dp1~x4/) — ΔT 2.65
 1. [Torridon Tweed](/setts/s6/n4db1n6m1n14lr1~x8/) — ΔT 2.73
-1. [Alich (Personal)](/setts/s4/k50r1db3dp1~x4/) — ΔT 2.78
 1. [Connacht](/setts/s10/o64g6o2g3o2g6o64dr2o2dr6~x2/) — ΔT 2.79
+1. [Alich (Personal)](/setts/s4/k50r1db3dp1~x4/) — ΔT 2.79
 1. [MacFie](/setts/s7/lr1r12dg2r1dg162r12ly1~x2/) — ΔT 2.99
 1. [St. David's (District)](/setts/s6/dg60r2dg8r1dg5k2/) — ΔT 3.11
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/n88dy3lo2k2lr1~x2/"><circle cx="626.0" cy="193.7" r="4" fill="#3465a4"><title>Eternity (Fashion)</title></circle></a><a href="/setts/s8/o96db8o8w3o8g3o8r3~x2/"><circle cx="626.0" cy="155.6" r="4" fill="#3465a4"><title>Burnett, of Leys hunting</title></circle></a><a href="/setts/s5/do88o3ly2k2lr1~x2/"><circle cx="626.0" cy="155.7" r="4" fill="#3465a4"><title>Eternity, Dedicated 2 Weddings</title></circle></a><a href="/setts/s8/dy96db8dy8w3dy8g3dy8r3~x2/"><circle cx="626.0" cy="146.6" r="4" fill="#3465a4"><title>Burnett of Leys Hunting Family Tartan Tartan Number: 1657. Earliest known date: 1988 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/k50r1dt3dp1~x4/"><circle cx="626.0" cy="217.5" r="4" fill="#3465a4"><title>Alich (Personal)</title></circle></a><a href="/setts/s6/n4db1n6m1n14lr1~x8/"><circle cx="626.0" cy="270.2" r="4" fill="#3465a4"><title>Torridon Tweed</title></circle></a><a href="/setts/s4/k50r1db3dp1~x4/"><circle cx="626.0" cy="213.8" r="4" fill="#3465a4"><title>Alich (Personal)</title></circle></a><a href="/setts/s10/o64g6o2g3o2g6o64dr2o2dr6~x2/"><circle cx="626.0" cy="189.2" r="4" fill="#3465a4"><title>Connacht</title></circle></a><a href="/setts/s7/lr1r12dg2r1dg162r12ly1~x2/"><circle cx="626.0" cy="149.5" r="4" fill="#3465a4"><title>MacFie</title></circle></a><a href="/setts/s6/dg60r2dg8r1dg5k2/"><circle cx="626.0" cy="200.6" r="4" fill="#3465a4"><title>St. David's (District)</title></circle></a><circle cx="626.0" cy="176.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/n88dy3lo2k2lr1~x2/"><circle cx="626.0" cy="193.5" r="4" fill="#3465a4"><title>Eternity (Fashion)</title></circle></a><a href="/setts/s8/o96db8o8w3o8g3o8r3~x2/"><circle cx="626.0" cy="155.4" r="4" fill="#3465a4"><title>Burnett, of Leys hunting</title></circle></a><a href="/setts/s5/do88o3ly2k2lr1~x2/"><circle cx="626.0" cy="155.4" r="4" fill="#3465a4"><title>Eternity, Dedicated 2 Weddings</title></circle></a><a href="/setts/s8/dy96db8dy8w3dy8g3dy8r3~x2/"><circle cx="626.0" cy="146.4" r="4" fill="#3465a4"><title>Burnett of Leys Hunting Family Tartan Tartan Number: 1657. Earliest known date: 1988 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/k50r1dt3dp1~x4/"><circle cx="626.0" cy="217.2" r="4" fill="#3465a4"><title>Alich (Personal)</title></circle></a><a href="/setts/s6/n4db1n6m1n14lr1~x8/"><circle cx="626.0" cy="270.0" r="4" fill="#3465a4"><title>Torridon Tweed</title></circle></a><a href="/setts/s10/o64g6o2g3o2g6o64dr2o2dr6~x2/"><circle cx="626.0" cy="189.0" r="4" fill="#3465a4"><title>Connacht</title></circle></a><a href="/setts/s4/k50r1db3dp1~x4/"><circle cx="626.0" cy="213.5" r="4" fill="#3465a4"><title>Alich (Personal)</title></circle></a><a href="/setts/s7/lr1r12dg2r1dg162r12ly1~x2/"><circle cx="626.0" cy="149.2" r="4" fill="#3465a4"><title>MacFie</title></circle></a><a href="/setts/s6/dg60r2dg8r1dg5k2/"><circle cx="626.0" cy="200.1" r="4" fill="#3465a4"><title>St. David's (District)</title></circle></a><circle cx="626.0" cy="176.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/n88dy3lo2k2k1~x2/

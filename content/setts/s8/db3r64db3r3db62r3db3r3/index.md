@@ -2,12 +2,18 @@
 title: "Unidentified Plaid #12"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBRBR](/stripes/brbrbrbr/) · **Stripes:** [DB R DB R DB R DB R](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R DB R DB R DB R</span></span>
+**Bands:** [RBRBRBRB](/stripes/rbrbrbrb/) · **Stripes:** [R DB R DB R DB R DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB R DB R DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4345
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified Plaid #12
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -899,7 +908,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/3 R64 B3 R3 B62 R3 B3 R/3
+R/3 B3 R3 B62 R3 B3 R64 B/3
 ![Sett](sett.png)
 
 ## Palette
@@ -912,7 +921,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/3 R64 B3 R3 B62 R3 B3 R/3 tartan")
+![Tartan detail](tartan.png "R/3 B3 R3 B62 R3 B3 R64 B/3 tartan")
 
 ## Nearest tartans
 
@@ -926,13 +935,13 @@ The nearest existing variants by ΔTartan distance.
 1. [American](/setts/s9/db2r21db1lb4db7lb2db2lb2r2~x4/) — ΔT 1.80
 1. [Auburn University (Alabama)](/setts/s6/db3lo3db24lo30db3lo2~x2/) — ΔT 1.88
 1. [Harry (Welsh Name)](/setts/s10/dt6o3dt3o15r7dt7r5dt17r46o4/) — ΔT 1.89
-1. [Unnamed C18th - Prince Charles Edward #2](/setts/s18/db40r40db44r2db2r40db2r2db2r7db2r2db2r40db2r2db44r40~x2/) — ΔT 1.91
-1. [Masai Shuka 27 (Artefact)](/setts/s10/r30db8r2k1r2k1r2k1r2db8~x2/) — ΔT 1.91
+1. [Unnamed C18th - Prince Charles Edward #2](/setts/s18/db40r40db44r2db2r40db2r2db2r7~x2/) — ΔT 1.91
+1. [Masai Shuka 27 (Artefact)](/setts/s10/r30db8r2k1r2k1~x2/) — ΔT 1.91
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db40r40db44r2db2r40db2r2db2r7~x2/"><circle cx="427.4" cy="186.9" r="4" fill="#3465a4"><title>Prince Charles Edward</title></circle></a><a href="/setts/s7/g2r21db60r48db2r3g2~x2/"><circle cx="410.9" cy="155.1" r="4" fill="#3465a4"><title>Fraser, Isabella</title></circle></a><a href="/setts/s6/db3o3db24o30db3o2~x2/"><circle cx="412.1" cy="211.7" r="4" fill="#3465a4"><title>Auburn University (Alabama) (Corp)</title></circle></a><a href="/setts/s9/dt6lo2dt27r27lo2r2lo2r2dt4~x2/"><circle cx="353.4" cy="170.7" r="4" fill="#3465a4"><title>New Breckon (Fashion?)</title></circle></a><a href="/setts/s9/db2r21db1w4db7w2db2w2r2~x2/"><circle cx="348.0" cy="130.6" r="4" fill="#3465a4"><title>31, Tartan (The.. )</title></circle></a><a href="/setts/s9/db2r21db1lb4db7lb2db2lb2r2~x4/"><circle cx="339.8" cy="134.9" r="4" fill="#3465a4"><title>American</title></circle></a><a href="/setts/s6/db3lo3db24lo30db3lo2~x2/"><circle cx="385.4" cy="197.8" r="4" fill="#3465a4"><title>Auburn University (Alabama)</title></circle></a><a href="/setts/s10/dt6o3dt3o15r7dt7r5dt17r46o4/"><circle cx="338.8" cy="163.0" r="4" fill="#3465a4"><title>Harry (Welsh Name)</title></circle></a><a href="/setts/s18/db40r40db44r2db2r40db2r2db2r7db2r2db2r40db2r2db44r40~x2/"><circle cx="422.1" cy="148.2" r="4" fill="#3465a4"><title>Unnamed C18th - Prince Charles Edward #2</title></circle></a><a href="/setts/s10/r30db8r2k1r2k1r2k1r2db8~x2/"><circle cx="496.4" cy="121.0" r="4" fill="#3465a4"><title>Masai Shuka 27 (Artefact)</title></circle></a><circle cx="433.3" cy="160.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db40r40db44r2db2r40db2r2db2r7~x2/"><circle cx="427.0" cy="186.8" r="4" fill="#3465a4"><title>Prince Charles Edward</title></circle></a><a href="/setts/s7/g2r21db60r48db2r3g2~x2/"><circle cx="410.6" cy="154.9" r="4" fill="#3465a4"><title>Fraser, Isabella</title></circle></a><a href="/setts/s6/db3o3db24o30db3o2~x2/"><circle cx="411.9" cy="211.4" r="4" fill="#3465a4"><title>Auburn University (Alabama) (Corp)</title></circle></a><a href="/setts/s9/dt6lo2dt27r27lo2r2lo2r2dt4~x2/"><circle cx="353.1" cy="170.5" r="4" fill="#3465a4"><title>New Breckon (Fashion?)</title></circle></a><a href="/setts/s9/db2r21db1w4db7w2db2w2r2~x2/"><circle cx="347.6" cy="130.4" r="4" fill="#3465a4"><title>31, Tartan (The.. )</title></circle></a><a href="/setts/s9/db2r21db1lb4db7lb2db2lb2r2~x4/"><circle cx="339.5" cy="134.7" r="4" fill="#3465a4"><title>American</title></circle></a><a href="/setts/s6/db3lo3db24lo30db3lo2~x2/"><circle cx="385.0" cy="197.5" r="4" fill="#3465a4"><title>Auburn University (Alabama)</title></circle></a><a href="/setts/s10/dt6o3dt3o15r7dt7r5dt17r46o4/"><circle cx="338.5" cy="162.9" r="4" fill="#3465a4"><title>Harry (Welsh Name)</title></circle></a><a href="/setts/s18/db40r40db44r2db2r40db2r2db2r7~x2/"><circle cx="421.7" cy="148.0" r="4" fill="#3465a4"><title>Unnamed C18th - Prince Charles Edward #2</title></circle></a><a href="/setts/s10/r30db8r2k1r2k1~x2/"><circle cx="495.9" cy="120.8" r="4" fill="#3465a4"><title>Masai Shuka 27 (Artefact)</title></circle></a><circle cx="432.9" cy="160.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db3r64db3r3db62r3db3r3/

@@ -2,7 +2,7 @@
 title: "Banatherton Union"
 date: 2023-03-18
 ---
-**Bands:** [WWYYYWWYYY](/stripes/wwyyywwyyy/) · **Stripes:** [W LB LY LR LG W LB LY LR LG](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#82D67A"></span><span class="seq">W LB LY LR LG W LB LY LR LG</span></span>
+**Bands:** [YYYWWYYYWW](/stripes/yyywwyyyww/) · **Stripes:** [LG LR LY LB W LG LR LY LB W](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LG LR LY LB W LG LR LY LB W</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
@@ -34,12 +34,12 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Banatherton Union](/setts/s10/lg10o8ly1lb5w5lg28o2ly1lb8w5~x2/) — ΔT 1.57
+1. [Banatherton Union](/setts/s10/lg10o8ly1lb5w5lg28o2ly1lb8w5~x2/) — ΔT 1.56
 1. [Rikaco Morning Dew #2](/setts/s8/lr3lb3lr1y25lr15lr5lb4ly2~x2/) — ΔT 1.71
 1. [Highlander](/setts/s12/g33b4g4b4g5g13dg13dp13dg2b11dg1o2~x2/) — ΔT 2.23
 1. [Irving of Glentulchan (Personal)](/setts/s10/lg9lr9k1lr1w1lr1k1lr9lg9r1~x6/) — ΔT 2.35
 1. [Tenmaya](/setts/s8/w3y36lp6b6lp6b12lp32w3/) — ΔT 2.39
-1. [Willsher Wedding (Personal)](/setts/s9/n8o4lb2o4n1o12g9n24r4~x2/) — ΔT 2.39
+1. [Willsher Wedding (Personal)](/setts/s9/n8o4lb2o4n1o12g9n24r4~x2/) — ΔT 2.40
 1. [Titanium (Fashion)](/setts/s9/n44o8n8o22lb4o4lb11o2lb2~x2/) — ΔT 2.42
 1. [Highland Road (Fashion)](/setts/s9/k3lr15t3lr4t3lr4t10y30w3~x2/) — ΔT 2.44
 1. [Un-named (D C Dalgliesh) #2](/setts/s10/b5lg2b2lg9k3b9g3b3g25lr2~x2/) — ΔT 2.49
@@ -47,8 +47,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/lg10o8ly1lb5w5lg28o2ly1lb8w5~x2/"><circle cx="335.0" cy="147.9" r="4" fill="#3465a4"><title>Banatherton Union</title></circle></a><a href="/setts/s8/lr3lb3lr1y25lr15lr5lb4ly2~x2/"><circle cx="375.0" cy="191.3" r="4" fill="#3465a4"><title>Rikaco Morning Dew #2</title></circle></a><a href="/setts/s12/g33b4g4b4g5g13dg13dp13dg2b11dg1o2~x2/"><circle cx="370.3" cy="166.3" r="4" fill="#3465a4"><title>Highlander</title></circle></a><a href="/setts/s10/lg9lr9k1lr1w1lr1k1lr9lg9r1~x6/"><circle cx="315.6" cy="210.0" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/setts/s8/w3y36lp6b6lp6b12lp32w3/"><circle cx="341.5" cy="227.2" r="4" fill="#3465a4"><title>Tenmaya</title></circle></a><a href="/setts/s9/n8o4lb2o4n1o12g9n24r4~x2/"><circle cx="349.6" cy="189.5" r="4" fill="#3465a4"><title>Willsher Wedding (Personal)</title></circle></a><a href="/setts/s9/n44o8n8o22lb4o4lb11o2lb2~x2/"><circle cx="379.8" cy="181.4" r="4" fill="#3465a4"><title>Titanium (Fashion)</title></circle></a><a href="/setts/s9/k3lr15t3lr4t3lr4t10y30w3~x2/"><circle cx="268.5" cy="201.6" r="4" fill="#3465a4"><title>Highland Road (Fashion)</title></circle></a><a href="/setts/s10/b5lg2b2lg9k3b9g3b3g25lr2~x2/"><circle cx="286.8" cy="189.4" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #2</title></circle></a><a href="/setts/s9/o4dg2o7n30o8n7g5dg1w2~x2/"><circle cx="409.2" cy="160.6" r="4" fill="#3465a4"><title>Inchforth (Personal)</title></circle></a><circle cx="375.6" cy="170.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/lg10o8ly1lb5w5lg28o2ly1lb8w5~x2/"><circle cx="334.6" cy="148.0" r="4" fill="#3465a4"><title>Banatherton Union</title></circle></a><a href="/setts/s8/lr3lb3lr1y25lr15lr5lb4ly2~x2/"><circle cx="374.5" cy="191.6" r="4" fill="#3465a4"><title>Rikaco Morning Dew #2</title></circle></a><a href="/setts/s12/g33b4g4b4g5g13dg13dp13dg2b11dg1o2~x2/"><circle cx="370.1" cy="166.5" r="4" fill="#3465a4"><title>Highlander</title></circle></a><a href="/setts/s10/lg9lr9k1lr1w1lr1k1lr9lg9r1~x6/"><circle cx="315.3" cy="210.1" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/setts/s8/w3y36lp6b6lp6b12lp32w3/"><circle cx="341.2" cy="227.4" r="4" fill="#3465a4"><title>Tenmaya</title></circle></a><a href="/setts/s9/n8o4lb2o4n1o12g9n24r4~x2/"><circle cx="349.4" cy="189.7" r="4" fill="#3465a4"><title>Willsher Wedding (Personal)</title></circle></a><a href="/setts/s9/n44o8n8o22lb4o4lb11o2lb2~x2/"><circle cx="379.5" cy="181.5" r="4" fill="#3465a4"><title>Titanium (Fashion)</title></circle></a><a href="/setts/s9/k3lr15t3lr4t3lr4t10y30w3~x2/"><circle cx="268.2" cy="201.8" r="4" fill="#3465a4"><title>Highland Road (Fashion)</title></circle></a><a href="/setts/s10/b5lg2b2lg9k3b9g3b3g25lr2~x2/"><circle cx="286.6" cy="189.6" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #2</title></circle></a><a href="/setts/s9/o4dg2o7n30o8n7g5dg1w2~x2/"><circle cx="408.9" cy="160.7" r="4" fill="#3465a4"><title>Inchforth (Personal)</title></circle></a><circle cx="375.2" cy="170.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/lg10lr8ly1lb5w5lg28lr2ly1lb8w5~x2/

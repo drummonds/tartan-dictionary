@@ -22,6 +22,6 @@ KRGRGRGRGRGRGRGRKYKGKGKGKGKGKGKGKYGY
 
 | Tartans |
 |---------------|
-| [New Brunswick (CIDD 28101)](/setts/s36/ly50dg16ly8k8dg1k1dg1k1dg1k1dg1k1dg1k1dg1k1dg20k40ly12k24r8dg1r1dg1r1dg1r1dg1r1dg1r1dg1r1dg28r6k4~x2/)|
-|![New Brunswick (CIDD 28101) example sett](/setts/s36/ly50dg16ly8k8dg1k1dg1k1dg1k1dg1k1dg1k1dg1k1dg20k40ly12k24r8dg1r1dg1r1dg1r1dg1r1dg1r1dg1r1dg28r6k4~x2/sett.png)|
+| [New Brunswick (CIDD 28101)](/setts/s36/ly50dg16ly8k8dg1k1dg1k1dg1k1dg1k1dg1k1dg1k1dg20k40ly12k24r8dg1r1dg1r1dg1r1dg1r1dg1r1dg1r1dg28r6k4/)|
+|![New Brunswick (CIDD 28101) example sett](/setts/s36/ly50dg16ly8k8dg1k1dg1k1dg1k1dg1k1dg1k1dg1k1dg20k40ly12k24r8dg1r1dg1r1dg1r1dg1r1dg1r1dg1r1dg28r6k4/sett.png)|
 

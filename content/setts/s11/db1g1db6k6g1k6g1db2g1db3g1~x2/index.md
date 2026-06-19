@@ -2,12 +2,18 @@
 title: "Clergy 2"
 date: 2023-03-18
 ---
-**Bands:** [BGBKGKGBGBG](/stripes/bgbkgkgbgbg/) · **Stripes:** [DB G DB K G K G DB G DB G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB G DB K G K G DB G DB G</span></span>
+**Bands:** [GBGBGKGKBGB](/stripes/gbgbgkgkbgb/) · **Stripes:** [G DB G DB G K G K DB G DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G DB G DB G K G K DB G DB</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Clergy
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -893,7 +902,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/2 G2 B12 K12 G2 K12 G2 B4 G2 B6 G/2
+G/2 B6 G2 B4 G2 K12 G2 K12 B12 G2 B/2
 ![Sett](sett.png)
 
 ## Palette
@@ -912,9 +921,9 @@ The nearest existing variants by ΔTartan distance.
 1. [Clergy 3](/setts/s11/db4g4db18k19g4k19g4db7g4db12g2~x2/) — ΔT 0.75
 1. [93rd Regiment (Military)](/setts/s13/db16k3db3k3db3k16g15k3g15k16db15k3db3~x2/) — ΔT 0.87
 1. [Campbell](/setts/s13/db2k2db11k10g12k3g12k10db2k2db2k2db2~x2/) — ΔT 1.01
-1. [Black Water](/setts/s11/db1g6k2db1k3g1k2db2g1db6g1~x4/) — ΔT 1.04
+1. [Black Water](/setts/s11/db1g6k2db1k3g1k2db2g1db6g1~x4/) — ΔT 1.05
 1. [Cargill](/setts/s11/db1g1db6k6g1k6g1db2g1db3g1~x4/) — ΔT 1.09
-1. [McWilliams Personal Tartan Tartan Number: 11154. Earliest known date: 2014 Designed for Aaron McWilliams and family See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/db3k2db13k9k3k2k14k2k3k9db15k3~x2/) — ΔT 1.14
+1. [McWilliams Personal Tartan Tartan Number: 11154. Earliest known date: 2014 Designed for Aaron McWilliams and family See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/k3db15k9k3k2k14k2k3k9db13k2db3~x2/) — ΔT 1.14
 1. [Strathspey](/setts/s7/k1g5k5db5k1db1k1~x4/) — ΔT 1.16
 1. [Forbes](/setts/s9/db8k2db2k2db2k8g7k1w1~x2/) — ΔT 1.19
 1. [Black Watch, A&S Highlanders](/setts/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x2/) — ΔT 1.20
@@ -922,8 +931,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db4g4db18k19g4k19g4db7g4db12g2~x2/"><circle cx="217.7" cy="217.7" r="4" fill="#3465a4"><title>Clergy 3</title></circle></a><a href="/setts/s13/db16k3db3k3db3k16g15k3g15k16db15k3db3~x2/"><circle cx="175.1" cy="240.8" r="4" fill="#3465a4"><title>93rd Regiment (Military)</title></circle></a><a href="/setts/s13/db2k2db11k10g12k3g12k10db2k2db2k2db2~x2/"><circle cx="177.6" cy="218.8" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/setts/s11/db1g6k2db1k3g1k2db2g1db6g1~x4/"><circle cx="176.5" cy="227.6" r="4" fill="#3465a4"><title>Black Water</title></circle></a><a href="/setts/s11/db1g1db6k6g1k6g1db2g1db3g1~x4/"><circle cx="230.2" cy="236.3" r="4" fill="#3465a4"><title>Cargill</title></circle></a><a href="/setts/s12/db3k2db13k9k3k2k14k2k3k9db15k3~x2/"><circle cx="212.1" cy="233.4" r="4" fill="#3465a4"><title>McWilliams Personal Tartan Tartan Number: 11154. Earliest known date: 2014 Designed for Aaron McWilliams and family See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/k1g5k5db5k1db1k1~x4/"><circle cx="188.7" cy="257.5" r="4" fill="#3465a4"><title>Strathspey</title></circle></a><a href="/setts/s9/db8k2db2k2db2k8g7k1w1~x2/"><circle cx="171.3" cy="206.6" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x2/"><circle cx="200.9" cy="192.7" r="4" fill="#3465a4"><title>Black Watch, A&amp;S Highlanders</title></circle></a><a href="/setts/s13/t12k2t2k2t2k10dg12k3dg12k10t12k2t2~x2/"><circle cx="151.4" cy="219.1" r="4" fill="#3465a4"><title>Sutherland (District)</title></circle></a><circle cx="207.2" cy="227.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db4g4db18k19g4k19g4db7g4db12g2~x2/"><circle cx="217.9" cy="217.5" r="4" fill="#3465a4"><title>Clergy 3</title></circle></a><a href="/setts/s13/db16k3db3k3db3k16g15k3g15k16db15k3db3~x2/"><circle cx="175.4" cy="240.8" r="4" fill="#3465a4"><title>93rd Regiment (Military)</title></circle></a><a href="/setts/s13/db2k2db11k10g12k3g12k10db2k2db2k2db2~x2/"><circle cx="177.8" cy="218.7" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/setts/s11/db1g6k2db1k3g1k2db2g1db6g1~x4/"><circle cx="176.7" cy="227.5" r="4" fill="#3465a4"><title>Black Water</title></circle></a><a href="/setts/s11/db1g1db6k6g1k6g1db2g1db3g1~x4/"><circle cx="230.3" cy="236.2" r="4" fill="#3465a4"><title>Cargill</title></circle></a><a href="/setts/s12/k3db15k9k3k2k14k2k3k9db13k2db3~x2/"><circle cx="212.4" cy="233.4" r="4" fill="#3465a4"><title>McWilliams Personal Tartan Tartan Number: 11154. Earliest known date: 2014 Designed for Aaron McWilliams and family See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/k1g5k5db5k1db1k1~x4/"><circle cx="189.0" cy="257.4" r="4" fill="#3465a4"><title>Strathspey</title></circle></a><a href="/setts/s9/db8k2db2k2db2k8g7k1w1~x2/"><circle cx="171.5" cy="206.5" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x2/"><circle cx="201.0" cy="192.6" r="4" fill="#3465a4"><title>Black Watch, A&amp;S Highlanders</title></circle></a><a href="/setts/s13/t12k2t2k2t2k10dg12k3dg12k10t12k2t2~x2/"><circle cx="151.6" cy="219.0" r="4" fill="#3465a4"><title>Sutherland (District)</title></circle></a><circle cx="207.4" cy="227.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/

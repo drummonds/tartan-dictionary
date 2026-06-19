@@ -2,12 +2,19 @@
 title: "Taylor Dress #2"
 date: 2023-03-18
 ---
-**Bands:** [GKRGWWWGY](/stripes/gkrgwwwgy/) · **Stripes:** [DG K R DG W LP W DG LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DG K R DG W LP W DG LY</span></span>
+**Bands:** [YGWWWGRKG](/stripes/ygwwwgrkg/) · **Stripes:** [LY DG W LP W DG R K DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">LY DG W LP W DG R K DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4081
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Taylor Dress #2
+- Taylor, dress
 
 ## Register references
 
@@ -49,8 +56,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g9k2r4g14w3lp3w23g5ly3~x2/"><circle cx="163.7" cy="130.7" r="4" fill="#3465a4"><title>Taylor, dress</title></circle></a><a href="/setts/s11/lo1y6g2w1k8w1g2w9k1w4ly1~x4/"><circle cx="106.7" cy="121.9" r="4" fill="#3465a4"><title>Tiree</title></circle></a><a href="/setts/s8/r2k2w16dg13g6ly2k2w2~x2/"><circle cx="111.7" cy="138.7" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><a href="/setts/s11/g3t3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="167.1" cy="101.4" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><a href="/setts/s11/dy1w4k1w9lo2w1k8w1lo2o6r1~x4/"><circle cx="109.1" cy="118.0" r="4" fill="#3465a4"><title>Kintyre</title></circle></a><a href="/setts/s10/ly6k2g12r4g8k10w24b2w3b2~x2/"><circle cx="92.8" cy="115.1" r="4" fill="#3465a4"><title>Gillies Dress, Green (Dance)</title></circle></a><a href="/setts/s7/lb4ly2lb21k11w2n21r2~x2/"><circle cx="148.9" cy="143.4" r="4" fill="#3465a4"><title>Barbour -Modern</title></circle></a><a href="/setts/s11/dy27w2dy3ly4dy3w2dy5k13t2w26dg3~x2/"><circle cx="161.6" cy="93.0" r="4" fill="#3465a4"><title>MacKellar Dress</title></circle></a><a href="/setts/s11/dy27w2dy3ly4dy3w2dy5k13t2w26g3~x2/"><circle cx="168.8" cy="97.7" r="4" fill="#3465a4"><title>MacKellar Dress Clan Tartan Tartan Number: 926. Earliest known date: 1976 As worn by Kenneth? - D.C.S. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/dp6t2w24r15g12t4w4t4w4t4g34ly4/"><circle cx="137.5" cy="93.7" r="4" fill="#3465a4"><title>Fredericton (District)</title></circle></a><circle cx="159.6" cy="128.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g9k2r4g14w3lp3w23g5ly3~x2/"><circle cx="163.4" cy="130.6" r="4" fill="#3465a4"><title>Taylor, dress</title></circle></a><a href="/setts/s11/lo1y6g2w1k8w1g2w9k1w4ly1~x4/"><circle cx="106.5" cy="121.9" r="4" fill="#3465a4"><title>Tiree</title></circle></a><a href="/setts/s8/r2k2w16dg13g6ly2k2w2~x2/"><circle cx="111.6" cy="138.7" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><a href="/setts/s11/g3t3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="166.9" cy="101.4" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><a href="/setts/s11/dy1w4k1w9lo2w1k8w1lo2o6r1~x4/"><circle cx="108.9" cy="118.0" r="4" fill="#3465a4"><title>Kintyre</title></circle></a><a href="/setts/s10/ly6k2g12r4g8k10w24b2w3b2~x2/"><circle cx="92.6" cy="115.0" r="4" fill="#3465a4"><title>Gillies Dress, Green (Dance)</title></circle></a><a href="/setts/s7/lb4ly2lb21k11w2n21r2~x2/"><circle cx="148.7" cy="143.3" r="4" fill="#3465a4"><title>Barbour -Modern</title></circle></a><a href="/setts/s11/dy27w2dy3ly4dy3w2dy5k13t2w26dg3~x2/"><circle cx="161.3" cy="93.0" r="4" fill="#3465a4"><title>MacKellar Dress</title></circle></a><a href="/setts/s11/dy27w2dy3ly4dy3w2dy5k13t2w26g3~x2/"><circle cx="168.6" cy="97.7" r="4" fill="#3465a4"><title>MacKellar Dress Clan Tartan Tartan Number: 926. Earliest known date: 1976 As worn by Kenneth? - D.C.S. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/dp6t2w24r15g12t4w4t4w4t4g34ly4/"><circle cx="137.2" cy="93.7" r="4" fill="#3465a4"><title>Fredericton (District)</title></circle></a><circle cx="159.4" cy="128.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dg9k2r4dg14w3lp3w23dg5ly3~x2/

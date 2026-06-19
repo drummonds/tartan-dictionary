@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,15 +914,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Gordonstoun](/setts/s21/r4g4r1k7r1k1t1r1k7r1g4r4t1db4r1g7ly1g7r1db4t1~x4/) — ΔT 1.17
 1. [Cherry Valley New York](/setts/s21/o16r2o2r2o2k16dg2b2dg2b2dg10r2g10b2g2b2g2k16o15r2o2~x2/) — ΔT 1.18
 1. [Unidentified, fragment](/setts/s18/p47k6r6k6p6k19g19k6g19ly6g19k6g19k19p6k6w6k6~x2/) — ΔT 1.19
-1. [Culloden 1746 Artefact Tartan Tartan Number: 7422. Earliest known date: 1746 Count from the original Culloden coat discovered and later examined by Peter MacDonald on display at the Kelvingrove Museum, Glasgow. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/r5lb1dt10w2k10y10k1ly3k1y10k10w2dt10lb1~x4/) — ΔT 1.23
+1. [Culloden 1746 Artefact Tartan Tartan Number: 7422. Earliest known date: 1746 Count from the original Culloden coat discovered and later examined by Peter MacDonald on display at the Kelvingrove Museum, Glasgow. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/r5lb1dt10w2k10y10k1ly3~x4/) — ΔT 1.23
 1. [Innes of Learney Htg (Personal)](/setts/s16/t3k18dy3k3dy3k3dy18lo3dy3db8dy3db3g15k3dy3w3~x2/) — ΔT 1.25
 1. [Farquharson Dress (Fashion)](/setts/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1r2~x2/) — ΔT 1.25
 1. [Farquharson Dress](/setts/s13/w6k1w1k1w1k8g8lo2g8k8db8k1r2~x2/) — ΔT 1.26
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s21/db6ly1db1g1db1g1db1g5k1g1k1g1k1g1k1g6r5db2r2db1r5~x4/"><circle cx="83.2" cy="131.0" r="4" fill="#3465a4"><title>Recovery</title></circle></a><a href="/setts/s12/ly4g20r3db11t3r11g11r3k20r3k3t3~x2/"><circle cx="65.4" cy="155.7" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/setts/s14/db2k2db16k15ly2g16k2g16w2k17db4r6k3ly2~x2/"><circle cx="108.6" cy="137.1" r="4" fill="#3465a4"><title>Allison (MacGregor-Hastie)</title></circle></a><a href="/setts/s21/r4g4r1k7r1k1t1r1k7r1g4r4t1db4r1g7ly1g7r1db4t1~x4/"><circle cx="71.5" cy="135.8" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/setts/s21/o16r2o2r2o2k16dg2b2dg2b2dg10r2g10b2g2b2g2k16o15r2o2~x2/"><circle cx="75.7" cy="107.9" r="4" fill="#3465a4"><title>Cherry Valley New York</title></circle></a><a href="/setts/s18/p47k6r6k6p6k19g19k6g19ly6g19k6g19k19p6k6w6k6~x2/"><circle cx="84.4" cy="130.7" r="4" fill="#3465a4"><title>Unidentified, fragment</title></circle></a><a href="/setts/s14/r5lb1dt10w2k10y10k1ly3k1y10k10w2dt10lb1~x4/"><circle cx="56.4" cy="129.0" r="4" fill="#3465a4"><title>Culloden 1746 Artefact Tartan Tartan Number: 7422. Earliest known date: 1746 Count from the original Culloden coat discovered and later examined by Peter MacDonald on display at the Kelvingrove Museum, Glasgow. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/t3k18dy3k3dy3k3dy18lo3dy3db8dy3db3g15k3dy3w3~x2/"><circle cx="93.8" cy="140.7" r="4" fill="#3465a4"><title>Innes of Learney Htg (Personal)</title></circle></a><a href="/setts/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1r2~x2/"><circle cx="86.1" cy="155.3" r="4" fill="#3465a4"><title>Farquharson Dress (Fashion)</title></circle></a><a href="/setts/s13/w6k1w1k1w1k8g8lo2g8k8db8k1r2~x2/"><circle cx="70.3" cy="146.2" r="4" fill="#3465a4"><title>Farquharson Dress</title></circle></a><circle cx="56.5" cy="123.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s21/db6ly1db1g1db1g1db1g5k1g1k1g1k1g1k1g6r5db2r2db1r5~x4/"><circle cx="83.2" cy="131.1" r="4" fill="#3465a4"><title>Recovery</title></circle></a><a href="/setts/s12/ly4g20r3db11t3r11g11r3k20r3k3t3~x2/"><circle cx="65.5" cy="155.8" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/setts/s14/db2k2db16k15ly2g16k2g16w2k17db4r6k3ly2~x2/"><circle cx="108.7" cy="137.3" r="4" fill="#3465a4"><title>Allison (MacGregor-Hastie)</title></circle></a><a href="/setts/s21/r4g4r1k7r1k1t1r1k7r1g4r4t1db4r1g7ly1g7r1db4t1~x4/"><circle cx="71.6" cy="136.0" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/setts/s21/o16r2o2r2o2k16dg2b2dg2b2dg10r2g10b2g2b2g2k16o15r2o2~x2/"><circle cx="75.8" cy="108.0" r="4" fill="#3465a4"><title>Cherry Valley New York</title></circle></a><a href="/setts/s18/p47k6r6k6p6k19g19k6g19ly6g19k6g19k19p6k6w6k6~x2/"><circle cx="84.5" cy="130.8" r="4" fill="#3465a4"><title>Unidentified, fragment</title></circle></a><a href="/setts/s14/r5lb1dt10w2k10y10k1ly3~x4/"><circle cx="56.5" cy="129.2" r="4" fill="#3465a4"><title>Culloden 1746 Artefact Tartan Tartan Number: 7422. Earliest known date: 1746 Count from the original Culloden coat discovered and later examined by Peter MacDonald on display at the Kelvingrove Museum, Glasgow. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/t3k18dy3k3dy3k3dy18lo3dy3db8dy3db3g15k3dy3w3~x2/"><circle cx="93.9" cy="141.0" r="4" fill="#3465a4"><title>Innes of Learney Htg (Personal)</title></circle></a><a href="/setts/s13/lb6k1lb1k1lb1k8g8lo2g8k8db8k1r2~x2/"><circle cx="86.3" cy="155.4" r="4" fill="#3465a4"><title>Farquharson Dress (Fashion)</title></circle></a><a href="/setts/s13/w6k1w1k1w1k8g8lo2g8k8db8k1r2~x2/"><circle cx="70.4" cy="146.3" r="4" fill="#3465a4"><title>Farquharson Dress</title></circle></a><circle cx="56.7" cy="123.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/t3k18o3k4o3k3o18ly3o3db8o3db3g15k3o3w3~x2/

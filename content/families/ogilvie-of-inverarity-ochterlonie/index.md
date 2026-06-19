@@ -8,5 +8,5 @@ A family of [Clan Ogilvie](/clan/ogilvie/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s16/db20ly3k7g11k2g3k2g3r4g3k2g3k2g11k7ly3~x2/"><img src="/setts/s16/db20ly3k7g11k2g3k2g3r4g3k2g3k2g11k7ly3~x2/sett.png" alt="Ogilvie of Inverarity (Wilson) / Ochterlonie" width="240"><br>Ogilvie of Inverarity (Wilson) / Ochterlonie</a>
+<a class="tartan" href="/setts/s16/db20ly3k7g11k2g3k2g3r4~x2/"><img src="/setts/s16/db20ly3k7g11k2g3k2g3r4~x2/sett.png" alt="Ogilvie of Inverarity (Wilson) / Ochterlonie" width="240"><br>Ogilvie of Inverarity (Wilson) / Ochterlonie</a>
 

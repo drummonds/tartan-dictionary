@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -918,8 +921,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/b11lo2r1lo2r1~x4/"><circle cx="396.8" cy="209.6" r="4" fill="#3465a4"><title>Carlisle Ancient</title></circle></a><a href="/setts/s6/b1w5b1w5b15ly1~x4/"><circle cx="366.9" cy="182.2" r="4" fill="#3465a4"><title>Whitley (Personal)</title></circle></a><a href="/setts/s6/t12ly2t1k5t4k2~x4/"><circle cx="364.2" cy="218.6" r="4" fill="#3465a4"><title>Rea</title></circle></a><a href="/setts/s5/b13w3b1k3w1~x6/"><circle cx="375.6" cy="197.0" r="4" fill="#3465a4"><title>Loch Lomond #2</title></circle></a><a href="/setts/s7/lb1lg11k6lg3lb1lg1lb1~x4/"><circle cx="339.0" cy="192.2" r="4" fill="#3465a4"><title>Angle, Blue (Fashion)</title></circle></a><a href="/setts/s7/b33lo6r3lo6k3lo15b32~x4/"><circle cx="361.0" cy="194.7" r="4" fill="#3465a4"><title>Carlisle Family (Name)</title></circle></a><a href="/setts/s6/ly5db15lb5db5lb40ly3~x2/"><circle cx="334.4" cy="175.9" r="4" fill="#3465a4"><title>Legary</title></circle></a><a href="/setts/s7/n3b2w10b2n6b26k2~x2/"><circle cx="316.1" cy="169.6" r="4" fill="#3465a4"><title>MacLintock #2</title></circle></a><a href="/setts/s6/t50dr4t12dr23ly4dr4~x2/"><circle cx="400.7" cy="207.1" r="4" fill="#3465a4"><title>Sligo</title></circle></a><a href="/setts/s5/db26lp11db3lp4k2~x4/"><circle cx="378.5" cy="206.4" r="4" fill="#3465a4"><title>Debbie Munro Memorial (Corporate)</title></circle></a><circle cx="382.8" cy="206.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/b11lo2r1lo2r1~x4/"><circle cx="396.5" cy="209.3" r="4" fill="#3465a4"><title>Carlisle Ancient</title></circle></a><a href="/setts/s6/b1w5b1w5b15ly1~x4/"><circle cx="366.6" cy="181.8" r="4" fill="#3465a4"><title>Whitley (Personal)</title></circle></a><a href="/setts/s6/t12ly2t1k5t4k2~x4/"><circle cx="364.1" cy="218.3" r="4" fill="#3465a4"><title>Rea</title></circle></a><a href="/setts/s5/b13w3b1k3w1~x6/"><circle cx="375.4" cy="196.6" r="4" fill="#3465a4"><title>Loch Lomond #2</title></circle></a><a href="/setts/s7/lb1lg11k6lg3lb1lg1lb1~x4/"><circle cx="338.8" cy="191.8" r="4" fill="#3465a4"><title>Angle, Blue (Fashion)</title></circle></a><a href="/setts/s7/b33lo6r3lo6k3lo15b32~x4/"><circle cx="360.8" cy="194.4" r="4" fill="#3465a4"><title>Carlisle Family (Name)</title></circle></a><a href="/setts/s6/ly5db15lb5db5lb40ly3~x2/"><circle cx="334.0" cy="175.5" r="4" fill="#3465a4"><title>Legary</title></circle></a><a href="/setts/s7/n3b2w10b2n6b26k2~x2/"><circle cx="315.8" cy="169.4" r="4" fill="#3465a4"><title>MacLintock #2</title></circle></a><a href="/setts/s6/t50dr4t12dr23ly4dr4~x2/"><circle cx="400.5" cy="206.8" r="4" fill="#3465a4"><title>Sligo</title></circle></a><a href="/setts/s5/db26lp11db3lp4k2~x4/"><circle cx="378.3" cy="206.0" r="4" fill="#3465a4"><title>Debbie Munro Memorial (Corporate)</title></circle></a><circle cx="382.6" cy="206.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/t37w9t3db9w3~x2/

@@ -8,5 +8,5 @@ A family of [Clan Lewis](/clan/lewis/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s12/db56lo2dg19lo1dg2lo1db2lo1dg2lo1dg19lo2~x2/"><img src="/setts/s12/db56lo2dg19lo1dg2lo1db2lo1dg2lo1dg19lo2~x2/sett.png" alt="Lewis of Wales" width="240"><br>Lewis of Wales</a>
+<a class="tartan" href="/setts/s12/db56lo2dg19lo1dg2lo1db2~x2/"><img src="/setts/s12/db56lo2dg19lo1dg2lo1db2~x2/sett.png" alt="Lewis of Wales" width="240"><br>Lewis of Wales</a>
 

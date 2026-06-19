@@ -2,12 +2,18 @@
 title: "F.I.A.T.A. Congress of 1990"
 date: 2023-03-18
 ---
-**Bands:** [BYRYBBG](/stripes/byrybbg/) · **Stripes:** [DB LY R LY DB B DG](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="seq">DB LY R LY DB B DG</span></span>
+**Bands:** [GBBYRYB](/stripes/gbbyryb/) · **Stripes:** [DG B DB LY R LY DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">DG B DB LY R LY DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1144
+
+## Also known as
+
+This cloth is also recorded under:
+
+- F.I.A.T.A. Congress of 1990
 
 ## Attestations
 
@@ -24,7 +30,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4832
 
 ## Thread count
-DB/24 DY4 DR4 DY8 DB16 B32 G/48
+G/48 B32 DB16 DY8 DR4 DY4 DB/24
 ![Sett](sett.png)
 
 ## Palette
@@ -40,7 +46,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/24 DY4 DR4 DY8 DB16 B32 G/48 tartan")
+![Tartan detail](tartan.png "G/48 B32 DB16 DY8 DR4 DY4 DB/24 tartan")
 
 ## Nearest tartans
 
@@ -48,9 +54,9 @@ The nearest existing variants by ΔTartan distance.
 
 1. [American Express](/setts/s6/db2b9m1db9dg9w2~x4/) — ΔT 0.96
 1. [MacFadzean/MacPhedran](/setts/s7/g3db12w1k12g13r2g2~x4/) — ΔT 1.03
-1. [Mina Perhonen](/setts/s7/ly4k4t5n24ly2k24w4~x2/) — ΔT 1.04
+1. [Mina Perhonen](/setts/s7/w4k24ly2n24t5k4ly4~x2/) — ΔT 1.04
 1. [Moran (Coilessan) (Personal)](/setts/s8/t26db13k13w2g8k5r3t3~x2/) — ΔT 1.07
-1. [Loch Ness (Fashion)](/setts/s7/lb2k17lg11t21r2t2r2~x2/) — ΔT 1.09
+1. [Loch Ness (Fashion)](/setts/s7/r2t2r2t21lg11k17lb2~x2/) — ΔT 1.09
 1. [Grampian](/setts/s8/g26r2g3db15db26r2db3db4~x2/) — ΔT 1.10
 1. [Bhatti (Name)](/setts/s5/k7lb3g18db18w2~x2/) — ΔT 1.12
 1. [New York Fire Department Pipe Band](/setts/s6/k4w1g13k11db11lb3~x4/) — ΔT 1.13
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db2b9m1db9dg9w2~x4/"><circle cx="126.6" cy="207.6" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/setts/s7/g3db12w1k12g13r2g2~x4/"><circle cx="193.8" cy="187.3" r="4" fill="#3465a4"><title>MacFadzean/MacPhedran</title></circle></a><a href="/setts/s7/ly4k4t5n24ly2k24w4~x2/"><circle cx="187.4" cy="168.4" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/setts/s8/t26db13k13w2g8k5r3t3~x2/"><circle cx="150.8" cy="159.2" r="4" fill="#3465a4"><title>Moran (Coilessan) (Personal)</title></circle></a><a href="/setts/s7/lb2k17lg11t21r2t2r2~x2/"><circle cx="169.5" cy="170.4" r="4" fill="#3465a4"><title>Loch Ness (Fashion)</title></circle></a><a href="/setts/s8/g26r2g3db15db26r2db3db4~x2/"><circle cx="194.9" cy="174.7" r="4" fill="#3465a4"><title>Grampian</title></circle></a><a href="/setts/s5/k7lb3g18db18w2~x2/"><circle cx="167.8" cy="220.5" r="4" fill="#3465a4"><title>Bhatti (Name)</title></circle></a><a href="/setts/s6/k4w1g13k11db11lb3~x4/"><circle cx="153.5" cy="209.1" r="4" fill="#3465a4"><title>New York Fire Department Pipe Band</title></circle></a><a href="/setts/s8/g12db3g3db3g3k15lg20b3~x2/"><circle cx="110.2" cy="197.3" r="4" fill="#3465a4"><title>Lemania</title></circle></a><a href="/setts/s7/ly4k2b20k10g15k2r3~x2/"><circle cx="148.4" cy="188.3" r="4" fill="#3465a4"><title>Green MacLeod</title></circle></a><circle cx="148.7" cy="188.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db2b9m1db9dg9w2~x4/"><circle cx="126.8" cy="207.5" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/setts/s7/g3db12w1k12g13r2g2~x4/"><circle cx="193.9" cy="187.3" r="4" fill="#3465a4"><title>MacFadzean/MacPhedran</title></circle></a><a href="/setts/s7/w4k24ly2n24t5k4ly4~x2/"><circle cx="187.5" cy="168.3" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/setts/s8/t26db13k13w2g8k5r3t3~x2/"><circle cx="150.9" cy="159.3" r="4" fill="#3465a4"><title>Moran (Coilessan) (Personal)</title></circle></a><a href="/setts/s7/r2t2r2t21lg11k17lb2~x2/"><circle cx="169.5" cy="170.4" r="4" fill="#3465a4"><title>Loch Ness (Fashion)</title></circle></a><a href="/setts/s8/g26r2g3db15db26r2db3db4~x2/"><circle cx="195.0" cy="174.7" r="4" fill="#3465a4"><title>Grampian</title></circle></a><a href="/setts/s5/k7lb3g18db18w2~x2/"><circle cx="167.9" cy="220.5" r="4" fill="#3465a4"><title>Bhatti (Name)</title></circle></a><a href="/setts/s6/k4w1g13k11db11lb3~x4/"><circle cx="153.7" cy="209.1" r="4" fill="#3465a4"><title>New York Fire Department Pipe Band</title></circle></a><a href="/setts/s8/g12db3g3db3g3k15lg20b3~x2/"><circle cx="110.4" cy="197.3" r="4" fill="#3465a4"><title>Lemania</title></circle></a><a href="/setts/s7/ly4k2b20k10g15k2r3~x2/"><circle cx="148.4" cy="188.3" r="4" fill="#3465a4"><title>Green MacLeod</title></circle></a><circle cx="148.8" cy="188.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/dg12b8db4ly2r1ly1db6~x4/

@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2053
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Largs, dress
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -922,8 +931,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/w4r21db4dy16db4dy8db4dy4w3db6w49r3w4/"><circle cx="230.4" cy="99.2" r="4" fill="#3465a4"><title>Largs Dress District Tartan Tartan Number: 1838. Earliest known date: 1983 The Largs tartan is a new design created for the town and officially adopted in 1981. There is also a dress version. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/r5w20o1w2o1w2o2w2o5n2o2n2o2n3o2n10w3~x2/"><circle cx="225.6" cy="88.8" r="4" fill="#3465a4"><title>Nike Golf Light (Corporate)</title></circle></a><a href="/setts/s12/r2lb22g3r2g2r3g2r3g2r3g2w2~x4/"><circle cx="252.9" cy="124.1" r="4" fill="#3465a4"><title>Princess Marina #2</title></circle></a><a href="/setts/s12/n3w24k3w1k2w2k1w3n7w2r24w3~x2/"><circle cx="257.2" cy="73.6" r="4" fill="#3465a4"><title>Humanitarian Mission (Dress)</title></circle></a><a href="/setts/s11/o68w3o3w8o3w3w24dy16r3dy20w3~x2/"><circle cx="292.8" cy="102.7" r="4" fill="#3465a4"><title>Ben Cleuch (Fashion)</title></circle></a><a href="/setts/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/"><circle cx="271.7" cy="99.3" r="4" fill="#3465a4"><title>Ben Cleuch</title></circle></a><a href="/setts/s13/lp16do2lp2o2lp2do24w2o1w1o1w12do1o2~x4/"><circle cx="220.7" cy="81.3" r="4" fill="#3465a4"><title>Fiona</title></circle></a><a href="/setts/s10/do2lb20r2lb2do3lb3y3r8y26lb2~x2/"><circle cx="248.8" cy="138.5" r="4" fill="#3465a4"><title>Liama, The</title></circle></a><a href="/setts/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="261.1" cy="80.2" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/setts/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/"><circle cx="285.1" cy="95.2" r="4" fill="#3465a4"><title>Duke of Rothesay (Royal)</title></circle></a><circle cx="245.6" cy="101.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/w4r21db4dy16db4dy8db4dy4w3db6w49r3w4/"><circle cx="229.9" cy="99.1" r="4" fill="#3465a4"><title>Largs Dress District Tartan Tartan Number: 1838. Earliest known date: 1983 The Largs tartan is a new design created for the town and officially adopted in 1981. There is also a dress version. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s17/r5w20o1w2o1w2o2w2o5n2o2n2o2n3o2n10w3~x2/"><circle cx="225.1" cy="88.7" r="4" fill="#3465a4"><title>Nike Golf Light (Corporate)</title></circle></a><a href="/setts/s12/r2lb22g3r2g2r3g2r3g2r3g2w2~x4/"><circle cx="252.5" cy="124.0" r="4" fill="#3465a4"><title>Princess Marina #2</title></circle></a><a href="/setts/s12/n3w24k3w1k2w2k1w3n7w2r24w3~x2/"><circle cx="256.5" cy="73.5" r="4" fill="#3465a4"><title>Humanitarian Mission (Dress)</title></circle></a><a href="/setts/s11/o68w3o3w8o3w3w24dy16r3dy20w3~x2/"><circle cx="292.3" cy="102.6" r="4" fill="#3465a4"><title>Ben Cleuch (Fashion)</title></circle></a><a href="/setts/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/"><circle cx="271.1" cy="99.2" r="4" fill="#3465a4"><title>Ben Cleuch</title></circle></a><a href="/setts/s13/lp16do2lp2o2lp2do24w2o1w1o1w12do1o2~x4/"><circle cx="220.2" cy="81.3" r="4" fill="#3465a4"><title>Fiona</title></circle></a><a href="/setts/s10/do2lb20r2lb2do3lb3y3r8y26lb2~x2/"><circle cx="248.3" cy="138.5" r="4" fill="#3465a4"><title>Liama, The</title></circle></a><a href="/setts/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="260.6" cy="80.1" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/setts/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/"><circle cx="284.5" cy="95.0" r="4" fill="#3465a4"><title>Duke of Rothesay (Royal)</title></circle></a><circle cx="245.1" cy="101.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/w4r21db4o16db4o8db4o4w3db6w49r3w4/

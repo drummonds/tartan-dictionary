@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -893,7 +896,7 @@ Other setts woven to the same stripe pattern.
 - [Cameron, Black & Red (dress)](/setts/s6/k1r4k1r4k13r1~x4/)
 - [Erskine (Paton)](/setts/s6/k31r4k47r47k4r31~x2/)
 - [Erskine, Black & Red (Clan)](/setts/s6/k6r3k28r28k3r6~x2/)
-- [Ewing](/setts/s6/k23r3k1r12k1r3~x4/)
+- [Ewing](/setts/s6/k23r3k1r12~x4/)
 
 
 ## Thread count
@@ -916,7 +919,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Ewing](/setts/s6/k23r3k1r12k1r3~x4/) — ΔT 1.29
+1. [Ewing](/setts/s6/k23r3k1r12~x4/) — ΔT 1.29
 1. [Tartan TV](/setts/s6/r19k3r19k32g3k8~x2/) — ΔT 1.39
 1. [Erskine, Black & Red (Clan)](/setts/s6/k6r3k28r28k3r6~x2/) — ΔT 1.41
 1. [MacIver](/setts/s5/k16r2k2r12w1~x2/) — ΔT 1.42
@@ -929,8 +932,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k23r3k1r12k1r3~x4/"><circle cx="431.2" cy="184.0" r="4" fill="#3465a4"><title>Ewing</title></circle></a><a href="/setts/s6/r19k3r19k32g3k8~x2/"><circle cx="311.4" cy="223.4" r="4" fill="#3465a4"><title>Tartan TV</title></circle></a><a href="/setts/s6/k6r3k28r28k3r6~x2/"><circle cx="361.8" cy="231.9" r="4" fill="#3465a4"><title>Erskine, Black &amp; Red (Clan)</title></circle></a><a href="/setts/s5/k16r2k2r12w1~x2/"><circle cx="360.5" cy="195.4" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/setts/s6/db3o3db24o30db3o2~x2/"><circle cx="412.1" cy="211.7" r="4" fill="#3465a4"><title>Auburn University (Alabama) (Corp)</title></circle></a><a href="/setts/s6/k6r1k24r28k1r4~x2/"><circle cx="417.0" cy="183.3" r="4" fill="#3465a4"><title>Aragon (Erskine)</title></circle></a><a href="/setts/s7/r6w3r17k3r3k25r3~x2/"><circle cx="296.1" cy="201.7" r="4" fill="#3465a4"><title>Bon Accord</title></circle></a><a href="/setts/s7/k3r2k30r28k2r2w3~x2/"><circle cx="351.2" cy="167.0" r="4" fill="#3465a4"><title>Cunningham #2</title></circle></a><a href="/setts/s6/k2r16k8ly1k8r2~x4/"><circle cx="341.4" cy="198.8" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><a href="/setts/s8/k30r3k2r3k2r27k30r4~x2/"><circle cx="438.3" cy="204.9" r="4" fill="#3465a4"><title>Murray of Ochtertyre #2</title></circle></a><circle cx="376.2" cy="205.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k23r3k1r12~x4/"><circle cx="431.0" cy="183.7" r="4" fill="#3465a4"><title>Ewing</title></circle></a><a href="/setts/s6/r19k3r19k32g3k8~x2/"><circle cx="311.4" cy="223.1" r="4" fill="#3465a4"><title>Tartan TV</title></circle></a><a href="/setts/s6/k6r3k28r28k3r6~x2/"><circle cx="361.6" cy="231.6" r="4" fill="#3465a4"><title>Erskine, Black &amp; Red (Clan)</title></circle></a><a href="/setts/s5/k16r2k2r12w1~x2/"><circle cx="360.3" cy="195.2" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/setts/s6/db3o3db24o30db3o2~x2/"><circle cx="411.9" cy="211.4" r="4" fill="#3465a4"><title>Auburn University (Alabama) (Corp)</title></circle></a><a href="/setts/s6/k6r1k24r28k1r4~x2/"><circle cx="416.7" cy="183.0" r="4" fill="#3465a4"><title>Aragon (Erskine)</title></circle></a><a href="/setts/s7/r6w3r17k3r3k25r3~x2/"><circle cx="296.0" cy="201.5" r="4" fill="#3465a4"><title>Bon Accord</title></circle></a><a href="/setts/s7/k3r2k30r28k2r2w3~x2/"><circle cx="350.9" cy="166.8" r="4" fill="#3465a4"><title>Cunningham #2</title></circle></a><a href="/setts/s6/k2r16k8ly1k8r2~x4/"><circle cx="341.2" cy="198.6" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><a href="/setts/s8/k30r3k2r3k2r27k30r4~x2/"><circle cx="438.1" cy="204.6" r="4" fill="#3465a4"><title>Murray of Ochtertyre #2</title></circle></a><circle cx="376.1" cy="205.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k3r1k16r16k1r3~x4/

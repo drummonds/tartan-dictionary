@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -909,10 +912,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Clark](/setts/s11/db4w4db19k19w4k19w4db7w4db11w4~x2/) — ΔT 0.85
-1. [Clergy 6](/setts/s11/w1y3w1y1w1k6w1k6y6w1y1~x2/) — ΔT 1.20
+1. [Clergy 6](/setts/s11/y1w1y6k6w1k6w1y1w1y3w1~x2/) — ΔT 1.20
 1. [Tyndrum](/setts/s10/y6k1y1k1y2k4o6k1y2k2~x4/) — ΔT 1.25
 1. [Clergy 2](/setts/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/) — ΔT 1.31
-1. [Hawick Rugby Club](/setts/s10/db2ly1db7w1k7w2k7w1db7ly1~x6/) — ΔT 1.32
+1. [Hawick Rugby Club](/setts/s10/db2ly1db7w1k7w2~x6/) — ΔT 1.32
 1. [Commonwealth Variation (Fashion)](/setts/s13/db20r3db3r3db3k10w14k4w14k10db14r3db3~x2/) — ΔT 1.40
 1. [Commonwealth Variation](/setts/s13/db20r3db3r3db3k10lr14k4lr14k10db14r3db3~x2/) — ΔT 1.42
 1. [Merchiston Castle School](/setts/s11/k18lr8k8lr8r5lr18k5lr5k12db36r5~x2/) — ΔT 1.47
@@ -921,8 +924,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db4w4db19k19w4k19w4db7w4db11w4~x2/"><circle cx="170.7" cy="226.9" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/setts/s11/w1y3w1y1w1k6w1k6y6w1y1~x2/"><circle cx="187.3" cy="198.2" r="4" fill="#3465a4"><title>Clergy 6</title></circle></a><a href="/setts/s10/y6k1y1k1y2k4o6k1y2k2~x4/"><circle cx="187.5" cy="220.5" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/setts/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/"><circle cx="207.2" cy="227.7" r="4" fill="#3465a4"><title>Clergy 2</title></circle></a><a href="/setts/s10/db2ly1db7w1k7w2k7w1db7ly1~x6/"><circle cx="195.2" cy="201.5" r="4" fill="#3465a4"><title>Hawick Rugby Club</title></circle></a><a href="/setts/s13/db20r3db3r3db3k10w14k4w14k10db14r3db3~x2/"><circle cx="127.8" cy="184.3" r="4" fill="#3465a4"><title>Commonwealth Variation (Fashion)</title></circle></a><a href="/setts/s13/db20r3db3r3db3k10lr14k4lr14k10db14r3db3~x2/"><circle cx="138.0" cy="191.9" r="4" fill="#3465a4"><title>Commonwealth Variation</title></circle></a><a href="/setts/s11/k18lr8k8lr8r5lr18k5lr5k12db36r5~x2/"><circle cx="120.1" cy="189.2" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/setts/s11/k18lr8k8lr8r5lr18k5lr5k12db36r5/"><circle cx="120.1" cy="189.2" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/setts/s17/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2~x2/"><circle cx="159.0" cy="195.6" r="4" fill="#3465a4"><title>Carnegie Check</title></circle></a><circle cx="165.0" cy="225.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db4w4db19k19w4k19w4db7w4db11w4~x2/"><circle cx="170.8" cy="226.8" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/setts/s11/y1w1y6k6w1k6w1y1w1y3w1~x2/"><circle cx="187.3" cy="198.0" r="4" fill="#3465a4"><title>Clergy 6</title></circle></a><a href="/setts/s10/y6k1y1k1y2k4o6k1y2k2~x4/"><circle cx="187.5" cy="220.3" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/setts/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/"><circle cx="207.4" cy="227.6" r="4" fill="#3465a4"><title>Clergy 2</title></circle></a><a href="/setts/s10/db2ly1db7w1k7w2~x6/"><circle cx="195.3" cy="201.4" r="4" fill="#3465a4"><title>Hawick Rugby Club</title></circle></a><a href="/setts/s13/db20r3db3r3db3k10w14k4w14k10db14r3db3~x2/"><circle cx="127.9" cy="184.2" r="4" fill="#3465a4"><title>Commonwealth Variation (Fashion)</title></circle></a><a href="/setts/s13/db20r3db3r3db3k10lr14k4lr14k10db14r3db3~x2/"><circle cx="138.2" cy="191.8" r="4" fill="#3465a4"><title>Commonwealth Variation</title></circle></a><a href="/setts/s11/k18lr8k8lr8r5lr18k5lr5k12db36r5~x2/"><circle cx="120.3" cy="189.2" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/setts/s11/k18lr8k8lr8r5lr18k5lr5k12db36r5/"><circle cx="120.3" cy="189.2" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/setts/s17/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2~x2/"><circle cx="159.0" cy="195.4" r="4" fill="#3465a4"><title>Carnegie Check</title></circle></a><circle cx="165.2" cy="225.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k4w4db19k19w4k19w4db7w4db11w4~x2/

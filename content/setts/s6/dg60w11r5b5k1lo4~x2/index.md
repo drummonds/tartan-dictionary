@@ -2,7 +2,7 @@
 title: "Christie Hunting (London) (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GWRBKY](/stripes/gwrbky/) · **Stripes:** [DG W R B K LO](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DG W R B K LO</span></span>
+**Bands:** [YKBRWG](/stripes/ykbrwg/) · **Stripes:** [LO K B R W DG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="seq">LO K B R W DG</span></span>
 
 
 This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
@@ -35,19 +35,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Greeven, Wolfgang H (Personal)](/setts/s8/dg62r5w1r4g5lo4dt4w2~x2/) — ΔT 1.32
 1. [Michael Pellicci (Personal)](/setts/s9/dg60db1lo5k1r15k1w15k1dg15~x2/) — ΔT 1.35
-1. [CREATeGlasgow](/setts/s6/k49r1lp4db5dg5ly5~x2/) — ΔT 1.39
+1. [CREATeGlasgow](/setts/s6/k49r1lp4db5dg5ly5~x2/) — ΔT 1.40
 1. [Aviemore Highland (Corporate)](/setts/s7/dg40k3w1k5r1k2r10~x2/) — ΔT 1.65
-1. [Pavelka Limited](/setts/s8/lt3g5g2lo3w3lo5k48w3~x2/) — ΔT 1.68
+1. [Pavelka Limited](/setts/s8/w3k48lo5w3lo3g2g5lt3~x2/) — ΔT 1.68
 1. [Washington County Sheriff's Office](/setts/s8/lb6k6lb6b3w1k39lo3k3~x2/) — ΔT 1.69
 1. [Knox, David Paul (Personal)](/setts/s11/w2k2w2k10lb1dg40w1r4w1dg5r1~x2/) — ΔT 1.69
 1. [Charlotte Fire Department](/setts/s6/k75r10g7ly3db2w5~x2/) — ΔT 1.70
-1. [Pellicci, Michael (Personal)](/setts/s9/g60db1lo5k1r15k1w15k1g15~x2/) — ΔT 1.70
+1. [Pellicci, Michael (Personal)](/setts/s9/g60db1lo5k1r15k1w15k1g15~x2/) — ΔT 1.71
 1. [Charlotte Fire Department](/setts/s6/k78r10dg7ly3t2w5~x2/) — ΔT 1.73
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dg62r5w1r4g5lo4dt4w2~x2/"><circle cx="463.6" cy="73.2" r="4" fill="#3465a4"><title>Greeven, Wolfgang H (Personal)</title></circle></a><a href="/setts/s9/dg60db1lo5k1r15k1w15k1dg15~x2/"><circle cx="383.9" cy="64.8" r="4" fill="#3465a4"><title>Michael Pellicci (Personal)</title></circle></a><a href="/setts/s6/k49r1lp4db5dg5ly5~x2/"><circle cx="434.0" cy="90.5" r="4" fill="#3465a4"><title>CREATeGlasgow</title></circle></a><a href="/setts/s7/dg40k3w1k5r1k2r10~x2/"><circle cx="421.5" cy="110.3" r="4" fill="#3465a4"><title>Aviemore Highland (Corporate)</title></circle></a><a href="/setts/s8/lt3g5g2lo3w3lo5k48w3~x2/"><circle cx="363.0" cy="85.8" r="4" fill="#3465a4"><title>Pavelka Limited</title></circle></a><a href="/setts/s8/lb6k6lb6b3w1k39lo3k3~x2/"><circle cx="438.5" cy="99.3" r="4" fill="#3465a4"><title>Washington County Sheriff's Office</title></circle></a><a href="/setts/s11/w2k2w2k10lb1dg40w1r4w1dg5r1~x2/"><circle cx="385.6" cy="55.6" r="4" fill="#3465a4"><title>Knox, David Paul (Personal)</title></circle></a><a href="/setts/s6/k75r10g7ly3db2w5~x2/"><circle cx="455.7" cy="97.2" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><a href="/setts/s9/g60db1lo5k1r15k1w15k1g15~x2/"><circle cx="383.6" cy="65.9" r="4" fill="#3465a4"><title>Pellicci, Michael (Personal)</title></circle></a><a href="/setts/s6/k78r10dg7ly3t2w5~x2/"><circle cx="461.3" cy="93.6" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><circle cx="420.7" cy="87.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dg62r5w1r4g5lo4dt4w2~x2/"><circle cx="463.3" cy="73.1" r="4" fill="#3465a4"><title>Greeven, Wolfgang H (Personal)</title></circle></a><a href="/setts/s9/dg60db1lo5k1r15k1w15k1dg15~x2/"><circle cx="383.5" cy="64.7" r="4" fill="#3465a4"><title>Michael Pellicci (Personal)</title></circle></a><a href="/setts/s6/k49r1lp4db5dg5ly5~x2/"><circle cx="433.9" cy="90.3" r="4" fill="#3465a4"><title>CREATeGlasgow</title></circle></a><a href="/setts/s7/dg40k3w1k5r1k2r10~x2/"><circle cx="421.2" cy="110.2" r="4" fill="#3465a4"><title>Aviemore Highland (Corporate)</title></circle></a><a href="/setts/s8/w3k48lo5w3lo3g2g5lt3~x2/"><circle cx="362.9" cy="85.6" r="4" fill="#3465a4"><title>Pavelka Limited</title></circle></a><a href="/setts/s8/lb6k6lb6b3w1k39lo3k3~x2/"><circle cx="438.3" cy="99.0" r="4" fill="#3465a4"><title>Washington County Sheriff's Office</title></circle></a><a href="/setts/s11/w2k2w2k10lb1dg40w1r4w1dg5r1~x2/"><circle cx="385.3" cy="55.4" r="4" fill="#3465a4"><title>Knox, David Paul (Personal)</title></circle></a><a href="/setts/s6/k75r10g7ly3db2w5~x2/"><circle cx="455.5" cy="96.9" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><a href="/setts/s9/g60db1lo5k1r15k1w15k1g15~x2/"><circle cx="383.2" cy="65.7" r="4" fill="#3465a4"><title>Pellicci, Michael (Personal)</title></circle></a><a href="/setts/s6/k78r10dg7ly3t2w5~x2/"><circle cx="461.2" cy="93.4" r="4" fill="#3465a4"><title>Charlotte Fire Department</title></circle></a><circle cx="420.5" cy="87.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/dg60w11r5b5k1lo4~x2/

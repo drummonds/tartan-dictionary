@@ -2,7 +2,7 @@
 title: "Bro-Roazhon"
 date: 2023-03-18
 ---
-**Bands:** [GWBWKWKYWYK](/stripes/gwbwkwkywyk/) · **Stripes:** [G W DB W K W K LY W LY K](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="seq">G W DB W K W K LY W LY K</span></span>
+**Bands:** [KYWYKWKWBWG](/stripes/kywykwkwbwg/) · **Stripes:** [K LY W LY K W K W DB W G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K LY W LY K W K W DB W G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6652
 
 ## Thread count
-G/4 W20 DB4 W6 K10 W34 K6 Y2 W4 Y2 K/56
+K/56 Y2 W4 Y2 K6 W34 K10 W6 DB4 W20 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -43,9 +43,9 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Bell of the Borders](/setts/s9/r3g2k9lr2k2lr24ly2lr2ly1~x4/) — ΔT 1.05
-1. [Harris (Personal)](/setts/s11/lb1n3lb8r1lb1r1lb20k15lb2n8lo1~x2/) — ΔT 1.07
+1. [Harris (Personal)](/setts/s11/lo1n8lb2k15lb20r1lb1r1lb8n3lb1~x2/) — ΔT 1.07
 1. [Motherwell Football Club. Modern](/setts/s9/lr60k6lr8k2lr8w2r12k49lo4/) — ΔT 1.09
-1. [McClurg (Name)](/setts/s8/ly4g1ly2g1ly32ly3db32t4~x2/) — ΔT 1.17
+1. [McClurg (Name)](/setts/s8/t4db32ly3ly32g1ly2g1ly4~x2/) — ΔT 1.17
 1. [Fiander, Julian (Personal)](/setts/s10/r6dg2w21dg2lo2k8lo2dg32w1k3~x2/) — ΔT 1.19
 1. [Stewart Dress, Grey #1 (Fashion)](/setts/s11/lb52k12r3k3lb3k3do10n8k3n3lb3~x2/) — ΔT 1.22
 1. [St. Piran Dress](/setts/s8/r4w19dg2w8dg2w8k38w4~x2/) — ΔT 1.30
@@ -55,8 +55,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r3g2k9lr2k2lr24ly2lr2ly1~x4/"><circle cx="309.3" cy="92.0" r="4" fill="#3465a4"><title>Bell of the Borders</title></circle></a><a href="/setts/s11/lb1n3lb8r1lb1r1lb20k15lb2n8lo1~x2/"><circle cx="255.8" cy="101.5" r="4" fill="#3465a4"><title>Harris (Personal)</title></circle></a><a href="/setts/s9/lr60k6lr8k2lr8w2r12k49lo4/"><circle cx="293.5" cy="97.6" r="4" fill="#3465a4"><title>Motherwell Football Club. Modern</title></circle></a><a href="/setts/s8/ly4g1ly2g1ly32ly3db32t4~x2/"><circle cx="276.2" cy="87.7" r="4" fill="#3465a4"><title>McClurg (Name)</title></circle></a><a href="/setts/s10/r6dg2w21dg2lo2k8lo2dg32w1k3~x2/"><circle cx="228.8" cy="80.3" r="4" fill="#3465a4"><title>Fiander, Julian (Personal)</title></circle></a><a href="/setts/s11/lb52k12r3k3lb3k3do10n8k3n3lb3~x2/"><circle cx="272.8" cy="83.1" r="4" fill="#3465a4"><title>Stewart Dress, Grey #1 (Fashion)</title></circle></a><a href="/setts/s8/r4w19dg2w8dg2w8k38w4~x2/"><circle cx="258.0" cy="131.9" r="4" fill="#3465a4"><title>St. Piran Dress</title></circle></a><a href="/setts/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/"><circle cx="276.5" cy="63.7" r="4" fill="#3465a4"><title>Rothesay, Duke of</title></circle></a><a href="/setts/s9/w5db3w25k2w2k16g8k1w4/"><circle cx="278.5" cy="117.8" r="4" fill="#3465a4"><title>Unidentified (shirt fabric)</title></circle></a><a href="/setts/s7/w3r1w30k20w3k9ly1~x2/"><circle cx="322.9" cy="120.9" r="4" fill="#3465a4"><title>MacPherson Dress (1842)</title></circle></a><circle cx="264.5" cy="81.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r3g2k9lr2k2lr24ly2lr2ly1~x4/"><circle cx="308.9" cy="91.8" r="4" fill="#3465a4"><title>Bell of the Borders</title></circle></a><a href="/setts/s11/lo1n8lb2k15lb20r1lb1r1lb8n3lb1~x2/"><circle cx="255.5" cy="101.4" r="4" fill="#3465a4"><title>Harris (Personal)</title></circle></a><a href="/setts/s9/lr60k6lr8k2lr8w2r12k49lo4/"><circle cx="293.2" cy="97.4" r="4" fill="#3465a4"><title>Motherwell Football Club. Modern</title></circle></a><a href="/setts/s8/t4db32ly3ly32g1ly2g1ly4~x2/"><circle cx="275.8" cy="87.6" r="4" fill="#3465a4"><title>McClurg (Name)</title></circle></a><a href="/setts/s10/r6dg2w21dg2lo2k8lo2dg32w1k3~x2/"><circle cx="228.6" cy="80.3" r="4" fill="#3465a4"><title>Fiander, Julian (Personal)</title></circle></a><a href="/setts/s11/lb52k12r3k3lb3k3do10n8k3n3lb3~x2/"><circle cx="272.5" cy="82.9" r="4" fill="#3465a4"><title>Stewart Dress, Grey #1 (Fashion)</title></circle></a><a href="/setts/s8/r4w19dg2w8dg2w8k38w4~x2/"><circle cx="257.8" cy="131.7" r="4" fill="#3465a4"><title>St. Piran Dress</title></circle></a><a href="/setts/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/"><circle cx="276.0" cy="63.6" r="4" fill="#3465a4"><title>Rothesay, Duke of</title></circle></a><a href="/setts/s9/w5db3w25k2w2k16g8k1w4/"><circle cx="278.1" cy="117.5" r="4" fill="#3465a4"><title>Unidentified (shirt fabric)</title></circle></a><a href="/setts/s7/w3r1w30k20w3k9ly1~x2/"><circle cx="322.5" cy="120.7" r="4" fill="#3465a4"><title>MacPherson Dress (1842)</title></circle></a><circle cx="264.2" cy="81.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k28ly1w2ly1k3w17k5w3db2w10g2~x2/

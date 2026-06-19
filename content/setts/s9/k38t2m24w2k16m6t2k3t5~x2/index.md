@@ -2,12 +2,18 @@
 title: "Universal Scientific Indust (Corp.)"
 date: 2023-03-18
 ---
-**Bands:** [BKBRKWRBK](/stripes/bkbrkwrbk/) · **Stripes:** [T K T M K W M T K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="seq">T K T M K W M T K</span></span>
+**Bands:** [KBRWKRBKB](/stripes/kbrwkrbkb/) · **Stripes:** [K T M W K M T K T](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K T M W K M T K T</span></span>
 
 
 This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2588/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Universal Scientific Industrial
 
 ## Attestations
 
@@ -24,7 +30,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6738
 
 ## Thread count
-B/10 K6 B4 LP12 K32 W4 LP48 B4 K/76
+K/76 B4 LP48 W4 K32 LP12 B4 K6 B/10
 ![Sett](sett.png)
 
 ## Palette
@@ -54,8 +60,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r10k15g2k2w1k1w1~x4/"><circle cx="318.2" cy="158.9" r="4" fill="#3465a4"><title>Ikelman No 4</title></circle></a><a href="/setts/s9/r3b14ly2k2b14k36ly2k2ly2~x2/"><circle cx="308.9" cy="143.3" r="4" fill="#3465a4"><title>Ewbank</title></circle></a><a href="/setts/s8/k36r3k3r3k9b36g3b2~x2/"><circle cx="318.7" cy="160.8" r="4" fill="#3465a4"><title>Home (Clan)</title></circle></a><a href="/setts/s12/k2r12k21w1k4w1k21w3r3db18k2db1~x2/"><circle cx="319.4" cy="139.9" r="4" fill="#3465a4"><title>Bishop</title></circle></a><a href="/setts/s7/w3dr10k38o11dr6k2w3~x2/"><circle cx="314.9" cy="157.0" r="4" fill="#3465a4"><title>Phantom (Corporate)</title></circle></a><a href="/setts/s8/dt14o1dt1o1dt6o14w1o1~x4/"><circle cx="325.9" cy="166.2" r="4" fill="#3465a4"><title>Corrie</title></circle></a><a href="/setts/s8/r1dt23lo3b16lo3dt22r1w1~x2/"><circle cx="368.2" cy="143.7" r="4" fill="#3465a4"><title>Schöbitz (2016)</title></circle></a><a href="/setts/s10/db26g6db26r2g26w1r6db2r6db13~x2/"><circle cx="349.2" cy="163.9" r="4" fill="#3465a4"><title>Unidentified Plaid #5</title></circle></a><a href="/setts/s7/r10db15g2db2w1db1w1~x4/"><circle cx="340.3" cy="170.0" r="4" fill="#3465a4"><title>Ikelman #4 (Personal)</title></circle></a><a href="/setts/s10/lo6db3lo3db15db7lo7db5lo17db46lo4/"><circle cx="285.4" cy="158.9" r="4" fill="#3465a4"><title>Rhys (Welsh Name)</title></circle></a><circle cx="339.7" cy="150.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r10k15g2k2w1k1w1~x4/"><circle cx="318.1" cy="158.8" r="4" fill="#3465a4"><title>Ikelman No 4</title></circle></a><a href="/setts/s9/r3b14ly2k2b14k36ly2k2ly2~x2/"><circle cx="308.8" cy="143.1" r="4" fill="#3465a4"><title>Ewbank</title></circle></a><a href="/setts/s8/k36r3k3r3k9b36g3b2~x2/"><circle cx="318.7" cy="160.7" r="4" fill="#3465a4"><title>Home (Clan)</title></circle></a><a href="/setts/s12/k2r12k21w1k4w1k21w3r3db18k2db1~x2/"><circle cx="319.4" cy="139.8" r="4" fill="#3465a4"><title>Bishop</title></circle></a><a href="/setts/s7/w3dr10k38o11dr6k2w3~x2/"><circle cx="314.8" cy="156.8" r="4" fill="#3465a4"><title>Phantom (Corporate)</title></circle></a><a href="/setts/s8/dt14o1dt1o1dt6o14w1o1~x4/"><circle cx="325.7" cy="166.1" r="4" fill="#3465a4"><title>Corrie</title></circle></a><a href="/setts/s8/r1dt23lo3b16lo3dt22r1w1~x2/"><circle cx="368.1" cy="143.6" r="4" fill="#3465a4"><title>Schöbitz (2016)</title></circle></a><a href="/setts/s10/db26g6db26r2g26w1r6db2r6db13~x2/"><circle cx="349.2" cy="163.7" r="4" fill="#3465a4"><title>Unidentified Plaid #5</title></circle></a><a href="/setts/s7/r10db15g2db2w1db1w1~x4/"><circle cx="340.3" cy="169.8" r="4" fill="#3465a4"><title>Ikelman #4 (Personal)</title></circle></a><a href="/setts/s10/lo6db3lo3db15db7lo7db5lo17db46lo4/"><circle cx="285.4" cy="158.8" r="4" fill="#3465a4"><title>Rhys (Welsh Name)</title></circle></a><circle cx="339.6" cy="150.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/k38t2m24w2k16m6t2k3t5~x2/

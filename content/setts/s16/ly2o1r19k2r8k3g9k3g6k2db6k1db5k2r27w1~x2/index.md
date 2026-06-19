@@ -2,15 +2,21 @@
 title: "Muzzi, Massimiliano Baron of Striche"
 date: 2023-03-18
 ---
-**Bands:** [WRKBKBKGKGKRKRRY](/stripes/wrkbkbkgkgkrkrry/) · **Stripes:** [W R K DB K DB K G K G K R K R O LY](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W R K DB K DB K G K G K R K R O LY</span></span>
+**Bands:** [YRRKRKGKGKBKBKRW](/stripes/yrrkrkgkgkbkbkrw/) · **Stripes:** [LY O R K R K G K G K DB K DB K R W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY O R K R K G K G K DB K DB K R W</span></span>
 
 
 This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11214/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Muzzi, Massimiliano Baron of Striche
+
 ## Thread count
-W/2 R54 K4 DB10 K2 DB12 K4 G12 K6 G18 K6 R16 K4 R38 N2 Y/4
+Y/4 N2 R38 K4 R16 K6 G18 K6 G12 K4 DB12 K2 DB10 K4 R54 W/2
 ![Sett](sett.png)
 
 ## Palette
@@ -31,20 +37,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Muzzi, Massimiliano, baron of Strichen Dress (Personal)](/setts/s16/ly2lr1r19k2r8k3dg9k3dg6k2db6k1db5k2r27w1~x2/) — ΔT 0.36
-1. [West Virginia](/setts/s14/lo4g4db8g8t6r27w1k3r27g8r8db8g4lo4~x2/) — ΔT 1.09
+1. [West Virginia](/setts/s14/lo4g4db8r8g8r27k3w1r27t6g8db8g4lo4~x2/) — ΔT 1.09
 1. [Stuart/Stewart of Appin #4](/setts/s15/r3dg1r2dg1r18k4ly1k2w1db4dg6r3k1r2w1~x2/) — ΔT 1.16
 1. [MacRae, of Ardentoul](/setts/s18/r11t3db18ly1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/) — ΔT 1.17
 1. [Livingstone (Australia) Official](/setts/s15/dg10r3k2r3dg10r8k2ly1n1ly1k2r20dg4r8w1~x2/) — ΔT 1.23
 1. [Stewart of Galloway - 1842 (Clan)](/setts/s12/k3r24k4ly1k2w1db4dg6r3k1r2w1~x4/) — ΔT 1.24
 1. [Stewart/Stuart of Galloway (VS)](/setts/s22/r24k4ly1k2w1db4dg6r3k1r2w1r2k1r3dg6db4w1k2ly1k4r24k3~x4/) — ΔT 1.28
 1. [Stewart of Appin 5](/setts/s15/r3g1r2g1r18k4ly1k2w1db4g6r3k1r2w1~x2/) — ΔT 1.30
-1. [Unidentified Scarlett #16](/setts/s20/db9lb1k8ly1k2w2k2g13r45w1r4w1r45g13k2w2k2ly1k8lb1~x2/) — ΔT 1.31
+1. [Unidentified Scarlett #16](/setts/s20/db9lb1k8ly1k2w2k2g13r45w1r4~x2/) — ΔT 1.31
 1. [Followers' Plaid](/setts/s11/r48t8k10ly2k3w2g25r10k3r3w2~x2/) — ΔT 1.34
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/ly2lr1r19k2r8k3dg9k3dg6k2db6k1db5k2r27w1~x2/"><circle cx="272.7" cy="50.0" r="4" fill="#3465a4"><title>Muzzi, Massimiliano, baron of Strichen Dress (Personal)</title></circle></a><a href="/setts/s14/lo4g4db8g8t6r27w1k3r27g8r8db8g4lo4~x2/"><circle cx="251.4" cy="79.0" r="4" fill="#3465a4"><title>West Virginia</title></circle></a><a href="/setts/s15/r3dg1r2dg1r18k4ly1k2w1db4dg6r3k1r2w1~x2/"><circle cx="281.9" cy="70.9" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #4</title></circle></a><a href="/setts/s18/r11t3db18ly1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/"><circle cx="287.8" cy="14.0" r="4" fill="#3465a4"><title>MacRae, of Ardentoul</title></circle></a><a href="/setts/s15/dg10r3k2r3dg10r8k2ly1n1ly1k2r20dg4r8w1~x2/"><circle cx="296.8" cy="95.3" r="4" fill="#3465a4"><title>Livingstone (Australia) Official</title></circle></a><a href="/setts/s12/k3r24k4ly1k2w1db4dg6r3k1r2w1~x4/"><circle cx="305.7" cy="64.5" r="4" fill="#3465a4"><title>Stewart of Galloway - 1842 (Clan)</title></circle></a><a href="/setts/s22/r24k4ly1k2w1db4dg6r3k1r2w1r2k1r3dg6db4w1k2ly1k4r24k3~x4/"><circle cx="311.0" cy="41.9" r="4" fill="#3465a4"><title>Stewart/Stuart of Galloway (VS)</title></circle></a><a href="/setts/s15/r3g1r2g1r18k4ly1k2w1db4g6r3k1r2w1~x2/"><circle cx="269.0" cy="69.2" r="4" fill="#3465a4"><title>Stewart of Appin 5</title></circle></a><a href="/setts/s20/db9lb1k8ly1k2w2k2g13r45w1r4w1r45g13k2w2k2ly1k8lb1~x2/"><circle cx="329.3" cy="14.0" r="4" fill="#3465a4"><title>Unidentified Scarlett #16</title></circle></a><a href="/setts/s11/r48t8k10ly2k3w2g25r10k3r3w2~x2/"><circle cx="281.9" cy="76.1" r="4" fill="#3465a4"><title>Followers' Plaid</title></circle></a><circle cx="278.8" cy="51.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/ly2lr1r19k2r8k3dg9k3dg6k2db6k1db5k2r27w1~x2/"><circle cx="272.4" cy="50.1" r="4" fill="#3465a4"><title>Muzzi, Massimiliano, baron of Strichen Dress (Personal)</title></circle></a><a href="/setts/s14/lo4g4db8r8g8r27k3w1r27t6g8db8g4lo4~x2/"><circle cx="251.1" cy="79.1" r="4" fill="#3465a4"><title>West Virginia</title></circle></a><a href="/setts/s15/r3dg1r2dg1r18k4ly1k2w1db4dg6r3k1r2w1~x2/"><circle cx="281.5" cy="70.9" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #4</title></circle></a><a href="/setts/s18/r11t3db18ly1db2w1k1g18r3k1r2k3r2k1r40k1r2k3~x2/"><circle cx="287.5" cy="14.0" r="4" fill="#3465a4"><title>MacRae, of Ardentoul</title></circle></a><a href="/setts/s15/dg10r3k2r3dg10r8k2ly1n1ly1k2r20dg4r8w1~x2/"><circle cx="296.6" cy="95.3" r="4" fill="#3465a4"><title>Livingstone (Australia) Official</title></circle></a><a href="/setts/s12/k3r24k4ly1k2w1db4dg6r3k1r2w1~x4/"><circle cx="305.3" cy="64.5" r="4" fill="#3465a4"><title>Stewart of Galloway - 1842 (Clan)</title></circle></a><a href="/setts/s22/r24k4ly1k2w1db4dg6r3k1r2w1r2k1r3dg6db4w1k2ly1k4r24k3~x4/"><circle cx="310.5" cy="41.9" r="4" fill="#3465a4"><title>Stewart/Stuart of Galloway (VS)</title></circle></a><a href="/setts/s15/r3g1r2g1r18k4ly1k2w1db4g6r3k1r2w1~x2/"><circle cx="268.7" cy="69.2" r="4" fill="#3465a4"><title>Stewart of Appin 5</title></circle></a><a href="/setts/s20/db9lb1k8ly1k2w2k2g13r45w1r4~x2/"><circle cx="328.8" cy="14.0" r="4" fill="#3465a4"><title>Unidentified Scarlett #16</title></circle></a><a href="/setts/s11/r48t8k10ly2k3w2g25r10k3r3w2~x2/"><circle cx="281.6" cy="76.1" r="4" fill="#3465a4"><title>Followers' Plaid</title></circle></a><circle cx="278.5" cy="51.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/ly2o1r19k2r8k3g9k3g6k2db6k1db5k2r27w1~x2/

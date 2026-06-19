@@ -2,7 +2,7 @@
 title: "Gunn (2011) Personal Tartan Tartan Number: 10459. Earliest known date: 17th July 2011 This is a variation on the original Gunn tartan, created in memory of the designer's grandfather, William Jesse Gunn and intended principally for the designer and his immediate family. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [BKGR](/stripes/bkgr/) · **Stripes:** [B K G R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">B K G R</span></span>
+**Bands:** [RGKB](/stripes/rgkb/) · **Stripes:** [R G K B](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="seq">R G K B</span></span>
 
 
 This was sourced from house-of-tartan.  It is a [4 band tartan](/bands/bands4/).
@@ -34,7 +34,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Gunn (Personal)](/setts/s4/db20k20g20r1~x2/) — ΔT 1.01
 1. [Gunn 2011, Robert (Personal)](/setts/s4/t20k20g20r1~x2/) — ΔT 1.14
-1. [Sinclair of Ulbster](/setts/s6/b12k4g6ly1g6k4~x8/) — ΔT 1.26
+1. [Sinclair of Ulbster](/setts/s6/b12k4g6ly1~x8/) — ΔT 1.26
 1. [MacKirdy](/setts/s5/k2g12k11b12w1~x2/) — ΔT 1.27
 1. [Skibo](/setts/s5/r2g23db11db22r2~x2/) — ΔT 1.44
 1. [Glenturret Distillery](/setts/s6/lo4db24g3k21g23k1~x2/) — ΔT 1.57
@@ -45,8 +45,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/db20k20g20r1~x2/"><circle cx="226.8" cy="259.3" r="4" fill="#3465a4"><title>Gunn (Personal)</title></circle></a><a href="/setts/s4/t20k20g20r1~x2/"><circle cx="175.3" cy="227.7" r="4" fill="#3465a4"><title>Gunn 2011, Robert (Personal)</title></circle></a><a href="/setts/s6/b12k4g6ly1g6k4~x8/"><circle cx="191.9" cy="239.5" r="4" fill="#3465a4"><title>Sinclair of Ulbster</title></circle></a><a href="/setts/s5/k2g12k11b12w1~x2/"><circle cx="179.1" cy="232.8" r="4" fill="#3465a4"><title>MacKirdy</title></circle></a><a href="/setts/s5/r2g23db11db22r2~x2/"><circle cx="216.3" cy="231.8" r="4" fill="#3465a4"><title>Skibo</title></circle></a><a href="/setts/s6/lo4db24g3k21g23k1~x2/"><circle cx="225.9" cy="198.5" r="4" fill="#3465a4"><title>Glenturret Distillery</title></circle></a><a href="/setts/s5/db31g2k20ly2g24~x2/"><circle cx="218.5" cy="213.6" r="4" fill="#3465a4"><title>Landels (Personal)</title></circle></a><a href="/setts/s5/k20db50g50r3k3~x2/"><circle cx="255.4" cy="220.7" r="4" fill="#3465a4"><title>Louisville Spaulding (Personal)</title></circle></a><a href="/setts/s5/t2db29t12g29w2~x2/"><circle cx="249.0" cy="223.1" r="4" fill="#3465a4"><title>Wallace Blue (Fashion)</title></circle></a><a href="/setts/s6/k4w1g13k11db11lb3~x4/"><circle cx="153.5" cy="209.1" r="4" fill="#3465a4"><title>New York Fire Department Pipe Band</title></circle></a><circle cx="201.6" cy="247.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/db20k20g20r1~x2/"><circle cx="227.0" cy="259.3" r="4" fill="#3465a4"><title>Gunn (Personal)</title></circle></a><a href="/setts/s4/t20k20g20r1~x2/"><circle cx="175.4" cy="227.6" r="4" fill="#3465a4"><title>Gunn 2011, Robert (Personal)</title></circle></a><a href="/setts/s6/b12k4g6ly1~x8/"><circle cx="192.0" cy="239.5" r="4" fill="#3465a4"><title>Sinclair of Ulbster</title></circle></a><a href="/setts/s5/k2g12k11b12w1~x2/"><circle cx="179.3" cy="232.8" r="4" fill="#3465a4"><title>MacKirdy</title></circle></a><a href="/setts/s5/r2g23db11db22r2~x2/"><circle cx="216.4" cy="231.8" r="4" fill="#3465a4"><title>Skibo</title></circle></a><a href="/setts/s6/lo4db24g3k21g23k1~x2/"><circle cx="226.1" cy="198.5" r="4" fill="#3465a4"><title>Glenturret Distillery</title></circle></a><a href="/setts/s5/db31g2k20ly2g24~x2/"><circle cx="218.7" cy="213.6" r="4" fill="#3465a4"><title>Landels (Personal)</title></circle></a><a href="/setts/s5/k20db50g50r3k3~x2/"><circle cx="255.6" cy="220.7" r="4" fill="#3465a4"><title>Louisville Spaulding (Personal)</title></circle></a><a href="/setts/s5/t2db29t12g29w2~x2/"><circle cx="249.0" cy="223.1" r="4" fill="#3465a4"><title>Wallace Blue (Fashion)</title></circle></a><a href="/setts/s6/k4w1g13k11db11lb3~x4/"><circle cx="153.7" cy="209.1" r="4" fill="#3465a4"><title>New York Fire Department Pipe Band</title></circle></a><circle cx="201.8" cy="247.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/b20k20g20r1~x2/

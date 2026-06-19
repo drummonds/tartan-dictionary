@@ -2,12 +2,18 @@
 title: "Rhode Island, State of"
 date: 2023-03-18
 ---
-**Bands:** [BBBWBGY](/stripes/bbbwbgy/) · **Stripes:** [DT B DT W DT G LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DT B DT W DT G LY</span></span>
+**Bands:** [YGBWBBB](/stripes/ygbwbbb/) · **Stripes:** [LY G DT W DT B DT](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#023535"></span><span class="seq">LY G DT W DT B DT</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3504
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Rhode Island, State of
 
 ## Attestations
 
@@ -49,7 +55,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [MacThomas](/setts/s7/b5m3b32k16g32m3g5~x2/) — ΔT 0.74
+1. [MacThomas](/setts/s7/g5m3g32k16b32m3b5~x2/) — ΔT 0.74
 1. [Highlands Country Club](/setts/s7/g5db15t11w2t1w1dg4~x4/) — ΔT 0.81
 1. [Ednie (Personal)](/setts/s7/b11k4g4m1g4k1r1~x4/) — ΔT 0.96
 1. [Boroughmuir](/setts/s7/db6b47db22g47dp4g4o4/) — ΔT 1.03
@@ -57,13 +63,13 @@ The nearest existing variants by ΔTartan distance.
 1. [MacWilliam](/setts/s8/dy2g12k10r1b16r2b16r1~x4/) — ΔT 1.14
 1. [Jamieson, Robert (Personal)](/setts/s5/lb6lo6b21dt32r3~x2/) — ΔT 1.14
 1. [Dollar Academy (1999) (Corporate)](/setts/s8/w2db19k4db4k4g9db2k1~x4/) — ΔT 1.16
-1. [MacThomas (Clan)](/setts/s7/b5m3b32k16dg32lp3dg5~x2/) — ΔT 1.16
+1. [MacThomas (Clan)](/setts/s7/dg5lp3dg32k16b32m3b5~x2/) — ΔT 1.16
 1. [MacCord / McCord (Personal)](/setts/s7/dg6r2db1r3db16g20w2~x2/) — ΔT 1.16
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/b5m3b32k16g32m3g5~x2/"><circle cx="212.2" cy="198.7" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/setts/s7/g5db15t11w2t1w1dg4~x4/"><circle cx="198.8" cy="178.1" r="4" fill="#3465a4"><title>Highlands Country Club</title></circle></a><a href="/setts/s7/b11k4g4m1g4k1r1~x4/"><circle cx="213.0" cy="194.5" r="4" fill="#3465a4"><title>Ednie (Personal)</title></circle></a><a href="/setts/s7/db6b47db22g47dp4g4o4/"><circle cx="235.9" cy="202.2" r="4" fill="#3465a4"><title>Boroughmuir</title></circle></a><a href="/setts/s6/r15t98dt72ly25dt8w15/"><circle cx="208.4" cy="186.1" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><a href="/setts/s8/dy2g12k10r1b16r2b16r1~x4/"><circle cx="274.5" cy="180.8" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/setts/s5/lb6lo6b21dt32r3~x2/"><circle cx="241.1" cy="213.9" r="4" fill="#3465a4"><title>Jamieson, Robert (Personal)</title></circle></a><a href="/setts/s8/w2db19k4db4k4g9db2k1~x4/"><circle cx="284.2" cy="169.8" r="4" fill="#3465a4"><title>Dollar Academy (1999) (Corporate)</title></circle></a><a href="/setts/s7/b5m3b32k16dg32lp3dg5~x2/"><circle cx="213.7" cy="200.7" r="4" fill="#3465a4"><title>MacThomas (Clan)</title></circle></a><a href="/setts/s7/dg6r2db1r3db16g20w2~x2/"><circle cx="226.6" cy="157.5" r="4" fill="#3465a4"><title>MacCord / McCord (Personal)</title></circle></a><circle cx="246.6" cy="181.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g5m3g32k16b32m3b5~x2/"><circle cx="212.2" cy="198.7" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/setts/s7/g5db15t11w2t1w1dg4~x4/"><circle cx="198.8" cy="178.2" r="4" fill="#3465a4"><title>Highlands Country Club</title></circle></a><a href="/setts/s7/b11k4g4m1g4k1r1~x4/"><circle cx="213.1" cy="194.5" r="4" fill="#3465a4"><title>Ednie (Personal)</title></circle></a><a href="/setts/s7/db6b47db22g47dp4g4o4/"><circle cx="236.0" cy="202.3" r="4" fill="#3465a4"><title>Boroughmuir</title></circle></a><a href="/setts/s6/r15t98dt72ly25dt8w15/"><circle cx="208.3" cy="186.1" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><a href="/setts/s8/dy2g12k10r1b16r2b16r1~x4/"><circle cx="274.5" cy="180.7" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/setts/s5/lb6lo6b21dt32r3~x2/"><circle cx="241.1" cy="213.8" r="4" fill="#3465a4"><title>Jamieson, Robert (Personal)</title></circle></a><a href="/setts/s8/w2db19k4db4k4g9db2k1~x4/"><circle cx="284.3" cy="169.8" r="4" fill="#3465a4"><title>Dollar Academy (1999) (Corporate)</title></circle></a><a href="/setts/s7/dg5lp3dg32k16b32m3b5~x2/"><circle cx="213.8" cy="200.8" r="4" fill="#3465a4"><title>MacThomas (Clan)</title></circle></a><a href="/setts/s7/dg6r2db1r3db16g20w2~x2/"><circle cx="226.6" cy="157.6" r="4" fill="#3465a4"><title>MacCord / McCord (Personal)</title></circle></a><circle cx="246.6" cy="181.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/dt4b28dt11w2dt2g14ly2~x2/

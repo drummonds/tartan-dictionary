@@ -2,7 +2,7 @@
 title: "Toshach"
 date: 2023-03-18
 ---
-**Bands:** [BGGGWGGGGRGWGWGGGGWGGG](/stripes/bgggwggggrgwgwggggwggg/) · **Stripes:** [B DG DG DG W DG DG DG DG R DG W DG W DG DG DG DG W DG DG DG](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="seq">B DG DG DG W DG DG DG DG R DG W DG W DG DG DG DG W DG DG DG</span></span>
+**Bands:** [GGGWGGGGWGWGRGGGGWGGGB](/stripes/gggwggggwgwgrggggwgggb/) · **Stripes:** [DG DG DG W DG DG DG DG W DG W DG R DG DG DG DG W DG DG DG B](/stripes/stripes22/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#466CC8"></span><span class="seq">DG DG DG W DG DG DG DG W DG W DG R DG DG DG DG W DG DG DG B</span></span>
 
 
 This was sourced from weddslist.  It is a [22 band tartan](/bands/bands22/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/8 DG10 G8 DG20 LN4 DG20 G4 DG4 G40 R8 G8 LN8 G8 LN8 G40 DG4 G4 DG20 LN4 DG20 G8 DG/20
+DG/20 G8 DG20 LN4 DG20 G4 DG4 G40 LN8 G8 LN8 G8 R8 G40 DG4 G4 DG20 LN4 DG20 G8 DG10 B/8
 ![Sett](sett.png)
 
 ## Palette
@@ -906,18 +909,18 @@ The nearest existing variants by ΔTartan distance.
 1. [O'Conner Irish Family Tartan Tartan Number: 2217. Earliest known date: 1985 Designed by Jerry O'Connor of Keltic Klassics, Hillsdale, New Jersey who names it "Royal na Connaught" .Woven by House of Edgar who said they would call it O'Connor. Ref made to Lawrence & Gerald O'Connor - possibly customers of Macnaughtons of Pitlochry (part of same group as House of Edgar) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/g5k24g12k16g26w4g24w4g26k16dt4k4dt4k4db28g3/) — ΔT 1.15
 1. [Norwich No.038](/setts/s18/g14t2r3t2k16ly2t16g16r3g16t16ly2k16t2r3t2g14k6~x2/) — ΔT 1.24
 1. [Toshach](/setts/s22/g10dg4g10w2g10dg2g2dg20w4dg4w4dg4r4dg20g2dg2g10w2g10dg4g5t4~x2/) — ΔT 1.26
-1. [Lloyd of Dolobran (Personal)](/setts/s22/db5k1db5k5g4r1g4k1g4w1g4k10g4w1g4k1g4r1g4k5db5k1~x4/) — ΔT 1.35
+1. [Lloyd of Dolobran (Personal)](/setts/s22/k10g4w1g4k1g4r1g4k5db5k1db5~x4/) — ΔT 1.35
 1. [Semple](/setts/s16/b11k3b3k3b4k15g36w3g36k15b4k3b3k3b11r4~x2/) — ΔT 1.37
 1. [Wilson's No.033](/setts/s16/g17t3r3t3k19ly2g17r4g17ly2k19t3r3t3g17db8~x2/) — ΔT 1.37
-1. [Pilette of Kinnear (Personal)](/setts/s21/k4r2k10g3k10g30k8g3r4lb2r4lo2r4g3k8g30k10g3k10r2k4~x2/) — ΔT 1.40
+1. [Pilette of Kinnear (Personal)](/setts/s21/k4r2k10g3k10g30k8g3r4lo2r4lb2r4g3k8g30k10g3k10r2k4~x2/) — ΔT 1.40
 1. [Myron](/setts/s17/k1g1r1g1lo1g1lo1g4db1k1db1k1db1k1db1g7r1~x4/) — ΔT 1.40
 1. [Wilson's No.033 #2](/setts/s16/g17t3r3t3k19w2g17r4g17w2k19t3r3t3g17db8~x2/) — ΔT 1.43
 1. [Hunter of Hunterston](/setts/s20/g4r2g14w2db14r2db14g14db2g5db2g14db14r2db14w2g14r2g4ly3~x2/) — ΔT 1.46
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/g5k24g12k16g26w4g24w4g26k16dt4k4dt4k4db28g3/"><circle cx="202.8" cy="179.8" r="4" fill="#3465a4"><title>O'Conner Irish Family Tartan Tartan Number: 2217. Earliest known date: 1985 Designed by Jerry O'Connor of Keltic Klassics, Hillsdale, New Jersey who names it &quot;Royal na Connaught&quot; .Woven by House of Edgar who said they would call it O'Connor. Ref made to Lawrence &amp; Gerald O'Connor - possibly customers of Macnaughtons of Pitlochry (part of same group as House of Edgar) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/g14t2r3t2k16ly2t16g16r3g16t16ly2k16t2r3t2g14k6~x2/"><circle cx="146.2" cy="166.7" r="4" fill="#3465a4"><title>Norwich No.038</title></circle></a><a href="/setts/s22/g10dg4g10w2g10dg2g2dg20w4dg4w4dg4r4dg20g2dg2g10w2g10dg4g5t4~x2/"><circle cx="202.4" cy="154.9" r="4" fill="#3465a4"><title>Toshach</title></circle></a><a href="/setts/s22/db5k1db5k5g4r1g4k1g4w1g4k10g4w1g4k1g4r1g4k5db5k1~x4/"><circle cx="166.7" cy="171.7" r="4" fill="#3465a4"><title>Lloyd of Dolobran (Personal)</title></circle></a><a href="/setts/s16/b11k3b3k3b4k15g36w3g36k15b4k3b3k3b11r4~x2/"><circle cx="226.4" cy="140.9" r="4" fill="#3465a4"><title>Semple</title></circle></a><a href="/setts/s16/g17t3r3t3k19ly2g17r4g17ly2k19t3r3t3g17db8~x2/"><circle cx="187.0" cy="152.6" r="4" fill="#3465a4"><title>Wilson's No.033</title></circle></a><a href="/setts/s21/k4r2k10g3k10g30k8g3r4lb2r4lo2r4g3k8g30k10g3k10r2k4~x2/"><circle cx="256.0" cy="124.8" r="4" fill="#3465a4"><title>Pilette of Kinnear (Personal)</title></circle></a><a href="/setts/s17/k1g1r1g1lo1g1lo1g4db1k1db1k1db1k1db1g7r1~x4/"><circle cx="235.4" cy="163.2" r="4" fill="#3465a4"><title>Myron</title></circle></a><a href="/setts/s16/g17t3r3t3k19w2g17r4g17w2k19t3r3t3g17db8~x2/"><circle cx="180.2" cy="149.2" r="4" fill="#3465a4"><title>Wilson's No.033 #2</title></circle></a><a href="/setts/s20/g4r2g14w2db14r2db14g14db2g5db2g14db14r2db14w2g14r2g4ly3~x2/"><circle cx="205.8" cy="169.3" r="4" fill="#3465a4"><title>Hunter of Hunterston</title></circle></a><circle cx="205.8" cy="158.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/g5k24g12k16g26w4g24w4g26k16dt4k4dt4k4db28g3/"><circle cx="202.9" cy="179.8" r="4" fill="#3465a4"><title>O'Conner Irish Family Tartan Tartan Number: 2217. Earliest known date: 1985 Designed by Jerry O'Connor of Keltic Klassics, Hillsdale, New Jersey who names it &quot;Royal na Connaught&quot; .Woven by House of Edgar who said they would call it O'Connor. Ref made to Lawrence &amp; Gerald O'Connor - possibly customers of Macnaughtons of Pitlochry (part of same group as House of Edgar) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s18/g14t2r3t2k16ly2t16g16r3g16t16ly2k16t2r3t2g14k6~x2/"><circle cx="146.2" cy="166.8" r="4" fill="#3465a4"><title>Norwich No.038</title></circle></a><a href="/setts/s22/g10dg4g10w2g10dg2g2dg20w4dg4w4dg4r4dg20g2dg2g10w2g10dg4g5t4~x2/"><circle cx="202.3" cy="154.9" r="4" fill="#3465a4"><title>Toshach</title></circle></a><a href="/setts/s22/k10g4w1g4k1g4r1g4k5db5k1db5~x4/"><circle cx="166.8" cy="171.8" r="4" fill="#3465a4"><title>Lloyd of Dolobran (Personal)</title></circle></a><a href="/setts/s16/b11k3b3k3b4k15g36w3g36k15b4k3b3k3b11r4~x2/"><circle cx="226.3" cy="141.0" r="4" fill="#3465a4"><title>Semple</title></circle></a><a href="/setts/s16/g17t3r3t3k19ly2g17r4g17ly2k19t3r3t3g17db8~x2/"><circle cx="187.0" cy="152.7" r="4" fill="#3465a4"><title>Wilson's No.033</title></circle></a><a href="/setts/s21/k4r2k10g3k10g30k8g3r4lo2r4lb2r4g3k8g30k10g3k10r2k4~x2/"><circle cx="255.9" cy="124.8" r="4" fill="#3465a4"><title>Pilette of Kinnear (Personal)</title></circle></a><a href="/setts/s17/k1g1r1g1lo1g1lo1g4db1k1db1k1db1k1db1g7r1~x4/"><circle cx="235.4" cy="163.2" r="4" fill="#3465a4"><title>Myron</title></circle></a><a href="/setts/s16/g17t3r3t3k19w2g17r4g17w2k19t3r3t3g17db8~x2/"><circle cx="180.2" cy="149.3" r="4" fill="#3465a4"><title>Wilson's No.033 #2</title></circle></a><a href="/setts/s20/g4r2g14w2db14r2db14g14db2g5db2g14db14r2db14w2g14r2g4ly3~x2/"><circle cx="205.7" cy="169.3" r="4" fill="#3465a4"><title>Hunter of Hunterston</title></circle></a><circle cx="205.8" cy="159.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s22/dg10dg4dg10w2dg10dg2dg2dg20w4dg4w4dg4r4dg20dg2dg2dg10w2dg10dg4dg5b4~x2/

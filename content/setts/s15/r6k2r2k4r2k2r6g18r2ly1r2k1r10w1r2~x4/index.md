@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/dt8r4ly18r4r19ly4r19dt6r4g1r4g1r4g1r4g1r4~x2/"><circle cx="278.9" cy="101.3" r="4" fill="#3465a4"><title>Confrerie de Vouvray</title></circle></a><a href="/setts/s15/r5k1r2k2r16t2r2k9r2g2r2g13r2k2r4~x2/"><circle cx="276.4" cy="123.2" r="4" fill="#3465a4"><title>Grant, Kilt</title></circle></a><a href="/setts/s17/r13w1lt2r2dg14r2w1lt2r2db4r2lt2w1r16dg1r2dg3~x2/"><circle cx="280.0" cy="87.6" r="4" fill="#3465a4"><title>MacDonald of Lochmaddy</title></circle></a><a href="/setts/s11/o6k2g2k4r3k2r3k4g2o24ly2~x2/"><circle cx="275.3" cy="118.2" r="4" fill="#3465a4"><title>Finnegan</title></circle></a><a href="/setts/s14/r1r2g1k1r5g11r1k2g1r11g4r1r2w1~x2/"><circle cx="249.5" cy="124.5" r="4" fill="#3465a4"><title>MacKinnon 2</title></circle></a><a href="/setts/s13/o19k2r1do3w1do1w1do1k6o3do1o3w1~x4/"><circle cx="307.4" cy="84.7" r="4" fill="#3465a4"><title>Leando (Coldingham) Hunting (Personal)</title></circle></a><a href="/setts/s14/r6dg4ly2dg17r2dg2r2dg8r26dg6r4k2r4w6~x2/"><circle cx="273.2" cy="127.1" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/setts/s17/g2r20k2r2g3r2k18r3w1g3r20k2r2k18r2g2ly1~x2/"><circle cx="291.6" cy="89.1" r="4" fill="#3465a4"><title>Unidentified Scarlett #8</title></circle></a><a href="/setts/s15/r3g1r2g1r18k4ly1k2w1db4g6r3k1r2w1~x2/"><circle cx="269.0" cy="69.2" r="4" fill="#3465a4"><title>Stewart of Appin 5</title></circle></a><a href="/setts/s18/o12k2ly2k2o2k2ly2k2o12k1w2db3w2k1o12k2ly2k2~x2/"><circle cx="269.5" cy="107.4" r="4" fill="#3465a4"><title>City of New Bern 300</title></circle></a><circle cx="269.9" cy="97.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/dt8r4ly18r4r19ly4r19dt6r4g1r4g1r4g1r4g1r4~x2/"><circle cx="278.5" cy="101.2" r="4" fill="#3465a4"><title>Confrerie de Vouvray</title></circle></a><a href="/setts/s15/r5k1r2k2r16t2r2k9r2g2r2g13r2k2r4~x2/"><circle cx="276.1" cy="123.1" r="4" fill="#3465a4"><title>Grant, Kilt</title></circle></a><a href="/setts/s17/r13w1lt2r2dg14r2w1lt2r2db4r2lt2w1r16dg1r2dg3~x2/"><circle cx="279.6" cy="87.6" r="4" fill="#3465a4"><title>MacDonald of Lochmaddy</title></circle></a><a href="/setts/s11/o6k2g2k4r3k2r3k4g2o24ly2~x2/"><circle cx="275.1" cy="118.1" r="4" fill="#3465a4"><title>Finnegan</title></circle></a><a href="/setts/s14/r1r2g1k1r5g11r1k2g1r11g4r1r2w1~x2/"><circle cx="249.2" cy="124.5" r="4" fill="#3465a4"><title>MacKinnon 2</title></circle></a><a href="/setts/s13/o19k2r1do3w1do1w1do1k6o3do1o3w1~x4/"><circle cx="307.1" cy="84.6" r="4" fill="#3465a4"><title>Leando (Coldingham) Hunting (Personal)</title></circle></a><a href="/setts/s14/r6dg4ly2dg17r2dg2r2dg8r26dg6r4k2r4w6~x2/"><circle cx="272.8" cy="127.1" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/setts/s17/g2r20k2r2g3r2k18r3w1g3r20k2r2k18r2g2ly1~x2/"><circle cx="291.3" cy="89.1" r="4" fill="#3465a4"><title>Unidentified Scarlett #8</title></circle></a><a href="/setts/s15/r3g1r2g1r18k4ly1k2w1db4g6r3k1r2w1~x2/"><circle cx="268.7" cy="69.2" r="4" fill="#3465a4"><title>Stewart of Appin 5</title></circle></a><a href="/setts/s18/o12k2ly2k2o2k2ly2k2o12k1w2db3w2k1o12k2ly2k2~x2/"><circle cx="269.2" cy="107.3" r="4" fill="#3465a4"><title>City of New Bern 300</title></circle></a><circle cx="269.6" cy="97.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/r6k2r2k4r2k2r6g18r2ly1r2k1r10w1r2~x4/

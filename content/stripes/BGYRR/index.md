@@ -20,7 +20,7 @@ BGYRR
 
 
 
-### B G LO R M <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#CA047B"></span><span class="seq">B G LO R M</span></span>
+### M R LO G B <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="seq">M R LO G B</span></span>
 
 | Tartans |
 |---------------|

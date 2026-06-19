@@ -2,7 +2,7 @@
 title: "Atikokan (District)"
 date: 2023-03-18
 ---
-**Bands:** [WGRGWBY](/stripes/wgrgwby/) · **Stripes:** [W G O Y LB T LO](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">W G O Y LB T LO</span></span>
+**Bands:** [YBWGRGW](/stripes/ybwgrgw/) · **Stripes:** [LO T LB Y O G W](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LO T LB Y O G W</span></span>
 
 
 This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
@@ -35,20 +35,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Atikokan](/setts/s7/ly6b16lb3r3o3g3w2~x4/) — ΔT 1.14
-1. [Deeside](/setts/s7/ly1g5g1y7p2y1w1~x4/) — ΔT 1.29
+1. [Deeside](/setts/s7/w1y1p2y7g1g5ly1~x4/) — ΔT 1.29
 1. [Curd (2013)](/setts/s8/r1g1ly1t9ly3w3lr9t1~x4/) — ΔT 1.38
-1. [Washington DC (Fashion)](/setts/s8/lb5b32o5g6o5r16o39lo5~x2/) — ΔT 1.40
+1. [Washington DC (Fashion)](/setts/s8/lo5o39r16o5g6o5b32lb5~x2/) — ΔT 1.40
 1. [MacLeroy & Troine](/setts/s10/k2lg3w2lg3n4lg19o6n23r3ly2~x2/) — ΔT 1.41
 1. [Montessori School of Denver (School)](/setts/s6/g25r9t3ly7w3n11~x3/) — ΔT 1.51
-1. [Australian Heavy Horse (Corporate)](/setts/s10/lr4g2lr18k2n5o16w2n2o2lr4~x2/) — ΔT 1.61
+1. [Australian Heavy Horse (Corporate)](/setts/s10/lr4o2n2w2o16n5k2lr18g2lr4~x2/) — ΔT 1.61
 1. [Manx National](/setts/s7/b5dg9o2ly2db6t14w3~x4/) — ΔT 1.61
 1. [Seaside (Fashion)](/setts/s7/w3lb2p4lb14n2t14lo2~x4/) — ΔT 1.62
 1. [State Seal of California (Fashion)](/setts/s10/lo29ly3b19lb3b3r3g17b3g4lb3~x2/) — ΔT 1.66
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly6b16lb3r3o3g3w2~x4/"><circle cx="140.1" cy="149.9" r="4" fill="#3465a4"><title>Atikokan</title></circle></a><a href="/setts/s7/ly1g5g1y7p2y1w1~x4/"><circle cx="190.2" cy="187.9" r="4" fill="#3465a4"><title>Deeside</title></circle></a><a href="/setts/s8/r1g1ly1t9ly3w3lr9t1~x4/"><circle cx="165.1" cy="162.4" r="4" fill="#3465a4"><title>Curd (2013)</title></circle></a><a href="/setts/s8/lb5b32o5g6o5r16o39lo5~x2/"><circle cx="216.1" cy="187.4" r="4" fill="#3465a4"><title>Washington DC (Fashion)</title></circle></a><a href="/setts/s10/k2lg3w2lg3n4lg19o6n23r3ly2~x2/"><circle cx="204.6" cy="134.1" r="4" fill="#3465a4"><title>MacLeroy &amp; Troine</title></circle></a><a href="/setts/s6/g25r9t3ly7w3n11~x3/"><circle cx="182.9" cy="200.2" r="4" fill="#3465a4"><title>Montessori School of Denver (School)</title></circle></a><a href="/setts/s10/lr4g2lr18k2n5o16w2n2o2lr4~x2/"><circle cx="191.7" cy="129.3" r="4" fill="#3465a4"><title>Australian Heavy Horse (Corporate)</title></circle></a><a href="/setts/s7/b5dg9o2ly2db6t14w3~x4/"><circle cx="80.3" cy="183.8" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/setts/s7/w3lb2p4lb14n2t14lo2~x4/"><circle cx="166.9" cy="181.0" r="4" fill="#3465a4"><title>Seaside (Fashion)</title></circle></a><a href="/setts/s10/lo29ly3b19lb3b3r3g17b3g4lb3~x2/"><circle cx="160.1" cy="153.5" r="4" fill="#3465a4"><title>State Seal of California (Fashion)</title></circle></a><circle cx="168.2" cy="167.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly6b16lb3r3o3g3w2~x4/"><circle cx="139.9" cy="150.0" r="4" fill="#3465a4"><title>Atikokan</title></circle></a><a href="/setts/s7/w1y1p2y7g1g5ly1~x4/"><circle cx="190.1" cy="188.0" r="4" fill="#3465a4"><title>Deeside</title></circle></a><a href="/setts/s8/r1g1ly1t9ly3w3lr9t1~x4/"><circle cx="164.8" cy="162.6" r="4" fill="#3465a4"><title>Curd (2013)</title></circle></a><a href="/setts/s8/lo5o39r16o5g6o5b32lb5~x2/"><circle cx="215.9" cy="187.6" r="4" fill="#3465a4"><title>Washington DC (Fashion)</title></circle></a><a href="/setts/s10/k2lg3w2lg3n4lg19o6n23r3ly2~x2/"><circle cx="204.4" cy="134.3" r="4" fill="#3465a4"><title>MacLeroy &amp; Troine</title></circle></a><a href="/setts/s6/g25r9t3ly7w3n11~x3/"><circle cx="182.8" cy="200.3" r="4" fill="#3465a4"><title>Montessori School of Denver (School)</title></circle></a><a href="/setts/s10/lr4o2n2w2o16n5k2lr18g2lr4~x2/"><circle cx="191.5" cy="129.4" r="4" fill="#3465a4"><title>Australian Heavy Horse (Corporate)</title></circle></a><a href="/setts/s7/b5dg9o2ly2db6t14w3~x4/"><circle cx="80.3" cy="183.9" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/setts/s7/w3lb2p4lb14n2t14lo2~x4/"><circle cx="166.7" cy="181.1" r="4" fill="#3465a4"><title>Seaside (Fashion)</title></circle></a><a href="/setts/s10/lo29ly3b19lb3b3r3g17b3g4lb3~x2/"><circle cx="159.9" cy="153.6" r="4" fill="#3465a4"><title>State Seal of California (Fashion)</title></circle></a><circle cx="168.0" cy="167.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/lo6t16lb3y3o3g3w2~x4/

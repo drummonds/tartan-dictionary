@@ -21,14 +21,14 @@ WBRBRW
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### LT DB R DB R LT <span class="pat"><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#64D1D9"></span><span class="seq">LT DB R DB R LT</span></span>
+### LT R DB R DB LT <span class="pat"><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="seq">LT R DB R DB LT</span></span>
 
 | Tartans |
 |---------------|
 | [Agua](/setts/s6/lt13r2db13r2db70lt3~x2/)|
 |![Agua example sett](/setts/s6/lt13r2db13r2db70lt3~x2/sett.png)|
 
-### W DP O N O W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DP O N O W</span></span>
+### W O N O DP W <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W O N O DP W</span></span>
 
 | Tartans |
 |---------------|

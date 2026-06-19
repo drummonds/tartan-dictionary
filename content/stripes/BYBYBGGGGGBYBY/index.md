@@ -18,10 +18,10 @@ BYBYBGGGGGBYBY
 
 
 
-### DB LY DB LY DB Y G Y G Y DB LY DB LY <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB LY DB LY DB Y G Y G Y DB LY DB LY</span></span>
+### LY DB LY DB Y G Y G Y DB LY DB LY DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB LY DB Y G Y G Y DB LY DB LY DB</span></span>
 
 | Tartans |
 |---------------|
-| [Katsushika](/setts/s14/db22ly2db1ly2db10y2g11y6g11y2db10ly2db1ly2~x2/)|
-|![Katsushika example sett](/setts/s14/db22ly2db1ly2db10y2g11y6g11y2db10ly2db1ly2~x2/sett.png)|
+| [Katsushika](/setts/s14/db22ly2db1ly2db10y2g11y6~x2/)|
+|![Katsushika example sett](/setts/s14/db22ly2db1ly2db10y2g11y6~x2/sett.png)|
 

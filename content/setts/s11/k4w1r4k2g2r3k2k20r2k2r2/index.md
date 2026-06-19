@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Valdres, Kvam and Vang
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,18 +921,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Highland Brewing Company (USA)](/setts/s8/k42t2r3k5r16k8lo2k3~x2/) — ΔT 0.84
 1. [Valdres, Kvam & Vang #3](/setts/s10/k4w1r4k2g2r3g2k20r2k2~x2/) — ΔT 1.40
 1. [Glen Ross (WCWM - 2)](/setts/s12/k48n4k6lr2k2r2k2n10o6k2o3r2~x2/) — ΔT 1.42
-1. [Bunnahabhain](/setts/s9/lo8k7r3k7r3k38w2k3lo6~x2/) — ΔT 1.42
+1. [Bunnahabhain](/setts/s9/lo8k7r3k7r3k38w2k3lo6~x2/) — ΔT 1.43
 1. [Grey Spencer Plaid](/setts/s11/k40y8o2y2w2y2k9w5y2w5k2~x2/) — ΔT 1.52
 1. [Einigkeit](/setts/s10/ly6k2ly2r10k4r4k4r2k35ly2~x2/) — ΔT 1.54
 1. [King Robert the Bruce Memorial (Com](/setts/s10/r8k79o4k4lb4k6o22k6r16k6/) — ΔT 1.59
 1. [Stewart Mourning](/setts/s11/k68y11k16y4k4y4k4y19k14w4k14/) — ΔT 1.62
 1. [State University of New York College at Buffalo](/setts/s8/k70r5k3lb4dp4lb4k3r12/) — ΔT 1.63
-1. [Knights Templar Dress (Corporate)](/setts/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/) — ΔT 1.69
+1. [Clergy](/setts/s17/lr1k5lr1y4lr1k26lr1k10y5k2y5k10lr1y4lr1k5lr1~x2/) — ΔT 1.69
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k42t2r3k5r16k8lo2k3~x2/"><circle cx="447.8" cy="148.7" r="4" fill="#3465a4"><title>Highland Brewing Company (USA)</title></circle></a><a href="/setts/s10/k4w1r4k2g2r3g2k20r2k2~x2/"><circle cx="415.4" cy="142.2" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #3</title></circle></a><a href="/setts/s12/k48n4k6lr2k2r2k2n10o6k2o3r2~x2/"><circle cx="401.3" cy="94.6" r="4" fill="#3465a4"><title>Glen Ross (WCWM - 2)</title></circle></a><a href="/setts/s9/lo8k7r3k7r3k38w2k3lo6~x2/"><circle cx="430.6" cy="144.7" r="4" fill="#3465a4"><title>Bunnahabhain</title></circle></a><a href="/setts/s11/k40y8o2y2w2y2k9w5y2w5k2~x2/"><circle cx="365.9" cy="115.7" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><a href="/setts/s10/ly6k2ly2r10k4r4k4r2k35ly2~x2/"><circle cx="376.6" cy="137.1" r="4" fill="#3465a4"><title>Einigkeit</title></circle></a><a href="/setts/s10/r8k79o4k4lb4k6o22k6r16k6/"><circle cx="400.4" cy="130.0" r="4" fill="#3465a4"><title>King Robert the Bruce Memorial (Com</title></circle></a><a href="/setts/s11/k68y11k16y4k4y4k4y19k14w4k14/"><circle cx="458.4" cy="167.6" r="4" fill="#3465a4"><title>Stewart Mourning</title></circle></a><a href="/setts/s8/k70r5k3lb4dp4lb4k3r12/"><circle cx="464.3" cy="120.6" r="4" fill="#3465a4"><title>State University of New York College at Buffalo</title></circle></a><a href="/setts/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="487.8" cy="124.8" r="4" fill="#3465a4"><title>Knights Templar Dress (Corporate)</title></circle></a><circle cx="411.9" cy="133.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k42t2r3k5r16k8lo2k3~x2/"><circle cx="447.7" cy="148.4" r="4" fill="#3465a4"><title>Highland Brewing Company (USA)</title></circle></a><a href="/setts/s10/k4w1r4k2g2r3g2k20r2k2~x2/"><circle cx="415.2" cy="142.0" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #3</title></circle></a><a href="/setts/s12/k48n4k6lr2k2r2k2n10o6k2o3r2~x2/"><circle cx="401.2" cy="94.5" r="4" fill="#3465a4"><title>Glen Ross (WCWM - 2)</title></circle></a><a href="/setts/s9/lo8k7r3k7r3k38w2k3lo6~x2/"><circle cx="430.4" cy="144.4" r="4" fill="#3465a4"><title>Bunnahabhain</title></circle></a><a href="/setts/s11/k40y8o2y2w2y2k9w5y2w5k2~x2/"><circle cx="365.8" cy="115.5" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><a href="/setts/s10/ly6k2ly2r10k4r4k4r2k35ly2~x2/"><circle cx="376.5" cy="136.8" r="4" fill="#3465a4"><title>Einigkeit</title></circle></a><a href="/setts/s10/r8k79o4k4lb4k6o22k6r16k6/"><circle cx="400.2" cy="129.8" r="4" fill="#3465a4"><title>King Robert the Bruce Memorial (Com</title></circle></a><a href="/setts/s11/k68y11k16y4k4y4k4y19k14w4k14/"><circle cx="458.4" cy="167.3" r="4" fill="#3465a4"><title>Stewart Mourning</title></circle></a><a href="/setts/s8/k70r5k3lb4dp4lb4k3r12/"><circle cx="464.0" cy="120.3" r="4" fill="#3465a4"><title>State University of New York College at Buffalo</title></circle></a><a href="/setts/s17/lr1k5lr1y4lr1k26lr1k10y5k2y5k10lr1y4lr1k5lr1~x2/"><circle cx="426.2" cy="127.5" r="4" fill="#3465a4"><title>Clergy</title></circle></a><circle cx="411.8" cy="133.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k4w1r4k2g2r3k2k20r2k2r2/

@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2624
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacLellan/McLellan Hunting
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -44,9 +50,9 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [MacLellan, McLellan hunting](/setts/s14/ly2g7r2db5k1db5w1db5k1db5r2k5db7r2~x2/) — ΔT 0.95
+1. [MacLellan, McLellan hunting](/setts/s14/r2db7k5r2db5k1db5w1db5k1db5r2g7ly2~x2/) — ΔT 0.95
 1. [MacLellan/McLellan (Personal)](/setts/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1dg7w1ly2~x4/) — ΔT 1.17
-1. [Grainger](/setts/s12/db36r4db6g18db15k18w4k18db15g18db6r4~x2/) — ΔT 1.24
+1. [Grainger](/setts/s12/db36r4db6g18db15k18w4~x2/) — ΔT 1.24
 1. [Encyclopaedia Britannica (Corporate)](/setts/s14/g12k5db18k5w5k5db18k3db6k3db6k5g12r5~x2/) — ΔT 1.27
 1. [Edinburgh Bus Tours](/setts/s12/lb6db20lg5db5lg5db20r14db4k18db30ly4db4/) — ΔT 1.31
 1. [Encyclopaedia Britannica](/setts/s14/db18k3db6k3db6k5g12r4g12k5db18k4w5k4~x2/) — ΔT 1.31
@@ -57,8 +63,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/ly2g7r2db5k1db5w1db5k1db5r2k5db7r2~x2/"><circle cx="166.4" cy="175.2" r="4" fill="#3465a4"><title>MacLellan, McLellan hunting</title></circle></a><a href="/setts/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1dg7w1ly2~x4/"><circle cx="129.6" cy="161.3" r="4" fill="#3465a4"><title>MacLellan/McLellan (Personal)</title></circle></a><a href="/setts/s12/db36r4db6g18db15k18w4k18db15g18db6r4~x2/"><circle cx="206.5" cy="199.1" r="4" fill="#3465a4"><title>Grainger</title></circle></a><a href="/setts/s14/g12k5db18k5w5k5db18k3db6k3db6k5g12r5~x2/"><circle cx="150.1" cy="198.7" r="4" fill="#3465a4"><title>Encyclopaedia Britannica (Corporate)</title></circle></a><a href="/setts/s12/lb6db20lg5db5lg5db20r14db4k18db30ly4db4/"><circle cx="258.0" cy="177.7" r="4" fill="#3465a4"><title>Edinburgh Bus Tours</title></circle></a><a href="/setts/s14/db18k3db6k3db6k5g12r4g12k5db18k4w5k4~x2/"><circle cx="161.5" cy="198.1" r="4" fill="#3465a4"><title>Encyclopaedia Britannica</title></circle></a><a href="/setts/s12/w6dt20b5dt5b5dt20r14dt4k18dt30lo4dt4/"><circle cx="254.9" cy="178.8" r="4" fill="#3465a4"><title>Edinburgh Bus Tours</title></circle></a><a href="/setts/s16/t4db6g1w1r1db6t4db2lo1db1lo1db1lo1db2lo3db3~x4/"><circle cx="182.9" cy="161.6" r="4" fill="#3465a4"><title>de Baseggio (Golden Bones)</title></circle></a><a href="/setts/s16/k8o6k12b5y14k8r14k25r14k8y14b5k12o6k8b2~x2/"><circle cx="172.2" cy="160.1" r="4" fill="#3465a4"><title>Johnstons of Elgin Bicentennial</title></circle></a><a href="/setts/s16/b4dt6g1w1r1dt6b4dt2lo1dt1lo1dt1lo1dt2lo3dt3~x4/"><circle cx="208.9" cy="178.3" r="4" fill="#3465a4"><title>De Baseggio (Personal)</title></circle></a><circle cx="182.2" cy="191.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r2db7k5r2db5k1db5w1db5k1db5r2g7ly2~x2/"><circle cx="166.4" cy="175.2" r="4" fill="#3465a4"><title>MacLellan, McLellan hunting</title></circle></a><a href="/setts/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1dg7w1ly2~x4/"><circle cx="129.7" cy="161.3" r="4" fill="#3465a4"><title>MacLellan/McLellan (Personal)</title></circle></a><a href="/setts/s12/db36r4db6g18db15k18w4~x2/"><circle cx="206.6" cy="199.1" r="4" fill="#3465a4"><title>Grainger</title></circle></a><a href="/setts/s14/g12k5db18k5w5k5db18k3db6k3db6k5g12r5~x2/"><circle cx="150.2" cy="198.7" r="4" fill="#3465a4"><title>Encyclopaedia Britannica (Corporate)</title></circle></a><a href="/setts/s12/lb6db20lg5db5lg5db20r14db4k18db30ly4db4/"><circle cx="258.1" cy="177.6" r="4" fill="#3465a4"><title>Edinburgh Bus Tours</title></circle></a><a href="/setts/s14/db18k3db6k3db6k5g12r4g12k5db18k4w5k4~x2/"><circle cx="161.6" cy="198.1" r="4" fill="#3465a4"><title>Encyclopaedia Britannica</title></circle></a><a href="/setts/s12/w6dt20b5dt5b5dt20r14dt4k18dt30lo4dt4/"><circle cx="255.0" cy="178.8" r="4" fill="#3465a4"><title>Edinburgh Bus Tours</title></circle></a><a href="/setts/s16/t4db6g1w1r1db6t4db2lo1db1lo1db1lo1db2lo3db3~x4/"><circle cx="182.9" cy="161.6" r="4" fill="#3465a4"><title>de Baseggio (Golden Bones)</title></circle></a><a href="/setts/s16/k8o6k12b5y14k8r14k25r14k8y14b5k12o6k8b2~x2/"><circle cx="172.3" cy="160.2" r="4" fill="#3465a4"><title>Johnstons of Elgin Bicentennial</title></circle></a><a href="/setts/s16/b4dt6g1w1r1dt6b4dt2lo1dt1lo1dt1lo1dt2lo3dt3~x4/"><circle cx="208.8" cy="178.3" r="4" fill="#3465a4"><title>De Baseggio (Personal)</title></circle></a><circle cx="182.3" cy="191.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/k2db7k5r2db5k2db5w1db5k1db5r2dg7ly2~x4/

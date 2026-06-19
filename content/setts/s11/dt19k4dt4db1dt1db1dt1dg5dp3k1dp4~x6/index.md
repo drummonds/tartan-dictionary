@@ -2,7 +2,7 @@
 title: "Spirit of Scotland"
 date: 2023-03-18
 ---
-**Bands:** [BKBBBBBGBKB](/stripes/bkbbbbbgbkb/) · **Stripes:** [DT K DT DB DT DB DT DG DP K DP](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DT K DT DB DT DB DT DG DP K DP</span></span>
+**Bands:** [BKBGBBBBBKB](/stripes/bkbgbbbbbkb/) · **Stripes:** [DP K DP DG DT DB DT DB DT K DT](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">DP K DP DG DT DB DT DB DT K DT</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -904,20 +907,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Scottish Thistle](/setts/s10/dt2k3dt33k11k3dt3dp15dt4o1dt2~x2/) — ΔT 1.25
-1. [Scottish Heritage](/setts/s8/k2db6k1db7dg13k11db42r2~x2/) — ΔT 1.44
+1. [Scottish Heritage](/setts/s8/k2db6k1db7dg13k11db42r2~x2/) — ΔT 1.45
 1. [Lochcarron Mill (Corporate)](/setts/s15/k2do6k2do1k2do1k2do4k4k2do4k19r2k2r2~x4/) — ΔT 1.54
 1. [Paxton Tartan Tartan Number: 6691. Earliest known date: 2004 Thread samples supplied See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/dt30dp4dt5dg3dt2dg2dt2dg10dp7k2dp9~x2/) — ΔT 1.56
-1. [Finnie (Personal)](/setts/s8/db4y4db37k20y1dp5y1k4~x2/) — ΔT 1.57
-1. [MacInnes Homecoming](/setts/s12/o3k19do2k2do2k2do18k3db3k3do23r3~x2/) — ΔT 1.60
-1. [Kingsbarns Golf Links](/setts/s10/dt8lo3k4g4k48dt48g4dt4r3k8/) — ΔT 1.63
+1. [Finnie (Personal)](/setts/s8/k4y1dp5y1k20db37y4db4~x2/) — ΔT 1.57
+1. [MacInnes Homecoming](/setts/s12/r3do23k3db3k3do18k2do2k2do2k19o3~x2/) — ΔT 1.60
+1. [Kingsbarns Golf Links](/setts/s10/k8r3dt4g4dt48k48g4k4lo3dt8/) — ΔT 1.63
 1. [Passion of Scotland (Fashion)](/setts/s7/dt6o4dt2db25k30g2k2~x2/) — ΔT 1.70
-1. [Tiger of Sweden](/setts/s14/db3dg1dt1db2n16db2dt4dg1dt1db16n2db2dt1dg3~x2/) — ΔT 1.73
+1. [Tiger of Sweden](/setts/s14/dg3dt1db2n2db16dt1dg1dt4db2n16db2dt1dg1db3~x2/) — ΔT 1.73
 1. [Java St Andrew Society hunting](/setts/s7/db50dg26k9dg4w2r2dg10~x2/) — ΔT 1.76
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dt2k3dt33k11k3dt3dp15dt4o1dt2~x2/"><circle cx="458.2" cy="186.0" r="4" fill="#3465a4"><title>Scottish Thistle</title></circle></a><a href="/setts/s8/k2db6k1db7dg13k11db42r2~x2/"><circle cx="461.5" cy="178.7" r="4" fill="#3465a4"><title>Scottish Heritage</title></circle></a><a href="/setts/s15/k2do6k2do1k2do1k2do4k4k2do4k19r2k2r2~x4/"><circle cx="434.3" cy="191.6" r="4" fill="#3465a4"><title>Lochcarron Mill (Corporate)</title></circle></a><a href="/setts/s11/dt30dp4dt5dg3dt2dg2dt2dg10dp7k2dp9~x2/"><circle cx="385.0" cy="205.9" r="4" fill="#3465a4"><title>Paxton Tartan Tartan Number: 6691. Earliest known date: 2004 Thread samples supplied See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/db4y4db37k20y1dp5y1k4~x2/"><circle cx="466.5" cy="197.4" r="4" fill="#3465a4"><title>Finnie (Personal)</title></circle></a><a href="/setts/s12/o3k19do2k2do2k2do18k3db3k3do23r3~x2/"><circle cx="386.0" cy="201.2" r="4" fill="#3465a4"><title>MacInnes Homecoming</title></circle></a><a href="/setts/s10/dt8lo3k4g4k48dt48g4dt4r3k8/"><circle cx="362.4" cy="184.5" r="4" fill="#3465a4"><title>Kingsbarns Golf Links</title></circle></a><a href="/setts/s7/dt6o4dt2db25k30g2k2~x2/"><circle cx="334.7" cy="210.6" r="4" fill="#3465a4"><title>Passion of Scotland (Fashion)</title></circle></a><a href="/setts/s14/db3dg1dt1db2n16db2dt4dg1dt1db16n2db2dt1dg3~x2/"><circle cx="388.0" cy="203.9" r="4" fill="#3465a4"><title>Tiger of Sweden</title></circle></a><a href="/setts/s7/db50dg26k9dg4w2r2dg10~x2/"><circle cx="381.6" cy="196.0" r="4" fill="#3465a4"><title>Java St Andrew Society hunting</title></circle></a><circle cx="418.7" cy="191.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dt2k3dt33k11k3dt3dp15dt4o1dt2~x2/"><circle cx="458.2" cy="186.2" r="4" fill="#3465a4"><title>Scottish Thistle</title></circle></a><a href="/setts/s8/k2db6k1db7dg13k11db42r2~x2/"><circle cx="461.5" cy="178.8" r="4" fill="#3465a4"><title>Scottish Heritage</title></circle></a><a href="/setts/s15/k2do6k2do1k2do1k2do4k4k2do4k19r2k2r2~x4/"><circle cx="434.2" cy="191.7" r="4" fill="#3465a4"><title>Lochcarron Mill (Corporate)</title></circle></a><a href="/setts/s11/dt30dp4dt5dg3dt2dg2dt2dg10dp7k2dp9~x2/"><circle cx="385.0" cy="206.1" r="4" fill="#3465a4"><title>Paxton Tartan Tartan Number: 6691. Earliest known date: 2004 Thread samples supplied See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/k4y1dp5y1k20db37y4db4~x2/"><circle cx="466.4" cy="197.5" r="4" fill="#3465a4"><title>Finnie (Personal)</title></circle></a><a href="/setts/s12/r3do23k3db3k3do18k2do2k2do2k19o3~x2/"><circle cx="386.0" cy="201.4" r="4" fill="#3465a4"><title>MacInnes Homecoming</title></circle></a><a href="/setts/s10/k8r3dt4g4dt48k48g4k4lo3dt8/"><circle cx="362.4" cy="184.7" r="4" fill="#3465a4"><title>Kingsbarns Golf Links</title></circle></a><a href="/setts/s7/dt6o4dt2db25k30g2k2~x2/"><circle cx="334.9" cy="210.7" r="4" fill="#3465a4"><title>Passion of Scotland (Fashion)</title></circle></a><a href="/setts/s14/dg3dt1db2n2db16dt1dg1dt4db2n16db2dt1dg1db3~x2/"><circle cx="387.9" cy="204.2" r="4" fill="#3465a4"><title>Tiger of Sweden</title></circle></a><a href="/setts/s7/db50dg26k9dg4w2r2dg10~x2/"><circle cx="381.6" cy="196.2" r="4" fill="#3465a4"><title>Java St Andrew Society hunting</title></circle></a><circle cx="418.7" cy="191.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/dt19k4dt4db1dt1db1dt1dg5dp3k1dp4~x6/

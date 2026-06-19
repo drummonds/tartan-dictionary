@@ -20,7 +20,7 @@ BGGG
 
 
 
-### N Y Y DG <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="seq">N Y Y DG</span></span>
+### DG Y Y N <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#636363"></span><span class="seq">DG Y Y N</span></span>
 
 | Tartans |
 |---------------|

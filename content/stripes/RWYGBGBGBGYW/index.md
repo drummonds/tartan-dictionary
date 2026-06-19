@@ -22,6 +22,6 @@ RWYGBGBGBGYW
 
 | Tartans |
 |---------------|
-| [Walter (Personal)](/setts/s12/r24w3ly4dg18dp18y3t4y3dp18dg18ly4w3~x2/)|
-|![Walter (Personal) example sett](/setts/s12/r24w3ly4dg18dp18y3t4y3dp18dg18ly4w3~x2/sett.png)|
+| [Walter (Personal)](/setts/s12/r24w3ly4dg18dp18y3t4~x2/)|
+|![Walter (Personal) example sett](/setts/s12/r24w3ly4dg18dp18y3t4~x2/sett.png)|
 

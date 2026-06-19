@@ -22,6 +22,6 @@ RYRKRGRGRKRY
 
 | Tartans |
 |---------------|
-| [Kirk](/setts/s12/r4lo3r34k7r4g21r4g21r4k7r34lo3~x2/)|
-|![Kirk example sett](/setts/s12/r4lo3r34k7r4g21r4g21r4k7r34lo3~x2/sett.png)|
+| [Kirk](/setts/s12/r4g21r4k7r34lo3r4~x2/)|
+|![Kirk example sett](/setts/s12/r4g21r4k7r34lo3r4~x2/sett.png)|
 

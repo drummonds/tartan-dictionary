@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified #22
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,7 +919,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Anderson 6](/setts/s21/r4g7k1r2k1g7p5r2k5ly2k2ly2k3w3p3db16k1r2k1db6r4~x2/) — ΔT 1.08
 1. [Anderson of Kinneddar Hunting](/setts/s20/r4t5r2t7r4db5r3k5ly2k3ly2k4w4k4g18r1k2r1g4r3~x2/) — ΔT 1.15
 1. [Mozambique](/setts/s13/w6db18k1dg8w2k8w2ly8k1r8lo2k1lo4~x2/) — ΔT 1.16
-1. [Anderson 11](/setts/s22/r3b6k1r2k1b14k3w3k3ly2k2ly2k2r2db5r2g6k1r2k1g6r3~x2/) — ΔT 1.20
+1. [Anderson 11](/setts/s22/r3g6k1r2k1g6r2db5r2k2ly2k2ly2k3w3k3b14k1r2k1b6r3~x2/) — ΔT 1.20
 1. [Wilson's, No 152](/setts/s16/g3k2r12t9k2t9k16ly3k3w5k3g25r13k4r5w3~x2/) — ΔT 1.27
 1. [Dunkeld](/setts/s15/o4o3w24o4o4k12m16k2w4k2m16k12dr16k2o4/) — ΔT 1.30
 1. [Anderson of Ardbrake](/setts/s19/k13r2g9db5t3r2k4ly2k2ly2k3w4k3db2r22t1k3g4t2~x2/) — ΔT 1.36
@@ -918,8 +927,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db14r15dp4k18dp4dg20ly4w2k4w2ly4r8k6db1w6~x2/"><circle cx="44.7" cy="81.8" r="4" fill="#3465a4"><title>Unidentified #22</title></circle></a><a href="/setts/s20/r8t10r4t14r8db10r5k9ly4k4ly4k7w8k8g36r2k4r2g8r6/"><circle cx="43.7" cy="67.9" r="4" fill="#3465a4"><title>Anderson of Kinnedar, hunting</title></circle></a><a href="/setts/s21/r4g7k1r2k1g7p5r2k5ly2k2ly2k3w3p3db16k1r2k1db6r4~x2/"><circle cx="46.8" cy="72.4" r="4" fill="#3465a4"><title>Anderson 6</title></circle></a><a href="/setts/s20/r4t5r2t7r4db5r3k5ly2k3ly2k4w4k4g18r1k2r1g4r3~x2/"><circle cx="55.3" cy="77.3" r="4" fill="#3465a4"><title>Anderson of Kinneddar Hunting</title></circle></a><a href="/setts/s13/w6db18k1dg8w2k8w2ly8k1r8lo2k1lo4~x2/"><circle cx="35.1" cy="78.7" r="4" fill="#3465a4"><title>Mozambique</title></circle></a><a href="/setts/s22/r3b6k1r2k1b14k3w3k3ly2k2ly2k2r2db5r2g6k1r2k1g6r3~x2/"><circle cx="29.9" cy="70.3" r="4" fill="#3465a4"><title>Anderson 11</title></circle></a><a href="/setts/s16/g3k2r12t9k2t9k16ly3k3w5k3g25r13k4r5w3~x2/"><circle cx="52.4" cy="105.9" r="4" fill="#3465a4"><title>Wilson's, No 152</title></circle></a><a href="/setts/s15/o4o3w24o4o4k12m16k2w4k2m16k12dr16k2o4/"><circle cx="45.5" cy="108.1" r="4" fill="#3465a4"><title>Dunkeld</title></circle></a><a href="/setts/s19/k13r2g9db5t3r2k4ly2k2ly2k3w4k3db2r22t1k3g4t2~x2/"><circle cx="109.7" cy="53.3" r="4" fill="#3465a4"><title>Anderson of Ardbrake</title></circle></a><a href="/setts/s15/lo2dy2w12dy2lo2k6r8k1w2k1r8k6do8k1lo2~x2/"><circle cx="51.4" cy="110.9" r="4" fill="#3465a4"><title>Dunkeld</title></circle></a><circle cx="31.1" cy="78.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db14r15dp4k18dp4dg20ly4w2k4w2ly4r8k6db1w6~x2/"><circle cx="44.7" cy="82.1" r="4" fill="#3465a4"><title>Unidentified #22</title></circle></a><a href="/setts/s20/r8t10r4t14r8db10r5k9ly4k4ly4k7w8k8g36r2k4r2g8r6/"><circle cx="43.7" cy="68.2" r="4" fill="#3465a4"><title>Anderson of Kinnedar, hunting</title></circle></a><a href="/setts/s21/r4g7k1r2k1g7p5r2k5ly2k2ly2k3w3p3db16k1r2k1db6r4~x2/"><circle cx="46.8" cy="72.6" r="4" fill="#3465a4"><title>Anderson 6</title></circle></a><a href="/setts/s20/r4t5r2t7r4db5r3k5ly2k3ly2k4w4k4g18r1k2r1g4r3~x2/"><circle cx="55.2" cy="77.5" r="4" fill="#3465a4"><title>Anderson of Kinneddar Hunting</title></circle></a><a href="/setts/s13/w6db18k1dg8w2k8w2ly8k1r8lo2k1lo4~x2/"><circle cx="35.0" cy="78.9" r="4" fill="#3465a4"><title>Mozambique</title></circle></a><a href="/setts/s22/r3g6k1r2k1g6r2db5r2k2ly2k2ly2k3w3k3b14k1r2k1b6r3~x2/"><circle cx="29.9" cy="70.5" r="4" fill="#3465a4"><title>Anderson 11</title></circle></a><a href="/setts/s16/g3k2r12t9k2t9k16ly3k3w5k3g25r13k4r5w3~x2/"><circle cx="52.4" cy="106.1" r="4" fill="#3465a4"><title>Wilson's, No 152</title></circle></a><a href="/setts/s15/o4o3w24o4o4k12m16k2w4k2m16k12dr16k2o4/"><circle cx="45.5" cy="108.2" r="4" fill="#3465a4"><title>Dunkeld</title></circle></a><a href="/setts/s19/k13r2g9db5t3r2k4ly2k2ly2k3w4k3db2r22t1k3g4t2~x2/"><circle cx="109.6" cy="53.5" r="4" fill="#3465a4"><title>Anderson of Ardbrake</title></circle></a><a href="/setts/s15/lo2dy2w12dy2lo2k6r8k1w2k1r8k6do8k1lo2~x2/"><circle cx="51.3" cy="111.1" r="4" fill="#3465a4"><title>Dunkeld</title></circle></a><circle cx="31.2" cy="78.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/db14r15dp4k18dp4g20ly4w2k4w2ly4r8k6db1w6~x2/

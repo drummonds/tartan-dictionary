@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [13 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/3832/
 
 ## Thread count
-LN/4 P8 Y4 P12 G18 LN4 G8 Y4 G14 LN6 LT8 B44 R/4
+R/4 B44 LT8 LN6 G14 Y4 G8 LN4 G18 P12 Y4 P8 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -35,16 +35,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Cossar (Personal)](/setts/s11/w4t5lo3t22ly4k3g16lo7k2lo7ly2~x2/) — ΔT 1.25
 1. [Isle of Man](/setts/s24/t22lo4w3g7ly2g4w2g9m6ly2m4w2m4ly2m6g9w2g4ly2g7w3lo4t22r2~x2/) — ΔT 1.26
 1. [Paisley](/setts/s12/g7r2g3r5g17ly2k15ly2t22g3w2t7~x2/) — ΔT 1.41
-1. [McCulloch (Personal)](/setts/s15/t6db1t1db1t3lr1w1r1w1lr1y3k1y1k1y6~x4/) — ΔT 1.42
+1. [McCulloch (Personal)](/setts/s15/y6k1y1k1y3lr1w1r1w1lr1t3db1t1db1t6~x4/) — ΔT 1.42
 1. [Glasgow Tattoo](/setts/s12/dg40t4lb39t4y4ly4y4r4y34dp4y4w4/) — ΔT 1.46
 1. [Bouguet, Adrian Hunting (Personal)](/setts/s12/lb15lo6g15lo4lb3g3lb3lo4dg15lo2w2r1~x2/) — ΔT 1.48
 1. [Bouguet, Adrian Hunting (Personal)](/setts/s12/lb15lr6dg15lr4lb3dg3lb3lr4dg15lr2w3r1~x2/) — ΔT 1.49
-1. [Saint Joseph de Sorel](/setts/s13/r12g2o5g2y9ly2t8w1t3w1t3w1t8~x2/) — ΔT 1.52
+1. [Saint Joseph de Sorel](/setts/s13/r12g2o5g2y9ly2t8w1t3w1t3w1t8~x2/) — ΔT 1.51
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/t8r12g2lo5g2lb9ly3t8w1t3w1t3w1~x4/"><circle cx="110.3" cy="118.4" r="4" fill="#3465a4"><title>Saint Joseph de Sorel #2</title></circle></a><a href="/setts/s10/lo29ly3b19lb3b3r3g17b3g4lb3~x2/"><circle cx="160.1" cy="153.5" r="4" fill="#3465a4"><title>State Seal of California (Fashion)</title></circle></a><a href="/setts/s11/w4t5lo3t22ly4k3g16lo7k2lo7ly2~x2/"><circle cx="123.2" cy="136.4" r="4" fill="#3465a4"><title>Cossar (Personal)</title></circle></a><a href="/setts/s24/t22lo4w3g7ly2g4w2g9m6ly2m4w2m4ly2m6g9w2g4ly2g7w3lo4t22r2~x2/"><circle cx="103.1" cy="93.2" r="4" fill="#3465a4"><title>Isle of Man</title></circle></a><a href="/setts/s12/g7r2g3r5g17ly2k15ly2t22g3w2t7~x2/"><circle cx="145.1" cy="146.3" r="4" fill="#3465a4"><title>Paisley</title></circle></a><a href="/setts/s15/t6db1t1db1t3lr1w1r1w1lr1y3k1y1k1y6~x4/"><circle cx="93.1" cy="140.9" r="4" fill="#3465a4"><title>McCulloch (Personal)</title></circle></a><a href="/setts/s12/dg40t4lb39t4y4ly4y4r4y34dp4y4w4/"><circle cx="80.8" cy="83.4" r="4" fill="#3465a4"><title>Glasgow Tattoo</title></circle></a><a href="/setts/s12/lb15lo6g15lo4lb3g3lb3lo4dg15lo2w2r1~x2/"><circle cx="51.3" cy="99.6" r="4" fill="#3465a4"><title>Bouguet, Adrian Hunting (Personal)</title></circle></a><a href="/setts/s12/lb15lr6dg15lr4lb3dg3lb3lr4dg15lr2w3r1~x2/"><circle cx="41.6" cy="100.1" r="4" fill="#3465a4"><title>Bouguet, Adrian Hunting (Personal)</title></circle></a><a href="/setts/s13/r12g2o5g2y9ly2t8w1t3w1t3w1t8~x2/"><circle cx="150.6" cy="134.6" r="4" fill="#3465a4"><title>Saint Joseph de Sorel</title></circle></a><circle cx="108.2" cy="114.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/t8r12g2lo5g2lb9ly3t8w1t3w1t3w1~x4/"><circle cx="110.1" cy="118.6" r="4" fill="#3465a4"><title>Saint Joseph de Sorel #2</title></circle></a><a href="/setts/s10/lo29ly3b19lb3b3r3g17b3g4lb3~x2/"><circle cx="159.9" cy="153.6" r="4" fill="#3465a4"><title>State Seal of California (Fashion)</title></circle></a><a href="/setts/s11/w4t5lo3t22ly4k3g16lo7k2lo7ly2~x2/"><circle cx="123.0" cy="136.5" r="4" fill="#3465a4"><title>Cossar (Personal)</title></circle></a><a href="/setts/s24/t22lo4w3g7ly2g4w2g9m6ly2m4w2m4ly2m6g9w2g4ly2g7w3lo4t22r2~x2/"><circle cx="102.9" cy="93.5" r="4" fill="#3465a4"><title>Isle of Man</title></circle></a><a href="/setts/s12/g7r2g3r5g17ly2k15ly2t22g3w2t7~x2/"><circle cx="145.1" cy="146.4" r="4" fill="#3465a4"><title>Paisley</title></circle></a><a href="/setts/s15/y6k1y1k1y3lr1w1r1w1lr1t3db1t1db1t6~x4/"><circle cx="93.1" cy="141.1" r="4" fill="#3465a4"><title>McCulloch (Personal)</title></circle></a><a href="/setts/s12/dg40t4lb39t4y4ly4y4r4y34dp4y4w4/"><circle cx="80.7" cy="83.6" r="4" fill="#3465a4"><title>Glasgow Tattoo</title></circle></a><a href="/setts/s12/lb15lo6g15lo4lb3g3lb3lo4dg15lo2w2r1~x2/"><circle cx="51.2" cy="99.8" r="4" fill="#3465a4"><title>Bouguet, Adrian Hunting (Personal)</title></circle></a><a href="/setts/s12/lb15lr6dg15lr4lb3dg3lb3lr4dg15lr2w3r1~x2/"><circle cx="41.5" cy="100.3" r="4" fill="#3465a4"><title>Bouguet, Adrian Hunting (Personal)</title></circle></a><a href="/setts/s13/r12g2o5g2y9ly2t8w1t3w1t3w1t8~x2/"><circle cx="150.4" cy="134.8" r="4" fill="#3465a4"><title>Saint Joseph de Sorel</title></circle></a><circle cx="108.1" cy="114.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r2t22lo4w3g7ly2g4w2g9m6ly2m4w2~x2/

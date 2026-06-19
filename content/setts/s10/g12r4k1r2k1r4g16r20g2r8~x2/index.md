@@ -2,12 +2,18 @@
 title: "Livingstone #2"
 date: 2023-03-18
 ---
-**Bands:** [GRKRKRGRGR](/stripes/grkrkrgrgr/) · **Stripes:** [G R K R K R G R G R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">G R K R K R G R G R</span></span>
+**Bands:** [RGRGRKRKRG](/stripes/rgrgrkrkrg/) · **Stripes:** [R G R G R K R K R G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G R K R K R G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2135
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Livingstone #2
 
 ## Attestations
 
@@ -320,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -913,18 +922,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Livingston](/setts/s10/dg12r3k1r3k1r4dg16r20dg2r8~x2/) — ΔT 0.58
 1. [Livingston](/setts/s10/dg12r4k1r2k1r4dg16r20dg2r8~x2/) — ΔT 0.86
 1. [Livingston](/setts/s9/dg20k2r3k2r6dg20r29dg3r10~x2/) — ΔT 0.87
-1. [Spice Apple](/setts/s7/g4lo1r22g12lo4g4r4~x4/) — ΔT 1.00
+1. [Spice Apple](/setts/s7/r4g4lo4g12r22lo1g4~x4/) — ΔT 1.00
 1. [Livingston](/setts/s9/g20k2r3k2r6g20r29g3r10~x2/) — ΔT 1.05
-1. [Unidentified Cant #09](/setts/s8/r44db2g26r3db2r3g26db2/) — ΔT 1.06
+1. [Unidentified Cant #09](/setts/s8/r44db2g26r3db2/) — ΔT 1.06
 1. [Burnett of Leys Family Tartan Tartan Number: 2355. Earliest known date: Unknown In Scottish Tartan Society Files but source unknown. At present woven by Lochcarron. The entry in the Lyon Court Books does not define the pattern. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r2g6ly1g6r3g2r16t1~x4/) — ΔT 1.11
-1. [MacPhie/Macfie](/setts/s9/ly1r12g2r1g16r1g2r12w1~x4/) — ΔT 1.11
+1. [MacPhie/Macfie](/setts/s9/w1r12g2r1g16r1g2r12ly1~x4/) — ΔT 1.11
 1. [MacDonald 1](/setts/s9/g2r2db1r24db6r3g12r4db1~x2/) — ΔT 1.12
 1. [MacAlister of Glenbarr](/setts/s14/g20r3g6r6g6r8dp2r2g20r2dp2r46dp3r8~x2/) — ΔT 1.13
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dg12r3k1r3k1r4dg16r20dg2r8~x2/"><circle cx="379.0" cy="172.4" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/setts/s10/dg12r4k1r2k1r4dg16r20dg2r8~x2/"><circle cx="403.0" cy="187.7" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/setts/s9/dg20k2r3k2r6dg20r29dg3r10~x2/"><circle cx="345.1" cy="186.8" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/setts/s7/g4lo1r22g12lo4g4r4~x4/"><circle cx="369.1" cy="184.4" r="4" fill="#3465a4"><title>Spice Apple</title></circle></a><a href="/setts/s9/g20k2r3k2r6g20r29g3r10~x2/"><circle cx="336.1" cy="186.3" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/setts/s8/r44db2g26r3db2r3g26db2/"><circle cx="376.9" cy="170.4" r="4" fill="#3465a4"><title>Unidentified Cant #09</title></circle></a><a href="/setts/s8/r2g6ly1g6r3g2r16t1~x4/"><circle cx="378.3" cy="168.7" r="4" fill="#3465a4"><title>Burnett of Leys Family Tartan Tartan Number: 2355. Earliest known date: Unknown In Scottish Tartan Society Files but source unknown. At present woven by Lochcarron. The entry in the Lyon Court Books does not define the pattern. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/ly1r12g2r1g16r1g2r12w1~x4/"><circle cx="361.9" cy="155.2" r="4" fill="#3465a4"><title>MacPhie/Macfie</title></circle></a><a href="/setts/s9/g2r2db1r24db6r3g12r4db1~x2/"><circle cx="420.9" cy="154.4" r="4" fill="#3465a4"><title>MacDonald 1</title></circle></a><a href="/setts/s14/g20r3g6r6g6r8dp2r2g20r2dp2r46dp3r8~x2/"><circle cx="409.4" cy="136.6" r="4" fill="#3465a4"><title>MacAlister of Glenbarr</title></circle></a><circle cx="388.3" cy="176.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dg12r3k1r3k1r4dg16r20dg2r8~x2/"><circle cx="378.6" cy="172.2" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/setts/s10/dg12r4k1r2k1r4dg16r20dg2r8~x2/"><circle cx="402.7" cy="187.6" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/setts/s9/dg20k2r3k2r6dg20r29dg3r10~x2/"><circle cx="344.8" cy="186.6" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/setts/s7/r4g4lo4g12r22lo1g4~x4/"><circle cx="368.7" cy="184.3" r="4" fill="#3465a4"><title>Spice Apple</title></circle></a><a href="/setts/s9/g20k2r3k2r6g20r29g3r10~x2/"><circle cx="335.7" cy="186.2" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/setts/s8/r44db2g26r3db2/"><circle cx="376.6" cy="170.3" r="4" fill="#3465a4"><title>Unidentified Cant #09</title></circle></a><a href="/setts/s8/r2g6ly1g6r3g2r16t1~x4/"><circle cx="377.8" cy="168.5" r="4" fill="#3465a4"><title>Burnett of Leys Family Tartan Tartan Number: 2355. Earliest known date: Unknown In Scottish Tartan Society Files but source unknown. At present woven by Lochcarron. The entry in the Lyon Court Books does not define the pattern. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/w1r12g2r1g16r1g2r12ly1~x4/"><circle cx="361.5" cy="155.1" r="4" fill="#3465a4"><title>MacPhie/Macfie</title></circle></a><a href="/setts/s9/g2r2db1r24db6r3g12r4db1~x2/"><circle cx="420.4" cy="154.2" r="4" fill="#3465a4"><title>MacDonald 1</title></circle></a><a href="/setts/s14/g20r3g6r6g6r8dp2r2g20r2dp2r46dp3r8~x2/"><circle cx="408.9" cy="136.5" r="4" fill="#3465a4"><title>MacAlister of Glenbarr</title></circle></a><circle cx="387.9" cy="176.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/g12r4k1r2k1r4g16r20g2r8~x2/

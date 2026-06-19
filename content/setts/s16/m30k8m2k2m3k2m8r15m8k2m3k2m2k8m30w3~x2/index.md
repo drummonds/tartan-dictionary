@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Chicago, University of..
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,12 +920,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Johnnie Walker (1985)](/setts/s14/k15r2k1r2k1r4lo1k1r14k1r2k1r1k10~x4/) — ΔT 1.70
 1. [Glennie, The Rhythms of Evelyn](/setts/s11/r25k4r2k3ly2k2db3r2k3db2k2~x2/) — ΔT 1.72
 1. [Drummond of Megginch - Child's Kilt (c.1890)](/setts/s15/r6db2r3dg12r2dg2r2db4r2lb2r14db2r2db1r6~x2/) — ΔT 1.74
-1. [Smeaton (Wedding) (Personal)](/setts/s18/r3k2lo3k3r3k32r44lb3r4k6r4lb3r44k32r3k3lo3k2~x2/) — ΔT 1.76
+1. [Smeaton (Wedding) (Personal)](/setts/s18/k6r4lb3r44k32r3k3lo3k2r3~x2/) — ΔT 1.76
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/r30k8r2k2r3k2r8r15r8k2r3k2r2k8r30w3~x2/"><circle cx="445.4" cy="149.0" r="4" fill="#3465a4"><title>Chicago University of.. Corporate Tartan Tartan Number: 2073. Earliest known date: 1991 William Rainey Harper, a Scot, was founder and first president of the University. Andrew MacLeish was one of the original trustees. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/lo4r37db17r4db8r6do2r5db2r3lo4/"><circle cx="390.2" cy="132.3" r="4" fill="#3465a4"><title>Griffiths (Welsh Name)</title></circle></a><a href="/setts/s15/dr20lo1dr10lo10k1dr5w1dr5k1lo5dr11k2w4lo3dr5~x2/"><circle cx="372.3" cy="123.4" r="4" fill="#3465a4"><title>Motherwell Football Club Official</title></circle></a><a href="/setts/s16/r17ly1r8db2k1db16ly3r1w1r15db4r2w3r1w1r16~x2/"><circle cx="383.3" cy="117.1" r="4" fill="#3465a4"><title>Ruxton Hunting</title></circle></a><a href="/setts/s14/r16db8r2k3ly1k3r2k3ly1k3r2db8r16k1~x4/"><circle cx="315.6" cy="131.6" r="4" fill="#3465a4"><title>Leslie Red (VS)</title></circle></a><a href="/setts/s15/r5k1r2k2r16t2r2k9r2k2r2k13r2k2r4~x2/"><circle cx="352.4" cy="148.7" r="4" fill="#3465a4"><title>Walkers Shortbread (Corporate)</title></circle></a><a href="/setts/s14/k15r2k1r2k1r4lo1k1r14k1r2k1r1k10~x4/"><circle cx="370.1" cy="144.8" r="4" fill="#3465a4"><title>Johnnie Walker (1985)</title></circle></a><a href="/setts/s11/r25k4r2k3ly2k2db3r2k3db2k2~x2/"><circle cx="352.8" cy="124.0" r="4" fill="#3465a4"><title>Glennie, The Rhythms of Evelyn</title></circle></a><a href="/setts/s15/r6db2r3dg12r2dg2r2db4r2lb2r14db2r2db1r6~x2/"><circle cx="327.1" cy="141.9" r="4" fill="#3465a4"><title>Drummond of Megginch - Child's Kilt (c.1890)</title></circle></a><a href="/setts/s18/r3k2lo3k3r3k32r44lb3r4k6r4lb3r44k32r3k3lo3k2~x2/"><circle cx="349.6" cy="89.0" r="4" fill="#3465a4"><title>Smeaton (Wedding) (Personal)</title></circle></a><circle cx="406.5" cy="130.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/r30k8r2k2r3k2r8r15r8k2r3k2r2k8r30w3~x2/"><circle cx="445.0" cy="148.9" r="4" fill="#3465a4"><title>Chicago University of.. Corporate Tartan Tartan Number: 2073. Earliest known date: 1991 William Rainey Harper, a Scot, was founder and first president of the University. Andrew MacLeish was one of the original trustees. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/lo4r37db17r4db8r6do2r5db2r3lo4/"><circle cx="389.8" cy="132.2" r="4" fill="#3465a4"><title>Griffiths (Welsh Name)</title></circle></a><a href="/setts/s15/dr20lo1dr10lo10k1dr5w1dr5k1lo5dr11k2w4lo3dr5~x2/"><circle cx="371.9" cy="123.2" r="4" fill="#3465a4"><title>Motherwell Football Club Official</title></circle></a><a href="/setts/s16/r17ly1r8db2k1db16ly3r1w1r15db4r2w3r1w1r16~x2/"><circle cx="382.9" cy="117.1" r="4" fill="#3465a4"><title>Ruxton Hunting</title></circle></a><a href="/setts/s14/r16db8r2k3ly1k3r2k3ly1k3r2db8r16k1~x4/"><circle cx="315.3" cy="131.5" r="4" fill="#3465a4"><title>Leslie Red (VS)</title></circle></a><a href="/setts/s15/r5k1r2k2r16t2r2k9r2k2r2k13r2k2r4~x2/"><circle cx="352.1" cy="148.5" r="4" fill="#3465a4"><title>Walkers Shortbread (Corporate)</title></circle></a><a href="/setts/s14/k15r2k1r2k1r4lo1k1r14k1r2k1r1k10~x4/"><circle cx="369.8" cy="144.6" r="4" fill="#3465a4"><title>Johnnie Walker (1985)</title></circle></a><a href="/setts/s11/r25k4r2k3ly2k2db3r2k3db2k2~x2/"><circle cx="352.4" cy="123.8" r="4" fill="#3465a4"><title>Glennie, The Rhythms of Evelyn</title></circle></a><a href="/setts/s15/r6db2r3dg12r2dg2r2db4r2lb2r14db2r2db1r6~x2/"><circle cx="326.8" cy="141.8" r="4" fill="#3465a4"><title>Drummond of Megginch - Child's Kilt (c.1890)</title></circle></a><a href="/setts/s18/k6r4lb3r44k32r3k3lo3k2r3~x2/"><circle cx="349.2" cy="88.9" r="4" fill="#3465a4"><title>Smeaton (Wedding) (Personal)</title></circle></a><circle cx="406.2" cy="130.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/m30k8m2k2m3k2m8r15m8k2m3k2m2k8m30w3~x2/

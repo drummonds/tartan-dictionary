@@ -28,7 +28,7 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 | [Taiheiyo Club, Inc.](/setts/s7/k46dg6k6dg6k42dg47k12/)|
 |![Taiheiyo Club, Inc. example sett](/setts/s7/k46dg6k6dg6k42dg47k12/sett.png)|
 
-### K G K G K Y K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="seq">K G K G K Y K</span></span>
+### K Y K G K G K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">K Y K G K G K</span></span>
 
 | Tartans |
 |---------------|

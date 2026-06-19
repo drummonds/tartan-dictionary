@@ -22,6 +22,6 @@ GGKGKGKBRKRW
 
 | Tartans |
 |---------------|
-| [Chattahoochee](/setts/s12/w3r3k3r11db8k8dg4k3dg3k3dg15y3~x2/)|
-|![Chattahoochee example sett](/setts/s12/w3r3k3r11db8k8dg4k3dg3k3dg15y3~x2/sett.png)|
+| [Chattahoochee](/setts/s12/y3dg15k3dg3k3dg4k8db8r11k3r3w3~x2/)|
+|![Chattahoochee example sett](/setts/s12/y3dg15k3dg3k3dg4k8db8r11k3r3w3~x2/sett.png)|
 

@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/7361/
 
 ## Thread count
-K/6 G8 K4 DB12 N36 K20 DB72 K6 DB6 Y/12
+Y/12 DB6 K6 DB72 K20 N36 DB12 K4 G8 K/6
 ![Sett](sett.png)
 
 ## Palette
@@ -36,13 +36,13 @@ The nearest existing variants by ΔTartan distance.
 1. [MDF (Personal)](/setts/s10/db37w2db2ly2r17w2db2g17ly2db2~x2/) — ΔT 0.95
 1. [McGuffey (School)](/setts/s11/o14k2db3k1ly2k1db3k14db3k1w1~x2/) — ΔT 1.04
 1. [St. Andrews University (Corporate)](/setts/s10/db6ly3k2ly5db30g2k4g2db6db4~x2/) — ΔT 1.04
-1. [Blue Knights, The](/setts/s9/w3lg15db6db2db1db2db1db21ly2~x2/) — ΔT 1.04
 1. [Scottish Knights Templar Int. (Corp)](/setts/s9/r3db20k6lb5k4lb3k2r1db2~x2/) — ΔT 1.04
+1. [Blue Knights, The](/setts/s9/w3lg15db6db2db1db2db1db21ly2~x2/) — ΔT 1.04
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db8w8db4p4db36p4db4y26db2y26g2db5/"><circle cx="239.5" cy="125.6" r="4" fill="#3465a4"><title>Historic Scotland</title></circle></a><a href="/setts/s12/db8w8db4dp4db36dp4db4o26db2o26g2db5/"><circle cx="256.0" cy="128.7" r="4" fill="#3465a4"><title>Historic Scotland (1998) (Corporate)</title></circle></a><a href="/setts/s9/b24k8g8r2g4k1w2k1g4~x2/"><circle cx="245.1" cy="127.1" r="4" fill="#3465a4"><title>Ferguson (Tarlogie)</title></circle></a><a href="/setts/s12/db6r2db2r4db24g11r4g2r2g3k1ly2~x2/"><circle cx="284.4" cy="111.1" r="4" fill="#3465a4"><title>Law of Heather Athol (Personal)</title></circle></a><a href="/setts/s11/r2db6lr2db2k9y30k9db5lr4db2r2~x2/"><circle cx="197.4" cy="124.6" r="4" fill="#3465a4"><title>Rangers Dress (Sports)</title></circle></a><a href="/setts/s10/db37w2db2ly2r17w2db2g17ly2db2~x2/"><circle cx="276.2" cy="114.2" r="4" fill="#3465a4"><title>MDF (Personal)</title></circle></a><a href="/setts/s11/o14k2db3k1ly2k1db3k14db3k1w1~x2/"><circle cx="210.0" cy="129.1" r="4" fill="#3465a4"><title>McGuffey (School)</title></circle></a><a href="/setts/s10/db6ly3k2ly5db30g2k4g2db6db4~x2/"><circle cx="301.0" cy="139.8" r="4" fill="#3465a4"><title>St. Andrews University (Corporate)</title></circle></a><a href="/setts/s9/w3lg15db6db2db1db2db1db21ly2~x2/"><circle cx="247.4" cy="126.2" r="4" fill="#3465a4"><title>Blue Knights, The</title></circle></a><a href="/setts/s9/r3db20k6lb5k4lb3k2r1db2~x2/"><circle cx="266.3" cy="145.8" r="4" fill="#3465a4"><title>Scottish Knights Templar Int. (Corp)</title></circle></a><circle cx="248.5" cy="130.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db8w8db4p4db36p4db4y26db2y26g2db5/"><circle cx="239.5" cy="125.5" r="4" fill="#3465a4"><title>Historic Scotland</title></circle></a><a href="/setts/s12/db8w8db4dp4db36dp4db4o26db2o26g2db5/"><circle cx="255.8" cy="128.7" r="4" fill="#3465a4"><title>Historic Scotland (1998) (Corporate)</title></circle></a><a href="/setts/s9/b24k8g8r2g4k1w2k1g4~x2/"><circle cx="245.1" cy="127.0" r="4" fill="#3465a4"><title>Ferguson (Tarlogie)</title></circle></a><a href="/setts/s12/db6r2db2r4db24g11r4g2r2g3k1ly2~x2/"><circle cx="284.3" cy="111.1" r="4" fill="#3465a4"><title>Law of Heather Athol (Personal)</title></circle></a><a href="/setts/s11/r2db6lr2db2k9y30k9db5lr4db2r2~x2/"><circle cx="197.3" cy="124.7" r="4" fill="#3465a4"><title>Rangers Dress (Sports)</title></circle></a><a href="/setts/s10/db37w2db2ly2r17w2db2g17ly2db2~x2/"><circle cx="276.1" cy="114.1" r="4" fill="#3465a4"><title>MDF (Personal)</title></circle></a><a href="/setts/s11/o14k2db3k1ly2k1db3k14db3k1w1~x2/"><circle cx="210.0" cy="129.1" r="4" fill="#3465a4"><title>McGuffey (School)</title></circle></a><a href="/setts/s10/db6ly3k2ly5db30g2k4g2db6db4~x2/"><circle cx="301.0" cy="139.8" r="4" fill="#3465a4"><title>St. Andrews University (Corporate)</title></circle></a><a href="/setts/s9/r3db20k6lb5k4lb3k2r1db2~x2/"><circle cx="266.3" cy="145.7" r="4" fill="#3465a4"><title>Scottish Knights Templar Int. (Corp)</title></circle></a><a href="/setts/s9/w3lg15db6db2db1db2db1db21ly2~x2/"><circle cx="247.3" cy="126.2" r="4" fill="#3465a4"><title>Blue Knights, The</title></circle></a><circle cx="248.5" cy="130.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/ly6db3k3db36k10lr18db6k2g4k3~x2/

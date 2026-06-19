@@ -13,6 +13,6 @@ A family of [Clan Campbell](/clan/campbell/).
 ## Other tartans
 
 <ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s13/lr4k1dg12k12db12k1db4k1db12k12dg12k1ly4/"><img src="/setts/s13/lr4k1dg12k12db12k1db4k1db12k12dg12k1ly4/sett.png" alt="Campbell of Loudon" width="140"><br>Campbell of Loudon</a></li>
+<li><a class="tartan" href="/setts/s13/lr4k1dg12k12db12k1db4k1db12k12dg12k1ly4~x2/"><img src="/setts/s13/lr4k1dg12k12db12k1db4k1db12k12dg12k1ly4~x2/sett.png" alt="Campbell of Loudon" width="140"><br>Campbell of Loudon</a></li>
 </ul>
 

@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [15 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1204
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Fleming/Frisken/Flanders
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -51,19 +57,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Ibrox](/setts/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/) — ΔT 0.97
 1. [Royal Naval Association](/setts/s16/db14k21r2k3db4k21r3w3r3k21db4k3r2k21db14w3~x2/) — ΔT 1.08
-1. [MacIver of Strome (Personal)](/setts/s13/ly2db3r2db19k7db6k22db6k7db19r2db3w2~x2/) — ΔT 1.13
+1. [MacIver of Strome (Personal)](/setts/s13/w2db3r2db19k7db6k22db6k7db19r2db3ly2~x2/) — ΔT 1.13
 1. [Stone of Destiny](/setts/s9/db4ly2db17k2r4k2db3k11db3~x2/) — ΔT 1.21
 1. [Beynon](/setts/s15/db11k1dg3db6k1db6dg3db4dg7db11ly1db11dg7ly2k4/) — ΔT 1.27
-1. [Fleming Commemorative Tartan Tartan Number: 2531. Earliest known date: 1997 Kilt was created for Scotland Flanders 2002 as a cultural exchange product. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s28/db16k3db3k3db3k16db17k2ly4k2db17k16db17k2w4k2db17k16db17k2ly4k2db17k16db3k3db3k3~x2/) — ΔT 1.31
+1. [Fleming Commemorative Tartan Tartan Number: 2531. Earliest known date: 1997 Kilt was created for Scotland Flanders 2002 as a cultural exchange product. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s28/db16k3db3k3db3k16db17k2ly4k2db17k16db17k2w4~x2/) — ΔT 1.31
 1. [Fleming /Frisken/Flanders](/setts/s15/db32k6db6k6db6k32db33k4ly8k4db33k32db34k4w8/) — ΔT 1.33
-1. [Kinross](/setts/s14/dg20db2g6db2dg4db27lo2db8lo2db27dg4db2g6db2~x2/) — ΔT 1.33
+1. [Kinross](/setts/s14/dg20db2g6db2dg4db27lo2db8~x2/) — ΔT 1.33
 1. [Pride of Norway](/setts/s13/k7db2k6db18r3db18k4k2db2k2w2k4k4~x2/) — ΔT 1.37
 1. [Aberdale (Fashion)](/setts/s13/lb4k1db14k8db6r2db6r3db6r2db6k2lo2~x2/) — ΔT 1.42
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/"><circle cx="305.3" cy="203.8" r="4" fill="#3465a4"><title>Ibrox</title></circle></a><a href="/setts/s16/db14k21r2k3db4k21r3w3r3k21db4k3r2k21db14w3~x2/"><circle cx="345.3" cy="187.8" r="4" fill="#3465a4"><title>Royal Naval Association</title></circle></a><a href="/setts/s13/ly2db3r2db19k7db6k22db6k7db19r2db3w2~x2/"><circle cx="314.0" cy="176.1" r="4" fill="#3465a4"><title>MacIver of Strome (Personal)</title></circle></a><a href="/setts/s9/db4ly2db17k2r4k2db3k11db3~x2/"><circle cx="308.1" cy="207.1" r="4" fill="#3465a4"><title>Stone of Destiny</title></circle></a><a href="/setts/s15/db11k1dg3db6k1db6dg3db4dg7db11ly1db11dg7ly2k4/"><circle cx="334.4" cy="216.9" r="4" fill="#3465a4"><title>Beynon</title></circle></a><a href="/setts/s28/db16k3db3k3db3k16db17k2ly4k2db17k16db17k2w4k2db17k16db17k2ly4k2db17k16db3k3db3k3~x2/"><circle cx="307.6" cy="178.2" r="4" fill="#3465a4"><title>Fleming Commemorative Tartan Tartan Number: 2531. Earliest known date: 1997 Kilt was created for Scotland Flanders 2002 as a cultural exchange product. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/db32k6db6k6db6k32db33k4ly8k4db33k32db34k4w8/"><circle cx="280.0" cy="185.5" r="4" fill="#3465a4"><title>Fleming /Frisken/Flanders</title></circle></a><a href="/setts/s14/dg20db2g6db2dg4db27lo2db8lo2db27dg4db2g6db2~x2/"><circle cx="358.2" cy="167.1" r="4" fill="#3465a4"><title>Kinross</title></circle></a><a href="/setts/s13/k7db2k6db18r3db18k4k2db2k2w2k4k4~x2/"><circle cx="274.5" cy="175.1" r="4" fill="#3465a4"><title>Pride of Norway</title></circle></a><a href="/setts/s13/lb4k1db14k8db6r2db6r3db6r2db6k2lo2~x2/"><circle cx="305.3" cy="177.6" r="4" fill="#3465a4"><title>Aberdale (Fashion)</title></circle></a><circle cx="316.4" cy="200.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/"><circle cx="305.4" cy="203.7" r="4" fill="#3465a4"><title>Ibrox</title></circle></a><a href="/setts/s16/db14k21r2k3db4k21r3w3r3k21db4k3r2k21db14w3~x2/"><circle cx="345.4" cy="187.7" r="4" fill="#3465a4"><title>Royal Naval Association</title></circle></a><a href="/setts/s13/w2db3r2db19k7db6k22db6k7db19r2db3ly2~x2/"><circle cx="314.1" cy="176.1" r="4" fill="#3465a4"><title>MacIver of Strome (Personal)</title></circle></a><a href="/setts/s9/db4ly2db17k2r4k2db3k11db3~x2/"><circle cx="308.1" cy="207.0" r="4" fill="#3465a4"><title>Stone of Destiny</title></circle></a><a href="/setts/s15/db11k1dg3db6k1db6dg3db4dg7db11ly1db11dg7ly2k4/"><circle cx="334.5" cy="216.8" r="4" fill="#3465a4"><title>Beynon</title></circle></a><a href="/setts/s28/db16k3db3k3db3k16db17k2ly4k2db17k16db17k2w4~x2/"><circle cx="307.6" cy="178.2" r="4" fill="#3465a4"><title>Fleming Commemorative Tartan Tartan Number: 2531. Earliest known date: 1997 Kilt was created for Scotland Flanders 2002 as a cultural exchange product. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/db32k6db6k6db6k32db33k4ly8k4db33k32db34k4w8/"><circle cx="280.0" cy="185.3" r="4" fill="#3465a4"><title>Fleming /Frisken/Flanders</title></circle></a><a href="/setts/s14/dg20db2g6db2dg4db27lo2db8~x2/"><circle cx="358.1" cy="167.0" r="4" fill="#3465a4"><title>Kinross</title></circle></a><a href="/setts/s13/k7db2k6db18r3db18k4k2db2k2w2k4k4~x2/"><circle cx="274.6" cy="175.1" r="4" fill="#3465a4"><title>Pride of Norway</title></circle></a><a href="/setts/s13/lb4k1db14k8db6r2db6r3db6r2db6k2lo2~x2/"><circle cx="305.4" cy="177.6" r="4" fill="#3465a4"><title>Aberdale (Fashion)</title></circle></a><circle cx="316.4" cy="200.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/db16k3db3k3db3k16db17k2ly4k2db17k16db17k2w4~x2/

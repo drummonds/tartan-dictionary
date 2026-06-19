@@ -2,12 +2,18 @@
 title: "Gudbrandsdalen, Mannsdrakt"
 date: 2023-03-18
 ---
-**Bands:** [GRKGRKGRGKRGKRWR](/stripes/grkgrkgrgkrgkrwr/) · **Stripes:** [DG R K DG R K DG R DG K R DG K R W R](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG R K DG R K DG R DG K R DG K R W R</span></span>
+**Bands:** [RWRKGRKGRGKRGKRG](/stripes/rwrkgrkgrgkrgkrg/) · **Stripes:** [R W R K DG R K DG R DG K R DG K R DG](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R W R K DG R K DG R DG K R DG K R DG</span></span>
 
 
 This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Gudbrandsdalen, Mannsdrakt
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,18 +921,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Drummond of Megginch - 1849 Kilt](/setts/s15/r7db1r2db2r35lb2r2db10r2dg2r2dg37r3db2r6~x2/) — ΔT 0.93
 1. [Drummond of Megginch - 1820 Plaid](/setts/s15/r26db2r6db6r126lb6r6db38r6dg6r6dg130r19db6r18/) — ΔT 0.93
 1. [Bruce - 1819 (New)](/setts/s15/r15dp1r2dp2r78lt1r2dp21r3g2r3g89r2dp2r10/) — ΔT 1.07
-1. [Stewart of Appin](/setts/s16/r3db2lb1r2dg24r4dg2r2db8r2dg2r24db2lb1r2dg2/) — ΔT 1.31
-1. [Grant](/setts/s15/r6db2r2dg24r2db2r2db8r2lb1r32db2r2db1r6/) — ΔT 1.35
+1. [Stewart of Appin](/setts/s16/r3db2lb1r2dg24r4dg2r2db8r2dg2r24db2lb1r2dg2~x2/) — ΔT 1.31
+1. [Grant](/setts/s15/r6db2r2dg24r2db2r2db8r2lb1r32db2r2db1r6~x2/) — ΔT 1.35
 1. [MacPherson of Cluny](/setts/s11/r5k2r2g42r5k36r70k2ly2r7g2/) — ΔT 1.36
-1. [Hay](/setts/s14/lb6r2k1r2dg4r48dg12r2dg2r2dg36ly2dg4r6/) — ΔT 1.39
-1. [Sutherland de Albergaria (Personal)](/setts/s14/w10k2w2k66ly6r48k5r8k5r48ly6k66w2k2/) — ΔT 1.44
-1. [Dalzell](/setts/s17/r24lb1db2r4dg32r4db2lb1r4db6r4lb1db2r32dg2r3dg6/) — ΔT 1.47
+1. [Hay](/setts/s14/r6dg4ly2dg36r2dg2r2dg12r48dg4r2k1r2lb6/) — ΔT 1.39
+1. [Sutherland de Albergaria (Personal)](/setts/s14/w10k2w2k66ly6r48k5r8/) — ΔT 1.44
+1. [Dalzell](/setts/s17/r24lb1db2r4dg32r4db2lb1r4db6r4lb1db2r32dg2r3dg6~x2/) — ΔT 1.47
 1. [Stewart of Ardshiel - 1816 (Clan)](/setts/s18/dg14r6r2k3r65k2t2r6k34r6t2k2r4dg66r12r2k2t4/) — ΔT 1.47
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r7db1r2db2r35lb2r2db10r2dg2r2dg37r3db2r6~x2/"><circle cx="357.0" cy="78.9" r="4" fill="#3465a4"><title>Drummond of Megginch - 1849 Kilt</title></circle></a><a href="/setts/s15/r26db2r6db6r126lb6r6db38r6dg6r6dg130r19db6r18/"><circle cx="375.7" cy="67.9" r="4" fill="#3465a4"><title>Drummond of Megginch - 1820 Plaid</title></circle></a><a href="/setts/s15/r15dp1r2dp2r78lt1r2dp21r3g2r3g89r2dp2r10/"><circle cx="386.9" cy="61.0" r="4" fill="#3465a4"><title>Bruce - 1819 (New)</title></circle></a><a href="/setts/s16/r3db2lb1r2dg24r4dg2r2db8r2dg2r24db2lb1r2dg2/"><circle cx="309.7" cy="94.6" r="4" fill="#3465a4"><title>Stewart of Appin</title></circle></a><a href="/setts/s15/r6db2r2dg24r2db2r2db8r2lb1r32db2r2db1r6/"><circle cx="377.8" cy="84.2" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/setts/s11/r5k2r2g42r5k36r70k2ly2r7g2/"><circle cx="346.0" cy="94.1" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/setts/s14/lb6r2k1r2dg4r48dg12r2dg2r2dg36ly2dg4r6/"><circle cx="356.2" cy="57.5" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/setts/s14/w10k2w2k66ly6r48k5r8k5r48ly6k66w2k2/"><circle cx="334.5" cy="89.7" r="4" fill="#3465a4"><title>Sutherland de Albergaria (Personal)</title></circle></a><a href="/setts/s17/r24lb1db2r4dg32r4db2lb1r4db6r4lb1db2r32dg2r3dg6/"><circle cx="381.9" cy="84.1" r="4" fill="#3465a4"><title>Dalzell</title></circle></a><a href="/setts/s18/dg14r6r2k3r65k2t2r6k34r6t2k2r4dg66r12r2k2t4/"><circle cx="276.1" cy="55.8" r="4" fill="#3465a4"><title>Stewart of Ardshiel - 1816 (Clan)</title></circle></a><circle cx="361.0" cy="64.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r7db1r2db2r35lb2r2db10r2dg2r2dg37r3db2r6~x2/"><circle cx="356.6" cy="78.9" r="4" fill="#3465a4"><title>Drummond of Megginch - 1849 Kilt</title></circle></a><a href="/setts/s15/r26db2r6db6r126lb6r6db38r6dg6r6dg130r19db6r18/"><circle cx="375.3" cy="67.8" r="4" fill="#3465a4"><title>Drummond of Megginch - 1820 Plaid</title></circle></a><a href="/setts/s15/r15dp1r2dp2r78lt1r2dp21r3g2r3g89r2dp2r10/"><circle cx="386.4" cy="61.0" r="4" fill="#3465a4"><title>Bruce - 1819 (New)</title></circle></a><a href="/setts/s16/r3db2lb1r2dg24r4dg2r2db8r2dg2r24db2lb1r2dg2~x2/"><circle cx="309.3" cy="94.5" r="4" fill="#3465a4"><title>Stewart of Appin</title></circle></a><a href="/setts/s15/r6db2r2dg24r2db2r2db8r2lb1r32db2r2db1r6~x2/"><circle cx="377.4" cy="84.1" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/setts/s11/r5k2r2g42r5k36r70k2ly2r7g2/"><circle cx="345.6" cy="94.0" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/setts/s14/r6dg4ly2dg36r2dg2r2dg12r48dg4r2k1r2lb6/"><circle cx="355.7" cy="57.4" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/setts/s14/w10k2w2k66ly6r48k5r8/"><circle cx="334.2" cy="89.6" r="4" fill="#3465a4"><title>Sutherland de Albergaria (Personal)</title></circle></a><a href="/setts/s17/r24lb1db2r4dg32r4db2lb1r4db6r4lb1db2r32dg2r3dg6~x2/"><circle cx="381.4" cy="84.0" r="4" fill="#3465a4"><title>Dalzell</title></circle></a><a href="/setts/s18/dg14r6r2k3r65k2t2r6k34r6t2k2r4dg66r12r2k2t4/"><circle cx="275.8" cy="55.8" r="4" fill="#3465a4"><title>Stewart of Ardshiel - 1816 (Clan)</title></circle></a><circle cx="360.6" cy="64.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/dg44r2k5dg4r2k1dg2r10dg2k1r2dg4k5r2w1r44~x2/

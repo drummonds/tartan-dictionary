@@ -2,7 +2,7 @@
 title: "Connacht"
 date: 2023-03-18
 ---
-**Bands:** [BRBRGRGRGR](/stripes/brbrgrgrgr/) · **Stripes:** [DR O DR O G O G O G O](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DR O DR O G O G O G O</span></span>
+**Bands:** [RGRGRGRBRB](/stripes/rgrgrgrbrb/) · **Stripes:** [O G O G O G O DR O DR](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="seq">O G O G O G O DR O DR</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DR/12 LT4 DR4 LT128 G12 LT4 G6 LT4 G12 LT/128
+LT/128 G12 LT4 G6 LT4 G12 LT128 DR4 LT4 DR/12
 ![Sett](sett.png)
 
 ## Palette
@@ -901,7 +904,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Burnett, of Leys hunting](/setts/s8/o96db8o8w3o8g3o8r3~x2/) — ΔT 1.88
+1. [Burnett, of Leys hunting](/setts/s8/o96db8o8w3o8g3o8r3~x2/) — ΔT 1.87
 1. [Auchairne grey](/setts/s6/r13y3r4y56n4y4~x2/) — ΔT 2.34
 1. [Burnett of Leys Hunting Family Tartan Tartan Number: 1657. Earliest known date: 1988 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/dy96db8dy8w3dy8g3dy8r3~x2/) — ΔT 2.42
 1. [Auchairne Grey](/setts/s6/r13o3r4o56n4o4~x2/) — ΔT 2.45
@@ -910,12 +913,12 @@ The nearest existing variants by ΔTartan distance.
 1. [MacAndrew Hunting (Name)](/setts/s6/y72k8y4dy16y7o2~x2/) — ΔT 2.67
 1. [Braveheart Htg (Fashion)](/setts/s10/g3db2g40db1g2db1g9r4g3r2~x4/) — ΔT 2.75
 1. [Abaco Loyalist](/setts/s14/n60r2n2r6n1r2n1r6n1r2n1r6n2lr2~x2/) — ΔT 2.76
-1. [Welsh Stanley–Gpa (Personal)](/setts/s9/g2dy3g2dy45ly3g4r2g2r2~x2/) — ΔT 2.77
+1. [Welsh Stanley–Gpa (Personal)](/setts/s9/r2g2r2g4ly3dy45g2dy3g2~x2/) — ΔT 2.77
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/o96db8o8w3o8g3o8r3~x2/"><circle cx="626.0" cy="155.6" r="4" fill="#3465a4"><title>Burnett, of Leys hunting</title></circle></a><a href="/setts/s6/r13y3r4y56n4y4~x2/"><circle cx="610.0" cy="217.8" r="4" fill="#3465a4"><title>Auchairne grey</title></circle></a><a href="/setts/s8/dy96db8dy8w3dy8g3dy8r3~x2/"><circle cx="626.0" cy="146.6" r="4" fill="#3465a4"><title>Burnett of Leys Hunting Family Tartan Tartan Number: 1657. Earliest known date: 1988 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r13o3r4o56n4o4~x2/"><circle cx="604.0" cy="213.3" r="4" fill="#3465a4"><title>Auchairne Grey</title></circle></a><a href="/setts/s7/w2o44dt8o2dt2o3r1~x2/"><circle cx="626.0" cy="136.3" r="4" fill="#3465a4"><title>Reece, Mathew</title></circle></a><a href="/setts/s6/n4db1n6m1n14lr1~x8/"><circle cx="626.0" cy="270.2" r="4" fill="#3465a4"><title>Torridon Tweed</title></circle></a><a href="/setts/s6/y72k8y4dy16y7o2~x2/"><circle cx="626.0" cy="208.8" r="4" fill="#3465a4"><title>MacAndrew Hunting (Name)</title></circle></a><a href="/setts/s10/g3db2g40db1g2db1g9r4g3r2~x4/"><circle cx="626.0" cy="171.6" r="4" fill="#3465a4"><title>Braveheart Htg (Fashion)</title></circle></a><a href="/setts/s14/n60r2n2r6n1r2n1r6n1r2n1r6n2lr2~x2/"><circle cx="625.5" cy="113.8" r="4" fill="#3465a4"><title>Abaco Loyalist</title></circle></a><a href="/setts/s9/g2dy3g2dy45ly3g4r2g2r2~x2/"><circle cx="586.9" cy="162.0" r="4" fill="#3465a4"><title>Welsh Stanley–Gpa (Personal)</title></circle></a><circle cx="626.0" cy="189.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/o96db8o8w3o8g3o8r3~x2/"><circle cx="626.0" cy="155.4" r="4" fill="#3465a4"><title>Burnett, of Leys hunting</title></circle></a><a href="/setts/s6/r13y3r4y56n4y4~x2/"><circle cx="609.4" cy="217.6" r="4" fill="#3465a4"><title>Auchairne grey</title></circle></a><a href="/setts/s8/dy96db8dy8w3dy8g3dy8r3~x2/"><circle cx="626.0" cy="146.4" r="4" fill="#3465a4"><title>Burnett of Leys Hunting Family Tartan Tartan Number: 1657. Earliest known date: 1988 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r13o3r4o56n4o4~x2/"><circle cx="603.4" cy="213.1" r="4" fill="#3465a4"><title>Auchairne Grey</title></circle></a><a href="/setts/s7/w2o44dt8o2dt2o3r1~x2/"><circle cx="626.0" cy="136.1" r="4" fill="#3465a4"><title>Reece, Mathew</title></circle></a><a href="/setts/s6/n4db1n6m1n14lr1~x8/"><circle cx="626.0" cy="270.0" r="4" fill="#3465a4"><title>Torridon Tweed</title></circle></a><a href="/setts/s6/y72k8y4dy16y7o2~x2/"><circle cx="626.0" cy="208.7" r="4" fill="#3465a4"><title>MacAndrew Hunting (Name)</title></circle></a><a href="/setts/s10/g3db2g40db1g2db1g9r4g3r2~x4/"><circle cx="626.0" cy="171.3" r="4" fill="#3465a4"><title>Braveheart Htg (Fashion)</title></circle></a><a href="/setts/s14/n60r2n2r6n1r2n1r6n1r2n1r6n2lr2~x2/"><circle cx="624.9" cy="113.7" r="4" fill="#3465a4"><title>Abaco Loyalist</title></circle></a><a href="/setts/s9/r2g2r2g4ly3dy45g2dy3g2~x2/"><circle cx="586.4" cy="161.9" r="4" fill="#3465a4"><title>Welsh Stanley–Gpa (Personal)</title></circle></a><circle cx="626.0" cy="189.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/o64g6o2g3o2g6o64dr2o2dr6~x2/

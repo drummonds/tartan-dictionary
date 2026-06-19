@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4107
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Thomas, Jean Marc
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -46,7 +52,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [World Fed. of Bldg Contractors (Corp](/setts/s5/lb2b44n6db19r2~x2/) — ΔT 1.23
+1. [World Fed. of Bldg Contractors (Corp](/setts/s5/r2db19n6b44lb2~x2/) — ΔT 1.23
 1. [Lauder Primary School (Corporate)](/setts/s6/r2t21r2db6ly1r1~x4/) — ΔT 1.33
 1. [Leblant-Macqueron (Personal)](/setts/s7/lb5dy6w2g7w2b44w2~x2/) — ΔT 1.43
 1. [Cleland](/setts/s5/k2db36g12w3r2~x2/) — ΔT 1.48
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/lb2b44n6db19r2~x2/"><circle cx="371.0" cy="170.4" r="4" fill="#3465a4"><title>World Fed. of Bldg Contractors (Corp</title></circle></a><a href="/setts/s6/r2t21r2db6ly1r1~x4/"><circle cx="414.6" cy="165.2" r="4" fill="#3465a4"><title>Lauder Primary School (Corporate)</title></circle></a><a href="/setts/s7/lb5dy6w2g7w2b44w2~x2/"><circle cx="399.8" cy="138.2" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/setts/s5/k2db36g12w3r2~x2/"><circle cx="388.1" cy="168.8" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/setts/s6/k2w1o8r1t28r2~x2/"><circle cx="454.4" cy="152.1" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/setts/s5/k2n36g12w3r2~x2/"><circle cx="406.9" cy="177.7" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/setts/s5/lg25r1ly1n9w4~x2/"><circle cx="391.5" cy="161.7" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/setts/s4/t20dp3db7ly1~x4/"><circle cx="421.9" cy="212.8" r="4" fill="#3465a4"><title>Peacock (Samantha)</title></circle></a><a href="/setts/s5/lg25r1g1n9w4~x2/"><circle cx="392.9" cy="163.4" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/setts/s6/t28dt15r2dt2w1dt6~x2/"><circle cx="382.0" cy="178.6" r="4" fill="#3465a4"><title>Corries</title></circle></a><circle cx="411.7" cy="146.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r2db19n6b44lb2~x2/"><circle cx="370.9" cy="170.2" r="4" fill="#3465a4"><title>World Fed. of Bldg Contractors (Corp</title></circle></a><a href="/setts/s6/r2t21r2db6ly1r1~x4/"><circle cx="414.3" cy="165.0" r="4" fill="#3465a4"><title>Lauder Primary School (Corporate)</title></circle></a><a href="/setts/s7/lb5dy6w2g7w2b44w2~x2/"><circle cx="399.5" cy="138.1" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/setts/s5/k2db36g12w3r2~x2/"><circle cx="388.0" cy="168.6" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/setts/s6/k2w1o8r1t28r2~x2/"><circle cx="454.0" cy="151.9" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/setts/s5/k2n36g12w3r2~x2/"><circle cx="406.7" cy="177.5" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/setts/s5/lg25r1ly1n9w4~x2/"><circle cx="391.1" cy="161.5" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/setts/s4/t20dp3db7ly1~x4/"><circle cx="421.7" cy="212.6" r="4" fill="#3465a4"><title>Peacock (Samantha)</title></circle></a><a href="/setts/s5/lg25r1g1n9w4~x2/"><circle cx="392.6" cy="163.2" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/setts/s6/t28dt15r2dt2w1dt6~x2/"><circle cx="381.9" cy="178.5" r="4" fill="#3465a4"><title>Corries</title></circle></a><circle cx="411.5" cy="145.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/t72r16k5ly2dt16~x2/

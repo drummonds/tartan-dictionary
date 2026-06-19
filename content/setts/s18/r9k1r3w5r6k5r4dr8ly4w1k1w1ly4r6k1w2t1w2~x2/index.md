@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 B2 LN4 K2 R12 Y8 LN2 K2 LN2 Y8 DR16 R8 K10 R12 LN10 R6 K2 R/18
+R/18 K2 R6 LN10 R12 K10 R8 DR16 Y8 LN2 K2 LN2 Y8 R12 K2 LN4 B2 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/r11k4r6w8r16k13r4lo12ly6w2k3w2ly6r7k4w3t3w2~x2/"><circle cx="83.2" cy="122.4" r="4" fill="#3465a4"><title>Jacobite Old Sett (Artefact)</title></circle></a><a href="/setts/s18/r9k1r3w5r6k5r4lo8ly4w1k1w1ly4r6k1w2t1w2~x2/"><circle cx="120.3" cy="114.4" r="4" fill="#3465a4"><title>Jacobite Old Sett</title></circle></a><a href="/setts/s17/ly3r2ly9r1ly3r3m3r10ly2r10m3r3do6r2do6m2r2~x2/"><circle cx="148.8" cy="130.8" r="4" fill="#3465a4"><title>Thom, Calum (Personal)</title></circle></a><a href="/setts/s14/r21lt9k2lt2k2lt9k18ly3dg21r13k3r13w2r13~x2/"><circle cx="134.8" cy="120.0" r="4" fill="#3465a4"><title>Caledonian Cameron Commando</title></circle></a><a href="/setts/s13/r8db2k1db3k4ly1k1w1k1g8r6w1r6~x4/"><circle cx="147.2" cy="133.4" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/setts/s14/r21t9k2t2k2t9k18ly3g21r13k3r13w2r13~x2/"><circle cx="166.0" cy="133.1" r="4" fill="#3465a4"><title>Caledonia</title></circle></a><a href="/setts/s15/r14t3r12g16ly2k11t7k2t2k2t7r12w3k3r4~x2/"><circle cx="125.4" cy="140.5" r="4" fill="#3465a4"><title>Kidd</title></circle></a><a href="/setts/s17/r15k5w2y7k4w8k2r5r21k5y2w2k7w2r5w2g2~x2/"><circle cx="182.6" cy="112.5" r="4" fill="#3465a4"><title>Sabrettes</title></circle></a><a href="/setts/s15/r18t5r18g24ly3k19t10k3t3k3t10r18w4k5r5~x2/"><circle cx="118.0" cy="141.1" r="4" fill="#3465a4"><title>MacPherson #5</title></circle></a><a href="/setts/s15/db1ly3r3k2db8ly3r2k1r2ly3dg8w1k1r12w1~x2/"><circle cx="120.6" cy="98.7" r="4" fill="#3465a4"><title>MacPherson #2</title></circle></a><circle cx="108.6" cy="111.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/r11k4r6w8r16k13r4lo12ly6w2k3w2ly6r7k4w3t3w2~x2/"><circle cx="82.9" cy="122.5" r="4" fill="#3465a4"><title>Jacobite Old Sett (Artefact)</title></circle></a><a href="/setts/s18/r9k1r3w5r6k5r4lo8ly4w1k1w1ly4r6k1w2t1w2~x2/"><circle cx="120.0" cy="114.4" r="4" fill="#3465a4"><title>Jacobite Old Sett</title></circle></a><a href="/setts/s17/ly3r2ly9r1ly3r3m3r10ly2r10m3r3do6r2do6m2r2~x2/"><circle cx="148.6" cy="130.8" r="4" fill="#3465a4"><title>Thom, Calum (Personal)</title></circle></a><a href="/setts/s14/r21lt9k2lt2k2lt9k18ly3dg21r13k3r13w2r13~x2/"><circle cx="134.7" cy="120.1" r="4" fill="#3465a4"><title>Caledonian Cameron Commando</title></circle></a><a href="/setts/s13/r8db2k1db3k4ly1k1w1k1g8r6w1r6~x4/"><circle cx="147.1" cy="133.4" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/setts/s14/r21t9k2t2k2t9k18ly3g21r13k3r13w2r13~x2/"><circle cx="165.8" cy="133.1" r="4" fill="#3465a4"><title>Caledonia</title></circle></a><a href="/setts/s15/r14t3r12g16ly2k11t7k2t2k2t7r12w3k3r4~x2/"><circle cx="125.3" cy="140.6" r="4" fill="#3465a4"><title>Kidd</title></circle></a><a href="/setts/s17/r15k5w2y7k4w8k2r5r21k5y2w2k7w2r5w2g2~x2/"><circle cx="182.3" cy="112.5" r="4" fill="#3465a4"><title>Sabrettes</title></circle></a><a href="/setts/s15/r18t5r18g24ly3k19t10k3t3k3t10r18w4k5r5~x2/"><circle cx="117.9" cy="141.3" r="4" fill="#3465a4"><title>MacPherson #5</title></circle></a><a href="/setts/s15/db1ly3r3k2db8ly3r2k1r2ly3dg8w1k1r12w1~x2/"><circle cx="120.4" cy="98.8" r="4" fill="#3465a4"><title>MacPherson #2</title></circle></a><circle cx="108.3" cy="111.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s18/r9k1r3w5r6k5r4dr8ly4w1k1w1ly4r6k1w2t1w2~x2/

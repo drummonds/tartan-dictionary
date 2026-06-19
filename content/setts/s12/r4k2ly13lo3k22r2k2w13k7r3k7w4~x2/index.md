@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands1
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7457/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Tyrone County, Crest Range
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -49,15 +55,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Sligo County Crest (Fashion)](/setts/s11/lo8k16lr8k52lr6k5w27r20y14k5lr6/) — ΔT 1.00
 1. [Cornish National](/setts/s10/k3lb7lo26k26w5k26lo26lb7k3r3~x2/) — ΔT 1.00
 1. [Dauphinee (Trussville, Alabama) (Personal)](/setts/s11/r9k4w6k4dt21ly3dt13k2w4k2r6~x2/) — ΔT 1.05
-1. [Clackson Hunting (Personal)](/setts/s13/r4db5r4db5g8ly2g24w2g8db5r4db5r4~x2/) — ΔT 1.08
+1. [Clackson Hunting (Personal)](/setts/s13/r4db5r4db5g8w2g24ly2g8db5r4db5r4~x2/) — ΔT 1.07
 1. [California Firefighters (Corporate)](/setts/s12/o4k2r2k1r1k1r2db3o1dg4o9dg1~x4/) — ΔT 1.08
 1. [Glen Nevis](/setts/s12/o22w2o2w2o4k5o5k5y5m2y13w2~x2/) — ΔT 1.09
 1. [Gordon Dress MINI design Tartan Tartan Number: 2944. Earliest known date: Dupion Silk. Generated for display purposes only. Reduced copy of the 294 Gordon dress. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/db4k6db10k20g4ly3g4k20w4db4w20db2w3/) — ΔT 1.09
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/k6y1k1y4ly1r1ly4r1ly2y4k1y1k8w1k2~x4/"><circle cx="169.0" cy="147.8" r="4" fill="#3465a4"><title>Confessore (Personal)</title></circle></a><a href="/setts/s15/n32k4n5k4n32k2w2lo12k16w8k4r5k4w8k16~x2/"><circle cx="186.9" cy="114.3" r="4" fill="#3465a4"><title>Unidentified Fashion</title></circle></a><a href="/setts/s12/w12lb2k5lb2k10lb2k15lb2k20lb2y25lb2~x2/"><circle cx="222.7" cy="145.5" r="4" fill="#3465a4"><title>Liberty Square</title></circle></a><a href="/setts/s11/lo8k16lr8k52lr6k5w27r20y14k5lr6/"><circle cx="150.1" cy="128.0" r="4" fill="#3465a4"><title>Sligo County Crest (Fashion)</title></circle></a><a href="/setts/s10/k3lb7lo26k26w5k26lo26lb7k3r3~x2/"><circle cx="165.5" cy="160.8" r="4" fill="#3465a4"><title>Cornish National</title></circle></a><a href="/setts/s11/r9k4w6k4dt21ly3dt13k2w4k2r6~x2/"><circle cx="165.4" cy="144.7" r="4" fill="#3465a4"><title>Dauphinee (Trussville, Alabama) (Personal)</title></circle></a><a href="/setts/s13/r4db5r4db5g8ly2g24w2g8db5r4db5r4~x2/"><circle cx="219.0" cy="146.8" r="4" fill="#3465a4"><title>Clackson Hunting (Personal)</title></circle></a><a href="/setts/s12/o4k2r2k1r1k1r2db3o1dg4o9dg1~x4/"><circle cx="174.3" cy="157.4" r="4" fill="#3465a4"><title>California Firefighters (Corporate)</title></circle></a><a href="/setts/s12/o22w2o2w2o4k5o5k5y5m2y13w2~x2/"><circle cx="213.0" cy="135.8" r="4" fill="#3465a4"><title>Glen Nevis</title></circle></a><a href="/setts/s13/db4k6db10k20g4ly3g4k20w4db4w20db2w3/"><circle cx="152.0" cy="142.9" r="4" fill="#3465a4"><title>Gordon Dress MINI design Tartan Tartan Number: 2944. Earliest known date: Dupion Silk. Generated for display purposes only. Reduced copy of the 294 Gordon dress. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="181.4" cy="138.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/k6y1k1y4ly1r1ly4r1ly2y4k1y1k8w1k2~x4/"><circle cx="168.9" cy="147.7" r="4" fill="#3465a4"><title>Confessore (Personal)</title></circle></a><a href="/setts/s15/n32k4n5k4n32k2w2lo12k16w8k4r5k4w8k16~x2/"><circle cx="186.8" cy="114.3" r="4" fill="#3465a4"><title>Unidentified Fashion</title></circle></a><a href="/setts/s12/w12lb2k5lb2k10lb2k15lb2k20lb2y25lb2~x2/"><circle cx="222.6" cy="145.3" r="4" fill="#3465a4"><title>Liberty Square</title></circle></a><a href="/setts/s11/lo8k16lr8k52lr6k5w27r20y14k5lr6/"><circle cx="150.1" cy="128.0" r="4" fill="#3465a4"><title>Sligo County Crest (Fashion)</title></circle></a><a href="/setts/s10/k3lb7lo26k26w5k26lo26lb7k3r3~x2/"><circle cx="165.5" cy="160.7" r="4" fill="#3465a4"><title>Cornish National</title></circle></a><a href="/setts/s11/r9k4w6k4dt21ly3dt13k2w4k2r6~x2/"><circle cx="165.3" cy="144.6" r="4" fill="#3465a4"><title>Dauphinee (Trussville, Alabama) (Personal)</title></circle></a><a href="/setts/s13/r4db5r4db5g8w2g24ly2g8db5r4db5r4~x2/"><circle cx="218.9" cy="146.7" r="4" fill="#3465a4"><title>Clackson Hunting (Personal)</title></circle></a><a href="/setts/s12/o4k2r2k1r1k1r2db3o1dg4o9dg1~x4/"><circle cx="174.2" cy="157.4" r="4" fill="#3465a4"><title>California Firefighters (Corporate)</title></circle></a><a href="/setts/s12/o22w2o2w2o4k5o5k5y5m2y13w2~x2/"><circle cx="212.7" cy="135.8" r="4" fill="#3465a4"><title>Glen Nevis</title></circle></a><a href="/setts/s13/db4k6db10k20g4ly3g4k20w4db4w20db2w3/"><circle cx="152.0" cy="142.9" r="4" fill="#3465a4"><title>Gordon Dress MINI design Tartan Tartan Number: 2944. Earliest known date: Dupion Silk. Generated for display purposes only. Reduced copy of the 294 Gordon dress. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="181.3" cy="138.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r4k2ly13lo3k22r2k2w13k7r3k7w4~x2/

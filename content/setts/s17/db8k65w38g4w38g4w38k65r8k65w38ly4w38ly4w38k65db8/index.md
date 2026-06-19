@@ -2,7 +2,7 @@
 title: "Kinnison"
 date: 2023-03-18
 ---
-**Bands:** [BKWGWGWKRKWYWYWKB](/stripes/bkwgwgwkrkwywywkb/) · **Stripes:** [DB K W G W G W K R K W LY W LY W K DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K W G W G W K R K W LY W LY W K DB</span></span>
+**Bands:** [BKWYWYWKRKWGWGWKB](/stripes/bkwywywkrkwgwgwkb/) · **Stripes:** [DB K W LY W LY W K R K W G W G W K DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K W LY W LY W K R K W G W G W K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [17 band tartan](/bands/bands17/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/8 K65 LN38 G4 LN38 G4 LN38 K65 R8 K65 LN38 Y4 LN38 Y4 LN38 K65 B/8
+B/8 K65 LN38 Y4 LN38 Y4 LN38 K65 R8 K65 LN38 G4 LN38 G4 LN38 K65 B/8
 ![Sett](sett.png)
 
 ## Palette
@@ -914,7 +917,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Kinnieson (Personal)](/setts/s16/k64lb38lo4lb38lo4lb38k64r8k64lb38g4lb38g4lb38k65db8/) — ΔT 0.56
 1. [Southwick (Name)](/setts/s19/r2k12g2w5g2k2r2k5lb10k2lb4k2lb4k2lb4k10w2k1r2~x2/) — ΔT 1.47
 1. [Unidentified Fashion](/setts/s15/n32k4n5k4n32k2w2lo12k16w8k4r5k4w8k16~x2/) — ΔT 1.59
-1. [Hancock Personal Tartan Tartan Number: 6469. Earliest known date: 2004, October A personal tartan designed by Trevor Hancock from Crickhowell. He designed the tartan online in November and had the fabric woven and made into a kilt by Christmas 2004 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/k11w4n12k2g3ly1n12w4k11w4n12ly1g3k2n12w4~x2/) — ΔT 1.70
+1. [Hancock Personal Tartan Tartan Number: 6469. Earliest known date: 2004, October A personal tartan designed by Trevor Hancock from Crickhowell. He designed the tartan online in November and had the fabric woven and made into a kilt by Christmas 2004 See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s16/k11w4n12k2g3ly1n12w4k11~x2/) — ΔT 1.70
 1. [O Savanao (District)](/setts/s12/ly7db5ly25db26lb4db4r3db4g4db26ly25db5~x2/) — ΔT 1.75
 1. [Kinnison (Clan?)](/setts/s16/k17ly2k17w12g2w12g2w12k17r2k17w12ly2w12ly2w12~x2/) — ΔT 1.76
 1. [Mizzou (Corporate)](/setts/s20/ly8w8k2w6ly8k28r2k12ly18k12w6k51w2k12ly8w8k2w6ly8db2/) — ΔT 1.82
@@ -924,8 +927,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/k64lb38lo4lb38lo4lb38k64r8k64lb38g4lb38g4lb38k65db8/"><circle cx="206.2" cy="115.3" r="4" fill="#3465a4"><title>Kinnieson (Personal)</title></circle></a><a href="/setts/s19/r2k12g2w5g2k2r2k5lb10k2lb4k2lb4k2lb4k10w2k1r2~x2/"><circle cx="167.8" cy="120.3" r="4" fill="#3465a4"><title>Southwick (Name)</title></circle></a><a href="/setts/s15/n32k4n5k4n32k2w2lo12k16w8k4r5k4w8k16~x2/"><circle cx="186.9" cy="114.3" r="4" fill="#3465a4"><title>Unidentified Fashion</title></circle></a><a href="/setts/s16/k11w4n12k2g3ly1n12w4k11w4n12ly1g3k2n12w4~x2/"><circle cx="188.8" cy="147.6" r="4" fill="#3465a4"><title>Hancock Personal Tartan Tartan Number: 6469. Earliest known date: 2004, October A personal tartan designed by Trevor Hancock from Crickhowell. He designed the tartan online in November and had the fabric woven and made into a kilt by Christmas 2004 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/ly7db5ly25db26lb4db4r3db4g4db26ly25db5~x2/"><circle cx="214.3" cy="147.3" r="4" fill="#3465a4"><title>O Savanao (District)</title></circle></a><a href="/setts/s16/k17ly2k17w12g2w12g2w12k17r2k17w12ly2w12ly2w12~x2/"><circle cx="168.9" cy="151.6" r="4" fill="#3465a4"><title>Kinnison (Clan?)</title></circle></a><a href="/setts/s20/ly8w8k2w6ly8k28r2k12ly18k12w6k51w2k12ly8w8k2w6ly8db2/"><circle cx="270.0" cy="74.6" r="4" fill="#3465a4"><title>Mizzou (Corporate)</title></circle></a><a href="/setts/s12/r4k2ly13lo3k22r2k2w13k7r3k7w4~x2/"><circle cx="181.4" cy="138.8" r="4" fill="#3465a4"><title>Tyrone County Crest (Fashion)</title></circle></a><a href="/setts/s12/m4ly4db9w3ly2k9db21ly2db2ly2db8ly3~x2/"><circle cx="245.6" cy="144.0" r="4" fill="#3465a4"><title>Ruxton, dress</title></circle></a><a href="/setts/s13/db4k6db10k20g4ly3g4k20w4db4w20db2w3/"><circle cx="152.0" cy="142.9" r="4" fill="#3465a4"><title>Gordon Dress MINI design Tartan Tartan Number: 2944. Earliest known date: Dupion Silk. Generated for display purposes only. Reduced copy of the 294 Gordon dress. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="192.9" cy="106.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/k64lb38lo4lb38lo4lb38k64r8k64lb38g4lb38g4lb38k65db8/"><circle cx="206.1" cy="115.2" r="4" fill="#3465a4"><title>Kinnieson (Personal)</title></circle></a><a href="/setts/s19/r2k12g2w5g2k2r2k5lb10k2lb4k2lb4k2lb4k10w2k1r2~x2/"><circle cx="167.7" cy="120.2" r="4" fill="#3465a4"><title>Southwick (Name)</title></circle></a><a href="/setts/s15/n32k4n5k4n32k2w2lo12k16w8k4r5k4w8k16~x2/"><circle cx="186.8" cy="114.3" r="4" fill="#3465a4"><title>Unidentified Fashion</title></circle></a><a href="/setts/s16/k11w4n12k2g3ly1n12w4k11~x2/"><circle cx="188.7" cy="147.5" r="4" fill="#3465a4"><title>Hancock Personal Tartan Tartan Number: 6469. Earliest known date: 2004, October A personal tartan designed by Trevor Hancock from Crickhowell. He designed the tartan online in November and had the fabric woven and made into a kilt by Christmas 2004 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/ly7db5ly25db26lb4db4r3db4g4db26ly25db5~x2/"><circle cx="214.1" cy="147.1" r="4" fill="#3465a4"><title>O Savanao (District)</title></circle></a><a href="/setts/s16/k17ly2k17w12g2w12g2w12k17r2k17w12ly2w12ly2w12~x2/"><circle cx="168.7" cy="151.5" r="4" fill="#3465a4"><title>Kinnison (Clan?)</title></circle></a><a href="/setts/s20/ly8w8k2w6ly8k28r2k12ly18k12w6k51w2k12ly8w8k2w6ly8db2/"><circle cx="269.7" cy="74.4" r="4" fill="#3465a4"><title>Mizzou (Corporate)</title></circle></a><a href="/setts/s12/r4k2ly13lo3k22r2k2w13k7r3k7w4~x2/"><circle cx="181.3" cy="138.7" r="4" fill="#3465a4"><title>Tyrone County Crest (Fashion)</title></circle></a><a href="/setts/s12/m4ly4db9w3ly2k9db21ly2db2ly2db8ly3~x2/"><circle cx="245.4" cy="143.9" r="4" fill="#3465a4"><title>Ruxton, dress</title></circle></a><a href="/setts/s13/db4k6db10k20g4ly3g4k20w4db4w20db2w3/"><circle cx="152.0" cy="142.9" r="4" fill="#3465a4"><title>Gordon Dress MINI design Tartan Tartan Number: 2944. Earliest known date: Dupion Silk. Generated for display purposes only. Reduced copy of the 294 Gordon dress. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="192.9" cy="106.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s17/db8k65w38g4w38g4w38k65r8k65w38ly4w38ly4w38k65db8/

@@ -8,7 +8,7 @@ A family of [Clan Gordon (Duke of Gordon)](/clan/gordon/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s10/r63w4k4dp18ly4dg50ly4dp18k4w4~x2/"><img src="/setts/s10/r63w4k4dp18ly4dg50ly4dp18k4w4~x2/sett.png" alt="Gordon of Abergeldie" width="240"><br>Gordon of Abergeldie</a>
+<a class="tartan" href="/setts/s10/r63w4k4dp18ly4dg50~x2/"><img src="/setts/s10/r63w4k4dp18ly4dg50~x2/sett.png" alt="Gordon of Abergeldie" width="240"><br>Gordon of Abergeldie</a>
 
 ## Other tartans
 

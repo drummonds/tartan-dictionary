@@ -8,7 +8,7 @@ RBKGYGKY
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/ly2k1g8ly2g8k8db11r2~x2/tartan.png)
+![Woven sample](/setts/s8/r2db11k8g8ly2g8k1ly2~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RBKGYGKY
 
 | Tartans |
 |---------------|
-| [Scout Mapping Service #2 (Corporate)](/setts/s8/ly2k1g8ly2g8k8db11r2~x2/)|
-|![Scout Mapping Service #2 (Corporate) example sett](/setts/s8/ly2k1g8ly2g8k8db11r2~x2/sett.png)|
+| [Scout Mapping Service #2 (Corporate)](/setts/s8/r2db11k8g8ly2g8k1ly2~x2/)|
+|![Scout Mapping Service #2 (Corporate) example sett](/setts/s8/r2db11k8g8ly2g8k1ly2~x2/sett.png)|
 

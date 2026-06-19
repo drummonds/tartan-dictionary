@@ -8,7 +8,7 @@ RGKBGKY
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/ly3k36g14p2k2g14r3~x2/tartan.png)
+![Woven sample](/setts/s7/r3g14k2p2g14k36ly3~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RGKBGKY
 
 | Tartans |
 |---------------|
-| [Vipont (Yellow line)](/setts/s7/ly3k36g14p2k2g14r3~x2/)|
-|![Vipont (Yellow line) example sett](/setts/s7/ly3k36g14p2k2g14r3~x2/sett.png)|
+| [Vipont (Yellow line)](/setts/s7/r3g14k2p2g14k36ly3~x2/)|
+|![Vipont (Yellow line) example sett](/setts/s7/r3g14k2p2g14k36ly3~x2/sett.png)|
 

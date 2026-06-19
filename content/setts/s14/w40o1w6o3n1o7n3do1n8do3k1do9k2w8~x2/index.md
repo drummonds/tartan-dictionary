@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10164](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10164)
 
 ## Thread count
-W/16 K4 T18 K2 T6 Na16 T2 Na6 N14 Na2 N6 W12 N2 W/80
+W/80 N2 W12 N6 Na2 N14 Na6 T2 Na16 T6 K2 T18 K4 W/16
 ![Sett](sett.png)
 
 ## Palette
@@ -35,7 +35,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Strathyre Dress (Dance)](/setts/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/) — ΔT 0.92
-1. [Stuart/Stewart Dress Blue](/setts/s11/w72db20ly2db3w2db3y16dy6db2dy5w2~x2/) — ΔT 1.01
+1. [Stuart/Stewart Dress Blue](/setts/s11/w72db20ly2db3w2db3y16dy6db2dy5w2~x2/) — ΔT 1.02
 1. [Stewart dress, Blue](/setts/s11/w72db20ly2db3w2db3y16o6db2o5w2~x2/) — ΔT 1.02
 1. [Stewart Dress, Purple (Dance)](/setts/s10/w55dp12lo2dp3w2g10dp9dp2dp6w2~x2/) — ΔT 1.14
 1. [McGillivray, Pauline (Personal)](/setts/s13/w6t1db1w57t2w2db23w4g30w6t1w6db2~x2/) — ΔT 1.16
@@ -47,8 +47,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/"><circle cx="296.3" cy="62.7" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/setts/s11/w72db20ly2db3w2db3y16dy6db2dy5w2~x2/"><circle cx="313.8" cy="47.9" r="4" fill="#3465a4"><title>Stuart/Stewart Dress Blue</title></circle></a><a href="/setts/s11/w72db20ly2db3w2db3y16o6db2o5w2~x2/"><circle cx="314.3" cy="48.2" r="4" fill="#3465a4"><title>Stewart dress, Blue</title></circle></a><a href="/setts/s10/w55dp12lo2dp3w2g10dp9dp2dp6w2~x2/"><circle cx="295.9" cy="59.3" r="4" fill="#3465a4"><title>Stewart Dress, Purple (Dance)</title></circle></a><a href="/setts/s13/w6t1db1w57t2w2db23w4g30w6t1w6db2~x2/"><circle cx="334.6" cy="51.7" r="4" fill="#3465a4"><title>McGillivray, Pauline (Personal)</title></circle></a><a href="/setts/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/"><circle cx="276.5" cy="63.7" r="4" fill="#3465a4"><title>Rothesay, Duke of</title></circle></a><a href="/setts/s10/w49dg11r2dg3w2dy10m9dg2m6w2~x2/"><circle cx="280.9" cy="72.9" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><a href="/setts/s12/w63k4t9ly2t4ly2t4o11r8t2r4w5~x2/"><circle cx="306.0" cy="34.8" r="4" fill="#3465a4"><title>Seller, Sillar</title></circle></a><a href="/setts/s14/w40o1w6o3lo1o7lo3n1lo8n3k1n9k2w8~x2/"><circle cx="340.7" cy="54.7" r="4" fill="#3465a4"><title>Snowy Owl (Fashion)</title></circle></a><a href="/setts/s12/w63k4lb9ly2lb4ly2lb4dy11r8lb2r4w5~x2/"><circle cx="299.2" cy="27.1" r="4" fill="#3465a4"><title>Seller Dress (Personal)</title></circle></a><circle cx="304.6" cy="35.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/"><circle cx="295.7" cy="62.5" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/setts/s11/w72db20ly2db3w2db3y16dy6db2dy5w2~x2/"><circle cx="313.3" cy="47.7" r="4" fill="#3465a4"><title>Stuart/Stewart Dress Blue</title></circle></a><a href="/setts/s11/w72db20ly2db3w2db3y16o6db2o5w2~x2/"><circle cx="313.8" cy="48.1" r="4" fill="#3465a4"><title>Stewart dress, Blue</title></circle></a><a href="/setts/s10/w55dp12lo2dp3w2g10dp9dp2dp6w2~x2/"><circle cx="295.4" cy="59.1" r="4" fill="#3465a4"><title>Stewart Dress, Purple (Dance)</title></circle></a><a href="/setts/s13/w6t1db1w57t2w2db23w4g30w6t1w6db2~x2/"><circle cx="334.0" cy="51.4" r="4" fill="#3465a4"><title>McGillivray, Pauline (Personal)</title></circle></a><a href="/setts/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/"><circle cx="276.0" cy="63.6" r="4" fill="#3465a4"><title>Rothesay, Duke of</title></circle></a><a href="/setts/s10/w49dg11r2dg3w2dy10m9dg2m6w2~x2/"><circle cx="280.5" cy="72.7" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><a href="/setts/s12/w63k4t9ly2t4ly2t4o11r8t2r4w5~x2/"><circle cx="305.4" cy="34.7" r="4" fill="#3465a4"><title>Seller, Sillar</title></circle></a><a href="/setts/s14/w40o1w6o3lo1o7lo3n1lo8n3k1n9k2w8~x2/"><circle cx="340.0" cy="54.6" r="4" fill="#3465a4"><title>Snowy Owl (Fashion)</title></circle></a><a href="/setts/s12/w63k4lb9ly2lb4ly2lb4dy11r8lb2r4w5~x2/"><circle cx="298.5" cy="27.0" r="4" fill="#3465a4"><title>Seller Dress (Personal)</title></circle></a><circle cx="304.0" cy="35.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/

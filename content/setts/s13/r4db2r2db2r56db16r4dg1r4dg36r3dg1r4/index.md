@@ -2,7 +2,7 @@
 title: "Grant VS"
 date: 2023-03-18
 ---
-**Bands:** [RBRBRBRGRGRGR](/stripes/rbrbrbrgrgrgr/) · **Stripes:** [R DB R DB R DB R DG R DG R DG R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB R DB R DB R DG R DG R DG R</span></span>
+**Bands:** [RGRGRGRBRBRBR](/stripes/rgrgrgrbrbrbr/) · **Stripes:** [R DG R DG R DG R DB R DB R DB R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG R DG R DG R DB R DB R DB R</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -20,18 +20,26 @@ This cloth appears in 2 source records; the oldest owns this page.
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2625](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2625)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
-- Scottish Register of Tartans: [3555](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3555)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 1429
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1429
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
-- Scottish Tartans World Register: 864
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Variants
 
@@ -61,17 +69,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Grant of Rothiemurchus](/setts/s13/r4db2r2db2r56db16r4g1r4g36r3g1r4~x2/) — ΔT 0.97
 1. [Drummond of Megginch - 1820 Plaid](/setts/s15/r26db2r6db6r126lb6r6db38r6dg6r6dg130r19db6r18/) — ΔT 1.05
 1. [MacGillivray - 1819 (Clan)](/setts/s13/r6t1dt1r57t2r2dt23r4g30r6t1r6dt2~x2/) — ΔT 1.08
-1. [Grant](/setts/s15/r6db2r2dg24r2db2r2db8r2lb1r32db2r2db1r6/) — ΔT 1.16
+1. [Grant](/setts/s15/r6db2r2dg24r2db2r2db8r2lb1r32db2r2db1r6~x2/) — ΔT 1.16
 1. [Drummond of Megginch - 1849 Kilt](/setts/s15/r7db1r2db2r35lb2r2db10r2dg2r2dg37r3db2r6~x2/) — ΔT 1.20
 1. [MacGillivray](/setts/s13/r6t1db1r57t2r2db23r4g30r6t1r6db2~x2/) — ΔT 1.23
-1. [MacGillivray](/setts/s13/r4lb1db1r32lb2r2db12r2dg16r4lb1r4db2~x2/) — ΔT 1.27
+1. [MacGillivray](/setts/s13/r4lb1db1r32lb2r2db12r2dg16r4lb1r4db2/) — ΔT 1.27
 1. [Unnamed 18th century plaid from Rothiemurchus](/setts/s13/r1g1r32dp32r8g1r1g1r8g32r32g1r1~x2/) — ΔT 1.29
-1. [Dalzell](/setts/s17/r24lb1db2r4dg32r4db2lb1r4db6r4lb1db2r32dg2r3dg6/) — ΔT 1.31
+1. [Dalzell](/setts/s17/r24lb1db2r4dg32r4db2lb1r4db6r4lb1db2r32dg2r3dg6~x2/) — ΔT 1.31
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r4db2r2db2r56db16r4dg1r4dg36r3dg1r4~x2/"><circle cx="435.2" cy="87.1" r="4" fill="#3465a4"><title>Grant (Vestiarium Scoticum)</title></circle></a><a href="/setts/s13/r4db2r2db2r56db16r4g1r4g36r3g1r4~x2/"><circle cx="440.1" cy="93.3" r="4" fill="#3465a4"><title>Grant of Rothiemurchus</title></circle></a><a href="/setts/s15/r26db2r6db6r126lb6r6db38r6dg6r6dg130r19db6r18/"><circle cx="375.7" cy="67.9" r="4" fill="#3465a4"><title>Drummond of Megginch - 1820 Plaid</title></circle></a><a href="/setts/s13/r6t1dt1r57t2r2dt23r4g30r6t1r6dt2~x2/"><circle cx="413.1" cy="79.3" r="4" fill="#3465a4"><title>MacGillivray - 1819 (Clan)</title></circle></a><a href="/setts/s15/r6db2r2dg24r2db2r2db8r2lb1r32db2r2db1r6/"><circle cx="377.8" cy="84.2" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/setts/s15/r7db1r2db2r35lb2r2db10r2dg2r2dg37r3db2r6~x2/"><circle cx="357.0" cy="78.9" r="4" fill="#3465a4"><title>Drummond of Megginch - 1849 Kilt</title></circle></a><a href="/setts/s13/r6t1db1r57t2r2db23r4g30r6t1r6db2~x2/"><circle cx="391.7" cy="70.1" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/setts/s13/r4lb1db1r32lb2r2db12r2dg16r4lb1r4db2~x2/"><circle cx="365.1" cy="87.6" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/setts/s13/r1g1r32dp32r8g1r1g1r8g32r32g1r1~x2/"><circle cx="392.9" cy="123.4" r="4" fill="#3465a4"><title>Unnamed 18th century plaid from Rothiemurchus</title></circle></a><a href="/setts/s17/r24lb1db2r4dg32r4db2lb1r4db6r4lb1db2r32dg2r3dg6/"><circle cx="381.9" cy="84.1" r="4" fill="#3465a4"><title>Dalzell</title></circle></a><circle cx="424.1" cy="86.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r4db2r2db2r56db16r4dg1r4dg36r3dg1r4~x2/"><circle cx="434.6" cy="86.9" r="4" fill="#3465a4"><title>Grant (Vestiarium Scoticum)</title></circle></a><a href="/setts/s13/r4db2r2db2r56db16r4g1r4g36r3g1r4~x2/"><circle cx="439.5" cy="93.2" r="4" fill="#3465a4"><title>Grant of Rothiemurchus</title></circle></a><a href="/setts/s15/r26db2r6db6r126lb6r6db38r6dg6r6dg130r19db6r18/"><circle cx="375.3" cy="67.8" r="4" fill="#3465a4"><title>Drummond of Megginch - 1820 Plaid</title></circle></a><a href="/setts/s13/r6t1dt1r57t2r2dt23r4g30r6t1r6dt2~x2/"><circle cx="412.6" cy="79.3" r="4" fill="#3465a4"><title>MacGillivray - 1819 (Clan)</title></circle></a><a href="/setts/s15/r6db2r2dg24r2db2r2db8r2lb1r32db2r2db1r6~x2/"><circle cx="377.4" cy="84.1" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/setts/s15/r7db1r2db2r35lb2r2db10r2dg2r2dg37r3db2r6~x2/"><circle cx="356.6" cy="78.9" r="4" fill="#3465a4"><title>Drummond of Megginch - 1849 Kilt</title></circle></a><a href="/setts/s13/r6t1db1r57t2r2db23r4g30r6t1r6db2~x2/"><circle cx="391.3" cy="70.0" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/setts/s13/r4lb1db1r32lb2r2db12r2dg16r4lb1r4db2/"><circle cx="364.7" cy="87.5" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/setts/s13/r1g1r32dp32r8g1r1g1r8g32r32g1r1~x2/"><circle cx="392.4" cy="123.3" r="4" fill="#3465a4"><title>Unnamed 18th century plaid from Rothiemurchus</title></circle></a><a href="/setts/s17/r24lb1db2r4dg32r4db2lb1r4db6r4lb1db2r32dg2r3dg6~x2/"><circle cx="381.4" cy="84.0" r="4" fill="#3465a4"><title>Dalzell</title></circle></a><circle cx="423.6" cy="85.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r4db2r2db2r56db16r4dg1r4dg36r3dg1r4/

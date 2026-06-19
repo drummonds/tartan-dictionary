@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2110
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Lexington Fire Department (Corporate
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -45,12 +51,12 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Broz Sanz Elementary (Corporate)](/setts/s9/k4db1k1db1k1db4r2db4w2~x4/) — ΔT 1.16
+1. [Broz Sanz Elementary (Corporate)](/setts/s9/k4db1k1db1k1db4r2db4w2~x4/) — ΔT 1.17
 1. [Scottish N. A. Business Council (Co](/setts/s10/r2db6dt6db2r2db4dt6r2db2w1~x4/) — ΔT 1.33
 1. [Allianz Deutschland 2012](/setts/s7/n6db3n6db20k20db8w4~x2/) — ΔT 1.42
 1. [Old Brigade](/setts/s6/db9k9r3db9k9ly1~x4/) — ΔT 1.45
 1. [Clergy "Two Spirit" (Personal)](/setts/s11/k1t1db6k6lp1k6t1db2t1db3t1~x2/) — ΔT 1.47
-1. [Hamilton (Personal)](/setts/s10/db3dg3db18r14db5r14db5r14db21dg3~x2/) — ΔT 1.48
+1. [Hamilton (Personal)](/setts/s10/dg3db21r14db5r14db5r14db18dg3db3~x2/) — ΔT 1.48
 1. [Heritage of Scotland](/setts/s7/db6w3db21k16dp6k3dp6~x2/) — ΔT 1.48
 1. [Scottish Express International](/setts/s6/k1db7k4lb1k4p1~x4/) — ΔT 1.49
 1. [St. Johnstone F.C. (Sports)](/setts/s7/k6lb3k8db7lo2db7lb1~x4/) — ΔT 1.51
@@ -58,8 +64,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k4db1k1db1k1db4r2db4w2~x4/"><circle cx="186.5" cy="246.1" r="4" fill="#3465a4"><title>Broz Sanz Elementary (Corporate)</title></circle></a><a href="/setts/s10/r2db6dt6db2r2db4dt6r2db2w1~x4/"><circle cx="199.2" cy="246.8" r="4" fill="#3465a4"><title>Scottish N. A. Business Council (Co</title></circle></a><a href="/setts/s7/n6db3n6db20k20db8w4~x2/"><circle cx="199.5" cy="236.3" r="4" fill="#3465a4"><title>Allianz Deutschland 2012</title></circle></a><a href="/setts/s6/db9k9r3db9k9ly1~x4/"><circle cx="233.4" cy="264.1" r="4" fill="#3465a4"><title>Old Brigade</title></circle></a><a href="/setts/s11/k1t1db6k6lp1k6t1db2t1db3t1~x2/"><circle cx="230.3" cy="222.5" r="4" fill="#3465a4"><title>Clergy &quot;Two Spirit&quot; (Personal)</title></circle></a><a href="/setts/s10/db3dg3db18r14db5r14db5r14db21dg3~x2/"><circle cx="229.7" cy="235.8" r="4" fill="#3465a4"><title>Hamilton (Personal)</title></circle></a><a href="/setts/s7/db6w3db21k16dp6k3dp6~x2/"><circle cx="226.1" cy="236.4" r="4" fill="#3465a4"><title>Heritage of Scotland</title></circle></a><a href="/setts/s6/k1db7k4lb1k4p1~x4/"><circle cx="285.5" cy="257.0" r="4" fill="#3465a4"><title>Scottish Express International</title></circle></a><a href="/setts/s7/k6lb3k8db7lo2db7lb1~x4/"><circle cx="180.5" cy="242.8" r="4" fill="#3465a4"><title>St. Johnstone F.C. (Sports)</title></circle></a><a href="/setts/s7/db6db3db6db20k20db8w4~x2/"><circle cx="235.0" cy="253.3" r="4" fill="#3465a4"><title>Allianz Deutschland 2012 (Corporate)</title></circle></a><circle cx="201.5" cy="268.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k4db1k1db1k1db4r2db4w2~x4/"><circle cx="186.6" cy="246.0" r="4" fill="#3465a4"><title>Broz Sanz Elementary (Corporate)</title></circle></a><a href="/setts/s10/r2db6dt6db2r2db4dt6r2db2w1~x4/"><circle cx="199.3" cy="246.8" r="4" fill="#3465a4"><title>Scottish N. A. Business Council (Co</title></circle></a><a href="/setts/s7/n6db3n6db20k20db8w4~x2/"><circle cx="199.7" cy="236.2" r="4" fill="#3465a4"><title>Allianz Deutschland 2012</title></circle></a><a href="/setts/s6/db9k9r3db9k9ly1~x4/"><circle cx="233.7" cy="264.0" r="4" fill="#3465a4"><title>Old Brigade</title></circle></a><a href="/setts/s11/k1t1db6k6lp1k6t1db2t1db3t1~x2/"><circle cx="230.4" cy="222.5" r="4" fill="#3465a4"><title>Clergy &quot;Two Spirit&quot; (Personal)</title></circle></a><a href="/setts/s10/dg3db21r14db5r14db5r14db18dg3db3~x2/"><circle cx="229.9" cy="235.8" r="4" fill="#3465a4"><title>Hamilton (Personal)</title></circle></a><a href="/setts/s7/db6w3db21k16dp6k3dp6~x2/"><circle cx="226.2" cy="236.4" r="4" fill="#3465a4"><title>Heritage of Scotland</title></circle></a><a href="/setts/s6/k1db7k4lb1k4p1~x4/"><circle cx="285.7" cy="256.9" r="4" fill="#3465a4"><title>Scottish Express International</title></circle></a><a href="/setts/s7/k6lb3k8db7lo2db7lb1~x4/"><circle cx="180.7" cy="242.7" r="4" fill="#3465a4"><title>St. Johnstone F.C. (Sports)</title></circle></a><a href="/setts/s7/db6db3db6db20k20db8w4~x2/"><circle cx="235.2" cy="253.3" r="4" fill="#3465a4"><title>Allianz Deutschland 2012 (Corporate)</title></circle></a><circle cx="201.8" cy="268.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k8db8k2db2w2k5db5r2~x5/

@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3478
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Ruby Ramblers Red Hat
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -42,20 +48,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Drummond - 1819 (Clan)](/setts/s15/r6dp2r2dg24r2dg2r2dp8r2t1r32dp2r2dp1r6~x2/) — ΔT 1.29
-1. [MacPherson Of Cluny](/setts/s11/r3dp1r1dg21r3dp18r35dp1ly1r4dg1~x2/) — ΔT 1.36
+1. [MacPherson Of Cluny](/setts/s11/r3dp1r1dg21r3dp18r35dp1ly1r4dg1/) — ΔT 1.36
 1. [MacGillivray #2](/setts/s13/k6t1dp1r57t2r2dp23r4dg30r6t1r6dp2~x2/) — ΔT 1.39
 1. [Ross, Old](/setts/s14/dp2r1dp1r31dp8r2dp8r3g1r2g1r3g5r2~x2/) — ΔT 1.39
 1. [MacPherson of Cluny](/setts/s11/r5p2r2g42r5p36r70p2ly2r7g2~x2/) — ΔT 1.40
-1. [Inverness](/setts/s14/r36db3w1db6g1k1g1r9g1k1g1db6w1db3~x4/) — ΔT 1.41
-1. [MacGillivray](/setts/s13/r4lb1db1r32lb2r2db12r2dg16r4lb1r4db2~x2/) — ΔT 1.47
+1. [Inverness](/setts/s14/r36db3w1db6g1k1g1r9~x4/) — ΔT 1.41
+1. [MacGillivray](/setts/s13/r4lb1db1r32lb2r2db12r2dg16r4lb1r4db2/) — ΔT 1.47
 1. [Robberstad](/setts/s9/r60b15r4dt10w2dt10w2dt10r4~x2/) — ΔT 1.48
-1. [Grant](/setts/s15/r6db2r2dg24r2db2r2db8r2lb1r32db2r2db1r6/) — ΔT 1.52
+1. [Grant](/setts/s15/r6db2r2dg24r2db2r2db8r2lb1r32db2r2db1r6~x2/) — ΔT 1.52
 1. [MacGillivray](/setts/s13/k6t1p1r57t2r2p23r4g30r6t1r6p2~x2/) — ΔT 1.53
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r6dp2r2dg24r2dg2r2dp8r2t1r32dp2r2dp1r6~x2/"><circle cx="402.6" cy="89.1" r="4" fill="#3465a4"><title>Drummond - 1819 (Clan)</title></circle></a><a href="/setts/s11/r3dp1r1dg21r3dp18r35dp1ly1r4dg1~x2/"><circle cx="369.1" cy="103.5" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/setts/s13/k6t1dp1r57t2r2dp23r4dg30r6t1r6dp2~x2/"><circle cx="356.1" cy="53.5" r="4" fill="#3465a4"><title>MacGillivray #2</title></circle></a><a href="/setts/s14/dp2r1dp1r31dp8r2dp8r3g1r2g1r3g5r2~x2/"><circle cx="472.2" cy="106.7" r="4" fill="#3465a4"><title>Ross, Old</title></circle></a><a href="/setts/s11/r5p2r2g42r5p36r70p2ly2r7g2~x2/"><circle cx="368.8" cy="100.3" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/setts/s14/r36db3w1db6g1k1g1r9g1k1g1db6w1db3~x4/"><circle cx="427.3" cy="51.5" r="4" fill="#3465a4"><title>Inverness</title></circle></a><a href="/setts/s13/r4lb1db1r32lb2r2db12r2dg16r4lb1r4db2~x2/"><circle cx="365.1" cy="87.6" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/setts/s9/r60b15r4dt10w2dt10w2dt10r4~x2/"><circle cx="387.4" cy="111.0" r="4" fill="#3465a4"><title>Robberstad</title></circle></a><a href="/setts/s15/r6db2r2dg24r2db2r2db8r2lb1r32db2r2db1r6/"><circle cx="377.8" cy="84.2" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/setts/s13/k6t1p1r57t2r2p23r4g30r6t1r6p2~x2/"><circle cx="357.7" cy="55.8" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><circle cx="408.3" cy="78.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r6dp2r2dg24r2dg2r2dp8r2t1r32dp2r2dp1r6~x2/"><circle cx="402.0" cy="89.1" r="4" fill="#3465a4"><title>Drummond - 1819 (Clan)</title></circle></a><a href="/setts/s11/r3dp1r1dg21r3dp18r35dp1ly1r4dg1/"><circle cx="368.7" cy="103.5" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/setts/s13/k6t1dp1r57t2r2dp23r4dg30r6t1r6dp2~x2/"><circle cx="355.7" cy="53.5" r="4" fill="#3465a4"><title>MacGillivray #2</title></circle></a><a href="/setts/s14/dp2r1dp1r31dp8r2dp8r3g1r2g1r3g5r2~x2/"><circle cx="471.6" cy="106.6" r="4" fill="#3465a4"><title>Ross, Old</title></circle></a><a href="/setts/s11/r5p2r2g42r5p36r70p2ly2r7g2~x2/"><circle cx="368.3" cy="100.3" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/setts/s14/r36db3w1db6g1k1g1r9~x4/"><circle cx="426.8" cy="51.5" r="4" fill="#3465a4"><title>Inverness</title></circle></a><a href="/setts/s13/r4lb1db1r32lb2r2db12r2dg16r4lb1r4db2/"><circle cx="364.7" cy="87.5" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/setts/s9/r60b15r4dt10w2dt10w2dt10r4~x2/"><circle cx="387.0" cy="110.8" r="4" fill="#3465a4"><title>Robberstad</title></circle></a><a href="/setts/s15/r6db2r2dg24r2db2r2db8r2lb1r32db2r2db1r6~x2/"><circle cx="377.4" cy="84.1" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/setts/s13/k6t1p1r57t2r2p23r4g30r6t1r6p2~x2/"><circle cx="357.2" cy="55.8" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><circle cx="407.8" cy="78.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/k4r2k2r2k2r36k2dp12k2r1k3r2~x2/

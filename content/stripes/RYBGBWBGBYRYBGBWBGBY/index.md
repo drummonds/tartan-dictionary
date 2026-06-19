@@ -22,6 +22,6 @@ RYBGBWBGBYRYBGBWBGBY
 
 | Tartans |
 |---------------|
-| [Hirter Karo](/setts/s20/ly3db18dy15b16w3b16dy15b18ly3r3ly3b18dy15b16w3b16dy15db18ly3r3~x2/)|
-|![Hirter Karo example sett](/setts/s20/ly3db18dy15b16w3b16dy15b18ly3r3ly3b18dy15b16w3b16dy15db18ly3r3~x2/sett.png)|
+| [Hirter Karo](/setts/s20/r3ly3db18dy15b16w3b16dy15b18ly3r3~x2/)|
+|![Hirter Karo example sett](/setts/s20/r3ly3db18dy15b16w3b16dy15b18ly3r3~x2/sett.png)|
 

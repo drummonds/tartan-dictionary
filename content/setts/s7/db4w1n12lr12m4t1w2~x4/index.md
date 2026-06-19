@@ -39,21 +39,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Glen Lyon (Fashion)](/setts/s7/lo3n14k5w1o11db1o3~x4/) — ΔT 1.23
-1. [Allman-Jones (Personal)](/setts/s7/r3w2o7n25k8o15dg2~x2/) — ΔT 1.29
+1. [Glen Lyon (Fashion)](/setts/s7/o3db1o11w1k5n14lo3~x4/) — ΔT 1.23
+1. [Allman-Jones (Personal)](/setts/s7/r3w2o7n25k8o15dg2~x2/) — ΔT 1.30
 1. [Balfour](/setts/s6/db30ly3dy11ly3y33r6~x2/) — ΔT 1.30
 1. [Deeside Plaid (Taobh Dhi) (District)](/setts/s7/ly4b22g4o24dp6o4w3~x2/) — ΔT 1.30
 1. [Balfour](/setts/s6/db30ly3o11ly3y33r6~x2/) — ΔT 1.32
 1. [Thousand Islands](/setts/s10/db20t8lo5k6t4r3t3y30r2t3~x2/) — ΔT 1.32
-1. [State Seal of Michigan (Fashion)](/setts/s6/lb4b38n19lo6do27r4~x2/) — ΔT 1.33
+1. [State Seal of Michigan (Fashion)](/setts/s6/r4do27lo6n19b38lb4~x2/) — ΔT 1.33
 1. [Commonwealth Games 1998 (Corporate)](/setts/s11/g10m2g2m4g16dp16m2t18lo2t8m3~x2/) — ΔT 1.36
 1. [Curd (2013)](/setts/s8/r1g1ly1t9ly3w3lr9t1~x4/) — ΔT 1.39
-1. [Washington DC (Fashion)](/setts/s8/lb5b32o5g6o5r16o39lo5~x2/) — ΔT 1.43
+1. [Washington DC (Fashion)](/setts/s8/lo5o39r16o5g6o5b32lb5~x2/) — ΔT 1.43
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/lo3n14k5w1o11db1o3~x4/"><circle cx="181.6" cy="163.9" r="4" fill="#3465a4"><title>Glen Lyon (Fashion)</title></circle></a><a href="/setts/s7/r3w2o7n25k8o15dg2~x2/"><circle cx="206.3" cy="168.0" r="4" fill="#3465a4"><title>Allman-Jones (Personal)</title></circle></a><a href="/setts/s6/db30ly3dy11ly3y33r6~x2/"><circle cx="214.4" cy="196.7" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/setts/s7/ly4b22g4o24dp6o4w3~x2/"><circle cx="179.4" cy="175.8" r="4" fill="#3465a4"><title>Deeside Plaid (Taobh Dhi) (District)</title></circle></a><a href="/setts/s6/db30ly3o11ly3y33r6~x2/"><circle cx="229.3" cy="204.0" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/setts/s10/db20t8lo5k6t4r3t3y30r2t3~x2/"><circle cx="172.2" cy="133.9" r="4" fill="#3465a4"><title>Thousand Islands</title></circle></a><a href="/setts/s6/lb4b38n19lo6do27r4~x2/"><circle cx="173.7" cy="195.3" r="4" fill="#3465a4"><title>State Seal of Michigan (Fashion)</title></circle></a><a href="/setts/s11/g10m2g2m4g16dp16m2t18lo2t8m3~x2/"><circle cx="142.3" cy="164.2" r="4" fill="#3465a4"><title>Commonwealth Games 1998 (Corporate)</title></circle></a><a href="/setts/s8/r1g1ly1t9ly3w3lr9t1~x4/"><circle cx="165.1" cy="162.4" r="4" fill="#3465a4"><title>Curd (2013)</title></circle></a><a href="/setts/s8/lb5b32o5g6o5r16o39lo5~x2/"><circle cx="216.1" cy="187.4" r="4" fill="#3465a4"><title>Washington DC (Fashion)</title></circle></a><circle cx="164.3" cy="166.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/o3db1o11w1k5n14lo3~x4/"><circle cx="181.5" cy="164.0" r="4" fill="#3465a4"><title>Glen Lyon (Fashion)</title></circle></a><a href="/setts/s7/r3w2o7n25k8o15dg2~x2/"><circle cx="206.2" cy="168.1" r="4" fill="#3465a4"><title>Allman-Jones (Personal)</title></circle></a><a href="/setts/s6/db30ly3dy11ly3y33r6~x2/"><circle cx="214.3" cy="196.8" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/setts/s7/ly4b22g4o24dp6o4w3~x2/"><circle cx="179.4" cy="175.8" r="4" fill="#3465a4"><title>Deeside Plaid (Taobh Dhi) (District)</title></circle></a><a href="/setts/s6/db30ly3o11ly3y33r6~x2/"><circle cx="229.2" cy="204.1" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/setts/s10/db20t8lo5k6t4r3t3y30r2t3~x2/"><circle cx="172.1" cy="134.1" r="4" fill="#3465a4"><title>Thousand Islands</title></circle></a><a href="/setts/s6/r4do27lo6n19b38lb4~x2/"><circle cx="173.8" cy="195.4" r="4" fill="#3465a4"><title>State Seal of Michigan (Fashion)</title></circle></a><a href="/setts/s11/g10m2g2m4g16dp16m2t18lo2t8m3~x2/"><circle cx="142.2" cy="164.3" r="4" fill="#3465a4"><title>Commonwealth Games 1998 (Corporate)</title></circle></a><a href="/setts/s8/r1g1ly1t9ly3w3lr9t1~x4/"><circle cx="164.8" cy="162.6" r="4" fill="#3465a4"><title>Curd (2013)</title></circle></a><a href="/setts/s8/lo5o39r16o5g6o5b32lb5~x2/"><circle cx="215.9" cy="187.6" r="4" fill="#3465a4"><title>Washington DC (Fashion)</title></circle></a><circle cx="164.2" cy="166.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/db4w1n12lr12m4t1w2~x4/

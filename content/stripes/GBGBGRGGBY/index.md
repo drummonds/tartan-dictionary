@@ -18,10 +18,10 @@ GBGBGRGGBY
 
 
 
-### Y DR Y DR Y R Y Y DR LO <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">Y DR Y DR Y R Y Y DR LO</span></span>
+### LO DR Y Y R Y DR Y DR Y <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LO DR Y Y R Y DR Y DR Y</span></span>
 
 | Tartans |
 |---------------|
-| [Leitrim](/setts/s10/lo3dr2y18y3r13y4dr3y4dr18y3~x2/)|
-|![Leitrim example sett](/setts/s10/lo3dr2y18y3r13y4dr3y4dr18y3~x2/sett.png)|
+| [Leitrim](/setts/s10/y3dr18y4dr3y4r13y3y18dr2lo3~x2/)|
+|![Leitrim example sett](/setts/s10/y3dr18y4dr3y4r13y3y18dr2lo3~x2/sett.png)|
 

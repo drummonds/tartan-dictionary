@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,7 +914,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Colquhoun](/setts/s7/r2g8w1k8db8k1db1~x4/) — ΔT 0.63
 1. [Offally](/setts/s10/r7db2g5db18g10db2k24db2g10ly3~x2/) — ΔT 0.67
 1. [MacLeod, Macleod of Harris](/setts/s7/r3k2g15k10db20k2ly2~x2/) — ΔT 0.74
-1. [Unnamed, No 22](/setts/s11/t2k1t1db2g8r2k8db2t1k1t2~x2/) — ΔT 0.81
+1. [Unnamed, No 22](/setts/s11/t2k1t1db2k8r2g8db2t1k1t2~x2/) — ΔT 0.81
 1. [Grant, hunting](/setts/s11/db11k2db2k2db2k11g11r2g3k1ly3~x2/) — ΔT 0.82
 1. [MacLaren](/setts/s11/db22k4db4k4db4k22g22r6g6k2ly3~x2/) — ΔT 0.82
 1. [Biskup](/setts/s10/db12r4db18r2k19g18r4g3ly2g8~x2/) — ΔT 0.87
@@ -920,8 +923,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r6db3r3db32k30g30ly3r3~x2/"><circle cx="138.3" cy="167.3" r="4" fill="#3465a4"><title>MacDonald of Borrodale (Clan)</title></circle></a><a href="/setts/s7/r2g8w1k8db8k1db1~x4/"><circle cx="110.5" cy="192.2" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/setts/s10/r7db2g5db18g10db2k24db2g10ly3~x2/"><circle cx="118.6" cy="160.2" r="4" fill="#3465a4"><title>Offally</title></circle></a><a href="/setts/s7/r3k2g15k10db20k2ly2~x2/"><circle cx="151.3" cy="179.5" r="4" fill="#3465a4"><title>MacLeod, Macleod of Harris</title></circle></a><a href="/setts/s11/t2k1t1db2g8r2k8db2t1k1t2~x2/"><circle cx="104.8" cy="162.5" r="4" fill="#3465a4"><title>Unnamed, No 22</title></circle></a><a href="/setts/s11/db11k2db2k2db2k11g11r2g3k1ly3~x2/"><circle cx="119.8" cy="156.2" r="4" fill="#3465a4"><title>Grant, hunting</title></circle></a><a href="/setts/s11/db22k4db4k4db4k22g22r6g6k2ly3~x2/"><circle cx="127.5" cy="157.0" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/setts/s10/db12r4db18r2k19g18r4g3ly2g8~x2/"><circle cx="116.5" cy="176.9" r="4" fill="#3465a4"><title>Biskup</title></circle></a><a href="/setts/s7/db27g5ly8k20ly3g15r3~x2/"><circle cx="121.3" cy="195.9" r="4" fill="#3465a4"><title>Nelson Mandela (Personal)</title></circle></a><a href="/setts/s7/g17ly2k14r2db9r2db10~x2/"><circle cx="116.5" cy="199.0" r="4" fill="#3465a4"><title>MacDonald, (Flora.. )</title></circle></a><circle cx="114.2" cy="167.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r6db3r3db32k30g30ly3r3~x2/"><circle cx="138.5" cy="167.3" r="4" fill="#3465a4"><title>MacDonald of Borrodale (Clan)</title></circle></a><a href="/setts/s7/r2g8w1k8db8k1db1~x4/"><circle cx="110.8" cy="192.2" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/setts/s10/r7db2g5db18g10db2k24db2g10ly3~x2/"><circle cx="118.8" cy="160.3" r="4" fill="#3465a4"><title>Offally</title></circle></a><a href="/setts/s7/r3k2g15k10db20k2ly2~x2/"><circle cx="151.4" cy="179.5" r="4" fill="#3465a4"><title>MacLeod, Macleod of Harris</title></circle></a><a href="/setts/s11/t2k1t1db2k8r2g8db2t1k1t2~x2/"><circle cx="104.9" cy="162.5" r="4" fill="#3465a4"><title>Unnamed, No 22</title></circle></a><a href="/setts/s11/db11k2db2k2db2k11g11r2g3k1ly3~x2/"><circle cx="119.9" cy="156.3" r="4" fill="#3465a4"><title>Grant, hunting</title></circle></a><a href="/setts/s11/db22k4db4k4db4k22g22r6g6k2ly3~x2/"><circle cx="127.7" cy="157.0" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/setts/s10/db12r4db18r2k19g18r4g3ly2g8~x2/"><circle cx="116.6" cy="176.9" r="4" fill="#3465a4"><title>Biskup</title></circle></a><a href="/setts/s7/db27g5ly8k20ly3g15r3~x2/"><circle cx="121.4" cy="196.0" r="4" fill="#3465a4"><title>Nelson Mandela (Personal)</title></circle></a><a href="/setts/s7/g17ly2k14r2db9r2db10~x2/"><circle cx="116.7" cy="199.0" r="4" fill="#3465a4"><title>MacDonald, (Flora.. )</title></circle></a><circle cx="114.3" cy="167.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r5db3r3db29k29g29w4r4~x2/

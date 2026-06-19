@@ -14,6 +14,5 @@ A family of [Clan Alexander](/clan/alexander/).
 
 <ul class="tartan-grid">
 <li><a class="tartan" href="/setts/s8/g5m2g2m9k9lr9db30w5~x2/"><img src="/setts/s8/g5m2g2m9k9lr9db30w5~x2/sett.png" alt="Alexander of Menstry" width="140"><br>Alexander of Menstry</a></li>
-<li><a class="tartan" href="/setts/s8/m5g2m2g26k9lr9lb13w5~x2/"><img src="/setts/s8/m5g2m2g26k9lr9lb13w5~x2/sett.png" alt="Alexander of Menstry Hunting" width="140"><br>Alexander of Menstry Hunting</a></li>
 </ul>
 

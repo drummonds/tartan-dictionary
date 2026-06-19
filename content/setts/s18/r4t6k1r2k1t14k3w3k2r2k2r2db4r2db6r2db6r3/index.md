@@ -9,6 +9,12 @@ This was sourced from house-of-tartan.  It is a [18 band tartan](/bands/bands18/
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1343
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Royal Canadian Air Force Regimental
+
 ## Variants
 
 Other setts woven to the same stripe pattern.
@@ -39,17 +45,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Royal Canadian Air Force #2](/setts/s16/r3t7k1r2k1t12k4w3k2r1k1r1db3r2db4r2~x2/) — ΔT 0.92
 1. [Royal Canadian Air Force](/setts/s18/m4t6k1m2k1t14k3w3k2m2k2m2db4m2db6m2db6m3/) — ΔT 0.97
 1. [Pride of Loch Leven (Fashion?)](/setts/s19/dg8k1dg1k1dg1k4m10w2m10k3dg3k6dg3k6dg3k3m10w3r4~x2/) — ΔT 1.15
-1. [Graham of Airth](/setts/s18/dp6k2dp6k12dp3k13ly2dg18dp3r3dp3dg18ly2k13dp15r5dp3r5~x2/) — ΔT 1.16
+1. [Graham of Airth](/setts/s18/dp6k2dp6k12dp3k13ly2dg18dp3r3dp3dg18ly2k13dp15r5dp3r5~x2/) — ΔT 1.17
 1. [Royal Canadian Air Force](/setts/s18/dr4b6k1dr2k1b14k3lr3k2dr2k2dr2db4dr2db6dr2db6dr3/) — ΔT 1.18
 1. [Auld Alliance](/setts/s16/w5db1db10db2db4db2db1db2db4db2r15w15db15dp2db1dp4~x2/) — ΔT 1.21
 1. [Royal Canadian Air Force (Military)](/setts/s18/r4lb6k1r2k1lb14k3w3k2r2k2r2db4r2db6r2db6r2~x2/) — ΔT 1.23
 1. [Popular](/setts/s14/t8k16r17db19r4k2t7k3r3k2w5k1r3k3~x2/) — ΔT 1.23
-1. [Scottish Womens Rural Institute (Cor](/setts/s12/db10lo9db11k1db3t1db10lo9db11k1db3t1~x4/) — ΔT 1.27
+1. [Scottish Womens Rural Institute (Cor](/setts/s12/db10lo9db11k1db3t1~x4/) — ΔT 1.27
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/r4t6k1r2k1t14k3w3k2r2k2r2db4r2db6r2db6r2~x2/"><circle cx="116.8" cy="123.3" r="4" fill="#3465a4"><title>Royal Canadian Air Force</title></circle></a><a href="/setts/s16/r3t7k1r2k1t12k4w3k2r1k1r1db3r2db4r2~x2/"><circle cx="150.1" cy="132.2" r="4" fill="#3465a4"><title>Royal Canadian Air Force #2</title></circle></a><a href="/setts/s18/m4t6k1m2k1t14k3w3k2m2k2m2db4m2db6m2db6m3/"><circle cx="111.1" cy="128.4" r="4" fill="#3465a4"><title>Royal Canadian Air Force</title></circle></a><a href="/setts/s19/dg8k1dg1k1dg1k4m10w2m10k3dg3k6dg3k6dg3k3m10w3r4~x2/"><circle cx="121.6" cy="146.5" r="4" fill="#3465a4"><title>Pride of Loch Leven (Fashion?)</title></circle></a><a href="/setts/s18/dp6k2dp6k12dp3k13ly2dg18dp3r3dp3dg18ly2k13dp15r5dp3r5~x2/"><circle cx="123.0" cy="161.6" r="4" fill="#3465a4"><title>Graham of Airth</title></circle></a><a href="/setts/s18/dr4b6k1dr2k1b14k3lr3k2dr2k2dr2db4dr2db6dr2db6dr3/"><circle cx="128.9" cy="141.6" r="4" fill="#3465a4"><title>Royal Canadian Air Force</title></circle></a><a href="/setts/s16/w5db1db10db2db4db2db1db2db4db2r15w15db15dp2db1dp4~x2/"><circle cx="107.6" cy="104.7" r="4" fill="#3465a4"><title>Auld Alliance</title></circle></a><a href="/setts/s18/r4lb6k1r2k1lb14k3w3k2r2k2r2db4r2db6r2db6r2~x2/"><circle cx="106.5" cy="110.1" r="4" fill="#3465a4"><title>Royal Canadian Air Force (Military)</title></circle></a><a href="/setts/s14/t8k16r17db19r4k2t7k3r3k2w5k1r3k3~x2/"><circle cx="129.6" cy="114.6" r="4" fill="#3465a4"><title>Popular</title></circle></a><a href="/setts/s12/db10lo9db11k1db3t1db10lo9db11k1db3t1~x4/"><circle cx="151.4" cy="173.4" r="4" fill="#3465a4"><title>Scottish Womens Rural Institute (Cor</title></circle></a><circle cx="129.3" cy="132.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/r4t6k1r2k1t14k3w3k2r2k2r2db4r2db6r2db6r2~x2/"><circle cx="116.8" cy="123.4" r="4" fill="#3465a4"><title>Royal Canadian Air Force</title></circle></a><a href="/setts/s16/r3t7k1r2k1t12k4w3k2r1k1r1db3r2db4r2~x2/"><circle cx="150.1" cy="132.3" r="4" fill="#3465a4"><title>Royal Canadian Air Force #2</title></circle></a><a href="/setts/s18/m4t6k1m2k1t14k3w3k2m2k2m2db4m2db6m2db6m3/"><circle cx="111.2" cy="128.5" r="4" fill="#3465a4"><title>Royal Canadian Air Force</title></circle></a><a href="/setts/s19/dg8k1dg1k1dg1k4m10w2m10k3dg3k6dg3k6dg3k3m10w3r4~x2/"><circle cx="121.6" cy="146.6" r="4" fill="#3465a4"><title>Pride of Loch Leven (Fashion?)</title></circle></a><a href="/setts/s18/dp6k2dp6k12dp3k13ly2dg18dp3r3dp3dg18ly2k13dp15r5dp3r5~x2/"><circle cx="123.1" cy="161.8" r="4" fill="#3465a4"><title>Graham of Airth</title></circle></a><a href="/setts/s18/dr4b6k1dr2k1b14k3lr3k2dr2k2dr2db4dr2db6dr2db6dr3/"><circle cx="129.1" cy="141.7" r="4" fill="#3465a4"><title>Royal Canadian Air Force</title></circle></a><a href="/setts/s16/w5db1db10db2db4db2db1db2db4db2r15w15db15dp2db1dp4~x2/"><circle cx="107.5" cy="104.8" r="4" fill="#3465a4"><title>Auld Alliance</title></circle></a><a href="/setts/s18/r4lb6k1r2k1lb14k3w3k2r2k2r2db4r2db6r2db6r2~x2/"><circle cx="106.4" cy="110.2" r="4" fill="#3465a4"><title>Royal Canadian Air Force (Military)</title></circle></a><a href="/setts/s14/t8k16r17db19r4k2t7k3r3k2w5k1r3k3~x2/"><circle cx="129.6" cy="114.7" r="4" fill="#3465a4"><title>Popular</title></circle></a><a href="/setts/s12/db10lo9db11k1db3t1~x4/"><circle cx="151.5" cy="173.5" r="4" fill="#3465a4"><title>Scottish Womens Rural Institute (Cor</title></circle></a><circle cx="129.3" cy="132.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s18/r4t6k1r2k1t14k3w3k2r2k2r2db4r2db6r2db6r3/

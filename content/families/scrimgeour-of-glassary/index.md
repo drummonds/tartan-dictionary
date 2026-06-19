@@ -8,5 +8,5 @@ A family of [Clan Scrimgeour](/clan/scrimgeour/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s12/r32k3lo6g10r6k3lo32k3r6g10lo6k3~x2/"><img src="/setts/s12/r32k3lo6g10r6k3lo32k3r6g10lo6k3~x2/sett.png" alt="Scrimgeour of Glassary" width="240"><br>Scrimgeour of Glassary</a>
+<a class="tartan" href="/setts/s12/r32k3lo6g10r6k3lo32~x2/"><img src="/setts/s12/r32k3lo6g10r6k3lo32~x2/sett.png" alt="Scrimgeour of Glassary" width="240"><br>Scrimgeour of Glassary</a>
 

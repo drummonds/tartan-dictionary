@@ -2,7 +2,7 @@
 title: "Sutherland"
 date: 2023-03-18
 ---
-**Bands:** [BBBBBBGBGBBBB](/stripes/bbbbbbgbgbbbb/) · **Stripes:** [T DB T DB T DB G DB G DB T DB T](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">T DB T DB T DB G DB G DB T DB T</span></span>
+**Bands:** [BBBBGBGBBBBBB](/stripes/bbbbgbgbbbbbb/) · **Stripes:** [T DB T DB G DB G DB T DB T DB T](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">T DB T DB G DB G DB T DB T DB T</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -903,7 +906,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Sutherland #3](/setts/s13/t11db1t1db1t1db8dg8db1dg8db8t8db1t1~x2/) — ΔT 0.91
 1. [Montmorency](/setts/s13/db21g2db3g2db2g14o15g4o15g14db14g2db3~x2/) — ΔT 1.02
-1. [Norwich No.017](/setts/s12/t2db1t5db6g2db2g10db2g2db6t5db1~x2/) — ΔT 1.05
+1. [Norwich No.017](/setts/s12/g10db2g2db6t5db1t2~x2/) — ΔT 1.05
 1. [Manx Centenary](/setts/s9/db22g3db3g3db3g9y28g3y6~x2/) — ΔT 1.19
 1. [Montmorency Family Tartan Tartan Number: 103. Earliest known date: pre 2003 Canadian fancy. Presented by Mrs K Sinclair See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/db21g2db3g2db2g14dy15g4dy15g14db14g2db3~x2/) — ΔT 1.33
 1. [Tyneside Scottish (Blue)](/setts/s13/b8dy1b1dy1b1dy8g8dy1g8dy8b8dy1b1~x6/) — ΔT 1.43
@@ -914,8 +917,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/t11db1t1db1t1db8dg8db1dg8db8t8db1t1~x2/"><circle cx="288.7" cy="235.9" r="4" fill="#3465a4"><title>Sutherland #3</title></circle></a><a href="/setts/s13/db21g2db3g2db2g14o15g4o15g14db14g2db3~x2/"><circle cx="269.5" cy="231.0" r="4" fill="#3465a4"><title>Montmorency</title></circle></a><a href="/setts/s12/t2db1t5db6g2db2g10db2g2db6t5db1~x2/"><circle cx="247.4" cy="232.7" r="4" fill="#3465a4"><title>Norwich No.017</title></circle></a><a href="/setts/s9/db22g3db3g3db3g9y28g3y6~x2/"><circle cx="303.8" cy="229.3" r="4" fill="#3465a4"><title>Manx Centenary</title></circle></a><a href="/setts/s13/db21g2db3g2db2g14dy15g4dy15g14db14g2db3~x2/"><circle cx="279.8" cy="238.1" r="4" fill="#3465a4"><title>Montmorency Family Tartan Tartan Number: 103. Earliest known date: pre 2003 Canadian fancy. Presented by Mrs K Sinclair See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/b8dy1b1dy1b1dy8g8dy1g8dy8b8dy1b1~x6/"><circle cx="268.6" cy="246.2" r="4" fill="#3465a4"><title>Tyneside Scottish (Blue)</title></circle></a><a href="/setts/s9/lg22db3lg3db3lg3db9t22db3t6~x2/"><circle cx="247.9" cy="235.0" r="4" fill="#3465a4"><title>Lochearn (Fashion)</title></circle></a><a href="/setts/s13/db11o1db1o1db1o8g8o1g8o8db8o1db1~x2/"><circle cx="271.5" cy="218.1" r="4" fill="#3465a4"><title>Tyneside, Scottish</title></circle></a><a href="/setts/s9/db22g3db3g3db3g9o28g3o6~x2/"><circle cx="279.0" cy="215.2" r="4" fill="#3465a4"><title>Manx Centenary District Tartan Tartan Number: 129. Earliest known date: pre 1992 Sample presented by Dr. D.G. Teall See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/g10db2g2db6t5db1t2~x2/"><circle cx="276.6" cy="258.2" r="4" fill="#3465a4"><title>Unnamed, No 17</title></circle></a><circle cx="267.0" cy="222.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/t11db1t1db1t1db8dg8db1dg8db8t8db1t1~x2/"><circle cx="288.6" cy="236.0" r="4" fill="#3465a4"><title>Sutherland #3</title></circle></a><a href="/setts/s13/db21g2db3g2db2g14o15g4o15g14db14g2db3~x2/"><circle cx="269.4" cy="231.1" r="4" fill="#3465a4"><title>Montmorency</title></circle></a><a href="/setts/s12/g10db2g2db6t5db1t2~x2/"><circle cx="247.4" cy="232.7" r="4" fill="#3465a4"><title>Norwich No.017</title></circle></a><a href="/setts/s9/db22g3db3g3db3g9y28g3y6~x2/"><circle cx="303.7" cy="229.3" r="4" fill="#3465a4"><title>Manx Centenary</title></circle></a><a href="/setts/s13/db21g2db3g2db2g14dy15g4dy15g14db14g2db3~x2/"><circle cx="279.8" cy="238.2" r="4" fill="#3465a4"><title>Montmorency Family Tartan Tartan Number: 103. Earliest known date: pre 2003 Canadian fancy. Presented by Mrs K Sinclair See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/b8dy1b1dy1b1dy8g8dy1g8dy8b8dy1b1~x6/"><circle cx="268.5" cy="246.3" r="4" fill="#3465a4"><title>Tyneside Scottish (Blue)</title></circle></a><a href="/setts/s9/lg22db3lg3db3lg3db9t22db3t6~x2/"><circle cx="247.8" cy="235.0" r="4" fill="#3465a4"><title>Lochearn (Fashion)</title></circle></a><a href="/setts/s13/db11o1db1o1db1o8g8o1g8o8db8o1db1~x2/"><circle cx="271.4" cy="218.1" r="4" fill="#3465a4"><title>Tyneside, Scottish</title></circle></a><a href="/setts/s9/db22g3db3g3db3g9o28g3o6~x2/"><circle cx="278.8" cy="215.1" r="4" fill="#3465a4"><title>Manx Centenary District Tartan Tartan Number: 129. Earliest known date: pre 1992 Sample presented by Dr. D.G. Teall See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/g10db2g2db6t5db1t2~x2/"><circle cx="276.6" cy="258.1" r="4" fill="#3465a4"><title>Unnamed, No 17</title></circle></a><circle cx="266.9" cy="222.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/t11db1t1db1t1db8g8db1g8db8t8db1t1~x2/

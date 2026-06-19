@@ -2,7 +2,7 @@
 title: "T.H.E. C.O.G. USA (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BWRBGY](/stripes/bwrbgy/) · **Stripes:** [DB W R T G LO](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DB W R T G LO</span></span>
+**Bands:** [YGBRWB](/stripes/ygbrwb/) · **Stripes:** [LO G T R W DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">LO G T R W DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/
 Original link http://www.tartansauthority.com/tartan-ferret/display/10286/
 
 ## Thread count
-DB/4 LN4 R4 B36 G72 DY/36
+DY/36 G72 B36 R4 LN4 DB/4
 ![Sett](sett.png)
 
 ## Palette
@@ -27,7 +27,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/4 LN4 R4 B36 G72 DY/36 tartan")
+![Tartan detail](tartan.png "DY/36 G72 B36 R4 LN4 DB/4 tartan")
 
 ## Nearest tartans
 
@@ -46,8 +46,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r3db6ly2db15dg12g39w3~x2/"><circle cx="281.7" cy="156.5" r="4" fill="#3465a4"><title>Wagland</title></circle></a><a href="/setts/s6/g2lo1g12lb6g12r1~x4/"><circle cx="246.5" cy="214.4" r="4" fill="#3465a4"><title>City of Vancouver (Commemorative)</title></circle></a><a href="/setts/s6/g42ly2g16db7dr16r5~x2/"><circle cx="240.6" cy="160.4" r="4" fill="#3465a4"><title>Waterford</title></circle></a><a href="/setts/s8/p4g4dy2w3g27dy30ly1r3~x2/"><circle cx="306.3" cy="129.8" r="4" fill="#3465a4"><title>Hannigan of Dirleton</title></circle></a><a href="/setts/s7/r3db6ly2db15g12dg39w3~x2/"><circle cx="271.9" cy="154.1" r="4" fill="#3465a4"><title>Wagland (Name)</title></circle></a><a href="/setts/s7/r4g14k3m3g12n36w4~x2/"><circle cx="255.7" cy="176.7" r="4" fill="#3465a4"><title>Vipont (White line)</title></circle></a><a href="/setts/s7/k2o30g4w2g14m13ly2~x2/"><circle cx="244.6" cy="155.0" r="4" fill="#3465a4"><title>Red Rum</title></circle></a><a href="/setts/s7/k3r12dy8lo2g36dy10t2~x2/"><circle cx="287.6" cy="153.7" r="4" fill="#3465a4"><title>Snelgrove Htg (Name)</title></circle></a><a href="/setts/s7/g10r3g30y10w2db15r4~x2/"><circle cx="289.4" cy="189.5" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s10/g18w1g4w1lo4g1lo2g12r2g4~x2/"><circle cx="281.1" cy="156.0" r="4" fill="#3465a4"><title>Michigan, State of (District)</title></circle></a><circle cx="269.1" cy="171.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r3db6ly2db15dg12g39w3~x2/"><circle cx="281.6" cy="156.6" r="4" fill="#3465a4"><title>Wagland</title></circle></a><a href="/setts/s6/g2lo1g12lb6g12r1~x4/"><circle cx="246.3" cy="214.5" r="4" fill="#3465a4"><title>City of Vancouver (Commemorative)</title></circle></a><a href="/setts/s6/g42ly2g16db7dr16r5~x2/"><circle cx="240.5" cy="160.5" r="4" fill="#3465a4"><title>Waterford</title></circle></a><a href="/setts/s8/p4g4dy2w3g27dy30ly1r3~x2/"><circle cx="306.1" cy="129.9" r="4" fill="#3465a4"><title>Hannigan of Dirleton</title></circle></a><a href="/setts/s7/r3db6ly2db15g12dg39w3~x2/"><circle cx="271.9" cy="154.2" r="4" fill="#3465a4"><title>Wagland (Name)</title></circle></a><a href="/setts/s7/r4g14k3m3g12n36w4~x2/"><circle cx="255.7" cy="176.8" r="4" fill="#3465a4"><title>Vipont (White line)</title></circle></a><a href="/setts/s7/k2o30g4w2g14m13ly2~x2/"><circle cx="244.4" cy="155.1" r="4" fill="#3465a4"><title>Red Rum</title></circle></a><a href="/setts/s7/k3r12dy8lo2g36dy10t2~x2/"><circle cx="287.5" cy="153.8" r="4" fill="#3465a4"><title>Snelgrove Htg (Name)</title></circle></a><a href="/setts/s7/g10r3g30y10w2db15r4~x2/"><circle cx="289.3" cy="189.5" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s10/g18w1g4w1lo4g1lo2g12r2g4~x2/"><circle cx="280.8" cy="156.1" r="4" fill="#3465a4"><title>Michigan, State of (District)</title></circle></a><circle cx="269.0" cy="171.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/lo9g18t9r1w1db1~x4/

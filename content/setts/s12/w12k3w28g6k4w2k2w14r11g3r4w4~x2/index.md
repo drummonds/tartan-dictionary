@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,13 +913,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Braveheart - Warrior (dress) Universal Tartan Tartan Number: 2236. Earliest known date: pre 2002 Designed by Michael King of Aberdeen to prevent anyone else 'cashing in' on the popularity of the Braveheart film. Never been woven as far as is known. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/w42db6w10k3w3k3w3g15r9w3r4k4~x2/) — ΔT 1.46
 1. [Braveheart Warrior (Dress)](/setts/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/) — ΔT 1.47
 1. [Balmoral Gillies (Royal)](/setts/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/) — ΔT 1.49
-1. [Clackson Arisaid (Name?)](/setts/s7/w24g2w8db5ly4db5ly4~x2/) — ΔT 1.50
+1. [Clackson Arisaid (Name?)](/setts/s7/w24g2w8db5ly4db5ly4~x2/) — ΔT 1.51
 1. [Balmoral](/setts/s13/lr4r2lr11y2k2lr1y1lr1y4lr2k1lr1r1~x2/) — ΔT 1.53
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lb4r2lb11y2k2lb1y1lb1y4lb2k1lb1r1~x2/"><circle cx="288.3" cy="130.5" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s12/w14k3w28g6db4w2db2w14r12g3r4w4~x2/"><circle cx="292.3" cy="112.3" r="4" fill="#3465a4"><title>Grant of Achnarrow Error 1983</title></circle></a><a href="/setts/s15/k4t2w15r6w25t2k4t2w15t4k2t4k2t4k2~x2/"><circle cx="273.1" cy="118.3" r="4" fill="#3465a4"><title>Beck Dress (Personal)</title></circle></a><a href="/setts/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/"><circle cx="285.1" cy="95.2" r="4" fill="#3465a4"><title>Duke of Rothesay (Royal)</title></circle></a><a href="/setts/s13/w2r1w8o2k2w1o1w1o4w2k1w1r1~x4/"><circle cx="242.2" cy="150.5" r="4" fill="#3465a4"><title>Balmoral (Ghillies white variation)</title></circle></a><a href="/setts/s12/w42db6w10k3w3k3w3g15r9w3r4k4~x2/"><circle cx="252.9" cy="89.0" r="4" fill="#3465a4"><title>Braveheart - Warrior (dress) Universal Tartan Tartan Number: 2236. Earliest known date: pre 2002 Designed by Michael King of Aberdeen to prevent anyone else 'cashing in' on the popularity of the Braveheart film. Never been woven as far as is known. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/"><circle cx="247.5" cy="90.3" r="4" fill="#3465a4"><title>Braveheart Warrior (Dress)</title></circle></a><a href="/setts/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/"><circle cx="278.5" cy="132.8" r="4" fill="#3465a4"><title>Balmoral Gillies (Royal)</title></circle></a><a href="/setts/s7/w24g2w8db5ly4db5ly4~x2/"><circle cx="305.0" cy="161.9" r="4" fill="#3465a4"><title>Clackson Arisaid (Name?)</title></circle></a><a href="/setts/s13/lr4r2lr11y2k2lr1y1lr1y4lr2k1lr1r1~x2/"><circle cx="310.2" cy="145.5" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><circle cx="305.8" cy="127.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lb4r2lb11y2k2lb1y1lb1y4lb2k1lb1r1~x2/"><circle cx="287.8" cy="130.2" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s12/w14k3w28g6db4w2db2w14r12g3r4w4~x2/"><circle cx="291.7" cy="112.0" r="4" fill="#3465a4"><title>Grant of Achnarrow Error 1983</title></circle></a><a href="/setts/s15/k4t2w15r6w25t2k4t2w15t4k2t4k2t4k2~x2/"><circle cx="272.6" cy="118.1" r="4" fill="#3465a4"><title>Beck Dress (Personal)</title></circle></a><a href="/setts/s14/r6w56db9w8k16w4k3w4k3w36r36k3r12w3~x2/"><circle cx="284.5" cy="95.0" r="4" fill="#3465a4"><title>Duke of Rothesay (Royal)</title></circle></a><a href="/setts/s13/w2r1w8o2k2w1o1w1o4w2k1w1r1~x4/"><circle cx="241.7" cy="150.3" r="4" fill="#3465a4"><title>Balmoral (Ghillies white variation)</title></circle></a><a href="/setts/s12/w42db6w10k3w3k3w3g15r9w3r4k4~x2/"><circle cx="252.4" cy="88.8" r="4" fill="#3465a4"><title>Braveheart - Warrior (dress) Universal Tartan Tartan Number: 2236. Earliest known date: pre 2002 Designed by Michael King of Aberdeen to prevent anyone else 'cashing in' on the popularity of the Braveheart film. Never been woven as far as is known. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/"><circle cx="247.0" cy="90.1" r="4" fill="#3465a4"><title>Braveheart Warrior (Dress)</title></circle></a><a href="/setts/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/"><circle cx="278.1" cy="132.6" r="4" fill="#3465a4"><title>Balmoral Gillies (Royal)</title></circle></a><a href="/setts/s7/w24g2w8db5ly4db5ly4~x2/"><circle cx="304.5" cy="161.6" r="4" fill="#3465a4"><title>Clackson Arisaid (Name?)</title></circle></a><a href="/setts/s13/lr4r2lr11y2k2lr1y1lr1y4lr2k1lr1r1~x2/"><circle cx="309.8" cy="145.3" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><circle cx="305.3" cy="126.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/w12k3w28g6k4w2k2w14r11g3r4w4~x2/

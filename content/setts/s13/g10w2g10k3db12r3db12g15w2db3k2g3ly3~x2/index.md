@@ -2,7 +2,7 @@
 title: "Greylock"
 date: 2023-03-18
 ---
-**Bands:** [GWGKBRBGWBKGY](/stripes/gwgkbrbgwbkgy/) · **Stripes:** [G W G K DB R DB G W DB K G LY](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G W G K DB R DB G W DB K G LY</span></span>
+**Bands:** [YGKBWGBRBKGWG](/stripes/ygkbwgbrbkgwg/) · **Stripes:** [LY G K DB W G DB R DB K G W G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G K DB W G DB R DB K G W G</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,7 +914,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Scottish Heritage USA (SHUSA) (Corp)](/setts/s15/g3m2g14k6g4w2t14r2t14w2g4k6g14r2g3~x2/) — ΔT 0.81
+1. [Scottish Heritage USA (SHUSA) (Corp)](/setts/s15/g3r2g14k6g4w2t14r2t14w2g4k6g14m2g3~x2/) — ΔT 0.81
 1. [Presbyterian Synod of Living Waters (USA)](/setts/s14/db6r2db6ly3g6k1g2lb2g2k1g6k1g2lb2~x2/) — ΔT 1.00
 1. [Wilson's No.033 #2](/setts/s16/g17t3r3t3k19w2g17r4g17w2k19t3r3t3g17db8~x2/) — ΔT 1.03
 1. [Presbyterian Synod (US) (Corporate)](/setts/s11/db6r2db6ly3g6k1g2lb2g2k1g6~x2/) — ΔT 1.09
@@ -924,8 +927,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/g3m2g14k6g4w2t14r2t14w2g4k6g14r2g3~x2/"><circle cx="162.6" cy="162.8" r="4" fill="#3465a4"><title>Scottish Heritage USA (SHUSA) (Corp)</title></circle></a><a href="/setts/s14/db6r2db6ly3g6k1g2lb2g2k1g6k1g2lb2~x2/"><circle cx="109.6" cy="176.6" r="4" fill="#3465a4"><title>Presbyterian Synod of Living Waters (USA)</title></circle></a><a href="/setts/s16/g17t3r3t3k19w2g17r4g17w2k19t3r3t3g17db8~x2/"><circle cx="180.2" cy="149.2" r="4" fill="#3465a4"><title>Wilson's No.033 #2</title></circle></a><a href="/setts/s11/db6r2db6ly3g6k1g2lb2g2k1g6~x2/"><circle cx="123.3" cy="194.5" r="4" fill="#3465a4"><title>Presbyterian Synod (US) (Corporate)</title></circle></a><a href="/setts/s11/k3g2k12db4g19r3g19db4k12g2ly3~x2/"><circle cx="180.7" cy="158.8" r="4" fill="#3465a4"><title>Loch Lomond Millenium Comemmorative Tartan Tartan Number: 2520. Earliest known date: 2002 Designed by Claire Donaldson of the House of Edgar. The application states that it is restricted to H of E by copyright. However, the fabric is produced by Lochcarron. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/g5db2g14db14r2db14w2g14r2g4ly3~x2/"><circle cx="214.5" cy="191.5" r="4" fill="#3465a4"><title>Hunter of Hunterston (Clan)</title></circle></a><a href="/setts/s16/g17t3r3t3k19ly2g17r4g17ly2k19t3r3t3g17db8~x2/"><circle cx="187.0" cy="152.6" r="4" fill="#3465a4"><title>Wilson's No.033</title></circle></a><a href="/setts/s14/k18w3k18g18t18k2w4k2t18g18k18w3k18r3~x2/"><circle cx="147.1" cy="162.5" r="4" fill="#3465a4"><title>Hislop/Hyslop Hunting</title></circle></a><a href="/setts/s14/g8dg2w2dg6ly2db14g4dg16g16r2g5w2g4dg7/"><circle cx="149.6" cy="167.9" r="4" fill="#3465a4"><title>Scott, hunting special</title></circle></a><a href="/setts/s10/dg14w2db3lg7dg2lg7db3w2dg14t2~x4/"><circle cx="210.1" cy="184.5" r="4" fill="#3465a4"><title>Manx Ellan Vannin</title></circle></a><circle cx="161.4" cy="164.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/g3r2g14k6g4w2t14r2t14w2g4k6g14m2g3~x2/"><circle cx="162.5" cy="162.9" r="4" fill="#3465a4"><title>Scottish Heritage USA (SHUSA) (Corp)</title></circle></a><a href="/setts/s14/db6r2db6ly3g6k1g2lb2g2k1g6k1g2lb2~x2/"><circle cx="109.6" cy="176.7" r="4" fill="#3465a4"><title>Presbyterian Synod of Living Waters (USA)</title></circle></a><a href="/setts/s16/g17t3r3t3k19w2g17r4g17w2k19t3r3t3g17db8~x2/"><circle cx="180.2" cy="149.3" r="4" fill="#3465a4"><title>Wilson's No.033 #2</title></circle></a><a href="/setts/s11/db6r2db6ly3g6k1g2lb2g2k1g6~x2/"><circle cx="123.4" cy="194.6" r="4" fill="#3465a4"><title>Presbyterian Synod (US) (Corporate)</title></circle></a><a href="/setts/s11/k3g2k12db4g19r3g19db4k12g2ly3~x2/"><circle cx="180.7" cy="158.8" r="4" fill="#3465a4"><title>Loch Lomond Millenium Comemmorative Tartan Tartan Number: 2520. Earliest known date: 2002 Designed by Claire Donaldson of the House of Edgar. The application states that it is restricted to H of E by copyright. However, the fabric is produced by Lochcarron. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/g5db2g14db14r2db14w2g14r2g4ly3~x2/"><circle cx="214.5" cy="191.5" r="4" fill="#3465a4"><title>Hunter of Hunterston (Clan)</title></circle></a><a href="/setts/s16/g17t3r3t3k19ly2g17r4g17ly2k19t3r3t3g17db8~x2/"><circle cx="187.0" cy="152.7" r="4" fill="#3465a4"><title>Wilson's No.033</title></circle></a><a href="/setts/s14/k18w3k18g18t18k2w4k2t18g18k18w3k18r3~x2/"><circle cx="147.2" cy="162.5" r="4" fill="#3465a4"><title>Hislop/Hyslop Hunting</title></circle></a><a href="/setts/s14/g8dg2w2dg6ly2db14g4dg16g16r2g5w2g4dg7/"><circle cx="149.6" cy="167.9" r="4" fill="#3465a4"><title>Scott, hunting special</title></circle></a><a href="/setts/s10/dg14w2db3lg7dg2lg7db3w2dg14t2~x4/"><circle cx="210.1" cy="184.4" r="4" fill="#3465a4"><title>Manx Ellan Vannin</title></circle></a><circle cx="161.4" cy="164.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/g10w2g10k3db12r3db12g15w2db3k2g3ly3~x2/

@@ -2,12 +2,18 @@
 title: "Stuart/Stewart variant #2"
 date: 2023-03-18
 ---
-**Bands:** [WGWKWKGRGRW](/stripes/wgwkwkgrgrw/) · **Stripes:** [W DG W K W K DG R DG R W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DG W K W K DG R DG R W</span></span>
+**Bands:** [WRGRGKWKWGW](/stripes/wrgrgkwkwgw/) · **Stripes:** [W R DG R DG K W K W DG W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R DG R DG K W K W DG W</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4028
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Stewart, variant
 
 ## Register references
 
@@ -47,8 +53,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w46g5w1k3w1k5g4r6g2r4w2~x2/"><circle cx="381.2" cy="48.3" r="4" fill="#3465a4"><title>Stewart, variant</title></circle></a><a href="/setts/s10/r2w28db4w2k6w2r4k1r2w1~x2/"><circle cx="363.0" cy="78.3" r="4" fill="#3465a4"><title>Rothesay, Dress (VS)</title></circle></a><a href="/setts/s9/w216k8dg24g24w4k4r45w8r12/"><circle cx="397.6" cy="43.1" r="4" fill="#3465a4"><title>Unidentified Arisaid</title></circle></a><a href="/setts/s11/w102db20w4db4w4db4dg20r18db3r10w4/"><circle cx="340.9" cy="63.1" r="4" fill="#3465a4"><title>Grotto Dove (Dance)</title></circle></a><a href="/setts/s13/w6t1db1w57t2w2db23w4g30w6t1w6db2~x2/"><circle cx="334.6" cy="51.7" r="4" fill="#3465a4"><title>McGillivray, Pauline (Personal)</title></circle></a><a href="/setts/s8/w50k1r12w1g12r13w1r2~x2/"><circle cx="364.6" cy="76.9" r="4" fill="#3465a4"><title>Unidentified, Blanket</title></circle></a><a href="/setts/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/"><circle cx="304.6" cy="35.7" r="4" fill="#3465a4"><title>Snowy Owl</title></circle></a><a href="/setts/s8/w50k1r12w1dg12r13w1r2~x2/"><circle cx="365.2" cy="75.1" r="4" fill="#3465a4"><title>Unidentified Blanket</title></circle></a><a href="/setts/s11/w72db20ly2db3w2db3y16dy6db2dy5w2~x2/"><circle cx="313.8" cy="47.9" r="4" fill="#3465a4"><title>Stuart/Stewart Dress Blue</title></circle></a><a href="/setts/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/"><circle cx="296.3" cy="62.7" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><circle cx="387.0" cy="49.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w46g5w1k3w1k5g4r6g2r4w2~x2/"><circle cx="380.6" cy="48.0" r="4" fill="#3465a4"><title>Stewart, variant</title></circle></a><a href="/setts/s10/r2w28db4w2k6w2r4k1r2w1~x2/"><circle cx="362.4" cy="78.1" r="4" fill="#3465a4"><title>Rothesay, Dress (VS)</title></circle></a><a href="/setts/s9/w216k8dg24g24w4k4r45w8r12/"><circle cx="396.9" cy="42.8" r="4" fill="#3465a4"><title>Unidentified Arisaid</title></circle></a><a href="/setts/s11/w102db20w4db4w4db4dg20r18db3r10w4/"><circle cx="340.3" cy="62.9" r="4" fill="#3465a4"><title>Grotto Dove (Dance)</title></circle></a><a href="/setts/s13/w6t1db1w57t2w2db23w4g30w6t1w6db2~x2/"><circle cx="334.0" cy="51.4" r="4" fill="#3465a4"><title>McGillivray, Pauline (Personal)</title></circle></a><a href="/setts/s8/w50k1r12w1g12r13w1r2~x2/"><circle cx="364.0" cy="76.7" r="4" fill="#3465a4"><title>Unidentified, Blanket</title></circle></a><a href="/setts/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/"><circle cx="304.0" cy="35.5" r="4" fill="#3465a4"><title>Snowy Owl</title></circle></a><a href="/setts/s8/w50k1r12w1dg12r13w1r2~x2/"><circle cx="364.5" cy="74.8" r="4" fill="#3465a4"><title>Unidentified Blanket</title></circle></a><a href="/setts/s11/w72db20ly2db3w2db3y16dy6db2dy5w2~x2/"><circle cx="313.3" cy="47.7" r="4" fill="#3465a4"><title>Stuart/Stewart Dress Blue</title></circle></a><a href="/setts/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/"><circle cx="295.7" cy="62.5" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><circle cx="386.3" cy="49.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/w46dg5w1k3w1k5dg4r6dg2r4w2~x2/

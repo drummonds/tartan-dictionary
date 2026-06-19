@@ -20,7 +20,7 @@ BRYRBG
 
 
 
-### DT O LY O T DY <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">DT O LY O T DY</span></span>
+### DY T O LY O DT <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="seq">DY T O LY O DT</span></span>
 
 | Tartans |
 |---------------|

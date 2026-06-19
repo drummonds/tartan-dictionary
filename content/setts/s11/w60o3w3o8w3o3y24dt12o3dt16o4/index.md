@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3676
 
 ## Thread count
-LT/4 K16 LT3 K12 G24 LT3 LY3 LT8 LY3 LT3 LY/60
+LY/60 LT3 LY3 LT8 LY3 LT3 G24 K12 LT3 K16 LT/4
 ![Sett](sett.png)
 
 ## Palette
@@ -46,16 +46,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Royal Stuart / Stewart](/setts/s11/r3w28k2w2k2w2g12r8k1r1w1~x2/) — ΔT 0.93
 1. [Hughes (USA) (Name)](/setts/s10/b4k12db3b4db3k3ly36db3b2ly3~x2/) — ΔT 0.96
 1. [Waverley Check (Corporate)](/setts/s12/y22w2k3w1k1w1k1w7o5k1o2w1~x4/) — ΔT 1.16
-1. [Scott, dress](/setts/s11/g4r2k1w30r10g14r4g5w2g5r4~x2/) — ΔT 1.18
+1. [Scott, dress](/setts/s11/r4g5w2g5r4g14r10w30k1r2g4~x2/) — ΔT 1.18
 1. [Hohenzollern](/setts/s11/k1w31k4g8r1g2dt7r4k1r4w1~x2/) — ΔT 1.18
-1. [Fiona](/setts/s13/lp16do2lp2o2lp2do24w2o1w1o1w12do1o2~x4/) — ΔT 1.19
+1. [Fiona](/setts/s13/lp16do2lp2o2lp2do24w2o1w1o1w12do1o2~x4/) — ΔT 1.18
 1. [Dogwood](/setts/s8/dg4do10dg10o6do1w26dg2do1~x4/) — ΔT 1.24
 1. [Dogwood](/setts/s8/g3r12g12o5r1w25g2r1~x2/) — ΔT 1.25
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/"><circle cx="271.7" cy="99.3" r="4" fill="#3465a4"><title>Ben Cleuch</title></circle></a><a href="/setts/s10/dg7r3k3w54dg24r5dg5w5dg5r5~x2/"><circle cx="279.8" cy="108.9" r="4" fill="#3465a4"><title>Scott Dress #2</title></circle></a><a href="/setts/s11/r3w28k2w2k2w2g12r8k1r1w1~x2/"><circle cx="290.1" cy="79.1" r="4" fill="#3465a4"><title>Royal Stuart / Stewart</title></circle></a><a href="/setts/s10/b4k12db3b4db3k3ly36db3b2ly3~x2/"><circle cx="270.8" cy="102.8" r="4" fill="#3465a4"><title>Hughes (USA) (Name)</title></circle></a><a href="/setts/s12/y22w2k3w1k1w1k1w7o5k1o2w1~x4/"><circle cx="266.9" cy="89.9" r="4" fill="#3465a4"><title>Waverley Check (Corporate)</title></circle></a><a href="/setts/s11/g4r2k1w30r10g14r4g5w2g5r4~x2/"><circle cx="235.8" cy="101.2" r="4" fill="#3465a4"><title>Scott, dress</title></circle></a><a href="/setts/s11/k1w31k4g8r1g2dt7r4k1r4w1~x2/"><circle cx="247.1" cy="56.7" r="4" fill="#3465a4"><title>Hohenzollern</title></circle></a><a href="/setts/s13/lp16do2lp2o2lp2do24w2o1w1o1w12do1o2~x4/"><circle cx="220.7" cy="81.3" r="4" fill="#3465a4"><title>Fiona</title></circle></a><a href="/setts/s8/dg4do10dg10o6do1w26dg2do1~x4/"><circle cx="218.0" cy="118.3" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/setts/s8/g3r12g12o5r1w25g2r1~x2/"><circle cx="223.3" cy="125.1" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><circle cx="236.9" cy="96.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/"><circle cx="271.1" cy="99.2" r="4" fill="#3465a4"><title>Ben Cleuch</title></circle></a><a href="/setts/s10/dg7r3k3w54dg24r5dg5w5dg5r5~x2/"><circle cx="279.4" cy="108.7" r="4" fill="#3465a4"><title>Scott Dress #2</title></circle></a><a href="/setts/s11/r3w28k2w2k2w2g12r8k1r1w1~x2/"><circle cx="289.5" cy="78.9" r="4" fill="#3465a4"><title>Royal Stuart / Stewart</title></circle></a><a href="/setts/s10/b4k12db3b4db3k3ly36db3b2ly3~x2/"><circle cx="270.4" cy="102.6" r="4" fill="#3465a4"><title>Hughes (USA) (Name)</title></circle></a><a href="/setts/s12/y22w2k3w1k1w1k1w7o5k1o2w1~x4/"><circle cx="266.4" cy="89.8" r="4" fill="#3465a4"><title>Waverley Check (Corporate)</title></circle></a><a href="/setts/s11/r4g5w2g5r4g14r10w30k1r2g4~x2/"><circle cx="235.4" cy="101.1" r="4" fill="#3465a4"><title>Scott, dress</title></circle></a><a href="/setts/s11/k1w31k4g8r1g2dt7r4k1r4w1~x2/"><circle cx="246.7" cy="56.6" r="4" fill="#3465a4"><title>Hohenzollern</title></circle></a><a href="/setts/s13/lp16do2lp2o2lp2do24w2o1w1o1w12do1o2~x4/"><circle cx="220.2" cy="81.3" r="4" fill="#3465a4"><title>Fiona</title></circle></a><a href="/setts/s8/dg4do10dg10o6do1w26dg2do1~x4/"><circle cx="217.7" cy="118.1" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/setts/s8/g3r12g12o5r1w25g2r1~x2/"><circle cx="222.9" cy="124.9" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><circle cx="236.4" cy="96.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/w60o3w3o8w3o3y24dt12o3dt16o4/

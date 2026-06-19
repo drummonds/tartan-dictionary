@@ -18,12 +18,10 @@ YBGBGKGKY
 
 
 
-### LR DB DG DB DG K DG K LY <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LR DB DG DB DG K DG K LY</span></span>
+### LY K DG K DG DB DG DB LR <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">LY K DG K DG DB DG DB LR</span></span>
 
 | Tartans |
 |---------------|
 | [Henderson](/setts/s9/lr1db6dg4db1dg16k1dg4k6ly1~x2/)|
 |![Henderson example sett](/setts/s9/lr1db6dg4db1dg16k1dg4k6ly1~x2/sett.png)|
-| [Henderson](/setts/s9/lr1db6dg4db1dg16k1dg4k6ly1/)|
-|![Henderson example sett](/setts/s9/lr1db6dg4db1dg16k1dg4k6ly1/sett.png)|
 

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,15 +913,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Seller, Sillar](/setts/s12/w63k4t9ly2t4ly2t4o11r8t2r4w5~x2/) — ΔT 1.67
 1. [Seller Dress (Personal)](/setts/s12/w63k4lb9ly2lb4ly2lb4dy11r8lb2r4w5~x2/) — ΔT 1.69
 1. [Stewart Dress (Artefact)](/setts/s13/lb50db6lb2k6ly2k3lb2k3g6r6k2r2lb2~x2/) — ΔT 1.74
-1. [Diana, Plaid dress](/setts/s12/w46r3w7dr2ly2dr2w2dr11o6b2o3w2~x2/) — ΔT 1.74
+1. [Diana, Plaid dress](/setts/s12/w46r3w7dr2ly2dr2w2dr11o6b2o3w2~x2/) — ΔT 1.75
 1. [Druid](/setts/s16/db3t2db3ly2w4ly2k8ly2w4ly2r8ly2w20ly2w62ly2/) — ΔT 1.79
 1. [Snowy Owl](/setts/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/) — ΔT 1.82
 1. [Snowy Owl (Fashion)](/setts/s14/w40o1w6o3lo1o7lo3n1lo8n3k1n9k2w8~x2/) — ΔT 1.84
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s21/w37dy1r4dg6r7w2r3w2r7dg6r4dy1w64dy1r4dg6r7w2r3w2r7~x2/"><circle cx="352.5" cy="14.0" r="4" fill="#3465a4"><title>MacIntosh Blanket</title></circle></a><a href="/setts/s19/t1r3r3w26db3w3g14w36r3r1r3w36db14w2g3w26r3r3t1~x2/"><circle cx="366.4" cy="34.5" r="4" fill="#3465a4"><title>McDougall, Miss Anne (Personal)</title></circle></a><a href="/setts/s16/lr28r1lr4dp12lr2db4ly2db4lr2dp12lr4r1lr48r3w3db3~x2/"><circle cx="397.1" cy="32.5" r="4" fill="#3465a4"><title>Wallenberg, Nicolas Dress (Personal)</title></circle></a><a href="/setts/s12/w63k4t9ly2t4ly2t4o11r8t2r4w5~x2/"><circle cx="306.0" cy="34.8" r="4" fill="#3465a4"><title>Seller, Sillar</title></circle></a><a href="/setts/s12/w63k4lb9ly2lb4ly2lb4dy11r8lb2r4w5~x2/"><circle cx="299.2" cy="27.1" r="4" fill="#3465a4"><title>Seller Dress (Personal)</title></circle></a><a href="/setts/s13/lb50db6lb2k6ly2k3lb2k3g6r6k2r2lb2~x2/"><circle cx="311.6" cy="31.9" r="4" fill="#3465a4"><title>Stewart Dress (Artefact)</title></circle></a><a href="/setts/s12/w46r3w7dr2ly2dr2w2dr11o6b2o3w2~x2/"><circle cx="338.2" cy="43.7" r="4" fill="#3465a4"><title>Diana, Plaid dress</title></circle></a><a href="/setts/s16/db3t2db3ly2w4ly2k8ly2w4ly2r8ly2w20ly2w62ly2/"><circle cx="373.2" cy="14.0" r="4" fill="#3465a4"><title>Druid</title></circle></a><a href="/setts/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/"><circle cx="304.6" cy="35.7" r="4" fill="#3465a4"><title>Snowy Owl</title></circle></a><a href="/setts/s14/w40o1w6o3lo1o7lo3n1lo8n3k1n9k2w8~x2/"><circle cx="340.7" cy="54.7" r="4" fill="#3465a4"><title>Snowy Owl (Fashion)</title></circle></a><circle cx="356.8" cy="14.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s21/w37dy1r4dg6r7w2r3w2r7dg6r4dy1w64dy1r4dg6r7w2r3w2r7~x2/"><circle cx="351.8" cy="14.0" r="4" fill="#3465a4"><title>MacIntosh Blanket</title></circle></a><a href="/setts/s19/t1r3r3w26db3w3g14w36r3r1r3w36db14w2g3w26r3r3t1~x2/"><circle cx="365.7" cy="34.3" r="4" fill="#3465a4"><title>McDougall, Miss Anne (Personal)</title></circle></a><a href="/setts/s16/lr28r1lr4dp12lr2db4ly2db4lr2dp12lr4r1lr48r3w3db3~x2/"><circle cx="396.5" cy="32.4" r="4" fill="#3465a4"><title>Wallenberg, Nicolas Dress (Personal)</title></circle></a><a href="/setts/s12/w63k4t9ly2t4ly2t4o11r8t2r4w5~x2/"><circle cx="305.4" cy="34.7" r="4" fill="#3465a4"><title>Seller, Sillar</title></circle></a><a href="/setts/s12/w63k4lb9ly2lb4ly2lb4dy11r8lb2r4w5~x2/"><circle cx="298.5" cy="27.0" r="4" fill="#3465a4"><title>Seller Dress (Personal)</title></circle></a><a href="/setts/s13/lb50db6lb2k6ly2k3lb2k3g6r6k2r2lb2~x2/"><circle cx="311.1" cy="31.8" r="4" fill="#3465a4"><title>Stewart Dress (Artefact)</title></circle></a><a href="/setts/s12/w46r3w7dr2ly2dr2w2dr11o6b2o3w2~x2/"><circle cx="337.6" cy="43.5" r="4" fill="#3465a4"><title>Diana, Plaid dress</title></circle></a><a href="/setts/s16/db3t2db3ly2w4ly2k8ly2w4ly2r8ly2w20ly2w62ly2/"><circle cx="372.4" cy="14.0" r="4" fill="#3465a4"><title>Druid</title></circle></a><a href="/setts/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/"><circle cx="304.0" cy="35.5" r="4" fill="#3465a4"><title>Snowy Owl</title></circle></a><a href="/setts/s14/w40o1w6o3lo1o7lo3n1lo8n3k1n9k2w8~x2/"><circle cx="340.0" cy="54.6" r="4" fill="#3465a4"><title>Snowy Owl (Fashion)</title></circle></a><circle cx="356.1" cy="14.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s21/w37o1r4dg6r7w2r3w2r7dg6r4o1w64o1r4g6r7w2r3w2r7~x2/

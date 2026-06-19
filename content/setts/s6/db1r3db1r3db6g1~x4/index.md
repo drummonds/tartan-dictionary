@@ -2,7 +2,7 @@
 title: "Robbins"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBG](/stripes/brbrbg/) · **Stripes:** [DB R DB R DB G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB R DB R DB G</span></span>
+**Bands:** [GBRBRB](/stripes/gbrbrb/) · **Stripes:** [G DB R DB R DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G DB R DB R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/4 DR12 B4 DR12 B24 G/4
+G/4 B24 DR12 B4 DR12 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -906,7 +909,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/4 DR12 B4 DR12 B24 G/4 tartan")
+![Tartan detail](tartan.png "G/4 B24 DR12 B4 DR12 B/4 tartan")
 
 ## Nearest tartans
 
@@ -925,8 +928,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db1m3db1m3db6g1~x4/"><circle cx="355.5" cy="280.2" r="4" fill="#3465a4"><title>Robbins Family Tartan Tartan Number: 412. Earliest known date: 1985 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/db13n6r51db51n5~x2/"><circle cx="387.0" cy="267.3" r="4" fill="#3465a4"><title>Hillsdale (Corporate?)</title></circle></a><a href="/setts/s6/r2db13r3db3r16t2~x4/"><circle cx="348.1" cy="244.8" r="4" fill="#3465a4"><title>MacArthur-Fox, dress</title></circle></a><a href="/setts/s5/db16dy2db16dy19r4~x3/"><circle cx="399.4" cy="306.2" r="4" fill="#3465a4"><title>Unidentified #24</title></circle></a><a href="/setts/s6/db1r3db1r3db6g1~x8/"><circle cx="332.3" cy="272.9" r="4" fill="#3465a4"><title>Robbins</title></circle></a><a href="/setts/s5/dr30db10dr3db30m3~x2/"><circle cx="425.1" cy="284.7" r="4" fill="#3465a4"><title>Feniston (Personal)</title></circle></a><a href="/setts/s5/db16o2db16o19r4~x3/"><circle cx="408.3" cy="307.1" r="4" fill="#3465a4"><title>Unidentified 17</title></circle></a><a href="/setts/s6/o15r5o30db32o4ly3~x2/"><circle cx="379.1" cy="245.0" r="4" fill="#3465a4"><title>Cameron, hunting</title></circle></a><a href="/setts/s6/dy34db27r3db27dy34w3~x2/"><circle cx="343.7" cy="254.4" r="4" fill="#3465a4"><title>London Regiment</title></circle></a><a href="/setts/s8/r10db4r4db4r23n19db19n4~x2/"><circle cx="290.6" cy="277.5" r="4" fill="#3465a4"><title>Chindecella Ruadh (Personal)</title></circle></a><circle cx="364.9" cy="287.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db1m3db1m3db6g1~x4/"><circle cx="355.5" cy="280.1" r="4" fill="#3465a4"><title>Robbins Family Tartan Tartan Number: 412. Earliest known date: 1985 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/db13n6r51db51n5~x2/"><circle cx="386.9" cy="267.2" r="4" fill="#3465a4"><title>Hillsdale (Corporate?)</title></circle></a><a href="/setts/s6/r2db13r3db3r16t2~x4/"><circle cx="348.0" cy="244.8" r="4" fill="#3465a4"><title>MacArthur-Fox, dress</title></circle></a><a href="/setts/s5/db16dy2db16dy19r4~x3/"><circle cx="399.4" cy="306.1" r="4" fill="#3465a4"><title>Unidentified #24</title></circle></a><a href="/setts/s6/db1r3db1r3db6g1~x8/"><circle cx="332.3" cy="272.8" r="4" fill="#3465a4"><title>Robbins</title></circle></a><a href="/setts/s5/dr30db10dr3db30m3~x2/"><circle cx="425.0" cy="284.6" r="4" fill="#3465a4"><title>Feniston (Personal)</title></circle></a><a href="/setts/s5/db16o2db16o19r4~x3/"><circle cx="408.2" cy="307.1" r="4" fill="#3465a4"><title>Unidentified 17</title></circle></a><a href="/setts/s6/o15r5o30db32o4ly3~x2/"><circle cx="378.9" cy="245.0" r="4" fill="#3465a4"><title>Cameron, hunting</title></circle></a><a href="/setts/s6/dy34db27r3db27dy34w3~x2/"><circle cx="343.6" cy="254.3" r="4" fill="#3465a4"><title>London Regiment</title></circle></a><a href="/setts/s8/r10db4r4db4r23n19db19n4~x2/"><circle cx="290.6" cy="277.5" r="4" fill="#3465a4"><title>Chindecella Ruadh (Personal)</title></circle></a><circle cx="364.8" cy="287.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db1r3db1r3db6g1~x4/

@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Menzies B/W
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -918,7 +927,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Bargain Booze](/setts/s7/k75lb6k5lb18k2lb2k3~x2/) — ΔT 1.14
+1. [Bargain Booze](/setts/s7/k75lb6k5lb18k2lb2k3~x2/) — ΔT 1.15
 1. [Royal Stewart B & W (Universal?)](/setts/s11/k36w4k6w1k1w1k1w8k4w1k6~x2/) — ΔT 1.38
 1. [Stuart/Stewart Mourning](/setts/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/) — ΔT 1.43
 1. [Mull Rugby Club](/setts/s8/k44r2w10r3k6r1w2k18~x2/) — ΔT 1.50
@@ -931,8 +940,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k75lb6k5lb18k2lb2k3~x2/"><circle cx="548.6" cy="148.5" r="4" fill="#3465a4"><title>Bargain Booze</title></circle></a><a href="/setts/s11/k36w4k6w1k1w1k1w8k4w1k6~x2/"><circle cx="537.5" cy="125.5" r="4" fill="#3465a4"><title>Royal Stewart B &amp; W (Universal?)</title></circle></a><a href="/setts/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/"><circle cx="481.2" cy="138.0" r="4" fill="#3465a4"><title>Stuart/Stewart Mourning</title></circle></a><a href="/setts/s8/k44r2w10r3k6r1w2k18~x2/"><circle cx="528.8" cy="132.3" r="4" fill="#3465a4"><title>Mull Rugby Club</title></circle></a><a href="/setts/s8/k36w4k3w4k6w2k1w12~x4/"><circle cx="452.4" cy="140.6" r="4" fill="#3465a4"><title>Menzies (1938)</title></circle></a><a href="/setts/s6/k24o11k5o5k1o2~x4/"><circle cx="412.3" cy="200.0" r="4" fill="#3465a4"><title>Black Isle Corporate Tartan Tartan Number: 6183. Earliest known date: 15/07/2003 Designed for Black Isle Pewter Limited by Robert Howarth Guibal of Black Isle Pewter. Threadcount taken from a Marton Mills swatch book. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/k38lo1w7lo1k4lo2k3lo2~x2/"><circle cx="531.1" cy="120.6" r="4" fill="#3465a4"><title>Erck, Georges van (Personal),</title></circle></a><a href="/setts/s8/k20w1k1w3k1r1k1w1~x4/"><circle cx="526.6" cy="142.4" r="4" fill="#3465a4"><title>Volkswagen Black Trim (Fashion)</title></circle></a><a href="/setts/s9/k50w3k3r4w3r3w5r3k3~x2/"><circle cx="459.2" cy="134.7" r="4" fill="#3465a4"><title>Tweedside Variation (silk sample)</title></circle></a><a href="/setts/s10/k4w14k2w4k8w3k30w2k4w4~x2/"><circle cx="384.3" cy="175.2" r="4" fill="#3465a4"><title>Kinloch Anderson Black and White</title></circle></a><circle cx="479.6" cy="150.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k75lb6k5lb18k2lb2k3~x2/"><circle cx="548.3" cy="148.0" r="4" fill="#3465a4"><title>Bargain Booze</title></circle></a><a href="/setts/s11/k36w4k6w1k1w1k1w8k4w1k6~x2/"><circle cx="537.2" cy="125.0" r="4" fill="#3465a4"><title>Royal Stewart B &amp; W (Universal?)</title></circle></a><a href="/setts/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/"><circle cx="480.8" cy="137.5" r="4" fill="#3465a4"><title>Stuart/Stewart Mourning</title></circle></a><a href="/setts/s8/k44r2w10r3k6r1w2k18~x2/"><circle cx="528.5" cy="131.9" r="4" fill="#3465a4"><title>Mull Rugby Club</title></circle></a><a href="/setts/s8/k36w4k3w4k6w2k1w12~x4/"><circle cx="452.1" cy="140.1" r="4" fill="#3465a4"><title>Menzies (1938)</title></circle></a><a href="/setts/s6/k24o11k5o5k1o2~x4/"><circle cx="412.3" cy="199.6" r="4" fill="#3465a4"><title>Black Isle Corporate Tartan Tartan Number: 6183. Earliest known date: 15/07/2003 Designed for Black Isle Pewter Limited by Robert Howarth Guibal of Black Isle Pewter. Threadcount taken from a Marton Mills swatch book. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/k38lo1w7lo1k4lo2k3lo2~x2/"><circle cx="530.8" cy="120.2" r="4" fill="#3465a4"><title>Erck, Georges van (Personal),</title></circle></a><a href="/setts/s8/k20w1k1w3k1r1k1w1~x4/"><circle cx="526.3" cy="141.9" r="4" fill="#3465a4"><title>Volkswagen Black Trim (Fashion)</title></circle></a><a href="/setts/s9/k50w3k3r4w3r3w5r3k3~x2/"><circle cx="458.9" cy="134.4" r="4" fill="#3465a4"><title>Tweedside Variation (silk sample)</title></circle></a><a href="/setts/s10/k4w14k2w4k8w3k30w2k4w4~x2/"><circle cx="384.1" cy="174.8" r="4" fill="#3465a4"><title>Kinloch Anderson Black and White</title></circle></a><circle cx="479.5" cy="149.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k32w4k2w4k4w2k1w6~x2/

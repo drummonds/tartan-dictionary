@@ -2,7 +2,7 @@
 title: "Bouguet, Adrian (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [WBWYGWGYBYW](/stripes/wbwygwgybyw/) · **Stripes:** [LB T LB LR DG LB DG LR T LR W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LB T LB LR DG LB DG LR T LR W</span></span>
+**Bands:** [WYBYGWGYWBW](/stripes/wybygwgywbw/) · **Stripes:** [W LR T LR DG LB DG LR LB T LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">W LR T LR DG LB DG LR LB T LB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
@@ -35,21 +35,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Seaside](/setts/s12/w3lb2p4lb14n2t14lo2t14n2lb14p4lb2~x4/) — ΔT 1.11
-1. [Curd (2013)](/setts/s8/r1g1ly1t9ly3w3lr9t1~x4/) — ΔT 1.38
+1. [Seaside](/setts/s12/w3lb2p4lb14n2t14lo2~x4/) — ΔT 1.11
+1. [Curd (2013)](/setts/s8/r1g1ly1t9ly3w3lr9t1~x4/) — ΔT 1.37
 1. [Seaside (Fashion)](/setts/s7/w3lb2p4lb14n2t14lo2~x4/) — ΔT 1.42
 1. [Mounth, The](/setts/s9/dp2g13b12w3b10w3b12o13g2~x2/) — ΔT 1.68
-1. [Kinloch Anderson, Romance of](/setts/s12/lg6lb6lg4lb22m10lp5m10lr4lp6lr4lp22p6/) — ΔT 1.74
+1. [Kinloch Anderson, Romance of](/setts/s12/p6lp22lr4lp6lr4m10lp5m10lb22lg4lb6lg6/) — ΔT 1.74
 1. [Shedor (2013)](/setts/s18/lb25g3lb4g4lb5g5lb15r6lb5g19lb8g26lb4w4lb4g7lb4t21~x2/) — ΔT 1.77
 1. [Peter Rabbit (Corporate)](/setts/s10/lo7g2w2lb5w3lb7w5lb14w5r5~x2/) — ΔT 1.77
-1. [Washington DC (Fashion)](/setts/s8/lb5b32o5g6o5r16o39lo5~x2/) — ΔT 1.80
+1. [Washington DC (Fashion)](/setts/s8/lo5o39r16o5g6o5b32lb5~x2/) — ΔT 1.80
 1. [Atikokan (District)](/setts/s7/lo6t16lb3y3o3g3w2~x4/) — ΔT 1.80
 1. [Organic](/setts/s9/y25p3y8p13ly8lr2ly11y2p3~x2/) — ΔT 1.82
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w3lb2p4lb14n2t14lo2t14n2lb14p4lb2~x4/"><circle cx="178.7" cy="167.3" r="4" fill="#3465a4"><title>Seaside</title></circle></a><a href="/setts/s8/r1g1ly1t9ly3w3lr9t1~x4/"><circle cx="165.1" cy="162.4" r="4" fill="#3465a4"><title>Curd (2013)</title></circle></a><a href="/setts/s7/w3lb2p4lb14n2t14lo2~x4/"><circle cx="166.9" cy="181.0" r="4" fill="#3465a4"><title>Seaside (Fashion)</title></circle></a><a href="/setts/s9/dp2g13b12w3b10w3b12o13g2~x2/"><circle cx="194.2" cy="221.9" r="4" fill="#3465a4"><title>Mounth, The</title></circle></a><a href="/setts/s12/lg6lb6lg4lb22m10lp5m10lr4lp6lr4lp22p6/"><circle cx="107.3" cy="184.6" r="4" fill="#3465a4"><title>Kinloch Anderson, Romance of</title></circle></a><a href="/setts/s18/lb25g3lb4g4lb5g5lb15r6lb5g19lb8g26lb4w4lb4g7lb4t21~x2/"><circle cx="229.3" cy="169.9" r="4" fill="#3465a4"><title>Shedor (2013)</title></circle></a><a href="/setts/s10/lo7g2w2lb5w3lb7w5lb14w5r5~x2/"><circle cx="225.3" cy="221.6" r="4" fill="#3465a4"><title>Peter Rabbit (Corporate)</title></circle></a><a href="/setts/s8/lb5b32o5g6o5r16o39lo5~x2/"><circle cx="216.1" cy="187.4" r="4" fill="#3465a4"><title>Washington DC (Fashion)</title></circle></a><a href="/setts/s7/lo6t16lb3y3o3g3w2~x4/"><circle cx="168.2" cy="167.4" r="4" fill="#3465a4"><title>Atikokan (District)</title></circle></a><a href="/setts/s9/y25p3y8p13ly8lr2ly11y2p3~x2/"><circle cx="270.1" cy="190.4" r="4" fill="#3465a4"><title>Organic</title></circle></a><circle cx="153.2" cy="186.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w3lb2p4lb14n2t14lo2~x4/"><circle cx="178.4" cy="167.4" r="4" fill="#3465a4"><title>Seaside</title></circle></a><a href="/setts/s8/r1g1ly1t9ly3w3lr9t1~x4/"><circle cx="164.8" cy="162.6" r="4" fill="#3465a4"><title>Curd (2013)</title></circle></a><a href="/setts/s7/w3lb2p4lb14n2t14lo2~x4/"><circle cx="166.7" cy="181.1" r="4" fill="#3465a4"><title>Seaside (Fashion)</title></circle></a><a href="/setts/s9/dp2g13b12w3b10w3b12o13g2~x2/"><circle cx="194.2" cy="222.0" r="4" fill="#3465a4"><title>Mounth, The</title></circle></a><a href="/setts/s12/p6lp22lr4lp6lr4m10lp5m10lb22lg4lb6lg6/"><circle cx="107.0" cy="184.9" r="4" fill="#3465a4"><title>Kinloch Anderson, Romance of</title></circle></a><a href="/setts/s18/lb25g3lb4g4lb5g5lb15r6lb5g19lb8g26lb4w4lb4g7lb4t21~x2/"><circle cx="228.9" cy="170.0" r="4" fill="#3465a4"><title>Shedor (2013)</title></circle></a><a href="/setts/s10/lo7g2w2lb5w3lb7w5lb14w5r5~x2/"><circle cx="224.9" cy="221.6" r="4" fill="#3465a4"><title>Peter Rabbit (Corporate)</title></circle></a><a href="/setts/s8/lo5o39r16o5g6o5b32lb5~x2/"><circle cx="215.9" cy="187.6" r="4" fill="#3465a4"><title>Washington DC (Fashion)</title></circle></a><a href="/setts/s7/lo6t16lb3y3o3g3w2~x4/"><circle cx="168.0" cy="167.5" r="4" fill="#3465a4"><title>Atikokan (District)</title></circle></a><a href="/setts/s9/y25p3y8p13ly8lr2ly11y2p3~x2/"><circle cx="269.8" cy="190.4" r="4" fill="#3465a4"><title>Organic</title></circle></a><circle cx="153.0" cy="186.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/lb14t9lb14lr4dg3lb3dg3lr4t14lr2w3~x2/

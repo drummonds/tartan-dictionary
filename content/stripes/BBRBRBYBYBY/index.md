@@ -18,7 +18,7 @@ BBRBRBYBYBY
 
 
 
-### DP DO R DO R DO LO DO LO DO LO <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DP DO R DO R DO LO DO LO DO LO</span></span>
+### LO DO LO DO LO DO R DO R DO DP <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LO DO LO DO LO DO R DO R DO DP</span></span>
 
 | Tartans |
 |---------------|

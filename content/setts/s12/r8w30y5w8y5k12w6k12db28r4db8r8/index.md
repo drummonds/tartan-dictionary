@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 3018
 
 ## Thread count
-DR/8 DB8 DR4 DB28 K12 W6 K12 N5 W8 N5 W30 DR/8
+DR/8 W30 N5 W8 N5 K12 W6 K12 DB28 DR4 DB8 DR/8
 ![Sett](sett.png)
 
 ## Palette
@@ -35,12 +35,12 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Cameron of Erracht Dress](/setts/s11/ly2k2r2db10r1k9w9r2w2r1w2~x2/) — ΔT 0.78
-1. [Andreou Family (Personal)](/setts/s11/ly1k2r1k2db8k2r1k2w8k2r1~x4/) — ΔT 0.83
+1. [Cameron of Erracht Dress](/setts/s11/w2r1w2r2w9k9r1db10r2k2ly2~x2/) — ΔT 0.78
+1. [Andreou Family (Personal)](/setts/s11/r1k2w8k2r1k2db8k2r1k2ly1~x4/) — ΔT 0.83
 1. [Kervegant, Suzanne (Personal)](/setts/s10/g6db11lb8k4lb8r4lb8k27lb4r4~x2/) — ΔT 0.89
 1. [Unidentified #11](/setts/s15/db2k1db6k1r5ly3r5k2w3k2w9k1w2k1ly2~x2/) — ΔT 0.94
 1. [Oliver Dress (Dance)](/setts/s16/g1r1g1r1db7r6w7k1w7r6db7r1g1r1g1w1~x4/) — ΔT 0.96
-1. [Stirling, Bannockburn dress](/setts/s10/ly5w3t28r5k21r5t3r5w28r5~x2/) — ΔT 0.99
+1. [Stirling, Bannockburn dress](/setts/s10/r5w28r5t3r5k21r5t28w3ly5~x2/) — ΔT 0.99
 1. [Merchiston Castle School Pipe Band](/setts/s11/k12w6k6w6r4w13k3w4k8db24r3~x2/) — ΔT 1.02
 1. [Oliver Dress (Dance)](/setts/s9/k1w7r6db7r1g1r1g1w1~x4/) — ΔT 1.02
 1. [Edinburgh Military Tattoo (Dance)](/setts/s14/k4r6db3r16t18w4k4w4k4w4k4w4db18r4~x2/) — ΔT 1.02
@@ -48,8 +48,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/ly2k2r2db10r1k9w9r2w2r1w2~x2/"><circle cx="88.1" cy="130.2" r="4" fill="#3465a4"><title>Cameron of Erracht Dress</title></circle></a><a href="/setts/s11/ly1k2r1k2db8k2r1k2w8k2r1~x4/"><circle cx="105.0" cy="145.0" r="4" fill="#3465a4"><title>Andreou Family (Personal)</title></circle></a><a href="/setts/s10/g6db11lb8k4lb8r4lb8k27lb4r4~x2/"><circle cx="108.2" cy="168.6" r="4" fill="#3465a4"><title>Kervegant, Suzanne (Personal)</title></circle></a><a href="/setts/s15/db2k1db6k1r5ly3r5k2w3k2w9k1w2k1ly2~x2/"><circle cx="61.9" cy="134.3" r="4" fill="#3465a4"><title>Unidentified #11</title></circle></a><a href="/setts/s16/g1r1g1r1db7r6w7k1w7r6db7r1g1r1g1w1~x4/"><circle cx="88.3" cy="130.5" r="4" fill="#3465a4"><title>Oliver Dress (Dance)</title></circle></a><a href="/setts/s10/ly5w3t28r5k21r5t3r5w28r5~x2/"><circle cx="82.2" cy="134.9" r="4" fill="#3465a4"><title>Stirling, Bannockburn dress</title></circle></a><a href="/setts/s11/k12w6k6w6r4w13k3w4k8db24r3~x2/"><circle cx="105.8" cy="172.9" r="4" fill="#3465a4"><title>Merchiston Castle School Pipe Band</title></circle></a><a href="/setts/s9/k1w7r6db7r1g1r1g1w1~x4/"><circle cx="95.6" cy="150.3" r="4" fill="#3465a4"><title>Oliver Dress (Dance)</title></circle></a><a href="/setts/s14/k4r6db3r16t18w4k4w4k4w4k4w4db18r4~x2/"><circle cx="43.8" cy="150.8" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo (Dance)</title></circle></a><a href="/setts/s11/db10k2g2r2g2k2w2k2w4k1w2~x4/"><circle cx="93.6" cy="148.1" r="4" fill="#3465a4"><title>Highfield Dress (Name)</title></circle></a><circle cx="66.5" cy="151.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w2r1w2r2w9k9r1db10r2k2ly2~x2/"><circle cx="88.0" cy="130.2" r="4" fill="#3465a4"><title>Cameron of Erracht Dress</title></circle></a><a href="/setts/s11/r1k2w8k2r1k2db8k2r1k2ly1~x4/"><circle cx="105.0" cy="145.0" r="4" fill="#3465a4"><title>Andreou Family (Personal)</title></circle></a><a href="/setts/s10/g6db11lb8k4lb8r4lb8k27lb4r4~x2/"><circle cx="108.2" cy="168.6" r="4" fill="#3465a4"><title>Kervegant, Suzanne (Personal)</title></circle></a><a href="/setts/s15/db2k1db6k1r5ly3r5k2w3k2w9k1w2k1ly2~x2/"><circle cx="61.8" cy="134.3" r="4" fill="#3465a4"><title>Unidentified #11</title></circle></a><a href="/setts/s16/g1r1g1r1db7r6w7k1w7r6db7r1g1r1g1w1~x4/"><circle cx="88.2" cy="130.5" r="4" fill="#3465a4"><title>Oliver Dress (Dance)</title></circle></a><a href="/setts/s10/r5w28r5t3r5k21r5t28w3ly5~x2/"><circle cx="82.1" cy="134.9" r="4" fill="#3465a4"><title>Stirling, Bannockburn dress</title></circle></a><a href="/setts/s11/k12w6k6w6r4w13k3w4k8db24r3~x2/"><circle cx="105.8" cy="172.9" r="4" fill="#3465a4"><title>Merchiston Castle School Pipe Band</title></circle></a><a href="/setts/s9/k1w7r6db7r1g1r1g1w1~x4/"><circle cx="95.5" cy="150.3" r="4" fill="#3465a4"><title>Oliver Dress (Dance)</title></circle></a><a href="/setts/s14/k4r6db3r16t18w4k4w4k4w4k4w4db18r4~x2/"><circle cx="43.8" cy="150.9" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo (Dance)</title></circle></a><a href="/setts/s11/db10k2g2r2g2k2w2k2w4k1w2~x4/"><circle cx="93.7" cy="148.1" r="4" fill="#3465a4"><title>Highfield Dress (Name)</title></circle></a><circle cx="66.5" cy="151.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r8w30y5w8y5k12w6k12db28r4db8r8/

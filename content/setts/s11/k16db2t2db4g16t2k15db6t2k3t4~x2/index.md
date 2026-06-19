@@ -2,7 +2,7 @@
 title: "Wilson's, No 157"
 date: 2023-03-18
 ---
-**Bands:** [BKBBKBGBBBK](/stripes/bkbbkbgbbbk/) · **Stripes:** [T K T DB K T G DB T DB K](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">T K T DB K T G DB T DB K</span></span>
+**Bands:** [KBBBGBKBBKB](/stripes/kbbbgbkbbkb/) · **Stripes:** [K DB T DB G T K DB T K T](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K DB T DB G T K DB T K T</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-Ba/8 K6 Ba4 B12 K30 Ba4 G32 B8 Ba4 B4 K/32
+K/32 B4 Ba4 B8 G32 Ba4 K30 B12 Ba4 K6 Ba/8
 ![Sett](sett.png)
 
 ## Palette
@@ -905,7 +908,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Forbes](/setts/s9/db8k2db2k2db2k8g7k1w1~x2/) — ΔT 0.86
 1. [Wilson's, No 30](/setts/s11/k16db2t2db4g16ly2k15db6t2k3t4~x2/) — ΔT 0.87
 1. [Guthrie](/setts/s9/k1g8k9r1k1r1k9db8r1~x6/) — ΔT 0.88
-1. [Davidson](/setts/s11/r1db6g1db1g6k1g6k1g1k6r1~x4/) — ΔT 0.99
+1. [Davidson](/setts/s11/r1k6g1k1g6k1g6db1g1db6r1~x4/) — ΔT 0.99
 1. [Forbes](/setts/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/) — ΔT 1.05
 1. [Stephenson, hunting](/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/) — ΔT 1.06
 1. [Safeway](/setts/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/) — ΔT 1.10
@@ -915,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db8k2db2k2db2k8g7k1w1~x2/"><circle cx="171.3" cy="206.6" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s11/k16db2t2db4g16ly2k15db6t2k3t4~x2/"><circle cx="170.4" cy="172.8" r="4" fill="#3465a4"><title>Wilson's, No 30</title></circle></a><a href="/setts/s9/k1g8k9r1k1r1k9db8r1~x6/"><circle cx="233.0" cy="197.2" r="4" fill="#3465a4"><title>Guthrie</title></circle></a><a href="/setts/s11/r1db6g1db1g6k1g6k1g1k6r1~x4/"><circle cx="175.3" cy="201.9" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/setts/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/"><circle cx="155.8" cy="181.3" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="149.4" cy="183.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/"><circle cx="166.2" cy="172.9" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/setts/s10/db9k9db9r2k18g12r2g4r2g4~x2/"><circle cx="149.7" cy="201.9" r="4" fill="#3465a4"><title>Newlands</title></circle></a><a href="/setts/s10/k14t2db6g7r2k14db6t2db2t4~x2/"><circle cx="166.7" cy="193.8" r="4" fill="#3465a4"><title>Unidentified 13</title></circle></a><a href="/setts/s13/db56k6g24k6db8k21ly6k21db8k6g24k6db56/"><circle cx="241.5" cy="179.0" r="4" fill="#3465a4"><title>Murray of Elibank</title></circle></a><circle cx="192.4" cy="190.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db8k2db2k2db2k8g7k1w1~x2/"><circle cx="171.5" cy="206.5" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s11/k16db2t2db4g16ly2k15db6t2k3t4~x2/"><circle cx="170.6" cy="172.8" r="4" fill="#3465a4"><title>Wilson's, No 30</title></circle></a><a href="/setts/s9/k1g8k9r1k1r1k9db8r1~x6/"><circle cx="233.2" cy="197.0" r="4" fill="#3465a4"><title>Guthrie</title></circle></a><a href="/setts/s11/r1k6g1k1g6k1g6db1g1db6r1~x4/"><circle cx="175.5" cy="201.8" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/setts/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/"><circle cx="156.0" cy="181.3" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="149.6" cy="183.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/"><circle cx="166.3" cy="172.9" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/setts/s10/db9k9db9r2k18g12r2g4r2g4~x2/"><circle cx="149.9" cy="201.9" r="4" fill="#3465a4"><title>Newlands</title></circle></a><a href="/setts/s10/k14t2db6g7r2k14db6t2db2t4~x2/"><circle cx="166.9" cy="193.8" r="4" fill="#3465a4"><title>Unidentified 13</title></circle></a><a href="/setts/s13/db56k6g24k6db8k21ly6k21db8k6g24k6db56/"><circle cx="241.6" cy="178.9" r="4" fill="#3465a4"><title>Murray of Elibank</title></circle></a><circle cx="192.6" cy="190.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k16db2t2db4g16t2k15db6t2k3t4~x2/

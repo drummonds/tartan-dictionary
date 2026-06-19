@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- 13, Legion Branch 50
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -918,16 +927,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Moffat (1950)](/setts/s10/r64db16r1db1r12g16r8db2r2k1~x2/) — ΔT 1.14
 1. [Wcwm 4907-1](/setts/s7/r40db8lo8r4lo1r4lr8~x4/) — ΔT 1.23
 1. [Spens (Lochcarron)](/setts/s9/r40w1db7w1g12r8db6t2w1~x2/) — ΔT 1.44
-1. [Slessor (Personal)](/setts/s8/db2lo4db2lo12r50dg11lo1dg2~x2/) — ΔT 1.48
+1. [Slessor (Personal)](/setts/s8/dg2lo1dg11r50lo12db2lo4db2~x2/) — ΔT 1.48
 1. [MacAulay of Ardincaple (Clan)](/setts/s9/r50db3g6db1r3db1g8k1lb3~x2/) — ΔT 1.49
 1. [Baluchistan Fitzgerald Regimental Tartan Tartan Number: 1524. Earliest known date: 1983 Based on Rothesay dating possibly early 1900s. Adopted by the Baluch Regiment, Northern India, Fitzgerald being the name of the commanding officer at that time and has since become the Fitxgerald tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/m5y20m5y3m4y5m36y1w4~x2/) — ΔT 1.51
-1. [Masai Shuka 27 (Artefact)](/setts/s10/r30db8r2k1r2k1r2k1r2db8~x2/) — ΔT 1.58
+1. [Masai Shuka 27 (Artefact)](/setts/s10/r30db8r2k1r2k1~x2/) — ΔT 1.58
 1. [Fueglistal (Aargau) (Personal)](/setts/s9/k3o6lr13r2lr2r32lr1r2lr2~x2/) — ΔT 1.59
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r68db9lb10db13lo1db1lo2~x2/"><circle cx="484.9" cy="109.4" r="4" fill="#3465a4"><title>Canadian Legion Branch 50</title></circle></a><a href="/setts/s6/r70k1dt12k1g12k1~x2/"><circle cx="550.8" cy="117.8" r="4" fill="#3465a4"><title>Lawers Estate (Corporate)</title></circle></a><a href="/setts/s10/r64db16r1db1r12g16r8db2r2k1~x2/"><circle cx="525.1" cy="92.3" r="4" fill="#3465a4"><title>Moffat (1950)</title></circle></a><a href="/setts/s7/r40db8lo8r4lo1r4lr8~x4/"><circle cx="444.4" cy="123.7" r="4" fill="#3465a4"><title>Wcwm 4907-1</title></circle></a><a href="/setts/s9/r40w1db7w1g12r8db6t2w1~x2/"><circle cx="405.4" cy="84.9" r="4" fill="#3465a4"><title>Spens (Lochcarron)</title></circle></a><a href="/setts/s8/db2lo4db2lo12r50dg11lo1dg2~x2/"><circle cx="460.2" cy="116.1" r="4" fill="#3465a4"><title>Slessor (Personal)</title></circle></a><a href="/setts/s9/r50db3g6db1r3db1g8k1lb3~x2/"><circle cx="507.4" cy="66.8" r="4" fill="#3465a4"><title>MacAulay of Ardincaple (Clan)</title></circle></a><a href="/setts/s9/m5y20m5y3m4y5m36y1w4~x2/"><circle cx="475.0" cy="151.2" r="4" fill="#3465a4"><title>Baluchistan Fitzgerald Regimental Tartan Tartan Number: 1524. Earliest known date: 1983 Based on Rothesay dating possibly early 1900s. Adopted by the Baluch Regiment, Northern India, Fitzgerald being the name of the commanding officer at that time and has since become the Fitxgerald tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r30db8r2k1r2k1r2k1r2db8~x2/"><circle cx="496.4" cy="121.0" r="4" fill="#3465a4"><title>Masai Shuka 27 (Artefact)</title></circle></a><a href="/setts/s9/k3o6lr13r2lr2r32lr1r2lr2~x2/"><circle cx="413.9" cy="112.4" r="4" fill="#3465a4"><title>Fueglistal (Aargau) (Personal)</title></circle></a><circle cx="497.5" cy="107.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r68db9lb10db13lo1db1lo2~x2/"><circle cx="484.4" cy="109.3" r="4" fill="#3465a4"><title>Canadian Legion Branch 50</title></circle></a><a href="/setts/s6/r70k1dt12k1g12k1~x2/"><circle cx="550.2" cy="117.5" r="4" fill="#3465a4"><title>Lawers Estate (Corporate)</title></circle></a><a href="/setts/s10/r64db16r1db1r12g16r8db2r2k1~x2/"><circle cx="524.5" cy="92.1" r="4" fill="#3465a4"><title>Moffat (1950)</title></circle></a><a href="/setts/s7/r40db8lo8r4lo1r4lr8~x4/"><circle cx="444.0" cy="123.6" r="4" fill="#3465a4"><title>Wcwm 4907-1</title></circle></a><a href="/setts/s9/r40w1db7w1g12r8db6t2w1~x2/"><circle cx="404.9" cy="84.8" r="4" fill="#3465a4"><title>Spens (Lochcarron)</title></circle></a><a href="/setts/s8/dg2lo1dg11r50lo12db2lo4db2~x2/"><circle cx="459.8" cy="116.0" r="4" fill="#3465a4"><title>Slessor (Personal)</title></circle></a><a href="/setts/s9/r50db3g6db1r3db1g8k1lb3~x2/"><circle cx="506.7" cy="66.7" r="4" fill="#3465a4"><title>MacAulay of Ardincaple (Clan)</title></circle></a><a href="/setts/s9/m5y20m5y3m4y5m36y1w4~x2/"><circle cx="474.5" cy="151.0" r="4" fill="#3465a4"><title>Baluchistan Fitzgerald Regimental Tartan Tartan Number: 1524. Earliest known date: 1983 Based on Rothesay dating possibly early 1900s. Adopted by the Baluch Regiment, Northern India, Fitzgerald being the name of the commanding officer at that time and has since become the Fitxgerald tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r30db8r2k1r2k1~x2/"><circle cx="495.9" cy="120.8" r="4" fill="#3465a4"><title>Masai Shuka 27 (Artefact)</title></circle></a><a href="/setts/s9/k3o6lr13r2lr2r32lr1r2lr2~x2/"><circle cx="413.3" cy="112.3" r="4" fill="#3465a4"><title>Fueglistal (Aargau) (Personal)</title></circle></a><circle cx="497.0" cy="107.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r68db9t10db13ly1db1ly2~x2/

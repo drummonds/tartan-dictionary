@@ -2,7 +2,7 @@
 title: "Gibbs/Gibson"
 date: 2023-03-18
 ---
-**Bands:** [BGWBWKWKWBWRG](/stripes/bgwbwkwkwbwrg/) · **Stripes:** [T DG W DB W K W K W DB W R DG](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">T DG W DB W K W K W DB W R DG</span></span>
+**Bands:** [GRWBWKWKWBWGB](/stripes/grwbwkwkwbwgb/) · **Stripes:** [DG R W DB W K W K W DB W DG T](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="seq">DG R W DB W K W K W DB W DG T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
@@ -18,7 +18,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2164
 
 ## Thread count
-B/4 G64 W4 DB8 W8 YY16 W8 YY16 W8 DB8 W4 R64 G/4
+G/4 R64 W4 DB8 W8 YY16 W8 YY16 W8 DB8 W4 G64 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -43,14 +43,14 @@ The nearest existing variants by ΔTartan distance.
 1. [MacLean of Duart 1](/setts/s11/t13k6ly2k3w4k3g22r31t3r4k2~x2/) — ΔT 0.80
 1. [Buchanan #2](/setts/s13/t3dg31k2t4k2ly8k2ly8k2t4k2r31w3~x2/) — ΔT 0.90
 1. [Buchanan D](/setts/s13/b2dg16k1b2k1ly4k1ly4k1b2k1r16lr2~x2/) — ΔT 0.91
-1. [Buchanan D](/setts/s13/b2dg16k1b2k1ly4k1ly4k1b2k1r16lr2/) — ΔT 0.91
 1. [MacLean of Duart 3](/setts/s11/t16k12ly4k4w6k4g32r50t6r8k3/) — ΔT 0.97
 1. [O'Keefe](/setts/s12/k8r2k3ly2k2w3k2y12o22r2o2k1~x2/) — ΔT 0.98
+1. [Buchanan #3](/setts/s13/t2dg12k1t2k1ly3k1ly3k1t2k1r12w2~x2/) — ΔT 0.99
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lo6w4k3t14w3r34k34w4t3lo8w3g4k2~x2/"><circle cx="122.2" cy="78.6" r="4" fill="#3465a4"><title>Nazarian (Personal)</title></circle></a><a href="/setts/s13/ly6w4k3t14w3r34k34w4t3ly8w3g4k2~x2/"><circle cx="114.8" cy="75.0" r="4" fill="#3465a4"><title>Mazarian</title></circle></a><a href="/setts/s13/t2dg16k1t2k1ly4k1ly4k1t2k1r16w2~x4/"><circle cx="126.0" cy="76.8" r="4" fill="#3465a4"><title>Buchanan (Logan)</title></circle></a><a href="/setts/s13/r2dt18ly4k5ly1k1w1k2g8r6k1r3w1~x4/"><circle cx="124.6" cy="84.8" r="4" fill="#3465a4"><title>Beaton (Name)</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3g22r31t3r4k2~x2/"><circle cx="147.1" cy="97.0" r="4" fill="#3465a4"><title>MacLean of Duart 1</title></circle></a><a href="/setts/s13/t3dg31k2t4k2ly8k2ly8k2t4k2r31w3~x2/"><circle cx="130.8" cy="78.8" r="4" fill="#3465a4"><title>Buchanan #2</title></circle></a><a href="/setts/s13/b2dg16k1b2k1ly4k1ly4k1b2k1r16lr2~x2/"><circle cx="135.5" cy="87.7" r="4" fill="#3465a4"><title>Buchanan D</title></circle></a><a href="/setts/s13/b2dg16k1b2k1ly4k1ly4k1b2k1r16lr2/"><circle cx="135.5" cy="87.7" r="4" fill="#3465a4"><title>Buchanan D</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4g32r50t6r8k3/"><circle cx="159.3" cy="94.3" r="4" fill="#3465a4"><title>MacLean of Duart 3</title></circle></a><a href="/setts/s12/k8r2k3ly2k2w3k2y12o22r2o2k1~x2/"><circle cx="172.5" cy="79.5" r="4" fill="#3465a4"><title>O'Keefe</title></circle></a><circle cx="118.2" cy="75.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lo6w4k3t14w3r34k34w4t3lo8w3g4k2~x2/"><circle cx="122.0" cy="78.7" r="4" fill="#3465a4"><title>Nazarian (Personal)</title></circle></a><a href="/setts/s13/ly6w4k3t14w3r34k34w4t3ly8w3g4k2~x2/"><circle cx="114.6" cy="75.1" r="4" fill="#3465a4"><title>Mazarian</title></circle></a><a href="/setts/s13/t2dg16k1t2k1ly4k1ly4k1t2k1r16w2~x4/"><circle cx="125.8" cy="76.9" r="4" fill="#3465a4"><title>Buchanan (Logan)</title></circle></a><a href="/setts/s13/r2dt18ly4k5ly1k1w1k2g8r6k1r3w1~x4/"><circle cx="124.5" cy="84.9" r="4" fill="#3465a4"><title>Beaton (Name)</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3g22r31t3r4k2~x2/"><circle cx="146.9" cy="97.0" r="4" fill="#3465a4"><title>MacLean of Duart 1</title></circle></a><a href="/setts/s13/t3dg31k2t4k2ly8k2ly8k2t4k2r31w3~x2/"><circle cx="130.5" cy="79.0" r="4" fill="#3465a4"><title>Buchanan #2</title></circle></a><a href="/setts/s13/b2dg16k1b2k1ly4k1ly4k1b2k1r16lr2~x2/"><circle cx="135.4" cy="87.9" r="4" fill="#3465a4"><title>Buchanan D</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4g32r50t6r8k3/"><circle cx="159.2" cy="94.4" r="4" fill="#3465a4"><title>MacLean of Duart 3</title></circle></a><a href="/setts/s12/k8r2k3ly2k2w3k2y12o22r2o2k1~x2/"><circle cx="172.4" cy="79.5" r="4" fill="#3465a4"><title>O'Keefe</title></circle></a><a href="/setts/s13/t2dg12k1t2k1ly3k1ly3k1t2k1r12w2~x2/"><circle cx="94.7" cy="95.6" r="4" fill="#3465a4"><title>Buchanan #3</title></circle></a><circle cx="118.1" cy="75.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/dg1r16w1db2w2k4w2k4w2db2w1dg16t1~x4/

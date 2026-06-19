@@ -2,7 +2,7 @@
 title: "Barber Family 2011 (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GRGY](/stripes/grgy/) · **Stripes:** [Y R DY LY](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">Y R DY LY</span></span>
+**Bands:** [YGRG](/stripes/ygrg/) · **Stripes:** [LY DY R Y](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LY DY R Y</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
@@ -40,18 +40,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Dohmen Family (Zuid-Nederland)](/setts/s4/g30lo3t8o25~x2/) — ΔT 1.89
 1. [MacKintosh, Geddes](/setts/s7/db1r5g18r4db9r10w1~x4/) — ΔT 2.06
 1. [British Hills](/setts/s5/ly2db8r8g17r1~x4/) — ΔT 2.15
-1. [Buncle (Name)](/setts/s5/lo9r31g12dy2t9~x2/) — ΔT 2.18
+1. [Buncle (Name)](/setts/s5/t9dy2g12r31lo9~x2/) — ΔT 2.17
 1. [Dohmen (Personal)](/setts/s4/g30ly3db8r25~x2/) — ΔT 2.21
 1. [Abernethy (Colerain USA) (Personal)](/setts/s7/lo1db14r28g14r1g14lo1~x2/) — ΔT 2.22
 1. [McCook/Cook (Name)](/setts/s7/g12t6g6r15k1r1k2~x4/) — ΔT 2.24
-1. [Ballintrae](/setts/s7/o10r5o62dg40o5g44r10/) — ΔT 2.25
+1. [Ballintrae](/setts/s7/r10g44o5dg40o62r5o10/) — ΔT 2.25
 1. [Buchanhaven Heritage](/setts/s7/t24r27g20lo6g20r2w3~x2/) — ΔT 2.29
 1. [Christmas](/setts/s5/ly2dg17g4r15dg1~x2/) — ΔT 2.30
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/g30lo3t8o25~x2/"><circle cx="295.1" cy="258.3" r="4" fill="#3465a4"><title>Dohmen Family (Zuid-Nederland)</title></circle></a><a href="/setts/s7/db1r5g18r4db9r10w1~x4/"><circle cx="249.4" cy="182.2" r="4" fill="#3465a4"><title>MacKintosh, Geddes</title></circle></a><a href="/setts/s5/ly2db8r8g17r1~x4/"><circle cx="265.9" cy="201.9" r="4" fill="#3465a4"><title>British Hills</title></circle></a><a href="/setts/s5/lo9r31g12dy2t9~x2/"><circle cx="284.0" cy="198.0" r="4" fill="#3465a4"><title>Buncle (Name)</title></circle></a><a href="/setts/s4/g30ly3db8r25~x2/"><circle cx="263.0" cy="246.6" r="4" fill="#3465a4"><title>Dohmen (Personal)</title></circle></a><a href="/setts/s7/lo1db14r28g14r1g14lo1~x2/"><circle cx="279.1" cy="161.9" r="4" fill="#3465a4"><title>Abernethy (Colerain USA) (Personal)</title></circle></a><a href="/setts/s7/g12t6g6r15k1r1k2~x4/"><circle cx="249.5" cy="188.8" r="4" fill="#3465a4"><title>McCook/Cook (Name)</title></circle></a><a href="/setts/s7/o10r5o62dg40o5g44r10/"><circle cx="254.5" cy="207.1" r="4" fill="#3465a4"><title>Ballintrae</title></circle></a><a href="/setts/s7/t24r27g20lo6g20r2w3~x2/"><circle cx="225.8" cy="208.3" r="4" fill="#3465a4"><title>Buchanhaven Heritage</title></circle></a><a href="/setts/s5/ly2dg17g4r15dg1~x2/"><circle cx="302.2" cy="200.2" r="4" fill="#3465a4"><title>Christmas</title></circle></a><circle cx="281.8" cy="217.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/g30lo3t8o25~x2/"><circle cx="294.8" cy="258.3" r="4" fill="#3465a4"><title>Dohmen Family (Zuid-Nederland)</title></circle></a><a href="/setts/s7/db1r5g18r4db9r10w1~x4/"><circle cx="249.2" cy="182.2" r="4" fill="#3465a4"><title>MacKintosh, Geddes</title></circle></a><a href="/setts/s5/ly2db8r8g17r1~x4/"><circle cx="265.8" cy="201.8" r="4" fill="#3465a4"><title>British Hills</title></circle></a><a href="/setts/s5/t9dy2g12r31lo9~x2/"><circle cx="283.8" cy="198.0" r="4" fill="#3465a4"><title>Buncle (Name)</title></circle></a><a href="/setts/s4/g30ly3db8r25~x2/"><circle cx="262.9" cy="246.5" r="4" fill="#3465a4"><title>Dohmen (Personal)</title></circle></a><a href="/setts/s7/lo1db14r28g14r1g14lo1~x2/"><circle cx="278.9" cy="161.8" r="4" fill="#3465a4"><title>Abernethy (Colerain USA) (Personal)</title></circle></a><a href="/setts/s7/g12t6g6r15k1r1k2~x4/"><circle cx="249.3" cy="188.7" r="4" fill="#3465a4"><title>McCook/Cook (Name)</title></circle></a><a href="/setts/s7/r10g44o5dg40o62r5o10/"><circle cx="254.3" cy="207.1" r="4" fill="#3465a4"><title>Ballintrae</title></circle></a><a href="/setts/s7/t24r27g20lo6g20r2w3~x2/"><circle cx="225.6" cy="208.4" r="4" fill="#3465a4"><title>Buchanhaven Heritage</title></circle></a><a href="/setts/s5/ly2dg17g4r15dg1~x2/"><circle cx="302.1" cy="200.2" r="4" fill="#3465a4"><title>Christmas</title></circle></a><circle cx="281.6" cy="217.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/ly30dy30r1y16~x2/

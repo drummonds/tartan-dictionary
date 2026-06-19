@@ -2,12 +2,18 @@
 title: "MacRurie, MacRory"
 date: 2023-03-18
 ---
-**Bands:** [RGRGRGRGRYRGR](/stripes/rgrgrgrgryrgr/) · **Stripes:** [R G R G R G R G R LY R G R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G R G R G R G R LY R G R</span></span>
+**Bands:** [RGRYRGRGRGRGR](/stripes/rgryrgrgrgrgr/) · **Stripes:** [R G R LY R G R G R G R G R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G R LY R G R G R G R G R</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacRurie, MacRory
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -924,12 +933,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Bruce](/setts/s11/lr1r4dg1r1dg3r1dg3r1dg1r4ly1~x2/) — ΔT 1.66
 1. [Grant of Monymusk](/setts/s13/r12dg14r4dg14r4dg14r4db8r5db8r12dg3r12/) — ΔT 1.71
 1. [MacIntosh Ancient](/setts/s20/r5o1r2dg4r3dg2r2o5r5dg1r1dg2r1dg1r1dg4r1dg1r1dg2~x2/) — ΔT 1.77
-1. [Wilson's, No 169](/setts/s9/g5r9g10ly2g2w2g10r9g5~x2/) — ΔT 1.80
+1. [Wilson's, No 169](/setts/s9/g5r9g10w2g2ly2g10r9g5~x2/) — ΔT 1.80
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r8g10r2g10r9g3r4g4r10ly3r3g10r3~x2/"><circle cx="269.1" cy="249.4" r="4" fill="#3465a4"><title>MacRurie/MacRory</title></circle></a><a href="/setts/s13/r12g14r4g14r4g14r4db8r5db8r12g3r12~x2/"><circle cx="219.5" cy="257.3" r="4" fill="#3465a4"><title>Grant of Monymusk</title></circle></a><a href="/setts/s16/r9g10w2g2ly2g10r9g5r9g10ly2g2w2g10r9g5~x2/"><circle cx="245.9" cy="218.1" r="4" fill="#3465a4"><title>Wilson's No.169</title></circle></a><a href="/setts/s20/r5y1r2g4r3g2r2y5r5g1r1g2r1g1r1g4r1g1r1g2~x2/"><circle cx="258.6" cy="221.4" r="4" fill="#3465a4"><title>MacIntosh, Ancient</title></circle></a><a href="/setts/s11/lo8r2lo2k5lo2o2lo3o7lo3k2lo3~x2/"><circle cx="206.2" cy="225.8" r="4" fill="#3465a4"><title>Dunbarton Warp/Weft</title></circle></a><a href="/setts/s20/r5o1r2g4r3g2r2o5r5g1r1g2r1g1r1g4r1g1r1g2~x2/"><circle cx="260.4" cy="221.0" r="4" fill="#3465a4"><title>MacIntosh Old Ancient Artifact Tartan Tartan Number: 966. Earliest known date: pre 2003 The name 'MacKintosh' is usually spelled with a 'K'. In this instance the tartan sample is labelled MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/lr1r4dg1r1dg3r1dg3r1dg1r4ly1~x2/"><circle cx="263.6" cy="239.9" r="4" fill="#3465a4"><title>Bruce</title></circle></a><a href="/setts/s13/r12dg14r4dg14r4dg14r4db8r5db8r12dg3r12/"><circle cx="210.2" cy="253.5" r="4" fill="#3465a4"><title>Grant of Monymusk</title></circle></a><a href="/setts/s20/r5o1r2dg4r3dg2r2o5r5dg1r1dg2r1dg1r1dg4r1dg1r1dg2~x2/"><circle cx="266.3" cy="222.6" r="4" fill="#3465a4"><title>MacIntosh Ancient</title></circle></a><a href="/setts/s9/g5r9g10ly2g2w2g10r9g5~x2/"><circle cx="275.9" cy="247.3" r="4" fill="#3465a4"><title>Wilson's, No 169</title></circle></a><circle cx="255.9" cy="260.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r8g10r2g10r9g3r4g4r10ly3r3g10r3~x2/"><circle cx="268.8" cy="249.3" r="4" fill="#3465a4"><title>MacRurie/MacRory</title></circle></a><a href="/setts/s13/r12g14r4g14r4g14r4db8r5db8r12g3r12~x2/"><circle cx="219.4" cy="257.2" r="4" fill="#3465a4"><title>Grant of Monymusk</title></circle></a><a href="/setts/s16/r9g10w2g2ly2g10r9g5r9g10ly2g2w2g10r9g5~x2/"><circle cx="245.6" cy="218.0" r="4" fill="#3465a4"><title>Wilson's No.169</title></circle></a><a href="/setts/s20/r5y1r2g4r3g2r2y5r5g1r1g2r1g1r1g4r1g1r1g2~x2/"><circle cx="258.2" cy="221.3" r="4" fill="#3465a4"><title>MacIntosh, Ancient</title></circle></a><a href="/setts/s11/lo8r2lo2k5lo2o2lo3o7lo3k2lo3~x2/"><circle cx="205.9" cy="225.7" r="4" fill="#3465a4"><title>Dunbarton Warp/Weft</title></circle></a><a href="/setts/s20/r5o1r2g4r3g2r2o5r5g1r1g2r1g1r1g4r1g1r1g2~x2/"><circle cx="260.1" cy="221.0" r="4" fill="#3465a4"><title>MacIntosh Old Ancient Artifact Tartan Tartan Number: 966. Earliest known date: pre 2003 The name 'MacKintosh' is usually spelled with a 'K'. In this instance the tartan sample is labelled MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/lr1r4dg1r1dg3r1dg3r1dg1r4ly1~x2/"><circle cx="263.4" cy="239.9" r="4" fill="#3465a4"><title>Bruce</title></circle></a><a href="/setts/s13/r12dg14r4dg14r4dg14r4db8r5db8r12dg3r12/"><circle cx="210.1" cy="253.4" r="4" fill="#3465a4"><title>Grant of Monymusk</title></circle></a><a href="/setts/s20/r5o1r2dg4r3dg2r2o5r5dg1r1dg2r1dg1r1dg4r1dg1r1dg2~x2/"><circle cx="266.0" cy="222.5" r="4" fill="#3465a4"><title>MacIntosh Ancient</title></circle></a><a href="/setts/s9/g5r9g10w2g2ly2g10r9g5~x2/"><circle cx="275.7" cy="247.1" r="4" fill="#3465a4"><title>Wilson's, No 169</title></circle></a><circle cx="255.6" cy="260.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r10g12r3g12r12g4r5g5r12ly4r5g12r4~x2/

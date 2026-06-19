@@ -2,12 +2,18 @@
 title: "Ferguson, Jeffrey S (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GBKRKY](/stripes/gbkrky/) · **Stripes:** [DG DB K R K LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DG DB K R K LY</span></span>
+**Bands:** [YKRKBG](/stripes/ykrkbg/) · **Stripes:** [LY K R K DB DG](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">LY K R K DB DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11199
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Ferguson, Jerrfey S
 
 ## Register references
 
@@ -43,7 +49,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Charles-Carberry (Personal)](/setts/s5/dg21db10k26ly10r1~x2/) — ΔT 1.15
 1. [Regent](/setts/s7/dp18k7g5r4g7k1ly2~x2/) — ΔT 1.17
 1. [Charles-Carberry (Personal)](/setts/s5/dg21t10k26w10r1~x2/) — ΔT 1.20
-1. [McGeachie (Personal)](/setts/s8/ly1k6g32k12r12b9k6w1~x2/) — ΔT 1.21
+1. [McGeachie (Personal)](/setts/s8/w1k6b9r12k12g32k6ly1~x2/) — ΔT 1.21
 1. [Ferguson - 1830 of Atholl (Clan)](/setts/s7/db18k10g6r4g6k1w2~x2/) — ΔT 1.25
 1. [Bryant (Dalgleish) (Personal)](/setts/s6/lb3r30k18db6g30k2~x2/) — ΔT 1.27
 1. [Bergen Scottish](/setts/s7/db5w3r12g37k12db21w2~x2/) — ΔT 1.28
@@ -51,8 +57,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g27db12k12r9k1ly2~x2/"><circle cx="229.0" cy="165.4" r="4" fill="#3465a4"><title>Ferguson, Jerrfey S (Personal)</title></circle></a><a href="/setts/s6/dg20dg11lb6r2dp3lb1~x2/"><circle cx="245.1" cy="169.8" r="4" fill="#3465a4"><title>Chiti, Cristiano (Personal)</title></circle></a><a href="/setts/s5/dg21db10k26ly10r1~x2/"><circle cx="198.4" cy="192.8" r="4" fill="#3465a4"><title>Charles-Carberry (Personal)</title></circle></a><a href="/setts/s7/dp18k7g5r4g7k1ly2~x2/"><circle cx="215.4" cy="169.8" r="4" fill="#3465a4"><title>Regent</title></circle></a><a href="/setts/s5/dg21t10k26w10r1~x2/"><circle cx="180.3" cy="179.7" r="4" fill="#3465a4"><title>Charles-Carberry (Personal)</title></circle></a><a href="/setts/s8/ly1k6g32k12r12b9k6w1~x2/"><circle cx="212.2" cy="119.7" r="4" fill="#3465a4"><title>McGeachie (Personal)</title></circle></a><a href="/setts/s7/db18k10g6r4g6k1w2~x2/"><circle cx="189.5" cy="175.6" r="4" fill="#3465a4"><title>Ferguson - 1830 of Atholl (Clan)</title></circle></a><a href="/setts/s6/lb3r30k18db6g30k2~x2/"><circle cx="193.4" cy="190.4" r="4" fill="#3465a4"><title>Bryant (Dalgleish) (Personal)</title></circle></a><a href="/setts/s7/db5w3r12g37k12db21w2~x2/"><circle cx="170.0" cy="146.1" r="4" fill="#3465a4"><title>Bergen Scottish</title></circle></a><a href="/setts/s6/r6db32k18g28k1lb2~x2/"><circle cx="234.2" cy="167.2" r="4" fill="#3465a4"><title>Naysmith (Name)</title></circle></a><circle cx="231.8" cy="164.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g27db12k12r9k1ly2~x2/"><circle cx="229.0" cy="165.4" r="4" fill="#3465a4"><title>Ferguson, Jerrfey S (Personal)</title></circle></a><a href="/setts/s6/dg20dg11lb6r2dp3lb1~x2/"><circle cx="245.1" cy="169.8" r="4" fill="#3465a4"><title>Chiti, Cristiano (Personal)</title></circle></a><a href="/setts/s5/dg21db10k26ly10r1~x2/"><circle cx="198.6" cy="192.8" r="4" fill="#3465a4"><title>Charles-Carberry (Personal)</title></circle></a><a href="/setts/s7/dp18k7g5r4g7k1ly2~x2/"><circle cx="215.4" cy="169.8" r="4" fill="#3465a4"><title>Regent</title></circle></a><a href="/setts/s5/dg21t10k26w10r1~x2/"><circle cx="180.4" cy="179.7" r="4" fill="#3465a4"><title>Charles-Carberry (Personal)</title></circle></a><a href="/setts/s8/w1k6b9r12k12g32k6ly1~x2/"><circle cx="212.2" cy="119.8" r="4" fill="#3465a4"><title>McGeachie (Personal)</title></circle></a><a href="/setts/s7/db18k10g6r4g6k1w2~x2/"><circle cx="189.6" cy="175.7" r="4" fill="#3465a4"><title>Ferguson - 1830 of Atholl (Clan)</title></circle></a><a href="/setts/s6/lb3r30k18db6g30k2~x2/"><circle cx="193.4" cy="190.4" r="4" fill="#3465a4"><title>Bryant (Dalgleish) (Personal)</title></circle></a><a href="/setts/s7/db5w3r12g37k12db21w2~x2/"><circle cx="170.0" cy="146.2" r="4" fill="#3465a4"><title>Bergen Scottish</title></circle></a><a href="/setts/s6/r6db32k18g28k1lb2~x2/"><circle cx="234.3" cy="167.2" r="4" fill="#3465a4"><title>Naysmith (Name)</title></circle></a><circle cx="231.8" cy="164.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/dg27db12k12r9k1ly2~x2/

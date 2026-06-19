@@ -21,14 +21,14 @@ GRGYGY
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DG R DG LO DG LO <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DG R DG LO DG LO</span></span>
+### LO DG LO DG R DG <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">LO DG LO DG R DG</span></span>
 
 | Tartans |
 |---------------|
 | [MacMillan/Isetan (Corporate)](/setts/s6/dg68r24dg8lo18dg3lo18~x2/)|
 |![MacMillan/Isetan (Corporate) example sett](/setts/s6/dg68r24dg8lo18dg3lo18~x2/sett.png)|
 
-### G R G LO G LO <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">G R G LO G LO</span></span>
+### LO G LO G R G <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO G LO G R G</span></span>
 
 | Tartans |
 |---------------|

@@ -8,7 +8,7 @@ RGBKGGR
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/r1dy7b7k7g7dy7r1~x4/tartan.png)
+![Woven sample](/setts/s7/r1dy7g7k7b7dy7r1~x4/tartan.png)
 
 
 
@@ -21,14 +21,14 @@ RGBKGGR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### R DY B K G DY R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DY B K G DY R</span></span>
+### R DY G K B DY R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DY G K B DY R</span></span>
 
 | Tartans |
 |---------------|
-| [Tennant (Clan)](/setts/s7/r1dy7b7k7g7dy7r1~x4/)|
-|![Tennant (Clan) example sett](/setts/s7/r1dy7b7k7g7dy7r1~x4/sett.png)|
+| [Tennant (Clan)](/setts/s7/r1dy7g7k7b7dy7r1~x4/)|
+|![Tennant (Clan) example sett](/setts/s7/r1dy7g7k7b7dy7r1~x4/sett.png)|
 
-### R DY DB K G DY R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DY DB K G DY R</span></span>
+### R DY G K DB DY R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DY G K DB DY R</span></span>
 
 | Tartans |
 |---------------|

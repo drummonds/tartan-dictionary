@@ -22,6 +22,6 @@ RBKYKBKRKRW
 
 | Tartans |
 |---------------|
-| [Glen Stewart](/setts/s11/lb1r2k1r4k5b1k1ly1k2db15r1~x4/)|
-|![Glen Stewart example sett](/setts/s11/lb1r2k1r4k5b1k1ly1k2db15r1~x4/sett.png)|
+| [Glen Stewart](/setts/s11/r1db15k2ly1k1b1k5r4k1r2lb1~x4/)|
+|![Glen Stewart example sett](/setts/s11/r1db15k2ly1k1b1k5r4k1r2lb1~x4/sett.png)|
 

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,7 +909,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Dabney Grey (Personal)](/setts/s11/r2lr2r1lr24o1n3k3lr3o12lr4r1~x2/) — ΔT 1.50
 1. [Saunders (Personal)](/setts/s11/k1ly1k1ly1k1ly1n46lr17n4lr16r1~x2/) — ΔT 1.54
-1. [Canuck Place](/setts/s9/lo1r2lg3o24lg26db3lg15db2w1~x2/) — ΔT 1.56
+1. [Canuck Place](/setts/s9/w1db2lg15db3lg26o24lg3r2lo1~x2/) — ΔT 1.56
 1. [Diana, hunting Plaid](/setts/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/) — ΔT 1.56
 1. [Hebridean Thistle (Fashion)](/setts/s9/o4dp2o7n30o8n7dp5dp1w2~x2/) — ΔT 1.57
 1. [Portree, Check](/setts/s12/y38db4y8o2y4w3y4m14n7y2n4w2~x2/) — ΔT 1.58
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r2lr2r1lr24o1n3k3lr3o12lr4r1~x2/"><circle cx="394.7" cy="130.0" r="4" fill="#3465a4"><title>Dabney Grey (Personal)</title></circle></a><a href="/setts/s11/k1ly1k1ly1k1ly1n46lr17n4lr16r1~x2/"><circle cx="424.0" cy="89.6" r="4" fill="#3465a4"><title>Saunders (Personal)</title></circle></a><a href="/setts/s9/lo1r2lg3o24lg26db3lg15db2w1~x2/"><circle cx="384.4" cy="137.7" r="4" fill="#3465a4"><title>Canuck Place</title></circle></a><a href="/setts/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/"><circle cx="400.2" cy="102.6" r="4" fill="#3465a4"><title>Diana, hunting Plaid</title></circle></a><a href="/setts/s9/o4dp2o7n30o8n7dp5dp1w2~x2/"><circle cx="407.0" cy="154.3" r="4" fill="#3465a4"><title>Hebridean Thistle (Fashion)</title></circle></a><a href="/setts/s12/y38db4y8o2y4w3y4m14n7y2n4w2~x2/"><circle cx="382.5" cy="126.8" r="4" fill="#3465a4"><title>Portree, Check</title></circle></a><a href="/setts/s12/o38lp4o8dy2o4w3o4r14n7o2n4w2~x2/"><circle cx="370.2" cy="117.3" r="4" fill="#3465a4"><title>Portree Check (District) Tartan Tartan Number: 1280. Earliest known date: pre 2003 Designed for the Porteous Family Association, and submitted to the Monitoring Committee of the Scottish Tartan Society by Captain Barry Porteous who was president of the association at that time. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/t12o4r4o4k2o56r18w1db4w3db4w1~x2/"><circle cx="361.6" cy="50.2" r="4" fill="#3465a4"><title>Confederate Memorial</title></circle></a><a href="/setts/s12/o38db4o8lo2o4w3o4r14n7o2n4w2~x2/"><circle cx="363.4" cy="114.8" r="4" fill="#3465a4"><title>Portree Check</title></circle></a><a href="/setts/s13/o68k1dg6b4dg1b12w1dg6ly1dg24ly1dg2ly3~x2/"><circle cx="412.5" cy="71.6" r="4" fill="#3465a4"><title>Ellis Island</title></circle></a><circle cx="401.8" cy="90.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r2lr2r1lr24o1n3k3lr3o12lr4r1~x2/"><circle cx="394.2" cy="130.0" r="4" fill="#3465a4"><title>Dabney Grey (Personal)</title></circle></a><a href="/setts/s11/k1ly1k1ly1k1ly1n46lr17n4lr16r1~x2/"><circle cx="423.5" cy="89.6" r="4" fill="#3465a4"><title>Saunders (Personal)</title></circle></a><a href="/setts/s9/w1db2lg15db3lg26o24lg3r2lo1~x2/"><circle cx="384.0" cy="137.7" r="4" fill="#3465a4"><title>Canuck Place</title></circle></a><a href="/setts/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/"><circle cx="399.7" cy="102.7" r="4" fill="#3465a4"><title>Diana, hunting Plaid</title></circle></a><a href="/setts/s9/o4dp2o7n30o8n7dp5dp1w2~x2/"><circle cx="406.7" cy="154.4" r="4" fill="#3465a4"><title>Hebridean Thistle (Fashion)</title></circle></a><a href="/setts/s12/y38db4y8o2y4w3y4m14n7y2n4w2~x2/"><circle cx="382.1" cy="126.9" r="4" fill="#3465a4"><title>Portree, Check</title></circle></a><a href="/setts/s12/o38lp4o8dy2o4w3o4r14n7o2n4w2~x2/"><circle cx="369.8" cy="117.3" r="4" fill="#3465a4"><title>Portree Check (District) Tartan Tartan Number: 1280. Earliest known date: pre 2003 Designed for the Porteous Family Association, and submitted to the Monitoring Committee of the Scottish Tartan Society by Captain Barry Porteous who was president of the association at that time. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/t12o4r4o4k2o56r18w1db4w3db4w1~x2/"><circle cx="361.1" cy="50.2" r="4" fill="#3465a4"><title>Confederate Memorial</title></circle></a><a href="/setts/s12/o38db4o8lo2o4w3o4r14n7o2n4w2~x2/"><circle cx="363.0" cy="114.9" r="4" fill="#3465a4"><title>Portree Check</title></circle></a><a href="/setts/s13/o68k1dg6b4dg1b12w1dg6ly1dg24ly1dg2ly3~x2/"><circle cx="412.1" cy="71.8" r="4" fill="#3465a4"><title>Ellis Island</title></circle></a><circle cx="401.3" cy="90.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/t12y4r4y4ly2y48r16w1db4w3~x2/

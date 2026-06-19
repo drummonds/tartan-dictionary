@@ -2,7 +2,7 @@
 title: "Kilburnie (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BKBKRKBKWKBKYKBKR](/stripes/bkbkrkbkwkbkykbkr/) · **Stripes:** [DB K DB K R K T K W K T K LY K DB K R](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K DB K R K T K W K T K LY K DB K R</span></span>
+**Bands:** [RKBKYKBKWKBKRKBKB](/stripes/rkbkykbkwkbkrkbkb/) · **Stripes:** [R K DB K LY K T K W K T K R K DB K DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K DB K LY K T K W K T K R K DB K DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [17 band tartan](/bands/bands17/).
@@ -319,6 +319,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +420,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +680,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,11 +915,11 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Salich-Plaja of St. Genis (Personal)](/setts/s24/db13w3db13k3db3k8db3k15ly3r3g3w3r3w3g3r3ly3k15db3k8db3k3db13w3~x2/) — ΔT 1.03
+1. [Salich-Plaja of St. Genis (Personal)](/setts/s24/db13w3db13k3db3k8db3k15ly3r3g3w3r3~x2/) — ΔT 1.03
 1. [Salich-Plaja of St. Genis (Personal)](/setts/s13/db13w3db13k3db3k8db3k15ly3r3g3w3r3~x2/) — ΔT 1.04
 1. [Shandon (Personal)](/setts/s14/k20g18k2ly2k5w2k2g18k20dp18b4dp4b4dp18~x2/) — ΔT 1.06
 1. [Haughey (Personal)](/setts/s16/db6r2db2r4db14r2g12r2g3w2g3k11dp9g2dp6w2~x2/) — ΔT 1.08
-1. [South Lanarkshire](/setts/s16/k1t1db7k1g6k1dp7w1k2w1dp7k1g6k1db7t1~x4/) — ΔT 1.10
+1. [South Lanarkshire](/setts/s16/k2w1dp7k1g6k1db7t1k1~x4/) — ΔT 1.10
 1. [Unidentified fragment](/setts/s18/dp47k6r6k6dp6k19dg19k6dg19ly6dg19k6dg19k19dp6k6w6k6~x2/) — ΔT 1.13
 1. [Greer](/setts/s14/r12db10t3o3t3db3t16db3t3o3t3db10r12w4~x2/) — ΔT 1.15
 1. [Scottish Cultural Society](/setts/s16/g4k8lo1k1db4lb1db1lb2db1lb1db4k1lo1k8g4dp2~x8/) — ΔT 1.16
@@ -925,8 +928,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s24/db13w3db13k3db3k8db3k15ly3r3g3w3r3w3g3r3ly3k15db3k8db3k3db13w3~x2/"><circle cx="92.7" cy="144.2" r="4" fill="#3465a4"><title>Salich-Plaja of St. Genis (Personal)</title></circle></a><a href="/setts/s13/db13w3db13k3db3k8db3k15ly3r3g3w3r3~x2/"><circle cx="122.6" cy="171.9" r="4" fill="#3465a4"><title>Salich-Plaja of St. Genis (Personal)</title></circle></a><a href="/setts/s14/k20g18k2ly2k5w2k2g18k20dp18b4dp4b4dp18~x2/"><circle cx="132.7" cy="146.0" r="4" fill="#3465a4"><title>Shandon (Personal)</title></circle></a><a href="/setts/s16/db6r2db2r4db14r2g12r2g3w2g3k11dp9g2dp6w2~x2/"><circle cx="54.6" cy="148.8" r="4" fill="#3465a4"><title>Haughey (Personal)</title></circle></a><a href="/setts/s16/k1t1db7k1g6k1dp7w1k2w1dp7k1g6k1db7t1~x4/"><circle cx="85.9" cy="154.2" r="4" fill="#3465a4"><title>South Lanarkshire</title></circle></a><a href="/setts/s18/dp47k6r6k6dp6k19dg19k6dg19ly6dg19k6dg19k19dp6k6w6k6~x2/"><circle cx="120.4" cy="150.5" r="4" fill="#3465a4"><title>Unidentified fragment</title></circle></a><a href="/setts/s14/r12db10t3o3t3db3t16db3t3o3t3db10r12w4~x2/"><circle cx="86.0" cy="183.1" r="4" fill="#3465a4"><title>Greer</title></circle></a><a href="/setts/s16/g4k8lo1k1db4lb1db1lb2db1lb1db4k1lo1k8g4dp2~x8/"><circle cx="124.9" cy="145.9" r="4" fill="#3465a4"><title>Scottish Cultural Society</title></circle></a><a href="/setts/s13/k5w10lb10k4lb4k4lb4k30dt21b4dt4b24r4/"><circle cx="69.2" cy="136.9" r="4" fill="#3465a4"><title>Anderson-Moffat (Personal)</title></circle></a><a href="/setts/s13/dp3k3dp10k11g14db3g14k11w3lr3db15lr2w2~x2/"><circle cx="65.8" cy="168.3" r="4" fill="#3465a4"><title>North of Scotland Tartan Army</title></circle></a><circle cx="85.8" cy="151.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s24/db13w3db13k3db3k8db3k15ly3r3g3w3r3~x2/"><circle cx="92.8" cy="144.3" r="4" fill="#3465a4"><title>Salich-Plaja of St. Genis (Personal)</title></circle></a><a href="/setts/s13/db13w3db13k3db3k8db3k15ly3r3g3w3r3~x2/"><circle cx="122.7" cy="172.0" r="4" fill="#3465a4"><title>Salich-Plaja of St. Genis (Personal)</title></circle></a><a href="/setts/s14/k20g18k2ly2k5w2k2g18k20dp18b4dp4b4dp18~x2/"><circle cx="132.8" cy="146.1" r="4" fill="#3465a4"><title>Shandon (Personal)</title></circle></a><a href="/setts/s16/db6r2db2r4db14r2g12r2g3w2g3k11dp9g2dp6w2~x2/"><circle cx="54.7" cy="149.1" r="4" fill="#3465a4"><title>Haughey (Personal)</title></circle></a><a href="/setts/s16/k2w1dp7k1g6k1db7t1k1~x4/"><circle cx="86.0" cy="154.5" r="4" fill="#3465a4"><title>South Lanarkshire</title></circle></a><a href="/setts/s18/dp47k6r6k6dp6k19dg19k6dg19ly6dg19k6dg19k19dp6k6w6k6~x2/"><circle cx="120.6" cy="150.6" r="4" fill="#3465a4"><title>Unidentified fragment</title></circle></a><a href="/setts/s14/r12db10t3o3t3db3t16db3t3o3t3db10r12w4~x2/"><circle cx="86.1" cy="183.1" r="4" fill="#3465a4"><title>Greer</title></circle></a><a href="/setts/s16/g4k8lo1k1db4lb1db1lb2db1lb1db4k1lo1k8g4dp2~x8/"><circle cx="125.1" cy="146.0" r="4" fill="#3465a4"><title>Scottish Cultural Society</title></circle></a><a href="/setts/s13/k5w10lb10k4lb4k4lb4k30dt21b4dt4b24r4/"><circle cx="69.3" cy="137.0" r="4" fill="#3465a4"><title>Anderson-Moffat (Personal)</title></circle></a><a href="/setts/s13/dp3k3dp10k11g14db3g14k11w3lr3db15lr2w2~x2/"><circle cx="65.9" cy="168.5" r="4" fill="#3465a4"><title>North of Scotland Tartan Army</title></circle></a><circle cx="85.9" cy="152.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s17/db12k2db2k2r3k2t6k2w2k2t6k2ly2k2db6k2r2~x2/

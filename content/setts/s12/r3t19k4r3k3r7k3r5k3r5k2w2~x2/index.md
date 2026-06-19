@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 K4 R10 K6 R10 K6 R14 K6 R6 K8 B38 R/6
+R/6 B38 K8 R6 K6 R14 K6 R10 K6 R10 K4 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -922,8 +925,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/"><circle cx="157.3" cy="148.3" r="4" fill="#3465a4"><title>Clan Pipers Frankfurt and District Pipe Band</title></circle></a><a href="/setts/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="225.8" cy="151.3" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><a href="/setts/s9/db23k4db4r4db4r25w4k4w4~x2/"><circle cx="194.1" cy="177.8" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/setts/s11/k12lr4k4lr4k4lr10k4lr3k8r24lr2~x2/"><circle cx="217.0" cy="174.9" r="4" fill="#3465a4"><title>Wcwm 9285 4906-1</title></circle></a><a href="/setts/s13/r16k2r2k2r2k16db16dg3db16k16r16k2r2~x2/"><circle cx="175.3" cy="180.6" r="4" fill="#3465a4"><title>MacLachlan #2</title></circle></a><a href="/setts/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/"><circle cx="158.5" cy="154.2" r="4" fill="#3465a4"><title>Bonner, (Bonnar)</title></circle></a><a href="/setts/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="222.2" cy="153.3" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/setts/s15/r12k2r2k2r2k10db10k1dg3k1db12k10r12k2r2~x2/"><circle cx="192.8" cy="158.4" r="4" fill="#3465a4"><title>MacLachlan #3</title></circle></a><a href="/setts/s15/r12k2r2k2r2k10db10k1g3k1db12k10r12k2r2~x2/"><circle cx="176.1" cy="154.6" r="4" fill="#3465a4"><title>MacLachlan 1</title></circle></a><a href="/setts/s11/r3k15r2k2r6o16k3o2k3o9w2~x2/"><circle cx="195.6" cy="172.1" r="4" fill="#3465a4"><title>Lunch with an Old Bag Charity, The</title></circle></a><circle cx="178.6" cy="154.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/"><circle cx="157.2" cy="148.3" r="4" fill="#3465a4"><title>Clan Pipers Frankfurt and District Pipe Band</title></circle></a><a href="/setts/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="225.6" cy="151.2" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><a href="/setts/s9/db23k4db4r4db4r25w4k4w4~x2/"><circle cx="194.0" cy="177.7" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/setts/s11/k12lr4k4lr4k4lr10k4lr3k8r24lr2~x2/"><circle cx="216.9" cy="174.8" r="4" fill="#3465a4"><title>Wcwm 9285 4906-1</title></circle></a><a href="/setts/s13/r16k2r2k2r2k16db16dg3db16k16r16k2r2~x2/"><circle cx="175.3" cy="180.7" r="4" fill="#3465a4"><title>MacLachlan #2</title></circle></a><a href="/setts/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/"><circle cx="158.5" cy="154.2" r="4" fill="#3465a4"><title>Bonner, (Bonnar)</title></circle></a><a href="/setts/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="222.0" cy="153.2" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/setts/s15/r12k2r2k2r2k10db10k1dg3k1db12k10r12k2r2~x2/"><circle cx="192.8" cy="158.4" r="4" fill="#3465a4"><title>MacLachlan #3</title></circle></a><a href="/setts/s15/r12k2r2k2r2k10db10k1g3k1db12k10r12k2r2~x2/"><circle cx="176.1" cy="154.6" r="4" fill="#3465a4"><title>MacLachlan 1</title></circle></a><a href="/setts/s11/r3k15r2k2r6o16k3o2k3o9w2~x2/"><circle cx="195.4" cy="172.0" r="4" fill="#3465a4"><title>Lunch with an Old Bag Charity, The</title></circle></a><circle cx="178.5" cy="154.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r3t19k4r3k3r7k3r5k3r5k2w2~x2/

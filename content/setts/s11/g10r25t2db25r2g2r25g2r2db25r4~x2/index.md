@@ -2,7 +2,7 @@
 title: "Hebridean 3"
 date: 2023-03-18
 ---
-**Bands:** [GRBBRGRGRBR](/stripes/grbbrgrgrbr/) · **Stripes:** [G R T DB R G R G R DB R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">G R T DB R G R G R DB R</span></span>
+**Bands:** [RBRGRGRBBRG](/stripes/rbrgrgrbbrg/) · **Stripes:** [R DB R G R G R DB T R G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DB R G R G R DB T R G</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -904,19 +907,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Gates](/setts/s9/db24r3db4r6g8r3g8r30k3~x2/) — ΔT 0.83
 1. [Shieldhall (Fashion)](/setts/s12/do12r1do2r1do2lb2do3o9r1o2r1o3~x4/) — ΔT 0.98
-1. [Great Dane, The](/setts/s13/db6r30db6r30db6g6db6r6db15r2g10db15r2/) — ΔT 0.98
+1. [Great Dane, The](/setts/s13/db6r30db6r30db6g6db6r6db15r2g10db15r2/) — ΔT 0.99
 1. [Chisholm Hunting (HSL) Clan Tartan Tartan Number: 1457. Earliest known date: c.1815 Possibly the true source of the Vestiarium Scoticum sett with crimson changed to red. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/m7w2m32db7g3db2g3db2g16m3~x2/) — ΔT 0.99
 1. [MacKillop (Clan)](/setts/s10/g3r2db2r14b1db4r2g12r2db2~x8/) — ΔT 0.99
 1. [MacKillop](/setts/s10/g3r2db2r13t1db4r2g7r2db2~x2/) — ΔT 1.02
 1. [Glenaladale](/setts/s10/db28r26w2db5w2r26g28r5w2r5~x2/) — ΔT 1.03
-1. [Leitrim](/setts/s10/lo3dr2y18y3r13y4dr3y4dr18y3~x2/) — ΔT 1.04
+1. [Leitrim](/setts/s10/y3dr18y4dr3y4r13y3y18dr2lo3~x2/) — ΔT 1.04
 1. [Glenfinnan (Clan?)](/setts/s10/n28r26w2n5w2r26lg28r5w2r5~x2/) — ΔT 1.04
 1. [Waddell (Name)](/setts/s11/r3db2r24db8dg2db2dg2db2dg10r3w2~x2/) — ΔT 1.07
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db24r3db4r6g8r3g8r30k3~x2/"><circle cx="270.6" cy="179.3" r="4" fill="#3465a4"><title>Gates</title></circle></a><a href="/setts/s12/do12r1do2r1do2lb2do3o9r1o2r1o3~x4/"><circle cx="304.2" cy="168.6" r="4" fill="#3465a4"><title>Shieldhall (Fashion)</title></circle></a><a href="/setts/s13/db6r30db6r30db6g6db6r6db15r2g10db15r2/"><circle cx="293.5" cy="173.6" r="4" fill="#3465a4"><title>Great Dane, The</title></circle></a><a href="/setts/s10/m7w2m32db7g3db2g3db2g16m3~x2/"><circle cx="350.5" cy="151.4" r="4" fill="#3465a4"><title>Chisholm Hunting (HSL) Clan Tartan Tartan Number: 1457. Earliest known date: c.1815 Possibly the true source of the Vestiarium Scoticum sett with crimson changed to red. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/g3r2db2r14b1db4r2g12r2db2~x8/"><circle cx="278.8" cy="162.7" r="4" fill="#3465a4"><title>MacKillop (Clan)</title></circle></a><a href="/setts/s10/g3r2db2r13t1db4r2g7r2db2~x2/"><circle cx="292.5" cy="172.3" r="4" fill="#3465a4"><title>MacKillop</title></circle></a><a href="/setts/s10/db28r26w2db5w2r26g28r5w2r5~x2/"><circle cx="265.0" cy="160.2" r="4" fill="#3465a4"><title>Glenaladale</title></circle></a><a href="/setts/s10/lo3dr2y18y3r13y4dr3y4dr18y3~x2/"><circle cx="248.0" cy="185.5" r="4" fill="#3465a4"><title>Leitrim</title></circle></a><a href="/setts/s10/n28r26w2n5w2r26lg28r5w2r5~x2/"><circle cx="274.0" cy="167.7" r="4" fill="#3465a4"><title>Glenfinnan (Clan?)</title></circle></a><a href="/setts/s11/r3db2r24db8dg2db2dg2db2dg10r3w2~x2/"><circle cx="317.3" cy="165.4" r="4" fill="#3465a4"><title>Waddell (Name)</title></circle></a><circle cx="299.4" cy="171.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db24r3db4r6g8r3g8r30k3~x2/"><circle cx="270.4" cy="179.2" r="4" fill="#3465a4"><title>Gates</title></circle></a><a href="/setts/s12/do12r1do2r1do2lb2do3o9r1o2r1o3~x4/"><circle cx="303.9" cy="168.6" r="4" fill="#3465a4"><title>Shieldhall (Fashion)</title></circle></a><a href="/setts/s13/db6r30db6r30db6g6db6r6db15r2g10db15r2/"><circle cx="293.4" cy="173.6" r="4" fill="#3465a4"><title>Great Dane, The</title></circle></a><a href="/setts/s10/m7w2m32db7g3db2g3db2g16m3~x2/"><circle cx="350.2" cy="151.3" r="4" fill="#3465a4"><title>Chisholm Hunting (HSL) Clan Tartan Tartan Number: 1457. Earliest known date: c.1815 Possibly the true source of the Vestiarium Scoticum sett with crimson changed to red. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/g3r2db2r14b1db4r2g12r2db2~x8/"><circle cx="278.5" cy="162.6" r="4" fill="#3465a4"><title>MacKillop (Clan)</title></circle></a><a href="/setts/s10/g3r2db2r13t1db4r2g7r2db2~x2/"><circle cx="292.2" cy="172.3" r="4" fill="#3465a4"><title>MacKillop</title></circle></a><a href="/setts/s10/db28r26w2db5w2r26g28r5w2r5~x2/"><circle cx="264.8" cy="160.1" r="4" fill="#3465a4"><title>Glenaladale</title></circle></a><a href="/setts/s10/y3dr18y4dr3y4r13y3y18dr2lo3~x2/"><circle cx="247.8" cy="185.5" r="4" fill="#3465a4"><title>Leitrim</title></circle></a><a href="/setts/s10/n28r26w2n5w2r26lg28r5w2r5~x2/"><circle cx="273.7" cy="167.7" r="4" fill="#3465a4"><title>Glenfinnan (Clan?)</title></circle></a><a href="/setts/s11/r3db2r24db8dg2db2dg2db2dg10r3w2~x2/"><circle cx="317.1" cy="165.4" r="4" fill="#3465a4"><title>Waddell (Name)</title></circle></a><circle cx="299.2" cy="171.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/g10r25t2db25r2g2r25g2r2db25r4~x2/

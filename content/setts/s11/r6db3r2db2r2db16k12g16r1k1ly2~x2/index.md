@@ -9,6 +9,16 @@ This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2187
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Logan
+- Logan #7
+- Logan or MacLennan
+- MacLennan
+- MacLennan,
+
 ## Attestations
 
 This cloth appears in 5 source records; the oldest owns this page.
@@ -321,6 +331,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -421,6 +432,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -680,6 +692,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -923,18 +936,18 @@ The nearest existing variants by ΔTartan distance.
 1. [MacLennan](/setts/s11/r6db3r2db2r2db16k12dg16r1k1ly2~x2/) — ΔT 0.24
 1. [MacDonell of Glengarry #3](/setts/s11/db16r5db30r2k33g30r5g2r2g7w4/) — ΔT 0.55
 1. [Cameron of Erracht (Clan)](/setts/s11/g8r1g1r3g16k16r1db16r3db8ly2~x2/) — ΔT 0.64
-1. [MacDonald of Clanranald #2](/setts/s13/db16r2db2r7db31r2k32w3dg31r7dg2r2dg16~x2/) — ΔT 0.69
+1. [MacDonald of Clanranald #2](/setts/s13/dg16r2dg2r7dg31w3k32r2db31r7db2r2db16~x2/) — ΔT 0.69
 1. [MacLagan of Glenquiech](/setts/s11/r6db6r3db3r3db28k21g28r21k2ly4/) — ΔT 0.70
 1. [MacCandlish Dress Grey](/setts/s11/lb3k1do12k1do1k2do1k6o12k1lo1~x4/) — ΔT 0.73
-1. [Unnamed C20th - Unregistered Error](/setts/s13/db13r2db2r6db25r2k27ly2dg25r6dg2r2dg13~x2/) — ΔT 0.83
+1. [Unnamed C20th - Unregistered Error](/setts/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/) — ΔT 0.83
 1. [New Zealand (2003)](/setts/s10/k3db9k2lo5db1lo5k2dg15k1r3~x2/) — ΔT 0.84
 1. [Griffiths of Llangynin (Personal)](/setts/s10/dg40k8r4k4r8k4r4k8db40ly3~x2/) — ΔT 0.84
 1. [MacDonell of Glengarry](/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4w1~x2/) — ΔT 0.85
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r6db3r2db2r2db16k12dg16r1k1ly2~x2/"><circle cx="177.2" cy="143.9" r="4" fill="#3465a4"><title>MacLennan</title></circle></a><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w4/"><circle cx="182.0" cy="150.0" r="4" fill="#3465a4"><title>MacDonell of Glengarry #3</title></circle></a><a href="/setts/s11/g8r1g1r3g16k16r1db16r3db8ly2~x2/"><circle cx="175.1" cy="156.3" r="4" fill="#3465a4"><title>Cameron of Erracht (Clan)</title></circle></a><a href="/setts/s13/db16r2db2r7db31r2k32w3dg31r7dg2r2dg16~x2/"><circle cx="182.0" cy="145.2" r="4" fill="#3465a4"><title>MacDonald of Clanranald #2</title></circle></a><a href="/setts/s11/r6db6r3db3r3db28k21g28r21k2ly4/"><circle cx="143.5" cy="147.6" r="4" fill="#3465a4"><title>MacLagan of Glenquiech</title></circle></a><a href="/setts/s11/lb3k1do12k1do1k2do1k6o12k1lo1~x4/"><circle cx="179.2" cy="140.8" r="4" fill="#3465a4"><title>MacCandlish Dress Grey</title></circle></a><a href="/setts/s13/db13r2db2r6db25r2k27ly2dg25r6dg2r2dg13~x2/"><circle cx="175.5" cy="153.8" r="4" fill="#3465a4"><title>Unnamed C20th - Unregistered Error</title></circle></a><a href="/setts/s10/k3db9k2lo5db1lo5k2dg15k1r3~x2/"><circle cx="162.3" cy="159.2" r="4" fill="#3465a4"><title>New Zealand (2003)</title></circle></a><a href="/setts/s10/dg40k8r4k4r8k4r4k8db40ly3~x2/"><circle cx="194.0" cy="153.9" r="4" fill="#3465a4"><title>Griffiths of Llangynin (Personal)</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4w1~x2/"><circle cx="178.1" cy="160.6" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><circle cx="171.3" cy="141.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r6db3r2db2r2db16k12dg16r1k1ly2~x2/"><circle cx="177.2" cy="144.1" r="4" fill="#3465a4"><title>MacLennan</title></circle></a><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w4/"><circle cx="182.0" cy="150.1" r="4" fill="#3465a4"><title>MacDonell of Glengarry #3</title></circle></a><a href="/setts/s11/g8r1g1r3g16k16r1db16r3db8ly2~x2/"><circle cx="175.1" cy="156.4" r="4" fill="#3465a4"><title>Cameron of Erracht (Clan)</title></circle></a><a href="/setts/s13/dg16r2dg2r7dg31w3k32r2db31r7db2r2db16~x2/"><circle cx="182.1" cy="145.3" r="4" fill="#3465a4"><title>MacDonald of Clanranald #2</title></circle></a><a href="/setts/s11/r6db6r3db3r3db28k21g28r21k2ly4/"><circle cx="143.5" cy="147.8" r="4" fill="#3465a4"><title>MacLagan of Glenquiech</title></circle></a><a href="/setts/s11/lb3k1do12k1do1k2do1k6o12k1lo1~x4/"><circle cx="179.1" cy="140.9" r="4" fill="#3465a4"><title>MacCandlish Dress Grey</title></circle></a><a href="/setts/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/"><circle cx="175.5" cy="154.0" r="4" fill="#3465a4"><title>Unnamed C20th - Unregistered Error</title></circle></a><a href="/setts/s10/k3db9k2lo5db1lo5k2dg15k1r3~x2/"><circle cx="162.3" cy="159.3" r="4" fill="#3465a4"><title>New Zealand (2003)</title></circle></a><a href="/setts/s10/dg40k8r4k4r8k4r4k8db40ly3~x2/"><circle cx="194.0" cy="154.0" r="4" fill="#3465a4"><title>Griffiths of Llangynin (Personal)</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4w1~x2/"><circle cx="178.1" cy="160.7" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><circle cx="171.3" cy="141.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/r6db3r2db2r2db16k12g16r1k1ly2~x2/

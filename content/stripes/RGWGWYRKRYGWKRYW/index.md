@@ -22,6 +22,6 @@ RGWGWYRKRYGWKRYW
 
 | Tartans |
 |---------------|
-| [Clan Chattan](/setts/s16/r60dg2lb1dg15lb2ly3r3k1r3ly3y2lb16k4r4ly6lb2~x2/)|
-|![Clan Chattan example sett](/setts/s16/r60dg2lb1dg15lb2ly3r3k1r3ly3y2lb16k4r4ly6lb2~x2/sett.png)|
+| [Clan Chattan](/setts/s16/r60dg2lb1dg15lb2ly3r3k1r3ly3y2lb16k4r4ly6lb2/)|
+|![Clan Chattan example sett](/setts/s16/r60dg2lb1dg15lb2ly3r3k1r3ly3y2lb16k4r4ly6lb2/sett.png)|
 

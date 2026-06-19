@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified #45
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -913,13 +922,13 @@ The nearest existing variants by ΔTartan distance.
 1. [St. Mirren Football Club (Sports)](/setts/s9/k7w2k21r2k34w5k3w2k7~x2/) — ΔT 1.97
 1. [Stewart Mourning](/setts/s11/k68y11k16y4k4y4k4y19k14w4k14/) — ΔT 1.99
 1. [Aberdeen-Angus Cattle Society (Corp)](/setts/s8/g8lo3k60g3k3g3k3g4~x2/) — ΔT 2.01
-1. [Hebridean 7](/setts/s14/db2k10r2g2r2k10r2k10r1k2r1k10r1k2~x2/) — ΔT 2.04
-1. [Auld Bernensis](/setts/s8/k62r3k3lo3k3r3k9lr5~x2/) — ΔT 2.17
+1. [Hebridean 7](/setts/s14/k2r1k10r1k2r1k10r2k10r2g2r2k10db2~x2/) — ΔT 2.04
+1. [Auld Bernensis](/setts/s8/k62r3k3lo3k3r3k9lr5~x2/) — ΔT 2.18
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k8ly1k1r1k4db1~x12/"><circle cx="472.3" cy="225.7" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/setts/s7/k24dg3r3k24r2k2r2/"><circle cx="578.4" cy="225.5" r="4" fill="#3465a4"><title>Unidentified #45</title></circle></a><a href="/setts/s8/k45ly4k4ly9k4ly4k45r4~x2/"><circle cx="517.0" cy="195.9" r="4" fill="#3465a4"><title>Gwynn</title></circle></a><a href="/setts/s6/k4r4k20r1k20w4~x6/"><circle cx="538.5" cy="209.8" r="4" fill="#3465a4"><title>Lanoir</title></circle></a><a href="/setts/s10/r7k3r3k22r3k3r3k37ly2k4~x2/"><circle cx="542.9" cy="172.7" r="4" fill="#3465a4"><title>Maier (Personal)</title></circle></a><a href="/setts/s9/k7w2k21r2k34w5k3w2k7~x2/"><circle cx="560.2" cy="181.0" r="4" fill="#3465a4"><title>St. Mirren Football Club (Sports)</title></circle></a><a href="/setts/s11/k68y11k16y4k4y4k4y19k14w4k14/"><circle cx="458.4" cy="167.6" r="4" fill="#3465a4"><title>Stewart Mourning</title></circle></a><a href="/setts/s8/g8lo3k60g3k3g3k3g4~x2/"><circle cx="515.9" cy="161.1" r="4" fill="#3465a4"><title>Aberdeen-Angus Cattle Society (Corp)</title></circle></a><a href="/setts/s14/db2k10r2g2r2k10r2k10r1k2r1k10r1k2~x2/"><circle cx="437.4" cy="186.6" r="4" fill="#3465a4"><title>Hebridean 7</title></circle></a><a href="/setts/s8/k62r3k3lo3k3r3k9lr5~x2/"><circle cx="579.0" cy="142.1" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><circle cx="548.8" cy="218.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k8ly1k1r1k4db1~x12/"><circle cx="472.4" cy="225.3" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/setts/s7/k24dg3r3k24r2k2r2/"><circle cx="578.3" cy="225.2" r="4" fill="#3465a4"><title>Unidentified #45</title></circle></a><a href="/setts/s8/k45ly4k4ly9k4ly4k45r4~x2/"><circle cx="516.8" cy="195.4" r="4" fill="#3465a4"><title>Gwynn</title></circle></a><a href="/setts/s6/k4r4k20r1k20w4~x6/"><circle cx="538.4" cy="209.3" r="4" fill="#3465a4"><title>Lanoir</title></circle></a><a href="/setts/s10/r7k3r3k22r3k3r3k37ly2k4~x2/"><circle cx="542.7" cy="172.3" r="4" fill="#3465a4"><title>Maier (Personal)</title></circle></a><a href="/setts/s9/k7w2k21r2k34w5k3w2k7~x2/"><circle cx="559.9" cy="180.5" r="4" fill="#3465a4"><title>St. Mirren Football Club (Sports)</title></circle></a><a href="/setts/s11/k68y11k16y4k4y4k4y19k14w4k14/"><circle cx="458.4" cy="167.3" r="4" fill="#3465a4"><title>Stewart Mourning</title></circle></a><a href="/setts/s8/g8lo3k60g3k3g3k3g4~x2/"><circle cx="515.9" cy="160.7" r="4" fill="#3465a4"><title>Aberdeen-Angus Cattle Society (Corp)</title></circle></a><a href="/setts/s14/k2r1k10r1k2r1k10r2k10r2g2r2k10db2~x2/"><circle cx="437.5" cy="186.4" r="4" fill="#3465a4"><title>Hebridean 7</title></circle></a><a href="/setts/s8/k62r3k3lo3k3r3k9lr5~x2/"><circle cx="578.8" cy="141.7" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><circle cx="548.8" cy="218.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k24g3r3k24r2k2r2/

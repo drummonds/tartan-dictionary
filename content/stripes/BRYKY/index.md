@@ -20,7 +20,7 @@ BRYKY
 
 
 
-### DO O LY K LR <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">DO O LY K LR</span></span>
+### LR K LY O DO <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="seq">LR K LY O DO</span></span>
 
 | Tartans |
 |---------------|

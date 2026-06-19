@@ -2,7 +2,7 @@
 title: "Rutherford, John (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BGBRKRB](/stripes/bgbrkrb/) · **Stripes:** [DP DG DP R K R DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">DP DG DP R K R DB</span></span>
+**Bands:** [BRKRBGB](/stripes/brkrbgb/) · **Stripes:** [DB R K R DP DG DP](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DB R K R DP DG DP</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
@@ -49,17 +49,17 @@ The nearest existing variants by ΔTartan distance.
 1. [ODL (Corporate)](/setts/s8/k4r1db3db28db36k3r2o1~x2/) — ΔT 1.42
 1. [By Storm](/setts/s8/dp5dp3dp18dg8k8dp31k2dp4~x2/) — ΔT 1.66
 1. [Spirit of Wales (Fashion)](/setts/s10/dt4dp2dt22k2dt1db2dt1k2db24w2~x2/) — ΔT 1.69
-1. [Spirit of Hoxa](/setts/s9/g2dp19g2dp46lb2dp10g3p2r2~x2/) — ΔT 1.70
+1. [Spirit of Hoxa](/setts/s9/r2p2g3dp10lb2dp46g2dp19g2~x2/) — ΔT 1.70
 1. [Little Hunting](/setts/s8/db5db3db4db3db4k28db8r1~x2/) — ΔT 1.85
-1. [Finnie (Personal)](/setts/s8/db4y4db37k20y1dp5y1k4~x2/) — ΔT 2.01
+1. [Finnie (Personal)](/setts/s8/k4y1dp5y1k20db37y4db4~x2/) — ΔT 2.01
 1. [Edinburgh & Lothian T.B. (Corporate)](/setts/s7/db40db8lo3db6k3db6r4~x2/) — ΔT 2.16
 1. [Scottish Thistle](/setts/s10/dt2k3dt33k11k3dt3dp15dt4o1dt2~x2/) — ΔT 2.16
 1. [Spirit of Scotland](/setts/s11/dt19k4dt4db1dt1db1dt1dg5dp3k1dp4~x6/) — ΔT 2.16
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/do40t2dp2t2do2dp5dp20t2dp20~x2/"><circle cx="430.9" cy="211.7" r="4" fill="#3465a4"><title>Phillips</title></circle></a><a href="/setts/s8/k4r1db3db28db36k3r2o1~x2/"><circle cx="452.8" cy="184.0" r="4" fill="#3465a4"><title>ODL (Corporate)</title></circle></a><a href="/setts/s8/dp5dp3dp18dg8k8dp31k2dp4~x2/"><circle cx="351.2" cy="220.9" r="4" fill="#3465a4"><title>By Storm</title></circle></a><a href="/setts/s10/dt4dp2dt22k2dt1db2dt1k2db24w2~x2/"><circle cx="397.9" cy="182.4" r="4" fill="#3465a4"><title>Spirit of Wales (Fashion)</title></circle></a><a href="/setts/s9/g2dp19g2dp46lb2dp10g3p2r2~x2/"><circle cx="404.3" cy="151.1" r="4" fill="#3465a4"><title>Spirit of Hoxa</title></circle></a><a href="/setts/s8/db5db3db4db3db4k28db8r1~x2/"><circle cx="474.4" cy="229.9" r="4" fill="#3465a4"><title>Little Hunting</title></circle></a><a href="/setts/s8/db4y4db37k20y1dp5y1k4~x2/"><circle cx="466.5" cy="197.4" r="4" fill="#3465a4"><title>Finnie (Personal)</title></circle></a><a href="/setts/s7/db40db8lo3db6k3db6r4~x2/"><circle cx="399.9" cy="202.8" r="4" fill="#3465a4"><title>Edinburgh &amp; Lothian T.B. (Corporate)</title></circle></a><a href="/setts/s10/dt2k3dt33k11k3dt3dp15dt4o1dt2~x2/"><circle cx="458.2" cy="186.0" r="4" fill="#3465a4"><title>Scottish Thistle</title></circle></a><a href="/setts/s11/dt19k4dt4db1dt1db1dt1dg5dp3k1dp4~x6/"><circle cx="418.7" cy="191.7" r="4" fill="#3465a4"><title>Spirit of Scotland</title></circle></a><circle cx="430.9" cy="204.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/do40t2dp2t2do2dp5dp20t2dp20~x2/"><circle cx="430.8" cy="211.9" r="4" fill="#3465a4"><title>Phillips</title></circle></a><a href="/setts/s8/k4r1db3db28db36k3r2o1~x2/"><circle cx="452.8" cy="184.2" r="4" fill="#3465a4"><title>ODL (Corporate)</title></circle></a><a href="/setts/s8/dp5dp3dp18dg8k8dp31k2dp4~x2/"><circle cx="351.2" cy="221.2" r="4" fill="#3465a4"><title>By Storm</title></circle></a><a href="/setts/s10/dt4dp2dt22k2dt1db2dt1k2db24w2~x2/"><circle cx="397.9" cy="182.7" r="4" fill="#3465a4"><title>Spirit of Wales (Fashion)</title></circle></a><a href="/setts/s9/r2p2g3dp10lb2dp46g2dp19g2~x2/"><circle cx="404.2" cy="151.4" r="4" fill="#3465a4"><title>Spirit of Hoxa</title></circle></a><a href="/setts/s8/db5db3db4db3db4k28db8r1~x2/"><circle cx="474.5" cy="230.1" r="4" fill="#3465a4"><title>Little Hunting</title></circle></a><a href="/setts/s8/k4y1dp5y1k20db37y4db4~x2/"><circle cx="466.4" cy="197.5" r="4" fill="#3465a4"><title>Finnie (Personal)</title></circle></a><a href="/setts/s7/db40db8lo3db6k3db6r4~x2/"><circle cx="399.9" cy="202.9" r="4" fill="#3465a4"><title>Edinburgh &amp; Lothian T.B. (Corporate)</title></circle></a><a href="/setts/s10/dt2k3dt33k11k3dt3dp15dt4o1dt2~x2/"><circle cx="458.2" cy="186.2" r="4" fill="#3465a4"><title>Scottish Thistle</title></circle></a><a href="/setts/s11/dt19k4dt4db1dt1db1dt1dg5dp3k1dp4~x6/"><circle cx="418.7" cy="191.9" r="4" fill="#3465a4"><title>Spirit of Scotland</title></circle></a><circle cx="430.9" cy="204.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/db64r3k3r3dp61dg5dp6~x2/

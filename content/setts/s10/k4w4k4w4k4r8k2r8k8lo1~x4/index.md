@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2349
 
 ## Thread count
-DY/4 K32 R32 K8 R32 K16 LN16 K16 LN16 K/16
+K/16 LN16 K16 LN16 K16 R32 K8 R32 K32 DY/4
 ![Sett](sett.png)
 
 ## Palette
@@ -47,7 +47,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Glover, Thomas Blake](/setts/s12/db5dr10lo4dr10lo4dr10db5lb4db3lb10db1lo1~x2/) — ΔT 1.09
 1. [Little, Arisaid](/setts/s10/k5w4k4r4k4w7k2w7k8ly1~x4/) — ΔT 1.35
 1. [MacDuff](/setts/s7/r8db3k4dg6r4k1r4~x2/) — ΔT 1.39
-1. [Dogrobes](/setts/s9/lb3r2lb9dt15w2dt15r9w2r3~x2/) — ΔT 1.41
+1. [Dogrobes](/setts/s9/r3w2r9dt15w2dt15lb9r2lb3~x2/) — ΔT 1.41
 1. [Cavan County Crest (Fashion)](/setts/s10/lo32db10k52db10w5k24db16w10k11lo15/) — ΔT 1.42
 1. [Westgaard Ladies' (Personal)](/setts/s12/r9lb4r6b4lb2k2lb2r5b3lb2k2lb2~x2/) — ΔT 1.44
 1. [MacDuff](/setts/s7/r8t3k4g6r4k1r4~x2/) — ΔT 1.46
@@ -55,8 +55,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/"><circle cx="192.9" cy="223.0" r="4" fill="#3465a4"><title>Little of Morton Rig Family/Clan Tartan Tartan Number: 2349. Earliest known date: 1991 Designed in 1991 by Dr. J.C.(Pat) Little of Morton Rigg, Dumfries, for the newly organized Clan Little Society. Registered with TECA 12 June1992. Incorporates elements of the Wallace and Shepherd setts. from Pat Little via JCT. Sample in STA's Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/k4r4k4r4k4w8k2w8k8lo1~x4/"><circle cx="161.9" cy="203.9" r="4" fill="#3465a4"><title>Little Dress</title></circle></a><a href="/setts/s12/db5dr10lo4dr10lo4dr10db5lb4db3lb10db1lo1~x2/"><circle cx="170.5" cy="179.6" r="4" fill="#3465a4"><title>Glover, Thomas Blake</title></circle></a><a href="/setts/s10/k5w4k4r4k4w7k2w7k8ly1~x4/"><circle cx="176.8" cy="215.2" r="4" fill="#3465a4"><title>Little, Arisaid</title></circle></a><a href="/setts/s7/r8db3k4dg6r4k1r4~x2/"><circle cx="219.5" cy="231.9" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s9/lb3r2lb9dt15w2dt15r9w2r3~x2/"><circle cx="205.3" cy="183.3" r="4" fill="#3465a4"><title>Dogrobes</title></circle></a><a href="/setts/s10/lo32db10k52db10w5k24db16w10k11lo15/"><circle cx="197.9" cy="182.6" r="4" fill="#3465a4"><title>Cavan County Crest (Fashion)</title></circle></a><a href="/setts/s12/r9lb4r6b4lb2k2lb2r5b3lb2k2lb2~x2/"><circle cx="145.9" cy="205.0" r="4" fill="#3465a4"><title>Westgaard Ladies' (Personal)</title></circle></a><a href="/setts/s7/r8t3k4g6r4k1r4~x2/"><circle cx="214.7" cy="228.8" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s10/k10w7k8w7k8dr14k4dr14k16ly2/"><circle cx="189.9" cy="222.2" r="4" fill="#3465a4"><title>Little of Morton Rig</title></circle></a><circle cx="179.2" cy="209.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/"><circle cx="193.0" cy="222.9" r="4" fill="#3465a4"><title>Little of Morton Rig Family/Clan Tartan Tartan Number: 2349. Earliest known date: 1991 Designed in 1991 by Dr. J.C.(Pat) Little of Morton Rigg, Dumfries, for the newly organized Clan Little Society. Registered with TECA 12 June1992. Incorporates elements of the Wallace and Shepherd setts. from Pat Little via JCT. Sample in STA's Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/k4r4k4r4k4w8k2w8k8lo1~x4/"><circle cx="161.8" cy="203.7" r="4" fill="#3465a4"><title>Little Dress</title></circle></a><a href="/setts/s12/db5dr10lo4dr10lo4dr10db5lb4db3lb10db1lo1~x2/"><circle cx="170.4" cy="179.6" r="4" fill="#3465a4"><title>Glover, Thomas Blake</title></circle></a><a href="/setts/s10/k5w4k4r4k4w7k2w7k8ly1~x4/"><circle cx="176.9" cy="215.0" r="4" fill="#3465a4"><title>Little, Arisaid</title></circle></a><a href="/setts/s7/r8db3k4dg6r4k1r4~x2/"><circle cx="219.4" cy="231.8" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s9/r3w2r9dt15w2dt15lb9r2lb3~x2/"><circle cx="205.2" cy="183.1" r="4" fill="#3465a4"><title>Dogrobes</title></circle></a><a href="/setts/s10/lo32db10k52db10w5k24db16w10k11lo15/"><circle cx="197.9" cy="182.5" r="4" fill="#3465a4"><title>Cavan County Crest (Fashion)</title></circle></a><a href="/setts/s12/r9lb4r6b4lb2k2lb2r5b3lb2k2lb2~x2/"><circle cx="145.7" cy="204.9" r="4" fill="#3465a4"><title>Westgaard Ladies' (Personal)</title></circle></a><a href="/setts/s7/r8t3k4g6r4k1r4~x2/"><circle cx="214.6" cy="228.7" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/setts/s10/k10w7k8w7k8dr14k4dr14k16ly2/"><circle cx="190.1" cy="222.1" r="4" fill="#3465a4"><title>Little of Morton Rig</title></circle></a><circle cx="179.2" cy="209.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/k4w4k4w4k4r8k2r8k8lo1~x4/

@@ -32,8 +32,8 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Hay](/setts/s14/lb6r2k1r2dg4r48dg12r2dg2r2dg36ly2dg4r6/)|
-|![Hay example sett](/setts/s14/lb6r2k1r2dg4r48dg12r2dg2r2dg36ly2dg4r6/sett.png)|
+| [Hay](/setts/s14/r6dg4ly2dg36r2dg2r2dg12r48dg4r2k1r2lb6/)|
+|![Hay example sett](/setts/s14/r6dg4ly2dg36r2dg2r2dg12r48dg4r2k1r2lb6/sett.png)|
 
 ### R G LY G R G R G R G R K R W <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R G LY G R G R G R G R K R W</span></span>
 

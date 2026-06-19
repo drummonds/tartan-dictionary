@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7031
 
 ## Thread count
-LN/6 DBa36 B10 R4 DBa6 DB12 N50 R/6
+R/6 N50 DB12 DBa6 R4 B10 DBa36 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -41,7 +41,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/6 DBa36 B10 R4 DBa6 DB12 N50 R/6 tartan")
+![Tartan detail](tartan.png "R/6 N50 DB12 DBa6 R4 B10 DBa36 LN/6 tartan")
 
 ## Nearest tartans
 
@@ -60,8 +60,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g5m2g2m9k9lr9db30w5~x2/"><circle cx="164.1" cy="135.0" r="4" fill="#3465a4"><title>Alexander of Menstry</title></circle></a><a href="/setts/s10/db28r3w3r3w3r3db14k12t38ly8/"><circle cx="144.3" cy="127.7" r="4" fill="#3465a4"><title>GYL (Personal)</title></circle></a><a href="/setts/s11/db4ly3db22r6w2k6w2db6o20k3o4~x2/"><circle cx="157.0" cy="130.5" r="4" fill="#3465a4"><title>Asman Hunting (Name)</title></circle></a><a href="/setts/s9/db4w3db17lb10k1dp5k1lb6dg3~x2/"><circle cx="169.8" cy="127.5" r="4" fill="#3465a4"><title>Queen Margaret University</title></circle></a><a href="/setts/s9/db16w6r8db3ly1g1t3db1g9~x2/"><circle cx="161.0" cy="128.4" r="4" fill="#3465a4"><title>Ohio District Tartan Tartan Number: 651. Earliest known date: 1984 Design is based on the colours of Ohio's flag and state seal. The widths of the stripes in each colour are based on the date Ohio was admitted to the Union. The tartan first went on display at the Ohio Scottish Games in June 1983. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db46ly4db4ly4db6k16o66w11r6/"><circle cx="194.8" cy="111.0" r="4" fill="#3465a4"><title>Scottish Association for N.S. (Corp)</title></circle></a><a href="/setts/s8/k16w6k4b64m19k8g42ly6/"><circle cx="161.8" cy="135.5" r="4" fill="#3465a4"><title>Unidentified (Woven sample)</title></circle></a><a href="/setts/s9/db16w6r8db3lo1g1lg3db1g10~x4/"><circle cx="148.1" cy="125.5" r="4" fill="#3465a4"><title>Ogilvie of Inverquharity or Ohio</title></circle></a><a href="/setts/s7/lo4r2b32k10dp4lb21dp2~x2/"><circle cx="178.3" cy="128.5" r="4" fill="#3465a4"><title>Dignan School of Dancing</title></circle></a><a href="/setts/s9/db1w2t12k2db2k2dp15db2ly1~x2/"><circle cx="186.8" cy="117.5" r="4" fill="#3465a4"><title>Hek (Name)</title></circle></a><circle cx="153.3" cy="133.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g5m2g2m9k9lr9db30w5~x2/"><circle cx="164.1" cy="135.0" r="4" fill="#3465a4"><title>Alexander of Menstry</title></circle></a><a href="/setts/s10/db28r3w3r3w3r3db14k12t38ly8/"><circle cx="144.4" cy="127.8" r="4" fill="#3465a4"><title>GYL (Personal)</title></circle></a><a href="/setts/s11/db4ly3db22r6w2k6w2db6o20k3o4~x2/"><circle cx="156.9" cy="130.6" r="4" fill="#3465a4"><title>Asman Hunting (Name)</title></circle></a><a href="/setts/s9/db4w3db17lb10k1dp5k1lb6dg3~x2/"><circle cx="169.7" cy="127.5" r="4" fill="#3465a4"><title>Queen Margaret University</title></circle></a><a href="/setts/s9/db16w6r8db3ly1g1t3db1g9~x2/"><circle cx="160.9" cy="128.5" r="4" fill="#3465a4"><title>Ohio District Tartan Tartan Number: 651. Earliest known date: 1984 Design is based on the colours of Ohio's flag and state seal. The widths of the stripes in each colour are based on the date Ohio was admitted to the Union. The tartan first went on display at the Ohio Scottish Games in June 1983. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db46ly4db4ly4db6k16o66w11r6/"><circle cx="194.6" cy="111.1" r="4" fill="#3465a4"><title>Scottish Association for N.S. (Corp)</title></circle></a><a href="/setts/s8/k16w6k4b64m19k8g42ly6/"><circle cx="161.8" cy="135.5" r="4" fill="#3465a4"><title>Unidentified (Woven sample)</title></circle></a><a href="/setts/s9/db16w6r8db3lo1g1lg3db1g10~x4/"><circle cx="148.1" cy="125.6" r="4" fill="#3465a4"><title>Ogilvie of Inverquharity or Ohio</title></circle></a><a href="/setts/s7/lo4r2b32k10dp4lb21dp2~x2/"><circle cx="178.3" cy="128.5" r="4" fill="#3465a4"><title>Dignan School of Dancing</title></circle></a><a href="/setts/s9/db1w2t12k2db2k2dp15db2ly1~x2/"><circle cx="186.7" cy="117.6" r="4" fill="#3465a4"><title>Hek (Name)</title></circle></a><circle cx="153.2" cy="133.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r3lr25db6db3r2t5db18w3~x2/

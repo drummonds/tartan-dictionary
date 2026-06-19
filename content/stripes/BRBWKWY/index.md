@@ -20,7 +20,7 @@ BRBWKWY
 
 
 
-### DO O DO LB K LB LR <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">DO O DO LB K LB LR</span></span>
+### LR LB K LB DO O DO <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="seq">LR LB K LB DO O DO</span></span>
 
 | Tartans |
 |---------------|

@@ -2,7 +2,7 @@
 title: "Total"
 date: 2023-03-18
 ---
-**Bands:** [BYBKWKYKGKYKWKRYG](/stripes/bybkwkykgkykwkryg/) · **Stripes:** [DT LO DT K W K LO K G K LO K W K R LO G](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DT LO DT K W K LO K G K LO K W K R LO G</span></span>
+**Bands:** [GYRKWKYKGKYKWKBYB](/stripes/gyrkwkykgkykwkbyb/) · **Stripes:** [G LO R K W K LO K G K LO K W K DT LO DT](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#023535"></span><span class="seq">G LO R K W K LO K G K LO K W K DT LO DT</span></span>
 
 
 This was sourced from weddslist.  It is a [17 band tartan](/bands/bands17/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,14 +914,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Cherry Valley New York](/setts/s21/o16r2o2r2o2k16dg2b2dg2b2dg10r2g10b2g2b2g2k16o15r2o2~x2/) — ΔT 0.98
 1. [Quebec, Plaid Du](/setts/s12/db25g5db2ly2k2r3g20r20db2w2k2r2~x2/) — ΔT 1.01
 1. [Murtaugh Hunting Tartan Tartan Number: 5818. Earliest known date: 2003 After original Murtaugh by Don Smith, Heraldic Graphics See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s21/r4k4n4ly2n2w2n2ly2n2w2k4g3k2g24w2k2n3k3w2r4k2~x2/) — ΔT 1.09
-1. [U.S. Ancient Order of Hibernians (Co](/setts/s13/lo3db3lo15db2k2db2k20g20db3g3w2g2r3~x2/) — ΔT 1.13
+1. [U.S. Ancient Order of Hibernians (Co](/setts/s13/r3g2w2g3db3g20k20db2k2db2lo15db3lo3~x2/) — ΔT 1.13
 1. [Murtaugh Hunting](/setts/s21/r4k4o4ly2o2w2o2ly2o2w2k4g3k2g24w2k2o3k3w2r4k2~x2/) — ΔT 1.15
 1. [Ferrazza (Personal)](/setts/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/) — ΔT 1.16
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/db10k1g1k1g1k1db10r3k10r3g10k1ly1k1w1k1g10~x2/"><circle cx="107.8" cy="114.9" r="4" fill="#3465a4"><title>Cunningham, hunting</title></circle></a><a href="/setts/s15/g10r2g2r3g11lb2k10r2db12k1lo2r2lo2r2lo2~x2/"><circle cx="97.6" cy="118.8" r="4" fill="#3465a4"><title>Esteba-Quer (Personal)</title></circle></a><a href="/setts/s15/r6g2r2g8k2ly2k2ly2k10db2k2db23w2db2w2~x2/"><circle cx="128.4" cy="93.6" r="4" fill="#3465a4"><title>Estes</title></circle></a><a href="/setts/s14/g10r2g2r3g11lb2k10r2db12k1lo2r2lo2r2~x2/"><circle cx="105.7" cy="124.3" r="4" fill="#3465a4"><title>Esteba-Quer (Personal)</title></circle></a><a href="/setts/s21/o16r2o2r2o2k16dg2b2dg2b2dg10r2g10b2g2b2g2k16o15r2o2~x2/"><circle cx="75.7" cy="107.9" r="4" fill="#3465a4"><title>Cherry Valley New York</title></circle></a><a href="/setts/s12/db25g5db2ly2k2r3g20r20db2w2k2r2~x2/"><circle cx="138.8" cy="106.1" r="4" fill="#3465a4"><title>Quebec, Plaid Du</title></circle></a><a href="/setts/s21/r4k4n4ly2n2w2n2ly2n2w2k4g3k2g24w2k2n3k3w2r4k2~x2/"><circle cx="121.7" cy="83.3" r="4" fill="#3465a4"><title>Murtaugh Hunting Tartan Tartan Number: 5818. Earliest known date: 2003 After original Murtaugh by Don Smith, Heraldic Graphics See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/lo3db3lo15db2k2db2k20g20db3g3w2g2r3~x2/"><circle cx="114.2" cy="122.2" r="4" fill="#3465a4"><title>U.S. Ancient Order of Hibernians (Co</title></circle></a><a href="/setts/s21/r4k4o4ly2o2w2o2ly2o2w2k4g3k2g24w2k2o3k3w2r4k2~x2/"><circle cx="114.8" cy="76.5" r="4" fill="#3465a4"><title>Murtaugh Hunting</title></circle></a><a href="/setts/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/"><circle cx="104.6" cy="106.4" r="4" fill="#3465a4"><title>Ferrazza (Personal)</title></circle></a><circle cx="108.7" cy="90.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/db10k1g1k1g1k1db10r3k10r3g10k1ly1k1w1k1g10~x2/"><circle cx="107.9" cy="115.0" r="4" fill="#3465a4"><title>Cunningham, hunting</title></circle></a><a href="/setts/s15/g10r2g2r3g11lb2k10r2db12k1lo2r2lo2r2lo2~x2/"><circle cx="97.7" cy="118.9" r="4" fill="#3465a4"><title>Esteba-Quer (Personal)</title></circle></a><a href="/setts/s15/r6g2r2g8k2ly2k2ly2k10db2k2db23w2db2w2~x2/"><circle cx="128.4" cy="93.7" r="4" fill="#3465a4"><title>Estes</title></circle></a><a href="/setts/s14/g10r2g2r3g11lb2k10r2db12k1lo2r2lo2r2~x2/"><circle cx="105.8" cy="124.4" r="4" fill="#3465a4"><title>Esteba-Quer (Personal)</title></circle></a><a href="/setts/s21/o16r2o2r2o2k16dg2b2dg2b2dg10r2g10b2g2b2g2k16o15r2o2~x2/"><circle cx="75.8" cy="108.0" r="4" fill="#3465a4"><title>Cherry Valley New York</title></circle></a><a href="/setts/s12/db25g5db2ly2k2r3g20r20db2w2k2r2~x2/"><circle cx="138.8" cy="106.2" r="4" fill="#3465a4"><title>Quebec, Plaid Du</title></circle></a><a href="/setts/s21/r4k4n4ly2n2w2n2ly2n2w2k4g3k2g24w2k2n3k3w2r4k2~x2/"><circle cx="121.6" cy="83.5" r="4" fill="#3465a4"><title>Murtaugh Hunting Tartan Tartan Number: 5818. Earliest known date: 2003 After original Murtaugh by Don Smith, Heraldic Graphics See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/r3g2w2g3db3g20k20db2k2db2lo15db3lo3~x2/"><circle cx="114.2" cy="122.4" r="4" fill="#3465a4"><title>U.S. Ancient Order of Hibernians (Co</title></circle></a><a href="/setts/s21/r4k4o4ly2o2w2o2ly2o2w2k4g3k2g24w2k2o3k3w2r4k2~x2/"><circle cx="114.6" cy="76.6" r="4" fill="#3465a4"><title>Murtaugh Hunting</title></circle></a><a href="/setts/s23/db16k16g2k2g2k2g16k2g2k2g2k16ly16k2db2r2k2ly16k16db16k2w3k2~x2/"><circle cx="104.6" cy="106.5" r="4" fill="#3465a4"><title>Ferrazza (Personal)</title></circle></a><circle cx="108.7" cy="90.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s17/dt48lo4dt28k5w4k6lo4k7g8k7lo4k6w4k5r24lo4g48/

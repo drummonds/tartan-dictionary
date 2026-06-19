@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3519
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Robert Gordon University University
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -26,7 +32,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2450
 
 ## Thread count
-DY/4 K2 DB24 K24 DR4 K/8
+K/8 DR4 K24 DB24 K2 DY/4
 ![Sett](sett.png)
 
 ## Palette
@@ -41,7 +47,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DY/4 K2 DB24 K24 DR4 K/8 tartan")
+![Tartan detail](tartan.png "K/8 DR4 K24 DB24 K2 DY/4 tartan")
 
 ## Nearest tartans
 
@@ -52,7 +58,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Saorsa](/setts/s7/dp18dg24k3db6dp2db5dp18~x2/) — ΔT 1.15
 1. [Givens (Arizona)](/setts/s6/k42w5k5dg16k5db21~x2/) — ΔT 1.17
 1. [Joe Strummer Commemorative](/setts/s7/k3dy3y6k12y1dy2dy2~x4/) — ΔT 1.29
-1. [Cork, County (District)](/setts/s9/dg28r12dg4k20lo2k3lo2k3dg7~x2/) — ΔT 1.29
+1. [Cork, County (District)](/setts/s9/dg28r12dg4k20lo2k3lo2k3dg7~x2/) — ΔT 1.30
 1. [Perthshire, New /Tourist Board](/setts/s6/db37r10dg22db11dg3r3~x2/) — ΔT 1.30
 1. [Slanj Dress (Corporate)](/setts/s8/k4db36k4db4k34b3k3w4~x2/) — ΔT 1.32
 1. [Nairn](/setts/s5/r1k8g2db4r1~x8/) — ΔT 1.33
@@ -60,8 +66,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k10db4k34dt2k2dt30w3~x2/"><circle cx="388.6" cy="210.9" r="4" fill="#3465a4"><title>Patriot, The (Fashion)</title></circle></a><a href="/setts/s6/k42w5dg16k5k5db21~x2/"><circle cx="306.2" cy="242.1" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/setts/s7/dp18dg24k3db6dp2db5dp18~x2/"><circle cx="335.1" cy="248.3" r="4" fill="#3465a4"><title>Saorsa</title></circle></a><a href="/setts/s6/k42w5k5dg16k5db21~x2/"><circle cx="309.1" cy="244.8" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/setts/s7/k3dy3y6k12y1dy2dy2~x4/"><circle cx="284.8" cy="206.1" r="4" fill="#3465a4"><title>Joe Strummer Commemorative</title></circle></a><a href="/setts/s9/dg28r12dg4k20lo2k3lo2k3dg7~x2/"><circle cx="319.1" cy="203.0" r="4" fill="#3465a4"><title>Cork, County (District)</title></circle></a><a href="/setts/s6/db37r10dg22db11dg3r3~x2/"><circle cx="387.7" cy="265.7" r="4" fill="#3465a4"><title>Perthshire, New /Tourist Board</title></circle></a><a href="/setts/s8/k4db36k4db4k34b3k3w4~x2/"><circle cx="348.3" cy="202.6" r="4" fill="#3465a4"><title>Slanj Dress (Corporate)</title></circle></a><a href="/setts/s5/r1k8g2db4r1~x8/"><circle cx="274.2" cy="244.1" r="4" fill="#3465a4"><title>Nairn</title></circle></a><a href="/setts/s6/k2dg7db2dg7db16r1~x6/"><circle cx="360.5" cy="234.8" r="4" fill="#3465a4"><title>Hutton</title></circle></a><circle cx="338.6" cy="237.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k10db4k34dt2k2dt30w3~x2/"><circle cx="388.7" cy="210.9" r="4" fill="#3465a4"><title>Patriot, The (Fashion)</title></circle></a><a href="/setts/s6/k42w5dg16k5k5db21~x2/"><circle cx="306.3" cy="242.0" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/setts/s7/dp18dg24k3db6dp2db5dp18~x2/"><circle cx="335.2" cy="248.3" r="4" fill="#3465a4"><title>Saorsa</title></circle></a><a href="/setts/s6/k42w5k5dg16k5db21~x2/"><circle cx="309.3" cy="244.8" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/setts/s7/k3dy3y6k12y1dy2dy2~x4/"><circle cx="284.9" cy="206.1" r="4" fill="#3465a4"><title>Joe Strummer Commemorative</title></circle></a><a href="/setts/s9/dg28r12dg4k20lo2k3lo2k3dg7~x2/"><circle cx="319.1" cy="203.0" r="4" fill="#3465a4"><title>Cork, County (District)</title></circle></a><a href="/setts/s6/db37r10dg22db11dg3r3~x2/"><circle cx="387.9" cy="265.7" r="4" fill="#3465a4"><title>Perthshire, New /Tourist Board</title></circle></a><a href="/setts/s8/k4db36k4db4k34b3k3w4~x2/"><circle cx="348.3" cy="202.5" r="4" fill="#3465a4"><title>Slanj Dress (Corporate)</title></circle></a><a href="/setts/s5/r1k8g2db4r1~x8/"><circle cx="274.4" cy="244.0" r="4" fill="#3465a4"><title>Nairn</title></circle></a><a href="/setts/s6/k2dg7db2dg7db16r1~x6/"><circle cx="360.6" cy="234.7" r="4" fill="#3465a4"><title>Hutton</title></circle></a><circle cx="338.7" cy="237.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k4r2k12db12k1lo2~x2/

@@ -18,10 +18,10 @@ WBYRYRYRYBRBGBGY
 
 
 
-### W N LR M LR M LR M LR DP M DP DG N DG LR <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">W N LR M LR M LR M LR DP M DP DG N DG LR</span></span>
+### LR DG N DG DP M DP LR M LR M LR M LR N W <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LR DG N DG DP M DP LR M LR M LR M LR N W</span></span>
 
 | Tartans |
 |---------------|
-| [Cribb (2016)](/setts/s16/lr2dg4n2dg12dp10m1dp10lr2m2lr2m2lr2m2lr12n1w2~x2/)|
-|![Cribb (2016) example sett](/setts/s16/lr2dg4n2dg12dp10m1dp10lr2m2lr2m2lr2m2lr12n1w2~x2/sett.png)|
+| [Cribb (2016)](/setts/s16/w2n1lr12m2lr2m2lr2m2lr2dp10m1dp10dg12n2dg4lr2~x2/)|
+|![Cribb (2016) example sett](/setts/s16/w2n1lr12m2lr2m2lr2m2lr2dp10m1dp10dg12n2dg4lr2~x2/sett.png)|
 

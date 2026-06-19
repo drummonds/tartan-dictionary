@@ -20,7 +20,7 @@ BRGYY
 
 
 
-### DB O DG LY LO <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DB O DG LY LO</span></span>
+### LO LY DG O DB <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="seq">LO LY DG O DB</span></span>
 
 | Tartans |
 |---------------|

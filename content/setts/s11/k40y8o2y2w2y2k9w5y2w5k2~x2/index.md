@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/4 LN10 N4 LN10 K18 N4 LN4 N4 LT4 N16 K/80
+K/80 N16 LT4 N4 LN4 N4 K18 LN10 N4 LN10 K/4
 ![Sett](sett.png)
 
 ## Palette
@@ -908,15 +911,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Pride of Scotland Royal fashion Tartan Tartan Number: 5586. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/k7lr2w2lr2k13lr2k2b1lr13k26b2~x2/) — ΔT 1.38
 1. [King Robert the Bruce Memorial (Com](/setts/s10/r8k79o4k4lb4k6o22k6r16k6/) — ΔT 1.40
 1. [Glen Ross (WCWM - 2)](/setts/s12/k48n4k6lr2k2r2k2n10o6k2o3r2~x2/) — ΔT 1.42
-1. [Stuart/Stewart navy](/setts/s10/k37r4w9k2w2o9k4w2k2dy2~x2/) — ΔT 1.47
+1. [Stuart/Stewart navy](/setts/s10/k37r4w9k2w2o9k4w2k2dy2~x2/) — ΔT 1.48
 1. [Valdres, Kvam and Vang](/setts/s11/k4w1r4k2g2r3k2k20r2k2r2/) — ΔT 1.52
 1. [Ashers of Nairn](/setts/s10/lo4k3w3k44lo4k22lb22w3k3lo4/) — ΔT 1.56
 1. [Langtree Trade Tartan Tartan Number: 1131. Earliest known date: pre 2003 A Stewart colour variation marketed by Selfridge's, London and apparently designed and woven by Pendleton Woolen Mills of Oregon. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/k86o6k4w3k3r3k3o22lo14k3lo6w4/) — ΔT 1.60
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/o8k40dy2o2w2o2k9w5o2w5k2~x2/"><circle cx="372.2" cy="113.5" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><a href="/setts/s12/k86y6k4w3k3r3k3y22o14k3o6w4/"><circle cx="366.7" cy="77.2" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/setts/s10/ly2k3w3k44ly4k22lb22w3k3ly2/"><circle cx="372.7" cy="121.9" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/setts/s11/k7lr2w2lr2k13lr2k2b1lr13k26b2~x2/"><circle cx="389.7" cy="125.9" r="4" fill="#3465a4"><title>Pride of Scotland Royal fashion Tartan Tartan Number: 5586. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r8k79o4k4lb4k6o22k6r16k6/"><circle cx="400.4" cy="130.0" r="4" fill="#3465a4"><title>King Robert the Bruce Memorial (Com</title></circle></a><a href="/setts/s12/k48n4k6lr2k2r2k2n10o6k2o3r2~x2/"><circle cx="401.3" cy="94.6" r="4" fill="#3465a4"><title>Glen Ross (WCWM - 2)</title></circle></a><a href="/setts/s10/k37r4w9k2w2o9k4w2k2dy2~x2/"><circle cx="320.2" cy="105.6" r="4" fill="#3465a4"><title>Stuart/Stewart navy</title></circle></a><a href="/setts/s11/k4w1r4k2g2r3k2k20r2k2r2/"><circle cx="411.9" cy="133.4" r="4" fill="#3465a4"><title>Valdres, Kvam and Vang</title></circle></a><a href="/setts/s10/lo4k3w3k44lo4k22lb22w3k3lo4/"><circle cx="336.1" cy="137.7" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/setts/s12/k86o6k4w3k3r3k3o22lo14k3lo6w4/"><circle cx="375.7" cy="76.6" r="4" fill="#3465a4"><title>Langtree Trade Tartan Tartan Number: 1131. Earliest known date: pre 2003 A Stewart colour variation marketed by Selfridge's, London and apparently designed and woven by Pendleton Woolen Mills of Oregon. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="365.9" cy="115.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/o8k40dy2o2w2o2k9w5o2w5k2~x2/"><circle cx="372.0" cy="113.3" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><a href="/setts/s12/k86y6k4w3k3r3k3y22o14k3o6w4/"><circle cx="366.6" cy="77.0" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/setts/s10/ly2k3w3k44ly4k22lb22w3k3ly2/"><circle cx="372.4" cy="121.6" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/setts/s11/k7lr2w2lr2k13lr2k2b1lr13k26b2~x2/"><circle cx="389.5" cy="125.7" r="4" fill="#3465a4"><title>Pride of Scotland Royal fashion Tartan Tartan Number: 5586. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r8k79o4k4lb4k6o22k6r16k6/"><circle cx="400.2" cy="129.8" r="4" fill="#3465a4"><title>King Robert the Bruce Memorial (Com</title></circle></a><a href="/setts/s12/k48n4k6lr2k2r2k2n10o6k2o3r2~x2/"><circle cx="401.2" cy="94.5" r="4" fill="#3465a4"><title>Glen Ross (WCWM - 2)</title></circle></a><a href="/setts/s10/k37r4w9k2w2o9k4w2k2dy2~x2/"><circle cx="320.1" cy="105.5" r="4" fill="#3465a4"><title>Stuart/Stewart navy</title></circle></a><a href="/setts/s11/k4w1r4k2g2r3k2k20r2k2r2/"><circle cx="411.8" cy="133.2" r="4" fill="#3465a4"><title>Valdres, Kvam and Vang</title></circle></a><a href="/setts/s10/lo4k3w3k44lo4k22lb22w3k3lo4/"><circle cx="335.9" cy="137.5" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/setts/s12/k86o6k4w3k3r3k3o22lo14k3lo6w4/"><circle cx="375.5" cy="76.5" r="4" fill="#3465a4"><title>Langtree Trade Tartan Tartan Number: 1131. Earliest known date: pre 2003 A Stewart colour variation marketed by Selfridge's, London and apparently designed and woven by Pendleton Woolen Mills of Oregon. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="365.8" cy="115.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k40y8o2y2w2y2k9w5y2w5k2~x2/

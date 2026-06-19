@@ -2,7 +2,7 @@
 title: "Dunoon Burgh Hall Trust"
 date: 2023-03-18
 ---
-**Bands:** [BRGRY](/stripes/brgry/) · **Stripes:** [DB M G O LY](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB M G O LY</span></span>
+**Bands:** [YRGRB](/stripes/yrgrb/) · **Stripes:** [LY O G M DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="seq">LY O G M DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
@@ -38,10 +38,10 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Inspiration](/setts/s5/ly5n21ly11db12r5~x2/) — ΔT 1.13
-1. [Inspiration](/setts/s5/lo5dt21ly11t12r5~x2/) — ΔT 1.18
+1. [Inspiration](/setts/s5/r5db12ly11n21ly5~x2/) — ΔT 1.13
+1. [Inspiration](/setts/s5/r5t12ly11dt21lo5~x2/) — ΔT 1.18
 1. [Clan Haggis World (Corporate)](/setts/s5/r13ly13g13b22w4~x2/) — ΔT 1.21
-1. [Unidentified Silk Plaid](/setts/s5/db7o8dg15ly6lo3~x10/) — ΔT 1.29
+1. [Unidentified Silk Plaid](/setts/s5/db7o8dg15ly6lo3~x10/) — ΔT 1.30
 1. [Mitchell, Martin (Personal)](/setts/s6/lr12lo8r5k6lr7g5~x4/) — ΔT 1.36
 1. [MacTeddy](/setts/s5/t3w10db10g10r2~x4/) — ΔT 1.40
 1. [Wilson's, No 214](/setts/s5/g4r3t1k1t3~x4/) — ΔT 1.48
@@ -51,8 +51,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/ly5n21ly11db12r5~x2/"><circle cx="95.2" cy="240.0" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/setts/s5/lo5dt21ly11t12r5~x2/"><circle cx="98.0" cy="246.4" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/setts/s5/r13ly13g13b22w4~x2/"><circle cx="51.7" cy="236.6" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/setts/s5/db7o8dg15ly6lo3~x10/"><circle cx="92.0" cy="242.2" r="4" fill="#3465a4"><title>Unidentified Silk Plaid</title></circle></a><a href="/setts/s6/lr12lo8r5k6lr7g5~x4/"><circle cx="80.0" cy="287.3" r="4" fill="#3465a4"><title>Mitchell, Martin (Personal)</title></circle></a><a href="/setts/s5/t3w10db10g10r2~x4/"><circle cx="52.6" cy="237.8" r="4" fill="#3465a4"><title>MacTeddy</title></circle></a><a href="/setts/s5/g4r3t1k1t3~x4/"><circle cx="108.8" cy="276.1" r="4" fill="#3465a4"><title>Wilson's, No 214</title></circle></a><a href="/setts/s5/r13lo13g13db22w4~x2/"><circle cx="72.5" cy="245.5" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/setts/s5/k19t10dp19g40ly10/"><circle cx="108.7" cy="255.8" r="4" fill="#3465a4"><title>Gallowater Old District Tartan Tartan Number: 1025. Earliest known date: 1819 Both 'Old' and 'New' appear in Wilson's 1819 pattern book. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/db7o8g15ly6y3~x10/"><circle cx="98.1" cy="245.9" r="4" fill="#3465a4"><title>Unidentified, Silk Plaid</title></circle></a><circle cx="63.7" cy="266.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r5db12ly11n21ly5~x2/"><circle cx="95.1" cy="239.9" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/setts/s5/r5t12ly11dt21lo5~x2/"><circle cx="98.1" cy="246.4" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/setts/s5/r13ly13g13b22w4~x2/"><circle cx="51.7" cy="236.6" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/setts/s5/db7o8dg15ly6lo3~x10/"><circle cx="92.0" cy="242.2" r="4" fill="#3465a4"><title>Unidentified Silk Plaid</title></circle></a><a href="/setts/s6/lr12lo8r5k6lr7g5~x4/"><circle cx="80.1" cy="287.3" r="4" fill="#3465a4"><title>Mitchell, Martin (Personal)</title></circle></a><a href="/setts/s5/t3w10db10g10r2~x4/"><circle cx="52.7" cy="237.8" r="4" fill="#3465a4"><title>MacTeddy</title></circle></a><a href="/setts/s5/g4r3t1k1t3~x4/"><circle cx="108.9" cy="276.0" r="4" fill="#3465a4"><title>Wilson's, No 214</title></circle></a><a href="/setts/s5/r13lo13g13db22w4~x2/"><circle cx="72.6" cy="245.5" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/setts/s5/k19t10dp19g40ly10/"><circle cx="108.8" cy="255.8" r="4" fill="#3465a4"><title>Gallowater Old District Tartan Tartan Number: 1025. Earliest known date: 1819 Both 'Old' and 'New' appear in Wilson's 1819 pattern book. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/db7o8g15ly6y3~x10/"><circle cx="98.1" cy="245.9" r="4" fill="#3465a4"><title>Unidentified, Silk Plaid</title></circle></a><circle cx="63.7" cy="266.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/db2m3g3o6ly2~x2/

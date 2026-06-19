@@ -22,6 +22,6 @@ BWBBBBRBRYRYWYRYRBRBBBBW
 
 | Tartans |
 |---------------|
-| [Holland, Tartan of](/setts/s24/db15w2db9db10db2db10r8db2r8lo6r2lo19w3lo19r2lo6r8db2r8db10db2db10db9w2~x2/)|
-|![Holland, Tartan of example sett](/setts/s24/db15w2db9db10db2db10r8db2r8lo6r2lo19w3lo19r2lo6r8db2r8db10db2db10db9w2~x2/sett.png)|
+| [Holland, Tartan of](/setts/s24/db15w2db9db10db2db10r8db2r8lo6r2lo19w3~x2/)|
+|![Holland, Tartan of example sett](/setts/s24/db15w2db9db10db2db10r8db2r8lo6r2lo19w3~x2/sett.png)|
 

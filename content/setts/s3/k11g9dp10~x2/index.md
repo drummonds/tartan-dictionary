@@ -2,7 +2,7 @@
 title: "Wilson's No.185"
 date: 2023-03-18
 ---
-**Bands:** [BGK](/stripes/bgk/) · **Stripes:** [DP G K](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">DP G K</span></span>
+**Bands:** [KGB](/stripes/kgb/) · **Stripes:** [K G DP](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">K G DP</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
@@ -42,19 +42,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Wilson's, No 185](/setts/s3/k11p10g9~x2/) — ΔT 1.53
 1. [Wilson's No.204](/setts/s3/k11g9r10~x2/) — ΔT 1.54
-1. [Glen Lyon](/setts/s3/db8g7k8~x2/) — ΔT 1.83
+1. [Glen Lyon](/setts/s3/k8g7db8~x2/) — ΔT 1.83
 1. [Kazakhstan Relic (Artefact)](/setts/s3/lo5db5k3~x4/) — ΔT 1.83
-1. [Ballindalloch Check](/setts/s5/dg1o1dr1o1dr1~x8/) — ΔT 2.06
+1. [Ballindalloch Check](/setts/s5/dr1o1dr1o1dg1~x8/) — ΔT 2.06
 1. [Glen Lyon (District)](/setts/s3/k5g4t3~x2/) — ΔT 2.06
 1. [Usa](/setts/s3/db1lr1r1~x4/) — ΔT 2.09
-1. [Glenlyon](/setts/s3/db8dg7k8~x2/) — ΔT 2.19
+1. [Glenlyon](/setts/s3/k8dg7db8~x2/) — ΔT 2.19
 1. [Wilson's, No 204](/setts/s3/r10k11g9~x2/) — ΔT 2.19
-1. [Kazakhstan Relic](/setts/s4/db5k3db5lo5~x4/) — ΔT 2.25
+1. [Kazakhstan Relic](/setts/s4/lo5db5k3~x4/) — ΔT 2.25
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/k11p10g9~x2/"><circle cx="35.6" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 185</title></circle></a><a href="/setts/s3/k11g9r10~x2/"><circle cx="63.7" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.204</title></circle></a><a href="/setts/s3/db8g7k8~x2/"><circle cx="22.4" cy="366.0" r="4" fill="#3465a4"><title>Glen Lyon</title></circle></a><a href="/setts/s3/lo5db5k3~x4/"><circle cx="94.0" cy="366.0" r="4" fill="#3465a4"><title>Kazakhstan Relic (Artefact)</title></circle></a><a href="/setts/s5/dg1o1dr1o1dr1~x8/"><circle cx="67.3" cy="366.0" r="4" fill="#3465a4"><title>Ballindalloch Check</title></circle></a><a href="/setts/s3/k5g4t3~x2/"><circle cx="111.5" cy="366.0" r="4" fill="#3465a4"><title>Glen Lyon (District)</title></circle></a><a href="/setts/s3/db1lr1r1~x4/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Usa</title></circle></a><a href="/setts/s3/db8dg7k8~x2/"><circle cx="109.7" cy="366.0" r="4" fill="#3465a4"><title>Glenlyon</title></circle></a><a href="/setts/s3/r10k11g9~x2/"><circle cx="34.5" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 204</title></circle></a><a href="/setts/s4/db5k3db5lo5~x4/"><circle cx="171.4" cy="366.0" r="4" fill="#3465a4"><title>Kazakhstan Relic</title></circle></a><circle cx="77.6" cy="366.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/k11p10g9~x2/"><circle cx="36.2" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 185</title></circle></a><a href="/setts/s3/k11g9r10~x2/"><circle cx="64.1" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.204</title></circle></a><a href="/setts/s3/k8g7db8~x2/"><circle cx="23.0" cy="366.0" r="4" fill="#3465a4"><title>Glen Lyon</title></circle></a><a href="/setts/s3/lo5db5k3~x4/"><circle cx="94.3" cy="366.0" r="4" fill="#3465a4"><title>Kazakhstan Relic (Artefact)</title></circle></a><a href="/setts/s5/dr1o1dr1o1dg1~x8/"><circle cx="67.6" cy="366.0" r="4" fill="#3465a4"><title>Ballindalloch Check</title></circle></a><a href="/setts/s3/k5g4t3~x2/"><circle cx="111.9" cy="366.0" r="4" fill="#3465a4"><title>Glen Lyon (District)</title></circle></a><a href="/setts/s3/db1lr1r1~x4/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Usa</title></circle></a><a href="/setts/s3/k8dg7db8~x2/"><circle cx="110.2" cy="366.0" r="4" fill="#3465a4"><title>Glenlyon</title></circle></a><a href="/setts/s3/r10k11g9~x2/"><circle cx="34.9" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 204</title></circle></a><a href="/setts/s4/lo5db5k3~x4/"><circle cx="171.7" cy="366.0" r="4" fill="#3465a4"><title>Kazakhstan Relic</title></circle></a><circle cx="78.1" cy="366.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/k11g9dp10~x2/

@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=183
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Balmoral Green,
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -31,7 +37,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-G/6 Na6 K6 Na12 N22 Na6 N6 Na6 K12 N14 Na48 G6 Na/10
+Na/10 G6 Na48 N14 K12 Na6 N6 Na6 N22 Na12 K6 Na6 G/6
 ![Sett](sett.png)
 
 ## Palette
@@ -53,17 +59,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Balmoral](/setts/s13/lb9r5lb47n13k11lb5n5lb5n21lb11k5lb5r5/) — ΔT 0.82
 1. [Balmoral Gillies (Royal)](/setts/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/) — ΔT 0.95
 1. [Balmoral](/setts/s13/lr4r2lr11y2k2lr1y1lr1y4lr2k1lr1r1~x2/) — ΔT 1.02
-1. [Balmoral](/setts/s13/lr4r2lr11y2k2lr1y1lr1y4lr2k1lr1r1/) — ΔT 1.02
-1. [Balmoral (Ghillies white variation)](/setts/s13/w2r1w8o2k2w1o1w1o4w2k1w1r1~x4/) — ΔT 1.03
 1. [Balmoral](/setts/s13/y2r1y8lp2k2y1lp1y1lp4y2k1y1r1~x2/) — ΔT 1.03
+1. [Balmoral (Ghillies white variation)](/setts/s13/w2r1w8o2k2w1o1w1o4w2k1w1r1~x4/) — ΔT 1.03
 1. [Balmoral (Jack Allen)](/setts/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2/) — ΔT 1.04
 1. [Balmoral Variant (Corporate)](/setts/s12/lb12r6lb60n16k23n22lb6k6lb6n8r6n8~x2/) — ΔT 1.06
 1. [Balmoral, Green lines](/setts/s13/lb4g2lb25n16k5lb2n2lb2n8lb4k2lb2g2~x2/) — ΔT 1.09
+1. [Breifne](/setts/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2/) — ΔT 1.14
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lb5r3lb24n7k6lb3n3lb3n11lb6k3lb3r3~x2/"><circle cx="250.4" cy="159.9" r="4" fill="#3465a4"><title>Balmoral (Royal)</title></circle></a><a href="/setts/s13/lb9r5lb47n13k11lb5n5lb5n21lb11k5lb5r5/"><circle cx="253.5" cy="143.1" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/"><circle cx="278.5" cy="132.8" r="4" fill="#3465a4"><title>Balmoral Gillies (Royal)</title></circle></a><a href="/setts/s13/lr4r2lr11y2k2lr1y1lr1y4lr2k1lr1r1~x2/"><circle cx="310.2" cy="145.5" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s13/lr4r2lr11y2k2lr1y1lr1y4lr2k1lr1r1/"><circle cx="310.2" cy="145.5" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s13/w2r1w8o2k2w1o1w1o4w2k1w1r1~x4/"><circle cx="242.2" cy="150.5" r="4" fill="#3465a4"><title>Balmoral (Ghillies white variation)</title></circle></a><a href="/setts/s13/y2r1y8lp2k2y1lp1y1lp4y2k1y1r1~x2/"><circle cx="261.1" cy="165.6" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2/"><circle cx="274.2" cy="134.7" r="4" fill="#3465a4"><title>Balmoral (Jack Allen)</title></circle></a><a href="/setts/s12/lb12r6lb60n16k23n22lb6k6lb6n8r6n8~x2/"><circle cx="219.1" cy="148.5" r="4" fill="#3465a4"><title>Balmoral Variant (Corporate)</title></circle></a><a href="/setts/s13/lb4g2lb25n16k5lb2n2lb2n8lb4k2lb2g2~x2/"><circle cx="258.7" cy="128.1" r="4" fill="#3465a4"><title>Balmoral, Green lines</title></circle></a><circle cx="248.0" cy="163.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/lb5r3lb24n7k6lb3n3lb3n11lb6k3lb3r3~x2/"><circle cx="250.1" cy="159.7" r="4" fill="#3465a4"><title>Balmoral (Royal)</title></circle></a><a href="/setts/s13/lb9r5lb47n13k11lb5n5lb5n21lb11k5lb5r5/"><circle cx="253.1" cy="142.9" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/"><circle cx="278.1" cy="132.6" r="4" fill="#3465a4"><title>Balmoral Gillies (Royal)</title></circle></a><a href="/setts/s13/lr4r2lr11y2k2lr1y1lr1y4lr2k1lr1r1~x2/"><circle cx="309.8" cy="145.3" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s13/y2r1y8lp2k2y1lp1y1lp4y2k1y1r1~x2/"><circle cx="260.8" cy="165.5" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/setts/s13/w2r1w8o2k2w1o1w1o4w2k1w1r1~x4/"><circle cx="241.7" cy="150.3" r="4" fill="#3465a4"><title>Balmoral (Ghillies white variation)</title></circle></a><a href="/setts/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2/"><circle cx="273.8" cy="134.5" r="4" fill="#3465a4"><title>Balmoral (Jack Allen)</title></circle></a><a href="/setts/s12/lb12r6lb60n16k23n22lb6k6lb6n8r6n8~x2/"><circle cx="218.8" cy="148.4" r="4" fill="#3465a4"><title>Balmoral Variant (Corporate)</title></circle></a><a href="/setts/s13/lb4g2lb25n16k5lb2n2lb2n8lb4k2lb2g2~x2/"><circle cx="258.4" cy="128.0" r="4" fill="#3465a4"><title>Balmoral, Green lines</title></circle></a><a href="/setts/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2/"><circle cx="220.0" cy="167.0" r="4" fill="#3465a4"><title>Breifne</title></circle></a><circle cx="247.6" cy="163.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/lb5g3lb24n7k6lb3n3lb3n11lb6k3lb3g3~x2/

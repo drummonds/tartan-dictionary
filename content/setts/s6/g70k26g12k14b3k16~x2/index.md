@@ -2,7 +2,7 @@
 title: "Duchess of Fife"
 date: 2023-03-18
 ---
-**Bands:** [GKGKBK](/stripes/gkgkbk/) · **Stripes:** [G K G K B K](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="seq">G K G K B K</span></span>
+**Bands:** [KBKGKG](/stripes/kbkgkg/) · **Stripes:** [K B K G K G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K B K G K G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -47,19 +47,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Fife, Duchess of..](/setts/s6/g30k12g6k6db2k5~x2/) — ΔT 0.70
 1. [MacLean of Duart, hunting](/setts/s8/g3k6w1k6g2k2g16k1~x2/) — ΔT 0.91
-1. [Forbes](/setts/s6/ly1k4g4k8g16r1~x2/) — ΔT 1.16
-1. [MacLean VS](/setts/s8/dg3k6lb1k6dg2k2dg16k1~x2/) — ΔT 1.34
-1. [Forbes VS](/setts/s6/ly1k4dg3k8dg16r1/) — ΔT 1.39
+1. [Forbes](/setts/s6/r1g16k8g4k4ly1~x2/) — ΔT 1.16
+1. [MacLean VS](/setts/s8/dg3k6lb1k6dg2k2dg16k1~x2/) — ΔT 1.35
+1. [Forbes VS](/setts/s6/r1dg16k8dg3k4ly1/) — ΔT 1.39
 1. [Fife, Duke of..](/setts/s6/g32k6g4k8r1k2~x2/) — ΔT 1.45
-1. [MacHardy](/setts/s8/g3r1k12w1k12g32r1k3~x2/) — ΔT 1.49
+1. [MacHardy](/setts/s8/k3r1g32k12w1k12r1g3~x2/) — ΔT 1.49
 1. [O'Donoghue](/setts/s5/g62k40ly3k3w3~x2/) — ΔT 1.58
 1. [MacArthur-Fox](/setts/s5/k19g8k10g31r3/) — ΔT 1.59
 1. [MacArthur](/setts/s5/k32g6k12g30ly3/) — ΔT 1.61
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g30k12g6k6db2k5~x2/"><circle cx="344.2" cy="211.3" r="4" fill="#3465a4"><title>Fife, Duchess of..</title></circle></a><a href="/setts/s8/g3k6w1k6g2k2g16k1~x2/"><circle cx="334.8" cy="187.7" r="4" fill="#3465a4"><title>MacLean of Duart, hunting</title></circle></a><a href="/setts/s6/ly1k4g4k8g16r1~x2/"><circle cx="318.7" cy="189.5" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s8/dg3k6lb1k6dg2k2dg16k1~x2/"><circle cx="364.6" cy="202.3" r="4" fill="#3465a4"><title>MacLean VS</title></circle></a><a href="/setts/s6/ly1k4dg3k8dg16r1/"><circle cx="340.5" cy="198.6" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/setts/s6/g32k6g4k8r1k2~x2/"><circle cx="442.2" cy="167.3" r="4" fill="#3465a4"><title>Fife, Duke of..</title></circle></a><a href="/setts/s8/g3r1k12w1k12g32r1k3~x2/"><circle cx="341.2" cy="133.3" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/setts/s5/g62k40ly3k3w3~x2/"><circle cx="362.9" cy="187.6" r="4" fill="#3465a4"><title>O'Donoghue</title></circle></a><a href="/setts/s5/k19g8k10g31r3/"><circle cx="294.5" cy="248.7" r="4" fill="#3465a4"><title>MacArthur-Fox</title></circle></a><a href="/setts/s5/k32g6k12g30ly3/"><circle cx="292.5" cy="245.2" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><circle cx="363.6" cy="197.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g30k12g6k6db2k5~x2/"><circle cx="344.2" cy="210.9" r="4" fill="#3465a4"><title>Fife, Duchess of..</title></circle></a><a href="/setts/s8/g3k6w1k6g2k2g16k1~x2/"><circle cx="334.8" cy="187.4" r="4" fill="#3465a4"><title>MacLean of Duart, hunting</title></circle></a><a href="/setts/s6/r1g16k8g4k4ly1~x2/"><circle cx="318.7" cy="189.2" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s8/dg3k6lb1k6dg2k2dg16k1~x2/"><circle cx="364.7" cy="202.1" r="4" fill="#3465a4"><title>MacLean VS</title></circle></a><a href="/setts/s6/r1dg16k8dg3k4ly1/"><circle cx="340.5" cy="198.4" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/setts/s6/g32k6g4k8r1k2~x2/"><circle cx="442.0" cy="166.9" r="4" fill="#3465a4"><title>Fife, Duke of..</title></circle></a><a href="/setts/s8/k3r1g32k12w1k12r1g3~x2/"><circle cx="341.1" cy="133.1" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/setts/s5/g62k40ly3k3w3~x2/"><circle cx="362.9" cy="187.4" r="4" fill="#3465a4"><title>O'Donoghue</title></circle></a><a href="/setts/s5/k19g8k10g31r3/"><circle cx="294.6" cy="248.4" r="4" fill="#3465a4"><title>MacArthur-Fox</title></circle></a><a href="/setts/s5/k32g6k12g30ly3/"><circle cx="292.6" cy="244.9" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><circle cx="363.6" cy="196.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/g70k26g12k14b3k16~x2/

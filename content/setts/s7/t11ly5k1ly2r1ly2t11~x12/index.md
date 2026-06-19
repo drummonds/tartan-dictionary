@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 1. [Kinding (Personal)](/setts/s7/k10t30g3t3g3t3r6~x2/) — ΔT 1.44
 1. [Carlisle, Ancient](/setts/s5/t11ly2r1ly2r1~x4/) — ΔT 1.51
 1. [Orlando Dress, City of (District)](/setts/s9/b12ly1w16b1w1b14w3b14r2~x4/) — ΔT 1.51
-1. [Perkins 2015](/setts/s7/k3t10ly5t29k10r6k2~x2/) — ΔT 1.51
-1. [Mowdowny (Fashion)](/setts/s9/lo1o6k1o1k2o1k1o6r1~x8/) — ΔT 1.53
+1. [Perkins 2015](/setts/s7/k3t10ly5t29k10r6k2~x2/) — ΔT 1.52
+1. [Mowdowny (Fashion)](/setts/s9/r1o6k1o1k2o1k1o6lo1~x8/) — ΔT 1.53
 1. [Clackson Arisaid (Name?)](/setts/s7/w24g2w8db5ly4db5ly4~x2/) — ΔT 1.61
 1. [Grange School](/setts/s7/n27lr3n14k3n13k3ly23~x2/) — ΔT 1.62
 1. [Alaska Highlanders P & D (Corporate)](/setts/s8/db9lb27db2ly4db2lb10db2w3~x2/) — ΔT 1.62
@@ -926,8 +929,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k10t30g3t3g3t3r6~x2/"><circle cx="340.2" cy="185.6" r="4" fill="#3465a4"><title>Kinding (Personal)</title></circle></a><a href="/setts/s5/t11ly2r1ly2r1~x4/"><circle cx="408.6" cy="208.6" r="4" fill="#3465a4"><title>Carlisle, Ancient</title></circle></a><a href="/setts/s9/b12ly1w16b1w1b14w3b14r2~x4/"><circle cx="340.9" cy="160.4" r="4" fill="#3465a4"><title>Orlando Dress, City of (District)</title></circle></a><a href="/setts/s7/k3t10ly5t29k10r6k2~x2/"><circle cx="317.5" cy="176.3" r="4" fill="#3465a4"><title>Perkins 2015</title></circle></a><a href="/setts/s9/lo1o6k1o1k2o1k1o6r1~x8/"><circle cx="370.2" cy="204.4" r="4" fill="#3465a4"><title>Mowdowny (Fashion)</title></circle></a><a href="/setts/s7/w24g2w8db5ly4db5ly4~x2/"><circle cx="305.0" cy="161.9" r="4" fill="#3465a4"><title>Clackson Arisaid (Name?)</title></circle></a><a href="/setts/s7/n27lr3n14k3n13k3ly23~x2/"><circle cx="334.6" cy="216.5" r="4" fill="#3465a4"><title>Grange School</title></circle></a><a href="/setts/s8/db9lb27db2ly4db2lb10db2w3~x2/"><circle cx="334.0" cy="153.7" r="4" fill="#3465a4"><title>Alaska Highlanders P &amp; D (Corporate)</title></circle></a><a href="/setts/s7/lb1lg11k6lg3lb1lg1lb1~x4/"><circle cx="339.0" cy="192.2" r="4" fill="#3465a4"><title>Angle, Blue (Fashion)</title></circle></a><a href="/setts/s4/n62w11k4lg17~x2/"><circle cx="404.2" cy="211.0" r="4" fill="#3465a4"><title>Thunderlord (Corporate)</title></circle></a><circle cx="367.4" cy="191.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k10t30g3t3g3t3r6~x2/"><circle cx="340.0" cy="185.4" r="4" fill="#3465a4"><title>Kinding (Personal)</title></circle></a><a href="/setts/s5/t11ly2r1ly2r1~x4/"><circle cx="408.1" cy="208.3" r="4" fill="#3465a4"><title>Carlisle, Ancient</title></circle></a><a href="/setts/s9/b12ly1w16b1w1b14w3b14r2~x4/"><circle cx="340.6" cy="160.1" r="4" fill="#3465a4"><title>Orlando Dress, City of (District)</title></circle></a><a href="/setts/s7/k3t10ly5t29k10r6k2~x2/"><circle cx="317.3" cy="176.0" r="4" fill="#3465a4"><title>Perkins 2015</title></circle></a><a href="/setts/s9/r1o6k1o1k2o1k1o6lo1~x8/"><circle cx="369.9" cy="204.1" r="4" fill="#3465a4"><title>Mowdowny (Fashion)</title></circle></a><a href="/setts/s7/w24g2w8db5ly4db5ly4~x2/"><circle cx="304.5" cy="161.6" r="4" fill="#3465a4"><title>Clackson Arisaid (Name?)</title></circle></a><a href="/setts/s7/n27lr3n14k3n13k3ly23~x2/"><circle cx="334.3" cy="216.3" r="4" fill="#3465a4"><title>Grange School</title></circle></a><a href="/setts/s8/db9lb27db2ly4db2lb10db2w3~x2/"><circle cx="333.6" cy="153.4" r="4" fill="#3465a4"><title>Alaska Highlanders P &amp; D (Corporate)</title></circle></a><a href="/setts/s7/lb1lg11k6lg3lb1lg1lb1~x4/"><circle cx="338.8" cy="191.8" r="4" fill="#3465a4"><title>Angle, Blue (Fashion)</title></circle></a><a href="/setts/s4/n62w11k4lg17~x2/"><circle cx="403.9" cy="210.8" r="4" fill="#3465a4"><title>Thunderlord (Corporate)</title></circle></a><circle cx="367.0" cy="191.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/t11ly5k1ly2r1ly2t11~x12/

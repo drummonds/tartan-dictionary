@@ -8,7 +8,7 @@ KWGRKWGR
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/r2g1w1k1r2g1w1k1~x20/tartan.png)
+![Woven sample](/setts/s8/r2g1w1k1~x20/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ KWGRKWGR
 
 | Tartans |
 |---------------|
-| [Harazeen](/setts/s8/r2g1w1k1r2g1w1k1~x20/)|
-|![Harazeen example sett](/setts/s8/r2g1w1k1r2g1w1k1~x20/sett.png)|
+| [Harazeen](/setts/s8/r2g1w1k1~x20/)|
+|![Harazeen example sett](/setts/s8/r2g1w1k1~x20/sett.png)|
 

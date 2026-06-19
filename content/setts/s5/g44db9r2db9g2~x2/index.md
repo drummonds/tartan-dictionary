@@ -319,6 +319,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +420,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +680,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -893,7 +896,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/4 DB18 R4 DB18 G/88
+G/88 DB18 R4 DB18 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -907,7 +910,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/4 DB18 R4 DB18 G/88 tartan")
+![Tartan detail](tartan.png "G/88 DB18 R4 DB18 G/4 tartan")
 
 ## Nearest tartans
 
@@ -916,7 +919,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Fife, Duke Of](/setts/s6/dg32k6dg4k8r1k2~x4/) — ΔT 1.11
 1. [Royal and Ancient, The](/setts/s6/g49db16dy3db2dy2db6~x2/) — ΔT 1.20
 1. [Royal and Ancient, The](/setts/s6/g49db16o3db2o2db6~x2/) — ΔT 1.23
-1. [Skene or Tribe of Mar](/setts/s5/ly1k2dg16k2r1~x2/) — ΔT 1.36
+1. [Skene or Tribe of Mar](/setts/s5/r1k2dg16k2ly1~x2/) — ΔT 1.36
 1. [St Andrews Old Course Hotel Corporate Tartan Tartan Number: 2332. Earliest known date: 1994 St Andrews Old Course Hotel, Golf Resort, and SPA See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/g50db20k3db2dy2db5~x2/) — ΔT 1.51
 1. [Glen Trool (Fashion)](/setts/s5/dg42o10dg3r10o3~x2/) — ΔT 1.53
 1. [Annapolis Valley](/setts/s6/g30t8g5lb4g5r2~x4/) — ΔT 1.53
@@ -926,8 +929,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dg32k6dg4k8r1k2~x4/"><circle cx="530.6" cy="209.1" r="4" fill="#3465a4"><title>Fife, Duke Of</title></circle></a><a href="/setts/s6/g49db16dy3db2dy2db6~x2/"><circle cx="485.4" cy="209.7" r="4" fill="#3465a4"><title>Royal and Ancient, The</title></circle></a><a href="/setts/s6/g49db16o3db2o2db6~x2/"><circle cx="471.0" cy="201.8" r="4" fill="#3465a4"><title>Royal and Ancient, The</title></circle></a><a href="/setts/s5/ly1k2dg16k2r1~x2/"><circle cx="489.7" cy="201.5" r="4" fill="#3465a4"><title>Skene or Tribe of Mar</title></circle></a><a href="/setts/s6/g50db20k3db2dy2db5~x2/"><circle cx="447.5" cy="189.1" r="4" fill="#3465a4"><title>St Andrews Old Course Hotel Corporate Tartan Tartan Number: 2332. Earliest known date: 1994 St Andrews Old Course Hotel, Golf Resort, and SPA See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/dg42o10dg3r10o3~x2/"><circle cx="467.5" cy="240.7" r="4" fill="#3465a4"><title>Glen Trool (Fashion)</title></circle></a><a href="/setts/s6/g30t8g5lb4g5r2~x4/"><circle cx="478.5" cy="213.3" r="4" fill="#3465a4"><title>Annapolis Valley</title></circle></a><a href="/setts/s6/g70k26g12k14db3k16~x2/"><circle cx="420.1" cy="221.8" r="4" fill="#3465a4"><title>Duchess of Fife #2</title></circle></a><a href="/setts/s6/g30b8g5lb4g5r1~x4/"><circle cx="511.5" cy="183.9" r="4" fill="#3465a4"><title>Annapolis Valley</title></circle></a><a href="/setts/s5/r8g3r4g44w4~x2/"><circle cx="504.9" cy="208.4" r="4" fill="#3465a4"><title>Welsh National (District)</title></circle></a><circle cx="513.2" cy="221.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dg32k6dg4k8r1k2~x4/"><circle cx="530.4" cy="208.9" r="4" fill="#3465a4"><title>Fife, Duke Of</title></circle></a><a href="/setts/s6/g49db16dy3db2dy2db6~x2/"><circle cx="485.2" cy="209.5" r="4" fill="#3465a4"><title>Royal and Ancient, The</title></circle></a><a href="/setts/s6/g49db16o3db2o2db6~x2/"><circle cx="470.7" cy="201.6" r="4" fill="#3465a4"><title>Royal and Ancient, The</title></circle></a><a href="/setts/s5/r1k2dg16k2ly1~x2/"><circle cx="489.5" cy="201.3" r="4" fill="#3465a4"><title>Skene or Tribe of Mar</title></circle></a><a href="/setts/s6/g50db20k3db2dy2db5~x2/"><circle cx="447.4" cy="189.0" r="4" fill="#3465a4"><title>St Andrews Old Course Hotel Corporate Tartan Tartan Number: 2332. Earliest known date: 1994 St Andrews Old Course Hotel, Golf Resort, and SPA See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/dg42o10dg3r10o3~x2/"><circle cx="467.3" cy="240.5" r="4" fill="#3465a4"><title>Glen Trool (Fashion)</title></circle></a><a href="/setts/s6/g30t8g5lb4g5r2~x4/"><circle cx="478.3" cy="213.0" r="4" fill="#3465a4"><title>Annapolis Valley</title></circle></a><a href="/setts/s6/g70k26g12k14db3k16~x2/"><circle cx="420.0" cy="221.6" r="4" fill="#3465a4"><title>Duchess of Fife #2</title></circle></a><a href="/setts/s6/g30b8g5lb4g5r1~x4/"><circle cx="511.2" cy="183.6" r="4" fill="#3465a4"><title>Annapolis Valley</title></circle></a><a href="/setts/s5/r8g3r4g44w4~x2/"><circle cx="504.5" cy="208.0" r="4" fill="#3465a4"><title>Welsh National (District)</title></circle></a><circle cx="512.9" cy="221.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/g44db9r2db9g2~x2/

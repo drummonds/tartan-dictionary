@@ -2,7 +2,7 @@
 title: "Oxford University"
 date: 2023-03-18
 ---
-**Bands:** [BGGY](/stripes/bggy/) · **Stripes:** [DB DG G LY](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB DG G LY</span></span>
+**Bands:** [YGGB](/stripes/yggb/) · **Stripes:** [LY G DG DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="seq">LY G DG DB</span></span>
 
 
 This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -919,8 +922,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/g56dy13ly13w5~x2/"><circle cx="365.0" cy="224.8" r="4" fill="#3465a4"><title>Colonial Marine (Aliens Legacy)</title></circle></a><a href="/setts/s7/g14ly7g14dg50g64w6g7/"><circle cx="337.2" cy="205.4" r="4" fill="#3465a4"><title>Freedom of Derry</title></circle></a><a href="/setts/s4/t1db4g10w1~x2/"><circle cx="360.4" cy="240.3" r="4" fill="#3465a4"><title>Wilson's, No 205</title></circle></a><a href="/setts/s7/k3lb1g15g6k2dr3lb2~x2/"><circle cx="352.2" cy="180.0" r="4" fill="#3465a4"><title>Leach Hunting</title></circle></a><a href="/setts/s5/dt5lo5dy13g41r3~x2/"><circle cx="360.4" cy="196.8" r="4" fill="#3465a4"><title>Clare, Richard (Personal)</title></circle></a><a href="/setts/s6/k3lb1g21k2dr3lb2~x2/"><circle cx="387.9" cy="154.2" r="4" fill="#3465a4"><title>Leach Htg (Name)</title></circle></a><a href="/setts/s4/k2ly1g7t1~x2/"><circle cx="337.5" cy="248.0" r="4" fill="#3465a4"><title>Wilson's No.140</title></circle></a><a href="/setts/s4/g9ly20g40w5~x2/"><circle cx="363.1" cy="260.7" r="4" fill="#3465a4"><title>O'Neill Irish Family Tartan Tartan Number: 2464. Earliest known date: 1985 O'Neill is an Irish family tartan. The dark yellow stripe is mustard or dark saffron. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/db1r3g11r2db5g11ly1~x2/"><circle cx="365.5" cy="217.6" r="4" fill="#3465a4"><title>MacKintosh, hunting</title></circle></a><a href="/setts/s7/g8w4g50k12g4k15lo5~x2/"><circle cx="338.9" cy="177.0" r="4" fill="#3465a4"><title>Instakilt, Green (Fashion)</title></circle></a><circle cx="385.0" cy="221.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/g56dy13ly13w5~x2/"><circle cx="364.7" cy="224.6" r="4" fill="#3465a4"><title>Colonial Marine (Aliens Legacy)</title></circle></a><a href="/setts/s7/g14ly7g14dg50g64w6g7/"><circle cx="337.0" cy="205.1" r="4" fill="#3465a4"><title>Freedom of Derry</title></circle></a><a href="/setts/s4/t1db4g10w1~x2/"><circle cx="360.2" cy="240.0" r="4" fill="#3465a4"><title>Wilson's, No 205</title></circle></a><a href="/setts/s7/k3lb1g15g6k2dr3lb2~x2/"><circle cx="351.9" cy="179.7" r="4" fill="#3465a4"><title>Leach Hunting</title></circle></a><a href="/setts/s5/dt5lo5dy13g41r3~x2/"><circle cx="360.1" cy="196.7" r="4" fill="#3465a4"><title>Clare, Richard (Personal)</title></circle></a><a href="/setts/s6/k3lb1g21k2dr3lb2~x2/"><circle cx="387.5" cy="153.9" r="4" fill="#3465a4"><title>Leach Htg (Name)</title></circle></a><a href="/setts/s4/k2ly1g7t1~x2/"><circle cx="337.4" cy="247.7" r="4" fill="#3465a4"><title>Wilson's No.140</title></circle></a><a href="/setts/s4/g9ly20g40w5~x2/"><circle cx="362.8" cy="260.4" r="4" fill="#3465a4"><title>O'Neill Irish Family Tartan Tartan Number: 2464. Earliest known date: 1985 O'Neill is an Irish family tartan. The dark yellow stripe is mustard or dark saffron. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/db1r3g11r2db5g11ly1~x2/"><circle cx="365.2" cy="217.4" r="4" fill="#3465a4"><title>MacKintosh, hunting</title></circle></a><a href="/setts/s7/g8w4g50k12g4k15lo5~x2/"><circle cx="338.6" cy="176.7" r="4" fill="#3465a4"><title>Instakilt, Green (Fashion)</title></circle></a><circle cx="384.8" cy="220.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/db9dg16g56ly4~x2/

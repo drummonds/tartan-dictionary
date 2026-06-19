@@ -2,7 +2,7 @@
 title: "First Special Service Force"
 date: 2023-03-18
 ---
-**Bands:** [RBRKRWRKRYRKR](/stripes/rbrkrwrkryrkr/) · **Stripes:** [R B R K R W R K R LY R K R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R B R K R W R K R LY R K R</span></span>
+**Bands:** [RKRYRKRWRKRBR](/stripes/rkryrkrwrkrbr/) · **Stripes:** [R K R LY R K R W R K R B R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R LY R K R W R K R B R</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/bands13/).
@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [11160](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11160)
 
 ## Thread count
-R/6 B9 R44 K64 R6 W6 R6 K10 R34 Y6 R6 K14 R/8
+R/8 K14 R6 Y6 R34 K10 R6 W6 R6 K64 R44 B9 R/6
 ![Sett](sett.png)
 
 ## Palette
@@ -36,7 +36,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [First Special Service Force](/setts/s13/r8k14r6ly6r34k10r6w6r6k64r44db9r6/) — ΔT 0.84
 1. [Hepburn](/setts/s12/r21db4k5ly2k2ly2k2r7g4r2db3ly2~x2/) — ΔT 0.98
-1. [MacPherson](/setts/s15/r12lb2r12dg8ly1k6lb4k1lb1k1lb4r12lb1k1r1/) — ΔT 0.98
+1. [MacPherson](/setts/s15/r12lb2r12dg8ly1k6lb4k1lb1k1lb4r12lb1k1r1~x2/) — ΔT 0.98
 1. [Hepburn (Clan)](/setts/s12/r21db4k5ly2k2ly2k2r7g4r2db3ly2~x4/) — ΔT 1.11
 1. [Moir (Loch Insh) (Personal)](/setts/s15/r31lg3r2lg2r3lg2r2lg3r15k15lg2k15lg3k3w2~x2/) — ΔT 1.16
 1. [Hart (Texas) (Personal)](/setts/s11/ly4k3w2db7r7k4r5db4r30w2db3~x2/) — ΔT 1.24
@@ -47,8 +47,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r8k14r6ly6r34k10r6w6r6k64r44db9r6/"><circle cx="267.9" cy="126.9" r="4" fill="#3465a4"><title>First Special Service Force</title></circle></a><a href="/setts/s12/r21db4k5ly2k2ly2k2r7g4r2db3ly2~x2/"><circle cx="243.6" cy="118.2" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/setts/s15/r12lb2r12dg8ly1k6lb4k1lb1k1lb4r12lb1k1r1/"><circle cx="243.5" cy="109.4" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/setts/s12/r21db4k5ly2k2ly2k2r7g4r2db3ly2~x4/"><circle cx="245.3" cy="115.9" r="4" fill="#3465a4"><title>Hepburn (Clan)</title></circle></a><a href="/setts/s15/r31lg3r2lg2r3lg2r2lg3r15k15lg2k15lg3k3w2~x2/"><circle cx="237.2" cy="79.6" r="4" fill="#3465a4"><title>Moir (Loch Insh) (Personal)</title></circle></a><a href="/setts/s11/ly4k3w2db7r7k4r5db4r30w2db3~x2/"><circle cx="315.0" cy="106.4" r="4" fill="#3465a4"><title>Hart (Texas) (Personal)</title></circle></a><a href="/setts/s16/r24w2r2w2r4k11w12db3w12k11r4w2r2w2r24ly3~x2/"><circle cx="218.3" cy="104.3" r="4" fill="#3465a4"><title>Heart of Midlothian Football Club</title></circle></a><a href="/setts/s13/r4k9r3ly3r18k4r2w2r2k36r24db4r3~x2/"><circle cx="295.9" cy="104.0" r="4" fill="#3465a4"><title>First Special Services Forces (Mil)</title></circle></a><a href="/setts/s16/r15k5w2o7k4w8k2r26k5o2w2k7w2r5w2g2~x2/"><circle cx="205.8" cy="96.2" r="4" fill="#3465a4"><title>Sabrettes (Corporate)</title></circle></a><a href="/setts/s17/r15k5w2y7k4w8k2r5r21k5y2w2k7w2r5w2g2~x2/"><circle cx="182.6" cy="112.5" r="4" fill="#3465a4"><title>Sabrettes</title></circle></a><circle cx="251.6" cy="113.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r8k14r6ly6r34k10r6w6r6k64r44db9r6/"><circle cx="267.6" cy="126.8" r="4" fill="#3465a4"><title>First Special Service Force</title></circle></a><a href="/setts/s12/r21db4k5ly2k2ly2k2r7g4r2db3ly2~x2/"><circle cx="243.3" cy="118.2" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/setts/s15/r12lb2r12dg8ly1k6lb4k1lb1k1lb4r12lb1k1r1~x2/"><circle cx="243.2" cy="109.3" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/setts/s12/r21db4k5ly2k2ly2k2r7g4r2db3ly2~x4/"><circle cx="245.0" cy="115.9" r="4" fill="#3465a4"><title>Hepburn (Clan)</title></circle></a><a href="/setts/s15/r31lg3r2lg2r3lg2r2lg3r15k15lg2k15lg3k3w2~x2/"><circle cx="236.8" cy="79.5" r="4" fill="#3465a4"><title>Moir (Loch Insh) (Personal)</title></circle></a><a href="/setts/s11/ly4k3w2db7r7k4r5db4r30w2db3~x2/"><circle cx="314.5" cy="106.3" r="4" fill="#3465a4"><title>Hart (Texas) (Personal)</title></circle></a><a href="/setts/s16/r24w2r2w2r4k11w12db3w12k11r4w2r2w2r24ly3~x2/"><circle cx="218.0" cy="104.2" r="4" fill="#3465a4"><title>Heart of Midlothian Football Club</title></circle></a><a href="/setts/s13/r4k9r3ly3r18k4r2w2r2k36r24db4r3~x2/"><circle cx="295.6" cy="103.9" r="4" fill="#3465a4"><title>First Special Services Forces (Mil)</title></circle></a><a href="/setts/s16/r15k5w2o7k4w8k2r26k5o2w2k7w2r5w2g2~x2/"><circle cx="205.4" cy="96.2" r="4" fill="#3465a4"><title>Sabrettes (Corporate)</title></circle></a><a href="/setts/s17/r15k5w2y7k4w8k2r5r21k5y2w2k7w2r5w2g2~x2/"><circle cx="182.3" cy="112.5" r="4" fill="#3465a4"><title>Sabrettes</title></circle></a><circle cx="251.3" cy="112.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r8k14r6ly6r34k10r6w6r6k64r44b9r6/

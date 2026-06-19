@@ -18,10 +18,10 @@ WGGKGKGGKY
 
 
 
-### W G G K G K G G K LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W G G K G K G G K LY</span></span>
+### LY K G G K G K G G W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K G G K G K G G W</span></span>
 
 | Tartans |
 |---------------|
-| [Celtic F.C.](/setts/s10/ly1k1g1g30k1g2k2g1g10w1~x2/)|
-|![Celtic F.C. example sett](/setts/s10/ly1k1g1g30k1g2k2g1g10w1~x2/sett.png)|
+| [Celtic F.C.](/setts/s10/w1g10g1k2g2k1g30g1k1ly1~x2/)|
+|![Celtic F.C. example sett](/setts/s10/w1g10g1k2g2k1g30g1k1ly1~x2/sett.png)|
 

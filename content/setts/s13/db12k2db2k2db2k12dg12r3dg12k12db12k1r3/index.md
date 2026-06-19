@@ -2,12 +2,20 @@
 title: "Murray of Atholl"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKGRGKBKR](/stripes/bkbkbkgrgkbkr/) · **Stripes:** [DB K DB K DB K DG R DG K DB K R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K DB K DB K DG R DG K DB K R</span></span>
+**Bands:** [RKBKGRGKBKBKB](/stripes/rkbkgrgkbkbkb/) · **Stripes:** [R K DB K DG R DG K DB K DB K DB](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K DB K DG R DG K DB K DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Atholl
+- Murray of Atholl #3
+- Transvaal Scottish Regiment (Militar
 
 ## Attestations
 
@@ -20,18 +28,26 @@ This cloth appears in 2 source records; the oldest owns this page.
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2625](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2625)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
-- Scottish Register of Tartans: [3555](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3555)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 1429
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1429
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
-- Scottish Tartans World Register: 864
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Variants
 
@@ -59,20 +75,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Murray of Atholl](/setts/s13/db12k2db2k2db2k12dg12r3dg12k12db12k1r3~x2/) — ΔT 0.50
-1. [MacDonald](/setts/s12/db8r1db2r3db12r1k12dg12r3dg2r1dg8~x2/) — ΔT 0.70
-1. [Urquhart L](/setts/s13/dg8k1dg1k1dg1k8db8r1db8k8dg8k1dg1/) — ΔT 0.87
-1. [MacEwan](/setts/s13/ly4k1dg12k12db12k1db4k1db12k12dg12k1r4~x2/) — ΔT 0.88
+1. [MacDonald](/setts/s12/dg8r1dg2r3dg12k12r1db12r3db2r1db8/) — ΔT 0.68
+1. [MacDonald](/setts/s12/dg8r1dg2r3dg12k12r1db12r3db2r1db8~x2/) — ΔT 0.70
+1. [Urquhart L](/setts/s13/dg8k1dg1k1dg1k8db8r1db8k8dg8k1dg1~x2/) — ΔT 0.87
+1. [MacEwan](/setts/s13/r4k1dg12k12db12k1db4k1db12k12dg12k1ly4~x2/) — ΔT 0.88
 1. [Forbes](/setts/s15/db8k1db2k1db2k6dg8k1lb2k1dg8k6db8k1db2/) — ΔT 0.90
 1. [Dewar, Highlander](/setts/s13/dg46k5dg6k5dg6k30db38ly6db38k30dg36k6dg6/) — ΔT 0.91
-1. [Campbell of Loudon](/setts/s13/lr4k1dg12k12db12k1db4k1db12k12dg12k1ly4/) — ΔT 0.95
+1. [Campbell of Loudon](/setts/s13/lr4k1dg12k12db12k1db4k1db12k12dg12k1ly4~x2/) — ΔT 0.95
 1. [Campbell of Loudon](/setts/s13/lr2k1dg12k12db12k1db2k1db12k12dg12k1ly2~x2/) — ΔT 0.96
-1. [MacEwan](/setts/s13/ly2k1dg12k12db12k1db2k1db12k12dg12k1r2~x2/) — ΔT 0.97
-1. [Forbes](/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2~x2/) — ΔT 0.98
+1. [MacEwan](/setts/s13/r2k1dg12k12db12k1db2k1db12k12dg12k1ly2~x2/) — ΔT 0.97
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db12k2db2k2db2k12dg12r3dg12k12db12k1r3~x2/"><circle cx="184.5" cy="203.4" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/setts/s12/db8r1db2r3db12r1k12dg12r3dg2r1dg8~x2/"><circle cx="170.2" cy="184.3" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/setts/s13/dg8k1dg1k1dg1k8db8r1db8k8dg8k1dg1/"><circle cx="183.4" cy="209.6" r="4" fill="#3465a4"><title>Urquhart L</title></circle></a><a href="/setts/s13/ly4k1dg12k12db12k1db4k1db12k12dg12k1r4~x2/"><circle cx="141.1" cy="180.2" r="4" fill="#3465a4"><title>MacEwan</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6dg8k1lb2k1dg8k6db8k1db2/"><circle cx="179.5" cy="203.4" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/dg46k5dg6k5dg6k30db38ly6db38k30dg36k6dg6/"><circle cx="192.1" cy="200.4" r="4" fill="#3465a4"><title>Dewar, Highlander</title></circle></a><a href="/setts/s13/lr4k1dg12k12db12k1db4k1db12k12dg12k1ly4/"><circle cx="131.3" cy="176.4" r="4" fill="#3465a4"><title>Campbell of Loudon</title></circle></a><a href="/setts/s13/lr2k1dg12k12db12k1db2k1db12k12dg12k1ly2~x2/"><circle cx="169.1" cy="175.6" r="4" fill="#3465a4"><title>Campbell of Loudon</title></circle></a><a href="/setts/s13/ly2k1dg12k12db12k1db2k1db12k12dg12k1r2~x2/"><circle cx="164.6" cy="172.7" r="4" fill="#3465a4"><title>MacEwan</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2~x2/"><circle cx="190.9" cy="208.8" r="4" fill="#3465a4"><title>Forbes</title></circle></a><circle cx="170.0" cy="195.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db12k2db2k2db2k12dg12r3dg12k12db12k1r3~x2/"><circle cx="184.8" cy="203.5" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/setts/s12/dg8r1dg2r3dg12k12r1db12r3db2r1db8/"><circle cx="185.6" cy="192.6" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/setts/s12/dg8r1dg2r3dg12k12r1db12r3db2r1db8~x2/"><circle cx="170.4" cy="184.3" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/setts/s13/dg8k1dg1k1dg1k8db8r1db8k8dg8k1dg1~x2/"><circle cx="183.7" cy="209.6" r="4" fill="#3465a4"><title>Urquhart L</title></circle></a><a href="/setts/s13/r4k1dg12k12db12k1db4k1db12k12dg12k1ly4~x2/"><circle cx="141.4" cy="180.3" r="4" fill="#3465a4"><title>MacEwan</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6dg8k1lb2k1dg8k6db8k1db2/"><circle cx="179.8" cy="203.4" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/dg46k5dg6k5dg6k30db38ly6db38k30dg36k6dg6/"><circle cx="192.3" cy="200.4" r="4" fill="#3465a4"><title>Dewar, Highlander</title></circle></a><a href="/setts/s13/lr4k1dg12k12db12k1db4k1db12k12dg12k1ly4~x2/"><circle cx="131.6" cy="176.5" r="4" fill="#3465a4"><title>Campbell of Loudon</title></circle></a><a href="/setts/s13/lr2k1dg12k12db12k1db2k1db12k12dg12k1ly2~x2/"><circle cx="169.4" cy="175.7" r="4" fill="#3465a4"><title>Campbell of Loudon</title></circle></a><a href="/setts/s13/r2k1dg12k12db12k1db2k1db12k12dg12k1ly2~x2/"><circle cx="164.9" cy="172.8" r="4" fill="#3465a4"><title>MacEwan</title></circle></a><circle cx="170.3" cy="196.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db12k2db2k2db2k12dg12r3dg12k12db12k1r3/

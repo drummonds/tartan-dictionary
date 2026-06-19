@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2052
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Laronde
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -46,7 +52,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Williams Dress (Personal)](/setts/s11/r5k1w3k6n5k2ly3k45n4k2ly3~x2/) — ΔT 1.57
 1. [Glen Ross (WCWM - 2)](/setts/s12/k48n4k6lr2k2r2k2n10o6k2o3r2~x2/) — ΔT 1.60
 1. [Williams Dress (Carolinas) (Personal)](/setts/s11/r5k1w3k6t5k2ly3k45t4k2ly3~x2/) — ΔT 1.67
-1. [Marsa Scout Group](/setts/s11/g4k1ly2k1g8k44r2k1db8k1r4~x2/) — ΔT 1.71
+1. [Marsa Scout Group](/setts/s11/r4k1db8k1r2k44g8k1ly2k1g4~x2/) — ΔT 1.71
 1. [Grey Spencer Plaid](/setts/s11/k40y8o2y2w2y2k9w5y2w5k2~x2/) — ΔT 1.73
 1. [Noordermeer Personal Tartan Tartan Number: 6357. Earliest known date: 2004 Alwin Noordermeer is the senior petroleum engineering advisor for Rhourde El Baguel in Algeria. He designed his own tartan using Tartan Software and help from Maxine Scott. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/k6m7w2m7k6m1k4m1k64m1k4m1k6m7w2m7k6t2~x2/) — ΔT 1.76
 1. [Valdres, Kvam and Vang](/setts/s11/k4w1r4k2g2r3k2k20r2k2r2/) — ΔT 1.76
@@ -54,8 +60,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lb4lr6k4r2r10k44lr1k1lb2~x2/"><circle cx="398.7" cy="76.2" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/setts/s12/k86y6k4w3k3r3k3y22o14k3o6w4/"><circle cx="366.7" cy="77.2" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/setts/s11/r5k1w3k6n5k2ly3k45n4k2ly3~x2/"><circle cx="445.9" cy="69.2" r="4" fill="#3465a4"><title>Williams Dress (Personal)</title></circle></a><a href="/setts/s12/k48n4k6lr2k2r2k2n10o6k2o3r2~x2/"><circle cx="401.3" cy="94.6" r="4" fill="#3465a4"><title>Glen Ross (WCWM - 2)</title></circle></a><a href="/setts/s11/r5k1w3k6t5k2ly3k45t4k2ly3~x2/"><circle cx="436.2" cy="63.7" r="4" fill="#3465a4"><title>Williams Dress (Carolinas) (Personal)</title></circle></a><a href="/setts/s11/g4k1ly2k1g8k44r2k1db8k1r4~x2/"><circle cx="399.9" cy="73.7" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/setts/s11/k40y8o2y2w2y2k9w5y2w5k2~x2/"><circle cx="365.9" cy="115.7" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><a href="/setts/s18/k6m7w2m7k6m1k4m1k64m1k4m1k6m7w2m7k6t2~x2/"><circle cx="501.7" cy="59.1" r="4" fill="#3465a4"><title>Noordermeer Personal Tartan Tartan Number: 6357. Earliest known date: 2004 Alwin Noordermeer is the senior petroleum engineering advisor for Rhourde El Baguel in Algeria. He designed his own tartan using Tartan Software and help from Maxine Scott. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/k4w1r4k2g2r3k2k20r2k2r2/"><circle cx="411.9" cy="133.4" r="4" fill="#3465a4"><title>Valdres, Kvam and Vang</title></circle></a><a href="/setts/s9/lb4n6k4r2r10k44n1k1lb2~x2/"><circle cx="431.0" cy="89.0" r="4" fill="#3465a4"><title>Calgary HOG (Corporate)</title></circle></a><circle cx="414.5" cy="70.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lb4lr6k4r2r10k44lr1k1lb2~x2/"><circle cx="398.5" cy="76.0" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/setts/s12/k86y6k4w3k3r3k3y22o14k3o6w4/"><circle cx="366.6" cy="77.0" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/setts/s11/r5k1w3k6n5k2ly3k45n4k2ly3~x2/"><circle cx="445.7" cy="69.0" r="4" fill="#3465a4"><title>Williams Dress (Personal)</title></circle></a><a href="/setts/s12/k48n4k6lr2k2r2k2n10o6k2o3r2~x2/"><circle cx="401.2" cy="94.5" r="4" fill="#3465a4"><title>Glen Ross (WCWM - 2)</title></circle></a><a href="/setts/s11/r5k1w3k6t5k2ly3k45t4k2ly3~x2/"><circle cx="436.0" cy="63.5" r="4" fill="#3465a4"><title>Williams Dress (Carolinas) (Personal)</title></circle></a><a href="/setts/s11/r4k1db8k1r2k44g8k1ly2k1g4~x2/"><circle cx="399.7" cy="73.6" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/setts/s11/k40y8o2y2w2y2k9w5y2w5k2~x2/"><circle cx="365.8" cy="115.5" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><a href="/setts/s18/k6m7w2m7k6m1k4m1k64m1k4m1k6m7w2m7k6t2~x2/"><circle cx="501.4" cy="58.9" r="4" fill="#3465a4"><title>Noordermeer Personal Tartan Tartan Number: 6357. Earliest known date: 2004 Alwin Noordermeer is the senior petroleum engineering advisor for Rhourde El Baguel in Algeria. He designed his own tartan using Tartan Software and help from Maxine Scott. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/k4w1r4k2g2r3k2k20r2k2r2/"><circle cx="411.8" cy="133.2" r="4" fill="#3465a4"><title>Valdres, Kvam and Vang</title></circle></a><a href="/setts/s9/lb4n6k4r2r10k44n1k1lb2~x2/"><circle cx="430.8" cy="88.9" r="4" fill="#3465a4"><title>Calgary HOG (Corporate)</title></circle></a><circle cx="414.3" cy="69.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/k54lb2k2lo9k2lo9k1lb2k9r8k2r8k4lo2~x2/

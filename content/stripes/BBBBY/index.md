@@ -20,7 +20,7 @@ BBBBY
 
 
 
-### T DT T DT LY <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">T DT T DT LY</span></span>
+### LY DT T DT T <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY DT T DT T</span></span>
 
 | Tartans |
 |---------------|

@@ -20,7 +20,7 @@ BRBY
 
 
 
-### DB R DB LY <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB R DB LY</span></span>
+### LY DB R DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY DB R DB</span></span>
 
 | Tartans |
 |---------------|

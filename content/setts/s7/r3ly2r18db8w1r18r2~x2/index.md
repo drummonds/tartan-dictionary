@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/
 Original link http://www.tartansauthority.com/tartan-ferret/display/8732/
 
 ## Thread count
-R/4 Ra36 W2 DB16 R36 Y4 R/6
+R/6 Y4 R36 DB16 W2 Ra36 R/4
 ![Sett](sett.png)
 
 ## Palette
@@ -26,7 +26,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "R/4 Ra36 W2 DB16 R36 Y4 R/6 tartan")
+![Tartan detail](tartan.png "R/6 Y4 R36 DB16 W2 Ra36 R/4 tartan")
 
 ## Nearest tartans
 
@@ -45,8 +45,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k7w2dg2o31r35lo2~x2/"><circle cx="305.2" cy="150.0" r="4" fill="#3465a4"><title>Mason (Personal)</title></circle></a><a href="/setts/s7/w2k1r28k3r28k1w2~x2/"><circle cx="368.5" cy="139.4" r="4" fill="#3465a4"><title>Aberdeen F.C. Corporate Tartan Tartan Number: 2057. Earliest known date: 1990 The tartan of the Aberdeen Football Club launched on 12th April, 1990. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/do5r21lo21w2db1~x2/"><circle cx="302.6" cy="161.8" r="4" fill="#3465a4"><title>Haughey (2015)</title></circle></a><a href="/setts/s6/k7w2dg2r31r35lo2~x2/"><circle cx="282.0" cy="132.4" r="4" fill="#3465a4"><title>Mason, David Elsworth (Personal)</title></circle></a><a href="/setts/s12/r8dr48r6r48r3r6r6r4r8r2r22r8/"><circle cx="276.0" cy="114.1" r="4" fill="#3465a4"><title>Ferguson Red, George (Personal)</title></circle></a><a href="/setts/s5/r1r4r10lo2w1~x4/"><circle cx="349.3" cy="196.6" r="4" fill="#3465a4"><title>Love (Fashion)</title></circle></a><a href="/setts/s7/k2g6dy4t1r18dy5lo1~x4/"><circle cx="288.6" cy="138.7" r="4" fill="#3465a4"><title>Snelgrove (Name)</title></circle></a><a href="/setts/s5/m1dp4r10o2w1~x4/"><circle cx="325.9" cy="195.5" r="4" fill="#3465a4"><title>Love</title></circle></a><a href="/setts/s6/r26r5m12ly1g1r3~x2/"><circle cx="351.4" cy="122.4" r="4" fill="#3465a4"><title>Roseate Sunrise</title></circle></a><a href="/setts/s9/dg4r32n9dr6n2dr3n2dr12lr3~x2/"><circle cx="330.6" cy="170.8" r="4" fill="#3465a4"><title>Rose VS</title></circle></a><circle cx="305.2" cy="162.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k7w2dg2o31r35lo2~x2/"><circle cx="304.9" cy="150.1" r="4" fill="#3465a4"><title>Mason (Personal)</title></circle></a><a href="/setts/s7/w2k1r28k3r28k1w2~x2/"><circle cx="368.0" cy="139.4" r="4" fill="#3465a4"><title>Aberdeen F.C. Corporate Tartan Tartan Number: 2057. Earliest known date: 1990 The tartan of the Aberdeen Football Club launched on 12th April, 1990. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/do5r21lo21w2db1~x2/"><circle cx="302.1" cy="161.9" r="4" fill="#3465a4"><title>Haughey (2015)</title></circle></a><a href="/setts/s6/k7w2dg2r31r35lo2~x2/"><circle cx="281.7" cy="132.5" r="4" fill="#3465a4"><title>Mason, David Elsworth (Personal)</title></circle></a><a href="/setts/s12/r8dr48r6r48r3r6r6r4r8r2r22r8/"><circle cx="275.6" cy="114.3" r="4" fill="#3465a4"><title>Ferguson Red, George (Personal)</title></circle></a><a href="/setts/s5/r1r4r10lo2w1~x4/"><circle cx="348.8" cy="196.6" r="4" fill="#3465a4"><title>Love (Fashion)</title></circle></a><a href="/setts/s7/k2g6dy4t1r18dy5lo1~x4/"><circle cx="288.4" cy="138.8" r="4" fill="#3465a4"><title>Snelgrove (Name)</title></circle></a><a href="/setts/s5/m1dp4r10o2w1~x4/"><circle cx="325.7" cy="195.5" r="4" fill="#3465a4"><title>Love</title></circle></a><a href="/setts/s6/r26r5m12ly1g1r3~x2/"><circle cx="350.9" cy="122.5" r="4" fill="#3465a4"><title>Roseate Sunrise</title></circle></a><a href="/setts/s9/dg4r32n9dr6n2dr3n2dr12lr3~x2/"><circle cx="330.3" cy="171.1" r="4" fill="#3465a4"><title>Rose VS</title></circle></a><circle cx="304.9" cy="162.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r3ly2r18db8w1r18r2~x2/

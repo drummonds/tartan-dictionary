@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=990
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Drummond of Perth, dress
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/6 B14 N14 R20 LN48 B6 N14 Y6 R/82
+R/82 Y6 N14 B6 LN48 R20 N14 B14 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -923,8 +932,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r24ly2y3o2w10r4y3o3w2~x2/"><circle cx="282.3" cy="125.2" r="4" fill="#3465a4"><title>Manx Laxey, Red</title></circle></a><a href="/setts/s9/r24ly2o3dy2w10r4o3dy3w2~x2/"><circle cx="278.1" cy="122.2" r="4" fill="#3465a4"><title>Manx Laxey (Red)</title></circle></a><a href="/setts/s9/r15r1lg3k1w11r3lg3r3w1~x4/"><circle cx="205.4" cy="114.9" r="4" fill="#3465a4"><title>Etive, Burgundy (Dance)</title></circle></a><a href="/setts/s10/k2lr3r3lr21ly3lr2r6g6r4w2~x2/"><circle cx="234.1" cy="112.9" r="4" fill="#3465a4"><title>Hello Kitty</title></circle></a><a href="/setts/s7/r8dp2r24db5w26dy2w8~x2/"><circle cx="234.7" cy="140.0" r="4" fill="#3465a4"><title>Lennox Dress</title></circle></a><a href="/setts/s7/r8p2r24db5w26o2w8~x2/"><circle cx="233.4" cy="141.4" r="4" fill="#3465a4"><title>Lennox, dress</title></circle></a><a href="/setts/s7/w8r5dp10r24w30r2db2~x2/"><circle cx="212.0" cy="131.0" r="4" fill="#3465a4"><title>Shiel, Claret (Dance)</title></circle></a><a href="/setts/s11/r23w2r3p4r3w2r5k11r2w23k3~x2/"><circle cx="188.0" cy="110.3" r="4" fill="#3465a4"><title>MacKellar Dress Red Fashion Tartan Tartan Number: 6563. Earliest known date: 01/01/2002 The Mackellar Dress sett was originally designed by AA Bottomley of Peter MacArthur's. The colours of this version have been changed (presumably by DC Dalgliesh of Selkirk) to produce a Dancers' tartan./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r35db2w2db2r4r10w25r3~x2/"><circle cx="298.4" cy="122.2" r="4" fill="#3465a4"><title>Longniddry Dress, Red (Dance)</title></circle></a><a href="/setts/s9/r6w30r2k3r30g3r2w25r6~x2/"><circle cx="237.0" cy="100.4" r="4" fill="#3465a4"><title>Virginia Military Institute (Milit.)</title></circle></a><circle cx="245.7" cy="122.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r24ly2y3o2w10r4y3o3w2~x2/"><circle cx="281.8" cy="125.1" r="4" fill="#3465a4"><title>Manx Laxey, Red</title></circle></a><a href="/setts/s9/r24ly2o3dy2w10r4o3dy3w2~x2/"><circle cx="277.6" cy="122.2" r="4" fill="#3465a4"><title>Manx Laxey (Red)</title></circle></a><a href="/setts/s9/r15r1lg3k1w11r3lg3r3w1~x4/"><circle cx="205.0" cy="114.9" r="4" fill="#3465a4"><title>Etive, Burgundy (Dance)</title></circle></a><a href="/setts/s10/k2lr3r3lr21ly3lr2r6g6r4w2~x2/"><circle cx="233.6" cy="113.0" r="4" fill="#3465a4"><title>Hello Kitty</title></circle></a><a href="/setts/s7/r8dp2r24db5w26dy2w8~x2/"><circle cx="234.2" cy="139.9" r="4" fill="#3465a4"><title>Lennox Dress</title></circle></a><a href="/setts/s7/r8p2r24db5w26o2w8~x2/"><circle cx="232.9" cy="141.3" r="4" fill="#3465a4"><title>Lennox, dress</title></circle></a><a href="/setts/s7/w8r5dp10r24w30r2db2~x2/"><circle cx="211.6" cy="130.9" r="4" fill="#3465a4"><title>Shiel, Claret (Dance)</title></circle></a><a href="/setts/s11/r23w2r3p4r3w2r5k11r2w23k3~x2/"><circle cx="187.6" cy="110.3" r="4" fill="#3465a4"><title>MacKellar Dress Red Fashion Tartan Tartan Number: 6563. Earliest known date: 01/01/2002 The Mackellar Dress sett was originally designed by AA Bottomley of Peter MacArthur's. The colours of this version have been changed (presumably by DC Dalgliesh of Selkirk) to produce a Dancers' tartan./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/r35db2w2db2r4r10w25r3~x2/"><circle cx="297.9" cy="122.1" r="4" fill="#3465a4"><title>Longniddry Dress, Red (Dance)</title></circle></a><a href="/setts/s9/r6w30r2k3r30g3r2w25r6~x2/"><circle cx="236.5" cy="100.3" r="4" fill="#3465a4"><title>Virginia Military Institute (Milit.)</title></circle></a><circle cx="245.2" cy="122.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r41ly3y7db3w24r10y7db7w3~x2/

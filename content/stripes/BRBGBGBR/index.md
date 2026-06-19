@@ -8,7 +8,7 @@ BRBGBGBR
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/db18r18dp2g12db1g12dp2r18~x4/tartan.png)
+![Woven sample](/setts/s8/db18r18dp2g12db1~x4/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ BRBGBGBR
 
 
 
-### DB R DP G DB G DP R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R DP G DB G DP R</span></span>
+### R DP G DB G DP R DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R DP G DB G DP R DB</span></span>
 
 | Tartans |
 |---------------|
-| [Wyeth (Personal)](/setts/s8/db18r18dp2g12db1g12dp2r18~x4/)|
-|![Wyeth (Personal) example sett](/setts/s8/db18r18dp2g12db1g12dp2r18~x4/sett.png)|
+| [Wyeth (Personal)](/setts/s8/db18r18dp2g12db1~x4/)|
+|![Wyeth (Personal) example sett](/setts/s8/db18r18dp2g12db1~x4/sett.png)|
 

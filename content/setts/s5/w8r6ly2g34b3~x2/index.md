@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10314](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10314)
 
 ## Thread count
-B/6 G68 Y4 R12 W/16
+W/16 R12 Y4 G68 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -32,7 +32,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/6 G68 Y4 R12 W/16 tartan")
+![Tartan detail](tartan.png "W/16 R12 Y4 G68 B/6 tartan")
 
 ## Nearest tartans
 
@@ -51,8 +51,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g55ly4db15w3r3w5~x2/"><circle cx="373.5" cy="143.9" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/setts/s5/w8r6lo2g34b3~x2/"><circle cx="369.1" cy="169.6" r="4" fill="#3465a4"><title>Milling-Kristensen (Personal)</title></circle></a><a href="/setts/s5/lr2dg17w6b5r1~x4/"><circle cx="256.9" cy="165.0" r="4" fill="#3465a4"><title>Scotstown</title></circle></a><a href="/setts/s6/dg55ly4db15w3r3w5~x2/"><circle cx="357.5" cy="141.2" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/setts/s6/w12k3g50w3k13lo6~x2/"><circle cx="309.9" cy="166.4" r="4" fill="#3465a4"><title>Limerick County Crest (Fashion)</title></circle></a><a href="/setts/s8/dg26r2dg3ly2dg8w20db3w4~x2/"><circle cx="256.6" cy="142.0" r="4" fill="#3465a4"><title>Green Mountain</title></circle></a><a href="/setts/s4/p4g10w1r1~x2/"><circle cx="343.5" cy="220.3" r="4" fill="#3465a4"><title>Wilson's, No 189</title></circle></a><a href="/setts/s7/g13k1r1k1b2k1ly4~x8/"><circle cx="291.1" cy="152.7" r="4" fill="#3465a4"><title>Alberta (Province)</title></circle></a><a href="/setts/s8/ly5g3ly3g53r7db5r13w4~x2/"><circle cx="345.6" cy="131.7" r="4" fill="#3465a4"><title>Hall (P.I.E.) (Personal)</title></circle></a><a href="/setts/s5/k5w2ly36t47r3~x2/"><circle cx="290.4" cy="144.1" r="4" fill="#3465a4"><title>Oliver Dress Pink</title></circle></a><circle cx="335.8" cy="153.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g55ly4db15w3r3w5~x2/"><circle cx="373.2" cy="143.7" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/setts/s5/w8r6lo2g34b3~x2/"><circle cx="368.8" cy="169.4" r="4" fill="#3465a4"><title>Milling-Kristensen (Personal)</title></circle></a><a href="/setts/s5/lr2dg17w6b5r1~x4/"><circle cx="256.8" cy="164.8" r="4" fill="#3465a4"><title>Scotstown</title></circle></a><a href="/setts/s6/dg55ly4db15w3r3w5~x2/"><circle cx="357.4" cy="141.0" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/setts/s6/w12k3g50w3k13lo6~x2/"><circle cx="309.7" cy="166.2" r="4" fill="#3465a4"><title>Limerick County Crest (Fashion)</title></circle></a><a href="/setts/s8/dg26r2dg3ly2dg8w20db3w4~x2/"><circle cx="256.4" cy="141.8" r="4" fill="#3465a4"><title>Green Mountain</title></circle></a><a href="/setts/s4/p4g10w1r1~x2/"><circle cx="343.3" cy="220.0" r="4" fill="#3465a4"><title>Wilson's, No 189</title></circle></a><a href="/setts/s7/g13k1r1k1b2k1ly4~x8/"><circle cx="290.9" cy="152.6" r="4" fill="#3465a4"><title>Alberta (Province)</title></circle></a><a href="/setts/s8/ly5g3ly3g53r7db5r13w4~x2/"><circle cx="345.3" cy="131.6" r="4" fill="#3465a4"><title>Hall (P.I.E.) (Personal)</title></circle></a><a href="/setts/s5/k5w2ly36t47r3~x2/"><circle cx="290.0" cy="144.0" r="4" fill="#3465a4"><title>Oliver Dress Pink</title></circle></a><circle cx="335.6" cy="152.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/w8r6ly2g34b3~x2/

@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands1
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6578/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Greenshields, Simon
+
 ## Thread count
 DB/80 LP6 DB6 LP6 DB6 LP8 DG16 G16 N16 LN/4
 ![Sett](sett.png)
@@ -42,8 +48,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g10db9m4r2m4g6k10w4g24db60k4/"><circle cx="301.3" cy="106.7" r="4" fill="#3465a4"><title>Huaumé, Patrick Antoine (Personal)</title></circle></a><a href="/setts/s9/db60lo3db5lo5db9do20lo4g32lb4~x2/"><circle cx="286.0" cy="131.7" r="4" fill="#3465a4"><title>State Seal of Ohio (Fashion)</title></circle></a><a href="/setts/s9/t50r3t4r4t7k14g31lo2w2~x2/"><circle cx="298.3" cy="121.7" r="4" fill="#3465a4"><title>Highland Glen (Corporate)</title></circle></a><a href="/setts/s11/g10db9dp4r2dp4g6k10w4g24db60k4/"><circle cx="304.2" cy="105.0" r="4" fill="#3465a4"><title>Huaum, Patrick Antoine (Personal))</title></circle></a><a href="/setts/s8/dy2db4ly3dg28db28w2db4n2~x2/"><circle cx="300.7" cy="160.8" r="4" fill="#3465a4"><title>Laurentian University</title></circle></a><a href="/setts/s11/k7lo3db62o16g5o5g5o5g16db16k4/"><circle cx="323.2" cy="135.9" r="4" fill="#3465a4"><title>Polkemmet (Corporate)</title></circle></a><a href="/setts/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/"><circle cx="267.0" cy="100.3" r="4" fill="#3465a4"><title>Roach (2015)</title></circle></a><a href="/setts/s9/db33k1db5k8g8r2g15ly1w2~x2/"><circle cx="301.2" cy="113.4" r="4" fill="#3465a4"><title>Mulcahy (Name)</title></circle></a><a href="/setts/s9/w2db20dg2dg2dg2dg5dg8ly2r1~x2/"><circle cx="237.6" cy="123.6" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><a href="/setts/s9/r2k3db42k3ly2k3g22k3r2~x2/"><circle cx="322.3" cy="132.5" r="4" fill="#3465a4"><title>Strachan (Name)</title></circle></a><circle cx="311.5" cy="123.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g10db9m4r2m4g6k10w4g24db60k4/"><circle cx="301.3" cy="106.7" r="4" fill="#3465a4"><title>Huaumé, Patrick Antoine (Personal)</title></circle></a><a href="/setts/s9/db60lo3db5lo5db9do20lo4g32lb4~x2/"><circle cx="286.0" cy="131.7" r="4" fill="#3465a4"><title>State Seal of Ohio (Fashion)</title></circle></a><a href="/setts/s9/t50r3t4r4t7k14g31lo2w2~x2/"><circle cx="298.2" cy="121.7" r="4" fill="#3465a4"><title>Highland Glen (Corporate)</title></circle></a><a href="/setts/s11/g10db9dp4r2dp4g6k10w4g24db60k4/"><circle cx="304.1" cy="105.1" r="4" fill="#3465a4"><title>Huaum, Patrick Antoine (Personal))</title></circle></a><a href="/setts/s8/dy2db4ly3dg28db28w2db4n2~x2/"><circle cx="300.7" cy="160.9" r="4" fill="#3465a4"><title>Laurentian University</title></circle></a><a href="/setts/s11/k7lo3db62o16g5o5g5o5g16db16k4/"><circle cx="323.1" cy="135.9" r="4" fill="#3465a4"><title>Polkemmet (Corporate)</title></circle></a><a href="/setts/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/"><circle cx="266.9" cy="100.4" r="4" fill="#3465a4"><title>Roach (2015)</title></circle></a><a href="/setts/s9/db33k1db5k8g8r2g15ly1w2~x2/"><circle cx="301.2" cy="113.4" r="4" fill="#3465a4"><title>Mulcahy (Name)</title></circle></a><a href="/setts/s9/w2db20dg2dg2dg2dg5dg8ly2r1~x2/"><circle cx="237.6" cy="123.7" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><a href="/setts/s9/r2k3db42k3ly2k3g22k3r2~x2/"><circle cx="322.3" cy="132.5" r="4" fill="#3465a4"><title>Strachan (Name)</title></circle></a><circle cx="311.4" cy="123.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/dt40lb3dt3lb3dt3lb4dg8g8n8w2~x2/

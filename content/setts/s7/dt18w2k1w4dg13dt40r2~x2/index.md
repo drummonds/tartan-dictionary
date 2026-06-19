@@ -2,7 +2,7 @@
 title: "Puxty-Dunne"
 date: 2023-03-18
 ---
-**Bands:** [BWKWGBR](/stripes/bwkwgbr/) · **Stripes:** [DT W K W DG DT R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="seq">DT W K W DG DT R</span></span>
+**Bands:** [RBGWKWB](/stripes/rbgwkwb/) · **Stripes:** [R DT DG W K W DT](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="seq">R DT DG W K W DT</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10533](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10533)
 
 ## Thread count
-DR/4 N80 DG26 LR8 K2 LR4 N/36
+N/36 LR4 K2 LR8 DG26 N80 DR/4
 ![Sett](sett.png)
 
 ## Palette
@@ -32,14 +32,14 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/4 N80 DG26 LR8 K2 LR4 N/36 tartan")
+![Tartan detail](tartan.png "N/36 LR4 K2 LR8 DG26 N80 DR/4 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Puxty-Dunne (Personal)](/setts/s7/n18w2k1w4g13n40r2~x2/) — ΔT 0.93
-1. [Highland Autumn (Fashion)](/setts/s8/lo2k1n9k8n28k2n2r2~x2/) — ΔT 1.27
+1. [Puxty-Dunne (Personal)](/setts/s7/n18w2k1w4g13n40r2~x2/) — ΔT 0.94
+1. [Highland Autumn (Fashion)](/setts/s8/r2n2k2n28k8n9k1lo2~x2/) — ΔT 1.27
 1. [Lochnagar Dark (Fashion)](/setts/s10/do6o1do40n1do12o12dp6o2r2o4~x2/) — ΔT 1.28
 1. [MTV](/setts/s7/dr5k3dr9dg56t4dg2w3/) — ΔT 1.36
 1. [London Scottish Rugby Club](/setts/s6/r5dt40w1dt13g8k4~x2/) — ΔT 1.39
@@ -51,8 +51,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/n18w2k1w4g13n40r2~x2/"><circle cx="508.5" cy="150.4" r="4" fill="#3465a4"><title>Puxty-Dunne (Personal)</title></circle></a><a href="/setts/s8/lo2k1n9k8n28k2n2r2~x2/"><circle cx="518.6" cy="164.9" r="4" fill="#3465a4"><title>Highland Autumn (Fashion)</title></circle></a><a href="/setts/s10/do6o1do40n1do12o12dp6o2r2o4~x2/"><circle cx="478.4" cy="125.4" r="4" fill="#3465a4"><title>Lochnagar Dark (Fashion)</title></circle></a><a href="/setts/s7/dr5k3dr9dg56t4dg2w3/"><circle cx="479.2" cy="138.6" r="4" fill="#3465a4"><title>MTV</title></circle></a><a href="/setts/s6/r5dt40w1dt13g8k4~x2/"><circle cx="524.9" cy="170.6" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><a href="/setts/s10/do6o1do40n1do12o12n6o2r2o4~x2/"><circle cx="504.0" cy="146.9" r="4" fill="#3465a4"><title>Dark Lochnagar</title></circle></a><a href="/setts/s6/dt60lr11o5n5k1o4~x2/"><circle cx="471.1" cy="109.2" r="4" fill="#3465a4"><title>Christie (London) Hunting</title></circle></a><a href="/setts/s5/n30do9w1r5ly1~x4/"><circle cx="466.2" cy="176.3" r="4" fill="#3465a4"><title>Dunning Primary (School)</title></circle></a><a href="/setts/s7/r5k3r9dg56t4dg2w3/"><circle cx="471.1" cy="132.1" r="4" fill="#3465a4"><title>MTV</title></circle></a><a href="/setts/s8/k50db2k13w1k13db5dg15r2~x2/"><circle cx="549.4" cy="151.1" r="4" fill="#3465a4"><title>Center</title></circle></a><circle cx="504.3" cy="153.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/n18w2k1w4g13n40r2~x2/"><circle cx="508.2" cy="150.2" r="4" fill="#3465a4"><title>Puxty-Dunne (Personal)</title></circle></a><a href="/setts/s8/r2n2k2n28k8n9k1lo2~x2/"><circle cx="518.2" cy="164.7" r="4" fill="#3465a4"><title>Highland Autumn (Fashion)</title></circle></a><a href="/setts/s10/do6o1do40n1do12o12dp6o2r2o4~x2/"><circle cx="478.1" cy="125.3" r="4" fill="#3465a4"><title>Lochnagar Dark (Fashion)</title></circle></a><a href="/setts/s7/dr5k3dr9dg56t4dg2w3/"><circle cx="479.0" cy="138.5" r="4" fill="#3465a4"><title>MTV</title></circle></a><a href="/setts/s6/r5dt40w1dt13g8k4~x2/"><circle cx="524.8" cy="170.5" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><a href="/setts/s10/do6o1do40n1do12o12n6o2r2o4~x2/"><circle cx="503.7" cy="146.8" r="4" fill="#3465a4"><title>Dark Lochnagar</title></circle></a><a href="/setts/s6/dt60lr11o5n5k1o4~x2/"><circle cx="470.9" cy="109.1" r="4" fill="#3465a4"><title>Christie (London) Hunting</title></circle></a><a href="/setts/s5/n30do9w1r5ly1~x4/"><circle cx="465.9" cy="176.2" r="4" fill="#3465a4"><title>Dunning Primary (School)</title></circle></a><a href="/setts/s7/r5k3r9dg56t4dg2w3/"><circle cx="470.9" cy="131.9" r="4" fill="#3465a4"><title>MTV</title></circle></a><a href="/setts/s8/k50db2k13w1k13db5dg15r2~x2/"><circle cx="549.3" cy="151.0" r="4" fill="#3465a4"><title>Center</title></circle></a><circle cx="504.1" cy="152.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/dt18w2k1w4dg13dt40r2~x2/

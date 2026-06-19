@@ -1,0 +1,52 @@
+---
+title: "Maguire Clan Family Tartan Tartan Number: 6812. Earliest known date: 2005 The first Scottish Maguire as recorded with Lord Lyon. The design is based on MacQuarrie and was created by FE Maguire at the House of Tartan in Comrie, Perthshire. The tartan is intended for the use of all Scottish Maguires. See products available Copyright © Blair Urquhart, Comrie, 2015"
+date: 2023-03-18
+---
+**Bands:** [RGRGRYRGRG](/stripes/rgrgryrgrg/) · **Stripes:** [O G O G O LY O G O G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">O G O G O LY O G O G</span></span>
+
+
+This was sourced from house-of-tartan.  It is a [10 band tartan](/bands/bands10/).
+
+Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6812
+
+## Thread count
+Oa/116 B8 Oa8 B8 Oa24 Ya84 Oa24 B8 Oa8 B/8
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#009468;"><span style="color:#009468;filter:grayscale(1) invert(1) contrast(100);">#009468</span></code> `#009468` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.17 |
+| DO | <code style="background-color:#B84C00;"><span style="color:#B84C00;filter:grayscale(1) invert(1) contrast(100);">#B84C00</span></code> `#B84C00` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.08 |
+| DY | <code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> `#BC8C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.16 |
+| G | <code style="background-color:#00643C;"><span style="color:#00643C;filter:grayscale(1) invert(1) contrast(100);">#00643C</span></code> `#00643C` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.05 |
+| N | <code style="background-color:#406054;"><span style="color:#406054;filter:grayscale(1) invert(1) contrast(100);">#406054</span></code> `#406054` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.11 |
+| O | <code style="background-color:#EC8048;"><span style="color:#EC8048;filter:grayscale(1) invert(1) contrast(100);">#EC8048</span></code> `#EC8048` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+| Oa | <code style="background-color:#E86000;"><span style="color:#E86000;filter:grayscale(1) invert(1) contrast(100);">#E86000</span></code> `#E86000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.14 |
+| Y | <code style="background-color:#D8B000;"><span style="color:#D8B000;filter:grayscale(1) invert(1) contrast(100);">#D8B000</span></code> `#D8B000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.06 |
+| Ya | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Donachie of Brockloch Ancient Hunting](/setts/s10/o10y1k1y1k1y11o18y1k1y10~x4/) — ΔT 1.99
+1. [Wolfe (Name)](/setts/s7/g4o4g13o13g4o36lo4~x2/) — ΔT 2.02
+1. [Maguire, Black (Name)](/setts/s6/r29g2r2g2r6lo21~x4/) — ΔT 2.04
+1. [Prince David #1 (Royal)](/setts/s7/dy3lo2dy18lo21lo2dy3lo2~x2/) — ΔT 2.08
+1. [Antigua & Barbuda](/setts/s14/r30g3lo3g3lo3g3lo3g3lo3g3lo3g3lo10r5~x2/) — ΔT 2.14
+1. [Unidentified Lindley #5](/setts/s10/dy1r1lo7r7dy1lo1dy1r7lo7r1~x4/) — ΔT 2.26
+1. [Wolfe](/setts/s12/o36g4o13g13o4g4o4g13o13g4o36lo4~x2/) — ΔT 2.28
+1. [Unnamed Brown (Teddy Bear)](/setts/s5/r1dy7o25dy7r1~x2/) — ΔT 2.34
+1. [MacColl](/setts/s14/r12o1r1g8r2o1r1db3r1o1r12g1r1g4~x2/) — ΔT 2.43
+1. [MacColl](/setts/s14/r12g1r1o8r2o1r1db3r1o1r12g1r1g4~x2/) — ΔT 2.44
+
+## Neighbour map
+
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/o10y1k1y1k1y11o18y1k1y10~x4/"><circle cx="420.7" cy="197.4" r="4" fill="#3465a4"><title>Donachie of Brockloch Ancient Hunting</title></circle></a><a href="/setts/s7/g4o4g13o13g4o36lo4~x2/"><circle cx="448.2" cy="214.9" r="4" fill="#3465a4"><title>Wolfe (Name)</title></circle></a><a href="/setts/s6/r29g2r2g2r6lo21~x4/"><circle cx="454.0" cy="206.2" r="4" fill="#3465a4"><title>Maguire, Black (Name)</title></circle></a><a href="/setts/s7/dy3lo2dy18lo21lo2dy3lo2~x2/"><circle cx="363.9" cy="212.4" r="4" fill="#3465a4"><title>Prince David #1 (Royal)</title></circle></a><a href="/setts/s14/r30g3lo3g3lo3g3lo3g3lo3g3lo3g3lo10r5~x2/"><circle cx="321.7" cy="162.5" r="4" fill="#3465a4"><title>Antigua &amp; Barbuda</title></circle></a><a href="/setts/s10/dy1r1lo7r7dy1lo1dy1r7lo7r1~x4/"><circle cx="349.2" cy="227.9" r="4" fill="#3465a4"><title>Unidentified Lindley #5</title></circle></a><a href="/setts/s12/o36g4o13g13o4g4o4g13o13g4o36lo4~x2/"><circle cx="462.0" cy="197.4" r="4" fill="#3465a4"><title>Wolfe</title></circle></a><a href="/setts/s5/r1dy7o25dy7r1~x2/"><circle cx="475.2" cy="200.4" r="4" fill="#3465a4"><title>Unnamed Brown (Teddy Bear)</title></circle></a><a href="/setts/s14/r12o1r1g8r2o1r1db3r1o1r12g1r1g4~x2/"><circle cx="384.7" cy="151.9" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/setts/s14/r12g1r1o8r2o1r1db3r1o1r12g1r1g4~x2/"><circle cx="412.9" cy="166.4" r="4" fill="#3465a4"><title>MacColl</title></circle></a><circle cx="444.6" cy="171.7" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s10/o29g2o2g2o6ly21~x4/

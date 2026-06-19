@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=49
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Alexander of Menstry Hunting
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -66,8 +72,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db4k1lg18y2lg11y11lb18k1r4~x2/"><circle cx="171.9" cy="127.3" r="4" fill="#3465a4"><title>Morgan in Maryland (USA)</title></circle></a><a href="/setts/s7/db20r2g9w6ly4k2g8~x2/"><circle cx="130.6" cy="163.7" r="4" fill="#3465a4"><title>Crofters (Personal)</title></circle></a><a href="/setts/s9/g20g6w15dt5w2dt15o4dt10r2~x2/"><circle cx="107.7" cy="165.8" r="4" fill="#3465a4"><title>Copar a'Beannichte Dress (Personal)</title></circle></a><a href="/setts/s9/db16w6r8db3ly1g1b3db1g9~x2/"><circle cx="164.8" cy="129.5" r="4" fill="#3465a4"><title>Ohio</title></circle></a><a href="/setts/s7/t16r1g16w1dy1w8m3~x2/"><circle cx="171.2" cy="137.6" r="4" fill="#3465a4"><title>Chambers, Christopher J (Personal)</title></circle></a><a href="/setts/s8/r6w20g12o3g8t20k2t3~x2/"><circle cx="82.5" cy="152.9" r="4" fill="#3465a4"><title>Coulter Dress (Personal)</title></circle></a><a href="/setts/s10/lb38dt18lb4ly3g10lo3g4lb3lo17r4~x2/"><circle cx="177.1" cy="122.3" r="4" fill="#3465a4"><title>State Seal of Delaware (Fashion)</title></circle></a><a href="/setts/s11/w4t5lo3t22ly4k3g16lo7k2lo7ly2~x2/"><circle cx="123.2" cy="136.4" r="4" fill="#3465a4"><title>Cossar (Personal)</title></circle></a><a href="/setts/s10/dg12g24t48r23w8r23t24ly4g12dg12/"><circle cx="119.5" cy="160.0" r="4" fill="#3465a4"><title>Swiss Highlander (Corporate)</title></circle></a><a href="/setts/s10/g6g20g6w15dt5w2dt15o4dt10r2~x2/"><circle cx="91.2" cy="163.4" r="4" fill="#3465a4"><title>Copar a'Beannichte Dress (Personal)</title></circle></a><circle cx="132.5" cy="145.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db4k1lg18y2lg11y11lb18k1r4~x2/"><circle cx="171.7" cy="127.3" r="4" fill="#3465a4"><title>Morgan in Maryland (USA)</title></circle></a><a href="/setts/s7/db20r2g9w6ly4k2g8~x2/"><circle cx="130.5" cy="163.7" r="4" fill="#3465a4"><title>Crofters (Personal)</title></circle></a><a href="/setts/s9/g20g6w15dt5w2dt15o4dt10r2~x2/"><circle cx="107.8" cy="165.8" r="4" fill="#3465a4"><title>Copar a'Beannichte Dress (Personal)</title></circle></a><a href="/setts/s9/db16w6r8db3ly1g1b3db1g9~x2/"><circle cx="164.7" cy="129.5" r="4" fill="#3465a4"><title>Ohio</title></circle></a><a href="/setts/s7/t16r1g16w1dy1w8m3~x2/"><circle cx="171.0" cy="137.6" r="4" fill="#3465a4"><title>Chambers, Christopher J (Personal)</title></circle></a><a href="/setts/s8/r6w20g12o3g8t20k2t3~x2/"><circle cx="82.4" cy="153.0" r="4" fill="#3465a4"><title>Coulter Dress (Personal)</title></circle></a><a href="/setts/s10/lb38dt18lb4ly3g10lo3g4lb3lo17r4~x2/"><circle cx="176.8" cy="122.3" r="4" fill="#3465a4"><title>State Seal of Delaware (Fashion)</title></circle></a><a href="/setts/s11/w4t5lo3t22ly4k3g16lo7k2lo7ly2~x2/"><circle cx="123.0" cy="136.5" r="4" fill="#3465a4"><title>Cossar (Personal)</title></circle></a><a href="/setts/s10/dg12g24t48r23w8r23t24ly4g12dg12/"><circle cx="119.4" cy="160.1" r="4" fill="#3465a4"><title>Swiss Highlander (Corporate)</title></circle></a><a href="/setts/s10/g6g20g6w15dt5w2dt15o4dt10r2~x2/"><circle cx="91.2" cy="163.5" r="4" fill="#3465a4"><title>Copar a'Beannichte Dress (Personal)</title></circle></a><circle cx="132.4" cy="145.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/m5g2m2g26k9lr9lb13w5~x2/

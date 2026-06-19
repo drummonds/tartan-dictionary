@@ -18,7 +18,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1673
 
 ## Thread count
-Ra/10 W4 Na40 Y4 K32 W36 K4 W/10
+W/10 K4 W36 K32 Y4 Na40 W4 Ra/10
 ![Sett](sett.png)
 
 ## Palette
@@ -37,7 +37,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "Ra/10 W4 Na40 Y4 K32 W36 K4 W/10 tartan")
+![Tartan detail](tartan.png "W/10 K4 W36 K32 Y4 Na40 W4 Ra/10 tartan")
 
 ## Nearest tartans
 
@@ -49,15 +49,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Alexander Brothers - 2007? (Corp.)](/setts/s8/g5ly2t20w2k20w20k2w5~x2/) — ΔT 0.86
 1. [Culloden, dress Ancient](/setts/s8/r6db2p21w3dg19w26dg3w5~x2/) — ΔT 0.93
 1. [MacDuff Dress #5](/setts/s7/w39db9k10dg11r7k3r7~x2/) — ΔT 0.95
-1. [Stirling & Bannockburn Dress (Dist)](/setts/s10/ly5w3lb28r5k21r5lb3r5w28r5~x2/) — ΔT 0.95
+1. [Stirling & Bannockburn Dress (Dist)](/setts/s10/r5w28r5lb3r5k21r5lb28w3ly5~x2/) — ΔT 0.95
 1. [Oliver, dress](/setts/s9/w5g3r3g3r3db20r16w21k3~x2/) — ΔT 0.96
 1. [MacDuff dress](/setts/s7/w39db9k10g11r7k3r7~x2/) — ΔT 0.97
 1. [Northern Ontario](/setts/s7/dy17g5db2w12db2ly4g7~x4/) — ΔT 1.00
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r5w2t20ly2k16w18k2w5~x2/"><circle cx="116.6" cy="147.9" r="4" fill="#3465a4"><title>Ailsa Craig (District)</title></circle></a><a href="/setts/s7/w4k2w18k11db2y18ly2~x2/"><circle cx="130.6" cy="158.5" r="4" fill="#3465a4"><title>Barbour - Ancient</title></circle></a><a href="/setts/s8/w4k13w17lo2r2lo24w2w2~x2/"><circle cx="167.0" cy="134.0" r="4" fill="#3465a4"><title>Lalage (Personal)</title></circle></a><a href="/setts/s8/g5ly2t20w2k20w20k2w5~x2/"><circle cx="120.8" cy="153.6" r="4" fill="#3465a4"><title>Alexander Brothers - 2007? (Corp.)</title></circle></a><a href="/setts/s8/r6db2p21w3dg19w26dg3w5~x2/"><circle cx="155.7" cy="140.1" r="4" fill="#3465a4"><title>Culloden, dress Ancient</title></circle></a><a href="/setts/s7/w39db9k10dg11r7k3r7~x2/"><circle cx="171.6" cy="138.9" r="4" fill="#3465a4"><title>MacDuff Dress #5</title></circle></a><a href="/setts/s10/ly5w3lb28r5k21r5lb3r5w28r5~x2/"><circle cx="86.0" cy="132.5" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn Dress (Dist)</title></circle></a><a href="/setts/s9/w5g3r3g3r3db20r16w21k3~x2/"><circle cx="110.8" cy="154.6" r="4" fill="#3465a4"><title>Oliver, dress</title></circle></a><a href="/setts/s7/w39db9k10g11r7k3r7~x2/"><circle cx="165.4" cy="138.2" r="4" fill="#3465a4"><title>MacDuff dress</title></circle></a><a href="/setts/s7/dy17g5db2w12db2ly4g7~x4/"><circle cx="103.5" cy="175.6" r="4" fill="#3465a4"><title>Northern Ontario</title></circle></a><circle cx="118.1" cy="147.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r5w2t20ly2k16w18k2w5~x2/"><circle cx="116.4" cy="147.8" r="4" fill="#3465a4"><title>Ailsa Craig (District)</title></circle></a><a href="/setts/s7/w4k2w18k11db2y18ly2~x2/"><circle cx="130.5" cy="158.4" r="4" fill="#3465a4"><title>Barbour - Ancient</title></circle></a><a href="/setts/s8/w4k13w17lo2r2lo24w2w2~x2/"><circle cx="166.7" cy="133.9" r="4" fill="#3465a4"><title>Lalage (Personal)</title></circle></a><a href="/setts/s8/g5ly2t20w2k20w20k2w5~x2/"><circle cx="120.7" cy="153.5" r="4" fill="#3465a4"><title>Alexander Brothers - 2007? (Corp.)</title></circle></a><a href="/setts/s8/r6db2p21w3dg19w26dg3w5~x2/"><circle cx="155.5" cy="140.0" r="4" fill="#3465a4"><title>Culloden, dress Ancient</title></circle></a><a href="/setts/s7/w39db9k10dg11r7k3r7~x2/"><circle cx="171.3" cy="138.8" r="4" fill="#3465a4"><title>MacDuff Dress #5</title></circle></a><a href="/setts/s10/r5w28r5lb3r5k21r5lb28w3ly5~x2/"><circle cx="85.8" cy="132.5" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn Dress (Dist)</title></circle></a><a href="/setts/s9/w5g3r3g3r3db20r16w21k3~x2/"><circle cx="110.6" cy="154.6" r="4" fill="#3465a4"><title>Oliver, dress</title></circle></a><a href="/setts/s7/w39db9k10g11r7k3r7~x2/"><circle cx="165.2" cy="138.0" r="4" fill="#3465a4"><title>MacDuff dress</title></circle></a><a href="/setts/s7/dy17g5db2w12db2ly4g7~x4/"><circle cx="103.4" cy="175.6" r="4" fill="#3465a4"><title>Northern Ontario</title></circle></a><circle cx="117.9" cy="146.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r5w2o20ly2k16w18k2w5~x2/

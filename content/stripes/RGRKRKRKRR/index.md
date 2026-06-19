@@ -18,10 +18,10 @@ RGRKRKRKRR
 
 
 
-### R G R K R K R K R O <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="seq">R G R K R K R K R O</span></span>
+### O R K R K R K R G R <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">O R K R K R K R G R</span></span>
 
 | Tartans |
 |---------------|
-| [Galway](/setts/s10/o4r2k4r40k3r3k4r3g13r4~x2/)|
-|![Galway example sett](/setts/s10/o4r2k4r40k3r3k4r3g13r4~x2/sett.png)|
+| [Galway](/setts/s10/r4g13r3k4r3k3r40k4r2o4~x2/)|
+|![Galway example sett](/setts/s10/r4g13r3k4r3k3r40k4r2o4~x2/sett.png)|
 

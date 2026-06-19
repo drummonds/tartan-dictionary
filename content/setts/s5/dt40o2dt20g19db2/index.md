@@ -2,7 +2,7 @@
 title: "Lloyd (Welsh Name)"
 date: 2023-03-18
 ---
-**Bands:** [BGBRB](/stripes/bgbrb/) · **Stripes:** [DB G DT O DT](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="seq">DB G DT O DT</span></span>
+**Bands:** [BRBGB](/stripes/brbgb/) · **Stripes:** [DT O DT G DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">DT O DT G DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/
 Original link http://www.tartansauthority.com/tartan-ferret/display/5765/
 
 ## Thread count
-DB/2 G19 DBa20 N2 DBa/40
+DBa/40 N2 DBa20 G19 DB/2
 ![Sett](sett.png)
 
 ## Palette
@@ -27,7 +27,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/2 G19 DBa20 N2 DBa/40 tartan")
+![Tartan detail](tartan.png "DBa/40 N2 DBa20 G19 DB/2 tartan")
 
 ## Nearest tartans
 
@@ -46,8 +46,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/dg31lo1dg18db18r1~x2/"><circle cx="537.5" cy="245.0" r="4" fill="#3465a4"><title>Miramichi</title></circle></a><a href="/setts/s5/dt68b7dt16k16lo4~x2/"><circle cx="548.2" cy="240.7" r="4" fill="#3465a4"><title>Burnett's &amp; Struth (Corporate)</title></circle></a><a href="/setts/s5/dt68t7dt16k16lo4~x2/"><circle cx="551.3" cy="244.9" r="4" fill="#3465a4"><title>Burnetts &amp; Struth</title></circle></a><a href="/setts/s6/db9dy12db44dy12db9r3~x2/"><circle cx="532.4" cy="267.5" r="4" fill="#3465a4"><title>Elliot</title></circle></a><a href="/setts/s7/db13k3db20dy70db20dy30w3~x2/"><circle cx="482.0" cy="221.1" r="4" fill="#3465a4"><title>Unidentified #44</title></circle></a><a href="/setts/s5/k30dt6k6dt41t2~x2/"><circle cx="474.0" cy="270.6" r="4" fill="#3465a4"><title>Williams (New York) (Personal)</title></circle></a><a href="/setts/s6/k40dg15k10r2k10lo2~x2/"><circle cx="566.4" cy="243.3" r="4" fill="#3465a4"><title>Kalkofen (Name)</title></circle></a><a href="/setts/s9/dt58o3y16r3lo2y7dt29r3o2~x2/"><circle cx="515.9" cy="165.1" r="4" fill="#3465a4"><title>Aberdeen Mither Kirk (St Nicholas)</title></circle></a><a href="/setts/s4/n44dg12dt1r6~x2/"><circle cx="586.3" cy="226.4" r="4" fill="#3465a4"><title>Heslop, William D (Name)</title></circle></a><a href="/setts/s5/dt62o4dy10dy3dg21~x2/"><circle cx="471.9" cy="233.1" r="4" fill="#3465a4"><title>McGovern (2016)</title></circle></a><circle cx="542.7" cy="267.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/dg31lo1dg18db18r1~x2/"><circle cx="537.5" cy="244.9" r="4" fill="#3465a4"><title>Miramichi</title></circle></a><a href="/setts/s5/dt68b7dt16k16lo4~x2/"><circle cx="548.1" cy="240.6" r="4" fill="#3465a4"><title>Burnett's &amp; Struth (Corporate)</title></circle></a><a href="/setts/s5/dt68t7dt16k16lo4~x2/"><circle cx="551.2" cy="244.7" r="4" fill="#3465a4"><title>Burnetts &amp; Struth</title></circle></a><a href="/setts/s6/db9dy12db44dy12db9r3~x2/"><circle cx="532.3" cy="267.3" r="4" fill="#3465a4"><title>Elliot</title></circle></a><a href="/setts/s7/db13k3db20dy70db20dy30w3~x2/"><circle cx="481.8" cy="221.0" r="4" fill="#3465a4"><title>Unidentified #44</title></circle></a><a href="/setts/s5/k30dt6k6dt41t2~x2/"><circle cx="474.0" cy="270.6" r="4" fill="#3465a4"><title>Williams (New York) (Personal)</title></circle></a><a href="/setts/s6/k40dg15k10r2k10lo2~x2/"><circle cx="566.4" cy="243.2" r="4" fill="#3465a4"><title>Kalkofen (Name)</title></circle></a><a href="/setts/s9/dt58o3y16r3lo2y7dt29r3o2~x2/"><circle cx="515.6" cy="165.1" r="4" fill="#3465a4"><title>Aberdeen Mither Kirk (St Nicholas)</title></circle></a><a href="/setts/s4/n44dg12dt1r6~x2/"><circle cx="586.0" cy="226.3" r="4" fill="#3465a4"><title>Heslop, William D (Name)</title></circle></a><a href="/setts/s5/dt62o4dy10dy3dg21~x2/"><circle cx="471.9" cy="233.2" r="4" fill="#3465a4"><title>McGovern (2016)</title></circle></a><circle cx="542.6" cy="267.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/dt40o2dt20g19db2/

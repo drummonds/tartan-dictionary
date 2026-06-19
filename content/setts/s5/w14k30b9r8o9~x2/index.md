@@ -38,11 +38,11 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Inspiration](/setts/s5/lo5dt21ly11t12r5~x2/) — ΔT 1.04
+1. [Inspiration](/setts/s5/r5t12ly11dt21lo5~x2/) — ΔT 1.04
 1. [Wilson's, No 176](/setts/s5/k4t3g12p13ly2~x2/) — ΔT 1.21
-1. [Inspiration](/setts/s5/ly5n21ly11db12r5~x2/) — ΔT 1.24
+1. [Inspiration](/setts/s5/r5db12ly11n21ly5~x2/) — ΔT 1.24
 1. [Wilson's No 148](/setts/s5/k4t3g13p12w2~x2/) — ΔT 1.25
-1. [Thompson's Fancy (Fashion)](/setts/s6/lb1k4lb4db2dy6r1~x6/) — ΔT 1.31
+1. [Thompson's Fancy (Fashion)](/setts/s6/r1dy6db2lb4k4lb1~x6/) — ΔT 1.31
 1. [Strathblane](/setts/s5/o12k4w2y6r3~x2/) — ΔT 1.31
 1. [Gallowater, Old](/setts/s5/k19t10p19g40ly10/) — ΔT 1.38
 1. [Wellington, No 229](/setts/s5/k4t3p11g14w2~x2/) — ΔT 1.39
@@ -51,8 +51,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/lo5dt21ly11t12r5~x2/"><circle cx="98.0" cy="246.4" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/setts/s5/k4t3g12p13ly2~x2/"><circle cx="135.5" cy="215.8" r="4" fill="#3465a4"><title>Wilson's, No 176</title></circle></a><a href="/setts/s5/ly5n21ly11db12r5~x2/"><circle cx="95.2" cy="240.0" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/setts/s5/k4t3g13p12w2~x2/"><circle cx="132.4" cy="215.8" r="4" fill="#3465a4"><title>Wilson's No 148</title></circle></a><a href="/setts/s6/lb1k4lb4db2dy6r1~x6/"><circle cx="87.6" cy="218.9" r="4" fill="#3465a4"><title>Thompson's Fancy (Fashion)</title></circle></a><a href="/setts/s5/o12k4w2y6r3~x2/"><circle cx="158.1" cy="221.5" r="4" fill="#3465a4"><title>Strathblane</title></circle></a><a href="/setts/s5/k19t10p19g40ly10/"><circle cx="86.8" cy="245.7" r="4" fill="#3465a4"><title>Gallowater, Old</title></circle></a><a href="/setts/s5/k4t3p11g14w2~x2/"><circle cx="145.8" cy="212.9" r="4" fill="#3465a4"><title>Wellington, No 229</title></circle></a><a href="/setts/s7/r3t4k11r11g11do3r3~x4/"><circle cx="97.5" cy="233.3" r="4" fill="#3465a4"><title>Stewart /Stuart- Fragment Cf 1452 &amp; 1445</title></circle></a><a href="/setts/s5/k4t3p11g14ly2~x2/"><circle cx="147.8" cy="213.6" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><circle cx="96.2" cy="233.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r5t12ly11dt21lo5~x2/"><circle cx="98.1" cy="246.4" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/setts/s5/k4t3g12p13ly2~x2/"><circle cx="135.6" cy="215.8" r="4" fill="#3465a4"><title>Wilson's, No 176</title></circle></a><a href="/setts/s5/r5db12ly11n21ly5~x2/"><circle cx="95.1" cy="239.9" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/setts/s5/k4t3g13p12w2~x2/"><circle cx="132.5" cy="215.8" r="4" fill="#3465a4"><title>Wilson's No 148</title></circle></a><a href="/setts/s6/r1dy6db2lb4k4lb1~x6/"><circle cx="87.7" cy="218.9" r="4" fill="#3465a4"><title>Thompson's Fancy (Fashion)</title></circle></a><a href="/setts/s5/o12k4w2y6r3~x2/"><circle cx="158.1" cy="221.4" r="4" fill="#3465a4"><title>Strathblane</title></circle></a><a href="/setts/s5/k19t10p19g40ly10/"><circle cx="86.9" cy="245.6" r="4" fill="#3465a4"><title>Gallowater, Old</title></circle></a><a href="/setts/s5/k4t3p11g14w2~x2/"><circle cx="145.9" cy="212.8" r="4" fill="#3465a4"><title>Wellington, No 229</title></circle></a><a href="/setts/s7/r3t4k11r11g11do3r3~x4/"><circle cx="97.6" cy="233.3" r="4" fill="#3465a4"><title>Stewart /Stuart- Fragment Cf 1452 &amp; 1445</title></circle></a><a href="/setts/s5/k4t3p11g14ly2~x2/"><circle cx="147.9" cy="213.5" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><circle cx="96.2" cy="233.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/w14k30b9r8o9~x2/

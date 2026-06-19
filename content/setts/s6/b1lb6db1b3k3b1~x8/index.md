@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [6 band tartan](/bands/bands6/
 Original link http://www.tartansauthority.com/tartan-ferret/display/5132/
 
 ## Thread count
-B/8 K24 B24 DB8 N48 B/8
+B/8 N48 DB8 B24 K24 B/8
 ![Sett](sett.png)
 
 ## Palette
@@ -25,13 +25,13 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/8 K24 B24 DB8 N48 B/8 tartan")
+![Tartan detail](tartan.png "B/8 N48 DB8 B24 K24 B/8 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Strathclyde](/setts/s7/b4db2b15w10k15db2k4~x2/) — ΔT 0.91
+1. [Strathclyde](/setts/s7/k4db2k15w10b15db2b4~x2/) — ΔT 0.91
 1. [Strathclyde](/setts/s7/k2b16w2k16w15k2w2~x2/) — ΔT 1.04
 1. [Culloden - 1977 (Fashion)](/setts/s8/db2lb4k2lb1db4k1db1g1~x4/) — ΔT 1.25
 1. [Blue Boy, The (Fashion)](/setts/s7/db1g7db7db2w6db1w1~x4/) — ΔT 1.28
@@ -44,8 +44,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/b4db2b15w10k15db2k4~x2/"><circle cx="129.4" cy="207.7" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/setts/s7/k2b16w2k16w15k2w2~x2/"><circle cx="129.0" cy="188.0" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/setts/s8/db2lb4k2lb1db4k1db1g1~x4/"><circle cx="124.1" cy="235.6" r="4" fill="#3465a4"><title>Culloden - 1977 (Fashion)</title></circle></a><a href="/setts/s7/db1g7db7db2w6db1w1~x4/"><circle cx="116.2" cy="202.6" r="4" fill="#3465a4"><title>Blue Boy, The (Fashion)</title></circle></a><a href="/setts/s6/ly2b9r2db6ly1r1~x4/"><circle cx="178.3" cy="194.7" r="4" fill="#3465a4"><title>Lauder Primary School</title></circle></a><a href="/setts/s7/k2lb16w2db16w15k2w2~x2/"><circle cx="128.6" cy="176.2" r="4" fill="#3465a4"><title>Strathclyde 1975 (District)</title></circle></a><a href="/setts/s7/r3db15w13o6db2o2r2~x2/"><circle cx="151.8" cy="188.9" r="4" fill="#3465a4"><title>Thom(p)son, Navy</title></circle></a><a href="/setts/s7/w20db14dt14w4db2b2dt7~x2/"><circle cx="129.2" cy="171.8" r="4" fill="#3465a4"><title>Earl of St. Andrews Dress</title></circle></a><a href="/setts/s10/lb7k2w2k2w2k2lb7t4k10w2~x4/"><circle cx="119.4" cy="200.3" r="4" fill="#3465a4"><title>Investors Group</title></circle></a><a href="/setts/s5/r15w10db48t32r6~x2/"><circle cx="186.1" cy="223.0" r="4" fill="#3465a4"><title>Lands of Liberty (Fashion)</title></circle></a><circle cx="134.6" cy="214.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k4db2k15w10b15db2b4~x2/"><circle cx="129.5" cy="207.5" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/setts/s7/k2b16w2k16w15k2w2~x2/"><circle cx="129.1" cy="187.9" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/setts/s8/db2lb4k2lb1db4k1db1g1~x4/"><circle cx="124.3" cy="235.4" r="4" fill="#3465a4"><title>Culloden - 1977 (Fashion)</title></circle></a><a href="/setts/s7/db1g7db7db2w6db1w1~x4/"><circle cx="116.2" cy="202.4" r="4" fill="#3465a4"><title>Blue Boy, The (Fashion)</title></circle></a><a href="/setts/s6/ly2b9r2db6ly1r1~x4/"><circle cx="178.3" cy="194.6" r="4" fill="#3465a4"><title>Lauder Primary School</title></circle></a><a href="/setts/s7/k2lb16w2db16w15k2w2~x2/"><circle cx="128.5" cy="176.0" r="4" fill="#3465a4"><title>Strathclyde 1975 (District)</title></circle></a><a href="/setts/s7/r3db15w13o6db2o2r2~x2/"><circle cx="151.7" cy="188.8" r="4" fill="#3465a4"><title>Thom(p)son, Navy</title></circle></a><a href="/setts/s7/w20db14dt14w4db2b2dt7~x2/"><circle cx="129.1" cy="171.7" r="4" fill="#3465a4"><title>Earl of St. Andrews Dress</title></circle></a><a href="/setts/s10/lb7k2w2k2w2k2lb7t4k10w2~x4/"><circle cx="119.4" cy="200.1" r="4" fill="#3465a4"><title>Investors Group</title></circle></a><a href="/setts/s5/r15w10db48t32r6~x2/"><circle cx="186.1" cy="222.9" r="4" fill="#3465a4"><title>Lands of Liberty (Fashion)</title></circle></a><circle cx="134.7" cy="214.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/b1lb6db1b3k3b1~x8/

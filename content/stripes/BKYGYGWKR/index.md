@@ -18,7 +18,7 @@ BKYGYGWKR
 
 
 
-### DB K LG Y LG Y LB K R <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB K LG Y LG Y LB K R</span></span>
+### R K LB Y LG Y LG K DB <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">R K LB Y LG Y LG K DB</span></span>
 
 | Tartans |
 |---------------|

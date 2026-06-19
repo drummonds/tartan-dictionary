@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,8 +909,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Daks (House Check)](/setts/s5/k3w6k4w6lo3~x2/) — ΔT 0.97
-1. [Aquascutum](/setts/s3/db1w2dy1~x12/) — ΔT 1.44
+1. [Daks (House Check)](/setts/s5/k3w6k4w6lo3~x2/) — ΔT 0.98
+1. [Aquascutum](/setts/s3/dy1w2db1~x12/) — ΔT 1.44
 1. [Ikelman No 3](/setts/s5/y5k2r2ly2y5~x10/) — ΔT 1.72
 1. [Scott, Sir Walter - 1971 (Fashion)](/setts/s8/w4k4w4k4w4db3w2r2~x2/) — ΔT 1.75
 1. [Jahore](/setts/s5/db20k5db18ly26k6~x2/) — ΔT 1.90
@@ -919,8 +922,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k3w6k4w6lo3~x2/"><circle cx="142.8" cy="315.7" r="4" fill="#3465a4"><title>Daks (House Check)</title></circle></a><a href="/setts/s3/db1w2dy1~x12/"><circle cx="143.1" cy="336.5" r="4" fill="#3465a4"><title>Aquascutum</title></circle></a><a href="/setts/s5/y5k2r2ly2y5~x10/"><circle cx="224.8" cy="289.5" r="4" fill="#3465a4"><title>Ikelman No 3</title></circle></a><a href="/setts/s8/w4k4w4k4w4db3w2r2~x2/"><circle cx="84.0" cy="289.8" r="4" fill="#3465a4"><title>Scott, Sir Walter - 1971 (Fashion)</title></circle></a><a href="/setts/s5/db20k5db18ly26k6~x2/"><circle cx="206.4" cy="265.0" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/setts/s5/db10w3db12ly14r4~x2/"><circle cx="187.1" cy="255.3" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><a href="/setts/s10/w6k6w6k6w6k6w4y3g2y2~x3/"><circle cx="97.4" cy="253.2" r="4" fill="#3465a4"><title>Burns Check (District)</title></circle></a><a href="/setts/s9/k4w4k4w4k4w4db3w2r2/"><circle cx="62.9" cy="294.4" r="4" fill="#3465a4"><title>Scott, Sir Walter #3</title></circle></a><a href="/setts/s10/w2k2w2k2w2k2w1y1g1y1~x8/"><circle cx="55.5" cy="275.4" r="4" fill="#3465a4"><title>Burns Check</title></circle></a><a href="/setts/s6/w7k6lo15k16k8w3~x2/"><circle cx="218.0" cy="261.3" r="4" fill="#3465a4"><title>Longford County, Crest Range</title></circle></a><circle cx="168.2" cy="308.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k3w6k4w6lo3~x2/"><circle cx="142.7" cy="315.4" r="4" fill="#3465a4"><title>Daks (House Check)</title></circle></a><a href="/setts/s3/dy1w2db1~x12/"><circle cx="143.1" cy="336.2" r="4" fill="#3465a4"><title>Aquascutum</title></circle></a><a href="/setts/s5/y5k2r2ly2y5~x10/"><circle cx="224.7" cy="289.2" r="4" fill="#3465a4"><title>Ikelman No 3</title></circle></a><a href="/setts/s8/w4k4w4k4w4db3w2r2~x2/"><circle cx="84.0" cy="289.5" r="4" fill="#3465a4"><title>Scott, Sir Walter - 1971 (Fashion)</title></circle></a><a href="/setts/s5/db20k5db18ly26k6~x2/"><circle cx="206.4" cy="264.7" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/setts/s5/db10w3db12ly14r4~x2/"><circle cx="187.0" cy="255.1" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><a href="/setts/s10/w6k6w6k6w6k6w4y3g2y2~x3/"><circle cx="97.3" cy="253.0" r="4" fill="#3465a4"><title>Burns Check (District)</title></circle></a><a href="/setts/s9/k4w4k4w4k4w4db3w2r2/"><circle cx="63.0" cy="294.2" r="4" fill="#3465a4"><title>Scott, Sir Walter #3</title></circle></a><a href="/setts/s10/w2k2w2k2w2k2w1y1g1y1~x8/"><circle cx="55.5" cy="275.2" r="4" fill="#3465a4"><title>Burns Check</title></circle></a><a href="/setts/s6/w7k6lo15k16k8w3~x2/"><circle cx="218.0" cy="261.0" r="4" fill="#3465a4"><title>Longford County, Crest Range</title></circle></a><circle cx="168.2" cy="308.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/k3w7k4w6o3~x2/

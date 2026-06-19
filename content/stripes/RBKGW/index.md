@@ -36,8 +36,8 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Davidson of Tulloch](/setts/s5/lb1dg6k3db6r1/)|
-|![Davidson of Tulloch example sett](/setts/s5/lb1dg6k3db6r1/sett.png)|
+| [Davidson of Tulloch](/setts/s5/r1db6k3dg6lb1/)|
+|![Davidson of Tulloch example sett](/setts/s5/r1db6k3dg6lb1/sett.png)|
 
 ### R DB K DG W <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">R DB K DG W</span></span>
 

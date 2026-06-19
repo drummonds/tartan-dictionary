@@ -19,17 +19,17 @@ WKWKWKGKY
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### W K W K W K DG K LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W K W K W K DG K LY</span></span>
+### LY K DG K W K W K W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K DG K W K W K W</span></span>
 
 | Tartans |
 |---------------|
-| [Gordon Dress (MacGregor-Hastie)](/setts/s9/ly4k4dg12k37w4k4w16k2w4~x2/)|
-|![Gordon Dress (MacGregor-Hastie) example sett](/setts/s9/ly4k4dg12k37w4k4w16k2w4~x2/sett.png)|
+| [Gordon Dress (MacGregor-Hastie)](/setts/s9/w4k2w16k4w4k37dg12k4ly4~x2/)|
+|![Gordon Dress (MacGregor-Hastie) example sett](/setts/s9/w4k2w16k4w4k37dg12k4ly4~x2/sett.png)|
 
-### W K W K W K G K LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W K W K W K G K LY</span></span>
+### LY K G K W K W K W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K G K W K W K W</span></span>
 
 | Tartans |
 |---------------|
-| [Gordon, dress 1](/setts/s9/ly4k4g12k37w4k4w16k2w4~x2/)|
-|![Gordon, dress 1 example sett](/setts/s9/ly4k4g12k37w4k4w16k2w4~x2/sett.png)|
+| [Gordon, dress 1](/setts/s9/w4k2w16k4w4k37g12k4ly4~x2/)|
+|![Gordon, dress 1 example sett](/setts/s9/w4k2w16k4w4k37g12k4ly4~x2/sett.png)|
 

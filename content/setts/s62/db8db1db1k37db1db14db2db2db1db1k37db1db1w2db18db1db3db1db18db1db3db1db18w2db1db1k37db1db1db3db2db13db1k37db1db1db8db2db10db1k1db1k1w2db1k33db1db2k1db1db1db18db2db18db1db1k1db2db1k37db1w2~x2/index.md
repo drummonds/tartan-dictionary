@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -907,17 +910,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Unidentified (Miss Paterson)](/setts/s44/b14r4k2b10k2b10k2b10k2db6b77w4k6b28k92db6k2db6k2db6k2db6k207db6k2db6k2db6k2db6k92b28k6w4b76db6k2b10k2b10k2b10k2r4/) — ΔT 2.24
 1. [Arnold (Name)](/setts/s43/k4k1lo2k1k5k1k2k2k2k4k2k2k2k1k5r1k4k20dp3k4k4k1w2k1k4k4dp3k20k4r1k5k1k2k2k2k4k2k2k2k1k5k1lo2~x2/) — ΔT 2.46
 1. [Italian](/setts/s30/db24k2db24k1lb1k1g12r2k2r2g12k1lb1k1db24r2lb2g2db24k1lb1k1g12r2k2r2g12k1lb1k1~x2/) — ΔT 2.54
-1. [Whitworth (2003)](/setts/s34/db60k2db2k2db5k15db5g20r2k3r2g20db5k15g5db20k2g4k2db20g5k15db5g20r2k3r2g20db5k15db5k2db2k2~x2/) — ΔT 2.57
+1. [Whitworth (2003)](/setts/s34/db60k2db2k2db5k15db5g20r2k3r2g20db5k15g5db20k2g4~x2/) — ΔT 2.57
 1. [Millennium (Texcraft)](/setts/s62/db8b1db1db37b1db14g2db2b1db1db37db1b1w2db18b1g3b1db18b1g3b1db18w2b1db1db37db1b1db3g2db13b1db37db1b1db8g2db10b1db1db1db1w2b1db33db1g2db1db1b1db18g2db18b1db1db1g2db1db37b1w2~x2/) — ΔT 2.64
-1. [Schiehallion](/setts/s20/w2db1b1db31b17db2g3db2g2db4b14db4g2db2g3db2b17db31b1db1~x2/) — ΔT 2.67
-1. [Kirkcaldy Tartan Army](/setts/s22/dt36r3dt1r2dt3r6db1r2db35w1db1lo2db1w1db35r2db1r6dt3r2dt1r3~x2/) — ΔT 2.68
-1. [Scotland's Own](/setts/s22/db2dp2db4k10db2k2db2dp4k15db30y1db4y1db30k15dp4db2k2db2k10db4dp2~x2/) — ΔT 2.74
+1. [Schiehallion](/setts/s20/b14db4g2db2g3db2b17db31b1db1w2~x2/) — ΔT 2.67
+1. [Kirkcaldy Tartan Army](/setts/s22/dt36r3dt1r2dt3r6db1r2db35w1db1lo2~x2/) — ΔT 2.68
+1. [Scotland's Own](/setts/s22/db4y1db30k15dp4db2k2db2k10db4dp2db2~x2/) — ΔT 2.74
 1. [Weiss-Halliwell (Personal)](/setts/s36/db6k1n1k2n1k1db6k1n22k3n1k3n10k1db3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1~x2/) — ΔT 2.79
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s30/db24k2db24k1lb1k1k12r2k2r2k12k1lb1k1db24r2lb2g2db24k1lb1k1k12r2k2r2k12k1lb1k1~x2/"><circle cx="354.7" cy="93.2" r="4" fill="#3465a4"><title>Italian (Fashion)</title></circle></a><a href="/setts/s44/b14r4k2b10k2b10k2b10k2db6b77w4k6b28k92db6k2db6k2db6k2db6k207db6k2db6k2db6k2db6k92b28k6w4b76db6k2b10k2b10k2b10k2r4/"><circle cx="365.4" cy="14.0" r="4" fill="#3465a4"><title>Unidentified (Miss Paterson)</title></circle></a><a href="/setts/s43/k4k1lo2k1k5k1k2k2k2k4k2k2k2k1k5r1k4k20dp3k4k4k1w2k1k4k4dp3k20k4r1k5k1k2k2k2k4k2k2k2k1k5k1lo2~x2/"><circle cx="324.3" cy="100.5" r="4" fill="#3465a4"><title>Arnold (Name)</title></circle></a><a href="/setts/s30/db24k2db24k1lb1k1g12r2k2r2g12k1lb1k1db24r2lb2g2db24k1lb1k1g12r2k2r2g12k1lb1k1~x2/"><circle cx="306.3" cy="70.1" r="4" fill="#3465a4"><title>Italian</title></circle></a><a href="/setts/s34/db60k2db2k2db5k15db5g20r2k3r2g20db5k15g5db20k2g4k2db20g5k15db5g20r2k3r2g20db5k15db5k2db2k2~x2/"><circle cx="259.5" cy="80.7" r="4" fill="#3465a4"><title>Whitworth (2003)</title></circle></a><a href="/setts/s62/db8b1db1db37b1db14g2db2b1db1db37db1b1w2db18b1g3b1db18b1g3b1db18w2b1db1db37db1b1db3g2db13b1db37db1b1db8g2db10b1db1db1db1w2b1db33db1g2db1db1b1db18g2db18b1db1db1g2db1db37b1w2~x2/"><circle cx="413.0" cy="75.1" r="4" fill="#3465a4"><title>Millennium (Texcraft)</title></circle></a><a href="/setts/s20/w2db1b1db31b17db2g3db2g2db4b14db4g2db2g3db2b17db31b1db1~x2/"><circle cx="384.5" cy="108.1" r="4" fill="#3465a4"><title>Schiehallion</title></circle></a><a href="/setts/s22/dt36r3dt1r2dt3r6db1r2db35w1db1lo2db1w1db35r2db1r6dt3r2dt1r3~x2/"><circle cx="361.3" cy="73.8" r="4" fill="#3465a4"><title>Kirkcaldy Tartan Army</title></circle></a><a href="/setts/s22/db2dp2db4k10db2k2db2dp4k15db30y1db4y1db30k15dp4db2k2db2k10db4dp2~x2/"><circle cx="423.4" cy="142.0" r="4" fill="#3465a4"><title>Scotland's Own</title></circle></a><a href="/setts/s36/db6k1n1k2n1k1db6k1n22k3n1k3n10k1db3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1~x2/"><circle cx="355.3" cy="102.1" r="4" fill="#3465a4"><title>Weiss-Halliwell (Personal)</title></circle></a><circle cx="362.7" cy="48.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s30/db24k2db24k1lb1k1k12r2k2r2k12k1lb1k1db24r2lb2g2db24k1lb1k1k12r2k2r2k12k1lb1k1~x2/"><circle cx="354.6" cy="93.3" r="4" fill="#3465a4"><title>Italian (Fashion)</title></circle></a><a href="/setts/s44/b14r4k2b10k2b10k2b10k2db6b77w4k6b28k92db6k2db6k2db6k2db6k207db6k2db6k2db6k2db6k92b28k6w4b76db6k2b10k2b10k2b10k2r4/"><circle cx="365.2" cy="14.0" r="4" fill="#3465a4"><title>Unidentified (Miss Paterson)</title></circle></a><a href="/setts/s43/k4k1lo2k1k5k1k2k2k2k4k2k2k2k1k5r1k4k20dp3k4k4k1w2k1k4k4dp3k20k4r1k5k1k2k2k2k4k2k2k2k1k5k1lo2~x2/"><circle cx="324.4" cy="100.8" r="4" fill="#3465a4"><title>Arnold (Name)</title></circle></a><a href="/setts/s30/db24k2db24k1lb1k1g12r2k2r2g12k1lb1k1db24r2lb2g2db24k1lb1k1g12r2k2r2g12k1lb1k1~x2/"><circle cx="306.1" cy="70.2" r="4" fill="#3465a4"><title>Italian</title></circle></a><a href="/setts/s34/db60k2db2k2db5k15db5g20r2k3r2g20db5k15g5db20k2g4~x2/"><circle cx="259.4" cy="80.9" r="4" fill="#3465a4"><title>Whitworth (2003)</title></circle></a><a href="/setts/s62/db8b1db1db37b1db14g2db2b1db1db37db1b1w2db18b1g3b1db18b1g3b1db18w2b1db1db37db1b1db3g2db13b1db37db1b1db8g2db10b1db1db1db1w2b1db33db1g2db1db1b1db18g2db18b1db1db1g2db1db37b1w2~x2/"><circle cx="412.8" cy="75.4" r="4" fill="#3465a4"><title>Millennium (Texcraft)</title></circle></a><a href="/setts/s20/b14db4g2db2g3db2b17db31b1db1w2~x2/"><circle cx="384.4" cy="108.1" r="4" fill="#3465a4"><title>Schiehallion</title></circle></a><a href="/setts/s22/dt36r3dt1r2dt3r6db1r2db35w1db1lo2~x2/"><circle cx="361.1" cy="73.9" r="4" fill="#3465a4"><title>Kirkcaldy Tartan Army</title></circle></a><a href="/setts/s22/db4y1db30k15dp4db2k2db2k10db4dp2db2~x2/"><circle cx="423.3" cy="142.1" r="4" fill="#3465a4"><title>Scotland's Own</title></circle></a><a href="/setts/s36/db6k1n1k2n1k1db6k1n22k3n1k3n10k1db3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1~x2/"><circle cx="355.1" cy="102.1" r="4" fill="#3465a4"><title>Weiss-Halliwell (Personal)</title></circle></a><circle cx="362.6" cy="48.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s62/db8db1db1k37db1db14db2db2db1db1k37db1db1w2db18db1db3db1db18db1db3db1db18w2db1db1k37db1db1db3db2db13db1k37db1db1db8db2db10db1k1db1k1w2db1k33db1db2k1db1db1db18db2db18db1db1k1db2db1k37db1w2~x2/

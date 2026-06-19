@@ -20,7 +20,7 @@ BBBGBB
 
 
 
-### DO DT DB DG DT DB <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="seq">DO DT DB DG DT DB</span></span>
+### DB DT DG DB DT DO <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#412714"></span><span class="seq">DB DT DG DB DT DO</span></span>
 
 | Tartans |
 |---------------|

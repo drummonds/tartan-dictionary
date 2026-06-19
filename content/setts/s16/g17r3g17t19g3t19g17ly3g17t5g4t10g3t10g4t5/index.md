@@ -2,12 +2,18 @@
 title: "Jubilee"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBGBGYGBGBGRG](/stripes/bgbgbgbgygbgbgrg/) · **Stripes:** [T G T G T G T G LY G T G T G R G](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">T G T G T G T G LY G T G T G R G</span></span>
+**Bands:** [GRGBGBGYGBGBGBGB](/stripes/grgbgbgygbgbgbgb/) · **Stripes:** [G R G T G T G LY G T G T G T G T](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">G R G T G T G LY G T G T G T G T</span></span>
 
 
 This was sourced from weddslist.  It is a [16 band tartan](/bands/bands16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Jubilee Commemorative
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/5 G4 B10 G3 B10 G4 B5 G17 Y3 G17 B19 G3 B19 G17 R3 G/17
+G/17 R3 G17 B19 G3 B19 G17 Y3 G17 B5 G4 B10 G3 B10 G4 B/5
 ![Sett](sett.png)
 
 ## Palette
@@ -909,21 +918,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Harkness Hunting #2](/setts/s18/g10n2w2n16g6ly2g4r2g3n6g3r2g4ly2g6n16w2n2~x4/) — ΔT 1.88
+1. [Harkness Hunting #2](/setts/s18/g10n2w2n16g6ly2g4r2g3n6~x4/) — ΔT 1.88
 1. [MacKinnon 4](/setts/s14/p2y3g2db2y6g16y2db4g2y16g8p2y4w2~x2/) — ΔT 1.97
 1. [Moncrieff of Atholl](/setts/s13/g9k1g2k2g2db7g9r2g9db9g7k1r3~x4/) — ΔT 1.98
 1. [Hueg (Hunting) (Personal)](/setts/s10/dt17g5dt5g17dt4g17k2dy2k2g5~x2/) — ΔT 2.05
 1. [O'Brien](/setts/s12/lo13g6ly2g3ly2g6lb3g2lb3g12r3g6~x2/) — ΔT 2.08
 1. [Edmonstone (Clan)](/setts/s10/g7r4g14dt10g5dt10w2dt10g5dt5~x2/) — ΔT 2.08
-1. [Bruce of Crionaich (Personal)](/setts/s11/ly1g8db2g2db6g1db6g2db2g8r1~x4/) — ΔT 2.08
+1. [Bruce of Crionaich (Personal)](/setts/s11/r1g8db2g2db6g1db6g2db2g8ly1~x4/) — ΔT 2.08
 1. [Shanahan](/setts/s16/b17g16k2g24lo3k4r2k2r2k4lo3g24k2g16b17r2~x2/) — ΔT 2.09
 1. [Mayhew (Personal)](/setts/s13/k6g3k3g28b4g4b10g4b4g4b24g5w3~x2/) — ΔT 2.10
 1. [Harkness Htg (Name)](/setts/s10/g10n2w2n16g6ly2g4r2g3n6~x4/) — ΔT 2.11
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/g10n2w2n16g6ly2g4r2g3n6g3r2g4ly2g6n16w2n2~x4/"><circle cx="265.7" cy="193.9" r="4" fill="#3465a4"><title>Harkness Hunting #2</title></circle></a><a href="/setts/s14/p2y3g2db2y6g16y2db4g2y16g8p2y4w2~x2/"><circle cx="252.3" cy="191.8" r="4" fill="#3465a4"><title>MacKinnon 4</title></circle></a><a href="/setts/s13/g9k1g2k2g2db7g9r2g9db9g7k1r3~x4/"><circle cx="316.7" cy="221.9" r="4" fill="#3465a4"><title>Moncrieff of Atholl</title></circle></a><a href="/setts/s10/dt17g5dt5g17dt4g17k2dy2k2g5~x2/"><circle cx="380.8" cy="255.9" r="4" fill="#3465a4"><title>Hueg (Hunting) (Personal)</title></circle></a><a href="/setts/s12/lo13g6ly2g3ly2g6lb3g2lb3g12r3g6~x2/"><circle cx="281.1" cy="209.7" r="4" fill="#3465a4"><title>O'Brien</title></circle></a><a href="/setts/s10/g7r4g14dt10g5dt10w2dt10g5dt5~x2/"><circle cx="257.1" cy="271.5" r="4" fill="#3465a4"><title>Edmonstone (Clan)</title></circle></a><a href="/setts/s11/ly1g8db2g2db6g1db6g2db2g8r1~x4/"><circle cx="306.9" cy="225.7" r="4" fill="#3465a4"><title>Bruce of Crionaich (Personal)</title></circle></a><a href="/setts/s16/b17g16k2g24lo3k4r2k2r2k4lo3g24k2g16b17r2~x2/"><circle cx="321.4" cy="176.5" r="4" fill="#3465a4"><title>Shanahan</title></circle></a><a href="/setts/s13/k6g3k3g28b4g4b10g4b4g4b24g5w3~x2/"><circle cx="281.5" cy="192.8" r="4" fill="#3465a4"><title>Mayhew (Personal)</title></circle></a><a href="/setts/s10/g10n2w2n16g6ly2g4r2g3n6~x4/"><circle cx="283.7" cy="231.2" r="4" fill="#3465a4"><title>Harkness Htg (Name)</title></circle></a><circle cx="303.6" cy="239.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/g10n2w2n16g6ly2g4r2g3n6~x4/"><circle cx="265.5" cy="194.0" r="4" fill="#3465a4"><title>Harkness Hunting #2</title></circle></a><a href="/setts/s14/p2y3g2db2y6g16y2db4g2y16g8p2y4w2~x2/"><circle cx="252.1" cy="192.0" r="4" fill="#3465a4"><title>MacKinnon 4</title></circle></a><a href="/setts/s13/g9k1g2k2g2db7g9r2g9db9g7k1r3~x4/"><circle cx="316.6" cy="221.8" r="4" fill="#3465a4"><title>Moncrieff of Atholl</title></circle></a><a href="/setts/s10/dt17g5dt5g17dt4g17k2dy2k2g5~x2/"><circle cx="380.7" cy="256.0" r="4" fill="#3465a4"><title>Hueg (Hunting) (Personal)</title></circle></a><a href="/setts/s12/lo13g6ly2g3ly2g6lb3g2lb3g12r3g6~x2/"><circle cx="280.8" cy="209.7" r="4" fill="#3465a4"><title>O'Brien</title></circle></a><a href="/setts/s10/g7r4g14dt10g5dt10w2dt10g5dt5~x2/"><circle cx="257.1" cy="271.5" r="4" fill="#3465a4"><title>Edmonstone (Clan)</title></circle></a><a href="/setts/s11/r1g8db2g2db6g1db6g2db2g8ly1~x4/"><circle cx="306.9" cy="225.6" r="4" fill="#3465a4"><title>Bruce of Crionaich (Personal)</title></circle></a><a href="/setts/s16/b17g16k2g24lo3k4r2k2r2k4lo3g24k2g16b17r2~x2/"><circle cx="321.3" cy="176.6" r="4" fill="#3465a4"><title>Shanahan</title></circle></a><a href="/setts/s13/k6g3k3g28b4g4b10g4b4g4b24g5w3~x2/"><circle cx="281.4" cy="192.8" r="4" fill="#3465a4"><title>Mayhew (Personal)</title></circle></a><a href="/setts/s10/g10n2w2n16g6ly2g4r2g3n6~x4/"><circle cx="283.6" cy="231.3" r="4" fill="#3465a4"><title>Harkness Htg (Name)</title></circle></a><circle cx="303.4" cy="239.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/g17r3g17t19g3t19g17ly3g17t5g4t10g3t10g4t5/

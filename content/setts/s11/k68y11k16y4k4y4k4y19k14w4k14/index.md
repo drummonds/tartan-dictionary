@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/14 LN4 K14 N19 K4 N4 K4 N4 K16 N11 K/68
+K/68 N11 K16 N4 K4 N4 K4 N19 K14 LN4 K/14
 ![Sett](sett.png)
 
 ## Palette
@@ -902,7 +905,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Clergy](/setts/s17/lr1k5lr1y4lr1k26lr1k10y5k2y5k10lr1y4lr1k5lr1~x2/) — ΔT 1.30
-1. [Clergy](/setts/s17/lb1k5lb1y4lb1k26lb1k10y5k2y5k10lb1y4lb1k5lb1~x2/) — ΔT 1.31
+1. [Clergy](/setts/s17/lr1k5lr1y4lr1k26lr1k10y5k2y5k10lr1y4lr1k5lr1/) — ΔT 1.30
+1. [Clergy](/setts/s17/lb1k5lb1y4lb1k26lb1k10y5k2y5k10lb1y4lb1k5lb1/) — ΔT 1.31
 1. [Clergy 5](/setts/s17/w1k5w1y4w1k26w1k10y5k2y5k10w1y4w1k5w1~x2/) — ΔT 1.36
 1. [Clergy #3](/setts/s12/k10y5k2y5k10w1k26w1y4w1k5w1~x2/) — ΔT 1.44
 1. [Aberdeen-Angus Cattle Society (Corp)](/setts/s8/g8lo3k60g3k3g3k3g4~x2/) — ΔT 1.52
@@ -910,12 +914,11 @@ The nearest existing variants by ΔTartan distance.
 1. [Valdres, Kvam and Vang](/setts/s11/k4w1r4k2g2r3k2k20r2k2r2/) — ΔT 1.62
 1. [Reiver Check](/setts/s10/k27w2k2w2k2w2k2w2k4r5~x4/) — ΔT 1.62
 1. [Believe - Colette](/setts/s7/n3k31w6k8n3k12w2~x2/) — ΔT 1.64
-1. [Jensen, Sven (Personal)](/setts/s9/g12k8w6k22w3k8w3k40g6/) — ΔT 1.64
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/lr1k5lr1y4lr1k26lr1k10y5k2y5k10lr1y4lr1k5lr1~x2/"><circle cx="426.3" cy="127.8" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/setts/s17/lb1k5lb1y4lb1k26lb1k10y5k2y5k10lb1y4lb1k5lb1~x2/"><circle cx="425.0" cy="127.3" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/setts/s17/w1k5w1y4w1k26w1k10y5k2y5k10w1y4w1k5w1~x2/"><circle cx="420.8" cy="124.6" r="4" fill="#3465a4"><title>Clergy 5</title></circle></a><a href="/setts/s12/k10y5k2y5k10w1k26w1y4w1k5w1~x2/"><circle cx="479.3" cy="150.7" r="4" fill="#3465a4"><title>Clergy #3</title></circle></a><a href="/setts/s8/g8lo3k60g3k3g3k3g4~x2/"><circle cx="515.9" cy="161.1" r="4" fill="#3465a4"><title>Aberdeen-Angus Cattle Society (Corp)</title></circle></a><a href="/setts/s8/k42t2r3k5r16k8lo2k3~x2/"><circle cx="447.8" cy="148.7" r="4" fill="#3465a4"><title>Highland Brewing Company (USA)</title></circle></a><a href="/setts/s11/k4w1r4k2g2r3k2k20r2k2r2/"><circle cx="411.9" cy="133.4" r="4" fill="#3465a4"><title>Valdres, Kvam and Vang</title></circle></a><a href="/setts/s10/k27w2k2w2k2w2k2w2k4r5~x4/"><circle cx="453.3" cy="151.1" r="4" fill="#3465a4"><title>Reiver Check</title></circle></a><a href="/setts/s7/n3k31w6k8n3k12w2~x2/"><circle cx="475.7" cy="194.7" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/setts/s9/g12k8w6k22w3k8w3k40g6/"><circle cx="416.8" cy="197.8" r="4" fill="#3465a4"><title>Jensen, Sven (Personal)</title></circle></a><circle cx="458.4" cy="167.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/lr1k5lr1y4lr1k26lr1k10y5k2y5k10lr1y4lr1k5lr1~x2/"><circle cx="426.2" cy="127.5" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/setts/s17/lr1k5lr1y4lr1k26lr1k10y5k2y5k10lr1y4lr1k5lr1/"><circle cx="426.2" cy="127.5" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/setts/s17/lb1k5lb1y4lb1k26lb1k10y5k2y5k10lb1y4lb1k5lb1/"><circle cx="424.9" cy="127.0" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/setts/s17/w1k5w1y4w1k26w1k10y5k2y5k10w1y4w1k5w1~x2/"><circle cx="420.7" cy="124.3" r="4" fill="#3465a4"><title>Clergy 5</title></circle></a><a href="/setts/s12/k10y5k2y5k10w1k26w1y4w1k5w1~x2/"><circle cx="479.1" cy="150.4" r="4" fill="#3465a4"><title>Clergy #3</title></circle></a><a href="/setts/s8/g8lo3k60g3k3g3k3g4~x2/"><circle cx="515.9" cy="160.7" r="4" fill="#3465a4"><title>Aberdeen-Angus Cattle Society (Corp)</title></circle></a><a href="/setts/s8/k42t2r3k5r16k8lo2k3~x2/"><circle cx="447.7" cy="148.4" r="4" fill="#3465a4"><title>Highland Brewing Company (USA)</title></circle></a><a href="/setts/s11/k4w1r4k2g2r3k2k20r2k2r2/"><circle cx="411.8" cy="133.2" r="4" fill="#3465a4"><title>Valdres, Kvam and Vang</title></circle></a><a href="/setts/s10/k27w2k2w2k2w2k2w2k4r5~x4/"><circle cx="453.0" cy="150.7" r="4" fill="#3465a4"><title>Reiver Check</title></circle></a><a href="/setts/s7/n3k31w6k8n3k12w2~x2/"><circle cx="475.5" cy="194.2" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><circle cx="458.4" cy="167.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k68y11k16y4k4y4k4y19k14w4k14/

@@ -18,10 +18,10 @@ BGBGBYBYBGBGBG
 
 
 
-### DB G DB DG DB LO DB LO DB DG DB G DB DG <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">DB G DB DG DB LO DB LO DB DG DB G DB DG</span></span>
+### DG DB G DB DG DB LO DB LO DB DG DB G DB <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">DG DB G DB DG DB LO DB LO DB DG DB G DB</span></span>
 
 | Tartans |
 |---------------|
-| [Kinross](/setts/s14/dg20db2g6db2dg4db27lo2db8lo2db27dg4db2g6db2~x2/)|
-|![Kinross example sett](/setts/s14/dg20db2g6db2dg4db27lo2db8lo2db27dg4db2g6db2~x2/sett.png)|
+| [Kinross](/setts/s14/dg20db2g6db2dg4db27lo2db8~x2/)|
+|![Kinross example sett](/setts/s14/dg20db2g6db2dg4db27lo2db8~x2/sett.png)|
 

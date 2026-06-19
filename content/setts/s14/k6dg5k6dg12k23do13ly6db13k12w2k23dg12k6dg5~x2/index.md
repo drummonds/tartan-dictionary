@@ -2,7 +2,7 @@
 title: "Simon and Friends (Hamburg) (Persona"
 date: 2023-03-18
 ---
-**Bands:** [GKGKWKBYBKGKGK](/stripes/gkgkwkbybkgkgk/) · **Stripes:** [DG K DG K W K DB LY DO K DG K DG K](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="seq">DG K DG K W K DB LY DO K DG K DG K</span></span>
+**Bands:** [KGKGKBYBKWKGKG](/stripes/kgkgkbybkwkgkg/) · **Stripes:** [K DG K DG K DO LY DB K W K DG K DG](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">K DG K DG K DO LY DB K W K DG K DG</span></span>
 
 
 This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/10848/
 
 ## Thread count
-DG/10 K12 DG24 K46 W4 K24 DB26 Y12 DR26 K46 DG24 K12 DG10 K/12
+K/12 DG10 K12 DG24 K46 DR26 Y12 DB26 K24 W4 K46 DG24 K12 DG/10
 ![Sett](sett.png)
 
 ## Palette
@@ -31,19 +31,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Simon and Friends (Hamburg) (Personal)](/setts/s14/k6dg5k6dg12k23do13lo6do13k12w2k23dg12k6dg5~x2/) — ΔT 0.98
 1. [Ross (Musselburgh) (Personal)](/setts/s12/k6r2k10g6k3g8k3dg9k13r5k1dp2~x2/) — ΔT 1.17
-1. [Mayo, County](/setts/s12/t3lo2dg25r16db11dg16k4dg16db11r16dg25lo2~x2/) — ΔT 1.21
+1. [Mayo, County](/setts/s12/k4dg16db11r16dg25lo2t3~x2/) — ΔT 1.22
 1. [Williams Arbutus (Personal)](/setts/s14/dg10k13dg10dy2dg7k5r2k6dg7db8dg3w1dg3b1~x2/) — ΔT 1.48
-1. [Psychological Operations Regiment](/setts/s17/n5lb2n12k21dg12k4dg4k4r4k4dg4k4dg12k21n12lb2n4~x2/) — ΔT 1.50
 1. [O'Connell, William Benedict (Personal)](/setts/s10/k19dg7k7t2dg20k9dg6k4dg10w3~x2/) — ΔT 1.50
-1. [Pendleton hunting](/setts/s11/db2k16dg14lo3dg14k3dg14r3dg14k16db2/) — ΔT 1.57
-1. [van der Watt Personal)](/setts/s12/lo1g6k1g1dp2k8g1k8db1k1db6r1~x4/) — ΔT 1.61
+1. [Psychological Operations Regiment](/setts/s17/n5lb2n12k21dg12k4dg4k4r4k4dg4k4dg12k21n12lb2n4~x2/) — ΔT 1.50
+1. [Pendleton hunting](/setts/s11/db2k16dg14r3dg14k3dg14lo3dg14k16db2/) — ΔT 1.57
+1. [van der Watt Personal)](/setts/s12/r1db6k1db1k8g1k8dp2g1k1g6lo1~x4/) — ΔT 1.61
 1. [Royal Navy Submarine Service](/setts/s9/w3db3r2db14k3dg12k14db16lo2~x2/) — ΔT 1.61
-1. [Pendleton dress](/setts/s11/db6k40dg34ly5dg34k6dg34r5dg34k40db6/) — ΔT 1.64
+1. [Pendleton dress](/setts/s11/db6k40dg34r5dg34k6dg34ly5dg34k40db6/) — ΔT 1.64
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k6dg5k6dg12k23do13lo6do13k12w2k23dg12k6dg5~x2/"><circle cx="277.4" cy="216.4" r="4" fill="#3465a4"><title>Simon and Friends (Hamburg) (Personal)</title></circle></a><a href="/setts/s12/k6r2k10g6k3g8k3dg9k13r5k1dp2~x2/"><circle cx="226.8" cy="182.6" r="4" fill="#3465a4"><title>Ross (Musselburgh) (Personal)</title></circle></a><a href="/setts/s12/t3lo2dg25r16db11dg16k4dg16db11r16dg25lo2~x2/"><circle cx="292.4" cy="200.3" r="4" fill="#3465a4"><title>Mayo, County</title></circle></a><a href="/setts/s14/dg10k13dg10dy2dg7k5r2k6dg7db8dg3w1dg3b1~x2/"><circle cx="239.7" cy="175.1" r="4" fill="#3465a4"><title>Williams Arbutus (Personal)</title></circle></a><a href="/setts/s17/n5lb2n12k21dg12k4dg4k4r4k4dg4k4dg12k21n12lb2n4~x2/"><circle cx="229.5" cy="185.8" r="4" fill="#3465a4"><title>Psychological Operations Regiment</title></circle></a><a href="/setts/s10/k19dg7k7t2dg20k9dg6k4dg10w3~x2/"><circle cx="245.9" cy="221.8" r="4" fill="#3465a4"><title>O'Connell, William Benedict (Personal)</title></circle></a><a href="/setts/s11/db2k16dg14lo3dg14k3dg14r3dg14k16db2/"><circle cx="257.8" cy="212.1" r="4" fill="#3465a4"><title>Pendleton hunting</title></circle></a><a href="/setts/s12/lo1g6k1g1dp2k8g1k8db1k1db6r1~x4/"><circle cx="226.1" cy="178.1" r="4" fill="#3465a4"><title>van der Watt Personal)</title></circle></a><a href="/setts/s9/w3db3r2db14k3dg12k14db16lo2~x2/"><circle cx="211.2" cy="204.0" r="4" fill="#3465a4"><title>Royal Navy Submarine Service</title></circle></a><a href="/setts/s11/db6k40dg34ly5dg34k6dg34r5dg34k40db6/"><circle cx="265.6" cy="210.6" r="4" fill="#3465a4"><title>Pendleton dress</title></circle></a><circle cx="241.9" cy="196.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k6dg5k6dg12k23do13lo6do13k12w2k23dg12k6dg5~x2/"><circle cx="277.5" cy="216.5" r="4" fill="#3465a4"><title>Simon and Friends (Hamburg) (Personal)</title></circle></a><a href="/setts/s12/k6r2k10g6k3g8k3dg9k13r5k1dp2~x2/"><circle cx="226.9" cy="182.7" r="4" fill="#3465a4"><title>Ross (Musselburgh) (Personal)</title></circle></a><a href="/setts/s12/k4dg16db11r16dg25lo2t3~x2/"><circle cx="292.4" cy="200.4" r="4" fill="#3465a4"><title>Mayo, County</title></circle></a><a href="/setts/s14/dg10k13dg10dy2dg7k5r2k6dg7db8dg3w1dg3b1~x2/"><circle cx="239.8" cy="175.3" r="4" fill="#3465a4"><title>Williams Arbutus (Personal)</title></circle></a><a href="/setts/s10/k19dg7k7t2dg20k9dg6k4dg10w3~x2/"><circle cx="246.1" cy="221.9" r="4" fill="#3465a4"><title>O'Connell, William Benedict (Personal)</title></circle></a><a href="/setts/s17/n5lb2n12k21dg12k4dg4k4r4k4dg4k4dg12k21n12lb2n4~x2/"><circle cx="229.6" cy="185.9" r="4" fill="#3465a4"><title>Psychological Operations Regiment</title></circle></a><a href="/setts/s11/db2k16dg14r3dg14k3dg14lo3dg14k16db2/"><circle cx="258.0" cy="212.1" r="4" fill="#3465a4"><title>Pendleton hunting</title></circle></a><a href="/setts/s12/r1db6k1db1k8g1k8dp2g1k1g6lo1~x4/"><circle cx="226.2" cy="178.2" r="4" fill="#3465a4"><title>van der Watt Personal)</title></circle></a><a href="/setts/s9/w3db3r2db14k3dg12k14db16lo2~x2/"><circle cx="211.4" cy="204.1" r="4" fill="#3465a4"><title>Royal Navy Submarine Service</title></circle></a><a href="/setts/s11/db6k40dg34r5dg34k6dg34ly5dg34k40db6/"><circle cx="265.7" cy="210.7" r="4" fill="#3465a4"><title>Pendleton dress</title></circle></a><circle cx="242.0" cy="197.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/k6dg5k6dg12k23do13ly6db13k12w2k23dg12k6dg5~x2/

@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 3221
 
 ## Thread count
-LN/8 B32 K2 G16 R16 K16 R4 K8 R4 K8 R/32
+R/32 K8 R4 K8 R4 K16 R16 G16 K2 B32 LN/8
 ![Sett](sett.png)
 
 ## Palette
@@ -35,7 +35,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Wells Red, Greg (Personal)](/setts/s11/m12k2m12ly2k12w1k12ly2o12k2o12~x2/) — ΔT 0.75
+1. [Wells Red, Greg (Personal)](/setts/s11/o12k2o12ly2k12w1k12ly2m12k2m12~x2/) — ΔT 0.75
 1. [McGurk (Personal)](/setts/s9/db8k4db31lo5r26k5ly10lo5k2/) — ΔT 0.86
 1. [Kenya](/setts/s14/w4k1db12k1dg8w2r8w2k8r16k4r8w2r1~x2/) — ΔT 0.91
 1. [MacBrine (Name)](/setts/s11/k4r6g8r16k6db10k2db10k2g8ly1~x2/) — ΔT 1.18
@@ -48,8 +48,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/m12k2m12ly2k12w1k12ly2o12k2o12~x2/"><circle cx="146.4" cy="161.6" r="4" fill="#3465a4"><title>Wells Red, Greg (Personal)</title></circle></a><a href="/setts/s9/db8k4db31lo5r26k5ly10lo5k2/"><circle cx="188.0" cy="136.5" r="4" fill="#3465a4"><title>McGurk (Personal)</title></circle></a><a href="/setts/s14/w4k1db12k1dg8w2r8w2k8r16k4r8w2r1~x2/"><circle cx="168.8" cy="116.9" r="4" fill="#3465a4"><title>Kenya</title></circle></a><a href="/setts/s11/k4r6g8r16k6db10k2db10k2g8ly1~x2/"><circle cx="123.9" cy="162.3" r="4" fill="#3465a4"><title>MacBrine (Name)</title></circle></a><a href="/setts/s9/do47r8k22r7w3r24do9r10ly3~x2/"><circle cx="228.4" cy="142.3" r="4" fill="#3465a4"><title>Ulster Ancestry</title></circle></a><a href="/setts/s9/k9r4k2r20o9r4db18r4w2~x2/"><circle cx="199.2" cy="166.1" r="4" fill="#3465a4"><title>Stephens Dress</title></circle></a><a href="/setts/s12/m12g6k4g2k4g1k12m24r4g3w3k10~x2/"><circle cx="239.1" cy="125.1" r="4" fill="#3465a4"><title>Fullerton, Terence (Personal)</title></circle></a><a href="/setts/s10/r4g6ly3g12k14db5r20db5k4db2~x2/"><circle cx="124.8" cy="172.2" r="4" fill="#3465a4"><title>Etienne-Carter, Sir George</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3dg24r14k4r4w2~x2/"><circle cx="116.8" cy="124.5" r="4" fill="#3465a4"><title>Stuart/Stewart #2</title></circle></a><a href="/setts/s14/t8k16r17db19r4k2t7k3r3k2w5k1r3k3~x2/"><circle cx="129.6" cy="114.6" r="4" fill="#3465a4"><title>Popular</title></circle></a><circle cx="163.3" cy="141.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/o12k2o12ly2k12w1k12ly2m12k2m12~x2/"><circle cx="146.3" cy="161.6" r="4" fill="#3465a4"><title>Wells Red, Greg (Personal)</title></circle></a><a href="/setts/s9/db8k4db31lo5r26k5ly10lo5k2/"><circle cx="187.9" cy="136.5" r="4" fill="#3465a4"><title>McGurk (Personal)</title></circle></a><a href="/setts/s14/w4k1db12k1dg8w2r8w2k8r16k4r8w2r1~x2/"><circle cx="168.6" cy="116.9" r="4" fill="#3465a4"><title>Kenya</title></circle></a><a href="/setts/s11/k4r6g8r16k6db10k2db10k2g8ly1~x2/"><circle cx="123.9" cy="162.4" r="4" fill="#3465a4"><title>MacBrine (Name)</title></circle></a><a href="/setts/s9/do47r8k22r7w3r24do9r10ly3~x2/"><circle cx="228.2" cy="142.3" r="4" fill="#3465a4"><title>Ulster Ancestry</title></circle></a><a href="/setts/s9/k9r4k2r20o9r4db18r4w2~x2/"><circle cx="199.1" cy="166.1" r="4" fill="#3465a4"><title>Stephens Dress</title></circle></a><a href="/setts/s12/m12g6k4g2k4g1k12m24r4g3w3k10~x2/"><circle cx="239.0" cy="125.1" r="4" fill="#3465a4"><title>Fullerton, Terence (Personal)</title></circle></a><a href="/setts/s10/r4g6ly3g12k14db5r20db5k4db2~x2/"><circle cx="124.8" cy="172.3" r="4" fill="#3465a4"><title>Etienne-Carter, Sir George</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3dg24r14k4r4w2~x2/"><circle cx="116.8" cy="124.6" r="4" fill="#3465a4"><title>Stuart/Stewart #2</title></circle></a><a href="/setts/s14/t8k16r17db19r4k2t7k3r3k2w5k1r3k3~x2/"><circle cx="129.6" cy="114.7" r="4" fill="#3465a4"><title>Popular</title></circle></a><circle cx="163.2" cy="141.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/r16k4r2k4r2k8r8dg8k1db16w4~x2/

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/4 P16 G26 K12 G4 LN6 G4 K12 G10 B40 LN/8
+LN/8 B40 G10 K12 G4 LN6 G4 K12 G26 P16 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -912,12 +915,12 @@ The nearest existing variants by ΔTartan distance.
 1. [MacDonald of Clanranald 2](/setts/s13/db8r1db2r3db12r1k12w1g12r3g2r1g8~x2/) — ΔT 0.81
 1. [Gordon Dress #2](/setts/s13/w20k3w3k3w3k16dg17ly5dg17k16db16k3db3~x2/) — ΔT 0.84
 1. [MacDonell of Glengarry](/setts/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1~x2/) — ΔT 0.86
-1. [Unnamed, No 22](/setts/s11/t2k1t1db2g8r2k8db2t1k1t2~x2/) — ΔT 0.86
+1. [Unnamed, No 22](/setts/s11/t2k1t1db2k8r2g8db2t1k1t2~x2/) — ΔT 0.86
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w4db20g5k6g2w3g2k6g13dp8g2~x2/"><circle cx="115.3" cy="163.4" r="4" fill="#3465a4"><title>Bowlers (Commemorative)</title></circle></a><a href="/setts/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/"><circle cx="126.9" cy="157.5" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s11/k2y10g4o5g2o3g2o5g4k15lb2~x2/"><circle cx="93.7" cy="176.4" r="4" fill="#3465a4"><title>Elwyn Glen (Scottish Borders)</title></circle></a><a href="/setts/s10/db12r4db18r2k19g18r4g3ly2g8~x2/"><circle cx="116.5" cy="176.9" r="4" fill="#3465a4"><title>Biskup</title></circle></a><a href="/setts/s13/db2r2db12k5dg12r2dg2r2dg12k5w14r2w2~x2/"><circle cx="82.0" cy="159.3" r="4" fill="#3465a4"><title>Blair Dress</title></circle></a><a href="/setts/s10/db3ly1db12k4ly2k4g8r2g8r1~x2/"><circle cx="131.5" cy="165.4" r="4" fill="#3465a4"><title>MacMillan, hunting</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12w1g12r3g2r1g8~x2/"><circle cx="132.7" cy="147.2" r="4" fill="#3465a4"><title>MacDonald of Clanranald 2</title></circle></a><a href="/setts/s13/w20k3w3k3w3k16dg17ly5dg17k16db16k3db3~x2/"><circle cx="72.4" cy="171.9" r="4" fill="#3465a4"><title>Gordon Dress #2</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1~x2/"><circle cx="141.2" cy="143.3" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s11/t2k1t1db2g8r2k8db2t1k1t2~x2/"><circle cx="104.8" cy="162.5" r="4" fill="#3465a4"><title>Unnamed, No 22</title></circle></a><circle cx="103.6" cy="158.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w4db20g5k6g2w3g2k6g13dp8g2~x2/"><circle cx="115.4" cy="163.5" r="4" fill="#3465a4"><title>Bowlers (Commemorative)</title></circle></a><a href="/setts/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/"><circle cx="127.0" cy="157.5" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s11/k2y10g4o5g2o3g2o5g4k15lb2~x2/"><circle cx="93.8" cy="176.5" r="4" fill="#3465a4"><title>Elwyn Glen (Scottish Borders)</title></circle></a><a href="/setts/s10/db12r4db18r2k19g18r4g3ly2g8~x2/"><circle cx="116.6" cy="176.9" r="4" fill="#3465a4"><title>Biskup</title></circle></a><a href="/setts/s13/db2r2db12k5dg12r2dg2r2dg12k5w14r2w2~x2/"><circle cx="82.1" cy="159.3" r="4" fill="#3465a4"><title>Blair Dress</title></circle></a><a href="/setts/s10/db3ly1db12k4ly2k4g8r2g8r1~x2/"><circle cx="131.6" cy="165.4" r="4" fill="#3465a4"><title>MacMillan, hunting</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12w1g12r3g2r1g8~x2/"><circle cx="132.8" cy="147.3" r="4" fill="#3465a4"><title>MacDonald of Clanranald 2</title></circle></a><a href="/setts/s13/w20k3w3k3w3k16dg17ly5dg17k16db16k3db3~x2/"><circle cx="72.4" cy="172.0" r="4" fill="#3465a4"><title>Gordon Dress #2</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1~x2/"><circle cx="141.2" cy="143.3" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s11/t2k1t1db2k8r2g8db2t1k1t2~x2/"><circle cx="104.9" cy="162.5" r="4" fill="#3465a4"><title>Unnamed, No 22</title></circle></a><circle cx="103.7" cy="158.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/w4db20g5k6g2w3g2k6g13p8g2~x2/

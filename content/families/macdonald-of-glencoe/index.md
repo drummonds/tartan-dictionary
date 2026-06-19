@@ -1,5 +1,5 @@
 ---
-title: "MacDonald of Glencoe"
+title: "MacDonald, of Glencoe"
 date: 2023-03-18
 ---
 A family of [Clan MacDonald](/clan/macdonald/).

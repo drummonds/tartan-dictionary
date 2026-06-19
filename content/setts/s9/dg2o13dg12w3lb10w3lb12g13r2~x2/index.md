@@ -2,7 +2,7 @@
 title: "Mounth The.. Corporate Tartan Tartan Number: 120. Earliest known date: 1988 Designed for Kincardine & Deeside branch of the National Trust for Scotland. Blue is a muted sky blue. Green is a dark pine green. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-**Bands:** [GRGWWWWGR](/stripes/grgwwwwgr/) · **Stripes:** [DG O DG W LB W LB G R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG O DG W LB W LB G R</span></span>
+**Bands:** [RGWWWWGRG](/stripes/rgwwwwgrg/) · **Stripes:** [R G LB W LB W DG O DG](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="seq">R G LB W LB W DG O DG</span></span>
 
 
 This was sourced from house-of-tartan.  It is a [9 band tartan](/bands/bands9/).
@@ -10,7 +10,7 @@ This was sourced from house-of-tartan.  It is a [9 band tartan](/bands/bands9/).
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=120
 
 ## Thread count
-DG/4 N26 DG24 LN6 LP20 LN6 LP24 G26 DR/4
+DR/4 G26 LP24 LN6 LP20 LN6 DG24 N26 DG/4
 ![Sett](sett.png)
 
 ## Palette
@@ -33,7 +33,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Northern College (Ontario)](/setts/s10/g5db3t3g5w4ly2t1ly2db1r1~x6/) — ΔT 0.77
 1. [Northern College](/setts/s10/g10db6t6g10w8ly3t2ly3db2r2/) — ΔT 1.11
 1. [Coulter Dress (Personal)](/setts/s8/r6w20g12o3g8t20k2t3~x2/) — ΔT 1.17
-1. [Ellis (Personal)](/setts/s9/ly2k1g5r4g2r2g4k1w2~x6/) — ΔT 1.21
+1. [Ellis (Personal)](/setts/s9/w2k1g4r2g2r4g5k1ly2~x6/) — ΔT 1.21
 1. [MacLellan Dress (Personal)](/setts/s11/k4ly2lg13k8r2w13r2w13k2g12ly4~x2/) — ΔT 1.21
 1. [Ontario, Northern](/setts/s7/o17y5db2w12db2ly4g7~x2/) — ΔT 1.21
 1. [Copar a'Beannichte Dress (Personal)](/setts/s10/g6g20g6w15dt5w2dt15o4dt10r2~x2/) — ΔT 1.23
@@ -43,8 +43,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g5db3t3g5w4ly2t1ly2db1r1~x6/"><circle cx="52.1" cy="194.1" r="4" fill="#3465a4"><title>Northern College (Ontario)</title></circle></a><a href="/setts/s10/g10db6t6g10w8ly3t2ly3db2r2/"><circle cx="64.9" cy="193.9" r="4" fill="#3465a4"><title>Northern College</title></circle></a><a href="/setts/s8/r6w20g12o3g8t20k2t3~x2/"><circle cx="82.5" cy="152.9" r="4" fill="#3465a4"><title>Coulter Dress (Personal)</title></circle></a><a href="/setts/s9/ly2k1g5r4g2r2g4k1w2~x6/"><circle cx="14.0" cy="197.5" r="4" fill="#3465a4"><title>Ellis (Personal)</title></circle></a><a href="/setts/s11/k4ly2lg13k8r2w13r2w13k2g12ly4~x2/"><circle cx="44.7" cy="151.4" r="4" fill="#3465a4"><title>MacLellan Dress (Personal)</title></circle></a><a href="/setts/s7/o17y5db2w12db2ly4g7~x2/"><circle cx="105.2" cy="173.7" r="4" fill="#3465a4"><title>Ontario, Northern</title></circle></a><a href="/setts/s10/g6g20g6w15dt5w2dt15o4dt10r2~x2/"><circle cx="91.2" cy="163.4" r="4" fill="#3465a4"><title>Copar a'Beannichte Dress (Personal)</title></circle></a><a href="/setts/s8/g1w1g4k1r1k1lg4ly1~x8/"><circle cx="68.6" cy="195.1" r="4" fill="#3465a4"><title>Dunedin (NZ)</title></circle></a><a href="/setts/s11/dr8dg22dg8lb16dr24lb8lb32lb32lb7lb12lb4/"><circle cx="43.3" cy="162.4" r="4" fill="#3465a4"><title>Manderson #1 (Personal)</title></circle></a><a href="/setts/s9/t8ly2g4ly2dp4ly2t8w15lo2~x4/"><circle cx="88.7" cy="153.5" r="4" fill="#3465a4"><title>Edmonton, City of</title></circle></a><circle cx="54.6" cy="186.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g5db3t3g5w4ly2t1ly2db1r1~x6/"><circle cx="52.0" cy="194.1" r="4" fill="#3465a4"><title>Northern College (Ontario)</title></circle></a><a href="/setts/s10/g10db6t6g10w8ly3t2ly3db2r2/"><circle cx="64.9" cy="194.0" r="4" fill="#3465a4"><title>Northern College</title></circle></a><a href="/setts/s8/r6w20g12o3g8t20k2t3~x2/"><circle cx="82.4" cy="153.0" r="4" fill="#3465a4"><title>Coulter Dress (Personal)</title></circle></a><a href="/setts/s9/w2k1g4r2g2r4g5k1ly2~x6/"><circle cx="14.0" cy="197.6" r="4" fill="#3465a4"><title>Ellis (Personal)</title></circle></a><a href="/setts/s11/k4ly2lg13k8r2w13r2w13k2g12ly4~x2/"><circle cx="44.6" cy="151.5" r="4" fill="#3465a4"><title>MacLellan Dress (Personal)</title></circle></a><a href="/setts/s7/o17y5db2w12db2ly4g7~x2/"><circle cx="105.1" cy="173.8" r="4" fill="#3465a4"><title>Ontario, Northern</title></circle></a><a href="/setts/s10/g6g20g6w15dt5w2dt15o4dt10r2~x2/"><circle cx="91.2" cy="163.5" r="4" fill="#3465a4"><title>Copar a'Beannichte Dress (Personal)</title></circle></a><a href="/setts/s8/g1w1g4k1r1k1lg4ly1~x8/"><circle cx="68.6" cy="195.2" r="4" fill="#3465a4"><title>Dunedin (NZ)</title></circle></a><a href="/setts/s11/dr8dg22dg8lb16dr24lb8lb32lb32lb7lb12lb4/"><circle cx="43.2" cy="162.5" r="4" fill="#3465a4"><title>Manderson #1 (Personal)</title></circle></a><a href="/setts/s9/t8ly2g4ly2dp4ly2t8w15lo2~x4/"><circle cx="88.5" cy="153.5" r="4" fill="#3465a4"><title>Edmonton, City of</title></circle></a><circle cx="54.6" cy="186.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dg2o13dg12w3lb10w3lb12g13r2~x2/

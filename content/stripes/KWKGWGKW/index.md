@@ -8,7 +8,7 @@ KWKGWGKW
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/k37w9k3g9w3g9k3w9~x2/tartan.png)
+![Woven sample](/setts/s8/k37w9k3g9w3~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ KWKGWGKW
 
 | Tartans |
 |---------------|
-| [Glen Coe #2](/setts/s8/k37w9k3g9w3g9k3w9~x2/)|
-|![Glen Coe #2 example sett](/setts/s8/k37w9k3g9w3g9k3w9~x2/sett.png)|
+| [Glen Coe #2](/setts/s8/k37w9k3g9w3~x2/)|
+|![Glen Coe #2 example sett](/setts/s8/k37w9k3g9w3~x2/sett.png)|
 

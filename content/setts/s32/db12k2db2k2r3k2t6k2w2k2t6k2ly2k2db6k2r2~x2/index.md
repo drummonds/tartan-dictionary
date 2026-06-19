@@ -1,0 +1,57 @@
+---
+title: "Kilburnie"
+date: 2023-03-18
+---
+**Bands:** [KBKRKBKWKBKYKBKRKBKYKBKWKBKRKBKB](/stripes/kbkrkbkwkbkykbkrkbkykbkwkbkrkbkb/) · **Stripes:** [K DB K R K T K W K T K LY K DB K R K DB K LY K T K W K T K R K DB K DB](/stripes/stripes32/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K R K T K W K T K LY K DB K R K DB K LY K T K W K T K R K DB K DB</span></span>
+
+
+This was sourced from register-of-tartans.  It is a [32 band tartan](/bands/bands32/).
+
+Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1964
+
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [1964](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1964)
+- Scottish Tartans Authority (ITI): 284
+- Scottish Tartans World Register: 284
+
+## Thread count
+DB/24 K4 DB4 K4 R6 K4 B12 K4 LN4 K4 B12 K4 Y4 K4 DB12 K4 R4 K4 DB12 K4 Y4 K4 B12 K4 LN4 K4 B12 K4 R6 K4 DB4 K/4
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| B | <code style="background-color:#5C8CA8;"><span style="color:#5C8CA8;filter:grayscale(1) invert(1) contrast(100);">#5C8CA8</span></code> `#5C8CA8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
+| DB | <code style="background-color:#2C2C80;"><span style="color:#2C2C80;filter:grayscale(1) invert(1) contrast(100);">#2C2C80</span></code> `#2C2C80` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.06 |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| LN | <code style="background-color:#E0E0E0;"><span style="color:#E0E0E0;filter:grayscale(1) invert(1) contrast(100);">#E0E0E0</span></code> `#E0E0E0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.07 |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
+| Y | <code style="background-color:#E8C000;"><span style="color:#E8C000;filter:grayscale(1) invert(1) contrast(100);">#E8C000</span></code> `#E8C000` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.02 |
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Salich-Plaja of St. Genis (Personal)](/setts/s24/db13w3db13k3db3k8db3k15ly3r3g3w3r3~x2/) — ΔT 1.07
+1. [Scottish National Dress District Tartan Tartan Number: 2160. Earliest known date: 1994 In 1934 The National Association of Scottish Woollen Manufacturers designed a tartan they named 'National'. In 1994 Highland clothiers, McCalls of Aberdeen, designed and registered a tartan they called the 'National Dress' which appears to have retained some elements of the original design. The 'Dress' tartan was registered as a patented design, No. 601292, on 22nd March 1994. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s26/db12w11r2w11db12dg11k2dg3k2dg11k8db2r2db2w2db11w2db2r2db2k8dg11k2dg3k2dg11~x2/) — ΔT 1.12
+1. [Palatine Union (Personal)](/setts/s40/db13k3db3k3db3k10t10w4r4w4t10k10db14k3db3k3db14k10t8w3r3w3t8k10db13k3db3k3db13k10t10w4r4w4t10k10db3k3db3k3~x2/) — ΔT 1.30
+1. [MacKinlay Dress](/setts/s29/r2k1db8k6lb8k2lb2k2lb8k6g8k1r2k1g8k6lb2k2lb2k2lb6k2lb2k2lb2k6db8k1r2~x2/) — ΔT 1.34
+1. [Stevens (Personal)](/setts/s32/r6ly3r3db24db24g24t3ly4t3g24db10w3db10db24r3ly3r6/) — ΔT 1.35
+1. [Kilburnie (Fashion)](/setts/s17/db12k2db2k2r3k2t6k2w2k2t6k2ly2k2db6k2r2~x2/) — ΔT 1.36
+1. [Webb (Personal)](/setts/s28/r6w2k3w2k3w2k3g16w2db6ly3k2db10k2r4~x2/) — ΔT 1.43
+1. [Schneidersohne Centenary](/setts/s26/r5k3db10k3g20k3r5k3db5k3r5db5k3db5r5k3db5k3r5k3g20k3db10k3r5w3~x2/) — ΔT 1.48
+1. [MacDonald of Pr Edward Island Tartan Tartan Number: 1973. Earliest known date: 1772 Estimated count from Coulson Bonner drawing. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s24/r12db6k8g6r1g6r2g3k1ly2k1g1r1g2r1g7k9db11k1w2k1db11k9db8~x2/) — ΔT 1.54
+1. [Scottish American Military](/setts/s25/db11k2r2w2b2k16g16k2g16k16db16r2w2b2db16k16g16k2g16k16r2w2b2k2db11~x2/) — ΔT 1.54
+
+## Neighbour map
+
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s24/db13w3db13k3db3k8db3k15ly3r3g3w3r3~x2/"><circle cx="92.8" cy="144.3" r="4" fill="#3465a4"><title>Salich-Plaja of St. Genis (Personal)</title></circle></a><a href="/setts/s26/db12w11r2w11db12dg11k2dg3k2dg11k8db2r2db2w2db11w2db2r2db2k8dg11k2dg3k2dg11~x2/"><circle cx="70.5" cy="150.3" r="4" fill="#3465a4"><title>Scottish National Dress District Tartan Tartan Number: 2160. Earliest known date: 1994 In 1934 The National Association of Scottish Woollen Manufacturers designed a tartan they named 'National'. In 1994 Highland clothiers, McCalls of Aberdeen, designed and registered a tartan they called the 'National Dress' which appears to have retained some elements of the original design. The 'Dress' tartan was registered as a patented design, No. 601292, on 22nd March 1994. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s40/db13k3db3k3db3k10t10w4r4w4t10k10db14k3db3k3db14k10t8w3r3w3t8k10db13k3db3k3db13k10t10w4r4w4t10k10db3k3db3k3~x2/"><circle cx="51.8" cy="159.4" r="4" fill="#3465a4"><title>Palatine Union (Personal)</title></circle></a><a href="/setts/s29/r2k1db8k6lb8k2lb2k2lb8k6g8k1r2k1g8k6lb2k2lb2k2lb6k2lb2k2lb2k6db8k1r2~x2/"><circle cx="81.3" cy="133.6" r="4" fill="#3465a4"><title>MacKinlay Dress</title></circle></a><a href="/setts/s32/r6ly3r3db24db24g24t3ly4t3g24db10w3db10db24r3ly3r6/"><circle cx="47.4" cy="100.9" r="4" fill="#3465a4"><title>Stevens (Personal)</title></circle></a><a href="/setts/s17/db12k2db2k2r3k2t6k2w2k2t6k2ly2k2db6k2r2~x2/"><circle cx="85.9" cy="152.0" r="4" fill="#3465a4"><title>Kilburnie (Fashion)</title></circle></a><a href="/setts/s28/r6w2k3w2k3w2k3g16w2db6ly3k2db10k2r4~x2/"><circle cx="33.1" cy="103.0" r="4" fill="#3465a4"><title>Webb (Personal)</title></circle></a><a href="/setts/s26/r5k3db10k3g20k3r5k3db5k3r5db5k3db5r5k3db5k3r5k3g20k3db10k3r5w3~x2/"><circle cx="86.0" cy="149.7" r="4" fill="#3465a4"><title>Schneidersohne Centenary</title></circle></a><a href="/setts/s24/r12db6k8g6r1g6r2g3k1ly2k1g1r1g2r1g7k9db11k1w2k1db11k9db8~x2/"><circle cx="107.6" cy="118.9" r="4" fill="#3465a4"><title>MacDonald of Pr Edward Island Tartan Tartan Number: 1973. Earliest known date: 1772 Estimated count from Coulson Bonner drawing. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s25/db11k2r2w2b2k16g16k2g16k16db16r2w2b2db16k16g16k2g16k16r2w2b2k2db11~x2/"><circle cx="101.9" cy="138.6" r="4" fill="#3465a4"><title>Scottish American Military</title></circle></a><circle cx="48.7" cy="130.2" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s32/db12k2db2k2r3k2t6k2w2k2t6k2ly2k2db6k2r2~x2/

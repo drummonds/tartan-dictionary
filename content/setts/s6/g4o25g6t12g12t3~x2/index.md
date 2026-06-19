@@ -2,7 +2,7 @@
 title: "Canadian Fancy"
 date: 2023-03-18
 ---
-**Bands:** [BGBGRG](/stripes/bgbgrg/) · **Stripes:** [T G T G O G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="seq">T G T G O G</span></span>
+**Bands:** [GRGBGB](/stripes/grgbgb/) · **Stripes:** [G O G T G T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">G O G T G T</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/6 G24 B24 G12 LT50 G/8
+G/8 LT50 G12 B24 G24 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -899,7 +902,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/6 G24 B24 G12 LT50 G/8 tartan")
+![Tartan detail](tartan.png "G/8 LT50 G12 B24 G24 B/6 tartan")
 
 ## Nearest tartans
 
@@ -911,15 +914,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Dewar (WCWM)](/setts/s6/dt1dy1dt7dy5y7lr1~x4/) — ΔT 1.55
 1. [Bright of Garth (Personal)](/setts/s5/g7dy6dt7dy1dt2~x6/) — ΔT 1.69
 1. [Ancient Universal (Fashion?)](/setts/s8/y12dg2y2dg2y2dy8y8dy1~x2/) — ΔT 1.72
-1. [Auld Lang Syne (Fashion)](/setts/s8/lb1t1lb1t7y7lb1y1lb1~x6/) — ΔT 1.77
+1. [Auld Lang Syne (Fashion)](/setts/s8/lb1y1lb1y7t7lb1t1lb1~x6/) — ΔT 1.77
 1. [Spring Morning (Fashion)](/setts/s4/g1y9g9lo1~x4/) — ΔT 1.78
 1. [Porcelanosa](/setts/s4/lr24o9n23ly3~x2/) — ΔT 1.83
 1. [Spring Morning](/setts/s6/y9g9lo1g9y9g1~x4/) — ΔT 1.84
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g4dy25g6t12g12t3~x2/"><circle cx="302.4" cy="289.0" r="4" fill="#3465a4"><title>Canadian Fancy</title></circle></a><a href="/setts/s5/g7y6n7y1n2~x6/"><circle cx="301.9" cy="334.7" r="4" fill="#3465a4"><title>Bright of Garth (Personal)</title></circle></a><a href="/setts/s8/t12g2t2g2t2o8g8o1~x2/"><circle cx="290.3" cy="234.7" r="4" fill="#3465a4"><title>Universal, Ancient</title></circle></a><a href="/setts/s6/dt1dy1dt7dy5y7lr1~x4/"><circle cx="256.3" cy="272.4" r="4" fill="#3465a4"><title>Dewar (WCWM)</title></circle></a><a href="/setts/s5/g7dy6dt7dy1dt2~x6/"><circle cx="292.1" cy="332.0" r="4" fill="#3465a4"><title>Bright of Garth (Personal)</title></circle></a><a href="/setts/s8/y12dg2y2dg2y2dy8y8dy1~x2/"><circle cx="283.7" cy="227.1" r="4" fill="#3465a4"><title>Ancient Universal (Fashion?)</title></circle></a><a href="/setts/s8/lb1t1lb1t7y7lb1y1lb1~x6/"><circle cx="318.9" cy="249.0" r="4" fill="#3465a4"><title>Auld Lang Syne (Fashion)</title></circle></a><a href="/setts/s4/g1y9g9lo1~x4/"><circle cx="413.7" cy="313.1" r="4" fill="#3465a4"><title>Spring Morning (Fashion)</title></circle></a><a href="/setts/s4/lr24o9n23ly3~x2/"><circle cx="281.5" cy="292.1" r="4" fill="#3465a4"><title>Porcelanosa</title></circle></a><a href="/setts/s6/y9g9lo1g9y9g1~x4/"><circle cx="402.4" cy="322.2" r="4" fill="#3465a4"><title>Spring Morning</title></circle></a><circle cx="315.5" cy="294.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g4dy25g6t12g12t3~x2/"><circle cx="302.3" cy="289.1" r="4" fill="#3465a4"><title>Canadian Fancy</title></circle></a><a href="/setts/s5/g7y6n7y1n2~x6/"><circle cx="301.9" cy="334.8" r="4" fill="#3465a4"><title>Bright of Garth (Personal)</title></circle></a><a href="/setts/s8/t12g2t2g2t2o8g8o1~x2/"><circle cx="290.1" cy="234.8" r="4" fill="#3465a4"><title>Universal, Ancient</title></circle></a><a href="/setts/s6/dt1dy1dt7dy5y7lr1~x4/"><circle cx="256.2" cy="272.5" r="4" fill="#3465a4"><title>Dewar (WCWM)</title></circle></a><a href="/setts/s5/g7dy6dt7dy1dt2~x6/"><circle cx="292.3" cy="332.0" r="4" fill="#3465a4"><title>Bright of Garth (Personal)</title></circle></a><a href="/setts/s8/y12dg2y2dg2y2dy8y8dy1~x2/"><circle cx="283.5" cy="227.2" r="4" fill="#3465a4"><title>Ancient Universal (Fashion?)</title></circle></a><a href="/setts/s8/lb1y1lb1y7t7lb1t1lb1~x6/"><circle cx="318.6" cy="249.0" r="4" fill="#3465a4"><title>Auld Lang Syne (Fashion)</title></circle></a><a href="/setts/s4/g1y9g9lo1~x4/"><circle cx="413.6" cy="313.0" r="4" fill="#3465a4"><title>Spring Morning (Fashion)</title></circle></a><a href="/setts/s4/lr24o9n23ly3~x2/"><circle cx="281.4" cy="292.2" r="4" fill="#3465a4"><title>Porcelanosa</title></circle></a><a href="/setts/s6/y9g9lo1g9y9g1~x4/"><circle cx="402.3" cy="322.2" r="4" fill="#3465a4"><title>Spring Morning</title></circle></a><circle cx="315.3" cy="294.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/g4o25g6t12g12t3~x2/

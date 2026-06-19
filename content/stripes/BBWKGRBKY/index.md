@@ -18,10 +18,10 @@ BBWKGRBKY
 
 
 
-### T P W K G R T K LY <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">T P W K G R T K LY</span></span>
+### LY K T R G K W P T <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#00879F"></span><span class="seq">LY K T R G K W P T</span></span>
 
 | Tartans |
 |---------------|
-| [Wilson's, No 110](/setts/s9/ly3k2t3r14g19k3w3p10t3~x2/)|
-|![Wilson's, No 110 example sett](/setts/s9/ly3k2t3r14g19k3w3p10t3~x2/sett.png)|
+| [Wilson's, No 110](/setts/s9/t3p10w3k3g19r14t3k2ly3~x2/)|
+|![Wilson's, No 110 example sett](/setts/s9/t3p10w3k3g19r14t3k2ly3~x2/sett.png)|
 

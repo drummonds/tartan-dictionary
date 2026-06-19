@@ -2,12 +2,18 @@
 title: "Edinburgh '86"
 date: 2023-03-18
 ---
-**Bands:** [BWBWBWBBBBR](/stripes/bwbwbwbbbbr/) · **Stripes:** [DB W DB W DB W DB B DB B R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB W DB W DB W DB B DB B R</span></span>
+**Bands:** [RBBBBWBWBWB](/stripes/rbbbbwbwbwb/) · **Stripes:** [R B DB B DB W DB W DB W DB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">R B DB B DB W DB W DB W DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1075
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Edinburgh, '86
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -922,8 +931,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db3w1db1w1db2w3db15t2db2t22r2~x2/"><circle cx="293.3" cy="124.8" r="4" fill="#3465a4"><title>Commonwealth Games 1986 (Corp)</title></circle></a><a href="/setts/s11/dt10w3dt3w3dt5w8dt38t8dt8t61r6/"><circle cx="297.9" cy="140.1" r="4" fill="#3465a4"><title>Caleys Windsor (Corporate)</title></circle></a><a href="/setts/s10/db10b6lb6w4lb3b6db20b46db2lb2~x2/"><circle cx="356.4" cy="150.6" r="4" fill="#3465a4"><title>Saltire (Fashion)</title></circle></a><a href="/setts/s8/w4t1lo2t22b20w2b4w2~x2/"><circle cx="298.3" cy="161.2" r="4" fill="#3465a4"><title>Gorman Blue (Personal)</title></circle></a><a href="/setts/s13/db4r3t23db16w5t3r2t3w5t11db2r1db4~x2/"><circle cx="266.5" cy="131.6" r="4" fill="#3465a4"><title>Illinois St Andrews Society Corporate Tartan Tartan Number: 2051. Earliest known date: 1991 A philanthropic society founded by Scots around 1840. The tartan was designed to mark the 150th anniversary. The colours represent the State of Illinois Flag, the Chicago sports teams and the St Andrew's flag. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/b3b2b30b1w18lb14b2lb3~x2/"><circle cx="277.5" cy="134.7" r="4" fill="#3465a4"><title>Bannockbane Blue #3</title></circle></a><a href="/setts/s12/g2dg2g1dg14b2dg10b10dg2b14m1b2m2~x4/"><circle cx="286.6" cy="174.3" r="4" fill="#3465a4"><title>Pacific</title></circle></a><a href="/setts/s9/db12lb2db2t6db4lb3db4lb18r1~x4/"><circle cx="250.1" cy="157.2" r="4" fill="#3465a4"><title>Thorburn #1 (Name)</title></circle></a><a href="/setts/s10/db4w2db1t24db10w1db2w5db3r2~x2/"><circle cx="233.9" cy="107.6" r="4" fill="#3465a4"><title>Rikaco Morning Dew 1 (Fashion)</title></circle></a><a href="/setts/s7/w3t38db38w1t3w1r2~x2/"><circle cx="319.8" cy="119.5" r="4" fill="#3465a4"><title>Bousie (Personal)</title></circle></a><circle cx="305.8" cy="127.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db3w1db1w1db2w3db15t2db2t22r2~x2/"><circle cx="293.1" cy="124.7" r="4" fill="#3465a4"><title>Commonwealth Games 1986 (Corp)</title></circle></a><a href="/setts/s11/dt10w3dt3w3dt5w8dt38t8dt8t61r6/"><circle cx="297.7" cy="140.0" r="4" fill="#3465a4"><title>Caleys Windsor (Corporate)</title></circle></a><a href="/setts/s10/db10b6lb6w4lb3b6db20b46db2lb2~x2/"><circle cx="356.2" cy="150.5" r="4" fill="#3465a4"><title>Saltire (Fashion)</title></circle></a><a href="/setts/s8/w4t1lo2t22b20w2b4w2~x2/"><circle cx="298.1" cy="161.1" r="4" fill="#3465a4"><title>Gorman Blue (Personal)</title></circle></a><a href="/setts/s13/db4r3t23db16w5t3r2t3w5t11db2r1db4~x2/"><circle cx="266.3" cy="131.5" r="4" fill="#3465a4"><title>Illinois St Andrews Society Corporate Tartan Tartan Number: 2051. Earliest known date: 1991 A philanthropic society founded by Scots around 1840. The tartan was designed to mark the 150th anniversary. The colours represent the State of Illinois Flag, the Chicago sports teams and the St Andrew's flag. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/b3b2b30b1w18lb14b2lb3~x2/"><circle cx="277.3" cy="134.6" r="4" fill="#3465a4"><title>Bannockbane Blue #3</title></circle></a><a href="/setts/s12/g2dg2g1dg14b2dg10b10dg2b14m1b2m2~x4/"><circle cx="286.6" cy="174.2" r="4" fill="#3465a4"><title>Pacific</title></circle></a><a href="/setts/s9/db12lb2db2t6db4lb3db4lb18r1~x4/"><circle cx="249.9" cy="157.0" r="4" fill="#3465a4"><title>Thorburn #1 (Name)</title></circle></a><a href="/setts/s10/db4w2db1t24db10w1db2w5db3r2~x2/"><circle cx="233.8" cy="107.6" r="4" fill="#3465a4"><title>Rikaco Morning Dew 1 (Fashion)</title></circle></a><a href="/setts/s7/w3t38db38w1t3w1r2~x2/"><circle cx="319.7" cy="119.5" r="4" fill="#3465a4"><title>Bousie (Personal)</title></circle></a><circle cx="305.6" cy="127.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db6w2db2w2db4w6db28b4db4b45r4/

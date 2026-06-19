@@ -2,7 +2,7 @@
 title: "Twenty First Century"
 date: 2023-03-18
 ---
-**Bands:** [GBGWGBGKBBBWR](/stripes/gbgwgbgkbbbwr/) · **Stripes:** [G DB Y W Y DB G K DB T DB W R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">G DB Y W Y DB G K DB T DB W R</span></span>
+**Bands:** [RWBBBKGBGWGBG](/stripes/rwbbbkgbgwgbg/) · **Stripes:** [R W DB T DB K G DB Y W Y DB G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W DB T DB K G DB Y W Y DB G</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,20 +909,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Twenty First Century](/setts/s13/g12db3o3w2o3db3g5k8db31t5db8w4r6~x2/) — ΔT 0.34
-1. [Service, of Drymen](/setts/s17/ly2db14k2y5g3k1g3k1g3w1g3w1g3y5k2db14r2~x2/) — ΔT 0.84
-1. [Service of Drymen Corporate Tartan Tartan Number: 1380. Earliest known date: pre 2003 The design is based on the Sillers connection with the Isle of Arran and the Clan Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s17/ly2db14k2o5g3k1g3k1g3w1g3w1g3o5k2db14r2~x2/) — ΔT 0.97
+1. [Service, of Drymen](/setts/s17/r2db14k2y5g3w1g3w1g3k1g3k1g3y5k2db14ly2~x2/) — ΔT 0.84
+1. [Service of Drymen Corporate Tartan Tartan Number: 1380. Earliest known date: pre 2003 The design is based on the Sillers connection with the Isle of Arran and the Clan Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s17/r2db14k2o5g3w1g3w1g3k1g3k1g3o5k2db14ly2~x2/) — ΔT 0.97
 1. [Robitaille, Jean-Francois (Personal)](/setts/s12/db21w2lo3w2lo2w2k12w2g6db15r2ly4~x2/) — ΔT 0.97
 1. [Highland, Blue (Corporate)](/setts/s10/dp4g13db5ly3t6ly3db5n6db28w2~x2/) — ΔT 1.03
 1. [Sons of Scotland (Corporate)](/setts/s11/db2w2db21lo3db4r3db3m4g18b4w2~x2/) — ΔT 1.07
-1. [Service of Drymen (Personal)](/setts/s17/lo2db14k2o5g3k1g3k1g3lb1g3lb1g3o5k2db14r2~x2/) — ΔT 1.09
+1. [Service of Drymen (Personal)](/setts/s17/r2db14k2o5g3lb1g3lb1g3k1g3k1g3o5k2db14lo2~x2/) — ΔT 1.09
 1. [Inverclyde, Green (Corporate)](/setts/s11/w3db5b2db9dp10k2dp4k2g10g33w2~x2/) — ΔT 1.12
-1. [Royal Air Force Lossiemouth](/setts/s10/lo3k5g2k20dt8g3t18r2t18o3~x2/) — ΔT 1.15
+1. [Royal Air Force Lossiemouth](/setts/s10/o3t18r2t18g3dt8k20g2k5lo3~x2/) — ΔT 1.15
 1. [Twempy](/setts/s10/k1r4k1w3k1g7k2db16r2lo1~x2/) — ΔT 1.16
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g12db3o3w2o3db3g5k8db31t5db8w4r6~x2/"><circle cx="178.5" cy="96.1" r="4" fill="#3465a4"><title>Twenty First Century</title></circle></a><a href="/setts/s17/ly2db14k2y5g3k1g3k1g3w1g3w1g3y5k2db14r2~x2/"><circle cx="146.6" cy="92.0" r="4" fill="#3465a4"><title>Service, of Drymen</title></circle></a><a href="/setts/s17/ly2db14k2o5g3k1g3k1g3w1g3w1g3o5k2db14r2~x2/"><circle cx="158.9" cy="97.5" r="4" fill="#3465a4"><title>Service of Drymen Corporate Tartan Tartan Number: 1380. Earliest known date: pre 2003 The design is based on the Sillers connection with the Isle of Arran and the Clan Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/db21w2lo3w2lo2w2k12w2g6db15r2ly4~x2/"><circle cx="155.0" cy="106.6" r="4" fill="#3465a4"><title>Robitaille, Jean-Francois (Personal)</title></circle></a><a href="/setts/s10/dp4g13db5ly3t6ly3db5n6db28w2~x2/"><circle cx="205.6" cy="122.3" r="4" fill="#3465a4"><title>Highland, Blue (Corporate)</title></circle></a><a href="/setts/s11/db2w2db21lo3db4r3db3m4g18b4w2~x2/"><circle cx="153.6" cy="114.6" r="4" fill="#3465a4"><title>Sons of Scotland (Corporate)</title></circle></a><a href="/setts/s17/lo2db14k2o5g3k1g3k1g3lb1g3lb1g3o5k2db14r2~x2/"><circle cx="154.7" cy="97.6" r="4" fill="#3465a4"><title>Service of Drymen (Personal)</title></circle></a><a href="/setts/s11/w3db5b2db9dp10k2dp4k2g10g33w2~x2/"><circle cx="159.0" cy="96.9" r="4" fill="#3465a4"><title>Inverclyde, Green (Corporate)</title></circle></a><a href="/setts/s10/lo3k5g2k20dt8g3t18r2t18o3~x2/"><circle cx="151.6" cy="141.0" r="4" fill="#3465a4"><title>Royal Air Force Lossiemouth</title></circle></a><a href="/setts/s10/k1r4k1w3k1g7k2db16r2lo1~x2/"><circle cx="162.1" cy="95.3" r="4" fill="#3465a4"><title>Twempy</title></circle></a><circle cx="173.7" cy="94.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g12db3o3w2o3db3g5k8db31t5db8w4r6~x2/"><circle cx="178.5" cy="96.1" r="4" fill="#3465a4"><title>Twenty First Century</title></circle></a><a href="/setts/s17/r2db14k2y5g3w1g3w1g3k1g3k1g3y5k2db14ly2~x2/"><circle cx="146.6" cy="92.2" r="4" fill="#3465a4"><title>Service, of Drymen</title></circle></a><a href="/setts/s17/r2db14k2o5g3w1g3w1g3k1g3k1g3o5k2db14ly2~x2/"><circle cx="158.9" cy="97.6" r="4" fill="#3465a4"><title>Service of Drymen Corporate Tartan Tartan Number: 1380. Earliest known date: pre 2003 The design is based on the Sillers connection with the Isle of Arran and the Clan Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/db21w2lo3w2lo2w2k12w2g6db15r2ly4~x2/"><circle cx="155.1" cy="106.7" r="4" fill="#3465a4"><title>Robitaille, Jean-Francois (Personal)</title></circle></a><a href="/setts/s10/dp4g13db5ly3t6ly3db5n6db28w2~x2/"><circle cx="205.6" cy="122.4" r="4" fill="#3465a4"><title>Highland, Blue (Corporate)</title></circle></a><a href="/setts/s11/db2w2db21lo3db4r3db3m4g18b4w2~x2/"><circle cx="153.7" cy="114.6" r="4" fill="#3465a4"><title>Sons of Scotland (Corporate)</title></circle></a><a href="/setts/s17/r2db14k2o5g3lb1g3lb1g3k1g3k1g3o5k2db14lo2~x2/"><circle cx="154.8" cy="97.7" r="4" fill="#3465a4"><title>Service of Drymen (Personal)</title></circle></a><a href="/setts/s11/w3db5b2db9dp10k2dp4k2g10g33w2~x2/"><circle cx="158.9" cy="97.0" r="4" fill="#3465a4"><title>Inverclyde, Green (Corporate)</title></circle></a><a href="/setts/s10/o3t18r2t18g3dt8k20g2k5lo3~x2/"><circle cx="151.7" cy="141.1" r="4" fill="#3465a4"><title>Royal Air Force Lossiemouth</title></circle></a><a href="/setts/s10/k1r4k1w3k1g7k2db16r2lo1~x2/"><circle cx="162.1" cy="95.5" r="4" fill="#3465a4"><title>Twempy</title></circle></a><circle cx="173.6" cy="94.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/g12db3y3w2y3db3g5k8db31t5db8w4r6~x2/

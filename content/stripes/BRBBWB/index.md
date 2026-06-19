@@ -25,8 +25,8 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Ewell Castle School](/setts/s6/b4w1b18db18r1db4~x4/)|
-|![Ewell Castle School example sett](/setts/s6/b4w1b18db18r1db4~x4/sett.png)|
+| [Ewell Castle School](/setts/s6/db4r1db18b18w1b4~x4/)|
+|![Ewell Castle School example sett](/setts/s6/db4r1db18b18w1b4~x4/sett.png)|
 
 ### DT R DT DT W DT <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="seq">DT R DT DT W DT</span></span>
 

@@ -18,10 +18,10 @@ WBGRWBRBY
 
 
 
-### W DB G O W DB R DB LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W DB G O W DB R DB LY</span></span>
+### LY DB R DB W O G DB W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DB R DB W O G DB W</span></span>
 
 | Tartans |
 |---------------|
-| [Scotia](/setts/s9/ly4db8r3db14w18o4g28db58w4/)|
-|![Scotia example sett](/setts/s9/ly4db8r3db14w18o4g28db58w4/sett.png)|
+| [Scotia](/setts/s9/w4db58g28o4w18db14r3db8ly4/)|
+|![Scotia example sett](/setts/s9/w4db58g28o4w18db14r3db8ly4/sett.png)|
 

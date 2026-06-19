@@ -2,19 +2,12 @@
 title: "Sinclair Dress"
 date: 2023-03-18
 ---
-**Bands:** [RBYKGR](/stripes/rbykgr/) · **Stripes:** [R B LR K DG R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">R B LR K DG R</span></span>
+**Bands:** [RGKYBR](/stripes/rgkybr/) · **Stripes:** [R DG K LR B R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG K LR B R</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
-
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Sinclair Dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Sinclair Dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
 
 ## Register references
 
@@ -65,10 +58,11 @@ Other setts woven to the same stripe pattern.
 
 - [Sinclair](/setts/s6/r30dg12k5lr2b6r30~x2/)
 - [Sinclair](/setts/s6/r30dg12k5lr2b6r30/)
+- [Sinclair Dress](/setts/s6/r28dg16k4lr1b6r28/)
 
 
 ## Thread count
-DR/56 B12 N2 K8 DG32 DR/56
+DR/56 DG32 K8 N2 B12 DR/56
 ![Sett](sett.png)
 
 ## Palette
@@ -84,12 +78,13 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/56 B12 N2 K8 DG32 DR/56 tartan")
+![Tartan detail](tartan.png "DR/56 DG32 K8 N2 B12 DR/56 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
+1. [Sinclair Dress](/setts/s6/r28dg16k4lr1b6r28/) — ΔT 0.00
 1. [Kinnaird (Name)](/setts/s6/g15k10r30dp2r20w1~x2/) — ΔT 0.49
 1. [Sinclair (Logan)](/setts/s6/r28g16k4w1db6r28~x2/) — ΔT 0.62
 1. [Sinclair](/setts/s6/r28g16k4w1t6r28~x2/) — ΔT 0.92
@@ -99,12 +94,11 @@ The nearest existing variants by ΔTartan distance.
 1. [AON](/setts/s6/r5db10r5dg5r25ly1~x4/) — ΔT 1.22
 1. [Greig (Personal)](/setts/s6/r60k2w3dg20r10dg20~x2/) — ΔT 1.37
 1. [Sinclair](/setts/s6/r30g12k5w2t6r30/) — ΔT 1.43
-1. [MacGregor Hunting Glengyle Clan Tartan Tartan Number: 1285. Earliest known date: 1960 This is the usual MacGregor sett but with a darker crimson background colour. The story goes that Alasdair MacGregor of Cardney wanted to make tartan from the wool of his own sheep. His initial dyeing attempt produced a shocking pink colour, so he dyed the wool a second time to get this dark crimson colour. He liked the result so much that he had a bolt of cloth woven and the Cardney MacGregors have worn it ever since. The addition of the term 'Hunting' to the name is, apparently a commercial attribution. Notes from the STA, quoting Sir Malcolm MacGregor of MacGregor (2006) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/m96g42m16g17k4lb6/) — ΔT 1.51
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g15k10r30dp2r20w1~x2/"><circle cx="397.8" cy="161.7" r="4" fill="#3465a4"><title>Kinnaird (Name)</title></circle></a><a href="/setts/s6/r28g16k4w1db6r28~x2/"><circle cx="416.4" cy="156.6" r="4" fill="#3465a4"><title>Sinclair (Logan)</title></circle></a><a href="/setts/s6/r28g16k4w1t6r28~x2/"><circle cx="404.4" cy="151.9" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s6/r30dg12k5lr2b6r30~x2/"><circle cx="420.1" cy="182.7" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s6/r30dg12k5lr2b6r30/"><circle cx="420.1" cy="182.7" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s6/r36t8w1k5g20r18~x4/"><circle cx="380.5" cy="147.5" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s6/r5db10r5dg5r25ly1~x4/"><circle cx="454.3" cy="166.1" r="4" fill="#3465a4"><title>AON</title></circle></a><a href="/setts/s6/r60k2w3dg20r10dg20~x2/"><circle cx="420.0" cy="151.1" r="4" fill="#3465a4"><title>Greig (Personal)</title></circle></a><a href="/setts/s6/r30g12k5w2t6r30/"><circle cx="401.2" cy="169.4" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s6/m96g42m16g17k4lb6/"><circle cx="430.1" cy="167.9" r="4" fill="#3465a4"><title>MacGregor Hunting Glengyle Clan Tartan Tartan Number: 1285. Earliest known date: 1960 This is the usual MacGregor sett but with a darker crimson background colour. The story goes that Alasdair MacGregor of Cardney wanted to make tartan from the wool of his own sheep. His initial dyeing attempt produced a shocking pink colour, so he dyed the wool a second time to get this dark crimson colour. He liked the result so much that he had a bolt of cloth woven and the Cardney MacGregors have worn it ever since. The addition of the term 'Hunting' to the name is, apparently a commercial attribution. Notes from the STA, quoting Sir Malcolm MacGregor of MacGregor (2006) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="424.4" cy="165.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r28dg16k4lr1b6r28/"><circle cx="424.1" cy="165.5" r="4" fill="#3465a4"><title>Sinclair Dress</title></circle></a><a href="/setts/s6/g15k10r30dp2r20w1~x2/"><circle cx="397.5" cy="161.6" r="4" fill="#3465a4"><title>Kinnaird (Name)</title></circle></a><a href="/setts/s6/r28g16k4w1db6r28~x2/"><circle cx="416.0" cy="156.4" r="4" fill="#3465a4"><title>Sinclair (Logan)</title></circle></a><a href="/setts/s6/r28g16k4w1t6r28~x2/"><circle cx="404.0" cy="151.7" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s6/r30dg12k5lr2b6r30~x2/"><circle cx="419.7" cy="182.6" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s6/r30dg12k5lr2b6r30/"><circle cx="419.7" cy="182.6" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s6/r36t8w1k5g20r18~x4/"><circle cx="380.1" cy="147.4" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s6/r5db10r5dg5r25ly1~x4/"><circle cx="453.9" cy="165.9" r="4" fill="#3465a4"><title>AON</title></circle></a><a href="/setts/s6/r60k2w3dg20r10dg20~x2/"><circle cx="419.6" cy="150.9" r="4" fill="#3465a4"><title>Greig (Personal)</title></circle></a><a href="/setts/s6/r30g12k5w2t6r30/"><circle cx="400.8" cy="169.2" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><circle cx="424.1" cy="165.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r28dg16k4lr1b6r28~x2/

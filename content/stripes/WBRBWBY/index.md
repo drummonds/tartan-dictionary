@@ -8,7 +8,7 @@ WBRBWBY
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/ly2db3w6db15r24db3w2~x2/tartan.png)
+![Woven sample](/setts/s7/w2db3r24db15w6db3ly2~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ WBRBWBY
 
 
 
-### W DB R DB W DB LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W DB R DB W DB LY</span></span>
+### LY DB W DB R DB W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DB W DB R DB W</span></span>
 
 | Tartans |
 |---------------|
-| [Fazzolettone (Fashion?)](/setts/s7/ly2db3w6db15r24db3w2~x2/)|
-|![Fazzolettone (Fashion?) example sett](/setts/s7/ly2db3w6db15r24db3w2~x2/sett.png)|
+| [Fazzolettone (Fashion?)](/setts/s7/w2db3r24db15w6db3ly2~x2/)|
+|![Fazzolettone (Fashion?) example sett](/setts/s7/w2db3r24db15w6db3ly2~x2/sett.png)|
 

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -907,19 +910,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [London Regiment (Military)](/setts/s6/y34n27r3n27y34w3~x2/) — ΔT 2.67
 1. [Weathered Cyclist (Corporate)](/setts/s7/o32w2o9ly2o12lo21r1~x2/) — ΔT 2.70
-1. [Harmony, 12](/setts/s6/o6y2o29y29o2y6~x2/) — ΔT 2.71
+1. [Harmony, 12](/setts/s6/o6y2o29y29o2y6~x2/) — ΔT 2.70
 1. [McKerrell of Hillhouse Dress](/setts/s6/t48o28w4o28t48ly3~x2/) — ΔT 2.76
 1. [Bute Heather, Ancient Wth'd (Fashion](/setts/s11/lo5n2y8n1y8n4y4n6y18lr1lo5~x2/) — ΔT 2.87
 1. [Outlander #3](/setts/s4/y14n7lo6n2~x8/) — ΔT 3.04
-1. [Bryce](/setts/s4/o5r46n35r5~x2/) — ΔT 3.14
+1. [Bryce](/setts/s4/r5n35r46o5~x2/) — ΔT 3.14
 1. [Cairns, David (Personal)](/setts/s5/do11n1do4n8r1~x8/) — ΔT 3.16
 1. [McGuigan, Julia (St Monans, Fife) (Personal)](/setts/s4/y9y52dy15ly4~x2/) — ΔT 3.19
-1. [Harmony 11 #2](/setts/s6/dg6dy2dg29dy29dg2dy6~x2/) — ΔT 3.21
+1. [Harmony 11 #2](/setts/s6/dy6dg2dy29dg29dy2dg6~x2/) — ΔT 3.21
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/y34n27r3n27y34w3~x2/"><circle cx="468.4" cy="328.1" r="4" fill="#3465a4"><title>London Regiment (Military)</title></circle></a><a href="/setts/s7/o32w2o9ly2o12lo21r1~x2/"><circle cx="610.1" cy="249.2" r="4" fill="#3465a4"><title>Weathered Cyclist (Corporate)</title></circle></a><a href="/setts/s6/o6y2o29y29o2y6~x2/"><circle cx="626.0" cy="359.7" r="4" fill="#3465a4"><title>Harmony, 12</title></circle></a><a href="/setts/s6/t48o28w4o28t48ly3~x2/"><circle cx="550.9" cy="328.9" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Dress</title></circle></a><a href="/setts/s11/lo5n2y8n1y8n4y4n6y18lr1lo5~x2/"><circle cx="560.0" cy="292.4" r="4" fill="#3465a4"><title>Bute Heather, Ancient Wth'd (Fashion</title></circle></a><a href="/setts/s4/y14n7lo6n2~x8/"><circle cx="437.1" cy="366.0" r="4" fill="#3465a4"><title>Outlander #3</title></circle></a><a href="/setts/s4/o5r46n35r5~x2/"><circle cx="529.5" cy="337.5" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/setts/s5/do11n1do4n8r1~x8/"><circle cx="545.2" cy="340.0" r="4" fill="#3465a4"><title>Cairns, David (Personal)</title></circle></a><a href="/setts/s4/y9y52dy15ly4~x2/"><circle cx="538.1" cy="304.0" r="4" fill="#3465a4"><title>McGuigan, Julia (St Monans, Fife) (Personal)</title></circle></a><a href="/setts/s6/dg6dy2dg29dy29dg2dy6~x2/"><circle cx="622.0" cy="366.0" r="4" fill="#3465a4"><title>Harmony 11 #2</title></circle></a><circle cx="620.2" cy="354.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/y34n27r3n27y34w3~x2/"><circle cx="468.2" cy="328.3" r="4" fill="#3465a4"><title>London Regiment (Military)</title></circle></a><a href="/setts/s7/o32w2o9ly2o12lo21r1~x2/"><circle cx="609.5" cy="249.5" r="4" fill="#3465a4"><title>Weathered Cyclist (Corporate)</title></circle></a><a href="/setts/s6/o6y2o29y29o2y6~x2/"><circle cx="626.0" cy="360.1" r="4" fill="#3465a4"><title>Harmony, 12</title></circle></a><a href="/setts/s6/t48o28w4o28t48ly3~x2/"><circle cx="550.5" cy="329.2" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Dress</title></circle></a><a href="/setts/s11/lo5n2y8n1y8n4y4n6y18lr1lo5~x2/"><circle cx="559.6" cy="292.7" r="4" fill="#3465a4"><title>Bute Heather, Ancient Wth'd (Fashion</title></circle></a><a href="/setts/s4/y14n7lo6n2~x8/"><circle cx="436.9" cy="366.0" r="4" fill="#3465a4"><title>Outlander #3</title></circle></a><a href="/setts/s4/r5n35r46o5~x2/"><circle cx="529.3" cy="337.7" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/setts/s5/do11n1do4n8r1~x8/"><circle cx="545.1" cy="340.1" r="4" fill="#3465a4"><title>Cairns, David (Personal)</title></circle></a><a href="/setts/s4/y9y52dy15ly4~x2/"><circle cx="537.8" cy="304.1" r="4" fill="#3465a4"><title>McGuigan, Julia (St Monans, Fife) (Personal)</title></circle></a><a href="/setts/s6/dy6dg2dy29dg29dy2dg6~x2/"><circle cx="621.8" cy="366.0" r="4" fill="#3465a4"><title>Harmony 11 #2</title></circle></a><circle cx="619.8" cy="354.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/o12o6o2ly1~x4/

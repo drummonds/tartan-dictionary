@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 6748
 
 ## Thread count
-G/4 W4 G16 B16 R16 K2 R14 K2 R16 B16 W4 G4 W4 G/20
+G/20 W4 G4 W4 B16 R16 K2 R14 K2 R16 B16 G16 W4 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -43,20 +43,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Red Hackle Pipe Band (Corporate)](/setts/s16/n30k2r18k3w24n12k3n24k2g26n12g12r12w12r12w2/) — ΔT 0.89
-1. [Norwich No.056](/setts/s16/r5db1r5g13db8t5r5w1db3w1r5t5db8g13r5db1~x2/) — ΔT 0.93
+1. [Norwich No.056](/setts/s16/r5db1r5g13db8t5r5w1db3~x2/) — ΔT 0.93
 1. [Alaskan Scottish](/setts/s17/w4t1dg9t9r9t1ly4t1r9t9dg1t1dg1t1dg4t1w4~x2/) — ΔT 1.02
 1. [MacDuff Dress #2](/setts/s10/r4k1r4g8k6lb3db2lb11db1r2~x4/) — ΔT 1.07
 1. [MacKenzie Hunting (Brown)](/setts/s15/lo12k2lo2k2lo2k12o12k1w2k1o12k12lo12k1r2~x2/) — ΔT 1.08
-1. [Unidentified #27](/setts/s9/r5db1r5g13db8t5r5w1db3~x2/) — ΔT 1.16
 1. [Carnegie Dress #2 (Fashion)](/setts/s13/w18r3w3r10w26r3k26g28r10g3r3g8lo6/) — ΔT 1.16
+1. [Unidentified #27](/setts/s9/r5db1r5g13db8t5r5w1db3~x2/) — ΔT 1.16
 1. [Lochaber (Scrapbook)](/setts/s14/do10o2do6o12do2o6do2dy10w2dy6w12dy2w6dy1~x2/) — ΔT 1.17
 1. [Alaskan Scottish](/setts/s17/w4db1g9db9r9db1ly4db1r9db9g1db1g1db1g4db1w4~x2/) — ΔT 1.17
 1. [Forbes - 1970 (WCWM #1)](/setts/s12/k6g5k6do6w1do10k6w3r1w12r1w3~x4/) — ΔT 1.18
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/n30k2r18k3w24n12k3n24k2g26n12g12r12w12r12w2/"><circle cx="140.7" cy="137.0" r="4" fill="#3465a4"><title>Red Hackle Pipe Band (Corporate)</title></circle></a><a href="/setts/s16/r5db1r5g13db8t5r5w1db3w1r5t5db8g13r5db1~x2/"><circle cx="129.5" cy="152.4" r="4" fill="#3465a4"><title>Norwich No.056</title></circle></a><a href="/setts/s17/w4t1dg9t9r9t1ly4t1r9t9dg1t1dg1t1dg4t1w4~x2/"><circle cx="107.9" cy="130.7" r="4" fill="#3465a4"><title>Alaskan Scottish</title></circle></a><a href="/setts/s10/r4k1r4g8k6lb3db2lb11db1r2~x4/"><circle cx="103.9" cy="157.1" r="4" fill="#3465a4"><title>MacDuff Dress #2</title></circle></a><a href="/setts/s15/lo12k2lo2k2lo2k12o12k1w2k1o12k12lo12k1r2~x2/"><circle cx="160.6" cy="136.4" r="4" fill="#3465a4"><title>MacKenzie Hunting (Brown)</title></circle></a><a href="/setts/s9/r5db1r5g13db8t5r5w1db3~x2/"><circle cx="120.0" cy="162.7" r="4" fill="#3465a4"><title>Unidentified #27</title></circle></a><a href="/setts/s13/w18r3w3r10w26r3k26g28r10g3r3g8lo6/"><circle cx="87.8" cy="137.9" r="4" fill="#3465a4"><title>Carnegie Dress #2 (Fashion)</title></circle></a><a href="/setts/s14/do10o2do6o12do2o6do2dy10w2dy6w12dy2w6dy1~x2/"><circle cx="107.5" cy="165.1" r="4" fill="#3465a4"><title>Lochaber (Scrapbook)</title></circle></a><a href="/setts/s17/w4db1g9db9r9db1ly4db1r9db9g1db1g1db1g4db1w4~x2/"><circle cx="105.1" cy="130.9" r="4" fill="#3465a4"><title>Alaskan Scottish</title></circle></a><a href="/setts/s12/k6g5k6do6w1do10k6w3r1w12r1w3~x4/"><circle cx="92.4" cy="150.9" r="4" fill="#3465a4"><title>Forbes - 1970 (WCWM #1)</title></circle></a><circle cx="116.5" cy="160.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/n30k2r18k3w24n12k3n24k2g26n12g12r12w12r12w2/"><circle cx="140.5" cy="137.0" r="4" fill="#3465a4"><title>Red Hackle Pipe Band (Corporate)</title></circle></a><a href="/setts/s16/r5db1r5g13db8t5r5w1db3~x2/"><circle cx="129.4" cy="152.5" r="4" fill="#3465a4"><title>Norwich No.056</title></circle></a><a href="/setts/s17/w4t1dg9t9r9t1ly4t1r9t9dg1t1dg1t1dg4t1w4~x2/"><circle cx="107.7" cy="130.8" r="4" fill="#3465a4"><title>Alaskan Scottish</title></circle></a><a href="/setts/s10/r4k1r4g8k6lb3db2lb11db1r2~x4/"><circle cx="103.8" cy="157.1" r="4" fill="#3465a4"><title>MacDuff Dress #2</title></circle></a><a href="/setts/s15/lo12k2lo2k2lo2k12o12k1w2k1o12k12lo12k1r2~x2/"><circle cx="160.5" cy="136.5" r="4" fill="#3465a4"><title>MacKenzie Hunting (Brown)</title></circle></a><a href="/setts/s13/w18r3w3r10w26r3k26g28r10g3r3g8lo6/"><circle cx="87.6" cy="137.9" r="4" fill="#3465a4"><title>Carnegie Dress #2 (Fashion)</title></circle></a><a href="/setts/s9/r5db1r5g13db8t5r5w1db3~x2/"><circle cx="119.9" cy="162.7" r="4" fill="#3465a4"><title>Unidentified #27</title></circle></a><a href="/setts/s14/do10o2do6o12do2o6do2dy10w2dy6w12dy2w6dy1~x2/"><circle cx="107.4" cy="165.2" r="4" fill="#3465a4"><title>Lochaber (Scrapbook)</title></circle></a><a href="/setts/s17/w4db1g9db9r9db1ly4db1r9db9g1db1g1db1g4db1w4~x2/"><circle cx="105.0" cy="130.9" r="4" fill="#3465a4"><title>Alaskan Scottish</title></circle></a><a href="/setts/s12/k6g5k6do6w1do10k6w3r1w12r1w3~x4/"><circle cx="92.4" cy="150.9" r="4" fill="#3465a4"><title>Forbes - 1970 (WCWM #1)</title></circle></a><circle cx="116.4" cy="160.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/g10w2g2w2b8r8k1r7k1r8b8g8w2g2~x2/

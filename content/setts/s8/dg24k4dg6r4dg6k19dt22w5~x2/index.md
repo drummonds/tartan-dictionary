@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2744
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacRae Hunting
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -47,21 +53,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Scottish Tartan Society](/setts/s9/db20k10lo3k7r4k7lo3k8g20~x2/) — ΔT 0.93
+1. [Scottish Tartan Society](/setts/s9/db20k10lo3k7r4k7lo3k8g20~x2/) — ΔT 0.94
 1. [Unidentified No 79](/setts/s6/r5dg18ly2k14t5k4~x2/) — ΔT 1.00
 1. [Scottish Odyssey Commemorative Tartan Tartan Number: 4071. Earliest known date: 01/01/2002 The Scottish Odyssey tartan from Lochcarron is a 'celebration of the wonderful experiences to be gained' from a visit to Scotland and some of the most spectacularly contrasting landscapes to be seen in Europe. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/k7db11k3db11dy11g22db3~x2/) — ΔT 1.00
 1. [Maitland](/setts/s9/dg3db8dg3k4dg9ly2db2ly2r2~x2/) — ΔT 1.01
 1. [Maitland](/setts/s9/dg3db8dg3k4dg9ly2db2ly2r2/) — ΔT 1.01
-1. [Mantle (Personal)](/setts/s8/g3db16w2k14g18r3g2r3~x2/) — ΔT 1.02
+1. [Mantle (Personal)](/setts/s8/r3g2r3g18k14w2db16g3~x2/) — ΔT 1.02
 1. [Royal College of Physicians (Corp)](/setts/s6/db18r3k9r3g23ly3~x2/) — ΔT 1.03
-1. [Selkirk (Personal) Original](/setts/s8/dp11y2k10g10lo2g10k10y2~x2/) — ΔT 1.03
+1. [Selkirk (Personal) Original](/setts/s8/dp11y2k10g10lo2~x2/) — ΔT 1.03
 1. [MacLeish](/setts/s8/k18db12k5g4r6g12k2lo4~x2/) — ΔT 1.04
-1. [Wilson's No.176](/setts/s8/k8t3g13dp12ly2dp12g13t3~x2/) — ΔT 1.05
+1. [Wilson's No.176](/setts/s8/k8t3g13dp12ly2~x2/) — ΔT 1.05
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db20k10lo3k7r4k7lo3k8g20~x2/"><circle cx="148.9" cy="217.1" r="4" fill="#3465a4"><title>Scottish Tartan Society</title></circle></a><a href="/setts/s6/r5dg18ly2k14t5k4~x2/"><circle cx="170.9" cy="212.9" r="4" fill="#3465a4"><title>Unidentified No 79</title></circle></a><a href="/setts/s7/k7db11k3db11dy11g22db3~x2/"><circle cx="127.7" cy="223.8" r="4" fill="#3465a4"><title>Scottish Odyssey Commemorative Tartan Tartan Number: 4071. Earliest known date: 01/01/2002 The Scottish Odyssey tartan from Lochcarron is a 'celebration of the wonderful experiences to be gained' from a visit to Scotland and some of the most spectacularly contrasting landscapes to be seen in Europe. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/dg3db8dg3k4dg9ly2db2ly2r2~x2/"><circle cx="134.3" cy="228.7" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/setts/s9/dg3db8dg3k4dg9ly2db2ly2r2/"><circle cx="134.3" cy="228.7" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/setts/s8/g3db16w2k14g18r3g2r3~x2/"><circle cx="174.5" cy="195.7" r="4" fill="#3465a4"><title>Mantle (Personal)</title></circle></a><a href="/setts/s6/db18r3k9r3g23ly3~x2/"><circle cx="168.6" cy="210.9" r="4" fill="#3465a4"><title>Royal College of Physicians (Corp)</title></circle></a><a href="/setts/s8/dp11y2k10g10lo2g10k10y2~x2/"><circle cx="118.8" cy="236.2" r="4" fill="#3465a4"><title>Selkirk (Personal) Original</title></circle></a><a href="/setts/s8/k18db12k5g4r6g12k2lo4~x2/"><circle cx="156.3" cy="209.9" r="4" fill="#3465a4"><title>MacLeish</title></circle></a><a href="/setts/s8/k8t3g13dp12ly2dp12g13t3~x2/"><circle cx="150.3" cy="233.4" r="4" fill="#3465a4"><title>Wilson's No.176</title></circle></a><circle cx="156.8" cy="221.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/db20k10lo3k7r4k7lo3k8g20~x2/"><circle cx="149.1" cy="217.1" r="4" fill="#3465a4"><title>Scottish Tartan Society</title></circle></a><a href="/setts/s6/r5dg18ly2k14t5k4~x2/"><circle cx="171.0" cy="212.9" r="4" fill="#3465a4"><title>Unidentified No 79</title></circle></a><a href="/setts/s7/k7db11k3db11dy11g22db3~x2/"><circle cx="127.9" cy="223.8" r="4" fill="#3465a4"><title>Scottish Odyssey Commemorative Tartan Tartan Number: 4071. Earliest known date: 01/01/2002 The Scottish Odyssey tartan from Lochcarron is a 'celebration of the wonderful experiences to be gained' from a visit to Scotland and some of the most spectacularly contrasting landscapes to be seen in Europe. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/dg3db8dg3k4dg9ly2db2ly2r2~x2/"><circle cx="134.6" cy="228.7" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/setts/s9/dg3db8dg3k4dg9ly2db2ly2r2/"><circle cx="134.6" cy="228.7" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/setts/s8/r3g2r3g18k14w2db16g3~x2/"><circle cx="174.6" cy="195.8" r="4" fill="#3465a4"><title>Mantle (Personal)</title></circle></a><a href="/setts/s6/db18r3k9r3g23ly3~x2/"><circle cx="168.7" cy="210.9" r="4" fill="#3465a4"><title>Royal College of Physicians (Corp)</title></circle></a><a href="/setts/s8/dp11y2k10g10lo2~x2/"><circle cx="119.0" cy="236.2" r="4" fill="#3465a4"><title>Selkirk (Personal) Original</title></circle></a><a href="/setts/s8/k18db12k5g4r6g12k2lo4~x2/"><circle cx="156.5" cy="209.9" r="4" fill="#3465a4"><title>MacLeish</title></circle></a><a href="/setts/s8/k8t3g13dp12ly2~x2/"><circle cx="150.4" cy="233.5" r="4" fill="#3465a4"><title>Wilson's No.176</title></circle></a><circle cx="156.9" cy="221.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/dg24k4dg6r4dg6k19dt22w5~x2/

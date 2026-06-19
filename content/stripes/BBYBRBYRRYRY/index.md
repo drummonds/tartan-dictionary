@@ -18,7 +18,7 @@ BBYBRBYRRYRY
 
 
 
-### B B LG B R B LY R R LG R LY <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">B B LG B R B LY R R LG R LY</span></span>
+### LY R LG R R LY B R B LG B B <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LY R LG R R LY B R B LG B B</span></span>
 
 | Tartans |
 |---------------|

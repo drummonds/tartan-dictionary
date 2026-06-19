@@ -20,7 +20,7 @@ BWBR
 
 
 
-### DT LB T R <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">DT LB T R</span></span>
+### R T LB DT <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#023535"></span><span class="seq">R T LB DT</span></span>
 
 | Tartans |
 |---------------|

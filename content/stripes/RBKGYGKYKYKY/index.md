@@ -22,6 +22,6 @@ RBKGYGKYKYKY
 
 | Tartans |
 |---------------|
-| [Valley Forge Pipe Band](/setts/s12/lr2k2lr4k2lr2k5dg5lr2dg5k5db5r2~x2/)|
-|![Valley Forge Pipe Band example sett](/setts/s12/lr2k2lr4k2lr2k5dg5lr2dg5k5db5r2~x2/sett.png)|
+| [Valley Forge Pipe Band](/setts/s12/r2db5k5dg5lr2dg5k5lr2k2lr4k2lr2~x2/)|
+|![Valley Forge Pipe Band example sett](/setts/s12/r2db5k5dg5lr2dg5k5lr2k2lr4k2lr2~x2/sett.png)|
 

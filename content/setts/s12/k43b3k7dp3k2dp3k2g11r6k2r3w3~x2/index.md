@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k58db5w5k10ly3k3w3k3g14r11k3r4w3~x2/"><circle cx="302.9" cy="78.1" r="4" fill="#3465a4"><title>Stewart Black</title></circle></a><a href="/setts/s9/k65dy9r11k5t2lo2lo5k2lo13~x2/"><circle cx="349.2" cy="78.8" r="4" fill="#3465a4"><title>Down Irish County Tartan Tartan Number: 2266. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/k36db4k6ly1k1w1k1g8r4k1r2w1~x2/"><circle cx="396.3" cy="62.3" r="4" fill="#3465a4"><title>Stewart, Black ground</title></circle></a><a href="/setts/s12/k86y6k4w3k3r3k3y22o14k3o6w4/"><circle cx="366.7" cy="77.2" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/setts/s12/k48n4k6lr2k2r2k2n10o6k2o3r2~x2/"><circle cx="401.3" cy="94.6" r="4" fill="#3465a4"><title>Glen Ross (WCWM - 2)</title></circle></a><a href="/setts/s12/k48db4k8ly2k3w3k3g12r6k3r3w3~x2/"><circle cx="368.3" cy="82.9" r="4" fill="#3465a4"><title>Stewart Black Clan Tartan Tartan Number: 1061. Earliest known date: c.1930 Count from a silk sample in the STS collection labelled Stewart See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/k44ly3k4ly3k4db4w2db4r2w2dg4ly2~x2/"><circle cx="369.6" cy="74.1" r="4" fill="#3465a4"><title>Clan An Caigeann (Corporate)</title></circle></a><a href="/setts/s13/k58db5w5k10ly3k3w3k3dg14r11k3r4w3~x2/"><circle cx="316.0" cy="79.0" r="4" fill="#3465a4"><title>Stuart/Stewart Black #2</title></circle></a><a href="/setts/s11/k36db6ly1db1lb1db1dy8o4db1o2lb1~x4/"><circle cx="338.6" cy="67.6" r="4" fill="#3465a4"><title>Flotilla Navy</title></circle></a><a href="/setts/s12/k43o7k9dp3k3dp3k3g18dr9k3dr4dr4~x2/"><circle cx="269.0" cy="122.4" r="4" fill="#3465a4"><title>Braveheart -Warrior (hunting)</title></circle></a><circle cx="334.0" cy="85.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k58db5w5k10ly3k3w3k3g14r11k3r4w3~x2/"><circle cx="302.8" cy="78.1" r="4" fill="#3465a4"><title>Stewart Black</title></circle></a><a href="/setts/s9/k65dy9r11k5t2lo2lo5k2lo13~x2/"><circle cx="349.2" cy="78.7" r="4" fill="#3465a4"><title>Down Irish County Tartan Tartan Number: 2266. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/k36db4k6ly1k1w1k1g8r4k1r2w1~x2/"><circle cx="396.2" cy="62.2" r="4" fill="#3465a4"><title>Stewart, Black ground</title></circle></a><a href="/setts/s12/k86y6k4w3k3r3k3y22o14k3o6w4/"><circle cx="366.6" cy="77.0" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/setts/s12/k48n4k6lr2k2r2k2n10o6k2o3r2~x2/"><circle cx="401.2" cy="94.5" r="4" fill="#3465a4"><title>Glen Ross (WCWM - 2)</title></circle></a><a href="/setts/s12/k48db4k8ly2k3w3k3g12r6k3r3w3~x2/"><circle cx="368.1" cy="82.8" r="4" fill="#3465a4"><title>Stewart Black Clan Tartan Tartan Number: 1061. Earliest known date: c.1930 Count from a silk sample in the STS collection labelled Stewart See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/k44ly3k4ly3k4db4w2db4r2w2dg4ly2~x2/"><circle cx="369.4" cy="74.0" r="4" fill="#3465a4"><title>Clan An Caigeann (Corporate)</title></circle></a><a href="/setts/s13/k58db5w5k10ly3k3w3k3dg14r11k3r4w3~x2/"><circle cx="315.8" cy="79.0" r="4" fill="#3465a4"><title>Stuart/Stewart Black #2</title></circle></a><a href="/setts/s11/k36db6ly1db1lb1db1dy8o4db1o2lb1~x4/"><circle cx="338.7" cy="67.6" r="4" fill="#3465a4"><title>Flotilla Navy</title></circle></a><a href="/setts/s12/k43o7k9dp3k3dp3k3g18dr9k3dr4dr4~x2/"><circle cx="269.1" cy="122.4" r="4" fill="#3465a4"><title>Braveheart -Warrior (hunting)</title></circle></a><circle cx="334.1" cy="85.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/k43b3k7dp3k2dp3k2g11r6k2r3w3~x2/

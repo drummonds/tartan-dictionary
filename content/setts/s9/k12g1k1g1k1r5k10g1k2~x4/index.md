@@ -2,7 +2,7 @@
 title: "Lindsay (Crimson version) (Clan?)"
 date: 2023-03-18
 ---
-**Bands:** [KGKGKRKGK](/stripes/kgkgkrkgk/) · **Stripes:** [K G K G K R K G K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">K G K G K R K G K</span></span>
+**Bands:** [KGKRKGKGK](/stripes/kgkrkgkgk/) · **Stripes:** [K G K R K G K G K](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">K G K R K G K G K</span></span>
 
 
 This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/
 Original link http://www.tartansauthority.com/tartan-ferret/display/7927/
 
 ## Thread count
-K/8 G4 K40 R20 Ka4 G4 Ka4 G4 Ka/48
+Ka/48 G4 Ka4 G4 Ka4 R20 K40 G4 K/8
 ![Sett](sett.png)
 
 ## Palette
@@ -35,13 +35,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Cork, County (District)](/setts/s9/dg28r12dg4k20lo2k3lo2k3dg7~x2/) — ΔT 1.36
 1. [Brown of the Southeast (Personal)](/setts/s8/n12dg2n4dg2n4k33dg13r4~x2/) — ΔT 1.40
 1. [Lindsay](/setts/s9/dg20db2dg2db2dg2db8r24db2r3~x2/) — ΔT 1.46
-1. [Chess (Universal)](/setts/s12/k1w1k8db1k1dg8db8k1dg1k8w1k1~x6/) — ΔT 1.54
+1. [Chess (Universal)](/setts/s12/k1w1k8dg1k1db8dg8k1db1k8w1k1~x6/) — ΔT 1.54
 1. [Durie](/setts/s9/k12r1k1r1k1r4dg12ly1dg2~x4/) — ΔT 1.54
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k2r35k30r3k30r2k4r2k30r3k2/"><circle cx="345.4" cy="193.9" r="4" fill="#3465a4"><title>Gwyn (Welsh Name)</title></circle></a><a href="/setts/s9/dr20g2dr2g2dr2g8k24g2k3~x2/"><circle cx="340.6" cy="224.5" r="4" fill="#3465a4"><title>Carlow, County</title></circle></a><a href="/setts/s13/o6k28o4k4o12dr32k4dr3k4dr3k4dr14ly4/"><circle cx="278.6" cy="186.9" r="4" fill="#3465a4"><title>Etihad Airways</title></circle></a><a href="/setts/s8/db28dg2r5dg2r5k21dg23k2~x2/"><circle cx="257.2" cy="224.9" r="4" fill="#3465a4"><title>Bentley</title></circle></a><a href="/setts/s9/db16r2db2r2db2r6dg13lo2dg3~x2/"><circle cx="282.2" cy="230.6" r="4" fill="#3465a4"><title>Dewar, Christian (Personal)</title></circle></a><a href="/setts/s9/dg28r12dg4k20lo2k3lo2k3dg7~x2/"><circle cx="319.1" cy="203.0" r="4" fill="#3465a4"><title>Cork, County (District)</title></circle></a><a href="/setts/s8/n12dg2n4dg2n4k33dg13r4~x2/"><circle cx="304.0" cy="191.0" r="4" fill="#3465a4"><title>Brown of the Southeast (Personal)</title></circle></a><a href="/setts/s9/dg20db2dg2db2dg2db8r24db2r3~x2/"><circle cx="324.6" cy="211.1" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s12/k1w1k8db1k1dg8db8k1dg1k8w1k1~x6/"><circle cx="293.9" cy="216.7" r="4" fill="#3465a4"><title>Chess (Universal)</title></circle></a><a href="/setts/s9/k12r1k1r1k1r4dg12ly1dg2~x4/"><circle cx="275.7" cy="192.2" r="4" fill="#3465a4"><title>Durie</title></circle></a><circle cx="291.3" cy="206.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k2r35k30r3k30r2k4r2k30r3k2/"><circle cx="345.4" cy="194.1" r="4" fill="#3465a4"><title>Gwyn (Welsh Name)</title></circle></a><a href="/setts/s9/dr20g2dr2g2dr2g8k24g2k3~x2/"><circle cx="340.6" cy="224.6" r="4" fill="#3465a4"><title>Carlow, County</title></circle></a><a href="/setts/s13/o6k28o4k4o12dr32k4dr3k4dr3k4dr14ly4/"><circle cx="278.5" cy="187.0" r="4" fill="#3465a4"><title>Etihad Airways</title></circle></a><a href="/setts/s8/db28dg2r5dg2r5k21dg23k2~x2/"><circle cx="257.4" cy="225.1" r="4" fill="#3465a4"><title>Bentley</title></circle></a><a href="/setts/s9/db16r2db2r2db2r6dg13lo2dg3~x2/"><circle cx="282.2" cy="230.8" r="4" fill="#3465a4"><title>Dewar, Christian (Personal)</title></circle></a><a href="/setts/s9/dg28r12dg4k20lo2k3lo2k3dg7~x2/"><circle cx="319.1" cy="203.0" r="4" fill="#3465a4"><title>Cork, County (District)</title></circle></a><a href="/setts/s8/n12dg2n4dg2n4k33dg13r4~x2/"><circle cx="304.0" cy="191.0" r="4" fill="#3465a4"><title>Brown of the Southeast (Personal)</title></circle></a><a href="/setts/s9/dg20db2dg2db2dg2db8r24db2r3~x2/"><circle cx="324.6" cy="211.1" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s12/k1w1k8dg1k1db8dg8k1db1k8w1k1~x6/"><circle cx="294.0" cy="216.8" r="4" fill="#3465a4"><title>Chess (Universal)</title></circle></a><a href="/setts/s9/k12r1k1r1k1r4dg12ly1dg2~x4/"><circle cx="275.8" cy="192.3" r="4" fill="#3465a4"><title>Durie</title></circle></a><circle cx="291.4" cy="206.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/k12g1k1g1k1r5k10g1k2~x4/

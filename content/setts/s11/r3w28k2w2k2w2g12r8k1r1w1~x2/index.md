@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Royal Stuart / Stewart
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/2 R2 K2 R16 G24 LN4 K4 LN4 K4 LN56 R/6
+R/6 LN56 K4 LN4 K4 LN4 G24 R16 K2 R2 LN/2
 ![Sett](sett.png)
 
 ## Palette
@@ -922,8 +931,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dg7r3k3w54dg24r5dg5w5dg5r5~x2/"><circle cx="279.8" cy="108.9" r="4" fill="#3465a4"><title>Scott Dress #2</title></circle></a><a href="/setts/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/"><circle cx="271.7" cy="99.3" r="4" fill="#3465a4"><title>Ben Cleuch</title></circle></a><a href="/setts/s11/w60o3w3o8w3o3y24dt12o3dt16o4/"><circle cx="236.9" cy="96.5" r="4" fill="#3465a4"><title>Ben Ledi (Fashion)</title></circle></a><a href="/setts/s10/b4k12db3b4db3k3ly36db3b2ly3~x2/"><circle cx="270.8" cy="102.8" r="4" fill="#3465a4"><title>Hughes (USA) (Name)</title></circle></a><a href="/setts/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/"><circle cx="276.5" cy="63.7" r="4" fill="#3465a4"><title>Rothesay, Duke of</title></circle></a><a href="/setts/s11/w32k10lo1k2w1k2r7y3k1y3w1~x4/"><circle cx="286.4" cy="49.7" r="4" fill="#3465a4"><title>Glen Coe #3</title></circle></a><a href="/setts/s11/k1w31k4g8r1g2dt7r4k1r4w1~x2/"><circle cx="247.1" cy="56.7" r="4" fill="#3465a4"><title>Hohenzollern</title></circle></a><a href="/setts/s11/w38k10do2k3w2k3y8o3k2o3w2~x2/"><circle cx="267.5" cy="73.8" r="4" fill="#3465a4"><title>Glenmore Green</title></circle></a><a href="/setts/s14/w40dg3lo6dg2lo2w2lo2dg10do2dg2lo2do2dg3w2~x2/"><circle cx="297.1" cy="67.8" r="4" fill="#3465a4"><title>Arbutus</title></circle></a><a href="/setts/s20/w28k2w2k2w2g12r8k1r1w1r1k1r8g12w2k2w2k2w28r3~x2/"><circle cx="286.3" cy="58.3" r="4" fill="#3465a4"><title>Stewart/Stuart Royal (VS)</title></circle></a><circle cx="290.1" cy="79.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dg7r3k3w54dg24r5dg5w5dg5r5~x2/"><circle cx="279.4" cy="108.7" r="4" fill="#3465a4"><title>Scott Dress #2</title></circle></a><a href="/setts/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/"><circle cx="271.1" cy="99.2" r="4" fill="#3465a4"><title>Ben Cleuch</title></circle></a><a href="/setts/s11/w60o3w3o8w3o3y24dt12o3dt16o4/"><circle cx="236.4" cy="96.4" r="4" fill="#3465a4"><title>Ben Ledi (Fashion)</title></circle></a><a href="/setts/s10/b4k12db3b4db3k3ly36db3b2ly3~x2/"><circle cx="270.4" cy="102.6" r="4" fill="#3465a4"><title>Hughes (USA) (Name)</title></circle></a><a href="/setts/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/"><circle cx="276.0" cy="63.6" r="4" fill="#3465a4"><title>Rothesay, Duke of</title></circle></a><a href="/setts/s11/w32k10lo1k2w1k2r7y3k1y3w1~x4/"><circle cx="285.9" cy="49.6" r="4" fill="#3465a4"><title>Glen Coe #3</title></circle></a><a href="/setts/s11/k1w31k4g8r1g2dt7r4k1r4w1~x2/"><circle cx="246.7" cy="56.6" r="4" fill="#3465a4"><title>Hohenzollern</title></circle></a><a href="/setts/s11/w38k10do2k3w2k3y8o3k2o3w2~x2/"><circle cx="267.0" cy="73.7" r="4" fill="#3465a4"><title>Glenmore Green</title></circle></a><a href="/setts/s14/w40dg3lo6dg2lo2w2lo2dg10do2dg2lo2do2dg3w2~x2/"><circle cx="296.5" cy="67.6" r="4" fill="#3465a4"><title>Arbutus</title></circle></a><a href="/setts/s20/w28k2w2k2w2g12r8k1r1w1r1k1r8g12w2k2w2k2w28r3~x2/"><circle cx="285.7" cy="58.1" r="4" fill="#3465a4"><title>Stewart/Stuart Royal (VS)</title></circle></a><circle cx="289.5" cy="78.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/r3w28k2w2k2w2g12r8k1r1w1~x2/

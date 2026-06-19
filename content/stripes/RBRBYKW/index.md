@@ -8,7 +8,7 @@ RBRBYKW
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/lb2k17lg11t21r2t2r2~x2/tartan.png)
+![Woven sample](/setts/s7/r2t2r2t21lg11k17lb2~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RBRBYKW
 
 | Tartans |
 |---------------|
-| [Loch Ness (Fashion)](/setts/s7/lb2k17lg11t21r2t2r2~x2/)|
-|![Loch Ness (Fashion) example sett](/setts/s7/lb2k17lg11t21r2t2r2~x2/sett.png)|
+| [Loch Ness (Fashion)](/setts/s7/r2t2r2t21lg11k17lb2~x2/)|
+|![Loch Ness (Fashion) example sett](/setts/s7/r2t2r2t21lg11k17lb2~x2/sett.png)|
 

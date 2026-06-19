@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2279
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacArthur Variant
+- MacArthur, ?
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -319,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -896,7 +906,7 @@ External register numbers recorded for this tartan.
 
 Other setts woven to the same stripe pattern.
 
-- [Forbes](/setts/s6/ly1k4g4k8g16r1~x2/)
+- [Forbes](/setts/s6/r1g16k8g4k4ly1~x2/)
 
 
 ## Thread count
@@ -926,16 +936,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Raeside](/setts/s5/k6g4g44k41w4~x2/) — ΔT 0.88
 1. [Douglas (alternative threadcount)](/setts/s5/k6db4g44k41w4~x2/) — ΔT 0.96
 1. [Merwe](/setts/s6/g15ly2k30g32r3w2~x2/) — ΔT 1.02
-1. [MacAulay of Lewis](/setts/s8/g6k16r3k16g28k4g12w3~x2/) — ΔT 1.03
+1. [MacAulay of Lewis](/setts/s8/g6k16r3k16g28k4g12w3~x2/) — ΔT 1.04
 1. [MacAulay Hunting](/setts/s8/g6k16w1k16g8k4g12r2~x2/) — ΔT 1.05
 1. [MacHardy (Clans Originaux)](/setts/s8/g4r4k12w2k12g32r4k3~x2/) — ΔT 1.08
 1. [Page](/setts/s7/dg46k18dg6k13r4k4w4~x2/) — ΔT 1.10
-1. [Brooks Brothers (Corporate)](/setts/s4/lo1k11g11r1~x4/) — ΔT 1.12
+1. [Brooks Brothers (Corporate)](/setts/s4/r1g11k11lo1~x4/) — ΔT 1.12
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/g3r1k14g14lo1~x4/"><circle cx="337.7" cy="223.4" r="4" fill="#3465a4"><title>Wcwm 1255</title></circle></a><a href="/setts/s7/k6db1k6g4k10g20r2~x2/"><circle cx="333.1" cy="203.9" r="4" fill="#3465a4"><title>MacKinross</title></circle></a><a href="/setts/s5/k6g4g44k41w4~x2/"><circle cx="289.6" cy="221.0" r="4" fill="#3465a4"><title>Raeside</title></circle></a><a href="/setts/s5/k6db4g44k41w4~x2/"><circle cx="293.2" cy="222.7" r="4" fill="#3465a4"><title>Douglas (alternative threadcount)</title></circle></a><a href="/setts/s6/g15ly2k30g32r3w2~x2/"><circle cx="313.2" cy="184.6" r="4" fill="#3465a4"><title>Merwe</title></circle></a><a href="/setts/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="280.1" cy="221.9" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/setts/s8/g6k16w1k16g8k4g12r2~x2/"><circle cx="326.7" cy="216.5" r="4" fill="#3465a4"><title>MacAulay Hunting</title></circle></a><a href="/setts/s8/g4r4k12w2k12g32r4k3~x2/"><circle cx="296.8" cy="176.5" r="4" fill="#3465a4"><title>MacHardy (Clans Originaux)</title></circle></a><a href="/setts/s7/dg46k18dg6k13r4k4w4~x2/"><circle cx="344.1" cy="209.8" r="4" fill="#3465a4"><title>Page</title></circle></a><a href="/setts/s4/lo1k11g11r1~x4/"><circle cx="296.5" cy="244.9" r="4" fill="#3465a4"><title>Brooks Brothers (Corporate)</title></circle></a><circle cx="319.5" cy="214.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/g3r1k14g14lo1~x4/"><circle cx="337.7" cy="223.3" r="4" fill="#3465a4"><title>Wcwm 1255</title></circle></a><a href="/setts/s7/k6db1k6g4k10g20r2~x2/"><circle cx="333.1" cy="203.8" r="4" fill="#3465a4"><title>MacKinross</title></circle></a><a href="/setts/s5/k6g4g44k41w4~x2/"><circle cx="289.7" cy="220.9" r="4" fill="#3465a4"><title>Raeside</title></circle></a><a href="/setts/s5/k6db4g44k41w4~x2/"><circle cx="293.3" cy="222.6" r="4" fill="#3465a4"><title>Douglas (alternative threadcount)</title></circle></a><a href="/setts/s6/g15ly2k30g32r3w2~x2/"><circle cx="313.2" cy="184.5" r="4" fill="#3465a4"><title>Merwe</title></circle></a><a href="/setts/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="280.1" cy="221.8" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/setts/s8/g6k16w1k16g8k4g12r2~x2/"><circle cx="326.7" cy="216.4" r="4" fill="#3465a4"><title>MacAulay Hunting</title></circle></a><a href="/setts/s8/g4r4k12w2k12g32r4k3~x2/"><circle cx="296.8" cy="176.4" r="4" fill="#3465a4"><title>MacHardy (Clans Originaux)</title></circle></a><a href="/setts/s7/dg46k18dg6k13r4k4w4~x2/"><circle cx="344.1" cy="209.7" r="4" fill="#3465a4"><title>Page</title></circle></a><a href="/setts/s4/r1g11k11lo1~x4/"><circle cx="296.6" cy="244.7" r="4" fill="#3465a4"><title>Brooks Brothers (Corporate)</title></circle></a><circle cx="319.5" cy="213.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r3g30k12g6k16ly2~x2/

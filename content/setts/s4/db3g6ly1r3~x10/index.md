@@ -2,12 +2,18 @@
 title: "Delroeux (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BGYR](/stripes/bgyr/) · **Stripes:** [DB G LY R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB G LY R</span></span>
+**Bands:** [RYGB](/stripes/rygb/) · **Stripes:** [R LY G DB](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">R LY G DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10654/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Delroeux, John Michael
 
 ## Attestations
 
@@ -51,8 +57,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/db21g34r14w6~x2/"><circle cx="178.5" cy="268.2" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/setts/s4/r5g7k2t1~x4/"><circle cx="232.8" cy="258.9" r="4" fill="#3465a4"><title>Wilson's No.195</title></circle></a><a href="/setts/s4/t2r4g5ly1~x4/"><circle cx="177.5" cy="277.1" r="4" fill="#3465a4"><title>Wilson's No.203</title></circle></a><a href="/setts/s5/db2g4ly1db1r2~x12/"><circle cx="144.5" cy="273.4" r="4" fill="#3465a4"><title>Creek Indian Nation</title></circle></a><a href="/setts/s4/db3dg6ly1r3~x10/"><circle cx="170.9" cy="256.8" r="4" fill="#3465a4"><title>Delroeux, John Michael (Personal)</title></circle></a><a href="/setts/s4/g15r3p11t2~x2/"><circle cx="252.2" cy="248.8" r="4" fill="#3465a4"><title>MacNab 7</title></circle></a><a href="/setts/s4/g21db34r14w6~x2/"><circle cx="175.9" cy="265.7" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/setts/s5/g6k1r1t2r2~x4/"><circle cx="225.2" cy="236.7" r="4" fill="#3465a4"><title>Wilson's, No 193</title></circle></a><a href="/setts/s4/g30ly3db8r25~x2/"><circle cx="263.0" cy="246.6" r="4" fill="#3465a4"><title>Dohmen (Personal)</title></circle></a><a href="/setts/s4/dg9dy7w7r1~x4/"><circle cx="143.5" cy="247.1" r="4" fill="#3465a4"><title>MacKinnon Dress</title></circle></a><circle cx="194.7" cy="269.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/db21g34r14w6~x2/"><circle cx="178.6" cy="268.0" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/setts/s4/r5g7k2t1~x4/"><circle cx="232.8" cy="258.8" r="4" fill="#3465a4"><title>Wilson's No.195</title></circle></a><a href="/setts/s4/t2r4g5ly1~x4/"><circle cx="177.5" cy="277.0" r="4" fill="#3465a4"><title>Wilson's No.203</title></circle></a><a href="/setts/s5/db2g4ly1db1r2~x12/"><circle cx="144.5" cy="273.3" r="4" fill="#3465a4"><title>Creek Indian Nation</title></circle></a><a href="/setts/s4/db3dg6ly1r3~x10/"><circle cx="171.0" cy="256.6" r="4" fill="#3465a4"><title>Delroeux, John Michael (Personal)</title></circle></a><a href="/setts/s4/g15r3p11t2~x2/"><circle cx="252.2" cy="248.6" r="4" fill="#3465a4"><title>MacNab 7</title></circle></a><a href="/setts/s4/g21db34r14w6~x2/"><circle cx="176.1" cy="265.6" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/setts/s5/g6k1r1t2r2~x4/"><circle cx="225.1" cy="236.6" r="4" fill="#3465a4"><title>Wilson's, No 193</title></circle></a><a href="/setts/s4/g30ly3db8r25~x2/"><circle cx="262.9" cy="246.5" r="4" fill="#3465a4"><title>Dohmen (Personal)</title></circle></a><a href="/setts/s4/dg9dy7w7r1~x4/"><circle cx="143.5" cy="246.9" r="4" fill="#3465a4"><title>MacKinnon Dress</title></circle></a><circle cx="194.8" cy="269.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/db3g6ly1r3~x10/

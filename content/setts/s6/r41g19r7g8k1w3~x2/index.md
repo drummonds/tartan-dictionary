@@ -50,7 +50,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [MacGregor #3](/setts/s6/r36dg18r4dg6k1w2~x2/) — ΔT 0.47
-1. [MacGregor](/setts/s6/r36dg18r4dg6k1lb2~x2/) — ΔT 0.48
+1. [MacGregor](/setts/s6/r36dg18r4dg6k1lb2/) — ΔT 0.48
 1. [MacGregor](/setts/s6/r36g18r4g6k1w2~x2/) — ΔT 0.48
 1. [MacGregor - 1800 (Clan)](/setts/s6/r57g21r8g8k1w3~x2/) — ΔT 0.83
 1. [Greig (Personal)](/setts/s6/r60k2w3dg20r10dg20~x2/) — ΔT 0.89
@@ -58,12 +58,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Maxwell](/setts/s7/r3g16r4k6r28g1r3~x2/) — ΔT 1.18
 1. [Unidentified, Locket](/setts/s4/db4r50g25w2~x2/) — ΔT 1.18
 1. [Robertson](/setts/s6/r2dg20r2db8r36dg1~x2/) — ΔT 1.19
-1. [MacGregor](/setts/s6/r36dg18r4dg6k1lr2~x2/) — ΔT 1.19
+1. [Pride of Cleveland Fall](/setts/s7/r17dy5w1r5w7dy47r7~x2/) — ΔT 1.19
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r36dg18r4dg6k1w2~x2/"><circle cx="422.5" cy="134.4" r="4" fill="#3465a4"><title>MacGregor #3</title></circle></a><a href="/setts/s6/r36dg18r4dg6k1lb2~x2/"><circle cx="426.4" cy="139.8" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s6/r36g18r4g6k1w2~x2/"><circle cx="422.7" cy="138.9" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s6/r57g21r8g8k1w3~x2/"><circle cx="479.4" cy="120.8" r="4" fill="#3465a4"><title>MacGregor - 1800 (Clan)</title></circle></a><a href="/setts/s6/r60k2w3dg20r10dg20~x2/"><circle cx="420.0" cy="151.1" r="4" fill="#3465a4"><title>Greig (Personal)</title></circle></a><a href="/setts/s6/g10r4g46r69k2w6/"><circle cx="379.6" cy="129.2" r="4" fill="#3465a4"><title>Colchester &amp; District Pipes &amp; Drums</title></circle></a><a href="/setts/s7/r3g16r4k6r28g1r3~x2/"><circle cx="437.3" cy="163.5" r="4" fill="#3465a4"><title>Maxwell</title></circle></a><a href="/setts/s4/db4r50g25w2~x2/"><circle cx="420.3" cy="182.0" r="4" fill="#3465a4"><title>Unidentified, Locket</title></circle></a><a href="/setts/s6/r2dg20r2db8r36dg1~x2/"><circle cx="425.3" cy="154.2" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/setts/s6/r36dg18r4dg6k1lr2~x2/"><circle cx="451.4" cy="156.5" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><circle cx="428.9" cy="138.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r36dg18r4dg6k1w2~x2/"><circle cx="422.0" cy="134.2" r="4" fill="#3465a4"><title>MacGregor #3</title></circle></a><a href="/setts/s6/r36dg18r4dg6k1lb2/"><circle cx="426.0" cy="139.6" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s6/r36g18r4g6k1w2~x2/"><circle cx="422.3" cy="138.7" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s6/r57g21r8g8k1w3~x2/"><circle cx="478.8" cy="120.5" r="4" fill="#3465a4"><title>MacGregor - 1800 (Clan)</title></circle></a><a href="/setts/s6/r60k2w3dg20r10dg20~x2/"><circle cx="419.6" cy="150.9" r="4" fill="#3465a4"><title>Greig (Personal)</title></circle></a><a href="/setts/s6/g10r4g46r69k2w6/"><circle cx="379.0" cy="129.0" r="4" fill="#3465a4"><title>Colchester &amp; District Pipes &amp; Drums</title></circle></a><a href="/setts/s7/r3g16r4k6r28g1r3~x2/"><circle cx="436.9" cy="163.2" r="4" fill="#3465a4"><title>Maxwell</title></circle></a><a href="/setts/s4/db4r50g25w2~x2/"><circle cx="419.9" cy="181.7" r="4" fill="#3465a4"><title>Unidentified, Locket</title></circle></a><a href="/setts/s6/r2dg20r2db8r36dg1~x2/"><circle cx="424.9" cy="154.0" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/setts/s7/r17dy5w1r5w7dy47r7~x2/"><circle cx="417.9" cy="123.7" r="4" fill="#3465a4"><title>Pride of Cleveland Fall</title></circle></a><circle cx="428.4" cy="137.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r41g19r7g8k1w3~x2/

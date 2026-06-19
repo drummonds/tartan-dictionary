@@ -21,21 +21,21 @@ GRGRGBYR
 Grouped by stripe pattern — the 3 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DG R DG R DG DB LY R <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG R DG R DG DB LY R</span></span>
-
-| Tartans |
-|---------------|
-| [U.S. Marine Corps (Military?)](/setts/s8/dg40r3dg4r3dg12db32ly4r3~x2/)|
-|![U.S. Marine Corps (Military?) example sett](/setts/s8/dg40r3dg4r3dg12db32ly4r3~x2/sett.png)|
-
-### G R G R G DB LO R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="seq">G R G R G DB LO R</span></span>
+### R LO DB G R G R G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R LO DB G R G R G</span></span>
 
 | Tartans |
 |---------------|
 | [US Marine Corps](/setts/s8/g40r3g4r3g12db32lo4r3~x2/)|
 |![US Marine Corps example sett](/setts/s8/g40r3g4r3g12db32lo4r3~x2/sett.png)|
 
-### G R G R G DB LY R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">G R G R G DB LY R</span></span>
+### R LY DB DG R DG R DG <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">R LY DB DG R DG R DG</span></span>
+
+| Tartans |
+|---------------|
+| [U.S. Marine Corps (Military?)](/setts/s8/dg40r3dg4r3dg12db32ly4r3~x2/)|
+|![U.S. Marine Corps (Military?) example sett](/setts/s8/dg40r3dg4r3dg12db32ly4r3~x2/sett.png)|
+
+### R LY DB G R G R G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R LY DB G R G R G</span></span>
 
 | Tartans |
 |---------------|

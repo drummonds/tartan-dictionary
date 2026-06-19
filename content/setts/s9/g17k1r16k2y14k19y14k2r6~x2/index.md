@@ -2,7 +2,7 @@
 title: "Borthwick"
 date: 2023-03-18
 ---
-**Bands:** [GKRKGKGKR](/stripes/gkrkgkgkr/) · **Stripes:** [G K R K Y K Y K R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">G K R K Y K Y K R</span></span>
+**Bands:** [RKGKGKRKG](/stripes/rkgkgkrkg/) · **Stripes:** [R K Y K Y K R K G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R K Y K Y K R K G</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-DR/12 K4 N28 K38 N28 K4 DR32 K2 G/34
+G/34 K2 DR32 K4 N28 K38 N28 K4 DR/12
 ![Sett](sett.png)
 
 ## Palette
@@ -918,12 +921,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Prince Edward Island #2](/setts/s7/w2k1dg16k12r12k1w2~x2/) — ΔT 1.21
 1. [MacBrine (Name)](/setts/s11/k4r6g8r16k6db10k2db10k2g8ly1~x2/) — ΔT 1.26
 1. [Bowie](/setts/s12/db9r3db3r5db16r2k17g16r5g3ly1g9~x2/) — ΔT 1.27
-1. [Dalveen (1981)](/setts/s8/dy3g2dy10g1w11k10g2k3~x6/) — ΔT 1.28
+1. [Dalveen (1981)](/setts/s8/k3g2k10w11g1dy10g2dy3~x6/) — ΔT 1.28
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg17k1r16k2y14k19y14k2r6/"><circle cx="148.8" cy="172.3" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s9/dg12k1r10k2y10k14y10k2r4~x2/"><circle cx="133.8" cy="187.2" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/setts/s9/dg17k1dr16k2y14k19y14k2dr6~x2/"><circle cx="154.6" cy="181.7" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s9/dg17k1dr16k2y14k19y14k2dr6/"><circle cx="154.6" cy="181.7" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s9/dg12k1dr10k2y10k14y10k2dr4~x2/"><circle cx="138.8" cy="195.4" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/setts/s9/g17k1r16k2o14k19o14k2r6~x2/"><circle cx="170.7" cy="184.1" r="4" fill="#3465a4"><title>Borthwick (Clan)</title></circle></a><a href="/setts/s7/w2k1dg16k12r12k1w2~x2/"><circle cx="191.6" cy="167.4" r="4" fill="#3465a4"><title>Prince Edward Island #2</title></circle></a><a href="/setts/s11/k4r6g8r16k6db10k2db10k2g8ly1~x2/"><circle cx="123.9" cy="162.3" r="4" fill="#3465a4"><title>MacBrine (Name)</title></circle></a><a href="/setts/s12/db9r3db3r5db16r2k17g16r5g3ly1g9~x2/"><circle cx="129.1" cy="146.2" r="4" fill="#3465a4"><title>Bowie</title></circle></a><a href="/setts/s8/dy3g2dy10g1w11k10g2k3~x6/"><circle cx="126.3" cy="181.6" r="4" fill="#3465a4"><title>Dalveen (1981)</title></circle></a><circle cx="142.1" cy="171.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg17k1r16k2y14k19y14k2r6/"><circle cx="148.9" cy="172.3" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s9/dg12k1r10k2y10k14y10k2r4~x2/"><circle cx="133.9" cy="187.2" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/setts/s9/dg17k1dr16k2y14k19y14k2dr6~x2/"><circle cx="154.8" cy="181.7" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s9/dg17k1dr16k2y14k19y14k2dr6/"><circle cx="154.8" cy="181.7" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s9/dg12k1dr10k2y10k14y10k2dr4~x2/"><circle cx="139.0" cy="195.4" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/setts/s9/g17k1r16k2o14k19o14k2r6~x2/"><circle cx="170.7" cy="184.2" r="4" fill="#3465a4"><title>Borthwick (Clan)</title></circle></a><a href="/setts/s7/w2k1dg16k12r12k1w2~x2/"><circle cx="191.5" cy="167.4" r="4" fill="#3465a4"><title>Prince Edward Island #2</title></circle></a><a href="/setts/s11/k4r6g8r16k6db10k2db10k2g8ly1~x2/"><circle cx="123.9" cy="162.4" r="4" fill="#3465a4"><title>MacBrine (Name)</title></circle></a><a href="/setts/s12/db9r3db3r5db16r2k17g16r5g3ly1g9~x2/"><circle cx="129.1" cy="146.3" r="4" fill="#3465a4"><title>Bowie</title></circle></a><a href="/setts/s8/k3g2k10w11g1dy10g2dy3~x6/"><circle cx="126.2" cy="181.6" r="4" fill="#3465a4"><title>Dalveen (1981)</title></circle></a><circle cx="142.2" cy="171.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/g17k1r16k2y14k19y14k2r6~x2/

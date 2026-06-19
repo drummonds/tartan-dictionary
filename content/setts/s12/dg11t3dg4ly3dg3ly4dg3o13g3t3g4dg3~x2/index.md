@@ -2,7 +2,7 @@
 title: "Harmony, 2 & 3"
 date: 2023-03-18
 ---
-**Bands:** [GBGYGYGRGBGG](/stripes/gbgygygrgbgg/) · **Stripes:** [DG T DG LY DG LY DG O G T G DG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="seq">DG T DG LY DG LY DG O G T G DG</span></span>
+**Bands:** [GGBGRGYGYGBG](/stripes/ggbgrgygygbg/) · **Stripes:** [DG G T G O DG LY DG LY DG T DG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#053819"></span><span class="seq">DG G T G O DG LY DG LY DG T DG</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,14 +913,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Mandela Commemorative](/setts/s12/g8ly2k6g11r2dt12k12r2k6ly2k4r3~x2/) — ΔT 1.13
 1. [Wilcox, Yu, Cruikshank Reunion](/setts/s12/y3g12k5g2k5y2r2y2k5g12w2y3~x2/) — ΔT 1.16
 1. [Gayre, dress](/setts/s15/t14g4k4w4g12t4g12w4k4r6g4w4g3t4k4~x2/) — ΔT 1.25
-1. [CSCA](/setts/s14/g5r4g19k10g8w4db18r4db18w4g8k10g19r4~x2/) — ΔT 1.29
+1. [CSCA](/setts/s14/g5r4g19k10g8w4db18r4~x2/) — ΔT 1.29
 1. [Gayre](/setts/s15/lb20g4k4lb4g16lb4g16lb4k4r6g4lb4g3r6k4~x2/) — ΔT 1.31
-1. [Fraser Hunting Dress](/setts/s11/b4do15g11do3lb11do3lb11do3g11do15r4~x2/) — ΔT 1.32
+1. [Fraser Hunting Dress](/setts/s11/r4do15g11do3lb11do3lb11do3g11do15b4~x2/) — ΔT 1.31
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dg11t3dg4ly3dg3ly4dg3dy13g3t3g4dg3~x2/"><circle cx="117.4" cy="208.2" r="4" fill="#3465a4"><title>Harmony 2 &amp; 3</title></circle></a><a href="/setts/s15/y14g4k4w4g12y4g12w4k4r6g4w4g3y4k4~x2/"><circle cx="81.5" cy="190.9" r="4" fill="#3465a4"><title>Gayre Dress (Clan)</title></circle></a><a href="/setts/s15/db18g4k4w4g16db4g16w4k4r5g4w4g4r5k4~x2/"><circle cx="106.9" cy="178.4" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/setts/s13/y5dp1y1dp1y1dg3y3dg1y3dg3ly3ly1ly1~x4/"><circle cx="164.9" cy="210.3" r="4" fill="#3465a4"><title>Balmoral Hotel Edinburgh</title></circle></a><a href="/setts/s12/g8ly2k6g11r2dt12k12r2k6ly2k4r3~x2/"><circle cx="111.2" cy="193.5" r="4" fill="#3465a4"><title>Mandela Commemorative</title></circle></a><a href="/setts/s12/y3g12k5g2k5y2r2y2k5g12w2y3~x2/"><circle cx="189.2" cy="200.3" r="4" fill="#3465a4"><title>Wilcox, Yu, Cruikshank Reunion</title></circle></a><a href="/setts/s15/t14g4k4w4g12t4g12w4k4r6g4w4g3t4k4~x2/"><circle cx="72.7" cy="189.5" r="4" fill="#3465a4"><title>Gayre, dress</title></circle></a><a href="/setts/s14/g5r4g19k10g8w4db18r4db18w4g8k10g19r4~x2/"><circle cx="123.3" cy="205.2" r="4" fill="#3465a4"><title>CSCA</title></circle></a><a href="/setts/s15/lb20g4k4lb4g16lb4g16lb4k4r6g4lb4g3r6k4~x2/"><circle cx="119.1" cy="160.7" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/setts/s11/b4do15g11do3lb11do3lb11do3g11do15r4~x2/"><circle cx="121.1" cy="208.7" r="4" fill="#3465a4"><title>Fraser Hunting Dress</title></circle></a><circle cx="116.6" cy="204.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dg11t3dg4ly3dg3ly4dg3dy13g3t3g4dg3~x2/"><circle cx="117.4" cy="208.2" r="4" fill="#3465a4"><title>Harmony 2 &amp; 3</title></circle></a><a href="/setts/s15/y14g4k4w4g12y4g12w4k4r6g4w4g3y4k4~x2/"><circle cx="81.5" cy="190.9" r="4" fill="#3465a4"><title>Gayre Dress (Clan)</title></circle></a><a href="/setts/s15/db18g4k4w4g16db4g16w4k4r5g4w4g4r5k4~x2/"><circle cx="106.9" cy="178.4" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/setts/s13/y5dp1y1dp1y1dg3y3dg1y3dg3ly3ly1ly1~x4/"><circle cx="164.8" cy="210.3" r="4" fill="#3465a4"><title>Balmoral Hotel Edinburgh</title></circle></a><a href="/setts/s12/g8ly2k6g11r2dt12k12r2k6ly2k4r3~x2/"><circle cx="111.3" cy="193.6" r="4" fill="#3465a4"><title>Mandela Commemorative</title></circle></a><a href="/setts/s12/y3g12k5g2k5y2r2y2k5g12w2y3~x2/"><circle cx="189.2" cy="200.3" r="4" fill="#3465a4"><title>Wilcox, Yu, Cruikshank Reunion</title></circle></a><a href="/setts/s15/t14g4k4w4g12t4g12w4k4r6g4w4g3t4k4~x2/"><circle cx="72.7" cy="189.5" r="4" fill="#3465a4"><title>Gayre, dress</title></circle></a><a href="/setts/s14/g5r4g19k10g8w4db18r4~x2/"><circle cx="123.4" cy="205.2" r="4" fill="#3465a4"><title>CSCA</title></circle></a><a href="/setts/s15/lb20g4k4lb4g16lb4g16lb4k4r6g4lb4g3r6k4~x2/"><circle cx="118.9" cy="160.7" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/setts/s11/r4do15g11do3lb11do3lb11do3g11do15b4~x2/"><circle cx="121.1" cy="208.7" r="4" fill="#3465a4"><title>Fraser Hunting Dress</title></circle></a><circle cx="116.6" cy="205.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/dg11t3dg4ly3dg3ly4dg3o13g3t3g4dg3~x2/

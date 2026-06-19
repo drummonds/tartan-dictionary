@@ -8,7 +8,7 @@ BWRWYWB
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/db1w4ly1w1r1w4db1~x12/tartan.png)
+![Woven sample](/setts/s7/db1w4r1w1ly1w4db1~x12/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ BWRWYWB
 
 | Tartans |
 |---------------|
-| [Justus dress](/setts/s7/db1w4ly1w1r1w4db1~x12/)|
-|![Justus dress example sett](/setts/s7/db1w4ly1w1r1w4db1~x12/sett.png)|
+| [Justus dress](/setts/s7/db1w4r1w1ly1w4db1~x12/)|
+|![Justus dress example sett](/setts/s7/db1w4r1w1ly1w4db1~x12/sett.png)|
 

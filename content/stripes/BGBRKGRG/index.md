@@ -8,7 +8,7 @@ BGBRKGRG
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/g2r1g16k12r1t16g1t2/tartan.png)
+![Woven sample](/setts/s8/g2r1g16k12r1t16g1t2~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ BGBRKGRG
 
 
 
-### T G T R K G R G <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">T G T R K G R G</span></span>
+### G R G K R T G T <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="seq">G R G K R T G T</span></span>
 
 | Tartans |
 |---------------|
-| [Lochaber District](/setts/s8/g2r1g16k12r1t16g1t2/)|
-|![Lochaber District example sett](/setts/s8/g2r1g16k12r1t16g1t2/sett.png)|
+| [Lochaber District](/setts/s8/g2r1g16k12r1t16g1t2~x2/)|
+|![Lochaber District example sett](/setts/s8/g2r1g16k12r1t16g1t2~x2/sett.png)|
 

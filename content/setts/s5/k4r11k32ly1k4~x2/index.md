@@ -319,6 +319,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +420,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +680,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -918,7 +921,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Royal Army PTC Assoc. (Military)](/setts/s8/k59r3k6r3k8r15k2ly3~x2/) — ΔT 1.29
 1. [Perry / Pirrie (Personal)](/setts/s5/k75r26w2k4ly5~x2/) — ΔT 1.41
 1. [Lanoir](/setts/s6/k4r4k20r1k20w4~x6/) — ΔT 1.43
-1. [Sunderland of Scotland (Fashion)](/setts/s7/o1k21o5k3o5k9r1~x4/) — ΔT 1.45
+1. [Sunderland of Scotland (Fashion)](/setts/s7/r1k9o5k3o5k21o1~x4/) — ΔT 1.45
 1. [Dobelman (Personal)](/setts/s4/r1k20lb5r1~x4/) — ΔT 1.48
 1. [Merola (2016)](/setts/s6/k36ly5k1ly1lr5k12~x2/) — ΔT 1.51
 1. [Brand Ambassador](/setts/s9/r4k16w4k16r4k42r20k83r2/) — ΔT 1.51
@@ -926,8 +929,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k2w1k2r6k6r3k28w2~x2/"><circle cx="522.1" cy="156.5" r="4" fill="#3465a4"><title>Brockton</title></circle></a><a href="/setts/s5/k30r10ly1k8w3~x4/"><circle cx="459.8" cy="167.2" r="4" fill="#3465a4"><title>Union Fire Club Pipes and Drums</title></circle></a><a href="/setts/s8/k59r3k6r3k8r15k2ly3~x2/"><circle cx="540.2" cy="149.5" r="4" fill="#3465a4"><title>Royal Army PTC Assoc. (Military)</title></circle></a><a href="/setts/s5/k75r26w2k4ly5~x2/"><circle cx="473.8" cy="145.4" r="4" fill="#3465a4"><title>Perry / Pirrie (Personal)</title></circle></a><a href="/setts/s6/k4r4k20r1k20w4~x6/"><circle cx="538.5" cy="209.8" r="4" fill="#3465a4"><title>Lanoir</title></circle></a><a href="/setts/s7/o1k21o5k3o5k9r1~x4/"><circle cx="480.2" cy="194.5" r="4" fill="#3465a4"><title>Sunderland of Scotland (Fashion)</title></circle></a><a href="/setts/s4/r1k20lb5r1~x4/"><circle cx="479.6" cy="198.8" r="4" fill="#3465a4"><title>Dobelman (Personal)</title></circle></a><a href="/setts/s6/k36ly5k1ly1lr5k12~x2/"><circle cx="552.3" cy="162.1" r="4" fill="#3465a4"><title>Merola (2016)</title></circle></a><a href="/setts/s9/r4k16w4k16r4k42r20k83r2/"><circle cx="574.5" cy="146.6" r="4" fill="#3465a4"><title>Brand Ambassador</title></circle></a><a href="/setts/s6/k80r6g3r12k2w2~x2/"><circle cx="557.9" cy="131.6" r="4" fill="#3465a4"><title>Dellen</title></circle></a><circle cx="539.8" cy="185.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k2w1k2r6k6r3k28w2~x2/"><circle cx="521.9" cy="156.1" r="4" fill="#3465a4"><title>Brockton</title></circle></a><a href="/setts/s5/k30r10ly1k8w3~x4/"><circle cx="459.7" cy="166.9" r="4" fill="#3465a4"><title>Union Fire Club Pipes and Drums</title></circle></a><a href="/setts/s8/k59r3k6r3k8r15k2ly3~x2/"><circle cx="539.9" cy="149.2" r="4" fill="#3465a4"><title>Royal Army PTC Assoc. (Military)</title></circle></a><a href="/setts/s5/k75r26w2k4ly5~x2/"><circle cx="473.6" cy="145.1" r="4" fill="#3465a4"><title>Perry / Pirrie (Personal)</title></circle></a><a href="/setts/s6/k4r4k20r1k20w4~x6/"><circle cx="538.4" cy="209.3" r="4" fill="#3465a4"><title>Lanoir</title></circle></a><a href="/setts/s7/r1k9o5k3o5k21o1~x4/"><circle cx="480.1" cy="194.2" r="4" fill="#3465a4"><title>Sunderland of Scotland (Fashion)</title></circle></a><a href="/setts/s4/r1k20lb5r1~x4/"><circle cx="479.4" cy="198.4" r="4" fill="#3465a4"><title>Dobelman (Personal)</title></circle></a><a href="/setts/s6/k36ly5k1ly1lr5k12~x2/"><circle cx="552.1" cy="161.6" r="4" fill="#3465a4"><title>Merola (2016)</title></circle></a><a href="/setts/s9/r4k16w4k16r4k42r20k83r2/"><circle cx="574.3" cy="146.1" r="4" fill="#3465a4"><title>Brand Ambassador</title></circle></a><a href="/setts/s6/k80r6g3r12k2w2~x2/"><circle cx="557.6" cy="131.3" r="4" fill="#3465a4"><title>Dellen</title></circle></a><circle cx="539.6" cy="185.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/k4r11k32ly1k4~x2/

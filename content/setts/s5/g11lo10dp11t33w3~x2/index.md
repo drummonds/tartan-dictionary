@@ -9,6 +9,12 @@ This was sourced from house-of-tartan.  It is a [5 band tartan](/bands/bands5/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10653
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Sterling, Rob (Persona
+
 ## Thread count
 LG/22 Y20 N22 B66 W/6
 ![Sett](sett.png)
@@ -33,9 +39,9 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Sterling, Rob (Florida) (Personal)](/setts/s5/g11lo10dp11b33w3~x2/) — ΔT 0.71
-1. [Brodie Silver](/setts/s7/r3lb20o20n20k2n20r3~x2/) — ΔT 0.96
-1. [Brodie, Silver](/setts/s7/r3lb20y20n20ly2n20r3~x2/) — ΔT 0.98
-1. [Brodie Silver Clan Tartan Tartan Number: 1630. Earliest known date: c.1940-50 Probably a trade design based on Hunting Brodie, that has appeared in the last forty years. It is sometimes referred to as muted Brodie. (P.E. MacDonald, STS 1984) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r3lb20o20n20ly2n20r3~x2/) — ΔT 1.13
+1. [Brodie Silver](/setts/s7/r3n20k2n20o20lb20r3~x2/) — ΔT 0.96
+1. [Brodie, Silver](/setts/s7/r3n20ly2n20y20lb20r3~x2/) — ΔT 0.98
+1. [Brodie Silver Clan Tartan Tartan Number: 1630. Earliest known date: c.1940-50 Probably a trade design based on Hunting Brodie, that has appeared in the last forty years. It is sometimes referred to as muted Brodie. (P.E. MacDonald, STS 1984) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r3n20ly2n20o20lb20r3~x2/) — ΔT 1.13
 1. [Sterling (Name)](/setts/s5/g11lo10dt11b33w3~x2/) — ΔT 1.21
 1. [McHale (Personal)](/setts/s6/y15k10n30o11w3y5~x2/) — ΔT 1.23
 1. [S.I.D.E. (Corporate)](/setts/s5/ly15r9t30w3db4~x2/) — ΔT 1.28
@@ -45,8 +51,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/g11lo10dp11b33w3~x2/"><circle cx="229.6" cy="213.6" r="4" fill="#3465a4"><title>Sterling, Rob (Florida) (Personal)</title></circle></a><a href="/setts/s7/r3lb20o20n20k2n20r3~x2/"><circle cx="220.2" cy="207.2" r="4" fill="#3465a4"><title>Brodie Silver</title></circle></a><a href="/setts/s7/r3lb20y20n20ly2n20r3~x2/"><circle cx="221.7" cy="207.7" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><a href="/setts/s7/r3lb20o20n20ly2n20r3~x2/"><circle cx="236.7" cy="214.7" r="4" fill="#3465a4"><title>Brodie Silver Clan Tartan Tartan Number: 1630. Earliest known date: c.1940-50 Probably a trade design based on Hunting Brodie, that has appeared in the last forty years. It is sometimes referred to as muted Brodie. (P.E. MacDonald, STS 1984) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/g11lo10dt11b33w3~x2/"><circle cx="229.0" cy="218.8" r="4" fill="#3465a4"><title>Sterling (Name)</title></circle></a><a href="/setts/s6/y15k10n30o11w3y5~x2/"><circle cx="200.7" cy="217.9" r="4" fill="#3465a4"><title>McHale (Personal)</title></circle></a><a href="/setts/s5/ly15r9t30w3db4~x2/"><circle cx="231.1" cy="193.0" r="4" fill="#3465a4"><title>S.I.D.E. (Corporate)</title></circle></a><a href="/setts/s6/db30ly3dy11ly3y33r6~x2/"><circle cx="214.4" cy="196.7" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/setts/s5/db9w4g36t36r4~x2/"><circle cx="221.4" cy="220.2" r="4" fill="#3465a4"><title>Alvis of Lee (Personal)</title></circle></a><a href="/setts/s6/t4dg16ly2dp7t28w4~x2/"><circle cx="274.0" cy="181.7" r="4" fill="#3465a4"><title>Manx Laxey (Blue)</title></circle></a><circle cx="242.8" cy="214.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/g11lo10dp11b33w3~x2/"><circle cx="229.5" cy="213.6" r="4" fill="#3465a4"><title>Sterling, Rob (Florida) (Personal)</title></circle></a><a href="/setts/s7/r3n20k2n20o20lb20r3~x2/"><circle cx="220.1" cy="207.2" r="4" fill="#3465a4"><title>Brodie Silver</title></circle></a><a href="/setts/s7/r3n20ly2n20y20lb20r3~x2/"><circle cx="221.5" cy="207.7" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><a href="/setts/s7/r3n20ly2n20o20lb20r3~x2/"><circle cx="236.6" cy="214.8" r="4" fill="#3465a4"><title>Brodie Silver Clan Tartan Tartan Number: 1630. Earliest known date: c.1940-50 Probably a trade design based on Hunting Brodie, that has appeared in the last forty years. It is sometimes referred to as muted Brodie. (P.E. MacDonald, STS 1984) See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/g11lo10dt11b33w3~x2/"><circle cx="229.0" cy="218.8" r="4" fill="#3465a4"><title>Sterling (Name)</title></circle></a><a href="/setts/s6/y15k10n30o11w3y5~x2/"><circle cx="200.7" cy="218.0" r="4" fill="#3465a4"><title>McHale (Personal)</title></circle></a><a href="/setts/s5/ly15r9t30w3db4~x2/"><circle cx="230.9" cy="192.9" r="4" fill="#3465a4"><title>S.I.D.E. (Corporate)</title></circle></a><a href="/setts/s6/db30ly3dy11ly3y33r6~x2/"><circle cx="214.3" cy="196.8" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/setts/s5/db9w4g36t36r4~x2/"><circle cx="221.4" cy="220.1" r="4" fill="#3465a4"><title>Alvis of Lee (Personal)</title></circle></a><a href="/setts/s6/t4dg16ly2dp7t28w4~x2/"><circle cx="273.9" cy="181.6" r="4" fill="#3465a4"><title>Manx Laxey (Blue)</title></circle></a><circle cx="242.7" cy="214.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/g11lo10dp11t33w3~x2/

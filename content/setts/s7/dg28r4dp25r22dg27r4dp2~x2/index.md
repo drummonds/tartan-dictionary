@@ -2,7 +2,7 @@
 title: "Glasgow, Ciity of (District)"
 date: 2023-03-18
 ---
-**Bands:** [BRGRBRG](/stripes/brgrbrg/) · **Stripes:** [DP R DG R DP R DG](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="seq">DP R DG R DP R DG</span></span>
+**Bands:** [GRBRGRB](/stripes/grbrgrb/) · **Stripes:** [DG R DP R DG R DP](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">DG R DP R DG R DP</span></span>
 
 
 This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
@@ -17,7 +17,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-DP/4 R8 G54 R44 DP50 R8 G/56
+G/56 R8 DP50 R44 G54 R8 DP/4
 ![Sett](sett.png)
 
 ## Palette
@@ -31,7 +31,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DP/4 R8 G54 R44 DP50 R8 G/56 tartan")
+![Tartan detail](tartan.png "G/56 R8 DP50 R44 G54 R8 DP/4 tartan")
 
 ## Nearest tartans
 
@@ -44,14 +44,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Fraser Green](/setts/s6/lb2dr12g6dr1n6dr1~x4/) — ΔT 1.16
 1. [Glasgow (Error)](/setts/s11/db1r2g12r10db12r2g12r10g12r2db1~x4/) — ΔT 1.16
 1. [MacQuarrie LO](/setts/s7/r6dg16r4db12r16b1r2~x2/) — ΔT 1.19
-1. [MacQuarrie LO](/setts/s7/r6dg16r4db12r16b1r2/) — ΔT 1.19
 1. [MacQuarrie 2](/setts/s7/r6g16r4db12r16t1r2~x2/) — ΔT 1.19
 1. [Edinchat](/setts/s6/db2o28g13o2db13o2~x4/) — ΔT 1.24
+1. [MacFadyan (MacGregor Hastie)](/setts/s7/db3r25db17r5g22r9db3~x2/) — ΔT 1.25
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g28r4dp25r22g27r4dp2~x2/"><circle cx="299.0" cy="224.0" r="4" fill="#3465a4"><title>Glasgow, City of</title></circle></a><a href="/setts/s7/db9r6dg2r6dg18r6dg2~x2/"><circle cx="277.2" cy="246.2" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/setts/s7/db6r3g1r3g12r3g1~x4/"><circle cx="299.0" cy="216.8" r="4" fill="#3465a4"><title>Skene - 1831 (Clan)</title></circle></a><a href="/setts/s7/db9r6dg2r6dg18r6dg2/"><circle cx="256.1" cy="233.4" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/setts/s6/lb2dr12g6dr1n6dr1~x4/"><circle cx="288.5" cy="212.2" r="4" fill="#3465a4"><title>Fraser Green</title></circle></a><a href="/setts/s11/db1r2g12r10db12r2g12r10g12r2db1~x4/"><circle cx="278.0" cy="210.8" r="4" fill="#3465a4"><title>Glasgow (Error)</title></circle></a><a href="/setts/s7/r6dg16r4db12r16b1r2~x2/"><circle cx="289.8" cy="200.6" r="4" fill="#3465a4"><title>MacQuarrie LO</title></circle></a><a href="/setts/s7/r6dg16r4db12r16b1r2/"><circle cx="289.8" cy="200.6" r="4" fill="#3465a4"><title>MacQuarrie LO</title></circle></a><a href="/setts/s7/r6g16r4db12r16t1r2~x2/"><circle cx="288.9" cy="195.3" r="4" fill="#3465a4"><title>MacQuarrie 2</title></circle></a><a href="/setts/s6/db2o28g13o2db13o2~x4/"><circle cx="348.6" cy="208.4" r="4" fill="#3465a4"><title>Edinchat</title></circle></a><circle cx="306.4" cy="229.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g28r4dp25r22g27r4dp2~x2/"><circle cx="298.8" cy="223.8" r="4" fill="#3465a4"><title>Glasgow, City of</title></circle></a><a href="/setts/s7/db9r6dg2r6dg18r6dg2~x2/"><circle cx="277.2" cy="246.1" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/setts/s7/db6r3g1r3g12r3g1~x4/"><circle cx="298.8" cy="216.7" r="4" fill="#3465a4"><title>Skene - 1831 (Clan)</title></circle></a><a href="/setts/s7/db9r6dg2r6dg18r6dg2/"><circle cx="256.1" cy="233.3" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/setts/s6/lb2dr12g6dr1n6dr1~x4/"><circle cx="288.5" cy="212.1" r="4" fill="#3465a4"><title>Fraser Green</title></circle></a><a href="/setts/s11/db1r2g12r10db12r2g12r10g12r2db1~x4/"><circle cx="277.9" cy="210.7" r="4" fill="#3465a4"><title>Glasgow (Error)</title></circle></a><a href="/setts/s7/r6dg16r4db12r16b1r2~x2/"><circle cx="289.7" cy="200.6" r="4" fill="#3465a4"><title>MacQuarrie LO</title></circle></a><a href="/setts/s7/r6g16r4db12r16t1r2~x2/"><circle cx="288.7" cy="195.2" r="4" fill="#3465a4"><title>MacQuarrie 2</title></circle></a><a href="/setts/s6/db2o28g13o2db13o2~x4/"><circle cx="348.3" cy="208.3" r="4" fill="#3465a4"><title>Edinchat</title></circle></a><a href="/setts/s7/db3r25db17r5g22r9db3~x2/"><circle cx="266.1" cy="233.3" r="4" fill="#3465a4"><title>MacFadyan (MacGregor Hastie)</title></circle></a><circle cx="306.2" cy="229.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/dg28r4dp25r22dg27r4dp2~x2/

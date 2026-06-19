@@ -2,7 +2,7 @@
 title: "Inverary"
 date: 2023-03-18
 ---
-**Bands:** [GKBKWY](/stripes/gkbkwy/) · **Stripes:** [Y K DB K LB LO](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">Y K DB K LB LO</span></span>
+**Bands:** [YWKBKG](/stripes/ywkbkg/) · **Stripes:** [LO LB K DB K Y](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LO LB K DB K Y</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 772
 
 ## Thread count
-DY/6 N18 K6 DB26 K2 G/20
+G/20 K2 DB26 K6 N18 DY/6
 ![Sett](sett.png)
 
 ## Palette
@@ -42,7 +42,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DY/6 N18 K6 DB26 K2 G/20 tartan")
+![Tartan detail](tartan.png "G/20 K2 DB26 K6 N18 DY/6 tartan")
 
 ## Nearest tartans
 
@@ -51,18 +51,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Inverary Clan Tartan Tartan Number: 772. Earliest known date: pre 2003 From a miniature of Elizabeth Innes at (sic) Edingight from Adam See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/g10k1db13k3w9ly3~x2/) — ΔT 0.67
 1. [Inverary](/setts/s6/dg10k1db13k3w9ly3~x2/) — ΔT 0.76
 1. [Monaghan County Crest (Fashion)](/setts/s8/lo15db2lr8db21w2db21db6w7~x2/) — ΔT 0.87
-1. [Clunie (Name)](/setts/s6/ly6k2o11k7db24w6~x2/) — ΔT 0.90
+1. [Clunie (Name)](/setts/s6/w6db24k7o11k2ly6~x2/) — ΔT 0.90
 1. [McEachern, Andrew](/setts/s6/do7w1r6db10g10w1~x4/) — ΔT 0.95
 1. [Commonwealth Games Council (Corp.)](/setts/s6/m3k17n11m2o20w2~x2/) — ΔT 1.04
-1. [Soroptimist International (Corporate](/setts/s6/lo2b12k6m10k1w2~x2/) — ΔT 1.08
+1. [Soroptimist International (Corporate](/setts/s6/w2k1m10k6b12lo2~x2/) — ΔT 1.08
 1. [Antigonish Centennial](/setts/s9/k4lb2db5lb7db9g14o4g1o4~x2/) — ΔT 1.10
 1. [Kuznetsov (2014)](/setts/s7/db49ly12r12ly12dg32w8db3/) — ΔT 1.12
 1. [Ritchie, Stephen James (Personal)](/setts/s7/t4n19lr2k19n2lr25lb2~x2/) — ΔT 1.22
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g10k1db13k3w9ly3~x2/"><circle cx="106.8" cy="181.0" r="4" fill="#3465a4"><title>Inverary Clan Tartan Tartan Number: 772. Earliest known date: pre 2003 From a miniature of Elizabeth Innes at (sic) Edingight from Adam See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/dg10k1db13k3w9ly3~x2/"><circle cx="103.3" cy="179.7" r="4" fill="#3465a4"><title>Inverary</title></circle></a><a href="/setts/s8/lo15db2lr8db21w2db21db6w7~x2/"><circle cx="110.0" cy="178.4" r="4" fill="#3465a4"><title>Monaghan County Crest (Fashion)</title></circle></a><a href="/setts/s6/ly6k2o11k7db24w6~x2/"><circle cx="154.7" cy="176.4" r="4" fill="#3465a4"><title>Clunie (Name)</title></circle></a><a href="/setts/s6/do7w1r6db10g10w1~x4/"><circle cx="104.5" cy="209.9" r="4" fill="#3465a4"><title>McEachern, Andrew</title></circle></a><a href="/setts/s6/m3k17n11m2o20w2~x2/"><circle cx="160.1" cy="191.2" r="4" fill="#3465a4"><title>Commonwealth Games Council (Corp.)</title></circle></a><a href="/setts/s6/lo2b12k6m10k1w2~x2/"><circle cx="164.2" cy="188.5" r="4" fill="#3465a4"><title>Soroptimist International (Corporate</title></circle></a><a href="/setts/s9/k4lb2db5lb7db9g14o4g1o4~x2/"><circle cx="100.3" cy="172.4" r="4" fill="#3465a4"><title>Antigonish Centennial</title></circle></a><a href="/setts/s7/db49ly12r12ly12dg32w8db3/"><circle cx="157.0" cy="152.3" r="4" fill="#3465a4"><title>Kuznetsov (2014)</title></circle></a><a href="/setts/s7/t4n19lr2k19n2lr25lb2~x2/"><circle cx="175.7" cy="167.6" r="4" fill="#3465a4"><title>Ritchie, Stephen James (Personal)</title></circle></a><circle cx="117.4" cy="184.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g10k1db13k3w9ly3~x2/"><circle cx="106.9" cy="181.0" r="4" fill="#3465a4"><title>Inverary Clan Tartan Tartan Number: 772. Earliest known date: pre 2003 From a miniature of Elizabeth Innes at (sic) Edingight from Adam See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/dg10k1db13k3w9ly3~x2/"><circle cx="103.3" cy="179.7" r="4" fill="#3465a4"><title>Inverary</title></circle></a><a href="/setts/s8/lo15db2lr8db21w2db21db6w7~x2/"><circle cx="110.1" cy="178.5" r="4" fill="#3465a4"><title>Monaghan County Crest (Fashion)</title></circle></a><a href="/setts/s6/w6db24k7o11k2ly6~x2/"><circle cx="154.7" cy="176.3" r="4" fill="#3465a4"><title>Clunie (Name)</title></circle></a><a href="/setts/s6/do7w1r6db10g10w1~x4/"><circle cx="104.6" cy="209.9" r="4" fill="#3465a4"><title>McEachern, Andrew</title></circle></a><a href="/setts/s6/m3k17n11m2o20w2~x2/"><circle cx="160.2" cy="191.2" r="4" fill="#3465a4"><title>Commonwealth Games Council (Corp.)</title></circle></a><a href="/setts/s6/w2k1m10k6b12lo2~x2/"><circle cx="164.2" cy="188.5" r="4" fill="#3465a4"><title>Soroptimist International (Corporate</title></circle></a><a href="/setts/s9/k4lb2db5lb7db9g14o4g1o4~x2/"><circle cx="100.4" cy="172.5" r="4" fill="#3465a4"><title>Antigonish Centennial</title></circle></a><a href="/setts/s7/db49ly12r12ly12dg32w8db3/"><circle cx="157.0" cy="152.3" r="4" fill="#3465a4"><title>Kuznetsov (2014)</title></circle></a><a href="/setts/s7/t4n19lr2k19n2lr25lb2~x2/"><circle cx="175.6" cy="167.6" r="4" fill="#3465a4"><title>Ritchie, Stephen James (Personal)</title></circle></a><circle cx="117.5" cy="184.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/y10k1db13k3lb9lo3~x2/

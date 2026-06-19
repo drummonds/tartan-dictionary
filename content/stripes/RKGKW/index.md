@@ -8,7 +8,7 @@ RKGKW
 
 It is a 5 band tartan.
 
-![Woven sample](/setts/s5/lb3k1dg1k1r3~x4/tartan.png)
+![Woven sample](/setts/s5/r3k1dg1k1lb3~x4/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RKGKW
 
 | Tartans |
 |---------------|
-| [Clark](/setts/s5/lb3k1dg1k1r3~x4/)|
-|![Clark example sett](/setts/s5/lb3k1dg1k1r3~x4/sett.png)|
+| [Clark](/setts/s5/r3k1dg1k1lb3~x4/)|
+|![Clark example sett](/setts/s5/r3k1dg1k1lb3~x4/sett.png)|
 

@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 DB20 Ba24 B22 R6 B22 R/4
+R/4 B22 R6 B22 Ba24 DB20 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -908,7 +911,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/4 DB20 Ba24 B22 R6 B22 R/4 tartan")
+![Tartan detail](tartan.png "R/4 B22 R6 B22 Ba24 DB20 LN/4 tartan")
 
 ## Nearest tartans
 
@@ -919,16 +922,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Hummelt, Katherine (Personal)](/setts/s8/db11dg10y6db7lt2db3dp10lt2~x2/) — ΔT 1.23
 1. [Benreay Medical Centre (Corporate)](/setts/s6/dp4r1b5dp4k6lb1~x4/) — ΔT 1.35
 1. [Greer (Name?)](/setts/s8/t16db3t3o3t3db10r12w4~x2/) — ΔT 1.41
-1. [Newmill](/setts/s7/ly5g20k13db42k13g20m5~x2/) — ΔT 1.41
-1. [Newmill Corporate Tartan Tartan Number: 2053. Earliest known date: March 1992 Designed to be used in the refurbishing of Johnstons of Elgin new mill shop and based on the colours of the mill shop house style. The lighter square is represented here as green from the 'Antique' colour range, a speciality of Johnstons of Elgin. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/lo5o20dt13db42dt13o20r5/) — ΔT 1.42
+1. [Newmill](/setts/s7/m5g20k13db42k13g20ly5~x2/) — ΔT 1.41
+1. [Newmill Corporate Tartan Tartan Number: 2053. Earliest known date: March 1992 Designed to be used in the refurbishing of Johnstons of Elgin new mill shop and based on the colours of the mill shop house style. The lighter square is represented here as green from the 'Antique' colour range, a speciality of Johnstons of Elgin. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r5o20dt13db42dt13o20lo5/) — ΔT 1.42
 1. [RSCDS Australia? (Corporate)](/setts/s5/r2db12k5t16w2~x4/) — ΔT 1.43
-1. [Brodie Countryfare (Corporate)](/setts/s7/db3k13db13db13w2db13w3~x2/) — ΔT 1.44
 1. [Cala Homes (Corporate)](/setts/s6/ly5db24k8db18ly6dy3/) — ΔT 1.44
+1. [Brodie Countryfare (Corporate)](/setts/s7/db3k13db13db13w2db13w3~x2/) — ΔT 1.44
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/n14r4n14t15db13w3~x2/"><circle cx="147.9" cy="261.9" r="4" fill="#3465a4"><title>Blue</title></circle></a><a href="/setts/s6/r9dt6db13dt21y18w4~x2/"><circle cx="122.8" cy="254.3" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><a href="/setts/s8/db11dg10y6db7lt2db3dp10lt2~x2/"><circle cx="108.3" cy="230.6" r="4" fill="#3465a4"><title>Hummelt, Katherine (Personal)</title></circle></a><a href="/setts/s6/dp4r1b5dp4k6lb1~x4/"><circle cx="142.4" cy="240.8" r="4" fill="#3465a4"><title>Benreay Medical Centre (Corporate)</title></circle></a><a href="/setts/s8/t16db3t3o3t3db10r12w4~x2/"><circle cx="124.6" cy="203.5" r="4" fill="#3465a4"><title>Greer (Name?)</title></circle></a><a href="/setts/s7/ly5g20k13db42k13g20m5~x2/"><circle cx="162.9" cy="220.6" r="4" fill="#3465a4"><title>Newmill</title></circle></a><a href="/setts/s7/lo5o20dt13db42dt13o20r5/"><circle cx="177.2" cy="218.3" r="4" fill="#3465a4"><title>Newmill Corporate Tartan Tartan Number: 2053. Earliest known date: March 1992 Designed to be used in the refurbishing of Johnstons of Elgin new mill shop and based on the colours of the mill shop house style. The lighter square is represented here as green from the 'Antique' colour range, a speciality of Johnstons of Elgin. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/r2db12k5t16w2~x4/"><circle cx="182.2" cy="214.6" r="4" fill="#3465a4"><title>RSCDS Australia? (Corporate)</title></circle></a><a href="/setts/s7/db3k13db13db13w2db13w3~x2/"><circle cx="194.8" cy="259.1" r="4" fill="#3465a4"><title>Brodie Countryfare (Corporate)</title></circle></a><a href="/setts/s6/ly5db24k8db18ly6dy3/"><circle cx="142.7" cy="211.6" r="4" fill="#3465a4"><title>Cala Homes (Corporate)</title></circle></a><circle cx="162.9" cy="237.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/n14r4n14t15db13w3~x2/"><circle cx="148.1" cy="261.9" r="4" fill="#3465a4"><title>Blue</title></circle></a><a href="/setts/s6/r9dt6db13dt21y18w4~x2/"><circle cx="123.0" cy="254.4" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><a href="/setts/s8/db11dg10y6db7lt2db3dp10lt2~x2/"><circle cx="108.6" cy="230.6" r="4" fill="#3465a4"><title>Hummelt, Katherine (Personal)</title></circle></a><a href="/setts/s6/dp4r1b5dp4k6lb1~x4/"><circle cx="142.6" cy="240.9" r="4" fill="#3465a4"><title>Benreay Medical Centre (Corporate)</title></circle></a><a href="/setts/s8/t16db3t3o3t3db10r12w4~x2/"><circle cx="124.6" cy="203.5" r="4" fill="#3465a4"><title>Greer (Name?)</title></circle></a><a href="/setts/s7/m5g20k13db42k13g20ly5~x2/"><circle cx="163.1" cy="220.7" r="4" fill="#3465a4"><title>Newmill</title></circle></a><a href="/setts/s7/r5o20dt13db42dt13o20lo5/"><circle cx="177.2" cy="218.3" r="4" fill="#3465a4"><title>Newmill Corporate Tartan Tartan Number: 2053. Earliest known date: March 1992 Designed to be used in the refurbishing of Johnstons of Elgin new mill shop and based on the colours of the mill shop house style. The lighter square is represented here as green from the 'Antique' colour range, a speciality of Johnstons of Elgin. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/r2db12k5t16w2~x4/"><circle cx="182.3" cy="214.5" r="4" fill="#3465a4"><title>RSCDS Australia? (Corporate)</title></circle></a><a href="/setts/s6/ly5db24k8db18ly6dy3/"><circle cx="142.8" cy="211.7" r="4" fill="#3465a4"><title>Cala Homes (Corporate)</title></circle></a><a href="/setts/s7/db3k13db13db13w2db13w3~x2/"><circle cx="195.1" cy="259.1" r="4" fill="#3465a4"><title>Brodie Countryfare (Corporate)</title></circle></a><circle cx="163.1" cy="237.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r2db11r3db11t12db10w2~x2/

@@ -22,6 +22,6 @@ GWKBKBKBRBRBRBKBKBKWGW
 
 | Tartans |
 |---------------|
-| [Sutherland Dress (Dance)](/setts/s22/w6g2w28k13b6k4b4k4b16r2b2r4b2r2b16k4b4k4b6k13w28g2~x2/)|
-|![Sutherland Dress (Dance) example sett](/setts/s22/w6g2w28k13b6k4b4k4b16r2b2r4b2r2b16k4b4k4b6k13w28g2~x2/sett.png)|
+| [Sutherland Dress (Dance)](/setts/s22/w6g2w28k13b6k4b4k4b16r2b2r4~x2/)|
+|![Sutherland Dress (Dance) example sett](/setts/s22/w6g2w28k13b6k4b4k4b16r2b2r4~x2/sett.png)|
 

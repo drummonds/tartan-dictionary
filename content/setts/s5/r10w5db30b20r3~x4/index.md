@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10928](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10928)
 
 ## Thread count
-R/12 Ba80 B120 W20 R/40
+R/40 W20 B120 Ba80 R/12
 ![Sett](sett.png)
 
 ## Palette
@@ -31,7 +31,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "R/12 Ba80 B120 W20 R/40 tartan")
+![Tartan detail](tartan.png "R/40 W20 B120 Ba80 R/12 tartan")
 
 ## Nearest tartans
 
@@ -50,8 +50,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r15w10db48t32r6~x2/"><circle cx="186.1" cy="223.0" r="4" fill="#3465a4"><title>Lands of Liberty (Fashion)</title></circle></a><a href="/setts/s5/r2db12k5t16w2~x4/"><circle cx="182.2" cy="214.6" r="4" fill="#3465a4"><title>RSCDS Australia? (Corporate)</title></circle></a><a href="/setts/s4/db10g10r5w1~x2/"><circle cx="178.2" cy="241.6" r="4" fill="#3465a4"><title>Thorntons Law (Corporate)</title></circle></a><a href="/setts/s5/lr2r1t7db7lb1~x8/"><circle cx="161.1" cy="211.8" r="4" fill="#3465a4"><title>Bryson (1988) (Name)</title></circle></a><a href="/setts/s6/k3lb10db2g6db18g2~x2/"><circle cx="227.2" cy="208.6" r="4" fill="#3465a4"><title>Crombie House Check</title></circle></a><a href="/setts/s6/b23dt18w5dt2r14dt18~x2/"><circle cx="223.8" cy="233.9" r="4" fill="#3465a4"><title>Pitt (Name)</title></circle></a><a href="/setts/s8/t57k5t9m29k18w9m9w5/"><circle cx="224.0" cy="166.8" r="4" fill="#3465a4"><title>Yale College, Wrexham</title></circle></a><a href="/setts/s6/ly2b9r2db6ly1r1~x4/"><circle cx="178.3" cy="194.7" r="4" fill="#3465a4"><title>Lauder Primary School</title></circle></a><a href="/setts/s7/t30dp15w4dg12w9t8w3~x2/"><circle cx="214.3" cy="206.5" r="4" fill="#3465a4"><title>Newall (Dumbarton) (Personal)</title></circle></a><a href="/setts/s5/db9ly9db9t23r3~x2/"><circle cx="194.6" cy="245.5" r="4" fill="#3465a4"><title>Tilburg (District)</title></circle></a><circle cx="210.6" cy="215.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r15w10db48t32r6~x2/"><circle cx="186.1" cy="222.9" r="4" fill="#3465a4"><title>Lands of Liberty (Fashion)</title></circle></a><a href="/setts/s5/r2db12k5t16w2~x4/"><circle cx="182.3" cy="214.5" r="4" fill="#3465a4"><title>RSCDS Australia? (Corporate)</title></circle></a><a href="/setts/s4/db10g10r5w1~x2/"><circle cx="178.3" cy="241.5" r="4" fill="#3465a4"><title>Thorntons Law (Corporate)</title></circle></a><a href="/setts/s5/lr2r1t7db7lb1~x8/"><circle cx="161.2" cy="211.8" r="4" fill="#3465a4"><title>Bryson (1988) (Name)</title></circle></a><a href="/setts/s6/k3lb10db2g6db18g2~x2/"><circle cx="227.3" cy="208.4" r="4" fill="#3465a4"><title>Crombie House Check</title></circle></a><a href="/setts/s6/b23dt18w5dt2r14dt18~x2/"><circle cx="223.8" cy="233.8" r="4" fill="#3465a4"><title>Pitt (Name)</title></circle></a><a href="/setts/s8/t57k5t9m29k18w9m9w5/"><circle cx="223.8" cy="166.7" r="4" fill="#3465a4"><title>Yale College, Wrexham</title></circle></a><a href="/setts/s6/ly2b9r2db6ly1r1~x4/"><circle cx="178.3" cy="194.6" r="4" fill="#3465a4"><title>Lauder Primary School</title></circle></a><a href="/setts/s7/t30dp15w4dg12w9t8w3~x2/"><circle cx="214.2" cy="206.4" r="4" fill="#3465a4"><title>Newall (Dumbarton) (Personal)</title></circle></a><a href="/setts/s5/db9ly9db9t23r3~x2/"><circle cx="194.6" cy="245.3" r="4" fill="#3465a4"><title>Tilburg (District)</title></circle></a><circle cx="210.6" cy="215.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/r10w5db30b20r3~x4/

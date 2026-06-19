@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Chisholm, hunting
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -893,7 +902,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-DR/6 G32 B4 G6 B4 G6 B14 DR64 LN4 DR/14
+DR/14 LN4 DR64 B14 G6 B4 G6 B4 G32 DR/6
 ![Sett](sett.png)
 
 ## Palette
@@ -923,8 +932,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/m7w2m32db7g3db2g3db2g16m3~x2/"><circle cx="350.5" cy="151.4" r="4" fill="#3465a4"><title>Chisholm Hunting (HSL) Clan Tartan Tartan Number: 1457. Earliest known date: c.1815 Possibly the true source of the Vestiarium Scoticum sett with crimson changed to red. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/r7r2db2r2g32r6db12r41g2r5r2g5~x2/"><circle cx="351.5" cy="135.0" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/setts/s10/o28k2o28k2o2k2dr29k2r2k2~x2/"><circle cx="369.5" cy="156.8" r="4" fill="#3465a4"><title>Ulster</title></circle></a><a href="/setts/s9/r4g15db8g4r48g4db8g4ly3~x2/"><circle cx="334.6" cy="140.9" r="4" fill="#3465a4"><title>Cruikshank (Name)</title></circle></a><a href="/setts/s10/r7w2r32db7dg3db2dg3db2dg16r3~x2/"><circle cx="368.5" cy="162.8" r="4" fill="#3465a4"><title>Chisholm Hunting</title></circle></a><a href="/setts/s11/g4r34dt20r4dt8r6db2r5dt2r3g4/"><circle cx="366.5" cy="144.7" r="4" fill="#3465a4"><title>Hughes (Welsh Name)</title></circle></a><a href="/setts/s12/g36r3g3r3db9r3t2r40db3r3db2r6~x2/"><circle cx="341.2" cy="117.0" r="4" fill="#3465a4"><title>MacLintock - 1880 (Clan)</title></circle></a><a href="/setts/s12/g38r3g3r3db9r3t2r40db3r3db2r6~x2/"><circle cx="338.2" cy="116.8" r="4" fill="#3465a4"><title>MacLintock</title></circle></a><a href="/setts/s11/r3db2r24db8dg2db2dg2db2dg10r3w2~x2/"><circle cx="317.3" cy="165.4" r="4" fill="#3465a4"><title>Waddell (Name)</title></circle></a><a href="/setts/s10/db2r30g8r3g8r6db4r3db12w2~x2/"><circle cx="315.7" cy="150.1" r="4" fill="#3465a4"><title>Jenkins (Name)</title></circle></a><circle cx="345.1" cy="151.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/m7w2m32db7g3db2g3db2g16m3~x2/"><circle cx="350.2" cy="151.3" r="4" fill="#3465a4"><title>Chisholm Hunting (HSL) Clan Tartan Tartan Number: 1457. Earliest known date: c.1815 Possibly the true source of the Vestiarium Scoticum sett with crimson changed to red. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/r7r2db2r2g32r6db12r41g2r5r2g5~x2/"><circle cx="351.2" cy="134.9" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/setts/s10/o28k2o28k2o2k2dr29k2r2k2~x2/"><circle cx="369.3" cy="156.7" r="4" fill="#3465a4"><title>Ulster</title></circle></a><a href="/setts/s9/r4g15db8g4r48g4db8g4ly3~x2/"><circle cx="334.2" cy="140.8" r="4" fill="#3465a4"><title>Cruikshank (Name)</title></circle></a><a href="/setts/s10/r7w2r32db7dg3db2dg3db2dg16r3~x2/"><circle cx="368.2" cy="162.8" r="4" fill="#3465a4"><title>Chisholm Hunting</title></circle></a><a href="/setts/s11/g4r34dt20r4dt8r6db2r5dt2r3g4/"><circle cx="366.1" cy="144.7" r="4" fill="#3465a4"><title>Hughes (Welsh Name)</title></circle></a><a href="/setts/s12/g36r3g3r3db9r3t2r40db3r3db2r6~x2/"><circle cx="340.8" cy="116.9" r="4" fill="#3465a4"><title>MacLintock - 1880 (Clan)</title></circle></a><a href="/setts/s12/g38r3g3r3db9r3t2r40db3r3db2r6~x2/"><circle cx="337.8" cy="116.7" r="4" fill="#3465a4"><title>MacLintock</title></circle></a><a href="/setts/s11/r3db2r24db8dg2db2dg2db2dg10r3w2~x2/"><circle cx="317.1" cy="165.4" r="4" fill="#3465a4"><title>Waddell (Name)</title></circle></a><a href="/setts/s10/db2r30g8r3g8r6db4r3db12w2~x2/"><circle cx="315.4" cy="150.0" r="4" fill="#3465a4"><title>Jenkins (Name)</title></circle></a><circle cx="344.8" cy="151.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r7w2r32db7g3db2g3db2g16r3~x2/

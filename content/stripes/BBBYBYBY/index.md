@@ -21,14 +21,14 @@ BBBYBYBY
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### N DB N LO DB LO DB LO <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">N DB N LO DB LO DB LO</span></span>
+### LO DB LO DB LO N DB N <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="seq">LO DB LO DB LO N DB N</span></span>
 
 | Tartans |
 |---------------|
 | [Chindecella Gorse (Personal)](/setts/s8/lo7db4lo2db4lo23n19db19n4~x2/)|
 |![Chindecella Gorse (Personal) example sett](/setts/s8/lo7db4lo2db4lo23n19db19n4~x2/sett.png)|
 
-### N DT N LO N LO N LO <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">N DT N LO N LO N LO</span></span>
+### LO N LO N LO N DT N <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#636363"></span><span class="seq">LO N LO N LO N DT N</span></span>
 
 | Tartans |
 |---------------|

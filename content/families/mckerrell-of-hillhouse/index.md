@@ -14,6 +14,5 @@ A family of [Clan McKerrell](/clan/mckerrell/).
 
 <ul class="tartan-grid">
 <li><a class="tartan" href="/setts/s4/w4t28db49ly3~x2/"><img src="/setts/s4/w4t28db49ly3~x2/sett.png" alt="McKerrell of Hillhouse" width="140"><br>McKerrell of Hillhouse</a></li>
-<li><a class="tartan" href="/setts/s4/w4o28t48ly3~x2/"><img src="/setts/s4/w4o28t48ly3~x2/sett.png" alt="McKerrell of Hillhouse Dress (Clan)" width="140"><br>McKerrell of Hillhouse Dress (Clan)</a></li>
 </ul>
 

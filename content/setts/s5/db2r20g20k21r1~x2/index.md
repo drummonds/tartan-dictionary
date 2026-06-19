@@ -2,7 +2,7 @@
 title: "Skene of Cromar"
 date: 2023-03-18
 ---
-**Bands:** [BRGKR](/stripes/brgkr/) · **Stripes:** [DB R G K R](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB R G K R</span></span>
+**Bands:** [RKGRB](/stripes/rkgrb/) · **Stripes:** [R K G R DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">R K G R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [5 band tartan](/bands/bands5/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -914,20 +917,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Skene of Cromar (1885)](/setts/s5/db2r20dg20k21r1~x2/) — ΔT 1.16
-1. [United Distillers (Corporate)](/setts/s6/ly2o14k14o1k14o2~x2/) — ΔT 1.18
+1. [United Distillers (Corporate)](/setts/s6/o2k14o1k14o14ly2~x2/) — ΔT 1.18
 1. [Logan, Dark](/setts/s7/k9r4k1r4g15r4k1~x2/) — ΔT 1.21
 1. [Prince Edward Island](/setts/s7/w2k1g16k12r12k1w2~x2/) — ΔT 1.23
-1. [Prince Edward Island #2](/setts/s7/w2k1dg16k12r12k1w2~x2/) — ΔT 1.32
-1. [Unidentified 12](/setts/s6/k6r2g17r16k1t2~x2/) — ΔT 1.41
-1. [United Distillers](/setts/s6/ly2o14k14o1dr14o2~x2/) — ΔT 1.48
+1. [Prince Edward Island #2](/setts/s7/w2k1dg16k12r12k1w2~x2/) — ΔT 1.33
+1. [Unidentified 12](/setts/s6/k6r2g17r16k1t2~x2/) — ΔT 1.42
+1. [United Distillers](/setts/s6/o2dr14o1k14o14ly2~x2/) — ΔT 1.48
 1. [Borthwick](/setts/s9/dg17k1r16k2y14k19y14k2r6/) — ΔT 1.50
-1. [MacMillan Variant (Unidentified)](/setts/s6/g3k31r17g6ly18k3~x2/) — ΔT 1.52
+1. [MacMillan Variant (Unidentified)](/setts/s6/k3ly18g6r17k31g3~x2/) — ΔT 1.52
 1. [Wcwm 1062](/setts/s7/g3r20g16k22lo6k3g2~x2/) — ΔT 1.54
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db2r20dg20k21r1~x2/"><circle cx="216.7" cy="198.2" r="4" fill="#3465a4"><title>Skene of Cromar (1885)</title></circle></a><a href="/setts/s6/ly2o14k14o1k14o2~x2/"><circle cx="179.7" cy="192.9" r="4" fill="#3465a4"><title>United Distillers (Corporate)</title></circle></a><a href="/setts/s7/k9r4k1r4g15r4k1~x2/"><circle cx="189.7" cy="172.7" r="4" fill="#3465a4"><title>Logan, Dark</title></circle></a><a href="/setts/s7/w2k1g16k12r12k1w2~x2/"><circle cx="171.9" cy="161.7" r="4" fill="#3465a4"><title>Prince Edward Island</title></circle></a><a href="/setts/s7/w2k1dg16k12r12k1w2~x2/"><circle cx="191.6" cy="167.4" r="4" fill="#3465a4"><title>Prince Edward Island #2</title></circle></a><a href="/setts/s6/k6r2g17r16k1t2~x2/"><circle cx="235.5" cy="170.6" r="4" fill="#3465a4"><title>Unidentified 12</title></circle></a><a href="/setts/s6/ly2o14k14o1dr14o2~x2/"><circle cx="204.6" cy="193.3" r="4" fill="#3465a4"><title>United Distillers</title></circle></a><a href="/setts/s9/dg17k1r16k2y14k19y14k2r6/"><circle cx="148.8" cy="172.3" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s6/g3k31r17g6ly18k3~x2/"><circle cx="180.0" cy="190.6" r="4" fill="#3465a4"><title>MacMillan Variant (Unidentified)</title></circle></a><a href="/setts/s7/g3r20g16k22lo6k3g2~x2/"><circle cx="179.7" cy="196.8" r="4" fill="#3465a4"><title>Wcwm 1062</title></circle></a><circle cx="187.0" cy="187.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db2r20dg20k21r1~x2/"><circle cx="216.8" cy="198.2" r="4" fill="#3465a4"><title>Skene of Cromar (1885)</title></circle></a><a href="/setts/s6/o2k14o1k14o14ly2~x2/"><circle cx="179.9" cy="192.8" r="4" fill="#3465a4"><title>United Distillers (Corporate)</title></circle></a><a href="/setts/s7/k9r4k1r4g15r4k1~x2/"><circle cx="189.7" cy="172.6" r="4" fill="#3465a4"><title>Logan, Dark</title></circle></a><a href="/setts/s7/w2k1g16k12r12k1w2~x2/"><circle cx="171.8" cy="161.6" r="4" fill="#3465a4"><title>Prince Edward Island</title></circle></a><a href="/setts/s7/w2k1dg16k12r12k1w2~x2/"><circle cx="191.5" cy="167.4" r="4" fill="#3465a4"><title>Prince Edward Island #2</title></circle></a><a href="/setts/s6/k6r2g17r16k1t2~x2/"><circle cx="235.4" cy="170.5" r="4" fill="#3465a4"><title>Unidentified 12</title></circle></a><a href="/setts/s6/o2dr14o1k14o14ly2~x2/"><circle cx="204.5" cy="193.2" r="4" fill="#3465a4"><title>United Distillers</title></circle></a><a href="/setts/s9/dg17k1r16k2y14k19y14k2r6/"><circle cx="148.9" cy="172.3" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s6/k3ly18g6r17k31g3~x2/"><circle cx="180.0" cy="190.4" r="4" fill="#3465a4"><title>MacMillan Variant (Unidentified)</title></circle></a><a href="/setts/s7/g3r20g16k22lo6k3g2~x2/"><circle cx="179.7" cy="196.8" r="4" fill="#3465a4"><title>Wcwm 1062</title></circle></a><circle cx="187.1" cy="187.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/db2r20g20k21r1~x2/

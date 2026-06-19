@@ -8,7 +8,7 @@ RBKYBW
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/lb1db5lo3k5db12r1~x4/tartan.png)
+![Woven sample](/setts/s6/r1db12k5lo3db5lb1~x4/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RBKYBW
 
 | Tartans |
 |---------------|
-| [Massachusetts (Unofficial)](/setts/s6/lb1db5lo3k5db12r1~x4/)|
-|![Massachusetts (Unofficial) example sett](/setts/s6/lb1db5lo3k5db12r1~x4/sett.png)|
+| [Massachusetts (Unofficial)](/setts/s6/r1db12k5lo3db5lb1~x4/)|
+|![Massachusetts (Unofficial) example sett](/setts/s6/r1db12k5lo3db5lb1~x4/sett.png)|
 

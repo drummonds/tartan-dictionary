@@ -2,7 +2,7 @@
 title: "Telfer Green"
 date: 2023-03-18
 ---
-**Bands:** [BBRBGGYG](/stripes/bbrbggyg/) · **Stripes:** [B DB R DB DG G LO G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">B DB R DB DG G LO G</span></span>
+**Bands:** [GYGGBRBB](/stripes/gyggbrbb/) · **Stripes:** [G LO G DG DB R DB B](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="seq">G LO G DG DB R DB B</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10095](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10095)
 
 ## Thread count
-B/4 DB10 DR32 DB12 G74 Ga10 DY4 Ga/14
+Ga/14 DY4 Ga10 G74 DB12 DR32 DB10 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -41,7 +41,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/4 DB10 DR32 DB12 G74 Ga10 DY4 Ga/14 tartan")
+![Tartan detail](tartan.png "Ga/14 DY4 Ga10 G74 DB12 DR32 DB10 B/4 tartan")
 
 ## Nearest tartans
 
@@ -56,12 +56,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Batten of Argyll (Baddenach)](/setts/s8/dp10k2dg10dp30dg30dg55k4r8/) — ΔT 1.31
 1. [New South Wales Waratah](/setts/s10/y12db2r2db2dt26dg2y3dg3y24r4~x2/) — ΔT 1.32
 1. [Wagland](/setts/s7/r3db6ly2db15dg12g39w3~x2/) — ΔT 1.34
-1. [Ogg of Tarragann Hunting (Personal)](/setts/s12/lo2g2lo1g10k6r1dy14r1dy14r1t6r2~x2/) — ΔT 1.40
+1. [Ogg of Tarragann Hunting (Personal)](/setts/s12/r2t6r1dy14r1dy14r1k6g10lo1g2lo2~x2/) — ΔT 1.40
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dg42lo2y16db7do16r5~x2/"><circle cx="302.4" cy="191.3" r="4" fill="#3465a4"><title>Waterford, County</title></circle></a><a href="/setts/s6/o3dg13dt13lo2dg34w3~x2/"><circle cx="302.3" cy="193.2" r="4" fill="#3465a4"><title>Glencross (Tynron) (Personal)</title></circle></a><a href="/setts/s8/m8k2y10dp30y30g55k4o6/"><circle cx="243.5" cy="150.8" r="4" fill="#3465a4"><title>Aberuchill District Tartan Tartan Number: 6814. Earliest known date: 2005 Aberuchill lends it name to the area south of Comrie where the river Ruchil meets the river Earn. The two rivers form the boundaries of the Aberuchill Estate for which this tartan was created. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/g15lo1do2db5k4dg5~x6/"><circle cx="266.2" cy="207.2" r="4" fill="#3465a4"><title>Dobson (Palm Bay) (Personal)</title></circle></a><a href="/setts/s9/dy7k1dg1r1k1r7dg15k1lo1~x4/"><circle cx="309.5" cy="174.1" r="4" fill="#3465a4"><title>Cozumel</title></circle></a><a href="/setts/s8/r4g46r10db10dy33db5dy4lo3~x2/"><circle cx="289.4" cy="194.8" r="4" fill="#3465a4"><title>State Seal of Minnesota (Fashion)</title></circle></a><a href="/setts/s8/dp10k2dg10dp30dg30dg55k4r8/"><circle cx="255.8" cy="167.7" r="4" fill="#3465a4"><title>Batten of Argyll (Baddenach)</title></circle></a><a href="/setts/s10/y12db2r2db2dt26dg2y3dg3y24r4~x2/"><circle cx="323.7" cy="184.2" r="4" fill="#3465a4"><title>New South Wales Waratah</title></circle></a><a href="/setts/s7/r3db6ly2db15dg12g39w3~x2/"><circle cx="281.7" cy="156.5" r="4" fill="#3465a4"><title>Wagland</title></circle></a><a href="/setts/s12/lo2g2lo1g10k6r1dy14r1dy14r1t6r2~x2/"><circle cx="243.8" cy="150.2" r="4" fill="#3465a4"><title>Ogg of Tarragann Hunting (Personal)</title></circle></a><circle cx="285.4" cy="163.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dg42lo2y16db7do16r5~x2/"><circle cx="302.4" cy="191.5" r="4" fill="#3465a4"><title>Waterford, County</title></circle></a><a href="/setts/s6/o3dg13dt13lo2dg34w3~x2/"><circle cx="302.3" cy="193.3" r="4" fill="#3465a4"><title>Glencross (Tynron) (Personal)</title></circle></a><a href="/setts/s8/m8k2y10dp30y30g55k4o6/"><circle cx="243.5" cy="151.0" r="4" fill="#3465a4"><title>Aberuchill District Tartan Tartan Number: 6814. Earliest known date: 2005 Aberuchill lends it name to the area south of Comrie where the river Ruchil meets the river Earn. The two rivers form the boundaries of the Aberuchill Estate for which this tartan was created. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/g15lo1do2db5k4dg5~x6/"><circle cx="266.3" cy="207.4" r="4" fill="#3465a4"><title>Dobson (Palm Bay) (Personal)</title></circle></a><a href="/setts/s9/dy7k1dg1r1k1r7dg15k1lo1~x4/"><circle cx="309.4" cy="174.3" r="4" fill="#3465a4"><title>Cozumel</title></circle></a><a href="/setts/s8/r4g46r10db10dy33db5dy4lo3~x2/"><circle cx="289.3" cy="195.0" r="4" fill="#3465a4"><title>State Seal of Minnesota (Fashion)</title></circle></a><a href="/setts/s8/dp10k2dg10dp30dg30dg55k4r8/"><circle cx="255.9" cy="168.0" r="4" fill="#3465a4"><title>Batten of Argyll (Baddenach)</title></circle></a><a href="/setts/s10/y12db2r2db2dt26dg2y3dg3y24r4~x2/"><circle cx="323.7" cy="184.3" r="4" fill="#3465a4"><title>New South Wales Waratah</title></circle></a><a href="/setts/s7/r3db6ly2db15dg12g39w3~x2/"><circle cx="281.6" cy="156.6" r="4" fill="#3465a4"><title>Wagland</title></circle></a><a href="/setts/s12/r2t6r1dy14r1dy14r1k6g10lo1g2lo2~x2/"><circle cx="243.6" cy="150.4" r="4" fill="#3465a4"><title>Ogg of Tarragann Hunting (Personal)</title></circle></a><circle cx="285.3" cy="163.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/g7lo2g5dg37db6r16db5b2~x2/

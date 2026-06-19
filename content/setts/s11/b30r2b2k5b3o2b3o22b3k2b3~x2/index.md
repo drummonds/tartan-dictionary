@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/6 K4 B6 LT44 B6 LT4 B6 K10 B4 R4 B/60
+B/60 R4 B4 K10 B6 LT4 B6 LT44 B6 K4 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -906,7 +909,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Frame](/setts/s12/w4b14r1b1w1b1r1b14r14b1r1w1~x4/) — ΔT 1.17
 1. [Bedford Academy](/setts/s9/y8ly4y35db2lt8db2y4db21y4~x2/) — ΔT 1.20
 1. [Bedford Academy (Corporate)](/setts/s9/o8ly4o35db2t8db2o4db21o4~x2/) — ΔT 1.23
-1. [Fujisankei Serene (Corporate)](/setts/s9/lb1n6db4n1db16lb1db4lb6o1~x4/) — ΔT 1.27
+1. [Fujisankei Serene (Corporate)](/setts/s9/o1lb6db4lb1db16n1db4n6lb1~x4/) — ΔT 1.27
 1. [Frame](/setts/s12/w4db14r1db1w1db1r1db14r14db1r1w1~x2/) — ΔT 1.31
 1. [Rafferty (Estimated threadcount)](/setts/s9/r15b2lo1b10w1b2w1b2lo1~x4/) — ΔT 1.34
 1. [Friends of Scotland Caucus](/setts/s11/r3w2r3g14w3r3g2r3w3db47w2~x2/) — ΔT 1.36
@@ -915,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w2r5db4g8db4r5w2r5db40g8db4w2~x2/"><circle cx="350.9" cy="126.5" r="4" fill="#3465a4"><title>Yamaue (Corporate)</title></circle></a><a href="/setts/s12/w4b14r1b1w1b1r1b14r14b1r1w1~x4/"><circle cx="347.3" cy="146.1" r="4" fill="#3465a4"><title>Frame</title></circle></a><a href="/setts/s9/y8ly4y35db2lt8db2y4db21y4~x2/"><circle cx="337.4" cy="159.3" r="4" fill="#3465a4"><title>Bedford Academy</title></circle></a><a href="/setts/s9/o8ly4o35db2t8db2o4db21o4~x2/"><circle cx="358.0" cy="165.7" r="4" fill="#3465a4"><title>Bedford Academy (Corporate)</title></circle></a><a href="/setts/s9/lb1n6db4n1db16lb1db4lb6o1~x4/"><circle cx="344.9" cy="168.4" r="4" fill="#3465a4"><title>Fujisankei Serene (Corporate)</title></circle></a><a href="/setts/s12/w4db14r1db1w1db1r1db14r14db1r1w1~x2/"><circle cx="358.4" cy="150.2" r="4" fill="#3465a4"><title>Frame</title></circle></a><a href="/setts/s9/r15b2lo1b10w1b2w1b2lo1~x4/"><circle cx="300.0" cy="147.8" r="4" fill="#3465a4"><title>Rafferty (Estimated threadcount)</title></circle></a><a href="/setts/s11/r3w2r3g14w3r3g2r3w3db47w2~x2/"><circle cx="340.9" cy="103.2" r="4" fill="#3465a4"><title>Friends of Scotland Caucus</title></circle></a><a href="/setts/s9/o10t11k2t3k2t2k8o40k4~x2/"><circle cx="367.3" cy="142.8" r="4" fill="#3465a4"><title>Doune District Tartan Tartan Number: 4707. Earliest known date: 01/01/2002 A colour variation of Stewart Bute. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/t38dp4t8w2t4w3t4dg14r7t2r4w2~x2/"><circle cx="360.8" cy="124.8" r="4" fill="#3465a4"><title>Louth Irish County Tartan Tartan Number: 2277. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="348.0" cy="138.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w2r5db4g8db4r5w2r5db40g8db4w2~x2/"><circle cx="350.7" cy="126.4" r="4" fill="#3465a4"><title>Yamaue (Corporate)</title></circle></a><a href="/setts/s12/w4b14r1b1w1b1r1b14r14b1r1w1~x4/"><circle cx="346.9" cy="145.9" r="4" fill="#3465a4"><title>Frame</title></circle></a><a href="/setts/s9/y8ly4y35db2lt8db2y4db21y4~x2/"><circle cx="337.2" cy="159.2" r="4" fill="#3465a4"><title>Bedford Academy</title></circle></a><a href="/setts/s9/o8ly4o35db2t8db2o4db21o4~x2/"><circle cx="357.7" cy="165.6" r="4" fill="#3465a4"><title>Bedford Academy (Corporate)</title></circle></a><a href="/setts/s9/o1lb6db4lb1db16n1db4n6lb1~x4/"><circle cx="344.8" cy="168.2" r="4" fill="#3465a4"><title>Fujisankei Serene (Corporate)</title></circle></a><a href="/setts/s12/w4db14r1db1w1db1r1db14r14db1r1w1~x2/"><circle cx="358.1" cy="150.0" r="4" fill="#3465a4"><title>Frame</title></circle></a><a href="/setts/s9/r15b2lo1b10w1b2w1b2lo1~x4/"><circle cx="299.7" cy="147.7" r="4" fill="#3465a4"><title>Rafferty (Estimated threadcount)</title></circle></a><a href="/setts/s11/r3w2r3g14w3r3g2r3w3db47w2~x2/"><circle cx="340.6" cy="103.0" r="4" fill="#3465a4"><title>Friends of Scotland Caucus</title></circle></a><a href="/setts/s9/o10t11k2t3k2t2k8o40k4~x2/"><circle cx="367.0" cy="142.7" r="4" fill="#3465a4"><title>Doune District Tartan Tartan Number: 4707. Earliest known date: 01/01/2002 A colour variation of Stewart Bute. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/t38dp4t8w2t4w3t4dg14r7t2r4w2~x2/"><circle cx="360.4" cy="124.8" r="4" fill="#3465a4"><title>Louth Irish County Tartan Tartan Number: 2277. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="347.7" cy="138.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/b30r2b2k5b3o2b3o22b3k2b3~x2/

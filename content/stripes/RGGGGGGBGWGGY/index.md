@@ -22,6 +22,6 @@ RGGGGGGBGWGGY
 
 | Tartans |
 |---------------|
-| [Field Gun Association](/setts/s13/ly2dg14g8w1dg12t4g16dg2g2dg2g3dg12r2~x2/)|
-|![Field Gun Association example sett](/setts/s13/ly2dg14g8w1dg12t4g16dg2g2dg2g3dg12r2~x2/sett.png)|
+| [Field Gun Association](/setts/s13/r2dg12g3dg2g2dg2g16t4dg12w1g8dg14ly2~x2/)|
+|![Field Gun Association example sett](/setts/s13/r2dg12g3dg2g2dg2g16t4dg12w1g8dg14ly2~x2/sett.png)|
 

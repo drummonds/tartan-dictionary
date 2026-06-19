@@ -8,7 +8,7 @@ GWRW
 
 It is a 4 band tartan.
 
-![Woven sample](/setts/s4/dg20w5r3w5~x2/tartan.png)
+![Woven sample](/setts/s4/dg20w5r3~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ GWRW
 
 | Tartans |
 |---------------|
-| [Juchter (Personal)](/setts/s4/dg20w5r3w5~x2/)|
-|![Juchter (Personal) example sett](/setts/s4/dg20w5r3w5~x2/sett.png)|
+| [Juchter (Personal)](/setts/s4/dg20w5r3~x2/)|
+|![Juchter (Personal) example sett](/setts/s4/dg20w5r3~x2/sett.png)|
 

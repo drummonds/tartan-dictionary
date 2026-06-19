@@ -13,13 +13,23 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Thread count
 N/4 G30 K1 G1 K1 G3 K12 DB10 R/3
@@ -41,20 +51,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [MacDonnald of ye Ylis](/setts/s9/lr4dg30k1dg1k1dg3k12db10r3~x2/) — ΔT 0.52
+1. [MacDonnald of ye Ylis](/setts/s9/lr4dg30k1dg1k1dg3k12db10r3/) — ΔT 0.52
 1. [MacDonald of The Isles](/setts/s9/w4g30k1g1k1g3k12db10r3~x2/) — ΔT 0.97
 1. [John.W.Mackay, Restricted](/setts/s9/k4g34ly1k18g3db18r3g3r3~x2/) — ΔT 0.97
 1. [Hutchens (Kansas) (Personal)](/setts/s9/db10k12g3k1g1k1g30lo4w4~x2/) — ΔT 1.00
-1. [Sinclair Hunting](/setts/s7/dg2r1dg30k16lb1db16r2/) — ΔT 1.05
+1. [Sinclair Hunting](/setts/s7/dg2r1dg30k16lb1db16r2~x2/) — ΔT 1.05
 1. [Duffy](/setts/s7/g8dg60w1k33g9ly4g4~x2/) — ΔT 1.28
-1. [Sarafilovic (Corporate)](/setts/s9/ly4g44k2g2k2g3k18db15r4~x2/) — ΔT 1.28
+1. [Sarafilovic (Corporate)](/setts/s9/r4db15k18g3k2g2k2g44ly4~x2/) — ΔT 1.28
 1. [Bomb Disposal](/setts/s10/k28r3ly2r3k13g28w1g3w1g16~x2/) — ΔT 1.28
 1. [Hutchens (Personal)](/setts/s9/db10k12dg3k1dg1k1dg30w4lo4~x2/) — ΔT 1.28
-1. [Sutherland](/setts/s12/dg6lb2dg24k12db3k2db2k2db12r1db1r3/) — ΔT 1.28
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lr4dg30k1dg1k1dg3k12db10r3~x2/"><circle cx="304.7" cy="125.6" r="4" fill="#3465a4"><title>MacDonnald of ye Ylis</title></circle></a><a href="/setts/s9/w4g30k1g1k1g3k12db10r3~x2/"><circle cx="293.2" cy="116.5" r="4" fill="#3465a4"><title>MacDonald of The Isles</title></circle></a><a href="/setts/s9/k4g34ly1k18g3db18r3g3r3~x2/"><circle cx="245.6" cy="113.4" r="4" fill="#3465a4"><title>John.W.Mackay, Restricted</title></circle></a><a href="/setts/s9/db10k12g3k1g1k1g30lo4w4~x2/"><circle cx="278.3" cy="116.3" r="4" fill="#3465a4"><title>Hutchens (Kansas) (Personal)</title></circle></a><a href="/setts/s7/dg2r1dg30k16lb1db16r2/"><circle cx="280.3" cy="148.8" r="4" fill="#3465a4"><title>Sinclair Hunting</title></circle></a><a href="/setts/s7/g8dg60w1k33g9ly4g4~x2/"><circle cx="322.5" cy="124.0" r="4" fill="#3465a4"><title>Duffy</title></circle></a><a href="/setts/s9/ly4g44k2g2k2g3k18db15r4~x2/"><circle cx="302.7" cy="135.3" r="4" fill="#3465a4"><title>Sarafilovic (Corporate)</title></circle></a><a href="/setts/s10/k28r3ly2r3k13g28w1g3w1g16~x2/"><circle cx="303.7" cy="136.8" r="4" fill="#3465a4"><title>Bomb Disposal</title></circle></a><a href="/setts/s9/db10k12dg3k1dg1k1dg30w4lo4~x2/"><circle cx="311.7" cy="133.3" r="4" fill="#3465a4"><title>Hutchens (Personal)</title></circle></a><a href="/setts/s12/dg6lb2dg24k12db3k2db2k2db12r1db1r3/"><circle cx="232.7" cy="123.6" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><circle cx="290.4" cy="118.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lr4dg30k1dg1k1dg3k12db10r3~x2/"><circle cx="304.7" cy="125.6" r="4" fill="#3465a4"><title>MacDonnald of ye Ylis</title></circle></a><a href="/setts/s9/lr4dg30k1dg1k1dg3k12db10r3/"><circle cx="304.7" cy="125.6" r="4" fill="#3465a4"><title>MacDonnald of ye Ylis</title></circle></a><a href="/setts/s9/w4g30k1g1k1g3k12db10r3~x2/"><circle cx="293.1" cy="116.5" r="4" fill="#3465a4"><title>MacDonald of The Isles</title></circle></a><a href="/setts/s9/k4g34ly1k18g3db18r3g3r3~x2/"><circle cx="245.6" cy="113.3" r="4" fill="#3465a4"><title>John.W.Mackay, Restricted</title></circle></a><a href="/setts/s9/db10k12g3k1g1k1g30lo4w4~x2/"><circle cx="278.3" cy="116.2" r="4" fill="#3465a4"><title>Hutchens (Kansas) (Personal)</title></circle></a><a href="/setts/s7/dg2r1dg30k16lb1db16r2~x2/"><circle cx="280.5" cy="148.8" r="4" fill="#3465a4"><title>Sinclair Hunting</title></circle></a><a href="/setts/s7/g8dg60w1k33g9ly4g4~x2/"><circle cx="322.5" cy="123.9" r="4" fill="#3465a4"><title>Duffy</title></circle></a><a href="/setts/s9/r4db15k18g3k2g2k2g44ly4~x2/"><circle cx="302.6" cy="135.3" r="4" fill="#3465a4"><title>Sarafilovic (Corporate)</title></circle></a><a href="/setts/s10/k28r3ly2r3k13g28w1g3w1g16~x2/"><circle cx="303.6" cy="136.8" r="4" fill="#3465a4"><title>Bomb Disposal</title></circle></a><a href="/setts/s9/db10k12dg3k1dg1k1dg30w4lo4~x2/"><circle cx="311.7" cy="133.3" r="4" fill="#3465a4"><title>Hutchens (Personal)</title></circle></a><circle cx="290.4" cy="118.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/lb4dg30k1dg1k1dg3k12db10r3/

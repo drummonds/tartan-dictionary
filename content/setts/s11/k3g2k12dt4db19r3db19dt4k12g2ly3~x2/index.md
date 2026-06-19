@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,14 +914,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Stuart/Stewart Black](/setts/s12/db20b6k8ly2k4w4k4db13r7k4r4w2~x2/) — ΔT 1.11
 1. [Broager (Name)](/setts/s12/db53g10k20ly5k5w5k7r18db10k6db6w6/) — ΔT 1.12
 1. [Czech National (District)](/setts/s11/db4ly2db24k2db5r3k14g14w3r3db3~x2/) — ΔT 1.14
-1. [MacKusick Family Tartan of North America](/setts/s13/db8k2db3k12dp3w1dp3k16dg3w2r1w2dg8~x2/) — ΔT 1.19
+1. [MacKusick Family Tartan of North America](/setts/s13/dg8w2r1w2dg3k16dp3w1dp3k12db3k2db8~x2/) — ΔT 1.19
 1. [U.S.I. Limited](/setts/s11/k20n2t2n4dg20w2k16n7t2k3t5~x2/) — ΔT 1.24
 1. [MacKusick (Name)](/setts/s13/db8k2db3k12dp3lb1dp3k16g3lb2r1lb2g8~x2/) — ΔT 1.26
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db50k10db6k10db6dg5lp5dg5p8dg23w5~x2/"><circle cx="192.3" cy="140.3" r="4" fill="#3465a4"><title>Scottish Hockey Union (Sports)</title></circle></a><a href="/setts/s11/db20b6k8ly2k4w4k4db13r7k4w2~x2/"><circle cx="138.7" cy="152.4" r="4" fill="#3465a4"><title>Stewart Black</title></circle></a><a href="/setts/s8/k37r4db30n7k10w5n10y7~x2/"><circle cx="174.4" cy="178.6" r="4" fill="#3465a4"><title>Yates</title></circle></a><a href="/setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/"><circle cx="171.6" cy="141.0" r="4" fill="#3465a4"><title>Stinson, Ancient</title></circle></a><a href="/setts/s12/db20b6k8ly2k4w4k4db13r7k4r4w2~x2/"><circle cx="129.6" cy="145.6" r="4" fill="#3465a4"><title>Stuart/Stewart Black</title></circle></a><a href="/setts/s12/db53g10k20ly5k5w5k7r18db10k6db6w6/"><circle cx="173.6" cy="124.4" r="4" fill="#3465a4"><title>Broager (Name)</title></circle></a><a href="/setts/s11/db4ly2db24k2db5r3k14g14w3r3db3~x2/"><circle cx="199.3" cy="140.4" r="4" fill="#3465a4"><title>Czech National (District)</title></circle></a><a href="/setts/s13/db8k2db3k12dp3w1dp3k16dg3w2r1w2dg8~x2/"><circle cx="197.4" cy="129.6" r="4" fill="#3465a4"><title>MacKusick Family Tartan of North America</title></circle></a><a href="/setts/s11/k20n2t2n4dg20w2k16n7t2k3t5~x2/"><circle cx="209.8" cy="173.7" r="4" fill="#3465a4"><title>U.S.I. Limited</title></circle></a><a href="/setts/s13/db8k2db3k12dp3lb1dp3k16g3lb2r1lb2g8~x2/"><circle cx="172.5" cy="122.2" r="4" fill="#3465a4"><title>MacKusick (Name)</title></circle></a><circle cx="180.5" cy="159.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db50k10db6k10db6dg5lp5dg5p8dg23w5~x2/"><circle cx="192.4" cy="140.4" r="4" fill="#3465a4"><title>Scottish Hockey Union (Sports)</title></circle></a><a href="/setts/s11/db20b6k8ly2k4w4k4db13r7k4w2~x2/"><circle cx="139.0" cy="152.4" r="4" fill="#3465a4"><title>Stewart Black</title></circle></a><a href="/setts/s8/k37r4db30n7k10w5n10y7~x2/"><circle cx="174.6" cy="178.7" r="4" fill="#3465a4"><title>Yates</title></circle></a><a href="/setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/"><circle cx="171.7" cy="141.0" r="4" fill="#3465a4"><title>Stinson, Ancient</title></circle></a><a href="/setts/s12/db20b6k8ly2k4w4k4db13r7k4r4w2~x2/"><circle cx="129.7" cy="145.7" r="4" fill="#3465a4"><title>Stuart/Stewart Black</title></circle></a><a href="/setts/s12/db53g10k20ly5k5w5k7r18db10k6db6w6/"><circle cx="173.7" cy="124.5" r="4" fill="#3465a4"><title>Broager (Name)</title></circle></a><a href="/setts/s11/db4ly2db24k2db5r3k14g14w3r3db3~x2/"><circle cx="199.3" cy="140.4" r="4" fill="#3465a4"><title>Czech National (District)</title></circle></a><a href="/setts/s13/dg8w2r1w2dg3k16dp3w1dp3k12db3k2db8~x2/"><circle cx="197.5" cy="129.7" r="4" fill="#3465a4"><title>MacKusick Family Tartan of North America</title></circle></a><a href="/setts/s11/k20n2t2n4dg20w2k16n7t2k3t5~x2/"><circle cx="210.0" cy="173.7" r="4" fill="#3465a4"><title>U.S.I. Limited</title></circle></a><a href="/setts/s13/db8k2db3k12dp3lb1dp3k16g3lb2r1lb2g8~x2/"><circle cx="172.7" cy="122.2" r="4" fill="#3465a4"><title>MacKusick (Name)</title></circle></a><circle cx="180.7" cy="159.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k3g2k12dt4db19r3db19dt4k12g2ly3~x2/

@@ -37,21 +37,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [MacInnes](/setts/s13/ly2k12dg2k2dg2k2dg16k3lb3k3db12dg6r2/) — ΔT 1.01
+1. [MacInnes](/setts/s13/r2dg6db12k3lb3k3dg16k2dg2k2dg2k12ly2/) — ΔT 1.01
 1. [MacKusick Family Tartan of North America](/setts/s13/db8k2db3k12p3w1p3k16g3w2r1w2g8~x2/) — ΔT 1.10
 1. [Kerby, from the Tennessee Cumberland Basin](/setts/s12/dp4w2dp10k10dg3k3dg3k2dg24ly2dg2r4~x2/) — ΔT 1.14
 1. [MacKusick (Name)](/setts/s13/db8k2db3k12dp3lb1dp3k16g3lb2r1lb2g8~x2/) — ΔT 1.14
 1. [McMillen Memorial, Hugh E. (Personal)](/setts/s12/k8k2o18k3k8k18dp4w3k12r1k2k2~x2/) — ΔT 1.19
-1. [MacInnes](/setts/s13/ly2k12dg2k2dg2k2dg16k3b3k3db12dg6r2~x2/) — ΔT 1.19
-1. [MacInnes](/setts/s13/ly2k12dg2k2dg2k2dg16k3b3k3db12dg6r2/) — ΔT 1.19
+1. [MacInnes](/setts/s13/r2dg6db12k3b3k3dg16k2dg2k2dg2k12ly2~x2/) — ΔT 1.19
+1. [MacInnes](/setts/s13/r2dg6db12k3b3k3dg16k2dg2k2dg2k12ly2/) — ΔT 1.19
 1. [Cornish Htg (District)](/setts/s7/w5k26ly2dg24db8k4r3~x2/) — ΔT 1.22
 1. [MacKusick](/setts/s13/db8k2db3k12dp3w1dp3k16g3w2r1w2g8~x2/) — ΔT 1.22
 1. [Webster](/setts/s10/g32r3dy12b3ly3b3k24k24lb2k4~x2/) — ΔT 1.23
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/ly2k12dg2k2dg2k2dg16k3lb3k3db12dg6r2/"><circle cx="124.5" cy="150.4" r="4" fill="#3465a4"><title>MacInnes</title></circle></a><a href="/setts/s13/db8k2db3k12p3w1p3k16g3w2r1w2g8~x2/"><circle cx="169.1" cy="116.8" r="4" fill="#3465a4"><title>MacKusick Family Tartan of North America</title></circle></a><a href="/setts/s12/dp4w2dp10k10dg3k3dg3k2dg24ly2dg2r4~x2/"><circle cx="205.3" cy="135.4" r="4" fill="#3465a4"><title>Kerby, from the Tennessee Cumberland Basin</title></circle></a><a href="/setts/s13/db8k2db3k12dp3lb1dp3k16g3lb2r1lb2g8~x2/"><circle cx="172.5" cy="122.2" r="4" fill="#3465a4"><title>MacKusick (Name)</title></circle></a><a href="/setts/s12/k8k2o18k3k8k18dp4w3k12r1k2k2~x2/"><circle cx="181.5" cy="121.3" r="4" fill="#3465a4"><title>McMillen Memorial, Hugh E. (Personal)</title></circle></a><a href="/setts/s13/ly2k12dg2k2dg2k2dg16k3b3k3db12dg6r2~x2/"><circle cx="149.3" cy="163.6" r="4" fill="#3465a4"><title>MacInnes</title></circle></a><a href="/setts/s13/ly2k12dg2k2dg2k2dg16k3b3k3db12dg6r2/"><circle cx="149.3" cy="163.6" r="4" fill="#3465a4"><title>MacInnes</title></circle></a><a href="/setts/s7/w5k26ly2dg24db8k4r3~x2/"><circle cx="165.7" cy="155.6" r="4" fill="#3465a4"><title>Cornish Htg (District)</title></circle></a><a href="/setts/s13/db8k2db3k12dp3w1dp3k16g3w2r1w2g8~x2/"><circle cx="166.7" cy="118.8" r="4" fill="#3465a4"><title>MacKusick</title></circle></a><a href="/setts/s10/g32r3dy12b3ly3b3k24k24lb2k4~x2/"><circle cx="177.0" cy="113.2" r="4" fill="#3465a4"><title>Webster</title></circle></a><circle cx="178.2" cy="144.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r2dg6db12k3lb3k3dg16k2dg2k2dg2k12ly2/"><circle cx="124.7" cy="150.4" r="4" fill="#3465a4"><title>MacInnes</title></circle></a><a href="/setts/s13/db8k2db3k12p3w1p3k16g3w2r1w2g8~x2/"><circle cx="169.3" cy="116.8" r="4" fill="#3465a4"><title>MacKusick Family Tartan of North America</title></circle></a><a href="/setts/s12/dp4w2dp10k10dg3k3dg3k2dg24ly2dg2r4~x2/"><circle cx="205.4" cy="135.5" r="4" fill="#3465a4"><title>Kerby, from the Tennessee Cumberland Basin</title></circle></a><a href="/setts/s13/db8k2db3k12dp3lb1dp3k16g3lb2r1lb2g8~x2/"><circle cx="172.7" cy="122.2" r="4" fill="#3465a4"><title>MacKusick (Name)</title></circle></a><a href="/setts/s12/k8k2o18k3k8k18dp4w3k12r1k2k2~x2/"><circle cx="181.7" cy="121.4" r="4" fill="#3465a4"><title>McMillen Memorial, Hugh E. (Personal)</title></circle></a><a href="/setts/s13/r2dg6db12k3b3k3dg16k2dg2k2dg2k12ly2~x2/"><circle cx="149.5" cy="163.8" r="4" fill="#3465a4"><title>MacInnes</title></circle></a><a href="/setts/s13/r2dg6db12k3b3k3dg16k2dg2k2dg2k12ly2/"><circle cx="149.5" cy="163.8" r="4" fill="#3465a4"><title>MacInnes</title></circle></a><a href="/setts/s7/w5k26ly2dg24db8k4r3~x2/"><circle cx="165.9" cy="155.6" r="4" fill="#3465a4"><title>Cornish Htg (District)</title></circle></a><a href="/setts/s13/db8k2db3k12dp3w1dp3k16g3w2r1w2g8~x2/"><circle cx="166.9" cy="118.9" r="4" fill="#3465a4"><title>MacKusick</title></circle></a><a href="/setts/s10/g32r3dy12b3ly3b3k24k24lb2k4~x2/"><circle cx="177.1" cy="113.2" r="4" fill="#3465a4"><title>Webster</title></circle></a><circle cx="178.4" cy="144.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/k26ly2dg24db8k4r3k4db8dg24ly2k26w5~x2/

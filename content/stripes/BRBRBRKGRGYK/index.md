@@ -18,10 +18,10 @@ BRBRBRKGRGYK
 
 
 
-### B R B R B R K DG R DG LO K <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="seq">B R B R B R K DG R DG LO K</span></span>
+### K LO DG R DG K R B R B R B <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K LO DG R DG K R B R B R B</span></span>
 
 | Tartans |
 |---------------|
-| [Bowie, Black (Name)](/setts/s12/b9r3b3r5b16r2k17dg16r5dg3lo1k9~x2/)|
-|![Bowie, Black (Name) example sett](/setts/s12/b9r3b3r5b16r2k17dg16r5dg3lo1k9~x2/sett.png)|
+| [Bowie, Black (Name)](/setts/s12/k9lo1dg3r5dg16k17r2b16r5b3r3b9~x2/)|
+|![Bowie, Black (Name) example sett](/setts/s12/k9lo1dg3r5dg16k17r2b16r5b3r3b9~x2/sett.png)|
 

@@ -2,12 +2,18 @@
 title: "Robert Burns Legacy"
 date: 2023-03-18
 ---
-**Bands:** [BGBBBKBBR](/stripes/bgbbbkbbr/) · **Stripes:** [DB G DB T DB K DB DB R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB G DB T DB K DB DB R</span></span>
+**Bands:** [RBBKBBBGB](/stripes/rbbkbbbgb/) · **Stripes:** [R DB DB K DB T DB G DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB DB K DB T DB G DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3518
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Robert Burns of Ayr
 
 ## Attestations
 
@@ -56,8 +62,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k3db20db8db4dg20k2dg2r2dg3lo3~x2/"><circle cx="192.4" cy="171.5" r="4" fill="#3465a4"><title>Schmidt (2014)</title></circle></a><a href="/setts/s8/dg5g2b2db15r2t2dg5r2~x4/"><circle cx="189.8" cy="188.0" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><a href="/setts/s9/db4dy5g19dp5dy5k5dy5db36ly3~x2/"><circle cx="224.3" cy="156.0" r="4" fill="#3465a4"><title>Suzugamine (Corporate)</title></circle></a><a href="/setts/s8/db17w2db2r2db2do12dg16lo3~x4/"><circle cx="176.7" cy="189.5" r="4" fill="#3465a4"><title>Blairmore House</title></circle></a><a href="/setts/s8/b11db5g4w3r3k16db28b2~x2/"><circle cx="208.2" cy="156.0" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/setts/s8/k37r4db30n7k10w5n10y7~x2/"><circle cx="174.4" cy="178.6" r="4" fill="#3465a4"><title>Yates</title></circle></a><a href="/setts/s10/db9k30db9t3db5r3db5ly3db5g3~x2/"><circle cx="237.8" cy="165.3" r="4" fill="#3465a4"><title>Fed. of Circles &amp; Solitaries (Corp.)</title></circle></a><a href="/setts/s11/g37dp5g5dp12b10db5b5db40dy4db4lo4~x2/"><circle cx="194.7" cy="161.8" r="4" fill="#3465a4"><title>State Seal of North Dakota (Fashion)</title></circle></a><a href="/setts/s9/k3dp16g5dp3p2dp2k12dt23w2~x2/"><circle cx="168.5" cy="159.4" r="4" fill="#3465a4"><title>Creiff Highland Gathering</title></circle></a><a href="/setts/s10/k3ly1db1db6m2db1m1db1db10w1~x4/"><circle cx="171.9" cy="143.4" r="4" fill="#3465a4"><title>Ertico</title></circle></a><circle cx="193.4" cy="176.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k3db20db8db4dg20k2dg2r2dg3lo3~x2/"><circle cx="192.6" cy="171.7" r="4" fill="#3465a4"><title>Schmidt (2014)</title></circle></a><a href="/setts/s8/dg5g2b2db15r2t2dg5r2~x4/"><circle cx="190.0" cy="188.1" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><a href="/setts/s9/db4dy5g19dp5dy5k5dy5db36ly3~x2/"><circle cx="224.3" cy="156.1" r="4" fill="#3465a4"><title>Suzugamine (Corporate)</title></circle></a><a href="/setts/s8/db17w2db2r2db2do12dg16lo3~x4/"><circle cx="176.9" cy="189.6" r="4" fill="#3465a4"><title>Blairmore House</title></circle></a><a href="/setts/s8/b11db5g4w3r3k16db28b2~x2/"><circle cx="208.4" cy="156.1" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/setts/s8/k37r4db30n7k10w5n10y7~x2/"><circle cx="174.6" cy="178.7" r="4" fill="#3465a4"><title>Yates</title></circle></a><a href="/setts/s10/db9k30db9t3db5r3db5ly3db5g3~x2/"><circle cx="238.0" cy="165.4" r="4" fill="#3465a4"><title>Fed. of Circles &amp; Solitaries (Corp.)</title></circle></a><a href="/setts/s11/g37dp5g5dp12b10db5b5db40dy4db4lo4~x2/"><circle cx="194.7" cy="162.0" r="4" fill="#3465a4"><title>State Seal of North Dakota (Fashion)</title></circle></a><a href="/setts/s9/k3dp16g5dp3p2dp2k12dt23w2~x2/"><circle cx="168.6" cy="159.6" r="4" fill="#3465a4"><title>Creiff Highland Gathering</title></circle></a><a href="/setts/s10/k3ly1db1db6m2db1m1db1db10w1~x4/"><circle cx="172.0" cy="143.5" r="4" fill="#3465a4"><title>Ertico</title></circle></a><circle cx="193.6" cy="176.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/db10g42db8t8db8k24db8db71r10/

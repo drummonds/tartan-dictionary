@@ -18,10 +18,10 @@ BYBBBBBBYBBBBBBY
 
 
 
-### DB LY T DB T DB T DB LY DB T DB T DB T LY <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB LY T DB T DB T DB LY DB T DB T DB T LY</span></span>
+### LY T DB T DB T DB LY DB T DB T DB T LY DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">LY T DB T DB T DB LY DB T DB T DB T LY DB</span></span>
 
 | Tartans |
 |---------------|
-| [Orlando Police Department](/setts/s16/db12ly1t16db1t1db14t3db14ly1db14t3db14t1db1t16ly1~x4/)|
-|![Orlando Police Department example sett](/setts/s16/db12ly1t16db1t1db14t3db14ly1db14t3db14t1db1t16ly1~x4/sett.png)|
+| [Orlando Police Department](/setts/s16/db12ly1t16db1t1db14t3db14ly1~x4/)|
+|![Orlando Police Department example sett](/setts/s16/db12ly1t16db1t1db14t3db14ly1~x4/sett.png)|
 

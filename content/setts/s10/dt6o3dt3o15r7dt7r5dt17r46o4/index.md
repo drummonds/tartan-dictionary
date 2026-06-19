@@ -2,12 +2,18 @@
 title: "Harry (Welsh Name)"
 date: 2023-03-18
 ---
-**Bands:** [BRBRRBRBRR](/stripes/brbrrbrbrr/) · **Stripes:** [DT O DT O R DT R DT R O](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DT O DT O R DT R DT R O</span></span>
+**Bands:** [RRBRBRRBRB](/stripes/rrbrbrrbrb/) · **Stripes:** [O R DT R DT R O DT O DT](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#023535"></span><span class="seq">O R DT R DT R O DT O DT</span></span>
 
 
 This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7679/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Harry of Wales
 
 ## Attestations
 
@@ -43,10 +49,10 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Robertson #5](/setts/s12/r28dg2r5dg2r28db3r3dg24r3db24r3db3~x2/) — ΔT 0.58
 1. [Robertson 1819](/setts/s13/r3g3r35db3r3db35r3g35r3db3r35g3r3~x2/) — ΔT 0.84
-1. [Robertson Curtain](/setts/s13/r3dg2r19db2r3db20r3dg20r3db2r19dg2r3~x4/) — ΔT 0.90
+1. [Robertson Curtain](/setts/s13/r3dg2r19db2r3dg20r3db20r3db2r19dg2r3~x4/) — ΔT 0.90
 1. [New Breckon (Fashion?)](/setts/s9/dt6lo2dt27r27lo2r2lo2r2dt4~x2/) — ΔT 0.97
 1. [Jenkins (Name)](/setts/s10/db2r30g8r3g8r6db4r3db12w2~x2/) — ΔT 0.98
-1. [Robertson #3](/setts/s13/r1dg1r9db1r1dg9r1db9r1dg1r9dg1r1~x4/) — ΔT 1.01
+1. [Robertson #3](/setts/s13/r1dg1r9dg1r1db9r1dg9r1db1r9dg1r1~x4/) — ΔT 1.01
 1. [Unidentified Early 18th Centuary](/setts/s10/db3r23db3r26db3r3db25r3dg24r3~x2/) — ΔT 1.03
 1. [Valdres, Kvam & Vang](/setts/s9/r4r2r1dg16r2r11r1r1r2~x2/) — ΔT 1.06
 1. [Robertson 1](/setts/s13/r4g4r35dp4r4dp35r4g35r4dp4r35g4r4/) — ΔT 1.08
@@ -54,8 +60,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r28dg2r5dg2r28db3r3dg24r3db24r3db3~x2/"><circle cx="344.0" cy="163.1" r="4" fill="#3465a4"><title>Robertson #5</title></circle></a><a href="/setts/s13/r3g3r35db3r3db35r3g35r3db3r35g3r3~x2/"><circle cx="319.8" cy="160.6" r="4" fill="#3465a4"><title>Robertson 1819</title></circle></a><a href="/setts/s13/r3dg2r19db2r3db20r3dg20r3db2r19dg2r3~x4/"><circle cx="315.7" cy="173.0" r="4" fill="#3465a4"><title>Robertson Curtain</title></circle></a><a href="/setts/s9/dt6lo2dt27r27lo2r2lo2r2dt4~x2/"><circle cx="353.4" cy="170.7" r="4" fill="#3465a4"><title>New Breckon (Fashion?)</title></circle></a><a href="/setts/s10/db2r30g8r3g8r6db4r3db12w2~x2/"><circle cx="315.7" cy="150.1" r="4" fill="#3465a4"><title>Jenkins (Name)</title></circle></a><a href="/setts/s13/r1dg1r9db1r1dg9r1db9r1dg1r9dg1r1~x4/"><circle cx="308.1" cy="173.3" r="4" fill="#3465a4"><title>Robertson #3</title></circle></a><a href="/setts/s10/db3r23db3r26db3r3db25r3dg24r3~x2/"><circle cx="296.5" cy="196.8" r="4" fill="#3465a4"><title>Unidentified Early 18th Centuary</title></circle></a><a href="/setts/s9/r4r2r1dg16r2r11r1r1r2~x2/"><circle cx="323.7" cy="170.1" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang</title></circle></a><a href="/setts/s13/r4g4r35dp4r4dp35r4g35r4dp4r35g4r4/"><circle cx="309.1" cy="174.7" r="4" fill="#3465a4"><title>Robertson 1</title></circle></a><a href="/setts/s12/db24r7dg7r39db4r2db2r5dg42r7db6r7~x2/"><circle cx="307.0" cy="149.6" r="4" fill="#3465a4"><title>Drummond #2</title></circle></a><circle cx="338.8" cy="163.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r28dg2r5dg2r28db3r3dg24r3db24r3db3~x2/"><circle cx="343.6" cy="163.0" r="4" fill="#3465a4"><title>Robertson #5</title></circle></a><a href="/setts/s13/r3g3r35db3r3db35r3g35r3db3r35g3r3~x2/"><circle cx="319.5" cy="160.5" r="4" fill="#3465a4"><title>Robertson 1819</title></circle></a><a href="/setts/s13/r3dg2r19db2r3dg20r3db20r3db2r19dg2r3~x4/"><circle cx="315.3" cy="172.9" r="4" fill="#3465a4"><title>Robertson Curtain</title></circle></a><a href="/setts/s9/dt6lo2dt27r27lo2r2lo2r2dt4~x2/"><circle cx="353.1" cy="170.5" r="4" fill="#3465a4"><title>New Breckon (Fashion?)</title></circle></a><a href="/setts/s10/db2r30g8r3g8r6db4r3db12w2~x2/"><circle cx="315.4" cy="150.0" r="4" fill="#3465a4"><title>Jenkins (Name)</title></circle></a><a href="/setts/s13/r1dg1r9dg1r1db9r1dg9r1db1r9dg1r1~x4/"><circle cx="307.8" cy="173.2" r="4" fill="#3465a4"><title>Robertson #3</title></circle></a><a href="/setts/s10/db3r23db3r26db3r3db25r3dg24r3~x2/"><circle cx="296.2" cy="196.7" r="4" fill="#3465a4"><title>Unidentified Early 18th Centuary</title></circle></a><a href="/setts/s9/r4r2r1dg16r2r11r1r1r2~x2/"><circle cx="323.4" cy="170.1" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang</title></circle></a><a href="/setts/s13/r4g4r35dp4r4dp35r4g35r4dp4r35g4r4/"><circle cx="308.8" cy="174.6" r="4" fill="#3465a4"><title>Robertson 1</title></circle></a><a href="/setts/s12/db24r7dg7r39db4r2db2r5dg42r7db6r7~x2/"><circle cx="306.7" cy="149.6" r="4" fill="#3465a4"><title>Drummond #2</title></circle></a><circle cx="338.5" cy="162.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/dt6o3dt3o15r7dt7r5dt17r46o4/

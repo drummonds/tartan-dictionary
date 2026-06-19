@@ -2,7 +2,7 @@
 title: "Wild Mustard Dreams"
 date: 2023-03-18
 ---
-**Bands:** [BGRYY](/stripes/bgryy/) · **Stripes:** [B G O LY LO](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">B G O LY LO</span></span>
+**Bands:** [YYRGB](/stripes/yyrgb/) · **Stripes:** [LO LY O G B](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#466CC8"></span><span class="seq">LO LY O G B</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10933](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10933)
 
 ## Thread count
-B/10 G52 DO34 Y34 O/34
+O/34 Y34 DO34 G52 B/10
 ![Sett](sett.png)
 
 ## Palette
@@ -32,7 +32,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/10 G52 DO34 Y34 O/34 tartan")
+![Tartan detail](tartan.png "O/34 Y34 DO34 G52 B/10 tartan")
 
 ## Nearest tartans
 
@@ -45,14 +45,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Pride, The Tartan of](/setts/s6/r8lo4ly3g6t6dp1~x5/) — ΔT 1.61
 1. [Dunoon Burgh Hall Trust](/setts/s5/db2m3g3o6ly2~x2/) — ΔT 1.68
 1. [Devon Rural Skills Trust](/setts/s8/w5y4b1y4r4b1dg4ly1~x2/) — ΔT 1.69
-1. [Inspiration](/setts/s5/ly5n21ly11db12r5~x2/) — ΔT 1.74
+1. [Inspiration](/setts/s5/r5db12ly11n21ly5~x2/) — ΔT 1.74
 1. [Devon Rural Skills Trust](/setts/s8/w5y4t1y4r4t1dg4ly1~x6/) — ΔT 1.74
 1. [Clan Haggis World (Corporate)](/setts/s5/r13ly13g13b22w4~x2/) — ΔT 1.80
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db7o8g15ly6y3~x10/"><circle cx="98.1" cy="245.9" r="4" fill="#3465a4"><title>Unidentified, Silk Plaid</title></circle></a><a href="/setts/s5/db7o8dg15ly6lo3~x10/"><circle cx="92.0" cy="242.2" r="4" fill="#3465a4"><title>Unidentified Silk Plaid</title></circle></a><a href="/setts/s7/lr5g4w1g4o4dg4ly1~x4/"><circle cx="71.2" cy="234.5" r="4" fill="#3465a4"><title>Devon Original District Tartan Tartan Number: 1284. Earliest known date: 1984 The Devon Original and Devon Companion owe their origin to the success of the Cornish St Piran sett, which was woven by Coldharbour Mill in the early 1980's. The accreditation certificate was presented to the Mayor of Barnstaple in 1991. In a poem describing the tartan, Miss M. Miles says, &quot;So, in the mind, Devon's beauty is retrieved By contemplating Devon's tartan's weave.&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/lo17ly17lo17g26db5~x2/"><circle cx="146.1" cy="273.1" r="4" fill="#3465a4"><title>Wild Mustard Dreams</title></circle></a><a href="/setts/s6/r8lo4ly3g6t6dp1~x5/"><circle cx="64.9" cy="208.3" r="4" fill="#3465a4"><title>Pride, The Tartan of</title></circle></a><a href="/setts/s5/db2m3g3o6ly2~x2/"><circle cx="63.7" cy="266.7" r="4" fill="#3465a4"><title>Dunoon Burgh Hall Trust</title></circle></a><a href="/setts/s8/w5y4b1y4r4b1dg4ly1~x2/"><circle cx="44.9" cy="202.8" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/setts/s5/ly5n21ly11db12r5~x2/"><circle cx="95.2" cy="240.0" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/setts/s8/w5y4t1y4r4t1dg4ly1~x6/"><circle cx="36.8" cy="199.0" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/setts/s5/r13ly13g13b22w4~x2/"><circle cx="51.7" cy="236.6" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><circle cx="66.7" cy="253.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db7o8g15ly6y3~x10/"><circle cx="98.1" cy="245.9" r="4" fill="#3465a4"><title>Unidentified, Silk Plaid</title></circle></a><a href="/setts/s5/db7o8dg15ly6lo3~x10/"><circle cx="92.0" cy="242.2" r="4" fill="#3465a4"><title>Unidentified Silk Plaid</title></circle></a><a href="/setts/s7/lr5g4w1g4o4dg4ly1~x4/"><circle cx="71.2" cy="234.6" r="4" fill="#3465a4"><title>Devon Original District Tartan Tartan Number: 1284. Earliest known date: 1984 The Devon Original and Devon Companion owe their origin to the success of the Cornish St Piran sett, which was woven by Coldharbour Mill in the early 1980's. The accreditation certificate was presented to the Mayor of Barnstaple in 1991. In a poem describing the tartan, Miss M. Miles says, &quot;So, in the mind, Devon's beauty is retrieved By contemplating Devon's tartan's weave.&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/lo17ly17lo17g26db5~x2/"><circle cx="145.9" cy="273.0" r="4" fill="#3465a4"><title>Wild Mustard Dreams</title></circle></a><a href="/setts/s6/r8lo4ly3g6t6dp1~x5/"><circle cx="64.8" cy="208.4" r="4" fill="#3465a4"><title>Pride, The Tartan of</title></circle></a><a href="/setts/s5/db2m3g3o6ly2~x2/"><circle cx="63.7" cy="266.7" r="4" fill="#3465a4"><title>Dunoon Burgh Hall Trust</title></circle></a><a href="/setts/s8/w5y4b1y4r4b1dg4ly1~x2/"><circle cx="44.9" cy="202.9" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/setts/s5/r5db12ly11n21ly5~x2/"><circle cx="95.1" cy="239.9" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/setts/s8/w5y4t1y4r4t1dg4ly1~x6/"><circle cx="36.8" cy="199.0" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/setts/s5/r13ly13g13b22w4~x2/"><circle cx="51.7" cy="236.6" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><circle cx="66.7" cy="253.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/lo17ly17o17g26b5~x2/

@@ -20,7 +20,7 @@ BBKRG
 
 
 
-### DB T K O Y <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DB T K O Y</span></span>
+### Y O K T DB <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">Y O K T DB</span></span>
 
 | Tartans |
 |---------------|

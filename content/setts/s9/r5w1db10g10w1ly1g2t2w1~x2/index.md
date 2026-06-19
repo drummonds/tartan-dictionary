@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 5969
 
 ## Thread count
-LN/2 B4 G4 Y2 LN2 G20 DB20 LN2 R/10
+R/10 LN2 DB20 G20 LN2 Y2 G4 B4 LN/2
 ![Sett](sett.png)
 
 ## Palette
@@ -46,18 +46,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Dunedin (USA)](/setts/s9/k3r3g21r8r3r3k3t25w3~x2/) — ΔT 0.45
 1. [Dunedin (USA) (District)](/setts/s9/w3t25k3r3k3r8g21k3k2~x2/) — ΔT 0.52
 1. [Royal Pharmaceutical Society Commemorative Tartan Tartan Number: 2091. Earliest known date: 1991 Created by Kinloch Anderson of Edinburgh for the 150th Anniversary of the Royal Pharmaceutical Society of Great Britain which was held at Scone Palace, Perthshire in 1991. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/do3db2g19db6g2db6lo14w2dp4w2~x2/) — ΔT 0.62
-1. [Federated Women's Institutes of](/setts/s9/lb2k1db12g3lo4g3lo2k1r2~x4/) — ΔT 0.64
+1. [Federated Women's Institutes of](/setts/s9/r2k1lo2g3lo4g3db12k1lb2~x4/) — ΔT 0.64
 1. [Dunedin](/setts/s9/k3r3g21r8r3r4k3db26w3~x2/) — ΔT 0.67
-1. [Glasgow, City of Culture](/setts/s11/ly6db2ly2db23k2w4k2g21r2g2r6~x2/) — ΔT 0.76
-1. [Sullivan (Estimated threadcount)](/setts/s10/ly3k1g12db8k1g2k1t10k1r3~x2/) — ΔT 0.82
-1. [Wojtek Memorial Trust](/setts/s11/lb3g28dg3g3dg11db4r3db3r6db15w3~x2/) — ΔT 0.84
+1. [Glasgow, City of Culture](/setts/s11/r6g2r2g21k2w4k2db23ly2db2ly6~x2/) — ΔT 0.76
+1. [Sullivan (Estimated threadcount)](/setts/s10/r3k1t10k1g2k1db8g12k1ly3~x2/) — ΔT 0.82
+1. [Wojtek Memorial Trust](/setts/s11/w3db15r6db3r3db4dg11g3dg3g28lb3~x2/) — ΔT 0.84
 1. [State Seal of Utah (Fashion)](/setts/s8/dt48lo25dy15r7lb5dt7k10lb10~x2/) — ΔT 0.85
 1. [Gordonstoun (Corporate)](/setts/s12/ly5g19r2t11lb2r11g11r2k20r2k2lb2~x2/) — ΔT 0.86
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k3r3g21r8r3r3k3t25w3~x2/"><circle cx="127.2" cy="145.1" r="4" fill="#3465a4"><title>Dunedin (USA)</title></circle></a><a href="/setts/s9/w3t25k3r3k3r8g21k3k2~x2/"><circle cx="140.3" cy="131.1" r="4" fill="#3465a4"><title>Dunedin (USA) (District)</title></circle></a><a href="/setts/s10/do3db2g19db6g2db6lo14w2dp4w2~x2/"><circle cx="129.1" cy="151.5" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society Commemorative Tartan Tartan Number: 2091. Earliest known date: 1991 Created by Kinloch Anderson of Edinburgh for the 150th Anniversary of the Royal Pharmaceutical Society of Great Britain which was held at Scone Palace, Perthshire in 1991. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/lb2k1db12g3lo4g3lo2k1r2~x4/"><circle cx="142.0" cy="136.9" r="4" fill="#3465a4"><title>Federated Women's Institutes of</title></circle></a><a href="/setts/s9/k3r3g21r8r3r4k3db26w3~x2/"><circle cx="128.7" cy="146.8" r="4" fill="#3465a4"><title>Dunedin</title></circle></a><a href="/setts/s11/ly6db2ly2db23k2w4k2g21r2g2r6~x2/"><circle cx="129.8" cy="114.0" r="4" fill="#3465a4"><title>Glasgow, City of Culture</title></circle></a><a href="/setts/s10/ly3k1g12db8k1g2k1t10k1r3~x2/"><circle cx="123.0" cy="142.2" r="4" fill="#3465a4"><title>Sullivan (Estimated threadcount)</title></circle></a><a href="/setts/s11/lb3g28dg3g3dg11db4r3db3r6db15w3~x2/"><circle cx="145.9" cy="145.5" r="4" fill="#3465a4"><title>Wojtek Memorial Trust</title></circle></a><a href="/setts/s8/dt48lo25dy15r7lb5dt7k10lb10~x2/"><circle cx="157.9" cy="163.0" r="4" fill="#3465a4"><title>State Seal of Utah (Fashion)</title></circle></a><a href="/setts/s12/ly5g19r2t11lb2r11g11r2k20r2k2lb2~x2/"><circle cx="108.7" cy="139.2" r="4" fill="#3465a4"><title>Gordonstoun (Corporate)</title></circle></a><circle cx="136.3" cy="142.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k3r3g21r8r3r3k3t25w3~x2/"><circle cx="127.1" cy="145.2" r="4" fill="#3465a4"><title>Dunedin (USA)</title></circle></a><a href="/setts/s9/w3t25k3r3k3r8g21k3k2~x2/"><circle cx="140.2" cy="131.2" r="4" fill="#3465a4"><title>Dunedin (USA) (District)</title></circle></a><a href="/setts/s10/do3db2g19db6g2db6lo14w2dp4w2~x2/"><circle cx="129.1" cy="151.6" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society Commemorative Tartan Tartan Number: 2091. Earliest known date: 1991 Created by Kinloch Anderson of Edinburgh for the 150th Anniversary of the Royal Pharmaceutical Society of Great Britain which was held at Scone Palace, Perthshire in 1991. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/r2k1lo2g3lo4g3db12k1lb2~x4/"><circle cx="142.0" cy="137.0" r="4" fill="#3465a4"><title>Federated Women's Institutes of</title></circle></a><a href="/setts/s9/k3r3g21r8r3r4k3db26w3~x2/"><circle cx="128.7" cy="146.9" r="4" fill="#3465a4"><title>Dunedin</title></circle></a><a href="/setts/s11/r6g2r2g21k2w4k2db23ly2db2ly6~x2/"><circle cx="129.8" cy="114.1" r="4" fill="#3465a4"><title>Glasgow, City of Culture</title></circle></a><a href="/setts/s10/r3k1t10k1g2k1db8g12k1ly3~x2/"><circle cx="123.0" cy="142.3" r="4" fill="#3465a4"><title>Sullivan (Estimated threadcount)</title></circle></a><a href="/setts/s11/w3db15r6db3r3db4dg11g3dg3g28lb3~x2/"><circle cx="145.9" cy="145.7" r="4" fill="#3465a4"><title>Wojtek Memorial Trust</title></circle></a><a href="/setts/s8/dt48lo25dy15r7lb5dt7k10lb10~x2/"><circle cx="157.9" cy="163.0" r="4" fill="#3465a4"><title>State Seal of Utah (Fashion)</title></circle></a><a href="/setts/s12/ly5g19r2t11lb2r11g11r2k20r2k2lb2~x2/"><circle cx="108.7" cy="139.4" r="4" fill="#3465a4"><title>Gordonstoun (Corporate)</title></circle></a><circle cx="136.3" cy="142.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r5w1db10g10w1ly1g2t2w1~x2/

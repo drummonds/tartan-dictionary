@@ -2,7 +2,7 @@
 title: "Edinburgh Festival"
 date: 2023-03-18
 ---
-**Bands:** [BBYBYBWK](/stripes/bbybybwk/) · **Stripes:** [B DP LR DP LR DP W K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">B DP LR DP LR DP W K</span></span>
+**Bands:** [KWBYBYBB](/stripes/kwbybybb/) · **Stripes:** [K W DP LR DP LR DP B](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#466CC8"></span><span class="seq">K W DP LR DP LR DP B</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -47,20 +47,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Royal Troon Golf Club, The](/setts/s8/lo3db4w10dg2w2dg5db34ly3~x2/) — ΔT 1.36
-1. [Blue Rust](/setts/s8/db21n2w1n2db1r2db1o6~x4/) — ΔT 1.45
-1. [Fujisankei Serene (Corporate)](/setts/s9/lb1n6db4n1db16lb1db4lb6o1~x4/) — ΔT 1.47
+1. [Blue Rust](/setts/s8/db21n2w1n2db1r2db1o6~x4/) — ΔT 1.46
+1. [Fujisankei Serene (Corporate)](/setts/s9/o1lb6db4lb1db16n1db4n6lb1~x4/) — ΔT 1.47
 1. [International Pairs (Corporate)](/setts/s10/db34lo6g6r2w2r2g10lo8db23w2~x2/) — ΔT 1.48
 1. [Dunbarton Weft](/setts/s11/b30r2b2k5b3dy2b3dy22b3k2b3~x2/) — ΔT 1.49
 1. [Summerwood (School)](/setts/s12/db76w3r4w3g4w3dg8db19t20db3t8w10/) — ΔT 1.51
 1. [Kruenaegel and Schropp (Name)](/setts/s8/b20r1w3db1w2db8g3w1~x4/) — ΔT 1.54
-1. [MacCormick Festive](/setts/s9/ly3db24r3db8k1t16k1db3w3~x2/) — ΔT 1.56
+1. [MacCormick Festive](/setts/s9/w3db3k1t16k1db8r3db24ly3~x2/) — ΔT 1.56
 1. [Prince George's Police Pipe Band](/setts/s8/db42r2y16r2db6r2y8lo3~x2/) — ΔT 1.57
 1. [World Peace (Fashion)](/setts/s11/dp8g8w3g8dp8w3b40r3k3b40w3~x2/) — ΔT 1.58
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/lo3db4w10dg2w2dg5db34ly3~x2/"><circle cx="304.2" cy="117.6" r="4" fill="#3465a4"><title>Royal Troon Golf Club, The</title></circle></a><a href="/setts/s8/db21n2w1n2db1r2db1o6~x4/"><circle cx="383.4" cy="133.5" r="4" fill="#3465a4"><title>Blue Rust</title></circle></a><a href="/setts/s9/lb1n6db4n1db16lb1db4lb6o1~x4/"><circle cx="344.9" cy="168.4" r="4" fill="#3465a4"><title>Fujisankei Serene (Corporate)</title></circle></a><a href="/setts/s10/db34lo6g6r2w2r2g10lo8db23w2~x2/"><circle cx="324.4" cy="143.2" r="4" fill="#3465a4"><title>International Pairs (Corporate)</title></circle></a><a href="/setts/s11/b30r2b2k5b3dy2b3dy22b3k2b3~x2/"><circle cx="327.3" cy="139.6" r="4" fill="#3465a4"><title>Dunbarton Weft</title></circle></a><a href="/setts/s12/db76w3r4w3g4w3dg8db19t20db3t8w10/"><circle cx="334.4" cy="82.2" r="4" fill="#3465a4"><title>Summerwood (School)</title></circle></a><a href="/setts/s8/b20r1w3db1w2db8g3w1~x4/"><circle cx="264.8" cy="123.3" r="4" fill="#3465a4"><title>Kruenaegel and Schropp (Name)</title></circle></a><a href="/setts/s9/ly3db24r3db8k1t16k1db3w3~x2/"><circle cx="297.8" cy="114.6" r="4" fill="#3465a4"><title>MacCormick Festive</title></circle></a><a href="/setts/s8/db42r2y16r2db6r2y8lo3~x2/"><circle cx="365.9" cy="146.4" r="4" fill="#3465a4"><title>Prince George's Police Pipe Band</title></circle></a><a href="/setts/s11/dp8g8w3g8dp8w3b40r3k3b40w3~x2/"><circle cx="319.3" cy="128.6" r="4" fill="#3465a4"><title>World Peace (Fashion)</title></circle></a><circle cx="339.9" cy="129.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/lo3db4w10dg2w2dg5db34ly3~x2/"><circle cx="304.0" cy="117.4" r="4" fill="#3465a4"><title>Royal Troon Golf Club, The</title></circle></a><a href="/setts/s8/db21n2w1n2db1r2db1o6~x4/"><circle cx="383.4" cy="133.4" r="4" fill="#3465a4"><title>Blue Rust</title></circle></a><a href="/setts/s9/o1lb6db4lb1db16n1db4n6lb1~x4/"><circle cx="344.8" cy="168.2" r="4" fill="#3465a4"><title>Fujisankei Serene (Corporate)</title></circle></a><a href="/setts/s10/db34lo6g6r2w2r2g10lo8db23w2~x2/"><circle cx="324.3" cy="143.1" r="4" fill="#3465a4"><title>International Pairs (Corporate)</title></circle></a><a href="/setts/s11/b30r2b2k5b3dy2b3dy22b3k2b3~x2/"><circle cx="327.1" cy="139.4" r="4" fill="#3465a4"><title>Dunbarton Weft</title></circle></a><a href="/setts/s12/db76w3r4w3g4w3dg8db19t20db3t8w10/"><circle cx="334.3" cy="82.2" r="4" fill="#3465a4"><title>Summerwood (School)</title></circle></a><a href="/setts/s8/b20r1w3db1w2db8g3w1~x4/"><circle cx="264.7" cy="123.2" r="4" fill="#3465a4"><title>Kruenaegel and Schropp (Name)</title></circle></a><a href="/setts/s9/w3db3k1t16k1db8r3db24ly3~x2/"><circle cx="297.7" cy="114.6" r="4" fill="#3465a4"><title>MacCormick Festive</title></circle></a><a href="/setts/s8/db42r2y16r2db6r2y8lo3~x2/"><circle cx="365.8" cy="146.2" r="4" fill="#3465a4"><title>Prince George's Police Pipe Band</title></circle></a><a href="/setts/s11/dp8g8w3g8dp8w3b40r3k3b40w3~x2/"><circle cx="319.1" cy="128.6" r="4" fill="#3465a4"><title>World Peace (Fashion)</title></circle></a><circle cx="339.7" cy="128.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/b46dp3lr3dp3lr4dp12w3k3~x2/

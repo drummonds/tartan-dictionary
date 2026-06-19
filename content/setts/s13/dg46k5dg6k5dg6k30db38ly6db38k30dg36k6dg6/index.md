@@ -2,12 +2,18 @@
 title: "Dewar, Highlander"
 date: 2023-03-18
 ---
-**Bands:** [GKGKBYBKGKGKG](/stripes/gkgkbybkgkgkg/) · **Stripes:** [DG K DG K DB LY DB K DG K DG K DG](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">DG K DG K DB LY DB K DG K DG K DG</span></span>
+**Bands:** [GKGKGKBYBKGKG](/stripes/gkgkgkbybkgkg/) · **Stripes:** [DG K DG K DG K DB LY DB K DG K DG](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">DG K DG K DG K DB LY DB K DG K DG</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Dewar, Highlander
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DG/6 K6 DG36 K30 B38 Y6 B38 K30 DG6 K5 DG6 K5 DG/46
+DG/46 K5 DG6 K5 DG6 K30 B38 Y6 B38 K30 DG36 K6 DG/6
 ![Sett](sett.png)
 
 ## Palette
@@ -909,21 +918,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Urquhart L](/setts/s13/dg8k1dg1k1dg1k8db8r1db8k8dg8k1dg1/) — ΔT 0.72
+1. [Urquhart L](/setts/s13/dg8k1dg1k1dg1k8db8r1db8k8dg8k1dg1~x2/) — ΔT 0.72
 1. [Forbes](/setts/s15/db8k1db2k1db2k6dg8k1lb2k1dg8k6db8k1db2/) — ΔT 0.76
-1. [MacDonald](/setts/s12/db8r1db2r3db12r1k12dg12r3dg2r1dg8~x2/) — ΔT 0.86
+1. [MacDonald](/setts/s12/dg8r1dg2r3dg12k12r1db12r3db2r1db8~x2/) — ΔT 0.86
 1. [Mulholland (Personal)](/setts/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/) — ΔT 0.86
 1. [92nd Regiment (Gordon) (Mil.)](/setts/s13/db16k3db3k3db3k16dg19lo3dg19k16db15k3db3~x2/) — ΔT 0.90
 1. [Murray of Atholl](/setts/s13/db12k2db2k2db2k12dg12r3dg12k12db12k1r3/) — ΔT 0.91
+1. [MacDonald](/setts/s12/dg8r1dg2r3dg12k12r1db12r3db2r1db8/) — ΔT 0.91
 1. [Forbes](/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2~x2/) — ΔT 0.91
 1. [Forbes](/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2/) — ΔT 0.91
 1. [Cheape of Torosay (Personal)](/setts/s13/db8k1db1k1db1k7g6lb1g6k7db7k1lb1~x4/) — ΔT 0.92
-1. [Safeway](/setts/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/) — ΔT 0.92
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dg8k1dg1k1dg1k8db8r1db8k8dg8k1dg1/"><circle cx="183.4" cy="209.6" r="4" fill="#3465a4"><title>Urquhart L</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6dg8k1lb2k1dg8k6db8k1db2/"><circle cx="179.5" cy="203.4" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s12/db8r1db2r3db12r1k12dg12r3dg2r1dg8~x2/"><circle cx="170.2" cy="184.3" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/setts/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/"><circle cx="168.8" cy="199.8" r="4" fill="#3465a4"><title>Mulholland (Personal)</title></circle></a><a href="/setts/s13/db16k3db3k3db3k16dg19lo3dg19k16db15k3db3~x2/"><circle cx="149.4" cy="216.7" r="4" fill="#3465a4"><title>92nd Regiment (Gordon) (Mil.)</title></circle></a><a href="/setts/s13/db12k2db2k2db2k12dg12r3dg12k12db12k1r3/"><circle cx="170.0" cy="195.9" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2~x2/"><circle cx="190.9" cy="208.8" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2/"><circle cx="190.9" cy="208.8" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/db8k1db1k1db1k7g6lb1g6k7db7k1lb1~x4/"><circle cx="182.6" cy="207.8" r="4" fill="#3465a4"><title>Cheape of Torosay (Personal)</title></circle></a><a href="/setts/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/"><circle cx="166.2" cy="172.9" r="4" fill="#3465a4"><title>Safeway</title></circle></a><circle cx="192.1" cy="200.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dg8k1dg1k1dg1k8db8r1db8k8dg8k1dg1~x2/"><circle cx="183.7" cy="209.6" r="4" fill="#3465a4"><title>Urquhart L</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6dg8k1lb2k1dg8k6db8k1db2/"><circle cx="179.8" cy="203.4" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s12/dg8r1dg2r3dg12k12r1db12r3db2r1db8~x2/"><circle cx="170.4" cy="184.3" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/setts/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/"><circle cx="169.0" cy="199.8" r="4" fill="#3465a4"><title>Mulholland (Personal)</title></circle></a><a href="/setts/s13/db16k3db3k3db3k16dg19lo3dg19k16db15k3db3~x2/"><circle cx="149.7" cy="216.7" r="4" fill="#3465a4"><title>92nd Regiment (Gordon) (Mil.)</title></circle></a><a href="/setts/s13/db12k2db2k2db2k12dg12r3dg12k12db12k1r3/"><circle cx="170.3" cy="196.0" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/setts/s12/dg8r1dg2r3dg12k12r1db12r3db2r1db8/"><circle cx="185.6" cy="192.6" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2~x2/"><circle cx="191.2" cy="208.9" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2/"><circle cx="191.2" cy="208.9" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/db8k1db1k1db1k7g6lb1g6k7db7k1lb1~x4/"><circle cx="182.8" cy="207.8" r="4" fill="#3465a4"><title>Cheape of Torosay (Personal)</title></circle></a><circle cx="192.3" cy="200.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/dg46k5dg6k5dg6k30db38ly6db38k30dg36k6dg6/

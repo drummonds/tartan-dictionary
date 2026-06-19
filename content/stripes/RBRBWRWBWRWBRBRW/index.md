@@ -22,6 +22,6 @@ RBRBWRWBWRWBRBRW
 
 | Tartans |
 |---------------|
-| [Snoozzzeee](/setts/s16/lb6r3db36r4db12lb24r72lb8db4lb8r72lb24db12r4db36r3/)|
-|![Snoozzzeee example sett](/setts/s16/lb6r3db36r4db12lb24r72lb8db4lb8r72lb24db12r4db36r3/sett.png)|
+| [Snoozzzeee](/setts/s16/lb6r3db36r4db12lb24r72lb8db4/)|
+|![Snoozzzeee example sett](/setts/s16/lb6r3db36r4db12lb24r72lb8db4/sett.png)|
 

@@ -23,7 +23,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10593](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10593)
 
 ## Thread count
-K/26 N12 K10 G86 Y12 W14 Y/34
+Y/34 W14 Y12 G86 K10 N12 K/26
 ![Sett](sett.png)
 
 ## Palette
@@ -39,7 +39,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/26 N12 K10 G86 Y12 W14 Y/34 tartan")
+![Tartan detail](tartan.png "Y/34 W14 Y12 G86 K10 N12 K/26 tartan")
 
 ## Nearest tartans
 
@@ -58,8 +58,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g18k2lr2k2t3k2ly6~x4/"><circle cx="209.8" cy="159.7" r="4" fill="#3465a4"><title>Alberta</title></circle></a><a href="/setts/s10/k3ly2g18w3g18k3ly4k3g18w3~x2/"><circle cx="179.4" cy="164.9" r="4" fill="#3465a4"><title>Forrester / Foster, hunting</title></circle></a><a href="/setts/s10/k3ly2g18w3g13k3ly4k3g18w3~x2/"><circle cx="165.3" cy="168.1" r="4" fill="#3465a4"><title>Forrester/Foster Hunting</title></circle></a><a href="/setts/s6/g11w11k3ly3dg36r7~x2/"><circle cx="194.6" cy="150.3" r="4" fill="#3465a4"><title>Driver, RC</title></circle></a><a href="/setts/s9/w16g2k5r2k10g11ly2g11k2~x2/"><circle cx="112.9" cy="172.9" r="4" fill="#3465a4"><title>Unnamed 9</title></circle></a><a href="/setts/s6/w8k16g32dt3lo5w5~x2/"><circle cx="187.3" cy="178.7" r="4" fill="#3465a4"><title>Mellor (Name)</title></circle></a><a href="/setts/s7/m5dg27o2g25ly7dg3m3~x2/"><circle cx="202.8" cy="165.0" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/setts/s9/dg41lo3g7n3w24dg10g7n7w3~x2/"><circle cx="212.8" cy="137.0" r="4" fill="#3465a4"><title>Drummond of Perth Dress (Dance)</title></circle></a><a href="/setts/s11/g1k1g9k7ly1g5g4w2g1w1g1~x4/"><circle cx="187.2" cy="163.8" r="4" fill="#3465a4"><title>Parkhead</title></circle></a><a href="/setts/s10/w7r1w14k6lo2k6g14r2g10lo1~x2/"><circle cx="127.6" cy="143.3" r="4" fill="#3465a4"><title>Spanish shirt</title></circle></a><circle cx="142.3" cy="163.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g18k2lr2k2t3k2ly6~x4/"><circle cx="209.6" cy="159.6" r="4" fill="#3465a4"><title>Alberta</title></circle></a><a href="/setts/s10/k3ly2g18w3g18k3ly4k3g18w3~x2/"><circle cx="179.2" cy="164.8" r="4" fill="#3465a4"><title>Forrester / Foster, hunting</title></circle></a><a href="/setts/s10/k3ly2g18w3g13k3ly4k3g18w3~x2/"><circle cx="165.2" cy="168.0" r="4" fill="#3465a4"><title>Forrester/Foster Hunting</title></circle></a><a href="/setts/s6/g11w11k3ly3dg36r7~x2/"><circle cx="194.5" cy="150.2" r="4" fill="#3465a4"><title>Driver, RC</title></circle></a><a href="/setts/s9/w16g2k5r2k10g11ly2g11k2~x2/"><circle cx="112.9" cy="172.8" r="4" fill="#3465a4"><title>Unnamed 9</title></circle></a><a href="/setts/s6/w8k16g32dt3lo5w5~x2/"><circle cx="187.3" cy="178.6" r="4" fill="#3465a4"><title>Mellor (Name)</title></circle></a><a href="/setts/s7/m5dg27o2g25ly7dg3m3~x2/"><circle cx="202.7" cy="165.0" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/setts/s9/dg41lo3g7n3w24dg10g7n7w3~x2/"><circle cx="212.6" cy="136.9" r="4" fill="#3465a4"><title>Drummond of Perth Dress (Dance)</title></circle></a><a href="/setts/s11/g1k1g9k7ly1g5g4w2g1w1g1~x4/"><circle cx="187.1" cy="163.7" r="4" fill="#3465a4"><title>Parkhead</title></circle></a><a href="/setts/s10/w7r1w14k6lo2k6g14r2g10lo1~x2/"><circle cx="127.5" cy="143.3" r="4" fill="#3465a4"><title>Spanish shirt</title></circle></a><circle cx="142.1" cy="163.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/ly17w7ly6g43k5o6k13~x2/

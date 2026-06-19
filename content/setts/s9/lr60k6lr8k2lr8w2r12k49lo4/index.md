@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3028
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Motherwell Football Club. Modern
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -24,7 +30,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7090
 
 ## Thread count
-DY/4 K49 DR12 LN2 N8 K2 N8 K6 N/60
+N/60 K6 N8 K2 N8 LN2 DR12 K49 DY/4
 ![Sett](sett.png)
 
 ## Palette
@@ -49,14 +55,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Bro-Roazhon](/setts/s11/k28ly1w2ly1k3w17k5w3db2w10g2~x2/) — ΔT 1.09
 1. [Ballarat](/setts/s10/w5n38y3db11y1db11y3n4w5lo1~x2/) — ΔT 1.13
 1. [Bell of the Borders](/setts/s9/r3g2k9lr2k2lr24ly2lr2ly1~x4/) — ΔT 1.17
-1. [Harris (Personal)](/setts/s11/lb1n3lb8r1lb1r1lb20k15lb2n8lo1~x2/) — ΔT 1.18
+1. [Harris (Personal)](/setts/s11/lo1n8lb2k15lb20r1lb1r1lb8n3lb1~x2/) — ΔT 1.18
 1. [Royal College of G.P.s (Corporate)](/setts/s8/lo8k50o15dg6o6db3o6lo2~x2/) — ΔT 1.20
 1. [Fiander, Julian (Personal)](/setts/s10/r6dg2w21dg2lo2k8lo2dg32w1k3~x2/) — ΔT 1.23
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w3r2p31g30ly2g2ly1~x2/"><circle cx="298.9" cy="109.7" r="4" fill="#3465a4"><title>Caig (Personal)</title></circle></a><a href="/setts/s9/p6r1p20g6p6g24k1g2w4~x2/"><circle cx="279.3" cy="125.7" r="4" fill="#3465a4"><title>MacNeill</title></circle></a><a href="/setts/s8/k3r1k18w1lo18g1lo1w2~x4/"><circle cx="266.7" cy="119.0" r="4" fill="#3465a4"><title>Dunlop Hunting</title></circle></a><a href="/setts/s7/w3r2dp31g30ly2dp2ly1~x2/"><circle cx="314.0" cy="114.8" r="4" fill="#3465a4"><title>Caig (Corporate)</title></circle></a><a href="/setts/s11/k28ly1w2ly1k3w17k5w3db2w10g2~x2/"><circle cx="264.5" cy="81.1" r="4" fill="#3465a4"><title>Bro-Roazhon</title></circle></a><a href="/setts/s10/w5n38y3db11y1db11y3n4w5lo1~x2/"><circle cx="307.0" cy="94.7" r="4" fill="#3465a4"><title>Ballarat</title></circle></a><a href="/setts/s9/r3g2k9lr2k2lr24ly2lr2ly1~x4/"><circle cx="309.3" cy="92.0" r="4" fill="#3465a4"><title>Bell of the Borders</title></circle></a><a href="/setts/s11/lb1n3lb8r1lb1r1lb20k15lb2n8lo1~x2/"><circle cx="255.8" cy="101.5" r="4" fill="#3465a4"><title>Harris (Personal)</title></circle></a><a href="/setts/s8/lo8k50o15dg6o6db3o6lo2~x2/"><circle cx="297.4" cy="121.4" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><a href="/setts/s10/r6dg2w21dg2lo2k8lo2dg32w1k3~x2/"><circle cx="228.8" cy="80.3" r="4" fill="#3465a4"><title>Fiander, Julian (Personal)</title></circle></a><circle cx="293.5" cy="97.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w3r2p31g30ly2g2ly1~x2/"><circle cx="298.7" cy="109.7" r="4" fill="#3465a4"><title>Caig (Personal)</title></circle></a><a href="/setts/s9/p6r1p20g6p6g24k1g2w4~x2/"><circle cx="279.1" cy="125.6" r="4" fill="#3465a4"><title>MacNeill</title></circle></a><a href="/setts/s8/k3r1k18w1lo18g1lo1w2~x4/"><circle cx="266.5" cy="118.8" r="4" fill="#3465a4"><title>Dunlop Hunting</title></circle></a><a href="/setts/s7/w3r2dp31g30ly2dp2ly1~x2/"><circle cx="313.8" cy="114.7" r="4" fill="#3465a4"><title>Caig (Corporate)</title></circle></a><a href="/setts/s11/k28ly1w2ly1k3w17k5w3db2w10g2~x2/"><circle cx="264.2" cy="81.0" r="4" fill="#3465a4"><title>Bro-Roazhon</title></circle></a><a href="/setts/s10/w5n38y3db11y1db11y3n4w5lo1~x2/"><circle cx="306.8" cy="94.7" r="4" fill="#3465a4"><title>Ballarat</title></circle></a><a href="/setts/s9/r3g2k9lr2k2lr24ly2lr2ly1~x4/"><circle cx="308.9" cy="91.8" r="4" fill="#3465a4"><title>Bell of the Borders</title></circle></a><a href="/setts/s11/lo1n8lb2k15lb20r1lb1r1lb8n3lb1~x2/"><circle cx="255.5" cy="101.4" r="4" fill="#3465a4"><title>Harris (Personal)</title></circle></a><a href="/setts/s8/lo8k50o15dg6o6db3o6lo2~x2/"><circle cx="297.3" cy="121.3" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><a href="/setts/s10/r6dg2w21dg2lo2k8lo2dg32w1k3~x2/"><circle cx="228.6" cy="80.3" r="4" fill="#3465a4"><title>Fiander, Julian (Personal)</title></circle></a><circle cx="293.2" cy="97.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/lr60k6lr8k2lr8w2r12k49lo4/

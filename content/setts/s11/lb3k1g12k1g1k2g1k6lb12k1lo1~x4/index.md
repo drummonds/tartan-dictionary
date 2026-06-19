@@ -2,7 +2,7 @@
 title: "MacCandlish Arisaid Green"
 date: 2023-03-18
 ---
-**Bands:** [WKGKGKGKWKY](/stripes/wkgkgkgkwky/) · **Stripes:** [LB K G K G K G K LB K LO](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LB K G K G K G K LB K LO</span></span>
+**Bands:** [YKWKGKGKGKW](/stripes/ykwkgkgkgkw/) · **Stripes:** [LO K LB K G K G K G K LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LO K LB K G K G K G K LB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3325
 
 ## Thread count
-DY/4 K4 N48 K24 G4 K8 G4 K4 G48 K4 LB/12
+LB/12 K4 G48 K4 G4 K8 G4 K24 N48 K4 DY/4
 ![Sett](sett.png)
 
 ## Palette
@@ -38,7 +38,7 @@ The nearest existing variants by ΔTartan distance.
 1. [McCandlish Arisaid, Green (Name)](/setts/s11/lb3k1g12k1g1k2g1k6w12k1lo1~x4/) — ΔT 0.36
 1. [Blair, dress](/setts/s13/db1r1db8k3g8r1g1r1g8k3w10r1w1~x4/) — ΔT 0.82
 1. [MacKellar Dress, Green (Dance)](/setts/s11/dg27w2dg3lo4dg3w2dg5k13lg2w26lg3~x2/) — ΔT 0.88
-1. [MacInnes, dress](/setts/s13/g4w24g3k3g3k3g24k4w4k4db24g8r4~x2/) — ΔT 0.89
+1. [MacInnes, dress](/setts/s13/r4g8db24k4w4k4g24k3g3k3g3w24g4~x2/) — ΔT 0.89
 1. [Praetorian, Green (Fashion)](/setts/s14/w1k1ly1dg8k1lr1w8lr1k8lr1w1dg8lr1w1~x6/) — ΔT 0.91
 1. [Cameron Boyle, The (Personal)](/setts/s13/g5b20g2b2g2b2g25r2g2r17k8g2w2~x2/) — ΔT 0.94
 1. [MacManus](/setts/s9/w3ly2g8ly2k3ly2n15k1ly2~x4/) — ΔT 0.96
@@ -48,8 +48,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/lb3k1g12k1g1k2g1k6w12k1lo1~x4/"><circle cx="134.4" cy="121.2" r="4" fill="#3465a4"><title>McCandlish Arisaid, Green (Name)</title></circle></a><a href="/setts/s13/db1r1db8k3g8r1g1r1g8k3w10r1w1~x4/"><circle cx="106.6" cy="133.1" r="4" fill="#3465a4"><title>Blair, dress</title></circle></a><a href="/setts/s11/dg27w2dg3lo4dg3w2dg5k13lg2w26lg3~x2/"><circle cx="177.9" cy="118.5" r="4" fill="#3465a4"><title>MacKellar Dress, Green (Dance)</title></circle></a><a href="/setts/s13/g4w24g3k3g3k3g24k4w4k4db24g8r4~x2/"><circle cx="112.5" cy="138.5" r="4" fill="#3465a4"><title>MacInnes, dress</title></circle></a><a href="/setts/s14/w1k1ly1dg8k1lr1w8lr1k8lr1w1dg8lr1w1~x6/"><circle cx="127.5" cy="130.8" r="4" fill="#3465a4"><title>Praetorian, Green (Fashion)</title></circle></a><a href="/setts/s13/g5b20g2b2g2b2g25r2g2r17k8g2w2~x2/"><circle cx="182.4" cy="124.9" r="4" fill="#3465a4"><title>Cameron Boyle, The (Personal)</title></circle></a><a href="/setts/s9/w3ly2g8ly2k3ly2n15k1ly2~x4/"><circle cx="173.1" cy="141.1" r="4" fill="#3465a4"><title>MacManus</title></circle></a><a href="/setts/s13/g8r1g2r2g12w1k12r1t12r2t2r1t8~x4/"><circle cx="147.1" cy="145.0" r="4" fill="#3465a4"><title>Boston Pipe Band, Greater (Corp)</title></circle></a><a href="/setts/s12/o4w2o2w3o18k6g3k2g2k2g14lo3~x2/"><circle cx="150.6" cy="143.3" r="4" fill="#3465a4"><title>Dorcas, Check</title></circle></a><a href="/setts/s13/k3ly4k3ly4k3g16k16w3b16k2w2k2ly2~x2/"><circle cx="109.6" cy="141.8" r="4" fill="#3465a4"><title>Lotus Elan (Corporate)</title></circle></a><circle cx="143.1" cy="127.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/lb3k1g12k1g1k2g1k6w12k1lo1~x4/"><circle cx="134.3" cy="121.2" r="4" fill="#3465a4"><title>McCandlish Arisaid, Green (Name)</title></circle></a><a href="/setts/s13/db1r1db8k3g8r1g1r1g8k3w10r1w1~x4/"><circle cx="106.5" cy="133.1" r="4" fill="#3465a4"><title>Blair, dress</title></circle></a><a href="/setts/s11/dg27w2dg3lo4dg3w2dg5k13lg2w26lg3~x2/"><circle cx="177.8" cy="118.4" r="4" fill="#3465a4"><title>MacKellar Dress, Green (Dance)</title></circle></a><a href="/setts/s13/r4g8db24k4w4k4g24k3g3k3g3w24g4~x2/"><circle cx="112.4" cy="138.5" r="4" fill="#3465a4"><title>MacInnes, dress</title></circle></a><a href="/setts/s14/w1k1ly1dg8k1lr1w8lr1k8lr1w1dg8lr1w1~x6/"><circle cx="127.4" cy="130.8" r="4" fill="#3465a4"><title>Praetorian, Green (Fashion)</title></circle></a><a href="/setts/s13/g5b20g2b2g2b2g25r2g2r17k8g2w2~x2/"><circle cx="182.2" cy="124.9" r="4" fill="#3465a4"><title>Cameron Boyle, The (Personal)</title></circle></a><a href="/setts/s9/w3ly2g8ly2k3ly2n15k1ly2~x4/"><circle cx="173.0" cy="141.1" r="4" fill="#3465a4"><title>MacManus</title></circle></a><a href="/setts/s13/g8r1g2r2g12w1k12r1t12r2t2r1t8~x4/"><circle cx="147.0" cy="145.1" r="4" fill="#3465a4"><title>Boston Pipe Band, Greater (Corp)</title></circle></a><a href="/setts/s12/o4w2o2w3o18k6g3k2g2k2g14lo3~x2/"><circle cx="150.5" cy="143.3" r="4" fill="#3465a4"><title>Dorcas, Check</title></circle></a><a href="/setts/s13/k3ly4k3ly4k3g16k16w3b16k2w2k2ly2~x2/"><circle cx="109.5" cy="141.8" r="4" fill="#3465a4"><title>Lotus Elan (Corporate)</title></circle></a><circle cx="143.0" cy="127.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/lb3k1g12k1g1k2g1k6lb12k1lo1~x4/

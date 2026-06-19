@@ -42,9 +42,9 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Denholme](/setts/s5/k2g8k7db8r2~x2/) — ΔT 0.57
 1. [Unidentified, pattern](/setts/s4/db4k5g4r1~x4/) — ΔT 0.92
-1. [Lennie](/setts/s6/g2p8k9t2g10k2~x2/) — ΔT 1.09
+1. [Lennie](/setts/s6/k2g10t2k9p8g2~x2/) — ΔT 1.09
 1. [Campbell, Sir Walter Scott](/setts/s6/k2g8db2k9p7k2~x2/) — ΔT 1.13
-1. [Scottish Airports](/setts/s6/dp4dt18k17dt3g18dt4~x2/) — ΔT 1.14
+1. [Scottish Airports](/setts/s6/dt4g18dt3k17dt18dp4~x2/) — ΔT 1.14
 1. [Wilson's No 220](/setts/s4/dp8k11dg9w2~x2/) — ΔT 1.20
 1. [Denholm](/setts/s8/g8k7db8r2db8k7g8k2~x2/) — ΔT 1.20
 1. [Wilson's, No 159](/setts/s4/p8k11g9r2~x2/) — ΔT 1.22
@@ -53,8 +53,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k2g8k7db8r2~x2/"><circle cx="98.3" cy="279.7" r="4" fill="#3465a4"><title>Denholme</title></circle></a><a href="/setts/s4/db4k5g4r1~x4/"><circle cx="108.5" cy="293.3" r="4" fill="#3465a4"><title>Unidentified, pattern</title></circle></a><a href="/setts/s6/g2p8k9t2g10k2~x2/"><circle cx="126.8" cy="244.3" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/setts/s6/k2g8db2k9p7k2~x2/"><circle cx="151.9" cy="255.6" r="4" fill="#3465a4"><title>Campbell, Sir Walter Scott</title></circle></a><a href="/setts/s6/dp4dt18k17dt3g18dt4~x2/"><circle cx="162.0" cy="252.7" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/setts/s4/dp8k11dg9w2~x2/"><circle cx="141.9" cy="293.9" r="4" fill="#3465a4"><title>Wilson's No 220</title></circle></a><a href="/setts/s8/g8k7db8r2db8k7g8k2~x2/"><circle cx="86.7" cy="284.3" r="4" fill="#3465a4"><title>Denholm</title></circle></a><a href="/setts/s4/p8k11g9r2~x2/"><circle cx="119.0" cy="279.2" r="4" fill="#3465a4"><title>Wilson's, No 159</title></circle></a><a href="/setts/s4/p8k11g9w2~x2/"><circle cx="109.5" cy="276.1" r="4" fill="#3465a4"><title>Wilson's, No 220</title></circle></a><a href="/setts/s6/db6k6db18k18g22k5/"><circle cx="154.3" cy="285.4" r="4" fill="#3465a4"><title>Campbell, the 42nd</title></circle></a><circle cx="110.1" cy="284.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k2g8k7db8r2~x2/"><circle cx="98.7" cy="279.6" r="4" fill="#3465a4"><title>Denholme</title></circle></a><a href="/setts/s4/db4k5g4r1~x4/"><circle cx="108.8" cy="293.2" r="4" fill="#3465a4"><title>Unidentified, pattern</title></circle></a><a href="/setts/s6/k2g10t2k9p8g2~x2/"><circle cx="127.0" cy="244.2" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/setts/s6/k2g8db2k9p7k2~x2/"><circle cx="152.2" cy="255.5" r="4" fill="#3465a4"><title>Campbell, Sir Walter Scott</title></circle></a><a href="/setts/s6/dt4g18dt3k17dt18dp4~x2/"><circle cx="162.3" cy="252.7" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/setts/s4/dp8k11dg9w2~x2/"><circle cx="142.2" cy="293.9" r="4" fill="#3465a4"><title>Wilson's No 220</title></circle></a><a href="/setts/s8/g8k7db8r2db8k7g8k2~x2/"><circle cx="87.1" cy="284.2" r="4" fill="#3465a4"><title>Denholm</title></circle></a><a href="/setts/s4/p8k11g9r2~x2/"><circle cx="119.3" cy="279.1" r="4" fill="#3465a4"><title>Wilson's, No 159</title></circle></a><a href="/setts/s4/p8k11g9w2~x2/"><circle cx="109.8" cy="275.9" r="4" fill="#3465a4"><title>Wilson's, No 220</title></circle></a><a href="/setts/s6/db6k6db18k18g22k5/"><circle cx="154.6" cy="285.3" r="4" fill="#3465a4"><title>Campbell, the 42nd</title></circle></a><circle cx="110.5" cy="284.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/k5g20k18db20r5~x2/

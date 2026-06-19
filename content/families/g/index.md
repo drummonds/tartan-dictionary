@@ -3,7 +3,7 @@ title: "Families & clans — G"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-62 clans and families beginning with G. [Back to the A–Z](/families/).
+67 clans and families beginning with G. [Back to the A–Z](/families/).
 
 ## G
 
@@ -12,10 +12,10 @@ background: /bg/clans.png
 ## Ga
 
 - [Gaffney](/setts/s17/ly1r2k4r14g8r2g3ly1g3r2g8r13k2r2k2r1ly1~x2/)
-- [Gallacher,](/setts/s20/g7w1b7w2b6w3b5w4b4w5b3w6b2w7b1w8r31r31k10g4/)
+- [Gallacher,](/setts/s20/g7w1b7w2b6w3b5w4b4w5b3w6b2w7b1w8r31r31k10g4~x2/)
 - [Galloway](/setts/s4/r2k50y2r1~x2/)
 - [Galvez-Brown](/setts/s7/db36ly5r12r9dp5w12ly7~x2/)
-- [Gamba Tuscany Fife](/setts/s5/dg5r3g30db30w3~x2/)
+- [Gamba](/setts/s5/dg5r3g30db30w3~x2/)
 - [Gandy](/clan/gandy/) — clan
 - [Gandy of Myrton](/families/gandy-of-myrton/)
 - [Gangs](/clan/gangs/) — clan
@@ -24,20 +24,19 @@ background: /bg/clans.png
 
 ## Ge
 
-- [Gemmell](/clan/gemmell/) — clan
-- [Gemmell of Dumfries & Galloway](/families/gemmell-of-dumfries-galloway/)
 - [Genet](/clan/genet/) — clan
 - [Genet of An Gwylvos](/families/genet-of-an-gwylvos/)
 - [Gettelman](/setts/s10/k60o4g25g3g4w1db1r1w1db3~x2/)
 
 ## Gi
 
-- [Givens](/setts/s6/k42w5k5dg16k5db21~x2/)
+- [Gibbs/Gibson](/setts/s13/dg1r16w1db2w2ly4w2ly4w2db2w1dg16t1~x4/)
+- [Givens](/setts/s6/k42w5dg16k5k5db21~x2/)
 
 ## Gl
 
-- [Glassary](/setts/s29/w2ly2g3ly6w1k1w1ly6k1g3k1dy4k1w1t2w1k1dy4k1g3k1r6w1k1w1r6g3r2w2~x2/)
-- [Glassary #2](/setts/s8/db4ly1r12ly2r2ly12r1db4~x4/)
+- [Glassary](/setts/s29/w2r2g3r6w1k1w1r6k1g3k1dy4k1w1t2w1k1dy4k1g3k1ly6w1k1w1ly6g3ly2w2~x2/)
+- [Glassary #2](/setts/s8/db4r1ly12r2ly2r12ly1db4~x4/)
 - [Glassary #3](/setts/s8/db4ly1r12ly2r2ly12r1ly4~x4/)
 - [Glen](/clan/glen/) — clan
 - [Glen of Daviot](/families/glen-of-daviot/)
@@ -51,6 +50,7 @@ background: /bg/clans.png
 ## Go
 
 - [Goldwire](/setts/s14/k3lo3k3lo3k3lo3k3lo3k36w1k2dt9r2dt1~x2/)
+- [Golfing Stewart](/setts/s10/ly4r2k9r25k3r2k3r4db15w3~x2/)
 - [Gordon (Duke of Gordon)](/clan/gordon/) — clan
 - [Gordon of Abergeldie](/families/gordon-of-abergeldie/)
 - [Gordon of Esselmont](/families/gordon-of-esselmont/)
@@ -58,8 +58,8 @@ background: /bg/clans.png
 
 ## Gr
 
-- [Gracey](/setts/s7/p3dp8g20k20db17k3t3~x2/)
-- [Gracie](/setts/s8/g47r3g6db35lo3db35g6r3~x2/)
+- [Gracey](/setts/s7/r3dp8g20k20db17k3lg3~x2/)
+- [Gracie](/setts/s8/g47r3g6db35lo3~x2/)
 - [Graeme Heckenberg Hunting](/setts/s7/db3g13lr1o3lr1db10lo1~x2/)
 - [Graham](/clan/graham/) — clan
 - [Graham of Airth](/families/graham-of-airth/)
@@ -67,17 +67,19 @@ background: /bg/clans.png
 - [Graham of Montrose](/families/graham-of-montrose/)
 - [Grant](/clan/grant/) — clan
 - [Grant of Acharrow](/families/grant-of-acharrow/)
+- [Grant of Acharrow Artifact](/families/grant-of-acharrow-artifact/)
 - [Grant of Achnarrow Error](/families/grant-of-achnarrow-error/)
-- [Grant of Auchnarrow](/families/grant-of-auchnarrow/)
 - [Grant of Ballindalloch](/families/grant-of-ballindalloch/)
 - [Grant of Glenmoriston](/families/grant-of-glenmoriston/)
 - [Grant of Lurg](/families/grant-of-lurg/)
 - [Grant of Monymusk](/families/grant-of-monymusk/)
 - [Grant of Rothiemurchus](/families/grant-of-rothiemurchus/)
 - [Grassi](/setts/s14/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3~x2/)
-- [Gray Htg](/setts/s11/k3w1g29o8m2o2m2o2m8g7k2~x2/)
+- [Gray](/setts/s10/r3y33g10r3g3r3g3r8y10r3~x2/)
 - [Green Rover, The](/setts/s7/dy10k2y5k2dg46ly2k2~x2/)
+- [Greenlaw, American](/setts/s8/b46r2b3r2b14g38k3g4~x2/)
 - [Greenup](/setts/s6/do8g50t4lb2w5ly2~x2/)
+- [Greer](/setts/s8/t16db3t3o3t3db10r12w4~x2/)
 - [Grewar](/setts/s10/o2g2o16g2dp17dg10g10g15dg1w2~x2/)
 - [Griffith](/clan/griffith/) — clan
 - [Griffith of Wales](/families/griffith-of-wales/)
@@ -88,9 +90,12 @@ background: /bg/clans.png
 
 - [Gudbrandsdalen](/clan/gudbrandsdalen/) — clan
 - [Gudbrandsdalen of Mannsdrakt](/families/gudbrandsdalen-of-mannsdrakt/)
+- [Gunn](/setts/s11/g4db28g1k28g28r4g28k28g2db28g1~x2/)
+- [Guthrie](/setts/s9/k1g12k12r1k1r1k12b12r1~x4/)
 
 ## Gw
 
 - [Gwyn](/clan/gwyn/) — clan
 - [Gwyn of Wales](/families/gwyn-of-wales/)
+- [Gwynn](/setts/s5/ly9k4ly4k45r4~x2/)
 

@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -911,12 +914,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Raibert Check](/setts/s12/db3dy14g2dy2g2dy3g6w18db3dy2db2dy2~x2/) — ΔT 1.18
 1. [Walker Dress Family Tartan Tartan Number: 2070. Earliest known date: 1991 R.W.Hawks submitted this tartan via Phil Smith in January 1992. Hawks advised Oct. 1993 that he is agreeable for any Walkers to use this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/ly4dt2m7dt15m3dt3m3dt7w28m7w6m2/) — ΔT 1.19
 1. [Fiona](/setts/s13/lp16do2lp2o2lp2do24w2o1w1o1w12do1o2~x4/) — ΔT 1.25
-1. [Robertson dress Hunting](/setts/s15/w3dg2r8w14b3r3b20r3dg20r3b3w14r8dg2w3~x2/) — ΔT 1.27
+1. [Robertson dress Hunting](/setts/s15/w3dg2r8w14b3r3dg20r3b20r3b3w14r8dg2w3~x2/) — ΔT 1.27
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k8w7k2w3k2w3k2w3k2w7g18m27w3~x2/"><circle cx="145.8" cy="121.7" r="4" fill="#3465a4"><title>IAPD (Corporate)</title></circle></a><a href="/setts/s12/k2lo2b16lo2k2lo2lb2lo2lb15lo1k2lo2~x2/"><circle cx="183.2" cy="116.9" r="4" fill="#3465a4"><title>Independence</title></circle></a><a href="/setts/s13/w4ly10db20k1w12ly1db4w2k4ly5k10w5db2~x2/"><circle cx="134.8" cy="120.8" r="4" fill="#3465a4"><title>Dinarzh: (Fashion)</title></circle></a><a href="/setts/s11/lb3k1n12k1n1k2n1k6w12k1lo1~x4/"><circle cx="141.2" cy="118.1" r="4" fill="#3465a4"><title>McCandlish Arisaid, Grey (Name)</title></circle></a><a href="/setts/s9/r1t1k11t1r1t1w11t1r1~x2/"><circle cx="188.4" cy="130.0" r="4" fill="#3465a4"><title>MacPherson #4</title></circle></a><a href="/setts/s12/w6dg2w27k10n4k4n4k4n15r2n2r4~x2/"><circle cx="154.2" cy="113.0" r="4" fill="#3465a4"><title>Sutherland Dress, Old (Dance)</title></circle></a><a href="/setts/s12/db3dy14g2dy2g2dy3g6w18db3dy2db2dy2~x2/"><circle cx="160.5" cy="143.9" r="4" fill="#3465a4"><title>Raibert Check</title></circle></a><a href="/setts/s12/ly4dt2m7dt15m3dt3m3dt7w28m7w6m2/"><circle cx="186.0" cy="127.4" r="4" fill="#3465a4"><title>Walker Dress Family Tartan Tartan Number: 2070. Earliest known date: 1991 R.W.Hawks submitted this tartan via Phil Smith in January 1992. Hawks advised Oct. 1993 that he is agreeable for any Walkers to use this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/lp16do2lp2o2lp2do24w2o1w1o1w12do1o2~x4/"><circle cx="220.7" cy="81.3" r="4" fill="#3465a4"><title>Fiona</title></circle></a><a href="/setts/s15/w3dg2r8w14b3r3b20r3dg20r3b3w14r8dg2w3~x2/"><circle cx="107.8" cy="136.6" r="4" fill="#3465a4"><title>Robertson dress Hunting</title></circle></a><circle cx="153.0" cy="109.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/k8w7k2w3k2w3k2w3k2w7g18m27w3~x2/"><circle cx="145.6" cy="121.7" r="4" fill="#3465a4"><title>IAPD (Corporate)</title></circle></a><a href="/setts/s12/k2lo2b16lo2k2lo2lb2lo2lb15lo1k2lo2~x2/"><circle cx="182.9" cy="116.9" r="4" fill="#3465a4"><title>Independence</title></circle></a><a href="/setts/s13/w4ly10db20k1w12ly1db4w2k4ly5k10w5db2~x2/"><circle cx="134.6" cy="120.8" r="4" fill="#3465a4"><title>Dinarzh: (Fashion)</title></circle></a><a href="/setts/s11/lb3k1n12k1n1k2n1k6w12k1lo1~x4/"><circle cx="141.0" cy="118.1" r="4" fill="#3465a4"><title>McCandlish Arisaid, Grey (Name)</title></circle></a><a href="/setts/s9/r1t1k11t1r1t1w11t1r1~x2/"><circle cx="188.1" cy="129.9" r="4" fill="#3465a4"><title>MacPherson #4</title></circle></a><a href="/setts/s12/w6dg2w27k10n4k4n4k4n15r2n2r4~x2/"><circle cx="153.9" cy="113.0" r="4" fill="#3465a4"><title>Sutherland Dress, Old (Dance)</title></circle></a><a href="/setts/s12/db3dy14g2dy2g2dy3g6w18db3dy2db2dy2~x2/"><circle cx="160.2" cy="143.8" r="4" fill="#3465a4"><title>Raibert Check</title></circle></a><a href="/setts/s12/ly4dt2m7dt15m3dt3m3dt7w28m7w6m2/"><circle cx="185.7" cy="127.4" r="4" fill="#3465a4"><title>Walker Dress Family Tartan Tartan Number: 2070. Earliest known date: 1991 R.W.Hawks submitted this tartan via Phil Smith in January 1992. Hawks advised Oct. 1993 that he is agreeable for any Walkers to use this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/lp16do2lp2o2lp2do24w2o1w1o1w12do1o2~x4/"><circle cx="220.2" cy="81.3" r="4" fill="#3465a4"><title>Fiona</title></circle></a><a href="/setts/s15/w3dg2r8w14b3r3dg20r3b20r3b3w14r8dg2w3~x2/"><circle cx="107.5" cy="136.6" r="4" fill="#3465a4"><title>Robertson dress Hunting</title></circle></a><circle cx="152.7" cy="109.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/k2ly2db15ly2k2ly2w2ly2w14ly1k2ly2~x2/

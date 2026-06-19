@@ -18,10 +18,10 @@ GKRGRBBRGRBRGK
 
 
 
-### G K R G R DB T R G R DB R G K <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">G K R G R DB T R G R DB R G K</span></span>
+### K G R DB R G R T DB R G R K G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G R DB R G R T DB R G R K G</span></span>
 
 | Tartans |
 |---------------|
-| [Glen Orchy #2 or MacIntyre](/setts/s14/g2k2r3g18r3db6t1r4g6r2db18r3g2k2~x2/)|
-|![Glen Orchy #2 or MacIntyre example sett](/setts/s14/g2k2r3g18r3db6t1r4g6r2db18r3g2k2~x2/sett.png)|
+| [Glen Orchy #2 or MacIntyre](/setts/s14/k2g2r3db18r2g6r4t1db6r3g18r3k2g2~x2/)|
+|![Glen Orchy #2 or MacIntyre example sett](/setts/s14/k2g2r3db18r2g6r4t1db6r3g18r3k2g2~x2/sett.png)|
 

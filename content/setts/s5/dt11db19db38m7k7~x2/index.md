@@ -2,7 +2,7 @@
 title: "Rose, Danny and Hanna (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BBBRK](/stripes/bbbrk/) · **Stripes:** [DT DB DB M K](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="seq">DT DB DB M K</span></span>
+**Bands:** [KRBBB](/stripes/krbbb/) · **Stripes:** [K M DB DB DT](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#023535"></span><span class="seq">K M DB DB DT</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
@@ -38,7 +38,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Sanix Modern](/setts/s5/lo1db10k6dt8r1~x4/) — ΔT 1.61
+1. [Sanix Modern](/setts/s5/r1dt8k6db10lo1~x4/) — ΔT 1.61
 1. [Daks (Blue)](/setts/s8/dy3db6db2lo2db11db2db2dy3~x2/) — ΔT 1.77
 1. [Myres Castle](/setts/s7/dg3dg12dt6dg3db15o2db2~x2/) — ΔT 1.84
 1. [United Colours of Scotland (Corporat](/setts/s7/dg7db3dg7dt22db22w3db5~x2/) — ΔT 1.86
@@ -51,8 +51,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/lo1db10k6dt8r1~x4/"><circle cx="261.3" cy="271.3" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/setts/s8/dy3db6db2lo2db11db2db2dy3~x2/"><circle cx="305.1" cy="280.3" r="4" fill="#3465a4"><title>Daks (Blue)</title></circle></a><a href="/setts/s7/dg3dg12dt6dg3db15o2db2~x2/"><circle cx="254.8" cy="258.3" r="4" fill="#3465a4"><title>Myres Castle</title></circle></a><a href="/setts/s7/dg7db3dg7dt22db22w3db5~x2/"><circle cx="289.0" cy="275.2" r="4" fill="#3465a4"><title>United Colours of Scotland (Corporat</title></circle></a><a href="/setts/s8/dy5db12db4lo4db22db3db4dy5/"><circle cx="335.2" cy="266.4" r="4" fill="#3465a4"><title>Daks Muted blue Trade Tartan Tartan Number: 1725. Earliest known date: 1987 Submitted in 1981 as a potential Currie sett. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dt8db10dt22dg7g10dg22dp3~x2/"><circle cx="241.8" cy="294.0" r="4" fill="#3465a4"><title>Baron of Crawfordjohn (Personal)</title></circle></a><a href="/setts/s7/db12t6db52dt41m12dp6m12/"><circle cx="285.3" cy="238.3" r="4" fill="#3465a4"><title>Great Scot (Fashion)</title></circle></a><a href="/setts/s6/dg7db1dg1k4dp4k1~x4/"><circle cx="345.0" cy="313.8" r="4" fill="#3465a4"><title>MacArthur of Milton Hunting</title></circle></a><a href="/setts/s6/k4dg16k13db16t3db3~x2/"><circle cx="238.4" cy="310.2" r="4" fill="#3465a4"><title>I Y</title></circle></a><a href="/setts/s4/db21k10dt8r3~x2/"><circle cx="301.3" cy="303.3" r="4" fill="#3465a4"><title>Rangers 1989 (Sports)</title></circle></a><circle cx="292.9" cy="307.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r1dt8k6db10lo1~x4/"><circle cx="261.6" cy="271.5" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/setts/s8/dy3db6db2lo2db11db2db2dy3~x2/"><circle cx="305.2" cy="280.5" r="4" fill="#3465a4"><title>Daks (Blue)</title></circle></a><a href="/setts/s7/dg3dg12dt6dg3db15o2db2~x2/"><circle cx="255.0" cy="258.6" r="4" fill="#3465a4"><title>Myres Castle</title></circle></a><a href="/setts/s7/dg7db3dg7dt22db22w3db5~x2/"><circle cx="289.1" cy="275.3" r="4" fill="#3465a4"><title>United Colours of Scotland (Corporat</title></circle></a><a href="/setts/s8/dy5db12db4lo4db22db3db4dy5/"><circle cx="335.3" cy="266.5" r="4" fill="#3465a4"><title>Daks Muted blue Trade Tartan Tartan Number: 1725. Earliest known date: 1987 Submitted in 1981 as a potential Currie sett. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/dt8db10dt22dg7g10dg22dp3~x2/"><circle cx="242.0" cy="294.3" r="4" fill="#3465a4"><title>Baron of Crawfordjohn (Personal)</title></circle></a><a href="/setts/s7/db12t6db52dt41m12dp6m12/"><circle cx="285.4" cy="238.5" r="4" fill="#3465a4"><title>Great Scot (Fashion)</title></circle></a><a href="/setts/s6/dg7db1dg1k4dp4k1~x4/"><circle cx="345.2" cy="314.0" r="4" fill="#3465a4"><title>MacArthur of Milton Hunting</title></circle></a><a href="/setts/s6/k4dg16k13db16t3db3~x2/"><circle cx="238.7" cy="310.4" r="4" fill="#3465a4"><title>I Y</title></circle></a><a href="/setts/s4/db21k10dt8r3~x2/"><circle cx="301.5" cy="303.3" r="4" fill="#3465a4"><title>Rangers 1989 (Sports)</title></circle></a><circle cx="293.2" cy="307.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/dt11db19db38m7k7~x2/

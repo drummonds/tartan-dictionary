@@ -2,12 +2,19 @@
 title: "Encyclopaedia Britannica"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKGRGKBKWK](/stripes/bkbkbkgrgkbkwk/) · **Stripes:** [DB K DB K DB K G R G K DB K W K](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K DB K DB K G R G K DB K W K</span></span>
+**Bands:** [KWKBKGRGKBKBKB](/stripes/kwkbkgrgkbkbkb/) · **Stripes:** [K W K DB K G R G K DB K DB K DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K W K DB K G R G K DB K DB K DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1111
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Encyclopedia Britannica
+- Encyclopedia, Britannica
 
 ## Attestations
 
@@ -319,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -914,18 +924,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Encyclopaedia Britannica (Corporate)](/setts/s14/g12k5db18k5w5k5db18k3db6k3db6k5g12r5~x2/) — ΔT 0.39
 1. [Blanton (Name)](/setts/s15/b12k2b2k2b2k10g5dp3g2dp3g5k10b11k2b2~x2/) — ΔT 0.75
 1. [Blanton (Dress)](/setts/s15/b12k2b2k2b2k10g5r3w2r3g5k10b11k2b2~x2/) — ΔT 0.83
-1. [Grainger](/setts/s12/db36r4db6g18db15k18w4k18db15g18db6r4~x2/) — ΔT 0.87
-1. [Arndt (Personal)](/setts/s14/w5db5r5db25k16g18k4g5k4g18k16db25k5w5/) — ΔT 0.96
+1. [Grainger](/setts/s12/db36r4db6g18db15k18w4~x2/) — ΔT 0.87
+1. [Arndt (Personal)](/setts/s14/w5k5db25k16g18k4g5k4g18k16db25r5db5w5/) — ΔT 0.96
 1. [MacLellan Clan Tartan Tartan Number: 323. Earliest known date: pre 2003 Very similar to MacLaren See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/db29k15g5r5g8k4ly4k4g8r5g5k15db7k15~x2/) — ΔT 1.00
 1. [MacKenzie MINI Clan Miniature Tartan Tartan Number: 2677. Earliest known date: 1778 Generated for Dupion Silk Stock list for display purpose. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/db6k1db1k1db1k6g6k1w2k1g6k6db6k1r2~x2/) — ΔT 1.04
-1. [Dickson Name Tartan Tartan Number: 10140. Earliest known date: July 2009 A tartan designed by Matthew Newsome for George Newberry of Macon, GA, USA who wishes it to be regarded as a tartan for all Dicksons from Kirkcudbrightshire, who are descended from Richard Keith, son of the Marischal of Scotland (d. 1249) and Margaret, daughter of the third Lord Douglas. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/dt4w3dt29g12n8db8n6db8n8g12dt29w3~x2/) — ΔT 1.08
-1. [MacCainsh](/setts/s11/lo2db8k1g2k1g4k1g2k1db8r2~x2/) — ΔT 1.12
+1. [Dickson Name Tartan Tartan Number: 10140. Earliest known date: July 2009 A tartan designed by Matthew Newsome for George Newberry of Macon, GA, USA who wishes it to be regarded as a tartan for all Dicksons from Kirkcudbrightshire, who are descended from Richard Keith, son of the Marischal of Scotland (d. 1249) and Margaret, daughter of the third Lord Douglas. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/n6db8n8g12dt29w3dt4~x2/) — ΔT 1.08
+1. [MacCainsh](/setts/s11/r2db8k1g2k1g4k1g2k1db8lo2~x2/) — ΔT 1.12
 1. [Gemmell Clan Tartan Tartan Number: 3213. Earliest known date: 2001 Design copyright is owned by Thomas Kempsill Gemmell and Davina Creighton Gemmell. Designed in traditional tartan colours. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/) — ΔT 1.17
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/g12k5db18k5w5k5db18k3db6k3db6k5g12r5~x2/"><circle cx="150.1" cy="198.7" r="4" fill="#3465a4"><title>Encyclopaedia Britannica (Corporate)</title></circle></a><a href="/setts/s15/b12k2b2k2b2k10g5dp3g2dp3g5k10b11k2b2~x2/"><circle cx="152.5" cy="192.1" r="4" fill="#3465a4"><title>Blanton (Name)</title></circle></a><a href="/setts/s15/b12k2b2k2b2k10g5r3w2r3g5k10b11k2b2~x2/"><circle cx="135.2" cy="180.4" r="4" fill="#3465a4"><title>Blanton (Dress)</title></circle></a><a href="/setts/s12/db36r4db6g18db15k18w4k18db15g18db6r4~x2/"><circle cx="206.5" cy="199.1" r="4" fill="#3465a4"><title>Grainger</title></circle></a><a href="/setts/s14/w5db5r5db25k16g18k4g5k4g18k16db25k5w5/"><circle cx="117.0" cy="192.9" r="4" fill="#3465a4"><title>Arndt (Personal)</title></circle></a><a href="/setts/s14/db29k15g5r5g8k4ly4k4g8r5g5k15db7k15~x2/"><circle cx="163.8" cy="189.8" r="4" fill="#3465a4"><title>MacLellan Clan Tartan Tartan Number: 323. Earliest known date: pre 2003 Very similar to MacLaren See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/db6k1db1k1db1k6g6k1w2k1g6k6db6k1r2~x2/"><circle cx="131.5" cy="190.5" r="4" fill="#3465a4"><title>MacKenzie MINI Clan Miniature Tartan Tartan Number: 2677. Earliest known date: 1778 Generated for Dupion Silk Stock list for display purpose. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/dt4w3dt29g12n8db8n6db8n8g12dt29w3~x2/"><circle cx="199.1" cy="181.8" r="4" fill="#3465a4"><title>Dickson Name Tartan Tartan Number: 10140. Earliest known date: July 2009 A tartan designed by Matthew Newsome for George Newberry of Macon, GA, USA who wishes it to be regarded as a tartan for all Dicksons from Kirkcudbrightshire, who are descended from Richard Keith, son of the Marischal of Scotland (d. 1249) and Margaret, daughter of the third Lord Douglas. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/lo2db8k1g2k1g4k1g2k1db8r2~x2/"><circle cx="223.9" cy="186.7" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/setts/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/"><circle cx="134.6" cy="189.6" r="4" fill="#3465a4"><title>Gemmell Clan Tartan Tartan Number: 3213. Earliest known date: 2001 Design copyright is owned by Thomas Kempsill Gemmell and Davina Creighton Gemmell. Designed in traditional tartan colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="161.5" cy="198.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/g12k5db18k5w5k5db18k3db6k3db6k5g12r5~x2/"><circle cx="150.2" cy="198.7" r="4" fill="#3465a4"><title>Encyclopaedia Britannica (Corporate)</title></circle></a><a href="/setts/s15/b12k2b2k2b2k10g5dp3g2dp3g5k10b11k2b2~x2/"><circle cx="152.6" cy="192.2" r="4" fill="#3465a4"><title>Blanton (Name)</title></circle></a><a href="/setts/s15/b12k2b2k2b2k10g5r3w2r3g5k10b11k2b2~x2/"><circle cx="135.3" cy="180.4" r="4" fill="#3465a4"><title>Blanton (Dress)</title></circle></a><a href="/setts/s12/db36r4db6g18db15k18w4~x2/"><circle cx="206.6" cy="199.1" r="4" fill="#3465a4"><title>Grainger</title></circle></a><a href="/setts/s14/w5k5db25k16g18k4g5k4g18k16db25r5db5w5/"><circle cx="117.1" cy="192.9" r="4" fill="#3465a4"><title>Arndt (Personal)</title></circle></a><a href="/setts/s14/db29k15g5r5g8k4ly4k4g8r5g5k15db7k15~x2/"><circle cx="164.0" cy="189.9" r="4" fill="#3465a4"><title>MacLellan Clan Tartan Tartan Number: 323. Earliest known date: pre 2003 Very similar to MacLaren See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s15/db6k1db1k1db1k6g6k1w2k1g6k6db6k1r2~x2/"><circle cx="131.7" cy="190.6" r="4" fill="#3465a4"><title>MacKenzie MINI Clan Miniature Tartan Tartan Number: 2677. Earliest known date: 1778 Generated for Dupion Silk Stock list for display purpose. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/n6db8n8g12dt29w3dt4~x2/"><circle cx="199.2" cy="181.8" r="4" fill="#3465a4"><title>Dickson Name Tartan Tartan Number: 10140. Earliest known date: July 2009 A tartan designed by Matthew Newsome for George Newberry of Macon, GA, USA who wishes it to be regarded as a tartan for all Dicksons from Kirkcudbrightshire, who are descended from Richard Keith, son of the Marischal of Scotland (d. 1249) and Margaret, daughter of the third Lord Douglas. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r2db8k1g2k1g4k1g2k1db8lo2~x2/"><circle cx="224.0" cy="186.7" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/setts/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/"><circle cx="134.8" cy="189.7" r="4" fill="#3465a4"><title>Gemmell Clan Tartan Tartan Number: 3213. Earliest known date: 2001 Design copyright is owned by Thomas Kempsill Gemmell and Davina Creighton Gemmell. Designed in traditional tartan colours. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="161.6" cy="198.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/db18k3db6k3db6k5g12r4g12k5db18k4w5k4~x2/

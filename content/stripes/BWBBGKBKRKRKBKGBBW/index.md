@@ -22,6 +22,6 @@ BWBBGKBKRKRKBKGBBW
 
 | Tartans |
 |---------------|
-| [Heart of Scotland (Lochcarron)](/setts/s18/db5w1db44dp1g12k12dp5k2m2k3m2k2dp5k12g12dp1db44w1~x2/)|
-|![Heart of Scotland (Lochcarron) example sett](/setts/s18/db5w1db44dp1g12k12dp5k2m2k3m2k2dp5k12g12dp1db44w1~x2/sett.png)|
+| [Heart of Scotland (Lochcarron)](/setts/s18/db5w1db44dp1g12k12dp5k2m2k3~x2/)|
+|![Heart of Scotland (Lochcarron) example sett](/setts/s18/db5w1db44dp1g12k12dp5k2m2k3~x2/sett.png)|
 

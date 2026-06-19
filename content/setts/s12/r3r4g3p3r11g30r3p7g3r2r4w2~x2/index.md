@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacKinnon #7
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 Ra8 R4 G6 P14 Ra6 G60 Ra22 P6 G6 Ra8 R/6
+R/6 Ra8 G6 P6 Ra22 G60 Ra6 P14 G6 R4 Ra8 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -903,21 +912,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [MacKinnon 3](/setts/s14/w3r5g3p3r14g36r3p8g3r36g14r3r5w3~x2/) — ΔT 0.84
+1. [MacKinnon 3](/setts/s14/w3r5r3g14r36g3p8r3g36r14p3g3r5w3~x2/) — ΔT 0.84
 1. [Connacht #2](/setts/s8/r1o1dg6o15dy2o1dy6w1~x4/) — ΔT 0.94
 1. [MacKinnon #7](/setts/s12/r3r4dg3dp3r11dg30r3dp7dg3r2r4w2~x2/) — ΔT 0.96
 1. [Rattray](/setts/s9/g71k4r4dp9r4dp4r36dp4w4/) — ΔT 0.97
 1. [Stewart of Appin 3](/setts/s16/r3k2t2r2g19r3g2r2db6r2g2r21k2t2r2g2~x2/) — ΔT 1.02
 1. [Glen Nevis #2 (Personal)](/setts/s12/y14lo1y1lo1y2k3y3k3do3do1do9lo1~x4/) — ΔT 1.05
-1. [Glen Tilt](/setts/s10/w1g1r1g14r1db6r11g1r1w1~x4/) — ΔT 1.10
+1. [Glen Tilt](/setts/s10/w1r1g1r11db6r1g14r1g1w1~x4/) — ΔT 1.10
 1. [Stuart/Stewart Fawn](/setts/s10/o24k5r2k2w2n8w3k2w2o2~x2/) — ΔT 1.11
 1. [Leask](/setts/s14/g4r2w1r2k1r24g12ly2g3ly2g12r2g3ly4~x2/) — ΔT 1.13
 1. [MacKinnon 2](/setts/s14/r1r2g1k1r5g11r1k2g1r11g4r1r2w1~x2/) — ΔT 1.15
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/w3r5g3p3r14g36r3p8g3r36g14r3r5w3~x2/"><circle cx="258.6" cy="123.6" r="4" fill="#3465a4"><title>MacKinnon 3</title></circle></a><a href="/setts/s8/r1o1dg6o15dy2o1dy6w1~x4/"><circle cx="284.8" cy="143.4" r="4" fill="#3465a4"><title>Connacht #2</title></circle></a><a href="/setts/s12/r3r4dg3dp3r11dg30r3dp7dg3r2r4w2~x2/"><circle cx="266.1" cy="120.3" r="4" fill="#3465a4"><title>MacKinnon #7</title></circle></a><a href="/setts/s9/g71k4r4dp9r4dp4r36dp4w4/"><circle cx="307.4" cy="118.2" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/setts/s16/r3k2t2r2g19r3g2r2db6r2g2r21k2t2r2g2~x2/"><circle cx="246.9" cy="112.9" r="4" fill="#3465a4"><title>Stewart of Appin 3</title></circle></a><a href="/setts/s12/y14lo1y1lo1y2k3y3k3do3do1do9lo1~x4/"><circle cx="275.6" cy="146.5" r="4" fill="#3465a4"><title>Glen Nevis #2 (Personal)</title></circle></a><a href="/setts/s10/w1g1r1g14r1db6r11g1r1w1~x4/"><circle cx="260.3" cy="144.4" r="4" fill="#3465a4"><title>Glen Tilt</title></circle></a><a href="/setts/s10/o24k5r2k2w2n8w3k2w2o2~x2/"><circle cx="242.6" cy="117.5" r="4" fill="#3465a4"><title>Stuart/Stewart Fawn</title></circle></a><a href="/setts/s14/g4r2w1r2k1r24g12ly2g3ly2g12r2g3ly4~x2/"><circle cx="300.4" cy="100.3" r="4" fill="#3465a4"><title>Leask</title></circle></a><a href="/setts/s14/r1r2g1k1r5g11r1k2g1r11g4r1r2w1~x2/"><circle cx="249.5" cy="124.5" r="4" fill="#3465a4"><title>MacKinnon 2</title></circle></a><circle cx="266.3" cy="120.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/w3r5r3g14r36g3p8r3g36r14p3g3r5w3~x2/"><circle cx="258.2" cy="123.6" r="4" fill="#3465a4"><title>MacKinnon 3</title></circle></a><a href="/setts/s8/r1o1dg6o15dy2o1dy6w1~x4/"><circle cx="284.5" cy="143.4" r="4" fill="#3465a4"><title>Connacht #2</title></circle></a><a href="/setts/s12/r3r4dg3dp3r11dg30r3dp7dg3r2r4w2~x2/"><circle cx="265.9" cy="120.3" r="4" fill="#3465a4"><title>MacKinnon #7</title></circle></a><a href="/setts/s9/g71k4r4dp9r4dp4r36dp4w4/"><circle cx="307.1" cy="118.2" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/setts/s16/r3k2t2r2g19r3g2r2db6r2g2r21k2t2r2g2~x2/"><circle cx="246.6" cy="112.9" r="4" fill="#3465a4"><title>Stewart of Appin 3</title></circle></a><a href="/setts/s12/y14lo1y1lo1y2k3y3k3do3do1do9lo1~x4/"><circle cx="275.4" cy="146.5" r="4" fill="#3465a4"><title>Glen Nevis #2 (Personal)</title></circle></a><a href="/setts/s10/w1r1g1r11db6r1g14r1g1w1~x4/"><circle cx="260.0" cy="144.3" r="4" fill="#3465a4"><title>Glen Tilt</title></circle></a><a href="/setts/s10/o24k5r2k2w2n8w3k2w2o2~x2/"><circle cx="242.3" cy="117.5" r="4" fill="#3465a4"><title>Stuart/Stewart Fawn</title></circle></a><a href="/setts/s14/g4r2w1r2k1r24g12ly2g3ly2g12r2g3ly4~x2/"><circle cx="300.0" cy="100.3" r="4" fill="#3465a4"><title>Leask</title></circle></a><a href="/setts/s14/r1r2g1k1r5g11r1k2g1r11g4r1r2w1~x2/"><circle cx="249.2" cy="124.5" r="4" fill="#3465a4"><title>MacKinnon 2</title></circle></a><circle cx="266.0" cy="120.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r3r4g3p3r11g30r3p7g3r2r4w2~x2/

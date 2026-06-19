@@ -21,14 +21,14 @@ GYGYGYGY
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DY LO DY LO DY LO DY LO <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DY LO DY LO DY LO DY LO</span></span>
+### LO DY LO DY LO DY LO DY <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">LO DY LO DY LO DY LO DY</span></span>
 
 | Tartans |
 |---------------|
 | [Yellow Pencil (Corporate)](/setts/s8/dy48lo9dy6lo9dy12lo4dy2lo16~x2/)|
 |![Yellow Pencil (Corporate) example sett](/setts/s8/dy48lo9dy6lo9dy12lo4dy2lo16~x2/sett.png)|
 
-### DY LY DY LY DY LY DY LY <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DY LY DY LY DY LY DY LY</span></span>
+### LY DY LY DY LY DY LY DY <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">LY DY LY DY LY DY LY DY</span></span>
 
 | Tartans |
 |---------------|

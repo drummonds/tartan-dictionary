@@ -2,7 +2,7 @@
 title: "Dundhuin Dress (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GGYBR](/stripes/ggybr/) · **Stripes:** [DG G LY T O](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DG G LY T O</span></span>
+**Bands:** [RBYGG](/stripes/rbygg/) · **Stripes:** [O T LY G DG](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="seq">O T LY G DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [5 band tartan](/bands/bands5/).
@@ -23,7 +23,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-K/16 LG16 LY24 B34 LT/124
+LT/124 B34 LY24 LG16 K/16
 ![Sett](sett.png)
 
 ## Palette
@@ -39,7 +39,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/16 LG16 LY24 B34 LT/124 tartan")
+![Tartan detail](tartan.png "LT/124 B34 LY24 LG16 K/16 tartan")
 
 ## Nearest tartans
 
@@ -58,8 +58,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/w1dp1o7n4o1w1~x4/"><circle cx="311.4" cy="230.7" r="4" fill="#3465a4"><title>Lochnagar Plaid (District)</title></circle></a><a href="/setts/s5/n10w3lr3g1r1~x10/"><circle cx="278.2" cy="188.3" r="4" fill="#3465a4"><title>Bagpipe Shop (Switzerland)</title></circle></a><a href="/setts/s5/n10w3lb3g1r1~x10/"><circle cx="275.2" cy="188.0" r="4" fill="#3465a4"><title>Bagpipe Shop (Corporate)</title></circle></a><a href="/setts/s6/db18ly2o6ly2o19r3~x2/"><circle cx="317.5" cy="226.6" r="4" fill="#3465a4"><title>Balfour blue &amp; brown</title></circle></a><a href="/setts/s6/o47w6r24w3dt5lo3~x2/"><circle cx="326.0" cy="158.5" r="4" fill="#3465a4"><title>Duminiak (Personal)</title></circle></a><a href="/setts/s6/y47w6r24w3dp5lo3~x2/"><circle cx="335.7" cy="166.8" r="4" fill="#3465a4"><title>Duminiak (Trevose, Pennsylvania)</title></circle></a><a href="/setts/s7/n2r10n10o3r2lr24w2~x2/"><circle cx="251.6" cy="169.9" r="4" fill="#3465a4"><title>Un-named Dutch</title></circle></a><a href="/setts/s6/dt8y4r30g30lo3g4~x2/"><circle cx="256.2" cy="199.9" r="4" fill="#3465a4"><title>Hutcheson (Name)</title></circle></a><a href="/setts/s5/g11lo10dp11t33w3~x2/"><circle cx="242.8" cy="214.8" r="4" fill="#3465a4"><title>Sterling, Rob (Florida) (Persona Name Tartan Tartan Number: 10653. Earliest known date: 10/07/2012 Designed by Rob Sterling, St. Petersburg, Florida, for use by his family and associates. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/o59t28ly5dg3w4ly5~x2/"><circle cx="375.1" cy="160.3" r="4" fill="#3465a4"><title>Dundhuin Gold</title></circle></a><circle cx="315.7" cy="209.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/w1dp1o7n4o1w1~x4/"><circle cx="311.1" cy="230.7" r="4" fill="#3465a4"><title>Lochnagar Plaid (District)</title></circle></a><a href="/setts/s5/n10w3lr3g1r1~x10/"><circle cx="277.9" cy="188.2" r="4" fill="#3465a4"><title>Bagpipe Shop (Switzerland)</title></circle></a><a href="/setts/s5/n10w3lb3g1r1~x10/"><circle cx="274.9" cy="187.9" r="4" fill="#3465a4"><title>Bagpipe Shop (Corporate)</title></circle></a><a href="/setts/s6/db18ly2o6ly2o19r3~x2/"><circle cx="317.3" cy="226.5" r="4" fill="#3465a4"><title>Balfour blue &amp; brown</title></circle></a><a href="/setts/s6/o47w6r24w3dt5lo3~x2/"><circle cx="325.6" cy="158.5" r="4" fill="#3465a4"><title>Duminiak (Personal)</title></circle></a><a href="/setts/s6/y47w6r24w3dp5lo3~x2/"><circle cx="335.4" cy="166.8" r="4" fill="#3465a4"><title>Duminiak (Trevose, Pennsylvania)</title></circle></a><a href="/setts/s7/n2r10n10o3r2lr24w2~x2/"><circle cx="251.4" cy="170.0" r="4" fill="#3465a4"><title>Un-named Dutch</title></circle></a><a href="/setts/s6/dt8y4r30g30lo3g4~x2/"><circle cx="256.0" cy="199.9" r="4" fill="#3465a4"><title>Hutcheson (Name)</title></circle></a><a href="/setts/s5/g11lo10dp11t33w3~x2/"><circle cx="242.7" cy="214.8" r="4" fill="#3465a4"><title>Sterling, Rob (Florida) (Persona Name Tartan Tartan Number: 10653. Earliest known date: 10/07/2012 Designed by Rob Sterling, St. Petersburg, Florida, for use by his family and associates. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/o59t28ly5dg3w4ly5~x2/"><circle cx="374.7" cy="160.3" r="4" fill="#3465a4"><title>Dundhuin Gold</title></circle></a><circle cx="315.4" cy="209.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/o62t17ly12g8dg8~x2/

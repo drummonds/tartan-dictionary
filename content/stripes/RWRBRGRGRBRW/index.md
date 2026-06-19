@@ -22,6 +22,6 @@ RWRBRGRGRBRW
 
 | Tartans |
 |---------------|
-| [MacQuarrie SM](/setts/s12/lb1r1db1r6dg6r1dg6r1db3r6lb1r1~x2/)|
-|![MacQuarrie SM example sett](/setts/s12/lb1r1db1r6dg6r1dg6r1db3r6lb1r1~x2/sett.png)|
+| [MacQuarrie SM](/setts/s12/r1lb1r6db3r1dg6r1dg6r6db1r1lb1~x2/)|
+|![MacQuarrie SM example sett](/setts/s12/r1lb1r6db3r1dg6r1dg6r6db1r1lb1~x2/sett.png)|
 

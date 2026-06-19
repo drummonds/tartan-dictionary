@@ -2,7 +2,7 @@
 title: "Hebridean, South Uist Specimen"
 date: 2023-03-18
 ---
-**Bands:** [BGRBRBWBRBRBRBRBRGRBRBRBRBRBR](/stripes/bgrbrbwbrbrbrbrbrgrbrbrbrbrbr/) · **Stripes:** [DB G R DB R DB W DB R DB R DB R DB R DB R G R DB R DB R DB R DB R DB R](/stripes/stripes29/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB G R DB R DB W DB R DB R DB R DB R DB R G R DB R DB R DB R DB R DB R</span></span>
+**Bands:** [RBRBRBRBRBRGRBRBRBRBRBWBRBRGB](/stripes/rbrbrbrbrbrgrbrbrbrbrbwbrbrgb/) · **Stripes:** [R DB R DB R DB R DB R DB R G R DB R DB R DB R DB R DB W DB R DB R G DB](/stripes/stripes29/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">R DB R DB R DB R DB R DB R G R DB R DB R DB R DB R DB W DB R DB R G DB</span></span>
 
 
 This was sourced from weddslist.  It is a [29 band tartan](/bands/bands29/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/4 G4 R4 B4 R4 B4 LN2 B48 R4 B2 R16 B2 R4 B48 R6 B4 R4 G14 R4 B4 R6 B48 R6 B2 R16 B2 R4 B48 R/8
+R/8 B48 R4 B2 R16 B2 R6 B48 R6 B4 R4 G14 R4 B4 R6 B48 R4 B2 R16 B2 R4 B48 LN2 B4 R4 B4 R4 G4 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -902,21 +905,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Hebrides South Uist #4](/setts/s56/db2g2r2db2r2db2w1db24r2db1r8db1r2db24r3db2r2g7r2db2r3db24r3db1r8db1r2db24r4db24r2db1r8db1r3db24r3db2r2g7r2db2r3db24r2db1r8db1r2db24w1db2r2db2r2g2~x2/) — ΔT 1.52
+1. [Hebrides South Uist #4](/setts/s56/r4db24r2db1r8db1r3db24r3db2r2g7r2db2r3db24r2db1r8db1r2db24w1db2r2db2r2g2db2~x2/) — ΔT 1.52
 1. [Jenkins of Wales](/setts/s21/r4db37g4db4g7db5lo2db4g2db3g8db3g2db4lo2db5g6db4g4db37r2/) — ΔT 1.58
-1. [Washington Stockmens](/setts/s38/db4o3db4o19k2o3k2o12db4o3db4o3k1o2ly1o2ly1o2k1o3k1o2ly1o2ly1o2k1o3db4o3db4o12k2o3k2o19db4o3~x4/) — ΔT 1.67
+1. [Washington Stockmens](/setts/s38/db4o3db4o19k2o3k2o12db4o3db4o3k1o2ly1o2ly1o2k1o3~x4/) — ΔT 1.67
 1. [Washington Stockmens (Corporate)](/setts/s20/db4o3db4o19k2o3k2o12db4o3db4o3k1o2ly1o2ly1o2k1o3~x4/) — ΔT 1.73
 1. [Washington, Stockman](/setts/s20/db4y3db4y19k2y3k2y12db4y3db4y3k1y2ly1y2ly1y2k1y3~x4/) — ΔT 1.82
 1. [Dundonald](/setts/s16/db25r3db3r2db4r2db3r3db8db10k16r1db16r3db8ly2~x2/) — ΔT 1.89
-1. [Suffolk County Police](/setts/s20/db74db6k12ly3k3w3db16db8k3db4w3db4k3db8db16w3k3ly3k12db6~x2/) — ΔT 2.01
+1. [Suffolk County Police](/setts/s20/db74db6k12ly3k3w3db16db8k3db4w3~x2/) — ΔT 2.01
 1. [Weiss-Halliwell (Personal)](/setts/s36/db6k1n1k2n1k1db6k1n22k3n1k3n10k1db3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1~x2/) — ΔT 2.04
+1. [Highland Sky](/setts/s22/n43dt2n2n1dt11n2dt2n1lb1n20lb4n7~x2/) — ΔT 2.08
 1. [Orkney Heather](/setts/s14/dp4m2dp2dp4m2dp8m2n2o43n2o43dp2dp8o2/) — ΔT 2.08
-1. [Highland Sky](/setts/s22/n7lb4n20lb1n1dt2n2dt11n1n2dt2n43dt2n2n1dt11n2dt2n1lb1n20lb4~x2/) — ΔT 2.08
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s56/db2g2r2db2r2db2w1db24r2db1r8db1r2db24r3db2r2g7r2db2r3db24r3db1r8db1r2db24r4db24r2db1r8db1r3db24r3db2r2g7r2db2r3db24r2db1r8db1r2db24w1db2r2db2r2g2~x2/"><circle cx="431.0" cy="67.9" r="4" fill="#3465a4"><title>Hebrides South Uist #4</title></circle></a><a href="/setts/s21/r4db37g4db4g7db5lo2db4g2db3g8db3g2db4lo2db5g6db4g4db37r2/"><circle cx="471.3" cy="135.0" r="4" fill="#3465a4"><title>Jenkins of Wales</title></circle></a><a href="/setts/s38/db4o3db4o19k2o3k2o12db4o3db4o3k1o2ly1o2ly1o2k1o3k1o2ly1o2ly1o2k1o3db4o3db4o12k2o3k2o19db4o3~x4/"><circle cx="404.1" cy="97.6" r="4" fill="#3465a4"><title>Washington Stockmens</title></circle></a><a href="/setts/s20/db4o3db4o19k2o3k2o12db4o3db4o3k1o2ly1o2ly1o2k1o3~x4/"><circle cx="407.9" cy="125.8" r="4" fill="#3465a4"><title>Washington Stockmens (Corporate)</title></circle></a><a href="/setts/s20/db4y3db4y19k2y3k2y12db4y3db4y3k1y2ly1y2ly1y2k1y3~x4/"><circle cx="401.0" cy="124.1" r="4" fill="#3465a4"><title>Washington, Stockman</title></circle></a><a href="/setts/s16/db25r3db3r2db4r2db3r3db8db10k16r1db16r3db8ly2~x2/"><circle cx="450.7" cy="151.5" r="4" fill="#3465a4"><title>Dundonald</title></circle></a><a href="/setts/s20/db74db6k12ly3k3w3db16db8k3db4w3db4k3db8db16w3k3ly3k12db6~x2/"><circle cx="482.8" cy="104.0" r="4" fill="#3465a4"><title>Suffolk County Police</title></circle></a><a href="/setts/s36/db6k1n1k2n1k1db6k1n22k3n1k3n10k1db3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1~x2/"><circle cx="355.3" cy="102.1" r="4" fill="#3465a4"><title>Weiss-Halliwell (Personal)</title></circle></a><a href="/setts/s14/dp4m2dp2dp4m2dp8m2n2o43n2o43dp2dp8o2/"><circle cx="456.4" cy="103.9" r="4" fill="#3465a4"><title>Orkney Heather</title></circle></a><a href="/setts/s22/n7lb4n20lb1n1dt2n2dt11n1n2dt2n43dt2n2n1dt11n2dt2n1lb1n20lb4~x2/"><circle cx="512.3" cy="91.5" r="4" fill="#3465a4"><title>Highland Sky</title></circle></a><circle cx="451.3" cy="100.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s56/r4db24r2db1r8db1r3db24r3db2r2g7r2db2r3db24r2db1r8db1r2db24w1db2r2db2r2g2db2~x2/"><circle cx="430.6" cy="67.8" r="4" fill="#3465a4"><title>Hebrides South Uist #4</title></circle></a><a href="/setts/s21/r4db37g4db4g7db5lo2db4g2db3g8db3g2db4lo2db5g6db4g4db37r2/"><circle cx="471.1" cy="134.9" r="4" fill="#3465a4"><title>Jenkins of Wales</title></circle></a><a href="/setts/s38/db4o3db4o19k2o3k2o12db4o3db4o3k1o2ly1o2ly1o2k1o3~x4/"><circle cx="403.7" cy="97.4" r="4" fill="#3465a4"><title>Washington Stockmens</title></circle></a><a href="/setts/s20/db4o3db4o19k2o3k2o12db4o3db4o3k1o2ly1o2ly1o2k1o3~x4/"><circle cx="407.5" cy="125.6" r="4" fill="#3465a4"><title>Washington Stockmens (Corporate)</title></circle></a><a href="/setts/s20/db4y3db4y19k2y3k2y12db4y3db4y3k1y2ly1y2ly1y2k1y3~x4/"><circle cx="400.6" cy="123.9" r="4" fill="#3465a4"><title>Washington, Stockman</title></circle></a><a href="/setts/s16/db25r3db3r2db4r2db3r3db8db10k16r1db16r3db8ly2~x2/"><circle cx="450.6" cy="151.4" r="4" fill="#3465a4"><title>Dundonald</title></circle></a><a href="/setts/s20/db74db6k12ly3k3w3db16db8k3db4w3~x2/"><circle cx="482.6" cy="103.8" r="4" fill="#3465a4"><title>Suffolk County Police</title></circle></a><a href="/setts/s36/db6k1n1k2n1k1db6k1n22k3n1k3n10k1db3n1k6n1dg3k1n10k3n1k3n22k1dg6k1n1k2n1k1dg6k1n12k1~x2/"><circle cx="355.1" cy="102.1" r="4" fill="#3465a4"><title>Weiss-Halliwell (Personal)</title></circle></a><a href="/setts/s22/n43dt2n2n1dt11n2dt2n1lb1n20lb4n7~x2/"><circle cx="511.9" cy="91.4" r="4" fill="#3465a4"><title>Highland Sky</title></circle></a><a href="/setts/s14/dp4m2dp2dp4m2dp8m2n2o43n2o43dp2dp8o2/"><circle cx="455.9" cy="103.8" r="4" fill="#3465a4"><title>Orkney Heather</title></circle></a><circle cx="450.9" cy="100.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s29/r4db24r2db1r8db1r3db24r3db2r2g7r2db2r3db24r2db1r8db1r2db24w1db2r2db2r2g2db2~x2/

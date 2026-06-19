@@ -10,7 +10,7 @@ This was sourced from house-of-tartan.  It is a [10 band tartan](/bands/bands10/
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2349
 
 ## Thread count
-DY/4 K32 DR32 K8 DR32 K16 N16 K16 N16 K/16
+K/16 N16 K16 N16 K16 DR32 K8 DR32 K32 DY/4
 ![Sett](sett.png)
 
 ## Palette
@@ -34,14 +34,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Wilson's No.175](/setts/s10/dp16k17g18w2k5w2g18k17dp16k3~x2/) — ΔT 1.40
 1. [MacKean Red (Personal)](/setts/s8/r2k4r2k4db1lb1db4r1~x4/) — ΔT 1.40
 1. [Brough](/setts/s7/r20k14w2k14g9r3g11~x2/) — ΔT 1.41
-1. [Montrose](/setts/s9/b2k2r14dg15k8b7r14k2b2~x2/) — ΔT 1.42
-1. [Montrose](/setts/s9/b2k2r14dg15k8b7r14k2b2/) — ΔT 1.42
-1. [Greyhound Grenadiers #2](/setts/s12/db9k7o5r1o5k1o2k1o5r1o5k7~x4/) — ΔT 1.45
+1. [Montrose](/setts/s9/b2k2r14dg15k8b7r14k2b2~x2/) — ΔT 1.41
+1. [Montrose](/setts/s9/b2k2r14dg15k8b7r14k2b2/) — ΔT 1.41
+1. [Greyhound Grenadiers #2](/setts/s12/db9k7o5r1o5k1o2~x4/) — ΔT 1.45
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k4w4k4w4k4r8k2r8k8lo1~x4/"><circle cx="179.2" cy="209.9" r="4" fill="#3465a4"><title>Little of Morton Rigg</title></circle></a><a href="/setts/s10/k10w7k8w7k8dr14k4dr14k16ly2/"><circle cx="189.9" cy="222.2" r="4" fill="#3465a4"><title>Little of Morton Rig</title></circle></a><a href="/setts/s10/lo32db10k52db10w5k24db16w10k11lo15/"><circle cx="197.9" cy="182.6" r="4" fill="#3465a4"><title>Cavan County Crest (Fashion)</title></circle></a><a href="/setts/s6/db14dg21db4r21db14ly2~x2/"><circle cx="197.7" cy="227.1" r="4" fill="#3465a4"><title>Kilgour</title></circle></a><a href="/setts/s10/dp16k17g18w2k5w2g18k17dp16k3~x2/"><circle cx="164.6" cy="215.3" r="4" fill="#3465a4"><title>Wilson's No.175</title></circle></a><a href="/setts/s8/r2k4r2k4db1lb1db4r1~x4/"><circle cx="156.6" cy="253.4" r="4" fill="#3465a4"><title>MacKean Red (Personal)</title></circle></a><a href="/setts/s7/r20k14w2k14g9r3g11~x2/"><circle cx="161.1" cy="218.0" r="4" fill="#3465a4"><title>Brough</title></circle></a><a href="/setts/s9/b2k2r14dg15k8b7r14k2b2~x2/"><circle cx="184.1" cy="203.1" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/setts/s9/b2k2r14dg15k8b7r14k2b2/"><circle cx="184.1" cy="203.1" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/setts/s12/db9k7o5r1o5k1o2k1o5r1o5k7~x4/"><circle cx="194.2" cy="197.0" r="4" fill="#3465a4"><title>Greyhound Grenadiers #2</title></circle></a><circle cx="192.9" cy="223.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k4w4k4w4k4r8k2r8k8lo1~x4/"><circle cx="179.2" cy="209.7" r="4" fill="#3465a4"><title>Little of Morton Rigg</title></circle></a><a href="/setts/s10/k10w7k8w7k8dr14k4dr14k16ly2/"><circle cx="190.1" cy="222.1" r="4" fill="#3465a4"><title>Little of Morton Rig</title></circle></a><a href="/setts/s10/lo32db10k52db10w5k24db16w10k11lo15/"><circle cx="197.9" cy="182.5" r="4" fill="#3465a4"><title>Cavan County Crest (Fashion)</title></circle></a><a href="/setts/s6/db14dg21db4r21db14ly2~x2/"><circle cx="197.8" cy="227.0" r="4" fill="#3465a4"><title>Kilgour</title></circle></a><a href="/setts/s10/dp16k17g18w2k5w2g18k17dp16k3~x2/"><circle cx="164.7" cy="215.2" r="4" fill="#3465a4"><title>Wilson's No.175</title></circle></a><a href="/setts/s8/r2k4r2k4db1lb1db4r1~x4/"><circle cx="156.7" cy="253.4" r="4" fill="#3465a4"><title>MacKean Red (Personal)</title></circle></a><a href="/setts/s7/r20k14w2k14g9r3g11~x2/"><circle cx="161.2" cy="217.9" r="4" fill="#3465a4"><title>Brough</title></circle></a><a href="/setts/s9/b2k2r14dg15k8b7r14k2b2~x2/"><circle cx="184.1" cy="203.1" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/setts/s9/b2k2r14dg15k8b7r14k2b2/"><circle cx="184.1" cy="203.1" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/setts/s12/db9k7o5r1o5k1o2~x4/"><circle cx="194.2" cy="196.9" r="4" fill="#3465a4"><title>Greyhound Grenadiers #2</title></circle></a><circle cx="193.0" cy="222.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/

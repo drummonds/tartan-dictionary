@@ -2,7 +2,7 @@
 title: "Unidentified 29"
 date: 2023-03-18
 ---
-**Bands:** [BKRKRKRKRBKYKRKBWKWR](/stripes/bkrkrkrkrbkykrkbwkwr/) · **Stripes:** [T K O K O K O K O T K LY K O K DB W K W O](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="seq">T K O K O K O K O T K LY K O K DB W K W O</span></span>
+**Bands:** [RWKWBKRKYKBRKRKRKRKB](/stripes/rwkwbkrkykbrkrkrkrkb/) · **Stripes:** [O W K W DB K O K LY K T O K O K O K O K T](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">O W K W DB K O K LY K T O K O K O K O K T</span></span>
 
 
 This was sourced from weddslist.  It is a [20 band tartan](/bands/bands20/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,15 +913,15 @@ The nearest existing variants by ΔTartan distance.
 1. [MacKenzie, dress](/setts/s20/db10k10g9k2w2k2g9k10w2db2w14db2w2db2w14db2w2k10db10r2~x2/) — ΔT 1.01
 1. [MacKenzie Dress #4](/setts/s20/db10k10dg9k2w2k2dg9k10w2db2w14db2w2db2w14db2w2k10db10r2~x2/) — ΔT 1.02
 1. [Argyle Dress](/setts/s22/db4k3g17k17db15k3r4k3db15k17w3db4w25db3w6db3w25db4w3k17g17k3~x2/) — ΔT 1.05
-1. [Highfield Dress](/setts/s20/db10k2g2r2g2k2w2k2w4k1w2k1w4k2w2k2g2r2g2k2~x4/) — ΔT 1.05
-1. [Iowa Dress](/setts/s14/r4ly3w12k16g5db20k4w2k4db20g5k16w12ly3~x2/) — ΔT 1.07
+1. [Highfield Dress](/setts/s20/db10k2g2r2g2k2w2k2w4k1w2~x4/) — ΔT 1.05
+1. [Iowa Dress](/setts/s14/r4ly3w12k16g5db20k4w2~x2/) — ΔT 1.07
 1. [MacPherson, dress](/setts/s15/w13db3w13g10ly2k7db5k2db2k2db5r8w2k2r2~x2/) — ΔT 1.08
 1. [Malcolm Dress](/setts/s24/k7g9k2ly2k2y2k2g9k7db7r2db3r2db7k7w2k2w11k2w3k2w11k2w2~x4/) — ΔT 1.09
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/t3k3dy1k1dy1k1dy1k1dy3t2k1ly1k1dy1k2db2w7k1w2dy1~x2/"><circle cx="37.4" cy="124.6" r="4" fill="#3465a4"><title>Unidentified #18</title></circle></a><a href="/setts/s17/t7k9k2k2k2r14g14w2t3w2g14r14k2t7k9k2k2~x2/"><circle cx="27.7" cy="132.3" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><a href="/setts/s21/w16r2w2r2w2k16dg2b2dg2b2dg10r2g10b2g2b2g2k16w15r2w2~x2/"><circle cx="52.3" cy="91.4" r="4" fill="#3465a4"><title>Cherry Valley New York (District)</title></circle></a><a href="/setts/s20/db10k10g9k2w2k2g9k10w2db2w14db2w2db2w14db2w2k10db10r2~x2/"><circle cx="50.9" cy="140.5" r="4" fill="#3465a4"><title>MacKenzie, dress</title></circle></a><a href="/setts/s20/db10k10dg9k2w2k2dg9k10w2db2w14db2w2db2w14db2w2k10db10r2~x2/"><circle cx="59.4" cy="142.6" r="4" fill="#3465a4"><title>MacKenzie Dress #4</title></circle></a><a href="/setts/s22/db4k3g17k17db15k3r4k3db15k17w3db4w25db3w6db3w25db4w3k17g17k3~x2/"><circle cx="63.8" cy="128.9" r="4" fill="#3465a4"><title>Argyle Dress</title></circle></a><a href="/setts/s20/db10k2g2r2g2k2w2k2w4k1w2k1w4k2w2k2g2r2g2k2~x4/"><circle cx="53.0" cy="129.0" r="4" fill="#3465a4"><title>Highfield Dress</title></circle></a><a href="/setts/s14/r4ly3w12k16g5db20k4w2k4db20g5k16w12ly3~x2/"><circle cx="62.0" cy="132.7" r="4" fill="#3465a4"><title>Iowa Dress</title></circle></a><a href="/setts/s15/w13db3w13g10ly2k7db5k2db2k2db5r8w2k2r2~x2/"><circle cx="45.2" cy="130.4" r="4" fill="#3465a4"><title>MacPherson, dress</title></circle></a><a href="/setts/s24/k7g9k2ly2k2y2k2g9k7db7r2db3r2db7k7w2k2w11k2w3k2w11k2w2~x4/"><circle cx="14.0" cy="112.4" r="4" fill="#3465a4"><title>Malcolm Dress</title></circle></a><circle cx="29.1" cy="119.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/t3k3dy1k1dy1k1dy1k1dy3t2k1ly1k1dy1k2db2w7k1w2dy1~x2/"><circle cx="37.4" cy="124.8" r="4" fill="#3465a4"><title>Unidentified #18</title></circle></a><a href="/setts/s17/t7k9k2k2k2r14g14w2t3w2g14r14k2t7k9k2k2~x2/"><circle cx="27.7" cy="132.4" r="4" fill="#3465a4"><title>Coulter (Personal)</title></circle></a><a href="/setts/s21/w16r2w2r2w2k16dg2b2dg2b2dg10r2g10b2g2b2g2k16w15r2w2~x2/"><circle cx="52.3" cy="91.5" r="4" fill="#3465a4"><title>Cherry Valley New York (District)</title></circle></a><a href="/setts/s20/db10k10g9k2w2k2g9k10w2db2w14db2w2db2w14db2w2k10db10r2~x2/"><circle cx="50.9" cy="140.5" r="4" fill="#3465a4"><title>MacKenzie, dress</title></circle></a><a href="/setts/s20/db10k10dg9k2w2k2dg9k10w2db2w14db2w2db2w14db2w2k10db10r2~x2/"><circle cx="59.4" cy="142.7" r="4" fill="#3465a4"><title>MacKenzie Dress #4</title></circle></a><a href="/setts/s22/db4k3g17k17db15k3r4k3db15k17w3db4w25db3w6db3w25db4w3k17g17k3~x2/"><circle cx="63.8" cy="129.0" r="4" fill="#3465a4"><title>Argyle Dress</title></circle></a><a href="/setts/s20/db10k2g2r2g2k2w2k2w4k1w2~x4/"><circle cx="53.0" cy="129.1" r="4" fill="#3465a4"><title>Highfield Dress</title></circle></a><a href="/setts/s14/r4ly3w12k16g5db20k4w2~x2/"><circle cx="62.0" cy="132.8" r="4" fill="#3465a4"><title>Iowa Dress</title></circle></a><a href="/setts/s15/w13db3w13g10ly2k7db5k2db2k2db5r8w2k2r2~x2/"><circle cx="45.1" cy="130.5" r="4" fill="#3465a4"><title>MacPherson, dress</title></circle></a><a href="/setts/s24/k7g9k2ly2k2y2k2g9k7db7r2db3r2db7k7w2k2w11k2w3k2w11k2w2~x4/"><circle cx="14.0" cy="112.6" r="4" fill="#3465a4"><title>Malcolm Dress</title></circle></a><circle cx="29.2" cy="120.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s20/t3k3o1k1o1k1o1k1o3t2k1ly1k1o1k2db2w7k1w2o1~x2/

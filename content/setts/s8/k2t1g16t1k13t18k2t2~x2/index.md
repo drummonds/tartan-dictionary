@@ -2,7 +2,7 @@
 title: "Hebridean Old"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBGBK](/stripes/bkbkbgbk/) · **Stripes:** [T K T K T G T K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="seq">T K T K T G T K</span></span>
+**Bands:** [KBGBKBKB](/stripes/kbgbkbkb/) · **Stripes:** [K T G T K T K T](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K T G T K T K T</span></span>
 
 
 This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/4 K4 B36 K26 B2 G32 B2 K/4
+K/4 B2 G32 B2 K26 B36 K4 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -899,15 +902,15 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/4 K4 B36 K26 B2 G32 B2 K/4 tartan")
+![Tartan detail](tartan.png "K/4 B2 G32 B2 K26 B36 K4 B/4 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
 1. [Kerr, hunting](/setts/s10/g14k2g2k2g3k10db16k1db2k2~x2/) — ΔT 0.93
-1. [Lochaber District](/setts/s8/g2r1g16k12r1t16g1t2/) — ΔT 1.05
-1. [Hebridean Old](/setts/s9/db2k2db18b1k13b1g16db3k2~x2/) — ΔT 1.20
+1. [Lochaber District](/setts/s8/g2r1g16k12r1t16g1t2~x2/) — ΔT 1.05
+1. [Hebridean Old](/setts/s9/k2db3g16b1k13b1db18k2db2~x2/) — ΔT 1.20
 1. [Utah Valley University](/setts/s8/k3w7dg3k16dg17w1dg8k1~x2/) — ΔT 1.23
 1. [Gordon 3](/setts/s10/db56k6db6k6db6k44g44ly4g5ly8/) — ΔT 1.25
 1. [Ayrton](/setts/s9/r3g2k1g20k9t20k1t2r3~x2/) — ΔT 1.30
@@ -918,8 +921,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g14k2g2k2g3k10db16k1db2k2~x2/"><circle cx="217.2" cy="178.6" r="4" fill="#3465a4"><title>Kerr, hunting</title></circle></a><a href="/setts/s8/g2r1g16k12r1t16g1t2/"><circle cx="209.1" cy="166.6" r="4" fill="#3465a4"><title>Lochaber District</title></circle></a><a href="/setts/s9/db2k2db18b1k13b1g16db3k2~x2/"><circle cx="220.5" cy="160.4" r="4" fill="#3465a4"><title>Hebridean Old</title></circle></a><a href="/setts/s8/k3w7dg3k16dg17w1dg8k1~x2/"><circle cx="276.2" cy="189.8" r="4" fill="#3465a4"><title>Utah Valley University</title></circle></a><a href="/setts/s10/db56k6db6k6db6k44g44ly4g5ly8/"><circle cx="185.5" cy="156.4" r="4" fill="#3465a4"><title>Gordon 3</title></circle></a><a href="/setts/s9/r3g2k1g20k9t20k1t2r3~x2/"><circle cx="203.9" cy="142.6" r="4" fill="#3465a4"><title>Ayrton</title></circle></a><a href="/setts/s11/r3g16k12db34k12g2k2g2k2g7r3~x2/"><circle cx="187.7" cy="141.5" r="4" fill="#3465a4"><title>Rangers F.C.</title></circle></a><a href="/setts/s7/g30db4g2k20db18r1db4~x2/"><circle cx="243.9" cy="160.8" r="4" fill="#3465a4"><title>MacTaggert</title></circle></a><a href="/setts/s8/k3db3k3db22g26k2db1ly3~x2/"><circle cx="267.1" cy="142.8" r="4" fill="#3465a4"><title>Johnstone / Johnston</title></circle></a><a href="/setts/s9/g10r1g1r1g1r4db12r1db2~x2/"><circle cx="267.1" cy="190.1" r="4" fill="#3465a4"><title>Unidentified Portrait</title></circle></a><circle cx="231.8" cy="174.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g14k2g2k2g3k10db16k1db2k2~x2/"><circle cx="217.3" cy="178.5" r="4" fill="#3465a4"><title>Kerr, hunting</title></circle></a><a href="/setts/s8/g2r1g16k12r1t16g1t2~x2/"><circle cx="209.1" cy="166.5" r="4" fill="#3465a4"><title>Lochaber District</title></circle></a><a href="/setts/s9/k2db3g16b1k13b1db18k2db2~x2/"><circle cx="220.6" cy="160.3" r="4" fill="#3465a4"><title>Hebridean Old</title></circle></a><a href="/setts/s8/k3w7dg3k16dg17w1dg8k1~x2/"><circle cx="276.2" cy="189.6" r="4" fill="#3465a4"><title>Utah Valley University</title></circle></a><a href="/setts/s10/db56k6db6k6db6k44g44ly4g5ly8/"><circle cx="185.6" cy="156.3" r="4" fill="#3465a4"><title>Gordon 3</title></circle></a><a href="/setts/s9/r3g2k1g20k9t20k1t2r3~x2/"><circle cx="203.8" cy="142.5" r="4" fill="#3465a4"><title>Ayrton</title></circle></a><a href="/setts/s11/r3g16k12db34k12g2k2g2k2g7r3~x2/"><circle cx="187.7" cy="141.5" r="4" fill="#3465a4"><title>Rangers F.C.</title></circle></a><a href="/setts/s7/g30db4g2k20db18r1db4~x2/"><circle cx="244.0" cy="160.7" r="4" fill="#3465a4"><title>MacTaggert</title></circle></a><a href="/setts/s8/k3db3k3db22g26k2db1ly3~x2/"><circle cx="267.0" cy="142.7" r="4" fill="#3465a4"><title>Johnstone / Johnston</title></circle></a><a href="/setts/s9/g10r1g1r1g1r4db12r1db2~x2/"><circle cx="267.1" cy="189.9" r="4" fill="#3465a4"><title>Unidentified Portrait</title></circle></a><circle cx="231.8" cy="174.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k2t1g16t1k13t18k2t2~x2/

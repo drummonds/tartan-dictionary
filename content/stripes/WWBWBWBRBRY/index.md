@@ -18,10 +18,10 @@ WWBWBWBRBRY
 
 
 
-### W LT DB LT DB LT DB R DB R LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W LT DB LT DB LT DB R DB R LY</span></span>
+### LY R DB R DB LT DB LT DB LT W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#64D1D9"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY R DB R DB LT DB LT DB LT W</span></span>
 
 | Tartans |
 |---------------|
-| [Shanghai Scottish](/setts/s11/ly4r23db3r3db16lt15db27lt8db5lt13w4/)|
-|![Shanghai Scottish example sett](/setts/s11/ly4r23db3r3db16lt15db27lt8db5lt13w4/sett.png)|
+| [Shanghai Scottish](/setts/s11/w4lt13db5lt8db27lt15db16r3db3r23ly4/)|
+|![Shanghai Scottish example sett](/setts/s11/w4lt13db5lt8db27lt15db16r3db3r23ly4/sett.png)|
 

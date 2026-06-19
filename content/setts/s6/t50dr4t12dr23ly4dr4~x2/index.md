@@ -2,7 +2,7 @@
 title: "Sligo"
 date: 2023-03-18
 ---
-**Bands:** [BBBBYB](/stripes/bbbbyb/) · **Stripes:** [T DR T DR LY DR](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="seq">T DR T DR LY DR</span></span>
+**Bands:** [BYBBBB](/stripes/bybbbb/) · **Stripes:** [DR LY DR T DR T](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#00879F"></span><span class="seq">DR LY DR T DR T</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -907,7 +910,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Rea](/setts/s6/t12ly2t1k5t4k2~x4/) — ΔT 1.35
 1. [Perkins (2015)](/setts/s7/k3t10lo5t29k10r6k2~x2/) — ΔT 1.36
-1. [South Australian Pipes & Drums (Corp](/setts/s6/db60ly6db11r25db11ly6~x2/) — ΔT 1.40
+1. [South Australian Pipes & Drums (Corp](/setts/s6/db60ly6db11r25~x2/) — ΔT 1.40
 1. [Carlisle Ancient](/setts/s5/b11lo2r1lo2r1~x4/) — ΔT 1.40
 1. [Kinding (Personal)](/setts/s7/k10t30g3t3g3t3r6~x2/) — ΔT 1.40
 1. [MacQueen variant](/setts/s6/db2r7db2r7db22ly2~x2/) — ΔT 1.41
@@ -918,8 +921,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/t12ly2t1k5t4k2~x4/"><circle cx="364.2" cy="218.6" r="4" fill="#3465a4"><title>Rea</title></circle></a><a href="/setts/s7/k3t10lo5t29k10r6k2~x2/"><circle cx="333.9" cy="182.7" r="4" fill="#3465a4"><title>Perkins (2015)</title></circle></a><a href="/setts/s6/db60ly6db11r25db11ly6~x2/"><circle cx="410.6" cy="215.1" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><a href="/setts/s5/b11lo2r1lo2r1~x4/"><circle cx="396.8" cy="209.6" r="4" fill="#3465a4"><title>Carlisle Ancient</title></circle></a><a href="/setts/s7/k10t30g3t3g3t3r6~x2/"><circle cx="340.2" cy="185.6" r="4" fill="#3465a4"><title>Kinding (Personal)</title></circle></a><a href="/setts/s6/db2r7db2r7db22ly2~x2/"><circle cx="394.7" cy="207.0" r="4" fill="#3465a4"><title>MacQueen variant</title></circle></a><a href="/setts/s6/t50k4t12k23lo4k4~x2/"><circle cx="370.1" cy="197.7" r="4" fill="#3465a4"><title>Sligo Irish County Tartan Tartan Number: 2256. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/db3lo30db40r3~x2/"><circle cx="371.9" cy="229.9" r="4" fill="#3465a4"><title>Sanix Large Muted</title></circle></a><a href="/setts/s6/n1k3n1k3n8r1~x8/"><circle cx="362.3" cy="246.8" r="4" fill="#3465a4"><title>Mackay (Blue)</title></circle></a><a href="/setts/s5/t37w9t3db9w3~x2/"><circle cx="382.8" cy="206.3" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><circle cx="400.7" cy="207.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/t12ly2t1k5t4k2~x4/"><circle cx="364.1" cy="218.3" r="4" fill="#3465a4"><title>Rea</title></circle></a><a href="/setts/s7/k3t10lo5t29k10r6k2~x2/"><circle cx="333.7" cy="182.5" r="4" fill="#3465a4"><title>Perkins (2015)</title></circle></a><a href="/setts/s6/db60ly6db11r25~x2/"><circle cx="410.4" cy="214.8" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><a href="/setts/s5/b11lo2r1lo2r1~x4/"><circle cx="396.5" cy="209.3" r="4" fill="#3465a4"><title>Carlisle Ancient</title></circle></a><a href="/setts/s7/k10t30g3t3g3t3r6~x2/"><circle cx="340.0" cy="185.4" r="4" fill="#3465a4"><title>Kinding (Personal)</title></circle></a><a href="/setts/s6/db2r7db2r7db22ly2~x2/"><circle cx="394.4" cy="206.7" r="4" fill="#3465a4"><title>MacQueen variant</title></circle></a><a href="/setts/s6/t50k4t12k23lo4k4~x2/"><circle cx="370.0" cy="197.4" r="4" fill="#3465a4"><title>Sligo Irish County Tartan Tartan Number: 2256. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/db3lo30db40r3~x2/"><circle cx="371.7" cy="229.7" r="4" fill="#3465a4"><title>Sanix Large Muted</title></circle></a><a href="/setts/s6/n1k3n1k3n8r1~x8/"><circle cx="362.2" cy="246.5" r="4" fill="#3465a4"><title>Mackay (Blue)</title></circle></a><a href="/setts/s5/t37w9t3db9w3~x2/"><circle cx="382.6" cy="206.0" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><circle cx="400.5" cy="206.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/t50dr4t12dr23ly4dr4~x2/

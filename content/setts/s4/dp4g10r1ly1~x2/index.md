@@ -2,7 +2,7 @@
 title: "Wilson's No.192"
 date: 2023-03-18
 ---
-**Bands:** [BGRY](/stripes/bgry/) · **Stripes:** [DP G R LY](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DP G R LY</span></span>
+**Bands:** [YRGB](/stripes/yrgb/) · **Stripes:** [LY R G DP](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">LY R G DP</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
@@ -47,7 +47,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Wilson's, No 192](/setts/s4/p4g10r1ly1~x2/) — ΔT 0.73
 1. [Bacon, Green (Fashion)](/setts/s4/g14k3r3lr2~x2/) — ΔT 0.79
 1. [Wilson's, No 189](/setts/s4/p4g10w1r1~x2/) — ΔT 0.81
-1. [Wilson's No.174](/setts/s4/ly1g10db4t1~x2/) — ΔT 1.06
+1. [Wilson's No.174](/setts/s4/t1db4g10ly1~x2/) — ΔT 1.06
 1. [Wilson's No.140](/setts/s4/k2ly1g7t1~x2/) — ΔT 1.12
 1. [Robert Byers Family - Dooballagh, Ireland](/setts/s4/k5g40db20ly3~x2/) — ΔT 1.14
 1. [St Johns County Sheriff Office (Cor)](/setts/s5/r17db7lo8g58k6~x2/) — ΔT 1.22
@@ -56,8 +56,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/dp4g10r1w1~x2/"><circle cx="343.4" cy="223.9" r="4" fill="#3465a4"><title>Wilson's No.189</title></circle></a><a href="/setts/s4/p4g10r1ly1~x2/"><circle cx="348.3" cy="222.3" r="4" fill="#3465a4"><title>Wilson's, No 192</title></circle></a><a href="/setts/s4/g14k3r3lr2~x2/"><circle cx="347.6" cy="250.7" r="4" fill="#3465a4"><title>Bacon, Green (Fashion)</title></circle></a><a href="/setts/s4/p4g10w1r1~x2/"><circle cx="343.5" cy="220.3" r="4" fill="#3465a4"><title>Wilson's, No 189</title></circle></a><a href="/setts/s4/ly1g10db4t1~x2/"><circle cx="362.7" cy="242.0" r="4" fill="#3465a4"><title>Wilson's No.174</title></circle></a><a href="/setts/s4/k2ly1g7t1~x2/"><circle cx="337.5" cy="248.0" r="4" fill="#3465a4"><title>Wilson's No.140</title></circle></a><a href="/setts/s4/k5g40db20ly3~x2/"><circle cx="353.6" cy="237.5" r="4" fill="#3465a4"><title>Robert Byers Family - Dooballagh, Ireland</title></circle></a><a href="/setts/s5/r17db7lo8g58k6~x2/"><circle cx="325.8" cy="200.3" r="4" fill="#3465a4"><title>St Johns County Sheriff Office (Cor)</title></circle></a><a href="/setts/s4/g72r25ly8w5/"><circle cx="392.6" cy="208.3" r="4" fill="#3465a4"><title>Sugell (Name?)</title></circle></a><a href="/setts/s7/g3w1g12r6g3k3g2~x4/"><circle cx="367.4" cy="208.8" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><circle cx="357.5" cy="230.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/dp4g10r1w1~x2/"><circle cx="343.3" cy="223.6" r="4" fill="#3465a4"><title>Wilson's No.189</title></circle></a><a href="/setts/s4/p4g10r1ly1~x2/"><circle cx="348.1" cy="222.1" r="4" fill="#3465a4"><title>Wilson's, No 192</title></circle></a><a href="/setts/s4/g14k3r3lr2~x2/"><circle cx="347.5" cy="250.5" r="4" fill="#3465a4"><title>Bacon, Green (Fashion)</title></circle></a><a href="/setts/s4/p4g10w1r1~x2/"><circle cx="343.3" cy="220.0" r="4" fill="#3465a4"><title>Wilson's, No 189</title></circle></a><a href="/setts/s4/t1db4g10ly1~x2/"><circle cx="362.6" cy="241.7" r="4" fill="#3465a4"><title>Wilson's No.174</title></circle></a><a href="/setts/s4/k2ly1g7t1~x2/"><circle cx="337.4" cy="247.7" r="4" fill="#3465a4"><title>Wilson's No.140</title></circle></a><a href="/setts/s4/k5g40db20ly3~x2/"><circle cx="353.5" cy="237.3" r="4" fill="#3465a4"><title>Robert Byers Family - Dooballagh, Ireland</title></circle></a><a href="/setts/s5/r17db7lo8g58k6~x2/"><circle cx="325.7" cy="200.2" r="4" fill="#3465a4"><title>St Johns County Sheriff Office (Cor)</title></circle></a><a href="/setts/s4/g72r25ly8w5/"><circle cx="392.4" cy="208.0" r="4" fill="#3465a4"><title>Sugell (Name?)</title></circle></a><a href="/setts/s7/g3w1g12r6g3k3g2~x4/"><circle cx="367.1" cy="208.6" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><circle cx="357.4" cy="230.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/dp4g10r1ly1~x2/

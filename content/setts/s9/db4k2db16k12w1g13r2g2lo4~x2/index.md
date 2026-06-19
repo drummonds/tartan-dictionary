@@ -2,12 +2,18 @@
 title: "Cusack"
 date: 2023-03-18
 ---
-**Bands:** [BKBKWGRGY](/stripes/bkbkwgrgy/) · **Stripes:** [DB K DB K W G R G LO](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DB K DB K W G R G LO</span></span>
+**Bands:** [YGRGWKBKB](/stripes/ygrgwkbkb/) · **Stripes:** [LO G R G W K DB K DB](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LO G R G W K DB K DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=857
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Cusack Clan/Family
 
 ## Attestations
 
@@ -26,7 +32,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2775
 
 ## Thread count
-DB/8 K4 DB32 K24 W2 G26 DR4 G4 DY/8
+DY/8 G4 DR4 G26 W2 K24 DB32 K4 DB/8
 ![Sett](sett.png)
 
 ## Palette
@@ -46,20 +52,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Colgan (Personal)](/setts/s9/r7db2g5k24db2g10db28g10lb3~x2/) — ΔT 0.91
-1. [MacNeil 7](/setts/s7/ly1k3g15k14db16r2w1~x2/) — ΔT 0.94
-1. [Loch Awe](/setts/s9/ly3k2r3db20k24g20r3k2t3~x2/) — ΔT 0.94
+1. [MacNeil 7](/setts/s7/w1r2db16k14g15k3ly1~x2/) — ΔT 0.94
+1. [Loch Awe](/setts/s9/t3k2r3g20k24db20r3k2ly3~x2/) — ΔT 0.94
 1. [Veere (District)](/setts/s11/db6k2n2db8k18lo2g20db8n3k10lb6~x2/) — ΔT 0.99
 1. [Vine (2015)](/setts/s12/dg19k20m1db8b8dg8db3m1lb12k8m1lb1~x2/) — ΔT 1.02
 1. [Greene](/setts/s10/db6r4db24lb3k6g18lo4g2lo2g4~x2/) — ΔT 1.03
-1. [MacNeil](/setts/s7/lb1r2db16k14dg15k3ly1~x2/) — ΔT 1.08
+1. [MacNeil](/setts/s7/ly1k3dg15k14db16r2lb1~x2/) — ΔT 1.08
 1. [McCuaig (Glenelg and the Western Isles)](/setts/s9/k10ly3k2db20k10g15k2r3w3~x2/) — ΔT 1.08
 1. [St Columba](/setts/s8/db60t5w4o12g42p12t5p12/) — ΔT 1.10
 1. [Fitzgerald, hunting](/setts/s11/w2db3t3db13k13db4r2db4g12lp3r1~x2/) — ΔT 1.11
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r7db2g5k24db2g10db28g10lb3~x2/"><circle cx="149.2" cy="161.8" r="4" fill="#3465a4"><title>Colgan (Personal)</title></circle></a><a href="/setts/s7/ly1k3g15k14db16r2w1~x2/"><circle cx="134.8" cy="148.0" r="4" fill="#3465a4"><title>MacNeil 7</title></circle></a><a href="/setts/s9/ly3k2r3db20k24g20r3k2t3~x2/"><circle cx="120.3" cy="134.3" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/setts/s11/db6k2n2db8k18lo2g20db8n3k10lb6~x2/"><circle cx="97.3" cy="156.4" r="4" fill="#3465a4"><title>Veere (District)</title></circle></a><a href="/setts/s12/dg19k20m1db8b8dg8db3m1lb12k8m1lb1~x2/"><circle cx="102.5" cy="116.9" r="4" fill="#3465a4"><title>Vine (2015)</title></circle></a><a href="/setts/s10/db6r4db24lb3k6g18lo4g2lo2g4~x2/"><circle cx="154.3" cy="138.3" r="4" fill="#3465a4"><title>Greene</title></circle></a><a href="/setts/s7/lb1r2db16k14dg15k3ly1~x2/"><circle cx="150.4" cy="160.2" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/setts/s9/k10ly3k2db20k10g15k2r3w3~x2/"><circle cx="97.7" cy="152.5" r="4" fill="#3465a4"><title>McCuaig (Glenelg and the Western Isles)</title></circle></a><a href="/setts/s8/db60t5w4o12g42p12t5p12/"><circle cx="166.5" cy="137.5" r="4" fill="#3465a4"><title>St Columba</title></circle></a><a href="/setts/s11/w2db3t3db13k13db4r2db4g12lp3r1~x2/"><circle cx="106.8" cy="126.1" r="4" fill="#3465a4"><title>Fitzgerald, hunting</title></circle></a><circle cx="129.6" cy="140.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r7db2g5k24db2g10db28g10lb3~x2/"><circle cx="149.4" cy="161.9" r="4" fill="#3465a4"><title>Colgan (Personal)</title></circle></a><a href="/setts/s7/w1r2db16k14g15k3ly1~x2/"><circle cx="135.0" cy="148.1" r="4" fill="#3465a4"><title>MacNeil 7</title></circle></a><a href="/setts/s9/t3k2r3g20k24db20r3k2ly3~x2/"><circle cx="120.5" cy="134.4" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/setts/s11/db6k2n2db8k18lo2g20db8n3k10lb6~x2/"><circle cx="97.5" cy="156.5" r="4" fill="#3465a4"><title>Veere (District)</title></circle></a><a href="/setts/s12/dg19k20m1db8b8dg8db3m1lb12k8m1lb1~x2/"><circle cx="102.7" cy="117.1" r="4" fill="#3465a4"><title>Vine (2015)</title></circle></a><a href="/setts/s10/db6r4db24lb3k6g18lo4g2lo2g4~x2/"><circle cx="154.4" cy="138.3" r="4" fill="#3465a4"><title>Greene</title></circle></a><a href="/setts/s7/ly1k3dg15k14db16r2lb1~x2/"><circle cx="150.7" cy="160.3" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/setts/s9/k10ly3k2db20k10g15k2r3w3~x2/"><circle cx="97.9" cy="152.6" r="4" fill="#3465a4"><title>McCuaig (Glenelg and the Western Isles)</title></circle></a><a href="/setts/s8/db60t5w4o12g42p12t5p12/"><circle cx="166.6" cy="137.6" r="4" fill="#3465a4"><title>St Columba</title></circle></a><a href="/setts/s11/w2db3t3db13k13db4r2db4g12lp3r1~x2/"><circle cx="107.0" cy="126.2" r="4" fill="#3465a4"><title>Fitzgerald, hunting</title></circle></a><circle cx="129.8" cy="140.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/db4k2db16k12w1g13r2g2lo4~x2/

@@ -2,7 +2,7 @@
 title: "MacDonald of Sleat"
 date: 2023-03-18
 ---
-**Bands:** [GRGR](/stripes/grgr/) · **Stripes:** [G R G R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">G R G R</span></span>
+**Bands:** [RGRG](/stripes/rgrg/) · **Stripes:** [R G R G](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [4 band tartan](/bands/bands4/).
@@ -319,6 +319,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +420,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +680,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -896,15 +899,15 @@ External register numbers recorded for this tartan.
 
 Other setts woven to the same stripe pattern.
 
-- [Applecross](/setts/s4/g18r2g7r18~x2/)
-- [Applecross (District)](/setts/s4/g18r2g7r18~x4/)
+- [Applecross](/setts/s4/r18g7r2g18~x2/)
+- [Applecross (District)](/setts/s4/r18g7r2g18~x4/)
 - [Duke of Windsor (Royal)](/setts/s4/g75r2g4r40~x2/)
-- [MacGregor of Glenstrae](/setts/s4/r17g9r2g9~x2/)
+- [MacGregor of Glenstrae](/setts/s4/r17g9r2~x2/)
 - [Middleton](/setts/s4/g16r1g2r11~x8/)
 
 
 ## Thread count
-G/32 R10 G4 R/72
+R/72 G4 R10 G/32
 ![Sett](sett.png)
 
 ## Palette
@@ -917,7 +920,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/32 R10 G4 R/72 tartan")
+![Tartan detail](tartan.png "R/72 G4 R10 G/32 tartan")
 
 ## Nearest tartans
 
@@ -929,15 +932,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Scottish Watch](/setts/s3/r104g39ly4/) — ΔT 1.23
 1. [MacKintosh, Red](/setts/s6/r24g5r3g9r3db1~x4/) — ΔT 1.39
 1. [MacQuarrie #5](/setts/s6/r16g1r1g1r4g12~x4/) — ΔT 1.46
-1. [MacQuarrie](/setts/s6/r16dg1r1dg1r4dg12~x2/) — ΔT 1.50
+1. [MacQuarrie](/setts/s6/r16dg1r1dg1r4dg12/) — ΔT 1.50
 1. [Cameron, Ancient](/setts/s7/r58ly3r6g16r12g16r6/) — ΔT 1.53
+1. [MacQuarrie 7](/setts/s6/r16dg1r1dg1r4dg12~x2/) — ΔT 1.55
 1. [Masai Shuka 21 (Artefact)](/setts/s4/r40db2r6db15~x2/) — ΔT 1.67
-1. [Cameron Ancient](/setts/s7/r58ly3r6dg16r12dg16r6/) — ΔT 1.68
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/r36dg2r5dg16~x2/"><circle cx="532.2" cy="241.6" r="4" fill="#3465a4"><title>MacDonald of Sleat - 1810 (Clan)</title></circle></a><a href="/setts/s4/r38dg2r5dg16/"><circle cx="528.6" cy="232.0" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles</title></circle></a><a href="/setts/s4/r38dg2r5dg16~x2/"><circle cx="556.7" cy="251.1" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles</title></circle></a><a href="/setts/s3/r104g39ly4/"><circle cx="514.5" cy="221.6" r="4" fill="#3465a4"><title>Scottish Watch</title></circle></a><a href="/setts/s6/r24g5r3g9r3db1~x4/"><circle cx="490.4" cy="183.9" r="4" fill="#3465a4"><title>MacKintosh, Red</title></circle></a><a href="/setts/s6/r16g1r1g1r4g12~x4/"><circle cx="457.1" cy="215.3" r="4" fill="#3465a4"><title>MacQuarrie #5</title></circle></a><a href="/setts/s6/r16dg1r1dg1r4dg12~x2/"><circle cx="452.3" cy="213.1" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><a href="/setts/s7/r58ly3r6g16r12g16r6/"><circle cx="496.5" cy="181.6" r="4" fill="#3465a4"><title>Cameron, Ancient</title></circle></a><a href="/setts/s4/r40db2r6db15~x2/"><circle cx="548.2" cy="225.8" r="4" fill="#3465a4"><title>Masai Shuka 21 (Artefact)</title></circle></a><a href="/setts/s7/r58ly3r6dg16r12dg16r6/"><circle cx="489.5" cy="173.3" r="4" fill="#3465a4"><title>Cameron Ancient</title></circle></a><circle cx="522.8" cy="238.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/r36dg2r5dg16~x2/"><circle cx="531.7" cy="241.3" r="4" fill="#3465a4"><title>MacDonald of Sleat - 1810 (Clan)</title></circle></a><a href="/setts/s4/r38dg2r5dg16/"><circle cx="528.1" cy="231.6" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles</title></circle></a><a href="/setts/s4/r38dg2r5dg16~x2/"><circle cx="556.3" cy="250.8" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles</title></circle></a><a href="/setts/s3/r104g39ly4/"><circle cx="514.0" cy="221.3" r="4" fill="#3465a4"><title>Scottish Watch</title></circle></a><a href="/setts/s6/r24g5r3g9r3db1~x4/"><circle cx="489.9" cy="183.7" r="4" fill="#3465a4"><title>MacKintosh, Red</title></circle></a><a href="/setts/s6/r16g1r1g1r4g12~x4/"><circle cx="456.7" cy="215.1" r="4" fill="#3465a4"><title>MacQuarrie #5</title></circle></a><a href="/setts/s6/r16dg1r1dg1r4dg12/"><circle cx="451.9" cy="212.8" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><a href="/setts/s7/r58ly3r6g16r12g16r6/"><circle cx="495.9" cy="181.3" r="4" fill="#3465a4"><title>Cameron, Ancient</title></circle></a><a href="/setts/s6/r16dg1r1dg1r4dg12~x2/"><circle cx="455.0" cy="215.4" r="4" fill="#3465a4"><title>MacQuarrie 7</title></circle></a><a href="/setts/s4/r40db2r6db15~x2/"><circle cx="547.7" cy="225.4" r="4" fill="#3465a4"><title>Masai Shuka 21 (Artefact)</title></circle></a><circle cx="522.3" cy="237.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/r36g2r5g16~x2/

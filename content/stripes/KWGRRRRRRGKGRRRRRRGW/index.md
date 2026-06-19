@@ -22,6 +22,6 @@ KWGRRRRRRGKGRRRRRRGW
 
 | Tartans |
 |---------------|
-| [Gray Hunting](/setts/s20/k3w1g29o8m2o2m2o2m8g7k2g7m8o2m2o2m2o8g29w1~x2/)|
-|![Gray Hunting example sett](/setts/s20/k3w1g29o8m2o2m2o2m8g7k2g7m8o2m2o2m2o8g29w1~x2/sett.png)|
+| [Gray Hunting](/setts/s20/k3w1g29o8m2o2m2o2m8g7k2~x2/)|
+|![Gray Hunting example sett](/setts/s20/k3w1g29o8m2o2m2o2m8g7k2~x2/sett.png)|
 

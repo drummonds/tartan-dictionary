@@ -2,7 +2,7 @@
 title: "Birral, Burrell"
 date: 2023-03-18
 ---
-**Bands:** [BWRRBRRWGWBBWBBWR](/stripes/bwrrbrrwgwbbwbbwr/) · **Stripes:** [P W R R P R R W G W P T W T P W R](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">P W R R P R R W G W P T W T P W R</span></span>
+**Bands:** [RWBBWBBWGWRRBRRWB](/stripes/rwbbwbbwgwrrbrrwb/) · **Stripes:** [R W P T W T P W G W R R P R R W P](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">R W P T W T P W G W R R P R R W P</span></span>
 
 
 This was sourced from weddslist.  It is a [17 band tartan](/bands/bands17/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-P/32 LN4 Ra16 R8 P4 R8 Ra16 LN4 G64 LN4 P16 B8 LN4 B8 P16 LN4 Ra/130
+Ra/130 LN4 P16 B8 LN4 B8 P16 LN4 G64 LN4 Ra16 R8 P4 R8 Ra16 LN4 P/32
 ![Sett](sett.png)
 
 ## Palette
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/t4dp8w2g32w2r8r4dp2r4r8w2dp16r65w2dp8t4w2~x2/"><circle cx="270.1" cy="36.3" r="4" fill="#3465a4"><title>Birral/Burrell</title></circle></a><a href="/setts/s17/r65w2dp8t4w2t4dp8w2g32w2r8r4dp2r4r8w2dp16~x2/"><circle cx="270.1" cy="36.3" r="4" fill="#3465a4"><title>Birral (Clan)</title></circle></a><a href="/setts/s19/w3r2r1w1r9r1r2r2r1r27dt1t2r1dt11lo1r2lo1r2lo1~x2/"><circle cx="291.7" cy="35.0" r="4" fill="#3465a4"><title>Red Lichtie</title></circle></a><a href="/setts/s18/w3r2r1r9r1r2r2r1r27db1t2r1db11lo1r2lo1r2lo1~x2/"><circle cx="311.5" cy="46.1" r="4" fill="#3465a4"><title>Red Lichtie (District)</title></circle></a><a href="/setts/s13/r34w1db10g10w1ly1g2t2w1db2t10r6w1~x2/"><circle cx="286.8" cy="56.7" r="4" fill="#3465a4"><title>Holyrood, Chair</title></circle></a><a href="/setts/s19/r60w2t5k2w2k2t5w2k2g12k2w2r5m5g2m5r5w2g10~x2/"><circle cx="310.7" cy="21.9" r="4" fill="#3465a4"><title>MacBain Clan Tartan Tartan Number: 951. Earliest known date: 1960 (1847) MacBains, MacBeans, and MacVeans are all forms of the same name possibly from the same origin as the early Scottish King, Donald Ban. The principle family is MacBean of Kinchyle from the northern end of Loch Ness. The MacBains are closely associated with Mackintosh and this is apparent in the design of the tartan. This version, recorded by Lord Lyon under the name MacBain, shows a minor variation on the earlier MacBean sett attributed to McIan (1847). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/r6r4r2r3dg34r3r2r4r2r3dp8t2r40r4r2r6~x2/"><circle cx="286.6" cy="73.1" r="4" fill="#3465a4"><title>MacDougall #9</title></circle></a><a href="/setts/s17/dg4r3t1dp1r35dp1t1r3dp16r3t1dp1r2dg35r7k1t2~x2/"><circle cx="307.4" cy="53.9" r="4" fill="#3465a4"><title>Unidentified #14</title></circle></a><a href="/setts/s12/db3r2db2r35lo2db3k2db5k4g13k1w3~x2/"><circle cx="280.6" cy="50.3" r="4" fill="#3465a4"><title>Celtic Nations (Fashion)</title></circle></a><a href="/setts/s19/r60lr2b5k2lr2k2b5lr2k2dg12k2lr2r5dr5dg2dr5r5lr2dg10~x2/"><circle cx="318.6" cy="32.5" r="4" fill="#3465a4"><title>MacBain</title></circle></a><circle cx="279.9" cy="39.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/t4dp8w2g32w2r8r4dp2r4r8w2dp16r65w2dp8t4w2~x2/"><circle cx="269.7" cy="36.5" r="4" fill="#3465a4"><title>Birral/Burrell</title></circle></a><a href="/setts/s17/r65w2dp8t4w2t4dp8w2g32w2r8r4dp2r4r8w2dp16~x2/"><circle cx="269.7" cy="36.5" r="4" fill="#3465a4"><title>Birral (Clan)</title></circle></a><a href="/setts/s19/w3r2r1w1r9r1r2r2r1r27dt1t2r1dt11lo1r2lo1r2lo1~x2/"><circle cx="291.3" cy="35.1" r="4" fill="#3465a4"><title>Red Lichtie</title></circle></a><a href="/setts/s18/w3r2r1r9r1r2r2r1r27db1t2r1db11lo1r2lo1r2lo1~x2/"><circle cx="311.1" cy="46.2" r="4" fill="#3465a4"><title>Red Lichtie (District)</title></circle></a><a href="/setts/s13/r34w1db10g10w1ly1g2t2w1db2t10r6w1~x2/"><circle cx="286.4" cy="56.8" r="4" fill="#3465a4"><title>Holyrood, Chair</title></circle></a><a href="/setts/s19/r60w2t5k2w2k2t5w2k2g12k2w2r5m5g2m5r5w2g10~x2/"><circle cx="310.2" cy="22.0" r="4" fill="#3465a4"><title>MacBain Clan Tartan Tartan Number: 951. Earliest known date: 1960 (1847) MacBains, MacBeans, and MacVeans are all forms of the same name possibly from the same origin as the early Scottish King, Donald Ban. The principle family is MacBean of Kinchyle from the northern end of Loch Ness. The MacBains are closely associated with Mackintosh and this is apparent in the design of the tartan. This version, recorded by Lord Lyon under the name MacBain, shows a minor variation on the earlier MacBean sett attributed to McIan (1847). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/r6r4r2r3dg34r3r2r4r2r3dp8t2r40r4r2r6~x2/"><circle cx="286.2" cy="73.3" r="4" fill="#3465a4"><title>MacDougall #9</title></circle></a><a href="/setts/s17/dg4r3t1dp1r35dp1t1r3dp16r3t1dp1r2dg35r7k1t2~x2/"><circle cx="307.0" cy="54.0" r="4" fill="#3465a4"><title>Unidentified #14</title></circle></a><a href="/setts/s12/db3r2db2r35lo2db3k2db5k4g13k1w3~x2/"><circle cx="280.3" cy="50.3" r="4" fill="#3465a4"><title>Celtic Nations (Fashion)</title></circle></a><a href="/setts/s19/r60lr2b5k2lr2k2b5lr2k2dg12k2lr2r5dr5dg2dr5r5lr2dg10~x2/"><circle cx="318.2" cy="32.6" r="4" fill="#3465a4"><title>MacBain</title></circle></a><circle cx="279.4" cy="39.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s17/r65w2p8t4w2t4p8w2g32w2r8r4p2r4r8w2p16~x2/

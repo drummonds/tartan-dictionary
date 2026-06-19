@@ -13,14 +13,22 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2625](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2625)
-- Scottish Register of Tartans: [3555](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3555)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 1429
 - Scottish Tartans Authority (ITI): 218
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1429
 - Scottish Tartans World Register: 218
-- Scottish Tartans World Register: 864
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Variants
 
@@ -65,8 +73,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r48lr4db4k4r12db4r1ly4~x2/"><circle cx="518.2" cy="81.5" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/setts/s8/r48lb4db4k4r12db4r1ly4/"><circle cx="504.6" cy="68.4" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/setts/s8/r48w4db4k4r12db4r1ly4~x2/"><circle cx="499.6" cy="66.1" r="4" fill="#3465a4"><title>Brodie (W &amp; A Smith)</title></circle></a><a href="/setts/s8/r70b1r2g12k2g1k10w1~x2/"><circle cx="528.0" cy="67.9" r="4" fill="#3465a4"><title>Zamzam (Personal)</title></circle></a><a href="/setts/s9/r72db6ly2db11t2db2t2r9k2~x2/"><circle cx="528.8" cy="70.8" r="4" fill="#3465a4"><title>Junor (Personal)</title></circle></a><a href="/setts/s8/r72k6lb2k11ly2db2ly2r18~x2/"><circle cx="552.2" cy="85.0" r="4" fill="#3465a4"><title>Princess Elizabeth (Royal)</title></circle></a><a href="/setts/s8/r70k2ly1dg18r10k4t4w1~x2/"><circle cx="504.3" cy="60.6" r="4" fill="#3465a4"><title>MacIngust</title></circle></a><a href="/setts/s8/r90lr1k2lb10k5r2lr2lb2~x2/"><circle cx="581.5" cy="66.2" r="4" fill="#3465a4"><title>Lock in Northumberland (Name)</title></circle></a><a href="/setts/s8/r42k4w1k6ly1db1ly1r12~x2/"><circle cx="545.4" cy="72.5" r="4" fill="#3465a4"><title>Princess Elizabeth</title></circle></a><a href="/setts/s8/r36db3w1db6g1k1g1r9~x4/"><circle cx="557.7" cy="92.1" r="4" fill="#3465a4"><title>Inverness - 1829 (District)</title></circle></a><circle cx="518.2" cy="81.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r48lr4db4k4r12db4r1ly4~x2/"><circle cx="517.7" cy="81.3" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/setts/s8/r48lb4db4k4r12db4r1ly4/"><circle cx="504.0" cy="68.1" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/setts/s8/r48w4db4k4r12db4r1ly4~x2/"><circle cx="499.0" cy="65.9" r="4" fill="#3465a4"><title>Brodie (W &amp; A Smith)</title></circle></a><a href="/setts/s8/r70b1r2g12k2g1k10w1~x2/"><circle cx="527.3" cy="67.7" r="4" fill="#3465a4"><title>Zamzam (Personal)</title></circle></a><a href="/setts/s9/r72db6ly2db11t2db2t2r9k2~x2/"><circle cx="528.2" cy="70.6" r="4" fill="#3465a4"><title>Junor (Personal)</title></circle></a><a href="/setts/s8/r72k6lb2k11ly2db2ly2r18~x2/"><circle cx="551.5" cy="84.7" r="4" fill="#3465a4"><title>Princess Elizabeth (Royal)</title></circle></a><a href="/setts/s8/r70k2ly1dg18r10k4t4w1~x2/"><circle cx="503.7" cy="60.4" r="4" fill="#3465a4"><title>MacIngust</title></circle></a><a href="/setts/s8/r90lr1k2lb10k5r2lr2lb2~x2/"><circle cx="580.8" cy="65.9" r="4" fill="#3465a4"><title>Lock in Northumberland (Name)</title></circle></a><a href="/setts/s8/r42k4w1k6ly1db1ly1r12~x2/"><circle cx="544.7" cy="72.2" r="4" fill="#3465a4"><title>Princess Elizabeth</title></circle></a><a href="/setts/s8/r36db3w1db6g1k1g1r9~x4/"><circle cx="557.0" cy="91.9" r="4" fill="#3465a4"><title>Inverness - 1829 (District)</title></circle></a><circle cx="517.7" cy="81.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r48lr4db4k4r12db4r1ly4/

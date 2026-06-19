@@ -8,7 +8,7 @@ KRKRKYK
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/k1ly2k18o11k7o2k1~x2/tartan.png)
+![Woven sample](/setts/s7/k1o2k7o11k18ly2k1~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ KRKRKYK
 
 | Tartans |
 |---------------|
-| [DDB Canada (Fashion)](/setts/s7/k1ly2k18o11k7o2k1~x2/)|
-|![DDB Canada (Fashion) example sett](/setts/s7/k1ly2k18o11k7o2k1~x2/sett.png)|
+| [DDB Canada (Fashion)](/setts/s7/k1o2k7o11k18ly2k1~x2/)|
+|![DDB Canada (Fashion) example sett](/setts/s7/k1o2k7o11k18ly2k1~x2/sett.png)|
 

@@ -18,7 +18,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1448
 
 ## Thread count
-LN/6 B8 DB6 R16 G28 DY4 DB6 R/96
+R/96 DB6 DY4 G28 R16 DB6 B8 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -35,7 +35,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/6 B8 DB6 R16 G28 DY4 DB6 R/96 tartan")
+![Tartan detail](tartan.png "R/96 DB6 DY4 G28 R16 DB6 B8 LN/6 tartan")
 
 ## Nearest tartans
 
@@ -54,8 +54,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r72dg3ly2dg26r14db6t6w2/"><circle cx="424.6" cy="77.7" r="4" fill="#3465a4"><title>Stuart/Stewart of Fingask</title></circle></a><a href="/setts/s8/r72g3ly2g26r14db6t6w2/"><circle cx="432.4" cy="84.6" r="4" fill="#3465a4"><title>Stewart of Fingask - 1745 (Clan?)</title></circle></a><a href="/setts/s9/r36w1db3ly1dg16r8db3t2w1~x2/"><circle cx="398.8" cy="75.5" r="4" fill="#3465a4"><title>Perthshire or Drummond of Perth</title></circle></a><a href="/setts/s9/r36w1db3ly1g16r8db3b2w1~x2/"><circle cx="394.5" cy="74.5" r="4" fill="#3465a4"><title>Drummond of Perth (Clan)</title></circle></a><a href="/setts/s9/r38ly1db3w1g13r6db3t3w1~x2/"><circle cx="412.5" cy="69.9" r="4" fill="#3465a4"><title>Drummond, Ancient</title></circle></a><a href="/setts/s9/r36w1db3ly1g16r8db3t2w1~x2/"><circle cx="395.0" cy="75.7" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s9/r19ly1k2t1dg7r2k1t1w1~x4/"><circle cx="340.0" cy="82.4" r="4" fill="#3465a4"><title>Drummond Ancient</title></circle></a><a href="/setts/s9/r40k3r2db12r2g2r2g2ly3~x2/"><circle cx="432.4" cy="98.6" r="4" fill="#3465a4"><title>Oliver, dress</title></circle></a><a href="/setts/s8/r64k10ly4m5w2k2db3ly4~x2/"><circle cx="438.3" cy="60.1" r="4" fill="#3465a4"><title>Conroy Family Tartan Tartan Number: 1626. Earliest known date: 1986 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r23k1g9r3db1lr1r1~x4/"><circle cx="465.3" cy="121.0" r="4" fill="#3465a4"><title>Perthshire Clayquhat District Tartan Tartan Number: 2800. Earliest known date: c.1739 Early historic plaid woven for (or by) Janet Craigie (nee Spalding) from the Braes of Clayquhat (now Cloquhat) in East Perthshire. Two pieces are now in the possession of the Scottish Tartans Authority (2014). See http://scottishtartans.co.uk/An_Unnamed_C18th_Plaid_from_Bridge_of_Cally.pdf See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="402.9" cy="91.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r72dg3ly2dg26r14db6t6w2/"><circle cx="424.0" cy="77.6" r="4" fill="#3465a4"><title>Stuart/Stewart of Fingask</title></circle></a><a href="/setts/s8/r72g3ly2g26r14db6t6w2/"><circle cx="431.8" cy="84.5" r="4" fill="#3465a4"><title>Stewart of Fingask - 1745 (Clan?)</title></circle></a><a href="/setts/s9/r36w1db3ly1dg16r8db3t2w1~x2/"><circle cx="398.3" cy="75.5" r="4" fill="#3465a4"><title>Perthshire or Drummond of Perth</title></circle></a><a href="/setts/s9/r36w1db3ly1g16r8db3b2w1~x2/"><circle cx="394.0" cy="74.4" r="4" fill="#3465a4"><title>Drummond of Perth (Clan)</title></circle></a><a href="/setts/s9/r38ly1db3w1g13r6db3t3w1~x2/"><circle cx="412.0" cy="69.8" r="4" fill="#3465a4"><title>Drummond, Ancient</title></circle></a><a href="/setts/s9/r36w1db3ly1g16r8db3t2w1~x2/"><circle cx="394.5" cy="75.7" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/setts/s9/r19ly1k2t1dg7r2k1t1w1~x4/"><circle cx="339.5" cy="82.3" r="4" fill="#3465a4"><title>Drummond Ancient</title></circle></a><a href="/setts/s9/r40k3r2db12r2g2r2g2ly3~x2/"><circle cx="431.9" cy="98.5" r="4" fill="#3465a4"><title>Oliver, dress</title></circle></a><a href="/setts/s8/r64k10ly4m5w2k2db3ly4~x2/"><circle cx="437.7" cy="60.0" r="4" fill="#3465a4"><title>Conroy Family Tartan Tartan Number: 1626. Earliest known date: 1986 See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r23k1g9r3db1lr1r1~x4/"><circle cx="464.7" cy="120.9" r="4" fill="#3465a4"><title>Perthshire Clayquhat District Tartan Tartan Number: 2800. Earliest known date: c.1739 Early historic plaid woven for (or by) Janet Craigie (nee Spalding) from the Braes of Clayquhat (now Cloquhat) in East Perthshire. Two pieces are now in the possession of the Scottish Tartans Authority (2014). See http://scottishtartans.co.uk/An_Unnamed_C18th_Plaid_from_Bridge_of_Cally.pdf See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="402.4" cy="91.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r48db3lo2g14r8db3t4w3~x2/

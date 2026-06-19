@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2208
 
 ## Thread count
-DR/12 B96 LN8 Ga52 B8 K/12
+K/12 B8 Ga52 LN8 B96 DR/12
 ![Sett](sett.png)
 
 ## Palette
@@ -43,7 +43,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/12 B96 LN8 Ga52 B8 K/12 tartan")
+![Tartan detail](tartan.png "K/12 B8 Ga52 LN8 B96 DR/12 tartan")
 
 ## Nearest tartans
 
@@ -62,8 +62,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/t4g16ly2db7t28w4~x2/"><circle cx="281.6" cy="189.9" r="4" fill="#3465a4"><title>Allanton (Fashion)</title></circle></a><a href="/setts/s6/t4dg16ly2dp7t28w4~x2/"><circle cx="274.0" cy="181.7" r="4" fill="#3465a4"><title>Manx Laxey (Blue)</title></circle></a><a href="/setts/s8/g13dp1g1dp1g3b5k4ly2~x4/"><circle cx="293.5" cy="171.5" r="4" fill="#3465a4"><title>Carrick Hunting (Personal)</title></circle></a><a href="/setts/s5/o10k1db3g3ly1~x6/"><circle cx="260.9" cy="190.2" r="4" fill="#3465a4"><title>Celtic Norse Heritage Society</title></circle></a><a href="/setts/s6/k4t24k2g13t2k3~x4/"><circle cx="261.1" cy="178.4" r="4" fill="#3465a4"><title>Vance (Family Association) Corporate Family Tartan Tartan Number: 2208. Earliest known date: December 1994 Designed and Copyrighted in the US by Mark W. Vance. Details from Vance Family Association website. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/k3r1ly1t11g13t5r1ly1~x4/"><circle cx="226.6" cy="163.3" r="4" fill="#3465a4"><title>Snodgrass (Clan)</title></circle></a><a href="/setts/s6/w15ly2dt5lr3t40dt10/"><circle cx="295.2" cy="152.9" r="4" fill="#3465a4"><title>Herriot (New Zealand) (Name)</title></circle></a><a href="/setts/s5/db10k3t65g56ly6/"><circle cx="294.5" cy="185.8" r="4" fill="#3465a4"><title>Phoenix Police Honor Guard (Corp.)</title></circle></a><a href="/setts/s5/db10k3t65dg56ly6/"><circle cx="285.2" cy="181.4" r="4" fill="#3465a4"><title>Phoenix Police Honor Guard</title></circle></a><a href="/setts/s7/r2t1r1t11g16dg1w1~x2/"><circle cx="289.9" cy="156.7" r="4" fill="#3465a4"><title>Gift of Life Michigan (Corporate)</title></circle></a><circle cx="290.4" cy="180.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/t4g16ly2db7t28w4~x2/"><circle cx="281.5" cy="189.8" r="4" fill="#3465a4"><title>Allanton (Fashion)</title></circle></a><a href="/setts/s6/t4dg16ly2dp7t28w4~x2/"><circle cx="273.9" cy="181.6" r="4" fill="#3465a4"><title>Manx Laxey (Blue)</title></circle></a><a href="/setts/s8/g13dp1g1dp1g3b5k4ly2~x4/"><circle cx="293.4" cy="171.5" r="4" fill="#3465a4"><title>Carrick Hunting (Personal)</title></circle></a><a href="/setts/s5/o10k1db3g3ly1~x6/"><circle cx="260.8" cy="190.1" r="4" fill="#3465a4"><title>Celtic Norse Heritage Society</title></circle></a><a href="/setts/s6/k4t24k2g13t2k3~x4/"><circle cx="261.1" cy="178.2" r="4" fill="#3465a4"><title>Vance (Family Association) Corporate Family Tartan Tartan Number: 2208. Earliest known date: December 1994 Designed and Copyrighted in the US by Mark W. Vance. Details from Vance Family Association website. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/k3r1ly1t11g13t5r1ly1~x4/"><circle cx="226.4" cy="163.2" r="4" fill="#3465a4"><title>Snodgrass (Clan)</title></circle></a><a href="/setts/s6/w15ly2dt5lr3t40dt10/"><circle cx="295.0" cy="152.8" r="4" fill="#3465a4"><title>Herriot (New Zealand) (Name)</title></circle></a><a href="/setts/s5/db10k3t65g56ly6/"><circle cx="294.4" cy="185.8" r="4" fill="#3465a4"><title>Phoenix Police Honor Guard (Corp.)</title></circle></a><a href="/setts/s5/db10k3t65dg56ly6/"><circle cx="285.2" cy="181.3" r="4" fill="#3465a4"><title>Phoenix Police Honor Guard</title></circle></a><a href="/setts/s7/r2t1r1t11g16dg1w1~x2/"><circle cx="289.6" cy="156.6" r="4" fill="#3465a4"><title>Gift of Life Michigan (Corporate)</title></circle></a><circle cx="290.2" cy="180.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k3t2g13w2t24r3~x4/

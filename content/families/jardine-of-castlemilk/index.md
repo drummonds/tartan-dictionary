@@ -1,8 +1,8 @@
 ---
-title: "Jardine of Castlemilk"
+title: "Jardine, of Castlemilk"
 date: 2023-03-18
 ---
-A family of [Clan Jardine](/clan/jardine/).
+A family of [Clan Jardine,](/clan/jardine/).
 
 **Trove of Scotland:** [search “Castlemilk”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Castlemilk&viewmode=grid)
 

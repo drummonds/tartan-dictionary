@@ -2,7 +2,7 @@
 title: "Campbell, Marquis of Lorne"
 date: 2023-03-18
 ---
-**Bands:** [BKGKGKGYGWGRGKGKGK](/stripes/bkgkgkgygwgrgkgkgk/) · **Stripes:** [P K G K G K G LY G W G R G K G K G K](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">P K G K G K G LY G W G R G K G K G K</span></span>
+**Bands:** [KGKGKGRGWGYGKGKGKB](/stripes/kgkgkgrgwgygkgkgkb/) · **Stripes:** [K G K G K G R G W G LY G K G K G K P](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">K G K G K G R G W G LY G K G K G K P</span></span>
 
 
 This was sourced from weddslist.  It is a [18 band tartan](/bands/bands18/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -904,21 +907,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Lorne, Marquis of](/setts/s18/db3k3g2k14g2k2g20r2g2w2g2ly2g20k2g2k14g2k3~x2/) — ΔT 0.61
+1. [Lorne, Marquis of](/setts/s18/k3g2k14g2k2g20ly2g2w2g2r2g20k2g2k14g2k3db3~x2/) — ΔT 0.61
 1. [Myron](/setts/s17/k3g3m2g3ly2g2ly2g11db3k3db3k3db3k3db3g20r3~x2/) — ΔT 1.18
 1. [Lorne - Marquis of (Personal)](/setts/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3t3~x2/) — ΔT 1.28
-1. [Campbell, Marquis of Lorne](/setts/s18/dp6k6g4k22g3k3g32ly3g3w3g3r3g32k3g3k22g4k6/) — ΔT 1.31
+1. [Campbell, Marquis of Lorne](/setts/s18/k6g4k22g3k3g32r3g3w3g3ly3g32k3g3k22g4k6dp6/) — ΔT 1.31
 1. [Kinnear, Pilette of](/setts/s21/k2r1k6g2k6g24k4g2r3lr1r2ly1r3g2k4g24k6g2k6r1k2~x2/) — ΔT 1.36
 1. [Stewart hunting](/setts/s22/db9g4db9k3db3k8g27r4g27k8g5k13g4k13g5k8g27ly4g27k8db3k3/) — ΔT 1.40
-1. [Lorne Asymmetric (Artefact)](/setts/s18/db3k3g2k14g2k2g20r2g2w2g2lo2g20k2g2k14g2k3~x2/) — ΔT 1.47
+1. [Lorne Asymmetric (Artefact)](/setts/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3db3~x2/) — ΔT 1.47
 1. [Cockburn - 1830 (Clan)](/setts/s16/g10k1g1k1g1k1db4k1w1k1db1ly1k1g4k1r1~x4/) — ΔT 1.61
 1. [Celtic F.C.](/setts/s14/dg6g3dg24k2dg4k16o5dg2w4dg2g21dg2k2ly3~x2/) — ΔT 1.71
 1. [Kennedy](/setts/s17/k2g2ly1g3r1g2r1g12db4k3db3k3db3k3db4g24r2~x2/) — ΔT 1.76
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/db3k3g2k14g2k2g20r2g2w2g2ly2g20k2g2k14g2k3~x2/"><circle cx="213.3" cy="105.6" r="4" fill="#3465a4"><title>Lorne, Marquis of</title></circle></a><a href="/setts/s17/k3g3m2g3ly2g2ly2g11db3k3db3k3db3k3db3g20r3~x2/"><circle cx="204.4" cy="117.8" r="4" fill="#3465a4"><title>Myron</title></circle></a><a href="/setts/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3t3~x2/"><circle cx="234.6" cy="107.3" r="4" fill="#3465a4"><title>Lorne - Marquis of (Personal)</title></circle></a><a href="/setts/s18/dp6k6g4k22g3k3g32ly3g3w3g3r3g32k3g3k22g4k6/"><circle cx="257.0" cy="125.0" r="4" fill="#3465a4"><title>Campbell, Marquis of Lorne</title></circle></a><a href="/setts/s21/k2r1k6g2k6g24k4g2r3lr1r2ly1r3g2k4g24k6g2k6r1k2~x2/"><circle cx="265.7" cy="66.3" r="4" fill="#3465a4"><title>Kinnear, Pilette of</title></circle></a><a href="/setts/s22/db9g4db9k3db3k8g27r4g27k8g5k13g4k13g5k8g27ly4g27k8db3k3/"><circle cx="224.9" cy="146.0" r="4" fill="#3465a4"><title>Stewart hunting</title></circle></a><a href="/setts/s18/db3k3g2k14g2k2g20r2g2w2g2lo2g20k2g2k14g2k3~x2/"><circle cx="263.6" cy="129.1" r="4" fill="#3465a4"><title>Lorne Asymmetric (Artefact)</title></circle></a><a href="/setts/s16/g10k1g1k1g1k1db4k1w1k1db1ly1k1g4k1r1~x4/"><circle cx="223.2" cy="120.6" r="4" fill="#3465a4"><title>Cockburn - 1830 (Clan)</title></circle></a><a href="/setts/s14/dg6g3dg24k2dg4k16o5dg2w4dg2g21dg2k2ly3~x2/"><circle cx="155.1" cy="121.7" r="4" fill="#3465a4"><title>Celtic F.C.</title></circle></a><a href="/setts/s17/k2g2ly1g3r1g2r1g12db4k3db3k3db3k3db4g24r2~x2/"><circle cx="292.4" cy="80.2" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><circle cx="221.4" cy="110.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/k3g2k14g2k2g20ly2g2w2g2r2g20k2g2k14g2k3db3~x2/"><circle cx="213.2" cy="105.5" r="4" fill="#3465a4"><title>Lorne, Marquis of</title></circle></a><a href="/setts/s17/k3g3m2g3ly2g2ly2g11db3k3db3k3db3k3db3g20r3~x2/"><circle cx="204.3" cy="117.8" r="4" fill="#3465a4"><title>Myron</title></circle></a><a href="/setts/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3t3~x2/"><circle cx="234.4" cy="107.2" r="4" fill="#3465a4"><title>Lorne - Marquis of (Personal)</title></circle></a><a href="/setts/s18/k6g4k22g3k3g32r3g3w3g3ly3g32k3g3k22g4k6dp6/"><circle cx="256.9" cy="125.0" r="4" fill="#3465a4"><title>Campbell, Marquis of Lorne</title></circle></a><a href="/setts/s21/k2r1k6g2k6g24k4g2r3lr1r2ly1r3g2k4g24k6g2k6r1k2~x2/"><circle cx="265.6" cy="66.3" r="4" fill="#3465a4"><title>Kinnear, Pilette of</title></circle></a><a href="/setts/s22/db9g4db9k3db3k8g27r4g27k8g5k13g4k13g5k8g27ly4g27k8db3k3/"><circle cx="224.8" cy="145.9" r="4" fill="#3465a4"><title>Stewart hunting</title></circle></a><a href="/setts/s18/k3g2k14g2k2g20lo2g2w2g2r2g20k2g2k14g2k3db3~x2/"><circle cx="263.5" cy="129.1" r="4" fill="#3465a4"><title>Lorne Asymmetric (Artefact)</title></circle></a><a href="/setts/s16/g10k1g1k1g1k1db4k1w1k1db1ly1k1g4k1r1~x4/"><circle cx="223.1" cy="120.6" r="4" fill="#3465a4"><title>Cockburn - 1830 (Clan)</title></circle></a><a href="/setts/s14/dg6g3dg24k2dg4k16o5dg2w4dg2g21dg2k2ly3~x2/"><circle cx="155.2" cy="121.8" r="4" fill="#3465a4"><title>Celtic F.C.</title></circle></a><a href="/setts/s17/k2g2ly1g3r1g2r1g12db4k3db3k3db3k3db4g24r2~x2/"><circle cx="292.2" cy="80.2" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><circle cx="221.4" cy="110.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s18/k6g4k22g3k3g32r3g3w3g3ly3g32k3g3k22g4k6p6/

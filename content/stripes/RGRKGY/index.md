@@ -8,7 +8,7 @@ RGRKGY
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/ly2g2k9r9dg2o2~x4/tartan.png)
+![Woven sample](/setts/s6/o2dg2r9k9g2ly2~x4/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RGRKGY
 
 | Tartans |
 |---------------|
-| [Wolves Wod Kindred](/setts/s6/ly2g2k9r9dg2o2~x4/)|
-|![Wolves Wod Kindred example sett](/setts/s6/ly2g2k9r9dg2o2~x4/sett.png)|
+| [Wolves Wod Kindred](/setts/s6/o2dg2r9k9g2ly2~x4/)|
+|![Wolves Wod Kindred example sett](/setts/s6/o2dg2r9k9g2ly2~x4/sett.png)|
 

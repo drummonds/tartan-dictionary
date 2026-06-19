@@ -22,6 +22,6 @@ KRGYGYGYGYGYGYGYGYGYGY
 
 | Tartans |
 |---------------|
-| [Braveheart](/setts/s22/lr21dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1o20k2/)|
-|![Braveheart example sett](/setts/s22/lr21dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1o20k2/sett.png)|
+| [Braveheart](/setts/s22/lr21dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1o20k2~x2/)|
+|![Braveheart example sett](/setts/s22/lr21dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1lr1dy1o20k2~x2/sett.png)|
 

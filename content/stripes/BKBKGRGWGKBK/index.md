@@ -18,10 +18,10 @@ BKBKGRGWGKBK
 
 
 
-### DB K DB K G R G W G K DB K <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K DB K G R G W G K DB K</span></span>
+### K DB K G W G R G K DB K DB <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DB K G W G R G K DB K DB</span></span>
 
 | Tartans |
 |---------------|
-| [Spar (UK) Ltd](/setts/s12/db2k1db10k9g9r1g2w1g9k9db10k2~x4/)|
-|![Spar (UK) Ltd example sett](/setts/s12/db2k1db10k9g9r1g2w1g9k9db10k2~x4/sett.png)|
+| [Spar (UK) Ltd](/setts/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/)|
+|![Spar (UK) Ltd example sett](/setts/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/sett.png)|
 

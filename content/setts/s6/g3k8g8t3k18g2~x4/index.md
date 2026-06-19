@@ -2,7 +2,7 @@
 title: "Kincardine City"
 date: 2023-03-18
 ---
-**Bands:** [GKBGKG](/stripes/gkbgkg/) · **Stripes:** [G K T G K G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K T G K G</span></span>
+**Bands:** [GKGBKG](/stripes/gkgbkg/) · **Stripes:** [G K G T K G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">G K G T K G</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-G/8 DB72 B12 G32 DB32 G/12
+G/12 DB32 G32 B12 DB72 G/8
 ![Sett](sett.png)
 
 ## Palette
@@ -899,13 +902,13 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "G/8 DB72 B12 G32 DB32 G/12 tartan")
+![Tartan detail](tartan.png "G/12 DB32 G32 B12 DB72 G/8 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Campbell of Loch Awe](/setts/s5/k2b11k26g11k2~x2/) — ΔT 1.44
+1. [Campbell of Loch Awe](/setts/s5/k2g11k26b11k2~x2/) — ΔT 1.44
 1. [Frame (Edinburgh) (Personal)](/setts/s7/k16g15k4t12k22w2k6~x2/) — ΔT 1.46
 1. [St. Dennis & Cranley School](/setts/s7/db1g12db4lb1db4g4db1~x4/) — ΔT 1.48
 1. [Campbell of Lochawe](/setts/s5/k2db11k26g11k2~x2/) — ΔT 1.53
@@ -918,8 +921,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k2b11k26g11k2~x2/"><circle cx="350.3" cy="244.2" r="4" fill="#3465a4"><title>Campbell of Loch Awe</title></circle></a><a href="/setts/s7/k16g15k4t12k22w2k6~x2/"><circle cx="305.4" cy="232.8" r="4" fill="#3465a4"><title>Frame (Edinburgh) (Personal)</title></circle></a><a href="/setts/s7/db1g12db4lb1db4g4db1~x4/"><circle cx="369.6" cy="225.1" r="4" fill="#3465a4"><title>St. Dennis &amp; Cranley School</title></circle></a><a href="/setts/s5/k2db11k26g11k2~x2/"><circle cx="323.2" cy="234.1" r="4" fill="#3465a4"><title>Campbell of Lochawe</title></circle></a><a href="/setts/s6/dg4db12r3db12dg32lb4/"><circle cx="301.3" cy="218.6" r="4" fill="#3465a4"><title>MacIntyre L</title></circle></a><a href="/setts/s6/m4k28b3k3b25k3~x2/"><circle cx="323.5" cy="227.4" r="4" fill="#3465a4"><title>Slanj (Corporate)</title></circle></a><a href="/setts/s8/k10t1k2t1k4t10g1t2~x4/"><circle cx="310.2" cy="208.3" r="4" fill="#3465a4"><title>Martin's Own</title></circle></a><a href="/setts/s5/db8g2db8g15lb2~x4/"><circle cx="282.5" cy="271.2" r="4" fill="#3465a4"><title>Hamilton Green Hunting</title></circle></a><a href="/setts/s7/k36w3k10w3g28r6k18~x2/"><circle cx="329.2" cy="209.2" r="4" fill="#3465a4"><title>Wild Highlanders (Corporate)</title></circle></a><a href="/setts/s5/lr3k3lr3k10r1~x6/"><circle cx="351.6" cy="236.6" r="4" fill="#3465a4"><title>Burberry Blue</title></circle></a><circle cx="338.4" cy="248.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k2g11k26b11k2~x2/"><circle cx="350.4" cy="244.0" r="4" fill="#3465a4"><title>Campbell of Loch Awe</title></circle></a><a href="/setts/s7/k16g15k4t12k22w2k6~x2/"><circle cx="305.5" cy="232.6" r="4" fill="#3465a4"><title>Frame (Edinburgh) (Personal)</title></circle></a><a href="/setts/s7/db1g12db4lb1db4g4db1~x4/"><circle cx="369.6" cy="224.8" r="4" fill="#3465a4"><title>St. Dennis &amp; Cranley School</title></circle></a><a href="/setts/s5/k2db11k26g11k2~x2/"><circle cx="323.4" cy="233.8" r="4" fill="#3465a4"><title>Campbell of Lochawe</title></circle></a><a href="/setts/s6/dg4db12r3db12dg32lb4/"><circle cx="301.3" cy="218.4" r="4" fill="#3465a4"><title>MacIntyre L</title></circle></a><a href="/setts/s6/m4k28b3k3b25k3~x2/"><circle cx="323.6" cy="227.2" r="4" fill="#3465a4"><title>Slanj (Corporate)</title></circle></a><a href="/setts/s8/k10t1k2t1k4t10g1t2~x4/"><circle cx="310.1" cy="208.0" r="4" fill="#3465a4"><title>Martin's Own</title></circle></a><a href="/setts/s5/db8g2db8g15lb2~x4/"><circle cx="282.6" cy="271.0" r="4" fill="#3465a4"><title>Hamilton Green Hunting</title></circle></a><a href="/setts/s7/k36w3k10w3g28r6k18~x2/"><circle cx="329.2" cy="209.0" r="4" fill="#3465a4"><title>Wild Highlanders (Corporate)</title></circle></a><a href="/setts/s5/lr3k3lr3k10r1~x6/"><circle cx="351.7" cy="236.2" r="4" fill="#3465a4"><title>Burberry Blue</title></circle></a><circle cx="338.5" cy="248.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/g3k8g8t3k18g2~x4/

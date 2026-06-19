@@ -8,7 +8,7 @@ RWRGYGBY
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/ly2db40g10lo1g5r5w1r2~x2/tartan.png)
+![Woven sample](/setts/s8/r2w1r5g5lo1g10db40ly2~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RWRGYGBY
 
 | Tartans |
 |---------------|
-| [St. Andrew Quebec City (Corporate)](/setts/s8/ly2db40g10lo1g5r5w1r2~x2/)|
-|![St. Andrew Quebec City (Corporate) example sett](/setts/s8/ly2db40g10lo1g5r5w1r2~x2/sett.png)|
+| [St. Andrew Quebec City (Corporate)](/setts/s8/r2w1r5g5lo1g10db40ly2~x2/)|
+|![St. Andrew Quebec City (Corporate) example sett](/setts/s8/r2w1r5g5lo1g10db40ly2~x2/sett.png)|
 

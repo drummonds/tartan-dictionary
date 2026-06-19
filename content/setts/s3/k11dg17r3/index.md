@@ -20,18 +20,26 @@ This cloth appears in 2 source records; the oldest owns this page.
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2625](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2625)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
-- Scottish Register of Tartans: [3555](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3555)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 1429
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1429
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
-- Scottish Tartans World Register: 864
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Variants
 
@@ -68,14 +76,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Wilson's, No 2/53 or Mull](/setts/s3/k5g4ly1~x2/) — ΔT 1.29
 1. [Cowie, Justine (Personal)](/setts/s3/g9k18r2~x4/) — ΔT 1.39
 1. [Wallace Hunting](/setts/s4/k1dg8k8ly1/) — ΔT 1.40
-1. [Wilson's, No 197](/setts/s3/g6ly1k6~x4/) — ΔT 1.44
+1. [Wilson's, No 197](/setts/s3/k6ly1g6~x4/) — ΔT 1.44
 1. [Wilson's No.050](/setts/s3/k5g6t1~x4/) — ΔT 1.45
 1. [Wallace Htg (Clan)](/setts/s4/k1g8k8ly1~x4/) — ΔT 1.50
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/k11dg17r3~x2/"><circle cx="294.8" cy="320.5" r="4" fill="#3465a4"><title>Kincaid</title></circle></a><a href="/setts/s3/g5k6t1~x4/"><circle cx="238.4" cy="306.0" r="4" fill="#3465a4"><title>Wilson's, No 50</title></circle></a><a href="/setts/s3/k4g6r1~x10/"><circle cx="258.0" cy="299.3" r="4" fill="#3465a4"><title>Kincaid, of Kincaid</title></circle></a><a href="/setts/s4/k3g15k20ly3~x2/"><circle cx="311.8" cy="278.9" r="4" fill="#3465a4"><title>Scotch Tape 2 (Corporate)</title></circle></a><a href="/setts/s3/k5g4ly1~x2/"><circle cx="217.8" cy="309.7" r="4" fill="#3465a4"><title>Wilson's, No 2/53 or Mull</title></circle></a><a href="/setts/s3/g9k18r2~x4/"><circle cx="343.2" cy="277.9" r="4" fill="#3465a4"><title>Cowie, Justine (Personal)</title></circle></a><a href="/setts/s4/k1dg8k8ly1/"><circle cx="302.4" cy="272.8" r="4" fill="#3465a4"><title>Wallace Hunting</title></circle></a><a href="/setts/s3/g6ly1k6~x4/"><circle cx="221.1" cy="300.7" r="4" fill="#3465a4"><title>Wilson's, No 197</title></circle></a><a href="/setts/s3/k5g6t1~x4/"><circle cx="284.5" cy="325.5" r="4" fill="#3465a4"><title>Wilson's No.050</title></circle></a><a href="/setts/s4/k1g8k8ly1~x4/"><circle cx="280.6" cy="262.1" r="4" fill="#3465a4"><title>Wallace Htg (Clan)</title></circle></a><circle cx="283.3" cy="315.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/k11dg17r3~x2/"><circle cx="295.0" cy="320.3" r="4" fill="#3465a4"><title>Kincaid</title></circle></a><a href="/setts/s3/g5k6t1~x4/"><circle cx="238.7" cy="305.7" r="4" fill="#3465a4"><title>Wilson's, No 50</title></circle></a><a href="/setts/s3/k4g6r1~x10/"><circle cx="258.1" cy="299.0" r="4" fill="#3465a4"><title>Kincaid, of Kincaid</title></circle></a><a href="/setts/s4/k3g15k20ly3~x2/"><circle cx="311.9" cy="278.6" r="4" fill="#3465a4"><title>Scotch Tape 2 (Corporate)</title></circle></a><a href="/setts/s3/k5g4ly1~x2/"><circle cx="218.0" cy="309.3" r="4" fill="#3465a4"><title>Wilson's, No 2/53 or Mull</title></circle></a><a href="/setts/s3/g9k18r2~x4/"><circle cx="343.3" cy="277.5" r="4" fill="#3465a4"><title>Cowie, Justine (Personal)</title></circle></a><a href="/setts/s4/k1dg8k8ly1/"><circle cx="302.7" cy="272.6" r="4" fill="#3465a4"><title>Wallace Hunting</title></circle></a><a href="/setts/s3/k6ly1g6~x4/"><circle cx="221.3" cy="300.3" r="4" fill="#3465a4"><title>Wilson's, No 197</title></circle></a><a href="/setts/s3/k5g6t1~x4/"><circle cx="284.7" cy="325.3" r="4" fill="#3465a4"><title>Wilson's No.050</title></circle></a><a href="/setts/s4/k1g8k8ly1~x4/"><circle cx="280.8" cy="261.8" r="4" fill="#3465a4"><title>Wallace Htg (Clan)</title></circle></a><circle cx="283.5" cy="314.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/k11dg17r3/

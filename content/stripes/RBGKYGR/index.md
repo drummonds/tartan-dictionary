@@ -8,7 +8,7 @@ RBGKYGR
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/r2db8dg8k8ly1dg8r2/tartan.png)
+![Woven sample](/setts/s7/r2dg8ly1k8dg8db8r2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ RBGKYGR
 
 
 
-### R DB DG K LY DG R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DB DG K LY DG R</span></span>
+### R DG LY K DG DB R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG LY K DG DB R</span></span>
 
 | Tartans |
 |---------------|
-| [Brodie Hunting](/setts/s7/r2db8dg8k8ly1dg8r2/)|
-|![Brodie Hunting example sett](/setts/s7/r2db8dg8k8ly1dg8r2/sett.png)|
+| [Brodie Hunting](/setts/s7/r2dg8ly1k8dg8db8r2/)|
+|![Brodie Hunting example sett](/setts/s7/r2dg8ly1k8dg8db8r2/sett.png)|
 

@@ -2,7 +2,7 @@
 title: "MacLean"
 date: 2023-03-18
 ---
-**Bands:** [BWKYGWKGRWRK](/stripes/bwkygwkgrwrk/) · **Stripes:** [DB LB K LY DG LB K DG R LB R K](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">DB LB K LY DG LB K DG R LB R K</span></span>
+**Bands:** [KRWRGKWGYKWB](/stripes/krwrgkwgykwb/) · **Stripes:** [K R LB R DG K LB DG LY K LB DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="seq">K R LB R DG K LB DG LY K LB DB</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -13,13 +13,23 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Thread count
 DB/8 N2 K6 Y2 G2 N2 K2 G16 R24 N2 R4 K/2
@@ -41,21 +51,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Boyd](/setts/s12/ly1g6k1db1k1db1k6r12g1r1k1w1~x4/) — ΔT 0.54
+1. [Boyd](/setts/s12/w1k1r1g1r12k6db1k1db1k1g6ly1~x4/) — ΔT 0.54
 1. [Stewart, Prince Charles Edward](/setts/s12/r14t4k6ly1k2w2k2g12r6k2r2w1~x2/) — ΔT 0.76
 1. [MacLean of Duart 3](/setts/s11/t16k12ly4k4w6k4g32r50t6r8k3/) — ΔT 0.77
 1. [MacLean of Duart 1](/setts/s11/t13k6ly2k3w4k3g22r31t3r4k2~x2/) — ΔT 0.77
 1. [MacLean, Variation](/setts/s11/p45k12ly4k4w6k4g50r57p4r10k4~x2/) — ΔT 0.80
 1. [McMuldroch (2014)](/setts/s10/g19k18r18w2ly2dp2ly2w2r8dp3~x2/) — ΔT 0.87
 1. [Kilmorie](/setts/s11/k3r30g10k3ly2k3w2k6r2db12w2~x2/) — ΔT 0.89
-1. [Boyd](/setts/s12/ly5g22k2db2k2db2k10r38g5r4k4w5~x2/) — ΔT 0.90
+1. [Boyd](/setts/s12/w5k4r4g5r38k10db2k2db2k2g22ly5~x2/) — ΔT 0.90
 1. [MacLean of Duart 5](/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x2/) — ΔT 0.90
 1. [MacLean of Duart #4](/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/) — ΔT 0.92
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/ly1g6k1db1k1db1k6r12g1r1k1w1~x4/"><circle cx="157.8" cy="95.5" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/setts/s12/r14t4k6ly1k2w2k2g12r6k2r2w1~x2/"><circle cx="144.9" cy="106.8" r="4" fill="#3465a4"><title>Stewart, Prince Charles Edward</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4g32r50t6r8k3/"><circle cx="159.3" cy="94.3" r="4" fill="#3465a4"><title>MacLean of Duart 3</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3g22r31t3r4k2~x2/"><circle cx="147.1" cy="97.0" r="4" fill="#3465a4"><title>MacLean of Duart 1</title></circle></a><a href="/setts/s11/p45k12ly4k4w6k4g50r57p4r10k4~x2/"><circle cx="142.2" cy="98.5" r="4" fill="#3465a4"><title>MacLean, Variation</title></circle></a><a href="/setts/s10/g19k18r18w2ly2dp2ly2w2r8dp3~x2/"><circle cx="106.5" cy="129.4" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s11/k3r30g10k3ly2k3w2k6r2db12w2~x2/"><circle cx="190.2" cy="96.2" r="4" fill="#3465a4"><title>Kilmorie</title></circle></a><a href="/setts/s12/ly5g22k2db2k2db2k10r38g5r4k4w5~x2/"><circle cx="188.1" cy="78.7" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x2/"><circle cx="125.0" cy="86.0" r="4" fill="#3465a4"><title>MacLean of Duart 5</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/"><circle cx="161.2" cy="101.1" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><circle cx="143.4" cy="100.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w1k1r1g1r12k6db1k1db1k1g6ly1~x4/"><circle cx="157.7" cy="95.6" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/setts/s12/r14t4k6ly1k2w2k2g12r6k2r2w1~x2/"><circle cx="144.8" cy="106.9" r="4" fill="#3465a4"><title>Stewart, Prince Charles Edward</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4g32r50t6r8k3/"><circle cx="159.2" cy="94.4" r="4" fill="#3465a4"><title>MacLean of Duart 3</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3g22r31t3r4k2~x2/"><circle cx="146.9" cy="97.0" r="4" fill="#3465a4"><title>MacLean of Duart 1</title></circle></a><a href="/setts/s11/p45k12ly4k4w6k4g50r57p4r10k4~x2/"><circle cx="142.1" cy="98.6" r="4" fill="#3465a4"><title>MacLean, Variation</title></circle></a><a href="/setts/s10/g19k18r18w2ly2dp2ly2w2r8dp3~x2/"><circle cx="106.5" cy="129.5" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s11/k3r30g10k3ly2k3w2k6r2db12w2~x2/"><circle cx="190.0" cy="96.3" r="4" fill="#3465a4"><title>Kilmorie</title></circle></a><a href="/setts/s12/w5k4r4g5r38k10db2k2db2k2g22ly5~x2/"><circle cx="188.0" cy="78.7" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x2/"><circle cx="124.9" cy="86.1" r="4" fill="#3465a4"><title>MacLean of Duart 5</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/"><circle cx="161.0" cy="101.2" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><circle cx="143.3" cy="100.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/db4lb1k3ly1dg1lb1k1dg8r12lb1r2k1~x2/

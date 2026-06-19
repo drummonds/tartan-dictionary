@@ -22,6 +22,6 @@ RWRBRGYBYBYBYRYBYBYBYGRBRW
 
 | Tartans |
 |---------------|
-| [Unidentified Scarlett #15](/setts/s26/r9w2r9do3r9dy17lo3do14lg8do2lg2do2lg8r17lg8do2lg2do2lg8do14lo3dy17r9do3r9w2~x2/)|
-|![Unidentified Scarlett #15 example sett](/setts/s26/r9w2r9do3r9dy17lo3do14lg8do2lg2do2lg8r17lg8do2lg2do2lg8do14lo3dy17r9do3r9w2~x2/sett.png)|
+| [Unidentified Scarlett #15](/setts/s26/r17lg8do2lg2do2lg8do14lo3dy17r9do3r9w2r9~x2/)|
+|![Unidentified Scarlett #15 example sett](/setts/s26/r17lg8do2lg2do2lg8do14lo3dy17r9do3r9w2r9~x2/sett.png)|
 

@@ -6,7 +6,7 @@ date: 2023-03-18
 
 ## Tartan
 
-<a class="tartan" href="/setts/s22/g6w2g24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12g24w2~x2/"><img src="/setts/s22/g6w2g24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12g24w2~x2/sett.png" alt="Sutherland" width="240"><br>Sutherland</a>
+<a class="tartan" href="/setts/s22/g6w2g24k12db3k2db2k2db12r1db1r3~x2/"><img src="/setts/s22/g6w2g24k12db3k2db2k2db12r1db1r3~x2/sett.png" alt="Sutherland" width="240"><br>Sutherland</a>
 
 ## Families
 

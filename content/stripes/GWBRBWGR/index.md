@@ -18,10 +18,10 @@ GWBRBWGR
 
 
 
-### G W T R T W G R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">G W T R T W G R</span></span>
+### R G W T R T W G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G W T R T W G</span></span>
 
 | Tartans |
 |---------------|
-| [Menzies](/setts/s8/r12g9w1t3r24t3w1g9~x8/)|
-|![Menzies example sett](/setts/s8/r12g9w1t3r24t3w1g9~x8/sett.png)|
+| [Menzies](/setts/s8/r24t3w1g9r12~x8/)|
+|![Menzies example sett](/setts/s8/r24t3w1g9r12~x8/sett.png)|
 

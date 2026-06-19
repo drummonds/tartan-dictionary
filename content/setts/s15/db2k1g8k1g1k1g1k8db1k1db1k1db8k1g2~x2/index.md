@@ -2,7 +2,7 @@
 title: "Lorne"
 date: 2023-03-18
 ---
-**Bands:** [BKGKGKGKBKBKBKG](/stripes/bkgkgkgkbkbkbkg/) · **Stripes:** [DB K G K G K G K DB K DB K DB K G](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB K G K G K G K DB K DB K DB K G</span></span>
+**Bands:** [GKBKBKBKGKGKGKB](/stripes/gkbkbkbkgkgkgkb/) · **Stripes:** [G K DB K DB K DB K G K G K G K DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G K DB K DB K DB K G K G K G K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -899,7 +902,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/4 K2 G16 K2 G2 K2 G2 K16 B2 K2 B2 K2 B16 K2 G/4
+G/4 K2 B16 K2 B2 K2 B2 K16 G2 K2 G2 K2 G16 K2 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -917,7 +920,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Black Watch, A&S Highlanders](/setts/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x2/) — ΔT 0.93
 1. [Campbell](/setts/s13/db2k2db11k10g12k3g12k10db2k2db2k2db2~x2/) — ΔT 1.11
-1. [Louise](/setts/s11/db1k1db9k6g1k1g1k1g6r1k1~x2/) — ΔT 1.14
+1. [Louise](/setts/s11/k1r1g6k1g1k1g1k6db9k1db1~x2/) — ΔT 1.14
 1. [Safeway](/setts/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/) — ΔT 1.20
 1. [Gordon 2](/setts/s15/db23k3db3k3db3k17g22k2ly4k2g22k17db22k3db3~x2/) — ΔT 1.21
 1. [Forbes](/setts/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/) — ΔT 1.26
@@ -928,8 +931,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x2/"><circle cx="200.9" cy="192.7" r="4" fill="#3465a4"><title>Black Watch, A&amp;S Highlanders</title></circle></a><a href="/setts/s13/db2k2db11k10g12k3g12k10db2k2db2k2db2~x2/"><circle cx="177.6" cy="218.8" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/setts/s11/db1k1db9k6g1k1g1k1g6r1k1~x2/"><circle cx="173.4" cy="173.9" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/setts/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/"><circle cx="166.2" cy="172.9" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/setts/s15/db23k3db3k3db3k17g22k2ly4k2g22k17db22k3db3~x2/"><circle cx="166.9" cy="163.4" r="4" fill="#3465a4"><title>Gordon 2</title></circle></a><a href="/setts/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/"><circle cx="155.8" cy="181.3" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s11/g2k1db9k7g1k1g1k1g9r1g1~x4/"><circle cx="194.9" cy="172.9" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/setts/s13/db8k1db1k1db1k8ly1g14ly1k8db8k1db1~x2/"><circle cx="181.8" cy="151.2" r="4" fill="#3465a4"><title>Campbell of Breadalbane</title></circle></a><a href="/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="149.4" cy="183.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s11/db1g6k2db1k3g1k2db2g1db6g1~x4/"><circle cx="176.5" cy="227.6" r="4" fill="#3465a4"><title>Black Water</title></circle></a><circle cx="195.2" cy="180.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x2/"><circle cx="201.0" cy="192.6" r="4" fill="#3465a4"><title>Black Watch, A&amp;S Highlanders</title></circle></a><a href="/setts/s13/db2k2db11k10g12k3g12k10db2k2db2k2db2~x2/"><circle cx="177.8" cy="218.7" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/setts/s11/k1r1g6k1g1k1g1k6db9k1db1~x2/"><circle cx="173.5" cy="173.8" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/setts/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/"><circle cx="166.3" cy="172.9" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/setts/s15/db23k3db3k3db3k17g22k2ly4k2g22k17db22k3db3~x2/"><circle cx="167.0" cy="163.4" r="4" fill="#3465a4"><title>Gordon 2</title></circle></a><a href="/setts/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/"><circle cx="156.0" cy="181.3" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s11/g2k1db9k7g1k1g1k1g9r1g1~x4/"><circle cx="194.9" cy="172.8" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/setts/s13/db8k1db1k1db1k8ly1g14ly1k8db8k1db1~x2/"><circle cx="181.9" cy="151.2" r="4" fill="#3465a4"><title>Campbell of Breadalbane</title></circle></a><a href="/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="149.6" cy="183.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s11/db1g6k2db1k3g1k2db2g1db6g1~x4/"><circle cx="176.7" cy="227.5" r="4" fill="#3465a4"><title>Black Water</title></circle></a><circle cx="195.3" cy="180.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x2/

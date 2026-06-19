@@ -2,12 +2,18 @@
 title: "Beckett Beaumont"
 date: 2023-03-18
 ---
-**Bands:** [WBWKWGWGKGWRGBGW](/stripes/wbwkwgwgkgwrgbgw/) · **Stripes:** [W DT W K W Y W Y K DY W R Y DT Y W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DT W K W Y W Y K DY W R Y DT Y W</span></span>
+**Bands:** [WGBGRWGKGWGWKWBW](/stripes/wgbgrwgkgwgwkwbw/) · **Stripes:** [W Y DT Y R W DY K Y W Y W K W DT W](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W Y DT Y R W DY K Y W Y W K W DT W</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=239
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Beckett Beaumont Artifact
 
 ## Attestations
 
@@ -25,7 +31,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7039
 
 ## Thread count
-LN/14 G16 Ga22 G14 R22 LN42 T16 K16 G32 LN16 G16 LN16 K10 LN38 Ga14 LN/108
+LN/108 Ga14 LN38 K10 LN16 G16 LN16 G32 K16 T16 LN42 R22 G14 Ga22 G16 LN/14
 ![Sett](sett.png)
 
 ## Palette
@@ -44,21 +50,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Portree, Blue (Dance)](/setts/s12/w20lo4w12dp2w4lb3w4n18db10w2db4lb2~x2/) — ΔT 1.16
+1. [Portree, Blue (Dance)](/setts/s12/w20lo4w12dp2w4lb3w4n18db10w2db4lb2~x2/) — ΔT 1.17
 1. [Aelfleda Arisaid (Personal)](/setts/s13/ly4db5ly4db5lb8dg2lb24r2lb8db5ly4db5ly4~x2/) — ΔT 1.21
 1. [Stuart/Stewart Dress #2](/setts/s15/w16db3w8k3w3k6ly2k2w2k2dg7r4k2r2w2~x2/) — ΔT 1.23
-1. [McDougall, Miss Anne (Personal)](/setts/s19/t1r3r3w20db3w3dg12w18r3r1r3w18db12w3dg3w20r3r3t1~x2/) — ΔT 1.31
+1. [McDougall, Miss Anne (Personal)](/setts/s19/t1r3r3w20dg3w3db12w18r3r1r3w18dg12w3db3w20r3r3t1~x2/) — ΔT 1.31
 1. [Portree Blue (Dance)](/setts/s12/w20lo4w12dp2w4lb3w4n18n10w2n4lb2~x2/) — ΔT 1.31
 1. [MacLeod, Arisaid](/setts/s19/t1r3r3w20db3w3g12w18r3r1r3w18db12w3g3w20r3r3t1~x2/) — ΔT 1.31
-1. [Aelfleda Arisaid (Personal)](/setts/s13/ly4db5ly4db5w8g2w24r2w8db5ly4db5ly4~x2/) — ΔT 1.35
+1. [Aelfleda Arisaid (Personal)](/setts/s13/ly4db5ly4db5w8r2w24g2w8db5ly4db5ly4~x2/) — ΔT 1.35
 1. [Henderson Dress #1](/setts/s16/k6g4k1w16t1w4t6w1t6w4t1w16k1g4k6ly1~x2/) — ΔT 1.36
 1. [Stewart dress](/setts/s15/w16db3w8k3w3k6ly2k2w2k2g7r4k2r2w2~x2/) — ΔT 1.42
 1. [Braveheart Warrior (Dress)](/setts/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/) — ΔT 1.51
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w20lo4w12dp2w4lb3w4n18db10w2db4lb2~x2/"><circle cx="155.1" cy="116.0" r="4" fill="#3465a4"><title>Portree, Blue (Dance)</title></circle></a><a href="/setts/s13/ly4db5ly4db5lb8dg2lb24r2lb8db5ly4db5ly4~x2/"><circle cx="201.4" cy="120.7" r="4" fill="#3465a4"><title>Aelfleda Arisaid (Personal)</title></circle></a><a href="/setts/s15/w16db3w8k3w3k6ly2k2w2k2dg7r4k2r2w2~x2/"><circle cx="134.3" cy="113.6" r="4" fill="#3465a4"><title>Stuart/Stewart Dress #2</title></circle></a><a href="/setts/s19/t1r3r3w20db3w3dg12w18r3r1r3w18db12w3dg3w20r3r3t1~x2/"><circle cx="264.9" cy="66.3" r="4" fill="#3465a4"><title>McDougall, Miss Anne (Personal)</title></circle></a><a href="/setts/s12/w20lo4w12dp2w4lb3w4n18n10w2n4lb2~x2/"><circle cx="201.1" cy="135.1" r="4" fill="#3465a4"><title>Portree Blue (Dance)</title></circle></a><a href="/setts/s19/t1r3r3w20db3w3g12w18r3r1r3w18db12w3g3w20r3r3t1~x2/"><circle cx="267.6" cy="68.1" r="4" fill="#3465a4"><title>MacLeod, Arisaid</title></circle></a><a href="/setts/s13/ly4db5ly4db5w8g2w24r2w8db5ly4db5ly4~x2/"><circle cx="189.9" cy="114.0" r="4" fill="#3465a4"><title>Aelfleda Arisaid (Personal)</title></circle></a><a href="/setts/s16/k6g4k1w16t1w4t6w1t6w4t1w16k1g4k6ly1~x2/"><circle cx="200.1" cy="94.4" r="4" fill="#3465a4"><title>Henderson Dress #1</title></circle></a><a href="/setts/s15/w16db3w8k3w3k6ly2k2w2k2g7r4k2r2w2~x2/"><circle cx="128.5" cy="113.2" r="4" fill="#3465a4"><title>Stewart dress</title></circle></a><a href="/setts/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/"><circle cx="247.5" cy="90.3" r="4" fill="#3465a4"><title>Braveheart Warrior (Dress)</title></circle></a><circle cx="200.5" cy="101.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w20lo4w12dp2w4lb3w4n18db10w2db4lb2~x2/"><circle cx="154.7" cy="115.9" r="4" fill="#3465a4"><title>Portree, Blue (Dance)</title></circle></a><a href="/setts/s13/ly4db5ly4db5lb8dg2lb24r2lb8db5ly4db5ly4~x2/"><circle cx="201.0" cy="120.6" r="4" fill="#3465a4"><title>Aelfleda Arisaid (Personal)</title></circle></a><a href="/setts/s15/w16db3w8k3w3k6ly2k2w2k2dg7r4k2r2w2~x2/"><circle cx="134.1" cy="113.6" r="4" fill="#3465a4"><title>Stuart/Stewart Dress #2</title></circle></a><a href="/setts/s19/t1r3r3w20dg3w3db12w18r3r1r3w18dg12w3db3w20r3r3t1~x2/"><circle cx="264.4" cy="66.2" r="4" fill="#3465a4"><title>McDougall, Miss Anne (Personal)</title></circle></a><a href="/setts/s12/w20lo4w12dp2w4lb3w4n18n10w2n4lb2~x2/"><circle cx="200.7" cy="135.0" r="4" fill="#3465a4"><title>Portree Blue (Dance)</title></circle></a><a href="/setts/s19/t1r3r3w20db3w3g12w18r3r1r3w18db12w3g3w20r3r3t1~x2/"><circle cx="267.0" cy="68.0" r="4" fill="#3465a4"><title>MacLeod, Arisaid</title></circle></a><a href="/setts/s13/ly4db5ly4db5w8r2w24g2w8db5ly4db5ly4~x2/"><circle cx="189.4" cy="113.9" r="4" fill="#3465a4"><title>Aelfleda Arisaid (Personal)</title></circle></a><a href="/setts/s16/k6g4k1w16t1w4t6w1t6w4t1w16k1g4k6ly1~x2/"><circle cx="199.7" cy="94.3" r="4" fill="#3465a4"><title>Henderson Dress #1</title></circle></a><a href="/setts/s15/w16db3w8k3w3k6ly2k2w2k2g7r4k2r2w2~x2/"><circle cx="128.3" cy="113.1" r="4" fill="#3465a4"><title>Stewart dress</title></circle></a><a href="/setts/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/"><circle cx="247.0" cy="90.1" r="4" fill="#3465a4"><title>Braveheart Warrior (Dress)</title></circle></a><circle cx="200.1" cy="101.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/w54dt7w19k5w8y8w8y16k8dy8w21r11y7dt11y8w7~x2/

@@ -2,7 +2,7 @@
 title: "Wallace Blue"
 date: 2023-03-18
 ---
-**Bands:** [BBBGWGBB](/stripes/bbbgwgbb/) · **Stripes:** [T DB T G W G T DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">T DB T G W G T DB</span></span>
+**Bands:** [BBGWGBBB](/stripes/bbgwgbbb/) · **Stripes:** [DB T G W G T DB T](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="seq">DB T G W G T DB T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -18,7 +18,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 46
 
 ## Thread count
-B/4 DB58 B24 G58 W4 G58 B24 DB/58
+DB/58 B24 G58 W4 G58 B24 DB58 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -35,7 +35,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/4 DB58 B24 G58 W4 G58 B24 DB/58 tartan")
+![Tartan detail](tartan.png "DB/58 B24 G58 W4 G58 B24 DB58 B/4 tartan")
 
 ## Nearest tartans
 
@@ -44,7 +44,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Pinney's of Scotland](/setts/s10/k4g2db10ly1db2g13k11g13db13ly2~x2/) — ΔT 1.14
 1. [U.S. Border Patrol](/setts/s8/k10b10k15g40k15b10k10ly3~x2/) — ΔT 1.15
 1. [Douglas](/setts/s9/w2db16g16t4k4t4g16db16w1~x2/) — ΔT 1.20
-1. [Sinclair of Ulbster](/setts/s6/b12k4g6ly1g6k4~x8/) — ΔT 1.27
+1. [Sinclair of Ulbster](/setts/s6/b12k4g6ly1~x8/) — ΔT 1.27
 1. [Blaylock Annandale](/setts/s7/g24b6lb3k6b12k15g4~x2/) — ΔT 1.27
 1. [Pinney's of Scotland](/setts/s10/db4g2db10ly1db2g13db11g13db13ly2~x2/) — ΔT 1.31
 1. [MacKirdy](/setts/s5/k2g12k11b12w1~x2/) — ΔT 1.32
@@ -54,8 +54,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k4g2db10ly1db2g13k11g13db13ly2~x2/"><circle cx="190.8" cy="198.1" r="4" fill="#3465a4"><title>Pinney's of Scotland</title></circle></a><a href="/setts/s8/k10b10k15g40k15b10k10ly3~x2/"><circle cx="228.5" cy="203.9" r="4" fill="#3465a4"><title>U.S. Border Patrol</title></circle></a><a href="/setts/s9/w2db16g16t4k4t4g16db16w1~x2/"><circle cx="217.4" cy="185.6" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/setts/s6/b12k4g6ly1g6k4~x8/"><circle cx="191.9" cy="239.5" r="4" fill="#3465a4"><title>Sinclair of Ulbster</title></circle></a><a href="/setts/s7/g24b6lb3k6b12k15g4~x2/"><circle cx="189.4" cy="235.8" r="4" fill="#3465a4"><title>Blaylock Annandale</title></circle></a><a href="/setts/s10/db4g2db10ly1db2g13db11g13db13ly2~x2/"><circle cx="227.9" cy="216.5" r="4" fill="#3465a4"><title>Pinney's of Scotland</title></circle></a><a href="/setts/s5/k2g12k11b12w1~x2/"><circle cx="179.1" cy="232.8" r="4" fill="#3465a4"><title>MacKirdy</title></circle></a><a href="/setts/s10/g27k21db12k4db40k4db12k21g27w4~x2/"><circle cx="197.2" cy="224.6" r="4" fill="#3465a4"><title>Granger/Grainger (Personal)</title></circle></a><a href="/setts/s10/dg3lr3dg18db14r5db14r5db14dg21lr3~x2/"><circle cx="204.7" cy="235.2" r="4" fill="#3465a4"><title>Hamilton of Clayton (Personal)</title></circle></a><a href="/setts/s6/db30k10g10lb2g15lb2~x2/"><circle cx="264.1" cy="217.4" r="4" fill="#3465a4"><title>MacRobart (Personal)</title></circle></a><circle cx="216.6" cy="216.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k4g2db10ly1db2g13k11g13db13ly2~x2/"><circle cx="190.9" cy="198.0" r="4" fill="#3465a4"><title>Pinney's of Scotland</title></circle></a><a href="/setts/s8/k10b10k15g40k15b10k10ly3~x2/"><circle cx="228.6" cy="203.8" r="4" fill="#3465a4"><title>U.S. Border Patrol</title></circle></a><a href="/setts/s9/w2db16g16t4k4t4g16db16w1~x2/"><circle cx="217.5" cy="185.6" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/setts/s6/b12k4g6ly1~x8/"><circle cx="192.0" cy="239.5" r="4" fill="#3465a4"><title>Sinclair of Ulbster</title></circle></a><a href="/setts/s7/g24b6lb3k6b12k15g4~x2/"><circle cx="189.5" cy="235.8" r="4" fill="#3465a4"><title>Blaylock Annandale</title></circle></a><a href="/setts/s10/db4g2db10ly1db2g13db11g13db13ly2~x2/"><circle cx="228.0" cy="216.5" r="4" fill="#3465a4"><title>Pinney's of Scotland</title></circle></a><a href="/setts/s5/k2g12k11b12w1~x2/"><circle cx="179.3" cy="232.8" r="4" fill="#3465a4"><title>MacKirdy</title></circle></a><a href="/setts/s10/g27k21db12k4db40k4db12k21g27w4~x2/"><circle cx="197.4" cy="224.6" r="4" fill="#3465a4"><title>Granger/Grainger (Personal)</title></circle></a><a href="/setts/s10/dg3lr3dg18db14r5db14r5db14dg21lr3~x2/"><circle cx="204.9" cy="235.2" r="4" fill="#3465a4"><title>Hamilton of Clayton (Personal)</title></circle></a><a href="/setts/s6/db30k10g10lb2g15lb2~x2/"><circle cx="264.2" cy="217.4" r="4" fill="#3465a4"><title>MacRobart (Personal)</title></circle></a><circle cx="216.7" cy="216.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db29t12g29w2g29t12db29t2~x2/

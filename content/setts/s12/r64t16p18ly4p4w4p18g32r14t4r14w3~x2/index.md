@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/6 R28 B8 R28 G64 P36 LN8 P8 Y8 P36 B32 R/128
+R/128 B32 P36 Y8 P8 LN8 P36 G64 R28 B8 R28 LN/6
 ![Sett](sett.png)
 
 ## Palette
@@ -908,17 +911,17 @@ The nearest existing variants by ΔTartan distance.
 1. [MacQueen of Dalmagarry (Clan?)](/setts/s8/g3r4k1r26y14r4dp16w2~x2/) — ΔT 1.11
 1. [Cork County Crest (Fashion)](/setts/s11/r7k6r62k15r20n15lo10k16db10k3w6/) — ΔT 1.11
 1. [MacArthur-Fox Dress](/setts/s11/lb4k2db3r33dg9ly3r5db10r6dg2k2~x2/) — ΔT 1.18
-1. [West Virginia](/setts/s14/lo4g4db8g8t6r27w1k3r27g8r8db8g4lo4~x2/) — ΔT 1.18
+1. [West Virginia](/setts/s14/lo4g4db8r8g8r27k3w1r27t6g8db8g4lo4~x2/) — ΔT 1.18
 1. [MacArthur-Fox Dress (Personal)](/setts/s11/t4k2db3r33g9w3r5db10r6g2k2~x2/) — ΔT 1.20
 1. [MacLean of Duart #5](/setts/s11/t14k8ly2k3w4k3dg21r48t4r5k3~x2/) — ΔT 1.22
 1. [Unidentified Bedspread](/setts/s14/r20w6r100db15k10db15k40ly5dg54r15k5r15k6w8/) — ΔT 1.22
-1. [Scobie (Blackford)](/setts/s12/m1r2lt1r1lt1r20m14g26r6p1r1p1~x2/) — ΔT 1.22
+1. [Scobie (Blackford)](/setts/s12/p1r1p1r6g26m14r20lt1r1lt1r2m1~x2/) — ΔT 1.22
 1. [Ogg of Tarragann](/setts/s12/k2t6w1r14k1r14w1k6dg10lo1dg2lo2~x2/) — ΔT 1.23
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/t4g3t9dt14ly8dt2r35r2r3~x2/"><circle cx="236.9" cy="103.9" r="4" fill="#3465a4"><title>Hogeboom (Personal)</title></circle></a><a href="/setts/s8/g3r4k1r26y14r4dp16w2~x2/"><circle cx="272.3" cy="112.7" r="4" fill="#3465a4"><title>MacQueen of Dalmagarry (Clan?)</title></circle></a><a href="/setts/s11/r7k6r62k15r20n15lo10k16db10k3w6/"><circle cx="264.2" cy="98.5" r="4" fill="#3465a4"><title>Cork County Crest (Fashion)</title></circle></a><a href="/setts/s11/lb4k2db3r33dg9ly3r5db10r6dg2k2~x2/"><circle cx="289.1" cy="94.6" r="4" fill="#3465a4"><title>MacArthur-Fox Dress</title></circle></a><a href="/setts/s14/lo4g4db8g8t6r27w1k3r27g8r8db8g4lo4~x2/"><circle cx="251.4" cy="79.0" r="4" fill="#3465a4"><title>West Virginia</title></circle></a><a href="/setts/s11/t4k2db3r33g9w3r5db10r6g2k2~x2/"><circle cx="288.1" cy="96.9" r="4" fill="#3465a4"><title>MacArthur-Fox Dress (Personal)</title></circle></a><a href="/setts/s11/t14k8ly2k3w4k3dg21r48t4r5k3~x2/"><circle cx="233.9" cy="74.4" r="4" fill="#3465a4"><title>MacLean of Duart #5</title></circle></a><a href="/setts/s14/r20w6r100db15k10db15k40ly5dg54r15k5r15k6w8/"><circle cx="225.8" cy="77.2" r="4" fill="#3465a4"><title>Unidentified Bedspread</title></circle></a><a href="/setts/s12/m1r2lt1r1lt1r20m14g26r6p1r1p1~x2/"><circle cx="246.3" cy="70.2" r="4" fill="#3465a4"><title>Scobie (Blackford)</title></circle></a><a href="/setts/s12/k2t6w1r14k1r14w1k6dg10lo1dg2lo2~x2/"><circle cx="202.2" cy="112.9" r="4" fill="#3465a4"><title>Ogg of Tarragann</title></circle></a><circle cx="245.9" cy="96.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/t4g3t9dt14ly8dt2r35r2r3~x2/"><circle cx="236.6" cy="104.0" r="4" fill="#3465a4"><title>Hogeboom (Personal)</title></circle></a><a href="/setts/s8/g3r4k1r26y14r4dp16w2~x2/"><circle cx="272.1" cy="112.8" r="4" fill="#3465a4"><title>MacQueen of Dalmagarry (Clan?)</title></circle></a><a href="/setts/s11/r7k6r62k15r20n15lo10k16db10k3w6/"><circle cx="263.9" cy="98.5" r="4" fill="#3465a4"><title>Cork County Crest (Fashion)</title></circle></a><a href="/setts/s11/lb4k2db3r33dg9ly3r5db10r6dg2k2~x2/"><circle cx="288.7" cy="94.6" r="4" fill="#3465a4"><title>MacArthur-Fox Dress</title></circle></a><a href="/setts/s14/lo4g4db8r8g8r27k3w1r27t6g8db8g4lo4~x2/"><circle cx="251.1" cy="79.1" r="4" fill="#3465a4"><title>West Virginia</title></circle></a><a href="/setts/s11/t4k2db3r33g9w3r5db10r6g2k2~x2/"><circle cx="287.7" cy="96.9" r="4" fill="#3465a4"><title>MacArthur-Fox Dress (Personal)</title></circle></a><a href="/setts/s11/t14k8ly2k3w4k3dg21r48t4r5k3~x2/"><circle cx="233.6" cy="74.5" r="4" fill="#3465a4"><title>MacLean of Duart #5</title></circle></a><a href="/setts/s14/r20w6r100db15k10db15k40ly5dg54r15k5r15k6w8/"><circle cx="225.6" cy="77.3" r="4" fill="#3465a4"><title>Unidentified Bedspread</title></circle></a><a href="/setts/s12/p1r1p1r6g26m14r20lt1r1lt1r2m1~x2/"><circle cx="245.9" cy="70.3" r="4" fill="#3465a4"><title>Scobie (Blackford)</title></circle></a><a href="/setts/s12/k2t6w1r14k1r14w1k6dg10lo1dg2lo2~x2/"><circle cx="201.9" cy="113.0" r="4" fill="#3465a4"><title>Ogg of Tarragann</title></circle></a><circle cx="245.5" cy="96.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r64t16p18ly4p4w4p18g32r14t4r14w3~x2/

@@ -2,7 +2,7 @@
 title: "Ardee (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BRBBY](/stripes/brbby/) · **Stripes:** [DB R DB N LR](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">DB R DB N LR</span></span>
+**Bands:** [YBBRB](/stripes/ybbrb/) · **Stripes:** [LR N DB R DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LR N DB R DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
@@ -32,20 +32,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Meaux (Personal)](/setts/s4/dt62r24lo5dg3~x2/) — ΔT 1.34
-1. [Connaught Green](/setts/s6/lb1y4db2y5db12r1~x2/) — ΔT 1.39
+1. [Connaught Green](/setts/s6/r1db12y5db2y4lb1~x2/) — ΔT 1.39
 1. [Largan (?)](/setts/s6/db8k39db8k39db87r6/) — ΔT 1.39
 1. [MacKay (Blue) #2](/setts/s5/k15db4k15db28r2~x2/) — ΔT 1.43
 1. [Hutton](/setts/s6/k2dg7db2dg7db16r1~x6/) — ΔT 1.43
 1. [Cameron Hunting](/setts/s6/do15r5do30b32do4lo3~x2/) — ΔT 1.44
 1. [Keepers of the Quaich](/setts/s6/lo3dy33db24dy2db2dy2~x2/) — ΔT 1.47
 1. [McNiff, Kevin (Personal)](/setts/s4/dg20r7db40w2~x2/) — ΔT 1.49
-1. [Lyndon Prep (School)](/setts/s6/db4lb1db18k18ly1k4~x4/) — ΔT 1.51
+1. [Lyndon Prep (School)](/setts/s6/k4ly1k18db18lb1db4~x4/) — ΔT 1.51
 1. [Dege of Saville Row](/setts/s6/dy11db1dy3db1db9r1~x4/) — ΔT 1.52
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/dt62r24lo5dg3~x2/"><circle cx="471.7" cy="226.2" r="4" fill="#3465a4"><title>Meaux (Personal)</title></circle></a><a href="/setts/s6/lb1y4db2y5db12r1~x2/"><circle cx="353.8" cy="219.7" r="4" fill="#3465a4"><title>Connaught Green</title></circle></a><a href="/setts/s6/db8k39db8k39db87r6/"><circle cx="429.9" cy="254.9" r="4" fill="#3465a4"><title>Largan (?)</title></circle></a><a href="/setts/s5/k15db4k15db28r2~x2/"><circle cx="378.2" cy="270.2" r="4" fill="#3465a4"><title>MacKay (Blue) #2</title></circle></a><a href="/setts/s6/k2dg7db2dg7db16r1~x6/"><circle cx="360.5" cy="234.8" r="4" fill="#3465a4"><title>Hutton</title></circle></a><a href="/setts/s6/do15r5do30b32do4lo3~x2/"><circle cx="349.1" cy="234.4" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/setts/s6/lo3dy33db24dy2db2dy2~x2/"><circle cx="441.1" cy="220.8" r="4" fill="#3465a4"><title>Keepers of the Quaich</title></circle></a><a href="/setts/s4/dg20r7db40w2~x2/"><circle cx="370.7" cy="221.5" r="4" fill="#3465a4"><title>McNiff, Kevin (Personal)</title></circle></a><a href="/setts/s6/db4lb1db18k18ly1k4~x4/"><circle cx="368.1" cy="219.4" r="4" fill="#3465a4"><title>Lyndon Prep (School)</title></circle></a><a href="/setts/s6/dy11db1dy3db1db9r1~x4/"><circle cx="399.7" cy="245.0" r="4" fill="#3465a4"><title>Dege of Saville Row</title></circle></a><circle cx="400.1" cy="227.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/dt62r24lo5dg3~x2/"><circle cx="471.6" cy="226.0" r="4" fill="#3465a4"><title>Meaux (Personal)</title></circle></a><a href="/setts/s6/r1db12y5db2y4lb1~x2/"><circle cx="353.7" cy="219.6" r="4" fill="#3465a4"><title>Connaught Green</title></circle></a><a href="/setts/s6/db8k39db8k39db87r6/"><circle cx="429.9" cy="254.8" r="4" fill="#3465a4"><title>Largan (?)</title></circle></a><a href="/setts/s5/k15db4k15db28r2~x2/"><circle cx="378.4" cy="270.1" r="4" fill="#3465a4"><title>MacKay (Blue) #2</title></circle></a><a href="/setts/s6/k2dg7db2dg7db16r1~x6/"><circle cx="360.6" cy="234.7" r="4" fill="#3465a4"><title>Hutton</title></circle></a><a href="/setts/s6/do15r5do30b32do4lo3~x2/"><circle cx="349.0" cy="234.3" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/setts/s6/lo3dy33db24dy2db2dy2~x2/"><circle cx="440.9" cy="220.7" r="4" fill="#3465a4"><title>Keepers of the Quaich</title></circle></a><a href="/setts/s4/dg20r7db40w2~x2/"><circle cx="370.8" cy="221.3" r="4" fill="#3465a4"><title>McNiff, Kevin (Personal)</title></circle></a><a href="/setts/s6/k4ly1k18db18lb1db4~x4/"><circle cx="368.2" cy="219.3" r="4" fill="#3465a4"><title>Lyndon Prep (School)</title></circle></a><a href="/setts/s6/dy11db1dy3db1db9r1~x4/"><circle cx="399.7" cy="245.0" r="4" fill="#3465a4"><title>Dege of Saville Row</title></circle></a><circle cx="400.1" cy="227.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/db4r1db18n18lr1~x4/

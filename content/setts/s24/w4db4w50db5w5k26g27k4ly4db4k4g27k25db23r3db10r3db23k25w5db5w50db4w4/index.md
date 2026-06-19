@@ -2,12 +2,18 @@
 title: "Malcolm, dress"
 date: 2023-03-18
 ---
-**Bands:** [WBWBWKBRBRBKGKBYKGKWBWBW](/stripes/wbwbwkbrbrbkgkbykgkwbwbw/) · **Stripes:** [W DB W DB W K DB R DB R DB K G K DB LY K G K W DB W DB W](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB W DB W K DB R DB R DB K G K DB LY K G K W DB W DB W</span></span>
+**Bands:** [WBWBWKGKYBKGKBRBRBKWBWBW](/stripes/wbwbwkgkybkgkbrbrbkwbwbw/) · **Stripes:** [W DB W DB W K G K LY DB K G K DB R DB R DB K W DB W DB W](/stripes/stripes24/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB W DB W K G K LY DB K G K DB R DB R DB K W DB W DB W</span></span>
 
 
 This was sourced from weddslist.  It is a [24 band tartan](/bands/bands24/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Malcolm, dress
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 B4 LN50 B5 LN5 K25 B23 R3 B10 R3 B23 K25 G27 K4 DB4 Y4 K4 G27 K26 LN5 B5 LN50 B4 LN/4
+LN/4 B4 LN50 B5 LN5 K26 G27 K4 Y4 DB4 K4 G27 K25 B23 R3 B10 R3 B23 K25 LN5 B5 LN50 B4 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -915,18 +924,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Malcolm, Dress](/setts/s23/w4db4w50db5k25db23r3db10r3db23k25g27k4db4ly4k4g27k26w5db5w50db4w4/) — ΔT 0.41
 1. [Anderson 5](/setts/s20/r4g6r2g6r3db4r1k4ly1k1ly1k3w3k3t18r1k2r1t6r3~x2/) — ΔT 1.01
 1. [City Of Dorval](/setts/s16/g4w1k3w1o2w1k3w1o2w1k3w1g3b14r1ly2~x2/) — ΔT 1.08
-1. [Anderson (Coulson Bonner #2)](/setts/s22/r3b6k1r2k1b14k3w3k3ly2k2ly2k2r2db5r2dg6k1r2k1dg6r3~x2/) — ΔT 1.22
-1. [Norwich No.058](/setts/s26/r12w1k1g12ly1db5lt6r2lt2r4g2r2k2g2k2r2g2r4lt2r2lt6db5ly1g12k1w1~x2/) — ΔT 1.25
+1. [Anderson (Coulson Bonner #2)](/setts/s22/r3dg6k1r2k1dg6r2db5r2k2ly2k2ly2k3w3k3b14k1r2k1b6r3~x2/) — ΔT 1.22
+1. [Norwich No.058](/setts/s26/r12w1k1g12ly1db5lt6r2lt2r4g2r2k2g2~x2/) — ΔT 1.25
 1. [Anderson 1](/setts/s22/o6t12k2r3k2t40k6w6k6ly3k3ly3k12r3db12r3o14k2r3k2o14r5/) — ΔT 1.26
 1. [Anderson 8](/setts/s24/r6g10r2db2r4db2r2g10r4db8r2k8ly2k4ly2k4w6k6t27r2k2r2t10r6~x2/) — ΔT 1.27
-1. [Anderson 11](/setts/s22/r3b6k1r2k1b14k3w3k3ly2k2ly2k2r2db5r2g6k1r2k1g6r3~x2/) — ΔT 1.31
-1. [Anderson P](/setts/s21/r3dg6k1r2k1dg6db5r1k3ly1k1ly1k3lb3k3lb18k1r2k1lb6r3~x2/) — ΔT 1.33
-1. [Hawick Dress](/setts/s32/db2k4lo2k3w2k2g12r2w12w12db12k2w2k3lo2k4db4k4lo2k3w2k2g16r2w24r2g16k2w2k3lo2k2~x2/) — ΔT 1.34
+1. [Anderson 11](/setts/s22/r3g6k1r2k1g6r2db5r2k2ly2k2ly2k3w3k3b14k1r2k1b6r3~x2/) — ΔT 1.31
+1. [Anderson P](/setts/s21/r3dg6k1r2k1dg6db5r1k3ly1k1ly1k3lb3k3lb18k1r2k1lb6r3/) — ΔT 1.33
+1. [Hawick Dress](/setts/s32/k2lo2k3w2k2g16r2w24r2g16k2w2k3lo2k4db4k4lo2k3w2k2db12w12w12r2g12k2w2k3lo2k4db2~x2/) — ΔT 1.34
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s23/w4db4w50db5k25db23r3db10r3db23k25g27k4db4ly4k4g27k26w5db5w50db4w4/"><circle cx="74.2" cy="55.3" r="4" fill="#3465a4"><title>Malcolm, Dress</title></circle></a><a href="/setts/s20/r4g6r2g6r3db4r1k4ly1k1ly1k3w3k3t18r1k2r1t6r3~x2/"><circle cx="83.0" cy="59.8" r="4" fill="#3465a4"><title>Anderson 5</title></circle></a><a href="/setts/s16/g4w1k3w1o2w1k3w1o2w1k3w1g3b14r1ly2~x2/"><circle cx="62.9" cy="61.8" r="4" fill="#3465a4"><title>City Of Dorval</title></circle></a><a href="/setts/s22/r3b6k1r2k1b14k3w3k3ly2k2ly2k2r2db5r2dg6k1r2k1dg6r3~x2/"><circle cx="34.0" cy="74.5" r="4" fill="#3465a4"><title>Anderson (Coulson Bonner #2)</title></circle></a><a href="/setts/s26/r12w1k1g12ly1db5lt6r2lt2r4g2r2k2g2k2r2g2r4lt2r2lt6db5ly1g12k1w1~x2/"><circle cx="56.8" cy="64.3" r="4" fill="#3465a4"><title>Norwich No.058</title></circle></a><a href="/setts/s22/o6t12k2r3k2t40k6w6k6ly3k3ly3k12r3db12r3o14k2r3k2o14r5/"><circle cx="91.9" cy="46.9" r="4" fill="#3465a4"><title>Anderson 1</title></circle></a><a href="/setts/s24/r6g10r2db2r4db2r2g10r4db8r2k8ly2k4ly2k4w6k6t27r2k2r2t10r6~x2/"><circle cx="41.7" cy="65.1" r="4" fill="#3465a4"><title>Anderson 8</title></circle></a><a href="/setts/s22/r3b6k1r2k1b14k3w3k3ly2k2ly2k2r2db5r2g6k1r2k1g6r3~x2/"><circle cx="29.9" cy="70.3" r="4" fill="#3465a4"><title>Anderson 11</title></circle></a><a href="/setts/s21/r3dg6k1r2k1dg6db5r1k3ly1k1ly1k3lb3k3lb18k1r2k1lb6r3~x2/"><circle cx="115.5" cy="56.9" r="4" fill="#3465a4"><title>Anderson P</title></circle></a><a href="/setts/s32/db2k4lo2k3w2k2g12r2w12w12db12k2w2k3lo2k4db4k4lo2k3w2k2g16r2w24r2g16k2w2k3lo2k2~x2/"><circle cx="70.6" cy="57.3" r="4" fill="#3465a4"><title>Hawick Dress</title></circle></a><circle cx="71.4" cy="50.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s23/w4db4w50db5k25db23r3db10r3db23k25g27k4db4ly4k4g27k26w5db5w50db4w4/"><circle cx="74.2" cy="55.5" r="4" fill="#3465a4"><title>Malcolm, Dress</title></circle></a><a href="/setts/s20/r4g6r2g6r3db4r1k4ly1k1ly1k3w3k3t18r1k2r1t6r3~x2/"><circle cx="83.0" cy="60.0" r="4" fill="#3465a4"><title>Anderson 5</title></circle></a><a href="/setts/s16/g4w1k3w1o2w1k3w1o2w1k3w1g3b14r1ly2~x2/"><circle cx="62.8" cy="61.9" r="4" fill="#3465a4"><title>City Of Dorval</title></circle></a><a href="/setts/s22/r3dg6k1r2k1dg6r2db5r2k2ly2k2ly2k3w3k3b14k1r2k1b6r3~x2/"><circle cx="34.0" cy="74.7" r="4" fill="#3465a4"><title>Anderson (Coulson Bonner #2)</title></circle></a><a href="/setts/s26/r12w1k1g12ly1db5lt6r2lt2r4g2r2k2g2~x2/"><circle cx="56.7" cy="64.5" r="4" fill="#3465a4"><title>Norwich No.058</title></circle></a><a href="/setts/s22/o6t12k2r3k2t40k6w6k6ly3k3ly3k12r3db12r3o14k2r3k2o14r5/"><circle cx="91.8" cy="47.1" r="4" fill="#3465a4"><title>Anderson 1</title></circle></a><a href="/setts/s24/r6g10r2db2r4db2r2g10r4db8r2k8ly2k4ly2k4w6k6t27r2k2r2t10r6~x2/"><circle cx="41.7" cy="65.3" r="4" fill="#3465a4"><title>Anderson 8</title></circle></a><a href="/setts/s22/r3g6k1r2k1g6r2db5r2k2ly2k2ly2k3w3k3b14k1r2k1b6r3~x2/"><circle cx="29.9" cy="70.5" r="4" fill="#3465a4"><title>Anderson 11</title></circle></a><a href="/setts/s21/r3dg6k1r2k1dg6db5r1k3ly1k1ly1k3lb3k3lb18k1r2k1lb6r3/"><circle cx="115.4" cy="56.9" r="4" fill="#3465a4"><title>Anderson P</title></circle></a><a href="/setts/s32/k2lo2k3w2k2g16r2w24r2g16k2w2k3lo2k4db4k4lo2k3w2k2db12w12w12r2g12k2w2k3lo2k4db2~x2/"><circle cx="70.4" cy="57.4" r="4" fill="#3465a4"><title>Hawick Dress</title></circle></a><circle cx="71.3" cy="50.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s24/w4db4w50db5w5k26g27k4ly4db4k4g27k25db23r3db10r3db23k25w5db5w50db4w4/

@@ -8,7 +8,7 @@ GBKGKBK
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/g1db12k12g1k12db12k1~x4/tartan.png)
+![Woven sample](/setts/s7/k1db12k12g1k12db12g1~x4/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ GBKGKBK
 
 
 
-### G DB K G K DB K <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">G DB K G K DB K</span></span>
+### K DB K G K DB G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K DB K G K DB G</span></span>
 
 | Tartans |
 |---------------|
-| [Marchmont (Personal)](/setts/s7/g1db12k12g1k12db12k1~x4/)|
-|![Marchmont (Personal) example sett](/setts/s7/g1db12k12g1k12db12k1~x4/sett.png)|
+| [Marchmont (Personal)](/setts/s7/k1db12k12g1k12db12g1~x4/)|
+|![Marchmont (Personal) example sett](/setts/s7/k1db12k12g1k12db12g1~x4/sett.png)|
 

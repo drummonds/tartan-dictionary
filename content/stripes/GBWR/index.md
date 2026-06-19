@@ -21,14 +21,14 @@ GBWR
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DG DR W R <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG DR W R</span></span>
+### R W DR DG <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#053819"></span><span class="seq">R W DR DG</span></span>
 
 | Tartans |
 |---------------|
 | [MacKinnon Dress Hunting (Fashion)](/setts/s4/dg7dr7w7r1~x6/)|
 |![MacKinnon Dress Hunting (Fashion) example sett](/setts/s4/dg7dr7w7r1~x6/sett.png)|
 
-### G DR W R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">G DR W R</span></span>
+### R W DR G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W DR G</span></span>
 
 | Tartans |
 |---------------|

@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,17 +920,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Lochnagar Trade Tartan Tartan Number: 1771. Earliest known date: pre 2003 Colours represents the Scottish hills, the water, and the heather. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/w1dp1lb7o4lb1w1~x4/) — ΔT 1.40
 1. [Trinity Bicycles (Corporate)](/setts/s5/r4lb30y14lb11y4~x2/) — ΔT 1.54
 1. [de Meuron Dress (Family)](/setts/s7/lb40dp5lb6ly26o13lb9dy3~x2/) — ΔT 1.64
-1. [Bannockbane Grey #2](/setts/s8/lo2dy2lo15w10dy2o15dy2o2~x2/) — ΔT 1.74
-1. [Llama (Fashion)](/setts/s10/w2ly25lr6y3w3y3w2lr2w19y2~x2/) — ΔT 1.78
+1. [Bannockbane Grey #2](/setts/s8/o2dy2o15dy2w10lo15dy2lo2~x2/) — ΔT 1.74
+1. [Llama (Fashion)](/setts/s10/y2w19lr2w2y3w3y3lr6ly25w2~x2/) — ΔT 1.78
 1. [Lochnagar Plaid (District)](/setts/s6/w1dp1o7n4o1w1~x4/) — ΔT 1.84
 1. [Clyde Trade Tartan Tartan Number: 1296. Earliest known date: pre 1992 See Strathclyde District See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/lb4n2lb18r2n5o16r2o2r2o2~x2/) — ΔT 1.85
-1. [Clyde](/setts/s10/lb4n2lb18r2n5y16r2y2r2y2~x2/) — ΔT 1.86
+1. [Clyde](/setts/s10/lb4n2lb18r2n5y16r2y2r2y2~x2/) — ΔT 1.87
 1. [Bannockbane, Grey](/setts/s8/o2o2o15w10o2y15o2y2~x2/) — ΔT 2.01
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/n2w2ly7o14n2w2~x2/"><circle cx="251.9" cy="211.7" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/setts/s6/w1dp1lb7o4lb1w1~x4/"><circle cx="318.9" cy="229.8" r="4" fill="#3465a4"><title>Lochnagar Trade Tartan Tartan Number: 1771. Earliest known date: pre 2003 Colours represents the Scottish hills, the water, and the heather. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/r4lb30y14lb11y4~x2/"><circle cx="234.9" cy="220.9" r="4" fill="#3465a4"><title>Trinity Bicycles (Corporate)</title></circle></a><a href="/setts/s7/lb40dp5lb6ly26o13lb9dy3~x2/"><circle cx="287.0" cy="166.4" r="4" fill="#3465a4"><title>de Meuron Dress (Family)</title></circle></a><a href="/setts/s8/lo2dy2lo15w10dy2o15dy2o2~x2/"><circle cx="214.7" cy="214.1" r="4" fill="#3465a4"><title>Bannockbane Grey #2</title></circle></a><a href="/setts/s10/w2ly25lr6y3w3y3w2lr2w19y2~x2/"><circle cx="266.4" cy="155.7" r="4" fill="#3465a4"><title>Llama (Fashion)</title></circle></a><a href="/setts/s6/w1dp1o7n4o1w1~x4/"><circle cx="311.4" cy="230.7" r="4" fill="#3465a4"><title>Lochnagar Plaid (District)</title></circle></a><a href="/setts/s10/lb4n2lb18r2n5o16r2o2r2o2~x2/"><circle cx="263.9" cy="186.8" r="4" fill="#3465a4"><title>Clyde Trade Tartan Tartan Number: 1296. Earliest known date: pre 1992 See Strathclyde District See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/lb4n2lb18r2n5y16r2y2r2y2~x2/"><circle cx="250.5" cy="180.2" r="4" fill="#3465a4"><title>Clyde</title></circle></a><a href="/setts/s8/o2o2o15w10o2y15o2y2~x2/"><circle cx="221.0" cy="217.1" r="4" fill="#3465a4"><title>Bannockbane, Grey</title></circle></a><circle cx="263.3" cy="213.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/n2w2ly7o14n2w2~x2/"><circle cx="251.6" cy="211.6" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/setts/s6/w1dp1lb7o4lb1w1~x4/"><circle cx="318.5" cy="229.7" r="4" fill="#3465a4"><title>Lochnagar Trade Tartan Tartan Number: 1771. Earliest known date: pre 2003 Colours represents the Scottish hills, the water, and the heather. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/r4lb30y14lb11y4~x2/"><circle cx="234.6" cy="220.7" r="4" fill="#3465a4"><title>Trinity Bicycles (Corporate)</title></circle></a><a href="/setts/s7/lb40dp5lb6ly26o13lb9dy3~x2/"><circle cx="286.5" cy="166.4" r="4" fill="#3465a4"><title>de Meuron Dress (Family)</title></circle></a><a href="/setts/s8/o2dy2o15dy2w10lo15dy2lo2~x2/"><circle cx="214.4" cy="214.2" r="4" fill="#3465a4"><title>Bannockbane Grey #2</title></circle></a><a href="/setts/s10/y2w19lr2w2y3w3y3lr6ly25w2~x2/"><circle cx="265.8" cy="155.7" r="4" fill="#3465a4"><title>Llama (Fashion)</title></circle></a><a href="/setts/s6/w1dp1o7n4o1w1~x4/"><circle cx="311.1" cy="230.7" r="4" fill="#3465a4"><title>Lochnagar Plaid (District)</title></circle></a><a href="/setts/s10/lb4n2lb18r2n5o16r2o2r2o2~x2/"><circle cx="263.5" cy="186.9" r="4" fill="#3465a4"><title>Clyde Trade Tartan Tartan Number: 1296. Earliest known date: pre 1992 See Strathclyde District See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/lb4n2lb18r2n5y16r2y2r2y2~x2/"><circle cx="250.1" cy="180.2" r="4" fill="#3465a4"><title>Clyde</title></circle></a><a href="/setts/s8/o2o2o15w10o2y15o2y2~x2/"><circle cx="220.7" cy="217.2" r="4" fill="#3465a4"><title>Bannockbane, Grey</title></circle></a><circle cx="262.9" cy="213.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/n2w2ly7lb14n2w2~x2/

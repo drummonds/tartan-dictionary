@@ -18,10 +18,10 @@ GGGGGKGGKGKGK
 
 
 
-### G G G G G K G G K G K G K <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">G G G G G K G G K G K G K</span></span>
+### K G K G K G G K G G G G G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G K G K G G K G G G G G</span></span>
 
 | Tartans |
 |---------------|
-| [Wells, Greg #2 (Personal)](/setts/s13/g12g3g12g2g12k1g12g2k12g1k2g1k12~x2/)|
-|![Wells, Greg #2 (Personal) example sett](/setts/s13/g12g3g12g2g12k1g12g2k12g1k2g1k12~x2/sett.png)|
+| [Wells, Greg #2 (Personal)](/setts/s13/k12g1k2g1k12g2g12k1g12g2g12g3g12~x2/)|
+|![Wells, Greg #2 (Personal) example sett](/setts/s13/k12g1k2g1k12g2g12k1g12g2g12g3g12~x2/sett.png)|
 

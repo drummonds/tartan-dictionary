@@ -22,6 +22,6 @@ RBKKGKGKW
 
 | Tartans |
 |---------------|
-| [Thistle of Scotland](/setts/s9/lb3k28g2k2g2k3k16db24m3~x2/)|
-|![Thistle of Scotland example sett](/setts/s9/lb3k28g2k2g2k3k16db24m3~x2/sett.png)|
+| [Thistle of Scotland](/setts/s9/m3db24k16k3g2k2g2k28lb3~x2/)|
+|![Thistle of Scotland example sett](/setts/s9/m3db24k16k3g2k2g2k28lb3~x2/sett.png)|
 

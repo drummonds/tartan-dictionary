@@ -2,12 +2,18 @@
 title: "Stewart Dress (Clan)"
 date: 2023-03-18
 ---
-**Bands:** [WBKYKWKGRKRW](/stripes/wbkykwkgrkrw/) · **Stripes:** [W DB K LY K W K G R K R W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB K LY K W K G R K R W</span></span>
+**Bands:** [WRKRGKWKYKBW](/stripes/wrkrgkwkykbw/) · **Stripes:** [W R K R G K W K LY K DB W](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W R K R G K W K LY K DB W</span></span>
 
 
 This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1765/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Stewart dress
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -922,7 +931,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Stuart/Stewart Dress](/setts/s12/w39db3k6ly3k3w3k3dg8r5k3r3w3~x2/) — ΔT 0.58
 1. [Stuart/Stewart Dress Royal](/setts/s12/w31db4k6ly2k2w2k2dg7r4k2r2w2~x2/) — ΔT 0.77
 1. [Stewart dress](/setts/s12/w31db4k6ly2k2w2k2g7r4k2r2w2~x2/) — ΔT 0.80
-1. [Stewart Dress MINI Tartan Tartan Number: 11790. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/w15db2k3ly1k1w1k1g3r4k1r1w1~x2/) — ΔT 0.92
+1. [Stewart Dress MINI Tartan Tartan Number: 11790. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/w15db2k3ly1k1w1k1g3r4k1r1w1~x2/) — ΔT 0.93
 1. [Rosemount Course, Blairgowrie Golf Club](/setts/s11/w3lo30dg3db3r3lo3db8g3lo3db3w3~x2/) — ΔT 1.11
 1. [Glenmore Green](/setts/s11/w38k10do2k3w2k3y8o3k2o3w2~x2/) — ΔT 1.12
 1. [Braveheart - Warrior (dress) Universal Tartan Tartan Number: 2236. Earliest known date: pre 2002 Designed by Michael King of Aberdeen to prevent anyone else 'cashing in' on the popularity of the Braveheart film. Never been woven as far as is known. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/w42db6w10k3w3k3w3g15r9w3r4k4~x2/) — ΔT 1.24
@@ -932,8 +941,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w39db3k6ly3k3w3k3dg8r5k3r3w3~x2/"><circle cx="228.7" cy="69.4" r="4" fill="#3465a4"><title>Stuart/Stewart Dress</title></circle></a><a href="/setts/s12/w31db4k6ly2k2w2k2dg7r4k2r2w2~x2/"><circle cx="222.1" cy="64.1" r="4" fill="#3465a4"><title>Stuart/Stewart Dress Royal</title></circle></a><a href="/setts/s12/w31db4k6ly2k2w2k2g7r4k2r2w2~x2/"><circle cx="216.1" cy="63.2" r="4" fill="#3465a4"><title>Stewart dress</title></circle></a><a href="/setts/s12/w15db2k3ly1k1w1k1g3r4k1r1w1~x2/"><circle cx="200.6" cy="68.1" r="4" fill="#3465a4"><title>Stewart Dress MINI Tartan Tartan Number: 11790. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w3lo30dg3db3r3lo3db8g3lo3db3w3~x2/"><circle cx="230.6" cy="95.5" r="4" fill="#3465a4"><title>Rosemount Course, Blairgowrie Golf Club</title></circle></a><a href="/setts/s11/w38k10do2k3w2k3y8o3k2o3w2~x2/"><circle cx="267.5" cy="73.8" r="4" fill="#3465a4"><title>Glenmore Green</title></circle></a><a href="/setts/s12/w42db6w10k3w3k3w3g15r9w3r4k4~x2/"><circle cx="252.9" cy="89.0" r="4" fill="#3465a4"><title>Braveheart - Warrior (dress) Universal Tartan Tartan Number: 2236. Earliest known date: pre 2002 Designed by Michael King of Aberdeen to prevent anyone else 'cashing in' on the popularity of the Braveheart film. Never been woven as far as is known. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r2w24t3w3k6ly1k1w1k1g8r4k1r2w1~x2/"><circle cx="212.7" cy="41.1" r="4" fill="#3465a4"><title>Stewart Victoria</title></circle></a><a href="/setts/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/"><circle cx="247.5" cy="90.3" r="4" fill="#3465a4"><title>Braveheart Warrior (Dress)</title></circle></a><a href="/setts/s14/r2w24t3w3k6ly1k1w1k1dg8r4k1r2w1~x2/"><circle cx="219.2" cy="42.4" r="4" fill="#3465a4"><title>Stuart/Stewart Victoria</title></circle></a><circle cx="224.8" cy="66.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w39db3k6ly3k3w3k3dg8r5k3r3w3~x2/"><circle cx="228.2" cy="69.3" r="4" fill="#3465a4"><title>Stuart/Stewart Dress</title></circle></a><a href="/setts/s12/w31db4k6ly2k2w2k2dg7r4k2r2w2~x2/"><circle cx="221.7" cy="64.0" r="4" fill="#3465a4"><title>Stuart/Stewart Dress Royal</title></circle></a><a href="/setts/s12/w31db4k6ly2k2w2k2g7r4k2r2w2~x2/"><circle cx="215.7" cy="63.1" r="4" fill="#3465a4"><title>Stewart dress</title></circle></a><a href="/setts/s12/w15db2k3ly1k1w1k1g3r4k1r1w1~x2/"><circle cx="200.2" cy="68.0" r="4" fill="#3465a4"><title>Stewart Dress MINI Tartan Tartan Number: 11790. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/w3lo30dg3db3r3lo3db8g3lo3db3w3~x2/"><circle cx="230.2" cy="95.5" r="4" fill="#3465a4"><title>Rosemount Course, Blairgowrie Golf Club</title></circle></a><a href="/setts/s11/w38k10do2k3w2k3y8o3k2o3w2~x2/"><circle cx="267.0" cy="73.7" r="4" fill="#3465a4"><title>Glenmore Green</title></circle></a><a href="/setts/s12/w42db6w10k3w3k3w3g15r9w3r4k4~x2/"><circle cx="252.4" cy="88.8" r="4" fill="#3465a4"><title>Braveheart - Warrior (dress) Universal Tartan Tartan Number: 2236. Earliest known date: pre 2002 Designed by Michael King of Aberdeen to prevent anyone else 'cashing in' on the popularity of the Braveheart film. Never been woven as far as is known. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r2w24t3w3k6ly1k1w1k1g8r4k1r2w1~x2/"><circle cx="212.3" cy="41.1" r="4" fill="#3465a4"><title>Stewart Victoria</title></circle></a><a href="/setts/s12/w41db6w10k3w3k3w3g15r9w3r4k4~x2/"><circle cx="247.0" cy="90.1" r="4" fill="#3465a4"><title>Braveheart Warrior (Dress)</title></circle></a><a href="/setts/s14/r2w24t3w3k6ly1k1w1k1dg8r4k1r2w1~x2/"><circle cx="218.8" cy="42.3" r="4" fill="#3465a4"><title>Stuart/Stewart Victoria</title></circle></a><circle cx="224.3" cy="66.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/w39db3k6ly3k3w3k3g8r5k3r3w3~x2/

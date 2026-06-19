@@ -2,7 +2,7 @@
 title: "MacPherson, The Crubin Plaid"
 date: 2023-03-18
 ---
-**Bands:** [BRYRKBYRKRYGWKR](/stripes/bryrkbyrkrygwkr/) · **Stripes:** [T R LY R K T LY R K R LY G W K R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">T R LY R K T LY R K R LY G W K R</span></span>
+**Bands:** [RKWGYRKRYBKRYRB](/stripes/rkwgyrkrybkryrb/) · **Stripes:** [R K W G LY R K R LY T K R LY R T](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">R K W G LY R K R LY T K R LY R T</span></span>
 
 
 This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/6 R8 Y18 R18 K18 B72 Y18 R8 K2 R8 Y18 G72 LN2 K4 R/320
+R/320 K4 LN2 G72 Y18 R8 K2 R8 Y18 B72 K18 R18 Y18 R8 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -912,20 +915,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Crubin Plaid (MacPherson)](/setts/s15/r320k4w2g72ly18r8k2r8ly18t72k18r3ly18r8t14/) — ΔT 0.34
-1. [MacPherson (Crubin Plaid)](/setts/s15/r160k2w1dg36ly9r4k1r4ly9y36k9r9ly9r4y3/) — ΔT 0.47
+1. [MacPherson (Crubin Plaid)](/setts/s15/r160k2w1dg36ly9r4k1r4ly9y36k9r9ly9r4y3~x2/) — ΔT 0.47
 1. [MacKintosh 8](/setts/s16/r94k3w2g21w3ly3r5k2r5ly3w3y21k7r7ly8w4~x2/) — ΔT 0.62
 1. [Stuart/Stewart of Rothesay](/setts/s13/dg7r122db17r12k12ly3k4w3dg48r16k4r6w5/) — ΔT 0.83
 1. [Stewart of Rothesay](/setts/s13/g7r122db17r12k12ly3k4w3g48r16k4r6w5/) — ΔT 0.92
 1. [Fennell Grandmothers (Personal)](/setts/s20/r55dp1ly1r3dp7r3ly1dp1r3g16r3dp1ly1k3w1g5r3k2dp2w1~x2/) — ΔT 0.95
 1. [MacFarhadian (Personal)](/setts/s18/r55dp1ly1r3dp7r3ly1dp1r3g16r3dp1ly1k3w1g5r3k2~x2/) — ΔT 0.97
 1. [Chattan (Clan)](/setts/s16/r122k4w2g32w4ly7r7k2r7ly7w4t32k8r8ly12w4/) — ΔT 0.98
-1. [Clan Chattan](/setts/s16/r60dg2lb1dg15lb2ly3r3k1r3ly3y2lb16k4r4ly6lb2~x2/) — ΔT 1.01
+1. [Clan Chattan](/setts/s16/r60dg2lb1dg15lb2ly3r3k1r3ly3y2lb16k4r4ly6lb2/) — ΔT 1.01
 1. [MacKintosh/MacPherson](/setts/s13/r36dg8ly1k6t4k1t1k1t4r11w1k1r1~x2/) — ΔT 1.02
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r320k4w2g72ly18r8k2r8ly18t72k18r3ly18r8t14/"><circle cx="385.0" cy="14.0" r="4" fill="#3465a4"><title>Crubin Plaid (MacPherson)</title></circle></a><a href="/setts/s15/r160k2w1dg36ly9r4k1r4ly9y36k9r9ly9r4y3/"><circle cx="404.3" cy="14.0" r="4" fill="#3465a4"><title>MacPherson (Crubin Plaid)</title></circle></a><a href="/setts/s16/r94k3w2g21w3ly3r5k2r5ly3w3y21k7r7ly8w4~x2/"><circle cx="347.7" cy="14.0" r="4" fill="#3465a4"><title>MacKintosh 8</title></circle></a><a href="/setts/s13/dg7r122db17r12k12ly3k4w3dg48r16k4r6w5/"><circle cx="372.3" cy="36.4" r="4" fill="#3465a4"><title>Stuart/Stewart of Rothesay</title></circle></a><a href="/setts/s13/g7r122db17r12k12ly3k4w3g48r16k4r6w5/"><circle cx="362.2" cy="36.0" r="4" fill="#3465a4"><title>Stewart of Rothesay</title></circle></a><a href="/setts/s20/r55dp1ly1r3dp7r3ly1dp1r3g16r3dp1ly1k3w1g5r3k2dp2w1~x2/"><circle cx="415.5" cy="14.0" r="4" fill="#3465a4"><title>Fennell Grandmothers (Personal)</title></circle></a><a href="/setts/s18/r55dp1ly1r3dp7r3ly1dp1r3g16r3dp1ly1k3w1g5r3k2~x2/"><circle cx="432.3" cy="14.0" r="4" fill="#3465a4"><title>MacFarhadian (Personal)</title></circle></a><a href="/setts/s16/r122k4w2g32w4ly7r7k2r7ly7w4t32k8r8ly12w4/"><circle cx="325.4" cy="14.0" r="4" fill="#3465a4"><title>Chattan (Clan)</title></circle></a><a href="/setts/s16/r60dg2lb1dg15lb2ly3r3k1r3ly3y2lb16k4r4ly6lb2~x2/"><circle cx="324.6" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/setts/s13/r36dg8ly1k6t4k1t1k1t4r11w1k1r1~x2/"><circle cx="385.2" cy="39.9" r="4" fill="#3465a4"><title>MacKintosh/MacPherson</title></circle></a><circle cx="391.0" cy="14.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r320k4w2g72ly18r8k2r8ly18t72k18r3ly18r8t14/"><circle cx="384.4" cy="14.0" r="4" fill="#3465a4"><title>Crubin Plaid (MacPherson)</title></circle></a><a href="/setts/s15/r160k2w1dg36ly9r4k1r4ly9y36k9r9ly9r4y3~x2/"><circle cx="403.7" cy="14.0" r="4" fill="#3465a4"><title>MacPherson (Crubin Plaid)</title></circle></a><a href="/setts/s16/r94k3w2g21w3ly3r5k2r5ly3w3y21k7r7ly8w4~x2/"><circle cx="347.1" cy="14.0" r="4" fill="#3465a4"><title>MacKintosh 8</title></circle></a><a href="/setts/s13/dg7r122db17r12k12ly3k4w3dg48r16k4r6w5/"><circle cx="371.8" cy="36.4" r="4" fill="#3465a4"><title>Stuart/Stewart of Rothesay</title></circle></a><a href="/setts/s13/g7r122db17r12k12ly3k4w3g48r16k4r6w5/"><circle cx="361.7" cy="36.0" r="4" fill="#3465a4"><title>Stewart of Rothesay</title></circle></a><a href="/setts/s20/r55dp1ly1r3dp7r3ly1dp1r3g16r3dp1ly1k3w1g5r3k2dp2w1~x2/"><circle cx="414.9" cy="14.0" r="4" fill="#3465a4"><title>Fennell Grandmothers (Personal)</title></circle></a><a href="/setts/s18/r55dp1ly1r3dp7r3ly1dp1r3g16r3dp1ly1k3w1g5r3k2~x2/"><circle cx="431.6" cy="14.0" r="4" fill="#3465a4"><title>MacFarhadian (Personal)</title></circle></a><a href="/setts/s16/r122k4w2g32w4ly7r7k2r7ly7w4t32k8r8ly12w4/"><circle cx="324.9" cy="14.0" r="4" fill="#3465a4"><title>Chattan (Clan)</title></circle></a><a href="/setts/s16/r60dg2lb1dg15lb2ly3r3k1r3ly3y2lb16k4r4ly6lb2/"><circle cx="324.0" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/setts/s13/r36dg8ly1k6t4k1t1k1t4r11w1k1r1~x2/"><circle cx="384.7" cy="39.9" r="4" fill="#3465a4"><title>MacKintosh/MacPherson</title></circle></a><circle cx="390.4" cy="14.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/r160k2w1g36ly9r4k1r4ly9t36k9r9ly9r4t3~x2/

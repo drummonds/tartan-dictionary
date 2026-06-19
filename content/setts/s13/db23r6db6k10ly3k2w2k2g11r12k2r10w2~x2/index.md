@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db23r6db6k10ly3k2w2k2dg11r12k2r10w2~x2/"><circle cx="109.8" cy="125.4" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><a href="/setts/s15/r6db2r6g10ly1k10db6k1db2k1db6r6w2k2r2~x2/"><circle cx="75.6" cy="132.6" r="4" fill="#3465a4"><title>MacPherson 10</title></circle></a><a href="/setts/s14/ly2r15ly3r2ly3k14ly2db6w2db6ly2r7db10w1~x2/"><circle cx="85.7" cy="101.6" r="4" fill="#3465a4"><title>Dalrymple, of Castleton</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3dg24r14k4r4w2~x2/"><circle cx="116.8" cy="124.5" r="4" fill="#3465a4"><title>Stuart/Stewart #2</title></circle></a><a href="/setts/s11/w4db5r3db22ly4k3dg17r7k2r7ly2~x2/"><circle cx="106.6" cy="128.9" r="4" fill="#3465a4"><title>Crozier/Crosser</title></circle></a><a href="/setts/s15/r6db2r6dg10ly1k10db6k1db2k1db6r6w2k2r2~x2/"><circle cx="92.9" cy="138.0" r="4" fill="#3465a4"><title>MacPherson #7</title></circle></a><a href="/setts/s15/o4o3w24o4o4k12m16k2w4k2m16k12dr16k2o4/"><circle cx="45.5" cy="108.1" r="4" fill="#3465a4"><title>Dunkeld</title></circle></a><a href="/setts/s14/ly2r15ly3m2ly3k14ly2db6w2db6ly2r7db10w1~x2/"><circle cx="94.1" cy="104.2" r="4" fill="#3465a4"><title>Dalrymple of Castleton Portrait Tartan Tartan Number: 1780. Earliest known date: 1720 Reconstructed and woven by Don Rankin from illustration. Sample in STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3g24r14k4r4w2~x2/"><circle cx="100.5" cy="119.9" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/setts/s15/r6db1r6g8ly1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="91.2" cy="136.9" r="4" fill="#3465a4"><title>MacPherson 9</title></circle></a><circle cx="96.5" cy="121.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db23r6db6k10ly3k2w2k2dg11r12k2r10w2~x2/"><circle cx="109.7" cy="125.6" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><a href="/setts/s15/r6db2r6g10ly1k10db6k1db2k1db6r6w2k2r2~x2/"><circle cx="75.6" cy="132.7" r="4" fill="#3465a4"><title>MacPherson 10</title></circle></a><a href="/setts/s14/ly2r15ly3r2ly3k14ly2db6w2db6ly2r7db10w1~x2/"><circle cx="85.6" cy="101.7" r="4" fill="#3465a4"><title>Dalrymple, of Castleton</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3dg24r14k4r4w2~x2/"><circle cx="116.8" cy="124.6" r="4" fill="#3465a4"><title>Stuart/Stewart #2</title></circle></a><a href="/setts/s11/w4db5r3db22ly4k3dg17r7k2r7ly2~x2/"><circle cx="106.7" cy="129.0" r="4" fill="#3465a4"><title>Crozier/Crosser</title></circle></a><a href="/setts/s15/r6db2r6dg10ly1k10db6k1db2k1db6r6w2k2r2~x2/"><circle cx="92.9" cy="138.2" r="4" fill="#3465a4"><title>MacPherson #7</title></circle></a><a href="/setts/s15/o4o3w24o4o4k12m16k2w4k2m16k12dr16k2o4/"><circle cx="45.5" cy="108.2" r="4" fill="#3465a4"><title>Dunkeld</title></circle></a><a href="/setts/s14/ly2r15ly3m2ly3k14ly2db6w2db6ly2r7db10w1~x2/"><circle cx="94.0" cy="104.3" r="4" fill="#3465a4"><title>Dalrymple of Castleton Portrait Tartan Tartan Number: 1780. Earliest known date: 1720 Reconstructed and woven by Don Rankin from illustration. Sample in STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3g24r14k4r4w2~x2/"><circle cx="100.5" cy="120.0" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/setts/s15/r6db1r6g8ly1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="91.2" cy="137.0" r="4" fill="#3465a4"><title>MacPherson 9</title></circle></a><circle cx="96.5" cy="121.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db23r6db6k10ly3k2w2k2g11r12k2r10w2~x2/

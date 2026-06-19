@@ -2,12 +2,19 @@
 title: "Unnamed 6"
 date: 2023-03-18
 ---
-**Bands:** [KBWKGKGK](/stripes/kbwkgkgk/) · **Stripes:** [K P W K G K G K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">K P W K G K G K</span></span>
+**Bands:** [KGKGKWBK](/stripes/kgkgkwbk/) · **Stripes:** [K G K G K W P K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#000000"></span><span class="seq">K G K G K W P K</span></span>
 
 
 This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified #36
+- Unnamed No 33
 
 ## Attestations
 
@@ -318,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,18 +926,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Mowat](/setts/s7/db48k6db10k46ly4k22g43/) — ΔT 0.91
 1. [Wilson's No 158](/setts/s6/g21w2g4k17p14k3~x2/) — ΔT 1.00
 1. [Wilson's, No 160](/setts/s6/g21ly2g4k16p14k3~x2/) — ΔT 1.02
-1. [United Distillers (Corporate)](/setts/s6/ly2o14k14o1k14o2~x2/) — ΔT 1.08
+1. [United Distillers (Corporate)](/setts/s6/o2k14o1k14o14ly2~x2/) — ΔT 1.08
 1. [Wilson's, No 150 "Coburg"](/setts/s6/g18t2g4k14p12k3~x2/) — ΔT 1.13
 1. [Argyll, Campbell](/setts/s10/k3db17k20g18w4g18k20db18k2db2~x2/) — ΔT 1.16
 1. [Norwich No.033](/setts/s14/dp16w2k16g16k2g16k16g16k2g16k16w2dp16k1~x2/) — ΔT 1.19
 1. [Newlands](/setts/s10/db9k9db9r2k18g12r2g4r2g4~x2/) — ΔT 1.19
-1. [Unnamed, No 115](/setts/s8/db10k6t1g6k1g6t1k6~x2/) — ΔT 1.22
+1. [Unnamed, No 115](/setts/s8/db10k6t1g6k1~x2/) — ΔT 1.22
 1. [Graham W](/setts/s6/dg21lb2dg4k17dp14k3/) — ΔT 1.22
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db48k6db10k46ly4k22g43/"><circle cx="192.5" cy="210.4" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/setts/s6/g21w2g4k17p14k3~x2/"><circle cx="181.9" cy="208.4" r="4" fill="#3465a4"><title>Wilson's No 158</title></circle></a><a href="/setts/s6/g21ly2g4k16p14k3~x2/"><circle cx="185.0" cy="208.7" r="4" fill="#3465a4"><title>Wilson's, No 160</title></circle></a><a href="/setts/s6/ly2o14k14o1k14o2~x2/"><circle cx="179.7" cy="192.9" r="4" fill="#3465a4"><title>United Distillers (Corporate)</title></circle></a><a href="/setts/s6/g18t2g4k14p12k3~x2/"><circle cx="176.9" cy="220.2" r="4" fill="#3465a4"><title>Wilson's, No 150 &quot;Coburg&quot;</title></circle></a><a href="/setts/s10/k3db17k20g18w4g18k20db18k2db2~x2/"><circle cx="145.3" cy="206.4" r="4" fill="#3465a4"><title>Argyll, Campbell</title></circle></a><a href="/setts/s14/dp16w2k16g16k2g16k16g16k2g16k16w2dp16k1~x2/"><circle cx="184.1" cy="175.5" r="4" fill="#3465a4"><title>Norwich No.033</title></circle></a><a href="/setts/s10/db9k9db9r2k18g12r2g4r2g4~x2/"><circle cx="149.7" cy="201.9" r="4" fill="#3465a4"><title>Newlands</title></circle></a><a href="/setts/s8/db10k6t1g6k1g6t1k6~x2/"><circle cx="146.2" cy="214.8" r="4" fill="#3465a4"><title>Unnamed, No 115</title></circle></a><a href="/setts/s6/dg21lb2dg4k17dp14k3/"><circle cx="200.6" cy="222.3" r="4" fill="#3465a4"><title>Graham W</title></circle></a><circle cx="192.5" cy="193.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db48k6db10k46ly4k22g43/"><circle cx="192.7" cy="210.3" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/setts/s6/g21w2g4k17p14k3~x2/"><circle cx="182.0" cy="208.3" r="4" fill="#3465a4"><title>Wilson's No 158</title></circle></a><a href="/setts/s6/g21ly2g4k16p14k3~x2/"><circle cx="185.1" cy="208.6" r="4" fill="#3465a4"><title>Wilson's, No 160</title></circle></a><a href="/setts/s6/o2k14o1k14o14ly2~x2/"><circle cx="179.9" cy="192.8" r="4" fill="#3465a4"><title>United Distillers (Corporate)</title></circle></a><a href="/setts/s6/g18t2g4k14p12k3~x2/"><circle cx="177.0" cy="220.1" r="4" fill="#3465a4"><title>Wilson's, No 150 &quot;Coburg&quot;</title></circle></a><a href="/setts/s10/k3db17k20g18w4g18k20db18k2db2~x2/"><circle cx="145.6" cy="206.3" r="4" fill="#3465a4"><title>Argyll, Campbell</title></circle></a><a href="/setts/s14/dp16w2k16g16k2g16k16g16k2g16k16w2dp16k1~x2/"><circle cx="184.2" cy="175.4" r="4" fill="#3465a4"><title>Norwich No.033</title></circle></a><a href="/setts/s10/db9k9db9r2k18g12r2g4r2g4~x2/"><circle cx="149.9" cy="201.9" r="4" fill="#3465a4"><title>Newlands</title></circle></a><a href="/setts/s8/db10k6t1g6k1~x2/"><circle cx="146.4" cy="214.8" r="4" fill="#3465a4"><title>Unnamed, No 115</title></circle></a><a href="/setts/s6/dg21lb2dg4k17dp14k3/"><circle cx="200.8" cy="222.2" r="4" fill="#3465a4"><title>Graham W</title></circle></a><circle cx="192.6" cy="193.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k16g16k2g16k16w2p16k1~x2/

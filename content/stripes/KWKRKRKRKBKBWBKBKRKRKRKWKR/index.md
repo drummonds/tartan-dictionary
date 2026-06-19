@@ -22,6 +22,6 @@ KWKRKRKRKBKBWBKBKRKRKRKWKR
 
 | Tartans |
 |---------------|
-| [Harris (1997) (Personal)](/setts/s26/r4k1w4k1r18k3r4k3r4k10db30k6db4w6db4k6db30k10r4k3r4k3r18k1w4k1~x2/)|
-|![Harris (1997) (Personal) example sett](/setts/s26/r4k1w4k1r18k3r4k3r4k10db30k6db4w6db4k6db30k10r4k3r4k3r18k1w4k1~x2/sett.png)|
+| [Harris (1997) (Personal)](/setts/s26/w6db4k6db30k10r4k3r4k3r18k1w4k1r4~x2/)|
+|![Harris (1997) (Personal) example sett](/setts/s26/w6db4k6db30k10r4k3r4k3r18k1w4k1r4~x2/sett.png)|
 

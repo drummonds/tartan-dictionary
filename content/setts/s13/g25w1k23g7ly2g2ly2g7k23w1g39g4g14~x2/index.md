@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-Ga/28 G8 Ga78 LN2 K46 G14 Y4 G4 Y4 G14 K46 LN2 Ga/50
+Ga/50 LN2 K46 G14 Y4 G4 Y4 G14 K46 LN2 Ga78 G8 Ga/28
 ![Sett](sett.png)
 
 ## Palette
@@ -923,8 +926,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r5g56k2w5k2g56r16k83r16g56k2w5k2g56r5~x2/"><circle cx="349.0" cy="99.8" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/setts/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/"><circle cx="263.4" cy="99.4" r="4" fill="#3465a4"><title>Moss</title></circle></a><a href="/setts/s19/g36dg5ly5dg9k5w5dg2g7dg1ly2dg1g7dg2w5k5dg9ly5dg5g17~x2/"><circle cx="268.4" cy="88.8" r="4" fill="#3465a4"><title>Irish National District Tartan Tartan Number: 2245. Earliest known date: 1992 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar in association with John and Joan (Jo) Nisbet of Piper's Cove in New Jersey USA. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/g24k1g2y2dg2w1dg12w1dg2w2dg2w1dg12~x2/"><circle cx="285.9" cy="110.2" r="4" fill="#3465a4"><title>Currie, of Balilone</title></circle></a><a href="/setts/s17/ly8g84db21k10db10k10db10k10db21g62r3g6r3g10ly3g5r6~x2/"><circle cx="321.7" cy="89.4" r="4" fill="#3465a4"><title>King Edward VII</title></circle></a><a href="/setts/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/"><circle cx="289.5" cy="75.6" r="4" fill="#3465a4"><title>Reilly fae the Mearns (Personal)</title></circle></a><a href="/setts/s17/k20r3db10g3db5g25k1g1w3g1k1g25db5g3db10r1db2~x2/"><circle cx="243.4" cy="96.5" r="4" fill="#3465a4"><title>Blairlogie, or Blair Athol</title></circle></a><a href="/setts/s9/k4g34ly1k18g3db18r3g3r3~x2/"><circle cx="245.6" cy="113.4" r="4" fill="#3465a4"><title>John.W.Mackay, Restricted</title></circle></a><a href="/setts/s20/k40g8r1g57ly5g9w5g57r1g8k40dp7k4g4k2w4k2g4k4dp7~x2/"><circle cx="293.9" cy="37.8" r="4" fill="#3465a4"><title>Unidentified, Phyllis Gordon</title></circle></a><a href="/setts/s9/db10k12g3k1g1k1g30lo4w4~x2/"><circle cx="278.3" cy="116.3" r="4" fill="#3465a4"><title>Hutchens (Kansas) (Personal)</title></circle></a><circle cx="267.9" cy="99.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r5g56k2w5k2g56r16k83r16g56k2w5k2g56r5~x2/"><circle cx="348.8" cy="99.5" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/setts/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/"><circle cx="263.1" cy="99.3" r="4" fill="#3465a4"><title>Moss</title></circle></a><a href="/setts/s19/g36dg5ly5dg9k5w5dg2g7dg1ly2dg1g7dg2w5k5dg9ly5dg5g17~x2/"><circle cx="268.2" cy="88.8" r="4" fill="#3465a4"><title>Irish National District Tartan Tartan Number: 2245. Earliest known date: 1992 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar in association with John and Joan (Jo) Nisbet of Piper's Cove in New Jersey USA. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s13/g24k1g2y2dg2w1dg12w1dg2w2dg2w1dg12~x2/"><circle cx="285.7" cy="110.2" r="4" fill="#3465a4"><title>Currie, of Balilone</title></circle></a><a href="/setts/s17/ly8g84db21k10db10k10db10k10db21g62r3g6r3g10ly3g5r6~x2/"><circle cx="321.4" cy="89.3" r="4" fill="#3465a4"><title>King Edward VII</title></circle></a><a href="/setts/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/"><circle cx="289.3" cy="75.6" r="4" fill="#3465a4"><title>Reilly fae the Mearns (Personal)</title></circle></a><a href="/setts/s17/k20r3db10g3db5g25k1g1w3g1k1g25db5g3db10r1db2~x2/"><circle cx="243.3" cy="96.4" r="4" fill="#3465a4"><title>Blairlogie, or Blair Athol</title></circle></a><a href="/setts/s9/k4g34ly1k18g3db18r3g3r3~x2/"><circle cx="245.6" cy="113.3" r="4" fill="#3465a4"><title>John.W.Mackay, Restricted</title></circle></a><a href="/setts/s20/k40g8r1g57ly5g9w5g57r1g8k40dp7k4g4k2w4k2g4k4dp7~x2/"><circle cx="293.8" cy="37.8" r="4" fill="#3465a4"><title>Unidentified, Phyllis Gordon</title></circle></a><a href="/setts/s9/db10k12g3k1g1k1g30lo4w4~x2/"><circle cx="278.3" cy="116.2" r="4" fill="#3465a4"><title>Hutchens (Kansas) (Personal)</title></circle></a><circle cx="267.8" cy="99.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/g25w1k23g7ly2g2ly2g7k23w1g39g4g14~x2/

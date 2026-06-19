@@ -2,12 +2,18 @@
 title: "Haileybury Pipe Band (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GWRKYRKRKY](/stripes/gwrkyrkrky/) · **Stripes:** [G W O K LY O K O K LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G W O K LY O K O K LY</span></span>
+**Bands:** [YKRKRYKRWG](/stripes/ykrkrykrwg/) · **Stripes:** [LY K O K O LY K O W G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY K O K O LY K O W G</span></span>
 
 
 This was sourced from tartans-authority.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10134/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Haileybury Pipe Band
 
 ## Attestations
 
@@ -17,7 +23,7 @@ This cloth appears in 2 source records; the oldest owns this page.
 - undated — Haileybury Pipe Band Corporate Tartan Tartan Number: 10134. Earliest known date: 2010 The Haileybury tartan was designed to recognise the existence of the Haileybury Pipes and Drums of Haileybury College, Melbourne, Australia and marks the unification of Haileybury College and Haileybury Girls College bands. Permission to use this tartan should be sought from Haileybury College, 855-891 Springvale Road, Keysborough, Victoria 3173, Melbourne, Australia. The dark red colour is unique to the school. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10134))
 
 ## Thread count
-G/4 LN10 DR10 K4 Y4 DR4 K4 DR60 K60 Y/8
+Y/8 K60 DR60 K4 DR4 Y4 K4 DR10 LN10 G/4
 ![Sett](sett.png)
 
 ## Palette
@@ -48,8 +54,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly4k30dr30k2dr2ly2k2dr5w5g2~x2/"><circle cx="257.4" cy="123.6" r="4" fill="#3465a4"><title>Haileybury</title></circle></a><a href="/setts/s9/r60lo4k22g5k25t8k4r4k4~x2/"><circle cx="279.7" cy="128.2" r="4" fill="#3465a4"><title>State Seal of Alabama (Fashion)</title></circle></a><a href="/setts/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><circle cx="295.9" cy="98.4" r="4" fill="#3465a4"><title>MacKeever (Personal)</title></circle></a><a href="/setts/s11/o32do4r2k8r3lb2r3k8r2do4r30~x2/"><circle cx="227.4" cy="115.1" r="4" fill="#3465a4"><title>Varenne</title></circle></a><a href="/setts/s11/r44k3lo20db3r8k29k5r3r2k5k10~x2/"><circle cx="272.0" cy="124.6" r="4" fill="#3465a4"><title>U.S. Air Force Reserve P. B. (Corpor</title></circle></a><a href="/setts/s12/r16dg4k3ly1k2lr1k3dg4r4k1r4lr1~x4/"><circle cx="288.6" cy="125.6" r="4" fill="#3465a4"><title>Unidentified #53</title></circle></a><a href="/setts/s10/k5k5k2r47k18w2k5dg9k7w3~x2/"><circle cx="278.7" cy="115.3" r="4" fill="#3465a4"><title>Rikaco Holiday</title></circle></a><a href="/setts/s10/r16t1r1ly1r4k18w1k1w1k1~x4/"><circle cx="294.3" cy="98.4" r="4" fill="#3465a4"><title>Regimbal, Leonel–Jean (Personal)</title></circle></a><a href="/setts/s10/k5db5k2r47k18w2k5dg9db7w3~x2/"><circle cx="264.3" cy="99.5" r="4" fill="#3465a4"><title>Rikaco Holiday (Fashion)</title></circle></a><a href="/setts/s12/ly2w1r2k20r9k20ly7n20k5ly1k1r1~x2/"><circle cx="258.1" cy="117.5" r="4" fill="#3465a4"><title>Cates Dress</title></circle></a><circle cx="258.7" cy="121.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly4k30dr30k2dr2ly2k2dr5w5g2~x2/"><circle cx="257.4" cy="123.6" r="4" fill="#3465a4"><title>Haileybury</title></circle></a><a href="/setts/s9/r60lo4k22g5k25t8k4r4k4~x2/"><circle cx="279.5" cy="128.1" r="4" fill="#3465a4"><title>State Seal of Alabama (Fashion)</title></circle></a><a href="/setts/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><circle cx="295.7" cy="98.3" r="4" fill="#3465a4"><title>MacKeever (Personal)</title></circle></a><a href="/setts/s11/o32do4r2k8r3lb2r3k8r2do4r30~x2/"><circle cx="227.2" cy="115.2" r="4" fill="#3465a4"><title>Varenne</title></circle></a><a href="/setts/s11/r44k3lo20db3r8k29k5r3r2k5k10~x2/"><circle cx="271.9" cy="124.7" r="4" fill="#3465a4"><title>U.S. Air Force Reserve P. B. (Corpor</title></circle></a><a href="/setts/s12/r16dg4k3ly1k2lr1k3dg4r4k1r4lr1~x4/"><circle cx="288.5" cy="125.6" r="4" fill="#3465a4"><title>Unidentified #53</title></circle></a><a href="/setts/s10/k5k5k2r47k18w2k5dg9k7w3~x2/"><circle cx="278.6" cy="115.4" r="4" fill="#3465a4"><title>Rikaco Holiday</title></circle></a><a href="/setts/s10/r16t1r1ly1r4k18w1k1w1k1~x4/"><circle cx="294.0" cy="98.4" r="4" fill="#3465a4"><title>Regimbal, Leonel–Jean (Personal)</title></circle></a><a href="/setts/s10/k5db5k2r47k18w2k5dg9db7w3~x2/"><circle cx="264.1" cy="99.6" r="4" fill="#3465a4"><title>Rikaco Holiday (Fashion)</title></circle></a><a href="/setts/s12/ly2w1r2k20r9k20ly7n20k5ly1k1r1~x2/"><circle cx="258.0" cy="117.5" r="4" fill="#3465a4"><title>Cates Dress</title></circle></a><circle cx="258.6" cy="121.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/ly4k30o30k2o2ly2k2o5w5g2~x2/

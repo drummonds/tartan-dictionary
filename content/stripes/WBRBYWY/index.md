@@ -20,7 +20,7 @@ WBRBYWY
 
 
 
-### W DP R DP LR LP LR <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">W DP R DP LR LP LR</span></span>
+### LR LP LR DP R DP W <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LR LP LR DP R DP W</span></span>
 
 | Tartans |
 |---------------|

@@ -32,7 +32,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-R/10 G24 R10 G24 R64 W/22
+W/22 R64 G24 R10 G24 R/10
 ![Sett](sett.png)
 
 ## Palette
@@ -48,7 +48,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "R/10 G24 R10 G24 R64 W/22 tartan")
+![Tartan detail](tartan.png "W/22 R64 G24 R10 G24 R/10 tartan")
 
 ## Nearest tartans
 
@@ -63,12 +63,12 @@ The nearest existing variants by ΔTartan distance.
 1. [MacKinnon 11](/setts/s4/r3g20r25w3~x4/) — ΔT 1.44
 1. [Unidentified #42](/setts/s7/ly1r3dg7r3dg7r3ly1~x4/) — ΔT 1.44
 1. [Nisbet](/setts/s6/r10g24k10r28lb3r6~x2/) — ΔT 1.47
-1. [Banff](/setts/s7/lb6o3o3o20o20ly3o6~x2/) — ΔT 1.49
+1. [Banff](/setts/s7/o6ly3o20o20o3o3lb6~x2/) — ΔT 1.49
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/w11r40g13r5g12r5~x2/"><circle cx="329.1" cy="216.6" r="4" fill="#3465a4"><title>Makhtoum</title></circle></a><a href="/setts/s4/r3dg20r25w3~x4/"><circle cx="335.4" cy="240.1" r="4" fill="#3465a4"><title>MacKinnon #6</title></circle></a><a href="/setts/s10/r3ly2r2ly3r3ly7r3k7r14ly2~x2/"><circle cx="258.6" cy="190.5" r="4" fill="#3465a4"><title>Austin College Page</title></circle></a><a href="/setts/s6/r4ly1r3ly1ly8ly2~x4/"><circle cx="260.9" cy="216.3" r="4" fill="#3465a4"><title>Buchele Check (Fashion?)</title></circle></a><a href="/setts/s6/r6k9r12w2k2w4~x2/"><circle cx="234.2" cy="230.0" r="4" fill="#3465a4"><title>Brice (Artefact)</title></circle></a><a href="/setts/s5/dg16r5dg2r18k2~x2/"><circle cx="343.4" cy="233.0" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles #2</title></circle></a><a href="/setts/s4/r3g20r25w3~x4/"><circle cx="340.0" cy="246.3" r="4" fill="#3465a4"><title>MacKinnon 11</title></circle></a><a href="/setts/s7/ly1r3dg7r3dg7r3ly1~x4/"><circle cx="301.3" cy="244.2" r="4" fill="#3465a4"><title>Unidentified #42</title></circle></a><a href="/setts/s6/r10g24k10r28lb3r6~x2/"><circle cx="286.8" cy="216.9" r="4" fill="#3465a4"><title>Nisbet</title></circle></a><a href="/setts/s7/lb6o3o3o20o20ly3o6~x2/"><circle cx="248.5" cy="199.3" r="4" fill="#3465a4"><title>Banff</title></circle></a><circle cx="276.3" cy="228.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/w11r40g13r5g12r5~x2/"><circle cx="328.7" cy="216.4" r="4" fill="#3465a4"><title>Makhtoum</title></circle></a><a href="/setts/s4/r3dg20r25w3~x4/"><circle cx="335.1" cy="239.8" r="4" fill="#3465a4"><title>MacKinnon #6</title></circle></a><a href="/setts/s10/r3ly2r2ly3r3ly7r3k7r14ly2~x2/"><circle cx="258.2" cy="190.2" r="4" fill="#3465a4"><title>Austin College Page</title></circle></a><a href="/setts/s6/r4ly1r3ly1ly8ly2~x4/"><circle cx="260.5" cy="216.1" r="4" fill="#3465a4"><title>Buchele Check (Fashion?)</title></circle></a><a href="/setts/s6/r6k9r12w2k2w4~x2/"><circle cx="234.0" cy="229.8" r="4" fill="#3465a4"><title>Brice (Artefact)</title></circle></a><a href="/setts/s5/dg16r5dg2r18k2~x2/"><circle cx="343.2" cy="232.8" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles #2</title></circle></a><a href="/setts/s4/r3g20r25w3~x4/"><circle cx="339.7" cy="246.1" r="4" fill="#3465a4"><title>MacKinnon 11</title></circle></a><a href="/setts/s7/ly1r3dg7r3dg7r3ly1~x4/"><circle cx="301.1" cy="244.0" r="4" fill="#3465a4"><title>Unidentified #42</title></circle></a><a href="/setts/s6/r10g24k10r28lb3r6~x2/"><circle cx="286.6" cy="216.8" r="4" fill="#3465a4"><title>Nisbet</title></circle></a><a href="/setts/s7/o6ly3o20o20o3o3lb6~x2/"><circle cx="248.2" cy="199.2" r="4" fill="#3465a4"><title>Banff</title></circle></a><circle cx="275.9" cy="228.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/w11r32g12r5g12r5~x2/

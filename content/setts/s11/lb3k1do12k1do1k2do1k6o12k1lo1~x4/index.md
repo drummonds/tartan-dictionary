@@ -2,7 +2,7 @@
 title: "MacCandlish Dress Grey"
 date: 2023-03-18
 ---
-**Bands:** [WKBKBKBKRKY](/stripes/wkbkbkbkrky/) · **Stripes:** [LB K DO K DO K DO K O K LO](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">LB K DO K DO K DO K O K LO</span></span>
+**Bands:** [YKRKBKBKBKW](/stripes/ykrkbkbkbkw/) · **Stripes:** [LO K O K DO K DO K DO K LB](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LO K O K DO K DO K DO K LB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [11 band tartan](/bands/bands11/).
@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3327
 
 ## Thread count
-DY/4 K4 N48 K24 T4 K8 T4 K4 T48 K4 LP/12
+LP/12 K4 T48 K4 T4 K8 T4 K24 N48 K4 DY/4
 ![Sett](sett.png)
 
 ## Palette
@@ -39,7 +39,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Logan #7](/setts/s11/r6db3r2db2r2db16k12g16r1k1ly2~x2/) — ΔT 0.73
 1. [MacLennan](/setts/s11/r6db3r2db2r2db16k12dg16r1k1ly2~x2/) — ΔT 0.80
 1. [Urquhart (Fashion)](/setts/s12/o9w2o18k3o3k3o3k12n30k6n6r6/) — ΔT 0.86
-1. [Callum Scotch House Trade Tartan Tartan Number: 1319. Earliest known date: pre 2003 Sett identical to Vestiarium Scoticum No 196 'Menzies' See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/dy4w2dy2w3dy20db6t3db2t2db2t16r3~x2/) — ΔT 0.92
+1. [Callum Scotch House Trade Tartan Tartan Number: 1319. Earliest known date: pre 2003 Sett identical to Vestiarium Scoticum No 196 'Menzies' See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/dy4w2dy2w3dy20db6t3db2t2db2t16r3~x2/) — ΔT 0.93
 1. [MacLagan of Glenquiech](/setts/s11/r6db6r3db3r3db28k21g28r21k2ly4/) — ΔT 0.93
 1. [Heart of the Highlands](/setts/s9/o18k3o4lb3o4k18n20k2m4~x2/) — ΔT 0.93
 1. [Griffiths of Llangynin (Personal)](/setts/s10/dg40k8r4k4r8k4r4k8db40ly3~x2/) — ΔT 0.93
@@ -48,8 +48,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/lb3k1n12k1n1k2n1k6lr12k1lo1~x4/"><circle cx="167.6" cy="134.3" r="4" fill="#3465a4"><title>McCandlish Dress, Grey (Name)</title></circle></a><a href="/setts/s11/r6db3r2db2r2db16k12g16r1k1ly2~x2/"><circle cx="171.3" cy="141.8" r="4" fill="#3465a4"><title>Logan #7</title></circle></a><a href="/setts/s11/r6db3r2db2r2db16k12dg16r1k1ly2~x2/"><circle cx="177.2" cy="143.9" r="4" fill="#3465a4"><title>MacLennan</title></circle></a><a href="/setts/s12/o9w2o18k3o3k3o3k12n30k6n6r6/"><circle cx="194.2" cy="146.1" r="4" fill="#3465a4"><title>Urquhart (Fashion)</title></circle></a><a href="/setts/s12/dy4w2dy2w3dy20db6t3db2t2db2t16r3~x2/"><circle cx="197.2" cy="147.4" r="4" fill="#3465a4"><title>Callum Scotch House Trade Tartan Tartan Number: 1319. Earliest known date: pre 2003 Sett identical to Vestiarium Scoticum No 196 'Menzies' See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r6db6r3db3r3db28k21g28r21k2ly4/"><circle cx="143.5" cy="147.6" r="4" fill="#3465a4"><title>MacLagan of Glenquiech</title></circle></a><a href="/setts/s9/o18k3o4lb3o4k18n20k2m4~x2/"><circle cx="161.2" cy="174.2" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/setts/s10/dg40k8r4k4r8k4r4k8db40ly3~x2/"><circle cx="194.0" cy="153.9" r="4" fill="#3465a4"><title>Griffiths of Llangynin (Personal)</title></circle></a><a href="/setts/s11/r8k3o3dt28k20o28lb3o3lb3o3lb6/"><circle cx="135.7" cy="144.8" r="4" fill="#3465a4"><title>Logan #6</title></circle></a><a href="/setts/s12/dt4r1dt12w1r4w1dg4w1r4dg12dt1w2~x2/"><circle cx="172.5" cy="150.2" r="4" fill="#3465a4"><title>Glenfalloch</title></circle></a><circle cx="179.2" cy="140.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/lb3k1n12k1n1k2n1k6lr12k1lo1~x4/"><circle cx="167.5" cy="134.3" r="4" fill="#3465a4"><title>McCandlish Dress, Grey (Name)</title></circle></a><a href="/setts/s11/r6db3r2db2r2db16k12g16r1k1ly2~x2/"><circle cx="171.3" cy="141.9" r="4" fill="#3465a4"><title>Logan #7</title></circle></a><a href="/setts/s11/r6db3r2db2r2db16k12dg16r1k1ly2~x2/"><circle cx="177.2" cy="144.1" r="4" fill="#3465a4"><title>MacLennan</title></circle></a><a href="/setts/s12/o9w2o18k3o3k3o3k12n30k6n6r6/"><circle cx="194.1" cy="146.2" r="4" fill="#3465a4"><title>Urquhart (Fashion)</title></circle></a><a href="/setts/s12/dy4w2dy2w3dy20db6t3db2t2db2t16r3~x2/"><circle cx="197.0" cy="147.4" r="4" fill="#3465a4"><title>Callum Scotch House Trade Tartan Tartan Number: 1319. Earliest known date: pre 2003 Sett identical to Vestiarium Scoticum No 196 'Menzies' See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/r6db6r3db3r3db28k21g28r21k2ly4/"><circle cx="143.5" cy="147.8" r="4" fill="#3465a4"><title>MacLagan of Glenquiech</title></circle></a><a href="/setts/s9/o18k3o4lb3o4k18n20k2m4~x2/"><circle cx="161.2" cy="174.3" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/setts/s10/dg40k8r4k4r8k4r4k8db40ly3~x2/"><circle cx="194.0" cy="154.0" r="4" fill="#3465a4"><title>Griffiths of Llangynin (Personal)</title></circle></a><a href="/setts/s11/r8k3o3dt28k20o28lb3o3lb3o3lb6/"><circle cx="135.7" cy="144.9" r="4" fill="#3465a4"><title>Logan #6</title></circle></a><a href="/setts/s12/dt4r1dt12w1r4w1dg4w1r4dg12dt1w2~x2/"><circle cx="172.5" cy="150.3" r="4" fill="#3465a4"><title>Glenfalloch</title></circle></a><circle cx="179.1" cy="140.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/lb3k1do12k1do1k2do1k6o12k1lo1~x4/

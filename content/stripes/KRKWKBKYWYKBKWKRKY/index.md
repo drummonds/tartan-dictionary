@@ -22,6 +22,6 @@ KRKWKBKYWYKBKWKRKY
 
 | Tartans |
 |---------------|
-| [Svanholm (Personal)](/setts/s18/ly4k1m14k1w2k1dp28k4ly2w3ly2k4dp28k1w2k1m14k1~x2/)|
-|![Svanholm (Personal) example sett](/setts/s18/ly4k1m14k1w2k1dp28k4ly2w3ly2k4dp28k1w2k1m14k1~x2/sett.png)|
+| [Svanholm (Personal)](/setts/s18/ly4k1m14k1w2k1dp28k4ly2w3~x2/)|
+|![Svanholm (Personal) example sett](/setts/s18/ly4k1m14k1w2k1dp28k4ly2w3~x2/sett.png)|
 

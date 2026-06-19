@@ -2,7 +2,7 @@
 title: "Eildon (1996)"
 date: 2023-03-18
 ---
-**Bands:** [GRGYGKGKGBGBGR](/stripes/grgygkgkgbgbgr/) · **Stripes:** [DG O DG LY DG K DG K DG DB DG DB DG O](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DG O DG LY DG K DG K DG DB DG DB DG O</span></span>
+**Bands:** [RGBGBGKGKGYGRG](/stripes/rgbgbgkgkgygrg/) · **Stripes:** [O DG DB DG DB DG K DG K DG LY DG O DG](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="seq">O DG DB DG DB DG K DG K DG LY DG O DG</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/bands14/).
@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4800
 
 ## Thread count
-DG/4 LT2 DG22 Y4 DG22 DBa4 DG4 DBa38 DG4 DB16 DG8 DB16 DG4 LT/38
+LT/38 DG4 DB16 DG8 DB16 DG4 DBa38 DG4 DBa4 DG22 Y4 DG22 LT2 DG/4
 ![Sett](sett.png)
 
 ## Palette
@@ -48,16 +48,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Farquharson](/setts/s16/r4k2db16k16g16ly4g16k16db1k1db1k1db1k1db8r2~x2/) — ΔT 0.59
 1. [Craigclowan School](/setts/s14/db24k2k2db2k12g16k1r3k1g16k12db12k1w3~x2/) — ΔT 0.61
 1. [Robertson Htg - 1816 (Clan)](/setts/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/) — ΔT 0.68
-1. [Loch Carron](/setts/s13/g5db25k19g23k2w2k5w2k2g23k19db30r5~x2/) — ΔT 0.68
+1. [Loch Carron](/setts/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/) — ΔT 0.68
 1. [MacDonell of Glengarry #3](/setts/s11/db16r5db30r2k33g30r5g2r2g7w4/) — ΔT 0.72
 1. [Robertson Hunting](/setts/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/) — ΔT 0.73
 1. [Cameron of Erracht (Clan)](/setts/s11/g8r1g1r3g16k16r1db16r3db8ly2~x2/) — ΔT 0.78
-1. [MacDonald of Clanranald #2](/setts/s13/db16r2db2r7db31r2k32w3dg31r7dg2r2dg16~x2/) — ΔT 0.81
+1. [MacDonald of Clanranald #2](/setts/s13/dg16r2dg2r7dg31w3k32r2db31r7db2r2db16~x2/) — ΔT 0.81
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db16k2db2k2db2k12dg12ly2k2ly2dg12k16db16k1w3~x2/"><circle cx="187.1" cy="150.9" r="4" fill="#3465a4"><title>Dyce #2</title></circle></a><a href="/setts/s13/db2k2db12k18w1g14r2g14w3k18db12k2db1~x4/"><circle cx="203.5" cy="153.0" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/setts/s16/r4k2db16k16g16ly4g16k16db1k1db1k1db1k1db8r2~x2/"><circle cx="181.9" cy="135.6" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/setts/s14/db24k2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="205.9" cy="132.6" r="4" fill="#3465a4"><title>Craigclowan School</title></circle></a><a href="/setts/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="212.3" cy="127.6" r="4" fill="#3465a4"><title>Robertson Htg - 1816 (Clan)</title></circle></a><a href="/setts/s13/g5db25k19g23k2w2k5w2k2g23k19db30r5~x2/"><circle cx="176.6" cy="162.5" r="4" fill="#3465a4"><title>Loch Carron</title></circle></a><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w4/"><circle cx="182.0" cy="150.0" r="4" fill="#3465a4"><title>MacDonell of Glengarry #3</title></circle></a><a href="/setts/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="217.0" cy="127.6" r="4" fill="#3465a4"><title>Robertson Hunting</title></circle></a><a href="/setts/s11/g8r1g1r3g16k16r1db16r3db8ly2~x2/"><circle cx="175.1" cy="156.3" r="4" fill="#3465a4"><title>Cameron of Erracht (Clan)</title></circle></a><a href="/setts/s13/db16r2db2r7db31r2k32w3dg31r7dg2r2dg16~x2/"><circle cx="182.0" cy="145.2" r="4" fill="#3465a4"><title>MacDonald of Clanranald #2</title></circle></a><circle cx="184.4" cy="143.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db16k2db2k2db2k12dg12ly2k2ly2dg12k16db16k1w3~x2/"><circle cx="187.2" cy="151.0" r="4" fill="#3465a4"><title>Dyce #2</title></circle></a><a href="/setts/s13/db2k2db12k18w1g14r2g14w3k18db12k2db1~x4/"><circle cx="203.6" cy="153.1" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/setts/s16/r4k2db16k16g16ly4g16k16db1k1db1k1db1k1db8r2~x2/"><circle cx="182.0" cy="135.8" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/setts/s14/db24k2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="206.0" cy="132.7" r="4" fill="#3465a4"><title>Craigclowan School</title></circle></a><a href="/setts/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="212.3" cy="127.7" r="4" fill="#3465a4"><title>Robertson Htg - 1816 (Clan)</title></circle></a><a href="/setts/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/"><circle cx="176.7" cy="162.6" r="4" fill="#3465a4"><title>Loch Carron</title></circle></a><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w4/"><circle cx="182.0" cy="150.1" r="4" fill="#3465a4"><title>MacDonell of Glengarry #3</title></circle></a><a href="/setts/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="217.1" cy="127.7" r="4" fill="#3465a4"><title>Robertson Hunting</title></circle></a><a href="/setts/s11/g8r1g1r3g16k16r1db16r3db8ly2~x2/"><circle cx="175.1" cy="156.4" r="4" fill="#3465a4"><title>Cameron of Erracht (Clan)</title></circle></a><a href="/setts/s13/dg16r2dg2r7dg31w3k32r2db31r7db2r2db16~x2/"><circle cx="182.1" cy="145.3" r="4" fill="#3465a4"><title>MacDonald of Clanranald #2</title></circle></a><circle cx="184.5" cy="143.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/o19dg2db8dg4db8dg2k19dg2k2dg11ly2dg11o1dg2~x2/

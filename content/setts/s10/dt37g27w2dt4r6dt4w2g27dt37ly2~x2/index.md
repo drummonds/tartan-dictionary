@@ -2,12 +2,18 @@
 title: "Highlands of Durham"
 date: 2023-03-18
 ---
-**Bands:** [BGWBRBWGBY](/stripes/bgwbrbwgby/) · **Stripes:** [DT G W DT R DT W G DT LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DT G W DT R DT W G DT LY</span></span>
+**Bands:** [YBGWBRBWGB](/stripes/ybgwbrbwgb/) · **Stripes:** [LY DT G W DT R DT W G DT](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#023535"></span><span class="seq">LY DT G W DT R DT W G DT</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1729
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Highlands of Durham #2
 
 ## Register references
 
@@ -39,7 +45,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Highlands of Durham #2](/setts/s10/k37g27w2k4r6k4w2g27k37ly2~x2/) — ΔT 0.74
 1. [Coalfields Regeneration Trust, The](/setts/s7/k2r1ly1g8k15g2dp1~x2/) — ΔT 1.04
 1. [Hydesville Tower](/setts/s12/db15ly2db2r2db6dg30db6r2db2ly2db15w2~x2/) — ΔT 1.10
-1. [Vipont (Yellow line)](/setts/s7/ly3k36g14p2k2g14r3~x2/) — ΔT 1.14
+1. [Vipont (Yellow line)](/setts/s7/r3g14k2p2g14k36ly3~x2/) — ΔT 1.14
 1. [Hydesville Tower (Corporate)](/setts/s7/dg30db6r2db2ly2db15w2~x2/) — ΔT 1.17
 1. [Highlands of Durham (Corporate)](/setts/s6/r6dt4w2g27dt37ly2~x2/) — ΔT 1.18
 1. [Coalfields Regeneration Trust, The](/setts/s7/k2r1ly1y8k15y2dp1~x4/) — ΔT 1.19
@@ -49,8 +55,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k37g27w2k4r6k4w2g27k37ly2~x2/"><circle cx="312.6" cy="153.8" r="4" fill="#3465a4"><title>Highlands of Durham #2</title></circle></a><a href="/setts/s7/k2r1ly1g8k15g2dp1~x2/"><circle cx="320.3" cy="157.5" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><a href="/setts/s12/db15ly2db2r2db6dg30db6r2db2ly2db15w2~x2/"><circle cx="305.0" cy="141.2" r="4" fill="#3465a4"><title>Hydesville Tower</title></circle></a><a href="/setts/s7/ly3k36g14p2k2g14r3~x2/"><circle cx="303.9" cy="161.0" r="4" fill="#3465a4"><title>Vipont (Yellow line)</title></circle></a><a href="/setts/s7/dg30db6r2db2ly2db15w2~x2/"><circle cx="307.3" cy="164.2" r="4" fill="#3465a4"><title>Hydesville Tower (Corporate)</title></circle></a><a href="/setts/s6/r6dt4w2g27dt37ly2~x2/"><circle cx="301.7" cy="159.3" r="4" fill="#3465a4"><title>Highlands of Durham (Corporate)</title></circle></a><a href="/setts/s7/k2r1ly1y8k15y2dp1~x4/"><circle cx="310.8" cy="149.6" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><a href="/setts/s11/n12r4n64k64g7w7lo7k64n64r4n12/"><circle cx="265.5" cy="136.9" r="4" fill="#3465a4"><title>Sandhu (Name)</title></circle></a><a href="/setts/s9/t1dp10k10g12k1g12t2g16w1~x2/"><circle cx="318.1" cy="182.5" r="4" fill="#3465a4"><title>Faskin Family (Aberdeenshire)</title></circle></a><a href="/setts/s10/r4g4k2g31k10ly3g5k11g6k3~x2/"><circle cx="349.9" cy="176.2" r="4" fill="#3465a4"><title>MacArthur-Fox Green</title></circle></a><circle cx="312.0" cy="148.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k37g27w2k4r6k4w2g27k37ly2~x2/"><circle cx="312.6" cy="153.7" r="4" fill="#3465a4"><title>Highlands of Durham #2</title></circle></a><a href="/setts/s7/k2r1ly1g8k15g2dp1~x2/"><circle cx="320.3" cy="157.4" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><a href="/setts/s12/db15ly2db2r2db6dg30db6r2db2ly2db15w2~x2/"><circle cx="304.9" cy="141.1" r="4" fill="#3465a4"><title>Hydesville Tower</title></circle></a><a href="/setts/s7/r3g14k2p2g14k36ly3~x2/"><circle cx="303.9" cy="160.9" r="4" fill="#3465a4"><title>Vipont (Yellow line)</title></circle></a><a href="/setts/s7/dg30db6r2db2ly2db15w2~x2/"><circle cx="307.2" cy="164.1" r="4" fill="#3465a4"><title>Hydesville Tower (Corporate)</title></circle></a><a href="/setts/s6/r6dt4w2g27dt37ly2~x2/"><circle cx="301.7" cy="159.2" r="4" fill="#3465a4"><title>Highlands of Durham (Corporate)</title></circle></a><a href="/setts/s7/k2r1ly1y8k15y2dp1~x4/"><circle cx="310.7" cy="149.4" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><a href="/setts/s11/n12r4n64k64g7w7lo7k64n64r4n12/"><circle cx="265.5" cy="137.0" r="4" fill="#3465a4"><title>Sandhu (Name)</title></circle></a><a href="/setts/s9/t1dp10k10g12k1g12t2g16w1~x2/"><circle cx="318.0" cy="182.4" r="4" fill="#3465a4"><title>Faskin Family (Aberdeenshire)</title></circle></a><a href="/setts/s10/r4g4k2g31k10ly3g5k11g6k3~x2/"><circle cx="349.8" cy="176.0" r="4" fill="#3465a4"><title>MacArthur-Fox Green</title></circle></a><circle cx="311.9" cy="148.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/dt37g27w2dt4r6dt4w2g27dt37ly2~x2/

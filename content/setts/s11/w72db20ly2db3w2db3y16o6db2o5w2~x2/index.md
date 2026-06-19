@@ -2,7 +2,7 @@
 title: "Stewart dress, Blue"
 date: 2023-03-18
 ---
-**Bands:** [WBYBWBGRBRW](/stripes/wbybwbgrbrw/) · **Stripes:** [W DB LY DB W DB Y O DB O W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB LY DB W DB Y O DB O W</span></span>
+**Bands:** [WRBRGBWBYBW](/stripes/wrbrgbwbybw/) · **Stripes:** [W O DB O Y DB W DB LY DB W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W O DB O Y DB W DB LY DB W</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w72db20ly2db3w2db3y16dy6db2dy5w2~x2/"><circle cx="313.8" cy="47.9" r="4" fill="#3465a4"><title>Stuart/Stewart Dress Blue</title></circle></a><a href="/setts/s10/w49dg11r2dg3w2dy10m9dg2m6w2~x2/"><circle cx="280.9" cy="72.9" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><a href="/setts/s10/w55dp12lo2dp3w2g10dp9dp2dp6w2~x2/"><circle cx="295.9" cy="59.3" r="4" fill="#3465a4"><title>Stewart Dress, Purple (Dance)</title></circle></a><a href="/setts/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/"><circle cx="296.3" cy="62.7" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/setts/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/"><circle cx="304.6" cy="35.7" r="4" fill="#3465a4"><title>Snowy Owl</title></circle></a><a href="/setts/s11/w64db18lb2db3w2db3n14b8k2b4w2~x2/"><circle cx="276.4" cy="41.0" r="4" fill="#3465a4"><title>Bennet Dress (Fashion)</title></circle></a><a href="/setts/s11/lb50db6lo2db3lb2db3y8dy8db2dy8lb2~x2/"><circle cx="318.7" cy="74.3" r="4" fill="#3465a4"><title>Renfrew #2</title></circle></a><a href="/setts/s12/w52db2k7w3k2dp2k1db9g8k2g3ly2~x2/"><circle cx="317.4" cy="14.0" r="4" fill="#3465a4"><title>Canmore Highland Games Dress (Corp)</title></circle></a><a href="/setts/s12/w52db2k7w3k2dp2k1db9g8k2g3o2~x2/"><circle cx="307.9" cy="14.0" r="4" fill="#3465a4"><title>Canmore Highland Games Dress</title></circle></a><a href="/setts/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/"><circle cx="276.5" cy="63.7" r="4" fill="#3465a4"><title>Rothesay, Duke of</title></circle></a><circle cx="314.3" cy="48.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w72db20ly2db3w2db3y16dy6db2dy5w2~x2/"><circle cx="313.3" cy="47.7" r="4" fill="#3465a4"><title>Stuart/Stewart Dress Blue</title></circle></a><a href="/setts/s10/w49dg11r2dg3w2dy10m9dg2m6w2~x2/"><circle cx="280.5" cy="72.7" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><a href="/setts/s10/w55dp12lo2dp3w2g10dp9dp2dp6w2~x2/"><circle cx="295.4" cy="59.1" r="4" fill="#3465a4"><title>Stewart Dress, Purple (Dance)</title></circle></a><a href="/setts/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/"><circle cx="295.7" cy="62.5" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/setts/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/"><circle cx="304.0" cy="35.5" r="4" fill="#3465a4"><title>Snowy Owl</title></circle></a><a href="/setts/s11/w64db18lb2db3w2db3n14b8k2b4w2~x2/"><circle cx="276.0" cy="40.9" r="4" fill="#3465a4"><title>Bennet Dress (Fashion)</title></circle></a><a href="/setts/s11/lb50db6lo2db3lb2db3y8dy8db2dy8lb2~x2/"><circle cx="318.3" cy="74.1" r="4" fill="#3465a4"><title>Renfrew #2</title></circle></a><a href="/setts/s12/w52db2k7w3k2dp2k1db9g8k2g3ly2~x2/"><circle cx="316.8" cy="14.0" r="4" fill="#3465a4"><title>Canmore Highland Games Dress (Corp)</title></circle></a><a href="/setts/s12/w52db2k7w3k2dp2k1db9g8k2g3o2~x2/"><circle cx="307.4" cy="14.0" r="4" fill="#3465a4"><title>Canmore Highland Games Dress</title></circle></a><a href="/setts/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/"><circle cx="276.0" cy="63.6" r="4" fill="#3465a4"><title>Rothesay, Duke of</title></circle></a><circle cx="313.8" cy="48.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/w72db20ly2db3w2db3y16o6db2o5w2~x2/

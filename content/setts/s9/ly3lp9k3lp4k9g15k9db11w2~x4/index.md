@@ -2,7 +2,7 @@
 title: "Hoban (Name)"
 date: 2023-03-18
 ---
-**Bands:** [WBKGKWKWY](/stripes/wbkgkwkwy/) · **Stripes:** [W DB K G K LP K LP LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W DB K G K LP K LP LY</span></span>
+**Bands:** [YWKWKGKBW](/stripes/ywkwkgkbw/) · **Stripes:** [LY LP K LP K G K DB W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#E4A6DB"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY LP K LP K G K DB W</span></span>
 
 
 This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/
 Original link http://www.tartansauthority.com/tartan-ferret/display/6199/
 
 ## Thread count
-W/8 DB44 K36 G60 K36 LP16 K12 LP36 Y/12
+Y/12 LP36 K12 LP16 K36 G60 K36 DB44 W/8
 ![Sett](sett.png)
 
 ## Palette
@@ -42,8 +42,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g4t2g9k4g2r6db12w2~x2/"><circle cx="90.3" cy="190.8" r="4" fill="#3465a4"><title>Cherokee</title></circle></a><a href="/setts/s11/k8n22n8dg16k24dr8dg32lb32dr7lb12lb4/"><circle cx="50.1" cy="175.6" r="4" fill="#3465a4"><title>Manderson (Personal)</title></circle></a><a href="/setts/s9/r3db16m2db2m12k8g12k12w3~x2/"><circle cx="66.0" cy="180.2" r="4" fill="#3465a4"><title>Celtic Women International</title></circle></a><a href="/setts/s8/r4ly3w12k16g5db20k4w2~x2/"><circle cx="68.6" cy="148.8" r="4" fill="#3465a4"><title>Iowa Dress (District)</title></circle></a><a href="/setts/s7/p11db2t4db21k16g19ly4~x2/"><circle cx="69.6" cy="178.5" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/setts/s6/g7w4k21n16db16r5~x2/"><circle cx="35.3" cy="216.1" r="4" fill="#3465a4"><title>Hawkes, Norman (Personal)</title></circle></a><a href="/setts/s6/k8r12w8g15db30ly5~x2/"><circle cx="84.2" cy="199.6" r="4" fill="#3465a4"><title>Reekie (Name)</title></circle></a><a href="/setts/s10/y12k3w3k3w3k3y13n6db17r3~x2/"><circle cx="96.7" cy="175.6" r="4" fill="#3465a4"><title>Mitsukoshi</title></circle></a><a href="/setts/s8/m21db4dr5db4m5k21g21ly5~x2/"><circle cx="62.7" cy="189.6" r="4" fill="#3465a4"><title>Caledonian Labrador Retrievers</title></circle></a><a href="/setts/s6/r3ly2g12k12db14w3~x2/"><circle cx="74.8" cy="202.6" r="4" fill="#3465a4"><title>Jamestown Parish Church (Corporate)</title></circle></a><circle cx="50.9" cy="181.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g4t2g9k4g2r6db12w2~x2/"><circle cx="90.5" cy="190.9" r="4" fill="#3465a4"><title>Cherokee</title></circle></a><a href="/setts/s11/k8n22n8dg16k24dr8dg32lb32dr7lb12lb4/"><circle cx="50.3" cy="175.8" r="4" fill="#3465a4"><title>Manderson (Personal)</title></circle></a><a href="/setts/s9/r3db16m2db2m12k8g12k12w3~x2/"><circle cx="66.2" cy="180.4" r="4" fill="#3465a4"><title>Celtic Women International</title></circle></a><a href="/setts/s8/r4ly3w12k16g5db20k4w2~x2/"><circle cx="68.7" cy="148.9" r="4" fill="#3465a4"><title>Iowa Dress (District)</title></circle></a><a href="/setts/s7/p11db2t4db21k16g19ly4~x2/"><circle cx="69.8" cy="178.6" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/setts/s6/g7w4k21n16db16r5~x2/"><circle cx="35.5" cy="216.2" r="4" fill="#3465a4"><title>Hawkes, Norman (Personal)</title></circle></a><a href="/setts/s6/k8r12w8g15db30ly5~x2/"><circle cx="84.4" cy="199.6" r="4" fill="#3465a4"><title>Reekie (Name)</title></circle></a><a href="/setts/s10/y12k3w3k3w3k3y13n6db17r3~x2/"><circle cx="96.8" cy="175.7" r="4" fill="#3465a4"><title>Mitsukoshi</title></circle></a><a href="/setts/s8/m21db4dr5db4m5k21g21ly5~x2/"><circle cx="62.8" cy="189.7" r="4" fill="#3465a4"><title>Caledonian Labrador Retrievers</title></circle></a><a href="/setts/s6/r3ly2g12k12db14w3~x2/"><circle cx="75.0" cy="202.7" r="4" fill="#3465a4"><title>Jamestown Parish Church (Corporate)</title></circle></a><circle cx="51.0" cy="181.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/ly3lp9k3lp4k9g15k9db11w2~x4/

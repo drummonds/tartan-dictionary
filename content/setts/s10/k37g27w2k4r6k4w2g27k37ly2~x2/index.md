@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1730
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Highlands of Durham #2
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -36,20 +42,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Highlands of Durham](/setts/s10/dt37g27w2dt4r6dt4w2g27dt37ly2~x2/) — ΔT 0.74
-1. [Henderson](/setts/s9/lb1db6dg4db1dg16k1dg4k6ly1~x2/) — ΔT 0.83
-1. [Vipont (Yellow line)](/setts/s7/ly3k36g14p2k2g14r3~x2/) — ΔT 0.91
+1. [Henderson](/setts/s9/ly1k6dg4k1dg16db1dg4db6lb1~x2/) — ΔT 0.83
+1. [Vipont (Yellow line)](/setts/s7/r3g14k2p2g14k36ly3~x2/) — ΔT 0.91
 1. [Henderson](/setts/s9/lr1db6dg4db1dg16k1dg4k6ly1~x2/) — ΔT 0.93
-1. [Henderson](/setts/s9/lr1db6dg4db1dg16k1dg4k6ly1/) — ΔT 0.93
-1. [Bomb Disposal](/setts/s10/k28r3ly2r3k13g28w1g3w1g16~x2/) — ΔT 1.07
+1. [Bomb Disposal](/setts/s10/k28r3ly2r3k13g28w1g3w1g16~x2/) — ΔT 1.08
 1. [Childers](/setts/s10/k4g13k4g8k44g8k4g13k4w3~x2/) — ΔT 1.11
 1. [Coalfields Regeneration Trust, The](/setts/s7/k2r1ly1g8k15g2dp1~x2/) — ΔT 1.15
 1. [MacDiarmid (Clan)](/setts/s9/k12r2k28g12k1w3k1g12r4~x2/) — ΔT 1.16
 1. [MacArthur-Fox Green](/setts/s10/r4g4k2g31k10ly3g5k11g6k3~x2/) — ΔT 1.18
+1. [MacDiarmid](/setts/s9/k12r2k28dg12k1w3k1dg12r4~x2/) — ΔT 1.21
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dt37g27w2dt4r6dt4w2g27dt37ly2~x2/"><circle cx="312.0" cy="148.9" r="4" fill="#3465a4"><title>Highlands of Durham</title></circle></a><a href="/setts/s9/lb1db6dg4db1dg16k1dg4k6ly1~x2/"><circle cx="314.6" cy="163.2" r="4" fill="#3465a4"><title>Henderson</title></circle></a><a href="/setts/s7/ly3k36g14p2k2g14r3~x2/"><circle cx="303.9" cy="161.0" r="4" fill="#3465a4"><title>Vipont (Yellow line)</title></circle></a><a href="/setts/s9/lr1db6dg4db1dg16k1dg4k6ly1~x2/"><circle cx="330.5" cy="170.7" r="4" fill="#3465a4"><title>Henderson</title></circle></a><a href="/setts/s9/lr1db6dg4db1dg16k1dg4k6ly1/"><circle cx="330.5" cy="170.7" r="4" fill="#3465a4"><title>Henderson</title></circle></a><a href="/setts/s10/k28r3ly2r3k13g28w1g3w1g16~x2/"><circle cx="303.7" cy="136.8" r="4" fill="#3465a4"><title>Bomb Disposal</title></circle></a><a href="/setts/s10/k4g13k4g8k44g8k4g13k4w3~x2/"><circle cx="329.5" cy="171.2" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/setts/s7/k2r1ly1g8k15g2dp1~x2/"><circle cx="320.3" cy="157.5" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><a href="/setts/s9/k12r2k28g12k1w3k1g12r4~x2/"><circle cx="343.7" cy="153.1" r="4" fill="#3465a4"><title>MacDiarmid (Clan)</title></circle></a><a href="/setts/s10/r4g4k2g31k10ly3g5k11g6k3~x2/"><circle cx="349.9" cy="176.2" r="4" fill="#3465a4"><title>MacArthur-Fox Green</title></circle></a><circle cx="312.6" cy="153.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dt37g27w2dt4r6dt4w2g27dt37ly2~x2/"><circle cx="311.9" cy="148.8" r="4" fill="#3465a4"><title>Highlands of Durham</title></circle></a><a href="/setts/s9/ly1k6dg4k1dg16db1dg4db6lb1~x2/"><circle cx="314.6" cy="163.1" r="4" fill="#3465a4"><title>Henderson</title></circle></a><a href="/setts/s7/r3g14k2p2g14k36ly3~x2/"><circle cx="303.9" cy="160.9" r="4" fill="#3465a4"><title>Vipont (Yellow line)</title></circle></a><a href="/setts/s9/lr1db6dg4db1dg16k1dg4k6ly1~x2/"><circle cx="330.6" cy="170.6" r="4" fill="#3465a4"><title>Henderson</title></circle></a><a href="/setts/s10/k28r3ly2r3k13g28w1g3w1g16~x2/"><circle cx="303.6" cy="136.8" r="4" fill="#3465a4"><title>Bomb Disposal</title></circle></a><a href="/setts/s10/k4g13k4g8k44g8k4g13k4w3~x2/"><circle cx="329.5" cy="171.1" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/setts/s7/k2r1ly1g8k15g2dp1~x2/"><circle cx="320.3" cy="157.4" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><a href="/setts/s9/k12r2k28g12k1w3k1g12r4~x2/"><circle cx="343.6" cy="152.9" r="4" fill="#3465a4"><title>MacDiarmid (Clan)</title></circle></a><a href="/setts/s10/r4g4k2g31k10ly3g5k11g6k3~x2/"><circle cx="349.8" cy="176.0" r="4" fill="#3465a4"><title>MacArthur-Fox Green</title></circle></a><a href="/setts/s9/k12r2k28dg12k1w3k1dg12r4~x2/"><circle cx="352.3" cy="157.8" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><circle cx="312.6" cy="153.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/k37g27w2k4r6k4w2g27k37ly2~x2/

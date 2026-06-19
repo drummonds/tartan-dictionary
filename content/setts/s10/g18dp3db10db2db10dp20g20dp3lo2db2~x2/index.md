@@ -2,7 +2,7 @@
 title: "Glasgow Cathedral"
 date: 2023-03-18
 ---
-**Bands:** [BYBGBBBBBG](/stripes/bybgbbbbbg/) · **Stripes:** [DB LO DP G DP DB DB DB DP G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB LO DP G DP DB DB DB DP G</span></span>
+**Bands:** [GBBBBBGBYB](/stripes/gbbbbbgbyb/) · **Stripes:** [G DP DB DB DB DP G DP LO DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="seq">G DP DB DB DB DP G DP LO DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 4996
 
 ## Thread count
-DBa/4 DY4 P6 G40 P40 DBa20 DB4 DBa20 P6 G/36
+G/36 P6 DBa20 DB4 DBa20 P40 G40 P6 DY4 DBa/4
 ![Sett](sett.png)
 
 ## Palette
@@ -42,11 +42,11 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Wilson's No.111](/setts/s8/dp19w2g12t3k4t3g12w2~x2/) — ΔT 0.74
+1. [Wilson's No.111](/setts/s8/dp19w2g12t3k4~x2/) — ΔT 0.74
 1. [Allen (1996)](/setts/s10/g8w1g1r1g4k4db8k1db1k1~x4/) — ΔT 0.83
 1. [American Society of Travel Agents, The (2001)](/setts/s11/db4y32db4y4db32m6db32dg4db3dg32w4/) — ΔT 0.84
-1. [Seaford House](/setts/s9/lb3db3lb12db26g26r3g26db28w3/) — ΔT 0.85
-1. [MacCainsh](/setts/s11/ly2db8k1g2k1g4k1g2k1db8r2~x2/) — ΔT 0.88
+1. [Seaford House](/setts/s9/w3db28g26r3g26db26lb12db3lb3/) — ΔT 0.85
+1. [MacCainsh](/setts/s11/r2db8k1g2k1g4k1g2k1db8ly2~x2/) — ΔT 0.88
 1. [MacRae Hunting #2](/setts/s9/g14k2g4r2g4k14dp15k1w3~x2/) — ΔT 0.88
 1. [Ballantyne (Personal) STWR](/setts/s8/db34dy9ly3dy9y30r3y11r5/) — ΔT 0.89
 1. [MacFadzean/MacPhedran](/setts/s7/g3db12w1k12g13r2g2~x4/) — ΔT 0.90
@@ -55,8 +55,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dp19w2g12t3k4t3g12w2~x2/"><circle cx="183.3" cy="183.4" r="4" fill="#3465a4"><title>Wilson's No.111</title></circle></a><a href="/setts/s10/g8w1g1r1g4k4db8k1db1k1~x4/"><circle cx="191.7" cy="184.5" r="4" fill="#3465a4"><title>Allen (1996)</title></circle></a><a href="/setts/s11/db4y32db4y4db32m6db32dg4db3dg32w4/"><circle cx="234.4" cy="170.3" r="4" fill="#3465a4"><title>American Society of Travel Agents, The (2001)</title></circle></a><a href="/setts/s9/lb3db3lb12db26g26r3g26db28w3/"><circle cx="196.7" cy="189.3" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/setts/s11/ly2db8k1g2k1g4k1g2k1db8r2~x2/"><circle cx="199.6" cy="171.9" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/setts/s9/g14k2g4r2g4k14dp15k1w3~x2/"><circle cx="183.7" cy="165.5" r="4" fill="#3465a4"><title>MacRae Hunting #2</title></circle></a><a href="/setts/s8/db34dy9ly3dy9y30r3y11r5/"><circle cx="187.1" cy="174.1" r="4" fill="#3465a4"><title>Ballantyne (Personal) STWR</title></circle></a><a href="/setts/s7/g3db12w1k12g13r2g2~x4/"><circle cx="193.8" cy="187.3" r="4" fill="#3465a4"><title>MacFadzean/MacPhedran</title></circle></a><a href="/setts/s12/dt8r8dt42k4dt4k4dt4k20g4k10g25w8/"><circle cx="191.4" cy="166.6" r="4" fill="#3465a4"><title>Bannatyne</title></circle></a><a href="/setts/s11/lb7db10k7db7t7db45k21g21t4k4lb7~x2/"><circle cx="187.5" cy="160.3" r="4" fill="#3465a4"><title>Utah State University</title></circle></a><circle cx="188.2" cy="177.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dp19w2g12t3k4~x2/"><circle cx="183.3" cy="183.4" r="4" fill="#3465a4"><title>Wilson's No.111</title></circle></a><a href="/setts/s10/g8w1g1r1g4k4db8k1db1k1~x4/"><circle cx="191.8" cy="184.6" r="4" fill="#3465a4"><title>Allen (1996)</title></circle></a><a href="/setts/s11/db4y32db4y4db32m6db32dg4db3dg32w4/"><circle cx="234.4" cy="170.3" r="4" fill="#3465a4"><title>American Society of Travel Agents, The (2001)</title></circle></a><a href="/setts/s9/w3db28g26r3g26db26lb12db3lb3/"><circle cx="196.7" cy="189.2" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/setts/s11/r2db8k1g2k1g4k1g2k1db8ly2~x2/"><circle cx="199.6" cy="171.9" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/setts/s9/g14k2g4r2g4k14dp15k1w3~x2/"><circle cx="183.8" cy="165.5" r="4" fill="#3465a4"><title>MacRae Hunting #2</title></circle></a><a href="/setts/s8/db34dy9ly3dy9y30r3y11r5/"><circle cx="187.2" cy="174.1" r="4" fill="#3465a4"><title>Ballantyne (Personal) STWR</title></circle></a><a href="/setts/s7/g3db12w1k12g13r2g2~x4/"><circle cx="193.9" cy="187.3" r="4" fill="#3465a4"><title>MacFadzean/MacPhedran</title></circle></a><a href="/setts/s12/dt8r8dt42k4dt4k4dt4k20g4k10g25w8/"><circle cx="191.5" cy="166.6" r="4" fill="#3465a4"><title>Bannatyne</title></circle></a><a href="/setts/s11/lb7db10k7db7t7db45k21g21t4k4lb7~x2/"><circle cx="187.6" cy="160.3" r="4" fill="#3465a4"><title>Utah State University</title></circle></a><circle cx="188.3" cy="177.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/g18dp3db10db2db10dp20g20dp3lo2db2~x2/

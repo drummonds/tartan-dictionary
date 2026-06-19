@@ -2,7 +2,7 @@
 title: "Celtic Pride"
 date: 2023-03-18
 ---
-**Bands:** [GYWKGKGY](/stripes/gywkgkgy/) · **Stripes:** [G LO W K G K G LO](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">G LO W K G K G LO</span></span>
+**Bands:** [YGKGKWYG](/stripes/ygkgkwyg/) · **Stripes:** [LO G K G K W LO G](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LO G K G K W LO G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [8 band tartan](/bands/bands8/).
@@ -50,8 +50,8 @@ The nearest existing variants by ΔTartan distance.
 1. [Sarros (Personal) XX](/setts/s8/k2w2db8k4g33r2g16w2~x2/) — ΔT 0.89
 1. [Military Medical Memorial (USA)](/setts/s6/db6w3r3g55k10r3~x4/) — ΔT 1.00
 1. [Marshall, Fields](/setts/s8/g40db2w2db2ly2db23g32r2~x2/) — ΔT 1.07
-1. [Henderson/MacKendrick](/setts/s9/ly1k6g4k1g16db1g4db6w1~x4/) — ΔT 1.19
-1. [MacKendrick](/setts/s9/ly1k6g4k1g16db1g4db6w1~x2/) — ΔT 1.19
+1. [Henderson/MacKendrick](/setts/s9/w1db6g4db1g16k1g4k6ly1~x4/) — ΔT 1.19
+1. [MacKendrick](/setts/s9/w1db6g4db1g16k1g4k6ly1~x2/) — ΔT 1.19
 1. [Bundanoon (District)](/setts/s9/db17r3g55db3g4db3g4ly3w5~x2/) — ΔT 1.21
 1. [Seattle (District)](/setts/s10/g4lb1db2r1g1r1db2lb1g14lo1~x4/) — ΔT 1.22
 1. [U.S. Army](/setts/s10/k17y4g51ly3g4ly3g51y4k17db6~x2/) — ΔT 1.25
@@ -59,8 +59,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k3g2k3g18r2db2lo1~x4/"><circle cx="379.6" cy="155.0" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/setts/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="406.8" cy="156.2" r="4" fill="#3465a4"><title>Sarros (Personal) XX</title></circle></a><a href="/setts/s6/db6w3r3g55k10r3~x4/"><circle cx="411.8" cy="150.4" r="4" fill="#3465a4"><title>Military Medical Memorial (USA)</title></circle></a><a href="/setts/s8/g40db2w2db2ly2db23g32r2~x2/"><circle cx="390.6" cy="148.9" r="4" fill="#3465a4"><title>Marshall, Fields</title></circle></a><a href="/setts/s9/ly1k6g4k1g16db1g4db6w1~x4/"><circle cx="327.2" cy="165.9" r="4" fill="#3465a4"><title>Henderson/MacKendrick</title></circle></a><a href="/setts/s9/ly1k6g4k1g16db1g4db6w1~x2/"><circle cx="327.2" cy="165.9" r="4" fill="#3465a4"><title>MacKendrick</title></circle></a><a href="/setts/s9/db17r3g55db3g4db3g4ly3w5~x2/"><circle cx="386.2" cy="128.0" r="4" fill="#3465a4"><title>Bundanoon (District)</title></circle></a><a href="/setts/s10/g4lb1db2r1g1r1db2lb1g14lo1~x4/"><circle cx="383.4" cy="139.4" r="4" fill="#3465a4"><title>Seattle (District)</title></circle></a><a href="/setts/s10/k17y4g51ly3g4ly3g51y4k17db6~x2/"><circle cx="354.5" cy="143.7" r="4" fill="#3465a4"><title>U.S. Army</title></circle></a><a href="/setts/s9/dg32w1k3w1g14dg7k3m3w1~x2/"><circle cx="368.2" cy="124.8" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, hunting</title></circle></a><circle cx="383.4" cy="151.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k3g2k3g18r2db2lo1~x4/"><circle cx="379.4" cy="154.9" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/setts/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="406.6" cy="156.0" r="4" fill="#3465a4"><title>Sarros (Personal) XX</title></circle></a><a href="/setts/s6/db6w3r3g55k10r3~x4/"><circle cx="411.5" cy="150.2" r="4" fill="#3465a4"><title>Military Medical Memorial (USA)</title></circle></a><a href="/setts/s8/g40db2w2db2ly2db23g32r2~x2/"><circle cx="390.4" cy="148.6" r="4" fill="#3465a4"><title>Marshall, Fields</title></circle></a><a href="/setts/s9/w1db6g4db1g16k1g4k6ly1~x4/"><circle cx="327.1" cy="165.8" r="4" fill="#3465a4"><title>Henderson/MacKendrick</title></circle></a><a href="/setts/s9/w1db6g4db1g16k1g4k6ly1~x2/"><circle cx="327.1" cy="165.8" r="4" fill="#3465a4"><title>MacKendrick</title></circle></a><a href="/setts/s9/db17r3g55db3g4db3g4ly3w5~x2/"><circle cx="386.0" cy="127.9" r="4" fill="#3465a4"><title>Bundanoon (District)</title></circle></a><a href="/setts/s10/g4lb1db2r1g1r1db2lb1g14lo1~x4/"><circle cx="383.1" cy="139.3" r="4" fill="#3465a4"><title>Seattle (District)</title></circle></a><a href="/setts/s10/k17y4g51ly3g4ly3g51y4k17db6~x2/"><circle cx="354.3" cy="143.7" r="4" fill="#3465a4"><title>U.S. Army</title></circle></a><a href="/setts/s9/dg32w1k3w1g14dg7k3m3w1~x2/"><circle cx="368.0" cy="124.7" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, hunting</title></circle></a><circle cx="383.2" cy="151.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/g10lo3w2k2g8k22g43lo4~x2/

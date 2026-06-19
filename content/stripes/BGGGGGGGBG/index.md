@@ -18,10 +18,10 @@ BGGGGGGGBG
 
 
 
-### DP G G G G G G G DP G <span class="pat"><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DP G G G G G G G DP G</span></span>
+### G DP G G G G G G G DP <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="seq">G DP G G G G G G G DP</span></span>
 
 | Tartans |
 |---------------|
-| [Walters (Personal)](/setts/s10/dp2g20g2g2g1g2g2g20dp2g2~x4/)|
-|![Walters (Personal) example sett](/setts/s10/dp2g20g2g2g1g2g2g20dp2g2~x4/sett.png)|
+| [Walters (Personal)](/setts/s10/g2dp2g20g2g2g1~x4/)|
+|![Walters (Personal) example sett](/setts/s10/g2dp2g20g2g2g1~x4/sett.png)|
 

@@ -8,7 +8,7 @@ GYWBRK
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/g3ly1w11dt16r24k3~x2/tartan.png)
+![Woven sample](/setts/s6/k3r24dt16w11ly1g3~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ GYWBRK
 
 
 
-### G LY W DT R K <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">G LY W DT R K</span></span>
+### K R DT W LY G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K R DT W LY G</span></span>
 
 | Tartans |
 |---------------|
-| [Bro-sant-Malou](/setts/s6/g3ly1w11dt16r24k3~x2/)|
-|![Bro-sant-Malou example sett](/setts/s6/g3ly1w11dt16r24k3~x2/sett.png)|
+| [Bro-sant-Malou](/setts/s6/k3r24dt16w11ly1g3~x2/)|
+|![Bro-sant-Malou example sett](/setts/s6/k3r24dt16w11ly1g3~x2/sett.png)|
 

@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [14 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4279
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified, Bedspread
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -17,7 +23,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1694
 
 ## Thread count
-LN/8 K6 R15 K5 R15 G54 Y5 K40 B15 K10 B15 R100 LN6 R/20
+R/20 LN6 R100 B15 K10 B15 K40 Y5 G54 R15 K5 R15 K6 LN/8
 ![Sett](sett.png)
 
 ## Palette
@@ -49,8 +55,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r26w1k8ly1dg13k1w4k1ly2k4t3r8~x4/"><circle cx="230.0" cy="67.5" r="4" fill="#3465a4"><title>Drummond Relic</title></circle></a><a href="/setts/s14/r20w6r100db15k10db15k40ly5g54r15k5r15k6w8/"><circle cx="211.4" cy="74.6" r="4" fill="#3465a4"><title>Unidentified, Bedspread</title></circle></a><a href="/setts/s15/r44g25k2w6k2ly3k16t12r6t12k16ly3k2w6r44~x2/"><circle cx="196.8" cy="71.4" r="4" fill="#3465a4"><title>Wilson's, No 17</title></circle></a><a href="/setts/s11/t14k8ly2k3w4k3dg21r48t4r5k3~x2/"><circle cx="233.9" cy="74.4" r="4" fill="#3465a4"><title>MacLean of Duart #5</title></circle></a><a href="/setts/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/"><circle cx="253.8" cy="70.7" r="4" fill="#3465a4"><title>Strathclyde Fire Services (Corporate</title></circle></a><a href="/setts/s14/db12r30db2lb2k8lb2k4ly2k4dg15r8k2r4lb2~x2/"><circle cx="190.7" cy="96.4" r="4" fill="#3465a4"><title>Brown of Castledean (Artefact)</title></circle></a><a href="/setts/s11/t8k4ly1k2w3k2dg12r24t2r3k2~x2/"><circle cx="206.3" cy="79.9" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/setts/s11/t14k8ly2k3w4k3g21r48t4r5k3~x2/"><circle cx="220.6" cy="71.3" r="4" fill="#3465a4"><title>MacLean of Duart 2</title></circle></a><a href="/setts/s11/r7k6r62k15r20n15lo10k16db10k3w6/"><circle cx="264.2" cy="98.5" r="4" fill="#3465a4"><title>Cork County Crest (Fashion)</title></circle></a><a href="/setts/s12/k2t6w1r14k1r14w1k6dg10lo1dg2lo2~x2/"><circle cx="202.2" cy="112.9" r="4" fill="#3465a4"><title>Ogg of Tarragann</title></circle></a><circle cx="225.8" cy="77.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r26w1k8ly1dg13k1w4k1ly2k4t3r8~x4/"><circle cx="229.7" cy="67.6" r="4" fill="#3465a4"><title>Drummond Relic</title></circle></a><a href="/setts/s14/r20w6r100db15k10db15k40ly5g54r15k5r15k6w8/"><circle cx="211.2" cy="74.6" r="4" fill="#3465a4"><title>Unidentified, Bedspread</title></circle></a><a href="/setts/s15/r44g25k2w6k2ly3k16t12r6t12k16ly3k2w6r44~x2/"><circle cx="196.5" cy="71.4" r="4" fill="#3465a4"><title>Wilson's, No 17</title></circle></a><a href="/setts/s11/t14k8ly2k3w4k3dg21r48t4r5k3~x2/"><circle cx="233.6" cy="74.5" r="4" fill="#3465a4"><title>MacLean of Duart #5</title></circle></a><a href="/setts/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/"><circle cx="253.5" cy="70.8" r="4" fill="#3465a4"><title>Strathclyde Fire Services (Corporate</title></circle></a><a href="/setts/s14/db12r30db2lb2k8lb2k4ly2k4dg15r8k2r4lb2~x2/"><circle cx="190.6" cy="96.6" r="4" fill="#3465a4"><title>Brown of Castledean (Artefact)</title></circle></a><a href="/setts/s11/t8k4ly1k2w3k2dg12r24t2r3k2~x2/"><circle cx="206.0" cy="80.0" r="4" fill="#3465a4"><title>MacLean of Duart #2</title></circle></a><a href="/setts/s11/t14k8ly2k3w4k3g21r48t4r5k3~x2/"><circle cx="220.3" cy="71.4" r="4" fill="#3465a4"><title>MacLean of Duart 2</title></circle></a><a href="/setts/s11/r7k6r62k15r20n15lo10k16db10k3w6/"><circle cx="263.9" cy="98.5" r="4" fill="#3465a4"><title>Cork County Crest (Fashion)</title></circle></a><a href="/setts/s12/k2t6w1r14k1r14w1k6dg10lo1dg2lo2~x2/"><circle cx="201.9" cy="113.0" r="4" fill="#3465a4"><title>Ogg of Tarragann</title></circle></a><circle cx="225.6" cy="77.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/r20w6r100db15k10db15k40ly5dg54r15k5r15k6w8/

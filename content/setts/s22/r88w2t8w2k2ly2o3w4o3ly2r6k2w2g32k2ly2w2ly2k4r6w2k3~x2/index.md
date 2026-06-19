@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-K/6 LN4 R12 K8 Y4 LN4 Y4 K4 G64 LN4 K4 R12 Y4 LT6 LN8 LT6 Y4 K4 LN4 B16 LN4 R/176
+R/176 LN4 B16 LN4 K4 Y4 LT6 LN8 LT6 Y4 R12 K4 LN4 G64 K4 Y4 LN4 Y4 K8 R12 LN4 K/6
 ![Sett](sett.png)
 
 ## Palette
@@ -914,12 +917,12 @@ The nearest existing variants by ΔTartan distance.
 1. [MacBean (1847)](/setts/s19/r57w2k4db2w2db2k2w2k2g10k2w2r4m4g2m4r4w2g7~x2/) — ΔT 1.33
 1. [Chattan (Clan)](/setts/s16/r122k4w2g32w4ly7r7k2r7ly7w4t32k8r8ly12w4/) — ΔT 1.33
 1. [MacBean](/setts/s19/r24w1db2t1w1t1db2w1k1g6k1w1r2r2g1r2r2w1g3~x2/) — ΔT 1.34
-1. [Clan Chattan](/setts/s16/r60dg2lb1dg15lb2ly3r3k1r3ly3y2lb16k4r4ly6lb2~x2/) — ΔT 1.34
+1. [Clan Chattan](/setts/s16/r60dg2lb1dg15lb2ly3r3k1r3ly3y2lb16k4r4ly6lb2/) — ΔT 1.34
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s23/r88w2k4t8w2k2ly2dy3w4dy3ly2r6k2w2g32k2ly2w2ly2k4r6w2k3~x2/"><circle cx="305.8" cy="14.0" r="4" fill="#3465a4"><title>MacLeod of Gesto #2</title></circle></a><a href="/setts/s23/r88w2t8w2k2r2ly2dy3w4dy3ly2r6k2w2g32k2ly2w2ly2k4r6w2k3~x2/"><circle cx="325.7" cy="14.0" r="4" fill="#3465a4"><title>MacLeod of Gesto Clan Tartan Tartan Number: 1258. Earliest known date: pre 1850 Very similar to the sett recorded by Rhuriah MacLeod from a sample in a collection made for the Great Exhibition in London in 1851, now held by the Smith Institute in Stirling. The samples, made by Wilson's of Bannockburn, were donated to the institute anonymously in 1930. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s19/r60w2t5k2w2k2t5w2k2g12k2w2r5r5g2r5r5w2g10~x2/"><circle cx="297.8" cy="17.3" r="4" fill="#3465a4"><title>MacBain/MacBean</title></circle></a><a href="/setts/s16/r94k3w2g21w3ly3r5k2r5ly3w3y21k7r7ly8w4~x2/"><circle cx="347.7" cy="14.0" r="4" fill="#3465a4"><title>MacKintosh 8</title></circle></a><a href="/setts/s20/r60lb2lb5k2lb2k2lb5lb2k2dg12k2lb2r5r5dg2r5r5lb2k2dg6/"><circle cx="298.4" cy="14.0" r="4" fill="#3465a4"><title>MacBain</title></circle></a><a href="/setts/s23/r86w2t6w2k2r4ly2g4w2g4ly2r4k2w2g13k2ly2w2ly2k4r4w2k4~x2/"><circle cx="387.7" cy="14.0" r="4" fill="#3465a4"><title>MacLeod of Gesto (Clan)</title></circle></a><a href="/setts/s19/r57w2k4db2w2db2k2w2k2g10k2w2r4m4g2m4r4w2g7~x2/"><circle cx="325.8" cy="15.0" r="4" fill="#3465a4"><title>MacBean (1847)</title></circle></a><a href="/setts/s16/r122k4w2g32w4ly7r7k2r7ly7w4t32k8r8ly12w4/"><circle cx="325.4" cy="14.0" r="4" fill="#3465a4"><title>Chattan (Clan)</title></circle></a><a href="/setts/s19/r24w1db2t1w1t1db2w1k1g6k1w1r2r2g1r2r2w1g3~x2/"><circle cx="256.8" cy="14.0" r="4" fill="#3465a4"><title>MacBean</title></circle></a><a href="/setts/s16/r60dg2lb1dg15lb2ly3r3k1r3ly3y2lb16k4r4ly6lb2~x2/"><circle cx="324.6" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><circle cx="310.3" cy="14.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s23/r88w2k4t8w2k2ly2dy3w4dy3ly2r6k2w2g32k2ly2w2ly2k4r6w2k3~x2/"><circle cx="305.2" cy="14.0" r="4" fill="#3465a4"><title>MacLeod of Gesto #2</title></circle></a><a href="/setts/s23/r88w2t8w2k2r2ly2dy3w4dy3ly2r6k2w2g32k2ly2w2ly2k4r6w2k3~x2/"><circle cx="325.1" cy="14.0" r="4" fill="#3465a4"><title>MacLeod of Gesto Clan Tartan Tartan Number: 1258. Earliest known date: pre 1850 Very similar to the sett recorded by Rhuriah MacLeod from a sample in a collection made for the Great Exhibition in London in 1851, now held by the Smith Institute in Stirling. The samples, made by Wilson's of Bannockburn, were donated to the institute anonymously in 1930. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s19/r60w2t5k2w2k2t5w2k2g12k2w2r5r5g2r5r5w2g10~x2/"><circle cx="297.3" cy="17.3" r="4" fill="#3465a4"><title>MacBain/MacBean</title></circle></a><a href="/setts/s16/r94k3w2g21w3ly3r5k2r5ly3w3y21k7r7ly8w4~x2/"><circle cx="347.1" cy="14.0" r="4" fill="#3465a4"><title>MacKintosh 8</title></circle></a><a href="/setts/s20/r60lb2lb5k2lb2k2lb5lb2k2dg12k2lb2r5r5dg2r5r5lb2k2dg6/"><circle cx="297.9" cy="14.0" r="4" fill="#3465a4"><title>MacBain</title></circle></a><a href="/setts/s23/r86w2t6w2k2r4ly2g4w2g4ly2r4k2w2g13k2ly2w2ly2k4r4w2k4~x2/"><circle cx="387.1" cy="14.0" r="4" fill="#3465a4"><title>MacLeod of Gesto (Clan)</title></circle></a><a href="/setts/s19/r57w2k4db2w2db2k2w2k2g10k2w2r4m4g2m4r4w2g7~x2/"><circle cx="325.3" cy="15.0" r="4" fill="#3465a4"><title>MacBean (1847)</title></circle></a><a href="/setts/s16/r122k4w2g32w4ly7r7k2r7ly7w4t32k8r8ly12w4/"><circle cx="324.9" cy="14.0" r="4" fill="#3465a4"><title>Chattan (Clan)</title></circle></a><a href="/setts/s19/r24w1db2t1w1t1db2w1k1g6k1w1r2r2g1r2r2w1g3~x2/"><circle cx="256.4" cy="14.0" r="4" fill="#3465a4"><title>MacBean</title></circle></a><a href="/setts/s16/r60dg2lb1dg15lb2ly3r3k1r3ly3y2lb16k4r4ly6lb2/"><circle cx="324.0" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><circle cx="309.8" cy="14.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s22/r88w2t8w2k2ly2o3w4o3ly2r6k2w2g32k2ly2w2ly2k4r6w2k3~x2/

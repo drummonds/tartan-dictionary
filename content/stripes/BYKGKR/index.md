@@ -20,7 +20,7 @@ BYKGKR
 
 
 
-### N LY K DG K R <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">N LY K DG K R</span></span>
+### R K DG K LY N <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="seq">R K DG K LY N</span></span>
 
 | Tartans |
 |---------------|

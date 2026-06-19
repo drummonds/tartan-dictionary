@@ -2,7 +2,7 @@
 title: "Cadence Design Systems (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GRKGRGK](/stripes/grkgrgk/) · **Stripes:** [G R K G R G K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">G R K G R G K</span></span>
+**Bands:** [KGRGKRG](/stripes/kgrgkrg/) · **Stripes:** [K G R G K R G](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G R G K R G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
@@ -52,14 +52,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Guthrie (Name)](/setts/s9/k1g12k12r1k1r1k12b12r1~x4/) — ΔT 1.23
 1. [Unidentified Portrait](/setts/s9/g10r1g1r1g1r4db12r1db2~x2/) — ΔT 1.23
 1. [New Golf Club](/setts/s9/dg4k4dg23k11r2k2r2k20w4~x2/) — ΔT 1.24
-1. [Thayer USA](/setts/s6/r5db25w5db3dg25db3~x2/) — ΔT 1.24
-1. [Campbell of Loch Awe](/setts/s5/k2b11k26g11k2~x2/) — ΔT 1.28
-1. [West Point Military Academy (Mil.)](/setts/s8/k10o1k2o1k4o10ly1o2~x4/) — ΔT 1.28
+1. [Thayer USA](/setts/s6/r5db25w5db3dg25db3~x2/) — ΔT 1.25
+1. [Campbell of Loch Awe](/setts/s5/k2g11k26b11k2~x2/) — ΔT 1.28
+1. [Scottish National Party (Corporate)](/setts/s6/k3n31k3n3k27ly3~x2/) — ΔT 1.29
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db51dg5r15dg37db17r6dg5~x2/"><circle cx="311.1" cy="239.6" r="4" fill="#3465a4"><title>Cadence</title></circle></a><a href="/setts/s8/k10t1k2t1k4t10g1t2~x4/"><circle cx="310.2" cy="208.3" r="4" fill="#3465a4"><title>Martin's Own</title></circle></a><a href="/setts/s7/r3db1r1db11g10r2db2~x4/"><circle cx="295.6" cy="219.3" r="4" fill="#3465a4"><title>Robertson of Struan 1816</title></circle></a><a href="/setts/s7/r3dg10r3dg14db16dg3ly2/"><circle cx="263.6" cy="229.8" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/setts/s9/k1g12k12r1k1r1k12b12r1~x4/"><circle cx="256.3" cy="186.8" r="4" fill="#3465a4"><title>Guthrie (Name)</title></circle></a><a href="/setts/s9/g10r1g1r1g1r4db12r1db2~x2/"><circle cx="267.1" cy="190.1" r="4" fill="#3465a4"><title>Unidentified Portrait</title></circle></a><a href="/setts/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><circle cx="288.0" cy="193.3" r="4" fill="#3465a4"><title>New Golf Club</title></circle></a><a href="/setts/s6/r5db25w5db3dg25db3~x2/"><circle cx="250.3" cy="215.7" r="4" fill="#3465a4"><title>Thayer USA</title></circle></a><a href="/setts/s5/k2b11k26g11k2~x2/"><circle cx="350.3" cy="244.2" r="4" fill="#3465a4"><title>Campbell of Loch Awe</title></circle></a><a href="/setts/s8/k10o1k2o1k4o10ly1o2~x4/"><circle cx="309.7" cy="202.4" r="4" fill="#3465a4"><title>West Point Military Academy (Mil.)</title></circle></a><circle cx="279.1" cy="226.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db51dg5r15dg37db17r6dg5~x2/"><circle cx="311.2" cy="239.5" r="4" fill="#3465a4"><title>Cadence</title></circle></a><a href="/setts/s8/k10t1k2t1k4t10g1t2~x4/"><circle cx="310.1" cy="208.0" r="4" fill="#3465a4"><title>Martin's Own</title></circle></a><a href="/setts/s7/r3db1r1db11g10r2db2~x4/"><circle cx="295.5" cy="219.2" r="4" fill="#3465a4"><title>Robertson of Struan 1816</title></circle></a><a href="/setts/s7/r3dg10r3dg14db16dg3ly2/"><circle cx="263.7" cy="229.7" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/setts/s9/k1g12k12r1k1r1k12b12r1~x4/"><circle cx="256.3" cy="186.7" r="4" fill="#3465a4"><title>Guthrie (Name)</title></circle></a><a href="/setts/s9/g10r1g1r1g1r4db12r1db2~x2/"><circle cx="267.1" cy="189.9" r="4" fill="#3465a4"><title>Unidentified Portrait</title></circle></a><a href="/setts/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><circle cx="288.1" cy="193.2" r="4" fill="#3465a4"><title>New Golf Club</title></circle></a><a href="/setts/s6/r5db25w5db3dg25db3~x2/"><circle cx="250.4" cy="215.6" r="4" fill="#3465a4"><title>Thayer USA</title></circle></a><a href="/setts/s5/k2g11k26b11k2~x2/"><circle cx="350.4" cy="244.0" r="4" fill="#3465a4"><title>Campbell of Loch Awe</title></circle></a><a href="/setts/s6/k3n31k3n3k27ly3~x2/"><circle cx="341.9" cy="222.5" r="4" fill="#3465a4"><title>Scottish National Party (Corporate)</title></circle></a><circle cx="279.2" cy="226.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k51g5r15g37k17r6g7~x2/

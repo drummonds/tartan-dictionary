@@ -8,7 +8,7 @@ KWBW
 
 It is a 4 band tartan.
 
-![Woven sample](/setts/s4/k1w1do1w1~x8/tartan.png)
+![Woven sample](/setts/s4/k1w1do1~x8/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ KWBW
 
 | Tartans |
 |---------------|
-| [Hogg](/setts/s4/k1w1do1w1~x8/)|
-|![Hogg example sett](/setts/s4/k1w1do1w1~x8/sett.png)|
+| [Hogg](/setts/s4/k1w1do1~x8/)|
+|![Hogg example sett](/setts/s4/k1w1do1~x8/sett.png)|
 

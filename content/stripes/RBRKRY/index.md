@@ -8,7 +8,7 @@ RBRKRY
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/ly2o14k14o1dr14o2~x2/tartan.png)
+![Woven sample](/setts/s6/o2dr14o1k14o14ly2~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RBRKRY
 
 | Tartans |
 |---------------|
-| [United Distillers](/setts/s6/ly2o14k14o1dr14o2~x2/)|
-|![United Distillers example sett](/setts/s6/ly2o14k14o1dr14o2~x2/sett.png)|
+| [United Distillers](/setts/s6/o2dr14o1k14o14ly2~x2/)|
+|![United Distillers example sett](/setts/s6/o2dr14o1k14o14ly2~x2/sett.png)|
 

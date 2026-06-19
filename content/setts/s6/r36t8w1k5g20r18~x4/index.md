@@ -2,7 +2,7 @@
 title: "Sinclair"
 date: 2023-03-18
 ---
-**Bands:** [RBWKGR](/stripes/rbwkgr/) · **Stripes:** [R T W K G R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R T W K G R</span></span>
+**Bands:** [RGKWBR](/stripes/rgkwbr/) · **Stripes:** [R G K W T R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G K W T R</span></span>
 
 
 This was sourced from logan-1831.  It is a [6 band tartan](/bands/bands6/).
@@ -60,16 +60,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Sinclair (Logan)](/setts/s6/r28g16k4w1db6r28~x2/) — ΔT 0.96
 1. [MacPhail (Blue Bands)](/setts/s6/r40b8r6g24t1k4~x2/) — ΔT 1.01
 1. [Sinclair Dress](/setts/s6/r28dg16k4lr1b6r28~x2/) — ΔT 1.11
+1. [Sinclair Dress](/setts/s6/r28dg16k4lr1b6r28/) — ΔT 1.11
 1. [MacPhail](/setts/s6/r25db7r3g13t1k2~x4/) — ΔT 1.27
 1. [Sturrock, Blue/Black (Clan)](/setts/s7/r52b16k16g22r16lo3r16~x2/) — ΔT 1.31
 1. [MacGregor #4](/setts/s6/r41g19r7g8k1w3~x2/) — ΔT 1.32
-1. [Menzies](/setts/s8/r12g9w1t3r24t3w1g9~x8/) — ΔT 1.36
-1. [Greig (Personal)](/setts/s6/r60k2w3dg20r10dg20~x2/) — ΔT 1.37
+1. [Menzies](/setts/s8/r24t3w1g9r12~x8/) — ΔT 1.36
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g15k10r30dp2r20w1~x2/"><circle cx="397.8" cy="161.7" r="4" fill="#3465a4"><title>Kinnaird (Name)</title></circle></a><a href="/setts/s6/r28g16k4w1t6r28~x2/"><circle cx="404.4" cy="151.9" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s6/r28g16k4w1db6r28~x2/"><circle cx="416.4" cy="156.6" r="4" fill="#3465a4"><title>Sinclair (Logan)</title></circle></a><a href="/setts/s6/r40b8r6g24t1k4~x2/"><circle cx="364.7" cy="130.6" r="4" fill="#3465a4"><title>MacPhail (Blue Bands)</title></circle></a><a href="/setts/s6/r28dg16k4lr1b6r28~x2/"><circle cx="424.4" cy="165.6" r="4" fill="#3465a4"><title>Sinclair Dress</title></circle></a><a href="/setts/s6/r25db7r3g13t1k2~x4/"><circle cx="328.7" cy="142.7" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/setts/s7/r52b16k16g22r16lo3r16~x2/"><circle cx="317.3" cy="172.9" r="4" fill="#3465a4"><title>Sturrock, Blue/Black (Clan)</title></circle></a><a href="/setts/s6/r41g19r7g8k1w3~x2/"><circle cx="428.9" cy="138.0" r="4" fill="#3465a4"><title>MacGregor #4</title></circle></a><a href="/setts/s8/r12g9w1t3r24t3w1g9~x8/"><circle cx="374.5" cy="155.0" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s6/r60k2w3dg20r10dg20~x2/"><circle cx="420.0" cy="151.1" r="4" fill="#3465a4"><title>Greig (Personal)</title></circle></a><circle cx="380.5" cy="147.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g15k10r30dp2r20w1~x2/"><circle cx="397.5" cy="161.6" r="4" fill="#3465a4"><title>Kinnaird (Name)</title></circle></a><a href="/setts/s6/r28g16k4w1t6r28~x2/"><circle cx="404.0" cy="151.7" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/setts/s6/r28g16k4w1db6r28~x2/"><circle cx="416.0" cy="156.4" r="4" fill="#3465a4"><title>Sinclair (Logan)</title></circle></a><a href="/setts/s6/r40b8r6g24t1k4~x2/"><circle cx="364.3" cy="130.5" r="4" fill="#3465a4"><title>MacPhail (Blue Bands)</title></circle></a><a href="/setts/s6/r28dg16k4lr1b6r28~x2/"><circle cx="424.1" cy="165.5" r="4" fill="#3465a4"><title>Sinclair Dress</title></circle></a><a href="/setts/s6/r28dg16k4lr1b6r28/"><circle cx="424.1" cy="165.5" r="4" fill="#3465a4"><title>Sinclair Dress</title></circle></a><a href="/setts/s6/r25db7r3g13t1k2~x4/"><circle cx="328.4" cy="142.6" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/setts/s7/r52b16k16g22r16lo3r16~x2/"><circle cx="317.0" cy="172.8" r="4" fill="#3465a4"><title>Sturrock, Blue/Black (Clan)</title></circle></a><a href="/setts/s6/r41g19r7g8k1w3~x2/"><circle cx="428.4" cy="137.8" r="4" fill="#3465a4"><title>MacGregor #4</title></circle></a><a href="/setts/s8/r24t3w1g9r12~x8/"><circle cx="374.1" cy="154.9" r="4" fill="#3465a4"><title>Menzies</title></circle></a><circle cx="380.1" cy="147.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r36t8w1k5g20r18~x4/

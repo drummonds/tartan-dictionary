@@ -18,10 +18,10 @@ BRBRGRGRBRGRGG
 
 
 
-### T R T R DG R DG R DB R DG R DG Y <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">T R T R DG R DG R DB R DG R DG Y</span></span>
+### Y DG R DG R DB R DG R DG R T R T <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="seq">Y DG R DG R DB R DG R DG R T R T</span></span>
 
 | Tartans |
 |---------------|
-| [Manx Heritage](/setts/s14/t3r3t2r3dg2r2dg2r17db10r2dg2r2dg19y3~x2/)|
-|![Manx Heritage example sett](/setts/s14/t3r3t2r3dg2r2dg2r17db10r2dg2r2dg19y3~x2/sett.png)|
+| [Manx Heritage](/setts/s14/y3dg19r2dg2r2db10r17dg2r2dg2r3t2r3t3~x2/)|
+|![Manx Heritage example sett](/setts/s14/y3dg19r2dg2r2db10r17dg2r2dg2r3t2r3t3~x2/sett.png)|
 

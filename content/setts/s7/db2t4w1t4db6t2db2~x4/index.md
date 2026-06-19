@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10103](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10103)
 
 ## Thread count
-B/8 Ba8 B24 Ba16 W4 Ba16 B/8
+B/8 Ba16 W4 Ba16 B24 Ba8 B/8
 ![Sett](sett.png)
 
 ## Palette
@@ -30,7 +30,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/8 Ba8 B24 Ba16 W4 Ba16 B/8 tartan")
+![Tartan detail](tartan.png "B/8 Ba16 W4 Ba16 B24 Ba8 B/8 tartan")
 
 ## Nearest tartans
 
@@ -49,8 +49,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db5t5w1t5db5t1~x4/"><circle cx="277.6" cy="304.4" r="4" fill="#3465a4"><title>Manx Cornaa (Personal)</title></circle></a><a href="/setts/s7/t2lb4w1lb4t6lb2t2~x4/"><circle cx="259.6" cy="275.1" r="4" fill="#3465a4"><title>Langdons (Corporate)</title></circle></a><a href="/setts/s4/t1db5t5w1~x4/"><circle cx="278.3" cy="295.4" r="4" fill="#3465a4"><title>Manx Cornaa (Personal)</title></circle></a><a href="/setts/s4/b1db5b5w1~x4/"><circle cx="295.0" cy="295.2" r="4" fill="#3465a4"><title>Manx, Cornaa</title></circle></a><a href="/setts/s8/db9b2db2ly1b7db2r1b4~x4/"><circle cx="305.8" cy="237.9" r="4" fill="#3465a4"><title>Mercer, Charles</title></circle></a><a href="/setts/s6/g6b1g7w1b7r1~x4/"><circle cx="312.3" cy="249.7" r="4" fill="#3465a4"><title>Norris (1957)</title></circle></a><a href="/setts/s7/b3k1g4k1b4g9k2~x4/"><circle cx="298.4" cy="245.6" r="4" fill="#3465a4"><title>Outdoorsmen (Fashion)</title></circle></a><a href="/setts/s7/b4lb4b8o8b12lb12ly1~x2/"><circle cx="240.7" cy="224.3" r="4" fill="#3465a4"><title>von Prondzynski (2016)</title></circle></a><a href="/setts/s8/g9b4k4b3k4b4g9k2~x4/"><circle cx="190.6" cy="282.7" r="4" fill="#3465a4"><title>Keith Clan</title></circle></a><a href="/setts/s6/db3t3db16t16db16w3~x2/"><circle cx="323.6" cy="272.0" r="4" fill="#3465a4"><title>Murray Taylor</title></circle></a><circle cx="271.1" cy="289.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db5t5w1t5db5t1~x4/"><circle cx="277.7" cy="304.2" r="4" fill="#3465a4"><title>Manx Cornaa (Personal)</title></circle></a><a href="/setts/s7/t2lb4w1lb4t6lb2t2~x4/"><circle cx="259.5" cy="274.9" r="4" fill="#3465a4"><title>Langdons (Corporate)</title></circle></a><a href="/setts/s4/t1db5t5w1~x4/"><circle cx="278.3" cy="295.1" r="4" fill="#3465a4"><title>Manx Cornaa (Personal)</title></circle></a><a href="/setts/s4/b1db5b5w1~x4/"><circle cx="294.9" cy="295.0" r="4" fill="#3465a4"><title>Manx, Cornaa</title></circle></a><a href="/setts/s8/db9b2db2ly1b7db2r1b4~x4/"><circle cx="305.8" cy="237.8" r="4" fill="#3465a4"><title>Mercer, Charles</title></circle></a><a href="/setts/s6/g6b1g7w1b7r1~x4/"><circle cx="312.2" cy="249.6" r="4" fill="#3465a4"><title>Norris (1957)</title></circle></a><a href="/setts/s7/b3k1g4k1b4g9k2~x4/"><circle cx="298.3" cy="245.4" r="4" fill="#3465a4"><title>Outdoorsmen (Fashion)</title></circle></a><a href="/setts/s7/b4lb4b8o8b12lb12ly1~x2/"><circle cx="240.6" cy="224.2" r="4" fill="#3465a4"><title>von Prondzynski (2016)</title></circle></a><a href="/setts/s8/g9b4k4b3k4b4g9k2~x4/"><circle cx="190.7" cy="282.5" r="4" fill="#3465a4"><title>Keith Clan</title></circle></a><a href="/setts/s6/db3t3db16t16db16w3~x2/"><circle cx="323.6" cy="271.7" r="4" fill="#3465a4"><title>Murray Taylor</title></circle></a><circle cx="271.2" cy="289.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/db2t4w1t4db6t2db2~x4/

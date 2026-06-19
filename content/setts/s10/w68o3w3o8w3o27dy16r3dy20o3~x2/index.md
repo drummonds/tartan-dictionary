@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 3675
 
 ## Thread count
-LTa/6 T40 DR6 T32 LTa54 LY6 LTa16 LY6 LTa6 LY/136
+LY/136 LTa6 LY6 LTa16 LY6 LTa54 T32 DR6 T40 LTa/6
 ![Sett](sett.png)
 
 ## Palette
@@ -41,16 +41,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Royal Stuart / Stewart](/setts/s11/r3w28k2w2k2w2g12r8k1r1w1~x2/) — ΔT 0.92
 1. [Scott Dress #2](/setts/s10/dg7r3k3w54dg24r5dg5w5dg5r5~x2/) — ΔT 1.13
 1. [Greater St. Louis Firefighters (Cor)](/setts/s9/n3w3w38n25r3n6w7n3r2~x2/) — ΔT 1.14
-1. [Scott, dress](/setts/s11/g4r2k1w30r10g14r4g5w2g5r4~x2/) — ΔT 1.15
+1. [Scott, dress](/setts/s11/r4g5w2g5r4g14r10w30k1r2g4~x2/) — ΔT 1.15
 1. [Waverley Check (Corporate)](/setts/s12/y22w2k3w1k1w1k1w7o5k1o2w1~x4/) — ΔT 1.22
 1. [Largs Dress (1983)](/setts/s13/w4r21db4o16db4o8db4o4w3db6w49r3w4/) — ΔT 1.28
 1. [Grant of Acharrow](/setts/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/) — ΔT 1.30
-1. [Hughes (USA) (Name)](/setts/s10/b4k12db3b4db3k3ly36db3b2ly3~x2/) — ΔT 1.31
+1. [Hughes (USA) (Name)](/setts/s10/b4k12db3b4db3k3ly36db3b2ly3~x2/) — ΔT 1.32
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/o68w3o3w8o3w3w24dy16r3dy20w3~x2/"><circle cx="292.8" cy="102.7" r="4" fill="#3465a4"><title>Ben Cleuch (Fashion)</title></circle></a><a href="/setts/s11/w60o3w3o8w3o3y24dt12o3dt16o4/"><circle cx="236.9" cy="96.5" r="4" fill="#3465a4"><title>Ben Ledi (Fashion)</title></circle></a><a href="/setts/s11/r3w28k2w2k2w2g12r8k1r1w1~x2/"><circle cx="290.1" cy="79.1" r="4" fill="#3465a4"><title>Royal Stuart / Stewart</title></circle></a><a href="/setts/s10/dg7r3k3w54dg24r5dg5w5dg5r5~x2/"><circle cx="279.8" cy="108.9" r="4" fill="#3465a4"><title>Scott Dress #2</title></circle></a><a href="/setts/s9/n3w3w38n25r3n6w7n3r2~x2/"><circle cx="267.7" cy="129.3" r="4" fill="#3465a4"><title>Greater St. Louis Firefighters (Cor)</title></circle></a><a href="/setts/s11/g4r2k1w30r10g14r4g5w2g5r4~x2/"><circle cx="235.8" cy="101.2" r="4" fill="#3465a4"><title>Scott, dress</title></circle></a><a href="/setts/s12/y22w2k3w1k1w1k1w7o5k1o2w1~x4/"><circle cx="266.9" cy="89.9" r="4" fill="#3465a4"><title>Waverley Check (Corporate)</title></circle></a><a href="/setts/s13/w4r21db4o16db4o8db4o4w3db6w49r3w4/"><circle cx="245.6" cy="101.5" r="4" fill="#3465a4"><title>Largs Dress (1983)</title></circle></a><a href="/setts/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="261.1" cy="80.2" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/setts/s10/b4k12db3b4db3k3ly36db3b2ly3~x2/"><circle cx="270.8" cy="102.8" r="4" fill="#3465a4"><title>Hughes (USA) (Name)</title></circle></a><circle cx="271.7" cy="99.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/o68w3o3w8o3w3w24dy16r3dy20w3~x2/"><circle cx="292.3" cy="102.6" r="4" fill="#3465a4"><title>Ben Cleuch (Fashion)</title></circle></a><a href="/setts/s11/w60o3w3o8w3o3y24dt12o3dt16o4/"><circle cx="236.4" cy="96.4" r="4" fill="#3465a4"><title>Ben Ledi (Fashion)</title></circle></a><a href="/setts/s11/r3w28k2w2k2w2g12r8k1r1w1~x2/"><circle cx="289.5" cy="78.9" r="4" fill="#3465a4"><title>Royal Stuart / Stewart</title></circle></a><a href="/setts/s10/dg7r3k3w54dg24r5dg5w5dg5r5~x2/"><circle cx="279.4" cy="108.7" r="4" fill="#3465a4"><title>Scott Dress #2</title></circle></a><a href="/setts/s9/n3w3w38n25r3n6w7n3r2~x2/"><circle cx="267.3" cy="129.2" r="4" fill="#3465a4"><title>Greater St. Louis Firefighters (Cor)</title></circle></a><a href="/setts/s11/r4g5w2g5r4g14r10w30k1r2g4~x2/"><circle cx="235.4" cy="101.1" r="4" fill="#3465a4"><title>Scott, dress</title></circle></a><a href="/setts/s12/y22w2k3w1k1w1k1w7o5k1o2w1~x4/"><circle cx="266.4" cy="89.8" r="4" fill="#3465a4"><title>Waverley Check (Corporate)</title></circle></a><a href="/setts/s13/w4r21db4o16db4o8db4o4w3db6w49r3w4/"><circle cx="245.1" cy="101.5" r="4" fill="#3465a4"><title>Largs Dress (1983)</title></circle></a><a href="/setts/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="260.6" cy="80.1" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/setts/s10/b4k12db3b4db3k3ly36db3b2ly3~x2/"><circle cx="270.4" cy="102.6" r="4" fill="#3465a4"><title>Hughes (USA) (Name)</title></circle></a><circle cx="271.1" cy="99.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/

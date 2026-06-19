@@ -17,7 +17,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7168
 
 ## Thread count
-Na/4 DR20 Na20 N6 DR4 Nb48 W/4
+W/4 Nb48 DR4 N6 Na20 DR20 Na/4
 ![Sett](sett.png)
 
 ## Palette
@@ -33,27 +33,27 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "Na/4 DR20 Na20 N6 DR4 Nb48 W/4 tartan")
+![Tartan detail](tartan.png "W/4 Nb48 DR4 N6 Na20 DR20 Na/4 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Afternoon Tea / Milk Tea](/setts/s6/lg15do8r25do72lo98w15/) — ΔT 0.87
+1. [Afternoon Tea / Milk Tea](/setts/s6/w15lo98do72r25do8lg15/) — ΔT 0.87
 1. [Spragg (Name)](/setts/s7/r2g16r1r2r12ly1t1~x2/) — ΔT 0.98
 1. [Barbour Dress](/setts/s7/o4do2o21db11w2o20r3~x2/) — ΔT 1.17
 1. [Duminiak (Personal)](/setts/s6/o47w6r24w3dt5lo3~x2/) — ΔT 1.17
 1. [Hutcheson (Name)](/setts/s6/dt8y4r30g30lo3g4~x2/) — ΔT 1.20
-1. [Brodie, Silver](/setts/s7/r3lb20y20n20ly2n20r3~x2/) — ΔT 1.20
-1. [Brodie Silver](/setts/s7/r3lb20o20n20k2n20r3~x2/) — ΔT 1.20
+1. [Brodie, Silver](/setts/s7/r3n20ly2n20y20lb20r3~x2/) — ΔT 1.20
+1. [Brodie Silver](/setts/s7/r3n20k2n20o20lb20r3~x2/) — ΔT 1.20
 1. [Scotland 2000 Commemorative Tartan Tartan Number: 2514. Earliest known date: 1999 Strathmore Woollen Mills Millenium tartan designed by Arthur Mackie of Strathmore Woollen Co., Forfar See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/w4t30g6r2g6r28ly2r3~x2/) — ΔT 1.23
 1. [Hebridean Granite (Fashion)](/setts/s8/o3lr4o4k4o18k3n36w3~x2/) — ΔT 1.23
 1. [Balfour](/setts/s6/db30ly3dy11ly3y33r6~x2/) — ΔT 1.26
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/lg15do8r25do72lo98w15/"><circle cx="228.1" cy="181.5" r="4" fill="#3465a4"><title>Afternoon Tea / Milk Tea</title></circle></a><a href="/setts/s7/r2g16r1r2r12ly1t1~x2/"><circle cx="299.5" cy="152.3" r="4" fill="#3465a4"><title>Spragg (Name)</title></circle></a><a href="/setts/s7/o4do2o21db11w2o20r3~x2/"><circle cx="190.0" cy="167.3" r="4" fill="#3465a4"><title>Barbour Dress</title></circle></a><a href="/setts/s6/o47w6r24w3dt5lo3~x2/"><circle cx="326.0" cy="158.5" r="4" fill="#3465a4"><title>Duminiak (Personal)</title></circle></a><a href="/setts/s6/dt8y4r30g30lo3g4~x2/"><circle cx="256.2" cy="199.9" r="4" fill="#3465a4"><title>Hutcheson (Name)</title></circle></a><a href="/setts/s7/r3lb20y20n20ly2n20r3~x2/"><circle cx="221.7" cy="207.7" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><a href="/setts/s7/r3lb20o20n20k2n20r3~x2/"><circle cx="220.2" cy="207.2" r="4" fill="#3465a4"><title>Brodie Silver</title></circle></a><a href="/setts/s8/w4t30g6r2g6r28ly2r3~x2/"><circle cx="238.7" cy="147.7" r="4" fill="#3465a4"><title>Scotland 2000 Commemorative Tartan Tartan Number: 2514. Earliest known date: 1999 Strathmore Woollen Mills Millenium tartan designed by Arthur Mackie of Strathmore Woollen Co., Forfar See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/o3lr4o4k4o18k3n36w3~x2/"><circle cx="291.8" cy="166.8" r="4" fill="#3465a4"><title>Hebridean Granite (Fashion)</title></circle></a><a href="/setts/s6/db30ly3dy11ly3y33r6~x2/"><circle cx="214.4" cy="196.7" r="4" fill="#3465a4"><title>Balfour</title></circle></a><circle cx="251.6" cy="169.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/w15lo98do72r25do8lg15/"><circle cx="227.8" cy="181.5" r="4" fill="#3465a4"><title>Afternoon Tea / Milk Tea</title></circle></a><a href="/setts/s7/r2g16r1r2r12ly1t1~x2/"><circle cx="299.2" cy="152.4" r="4" fill="#3465a4"><title>Spragg (Name)</title></circle></a><a href="/setts/s7/o4do2o21db11w2o20r3~x2/"><circle cx="189.8" cy="167.4" r="4" fill="#3465a4"><title>Barbour Dress</title></circle></a><a href="/setts/s6/o47w6r24w3dt5lo3~x2/"><circle cx="325.6" cy="158.5" r="4" fill="#3465a4"><title>Duminiak (Personal)</title></circle></a><a href="/setts/s6/dt8y4r30g30lo3g4~x2/"><circle cx="256.0" cy="199.9" r="4" fill="#3465a4"><title>Hutcheson (Name)</title></circle></a><a href="/setts/s7/r3n20ly2n20y20lb20r3~x2/"><circle cx="221.5" cy="207.7" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><a href="/setts/s7/r3n20k2n20o20lb20r3~x2/"><circle cx="220.1" cy="207.2" r="4" fill="#3465a4"><title>Brodie Silver</title></circle></a><a href="/setts/s8/w4t30g6r2g6r28ly2r3~x2/"><circle cx="238.5" cy="147.7" r="4" fill="#3465a4"><title>Scotland 2000 Commemorative Tartan Tartan Number: 2514. Earliest known date: 1999 Strathmore Woollen Mills Millenium tartan designed by Arthur Mackie of Strathmore Woollen Co., Forfar See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/o3lr4o4k4o18k3n36w3~x2/"><circle cx="291.6" cy="166.8" r="4" fill="#3465a4"><title>Hebridean Granite (Fashion)</title></circle></a><a href="/setts/s6/db30ly3dy11ly3y33r6~x2/"><circle cx="214.3" cy="196.8" r="4" fill="#3465a4"><title>Balfour</title></circle></a><circle cx="251.4" cy="170.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/n2r10n10o3r2lr24w2~x2/

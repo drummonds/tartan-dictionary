@@ -22,6 +22,6 @@ BWRWKBWBWGBGRKRKRKRGBGWBWBKWRW
 
 | Tartans |
 |---------------|
-| [Gordon, Red (1819)](/setts/s30/dp16w2r7w2k14t6w2dp15w2dg17t6dg6r8k6r8k2r8k6r8dg6t6dg17w2dp15w2t6k14w2r7w2~x2/)|
-|![Gordon, Red (1819) example sett](/setts/s30/dp16w2r7w2k14t6w2dp15w2dg17t6dg6r8k6r8k2r8k6r8dg6t6dg17w2dp15w2t6k14w2r7w2~x2/sett.png)|
+| [Gordon, Red (1819)](/setts/s30/dp16w2r7w2k14t6w2dp15w2dg17t6dg6r8k6r8k2~x2/)|
+|![Gordon, Red (1819) example sett](/setts/s30/dp16w2r7w2k14t6w2dp15w2dg17t6dg6r8k6r8k2~x2/sett.png)|
 

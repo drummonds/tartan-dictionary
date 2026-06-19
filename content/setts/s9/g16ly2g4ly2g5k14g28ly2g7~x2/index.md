@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -915,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k3ly2g18w3g18k3ly4k3g18w3~x2/"><circle cx="179.4" cy="164.9" r="4" fill="#3465a4"><title>Forrester / Foster, hunting</title></circle></a><a href="/setts/s10/k3ly2g18w3g13k3ly4k3g18w3~x2/"><circle cx="165.3" cy="168.1" r="4" fill="#3465a4"><title>Forrester/Foster Hunting</title></circle></a><a href="/setts/s7/m5dg27o2g25ly7dg3m3~x2/"><circle cx="202.8" cy="165.0" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/setts/s9/g40k8g4k8g4m14g64t9g3/"><circle cx="231.5" cy="134.4" r="4" fill="#3465a4"><title>West Lothian/Linlithgowshire</title></circle></a><a href="/setts/s11/g1k1g9k7ly1g5g4w2g1w1g1~x4/"><circle cx="187.2" cy="163.8" r="4" fill="#3465a4"><title>Parkhead</title></circle></a><a href="/setts/s10/g2k1g14r2g2k10g2r4k1w2~x4/"><circle cx="247.8" cy="149.6" r="4" fill="#3465a4"><title>MacCarthy (Fashion?)</title></circle></a><a href="/setts/s8/g21w2g21k17dg12dp6k2w1~x2/"><circle cx="236.1" cy="160.3" r="4" fill="#3465a4"><title>Hibernian F. C. (2004) (C orporate)</title></circle></a><a href="/setts/s7/g5k2g28k10o26db4g4~x2/"><circle cx="253.6" cy="191.0" r="4" fill="#3465a4"><title>John Telfar, Dunbar hunting</title></circle></a><a href="/setts/s7/g18k2lr2k2t3k2ly6~x4/"><circle cx="209.8" cy="159.7" r="4" fill="#3465a4"><title>Alberta</title></circle></a><a href="/setts/s9/ly24k2ly3k2ly3k8dg24k2dg5~x2/"><circle cx="219.6" cy="163.8" r="4" fill="#3465a4"><title>Jamaican National</title></circle></a><circle cx="207.4" cy="171.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k3ly2g18w3g18k3ly4k3g18w3~x2/"><circle cx="179.2" cy="164.8" r="4" fill="#3465a4"><title>Forrester / Foster, hunting</title></circle></a><a href="/setts/s10/k3ly2g18w3g13k3ly4k3g18w3~x2/"><circle cx="165.2" cy="168.0" r="4" fill="#3465a4"><title>Forrester/Foster Hunting</title></circle></a><a href="/setts/s7/m5dg27o2g25ly7dg3m3~x2/"><circle cx="202.7" cy="165.0" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/setts/s9/g40k8g4k8g4m14g64t9g3/"><circle cx="231.3" cy="134.4" r="4" fill="#3465a4"><title>West Lothian/Linlithgowshire</title></circle></a><a href="/setts/s11/g1k1g9k7ly1g5g4w2g1w1g1~x4/"><circle cx="187.1" cy="163.7" r="4" fill="#3465a4"><title>Parkhead</title></circle></a><a href="/setts/s10/g2k1g14r2g2k10g2r4k1w2~x4/"><circle cx="247.6" cy="149.5" r="4" fill="#3465a4"><title>MacCarthy (Fashion?)</title></circle></a><a href="/setts/s8/g21w2g21k17dg12dp6k2w1~x2/"><circle cx="236.0" cy="160.2" r="4" fill="#3465a4"><title>Hibernian F. C. (2004) (C orporate)</title></circle></a><a href="/setts/s7/g5k2g28k10o26db4g4~x2/"><circle cx="253.5" cy="190.9" r="4" fill="#3465a4"><title>John Telfar, Dunbar hunting</title></circle></a><a href="/setts/s7/g18k2lr2k2t3k2ly6~x4/"><circle cx="209.6" cy="159.6" r="4" fill="#3465a4"><title>Alberta</title></circle></a><a href="/setts/s9/ly24k2ly3k2ly3k8dg24k2dg5~x2/"><circle cx="219.3" cy="163.6" r="4" fill="#3465a4"><title>Jamaican National</title></circle></a><circle cx="207.3" cy="171.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/g16ly2g4ly2g5k14g28ly2g7~x2/

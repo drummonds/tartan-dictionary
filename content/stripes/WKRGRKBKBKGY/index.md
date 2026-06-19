@@ -19,19 +19,19 @@ WKRGRKBKBKGY
 Grouped by stripe pattern — the 2 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### W K R G R K DB K DB K G LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W K R G R K DB K DB K G LY</span></span>
+### LY G K DB K DB K R G R K W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY G K DB K DB K R G R K W</span></span>
 
 | Tartans |
 |---------------|
-| [Boyd](/setts/s12/ly5g22k2db2k2db2k10r38g5r4k4w5~x2/)|
-|![Boyd example sett](/setts/s12/ly5g22k2db2k2db2k10r38g5r4k4w5~x2/sett.png)|
-| [Boyd](/setts/s12/ly1g6k1db1k1db1k6r12g1r1k1w1~x4/)|
-|![Boyd example sett](/setts/s12/ly1g6k1db1k1db1k6r12g1r1k1w1~x4/sett.png)|
+| [Boyd](/setts/s12/w5k4r4g5r38k10db2k2db2k2g22ly5~x2/)|
+|![Boyd example sett](/setts/s12/w5k4r4g5r38k10db2k2db2k2g22ly5~x2/sett.png)|
+| [Boyd](/setts/s12/w1k1r1g1r12k6db1k1db1k1g6ly1~x4/)|
+|![Boyd example sett](/setts/s12/w1k1r1g1r12k6db1k1db1k1g6ly1~x4/sett.png)|
 
-### LB K R DG R K DB K DB K DG LY <span class="pat"><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LB K R DG R K DB K DB K DG LY</span></span>
+### LY DG K DB K DB K R DG R K LB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="seq">LY DG K DB K DB K R DG R K LB</span></span>
 
 | Tartans |
 |---------------|
-| [Boyd](/setts/s12/lb5k4r4dg5r38k10db2k2db2k2dg22ly5/)|
-|![Boyd example sett](/setts/s12/lb5k4r4dg5r38k10db2k2db2k2dg22ly5/sett.png)|
+| [Boyd](/setts/s12/ly5dg22k2db2k2db2k10r38dg5r4k4lb5/)|
+|![Boyd example sett](/setts/s12/ly5dg22k2db2k2db2k10r38dg5r4k4lb5/sett.png)|
 

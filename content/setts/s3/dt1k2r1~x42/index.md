@@ -2,7 +2,7 @@
 title: "Allen, Nicholas (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BKR](/stripes/bkr/) · **Stripes:** [DT K R](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">DT K R</span></span>
+**Bands:** [RKB](/stripes/rkb/) · **Stripes:** [R K DT](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">R K DT</span></span>
 
 
 This was sourced from tartans-authority.  It is a [3 band tartan](/bands/bands3/).
@@ -30,21 +30,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Wilson's No.200](/setts/s3/g4k7r4~x2/) — ΔT 1.28
+1. [Wilson's No.200](/setts/s3/r4k7g4~x2/) — ΔT 1.28
 1. [Wilson's No.198](/setts/s3/r4k7t4~x2/) — ΔT 1.35
 1. [Wilson's No.061](/setts/s3/r4dg7t4~x2/) — ΔT 1.52
 1. [Daks (Black)](/setts/s5/r3k6dy4k6y3~x2/) — ΔT 1.53
 1. [Wilson's, No 209](/setts/s3/p5g4t2~x2/) — ΔT 1.78
+1. [Gow](/setts/s5/r4dg4r1db4r4/) — ΔT 1.80
 1. [Wilson's No.202](/setts/s3/g7k4r4~x2/) — ΔT 1.84
-1. [Kazakhstan Relic](/setts/s4/db5k3db5lo5~x4/) — ΔT 1.90
+1. [Kazakhstan Relic](/setts/s4/lo5db5k3~x4/) — ΔT 1.90
 1. [Wilson's No.094](/setts/s4/g4k5g4r2~x2/) — ΔT 1.92
 1. [Agnew](/setts/s3/db53g42r14~x2/) — ΔT 1.97
-1. [Kazakhstan Relic (Artefact)](/setts/s3/lo5db5k3~x4/) — ΔT 2.00
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/g4k7r4~x2/"><circle cx="158.9" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.200</title></circle></a><a href="/setts/s3/r4k7t4~x2/"><circle cx="142.0" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.198</title></circle></a><a href="/setts/s3/r4dg7t4~x2/"><circle cx="161.7" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.061</title></circle></a><a href="/setts/s5/r3k6dy4k6y3~x2/"><circle cx="184.7" cy="348.3" r="4" fill="#3465a4"><title>Daks (Black)</title></circle></a><a href="/setts/s3/p5g4t2~x2/"><circle cx="185.6" cy="361.5" r="4" fill="#3465a4"><title>Wilson's, No 209</title></circle></a><a href="/setts/s3/g7k4r4~x2/"><circle cx="159.8" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.202</title></circle></a><a href="/setts/s4/db5k3db5lo5~x4/"><circle cx="171.4" cy="366.0" r="4" fill="#3465a4"><title>Kazakhstan Relic</title></circle></a><a href="/setts/s4/g4k5g4r2~x2/"><circle cx="200.0" cy="359.5" r="4" fill="#3465a4"><title>Wilson's No.094</title></circle></a><a href="/setts/s3/db53g42r14~x2/"><circle cx="252.0" cy="348.3" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/setts/s3/lo5db5k3~x4/"><circle cx="94.0" cy="366.0" r="4" fill="#3465a4"><title>Kazakhstan Relic (Artefact)</title></circle></a><circle cx="207.4" cy="366.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/r4k7g4~x2/"><circle cx="159.1" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.200</title></circle></a><a href="/setts/s3/r4k7t4~x2/"><circle cx="142.3" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.198</title></circle></a><a href="/setts/s3/r4dg7t4~x2/"><circle cx="161.9" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.061</title></circle></a><a href="/setts/s5/r3k6dy4k6y3~x2/"><circle cx="184.9" cy="348.2" r="4" fill="#3465a4"><title>Daks (Black)</title></circle></a><a href="/setts/s3/p5g4t2~x2/"><circle cx="185.7" cy="361.2" r="4" fill="#3465a4"><title>Wilson's, No 209</title></circle></a><a href="/setts/s5/r4dg4r1db4r4/"><circle cx="239.2" cy="322.3" r="4" fill="#3465a4"><title>Gow</title></circle></a><a href="/setts/s3/g7k4r4~x2/"><circle cx="160.0" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.202</title></circle></a><a href="/setts/s4/lo5db5k3~x4/"><circle cx="171.7" cy="366.0" r="4" fill="#3465a4"><title>Kazakhstan Relic</title></circle></a><a href="/setts/s4/g4k5g4r2~x2/"><circle cx="200.2" cy="359.2" r="4" fill="#3465a4"><title>Wilson's No.094</title></circle></a><a href="/setts/s3/db53g42r14~x2/"><circle cx="252.2" cy="348.1" r="4" fill="#3465a4"><title>Agnew</title></circle></a><circle cx="207.6" cy="366.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/dt1k2r1~x42/

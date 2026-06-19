@@ -22,6 +22,6 @@ WWBKWGWGWKWRWKWGWGWKBWWW
 
 | Tartans |
 |---------------|
-| [Diana Princess of Wales Memorial](/setts/s24/lb2w1lb12t6k3w1g1w1g4w2k1w1r1w1k1w2g4w1g1w1k3t6lb12w1~x4/)|
-|![Diana Princess of Wales Memorial example sett](/setts/s24/lb2w1lb12t6k3w1g1w1g4w2k1w1r1w1k1w2g4w1g1w1k3t6lb12w1~x4/sett.png)|
+| [Diana Princess of Wales Memorial](/setts/s24/lb2w1lb12t6k3w1g1w1g4w2k1w1r1~x4/)|
+|![Diana Princess of Wales Memorial example sett](/setts/s24/lb2w1lb12t6k3w1g1w1g4w2k1w1r1~x4/sett.png)|
 

@@ -22,6 +22,6 @@ RGRGKWKBYBY
 
 | Tartans |
 |---------------|
-| [Glasgow, City of Culture](/setts/s11/ly6db2ly2db23k2w4k2g21r2g2r6~x2/)|
-|![Glasgow, City of Culture example sett](/setts/s11/ly6db2ly2db23k2w4k2g21r2g2r6~x2/sett.png)|
+| [Glasgow, City of Culture](/setts/s11/r6g2r2g21k2w4k2db23ly2db2ly6~x2/)|
+|![Glasgow, City of Culture example sett](/setts/s11/r6g2r2g21k2w4k2db23ly2db2ly6~x2/sett.png)|
 

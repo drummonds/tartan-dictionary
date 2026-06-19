@@ -2,7 +2,7 @@
 title: "Rosslyn Chapel"
 date: 2023-03-18
 ---
-**Bands:** [GBBBYWYWYWR](/stripes/gbbbywywywr/) · **Stripes:** [G DB P DB LO W LO W LO W R](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">G DB P DB LO W LO W LO W R</span></span>
+**Bands:** [RWYWYWYBBBG](/stripes/rwywywybbbg/) · **Stripes:** [R W LO W LO W LO DB P DB G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R W LO W LO W LO DB P DB G</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -909,16 +912,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Un-named (USA Bedheads)](/setts/s13/k4lg9lb30k2lb4w5k2w2k1w2r7r15k3~x2/) — ΔT 0.99
 1. [Pride of Scotland Dress (Dance)](/setts/s11/g9m2m2k3m18m1db2g2db19w33db2~x2/) — ΔT 1.08
 1. [South Africa](/setts/s14/w4k1db24k1r8w2dg8w2db8k1ly2k8ly2k1~x2/) — ΔT 1.10
-1. [Chalk, Robert (Personal)](/setts/s11/dp2w5dp5ly11w5dg12lr1dg2lr26do2dp2~x2/) — ΔT 1.13
 1. [Norham and Ladykirk](/setts/s11/dg50db12o7db12r10w7k2w7k2w7r10~x2/) — ΔT 1.13
+1. [Chalk, Robert (Personal)](/setts/s11/dp2w5dp5ly11w5dg12lr1dg2lr26do2dp2~x2/) — ΔT 1.13
 1. [Tait #2](/setts/s12/w4k1r2k1g9k2b24k2r6k2g12ly2~x2/) — ΔT 1.15
 1. [Anstey (Personal)](/setts/s15/w6db6w3db44dg20g8dg2g8dg6r3dg2r3dg4w25lo4/) — ΔT 1.21
 1. [Nova Scotia Dress](/setts/s11/db2w20r1ly2dg8g4dg2g2dg2db20w2~x2/) — ΔT 1.21
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g12db1dp4db30lo3w2lo3w2lo3w10r4~x2/"><circle cx="191.5" cy="72.4" r="4" fill="#3465a4"><title>Rosslyn Chapel</title></circle></a><a href="/setts/s11/dt3db28w2ly2db1dg4dt8w3r4ly10dt2~x2/"><circle cx="198.7" cy="77.0" r="4" fill="#3465a4"><title>Colours of Hope</title></circle></a><a href="/setts/s13/k4lg9lb30k2lb4w5k2w2k1w2r7r15k3~x2/"><circle cx="164.0" cy="55.4" r="4" fill="#3465a4"><title>Un-named (USA Bedheads)</title></circle></a><a href="/setts/s11/g9m2m2k3m18m1db2g2db19w33db2~x2/"><circle cx="163.6" cy="59.3" r="4" fill="#3465a4"><title>Pride of Scotland Dress (Dance)</title></circle></a><a href="/setts/s14/w4k1db24k1r8w2dg8w2db8k1ly2k8ly2k1~x2/"><circle cx="191.2" cy="77.3" r="4" fill="#3465a4"><title>South Africa</title></circle></a><a href="/setts/s11/dp2w5dp5ly11w5dg12lr1dg2lr26do2dp2~x2/"><circle cx="154.6" cy="83.4" r="4" fill="#3465a4"><title>Chalk, Robert (Personal)</title></circle></a><a href="/setts/s11/dg50db12o7db12r10w7k2w7k2w7r10~x2/"><circle cx="165.0" cy="84.8" r="4" fill="#3465a4"><title>Norham and Ladykirk</title></circle></a><a href="/setts/s12/w4k1r2k1g9k2b24k2r6k2g12ly2~x2/"><circle cx="167.9" cy="90.5" r="4" fill="#3465a4"><title>Tait #2</title></circle></a><a href="/setts/s15/w6db6w3db44dg20g8dg2g8dg6r3dg2r3dg4w25lo4/"><circle cx="136.0" cy="72.3" r="4" fill="#3465a4"><title>Anstey (Personal)</title></circle></a><a href="/setts/s11/db2w20r1ly2dg8g4dg2g2dg2db20w2~x2/"><circle cx="138.4" cy="83.8" r="4" fill="#3465a4"><title>Nova Scotia Dress</title></circle></a><circle cx="196.0" cy="73.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/g12db1dp4db30lo3w2lo3w2lo3w10r4~x2/"><circle cx="191.4" cy="72.4" r="4" fill="#3465a4"><title>Rosslyn Chapel</title></circle></a><a href="/setts/s11/dt3db28w2ly2db1dg4dt8w3r4ly10dt2~x2/"><circle cx="198.6" cy="77.0" r="4" fill="#3465a4"><title>Colours of Hope</title></circle></a><a href="/setts/s13/k4lg9lb30k2lb4w5k2w2k1w2r7r15k3~x2/"><circle cx="163.7" cy="55.4" r="4" fill="#3465a4"><title>Un-named (USA Bedheads)</title></circle></a><a href="/setts/s11/g9m2m2k3m18m1db2g2db19w33db2~x2/"><circle cx="163.4" cy="59.3" r="4" fill="#3465a4"><title>Pride of Scotland Dress (Dance)</title></circle></a><a href="/setts/s14/w4k1db24k1r8w2dg8w2db8k1ly2k8ly2k1~x2/"><circle cx="191.1" cy="77.4" r="4" fill="#3465a4"><title>South Africa</title></circle></a><a href="/setts/s11/dg50db12o7db12r10w7k2w7k2w7r10~x2/"><circle cx="164.8" cy="84.9" r="4" fill="#3465a4"><title>Norham and Ladykirk</title></circle></a><a href="/setts/s11/dp2w5dp5ly11w5dg12lr1dg2lr26do2dp2~x2/"><circle cx="154.4" cy="83.5" r="4" fill="#3465a4"><title>Chalk, Robert (Personal)</title></circle></a><a href="/setts/s12/w4k1r2k1g9k2b24k2r6k2g12ly2~x2/"><circle cx="167.8" cy="90.6" r="4" fill="#3465a4"><title>Tait #2</title></circle></a><a href="/setts/s15/w6db6w3db44dg20g8dg2g8dg6r3dg2r3dg4w25lo4/"><circle cx="135.9" cy="72.4" r="4" fill="#3465a4"><title>Anstey (Personal)</title></circle></a><a href="/setts/s11/db2w20r1ly2dg8g4dg2g2dg2db20w2~x2/"><circle cx="138.2" cy="83.8" r="4" fill="#3465a4"><title>Nova Scotia Dress</title></circle></a><circle cx="195.8" cy="73.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/g12db1p4db30lo3w2lo3w2lo3w10r4~x2/

@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10175
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Ebdon-Muir
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -23,7 +29,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10175](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10175)
 
 ## Thread count
-LY/8 G20 P4 G20 P4 G20 K30 DB80 P/8
+P/8 DB80 K30 G20 P4 G20 P4 G20 LY/8
 ![Sett](sett.png)
 
 ## Palette
@@ -43,7 +49,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Daniel (Welsh Name)](/setts/s12/k5db26k2db4k2db26k3lr36k3dt30k3t2/) — ΔT 0.87
 1. [Ferguson (Tarlogie)](/setts/s9/b24k8g8r2g4k1w2k1g4~x2/) — ΔT 0.92
-1. [Miller](/setts/s8/lo2g6b9db30b9g15db6r2~x2/) — ΔT 0.95
+1. [Miller](/setts/s8/r2db6g15b9db30b9g6lo2~x2/) — ΔT 0.95
 1. [Alexander](/setts/s7/db24k8g8dp2g8k1w2~x2/) — ΔT 0.97
 1. [US Air Force Reserve Pipe Band Military Tartan Tartan Number: 2437. Earliest known date: 01/01/1988 One of a series of US Military tartans woven exclusively by the Strathmore Woollen Company of Forfar and adopted by the Band of the Air Force Reserve, Georgia, USA in the early 1990s. Although this has no official US Military recognition, it has been widely accepted by US servicemen and their families with Air Force connections as a representative design. Originally called 'Lady Jane of St Cirus', the design was shown to members of the pipe band who liked it sufficiently to adopt it (with Strathmore's agreement). See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/db44k3k20r3db8lg34db3db2lg15~x2/) — ΔT 1.01
 1. [US Air Force Reserve Pipe Band](/setts/s9/db44lo3k20r3db8lg34db3db2lg15~x2/) — ΔT 1.02
@@ -54,8 +60,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k5db26k2db4k2db26k3lr36k3dt30k3t2/"><circle cx="196.8" cy="132.0" r="4" fill="#3465a4"><title>Daniel (Welsh Name)</title></circle></a><a href="/setts/s9/b24k8g8r2g4k1w2k1g4~x2/"><circle cx="245.1" cy="127.1" r="4" fill="#3465a4"><title>Ferguson (Tarlogie)</title></circle></a><a href="/setts/s8/lo2g6b9db30b9g15db6r2~x2/"><circle cx="229.9" cy="180.8" r="4" fill="#3465a4"><title>Miller</title></circle></a><a href="/setts/s7/db24k8g8dp2g8k1w2~x2/"><circle cx="254.9" cy="159.1" r="4" fill="#3465a4"><title>Alexander</title></circle></a><a href="/setts/s9/db44k3k20r3db8lg34db3db2lg15~x2/"><circle cx="230.6" cy="139.1" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band Military Tartan Tartan Number: 2437. Earliest known date: 01/01/1988 One of a series of US Military tartans woven exclusively by the Strathmore Woollen Company of Forfar and adopted by the Band of the Air Force Reserve, Georgia, USA in the early 1990s. Although this has no official US Military recognition, it has been widely accepted by US servicemen and their families with Air Force connections as a representative design. Originally called 'Lady Jane of St Cirus', the design was shown to members of the pipe band who liked it sufficiently to adopt it (with Strathmore's agreement). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db44lo3k20r3db8lg34db3db2lg15~x2/"><circle cx="231.1" cy="138.5" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band</title></circle></a><a href="/setts/s11/t4g4r1db18t4k2g16r1db6t4k2~x2/"><circle cx="183.9" cy="139.7" r="4" fill="#3465a4"><title>Coopers &amp; Lybrand</title></circle></a><a href="/setts/s8/k17lb2k3db16t28db2t3lo2~x2/"><circle cx="199.3" cy="156.4" r="4" fill="#3465a4"><title>Banff and Buchan</title></circle></a><a href="/setts/s9/g28k2db3k11db3k2db17db4w2~x2/"><circle cx="186.8" cy="155.3" r="4" fill="#3465a4"><title>West of Wells</title></circle></a><a href="/setts/s9/g40k8g4k8g4r14db64t9db3/"><circle cx="261.2" cy="145.8" r="4" fill="#3465a4"><title>West Lothian</title></circle></a><circle cx="213.8" cy="147.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k5db26k2db4k2db26k3lr36k3dt30k3t2/"><circle cx="196.9" cy="132.1" r="4" fill="#3465a4"><title>Daniel (Welsh Name)</title></circle></a><a href="/setts/s9/b24k8g8r2g4k1w2k1g4~x2/"><circle cx="245.1" cy="127.0" r="4" fill="#3465a4"><title>Ferguson (Tarlogie)</title></circle></a><a href="/setts/s8/r2db6g15b9db30b9g6lo2~x2/"><circle cx="230.0" cy="180.7" r="4" fill="#3465a4"><title>Miller</title></circle></a><a href="/setts/s7/db24k8g8dp2g8k1w2~x2/"><circle cx="255.0" cy="159.1" r="4" fill="#3465a4"><title>Alexander</title></circle></a><a href="/setts/s9/db44k3k20r3db8lg34db3db2lg15~x2/"><circle cx="230.7" cy="139.1" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band Military Tartan Tartan Number: 2437. Earliest known date: 01/01/1988 One of a series of US Military tartans woven exclusively by the Strathmore Woollen Company of Forfar and adopted by the Band of the Air Force Reserve, Georgia, USA in the early 1990s. Although this has no official US Military recognition, it has been widely accepted by US servicemen and their families with Air Force connections as a representative design. Originally called 'Lady Jane of St Cirus', the design was shown to members of the pipe band who liked it sufficiently to adopt it (with Strathmore's agreement). See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/db44lo3k20r3db8lg34db3db2lg15~x2/"><circle cx="231.2" cy="138.4" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band</title></circle></a><a href="/setts/s11/t4g4r1db18t4k2g16r1db6t4k2~x2/"><circle cx="184.0" cy="139.7" r="4" fill="#3465a4"><title>Coopers &amp; Lybrand</title></circle></a><a href="/setts/s8/k17lb2k3db16t28db2t3lo2~x2/"><circle cx="199.5" cy="156.4" r="4" fill="#3465a4"><title>Banff and Buchan</title></circle></a><a href="/setts/s9/g28k2db3k11db3k2db17db4w2~x2/"><circle cx="187.0" cy="155.3" r="4" fill="#3465a4"><title>West of Wells</title></circle></a><a href="/setts/s9/g40k8g4k8g4r14db64t9db3/"><circle cx="261.3" cy="145.9" r="4" fill="#3465a4"><title>West Lothian</title></circle></a><circle cx="213.9" cy="147.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dp4db40k15g10dp2g10dp2g10w4~x2/

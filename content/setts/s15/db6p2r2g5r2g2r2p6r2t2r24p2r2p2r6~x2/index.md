@@ -2,7 +2,7 @@
 title: "Grant"
 date: 2023-03-18
 ---
-**Bands:** [BBRGRGRBRBRBRBR](/stripes/bbrgrgrbrbrbrbr/) · **Stripes:** [DB P R G R G R P R T R P R P R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB P R G R G R P R T R P R P R</span></span>
+**Bands:** [RBRBRBRBRGRGRBB](/stripes/rbrbrbrbrgrgrbb/) · **Stripes:** [R P R P R T R P R G R G R P DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#082077"></span><span class="seq">R P R P R T R P R G R G R P DB</span></span>
 
 
 This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/12 P4 R4 G10 R4 G4 R4 P12 R4 Ba4 R48 P4 R4 P4 R/12
+R/12 P4 R4 P4 R48 Ba4 R4 P12 R4 G4 R4 G10 R4 P4 B/12
 ![Sett](sett.png)
 
 ## Palette
@@ -923,8 +926,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r12dg1r1dy8r2dy1r1db3r1dy1r12dg1r1dg4~x2/"><circle cx="382.2" cy="147.1" r="4" fill="#3465a4"><title>MacColl #2</title></circle></a><a href="/setts/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/"><circle cx="353.6" cy="162.8" r="4" fill="#3465a4"><title>London Caledonian Games Association</title></circle></a><a href="/setts/s12/r6dg2r2dg3k2r2db16k3dg4r34lo2r2~x2/"><circle cx="369.6" cy="113.9" r="4" fill="#3465a4"><title>Methodist Church</title></circle></a><a href="/setts/s17/k2r3lb2r3db2r3db2r14dy2k2dy2k2dy2k2dy2r20lr2~x2/"><circle cx="366.1" cy="123.3" r="4" fill="#3465a4"><title>Wcwm 9275-1422-2</title></circle></a><a href="/setts/s14/r12dy1r1dg8r2dy1r1db3r1dy1r12dg1r1dg4~x2/"><circle cx="374.6" cy="142.8" r="4" fill="#3465a4"><title>MacColl #3</title></circle></a><a href="/setts/s12/r23g3ly1g3r2db18r2w1g3r2db2r23~x2/"><circle cx="390.6" cy="102.4" r="4" fill="#3465a4"><title>Mair (Personal)</title></circle></a><a href="/setts/s12/dy21m2w1ly3m2dy5m21ly1ly1ly1m1dy8~x2/"><circle cx="354.3" cy="117.1" r="4" fill="#3465a4"><title>Glendronach Corporate Tartan Tartan Number: 2293. Earliest known date: 1989 A copyright design created for the Glendronach Company. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/lo4r37db17r4db8r6do2r5db2r3lo4/"><circle cx="390.2" cy="132.3" r="4" fill="#3465a4"><title>Griffiths (Welsh Name)</title></circle></a><a href="/setts/s11/r4r34do20r4do8r6ly2r5do2r3r4/"><circle cx="401.8" cy="152.1" r="4" fill="#3465a4"><title>Morgan (Welsh Name)</title></circle></a><a href="/setts/s14/r12g1r1o8r2o1r1db3r1o1r12g1r1g4~x2/"><circle cx="413.4" cy="166.4" r="4" fill="#3465a4"><title>MacColl</title></circle></a><circle cx="360.9" cy="125.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r12dg1r1dy8r2dy1r1db3r1dy1r12dg1r1dg4~x2/"><circle cx="381.7" cy="147.0" r="4" fill="#3465a4"><title>MacColl #2</title></circle></a><a href="/setts/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/"><circle cx="353.1" cy="162.8" r="4" fill="#3465a4"><title>London Caledonian Games Association</title></circle></a><a href="/setts/s12/r6dg2r2dg3k2r2db16k3dg4r34lo2r2~x2/"><circle cx="369.2" cy="113.9" r="4" fill="#3465a4"><title>Methodist Church</title></circle></a><a href="/setts/s17/k2r3lb2r3db2r3db2r14dy2k2dy2k2dy2k2dy2r20lr2~x2/"><circle cx="365.8" cy="123.4" r="4" fill="#3465a4"><title>Wcwm 9275-1422-2</title></circle></a><a href="/setts/s14/r12dy1r1dg8r2dy1r1db3r1dy1r12dg1r1dg4~x2/"><circle cx="374.1" cy="142.7" r="4" fill="#3465a4"><title>MacColl #3</title></circle></a><a href="/setts/s12/r23g3ly1g3r2db18r2w1g3r2db2r23~x2/"><circle cx="390.1" cy="102.3" r="4" fill="#3465a4"><title>Mair (Personal)</title></circle></a><a href="/setts/s12/dy21m2w1ly3m2dy5m21ly1ly1ly1m1dy8~x2/"><circle cx="353.9" cy="117.1" r="4" fill="#3465a4"><title>Glendronach Corporate Tartan Tartan Number: 2293. Earliest known date: 1989 A copyright design created for the Glendronach Company. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/lo4r37db17r4db8r6do2r5db2r3lo4/"><circle cx="389.8" cy="132.2" r="4" fill="#3465a4"><title>Griffiths (Welsh Name)</title></circle></a><a href="/setts/s11/r4r34do20r4do8r6ly2r5do2r3r4/"><circle cx="401.3" cy="152.1" r="4" fill="#3465a4"><title>Morgan (Welsh Name)</title></circle></a><a href="/setts/s14/r12g1r1o8r2o1r1db3r1o1r12g1r1g4~x2/"><circle cx="412.9" cy="166.4" r="4" fill="#3465a4"><title>MacColl</title></circle></a><circle cx="360.5" cy="126.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/db6p2r2g5r2g2r2p6r2t2r24p2r2p2r6~x2/

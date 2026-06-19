@@ -2,7 +2,7 @@
 title: "Black Watch"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBKGKGKBKBGKGKBKB](/stripes/bkbkbkgkgkbkbgkgkbkb/) · **Stripes:** [DB K DB K DB K DG K DG K DB K DB DG K DG K DB K DB](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DB K DG K DG K DB K DB DG K DG K DB K DB</span></span>
+**Bands:** [BKBKGKGBKBKGKGKBKBKB](/stripes/bkbkgkgbkbkgkgkbkbkb/) · **Stripes:** [DB K DB K DG K DG DB K DB K DG K DG K DB K DB K DB](/stripes/stripes20/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DG K DG DB K DB K DG K DG K DB K DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [20 band tartan](/bands/bands20/).
@@ -13,19 +13,29 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Variants
 
 Other setts woven to the same stripe pattern.
 
-- [Black Watch](/setts/s20/db22k2db2k2db2k16dg16k2dg16k16db16k2db2dg10k2dg10k8db9k1db1~x2/)
+- [Black Watch](/setts/s20/db22k2db2k2db2k16dg16k2dg16k16db16k2db2dg10k2dg10k8db9k1db1/)
 
 
 ## Thread count
@@ -47,19 +57,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Campbell](/setts/s13/db11k1db1k1db1k8dg8k1dg8k8db8k1db1/) — ΔT 0.98
 1. [Campbell](/setts/s13/db11k1db1k1db1k8dg8k1dg8k8db8k1db1~x2/) — ΔT 1.08
-1. [Stewart Old](/setts/s17/db12k1dg2k1dg2k1db12r2k12r1k12r2dg12k1db2k1dg12~x2/) — ΔT 1.27
+1. [Stewart Old](/setts/s17/dg12k1db2k1dg12r2k12r1k12r2db12k1dg2k1dg2k1db12/) — ΔT 1.13
+1. [Stewart Old](/setts/s17/dg12k1db2k1dg12r2k12r1k12r2db12k1dg2k1dg2k1db12~x2/) — ΔT 1.27
 1. [Royal Regiment of Scotland (Mltry)](/setts/s13/k11k1k1k1k1k8g8k1g8k8k8k1k1~x4/) — ΔT 1.29
 1. [Sutherland](/setts/s25/db22k2db2k2db2k16g16k2g16k16db16k2db2k2db16k16g16k2g16k16db2k2db2k2db11~x4/) — ΔT 1.34
-1. [Black Watch](/setts/s20/db22k2db2k2db2k16dg16k2dg16k16db16k2db2dg10k2dg10k8db9k1db1~x2/) — ΔT 1.37
+1. [Black Watch](/setts/s20/db22k2db2k2db2k16dg16k2dg16k16db16k2db2dg10k2dg10k8db9k1db1/) — ΔT 1.37
 1. [Forbes](/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2~x2/) — ΔT 1.38
 1. [Forbes](/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2/) — ΔT 1.38
-1. [Urquhart L](/setts/s13/dg8k1dg1k1dg1k8db8r1db8k8dg8k1dg1~x2/) — ΔT 1.39
 1. [Breadalbane Fencibles](/setts/s13/db8k1db1k1db1k8ly1dg14ly1k8db8k1db1/) — ΔT 1.44
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db11k1db1k1db1k8dg8k1dg8k8db8k1db1/"><circle cx="248.4" cy="222.1" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/setts/s13/db11k1db1k1db1k8dg8k1dg8k8db8k1db1~x2/"><circle cx="254.9" cy="224.9" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/setts/s17/db12k1dg2k1dg2k1db12r2k12r1k12r2dg12k1db2k1dg12~x2/"><circle cx="184.9" cy="166.2" r="4" fill="#3465a4"><title>Stewart Old</title></circle></a><a href="/setts/s13/k11k1k1k1k1k8g8k1g8k8k8k1k1~x4/"><circle cx="260.9" cy="227.1" r="4" fill="#3465a4"><title>Royal Regiment of Scotland (Mltry)</title></circle></a><a href="/setts/s25/db22k2db2k2db2k16g16k2g16k16db16k2db2k2db16k16g16k2g16k16db2k2db2k2db11~x4/"><circle cx="235.1" cy="194.6" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/setts/s20/db22k2db2k2db2k16dg16k2dg16k16db16k2db2dg10k2dg10k8db9k1db1~x2/"><circle cx="223.3" cy="165.6" r="4" fill="#3465a4"><title>Black Watch</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2~x2/"><circle cx="190.9" cy="208.8" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2/"><circle cx="190.9" cy="208.8" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/dg8k1dg1k1dg1k8db8r1db8k8dg8k1dg1~x2/"><circle cx="197.5" cy="216.4" r="4" fill="#3465a4"><title>Urquhart L</title></circle></a><a href="/setts/s13/db8k1db1k1db1k8ly1dg14ly1k8db8k1db1/"><circle cx="219.7" cy="175.4" r="4" fill="#3465a4"><title>Breadalbane Fencibles</title></circle></a><circle cx="225.8" cy="197.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db11k1db1k1db1k8dg8k1dg8k8db8k1db1/"><circle cx="248.7" cy="222.1" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/setts/s13/db11k1db1k1db1k8dg8k1dg8k8db8k1db1~x2/"><circle cx="255.2" cy="224.9" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/setts/s17/dg12k1db2k1dg12r2k12r1k12r2db12k1dg2k1dg2k1db12/"><circle cx="199.4" cy="173.6" r="4" fill="#3465a4"><title>Stewart Old</title></circle></a><a href="/setts/s17/dg12k1db2k1dg12r2k12r1k12r2db12k1dg2k1dg2k1db12~x2/"><circle cx="185.1" cy="166.3" r="4" fill="#3465a4"><title>Stewart Old</title></circle></a><a href="/setts/s13/k11k1k1k1k1k8g8k1g8k8k8k1k1~x4/"><circle cx="261.1" cy="227.2" r="4" fill="#3465a4"><title>Royal Regiment of Scotland (Mltry)</title></circle></a><a href="/setts/s25/db22k2db2k2db2k16g16k2g16k16db16k2db2k2db16k16g16k2g16k16db2k2db2k2db11~x4/"><circle cx="235.2" cy="194.7" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/setts/s20/db22k2db2k2db2k16dg16k2dg16k16db16k2db2dg10k2dg10k8db9k1db1/"><circle cx="223.5" cy="165.8" r="4" fill="#3465a4"><title>Black Watch</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2~x2/"><circle cx="191.2" cy="208.9" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2/"><circle cx="191.2" cy="208.9" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/db8k1db1k1db1k8ly1dg14ly1k8db8k1db1/"><circle cx="219.9" cy="175.5" r="4" fill="#3465a4"><title>Breadalbane Fencibles</title></circle></a><circle cx="226.0" cy="197.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s20/db12k1db1k1db1k8dg8k1dg8k8db8k1db1dg6k1dg6k3db4k1db1/

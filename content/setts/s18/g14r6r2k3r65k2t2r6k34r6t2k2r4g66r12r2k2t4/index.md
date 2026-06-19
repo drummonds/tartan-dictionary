@@ -2,7 +2,7 @@
 title: "Stewart of Ardshiel"
 date: 2023-03-18
 ---
-**Bands:** [BKRRGRKBRKRBKRKRRG](/stripes/bkrrgrkbrkrbkrkrrg/) · **Stripes:** [T K R R G R K T R K R T K R K R R G](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">T K R R G R K T R K R T K R K R R G</span></span>
+**Bands:** [GRRKRKBRKRBKRGRRKB](/stripes/grrkrkbrkrbkrgrrkb/) · **Stripes:** [G R R K R K T R K R T K R G R R K T](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">G R R K R K T R K R T K R G R R K T</span></span>
 
 
 This was sourced from weddslist.  It is a [18 band tartan](/bands/bands18/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/4 DB2 R2 Ra12 G66 Ra4 DB2 B2 Ra6 DB34 Ra6 B2 DB2 Ra65 DB3 R2 Ra6 G/14
+G/14 Ra6 R2 DB3 Ra65 DB2 B2 Ra6 DB34 Ra6 B2 DB2 Ra4 G66 Ra12 R2 DB2 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -909,15 +912,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Dundas, (Red)](/setts/s18/g4r4dp1k1r19k1t1r2db5r2t1k1r2g24r5dp1k1t3~x2/) — ΔT 1.11
 1. [Stewart of Ardshiel Clan Tartan Tartan Number: 73. Earliest known date: 1822 There are minor differences between the warp and weft in the blue not shown in the illustration. This is the earliest record of a Stewart of Ardshiel tartan. It differs from the Stewart of Appin in that the Red is interchanged with the blue. Ardshiel is part of Appin and it may be a variation on a sett common to the area. Stewarts of Ardshiel are regarded as a sept of the Appin branch. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/g14r6r2dt3r65dt2t2r6dt34r6t2dt2r4g66r12r2dt2t4/) — ΔT 1.14
 1. [Metcalf (Clan)](/setts/s19/r44g18lb5dt2lb2dt3lb9k7lb5k7lb9dt3lb2dt2lb5r16g3r5dt2~x2/) — ΔT 1.15
-1. [MacDougall](/setts/s20/lb1r3r1dg23r3dg1r3db6r4r1r4dg6r6dg6r2db1r24r1r1lb1/) — ΔT 1.16
+1. [MacDougall](/setts/s20/lb1r3r1dg23r3dg1r3db6r4r1r4dg6r6dg6r2db1r24r1r1lb1~x2/) — ΔT 1.16
 1. [Unidentified 15](/setts/s17/g4r3t1p1r35p1t1r3p16r3t1p1r2g35r7k1t2~x2/) — ΔT 1.20
-1. [MacDougall 7](/setts/s20/w1p2r1g22r3g1r3db9p2r1p2g8r8g8r1db1r22p2r2w1~x2/) — ΔT 1.23
+1. [MacDougall 7](/setts/s20/w1r2p2r22db1r1g8r8g8p2r1p2db9r3g1r3g22r1p2w1~x2/) — ΔT 1.23
 1. [MacDougall (Paton)](/setts/s20/w1dp2r1dg22r3dg1r3db9dp2r1dp2dg8r8dg8r1db1r22dp2r2w1~x2/) — ΔT 1.24
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/dg14r6r2k3r65k2t2r6k34r6t2k2r4dg66r12r2k2t4/"><circle cx="276.1" cy="55.8" r="4" fill="#3465a4"><title>Stewart of Ardshiel - 1816 (Clan)</title></circle></a><a href="/setts/s18/o8k24o1k1o1k1o1k1o8k1o1k1o1k1o1o20ly1w1~x2/"><circle cx="255.8" cy="58.4" r="4" fill="#3465a4"><title>Read Dress, Peter (Personal)</title></circle></a><a href="/setts/s18/r8k24y1k1y1k1y1k1y8k1y1k1y1k1y1r20lo1w1~x2/"><circle cx="267.3" cy="64.2" r="4" fill="#3465a4"><title>Read Dress, Peter (Personal)</title></circle></a><a href="/setts/s18/g4r4dp1k1r19k1t1r2db5r2t1k1r2g24r5dp1k1t3~x2/"><circle cx="247.0" cy="55.7" r="4" fill="#3465a4"><title>Dundas, (Red)</title></circle></a><a href="/setts/s18/g14r6r2dt3r65dt2t2r6dt34r6t2dt2r4g66r12r2dt2t4/"><circle cx="297.5" cy="67.5" r="4" fill="#3465a4"><title>Stewart of Ardshiel Clan Tartan Tartan Number: 73. Earliest known date: 1822 There are minor differences between the warp and weft in the blue not shown in the illustration. This is the earliest record of a Stewart of Ardshiel tartan. It differs from the Stewart of Appin in that the Red is interchanged with the blue. Ardshiel is part of Appin and it may be a variation on a sett common to the area. Stewarts of Ardshiel are regarded as a sept of the Appin branch. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s19/r44g18lb5dt2lb2dt3lb9k7lb5k7lb9dt3lb2dt2lb5r16g3r5dt2~x2/"><circle cx="220.0" cy="75.1" r="4" fill="#3465a4"><title>Metcalf (Clan)</title></circle></a><a href="/setts/s20/lb1r3r1dg23r3dg1r3db6r4r1r4dg6r6dg6r2db1r24r1r1lb1/"><circle cx="255.6" cy="69.4" r="4" fill="#3465a4"><title>MacDougall</title></circle></a><a href="/setts/s17/g4r3t1p1r35p1t1r3p16r3t1p1r2g35r7k1t2~x2/"><circle cx="312.1" cy="57.3" r="4" fill="#3465a4"><title>Unidentified 15</title></circle></a><a href="/setts/s20/w1p2r1g22r3g1r3db9p2r1p2g8r8g8r1db1r22p2r2w1~x2/"><circle cx="252.7" cy="83.6" r="4" fill="#3465a4"><title>MacDougall 7</title></circle></a><a href="/setts/s20/w1dp2r1dg22r3dg1r3db9dp2r1dp2dg8r8dg8r1db1r22dp2r2w1~x2/"><circle cx="251.0" cy="81.0" r="4" fill="#3465a4"><title>MacDougall (Paton)</title></circle></a><circle cx="266.1" cy="52.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/dg14r6r2k3r65k2t2r6k34r6t2k2r4dg66r12r2k2t4/"><circle cx="275.8" cy="55.8" r="4" fill="#3465a4"><title>Stewart of Ardshiel - 1816 (Clan)</title></circle></a><a href="/setts/s18/o8k24o1k1o1k1o1k1o8k1o1k1o1k1o1o20ly1w1~x2/"><circle cx="255.5" cy="58.4" r="4" fill="#3465a4"><title>Read Dress, Peter (Personal)</title></circle></a><a href="/setts/s18/r8k24y1k1y1k1y1k1y8k1y1k1y1k1y1r20lo1w1~x2/"><circle cx="267.0" cy="64.3" r="4" fill="#3465a4"><title>Read Dress, Peter (Personal)</title></circle></a><a href="/setts/s18/g4r4dp1k1r19k1t1r2db5r2t1k1r2g24r5dp1k1t3~x2/"><circle cx="246.6" cy="55.8" r="4" fill="#3465a4"><title>Dundas, (Red)</title></circle></a><a href="/setts/s18/g14r6r2dt3r65dt2t2r6dt34r6t2dt2r4g66r12r2dt2t4/"><circle cx="297.2" cy="67.6" r="4" fill="#3465a4"><title>Stewart of Ardshiel Clan Tartan Tartan Number: 73. Earliest known date: 1822 There are minor differences between the warp and weft in the blue not shown in the illustration. This is the earliest record of a Stewart of Ardshiel tartan. It differs from the Stewart of Appin in that the Red is interchanged with the blue. Ardshiel is part of Appin and it may be a variation on a sett common to the area. Stewarts of Ardshiel are regarded as a sept of the Appin branch. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s19/r44g18lb5dt2lb2dt3lb9k7lb5k7lb9dt3lb2dt2lb5r16g3r5dt2~x2/"><circle cx="219.7" cy="75.1" r="4" fill="#3465a4"><title>Metcalf (Clan)</title></circle></a><a href="/setts/s20/lb1r3r1dg23r3dg1r3db6r4r1r4dg6r6dg6r2db1r24r1r1lb1~x2/"><circle cx="255.2" cy="69.5" r="4" fill="#3465a4"><title>MacDougall</title></circle></a><a href="/setts/s17/g4r3t1p1r35p1t1r3p16r3t1p1r2g35r7k1t2~x2/"><circle cx="311.6" cy="57.3" r="4" fill="#3465a4"><title>Unidentified 15</title></circle></a><a href="/setts/s20/w1r2p2r22db1r1g8r8g8p2r1p2db9r3g1r3g22r1p2w1~x2/"><circle cx="252.4" cy="83.7" r="4" fill="#3465a4"><title>MacDougall 7</title></circle></a><a href="/setts/s20/w1dp2r1dg22r3dg1r3db9dp2r1dp2dg8r8dg8r1db1r22dp2r2w1~x2/"><circle cx="250.7" cy="81.1" r="4" fill="#3465a4"><title>MacDougall (Paton)</title></circle></a><circle cx="265.8" cy="52.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s18/g14r6r2k3r65k2t2r6k34r6t2k2r4g66r12r2k2t4/

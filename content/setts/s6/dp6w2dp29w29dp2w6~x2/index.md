@@ -17,7 +17,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-LN/12 P4 LN58 P58 LN4 P/12
+P/12 LN4 P58 LN58 P4 LN/12
 ![Sett](sett.png)
 
 ## Palette
@@ -30,7 +30,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/12 P4 LN58 P58 LN4 P/12 tartan")
+![Tartan detail](tartan.png "P/12 LN4 P58 LN58 P4 LN/12 tartan")
 
 ## Nearest tartans
 
@@ -49,8 +49,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dp2w1dp9w9dp1w2~x6/"><circle cx="310.3" cy="203.7" r="4" fill="#3465a4"><title>Erskine Purple (Dance)</title></circle></a><a href="/setts/s8/b6ly2b21ly2b6ly24b2ly6~x2/"><circle cx="326.7" cy="189.1" r="4" fill="#3465a4"><title>MacLachlan (Chief's Dress) Blue</title></circle></a><a href="/setts/s6/r5w2r25w25r2w5~x2/"><circle cx="341.8" cy="192.4" r="4" fill="#3465a4"><title>Erskine Dress Burgandy Clan Tartan Tartan Number: 1972. Earliest known date: 1971 A popular Dress tartan for Scottish Highland Dancing. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r6w2r29w29r2w6~x2/"><circle cx="333.0" cy="179.0" r="4" fill="#3465a4"><title>Erskine, Burgundy (Dance)</title></circle></a><a href="/setts/s6/db6w2db29w29db2w6~x2/"><circle cx="320.4" cy="190.5" r="4" fill="#3465a4"><title>Erskine Blue (Dance)</title></circle></a><a href="/setts/s6/k2w28r13w2r13w2~x2/"><circle cx="323.4" cy="170.9" r="4" fill="#3465a4"><title>Buchanan #5</title></circle></a><a href="/setts/s5/m13w3m1k3w1~x6/"><circle cx="392.5" cy="185.3" r="4" fill="#3465a4"><title>Glen App</title></circle></a><a href="/setts/s8/w3db1w30db1p28w1p1w3~x2/"><circle cx="377.1" cy="107.7" r="4" fill="#3465a4"><title>Dunlop, dress</title></circle></a><a href="/setts/s6/db8w3db28w32k3w4~x2/"><circle cx="279.5" cy="190.2" r="4" fill="#3465a4"><title>Ailsa, Navy (Dance)</title></circle></a><a href="/setts/s6/w5db16w5db16w33r3~x2/"><circle cx="284.0" cy="195.0" r="4" fill="#3465a4"><title>Buchanan Dress Blue (Dance)</title></circle></a><circle cx="341.9" cy="186.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/dp2w1dp9w9dp1w2~x6/"><circle cx="309.8" cy="203.3" r="4" fill="#3465a4"><title>Erskine Purple (Dance)</title></circle></a><a href="/setts/s8/b6ly2b21ly2b6ly24b2ly6~x2/"><circle cx="326.3" cy="188.7" r="4" fill="#3465a4"><title>MacLachlan (Chief's Dress) Blue</title></circle></a><a href="/setts/s6/r5w2r25w25r2w5~x2/"><circle cx="341.3" cy="192.0" r="4" fill="#3465a4"><title>Erskine Dress Burgandy Clan Tartan Tartan Number: 1972. Earliest known date: 1971 A popular Dress tartan for Scottish Highland Dancing. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s6/r6w2r29w29r2w6~x2/"><circle cx="332.5" cy="178.6" r="4" fill="#3465a4"><title>Erskine, Burgundy (Dance)</title></circle></a><a href="/setts/s6/db6w2db29w29db2w6~x2/"><circle cx="320.1" cy="190.1" r="4" fill="#3465a4"><title>Erskine Blue (Dance)</title></circle></a><a href="/setts/s6/k2w28r13w2r13w2~x2/"><circle cx="322.9" cy="170.6" r="4" fill="#3465a4"><title>Buchanan #5</title></circle></a><a href="/setts/s5/m13w3m1k3w1~x6/"><circle cx="392.1" cy="184.9" r="4" fill="#3465a4"><title>Glen App</title></circle></a><a href="/setts/s8/w3db1w30db1p28w1p1w3~x2/"><circle cx="376.5" cy="107.4" r="4" fill="#3465a4"><title>Dunlop, dress</title></circle></a><a href="/setts/s6/db8w3db28w32k3w4~x2/"><circle cx="279.3" cy="189.9" r="4" fill="#3465a4"><title>Ailsa, Navy (Dance)</title></circle></a><a href="/setts/s6/w5db16w5db16w33r3~x2/"><circle cx="283.7" cy="194.6" r="4" fill="#3465a4"><title>Buchanan Dress Blue (Dance)</title></circle></a><circle cx="341.5" cy="186.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/dp6w2dp29w29dp2w6~x2/

@@ -20,7 +20,7 @@ YBRY
 
 
 
-### LY N O LR <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">LY N O LR</span></span>
+### LR O N LY <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">LR O N LY</span></span>
 
 | Tartans |
 |---------------|

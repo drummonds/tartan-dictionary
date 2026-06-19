@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/
 Original link http://www.tartansauthority.com/tartan-ferret/display/4253/
 
 ## Thread count
-T/4 K4 DG44 N2 B56 K36 T6 K6 T/6
+T/6 K6 T6 K36 B56 N2 DG44 K4 T/4
 ![Sett](sett.png)
 
 ## Palette
@@ -35,14 +35,14 @@ The nearest existing variants by ΔTartan distance.
 1. [79th Regiment (Military)](/setts/s11/dg22r2dg2r6dg42k46r2k42r6k12lo3/) — ΔT 0.89
 1. [Lochaber Cameron](/setts/s11/db8t3db40r3k44t3r3g40r2k4r7~x2/) — ΔT 0.97
 1. [Colqhoun VS](/setts/s7/db4k2db16lr1k8dg24r4~x2/) — ΔT 1.01
-1. [Colqhoun VS](/setts/s7/db4k2db16lr1k8dg24r4/) — ΔT 1.01
 1. [Lochaber - 1819 (District)](/setts/s10/g2t2db33r2k35g33k1r2k1g2~x2/) — ΔT 1.02
 1. [Sutherland](/setts/s12/dg6lr2dg24k12db3k2db2k2db12r1db1r3~x2/) — ΔT 1.06
+1. [Sutherland](/setts/s12/dg6lr2dg24k12db3k2db2k2db12r1db1r3/) — ΔT 1.06
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/ly2k4ly1dg16k14db23k4r1~x2/"><circle cx="235.1" cy="165.8" r="4" fill="#3465a4"><title>Thomas of Craigie (Personal)</title></circle></a><a href="/setts/s8/db28ly1db2k26g24k1g2r3~x2/"><circle cx="245.6" cy="149.2" r="4" fill="#3465a4"><title>Ogilvie of Inverarity - 1842 (V.S.)</title></circle></a><a href="/setts/s9/db24ly2k8dg16k1dg3k1dg3r4~x2/"><circle cx="225.7" cy="139.3" r="4" fill="#3465a4"><title>Ogilvy Hunting</title></circle></a><a href="/setts/s8/db28ly1db2k16dg24k1dg2r3~x2/"><circle cx="250.0" cy="147.2" r="4" fill="#3465a4"><title>Ogilvy VS</title></circle></a><a href="/setts/s11/dg22r2dg2r6dg42k46r2k42r6k12lo3/"><circle cx="230.9" cy="151.7" r="4" fill="#3465a4"><title>79th Regiment (Military)</title></circle></a><a href="/setts/s11/db8t3db40r3k44t3r3g40r2k4r7~x2/"><circle cx="201.8" cy="131.3" r="4" fill="#3465a4"><title>Lochaber Cameron</title></circle></a><a href="/setts/s7/db4k2db16lr1k8dg24r4~x2/"><circle cx="248.5" cy="171.1" r="4" fill="#3465a4"><title>Colqhoun VS</title></circle></a><a href="/setts/s7/db4k2db16lr1k8dg24r4/"><circle cx="248.5" cy="171.1" r="4" fill="#3465a4"><title>Colqhoun VS</title></circle></a><a href="/setts/s10/g2t2db33r2k35g33k1r2k1g2~x2/"><circle cx="256.5" cy="120.9" r="4" fill="#3465a4"><title>Lochaber - 1819 (District)</title></circle></a><a href="/setts/s12/dg6lr2dg24k12db3k2db2k2db12r1db1r3~x2/"><circle cx="247.8" cy="131.1" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><circle cx="222.2" cy="140.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/ly2k4ly1dg16k14db23k4r1~x2/"><circle cx="235.2" cy="165.9" r="4" fill="#3465a4"><title>Thomas of Craigie (Personal)</title></circle></a><a href="/setts/s8/db28ly1db2k26g24k1g2r3~x2/"><circle cx="245.7" cy="149.3" r="4" fill="#3465a4"><title>Ogilvie of Inverarity - 1842 (V.S.)</title></circle></a><a href="/setts/s9/db24ly2k8dg16k1dg3k1dg3r4~x2/"><circle cx="225.8" cy="139.3" r="4" fill="#3465a4"><title>Ogilvy Hunting</title></circle></a><a href="/setts/s8/db28ly1db2k16dg24k1dg2r3~x2/"><circle cx="250.2" cy="147.2" r="4" fill="#3465a4"><title>Ogilvy VS</title></circle></a><a href="/setts/s11/dg22r2dg2r6dg42k46r2k42r6k12lo3/"><circle cx="231.0" cy="151.9" r="4" fill="#3465a4"><title>79th Regiment (Military)</title></circle></a><a href="/setts/s11/db8t3db40r3k44t3r3g40r2k4r7~x2/"><circle cx="201.9" cy="131.4" r="4" fill="#3465a4"><title>Lochaber Cameron</title></circle></a><a href="/setts/s7/db4k2db16lr1k8dg24r4~x2/"><circle cx="248.6" cy="171.1" r="4" fill="#3465a4"><title>Colqhoun VS</title></circle></a><a href="/setts/s10/g2t2db33r2k35g33k1r2k1g2~x2/"><circle cx="256.5" cy="121.0" r="4" fill="#3465a4"><title>Lochaber - 1819 (District)</title></circle></a><a href="/setts/s12/dg6lr2dg24k12db3k2db2k2db12r1db1r3~x2/"><circle cx="247.9" cy="131.1" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/setts/s12/dg6lr2dg24k12db3k2db2k2db12r1db1r3/"><circle cx="247.9" cy="131.1" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><circle cx="222.3" cy="140.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dy3k3dy3k18n28lb1dg22k2dy2~x2/

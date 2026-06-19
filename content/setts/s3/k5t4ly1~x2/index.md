@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -915,7 +918,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Grampian Television (Corporate)](/setts/s5/k12n3k12n18w5~x2/) — ΔT 1.38
 1. [Grampian, T.V.](/setts/s5/k5db1k5db7w2~x2/) — ΔT 1.46
-1. [Mayer, Chris (Personal)](/setts/s4/b1y6k6r1~x10/) — ΔT 1.66
+1. [Mayer, Chris (Personal)](/setts/s4/r1k6y6b1~x10/) — ΔT 1.66
 1. [Wilson's, No 50](/setts/s3/g5k6t1~x4/) — ΔT 1.68
 1. [Zwijnenberg, Frans (Personal)](/setts/s3/k23g8lo8~x4/) — ΔT 1.69
 1. [Glen Lyon, or Mull (No.53)](/setts/s3/k5g3t2~x2/) — ΔT 1.75
@@ -926,8 +929,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k12n3k12n18w5~x2/"><circle cx="229.8" cy="280.7" r="4" fill="#3465a4"><title>Grampian Television (Corporate)</title></circle></a><a href="/setts/s5/k5db1k5db7w2~x2/"><circle cx="235.5" cy="274.0" r="4" fill="#3465a4"><title>Grampian, T.V.</title></circle></a><a href="/setts/s4/b1y6k6r1~x10/"><circle cx="191.6" cy="244.0" r="4" fill="#3465a4"><title>Mayer, Chris (Personal)</title></circle></a><a href="/setts/s3/g5k6t1~x4/"><circle cx="238.4" cy="306.0" r="4" fill="#3465a4"><title>Wilson's, No 50</title></circle></a><a href="/setts/s3/k23g8lo8~x4/"><circle cx="241.4" cy="323.7" r="4" fill="#3465a4"><title>Zwijnenberg, Frans (Personal)</title></circle></a><a href="/setts/s3/k5g3t2~x2/"><circle cx="164.6" cy="354.7" r="4" fill="#3465a4"><title>Glen Lyon, or Mull (No.53)</title></circle></a><a href="/setts/s4/r5y32k31w5~x2/"><circle cx="197.2" cy="237.7" r="4" fill="#3465a4"><title>Loganair, Uniform Skirt</title></circle></a><a href="/setts/s4/r1dg6db6w1~x4/"><circle cx="199.7" cy="254.6" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/setts/s5/db20k5db18lo26k6~x2/"><circle cx="227.2" cy="274.9" r="4" fill="#3465a4"><title>Johore Regiment (Military)</title></circle></a><a href="/setts/s5/db20k5db18ly26k6~x2/"><circle cx="206.4" cy="265.0" r="4" fill="#3465a4"><title>Jahore</title></circle></a><circle cx="218.3" cy="304.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k12n3k12n18w5~x2/"><circle cx="230.0" cy="280.4" r="4" fill="#3465a4"><title>Grampian Television (Corporate)</title></circle></a><a href="/setts/s5/k5db1k5db7w2~x2/"><circle cx="235.8" cy="273.7" r="4" fill="#3465a4"><title>Grampian, T.V.</title></circle></a><a href="/setts/s4/r1k6y6b1~x10/"><circle cx="191.8" cy="243.9" r="4" fill="#3465a4"><title>Mayer, Chris (Personal)</title></circle></a><a href="/setts/s3/g5k6t1~x4/"><circle cx="238.7" cy="305.7" r="4" fill="#3465a4"><title>Wilson's, No 50</title></circle></a><a href="/setts/s3/k23g8lo8~x4/"><circle cx="241.6" cy="323.3" r="4" fill="#3465a4"><title>Zwijnenberg, Frans (Personal)</title></circle></a><a href="/setts/s3/k5g3t2~x2/"><circle cx="165.0" cy="354.5" r="4" fill="#3465a4"><title>Glen Lyon, or Mull (No.53)</title></circle></a><a href="/setts/s4/r5y32k31w5~x2/"><circle cx="197.4" cy="237.5" r="4" fill="#3465a4"><title>Loganair, Uniform Skirt</title></circle></a><a href="/setts/s4/r1dg6db6w1~x4/"><circle cx="199.8" cy="254.4" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/setts/s5/db20k5db18lo26k6~x2/"><circle cx="227.3" cy="274.6" r="4" fill="#3465a4"><title>Johore Regiment (Military)</title></circle></a><a href="/setts/s5/db20k5db18ly26k6~x2/"><circle cx="206.4" cy="264.7" r="4" fill="#3465a4"><title>Jahore</title></circle></a><circle cx="218.6" cy="303.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/k5t4ly1~x2/

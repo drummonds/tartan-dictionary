@@ -8,7 +8,7 @@ RBYBRWR
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/r3lb20o20n20ly2n20r3~x2/tartan.png)
+![Woven sample](/setts/s7/r3n20ly2n20o20lb20r3~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RBYBRWR
 
 | Tartans |
 |---------------|
-| [Brodie Silver Clan Tartan Tartan Number: 1630. Earliest known date: c.1940-50 Probably a trade design based on Hunting Brodie, that has appeared in the last forty years. It is sometimes referred to as muted Brodie. (P.E. MacDonald, STS 1984) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r3lb20o20n20ly2n20r3~x2/)|
-|![Brodie Silver Clan Tartan Tartan Number: 1630. Earliest known date: c.1940-50 Probably a trade design based on Hunting Brodie, that has appeared in the last forty years. It is sometimes referred to as muted Brodie. (P.E. MacDonald, STS 1984) See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/r3lb20o20n20ly2n20r3~x2/sett.png)|
+| [Brodie Silver Clan Tartan Tartan Number: 1630. Earliest known date: c.1940-50 Probably a trade design based on Hunting Brodie, that has appeared in the last forty years. It is sometimes referred to as muted Brodie. (P.E. MacDonald, STS 1984) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r3n20ly2n20o20lb20r3~x2/)|
+|![Brodie Silver Clan Tartan Tartan Number: 1630. Earliest known date: c.1940-50 Probably a trade design based on Hunting Brodie, that has appeared in the last forty years. It is sometimes referred to as muted Brodie. (P.E. MacDonald, STS 1984) See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/r3n20ly2n20o20lb20r3~x2/sett.png)|
 

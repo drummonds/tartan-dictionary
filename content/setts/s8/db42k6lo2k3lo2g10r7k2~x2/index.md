@@ -2,12 +2,18 @@
 title: "MacBeth (Fashion)"
 date: 2023-03-18
 ---
-**Bands:** [BKYKYGRK](/stripes/bkykygrk/) · **Stripes:** [DB K LO K LO G R K](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K LO K LO G R K</span></span>
+**Bands:** [KRGYKYKB](/stripes/krgykykb/) · **Stripes:** [K R G LO K LO K DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K R G LO K LO K DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3320/
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacBeth #3
 
 ## Attestations
 
@@ -48,7 +54,7 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Wcwm 9275-1395](/setts/s7/db6dp3db56k24g6r6g6/) — ΔT 0.88
 1. [Chestico](/setts/s7/db20dy1db1dy1dg8k1w3~x2/) — ΔT 0.95
-1. [Pagus Wasia](/setts/s9/ly1db2ly1db3dt19db3dt1db2r1~x4/) — ΔT 0.97
+1. [Pagus Wasia](/setts/s9/r1db2dt1db3dt19db3ly1db2ly1~x4/) — ΔT 0.97
 1. [State Seal of Massachusetts Fash)](/setts/s10/k62b4k7db29k3lo4k3lb4k11b16~x2/) — ΔT 1.01
 1. [Fuller of Hopewell (Personal)](/setts/s7/k1w1k18db20w1r1lo1~x4/) — ΔT 1.03
 1. [Hill (Name)](/setts/s9/w3db2ly1db2ly1db31k28r2k2~x2/) — ΔT 1.05
@@ -59,8 +65,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db6dp3db56k24g6r6g6/"><circle cx="358.4" cy="170.9" r="4" fill="#3465a4"><title>Wcwm 9275-1395</title></circle></a><a href="/setts/s7/db20dy1db1dy1dg8k1w3~x2/"><circle cx="353.2" cy="144.8" r="4" fill="#3465a4"><title>Chestico</title></circle></a><a href="/setts/s9/ly1db2ly1db3dt19db3dt1db2r1~x4/"><circle cx="375.5" cy="141.3" r="4" fill="#3465a4"><title>Pagus Wasia</title></circle></a><a href="/setts/s10/k62b4k7db29k3lo4k3lb4k11b16~x2/"><circle cx="354.1" cy="138.4" r="4" fill="#3465a4"><title>State Seal of Massachusetts Fash)</title></circle></a><a href="/setts/s7/k1w1k18db20w1r1lo1~x4/"><circle cx="313.4" cy="144.1" r="4" fill="#3465a4"><title>Fuller of Hopewell (Personal)</title></circle></a><a href="/setts/s9/w3db2ly1db2ly1db31k28r2k2~x2/"><circle cx="337.9" cy="113.6" r="4" fill="#3465a4"><title>Hill (Name)</title></circle></a><a href="/setts/s9/r2k3db42k3ly2k3g22k3r2~x2/"><circle cx="322.3" cy="132.5" r="4" fill="#3465a4"><title>Strachan (Name)</title></circle></a><a href="/setts/s8/g1db1k1db30k30w2db5ly1~x2/"><circle cx="358.5" cy="127.3" r="4" fill="#3465a4"><title>Binder Wedding (Personal)</title></circle></a><a href="/setts/s10/db6ly3k2ly5db30g2k4g2db6db4~x2/"><circle cx="301.0" cy="139.8" r="4" fill="#3465a4"><title>St. Andrews University (Corporate)</title></circle></a><a href="/setts/s9/lb3k6lb2k6db2k2db32k2n1~x2/"><circle cx="407.2" cy="120.3" r="4" fill="#3465a4"><title>Nocken (Personal)</title></circle></a><circle cx="343.2" cy="139.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db6dp3db56k24g6r6g6/"><circle cx="358.5" cy="170.9" r="4" fill="#3465a4"><title>Wcwm 9275-1395</title></circle></a><a href="/setts/s7/db20dy1db1dy1dg8k1w3~x2/"><circle cx="353.2" cy="144.6" r="4" fill="#3465a4"><title>Chestico</title></circle></a><a href="/setts/s9/r1db2dt1db3dt19db3ly1db2ly1~x4/"><circle cx="375.5" cy="141.3" r="4" fill="#3465a4"><title>Pagus Wasia</title></circle></a><a href="/setts/s10/k62b4k7db29k3lo4k3lb4k11b16~x2/"><circle cx="354.1" cy="138.3" r="4" fill="#3465a4"><title>State Seal of Massachusetts Fash)</title></circle></a><a href="/setts/s7/k1w1k18db20w1r1lo1~x4/"><circle cx="313.5" cy="144.1" r="4" fill="#3465a4"><title>Fuller of Hopewell (Personal)</title></circle></a><a href="/setts/s9/w3db2ly1db2ly1db31k28r2k2~x2/"><circle cx="337.8" cy="113.6" r="4" fill="#3465a4"><title>Hill (Name)</title></circle></a><a href="/setts/s9/r2k3db42k3ly2k3g22k3r2~x2/"><circle cx="322.3" cy="132.5" r="4" fill="#3465a4"><title>Strachan (Name)</title></circle></a><a href="/setts/s8/g1db1k1db30k30w2db5ly1~x2/"><circle cx="358.5" cy="127.2" r="4" fill="#3465a4"><title>Binder Wedding (Personal)</title></circle></a><a href="/setts/s10/db6ly3k2ly5db30g2k4g2db6db4~x2/"><circle cx="301.0" cy="139.8" r="4" fill="#3465a4"><title>St. Andrews University (Corporate)</title></circle></a><a href="/setts/s9/lb3k6lb2k6db2k2db32k2n1~x2/"><circle cx="407.1" cy="120.3" r="4" fill="#3465a4"><title>Nocken (Personal)</title></circle></a><circle cx="343.2" cy="139.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db42k6lo2k3lo2g10r7k2~x2/

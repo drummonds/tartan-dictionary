@@ -23,8 +23,8 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Chisholm VS](/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1~x2/)|
-|![Chisholm VS example sett](/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1~x2/sett.png)|
+| [Chisholm VS](/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1/)|
+|![Chisholm VS example sett](/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1/sett.png)|
 
 ### R DG K DG K DG DB R W R <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">R DG K DG K DG DB R W R</span></span>
 

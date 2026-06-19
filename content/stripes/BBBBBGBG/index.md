@@ -20,7 +20,7 @@ BBBBBGBG
 
 
 
-### DR DO DR DO DR DY DO DY <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">DR DO DR DO DR DY DO DY</span></span>
+### DY DO DY DR DO DR DO DR <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#55120C"></span><span class="seq">DY DO DY DR DO DR DO DR</span></span>
 
 | Tartans |
 |---------------|

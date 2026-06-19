@@ -2,7 +2,7 @@
 title: "Fort William"
 date: 2023-03-18
 ---
-**Bands:** [GBGBKBKGKBK](/stripes/gbgbkbkgkbk/) · **Stripes:** [G T G T K T K G K T K](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="seq">G T G T K T K G K T K</span></span>
+**Bands:** [KBKGKBKBGBG](/stripes/kbkgkbkbgbg/) · **Stripes:** [K T K G K T K T G T G](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K T K G K T K T G T G</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,9 +913,9 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Walker, hunting](/setts/s12/r4k2g7k15g3k3g3k7g28k7g6k2/) — ΔT 0.89
-1. [Hartmann](/setts/s8/b4k8w3k8g4k4g32k4~x2/) — ΔT 0.91
+1. [Hartmann](/setts/s8/k4g32k4g4k8w3k8b4~x2/) — ΔT 0.91
 1. [Sin-Cos](/setts/s10/k60g64g5g8g5g64k60ly8k8ly8/) — ΔT 1.08
-1. [MacIver hunting](/setts/s9/ly3g27k5g5k32g5k5g27w3~x2/) — ΔT 1.15
+1. [MacIver hunting](/setts/s9/w3g27k5g5k32g5k5g27ly3~x2/) — ΔT 1.15
 1. [Hopetoun](/setts/s12/g22k4g4k21ly2k4ly2k21g4k2db2g22~x2/) — ΔT 1.21
 1. [Birmingham Irish Pipes & Drums](/setts/s8/dg48lo3k6w4dg3k15lo3dg4~x2/) — ΔT 1.37
 1. [Hudson Hunting (Personal)](/setts/s11/db4t2k2db12t4g6k6g28k2t2g3~x2/) — ΔT 1.38
@@ -922,8 +925,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r4k2g7k15g3k3g3k7g28k7g6k2/"><circle cx="274.1" cy="164.1" r="4" fill="#3465a4"><title>Walker, hunting</title></circle></a><a href="/setts/s8/b4k8w3k8g4k4g32k4~x2/"><circle cx="270.6" cy="175.5" r="4" fill="#3465a4"><title>Hartmann</title></circle></a><a href="/setts/s10/k60g64g5g8g5g64k60ly8k8ly8/"><circle cx="238.7" cy="170.5" r="4" fill="#3465a4"><title>Sin-Cos</title></circle></a><a href="/setts/s9/ly3g27k5g5k32g5k5g27w3~x2/"><circle cx="286.7" cy="184.8" r="4" fill="#3465a4"><title>MacIver hunting</title></circle></a><a href="/setts/s12/g22k4g4k21ly2k4ly2k21g4k2db2g22~x2/"><circle cx="249.5" cy="172.0" r="4" fill="#3465a4"><title>Hopetoun</title></circle></a><a href="/setts/s8/dg48lo3k6w4dg3k15lo3dg4~x2/"><circle cx="367.8" cy="150.6" r="4" fill="#3465a4"><title>Birmingham Irish Pipes &amp; Drums</title></circle></a><a href="/setts/s11/db4t2k2db12t4g6k6g28k2t2g3~x2/"><circle cx="261.1" cy="154.8" r="4" fill="#3465a4"><title>Hudson Hunting (Personal)</title></circle></a><a href="/setts/s8/g3k6w1k6g2k2g16k1~x2/"><circle cx="334.8" cy="187.7" r="4" fill="#3465a4"><title>MacLean of Duart, hunting</title></circle></a><a href="/setts/s14/k8w3k8g4k4g32k4g32k4g4k8w3k8t4~x2/"><circle cx="315.6" cy="170.8" r="4" fill="#3465a4"><title>Hartmann (Personal)</title></circle></a><a href="/setts/s8/k4g32k4g4k8w3k8t4~x2/"><circle cx="305.3" cy="190.8" r="4" fill="#3465a4"><title>Hartmann (Personal)</title></circle></a><circle cx="288.3" cy="147.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r4k2g7k15g3k3g3k7g28k7g6k2/"><circle cx="274.1" cy="164.0" r="4" fill="#3465a4"><title>Walker, hunting</title></circle></a><a href="/setts/s8/k4g32k4g4k8w3k8b4~x2/"><circle cx="270.6" cy="175.3" r="4" fill="#3465a4"><title>Hartmann</title></circle></a><a href="/setts/s10/k60g64g5g8g5g64k60ly8k8ly8/"><circle cx="238.8" cy="170.3" r="4" fill="#3465a4"><title>Sin-Cos</title></circle></a><a href="/setts/s9/w3g27k5g5k32g5k5g27ly3~x2/"><circle cx="286.7" cy="184.6" r="4" fill="#3465a4"><title>MacIver hunting</title></circle></a><a href="/setts/s12/g22k4g4k21ly2k4ly2k21g4k2db2g22~x2/"><circle cx="249.6" cy="171.8" r="4" fill="#3465a4"><title>Hopetoun</title></circle></a><a href="/setts/s8/dg48lo3k6w4dg3k15lo3dg4~x2/"><circle cx="367.7" cy="150.3" r="4" fill="#3465a4"><title>Birmingham Irish Pipes &amp; Drums</title></circle></a><a href="/setts/s11/db4t2k2db12t4g6k6g28k2t2g3~x2/"><circle cx="261.1" cy="154.7" r="4" fill="#3465a4"><title>Hudson Hunting (Personal)</title></circle></a><a href="/setts/s8/g3k6w1k6g2k2g16k1~x2/"><circle cx="334.8" cy="187.4" r="4" fill="#3465a4"><title>MacLean of Duart, hunting</title></circle></a><a href="/setts/s14/k8w3k8g4k4g32k4g32k4g4k8w3k8t4~x2/"><circle cx="315.5" cy="170.7" r="4" fill="#3465a4"><title>Hartmann (Personal)</title></circle></a><a href="/setts/s8/k4g32k4g4k8w3k8t4~x2/"><circle cx="305.3" cy="190.7" r="4" fill="#3465a4"><title>Hartmann (Personal)</title></circle></a><circle cx="288.2" cy="147.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/g17t2g2t2k21t2k3g30k2t2k4~x2/

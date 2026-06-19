@@ -18,10 +18,10 @@ BKBKBKBBYBBKBKBKBK
 
 
 
-### T K T K T K T DB LY DB T K T K T K T K <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="seq">T K T K T K T DB LY DB T K T K T K T K</span></span>
+### K T K T K T K T DB LY DB T K T K T K T <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">K T K T K T K T DB LY DB T K T K T K T</span></span>
 
 | Tartans |
 |---------------|
-| [Hannay Blue](/setts/s18/k9t4k2t4k2t30k9t4db14ly2db14t4k9t30k2t4k2t4~x2/)|
-|![Hannay Blue example sett](/setts/s18/k9t4k2t4k2t30k9t4db14ly2db14t4k9t30k2t4k2t4~x2/sett.png)|
+| [Hannay Blue](/setts/s18/k9t4k2t4k2t30k9t4db14ly2~x2/)|
+|![Hannay Blue example sett](/setts/s18/k9t4k2t4k2t30k9t4db14ly2~x2/sett.png)|
 

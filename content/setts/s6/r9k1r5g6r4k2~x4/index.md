@@ -21,7 +21,7 @@ External register numbers recorded for this tartan.
 
 Other setts woven to the same stripe pattern.
 
-- [Macan, of Lurgyvallan (Hose)](/setts/s6/r10k1r4g6r4k1~x2/)
+- [Macan, of Lurgyvallan (Hose)](/setts/s6/r10k1r4g6~x2/)
 
 
 ## Thread count
@@ -47,19 +47,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Waverley Care Aids Trust (Corporate)](/setts/s6/r8g2r2k1r1g2~x10/) — ΔT 1.31
 1. [Loch Garth](/setts/s4/do12y6do2lo1~x4/) — ΔT 1.63
-1. [Waverley Care Aids Trust](/setts/s10/r8g2r2k1r1g2r1k1r2g2~x10/) — ΔT 1.65
+1. [Waverley Care Aids Trust](/setts/s10/r8g2r2k1r1g2~x10/) — ΔT 1.65
 1. [MacDonald of Sleat](/setts/s5/dg16r5dg2r18k2/) — ΔT 1.72
 1. [Caspari (Corporate)](/setts/s7/r8ly2r15g10r4g10r4~x2/) — ΔT 1.75
 1. [Lendrum (Black & Red) or MacFarlane](/setts/s4/k12r7k1r9~x4/) — ΔT 1.81
 1. [Murray, Lord George (Plaid)](/setts/s9/r5dg10r5dg10r20dg2r20dp10r5~x2/) — ΔT 1.83
 1. [Scott Htg (Error 2)](/setts/s8/r3dy16dy10r3dy3lb2dy3r3~x2/) — ΔT 1.87
-1. [Lugo (2013)](/setts/s4/r10dg4lo1dg4~x8/) — ΔT 1.88
+1. [Lugo (2013)](/setts/s4/r10dg4lo1~x8/) — ΔT 1.88
 1. [MacIan](/setts/s7/r2k4r2k4r6k1lo1~x4/) — ΔT 1.96
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r8g2r2k1r1g2~x10/"><circle cx="471.8" cy="254.1" r="4" fill="#3465a4"><title>Waverley Care Aids Trust (Corporate)</title></circle></a><a href="/setts/s4/do12y6do2lo1~x4/"><circle cx="449.5" cy="255.8" r="4" fill="#3465a4"><title>Loch Garth</title></circle></a><a href="/setts/s10/r8g2r2k1r1g2r1k1r2g2~x10/"><circle cx="416.8" cy="229.6" r="4" fill="#3465a4"><title>Waverley Care Aids Trust</title></circle></a><a href="/setts/s5/dg16r5dg2r18k2/"><circle cx="363.3" cy="249.7" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/setts/s7/r8ly2r15g10r4g10r4~x2/"><circle cx="341.8" cy="256.3" r="4" fill="#3465a4"><title>Caspari (Corporate)</title></circle></a><a href="/setts/s4/k12r7k1r9~x4/"><circle cx="420.4" cy="307.5" r="4" fill="#3465a4"><title>Lendrum (Black &amp; Red) or MacFarlane</title></circle></a><a href="/setts/s9/r5dg10r5dg10r20dg2r20dp10r5~x2/"><circle cx="369.8" cy="224.2" r="4" fill="#3465a4"><title>Murray, Lord George (Plaid)</title></circle></a><a href="/setts/s8/r3dy16dy10r3dy3lb2dy3r3~x2/"><circle cx="512.1" cy="252.4" r="4" fill="#3465a4"><title>Scott Htg (Error 2)</title></circle></a><a href="/setts/s4/r10dg4lo1dg4~x8/"><circle cx="349.8" cy="263.6" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/setts/s7/r2k4r2k4r6k1lo1~x4/"><circle cx="309.7" cy="272.7" r="4" fill="#3465a4"><title>MacIan</title></circle></a><circle cx="422.0" cy="277.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r8g2r2k1r1g2~x10/"><circle cx="471.5" cy="253.9" r="4" fill="#3465a4"><title>Waverley Care Aids Trust (Corporate)</title></circle></a><a href="/setts/s4/do12y6do2lo1~x4/"><circle cx="449.3" cy="255.6" r="4" fill="#3465a4"><title>Loch Garth</title></circle></a><a href="/setts/s10/r8g2r2k1r1g2~x10/"><circle cx="416.5" cy="229.5" r="4" fill="#3465a4"><title>Waverley Care Aids Trust</title></circle></a><a href="/setts/s5/dg16r5dg2r18k2/"><circle cx="363.1" cy="249.6" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/setts/s7/r8ly2r15g10r4g10r4~x2/"><circle cx="341.4" cy="256.1" r="4" fill="#3465a4"><title>Caspari (Corporate)</title></circle></a><a href="/setts/s4/k12r7k1r9~x4/"><circle cx="420.4" cy="307.3" r="4" fill="#3465a4"><title>Lendrum (Black &amp; Red) or MacFarlane</title></circle></a><a href="/setts/s9/r5dg10r5dg10r20dg2r20dp10r5~x2/"><circle cx="369.4" cy="224.0" r="4" fill="#3465a4"><title>Murray, Lord George (Plaid)</title></circle></a><a href="/setts/s8/r3dy16dy10r3dy3lb2dy3r3~x2/"><circle cx="511.7" cy="252.2" r="4" fill="#3465a4"><title>Scott Htg (Error 2)</title></circle></a><a href="/setts/s4/r10dg4lo1~x8/"><circle cx="349.6" cy="263.4" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/setts/s7/r2k4r2k4r6k1lo1~x4/"><circle cx="309.6" cy="272.6" r="4" fill="#3465a4"><title>MacIan</title></circle></a><circle cx="421.7" cy="277.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r9k1r5g6r4k2~x4/

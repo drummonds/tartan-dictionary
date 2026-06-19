@@ -22,6 +22,6 @@ RKWKYGRWYKRWKRY
 
 | Tartans |
 |---------------|
-| [Purdy, R Scott (Personal)](/setts/s15/lo1r1k1w1r21k1lo12w1o7dg3lo6k1w1k1r1~x2/)|
-|![Purdy, R Scott (Personal) example sett](/setts/s15/lo1r1k1w1r21k1lo12w1o7dg3lo6k1w1k1r1~x2/sett.png)|
+| [Purdy, R Scott (Personal)](/setts/s15/r1k1w1k1lo6dg3o7w1lo12k1r21w1k1r1lo1~x2/)|
+|![Purdy, R Scott (Personal) example sett](/setts/s15/r1k1w1k1lo6dg3o7w1lo12k1r21w1k1r1lo1~x2/sett.png)|
 

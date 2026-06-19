@@ -2,7 +2,7 @@
 title: "Contreceour dress"
 date: 2023-03-18
 ---
-**Bands:** [BWRWYRGGWRWGGWY](/stripes/bwrwyrggwrwggwy/) · **Stripes:** [DB W R W LY O G Y W R W Y G W LY](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB W R W LY O G Y W R W Y G W LY</span></span>
+**Bands:** [YWGGWRWGGRYWRWB](/stripes/ywggwrwggrywrwb/) · **Stripes:** [LY W G Y W R W Y G O LY W R W DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">LY W G Y W R W Y G O LY W R W DB</span></span>
 
 
 This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/10 LN26 R6 LN14 Y20 LT2 G4 N4 LN4 R2 LN4 N4 G4 LN2 Y/20
+Y/20 LN2 G4 N4 LN4 R2 LN4 N4 G4 LT2 Y20 LN14 R6 LN26 B/10
 ![Sett](sett.png)
 
 ## Palette
@@ -911,15 +914,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Contrecoeur](/setts/s15/ly10o1g2ly2lb2m1lb2ly2g2o1ly10m7w3m13db5~x2/) — ΔT 1.51
 1. [MacLean of Duart (Reproduction Colours)](/setts/s12/y12t2dy4ly2dy3w3dy3o20w29t2w4dy2~x2/) — ΔT 1.55
 1. [MacBean dress](/setts/s16/g10w4r4m4g2m4r4w4g10w4t4w2t4w23k2r2~x2/) — ΔT 1.57
-1. [MacLean of Duart, dress](/setts/s12/y10lb2dr4ly2dr3w3dr3o18w30n2w4dr2~x2/) — ΔT 1.58
 1. [Diana Memorial Rose](/setts/s13/lb4w2lb23y12k6w2lt2w2lt8w4k2w2dr2~x2/) — ΔT 1.58
+1. [MacLean of Duart, dress](/setts/s12/y10lb2dr4ly2dr3w3dr3o18w30n2w4dr2~x2/) — ΔT 1.58
 1. [MacBean Dress](/setts/s16/g10w4r4r4g2r4r4w4g10w4t4w2t4w23k2r2~x2/) — ΔT 1.58
-1. [Contrecoeur](/setts/s15/ly10dy1g2ly2w2r1w2ly2g2dy1ly10r7w3r13db5~x2/) — ΔT 1.61
+1. [Contrecoeur](/setts/s15/ly10dy1g2ly2w2r1w2ly2g2dy1ly10r7w3r13db5~x2/) — ΔT 1.62
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/w2o2g2dy1ly10w7r3w13db5ly10w1g2o2w2r1~x4/"><circle cx="123.6" cy="84.2" r="4" fill="#3465a4"><title>Contrecoeur Dress</title></circle></a><a href="/setts/s15/ly10w1g2k2w2r1w2k2g2k1ly10w7r3w13t5~x2/"><circle cx="103.6" cy="76.0" r="4" fill="#3465a4"><title>Contreceour Dress Corporate Tartan Tartan Number: 2295. Earliest known date: 1992 Small township in southern Quebec. Tartan designed by French Canadian Madeleine Asselin. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/y10lb2dy4ly2dy3w3dy3o18w30n2w4dy2~x2/"><circle cx="166.3" cy="67.9" r="4" fill="#3465a4"><title>MacLean of Duart Dress #4</title></circle></a><a href="/setts/s15/ly10o1g2ly2lb2m1lb2ly2g2o1ly10m7w3m13db5~x2/"><circle cx="117.9" cy="82.7" r="4" fill="#3465a4"><title>Contrecoeur</title></circle></a><a href="/setts/s12/y12t2dy4ly2dy3w3dy3o20w29t2w4dy2~x2/"><circle cx="169.5" cy="87.6" r="4" fill="#3465a4"><title>MacLean of Duart (Reproduction Colours)</title></circle></a><a href="/setts/s16/g10w4r4m4g2m4r4w4g10w4t4w2t4w23k2r2~x2/"><circle cx="132.0" cy="97.0" r="4" fill="#3465a4"><title>MacBean dress</title></circle></a><a href="/setts/s12/y10lb2dr4ly2dr3w3dr3o18w30n2w4dr2~x2/"><circle cx="163.8" cy="66.6" r="4" fill="#3465a4"><title>MacLean of Duart, dress</title></circle></a><a href="/setts/s13/lb4w2lb23y12k6w2lt2w2lt8w4k2w2dr2~x2/"><circle cx="118.8" cy="95.5" r="4" fill="#3465a4"><title>Diana Memorial Rose</title></circle></a><a href="/setts/s16/g10w4r4r4g2r4r4w4g10w4t4w2t4w23k2r2~x2/"><circle cx="134.9" cy="97.4" r="4" fill="#3465a4"><title>MacBean Dress</title></circle></a><a href="/setts/s15/ly10dy1g2ly2w2r1w2ly2g2dy1ly10r7w3r13db5~x2/"><circle cx="111.1" cy="77.9" r="4" fill="#3465a4"><title>Contrecoeur</title></circle></a><circle cx="129.9" cy="86.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/w2o2g2dy1ly10w7r3w13db5ly10w1g2o2w2r1~x4/"><circle cx="123.2" cy="84.3" r="4" fill="#3465a4"><title>Contrecoeur Dress</title></circle></a><a href="/setts/s15/ly10w1g2k2w2r1w2k2g2k1ly10w7r3w13t5~x2/"><circle cx="103.2" cy="76.0" r="4" fill="#3465a4"><title>Contreceour Dress Corporate Tartan Tartan Number: 2295. Earliest known date: 1992 Small township in southern Quebec. Tartan designed by French Canadian Madeleine Asselin. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/y10lb2dy4ly2dy3w3dy3o18w30n2w4dy2~x2/"><circle cx="165.9" cy="68.0" r="4" fill="#3465a4"><title>MacLean of Duart Dress #4</title></circle></a><a href="/setts/s15/ly10o1g2ly2lb2m1lb2ly2g2o1ly10m7w3m13db5~x2/"><circle cx="117.6" cy="82.8" r="4" fill="#3465a4"><title>Contrecoeur</title></circle></a><a href="/setts/s12/y12t2dy4ly2dy3w3dy3o20w29t2w4dy2~x2/"><circle cx="169.2" cy="87.6" r="4" fill="#3465a4"><title>MacLean of Duart (Reproduction Colours)</title></circle></a><a href="/setts/s16/g10w4r4m4g2m4r4w4g10w4t4w2t4w23k2r2~x2/"><circle cx="131.7" cy="97.1" r="4" fill="#3465a4"><title>MacBean dress</title></circle></a><a href="/setts/s13/lb4w2lb23y12k6w2lt2w2lt8w4k2w2dr2~x2/"><circle cx="118.5" cy="95.6" r="4" fill="#3465a4"><title>Diana Memorial Rose</title></circle></a><a href="/setts/s12/y10lb2dr4ly2dr3w3dr3o18w30n2w4dr2~x2/"><circle cx="163.4" cy="66.7" r="4" fill="#3465a4"><title>MacLean of Duart, dress</title></circle></a><a href="/setts/s16/g10w4r4r4g2r4r4w4g10w4t4w2t4w23k2r2~x2/"><circle cx="134.5" cy="97.5" r="4" fill="#3465a4"><title>MacBean Dress</title></circle></a><a href="/setts/s15/ly10dy1g2ly2w2r1w2ly2g2dy1ly10r7w3r13db5~x2/"><circle cx="110.8" cy="78.0" r="4" fill="#3465a4"><title>Contrecoeur</title></circle></a><circle cx="129.5" cy="87.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/ly10w1g2y2w2r1w2y2g2o1ly10w7r3w13db5~x2/

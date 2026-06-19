@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ Other setts woven to the same stripe pattern.
 - [Cameron Black & Red (Dress)](/setts/s6/k2r12k2r12k33r2~x2/)
 - [Erskine (Paton)](/setts/s6/k31r4k47r47k4r31~x2/)
 - [Erskine, Black & Red (Clan)](/setts/s6/k6r3k28r28k3r6~x2/)
-- [Ewing](/setts/s6/k23r3k1r12k1r3~x4/)
+- [Ewing](/setts/s6/k23r3k1r12~x4/)
 - [The Mary Erskine](/setts/s6/k3r1k16r16k1r3~x4/)
 
 
@@ -920,7 +923,7 @@ The nearest existing variants by ΔTartan distance.
 1. [MacLeod of Raasay](/setts/s5/k6r1k6r9k1~x4/) — ΔT 1.55
 1. [MacQueen](/setts/s6/k2r6k2r6k12ly1~x2/) — ΔT 1.56
 1. [Campbell of Lochlane](/setts/s7/k2r1k6r6k1r1k1~x4/) — ΔT 1.60
-1. [Ewing](/setts/s6/k23r3k1r12k1r3~x4/) — ΔT 1.67
+1. [Ewing](/setts/s6/k23r3k1r12~x4/) — ΔT 1.67
 1. [Loevenstein Castle 1 (Artefact)](/setts/s5/r20k3r4w2k7~x2/) — ΔT 1.69
 1. [Tweedside](/setts/s9/k18r2k2r5w2r2w2r2k2~x2/) — ΔT 1.73
 1. [Loevenstein Castle](/setts/s5/r20k3r4lb2k7~x2/) — ΔT 1.73
@@ -929,8 +932,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k30r3k2r3k2r27k30r4~x2/"><circle cx="438.3" cy="204.9" r="4" fill="#3465a4"><title>Murray of Ochtertyre #2</title></circle></a><a href="/setts/s5/k6r1k6r9k1~x4/"><circle cx="348.3" cy="259.6" r="4" fill="#3465a4"><title>MacLeod of Raasay</title></circle></a><a href="/setts/s6/k2r6k2r6k12ly1~x2/"><circle cx="324.5" cy="213.0" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><a href="/setts/s7/k2r1k6r6k1r1k1~x4/"><circle cx="355.8" cy="257.7" r="4" fill="#3465a4"><title>Campbell of Lochlane</title></circle></a><a href="/setts/s6/k23r3k1r12k1r3~x4/"><circle cx="431.2" cy="184.0" r="4" fill="#3465a4"><title>Ewing</title></circle></a><a href="/setts/s5/r20k3r4w2k7~x2/"><circle cx="397.9" cy="215.0" r="4" fill="#3465a4"><title>Loevenstein Castle 1 (Artefact)</title></circle></a><a href="/setts/s9/k18r2k2r5w2r2w2r2k2~x2/"><circle cx="331.7" cy="174.3" r="4" fill="#3465a4"><title>Tweedside</title></circle></a><a href="/setts/s5/r20k3r4lb2k7~x2/"><circle cx="404.6" cy="217.8" r="4" fill="#3465a4"><title>Loevenstein Castle</title></circle></a><a href="/setts/s5/r4k1r12k12r2~x2/"><circle cx="373.9" cy="230.2" r="4" fill="#3465a4"><title>Campbell of Armaddie</title></circle></a><a href="/setts/s6/k3r1k16r16k1r3~x4/"><circle cx="376.2" cy="205.3" r="4" fill="#3465a4"><title>The Mary Erskine</title></circle></a><circle cx="417.1" cy="213.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k30r3k2r3k2r27k30r4~x2/"><circle cx="438.1" cy="204.6" r="4" fill="#3465a4"><title>Murray of Ochtertyre #2</title></circle></a><a href="/setts/s5/k6r1k6r9k1~x4/"><circle cx="348.3" cy="259.3" r="4" fill="#3465a4"><title>MacLeod of Raasay</title></circle></a><a href="/setts/s6/k2r6k2r6k12ly1~x2/"><circle cx="324.5" cy="212.7" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><a href="/setts/s7/k2r1k6r6k1r1k1~x4/"><circle cx="355.8" cy="257.4" r="4" fill="#3465a4"><title>Campbell of Lochlane</title></circle></a><a href="/setts/s6/k23r3k1r12~x4/"><circle cx="431.0" cy="183.7" r="4" fill="#3465a4"><title>Ewing</title></circle></a><a href="/setts/s5/r20k3r4w2k7~x2/"><circle cx="397.8" cy="214.6" r="4" fill="#3465a4"><title>Loevenstein Castle 1 (Artefact)</title></circle></a><a href="/setts/s9/k18r2k2r5w2r2w2r2k2~x2/"><circle cx="331.7" cy="174.0" r="4" fill="#3465a4"><title>Tweedside</title></circle></a><a href="/setts/s5/r20k3r4lb2k7~x2/"><circle cx="404.5" cy="217.4" r="4" fill="#3465a4"><title>Loevenstein Castle</title></circle></a><a href="/setts/s5/r4k1r12k12r2~x2/"><circle cx="373.8" cy="229.8" r="4" fill="#3465a4"><title>Campbell of Armaddie</title></circle></a><a href="/setts/s6/k3r1k16r16k1r3~x4/"><circle cx="376.1" cy="205.0" r="4" fill="#3465a4"><title>The Mary Erskine</title></circle></a><circle cx="417.0" cy="213.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k1r4k1r4k13r1~x4/

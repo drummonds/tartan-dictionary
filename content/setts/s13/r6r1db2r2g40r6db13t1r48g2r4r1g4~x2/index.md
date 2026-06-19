@@ -2,7 +2,7 @@
 title: "MacDonald of Glencoe"
 date: 2023-03-18
 ---
-**Bands:** [GRRGRBBRGRBRR](/stripes/grrgrbbrgrbrr/) · **Stripes:** [G R R G R T DB R G R DB R R](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">G R R G R T DB R G R DB R R</span></span>
+**Bands:** [RRBRGRBBRGRRG](/stripes/rrbrgrbbrgrrg/) · **Stripes:** [R R DB R G R DB T R G R R G](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R R DB R G R DB T R G R R G</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -905,19 +908,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MacDonald, of Glencoe](/setts/s13/r5ly1db2r2g30r5db10t1r42g2r4ly1g4~x2/) — ΔT 0.35
 1. [MacDonald of Glencoe Artifact Tartan Tartan Number: 1012. Earliest known date: 17th century Cargill fragment now at Fort William museum. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s13/m6r1db2m2g40m6db13t1m48g2m4r1g4~x2/) — ΔT 0.69
-1. [Hay](/setts/s14/lr6r2k1r2dg4r48dg12r2dg2r2dg36ly2dg4r6~x2/) — ΔT 0.81
+1. [Hay](/setts/s14/r6dg4ly2dg36r2dg2r2dg12r48dg4r2k1r2lr6~x2/) — ΔT 0.81
 1. [Afghanistan Memorial](/setts/s13/dt8k3y1k1y39k3r3y2dt11k8y2k3w2~x2/) — ΔT 0.88
 1. [MacDonald of Glencoe #2](/setts/s13/r5ly1db2r2dg30r5db10t1r42dg2r4ly1dg4~x2/) — ΔT 0.99
 1. [Drummond of Megginch - 2023 BertieLexa](/setts/s15/r7db1r2db2r35lb2r2db10r2g2r2g37r3db2r6~x2/) — ΔT 1.14
 1. [Crieff](/setts/s13/r2r6g4r70g4r2dp21r2g85r2g4r6r2/) — ΔT 1.15
-1. [Ellis Island (District)](/setts/s13/r68k1g6t4g1t12w1g6ly1g24ly1g2ly3~x2/) — ΔT 1.23
 1. [MacDonald of Glencoe #3](/setts/s13/g8r1r6g3r40y2k12r6g30r3k2r1r6~x2/) — ΔT 1.23
+1. [Ellis Island (District)](/setts/s13/r68k1g6t4g1t12w1g6ly1g24ly1g2ly3~x2/) — ΔT 1.23
 1. [Dalzell](/setts/s17/r24w1db2r8g52r8db2w1r8db12r8w1db2r52g4r6g6~x2/) — ΔT 1.25
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r5ly1db2r2g30r5db10t1r42g2r4ly1g4~x2/"><circle cx="372.3" cy="78.7" r="4" fill="#3465a4"><title>MacDonald, of Glencoe</title></circle></a><a href="/setts/s13/m6r1db2m2g40m6db13t1m48g2m4r1g4~x2/"><circle cx="380.2" cy="77.5" r="4" fill="#3465a4"><title>MacDonald of Glencoe Artifact Tartan Tartan Number: 1012. Earliest known date: 17th century Cargill fragment now at Fort William museum. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/lr6r2k1r2dg4r48dg12r2dg2r2dg36ly2dg4r6~x2/"><circle cx="382.1" cy="73.9" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/setts/s13/dt8k3y1k1y39k3r3y2dt11k8y2k3w2~x2/"><circle cx="331.1" cy="76.7" r="4" fill="#3465a4"><title>Afghanistan Memorial</title></circle></a><a href="/setts/s13/r5ly1db2r2dg30r5db10t1r42dg2r4ly1dg4~x2/"><circle cx="401.0" cy="93.2" r="4" fill="#3465a4"><title>MacDonald of Glencoe #2</title></circle></a><a href="/setts/s15/r7db1r2db2r35lb2r2db10r2g2r2g37r3db2r6~x2/"><circle cx="382.9" cy="92.7" r="4" fill="#3465a4"><title>Drummond of Megginch - 2023 BertieLexa</title></circle></a><a href="/setts/s13/r2r6g4r70g4r2dp21r2g85r2g4r6r2/"><circle cx="377.9" cy="84.0" r="4" fill="#3465a4"><title>Crieff</title></circle></a><a href="/setts/s13/r68k1g6t4g1t12w1g6ly1g24ly1g2ly3~x2/"><circle cx="373.0" cy="43.2" r="4" fill="#3465a4"><title>Ellis Island (District)</title></circle></a><a href="/setts/s13/g8r1r6g3r40y2k12r6g30r3k2r1r6~x2/"><circle cx="330.7" cy="77.7" r="4" fill="#3465a4"><title>MacDonald of Glencoe #3</title></circle></a><a href="/setts/s17/r24w1db2r8g52r8db2w1r8db12r8w1db2r52g4r6g6~x2/"><circle cx="377.0" cy="58.5" r="4" fill="#3465a4"><title>Dalzell</title></circle></a><circle cx="372.1" cy="75.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r5ly1db2r2g30r5db10t1r42g2r4ly1g4~x2/"><circle cx="372.0" cy="78.7" r="4" fill="#3465a4"><title>MacDonald, of Glencoe</title></circle></a><a href="/setts/s13/m6r1db2m2g40m6db13t1m48g2m4r1g4~x2/"><circle cx="379.8" cy="77.6" r="4" fill="#3465a4"><title>MacDonald of Glencoe Artifact Tartan Tartan Number: 1012. Earliest known date: 17th century Cargill fragment now at Fort William museum. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/r6dg4ly2dg36r2dg2r2dg12r48dg4r2k1r2lr6~x2/"><circle cx="381.7" cy="74.0" r="4" fill="#3465a4"><title>Hay</title></circle></a><a href="/setts/s13/dt8k3y1k1y39k3r3y2dt11k8y2k3w2~x2/"><circle cx="330.8" cy="76.7" r="4" fill="#3465a4"><title>Afghanistan Memorial</title></circle></a><a href="/setts/s13/r5ly1db2r2dg30r5db10t1r42dg2r4ly1dg4~x2/"><circle cx="400.6" cy="93.3" r="4" fill="#3465a4"><title>MacDonald of Glencoe #2</title></circle></a><a href="/setts/s15/r7db1r2db2r35lb2r2db10r2g2r2g37r3db2r6~x2/"><circle cx="382.4" cy="92.7" r="4" fill="#3465a4"><title>Drummond of Megginch - 2023 BertieLexa</title></circle></a><a href="/setts/s13/r2r6g4r70g4r2dp21r2g85r2g4r6r2/"><circle cx="377.4" cy="84.0" r="4" fill="#3465a4"><title>Crieff</title></circle></a><a href="/setts/s13/g8r1r6g3r40y2k12r6g30r3k2r1r6~x2/"><circle cx="330.3" cy="77.7" r="4" fill="#3465a4"><title>MacDonald of Glencoe #3</title></circle></a><a href="/setts/s13/r68k1g6t4g1t12w1g6ly1g24ly1g2ly3~x2/"><circle cx="372.5" cy="43.3" r="4" fill="#3465a4"><title>Ellis Island (District)</title></circle></a><a href="/setts/s17/r24w1db2r8g52r8db2w1r8db12r8w1db2r52g4r6g6~x2/"><circle cx="376.5" cy="58.5" r="4" fill="#3465a4"><title>Dalzell</title></circle></a><circle cx="371.7" cy="75.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r6r1db2r2g40r6db13t1r48g2r4r1g4~x2/

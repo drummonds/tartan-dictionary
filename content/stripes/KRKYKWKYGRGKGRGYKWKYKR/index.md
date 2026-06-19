@@ -22,6 +22,6 @@ KRKYKWKYGRGKGRGYKWKYKR
 
 | Tartans |
 |---------------|
-| [O'Keefe](/setts/s22/k8r2k3ly2k2w3k2lo12y22r2y2k1y2r2y22lo12k2w3k2ly2k3r2~x2/)|
-|![O'Keefe example sett](/setts/s22/k8r2k3ly2k2w3k2lo12y22r2y2k1y2r2y22lo12k2w3k2ly2k3r2~x2/sett.png)|
+| [O'Keefe](/setts/s22/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/)|
+|![O'Keefe example sett](/setts/s22/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/sett.png)|
 

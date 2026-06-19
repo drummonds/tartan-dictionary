@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [18 band tartan](/bands/bands18/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Royal Canadian Air Force Regimental
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,12 +921,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Pride of Loch Leven (Fashion?)](/setts/s19/dg8k1dg1k1dg1k4m10w2m10k3dg3k6dg3k6dg3k3m10w3r4~x2/) — ΔT 1.30
 1. [Auld Alliance](/setts/s16/w5db1db10db2db4db2db1db2db4db2r15w15db15dp2db1dp4~x2/) — ΔT 1.32
 1. [Royal Canadian Air Force (Military)](/setts/s18/r4lb6k1r2k1lb14k3w3k2r2k2r2db4r2db6r2db6r2~x2/) — ΔT 1.36
-1. [Stewart/Stuart Blue](/setts/s22/db33r8k12ly2k4w4k4g12db8k4db4w2db4k4db8g12k4w4k4ly2k12r8~x2/) — ΔT 1.37
+1. [Stewart/Stuart Blue](/setts/s22/db33r8k12ly2k4w4k4g12db8k4db4w2~x2/) — ΔT 1.37
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/r4t6k1r2k1t14k3w3k2r2k2r2db4r2db6r2db6r2~x2/"><circle cx="116.8" cy="123.3" r="4" fill="#3465a4"><title>Royal Canadian Air Force</title></circle></a><a href="/setts/s18/dr4b6k1dr2k1b14k3lr3k2dr2k2dr2db4dr2db6dr2db6dr3/"><circle cx="128.9" cy="141.6" r="4" fill="#3465a4"><title>Royal Canadian Air Force</title></circle></a><a href="/setts/s18/r4t6k1r2k1t14k3w3k2r2k2r2db4r2db6r2db6r3/"><circle cx="129.3" cy="132.8" r="4" fill="#3465a4"><title>Royal Canadian Air Force Regimental Tartan Tartan Number: 1343. Earliest known date: 1942 The threadcount was provided by the Canadian Defence Department. Colours specified as dark blue, light blue and maroon. It is unusual to have a single strand used in a thread count as it is impossible to turn the thread on the 'kilt edge'. The sett is recorded and approved by the Lord Lyon. Design is based on the Anderson sett. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/r3t7k1r2k1t12k4w3k2r1k1r1db3r2db4r2~x2/"><circle cx="150.1" cy="132.2" r="4" fill="#3465a4"><title>Royal Canadian Air Force #2</title></circle></a><a href="/setts/s14/r4t11k4t4k4t4k21db21w4db21k21t20k1r4~x2/"><circle cx="165.8" cy="135.7" r="4" fill="#3465a4"><title>McCaig (2016)</title></circle></a><a href="/setts/s15/db15k4db4k4db4k16t16k2g3k2t16k16db18k1w2~x2/"><circle cx="177.9" cy="142.7" r="4" fill="#3465a4"><title>McCruden, Raymond (Personal)</title></circle></a><a href="/setts/s19/dg8k1dg1k1dg1k4m10w2m10k3dg3k6dg3k6dg3k3m10w3r4~x2/"><circle cx="121.6" cy="146.5" r="4" fill="#3465a4"><title>Pride of Loch Leven (Fashion?)</title></circle></a><a href="/setts/s16/w5db1db10db2db4db2db1db2db4db2r15w15db15dp2db1dp4~x2/"><circle cx="107.6" cy="104.7" r="4" fill="#3465a4"><title>Auld Alliance</title></circle></a><a href="/setts/s18/r4lb6k1r2k1lb14k3w3k2r2k2r2db4r2db6r2db6r2~x2/"><circle cx="106.5" cy="110.1" r="4" fill="#3465a4"><title>Royal Canadian Air Force (Military)</title></circle></a><a href="/setts/s22/db33r8k12ly2k4w4k4g12db8k4db4w2db4k4db8g12k4w4k4ly2k12r8~x2/"><circle cx="131.0" cy="97.8" r="4" fill="#3465a4"><title>Stewart/Stuart Blue</title></circle></a><circle cx="111.1" cy="128.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/r4t6k1r2k1t14k3w3k2r2k2r2db4r2db6r2db6r2~x2/"><circle cx="116.8" cy="123.4" r="4" fill="#3465a4"><title>Royal Canadian Air Force</title></circle></a><a href="/setts/s18/dr4b6k1dr2k1b14k3lr3k2dr2k2dr2db4dr2db6dr2db6dr3/"><circle cx="129.1" cy="141.7" r="4" fill="#3465a4"><title>Royal Canadian Air Force</title></circle></a><a href="/setts/s18/r4t6k1r2k1t14k3w3k2r2k2r2db4r2db6r2db6r3/"><circle cx="129.3" cy="132.9" r="4" fill="#3465a4"><title>Royal Canadian Air Force Regimental Tartan Tartan Number: 1343. Earliest known date: 1942 The threadcount was provided by the Canadian Defence Department. Colours specified as dark blue, light blue and maroon. It is unusual to have a single strand used in a thread count as it is impossible to turn the thread on the 'kilt edge'. The sett is recorded and approved by the Lord Lyon. Design is based on the Anderson sett. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/r3t7k1r2k1t12k4w3k2r1k1r1db3r2db4r2~x2/"><circle cx="150.1" cy="132.3" r="4" fill="#3465a4"><title>Royal Canadian Air Force #2</title></circle></a><a href="/setts/s14/r4t11k4t4k4t4k21db21w4db21k21t20k1r4~x2/"><circle cx="165.8" cy="135.8" r="4" fill="#3465a4"><title>McCaig (2016)</title></circle></a><a href="/setts/s15/db15k4db4k4db4k16t16k2g3k2t16k16db18k1w2~x2/"><circle cx="178.0" cy="142.8" r="4" fill="#3465a4"><title>McCruden, Raymond (Personal)</title></circle></a><a href="/setts/s19/dg8k1dg1k1dg1k4m10w2m10k3dg3k6dg3k6dg3k3m10w3r4~x2/"><circle cx="121.6" cy="146.6" r="4" fill="#3465a4"><title>Pride of Loch Leven (Fashion?)</title></circle></a><a href="/setts/s16/w5db1db10db2db4db2db1db2db4db2r15w15db15dp2db1dp4~x2/"><circle cx="107.5" cy="104.8" r="4" fill="#3465a4"><title>Auld Alliance</title></circle></a><a href="/setts/s18/r4lb6k1r2k1lb14k3w3k2r2k2r2db4r2db6r2db6r2~x2/"><circle cx="106.4" cy="110.2" r="4" fill="#3465a4"><title>Royal Canadian Air Force (Military)</title></circle></a><a href="/setts/s22/db33r8k12ly2k4w4k4g12db8k4db4w2~x2/"><circle cx="131.0" cy="98.0" r="4" fill="#3465a4"><title>Stewart/Stuart Blue</title></circle></a><circle cx="111.2" cy="128.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s18/m4t6k1m2k1t14k3w3k2m2k2m2db4m2db6m2db6m3/

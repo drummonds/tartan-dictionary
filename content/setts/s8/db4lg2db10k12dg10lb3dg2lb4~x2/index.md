@@ -49,20 +49,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Hogarth, of Firhill](/setts/s7/b2g6ly1k6db6k1db1~x2/) — ΔT 0.74
-1. [MacNeil of Barra](/setts/s6/lb3db14k12dg12k2ly3/) — ΔT 0.93
-1. [Gaines Center for the Humanities](/setts/s6/lb1db6k6g6k1r1~x4/) — ΔT 0.93
+1. [MacNeil of Barra](/setts/s6/ly3k2dg12k12db14lb3/) — ΔT 0.93
+1. [Gaines Center for the Humanities](/setts/s6/r1k1g6k6db6lb1~x4/) — ΔT 0.93
 1. [Hinnigan (Personal)](/setts/s8/o8g4db16g4k14o14db4b3~x2/) — ΔT 0.94
 1. [Hebridean Celebration](/setts/s8/k1g6k6g1m2o2db6w1~x4/) — ΔT 0.96
 1. [Royal Highland](/setts/s6/lr4g17k17db17r3db3~x2/) — ΔT 1.04
 1. [Wellington](/setts/s6/db1r1db6k6g6w1~x2/) — ΔT 1.08
-1. [MacNeil 6](/setts/s6/ly3k2g12k12db14w3~x2/) — ΔT 1.11
+1. [MacNeil 6](/setts/s6/w3db14k12g12k2ly3~x2/) — ΔT 1.11
 1. [Wellington, or Waterloo](/setts/s6/t3g8k9db7r2db2~x2/) — ΔT 1.12
 1. [Cooke](/setts/s7/k6b2db12g8r5k2g3~x4/) — ΔT 1.14
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/b2g6ly1k6db6k1db1~x2/"><circle cx="82.9" cy="209.8" r="4" fill="#3465a4"><title>Hogarth, of Firhill</title></circle></a><a href="/setts/s6/lb3db14k12dg12k2ly3/"><circle cx="87.5" cy="222.0" r="4" fill="#3465a4"><title>MacNeil of Barra</title></circle></a><a href="/setts/s6/lb1db6k6g6k1r1~x4/"><circle cx="102.7" cy="222.7" r="4" fill="#3465a4"><title>Gaines Center for the Humanities</title></circle></a><a href="/setts/s8/o8g4db16g4k14o14db4b3~x2/"><circle cx="84.2" cy="224.1" r="4" fill="#3465a4"><title>Hinnigan (Personal)</title></circle></a><a href="/setts/s8/k1g6k6g1m2o2db6w1~x4/"><circle cx="40.6" cy="186.7" r="4" fill="#3465a4"><title>Hebridean Celebration</title></circle></a><a href="/setts/s6/lr4g17k17db17r3db3~x2/"><circle cx="93.1" cy="224.0" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/setts/s6/db1r1db6k6g6w1~x2/"><circle cx="101.7" cy="217.1" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/setts/s6/ly3k2g12k12db14w3~x2/"><circle cx="77.7" cy="212.1" r="4" fill="#3465a4"><title>MacNeil 6</title></circle></a><a href="/setts/s6/t3g8k9db7r2db2~x2/"><circle cx="56.8" cy="245.0" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/setts/s7/k6b2db12g8r5k2g3~x4/"><circle cx="81.5" cy="219.2" r="4" fill="#3465a4"><title>Cooke</title></circle></a><circle cx="57.8" cy="210.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/b2g6ly1k6db6k1db1~x2/"><circle cx="83.2" cy="209.8" r="4" fill="#3465a4"><title>Hogarth, of Firhill</title></circle></a><a href="/setts/s6/ly3k2dg12k12db14lb3/"><circle cx="87.8" cy="222.1" r="4" fill="#3465a4"><title>MacNeil of Barra</title></circle></a><a href="/setts/s6/r1k1g6k6db6lb1~x4/"><circle cx="103.0" cy="222.6" r="4" fill="#3465a4"><title>Gaines Center for the Humanities</title></circle></a><a href="/setts/s8/o8g4db16g4k14o14db4b3~x2/"><circle cx="84.5" cy="224.1" r="4" fill="#3465a4"><title>Hinnigan (Personal)</title></circle></a><a href="/setts/s8/k1g6k6g1m2o2db6w1~x4/"><circle cx="40.9" cy="186.8" r="4" fill="#3465a4"><title>Hebridean Celebration</title></circle></a><a href="/setts/s6/lr4g17k17db17r3db3~x2/"><circle cx="93.4" cy="223.9" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/setts/s6/db1r1db6k6g6w1~x2/"><circle cx="101.9" cy="217.1" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/setts/s6/w3db14k12g12k2ly3~x2/"><circle cx="78.0" cy="212.1" r="4" fill="#3465a4"><title>MacNeil 6</title></circle></a><a href="/setts/s6/t3g8k9db7r2db2~x2/"><circle cx="57.1" cy="245.0" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/setts/s7/k6b2db12g8r5k2g3~x4/"><circle cx="81.8" cy="219.3" r="4" fill="#3465a4"><title>Cooke</title></circle></a><circle cx="58.2" cy="210.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db4lg2db10k12dg10lb3dg2lb4~x2/

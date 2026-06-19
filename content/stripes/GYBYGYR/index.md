@@ -8,7 +8,7 @@ GYBYGYR
 
 It is a 7 band tartan.
 
-![Woven sample](/setts/s7/g4ly4b4ly4g4ly3r4~x2/tartan.png)
+![Woven sample](/setts/s7/r4ly3g4ly4b4ly4g4~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ GYBYGYR
 
 
 
-### G LY B LY G LY R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">G LY B LY G LY R</span></span>
+### R LY G LY B LY G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R LY G LY B LY G</span></span>
 
 | Tartans |
 |---------------|
-| [Lochwood Estate Check](/setts/s7/g4ly4b4ly4g4ly3r4~x2/)|
-|![Lochwood Estate Check example sett](/setts/s7/g4ly4b4ly4g4ly3r4~x2/sett.png)|
+| [Lochwood Estate Check](/setts/s7/r4ly3g4ly4b4ly4g4~x2/)|
+|![Lochwood Estate Check example sett](/setts/s7/r4ly3g4ly4b4ly4g4~x2/sett.png)|
 

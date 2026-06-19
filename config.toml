@@ -81,6 +81,13 @@ pagerSize = 20
     name = "Stripes"
     url = "/stripes/"
     weight = 2
+    # Overstripes — "coming soon" holding page (layout: holding) until the real
+    # content is built. See content/overstripes/.
+    [[menu.main]]
+    parent = "tartans"
+    name = "Overstripes"
+    url = "/overstripes/"
+    weight = 3
 
   # TTD (the tartan navigator) is its own top-level entry.
   [[menu.main]]
@@ -124,14 +131,9 @@ weight = 1
   weight = 4
   [[menu.info]]
   parent = "info"
-  name = "Glossary"
-  url = "/glossary/"
-  weight = 5
-  [[menu.info]]
-  parent = "info"
   name = "About"
   url = "/about/"
-  weight = 6
+  weight = 5
 
 [params.social]
   github = "https://github.com/Drummonds"

@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3417
 
+## Also known as
+
+This cloth is also recorded under:
+
+- PSD: Operation Iraqi Freedom (Milita
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -51,16 +57,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Cavan, County](/setts/s10/k3r9k4dy9y3dy9k4g26k2y3~x2/) — ΔT 1.39
 1. [Brousseau (Personal)](/setts/s9/y25r2lb2db2lb2r13dy28db2r3~x2/) — ΔT 1.39
 1. [Scott Htg (Clan)](/setts/s8/r3dy16g10r3g3lb2g3r3~x2/) — ΔT 1.42
-1. [Methven](/setts/s11/lo2dg24y2dg2y6r21dy2r2dy18dg3r2~x2/) — ΔT 1.42
+1. [Methven](/setts/s11/r2dg3dy18r2dy2r21y6dg2y2dg24lo2~x2/) — ΔT 1.42
 1. [MacAart (Personal)](/setts/s10/dy9k2dy2r2g6k1lo1k1g6r3~x4/) — ΔT 1.42
-1. [Methven](/setts/s11/lo2dg24g2dg2g2o21dy2o2dy18dg3o2~x2/) — ΔT 1.43
+1. [Methven](/setts/s11/o2dg3dy18o2dy2o21g2dg2g2dg24lo2~x2/) — ΔT 1.43
 1. [Bruce of Kinnaird (Vivienne Westwood Design)](/setts/s10/dy22y22dr2lb6dr2lo2dr16g5dy8lb2~x2/) — ΔT 1.43
 1. [MacAart Family Tartan Tartan Number: 1477. Earliest known date: pre 2003 Restricted See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/dy9k2dy2r2g6k1ly1k1g6r3~x2/) — ΔT 1.43
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/"><circle cx="238.1" cy="182.7" r="4" fill="#3465a4"><title>Henry, W. A.</title></circle></a><a href="/setts/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="235.8" cy="199.2" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><a href="/setts/s10/k3r9k4dy9y3dy9k4g26k2y3~x2/"><circle cx="206.7" cy="176.3" r="4" fill="#3465a4"><title>Cavan, County</title></circle></a><a href="/setts/s9/y25r2lb2db2lb2r13dy28db2r3~x2/"><circle cx="269.8" cy="172.3" r="4" fill="#3465a4"><title>Brousseau (Personal)</title></circle></a><a href="/setts/s8/r3dy16g10r3g3lb2g3r3~x2/"><circle cx="248.1" cy="226.6" r="4" fill="#3465a4"><title>Scott Htg (Clan)</title></circle></a><a href="/setts/s11/lo2dg24y2dg2y6r21dy2r2dy18dg3r2~x2/"><circle cx="251.6" cy="179.5" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/setts/s10/dy9k2dy2r2g6k1lo1k1g6r3~x4/"><circle cx="217.3" cy="215.8" r="4" fill="#3465a4"><title>MacAart (Personal)</title></circle></a><a href="/setts/s11/lo2dg24g2dg2g2o21dy2o2dy18dg3o2~x2/"><circle cx="242.6" cy="158.9" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/setts/s10/dy22y22dr2lb6dr2lo2dr16g5dy8lb2~x2/"><circle cx="170.4" cy="159.8" r="4" fill="#3465a4"><title>Bruce of Kinnaird (Vivienne Westwood Design)</title></circle></a><a href="/setts/s10/dy9k2dy2r2g6k1ly1k1g6r3~x2/"><circle cx="190.5" cy="198.6" r="4" fill="#3465a4"><title>MacAart Family Tartan Tartan Number: 1477. Earliest known date: pre 2003 Restricted See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="214.8" cy="200.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/"><circle cx="238.0" cy="182.9" r="4" fill="#3465a4"><title>Henry, W. A.</title></circle></a><a href="/setts/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="235.7" cy="199.3" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><a href="/setts/s10/k3r9k4dy9y3dy9k4g26k2y3~x2/"><circle cx="206.6" cy="176.5" r="4" fill="#3465a4"><title>Cavan, County</title></circle></a><a href="/setts/s9/y25r2lb2db2lb2r13dy28db2r3~x2/"><circle cx="269.6" cy="172.5" r="4" fill="#3465a4"><title>Brousseau (Personal)</title></circle></a><a href="/setts/s8/r3dy16g10r3g3lb2g3r3~x2/"><circle cx="247.9" cy="226.7" r="4" fill="#3465a4"><title>Scott Htg (Clan)</title></circle></a><a href="/setts/s11/r2dg3dy18r2dy2r21y6dg2y2dg24lo2~x2/"><circle cx="251.5" cy="179.7" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/setts/s10/dy9k2dy2r2g6k1lo1k1g6r3~x4/"><circle cx="217.3" cy="216.0" r="4" fill="#3465a4"><title>MacAart (Personal)</title></circle></a><a href="/setts/s11/o2dg3dy18o2dy2o21g2dg2g2dg24lo2~x2/"><circle cx="242.4" cy="159.1" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/setts/s10/dy22y22dr2lb6dr2lo2dr16g5dy8lb2~x2/"><circle cx="170.3" cy="160.0" r="4" fill="#3465a4"><title>Bruce of Kinnaird (Vivienne Westwood Design)</title></circle></a><a href="/setts/s10/dy9k2dy2r2g6k1ly1k1g6r3~x2/"><circle cx="190.5" cy="198.7" r="4" fill="#3465a4"><title>MacAart Family Tartan Tartan Number: 1477. Earliest known date: pre 2003 Restricted See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="214.7" cy="201.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k2y1dg12y12r12k1r2~x4/

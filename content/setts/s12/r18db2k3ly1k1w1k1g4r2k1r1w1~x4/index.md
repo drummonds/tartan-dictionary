@@ -9,6 +9,12 @@ This was sourced from house-of-tartan.  It is a [12 band tartan](/bands/bands12/
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1370
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Royal Stewart Royal
+
 ## Variants
 
 Other setts woven to the same stripe pattern.
@@ -21,7 +27,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-LN/4 R4 K4 R8 G16 K4 LN4 K4 Y4 K12 DB8 R/72
+R/72 DB8 K12 Y4 K4 LN4 K4 G16 R8 K4 R4 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -53,8 +59,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r18db2k3ly1k1w1k1g4r2k1r1w1~x2/"><circle cx="313.2" cy="66.1" r="4" fill="#3465a4"><title>Royal Stewart MINI Design Tartan Tartan Number: 11370. Earliest known date: Dupion Silk. Display Purposes Only. Reduced Copy of 1370 Royal Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/r18db2k3ly1k1w1k1g4r2k1r1w1~x8/"><circle cx="310.8" cy="64.6" r="4" fill="#3465a4"><title>Stewart/Stuart, Royal #2</title></circle></a><a href="/setts/s12/k3r24k4ly1k2w1db4dg6r3k1r2w1~x4/"><circle cx="305.7" cy="64.5" r="4" fill="#3465a4"><title>Stewart of Galloway - 1842 (Clan)</title></circle></a><a href="/setts/s12/r18g2k3ly1k1w1k1g4r2k1r1w1~x4/"><circle cx="297.3" cy="60.9" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/setts/s15/r3dg1r2dg1r18k4ly1k2w1db4dg6r3k1r2w1~x2/"><circle cx="281.9" cy="70.9" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #4</title></circle></a><a href="/setts/s12/r46w2r2w3r2k3db7k2ly2r2g8w3~x2/"><circle cx="360.5" cy="48.8" r="4" fill="#3465a4"><title>Lions' Pride</title></circle></a><a href="/setts/s9/r19ly1k2t1dg7r2k1t1w1~x4/"><circle cx="340.0" cy="82.4" r="4" fill="#3465a4"><title>Drummond Ancient</title></circle></a><a href="/setts/s9/r19ly1k2t1g7r2k1t1w1~x4/"><circle cx="329.2" cy="81.5" r="4" fill="#3465a4"><title>Drummond, Ancient</title></circle></a><a href="/setts/s14/dg2r30db4r4k6ly1k1w1k1dg10r4k1r1w1~x2/"><circle cx="337.2" cy="43.1" r="4" fill="#3465a4"><title>Stuart/Stewart</title></circle></a><a href="/setts/s12/k3r24k4ly1k2w1db4g6r3k1r2w1~x2/"><circle cx="289.5" cy="59.3" r="4" fill="#3465a4"><title>Stewart of Galloway</title></circle></a><circle cx="313.2" cy="66.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r18db2k3ly1k1w1k1g4r2k1r1w1~x2/"><circle cx="312.7" cy="66.1" r="4" fill="#3465a4"><title>Royal Stewart MINI Design Tartan Tartan Number: 11370. Earliest known date: Dupion Silk. Display Purposes Only. Reduced Copy of 1370 Royal Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s12/r18db2k3ly1k1w1k1g4r2k1r1w1~x8/"><circle cx="310.4" cy="64.6" r="4" fill="#3465a4"><title>Stewart/Stuart, Royal #2</title></circle></a><a href="/setts/s12/k3r24k4ly1k2w1db4dg6r3k1r2w1~x4/"><circle cx="305.3" cy="64.5" r="4" fill="#3465a4"><title>Stewart of Galloway - 1842 (Clan)</title></circle></a><a href="/setts/s12/r18g2k3ly1k1w1k1g4r2k1r1w1~x4/"><circle cx="296.9" cy="60.8" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/setts/s15/r3dg1r2dg1r18k4ly1k2w1db4dg6r3k1r2w1~x2/"><circle cx="281.5" cy="70.9" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #4</title></circle></a><a href="/setts/s12/r46w2r2w3r2k3db7k2ly2r2g8w3~x2/"><circle cx="360.0" cy="48.7" r="4" fill="#3465a4"><title>Lions' Pride</title></circle></a><a href="/setts/s9/r19ly1k2t1dg7r2k1t1w1~x4/"><circle cx="339.5" cy="82.3" r="4" fill="#3465a4"><title>Drummond Ancient</title></circle></a><a href="/setts/s9/r19ly1k2t1g7r2k1t1w1~x4/"><circle cx="328.8" cy="81.5" r="4" fill="#3465a4"><title>Drummond, Ancient</title></circle></a><a href="/setts/s14/dg2r30db4r4k6ly1k1w1k1dg10r4k1r1w1~x2/"><circle cx="336.8" cy="43.1" r="4" fill="#3465a4"><title>Stuart/Stewart</title></circle></a><a href="/setts/s12/k3r24k4ly1k2w1db4g6r3k1r2w1~x2/"><circle cx="289.2" cy="59.3" r="4" fill="#3465a4"><title>Stewart of Galloway</title></circle></a><circle cx="312.7" cy="66.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r18db2k3ly1k1w1k1g4r2k1r1w1~x4/

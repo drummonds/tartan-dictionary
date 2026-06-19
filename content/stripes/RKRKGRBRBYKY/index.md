@@ -22,6 +22,6 @@ RKRKGRBRBYKY
 
 | Tartans |
 |---------------|
-| [Celts, Tartan of the](/setts/s12/ly2k1ly1db3r3db4r4g15k1r1k1r2~x6/)|
-|![Celts, Tartan of the example sett](/setts/s12/ly2k1ly1db3r3db4r4g15k1r1k1r2~x6/sett.png)|
+| [Celts, Tartan of the](/setts/s12/r2k1r1k1g15r4db4r3db3ly1k1ly2~x6/)|
+|![Celts, Tartan of the example sett](/setts/s12/r2k1r1k1g15r4db4r3db3ly1k1ly2~x6/sett.png)|
 

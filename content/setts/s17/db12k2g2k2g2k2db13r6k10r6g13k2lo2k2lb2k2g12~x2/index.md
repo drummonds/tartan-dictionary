@@ -2,12 +2,18 @@
 title: "Cunningham Hunting"
 date: 2023-03-18
 ---
-**Bands:** [BKGKGKBRKRGKYKWKG](/stripes/bkgkgkbrkrgkykwkg/) · **Stripes:** [DB K G K G K DB R K R G K LO K LB K G](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB K G K G K DB R K R G K LO K LB K G</span></span>
+**Bands:** [GKWKYKGRKRBKGKGKB](/stripes/gkwkykgrkrbkgkgkb/) · **Stripes:** [G K LB K LO K G R K R DB K G K G K DB](/stripes/stripes17/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G K LB K LO K G R K R DB K G K G K DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [17 band tartan](/bands/bands17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=850
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Cunningham Hunting
 
 ## Attestations
 
@@ -51,7 +57,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Malcolm](/setts/s14/b1k1g6k6db6r1db1r1db6k6g6k1ly1k1~x4/) — ΔT 0.63
+1. [Malcolm](/setts/s14/k1ly1k1g6k6db6r1db1r1db6k6g6k1b1~x4/) — ΔT 0.63
 1. [Unidentified fragment](/setts/s18/dp47k6r6k6dp6k19dg19k6dg19ly6dg19k6dg19k19dp6k6w6k6~x2/) — ΔT 0.68
 1. [Malcolm #2](/setts/s14/k1ly1k1dg6k6db6r1db1r1db6k6dg6k1t1~x4/) — ΔT 0.88
 1. [Kinloch Anderson Hunting](/setts/s12/dp4g14y2g4y2k6g3k6db13r2db4r4~x2/) — ΔT 0.91
@@ -64,8 +70,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/b1k1g6k6db6r1db1r1db6k6g6k1ly1k1~x4/"><circle cx="118.2" cy="179.7" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><a href="/setts/s18/dp47k6r6k6dp6k19dg19k6dg19ly6dg19k6dg19k19dp6k6w6k6~x2/"><circle cx="120.4" cy="150.5" r="4" fill="#3465a4"><title>Unidentified fragment</title></circle></a><a href="/setts/s14/k1ly1k1dg6k6db6r1db1r1db6k6dg6k1t1~x4/"><circle cx="132.5" cy="187.6" r="4" fill="#3465a4"><title>Malcolm #2</title></circle></a><a href="/setts/s12/dp4g14y2g4y2k6g3k6db13r2db4r4~x2/"><circle cx="105.7" cy="186.2" r="4" fill="#3465a4"><title>Kinloch Anderson Hunting</title></circle></a><a href="/setts/s12/do8y8do4y28k12dt6k12r4dt8r4dt29lr6/"><circle cx="110.2" cy="174.1" r="4" fill="#3465a4"><title>Kinloch Anderson Castle Grey</title></circle></a><a href="/setts/s14/r1db6g1k1g1k1g6k1t1k1db3k3g3w1~x8/"><circle cx="111.9" cy="169.4" r="4" fill="#3465a4"><title>Elgin-Landshut</title></circle></a><a href="/setts/s17/n3w2r2dp6dg10n3k3n3k3n3dg14n3k3n3k7dg2r3~x2/"><circle cx="115.8" cy="171.2" r="4" fill="#3465a4"><title>Lee Cox (Personal)</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12g12r2w2r2g12k12db12r3db2~x2/"><circle cx="125.9" cy="186.7" r="4" fill="#3465a4"><title>MacKenzie Morgan</title></circle></a><a href="/setts/s13/dp3k3dp10k11g14db3g14k11w3lr3db15lr2w2~x2/"><circle cx="65.8" cy="168.3" r="4" fill="#3465a4"><title>North of Scotland Tartan Army</title></circle></a><a href="/setts/s12/db7w3g3db18lo3k15lo3g17r6g3r2g7~x2/"><circle cx="106.6" cy="160.0" r="4" fill="#3465a4"><title>Drennan</title></circle></a><circle cx="97.4" cy="161.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k1ly1k1g6k6db6r1db1r1db6k6g6k1b1~x4/"><circle cx="118.3" cy="179.9" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><a href="/setts/s18/dp47k6r6k6dp6k19dg19k6dg19ly6dg19k6dg19k19dp6k6w6k6~x2/"><circle cx="120.6" cy="150.6" r="4" fill="#3465a4"><title>Unidentified fragment</title></circle></a><a href="/setts/s14/k1ly1k1dg6k6db6r1db1r1db6k6dg6k1t1~x4/"><circle cx="132.7" cy="187.8" r="4" fill="#3465a4"><title>Malcolm #2</title></circle></a><a href="/setts/s12/dp4g14y2g4y2k6g3k6db13r2db4r4~x2/"><circle cx="105.9" cy="186.4" r="4" fill="#3465a4"><title>Kinloch Anderson Hunting</title></circle></a><a href="/setts/s12/do8y8do4y28k12dt6k12r4dt8r4dt29lr6/"><circle cx="110.3" cy="174.3" r="4" fill="#3465a4"><title>Kinloch Anderson Castle Grey</title></circle></a><a href="/setts/s14/r1db6g1k1g1k1g6k1t1k1db3k3g3w1~x8/"><circle cx="112.1" cy="169.5" r="4" fill="#3465a4"><title>Elgin-Landshut</title></circle></a><a href="/setts/s17/n3w2r2dp6dg10n3k3n3k3n3dg14n3k3n3k7dg2r3~x2/"><circle cx="115.9" cy="171.4" r="4" fill="#3465a4"><title>Lee Cox (Personal)</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12g12r2w2r2g12k12db12r3db2~x2/"><circle cx="126.0" cy="186.8" r="4" fill="#3465a4"><title>MacKenzie Morgan</title></circle></a><a href="/setts/s13/dp3k3dp10k11g14db3g14k11w3lr3db15lr2w2~x2/"><circle cx="65.9" cy="168.5" r="4" fill="#3465a4"><title>North of Scotland Tartan Army</title></circle></a><a href="/setts/s12/db7w3g3db18lo3k15lo3g17r6g3r2g7~x2/"><circle cx="106.8" cy="160.1" r="4" fill="#3465a4"><title>Drennan</title></circle></a><circle cx="97.6" cy="161.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s17/db12k2g2k2g2k2db13r6k10r6g13k2lo2k2lb2k2g12~x2/

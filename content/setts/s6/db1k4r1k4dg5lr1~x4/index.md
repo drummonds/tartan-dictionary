@@ -2,7 +2,7 @@
 title: "Unidentified Dance"
 date: 2023-03-18
 ---
-**Bands:** [BKRKGY](/stripes/bkrkgy/) · **Stripes:** [DB K R K DG LR](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#FF9C97"></span><span class="seq">DB K R K DG LR</span></span>
+**Bands:** [YGKRKB](/stripes/ygkrkb/) · **Stripes:** [LR DG K R K DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LR DG K R K DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -42,18 +42,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Forbes Ancient](/setts/s7/db1k6db6k6g6k1w1~x2/) — ΔT 1.19
 1. [Murray](/setts/s6/t3k16g16k16db3t3~x2/) — ΔT 1.25
 1. [Forbes LC](/setts/s7/db1k6db6k6dg6k1lb1/) — ΔT 1.32
-1. [Brodie Hunting](/setts/s7/r2db8dg8k8ly1dg8r2/) — ΔT 1.33
+1. [Brodie Hunting](/setts/s7/r2dg8ly1k8dg8db8r2/) — ΔT 1.33
 1. [Scott, Sir Walter](/setts/s6/k3g9t2k11p9k3~x2/) — ΔT 1.35
-1. [Brodie Hunting](/setts/s7/r2db8dg8k8ly1k8r2~x2/) — ΔT 1.35
-1. [Brodie Hunting](/setts/s7/r2db8dg8k8ly1k8r2/) — ΔT 1.35
-1. [Brodie hunting](/setts/s7/r2db8g8k8ly1k8r2~x2/) — ΔT 1.36
+1. [Brodie Hunting](/setts/s7/r2k8ly1k8dg8db8r2~x2/) — ΔT 1.35
+1. [Brodie hunting](/setts/s7/r2k8ly1k8g8db8r2~x2/) — ΔT 1.36
 1. [Campbell, Sir Walter Scott](/setts/s6/k2g8db2k9p7k2~x2/) — ΔT 1.38
-1. [BlackRock (Symmetrical)](/setts/s8/dg10w4r4k8dg20k6dg3k10~x2/) — ΔT 1.46
+1. [BlackRock (Symmetrical)](/setts/s8/k10dg3k6dg20k8r4w4dg10~x2/) — ΔT 1.46
+1. [MacCallum](/setts/s7/dg8k2lb1dg4k6db6k1~x2/) — ΔT 1.48
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db1k6db6k6g6k1w1~x2/"><circle cx="184.1" cy="241.0" r="4" fill="#3465a4"><title>Forbes Ancient</title></circle></a><a href="/setts/s6/t3k16g16k16db3t3~x2/"><circle cx="234.1" cy="251.1" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s7/db1k6db6k6dg6k1lb1/"><circle cx="212.2" cy="258.9" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/setts/s7/r2db8dg8k8ly1dg8r2/"><circle cx="153.8" cy="224.2" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/setts/s6/k3g9t2k11p9k3~x2/"><circle cx="168.1" cy="251.2" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/setts/s7/r2db8dg8k8ly1k8r2~x2/"><circle cx="165.1" cy="231.0" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/setts/s7/r2db8dg8k8ly1k8r2/"><circle cx="165.1" cy="231.0" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/setts/s7/r2db8g8k8ly1k8r2~x2/"><circle cx="138.2" cy="213.8" r="4" fill="#3465a4"><title>Brodie hunting</title></circle></a><a href="/setts/s6/k2g8db2k9p7k2~x2/"><circle cx="151.9" cy="255.6" r="4" fill="#3465a4"><title>Campbell, Sir Walter Scott</title></circle></a><a href="/setts/s8/dg10w4r4k8dg20k6dg3k10~x2/"><circle cx="202.8" cy="231.2" r="4" fill="#3465a4"><title>BlackRock (Symmetrical)</title></circle></a><circle cx="186.8" cy="245.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db1k6db6k6g6k1w1~x2/"><circle cx="184.4" cy="240.8" r="4" fill="#3465a4"><title>Forbes Ancient</title></circle></a><a href="/setts/s6/t3k16g16k16db3t3~x2/"><circle cx="234.4" cy="250.9" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s7/db1k6db6k6dg6k1lb1/"><circle cx="212.6" cy="258.9" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/setts/s7/r2dg8ly1k8dg8db8r2/"><circle cx="154.1" cy="224.2" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/setts/s6/k3g9t2k11p9k3~x2/"><circle cx="168.4" cy="251.1" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/setts/s7/r2k8ly1k8dg8db8r2~x2/"><circle cx="165.5" cy="231.0" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/setts/s7/r2k8ly1k8g8db8r2~x2/"><circle cx="138.4" cy="213.8" r="4" fill="#3465a4"><title>Brodie hunting</title></circle></a><a href="/setts/s6/k2g8db2k9p7k2~x2/"><circle cx="152.2" cy="255.5" r="4" fill="#3465a4"><title>Campbell, Sir Walter Scott</title></circle></a><a href="/setts/s8/k10dg3k6dg20k8r4w4dg10~x2/"><circle cx="203.0" cy="231.2" r="4" fill="#3465a4"><title>BlackRock (Symmetrical)</title></circle></a><a href="/setts/s7/dg8k2lb1dg4k6db6k1~x2/"><circle cx="194.4" cy="245.0" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><circle cx="187.2" cy="245.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db1k4r1k4dg5lr1~x4/

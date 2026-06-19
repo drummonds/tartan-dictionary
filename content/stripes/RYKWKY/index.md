@@ -8,7 +8,7 @@ RYKWKY
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/r3lo2k10w1k10lo2~x6/tartan.png)
+![Woven sample](/setts/s6/r3lo2k10w1~x6/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RYKWKY
 
 | Tartans |
 |---------------|
-| [St. Eloi](/setts/s6/r3lo2k10w1k10lo2~x6/)|
-|![St. Eloi example sett](/setts/s6/r3lo2k10w1k10lo2~x6/sett.png)|
+| [St. Eloi](/setts/s6/r3lo2k10w1~x6/)|
+|![St. Eloi example sett](/setts/s6/r3lo2k10w1~x6/sett.png)|
 

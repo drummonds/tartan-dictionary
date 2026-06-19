@@ -2,7 +2,7 @@
 title: "Wilson's, No 189"
 date: 2023-03-18
 ---
-**Bands:** [BGWR](/stripes/bgwr/) · **Stripes:** [P G W R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">P G W R</span></span>
+**Bands:** [RWGB](/stripes/rwgb/) · **Stripes:** [R W G P](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">R W G P</span></span>
 
 
 This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,15 +915,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Sugell (Name?)](/setts/s4/g72r25ly8w5/) — ΔT 1.13
 1. [Bacon, Green (Fashion)](/setts/s4/g14k3r3lr2~x2/) — ΔT 1.22
 1. [Wilson's No.140](/setts/s4/k2ly1g7t1~x2/) — ΔT 1.31
-1. [Wilson's No.174](/setts/s4/ly1g10db4t1~x2/) — ΔT 1.37
+1. [Wilson's No.174](/setts/s4/t1db4g10ly1~x2/) — ΔT 1.37
 1. [Sir Billi (Corporate)](/setts/s6/r8g12w5k11g42k3~x2/) — ΔT 1.40
 1. [Colonial Marine (Aliens Legacy)](/setts/s4/g56dy13ly13w5~x2/) — ΔT 1.40
 1. [Thunderlord (Celtic Group, USA)](/setts/s4/dt62w11k4t17~x2/) — ΔT 1.42
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/p4g10r1ly1~x2/"><circle cx="348.3" cy="222.3" r="4" fill="#3465a4"><title>Wilson's, No 192</title></circle></a><a href="/setts/s4/dp4g10r1w1~x2/"><circle cx="343.4" cy="223.9" r="4" fill="#3465a4"><title>Wilson's No.189</title></circle></a><a href="/setts/s4/dp4g10r1ly1~x2/"><circle cx="357.5" cy="230.9" r="4" fill="#3465a4"><title>Wilson's No.192</title></circle></a><a href="/setts/s4/g72r25ly8w5/"><circle cx="392.6" cy="208.3" r="4" fill="#3465a4"><title>Sugell (Name?)</title></circle></a><a href="/setts/s4/g14k3r3lr2~x2/"><circle cx="347.6" cy="250.7" r="4" fill="#3465a4"><title>Bacon, Green (Fashion)</title></circle></a><a href="/setts/s4/k2ly1g7t1~x2/"><circle cx="337.5" cy="248.0" r="4" fill="#3465a4"><title>Wilson's No.140</title></circle></a><a href="/setts/s4/ly1g10db4t1~x2/"><circle cx="362.7" cy="242.0" r="4" fill="#3465a4"><title>Wilson's No.174</title></circle></a><a href="/setts/s6/r8g12w5k11g42k3~x2/"><circle cx="374.0" cy="192.2" r="4" fill="#3465a4"><title>Sir Billi (Corporate)</title></circle></a><a href="/setts/s4/g56dy13ly13w5~x2/"><circle cx="365.0" cy="224.8" r="4" fill="#3465a4"><title>Colonial Marine (Aliens Legacy)</title></circle></a><a href="/setts/s4/dt62w11k4t17~x2/"><circle cx="388.3" cy="206.0" r="4" fill="#3465a4"><title>Thunderlord (Celtic Group, USA)</title></circle></a><circle cx="343.5" cy="220.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/p4g10r1ly1~x2/"><circle cx="348.1" cy="222.1" r="4" fill="#3465a4"><title>Wilson's, No 192</title></circle></a><a href="/setts/s4/dp4g10r1w1~x2/"><circle cx="343.3" cy="223.6" r="4" fill="#3465a4"><title>Wilson's No.189</title></circle></a><a href="/setts/s4/dp4g10r1ly1~x2/"><circle cx="357.4" cy="230.6" r="4" fill="#3465a4"><title>Wilson's No.192</title></circle></a><a href="/setts/s4/g72r25ly8w5/"><circle cx="392.4" cy="208.0" r="4" fill="#3465a4"><title>Sugell (Name?)</title></circle></a><a href="/setts/s4/g14k3r3lr2~x2/"><circle cx="347.5" cy="250.5" r="4" fill="#3465a4"><title>Bacon, Green (Fashion)</title></circle></a><a href="/setts/s4/k2ly1g7t1~x2/"><circle cx="337.4" cy="247.7" r="4" fill="#3465a4"><title>Wilson's No.140</title></circle></a><a href="/setts/s4/t1db4g10ly1~x2/"><circle cx="362.6" cy="241.7" r="4" fill="#3465a4"><title>Wilson's No.174</title></circle></a><a href="/setts/s6/r8g12w5k11g42k3~x2/"><circle cx="373.7" cy="191.9" r="4" fill="#3465a4"><title>Sir Billi (Corporate)</title></circle></a><a href="/setts/s4/g56dy13ly13w5~x2/"><circle cx="364.7" cy="224.6" r="4" fill="#3465a4"><title>Colonial Marine (Aliens Legacy)</title></circle></a><a href="/setts/s4/dt62w11k4t17~x2/"><circle cx="388.1" cy="205.7" r="4" fill="#3465a4"><title>Thunderlord (Celtic Group, USA)</title></circle></a><circle cx="343.3" cy="220.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/p4g10w1r1~x2/

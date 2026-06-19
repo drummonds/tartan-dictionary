@@ -1,0 +1,50 @@
+---
+title: "Burns' Birthplace (Commem)"
+date: 2023-03-18
+---
+**Bands:** [RRRRRRY](/stripes/rrrrrry/) · **Stripes:** [O O O O O O LO](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">O O O O O O LO</span></span>
+
+
+This was sourced from tartans-authority.  It is a [7 band tartan](/bands/bands7/).
+
+Original link http://www.tartansauthority.com/tartan-ferret/display/8253/
+
+## Thread count
+DO/12 DYa12 DO12 DYa12 DO48 DYa36 DY/12
+![Sett](sett.png)
+
+## Palette
+Each colour and its ΔE from the base-6 reference it is a variant of.
+
+| Colour | Shade | Base | ΔE (OKLab) |
+|---|---|---|---|
+| DO | <code style="background-color:#C04C08;"><span style="color:#C04C08;filter:grayscale(1) invert(1) contrast(100);">#C04C08</span></code> `#C04C08` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.08 |
+| DY | <code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> `#BC8C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.16 |
+| DYa | <code style="background-color:#AC7000;"><span style="color:#AC7000;filter:grayscale(1) invert(1) contrast(100);">#AC7000</span></code> `#AC7000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.16 |
+
+# Sample pattern
+
+![Tartan detail](tartan.png "DO/12 DYa12 DO12 DYa12 DO48 DYa36 DY/12 tartan")
+
+## Nearest tartans
+
+The nearest existing variants by ΔTartan distance.
+
+1. [Miyuki, House Check Tan, 1004A](/setts/s8/r3o8r3o20o20o3o8o3~x2/) — ΔT 2.49
+1. [Glenmorangie, Check](/setts/s3/r1o2o1~x10/) — ΔT 3.34
+1. [Loch Garth](/setts/s4/o12o6o2ly1~x4/) — ΔT 3.43
+1. [Harmony, 12](/setts/s6/o6y2o29y29o2y6~x2/) — ΔT 3.47
+1. [Outlander #3](/setts/s4/y14n7lo6n2~x8/) — ΔT 3.93
+1. [New Exeter Check (Fashion)](/setts/s5/r8n13r8r13r8/) — ΔT 3.98
+1. [Bute Heather, Ancient Wth'd (Fashion](/setts/s11/lo5n2y8n1y8n4y4n6y18lr1lo5~x2/) — ΔT 4.03
+1. [Harmony 11 #2](/setts/s6/dy6dg2dy29dg29dy2dg6~x2/) — ΔT 4.17
+1. [Bryce](/setts/s4/r5n35r46o5~x2/) — ΔT 4.20
+1. [Callum (Buchan)](/setts/s5/n7o1n6o8o1~x8/) — ΔT 4.21
+
+## Neighbour map
+
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r3o8r3o20o20o3o8o3~x2/"><circle cx="552.6" cy="366.0" r="4" fill="#3465a4"><title>Miyuki, House Check Tan, 1004A</title></circle></a><a href="/setts/s3/r1o2o1~x10/"><circle cx="417.1" cy="366.0" r="4" fill="#3465a4"><title>Glenmorangie, Check</title></circle></a><a href="/setts/s4/o12o6o2ly1~x4/"><circle cx="619.8" cy="354.9" r="4" fill="#3465a4"><title>Loch Garth</title></circle></a><a href="/setts/s6/o6y2o29y29o2y6~x2/"><circle cx="626.0" cy="360.1" r="4" fill="#3465a4"><title>Harmony, 12</title></circle></a><a href="/setts/s4/y14n7lo6n2~x8/"><circle cx="436.9" cy="366.0" r="4" fill="#3465a4"><title>Outlander #3</title></circle></a><a href="/setts/s5/r8n13r8r13r8/"><circle cx="422.1" cy="366.0" r="4" fill="#3465a4"><title>New Exeter Check (Fashion)</title></circle></a><a href="/setts/s11/lo5n2y8n1y8n4y4n6y18lr1lo5~x2/"><circle cx="559.6" cy="292.7" r="4" fill="#3465a4"><title>Bute Heather, Ancient Wth'd (Fashion</title></circle></a><a href="/setts/s6/dy6dg2dy29dg29dy2dg6~x2/"><circle cx="621.8" cy="366.0" r="4" fill="#3465a4"><title>Harmony 11 #2</title></circle></a><a href="/setts/s4/r5n35r46o5~x2/"><circle cx="529.3" cy="337.7" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/setts/s5/n7o1n6o8o1~x8/"><circle cx="375.2" cy="338.0" r="4" fill="#3465a4"><title>Callum (Buchan)</title></circle></a><circle cx="513.1" cy="366.0" r="5" fill="#c00000"/></svg>
+
+ID: /setts/s7/o1o1o1o1o4o3lo1~x12/

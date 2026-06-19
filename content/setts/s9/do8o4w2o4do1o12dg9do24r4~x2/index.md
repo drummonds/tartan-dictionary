@@ -2,7 +2,7 @@
 title: "Willsher Wedding (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BRWRBRGBR](/stripes/brwrbrgbr/) · **Stripes:** [DO O W O DO O DG DO R](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="seq">DO O W O DO O DG DO R</span></span>
+**Bands:** [RBGRBRWRB](/stripes/rbgrbrwrb/) · **Stripes:** [R DO DG O DO O W O DO](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#412714"></span><span class="seq">R DO DG O DO O W O DO</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [9 band tartan](/bands/bands9/).
@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [10793](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10793)
 
 ## Thread count
-DR/8 N48 G18 Na24 N2 Na8 W4 Na8 N/16
+N/16 Na8 W4 Na8 N2 Na24 G18 N48 DR/8
 ![Sett](sett.png)
 
 ## Palette
@@ -39,16 +39,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Hilton Hotel Hong Kong (Corporate)](/setts/s10/m4g10m2g2m24g2m2g16m2g1~x2/) — ΔT 1.20
 1. [Titanium](/setts/s9/dt44y8dt8y22lr4y4lr11y2w2~x2/) — ΔT 1.22
 1. [Mica, Green (Fashion)](/setts/s8/dy6o2dy12k4dt14k1dy3ly2~x2/) — ΔT 1.23
-1. [Sinclair Green (Personal)](/setts/s7/g4r2g30n15w2db15r4~x2/) — ΔT 1.25
+1. [Sinclair Green (Personal)](/setts/s7/r4db15w2n15g30r2g4~x2/) — ΔT 1.25
 1. [Spens/Spence (Clan)](/setts/s9/r26t1t10t1g32r11t8w3t1~x2/) — ΔT 1.27
-1. [King (Personal)](/setts/s11/ly3n1k1y15n4k12n26y2k1y2r3~x2/) — ΔT 1.28
+1. [King (Personal)](/setts/s11/r3y2k1y2n26k12n4y15k1n1ly3~x2/) — ΔT 1.28
 1. [MacMillan Hunting](/setts/s9/db10ly3db30ly5k8dg16r4dg16r2~x2/) — ΔT 1.29
-1. [George (Personal)](/setts/s9/r6db2r1db16r3db16dg28w2dg4~x2/) — ΔT 1.30
+1. [George (Personal)](/setts/s9/r6db2r1db16r3db16dg28w2dg4~x2/) — ΔT 1.29
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dy12o2k2o42k13g25o6k2r4k10~x2/"><circle cx="229.2" cy="135.7" r="4" fill="#3465a4"><title>Dinwoodie (Name)</title></circle></a><a href="/setts/s8/y5lo1r2y25k14db19w2y4~x2/"><circle cx="257.8" cy="137.4" r="4" fill="#3465a4"><title>Tooth (Personal)</title></circle></a><a href="/setts/s10/m4g10m2g2m24g2m2g16m2g1~x2/"><circle cx="295.8" cy="135.1" r="4" fill="#3465a4"><title>Hilton Hotel Hong Kong (Corporate)</title></circle></a><a href="/setts/s9/dt44y8dt8y22lr4y4lr11y2w2~x2/"><circle cx="326.8" cy="158.3" r="4" fill="#3465a4"><title>Titanium</title></circle></a><a href="/setts/s8/dy6o2dy12k4dt14k1dy3ly2~x2/"><circle cx="274.6" cy="194.8" r="4" fill="#3465a4"><title>Mica, Green (Fashion)</title></circle></a><a href="/setts/s7/g4r2g30n15w2db15r4~x2/"><circle cx="255.1" cy="182.9" r="4" fill="#3465a4"><title>Sinclair Green (Personal)</title></circle></a><a href="/setts/s9/r26t1t10t1g32r11t8w3t1~x2/"><circle cx="275.3" cy="131.6" r="4" fill="#3465a4"><title>Spens/Spence (Clan)</title></circle></a><a href="/setts/s11/ly3n1k1y15n4k12n26y2k1y2r3~x2/"><circle cx="293.9" cy="134.7" r="4" fill="#3465a4"><title>King (Personal)</title></circle></a><a href="/setts/s9/db10ly3db30ly5k8dg16r4dg16r2~x2/"><circle cx="218.7" cy="177.4" r="4" fill="#3465a4"><title>MacMillan Hunting</title></circle></a><a href="/setts/s9/r6db2r1db16r3db16dg28w2dg4~x2/"><circle cx="316.6" cy="164.4" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><circle cx="286.0" cy="156.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dy12o2k2o42k13g25o6k2r4k10~x2/"><circle cx="229.1" cy="135.8" r="4" fill="#3465a4"><title>Dinwoodie (Name)</title></circle></a><a href="/setts/s8/y5lo1r2y25k14db19w2y4~x2/"><circle cx="257.8" cy="137.5" r="4" fill="#3465a4"><title>Tooth (Personal)</title></circle></a><a href="/setts/s10/m4g10m2g2m24g2m2g16m2g1~x2/"><circle cx="295.6" cy="135.2" r="4" fill="#3465a4"><title>Hilton Hotel Hong Kong (Corporate)</title></circle></a><a href="/setts/s9/dt44y8dt8y22lr4y4lr11y2w2~x2/"><circle cx="326.7" cy="158.2" r="4" fill="#3465a4"><title>Titanium</title></circle></a><a href="/setts/s8/dy6o2dy12k4dt14k1dy3ly2~x2/"><circle cx="274.6" cy="194.8" r="4" fill="#3465a4"><title>Mica, Green (Fashion)</title></circle></a><a href="/setts/s7/r4db15w2n15g30r2g4~x2/"><circle cx="255.1" cy="182.9" r="4" fill="#3465a4"><title>Sinclair Green (Personal)</title></circle></a><a href="/setts/s9/r26t1t10t1g32r11t8w3t1~x2/"><circle cx="275.1" cy="131.7" r="4" fill="#3465a4"><title>Spens/Spence (Clan)</title></circle></a><a href="/setts/s11/r3y2k1y2n26k12n4y15k1n1ly3~x2/"><circle cx="293.8" cy="134.8" r="4" fill="#3465a4"><title>King (Personal)</title></circle></a><a href="/setts/s9/db10ly3db30ly5k8dg16r4dg16r2~x2/"><circle cx="218.7" cy="177.4" r="4" fill="#3465a4"><title>MacMillan Hunting</title></circle></a><a href="/setts/s9/r6db2r1db16r3db16dg28w2dg4~x2/"><circle cx="316.5" cy="164.4" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><circle cx="285.8" cy="156.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/do8o4w2o4do1o12dg9do24r4~x2/

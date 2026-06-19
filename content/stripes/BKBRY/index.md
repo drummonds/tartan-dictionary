@@ -21,7 +21,7 @@ BKBRY
 Grouped by stripe pattern — the 3 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DT K DT R LY <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DT K DT R LY</span></span>
+### LY R DT K DT <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="seq">LY R DT K DT</span></span>
 
 | Tartans |
 |---------------|
@@ -30,17 +30,17 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 | [Chivas Regal (Corporate)](/setts/s5/dt2k2dt2r5ly1~x12/)|
 |![Chivas Regal (Corporate) example sett](/setts/s5/dt2k2dt2r5ly1~x12/sett.png)|
 
-### DB K DB R LY <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB K DB R LY</span></span>
-
-| Tartans |
-|---------------|
-| [Highland Pub Company](/setts/s5/db13k13db13r29ly4~x2/)|
-|![Highland Pub Company example sett](/setts/s5/db13k13db13r29ly4~x2/sett.png)|
-
-### DO K DO R LO <span class="pat"><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">DO K DO R LO</span></span>
+### LO R DO K DO <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#412714"></span><span class="seq">LO R DO K DO</span></span>
 
 | Tartans |
 |---------------|
 | [Highland Pub Company](/setts/s5/do16k13do13r30lo4~x2/)|
 |![Highland Pub Company example sett](/setts/s5/do16k13do13r30lo4~x2/sett.png)|
+
+### LY R DB K DB <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LY R DB K DB</span></span>
+
+| Tartans |
+|---------------|
+| [Highland Pub Company](/setts/s5/db13k13db13r29ly4~x2/)|
+|![Highland Pub Company example sett](/setts/s5/db13k13db13r29ly4~x2/sett.png)|
 

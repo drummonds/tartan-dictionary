@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [11087](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11087)
 
 ## Thread count
-DBa/4 DR10 DBa16 Y4 DR6 DB18 DR4 DBa36 DB18 DBb8 W/4
+W/4 DBb8 DB18 DBa36 DR4 DB18 DR6 Y4 DBa16 DR10 DBa/4
 ![Sett](sett.png)
 
 ## Palette
@@ -38,7 +38,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Royal Gourock Yacht Club, The](/setts/s11/db5r2db8ly2r3k9r2db18k9db4w2~x2/) — ΔT 1.08
 1. [Robert Burns Legacy](/setts/s9/db10g42db8t8db8k24db8db71r10/) — ΔT 1.49
 1. [Highland Destiny (Fashion)](/setts/s13/dp4k3dp20k10db19m2db2m2db25g3db4k6w4~x2/) — ΔT 1.53
-1. [Thistle of Scotland](/setts/s9/lb3k28g2k2g2k3k16db24m3~x2/) — ΔT 1.59
+1. [Thistle of Scotland](/setts/s9/m3db24k16k3g2k2g2k28lb3~x2/) — ΔT 1.59
 1. [Impulse](/setts/s11/r2db10k9db13k7db3k2db3k2db3r2~x2/) — ΔT 1.60
 1. [Kinloch Anderson Thistle](/setts/s12/b8db8b4db28k12dp7k12g4dp8g4dp28p8/) — ΔT 1.61
 1. [World Corporate Golf Challenge (Corp](/setts/s16/db2lb2db22k6db3k4db3k4db3k6db12b4db2b6db7lb2~x2/) — ΔT 1.63
@@ -48,8 +48,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db5r2db8ly2r3k9r2db18k9db4w2~x2/"><circle cx="199.4" cy="169.9" r="4" fill="#3465a4"><title>Royal Gourock Yacht Club, The</title></circle></a><a href="/setts/s9/db10g42db8t8db8k24db8db71r10/"><circle cx="193.4" cy="176.2" r="4" fill="#3465a4"><title>Robert Burns Legacy</title></circle></a><a href="/setts/s13/dp4k3dp20k10db19m2db2m2db25g3db4k6w4~x2/"><circle cx="231.6" cy="143.6" r="4" fill="#3465a4"><title>Highland Destiny (Fashion)</title></circle></a><a href="/setts/s9/lb3k28g2k2g2k3k16db24m3~x2/"><circle cx="204.7" cy="159.2" r="4" fill="#3465a4"><title>Thistle of Scotland</title></circle></a><a href="/setts/s11/r2db10k9db13k7db3k2db3k2db3r2~x2/"><circle cx="120.9" cy="208.3" r="4" fill="#3465a4"><title>Impulse</title></circle></a><a href="/setts/s12/b8db8b4db28k12dp7k12g4dp8g4dp28p8/"><circle cx="118.2" cy="191.3" r="4" fill="#3465a4"><title>Kinloch Anderson Thistle</title></circle></a><a href="/setts/s16/db2lb2db22k6db3k4db3k4db3k6db12b4db2b6db7lb2~x2/"><circle cx="179.5" cy="162.3" r="4" fill="#3465a4"><title>World Corporate Golf Challenge (Corp</title></circle></a><a href="/setts/s13/b12db3b12db16k3db6k3db16r3db3lo3k16db4~x2/"><circle cx="175.1" cy="206.3" r="4" fill="#3465a4"><title>Dempster (Name)</title></circle></a><a href="/setts/s13/g12dp3y3dp3y3dp12db3dp3db2dp2db14y1w3~x2/"><circle cx="146.2" cy="136.5" r="4" fill="#3465a4"><title>Scottish Tourist Guides Association</title></circle></a><a href="/setts/s13/k2o1lo2k1db4k1lo2db8db2db4db4w1k2~x4/"><circle cx="131.2" cy="181.6" r="4" fill="#3465a4"><title>Solberg-Bell Hunting</title></circle></a><circle cx="173.6" cy="178.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/db5r2db8ly2r3k9r2db18k9db4w2~x2/"><circle cx="199.6" cy="170.0" r="4" fill="#3465a4"><title>Royal Gourock Yacht Club, The</title></circle></a><a href="/setts/s9/db10g42db8t8db8k24db8db71r10/"><circle cx="193.6" cy="176.3" r="4" fill="#3465a4"><title>Robert Burns Legacy</title></circle></a><a href="/setts/s13/dp4k3dp20k10db19m2db2m2db25g3db4k6w4~x2/"><circle cx="231.7" cy="143.7" r="4" fill="#3465a4"><title>Highland Destiny (Fashion)</title></circle></a><a href="/setts/s9/m3db24k16k3g2k2g2k28lb3~x2/"><circle cx="205.0" cy="159.4" r="4" fill="#3465a4"><title>Thistle of Scotland</title></circle></a><a href="/setts/s11/r2db10k9db13k7db3k2db3k2db3r2~x2/"><circle cx="121.3" cy="208.4" r="4" fill="#3465a4"><title>Impulse</title></circle></a><a href="/setts/s12/b8db8b4db28k12dp7k12g4dp8g4dp28p8/"><circle cx="118.5" cy="191.6" r="4" fill="#3465a4"><title>Kinloch Anderson Thistle</title></circle></a><a href="/setts/s16/db2lb2db22k6db3k4db3k4db3k6db12b4db2b6db7lb2~x2/"><circle cx="179.7" cy="162.6" r="4" fill="#3465a4"><title>World Corporate Golf Challenge (Corp</title></circle></a><a href="/setts/s13/b12db3b12db16k3db6k3db16r3db3lo3k16db4~x2/"><circle cx="175.4" cy="206.3" r="4" fill="#3465a4"><title>Dempster (Name)</title></circle></a><a href="/setts/s13/g12dp3y3dp3y3dp12db3dp3db2dp2db14y1w3~x2/"><circle cx="146.3" cy="136.7" r="4" fill="#3465a4"><title>Scottish Tourist Guides Association</title></circle></a><a href="/setts/s13/k2o1lo2k1db4k1lo2db8db2db4db4w1k2~x4/"><circle cx="131.4" cy="181.8" r="4" fill="#3465a4"><title>Solberg-Bell Hunting</title></circle></a><circle cx="173.9" cy="178.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db2dr5db8ly2dr3db9dr2db18db9db4w2~x2/

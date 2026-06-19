@@ -2,7 +2,7 @@
 title: "Greene"
 date: 2023-03-18
 ---
-**Bands:** [BRBWKGYGYG](/stripes/brbwkgygyg/) · **Stripes:** [DB R DB LB K G LO G LO G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB R DB LB K G LO G LO G</span></span>
+**Bands:** [GYGYGKWBRB](/stripes/gygygkwbrb/) · **Stripes:** [G LO G LO G K LB DB R DB](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">G LO G LO G K LB DB R DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
@@ -45,21 +45,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Loch Awe](/setts/s9/ly3k2r3db20k24g20r3k2t3~x2/) — ΔT 0.76
+1. [Loch Awe](/setts/s9/t3k2r3g20k24db20r3k2ly3~x2/) — ΔT 0.76
 1. [First Command Fin. Planning (Corp)](/setts/s11/g16lb2g4b4g4lb2g6db12r2db20ly3~x2/) — ΔT 0.84
 1. [St Columba](/setts/s8/db60t5w4o12g42p12t5p12/) — ΔT 0.91
 1. [McCuaig (Glenelg and the Western Isles)](/setts/s9/k10ly3k2db20k10g15k2r3w3~x2/) — ΔT 0.92
 1. [Ayrshire (District)](/setts/s8/db2r1db10w1y4g8lo1g2~x4/) — ΔT 1.00
 1. [Scotshill](/setts/s10/t13k14g6k14t14w1r1ly1g1t3~x2/) — ΔT 1.00
 1. [Stinson, Ancient](/setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/) — ΔT 1.02
-1. [Cusack](/setts/s9/db4k2db16k12w1g13r2g2lo4~x2/) — ΔT 1.03
 1. [McCuaig (2010) (Name)](/setts/s9/k10ly3k2b20k10g15k2r3w3~x2/) — ΔT 1.03
+1. [Cusack](/setts/s9/db4k2db16k12w1g13r2g2lo4~x2/) — ΔT 1.03
 1. [Scottish Motor Trade Association](/setts/s11/g12db4g54db26k4w8db18db44w3db12w4/) — ΔT 1.04
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/ly3k2r3db20k24g20r3k2t3~x2/"><circle cx="120.3" cy="134.3" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/setts/s11/g16lb2g4b4g4lb2g6db12r2db20ly3~x2/"><circle cx="177.1" cy="154.8" r="4" fill="#3465a4"><title>First Command Fin. Planning (Corp)</title></circle></a><a href="/setts/s8/db60t5w4o12g42p12t5p12/"><circle cx="166.5" cy="137.5" r="4" fill="#3465a4"><title>St Columba</title></circle></a><a href="/setts/s9/k10ly3k2db20k10g15k2r3w3~x2/"><circle cx="97.7" cy="152.5" r="4" fill="#3465a4"><title>McCuaig (Glenelg and the Western Isles)</title></circle></a><a href="/setts/s8/db2r1db10w1y4g8lo1g2~x4/"><circle cx="152.8" cy="153.3" r="4" fill="#3465a4"><title>Ayrshire (District)</title></circle></a><a href="/setts/s10/t13k14g6k14t14w1r1ly1g1t3~x2/"><circle cx="203.5" cy="147.1" r="4" fill="#3465a4"><title>Scotshill</title></circle></a><a href="/setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/"><circle cx="171.6" cy="141.0" r="4" fill="#3465a4"><title>Stinson, Ancient</title></circle></a><a href="/setts/s9/db4k2db16k12w1g13r2g2lo4~x2/"><circle cx="129.6" cy="140.1" r="4" fill="#3465a4"><title>Cusack</title></circle></a><a href="/setts/s9/k10ly3k2b20k10g15k2r3w3~x2/"><circle cx="115.3" cy="159.4" r="4" fill="#3465a4"><title>McCuaig (2010) (Name)</title></circle></a><a href="/setts/s11/g12db4g54db26k4w8db18db44w3db12w4/"><circle cx="140.2" cy="118.4" r="4" fill="#3465a4"><title>Scottish Motor Trade Association</title></circle></a><circle cx="154.3" cy="138.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/t3k2r3g20k24db20r3k2ly3~x2/"><circle cx="120.5" cy="134.4" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/setts/s11/g16lb2g4b4g4lb2g6db12r2db20ly3~x2/"><circle cx="177.2" cy="154.8" r="4" fill="#3465a4"><title>First Command Fin. Planning (Corp)</title></circle></a><a href="/setts/s8/db60t5w4o12g42p12t5p12/"><circle cx="166.6" cy="137.6" r="4" fill="#3465a4"><title>St Columba</title></circle></a><a href="/setts/s9/k10ly3k2db20k10g15k2r3w3~x2/"><circle cx="97.9" cy="152.6" r="4" fill="#3465a4"><title>McCuaig (Glenelg and the Western Isles)</title></circle></a><a href="/setts/s8/db2r1db10w1y4g8lo1g2~x4/"><circle cx="152.8" cy="153.2" r="4" fill="#3465a4"><title>Ayrshire (District)</title></circle></a><a href="/setts/s10/t13k14g6k14t14w1r1ly1g1t3~x2/"><circle cx="203.5" cy="147.1" r="4" fill="#3465a4"><title>Scotshill</title></circle></a><a href="/setts/s11/k7db20t2r6t2k20ly3g20db27r3db6~x2/"><circle cx="171.7" cy="141.0" r="4" fill="#3465a4"><title>Stinson, Ancient</title></circle></a><a href="/setts/s9/k10ly3k2b20k10g15k2r3w3~x2/"><circle cx="115.4" cy="159.5" r="4" fill="#3465a4"><title>McCuaig (2010) (Name)</title></circle></a><a href="/setts/s9/db4k2db16k12w1g13r2g2lo4~x2/"><circle cx="129.8" cy="140.1" r="4" fill="#3465a4"><title>Cusack</title></circle></a><a href="/setts/s11/g12db4g54db26k4w8db18db44w3db12w4/"><circle cx="140.3" cy="118.5" r="4" fill="#3465a4"><title>Scottish Motor Trade Association</title></circle></a><circle cx="154.4" cy="138.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db6r4db24lb3k6g18lo4g2lo2g4~x2/

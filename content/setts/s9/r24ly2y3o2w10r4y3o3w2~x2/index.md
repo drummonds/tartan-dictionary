@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 LT6 N6 R8 LN20 LT4 N6 Y4 R/48
+R/48 Y4 N6 LT4 LN20 R8 N6 LT6 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -909,15 +912,15 @@ The nearest existing variants by ΔTartan distance.
 1. [West Virginia Old Shawl](/setts/s11/ly1g1db2r2g2r12t2g1r2g1ly1~x4/) — ΔT 1.13
 1. [Hello Kitty](/setts/s10/k2lr3r3lr21ly3lr2r6g6r4w2~x2/) — ΔT 1.13
 1. [Antrim County Crest (Fashion)](/setts/s9/g4ly9g3db4g3w3r32g4ly3~x2/) — ΔT 1.17
-1. [Virginia Military Institute, New Market](/setts/s9/ly6r30y2k3y30g3y2r25w6~x2/) — ΔT 1.19
-1. [Virginia Military Institute, New Market](/setts/s9/ly6r30o2k3o30g3o2r25w6~x2/) — ΔT 1.22
+1. [Virginia Military Institute, New Market](/setts/s9/w6r25y2g3y30k3y2r30ly6~x2/) — ΔT 1.19
+1. [Virginia Military Institute, New Market](/setts/s9/w6r25o2g3o30k3o2r30ly6~x2/) — ΔT 1.22
 1. [Manitoba Masonic](/setts/s8/ly3n8w3n34r34g4r4w2~x2/) — ΔT 1.26
 1. [Outpost Club](/setts/s10/lb6r5lb9db2b3db2o36r2o4r2~x2/) — ΔT 1.27
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r24ly2o3dy2w10r4o3dy3w2~x2/"><circle cx="278.1" cy="122.2" r="4" fill="#3465a4"><title>Manx Laxey (Red)</title></circle></a><a href="/setts/s9/r41ly3y7db3w24r10y7db7w3~x2/"><circle cx="245.7" cy="122.0" r="4" fill="#3465a4"><title>Drummond of Perth Dress #2</title></circle></a><a href="/setts/s8/r3r3lb23r3r3r23k2r3~x2/"><circle cx="307.9" cy="149.8" r="4" fill="#3465a4"><title>Hose #2</title></circle></a><a href="/setts/s11/ly1g1db2r2g2r12t2g1r2g1ly1~x4/"><circle cx="327.2" cy="120.5" r="4" fill="#3465a4"><title>West Virginia Old Shawl</title></circle></a><a href="/setts/s10/k2lr3r3lr21ly3lr2r6g6r4w2~x2/"><circle cx="234.1" cy="112.9" r="4" fill="#3465a4"><title>Hello Kitty</title></circle></a><a href="/setts/s9/g4ly9g3db4g3w3r32g4ly3~x2/"><circle cx="250.4" cy="124.7" r="4" fill="#3465a4"><title>Antrim County Crest (Fashion)</title></circle></a><a href="/setts/s9/ly6r30y2k3y30g3y2r25w6~x2/"><circle cx="274.6" cy="122.7" r="4" fill="#3465a4"><title>Virginia Military Institute, New Market</title></circle></a><a href="/setts/s9/ly6r30o2k3o30g3o2r25w6~x2/"><circle cx="282.6" cy="125.2" r="4" fill="#3465a4"><title>Virginia Military Institute, New Market</title></circle></a><a href="/setts/s8/ly3n8w3n34r34g4r4w2~x2/"><circle cx="289.5" cy="130.4" r="4" fill="#3465a4"><title>Manitoba Masonic</title></circle></a><a href="/setts/s10/lb6r5lb9db2b3db2o36r2o4r2~x2/"><circle cx="330.3" cy="104.8" r="4" fill="#3465a4"><title>Outpost Club</title></circle></a><circle cx="282.3" cy="125.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r24ly2o3dy2w10r4o3dy3w2~x2/"><circle cx="277.6" cy="122.2" r="4" fill="#3465a4"><title>Manx Laxey (Red)</title></circle></a><a href="/setts/s9/r41ly3y7db3w24r10y7db7w3~x2/"><circle cx="245.2" cy="122.0" r="4" fill="#3465a4"><title>Drummond of Perth Dress #2</title></circle></a><a href="/setts/s8/r3r3lb23r3r3r23k2r3~x2/"><circle cx="307.4" cy="149.7" r="4" fill="#3465a4"><title>Hose #2</title></circle></a><a href="/setts/s11/ly1g1db2r2g2r12t2g1r2g1ly1~x4/"><circle cx="326.7" cy="120.4" r="4" fill="#3465a4"><title>West Virginia Old Shawl</title></circle></a><a href="/setts/s10/k2lr3r3lr21ly3lr2r6g6r4w2~x2/"><circle cx="233.6" cy="113.0" r="4" fill="#3465a4"><title>Hello Kitty</title></circle></a><a href="/setts/s9/g4ly9g3db4g3w3r32g4ly3~x2/"><circle cx="250.0" cy="124.6" r="4" fill="#3465a4"><title>Antrim County Crest (Fashion)</title></circle></a><a href="/setts/s9/w6r25y2g3y30k3y2r30ly6~x2/"><circle cx="274.2" cy="122.8" r="4" fill="#3465a4"><title>Virginia Military Institute, New Market</title></circle></a><a href="/setts/s9/w6r25o2g3o30k3o2r30ly6~x2/"><circle cx="282.2" cy="125.3" r="4" fill="#3465a4"><title>Virginia Military Institute, New Market</title></circle></a><a href="/setts/s8/ly3n8w3n34r34g4r4w2~x2/"><circle cx="289.2" cy="130.3" r="4" fill="#3465a4"><title>Manitoba Masonic</title></circle></a><a href="/setts/s10/lb6r5lb9db2b3db2o36r2o4r2~x2/"><circle cx="329.8" cy="104.7" r="4" fill="#3465a4"><title>Outpost Club</title></circle></a><circle cx="281.8" cy="125.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/r24ly2y3o2w10r4y3o3w2~x2/

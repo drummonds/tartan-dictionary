@@ -319,6 +319,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +420,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +680,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -925,8 +928,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r5w23db5w5k7ly3k3w2k3dg16r8dg3r6w3~x2/"><circle cx="88.0" cy="102.5" r="4" fill="#3465a4"><title>Victoria Highland Dress</title></circle></a><a href="/setts/s11/dy1w4k1w9lo2w1k8w1lo2o6r1~x4/"><circle cx="109.1" cy="118.0" r="4" fill="#3465a4"><title>Kintyre</title></circle></a><a href="/setts/s14/lo35r3k21r3g21lo6w3k3w3lo6lb15w3k6w6~x2/"><circle cx="96.8" cy="94.2" r="4" fill="#3465a4"><title>Dundee (2003)</title></circle></a><a href="/setts/s14/w8db3w10o8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="66.0" cy="120.8" r="4" fill="#3465a4"><title>MacInnes Ancient Hunting</title></circle></a><a href="/setts/s10/ly6k2r12dg4r8k10w24t2w3t2~x2/"><circle cx="104.5" cy="104.2" r="4" fill="#3465a4"><title>Gillies Red Dress</title></circle></a><a href="/setts/s14/w8db3w10lo8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="64.4" cy="122.0" r="4" fill="#3465a4"><title>MacInnes Ancient Htg (Clan?)</title></circle></a><a href="/setts/s13/w3k2b4w4b3w11k2g3ly3k3b12r19k2~x2/"><circle cx="55.6" cy="107.1" r="4" fill="#3465a4"><title>Badminton Cup</title></circle></a><a href="/setts/s12/k2w1db7k4r1w8r2w8k1g7w1ly2~x2/"><circle cx="79.7" cy="131.1" r="4" fill="#3465a4"><title>MacLellan, dress McLellan</title></circle></a><a href="/setts/s15/w13db3w13dg10ly2k7db5k2db2k2db5r8w2k2r2~x2/"><circle cx="51.8" cy="131.7" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s14/dy2w2k2w12dy1w1dy1w1lo4do5lo2do9dy3r2~x2/"><circle cx="101.1" cy="98.6" r="4" fill="#3465a4"><title>Harrods (Corporate)</title></circle></a><circle cx="75.3" cy="110.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r5w23db5w5k7ly3k3w2k3dg16r8dg3r6w3~x2/"><circle cx="87.8" cy="102.6" r="4" fill="#3465a4"><title>Victoria Highland Dress</title></circle></a><a href="/setts/s11/dy1w4k1w9lo2w1k8w1lo2o6r1~x4/"><circle cx="108.9" cy="118.0" r="4" fill="#3465a4"><title>Kintyre</title></circle></a><a href="/setts/s14/lo35r3k21r3g21lo6w3k3w3lo6lb15w3k6w6~x2/"><circle cx="96.5" cy="94.3" r="4" fill="#3465a4"><title>Dundee (2003)</title></circle></a><a href="/setts/s14/w8db3w10o8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="65.8" cy="120.9" r="4" fill="#3465a4"><title>MacInnes Ancient Hunting</title></circle></a><a href="/setts/s10/ly6k2r12dg4r8k10w24t2w3t2~x2/"><circle cx="104.2" cy="104.3" r="4" fill="#3465a4"><title>Gillies Red Dress</title></circle></a><a href="/setts/s14/w8db3w10lo8ly2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="64.3" cy="122.1" r="4" fill="#3465a4"><title>MacInnes Ancient Htg (Clan?)</title></circle></a><a href="/setts/s13/w3k2b4w4b3w11k2g3ly3k3b12r19k2~x2/"><circle cx="55.4" cy="107.2" r="4" fill="#3465a4"><title>Badminton Cup</title></circle></a><a href="/setts/s12/k2w1db7k4r1w8r2w8k1g7w1ly2~x2/"><circle cx="79.6" cy="131.1" r="4" fill="#3465a4"><title>MacLellan, dress McLellan</title></circle></a><a href="/setts/s15/w13db3w13dg10ly2k7db5k2db2k2db5r8w2k2r2~x2/"><circle cx="51.7" cy="131.8" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/setts/s14/dy2w2k2w12dy1w1dy1w1lo4do5lo2do9dy3r2~x2/"><circle cx="100.9" cy="98.7" r="4" fill="#3465a4"><title>Harrods (Corporate)</title></circle></a><circle cx="75.0" cy="111.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r4w16t5k5ly2k2w2k2g5r5k2r2w2~x2/

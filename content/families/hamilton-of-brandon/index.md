@@ -8,7 +8,7 @@ A family of [Clan Hamilton](/clan/hamilton/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s10/ly3k1g7w1k7lo16k7w1g7k1~x4/"><img src="/setts/s10/ly3k1g7w1k7lo16k7w1g7k1~x4/sett.png" alt="Hamilton of Brandon" width="240"><br>Hamilton of Brandon</a>
+<a class="tartan" href="/setts/s10/lo16k7w1g7k1ly3~x4/"><img src="/setts/s10/lo16k7w1g7k1ly3~x4/sett.png" alt="Hamilton of Brandon" width="240"><br>Hamilton of Brandon</a>
 
 ## Other tartans
 

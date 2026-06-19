@@ -2,7 +2,7 @@
 title: "Dunbar"
 date: 2023-03-18
 ---
-**Bands:** [RGKRKR](/stripes/rgkrkr/) · **Stripes:** [R G K R K R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G K R K R</span></span>
+**Bands:** [RKRKGR](/stripes/rkrkgr/) · **Stripes:** [R K R K G R](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K G R</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -922,18 +925,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Dunbar](/setts/s6/r6dg21k8r28dg1r4~x2/) — ΔT 0.51
 1. [MacPhail](/setts/s6/r25k7r3g13t1k2~x4/) — ΔT 1.04
 1. [Dunbar](/setts/s6/r6dg21k8r28k1r4~x2/) — ΔT 1.04
-1. [Maxwell](/setts/s7/r3dg16r4k6r28dg1r3/) — ΔT 1.22
 1. [MacPhail](/setts/s6/r25k7r3g13y1k2~x4/) — ΔT 1.27
 1. [MacAulay](/setts/s6/k2r16dg6r3dg8lb1/) — ΔT 1.30
-1. [MacKintosh](/setts/s6/r24db6r3dg12r4db1~x2/) — ΔT 1.32
-1. [MacKintosh D](/setts/s6/r22db5r2dg11r3db1~x2/) — ΔT 1.34
+1. [MacKintosh](/setts/s6/r24db6r3dg12r4db1/) — ΔT 1.32
+1. [MacKintosh D](/setts/s6/r22db5r2dg11r3db1/) — ΔT 1.34
 1. [Caledonian - 1819 (Fashion?)](/setts/s6/r60dp20r8g45r8dp2/) — ΔT 1.34
 1. [Dunbar](/setts/s6/r6g21k8r28k2r4~x2/) — ΔT 1.35
+1. [MacAulay](/setts/s6/k2r16g6r3g8w1~x2/) — ΔT 1.39
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r6dg21k8r28dg1r4~x2/"><circle cx="366.8" cy="175.5" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/setts/s6/r25k7r3g13t1k2~x4/"><circle cx="326.1" cy="148.0" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/setts/s6/r6dg21k8r28k1r4~x2/"><circle cx="378.5" cy="185.8" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/setts/s7/r3dg16r4k6r28dg1r3/"><circle cx="419.6" cy="155.6" r="4" fill="#3465a4"><title>Maxwell</title></circle></a><a href="/setts/s6/r25k7r3g13y1k2~x4/"><circle cx="351.9" cy="158.3" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/setts/s6/k2r16dg6r3dg8lb1/"><circle cx="322.5" cy="183.8" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s6/r24db6r3dg12r4db1~x2/"><circle cx="411.4" cy="178.9" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/setts/s6/r22db5r2dg11r3db1~x2/"><circle cx="409.0" cy="177.7" r="4" fill="#3465a4"><title>MacKintosh D</title></circle></a><a href="/setts/s6/r60dp20r8g45r8dp2/"><circle cx="379.1" cy="179.1" r="4" fill="#3465a4"><title>Caledonian - 1819 (Fashion?)</title></circle></a><a href="/setts/s6/r6g21k8r28k2r4~x2/"><circle cx="345.8" cy="207.9" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><circle cx="355.1" cy="171.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r6dg21k8r28dg1r4~x2/"><circle cx="366.5" cy="175.3" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/setts/s6/r25k7r3g13t1k2~x4/"><circle cx="325.8" cy="147.8" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/setts/s6/r6dg21k8r28k1r4~x2/"><circle cx="378.3" cy="185.6" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/setts/s6/r25k7r3g13y1k2~x4/"><circle cx="351.6" cy="158.2" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/setts/s6/k2r16dg6r3dg8lb1/"><circle cx="322.2" cy="183.6" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/setts/s6/r24db6r3dg12r4db1/"><circle cx="411.0" cy="178.6" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/setts/s6/r22db5r2dg11r3db1/"><circle cx="408.7" cy="177.4" r="4" fill="#3465a4"><title>MacKintosh D</title></circle></a><a href="/setts/s6/r60dp20r8g45r8dp2/"><circle cx="378.8" cy="179.0" r="4" fill="#3465a4"><title>Caledonian - 1819 (Fashion?)</title></circle></a><a href="/setts/s6/r6g21k8r28k2r4~x2/"><circle cx="345.5" cy="207.7" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/setts/s6/k2r16g6r3g8w1~x2/"><circle cx="315.2" cy="181.0" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><circle cx="354.8" cy="171.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r6g21k8r28k1r4~x2/

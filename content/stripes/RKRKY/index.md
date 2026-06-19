@@ -34,6 +34,6 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Daks - Black House Check, C.6700.06](/setts/s5/ly3k6o4k7o3~x2/)|
-|![Daks - Black House Check, C.6700.06 example sett](/setts/s5/ly3k6o4k7o3~x2/sett.png)|
+| [Daks - Black House Check, C.6700.06](/setts/s5/o3k7o4k6ly3~x2/)|
+|![Daks - Black House Check, C.6700.06 example sett](/setts/s5/o3k7o4k6ly3~x2/sett.png)|
 

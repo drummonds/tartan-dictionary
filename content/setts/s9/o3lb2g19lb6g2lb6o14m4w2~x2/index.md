@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 DR8 LT28 N12 G4 N12 G38 N4 LTa/6
+LTa/6 N4 G38 N12 G4 N12 LT28 DR8 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -905,20 +908,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [State Seal of California (Fashion)](/setts/s10/lo29ly3b19lb3b3r3g17b3g4lb3~x2/) — ΔT 0.93
-1. [Deeside](/setts/s7/ly1g5g1y7p2y1w1~x4/) — ΔT 1.07
+1. [Deeside](/setts/s7/w1y1p2y7g1g5ly1~x4/) — ΔT 1.07
 1. [Montessori School of Denver (School)](/setts/s6/g25r9t3ly7w3n11~x3/) — ΔT 1.12
 1. [State Seal of Kansas (Fashion)](/setts/s9/lo5g23b21lo30k10lo4g4lo16lb3~x2/) — ΔT 1.12
 1. [Cossar (Personal)](/setts/s11/w4t5lo3t22ly4k3g16lo7k2lo7ly2~x2/) — ΔT 1.18
 1. [Morgan in Maryland (USA) (Name)](/setts/s9/db4k1g18dy2g11dy11lg18k1r4~x2/) — ΔT 1.26
 1. [Derry Family (Personal)](/setts/s9/w6t36lo12g19g6r6g6r28g4/) — ΔT 1.27
-1. [Asman, Day Tan (Name)](/setts/s11/lo2lo1lo9r3lb1k3lb1lo3y9k1y2~x4/) — ΔT 1.31
+1. [Asman, Day Tan (Name)](/setts/s11/y2k1y9lo3lb1k3lb1r3lo9lo1lo2~x4/) — ΔT 1.31
 1. [Royal Pharmaceutical Society](/setts/s9/dy3o2dg19o6dg2o6lo14r4w2~x2/) — ΔT 1.31
 1. [Royal Pharmaceutical Society (Corp)](/setts/s9/dy2o2dg19o6dg2o6lo14r4w2~x2/) — ΔT 1.32
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/lo29ly3b19lb3b3r3g17b3g4lb3~x2/"><circle cx="160.1" cy="153.5" r="4" fill="#3465a4"><title>State Seal of California (Fashion)</title></circle></a><a href="/setts/s7/ly1g5g1y7p2y1w1~x4/"><circle cx="190.2" cy="187.9" r="4" fill="#3465a4"><title>Deeside</title></circle></a><a href="/setts/s6/g25r9t3ly7w3n11~x3/"><circle cx="182.9" cy="200.2" r="4" fill="#3465a4"><title>Montessori School of Denver (School)</title></circle></a><a href="/setts/s9/lo5g23b21lo30k10lo4g4lo16lb3~x2/"><circle cx="174.7" cy="179.9" r="4" fill="#3465a4"><title>State Seal of Kansas (Fashion)</title></circle></a><a href="/setts/s11/w4t5lo3t22ly4k3g16lo7k2lo7ly2~x2/"><circle cx="123.2" cy="136.4" r="4" fill="#3465a4"><title>Cossar (Personal)</title></circle></a><a href="/setts/s9/db4k1g18dy2g11dy11lg18k1r4~x2/"><circle cx="199.5" cy="146.1" r="4" fill="#3465a4"><title>Morgan in Maryland (USA) (Name)</title></circle></a><a href="/setts/s9/w6t36lo12g19g6r6g6r28g4/"><circle cx="96.4" cy="161.7" r="4" fill="#3465a4"><title>Derry Family (Personal)</title></circle></a><a href="/setts/s11/lo2lo1lo9r3lb1k3lb1lo3y9k1y2~x4/"><circle cx="179.1" cy="156.3" r="4" fill="#3465a4"><title>Asman, Day Tan (Name)</title></circle></a><a href="/setts/s9/dy3o2dg19o6dg2o6lo14r4w2~x2/"><circle cx="151.9" cy="164.5" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society</title></circle></a><a href="/setts/s9/dy2o2dg19o6dg2o6lo14r4w2~x2/"><circle cx="157.6" cy="162.0" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society (Corp)</title></circle></a><circle cx="155.2" cy="164.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/lo29ly3b19lb3b3r3g17b3g4lb3~x2/"><circle cx="159.9" cy="153.6" r="4" fill="#3465a4"><title>State Seal of California (Fashion)</title></circle></a><a href="/setts/s7/w1y1p2y7g1g5ly1~x4/"><circle cx="190.1" cy="188.0" r="4" fill="#3465a4"><title>Deeside</title></circle></a><a href="/setts/s6/g25r9t3ly7w3n11~x3/"><circle cx="182.8" cy="200.3" r="4" fill="#3465a4"><title>Montessori School of Denver (School)</title></circle></a><a href="/setts/s9/lo5g23b21lo30k10lo4g4lo16lb3~x2/"><circle cx="174.6" cy="180.0" r="4" fill="#3465a4"><title>State Seal of Kansas (Fashion)</title></circle></a><a href="/setts/s11/w4t5lo3t22ly4k3g16lo7k2lo7ly2~x2/"><circle cx="123.0" cy="136.5" r="4" fill="#3465a4"><title>Cossar (Personal)</title></circle></a><a href="/setts/s9/db4k1g18dy2g11dy11lg18k1r4~x2/"><circle cx="199.3" cy="146.2" r="4" fill="#3465a4"><title>Morgan in Maryland (USA) (Name)</title></circle></a><a href="/setts/s9/w6t36lo12g19g6r6g6r28g4/"><circle cx="96.3" cy="161.8" r="4" fill="#3465a4"><title>Derry Family (Personal)</title></circle></a><a href="/setts/s11/y2k1y9lo3lb1k3lb1r3lo9lo1lo2~x4/"><circle cx="178.9" cy="156.4" r="4" fill="#3465a4"><title>Asman, Day Tan (Name)</title></circle></a><a href="/setts/s9/dy3o2dg19o6dg2o6lo14r4w2~x2/"><circle cx="151.8" cy="164.6" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society</title></circle></a><a href="/setts/s9/dy2o2dg19o6dg2o6lo14r4w2~x2/"><circle cx="157.6" cy="162.1" r="4" fill="#3465a4"><title>Royal Pharmaceutical Society (Corp)</title></circle></a><circle cx="155.0" cy="164.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/o3lb2g19lb6g2lb6o14m4w2~x2/

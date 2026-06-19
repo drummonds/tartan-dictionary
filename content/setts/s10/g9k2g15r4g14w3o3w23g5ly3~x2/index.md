@@ -2,12 +2,18 @@
 title: "Taylor Dress"
 date: 2023-03-18
 ---
-**Bands:** [GKGRGWRWGY](/stripes/gkgrgwrwgy/) · **Stripes:** [G K G R G W O W G LY](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G K G R G W O W G LY</span></span>
+**Bands:** [YGWRWGRGKG](/stripes/ygwrwgrgkg/) · **Stripes:** [LY G W O W G R G K G](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY G W O W G R G K G</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/bands10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4082
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Taylor, dress
 
 ## Attestations
 
@@ -57,8 +63,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g9k2g15r4g14w3y3w23g5ly3~x2/"><circle cx="210.2" cy="140.4" r="4" fill="#3465a4"><title>Taylor, dress</title></circle></a><a href="/setts/s9/g9k2r4g14w3lp3w23g5ly3~x2/"><circle cx="163.7" cy="130.7" r="4" fill="#3465a4"><title>Taylor, dress</title></circle></a><a href="/setts/s9/dg9k2r4dg14w3lp3w23dg5ly3~x2/"><circle cx="159.6" cy="128.3" r="4" fill="#3465a4"><title>Taylor Dress #2</title></circle></a><a href="/setts/s9/dg41lo3g7n3w24dg10g7n7w3~x2/"><circle cx="212.8" cy="137.0" r="4" fill="#3465a4"><title>Drummond of Perth Dress (Dance)</title></circle></a><a href="/setts/s12/ly2g16t2w2t2w2t6g7r2w1t1dp1~x6/"><circle cx="240.2" cy="109.7" r="4" fill="#3465a4"><title>Fredericton #2</title></circle></a><a href="/setts/s11/db3k1g13ly1r1w1r6g3r1g3w1~x2/"><circle cx="260.0" cy="119.5" r="4" fill="#3465a4"><title>Canadian Caledonian, hunting</title></circle></a><a href="/setts/s12/g8ly2db3ly2g16ly10g3w6g1ly3g1w6~x2/"><circle cx="191.5" cy="132.8" r="4" fill="#3465a4"><title>Green Bay, Wisconsin (District)</title></circle></a><a href="/setts/s10/dg8r2lb3ly2dg4lb4dg14db2lb2db2~x2/"><circle cx="227.8" cy="163.4" r="4" fill="#3465a4"><title>Lévesque, Pascal (Personal)</title></circle></a><a href="/setts/s10/g32r3dy12b3ly3b3lb24lb24k2lb4~x2/"><circle cx="180.5" cy="98.5" r="4" fill="#3465a4"><title>Webster (Name)</title></circle></a><a href="/setts/s14/g16r3w1db2g4r2db4g2r1lo1ly1lo1db6g12~x4/"><circle cx="276.6" cy="104.5" r="4" fill="#3465a4"><title>Heneghan (Personal)</title></circle></a><circle cx="210.0" cy="139.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g9k2g15r4g14w3y3w23g5ly3~x2/"><circle cx="209.9" cy="140.3" r="4" fill="#3465a4"><title>Taylor, dress</title></circle></a><a href="/setts/s9/g9k2r4g14w3lp3w23g5ly3~x2/"><circle cx="163.4" cy="130.6" r="4" fill="#3465a4"><title>Taylor, dress</title></circle></a><a href="/setts/s9/dg9k2r4dg14w3lp3w23dg5ly3~x2/"><circle cx="159.4" cy="128.2" r="4" fill="#3465a4"><title>Taylor Dress #2</title></circle></a><a href="/setts/s9/dg41lo3g7n3w24dg10g7n7w3~x2/"><circle cx="212.6" cy="136.9" r="4" fill="#3465a4"><title>Drummond of Perth Dress (Dance)</title></circle></a><a href="/setts/s12/ly2g16t2w2t2w2t6g7r2w1t1dp1~x6/"><circle cx="240.0" cy="109.7" r="4" fill="#3465a4"><title>Fredericton #2</title></circle></a><a href="/setts/s11/db3k1g13ly1r1w1r6g3r1g3w1~x2/"><circle cx="259.7" cy="119.4" r="4" fill="#3465a4"><title>Canadian Caledonian, hunting</title></circle></a><a href="/setts/s12/g8ly2db3ly2g16ly10g3w6g1ly3g1w6~x2/"><circle cx="191.2" cy="132.7" r="4" fill="#3465a4"><title>Green Bay, Wisconsin (District)</title></circle></a><a href="/setts/s10/dg8r2lb3ly2dg4lb4dg14db2lb2db2~x2/"><circle cx="227.6" cy="163.3" r="4" fill="#3465a4"><title>Lévesque, Pascal (Personal)</title></circle></a><a href="/setts/s10/g32r3dy12b3ly3b3lb24lb24k2lb4~x2/"><circle cx="180.2" cy="98.5" r="4" fill="#3465a4"><title>Webster (Name)</title></circle></a><a href="/setts/s14/g16r3w1db2g4r2db4g2r1lo1ly1lo1db6g12~x4/"><circle cx="276.3" cy="104.4" r="4" fill="#3465a4"><title>Heneghan (Personal)</title></circle></a><circle cx="209.7" cy="139.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/g9k2g15r4g14w3o3w23g5ly3~x2/

@@ -2,7 +2,7 @@
 title: "Gleneagles Group"
 date: 2023-03-18
 ---
-**Bands:** [RBRGYGR](/stripes/rbrgygr/) · **Stripes:** [R B R G LY G R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">R B R G LY G R</span></span>
+**Bands:** [RGYGRBR](/stripes/rgygrbr/) · **Stripes:** [R G LY G R B R](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="seq">R G LY G R B R</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [7 band tartan](/bands/bands7/).
@@ -18,7 +18,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2107
 
 ## Thread count
-DR/4 B12 DR10 G12 LT4 G12 DR/10
+DR/10 G12 LT4 G12 DR10 B12 DR/4
 ![Sett](sett.png)
 
 ## Palette
@@ -33,7 +33,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/4 B12 DR10 G12 LT4 G12 DR/10 tartan")
+![Tartan detail](tartan.png "DR/10 G12 LT4 G12 DR10 B12 DR/4 tartan")
 
 ## Nearest tartans
 
@@ -42,8 +42,8 @@ The nearest existing variants by ΔTartan distance.
 1. [Gleneagles Group](/setts/s7/dr5g6y2g6dr5db6dr2~x2/) — ΔT 0.60
 1. [Wilson's No.137](/setts/s8/g6dp3k3dp3k3dp3g6r2~x2/) — ΔT 1.07
 1. [Wilson's No.173](/setts/s8/dg6dp3k3dp3k3dp3dg6k2~x2/) — ΔT 1.36
-1. [Gow](/setts/s8/dg4r1db4r4db4r1dg4r4~x12/) — ΔT 1.40
-1. [Ikelman #3 (Personal)](/setts/s8/n11k4r4lo4n11lo4r4k4~x4/) — ΔT 1.44
+1. [Gow](/setts/s8/r4dg4r1db4r4~x12/) — ΔT 1.40
+1. [Ikelman #3 (Personal)](/setts/s8/n11k4r4lo4n11~x4/) — ΔT 1.44
 1. [Unidentified No 30](/setts/s9/k1db3k3dg3r1dg3k3dg1r1~x2/) — ΔT 1.50
 1. [Wilson's, No 95](/setts/s5/t1g3r1p3t1~x4/) — ΔT 1.52
 1. [Hirstwood (Name)](/setts/s4/lo28r24dg55dp19~x2/) — ΔT 1.54
@@ -52,8 +52,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/dr5g6y2g6dr5db6dr2~x2/"><circle cx="131.5" cy="312.1" r="4" fill="#3465a4"><title>Gleneagles Group</title></circle></a><a href="/setts/s8/g6dp3k3dp3k3dp3g6r2~x2/"><circle cx="131.8" cy="295.3" r="4" fill="#3465a4"><title>Wilson's No.137</title></circle></a><a href="/setts/s8/dg6dp3k3dp3k3dp3dg6k2~x2/"><circle cx="135.8" cy="300.3" r="4" fill="#3465a4"><title>Wilson's No.173</title></circle></a><a href="/setts/s8/dg4r1db4r4db4r1dg4r4~x12/"><circle cx="170.8" cy="295.4" r="4" fill="#3465a4"><title>Gow</title></circle></a><a href="/setts/s8/n11k4r4lo4n11lo4r4k4~x4/"><circle cx="174.4" cy="276.5" r="4" fill="#3465a4"><title>Ikelman #3 (Personal)</title></circle></a><a href="/setts/s9/k1db3k3dg3r1dg3k3dg1r1~x2/"><circle cx="139.6" cy="295.6" r="4" fill="#3465a4"><title>Unidentified No 30</title></circle></a><a href="/setts/s5/t1g3r1p3t1~x4/"><circle cx="124.0" cy="287.9" r="4" fill="#3465a4"><title>Wilson's, No 95</title></circle></a><a href="/setts/s4/lo28r24dg55dp19~x2/"><circle cx="162.8" cy="320.8" r="4" fill="#3465a4"><title>Hirstwood (Name)</title></circle></a><a href="/setts/s7/dr5g6dy1g6dr5db6dr1~x2/"><circle cx="212.8" cy="283.4" r="4" fill="#3465a4"><title>Gleneagles Group Corporate Tartan Tartan Number: 2107. Earliest known date: 1989 Designed for a range of tartan goods called the Gleneagles Collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/n2r1k1lr1~x10/"><circle cx="104.6" cy="338.9" r="4" fill="#3465a4"><title>Kucher, Gregory (Personal)</title></circle></a><circle cx="138.2" cy="310.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/dr5g6y2g6dr5db6dr2~x2/"><circle cx="131.7" cy="312.1" r="4" fill="#3465a4"><title>Gleneagles Group</title></circle></a><a href="/setts/s8/g6dp3k3dp3k3dp3g6r2~x2/"><circle cx="131.9" cy="295.3" r="4" fill="#3465a4"><title>Wilson's No.137</title></circle></a><a href="/setts/s8/dg6dp3k3dp3k3dp3dg6k2~x2/"><circle cx="136.0" cy="300.3" r="4" fill="#3465a4"><title>Wilson's No.173</title></circle></a><a href="/setts/s8/r4dg4r1db4r4~x12/"><circle cx="170.8" cy="295.3" r="4" fill="#3465a4"><title>Gow</title></circle></a><a href="/setts/s8/n11k4r4lo4n11~x4/"><circle cx="174.4" cy="276.4" r="4" fill="#3465a4"><title>Ikelman #3 (Personal)</title></circle></a><a href="/setts/s9/k1db3k3dg3r1dg3k3dg1r1~x2/"><circle cx="139.9" cy="295.6" r="4" fill="#3465a4"><title>Unidentified No 30</title></circle></a><a href="/setts/s5/t1g3r1p3t1~x4/"><circle cx="124.1" cy="287.8" r="4" fill="#3465a4"><title>Wilson's, No 95</title></circle></a><a href="/setts/s4/lo28r24dg55dp19~x2/"><circle cx="163.0" cy="320.7" r="4" fill="#3465a4"><title>Hirstwood (Name)</title></circle></a><a href="/setts/s7/dr5g6dy1g6dr5db6dr1~x2/"><circle cx="212.9" cy="283.4" r="4" fill="#3465a4"><title>Gleneagles Group Corporate Tartan Tartan Number: 2107. Earliest known date: 1989 Designed for a range of tartan goods called the Gleneagles Collection. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/n2r1k1lr1~x10/"><circle cx="104.8" cy="338.8" r="4" fill="#3465a4"><title>Kucher, Gregory (Personal)</title></circle></a><circle cx="138.3" cy="310.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r5g6ly2g6r5b6r2~x2/

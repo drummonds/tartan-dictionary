@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,9 +909,9 @@ The nearest existing variants by ΔTartan distance.
 1. [Scottish Women's Rural Institutes](/setts/s12/db6t2db20k15g20ly2g6t2g20k15db20ly4~x2/) — ΔT 0.75
 1. [MacMillan, hunting](/setts/s10/db3ly1db12k4ly2k4g8r2g8r1~x2/) — ΔT 0.77
 1. [Biskup](/setts/s10/db12r4db18r2k19g18r4g3ly2g8~x2/) — ΔT 0.93
-1. [Hunter](/setts/s10/g8k1g8k8r1db8w1db8r1k8~x2/) — ΔT 1.01
-1. [Spar (UK) Ltd](/setts/s12/db2k1db10k9g9r1g2w1g9k9db10k2~x4/) — ΔT 1.05
-1. [Smith](/setts/s11/ly3k1g12k12db12t3db12k12g12k1r3~x2/) — ΔT 1.09
+1. [Hunter](/setts/s10/k8r1db8w1db8r1k8g8k1g8~x2/) — ΔT 1.01
+1. [Spar (UK) Ltd](/setts/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/) — ΔT 1.05
+1. [Smith](/setts/s11/r3k1g12k12db12t3db12k12g12k1ly3~x2/) — ΔT 1.09
 1. [Offally](/setts/s10/r7db2g5db18g10db2k24db2g10ly3~x2/) — ΔT 1.11
 1. [Grant, hunting](/setts/s11/db11k2db2k2db2k11g11r2g3k1ly3~x2/) — ΔT 1.12
 1. [Forsyth (1795)](/setts/s6/k2g11ly1k8b9r2~x4/) — ΔT 1.14
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db6t2db20k15g20ly2g6t2g20k15db20ly4~x2/"><circle cx="118.4" cy="176.4" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes</title></circle></a><a href="/setts/s10/db3ly1db12k4ly2k4g8r2g8r1~x2/"><circle cx="131.5" cy="165.4" r="4" fill="#3465a4"><title>MacMillan, hunting</title></circle></a><a href="/setts/s10/db12r4db18r2k19g18r4g3ly2g8~x2/"><circle cx="116.5" cy="176.9" r="4" fill="#3465a4"><title>Biskup</title></circle></a><a href="/setts/s10/g8k1g8k8r1db8w1db8r1k8~x2/"><circle cx="104.9" cy="195.4" r="4" fill="#3465a4"><title>Hunter</title></circle></a><a href="/setts/s12/db2k1db10k9g9r1g2w1g9k9db10k2~x4/"><circle cx="127.0" cy="175.7" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/setts/s11/ly3k1g12k12db12t3db12k12g12k1r3~x2/"><circle cx="83.2" cy="159.9" r="4" fill="#3465a4"><title>Smith</title></circle></a><a href="/setts/s10/r7db2g5db18g10db2k24db2g10ly3~x2/"><circle cx="118.6" cy="160.2" r="4" fill="#3465a4"><title>Offally</title></circle></a><a href="/setts/s11/db11k2db2k2db2k11g11r2g3k1ly3~x2/"><circle cx="119.8" cy="156.2" r="4" fill="#3465a4"><title>Grant, hunting</title></circle></a><a href="/setts/s6/k2g11ly1k8b9r2~x4/"><circle cx="121.0" cy="195.1" r="4" fill="#3465a4"><title>Forsyth (1795)</title></circle></a><a href="/setts/s13/db9k1db1k1db1k7g8ly2g8k7db8k1r2~x2/"><circle cx="115.6" cy="168.6" r="4" fill="#3465a4"><title>MacLeod of Gesto</title></circle></a><circle cx="102.5" cy="174.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db6t2db20k15g20ly2g6t2g20k15db20ly4~x2/"><circle cx="118.6" cy="176.4" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes</title></circle></a><a href="/setts/s10/db3ly1db12k4ly2k4g8r2g8r1~x2/"><circle cx="131.6" cy="165.4" r="4" fill="#3465a4"><title>MacMillan, hunting</title></circle></a><a href="/setts/s10/db12r4db18r2k19g18r4g3ly2g8~x2/"><circle cx="116.6" cy="176.9" r="4" fill="#3465a4"><title>Biskup</title></circle></a><a href="/setts/s10/k8r1db8w1db8r1k8g8k1g8~x2/"><circle cx="105.1" cy="195.4" r="4" fill="#3465a4"><title>Hunter</title></circle></a><a href="/setts/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/"><circle cx="127.2" cy="175.7" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/setts/s11/r3k1g12k12db12t3db12k12g12k1ly3~x2/"><circle cx="83.4" cy="160.0" r="4" fill="#3465a4"><title>Smith</title></circle></a><a href="/setts/s10/r7db2g5db18g10db2k24db2g10ly3~x2/"><circle cx="118.8" cy="160.3" r="4" fill="#3465a4"><title>Offally</title></circle></a><a href="/setts/s11/db11k2db2k2db2k11g11r2g3k1ly3~x2/"><circle cx="119.9" cy="156.3" r="4" fill="#3465a4"><title>Grant, hunting</title></circle></a><a href="/setts/s6/k2g11ly1k8b9r2~x4/"><circle cx="121.2" cy="195.1" r="4" fill="#3465a4"><title>Forsyth (1795)</title></circle></a><a href="/setts/s13/db9k1db1k1db1k7g8ly2g8k7db8k1r2~x2/"><circle cx="115.7" cy="168.6" r="4" fill="#3465a4"><title>MacLeod of Gesto</title></circle></a><circle cx="102.7" cy="174.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/k23t25r4t25k23ly2g25k4g25ly4/

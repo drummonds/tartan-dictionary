@@ -8,7 +8,7 @@ WRWY
 
 It is a 4 band tartan.
 
-![Woven sample](/setts/s4/lg4w35m31w4~x2/tartan.png)
+![Woven sample](/setts/s4/w4m31w35lg4~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ WRWY
 
 
 
-### W M W LG <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#82D67A"></span><span class="seq">W M W LG</span></span>
+### LG W M W <span class="pat"><span class="blk" style="background:#82D67A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LG W M W</span></span>
 
 | Tartans |
 |---------------|
-| [Lewis, Magenta (Dance)](/setts/s4/lg4w35m31w4~x2/)|
-|![Lewis, Magenta (Dance) example sett](/setts/s4/lg4w35m31w4~x2/sett.png)|
+| [Lewis, Magenta (Dance)](/setts/s4/w4m31w35lg4~x2/)|
+|![Lewis, Magenta (Dance) example sett](/setts/s4/w4m31w35lg4~x2/sett.png)|
 

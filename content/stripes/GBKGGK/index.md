@@ -8,7 +8,7 @@ GBKGGK
 
 It is a 6 band tartan.
 
-![Woven sample](/setts/s6/dg2dp8k9y2dg10k2~x2/tartan.png)
+![Woven sample](/setts/s6/k2dg10y2k9dp8dg2~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ GBKGGK
 
 
 
-### DG DP K Y DG K <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="seq">DG DP K Y DG K</span></span>
+### K DG Y K DP DG <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#053819"></span><span class="seq">K DG Y K DP DG</span></span>
 
 | Tartans |
 |---------------|
-| [Lennie](/setts/s6/dg2dp8k9y2dg10k2~x2/)|
-|![Lennie example sett](/setts/s6/dg2dp8k9y2dg10k2~x2/sett.png)|
+| [Lennie](/setts/s6/k2dg10y2k9dp8dg2~x2/)|
+|![Lennie example sett](/setts/s6/k2dg10y2k9dp8dg2~x2/sett.png)|
 

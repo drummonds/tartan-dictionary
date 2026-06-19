@@ -32,6 +32,6 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [Paton](/setts/s7/ly3g3ly3g19k28g24r3~x2/)|
-|![Paton example sett](/setts/s7/ly3g3ly3g19k28g24r3~x2/sett.png)|
+| [Paton](/setts/s7/r3g24k28g19ly3g3ly3~x2/)|
+|![Paton example sett](/setts/s7/r3g24k28g19ly3g3ly3~x2/sett.png)|
 

@@ -18,10 +18,10 @@ KWKBKGBKGKWK
 
 
 
-### K W K DB K DG DB K DG K W K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">K W K DB K DG DB K DG K W K</span></span>
+### K W K DG K DB DG K DB K W K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="seq">K W K DG K DB DG K DB K W K</span></span>
 
 | Tartans |
 |---------------|
-| [Chess (Universal)](/setts/s12/k1w1k8db1k1dg8db8k1dg1k8w1k1~x6/)|
-|![Chess (Universal) example sett](/setts/s12/k1w1k8db1k1dg8db8k1dg1k8w1k1~x6/sett.png)|
+| [Chess (Universal)](/setts/s12/k1w1k8dg1k1db8dg8k1db1k8w1k1~x6/)|
+|![Chess (Universal) example sett](/setts/s12/k1w1k8dg1k1db8dg8k1db1k8w1k1~x6/sett.png)|
 

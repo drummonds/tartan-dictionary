@@ -2,12 +2,18 @@
 title: "MacLean of Duart #6"
 date: 2023-03-18
 ---
-**Bands:** [BBKYKWKGRBRK](/stripes/bbkykwkgrbrk/) · **Stripes:** [DB T K LY K W K G R T R K](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">DB T K LY K W K G R T R K</span></span>
+**Bands:** [KRBRGKWKYKBB](/stripes/krbrgkwkykbb/) · **Stripes:** [K R T R G K W K LY K T DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#082077"></span><span class="seq">K R T R G K W K LY K T DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2610
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacLean of Duart #6
 
 ## Attestations
 
@@ -59,15 +65,15 @@ The nearest existing variants by ΔTartan distance.
 1. [Inverclyde (Corporate)](/setts/s11/w3db5db2db9n10t2n4t2g10r33w2~x2/) — ΔT 0.86
 1. [MacLean of Duart #4](/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/) — ΔT 0.98
 1. [Filipino American](/setts/s11/r30w4ly2w4db16dg8dp3dg8k10r3k4~x2/) — ΔT 1.01
-1. [MacLean (rare)](/setts/s12/do9t5k8ly2k4w4k4dg28r44t4r5k3~x2/) — ΔT 1.01
 1. [Unnamed 11](/setts/s14/r12w1k1g12ly2db5t6r2t2r4g2r2k2g2~x2/) — ΔT 1.01
+1. [MacLean (rare)](/setts/s12/do9t5k8ly2k4w4k4dg28r44t4r5k3~x2/) — ΔT 1.01
 1. [Maclean of Duart (Wilsons) (Clan)](/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/) — ΔT 1.05
 1. [Wilson's No.132](/setts/s14/r18w2g21y2dp7y5w2y5dp7y2g21w2r18k3~x2/) — ΔT 1.07
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x2/"><circle cx="125.0" cy="86.0" r="4" fill="#3465a4"><title>MacLean of Duart 5</title></circle></a><a href="/setts/s14/r12w1k1dg12ly2db5t6r2t2r4dg2r2k2dg2~x2/"><circle cx="122.1" cy="103.2" r="4" fill="#3465a4"><title>Unidentified #31</title></circle></a><a href="/setts/s11/o40ly10w6lo10dy6lo4dy6lo4dy60k34t11/"><circle cx="133.9" cy="90.7" r="4" fill="#3465a4"><title>Angels' Share, The</title></circle></a><a href="/setts/s11/w3db5db2db9n10t2n4t2g10r33w2~x2/"><circle cx="174.3" cy="86.6" r="4" fill="#3465a4"><title>Inverclyde (Corporate)</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/"><circle cx="161.2" cy="101.1" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><a href="/setts/s11/r30w4ly2w4db16dg8dp3dg8k10r3k4~x2/"><circle cx="115.6" cy="95.9" r="4" fill="#3465a4"><title>Filipino American</title></circle></a><a href="/setts/s12/do9t5k8ly2k4w4k4dg28r44t4r5k3~x2/"><circle cx="183.2" cy="63.8" r="4" fill="#3465a4"><title>MacLean (rare)</title></circle></a><a href="/setts/s14/r12w1k1g12ly2db5t6r2t2r4g2r2k2g2~x2/"><circle cx="114.4" cy="101.5" r="4" fill="#3465a4"><title>Unnamed 11</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/"><circle cx="178.8" cy="101.3" r="4" fill="#3465a4"><title>Maclean of Duart (Wilsons) (Clan)</title></circle></a><a href="/setts/s14/r18w2g21y2dp7y5w2y5dp7y2g21w2r18k3~x2/"><circle cx="123.0" cy="112.9" r="4" fill="#3465a4"><title>Wilson's No.132</title></circle></a><circle cx="142.7" cy="91.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x2/"><circle cx="124.9" cy="86.1" r="4" fill="#3465a4"><title>MacLean of Duart 5</title></circle></a><a href="/setts/s14/r12w1k1dg12ly2db5t6r2t2r4dg2r2k2dg2~x2/"><circle cx="122.0" cy="103.4" r="4" fill="#3465a4"><title>Unidentified #31</title></circle></a><a href="/setts/s11/o40ly10w6lo10dy6lo4dy6lo4dy60k34t11/"><circle cx="133.7" cy="90.9" r="4" fill="#3465a4"><title>Angels' Share, The</title></circle></a><a href="/setts/s11/w3db5db2db9n10t2n4t2g10r33w2~x2/"><circle cx="174.1" cy="86.8" r="4" fill="#3465a4"><title>Inverclyde (Corporate)</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/"><circle cx="161.0" cy="101.2" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><a href="/setts/s11/r30w4ly2w4db16dg8dp3dg8k10r3k4~x2/"><circle cx="115.5" cy="96.0" r="4" fill="#3465a4"><title>Filipino American</title></circle></a><a href="/setts/s14/r12w1k1g12ly2db5t6r2t2r4g2r2k2g2~x2/"><circle cx="114.2" cy="101.6" r="4" fill="#3465a4"><title>Unnamed 11</title></circle></a><a href="/setts/s12/do9t5k8ly2k4w4k4dg28r44t4r5k3~x2/"><circle cx="183.0" cy="64.0" r="4" fill="#3465a4"><title>MacLean (rare)</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/"><circle cx="178.6" cy="101.4" r="4" fill="#3465a4"><title>Maclean of Duart (Wilsons) (Clan)</title></circle></a><a href="/setts/s14/r18w2g21y2dp7y5w2y5dp7y2g21w2r18k3~x2/"><circle cx="122.9" cy="113.0" r="4" fill="#3465a4"><title>Wilson's No.132</title></circle></a><circle cx="142.6" cy="91.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x4/

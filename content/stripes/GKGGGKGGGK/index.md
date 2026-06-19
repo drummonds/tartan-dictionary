@@ -18,10 +18,10 @@ GKGGGKGGGK
 
 
 
-### G K G DG G K G DG G K <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">G K G DG G K G DG G K</span></span>
+### K G DG G K G DG G K G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G DG G K G DG G K G</span></span>
 
 | Tartans |
 |---------------|
-| [Campbell-Simpson (Personal)](/setts/s10/g12k2g2dg9g4k2g4dg9g2k2~x4/)|
-|![Campbell-Simpson (Personal) example sett](/setts/s10/g12k2g2dg9g4k2g4dg9g2k2~x4/sett.png)|
+| [Campbell-Simpson (Personal)](/setts/s10/g12k2g2dg9g4k2~x4/)|
+|![Campbell-Simpson (Personal) example sett](/setts/s10/g12k2g2dg9g4k2~x4/sett.png)|
 

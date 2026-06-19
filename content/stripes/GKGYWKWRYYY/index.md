@@ -18,10 +18,10 @@ GKGYWKWRYYY
 
 
 
-### Y K Y LO LB K LB R LO LO LO <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="seq">Y K Y LO LB K LB R LO LO LO</span></span>
+### LO LO LO R LB K LB LO Y K Y <span class="pat"><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LO LO LO R LB K LB LO Y K Y</span></span>
 
 | Tartans |
 |---------------|
-| [Asman, Day Tan (Name)](/setts/s11/lo2lo1lo9r3lb1k3lb1lo3y9k1y2~x4/)|
-|![Asman, Day Tan (Name) example sett](/setts/s11/lo2lo1lo9r3lb1k3lb1lo3y9k1y2~x4/sett.png)|
+| [Asman, Day Tan (Name)](/setts/s11/y2k1y9lo3lb1k3lb1r3lo9lo1lo2~x4/)|
+|![Asman, Day Tan (Name) example sett](/setts/s11/y2k1y9lo3lb1k3lb1r3lo9lo1lo2~x4/sett.png)|
 

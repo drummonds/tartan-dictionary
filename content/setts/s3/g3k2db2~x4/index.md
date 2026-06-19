@@ -2,12 +2,18 @@
 title: "Glenlyon #2"
 date: 2023-03-18
 ---
-**Bands:** [BKG](/stripes/bkg/) · **Stripes:** [DB K G](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB K G</span></span>
+**Bands:** [GKB](/stripes/gkb/) · **Stripes:** [G K DB](/stripes/stripes3/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">G K DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [3 band tartan](/bands/bands3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Glenlyon #2
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/8 K8 G/12
+G/12 K8 B/8
 ![Sett](sett.png)
 
 ## Palette
@@ -906,7 +915,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/8 K8 G/12 tartan")
+![Tartan detail](tartan.png "G/12 K8 B/8 tartan")
 
 ## Nearest tartans
 
@@ -915,18 +924,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Glen Lyon (District)](/setts/s3/k5g4t3~x2/) — ΔT 0.95
 1. [Wilson's No.052](/setts/s3/g7k4t4~x2/) — ΔT 1.39
 1. [Shepherd, Derek (Wandering)](/setts/s5/lb2k2g2lb1k1~x20/) — ΔT 1.70
-1. [Glen Lyon](/setts/s3/db8g7k8~x2/) — ΔT 1.87
+1. [Glen Lyon](/setts/s3/k8g7db8~x2/) — ΔT 1.87
 1. [Mull](/setts/s3/k5g4t2~x2/) — ΔT 1.88
 1. [Kazakhstan Relic (Artefact)](/setts/s3/lo5db5k3~x4/) — ΔT 1.98
 1. [Glen Lyon, or Mull (No.53)](/setts/s3/k5g3t2~x2/) — ΔT 2.20
 1. [Wilson's No.209](/setts/s4/g4dp5g4t2~x2/) — ΔT 2.24
-1. [Kazakhstan Relic](/setts/s4/db5k3db5lo5~x4/) — ΔT 2.26
+1. [Kazakhstan Relic](/setts/s4/lo5db5k3~x4/) — ΔT 2.26
 1. [Wilson's No.094](/setts/s4/g4k5g4r2~x2/) — ΔT 2.34
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/k5g4t3~x2/"><circle cx="111.5" cy="366.0" r="4" fill="#3465a4"><title>Glen Lyon (District)</title></circle></a><a href="/setts/s3/g7k4t4~x2/"><circle cx="153.3" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.052</title></circle></a><a href="/setts/s5/lb2k2g2lb1k1~x20/"><circle cx="81.2" cy="342.6" r="4" fill="#3465a4"><title>Shepherd, Derek (Wandering)</title></circle></a><a href="/setts/s3/db8g7k8~x2/"><circle cx="22.4" cy="366.0" r="4" fill="#3465a4"><title>Glen Lyon</title></circle></a><a href="/setts/s3/k5g4t2~x2/"><circle cx="177.9" cy="366.0" r="4" fill="#3465a4"><title>Mull</title></circle></a><a href="/setts/s3/lo5db5k3~x4/"><circle cx="94.0" cy="366.0" r="4" fill="#3465a4"><title>Kazakhstan Relic (Artefact)</title></circle></a><a href="/setts/s3/k5g3t2~x2/"><circle cx="164.6" cy="354.7" r="4" fill="#3465a4"><title>Glen Lyon, or Mull (No.53)</title></circle></a><a href="/setts/s4/g4dp5g4t2~x2/"><circle cx="217.2" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.209</title></circle></a><a href="/setts/s4/db5k3db5lo5~x4/"><circle cx="171.4" cy="366.0" r="4" fill="#3465a4"><title>Kazakhstan Relic</title></circle></a><a href="/setts/s4/g4k5g4r2~x2/"><circle cx="200.0" cy="359.5" r="4" fill="#3465a4"><title>Wilson's No.094</title></circle></a><circle cx="88.9" cy="366.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s3/k5g4t3~x2/"><circle cx="111.9" cy="366.0" r="4" fill="#3465a4"><title>Glen Lyon (District)</title></circle></a><a href="/setts/s3/g7k4t4~x2/"><circle cx="153.6" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.052</title></circle></a><a href="/setts/s5/lb2k2g2lb1k1~x20/"><circle cx="81.5" cy="342.4" r="4" fill="#3465a4"><title>Shepherd, Derek (Wandering)</title></circle></a><a href="/setts/s3/k8g7db8~x2/"><circle cx="23.0" cy="366.0" r="4" fill="#3465a4"><title>Glen Lyon</title></circle></a><a href="/setts/s3/k5g4t2~x2/"><circle cx="178.2" cy="366.0" r="4" fill="#3465a4"><title>Mull</title></circle></a><a href="/setts/s3/lo5db5k3~x4/"><circle cx="94.3" cy="366.0" r="4" fill="#3465a4"><title>Kazakhstan Relic (Artefact)</title></circle></a><a href="/setts/s3/k5g3t2~x2/"><circle cx="165.0" cy="354.5" r="4" fill="#3465a4"><title>Glen Lyon, or Mull (No.53)</title></circle></a><a href="/setts/s4/g4dp5g4t2~x2/"><circle cx="217.4" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.209</title></circle></a><a href="/setts/s4/lo5db5k3~x4/"><circle cx="171.7" cy="366.0" r="4" fill="#3465a4"><title>Kazakhstan Relic</title></circle></a><a href="/setts/s4/g4k5g4r2~x2/"><circle cx="200.2" cy="359.2" r="4" fill="#3465a4"><title>Wilson's No.094</title></circle></a><circle cx="89.4" cy="366.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/g3k2db2~x4/

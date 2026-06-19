@@ -2,7 +2,7 @@
 title: "Wombles 2 (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [WBWBRBYBW](/stripes/wbwbrbybw/) · **Stripes:** [W DB W DB R DB LO DB W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB W DB R DB LO DB W</span></span>
+**Bands:** [WBYBRBWBW](/stripes/wbybrbwbw/) · **Stripes:** [W DB LO DB R DB W DB W](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">W DB LO DB R DB W DB W</span></span>
 
 
 This was sourced from tartans-authority.  It is a [9 band tartan](/bands/bands9/).
@@ -17,7 +17,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-W/16 DB4 O24 DB12 R24 DB4 W4 DBa32 W/16
+W/16 DBa32 W4 DB4 R24 DB12 O24 DB4 W/16
 ![Sett](sett.png)
 
 ## Palette
@@ -48,8 +48,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w4db8w1db1lo6db3r6db1w4~x4/"><circle cx="43.1" cy="167.2" r="4" fill="#3465a4"><title>Wombles 4 (Corporate)</title></circle></a><a href="/setts/s9/w4db8w1lo1db6lo3r6lo1w4~x4/"><circle cx="42.6" cy="168.1" r="4" fill="#3465a4"><title>Wombles 6 (Corporate)</title></circle></a><a href="/setts/s9/w4db8w1db1lo6db3r6db1w4~x2/"><circle cx="43.2" cy="169.2" r="4" fill="#3465a4"><title>Womble</title></circle></a><a href="/setts/s9/w4db8w1db1r6db3lo6db1w4~x2/"><circle cx="43.2" cy="169.2" r="4" fill="#3465a4"><title>Womble</title></circle></a><a href="/setts/s9/w4db8w1lo1db6lo3r6lo1w4~x2/"><circle cx="43.2" cy="170.6" r="4" fill="#3465a4"><title>Womble</title></circle></a><a href="/setts/s9/w4db8w1r1db6r3r6r1w4~x2/"><circle cx="47.0" cy="169.2" r="4" fill="#3465a4"><title>Wombles #5</title></circle></a><a href="/setts/s9/w4db8w1db1r6db3r6db1w4~x2/"><circle cx="47.7" cy="167.9" r="4" fill="#3465a4"><title>Wombles</title></circle></a><a href="/setts/s9/w4db8w1db1g6db3r6db1w4~x4/"><circle cx="39.6" cy="173.9" r="4" fill="#3465a4"><title>Wombles 3 (Corporate)</title></circle></a><a href="/setts/s9/w4db8w1db1dg6db3r6db1w4~x2/"><circle cx="45.7" cy="178.1" r="4" fill="#3465a4"><title>Wombles #2</title></circle></a><a href="/setts/s9/w4db8w1db1g6db3r6db1w4~x2/"><circle cx="43.5" cy="178.6" r="4" fill="#3465a4"><title>Womble</title></circle></a><circle cx="43.1" cy="167.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w4db8w1db1lo6db3r6db1w4~x4/"><circle cx="43.0" cy="167.2" r="4" fill="#3465a4"><title>Wombles 4 (Corporate)</title></circle></a><a href="/setts/s9/w4db8w1lo1db6lo3r6lo1w4~x4/"><circle cx="42.6" cy="168.2" r="4" fill="#3465a4"><title>Wombles 6 (Corporate)</title></circle></a><a href="/setts/s9/w4db8w1db1lo6db3r6db1w4~x2/"><circle cx="43.1" cy="169.3" r="4" fill="#3465a4"><title>Womble</title></circle></a><a href="/setts/s9/w4db8w1db1r6db3lo6db1w4~x2/"><circle cx="43.1" cy="169.3" r="4" fill="#3465a4"><title>Womble</title></circle></a><a href="/setts/s9/w4db8w1lo1db6lo3r6lo1w4~x2/"><circle cx="43.1" cy="170.7" r="4" fill="#3465a4"><title>Womble</title></circle></a><a href="/setts/s9/w4db8w1r1db6r3r6r1w4~x2/"><circle cx="47.0" cy="169.3" r="4" fill="#3465a4"><title>Wombles #5</title></circle></a><a href="/setts/s9/w4db8w1db1r6db3r6db1w4~x2/"><circle cx="47.6" cy="167.9" r="4" fill="#3465a4"><title>Wombles</title></circle></a><a href="/setts/s9/w4db8w1db1g6db3r6db1w4~x4/"><circle cx="39.6" cy="173.9" r="4" fill="#3465a4"><title>Wombles 3 (Corporate)</title></circle></a><a href="/setts/s9/w4db8w1db1dg6db3r6db1w4~x2/"><circle cx="45.7" cy="178.1" r="4" fill="#3465a4"><title>Wombles #2</title></circle></a><a href="/setts/s9/w4db8w1db1g6db3r6db1w4~x2/"><circle cx="43.5" cy="178.6" r="4" fill="#3465a4"><title>Womble</title></circle></a><circle cx="43.0" cy="167.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/w4db8w1db1r6db3lo6db1w4~x4/

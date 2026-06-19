@@ -2,12 +2,18 @@
 title: "Law of Heather Athol (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBGRGRGKY](/stripes/brbrbgrgrgky/) · **Stripes:** [DB R DB R DB G R G R G K LY](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB R DB R DB G R G R G K LY</span></span>
+**Bands:** [YKGRGRGBRBRB](/stripes/ykgrgrgbrbrb/) · **Stripes:** [LY K G R G R G DB R DB R DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K G R G R G DB R DB R DB</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [12 band tartan](/bands/bands12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2065
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Law, of Heather Athol
 
 ## Attestations
 
@@ -320,6 +326,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -420,6 +427,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -679,6 +687,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -925,8 +934,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly6db3k3db36k10lr18db6k2g4k3~x2/"><circle cx="248.5" cy="130.4" r="4" fill="#3465a4"><title>Dinwiddie Hunting (Name)</title></circle></a><a href="/setts/s10/db37w2db2ly2r17w2db2g17ly2db2~x2/"><circle cx="276.2" cy="114.2" r="4" fill="#3465a4"><title>MDF (Personal)</title></circle></a><a href="/setts/s13/o28k4db6k2lo4k2db6k28db4db2k1k1lb2/"><circle cx="244.1" cy="91.5" r="4" fill="#3465a4"><title>McFly School</title></circle></a><a href="/setts/s10/r3w2r2db2r2db24k28r2k3ly1~x2/"><circle cx="296.1" cy="107.3" r="4" fill="#3465a4"><title>Locky</title></circle></a><a href="/setts/s11/w4dp40g2dp2g2dp2g2dp3g16db15m3~x2/"><circle cx="309.2" cy="117.1" r="4" fill="#3465a4"><title>Solway Spirit (District)</title></circle></a><a href="/setts/s12/k33w3b2db7k2w3k5b21k15b1lg18b1~x2/"><circle cx="253.0" cy="103.4" r="4" fill="#3465a4"><title>Covington, Christopher (Personal)</title></circle></a><a href="/setts/s10/dt48t12lo3w3lo3r11dt5r2lo7w2~x2/"><circle cx="313.0" cy="108.1" r="4" fill="#3465a4"><title>Holyrood Golden Jubilee II (Commemo)</title></circle></a><a href="/setts/s12/db8w8db4p4db36p4db4y26db2y26g2db5/"><circle cx="239.5" cy="125.6" r="4" fill="#3465a4"><title>Historic Scotland</title></circle></a><a href="/setts/s13/n38k4r3do6w2do2w2do2k12n6do2n6w2~x2/"><circle cx="299.7" cy="95.2" r="4" fill="#3465a4"><title>Leando (Coldingham) Dress (Personal)</title></circle></a><a href="/setts/s12/db8w8db4dp4db36dp4db4o26db2o26g2db5/"><circle cx="256.0" cy="128.7" r="4" fill="#3465a4"><title>Historic Scotland (1998) (Corporate)</title></circle></a><circle cx="284.4" cy="111.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly6db3k3db36k10lr18db6k2g4k3~x2/"><circle cx="248.5" cy="130.3" r="4" fill="#3465a4"><title>Dinwiddie Hunting (Name)</title></circle></a><a href="/setts/s10/db37w2db2ly2r17w2db2g17ly2db2~x2/"><circle cx="276.1" cy="114.1" r="4" fill="#3465a4"><title>MDF (Personal)</title></circle></a><a href="/setts/s13/o28k4db6k2lo4k2db6k28db4db2k1k1lb2/"><circle cx="244.1" cy="91.5" r="4" fill="#3465a4"><title>McFly School</title></circle></a><a href="/setts/s10/r3w2r2db2r2db24k28r2k3ly1~x2/"><circle cx="296.1" cy="107.4" r="4" fill="#3465a4"><title>Locky</title></circle></a><a href="/setts/s11/w4dp40g2dp2g2dp2g2dp3g16db15m3~x2/"><circle cx="309.0" cy="117.1" r="4" fill="#3465a4"><title>Solway Spirit (District)</title></circle></a><a href="/setts/s12/k33w3b2db7k2w3k5b21k15b1lg18b1~x2/"><circle cx="253.0" cy="103.4" r="4" fill="#3465a4"><title>Covington, Christopher (Personal)</title></circle></a><a href="/setts/s10/dt48t12lo3w3lo3r11dt5r2lo7w2~x2/"><circle cx="312.8" cy="108.0" r="4" fill="#3465a4"><title>Holyrood Golden Jubilee II (Commemo)</title></circle></a><a href="/setts/s12/db8w8db4p4db36p4db4y26db2y26g2db5/"><circle cx="239.5" cy="125.5" r="4" fill="#3465a4"><title>Historic Scotland</title></circle></a><a href="/setts/s13/n38k4r3do6w2do2w2do2k12n6do2n6w2~x2/"><circle cx="299.5" cy="95.1" r="4" fill="#3465a4"><title>Leando (Coldingham) Dress (Personal)</title></circle></a><a href="/setts/s12/db8w8db4dp4db36dp4db4o26db2o26g2db5/"><circle cx="255.8" cy="128.7" r="4" fill="#3465a4"><title>Historic Scotland (1998) (Corporate)</title></circle></a><circle cx="284.3" cy="111.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/db6r2db2r4db24g11r4g2r2g3k1ly2~x2/

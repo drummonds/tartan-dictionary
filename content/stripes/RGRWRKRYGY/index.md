@@ -22,6 +22,6 @@ RGRWRKRYGY
 
 | Tartans |
 |---------------|
-| [Stirling and Bannockburn](/setts/s10/ly3g2lg18r3k13r4lb3r4g18r3~x2/)|
-|![Stirling and Bannockburn example sett](/setts/s10/ly3g2lg18r3k13r4lb3r4g18r3~x2/sett.png)|
+| [Stirling and Bannockburn](/setts/s10/r3g18r4lb3r4k13r3lg18g2ly3~x2/)|
+|![Stirling and Bannockburn example sett](/setts/s10/r3g18r4lb3r4k13r3lg18g2ly3~x2/sett.png)|
 

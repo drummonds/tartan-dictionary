@@ -20,7 +20,7 @@ GKBR
 
 
 
-### DG K DT R <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG K DT R</span></span>
+### R DT K DG <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="seq">R DT K DG</span></span>
 
 | Tartans |
 |---------------|

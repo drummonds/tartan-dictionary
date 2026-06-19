@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -920,8 +923,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s21/r52w2g43ly4w2k2w2ly4k18t8w2dp8w8dp8w2t8r10k3m2r2r4~x2/"><circle cx="96.5" cy="14.0" r="4" fill="#3465a4"><title>Dundee Wallace</title></circle></a><a href="/setts/s21/r52w2g43ly4w2k2w2ly4k18t8w2dp8w8dp8w2t8r10k3r2r2r4~x2/"><circle cx="102.5" cy="14.0" r="4" fill="#3465a4"><title>Dundee Wallace Family Tartan Tartan Number: 1648. Earliest known date: 1819 Based on the design of a tartan Jacket said to have been worn by Prince Charles Edward Stuart at Culloden - earliest date 1746 - now preserved in the Scottish United Services Museum in Edinburgh Castle. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s23/r32w2db2db2t2w2t2db2db2w2k2g9k2w2m3r3r3g2r3r3m3w2g6~x2/"><circle cx="120.7" cy="14.0" r="4" fill="#3465a4"><title>MacBean, MacVean</title></circle></a><a href="/setts/s14/r42r2k15r2g22ly4w2p2w2ly4t7w2p6w6~x2/"><circle cx="103.9" cy="24.9" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/setts/s14/r42r2k15r2g22ly4w2dp2w2ly4t7w2dp6w6~x2/"><circle cx="110.2" cy="26.5" r="4" fill="#3465a4"><title>Dundee (1819) (District)</title></circle></a><a href="/setts/s14/r42r2k15r2dg22ly4w2dp2w2ly4t7w2dp6w6~x2/"><circle cx="112.8" cy="27.4" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/setts/s23/r32w2db2db2t2w2t2db2db2w2k2dg9k2w2m3r3r3dg2r3r3m3w2dg6~x2/"><circle cx="126.4" cy="14.0" r="4" fill="#3465a4"><title>MacBean MacVean</title></circle></a><a href="/setts/s14/r42m2k15m2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6~x2/"><circle cx="122.7" cy="34.5" r="4" fill="#3465a4"><title>Dundee #3</title></circle></a><a href="/setts/s15/b17g15ly5w2g8dp6w2db8dr32r18w2r8w2o50w2~x2/"><circle cx="75.3" cy="32.2" r="4" fill="#3465a4"><title>Culloden, Worn by Pr Charles</title></circle></a><a href="/setts/s15/b17dg15ly5w2dg8dp6w2db8dy32r18w2r8w2dy50w2~x2/"><circle cx="67.7" cy="34.6" r="4" fill="#3465a4"><title>Culloden Worn by Pr Charles</title></circle></a><circle cx="89.8" cy="14.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s21/r52w2g43ly4w2k2w2ly4k18t8w2dp8w8dp8w2t8r10k3m2r2r4~x2/"><circle cx="96.3" cy="14.0" r="4" fill="#3465a4"><title>Dundee Wallace</title></circle></a><a href="/setts/s21/r52w2g43ly4w2k2w2ly4k18t8w2dp8w8dp8w2t8r10k3r2r2r4~x2/"><circle cx="102.2" cy="14.0" r="4" fill="#3465a4"><title>Dundee Wallace Family Tartan Tartan Number: 1648. Earliest known date: 1819 Based on the design of a tartan Jacket said to have been worn by Prince Charles Edward Stuart at Culloden - earliest date 1746 - now preserved in the Scottish United Services Museum in Edinburgh Castle. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s23/r32w2db2db2t2w2t2db2db2w2k2g9k2w2m3r3r3g2r3r3m3w2g6~x2/"><circle cx="120.4" cy="14.0" r="4" fill="#3465a4"><title>MacBean, MacVean</title></circle></a><a href="/setts/s14/r42r2k15r2g22ly4w2p2w2ly4t7w2p6w6~x2/"><circle cx="103.7" cy="25.2" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/setts/s14/r42r2k15r2g22ly4w2dp2w2ly4t7w2dp6w6~x2/"><circle cx="110.0" cy="26.7" r="4" fill="#3465a4"><title>Dundee (1819) (District)</title></circle></a><a href="/setts/s14/r42r2k15r2dg22ly4w2dp2w2ly4t7w2dp6w6~x2/"><circle cx="112.5" cy="27.7" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/setts/s23/r32w2db2db2t2w2t2db2db2w2k2dg9k2w2m3r3r3dg2r3r3m3w2dg6~x2/"><circle cx="126.1" cy="14.0" r="4" fill="#3465a4"><title>MacBean MacVean</title></circle></a><a href="/setts/s14/r42m2k15m2dg22ly4lb2dp2lb2ly4y7lb2dp6lb6~x2/"><circle cx="122.6" cy="34.8" r="4" fill="#3465a4"><title>Dundee #3</title></circle></a><a href="/setts/s15/b17g15ly5w2g8dp6w2db8dr32r18w2r8w2o50w2~x2/"><circle cx="75.2" cy="32.6" r="4" fill="#3465a4"><title>Culloden, Worn by Pr Charles</title></circle></a><a href="/setts/s15/b17dg15ly5w2dg8dp6w2db8dy32r18w2r8w2dy50w2~x2/"><circle cx="67.7" cy="35.0" r="4" fill="#3465a4"><title>Culloden Worn by Pr Charles</title></circle></a><circle cx="89.6" cy="14.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s21/r52w2g43ly4w2k2w2ly4k18t8w2p8w8p8w2t8r10k3r2r2r4~x2/

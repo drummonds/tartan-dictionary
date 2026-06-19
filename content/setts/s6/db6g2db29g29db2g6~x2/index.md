@@ -2,12 +2,18 @@
 title: "Harmony, 12"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBG](/stripes/bgbgbg/) · **Stripes:** [DB G DB G DB G](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB G DB G DB G</span></span>
+**Bands:** [GBGBGB](/stripes/gbgbgb/) · **Stripes:** [G DB G DB G DB](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G DB G DB G DB</span></span>
 
 
 This was sourced from weddslist.  It is a [6 band tartan](/bands/bands6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Harmony, 12
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/12 G4 B58 G58 B4 G/12
+G/12 B4 G58 B58 G4 B/12
 ![Sett](sett.png)
 
 ## Palette
@@ -905,7 +914,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "B/12 G4 B58 G58 B4 G/12 tartan")
+![Tartan detail](tartan.png "G/12 B4 G58 B58 G4 B/12 tartan")
 
 ## Nearest tartans
 
@@ -913,19 +922,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Unidentified, Tweed](/setts/s6/db4w1db12g12db1g4~x2/) — ΔT 1.17
 1. [Milligan](/setts/s6/b52g21b6g16k4g16~x2/) — ΔT 1.42
-1. [Barclay](/setts/s4/g1db16g16r1~x2/) — ΔT 1.49
-1. [Barclay Htg (Clan)](/setts/s4/g1db16g16r1~x4/) — ΔT 1.49
+1. [Barclay](/setts/s4/r1g16db16g1~x2/) — ΔT 1.49
+1. [Barclay Htg (Clan)](/setts/s4/r1g16db16g1~x4/) — ΔT 1.49
 1. [St. Dennis & Cranley School](/setts/s7/db1g12db4lb1db4g4db1~x4/) — ΔT 1.72
 1. [Hamilton, hunting](/setts/s5/db11g2db15g18w2~x2/) — ΔT 1.76
 1. [North Sea Commission](/setts/s5/t9dt3t1dt12ly1~x4/) — ΔT 1.81
+1. [Unidentified Tweed](/setts/s6/dg4db1dg12db12w1db4~x2/) — ΔT 1.83
 1. [Falconer of Labhdal (Personal)](/setts/s6/t7k7t7g20t2g2~x4/) — ΔT 1.83
-1. [Unidentified Tweed](/setts/s6/db4w1db12dg12db1dg4~x2/) — ΔT 1.83
-1. [Duchess of Fife #2](/setts/s6/g70k26g12k14db3k16~x2/) — ΔT 1.91
+1. [Letham Personal Tartan Tartan Number: 6718. Earliest known date: pre 2005 Jimmy said, in his recording application, "To allow my family to wear a single tartan" See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g40k20db10k4db7g13k4db4~x2/) — ΔT 1.91
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db4w1db12g12db1g4~x2/"><circle cx="339.9" cy="243.8" r="4" fill="#3465a4"><title>Unidentified, Tweed</title></circle></a><a href="/setts/s6/b52g21b6g16k4g16~x2/"><circle cx="353.6" cy="248.0" r="4" fill="#3465a4"><title>Milligan</title></circle></a><a href="/setts/s4/g1db16g16r1~x2/"><circle cx="385.6" cy="256.3" r="4" fill="#3465a4"><title>Barclay</title></circle></a><a href="/setts/s4/g1db16g16r1~x4/"><circle cx="385.6" cy="256.3" r="4" fill="#3465a4"><title>Barclay Htg (Clan)</title></circle></a><a href="/setts/s7/db1g12db4lb1db4g4db1~x4/"><circle cx="369.6" cy="225.1" r="4" fill="#3465a4"><title>St. Dennis &amp; Cranley School</title></circle></a><a href="/setts/s5/db11g2db15g18w2~x2/"><circle cx="328.6" cy="270.4" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><a href="/setts/s5/t9dt3t1dt12ly1~x4/"><circle cx="398.2" cy="252.1" r="4" fill="#3465a4"><title>North Sea Commission</title></circle></a><a href="/setts/s6/t7k7t7g20t2g2~x4/"><circle cx="296.6" cy="249.1" r="4" fill="#3465a4"><title>Falconer of Labhdal (Personal)</title></circle></a><a href="/setts/s6/db4w1db12dg12db1dg4~x2/"><circle cx="385.7" cy="269.6" r="4" fill="#3465a4"><title>Unidentified Tweed</title></circle></a><a href="/setts/s6/g70k26g12k14db3k16~x2/"><circle cx="420.1" cy="221.8" r="4" fill="#3465a4"><title>Duchess of Fife #2</title></circle></a><circle cx="400.9" cy="250.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db4w1db12g12db1g4~x2/"><circle cx="339.8" cy="243.6" r="4" fill="#3465a4"><title>Unidentified, Tweed</title></circle></a><a href="/setts/s6/b52g21b6g16k4g16~x2/"><circle cx="353.5" cy="247.8" r="4" fill="#3465a4"><title>Milligan</title></circle></a><a href="/setts/s4/r1g16db16g1~x2/"><circle cx="385.6" cy="256.1" r="4" fill="#3465a4"><title>Barclay</title></circle></a><a href="/setts/s4/r1g16db16g1~x4/"><circle cx="385.6" cy="256.1" r="4" fill="#3465a4"><title>Barclay Htg (Clan)</title></circle></a><a href="/setts/s7/db1g12db4lb1db4g4db1~x4/"><circle cx="369.6" cy="224.8" r="4" fill="#3465a4"><title>St. Dennis &amp; Cranley School</title></circle></a><a href="/setts/s5/db11g2db15g18w2~x2/"><circle cx="328.6" cy="270.2" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><a href="/setts/s5/t9dt3t1dt12ly1~x4/"><circle cx="398.0" cy="251.9" r="4" fill="#3465a4"><title>North Sea Commission</title></circle></a><a href="/setts/s6/dg4db1dg12db12w1db4~x2/"><circle cx="385.7" cy="269.5" r="4" fill="#3465a4"><title>Unidentified Tweed</title></circle></a><a href="/setts/s6/t7k7t7g20t2g2~x4/"><circle cx="296.5" cy="248.9" r="4" fill="#3465a4"><title>Falconer of Labhdal (Personal)</title></circle></a><a href="/setts/s8/g40k20db10k4db7g13k4db4~x2/"><circle cx="331.2" cy="242.5" r="4" fill="#3465a4"><title>Letham Personal Tartan Tartan Number: 6718. Earliest known date: pre 2005 Jimmy said, in his recording application, &quot;To allow my family to wear a single tartan&quot; See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="400.8" cy="250.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/db6g2db29g29db2g6~x2/

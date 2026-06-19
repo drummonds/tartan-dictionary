@@ -13,14 +13,22 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2625](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2625)
-- Scottish Register of Tartans: [3555](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3555)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 1429
 - Scottish Tartans Authority (ITI): 218
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1429
 - Scottish Tartans World Register: 218
-- Scottish Tartans World Register: 864
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Variants
 
@@ -30,7 +38,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-DR/4 DB21 DG21 N3 DG21 K/4
+K/4 DG21 N3 DG21 DB21 DR/4
 ![Sett](sett.png)
 
 ## Palette
@@ -46,7 +54,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/4 DB21 DG21 N3 DG21 K/4 tartan")
+![Tartan detail](tartan.png "K/4 DG21 N3 DG21 DB21 DR/4 tartan")
 
 ## Nearest tartans
 
@@ -61,12 +69,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Salvation Army Htg (Corporate)](/setts/s7/db5dg8k1ly2k1dg8db4~x4/) — ΔT 1.27
 1. [Cameron Hunting](/setts/s7/r3dg10r3dg14db16dg3ly2/) — ΔT 1.28
 1. [Wcwm 1045](/setts/s6/dg2n8dg2k3dg12r2~x2/) — ΔT 1.30
-1. [BlackRock (Symmetrical)](/setts/s8/dg10w4r4k8dg20k6dg3k10~x2/) — ΔT 1.31
+1. [BlackRock (Symmetrical)](/setts/s8/k10dg3k6dg20k8r4w4dg10~x2/) — ΔT 1.31
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k4dg21lr3dg21db21r4~x2/"><circle cx="277.8" cy="244.8" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/setts/s6/k4dg21lb3dg21db21r4/"><circle cx="258.6" cy="235.5" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/setts/s6/k4g21w3g21db21r4~x2/"><circle cx="264.9" cy="234.9" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/setts/s7/r3dg10r3dg14db16dg3ly2~x2/"><circle cx="285.4" cy="241.5" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/setts/s8/r1k7g7k7db7k7r1w1~x4/"><circle cx="236.0" cy="231.2" r="4" fill="#3465a4"><title>Tennent (Personal)</title></circle></a><a href="/setts/s6/t3k16dg16k16db3t3~x2/"><circle cx="300.7" cy="281.4" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s7/db5dg8k1ly2k1dg8db4~x4/"><circle cx="295.5" cy="252.1" r="4" fill="#3465a4"><title>Salvation Army Htg (Corporate)</title></circle></a><a href="/setts/s7/r3dg10r3dg14db16dg3ly2/"><circle cx="263.6" cy="229.8" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/setts/s6/dg2n8dg2k3dg12r2~x2/"><circle cx="294.3" cy="259.5" r="4" fill="#3465a4"><title>Wcwm 1045</title></circle></a><a href="/setts/s8/dg10w4r4k8dg20k6dg3k10~x2/"><circle cx="202.8" cy="231.2" r="4" fill="#3465a4"><title>BlackRock (Symmetrical)</title></circle></a><circle cx="277.8" cy="244.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k4dg21lr3dg21db21r4~x2/"><circle cx="278.0" cy="244.7" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/setts/s6/k4dg21lb3dg21db21r4/"><circle cx="258.8" cy="235.4" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/setts/s6/k4g21w3g21db21r4~x2/"><circle cx="264.9" cy="234.8" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/setts/s7/r3dg10r3dg14db16dg3ly2~x2/"><circle cx="285.4" cy="241.4" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/setts/s8/r1k7g7k7db7k7r1w1~x4/"><circle cx="236.1" cy="231.2" r="4" fill="#3465a4"><title>Tennent (Personal)</title></circle></a><a href="/setts/s6/t3k16dg16k16db3t3~x2/"><circle cx="300.9" cy="281.4" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/setts/s7/db5dg8k1ly2k1dg8db4~x4/"><circle cx="295.5" cy="252.0" r="4" fill="#3465a4"><title>Salvation Army Htg (Corporate)</title></circle></a><a href="/setts/s7/r3dg10r3dg14db16dg3ly2/"><circle cx="263.7" cy="229.7" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/setts/s6/dg2n8dg2k3dg12r2~x2/"><circle cx="294.4" cy="259.4" r="4" fill="#3465a4"><title>Wcwm 1045</title></circle></a><a href="/setts/s8/k10dg3k6dg20k8r4w4dg10~x2/"><circle cx="203.0" cy="231.2" r="4" fill="#3465a4"><title>BlackRock (Symmetrical)</title></circle></a><circle cx="278.0" cy="244.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k4dg21lr3dg21db21r4/

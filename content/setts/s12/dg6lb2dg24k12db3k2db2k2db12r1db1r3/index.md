@@ -2,7 +2,7 @@
 title: "Sutherland"
 date: 2023-03-18
 ---
-**Bands:** [GWGKBKBKBRBR](/stripes/gwgkbkbkbrbr/) · **Stripes:** [DG LB DG K DB K DB K DB R DB R](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">DG LB DG K DB K DB K DB R DB R</span></span>
+**Bands:** [RBRBKBKBKGWG](/stripes/rbrbkbkbkgwg/) · **Stripes:** [R DB R DB K DB K DB K DG LB DG](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#053819"></span><span class="seq">R DB R DB K DB K DB K DG LB DG</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -13,13 +13,23 @@ Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
 External register numbers recorded for this tartan.
 
+- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
+- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
+- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
 - Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
 - Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
+- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
 - Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
+- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
 - Scottish Tartans Authority (ITI): 218
 - Scottish Tartans World Register: 1010
+- Scottish Tartans World Register: 1042
+- Scottish Tartans World Register: 127
 - Scottish Tartans World Register: 1585
 - Scottish Tartans World Register: 218
+- Scottish Tartans World Register: 2218
+- Scottish Tartans World Register: 737
+- Scottish Tartans World Register: 897
 
 ## Thread count
 G/6 N2 G24 K12 DB3 K2 DB2 K2 DB12 R1 DB1 R/3
@@ -53,8 +63,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dg6lr2dg24k12db3k2db2k2db12r1db1r3~x2/"><circle cx="247.8" cy="131.1" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/setts/s12/dg6lr2dg24k12db3k2db2k2db12r1db1r3/"><circle cx="247.8" cy="131.1" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/setts/s9/db24ly2k8dg16k1dg3k1dg3r4~x2/"><circle cx="225.7" cy="139.3" r="4" fill="#3465a4"><title>Ogilvy Hunting</title></circle></a><a href="/setts/s12/db2lb1db12k1db2k1db4k12dg24k1dg2r1~x2/"><circle cx="259.5" cy="124.9" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/setts/s15/dg16r2dg2r1dg3r1dg2r2dg12k12r1db16r2db8ly2/"><circle cx="202.9" cy="133.8" r="4" fill="#3465a4"><title>Cochrane</title></circle></a><a href="/setts/s12/db4lr2db24k3db3k3db8k24dg48k3dg3r2~x2/"><circle cx="264.2" cy="130.6" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/setts/s12/db4lr2db24k3db3k3db8k24dg48k3dg3r2/"><circle cx="264.2" cy="130.6" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/setts/s14/db88k15g9r12g20k3ly8k3g20r12g9k15db24k36~x2/"><circle cx="206.2" cy="100.6" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/setts/s12/k4w1db26k5db5k32g23k2r4k2g13k1~x2/"><circle cx="222.4" cy="109.3" r="4" fill="#3465a4"><title>Young, Melvina (Artefact)</title></circle></a><a href="/setts/s12/db4w2db24k3db3k3db8k24g48k3g3r2/"><circle cx="220.8" cy="104.9" r="4" fill="#3465a4"><title>Urquhart, White Line</title></circle></a><circle cx="232.7" cy="123.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dg6lr2dg24k12db3k2db2k2db12r1db1r3~x2/"><circle cx="247.9" cy="131.1" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/setts/s12/dg6lr2dg24k12db3k2db2k2db12r1db1r3/"><circle cx="247.9" cy="131.1" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/setts/s9/db24ly2k8dg16k1dg3k1dg3r4~x2/"><circle cx="225.8" cy="139.3" r="4" fill="#3465a4"><title>Ogilvy Hunting</title></circle></a><a href="/setts/s12/db2lb1db12k1db2k1db4k12dg24k1dg2r1~x2/"><circle cx="259.6" cy="124.9" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/setts/s15/dg16r2dg2r1dg3r1dg2r2dg12k12r1db16r2db8ly2/"><circle cx="203.0" cy="133.9" r="4" fill="#3465a4"><title>Cochrane</title></circle></a><a href="/setts/s12/db4lr2db24k3db3k3db8k24dg48k3dg3r2~x2/"><circle cx="264.4" cy="130.7" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/setts/s12/db4lr2db24k3db3k3db8k24dg48k3dg3r2/"><circle cx="264.4" cy="130.7" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/setts/s14/db88k15g9r12g20k3ly8k3g20r12g9k15db24k36~x2/"><circle cx="206.2" cy="100.7" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/setts/s12/k4w1db26k5db5k32g23k2r4k2g13k1~x2/"><circle cx="222.4" cy="109.3" r="4" fill="#3465a4"><title>Young, Melvina (Artefact)</title></circle></a><a href="/setts/s12/db4w2db24k3db3k3db8k24g48k3g3r2/"><circle cx="220.8" cy="104.9" r="4" fill="#3465a4"><title>Urquhart, White Line</title></circle></a><circle cx="232.8" cy="123.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/dg6lb2dg24k12db3k2db2k2db12r1db1r3/

@@ -9,6 +9,13 @@ This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=417
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Buchanan
+- Buchanan #4
+
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -50,16 +57,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Buchanan 9](/setts/s13/t4g25k2t4k2ly8k3ly8k2t4k2r25w4~x2/) — ΔT 0.49
 1. [Buchanan #2](/setts/s13/t3dg31k2t4k2ly8k2ly8k2t4k2r31w3~x2/) — ΔT 0.68
 1. [Buchanan (Logan)](/setts/s13/t2dg16k1t2k1ly4k1ly4k1t2k1r16w2~x4/) — ΔT 0.71
-1. [Robieson Playfield (School)](/setts/s13/ly1k1r8db1r1dg8k1db8ly1dg1ly8k1w1~x6/) — ΔT 0.76
+1. [Robieson Playfield (School)](/setts/s13/w1k1ly8dg1ly1db8k1dg8r1db1r8k1ly1~x6/) — ΔT 0.76
 1. [Buchanan 8](/setts/s13/t3g31k2t4k2ly8k2ly8k2t4k2r31w3~x2/) — ΔT 0.82
 1. [Buchanan](/setts/s13/w2r16k1t2k1ly4k1ly4k1t2k1g16t1~x4/) — ΔT 0.84
 1. [MacWhirter](/setts/s12/t1dg8k1t2k1ly2k1t2k1r8w1t1~x4/) — ΔT 0.88
-1. [MacWhirter](/setts/s12/t1g8k1t2k1ly2k1t2k1r8w1t1~x4/) — ΔT 0.89
+1. [MacWhirter](/setts/s12/t1g8k1t2k1ly2k1t2k1r8w1t1~x4/) — ΔT 0.90
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/t2dg12k1t2k1ly3k1ly3k1t2k1r12w2~x2/"><circle cx="94.9" cy="95.5" r="4" fill="#3465a4"><title>Buchanan #3</title></circle></a><a href="/setts/s13/t2g12k1t2k1ly3k1ly3k1t2k1r12w2~x2/"><circle cx="84.6" cy="92.3" r="4" fill="#3465a4"><title>Buchanan 1</title></circle></a><a href="/setts/s13/t4g25k2t4k2ly8k3ly8k2t4k2r25w4~x2/"><circle cx="77.4" cy="92.2" r="4" fill="#3465a4"><title>Buchanan 9</title></circle></a><a href="/setts/s13/t3dg31k2t4k2ly8k2ly8k2t4k2r31w3~x2/"><circle cx="130.8" cy="78.8" r="4" fill="#3465a4"><title>Buchanan #2</title></circle></a><a href="/setts/s13/t2dg16k1t2k1ly4k1ly4k1t2k1r16w2~x4/"><circle cx="126.0" cy="76.8" r="4" fill="#3465a4"><title>Buchanan (Logan)</title></circle></a><a href="/setts/s13/ly1k1r8db1r1dg8k1db8ly1dg1ly8k1w1~x6/"><circle cx="58.0" cy="115.8" r="4" fill="#3465a4"><title>Robieson Playfield (School)</title></circle></a><a href="/setts/s13/t3g31k2t4k2ly8k2ly8k2t4k2r31w3~x2/"><circle cx="121.3" cy="76.3" r="4" fill="#3465a4"><title>Buchanan 8</title></circle></a><a href="/setts/s13/w2r16k1t2k1ly4k1ly4k1t2k1g16t1~x4/"><circle cx="137.7" cy="78.9" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/setts/s12/t1dg8k1t2k1ly2k1t2k1r8w1t1~x4/"><circle cx="88.3" cy="126.3" r="4" fill="#3465a4"><title>MacWhirter</title></circle></a><a href="/setts/s12/t1g8k1t2k1ly2k1t2k1r8w1t1~x4/"><circle cx="69.9" cy="119.7" r="4" fill="#3465a4"><title>MacWhirter</title></circle></a><circle cx="87.4" cy="95.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/t2dg12k1t2k1ly3k1ly3k1t2k1r12w2~x2/"><circle cx="94.7" cy="95.6" r="4" fill="#3465a4"><title>Buchanan #3</title></circle></a><a href="/setts/s13/t2g12k1t2k1ly3k1ly3k1t2k1r12w2~x2/"><circle cx="84.4" cy="92.4" r="4" fill="#3465a4"><title>Buchanan 1</title></circle></a><a href="/setts/s13/t4g25k2t4k2ly8k3ly8k2t4k2r25w4~x2/"><circle cx="77.3" cy="92.3" r="4" fill="#3465a4"><title>Buchanan 9</title></circle></a><a href="/setts/s13/t3dg31k2t4k2ly8k2ly8k2t4k2r31w3~x2/"><circle cx="130.5" cy="79.0" r="4" fill="#3465a4"><title>Buchanan #2</title></circle></a><a href="/setts/s13/t2dg16k1t2k1ly4k1ly4k1t2k1r16w2~x4/"><circle cx="125.8" cy="76.9" r="4" fill="#3465a4"><title>Buchanan (Logan)</title></circle></a><a href="/setts/s13/w1k1ly8dg1ly1db8k1dg8r1db1r8k1ly1~x6/"><circle cx="57.8" cy="115.9" r="4" fill="#3465a4"><title>Robieson Playfield (School)</title></circle></a><a href="/setts/s13/t3g31k2t4k2ly8k2ly8k2t4k2r31w3~x2/"><circle cx="121.1" cy="76.4" r="4" fill="#3465a4"><title>Buchanan 8</title></circle></a><a href="/setts/s13/w2r16k1t2k1ly4k1ly4k1t2k1g16t1~x4/"><circle cx="137.4" cy="79.0" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/setts/s12/t1dg8k1t2k1ly2k1t2k1r8w1t1~x4/"><circle cx="88.2" cy="126.5" r="4" fill="#3465a4"><title>MacWhirter</title></circle></a><a href="/setts/s12/t1g8k1t2k1ly2k1t2k1r8w1t1~x4/"><circle cx="69.8" cy="119.8" r="4" fill="#3465a4"><title>MacWhirter</title></circle></a><circle cx="87.2" cy="95.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/t4dg25k2t4k2ly8k3ly8k2t4k2r25w4~x2/

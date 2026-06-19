@@ -9,6 +9,12 @@ This was sourced from weddslist.  It is a [2 band tartan](/bands/bands2/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- St. Kilda
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -928,19 +937,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [St Kilda](/setts/s2/k4r1~x36/) — ΔT 1.59
 1. [Red Watch](/setts/s3/k10r3k1~x4/) — ΔT 2.20
-1. [Justus](/setts/s4/k5ly1k1ly1~x12/) — ΔT 2.51
-1. [Justus #2 (Personal)](/setts/s4/k5lo1k1lo1~x20/) — ΔT 2.69
+1. [Justus](/setts/s4/k5ly1k1~x12/) — ΔT 2.51
+1. [Justus #2 (Personal)](/setts/s4/k5lo1k1~x20/) — ΔT 2.69
 1. [Batson (Personal)](/setts/s3/k69r14ly5~x2/) — ΔT 2.96
 1. [Romsdal, Tresfjord](/setts/s5/k2r4k7r1k1~x2/) — ΔT 2.98
 1. [Unidentified Kirtle](/setts/s5/k55r18k4r18k38/) — ΔT 3.21
-1. [Lords, of Skye](/setts/s4/k46o7k8w20~x2/) — ΔT 3.34
+1. [Lords, of Skye](/setts/s4/k46o7k8w20~x2/) — ΔT 3.35
 1. [Justus](/setts/s6/k8ly1k1r1k4db1~x12/) — ΔT 3.36
 1. [New Zealand (2000)](/setts/s6/k21lb2k5lb9k13g2~x4/) — ΔT 3.38
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s2/k4r1~x36/"><circle cx="505.9" cy="366.0" r="4" fill="#3465a4"><title>St Kilda</title></circle></a><a href="/setts/s3/k10r3k1~x4/"><circle cx="550.4" cy="308.2" r="4" fill="#3465a4"><title>Red Watch</title></circle></a><a href="/setts/s4/k5ly1k1ly1~x12/"><circle cx="426.4" cy="282.0" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/setts/s4/k5lo1k1lo1~x20/"><circle cx="443.5" cy="284.1" r="4" fill="#3465a4"><title>Justus #2 (Personal)</title></circle></a><a href="/setts/s3/k69r14ly5~x2/"><circle cx="514.5" cy="245.5" r="4" fill="#3465a4"><title>Batson (Personal)</title></circle></a><a href="/setts/s5/k2r4k7r1k1~x2/"><circle cx="387.3" cy="266.7" r="4" fill="#3465a4"><title>Romsdal, Tresfjord</title></circle></a><a href="/setts/s5/k55r18k4r18k38/"><circle cx="469.7" cy="260.3" r="4" fill="#3465a4"><title>Unidentified Kirtle</title></circle></a><a href="/setts/s4/k46o7k8w20~x2/"><circle cx="337.4" cy="256.5" r="4" fill="#3465a4"><title>Lords, of Skye</title></circle></a><a href="/setts/s6/k8ly1k1r1k4db1~x12/"><circle cx="472.3" cy="225.7" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/setts/s6/k21lb2k5lb9k13g2~x4/"><circle cx="415.8" cy="234.4" r="4" fill="#3465a4"><title>New Zealand (2000)</title></circle></a><circle cx="481.8" cy="361.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s2/k4r1~x36/"><circle cx="506.0" cy="365.5" r="4" fill="#3465a4"><title>St Kilda</title></circle></a><a href="/setts/s3/k10r3k1~x4/"><circle cx="550.6" cy="307.7" r="4" fill="#3465a4"><title>Red Watch</title></circle></a><a href="/setts/s4/k5ly1k1~x12/"><circle cx="426.4" cy="281.5" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/setts/s4/k5lo1k1~x20/"><circle cx="443.5" cy="283.6" r="4" fill="#3465a4"><title>Justus #2 (Personal)</title></circle></a><a href="/setts/s3/k69r14ly5~x2/"><circle cx="514.4" cy="245.1" r="4" fill="#3465a4"><title>Batson (Personal)</title></circle></a><a href="/setts/s5/k2r4k7r1k1~x2/"><circle cx="387.4" cy="266.4" r="4" fill="#3465a4"><title>Romsdal, Tresfjord</title></circle></a><a href="/setts/s5/k55r18k4r18k38/"><circle cx="469.6" cy="259.9" r="4" fill="#3465a4"><title>Unidentified Kirtle</title></circle></a><a href="/setts/s4/k46o7k8w20~x2/"><circle cx="337.5" cy="256.1" r="4" fill="#3465a4"><title>Lords, of Skye</title></circle></a><a href="/setts/s6/k8ly1k1r1k4db1~x12/"><circle cx="472.4" cy="225.3" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/setts/s6/k21lb2k5lb9k13g2~x4/"><circle cx="415.9" cy="233.9" r="4" fill="#3465a4"><title>New Zealand (2000)</title></circle></a><circle cx="482.0" cy="360.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s2/k4r1~x6/

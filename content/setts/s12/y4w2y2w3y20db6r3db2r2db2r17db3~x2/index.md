@@ -2,7 +2,7 @@
 title: "Eidart, Scotch House"
 date: 2023-03-18
 ---
-**Bands:** [BRBRBRBGWGWG](/stripes/brbrbrbgwgwg/) · **Stripes:** [DB R DB R DB R DB Y W Y W Y](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DB R DB R DB R DB Y W Y W Y</span></span>
+**Bands:** [GWGWGBRBRBRB](/stripes/gwgwgbrbrbrb/) · **Stripes:** [Y W Y W Y DB R DB R DB R DB](/stripes/stripes12/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="seq">Y W Y W Y DB R DB R DB R DB</span></span>
 
 
 This was sourced from weddslist.  It is a [12 band tartan](/bands/bands12/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/6 R34 B4 R4 B4 R6 B12 N40 LN6 N4 LN4 N/8
+N/8 LN4 N4 LN6 N40 B12 R6 B4 R4 B4 R34 B/6
 ![Sett](sett.png)
 
 ## Palette
@@ -906,17 +909,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Manx Heritage](/setts/s14/o3g19r2g2r2db10r17g2r2g2r3t2r3t3~x2/) — ΔT 1.16
 1. [Drumlithie, Rock and Wheel](/setts/s11/r2p3r2r15p3g19p20r15p3r2r2~x2/) — ΔT 1.29
 1. [MacIntyre (of Gatehouse)](/setts/s15/t3r24db4r8g32r4db4r8g4r4db32r8g4r4t2~x2/) — ΔT 1.32
-1. [Leitrim](/setts/s10/lo3dr2y18y3r13y4dr3y4dr18y3~x2/) — ΔT 1.33
+1. [Leitrim](/setts/s10/y3dr18y4dr3y4r13y3y18dr2lo3~x2/) — ΔT 1.33
 1. [Drumlithie](/setts/s11/r2dp3r2r15dp2g20dp20r15dp3r2r2~x2/) — ΔT 1.33
 1. [FC Barcelona (Corporate)](/setts/s10/r3b3r18r2r2r3r2r4b18ly2~x2/) — ΔT 1.33
 1. [Shieldhall (Fashion)](/setts/s12/do12r1do2r1do2lb2do3o9r1o2r1o3~x4/) — ΔT 1.34
-1. [Glen Orchy #1](/setts/s15/t2r3db3r5dg14r3db2r5dg2r3db14r5dg3r3t2~x2/) — ΔT 1.35
+1. [Glen Orchy #1](/setts/s15/t2r3dg3r5db14r3dg2r5db2r3dg14r5db3r3t2~x2/) — ΔT 1.35
 1. [Hebridean 3](/setts/s11/g10r25t2db25r2g2r25g2r2db25r4~x2/) — ΔT 1.38
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/o4w2o2w3o20db6r3db2r2db2r17db3~x2/"><circle cx="226.2" cy="151.6" r="4" fill="#3465a4"><title>Eidart Scotch House Trade Tartan Tartan Number: 445. Earliest known date: pre 2003 A sample of this tartan was recorded by the Scottish Tartans Society during the period 1970 to 1990. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/o3g19r2g2r2db10r17g2r2g2r3t2r3t3~x2/"><circle cx="221.3" cy="144.7" r="4" fill="#3465a4"><title>Manx Heritage</title></circle></a><a href="/setts/s11/r2p3r2r15p3g19p20r15p3r2r2~x2/"><circle cx="245.2" cy="173.6" r="4" fill="#3465a4"><title>Drumlithie, Rock and Wheel</title></circle></a><a href="/setts/s15/t3r24db4r8g32r4db4r8g4r4db32r8g4r4t2~x2/"><circle cx="252.1" cy="137.2" r="4" fill="#3465a4"><title>MacIntyre (of Gatehouse)</title></circle></a><a href="/setts/s10/lo3dr2y18y3r13y4dr3y4dr18y3~x2/"><circle cx="248.0" cy="185.5" r="4" fill="#3465a4"><title>Leitrim</title></circle></a><a href="/setts/s11/r2dp3r2r15dp2g20dp20r15dp3r2r2~x2/"><circle cx="251.0" cy="173.8" r="4" fill="#3465a4"><title>Drumlithie</title></circle></a><a href="/setts/s10/r3b3r18r2r2r3r2r4b18ly2~x2/"><circle cx="269.1" cy="170.9" r="4" fill="#3465a4"><title>FC Barcelona (Corporate)</title></circle></a><a href="/setts/s12/do12r1do2r1do2lb2do3o9r1o2r1o3~x4/"><circle cx="304.2" cy="168.6" r="4" fill="#3465a4"><title>Shieldhall (Fashion)</title></circle></a><a href="/setts/s15/t2r3db3r5dg14r3db2r5dg2r3db14r5dg3r3t2~x2/"><circle cx="193.7" cy="182.0" r="4" fill="#3465a4"><title>Glen Orchy #1</title></circle></a><a href="/setts/s11/g10r25t2db25r2g2r25g2r2db25r4~x2/"><circle cx="299.4" cy="171.9" r="4" fill="#3465a4"><title>Hebridean 3</title></circle></a><circle cx="239.1" cy="159.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/o4w2o2w3o20db6r3db2r2db2r17db3~x2/"><circle cx="225.9" cy="151.6" r="4" fill="#3465a4"><title>Eidart Scotch House Trade Tartan Tartan Number: 445. Earliest known date: pre 2003 A sample of this tartan was recorded by the Scottish Tartans Society during the period 1970 to 1990. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s14/o3g19r2g2r2db10r17g2r2g2r3t2r3t3~x2/"><circle cx="221.1" cy="144.8" r="4" fill="#3465a4"><title>Manx Heritage</title></circle></a><a href="/setts/s11/r2p3r2r15p3g19p20r15p3r2r2~x2/"><circle cx="244.9" cy="173.7" r="4" fill="#3465a4"><title>Drumlithie, Rock and Wheel</title></circle></a><a href="/setts/s15/t3r24db4r8g32r4db4r8g4r4db32r8g4r4t2~x2/"><circle cx="251.9" cy="137.2" r="4" fill="#3465a4"><title>MacIntyre (of Gatehouse)</title></circle></a><a href="/setts/s10/y3dr18y4dr3y4r13y3y18dr2lo3~x2/"><circle cx="247.8" cy="185.5" r="4" fill="#3465a4"><title>Leitrim</title></circle></a><a href="/setts/s11/r2dp3r2r15dp2g20dp20r15dp3r2r2~x2/"><circle cx="250.8" cy="173.8" r="4" fill="#3465a4"><title>Drumlithie</title></circle></a><a href="/setts/s10/r3b3r18r2r2r3r2r4b18ly2~x2/"><circle cx="268.9" cy="170.9" r="4" fill="#3465a4"><title>FC Barcelona (Corporate)</title></circle></a><a href="/setts/s12/do12r1do2r1do2lb2do3o9r1o2r1o3~x4/"><circle cx="303.9" cy="168.6" r="4" fill="#3465a4"><title>Shieldhall (Fashion)</title></circle></a><a href="/setts/s15/t2r3dg3r5db14r3dg2r5db2r3dg14r5db3r3t2~x2/"><circle cx="193.5" cy="182.1" r="4" fill="#3465a4"><title>Glen Orchy #1</title></circle></a><a href="/setts/s11/g10r25t2db25r2g2r25g2r2db25r4~x2/"><circle cx="299.2" cy="171.9" r="4" fill="#3465a4"><title>Hebridean 3</title></circle></a><circle cx="238.8" cy="159.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/y4w2y2w3y20db6r3db2r2db2r17db3~x2/

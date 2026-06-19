@@ -9,8 +9,14 @@ This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands1
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1371/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Stuart/Stewart
+
 ## Thread count
-LN/4 R8 K8 R24 LG48 K8 LN8 K8 Y4 K24 N16 R/56
+R/56 N16 K24 Y4 K8 LN8 K8 LG48 R24 K8 R8 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -42,8 +48,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db1ly3r3k2db8ly3r2k1r2ly3dg8w1k1r12w1~x2/"><circle cx="120.6" cy="98.7" r="4" fill="#3465a4"><title>MacPherson #2</title></circle></a><a href="/setts/s15/db1ly3r3k2db8ly3r2k1r2ly3g8w1k1r12w1~x2/"><circle cx="113.6" cy="97.8" r="4" fill="#3465a4"><title>MacPherson 5</title></circle></a><a href="/setts/s17/r30w2t4k4ly2k2w6k2t11k15ly3g20r14w4r4k2r8~x2/"><circle cx="155.3" cy="85.8" r="4" fill="#3465a4"><title>Wilson's No.156</title></circle></a><a href="/setts/s12/k2t6w1r14k1r14w1k6g10lo1g2lo2~x2/"><circle cx="203.6" cy="112.5" r="4" fill="#3465a4"><title>Ogg of Tarragann (Personal)</title></circle></a><a href="/setts/s13/w2k1b2lb1dg4r1dg4r3k3r12lb1r2k1~x4/"><circle cx="200.9" cy="106.0" r="4" fill="#3465a4"><title>Peacock (Personal)</title></circle></a><a href="/setts/s12/k2t6w1r14k1r14w1k6dg10lo1dg2lo2~x2/"><circle cx="202.2" cy="112.9" r="4" fill="#3465a4"><title>Ogg of Tarragann</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/"><circle cx="178.8" cy="101.3" r="4" fill="#3465a4"><title>Maclean of Duart (Wilsons) (Clan)</title></circle></a><a href="/setts/s8/t4w4t4w5k8g2r19lo1~x2/"><circle cx="162.0" cy="107.0" r="4" fill="#3465a4"><title>Edinburgh Napier University (Corp.)</title></circle></a><a href="/setts/s12/n12o2dy4lo2dy3w3dy3w19r30o2r4dy2~x2/"><circle cx="183.0" cy="85.9" r="4" fill="#3465a4"><title>MacLean of Duart Dress</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/"><circle cx="161.2" cy="101.1" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><circle cx="156.6" cy="102.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db1ly3r3k2db8ly3r2k1r2ly3dg8w1k1r12w1~x2/"><circle cx="120.4" cy="98.8" r="4" fill="#3465a4"><title>MacPherson #2</title></circle></a><a href="/setts/s15/db1ly3r3k2db8ly3r2k1r2ly3g8w1k1r12w1~x2/"><circle cx="113.4" cy="97.9" r="4" fill="#3465a4"><title>MacPherson 5</title></circle></a><a href="/setts/s17/r30w2t4k4ly2k2w6k2t11k15ly3g20r14w4r4k2r8~x2/"><circle cx="155.1" cy="85.9" r="4" fill="#3465a4"><title>Wilson's No.156</title></circle></a><a href="/setts/s12/k2t6w1r14k1r14w1k6g10lo1g2lo2~x2/"><circle cx="203.3" cy="112.6" r="4" fill="#3465a4"><title>Ogg of Tarragann (Personal)</title></circle></a><a href="/setts/s13/w2k1b2lb1dg4r1dg4r3k3r12lb1r2k1~x4/"><circle cx="200.6" cy="106.1" r="4" fill="#3465a4"><title>Peacock (Personal)</title></circle></a><a href="/setts/s12/k2t6w1r14k1r14w1k6dg10lo1dg2lo2~x2/"><circle cx="201.9" cy="113.0" r="4" fill="#3465a4"><title>Ogg of Tarragann</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/"><circle cx="178.6" cy="101.4" r="4" fill="#3465a4"><title>Maclean of Duart (Wilsons) (Clan)</title></circle></a><a href="/setts/s8/t4w4t4w5k8g2r19lo1~x2/"><circle cx="161.8" cy="107.0" r="4" fill="#3465a4"><title>Edinburgh Napier University (Corp.)</title></circle></a><a href="/setts/s12/n12o2dy4lo2dy3w3dy3w19r30o2r4dy2~x2/"><circle cx="182.6" cy="86.0" r="4" fill="#3465a4"><title>MacLean of Duart Dress</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/"><circle cx="161.0" cy="101.2" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><circle cx="156.3" cy="102.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r14lg4dt6ly1dt2w2dt2lg12r6dt2r2w1~x4/

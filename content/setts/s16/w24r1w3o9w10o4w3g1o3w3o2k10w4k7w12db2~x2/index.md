@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2603
 
 ## Thread count
-DB/4 LN24 K14 W8 K20 N4 W6 N6 G2 W6 N8 LN20 N18 W6 R2 LN/48
+LN/48 R2 W6 N18 LN20 N8 W6 G2 N6 W6 N4 K20 W8 K14 LN24 DB/4
 ![Sett](sett.png)
 
 ## Palette
@@ -49,7 +49,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Fothergill (Personal)](/setts/s11/w50db3w8db8db12r4db12g16dg12o4w4/) — ΔT 1.23
 1. [Tom Morris (Official)](/setts/s13/lr38p5lr6p5lr4k20lr38y12w3n30w3n2w7/) — ΔT 1.31
 1. [Highlands of Haliburton Dress](/setts/s15/t4w2t1w19r2dr4t8g4w2t3o2g2dr2r2o2~x2/) — ΔT 1.31
-1. [Scotland the Brave Dress (Dance)](/setts/s18/w3k1w20dp1db6g6m3g1m1g2m1g1m3g6db6dp1w20k1~x4/) — ΔT 1.37
+1. [Scotland the Brave Dress (Dance)](/setts/s18/w3k1w20dp1db6g6m3g1m1g2~x4/) — ΔT 1.37
 1. [Fothergill, Baron of Kinross (Personal)](/setts/s11/w50db3w8db8db12r4db12g16g12n4w4/) — ΔT 1.39
 1. [Antarctic](/setts/s12/t2w76lb4w4lb11o11ly7k11w4t11dt32w2/) — ΔT 1.47
 1. [MacLean of Duart, dress](/setts/s12/y10lb2dr4ly2dr3w3dr3o18w30n2w4dr2~x2/) — ΔT 1.49
@@ -58,8 +58,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/w48r2y5lb18w20lb8y6g2lb6y5lb4k20y8k14w24db4/"><circle cx="153.2" cy="48.3" r="4" fill="#3465a4"><title>Manhattan Financial</title></circle></a><a href="/setts/s11/w50db3w8db8db12r4db12g16dg12o4w4/"><circle cx="140.1" cy="71.3" r="4" fill="#3465a4"><title>Fothergill (Personal)</title></circle></a><a href="/setts/s13/lr38p5lr6p5lr4k20lr38y12w3n30w3n2w7/"><circle cx="198.2" cy="89.3" r="4" fill="#3465a4"><title>Tom Morris (Official)</title></circle></a><a href="/setts/s15/t4w2t1w19r2dr4t8g4w2t3o2g2dr2r2o2~x2/"><circle cx="133.8" cy="65.7" r="4" fill="#3465a4"><title>Highlands of Haliburton Dress</title></circle></a><a href="/setts/s18/w3k1w20dp1db6g6m3g1m1g2m1g1m3g6db6dp1w20k1~x4/"><circle cx="207.2" cy="47.0" r="4" fill="#3465a4"><title>Scotland the Brave Dress (Dance)</title></circle></a><a href="/setts/s11/w50db3w8db8db12r4db12g16g12n4w4/"><circle cx="135.3" cy="71.6" r="4" fill="#3465a4"><title>Fothergill, Baron of Kinross (Personal)</title></circle></a><a href="/setts/s12/t2w76lb4w4lb11o11ly7k11w4t11dt32w2/"><circle cx="206.4" cy="18.7" r="4" fill="#3465a4"><title>Antarctic</title></circle></a><a href="/setts/s12/y10lb2dr4ly2dr3w3dr3o18w30n2w4dr2~x2/"><circle cx="163.8" cy="66.6" r="4" fill="#3465a4"><title>MacLean of Duart, dress</title></circle></a><a href="/setts/s12/t2w76o4w4o11lo11ly7k11w4t11db32w2/"><circle cx="211.2" cy="21.6" r="4" fill="#3465a4"><title>Antarctic</title></circle></a><a href="/setts/s13/lb38dp5lb6dp5lb4db20lb38o12lb3n30lb3n2lb7/"><circle cx="211.1" cy="96.6" r="4" fill="#3465a4"><title>Morris, Tom (Corporate)</title></circle></a><circle cx="155.0" cy="50.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/w48r2y5lb18w20lb8y6g2lb6y5lb4k20y8k14w24db4/"><circle cx="152.9" cy="48.3" r="4" fill="#3465a4"><title>Manhattan Financial</title></circle></a><a href="/setts/s11/w50db3w8db8db12r4db12g16dg12o4w4/"><circle cx="139.8" cy="71.3" r="4" fill="#3465a4"><title>Fothergill (Personal)</title></circle></a><a href="/setts/s13/lr38p5lr6p5lr4k20lr38y12w3n30w3n2w7/"><circle cx="197.9" cy="89.3" r="4" fill="#3465a4"><title>Tom Morris (Official)</title></circle></a><a href="/setts/s15/t4w2t1w19r2dr4t8g4w2t3o2g2dr2r2o2~x2/"><circle cx="133.5" cy="65.8" r="4" fill="#3465a4"><title>Highlands of Haliburton Dress</title></circle></a><a href="/setts/s18/w3k1w20dp1db6g6m3g1m1g2~x4/"><circle cx="206.8" cy="47.0" r="4" fill="#3465a4"><title>Scotland the Brave Dress (Dance)</title></circle></a><a href="/setts/s11/w50db3w8db8db12r4db12g16g12n4w4/"><circle cx="135.1" cy="71.6" r="4" fill="#3465a4"><title>Fothergill, Baron of Kinross (Personal)</title></circle></a><a href="/setts/s12/t2w76lb4w4lb11o11ly7k11w4t11dt32w2/"><circle cx="206.0" cy="18.7" r="4" fill="#3465a4"><title>Antarctic</title></circle></a><a href="/setts/s12/y10lb2dr4ly2dr3w3dr3o18w30n2w4dr2~x2/"><circle cx="163.4" cy="66.7" r="4" fill="#3465a4"><title>MacLean of Duart, dress</title></circle></a><a href="/setts/s12/t2w76o4w4o11lo11ly7k11w4t11db32w2/"><circle cx="210.8" cy="21.6" r="4" fill="#3465a4"><title>Antarctic</title></circle></a><a href="/setts/s13/lb38dp5lb6dp5lb4db20lb38o12lb3n30lb3n2lb7/"><circle cx="210.8" cy="96.6" r="4" fill="#3465a4"><title>Morris, Tom (Corporate)</title></circle></a><circle cx="154.6" cy="50.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/w24r1w3o9w10o4w3g1o3w3o2k10w4k7w12db2~x2/

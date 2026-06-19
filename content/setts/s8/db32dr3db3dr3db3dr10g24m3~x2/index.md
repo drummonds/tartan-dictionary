@@ -2,7 +2,7 @@
 title: "Gammell"
 date: 2023-03-18
 ---
-**Bands:** [BBBBBBGR](/stripes/bbbbbbgr/) · **Stripes:** [DB DR DB DR DB DR G M](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#CA047B"></span><span class="seq">DB DR DB DR DB DR G M</span></span>
+**Bands:** [RGBBBBBB](/stripes/rgbbbbbb/) · **Stripes:** [M G DR DB DR DB DR DB](/stripes/stripes8/) <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="seq">M G DR DB DR DB DR DB</span></span>
 
 
 This was sourced from weddslist.  It is a [8 band tartan](/bands/bands8/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -907,7 +910,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Guthrie (Name)](/setts/s9/k1g12k12r1k1r1k12b12r1~x4/) — ΔT 0.74
-1. [Gary/Garry (Name)](/setts/s8/dp4g3dp12k6dp3db6g24k4~x2/) — ΔT 0.89
+1. [Gary/Garry (Name)](/setts/s8/k4g24db6dp3k6dp12g3dp4~x2/) — ΔT 0.89
 1. [New Golf Club](/setts/s9/dg4k4dg23k11r2k2r2k20w4~x2/) — ΔT 0.91
 1. [Gammell (1978) (Personal)](/setts/s7/db3r2db22k11g22r2g3~x2/) — ΔT 0.95
 1. [Greenways Marketing Intl (Corporate)](/setts/s7/db24g3db3g3lo2g18r2~x2/) — ΔT 1.07
@@ -919,8 +922,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k1g12k12r1k1r1k12b12r1~x4/"><circle cx="256.3" cy="186.8" r="4" fill="#3465a4"><title>Guthrie (Name)</title></circle></a><a href="/setts/s8/dp4g3dp12k6dp3db6g24k4~x2/"><circle cx="213.8" cy="212.6" r="4" fill="#3465a4"><title>Gary/Garry (Name)</title></circle></a><a href="/setts/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><circle cx="288.0" cy="193.3" r="4" fill="#3465a4"><title>New Golf Club</title></circle></a><a href="/setts/s7/db3r2db22k11g22r2g3~x2/"><circle cx="231.5" cy="210.5" r="4" fill="#3465a4"><title>Gammell (1978) (Personal)</title></circle></a><a href="/setts/s7/db24g3db3g3lo2g18r2~x2/"><circle cx="312.4" cy="197.0" r="4" fill="#3465a4"><title>Greenways Marketing Intl (Corporate)</title></circle></a><a href="/setts/s8/r6k55db8g6db10g6db6g4~x2/"><circle cx="321.7" cy="168.8" r="4" fill="#3465a4"><title>Frederiction Police Force</title></circle></a><a href="/setts/s8/db36lb4db4lb4db16dg64r9db6~x2/"><circle cx="290.5" cy="177.5" r="4" fill="#3465a4"><title>Colvin</title></circle></a><a href="/setts/s8/k1n1k1n8dy8k1dy1lt1~x6/"><circle cx="255.3" cy="205.3" r="4" fill="#3465a4"><title>Auld Lang Syne Burns Commemorative Tartan Tartan Number: 2400. Earliest known date: 01/01/2002 Launched on the 25th January at a the Beach Ballroom Aberdeen, to celebrate the birth of Robert Burns 2002./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/g10r1g1r1g1r4db12r1db2~x2/"><circle cx="267.1" cy="190.1" r="4" fill="#3465a4"><title>Unidentified Portrait</title></circle></a><a href="/setts/s10/db1k1db8k2lo1g12lo1db8k1db1~x4/"><circle cx="300.5" cy="185.4" r="4" fill="#3465a4"><title>Rowan (Name)</title></circle></a><circle cx="262.3" cy="193.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k1g12k12r1k1r1k12b12r1~x4/"><circle cx="256.3" cy="186.7" r="4" fill="#3465a4"><title>Guthrie (Name)</title></circle></a><a href="/setts/s8/k4g24db6dp3k6dp12g3dp4~x2/"><circle cx="213.9" cy="212.6" r="4" fill="#3465a4"><title>Gary/Garry (Name)</title></circle></a><a href="/setts/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><circle cx="288.1" cy="193.2" r="4" fill="#3465a4"><title>New Golf Club</title></circle></a><a href="/setts/s7/db3r2db22k11g22r2g3~x2/"><circle cx="231.6" cy="210.5" r="4" fill="#3465a4"><title>Gammell (1978) (Personal)</title></circle></a><a href="/setts/s7/db24g3db3g3lo2g18r2~x2/"><circle cx="312.4" cy="196.9" r="4" fill="#3465a4"><title>Greenways Marketing Intl (Corporate)</title></circle></a><a href="/setts/s8/r6k55db8g6db10g6db6g4~x2/"><circle cx="321.7" cy="168.7" r="4" fill="#3465a4"><title>Frederiction Police Force</title></circle></a><a href="/setts/s8/db36lb4db4lb4db16dg64r9db6~x2/"><circle cx="290.6" cy="177.4" r="4" fill="#3465a4"><title>Colvin</title></circle></a><a href="/setts/s8/k1n1k1n8dy8k1dy1lt1~x6/"><circle cx="255.4" cy="205.3" r="4" fill="#3465a4"><title>Auld Lang Syne Burns Commemorative Tartan Tartan Number: 2400. Earliest known date: 01/01/2002 Launched on the 25th January at a the Beach Ballroom Aberdeen, to celebrate the birth of Robert Burns 2002./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/g10r1g1r1g1r4db12r1db2~x2/"><circle cx="267.1" cy="189.9" r="4" fill="#3465a4"><title>Unidentified Portrait</title></circle></a><a href="/setts/s10/db1k1db8k2lo1g12lo1db8k1db1~x4/"><circle cx="300.4" cy="185.4" r="4" fill="#3465a4"><title>Rowan (Name)</title></circle></a><circle cx="262.4" cy="193.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db32dr3db3dr3db3dr10g24m3~x2/

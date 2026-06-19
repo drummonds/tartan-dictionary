@@ -26,6 +26,4 @@ KYBYBY
 |---------------|
 | [Buchanan VS](/setts/s6/lr2dr4lr2dr4lr9k1~x2/)|
 |![Buchanan VS example sett](/setts/s6/lr2dr4lr2dr4lr9k1~x2/sett.png)|
-| [Buchanan VS](/setts/s6/lr2dr4lr2dr4lr9k1/)|
-|![Buchanan VS example sett](/setts/s6/lr2dr4lr2dr4lr9k1/sett.png)|
 

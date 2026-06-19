@@ -13,8 +13,6 @@ A family of [Clan Crane](/clan/crane/).
 ## Other tartans
 
 <ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s8/g82k6g3k9r2k5g2ly2~x2/"><img src="/setts/s8/g82k6g3k9r2k5g2ly2~x2/sett.png" alt="Crane of Cluny (Personal)" width="140"><br>Crane of Cluny (Personal)</a></li>
 <li><a class="tartan" href="/setts/s8/w83k6w3k9r2k5w2ly2~x2/"><img src="/setts/s8/w83k6w3k9r2k5w2ly2~x2/sett.png" alt="Crane of Cluny Dress (Personal)" width="140"><br>Crane of Cluny Dress (Personal)</a></li>
-<li><a class="tartan" href="/setts/s8/lo83k6lo3k9r2k5lo2ly2~x2/"><img src="/setts/s8/lo83k6lo3k9r2k5lo2ly2~x2/sett.png" alt="Crane of Cluny Hunting (Personal)" width="140"><br>Crane of Cluny Hunting (Personal)</a></li>
 </ul>
 

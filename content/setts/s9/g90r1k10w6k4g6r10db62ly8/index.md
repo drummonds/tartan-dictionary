@@ -2,7 +2,7 @@
 title: "Stirling, University of"
 date: 2023-03-18
 ---
-**Bands:** [GRKWKGRBY](/stripes/grkwkgrby/) · **Stripes:** [G R K W K G R DB LY](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G R K W K G R DB LY</span></span>
+**Bands:** [YBRGKWKRG](/stripes/ybrgkwkrg/) · **Stripes:** [LY DB R G K W K R G](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY DB R G K W K R G</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w2k4db16lo12g36k1k6lo2w2~x2/"><circle cx="219.4" cy="86.0" r="4" fill="#3465a4"><title>National Millennium (Commemorative)</title></circle></a><a href="/setts/s12/w4dg1g31ly1g4dg21dt4dg1dt36r2dt9w2~x2/"><circle cx="231.4" cy="84.3" r="4" fill="#3465a4"><title>St. Ninian (Commemorative)</title></circle></a><a href="/setts/s9/p4g24dg6lg4dg4lg4dg44lo1w4/"><circle cx="332.1" cy="91.2" r="4" fill="#3465a4"><title>Macmillan Cancer Support</title></circle></a><a href="/setts/s14/k8ly8k8ly2g100k42r8b8w8k21ly2k8ly8k8/"><circle cx="251.2" cy="44.1" r="4" fill="#3465a4"><title>Tarassow Russian Scout (Corporate)</title></circle></a><a href="/setts/s9/dg90r1k10w6k4dg6r10db62ly8/"><circle cx="314.7" cy="87.7" r="4" fill="#3465a4"><title>Stirling, University of</title></circle></a><a href="/setts/s14/k8lo8k8lo2g100k42r8b8w8k21lo2k8lo8k8/"><circle cx="254.1" cy="45.1" r="4" fill="#3465a4"><title>Tarassow Russian Scouts Corporate Tartan Tartan Number: 7614. Earliest known date: 2008 In Germany our scout association stands under the patronage of the Russian orthodox parish in Frankfurt, which has the status of charitable organisation. We also have in France the status of Association Loi de 1901 - which is a non profit association based on benevolate : Sergei Tarassow is the elected president of this association, named Scouts Russes Saint Georges 1909. In USA they have the same status under the name of Saint George Pathfinders of America. The yellow stripes in the design represent the ribbon of the Order of St George See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/w4g30k1g1k1g3k12db10r3~x2/"><circle cx="293.2" cy="116.5" r="4" fill="#3465a4"><title>MacDonald of The Isles</title></circle></a><a href="/setts/s9/db10k12g3k1g1k1g30lo4w4~x2/"><circle cx="278.3" cy="116.3" r="4" fill="#3465a4"><title>Hutchens (Kansas) (Personal)</title></circle></a><a href="/setts/s7/dt50g25ly3lb8r1w1r1~x2/"><circle cx="345.9" cy="91.5" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><a href="/setts/s10/w2lo4db1lo1db40o6g18r2g2w1~x2/"><circle cx="302.1" cy="64.5" r="4" fill="#3465a4"><title>O'Mahony, The (Commemorative)</title></circle></a><circle cx="284.3" cy="72.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w2k4db16lo12g36k1k6lo2w2~x2/"><circle cx="219.3" cy="86.0" r="4" fill="#3465a4"><title>National Millennium (Commemorative)</title></circle></a><a href="/setts/s12/w4dg1g31ly1g4dg21dt4dg1dt36r2dt9w2~x2/"><circle cx="231.3" cy="84.4" r="4" fill="#3465a4"><title>St. Ninian (Commemorative)</title></circle></a><a href="/setts/s9/p4g24dg6lg4dg4lg4dg44lo1w4/"><circle cx="331.9" cy="91.2" r="4" fill="#3465a4"><title>Macmillan Cancer Support</title></circle></a><a href="/setts/s14/k8ly8k8ly2g100k42r8b8w8k21ly2k8ly8k8/"><circle cx="251.0" cy="44.2" r="4" fill="#3465a4"><title>Tarassow Russian Scout (Corporate)</title></circle></a><a href="/setts/s9/dg90r1k10w6k4dg6r10db62ly8/"><circle cx="314.5" cy="87.8" r="4" fill="#3465a4"><title>Stirling, University of</title></circle></a><a href="/setts/s14/k8lo8k8lo2g100k42r8b8w8k21lo2k8lo8k8/"><circle cx="253.9" cy="45.2" r="4" fill="#3465a4"><title>Tarassow Russian Scouts Corporate Tartan Tartan Number: 7614. Earliest known date: 2008 In Germany our scout association stands under the patronage of the Russian orthodox parish in Frankfurt, which has the status of charitable organisation. We also have in France the status of Association Loi de 1901 - which is a non profit association based on benevolate : Sergei Tarassow is the elected president of this association, named Scouts Russes Saint Georges 1909. In USA they have the same status under the name of Saint George Pathfinders of America. The yellow stripes in the design represent the ribbon of the Order of St George See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/w4g30k1g1k1g3k12db10r3~x2/"><circle cx="293.1" cy="116.5" r="4" fill="#3465a4"><title>MacDonald of The Isles</title></circle></a><a href="/setts/s9/db10k12g3k1g1k1g30lo4w4~x2/"><circle cx="278.3" cy="116.2" r="4" fill="#3465a4"><title>Hutchens (Kansas) (Personal)</title></circle></a><a href="/setts/s7/dt50g25ly3lb8r1w1r1~x2/"><circle cx="345.7" cy="91.5" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><a href="/setts/s10/w2lo4db1lo1db40o6g18r2g2w1~x2/"><circle cx="301.9" cy="64.4" r="4" fill="#3465a4"><title>O'Mahony, The (Commemorative)</title></circle></a><circle cx="284.1" cy="72.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/g90r1k10w6k4g6r10db62ly8/

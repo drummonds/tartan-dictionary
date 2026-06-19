@@ -2,7 +2,7 @@
 title: "Ogilvy of Airlie"
 date: 2023-03-18
 ---
-**Bands:** [BYBYBYKRKRKRKYBYKRWRWRKYBWBYBRKRWBWR](/stripes/bybybykrkrkrkybykrwrwrkybwbybrkrwbwr/) · **Stripes:** [DB LY DB LY T LY K R K R K R K LY T LY K R W R W R K LY T W T LY DB R K R W DB W R](/stripes/stripes36/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">DB LY DB LY T LY K R K R K R K LY T LY K R W R W R K LY T W T LY DB R K R W DB W R</span></span>
+**Bands:** [RWBWRKRBYBWBYKRWRWRKYBYKRKRKRKYBYBYB](/stripes/rwbwrkrbybwbykrwrwrkybykrkrkrkybybyb/) · **Stripes:** [R W DB W R K R DB LY T W T LY K R W R W R K LY T LY K R K R K R K LY T LY DB LY DB](/stripes/stripes36/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="seq">R W DB W R K R DB LY T W T LY K R W R W R K LY T LY K R K R K R K LY T LY DB LY DB</span></span>
 
 
 This was sourced from weddslist.  It is a [36 band tartan](/bands/bands36/).
@@ -318,6 +318,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +419,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +679,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DB/6 Y4 DB6 Y4 B14 Y4 K4 R4 K4 R4 K4 R4 K4 Y10 B14 Y10 K8 R14 LN2 R14 LN2 R14 K8 Y4 B14 LN4 B14 Y4 DB4 R4 K4 R28 LN4 DB6 LN4 R/28
+R/28 LN4 DB6 LN4 R28 K4 R4 DB4 Y4 B14 LN4 B14 Y4 K8 R14 LN2 R14 LN2 R14 K8 Y10 B14 Y10 K4 R4 K4 R4 K4 R4 K4 Y4 B14 Y4 DB6 Y4 DB/6
 ![Sett](sett.png)
 
 ## Palette
@@ -911,21 +914,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Unidentified Scarlett #14](/setts/s28/r3k2w2r8o8k1g1k1o8k15ly1o15r8w2r8w2r8o15ly1k15o8k1g1k1o8r8w2k2~x2/) — ΔT 1.00
+1. [Unidentified Scarlett #14](/setts/s28/r8w2r8o15ly1k15o8k1g1k1o8r8w2k2r3~x2/) — ΔT 1.00
 1. [Wilson's No.043](/setts/s28/k5w4r19t12k2t2k2t12k20ly3g26r19t5r20t5r19g26ly3k20t12k2t2k2t12r19w4k5r5~x2/) — ΔT 1.17
-1. [Wilson's No.155](/setts/s26/r21y9k2y2k2y9k18ly3dg21r13k3r13w2r13w2r13k3r13dg21ly3k18y9k2y2k2y9~x2/) — ΔT 1.28
+1. [Wilson's No.155](/setts/s26/r21y9k2y2k2y9k18ly3dg21r13k3r13w2r13~x2/) — ΔT 1.28
 1. [Harrods](/setts/s26/dy3do9lo2do5lo4w1dy1w1dy1w12k2w2dy2w2k2w12dy1w1dy1w1lo4do5lo2do9dy3r2~x2/) — ΔT 1.41
-1. [Sabrettes](/setts/s30/r15k5w2o7k4w8k2r26k5o2w2k7w2r5w2g2w2r5w2k7w2o2k5r26k2w8k4o7w2k5~x2/) — ΔT 1.43
+1. [Sabrettes](/setts/s30/r15k5w2o7k4w8k2r26k5o2w2k7w2r5w2g2~x2/) — ΔT 1.43
 1. [Debian](/setts/s36/db7ly1db7m7k1m7w1k1w3r3w3k1w1r3w1k1w1r3w1k1w1k1w1k1w3r3w1r3w1k1w1k1w3m7k1m7~x4/) — ΔT 1.44
 1. [Wilson's No.017](/setts/s28/r44g25k2w6k2ly3k16t12r6t12k16ly3k2w6r44w6k2ly3k16t12r6t12k16ly3k2w6k2g22~x2/) — ΔT 1.45
-1. [Stuart/Stewart - Prince Charles Edward](/setts/s22/r14lg4dt6ly1dt2w2dt2lg12r6dt2r2w1r2dt2r6lg12dt2w2dt2ly1dt6lg4~x4/) — ΔT 1.46
+1. [Stuart/Stewart - Prince Charles Edward](/setts/s22/r14lg4dt6ly1dt2w2dt2lg12r6dt2r2w1~x4/) — ΔT 1.46
 1. [Wilson's No.004](/setts/s22/r14t4r14g32dp18w4dp4ly4dp18t16r64t16dp18ly4dp4w4dp18g32r14t4r14w3/) — ΔT 1.47
-1. [Wilson's No.190](/setts/s36/k3ly2k13w2t11r12w2r12k12ly2g12r12w2r12t11w2k13ly2k3ly2k13w2t11r12w2r12g12ly2k12r12w2r12t11w2k13ly2~x2/) — ΔT 1.50
+1. [Maple Leaf Dress District Tartan Tartan Number: 2033. Earliest known date: pre 1992 In creating the Maple Leaf Tartan fabric, David Weiser captured the natural phenomena of these leaves turning from summer into autumn. (The Office of the High Commissioner for Canada.) This is a dress version of the Maple Leaf tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s26/dg1m6g5m6dg1m1dg9dy3g3ly3dg9m1dg1m6g5m6dg1m1w1m1w12g1w12m1w1m1~x4/) — ΔT 1.50
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s28/r3k2w2r8o8k1g1k1o8k15ly1o15r8w2r8w2r8o15ly1k15o8k1g1k1o8r8w2k2~x2/"><circle cx="147.5" cy="76.8" r="4" fill="#3465a4"><title>Unidentified Scarlett #14</title></circle></a><a href="/setts/s28/k5w4r19t12k2t2k2t12k20ly3g26r19t5r20t5r19g26ly3k20t12k2t2k2t12r19w4k5r5~x2/"><circle cx="102.9" cy="92.5" r="4" fill="#3465a4"><title>Wilson's No.043</title></circle></a><a href="/setts/s26/r21y9k2y2k2y9k18ly3dg21r13k3r13w2r13w2r13k3r13dg21ly3k18y9k2y2k2y9~x2/"><circle cx="112.6" cy="105.3" r="4" fill="#3465a4"><title>Wilson's No.155</title></circle></a><a href="/setts/s26/dy3do9lo2do5lo4w1dy1w1dy1w12k2w2dy2w2k2w12dy1w1dy1w1lo4do5lo2do9dy3r2~x2/"><circle cx="97.0" cy="73.0" r="4" fill="#3465a4"><title>Harrods</title></circle></a><a href="/setts/s30/r15k5w2o7k4w8k2r26k5o2w2k7w2r5w2g2w2r5w2k7w2o2k5r26k2w8k4o7w2k5~x2/"><circle cx="172.2" cy="68.0" r="4" fill="#3465a4"><title>Sabrettes</title></circle></a><a href="/setts/s36/db7ly1db7m7k1m7w1k1w3r3w3k1w1r3w1k1w1r3w1k1w1k1w1k1w3r3w1r3w1k1w1k1w3m7k1m7~x4/"><circle cx="47.4" cy="84.0" r="4" fill="#3465a4"><title>Debian</title></circle></a><a href="/setts/s28/r44g25k2w6k2ly3k16t12r6t12k16ly3k2w6r44w6k2ly3k16t12r6t12k16ly3k2w6k2g22~x2/"><circle cx="110.3" cy="48.5" r="4" fill="#3465a4"><title>Wilson's No.017</title></circle></a><a href="/setts/s22/r14lg4dt6ly1dt2w2dt2lg12r6dt2r2w1r2dt2r6lg12dt2w2dt2ly1dt6lg4~x4/"><circle cx="99.3" cy="80.2" r="4" fill="#3465a4"><title>Stuart/Stewart - Prince Charles Edward</title></circle></a><a href="/setts/s22/r14t4r14g32dp18w4dp4ly4dp18t16r64t16dp18ly4dp4w4dp18g32r14t4r14w3/"><circle cx="149.4" cy="71.2" r="4" fill="#3465a4"><title>Wilson's No.004</title></circle></a><a href="/setts/s36/k3ly2k13w2t11r12w2r12k12ly2g12r12w2r12t11w2k13ly2k3ly2k13w2t11r12w2r12g12ly2k12r12w2r12t11w2k13ly2~x2/"><circle cx="51.6" cy="114.6" r="4" fill="#3465a4"><title>Wilson's No.190</title></circle></a><circle cx="100.0" cy="63.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s28/r8w2r8o15ly1k15o8k1g1k1o8r8w2k2r3~x2/"><circle cx="147.3" cy="76.9" r="4" fill="#3465a4"><title>Unidentified Scarlett #14</title></circle></a><a href="/setts/s28/k5w4r19t12k2t2k2t12k20ly3g26r19t5r20t5r19g26ly3k20t12k2t2k2t12r19w4k5r5~x2/"><circle cx="102.7" cy="92.7" r="4" fill="#3465a4"><title>Wilson's No.043</title></circle></a><a href="/setts/s26/r21y9k2y2k2y9k18ly3dg21r13k3r13w2r13~x2/"><circle cx="112.5" cy="105.4" r="4" fill="#3465a4"><title>Wilson's No.155</title></circle></a><a href="/setts/s26/dy3do9lo2do5lo4w1dy1w1dy1w12k2w2dy2w2k2w12dy1w1dy1w1lo4do5lo2do9dy3r2~x2/"><circle cx="96.7" cy="73.2" r="4" fill="#3465a4"><title>Harrods</title></circle></a><a href="/setts/s30/r15k5w2o7k4w8k2r26k5o2w2k7w2r5w2g2~x2/"><circle cx="171.8" cy="68.0" r="4" fill="#3465a4"><title>Sabrettes</title></circle></a><a href="/setts/s36/db7ly1db7m7k1m7w1k1w3r3w3k1w1r3w1k1w1r3w1k1w1k1w1k1w3r3w1r3w1k1w1k1w3m7k1m7~x4/"><circle cx="47.2" cy="84.2" r="4" fill="#3465a4"><title>Debian</title></circle></a><a href="/setts/s28/r44g25k2w6k2ly3k16t12r6t12k16ly3k2w6r44w6k2ly3k16t12r6t12k16ly3k2w6k2g22~x2/"><circle cx="110.1" cy="48.6" r="4" fill="#3465a4"><title>Wilson's No.017</title></circle></a><a href="/setts/s22/r14lg4dt6ly1dt2w2dt2lg12r6dt2r2w1~x4/"><circle cx="99.1" cy="80.3" r="4" fill="#3465a4"><title>Stuart/Stewart - Prince Charles Edward</title></circle></a><a href="/setts/s22/r14t4r14g32dp18w4dp4ly4dp18t16r64t16dp18ly4dp4w4dp18g32r14t4r14w3/"><circle cx="149.2" cy="71.4" r="4" fill="#3465a4"><title>Wilson's No.004</title></circle></a><a href="/setts/s26/dg1m6g5m6dg1m1dg9dy3g3ly3dg9m1dg1m6g5m6dg1m1w1m1w12g1w12m1w1m1~x4/"><circle cx="76.9" cy="78.4" r="4" fill="#3465a4"><title>Maple Leaf Dress District Tartan Tartan Number: 2033. Earliest known date: pre 1992 In creating the Maple Leaf Tartan fabric, David Weiser captured the natural phenomena of these leaves turning from summer into autumn. (The Office of the High Commissioner for Canada.) This is a dress version of the Maple Leaf tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><circle cx="99.7" cy="63.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s36/r14w2db3w2r14k2r2db2ly2t7w2t7ly2k4r7w1r7w1r7k4ly5t7ly5k2r2k2r2k2r2k2ly2t7ly2db3ly2db3~x2/

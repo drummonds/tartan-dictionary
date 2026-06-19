@@ -18,10 +18,10 @@ GYKBGRKBYBKRGBKY
 
 
 
-### DY LY K DP DY M K T LY T K M DY DP K LY <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DY LY K DP DY M K T LY T K M DY DP K LY</span></span>
+### LY K DP DY M K T LY T K M DY DP K LY DY <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">LY K DP DY M K T LY T K M DY DP K LY DY</span></span>
 
 | Tartans |
 |---------------|
-| [Inches of Perth](/setts/s16/dy44ly2k4dp2dy15m6k3t3ly2t3k3m6dy15dp2k4ly2~x2/)|
-|![Inches of Perth example sett](/setts/s16/dy44ly2k4dp2dy15m6k3t3ly2t3k3m6dy15dp2k4ly2~x2/sett.png)|
+| [Inches of Perth](/setts/s16/dy44ly2k4dp2dy15m6k3t3ly2~x2/)|
+|![Inches of Perth example sett](/setts/s16/dy44ly2k4dp2dy15m6k3t3ly2~x2/sett.png)|
 

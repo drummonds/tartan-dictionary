@@ -22,6 +22,6 @@ BWBWBBRBBWBW
 
 | Tartans |
 |---------------|
-| [Keela](/setts/s12/dt7w3dt2w6dt16t26r4t26dt16w6dt2w3~x2/)|
-|![Keela example sett](/setts/s12/dt7w3dt2w6dt16t26r4t26dt16w6dt2w3~x2/sett.png)|
+| [Keela](/setts/s12/dt7w3dt2w6dt16t26r4~x2/)|
+|![Keela example sett](/setts/s12/dt7w3dt2w6dt16t26r4~x2/sett.png)|
 

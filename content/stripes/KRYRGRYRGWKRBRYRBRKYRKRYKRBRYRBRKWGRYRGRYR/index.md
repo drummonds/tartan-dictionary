@@ -22,6 +22,6 @@ KRYRGRYRGWKRBRYRBRKYRKRYKRBRYRBRKWGRYRGRYR
 
 | Tartans |
 |---------------|
-| [Hay & Leith #2](/setts/s42/k7r3ly2r60g7r2ly2r7g50w2k50r2dt50r7ly2r2dt7r60k7ly2r3k7r3ly2k7r60dt7r2ly2r7dt50r2k50w2g50r7ly2r2g7r60ly2r3/)|
-|![Hay & Leith #2 example sett](/setts/s42/k7r3ly2r60g7r2ly2r7g50w2k50r2dt50r7ly2r2dt7r60k7ly2r3k7r3ly2k7r60dt7r2ly2r7dt50r2k50w2g50r7ly2r2g7r60ly2r3/sett.png)|
+| [Hay & Leith #2](/setts/s42/k7r3ly2r60g7r2ly2r7g50w2k50r2dt50r7ly2r2dt7r60k7ly2r3k7/)|
+|![Hay & Leith #2 example sett](/setts/s42/k7r3ly2r60g7r2ly2r7g50w2k50r2dt50r7ly2r2dt7r60k7ly2r3k7/sett.png)|
 

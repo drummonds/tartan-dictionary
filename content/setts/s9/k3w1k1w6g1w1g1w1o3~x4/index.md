@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,14 +919,14 @@ The nearest existing variants by ΔTartan distance.
 1. [MacDonald, Flora (Dance)](/setts/s13/r3dg8db5w3dg20w3db5w3db5w22db3w8r3~x2/) — ΔT 1.22
 1. [Breton District Tartan Tartan Number: 3902. Earliest known date: 2001 Commissioned by Richard Duclos of Le Coudray-Montceaux, France and produced by House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/g6db11w8k4w8k4w8k27w4~x2/) — ΔT 1.23
 1. [Eglinton](/setts/s7/k3dg3k3lb16k3r3k3/) — ΔT 1.29
-1. [MacPherson Dress Clan Tartan Tartan Number: 3246. Earliest known date: 1842 This version was recorded in the STS Sindex without the suffix, 'Dress', and with red in place of purple. Manufacturers have constistantly produced a MacPherson Dress with double purple stripes. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/w6m4w32k32w5k12ly4k12w5k32w32m4~x2/) — ΔT 1.31
+1. [MacPherson Dress Clan Tartan Tartan Number: 3246. Earliest known date: 1842 This version was recorded in the STS Sindex without the suffix, 'Dress', and with red in place of purple. Manufacturers have constistantly produced a MacPherson Dress with double purple stripes. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s12/w6m4w32k32w5k12ly4~x2/) — ΔT 1.31
 1. [Dalgliesh Dress](/setts/s11/g10k10lb4k2ly2k2lb3k12lb12k2lb3~x2/) — ΔT 1.36
 1. [Kile (No red line) (Personal)](/setts/s8/db20w3db3w3db3w3k5ly10~x2/) — ΔT 1.39
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k6m2k12y3k6lb16y3lb16k2~x2/"><circle cx="208.7" cy="187.0" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/setts/s7/ly9k32g6w20ly3w9k5~x2/"><circle cx="178.1" cy="173.6" r="4" fill="#3465a4"><title>Black and White Golf</title></circle></a><a href="/setts/s8/w2g4k7w2k1w11db2w2~x4/"><circle cx="225.2" cy="163.1" r="4" fill="#3465a4"><title>Forbes - 1880 (Clans Originaux)</title></circle></a><a href="/setts/s9/k4w1k1w9g1w1g1w1o4~x4/"><circle cx="215.0" cy="147.0" r="4" fill="#3465a4"><title>Puffin (Personal)</title></circle></a><a href="/setts/s13/r3dg8db5w3dg20w3db5w3db5w22db3w8r3~x2/"><circle cx="150.8" cy="152.7" r="4" fill="#3465a4"><title>MacDonald, Flora (Dance)</title></circle></a><a href="/setts/s9/g6db11w8k4w8k4w8k27w4~x2/"><circle cx="159.0" cy="191.3" r="4" fill="#3465a4"><title>Breton District Tartan Tartan Number: 3902. Earliest known date: 2001 Commissioned by Richard Duclos of Le Coudray-Montceaux, France and produced by House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/k3dg3k3lb16k3r3k3/"><circle cx="186.4" cy="191.3" r="4" fill="#3465a4"><title>Eglinton</title></circle></a><a href="/setts/s12/w6m4w32k32w5k12ly4k12w5k32w32m4~x2/"><circle cx="212.7" cy="162.3" r="4" fill="#3465a4"><title>MacPherson Dress Clan Tartan Tartan Number: 3246. Earliest known date: 1842 This version was recorded in the STS Sindex without the suffix, 'Dress', and with red in place of purple. Manufacturers have constistantly produced a MacPherson Dress with double purple stripes. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/g10k10lb4k2ly2k2lb3k12lb12k2lb3~x2/"><circle cx="166.3" cy="195.2" r="4" fill="#3465a4"><title>Dalgliesh Dress</title></circle></a><a href="/setts/s8/db20w3db3w3db3w3k5ly10~x2/"><circle cx="206.7" cy="182.2" r="4" fill="#3465a4"><title>Kile (No red line) (Personal)</title></circle></a><circle cx="172.4" cy="181.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/k6m2k12y3k6lb16y3lb16k2~x2/"><circle cx="208.5" cy="186.8" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/setts/s7/ly9k32g6w20ly3w9k5~x2/"><circle cx="177.9" cy="173.4" r="4" fill="#3465a4"><title>Black and White Golf</title></circle></a><a href="/setts/s8/w2g4k7w2k1w11db2w2~x4/"><circle cx="225.0" cy="162.8" r="4" fill="#3465a4"><title>Forbes - 1880 (Clans Originaux)</title></circle></a><a href="/setts/s9/k4w1k1w9g1w1g1w1o4~x4/"><circle cx="214.6" cy="146.8" r="4" fill="#3465a4"><title>Puffin (Personal)</title></circle></a><a href="/setts/s13/r3dg8db5w3dg20w3db5w3db5w22db3w8r3~x2/"><circle cx="150.6" cy="152.6" r="4" fill="#3465a4"><title>MacDonald, Flora (Dance)</title></circle></a><a href="/setts/s9/g6db11w8k4w8k4w8k27w4~x2/"><circle cx="159.0" cy="191.1" r="4" fill="#3465a4"><title>Breton District Tartan Tartan Number: 3902. Earliest known date: 2001 Commissioned by Richard Duclos of Le Coudray-Montceaux, France and produced by House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/k3dg3k3lb16k3r3k3/"><circle cx="186.3" cy="191.1" r="4" fill="#3465a4"><title>Eglinton</title></circle></a><a href="/setts/s12/w6m4w32k32w5k12ly4~x2/"><circle cx="212.4" cy="162.0" r="4" fill="#3465a4"><title>MacPherson Dress Clan Tartan Tartan Number: 3246. Earliest known date: 1842 This version was recorded in the STS Sindex without the suffix, 'Dress', and with red in place of purple. Manufacturers have constistantly produced a MacPherson Dress with double purple stripes. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/g10k10lb4k2ly2k2lb3k12lb12k2lb3~x2/"><circle cx="166.3" cy="195.0" r="4" fill="#3465a4"><title>Dalgliesh Dress</title></circle></a><a href="/setts/s8/db20w3db3w3db3w3k5ly10~x2/"><circle cx="206.5" cy="182.0" r="4" fill="#3465a4"><title>Kile (No red line) (Personal)</title></circle></a><circle cx="172.2" cy="181.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/k3w1k1w6g1w1g1w1o3~x4/

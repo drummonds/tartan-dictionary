@@ -18,10 +18,10 @@ WKRKRGGKY
 
 
 
-### W K R K R Y DG K LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W K R K R Y DG K LY</span></span>
+### LY K DG Y R K R K W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY K DG Y R K R K W</span></span>
 
 | Tartans |
 |---------------|
-| [Thirkill](/setts/s9/ly4k2dg7y7r5k2r15k2w4~x2/)|
-|![Thirkill example sett](/setts/s9/ly4k2dg7y7r5k2r15k2w4~x2/sett.png)|
+| [Thirkill](/setts/s9/w4k2r15k2r5y7dg7k2ly4~x2/)|
+|![Thirkill example sett](/setts/s9/w4k2r15k2r5y7dg7k2ly4~x2/sett.png)|
 

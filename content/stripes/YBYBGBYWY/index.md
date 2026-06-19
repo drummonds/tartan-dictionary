@@ -22,6 +22,6 @@ YBYBGBYWY
 
 | Tartans |
 |---------------|
-| [WestJet](/setts/s9/lg3dt3ly3dt15g3dt5lg20lb6ly3~x2/)|
-|![WestJet example sett](/setts/s9/lg3dt3ly3dt15g3dt5lg20lb6ly3~x2/sett.png)|
+| [WestJet](/setts/s9/ly3lb6lg20dt5g3dt15ly3dt3lg3~x2/)|
+|![WestJet example sett](/setts/s9/ly3lb6lg20dt5g3dt15ly3dt3lg3~x2/sett.png)|
 

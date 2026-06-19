@@ -2,12 +2,18 @@
 title: "Gordon, dress 2"
 date: 2023-03-18
 ---
-**Bands:** [BKBKGYGWBWBWKY](/stripes/bkbkgygwbwbwky/) · **Stripes:** [DB K DB K G LY G W DB W DB W K LY](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DB K DB K G LY G W DB W DB W K LY</span></span>
+**Bands:** [YKWBWBWGYGKBKB](/stripes/ykwbwbwgygkbkb/) · **Stripes:** [LY K W DB W DB W G LY G K DB K DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">LY K W DB W DB W G LY G K DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Gordon, dress 2
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -904,20 +913,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Gordon Dress #3](/setts/s14/db2k2db4k4dg4ly1dg4w2db3w14db2w2k2ly1~x4/) — ΔT 0.36
-1. [Sutherland Dress, Old (Dance)](/setts/s12/w6dg2w27k10n4k4n4k4n15r2n2r4~x2/) — ΔT 0.92
+1. [Sutherland Dress, Old (Dance)](/setts/s12/w6dg2w27k10n4k4n4k4n15r2n2r4~x2/) — ΔT 0.91
 1. [Blair, dress](/setts/s13/db1r1db8k3g8r1g1r1g8k3w10r1w1~x4/) — ΔT 0.95
 1. [Ross Arisaid](/setts/s12/r4w4r2w29k10g3k10g4g4g3g3g3~x2/) — ΔT 1.00
 1. [Lauder](/setts/s19/r4db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4~x2/) — ΔT 1.03
 1. [Gordon, dress 3](/setts/s13/db24k4g8ly4g8k4w4k4w24k1w2k1ly3~x2/) — ΔT 1.04
-1. [Fraser Gathering Dress (1997)](/setts/s9/g2w24g2db5dg4g11dg2db12r2~x2/) — ΔT 1.05
+1. [Fraser Gathering Dress (1997)](/setts/s9/r2db12dg2g11dg4db5g2w24g2~x2/) — ΔT 1.05
 1. [Ross Hunting Dress](/setts/s12/dg4g3dg3g4dg4db8dg3db9w29r2w4r2~x2/) — ΔT 1.05
 1. [Lauder Dress](/setts/s19/r4db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4/) — ΔT 1.06
 1. [MacKellar Dress, Green (Dance)](/setts/s11/dg27w2dg3lo4dg3w2dg5k13lg2w26lg3~x2/) — ΔT 1.06
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db2k2db4k4dg4ly1dg4w2db3w14db2w2k2ly1~x4/"><circle cx="128.4" cy="114.0" r="4" fill="#3465a4"><title>Gordon Dress #3</title></circle></a><a href="/setts/s12/w6dg2w27k10n4k4n4k4n15r2n2r4~x2/"><circle cx="154.2" cy="113.0" r="4" fill="#3465a4"><title>Sutherland Dress, Old (Dance)</title></circle></a><a href="/setts/s13/db1r1db8k3g8r1g1r1g8k3w10r1w1~x4/"><circle cx="106.6" cy="133.1" r="4" fill="#3465a4"><title>Blair, dress</title></circle></a><a href="/setts/s12/r4w4r2w29k10g3k10g4g4g3g3g3~x2/"><circle cx="152.8" cy="100.8" r="4" fill="#3465a4"><title>Ross Arisaid</title></circle></a><a href="/setts/s19/r4db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4~x2/"><circle cx="96.9" cy="97.1" r="4" fill="#3465a4"><title>Lauder</title></circle></a><a href="/setts/s13/db24k4g8ly4g8k4w4k4w24k1w2k1ly3~x2/"><circle cx="129.0" cy="86.1" r="4" fill="#3465a4"><title>Gordon, dress 3</title></circle></a><a href="/setts/s9/g2w24g2db5dg4g11dg2db12r2~x2/"><circle cx="138.2" cy="135.8" r="4" fill="#3465a4"><title>Fraser Gathering Dress (1997)</title></circle></a><a href="/setts/s12/dg4g3dg3g4dg4db8dg3db9w29r2w4r2~x2/"><circle cx="178.4" cy="103.7" r="4" fill="#3465a4"><title>Ross Hunting Dress</title></circle></a><a href="/setts/s19/r4db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4/"><circle cx="105.0" cy="99.0" r="4" fill="#3465a4"><title>Lauder Dress</title></circle></a><a href="/setts/s11/dg27w2dg3lo4dg3w2dg5k13lg2w26lg3~x2/"><circle cx="177.9" cy="118.5" r="4" fill="#3465a4"><title>MacKellar Dress, Green (Dance)</title></circle></a><circle cx="121.5" cy="111.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db2k2db4k4dg4ly1dg4w2db3w14db2w2k2ly1~x4/"><circle cx="128.2" cy="114.0" r="4" fill="#3465a4"><title>Gordon Dress #3</title></circle></a><a href="/setts/s12/w6dg2w27k10n4k4n4k4n15r2n2r4~x2/"><circle cx="153.9" cy="113.0" r="4" fill="#3465a4"><title>Sutherland Dress, Old (Dance)</title></circle></a><a href="/setts/s13/db1r1db8k3g8r1g1r1g8k3w10r1w1~x4/"><circle cx="106.5" cy="133.1" r="4" fill="#3465a4"><title>Blair, dress</title></circle></a><a href="/setts/s12/r4w4r2w29k10g3k10g4g4g3g3g3~x2/"><circle cx="152.5" cy="100.7" r="4" fill="#3465a4"><title>Ross Arisaid</title></circle></a><a href="/setts/s19/r4db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4~x2/"><circle cx="96.8" cy="97.1" r="4" fill="#3465a4"><title>Lauder</title></circle></a><a href="/setts/s13/db24k4g8ly4g8k4w4k4w24k1w2k1ly3~x2/"><circle cx="128.8" cy="86.1" r="4" fill="#3465a4"><title>Gordon, dress 3</title></circle></a><a href="/setts/s9/r2db12dg2g11dg4db5g2w24g2~x2/"><circle cx="138.1" cy="135.8" r="4" fill="#3465a4"><title>Fraser Gathering Dress (1997)</title></circle></a><a href="/setts/s12/dg4g3dg3g4dg4db8dg3db9w29r2w4r2~x2/"><circle cx="178.2" cy="103.6" r="4" fill="#3465a4"><title>Ross Hunting Dress</title></circle></a><a href="/setts/s19/r4db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4/"><circle cx="104.9" cy="99.0" r="4" fill="#3465a4"><title>Lauder Dress</title></circle></a><a href="/setts/s11/dg27w2dg3lo4dg3w2dg5k13lg2w26lg3~x2/"><circle cx="177.8" cy="118.4" r="4" fill="#3465a4"><title>MacKellar Dress, Green (Dance)</title></circle></a><circle cx="121.4" cy="111.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/db2k2db4k4g4ly1g4w2db3w14db2w2k2ly1~x4/

@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [13 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=282
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Black Watch, Ground Colour
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +901,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-W/2 K2 W16 K16 W16 K2 W16 K16 W2 K2 W2 K2 W/22
+W/22 K2 W2 K2 W2 K16 W16 K2 W16 K16 W16 K2 W/2
 ![Sett](sett.png)
 
 ## Palette
@@ -909,19 +918,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Scott - 1850 B & W (Clan)](/setts/s11/w6k6w2k1w1k1w2k6w6k1w2~x4/) — ΔT 1.57
 1. [Poulter SG ? Black & white (Fashion)](/setts/s13/w25k8w8k8w8k46w46w8w46k46w46k8w8/) — ΔT 1.62
-1. [MacLean (Black and White)](/setts/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/) — ΔT 1.85
+1. [MacLean (Black and White)](/setts/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/) — ΔT 1.86
 1. [Guzzo Dress (Personal)](/setts/s8/w20k2w20lo5k3w3lo4k2/) — ΔT 1.91
 1. [Clayton Dress (Dance)](/setts/s8/r14w35k4w35r14w8r14w8~x2/) — ΔT 1.94
 1. [Scott (Abbreviated)](/setts/s7/w2k1w6k6w2k1w1~x2/) — ΔT 1.98
 1. [Grant of Acharrow](/setts/s12/w12k3w28g6k4w2k2w14r11g3r4w4~x2/) — ΔT 2.07
-1. [Wallace Dress](/setts/s6/k7w6k1w6k1w6~x4/) — ΔT 2.09
+1. [Wallace Dress](/setts/s6/k7w6k1w6~x4/) — ΔT 2.09
 1. [MacLachlan (Chief's Dress) Blue](/setts/s8/b6ly2b21ly2b6ly24b2ly6~x2/) — ΔT 2.10
 1. [MacMugen](/setts/s6/dt3w16dt4w3dt12w2~x3/) — ΔT 2.10
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w6k6w2k1w1k1w2k6w6k1w2~x4/"><circle cx="273.4" cy="215.0" r="4" fill="#3465a4"><title>Scott - 1850 B &amp; W (Clan)</title></circle></a><a href="/setts/s13/w25k8w8k8w8k46w46w8w46k46w46k8w8/"><circle cx="268.3" cy="192.0" r="4" fill="#3465a4"><title>Poulter SG ? Black &amp; white (Fashion)</title></circle></a><a href="/setts/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/"><circle cx="305.2" cy="200.4" r="4" fill="#3465a4"><title>MacLean (Black and White)</title></circle></a><a href="/setts/s8/w20k2w20lo5k3w3lo4k2/"><circle cx="401.5" cy="174.6" r="4" fill="#3465a4"><title>Guzzo Dress (Personal)</title></circle></a><a href="/setts/s8/r14w35k4w35r14w8r14w8~x2/"><circle cx="318.1" cy="192.4" r="4" fill="#3465a4"><title>Clayton Dress (Dance)</title></circle></a><a href="/setts/s7/w2k1w6k6w2k1w1~x2/"><circle cx="300.1" cy="231.5" r="4" fill="#3465a4"><title>Scott (Abbreviated)</title></circle></a><a href="/setts/s12/w12k3w28g6k4w2k2w14r11g3r4w4~x2/"><circle cx="305.8" cy="127.0" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/setts/s6/k7w6k1w6k1w6~x4/"><circle cx="323.8" cy="248.6" r="4" fill="#3465a4"><title>Wallace Dress</title></circle></a><a href="/setts/s8/b6ly2b21ly2b6ly24b2ly6~x2/"><circle cx="326.7" cy="189.1" r="4" fill="#3465a4"><title>MacLachlan (Chief's Dress) Blue</title></circle></a><a href="/setts/s6/dt3w16dt4w3dt12w2~x3/"><circle cx="294.5" cy="226.7" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><circle cx="346.7" cy="171.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/w6k6w2k1w1k1w2k6w6k1w2~x4/"><circle cx="273.1" cy="214.6" r="4" fill="#3465a4"><title>Scott - 1850 B &amp; W (Clan)</title></circle></a><a href="/setts/s13/w25k8w8k8w8k46w46w8w46k46w46k8w8/"><circle cx="268.0" cy="191.7" r="4" fill="#3465a4"><title>Poulter SG ? Black &amp; white (Fashion)</title></circle></a><a href="/setts/s11/w20k6w9k6w6k12w6k48w8k16w16~x2/"><circle cx="304.9" cy="200.0" r="4" fill="#3465a4"><title>MacLean (Black and White)</title></circle></a><a href="/setts/s8/w20k2w20lo5k3w3lo4k2/"><circle cx="400.8" cy="174.1" r="4" fill="#3465a4"><title>Guzzo Dress (Personal)</title></circle></a><a href="/setts/s8/r14w35k4w35r14w8r14w8~x2/"><circle cx="317.5" cy="191.9" r="4" fill="#3465a4"><title>Clayton Dress (Dance)</title></circle></a><a href="/setts/s7/w2k1w6k6w2k1w1~x2/"><circle cx="299.8" cy="231.1" r="4" fill="#3465a4"><title>Scott (Abbreviated)</title></circle></a><a href="/setts/s12/w12k3w28g6k4w2k2w14r11g3r4w4~x2/"><circle cx="305.3" cy="126.7" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/setts/s6/k7w6k1w6~x4/"><circle cx="323.4" cy="248.0" r="4" fill="#3465a4"><title>Wallace Dress</title></circle></a><a href="/setts/s8/b6ly2b21ly2b6ly24b2ly6~x2/"><circle cx="326.3" cy="188.7" r="4" fill="#3465a4"><title>MacLachlan (Chief's Dress) Blue</title></circle></a><a href="/setts/s6/dt3w16dt4w3dt12w2~x3/"><circle cx="294.2" cy="226.2" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><circle cx="346.2" cy="170.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/w11k1w1k1w1k8w8k1w8k8w8k1w1~x2/

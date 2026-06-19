@@ -2,12 +2,18 @@
 title: "Ruxton Hunting"
 date: 2023-03-18
 ---
-**Bands:** [RWRWRBRWRYBKBRYR](/stripes/rwrwrbrwrybkbryr/) · **Stripes:** [R W R W R DB R W R LY DB K DB R LY R](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">R W R W R DB R W R LY DB K DB R LY R</span></span>
+**Bands:** [RYRBKBYRWRBRWRWR](/stripes/ryrbkbyrwrbrwrwr/) · **Stripes:** [R LY R DB K DB LY R W R DB R W R W R](/stripes/stripes16/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">R LY R DB K DB LY R W R DB R W R W R</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [16 band tartan](/bands/bands16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3627
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Ruxton Hunting
 
 ## Attestations
 
@@ -25,7 +31,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2379
 
 ## Thread count
-DR/32 LN2 DR2 LN6 DR4 DB8 DR30 LN2 DR2 Y6 DB32 K2 DB4 DR16 Y2 DR/34
+DR/34 Y2 DR16 DB4 K2 DB32 Y6 DR2 LN2 DR30 DB8 DR4 LN6 DR2 LN2 DR/32
 ![Sett](sett.png)
 
 ## Palette
@@ -49,15 +55,15 @@ The nearest existing variants by ΔTartan distance.
 1. [New York Caledonian Club Dress](/setts/s11/r9db1r2db3r28k12lb1r6lb1db6r1~x2/) — ΔT 1.53
 1. [Griffiths (Welsh Name)](/setts/s11/lo4r37db17r4db8r6do2r5db2r3lo4/) — ΔT 1.60
 1. [Chicago, University of..](/setts/s16/m30k8m2k2m3k2m8r15m8k2m3k2m2k8m30w3~x2/) — ΔT 1.64
-1. [Hart (Texas) (Personal)](/setts/s20/ly4k3w2db7r7k4r5db4r30w2db3w2r30db4r5k4r7db7w2k3~x2/) — ΔT 1.64
+1. [Hart (Texas) (Personal)](/setts/s20/ly4k3w2db7r7k4r5db4r30w2db3~x2/) — ΔT 1.64
 1. [Hebridean, South Uist](/setts/s18/db19r2g3r2db2r20g1ly1r1g2r2db18r2g2r22g3w1r3~x2/) — ΔT 1.68
 1. [Hughes (Welsh Name)](/setts/s11/g4r34dt20r4dt8r6db2r5dt2r3g4/) — ΔT 1.69
 1. [Cutter (Name)](/setts/s12/r2r2r14db2r2db5r2db2r2db12r1ly1~x4/) — ΔT 1.72
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/m17ly1m8db2k1db16ly3m1w1m15db4m2w3m1w1m16~x2/"><circle cx="387.6" cy="123.1" r="4" fill="#3465a4"><title>Ruxton, hunting</title></circle></a><a href="/setts/s16/m16k1m8db2k1db16k3m1k1m15db4m2k3m1k1m16~x2/"><circle cx="386.0" cy="133.7" r="4" fill="#3465a4"><title>(5) Ruxton hunting</title></circle></a><a href="/setts/s12/r23g3ly1g3r2db18r2w1g3r2db2r23~x2/"><circle cx="390.6" cy="102.4" r="4" fill="#3465a4"><title>Mair (Personal)</title></circle></a><a href="/setts/s11/r9db1r2db3r28k12lb1r6lb1db6r1~x2/"><circle cx="426.3" cy="117.1" r="4" fill="#3465a4"><title>New York Caledonian Club Dress</title></circle></a><a href="/setts/s11/lo4r37db17r4db8r6do2r5db2r3lo4/"><circle cx="390.2" cy="132.3" r="4" fill="#3465a4"><title>Griffiths (Welsh Name)</title></circle></a><a href="/setts/s16/m30k8m2k2m3k2m8r15m8k2m3k2m2k8m30w3~x2/"><circle cx="406.5" cy="130.2" r="4" fill="#3465a4"><title>Chicago, University of..</title></circle></a><a href="/setts/s20/ly4k3w2db7r7k4r5db4r30w2db3w2r30db4r5k4r7db7w2k3~x2/"><circle cx="327.5" cy="83.7" r="4" fill="#3465a4"><title>Hart (Texas) (Personal)</title></circle></a><a href="/setts/s18/db19r2g3r2db2r20g1ly1r1g2r2db18r2g2r22g3w1r3~x2/"><circle cx="327.2" cy="91.0" r="4" fill="#3465a4"><title>Hebridean, South Uist</title></circle></a><a href="/setts/s11/g4r34dt20r4dt8r6db2r5dt2r3g4/"><circle cx="366.5" cy="144.7" r="4" fill="#3465a4"><title>Hughes (Welsh Name)</title></circle></a><a href="/setts/s12/r2r2r14db2r2db5r2db2r2db12r1ly1~x4/"><circle cx="327.9" cy="147.4" r="4" fill="#3465a4"><title>Cutter (Name)</title></circle></a><circle cx="383.3" cy="117.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/m17ly1m8db2k1db16ly3m1w1m15db4m2w3m1w1m16~x2/"><circle cx="387.3" cy="123.0" r="4" fill="#3465a4"><title>Ruxton, hunting</title></circle></a><a href="/setts/s16/m16k1m8db2k1db16k3m1k1m15db4m2k3m1k1m16~x2/"><circle cx="385.8" cy="133.7" r="4" fill="#3465a4"><title>(5) Ruxton hunting</title></circle></a><a href="/setts/s12/r23g3ly1g3r2db18r2w1g3r2db2r23~x2/"><circle cx="390.1" cy="102.3" r="4" fill="#3465a4"><title>Mair (Personal)</title></circle></a><a href="/setts/s11/r9db1r2db3r28k12lb1r6lb1db6r1~x2/"><circle cx="426.0" cy="117.0" r="4" fill="#3465a4"><title>New York Caledonian Club Dress</title></circle></a><a href="/setts/s11/lo4r37db17r4db8r6do2r5db2r3lo4/"><circle cx="389.8" cy="132.2" r="4" fill="#3465a4"><title>Griffiths (Welsh Name)</title></circle></a><a href="/setts/s16/m30k8m2k2m3k2m8r15m8k2m3k2m2k8m30w3~x2/"><circle cx="406.2" cy="130.0" r="4" fill="#3465a4"><title>Chicago, University of..</title></circle></a><a href="/setts/s20/ly4k3w2db7r7k4r5db4r30w2db3~x2/"><circle cx="327.1" cy="83.6" r="4" fill="#3465a4"><title>Hart (Texas) (Personal)</title></circle></a><a href="/setts/s18/db19r2g3r2db2r20g1ly1r1g2r2db18r2g2r22g3w1r3~x2/"><circle cx="326.8" cy="91.0" r="4" fill="#3465a4"><title>Hebridean, South Uist</title></circle></a><a href="/setts/s11/g4r34dt20r4dt8r6db2r5dt2r3g4/"><circle cx="366.1" cy="144.7" r="4" fill="#3465a4"><title>Hughes (Welsh Name)</title></circle></a><a href="/setts/s12/r2r2r14db2r2db5r2db2r2db12r1ly1~x4/"><circle cx="327.6" cy="147.3" r="4" fill="#3465a4"><title>Cutter (Name)</title></circle></a><circle cx="382.9" cy="117.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/r17ly1r8db2k1db16ly3r1w1r15db4r2w3r1w1r16~x2/

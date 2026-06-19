@@ -18,10 +18,10 @@ WBYBYKBWBY
 
 
 
-### W DB LY DB LY K DB W DB LY <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W DB LY DB LY K DB W DB LY</span></span>
+### LY DB W DB K LY DB LY DB W <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY DB W DB K LY DB LY DB W</span></span>
 
 | Tartans |
 |---------------|
-| [SPA Association (Corporate)](/setts/s10/ly1db2w1db15k4ly1db1ly1db5w1~x4/)|
-|![SPA Association (Corporate) example sett](/setts/s10/ly1db2w1db15k4ly1db1ly1db5w1~x4/sett.png)|
+| [SPA Association (Corporate)](/setts/s10/w1db5ly1db1ly1k4db15w1db2ly1~x4/)|
+|![SPA Association (Corporate) example sett](/setts/s10/w1db5ly1db1ly1k4db15w1db2ly1~x4/sett.png)|
 

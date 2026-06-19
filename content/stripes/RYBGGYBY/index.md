@@ -8,7 +8,7 @@ RYBGGYBY
 
 It is a 8 band tartan.
 
-![Woven sample](/setts/s8/lo4dp2lo21g3dy26dt24lo3r4~x2/tartan.png)
+![Woven sample](/setts/s8/r4lo3dt24dy26g3lo21dp2lo4~x2/tartan.png)
 
 
 
@@ -24,6 +24,6 @@ RYBGGYBY
 
 | Tartans |
 |---------------|
-| [Goddin mab Gododdin (Personal)](/setts/s8/lo4dp2lo21g3dy26dt24lo3r4~x2/)|
-|![Goddin mab Gododdin (Personal) example sett](/setts/s8/lo4dp2lo21g3dy26dt24lo3r4~x2/sett.png)|
+| [Goddin mab Gododdin (Personal)](/setts/s8/r4lo3dt24dy26g3lo21dp2lo4~x2/)|
+|![Goddin mab Gododdin (Personal) example sett](/setts/s8/r4lo3dt24dy26g3lo21dp2lo4~x2/sett.png)|
 

@@ -2,7 +2,7 @@
 title: "Cala Homes (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GYBKBY](/stripes/gybkby/) · **Stripes:** [DY LY DB K DB LY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DY LY DB K DB LY</span></span>
+**Bands:** [YBKBYG](/stripes/ybkbyg/) · **Stripes:** [LY DB K DB LY DY](/stripes/stripes6/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">LY DB K DB LY DY</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [6 band tartan](/bands/bands6/).
@@ -25,7 +25,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2527
 
 ## Thread count
-T/3 Y6 DB18 K8 DBa24 Y/5
+Y/5 DBa24 K8 DB18 Y6 T/3
 ![Sett](sett.png)
 
 ## Palette
@@ -41,13 +41,13 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "T/3 Y6 DB18 K8 DBa24 Y/5 tartan")
+![Tartan detail](tartan.png "Y/5 DBa24 K8 DB18 Y6 T/3 tartan")
 
 ## Nearest tartans
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Lopez-Gasparotto](/setts/s7/ly1db6k1db1k5o5r1~x8/) — ΔT 0.75
+1. [Lopez-Gasparotto](/setts/s7/r1o5k5db1k1db6ly1~x8/) — ΔT 0.75
 1. [Wellington No 229](/setts/s5/k4t3dp11dg14w2~x2/) — ΔT 0.85
 1. [American Express](/setts/s6/db2b9m1db9dg9w2~x4/) — ΔT 0.86
 1. [Gold Brothers](/setts/s6/db6g27db3k19dp27w3~x2/) — ΔT 0.86
@@ -60,8 +60,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly1db6k1db1k5o5r1~x8/"><circle cx="131.9" cy="209.5" r="4" fill="#3465a4"><title>Lopez-Gasparotto</title></circle></a><a href="/setts/s5/k4t3dp11dg14w2~x2/"><circle cx="172.9" cy="231.0" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><a href="/setts/s6/db2b9m1db9dg9w2~x4/"><circle cx="126.6" cy="207.6" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/setts/s6/db6g27db3k19dp27w3~x2/"><circle cx="140.8" cy="206.8" r="4" fill="#3465a4"><title>Gold Brothers</title></circle></a><a href="/setts/s6/r4db24k12g14k4lb3~x2/"><circle cx="172.3" cy="220.7" r="4" fill="#3465a4"><title>MacPhail Hunting #2</title></circle></a><a href="/setts/s6/ly5db24k8db18ly6o3/"><circle cx="122.9" cy="204.6" r="4" fill="#3465a4"><title>CALA Homes</title></circle></a><a href="/setts/s6/db15r6dg8k2w2k2~x6/"><circle cx="182.1" cy="210.5" r="4" fill="#3465a4"><title>Stovell (2015)</title></circle></a><a href="/setts/s6/w2db15y2db20r9w2~x2/"><circle cx="177.0" cy="188.2" r="4" fill="#3465a4"><title>The Open Championship</title></circle></a><a href="/setts/s7/k4b21dy10y4k20r6b3~x2/"><circle cx="147.3" cy="213.4" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/setts/s6/r2o8db2t4k4t1~x6/"><circle cx="135.3" cy="210.8" r="4" fill="#3465a4"><title>Thom(p)son's, Fancy</title></circle></a><circle cx="142.7" cy="211.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r1o5k5db1k1db6ly1~x8/"><circle cx="132.1" cy="209.5" r="4" fill="#3465a4"><title>Lopez-Gasparotto</title></circle></a><a href="/setts/s5/k4t3dp11dg14w2~x2/"><circle cx="173.1" cy="231.0" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><a href="/setts/s6/db2b9m1db9dg9w2~x4/"><circle cx="126.8" cy="207.5" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/setts/s6/db6g27db3k19dp27w3~x2/"><circle cx="141.0" cy="206.8" r="4" fill="#3465a4"><title>Gold Brothers</title></circle></a><a href="/setts/s6/r4db24k12g14k4lb3~x2/"><circle cx="172.5" cy="220.7" r="4" fill="#3465a4"><title>MacPhail Hunting #2</title></circle></a><a href="/setts/s6/ly5db24k8db18ly6o3/"><circle cx="123.1" cy="204.6" r="4" fill="#3465a4"><title>CALA Homes</title></circle></a><a href="/setts/s6/db15r6dg8k2w2k2~x6/"><circle cx="182.2" cy="210.6" r="4" fill="#3465a4"><title>Stovell (2015)</title></circle></a><a href="/setts/s6/w2db15y2db20r9w2~x2/"><circle cx="177.1" cy="188.2" r="4" fill="#3465a4"><title>The Open Championship</title></circle></a><a href="/setts/s7/k4b21dy10y4k20r6b3~x2/"><circle cx="147.4" cy="213.4" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/setts/s6/r2o8db2t4k4t1~x6/"><circle cx="135.4" cy="210.8" r="4" fill="#3465a4"><title>Thom(p)son's, Fancy</title></circle></a><circle cx="142.8" cy="211.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/ly5db24k8db18ly6dy3/

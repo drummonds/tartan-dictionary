@@ -22,6 +22,6 @@ RKRKYBYKRWRWRKYBWBYKRKRWKWRWKWRKRKYBY
 
 | Tartans |
 |---------------|
-| [Ogilvie #3](/setts/s37/ly6db6ly6k8r8k8r14w2k2w2r14w2k2w2r15k8r8k8ly7db7w7db8ly8k8r6w5r6w5r6k8ly7db7ly7k6r6k6r6/)|
-|![Ogilvie #3 example sett](/setts/s37/ly6db6ly6k8r8k8r14w2k2w2r14w2k2w2r15k8r8k8ly7db7w7db8ly8k8r6w5r6w5r6k8ly7db7ly7k6r6k6r6/sett.png)|
+| [Ogilvie #3](/setts/s37/r6k6r6k6ly7db7ly7k8r6w5r6w5r6k8ly8db8w7db7ly7k8r8k8r15w2k2w2r14w2k2w2r14k8r8k8ly6db6ly6/)|
+|![Ogilvie #3 example sett](/setts/s37/r6k6r6k6ly7db7ly7k8r6w5r6w5r6k8ly8db8w7db7ly7k8r8k8r15w2k2w2r14w2k2w2r14k8r8k8ly6db6ly6/sett.png)|
 

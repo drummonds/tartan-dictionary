@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -906,7 +909,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Unidentified Gordon variant](/setts/s13/dy4db2dy8db8db9r2db9db8w4o4w12o2w4~x2/) — ΔT 0.17
-1. [Cascade Summers](/setts/s12/b3lg13o3g6b3k10lb2k10b3o11b13k3~x2/) — ΔT 1.21
+1. [Cascade Summers](/setts/s12/k3b13o11b3k10lb2k10b3g6o3lg13b3~x2/) — ΔT 1.21
 1. [O'Sullivan](/setts/s11/b6k4b10w2db10g4db6g9r2g4ly2~x4/) — ΔT 1.40
 1. [Hoban (Personal)](/setts/s16/lp9k3lp4k9g15k9db11w2db11k9g15k9lp4k3lp9ly3~x4/) — ΔT 1.42
 1. [Hoban (Name)](/setts/s9/ly3lp9k3lp4k9g15k9db11w2~x4/) — ΔT 1.45
@@ -918,8 +921,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dy4db2dy8db8db9r2db9db8w4o4w12o2w4~x2/"><circle cx="14.0" cy="155.8" r="4" fill="#3465a4"><title>Unidentified Gordon variant</title></circle></a><a href="/setts/s12/b3lg13o3g6b3k10lb2k10b3o11b13k3~x2/"><circle cx="14.0" cy="148.5" r="4" fill="#3465a4"><title>Cascade Summers</title></circle></a><a href="/setts/s11/b6k4b10w2db10g4db6g9r2g4ly2~x4/"><circle cx="20.4" cy="190.0" r="4" fill="#3465a4"><title>O'Sullivan</title></circle></a><a href="/setts/s16/lp9k3lp4k9g15k9db11w2db11k9g15k9lp4k3lp9ly3~x4/"><circle cx="46.9" cy="168.0" r="4" fill="#3465a4"><title>Hoban (Personal)</title></circle></a><a href="/setts/s9/ly3lp9k3lp4k9g15k9db11w2~x4/"><circle cx="50.9" cy="181.4" r="4" fill="#3465a4"><title>Hoban (Name)</title></circle></a><a href="/setts/s17/db4lo2db4lb6w2k2lb6w2k2lb13lo3k4lo3k8db6w2r4~x2/"><circle cx="38.3" cy="140.8" r="4" fill="#3465a4"><title>Clauwaert (Personal)</title></circle></a><a href="/setts/s17/k16g3g8k3m12k3m12k3g8k3lb12g8lb12g8g3k16w3~x2/"><circle cx="32.2" cy="163.5" r="4" fill="#3465a4"><title>St. Margaret's School Edinburgh</title></circle></a><a href="/setts/s11/k8n22n8dg16k24dr8dg32lb32dr7lb12lb4/"><circle cx="50.1" cy="175.6" r="4" fill="#3465a4"><title>Manderson (Personal)</title></circle></a><a href="/setts/s12/k5g15dy8g15k5r4db8lt5w3lt5db8r4~x2/"><circle cx="14.0" cy="169.8" r="4" fill="#3465a4"><title>Anderson (Blackwood) (Personal)</title></circle></a><a href="/setts/s14/db22g22w6db4ly7g20db24k20r2lr24k6lr24r2k20~x2/"><circle cx="17.1" cy="130.7" r="4" fill="#3465a4"><title>Abel (2015)</title></circle></a><circle cx="14.0" cy="156.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dy4db2dy8db8db9r2db9db8w4o4w12o2w4~x2/"><circle cx="14.0" cy="156.0" r="4" fill="#3465a4"><title>Unidentified Gordon variant</title></circle></a><a href="/setts/s12/k3b13o11b3k10lb2k10b3g6o3lg13b3~x2/"><circle cx="14.0" cy="148.6" r="4" fill="#3465a4"><title>Cascade Summers</title></circle></a><a href="/setts/s11/b6k4b10w2db10g4db6g9r2g4ly2~x4/"><circle cx="20.6" cy="190.2" r="4" fill="#3465a4"><title>O'Sullivan</title></circle></a><a href="/setts/s16/lp9k3lp4k9g15k9db11w2db11k9g15k9lp4k3lp9ly3~x4/"><circle cx="47.1" cy="168.1" r="4" fill="#3465a4"><title>Hoban (Personal)</title></circle></a><a href="/setts/s9/ly3lp9k3lp4k9g15k9db11w2~x4/"><circle cx="51.0" cy="181.4" r="4" fill="#3465a4"><title>Hoban (Name)</title></circle></a><a href="/setts/s17/db4lo2db4lb6w2k2lb6w2k2lb13lo3k4lo3k8db6w2r4~x2/"><circle cx="38.2" cy="140.9" r="4" fill="#3465a4"><title>Clauwaert (Personal)</title></circle></a><a href="/setts/s17/k16g3g8k3m12k3m12k3g8k3lb12g8lb12g8g3k16w3~x2/"><circle cx="32.3" cy="163.6" r="4" fill="#3465a4"><title>St. Margaret's School Edinburgh</title></circle></a><a href="/setts/s11/k8n22n8dg16k24dr8dg32lb32dr7lb12lb4/"><circle cx="50.3" cy="175.8" r="4" fill="#3465a4"><title>Manderson (Personal)</title></circle></a><a href="/setts/s12/k5g15dy8g15k5r4db8lt5w3lt5db8r4~x2/"><circle cx="14.0" cy="169.9" r="4" fill="#3465a4"><title>Anderson (Blackwood) (Personal)</title></circle></a><a href="/setts/s14/db22g22w6db4ly7g20db24k20r2lr24k6lr24r2k20~x2/"><circle cx="17.2" cy="130.9" r="4" fill="#3465a4"><title>Abel (2015)</title></circle></a><circle cx="14.0" cy="156.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/dr4db2o8db8db9lo2db9db8w4o4w12o2w4~x2/

@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [16 band tartan](/bands/bands1
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/361/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Innes,
+
 ## Attestations
 
 This cloth appears in 3 source records; the oldest owns this page.
@@ -319,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -419,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -678,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -918,16 +927,16 @@ The nearest existing variants by ΔTartan distance.
 1. [Innes](/setts/s22/r24k4r4k4r4k24lt7k24r4k4r4k4r24ly4r6db12r6k4g20k4r6w4/) — ΔT 0.99
 1. [Innes](/setts/s16/b7k24r4k4r4k4r24ly4r6db12r6k4dg20k4r6lr4~x2/) — ΔT 1.04
 1. [Innes](/setts/s16/b7k24r4k4r4k4r24ly4r6db12r6k4dg20k4r6lr4/) — ΔT 1.04
-1. [Innes D](/setts/s16/b3k12r2k2r2k2r12ly2r3db6r3k2dg10k2r3lr2~x2/) — ΔT 1.04
-1. [Innes D](/setts/s16/b3k12r2k2r2k2r12ly2r3db6r3k2dg10k2r3lr2/) — ΔT 1.04
+1. [Innes D](/setts/s16/b3k12r2k2r2k2r12ly2r3db6r3k2dg10k2r3lr2~x2/) — ΔT 1.05
+1. [Innes D](/setts/s16/b3k12r2k2r2k2r12ly2r3db6r3k2dg10k2r3lr2/) — ΔT 1.05
 1. [MacPherson #6](/setts/s15/r6db1r6dg8ly1k6db4k1db2k1db4r4w1k1r1~x2/) — ΔT 1.07
 1. [Wilson's No.110](/setts/s16/dp10w3k3g19r14t3k2ly3k2t3r14g19k3w3dp10t3~x2/) — ΔT 1.07
 1. [Innes (of Moray)](/setts/s16/t4k22r3k3r3k3r22ly3r4db6r4k3dg18k3r6w3~x2/) — ΔT 1.09
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/k2r12lb2dp6lb2r3db12r4ly2r4g12r3lb2dp6lb2r12k2~x2/"><circle cx="97.0" cy="126.9" r="4" fill="#3465a4"><title>Haughdale</title></circle></a><a href="/setts/s16/t1dg6r1dg1r1dg1r6ly1r1db2r1k1dg4k1r2w1~x4/"><circle cx="120.5" cy="124.3" r="4" fill="#3465a4"><title>MacInnes (MacGregor-Hastie)</title></circle></a><a href="/setts/s22/r24k4r4k4r4k24lt7k24r4k4r4k4r24ly4r6db12r6k4g20k4r6w4/"><circle cx="106.8" cy="107.0" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/setts/s16/b7k24r4k4r4k4r24ly4r6db12r6k4dg20k4r6lr4~x2/"><circle cx="76.1" cy="129.2" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/setts/s16/b7k24r4k4r4k4r24ly4r6db12r6k4dg20k4r6lr4/"><circle cx="76.1" cy="129.2" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/setts/s16/b3k12r2k2r2k2r12ly2r3db6r3k2dg10k2r3lr2~x2/"><circle cx="78.9" cy="128.6" r="4" fill="#3465a4"><title>Innes D</title></circle></a><a href="/setts/s16/b3k12r2k2r2k2r12ly2r3db6r3k2dg10k2r3lr2/"><circle cx="78.9" cy="128.6" r="4" fill="#3465a4"><title>Innes D</title></circle></a><a href="/setts/s15/r6db1r6dg8ly1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="107.8" cy="141.8" r="4" fill="#3465a4"><title>MacPherson #6</title></circle></a><a href="/setts/s16/dp10w3k3g19r14t3k2ly3k2t3r14g19k3w3dp10t3~x2/"><circle cx="77.3" cy="110.6" r="4" fill="#3465a4"><title>Wilson's No.110</title></circle></a><a href="/setts/s16/t4k22r3k3r3k3r22ly3r4db6r4k3dg18k3r6w3~x2/"><circle cx="98.4" cy="101.4" r="4" fill="#3465a4"><title>Innes (of Moray)</title></circle></a><circle cx="80.8" cy="125.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s17/k2r12lb2dp6lb2r3db12r4ly2r4g12r3lb2dp6lb2r12k2~x2/"><circle cx="96.9" cy="127.1" r="4" fill="#3465a4"><title>Haughdale</title></circle></a><a href="/setts/s16/t1dg6r1dg1r1dg1r6ly1r1db2r1k1dg4k1r2w1~x4/"><circle cx="120.4" cy="124.4" r="4" fill="#3465a4"><title>MacInnes (MacGregor-Hastie)</title></circle></a><a href="/setts/s22/r24k4r4k4r4k24lt7k24r4k4r4k4r24ly4r6db12r6k4g20k4r6w4/"><circle cx="106.7" cy="107.2" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/setts/s16/b7k24r4k4r4k4r24ly4r6db12r6k4dg20k4r6lr4~x2/"><circle cx="76.2" cy="129.4" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/setts/s16/b7k24r4k4r4k4r24ly4r6db12r6k4dg20k4r6lr4/"><circle cx="76.2" cy="129.4" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/setts/s16/b3k12r2k2r2k2r12ly2r3db6r3k2dg10k2r3lr2~x2/"><circle cx="79.1" cy="128.8" r="4" fill="#3465a4"><title>Innes D</title></circle></a><a href="/setts/s16/b3k12r2k2r2k2r12ly2r3db6r3k2dg10k2r3lr2/"><circle cx="79.1" cy="128.8" r="4" fill="#3465a4"><title>Innes D</title></circle></a><a href="/setts/s15/r6db1r6dg8ly1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="107.8" cy="142.0" r="4" fill="#3465a4"><title>MacPherson #6</title></circle></a><a href="/setts/s16/dp10w3k3g19r14t3k2ly3k2t3r14g19k3w3dp10t3~x2/"><circle cx="77.3" cy="110.8" r="4" fill="#3465a4"><title>Wilson's No.110</title></circle></a><a href="/setts/s16/t4k22r3k3r3k3r22ly3r4db6r4k3dg18k3r6w3~x2/"><circle cx="98.4" cy="101.6" r="4" fill="#3465a4"><title>Innes (of Moray)</title></circle></a><circle cx="80.8" cy="125.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/t7k24r4k4r4k4r24ly4r6db12r6k4g20k4r6w4/

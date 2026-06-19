@@ -16,7 +16,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [11364](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11364)
 
 ## Thread count
-K/2 DB32 K2 DB12 K16 R64 W2 R/22
+R/22 W2 R64 K16 DB12 K2 DB32 K/2
 ![Sett](sett.png)
 
 ## Palette
@@ -31,7 +31,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "K/2 DB32 K2 DB12 K16 R64 W2 R/22 tartan")
+![Tartan detail](tartan.png "R/22 W2 R64 K16 DB12 K2 DB32 K/2 tartan")
 
 ## Nearest tartans
 
@@ -40,7 +40,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Leslie](/setts/s8/r4k6ly1k6r4db16r32k1~x2/) — ΔT 1.08
 1. [Texas Lone Star (Fashion)](/setts/s7/r50db14w6db9lo3db4r4~x2/) — ΔT 1.26
 1. [Solberg-Wormald (Personal)](/setts/s7/r155lb16k34db48r18ly6r9/) — ΔT 1.28
-1. [Leslie Dress](/setts/s8/r4k6ly1k6r4db16r32db1/) — ΔT 1.28
+1. [Leslie Dress](/setts/s8/r4k6ly1k6r4db16r32db1~x2/) — ΔT 1.28
 1. [Robberstad](/setts/s9/r60b15r4dt10w2dt10w2dt10r4~x2/) — ΔT 1.32
 1. [Brock University Alumni Association](/setts/s6/r52lo2db16lo2db3w5~x2/) — ΔT 1.35
 1. [Texas Lone Star](/setts/s7/r50db14w6db9ly3db4r4~x2/) — ΔT 1.37
@@ -50,8 +50,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r4k6ly1k6r4db16r32k1~x2/"><circle cx="360.5" cy="119.5" r="4" fill="#3465a4"><title>Leslie</title></circle></a><a href="/setts/s7/r50db14w6db9lo3db4r4~x2/"><circle cx="372.9" cy="139.1" r="4" fill="#3465a4"><title>Texas Lone Star (Fashion)</title></circle></a><a href="/setts/s7/r155lb16k34db48r18ly6r9/"><circle cx="382.9" cy="111.0" r="4" fill="#3465a4"><title>Solberg-Wormald (Personal)</title></circle></a><a href="/setts/s8/r4k6ly1k6r4db16r32db1/"><circle cx="353.2" cy="117.5" r="4" fill="#3465a4"><title>Leslie Dress</title></circle></a><a href="/setts/s9/r60b15r4dt10w2dt10w2dt10r4~x2/"><circle cx="387.4" cy="111.0" r="4" fill="#3465a4"><title>Robberstad</title></circle></a><a href="/setts/s6/r52lo2db16lo2db3w5~x2/"><circle cx="421.0" cy="119.7" r="4" fill="#3465a4"><title>Brock University Alumni Association</title></circle></a><a href="/setts/s7/r50db14w6db9ly3db4r4~x2/"><circle cx="350.6" cy="123.7" r="4" fill="#3465a4"><title>Texas Lone Star</title></circle></a><a href="/setts/s12/w5dr1r20dr4w2dr4w2dr24o2dr1o4dr4~x2/"><circle cx="320.3" cy="105.2" r="4" fill="#3465a4"><title>Chrysanthemum (Japanese Four Seasons)</title></circle></a><a href="/setts/s6/m3w1m20k8w8g2~x4/"><circle cx="301.6" cy="152.2" r="4" fill="#3465a4"><title>Nisbet Dress Rose (Dance)</title></circle></a><a href="/setts/s10/w8r100k42dg42r5k3r5t42r100w8/"><circle cx="338.0" cy="96.6" r="4" fill="#3465a4"><title>Unidentified Plaid #7</title></circle></a><circle cx="353.1" cy="114.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r4k6ly1k6r4db16r32k1~x2/"><circle cx="360.2" cy="119.4" r="4" fill="#3465a4"><title>Leslie</title></circle></a><a href="/setts/s7/r50db14w6db9lo3db4r4~x2/"><circle cx="372.5" cy="138.9" r="4" fill="#3465a4"><title>Texas Lone Star (Fashion)</title></circle></a><a href="/setts/s7/r155lb16k34db48r18ly6r9/"><circle cx="382.5" cy="110.9" r="4" fill="#3465a4"><title>Solberg-Wormald (Personal)</title></circle></a><a href="/setts/s8/r4k6ly1k6r4db16r32db1~x2/"><circle cx="353.0" cy="117.3" r="4" fill="#3465a4"><title>Leslie Dress</title></circle></a><a href="/setts/s9/r60b15r4dt10w2dt10w2dt10r4~x2/"><circle cx="387.0" cy="110.8" r="4" fill="#3465a4"><title>Robberstad</title></circle></a><a href="/setts/s6/r52lo2db16lo2db3w5~x2/"><circle cx="420.6" cy="119.5" r="4" fill="#3465a4"><title>Brock University Alumni Association</title></circle></a><a href="/setts/s7/r50db14w6db9ly3db4r4~x2/"><circle cx="350.1" cy="123.4" r="4" fill="#3465a4"><title>Texas Lone Star</title></circle></a><a href="/setts/s12/w5dr1r20dr4w2dr4w2dr24o2dr1o4dr4~x2/"><circle cx="319.9" cy="105.1" r="4" fill="#3465a4"><title>Chrysanthemum (Japanese Four Seasons)</title></circle></a><a href="/setts/s6/m3w1m20k8w8g2~x4/"><circle cx="301.4" cy="152.0" r="4" fill="#3465a4"><title>Nisbet Dress Rose (Dance)</title></circle></a><a href="/setts/s10/w8r100k42dg42r5k3r5t42r100w8/"><circle cx="337.6" cy="96.5" r="4" fill="#3465a4"><title>Unidentified Plaid #7</title></circle></a><circle cx="352.7" cy="113.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r11w1r32k8db6k1db16k1~x2/

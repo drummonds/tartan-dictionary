@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -916,14 +919,14 @@ The nearest existing variants by ΔTartan distance.
 1. [MacInroy Clan Tartan Tartan Number: 1081. Earliest known date: 1819 The pattern books of the old firm of weavers, Wilson's of Bannockburn, provide a reliable early source for this tartan. Wilson's were in business with a monopoly to supply tartan to the regiments in the second half of the 18th century before this pattern was recorded. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/k1g3k3r1dp3r1dp1r3g1k1~x4/) — ΔT 1.37
 1. [Logan, or MacLennan](/setts/s10/db1r1db1r1db4k4g4r1g1ly1~x4/) — ΔT 1.45
 1. [Martin](/setts/s9/ly8g16k6g6k6g6k16r21k5/) — ΔT 1.47
-1. [Clark, Red](/setts/s8/r13k4y4k4db13k4y4k4~x4/) — ΔT 1.51
-1. [Borthwick](/setts/s9/g12k2r12k3y12k16y12k3r6~x2/) — ΔT 1.52
+1. [Clark, Red](/setts/s8/db13k4y4k4r13~x4/) — ΔT 1.51
+1. [Borthwick](/setts/s9/g12k2r12k3y12k16y12k3r6~x2/) — ΔT 1.53
 1. [Unnamed, No 30](/setts/s9/k1db3k3g3r1g3k3g1r1~x2/) — ΔT 1.53
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k1g3k3r1db3r1db1r3g1k1~x8/"><circle cx="76.8" cy="258.8" r="4" fill="#3465a4"><title>MacInroy (Clan)</title></circle></a><a href="/setts/s10/k1dg3k3r1db3r1db1r3dg1k1~x4/"><circle cx="77.1" cy="257.9" r="4" fill="#3465a4"><title>MacInroy</title></circle></a><a href="/setts/s10/db7r3db9r2k10g9r3g2r2g7~x2/"><circle cx="95.5" cy="230.6" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/setts/s12/db8r2db2r4db10r2k11g10r4g2r2g8~x2/"><circle cx="95.7" cy="211.3" r="4" fill="#3465a4"><title>MacDonald 2</title></circle></a><a href="/setts/s10/k1g3k3r1dp3r1dp1r3g1k1~x4/"><circle cx="80.6" cy="253.7" r="4" fill="#3465a4"><title>MacInroy Clan Tartan Tartan Number: 1081. Earliest known date: 1819 The pattern books of the old firm of weavers, Wilson's of Bannockburn, provide a reliable early source for this tartan. Wilson's were in business with a monopoly to supply tartan to the regiments in the second half of the 18th century before this pattern was recorded. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/db1r1db1r1db4k4g4r1g1ly1~x4/"><circle cx="62.6" cy="203.3" r="4" fill="#3465a4"><title>Logan, or MacLennan</title></circle></a><a href="/setts/s9/ly8g16k6g6k6g6k16r21k5/"><circle cx="97.6" cy="238.2" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/setts/s8/r13k4y4k4db13k4y4k4~x4/"><circle cx="104.8" cy="251.6" r="4" fill="#3465a4"><title>Clark, Red</title></circle></a><a href="/setts/s9/g12k2r12k3y12k16y12k3r6~x2/"><circle cx="100.0" cy="214.0" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s9/k1db3k3g3r1g3k3g1r1~x2/"><circle cx="82.6" cy="269.3" r="4" fill="#3465a4"><title>Unnamed, No 30</title></circle></a><circle cx="48.4" cy="246.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k1g3k3r1db3r1db1r3g1k1~x8/"><circle cx="77.0" cy="258.9" r="4" fill="#3465a4"><title>MacInroy (Clan)</title></circle></a><a href="/setts/s10/k1dg3k3r1db3r1db1r3dg1k1~x4/"><circle cx="77.3" cy="258.0" r="4" fill="#3465a4"><title>MacInroy</title></circle></a><a href="/setts/s10/db7r3db9r2k10g9r3g2r2g7~x2/"><circle cx="95.6" cy="230.6" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/setts/s12/db8r2db2r4db10r2k11g10r4g2r2g8~x2/"><circle cx="95.8" cy="211.3" r="4" fill="#3465a4"><title>MacDonald 2</title></circle></a><a href="/setts/s10/k1g3k3r1dp3r1dp1r3g1k1~x4/"><circle cx="80.7" cy="253.7" r="4" fill="#3465a4"><title>MacInroy Clan Tartan Tartan Number: 1081. Earliest known date: 1819 The pattern books of the old firm of weavers, Wilson's of Bannockburn, provide a reliable early source for this tartan. Wilson's were in business with a monopoly to supply tartan to the regiments in the second half of the 18th century before this pattern was recorded. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/db1r1db1r1db4k4g4r1g1ly1~x4/"><circle cx="62.7" cy="203.4" r="4" fill="#3465a4"><title>Logan, or MacLennan</title></circle></a><a href="/setts/s9/ly8g16k6g6k6g6k16r21k5/"><circle cx="97.8" cy="238.1" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/setts/s8/db13k4y4k4r13~x4/"><circle cx="105.0" cy="251.6" r="4" fill="#3465a4"><title>Clark, Red</title></circle></a><a href="/setts/s9/g12k2r12k3y12k16y12k3r6~x2/"><circle cx="100.2" cy="213.9" r="4" fill="#3465a4"><title>Borthwick</title></circle></a><a href="/setts/s9/k1db3k3g3r1g3k3g1r1~x2/"><circle cx="82.9" cy="269.2" r="4" fill="#3465a4"><title>Unnamed, No 30</title></circle></a><circle cx="48.6" cy="246.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/k1g3k3r1db3r1db1r3g1k1~x4/

@@ -34,8 +34,8 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Gedling, Peter (Personal)](/setts/s9/r8lg9dp3ly1dp1ly2dp2k32dp3~x2/) — ΔT 1.42
 1. [Superstition Fire Honor Guard Pipes & Drums](/setts/s9/t12w1t2k3r15k1lo2k39r2~x2/) — ΔT 1.42
+1. [Gedling, Peter (Personal)](/setts/s9/r8lg9dp3ly1dp1ly2dp2k32dp3~x2/) — ΔT 1.42
 1. [Dunlop](/setts/s8/k3r1k30w1o28g1o1w3~x2/) — ΔT 1.45
 1. [Sutherland de Albergaria (Personal)](/setts/s8/w10k2w2k66ly6r48k5r8/) — ΔT 1.57
 1. [Southdown](/setts/s9/k8r1k3w5k5w3k5o23r3~x2/) — ΔT 1.57
@@ -43,12 +43,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Midnight Balmoral (Personal)](/setts/s9/t4w1k36db2r4w1db14r8w1~x2/) — ΔT 1.59
 1. [(5) Ruxton](/setts/s14/r21k3lo1k3k2db1k3db8k29lo4k2lo1k7lo3~x2/) — ΔT 1.60
 1. [Sens](/setts/s10/r26w2ly1k3ly4r8k32w1k1w3~x2/) — ΔT 1.62
-1. [Angus Dress 1992 (Dance)](/setts/s11/k3r1k32db6w20db2r1db2r1db2r3~x2/) — ΔT 1.64
+1. [Marjoribanks](/setts/s8/w3k3w3k36r40w1r2ly3~x2/) — ΔT 1.64
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r8lg9dp3ly1dp1ly2dp2k32dp3~x2/"><circle cx="291.9" cy="87.8" r="4" fill="#3465a4"><title>Gedling, Peter (Personal)</title></circle></a><a href="/setts/s9/t12w1t2k3r15k1lo2k39r2~x2/"><circle cx="336.9" cy="82.7" r="4" fill="#3465a4"><title>Superstition Fire Honor Guard Pipes &amp; Drums</title></circle></a><a href="/setts/s8/k3r1k30w1o28g1o1w3~x2/"><circle cx="305.9" cy="101.6" r="4" fill="#3465a4"><title>Dunlop</title></circle></a><a href="/setts/s8/w10k2w2k66ly6r48k5r8/"><circle cx="321.5" cy="107.2" r="4" fill="#3465a4"><title>Sutherland de Albergaria (Personal)</title></circle></a><a href="/setts/s9/k8r1k3w5k5w3k5o23r3~x2/"><circle cx="224.8" cy="132.0" r="4" fill="#3465a4"><title>Southdown</title></circle></a><a href="/setts/s7/k60w2r10dg6w4r15ly10~x2/"><circle cx="316.7" cy="109.4" r="4" fill="#3465a4"><title>Iberia Dress, Black (Fashion)</title></circle></a><a href="/setts/s9/t4w1k36db2r4w1db14r8w1~x2/"><circle cx="297.2" cy="93.4" r="4" fill="#3465a4"><title>Midnight Balmoral (Personal)</title></circle></a><a href="/setts/s14/r21k3lo1k3k2db1k3db8k29lo4k2lo1k7lo3~x2/"><circle cx="278.2" cy="81.6" r="4" fill="#3465a4"><title>(5) Ruxton</title></circle></a><a href="/setts/s10/r26w2ly1k3ly4r8k32w1k1w3~x2/"><circle cx="294.1" cy="94.1" r="4" fill="#3465a4"><title>Sens</title></circle></a><a href="/setts/s11/k3r1k32db6w20db2r1db2r1db2r3~x2/"><circle cx="272.2" cy="82.3" r="4" fill="#3465a4"><title>Angus Dress 1992 (Dance)</title></circle></a><circle cx="304.3" cy="94.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/t12w1t2k3r15k1lo2k39r2~x2/"><circle cx="336.7" cy="82.6" r="4" fill="#3465a4"><title>Superstition Fire Honor Guard Pipes &amp; Drums</title></circle></a><a href="/setts/s9/r8lg9dp3ly1dp1ly2dp2k32dp3~x2/"><circle cx="291.8" cy="87.8" r="4" fill="#3465a4"><title>Gedling, Peter (Personal)</title></circle></a><a href="/setts/s8/k3r1k30w1o28g1o1w3~x2/"><circle cx="305.8" cy="101.5" r="4" fill="#3465a4"><title>Dunlop</title></circle></a><a href="/setts/s8/w10k2w2k66ly6r48k5r8/"><circle cx="321.3" cy="107.1" r="4" fill="#3465a4"><title>Sutherland de Albergaria (Personal)</title></circle></a><a href="/setts/s9/k8r1k3w5k5w3k5o23r3~x2/"><circle cx="224.7" cy="131.9" r="4" fill="#3465a4"><title>Southdown</title></circle></a><a href="/setts/s7/k60w2r10dg6w4r15ly10~x2/"><circle cx="316.5" cy="109.3" r="4" fill="#3465a4"><title>Iberia Dress, Black (Fashion)</title></circle></a><a href="/setts/s9/t4w1k36db2r4w1db14r8w1~x2/"><circle cx="297.2" cy="93.3" r="4" fill="#3465a4"><title>Midnight Balmoral (Personal)</title></circle></a><a href="/setts/s14/r21k3lo1k3k2db1k3db8k29lo4k2lo1k7lo3~x2/"><circle cx="278.2" cy="81.6" r="4" fill="#3465a4"><title>(5) Ruxton</title></circle></a><a href="/setts/s10/r26w2ly1k3ly4r8k32w1k1w3~x2/"><circle cx="293.9" cy="94.0" r="4" fill="#3465a4"><title>Sens</title></circle></a><a href="/setts/s8/w3k3w3k36r40w1r2ly3~x2/"><circle cx="320.8" cy="93.4" r="4" fill="#3465a4"><title>Marjoribanks</title></circle></a><circle cx="304.2" cy="93.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/k46r8lb1r8k8lb6o6lb14o1lb6~x4/

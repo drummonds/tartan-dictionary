@@ -23,13 +23,13 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 
 | Tartans |
 |---------------|
-| [MacDonald of Kingsburgh](/setts/s9/lo3g2lo2g21w2r18lo2g3r3~x2/)|
-|![MacDonald of Kingsburgh example sett](/setts/s9/lo3g2lo2g21w2r18lo2g3r3~x2/sett.png)|
+| [MacDonald of Kingsburgh](/setts/s9/r3g3lo2r18w2g21lo2g2lo3~x2/)|
+|![MacDonald of Kingsburgh example sett](/setts/s9/r3g3lo2r18w2g21lo2g2lo3~x2/sett.png)|
 
 ### R G LY R W G LY G LY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R G LY R W G LY G LY</span></span>
 
 | Tartans |
 |---------------|
-| [MacDonald of Kingsburgh](/setts/s9/ly3g1ly1g21w1r18ly1g3r3~x2/)|
-|![MacDonald of Kingsburgh example sett](/setts/s9/ly3g1ly1g21w1r18ly1g3r3~x2/sett.png)|
+| [MacDonald of Kingsburgh](/setts/s9/r3g3ly1r18w1g21ly1g1ly3~x2/)|
+|![MacDonald of Kingsburgh example sett](/setts/s9/r3g3ly1r18w1g21ly1g1ly3~x2/sett.png)|
 

@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/
 Original link http://www.tartansauthority.com/tartan-ferret/display/7788/
 
 ## Thread count
-LN/2 K20 G2 K4 G24 R4 B2 R/140
+R/140 B2 R4 G24 K4 G2 K20 LN/2
 ![Sett](sett.png)
 
 ## Palette
@@ -26,7 +26,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "LN/2 K20 G2 K4 G24 R4 B2 R/140 tartan")
+![Tartan detail](tartan.png "R/140 B2 R4 G24 K4 G2 K20 LN/2 tartan")
 
 ## Nearest tartans
 
@@ -45,8 +45,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r96db1dg24db1r10db1dg12k1w4~x2/"><circle cx="514.3" cy="61.8" r="4" fill="#3465a4"><title>MacAulay (MacGregor)</title></circle></a><a href="/setts/s9/r50db3g6db1r3db1g8k1lb3~x2/"><circle cx="507.4" cy="66.8" r="4" fill="#3465a4"><title>MacAulay of Ardincaple (Clan)</title></circle></a><a href="/setts/s9/r72g6ly2g11b2g2b2r9k2~x2/"><circle cx="533.1" cy="74.3" r="4" fill="#3465a4"><title>Junor</title></circle></a><a href="/setts/s8/r70k2ly1dg18r10k4t4w1~x2/"><circle cx="504.3" cy="60.6" r="4" fill="#3465a4"><title>MacIngust</title></circle></a><a href="/setts/s8/r48lr4db4k4r12db4r1ly4~x2/"><circle cx="518.2" cy="81.5" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/setts/s8/r48lr4db4k4r12db4r1ly4/"><circle cx="518.2" cy="81.5" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/setts/s9/r52k5ly5lo5do5k2r6k1ly2~x2/"><circle cx="471.0" cy="52.9" r="4" fill="#3465a4"><title>Braemar Castle</title></circle></a><a href="/setts/s9/r72db6ly2db11t2db2t2r9k2~x2/"><circle cx="528.8" cy="70.8" r="4" fill="#3465a4"><title>Junor (Personal)</title></circle></a><a href="/setts/s8/r90lr1k2lb10k5r2lr2lb2~x2/"><circle cx="581.5" cy="66.2" r="4" fill="#3465a4"><title>Lock in Northumberland (Name)</title></circle></a><a href="/setts/s8/r72k6lb2k11ly2db2ly2r18~x2/"><circle cx="552.2" cy="85.0" r="4" fill="#3465a4"><title>Princess Elizabeth (Royal)</title></circle></a><circle cx="528.0" cy="67.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r96db1dg24db1r10db1dg12k1w4~x2/"><circle cx="513.7" cy="61.6" r="4" fill="#3465a4"><title>MacAulay (MacGregor)</title></circle></a><a href="/setts/s9/r50db3g6db1r3db1g8k1lb3~x2/"><circle cx="506.7" cy="66.7" r="4" fill="#3465a4"><title>MacAulay of Ardincaple (Clan)</title></circle></a><a href="/setts/s9/r72g6ly2g11b2g2b2r9k2~x2/"><circle cx="532.4" cy="74.1" r="4" fill="#3465a4"><title>Junor</title></circle></a><a href="/setts/s8/r70k2ly1dg18r10k4t4w1~x2/"><circle cx="503.7" cy="60.4" r="4" fill="#3465a4"><title>MacIngust</title></circle></a><a href="/setts/s8/r48lr4db4k4r12db4r1ly4~x2/"><circle cx="517.7" cy="81.3" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/setts/s8/r48lr4db4k4r12db4r1ly4/"><circle cx="517.7" cy="81.3" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/setts/s9/r52k5ly5lo5do5k2r6k1ly2~x2/"><circle cx="470.4" cy="52.7" r="4" fill="#3465a4"><title>Braemar Castle</title></circle></a><a href="/setts/s9/r72db6ly2db11t2db2t2r9k2~x2/"><circle cx="528.2" cy="70.6" r="4" fill="#3465a4"><title>Junor (Personal)</title></circle></a><a href="/setts/s8/r90lr1k2lb10k5r2lr2lb2~x2/"><circle cx="580.8" cy="65.9" r="4" fill="#3465a4"><title>Lock in Northumberland (Name)</title></circle></a><a href="/setts/s8/r72k6lb2k11ly2db2ly2r18~x2/"><circle cx="551.5" cy="84.7" r="4" fill="#3465a4"><title>Princess Elizabeth (Royal)</title></circle></a><circle cx="527.3" cy="67.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r70b1r2g12k2g1k10w1~x2/

@@ -18,10 +18,10 @@ GRKRGRKRGR
 
 
 
-### G R K R G R K R G R <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">G R K R G R K R G R</span></span>
+### R G R K R G R K R G <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R G R K R G R K R G</span></span>
 
 | Tartans |
 |---------------|
-| [Waverley Care Aids Trust](/setts/s10/r8g2r2k1r1g2r1k1r2g2~x10/)|
-|![Waverley Care Aids Trust example sett](/setts/s10/r8g2r2k1r1g2r1k1r2g2~x10/sett.png)|
+| [Waverley Care Aids Trust](/setts/s10/r8g2r2k1r1g2~x10/)|
+|![Waverley Care Aids Trust example sett](/setts/s10/r8g2r2k1r1g2~x10/sett.png)|
 

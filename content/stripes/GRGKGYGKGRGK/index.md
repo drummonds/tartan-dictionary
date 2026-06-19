@@ -18,10 +18,10 @@ GRGKGYGKGRGK
 
 
 
-### DY R DY K DY LO DY K DY R DY K <span class="pat"><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="seq">DY R DY K DY LO DY K DY R DY K</span></span>
+### K DY R DY K DY LO DY K DY R DY <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#FF9C34"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#3A2B0D"></span><span class="seq">K DY R DY K DY LO DY K DY R DY</span></span>
 
 | Tartans |
 |---------------|
-| [Welsh National #2](/setts/s12/k4dy2r2dy2k2dy15lo2dy15k2dy2r2dy2~x4/)|
-|![Welsh National #2 example sett](/setts/s12/k4dy2r2dy2k2dy15lo2dy15k2dy2r2dy2~x4/sett.png)|
+| [Welsh National #2](/setts/s12/k4dy2r2dy2k2dy15lo2~x4/)|
+|![Welsh National #2 example sett](/setts/s12/k4dy2r2dy2k2dy15lo2~x4/sett.png)|
 

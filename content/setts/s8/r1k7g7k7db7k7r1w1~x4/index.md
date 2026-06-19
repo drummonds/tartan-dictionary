@@ -9,6 +9,12 @@ This was sourced from tartans-authority.  It is a [8 band tartan](/bands/bands8/
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6741/
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Tennent from Strathaven
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -47,7 +53,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [BlackRock (Symmetrical)](/setts/s8/dg10w4r4k8dg20k6dg3k10~x2/) — ΔT 0.75
+1. [BlackRock (Symmetrical)](/setts/s8/k10dg3k6dg20k8r4w4dg10~x2/) — ΔT 0.75
 1. [Duncan](/setts/s6/k4dg21lr3dg21db21r4~x2/) — ΔT 1.15
 1. [Duncan](/setts/s6/k4dg21lr3dg21db21r4/) — ΔT 1.15
 1. [Forbes - 1947 (Lyon Court)](/setts/s7/db1k6db6k6g6k1w1~x6/) — ΔT 1.18
@@ -60,8 +66,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/dg10w4r4k8dg20k6dg3k10~x2/"><circle cx="202.8" cy="231.2" r="4" fill="#3465a4"><title>BlackRock (Symmetrical)</title></circle></a><a href="/setts/s6/k4dg21lr3dg21db21r4~x2/"><circle cx="277.8" cy="244.8" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/setts/s6/k4dg21lr3dg21db21r4/"><circle cx="277.8" cy="244.8" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/setts/s7/db1k6db6k6g6k1w1~x6/"><circle cx="216.1" cy="254.0" r="4" fill="#3465a4"><title>Forbes - 1947 (Lyon Court)</title></circle></a><a href="/setts/s6/k4dg21lb3dg21db21r4/"><circle cx="258.6" cy="235.5" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/setts/s8/dg8r2dg2r3dg8db12dg2ly2~x2/"><circle cx="263.8" cy="246.1" r="4" fill="#3465a4"><title>Glen Nevis #1 (Fashion)</title></circle></a><a href="/setts/s8/db10o3db10r3k21g20k15r3~x2/"><circle cx="172.8" cy="224.1" r="4" fill="#3465a4"><title>Williamson/Smart (Personal)</title></circle></a><a href="/setts/s7/r3dg10r3dg14db16dg3ly2~x2/"><circle cx="285.4" cy="241.5" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/setts/s10/k14t2db6dg7r2k14db6t2db2t4~x2/"><circle cx="211.6" cy="214.3" r="4" fill="#3465a4"><title>Unidentified #2</title></circle></a><a href="/setts/s10/db8k1db8k2g6r1g6k2db8w1~x2/"><circle cx="238.8" cy="201.4" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><circle cx="236.0" cy="231.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k10dg3k6dg20k8r4w4dg10~x2/"><circle cx="203.0" cy="231.2" r="4" fill="#3465a4"><title>BlackRock (Symmetrical)</title></circle></a><a href="/setts/s6/k4dg21lr3dg21db21r4~x2/"><circle cx="278.0" cy="244.7" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/setts/s6/k4dg21lr3dg21db21r4/"><circle cx="278.0" cy="244.7" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/setts/s7/db1k6db6k6g6k1w1~x6/"><circle cx="216.3" cy="253.9" r="4" fill="#3465a4"><title>Forbes - 1947 (Lyon Court)</title></circle></a><a href="/setts/s6/k4dg21lb3dg21db21r4/"><circle cx="258.8" cy="235.4" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/setts/s8/dg8r2dg2r3dg8db12dg2ly2~x2/"><circle cx="264.0" cy="246.1" r="4" fill="#3465a4"><title>Glen Nevis #1 (Fashion)</title></circle></a><a href="/setts/s8/db10o3db10r3k21g20k15r3~x2/"><circle cx="173.0" cy="224.2" r="4" fill="#3465a4"><title>Williamson/Smart (Personal)</title></circle></a><a href="/setts/s7/r3dg10r3dg14db16dg3ly2~x2/"><circle cx="285.4" cy="241.4" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/setts/s10/k14t2db6dg7r2k14db6t2db2t4~x2/"><circle cx="211.7" cy="214.3" r="4" fill="#3465a4"><title>Unidentified #2</title></circle></a><a href="/setts/s10/db8k1db8k2g6r1g6k2db8w1~x2/"><circle cx="238.8" cy="201.3" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><circle cx="236.1" cy="231.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r1k7g7k7db7k7r1w1~x4/

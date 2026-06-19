@@ -21,7 +21,7 @@ GBBBY
 Grouped by stripe pattern — the 3 human-palette shadings of this band pattern, near-identical setts together.
 
 
-### DG DB DB DB LY <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DG DB DB DB LY</span></span>
+### LY DB DB DB DG <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="seq">LY DB DB DB DG</span></span>
 
 | Tartans |
 |---------------|
@@ -30,17 +30,17 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 | [Open Championship, The](/setts/s5/dg1db2db5db11ly1~x4/)|
 |![Open Championship, The example sett](/setts/s5/dg1db2db5db11ly1~x4/sett.png)|
 
-### G DP DB DP LY <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G DP DB DP LY</span></span>
-
-| Tartans |
-|---------------|
-| [Bryson (2000)](/setts/s5/g5dp2db5dp10ly2~x2/)|
-|![Bryson (2000) example sett](/setts/s5/g5dp2db5dp10ly2~x2/sett.png)|
-
-### Y DB DO DB LY <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">Y DB DO DB LY</span></span>
+### LY DB DO DB Y <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#412714"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LY DB DO DB Y</span></span>
 
 | Tartans |
 |---------------|
 | [Pearson](/setts/s5/ly6db28do2db28y1~x2/)|
 |![Pearson example sett](/setts/s5/ly6db28do2db28y1~x2/sett.png)|
+
+### LY DP DB DP G <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#4B0B4F"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY DP DB DP G</span></span>
+
+| Tartans |
+|---------------|
+| [Bryson (2000)](/setts/s5/g5dp2db5dp10ly2~x2/)|
+|![Bryson (2000) example sett](/setts/s5/g5dp2db5dp10ly2~x2/sett.png)|
 

@@ -2,12 +2,18 @@
 title: "Englehart"
 date: 2023-03-18
 ---
-**Bands:** [GRBY](/stripes/grby/) · **Stripes:** [G R DB LY](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">G R DB LY</span></span>
+**Bands:** [YBRG](/stripes/ybrg/) · **Stripes:** [LY DB R G](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">LY DB R G</span></span>
 
 
 This was sourced from weddslist.  It is a [4 band tartan](/bands/bands4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Englehart Commemorative
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -920,14 +929,14 @@ The nearest existing variants by ΔTartan distance.
 1. [MacMillan/Isetan](/setts/s6/g68r24g8lo18g3lo18~x2/) — ΔT 1.86
 1. [Jacobite #2](/setts/s6/ly70k30w3dg30k3ly10/) — ΔT 1.93
 1. [Oxford University](/setts/s4/db9dg16g56ly4~x2/) — ΔT 1.94
-1. [Herbage](/setts/s5/g25k8y10r1y3~x4/) — ΔT 1.99
+1. [Herbage](/setts/s5/g25k8y10r1y3~x4/) — ΔT 2.00
 1. [Clare, Richard (Personal)](/setts/s5/dt5lo5dy13g41r3~x2/) — ΔT 2.02
 1. [Pollock](/setts/s7/g3r16w4k6g28r1g3~x2/) — ΔT 2.02
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/g72r25ly8w5/"><circle cx="392.6" cy="208.3" r="4" fill="#3465a4"><title>Sugell (Name?)</title></circle></a><a href="/setts/s4/g22w14r7ly1~x2/"><circle cx="268.3" cy="194.1" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><a href="/setts/s4/dg27r9n2ly14~x4/"><circle cx="265.8" cy="218.3" r="4" fill="#3465a4"><title>Englehart, City of</title></circle></a><a href="/setts/s4/g56dy13ly13w5~x2/"><circle cx="365.0" cy="224.8" r="4" fill="#3465a4"><title>Colonial Marine (Aliens Legacy)</title></circle></a><a href="/setts/s6/g68r24g8lo18g3lo18~x2/"><circle cx="368.2" cy="192.6" r="4" fill="#3465a4"><title>MacMillan/Isetan</title></circle></a><a href="/setts/s6/ly70k30w3dg30k3ly10/"><circle cx="288.5" cy="145.9" r="4" fill="#3465a4"><title>Jacobite #2</title></circle></a><a href="/setts/s4/db9dg16g56ly4~x2/"><circle cx="385.0" cy="221.1" r="4" fill="#3465a4"><title>Oxford University</title></circle></a><a href="/setts/s5/g25k8y10r1y3~x4/"><circle cx="302.0" cy="181.7" r="4" fill="#3465a4"><title>Herbage</title></circle></a><a href="/setts/s5/dt5lo5dy13g41r3~x2/"><circle cx="360.4" cy="196.8" r="4" fill="#3465a4"><title>Clare, Richard (Personal)</title></circle></a><a href="/setts/s7/g3r16w4k6g28r1g3~x2/"><circle cx="322.6" cy="141.7" r="4" fill="#3465a4"><title>Pollock</title></circle></a><circle cx="356.5" cy="192.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/g72r25ly8w5/"><circle cx="392.4" cy="208.0" r="4" fill="#3465a4"><title>Sugell (Name?)</title></circle></a><a href="/setts/s4/g22w14r7ly1~x2/"><circle cx="268.0" cy="193.9" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><a href="/setts/s4/dg27r9n2ly14~x4/"><circle cx="265.6" cy="218.1" r="4" fill="#3465a4"><title>Englehart, City of</title></circle></a><a href="/setts/s4/g56dy13ly13w5~x2/"><circle cx="364.7" cy="224.6" r="4" fill="#3465a4"><title>Colonial Marine (Aliens Legacy)</title></circle></a><a href="/setts/s6/g68r24g8lo18g3lo18~x2/"><circle cx="367.9" cy="192.4" r="4" fill="#3465a4"><title>MacMillan/Isetan</title></circle></a><a href="/setts/s6/ly70k30w3dg30k3ly10/"><circle cx="288.1" cy="145.6" r="4" fill="#3465a4"><title>Jacobite #2</title></circle></a><a href="/setts/s4/db9dg16g56ly4~x2/"><circle cx="384.8" cy="220.9" r="4" fill="#3465a4"><title>Oxford University</title></circle></a><a href="/setts/s5/g25k8y10r1y3~x4/"><circle cx="301.9" cy="181.5" r="4" fill="#3465a4"><title>Herbage</title></circle></a><a href="/setts/s5/dt5lo5dy13g41r3~x2/"><circle cx="360.1" cy="196.7" r="4" fill="#3465a4"><title>Clare, Richard (Personal)</title></circle></a><a href="/setts/s7/g3r16w4k6g28r1g3~x2/"><circle cx="322.3" cy="141.5" r="4" fill="#3465a4"><title>Pollock</title></circle></a><circle cx="356.2" cy="192.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/g53r13db2ly22~x2/

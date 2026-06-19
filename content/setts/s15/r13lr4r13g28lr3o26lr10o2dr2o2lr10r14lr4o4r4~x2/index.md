@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-DRa/8 LT8 N8 DRa28 N20 LT4 DR4 LT4 N20 LT52 N6 G56 DRa26 N8 DRa/26
+DRa/26 N8 DRa26 G56 N6 LT52 N20 LT4 DR4 LT4 N20 DRa28 N8 LT8 DRa/8
 ![Sett](sett.png)
 
 ## Palette
@@ -903,21 +906,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [MacPherson #9](/setts/s15/r13lr4r13dg28lr3dy26lr10dy2dy2dy2lr10r14lr4dy4r4~x2/) — ΔT 0.57
+1. [MacPherson #9](/setts/s15/r13lr4r13dg28lr3dy26lr10dy2dy2dy2lr10r14lr4dy4r4~x2/) — ΔT 0.58
 1. [Stuart / Stewart, Riding Cloak](/setts/s11/w1db4o8r4w1r4w1r4g16db2w1~x2/) — ΔT 1.16
-1. [Bridge of Weir Leather Co. (Corp)](/setts/s12/r3ly14y3ly3y3ly4y11dt11r11r11ly1dt1~x2/) — ΔT 1.17
+1. [Bridge of Weir Leather Co. (Corp)](/setts/s12/r3ly14y3ly3y3ly4y11dt11r11r11ly1dt1~x2/) — ΔT 1.16
 1. [Prince Edward Island](/setts/s15/g16o1g2o1g2o12r12o1ly2o1r12o12g12o1w2~x2/) — ΔT 1.18
 1. [Pope (Welsh Name)](/setts/s12/k10y26k2y4k2y26k3r36k3g30k3r2/) — ΔT 1.26
 1. [Stuart/Stewart Riding Cloak](/setts/s11/w1db4dy8r4w1r4w1r4dg16db2w1~x2/) — ΔT 1.27
-1. [Norwich No.056](/setts/s16/r5db1r5g13db8t5r5w1db3w1r5t5db8g13r5db1~x2/) — ΔT 1.27
+1. [Norwich No.056](/setts/s16/r5db1r5g13db8t5r5w1db3~x2/) — ΔT 1.27
 1. [Clarks No. 1 (Fashion)](/setts/s10/db5t2db11g2db2g6r17lo9db1r1~x2/) — ΔT 1.29
-1. [Callum, Brown (Fashion)](/setts/s12/o3lr2o2lr3o20db6dy3db2dy2db2dy16r3~x2/) — ΔT 1.31
+1. [Callum, Brown (Fashion)](/setts/s12/r3dy16db2dy2db2dy3db6o20lr3o2lr2o3~x2/) — ΔT 1.31
 1. [Devon 2000](/setts/s14/db24g4dg2g8dg2g4db12g3r22ly3b8g3r22ly6~x2/) — ΔT 1.32
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r13lr4r13dg28lr3dy26lr10dy2dy2dy2lr10r14lr4dy4r4~x2/"><circle cx="162.9" cy="140.5" r="4" fill="#3465a4"><title>MacPherson #9</title></circle></a><a href="/setts/s11/w1db4o8r4w1r4w1r4g16db2w1~x2/"><circle cx="178.5" cy="133.5" r="4" fill="#3465a4"><title>Stuart / Stewart, Riding Cloak</title></circle></a><a href="/setts/s12/r3ly14y3ly3y3ly4y11dt11r11r11ly1dt1~x2/"><circle cx="136.2" cy="156.6" r="4" fill="#3465a4"><title>Bridge of Weir Leather Co. (Corp)</title></circle></a><a href="/setts/s15/g16o1g2o1g2o12r12o1ly2o1r12o12g12o1w2~x2/"><circle cx="225.7" cy="145.5" r="4" fill="#3465a4"><title>Prince Edward Island</title></circle></a><a href="/setts/s12/k10y26k2y4k2y26k3r36k3g30k3r2/"><circle cx="203.4" cy="128.8" r="4" fill="#3465a4"><title>Pope (Welsh Name)</title></circle></a><a href="/setts/s11/w1db4dy8r4w1r4w1r4dg16db2w1~x2/"><circle cx="174.5" cy="131.5" r="4" fill="#3465a4"><title>Stuart/Stewart Riding Cloak</title></circle></a><a href="/setts/s16/r5db1r5g13db8t5r5w1db3w1r5t5db8g13r5db1~x2/"><circle cx="129.5" cy="152.4" r="4" fill="#3465a4"><title>Norwich No.056</title></circle></a><a href="/setts/s10/db5t2db11g2db2g6r17lo9db1r1~x2/"><circle cx="183.7" cy="144.0" r="4" fill="#3465a4"><title>Clarks No. 1 (Fashion)</title></circle></a><a href="/setts/s12/o3lr2o2lr3o20db6dy3db2dy2db2dy16r3~x2/"><circle cx="204.7" cy="145.6" r="4" fill="#3465a4"><title>Callum, Brown (Fashion)</title></circle></a><a href="/setts/s14/db24g4dg2g8dg2g4db12g3r22ly3b8g3r22ly6~x2/"><circle cx="141.3" cy="123.0" r="4" fill="#3465a4"><title>Devon 2000</title></circle></a><circle cx="166.6" cy="140.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r13lr4r13dg28lr3dy26lr10dy2dy2dy2lr10r14lr4dy4r4~x2/"><circle cx="162.7" cy="140.7" r="4" fill="#3465a4"><title>MacPherson #9</title></circle></a><a href="/setts/s11/w1db4o8r4w1r4w1r4g16db2w1~x2/"><circle cx="178.3" cy="133.6" r="4" fill="#3465a4"><title>Stuart / Stewart, Riding Cloak</title></circle></a><a href="/setts/s12/r3ly14y3ly3y3ly4y11dt11r11r11ly1dt1~x2/"><circle cx="136.1" cy="156.8" r="4" fill="#3465a4"><title>Bridge of Weir Leather Co. (Corp)</title></circle></a><a href="/setts/s15/g16o1g2o1g2o12r12o1ly2o1r12o12g12o1w2~x2/"><circle cx="225.5" cy="145.7" r="4" fill="#3465a4"><title>Prince Edward Island</title></circle></a><a href="/setts/s12/k10y26k2y4k2y26k3r36k3g30k3r2/"><circle cx="203.2" cy="128.9" r="4" fill="#3465a4"><title>Pope (Welsh Name)</title></circle></a><a href="/setts/s11/w1db4dy8r4w1r4w1r4dg16db2w1~x2/"><circle cx="174.4" cy="131.6" r="4" fill="#3465a4"><title>Stuart/Stewart Riding Cloak</title></circle></a><a href="/setts/s16/r5db1r5g13db8t5r5w1db3~x2/"><circle cx="129.4" cy="152.5" r="4" fill="#3465a4"><title>Norwich No.056</title></circle></a><a href="/setts/s10/db5t2db11g2db2g6r17lo9db1r1~x2/"><circle cx="183.6" cy="144.1" r="4" fill="#3465a4"><title>Clarks No. 1 (Fashion)</title></circle></a><a href="/setts/s12/r3dy16db2dy2db2dy3db6o20lr3o2lr2o3~x2/"><circle cx="204.5" cy="145.7" r="4" fill="#3465a4"><title>Callum, Brown (Fashion)</title></circle></a><a href="/setts/s14/db24g4dg2g8dg2g4db12g3r22ly3b8g3r22ly6~x2/"><circle cx="141.1" cy="123.2" r="4" fill="#3465a4"><title>Devon 2000</title></circle></a><circle cx="166.4" cy="140.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/r13lr4r13g28lr3o26lr10o2dr2o2lr10r14lr4o4r4~x2/

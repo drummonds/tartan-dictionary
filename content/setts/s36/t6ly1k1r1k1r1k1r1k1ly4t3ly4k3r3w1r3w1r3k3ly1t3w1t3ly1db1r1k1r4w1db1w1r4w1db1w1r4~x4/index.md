@@ -2,12 +2,18 @@
 title: "Ogilvie (Paton) #2"
 date: 2023-03-18
 ---
-**Bands:** [BYKRKRKRKYBYKRWRWRKYBWBYBRKRWBWRWBWR](/stripes/bykrkrkrkybykrwrwrkybwbybrkrwbwrwbwr/) · **Stripes:** [T LY K R K R K R K LY T LY K R W R W R K LY T W T LY DB R K R W DB W R W DB W R](/stripes/stripes36/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">T LY K R K R K R K LY T LY K R W R W R K LY T W T LY DB R K R W DB W R W DB W R</span></span>
+**Bands:** [RWBWRWBWRKRBYBWBYKRWRWRKYBYKRKRKRKYB](/stripes/rwbwrwbwrkrbybwbykrwrwrkybykrkrkrkyb/) · **Stripes:** [R W DB W R W DB W R K R DB LY T W T LY K R W R W R K LY T LY K R K R K R K LY T](/stripes/stripes36/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#00879F"></span><span class="seq">R W DB W R W DB W R K R DB LY T W T LY K R W R W R K LY T LY K R K R K R K LY T</span></span>
 
 
 This was sourced from register-of-tartans.  It is a [36 band tartan](/bands/bands36/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3230
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Ogilvie #2
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,20 +921,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Ogilvie](/setts/s34/db3lb2r12k2r2db2lo2o6lb2o6lo2k3r6lb2r6lb2r6k3lo4o6lo4k2r2k2r2k2r2k2lo2o6lo2db2lo2db2~x2/) — ΔT 0.78
-1. [Wilson's No.190](/setts/s36/k3ly2k13w2t11r12w2r12k12ly2g12r12w2r12t11w2k13ly2k3ly2k13w2t11r12w2r12g12ly2k12r12w2r12t11w2k13ly2~x2/) — ΔT 1.05
+1. [Wilson's No.190](/setts/s36/k3ly2k13w2t11r12w2r12k12ly2g12r12w2r12t11w2k13ly2k3~x2/) — ΔT 1.06
 1. [Debian](/setts/s36/db7ly1db7m7k1m7w1k1w3r3w3k1w1r3w1k1w1r3w1k1w1k1w1k1w3r3w1r3w1k1w1k1w3m7k1m7~x4/) — ΔT 1.27
-1. [Wilson's No.011](/setts/s22/r18t10k15ly4k4w6k4g23r12r4r10w4r10r4r12g23k4w6k4ly4k15t10~x2/) — ΔT 1.38
+1. [Wilson's No.011](/setts/s22/r18t10k15ly4k4w6k4g23r12r4r10w4~x2/) — ΔT 1.38
 1. [MacDougall #4](/setts/s24/t1r2w1r2r6db1r1dg3r3dg3r2w1r1w1r2db3r2dg1r2dg6r1w1r2t1~x4/) — ΔT 1.41
 1. [MacDougall 8](/setts/s24/t1r2w1r2r6db1r1g3r3g3r2w1r1w1r2db3r2g1r2g6r1w1r2t1~x2/) — ΔT 1.45
-1. [Womble](/setts/s28/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3db1w1lo4w1db1r2w1r2db1w1g5w1db1~x8/) — ΔT 1.52
-1. [Ogilvie #3](/setts/s37/ly6db6ly6k8r8k8r14w2k2w2r14w2k2w2r15k8r8k8ly7db7w7db8ly8k8r6w5r6w5r6k8ly7db7ly7k6r6k6r6/) — ΔT 1.56
-1. [Unidentified Scarlett #15](/setts/s26/r9w2r9do3r9dy17lo3do14lg8do2lg2do2lg8r17lg8do2lg2do2lg8do14lo3dy17r9do3r9w2~x2/) — ΔT 1.58
+1. [Womble](/setts/s28/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/) — ΔT 1.52
+1. [Ogilvie #3](/setts/s37/r6k6r6k6ly7db7ly7k8r6w5r6w5r6k8ly8db8w7db7ly7k8r8k8r15w2k2w2r14w2k2w2r14k8r8k8ly6db6ly6/) — ΔT 1.56
+1. [Unidentified Scarlett #15](/setts/s26/r17lg8do2lg2do2lg8do14lo3dy17r9do3r9w2r9~x2/) — ΔT 1.58
 1. [Ogilvie (Paton)](/setts/s36/db6k2db6ly4k2r3ly2r3w2r3k2ly2db3w2db3ly2k2r3w2r3k2ly2db6k2db6k2db6ly2k2r3w2r3w2r3k6w1~x2/) — ΔT 1.59
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s34/db3lb2r12k2r2db2lo2o6lb2o6lo2k3r6lb2r6lb2r6k3lo4o6lo4k2r2k2r2k2r2k2lo2o6lo2db2lo2db2~x2/"><circle cx="50.7" cy="118.8" r="4" fill="#3465a4"><title>Ogilvie</title></circle></a><a href="/setts/s36/k3ly2k13w2t11r12w2r12k12ly2g12r12w2r12t11w2k13ly2k3ly2k13w2t11r12w2r12g12ly2k12r12w2r12t11w2k13ly2~x2/"><circle cx="51.6" cy="114.6" r="4" fill="#3465a4"><title>Wilson's No.190</title></circle></a><a href="/setts/s36/db7ly1db7m7k1m7w1k1w3r3w3k1w1r3w1k1w1r3w1k1w1k1w1k1w3r3w1r3w1k1w1k1w3m7k1m7~x4/"><circle cx="47.4" cy="84.0" r="4" fill="#3465a4"><title>Debian</title></circle></a><a href="/setts/s22/r18t10k15ly4k4w6k4g23r12r4r10w4r10r4r12g23k4w6k4ly4k15t10~x2/"><circle cx="44.2" cy="138.0" r="4" fill="#3465a4"><title>Wilson's No.011</title></circle></a><a href="/setts/s24/t1r2w1r2r6db1r1dg3r3dg3r2w1r1w1r2db3r2dg1r2dg6r1w1r2t1~x4/"><circle cx="91.1" cy="136.1" r="4" fill="#3465a4"><title>MacDougall #4</title></circle></a><a href="/setts/s24/t1r2w1r2r6db1r1g3r3g3r2w1r1w1r2db3r2g1r2g6r1w1r2t1~x2/"><circle cx="92.2" cy="139.3" r="4" fill="#3465a4"><title>MacDougall 8</title></circle></a><a href="/setts/s28/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3db1w1lo4w1db1r2w1r2db1w1g5w1db1~x8/"><circle cx="29.4" cy="129.3" r="4" fill="#3465a4"><title>Womble</title></circle></a><a href="/setts/s37/ly6db6ly6k8r8k8r14w2k2w2r14w2k2w2r15k8r8k8ly7db7w7db8ly8k8r6w5r6w5r6k8ly7db7ly7k6r6k6r6/"><circle cx="45.6" cy="135.0" r="4" fill="#3465a4"><title>Ogilvie #3</title></circle></a><a href="/setts/s26/r9w2r9do3r9dy17lo3do14lg8do2lg2do2lg8r17lg8do2lg2do2lg8do14lo3dy17r9do3r9w2~x2/"><circle cx="98.6" cy="121.7" r="4" fill="#3465a4"><title>Unidentified Scarlett #15</title></circle></a><a href="/setts/s36/db6k2db6ly4k2r3ly2r3w2r3k2ly2db3w2db3ly2k2r3w2r3k2ly2db6k2db6k2db6ly2k2r3w2r3w2r3k6w1~x2/"><circle cx="29.0" cy="146.4" r="4" fill="#3465a4"><title>Ogilvie (Paton)</title></circle></a><circle cx="36.3" cy="104.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s34/db3lb2r12k2r2db2lo2o6lb2o6lo2k3r6lb2r6lb2r6k3lo4o6lo4k2r2k2r2k2r2k2lo2o6lo2db2lo2db2~x2/"><circle cx="50.5" cy="119.0" r="4" fill="#3465a4"><title>Ogilvie</title></circle></a><a href="/setts/s36/k3ly2k13w2t11r12w2r12k12ly2g12r12w2r12t11w2k13ly2k3~x2/"><circle cx="51.5" cy="114.8" r="4" fill="#3465a4"><title>Wilson's No.190</title></circle></a><a href="/setts/s36/db7ly1db7m7k1m7w1k1w3r3w3k1w1r3w1k1w1r3w1k1w1k1w1k1w3r3w1r3w1k1w1k1w3m7k1m7~x4/"><circle cx="47.2" cy="84.2" r="4" fill="#3465a4"><title>Debian</title></circle></a><a href="/setts/s22/r18t10k15ly4k4w6k4g23r12r4r10w4~x2/"><circle cx="44.1" cy="138.1" r="4" fill="#3465a4"><title>Wilson's No.011</title></circle></a><a href="/setts/s24/t1r2w1r2r6db1r1dg3r3dg3r2w1r1w1r2db3r2dg1r2dg6r1w1r2t1~x4/"><circle cx="90.9" cy="136.3" r="4" fill="#3465a4"><title>MacDougall #4</title></circle></a><a href="/setts/s24/t1r2w1r2r6db1r1g3r3g3r2w1r1w1r2db3r2g1r2g6r1w1r2t1~x2/"><circle cx="92.0" cy="139.5" r="4" fill="#3465a4"><title>MacDougall 8</title></circle></a><a href="/setts/s28/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/"><circle cx="29.1" cy="129.4" r="4" fill="#3465a4"><title>Womble</title></circle></a><a href="/setts/s37/r6k6r6k6ly7db7ly7k8r6w5r6w5r6k8ly8db8w7db7ly7k8r8k8r15w2k2w2r14w2k2w2r14k8r8k8ly6db6ly6/"><circle cx="45.4" cy="135.1" r="4" fill="#3465a4"><title>Ogilvie #3</title></circle></a><a href="/setts/s26/r17lg8do2lg2do2lg8do14lo3dy17r9do3r9w2r9~x2/"><circle cx="98.4" cy="121.9" r="4" fill="#3465a4"><title>Unidentified Scarlett #15</title></circle></a><a href="/setts/s36/db6k2db6ly4k2r3ly2r3w2r3k2ly2db3w2db3ly2k2r3w2r3k2ly2db6k2db6k2db6ly2k2r3w2r3w2r3k6w1~x2/"><circle cx="28.9" cy="146.5" r="4" fill="#3465a4"><title>Ogilvie (Paton)</title></circle></a><circle cx="36.1" cy="104.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s36/t6ly1k1r1k1r1k1r1k1ly4t3ly4k3r3w1r3w1r3k3ly1t3w1t3ly1db1r1k1r4w1db1w1r4w1db1w1r4~x4/

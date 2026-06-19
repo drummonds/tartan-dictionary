@@ -2,7 +2,7 @@
 title: "Brown, Watch"
 date: 2023-03-18
 ---
-**Bands:** [RKRKGKGKRKRKR](/stripes/rkrkgkgkrkrkr/) · **Stripes:** [O K O K G K G K O K O K O](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O K O K G K G K O K O K O</span></span>
+**Bands:** [RKRKRKGKGKRKR](/stripes/rkrkrkgkgkrkr/) · **Stripes:** [O K O K O K G K G K O K O](/stripes/stripes13/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#A65C11"></span><span class="seq">O K O K O K G K G K O K O</span></span>
 
 
 This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LT/2 K2 LT16 K16 G16 K2 G16 K16 LT2 K2 LT2 K2 LT/22
+LT/22 K2 LT2 K2 LT2 K16 G16 K2 G16 K16 LT16 K2 LT/2
 ![Sett](sett.png)
 
 ## Palette
@@ -905,17 +908,17 @@ The nearest existing variants by ΔTartan distance.
 1. [Blackburn Appalachian Hunting](/setts/s16/dg7k2dg7ly1k2ly1k10ly3r10ly3k10ly1dg11k2dg3k2~x2/) — ΔT 1.27
 1. [MacDonald 8](/setts/s12/db8r1db2r3db12r1k12g12r3g2r1g8~x2/) — ΔT 1.32
 1. [Stephenson, hunting](/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/) — ΔT 1.36
-1. [Kerr, hunting](/setts/s10/g14k2g2k2g3k10db16k1db2k2~x2/) — ΔT 1.38
 1. [Murray of Atholl](/setts/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/) — ΔT 1.38
-1. [Wild Highlanders](/setts/s12/k36w3k10w3g28r6k18r6g28w3k10w3~x2/) — ΔT 1.38
+1. [Kerr, hunting](/setts/s10/g14k2g2k2g3k10db16k1db2k2~x2/) — ΔT 1.38
+1. [Wild Highlanders](/setts/s12/k36w3k10w3g28r6k18~x2/) — ΔT 1.38
 1. [Gordon 2](/setts/s15/db23k3db3k3db3k17g22k2ly4k2g22k17db22k3db3~x2/) — ΔT 1.39
 1. [Sutherland (District)](/setts/s13/t12k2t2k2t2k10dg12k3dg12k10t12k2t2~x2/) — ΔT 1.39
-1. [Louise](/setts/s11/g2k1db9k7g1k1g1k1g9r1g1~x4/) — ΔT 1.40
+1. [Louise](/setts/s11/g2k1db9k7g1k1g1k1g9r1g1~x4/) — ΔT 1.39
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x2/"><circle cx="200.9" cy="192.7" r="4" fill="#3465a4"><title>Black Watch, A&amp;S Highlanders</title></circle></a><a href="/setts/s16/dg7k2dg7ly1k2ly1k10ly3r10ly3k10ly1dg11k2dg3k2~x2/"><circle cx="165.9" cy="162.5" r="4" fill="#3465a4"><title>Blackburn Appalachian Hunting</title></circle></a><a href="/setts/s12/db8r1db2r3db12r1k12g12r3g2r1g8~x2/"><circle cx="154.6" cy="172.1" r="4" fill="#3465a4"><title>MacDonald 8</title></circle></a><a href="/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="149.4" cy="183.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s10/g14k2g2k2g3k10db16k1db2k2~x2/"><circle cx="217.2" cy="178.6" r="4" fill="#3465a4"><title>Kerr, hunting</title></circle></a><a href="/setts/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/"><circle cx="146.7" cy="177.6" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/setts/s12/k36w3k10w3g28r6k18r6g28w3k10w3~x2/"><circle cx="240.7" cy="172.8" r="4" fill="#3465a4"><title>Wild Highlanders</title></circle></a><a href="/setts/s15/db23k3db3k3db3k17g22k2ly4k2g22k17db22k3db3~x2/"><circle cx="166.9" cy="163.4" r="4" fill="#3465a4"><title>Gordon 2</title></circle></a><a href="/setts/s13/t12k2t2k2t2k10dg12k3dg12k10t12k2t2~x2/"><circle cx="151.4" cy="219.1" r="4" fill="#3465a4"><title>Sutherland (District)</title></circle></a><a href="/setts/s11/g2k1db9k7g1k1g1k1g9r1g1~x4/"><circle cx="194.9" cy="172.9" r="4" fill="#3465a4"><title>Louise</title></circle></a><circle cx="197.2" cy="183.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x2/"><circle cx="201.0" cy="192.6" r="4" fill="#3465a4"><title>Black Watch, A&amp;S Highlanders</title></circle></a><a href="/setts/s16/dg7k2dg7ly1k2ly1k10ly3r10ly3k10ly1dg11k2dg3k2~x2/"><circle cx="165.9" cy="162.5" r="4" fill="#3465a4"><title>Blackburn Appalachian Hunting</title></circle></a><a href="/setts/s12/db8r1db2r3db12r1k12g12r3g2r1g8~x2/"><circle cx="154.7" cy="172.1" r="4" fill="#3465a4"><title>MacDonald 8</title></circle></a><a href="/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="149.6" cy="183.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/"><circle cx="146.8" cy="177.6" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/setts/s10/g14k2g2k2g3k10db16k1db2k2~x2/"><circle cx="217.3" cy="178.5" r="4" fill="#3465a4"><title>Kerr, hunting</title></circle></a><a href="/setts/s12/k36w3k10w3g28r6k18~x2/"><circle cx="240.7" cy="172.7" r="4" fill="#3465a4"><title>Wild Highlanders</title></circle></a><a href="/setts/s15/db23k3db3k3db3k17g22k2ly4k2g22k17db22k3db3~x2/"><circle cx="167.0" cy="163.4" r="4" fill="#3465a4"><title>Gordon 2</title></circle></a><a href="/setts/s13/t12k2t2k2t2k10dg12k3dg12k10t12k2t2~x2/"><circle cx="151.6" cy="219.0" r="4" fill="#3465a4"><title>Sutherland (District)</title></circle></a><a href="/setts/s11/g2k1db9k7g1k1g1k1g9r1g1~x4/"><circle cx="194.9" cy="172.8" r="4" fill="#3465a4"><title>Louise</title></circle></a><circle cx="197.2" cy="183.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/o11k1o1k1o1k8g8k1g8k8o8k1o1~x2/

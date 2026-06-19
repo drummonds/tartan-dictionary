@@ -2,12 +2,19 @@
 title: "Unidentified 25"
 date: 2023-03-18
 ---
-**Bands:** [BKBRBKGYGR](/stripes/bkbrbkgygr/) · **Stripes:** [T K T R T K G LY G R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">T K T R T K G LY G R</span></span>
+**Bands:** [RGYGKBRBKB](/stripes/rgygkbrbkb/) · **Stripes:** [R G LY G K T R T K T](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#00879F"></span><span class="seq">R G LY G K T R T K T</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Unidentified
+- Unidentified #9
 
 ## Attestations
 
@@ -318,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +902,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/4 K8 B10 R40 B10 K32 G24 Y6 G14 R/8
+R/8 G14 Y6 G24 K32 B10 R40 B10 K8 B/4
 ![Sett](sett.png)
 
 ## Palette
@@ -910,7 +920,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Cumming LO](/setts/s9/lb4k2lb4k10ly1dg10r4lb1r4/) — ΔT 0.45
+1. [Cumming LO](/setts/s9/r4lb1r4dg10ly1k10lb4k2lb4/) — ΔT 0.45
 1. [Unidentified #9](/setts/s10/r4dg7ly3dg12k16t5r20t5k4t2~x2/) — ΔT 0.80
 1. [Stewart - Pr Ch Ed (Error?)](/setts/s12/r16t10k14w2k4w3k4g26r11k4r4w2~x2/) — ΔT 0.93
 1. [Etienne-Carter, Sir George](/setts/s10/r4g6ly3g12k14db5r20db5k4db2~x2/) — ΔT 0.98
@@ -919,12 +929,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Unidentified #27](/setts/s9/r5db1r5g13db8t5r5w1db3~x2/) — ΔT 1.05
 1. [Leitrim County, Crest Range](/setts/s10/o10k24o5k13o24k5dg52k5db18w8/) — ΔT 1.06
 1. [Comyn, Cumming](/setts/s9/r4w1r4g10ly1k10t4k2t4~x4/) — ΔT 1.07
-1. [Norwich No.005](/setts/s14/k10ly2dg11r11w1r1w1k9w1r1w1r11dg11ly2~x4/) — ΔT 1.08
+1. [Norwich No.005](/setts/s14/k10ly2dg11r11w1r1w1k9~x4/) — ΔT 1.08
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/lb4k2lb4k10ly1dg10r4lb1r4/"><circle cx="80.7" cy="163.1" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/setts/s10/r4dg7ly3dg12k16t5r20t5k4t2~x2/"><circle cx="114.5" cy="167.9" r="4" fill="#3465a4"><title>Unidentified #9</title></circle></a><a href="/setts/s12/r16t10k14w2k4w3k4g26r11k4r4w2~x2/"><circle cx="124.5" cy="139.3" r="4" fill="#3465a4"><title>Stewart - Pr Ch Ed (Error?)</title></circle></a><a href="/setts/s10/r4g6ly3g12k14db5r20db5k4db2~x2/"><circle cx="124.8" cy="172.2" r="4" fill="#3465a4"><title>Etienne-Carter, Sir George</title></circle></a><a href="/setts/s12/r8w2r22k8dg6k6dg6k6dg8lg3dg3lg3~x2/"><circle cx="138.9" cy="158.8" r="4" fill="#3465a4"><title>Wcwm 1712</title></circle></a><a href="/setts/s10/r4k1r4g8k6lb3db2lb11db1r2~x4/"><circle cx="103.9" cy="157.1" r="4" fill="#3465a4"><title>MacDuff Dress #2</title></circle></a><a href="/setts/s9/r5db1r5g13db8t5r5w1db3~x2/"><circle cx="120.0" cy="162.7" r="4" fill="#3465a4"><title>Unidentified #27</title></circle></a><a href="/setts/s10/o10k24o5k13o24k5dg52k5db18w8/"><circle cx="124.6" cy="166.4" r="4" fill="#3465a4"><title>Leitrim County, Crest Range</title></circle></a><a href="/setts/s9/r4w1r4g10ly1k10t4k2t4~x4/"><circle cx="64.8" cy="154.5" r="4" fill="#3465a4"><title>Comyn, Cumming</title></circle></a><a href="/setts/s14/k10ly2dg11r11w1r1w1k9w1r1w1r11dg11ly2~x4/"><circle cx="121.7" cy="130.6" r="4" fill="#3465a4"><title>Norwich No.005</title></circle></a><circle cx="94.4" cy="161.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r4lb1r4dg10ly1k10lb4k2lb4/"><circle cx="80.8" cy="163.1" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/setts/s10/r4dg7ly3dg12k16t5r20t5k4t2~x2/"><circle cx="114.5" cy="168.0" r="4" fill="#3465a4"><title>Unidentified #9</title></circle></a><a href="/setts/s12/r16t10k14w2k4w3k4g26r11k4r4w2~x2/"><circle cx="124.4" cy="139.4" r="4" fill="#3465a4"><title>Stewart - Pr Ch Ed (Error?)</title></circle></a><a href="/setts/s10/r4g6ly3g12k14db5r20db5k4db2~x2/"><circle cx="124.8" cy="172.3" r="4" fill="#3465a4"><title>Etienne-Carter, Sir George</title></circle></a><a href="/setts/s12/r8w2r22k8dg6k6dg6k6dg8lg3dg3lg3~x2/"><circle cx="138.9" cy="158.8" r="4" fill="#3465a4"><title>Wcwm 1712</title></circle></a><a href="/setts/s10/r4k1r4g8k6lb3db2lb11db1r2~x4/"><circle cx="103.8" cy="157.1" r="4" fill="#3465a4"><title>MacDuff Dress #2</title></circle></a><a href="/setts/s9/r5db1r5g13db8t5r5w1db3~x2/"><circle cx="119.9" cy="162.7" r="4" fill="#3465a4"><title>Unidentified #27</title></circle></a><a href="/setts/s10/o10k24o5k13o24k5dg52k5db18w8/"><circle cx="124.7" cy="166.5" r="4" fill="#3465a4"><title>Leitrim County, Crest Range</title></circle></a><a href="/setts/s9/r4w1r4g10ly1k10t4k2t4~x4/"><circle cx="65.0" cy="154.5" r="4" fill="#3465a4"><title>Comyn, Cumming</title></circle></a><a href="/setts/s14/k10ly2dg11r11w1r1w1k9~x4/"><circle cx="121.7" cy="130.6" r="4" fill="#3465a4"><title>Norwich No.005</title></circle></a><circle cx="94.4" cy="161.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r4g7ly3g12k16t5r20t5k4t2~x2/

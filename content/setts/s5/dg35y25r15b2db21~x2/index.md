@@ -2,7 +2,7 @@
 title: "Dunanas Rising (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [BBRGG](/stripes/bbrgg/) · **Stripes:** [DB B R Y DG](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#053819"></span><span class="seq">DB B R Y DG</span></span>
+**Bands:** [GGRBB](/stripes/ggrbb/) · **Stripes:** [DG Y R B DB](/stripes/stripes5/) <span class="pat"><span class="blk" style="background:#053819"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#082077"></span><span class="seq">DG Y R B DB</span></span>
 
 
 This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [5 band tartan](/bands/bands5/
 Original link http://www.tartansauthority.com/tartan-ferret/display/10821/
 
 ## Thread count
-DB/42 B4 R30 G50 Ga/70
+Ga/70 G50 R30 B4 DB/42
 ![Sett](sett.png)
 
 ## Palette
@@ -26,7 +26,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/42 B4 R30 G50 Ga/70 tartan")
+![Tartan detail](tartan.png "Ga/70 G50 R30 B4 DB/42 tartan")
 
 ## Nearest tartans
 
@@ -45,8 +45,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k6y1r18b6dg18k2~x2/"><circle cx="251.3" cy="203.9" r="4" fill="#3465a4"><title>Eachaidh</title></circle></a><a href="/setts/s6/dg24lo2y16db7do16r5~x2/"><circle cx="181.5" cy="222.6" r="4" fill="#3465a4"><title>Waterford, County (District)</title></circle></a><a href="/setts/s6/k6t1r18db6dg18k2~x2/"><circle cx="237.4" cy="197.8" r="4" fill="#3465a4"><title>Eachaidh (Personal)</title></circle></a><a href="/setts/s5/g8n19dg29o16r4~x2/"><circle cx="194.6" cy="273.1" r="4" fill="#3465a4"><title>Styrian (Fashion)</title></circle></a><a href="/setts/s6/y15k10n30o11w3y5~x2/"><circle cx="200.7" cy="217.9" r="4" fill="#3465a4"><title>McHale (Personal)</title></circle></a><a href="/setts/s6/n7w1r6dt10g10w1~x4/"><circle cx="130.7" cy="222.3" r="4" fill="#3465a4"><title>McEachem (Name)</title></circle></a><a href="/setts/s5/db15t20k12o34y3~x2/"><circle cx="231.4" cy="247.9" r="4" fill="#3465a4"><title>McCurdy-Stribbling (Personal)</title></circle></a><a href="/setts/s5/b32dy16g3lo4dg28~x2/"><circle cx="217.9" cy="237.8" r="4" fill="#3465a4"><title>Corey (Name)</title></circle></a><a href="/setts/s5/db6w1dy6dy12r2~x4/"><circle cx="252.8" cy="234.5" r="4" fill="#3465a4"><title>Vass (Personal)</title></circle></a><a href="/setts/s5/dy46g23b23r4ly4~x2/"><circle cx="283.5" cy="238.8" r="4" fill="#3465a4"><title>McMoosie Htg (Fashion)</title></circle></a><circle cx="208.6" cy="235.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k6y1r18b6dg18k2~x2/"><circle cx="251.3" cy="204.1" r="4" fill="#3465a4"><title>Eachaidh</title></circle></a><a href="/setts/s6/dg24lo2y16db7do16r5~x2/"><circle cx="181.6" cy="222.8" r="4" fill="#3465a4"><title>Waterford, County (District)</title></circle></a><a href="/setts/s6/k6t1r18db6dg18k2~x2/"><circle cx="237.4" cy="197.9" r="4" fill="#3465a4"><title>Eachaidh (Personal)</title></circle></a><a href="/setts/s5/g8n19dg29o16r4~x2/"><circle cx="194.8" cy="273.2" r="4" fill="#3465a4"><title>Styrian (Fashion)</title></circle></a><a href="/setts/s6/y15k10n30o11w3y5~x2/"><circle cx="200.7" cy="218.0" r="4" fill="#3465a4"><title>McHale (Personal)</title></circle></a><a href="/setts/s6/n7w1r6dt10g10w1~x4/"><circle cx="130.8" cy="222.5" r="4" fill="#3465a4"><title>McEachem (Name)</title></circle></a><a href="/setts/s5/db15t20k12o34y3~x2/"><circle cx="231.5" cy="248.0" r="4" fill="#3465a4"><title>McCurdy-Stribbling (Personal)</title></circle></a><a href="/setts/s5/b32dy16g3lo4dg28~x2/"><circle cx="218.0" cy="237.9" r="4" fill="#3465a4"><title>Corey (Name)</title></circle></a><a href="/setts/s5/db6w1dy6dy12r2~x4/"><circle cx="252.9" cy="234.6" r="4" fill="#3465a4"><title>Vass (Personal)</title></circle></a><a href="/setts/s5/dy46g23b23r4ly4~x2/"><circle cx="283.5" cy="238.9" r="4" fill="#3465a4"><title>McMoosie Htg (Fashion)</title></circle></a><circle cx="208.7" cy="235.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/dg35y25r15b2db21~x2/

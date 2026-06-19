@@ -2,12 +2,18 @@
 title: "MacLachlan 1"
 date: 2023-03-18
 ---
-**Bands:** [RKRKBKGKBKRKRKR](/stripes/rkrkbkgkbkrkrkr/) · **Stripes:** [R K R K DB K G K DB K R K R K R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K DB K G K DB K R K R K R</span></span>
+**Bands:** [RKRKRKBKGKBKRKR](/stripes/rkrkrkbkgkbkrkr/) · **Stripes:** [R K R K R K DB K G K DB K R K R](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">R K R K R K DB K G K DB K R K R</span></span>
 
 
 This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- MacLachlan #3
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-R/4 K4 R24 K20 B24 K2 G6 K2 B20 K20 R4 K4 R4 K4 R/24
+R/24 K4 R4 K4 R4 K20 B20 K2 G6 K2 B24 K20 R24 K4 R/4
 ![Sett](sett.png)
 
 ## Palette
@@ -915,8 +924,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/"><circle cx="158.5" cy="154.2" r="4" fill="#3465a4"><title>Bonner, (Bonnar)</title></circle></a><a href="/setts/s15/r12k2r2k2r2k10db10k1dg3k1db12k10r12k2r2~x2/"><circle cx="192.8" cy="158.4" r="4" fill="#3465a4"><title>MacLachlan #3</title></circle></a><a href="/setts/s13/r16k2r2k2r2k16db16dg3db16k16r16k2r2/"><circle cx="158.5" cy="179.7" r="4" fill="#3465a4"><title>MacLachlan</title></circle></a><a href="/setts/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/"><circle cx="185.0" cy="180.9" r="4" fill="#3465a4"><title>North Berwick Pipe Band (Dancing)</title></circle></a><a href="/setts/s15/dt43k4dt4k4dt4k26r32k4w10k4r32k26dt32k4r10/"><circle cx="181.2" cy="162.7" r="4" fill="#3465a4"><title>Frankfurt &amp; Disttrict P &amp; D (Corpora</title></circle></a><a href="/setts/s15/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/"><circle cx="157.3" cy="148.3" r="4" fill="#3465a4"><title>Clan Pipers Frankfurt and District Pipe Band</title></circle></a><a href="/setts/s13/r16k2r2k2r2k16db16dg3db16k16r16k2r2~x2/"><circle cx="175.3" cy="180.6" r="4" fill="#3465a4"><title>MacLachlan #2</title></circle></a><a href="/setts/s15/k16k2k2k2k2k14r16k1ly2k1r16k14k12k1w2~x2/"><circle cx="169.7" cy="121.0" r="4" fill="#3465a4"><title>Bogle (2015)</title></circle></a><a href="/setts/s12/r3t19k4r3k3r7k3r5k3r5k2w2~x2/"><circle cx="178.6" cy="154.2" r="4" fill="#3465a4"><title>Duchess of Kent</title></circle></a><a href="/setts/s13/o26k2o3k2o3k16y18y4y18k16o18k2o3~x2/"><circle cx="206.2" cy="163.3" r="4" fill="#3465a4"><title>Red Watch (Fashion) #3</title></circle></a><circle cx="176.1" cy="154.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/"><circle cx="158.5" cy="154.2" r="4" fill="#3465a4"><title>Bonner, (Bonnar)</title></circle></a><a href="/setts/s15/r12k2r2k2r2k10db10k1dg3k1db12k10r12k2r2~x2/"><circle cx="192.8" cy="158.4" r="4" fill="#3465a4"><title>MacLachlan #3</title></circle></a><a href="/setts/s13/r16k2r2k2r2k16db16dg3db16k16r16k2r2/"><circle cx="158.7" cy="179.7" r="4" fill="#3465a4"><title>MacLachlan</title></circle></a><a href="/setts/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/"><circle cx="185.1" cy="180.8" r="4" fill="#3465a4"><title>North Berwick Pipe Band (Dancing)</title></circle></a><a href="/setts/s15/dt43k4dt4k4dt4k26r32k4w10k4r32k26dt32k4r10/"><circle cx="181.1" cy="162.8" r="4" fill="#3465a4"><title>Frankfurt &amp; Disttrict P &amp; D (Corpora</title></circle></a><a href="/setts/s15/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/"><circle cx="157.2" cy="148.3" r="4" fill="#3465a4"><title>Clan Pipers Frankfurt and District Pipe Band</title></circle></a><a href="/setts/s13/r16k2r2k2r2k16db16dg3db16k16r16k2r2~x2/"><circle cx="175.3" cy="180.7" r="4" fill="#3465a4"><title>MacLachlan #2</title></circle></a><a href="/setts/s15/k16k2k2k2k2k14r16k1ly2k1r16k14k12k1w2~x2/"><circle cx="169.8" cy="121.1" r="4" fill="#3465a4"><title>Bogle (2015)</title></circle></a><a href="/setts/s12/r3t19k4r3k3r7k3r5k3r5k2w2~x2/"><circle cx="178.5" cy="154.1" r="4" fill="#3465a4"><title>Duchess of Kent</title></circle></a><a href="/setts/s13/o26k2o3k2o3k16y18y4y18k16o18k2o3~x2/"><circle cx="206.1" cy="163.3" r="4" fill="#3465a4"><title>Red Watch (Fashion) #3</title></circle></a><circle cx="176.1" cy="154.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/r12k2r2k2r2k10db10k1g3k1db12k10r12k2r2~x2/

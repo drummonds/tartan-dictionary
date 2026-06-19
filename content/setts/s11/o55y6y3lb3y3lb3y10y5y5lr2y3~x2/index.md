@@ -2,7 +2,7 @@
 title: "Long Way Down, The (Corporate)"
 date: 2023-03-18
 ---
-**Bands:** [GYGGGWGWGGR](/stripes/gygggwgwggr/) · **Stripes:** [Y LR Y Y Y LB Y LB Y Y O](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#A65C11"></span><span class="seq">Y LR Y Y Y LB Y LB Y Y O</span></span>
+**Bands:** [RGGWGWGGGYG](/stripes/rggwgwgggyg/) · **Stripes:** [O Y Y LB Y LB Y Y Y LR Y](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#B5BBDE"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">O Y Y LB Y LB Y Y Y LR Y</span></span>
 
 
 This was sourced from tartans-authority.  It is a [11 band tartan](/bands/bands11/).
@@ -24,7 +24,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 7481
 
 ## Thread count
-G/6 Nb4 G10 N10 G20 Na6 G6 Na6 G6 T12 Nc/110
+Nc/110 T12 G6 Na6 G6 Na6 G20 N10 G10 Nb4 G/6
 ![Sett](sett.png)
 
 ## Palette
@@ -45,19 +45,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [MatchPoint Dress](/setts/s15/t6lo2y24t4y8t6y6t8y3t10n14t4r3t34w4/) — ΔT 2.31
 1. [Outlander #1](/setts/s6/y52ly2n24r3lo26n4~x2/) — ΔT 2.34
-1. [Scottish Borderland](/setts/s16/dg2n1dg30n10n20dg1n2lo1n2dg1n20n10dg30n1dg2lb2~x2/) — ΔT 2.41
+1. [Scottish Borderland](/setts/s16/dg2n1dg30n10n20dg1n2lo1n2dg1n20n10dg30n1dg2lb2~x2/) — ΔT 2.42
 1. [Outlander #1](/setts/s6/o52ly2n24r3lo26n4~x2/) — ΔT 2.42
 1. [Rikaco Morning Dew #2](/setts/s8/lr3lb3lr1y25lr15lr5lb4ly2~x2/) — ΔT 2.44
 1. [Stuart / Stewart, Silver](/setts/s12/y60t5y8ly2y4w2y4g16o8y2o4w2~x2/) — ΔT 2.58
 1. [Weathered Cyclist](/setts/s7/y32w2y9ly2y12o21r1~x2/) — ΔT 2.63
-1. [Fermanagh Irish County Tartan Tartan Number: 2273. Earliest known date: 1997 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s17/lo3n20n4y3n3y3n3y3n4n13ly2n2ly2n3dg2n3y3~x2/) — ΔT 2.66
+1. [Fermanagh Irish County Tartan Tartan Number: 2273. Earliest known date: 1997 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s17/y3n3dg2n3ly2n2ly2n13n4y3n3y3n3y3n4n20lo3~x2/) — ΔT 2.66
 1. [Scottish Borderland (Fashion)](/setts/s9/lb2dg2n1dg30n10n20dg1n2lo1~x2/) — ΔT 2.67
 1. [Isle of Cumbrae (Corporate)](/setts/s7/k3y3r3y28n28lb2n2~x2/) — ΔT 2.68
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/t6lo2y24t4y8t6y6t8y3t10n14t4r3t34w4/"><circle cx="392.0" cy="190.8" r="4" fill="#3465a4"><title>MatchPoint Dress</title></circle></a><a href="/setts/s6/y52ly2n24r3lo26n4~x2/"><circle cx="424.5" cy="230.1" r="4" fill="#3465a4"><title>Outlander #1</title></circle></a><a href="/setts/s16/dg2n1dg30n10n20dg1n2lo1n2dg1n20n10dg30n1dg2lb2~x2/"><circle cx="437.1" cy="181.9" r="4" fill="#3465a4"><title>Scottish Borderland</title></circle></a><a href="/setts/s6/o52ly2n24r3lo26n4~x2/"><circle cx="409.5" cy="220.9" r="4" fill="#3465a4"><title>Outlander #1</title></circle></a><a href="/setts/s8/lr3lb3lr1y25lr15lr5lb4ly2~x2/"><circle cx="375.0" cy="191.3" r="4" fill="#3465a4"><title>Rikaco Morning Dew #2</title></circle></a><a href="/setts/s12/y60t5y8ly2y4w2y4g16o8y2o4w2~x2/"><circle cx="498.2" cy="124.7" r="4" fill="#3465a4"><title>Stuart / Stewart, Silver</title></circle></a><a href="/setts/s7/y32w2y9ly2y12o21r1~x2/"><circle cx="561.4" cy="225.5" r="4" fill="#3465a4"><title>Weathered Cyclist</title></circle></a><a href="/setts/s17/lo3n20n4y3n3y3n3y3n4n13ly2n2ly2n3dg2n3y3~x2/"><circle cx="361.8" cy="194.9" r="4" fill="#3465a4"><title>Fermanagh Irish County Tartan Tartan Number: 2273. Earliest known date: 1997 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/lb2dg2n1dg30n10n20dg1n2lo1~x2/"><circle cx="415.0" cy="184.6" r="4" fill="#3465a4"><title>Scottish Borderland (Fashion)</title></circle></a><a href="/setts/s7/k3y3r3y28n28lb2n2~x2/"><circle cx="396.4" cy="221.6" r="4" fill="#3465a4"><title>Isle of Cumbrae (Corporate)</title></circle></a><circle cx="480.9" cy="154.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/t6lo2y24t4y8t6y6t8y3t10n14t4r3t34w4/"><circle cx="391.7" cy="191.1" r="4" fill="#3465a4"><title>MatchPoint Dress</title></circle></a><a href="/setts/s6/y52ly2n24r3lo26n4~x2/"><circle cx="424.2" cy="230.4" r="4" fill="#3465a4"><title>Outlander #1</title></circle></a><a href="/setts/s16/dg2n1dg30n10n20dg1n2lo1n2dg1n20n10dg30n1dg2lb2~x2/"><circle cx="436.9" cy="182.3" r="4" fill="#3465a4"><title>Scottish Borderland</title></circle></a><a href="/setts/s6/o52ly2n24r3lo26n4~x2/"><circle cx="409.2" cy="221.1" r="4" fill="#3465a4"><title>Outlander #1</title></circle></a><a href="/setts/s8/lr3lb3lr1y25lr15lr5lb4ly2~x2/"><circle cx="374.5" cy="191.6" r="4" fill="#3465a4"><title>Rikaco Morning Dew #2</title></circle></a><a href="/setts/s12/y60t5y8ly2y4w2y4g16o8y2o4w2~x2/"><circle cx="497.7" cy="124.8" r="4" fill="#3465a4"><title>Stuart / Stewart, Silver</title></circle></a><a href="/setts/s7/y32w2y9ly2y12o21r1~x2/"><circle cx="560.9" cy="225.6" r="4" fill="#3465a4"><title>Weathered Cyclist</title></circle></a><a href="/setts/s17/y3n3dg2n3ly2n2ly2n13n4y3n3y3n3y3n4n20lo3~x2/"><circle cx="361.5" cy="195.2" r="4" fill="#3465a4"><title>Fermanagh Irish County Tartan Tartan Number: 2273. Earliest known date: 1997 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/lb2dg2n1dg30n10n20dg1n2lo1~x2/"><circle cx="414.8" cy="184.8" r="4" fill="#3465a4"><title>Scottish Borderland (Fashion)</title></circle></a><a href="/setts/s7/k3y3r3y28n28lb2n2~x2/"><circle cx="396.2" cy="221.9" r="4" fill="#3465a4"><title>Isle of Cumbrae (Corporate)</title></circle></a><circle cx="480.4" cy="154.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/o55y6y3lb3y3lb3y10y5y5lr2y3~x2/

@@ -18,7 +18,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 2699
 
 ## Thread count
-R/4 DB88 DBa38 B88 W/8
+W/8 B88 DBa38 DB88 R/4
 ![Sett](sett.png)
 
 ## Palette
@@ -34,7 +34,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "R/4 DB88 DBa38 B88 W/8 tartan")
+![Tartan detail](tartan.png "W/8 B88 DBa38 DB88 R/4 tartan")
 
 ## Nearest tartans
 
@@ -53,8 +53,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db20k4g5dp14w1db2~x2/"><circle cx="311.3" cy="197.0" r="4" fill="#3465a4"><title>Riley's Theme (Fashion)</title></circle></a><a href="/setts/s7/db49g3k22r2b33db3b7~x2/"><circle cx="262.5" cy="158.5" r="4" fill="#3465a4"><title>U.S. 2001 Air Force (Military?)</title></circle></a><a href="/setts/s6/r3db15db8g5k2w1~x2/"><circle cx="222.1" cy="184.6" r="4" fill="#3465a4"><title>Nicolson of Harris (Clan?)</title></circle></a><a href="/setts/s6/db48w2k20dg22r3dg4~x2/"><circle cx="314.6" cy="182.8" r="4" fill="#3465a4"><title>MacFadzean</title></circle></a><a href="/setts/s5/lb3db28k12r22dg1~x2/"><circle cx="264.4" cy="179.8" r="4" fill="#3465a4"><title>Diaspora (Fashion)</title></circle></a><a href="/setts/s5/db19k8lb1g10m3~x2/"><circle cx="248.3" cy="201.3" r="4" fill="#3465a4"><title>Unidentified #50</title></circle></a><a href="/setts/s6/db3dg1r22k12db28lb3~x2/"><circle cx="281.9" cy="165.6" r="4" fill="#3465a4"><title>Diaspora</title></circle></a><a href="/setts/s7/dg6r2db1r3db16n20w2~x2/"><circle cx="248.3" cy="165.0" r="4" fill="#3465a4"><title>MacCord (Personal)</title></circle></a><a href="/setts/s6/t8o4db30dt30r3dt4~x2/"><circle cx="279.7" cy="227.8" r="4" fill="#3465a4"><title>Hutchesons' Grammar (Corporate)</title></circle></a><a href="/setts/s5/db23dp2g11dp24lb3~x2/"><circle cx="258.5" cy="239.5" r="4" fill="#3465a4"><title>Scottish Open Squash (Corporate)</title></circle></a><circle cx="264.8" cy="202.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db20k4g5dp14w1db2~x2/"><circle cx="311.4" cy="197.1" r="4" fill="#3465a4"><title>Riley's Theme (Fashion)</title></circle></a><a href="/setts/s7/db49g3k22r2b33db3b7~x2/"><circle cx="262.6" cy="158.7" r="4" fill="#3465a4"><title>U.S. 2001 Air Force (Military?)</title></circle></a><a href="/setts/s6/r3db15db8g5k2w1~x2/"><circle cx="222.3" cy="184.8" r="4" fill="#3465a4"><title>Nicolson of Harris (Clan?)</title></circle></a><a href="/setts/s6/db48w2k20dg22r3dg4~x2/"><circle cx="314.7" cy="182.8" r="4" fill="#3465a4"><title>MacFadzean</title></circle></a><a href="/setts/s5/lb3db28k12r22dg1~x2/"><circle cx="264.5" cy="179.8" r="4" fill="#3465a4"><title>Diaspora (Fashion)</title></circle></a><a href="/setts/s5/db19k8lb1g10m3~x2/"><circle cx="248.5" cy="201.3" r="4" fill="#3465a4"><title>Unidentified #50</title></circle></a><a href="/setts/s6/db3dg1r22k12db28lb3~x2/"><circle cx="282.0" cy="165.6" r="4" fill="#3465a4"><title>Diaspora</title></circle></a><a href="/setts/s7/dg6r2db1r3db16n20w2~x2/"><circle cx="248.3" cy="165.1" r="4" fill="#3465a4"><title>MacCord (Personal)</title></circle></a><a href="/setts/s6/t8o4db30dt30r3dt4~x2/"><circle cx="279.8" cy="227.9" r="4" fill="#3465a4"><title>Hutchesons' Grammar (Corporate)</title></circle></a><a href="/setts/s5/db23dp2g11dp24lb3~x2/"><circle cx="258.7" cy="239.4" r="4" fill="#3465a4"><title>Scottish Open Squash (Corporate)</title></circle></a><circle cx="264.9" cy="202.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/w4b44db19db44r2~x2/

@@ -9,6 +9,12 @@ This was sourced from register-of-tartans.  It is a [10 band tartan](/bands/band
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5117
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacInroy of Lude
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -55,8 +61,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg1r11dg3k4dg4r1k2db11w1~x2/"><circle cx="154.0" cy="164.6" r="4" fill="#3465a4"><title>Manson (Name)</title></circle></a><a href="/setts/s10/k1g8k4r1db8r1db1r8g1w1~x4/"><circle cx="123.8" cy="165.8" r="4" fill="#3465a4"><title>Rattray of Lude</title></circle></a><a href="/setts/s10/r6g3r24t7r4t7k18g4k7g3/"><circle cx="164.4" cy="187.2" r="4" fill="#3465a4"><title>Law Society of Scotland (Corporate)</title></circle></a><a href="/setts/s11/r6db6r3db3r3db28k21g28r21k2ly4/"><circle cx="143.5" cy="147.6" r="4" fill="#3465a4"><title>MacLagan of Glenquiech</title></circle></a><a href="/setts/s9/k23y2m3db7m3y2dg15m21y5~x2/"><circle cx="171.1" cy="179.2" r="4" fill="#3465a4"><title>Land's End (Unnamed Maroon)</title></circle></a><a href="/setts/s7/dp2r2dp16k17dg16k2ly2~x2/"><circle cx="172.4" cy="194.7" r="4" fill="#3465a4"><title>Zangenberg (Personal)</title></circle></a><a href="/setts/s8/m21r3m3r3m3db19g22b3~x2/"><circle cx="158.8" cy="190.2" r="4" fill="#3465a4"><title>Akins</title></circle></a><a href="/setts/s9/dp8k1g2k1dy2k6g8k1w2~x4/"><circle cx="128.8" cy="183.8" r="4" fill="#3465a4"><title>Coffield-Limesand (Personal)</title></circle></a><a href="/setts/s10/m4k16o5n8o2dp2o2dp2n8k3~x2/"><circle cx="159.5" cy="186.6" r="4" fill="#3465a4"><title>Ryukoku University Heian JHS (Corp)</title></circle></a><a href="/setts/s12/r4dy14lo2dy4lo2k6dy3k6db14r2db4r4~x2/"><circle cx="138.4" cy="192.8" r="4" fill="#3465a4"><title>Kinloch Anderson</title></circle></a><circle cx="133.4" cy="171.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg1r11dg3k4dg4r1k2db11w1~x2/"><circle cx="154.0" cy="164.7" r="4" fill="#3465a4"><title>Manson (Name)</title></circle></a><a href="/setts/s10/k1g8k4r1db8r1db1r8g1w1~x4/"><circle cx="123.8" cy="165.9" r="4" fill="#3465a4"><title>Rattray of Lude</title></circle></a><a href="/setts/s10/r6g3r24t7r4t7k18g4k7g3/"><circle cx="164.5" cy="187.3" r="4" fill="#3465a4"><title>Law Society of Scotland (Corporate)</title></circle></a><a href="/setts/s11/r6db6r3db3r3db28k21g28r21k2ly4/"><circle cx="143.5" cy="147.8" r="4" fill="#3465a4"><title>MacLagan of Glenquiech</title></circle></a><a href="/setts/s9/k23y2m3db7m3y2dg15m21y5~x2/"><circle cx="171.3" cy="179.4" r="4" fill="#3465a4"><title>Land's End (Unnamed Maroon)</title></circle></a><a href="/setts/s7/dp2r2dp16k17dg16k2ly2~x2/"><circle cx="172.5" cy="194.8" r="4" fill="#3465a4"><title>Zangenberg (Personal)</title></circle></a><a href="/setts/s8/m21r3m3r3m3db19g22b3~x2/"><circle cx="158.8" cy="190.3" r="4" fill="#3465a4"><title>Akins</title></circle></a><a href="/setts/s9/dp8k1g2k1dy2k6g8k1w2~x4/"><circle cx="128.9" cy="183.9" r="4" fill="#3465a4"><title>Coffield-Limesand (Personal)</title></circle></a><a href="/setts/s10/m4k16o5n8o2dp2o2dp2n8k3~x2/"><circle cx="159.5" cy="186.7" r="4" fill="#3465a4"><title>Ryukoku University Heian JHS (Corp)</title></circle></a><a href="/setts/s12/r4dy14lo2dy4lo2k6dy3k6db14r2db4r4~x2/"><circle cx="138.5" cy="193.0" r="4" fill="#3465a4"><title>Kinloch Anderson</title></circle></a><circle cx="133.5" cy="171.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/k3dg17k9r2db17r2db2r17dg2w2~x2/

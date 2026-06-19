@@ -9,6 +9,13 @@ This was sourced from weddslist.  It is a [13 band tartan](/bands/bands13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Galt Sir Alexander..
+- Galt, Sir Alexander..
+
 ## Attestations
 
 This cloth appears in 2 source records; the oldest owns this page.
@@ -318,6 +325,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +426,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +686,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +902,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-LN/4 K2 R8 K4 R16 B40 K4 LN6 K6 Y4 K32 G44 R/8
+R/8 G44 K32 Y4 K6 LN6 K4 B40 R16 K4 R8 K2 LN/4
 ![Sett](sett.png)
 
 ## Palette
@@ -924,8 +934,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r4dg20k16ly2k3lb3k2n18r6k2r4k1lb2~x4/"><circle cx="112.4" cy="101.2" r="4" fill="#3465a4"><title>Tilley, Sir Samuel Leonard</title></circle></a><a href="/setts/s13/r4dg22k16ly2k3w3k2db20r8k2r4k1w2~x2/"><circle cx="121.3" cy="95.7" r="4" fill="#3465a4"><title>Louise of Lorne #2</title></circle></a><a href="/setts/s12/lb6k1t20r2g3r2k15r2g3r2k6k3~x2/"><circle cx="136.6" cy="96.5" r="4" fill="#3465a4"><title>Royal Scottish Pipe Band Association</title></circle></a><a href="/setts/s13/r2dt18ly4k5ly1k1w1k2g8r6k1r3w1~x4/"><circle cx="124.6" cy="84.8" r="4" fill="#3465a4"><title>Beaton (Name)</title></circle></a><a href="/setts/s12/lb6k1t20r2g3r2k15r2g3r2k6ly3~x2/"><circle cx="135.1" cy="93.6" r="4" fill="#3465a4"><title>Royal Scottish P.B. Assoc. (Corp.)</title></circle></a><a href="/setts/s13/r4dg20k16lo2k3w3k2lo18r6k2r4k1w2~x4/"><circle cx="123.3" cy="104.4" r="4" fill="#3465a4"><title>Johnson, J.M.</title></circle></a><a href="/setts/s9/ly3db29k15r4g25r8k4r3w2~x2/"><circle cx="110.3" cy="128.9" r="4" fill="#3465a4"><title>George Brown</title></circle></a><a href="/setts/s9/w4k1g19ly1k19db13r2db4r2~x2/"><circle cx="120.5" cy="117.6" r="4" fill="#3465a4"><title>Whitson</title></circle></a><a href="/setts/s12/dg19k20m1db8b8dg8db3m1lb12k8m1lb1~x2/"><circle cx="102.5" cy="116.9" r="4" fill="#3465a4"><title>Vine (2015)</title></circle></a><a href="/setts/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2/"><circle cx="51.1" cy="115.1" r="4" fill="#3465a4"><title>Bowling</title></circle></a><circle cx="99.4" cy="87.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r4dg20k16ly2k3lb3k2n18r6k2r4k1lb2~x4/"><circle cx="112.5" cy="101.3" r="4" fill="#3465a4"><title>Tilley, Sir Samuel Leonard</title></circle></a><a href="/setts/s13/r4dg22k16ly2k3w3k2db20r8k2r4k1w2~x2/"><circle cx="121.3" cy="95.8" r="4" fill="#3465a4"><title>Louise of Lorne #2</title></circle></a><a href="/setts/s12/lb6k1t20r2g3r2k15r2g3r2k6k3~x2/"><circle cx="136.6" cy="96.6" r="4" fill="#3465a4"><title>Royal Scottish Pipe Band Association</title></circle></a><a href="/setts/s13/r2dt18ly4k5ly1k1w1k2g8r6k1r3w1~x4/"><circle cx="124.5" cy="84.9" r="4" fill="#3465a4"><title>Beaton (Name)</title></circle></a><a href="/setts/s12/lb6k1t20r2g3r2k15r2g3r2k6ly3~x2/"><circle cx="135.0" cy="93.7" r="4" fill="#3465a4"><title>Royal Scottish P.B. Assoc. (Corp.)</title></circle></a><a href="/setts/s13/r4dg20k16lo2k3w3k2lo18r6k2r4k1w2~x4/"><circle cx="123.3" cy="104.5" r="4" fill="#3465a4"><title>Johnson, J.M.</title></circle></a><a href="/setts/s9/ly3db29k15r4g25r8k4r3w2~x2/"><circle cx="110.4" cy="129.0" r="4" fill="#3465a4"><title>George Brown</title></circle></a><a href="/setts/s9/w4k1g19ly1k19db13r2db4r2~x2/"><circle cx="120.6" cy="117.7" r="4" fill="#3465a4"><title>Whitson</title></circle></a><a href="/setts/s12/dg19k20m1db8b8dg8db3m1lb12k8m1lb1~x2/"><circle cx="102.7" cy="117.1" r="4" fill="#3465a4"><title>Vine (2015)</title></circle></a><a href="/setts/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2/"><circle cx="51.2" cy="115.3" r="4" fill="#3465a4"><title>Bowling</title></circle></a><circle cx="99.4" cy="87.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r4g22k16ly2k3w3k2db20r8k2r4k1w2~x2/

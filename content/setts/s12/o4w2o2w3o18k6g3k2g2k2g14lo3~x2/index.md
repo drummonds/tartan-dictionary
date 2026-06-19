@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -910,14 +913,14 @@ The nearest existing variants by ΔTartan distance.
 1. [Antrim Irish County Tartan Tartan Number: 2282. Earliest known date: 1993 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/g5dt2g17ly2db5ly2r5db17g2ly4~x2/) — ΔT 1.02
 1. [MacCandlish Arisaid Green](/setts/s11/lb3k1g12k1g1k2g1k6lb12k1lo1~x4/) — ΔT 1.03
 1. [Limerick](/setts/s11/dr6ly4dr3db2dr5db2dr3db2g15r3db2~x2/) — ΔT 1.04
-1. [MacInnes, dress](/setts/s13/g4w24g3k3g3k3g24k4w4k4db24g8r4~x2/) — ΔT 1.07
+1. [MacInnes, dress](/setts/s13/r4g8db24k4w4k4g24k3g3k3g3w24g4~x2/) — ΔT 1.07
 1. [O'Farrell (Name)](/setts/s13/w2lo14ly3k6w2k2w2k2g8lo6k2lo3w1~x2/) — ΔT 1.10
 1. [MacAart](/setts/s10/o9k2o2r2g6k1ly1k1g6r3~x2/) — ΔT 1.11
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/w1k1ly1dg8k1lr1w8lr1k8lr1w1dg8lr1w1~x6/"><circle cx="127.5" cy="130.8" r="4" fill="#3465a4"><title>Praetorian, Green (Fashion)</title></circle></a><a href="/setts/s13/g22r4g2r2g2r4g12k12r2db10r4db4ly3~x2/"><circle cx="177.9" cy="144.7" r="4" fill="#3465a4"><title>Cochrane, -1974</title></circle></a><a href="/setts/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/"><circle cx="171.8" cy="155.1" r="4" fill="#3465a4"><title>Dorcas Check</title></circle></a><a href="/setts/s13/db1r1db8k3g8r1g1r1g8k3w10r1w1~x4/"><circle cx="106.6" cy="133.1" r="4" fill="#3465a4"><title>Blair, dress</title></circle></a><a href="/setts/s10/g5dt2g17ly2db5ly2r5db17g2ly4~x2/"><circle cx="156.3" cy="161.6" r="4" fill="#3465a4"><title>Antrim Irish County Tartan Tartan Number: 2282. Earliest known date: 1993 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/lb3k1g12k1g1k2g1k6lb12k1lo1~x4/"><circle cx="143.1" cy="127.3" r="4" fill="#3465a4"><title>MacCandlish Arisaid Green</title></circle></a><a href="/setts/s11/dr6ly4dr3db2dr5db2dr3db2g15r3db2~x2/"><circle cx="141.2" cy="174.8" r="4" fill="#3465a4"><title>Limerick</title></circle></a><a href="/setts/s13/g4w24g3k3g3k3g24k4w4k4db24g8r4~x2/"><circle cx="112.5" cy="138.5" r="4" fill="#3465a4"><title>MacInnes, dress</title></circle></a><a href="/setts/s13/w2lo14ly3k6w2k2w2k2g8lo6k2lo3w1~x2/"><circle cx="166.2" cy="129.9" r="4" fill="#3465a4"><title>O'Farrell (Name)</title></circle></a><a href="/setts/s10/o9k2o2r2g6k1ly1k1g6r3~x2/"><circle cx="147.0" cy="174.9" r="4" fill="#3465a4"><title>MacAart</title></circle></a><circle cx="150.6" cy="143.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/w1k1ly1dg8k1lr1w8lr1k8lr1w1dg8lr1w1~x6/"><circle cx="127.4" cy="130.8" r="4" fill="#3465a4"><title>Praetorian, Green (Fashion)</title></circle></a><a href="/setts/s13/g22r4g2r2g2r4g12k12r2db10r4db4ly3~x2/"><circle cx="177.8" cy="144.7" r="4" fill="#3465a4"><title>Cochrane, -1974</title></circle></a><a href="/setts/s12/dy4w2dy2w3dy18k6g3k2g2k2g14lo3~x2/"><circle cx="171.7" cy="155.1" r="4" fill="#3465a4"><title>Dorcas Check</title></circle></a><a href="/setts/s13/db1r1db8k3g8r1g1r1g8k3w10r1w1~x4/"><circle cx="106.5" cy="133.1" r="4" fill="#3465a4"><title>Blair, dress</title></circle></a><a href="/setts/s10/g5dt2g17ly2db5ly2r5db17g2ly4~x2/"><circle cx="156.2" cy="161.6" r="4" fill="#3465a4"><title>Antrim Irish County Tartan Tartan Number: 2282. Earliest known date: 1993 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/lb3k1g12k1g1k2g1k6lb12k1lo1~x4/"><circle cx="143.0" cy="127.3" r="4" fill="#3465a4"><title>MacCandlish Arisaid Green</title></circle></a><a href="/setts/s11/dr6ly4dr3db2dr5db2dr3db2g15r3db2~x2/"><circle cx="141.2" cy="174.8" r="4" fill="#3465a4"><title>Limerick</title></circle></a><a href="/setts/s13/r4g8db24k4w4k4g24k3g3k3g3w24g4~x2/"><circle cx="112.4" cy="138.5" r="4" fill="#3465a4"><title>MacInnes, dress</title></circle></a><a href="/setts/s13/w2lo14ly3k6w2k2w2k2g8lo6k2lo3w1~x2/"><circle cx="166.0" cy="129.9" r="4" fill="#3465a4"><title>O'Farrell (Name)</title></circle></a><a href="/setts/s10/o9k2o2r2g6k1ly1k1g6r3~x2/"><circle cx="147.0" cy="175.0" r="4" fill="#3465a4"><title>MacAart</title></circle></a><circle cx="150.5" cy="143.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/o4w2o2w3o18k6g3k2g2k2g14lo3~x2/

@@ -2,7 +2,7 @@
 title: "Penman"
 date: 2023-03-18
 ---
-**Bands:** [BGKRKGBGYBYGBG](/stripes/bgkrkgbgybygbg/) · **Stripes:** [DB G K R K Y DB G LY DB LY G DB Y](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">DB G K R K Y DB G LY DB LY G DB Y</span></span>
+**Bands:** [GBGYBYGBGKRKGB](/stripes/gbgybygbgkrkgb/) · **Stripes:** [Y DB G LY DB LY G DB Y K R K G DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">Y DB G LY DB LY G DB Y K R K G DB</span></span>
 
 
 This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/10 G10 K2 R6 K2 N22 B12 G12 Y2 B4 Y2 G12 B12 N/22
+N/22 B12 G12 Y2 B4 Y2 G12 B12 N22 K2 R6 K2 G10 B/10
 ![Sett](sett.png)
 
 ## Palette
@@ -924,8 +927,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/o11db6g6ly1db2ly1g6db6o11k1r3k1g5db5~x2/"><circle cx="128.6" cy="158.4" r="4" fill="#3465a4"><title>Penman Family Tartan Tartan Number: 167. Earliest known date: pre 1992 The late William Penman supplied members of the Penman family with this tartan for many years. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/b30r6dy16lp6g10lp14g24ly4dy10lp3dy28/"><circle cx="129.0" cy="175.3" r="4" fill="#3465a4"><title>Greyfriars (District)</title></circle></a><a href="/setts/s12/g7r2g3r5g17ly2k15ly2t22g3w2t7~x2/"><circle cx="145.1" cy="146.3" r="4" fill="#3465a4"><title>Paisley</title></circle></a><a href="/setts/s16/db6o2db2o2db2dy6g8dy1w2dy1g8o2dy4db8o2db2~x2/"><circle cx="119.4" cy="173.1" r="4" fill="#3465a4"><title>Forbes, of Druminnor</title></circle></a><a href="/setts/s14/dt2lg2dt3lg8dg4dt4dg3dt8r12dg7r3dg2k1w1~x2/"><circle cx="101.5" cy="145.3" r="4" fill="#3465a4"><title>Jones-MacGregor</title></circle></a><a href="/setts/s12/db9n3db2lb2db9n6db3lb3db3g18dg8r2~x2/"><circle cx="137.5" cy="166.3" r="4" fill="#3465a4"><title>Patterson, William John Magee (Personal)</title></circle></a><a href="/setts/s13/t21dy10t18r6t18k20lb2k20g12r6g12dy8g2/"><circle cx="105.8" cy="176.2" r="4" fill="#3465a4"><title>Redgate (Name)</title></circle></a><a href="/setts/s11/o6k3n19k6n4k3o12lr4o12w2o5~x2/"><circle cx="120.8" cy="173.4" r="4" fill="#3465a4"><title>Scotland Forever Antique (Fashion)</title></circle></a><a href="/setts/s12/db4lo4db26b5db5b8lo10g8dg5g5dg22o3~x2/"><circle cx="108.5" cy="165.3" r="4" fill="#3465a4"><title>State Seal of Montana (Fashion)</title></circle></a><a href="/setts/s12/db9o3db2w2db9o6db3w3db3y18dg8r2~x2/"><circle cx="148.3" cy="166.7" r="4" fill="#3465a4"><title>Patterson, William J.M. (Personal)</title></circle></a><circle cx="130.6" cy="160.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/o11db6g6ly1db2ly1g6db6o11k1r3k1g5db5~x2/"><circle cx="128.6" cy="158.6" r="4" fill="#3465a4"><title>Penman Family Tartan Tartan Number: 167. Earliest known date: pre 1992 The late William Penman supplied members of the Penman family with this tartan for many years. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/b30r6dy16lp6g10lp14g24ly4dy10lp3dy28/"><circle cx="129.0" cy="175.4" r="4" fill="#3465a4"><title>Greyfriars (District)</title></circle></a><a href="/setts/s12/g7r2g3r5g17ly2k15ly2t22g3w2t7~x2/"><circle cx="145.1" cy="146.4" r="4" fill="#3465a4"><title>Paisley</title></circle></a><a href="/setts/s16/db6o2db2o2db2dy6g8dy1w2dy1g8o2dy4db8o2db2~x2/"><circle cx="119.4" cy="173.3" r="4" fill="#3465a4"><title>Forbes, of Druminnor</title></circle></a><a href="/setts/s14/dt2lg2dt3lg8dg4dt4dg3dt8r12dg7r3dg2k1w1~x2/"><circle cx="101.5" cy="145.5" r="4" fill="#3465a4"><title>Jones-MacGregor</title></circle></a><a href="/setts/s12/db9n3db2lb2db9n6db3lb3db3g18dg8r2~x2/"><circle cx="137.6" cy="166.5" r="4" fill="#3465a4"><title>Patterson, William John Magee (Personal)</title></circle></a><a href="/setts/s13/t21dy10t18r6t18k20lb2k20g12r6g12dy8g2/"><circle cx="105.9" cy="176.4" r="4" fill="#3465a4"><title>Redgate (Name)</title></circle></a><a href="/setts/s11/o6k3n19k6n4k3o12lr4o12w2o5~x2/"><circle cx="120.8" cy="173.6" r="4" fill="#3465a4"><title>Scotland Forever Antique (Fashion)</title></circle></a><a href="/setts/s12/db4lo4db26b5db5b8lo10g8dg5g5dg22o3~x2/"><circle cx="108.6" cy="165.5" r="4" fill="#3465a4"><title>State Seal of Montana (Fashion)</title></circle></a><a href="/setts/s12/db9o3db2w2db9o6db3w3db3y18dg8r2~x2/"><circle cx="148.3" cy="166.9" r="4" fill="#3465a4"><title>Patterson, William J.M. (Personal)</title></circle></a><circle cx="130.5" cy="160.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/y11db6g6ly1db2ly1g6db6y11k1r3k1g5db5~x2/

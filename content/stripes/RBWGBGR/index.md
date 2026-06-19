@@ -20,7 +20,7 @@ RBWGBGR
 
 
 
-### M DB W DY DB DY M <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#CA047B"></span><span class="seq">M DB W DY DB DY M</span></span>
+### M DY DB DY W DB M <span class="pat"><span class="blk" style="background:#CA047B"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#3A2B0D"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#CA047B"></span><span class="seq">M DY DB DY W DB M</span></span>
 
 | Tartans |
 |---------------|

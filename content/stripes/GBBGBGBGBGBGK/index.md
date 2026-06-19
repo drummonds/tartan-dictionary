@@ -18,10 +18,10 @@ GBBGBGBGBGBGK
 
 
 
-### G N DR G N G N G N G N G K <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">G N DR G N G N G N G N G K</span></span>
+### K G N G N G N G N G DR N G <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K G N G N G N G N G DR N G</span></span>
 
 | Tartans |
 |---------------|
-| [Glen Affric (Artefact)](/setts/s13/g2n1dr14g2n5g2n7g2n7g2n10g2k2~x4/)|
-|![Glen Affric (Artefact) example sett](/setts/s13/g2n1dr14g2n5g2n7g2n7g2n10g2k2~x4/sett.png)|
+| [Glen Affric (Artefact)](/setts/s13/k2g2n10g2n7g2n7g2n5g2dr14n1g2~x4/)|
+|![Glen Affric (Artefact) example sett](/setts/s13/k2g2n10g2n7g2n7g2n5g2dr14n1g2~x4/sett.png)|
 

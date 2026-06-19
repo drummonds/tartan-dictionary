@@ -2,7 +2,7 @@
 title: "Dohmen (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GYBR](/stripes/gybr/) · **Stripes:** [G LY DB R](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">G LY DB R</span></span>
+**Bands:** [RBYG](/stripes/rbyg/) · **Stripes:** [R DB LY G](/stripes/stripes4/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="seq">R DB LY G</span></span>
 
 
 This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [4 band tartan](/bands/bands4/
 Original link http://www.tartansauthority.com/tartan-ferret/display/10665/
 
 ## Thread count
-DR/50 DB16 Y6 G/60
+G/60 Y6 DB16 DR/50
 ![Sett](sett.png)
 
 ## Palette
@@ -25,7 +25,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DR/50 DB16 Y6 G/60 tartan")
+![Tartan detail](tartan.png "G/60 Y6 DB16 DR/50 tartan")
 
 ## Nearest tartans
 
@@ -39,13 +39,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Christmas](/setts/s5/ly2dg17g4r15dg1~x2/) — ΔT 1.30
 1. [Eyre (Personal)](/setts/s6/r3db12r4g18r6k2~x2/) — ΔT 1.30
 1. [Prince of Orange #2](/setts/s5/db6lo25dy16k2db3~x2/) — ΔT 1.30
-1. [British Hills](/setts/s5/ly2db8r8dg17r2~x4/) — ΔT 1.31
+1. [British Hills](/setts/s5/r2dg17r8db8ly2~x4/) — ΔT 1.31
 1. [Delroeux (Personal)](/setts/s4/db3g6ly1r3~x10/) — ΔT 1.33
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/r5g7k2t1~x4/"><circle cx="232.8" cy="258.9" r="4" fill="#3465a4"><title>Wilson's No.195</title></circle></a><a href="/setts/s5/n11k4r4lo4n1~x4/"><circle cx="266.6" cy="231.8" r="4" fill="#3465a4"><title>Ikelman #2 (Personal)</title></circle></a><a href="/setts/s4/g15r3p11t2~x2/"><circle cx="252.2" cy="248.8" r="4" fill="#3465a4"><title>MacNab 7</title></circle></a><a href="/setts/s5/ly2db8r8g17r1~x4/"><circle cx="265.9" cy="201.9" r="4" fill="#3465a4"><title>British Hills</title></circle></a><a href="/setts/s6/k2o20k8dg18o3w2~x2/"><circle cx="237.5" cy="204.3" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/setts/s5/ly2dg17g4r15dg1~x2/"><circle cx="302.2" cy="200.2" r="4" fill="#3465a4"><title>Christmas</title></circle></a><a href="/setts/s6/r3db12r4g18r6k2~x2/"><circle cx="215.7" cy="223.8" r="4" fill="#3465a4"><title>Eyre (Personal)</title></circle></a><a href="/setts/s5/db6lo25dy16k2db3~x2/"><circle cx="277.6" cy="200.4" r="4" fill="#3465a4"><title>Prince of Orange #2</title></circle></a><a href="/setts/s5/ly2db8r8dg17r2~x4/"><circle cx="220.7" cy="221.2" r="4" fill="#3465a4"><title>British Hills</title></circle></a><a href="/setts/s4/db3g6ly1r3~x10/"><circle cx="194.7" cy="269.3" r="4" fill="#3465a4"><title>Delroeux (Personal)</title></circle></a><circle cx="263.0" cy="246.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/r5g7k2t1~x4/"><circle cx="232.8" cy="258.8" r="4" fill="#3465a4"><title>Wilson's No.195</title></circle></a><a href="/setts/s5/n11k4r4lo4n1~x4/"><circle cx="266.5" cy="231.7" r="4" fill="#3465a4"><title>Ikelman #2 (Personal)</title></circle></a><a href="/setts/s4/g15r3p11t2~x2/"><circle cx="252.2" cy="248.6" r="4" fill="#3465a4"><title>MacNab 7</title></circle></a><a href="/setts/s5/ly2db8r8g17r1~x4/"><circle cx="265.8" cy="201.8" r="4" fill="#3465a4"><title>British Hills</title></circle></a><a href="/setts/s6/k2o20k8dg18o3w2~x2/"><circle cx="237.3" cy="204.2" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/setts/s5/ly2dg17g4r15dg1~x2/"><circle cx="302.1" cy="200.2" r="4" fill="#3465a4"><title>Christmas</title></circle></a><a href="/setts/s6/r3db12r4g18r6k2~x2/"><circle cx="215.7" cy="223.8" r="4" fill="#3465a4"><title>Eyre (Personal)</title></circle></a><a href="/setts/s5/db6lo25dy16k2db3~x2/"><circle cx="277.3" cy="200.3" r="4" fill="#3465a4"><title>Prince of Orange #2</title></circle></a><a href="/setts/s5/r2dg17r8db8ly2~x4/"><circle cx="220.6" cy="221.1" r="4" fill="#3465a4"><title>British Hills</title></circle></a><a href="/setts/s4/db3g6ly1r3~x10/"><circle cx="194.8" cy="269.2" r="4" fill="#3465a4"><title>Delroeux (Personal)</title></circle></a><circle cx="262.9" cy="246.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/g30ly3db8r25~x2/

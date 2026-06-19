@@ -8,7 +8,7 @@ KBKKK
 
 It is a 5 band tartan.
 
-![Woven sample](/setts/s5/k2dt23k23k23k2~x2/tartan.png)
+![Woven sample](/setts/s5/k2k23k23dt23k2~x2/tartan.png)
 
 
 
@@ -20,10 +20,10 @@ KBKKK
 
 
 
-### K DT K K K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="seq">K DT K K K</span></span>
+### K K K DT K <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#023535"></span><span class="blk" style="background:#000000"></span><span class="seq">K K K DT K</span></span>
 
 | Tartans |
 |---------------|
-| [McTear's Auctioneers](/setts/s5/k2dt23k23k23k2~x2/)|
-|![McTear's Auctioneers example sett](/setts/s5/k2dt23k23k23k2~x2/sett.png)|
+| [McTear's Auctioneers](/setts/s5/k2k23k23dt23k2~x2/)|
+|![McTear's Auctioneers example sett](/setts/s5/k2k23k23dt23k2~x2/sett.png)|
 

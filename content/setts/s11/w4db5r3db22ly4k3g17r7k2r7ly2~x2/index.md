@@ -2,12 +2,18 @@
 title: "Crosser, Crozier"
 date: 2023-03-18
 ---
-**Bands:** [WBRBYKGRKRY](/stripes/wbrbykgrkry/) · **Stripes:** [W DB R DB LY K G R K R LY](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">W DB R DB LY K G R K R LY</span></span>
+**Bands:** [YRKRGKYBRBW](/stripes/yrkrgkybrbw/) · **Stripes:** [LY R K R G K LY DB R DB W](/stripes/stripes11/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">LY R K R G K LY DB R DB W</span></span>
 
 
 This was sourced from weddslist.  It is a [11 band tartan](/bands/bands11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Crosser, Crozier
 
 ## Attestations
 
@@ -318,6 +324,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -418,6 +425,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -677,6 +685,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -912,20 +921,20 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Gordonstoun (Corporate)](/setts/s12/ly5g19r2t11lb2r11g11r2k20r2k2lb2~x2/) — ΔT 0.66
-1. [Isle of Skye (District)](/setts/s11/lb24dg3lb3dg3lb3dg10o12dp12o12o2o3~x2/) — ΔT 0.76
+1. [Isle of Skye (District)](/setts/s11/lb24dg3lb3dg3lb3dg10o12dp12o12o2o3~x2/) — ΔT 0.77
 1. [MacLean](/setts/s11/db8k8ly2k3w3k3dg24r16db3r4k2~x2/) — ΔT 0.85
-1. [Glasgow, City of Culture](/setts/s11/ly6db2ly2db23k2w4k2g21r2g2r6~x2/) — ΔT 0.86
+1. [Glasgow, City of Culture](/setts/s11/r6g2r2g21k2w4k2db23ly2db2ly6~x2/) — ΔT 0.86
 1. [Mary, Queen of Scots](/setts/s9/r5w1db10g10w1ly1g2t2w1~x2/) — ΔT 0.86
 1. [Kapasi (Personal)](/setts/s13/lo2g6r12k3w3k3g16k2g2k2g2k12lp2~x2/) — ΔT 0.89
 1. [Dunedin](/setts/s9/k3r3g21r8r3r4k3db26w3~x2/) — ΔT 0.94
-1. [Leitrim Irish County Tartan Tartan Number: 2271. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/lg3k18lg4dy3lg4o13lg3lr18k2lr3~x2/) — ΔT 0.95
-1. [Stirling and Bannockburn](/setts/s10/ly3g2lg18r3k13r4lb3r4g18r3~x2/) — ΔT 0.96
+1. [Leitrim Irish County Tartan Tartan Number: 2271. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/lr3k2lr18lg3o13lg4dy3lg4k18lg3~x2/) — ΔT 0.95
+1. [Stirling and Bannockburn](/setts/s10/r3g18r4lb3r4k13r3lg18g2ly3~x2/) — ΔT 0.96
 1. [Stuart/Stewart #2](/setts/s12/r20t14k17ly2k3w3k3dg24r14k4r4w2~x2/) — ΔT 0.96
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/ly5g19r2t11lb2r11g11r2k20r2k2lb2~x2/"><circle cx="108.7" cy="139.2" r="4" fill="#3465a4"><title>Gordonstoun (Corporate)</title></circle></a><a href="/setts/s11/lb24dg3lb3dg3lb3dg10o12dp12o12o2o3~x2/"><circle cx="105.7" cy="131.2" r="4" fill="#3465a4"><title>Isle of Skye (District)</title></circle></a><a href="/setts/s11/db8k8ly2k3w3k3dg24r16db3r4k2~x2/"><circle cx="120.7" cy="126.3" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s11/ly6db2ly2db23k2w4k2g21r2g2r6~x2/"><circle cx="129.8" cy="114.0" r="4" fill="#3465a4"><title>Glasgow, City of Culture</title></circle></a><a href="/setts/s9/r5w1db10g10w1ly1g2t2w1~x2/"><circle cx="136.3" cy="142.8" r="4" fill="#3465a4"><title>Mary, Queen of Scots</title></circle></a><a href="/setts/s13/lo2g6r12k3w3k3g16k2g2k2g2k12lp2~x2/"><circle cx="131.1" cy="135.8" r="4" fill="#3465a4"><title>Kapasi (Personal)</title></circle></a><a href="/setts/s9/k3r3g21r8r3r4k3db26w3~x2/"><circle cx="128.7" cy="146.8" r="4" fill="#3465a4"><title>Dunedin</title></circle></a><a href="/setts/s10/lg3k18lg4dy3lg4o13lg3lr18k2lr3~x2/"><circle cx="58.5" cy="133.1" r="4" fill="#3465a4"><title>Leitrim Irish County Tartan Tartan Number: 2271. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/ly3g2lg18r3k13r4lb3r4g18r3~x2/"><circle cx="75.4" cy="144.8" r="4" fill="#3465a4"><title>Stirling and Bannockburn</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3dg24r14k4r4w2~x2/"><circle cx="116.8" cy="124.5" r="4" fill="#3465a4"><title>Stuart/Stewart #2</title></circle></a><circle cx="112.3" cy="127.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/ly5g19r2t11lb2r11g11r2k20r2k2lb2~x2/"><circle cx="108.7" cy="139.4" r="4" fill="#3465a4"><title>Gordonstoun (Corporate)</title></circle></a><a href="/setts/s11/lb24dg3lb3dg3lb3dg10o12dp12o12o2o3~x2/"><circle cx="105.6" cy="131.3" r="4" fill="#3465a4"><title>Isle of Skye (District)</title></circle></a><a href="/setts/s11/db8k8ly2k3w3k3dg24r16db3r4k2~x2/"><circle cx="120.7" cy="126.5" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s11/r6g2r2g21k2w4k2db23ly2db2ly6~x2/"><circle cx="129.8" cy="114.1" r="4" fill="#3465a4"><title>Glasgow, City of Culture</title></circle></a><a href="/setts/s9/r5w1db10g10w1ly1g2t2w1~x2/"><circle cx="136.3" cy="142.8" r="4" fill="#3465a4"><title>Mary, Queen of Scots</title></circle></a><a href="/setts/s13/lo2g6r12k3w3k3g16k2g2k2g2k12lp2~x2/"><circle cx="131.0" cy="135.9" r="4" fill="#3465a4"><title>Kapasi (Personal)</title></circle></a><a href="/setts/s9/k3r3g21r8r3r4k3db26w3~x2/"><circle cx="128.7" cy="146.9" r="4" fill="#3465a4"><title>Dunedin</title></circle></a><a href="/setts/s10/lr3k2lr18lg3o13lg4dy3lg4k18lg3~x2/"><circle cx="58.5" cy="133.2" r="4" fill="#3465a4"><title>Leitrim Irish County Tartan Tartan Number: 2271. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s10/r3g18r4lb3r4k13r3lg18g2ly3~x2/"><circle cx="75.4" cy="145.0" r="4" fill="#3465a4"><title>Stirling and Bannockburn</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3dg24r14k4r4w2~x2/"><circle cx="116.8" cy="124.6" r="4" fill="#3465a4"><title>Stuart/Stewart #2</title></circle></a><circle cx="112.3" cy="127.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/

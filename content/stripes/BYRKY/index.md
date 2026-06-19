@@ -20,7 +20,7 @@ BYRKY
 
 
 
-### DT LR R K LY <span class="pat"><span class="blk" style="background:#023535"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">DT LR R K LY</span></span>
+### LY K R LR DT <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#FF9C97"></span><span class="blk" style="background:#023535"></span><span class="seq">LY K R LR DT</span></span>
 
 | Tartans |
 |---------------|

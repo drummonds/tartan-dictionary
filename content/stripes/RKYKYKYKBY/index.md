@@ -22,6 +22,6 @@ RKYKYKYKBY
 
 | Tartans |
 |---------------|
-| [Hanna of Stirlingshire (Clan)](/setts/s10/lo1db9k1lr4k1lr2k2lr2k1r1~x4/)|
-|![Hanna of Stirlingshire (Clan) example sett](/setts/s10/lo1db9k1lr4k1lr2k2lr2k1r1~x4/sett.png)|
+| [Hanna of Stirlingshire (Clan)](/setts/s10/r1k1lr2k2lr2k1lr4k1db9lo1~x4/)|
+|![Hanna of Stirlingshire (Clan) example sett](/setts/s10/r1k1lr2k2lr2k1lr4k1db9lo1~x4/sett.png)|
 

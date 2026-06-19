@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -908,7 +911,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Wcwm 1712](/setts/s12/r8w2r22k8dg6k6dg6k6dg8lg3dg3lg3~x2/) — ΔT 0.96
 1. [Unidentified 25](/setts/s10/r4g7ly3g12k16t5r20t5k4t2~x2/) — ΔT 1.08
 1. [Garvock (2015)](/setts/s8/g28t3g3k10r2k10r20ly4~x2/) — ΔT 1.15
-1. [Unidentified 20th Centuary](/setts/s7/lo2k1y15k7g15k1r2~x2/) — ΔT 1.18
+1. [Unidentified 20th Centuary](/setts/s7/r2k1g15k7y15k1lo2~x2/) — ΔT 1.18
 1. [Waterford](/setts/s8/dg30o3k20r2k3db4r24k3~x2/) — ΔT 1.18
 1. [Limerick](/setts/s11/dr6ly4dr3db2dr5db2dr3db2g15r3db2~x2/) — ΔT 1.18
 1. [MacDonell of Glengarry](/setts/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/) — ΔT 1.21
@@ -916,8 +919,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/o10k24o5k13o24k5dg52k5db18w8/"><circle cx="124.6" cy="166.4" r="4" fill="#3465a4"><title>Leitrim County, Crest Range</title></circle></a><a href="/setts/s14/k3r7k4o7r3o7k4g3k3g19k2g2k2r3~x2/"><circle cx="118.4" cy="149.1" r="4" fill="#3465a4"><title>Anderson 10</title></circle></a><a href="/setts/s12/r8w2r22k8dg6k6dg6k6dg8lg3dg3lg3~x2/"><circle cx="138.9" cy="158.8" r="4" fill="#3465a4"><title>Wcwm 1712</title></circle></a><a href="/setts/s10/r4g7ly3g12k16t5r20t5k4t2~x2/"><circle cx="94.4" cy="161.1" r="4" fill="#3465a4"><title>Unidentified 25</title></circle></a><a href="/setts/s8/g28t3g3k10r2k10r20ly4~x2/"><circle cx="164.2" cy="148.9" r="4" fill="#3465a4"><title>Garvock (2015)</title></circle></a><a href="/setts/s7/lo2k1y15k7g15k1r2~x2/"><circle cx="183.0" cy="163.0" r="4" fill="#3465a4"><title>Unidentified 20th Centuary</title></circle></a><a href="/setts/s8/dg30o3k20r2k3db4r24k3~x2/"><circle cx="186.3" cy="161.2" r="4" fill="#3465a4"><title>Waterford</title></circle></a><a href="/setts/s11/dr6ly4dr3db2dr5db2dr3db2g15r3db2~x2/"><circle cx="141.2" cy="174.8" r="4" fill="#3465a4"><title>Limerick</title></circle></a><a href="/setts/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/"><circle cx="126.9" cy="157.5" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s12/r16t10k14w2k4w3k4g26r11k4r4w2~x2/"><circle cx="124.5" cy="139.3" r="4" fill="#3465a4"><title>Stewart - Pr Ch Ed (Error?)</title></circle></a><circle cx="132.1" cy="158.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/o10k24o5k13o24k5dg52k5db18w8/"><circle cx="124.7" cy="166.5" r="4" fill="#3465a4"><title>Leitrim County, Crest Range</title></circle></a><a href="/setts/s14/k3r7k4o7r3o7k4g3k3g19k2g2k2r3~x2/"><circle cx="118.5" cy="149.2" r="4" fill="#3465a4"><title>Anderson 10</title></circle></a><a href="/setts/s12/r8w2r22k8dg6k6dg6k6dg8lg3dg3lg3~x2/"><circle cx="138.9" cy="158.8" r="4" fill="#3465a4"><title>Wcwm 1712</title></circle></a><a href="/setts/s10/r4g7ly3g12k16t5r20t5k4t2~x2/"><circle cx="94.4" cy="161.1" r="4" fill="#3465a4"><title>Unidentified 25</title></circle></a><a href="/setts/s8/g28t3g3k10r2k10r20ly4~x2/"><circle cx="164.1" cy="148.9" r="4" fill="#3465a4"><title>Garvock (2015)</title></circle></a><a href="/setts/s7/r2k1g15k7y15k1lo2~x2/"><circle cx="183.0" cy="163.0" r="4" fill="#3465a4"><title>Unidentified 20th Centuary</title></circle></a><a href="/setts/s8/dg30o3k20r2k3db4r24k3~x2/"><circle cx="186.4" cy="161.3" r="4" fill="#3465a4"><title>Waterford</title></circle></a><a href="/setts/s11/dr6ly4dr3db2dr5db2dr3db2g15r3db2~x2/"><circle cx="141.2" cy="174.8" r="4" fill="#3465a4"><title>Limerick</title></circle></a><a href="/setts/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/"><circle cx="127.0" cy="157.5" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s12/r16t10k14w2k4w3k4g26r11k4r4w2~x2/"><circle cx="124.4" cy="139.4" r="4" fill="#3465a4"><title>Stewart - Pr Ch Ed (Error?)</title></circle></a><circle cx="132.2" cy="158.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/k3r9k5dr9o3dr9k5g24k2o3~x2/

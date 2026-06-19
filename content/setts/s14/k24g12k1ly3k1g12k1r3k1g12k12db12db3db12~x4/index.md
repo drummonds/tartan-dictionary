@@ -2,12 +2,18 @@
 title: "Gow, hunting"
 date: 2023-03-18
 ---
-**Bands:** [BBBKGKRKGKYKGK](/stripes/bbbkgkrkgkykgk/) · **Stripes:** [DB DB DB K G K R K G K LY K G K](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">DB DB DB K G K R K G K LY K G K</span></span>
+**Bands:** [KGKYKGKRKGKBBB](/stripes/kgkykgkrkgkbbb/) · **Stripes:** [K G K LY K G K R K G K DB DB DB](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">K G K LY K G K R K G K DB DB DB</span></span>
 
 
 This was sourced from weddslist.  It is a [14 band tartan](/bands/bands14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+
+## Also known as
+
+This cloth is also recorded under:
+
+- Gow, hunting
 
 ## Register references
 
@@ -311,6 +317,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +418,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +678,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +894,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/48 DB12 B48 K48 G48 K4 R12 K4 G48 K4 Y12 K4 G48 K/96
+K/96 G48 K4 Y12 K4 G48 K4 R12 K4 G48 K48 B48 DB12 B/48
 ![Sett](sett.png)
 
 ## Palette
@@ -907,18 +916,18 @@ The nearest existing variants by ΔTartan distance.
 1. [Campbell, Red](/setts/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/) — ΔT 0.96
 1. [Princess Diana](/setts/s12/k14r2k2r2k2g18r2g18lb1db12t1r8~x2/) — ΔT 1.00
 1. [Vine (2015)](/setts/s12/dg19k20m1db8b8dg8db3m1lb12k8m1lb1~x2/) — ΔT 1.02
-1. [California](/setts/s13/b4k1db28k16g10r2g10r4g10r2g10k1ly4~x2/) — ΔT 1.07
+1. [California](/setts/s13/b4k1db28k16g10r2g10r4g10r2g10k1ly4~x2/) — ΔT 1.08
 1. [Robertson of Kindeace](/setts/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/) — ΔT 1.14
 1. [Canadian Estate](/setts/s13/g18r1g2r2g16r1k16n1k2r2db20r1lb2~x4/) — ΔT 1.14
 1. [Sempill](/setts/s17/db22k3db3k3db3k15r2g19k1t3k1g19r2k15db19k3db3~x2/) — ΔT 1.17
-1. [Newman](/setts/s11/db9k9db9r2k18w1g12r2g4r2g4~x2/) — ΔT 1.18
+1. [Newman](/setts/s11/db9k9db9r2k18w1g12r2g4r2g4~x2/) — ΔT 1.17
 1. [Dyce](/setts/s15/db16k2db2k2db2k12g12ly2k2ly2g12k16db16k1w3~x2/) — ΔT 1.18
 1. [Robertson, hunting](/setts/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/) — ΔT 1.20
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="157.4" cy="135.6" r="4" fill="#3465a4"><title>Campbell, Red</title></circle></a><a href="/setts/s12/k14r2k2r2k2g18r2g18lb1db12t1r8~x2/"><circle cx="176.1" cy="117.6" r="4" fill="#3465a4"><title>Princess Diana</title></circle></a><a href="/setts/s12/dg19k20m1db8b8dg8db3m1lb12k8m1lb1~x2/"><circle cx="102.5" cy="116.9" r="4" fill="#3465a4"><title>Vine (2015)</title></circle></a><a href="/setts/s13/b4k1db28k16g10r2g10r4g10r2g10k1ly4~x2/"><circle cx="163.0" cy="96.7" r="4" fill="#3465a4"><title>California</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="144.3" cy="131.8" r="4" fill="#3465a4"><title>Robertson of Kindeace</title></circle></a><a href="/setts/s13/g18r1g2r2g16r1k16n1k2r2db20r1lb2~x4/"><circle cx="183.4" cy="99.2" r="4" fill="#3465a4"><title>Canadian Estate</title></circle></a><a href="/setts/s17/db22k3db3k3db3k15r2g19k1t3k1g19r2k15db19k3db3~x2/"><circle cx="178.3" cy="115.5" r="4" fill="#3465a4"><title>Sempill</title></circle></a><a href="/setts/s11/db9k9db9r2k18w1g12r2g4r2g4~x2/"><circle cx="155.8" cy="150.0" r="4" fill="#3465a4"><title>Newman</title></circle></a><a href="/setts/s15/db16k2db2k2db2k12g12ly2k2ly2g12k16db16k1w3~x2/"><circle cx="146.8" cy="131.7" r="4" fill="#3465a4"><title>Dyce</title></circle></a><a href="/setts/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="192.7" cy="128.7" r="4" fill="#3465a4"><title>Robertson, hunting</title></circle></a><circle cx="148.6" cy="110.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="157.5" cy="135.7" r="4" fill="#3465a4"><title>Campbell, Red</title></circle></a><a href="/setts/s12/k14r2k2r2k2g18r2g18lb1db12t1r8~x2/"><circle cx="176.2" cy="117.6" r="4" fill="#3465a4"><title>Princess Diana</title></circle></a><a href="/setts/s12/dg19k20m1db8b8dg8db3m1lb12k8m1lb1~x2/"><circle cx="102.7" cy="117.1" r="4" fill="#3465a4"><title>Vine (2015)</title></circle></a><a href="/setts/s13/b4k1db28k16g10r2g10r4g10r2g10k1ly4~x2/"><circle cx="163.0" cy="96.8" r="4" fill="#3465a4"><title>California</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="144.5" cy="131.8" r="4" fill="#3465a4"><title>Robertson of Kindeace</title></circle></a><a href="/setts/s13/g18r1g2r2g16r1k16n1k2r2db20r1lb2~x4/"><circle cx="183.5" cy="99.3" r="4" fill="#3465a4"><title>Canadian Estate</title></circle></a><a href="/setts/s17/db22k3db3k3db3k15r2g19k1t3k1g19r2k15db19k3db3~x2/"><circle cx="178.4" cy="115.5" r="4" fill="#3465a4"><title>Sempill</title></circle></a><a href="/setts/s11/db9k9db9r2k18w1g12r2g4r2g4~x2/"><circle cx="156.0" cy="150.0" r="4" fill="#3465a4"><title>Newman</title></circle></a><a href="/setts/s15/db16k2db2k2db2k12g12ly2k2ly2g12k16db16k1w3~x2/"><circle cx="146.9" cy="131.7" r="4" fill="#3465a4"><title>Dyce</title></circle></a><a href="/setts/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="192.8" cy="128.7" r="4" fill="#3465a4"><title>Robertson, hunting</title></circle></a><circle cx="148.8" cy="110.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/k24g12k1ly3k1g12k1r3k1g12k12db12db3db12~x4/

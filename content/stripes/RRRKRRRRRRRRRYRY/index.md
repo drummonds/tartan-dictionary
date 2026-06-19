@@ -22,6 +22,6 @@ RRRKRRRRRRRRRYRY
 
 | Tartans |
 |---------------|
-| [Brian Boru 1014 (Commemorative)](/setts/s16/ly4o1ly2o16r2o1r2o4r2o1r2o8k1r24o2r4~x2/)|
-|![Brian Boru 1014 (Commemorative) example sett](/setts/s16/ly4o1ly2o16r2o1r2o4r2o1r2o8k1r24o2r4~x2/sett.png)|
+| [Brian Boru 1014 (Commemorative)](/setts/s16/r4o2r24k1o8r2o1r2o4r2o1r2o16ly2o1ly4~x2/)|
+|![Brian Boru 1014 (Commemorative) example sett](/setts/s16/r4o2r24k1o8r2o1r2o4r2o1r2o16ly2o1ly4~x2/sett.png)|
 

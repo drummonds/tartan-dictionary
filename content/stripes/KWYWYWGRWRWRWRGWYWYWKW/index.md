@@ -22,6 +22,6 @@ KWYWYWGRWRWRWRGWYWYWKW
 
 | Tartans |
 |---------------|
-| [Seller, Reproduction Dress](/setts/s22/w63k4lb9ly2lb4ly2lb4dy11r8lb2r4w5r4lb2r8dy11lb4ly2lb4ly2lb9k4~x2/)|
-|![Seller, Reproduction Dress example sett](/setts/s22/w63k4lb9ly2lb4ly2lb4dy11r8lb2r4w5r4lb2r8dy11lb4ly2lb4ly2lb9k4~x2/sett.png)|
+| [Seller, Reproduction Dress](/setts/s22/w63k4lb9ly2lb4ly2lb4dy11r8lb2r4w5~x2/)|
+|![Seller, Reproduction Dress example sett](/setts/s22/w63k4lb9ly2lb4ly2lb4dy11r8lb2r4w5~x2/sett.png)|
 

@@ -2,7 +2,7 @@
 title: "Unidentified, Silk Plaid"
 date: 2023-03-18
 ---
-**Bands:** [GYGRRRY](/stripes/gygrrry/) · **Stripes:** [Y LY G O O R LY](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#8B6E00"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">Y LY G O O R LY</span></span>
+**Bands:** [YRRRGYG](/stripes/yrrrgyg/) · **Stripes:** [LY R O O G LY Y](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#8B6E00"></span><span class="seq">LY R O O G LY Y</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -913,7 +916,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Elystan Glodrydd (Name)](/setts/s7/w3g24r13g4lo11r8db2~x2/) — ΔT 1.58
 1. [Jacobite, Silk sash](/setts/s10/w2r8o5ly6w5g21w6r8r4w2/) — ΔT 1.65
 1. [Unidentified, Silk scarf](/setts/s10/w3r10o6ly8t8g32r8r10r6w3~x4/) — ΔT 1.78
-1. [Max Reger, The](/setts/s6/lg1r9lo9ly9lg6w1~x4/) — ΔT 1.80
+1. [Max Reger, The](/setts/s6/w1lg6ly9lo9r9lg1~x4/) — ΔT 1.80
 1. [Kipp](/setts/s7/db1ly7w1lo7g7m7w1~x2/) — ΔT 1.84
 1. [G P Bathija (Shikarpur, Sindh) Name Tartan Tartan Number: 10690. Earliest known date: 6 September 2012 This tartan was designed in Toronto, Canada by Hans Girdhari Bathija, Esq., born Feb 18, 1969, at Queen Mary's Maternity Home in Hampstead, London, England, United Kingdom. It is designed in honour of Mr. Girdhari Pribhdas Bathija, born to Mr. Pribhdas Jiwandas Bathija and Mrs. Laxmibai Bathija (née Chugh) on Feb. 6, 1940 in Shikarpur, Sindh, India (British) and Mrs. Susan Bathija, née Tan Saw Gaik, born to Mr. Tan Eng Hock and Ooi Cheng Kee on June 7, 1943 in Kampung Jawa, Butterworth, Province Wellesley, Penang, Straits Settlements, UK (Japanese Malai). It is to be worn primarily by their offspring, and their respective families. Other individuals who share the family name Bathija, or who are associated with a Bathija, are also invited to wear this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/ly4g18t4o8t8r21w1~x2/) — ΔT 1.86
 1. [Barbour - Muted](/setts/s7/ly4o21w2dt11ly21r2ly4~x2/) — ΔT 1.87
@@ -921,8 +924,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/lo7ly12dg30o12r14r11ly2~x2/"><circle cx="107.6" cy="153.8" r="4" fill="#3465a4"><title>Unidentified Silk Plaid #2</title></circle></a><a href="/setts/s10/lo22ly22dr2lb6dr2lo2dr16lg5lo8lb2~x2/"><circle cx="132.9" cy="134.1" r="4" fill="#3465a4"><title>Bruce of Kinnaird (Fashion)</title></circle></a><a href="/setts/s7/w3g24r13g4lo11r8db2~x2/"><circle cx="162.8" cy="166.1" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/setts/s10/w2r8o5ly6w5g21w6r8r4w2/"><circle cx="89.7" cy="138.0" r="4" fill="#3465a4"><title>Jacobite, Silk sash</title></circle></a><a href="/setts/s10/w3r10o6ly8t8g32r8r10r6w3~x4/"><circle cx="101.6" cy="127.9" r="4" fill="#3465a4"><title>Unidentified, Silk scarf</title></circle></a><a href="/setts/s6/lg1r9lo9ly9lg6w1~x4/"><circle cx="105.3" cy="194.7" r="4" fill="#3465a4"><title>Max Reger, The</title></circle></a><a href="/setts/s7/db1ly7w1lo7g7m7w1~x2/"><circle cx="41.1" cy="177.6" r="4" fill="#3465a4"><title>Kipp</title></circle></a><a href="/setts/s7/ly4g18t4o8t8r21w1~x2/"><circle cx="176.8" cy="149.3" r="4" fill="#3465a4"><title>G P Bathija (Shikarpur, Sindh) Name Tartan Tartan Number: 10690. Earliest known date: 6 September 2012 This tartan was designed in Toronto, Canada by Hans Girdhari Bathija, Esq., born Feb 18, 1969, at Queen Mary's Maternity Home in Hampstead, London, England, United Kingdom. It is designed in honour of Mr. Girdhari Pribhdas Bathija, born to Mr. Pribhdas Jiwandas Bathija and Mrs. Laxmibai Bathija (née Chugh) on Feb. 6, 1940 in Shikarpur, Sindh, India (British) and Mrs. Susan Bathija, née Tan Saw Gaik, born to Mr. Tan Eng Hock and Ooi Cheng Kee on June 7, 1943 in Kampung Jawa, Butterworth, Province Wellesley, Penang, Straits Settlements, UK (Japanese Malai). It is to be worn primarily by their offspring, and their respective families. Other individuals who share the family name Bathija, or who are associated with a Bathija, are also invited to wear this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/ly4o21w2dt11ly21r2ly4~x2/"><circle cx="149.0" cy="144.5" r="4" fill="#3465a4"><title>Barbour - Muted</title></circle></a><a href="/setts/s7/db2lo10lb1o8g7dr10lb2~x2/"><circle cx="64.3" cy="173.3" r="4" fill="#3465a4"><title>Kipp (Personal)</title></circle></a><circle cx="124.7" cy="165.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/lo7ly12dg30o12r14r11ly2~x2/"><circle cx="107.5" cy="153.9" r="4" fill="#3465a4"><title>Unidentified Silk Plaid #2</title></circle></a><a href="/setts/s10/lo22ly22dr2lb6dr2lo2dr16lg5lo8lb2~x2/"><circle cx="132.6" cy="134.3" r="4" fill="#3465a4"><title>Bruce of Kinnaird (Fashion)</title></circle></a><a href="/setts/s7/w3g24r13g4lo11r8db2~x2/"><circle cx="162.6" cy="166.2" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/setts/s10/w2r8o5ly6w5g21w6r8r4w2/"><circle cx="89.5" cy="138.1" r="4" fill="#3465a4"><title>Jacobite, Silk sash</title></circle></a><a href="/setts/s10/w3r10o6ly8t8g32r8r10r6w3~x4/"><circle cx="101.4" cy="128.1" r="4" fill="#3465a4"><title>Unidentified, Silk scarf</title></circle></a><a href="/setts/s6/w1lg6ly9lo9r9lg1~x4/"><circle cx="104.9" cy="194.8" r="4" fill="#3465a4"><title>Max Reger, The</title></circle></a><a href="/setts/s7/db1ly7w1lo7g7m7w1~x2/"><circle cx="40.9" cy="177.7" r="4" fill="#3465a4"><title>Kipp</title></circle></a><a href="/setts/s7/ly4g18t4o8t8r21w1~x2/"><circle cx="176.6" cy="149.5" r="4" fill="#3465a4"><title>G P Bathija (Shikarpur, Sindh) Name Tartan Tartan Number: 10690. Earliest known date: 6 September 2012 This tartan was designed in Toronto, Canada by Hans Girdhari Bathija, Esq., born Feb 18, 1969, at Queen Mary's Maternity Home in Hampstead, London, England, United Kingdom. It is designed in honour of Mr. Girdhari Pribhdas Bathija, born to Mr. Pribhdas Jiwandas Bathija and Mrs. Laxmibai Bathija (née Chugh) on Feb. 6, 1940 in Shikarpur, Sindh, India (British) and Mrs. Susan Bathija, née Tan Saw Gaik, born to Mr. Tan Eng Hock and Ooi Cheng Kee on June 7, 1943 in Kampung Jawa, Butterworth, Province Wellesley, Penang, Straits Settlements, UK (Japanese Malai). It is to be worn primarily by their offspring, and their respective families. Other individuals who share the family name Bathija, or who are associated with a Bathija, are also invited to wear this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/ly4o21w2dt11ly21r2ly4~x2/"><circle cx="148.7" cy="144.6" r="4" fill="#3465a4"><title>Barbour - Muted</title></circle></a><a href="/setts/s7/db2lo10lb1o8g7dr10lb2~x2/"><circle cx="64.2" cy="173.4" r="4" fill="#3465a4"><title>Kipp (Personal)</title></circle></a><circle cx="124.5" cy="165.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/y7ly12g30o12o14r11ly2~x2/

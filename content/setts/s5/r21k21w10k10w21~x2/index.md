@@ -50,21 +50,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Oakland Centre](/setts/s5/w3r2w1dt2r2~x4/) — ΔT 0.92
-1. [Quaboos Pipers Plaid](/setts/s4/w9g23r23w9~x2/) — ΔT 1.63
-1. [Harazeen](/setts/s8/r2g1w1k1r2g1w1k1~x20/) — ΔT 1.69
+1. [Oakland Centre](/setts/s5/w3r2w1dt2r2~x4/) — ΔT 0.93
+1. [Quaboos Pipers Plaid](/setts/s4/w9r23g23w9~x2/) — ΔT 1.63
+1. [Harazeen](/setts/s8/r2g1w1k1~x20/) — ΔT 1.69
 1. [SAL Glindrande Stiernan](/setts/s4/r3g1k3w1~x20/) — ΔT 1.88
 1. [Thomas Newcomen's Combustion Engine](/setts/s4/k7r5w3db2~x4/) — ΔT 1.91
-1. [Clark](/setts/s5/lb3k1dg1k1r3~x4/) — ΔT 1.92
+1. [Clark](/setts/s5/r3k1dg1k1lb3~x4/) — ΔT 1.92
 1. [Haggis Hostels](/setts/s4/r10t5lb5dt4~x8/) — ΔT 1.97
 1. [Bloomer-Alexander (Personal)](/setts/s4/o16dr21r32w16~x2/) — ΔT 2.00
-1. [Aquascutum](/setts/s3/db1w2dy1~x12/) — ΔT 2.03
+1. [Aquascutum](/setts/s3/dy1w2db1~x12/) — ΔT 2.03
 1. [Omani Regiment 2nd Pipe Sqn.](/setts/s6/g23r23w9r23g23w9~x2/) — ΔT 2.04
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/w3r2w1dt2r2~x4/"><circle cx="110.0" cy="292.8" r="4" fill="#3465a4"><title>Oakland Centre</title></circle></a><a href="/setts/s4/w9g23r23w9~x2/"><circle cx="121.3" cy="307.1" r="4" fill="#3465a4"><title>Quaboos Pipers Plaid</title></circle></a><a href="/setts/s8/r2g1w1k1r2g1w1k1~x20/"><circle cx="45.6" cy="269.4" r="4" fill="#3465a4"><title>Harazeen</title></circle></a><a href="/setts/s4/r3g1k3w1~x20/"><circle cx="103.2" cy="269.5" r="4" fill="#3465a4"><title>SAL Glindrande Stiernan</title></circle></a><a href="/setts/s4/k7r5w3db2~x4/"><circle cx="104.8" cy="271.5" r="4" fill="#3465a4"><title>Thomas Newcomen's Combustion Engine</title></circle></a><a href="/setts/s5/lb3k1dg1k1r3~x4/"><circle cx="74.3" cy="254.5" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/setts/s4/r10t5lb5dt4~x8/"><circle cx="113.2" cy="304.6" r="4" fill="#3465a4"><title>Haggis Hostels</title></circle></a><a href="/setts/s4/o16dr21r32w16~x2/"><circle cx="72.5" cy="320.3" r="4" fill="#3465a4"><title>Bloomer-Alexander (Personal)</title></circle></a><a href="/setts/s3/db1w2dy1~x12/"><circle cx="143.1" cy="336.5" r="4" fill="#3465a4"><title>Aquascutum</title></circle></a><a href="/setts/s6/g23r23w9r23g23w9~x2/"><circle cx="137.6" cy="303.0" r="4" fill="#3465a4"><title>Omani Regiment 2nd Pipe Sqn.</title></circle></a><circle cx="75.7" cy="306.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/w3r2w1dt2r2~x4/"><circle cx="109.9" cy="292.5" r="4" fill="#3465a4"><title>Oakland Centre</title></circle></a><a href="/setts/s4/w9r23g23w9~x2/"><circle cx="121.2" cy="306.9" r="4" fill="#3465a4"><title>Quaboos Pipers Plaid</title></circle></a><a href="/setts/s8/r2g1w1k1~x20/"><circle cx="45.5" cy="269.2" r="4" fill="#3465a4"><title>Harazeen</title></circle></a><a href="/setts/s4/r3g1k3w1~x20/"><circle cx="103.2" cy="269.4" r="4" fill="#3465a4"><title>SAL Glindrande Stiernan</title></circle></a><a href="/setts/s4/k7r5w3db2~x4/"><circle cx="104.9" cy="271.3" r="4" fill="#3465a4"><title>Thomas Newcomen's Combustion Engine</title></circle></a><a href="/setts/s5/r3k1dg1k1lb3~x4/"><circle cx="74.4" cy="254.3" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/setts/s4/r10t5lb5dt4~x8/"><circle cx="113.2" cy="304.5" r="4" fill="#3465a4"><title>Haggis Hostels</title></circle></a><a href="/setts/s4/o16dr21r32w16~x2/"><circle cx="72.6" cy="320.2" r="4" fill="#3465a4"><title>Bloomer-Alexander (Personal)</title></circle></a><a href="/setts/s3/dy1w2db1~x12/"><circle cx="143.1" cy="336.2" r="4" fill="#3465a4"><title>Aquascutum</title></circle></a><a href="/setts/s6/g23r23w9r23g23w9~x2/"><circle cx="137.5" cy="302.8" r="4" fill="#3465a4"><title>Omani Regiment 2nd Pipe Sqn.</title></circle></a><circle cx="75.6" cy="305.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/r21k21w10k10w21~x2/

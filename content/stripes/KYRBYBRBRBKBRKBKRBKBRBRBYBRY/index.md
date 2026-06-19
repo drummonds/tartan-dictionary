@@ -22,6 +22,6 @@ KYRBYBRBRBKBRKBKRBKBRBRBYBRY
 
 | Tartans |
 |---------------|
-| [James of Wales](/setts/s28/k4lo2r7db11lo1db11r7db4r3db6k1db6r3k1db11k1r3db6k1db6r3db4r7db11lo1db11r7lo2~x2/)|
-|![James of Wales example sett](/setts/s28/k4lo2r7db11lo1db11r7db4r3db6k1db6r3k1db11k1r3db6k1db6r3db4r7db11lo1db11r7lo2~x2/sett.png)|
+| [James of Wales](/setts/s28/db11k1r3db6k1db6r3db4r7db11lo1db11r7lo2k4/)|
+|![James of Wales example sett](/setts/s28/db11k1r3db6k1db6r3db4r7db11lo1db11r7lo2k4/sett.png)|
 

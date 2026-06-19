@@ -10,9 +10,3 @@ A family of [Clan Benyon](/clan/benyon/).
 
 <a class="tartan" href="/setts/s15/db22k1dg3db6k1db6dg3db4dg7db11ly1db11dg7ly2k6/"><img src="/setts/s15/db22k1dg3db6k1db6dg3db4dg7db11ly1db11dg7ly2k6/sett.png" alt="Benyon of Wales" width="240"><br>Benyon of Wales</a>
 
-## Other tartans
-
-<ul class="tartan-grid">
-<li><a class="tartan" href="/setts/s15/db22k1dg3db6k1db6dg3db4dg7db11ly1db11dg7ly2k4~x2/"><img src="/setts/s15/db22k1dg3db6k1db6dg3db4dg7db11ly1db11dg7ly2k4~x2/sett.png" alt="Benyon of Wales (Name)" width="140"><br>Benyon of Wales (Name)</a></li>
-</ul>
-

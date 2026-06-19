@@ -20,7 +20,7 @@ BWYR
 
 
 
-### DB W LY O <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#A65C11"></span><span class="seq">DB W LY O</span></span>
+### O LY W DB <span class="pat"><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="seq">O LY W DB</span></span>
 
 | Tartans |
 |---------------|

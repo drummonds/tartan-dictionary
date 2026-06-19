@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [12 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/10183/
 
 ## Thread count
-DO/4 Y4 DO10 K12 DO20 K20 DO34 K38 R4 K8 R4 K/40
+K/40 R4 K8 R4 K38 DO34 K20 DO20 K12 DO10 Y4 DO/4
 ![Sett](sett.png)
 
 ## Palette
@@ -29,19 +29,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Malt, The](/setts/s12/k20r2k4r2k19r17k10r10k6r5ly2r2~x2/) — ΔT 0.80
 1. [MacNicol](/setts/s12/r6dg1r6k4r1b1r1dg8r6k1r6dg1~x2/) — ΔT 1.25
-1. [Holy Sepulchre Corporate Tartan Tartan Number: 2161. Earliest known date: pre 2003 Information from Mr Scot Wilson, McCalls of Aberdeen. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s20/ly2w2r13k17r2k17w2ly4w2k17r2k17w2r13w2k17r2k17r13w2~x2/) — ΔT 1.29
+1. [MacNicol](/setts/s12/r6dg1r6k4r1b1r1dg8r6k1r6dg1/) — ΔT 1.25
+1. [Holy Sepulchre Corporate Tartan Tartan Number: 2161. Earliest known date: pre 2003 Information from Mr Scot Wilson, McCalls of Aberdeen. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s20/w2r13k17r2k17w2r13w2k17r2k17w2ly4w2k17r2k17r13w2ly2~x2/) — ΔT 1.29
 1. [Gary (Personal)](/setts/s11/dp2r1k4lo2k12lo8k12lo2k4lo1w2~x4/) — ΔT 1.30
-1. [Wcwm 1713](/setts/s11/ly3o26k12o3k16o4k16o3k12o26r3~x2/) — ΔT 1.32
+1. [Wcwm 1713](/setts/s11/r3o26k12o3k16o4k16o3k12o26ly3~x2/) — ΔT 1.32
 1. [Morrison LC](/setts/s9/dg9lr4dg15r17k5r7k5r32dg5~x2/) — ΔT 1.35
 1. [Morrison LC](/setts/s9/dg9lr4dg15r17k5r7k5r32dg5/) — ΔT 1.35
 1. [Walker, Evening (Name)](/setts/s12/o4k2r7k15r3k3r3k7r28dg7r6dg2~x2/) — ΔT 1.46
 1. [MacNicol D](/setts/s13/k2r10dg2r10dg13r2k6b2k8r10dg2r10k2~x2/) — ΔT 1.47
-1. [MacNicol D](/setts/s13/k2r10dg2r10dg13r2k6b2k8r10dg2r10k2/) — ΔT 1.47
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k20r2k4r2k19r17k10r10k6r5ly2r2~x2/"><circle cx="307.4" cy="171.4" r="4" fill="#3465a4"><title>Malt, The</title></circle></a><a href="/setts/s12/r6dg1r6k4r1b1r1dg8r6k1r6dg1~x2/"><circle cx="325.1" cy="193.6" r="4" fill="#3465a4"><title>MacNicol</title></circle></a><a href="/setts/s20/ly2w2r13k17r2k17w2ly4w2k17r2k17w2r13w2k17r2k17r13w2~x2/"><circle cx="291.2" cy="155.7" r="4" fill="#3465a4"><title>Holy Sepulchre Corporate Tartan Tartan Number: 2161. Earliest known date: pre 2003 Information from Mr Scot Wilson, McCalls of Aberdeen. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/dp2r1k4lo2k12lo8k12lo2k4lo1w2~x4/"><circle cx="311.8" cy="151.8" r="4" fill="#3465a4"><title>Gary (Personal)</title></circle></a><a href="/setts/s11/ly3o26k12o3k16o4k16o3k12o26r3~x2/"><circle cx="252.1" cy="191.3" r="4" fill="#3465a4"><title>Wcwm 1713</title></circle></a><a href="/setts/s9/dg9lr4dg15r17k5r7k5r32dg5~x2/"><circle cx="298.7" cy="201.2" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/setts/s9/dg9lr4dg15r17k5r7k5r32dg5/"><circle cx="298.7" cy="201.2" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/setts/s12/o4k2r7k15r3k3r3k7r28dg7r6dg2~x2/"><circle cx="324.8" cy="164.5" r="4" fill="#3465a4"><title>Walker, Evening (Name)</title></circle></a><a href="/setts/s13/k2r10dg2r10dg13r2k6b2k8r10dg2r10k2~x2/"><circle cx="236.3" cy="200.3" r="4" fill="#3465a4"><title>MacNicol D</title></circle></a><a href="/setts/s13/k2r10dg2r10dg13r2k6b2k8r10dg2r10k2/"><circle cx="236.3" cy="200.3" r="4" fill="#3465a4"><title>MacNicol D</title></circle></a><circle cx="321.3" cy="184.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k20r2k4r2k19r17k10r10k6r5ly2r2~x2/"><circle cx="307.2" cy="171.2" r="4" fill="#3465a4"><title>Malt, The</title></circle></a><a href="/setts/s12/r6dg1r6k4r1b1r1dg8r6k1r6dg1~x2/"><circle cx="324.8" cy="193.5" r="4" fill="#3465a4"><title>MacNicol</title></circle></a><a href="/setts/s12/r6dg1r6k4r1b1r1dg8r6k1r6dg1/"><circle cx="324.8" cy="193.5" r="4" fill="#3465a4"><title>MacNicol</title></circle></a><a href="/setts/s20/w2r13k17r2k17w2r13w2k17r2k17w2ly4w2k17r2k17r13w2ly2~x2/"><circle cx="291.0" cy="155.6" r="4" fill="#3465a4"><title>Holy Sepulchre Corporate Tartan Tartan Number: 2161. Earliest known date: pre 2003 Information from Mr Scot Wilson, McCalls of Aberdeen. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s11/dp2r1k4lo2k12lo8k12lo2k4lo1w2~x4/"><circle cx="311.6" cy="151.6" r="4" fill="#3465a4"><title>Gary (Personal)</title></circle></a><a href="/setts/s11/r3o26k12o3k16o4k16o3k12o26ly3~x2/"><circle cx="252.1" cy="191.1" r="4" fill="#3465a4"><title>Wcwm 1713</title></circle></a><a href="/setts/s9/dg9lr4dg15r17k5r7k5r32dg5~x2/"><circle cx="298.5" cy="201.1" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/setts/s9/dg9lr4dg15r17k5r7k5r32dg5/"><circle cx="298.5" cy="201.1" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/setts/s12/o4k2r7k15r3k3r3k7r28dg7r6dg2~x2/"><circle cx="324.7" cy="164.4" r="4" fill="#3465a4"><title>Walker, Evening (Name)</title></circle></a><a href="/setts/s13/k2r10dg2r10dg13r2k6b2k8r10dg2r10k2~x2/"><circle cx="236.2" cy="200.2" r="4" fill="#3465a4"><title>MacNicol D</title></circle></a><circle cx="321.2" cy="184.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/k20r2k4r2k19o17k10o10k6o5ly2o2~x2/

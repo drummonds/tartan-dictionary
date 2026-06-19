@@ -27,8 +27,8 @@ Grouped by stripe pattern — the 2 human-palette shadings of this band pattern,
 |---------------|
 | [Comyn](/setts/s8/k1r9dg2r2dg4lb1dg4r1~x2/)|
 |![Comyn example sett](/setts/s8/k1r9dg2r2dg4lb1dg4r1~x2/sett.png)|
-| [Cumming SM](/setts/s8/r3dg9lb1dg9r3dg6r18k2/)|
-|![Cumming SM example sett](/setts/s8/r3dg9lb1dg9r3dg6r18k2/sett.png)|
+| [Cumming SM](/setts/s8/r3dg9lb1dg9r3dg6r18k2~x2/)|
+|![Cumming SM example sett](/setts/s8/r3dg9lb1dg9r3dg6r18k2~x2/sett.png)|
 
 ### K R G R G W G R <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">K R G R G W G R</span></span>
 

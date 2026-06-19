@@ -2,7 +2,7 @@
 title: "Roscommon"
 date: 2023-03-18
 ---
-**Bands:** [BBBBBRBRRR](/stripes/bbbbbrbrrr/) · **Stripes:** [N N N N DR O DR R O R](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="seq">N N N N DR O DR R O R</span></span>
+**Bands:** [RRRBRBBBBB](/stripes/rrrbrbbbbb/) · **Stripes:** [R O R DR O DR N N N N](/stripes/stripes10/) <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="blk" style="background:#636363"></span><span class="seq">R O R DR O DR N N N N</span></span>
 
 
 This was sourced from weddslist.  It is a [10 band tartan](/bands/bands10/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-N/6 N24 N10 N24 DR12 LT10 DR12 R38 LT6 R/10
+R/10 LT6 R38 DR12 LT10 DR12 N24 N10 N24 N/6
 ![Sett](sett.png)
 
 ## Palette
@@ -902,12 +905,12 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Clare, County](/setts/s10/ly3dp2dg14r14dp2r14dp2dg14dp14r3~x2/) — ΔT 1.31
+1. [Clare, County](/setts/s10/r3dp14dg14dp2r14dp2r14dg14dp2ly3~x2/) — ΔT 1.31
 1. [Unidentified Scarlett #12](/setts/s12/r14g2dp10r2g14dp3g14r2dp10g2r14dp3~x2/) — ΔT 1.43
 1. [Poulter SG 101 (Fashion)](/setts/s13/lo25r8lo8r8lo8r46dy46r8dy46r46lo46r8lo8/) — ΔT 1.45
 1. [Hueg (Munich) Hunting (Personal)](/setts/s11/r10do10r4dg2r2do2r4dg12dp12dg3dp4~x2/) — ΔT 1.46
 1. [McCall/MacCall](/setts/s11/dr8k5dr8dg27dr13dg3dr13o27dr8o3dr3~x2/) — ΔT 1.46
-1. [Orban-Prentice (Personal)](/setts/s12/dg25db4r24db21dy25db4dg3db4dy25db21r24db4~x2/) — ΔT 1.47
+1. [Orban-Prentice (Personal)](/setts/s12/dg25db4r24db21dy25db4dg3~x2/) — ΔT 1.47
 1. [Fiddes](/setts/s8/g12r11p12r3r32p8g8p8~x2/) — ΔT 1.49
 1. [Ruben Delanghe (Personal)](/setts/s10/dg14k5db2r21dg18k4db18r9k2r12/) — ΔT 1.51
 1. [Glenmorangie #2](/setts/s11/dy6m2dy2m4dy13dy12o13m4o2m2o6~x2/) — ΔT 1.53
@@ -915,8 +918,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly3dp2dg14r14dp2r14dp2dg14dp14r3~x2/"><circle cx="232.1" cy="236.2" r="4" fill="#3465a4"><title>Clare, County</title></circle></a><a href="/setts/s12/r14g2dp10r2g14dp3g14r2dp10g2r14dp3~x2/"><circle cx="228.4" cy="225.3" r="4" fill="#3465a4"><title>Unidentified Scarlett #12</title></circle></a><a href="/setts/s13/lo25r8lo8r8lo8r46dy46r8dy46r46lo46r8lo8/"><circle cx="237.7" cy="227.2" r="4" fill="#3465a4"><title>Poulter SG 101 (Fashion)</title></circle></a><a href="/setts/s11/r10do10r4dg2r2do2r4dg12dp12dg3dp4~x2/"><circle cx="175.0" cy="238.7" r="4" fill="#3465a4"><title>Hueg (Munich) Hunting (Personal)</title></circle></a><a href="/setts/s11/dr8k5dr8dg27dr13dg3dr13o27dr8o3dr3~x2/"><circle cx="265.7" cy="214.5" r="4" fill="#3465a4"><title>McCall/MacCall</title></circle></a><a href="/setts/s12/dg25db4r24db21dy25db4dg3db4dy25db21r24db4~x2/"><circle cx="174.3" cy="220.1" r="4" fill="#3465a4"><title>Orban-Prentice (Personal)</title></circle></a><a href="/setts/s8/g12r11p12r3r32p8g8p8~x2/"><circle cx="265.2" cy="205.4" r="4" fill="#3465a4"><title>Fiddes</title></circle></a><a href="/setts/s10/dg14k5db2r21dg18k4db18r9k2r12/"><circle cx="242.8" cy="231.7" r="4" fill="#3465a4"><title>Ruben Delanghe (Personal)</title></circle></a><a href="/setts/s11/dy6m2dy2m4dy13dy12o13m4o2m2o6~x2/"><circle cx="182.0" cy="225.0" r="4" fill="#3465a4"><title>Glenmorangie #2</title></circle></a><a href="/setts/s9/lo3do2o14lo8do14dg16o13do2lo3~x2/"><circle cx="202.0" cy="231.2" r="4" fill="#3465a4"><title>Monaghan, County (District)</title></circle></a><circle cx="232.4" cy="235.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r3dp14dg14dp2r14dp2r14dg14dp2ly3~x2/"><circle cx="232.1" cy="236.3" r="4" fill="#3465a4"><title>Clare, County</title></circle></a><a href="/setts/s12/r14g2dp10r2g14dp3g14r2dp10g2r14dp3~x2/"><circle cx="228.1" cy="225.3" r="4" fill="#3465a4"><title>Unidentified Scarlett #12</title></circle></a><a href="/setts/s13/lo25r8lo8r8lo8r46dy46r8dy46r46lo46r8lo8/"><circle cx="237.4" cy="227.3" r="4" fill="#3465a4"><title>Poulter SG 101 (Fashion)</title></circle></a><a href="/setts/s11/r10do10r4dg2r2do2r4dg12dp12dg3dp4~x2/"><circle cx="175.1" cy="238.9" r="4" fill="#3465a4"><title>Hueg (Munich) Hunting (Personal)</title></circle></a><a href="/setts/s11/dr8k5dr8dg27dr13dg3dr13o27dr8o3dr3~x2/"><circle cx="265.6" cy="214.5" r="4" fill="#3465a4"><title>McCall/MacCall</title></circle></a><a href="/setts/s12/dg25db4r24db21dy25db4dg3~x2/"><circle cx="174.3" cy="220.2" r="4" fill="#3465a4"><title>Orban-Prentice (Personal)</title></circle></a><a href="/setts/s8/g12r11p12r3r32p8g8p8~x2/"><circle cx="264.9" cy="205.4" r="4" fill="#3465a4"><title>Fiddes</title></circle></a><a href="/setts/s10/dg14k5db2r21dg18k4db18r9k2r12/"><circle cx="242.8" cy="231.8" r="4" fill="#3465a4"><title>Ruben Delanghe (Personal)</title></circle></a><a href="/setts/s11/dy6m2dy2m4dy13dy12o13m4o2m2o6~x2/"><circle cx="181.9" cy="225.1" r="4" fill="#3465a4"><title>Glenmorangie #2</title></circle></a><a href="/setts/s9/lo3do2o14lo8do14dg16o13do2lo3~x2/"><circle cx="201.9" cy="231.3" r="4" fill="#3465a4"><title>Monaghan, County (District)</title></circle></a><circle cx="232.2" cy="235.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r5o3r19dr6o5dr6n12n5n12n3~x2/

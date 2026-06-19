@@ -2,7 +2,7 @@
 title: "Buchanan 2"
 date: 2023-03-18
 ---
-**Bands:** [BGKBKRWRKBKYKYKBKG](/stripes/bgkbkrwrkbkykykbkg/) · **Stripes:** [DB G K DB K R W R K DB K LY K LY K DB K G](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">DB G K DB K R W R K DB K LY K LY K DB K G</span></span>
+**Bands:** [GKBKYKYKBKRWRKBKGB](/stripes/gkbkykykbkrwrkbkgb/) · **Stripes:** [G K DB K LY K LY K DB K R W R K DB K G DB](/stripes/stripes18/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="seq">G K DB K LY K LY K DB K R W R K DB K G DB</span></span>
 
 
 This was sourced from weddslist.  It is a [18 band tartan](/bands/bands18/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-B/16 G24 K4 B16 K4 R32 LN4 R32 K4 B16 K4 Y24 K4 Y24 K4 B16 K4 G/48
+G/48 K4 B16 K4 Y24 K4 Y24 K4 B16 K4 R32 LN4 R32 K4 B16 K4 G24 B/16
 ![Sett](sett.png)
 
 ## Palette
@@ -913,19 +916,19 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Buchanan](/setts/s18/g23k3db9k3r20w3r20k3db9k3ly20k3ly20k3db9k3g23db9~x2/) — ΔT 0.74
 1. [Wilson's, No 152](/setts/s16/g3k2r12t9k2t9k16ly3k3w5k3g25r13k4r5w3~x2/) — ΔT 0.75
-1. [Buchanan (1850 - Clan)](/setts/s19/db9g23k3db9k3ly20k3ly20k3db9k3r20w3r20k3db9k3g23db9~x2/) — ΔT 0.81
+1. [Buchanan (1850 - Clan)](/setts/s19/db9g23k3db9k3r20w3r20k3db9k3ly20k3ly20k3db9k3g23db9~x2/) — ΔT 0.81
 1. [O'Farrell](/setts/s13/w2o14ly3k6w2k2w2k2g8y6k2y3w1~x2/) — ΔT 0.92
 1. [Buchanan Clan Tartan Tartan Number: 1947. Earliest known date: 1843 There is some discussion in the archives of the Scottish Tartans Society that suggests that McIan may be responsible for the change to an asymmetrical sett from Logan's earlier symmetrical version. However, it appears that Wilson, the foremost weaver of the time, may have agreed with McIan and favoured the unusual asymmetrical design. The last chief of the Buchanans died in 1682. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s18/g6k1db4k1ly6k1ly6k1db4k1r8w1r8k1db4k1g6db4~x2/) — ΔT 0.93
-1. [Wilson's No.227](/setts/s16/r26t7dp8ly3r3w3g20dp10w2dp10g20w3r3ly3dp8t7~x2/) — ΔT 0.96
+1. [Wilson's No.227](/setts/s16/r26t7dp8ly3r3w3g20dp10w2~x2/) — ΔT 0.96
 1. [Buchanan (Wilson)](/setts/s18/dg6k1db4k1ly6k1ly6k1db4k1r8w1r8k1db4k1dg6db4~x4/) — ΔT 0.97
 1. [Bonnie Prince Charlie (Hudson Bay)](/setts/s15/w9dy14do11dy3lo11ly7w1do3w1ly7dy7do3w2t2w2~x2/) — ΔT 0.99
 1. [Du Lion](/setts/s16/dy8db8dy3db1ly2dy10ly2db2ly15ly3k3ly15k1r3k8r8~x2/) — ΔT 1.02
-1. [Buchanan](/setts/s18/ly6k1db4k1r8lb1r8k1db4k1dg6db4dg6k1db4k1ly6k1/) — ΔT 1.03
+1. [Buchanan](/setts/s18/ly6k1db4k1r8lb1r8k1db4k1dg6db4dg6k1db4k1ly6k1~x2/) — ΔT 1.03
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/g23k3db9k3r20w3r20k3db9k3ly20k3ly20k3db9k3g23db9~x2/"><circle cx="28.6" cy="126.3" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/setts/s16/g3k2r12t9k2t9k16ly3k3w5k3g25r13k4r5w3~x2/"><circle cx="52.4" cy="105.9" r="4" fill="#3465a4"><title>Wilson's, No 152</title></circle></a><a href="/setts/s19/db9g23k3db9k3ly20k3ly20k3db9k3r20w3r20k3db9k3g23db9~x2/"><circle cx="23.2" cy="126.3" r="4" fill="#3465a4"><title>Buchanan (1850 - Clan)</title></circle></a><a href="/setts/s13/w2o14ly3k6w2k2w2k2g8y6k2y3w1~x2/"><circle cx="50.6" cy="109.3" r="4" fill="#3465a4"><title>O'Farrell</title></circle></a><a href="/setts/s18/g6k1db4k1ly6k1ly6k1db4k1r8w1r8k1db4k1g6db4~x2/"><circle cx="30.3" cy="129.6" r="4" fill="#3465a4"><title>Buchanan Clan Tartan Tartan Number: 1947. Earliest known date: 1843 There is some discussion in the archives of the Scottish Tartans Society that suggests that McIan may be responsible for the change to an asymmetrical sett from Logan's earlier symmetrical version. However, it appears that Wilson, the foremost weaver of the time, may have agreed with McIan and favoured the unusual asymmetrical design. The last chief of the Buchanans died in 1682. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/r26t7dp8ly3r3w3g20dp10w2dp10g20w3r3ly3dp8t7~x2/"><circle cx="89.7" cy="110.4" r="4" fill="#3465a4"><title>Wilson's No.227</title></circle></a><a href="/setts/s18/dg6k1db4k1ly6k1ly6k1db4k1r8w1r8k1db4k1dg6db4~x4/"><circle cx="31.6" cy="129.2" r="4" fill="#3465a4"><title>Buchanan (Wilson)</title></circle></a><a href="/setts/s15/w9dy14do11dy3lo11ly7w1do3w1ly7dy7do3w2t2w2~x2/"><circle cx="65.2" cy="112.2" r="4" fill="#3465a4"><title>Bonnie Prince Charlie (Hudson Bay)</title></circle></a><a href="/setts/s16/dy8db8dy3db1ly2dy10ly2db2ly15ly3k3ly15k1r3k8r8~x2/"><circle cx="38.6" cy="98.5" r="4" fill="#3465a4"><title>Du Lion</title></circle></a><a href="/setts/s18/ly6k1db4k1r8lb1r8k1db4k1dg6db4dg6k1db4k1ly6k1/"><circle cx="14.0" cy="123.7" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><circle cx="49.3" cy="105.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/g23k3db9k3r20w3r20k3db9k3ly20k3ly20k3db9k3g23db9~x2/"><circle cx="28.6" cy="126.5" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/setts/s16/g3k2r12t9k2t9k16ly3k3w5k3g25r13k4r5w3~x2/"><circle cx="52.4" cy="106.1" r="4" fill="#3465a4"><title>Wilson's, No 152</title></circle></a><a href="/setts/s19/db9g23k3db9k3r20w3r20k3db9k3ly20k3ly20k3db9k3g23db9~x2/"><circle cx="23.2" cy="126.5" r="4" fill="#3465a4"><title>Buchanan (1850 - Clan)</title></circle></a><a href="/setts/s13/w2o14ly3k6w2k2w2k2g8y6k2y3w1~x2/"><circle cx="50.6" cy="109.4" r="4" fill="#3465a4"><title>O'Farrell</title></circle></a><a href="/setts/s18/g6k1db4k1ly6k1ly6k1db4k1r8w1r8k1db4k1g6db4~x2/"><circle cx="30.3" cy="129.8" r="4" fill="#3465a4"><title>Buchanan Clan Tartan Tartan Number: 1947. Earliest known date: 1843 There is some discussion in the archives of the Scottish Tartans Society that suggests that McIan may be responsible for the change to an asymmetrical sett from Logan's earlier symmetrical version. However, it appears that Wilson, the foremost weaver of the time, may have agreed with McIan and favoured the unusual asymmetrical design. The last chief of the Buchanans died in 1682. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s16/r26t7dp8ly3r3w3g20dp10w2~x2/"><circle cx="89.6" cy="110.6" r="4" fill="#3465a4"><title>Wilson's No.227</title></circle></a><a href="/setts/s18/dg6k1db4k1ly6k1ly6k1db4k1r8w1r8k1db4k1dg6db4~x4/"><circle cx="31.5" cy="129.4" r="4" fill="#3465a4"><title>Buchanan (Wilson)</title></circle></a><a href="/setts/s15/w9dy14do11dy3lo11ly7w1do3w1ly7dy7do3w2t2w2~x2/"><circle cx="65.0" cy="112.3" r="4" fill="#3465a4"><title>Bonnie Prince Charlie (Hudson Bay)</title></circle></a><a href="/setts/s16/dy8db8dy3db1ly2dy10ly2db2ly15ly3k3ly15k1r3k8r8~x2/"><circle cx="38.5" cy="98.7" r="4" fill="#3465a4"><title>Du Lion</title></circle></a><a href="/setts/s18/ly6k1db4k1r8lb1r8k1db4k1dg6db4dg6k1db4k1ly6k1~x2/"><circle cx="14.0" cy="123.9" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><circle cx="49.2" cy="106.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s18/g12k1db4k1ly6k1ly6k1db4k1r8w1r8k1db4k1g6db4~x4/

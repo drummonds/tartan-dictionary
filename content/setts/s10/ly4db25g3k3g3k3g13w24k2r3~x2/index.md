@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -892,7 +895,7 @@ Other setts woven to the same stripe pattern.
 
 
 ## Thread count
-R/6 K4 LN48 G26 K6 G6 K6 G6 B50 Y/8
+Y/8 B50 G6 K6 G6 K6 G26 LN48 K4 R/6
 ![Sett](sett.png)
 
 ## Palette
@@ -919,13 +922,13 @@ The nearest existing variants by ΔTartan distance.
 1. [Gillies, Blue dress](/setts/s10/r7k2t16ly5t10k13w28g2w4g2~x2/) — ΔT 0.99
 1. [Kagame (Personal)](/setts/s10/ly5lb14k3ly7g3k3g7k6db24w3~x2/) — ΔT 1.01
 1. [Nova Scotia Dress](/setts/s11/db2w20r1ly2dg8g4dg2g2dg2db20w2~x2/) — ΔT 1.02
-1. [Glasgow, City of Culture](/setts/s11/ly6db2ly2db23k2w4k2g21r2g2r6~x2/) — ΔT 1.05
+1. [Glasgow, City of Culture](/setts/s11/r6g2r2g21k2w4k2db23ly2db2ly6~x2/) — ΔT 1.05
 1. [Gillies, dress Green](/setts/s10/ly6k2g15r6g8k12w25t2w3t2~x2/) — ΔT 1.13
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly4db22g3k3g3k3g12w22k2r3~x2/"><circle cx="73.5" cy="118.3" r="4" fill="#3465a4"><title>Californian MacLeod</title></circle></a><a href="/setts/s9/g5db22g6k10w24ly2db2w2r2~x2/"><circle cx="105.3" cy="117.6" r="4" fill="#3465a4"><title>Haymarket, dress Blue</title></circle></a><a href="/setts/s10/ly4b25g3k3g3k3g13w24k2r3~x2/"><circle cx="88.0" cy="109.5" r="4" fill="#3465a4"><title>MacLeod Special Dress (Dance)</title></circle></a><a href="/setts/s12/db3o2b12db14r2db4dy6o4w24r2w2db3~x2/"><circle cx="93.6" cy="101.8" r="4" fill="#3465a4"><title>Lashbrooke of Barrowfield (Personal)</title></circle></a><a href="/setts/s10/ly6k2t15r5t9k13w25db2w3db2~x2/"><circle cx="87.7" cy="114.8" r="4" fill="#3465a4"><title>Gillies, dress Blue</title></circle></a><a href="/setts/s10/r7k2t16ly5t10k13w28g2w4g2~x2/"><circle cx="101.6" cy="109.6" r="4" fill="#3465a4"><title>Gillies, Blue dress</title></circle></a><a href="/setts/s10/ly5lb14k3ly7g3k3g7k6db24w3~x2/"><circle cx="52.4" cy="140.5" r="4" fill="#3465a4"><title>Kagame (Personal)</title></circle></a><a href="/setts/s11/db2w20r1ly2dg8g4dg2g2dg2db20w2~x2/"><circle cx="138.4" cy="83.8" r="4" fill="#3465a4"><title>Nova Scotia Dress</title></circle></a><a href="/setts/s11/ly6db2ly2db23k2w4k2g21r2g2r6~x2/"><circle cx="129.8" cy="114.0" r="4" fill="#3465a4"><title>Glasgow, City of Culture</title></circle></a><a href="/setts/s10/ly6k2g15r6g8k12w25t2w3t2~x2/"><circle cx="84.7" cy="116.5" r="4" fill="#3465a4"><title>Gillies, dress Green</title></circle></a><circle cx="87.9" cy="109.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly4db22g3k3g3k3g12w22k2r3~x2/"><circle cx="73.5" cy="118.4" r="4" fill="#3465a4"><title>Californian MacLeod</title></circle></a><a href="/setts/s9/g5db22g6k10w24ly2db2w2r2~x2/"><circle cx="105.3" cy="117.6" r="4" fill="#3465a4"><title>Haymarket, dress Blue</title></circle></a><a href="/setts/s10/ly4b25g3k3g3k3g13w24k2r3~x2/"><circle cx="87.8" cy="109.6" r="4" fill="#3465a4"><title>MacLeod Special Dress (Dance)</title></circle></a><a href="/setts/s12/db3o2b12db14r2db4dy6o4w24r2w2db3~x2/"><circle cx="93.4" cy="101.9" r="4" fill="#3465a4"><title>Lashbrooke of Barrowfield (Personal)</title></circle></a><a href="/setts/s10/ly6k2t15r5t9k13w25db2w3db2~x2/"><circle cx="87.5" cy="114.8" r="4" fill="#3465a4"><title>Gillies, dress Blue</title></circle></a><a href="/setts/s10/r7k2t16ly5t10k13w28g2w4g2~x2/"><circle cx="101.4" cy="109.6" r="4" fill="#3465a4"><title>Gillies, Blue dress</title></circle></a><a href="/setts/s10/ly5lb14k3ly7g3k3g7k6db24w3~x2/"><circle cx="52.4" cy="140.5" r="4" fill="#3465a4"><title>Kagame (Personal)</title></circle></a><a href="/setts/s11/db2w20r1ly2dg8g4dg2g2dg2db20w2~x2/"><circle cx="138.2" cy="83.8" r="4" fill="#3465a4"><title>Nova Scotia Dress</title></circle></a><a href="/setts/s11/r6g2r2g21k2w4k2db23ly2db2ly6~x2/"><circle cx="129.8" cy="114.1" r="4" fill="#3465a4"><title>Glasgow, City of Culture</title></circle></a><a href="/setts/s10/ly6k2g15r6g8k12w25t2w3t2~x2/"><circle cx="84.5" cy="116.5" r="4" fill="#3465a4"><title>Gillies, dress Green</title></circle></a><circle cx="87.8" cy="109.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/ly4db25g3k3g3k3g13w24k2r3~x2/

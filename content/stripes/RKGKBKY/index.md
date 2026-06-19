@@ -38,8 +38,8 @@ Grouped by stripe pattern — the 3 human-palette shadings of this band pattern,
 |---------------|
 | [MacLeod, Macleod of Harris](/setts/s7/r3k2g15k10db20k2ly2~x2/)|
 |![MacLeod, Macleod of Harris example sett](/setts/s7/r3k2g15k10db20k2ly2~x2/sett.png)|
-| [MacLeod Small Clan Tartan Tartan Number: 15833. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/ly1k1db10k5g7k1r1~x2/)|
-|![MacLeod Small Clan Tartan Tartan Number: 15833. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/ly1k1db10k5g7k1r1~x2/sett.png)|
+| [MacLeod Small Clan Tartan Tartan Number: 15833. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r1k1g7k5db10k1ly1~x2/)|
+|![MacLeod Small Clan Tartan Tartan Number: 15833. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/r1k1g7k5db10k1ly1~x2/sett.png)|
 
 ### R K G K B K LY <span class="pat"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#466CC8"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">R K G K B K LY</span></span>
 

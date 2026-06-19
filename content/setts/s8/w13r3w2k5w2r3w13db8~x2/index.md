@@ -10,7 +10,7 @@ This was sourced from house-of-tartan.  It is a [8 band tartan](/bands/bands8/).
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6359
 
 ## Thread count
-DB/16 LN26 R6 LN4 K10 LN4 R6 LN/26
+LN/26 R6 LN4 K10 LN4 R6 LN26 DB/16
 ![Sett](sett.png)
 
 ## Palette
@@ -25,7 +25,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 # Sample pattern
 
-![Tartan detail](tartan.png "DB/16 LN26 R6 LN4 K10 LN4 R6 LN/26 tartan")
+![Tartan detail](tartan.png "LN/26 R6 LN4 K10 LN4 R6 LN26 DB/16 tartan")
 
 ## Nearest tartans
 
@@ -35,7 +35,7 @@ The nearest existing variants by ΔTartan distance.
 1. [Milne Royal Blue Dress (Dance)](/setts/s8/w12t2w12db17w12t2w5r2~x4/) — ΔT 1.12
 1. [Milne, dress](/setts/s8/w18db4w18r30w18db4w9p4/) — ΔT 1.15
 1. [Milne Dress Family Tartan Tartan Number: 634. Earliest known date: pre 2003 Milnes are usually regarded as being a Sept of the Gordons or of the Ogilvys. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/w18db4w18r30w18db4w9dp4/) — ΔT 1.15
-1. [Henderson Dress (Dance)](/setts/s9/lo1k3w2k1w5b1w3b3w1~x4/) — ΔT 1.20
+1. [Henderson Dress (Dance)](/setts/s9/w1b3w3b1w5k1w2k3lo1~x4/) — ΔT 1.20
 1. [Dijkgraaf, Markus Jack (Personal)](/setts/s10/w5k5w10r2w10dp8w15dp8lb3k3~x2/) — ΔT 1.38
 1. [MacPherson, Blue & White](/setts/s7/w5r3w26db21w3db8ly3~x2/) — ΔT 1.44
 1. [Unidentified (Shirt)](/setts/s6/w7db16w20db3w3ly3~x2/) — ΔT 1.44
@@ -44,8 +44,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w24n5w24db36w28n6w12r6/"><circle cx="262.8" cy="202.0" r="4" fill="#3465a4"><title>Milne Royal Blue Dress Fashion Tartan Tartan Number: 6547. Earliest known date: 01/01/2005 A Dance version of #634 (original Scottish Tartans Authority reference) reputed to be a personal tartan./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/w12t2w12db17w12t2w5r2~x4/"><circle cx="282.0" cy="188.4" r="4" fill="#3465a4"><title>Milne Royal Blue Dress (Dance)</title></circle></a><a href="/setts/s8/w18db4w18r30w18db4w9p4/"><circle cx="271.2" cy="190.1" r="4" fill="#3465a4"><title>Milne, dress</title></circle></a><a href="/setts/s8/w18db4w18r30w18db4w9dp4/"><circle cx="270.1" cy="189.2" r="4" fill="#3465a4"><title>Milne Dress Family Tartan Tartan Number: 634. Earliest known date: pre 2003 Milnes are usually regarded as being a Sept of the Gordons or of the Ogilvys. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/lo1k3w2k1w5b1w3b3w1~x4/"><circle cx="174.5" cy="205.2" r="4" fill="#3465a4"><title>Henderson Dress (Dance)</title></circle></a><a href="/setts/s10/w5k5w10r2w10dp8w15dp8lb3k3~x2/"><circle cx="190.1" cy="169.0" r="4" fill="#3465a4"><title>Dijkgraaf, Markus Jack (Personal)</title></circle></a><a href="/setts/s7/w5r3w26db21w3db8ly3~x2/"><circle cx="242.2" cy="178.1" r="4" fill="#3465a4"><title>MacPherson, Blue &amp; White</title></circle></a><a href="/setts/s6/w7db16w20db3w3ly3~x2/"><circle cx="286.5" cy="218.9" r="4" fill="#3465a4"><title>Unidentified (Shirt)</title></circle></a><a href="/setts/s9/w16db3w2db3w2db3r5db6w2~x4/"><circle cx="256.7" cy="181.1" r="4" fill="#3465a4"><title>Jeux Canada Games '87 (Corporate)</title></circle></a><a href="/setts/s7/w20g2w20k8r20g3r2~x2/"><circle cx="230.6" cy="167.0" r="4" fill="#3465a4"><title>Bull-Dog Sauce</title></circle></a><circle cx="246.9" cy="190.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w24n5w24db36w28n6w12r6/"><circle cx="262.4" cy="201.7" r="4" fill="#3465a4"><title>Milne Royal Blue Dress Fashion Tartan Tartan Number: 6547. Earliest known date: 01/01/2005 A Dance version of #634 (original Scottish Tartans Authority reference) reputed to be a personal tartan./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/w12t2w12db17w12t2w5r2~x4/"><circle cx="281.6" cy="188.0" r="4" fill="#3465a4"><title>Milne Royal Blue Dress (Dance)</title></circle></a><a href="/setts/s8/w18db4w18r30w18db4w9p4/"><circle cx="270.7" cy="189.9" r="4" fill="#3465a4"><title>Milne, dress</title></circle></a><a href="/setts/s8/w18db4w18r30w18db4w9dp4/"><circle cx="269.7" cy="188.9" r="4" fill="#3465a4"><title>Milne Dress Family Tartan Tartan Number: 634. Earliest known date: pre 2003 Milnes are usually regarded as being a Sept of the Gordons or of the Ogilvys. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/w1b3w3b1w5k1w2k3lo1~x4/"><circle cx="174.3" cy="204.9" r="4" fill="#3465a4"><title>Henderson Dress (Dance)</title></circle></a><a href="/setts/s10/w5k5w10r2w10dp8w15dp8lb3k3~x2/"><circle cx="189.7" cy="168.8" r="4" fill="#3465a4"><title>Dijkgraaf, Markus Jack (Personal)</title></circle></a><a href="/setts/s7/w5r3w26db21w3db8ly3~x2/"><circle cx="241.9" cy="177.8" r="4" fill="#3465a4"><title>MacPherson, Blue &amp; White</title></circle></a><a href="/setts/s6/w7db16w20db3w3ly3~x2/"><circle cx="286.1" cy="218.6" r="4" fill="#3465a4"><title>Unidentified (Shirt)</title></circle></a><a href="/setts/s9/w16db3w2db3w2db3r5db6w2~x4/"><circle cx="256.4" cy="180.8" r="4" fill="#3465a4"><title>Jeux Canada Games '87 (Corporate)</title></circle></a><a href="/setts/s7/w20g2w20k8r20g3r2~x2/"><circle cx="230.2" cy="166.8" r="4" fill="#3465a4"><title>Bull-Dog Sauce</title></circle></a><circle cx="246.5" cy="190.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/w13r3w2k5w2r3w13db8~x2/

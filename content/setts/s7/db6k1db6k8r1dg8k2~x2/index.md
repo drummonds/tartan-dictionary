@@ -2,7 +2,7 @@
 title: "Fletcher"
 date: 2023-03-18
 ---
-**Bands:** [BKBKRGK](/stripes/bkbkrgk/) · **Stripes:** [DB K DB K R DG K](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="seq">DB K DB K R DG K</span></span>
+**Bands:** [KGRKBKB](/stripes/kgrkbkb/) · **Stripes:** [K DG R K DB K DB](/stripes/stripes7/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">K DG R K DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [7 band tartan](/bands/bands7/).
@@ -88,14 +88,14 @@ The nearest existing variants by ΔTartan distance.
 1. [MacCallum](/setts/s7/dg8k2b1dg4k6db6k1~x2/) — ΔT 0.88
 1. [Baird](/setts/s8/db3k2db8k8dg8dp1dg1dp3~x2/) — ΔT 0.95
 1. [Fletcher C](/setts/s7/db6k1db6k8r1dg8r2/) — ΔT 0.99
-1. [MacKay](/setts/s6/dg3db14dg2k14dg14k3~x2/) — ΔT 1.07
+1. [Gunn](/setts/s6/dg2db12dg1k12dg12r2~x2/) — ΔT 1.01
+1. [MacKay](/setts/s6/k3dg14k14dg2db14dg3~x2/) — ΔT 1.07
 1. [Morrison](/setts/s6/k3dg14k14dg2db14r3/) — ΔT 1.07
-1. [Ferguson of Balquhidder](/setts/s6/dg2db12r1k12dg12k2/) — ΔT 1.11
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db6k1db6k8r1dg8k2/"><circle cx="196.8" cy="257.0" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/setts/s7/db6k1db6k8r1dg8r2~x2/"><circle cx="182.9" cy="251.1" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><a href="/setts/s6/k3dg14k14dg2db14r3~x2/"><circle cx="177.9" cy="259.9" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/setts/s8/db3k2db8k8dg8n1dg1n3~x2/"><circle cx="166.7" cy="241.8" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/setts/s7/dg8k2b1dg4k6db6k1~x2/"><circle cx="216.1" cy="256.2" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/setts/s8/db3k2db8k8dg8dp1dg1dp3~x2/"><circle cx="159.1" cy="238.6" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/setts/s7/db6k1db6k8r1dg8r2/"><circle cx="167.9" cy="243.1" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><a href="/setts/s6/dg3db14dg2k14dg14k3~x2/"><circle cx="230.9" cy="284.1" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/setts/s6/k3dg14k14dg2db14r3/"><circle cx="163.9" cy="252.7" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/setts/s6/dg2db12r1k12dg12k2/"><circle cx="209.6" cy="235.3" r="4" fill="#3465a4"><title>Ferguson of Balquhidder</title></circle></a><circle cx="204.9" cy="261.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db6k1db6k8r1dg8k2/"><circle cx="197.2" cy="257.1" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/setts/s7/db6k1db6k8r1dg8r2~x2/"><circle cx="183.2" cy="251.1" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><a href="/setts/s6/k3dg14k14dg2db14r3~x2/"><circle cx="178.3" cy="259.9" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/setts/s8/db3k2db8k8dg8n1dg1n3~x2/"><circle cx="167.1" cy="241.9" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/setts/s7/dg8k2b1dg4k6db6k1~x2/"><circle cx="216.5" cy="256.2" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/setts/s8/db3k2db8k8dg8dp1dg1dp3~x2/"><circle cx="159.4" cy="238.6" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/setts/s7/db6k1db6k8r1dg8r2/"><circle cx="168.2" cy="243.1" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><a href="/setts/s6/dg2db12dg1k12dg12r2~x2/"><circle cx="218.1" cy="235.5" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/setts/s6/k3dg14k14dg2db14dg3~x2/"><circle cx="231.3" cy="284.1" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/setts/s6/k3dg14k14dg2db14r3/"><circle cx="164.2" cy="252.7" r="4" fill="#3465a4"><title>Morrison</title></circle></a><circle cx="205.3" cy="261.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/db6k1db6k8r1dg8k2~x2/

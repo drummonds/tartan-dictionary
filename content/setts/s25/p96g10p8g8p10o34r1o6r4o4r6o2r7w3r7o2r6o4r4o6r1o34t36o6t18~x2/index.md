@@ -2,7 +2,7 @@
 title: "Unidentified 22"
 date: 2023-03-18
 ---
-**Bands:** [BGBGBRRRRRRRRWRRRRRRRRBRB](/stripes/bgbgbrrrrrrrrwrrrrrrrrbrb/) · **Stripes:** [P G P G P O R O R O R O R W R O R O R O R O T O T](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="seq">P G P G P O R O R O R O R W R O R O R O R O T O T</span></span>
+**Bands:** [BRBRRRRRRRRWRRRRRRRRBGBGB](/stripes/brbrrrrrrrrwrrrrrrrrbgbgb/) · **Stripes:** [T O T O R O R O R O R W R O R O R O R O P G P G P](/stripes/stripes25/) <span class="pat"><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#00879F"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#A65C11"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#AA2DBD"></span><span class="seq">T O T O R O R O R O R W R O R O R O R O P G P G P</span></span>
 
 
 This was sourced from weddslist.  It is a [25 band tartan](/bands/bands25/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -885,7 +888,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 998
 
 ## Thread count
-B/36 LT12 B72 LT68 R2 LT12 R8 LT8 R12 LT4 R14 LN6 R14 LT4 R12 LT8 R8 LT12 R2 LT68 P20 G16 P16 G20 P/192
+P/192 G20 P16 G16 P20 LT68 R2 LT12 R8 LT8 R12 LT4 R14 LN6 R14 LT4 R12 LT8 R8 LT12 R2 LT68 B72 LT12 B/36
 ![Sett](sett.png)
 
 ## Palette
@@ -907,8 +910,8 @@ The nearest existing variants by ΔTartan distance.
 1. [Arran - 1978 (Fashion)](/setts/s25/dp86g4dp4g4dp4g16r2g4r3g3r4g2r6w3r6g2r4g3r3g4r2g16dp24g4dp10/) — ΔT 1.24
 1. [Unidentified #5](/setts/s25/dp96dg10dp8dg8dp10dy34r1dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r1dy34t36dy6t18~x2/) — ΔT 1.33
 1. [Unidentified Plaid 5](/setts/s25/db2r2db2r2db6r5w2r75db13w5db9r2db45o1db3o2db2o3db1o10w2db10t2o14t2~x2/) — ΔT 1.52
-1. [Unidentified Cant #11](/setts/s48/t18dy6t36dy34r2dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r2dy34m10g4m8g6m99g6m8g4m10dy34r2dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r2dy34t36dy6/) — ΔT 1.82
-1. [Unidentified Cant #13](/setts/s34/r44m4db16r4m6db8m6r6db2r4db2r4db2r6w1g24t6w1t6g24w1r6db2r4db2r4db2r6m6db8m6r4db16m4~x2/) — ΔT 1.94
+1. [Unidentified Cant #11](/setts/s48/m99g6m8g4m10dy34r2dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r2dy34t36dy6t18/) — ΔT 1.82
+1. [Unidentified Cant #13](/setts/s34/r44m4db16r4m6db8m6r6db2r4db2r4db2r6w1g24t6w1/) — ΔT 1.94
 1. [Arran, Isle of (Strathmore)](/setts/s25/dp86n4dp4n4dp4k16r2k4r3k3r4k2r6w3r6k2r4k3r3k4r2k16n24k4n10~x2/) — ΔT 2.00
 1. [Isle of Arran (Lochcarron) (Fashion)](/setts/s25/dp40g2dp2g2dp2k7r1k2r2k2r2k1r3k2r3k1r2k2r2k2r1k7r10k2r4~x2/) — ΔT 2.03
 1. [Unidentified Plaid #11](/setts/s25/db2r2db2r2db6r5w2r75db13w5db9r2db45dy1db3dy2db2dy3db1dy10w2db10t2dy14t2~x2/) — ΔT 2.07
@@ -917,8 +920,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s25/dp86g4dp4g4dp4g16r2g4r3g3r4g2r6w3r6g2r4g3r3g4r2g16dp24g4dp10/"><circle cx="290.9" cy="20.7" r="4" fill="#3465a4"><title>Arran - 1978 (Fashion)</title></circle></a><a href="/setts/s25/dp96dg10dp8dg8dp10dy34r1dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r1dy34t36dy6t18~x2/"><circle cx="244.9" cy="28.7" r="4" fill="#3465a4"><title>Unidentified #5</title></circle></a><a href="/setts/s25/db2r2db2r2db6r5w2r75db13w5db9r2db45o1db3o2db2o3db1o10w2db10t2o14t2~x2/"><circle cx="310.2" cy="14.0" r="4" fill="#3465a4"><title>Unidentified Plaid 5</title></circle></a><a href="/setts/s48/t18dy6t36dy34r2dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r2dy34m10g4m8g6m99g6m8g4m10dy34r2dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r2dy34t36dy6/"><circle cx="245.7" cy="14.0" r="4" fill="#3465a4"><title>Unidentified Cant #11</title></circle></a><a href="/setts/s34/r44m4db16r4m6db8m6r6db2r4db2r4db2r6w1g24t6w1t6g24w1r6db2r4db2r4db2r6m6db8m6r4db16m4~x2/"><circle cx="207.9" cy="25.8" r="4" fill="#3465a4"><title>Unidentified Cant #13</title></circle></a><a href="/setts/s25/dp86n4dp4n4dp4k16r2k4r3k3r4k2r6w3r6k2r4k3r3k4r2k16n24k4n10~x2/"><circle cx="330.6" cy="55.0" r="4" fill="#3465a4"><title>Arran, Isle of (Strathmore)</title></circle></a><a href="/setts/s25/dp40g2dp2g2dp2k7r1k2r2k2r2k1r3k2r3k1r2k2r2k2r1k7r10k2r4~x2/"><circle cx="283.0" cy="26.8" r="4" fill="#3465a4"><title>Isle of Arran (Lochcarron) (Fashion)</title></circle></a><a href="/setts/s25/db2r2db2r2db6r5w2r75db13w5db9r2db45dy1db3dy2db2dy3db1dy10w2db10t2dy14t2~x2/"><circle cx="292.1" cy="14.0" r="4" fill="#3465a4"><title>Unidentified Plaid #11</title></circle></a><a href="/setts/s22/dp42dt3g1dt2r1dt2dp2db20dt1r2dt3g1dt2r1dt2dp2g3dt1g2lo1g2db2~x2/"><circle cx="364.2" cy="52.1" r="4" fill="#3465a4"><title>Monarch of the Glen</title></circle></a><a href="/setts/s15/o28r3dr2y2dr2r3y8o2dr8o5dr3w2dr2o3dr1~x2/"><circle cx="252.6" cy="90.3" r="4" fill="#3465a4"><title>Caithness</title></circle></a><circle cx="273.6" cy="36.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s25/dp86g4dp4g4dp4g16r2g4r3g3r4g2r6w3r6g2r4g3r3g4r2g16dp24g4dp10/"><circle cx="290.6" cy="20.9" r="4" fill="#3465a4"><title>Arran - 1978 (Fashion)</title></circle></a><a href="/setts/s25/dp96dg10dp8dg8dp10dy34r1dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r1dy34t36dy6t18~x2/"><circle cx="244.6" cy="28.9" r="4" fill="#3465a4"><title>Unidentified #5</title></circle></a><a href="/setts/s25/db2r2db2r2db6r5w2r75db13w5db9r2db45o1db3o2db2o3db1o10w2db10t2o14t2~x2/"><circle cx="309.8" cy="14.0" r="4" fill="#3465a4"><title>Unidentified Plaid 5</title></circle></a><a href="/setts/s48/m99g6m8g4m10dy34r2dy6r4dy4r6dy2r7w3r7dy2r6dy4r4dy6r2dy34t36dy6t18/"><circle cx="245.3" cy="14.0" r="4" fill="#3465a4"><title>Unidentified Cant #11</title></circle></a><a href="/setts/s34/r44m4db16r4m6db8m6r6db2r4db2r4db2r6w1g24t6w1/"><circle cx="207.6" cy="26.1" r="4" fill="#3465a4"><title>Unidentified Cant #13</title></circle></a><a href="/setts/s25/dp86n4dp4n4dp4k16r2k4r3k3r4k2r6w3r6k2r4k3r3k4r2k16n24k4n10~x2/"><circle cx="330.4" cy="55.2" r="4" fill="#3465a4"><title>Arran, Isle of (Strathmore)</title></circle></a><a href="/setts/s25/dp40g2dp2g2dp2k7r1k2r2k2r2k1r3k2r3k1r2k2r2k2r1k7r10k2r4~x2/"><circle cx="282.8" cy="27.0" r="4" fill="#3465a4"><title>Isle of Arran (Lochcarron) (Fashion)</title></circle></a><a href="/setts/s25/db2r2db2r2db6r5w2r75db13w5db9r2db45dy1db3dy2db2dy3db1dy10w2db10t2dy14t2~x2/"><circle cx="291.7" cy="14.0" r="4" fill="#3465a4"><title>Unidentified Plaid #11</title></circle></a><a href="/setts/s22/dp42dt3g1dt2r1dt2dp2db20dt1r2dt3g1dt2r1dt2dp2g3dt1g2lo1g2db2~x2/"><circle cx="364.0" cy="52.4" r="4" fill="#3465a4"><title>Monarch of the Glen</title></circle></a><a href="/setts/s15/o28r3dr2y2dr2r3y8o2dr8o5dr3w2dr2o3dr1~x2/"><circle cx="252.3" cy="90.5" r="4" fill="#3465a4"><title>Caithness</title></circle></a><circle cx="273.3" cy="36.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s25/p96g10p8g8p10o34r1o6r4o4r6o2r7w3r7o2r6o4r4o6r1o34t36o6t18~x2/

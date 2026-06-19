@@ -2,7 +2,7 @@
 title: "Laois"
 date: 2023-03-18
 ---
-**Bands:** [BBBBKGBGB](/stripes/bbbbkgbgb/) · **Stripes:** [DR DB DR DB K G DR G DR](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="seq">DR DB DR DB K G DR G DR</span></span>
+**Bands:** [BGBGKBBBB](/stripes/bgbgkbbbb/) · **Stripes:** [DR G DR G K DB DR DB DR](/stripes/stripes9/) <span class="pat"><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#55120C"></span><span class="seq">DR G DR G K DB DR DB DR</span></span>
 
 
 This was sourced from weddslist.  It is a [9 band tartan](/bands/bands9/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -902,21 +905,21 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 
 The nearest existing variants by ΔTartan distance.
 
-1. [Process Safety Solutions Ltd](/setts/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/) — ΔT 1.22
+1. [Process Safety Solutions Ltd](/setts/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/) — ΔT 1.23
 1. [Grass of Rasunda (2009), The](/setts/s7/k14dg7k2y8k4lo2k1~x4/) — ΔT 1.26
 1. [Duchess of York Family Tartan Tartan Number: 607. Earliest known date: 1941 Found in sample books. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/db1dr9g5dr1k5dr1g5dr9w1~x2/) — ΔT 1.36
 1. [Grass of Rasunda (Commemorative)](/setts/s7/k14dg7k2y8k4ly2k1~x4/) — ΔT 1.38
-1. [Episcopal Clergy](/setts/s11/dp1dg4dp1dg2dp1k8lb1k8dg7dp1k1~x4/) — ΔT 1.52
+1. [Episcopal Clergy](/setts/s11/k1dp1dg7k8lb1k8dp1dg2dp1dg4dp1~x4/) — ΔT 1.52
 1. [Joe Strummer Commemorative](/setts/s7/k3dy3y6k12y1dy2dy2~x4/) — ΔT 1.54
 1. [Bean Hunting Clan Tartan Tartan Number: 106. Earliest known date: 1987 The weaving and wearing of this tartan is 'Restricted'. This is not a legal definition and is applied by the Scottish Tartans Society irrespective of Design Patent or Copyright, in the spirit of a gentlemans agreement. Interested parties should contact the person listed under 'Source:' in this document. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/db6dg41db20r15dg41r15db6/) — ΔT 1.56
-1. [Brotherhood of the Kilt](/setts/s5/k10y4k1t2r1~x10/) — ΔT 1.57
 1. [Strath Halladale (Sutherland)](/setts/s8/dg5k15dg5k15dg19r2dg10b4~x2/) — ΔT 1.57
-1. [Daks, Blue Loden](/setts/s8/o5t13dr4r4dr27t3dr4o5/) — ΔT 1.62
+1. [Brotherhood of the Kilt](/setts/s5/k10y4k1t2r1~x10/) — ΔT 1.57
+1. [MacKintosh Hunting](/setts/s7/ly2dg12db6r3dg12r4db1~x2/) — ΔT 1.61
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/"><circle cx="294.1" cy="249.4" r="4" fill="#3465a4"><title>Process Safety Solutions Ltd</title></circle></a><a href="/setts/s7/k14dg7k2y8k4lo2k1~x4/"><circle cx="320.9" cy="221.1" r="4" fill="#3465a4"><title>Grass of Rasunda (2009), The</title></circle></a><a href="/setts/s9/db1dr9g5dr1k5dr1g5dr9w1~x2/"><circle cx="284.0" cy="209.5" r="4" fill="#3465a4"><title>Duchess of York Family Tartan Tartan Number: 607. Earliest known date: 1941 Found in sample books. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/k14dg7k2y8k4ly2k1~x4/"><circle cx="312.7" cy="218.0" r="4" fill="#3465a4"><title>Grass of Rasunda (Commemorative)</title></circle></a><a href="/setts/s11/dp1dg4dp1dg2dp1k8lb1k8dg7dp1k1~x4/"><circle cx="267.9" cy="210.3" r="4" fill="#3465a4"><title>Episcopal Clergy</title></circle></a><a href="/setts/s7/k3dy3y6k12y1dy2dy2~x4/"><circle cx="284.8" cy="206.1" r="4" fill="#3465a4"><title>Joe Strummer Commemorative</title></circle></a><a href="/setts/s7/db6dg41db20r15dg41r15db6/"><circle cx="306.4" cy="258.5" r="4" fill="#3465a4"><title>Bean Hunting Clan Tartan Tartan Number: 106. Earliest known date: 1987 The weaving and wearing of this tartan is 'Restricted'. This is not a legal definition and is applied by the Scottish Tartans Society irrespective of Design Patent or Copyright, in the spirit of a gentlemans agreement. Interested parties should contact the person listed under 'Source:' in this document. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s5/k10y4k1t2r1~x10/"><circle cx="357.1" cy="227.5" r="4" fill="#3465a4"><title>Brotherhood of the Kilt</title></circle></a><a href="/setts/s8/dg5k15dg5k15dg19r2dg10b4~x2/"><circle cx="281.3" cy="245.2" r="4" fill="#3465a4"><title>Strath Halladale (Sutherland)</title></circle></a><a href="/setts/s8/o5t13dr4r4dr27t3dr4o5/"><circle cx="307.8" cy="202.3" r="4" fill="#3465a4"><title>Daks, Blue Loden</title></circle></a><circle cx="326.6" cy="220.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/"><circle cx="294.1" cy="249.4" r="4" fill="#3465a4"><title>Process Safety Solutions Ltd</title></circle></a><a href="/setts/s7/k14dg7k2y8k4lo2k1~x4/"><circle cx="320.9" cy="221.0" r="4" fill="#3465a4"><title>Grass of Rasunda (2009), The</title></circle></a><a href="/setts/s9/db1dr9g5dr1k5dr1g5dr9w1~x2/"><circle cx="284.0" cy="209.6" r="4" fill="#3465a4"><title>Duchess of York Family Tartan Tartan Number: 607. Earliest known date: 1941 Found in sample books. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/k14dg7k2y8k4ly2k1~x4/"><circle cx="312.8" cy="217.9" r="4" fill="#3465a4"><title>Grass of Rasunda (Commemorative)</title></circle></a><a href="/setts/s11/k1dp1dg7k8lb1k8dp1dg2dp1dg4dp1~x4/"><circle cx="268.1" cy="210.3" r="4" fill="#3465a4"><title>Episcopal Clergy</title></circle></a><a href="/setts/s7/k3dy3y6k12y1dy2dy2~x4/"><circle cx="284.9" cy="206.1" r="4" fill="#3465a4"><title>Joe Strummer Commemorative</title></circle></a><a href="/setts/s7/db6dg41db20r15dg41r15db6/"><circle cx="306.4" cy="258.4" r="4" fill="#3465a4"><title>Bean Hunting Clan Tartan Tartan Number: 106. Earliest known date: 1987 The weaving and wearing of this tartan is 'Restricted'. This is not a legal definition and is applied by the Scottish Tartans Society irrespective of Design Patent or Copyright, in the spirit of a gentlemans agreement. Interested parties should contact the person listed under 'Source:' in this document. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/dg5k15dg5k15dg19r2dg10b4~x2/"><circle cx="281.5" cy="245.1" r="4" fill="#3465a4"><title>Strath Halladale (Sutherland)</title></circle></a><a href="/setts/s5/k10y4k1t2r1~x10/"><circle cx="357.1" cy="227.3" r="4" fill="#3465a4"><title>Brotherhood of the Kilt</title></circle></a><a href="/setts/s7/ly2dg12db6r3dg12r4db1~x2/"><circle cx="334.5" cy="226.4" r="4" fill="#3465a4"><title>MacKintosh Hunting</title></circle></a><circle cx="326.6" cy="220.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dr20db2dr5db5k18g5dr5g2dr15~x2/

@@ -2,7 +2,7 @@
 title: "Bailey Atlanta National"
 date: 2023-03-18
 ---
-**Bands:** [BKBKBBGKGKGKGKB](/stripes/bkbkbbgkgkgkgkb/) · **Stripes:** [DB K DB K DB DB DG K DG K DG K DG K DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DB K DB DB DG K DG K DG K DG K DB</span></span>
+**Bands:** [BKGKGKGKGBBKBKB](/stripes/bkgkgkgkgbbkbkb/) · **Stripes:** [DB K DG K DG K DG K DG DB DB K DB K DB](/stripes/stripes15/) <span class="pat"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#053819"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="seq">DB K DG K DG K DG K DG DB DB K DB K DB</span></span>
 
 
 This was sourced from weddslist.  It is a [15 band tartan](/bands/bands15/).
@@ -311,6 +311,7 @@ External register numbers recorded for this tartan.
 - Scottish Register of Tartans: [528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528)
 - Scottish Register of Tartans: [5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 - Scottish Register of Tartans: [530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530)
+- Scottish Register of Tartans: [532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=532)
 - Scottish Register of Tartans: [5431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5431)
 - Scottish Register of Tartans: [5457](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5457)
 - Scottish Register of Tartans: [567](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=567)
@@ -411,6 +412,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans Authority (ITI): 1684
 - Scottish Tartans Authority (ITI): 1685
 - Scottish Tartans Authority (ITI): 1687
+- Scottish Tartans Authority (ITI): 17
 - Scottish Tartans Authority (ITI): 1712
 - Scottish Tartans Authority (ITI): 1792
 - Scottish Tartans Authority (ITI): 1800
@@ -670,6 +672,7 @@ External register numbers recorded for this tartan.
 - Scottish Tartans World Register: 1690
 - Scottish Tartans World Register: 1692
 - Scottish Tartans World Register: 1693
+- Scottish Tartans World Register: 17
 - Scottish Tartans World Register: 1700
 - Scottish Tartans World Register: 1702
 - Scottish Tartans World Register: 171
@@ -904,7 +907,6 @@ The nearest existing variants by ΔTartan distance.
 
 1. [Forbes](/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2~x2/) — ΔT 0.96
 1. [Forbes](/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2/) — ΔT 0.96
-1. [Urquhart L](/setts/s13/dg8k1dg1k1dg1k8db8r1db8k8dg8k1dg1~x2/) — ΔT 0.99
 1. [Lorne, Louise of](/setts/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/) — ΔT 1.00
 1. [Lamberton (?)](/setts/s13/db30k5db5k5db5k24g24ly6g24k24db24k5db5/) — ΔT 1.00
 1. [Lochinvar Marine Harvest](/setts/s13/dg10k2dg2k2dg2k7db8p2db8k7dg8k2dg2~x2/) — ΔT 1.00
@@ -912,11 +914,12 @@ The nearest existing variants by ΔTartan distance.
 1. [Gordon](/setts/s13/db12k2db2k2db2k12dg12ly2dg12k12db11k2db2~x2/) — ΔT 1.04
 1. [MacKinlay (2/4 black stripes)](/setts/s15/db12k4db4k4db4k12g16k2r3k2g16k12db16k4db4/) — ΔT 1.06
 1. [Bailey Atlanta National](/setts/s15/db13k2db2k2db2db13g13k2g3k2g13k13g13k2db3~x2/) — ΔT 1.07
+1. [Murray](/setts/s13/db6k1db1k1db1k6dg6r2dg6k6db6k1db2~x2/) — ΔT 1.08
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2~x2/"><circle cx="190.9" cy="208.8" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2/"><circle cx="190.9" cy="208.8" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s13/dg8k1dg1k1dg1k8db8r1db8k8dg8k1dg1~x2/"><circle cx="197.5" cy="216.4" r="4" fill="#3465a4"><title>Urquhart L</title></circle></a><a href="/setts/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/"><circle cx="206.2" cy="208.2" r="4" fill="#3465a4"><title>Lorne, Louise of</title></circle></a><a href="/setts/s13/db30k5db5k5db5k24g24ly6g24k24db24k5db5/"><circle cx="187.1" cy="235.4" r="4" fill="#3465a4"><title>Lamberton (?)</title></circle></a><a href="/setts/s13/dg10k2dg2k2dg2k7db8p2db8k7dg8k2dg2~x2/"><circle cx="179.9" cy="252.0" r="4" fill="#3465a4"><title>Lochinvar Marine Harvest</title></circle></a><a href="/setts/s13/g4k1g1k1g1k8db8r1db8k8g8k1g1~x8/"><circle cx="214.6" cy="212.0" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/setts/s13/db12k2db2k2db2k12dg12ly2dg12k12db11k2db2~x2/"><circle cx="175.1" cy="230.1" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/setts/s15/db12k4db4k4db4k12g16k2r3k2g16k12db16k4db4/"><circle cx="190.6" cy="221.1" r="4" fill="#3465a4"><title>MacKinlay (2/4 black stripes)</title></circle></a><a href="/setts/s15/db13k2db2k2db2db13g13k2g3k2g13k13g13k2db3~x2/"><circle cx="215.0" cy="221.4" r="4" fill="#3465a4"><title>Bailey Atlanta National</title></circle></a><circle cx="207.7" cy="221.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2~x2/"><circle cx="191.2" cy="208.9" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s15/db8k1db2k1db2k6dg8k1lr2k1dg8k6db8k1db2/"><circle cx="191.2" cy="208.9" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/"><circle cx="206.4" cy="208.3" r="4" fill="#3465a4"><title>Lorne, Louise of</title></circle></a><a href="/setts/s13/db30k5db5k5db5k24g24ly6g24k24db24k5db5/"><circle cx="187.3" cy="235.5" r="4" fill="#3465a4"><title>Lamberton (?)</title></circle></a><a href="/setts/s13/dg10k2dg2k2dg2k7db8p2db8k7dg8k2dg2~x2/"><circle cx="180.2" cy="252.0" r="4" fill="#3465a4"><title>Lochinvar Marine Harvest</title></circle></a><a href="/setts/s13/g4k1g1k1g1k8db8r1db8k8g8k1g1~x8/"><circle cx="214.8" cy="212.1" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/setts/s13/db12k2db2k2db2k12dg12ly2dg12k12db11k2db2~x2/"><circle cx="175.5" cy="230.2" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/setts/s15/db12k4db4k4db4k12g16k2r3k2g16k12db16k4db4/"><circle cx="190.8" cy="221.2" r="4" fill="#3465a4"><title>MacKinlay (2/4 black stripes)</title></circle></a><a href="/setts/s15/db13k2db2k2db2db13g13k2g3k2g13k13g13k2db3~x2/"><circle cx="215.1" cy="221.5" r="4" fill="#3465a4"><title>Bailey Atlanta National</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6dg6r2dg6k6db6k1db2~x2/"><circle cx="172.4" cy="237.3" r="4" fill="#3465a4"><title>Murray</title></circle></a><circle cx="208.0" cy="221.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/db13k2db2k2db2db13dg13k2dg3k2dg13k13dg13k2db3~x2/

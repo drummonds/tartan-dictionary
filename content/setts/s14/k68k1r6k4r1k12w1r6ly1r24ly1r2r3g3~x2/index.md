@@ -2,7 +2,7 @@
 title: "Downs Dress (Personal)"
 date: 2023-03-18
 ---
-**Bands:** [GRRYRYRWKRKRKK](/stripes/grryryrwkrkrkk/) · **Stripes:** [G R R LY R LY R W K R K R K K](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="seq">G R R LY R LY R W K R K R K K</span></span>
+**Bands:** [KKRKRKWRYRYRRG](/stripes/kkrkrkwryryrrg/) · **Stripes:** [K K R K R K W R LY R LY R R G](/stripes/stripes14/) <span class="pat"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">K K R K R K W R LY R LY R R G</span></span>
 
 
 This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands14/).
@@ -10,7 +10,7 @@ This was sourced from tartans-authority.  It is a [14 band tartan](/bands/bands1
 Original link http://www.tartansauthority.com/tartan-ferret/display/8449/
 
 ## Thread count
-G/6 DR6 DR4 Y2 DR48 Y2 DR12 W2 K24 DR2 K8 DR12 K2 K/136
+K/136 K2 DR12 K8 DR2 K24 W2 DR12 Y2 DR48 Y2 DR4 DR6 G/6
 ![Sett](sett.png)
 
 ## Palette
@@ -29,7 +29,7 @@ Each colour and its ΔE from the base-6 reference it is a variant of.
 The nearest existing variants by ΔTartan distance.
 
 1. [Goldwire (2015)](/setts/s14/k3lo3k3lo3k3lo3k3lo3k36w1k2dt9r2dt1~x2/) — ΔT 1.18
-1. [Marsa Scout Group](/setts/s11/g4k1ly2k1g8k44r2db8k1k1r4~x2/) — ΔT 1.36
+1. [Marsa Scout Group](/setts/s11/r4k1k1db8r2k44g8k1ly2k1g4~x2/) — ΔT 1.36
 1. [American Heritage](/setts/s11/w5k2db14k4r8k4db4k80r6k4r4/) — ΔT 1.40
 1. [Calgary HOG (Corporate)](/setts/s9/lb4n6k4r2r10k44n1k1lb2~x2/) — ΔT 1.42
 1. [Longmount](/setts/s12/k48n4k6lb2k2r2k2n10o6k2o3r2~x2/) — ΔT 1.49
@@ -41,8 +41,8 @@ The nearest existing variants by ΔTartan distance.
 
 ## Neighbour map
 
-Every grey dot is one of 14313 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k3lo3k3lo3k3lo3k3lo3k36w1k2dt9r2dt1~x2/"><circle cx="425.9" cy="78.2" r="4" fill="#3465a4"><title>Goldwire (2015)</title></circle></a><a href="/setts/s11/g4k1ly2k1g8k44r2db8k1k1r4~x2/"><circle cx="421.2" cy="84.3" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/setts/s11/w5k2db14k4r8k4db4k80r6k4r4/"><circle cx="495.8" cy="107.8" r="4" fill="#3465a4"><title>American Heritage</title></circle></a><a href="/setts/s9/lb4n6k4r2r10k44n1k1lb2~x2/"><circle cx="431.0" cy="89.0" r="4" fill="#3465a4"><title>Calgary HOG (Corporate)</title></circle></a><a href="/setts/s12/k48n4k6lb2k2r2k2n10o6k2o3r2~x2/"><circle cx="431.3" cy="104.9" r="4" fill="#3465a4"><title>Longmount</title></circle></a><a href="/setts/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4/"><circle cx="446.2" cy="77.0" r="4" fill="#3465a4"><title>Watt (Corporate/Name)</title></circle></a><a href="/setts/s12/k86n6k4lb3k3r3k3n22o14k3o6lb4/"><circle cx="396.9" cy="88.6" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/setts/s21/dp3lo1k4dp1k4dp1k41dp1k4dp1k4o15lo1o3lo2o3lo3o1lo6k1w2~x2/"><circle cx="370.7" cy="50.7" r="4" fill="#3465a4"><title>New Star</title></circle></a><a href="/setts/s16/r100db6k14ly2k3lb3k4dg14r6k3r3lb2r3k3r6dg14~x2/"><circle cx="416.9" cy="22.4" r="4" fill="#3465a4"><title>Wcwm 1438</title></circle></a><a href="/setts/s10/n24lo2n4lo1n3k3dg1k50r1r3~x2/"><circle cx="409.8" cy="79.2" r="4" fill="#3465a4"><title>Coleburn (Corporate)</title></circle></a><circle cx="469.3" cy="69.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k3lo3k3lo3k3lo3k3lo3k36w1k2dt9r2dt1~x2/"><circle cx="425.6" cy="78.1" r="4" fill="#3465a4"><title>Goldwire (2015)</title></circle></a><a href="/setts/s11/r4k1k1db8r2k44g8k1ly2k1g4~x2/"><circle cx="421.0" cy="84.2" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/setts/s11/w5k2db14k4r8k4db4k80r6k4r4/"><circle cx="495.6" cy="107.7" r="4" fill="#3465a4"><title>American Heritage</title></circle></a><a href="/setts/s9/lb4n6k4r2r10k44n1k1lb2~x2/"><circle cx="430.8" cy="88.9" r="4" fill="#3465a4"><title>Calgary HOG (Corporate)</title></circle></a><a href="/setts/s12/k48n4k6lb2k2r2k2n10o6k2o3r2~x2/"><circle cx="431.1" cy="104.8" r="4" fill="#3465a4"><title>Longmount</title></circle></a><a href="/setts/s12/k96db8k12dp3k3dp3k3g20r8k3r4w4/"><circle cx="446.0" cy="76.9" r="4" fill="#3465a4"><title>Watt (Corporate/Name)</title></circle></a><a href="/setts/s12/k86n6k4lb3k3r3k3n22o14k3o6lb4/"><circle cx="396.7" cy="88.5" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/setts/s21/dp3lo1k4dp1k4dp1k41dp1k4dp1k4o15lo1o3lo2o3lo3o1lo6k1w2~x2/"><circle cx="370.5" cy="50.7" r="4" fill="#3465a4"><title>New Star</title></circle></a><a href="/setts/s16/r100db6k14ly2k3lb3k4dg14r6k3r3lb2r3k3r6dg14~x2/"><circle cx="416.5" cy="22.4" r="4" fill="#3465a4"><title>Wcwm 1438</title></circle></a><a href="/setts/s10/n24lo2n4lo1n3k3dg1k50r1r3~x2/"><circle cx="409.7" cy="79.2" r="4" fill="#3465a4"><title>Coleburn (Corporate)</title></circle></a><circle cx="469.0" cy="69.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/k68k1r6k4r1k12w1r6ly1r24ly1r2r3g3~x2/

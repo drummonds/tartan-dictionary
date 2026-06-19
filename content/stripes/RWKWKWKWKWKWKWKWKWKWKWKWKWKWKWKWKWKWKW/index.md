@@ -22,6 +22,6 @@ RWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKW
 
 | Tartans |
 |---------------|
-| [Kerr Shepherd's Plaid](/setts/s38/r1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1~x8/)|
-|![Kerr Shepherd's Plaid example sett](/setts/s38/r1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1~x8/sett.png)|
+| [Kerr Shepherd's Plaid](/setts/s38/r1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1~x8/)|
+|![Kerr Shepherd's Plaid example sett](/setts/s38/r1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1~x8/sett.png)|
 
